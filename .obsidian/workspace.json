@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "6e20c399c8744d13",
+    "type": "split",
+    "children": [
+      {
+        "id": "e304910abb3a904f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80482db315f0b5b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World History/People and Cultures/The Sestaran Concord/The Grand Duchy of Fiorenzia/The Grand Duchy of Fiorenzia Overview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fa81aeb3911a6c1c",
+    "type": "split",
+    "children": [
+      {
+        "id": "45511ff50990732c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee4a227e85c9c6ec",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "236becb9f504ae2f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e2fda5190e1a9e04",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a7ceb81689aaecd5",
+    "type": "split",
+    "children": [
+      {
+        "id": "c23e82e67e89163d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9bf795e156a242ea",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "World History/People and Cultures/The Sestaran Concord/The Grand Duchy of Fiorenzia/The Grand Duchy of Fiorenzia Overview.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "da13969270a23e2d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "World History/People and Cultures/The Sestaran Concord/The Grand Duchy of Fiorenzia/The Grand Duchy of Fiorenzia Overview.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "699b5971b0c19216",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "221ad566427cb6b8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "World History/People and Cultures/The Sestaran Concord/The Grand Duchy of Fiorenzia/The Grand Duchy of Fiorenzia Overview.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "80482db315f0b5b4",
+  "lastOpenFiles": [
+    "GameBibleV2",
+    "World History/People and Cultures/The Sestaran Concord/The Grand Duchy of Fiorenzia/Medori family Overview.md",
+    "World History/People and Cultures/The Sestaran Concord/The Grand Duchy of Fiorenzia/Debtors’ Corps.md",
+    "World History/People and Cultures/The Sestaran Concord/The Grand Duchy of Fiorenzia/Medori Bank.md",
+    "World History/People and Cultures/The Sestaran Concord/The Grand Duchy of Fiorenzia/The Grand Duchy of Fiorenzia Overview.md",
+    "World History/People and Cultures/The Thalmyric Empire/The Thalmyric Empire Overview.md",
+    "World History/People and Cultures/The Thalmyric Empire/Dossier - The Thalmyric Empire.md",
+    "World History/People and Cultures/The Sestaran Concord/The Sestaran Concord Overview.md",
+    "World History/People and Cultures/The Sestaran Concord/The Grand Duchy of Fiorenzia",
+    "World History/Untitled.md",
+    "World History/Modern History.md",
+    "World History/People and Cultures/World History.md",
+    "World History/People and Cultures/Eclessia/Eclessian Military Orders.md",
+    "World History/People and Cultures/Eclessia/Eclessia Overview.md",
+    "World History/People and Cultures/The Fäskogarfolk/Ättar/Ättar Overview.md",
+    "World History/People and Cultures/Eclessia/Eclessian Church Overview.md",
+    "World History/People and Cultures/The Thalmyric Empire/Thalmyric Church Overview.md",
+    "World History/People and Cultures/The Thalmyric Empire/Thalmyric Military Orders.md",
+    "World History/People and Cultures/Eclessia/Eclessian Church Architecture.md",
+    "World History/People and Cultures/The Thalmyric Empire/Thalmyric Church Architecture.md",
+    "World History/People and Cultures/The Rise of the Redeemer.md",
+    "World History/People and Cultures/Eclessia/Territories inside Eclessia.md",
+    "World History/People and Cultures/Eclessia/attachments/2024-09-09_16-21-31_8018.png",
+    "World History/People and Cultures/Eclessia/attachments/2024-09-09_16-22-21_9272.png",
+    "World History/People and Cultures/Eclessia/attachments/2024-09-09_16-33-09_5572.png",
+    "World History/People and Cultures/Eclessia/attachments/2024-09-09_16-34-04_2492.png",
+    "World History/People and Cultures/Eclessia/_old/Dossier - Eclessia.md",
+    "World History/People and Cultures/Eclessia/_old",
+    "World History/People and Cultures/Eclessia/_old/The Heartlands/Heartlands Overview.md",
+    "World History/People and Cultures/Eclessia/_old/The Frontiers/Frontiers Overview.md",
+    "World History/People and Cultures/Eclessia/_old/The Hinterlands/Hinterlands Overview.md",
+    "World History/People and Cultures/Eclessia/_old/The Eclessian Imperium Overview.md",
+    "World History/People and Cultures/The Fäskogarfolk/Enaidfae",
+    "World History/People and Cultures/The Fäskogarfolk/Ättar",
+    "World History/People and Cultures/The Thalmyric Empire/attachments/2024-09-09_18-27-38_5752.png",
+    "World History/People and Cultures/The Thalmyric Empire/attachments/2024-09-09_18-26-41_1195.png",
+    "World History/People and Cultures/The Thalmyric Empire/attachments/2024-09-09_17-24-07_2158.png",
+    "World History/People and Cultures/The Thalmyric Empire/attachments/2024-09-09_17-23-04_8150.png",
+    "World History/People and Cultures/The Thalmyric Empire/attachments/2024-09-09_17-04-53_6625.png",
+    "World History/People and Cultures/The Thalmyric Empire/attachments/2024-09-09_17-03-48_3502.png",
+    "World History/People and Cultures/The Thalmyric Empire/attachments",
+    "World History/People and Cultures/The Fäskogarfolk/attachments",
+    "World History/People and Cultures/Eclessia/attachments",
+    "World History/People and Cultures/The Sestaran Concord/attachments",
+    "World History/People and Cultures/The Atherian Empire/attachments",
+    "World History/People and Cultures/Jirahar/attachments"
+  ]
+}
