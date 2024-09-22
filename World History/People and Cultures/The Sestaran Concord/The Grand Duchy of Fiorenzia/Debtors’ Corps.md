@@ -73,9 +73,7 @@ Perhaps the most notorious role of the Debtors’ Corps is that of **debt collec
 One of the most powerful tools used by the Debtors' Corps is the **Arcane Debt Contract**, a magical agreement that binds each member of the Corps to their **financial obligations**. These contracts are **signed in blood**, and they are enforced through powerful **sigils** and **runes** that mark the debtor’s body. The contracts are nearly impossible to break, ensuring that soldiers remain in the Corps until their debt is fully repaid—or they die in service.
 
 - **Sigils of Debt**: Each debtor in the Corps bears a **magical sigil** somewhere on their body, a mark that tracks their debt and binds their **life force** to the Medori Bank. This sigil ensures loyalty, as any attempt to **flee or betray** the Bank results in the **activation of the sigil**, causing **intense pain** or even **death**.
-- **Magical Enforcement**: The Medori Bank employs a group
-
- of **warlocks and enchanters** who manage these contracts, ensuring that the Corps remains loyal and functional. These warlocks can also increase or decrease a debtor’s burden through **ritual magic**, often used as a form of control.
+- **Magical Enforcement**: The Medori Bank employs a group of **warlocks and enchanters** who manage these contracts, ensuring that the Corps remains loyal and functional. These warlocks can also increase or decrease a debtor’s burden through **ritual magic**, often used as a form of control.
 
 ---
 
