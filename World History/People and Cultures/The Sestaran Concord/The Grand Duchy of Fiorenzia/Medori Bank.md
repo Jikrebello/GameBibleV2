@@ -69,9 +69,7 @@ In **Thalmyria**, the Bank plays both sides of the conflict between the **Ahl-e-
 Within the **Sestaran Peninsula**, the Medori Bank uses its wealth and power to **manipulate rival city-states**. By providing **loans** and **financial backing** to mercenary companies, the Medori Bank fuels the **constant conflicts** between the Concord’s city-states, ensuring that Fiorenzia remains at the top of the economic hierarchy.
 
 - **Mercenary Control**: The Bank often funds **mercenary armies** in rival city-states, offering **better terms** to mercenary captains than local governments can provide. This allows the Bank to **control the flow of power** in times of conflict.
-- **Infrastructure Projects**: By financing **infrastructure** in cities like **Venara** and **Viscara**, the Bank ensures that the Concord’s city-states are constantly in debt to Fiorenzia, preventing them from rising
-
- too far above their station.
+- **Infrastructure Projects**: By financing **infrastructure** in cities like **Venara** and **Viscara**, the Bank ensures that the Concord’s city-states are constantly in debt to Fiorenzia, preventing them from rising too far above their station.
 
 ---
 
@@ -89,5 +87,3 @@ The influence of the **Medori Bank** stretches across the known world. Whether t
 ### **Summary**
 
 The **Medori Bank** is the ultimate force of **wealth**, **manipulation**, and **intrigue**. From the **inner circle of the Medori family** to the **Debtors’ Corps**, the Bank’s operations are vast and far-reaching. Whether funding the wars of kings, manipulating the politics of city-states, or pulling the strings behind grand conspiracies, the Medori Bank always operates with a singular goal: **to ensure the Medori family remains the wealthiest and most powerful entity in the world**.
-
-Let me know if you want to explore any specific aspects further!
