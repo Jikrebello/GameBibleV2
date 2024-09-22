@@ -7,7 +7,7 @@ These city-states are known for their shifting alliances, political intrigue, an
 
 ---
 
-### **1. The Grand Duchy of Fiorenzia**
+### **1. [The Grand Duchy of Fiorenzia](The%20Grand%20Duchy%20of%20Fiorenzia%20Overview.md)**
 
 **Capital**: **Fiorenzia**  
 **Territory**: The **Fiorenzian Highlands**, a prosperous region of fertile hills and rivers.  
@@ -27,7 +27,7 @@ The city-state’s wealth is derived from its **banking system**, which has expa
 
 ---
 
-### **2. The Principality of Aversia**
+### **2. [The Principality of Aversia](The%20Principality%20of%20Aversia%20Overview.md)**
 
 **Capital**: **Aversia**  
 **Territory**: The **Iron Foothills**, rich in iron, coal, and other natural resources.  
