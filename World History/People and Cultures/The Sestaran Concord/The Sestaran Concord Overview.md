@@ -1,4 +1,4 @@
-![](2024-09-09_17-09-10_8013.png)
+	![](2024-09-09_17-09-10_8013.png)
 ![](2024-09-09_17-11-56_8477.png)
 
 The **Sestaran Concord** is a volatile and highly competitive region dominated by powerful **city-states**, each vying for influence, wealth, and dominance. The **Sestaran peninsula** stretches along the fertile coasts and inland territories near the **Thalassian Sea**, giving the cities immense economic power through trade, maritime prowess, and cultural contributions. The city-states are fiercely independent, resisting influence from powers in **Eclessia** and the **Thalmyric Empire**, though they often engage in diplomatic relations and conflicts with both empires.
@@ -47,7 +47,7 @@ Aversia’s economy is driven by its **iron mines** and **forges**, where weapon
 
 ---
 
-### **3. The Viscaran Republic **
+### **3. The Viscaran Republic**
 
 **Capital**: **Viscara**  
 **Territory**: The **Viscaran Coast**, a strategic region along the Thalassian Sea.  
