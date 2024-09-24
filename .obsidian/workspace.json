@@ -8,12 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9b2bdffc52ad7211",
+            "id": "75777543d86f2e3a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World History/People and Cultures/The Sestaran Concord/The Citadel of Vorthara/The Citadel of Vorthara Overview.md",
+                "file": "World History/People and Cultures/The Sestaran Concord/The Citadel of Vorthara/The Crafters’ Union and The Elixirium.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "138fe1671aeb316b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World History/People and Cultures/The Sestaran Concord/The Citadel of Vorthara/The Ironbound Guild.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World History/People and Cultures/The Sestaran Concord/The Citadel of Vorthara/The Citadel of Vorthara Overview.md",
+                "file": "World History/People and Cultures/The Sestaran Concord/The Citadel of Vorthara/The Crafters’ Union and The Elixirium.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World History/People and Cultures/The Sestaran Concord/The Citadel of Vorthara/The Citadel of Vorthara Overview.md",
+                "file": "World History/People and Cultures/The Sestaran Concord/The Citadel of Vorthara/The Crafters’ Union and The Elixirium.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World History/People and Cultures/The Sestaran Concord/The Citadel of Vorthara/The Citadel of Vorthara Overview.md"
+                "file": "World History/People and Cultures/The Sestaran Concord/The Citadel of Vorthara/The Crafters’ Union and The Elixirium.md"
               }
             }
           }
@@ -147,19 +159,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9b2bdffc52ad7211",
+  "active": "75777543d86f2e3a",
   "lastOpenFiles": [
-    "World History/People and Cultures/The Sestaran Concord/The Sestaran Concord Overview.md",
+    "World History/People and Cultures/The Sestaran Concord/The Citadel of Vorthara/Magical Schools and Factions of Vorthara.md",
+    "World History/People and Cultures/The Sestaran Concord/The Citadel of Vorthara/The Crafters’ Union and The Elixirium.md",
+    "World History/People and Cultures/The Sestaran Concord/The Citadel of Vorthara/The Ironbound Guild.md",
+    "World History/People and Cultures/The Sestaran Concord/The Citadel of Vorthara/The Fleshweavers and The Red Covenant.md",
+    "World History/People and Cultures/The Sestaran Concord/The Citadel of Vorthara/The Nightveil Coven.md",
     "World History/People and Cultures/The Sestaran Concord/The Citadel of Vorthara/The Citadel of Vorthara Overview.md",
+    "World History/Untitled.md",
+    "World History/People and Cultures/The Atherian Empire/Overview of the Astratheon Religion.md",
+    "World History/People and Cultures/The Atherian Empire/Atherian Astrology System.md",
+    "World History/People and Cultures/Eclessia/Territories inside Eclessia.md",
+    "World History/People and Cultures/The Sestaran Concord/The Principality of Aversia/House of Soran Overview.md",
+    "World History/People and Cultures/The Sestaran Concord/The Principality of Aversia/Soran Family Dynamics Overview.md",
+    "World History/People and Cultures/The Sestaran Concord/The Sestaran Concord Overview.md",
     "World History/People and Cultures/The Sestaran Concord/The Citadel of Vorthara",
     "World History/People and Cultures/The Sestaran Concord/The Grand Duchy of Fiorenzia/The Grand Duchy of Fiorenzia Overview.md",
     "World Map/SejamFinal.png",
     "World History/People and Cultures/The Sestaran Concord/The Principality of Aversia/The Principality of Aversia Overview.md",
     "World Map/Known World phase 1.png",
-    "World History/People and Cultures/The Sestaran Concord/The Principality of Aversia/Soran Family Dynamics Overview.md",
-    "World History/Untitled.md",
     "World History/People and Cultures/The Sestaran Concord/The Principality of Aversia/Soran Rivalries and Tensions with Other Noble Families.md",
-    "World History/People and Cultures/The Sestaran Concord/The Principality of Aversia/House of Soran Overview.md",
     "World History/People and Cultures/The Sestaran Concord/The Grand Duchy of Fiorenzia/Debtors’ Corps.md",
     "World History/People and Cultures/The Sestaran Concord/The Grand Duchy of Fiorenzia/Medori Bank.md",
     "World History/People and Cultures/The Fäskogarfolk/Ättar/Ättar Overview.md",
@@ -174,18 +194,10 @@
     "World History/People and Cultures/World History.md",
     "World History/People and Cultures/Eclessia/Eclessian Military Orders.md",
     "World History/People and Cultures/Eclessia/Eclessia Overview.md",
-    "World History/People and Cultures/Eclessia/Eclessian Church Overview.md",
-    "World History/People and Cultures/The Thalmyric Empire/Thalmyric Church Overview.md",
-    "World History/People and Cultures/The Thalmyric Empire/Thalmyric Military Orders.md",
-    "World History/People and Cultures/Eclessia/Eclessian Church Architecture.md",
-    "World History/People and Cultures/The Thalmyric Empire/Thalmyric Church Architecture.md",
-    "World History/People and Cultures/The Rise of the Redeemer.md",
-    "World History/People and Cultures/Eclessia/Territories inside Eclessia.md",
     "World History/People and Cultures/Eclessia/attachments/2024-09-09_16-21-31_8018.png",
     "World History/People and Cultures/Eclessia/attachments/2024-09-09_16-22-21_9272.png",
     "World History/People and Cultures/Eclessia/attachments/2024-09-09_16-33-09_5572.png",
     "World History/People and Cultures/Eclessia/attachments/2024-09-09_16-34-04_2492.png",
-    "World History/People and Cultures/Eclessia/_old/Dossier - Eclessia.md",
     "World History/People and Cultures/Eclessia/_old",
     "World History/People and Cultures/The Fäskogarfolk/Enaidfae",
     "World History/People and Cultures/The Fäskogarfolk/Ättar",
