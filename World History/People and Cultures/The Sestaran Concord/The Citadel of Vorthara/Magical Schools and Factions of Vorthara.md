@@ -1,6 +1,6 @@
 The **Citadel of Vorthara** is home to some of the most powerful and feared magical schools and factions in the world, each specializing in a different form of magic. These academies and guilds constantly vie for dominance, prestige, and resources, both within the city and beyond its borders. Though the **Council of Magi** loosely governs Vorthara, true power lies in the hands of these factions, which influence the city’s culture, economy, and even its governance. Each faction has its own unique practices, history, and rivalries, making Vorthara a hub of **arcane competition** and **magical innovation**.
 
-#### **1. The Crucible**
+#### **1. [[The Crucible]]**
 
 **Specialization**: **Elemental War Magic**  
 **Primary Focus**: **Battle casting** using the elements of **fire**, **ice**, **lightning**, and **acid**  
@@ -28,7 +28,7 @@ The **Nightveil Coven** is an ancient and secretive group specializing in **shad
 
 ---
 
-#### **3. The Ironbound Guild**
+#### **3. [[The Ironbound Guild]]**
 
 **Specialization**: **Golem Crafting**  
 **Primary Focus**: Creating powerful **arcane constructs** and **war golems**  
@@ -84,7 +84,7 @@ The **Red Covenant** is a secretive and feared faction within Vorthara, speciali
 
 ---
 
-#### **7. The Pale Hand**
+#### **7. [[The Pale Hand]]**
 
 **Specialization**: **Necromancy** and the use of **Black Mud**  
 **Primary Focus**: Raising the **undead** and commanding **undead armies**  
