@@ -11,9 +11,11 @@
             "id": "75777543d86f2e3a",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "World History/People and Cultures/The Sestaran Concord/attachments/2024-09-09_17-08-06_2499.png"
+                "file": "World History/People and Cultures/The Sestaran Concord/The Citadel of Vorthara/Magical Schools and Factions of Vorthara.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World History/People and Cultures/The Sestaran Concord/attachments/2024-09-09_17-08-06_2499.png",
+                "file": "World History/People and Cultures/The Sestaran Concord/The Citadel of Vorthara/Magical Schools and Factions of Vorthara.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World History/People and Cultures/The Sestaran Concord/attachments/2024-09-09_17-08-06_2499.png",
+                "file": "World History/People and Cultures/The Sestaran Concord/The Citadel of Vorthara/Magical Schools and Factions of Vorthara.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World History/People and Cultures/The Sestaran Concord/attachments/2024-09-09_17-08-06_2499.png"
+                "file": "World History/People and Cultures/The Sestaran Concord/The Citadel of Vorthara/Magical Schools and Factions of Vorthara.md"
               }
             }
           }
@@ -147,13 +149,13 @@
   },
   "active": "75777543d86f2e3a",
   "lastOpenFiles": [
+    "World History/People and Cultures/The Sestaran Concord/The Citadel of Vorthara/The Citadel of Vorthara Overview.md",
+    "World History/People and Cultures/The Sestaran Concord/attachments/2024-09-09_17-08-06_2499.png",
     "World History/People and Cultures/The Sestaran Concord/attachments/2024-09-09_17-09-10_8013.png",
     "World History/People and Cultures/The Sestaran Concord/attachments/2024-09-09_17-10-47_7396.png",
     "World History/People and Cultures/The Sestaran Concord/attachments/2024-09-09_17-11-56_8477.png",
-    "World History/People and Cultures/The Sestaran Concord/attachments/2024-09-09_17-08-06_2499.png",
     "World History/People and Cultures/The Sestaran Concord/The Citadel of Vorthara/Obscure and Niche Magi of Vorthara.md",
     "World History/People and Cultures/The Sestaran Concord/The Citadel of Vorthara/Magical Schools and Factions of Vorthara.md",
-    "World History/People and Cultures/The Sestaran Concord/The Citadel of Vorthara/The Citadel of Vorthara Overview.md",
     "World History/People and Cultures/The Sestaran Concord/The Citadel of Vorthara/The Pale Hand.md",
     "World History/People and Cultures/The Sestaran Concord/The Citadel of Vorthara/The Ironbound Guild.md",
     "World History/People and Cultures/The Sestaran Concord/The Citadel of Vorthara/The Crucible.md",
@@ -190,7 +192,6 @@
     "World History/People and Cultures/Eclessia/_old",
     "World History/People and Cultures/The Fäskogarfolk/Enaidfae",
     "World History/People and Cultures/The Fäskogarfolk/Ättar",
-    "World History/People and Cultures/The Thalmyric Empire/attachments/2024-09-09_18-27-38_5752.png",
     "World History/People and Cultures/The Thalmyric Empire/attachments",
     "World History/People and Cultures/The Fäskogarfolk/attachments"
   ]
