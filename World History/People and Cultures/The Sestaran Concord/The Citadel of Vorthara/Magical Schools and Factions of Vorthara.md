@@ -98,27 +98,57 @@ The **Astral Conclave** is a reclusive group of mages who study the **cosmic for
 
 ---
 
-### **9. The Veiled Mind**
-#### **Specialization**: **Enchantment** (Mental Domination)
-#### **Overview**:
-The **Veiled Mind** is a secretive faction specializing in **mental manipulation** and **enchantment magic**. They are experts in controlling the minds of others, bending wills, and subtly influencing decisions. Though **mental domination** is considered taboo in many circles, the Veiled Mind operates in the shadows, offering their services to those who need to manipulate or control others without resorting to brute force. They are often employed as **spies**, **diplomatic saboteurs**, and **power brokers**, influencing the power structures of Vorthara from behind the scenes.
+### **9. The Veiled Hand**: Masters of Subtle Magic and Information
 
-#### **Key Roles**:
-- **Mind Controllers**: Masters of **mental domination**, capable of controlling the thoughts, emotions, and actions of others.
-- **Diplomatic Saboteurs**: Subtle manipulators who influence political and social outcomes by controlling key individuals.
-- **Espionage Experts**: Frequently hired for **spying** and **covert missions**, using their enchantment magic to influence or gather information.
+The **Veiled Hand** is an elite and secretive organization operating out of Vorthara. While most factions focus on raw magical power or direct warfare, the Veiled Hand specializes in **information**, **espionage**, and **influence**. They gather secrets, manipulate politics, and shape the course of events through **subtle magic** and **carefully placed agents**. The organization runs a network of **bardic colleges**, **courtesan houses**, and **entertainment establishments**, all serving as **fronts** for their true purpose: gathering **intelligence** and **influence** across the world.
+
+The **Veiled Hand’s agents** include bards, spies, courtesans, diplomats, and enchanters, all of whom use their unique blend of skills and magic to subtly control events from behind the scenes. Their **magic** focuses on **enchantment**, **illusion**, and **subtle mind control**, allowing them to manipulate powerful figures, **gather secrets**, and **influence decisions** without ever drawing attention to themselves.
 
 ---
 
-### **10. The Blue Mages**
-#### **Specialization**: **Nymphology** (Magic of Intimacy)
-#### **Overview**:
-The **Blue Mages**, are a low-profile faction specializing in **nymphology**, the magic of **intimacy, desire**, and **emotional manipulation**. Their magic is primarily used for **healing** and **pleasure**, and they operate many of Vorthara’s most prestigious **magical brothels**. While their magic is less destructive than other factions, they are highly respected for their ability to **heal emotional wounds**, **manipulate desires**, and **create powerful glamour spells**. They are often called upon for **diplomatic negotiations** or to **entertain** and **influence** powerful individuals.
+#### **Branches and Operations**
 
-#### **Key Roles**:
-- **Desire Manipulators**: Experts in controlling **emotions** and **desires**, often used for **seduction** or **influence**.
-- **Glamour Weavers**: Masters of **illusionary beauty** and **shape-changing**, able to alter their appearance or that of others.
-- **Healers**: Known for their **emotional and physical healing**, using intimacy as a form of magical therapy.
+The Veiled Hand operates through several **distinct branches**, each with a different focus. Though they are all connected, each branch has a unique role in the organization’s larger network of **information gathering** and **manipulation**:
+
+---
+
+##### **1. The Bardic College of Silvertongue**
+**Focus**: **Espionage and Influence**  
+**Public Front**: An elite bardic college that trains **musicians**, **storytellers**, and **diplomats**.  
+**Real Purpose**: A recruitment ground for **spies** and **influence agents** trained in subtle **enchantment magic**.
+
+- **Public Role**: The **Bardic College of Silvertongue** is renowned for producing some of the finest **bards** in the world. Students come from across the **Sestaran Concord** to learn the art of **performance**, **persuasion**, and **diplomacy**. Many of its graduates become **entertainers**, **diplomats**, and **advisors** in courts and cities across the land.
+
+- **True Role**: Behind the scenes, the college identifies and trains those students with the talent for **manipulation** and **subtle magic**. These recruits are taught advanced **enchantment spells**, including **charm**, **suggestion**, and **dominate person**, allowing them to **influence** and **control** powerful figures. Once trained, they are sent out to infiltrate **courts**, **guilds**, and **political factions**, gathering information and subtly steering events to benefit the Veiled Hand.
+
+- **Agents**: **Bards** trained by the Veiled Hand act as **spies** and **influence agents**. Their skill in performance allows them to gain access to high society, while their magical talents let them **influence** key decisions, **charm** allies, and **manipulate** enemies. They specialize in **persuasion** and **covert manipulation**, often working under the guise of simple entertainers.
+
+---
+
+##### **2. The House of Whispers**
+**Focus**: **Seduction and Secrets**  
+**Public Front**: A high-class **courtesan house** where the city’s elite go for **entertainment** and **companionship**.  
+**Real Purpose**: A network of **spies** and **courtesans** trained in the art of **information extraction** through magic and seduction.
+
+- **Public Role**: The **House of Whispers** is known throughout Vorthara and beyond as a luxurious establishment where the wealthy and powerful come for **pleasure** and **companionship**. The courtesans here are renowned for their beauty, charm, and discretion, making the House a favored place for **nobles**, **merchants**, and even **foreign dignitaries**.
+
+- **True Role**: In truth, the House of Whispers is the **intelligence-gathering arm** of the Veiled Hand. The **courtesans** are expertly trained in **subtle magic**—specifically **enchantment**, **illusion**, and **mental influence**. They extract secrets from their clients, plant suggestions in their minds, and influence political decisions through the **manipulation of desire**. The **spells** used are subtle enough that most clients are unaware they’ve revealed anything or been influenced.
+
+- **Agents**: **Courtesans** in the House of Whispers are trained not only in the art of seduction but also in **subtle magic**. They use spells like **charm person**, **suggestion**, and **detect thoughts** to gather information from their clients, making the House one of the most powerful centers of **espionage** in Vorthara. Many of these courtesans have **high-ranking clients** and wield considerable influence in the shadows.
+
+---
+#### **The Arena and Information Control**
+
+The Veiled Hand uses Vorthara’s **arenas** not just for **entertainment** but as an additional means of **information gathering** and **control**. The House of Whispers and Bardic College both sponsor **gladiators** and **performers** who act as **eyes and ears** within the **arena culture**, reporting back on the rivalries and secrets of the city’s various magical factions. **Illusionists** and **diviners** from the Dreamweavers often manipulate **arena outcomes** subtly, ensuring that important victories or defeats are orchestrated in the Veiled Hand’s favor.
+
+---
+
+#### **Power and Influence in Vorthara**
+
+The Veiled Hand is not the most overtly powerful faction in Vorthara, but their **web of influence** extends to every corner of the city and beyond. They may not command armies or warlocks, but they control the **flow of information**, making them indispensable to the city’s political landscape. All the factions, even those who despise enchantment magic, respect (and fear) the **reach** of the Veiled Hand.
+
+Their **agents** are found in every major city, court, and faction across the **Sestaran Concord**, giving them the ability to shape world events through careful manipulation and strategic control.
+
 
 ---
 

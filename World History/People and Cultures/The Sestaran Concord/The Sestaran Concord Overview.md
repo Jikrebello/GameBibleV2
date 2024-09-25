@@ -107,7 +107,7 @@ The city is also a center for **espionage**, with **spymasters** and **assassins
 
 ---
 
-### **6. The Citadel of Vorthara**
+### **6. [The Citadel of Vorthara](The%20Citadel%20of%20Vorthara%20Overview.md)**
 
 **Capital**: **Vorthara**  
 **Territory**: The **Vortharan Highlands**, a remote and mystical region where arcane energies converge.  
@@ -129,9 +129,8 @@ The city is also known for its **arcane forges**, where **magical artifacts** an
 
 ### **7. The Free City of Castara**
 
-**Inspiration**: Genoa and Age of Exploration  
 **Capital**: **Castara**  
-**Territory**: The **Castrian Frontier**, a region on the edge of the known world, near untamed lands.  
+**Territory**: The **Castrian Frontier**, a region on the edge of the known world, in a bay that leads to  untamed lands across the boiling sea.  
 **Ruling Class**: The **Merchant Princes**, a group of explorers and traders.
 
 **Overview**:  

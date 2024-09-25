@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World History/People and Cultures/The Sestaran Concord/The Citadel of Vorthara/Magical Schools and Factions of Vorthara.md",
+                "file": "World History/People and Cultures/The Sestaran Concord/The Free City of Castara/The Free City of Castara Overview.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "85c9be0c2ba231cd",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "World Map/SejamFinal.png"
               }
             }
           }
@@ -85,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World History/People and Cultures/The Sestaran Concord/The Citadel of Vorthara/Magical Schools and Factions of Vorthara.md",
+                "file": "World History/People and Cultures/The Sestaran Concord/The Free City of Castara/The Free City of Castara Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World History/People and Cultures/The Sestaran Concord/The Citadel of Vorthara/Magical Schools and Factions of Vorthara.md",
+                "file": "World History/People and Cultures/The Sestaran Concord/The Free City of Castara/The Free City of Castara Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World History/People and Cultures/The Sestaran Concord/The Citadel of Vorthara/Magical Schools and Factions of Vorthara.md"
+                "file": "World History/People and Cultures/The Sestaran Concord/The Free City of Castara/The Free City of Castara Overview.md"
               }
             }
           }
@@ -149,31 +159,34 @@
   },
   "active": "75777543d86f2e3a",
   "lastOpenFiles": [
+    "World History/Untitled.md",
+    "World History/People and Cultures/The Sestaran Concord/The Free City of Castara/The Free City of Castara Overview.md",
+    "World History/Untitled 1.md",
+    "World Map/SejamFinal.png",
+    "World Map/Known World phase 1.png",
+    "World History/People and Cultures/The Sestaran Concord/The Sestaran Concord Overview.md",
+    "World History/People and Cultures/The Sestaran Concord/The Free City of Castara",
     "World History/People and Cultures/The Sestaran Concord/The Citadel of Vorthara/The Citadel of Vorthara Overview.md",
+    "World History/People and Cultures/The Sestaran Concord/The Citadel of Vorthara/Magical Schools and Factions of Vorthara.md",
+    "World History/People and Cultures/The Sestaran Concord/The Citadel of Vorthara/The Fleshweavers and The Red Covenant.md",
     "World History/People and Cultures/The Sestaran Concord/attachments/2024-09-09_17-08-06_2499.png",
     "World History/People and Cultures/The Sestaran Concord/attachments/2024-09-09_17-09-10_8013.png",
     "World History/People and Cultures/The Sestaran Concord/attachments/2024-09-09_17-10-47_7396.png",
     "World History/People and Cultures/The Sestaran Concord/attachments/2024-09-09_17-11-56_8477.png",
     "World History/People and Cultures/The Sestaran Concord/The Citadel of Vorthara/Obscure and Niche Magi of Vorthara.md",
-    "World History/People and Cultures/The Sestaran Concord/The Citadel of Vorthara/Magical Schools and Factions of Vorthara.md",
     "World History/People and Cultures/The Sestaran Concord/The Citadel of Vorthara/The Pale Hand.md",
     "World History/People and Cultures/The Sestaran Concord/The Citadel of Vorthara/The Ironbound Guild.md",
     "World History/People and Cultures/The Sestaran Concord/The Citadel of Vorthara/The Crucible.md",
     "World History/People and Cultures/The Sestaran Concord/The Citadel of Vorthara/The Crafters’ Union and The Elixirium.md",
-    "World History/People and Cultures/The Sestaran Concord/The Citadel of Vorthara/The Fleshweavers and The Red Covenant.md",
     "World History/People and Cultures/The Sestaran Concord/The Citadel of Vorthara/The Nightveil Coven.md",
-    "World History/Untitled.md",
     "World History/People and Cultures/The Atherian Empire/Overview of the Astratheon Religion.md",
     "World History/People and Cultures/The Atherian Empire/Atherian Astrology System.md",
     "World History/People and Cultures/Eclessia/Territories inside Eclessia.md",
     "World History/People and Cultures/The Sestaran Concord/The Principality of Aversia/House of Soran Overview.md",
     "World History/People and Cultures/The Sestaran Concord/The Principality of Aversia/Soran Family Dynamics Overview.md",
-    "World History/People and Cultures/The Sestaran Concord/The Sestaran Concord Overview.md",
     "World History/People and Cultures/The Sestaran Concord/The Citadel of Vorthara",
     "World History/People and Cultures/The Sestaran Concord/The Grand Duchy of Fiorenzia/The Grand Duchy of Fiorenzia Overview.md",
-    "World Map/SejamFinal.png",
     "World History/People and Cultures/The Sestaran Concord/The Principality of Aversia/The Principality of Aversia Overview.md",
-    "World Map/Known World phase 1.png",
     "World History/People and Cultures/The Sestaran Concord/The Principality of Aversia/Soran Rivalries and Tensions with Other Noble Families.md",
     "World History/People and Cultures/The Sestaran Concord/The Grand Duchy of Fiorenzia/Debtors’ Corps.md",
     "World History/People and Cultures/The Sestaran Concord/The Grand Duchy of Fiorenzia/Medori Bank.md",
@@ -183,7 +196,6 @@
     "World Map",
     "GameBibleV2",
     "World History/People and Cultures/The Thalmyric Empire/The Thalmyric Empire Overview.md",
-    "World History/People and Cultures/The Thalmyric Empire/Dossier - The Thalmyric Empire.md",
     "World History/People and Cultures/The Sestaran Concord/The Grand Duchy of Fiorenzia",
     "World History/People and Cultures/Eclessia/attachments/2024-09-09_16-21-31_8018.png",
     "World History/People and Cultures/Eclessia/attachments/2024-09-09_16-22-21_9272.png",
@@ -192,7 +204,6 @@
     "World History/People and Cultures/Eclessia/_old",
     "World History/People and Cultures/The Fäskogarfolk/Enaidfae",
     "World History/People and Cultures/The Fäskogarfolk/Ättar",
-    "World History/People and Cultures/The Thalmyric Empire/attachments",
-    "World History/People and Cultures/The Fäskogarfolk/attachments"
+    "World History/People and Cultures/The Thalmyric Empire/attachments"
   ]
 }
