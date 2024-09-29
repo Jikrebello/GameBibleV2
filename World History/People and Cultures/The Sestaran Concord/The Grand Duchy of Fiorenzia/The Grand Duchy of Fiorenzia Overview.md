@@ -2,6 +2,8 @@
 **Territory**: The **Fiorenzian Highlands**, a region of **rolling hills**, **lush vineyards**, **river valleys**, and **grand estates**.
 
 ---
+### **Overview**
+
 The **Grand Duchy of Fiorenzia** stands as the **cultural, financial, and intellectual heart** of the **Sestaran Concord**. Nestled within the **Fiorenzian Highlands**, a region known for its **fertile hills**, **river valleys**, and breathtaking landscapes, Fiorenzia exudes sophistication, wealth, and influence. Its capital, **Fiorenzia**, is a city of artistic splendor, home to **renowned scholars**, **artists**, and **bankers** who have shaped the cultural and financial foundations of the Concord for centuries.
 
 Fiorenzia is ruled by the prestigious **[Medori family](Medori%20family%20Overview.md)**, a dynasty of nobles and patrons of the arts who have led the duchy to prominence through their astute financial dealings and patronage of culture. The **Medori Bank**, at the heart of their power, is not only the wealthiest institution in Fiorenzia but one of the most powerful financial entities in the known world. This dominance has allowed Fiorenzia to subtly influence the politics of **Eclessia**, **Thalmyria**, and even the **Ahl-e-Ahd**, ensuring its continued prosperity and independence.

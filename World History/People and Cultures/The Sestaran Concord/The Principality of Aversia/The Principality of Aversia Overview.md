@@ -2,6 +2,9 @@
 **Territory**: The **Iron Foothills**, a rugged landscape rich in iron, coal, and other valuable natural resources.  
 **Ruling Class**: The **[House of Soran](House%20of%20Soran%20Overview.md)**, a powerful and militaristic noble family with a long history of conquest and martial dominance.
 
+---
+### **Overview**
+
 The **Principality of Aversia** is one of the most heavily fortified and militarized city-states within the **Sestaran Concord**. Nestled within the **Iron Foothills**, Aversia has built its reputation as the **military powerhouse** of the region, excelling in **siege warfare**, **weapon production**, and **mercenary forces**. The city is governed by the ambitious **House of Soran**, a noble family whose influence stretches across the Concord due to their control of **steelworks**, **armies**, and lucrative **mercenary contracts**.
 
 The principality thrives on its **mining industry** and the high-quality steel it produces, which is used to craft weapons, armor, and siege engines sought after by both domestic forces and foreign powers. The **Aversian soldiers**, known for their skill in siege warfare and iron discipline, are renowned for their martial prowess and unwavering loyalty. Whether defending their impenetrable city or selling their services as elite mercenaries, the soldiers of Aversia are a force to be reckoned with.

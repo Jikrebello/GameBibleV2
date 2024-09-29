@@ -3,7 +3,6 @@
 **Ruling Class**: The **Council of Magi**, a loosely organized coalition of powerful warlocks, sorcerers, and magical guild leaders.
 
 ---
-
 ### **Overview**
 
 The **Citadel of Vorthara** is a city where magic rules all, built around the massive, mysterious **black spire** that dominates the landscape. Located in the far-flung **Vortharan Highlands**, Vorthara is home to magic users of all kinds—warlocks, necromancers, blood mages, and more. Here, the study and practice of magic, no matter how dark or forbidden, is encouraged. The city is a haven for those who push the boundaries of the arcane.

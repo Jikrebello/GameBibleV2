@@ -76,9 +76,7 @@ The **knightly orders** of Eclessia play a critical role in both religious and m
 
 #### **The Role of the Church**
 
-The **Eclessian Church** holds immense power, and no noble family can claim legitimacy without its blessing. In many cases, the church acts as a mediator, controlling key resources
-
- and directing the loyalty of the peasantry. It also serves as the primary source of education and moral authority.
+The **Eclessian Church** holds immense power, and no noble family can claim legitimacy without its blessing. In many cases, the church acts as a mediator, controlling key resources and directing the loyalty of the peasantry. It also serves as the primary source of education and moral authority.
 
 - **Peasant Life**: The vast majority of Eclessians are farmers, laborers, or craftsmen, whose lives revolve around the church’s teachings. They owe allegiance to their local lords, but their spiritual loyalty lies with the Redeemer.
 
