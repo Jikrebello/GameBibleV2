@@ -73,7 +73,7 @@
 
 ### **Modern Ethnic Groups**
 
-#### **Eclessian Imperium**
+#### **Eclessian**
 - **Ethnic Background**: A mixture of **Atherians** and **Enaidfae** peoples, leading to an interesting hybrid of **Mediterranean** and **Celtic** traits.
 - **General Heights**: Men generally range from **5'7" to 6'1"**, while women range from **5'3" to 5'8"**.
 - **Musculature**: **Medium builds** are common. Men tend to have a more **defined musculature**, especially in the arms and chest, due to both labor and military traditions. Women typically have **toned legs and arms**, though the upper body remains more slender.

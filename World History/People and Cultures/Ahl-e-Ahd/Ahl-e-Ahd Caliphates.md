@@ -86,9 +86,7 @@ The border wars with Veridun have turned Qazmarid into a **battleground**, with 
 
 **Key Features**:  
 - **Frontline Territory**: Qazmarid is the main defense against the **Thalmyric Empire**, with constant border skirmishes.
-- **Military
-
- Society**: The caliphate is known for its **military culture** and **warrior traditions**.
+- **Military Society**: The caliphate is known for its **military culture** and **warrior traditions**.
 - **Contract Slavery**: Non-Ahl-e-Ahd war prisoners and outsiders are often **enslaved** and forced into servitude.
 
 **Influence**:  

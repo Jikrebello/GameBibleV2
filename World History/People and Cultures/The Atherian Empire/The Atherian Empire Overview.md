@@ -4,7 +4,7 @@
 ![](2024-09-09_15-46-58_8163.png)
 ### The Predecessors of Eclessia, the Thalmyric Empire, and the Sestaran Peninsula
 
-The **Atherians** were a mighty empire that stretched across the lands now held by Eclessia, the Thalmyric Empire, and the Sestaran Peninsula. This vast empire was known for its monumental achievements in governance, engineering, military prowess, and culture. They constructed grand cities, intricate road networks, aqueducts, temples, and monuments that still stand in ruins today, serving as a testament to their greatness. Their capital was located in what is now the Thalmyric Empire, marking the origin of their vast influence before they expanded westward.
+The **Atherians** were a mighty and ancient empire that stretched across the lands now held by Eclessia, the Thalmyric Empire, and parts of the Sestaran Peninsula. This vast empire was known for its monumental achievements in governance, engineering, military prowess, and culture. They constructed grand cities, intricate road networks, aqueducts, temples, and monuments that still stand in ruins today, serving as a testament to their greatness. Their capital was located in what is now the Thalmyric Empire, marking the origin of their vast influence before they expanded westward.
 
 The **Atherian Empire** was deeply tied to its **Star Pantheon**, a collection of gods and goddesses whose constellations and celestial appearances guided the Atherians through their lives, wars, and spiritual pursuits. This celestial worship, combined with the Atherian belief in destiny shaped by the stars, formed the backbone of their cultural and religious life.
 
