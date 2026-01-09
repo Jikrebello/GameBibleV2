@@ -1,4 +1,7 @@
+# Astaroth
+
 #### Appearance and Forms:
+
 - **Primary Form:** Astaroth appears as a tall, imposing figure with a cloak of shadows that flickers like a dying flame. His eyes burn with a red glow, and his face is often obscured by a hood. His hands are skeletal, holding a broken sword that drips with dark energy.
 - **Warrior Form:** During times of conflict, Astaroth can take the form of a fearsome warrior, clad in dark, battered armor. His presence on the battlefield incites fear and chaos, and his broken sword becomes a weapon of immense destructive power.
 - **Raven Form:** He can also appear as a giant raven with blood-red eyes, symbolizing his role as an omen of death and destruction. In this form, he scouts the land before battles, bringing dread to those who see him.

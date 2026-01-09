@@ -41,7 +41,7 @@ The **Ironbound Guild** is renowned for its mastery of **golem crafting**, creat
 ### **4. The Fleshweavers**
 #### **Specialization**: **Fleshcrafting** and **Monster Creation**
 #### **Overview**:
-The **Fleshweavers** are disciples of **Typhonius**, the God of Monsters and Creation, and their magic focuses on **fleshcrafting**—the manipulation of living tissue to create **warbeasts** and **monstrous hybrids**. Deep within the **Flesh Pits**, they breed abominable creatures used in war and the arenas, pushing the boundaries of biological and magical life. They often work closely with the **Red Covenant**, sharing knowledge and resources. Their magic allows them to manipulate **life itself**, creating **living weapons** out of monstrous creations.
+The **Fleshweavers** are disciples of **Typhonius**, minor God of Monsters and Aberrations, and their magic focuses on **fleshcrafting**—the manipulation of living tissue to create **warbeasts** and **monstrous hybrids**. Deep within the **Flesh Pits**, they breed abominable creatures used in war and the arenas, pushing the boundaries of biological and magical life. They often work closely with the **Red Covenant**, sharing knowledge and resources. Their magic allows them to manipulate **life itself**, creating **living weapons** out of monstrous creations.
 
 #### **Key Roles**:
 - **Fleshcrafters**: Creators of **biological hybrids** and **war beasts** for combat and entertainment.
@@ -62,22 +62,22 @@ The **Red Covenant** are masters of **blood magic**, using the power of **sacrif
 
 ---
 
-### **6. The Crafters’ Union and The Elixirium**
+### **6. The Crafters’ Union and  The Elixirium**
 #### **Specialization**: **Magical Artifacts** and **Alchemy**
 #### **Overview**:
 The **Crafters’ Union** focuses on creating **magical artifacts**, ranging from simple **enchanted tools** to **war armor**. Their most prized creations are **magical power armor**, designed to turn wearers into one-man armies, capable of withstanding enormous punishment while dishing out devastating attacks. Their sister guild, **The Elixirium**, specializes in **alchemy** and **potion-making**, creating a variety of potions from **healing draughts** to **alchemical grenades**. Their work is crucial to the city’s economy, and their healing potions are the most trusted in Vorthara.
 
 #### **Key Roles**:
-- **Artifact Creators**: Makers of **enchanted items**, **magical weapons**, and **power armor**.
-- **Potion Masters**: The Elixirium produces **potions** that can heal, enhance, or destroy, supplying both the arenas and Vorthara's elite.
-- **Arena Supporters**: The Crafters’ Union and Elixirium often **sponsor gladiators**, equipping them with the latest **power armor** and **alchemical enhancements** to showcase their products.
+- **Artifact Creators**: Makers of **enchanted items**, **magical weapons and armor**, and **magical power armor**.
+- **Potion Masters**: The Elixirium produces **potions** that can heal, enhance, or destroy, supplying the arenas, Vorthara's elite and abroad.
+- **Arena Supporters**: The Crafters’ Union and Elixirium often **sponsor gladiators**, equipping them with the latest in **power armor** and **alchemical enhancements** to showcase their products.
 
 ---
 
 ### **7. The Pale Hand**
 #### **Specialization**: **Necromancy**
 #### **Overview**:
-The **Pale Hand** is the smallest and most feared faction in Vorthara. These necromancers wield the power of the **Adversary’s Black Mud** to raise **undead armies** and create **liches**—undead sorcerers who have bound their souls to objects for immortality. They are experts in manipulating **life and death**, often working with the **Fleshweavers** and **Red Covenant** to create **undead abominations** that serve as both soldiers and arena champions. Their dark magic is viewed with **taboo and reverence**, and they are often shunned by the other factions, though none deny their formidable power.
+The **Pale Hand** is the smallest and most feared faction in Vorthara. These necromancers wield the power of the **Adversary’s Black Mud** to raise **undead armies** and create **liches** and **death knights**—undead sorcerers who have bound their souls to objects for immortality. They are experts in manipulating **life and death**, often working with the **Fleshweavers** and **Red Covenant** to create **undead abominations** that serve as both soldiers and arena champions. Their dark magic is viewed with **taboo and reverence**, and they are often shunned by the other factions, though none deny their formidable power.
 
 #### **Key Roles**:
 - **Necromancers**: Masters of **raising the dead** and creating **undead constructs**.
@@ -89,7 +89,7 @@ The **Pale Hand** is the smallest and most feared faction in Vorthara. These nec
 ### **8. The Astral Conclave**
 #### **Specialization**: **Star Magic** and **Divination**
 #### **Overview**:
-The **Astral Conclave** is a reclusive group of mages who study the **cosmic forces** and the **flow of time**. They use **star magic** to harness celestial energy and **divination** to predict future events. The most powerful members of the Conclave are **chronomancers**, responsible for maintaining the **natural flow of time** and ensuring that events unfold as they should. Though they are few in number, their insights into the future make them highly influential in the hidden affairs of Vorthara.
+The **Astral Conclave** is a reclusive group of mages who study the **cosmic forces** and the **flow of time**. They use **psionic magic** to harness celestial energy and **divination** to predict future events. The most powerful members of the Conclave are **chronomancers**, responsible for maintaining the **natural flow of time** and ensuring that events unfold as they should. Though they are few in number, their insights into the future make them highly influential in the hidden affairs of Vorthara.
 
 #### **Key Roles**:
 - **Diviners**: Experts in **foresight** and **cosmic predictions**, capable of foreseeing key events and influencing future outcomes.

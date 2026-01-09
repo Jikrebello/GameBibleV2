@@ -1,4 +1,7 @@
+# Arachnara
+
 #### Appearance and Forms:
+
 - **Primary Form:** Arachnara appears as a tall, sinister figure with a spider-like elegance. Her skin is pale and smooth, with long, dark hair that cascades like a web. Her eyes are multifaceted like those of a spider, reflecting an eerie, predatory intelligence. She wears a gown woven from shadows and spider silk, adorned with venomous jewels.
 - **Spider Form:** She can transform into a gigantic spider, with a body covered in iridescent chitin and legs that move with terrifying grace. In this form, she spins webs that can trap even the most powerful beings.
 - **Mistress of Shadows:** Arachnara can also take the form of a shadowy figure that blends seamlessly with the darkness. This form allows her to move unseen, instilling fear in those who sense her presence but cannot see her.

@@ -1,4 +1,7 @@
+# Hecatara
+
 #### Appearance and Forms:
+
 - **Primary Form:** Hecatara appears as a towering, imposing figure with three faces, each representing a different aspect of her power: one youthful and beautiful, one mature and stern, and one old and withered. She wears a cloak woven from shadows and stars, and her eyes glow with an eerie light. Her presence exudes dark power and ancient wisdom.
 - **Hag Form:** Hecatara can take the form of a grotesque hag, embodying the dark and terrifying aspects of witchcraft. In this guise, she is a hideous crone with gnarled hands, sharp teeth, and eyes that pierce the soul. This form is often used to instill fear and assert dominance over her followers.
 

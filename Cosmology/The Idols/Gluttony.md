@@ -3,7 +3,7 @@
 - **Alternate Form:** In her alternate form, Voracia becomes a massive, grotesque creature with multiple mouths and grasping hands, each seeking to consume everything within reach. This form embodies her boundless greed and insatiable hunger.
 
 ### Realm:
-- **The Eternal Feast:** A realm of endless banquets and overflowing tables, where the food is both tantalizing and revolting. The land itself is made of edible substances, from the trees that drip with syrup to the rivers of wine and chocolate. Consuming anything in this realm leads to never-ending hunger, a torment for those who fall into its trap.
+- **The Eternal Feast:** A realm of endless banquets and overflowing tables, where the food is both tantalizing and revolting. The land itself is made of edible substances, from the trees that drip with syrup to the rivers of wine and syrup. Consuming anything in this realm can lead to never-ending hunger, a torment for those who fall into its trap.
 
 ### Native Followers:
 - **Ghouls:** Cannibalistic creatures that feast on anything and everything, driven by unending hunger. These ghouls are grotesque and ravenous, with sharp teeth and claws, constantly searching for their next meal. They serve Voracia with fanatical devotion, hoping to sate their endless appetites.

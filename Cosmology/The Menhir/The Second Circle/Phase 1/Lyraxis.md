@@ -1,4 +1,7 @@
+# Lyraxis
+
 #### Appearance and Forms:
+
 - **Primary Form:** Lyraxis appears as a lithe, almost ethereal figure, with features that are both captivating and unsettling. Their eyes gleam with a mischievous blue light, and their smile is both charming and sly. Lyraxis is hermaphroditic, embodying both masculine and feminine beauty, inspired by the Greek myth of Hermaphroditus. They wear a jester’s hat adorned with bells that jingle softly as they move, and their clothing shimmers with an ever-changing pattern of colors.
 - **Musician Form:** In their musician form, Lyraxis carries a harp made of starlight, which they play to weave spells of inspiration and illusion. Their fingers move with mesmerizing grace, and the music they produce can enchant and enthrall anyone who hears it.
 - **Trickster Form:** As a trickster, Lyraxis can take on the guise of any form they choose, often appearing as a traveling bard, a court jester, or an innocent-looking child. Their transformations are seamless and often accompanied by a burst of blue light.

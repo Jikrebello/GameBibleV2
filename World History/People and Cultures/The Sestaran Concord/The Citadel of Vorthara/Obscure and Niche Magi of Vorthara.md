@@ -5,14 +5,14 @@ While the dominant schools and guilds of magic focus on war, necromancy, or crea
 ### **1. The Astral Conclave: Seers and Keepers of Celestial and Temporal Magic**
 
 #### **Overview**
-The **Astral Conclave** is a mysterious group of mages who have mastered the intertwined arts of **Star Magic** and **Divination**. Their magic is deeply tied to the **cosmic forces**, the **stars**, and the **flow of time** itself. Often called **Celestials** or **Starseers**, they are skilled in reading the movements of the heavens, predicting future events, and understanding the intricate **cosmic web** that links all things. Their power extends into **divination**, and their visions allow them to see far beyond the present moment, glimpsing both past and future.
+The **Astral Conclave** is a mysterious group of mages who have mastered the intertwined arts of **Star Magic** and **Divination**. Their magic is deeply tied to the **cosmic forces**, the **stars**, and the **flow of time** itself. Often called **Starseers**, they are skilled in reading the movements of the heavens, predicting future events, and understanding the intricate **cosmic web** that links all things. Their power extends into **divination**, and their visions allow them to see far beyond the present moment, glimpsing both past and future.
 
 Some of the more powerful members of the Conclave are **chronomancers**, a small and elite group who manipulate **time itself**. These mages serve a dual role: they are both **protectors of time** and **guardians of fate**. The Conclave believes that the universe has a natural order, and it is their duty to preserve it. **Time violations** or attempts to alter fate are considered **taboo**, and the chronomancers police these events. It is rumored that some members of the Astral Conclave have lived through multiple lifetimes, popping up at different points in history to ensure that certain events occur as they are meant to.
 
 #### **Abilities**
 - **Star Magic**: By reading the stars and harnessing celestial power, Astral Conclave members can tap into **cosmic energy**, empowering spells of **light**, **gravity**, and **astral projection**. They are often consulted for major decisions, as they can read omens and foresee potential outcomes.
 - **Divination**: The mages of the Conclave excel in **precognition**, scrying, and reading **omens**. Their spells allow them to glimpse future events, making them invaluable as **advisers** and **seers**.
-- **Chronomancy**: The chronomancers of the Conclave can **manipulate time**, though their use of such power is incredibly limited. They can **slow down**, **speed up**, or even briefly **freeze time**, though only in small, controlled bursts. More significantly, they can **ensure the correct flow of events**, appearing at critical moments in time to prevent disastrous changes to history.
+- **Chronomancy**: The chronomancers of the Conclave can **manipulate time**, though their use of such power is incredibly limited. They can **slow down**, **speed up**, or even briefly **freeze time**, though only in small, controlled bursts. More significantly, they **ensure the correct flow of events**, appearing at critical moments in time to prevent disastrous changes to history.
 
 #### **Notable Individuals**
 - **The Warden**: An enigmatic chronomancer who is rumored to have appeared at critical points in history throughout the ages. No one knows the Warden’s true name, age, or allegiance, but they are often seen **correcting time’s flow** to ensure history remains intact.
@@ -35,7 +35,7 @@ Members of the Veiled Mind are skilled in **mental warfare**, planting ideas, ma
 - **Memory Manipulation**: Skilled enchanters can **erase**, **alter**, or **implant memories** within a target, changing their perception of past events. This ability makes them dangerous operatives for **covert missions** and **spying**.
   
 #### **Notable Individuals**
-- **Mistress Selira Darkveil**: A master enchanter, Selira is known for her ability to **coerce high-profile figures** into following her wishes without them ever realizing they’ve been manipulated. She is rumored to have eyes and ears in every major faction in Vorthara.
+- **Mistress Selira Darkveil**: A master enchanter, Selira is known for her ability to **coerce high-profile figures** into following her wishes without them ever realizing they’ve been manipulated. She is rumored to have eyes and ears in every major faction in Vorthara and abroad.
 
 #### **Role in Vorthara**
 Despite their small numbers, the Veiled Mind wields incredible power. Their work is typically **clandestine**, and they rarely involve themselves in the public politics of Vorthara. However, their influence can be felt in **major decisions**, **court intrigues**, and **arena betting**, where their powers are used to alter outcomes from behind the scenes. They are a **dangerous and secretive** faction, often sought out by those willing to pay the price for their services in **domination** or **deception**.
@@ -67,9 +67,7 @@ Chronomancers are **rare** and their powers are held in **awe**. They often work
 #### **Overview**
 **Nymphology**, also known as **Blue Magic**, is a more common and practical form of magic in Vorthara, focused on the **study of desire**, **emotion**, and **sensual energy**. Practitioners of Blue Magic, called **Nymphologists**, are experts in using the power of **human connection**, **intimacy**, and **emotion** to fuel their magic. This school of magic is often seen as less dangerous or overtly powerful than other disciplines, but its subtle influence makes it an important part of **Vortharan society**.
 
-Blue Magic is frequently used in **brothels** and **pleasure houses** scattered across the city,
-
- with many establishments specializing in **magically enhanced experiences**. Nymphologists may offer **healing services**, **emotional release**, or even **glamour enchantments** that allow clients to take on new identities or forms. The **use of magic in intimacy** is often seen as a way to **connect** and **heal**, making it popular among both the **elite** and **common folk**.
+Blue Magic is frequently used in **brothels** and **pleasure houses** scattered across the city, with many establishments specializing in **magically enhanced experiences**. Nymphologists may offer **healing services**, **emotional release**, or even **glamour enchantments** that allow clients to take on new identities or forms. The **use of magic in intimacy** is often seen as a way to **connect** and **heal**, making it popular among both the **elite** and **common folk**.
 
 #### **Abilities**
 - **Allure**: Nymphologists can weave powerful **glamours** that alter their own or others’ appearances, making them **irresistibly attractive** or even **changing gender** and **physical traits**.

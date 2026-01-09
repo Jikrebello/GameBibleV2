@@ -1,4 +1,7 @@
+# Typhonius
+
 #### Appearance and Forms:
+
 - **Primary Form:** Typhonius appears as a colossal, terrifying figure with a body composed of various monstrous parts. His head is a blend of a dragon and a serpent, with multiple eyes and sharp fangs. His body is covered in scales, wings sprout from his back, and his limbs end in deadly claws. Each movement exudes raw, chaotic power.
 - **Beast Form:** Typhonius can take the form of any hybrid monster he has created, such as a griffon, hydra, or cockatrice. In these forms, he embodies the pure essence of these creatures, making him a formidable presence in any form he chooses.
 - **Storm Form:** As a bringer of natural disasters, Typhonius can transform into a massive, swirling storm, filled with the cries and shadows of monsters. This form signifies impending catastrophe and spreads fear among those who witness it.

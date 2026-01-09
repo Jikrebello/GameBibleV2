@@ -1,12 +1,12 @@
 ### [[Greed]]: **Avarix**
 - **Virtuous Opposite:** **Charity**
-- **Form:** A ragged, humble man dressed in worn, threadbare clothing. His face is kind and weathered, and he carries nothing of value except his last coin and cloak, which he readily offers to those in need.
-- **Role:** This aspect roams the Hoarded Vaults, subtly aiding those who seek to share and give. He offers guidance to mortals lost in the vaults, showing them ways to use their wealth for the greater good. Those who seek him out can find ways to break curses of greed by performing acts of selflessness and generosity.
+- **Form:** A ragged, humble woman dressed in worn, threadbare clothing. Her face is kind and weathered, and she carries nothing of value except her last coin and cloak, which she readily offers to those in need.
+- **Role:** This aspect roams the Hoarded Vaults, subtly aiding those who seek to share and give. She offers guidance to mortals lost in the vaults, showing them ways to use their wealth for the greater good. Those who seek her out can find ways to break curses of greed by performing acts of selflessness and generosity.
 
 ### [[Wrath]]: **Furor**
 - **Virtuous Opposite:** **Patience**
-- **Form:** An elderly figure with a serene smile, dressed in simple, flowing robes that seem to exude tranquility. His movements are slow and deliberate, and he carries a staff that radiates a soothing, calming light.
-- **Role:** This aspect can be found within the Infernal Pits, offering solace and calm to those consumed by rage. He teaches mortals the value of patience and understanding, helping them to temper their anger and find peace. Seeking him out can break the curses of uncontrollable wrath through acts of forgiveness and meditation.
+- **Form:** An elderly figure with a serene smile, dressed in simple, flowing robes that seem to exude tranquility. Her movements are slow and deliberate, and she carries a staff that radiates a soothing, calming light.
+- **Role:** This aspect can be found within the Infernal Pits, offering solace and calm to those consumed by rage. She teaches mortals the value of patience and understanding, helping them to temper their anger and find peace. Seeking her out can break the curses of uncontrollable wrath through acts of forgiveness and meditation.
 
 ### [[Sloth]]: **Lethargos**
 - **Virtuous Opposite:** **Diligence**

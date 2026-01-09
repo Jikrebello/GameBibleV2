@@ -37,17 +37,17 @@ Vorthara’s many magical factions use the arenas as both a battleground and a s
 
 - **The Crucible**: This war college specializes in **elemental war magic**—fire, ice, lightning, and acid. Warlocks trained here are known for their **quick casting**, using dual **wands** and **magic gauntlets** to unleash rapid-fire spells. In the arenas, Crucible warlocks often face off against other warlocks, **golems**, or magical creatures, demonstrating the destructive power of their elemental combinations.
 
-- **The Nightveil Coven**: Specializing in **shadowbinding**, Nightveil mages summon **Nightmares** from the **Shadowrealm**. These incorporeal creatures are used to fight in the arena, often binding themselves to the bodies of the dead to become terrifying combatants. Shadowbinders are feared for their ability to control both life and death, making them formidable opponents in arena battles.
+- **The Nightveil Coven**: Specializing in **shadowbinding**, Nightveil mages summon **Nightmares** from the **Shadowrealm**. These incorporeal creatures are used to fight in the arena, often binding themselves to the bodies of the dead to become terrifying, temporary combatants. Shadowbinders are feared for their ability to control the shadows and the creatures that live inside them, making them formidable opponents in arena battles.
 
 - **The Ironbound Guild**: Known for their **golem crafting**, the Ironbound Guild creates powerful **war golems** used in arena battles. These constructs are imbued with arcane energy and powered by **phylacteries**, making them deadly and durable combatants. The **Black Forgers**, a secretive group within the guild, still create **golems powered by sacrificial magic**, though these creations are only seen in the most elite arenas.
 
-- **The Fleshweavers**: Worshippers of **Typhonius**, the God of Monsters, the Fleshweavers create **monstrous hybrids** from flesh and magic. These creatures are bred for war and are the stars of the **Flesh Pits**, where they battle against each other, **golems**, and **undead** in brutal spectacles. The Fleshweavers are masters of **blood magic** and **life manipulation**, often partnering with the **Red Covenant** to enhance their creations with ritual sacrifices.
+- **The Fleshweavers**: Worshippers of **Typhonius**, minor god of Monsters, the Fleshweavers create **monstrous hybrids** from flesh and magic. These creatures are bred for war and are the stars of the **Flesh Pits**, where they battle against each other, **golems**, and **undead** in brutal spectacles. The Fleshweavers are masters of **blood magic** and **life manipulation**, often partnering with the **Red Covenant** to enhance their creations with ritual sacrifices.
 
-- **Arachnara’s Weavers**: Devotees of **Arachnara**, Goddess of Vermin and Shadows, these mages control **swarms of vermin** and can transform into masses of insects or other creatures. In the arenas, their swarms overwhelm opponents, devouring them alive or driving them to madness. The most powerful among them become **Worms-that-Walk**, using the bodies of insects to replace their own.
+- **Arachnara’s Weavers**: Devotees of **Arachnara**, minor goddess of Vermin, these mages control **swarms of vermin** and can transform into masses of insects or other creatures. In the arenas, their swarms overwhelm opponents, devouring them alive or driving them to madness. The most powerful among them become **Worms-that-Walk**, using the bodies of insects to replace their own.
 
 - **The Red Covenant**: Masters of **blood magic**, the Red Covenant performs **ritual sacrifices** to fuel their spells. In the arenas, they often act as **enhancers**, using their magic to empower fighters or bolster the abilities of **warbeasts** and **golems**. Their connection with the **Fleshweavers** ensures that their magic plays a vital role in arena battles.
 
-- **The Pale Hand**: Specializing in **necromancy**, the Pale Hand raises **undead armies** and creates **liches** who fight in the arenas. Their **undead gladiators** are pitted against living and non-living opponents alike, providing gruesome displays of necromantic power. The **Black Mud** they use to raise the dead is tied to the **Adversary**, giving them a dark, ominous presence in every fight.
+- **The Pale Hand**: Specializing in **necromancy**, the Pale Hand raises **undead armies**, doing everything from zombies and skeleton soldiers who fight in the arenas. Their **undead gladiators** are pitted against living and non-living opponents alike, providing gruesome displays of necromantic power. The **Black Mud** they use to raise the dead is tied to the **Adversary**, giving them a dark, ominous presence in every fight. The also facilitate in the creation of intelligent undead such as **death knights** and **liches** for those with the means and motivation to pursue those dark paths.
 
 - **The Crafters’ Union and The Elixirium**: The **Crafters’ Union** creates **magical artifacts**, **enchanted weapons**, and **armors** used by gladiators in the arenas. They frequently showcase their wares by sponsoring **champions** equipped with their latest enchanted gear. Their sister guild, **The Elixirium**, supplies potions and elixirs that heal, enhance strength, or even offer temporary magical abilities during combat, making them essential sponsors of arena combatants.
 
@@ -69,9 +69,7 @@ The **Council of Magi** loosely governs Vorthara, enforcing the single law of **
 
 ### **Military and Mercenary Forces**
 
-Vorthara’s military might lies not in a traditional army but in its **mercenaries**, **warlocks**, and **arcane constructs**. The city produces some of the most feared warlocks and magical soldiers in the world, who are often hired by outside forces. The
-
- **war golems**, **fleshwarped beasts**, and **undead armies** that fight in the arenas are also sold to city-states and empires, furthering Vorthara’s influence and wealth.
+Vorthara’s military might lies not in a traditional army but in its **mercenaries**, **warlocks**, and **arcane constructs**. The city produces some of the most feared warlocks and magical soldiers in the world, who are often hired by outside forces. The **war golems**, **fleshwarped beasts**, and **undead armies** that fight in the arenas are also sold to city-states and empires, furthering Vorthara’s influence and wealth.
 
 ---
 

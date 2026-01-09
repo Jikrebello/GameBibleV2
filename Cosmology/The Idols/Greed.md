@@ -3,7 +3,7 @@
 - **Alternate Form:** Avarix can also take the form of a massive, serpent-like dragon with scales of gold and eyes that glitter like diamonds. This form allows him to move swiftly through his hoarded vaults and survey his treasures with ease.
 
 ### Realm:
-- **The Hoarded Vaults:** A labyrinthine realm filled with mountains of gold, precious gems, and countless treasures. The air is thick with the scent of wealth, and the walls glimmer with the reflections of endless riches. Within the Vaults is a grand casino where all games of chance are presented with unbelievably high odds. One can wager anything and everything, from rare mythological artifacts to human and otherworldly slaves and magical creatures. The casino is a place of both great fortune and immense loss, where the stakes are always high, and the outcomes are never certain.
+- **The Hoarded Vaults:** A labyrinthine realm filled with mountains of gold, precious gems, and countless treasures. The air is thick with the scent of wealth, and the walls glimmer with the reflections of endless riches. Within the Vaults is a grand casino where all games of chance are presented with unbelievably high odds. One can wager anything and everything, from rare mythological artifacts to human and otherworldly slaves and magical creatures. The casino is a place of both great fortune and immense loss, where the stakes are always high, and the only outcomes that are certain is that the house always wins.
 
 ### Native Followers:
 - **Lizard and Reptile-themed Beings:** These creatures range from small, cunning lizardfolk who serve as guards and spies to massive, hulking reptilian brutes who enforce Avarix's will. The most powerful of these are the Drakes, batlike reptiles with scales of rare gemstones like Ruby, Emerald, and Sapphire. These Drakes possess a cruel cunning and occasionally slip into the material world to wreak havoc and gather more treasures for their master.
@@ -14,7 +14,7 @@
 - **Calculating and Ruthless:** Avarix is cold and calculating, always planning his next move. He is ruthless in his pursuit of wealth and power, showing no mercy to those who stand in his way.
 
 ### Symbols and Relics:
-- **Symbols:** Golden coins, treasure chests, jeweled crowns. These symbols are often engraved on amulets, worn as charms, and used in rituals to invoke his power.
+- **Symbols:** Golden double sided snake head coins, treasure chests, jeweled crowns. These symbols are often engraved on amulets, worn as charms, and used in rituals to invoke his power.
 - **Relics:** Sacred relics include enchanted coins that can turn anything they touch into gold, crowns that grant the wearer the ability to see hidden treasures, and chests that can store limitless amounts of wealth. These relics are highly prized by his followers and used in ceremonies to seek his favor.
 
 ### Worship and Influence:

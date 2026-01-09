@@ -1,6 +1,6 @@
 ### Appearance and Forms:
 - **Primary Form:** Vaingloria is a regal, majestic figure with an air of superiority. She is adorned in luxurious garments and jewels, her posture always upright and commanding. Her presence exudes confidence and arrogance, and her every movement is graceful and deliberate.
-- **Alternate Form:** In her alternate form, Vaingloria appears as a towering, radiant figure made of light, her features indistinguishable but overwhelmingly beautiful. This form emphasizes her untouchable and divine nature, making her appear even more imposing and unapproachable.
+- **Alternate Form:** In her alternate form, Vaingloria appears as a towering, figure made of "cold" light, her features indistinguishable but overwhelmingly beautiful. This form emphasizes her untouchable and divine nature, making her appear even more imposing and unapproachable.
 
 ### Realm:
 - **The Shimmering Palace:** A realm of grandiose architecture and opulent beauty. The palace is filled with mirrors and reflective surfaces, emphasizing the importance of appearance and status. Every hall and chamber is designed to showcase beauty and splendor, but the realm's beauty is isolating, as pride separates individuals from one another. The palace's reflective surfaces distort reality, showing those who enter only what they desire to see, further feeding their pride and vanity.

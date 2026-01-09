@@ -1,4 +1,7 @@
+# Thanatos
+
 #### Appearance and Forms:
+
 - **Primary Form:** Thanatos appears as a gaunt, skeletal figure cloaked in tattered robes of midnight black. His eyes are empty sockets filled with an eerie, glowing light. He carries an hourglass filled with dark sand, symbolizing the passage of time and the inevitability of death.
 - **Thief Form:** As a patron of thieves, Thanatos can take the form of a shadowy, agile figure with nimble fingers and silent footsteps. In this guise, he often appears to those who seek his guidance in the art of theft and stealth.
 - **Psychopomp Form:** In his role as a guide to the underworld, Thanatos manifests as a spectral boatman, reminiscent of Charon, ferrying souls across the river that separates the living from the dead. He carries a lantern that emits a ghostly light and uses a long oar to navigate the dark waters.
