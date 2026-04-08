@@ -84,8 +84,8 @@ _A practical overview of the major actors, what they are, where they belong, and
 
 **What Saints are:** Mortals sanctified during life by the White Flame, serving as advanced officers and exemplars of the Redeemer’s single church. Saints are not only fighters; they are builders, shepherds, founders, and living proofs of rightward coherence.  
 **What Saints do:** They expand and strengthen the church and contest rival claims on souls. They stabilize thin spaces, dismantle predation infrastructure, protect clean routing to the Vestibule, and shape communities into resilience against Idol mapping and patron debt.  
-**Why relics matter:** Saints often leave behind relics that function as portable rightward anchors—high-density coherence objects that stabilize reality and disrupt corruption vectors.  
-**How they vary internally:** Different traditions emphasize different methods (institutional/juridical versus mystical/liturgical/ascetic), while remaining one body.
+**Why relics matter:** Saints often leave behind relics that function as portable rightward anchors—high-density coherence objects that stabilize reality and disrupt corruption vectors.   
+**How they vary internally:** Different traditions emphasize different methods (institutional/juridical versus mystical/liturgical/ascetic), while remaining one body. They also usually fall under certain portfolios and are petitioned for prayers by mortals accordingly.
 
 ---
 
@@ -97,19 +97,19 @@ _A practical overview of the major actors, what they are, where they belong, and
 
 ---
 
-## Verdants
+## Druids
 
-**What Verdants are:** Mortals inducted into Faewild pacts—Menhir-aligned operatives who embody local natural regimes and enforce mythic ecological law.  
+**What Druids are:** Mortals inducted into Faewild pacts—Menhir-aligned operatives who embody local natural regimes and enforce mythic ecological law.  
 **Where they belong:** Primarily at the edges where Faewild influence is strong: old groves, thresholds, migrating corridors, stormlands, sacred waters.  
 **How they differ from Saints:** They are powerful locally and mythically, but they are not oriented toward the Redeemer’s restoration project. Their loyalty is to living law and pact, not universal salvation.
 
 ---
 
-## Hollows
+## Shades
 
-**What Hollows are:** Mortals shaped into Shadowlands logics—Idol-aligned operatives who run vice architectures and psychic mapping infrastructures.  
+**What Shades are:** Mortals shaped into Shadowlands logics—Idol-aligned operatives who run vice architectures and psychic mapping infrastructures.  
 **Where they belong:** Wherever communities are vulnerable: cities under strain, courts of envy, markets of greed, cultures of shame, cycles of violence.  
-**How they differ from Sinners:** Hollows may cooperate with Adversary-aligned forces, but their core allegiance is usually to the Idol regime that feeds them, not necessarily to a unified “hell project.”
+**How they differ from Sinners:** Shades may cooperate with Adversary-aligned forces, but their core allegiance is usually to the Idol regime that feeds them, not necessarily to a unified “hell project.”
 
 ---
 
@@ -119,7 +119,3 @@ _A practical overview of the major actors, what they are, where they belong, and
 **Where they belong:** The Egg White—demiplanes, dead-god debris fields, anchored cities, stability reefs near the elemental shell.  
 **Why they make pacts:** They cannot easily project influence into yolk-space without intermediaries. Mortals can. So patrons trade power for agency: warlocks become extensions of the patron’s influence in the Material and the yolks.  
 **How they feel in-world:** They are transactional sovereignties—some noble, some predatory, many simply solvent. Their “religion” is contract and upkeep.
-
----
-
-If you want this to be genuinely handout-ready, I can compress this into a **single-page layout** (same content, tighter wording, still readable) and optionally add a small “where they operate most often” section for each (Material / Faewild / Shadowlands / Egg White / Approaches / Gates).
