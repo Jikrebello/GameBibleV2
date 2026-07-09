@@ -1,0 +1,15 @@
+﻿---
+type: archive
+status: archived
+canon_level: obsolete
+era: []
+region: []
+culture: []
+related_factions: []
+appears_in: []
+needs: ["Review before reactivating."]
+tags:
+  - needs-review
+---
+Found in dense, ancient forests, their scales blend seamlessly with the canopy. These Drakes possess a breath of toxic gas, mimicking the deadly vapors of deep jungles. They hoard treasures hidden beneath the earth and are adept at using magic that manipulates plant life, favoring ambush tactics from above
+

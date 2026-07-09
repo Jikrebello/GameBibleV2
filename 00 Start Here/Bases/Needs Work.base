@@ -1,0 +1,22 @@
+filters:
+  and:
+    - status != "canon"
+    - not file.inFolder("90 Archive & Drafts")
+properties:
+  status:
+    displayName: Status
+  type:
+    displayName: Type
+  needs:
+    displayName: Needs
+  canon_level:
+    displayName: Canon Level
+views:
+  - type: table
+    name: Needs Work
+    order:
+      - file.name
+      - status
+      - type
+      - needs
+      - canon_level

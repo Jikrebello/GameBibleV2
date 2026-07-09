@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World History/People and Cultures/The Sestaran Concord/The Citadel of Vorthara/Obscure and Niche Magi of Vorthara.md",
+                "file": "01 Canon Reference/Cosmology/The Adversary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Obscure and Niche Magi of Vorthara"
+              "title": "The Adversary"
             }
           }
         ]
@@ -145,6 +145,20 @@
               "icon": "lucide-list",
               "title": "Outline of Thalmyric Church Overview"
             }
+          },
+          {
+            "id": "03827958bb9f100b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
           }
         ]
       }
@@ -166,51 +180,51 @@
   },
   "active": "38b3d2787750fdc0",
   "lastOpenFiles": [
-    "World History/People and Cultures/The Sestaran Concord/The Citadel of Vorthara/The Citadel of Vorthara Overview.md",
-    "World History/People and Cultures/The Sestaran Concord/The Citadel of Vorthara/The Crafters’ Union and The Elixirium.md",
-    "World History/People and Cultures/The Sestaran Concord/The Citadel of Vorthara/The Crucible.md",
-    "World History/People and Cultures/The Sestaran Concord/The Citadel of Vorthara/The Fleshweavers and The Red Covenant.md",
-    "World History/People and Cultures/The Sestaran Concord/The Citadel of Vorthara/The Ironbound Guild.md",
-    "World History/People and Cultures/The Sestaran Concord/The Citadel of Vorthara/The Nightveil Coven.md",
-    "World History/People and Cultures/The Sestaran Concord/The Citadel of Vorthara/The Pale Hand.md",
-    "Grenzburg Story/Deepseek/Main Story/Companion Quests.md",
-    "Grenzburg Story/Deepseek/Main Story/A Biohesda Narrative.md",
-    "Grenzburg Story/Factions Overview.md",
-    "Grenzburg Story/Grok Factions.md",
-    "Grenzburg Story/Deepseek/DeepSeek factions.md",
-    "Grenzburg Story/Deepseek/Main Story/Three-Act Overview.md",
-    "Cosmology/Who’s Who in the Cosmology.md",
-    "Cosmology/The World Egg/The Vestibule of Weighing.md",
-    "World History/People and Cultures/Eclessia/version 2 (most current)/The Sylvan Marches/The Sylvan Marches Overview.md",
+    "01 Canon Reference/Cosmology/The Lord and Redeemer.md",
+    "00 Start Here/World Egg Setting Primer.md",
+    "03 Stories & In-World Texts/Historical Accounts/The Confession of Sir Renwalt of Dornheim.md",
+    "03 Stories & In-World Texts/Historical Accounts/The Eclessian Account.md",
+    "03 Stories & In-World Texts/Historical Accounts/The Sestaran Account.md",
+    "03 Stories & In-World Texts/Historical Accounts/The Thalmyric Account.md",
+    "03 Stories & In-World Texts/Historical Accounts/World History.md",
+    "03 Stories & In-World Texts/Historical Accounts/World History.pdf",
+    "01 Canon Reference/Peoples and Cultures/Ethnic Groups Overview.md",
+    "01 Canon Reference/Peoples and Cultures/Cultures MOC.md",
+    "01 Canon Reference/Magic & Systems/Magic & Metaphysics MOC.md",
+    "01 Canon Reference/History/Timeline MOC.md",
+    "01 Canon Reference/Geography/World Map/World Map.png",
+    "01 Canon Reference/Geography/World Map/Known World phase 1.png",
+    "01 Canon Reference/Geography/Geography Atlas.md",
+    "01 Canon Reference/Creatures/Nightmares.md",
+    "01 Canon Reference/Creatures/Ghouls.md",
+    "01 Canon Reference/Creatures/Bestiary MOC.md",
+    "01 Canon Reference/Creatures/Grobi/Goblins.md",
+    "01 Canon Reference/Creatures/Grobi/Hobgoblins.md",
+    "01 Canon Reference/Creatures/Grobi/Ogres.md",
+    "01 Canon Reference/Creatures/Grobi/Overview.md",
+    "01 Canon Reference/Creatures/Drakes/Silver Drakes.md",
+    "01 Canon Reference/Creatures/Drakes/Sapphire Drakes.md",
+    "01 Canon Reference/Creatures/Drakes/Ruby Drakes.md",
+    "01 Canon Reference/Creatures/Drakes/Gold Drakes.md",
+    "01 Canon Reference/Creatures/Drakes/Emerald Drakes.md",
+    "01 Canon Reference/Creatures/Drakes/Bronze Drakes.md",
+    "00 Start Here/Migration Log.md",
+    "00 Start Here/Bases/Needs Work.base",
+    "00 Start Here/Bases/Game-Ready Content.base",
+    "00 Start Here/Bases/Canon Index.base",
+    "00 Start Here/Bases/Apocrypha & In-World Sources.base",
     "World History/People and Cultures/Eclessia/attachments/2024-09-09_16-34-04_2492.png",
     "World History/People and Cultures/Eclessia/attachments/2024-09-09_16-33-09_5572.png",
     "World History/People and Cultures/Eclessia/attachments/2024-09-09_16-22-21_9272.png",
     "World History/People and Cultures/Eclessia/attachments/2024-09-09_16-21-31_8018.png",
-    "World History/People and Cultures/The Fäskogarfolk/Enaidfae/Enaidfae Overview.md",
-    "World History/People and Cultures/The Fäskogarfolk/Ättar/Ättar Overview.md",
-    "World History/People and Cultures/The Sestaran Concord/The Sestaran Concord Overview.md",
-    "World History/People and Cultures/The Thalmyric Empire/version 1/The Thalmyric Empire Overview.md",
-    "World History/People and Cultures/Eclessia/version 2 (most current)/Eclessia Overview.md",
-    "World History/People and Cultures/Eclessia/version 2 (most current)/The Kingdom of Virelia/The Kingdom of Virelia Overview.md",
-    "World History/People and Cultures/Eclessia/version 2 (most current)/The Kingdom of Aurelia/The Kingdom of Aurelia Overview.md",
-    "World History/People and Cultures/Eclessia/version 2 (most current)/The Ironvale Dominion/The Ironvale Dominion Overview.md",
-    "World History/People and Cultures/Eclessia/version 2 (most current)/The Duchy of Veridancia/The Duchy of Veridancia Overview.md",
-    "World History/People and Cultures/Eclessia/version 2 (most current)/The Duchy of Caldria/The Duchy of Caldria Overview.md",
     "Grenzburg Story/Deepseek/Main Story",
     "Grenzburg Story/Deepseek/Main Story/Act 3",
     "Grenzburg Story/Deepseek/Main Story/Act 2",
     "Grenzburg Story/Deepseek/Main Story/Act 1",
     "Grenzburg Story/Deepseek",
     "World History/People and Cultures/The Atherian Empire/attachments/2024-09-09_15-44-58_8423.png",
-    "Grenzburg Story/Untitled 1.base",
-    "Grenzburg Story/Untitled.base",
-    "Grenzburg Story",
-    "Cosmology/The Idols/Untitled.base",
-    "Cosmology/The Idols/Untitled 1.base",
     "World Map/Known World phase 1.png",
     "World Map/World Map.png",
-    "World History/People and Cultures/Jirahar/attachments/2024-09-09_18-56-41_1317.png",
-    "World History/People and Cultures/Jirahar/attachments/2024-09-09_18-52-31_5249.png",
-    "World History/People and Cultures/Jirahar/attachments/2024-09-09_18-51-30_6768.png"
+    "World History/People and Cultures/Jirahar/attachments/2024-09-09_18-56-41_1317.png"
   ]
 }

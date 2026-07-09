@@ -1,0 +1,25 @@
+filters:
+  and:
+    - status == "canon"
+    - not file.inFolder("90 Archive & Drafts")
+properties:
+  type:
+    displayName: Type
+  canon_level:
+    displayName: Canon Level
+  region:
+    displayName: Region
+  culture:
+    displayName: Culture
+  appears_in:
+    displayName: Appears In
+views:
+  - type: table
+    name: Canon Index
+    order:
+      - file.name
+      - type
+      - canon_level
+      - region
+      - culture
+      - appears_in

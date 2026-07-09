@@ -1,0 +1,22 @@
+filters:
+  or:
+    - canon_level == "disputed"
+    - canon_level == "apocryphal"
+properties:
+  type:
+    displayName: Type
+  status:
+    displayName: Status
+  canon_level:
+    displayName: Canon Level
+  culture:
+    displayName: Culture
+views:
+  - type: table
+    name: Apocrypha & In-World Sources
+    order:
+      - file.name
+      - type
+      - status
+      - canon_level
+      - culture

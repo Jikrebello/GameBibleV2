@@ -1,0 +1,26 @@
+filters:
+  and:
+    - not file.inFolder("90 Archive & Drafts")
+    - or:
+        - appears_in.contains("Grenzburg")
+        - type == "quest"
+        - type == "mechanic"
+        - type == "place"
+properties:
+  type:
+    displayName: Type
+  status:
+    displayName: Status
+  appears_in:
+    displayName: Appears In
+  region:
+    displayName: Region
+views:
+  - type: table
+    name: Game-Ready Content
+    order:
+      - file.name
+      - type
+      - status
+      - appears_in
+      - region
