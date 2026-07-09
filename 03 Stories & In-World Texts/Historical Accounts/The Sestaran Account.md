@@ -48,7 +48,7 @@ The conversion of the imperial regime ushered in a tragic chapter: the **Jirahar
 
 ### IV. Decline and Division – The Beginning of Imperial Collapse
 
-What followed the conversion was not renewal but **decay**. Atheria, long held together by divine ideology and military dominance, became internally weakened. Successions turned weak and contested. The frontier provinces were neglected. **Southern Enaidfae** raiders and **Ã„ttar** sea pillagers sacked coastal towns, while central governance faltered.
+What followed the conversion was not renewal but **decay**. Atheria, long held together by divine ideology and military dominance, became internally weakened. Successions turned weak and contested. The frontier provinces were neglected. **Southern Enaidfae** raiders and **Ättar** sea pillagers sacked coastal towns, while central governance faltered.
 
 In Sestara, wealthy port-cities grew increasingly independent. Trade flourished, but the Empire’s grip loosened. At the same time, rumors spread of a **unifying prophet** among the desert tribes to the northwest—a whisper of gathering storm.
 
@@ -56,7 +56,7 @@ In Sestara, wealthy port-cities grew increasingly independent. Trade flourished,
 
 ### V. The Ahl-e-Ahd Invasion and the Shattering
 
-When the **Ahl-e-Ahd Caliphates** emerged, their armies were unlike anything the Empire had seen. Backed by **contract-bound sorcery**, **siege golems**, **bound devils**, and elite **Janissary troops**, their **jihad** erupted into the Empire’s western heartlands. The invasion was catastrophic. Provinces fell. The **Velian States** were established as puppet client regimes under the **Emirate of Zanthir**.
+When the **Ahl-e-Ahd Caliphates** emerged, their armies were unlike anything the Empire had seen. Backed by **contract-bound sorcery**, **siege golems**, **bound devils**, and elite **Janissary troops**, their **Unsealing** erupted into the Empire’s western heartlands. The invasion was catastrophic. Provinces fell. The **Velian States** were established as puppet client regimes under the **Emirate of Zanthir**.
 
 A desperate **First Crusade** was declared, rerouting forces from the eastern provinces. This proved a fatal error. With legions stripped from the east, **Eclessia** and **Sestara** plunged into chaos—beset by **banditry**, **Enaidfae incursions**, and independence movements.
 

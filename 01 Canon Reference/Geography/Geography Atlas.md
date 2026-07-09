@@ -17,6 +17,8 @@ tags:
 
 This atlas ties cultures, wars, trade routes, and playable regions to the map. It is intentionally a working document: use it to decide where stories can happen and what pressure each region creates.
 
+**Gazetteer pass v1 complete:** see [[Gazetteer of the Known World]] for cities, seas, rivers, distances, and travel times, and `World Map/Known World - Labeled Gazetteer v1.png` for the labeled map (draft placements, 1360 AR).
+
 ## Continental Board
 
 - **Eclessia:** fragmented sacred politics east of Thalmyria, rural outside major centers, Church as cultural spine.

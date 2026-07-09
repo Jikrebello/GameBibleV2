@@ -12,6 +12,7 @@ culture:
   - Jirahar
   - Ahl-e-Ahd
   - Fäskogarfolk
+  - Vesari
   - Sestaran
   - Tarkhan
   - Nsizwa
@@ -33,6 +34,7 @@ The Age of Scattering begins after the Prophet's death, when the exodus breaks i
 - **Early Fäskogarfolk and Ättar:** move into southern cold forests, frost valleys, and Menhir-haunted land where clan law and winter survival dominate.
 - **Sestaran harbor peoples:** gather around ports, islands, and archive cities, turning navigation, accounting, art, and memory into leverage.
 - **Tarkhan and Nsizwa peoples:** develop independent trajectories from the Scattering rather than appearing as later border ornaments.
+- **Vesari:** river-plain settlers of the far east — moot-law, bright hearth-gods, princedoms on the great rivers; their converted descendants become Virelia's substrate (see [[The Making of the Eclessians]]).
 
 ## What Gets Lost
 

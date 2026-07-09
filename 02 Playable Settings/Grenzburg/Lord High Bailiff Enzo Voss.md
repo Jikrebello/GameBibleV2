@@ -190,9 +190,9 @@ If you cross him, he doesn’t rage—he quietly adds your name to a ledger.
 
 ---
 ## Failure modes (how he can fall)
-1. **Audit exposure:** private ledgers discovered â†’ ducal trial or Castellan arrest
+1. **Audit exposure:** private ledgers discovered → ducal trial or Castellan arrest
    
-2. **Revolt from below:** miners or lumberjacks rise up â†’ Enzo becomes the face of every grievance
+2. **Revolt from below:** miners or lumberjacks rise up → Enzo becomes the face of every grievance
    
 3. **Bank squeeze:** Medori outmaneuver him and buy his debts
    

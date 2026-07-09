@@ -18,7 +18,7 @@ tags:
 
 ---
 
-### ðŸ”¥ **I. The Era of Blood and Ash 
+###  **I. The Era of Blood and Ash 
 
 > _Martyrs become saints. The stars burn with vengeance._
 
@@ -32,7 +32,7 @@ After Isfir’s resurrection and the early spread of the faith, the Empire respo
 
 ---
 
-### âœï¸ **II. The Sainting Years **
+###  **II. The Sainting Years **
 
 > _The stars dim, but the faithful shine._
 
@@ -46,7 +46,7 @@ Despite repression, the Redeemer’s faith **grows faster than it can be crushed
 
 ---
 
-### ðŸŒ“ **III. The Eclipse Wars 
+###  **III. The Eclipse Wars 
 
 > _The stars go dark. The empire fractures along lines of faith._
 
@@ -60,7 +60,7 @@ The Redeemer’s message reaches a **critical mass**. The High Augur declares a 
 
 ---
 
-### ðŸ•Šï¸ **IV. The Baptism of Empire 
+###  **IV. The Baptism of Empire 
 
 > _The empire kneels not to the stars, but to fire._
 
@@ -76,7 +76,7 @@ The **Star Pantheon is outlawed**, its temples repurposed, desecrated, or quietl
 
 ---
 
-### ðŸšï¸ **V. The Sundering of the Jirahar **
+###  **V. The Sundering of the Jirahar **
 
 > _What was once the cradle of prophecy becomes the ruin of a people._
 
@@ -86,8 +86,8 @@ Though the Jirahar gave rise to Isfir, they are now seen as **his greatest betra
 
 This becomes the **genesis moment of Ahl-e-Ahd** culture.
 
-- **Exiled Jirahar**: Merge with desert nomads â†’ seed the rise of **Ahl-e-Ahd** (especially their legalist-contract philosophy).
-- **Hidden Jirahar**: Retreat to remote Tower Towns â†’ preserve **pre-Redeemer traditions**, build **secret caravan networks**, waiting for the flame to cool.
+- **Exiled Jirahar**: Merge with desert nomads → seed the rise of **Ahl-e-Ahd** (especially their legalist-contract philosophy).
+- **Hidden Jirahar**: Retreat to remote Tower Towns → preserve **pre-Redeemer traditions**, build **secret caravan networks**, waiting for the flame to cool.
 
 
 - **“Ashes of the Covenant”**: A lone Jirahar scholar rescues forbidden scrolls from the burning Tower Town of Shaharaz and makes a pact to protect them—no matter the cost.

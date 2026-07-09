@@ -18,7 +18,7 @@ _Compiled by the Monastic Office of Historical Sanctity, Ecclesia Aurelia (Revis
 
 ---
 
-## ðŸ”¹ **I. Canonized Martyrs of the First Persecution**
+##  **I. Canonized Martyrs of the First Persecution**
 
 ### **Saint Velmion of the Muzzled Word**
 
@@ -56,7 +56,7 @@ _Compiled by the Monastic Office of Historical Sanctity, Ecclesia Aurelia (Revis
 
 ---
 
-## ðŸ”¹ **II. Confirmed Early Miracle Sites**
+##  **II. Confirmed Early Miracle Sites**
 
 ### **The Temple That Would Not Burn**
 
@@ -94,7 +94,7 @@ _Compiled by the Monastic Office of Historical Sanctity, Ecclesia Aurelia (Revis
 
 ---
 
-## ðŸ”¹ **III. Suppressed or Disputed Accounts**
+##  **III. Suppressed or Disputed Accounts**
 
 > Entries in this section are preserved despite ecclesiastical controversy and ongoing theological debate.
 
@@ -116,7 +116,7 @@ _Compiled by the Monastic Office of Historical Sanctity, Ecclesia Aurelia (Revis
 
 ---
 
-## ðŸ”¹ **IV. Liturgical Commemorations Linked to Early Martyrs**
+##  **IV. Liturgical Commemorations Linked to Early Martyrs**
 
 |Feast Name|Date|Honored Figure/Event|Ritual Practice|
 |---|---|---|---|

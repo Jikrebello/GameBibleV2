@@ -12,7 +12,7 @@ tags:
   - game-ready
   - needs-review
 ---
-# **The Synthesis: A "Biohesda" Narrative**
+# **The Synthesis: A Grenzburg-Model Narrative**
 
 I want the **narrative density and consequence of a Bioware game** wrapped in the **open-world freedom and systemic depth of a Bethesda game**. This is the sweet spot. The key is to treat the main quest not as a *spine*, but as a **pulsing heart**—it beats forward relentlessly, but the body (the open world) can move and act independently between beats.
 
@@ -96,11 +96,11 @@ This shouldn't be "a side quest that became main quest." It should be **the cent
 
 This makes it a **narrative-rich, choice-driven Bioware mission**, but its trigger and execution exist within the **open-world "buffer" period** of Act II.
 
-## **Conclusion: The "Biohesda" Model Achieved**
+## **Conclusion: The Grenzburg-Model Model Achieved**
 
 You **can** have it all. The structure becomes:
 
-**Narrative Act (Bioware Beat)** â†’ **Open World Buffer (Bethesda Sandbox)** â†’ **Narrative Act** â†’ **Buffer**.
+**Narrative Act (Bioware Beat)** → **Open World Buffer (Bethesda Sandbox)** → **Narrative Act** → **Buffer**.
 
 The beats provide the **drama, choice, and consequence**. The buffers provide the **freedom, exploration, and systemic play**. The companions and faction systems **weave the two together**, making the personal and political feel alive across the entire journey.
 

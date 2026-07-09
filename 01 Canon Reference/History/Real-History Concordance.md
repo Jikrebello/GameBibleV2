@@ -97,7 +97,7 @@ The board is Habsburg–Ottoman–Valois plus confessional stalemate: Thalmyria 
 1. **Steal the dynamic, not the costume.** Every borrowing must be re-derived from the World Egg's own metaphysics (indulgences → routing assurances; Greek fire → sacramental Flame; devshirme → contract-bound levies). If the analog works only because the reader knows the real history, it isn't done yet.
 2. **The flip protects you.** Mirrored compass, inverted 1453, Orthodox-west/Catholic-east: keep systematically breaking one-to-one traceability while preserving motivations.
 3. **Every era gets a triangle.** Good/Bad/Ugly per the Grenzburg model — and the Ugly party should always be the one whose cooperation is necessary and whose price compounds.
-4. **Both sides get a real case.** Reformation, schism, jihad, reconquest: each faction's position must be the one its best people would sincerely hold. Villainy lives in method and appetite, not in having the wrong theology.
+4. **Both sides get a real case.** Reformation, schism, Unsealing, reconquest: each faction's position must be the one its best people would sincerely hold. Villainy lives in method and appetite, not in having the wrong theology.
 5. **Filtered analogs everywhere** (per the naming decision): one step sideways on all names; no von Bismarcks, no verbatim liturgical Arabic or Zulu after the rename pass.
 
 ## Navigation

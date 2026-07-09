@@ -51,13 +51,13 @@ The civilized world dates from the execution and resurrection of Isfir the Redee
 - **377–395 AR — Emperor Vestian the Pious.** Faith made compulsory (380); augur colleges dissolved; sanctity welded to state power. *(Theodosius.)*
 - **c. 300–400 AR — The Jirahar Persecutions.** From riot to policy under Vestian; the great eastern tower towns razed; flight northeast. *(The diaspora.)*
 
-## Decadence and the First Jihad
+## Decadence and the First Unsealing
 
 - **c. 400–540 AR — Age of Decadence.** Weak emperors; Ättar and Enaidfae raids; Sestaran drift toward independence.
 - **411 AR — The Council of Halmenth.** "Fire-Bearer" affirmed; Bishop Nasriel of Qabir's "Man-Bearer" party condemned — his communion flees north and survives as the [[The Velian Church|Velian Church]]. *(Ephesus, 431.)*
 - **541 AR — The Revelation of Mujalib.** *(610 AD.)* Tribal unification 545–567; Al-Qahur founded; the 4,444 devils dig the oasis.
 - **572–601 AR — The Four Rightly-Sealed Caliphs.** *(Rashidun.)* The disputed fourth seal.
-- **568–612 AR — WAVE ONE: The First Jihad.** **Qatada Sayf-al-Ahd** conquers the northern provinces. *(Arab conquests.)*
+- **568–612 AR — WAVE ONE: The First Unsealing.** **Qatada Sayf-al-Ahd** conquers the northern provinces. *(Arab conquests.)*
 - **c. 594–598 AR — First Crusade (defensive).** The advance held at ruinous cost. *(Tours; the sieges of Constantinople.)*
 - **601 AR — Emirate of Zanthir established.** **c. 610 AR — the Velian States** installed under the **Banu Mizan**. *(al-Andalus.)*
 - **612 AR — The Long Frontier Peace begins.**
@@ -125,7 +125,7 @@ Fall to coronation: 17 years. Caedros I dies at 62 in the assault he insisted on
 
 1. ~~Companions, courts, fourth seal, hymns ruling, duchy rulers, Folk clans, in-world texts, Ironvale heritage, Schism-note harmonization~~ — all resolved. See [[The Twelve Companions of the Redeemer]], [[Amaryah the Fire-Bearer]], [[The Velian Church]], [[Present-Day Courts and Crowns (1360 AR)]], [[The Disputed Fourth Seal]], [[The Making of Saints]], [[The Making of the Eclessians]], [[The Folk of the Frontier and the Wolfsmere Lineage]], and the In-World Texts folder.
 2. Legacy-file integration still pending: add the **Vesari** to the Age of Scattering, Historical Spine, and Ethnic Groups Overview; add the Saltborn layer to coastal culture notes; link Thorn-Seer Mael to the Lakekeeper line in Grenzburg canon (proposed, needs confirmation there).
-3. Still-open board threads: Caedros IV's chancellery and heirs; Tarkhan khans and homeland (stub culture); Nsizwa placement on the map and board; Jirahar Tower Town geography.
+3. Still-open board threads: Caedros IV's chancellery and heirs; Tarkhan khans (homeland now on the map; culture still a stub); Jirahar Tower Town geography detail. Nsizwa placed (separate SW island-continent) — see [[Gazetteer of the Known World]].
 4. Prehistoric dates remain placeholders.
 
 ## Navigation

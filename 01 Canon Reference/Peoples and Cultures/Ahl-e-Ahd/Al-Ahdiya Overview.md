@@ -28,7 +28,7 @@ Mujalib received a series of revelations from **Malak al-Ahd**, which were later
    
 4. **Polygamy as a Reflection of Wealth and Power**: The faith promotes **polygamy** as a reflection of one’s ability to manage complex contracts. A man’s wives are bound to him through sacred contracts, and having multiple wives is seen as a sign of prosperity and divine favor. Each marriage contract is considered a covenant that elevates the family.
 
-5. **War as Sacred Contract (Jihad)**: War, known as **Al-Jihad al-Mu'ahad** (The Contracted Struggle), is seen as a divine method for spreading the knowledge of contract binding and fulfilling the divine order. The faithful are encouraged to wage war against those who do not accept the binding nature of the Great Covenant. Captured enemies can be converted to the faith through contracts of servitude, effectively becoming part of the community.
+5. **War as Sacred Contract (Unsealing)**: War, known as **Al-Unsealing al-Mu'ahad** (The Contracted Struggle), is seen as a divine method for spreading the knowledge of contract binding and fulfilling the divine order. The faithful are encouraged to wage war against those who do not accept the binding nature of the Great Covenant. Captured enemies can be converted to the faith through contracts of servitude, effectively becoming part of the community.
    
 6. **Janissary System (The Ahdanite Guard)**: A **janissary-like institution** known as the **Ahdanite Guard** is a core feature of the religion. Children of slaves or captured enemies are raised in the faith, trained in the art of contracts and warfare, and become elite warriors who serve both the religious and political leaders. These warriors are bound by unbreakable oaths to their masters, serving with absolute loyalty until their contracts expire or are fulfilled.
 
@@ -68,7 +68,7 @@ Mujalib received a series of revelations from **Malak al-Ahd**, which were later
 - **Sacred Text**: The **Kitab al-‘Ahd** (Book of the Covenant), which contains the laws and revelations of contract magic.
 - **Core Beliefs**: The world is governed by divine contracts; slavery and polygamy are part of the natural order; mastery of contracts is a divine pursuit; the alignment of body, mind, and soul is critical for contract crafting.
 - **Practices**: Ritual contract signing, fasting, prayer as recitation of contracts, pilgrimage to the **Temple of the Covenant**.
-- **Social Structure**: The religion promotes a hierarchical society, with leaders chosen based on their skill in contract magic. The faithful wage holy war (Jihad) to spread their divine law, and captured slaves are bound into the system.
+- **Social Structure**: The religion promotes a hierarchical society, with leaders chosen based on their skill in contract magic. The faithful wage holy war (Unsealing) to spread their divine law, and captured slaves are bound into the system.
 
 
 

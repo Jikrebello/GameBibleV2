@@ -14,7 +14,7 @@ tags:
 ## **“The Broken Contract and the Sword of the Faithful”**
 
 _A sermon of Sheikh Qalim ibn Haraz, Voice of the Contract and Orator of the Covenant Court_  
-Delivered in the Great Hall of Flame, Al-Qahur, on the Eve of the Jihad
+Delivered in the Great Hall of Flame, Al-Qahur, on the Eve of the Unsealing
 
 > _“To all who breathe beneath the Covenant, hear this: We go not to conquer—we go to correct.”_
 
@@ -54,7 +54,7 @@ This is not war born of greed or vengeance. It is the fulfillment of the final c
 
 > _“When the world forgets the Law, let the swords of the faithful inscribe it anew.”_
 
-This jihad—**Al-Jihad al-Mu‘ahad**—is not conquest. It is a legal execution. The clause has been breached. The penalty is binding.
+This Unsealing—**Al-Unsealing al-Mu‘ahad**—is not conquest. It is a legal execution. The clause has been breached. The penalty is binding.
 
 **The siege golems have been awakened.**  
 **The Ahdanite Guard stands ready.**  
@@ -98,7 +98,7 @@ Let every signature be sealed in glory.
 
 ---
 
-> _“By the Angel of the Covenant, I place this jihad beneath clause and command.  
+> _“By the Angel of the Covenant, I place this Unsealing beneath clause and command.  
 > Let no oath be broken in the field.  
 > Let no soul be struck down unless offered contract.  
 > And let every sword be not drawn in wrath, but in remembrance.”_

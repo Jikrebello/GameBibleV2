@@ -39,7 +39,7 @@ The religion of the Ahl-e-Ahd, known as **Al-Ahdiya**, is central to their world
 
 2. **Sacred Contracts**: Written contracts, especially those signed in blood, are considered sacred. Breaching a contract is the gravest sin in their religion, often resulting in **physical and spiritual punishment**, such as being branded with the **Mark of the Breach**.
 
-3. **War and Slavery**: The faith encourages **jihad** (holy war) to expand the influence of the Great Covenant. Captured enemies are often enslaved and bound to contracts of servitude, while their children may be trained as the next generation of warriors or scholars.
+3. **War and Slavery**: The faith encourages **Unsealing** (holy war) to expand the influence of the Great Covenant. Captured enemies are often enslaved and bound to contracts of servitude, while their children may be trained as the next generation of warriors or scholars.
 
 4. **Polygamy and Social Contracts**: Marriage in the Ahl-e-Ahd society is also governed by contracts, and **polygamy** is seen as a reflection of one’s ability to maintain multiple complex agreements. Each marriage is a covenant, with its own set of rights and responsibilities.
 
@@ -50,7 +50,7 @@ At the core of the Ahl-e-Ahd culture is their **philosophy of contracts**. Every
 
 1. **Mastery of Language and Law**: The Ahl-e-Ahd value those who are skilled in **wordplay** and **legalism**. The ability to craft contracts with hidden meanings, exploit loopholes, and fulfill agreements in unexpected ways is seen as a mark of wisdom. In their society, the letter of the law always trumps the spirit of the law.
 
-2. **Cunning and Deception**: It is considered virtuous to **outwit** others in contract negotiations, as long as it is done within the boundaries of the contract. Deception that adheres to the agreed-upon terms is admired, and the naÃ¯ve or overly trusting are seen as deserving of exploitation.
+2. **Cunning and Deception**: It is considered virtuous to **outwit** others in contract negotiations, as long as it is done within the boundaries of the contract. Deception that adheres to the agreed-upon terms is admired, and the naïve or overly trusting are seen as deserving of exploitation.
 
 3. **Alignment of Body, Mind, and Soul**: The Ahl-e-Ahd believe in the importance of **purity**, particularly when it comes to the consumption of food and the crafting of contracts. A person’s **diet** is seen as a reflection of their inner alignment, and eating pure foods is believed to sharpen one’s mind and enhance their ability to craft effective contracts. 
 

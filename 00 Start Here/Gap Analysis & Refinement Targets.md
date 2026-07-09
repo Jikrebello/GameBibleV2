@@ -20,6 +20,14 @@ External review of the full vault (July 2026), measured against the stated stand
 
 The metaphysical spine of this setting is already at or above the standard you're aiming for. The World Egg cosmology, the axis of coherence-versus-refusal, astral rent, contract magic, the sainthood protocol, and "institutions as truth engines" together form an original, mechanically generative system that most published settings never achieve. The Setting Commandments and Historical Spine are genuinely excellent discipline documents. What separates the vault from Tolkien/TES/ASOIAF right now is not imagination — it is **specificity**: names, dates, distances, genealogies, and the ground-level texture of ordinary life. The cosmology is a cathedral; the map underneath it is still mostly blank parchment.
 
+## REALIGNMENT — Status After the July 2026 Working Sessions
+
+The three structural gaps are broken. **Chronology (#2): done** — AR dating, present day 1360, the full spine dated and sanity-checked. **Named history (#3): substantially done** — sixty-plus figures across every age, the Companions, Amaryah, the courts of 1360, in-world texts written. **Geography (#1): v1 done** — world gazetteer, labeled world map, Grenzburg regional map and geography; remaining are refinement layers (duchy borders, roads, caliphate internals, art-quality maps).
+
+**Enforcement sweep: done.** Mojibake repaired vault-wide (28 files); naming drift resolved as canon via [[Names of the Menhir, Masks of the Idols]] (Solzareth=Father Sun, Furor/The Fury=Wrath, Avarix=Greed, Lunara=Mother Moon, Dreamlands=archaic Shadowlands, Star Pantheon=Menhir worship canonized); Mono-Myth reframed as in-world source with the hybrid ruling in its preface; von Bismarck → **von Ehrenfeld**, "Biohesda" → Grenzburg-Model, DeepSeek file archived; "jihad" → **the Unsealing** across active files (Jihad al-Kalima → Jahd al-Kalima); Timeline Overview banner-superseded; Vesari integrated into Scattering/Spine/Ancient Ages; Mael–Lakekeeper linked; Grenzmark/Grenzburg ruling written into the Duke's note; Historical Accounts rated in the new [[Reliability Register]]. **Still staged for a dedicated pass:** the deep language filtering of the Jirahar/Ahl-e-Ahd/Nsizwa culture docs (Sahifat, iklwa, izangoma, etc. — wholesale terminology rework deserving its own session), and the 30-odd `needs-review` flags which should be burned down as each area gets its next content pass.
+
+**Recommended focus order from here:** (A) the **canon enforcement sweep** — one disciplined pass propagating every decision into the legacy files and clearing hygiene, before the two-canon problem metastasizes; then (B) the **bestiary rebuild** to World Egg logic; then (C) **culture daily-life texture** (Eclessia and Folk first, feeding Grenzburg); then (D) the **numbers pass** (populations, garrisons, prices — Grenzburg first); then (E) **villain infrastructure** (named Sinner counter-churches, Idol cults, patron syndicates at world level).
+
 ## Tier 1 — Structural Gaps (these block everything else)
 
 ### 1. Geography has no names
@@ -52,7 +60,7 @@ An inventory of collisions that need a canonical answer: Father Sun vs **Solzare
 
 ### 6. Vault hygiene
 
-22 active files contain mojibake (â†', Ã„, â€™ artifacts). 36 active notes carry `needs-review`. AI-generation artifacts sit inside active folders: "DeepSeek factions.md" in the Grenzburg cast folder, "A Biohesda Narrative.md" (sic). These should be merged, renamed, or archived — an IP bible eventually shown to collaborators or publishers cannot contain tool-named files.
+22 active files contain mojibake (â†', Ä, ’ artifacts). 36 active notes carry `needs-review`. AI-generation artifacts sit inside active folders: "DeepSeek factions.md" in the Grenzburg cast folder, "A Biohesda Narrative.md" (sic). These should be merged, renamed, or archived — an IP bible eventually shown to collaborators or publishers cannot contain tool-named files.
 
 ## Tier 3 — Depth & Texture Gaps
 

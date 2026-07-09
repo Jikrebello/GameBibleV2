@@ -112,7 +112,7 @@ To “really” enter the world, beings generally need:
 
 - Souls pass through the **Vestibule of Weighing **a sub plane of the material where mortal souls are judged/ justified (truth-of-life + consent).
     
-- The **Boatman** routes souls rightwards (Lumen threshold) or leftwards (Chthonic breach â†’ Hell/Abyss risk).
+- The **Boatman** routes souls rightwards (Lumen threshold) or leftwards (Chthonic breach → Hell/Abyss risk).
     
 - Strategic point: factions fight over **soul routing**, not just territory.
     

@@ -11,6 +11,8 @@ needs: []
 tags:
   - core-canon
 ---
+> **Status note:** narrative summary only — dates, sequence details, and names are SUPERSEDED by [[Chronology of the Known World (AR Dating)]] (two-wave invasion, stretched timeline, named figures). Keep for tone; cite the chronology for facts.
+
 ## **I. [[The Atherian Empire – Age of Glory]]**
 
 > _The world is united. The stars rule the heavens, and the emperors rule the earth._
@@ -30,7 +32,7 @@ tags:
 - Ministry confronts both Jirahar legalism and Atherian imperial theology.
 - Performs miracles, casts out demons, gathers a band of followers.
 - Executed in Caleran (modern Thalmyria) by a coalition of Atherian officials and Jirahar priests.
-- Resurrection â†’ Ascension â†’ Leaves behind the **Holy Flame**.
+- Resurrection → Ascension → Leaves behind the **Holy Flame**.
 - Persecutions follow, but faith spreads underground.
 
 ---
@@ -55,7 +57,7 @@ tags:
 - Empire turns inward. No expansion, little pressure.
 - A succession of weak emperors.
 - Barbarian raids from the **southern Enaidfae**.
-- Coastal raids from the **Ã„ttar**.
+- Coastal raids from the **Ättar**.
 - The Concord City-States in Sestara grow richer and more independent.
 - Rumors of a unifying prophet among the desert tribes begin to spread.
 
@@ -65,7 +67,7 @@ tags:
 
 > _From the deserts came men of fire and law, of demons bound and oaths sealed in blood._
 
-- Ahl-e-Ahd launch a sudden, overwhelming **jihad** from the northwest.
+- Ahl-e-Ahd launch a sudden, overwhelming **Unsealing** from the northwest.
 - Massive losses; empire unprepared for golems, bound devils, and Janissaries.
 - First Crusade (Defensive) is called—initially slows the advance.
 - The **Emirate of Zanthir** is formed and establishes the **Velian States** as puppet regions across occupied eastern provinces.

@@ -349,7 +349,7 @@ When the Redeemer returns to restore perfect alignment:
 
 ---
 
-_Death â†’ Arrival â†’ Weighing â†’ Consent â†’ Boatman â†’ Rightward/Leftward Route â†’ Gate â†’ Destination_  
+_Death → Arrival → Weighing → Consent → Boatman → Rightward/Leftward Route → Gate → Destination_  
 
 
 ## Navigation

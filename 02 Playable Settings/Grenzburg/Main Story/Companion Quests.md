@@ -12,7 +12,7 @@ tags:
   - game-ready
   - needs-review
 ---
-# **Companion Quests: The "Biohesda" Model**
+# **Companion Quests: The Grenzburg-Model Model**
 
 Each companion's personal questline will follow the same hybrid structure as the main story: **narrative beats** that advance their character arc, separated by **open-world buffers** where their quests can be pursued (or ignored) at the player's pace. Their stories intersect with the main plot, factions, and each other.
 
@@ -118,7 +118,7 @@ His choice determines his final role: a freed man seeking a new purpose, a ruthl
     *   **Zafir's Contract Magic** can directly contest the Pale-Skins' binding of the Dragon, creating a window of vulnerability.
 *   **Butterfly Effects:** Choices in one companion's quest can open or close options in another's. Helping Elara expose the Bank weakens Zafir's opposition. Bernard's choice of faith can influence Dismas's view of redemption. This creates a living, reactive crew dynamic.
 
-This structure gives each companion a full, novel-worthy arc that the player can engage with deeply or ignore, woven seamlessly into the world's factions and the ticking clock of the main story—the perfect "Biohesda" companion system.
+This structure gives each companion a full, novel-worthy arc that the player can engage with deeply or ignore, woven seamlessly into the world's factions and the ticking clock of the main story—the perfect Grenzburg-Model companion system.
 
 ## Navigation
 

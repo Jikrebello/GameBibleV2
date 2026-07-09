@@ -34,7 +34,7 @@ The Jirahar faith is deeply legalistic and ritualistic, centering around the **S
 
 ### **Oral Tradition and Legal Debate**
 
-Much like the Talmudic tradition, Jiraharin religious law is supplemented by extensive **interpretations and commentaries**, known as **Ta'arifat al-Tariq** (_Interpretations of the Path_). This legal discourse is overseen by the **Keepers of the Scrolls**, scholars who engage in **debates and rulings** known as **Jihad al-Kalima** (_The Struggle of the Word_), shaping how ancient laws apply to modern situations.
+Much like the Talmudic tradition, Jiraharin religious law is supplemented by extensive **interpretations and commentaries**, known as **Ta'arifat al-Tariq** (_Interpretations of the Path_). This legal discourse is overseen by the **Keepers of the Scrolls**, scholars who engage in **debates and rulings** known as **Jahd al-Kalima** (_The Struggle of the Word_), shaping how ancient laws apply to modern situations.
 
 - **Hikayat** (_Narratives_): Stories and parables of the Great Prophet.
     
@@ -57,9 +57,9 @@ The Jirahar have a **tumultuous relationship** with the dominant religions of th
 
 ### **The Church of the Redeemer** 
 
-- **Ecclesian Church (West)** â†’ Analogous to Catholicism.
+- **Ecclesian Church (West)** → Analogous to Catholicism.
     
-- **Thalmyric Church (East)** â†’ Analogous to Eastern Orthodoxy.
+- **Thalmyric Church (East)** → Analogous to Eastern Orthodoxy.
     
 
 Both churches claim that **the Redeemer** fulfilled divine prophecy, negating the need for future prophets. The Jirahar reject this outright, seeing the Redeemer as a **false prophet** and the Church as an **institution of idolaters**.

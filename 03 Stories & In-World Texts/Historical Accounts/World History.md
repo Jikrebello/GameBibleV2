@@ -46,7 +46,7 @@ tags:
 
 - Barbarian raids from the **southern Enaidfae**.
 
-- Coastal raids from the **Ã„ttar**.
+- Coastal raids from the **Ättar**.
 
 - The Concord City-States in Sestara grow richer and more independent.
 
@@ -54,13 +54,13 @@ tags:
 
 - The **Ahl-e-Ahd** empire rises in the northwest, a powerful and militaristic force guided by their own faith centered around **contract-binding magic**. Their empire expands aggressively, pushing toward the northwestern borders of the **Atherian Empire**.
 
-- **In the lead-up to the jihad**, the Ahl-e-Ahd Caliphate sends a **formal delegation to the Atherian court**, presenting a scroll of surrender terms. The document—**legally airtight, yet impossibly demanding**—requires the emperor to **dissolve the Redeemer Church**, **submit to Caliphal arbitration**, and **sign over sovereignty of all western provinces** to be "governed under divine contract."
+- **In the lead-up to the Unsealing**, the Ahl-e-Ahd Caliphate sends a **formal delegation to the Atherian court**, presenting a scroll of surrender terms. The document—**legally airtight, yet impossibly demanding**—requires the emperor to **dissolve the Redeemer Church**, **submit to Caliphal arbitration**, and **sign over sovereignty of all western provinces** to be "governed under divine contract."
     
 - The Atherian court, bloated with privilege and untouched by real war for generations, **laughs the delegation out of the chamber**. Ministers and courtiers, more concerned with ceremony than consequence, **fail to recognize the legal trap** set for them.
     
-- **The rejection is precisely what the Ahl-e-Ahd sought**. With terms offered and refused, the Caliphate declares the **Contract Breach Clause activated**, granting them the **theological and legal mandate to commence the jihad**. The invasion begins shortly after, with the Ahl-e-Ahd claiming not war, but **righteous enforcement of covenant**.
+- **The rejection is precisely what the Ahl-e-Ahd sought**. With terms offered and refused, the Caliphate declares the **Contract Breach Clause activated**, granting them the **theological and legal mandate to commence the Unsealing**. The invasion begins shortly after, with the Ahl-e-Ahd claiming not war, but **righteous enforcement of covenant**.
 
-- The Ahl-e-Ahd a sudden, overwhelming **jihad** into the western territories of the **Atherian Empire**. 
+- The Ahl-e-Ahd a sudden, overwhelming **Unsealing** into the western territories of the **Atherian Empire**. 
 
 - The invasion is swift and brutal with massive losses; empire being unprepared for the Ahl-e-Ahd's siege golems, bound devils and demon shock troops, and Janissaries with several norther provinces, falling to Ahl-e-Ahd control. The **Emirate of Zanthir** is established in the far north of what used to be the Atherian Empire and establishes the **Velian States** as puppet regions across occupied southern provinces.
 

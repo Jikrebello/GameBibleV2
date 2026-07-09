@@ -40,6 +40,7 @@ This note bridges [[Prehistory Overview]] and the [[Atherian Imperial Age]]. It 
 - **Ahl-e-Ahd:** desert oath and water-right tribes whose covenant memory hardens into contract law, obligation, and later cosmic contract doctrine.
 - **Fäskogarfolk and Ättar:** southern cold-forest peoples shaped by winter survival, clan law, Menhir pacts, ancestor memory, and war against Grobi pressure.
 - **Sestara:** harbor and archive-city cultures that survive by monetizing memory, art, finance, ships, legal skill, and secrets.
+- **Vesari:** Slavic-coded river-plain settlers of the far east, a separate Scattering people; their converted princedoms become Virelia's substrate (see [[The Making of the Eclessians]]).
 - **Tarkhan, Nsizwa, and others:** independent heirs of the Scattering, not late cultural add-ons.
 
 ## Geography Lock

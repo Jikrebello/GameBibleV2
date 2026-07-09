@@ -368,7 +368,7 @@ This makes Faustian bargains _felt_ rather than narrated.
     
 - **Warlord Cenn Ash-Spear** (Folk Bad): raids, feuds
     
-- **Thorn-Seer Mael** (Folk Ugly): prophecy as leverage
+- **Thorn-Seer Mael** (Folk Ugly): prophecy as leverage — proposed as the current Lakekeeper of the Wolfsmere line ([[The Folk of the Frontier and the Wolfsmere Lineage]])
     
 - **War-Chief Ghor-Maw** (Grobi Bad): winter conquest
     

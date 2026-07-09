@@ -58,9 +58,9 @@ The **Jirahar**, refusing to repent for their role in the Redeemer’s death, we
 
 ### **IV. The Twilight of Empire**
 
-Following its conversion, the Empire turned inward. It had faith—but not vision. A line of **weak emperors** squandered its strength. Raiders from the **Enaidfae** and **Ã„ttar** harried the borders. The **Concord of Sestara**, fat with coin and trade, drifted from imperial grasp. Meanwhile, in the desert, something darker stirred.
+Following its conversion, the Empire turned inward. It had faith—but not vision. A line of **weak emperors** squandered its strength. Raiders from the **Enaidfae** and **Ättar** harried the borders. The **Concord of Sestara**, fat with coin and trade, drifted from imperial grasp. Meanwhile, in the desert, something darker stirred.
 
-When the **Ahl-e-Ahd** rose, they did so like a storm—terrible and sudden. Their **jihad** into the west brought **siege golems**, **demonic pacts**, and **enslaved spirits of war**. Whole provinces were lost in days. The **Velian States** fell. The capital trembled.
+When the **Ahl-e-Ahd** rose, they did so like a storm—terrible and sudden. Their **Unsealing** into the west brought **siege golems**, **demonic pacts**, and **enslaved spirits of war**. Whole provinces were lost in days. The **Velian States** fell. The capital trembled.
 
 The **First Crusade** stemmed the tide, but only barely. Legions were drawn from the east, leaving **Eclessia** defenseless. There, bandits, heretics, and the Enaidfae descended. The imperial grasp faltered. Provinces declared autonomy. Rebellion brewed.
 

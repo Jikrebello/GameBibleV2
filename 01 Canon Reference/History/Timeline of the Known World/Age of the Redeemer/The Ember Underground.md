@@ -44,12 +44,12 @@ No single person ever led the Underground. It survived precisely because it was 
 
 ### **Structure and Symbolism**
 
-#### âœ´ï¸ **Cell Structure**
+####  **Cell Structure**
 
 - Each Ember “cell” knew only two others—one above, one below. This ensured **no arrest could unravel the entire chain**.
 - Identity confirmation was visual, not verbal: using **burn marks** on driftwood, leaf-bark, or etched coins. These were not random symbols but fragments of **Redeemer parables**, decipherable only by the faithful.
 
-#### ðŸš© **Ember Marks**
+####  **Ember Marks**
 
 - Hidden sanctuaries were marked by a **crescent burn** over the doorframe—visible only in firelight or by passing a heated iron near the wood.
 - Entry required the whispered phrase:
@@ -58,7 +58,7 @@ No single person ever led the Underground. It survived precisely because it was 
     > Those who gave the wrong phrase were marked as “ash-breathers”—a code for infiltrators—and never seen again.
     
 
-#### ðŸ•¯ï¸ **Methods of Preservation**
+####  **Methods of Preservation**
 
 - Fragments of the **Gospel of Fire** were hidden in the **bindings of imperial law books**, the **seams of robes**, or even engraved on **the undersides of plates** used in noble households.
 - **Children of believers** were smuggled to distant monasteries or raised in coded oral traditions designed to pass doctrine without paper.
@@ -73,7 +73,7 @@ No single person ever led the Underground. It survived precisely because it was 
 
 ---
 
-#### ðŸ“ _The Tomb-Roads of Ramasca_
+####  _The Tomb-Roads of Ramasca_
 
 - Beneath the shattered city of Ramasca lay a network of **ancient catacombs**, originally built to house the nobility of the Old Faith.
 - When the city fell to imperial purges, the faithful repurposed its tunnels to **house gospel fragments, relics, and fleeing families**.
@@ -82,7 +82,7 @@ No single person ever led the Underground. It survived precisely because it was 
 
 ---
 
-#### ðŸ“ _The Lantern Cradle_
+####  _The Lantern Cradle_
 
 - Once a **Star Pantheon observatory**, now a ruined watchtower deep in the Veridancian hills.
 - Every window of the Cradle was fitted with a **colored lantern**, each representing a martyred saint or lost gospel verse.
@@ -92,7 +92,7 @@ No single person ever led the Underground. It survived precisely because it was 
 
 ---
 
-#### ðŸ“ _The Ashway Bridge_
+####  _The Ashway Bridge_
 
 - A stone bridge crossing a deep ravine near Halmenth, scorched black during an imperial purge.
 - The faithful repurposed the bridge’s **support arches**, building **narrow, hollow passageways** beneath the span to use as meeting points.

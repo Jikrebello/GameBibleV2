@@ -11,7 +11,7 @@ needs: []
 tags:
   - core-canon
 ---
-## ðŸ›ï¸ _The Temple That Would Not Burn_
+##  _The Temple That Would Not Burn_
 
 > _“They lit the flame. But the flame refused them.”_  
 > —Inscription carved into the last standing wall of the Temple at Cyrian
@@ -56,7 +56,7 @@ But **it would not burn.**
 
 ### **Interpretations and Scholarly Debates**
 
-#### ðŸ•¯ï¸ **Eclessian View (Ecclesia Aurelia, High Council Histories)**:
+####  **Eclessian View (Ecclesia Aurelia, High Council Histories)**:
 
 The Temple at Cyrian is considered one of the **Three Silent Miracles** of the Era of Blood and Ash. It represents **divine resistance**: the Holy Flame cannot be wielded by tyranny, and the sanctuary of the Redeemer cannot be destroyed by injustice.
 
@@ -64,7 +64,7 @@ It is often cited in **sermons about spiritual fortitude** and appears in religi
 
 ---
 
-#### ðŸ”¥ **Thalmyric Interpretation (Order of the Phoenix Ascendant, Doctrine of Sacred Rebirth)**:
+####  **Thalmyric Interpretation (Order of the Phoenix Ascendant, Doctrine of Sacred Rebirth)**:
 
 The Thalmyric Church interprets the event not as preservation—but as **transmutation**. The temple’s refusal to burn is seen as the **first proof that the Redeemer’s flame is purifying, not destructive**. It burned away unworthy intentions and false worship—but preserved that which had been consecrated anew.
 
@@ -72,7 +72,7 @@ For Thalmyric mystics, Cyrian is symbolic of **inner sanctification**—that the
 
 ---
 
-#### ðŸ“œ **Imperial Secular Records (Codex Aurelianus, Volume IX)**:
+####  **Imperial Secular Records (Codex Aurelianus, Volume IX)**:
 
 One archivist dismisses the incident entirely, claiming the temple was built with **anomalously resistant quarry stone** and **high humidity** from nearby springs. The "failed burnings," according to this version, were due to **logistical incompetence** and poor weather.
 

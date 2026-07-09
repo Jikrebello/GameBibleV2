@@ -25,7 +25,7 @@ These are not peers. They are the two terminal ends of the metaphysical axis.
 
 ---
 
-## 2) The Cosmic Axis: Heaven â†” Abyss
+## 2) The Cosmic Axis: Heaven ↔ Abyss
 
 Reality is arranged along a gradient:
 
@@ -222,34 +222,34 @@ This belief is not abstract: it threatens every power that depends on misalignme
 # One-Page “Cosmology Diagram in Words”
 
 **FAR RIGHT**  
-Heaven â†’ the Lord’s seat (Redeemer at the right hand)
+Heaven → the Lord’s seat (Redeemer at the right hand)
 
 **RIGHT GATE (within the shell)**  
-Air + Fire â†’ Light â†’ **Lumen Threshold**
+Air + Fire → Light → **Lumen Threshold**
 
 **WORLD EGG (bounded middle)**
 
 - **Shell:** four elemental boundary-realms
 
 - **Inside:**
-    - **Faewild (right yolk):** mythic nature laws â†’ Menhir (circles) â†’ Father Sun/Mother Moon â†’ Solar Sons/Midnight Daughters
-    - **Shadowlands (left yolk):** psychic inversion/hunger architectures â†’ Idols
+    - **Faewild (right yolk):** mythic nature laws → Menhir (circles) → Father Sun/Mother Moon → Solar Sons/Midnight Daughters
+    - **Shadowlands (left yolk):** psychic inversion/hunger architectures → Idols
     - **Material (center outcome):** stable overlap projection
 
-- **Between/around yolks:** **Egg White** (drift, mass, rent) â†’ demiplanes, patrons, dead god debris
+- **Between/around yolks:** **Egg White** (drift, mass, rent) → demiplanes, patrons, dead god debris
  
 
 **THIN SPACES**  
 Projection bruises where yolks misalign or Egg White leaks
 
 **DEATH ROUTE**  
-Material â†’ **Vestibule of Weighing** (truth + consent) â†’ Boatman routes â†’ Rightward or Leftward road
+Material → **Vestibule of Weighing** (truth + consent) → Boatman routes → Rightward or Leftward road
 
 **LEFT GATE (within the shell)**  
-Water + Earth â†’ Depth â†’ **Chthonic Breach**
+Water + Earth → Depth → **Chthonic Breach**
 
 **FAR LEFT**  
-Hell â†’ beyond: Abyss (Adversary’s exile)
+Hell → beyond: Abyss (Adversary’s exile)
 
 
 

@@ -255,17 +255,17 @@ Example: he’ll allow Bank collectors to operate inside the city for one winter
 
 Pick one (or let player actions determine which becomes dominant):
 
-1. **Bank capture:** debt crisis â†’ Bank becomes the payroll â†’ Duke becomes ceremonial
+1. **Bank capture:** debt crisis → Bank becomes the payroll → Duke becomes ceremonial
     
-2. **Theocracy capture:** relic politics â†’ Church courts expand â†’ Duke becomes a vassal
+2. **Theocracy capture:** relic politics → Church courts expand → Duke becomes a vassal
     
 3. **Coup from within:** Castellan/Provost/Household turns the garrison
     
-4. **Folk unification:** brutal policies unify clans â†’ chronic insurgency
+4. **Folk unification:** brutal policies unify clans → chronic insurgency
     
 5. **External annexation:** rival kingdom “helps,” then never leaves
     
-6. **Winter catastrophe:** famine + disease â†’ riot â†’ legitimacy collapse
+6. **Winter catastrophe:** famine + disease → riot → legitimacy collapse
     
 
 ---
@@ -299,3 +299,6 @@ Pick one (or let player actions determine which becomes dominant):
 - [[Grenzburg MOC]]
 - [[Canon Index]]
 
+## Canon Ruling: Grenzmark vs Grenzburg
+
+The ducal *family* is **von Grenzmark** (of the March); the *seat and duchy* are **Grenzburg**. Act I's "Duke Alaric von Grenzmark" and this note's "von Grenzburg" are therefore both correct usage: formal style *Alaric von Grenzmark, Duke of Grenzburg*.

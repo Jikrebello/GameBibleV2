@@ -29,7 +29,7 @@ This note is the causal backbone of the setting. It explains how the present con
 
 ## 3. Age of Scattering
 
-[[Age of Scattering]] turns one exodus into many peoples: proto-Atherians, Jirahar, proto-Ahl-e-Ahd, Fäskogarfolk and Ättar, Sestaran harbor peoples, Tarkhan, Nsizwa, and others.
+[[Age of Scattering]] turns one exodus into many peoples: proto-Atherians, Jirahar, proto-Ahl-e-Ahd, Fäskogarfolk and Ättar, the Vesari river-folk of the east, Sestaran harbor peoples, Tarkhan, Nsizwa, and others.
 
 **Inherited wound:** no people keeps the whole Exodus intact, but every people can claim some fragment of it.
 

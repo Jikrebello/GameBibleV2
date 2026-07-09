@@ -48,18 +48,18 @@ The local bishop immediately proclaimed them the **bones of Calira**, martyred d
 
 ### **The Dispute**
 
-#### ðŸ›¡ï¸ **Eclessian Claim**
+####  **Eclessian Claim**
 
 - Calira was canonized primarily through **Eclessian oral tradition**.
 - Her name appears in the **Book of the Bound**, where her teachings focus on **faith through communal protection**.
 - Eclessian bishops argued that her remains belonged in the **Sanctum Divinitatis** in Aurelia, where the relic could serve the faithful.
 
-#### ðŸ”¥ **Thalmyric Claim**
+####  **Thalmyric Claim**
 
 - Thalmyric clergy maintained that Calira was **spiritually Thalmyric**, due to her militant background and last stand in a mountain pass—one of the earliest models for the **Order of the Vigilant Flame**.
 - They asserted the bones should be housed in **Valrathis**, in a sanctum built to honor the Redeemer’s warriors.
 
-#### ðŸŒ“ **Imperial Remnant Obstruction**
+####  **Imperial Remnant Obstruction**
 
 - A faction of surviving Imperial loyalists claimed the bones were not Calira’s at all, but those of a **Star-Priestess executed for blasphemy**, rebranded by Redeemer zealots.
 - They demanded the remains be **sealed or destroyed** to avoid “heresy by veneration.”

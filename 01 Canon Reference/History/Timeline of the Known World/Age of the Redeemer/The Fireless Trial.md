@@ -11,7 +11,7 @@ needs: []
 tags:
   - core-canon
 ---
-## âš–ï¸ _The Fireless Trial_
+##  _The Fireless Trial_
 
 > _“He said nothing. And yet we heard everything.”_  
 > —Excerpt from the _Testament of Dust_, recovered from the Archives of Caleran
@@ -111,7 +111,7 @@ By the end of the century, the site was regarded as **one of the sacred threshol
 
 ### **Doctrinal Legacy**
 
-#### ðŸ”¹ _The White Flame Doctrine_
+####  _The White Flame Doctrine_
 
 Velmion’s silence became the foundation for the **White Flame Monks**, an ascetic sect dedicated to:
 
@@ -123,7 +123,7 @@ They take a **Vow of Muzzling**, wearing star-metal pendants shaped like bits ar
 
 ---
 
-#### ðŸ”¹ _The Feast of the Silent Flame_
+####  _The Feast of the Silent Flame_
 
 Celebrated in Eclessia on the **27th of Duskfall**, this day commemorates Velmion’s sentencing.
 
@@ -135,7 +135,7 @@ Celebrated in Eclessia on the **27th of Duskfall**, this day commemorates Velmio
 
 ---
 
-#### ðŸ”¹ _The Trial Hymns_
+####  _The Trial Hymns_
 
 Composed anonymously in the decades following the event, the _Trial Hymns_ became some of the earliest poetic scripture of the Redeemer Church.
 

@@ -66,7 +66,7 @@ The **Inquisitors of Saint Malveris** are a covert order within the Eclessian Ch
 ### **3. The Knights of Saint Aveline**
 
 **Mission**:  
-The **Knights of Saint Aveline** are a **crusading order** focused on **border defense** and **holy war** against external threats, particularly the **Enaidfae** and **Ã„ttar** raiders. They take inspiration from **Saint Aveline**, a warrior-saint who defended Eclessia from barbarian invasions centuries ago. The order is known for its **militant zeal** and unwavering commitment to defending Eclessian borders.
+The **Knights of Saint Aveline** are a **crusading order** focused on **border defense** and **holy war** against external threats, particularly the **Enaidfae** and **Ättar** raiders. They take inspiration from **Saint Aveline**, a warrior-saint who defended Eclessia from barbarian invasions centuries ago. The order is known for its **militant zeal** and unwavering commitment to defending Eclessian borders.
 
 ---
 
@@ -75,7 +75,7 @@ The **Knights of Saint Aveline** are a **crusading order** focused on **border d
 - **Grand Crusader**:  
   The **Grand Crusader** leads the order in all matters of war and defense. He coordinates with local lords and church leaders to ensure the **border defenses** remain strong, and leads the knights in **crusades** when deemed necessary.
   
-  **Current Grand Crusader**: **Lord Roland of Virelia**, a stern and battle-hardened commander who has led several successful campaigns against the **Ã„ttar** raiders and their dark Fae allies.
+  **Current Grand Crusader**: **Lord Roland of Virelia**, a stern and battle-hardened commander who has led several successful campaigns against the **Ättar** raiders and their dark Fae allies.
 
 - **Paladins of Aveline**:  
   The **paladins** of this order are heavily armored knights trained in **combat against supernatural threats**. They wear **white and gold plate armor** adorned with **holy symbols** and often carry **tower shields** inscribed with prayers to the Redeemer. Their primary focus is **fighting Fae** and **otherworldly threats**, and they specialize in **warding magic** and **protection spells** to defend against curses.

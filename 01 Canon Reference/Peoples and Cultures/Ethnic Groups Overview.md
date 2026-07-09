@@ -49,7 +49,7 @@ tags:
 
 #### **Fäskogarfolk**
 
-1. **Ã„ttar (Northern Scandinavian Types)**
+1. **Ättar (Northern Scandinavian Types)**
    - **Inspiration**: Norsemen, ancient Swedish peoples.
    - **General Heights**: Men range from **5'10" to 6'4"**, and women from **5'6" to 5'11"**, with some particularly tall individuals among the northernmost populations.
    - **Musculature**: Broad and powerful, with **heavy musculature** being a common trait. Men are often **large-framed**, with **muscular arms, torsos, and legs**, built from a life of labor, farming, and combat. Women also tend to be **strong and athletic**, with broad shoulders and **defined musculature**, especially in the legs and arms.
@@ -63,7 +63,7 @@ tags:
      - **Tall and athletic**, with **broad shoulders** and **strong arms**. Women have muscular legs, particularly the **thighs and calves**, from traveling across rugged northern terrain.
      - **Hair**: Typically **blond or light brown**, long, and often worn in braids or waves.
      - **Facial features**: Women have **angular faces**, with **high cheekbones**, **blue or gray eyes**, and **fine brows**.
-     - **Hips and waist**: Women from Ã„ttar have **slim waists** but are often curvier than expected, with firm but prominent hips.
+     - **Hips and waist**: Women from Ättar have **slim waists** but are often curvier than expected, with firm but prominent hips.
 
 2. **Enaidfae (Celtic/Pictish Peoples)**
    - **Inspiration**: Ancient Celts of Roman Gaul and Picts of the British Isles.
@@ -123,12 +123,12 @@ tags:
 ---
 
 #### **Concord of Sestara**
-- **Ethnic Background**: A diverse blend of **Thalmyric**, **Eclessian**, **Ahl-e-Ahd**, and **Ã„ttar** influences. Ethnic traits vary significantly across city-states, with each region reflecting different degrees of intermixing.
-- **General Heights**: Highly variable. Men range from **5'8" to 6'2"**, and women from **5'3" to 5'10"**. **Ã„ttar-influenced** regions often have taller individuals.
+- **Ethnic Background**: A diverse blend of **Thalmyric**, **Eclessian**, **Ahl-e-Ahd**, and **Ättar** influences. Ethnic traits vary significantly across city-states, with each region reflecting different degrees of intermixing.
+- **General Heights**: Highly variable. Men range from **5'8" to 6'2"**, and women from **5'3" to 5'10"**. **Ättar-influenced** regions often have taller individuals.
 - **Musculature**: Builds range from **lean and wiry** in city-states like **Fiorenzia**, to **sturdy and athletic** in places like **Aversia**. Mercenaries often have **muscular builds**, while more affluent populations tend toward **leaner frames**.
   
 - **Masculine Traits**:
-  - **Facial features**: Depending on the city-state, some men exhibit **Eclessian** softness, while others have **Thalmyric** angularity or **Ã„ttar** ruggedness. **Broad, strong jawlines**, **sharp cheekbones**, and **full lips** are common.
+  - **Facial features**: Depending on the city-state, some men exhibit **Eclessian** softness, while others have **Thalmyric** angularity or **Ättar** ruggedness. **Broad, strong jawlines**, **sharp cheekbones**, and **full lips** are common.
   - **Hair**: Varies from **dark brown to black** with **wavy or straight textures**. In northern regions, **blond** or **light brown hair** appears frequently.
   - **Body**: Leaner in the arts-focused city-states like Fiorenzia, and **muscular** in military hubs like Aversia. **Broad shoulders** and **well-defined legs** are often seen, especially among the **mercenaries**.
   

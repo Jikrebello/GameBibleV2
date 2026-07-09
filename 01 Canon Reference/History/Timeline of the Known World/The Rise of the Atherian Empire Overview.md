@@ -14,7 +14,7 @@ tags:
 > _"Out of blood, fire, and the whisper of the stars, Atheria rose."_ —Opening line of the _Chronicles of Aurelius Caldon_, Imperial Historian
 
 ### **I. Origins: The Founding of Atheria**
-The Atherian Empire did not begin as a grand vision—it emerged from a confederation of squabbling city-states on the highland coasts of the western continent, near the future site of **Caleran**. These city-states were initially tied together by mutual protection pacts against coastal raiders, particularly **Ã„ttar reavers** from the southern forests and seas.
+The Atherian Empire did not begin as a grand vision—it emerged from a confederation of squabbling city-states on the highland coasts of the western continent, near the future site of **Caleran**. These city-states were initially tied together by mutual protection pacts against coastal raiders, particularly **Ättar reavers** from the southern forests and seas.
 
 #### **The Twelve Tribes of Atheria**
 - Originally, twelve distinct clans controlled fortified hill-cities.
@@ -34,10 +34,10 @@ The Atherian Empire did not begin as a grand vision—it emerged from a confeder
 - Expansionist policies began in earnest, targeting smaller kingdoms along the coast and rich farmlands inland.
 
 #### **The Fäskogar Wars**
-- Initial Atherian incursions into the southern forests were met with fierce resistance by **totemic Ã„ttar warriors** and arcane **Enaidfae cults**.
+- Initial Atherian incursions into the southern forests were met with fierce resistance by **totemic Ättar warriors** and arcane **Enaidfae cults**.
 - The First War ended in failure, with Atherian legions being ambushed and destroyed in the Blackpine Glades.
 - The Second War was more methodical. Atheria adopted scorched earth tactics and fortification strategies, building outposts and using deforested corridors to push deeper.
-- Eventually, several key Ã„ttar tribes were defeated, and the **Southern Marches** were established.
+- Eventually, several key Ättar tribes were defeated, and the **Southern Marches** were established.
 
 #### **The Concord Suppression**
 - The loosely connected merchant cities of **proto-Sestara** resisted taxation and religious conformity.
@@ -64,7 +64,7 @@ The Atherian Empire did not begin as a grand vision—it emerged from a confeder
 #### **The Border Consolidation Wars**
 - Major campaigns launched in the northern steppes and eastern highlands.
 - Defeated the **Khadoric Horse Lords**, bringing their tribal lands under Atherian governance.
-- Rebellions among Ã„ttar tribes in the south were crushed, though some escaped deep into the forested tundra.
+- Rebellions among Ättar tribes in the south were crushed, though some escaped deep into the forested tundra.
 
 #### **Religious Centralization**
 - The old temple leagues were dissolved.

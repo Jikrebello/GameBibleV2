@@ -42,13 +42,13 @@ The story rapidly spread along trade routes and underground monastic paths, and 
 
 ### **Liturgical and Theological Legacy**
 
-#### ðŸ”¥ _The Doctrine of the Living Burnt_
+####  _The Doctrine of the Living Burnt_
 
 A theological branch that asserts **the flame given by the Redeemer is not meant to consume**, but to illuminate and refine. The Forty Flames are seen as its first proof.
 
 According to the **Thalmyric Order of the Phoenix Ascendant**, the martyrs’ deaths symbolized the transition from passive martyrdom to **active sanctification**: they were **transformed**, not destroyed.
 
-#### ðŸ•¯ï¸ _Communal Martyrdom_
+####  _Communal Martyrdom_
 
 Unlike earlier single martyr legends, this was a **mass death**, remembered as a **consecration of a people**, not just individuals. Eclessian scholars refer to it as the **first collective sainthood**.
 

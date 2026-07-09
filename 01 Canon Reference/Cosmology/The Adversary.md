@@ -149,7 +149,7 @@ When the Adversary’s influence increases locally, the world should show **proc
 
 ## A cleaner symmetry with the Lord
 
-If the Lord’s signature is **light-as-coherence** and avian imagery (air+fire â†’ light), then the Adversary’s signature should be **depth-as-severance** and aquatic/insect imagery (water+earth â†’ mud-depth).
+If the Lord’s signature is **light-as-coherence** and avian imagery (air+fire → light), then the Adversary’s signature should be **depth-as-severance** and aquatic/insect imagery (water+earth → mud-depth).
 
 That gives you a crisp rule-of-thumb:
 - **Heavenly manifestation:** clarity, uplift, song, avian forms, burning brightness that reveals.

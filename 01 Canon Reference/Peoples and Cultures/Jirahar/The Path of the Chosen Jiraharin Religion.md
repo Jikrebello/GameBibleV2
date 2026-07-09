@@ -51,7 +51,7 @@ At the core of Jiraharin faith are the **Scrolls of the Path**, a collection of 
 
 The Jiraharin faith is not just a **set of static laws** but a **living legal tradition** that adapts to new situations through **interpretation, debate, and precedent**. This tradition is preserved in the **Ta'arifat al-Tariq** (_Interpretations of the Path_), a vast **oral and written commentary** that **expands upon the sacred laws** while maintaining their divine essence.
 
-At the heart of Jiraharin **legalism** is **Jihad al-Kalima** (_The Struggle of the Word_), an **intellectual and spiritual battle** waged by **scholars, judges, and merchants** to determine **how the law applies to contemporary life**.
+At the heart of Jiraharin **legalism** is **Jahd al-Kalima** (_The Struggle of the Word_), an **intellectual and spiritual battle** waged by **scholars, judges, and merchants** to determine **how the law applies to contemporary life**.
 
 #### **Major Components of Legal Interpretation**
 

@@ -1,5 +1,5 @@
 ---
-type: event
+type: source
 status: canon
 canon_level: local
 era: []
@@ -9,8 +9,13 @@ related_factions: []
 appears_in: []
 needs: []
 tags:
+  - in-world-source
   - core-canon
 ---
+# Mono-Myth Overview
+
+> **Authorial status (canon ruling, hybrid origin):** This document is the *in-world synthesis myth* — the common story the scattered peoples tell, reconstructed by scholars. It is **partially true**. Behind the curtain: the Rebellion happened, and the defeated rebels **fused with pre-existing yolk structures** — some wedding themselves to Faewild nature-law (becoming the Menhir as now known), others to Shadowlands meaning-architecture (the Idols). The myth's claim that the Menhir and Idols simply *are* fallen angels compresses that fusion; the World Egg Cosmology's claim that they are pure nature-laws compresses it from the other side. Neither in-world tradition knows the whole. "Dreamlands" below is the archaic term for the Shadowlands — see [[Names of the Menhir, Masks of the Idols]].
+
 #### **1. Creation and the Fall of Humanity**
 
 In the earliest days, when the world was still young and untouched by corruption, humanity lived in a state of grace. The Lord, a divine and incomprehensible force, had crafted them as the pinnacle of creation, destined to one day inherit the earth and guide it with wisdom and love. Humanity was given dominion over the earth, not to rule it as tyrants, but as stewards who would nurture and cultivate the land in harmony with the divine order.
@@ -70,7 +75,7 @@ As the people crossed into the southern lands, they settled into distinct region
 
 - **The Atherians**, though once followers of the Great Prophet, fell back into old ways, worshiping the **Idols** and **Menhir** as gods. Their descendants formed mighty city-states, driven by power and ambition, with little memory of the Lord's commandments.
 
-- **The Fäskogarfolk** split into two distinct groups: the **Ã„ttar**, who became a proud and warlike people bound to nature, and the **Enaidfae**, who blended spiritualism with a reverence for natural forces. Both groups retained elements of the **Menhir** in their beliefs, focusing on nature’s raw power rather than the Lord.
+- **The Fäskogarfolk** split into two distinct groups: the **Ättar**, who became a proud and warlike people bound to nature, and the **Enaidfae**, who blended spiritualism with a reverence for natural forces. Both groups retained elements of the **Menhir** in their beliefs, focusing on nature’s raw power rather than the Lord.
 
 - **The Jirahar**, unlike the others, remained faithful to the Great Prophet’s original teachings. They rejected the idea of a permanent home, believing they were still in search of the true promised land. They became a nomadic people, forming **caravans** and **tower towns**, always on the move, following the paths of their ancestors in an unending quest for the divine promise.
 
