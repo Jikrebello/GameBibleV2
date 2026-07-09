@@ -76,3 +76,20 @@ The great ghoul cities and the process of transformation through ghoul fever enr
 - [[Canon Index]]
 - [[Canon Index]]
 
+---
+
+## Canon Links and Rulings (enforcement pass)
+
+**The Devourer = the Idol of Gluttony** — see [[Names of the Menhir, Masks of the Idols]] and [[Bestiary Framework — Creatures of the World Egg]]. Ghoul-feeding on "residual essence" is soul-route interference: a corpse consumed unburied frays what the dead still owed the road. **This is why burial rites are infrastructure, not sentiment** — consecrated ground, grave-watch vigils, and the funeral offices are the Material realm's anti-ghoul (and anti-Devourer) civil engineering, and every sexton is a border guard who doesn't know it. The Boatman's office and the ghoul-cities are, in the oldest sense, competing logistics networks for the same freight.
+
+## Game-Ready Layer
+
+**Signs:** graves subsiding weeks after burial; grave-wax sold too cheap in one market; dogs refusing whole streets; mourners' food-offerings gone by morning in patterns too tidy for animals; a village that has quietly stopped reporting its dead.
+
+**Tactics:** Scavengers swarm and flee — they want the dead, not you; killing them is easy and useless. Elders of Decay fight like sieges: desolation auras, tunnel collapse, patience. The true threat is logistical — a ghoul warren under a city consumes its cemetery from below for a generation before anyone knows, and by then the Warrens have citizens who were baptized upstairs.
+
+**Loot and materials:** grave-wax and corpse-tallow (the necromantic black market's diesel); elder ichor (Fleshweaver-grade reagent, Church-anathema); necropolis salvage (the ghoul-cities sit in older ruins — Nihil's foundations predate its plague); and ransomable relics, because ghouls collect what the dead were buried with and the Devourer's tithe does not include gold.
+
+**Faction use:** the Church's funeral offices (the quiet front line); Bank actuarial interest in "cemetery yield" scandals; Vorthara's Red Covenant buying ichor; necromancer-cults negotiating cadaver-tribute treaties with warrens — the setting's dirtiest open secret in at least one southern city.
+
+**Hooks:** a parish's dead are reaching the Vestibule "frayed" and a saint's shrine has begun weeping soot; the Warrens offer the Duke a corpse-tithe treaty during the siege-winter (the arithmetic is monstrous and it *works*); an Elder of Decay wants one specific grave protected — from its own kind; the Dusk Barrows are training scavengers to retrieve not bodies but *books*.

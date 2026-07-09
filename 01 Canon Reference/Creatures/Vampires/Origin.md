@@ -12,7 +12,7 @@ tags:
   - core-canon
 ---
 #### The Birth of Vampirism: The Bloodlines of The Sovereign
-#### The Vampiric Legacy of The Imperial Court's Giants
+#### The Vampiric Legacy of the Imperial Court of Anshara's Giants
 
 The Giants of The Imperial Court, commanded immense influence over the land and its people, primarily through the toil of human slaves. Their true dominion lay in their divine lineage from the Idol of Pride, "The Sovereign," which granted them a potent, primordial form of vampirism. This ancient vampirism was not just a predatory trait but a profound embodiment of their divine heritage, pride, and sovereignty.
 
@@ -50,3 +50,7 @@ The Giants of The Imperial Court stand as the monumental figures at the heart of
 - [[Canon Index]]
 - [[Canon Index]]
 
+## Navigation
+
+- [[Vampires in the Present Age]]
+- [[Bestiary Framework — Creatures of the World Egg]]

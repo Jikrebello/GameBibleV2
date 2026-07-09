@@ -35,8 +35,27 @@ tags:
 
 Incorporating Nightmares into the realm of The Endless Dusk adds a dynamic element of fear and action to its otherwise somber atmosphere, providing a direct link between the abstract dangers of sloth and the very real consequences of letting fear and darkness take hold. Through these creatures, the realm's influence extends into the waking world, reminding all of the power of dreams and the darkness that lies in wait for those who dare to venture too deep into the night.
 
+---
+
+## Canon Links and Rulings (enforcement pass)
+
+**The Slumberer = the Idol of Sloth; the Endless Dusk is Sloth's demesne of the Shadowlands** — see [[Names of the Menhir, Masks of the Idols]] and [[Bestiary Framework — Creatures of the World Egg]]. Nightmares cross at sloth-soaked thin spaces: places of abandoned purpose — derelict monasteries, surrendered sieges, towns that stopped rebuilding.
+
+## Game-Ready Layer
+
+**Signs:** a dream-plague with shared imagery (many sleepers, one landscape); scorch-lines on roads with no fire reported; horses refusing a stable where nothing is visibly wrong; a community's plans all quietly postponed the same season.
+
+**Tactics:** in the Material a Nightmare fights as terror-cavalry — soul-scorching flame, shadow-stepping, and the rider's enhanced dream-drawn powers. The mount is the easier kill; the *pact* is the target. Sever it (waking rites, the rider's true purpose named aloud, White Flame) and the beast recoils to the Dusk.
+
+**Capture and use:** bridling a Nightmare is possible and always a bargain — the classic Sinner cavalry-gift, and the reason a rider's ambitions grow both grander and lazier: the mount feeds on havoc and teaches its rider to dream instead of do. Warlock attempts to stable one end in the same three ways, and Vorthara has records of all three.
+
+**Loot:** mane-cinders (fear-tinctures, illegal everywhere), hoof-iron that never cools (smith-occult prize), and the bridle itself — which is never destroyed, only inherited, and knows it.
+
+**Hooks:** a garrison town's whole officer corps shares one recurring dream a week before the Grobi come; a penitent ex-rider seeks help burying a bridle no grave will keep; the Endless Dusk leaks into a hospital's sleep-ward and the Ember-Visionaries send exactly one very calm old nun.
+
 ## Navigation
 
 - [[Canon Index]]
-- [[Canon Index]]
+- [[Bestiary Framework — Creatures of the World Egg]]
+- [[Thin Spaces]]
 

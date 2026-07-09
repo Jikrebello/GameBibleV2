@@ -76,3 +76,25 @@ The Grobi, with their unique physiological and societal characteristics, represe
 - **A Dance with Nature**: For the Grobi, their life cycle tied to the seasons becomes a sacred rhythm, a testament to their resilience and adaptability. Their shamans and leaders interpret the changes in the seasons as signs and omens, guiding their movements and strategies in a perpetual dance with the forces of nature.
 
 This seasonal dynamic introduces a layer of predictability to the Grobi threat, allowing for strategic planning and preparation by human defenders. However, it also underscores the tragic nature of the Grobi, driven by forces beyond their control to wage a never-ending battle for survival. The annual cycle of growth and decline paints the Grobi not just as mindless monsters, but as a deeply integrated part of the world's natural and supernatural ecosystem, forever bound to the cycle of seasons and the wrath of their creation.
+
+---
+
+## Canon Links and Rulings (enforcement pass)
+
+**The Fury = the Idol of Wrath** — see [[Names of the Menhir, Masks of the Idols]]. The Grobi are Wrath's oldest surviving harvest: humans re-authored by an Idol, now a true-breeding species. This is why Grobi mass-violence *feeds* something, and why battlefields against them tend to thin.
+
+### The Pale-Skins Are Not Grobi
+
+Canon ruling: the pale deep-dwellers of the Grenzburg arc (and their Hollow-King ruler-caste) are **a separate ancient species** — proposed as the sunken remnant of the pre-human barrow-builders (see [[Bestiary Framework — Creatures of the World Egg]]). They manipulate Grobi warbands through hunger and awe; they are not of them. Surface Grobi who have met them do not speak of them, which from Grobi is remarkable.
+
+## Game-Ready Layer
+
+**Signs of Grobi presence:** stripped carcasses down to cracked marrow-bone; middens that include leather, bark, and bone (they eat *everything*); trail-widths that tell you the largest walker's stage; smoke discipline in autumn (organized band) versus none (starving splinter); drums only when they intend to be heard.
+
+**Tactics by stage:** goblin swarms harass, exhaust, and lead pursuers onto worse ground; hobgoblin bands fight with real doctrine, shields, and voodoo-hexes; a transformed-orc leader means ambush, feint, and target selection (granaries before walls); ogres are living siege engines pointed by cleverer hunger. Kill the food supply and the band literally shrinks — starving hobgoblins revert, and a reverting band turns on itself. That is the brutal core of Grobi-frontier strategy, and both the mercy and the atrocity options it creates are intended.
+
+**Loot and materials:** hides and sinew (hard-wearing, low-status), hobgoblin voodoo fetishes (hedge-occult market, Church contraband), orc-teeth (Folk trophy-currency), and stage-gland extracts — the alchemical scandal: preparations from Grobi metamorphic organs interest the Fleshweavers of Vorthara for exactly the reasons the Church bans them.
+
+**Faction use:** the Duke needs migration forecasts; the Bank insures against raid seasons (and profits either way); the Folk trade Grobi intelligence for recognition; Vorthara buys specimens; the Church debates whether Grobi have routable souls — the standing theological horror question of the frontier, deliberately unresolved.
+
+**Hooks:** a winter matron offers a corridor-truce the Duke cannot afford and cannot refuse; a starving splinter band converts at a Chapel-Folk mission and no one — Church, Folk, or Grobi — knows what that means; a Fleshweaver caravan is buying live goblins and the price is going *up*; the drums stop entirely, which has never once been good news.

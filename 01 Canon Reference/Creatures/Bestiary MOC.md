@@ -13,8 +13,11 @@ tags:
 ---
 # Bestiary MOC
 
+- [[Bestiary Framework — Creatures of the World Egg]] — the master key: every family placed in the cosmology.
+
 ## Creature Families
 
+- [[Vampires in the Present Age]] — synthesis dossier: cosmology, weaknesses-as-law, the 1360 board.
 - [[Bloodlines Overview]]
 - [[Origin]]
 - [[Overview]]
@@ -30,6 +33,8 @@ tags:
 - [[Ogres]]
 
 ## Drakes
+
+- [[Drakes Overview]] — family ruling: Faewild court-fauna; color = Menhir court; heart-gems = crystallized law.
 
 - [[Bronze Drakes]]
 - [[Emerald Drakes]]

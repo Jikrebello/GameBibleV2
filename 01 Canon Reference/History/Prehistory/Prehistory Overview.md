@@ -43,9 +43,16 @@ tags:
 - **Technology and Achievements:** Nythalum was the most technologically advanced of the giant civilizations. They built towering spires that could launch into space, complex machines powered by the minds of their rulers, and a civilization that blended magic and technology. The most ambitious project was their attempt to settle on the moon, which ultimately led to their downfall.
 - **Decline:** The downfall of Nythalum came when their ambitious project to reach the moon ended in disaster. Most of the spires exploded upon launch, killing the majority of their population. The few who made it to the moon were forced to upload their minds into their ship computers, becoming disembodied entities. In later years, strange, hostile metal creatures, controlled by the minds of these surviving giants, began to appear on the planet, signaling their eerie and incomprehensible return.
 
+### **5. The Imperial Court of Anshara**
+- **Inspiration:** Achaemenid Persia
+- **Geography:** A plateau empire of satrap-courts, paradise-gardens, and processional roads — the Court of Courts, where the other empires' envoys knelt.
+- **Ruling Giants:** The Giants of the Imperial Court, children of the **Idol of Pride ("The Sovereign")**, whose divine blood carried **primordial vampirism** — sovereignty over life itself made physical (see [[Origin]]).
+- **Culture and Religion:** Rule as liturgy: rank, radiance, tribute, and the gift-and-curse of the Giants' blood, by which favored mortals were made the first vampires and enemies were cursed through their lineages.
+- **Decline:** Anshara was not broken by the Great Prophet's plagues like its four sisters — **it drank itself**. The bloodlines it had made turned on the Court; the paradise-gardens closed over the wreckage. Its omission from the surviving myths is the oldest redaction in the world; vampire tradition remembers what human tradition was made to forget.
+
 ### Summary
 
-These ancient giant civilizations—**Qianglong, Ishkatar, Xolotl,** and **Nythalum**—each played a pivotal role in the early history of the world. They were defined by their unique cultures, religious practices, technological achievements, and their ultimate downfalls, leaving behind legacies of grandeur, horror, and mystery that continue to echo through the ages. Their ruins now serve as haunted reminders of the power and ambition that once shaped the world, and their stories are woven into the myths and legends of the southern hemisphere.
+These ancient giant civilizations—**Qianglong, Ishkatar, Xolotl, Nythalum,** and half-remembered **Anshara**—each played a pivotal role in the early history of the world. They were defined by their unique cultures, religious practices, technological achievements, and their ultimate downfalls, leaving behind legacies of grandeur, horror, and mystery that continue to echo through the ages. Their ruins now serve as haunted reminders of the power and ambition that once shaped the world, and their stories are woven into the myths and legends of the southern hemisphere.
 
 ## Navigation
 

@@ -40,3 +40,8 @@ Each bloodline serves a specific function within vampire society, contributing t
 Under The Sovereign's patronage, these bloodlines are bound by a common purpose: to maintain their superiority and control over the mortal realm while navigating the internal politics and power struggles of their own society. Despite their differences, all bloodlines share the burden of isolation and the melancholy of immortality, themes that resonate deeply with The Sovereign's domain of pride and solitude.
 
 Through the intricate web of bloodlines, vampire society under The Sovereign becomes a mirror to the complexities of power, identity, and the eternal quest for a place in a world that forever changes around them.
+
+## Navigation
+
+- [[Vampires in the Present Age]]
+- [[Bestiary Framework — Creatures of the World Egg]]

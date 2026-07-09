@@ -31,7 +31,10 @@ The Idols are meaning-predators; wearing many masks is not incidental to them bu
 
 - **Wrath** = **Furor** (Xolotl's blood-cult) = **The Fury** (the name in the Grobi origin-curse). The Grobi are Wrath's oldest surviving harvest.
 - **Greed** = **Avarix** (Ishkatar's serpent-cult).
-- The remaining five (Pride, Envy, Lust, Gluttony, Sloth) each have historical masks to be named as sources require — every Idol-cult in history gets its own mask, and cataloguing them is legitimate in-world scholarship (and a Vorthara research hazard).
+- **Pride** = **The Sovereign** (the vampire canon's name; patron of the Giant Imperial Court of Anshara and the five bloodlines descended from its blood).
+- **Gluttony** = **The Devourer** (the ghoul canon's name; the necropolis-cults and the Feasts of the Fallen).
+- **Sloth** = **The Slumberer**, whose Shadowlands demesne is **the Endless Dusk** (the nightmare canon's realm — a named Idol sub-region of the left yolk, useful precedent: each Idol shapes its own district of the Shadowlands).
+- **Envy and Lust** await their historical masks — every Idol-cult in history gets its own, and cataloguing them is legitimate in-world scholarship (and a Vorthara research hazard).
 
 ## Archaic Terms
 
