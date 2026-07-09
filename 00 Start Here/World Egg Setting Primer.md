@@ -15,6 +15,12 @@ tags:
 
 ## 1) One-page “How the world works” cheat sheet
 
+### The Material Realm
+
+- The Material Realm is the grounded base plane where mortal history happens. It is broadly similar to our own world in physical law, ecology, society, mortality, and ordinary human life.
+
+- The stranger layers of reality do not replace the Material Realm. They pressure it through intrusions, overlays, leaks, bargains, rituals, relics, contracts, warlock scripts, and thin spaces.
+
 ### The Axis (objective cosmology)
 
 - **Rightward terminal:** Heaven, culminating in **the Lord** (all-good, self-sustaining coherence). The **Redeemer** stands at the Lord’s right hand.
@@ -260,19 +266,20 @@ When you’re unsure what a weird event means, ask:
 
 1. Which layer is leaking (Faewild / Shadowlands / Astral Plane)?
     
-2. What is the rent stream (who is paying upkeep, and how)?
+2. Is this Shell force, Faewild law, Shadowlands predation, Astral rent, or divine/leftward soul pressure?
     
-3. Is a true-name involved (custody, leakage, forgery)?
+3. What is the rent stream (who is paying upkeep, and how)?
     
-4. Which institution benefits if a certain interpretation is believed?
+4. Is a true-name, script, relic, or contract involved?
     
-5. What anomaly persists (relic behavior, thin-space symptom, contradictory record)?
+5. Which institution benefits if a certain interpretation is believed?
+
+6. What anomaly persists (relic behavior, thin-space symptom, contradictory record)?
     
 
-If you can answer those five, the setting stays coherent even when truth stays arguable.
+If you can answer those six, the setting stays coherent even when truth stays arguable.
 
 ## Navigation
 
 - [[Canon Index]]
-- [[Canon Index]]
-
+- [[Setting Commandments]]

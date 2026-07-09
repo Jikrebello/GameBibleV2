@@ -13,6 +13,8 @@ tags:
 ---
 # Present Day Dossier
 
+See also: [[Present-Day Political Board]].
+
 ## The Board Now
 
 The present day is defined by the death of old Atheria and the fight over who gets to inherit its body, roads, saints, archives, and sins.

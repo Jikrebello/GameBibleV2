@@ -15,15 +15,18 @@ tags:
 
 ## Start Here
 
+- [[Material Realm Overview]]
 - [[World Egg Setting Primer]]
 - [[The World Egg Cosmology]]
 - [[Who’s Who in the Cosmology]]
 - [[The Lord and Redeemer]]
 - [[The Adversary]]
+- [[Elemental Shell and the Four Planes]]
 
 ## Major Systems
 
 - [[The Vestibule of Weighing]]
+- [[Soul Routing and the Vestibule]]
 - [[Saints, Sinners, Druids and Hollows]]
 - [[The Egg White Primer]]
 - [[Patrons]]
@@ -42,5 +45,5 @@ tags:
 
 ## Canon Note
 
-The World Egg primer is treated as the current top-level canon. Older phase folders have been archived for review rather than deleted.
+The World Egg primer is treated as the current top-level canon. The Material Realm is the grounded base plane; stranger layers pressure, rupture, overlay, or weaponize it rather than replacing ordinary reality.
 

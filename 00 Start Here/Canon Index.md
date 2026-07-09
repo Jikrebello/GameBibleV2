@@ -17,10 +17,12 @@ Use this as the main doorway into the world bible.
 
 ## Core Setting
 
+- [[Setting Commandments]]
 - [[World Egg Setting Primer]]
 - [[Cosmology MOC]]
 - [[Magic & Metaphysics MOC]]
-- [[Present Day Dossier]]
+- [[Material Realm Overview]]
+- [[Present-Day Political Board]]
 - [[Geography Atlas]]
 
 ## Lore Pillars
@@ -29,6 +31,7 @@ Use this as the main doorway into the world bible.
 - [[Timeline MOC]]
 - [[Bestiary MOC]]
 - [[Grenzburg MOC]]
+- [[Grenzburg as Vertical Slice]]
 - [[Needs Work]]
 
 ## Dynamic Views
@@ -37,4 +40,3 @@ Use this as the main doorway into the world bible.
 - ![[Needs Work.base]]
 - ![[Game-Ready Content.base]]
 - ![[Apocrypha & In-World Sources.base]]
-

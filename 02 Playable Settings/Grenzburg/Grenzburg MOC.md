@@ -19,6 +19,7 @@ Grenzburg is the first playable testbed for the setting: a frontier duchy trying
 
 ## Start Here
 
+- [[Grenzburg as Vertical Slice]]
 - [[Factions Overview]]
 - [[Three-Act Overview]]
 - [[Companion Quests]]
@@ -39,5 +40,5 @@ Grenzburg is the first playable testbed for the setting: a frontier duchy trying
 
 ## Game-Use Checklist
 
-Each Grenzburg note should make clear: what the player can do with it, who wants what, what changes by season, what bargain has a cost, and what quest naturally emerges.
+Each Grenzburg note should make clear: material survival pressure, faction legitimacy pressure, metaphysical consequence, what changes by season, what bargain has a cost, and what quest naturally emerges.
 

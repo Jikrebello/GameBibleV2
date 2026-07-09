@@ -15,11 +15,14 @@ tags:
 
 ## Continental Powers
 
+- [[Eclessia Cultural Thesis]]
 - [[Eclessia Overview]]
+- [[Thalmyria Cultural Thesis]]
 - [[Thalmyric Empire Overview]]
 - [[The Sestaran Concord Overview]]
 - [[The Ahl-e-Ahd Overview]]
 - [[The Jirahar Overview]]
+- [[Present-Day Political Board]]
 
 ## Older Peoples and Cultural Roots
 
@@ -31,6 +34,5 @@ tags:
 
 ## Culture Design Checklist
 
-Each major culture should eventually answer: player-facing fantasy, homeland, institutions, faith, economy, warfare, internal tensions, neighbors, NPC archetypes, quest hooks, and current political pressure.
-
+Each major culture should eventually answer: what it believes reality is, what institutions that belief creates, what genuine good it preserves, what evil or temptation it risks, how ordinary people live inside it, and what quests naturally emerge from its pressure points.
 

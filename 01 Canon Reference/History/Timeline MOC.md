@@ -15,6 +15,7 @@ tags:
 
 ## Main Timeline
 
+- [[Historical Spine of the Known World]]
 - [[Timeline of the Known World Overview]]
 - [[The Atherian Empire – Age of Glory]]
 - [[The Age of the Redeemer]]
@@ -28,6 +29,7 @@ tags:
 - [[Mono-Myth Overview]]
 - [[The Rise of the Atherian Empire Overview]]
 - [[The Rise of the Redeemer]]
+- [[Present-Day Political Board]]
 
 ## Missing Event Notes Created For Link Repair
 
@@ -37,4 +39,3 @@ tags:
 - [[The War of the Burning Banners]]
 - [[The Refuge and the Rise of Veridun]]
 - [[The Reclamation of Caleran]]
-
