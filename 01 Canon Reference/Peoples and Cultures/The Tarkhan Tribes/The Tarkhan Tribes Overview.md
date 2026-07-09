@@ -1,4 +1,4 @@
-﻿---
+---
 type: culture
 status: canon
 canon_level: local

@@ -160,7 +160,7 @@ Rule: disputes persist because truth has value; institutions manufacture it.
 
 ## 4) Present-era geopolitical board (campaign stage)
 
-**Time:** ~80 years after the great split between Eclessia and Thalmyria.  
+**Time:** 1360 AR — 345 years after the Great Split between Eclessia and Thalmyria (1015 AR), two generations into the Eclessian Reformation. See [[Chronology of the Known World (AR Dating)]].  
 **Main collision zone (“Tamriel board”):** Eclessia, Thalmyria, Sestaran Concord and the Ahl-e-Ahd.  
 **Weirdness dial:** ~10–15% stranger than standard Elder Scrolls.
 

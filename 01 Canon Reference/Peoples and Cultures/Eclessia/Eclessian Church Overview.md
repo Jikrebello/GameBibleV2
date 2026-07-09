@@ -11,14 +11,14 @@ needs: []
 tags:
   - core-canon
 ---
-The **Eclessian Church** is the dominant religious institution in **Eclessia**, a vast and politically fragmented region that emerged from the western provinces of the fallen **Atherian Empire**. The Church, inspired by the teachings of **Isfir the Redeemer**, wields immense spiritual, political, and cultural influence. It serves as both a unifying force and a powerful entity in its own right, deeply embedded in the daily lives of the people and the governance of the region. The Church seeks to fulfill the divine mission of restoring the unity and glory of the Atherian Empire, guided by the faith of the **Redeemer**.
+The **Eclessian Church** is the dominant religious institution in **Eclessia**, a vast and politically fragmented region that emerged from the eastern provinces of the fallen **Atherian Empire**. The Church, inspired by the teachings of **Isfir the Redeemer**, wields immense spiritual, political, and cultural influence. It serves as both a unifying force and a powerful entity in its own right, deeply embedded in the daily lives of the people and the governance of the region. The Church seeks to fulfill the divine mission of restoring the unity and glory of the Atherian Empire, guided by the faith of the **Redeemer**.
 
 ---
 
 ### **Historical Context**
-The Eclessian Church traces its origins back to the early days of the Redeemer’s teachings, spreading rapidly among the marginalized and oppressed peoples of the western provinces of the Atherian Empire. As the Redeemer’s message of **love, redemption, and spiritual freedom** resonated with the masses, the Atherian authorities initially suppressed the faith, leading to intense persecution of the early believers. However, after the Redeemer's **resurrection** and the growing fervor of his followers, the faith took root and eventually became a powerful force across the western provinces.
+The Eclessian Church traces its origins back to the early days of the Redeemer’s teachings, spreading rapidly among the marginalized and oppressed peoples of the eastern provinces of the Atherian Empire. As the Redeemer’s message of **love, redemption, and spiritual freedom** resonated with the masses, the Atherian authorities initially suppressed the faith, leading to intense persecution of the early believers. However, after the Redeemer's **resurrection** and the growing fervor of his followers, the faith took root and eventually became a powerful force across the eastern provinces.
 
-After the fall of the Atherian Empire, the Eclessian Church grew even more powerful, stepping into the political vacuum left behind. It became the **spiritual glue** holding together the fragmented western territories, acting as both a religious and political institution.
+After the fall of the Atherian Empire, the Eclessian Church grew even more powerful, stepping into the political vacuum left behind. It became the **spiritual glue** holding together the fragmented eastern territories, acting as both a religious and political institution.
 
 ---
 

@@ -27,6 +27,8 @@ The region is characterized by **towering foundries, endless mines, and sprawlin
 
 Despite its economic strength, Ironvale is **not without conflict**. The balance of power between **noble families, industrialist guilds, and trade unions** is constantly shifting, and with technological advancements reshaping warfare, some question whether **Ironvale’s future lies in forging weapons for knights or in creating new machines of war that may render them obsolete**.
 
+Ironvale's dukelessness is the Reformation's signature. The last duke, **Rainald**, sheltered Doctor Lucian Ferro and armed the heirs of the **Ashenmen risings** (1306–1329); the Wars of Reform cost his house its blood, its credit, and its Church standing, and the guilds filled the vacuum — the **Grand Ministry dates its charter to the house's extinction**. The Dominion remains Eclessia's **Freeflame stronghold**, claiming the mantle of its own martyr-patron **Saint Menos the Chain-Breaker**, the slave of its golem-forges (see [[The Twelve Companions of the Redeemer]] and [[Named Figures of the Known World]]). Church regulation of its black-powder experiments is read locally as the old enemy's newest leash.
+
 ---
 
 ### **2. Government & Political Structure**

@@ -82,7 +82,7 @@ The Thalmyric Church emphasizes **personal transformation**, **mystical union**,
 ### **V. [[Visions of the Future]]**
 Both the **Thalmyric** and **Eclessian Churches** hold fast to the foundational hope of all faithful: that the **Redeemer will return**, bringing about the final victory over the Adversary, the end of suffering, and the dawn of a **New Kingdom**—one without pain, corruption, or decay.
 
-This belief is rooted in the shared holy text known as the **Scroll of the End** (parallel to the Book of Revelation), written by the apostle-seer **John of the Burning Isle**, whose final vision was said to be **transcribed by fire into ash-parchment**. Though both Churches uphold the Scroll as sacred, their interpretations have diverged over time.
+This belief is rooted in the shared holy text known as the **Scroll of the End** (parallel to the Book of Revelation), written by the apostle-seer **Iovel of the Burning Isle** — an early disciple exiled to a volcanic islet during the Great Purge — whose final vision was said to be **transcribed by fire into ash-parchment**. Though both Churches uphold the Scroll as sacred, their interpretations have diverged over time.
 
 Despite their differences, both acknowledge the core truth: **no soul shall know the hour**, and **the kingdom that is coming is not of this world—but already unfolding within it**.
 
@@ -111,7 +111,7 @@ Tensions remain high, however, especially over:
 ### **VII. Conclusion: The Two Flames**
 In the eyes of the faithful, the Redeemer’s light shines in both Churches—but the **color, heat, and rhythm of the flame** differs. One burns steady, bright, and clear; the other flickers with mystery, awe, and searing transformation.
 
-The schism is not an open wound, but a **smoldering tension**—one that may yet become a wildfire, or the forge from which a renewed empire may rise.
+The schism is not an open wound in daily life, but a **smoldering tension** — 345 years (since 1015 AR) have mellowed parish relations into rivalry-with-Feasts even as the mutual anathemas of Bonifac III and Makarios the Adamant have never been lifted, and the constitutional quarrel over crowns, primacy, and the Kindling Question stands exactly where Cardinal Hubald's four nails left it (see [[The Great Split — Two Crowns, One Fire]]). It may yet become a wildfire, or the forge from which a renewed empire may rise.
 
 As the old Atherian proverb says:
 
