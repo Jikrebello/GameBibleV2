@@ -1,18 +1,21 @@
 ---
 type: quest
-status: draft
+status: canon
 canon_level: local
 era: []
 region: ["Grenzburg"]
 culture: []
 related_factions: []
 appears_in: ["Grenzburg"]
-needs: []
+needs:
+  - tune exact branch triggers and ending conditions
+  - name final council traitor variants
 tags:
   - game-ready
-  - needs-review
 ---
-# **The Skeleton of Grenzburg: A Three-Act Overview**
+# The Skeleton of Grenzburg: Three-Act Overview
+
+This is the controlling story skeleton for the Grenzburg vertical slice. It defines the seasonal arc, the Heart-Stone throughline, and the major faction consequences. Individual quests can change shape, but they should not contradict this structure without updating the dossier.
 
 ## **Core Loop:** Every major decision involves navigating the **Rule of Three**: choosing between the **Duchy's Needs (Good)**, the **Immediate Threat (Bad)**, and the **Costly Aid of an Ugly Faction**. Each choice strengthens one faction, weakens another, and alters the resources and alliances available for the next crisis.
 
@@ -35,7 +38,7 @@ tags:
 
 3.  **Three Crises:** The scaled-up consequences of your village choices.
     *   **Crisis Choice:** Determines which faction you **build trust** with: **Sergeant Liese (Military), Magister Leviticus (Civil), or Prelate Caestus (Spiritual)**.
-    *   **Mechanic:** Earning trust with all three is the only path to unlock the **Duke's Path** for the climax.
+    *   **Trust gate:** Earning trust with all three is the only path to unlock the **Duke's Path** for the climax.
 
 4.  **Barrow Climax: Who Gets the Heart-Stone?**
     *   **Default (Low Effort):** Goes to the faction whose mission you focused on (Bank or Church).
@@ -91,7 +94,7 @@ tags:
     *   **Decision:** Your investigation method (covert, brutal, diplomatic) determines which **NPC allies** you have left to call upon for the final descent.
 
 2.  **Assembling the Company:** You recruit your final dungeon party from remaining allies.
-    *   **Mechanic:** Your **reputation with each faction** (earned across Acts I & II) determines who will answer your call and what their **price** is.
+    *   **Reputation gate:** Your **reputation with each faction** determines who will answer your call and what their **price** is.
     *   **The Duke's Path:** If you've been consistently loyal to the Duchy's *idea* (not just a faction), you can unite fragments of all groups under the Ducal banner.
 
 3.  **The Descent & Final Ritual:** The dungeon crawl through the **Dragon's Tomb**.
@@ -120,7 +123,7 @@ tags:
 
 **Act III (Spring):** **Investigate Theft (path unique to Holder)** -> **Recruit Allies (based on Reputation)** -> **Descend & Destroy Stone (sacrificing Gem or Ally)** -> **Determine New World Order (based on Faction Alignment)**.
 
-**Golden Thread (The Duke's Path):** The most difficult, "canon" path requires consistently choosing the **Duchy's long-term health** over any single faction's short-term gain in Acts I & II, uniting the state's pillars (Marshal, Steward, Chaplain) to secure the Stone and weather the siege, ultimately reforging a stronger, more independent Grenzburg. It's the path of the true nation-builder, demanding sacrifice, integrity, and a relentless focus on the greater good.
+**Golden Thread (The Duke's Path):** The hardest restoration path requires consistently choosing the **Duchy's long-term health** over any single faction's short-term gain in Acts I & II, uniting the state's pillars to secure the Stone and weather the siege. It is not mandatory canon for every playthrough; it is the clearest expression of Grenzburg as a nation-building story.
 
 ## Navigation
 

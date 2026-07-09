@@ -1,21 +1,24 @@
 ---
 type: quest
-status: draft
+status: canon
 canon_level: local
 era: []
 region: ["Grenzburg"]
 culture: []
 related_factions: []
 appears_in: ["Grenzburg"]
-needs: []
+needs:
+  - tune final dungeon encounter sequence
+  - decide whether Lady Katarina's hijack branch is optional or central
 tags:
   - game-ready
-  - needs-review
 ---
 # **ACT III: SPRING'S BITTER ROOTS**
 ## **The Thaw of Betrayal, The Seed of Tomorrow**
 
 The ice cracks, the snow melts into mud and blood. Grenzburg is wounded, victorious, and reeling from the theft of the Heart-Stone. Spring doesn't bring renewal; it exposes the rot.
+
+Act III is the reckoning phase: the siege is over, but every wartime bargain now demands payment. The player follows the stolen Heart-Stone back beneath the Barrow of the First Chieftain and decides what kind of peace Grenzburg deserves.
 
 ---
 
@@ -69,7 +72,7 @@ Time has run out. The player must rally a final expedition to descend into the u
 
 **The Descent:**
 The journey into the **Dragon's Tomb** is a descent through layers of wrongness.
-1.  **The Corrupted Barrow:** The upper chambers are now a necrotic temple. Pale-Skin Grobi direct not just undead, but *warped* wildlife—giant blind cave bears with crystal growths, phosphorescent worms that drain warmth.
+1.  **The Corrupted Barrow:** The upper chambers are now a necrotic temple. Pale-Skins direct not just undead, but *warped* wildlife—giant blind cave bears with crystal growths, phosphorescent worms that drain warmth.
 2.  **The Geothermal Veins:** Vast caverns of glowing fungi and steaming fissures. Here, the environmental challenges are deadly, and the company may splinter under the psychic pressure (manifesting as paranoia, haunting visions, or sudden violence).
 3.  **The Machine-God's Carcass:** The final chamber is not a tomb, but a **cybernetic ossuary**. The "Dragon" is revealed: the fossilized, city-sized skeleton of a pre-human entity, fused with black metal and dormant crystal circuitry. At its heart-cage, the ritual is underway.
 
@@ -109,7 +112,7 @@ You emerge into the spring sun. The land feels different—the twisted sickness 
 **Epilogue - The New Balance:**
 The ending is defined by your alliances, your final choices, and the state of the factions.
 
-*   **The Duke's Path (The Sovereign's Peace):** If you secured the Stone for him and helped him root out the traitor (proving it was **Bailiff Hagen**, acting on behalf of a rival Eclessian kingdom), his authority is restored but transformed. He is harder, wiser. He uses the post-war reorganization to break the power of the worst guilds, empowers Leviticus's successor (a reformer), and brokers a landmark treaty with the **Moss-Crown Clan**, creating the Great Sanctuary. Grenzburg becomes a leaner, fairer, more resilient state. Your debt is pardoned, and you are offered a title: Warden of the Southern Marches.
+*   **The Duke's Path (The Sovereign's Peace):** If you secured the Stone for him and helped him root out the traitor, his authority is restored but transformed. He is harder, wiser. He uses the post-war reorganization to break the power of the worst guilds, empowers Leviticus's successor, and brokers a landmark treaty with the **Moss-Crown Clan**, creating the Great Sanctuary. Grenzburg becomes a leaner, fairer, more resilient state. Your debt is pardoned, and you are offered a title: Warden of the Southern Marches.
 *   **The Bank's Path (The Iron Peace):** With Vorl and the Silent Partners gone, **Elara** reigns. Grenzburg becomes a ruthlessly efficient, financially stable mercantile city-state. Debt is still the law, but it's managed "fairly." Infrastructure booms. The wild places are mapped, secured, and exploited sustainably. You are given a senior position in the new Blackjack Executive Corps—well-paid, respected, and utterly owned.
 *   **The Church's Path (The Redeemed Peace):** **Caestus**, as Bishop, leads a reformation. The Church turns inwards, focusing on charity and community. The Ashen Band is disbanded. A new chapel is built in partnership with **Elof's people**. Grenzburg becomes a beacon of hard-won faith and tolerance. Your sins are absolved, not just legally, but spiritually. You are granted a plot of land and a quiet life, should you want it.
 *   **The Folk's Path (The Old Peace):** With the Pale-Skins and the Heart-Stone destroyed, the land begins to heal. The treaties are rewritten on Folk terms. Human expansion is strictly limited. Grenzburg shrinks, becoming a trading outpost rather than a conquering city. You are granted the freedom of the forests, a friend to the clans, but a stranger in the city you saved. Your debt is forgotten by men, but the land remembers what you owe it.

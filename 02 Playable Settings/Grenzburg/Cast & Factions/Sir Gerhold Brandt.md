@@ -1,6 +1,6 @@
 ---
-type: quest
-status: draft
+type: faction
+status: canon
 canon_level: local
 era: []
 region: ["Grenzburg"]
@@ -10,9 +10,8 @@ appears_in: ["Grenzburg"]
 needs: []
 tags:
   - game-ready
-  - needs-review
 ---
-### **Sir Gerhold "The Iron-Bear" Brandt, The Marschal of Grenzburg**
+# Sir Gerhold "The Iron-Bear" Brandt, Marschal of Grenzburg
 
 **Role in the Rule of Three:**
 He is the Shield. Not a strategist, not a politician—**the man who maintains the wall between order and annihilation**. Every decision is measured in bodies and breaches. His internal war is between tradition, ruthless efficiency, and bitter pragmatism.

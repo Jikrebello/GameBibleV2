@@ -1,18 +1,21 @@
 ---
 type: quest
-status: draft
+status: canon
 canon_level: local
 era: []
 region: ["Grenzburg"]
 culture: []
 related_factions: []
 appears_in: ["Grenzburg"]
-needs: []
+needs:
+  - harmonize final NPC names with cast notes
+  - tune village consequence table
 tags:
   - game-ready
-  - needs-review
 ---
 ## **Part 1: The Debtor's Welcome (The Funnel)**
+Act I establishes the Great Funnel, the village triage problem, the organized early Grobi pressure, and the Heart-Stone custody choice. It should feel like practical frontier survival first, with the deeper Pale-Skin/Hollow-King pattern only becoming visible through clues.
+
 The player arrives in Grenzburg during the **Great Funnel**—the chaotic six weeks of autumn when the scattered population of the Marches floods towards the city, seeking winter shelter. The gates are a bottleneck of panic, hope, and desperation.
 
 **Introduction to Faction Politics (First Impressions):**
@@ -44,11 +47,11 @@ The Corps leadership (a tense coalition of Vorl, Elara, and the Duke's man, Capt
 
 *   **Crisis 2: Highlake's Whispers.**
     *   **The Job:** **Headman Berti** reports that "accidents" have become murders. Miners are found dead, not crushed, but *withered*, as if aged decades in moments. He fears the **Ghost-Foot Clan**.
-    *   **The Reality:** The **Pale-Skin Grobi** are active here. They are delving into the same mountain from below, seeking something. Their foul magic is leaching life to power their explorations. The Ghost-Foot Clan is also present, drawn by the disturbance. You might ally with **Echo**, the strange miner, or even parley with a **Ghost-Foot Weaver**, who offers to help stop the "defilers from the deep" for a terrible price.
-    *   **The Clue:** You find a dead Pale-Skin Gobbet, its body emanating a faint, sickly light. It carried a crude map pointing to a surface location: the **Barrow of the First Chieftain**, a pre-human ruin deep in the forest.
+    *   **The Reality:** The **Pale-Skins** are active here. They are delving into the same mountain from below, seeking something. Their foul magic is leaching life to power their explorations. The Ghost-Foot Clan is also present, drawn by the disturbance. You might ally with **Echo**, the strange miner, or even parley with a **Ghost-Foot Weaver**, who offers to help stop the "defilers from the deep" for a terrible price.
+    *   **The Clue:** You find a dead Pale-Skin infiltrator, its body emanating a faint, sickly light. It carried a crude map pointing to a surface location: the **Barrow of the First Chieftain**, a pre-human ruin deep in the forest.
 
 *   **Crisis 3: The Bank's Missing Investment.**
-    *   **The Job:** **Ledger-Master Elara** has a problem. A Bank-funded survey team, mapping safe routes for her proposed southern watchtowers, has gone silent near the **Barrow of the First Chieftain**. Retrieve them or the ledger.
+    *   **The Job:** **Ledger-Master Elara** has a problem. A Bank-funded survey team, mapping safe routes for the southern watchtower line, has gone silent near the **Barrow of the First Chieftain**. Retrieve them or the ledger.
     *   **The Reality:** The team was ambushed by **Bloody-Sun** scouts. The survivors are hiding. The Barrow is the focal point. The Grobi aren't just raiding; they are *excavating* with purpose, led by a hulking, black-eyed **True-Born Orc** who seems to be following a set of complex instructions.
     *   **The Clue:** You recover the surveyor's notes. They mention not just Grobi, but "strange, pallid creatures that shunned the light" seen entering the barrow from below. The notes also contain a sketch of a strange, geometric artifact the surveyors glimpsed within: **The Heart-Stone**.
 
@@ -60,7 +63,7 @@ The threads converge. The Duke, via Captain Koss, gives the order: assault the B
 **The Assault:**
 The Barrow is a three-tiered nightmare.
 1.  **The Upper Barrow (The Distraction):** Held by **Bloody-Sun** forces—a chaotic mix of Gobbets and Orcs. This is a brutal, conventional fight against the "Bad" Grobi.
-2.  **The Lower Catacombs (The Twist):** Here, the **Pale-Skin Clan** works. Frail, intelligent Gobbets and Orcs direct enslaved undead (animated by their magic) to carefully excavate. The environment is treacherous, filled with their life-leeching magic and psychic whispers. This is the "Ugly" Grobi.
+2.  **The Lower Catacombs (The Twist):** Here, the **Pale-Skins** work. Frail, intelligent deep-dwellers direct enslaved dead and terrified Grobi laborers to excavate carefully. The environment is treacherous, filled with life-leeching magic and psychic whispers. This is no longer a Grobi nest; it is a buried court using the Grobi as tools.
 3.  **The Heart Chamber (The Revelation):** The party finds the **Heart-Stone**—a pulsating, crystalline artifact of pre-human origin. It radiates a aura of *amplification*. It doesn't create rage or hunger; it takes what is already there and magnifies it to a blinding, all-consuming pitch.
 
 The **Black-Eyed Orc Commander** is in the final stage of a ritual to attune the Stone to the Grobi species-wide hunger. The **Pale-Skin Hollow-Kings** (communicating through him) don't want to destroy Grenzburg. They want to use the Heart-Stone as a **psychic amplifier** during the winter siege. They will broadcast the city's fear, despair, and the Grobi's own world-hunger, turning the Bloody-Sun Horde into an unstoppable, single-minded consumption storm and powering their own ascension ritual.

@@ -1,24 +1,26 @@
 ---
 type: quest
-status: draft
+status: canon
 canon_level: local
 era: []
 region: ["Grenzburg"]
 culture: []
 related_factions: []
 appears_in: ["Grenzburg"]
-needs: []
+needs:
+  - tune Drake hunt branches
+  - decide which theft variants get full quest paths
 tags:
   - game-ready
-  - needs-review
 ---
 ## **The Siege Without, The Rot Within**
+Act II turns Grenzburg inward. The walls hold the city together physically while the Heart-Stone, scarcity, and faction bargains pull it apart politically and spiritually.
 
 ---
 
 ## **PART 1: THE WALLS CLOSE IN (Weeks 1-4 of Winter)**
 
-Winter descends like a shroud. Grenzburg is now a pressure cooker of 10,000 souls. The player's debt is now paid in the currency of survival.
+Winter descends like a shroud. Grenzburg is now a pressure cooker of roughly thirty thousand permanent residents, refugees, soldiers, debtors, and seasonal laborers. The player's debt is now paid in the currency of survival.
 
 **The New Normal:**
 *   **Rationing & Resentment:** **Magister Leviticus's** systems are tested immediately. The player's squad is assigned to ration distribution points, where they must enforce grim fairness: half-portions for the "non-essential." They witness **Bailiff Hagen** skimming from the stores, and **Brother Clemens** breaking rules to feed Chapel-Folk children.
@@ -33,7 +35,7 @@ Winter descends like a shroud. Grenzburg is now a pressure cooker of 10,000 soul
 
 **1. The Granary Ghost.**
 *   **The Job:** A watchman reports seeing a "pale child" in the main granary. Stocks are depleting faster than ledgered.
-*   **The Truth:** It's not a ghost, but a **Pale-Skin Gobbet**, a psychic infiltrator sent to weaken the city from within. It doesn't eat grain; it *spoils* it with its presence, turning it to rot and ash. It's also scouting the location of the Heart-Stone.
+*   **The Truth:** It's not a ghost, but a **Pale-Skin infiltrator** sent to weaken the city from within. It doesn't eat grain; it *spoils* it with its presence, turning it to rot and ash. It's also scouting the location of the Heart-Stone.
 *   **The Factions:** **Sister Marcellina** is already investigating, seeking to capture the creature for Church study. **Ledger-Master Elara** wants it eliminated to protect assets. The Duke wants it taken alive and interrogated *quietly*.
 *   **The Choice:** A chase through the cramped, frozen undercrofts of the city. Can you capture it? If so, who do you give it to? Its death-scream might alert its masters.
 
@@ -106,7 +108,7 @@ The **Heart-Stone's** location dramatically affects this battle:
 Amidst the chaos, Ghor himself assaults the gate, a demon-possessed Ogre of immense power. The player's squad is tasked with a suicide mission: a sally to break his bodyguard and slay him.
 
 **The Truth Revealed:**
-In the duel with Ghor, the demon within him speaks. It reveals the **Pale-Skins'** true endgame: the siege, the bloodshed, the amplified hatred and fear—it's all **fuel**. The Heart-Stone in the city is a **receiver**. The blood-stones are **transmitters**. They are creating a psychic resonance to crack open the "Tomb of the Dragon" (the ancient machine-god) not to awaken it as a servant, but to **feed it to their Hollow-Kings**, allowing them to metamorphose into Trolls of thought and shadow, becoming gods of a new, hungry world.
+In the duel with Ghor, the demon within him speaks. It reveals the **Pale-Skins'** true endgame: the siege, the bloodshed, the amplified hatred and fear—it's all **fuel**. The Heart-Stone in the city is a **receiver**. The blood-stones are **transmitters**. They are creating a psychic resonance to crack open the "Tomb of the Dragon" (the ancient machine-god) not to awaken it as a servant, but to **feed it to their Hollow-Kings**, allowing them to become rulers of thought, hunger, and shadow.
 
 **Destroying Ghor:**
 The battle is brutal. Ghor is empowered by a **Lesser Heart-Shard** (the dark twin to the main Stone). To win, the players might need to use the **Drake's Heart Gem** as a purifying focus, shattering Ghor's shard and exorcising the demon. With his dying breath, Ghor doesn't curse—he *laughs*. "The song is already singing. The gates are opening. You hold the key in your city, and you don't even know which door it fits."

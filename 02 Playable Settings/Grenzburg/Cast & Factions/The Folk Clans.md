@@ -1,5 +1,5 @@
 ---
-type: quest
+type: faction
 status: canon
 canon_level: local
 era: []
@@ -34,7 +34,7 @@ The Folk are the **Wild Card**. They are not a single "Ugly" faction but a spect
     4.  **Be denounced as heresy** by Deacon Ignatius, who sees all land as meant for Redeemer-tilled fields.
 
 **The Moss-Crown's Own Rule of Three:**
-*   **Good (The Wardens):** Those who truly believe in the stewardship ideal. They patrol the proposed Sanctuary borders and teach marcher children about medicinal plants.
+*   **Good (The Wardens):** Those who truly believe in the stewardship ideal. They patrol the Sanctuary borders and teach marcher children about medicinal plants.
 *   **Bad (The Bloodprice):** A minority who whisper that Anya is too soft. They demand not just land, but the heads of specific loggers or the right to try marcher criminals in their own courts for crimes on the land.
 *   **Ugly (The Grey Traders):** Members who secretly partner with the Trappers' Council, using the clan's knowledge and mobility to run the most lucrative smuggling routes, personally profiting from the very chaos Anya seeks to end.
 

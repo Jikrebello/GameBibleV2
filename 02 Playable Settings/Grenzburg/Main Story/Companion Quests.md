@@ -1,18 +1,21 @@
 ---
 type: quest
-status: draft
+status: canon
 canon_level: local
 era: []
 region: ["Grenzburg"]
 culture: []
 related_factions: []
 appears_in: ["Grenzburg"]
-needs: []
+needs:
+  - confirm companion roster and final names
+  - tune loyalty outcomes against final faction endings
 tags:
   - game-ready
-  - needs-review
 ---
-# **Companion Quests: The Grenzburg-Model Model**
+# Companion Quests
+
+This note is canon as the companion-arc framework. Exact quest steps, names, and loyalty mechanics can still be tuned, but each companion should remain tied to a major Grenzburg system: debt, faith, roads, contracts, faction trust, and the final descent.
 
 Each companion's personal questline will follow the same hybrid structure as the main story: **narrative beats** that advance their character arc, separated by **open-world buffers** where their quests can be pursued (or ignored) at the player's pace. Their stories intersect with the main plot, factions, and each other.
 
@@ -124,4 +127,3 @@ This structure gives each companion a full, novel-worthy arc that the player can
 
 - [[Grenzburg MOC]]
 - [[Canon Index]]
-

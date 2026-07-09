@@ -1,18 +1,19 @@
 ---
-type: quest
-status: draft
+type: faction
+status: canon
 canon_level: local
 era: []
 region: ["Grenzburg"]
 culture: []
 related_factions: []
 appears_in: ["Grenzburg"]
-needs: []
+needs:
+  - tune named Grobi leaders against encounter notes
+  - decide exact role of Grakka Stone-Tooth in Act I and Act II
 tags:
   - game-ready
-  - needs-review
 ---
-### **The Grobi**
+# The Grobi
 
 **Role in the Rule of Three:**
 The Grobi are **The Inevitable Bad, with an Internal Hunger.** They are not a mirror of human conflicts, but a **biological and moral antithesis** to civilization. Their driving principle is not ideology, circumstance, or faith, but a primal, metabolic imperative: **Consume or Be Consumed.** Their society, politics, and migrations are all expressions of this singular, predatory nature. Engaging with them is not diplomacy; it is **controlled predation**, a gamble that you can feed a lesser part of them to avoid being eaten by the greater whole.
@@ -46,18 +47,16 @@ The Grobi are **The Inevitable Bad, with an Internal Hunger.** They are not a mi
 
 ---
 
-## **3. The Pale-Skin Clan: The "Ugly" (The Transcendent Hunger)**
-**Led by: The Hollow-Kings (True-Born Ogres who have undergone a different, terrible metamorphosis)**
+## **3. The Pale-Skin Pressure: The "Ugly" Around the Grobi**
+**Led by: The Hollow-Kings**
 
-*   **Concept:** The corrupted metabolism. The Pale-Skins are Grobi who turned their hunger **inward and downward**. Instead of seeking biomass in the living world, they delved into the deepest ruins and began consuming **strange energies, radioactive minerals, and the psychic residue of dead gods**. It changed them. They are pallid, frail, and their hunger has become metaphysical.
-*   **Leadership:** The **Hollow-Kings** are True-Born Ogres who have stabilized their form not with meat, but with esoteric power. They are intelligent, utterly amoral, and seek to transcend the Grobi lifecycle entirely by awakening the "God-Machines"—which they see not as deities, but as the ultimate source of sustenance.
-*   **Goal:** **The Great Feeding.** They believe the waking of a God-Machine will provide a feast of energy that will transform them into a new, immortal form (the legendary Troll, but as a being of will and magic, not just brute hunger). The required "ritual fuel" is not just biomass, but **death-energy, terror, and the shattered hope of a civilization**.
-*   **Method:** They are puppet masters of appetite. They found Ghor the Ogre and offered him a "feast of power" (the demon-shard) to bend him to their will. They whisper strategies that maximize slaughter and prolong suffering. They may secretly poison other Grobi tribes' food supplies to drive them into the horde's maw, or use their strange magics to curse granaries within Grenzburg, speeding up desperation. They are **farming the conflict** between the Horde and the Duchy to produce a specific crop: apocalyptic despair.
-*   **Faustian Bargain with ANYONE:** To even comprehend the Pale-Skins is to be offered a ticket off the biological treadmill—for a price that perpetuates it for all others.
-    *   **To the Duke:** "We will divert the horde's hunger. We will make them eat each other." Price: A regular offering of your people's "vital essence" (not just death, but lives spent in terror and madness).
-    *   **To Lady Katarina:** "We will show you how to sate your artifact-hunger without eating food. Become like us." Price: She must help them "digest" a specific artifact to power their ritual.
-    *   **To the Bank's Silent Partners:** "We offer equity in the ultimate commodity: transcendence itself." Price: Fund the siege. Provide alchemical compounds to exacerbate Grobi hunger and human despair.
-    *   **The Catch:** Any deal accelerates their ritual. You are helping them move up the food chain, with the understanding that once they become the "Troll" (metaphysical or literal), everything and everyone else is just biomass in their new world.
+The Pale-Skins are not Grobi. They are a separate ancient deep-dwelling species tied to the barrow-builders and the Hollow-Kings. See [[Pale-Skins and Hollow-Kings]]. They appear in this note because they weaponize Grobi hunger and make the winter migration worse.
+
+*   **Concept:** The puppet masters of appetite. They understand Grobi hunger well enough to redirect it, intensify it, and use it as ritual weather.
+*   **Leadership:** The **Hollow-Kings** are ancient ruler-intelligences seeking to rekindle buried engines such as the Heart-Stone and the Dragon's Tomb.
+*   **Goal:** **The Great Feeding.** They need death-energy, terror, hunger, and shattered civic hope to empower their buried ritual.
+*   **Method:** They bend Ghor through shard-corruption, seed blood-stones into trade routes, poison or redirect Grobi food supplies, and turn normal migration into siege-shaped despair.
+*   **Faustian Bargain:** Anyone who bargains with the Pale-Skins receives a solution to one immediate hunger problem while feeding the ritual underneath it.
 
 ---
 
@@ -78,7 +77,7 @@ This lifecycle defines their society:
 The Duke’s strategy is **metabolic warfare**.
 *   **Against the Stone-Tooth:** It's a game of caloric calculus. Are the resources they drain worth the intelligence and division they create? He must appear strong enough to be a shepherd, not sheep.
 *   **Against the Bloody-Sun Horde:** It's about rationing and resilience. Can the city's stored biomass (food, people, morale) outlast the horde's hunger? The goal is to make the siege too costly in Grobi lives (biomass) to sustain.
-*   **Against the Pale-Skin Clan:** This is existential. It requires recognizing that the Grobi threat has an **intelligent, transcendent will** behind it. Missions for the Blackjacks would involve delving into ruin-nests to assassinate Hollow-Kings, destroying their altars, or stealing the focus of their ritual. This is the highest-stakes game, for if the Pale-Skins win, the very nature of the threat changes from a seasonal famine to an eternal, intelligent starvation.
+*   **Against the Pale-Skins:** This is existential. It requires recognizing that something older is farming Grobi hunger. Missions for the Blackjacks involve delving into ruin-nests, destroying ritual anchors, stealing focus objects, and severing the link between the migration and the Hollow-Kings.
 
 **The Ultimate Grobi Truth:** They are hunger made flesh. Every interaction is about food. Every treaty is about becoming a safer, more reliable source of food than your neighbors. Every war is about eating them before they eat you. In Grenzburg, the Duke has built a larder with walls. The Grobi are the coming feast, and the coming famine, all in one. To survive them, you must understand the appetite of everything you do.
 

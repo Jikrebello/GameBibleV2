@@ -1,6 +1,6 @@
 ---
-type: quest
-status: draft
+type: faction
+status: canon
 canon_level: local
 era: []
 region: ["Grenzburg"]
@@ -10,7 +10,6 @@ appears_in: ["Grenzburg"]
 needs: []
 tags:
   - game-ready
-  - needs-review
 ---
 ### **The Medori Bank ("The Iron Ledger") in Grenzburg**
 

@@ -1,20 +1,23 @@
 ---
 type: quest
-status: draft
+status: canon
 canon_level: local
 era: []
 region: ["Grenzburg"]
 culture: []
 related_factions: []
 appears_in: ["Grenzburg"]
-needs: []
+needs:
+  - tune exact player-controlled trigger points
+  - decide final UI/game terminology
 tags:
   - game-ready
-  - needs-review
 ---
-# **The Synthesis: A Grenzburg-Model Narrative**
+# Grenzburg Campaign Structure Notes
 
-I want the **narrative density and consequence of a Bioware game** wrapped in the **open-world freedom and systemic depth of a Bethesda game**. This is the sweet spot. The key is to treat the main quest not as a *spine*, but as a **pulsing heart**—it beats forward relentlessly, but the body (the open world) can move and act independently between beats.
+This note defines the pacing philosophy for Grenzburg: narrative beats with open-world buffers. It is canon as a design principle, while exact UI and trigger implementation remain open.
+
+The target feel is narrative density and consequence wrapped in open-world freedom and systemic depth. The key is to treat the main quest not as a rigid rail, but as a **pulsing heart**: it beats forward at decisive moments, while the body of the open world can move and act independently between beats.
 
 We keep every beat. We just **space them out with world-state triggered pauses**.
 
@@ -43,7 +46,7 @@ This way, all the political complexity and choice is preserved, but the player c
 *   **Beat 2: The Triple-Hamlet Crisis.** (Three major village quests, completable in any order. Choices here build your political map).
 *   ***Open World Buffer:* The Southern Front.** The Grobi are agitated but not yet assaulting the Barrow. This is the time for major side questlines: helping the Folk clans, delving ruins for the Bank, investigating Church heresies, hunting rare monsters for the Arena. The world is **fully open but dangerous**.
 *   **Beat 3: The Barrow Assault & Stone Decision.** (Climactic dungeon, major choice that locks in your primary faction affinity for Act II).
-*   ***Open World Buffer:* The Calm Before the Freeze.** The Stone is secured. The Duke announces the Gates will close in one week's time. This is the **final frantic window** to settle affairs outside the walls, complete long expeditions, and stock up. A true Bethesda "pre-event" period.
+*   ***Open World Buffer:* The Calm Before the Freeze.** The Stone is secured. The Duke announces the Gates will close in one week's time. This is the final frantic window to settle affairs outside the walls, complete long expeditions, and stock up.
 *   **Beat 4: The Gates Close.** (Ceremonial story moment, transition to Act II world state).
 
 ### **ACT II: WINTER - THE SIEGE WITHIN**
@@ -65,7 +68,7 @@ This way, all the political complexity and choice is preserved, but the player c
 
 ---
 
-## **How This Preserves the "Bioware" Strength**
+## **How This Preserves Companion and Choice Strength**
 
 1.  **Complex Choices Remain:** The Hamlet choices, the Stone decision, how you handle the Drake, how you investigate the theft—all these are still **pivotal, branching narrative moments** with long-term consequences.
 2.  **Companion Depth is Central:** Their loyalty isn't just a stat; it's earned through multi-stage personal quests that intersect with the main plot. Bernard's crisis of faith happens **during** the siege. Elara's investigation reveals clues about the **traitor**. Their presence in the final dungeon changes its story.
@@ -94,20 +97,19 @@ This shouldn't be "a side quest that became main quest." It should be **the cent
     *   Church/Folk Path: A quest for ancient lore and a perilous ritual.
 *   **The Consequence:** The outcome directly affects the siege. Kill it? Morale soars, but you lose a potential weapon. Capture it? The Bank gains massive resources, shifting power. Send it away? The city is safe, but the Folk demand a major concession in return.
 
-This makes it a **narrative-rich, choice-driven Bioware mission**, but its trigger and execution exist within the **open-world "buffer" period** of Act II.
+This makes it a narrative-rich, choice-driven mission whose trigger and execution exist within the open-world buffer period of Act II.
 
-## **Conclusion: The Grenzburg-Model Model Achieved**
+## **Conclusion**
 
-You **can** have it all. The structure becomes:
+The structure becomes:
 
-**Narrative Act (Bioware Beat)** → **Open World Buffer (Bethesda Sandbox)** → **Narrative Act** → **Buffer**.
+**Narrative Act** -> **Open World Buffer** -> **Narrative Act** -> **Buffer**.
 
 The beats provide the **drama, choice, and consequence**. The buffers provide the **freedom, exploration, and systemic play**. The companions and faction systems **weave the two together**, making the personal and political feel alive across the entire journey.
 
-The skeleton is now **both a strong narrative arc and a robust open-world framework**. It's not a compromise; it's a synergy where the depth of the story gives meaning to the sandbox, and the freedom of the sandbox gives weight to the story's choices.
+The skeleton is both a strong narrative arc and a robust open-world framework. The story gives meaning to the sandbox, and the freedom of the sandbox gives weight to the story's choices.
 
 ## Navigation
 
 - [[Grenzburg MOC]]
 - [[Canon Index]]
-

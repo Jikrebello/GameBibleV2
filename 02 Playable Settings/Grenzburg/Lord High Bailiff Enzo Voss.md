@@ -1,6 +1,6 @@
 ---
 type: character
-status: draft
+status: canon
 canon_level: local
 era: []
 region: ["Grenzburg"]
@@ -10,7 +10,6 @@ appears_in: ["Grenzburg"]
 needs: []
 tags:
   - game-ready
-  - needs-review
 ---
 ### “The Ledger Never Lies” (Duchy: Bad)
 **Role in the Rule of Three:**  

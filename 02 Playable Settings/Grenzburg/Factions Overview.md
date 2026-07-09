@@ -1,5 +1,5 @@
 ---
-type: quest
+type: index
 status: canon
 canon_level: local
 era: []

@@ -32,9 +32,15 @@ Grenzburg is the first playable testbed for the setting: a frontier duchy trying
 
 ## Cast and Factions
 
+- [[Factions Overview]]
 - [[Duke Alaric von Grenzburg]]
 - [[Castellan Pierre Hohenwall]]
 - [[Lord High Bailiff Enzo Voss]]
+- [[Baron Anders of Hochfeld]]
+- [[Bishop Konrad von Ehrenfeld]]
+- [[Bishop-Prelate Caestus]]
+- [[Magister Leviticus of Sestaren]]
+- [[Sir Gerhold Brandt]]
 - [[The Grobi]]
 - [[The Folk Clans]]
 - [[The Medori Bank]]
