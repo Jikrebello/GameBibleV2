@@ -26,6 +26,20 @@ This atlas ties cultures, wars, trade routes, and playable regions to the map. I
 - **Jirahar:** diaspora and prophecy network moving through trade, memory, law, and suspicion.
 - **Fäskogarfolk and frontier peoples:** old cultural roots, contested forests, clan law, migration routes, and border pressure.
 
+## Southern Hemisphere Climate Rule
+
+The known world is southern-hemisphere oriented. South means colder. The farther south one travels, the more the world should become taiga, dark woodland, permafrost, frozen pass, short harvest, cold sea, and hard frontier.
+
+This rule matters for every map and timeline:
+
+- do not default to northern-hemisphere climate assumptions;
+- southern campaigns must account for winter roads, frozen rivers, stores, and short campaigning seasons;
+- the [[The Fäskogarfolk Overview|Fäskogarfolk]] and [[Ättar Overview|Ättar]] are southern cold-frontier peoples, shaped by forests, frost, permafrost, clan law, Menhir pacts, and Grobi pressure;
+- the [[01 Canon Reference/Creatures/Grobi/Overview|Grobi]] frontier belongs strongly to the deep south: winter migration, forest war, frozen passes, hunger, raids, and survival corridors;
+- Grenzburg and other frontier regions should make cold, debt, land claims, Grobi movement, and metaphysical ruins collide physically on the map.
+
+Use [[Southern Cold Belt and Grobi Frontier]] as the governing note for this climate logic.
+
 ## Map Work Needed
 
 - Mark capitals, holy cities, pilgrimage roads, trade routes, mountain passes, frontier duchies, Velian States, Zanthir, and Grenzburg.
@@ -47,4 +61,4 @@ This atlas ties cultures, wars, trade routes, and playable regions to the map. I
 - Holy cities, relic sites, pilgrimage roads, and martyr places.
 - Known thin spaces, Shell-leak zones, Menhir territories, and Idol-corrupted sites.
 - Warlock colleges, siege-magic foundries, contract courts, archive cities, and banking centers.
-
+- The [[Southern Cold Belt and Grobi Frontier]]: taiga zones, permafrost, Grobi migration corridors, winter passes, clan territories, and cold-frontier forts.

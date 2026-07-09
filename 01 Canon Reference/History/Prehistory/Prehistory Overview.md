@@ -49,6 +49,7 @@ These ancient giant civilizations—**Qianglong, Ishkatar, Xolotl,** and **Nytha
 
 ## Navigation
 
+- [[Ancient and Early Historic Ages]]
 - [[Timeline MOC]]
 - [[Canon Index]]
 

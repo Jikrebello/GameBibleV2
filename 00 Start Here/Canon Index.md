@@ -22,6 +22,8 @@ Use this as the main doorway into the world bible.
 - [[Cosmology MOC]]
 - [[Magic & Metaphysics MOC]]
 - [[Material Realm Overview]]
+- [[Historical Spine of the Known World]]
+- [[Ancient and Early Historic Ages]]
 - [[Present-Day Political Board]]
 - [[Geography Atlas]]
 

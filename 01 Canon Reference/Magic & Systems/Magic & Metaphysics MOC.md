@@ -22,6 +22,7 @@ tags:
 - [[The World Egg Cosmology]]
 - [[White Flame Doctrine]]
 - [[Warlock Rune Magic]]
+- [[Origins of Warlock Rune Magic]]
 - [[Contract Magic and True Names]]
 - [[Patrons and Astral Rent]]
 - [[Thin Spaces]]
