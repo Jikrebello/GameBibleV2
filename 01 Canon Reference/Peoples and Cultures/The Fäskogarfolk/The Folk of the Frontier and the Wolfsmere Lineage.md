@@ -1,6 +1,6 @@
 ---
 type: culture
-status: draft
+status: canon
 canon_level: core
 era: []
 region: []
@@ -10,7 +10,6 @@ appears_in: []
 needs: []
 tags:
   - core-canon
-  - needs-review
 ---
 # The Folk of the Frontier and the Wolfsmere Lineage
 
@@ -34,7 +33,7 @@ At the **Drowning at Wolfsmere (993 AR)**, Adalmar's soldiers drowned four thous
 - **The lake-law.** No Church bell may sound within hearing of the water; no boat crosses; no iron enters; the drowned are spoken of as *held*, never as dead.
 - **The watch.** Wolfsmere is a standing leftward thin space — "the Lake That Remembers." A mass soul-route atrocity at a sacred site does not close. Things surface: memories that are not the dreamer's own, voices in the reed-beds naming debts, and in the worst years, the water standing up. The Lakekeepers do not worship what is in the lake. They keep it *asleep*, and they have never told anyone — Church, clan, or crown — exactly what that costs.
 
-**The present Lakekeeper connection (flag: draft link to Grenzburg canon):** the **Thorn-Seer Mael** of the Grenzburg factions is proposed as a Lakekeeper-line seer — which would explain both the Thorn-Seer's unifying authority across clans and the "prophetic opportunism" the faction notes describe: a Lakekeeper bargaining with settled powers is not seeking advantage but *paying the lake's costs* by other means. This single link wires Grenzburg's Folk politics directly into 350 years of canon wound.
+**The present Lakekeeper connection:** the **Thorn-Seer Mael** of the Grenzburg factions is a Lakekeeper-line seer. This explains both the Thorn-Seer's unifying authority across clans and the "prophetic opportunism" the faction notes describe: a Lakekeeper bargaining with settled powers is not seeking advantage but *paying the lake's costs* by other means. This single link wires Grenzburg's Folk politics directly into 350 years of canon wound.
 
 ## The Folk and the Three Fires
 

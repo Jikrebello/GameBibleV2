@@ -85,7 +85,7 @@ This seasonal dynamic introduces a layer of predictability to the Grobi threat, 
 
 ### The Pale-Skins Are Not Grobi
 
-Canon ruling: the pale deep-dwellers of the Grenzburg arc (and their Hollow-King ruler-caste) are **a separate ancient species** — proposed as the sunken remnant of the pre-human barrow-builders (see [[Bestiary Framework — Creatures of the World Egg]]). They manipulate Grobi warbands through hunger and awe; they are not of them. Surface Grobi who have met them do not speak of them, which from Grobi is remarkable.
+Canon ruling: the pale deep-dwellers of the Grenzburg arc and their Hollow-King ruler-caste are **a separate ancient species**, the sunken remnant of the pre-human barrow-builders. See [[Pale-Skins and Hollow-Kings]]. They manipulate Grobi warbands through hunger and awe; they are not of them. Surface Grobi who have met them do not speak of them, which from Grobi is remarkable.
 
 ## Game-Ready Layer
 

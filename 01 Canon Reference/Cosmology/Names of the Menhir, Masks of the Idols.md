@@ -47,6 +47,6 @@ A power's masks disagree about its character, and the disagreements are data: wh
 ## Navigation
 
 - [[The World Egg Cosmology]]
-- [[Who's Who in the Cosmology]]
+- [[Who’s Who in the Cosmology]]
 - [[The Idols Overview]]
 - [[Mono-Myth Overview]]

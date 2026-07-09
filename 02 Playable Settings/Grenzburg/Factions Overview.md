@@ -1,6 +1,6 @@
 ---
 type: quest
-status: draft
+status: canon
 canon_level: local
 era: []
 region: ["Grenzburg"]
@@ -10,8 +10,9 @@ appears_in: ["Grenzburg"]
 needs: []
 tags:
   - game-ready
-  - needs-review
 ---
+# Grenzburg Factions Overview
+
 ## A. Top-level Rule of Three
 
 ### GOOD: The Duchy of Grenzburg (the “state” that must not fail)
@@ -368,7 +369,7 @@ This makes Faustian bargains _felt_ rather than narrated.
     
 - **Warlord Cenn Ash-Spear** (Folk Bad): raids, feuds
     
-- **Thorn-Seer Mael** (Folk Ugly): prophecy as leverage — proposed as the current Lakekeeper of the Wolfsmere line ([[The Folk of the Frontier and the Wolfsmere Lineage]])
+- **Thorn-Seer Mael** (Folk Ugly): Lakekeeper-line seer whose prophecy and bargaining power come from Wolfsmere's living wound ([[The Folk of the Frontier and the Wolfsmere Lineage]])
     
 - **War-Chief Ghor-Maw** (Grobi Bad): winter conquest
     
@@ -382,4 +383,3 @@ This makes Faustian bargains _felt_ rather than narrated.
 
 - [[Grenzburg MOC]]
 - [[Canon Index]]
-

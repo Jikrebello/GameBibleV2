@@ -18,6 +18,7 @@ Use this as the main doorway into the world bible.
 ## Core Setting
 
 - [[Setting Commandments]]
+- [[Current Focus Board]]
 - [[World Egg Setting Primer]]
 - [[Cosmology MOC]]
 - [[Magic & Metaphysics MOC]]
@@ -33,6 +34,7 @@ Use this as the main doorway into the world bible.
 - [[Timeline MOC]]
 - [[Bestiary MOC]]
 - [[Grenzburg MOC]]
+- [[Grenzburg Vertical Slice Dossier]]
 - [[Grenzburg as Vertical Slice]]
 - [[Needs Work]]
 

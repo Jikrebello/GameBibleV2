@@ -11,6 +11,18 @@ needs: []
 tags:
   - core-canon
 ---
+# Ethnic Groups Overview
+
+## Canon Overlay
+
+This older note is retained as a physical-trait reference, but the current culture-first model is governed by [[Cultures MOC]], [[The Making of the Eclessians]], [[Ancient and Early Historic Ages]], and [[Gazetteer of the Known World]].
+
+Locked additions:
+
+- **Vesari:** a separate Scattering people of the far eastern river-plains; their converted princedoms become Virelia's substrate.
+- **Saltborn:** Ättar-blooded Eclessian coastfolk formed by raid-then-settle history along the southern coasts.
+- **Southern hemisphere rule:** Ättar and Fäskogarfolk coldness is southern, not northern. Older "northern" labels should be read as analog shorthand, not map direction.
+
 ### **Older Ethnic Groups**
 
 #### **Ahl-e-Ahd**
@@ -49,7 +61,7 @@ tags:
 
 #### **Fäskogarfolk**
 
-1. **Ättar (Northern Scandinavian Types)**
+1. **Ättar (Southern Cold-Coast Scandinavian Types)**
    - **Inspiration**: Norsemen, ancient Swedish peoples.
    - **General Heights**: Men range from **5'10" to 6'4"**, and women from **5'6" to 5'11"**, with some particularly tall individuals among the northernmost populations.
    - **Musculature**: Broad and powerful, with **heavy musculature** being a common trait. Men are often **large-framed**, with **muscular arms, torsos, and legs**, built from a life of labor, farming, and combat. Women also tend to be **strong and athletic**, with broad shoulders and **defined musculature**, especially in the legs and arms.
@@ -161,4 +173,3 @@ tags:
 
 - [[Canon Index]]
 - [[Canon Index]]
-

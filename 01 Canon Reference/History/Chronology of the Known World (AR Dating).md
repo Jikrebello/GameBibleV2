@@ -124,7 +124,7 @@ Fall to coronation: 17 years. Caedros I dies at 62 in the assault he insisted on
 ## Open Knobs
 
 1. ~~Companions, courts, fourth seal, hymns ruling, duchy rulers, Folk clans, in-world texts, Ironvale heritage, Schism-note harmonization~~ — all resolved. See [[The Twelve Companions of the Redeemer]], [[Amaryah the Fire-Bearer]], [[The Velian Church]], [[Present-Day Courts and Crowns (1360 AR)]], [[The Disputed Fourth Seal]], [[The Making of Saints]], [[The Making of the Eclessians]], [[The Folk of the Frontier and the Wolfsmere Lineage]], and the In-World Texts folder.
-2. Legacy-file integration still pending: add the **Vesari** to the Age of Scattering, Historical Spine, and Ethnic Groups Overview; add the Saltborn layer to coastal culture notes; link Thorn-Seer Mael to the Lakekeeper line in Grenzburg canon (proposed, needs confirmation there).
+2. Legacy-file integration mostly resolved: **Vesari** are now a Scattering people and Virelia's substrate; **Saltborn** are the Ättar-blooded coastal layer; Thorn-Seer Mael is Lakekeeper-line in Grenzburg canon. Remaining work is polishing older local notes that still lack those layers.
 3. Still-open board threads: Caedros IV's chancellery and heirs; Tarkhan khans (homeland now on the map; culture still a stub); Jirahar Tower Town geography detail. Nsizwa placed (separate SW island-continent) — see [[Gazetteer of the Known World]].
 4. Prehistoric dates remain placeholders.
 

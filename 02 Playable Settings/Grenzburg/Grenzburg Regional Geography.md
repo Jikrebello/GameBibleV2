@@ -1,6 +1,6 @@
 ---
 type: place
-status: draft
+status: canon
 canon_level: local
 era: []
 region: ["Grenzburg"]
@@ -10,13 +10,12 @@ appears_in: ["Grenzburg"]
 needs: []
 tags:
   - game-ready
-  - needs-review
 ---
 # Grenzburg Regional Geography
 
 Companion to `Maps/Grenzburg Regional Map v1.png`. Fulfills the [[Grenzburg as Vertical Slice]] requirement for "a clear map of city, villages, roads, woods, rivers, barrows, mines, and winter approaches." All placements draft; distances at ~50 miles city-to-Barrow, so every Act I location is one-to-three days' hard travel from the walls.
 
-**Canon spelling flag:** Act I says "Duke Alaric von Grenzmark"; the cast note says "von Grenzburg." Recommend: the *family* is **von Grenzmark** (the March), the *seat and duchy* Grenzburg — both texts become right.
+**Canon spelling:** the *family* is **von Grenzmark** (the March); the *seat and duchy* are **Grenzburg**. Formal style is **Alaric von Grenzmark, Duke of Grenzburg**.
 
 ## The City
 
@@ -34,7 +33,7 @@ South of the villages the **Southwood** thickens toward the true frontier. In it
 
 ## Wolfsmere
 
-Two days west of Lakewatch, beyond Moss-Crown lands: **Wolfsmere**, the Lake That Remembers (see [[The Folk of the Frontier and the Wolfsmere Lineage]]). No boats, no bells, no iron. Its proximity is deliberate: Grenzburg's Folk politics sit forty miles from the Drowning, and if Thorn-Seer Mael is the Lakekeeper (proposed), every deal the Duke cuts with the Folk is being weighed against what sleeps in that water.
+Two days west of Lakewatch, beyond Moss-Crown lands: **Wolfsmere**, the Lake That Remembers (see [[The Folk of the Frontier and the Wolfsmere Lineage]]). No boats, no bells, no iron. Its proximity is deliberate: Grenzburg's Folk politics sit forty miles from the Drowning, and Thorn-Seer Mael's Lakekeeper-line authority means every deal the Duke cuts with the Folk is being weighed against what sleeps in that water.
 
 ## Winter Approaches (the military geography)
 

@@ -1,6 +1,6 @@
 ---
 type: quest
-status: draft
+status: canon
 canon_level: local
 era: []
 region: ["Grenzburg"]
@@ -10,8 +10,9 @@ appears_in: ["Grenzburg"]
 needs: []
 tags:
   - game-ready
-  - needs-review
 ---
+# The Folk Clans
+
 **Role in the Rule of Three:**
 The Folk are the **Wild Card**. They are not a single "Ugly" faction but a spectrum of them, representing the land's ancient claim against the newcomers. They are the ultimate variable in the Duke's calculus: they can be the difference between a hamlet's survival or annihilation, a clear road or an ambushed trail. Their internal divisions mirror and mock the conflicts of the so-called "civilized" men.
 

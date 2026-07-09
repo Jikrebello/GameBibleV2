@@ -16,7 +16,7 @@ tags:
 
 The people behind the [[Chronology of the Known World (AR Dating)]]. Each entry: who, when, real-history register, motivation, and the wound or hook they leave behind. All names follow the filtered-analog policy and were checked against existing canon for collisions.
 
-**Canon conflict flag:** the Eclessian Church Overview currently says Eclessia grew from the *western* provinces. Per the geography lock (Thalmyria west, Eclessia east), that note needs correction to *eastern*.
+**Map ruling:** Eclessia sits east of Thalmyria in the mirrored map logic; older western-province phrasing should be read as superseded unless it refers to a local western subregion inside Eclessia.
 
 ## The Age of the Redeemer
 
@@ -98,7 +98,7 @@ The people behind the [[Chronology of the Known World (AR Dating)]]. Each entry:
 
 **Ansgar of Brenholt** (1264–1305 AR) — the Hus, with Luther's paperwork. A marches friar and Vestibule-doctrine lecturer who posted the **Hundred Grievances** (1297) against the sale of routing assurances: *"No seal of wax weighs anything at the Weighing. You have sold the poor a bridge that is not yours."* Because soul-routing is objectively real, this was not rhetoric but an accusation of metaphysical fraud — and everyone, including his judges, half-knew it. Tried at the **Synod of Aldersbruck** (1305), he refused to recant and was burned; his ashes were shoveled into the River Weiss to prevent relics. His psalter did not burn. **The Unburnt Psalter** sits in a lead vault under the Sanctum; its existence is officially denied and universally known — and in a world with a proof-of-sainthood protocol, both churches understand exactly why no one dares test it. A permanently loaded gun.
 
-**The Ashenmen Risings** (1306–1329 AR) — the Hussite Wars. Ansgar's home region rose within a year of the burning; two decades of wagon-fort war, won by nobody. *(Reconciliation flag: site the risings in or near the Ironvale Dominion — its existing "underground movements" canon fits — and connect Grand Minister Aldric Weyn's industrial polity to this heritage.)*
+**The Ashenmen Risings** (1306–1329 AR) — the Hussite Wars. Ansgar's home region rose within a year of the burning; two decades of wagon-fort war, won by nobody. Canon placement: the risings sit in and around the Ironvale Dominion, explaining both its existing underground-movement canon and the later guild-industrial vacuum that Grand Minister Aldric Weyn inherits.
 
 **Doctor Lucian Ferro** (1279–1352 AR) — the Calvin, and the movement's true architect. A southern jurist-theologian who systematized Ansgar's fire into **The Order of the Open Flame**: the Flame kindles wherever sanctity gathers — *"the Lord's Fire keeps no landlord"* — therefore no hierarchical mint, no assurance trade, no relic-court monopoly, congregational hymn-casting under tested elders. Reformed duchies under his discipline are famously orderly, literate, and merciless. Sheltered and armed by **Duke Rainald of Ironvale** (the Frederick the Wise) — the *last* Duke of Ironvale: the Wars of Reform cost his house its blood, its credit, and its Church standing, and the guilds filled the vacuum (the present Grand Ministry dates its charter to the house's extinction). Ferro is dead eight years at present day; his students govern.
 

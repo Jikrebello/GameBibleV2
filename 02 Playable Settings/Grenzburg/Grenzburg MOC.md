@@ -19,8 +19,11 @@ Grenzburg is the first playable testbed for the setting: a frontier duchy trying
 
 ## Start Here
 
+- [[Grenzburg Vertical Slice Dossier]]
+- [[Grenzburg Numbers and Constraints]]
 - [[Grenzburg as Vertical Slice]]
 - [[Factions Overview]]
+- [[Grenzburg Regional Geography]]
 - [[Three-Act Overview]]
 - [[Companion Quests]]
 - [[ACT I AUTUMN'S HARVEST]]
@@ -37,6 +40,14 @@ Grenzburg is the first playable testbed for the setting: a frontier duchy trying
 - [[The Medori Bank]]
 - [[The Frontier Industry Lords]]
 - [[The Seasonal Village Headmen]]
+
+## Threats and Creature Dossiers
+
+- [[01 Canon Reference/Creatures/Grobi/Overview|Grobi Overview]]
+- [[Pale-Skins and Hollow-Kings]]
+- [[Emerald Drakes]]
+- [[Ghouls]]
+- [[The Folk of the Frontier and the Wolfsmere Lineage]]
 
 ## Game-Use Checklist
 

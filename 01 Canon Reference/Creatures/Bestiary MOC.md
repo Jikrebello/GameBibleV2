@@ -23,6 +23,7 @@ tags:
 - [[Overview]]
 - [[Ghouls]]
 - [[Nightmares]]
+- [[Pale-Skins and Hollow-Kings]]
 
 ## Grobi
 
@@ -46,4 +47,3 @@ tags:
 ## Creature Sheet Standard
 
 Each creature should eventually include encounter role, ecology, social intelligence, signs, lair, loot/material use, faction use, and story hooks.
-

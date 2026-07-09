@@ -1,6 +1,6 @@
 ---
 type: quest
-status: draft
+status: canon
 canon_level: local
 era: []
 region: ["Grenzburg"]
@@ -10,8 +10,9 @@ appears_in: ["Grenzburg"]
 needs: []
 tags:
   - game-ready
-  - needs-review
 ---
+# Duke Alaric von Grenzmark, Duke of Grenzburg
+
 **Role in the Rule of Three:**  
 He is the human hinge-pin. Not heroic, not villainous—**the guy who signs the deals that keep Grenzburg standing**. Every winter he chooses which poison the Duchy drinks: Church influence, Bank dependence, or Folk concessions.
 
