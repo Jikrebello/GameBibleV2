@@ -71,6 +71,7 @@ The civilized world dates from the execution and resurrection of Isfir the Redee
 ## The Fall and the Thalmyric Rise
 
 - **905 AR — WAVE TWO: The Fall of Caleran.** **Sultan-Caliph Idris al-Fattah** takes the capital at twenty-six and seals the Celestial Forum under glass "for the final audit." The empire dies; refugees flee south to the volcanic mountains. *(Constantinople, 1453.)*
+- **c. 905–920 AR — The First Catch.** The fallen empire's border studs scatter into the grass; the foot-nomad Tarkhan catch them and become, within three generations, the world's finest light cavalry. Grey Sister's line begins. *(The plains horse-revolution.)*
 - **906 AR — The Veil over Veridun.** During the Qahirid advance, watchers see a woman's figure spreading a veil of pale fire above the city; the siege breaks in a night storm. Thalmyria's supreme Marian feast. *(The Pokrov.)*
 - **906–908 AR — Third Crusade.** The eastward push stopped at the Duchy of Caldria.
 - **908–921 AR — The Mountain Rebellion.** Caedros of house Aetherion; the Valley Ambush (917); Virelos (921).
@@ -110,6 +111,8 @@ The civilized world dates from the execution and resurrection of Isfir the Redee
 - **1279–1352 AR — Doctor Lucian Ferro** systematizes the movement: *The Order of the Open Flame*; the Freeflame ecclesiology ("the Lord's Fire keeps no landlord"); sheltered by **Duke Rainald of Ironvale**. *(Calvin; Frederick the Wise.)*
 - **1330–1354 AR — Lord Primarch Celestin IX;** the **Council of Veridance** (1337–1352); assurance sales abolished; the five tests codified; the **Order of the Lantern** founded by **Father Ivo the Lamed**. *(Trent; the Jesuits.)*
 - **1343 AR — The Korrheim Accord.** *Whose the realm, his the rite.* Excludes the Freeflame radicals; ignores the reunification mandate; satisfies no one. *(Augsburg, 1555.)*
+- **1261 AR — The Kurultai of the Long Grass.** **Qarayel, the Black Wind**, unites all Tarkhan banners under the Nine-Mane Standard. **1265–1300 — the Black Wind Years:** Iqashar pays "escort fees," the Velian fairs burn and pay, Sestara institutes the grass-toll; extraction without occupation. *(The Genghis-era steppe apex.)*
+- **1303 AR — Death of Qarayel**, undefeated, unsucceeded; the secret grave. **1304 — the Partition of the Herds:** the White, Iron, Moon, and Ash Hordes divide by his children's lines (Temuchar's disputed blood; Berkan's Covenant-drifting Iron banner; Alakha's Moon custody of the Standard; Qutan's Ash road-lords). *(The khanate fragmentations.)*
 - **1311 AR — The Spring at Sarnwell.** An apparition of the Mother to a crippled washerwoman; the healing spring passes every relic-court test. *(Lourdes.)*
 - **1346–1349 AR — Frate Severin of Fiorenzia:** the Pyre of Masks; hanged and burned. **Nicanor Vetti's** *Mirror for Sovereigns* circulates banned (written c. 1340). *(Savonarola; Machiavelli.)*
 - **1352 AR — The Lady of the Sloe-Field at Vessing.** Three shepherd children; a figure of banked fire; irreconcilable testimonies touching the Kindling Question. **The Sanctum has not ruled.** *(Fatima, pending.)*
@@ -125,7 +128,7 @@ Fall to coronation: 17 years. Caedros I dies at 62 in the assault he insisted on
 
 1. ~~Companions, courts, fourth seal, hymns ruling, duchy rulers, Folk clans, in-world texts, Ironvale heritage, Schism-note harmonization~~ — all resolved. See [[The Twelve Companions of the Redeemer]], [[Amaryah the Fire-Bearer]], [[The Velian Church]], [[Present-Day Courts and Crowns (1360 AR)]], [[The Disputed Fourth Seal]], [[The Making of Saints]], [[The Making of the Eclessians]], [[The Folk of the Frontier and the Wolfsmere Lineage]], and the In-World Texts folder.
 2. Legacy-file integration mostly resolved: **Vesari** are now a Scattering people and Virelia's substrate; **Saltborn** are the Ättar-blooded coastal layer; Thorn-Seer Mael is Lakekeeper-line in Grenzburg canon. Remaining work is polishing older local notes that still lack those layers.
-3. Still-open board threads: Caedros IV's chancellery and heirs; Tarkhan khans (homeland now on the map; culture still a stub); Jirahar Tower Town geography detail. Nsizwa placed (separate SW island-continent) — see [[Gazetteer of the Known World]].
+3. Still-open board threads: Caedros IV's chancellery and heirs; Jirahar Tower Town geography detail. Tarkhan complete — Black Wind era, four hordes, and current khans in the rebuilt [[The Tarkhan Tribes Overview]]. Nsizwa placed (separate SW island-continent) — see [[Gazetteer of the Known World]].
 4. Prehistoric dates remain placeholders.
 
 ## Navigation

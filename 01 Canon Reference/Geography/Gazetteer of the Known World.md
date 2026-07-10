@@ -51,7 +51,7 @@ The grey forest world below the settled realms: **Ättar coasts** to the southwe
 
 ### The Tarkhan Steppe — the middle north
 
-The unclaimed tan between the Covenant's desert and the settled south — the grass road connecting everyone's back doors. Whoever unites it (see the Tarkhan overview's open question) flanks three empires at once. *(Still the board's least-developed region — flagged.)*
+The unclaimed tan between the Covenant's desert and the settled south — the grass road connecting everyone's back doors. Whoever unites it flanks three empires at once — Qarayel the Black Wind proved it (1261–1303), and the Four Hordes that split his herd are the region's present tenants. See [[The Tarkhan Tribes Overview]].
 
 ### Off the Board
 

@@ -71,13 +71,17 @@ The ransom-shame of Markellos (never again negotiate); the Nikandran grievance (
 
 The Medori bank under **Duke Gaius Medori** ✓, Chairman and head of the family, with **Lord Matteo Medori** ✓ over investments (and Grenzburg canon fielding **Factor Gianni** ✓ and **Agent Livia** ✓ downstream). Canon holds a loaded secret: the Medori carry hidden **Ahl-e-Ahd lineage and contract-magic** — which retroactively explains both the bank's uncanny instruments and what exactly the family bought when it purchased Alessior VI's Primarchy. Sermora's Doge and Admiralty ✓, Aversia's House of Soran ✓, Vorthara's Council of Magi ✓ per existing canon. Fiorenzia still dreams uneasily of Frate Severin.
 
+## The Tarkhan Steppe (the Four Hordes)
+
+Fifty-seven years after the Black Wind's death, his great-grandchildren rule the quarters of his herd: **Khan Batuqai** of the White Horde (richest grass, disputed blood, patient as winter); **Khan Tegrul** of the Iron Horde (selling heavy cavalry to Iqashar, sealing contracts in his own name — the employer-becomes-conquest trajectory every analyst dreads); **Khatun Sorqai** of the Moon Horde (keeper of the Nine-Mane Standard and the grave-secret's prohibition — the steppe's shared conscience, and old); **Khan Chilgir** of the Ash Horde (young, Under-Ledger-indebted, taxing the Castara roads). No full kurultai can be called without Sorqai's Standard; her death is the board-shaking event every chancellery wargames. See [[The Tarkhan Tribes Overview]].
+
 ## The Jirahar
 
 **High Keeper Zerahiah** *(new)*, first among the Keepers of the Path in the most sacred Tower Town: post-Meshalem orthodoxy incarnate — ferocious gatekeeping of prophecy, quiet finance, quieter memory. His standing ruling: any claimant to the Mesakha is presumed false until the Keepers rule otherwise, and the Keepers have never ruled otherwise. The irony canon (that this is exactly how a true one would be missed) stands.
 
 ## Open Threads
 
-Caedros IV's chancellery and heirs; the Jirahar Tower Town geography; current khans of the Tarkhan (still a stub culture); Nsizwa placement on the present-day board. Folk clans and the Wolfsmere seer-line: done — see [[The Folk of the Frontier and the Wolfsmere Lineage]].
+Caedros IV's chancellery and heirs; the Jirahar Tower Town geography. Tarkhan khans: done (section above). Folk clans and the Wolfsmere seer-line: done — see [[The Folk of the Frontier and the Wolfsmere Lineage]].
 
 ## Navigation
 
