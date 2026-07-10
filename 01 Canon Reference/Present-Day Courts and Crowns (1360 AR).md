@@ -40,7 +40,7 @@ Who rules where, right now. Integrates existing canon rulers (marked ✓) with n
 
 ### The Imperial Throne
 
-**Emperor Caedros IV Aetherion** ✓ in Veridun, claiming the Nikandran restoration line. *(Character per existing canon note — not re-characterized here.)*
+**Emperor Caedros IV Aetherion** ✓ in Veridun, claiming the Nikandran restoration line — Ash-Blood, past sixty, widowed, silent. His chancellery (Grand Logothete Prokopia, the Keeper of Ashreaver, the Ättar-recruited Ash Guard) and the three-way succession (Princess Alexane, Prince Sophios the Quiet, the adoption whisper) are detailed in [[The Court of Veridun (1360 AR)]].
 
 ### The Patriarchate
 
@@ -81,7 +81,7 @@ Fifty-seven years after the Black Wind's death, his great-grandchildren rule the
 
 ## Open Threads
 
-Caedros IV's chancellery and heirs; the Jirahar Tower Town geography. Tarkhan khans: done (section above). Folk clans and the Wolfsmere seer-line: done — see [[The Folk of the Frontier and the Wolfsmere Lineage]].
+All previously flagged threads closed: the Court of Veridun ([[The Court of Veridun (1360 AR)]]), Jirahar tower geography ([[Tower Towns and the Prophet's Roads]]), Tarkhan khans (section above), Folk clans and the Wolfsmere seer-line ([[The Folk of the Frontier and the Wolfsmere Lineage]]).
 
 ## Navigation
 

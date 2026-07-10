@@ -128,7 +128,7 @@ Fall to coronation: 17 years. Caedros I dies at 62 in the assault he insisted on
 
 1. ~~Companions, courts, fourth seal, hymns ruling, duchy rulers, Folk clans, in-world texts, Ironvale heritage, Schism-note harmonization~~ — all resolved. See [[The Twelve Companions of the Redeemer]], [[Amaryah the Fire-Bearer]], [[The Velian Church]], [[Present-Day Courts and Crowns (1360 AR)]], [[The Disputed Fourth Seal]], [[The Making of Saints]], [[The Making of the Eclessians]], [[The Folk of the Frontier and the Wolfsmere Lineage]], and the In-World Texts folder.
 2. Legacy-file integration mostly resolved: **Vesari** are now a Scattering people and Virelia's substrate; **Saltborn** are the Ättar-blooded coastal layer; Thorn-Seer Mael is Lakekeeper-line in Grenzburg canon. Remaining work is polishing older local notes that still lack those layers.
-3. Still-open board threads: Caedros IV's chancellery and heirs; Jirahar Tower Town geography detail. Tarkhan complete — Black Wind era, four hordes, and current khans in the rebuilt [[The Tarkhan Tribes Overview]]. Nsizwa placed (separate SW island-continent) — see [[Gazetteer of the Known World]].
+3. ~~Board threads~~ — all closed: [[The Court of Veridun (1360 AR)]], [[Tower Towns and the Prophet's Roads]], [[The Tarkhan Tribes Overview]], [[The Folk of the Frontier and the Wolfsmere Lineage]]. The reference layer is complete; remaining work is refinement (duchy borders, road layers, art maps) and production (Grenzburg). Nsizwa placed (separate SW island-continent) — see [[Gazetteer of the Known World]].
 4. Prehistoric dates remain placeholders.
 
 ## Navigation

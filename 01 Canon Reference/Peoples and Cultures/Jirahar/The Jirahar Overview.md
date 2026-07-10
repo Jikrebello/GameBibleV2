@@ -173,6 +173,10 @@ Until then, the Jirahar **continue their journey**, preserving their laws, tradi
 
 The Jirahar are a deeply ritualistic, legalistic, and prophetic people, bound by ancient laws, mystical traditions, and a vision of their ultimate destiny. Their conflicts with the **Church of the Redeemer** and the **Ahl-e-Ahd**, their mastery of **trade and finance**, and their belief in **the Mesakha’s return** make them one of the most enigmatic and influential peoples in the world.
 
+## Tower Geography
+
+The six great towers, the Empty City, and the Way-Gate network are detailed in [[Tower Towns and the Prophet's Roads]] — including the spine-level ruling on why the gates work and who must never learn it.
+
 ## Naming Register (locked)
 
 The Jirahar tongue is the **archaic branch** of the desert language family (sister to the Covenant tongue, as their peoples are estranged siblings of the Scattering) — the dialect the Redeemer spoke, preserved liturgically by the Velian Church. Register rules: **d'-** genitives (Sifra d'Dinai), endings in **-a / -atha / -in**, patronymic **bar** (bath for daughters). Core lexicon: **the Mesakha** (the Awaited One), **the Orakha / Orakh Bekhirin** (the Path), the **Sifra d'Dinai / d'Masai / d'Nevai** (the three Scrolls), **the Peshara** (interpretations), **She'eltha** (legal queries), **Aggadatha** (narratives), **Mishletha** (proverbs), **Millin Setharin** (the Hidden Words), **Qiryath Reqa** (the Empty City). Forbidden verbatim: real-world liturgical/communal terms.
