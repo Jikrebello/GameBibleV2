@@ -13,6 +13,10 @@ tags: []
 ---
 Vorthara, the city built upon the **ancient black spire**, is home to numerous **magical academies**, **guilds**, and **factions**, each specializing in different forms of arcane magic. These factions constantly vie for **influence, prestige**, and **power**, shaping the culture, economy, and military strength of the city. While each faction is unique in its approach to magic, they are all bound by the same rule: **no infighting within the city**. Disputes are settled through the **Arenas**, where magical prowess is tested and rivalries can be settled in combat.
 
+### Specialist Institution: [[Collegium of Doors]]
+
+The Collegium is Vorthara's smaller school of wards, containment chambers, hostile architecture, and counter-breach. It lacks a dominant Council bloc but supplies proof-engineers and leak-wardens to nearly every faction. Its annual Breach-Week opens part of its campus to public competition.
+
 ---
 
 ### **1. The Crucible**
@@ -172,6 +176,6 @@ The **factions of Vorthara** are as varied as the types of magic they practice. 
 ## Navigation
 
 - [[The Sestaran Concord Overview]]
+- [[Collegium of Doors]]
 - [[Canon Index]]
 - [[Canon Index]]
-

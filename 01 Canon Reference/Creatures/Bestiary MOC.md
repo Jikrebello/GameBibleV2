@@ -19,7 +19,7 @@ tags: []
 - **10 Drakes:** the six drake lineages and their overview.
 - **20 Grobi:** goblins, hobgoblins, orcs, ogres, and their shared origin.
 - **30 Vampires:** origins, bloodlines, and the present-age dossier.
-- **40 Other Threats:** ghouls, Nightmares, Pale-Skins, and Hollow-Kings.
+- **40 Other Threats:** ghouls, Nightmares, Pale-Skins, Hollow-Kings, and specialist arcane threats.
 
 ## Creature Families
 
@@ -29,6 +29,8 @@ tags: []
 - [[Ghouls]]
 - [[Nightmares]]
 - [[Pale-Skins and Hollow-Kings]]
+- [[Ward-Eaters]]
+- [[The Examiner]]
 
 ## Grobi
 

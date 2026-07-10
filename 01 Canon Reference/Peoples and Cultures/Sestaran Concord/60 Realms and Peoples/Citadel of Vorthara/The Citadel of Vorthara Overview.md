@@ -48,6 +48,8 @@ The **Arenas of Vorthara** are massive gladiatorial spaces where blood sport is 
 
 Vorthara’s many magical factions use the arenas as both a battleground and a showcase for their skills. These schools are in constant rivalry, and their combatants frequently fight in the arenas to prove the superiority of their magic. Some of the key factions include:
 
+- **[[Collegium of Doors]]**: A smaller specialist school of wardcraft, containment, spatial redirection, and professional counter-breach. It hosts Breach-Week, the city's public ward-breaking festival.
+
 - **The Crucible**: This war college specializes in **elemental war magic**—fire, ice, lightning, and acid. Warlocks trained here are known for their **quick casting**, using dual **wands** and **magic gauntlets** to unleash rapid-fire spells. In the arenas, Crucible warlocks often face off against other warlocks, **golems**, or magical creatures, demonstrating the destructive power of their elemental combinations.
 
 - **The Nightveil Coven**: Specializing in **shadowbinding**, Nightveil mages summon **Nightmares** from the **Shadowrealm**. These incorporeal creatures are used to fight in the arena, often binding themselves to the bodies of the dead to become terrifying, temporary combatants. Shadowbinders are feared for their ability to control the shadows and the creatures that live inside them, making them formidable opponents in arena battles.
@@ -93,6 +95,6 @@ The **Citadel of Vorthara** is a city where **magic** and **blood sport** intert
 ## Navigation
 
 - [[The Sestaran Concord Overview]]
+- [[Collegium of Doors]]
 - [[Canon Index]]
 - [[Canon Index]]
-
