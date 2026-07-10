@@ -29,6 +29,7 @@ tags: []
 - [[Ghouls]]
 - [[Nightmares]]
 - [[Pale-Skins and Hollow-Kings]]
+- [[Borrowed Saints]]
 - [[Ward-Eaters]]
 - [[The Examiner]]
 

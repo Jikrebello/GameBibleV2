@@ -7,7 +7,7 @@ era: []
 region: []
 culture: []
 related_factions: ["Envy", "Eclessian Church"]
-appears_in: []
+appears_in: ["Chapel-Ford"]
 needs: []
 tags: []
 ---
@@ -43,3 +43,5 @@ The relic courts and the Order of the Lantern are their professional enemies; th
 
 - [[The Atlas of the Left Hand]]
 - [[Names of the Menhir, Masks of the Idols]]
+- [[Borrowed Saints]]
+- [[Chapel-Ford — Full Adventure]]
