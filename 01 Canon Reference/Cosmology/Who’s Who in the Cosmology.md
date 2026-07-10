@@ -1,15 +1,15 @@
 ---
-type: lore
+type: cosmology
 status: canon
 canon_level: local
+visibility: author-only
 era: []
 region: []
 culture: []
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 _A practical overview of the major actors, what they are, where they belong, and how they behave in the system._
 

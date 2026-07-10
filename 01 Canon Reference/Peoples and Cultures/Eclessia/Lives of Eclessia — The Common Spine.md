@@ -1,16 +1,15 @@
 ---
 type: culture
-status: draft
+status: canon
 canon_level: core
-era: []
-region: []
-culture: []
+visibility: public
+era: ["Present Day"]
+region: ["Eclessia"]
+culture: ["Eclessian"]
 related_factions: []
 appears_in: []
-needs: []
-tags:
-  - core-canon
-  - needs-review
+needs: ["add two named representative NPCs and one settlement-level story seed"]
+tags: []
 ---
 # Lives of Eclessia — The Common Spine
 
@@ -26,9 +25,9 @@ Since the Korrheim Accord (1343), **every Eclessian road forks at "whose rite?"*
 
 ## The Grey Sweat (c. 1232–1247) — the wound under everything
 
-**Canon addition:** four generations ago the great mortality walked Eclessia — a sweating fever that took perhaps a third of the east and a fifth of the west in fifteen years of waves. Its living consequences:
+Four generations ago [[The Grey Sweat]] walked Eclessia, taking perhaps a third of the eastern territories and a fifth of the west in fifteen years of waves. Its living consequences include:
 
-- **The labor split.** In the Markish and Latinate west, scarce hands bid up their own price: serfdom dissolved into tenantry and copyhold, towns swelled, wages were born. In Virelia, the szlachta answered the same scarcity the other way — binding the survivors to the land — and the **second serfdom** has hardened every generation since (see [[Lives of Virelia]]).
+- **The labor split.** In the Markish and Latinate west, scarce hands bid up their own price: serfdom dissolved into tenantry and copyhold, towns swelled, wages were born. In Virelia, the sabre-right nobility answered the same scarcity the other way — binding the survivors to the land — and the **second serfdom** has hardened every generation since (see [[Lives of Virelia]]).
 - **The piety turn.** The Sweat birthed the **Ash-Walker processions** — penitents scourging town to town to turn the fever — and when the fever passed, the movement's orphans went two ways: some into the quietism that became the Apathetics' recruiting soil, some into the desperate shrine-hunger the **Weeping Courts** learned to farm. Bruckmoor (1243) fed on Sweat-grief; the relic courts have never forgotten it.
 - **The torn registers.** Every old parish book has the gap — pages of one hand ending mid-line, a new hand beginning years later — and family memory everywhere runs "before the Sweat / after the Sweat." Land titles from the gap years are the marches' favorite litigation and the Red Tally's favorite inventory.
 

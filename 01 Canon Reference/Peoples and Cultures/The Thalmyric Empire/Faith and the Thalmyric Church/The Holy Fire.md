@@ -1,26 +1,26 @@
 ---
-type: lore
+type: magic-system
 status: canon
 canon_level: local
+visibility: restricted
 era: []
-region: []
-culture: []
+region: ["Thalmyria"]
+culture: ["Thalmyric"]
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 ### **Theology of the Holy Fire as Divine Presence**
 
-In Thalmyric doctrine, the **Holy Fire** is the sacred manifestation of the **Lord's indwelling spirit**—what western theologians in Eclessia call the **Divine Breath** or Holy Spirit. Known in Thalmyric theology as the **Pneuma Pyrion** ("Flame-Spirit"), this fire is not merely symbolic but an ever-present, living force that shapes the hearts, bodies, and wills of the faithful.
+In Thalmyric doctrine, the **Holy Fire** is the sacred manifestation of the **Lord's indwelling spirit**—what Eclessian theologians call the **Divine Breath** or Holy Spirit. Known in Thalmyric theology as the **Pneuma Pyrion** ("Flame-Spirit"), this fire is not merely symbolic but an ever-present, living force that shapes the hearts, bodies, and wills of the faithful.
 
 The Holy Fire:
 - **Proceeds from the Lord through the Redeemer**, descending into the world like a burning breath.
 - **Dwells within the righteous**, igniting spiritual transformation through struggle, prayer, and devotion.
 - **Unites the faithful**, forming a mystical communion of flame that connects all Thalmyric believers across time and space.
 
-This view mirrors and expands upon the Eastern Orthodox understanding of the Holy Spirit as the life-giving force that indwells all believers, illuminating them from within and making them participants in the divine mystery (theosis). But in the Thalmyric lens, this participation is agonistic—achieved through heat, pressure, and purification.
+Thalmyric theology treats the Holy Fire as a life-giving presence that indwells believers, illuminates them from within, and draws them into divine life. Participation is agonistic, achieved through heat, pressure, purification, and freely endured transformation.
 
 ---
 
@@ -83,4 +83,3 @@ To be Thalmyric is not merely to believe—but to burn, and in burning, to be ma
 
 - [[Canon Index]]
 - [[Canon Index]]
-

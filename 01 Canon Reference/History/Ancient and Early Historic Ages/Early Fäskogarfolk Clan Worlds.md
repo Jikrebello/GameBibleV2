@@ -2,6 +2,7 @@
 type: culture
 status: canon
 canon_level: core
+visibility: public
 era:
   - early historic
 region:
@@ -15,8 +16,7 @@ related_factions:
   - Ättar
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 # Early Fäskogarfolk Clan Worlds
 

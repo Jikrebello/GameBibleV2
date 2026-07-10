@@ -1,15 +1,15 @@
 ---
-type: lore
+type: cosmology
 status: canon
 canon_level: local
+visibility: restricted
 era: []
 region: []
 culture: []
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 ### Appearance and Forms:
 - **Primary Form:** Solrath is the Menhir-expression of **high summer**: heat-load, wildfire weather, glare, thirst, and the violent acceleration of growth into burnout. When mortals describe him as a towering figure in burnished, blood-red armor, they are imposing anatomy onto a phenomenon. What is actually encountered is *summer made sovereign*—air that feels too dense to breathe, sunlight that seems to press down, and mirages that move like living things.

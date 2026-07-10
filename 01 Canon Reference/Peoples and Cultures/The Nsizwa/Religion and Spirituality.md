@@ -1,15 +1,15 @@
 ---
-type: lore
+type: culture
 status: canon
 canon_level: local
+visibility: public
 era: []
-region: []
-culture: []
+region: ["Nsizwa Homeland"]
+culture: ["Nsizwa"]
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 _"The ancestors guide us, the idols test us, and the spirits watch over us. Strength comes not from faith alone, but from the trials we endure."_
 

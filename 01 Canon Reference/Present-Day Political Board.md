@@ -1,15 +1,15 @@
 ---
-type: lore
+type: reference
 status: canon
 canon_level: core
+visibility: author-only
 era: ["Present Day"]
 region: []
 culture: []
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 # Present-Day Political Board
 
@@ -27,7 +27,7 @@ Western Christian-coded, fragmented, church-bound, feudal, reform-haunted. Wants
 
 ### Thalmyria
 
-Eastern Orthodox/Byzantine/Eastern European-coded, mystical, militarized, imperial, ascetic. Wants reconquest, continuity, and proof that its suffering has preserved the true flame of Atheria.
+Mystical, militarized, imperial, and ascetic, with authority expressed through icons, holy fire, monastic witness, and continuity with old Atheria. Wants reconquest, security, and proof that its suffering has preserved the true flame.
 
 ### Sestaran Concord
 
@@ -53,4 +53,3 @@ Land-and-pact peoples. Want autonomy, sacred territories, old rights, and surviv
 - Who pays for war?
 - Which borders are political, and which are metaphysical?
 - Can restoration happen without conquest?
-

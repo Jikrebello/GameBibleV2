@@ -1,15 +1,15 @@
-﻿---
-type: lore
+---
+type: cosmology
 status: canon
 canon_level: local
+visibility: restricted
 era: []
 region: []
 culture: []
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 ### Appearance and Forms:
 - **Primary Form:** Invidia is a green-eyed figure cloaked in shadows, her gaze piercing through to the deepest insecurities of those she looks upon. Her form is ethereal, constantly shifting and blending with the darkness around her. Her presence exudes an aura of resentment and bitterness, making those near her feel an uncomfortable sense of inadequacy and longing.

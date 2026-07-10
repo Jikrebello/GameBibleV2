@@ -1,15 +1,15 @@
 ---
-type: lore
+type: creature
 status: canon
 canon_level: local
+visibility: public
 era: []
 region: []
 culture: []
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 The proto-race of the Grobi, a fully grown goblin is roughly the same height as a prepubescent human child and weighs slightly less. Goblins are the weakest of the all Grobi, but also the hardiest. A goblin can survive on the least amount of food out of the four subraces, and can meaningfully metabolize almost anything edible including rotting flesh and vegetation. They also breed at an exception rate, and are in extreme situations observed to cannibalise themselves in order to survive.
 

@@ -2,6 +2,7 @@
 type: event
 status: canon
 canon_level: core
+visibility: public
 era:
   - ancient
 region:
@@ -12,8 +13,7 @@ related_factions:
   - Giants
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 # Age of Chains
 

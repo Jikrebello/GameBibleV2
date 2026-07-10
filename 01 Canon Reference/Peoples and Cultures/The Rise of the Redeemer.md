@@ -1,15 +1,15 @@
 ---
-type: lore
+type: event
 status: canon
 canon_level: local
+visibility: public
 era: []
 region: []
 culture: []
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 #### **Origin and Early Life**
 The **Redeemer**, known to his followers as **Isfir the Bound**, was born among the **Jirahar people** in a **Tower Town** located in the eastern provinces of the Atherian Empire. The Jirahar, already a people of deep spiritual significance and strict legalistic traditions, had always carried with them the stories of a **promised one**—someone who would bring the scattered and oppressed into a new covenant with the divine. Isfir was born under peculiar circumstances, during an event where the skies were alight with celestial signs, and the stars seemed to whisper his name. His parents, prominent members of a respected **Jirahar caravan**, believed from the outset that their son had a unique destiny.
@@ -37,7 +37,7 @@ Despite the Empire's initial suppression of his movement, the faith of the Redee
 After decades of struggle, the empire eventually **converted** to the faith of the Redeemer. It was not an overnight transformation—many emperors and officials resisted the new faith, but it became clear that the **hearts of the people** had shifted. The Atherian Empire, once the beacon of celestial worship, gradually became a realm shaped by the teachings of Isfir, as his followers grew in influence and number. However, the conversion of the empire also sowed the seeds of division between the **west** and **east**. 
 
 #### **The Faith’s Divergence and Schism**
-As the faith spread eastward, it took on different forms. In the **west**, the Redeemer's teachings were embraced by the common people and the growing church, which took on a highly organized, hierarchical structure, giving rise to the **Eclessian Church**. Meanwhile, in the **eastern provinces**, while the faith spread, it was tempered by the **older Atherian traditions** and the **scholarly class**, leading to a more **mystical and contemplative interpretation** of the Redeemer’s message. Thus, the **Thalmyric Church** arose after the fall of the empire, with a fiery zeal that was fueled by the **Ahl-e-Ahd invasions** and the need to defend their faith and lands.
+As the faith spread, it took on different forms. In the eastern provinces that became Eclessia, growing church institutions developed a highly organized and juridical structure. In the old heartland and western refuge that became Thalmyria, Atherian continuity, monastic scholarship, and invasion produced a more mystical, contemplative, and militant interpretation. The two churches share one origin but remember the empire's fall through opposing wounds.
 
 #### **Symbols and Relics of the Redeemer**
 - **The Chains of Binding**: Represent the Redeemer’s sacrifice, where he was bound to an altar. This symbol is often worn by clergy or depicted in statues and icons.

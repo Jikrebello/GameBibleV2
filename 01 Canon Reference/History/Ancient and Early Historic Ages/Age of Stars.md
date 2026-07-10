@@ -2,6 +2,7 @@
 type: event
 status: canon
 canon_level: core
+visibility: public
 era:
   - early historic
   - imperial
@@ -13,8 +14,7 @@ related_factions:
   - Atherian Empire
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 # Age of Stars
 

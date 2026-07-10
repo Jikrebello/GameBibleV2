@@ -1,15 +1,15 @@
 ---
-type: lore
+type: culture
 status: canon
 canon_level: local
+visibility: public
 era: []
-region: []
-culture: []
+region: ["Eclessia"]
+culture: ["Eclessian"]
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 Despite the dominance of the **Eclessian Church**, mysticism and heresy thrive in the shadows, shaping the beliefs and fears of the people. Hidden sects, forbidden texts, and arcane relics persist, tempting scholars, nobles, and even clergy with knowledge beyond the Church’s reach. While some pursue enlightenment through prophecy and divine communion, others seek power in the remnants of **Atherian magic** or the ancient faiths predating the Redeemer’s teachings.
 
@@ -106,7 +106,7 @@ Despite the Church’s efforts, **heresy remains unkillable**, forever mutating 
 
 The struggle between **faith and forbidden knowledge** is only growing more intense. Several factors threaten to reshape the balance of power:
 
-- **The Rise of the Thalmyric Church** – A rival religious faction from the east claims to possess the **true teachings of the Redeemer**, drawing followers away from the Eclessian Church.
+- **The Rise of the Thalmyric Church** – A rival religious communion from the west claims to preserve the **true teachings of the Redeemer**, drawing followers away from the Eclessian Church.
     
 - **Growing Popularity of Mystic Movements** – More nobles and commoners alike turn to **divination, prophecy, and lost wisdom**, challenging the Church’s monopoly on truth.
     

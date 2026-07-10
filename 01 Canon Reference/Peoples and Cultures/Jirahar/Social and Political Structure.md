@@ -1,15 +1,15 @@
 ---
-type: lore
+type: culture
 status: canon
 canon_level: local
+visibility: public
 era: []
-region: []
-culture: []
+region: ["Jirahar Diaspora"]
+culture: ["Jirahar"]
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 The Jirahar possess a **highly structured yet flexible society**, designed to maintain **their traditions, autonomy, and survival** despite being a minority people in a world that is often hostile to them. Their society is divided between **two major societal groups**:
 

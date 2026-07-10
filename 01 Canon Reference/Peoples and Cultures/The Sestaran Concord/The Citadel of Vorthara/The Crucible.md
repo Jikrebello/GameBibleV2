@@ -1,15 +1,15 @@
 ---
-type: lore
+type: culture
 status: canon
 canon_level: local
+visibility: public
 era: []
-region: []
-culture: []
+region: ["Sestaran Concord"]
+culture: ["Sestaran"]
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 #### **Overview**
 The **Crucible** is by far the **largest** and most prestigious faction in Vorthara, known for its rigorous training in **elemental war magic** and its production of **fearsome battle-ready warlocks**. It serves as a **war college** for those who seek to master the art of **combat magic**, specializing in the manipulation of **fire**, **ice**, **lightning**, and **acid**. Members of the Crucible are trained to be **efficient, adaptable**, and **lethal** in the heat of battle, making them the most sought-after **mercenaries** and **warriors** across the known world.

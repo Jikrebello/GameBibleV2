@@ -1,15 +1,15 @@
 ---
-type: lore
+type: cosmology
 status: canon
 canon_level: local
+visibility: restricted
 era: []
 region: []
 culture: []
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 ### Appearance and Forms:
 - **Primary Form:** Morvalis is the Menhir-expression of **late autumn**: senescence, harvest completion, leaf-fall, and the ecological handover from growth to decay. Mortals often describe a skeletal rider in rusted armor and a hooded cloak because autumn feels like a reaper. The truer encounter is the **quiet closing** of a season: sap withdrawing, daylight thinning, and the air smelling of rot and iron. 

@@ -1,15 +1,16 @@
 ---
-type: lore
+type: source-text
 status: canon
 canon_level: local
+reliability: disputed
+visibility: public
 era: []
-region: []
-culture: []
+region: ["Southern Cold Belt"]
+culture: ["Enaidfae", "Fäskogarfolk"]
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 ### The Enaidfae’s Version of the Monomyth
 

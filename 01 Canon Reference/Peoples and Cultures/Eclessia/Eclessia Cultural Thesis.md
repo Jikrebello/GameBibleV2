@@ -2,18 +2,18 @@
 type: culture
 status: canon
 canon_level: core
+visibility: public
 era: ["Present Day"]
 region: ["Eclessia"]
 culture: ["Eclessian"]
 related_factions: ["Eclessian Church"]
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 # Eclessia Cultural Thesis
 
-Eclessia is Western Europe and Western Christianity coded: Catholic grandeur, Protestant-style fracture pressure, feudal law, reform, heresy anxiety, relic politics, cathedral authority, guild towns, knightly orders, and competing kingdoms under one spiritual inheritance.
+Eclessia is a cathedral-and-parish civilization of feudal law, reform pressure, heresy anxiety, relic politics, guild towns, knightly orders, and competing kingdoms under one spiritual inheritance.
 
 ## Answer to Reality
 
@@ -45,4 +45,3 @@ Develop feast calendars, relic processions, parish festivals, confession customs
 ## Moral Frame
 
 Eclessia can be genuinely holy and genuinely corrupt. Its danger is not that truth is unreal; its danger is that real truth can be captured by offices that mistake themselves for its source.
-

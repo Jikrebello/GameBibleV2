@@ -1,16 +1,15 @@
 ---
 type: culture
-status: draft
+status: canon
 canon_level: core
-era: []
-region: []
-culture: []
+visibility: public
+era: ["Present Day"]
+region: ["Eclessia"]
+culture: ["Eclessian"]
 related_factions: []
 appears_in: []
-needs: []
-tags:
-  - core-canon
-  - needs-review
+needs: ["add two named representative NPCs and one settlement-level story seed"]
+tags: []
 ---
 # Lives of Ironvale
 

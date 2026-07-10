@@ -1,15 +1,15 @@
 ---
 type: culture
-status: needs-review
+status: canon
 canon_level: local
+visibility: public
 era: []
 region: ["Thalmyria"]
 culture: ["Thalmyric"]
 related_factions: ["Eclessia", "Ahl-e-Ahd", "Sestaran Concord"]
 appears_in: []
 needs: ["Clarify identity fault lines and rival stereotypes."]
-tags:
-  - needs-review
+tags: []
 ---
 # Cultural Identity and Rivalry
 
@@ -21,6 +21,6 @@ Thalmyric identity is built from faith, fire, loss, endurance, and the claim tha
 - **Ahl-e-Ahd:** seen as occupiers, contract tyrants, and the great proof that holy war remains unfinished.
 - **Sestara:** admired for sophistication and distrusted for opportunism, finance, and archive politics.
 
-## Needs Further Fleshing Out
+## Development Needs
 
 Define food, dress, festivals, insults, class identity, regional accents, veteran culture, and how commoners differ from imperial elites.

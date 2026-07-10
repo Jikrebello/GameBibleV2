@@ -1,16 +1,15 @@
 ---
 type: culture
-status: draft
+status: canon
 canon_level: core
-era: []
-region: []
-culture: []
+visibility: public
+era: ["Present Day"]
+region: ["Thalmyria"]
+culture: ["Thalmyric"]
 related_factions: []
 appears_in: []
-needs: []
-tags:
-  - core-canon
-  - needs-review
+needs: ["add regional variants for the major imperial states"]
+tags: []
 ---
 # Lives of Thalmyria — Seven Roads from Cradle to Grave
 
@@ -96,7 +95,7 @@ Born at home, likely with a midwife, possibly with a priest if it goes wrong —
 
 **Born** on the same roads as everyone, diverted by the usual doors: debt, deserter's brand, a feud, a harvest that failed while the assessor's didn't. Thalmyria's underworld is shaped by its geography and its virtues — mountains for hiding, veterans for skills, and a society so oath-bound that **even crime keeps liturgy**.
 
-**The forms:** city crime runs in **brotherhoods** with lamp-parodies of guild structure (the Caleran wharf-rings swear on cold braziers — the Church finds this blasphemous; the brotherhoods consider it *honest*); highway banditry clusters on the pilgrimage roads in the weeks after feast-days (piety moves coin); the mountain passes keep **klepht-bands** — half outlaw, half remembered-resistance, fed by villages that recall when men in those same caves fought the Covenant, and who still won't rob a Rekindling runner, because there are lines.
+**The forms:** city crime runs in **brotherhoods** with lamp-parodies of guild structure (the Caleran wharf-rings swear on cold braziers — the Church finds this blasphemous; the brotherhoods consider it *honest*); highway banditry clusters on the pilgrimage roads in the weeks after feast-days (piety moves coin); the mountain passes keep **mountain oath-bands** — half outlaw, half remembered-resistance, fed by villages that recall when men in those same caves fought the Covenant, and who still won't rob a Rekindling runner, because there are lines.
 
 **The decisions:** what you will not do — every band defines itself by its refusals (pilgrims? corpses? the lamp-tithe wagon?); whether to take the **amnesty musters** (the army's standing offer: the brand traded for the frontier, the empire's oldest recycling program — half the Zanthir border garrison has a past); and when the time comes, whether to go to the priest, because Thalmyric bandits die *shriven* at rates that astonish Eclessian inquisitors. Refusal is for the Hollow Flame. A Thalmyric thief fully intends to settle the account late.
 

@@ -2,14 +2,14 @@
 type: event
 status: canon
 canon_level: local
+visibility: public
 era: []
 region: []
 culture: []
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 > _"Out of blood, fire, and the whisper of the stars, Atheria rose."_ —Opening line of the _Chronicles of Aurelius Caldon_, Imperial Historian
 

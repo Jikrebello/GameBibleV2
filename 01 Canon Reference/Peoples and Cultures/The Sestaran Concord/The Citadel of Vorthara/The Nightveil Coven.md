@@ -1,15 +1,15 @@
 ---
-type: lore
+type: faction
 status: canon
 canon_level: local
+visibility: public
 era: []
-region: []
-culture: []
+region: ["Sestaran Concord"]
+culture: ["Sestaran"]
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 The **Nightveil Coven** is one of the most feared and enigmatic magical factions in Vorthara. Specializing in **shadow magic** and **illusion magic**, the coven wields power over darkness, deception, and the arcane forces that flow from the **Shadowrealm**—a plane of existence where shadows, nightmares, and intangible horrors dwell. The coven's ability to combine **illusion** with **shadowbinding** has made them dangerous opponents, able to distort reality and manipulate fear, leaving their enemies disoriented and powerless.
 

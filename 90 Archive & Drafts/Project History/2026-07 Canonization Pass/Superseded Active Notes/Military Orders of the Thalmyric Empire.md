@@ -1,15 +1,16 @@
 ---
-type: faction
-status: needs-review
-canon_level: local
+type: reference
+status: archived
+canon_level: obsolete
+visibility: author-only
 era: []
 region: ["Thalmyria"]
 culture: ["Thalmyric"]
 related_factions: ["Thalmyric Empire", "Thalmyric Church"]
 appears_in: []
 needs: ["Expand order roster, command structure, vows, rivalries, and quest use."]
-tags:
-  - needs-review
+superseded_by: "[[01 Canon Reference/Peoples and Cultures/The Thalmyric Empire/Thalmyric Military Orders]]"
+tags: []
 ---
 # Military Orders of the Thalmyric Empire
 

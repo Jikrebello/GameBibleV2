@@ -1,15 +1,15 @@
 ---
-type: lore
+type: event
 status: canon
 canon_level: local
+visibility: public
 era: []
-region: []
-culture: []
+region: ["Thalmyria"]
+culture: ["Thalmyric"]
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 ### **I. [[Prelude to Collapse]] (c. Year 0 - Year 20)**
 

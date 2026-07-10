@@ -1,15 +1,15 @@
 ---
-type: lore
+type: culture
 status: canon
 canon_level: local
+visibility: public
 era: []
-region: []
-culture: []
+region: ["The Covenant", "Ahl-e-Ahd"]
+culture: ["Ahl-e-Ahd"]
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 (Meaning "The Way of the Covenant" or "The Path of the Contract")
 
@@ -30,7 +30,7 @@ Mujalib received a series of revelations from **Malak al-Ahd**, which were later
 
 5. **War as Sacred Contract (Unsealing)**: War, known as **Al-Unsealing al-Mu'ahad** (The Contracted Struggle), is seen as a divine method for spreading the knowledge of contract binding and fulfilling the divine order. The faithful are encouraged to wage war against those who do not accept the binding nature of the Great Covenant. Captured enemies can be converted to the faith through contracts of servitude, effectively becoming part of the community.
    
-6. **Janissary System (The Ahdanite Guard)**: A **janissary-like institution** known as the **Ahdanite Guard** is a core feature of the religion. Children of slaves or captured enemies are raised in the faith, trained in the art of contracts and warfare, and become elite warriors who serve both the religious and political leaders. These warriors are bound by unbreakable oaths to their masters, serving with absolute loyalty until their contracts expire or are fulfilled.
+6. **The Ahdanite Guard**: The Guard is a contract-bound military institution. Children of slaves or captured enemies are raised in the faith, trained in contracts and warfare, and made into elite servants of religious and political rulers. Unbreakable oaths hold them until their contracts expire or are fulfilled.
 
 7. **Purity and the Body**: The alignment of **body, mind, and soul** is crucial for crafting contracts of immense power. Dietary laws are strict, focusing on **purity of food** to purify the contract maker. Eating impure foods weakens one’s ability to make effective contracts and is seen as a spiritual failing.
 
@@ -76,4 +76,3 @@ Mujalib received a series of revelations from **Malak al-Ahd**, which were later
 
 - [[Canon Index]]
 - [[Canon Index]]
-

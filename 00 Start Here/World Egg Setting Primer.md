@@ -2,14 +2,14 @@
 type: index
 status: canon
 canon_level: core
+visibility: author-only
 era: []
 region: []
 culture: []
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 # World Egg Setting Primer
 
@@ -223,7 +223,7 @@ Key components:
     
 - **Audit & breach courts:** loophole mastery becomes doctrine; breach-hunting is power.
     
-- **Enforcement arm:** compliance operators (janissary analogue) who execute bindings in the field.
+- **Enforcement arm:** contract-bound compliance operators who execute bindings in the field.
     
 
 ### B) Church proof-of-sainthood protocol (saints as hymn-authors)

@@ -1,15 +1,15 @@
-﻿---
-type: lore
+---
+type: cosmology
 status: canon
 canon_level: local
+visibility: restricted
 era: []
 region: []
 culture: []
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 ### Appearance and Forms:
 - **Primary Form:** Furor stands as a towering figure wreathed in flames, his muscular form scarred from countless battles. His eyes burn with an intense, red fury, and his presence exudes an aura of seething anger and relentless aggression. His skin appears molten, cracking with lines of fiery light.

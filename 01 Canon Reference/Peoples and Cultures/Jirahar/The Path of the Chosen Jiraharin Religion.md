@@ -1,15 +1,15 @@
 ---
-type: lore
+type: culture
 status: canon
 canon_level: local
+visibility: public
 era: []
-region: []
-culture: []
+region: ["Jirahar Diaspora"]
+culture: ["Jirahar"]
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 The Jirahar religion, known as **Orakh Bekhirin** or **Al-Sabil** (_The Path of the Chosen_), is a **deeply legalistic, ritualistic, and hierarchical** system of faith, centered on the **preservation of divine law** as revealed by the **Great Prophet**. It dictates every aspect of Jiraharin life, from **daily customs and purity laws** to **trade, marriage, and warfare**.
 

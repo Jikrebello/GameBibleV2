@@ -2,14 +2,14 @@
 type: mechanic
 status: canon
 canon_level: core
+visibility: author-only
 era: []
 region: []
 culture: []
 related_factions: ["The Crucible", "Sestaran Concord"]
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 # Warlock Rune Magic
 

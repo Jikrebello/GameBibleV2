@@ -1,15 +1,15 @@
 ---
-type: lore
+type: culture
 status: canon
 canon_level: local
+visibility: public
 era: []
-region: []
-culture: []
+region: ["Jirahar Diaspora"]
+culture: ["Jirahar"]
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 Jiraharin life is deeply **ritualistic and legalistic**, where **every action, from waking to sleeping, is dictated by divine law**. Their culture is built upon **structured traditions, sacred obligations, and strict codes of conduct**, ensuring that they remain **pure and untainted by the corruption of outsiders**.
 

@@ -1,20 +1,19 @@
 ---
 type: faction
-status: draft
+status: canon
 canon_level: core
+visibility: restricted
 era: []
 region: []
 culture: []
-related_factions: []
+related_factions: ["The Adversary"]
 appears_in: []
 needs: []
-tags:
-  - core-canon
-  - needs-review
+tags: []
 ---
 # The Hollow Flame Cult
 
-The flagship counter-church of the Adversary — the one heresy both great churches jointly condemn by name (existing canon), because it is not a doctrinal error but an **inversion of the whole project**.
+The flagship counter-church of the Adversary — the one heresy both great churches jointly condemn by name, because it is not a doctrinal error but an **inversion of the whole project**.
 
 ## Doctrine
 
@@ -22,7 +21,7 @@ The Hollow Flame teaches that the White Flame is a cage: coherence is control, c
 
 ## Structure
 
-Cells, not hierarchy — refusal doesn't organize well, which is its weakness and its resilience. Ranks by combustion metaphor: **Wicks** (initiates), **Tapers** (cell leaders), **Pyres** (regional masters, perhaps thirty alive), and above them nothing anyone has proven — though every interrogated Taper eventually mentions **the Unburning**, in the tone of someone quoting a superior they have never met. The cult's missionary arm is **the Unlit**: the Adversary's false-prophet apparatus per canon — itinerant preachers who never attack the Church directly, but arrive after it fails someone: the widow the assurance-sellers fleeced, the veteran the crusade spent, the Folk convert the parish shuns. *They do not lie about the wound. They sell severance as the cure.*
+Cells, not hierarchy — refusal doesn't organize well, which is its weakness and its resilience. Ranks by combustion metaphor: **Wicks** (initiates), **Tapers** (cell leaders), **Pyres** (regional masters, perhaps thirty alive), and above them nothing anyone has proven — though every interrogated Taper eventually mentions **the Unburning**, in the tone of someone quoting a superior they have never met. The cult's missionary arm is **the Unlit**: the Adversary's false-prophet apparatus, itinerant preachers who never attack the Church directly but arrive after it fails someone: the widow the assurance sellers fleeced, the veteran the crusade spent, the Folk convert the parish shuns. *They do not lie about the wound. They sell severance as the cure.*
 
 ## Signs
 
@@ -37,3 +36,8 @@ They recruit at the Church's failure-points, which makes every Church abuse thei
 - A Grenzburg winter camp stops praying — no incident, no preacher anyone saw; the trail leads to one Unlit who left three weeks ago.
 - A Pyre requests sanctuary from the Church, offering the cult's cell-map — the Adversary's Counsel argues, in closed session, that the offer itself is the attack.
 - The Sacrament of the Closed Hand: a companion's estranged parent renounced *them*, formally, years ago — and the party finds the record.
+
+## Navigation
+
+- [[The Atlas of the Left Hand]]
+- [[Names of the Menhir, Masks of the Idols]]

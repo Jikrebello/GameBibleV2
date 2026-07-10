@@ -1,15 +1,15 @@
-﻿---
-type: lore
+---
+type: cosmology
 status: canon
 canon_level: local
+visibility: restricted
 era: []
 region: []
 culture: []
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 ### Appearance and Forms:
 - **Primary Form:** Luxuria is a seductive, alluring figure with an irresistible charm. Her eyes are captivating, glowing with a soft, enticing light. Her skin is flawless, and her form is perfect, exuding an aura of temptation and desire. She wears garments made of flowing, sheer fabrics that enhance her allure.

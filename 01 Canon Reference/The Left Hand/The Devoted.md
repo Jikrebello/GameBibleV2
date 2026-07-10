@@ -1,16 +1,15 @@
 ---
 type: faction
-status: draft
+status: canon
 canon_level: core
+visibility: restricted
 era: []
 region: []
 culture: []
-related_factions: []
+related_factions: ["Lust", "The Weeping Courts"]
 appears_in: []
 needs: []
-tags:
-  - core-canon
-  - needs-review
+tags: []
 ---
 # The Devoted
 
@@ -37,3 +36,8 @@ The Making of Saints protocols exist half because of them: an Adored with genuin
 - A Freeflame congregation's tested elder is an Adored — and passing every test, because the righteousness is real and the harvesting is happening anyway, one layer down.
 - A noble house's heir has stopped answering letters; the ransom demanded is not money but *attendance*.
 - In the Grenzburg labor camps, someone is being called "the little saint of the timberline" — and Prelate Caestus's inquiry has just been lovingly, comprehensively stonewalled by four hundred witnesses.
+
+## Navigation
+
+- [[The Atlas of the Left Hand]]
+- [[Names of the Menhir, Masks of the Idols]]

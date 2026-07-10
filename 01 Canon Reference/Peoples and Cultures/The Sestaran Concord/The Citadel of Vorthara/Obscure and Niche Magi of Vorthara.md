@@ -1,15 +1,15 @@
 ---
-type: lore
+type: culture
 status: canon
 canon_level: local
+visibility: public
 era: []
-region: []
-culture: []
+region: ["Sestaran Concord"]
+culture: ["Sestaran"]
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 While the dominant schools and guilds of magic focus on war, necromancy, or creation, there are smaller, more secretive groups that study **obscure forms of magic**. These mages often work in the shadows of Vorthara, advancing their unique craft with quiet, yet profound influence. They are not as numerous as other factions, but their magic holds incredible power when used effectively.
 

@@ -1,15 +1,15 @@
-﻿---
-type: lore
+---
+type: creature
 status: canon
 canon_level: local
+visibility: public
 era: []
 region: []
 culture: []
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 The Eclipsis represent the enigmatic and manipulative aspect of vampire society, wielding their mastery over the mind and emotions as both a shield and a weapon. As architects of illusion and guardians of secrets, they play a crucial role in the survival and prosperity of their kind.
 

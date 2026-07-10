@@ -2,19 +2,18 @@
 type: creature
 status: draft
 canon_level: core
+visibility: public
 era: []
 region: []
 culture: []
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
-  - needs-review
+tags: []
 ---
 # Vampires in the Present Age (1360 AR)
 
-The synthesis dossier: what vampires are in World Egg terms, where the five bloodlines stand on the present board, and why every weakness in the folklore is actually a law. Builds on [[Origin]] and [[Bloodlines Overview]]; family placement in [[Bestiary Framework — Creatures of the World Egg]].
+The synthesis dossier: what vampires are in World Egg terms, where the five bloodlines stand on the present board, and why every weakness in the folklore is actually a law. Builds on [[Vampire Origins]] and [[Bloodlines Overview]]; family placement in [[Bestiary Framework — Creatures of the World Egg]].
 
 ## What a Vampire Is (cosmologically)
 
@@ -59,7 +58,7 @@ Vampire ash (potent, illegal, and theologically radioactive — it is *someone's
 
 ## Navigation
 
-- [[Origin]]
+- [[Vampire Origins]]
 - [[Bloodlines Overview]]
 - [[Bestiary Framework — Creatures of the World Egg]]
 - [[Soul Routing and the Vestibule]]

@@ -1,16 +1,19 @@
 ---
-type: lore
+type: creature
 status: canon
 canon_level: local
+visibility: public
 era: []
-region: []
+region: ["Southern Cold Belt", "Grobi Frontier"]
 culture: []
 related_factions: []
-appears_in: []
+appears_in: ["Grenzburg"]
 needs: []
-tags:
-  - core-canon
+aliases: ["Overview"]
+tags: []
 ---
+# Grobi Overview
+
 The Grobi, a race characterized by their voracious hunger and adaptive physiology, are a major force in the world. This race is divided into four main groups, each with unique physical and intellectual traits that are influenced by their diet and environmental factors.
 
 #### Origins of Transformation

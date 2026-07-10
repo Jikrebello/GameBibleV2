@@ -2,14 +2,14 @@
 type: culture
 status: canon
 canon_level: core
+visibility: public
 era: []
-region: []
-culture: []
+region: ["Southern Cold Belt"]
+culture: ["Fäskogarfolk"]
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 # The Folk of the Frontier and the Wolfsmere Lineage
 
@@ -17,7 +17,7 @@ tags:
 
 ## Clan Structure
 
-A clan is a kinship bloc holding named territory under three offices: the **Speaker** (outward voice, treaty-holder), the **War-Keeper** (raid and defense), and the **Seer** (grove-law, omens, the dead). Clans federate seasonally and feud generationally. Known clans of the Grenzburg frontier (existing canon ✓): the **Moss-Crown**, the **Shattered-Tusk**, the **Ghost-Foot**, the **River-Clans** (Speaker Bran ✓), the **Ash-Spear** (Warlord Cenn ✓), and the **Chapel-Folk** — the converted, despised and growing. The broader frontier adds (new): the **Elk-Ford** (drovers and ferry-right holders), the **Grey-Withy** (basket-traders, famous neutrals, informal diplomatic channel for everyone), the **Nine-Springs** (healers, guardians of a thin-space complex of holy wells), and the **Owl-Mark** (night-hunters and secret-keepers — it is the Owl-Mark who are said to keep the location of Saint Elsin's grave).
+A clan is a kinship bloc holding named territory under three offices: the **Speaker** (outward voice, treaty-holder), the **War-Keeper** (raid and defense), and the **Seer** (grove-law, omens, the dead). Clans federate seasonally and feud generationally. Known clans of the Grenzburg frontier: the **Moss-Crown**, the **Shattered-Tusk**, the **Ghost-Foot**, the **River-Clans** (Speaker Bran), the **Ash-Spear** (Warlord Cenn), and the **Chapel-Folk** — the converted, despised and growing. The broader frontier includes: the **Elk-Ford** (drovers and ferry-right holders), the **Grey-Withy** (basket-traders, famous neutrals, informal diplomatic channel for everyone), the **Nine-Springs** (healers, guardians of a thin-space complex of holy wells), and the **Owl-Mark** (night-hunters and secret-keepers — it is the Owl-Mark who are said to keep the location of Saint Elsin's grave).
 
 ## The House of the Bent Oak
 

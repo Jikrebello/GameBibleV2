@@ -1,15 +1,15 @@
 ---
-type: lore
+type: culture
 status: canon
 canon_level: local
+visibility: public
 era: []
-region: []
-culture: []
+region: ["Thalmyria"]
+culture: ["Thalmyric"]
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 ### **Theological Foundation**
 In the Thalmyric tradition, the **Redeemer** is venerated not only as the loving savior and atoning sacrifice but also as a **divine champion** engaged in spiritual warfare throughout his earthly ministry. His actions are seen as part of a larger cosmic struggle against the **Adversary** and the spiritual corruption that enslaves creation.

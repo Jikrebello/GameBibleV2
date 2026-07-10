@@ -1,15 +1,15 @@
-﻿---
-type: lore
+---
+type: creature
 status: canon
 canon_level: local
+visibility: public
 era: []
 region: []
 culture: []
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 ### The Bloodlines of The Sovereign (The Idol of Pride)
 

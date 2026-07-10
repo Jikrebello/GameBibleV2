@@ -2,6 +2,7 @@
 type: quest
 status: canon
 canon_level: local
+visibility: author-only
 era:
   - Present Day
 region:
@@ -20,7 +21,6 @@ appears_in:
 needs: []
 tags:
   - game-ready
-  - core-canon
 ---
 # Grenzburg Vertical Slice Dossier
 

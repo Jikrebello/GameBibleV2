@@ -1,15 +1,15 @@
 ---
-type: lore
+type: reference
 status: canon
 canon_level: local
+visibility: author-only
 era: []
 region: []
 culture: []
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 # Ethnic Groups Overview
 
@@ -26,7 +26,6 @@ Locked additions:
 ### **Older Ethnic Groups**
 
 #### **Ahl-e-Ahd**
-- **Inspiration**: Farsi, Turkish, Arabic peoples of the Middle East.
 - **General Heights**: Medium height overall, ranging from **5'6" to 6'0"** for men and **5'2" to 5'8"** for women. Heights tend to vary by region, with coastal peoples tending to be taller.
 - **Musculature**: Generally lean to medium muscular builds. Men often have wiry strength, with **strong forearms** and legs built from a mix of desert survival, horsemanship, and warfare. Women tend to be **slender yet strong**, particularly in the legs and hips, from daily activities and travel.
   
@@ -43,7 +42,6 @@ Locked additions:
 ---
 
 #### **Atherians**
-- **Inspiration**: Etruscans, modern Northern Italians.
 - **General Heights**: Men range from **5'7" to 6'2"**, with women typically between **5'3" to 5'8"**. The Atherians have a broad range of heights, with taller individuals seen more frequently in northern regions.
 - **Musculature**: **Medium to stocky** builds. Atherians are traditionally hardy, with men and women having **sturdy frames**. Men often show **solid musculature** from both urban work and military traditions, while women have **curvaceous but firm builds**.
 
@@ -62,7 +60,6 @@ Locked additions:
 #### **Fäskogarfolk**
 
 1. **Ättar (Southern Cold-Coast Scandinavian Types)**
-   - **Inspiration**: Norsemen, ancient Swedish peoples.
    - **General Heights**: Men range from **5'10" to 6'4"**, and women from **5'6" to 5'11"**, with some particularly tall individuals among the northernmost populations.
    - **Musculature**: Broad and powerful, with **heavy musculature** being a common trait. Men are often **large-framed**, with **muscular arms, torsos, and legs**, built from a life of labor, farming, and combat. Women also tend to be **strong and athletic**, with broad shoulders and **defined musculature**, especially in the legs and arms.
    
@@ -78,7 +75,6 @@ Locked additions:
      - **Hips and waist**: Women from Ättar have **slim waists** but are often curvier than expected, with firm but prominent hips.
 
 2. **Enaidfae (Celtic/Pictish Peoples)**
-   - **Inspiration**: Ancient Celts of Roman Gaul and Picts of the British Isles.
    - **General Heights**: Men are between **5'8" and 6'0"**, while women range from **5'4" to 5'9"**.
    - **Musculature**: **Lean and wiry**, with men and women having **slim but powerful builds**. The Enaidfae people are **agile**, with muscle concentrated in the **legs and shoulders**.
    
@@ -150,8 +146,6 @@ Locked additions:
   - **Body**: Variable—some women exhibit **slender frames**, particularly in city-states like **Venara**, while others in **Aversia** or **Seramora** show **stronger, more muscular builds** due to the influence of **mercenary culture**.
 ---
 ### **Jirahar**
-
-- **Inspiration**: Jewish and Romani (Gypsy) peoples.
 - **General Heights**: Men typically range from **5'6" to 6'1"**, and women range from **5'2" to 5'8"**.
 - **Musculature**: **Lean to medium builds**. Jirahar men often possess **slender but strong frames**, reflecting their nomadic lifestyle and the need for endurance over brute strength. Women, similarly, have **slender and graceful builds**, with **toned legs and arms** from walking long distances and performing practical tasks.
 

@@ -1,16 +1,15 @@
 ---
 type: faction
-status: draft
+status: canon
 canon_level: core
+visibility: author-only
 era: []
 region: []
 culture: []
-related_factions: []
+related_factions: ["The Adversary", "The Idols", "The Concord of Weights", "The Undertow"]
 appears_in: []
-needs: []
-tags:
-  - core-canon
-  - needs-review
+needs: ["add regional cells as new playable settings are developed"]
+tags: []
 ---
 # The Atlas of the Left Hand
 
@@ -25,7 +24,7 @@ Evil in the World Egg is **plural and competitive**, not a pyramid. Four distinc
 3. **The patron economy** (Astral rent): [[The Concord of Weights]] (the rent cartel) and its greatest member, [[The Creditor]] — the spine's biggest secret.
 4. **Soul-route predation** (the leftward road): [[The Undertow]] — the counter-Boatman.
 
-Standing creature-side infrastructure cross-references: the vampire bloodlines (Pride's escrowed souls), the ghoul-cities (Gluttony's logistics), the Nightmares (Sloth's cavalry), the Hollow-Kings (unresolved by design).
+Standing creature-side infrastructure cross-references: the vampire bloodlines (Pride's escrowed souls), the ghoul-cities (Gluttony's logistics), the Nightmares (Sloth's cavalry), and the Hollow-Kings, whose place in these supply chains remains unknown.
 
 ## The Interlock Rule
 

@@ -1,15 +1,15 @@
 ---
-type: lore
+type: culture
 status: canon
 canon_level: local
+visibility: public
 era: []
-region: []
-culture: []
+region: ["Nsizwa Homeland"]
+culture: ["Nsizwa"]
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 The Nsizwa are not alone in their corner of the world. While they stand as a mighty warrior kingdom bound by tradition and their ancestors, their lands are surrounded by **powerful city-states, nomadic warbands, and exiled mercenaries**, each with their own history, ambitions, and conflicts with the Nsizwa. These neighboring groups serve as both **allies and adversaries**, shaping the political, economic, and military landscape of the region.
 

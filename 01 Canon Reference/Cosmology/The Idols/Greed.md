@@ -1,15 +1,15 @@
-﻿---
-type: lore
+---
+type: cosmology
 status: canon
 canon_level: local
+visibility: restricted
 era: []
 region: []
 culture: []
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 ### Appearance and Forms:
 - **Primary Form:** Avarix appears as a gaunt, golden-skinned figure, his body adorned with countless jewels and treasures that seem to merge with his very flesh. His eyes are sharp and calculating, constantly assessing the worth of everything around him. His robes are made of the finest silks and embroidered with gold and precious gems.

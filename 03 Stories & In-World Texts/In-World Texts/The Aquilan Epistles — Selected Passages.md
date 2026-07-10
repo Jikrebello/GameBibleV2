@@ -1,7 +1,9 @@
 ---
-type: source
+type: source-text
 status: draft
 canon_level: core
+reliability: scripture
+visibility: public
 era: []
 region: []
 culture: []
@@ -10,7 +12,6 @@ appears_in: []
 needs: []
 tags:
   - in-world-source
-  - needs-review
 ---
 # The Aquilan Epistles — Selected Passages
 

@@ -1,15 +1,15 @@
 ---
-type: lore
+type: faction
 status: canon
 canon_level: local
+visibility: public
 era: []
-region: []
-culture: []
+region: ["Eclessia"]
+culture: ["Eclessian"]
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 The **Eclessian Church** is the dominant religious institution in **Eclessia**, a vast and politically fragmented region that emerged from the eastern provinces of the fallen **Atherian Empire**. The Church, inspired by the teachings of **Isfir the Redeemer**, wields immense spiritual, political, and cultural influence. It serves as both a unifying force and a powerful entity in its own right, deeply embedded in the daily lives of the people and the governance of the region. The Church seeks to fulfill the divine mission of restoring the unity and glory of the Atherian Empire, guided by the faith of the **Redeemer**.
 
@@ -93,7 +93,7 @@ The Eclessian Church is not just a passive spiritual force—it is a strong advo
 
 The **interregnum** following the collapse of the Atherian Empire has placed the Church in a powerful but precarious position. With no clear political unifier in the region, the Church acts as a **moral compass**, claiming that whoever can reunite Eclessia will be divinely chosen and blessed by the Redeemer. The Church’s blessing is crucial for any aspiring monarch, as it confers both **legitimacy** and **divine favor**.
 
-However, the Church also faces challenges. **Regional bishops** and **noble families** often vie for more autonomy, and the **Thalmyric Church** to the east presents a rival interpretation of the Redeemer’s teachings. The Church must balance maintaining its spiritual authority with managing the political realities of a fractured land.
+However, the Church also faces challenges. **Regional bishops** and **noble families** often vie for more autonomy, and the **Thalmyric Church** to the west presents a rival interpretation of the Redeemer's teachings. The Church must balance spiritual authority with the political realities of a fractured land.
 
 ---
 

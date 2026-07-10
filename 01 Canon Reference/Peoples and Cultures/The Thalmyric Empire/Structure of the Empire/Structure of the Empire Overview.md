@@ -1,15 +1,15 @@
 ---
-type: lore
+type: faction
 status: canon
 canon_level: local
+visibility: public
 era: []
-region: []
-culture: []
+region: ["Thalmyria"]
+culture: ["Thalmyric"]
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 The **Thalmyric Empire** is a vast confederation of semi-autonomous realms, each bound by oath and sacrament to the **Imperial Crown** and the authority of the **Thalmyric Church**. Though distinct in culture, terrain, and historical development, all constituent states share the vision of the **Reconquest**, the restoration of lost lands, and the expansion of the **Redeemer’s flame** throughout the known world.
 
@@ -18,8 +18,6 @@ Each realm plays a unique role—military, spiritual, naval, or economic—in ma
 ---
 
 ### **I. [[The Kingdom of Veridun Overview]]**
-
-**Inspiration**: Byzantine Greece and Anatolia
 
 The **heart of the empire**, Veridun is the spiritual, political, and cultural nucleus of Thalmyric civilization. Its capital, **Caleran**, houses both the **Imperial Court** and the **Patriarchate of Veridun**.
 
@@ -34,8 +32,6 @@ Veridun's warriors are known as **Firewardens**, elite paladins and strategoi tr
 
 ### **II. [[The Kingdom of Saronis Overview]]**
 
-**Inspiration**: Aragon (Medieval Spain)
-
 The **naval engine** of the empire, Saronis commands the islands and coastal strongholds of the **Thalassian Sea**.
 
 - **Terrain**: Archipelagos, wind-beaten cliffs, coral fortresses.
@@ -48,8 +44,6 @@ The **Saronic Admiralty** is both military and religious, maintaining fleets of 
 ---
 
 ### **III. [[The Kingdom of Valrathis Overview]]**
-
-**Inspiration**: Castile (Reconquista-era Spain)
 
 The **military bulwark** of the empire, Valrathis is famed for its **cavalry legions**, crusading traditions, and massive fortresses.
 
@@ -64,8 +58,6 @@ Home to many **military orders**, including the **Order of the Phoenix Ascendant
 
 ### **IV. [[The Duchy of Elenor Overview]]**
 
-**Inspiration**: León (Iberian monasticism and frontier piety)
-
 A **mountain-bound ecclesiastical duchy**, Elenor is known for its spiritual severity and fierce defense of the faith.
 
 - **Terrain**: Alpine valleys, sacred peaks, isolated monasteries.
@@ -78,8 +70,6 @@ The **Duke-Abbot** of Elenor rules both as a noble and archpriest, commanding bo
 ---
 
 ### **V. [[The Velian States Overview]]**
-
-**Inspiration**: Al-Andalus (Muslim Spain under Christian resistance)
 
 Now fragmented and **under occupation** by the Ahl-e-Ahd, the Velian States were once the **richest and most culturally diverse** regions of the empire.
 
@@ -94,8 +84,6 @@ Many inhabitants live double lives: **publicly oath-bound**, privately loyal to 
 
 ### **VI. [[Emirate of Zanthir Overview]]**
 
-**Inspiration**: Granada (Last Islamic stronghold in Iberia)
-
 The **northernmost stronghold** of the Ahl-e-Ahd and the ultimate target of the Reconquest. Zanthir is as much symbol as city.
 
 - **Terrain**: River-girded marble city, spice gardens, mirror towers.
@@ -109,8 +97,6 @@ The **retaking of Zanthir** is prophesied by some Thalmyrics to signal the openi
 
 ### **VII. [[Principality of Caedmon’s Reach Overview]]**
 
-**Inspiration**: Portugal (exploration, rural zeal, monastic granges)
-
 A **rugged, sea-facing principality**, Caedmon’s Reach is renowned for its **peasant militias, knight-villeins, prophetic mariners**, and a unique system of **agrarian monasticism**.
 
 - **Terrain**: Windblown cliffs, salt plains, pine-cloaked highlands.
@@ -123,8 +109,6 @@ The principality was initially poor and sparsely defended, but **grange monaster
 ---
 
 ### **VIII. [[The Thematic of Archenia Overview]]**
-
-**Inspiration**: Greek islands, Orthodox metropolises, Hellenistic city-states
 
 **Archenia** is an archipelago of **philosopher-priests, island city-states**, and ancient flame-temples. It is ruled by the **Metropolitan League**, a council of high archons, each representing a city or sacred academy.
 

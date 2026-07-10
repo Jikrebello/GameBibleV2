@@ -1,15 +1,15 @@
 ---
-type: lore
+type: culture
 status: canon
 canon_level: local
+visibility: public
 era: []
-region: []
-culture: []
+region: ["Eclessia"]
+culture: ["Eclessian"]
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 Eclessia’s economy is **diverse and interdependent**, shaped by the unique geography, industries, and traditions of each region. While the **church dominates cultural life**, economic power rests largely in the hands of **nobles, merchant guilds, and industrialists**, who oversee production, trade, and taxation. Due to the lack of a central authority, trade is often conducted through **regional treaties, trade leagues, and alliances**, with periodic conflicts over tariffs and monopolies. The economy is built on a foundation of **agriculture, mining, industry, and commerce**, with distinct economic centers emerging in each territory.
 

@@ -1,16 +1,15 @@
 ---
-type: lore
+type: reference
 status: draft
 canon_level: core
+visibility: author-only
 era: []
 region: []
 culture: []
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
-  - needs-review
+tags: []
 ---
 # Bestiary Framework — Creatures of the World Egg
 
@@ -18,7 +17,7 @@ Every creature family belongs to a layer of the cosmology, and its layer dictate
 
 ## The Placement Table
 
-- **Grobi** (goblins → hobgoblins → orcs → ogres) — **Material realm, Wrath's harvest.** Humans transformed by the Idol of Wrath ("The Fury" — see [[Names of the Menhir, Masks of the Idols]]); now a self-sustaining species whose food-driven metamorphic ladder and seasonal migration make them an ecological weather system, not an army. See [[01 Canon Reference/Creatures/Grobi/Overview|Grobi Overview]].
+- **Grobi** (goblins → hobgoblins → orcs → ogres) — **Material realm, Wrath's harvest.** Humans transformed by the Idol of Wrath ("The Fury" — see [[Names of the Menhir, Masks of the Idols]]); now a self-sustaining species whose food-driven metamorphic ladder and seasonal migration make them an ecological weather system, not an army. See [[Grobi Overview]].
 - **The Pale-Skins and the Hollow-Kings** — **a separate ancient species, not Grobi.** The deep-dwellers of the Grenzburg arc are no kin to the surface clans they manipulate. They are the **remnant of the barrow-builders** — the pre-human civilization that raised the Barrow of the First Chieftain and its buried engines — sunken, sunless, and multiplied strange, with the Hollow-Kings as their undying ruler-caste seeking to rekindle their ancestors' works (the Heart-Stone among them). What bent them in the deep dark — Idol feeding, patron rent, or something older — is deliberately unresolved. See [[Pale-Skins and Hollow-Kings]].
 - **Drakes** (bronze, emerald, gold, ruby, sapphire, silver) — **Faewild court-fauna.** The Menhir courts keep beasts as their regimes keep weather; drakes are those beasts strayed or seeded into the Material where the right yolk presses through. Each color belongs to a regime — see [[Drakes Overview]]. Their **heart-gems are crystallized Faewild law**, which is why one can silence a Shadowlands engine (Act II/III of Grenzburg: natural law against psychic hunger — yolk against yolk).
 - **Dragons** — **Abyssal exile-intelligences**, the Adversary's heavy pieces (established in [[The Adversary]]): swamp-leviathan refusal-physics, manifesting only through layered ritual. **The drake/dragon confusion is in-world canon and lethal**: peasants, heralds, and half the Church's rural clergy use the words interchangeably; scholars who know the difference know that hunting one is sport and disturbing the other is apocalypse. An Emerald Drake ate someone's herd. A dragon is why a duchy stopped appearing in records.

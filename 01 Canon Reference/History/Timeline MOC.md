@@ -2,14 +2,14 @@
 type: index
 status: canon
 canon_level: core
+visibility: author-only
 era: []
 region: []
 culture: []
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 # Timeline MOC
 
@@ -17,7 +17,7 @@ tags:
 
 - [[Historical Spine of the Known World]]
 - [[Ancient and Early Historic Ages]]
-- [[Timeline of the Known World Overview]]
+- [[Chronology of the Known World (AR Dating)]]
 - [[The Atherian Empire – Age of Glory]]
 - [[The Age of the Redeemer]]
 - [[The Conversion of the Empire]]
@@ -47,8 +47,12 @@ tags:
 - [[The Rise of the Atherian Empire Overview]]
 - [[The Rise of the Redeemer]]
 - [[Present-Day Political Board]]
+- [[Present-Day Courts and Crowns (1360 AR)]]
+- [[The Grey Sweat]]
+- [[The Korrheim Accord]]
+- [[Freeflame Reformation]]
 
-## Missing Event Notes Created For Link Repair
+## Fall and Restoration Events
 
 - [[The Invasion and the Fall]]
 - [[The Founding Flame]]

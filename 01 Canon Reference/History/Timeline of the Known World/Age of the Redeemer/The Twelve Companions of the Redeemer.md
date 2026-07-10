@@ -2,14 +2,14 @@
 type: event
 status: canon
 canon_level: local
+visibility: public
 era: []
 region: []
 culture: []
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 # The Companions of the Redeemer
 
@@ -41,50 +41,50 @@ How the Companions are venerated differs by church, per [[The Making of Saints]]
 
 A blind imperial scribe and forger who received partial sight from Isfir and spent it entirely on chronicling him. Taken in the Great Purge at Caleran and **burned in the Celestial Forum with his half-copied Gospel of Fire**; witnesses say he kept writing until the smoke took his one good eye, and the book's charred spine — **the Ash Spine** — survived the pyre and rests in the Sanctum Divinitatis.
 
-- **West:** bearer of the Commission of the Pen; patron of scribes, notaries, archivists, and the relic courts; scholarly patron of the Order of the Lantern. Eclessian iconography: the bound eye and the burning pen. His devotees among the chancery clergy have manifested the Four Marks on their writing wrists.
-- **East:** honored but pointedly demoted — Thalmyric icons paint him small at the Mother's hearth, writing down what Calira dictates.
+- **Eclessia:** bearer of the Commission of the Pen; patron of scribes, notaries, archivists, and the relic courts; scholarly patron of the Order of the Lantern. Eclessian iconography: the bound eye and the burning pen. His devotees among the chancery clergy have manifested the Four Marks on their writing wrists.
+- **Thalmyria:** honored but pointedly demoted — Thalmyric icons paint him small at the Mother's hearth, writing down what Calira dictates.
 
 ### 2. Saint Calira of the Broken Blade — *the Guardian* (d. 29 AR)
 
 Legionnaire and noble exile, healed by Isfir, entrusted with Amaryah from the Pillar itself. She brought the Mother south through the Purge and **died defending the first shrine — Amaryah's hearth at Veridun Minor** — holding a doorway against a Purge cohort with a sword that had snapped at the crossguard. The **Broken Blade** hangs in the Cathedral of the Eternal Ember.
 
-- **East:** the great martyr of the Ember Succession; patroness of the **Order of the Phoenix Ascendant** (the healed soldier reborn in service). By her own recorded wish there are no icons of her face: *"Look at the hearth, not at me."* Her feast is an all-night standing vigil.
-- **West:** honored crusader-saint; invoked by soldiers' widows and bodyguards; Eclessian art ignores her wish and paints her constantly, which Thalmyric polemicists never tire of noting.
+- **Thalmyria:** the great martyr of the Ember Succession; patroness of the **Order of the Phoenix Ascendant** (the healed soldier reborn in service). By her own recorded wish there are no icons of her face: *"Look at the hearth, not at me."* Her feast is an all-night standing vigil.
+- **Eclessia:** honored crusader-saint; invoked by soldiers' widows and bodyguards; Eclessian art ignores her wish and paints her constantly, which Thalmyric polemicists never tire of noting.
 
 ### 3. Saint Thalos the Laughing Monk — *the Fool* (d. 36 AR)
 
 Wandering satirist who mocked temples and stars until the mockery turned holy. Arrested at Virelos after staging a funeral procession for the Star Pantheon, he was **crucified upside down on a star-temple gable**; he is recorded joking to the end — *"At last I see the stars where they belong: beneath me."*
 
-- **East:** father of the **Fools-for-the-Flame** — the holy fool tradition (feigned madness, truth told to tyrants, sanctity hidden under shame). His relics are famously *unstealable because always stolen*: they vanish from every shrine that hoards them and surface in poorhouses, which the East considers the saint still wandering.
-- **West:** patron of minstrels, satirists, and penitent players; the mendicant **Thalosine friars** preach in marketplaces with deliberate comedy. The Inquisition has an old, unresolved file on whether laughing at the Church can be devotional. Thalos is the file's patron too.
+- **Thalmyria:** father of the **Fools-for-the-Flame** — the holy fool tradition (feigned madness, truth told to tyrants, sanctity hidden under shame). His relics are famously *unstealable because always stolen*: they vanish from every shrine that hoards them and surface in poorhouses, which the East considers the saint still wandering.
+- **Eclessia:** patron of minstrels, satirists, and penitent players; the mendicant **Thalosine friars** preach in marketplaces with deliberate comedy. The Inquisition has an old, unresolved file on whether laughing at the Church can be devotional. Thalos is the file's patron too.
 
 ### 4. Saint Myra of the Hollow Womb — *the Childless Mother* (d. 31 AR)
 
 A noblewoman cast out as cursed after seven miscarriages, who claimed the Holy Flame filled the emptiness in her. She sheltered catechumen children in an Aurelian bakehouse during the riots and **died under the stones of the mob**, standing in the doorway.
 
-- **West:** one of Eclessia's most beloved cults — patroness of barren women, mothers, midwives, and foundlings; the great **Myrine foundling hospitals** operate in every Eclessian city; her images in maternity chapels are repeatedly reported to weep, and the relic courts have confirmed two instances (and exposed nine).
-- **East:** "the childless mother of thousands" — honored soberly, without the weeping images, with a single fast-day kept by women.
+- **Eclessia:** one of Eclessia's most beloved cults — patroness of barren women, mothers, midwives, and foundlings; the great **Myrine foundling hospitals** operate in every Eclessian city; her images in maternity chapels are repeatedly reported to weep, and the relic courts have confirmed two instances (and exposed nine).
+- **Thalmyria:** "the childless mother of thousands" — honored soberly, without the weeping images, with a single fast-day kept by women.
 
 ### 5. Saint Erom the Flamebound — *the Penitent* (d. 44 AR)
 
 A murderer who confessed publicly and became a healer of prisoners. When his former brotherhood fired a catechumen orphanage in Velos during the Purge, Erom **walked into the building four times**; he died of his burns days later, having first formally forgiven, by name, the men who set the fire. Two of them are buried beside him.
 
-- **East:** patron of the **Order of the Iron Martyrs**, the penitential order — men and women with blood-guilt who take the harshest vows; his cult is the East's standing proof that no one is beyond the Fire.
-- **West:** patron of prisoners, jailers, firefighters, and deathbed conversions; his prison-ministry chains are relics at Velos; charismatic devotees report burn-shaped Marks that do not blister.
+- **Thalmyria:** patron of the **Order of the Iron Martyrs**, the penitential order — men and women with blood-guilt who take the harshest vows; his cult is the East's standing proof that no one is beyond the Fire.
+- **Eclessia:** patron of prisoners, jailers, firefighters, and deathbed conversions; his prison-ministry chains are relics at Velos; charismatic devotees report burn-shaped Marks that do not blister.
 
 ### 6. Saint Naris the Waterspoken — *the Baptizer* (d. 38 AR)
 
 The dockworker of Halmenth who after his healing spoke only in prayer and poetry, and baptized hundreds along the coast. Magistrates' soldiers **held him under the River Celion in the middle of a baptism**; witnesses say his last motion, underwater, was the gesture of blessing. His body was never recovered — but for decades objects he had touched washed ashore (**Celion-wrack**), and coastal chapels keep them still.
 
-- **East:** his vigil is the great **Blessing of the Waters**; and because drowned souls are held to lie near the leftward gate's element, Naris is the intercessor invoked over every drowning — *the saint who blesses the water from inside it*. Sailors of both confessions will not sail without his token.
-- **West:** patron of sailors, ferrymen, and coastal missions; Castara's shipwrights lay a Naris-token in every keel.
+- **Thalmyria:** his vigil is the great **Blessing of the Waters**; and because drowned souls are held to lie near the leftward gate's element, Naris is the intercessor invoked over every drowning — *the saint who blesses the water from inside it*. Sailors of both confessions will not sail without his token.
+- **Eclessia:** patron of sailors, ferrymen, and coastal missions; Castara's shipwrights lay a Naris-token in every keel.
 
 ### 7. Saint Virella the Twin-Veiled — *the Discerner* (d. 47 AR)
 
 The herbalist once thought possessed by two spirits, whom Isfir's touch "split the veil" into seer and healer. In Sermora she was **slowly poisoned over months by an imperial inquisitor posing as her patient — she knew, and kept treating him**. He converted at her deathbed and became her first hagiographer.
 
-- **East:** founder-patroness of the **Ember-Visionaries**; her "two veils" — the true vision and the false kindling — are the foundation of Thalmyric discernment-of-spirits, and every trance-dormitory keeps her rule: *test the fire before you warm yourself.*
-- **West:** patroness of physicians, mystics, and the mentally ill; the Inquisition uses her protocols to test visionaries — meaning both the visionaries and their examiners claim the same saint, which she would probably have found funny.
+- **Thalmyria:** founder-patroness of the **Ember-Visionaries**; her "two veils" — the true vision and the false kindling — are the foundation of Thalmyric discernment-of-spirits, and every trance-dormitory keeps her rule: *test the fire before you warm yourself.*
+- **Eclessia:** patroness of physicians, mystics, and the mentally ill; the Inquisition uses her protocols to test visionaries — meaning both the visionaries and their examiners claim the same saint, which she would probably have found funny.
 
 ### 8. Saint Dorn of the Stone Road — *the Waywarden* (d. 40 AR)
 
@@ -97,29 +97,29 @@ Ex-gladiator, caravan guard, the Redeemer's shield on the roads, builder of the 
 
 The mute shepherd of the Fäskogar borderlands, gifted with fire-speech that calmed beasts and moved crowds without a word. He alone died in peace — back among the Folk, **in silence, smiling, surrounded by converts** — and the Folk buried him secretly. **His grave has never been found.** The Folk keep its location as an oath-secret to this day; after Wolfsmere, they say: *you may have our lake — you will not have our shepherd.*
 
-- **East:** patron of hesychasts and the silence-disciplines; the Wordless is the East's icon of prayer beyond language.
-- **West:** patron of the **Order of the Blessed Watch** and of the peaceful-mission tradition — the standing counter-authority to the crusading Knights of Saint Aveline. Every borderland priest who opposes conversion by sword invokes Elsin; every one who doesn't invokes Aveline; Grenzburg's pulpits know both names well.
+- **Thalmyria:** patron of hesychasts and the silence-disciplines; the Wordless is the East's icon of prayer beyond language.
+- **Eclessia:** patron of the **Order of the Blessed Watch** and of the peaceful-mission tradition — the standing counter-authority to the crusading Knights of Saint Aveline. Every borderland priest who opposes conversion by sword invokes Elsin; every one who doesn't invokes Aveline; Grenzburg's pulpits know both names well.
 
 ### 10. Saint Menos the Chain-Breaker — *the Laborer* (d. 45 AR)
 
 The slave of Ironvale's golem-forges, freed by Isfir, who carried the message back into the mines and led the empire's first worker risings in the Redeemer's name. He was **executed in the chains he had broken, re-forged and poured molten**. The cooled chain-mass — **the Knot of Menos** — is held today by the Council of Iron in the Grand Ministry's hall, which refuses to surrender it to either church: the working faith's greatest relic, kept by a Freeflame polity.
 
 - **The Freeflame and the Ashenmen** claim his mantle outright; miners' oaths are sworn "by the Knot."
-- **West:** listed, honored, and handled carefully (his cult keeps starting strikes). **East:** honored as a passion-bearer — one who accepted violence rather than dealt it.
+- **Eclessia:** listed, honored, and handled carefully (his cult keeps starting strikes). **Thalmyria:** honored as a passion-bearer — one who accepted violence rather than dealt it.
 
 ### 11. Saint Solana of the Last Ember — *the Lamplighter* (d. 63 AR)
 
 The baker's daughter who witnessed the Binding as a girl and carried a single ember from the altar in a sealed jar — the ember that lit Amaryah's hearth-lamp at Veridun Minor, and through it every Holy Flame since. She outlived the entire roll — the second sense of "Last Ember" — and **died in her sleep surrounded by pilgrims; her body did not decay for seven days**.
 
-- **East:** patroness of lamplighters, hearths, and the Rekindling rites; her jar is enshrined at Caleran.
-- **West:** patroness of bakers, of daughters, and of small faithful acts with large consequences — the favorite saint of Eclessian children, who receive "Solana jars" (a candle in a clay pot) on her feast.
+- **Thalmyria:** patroness of lamplighters, hearths, and the Rekindling rites; her jar is enshrined at Caleran.
+- **Eclessia:** patroness of bakers, of daughters, and of small faithful acts with large consequences — the favorite saint of Eclessian children, who receive "Solana jars" (a candle in a clay pot) on her feast.
 
 ### 12. Saint Tyros the Doubter — *the Convert* (d. 45 AR)
 
 The astrologer-priest who came to disprove Isfir and wept at his feet by the argument's end; his defection pulled whole priestly colleges after him. **Beheaded in Caleran during the Great Purge — the last of the Companions to be martyred.**
 
-- **East:** the **Tyrine Dialogues** (his recorded disputations) are seminary curriculum; patron of catechists and converts from the old cults.
-- **West:** patron of doubters, scholars, and apologists — invoked, a little uncomfortably, by inquisitors, and a great deal more comfortably by the people they question.
+- **Thalmyria:** the **Tyrine Dialogues** (his recorded disputations) are seminary curriculum; patron of catechists and converts from the old cults.
+- **Eclessia:** patron of doubters, scholars, and apologists — invoked, a little uncomfortably, by inquisitors, and a great deal more comfortably by the people they question.
 
 ---
 

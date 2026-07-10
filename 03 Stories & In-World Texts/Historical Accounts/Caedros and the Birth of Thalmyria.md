@@ -2,6 +2,8 @@
 type: source-text
 status: canon
 canon_level: apocryphal
+reliability: disputed
+visibility: public
 era: []
 region: []
 culture: []

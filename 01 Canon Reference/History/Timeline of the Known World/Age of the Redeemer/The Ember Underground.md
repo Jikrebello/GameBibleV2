@@ -2,14 +2,14 @@
 type: event
 status: canon
 canon_level: local
+visibility: public
 era: []
 region: []
 culture: []
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 > _“We do not fight with swords. We carry flame beneath the skin.”_  
 > —Attributed to an anonymous courier known only as “Ashvein”

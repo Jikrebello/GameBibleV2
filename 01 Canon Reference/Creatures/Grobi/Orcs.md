@@ -1,15 +1,15 @@
 ---
-type: lore
+type: creature
 status: canon
 canon_level: local
+visibility: public
 era: []
 region: []
 culture: []
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 Orcs only appear in successful Hobgoblin and Goblin warbands as the amount of food needed to become them only comes from successful group work to collect food. Growing into an Orc turns a Hobgoblin into a powerful killing machine, taller than the average human by half a metre to a metre taller and weighing double to triple the weight of an average human male. Of course, the same thing that applies to Hobgoblins and Goblins applies to Hobgoblins and Orcs, and “grown into” Orcs can reverse back to Hobgoblins and can also breed true Orcs with other Orcs.
 

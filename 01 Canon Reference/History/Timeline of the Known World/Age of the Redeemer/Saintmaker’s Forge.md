@@ -2,14 +2,14 @@
 type: event
 status: canon
 canon_level: local
+visibility: public
 era: []
 region: []
 culture: []
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 > _“He melted the chains he once locked. He carved saints from his shame.”_  
 > —Lament of the Saintmaker, Line 17

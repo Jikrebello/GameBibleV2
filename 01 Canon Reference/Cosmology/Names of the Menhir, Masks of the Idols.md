@@ -1,19 +1,19 @@
 ---
-type: lore
+type: cosmology
 status: canon
 canon_level: core
+visibility: restricted
 era: []
 region: []
 culture: []
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 # Names of the Menhir, Masks of the Idols
 
-**Authorial canon: the naming drift between vault phases is hereby in-world truth.** The great powers do not have one name each; they have one *nature* each and as many names as there are peoples who met them. This is the setting's Lorkhan/Shor principle: the same being, read through different theologies, sometimes with opposite moral valence — and no culture's name is "wrong," only partial.
+**Authorial truth:** the naming drift between cultures reflects the world itself. The great powers do not have one name each; they have one *nature* each and as many names as there are peoples who met them. the same being, read through different theologies, sometimes with opposite moral valence — and no culture's name is "wrong," only partial.
 
 ## Rule for the Vault
 

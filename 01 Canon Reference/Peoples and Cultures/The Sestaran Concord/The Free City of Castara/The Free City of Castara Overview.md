@@ -1,15 +1,15 @@
 ---
-type: lore
+type: culture
 status: canon
 canon_level: local
+visibility: public
 era: []
-region: []
-culture: []
+region: ["Sestaran Concord"]
+culture: ["Sestaran"]
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 **Capital**: Castara  
 **Territory**: The **Castrian Frontier**, a region on the far eastern edge of the Concord, bordering the perilous **Boiling Sea** and leading toward the uncharted lands of the **Emerald Expanse**.  

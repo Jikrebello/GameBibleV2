@@ -1,13 +1,15 @@
 ---
-type: lore
-status: canon
-canon_level: local
+type: reference
+status: archived
+canon_level: obsolete
+visibility: author-only
 era: []
 region: []
 culture: []
 related_factions: []
 appears_in: []
 needs: []
+superseded_by: "[[Present-Day Political Board]]"
 tags:
   - core-canon
 ---

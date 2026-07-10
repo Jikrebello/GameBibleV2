@@ -1,7 +1,9 @@
 ---
-type: source
+type: source-text
 status: canon
 canon_level: local
+reliability: apocryphal
+visibility: public
 era: []
 region: []
 culture: []
@@ -10,7 +12,6 @@ appears_in: []
 needs: []
 tags:
   - in-world-source
-  - core-canon
 ---
 # Mono-Myth Overview
 

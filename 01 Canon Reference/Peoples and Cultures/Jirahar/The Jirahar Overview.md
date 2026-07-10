@@ -1,15 +1,15 @@
 ---
-type: lore
+type: culture
 status: canon
 canon_level: local
+visibility: public
 era: []
-region: []
-culture: []
+region: ["Jirahar Diaspora"]
+culture: ["Jirahar"]
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 ## **1. [[Origins and Sacred History]]**
 
@@ -55,11 +55,10 @@ A central tenet of Jiraharin belief is the coming of **the Mesakha** (_The Await
 
 The Jirahar have a **tumultuous relationship** with the dominant religions of the world:
 
-### **The Church of the Redeemer** 
+### **The Churches of the Redeemer**
 
-- **Ecclesian Church (West)** → Analogous to Catholicism.
-    
-- **Thalmyric Church (East)** → Analogous to Eastern Orthodoxy.
+- **The Eclessian Church** emphasizes institutional authority, relic courts, and the Primarchal succession.
+- **The Thalmyric Church** emphasizes imperial continuity, holy fire, ascetic witness, and the Patriarchate of Veridun.
     
 
 Both churches claim that **the Redeemer** fulfilled divine prophecy, negating the need for future prophets. The Jirahar reject this outright, seeing the Redeemer as a **false prophet** and the Church as an **institution of idolaters**.
@@ -73,7 +72,7 @@ Both churches claim that **the Redeemer** fulfilled divine prophecy, negating th
 - **End-times conflict** – Some radical Church sects believe **the Mesakha must be stopped** at all costs.
     
 
-### **The Ahl-e-Ahd** (Analogous to Islam)
+### **The Ahl-e-Ahd**
 
 The **Ahl-e-Ahd** believe the final revelation has already come, leading to a longstanding dispute with the Jirahar, who insist that **the Mesakha will be the true final prophet**.
 

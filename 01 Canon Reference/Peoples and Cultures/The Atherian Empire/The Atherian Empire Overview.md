@@ -1,22 +1,22 @@
 ---
-type: lore
+type: culture
 status: canon
 canon_level: local
+visibility: public
 era: []
-region: []
-culture: []
+region: ["Atherian Heartland"]
+culture: ["Atherian"]
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
-![](2024-09-09_15-43-53_3735.png)
+![](attachments/2024-09-09_15-43-53_3735.png)
 
-![](2024-09-09_15-46-58_8163.png)
+![](attachments/2024-09-09_15-46-58_8163.png)
 ### The Predecessors of Eclessia, the Thalmyric Empire, and the Sestaran Peninsula
 
-The **Atherians** were a mighty and ancient empire that stretched across the lands now held by Eclessia, the Thalmyric Empire, and parts of the Sestaran Peninsula. This vast empire was known for its monumental achievements in governance, engineering, military prowess, and culture. They constructed grand cities, intricate road networks, aqueducts, temples, and monuments that still stand in ruins today, serving as a testament to their greatness. Their capital was located in what is now the Thalmyric Empire, marking the origin of their vast influence before they expanded westward.
+The **Atherians** were a mighty and ancient empire that stretched across the lands now held by Eclessia, the Thalmyric Empire, and parts of the Sestaran Peninsula. This vast empire was known for monumental achievements in governance, engineering, military power, and culture. Its people constructed cities, road networks, aqueducts, temples, and monuments that still stand in ruins. The capital lay in what is now Thalmyria, from which imperial influence expanded eastward into Eclessia and around the Thalassian world.
 
 The **Atherian Empire** was deeply tied to its **Star Pantheon**, a collection of gods and goddesses whose constellations and celestial appearances guided the Atherians through their lives, wars, and spiritual pursuits. This celestial worship, combined with the Atherian belief in destiny shaped by the stars, formed the backbone of their cultural and religious life.
 

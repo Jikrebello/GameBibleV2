@@ -2,6 +2,8 @@
 type: source-text
 status: canon
 canon_level: apocryphal
+reliability: apocryphal
+visibility: public
 era: []
 region: []
 culture: []
@@ -62,7 +64,7 @@ tags:
 
 - The Ahl-e-Ahd a sudden, overwhelming **Unsealing** into the western territories of the **Atherian Empire**. 
 
-- The invasion is swift and brutal with massive losses; empire being unprepared for the Ahl-e-Ahd's siege golems, bound devils and demon shock troops, and Janissaries with several norther provinces, falling to Ahl-e-Ahd control. The **Emirate of Zanthir** is established in the far north of what used to be the Atherian Empire and establishes the **Velian States** as puppet regions across occupied southern provinces.
+- The invasion is swift and brutal, with the empire unprepared for Ahl-e-Ahd siege golems, bound devils, shock troops, and Ahdanite Guard formations. Several northern provinces fall to Covenant control. The **Emirate of Zanthir** is established in the far north of what used to be the Atherian Empire and establishes the **Velian States** as puppet regions across occupied southern provinces.
 
 - In response to the Ahl-e-Ahd invasion, the Atherian emperor calls for the first Crusade (Defensive) - which initially slows the advance and redirects vast resources, manpower, and military forces from the east to defend the western heartlands. This creates a power vacuum in the eastern provinces (modern **Eclessia** and the Sestaran Concord City States), which are now under-resourced and under-defended.
 

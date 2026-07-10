@@ -1,15 +1,15 @@
 ---
-type: lore
+type: faction
 status: canon
 canon_level: local
+visibility: public
 era: []
-region: []
-culture: []
+region: ["Sestaran Concord"]
+culture: ["Sestaran"]
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 The **Medori Bank** is the **most powerful financial institution** in the known world, with its influence reaching far beyond the borders of the **Grand Duchy of Fiorenzia**. Established by the **Medori family** generations ago, it has grown from a local banking house into a vast financial empire that controls the flow of wealth, power, and intrigue across **Eclessia**, **Thalmyria**, and the **Sestaran Concord**. The Bank is known for its **ruthless efficiency**, **intricate schemes**, and its ability to shape the political and economic landscapes through **loans, debts**, and **manipulation**.
 

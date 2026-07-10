@@ -1,16 +1,15 @@
 ---
 type: culture
-status: draft
+status: canon
 canon_level: core
-era: []
-region: []
-culture: []
+visibility: public
+era: ["Present Day"]
+region: ["Sestaran Concord"]
+culture: ["Sestaran"]
 related_factions: []
 appears_in: []
-needs: []
-tags:
-  - core-canon
-  - needs-review
+needs: ["add two named representative NPCs and one city-level story seed"]
+tags: []
 ---
 # Lives of Vorthara
 

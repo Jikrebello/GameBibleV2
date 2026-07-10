@@ -1,16 +1,19 @@
-﻿---
-type: lore
+---
+type: creature
 status: canon
 canon_level: local
+visibility: public
 era: []
 region: []
 culture: []
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+aliases: ["Origin"]
+tags: []
 ---
+# Vampire Origins
+
 #### The Birth of Vampirism: The Bloodlines of The Sovereign
 #### The Vampiric Legacy of the Imperial Court of Anshara's Giants
 

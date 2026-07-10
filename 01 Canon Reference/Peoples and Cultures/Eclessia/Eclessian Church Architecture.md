@@ -1,15 +1,15 @@
 ---
-type: lore
+type: place
 status: canon
 canon_level: local
+visibility: public
 era: []
-region: []
-culture: []
+region: ["Eclessia"]
+culture: ["Eclessian"]
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 The **church buildings** in Eclessia are grand, imposing structures that serve as both places of worship and community centers. They are designed to inspire awe and devotion, reflecting the **glory of the Redeemer** and the power of the **Eclessian Church**. These buildings draw inspiration from the architectural styles of the **Atherian Empire**, blending **classical elements** with religious symbolism and a distinct **Eclessian identity**.
 

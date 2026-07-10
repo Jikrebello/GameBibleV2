@@ -1,0 +1,26 @@
+filters:
+  and:
+    - 'type == "source-text"'
+    - '!file.inFolder("90 Archive & Drafts")'
+    - '!file.inFolder("99 Templates")'
+properties:
+  status:
+    displayName: Status
+  reliability:
+    displayName: Reliability
+  canon_level:
+    displayName: Canon Level
+  culture:
+    displayName: Culture
+  era:
+    displayName: Era
+views:
+  - type: table
+    name: Source Reliability
+    order:
+      - file.name
+      - status
+      - reliability
+      - culture
+      - era
+      - canon_level

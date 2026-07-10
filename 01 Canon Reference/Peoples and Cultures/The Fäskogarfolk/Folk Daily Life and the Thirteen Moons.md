@@ -1,16 +1,15 @@
 ---
 type: culture
-status: draft
+status: canon
 canon_level: core
+visibility: public
 era: []
-region: []
-culture: []
+region: ["Southern Cold Belt"]
+culture: ["Fäskogarfolk"]
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
-  - needs-review
+tags: []
 ---
 # Folk Daily Life and the Thirteen Moons
 

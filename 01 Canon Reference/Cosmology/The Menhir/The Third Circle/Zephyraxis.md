@@ -1,15 +1,15 @@
 ---
-type: lore
+type: cosmology
 status: canon
 canon_level: local
+visibility: restricted
 era: []
 region: []
 culture: []
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 #### Appearance:
 - **Description:** Zephyraxis is the Faewild’s sky-law made visible: a living pressure-front, storm-architecture, and unowned altitude. When perceived as a “body,” it is only because mortal senses insist on shape—towering walls of cloud with lightning-veins, a cyclone-eye that watches without eyelids, or a silhouette implied by turbulence rather than flesh. Its “wings” are wind-shears; its “voice” is the organizing roar of weather.

@@ -1,15 +1,15 @@
 ---
-type: lore
+type: faction
 status: canon
 canon_level: local
+visibility: public
 era: []
-region: []
-culture: []
+region: ["Sestaran Concord"]
+culture: ["Sestaran"]
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 #### **Overview**
 The **Crafters' Union** and its sister guild, **The Elixirium**, form the backbone of Vorthara’s magical **artifact creation** and **potion brewing** industry. Together, they are responsible for producing everything from **everyday magical items** to **powerful weapons** and **arcane-enhanced armor**, making them essential to the city’s economy and military might.

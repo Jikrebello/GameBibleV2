@@ -1,15 +1,15 @@
 ---
-type: lore
+type: culture
 status: canon
 canon_level: local
+visibility: public
 era: []
-region: []
-culture: []
+region: ["Atherian Heartland"]
+culture: ["Atherian"]
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 ### **1. The Rivalry of Astaroth and Orionis: The Hunt for the Blood Moon Stag**
 One of the most famous tales in the Astratheon canon is the bitter rivalry between **Astaroth**, god of war and chaos, and **Orionis**, the god of the hunt and wilderness. Their enmity culminated in the fabled **Hunt for the Blood Moon Stag**, a creature of immense power that could only be hunted during a rare celestial alignment, when **Lunara** bathed the earth in her blood-red moonlight.

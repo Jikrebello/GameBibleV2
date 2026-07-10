@@ -2,14 +2,14 @@
 type: index
 status: canon
 canon_level: core
+visibility: author-only
 era: []
 region: []
 culture: []
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 # Bestiary MOC
 
@@ -19,15 +19,14 @@ tags:
 
 - [[Vampires in the Present Age]] — synthesis dossier: cosmology, weaknesses-as-law, the 1360 board.
 - [[Bloodlines Overview]]
-- [[Origin]]
-- [[Overview]]
+- [[Vampire Origins]]
 - [[Ghouls]]
 - [[Nightmares]]
 - [[Pale-Skins and Hollow-Kings]]
 
 ## Grobi
 
-- [[Overview]]
+- [[Grobi Overview]]
 - [[Goblins]]
 - [[Hobgoblins]]
 - [[Orcs]]

@@ -1,7 +1,8 @@
 filters:
   and:
-    - status == "canon"
-    - not file.inFolder("90 Archive & Drafts")
+    - 'status == "canon"'
+    - '!file.inFolder("90 Archive & Drafts")'
+    - '!file.inFolder("99 Templates")'
 properties:
   type:
     displayName: Type
@@ -13,6 +14,8 @@ properties:
     displayName: Culture
   appears_in:
     displayName: Appears In
+  visibility:
+    displayName: Visibility
 views:
   - type: table
     name: Canon Index
@@ -23,3 +26,4 @@ views:
       - region
       - culture
       - appears_in
+      - visibility

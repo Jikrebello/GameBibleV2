@@ -2,26 +2,25 @@
 type: index
 status: canon
 canon_level: core
+visibility: author-only
 era: []
 region: []
 culture: []
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 # Needs Work
 
-This page is the human-readable triage board. The live table is below.
+This page is the human-readable triage board. It includes non-canon notes and canon notes carrying explicit unfinished work. Templates and archived material are excluded.
 
 ![[Needs Work.base]]
 
 ## Priority Backlog
 
-- Finish map-linked geography for every major culture and state.
-- Decide final canon for archived cosmology phases and old culture versions.
-- Expand thin creature notes into game-ready ecology, tactics, loot, and quest use.
-- Give every major faction a playable fantasy, current leadership, conflict, and 5-10 quest hooks.
-- Mark in-world accounts as reliable, disputed, propaganda, or apocryphal.
-
+- Finish the production map: duchy borders, roads, passes, trade routes, travel times, and southern cold-front migration corridors.
+- Convert remaining Grenzburg `needs:` entries into named quest branches, encounter sequences, and ending conditions.
+- Expand the Grenzburg-facing bestiary into encounter-ready ecology, tactics, materials, and faction use.
+- Add ordinary-life references for the Covenant and other cultures that still exist mostly at elite or military scale.
+- Add Left Hand cells only where a playable region requires them; avoid disconnected villain catalogues.

@@ -1,15 +1,15 @@
-﻿---
-type: lore
+---
+type: creature
 status: canon
 canon_level: local
+visibility: public
 era: []
 region: []
 culture: []
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 The Militis stand as the formidable martial arm of vampire society, embodying the essence of discipline, strength, and the will to protect. Their existence is a testament to the belief that the night, while a cloak for their kind, also harbors threats that must be faced with ferocity and resolve.
 

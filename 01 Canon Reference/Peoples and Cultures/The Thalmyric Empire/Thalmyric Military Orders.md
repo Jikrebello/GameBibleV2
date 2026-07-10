@@ -1,16 +1,20 @@
 ---
-type: lore
+type: faction
 status: canon
 canon_level: local
+visibility: public
 era: []
-region: []
-culture: []
-related_factions: []
+region: ["Thalmyria"]
+culture: ["Thalmyric"]
+related_factions: ["Thalmyric Church", "Thalmyric Empire"]
 appears_in: []
-needs: []
-tags:
-  - core-canon
+needs:
+  - reconcile named commanders with the present-day court and frontier map
+aliases: ["Military Orders of the Thalmyric Empire"]
+tags: []
 ---
+# Thalmyric Military Orders
+
 ### **1. Order of the Phoenix Ascendant**
 
 **Mission**:  
@@ -92,7 +96,7 @@ The **Order of the Silver Flame** is dedicated to **banishing the forces of dark
 ### **4. The Order of the Eternal Vigil**
 
 **Mission**:  
-The **Order of the Eternal Vigil** is tasked with **standing guard** over the southern frontiers of the Thalmyric Empire, especially the borders shared with the **Ahl-e-Ahd**. Known for their **endurance** and their **unyielding resolve**, the members of this order view their mission as a perpetual watch against threats to the faith.
+The **Order of the Eternal Vigil** stands guard over the northern frontiers of the Thalmyric Empire, especially the borders shared with the **Ahl-e-Ahd**. Known for their **endurance** and **unyielding resolve**, its members view their mission as a perpetual watch against threats to the faith.
 
 ---
 
@@ -147,6 +151,7 @@ Each of these **military orders** reflects the **spiritual and martial ethos** o
 
 ## Navigation
 
-- [[Canon Index]]
-- [[Canon Index]]
+- [[Thalmyric Empire Overview]]
+- [[Church-Military Unity]]
+- [[Present-Day Courts and Crowns (1360 AR)]]
 

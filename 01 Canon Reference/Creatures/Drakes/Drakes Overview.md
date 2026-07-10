@@ -2,15 +2,14 @@
 type: creature
 status: draft
 canon_level: core
+visibility: public
 era: []
 region: []
 culture: []
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
-  - needs-review
+tags: []
 ---
 # Drakes Overview
 

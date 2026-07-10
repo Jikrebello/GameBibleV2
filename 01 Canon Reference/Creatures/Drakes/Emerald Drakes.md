@@ -2,6 +2,7 @@
 type: creature
 status: canon
 canon_level: local
+visibility: public
 era: []
 region: []
 culture: []
@@ -9,7 +10,6 @@ related_factions: []
 appears_in: ["Grenzburg"]
 needs: []
 tags:
-  - core-canon
   - game-ready
 ---
 # Emerald Drakes

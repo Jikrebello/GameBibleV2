@@ -1,16 +1,15 @@
 ---
 type: faction
-status: draft
+status: canon
 canon_level: core
+visibility: restricted
 era: []
 region: []
 culture: []
-related_factions: []
+related_factions: ["Wrath"]
 appears_in: []
 needs: []
-tags:
-  - core-canon
-  - needs-review
+tags: []
 ---
 # The Red Tally
 
@@ -33,3 +32,8 @@ Wrath's battlefields feed the Idol either way, so the Tally cooperates smoothly 
 - The Korrheim Accord's cold peace is a Tally paradise: every unfought confessional war is accruing. A Red Auditor has ruled the Brauvalis succession account *ripe*.
 - A Grenzburg Folk feud the Duke thought settled resurfaces with dates, names, and a written tally no clan admits keeping.
 - A Collector refuses a mature account for the first time in her life — and comes to the party for protection, carrying the ledger.
+
+## Navigation
+
+- [[The Atlas of the Left Hand]]
+- [[Names of the Menhir, Masks of the Idols]]

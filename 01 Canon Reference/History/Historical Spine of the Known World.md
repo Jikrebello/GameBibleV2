@@ -2,14 +2,14 @@
 type: event
 status: canon
 canon_level: core
+visibility: public
 era: []
 region: []
 culture: []
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 # Historical Spine of the Known World
 
@@ -95,7 +95,7 @@ Mountain resistance, holy fire, ascetic militarization, and imperial memory beco
 
 ## 14. Eclessian Fragmentation
 
-Eclessia survives as a western, church-bound but politically fragmented world: kingdoms, duchies, reform currents, relic politics, feudal rivalries, and competing claims to true doctrine.
+Eclessia survives in the east as a church-bound but politically fragmented world: kingdoms, duchies, reform currents, relic politics, feudal rivalries, and competing claims to true doctrine.
 
 **Inherited wound:** unity is desired, feared, and constantly deferred.
 

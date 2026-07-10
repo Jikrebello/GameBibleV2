@@ -2,6 +2,7 @@
 type: event
 status: canon
 canon_level: core
+visibility: public
 era:
   - ancient
 region:
@@ -14,8 +15,7 @@ culture:
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 # Age of Exodus
 

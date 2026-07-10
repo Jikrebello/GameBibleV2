@@ -1,15 +1,15 @@
 ---
-type: lore
+type: cosmology
 status: canon
 canon_level: local
+visibility: restricted
 era: []
 region: []
 culture: []
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 _The Grey Harbor Above the World; the Quiet Court Where Souls Become Direction_
 

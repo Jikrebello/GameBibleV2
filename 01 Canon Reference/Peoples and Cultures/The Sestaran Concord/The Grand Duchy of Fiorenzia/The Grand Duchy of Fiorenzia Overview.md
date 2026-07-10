@@ -1,15 +1,15 @@
 ---
-type: lore
+type: faction
 status: canon
 canon_level: local
+visibility: public
 era: []
-region: []
-culture: []
+region: ["Sestaran Concord"]
+culture: ["Sestaran"]
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 **Capital**: **Fiorenzia**  
 **Territory**: The **Fiorenzian Highlands**, a region of **rolling hills**, **lush vineyards**, **river valleys**, and **grand estates**.

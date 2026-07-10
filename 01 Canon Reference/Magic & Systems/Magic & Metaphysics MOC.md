@@ -2,14 +2,14 @@
 type: index
 status: canon
 canon_level: core
+visibility: author-only
 era: []
 region: []
 culture: []
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 # Magic & Metaphysics MOC
 
@@ -41,6 +41,14 @@ tags:
 - **Entropic rent:** stability has upkeep, debt, owners, and failure states.
 - **Soul routing:** death, judgement, interception, saints, sinners, and the Boatman.
 - **Artifact economy:** relics, god-debris, saint anchors, patron leverage, and political ownership.
+
+## Hostile Metaphysical Systems
+
+- [[The Atlas of the Left Hand]]
+- [[The Creditor]]
+- [[The Concord of Weights]]
+- [[The Undertow]]
+- [[The Hollow Flame Cult]]
 
 ## Needed System Notes
 

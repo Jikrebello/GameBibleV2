@@ -1,15 +1,15 @@
 ---
-type: lore
+type: reference
 status: canon
 canon_level: local
+visibility: author-only
 era: []
-region: []
-culture: []
+region: ["Eclessia"]
+culture: ["Eclessian"]
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 #### **The Lord Primarch Alistair III**
 

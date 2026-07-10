@@ -1,15 +1,15 @@
 ---
-type: lore
+type: culture
 status: canon
 canon_level: local
+visibility: public
 era: []
-region: []
-culture: []
+region: ["Eclessia"]
+culture: ["Eclessian"]
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 Eclessia’s military strength lies in its **knightly orders, mercenary companies, and feudal levies**. Warfare in the region is shaped by **political fragmentation, religious conflicts, and external threats**, leading to a dynamic and often volatile battlefield landscape.
 

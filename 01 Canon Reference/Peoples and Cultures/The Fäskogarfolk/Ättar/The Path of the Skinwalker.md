@@ -1,15 +1,15 @@
 ---
-type: lore
+type: magic-system
 status: canon
 canon_level: local
+visibility: restricted
 era: []
-region: []
-culture: []
+region: ["Southern Cold Belt"]
+culture: ["Ättar", "Fäskogarfolk"]
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 ### **Totemic Inheritance**
 

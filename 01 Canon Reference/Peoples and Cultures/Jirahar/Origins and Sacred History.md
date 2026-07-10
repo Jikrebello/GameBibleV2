@@ -1,15 +1,15 @@
 ---
-type: lore
+type: culture
 status: canon
 canon_level: local
+visibility: public
 era: []
-region: []
-culture: []
+region: ["Jirahar Diaspora"]
+culture: ["Jirahar"]
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 The Jirahar are a semi-nomadic people who claim **direct descent from the Great Prophet**, the divine leader who led humanity out of the **Great Glass Desert** at the beginning of days. They believe they are the only people who have remained faithful to the original laws and traditions of the **Path of the Chosen** (**Orakh Bekhirin**).
 

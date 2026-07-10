@@ -1,16 +1,15 @@
 ---
 type: faction
-status: draft
+status: canon
 canon_level: core
+visibility: author-only
 era: []
 region: []
 culture: []
-related_factions: []
+related_factions: ["Ahl-e-Ahd", "The Concord of Weights", "The Undertow"]
 appears_in: []
-needs: []
-tags:
-  - core-canon
-  - needs-review
+needs: ["place the three true-name fragments into long-arc campaign references"]
+tags: []
 ---
 # The Creditor
 
@@ -24,7 +23,7 @@ The patron behind Malak al-Ahd — the Astral rent-lord whose masterpiece is a c
 
 ## Nature and Operation
 
-An Egg White anchor-sovereign of the first magnitude: old, patient, solvent. Its Malak al-Ahd operation (canon) is the greatest rent-scheme ever built — a sincere revelation *engineered* through Mujalib, a contract-cosmology that routes a civilization's oaths, names, bound devils, and soul-collateral through systems whose ultimate beneficiary no jurist can see. The genius is that the Covenant *works*: the law is real, the bindings hold, the devils dig. The Creditor learned what crude patrons never do — **honest service is the deepest hook.** It permanently divided the faith at the Fourth Seal (the spine suspects it witnessed both instruments; a divided Covenant doubles the rent streams and prevents any single authority from auditing upward).
+An Egg White anchor-sovereign of the first magnitude: old, patient, solvent. Its Malak al-Ahd operation is the greatest rent scheme ever built — a sincere revelation *engineered* through Mujalib, a contract cosmology that routes a civilization's oaths, names, bound devils, and soul-collateral through systems whose ultimate beneficiary no jurist can see. The genius is that the Covenant *works*: the law is real, the bindings hold, the devils dig. The Creditor learned what crude patrons never do: **honest service is the deepest hook.** It witnessed both instruments at the Fourth Seal and ensured the dispute could never be conclusively audited upward. This does not reveal which instrument was genuine; division itself was the profitable outcome.
 
 ## What It Wants
 
@@ -39,3 +38,8 @@ Senior-most member of [[The Concord of Weights]] and bound by its cartel terms, 
 - A Vault archivist finds a catalogue entry that has no accession record and reports it upward; everyone in that chain of report dies of natural causes within a decade, in order.
 - Sestaran salvage licenses for a stretch of the Thalassian seabed are quietly bought, decade after decade, by a trust with no beneficiary.
 - The Mesakha-claimant test, the Vessing ruling, the Zanthir crusade — wherever the board might *resolve*, gold arrives to keep it unresolved. Someone eventually asks who profits from permanent almost.
+
+## Navigation
+
+- [[The Atlas of the Left Hand]]
+- [[Names of the Menhir, Masks of the Idols]]

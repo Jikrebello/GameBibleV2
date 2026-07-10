@@ -1,15 +1,15 @@
 ---
-type: lore
+type: culture
 status: canon
 canon_level: local
+visibility: public
 era: []
-region: []
-culture: []
+region: ["Sestaran Concord"]
+culture: ["Sestaran"]
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 Vorthara, the city built upon the **ancient black spire**, is home to numerous **magical academies**, **guilds**, and **factions**, each specializing in different forms of arcane magic. These factions constantly vie for **influence, prestige**, and **power**, shaping the culture, economy, and military strength of the city. While each faction is unique in its approach to magic, they are all bound by the same rule: **no infighting within the city**. Disputes are settled through the **Arenas**, where magical prowess is tested and rivalries can be settled in combat.
 

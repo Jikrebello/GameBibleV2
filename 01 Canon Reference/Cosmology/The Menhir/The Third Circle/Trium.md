@@ -1,15 +1,15 @@
 ---
-type: lore
+type: cosmology
 status: canon
 canon_level: local
+visibility: restricted
 era: []
 region: []
 culture: []
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 ### Appearance:
 - **Description:** Trium is not a separate personality ruling the three aspects; Trium is the rare phase-lock when Sky (Zephyraxis), Land (Sylvorn), and Sea (Thalassor) synchronize into one operating state. Witnesses describe Trium as a colossal, layered contradiction—storm-cloud ribs, bark-and-root musculature, abyssal scales, and eyes like distant stars—because mortal perception cannot hold convergence except as composite imagery.

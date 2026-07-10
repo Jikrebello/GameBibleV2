@@ -1,15 +1,15 @@
 ---
-type: lore
+type: cosmology
 status: canon
 canon_level: local
+visibility: restricted
 era: []
 region: []
 culture: []
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 ### Appearance and Forms:
 - **Primary Form:** Nevaura is the Menhir-expression of **deep winter**: cold-load, dormancy, brittle air, and the world’s withdrawal into survival mode. Mortals describe her as a tall, frost-robed figure with pale-blue skin and eyes devoid of warmth because winter feels like a presence. The truer encounter is environmental: the sensation that the land has stopped spending energy. 

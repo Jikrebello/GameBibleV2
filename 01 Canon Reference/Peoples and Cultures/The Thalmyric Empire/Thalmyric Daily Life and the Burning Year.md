@@ -1,16 +1,15 @@
 ---
 type: culture
-status: draft
+status: canon
 canon_level: core
-era: []
-region: []
-culture: []
+visibility: public
+era: ["Present Day"]
+region: ["Thalmyria"]
+culture: ["Thalmyric"]
 related_factions: []
 appears_in: []
-needs: []
-tags:
-  - core-canon
-  - needs-review
+needs: ["align feast dates with the final calendar"]
+tags: []
 ---
 # Thalmyric Daily Life and the Burning Year
 
@@ -18,7 +17,7 @@ The third daily-life document (after [[Eclessian Daily Life and the Year of the 
 
 ## The Burning Year (the shared calendar, quarreled over)
 
-Thalmyria keeps the same twelve months as Eclessia — the calendar predates the Split by seven centuries — but the **feasts have diverged**, and so, maddeningly, have some of the *dates*: a computational quarrel over the Risen-reckoning means East and West celebrate the resurrection feasts up to nine days apart in most years. Border parishes celebrate twice; polemicists on both sides have written books; everyone's grandmother knows which date is real.
+Thalmyria keeps the same twelve months as Eclessia — the calendar predates the Split by seven centuries — but the **feasts have diverged**, and so, maddeningly, have some of the *dates*: a computational quarrel over the Risen-reckoning means Thalmyric and Eclessian parishes celebrate the resurrection feasts up to nine days apart in most years. Border parishes celebrate twice; polemicists on both sides have written books; everyone's grandmother knows which date is real.
 
 The Thalmyric year's great days are its own:
 

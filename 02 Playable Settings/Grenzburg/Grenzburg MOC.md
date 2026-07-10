@@ -1,15 +1,15 @@
-﻿---
+---
 type: index
 status: canon
 canon_level: core
+visibility: author-only
 era: []
 region: []
 culture: []
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 # Grenzburg MOC
 
@@ -49,11 +49,20 @@ Grenzburg is the first playable testbed for the setting: a frontier duchy trying
 
 ## Threats and Creature Dossiers
 
-- [[01 Canon Reference/Creatures/Grobi/Overview|Grobi Overview]]
+- [[Grobi Overview]]
 - [[Pale-Skins and Hollow-Kings]]
 - [[Emerald Drakes]]
 - [[Ghouls]]
 - [[The Folk of the Frontier and the Wolfsmere Lineage]]
+
+## Historical and Hidden Pressures
+
+- [[The Grey Sweat]]
+- [[The Korrheim Accord]]
+- [[Freeflame Reformation]]
+- [[The Undertow]]
+- [[The Under-Ledger]]
+- [[The Hollow Flame Cult]]
 
 ## Game-Use Checklist
 

@@ -2,6 +2,7 @@
 type: mechanic
 status: canon
 canon_level: core
+visibility: author-only
 era:
   - early historic
 region:
@@ -13,8 +14,7 @@ related_factions:
   - war colleges
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 # Origins of Warlock Rune Magic
 

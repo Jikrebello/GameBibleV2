@@ -2,6 +2,7 @@
 type: event
 status: canon
 canon_level: core
+visibility: public
 era:
   - ancient
   - early historic
@@ -19,8 +20,7 @@ culture:
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 # Age of Scattering
 

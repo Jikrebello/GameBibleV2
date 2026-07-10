@@ -2,14 +2,14 @@
 type: cosmology
 status: canon
 canon_level: core
+visibility: restricted
 era: []
 region: []
 culture: []
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 # Material Realm Overview
 

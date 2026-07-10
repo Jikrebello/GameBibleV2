@@ -1,15 +1,15 @@
 ---
-type: lore
+type: culture
 status: canon
 canon_level: local
+visibility: public
 era: []
-region: []
-culture: []
+region: ["Nsizwa Homeland"]
+culture: ["Nsizwa"]
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 _"A kingdom is only as strong as its people, and the people are only as strong as their ancestors."_
 

@@ -2,6 +2,7 @@
 type: culture
 status: canon
 canon_level: core
+visibility: public
 era:
   - early historic
 region:
@@ -12,8 +13,7 @@ related_factions:
   - Atherian Empire
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 # The First Atherian City-States
 

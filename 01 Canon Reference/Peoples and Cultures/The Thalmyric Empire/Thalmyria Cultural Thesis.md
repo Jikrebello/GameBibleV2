@@ -2,18 +2,18 @@
 type: culture
 status: canon
 canon_level: core
+visibility: public
 era: ["Present Day"]
 region: ["Thalmyria"]
 culture: ["Thalmyric"]
 related_factions: ["Thalmyric Church", "Thalmyric Empire"]
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 # Thalmyria Cultural Thesis
 
-Thalmyria is Eastern Europe, Greek/Byzantine, Turkish-borderland, Russian Orthodox, and Greek Orthodox coded: icons, asceticism, imperial continuity, holy fire, mountain refuge, liturgical depth, warrior monks, frontier pressure, and reconquest memory.
+Thalmyria is a civilization of icons, asceticism, imperial continuity, holy fire, mountain refuge, liturgical depth, warrior monks, frontier pressure, and reconquest memory.
 
 ## Answer to Reality
 
@@ -45,4 +45,3 @@ Develop icon traditions, chant, fasting calendars, volcanic pilgrimage sites, mi
 ## Moral Frame
 
 Thalmyria is not "Eclessia but harsher." It is a civilization shaped by trauma, mystical endurance, and sacred continuity. Its holiness can be real. Its brutality can also be real.
-

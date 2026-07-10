@@ -1,15 +1,15 @@
 ---
-type: lore
+type: culture
 status: canon
 canon_level: local
+visibility: public
 era: []
-region: []
-culture: []
+region: ["Thalmyria"]
+culture: ["Thalmyric"]
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 ### **I. Apocryphal Miracle-Acts and Mystic Visions**
 The Thalmyric Church preserves a rich oral and written tradition of **non-canonical miracle-acts**, preserved in the monasteries and vision-scrolls of isolated ascetics. These stories are not part of the official scriptures, but are revered as revelations of the **Redeemer’s warfare** in the unseen world.

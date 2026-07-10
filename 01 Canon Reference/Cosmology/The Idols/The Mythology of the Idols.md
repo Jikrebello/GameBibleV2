@@ -1,15 +1,15 @@
-﻿---
-type: lore
+---
+type: cosmology
 status: canon
 canon_level: local
+visibility: restricted
 era: []
 region: []
 culture: []
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 #### The Birth of the Dreamlands:
 In the beginning, the Dreamlands were a vast, formless expanse of raw potential, a realm where reality and imagination intertwined. This ethereal plane was shaped by the collective subconscious of sentient beings, who, in their dreams, gave birth to landscapes, creatures, and entities beyond comprehension.

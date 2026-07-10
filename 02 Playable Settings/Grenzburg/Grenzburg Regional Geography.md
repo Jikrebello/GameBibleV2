@@ -2,6 +2,7 @@
 type: place
 status: canon
 canon_level: local
+visibility: public
 era: []
 region: ["Grenzburg"]
 culture: []

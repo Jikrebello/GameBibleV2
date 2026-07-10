@@ -1,19 +1,19 @@
 ---
-type: lore
+type: event
 status: canon
 canon_level: local
+visibility: public
 era: []
-region: []
-culture: []
+region: ["Eclessia"]
+culture: ["Eclessian"]
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 ### **I. The Breaking of the Imperial Line (Year 21)**
 
-When the Ahl-e-Ahd invasion ignited across the eastern front, Eclessia, nestled in the far west of the empire, was geographically untouched by the opening blows. But its isolation would soon become estrangement.
+When the Ahl-e-Ahd invasion struck the northern and northwestern front, Eclessia lay across the empire to the east and was geographically untouched by the opening blows. Its distance soon became estrangement.
 
 As the Mustering of All Flame stripped garrisons, grain stores, and holy relics from rural holdings to reinforce the heartland, **Eclessia’s villages and monasteries were left to fend for themselves**. Messengers from the capital grew infrequent. Roads fell into disrepair. Tithes were taken but never returned.
 
@@ -27,7 +27,7 @@ From the holy city, there came **no word of victory, nor any call for help**. Ec
 
 - Some believed Caleran had fallen and the empire was dead.
 - Others insisted the silence was part of a divine test.
-- A few radicals began preaching that **the Church in the east had been judged and broken**, and that Eclessia must carry the true flame alone.
+- A few radicals began preaching that **the old imperial Church had been judged and broken**, and that Eclessia must carry the true flame alone.
 
 Eclessian abbots convened **The Synaxis of Old Light**, a quiet, unauthorized gathering of monastic elders and flame-scribes, to decide whether they were still bound to the broken empire. Most chose patience. Others chose preparation.
 
@@ -35,7 +35,7 @@ Eclessian abbots convened **The Synaxis of Old Light**, a quiet, unauthorized ga
 
 ### **III. Rise of the Flame-Wardens of the West**
 
-As chaos consumed the east, Eclessia’s rural regions formed **local leagues of defense**, led by warrior-clerics, knight-abbots, and lay militias.
+As chaos consumed the imperial heartland, Eclessia's rural regions formed **local leagues of defense**, led by warrior-clerics, knight-abbots, and lay militias.
 
 - In the storm-prone coasts of Aratheos, the **Wardens of the Redeemer’s Breath** patrolled wind-swept paths with relic brands and chanting torches.
 - In the valley sanctuaries of Fareth, **flame-farmers and orchard-knights** turned vineyards into battlegrounds, training militias under the banners of ancient saints.
@@ -61,7 +61,7 @@ This spiritual tension remained unresolved, simmering beneath outward unity.
 
 ### **V. Refuge and Revelation**
 
-Eclessia became a haven for those fleeing the east:
+Eclessia became a haven for those fleeing the fallen heartland:
 
 - **Monks and mystics**, bearing sacred texts and partial flame relics.
 - **Disillusioned nobles**, seeking redemption through service or ascetic exile.

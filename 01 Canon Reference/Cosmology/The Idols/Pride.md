@@ -1,15 +1,15 @@
-﻿---
-type: lore
+---
+type: cosmology
 status: canon
 canon_level: local
+visibility: restricted
 era: []
 region: []
 culture: []
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 ### Appearance and Forms:
 - **Primary Form:** Vaingloria is a regal, majestic figure with an air of superiority. She is adorned in luxurious garments and jewels, her posture always upright and commanding. Her presence exudes confidence and arrogance, and her every movement is graceful and deliberate.

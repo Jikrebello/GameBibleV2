@@ -2,6 +2,7 @@
 type: creature
 status: canon
 canon_level: local
+visibility: public
 era:
   - ancient
   - Present Day
@@ -18,7 +19,6 @@ appears_in:
 needs: []
 tags:
   - game-ready
-  - core-canon
 ---
 # Pale-Skins and Hollow-Kings
 
@@ -113,4 +113,4 @@ A Pale-Skin lair should feel like a court buried under a grave:
 - [[Bestiary Framework — Creatures of the World Egg]]
 - [[Grenzburg Vertical Slice Dossier]]
 - [[Grenzburg Regional Geography]]
-- [[01 Canon Reference/Creatures/Grobi/Overview|Grobi Overview]]
+- [[Grobi Overview]]

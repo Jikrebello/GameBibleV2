@@ -1,15 +1,15 @@
-﻿---
-type: lore
+---
+type: cosmology
 status: canon
 canon_level: local
+visibility: restricted
 era: []
 region: []
 culture: []
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 ### Appearance and Forms:
 - **Primary Form:** Lethargos appears as a lethargic, shadowy figure draped in tattered robes that seem to merge with the darkness around him. His eyes are half-closed, and his movements are slow and deliberate, exuding an aura of indifference and complacency.

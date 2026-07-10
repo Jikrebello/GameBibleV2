@@ -1,16 +1,16 @@
 ---
-type: lore
-status: draft
+type: faction
+status: canon
 canon_level: core
-era: []
-region: []
-culture: []
-related_factions: []
+visibility: public
+era: ["411 AR-Present"]
+region: ["Velian States", "Zanthir"]
+culture: ["Velian"]
+related_factions: ["Thalmyric Church", "Eclessian Church", "Ahl-e-Ahd"]
 appears_in: []
-needs: []
-tags:
-  - core-canon
-  - needs-review
+needs:
+  - place present-day Velian communities in Zanthir and the client states
+tags: []
 ---
 # The Velian Church
 
@@ -26,7 +26,7 @@ Condemned in 411, Nasriel's communion fled north beyond imperial reach into the 
 
 ## What Makes Them Unmistakable
 
-Married clergy; no images of any kind (bare whitewashed prayer-halls with a single lamp); a **Patriarch-of-the-East analog** (the **Catholicos of Qabir**) heading a hierarchy neither Veridun nor the Sanctum recognizes; and their crown jewel — the liturgy prayed in the **Jirahar dialect the Redeemer himself spoke**, preserved unbroken while both imperial churches worship in Atherian. Velian priests are famously serene about persecution and famously insufferable about this one point.
+Married clergy; no images of any kind, only bare whitewashed prayer halls with a single lamp; and the **Catholicos of Qabir** heading a hierarchy neither Veridun nor the Sanctum recognizes. Their crown jewel is the liturgy prayed in the **Jirahar dialect the Redeemer himself spoke**, preserved unbroken while both imperial churches worship in Atherian. Velian priests are famously serene about persecution and famously insufferable about this one point.
 
 ## Present Day (1360 AR)
 

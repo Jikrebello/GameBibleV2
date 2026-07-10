@@ -1,11 +1,13 @@
 filters:
   and:
-    - not file.inFolder("90 Archive & Drafts")
+    - '!file.inFolder("90 Archive & Drafts")'
+    - '!file.inFolder("99 Templates")'
+    - 'status == "canon"'
     - or:
-        - appears_in.contains("Grenzburg")
-        - type == "quest"
-        - type == "mechanic"
-        - type == "place"
+        - 'appears_in.contains("Grenzburg")'
+        - 'type == "quest"'
+        - 'type == "mechanic"'
+        - 'type == "place"'
 properties:
   type:
     displayName: Type
@@ -15,6 +17,8 @@ properties:
     displayName: Appears In
   region:
     displayName: Region
+  needs:
+    displayName: Needs
 views:
   - type: table
     name: Game-Ready Content
@@ -24,3 +28,4 @@ views:
       - status
       - appears_in
       - region
+      - needs

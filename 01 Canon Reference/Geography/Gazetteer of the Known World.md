@@ -1,20 +1,19 @@
 ---
 type: place
-status: draft
+status: canon
 canon_level: core
-era: []
-region: []
+visibility: public
+era: ["Present Day"]
+region: ["Known World"]
 culture: []
 related_factions: []
 appears_in: []
-needs: []
-tags:
-  - core-canon
-  - needs-review
+needs: ["complete production borders, roads, routes, and travel times"]
+tags: []
 ---
 # Gazetteer of the Known World (1360 AR)
 
-The written companion to the labeled map (`World Map/Known World - Labeled Gazetteer v1.png`). All placements marked **[draft]** are proposals matching the phase-1 region map; everything else follows established canon. Scale: the main board (Caleran to Strazgorod) spans roughly **2,200 miles**; the full known world about 3,000.
+The written companion to the labeled map (`World Map/Known World - Labeled Gazetteer v1.png`). All placements marked are proposals matching the phase-1 region map; everything else follows established canon. Scale: the main board (Caleran to Strazgorod) spans roughly **2,200 miles**; the full known world about 3,000.
 
 ## Travel Rules of Thumb
 
@@ -35,11 +34,11 @@ Mountainous heart of the old empire. **Caleran** on the northwestern lowland coa
 
 ### The Covenant (Ahl-e-Ahd) — north and northwest
 
-The yellow desert crescent. **Iqashar** in the far north (Qahirid suzerain's seat, the Sublime Threshold); **Al-Qahur** at the great oasis (holy city, Caliph Uwais, the 4,444's well); **Bir Qassim** on the southern caravan road (the wells of the massacre, 603 AR); **Qazmarid** across the western strait on the western continent's tip — the Sealed-Blood caliphate's seat. The **Emirate of Zanthir** (capital **Qabir**) sits detached to the southeast between desert and Thalassian: the Granada-remnant, last of the conquest emirates, home of the Velian Church's Catholicos. The **Velian States** — the old client belt — lie between Zanthir and the coast **[draft]**.
+The yellow desert crescent. **Iqashar** in the far north (Qahirid suzerain's seat, the Sublime Threshold); **Al-Qahur** at the great oasis (holy city, Caliph Uwais, the 4,444's well); **Bir Qassim** on the southern caravan road (the wells of the massacre, 603 AR); **Qazmarid** across the western strait on the western continent's tip — the Sealed-Blood caliphate's seat. The **Emirate of Zanthir** (capital **Qabir**) sits detached to the southeast between desert and Thalassian: the last-conquest remnant, last of the conquest emirates, home of the Velian Church's Catholicos. The **Velian States** — the old client belt — lie between Zanthir and the coast.
 
 ### The Sestaran Concord — the peninsula and isles
 
-Green on the map, wedged between the giants. **Fiorenzia** (Medori seat) and **Vorthara** (the Black Spire) on the peninsula; **Sermora** on its isles commanding the Thalassian; **Aversia** in the Iron Foothills to the southeast **[draft placement]**; **Castara** far to the northeast on the Boiling Sea coast — gateway to the Emerald Expanse and effectively a Concord colony-city beyond the Concord.
+Green on the map, wedged between the giants. **Fiorenzia** (Medori seat) and **Vorthara** (the Black Spire) on the peninsula; **Sermora** on its isles commanding the Thalassian; **Aversia** in the Iron Foothills to the southeast; **Castara** far to the northeast on the Boiling Sea coast — gateway to the Emerald Expanse and effectively a Concord colony-city beyond the Concord.
 
 ### The Eclessian Imperium — east
 

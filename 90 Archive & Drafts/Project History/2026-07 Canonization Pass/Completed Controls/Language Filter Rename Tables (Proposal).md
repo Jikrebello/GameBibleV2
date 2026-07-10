@@ -1,13 +1,15 @@
 ---
-type: index
-status: draft
-canon_level: core
+type: reference
+status: archived
+canon_level: obsolete
+visibility: author-only
 era: []
 region: []
 culture: []
 related_factions: []
 appears_in: []
 needs: []
+superseded_by: "[[Current Focus Board]]"
 tags:
   - needs-review
 ---

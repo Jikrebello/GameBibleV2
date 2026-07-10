@@ -1,15 +1,15 @@
 ---
-type: lore
+type: faction
 status: canon
 canon_level: local
+visibility: public
 era: []
-region: []
-culture: []
+region: ["Eclessia"]
+culture: ["Eclessian"]
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 ### **1. The Order of the Radiant Path**
 
@@ -92,7 +92,7 @@ The **Knights of Saint Aveline** are a **crusading order** focused on **border d
 ### **4. The Order of the Blessed Watch**
 
 **Mission**:  
-The **Order of the Blessed Watch** is responsible for **guarding sacred sites** and ensuring **pilgrim safety** across the **western frontiers** of Eclessia. They provide both spiritual and physical protection, guarding **temples**, **shrines**, and the borderlands from the **wild forces of the Fäskogarfolk** and **other raiders**.
+The **Order of the Blessed Watch** guards sacred sites and protects pilgrims across the **southern frontiers** of Eclessia. They defend temples, shrines, and borderlands against raiders and predatory forces moving through the Fäskogar frontier.
 
 ---
 
@@ -149,4 +149,3 @@ The **Eclessian Military Orders** reflect the diversity of challenges that the *
 
 - [[Canon Index]]
 - [[Canon Index]]
-

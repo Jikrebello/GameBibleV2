@@ -1,15 +1,16 @@
 ---
-type: faction
-status: needs-review
-canon_level: local
+type: reference
+status: archived
+canon_level: obsolete
+visibility: author-only
 era: []
 region: ["Thalmyria"]
 culture: ["Thalmyric"]
 related_factions: ["Thalmyric Church"]
 appears_in: []
 needs: ["Expand from Thalmyric Empire Overview and Thalmyric Church Architecture."]
-tags:
-  - needs-review
+superseded_by: "[[01 Canon Reference/Peoples and Cultures/The Thalmyric Empire/Thalmyric Church Architecture]]"
+tags: []
 ---
 # Architecture and Worship
 

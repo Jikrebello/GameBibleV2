@@ -2,6 +2,7 @@
 type: event
 status: canon
 canon_level: core
+visibility: public
 era:
   - ancient
   - early historic
@@ -16,12 +17,11 @@ culture:
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 # Ancient and Early Historic Ages
 
-This note bridges [[Prehistory Overview]] and the [[Atherian Imperial Age]]. It exists to make civilization feel earned: humanity does not move directly from Giant slavery to Roman-scale empire. It passes through exile, settlement, first kings, city-states, sacred experiments, war, memory, and failed obedience.
+This note bridges [[Prehistory Overview]] and the [[Atherian Imperial Age]]. It exists to make civilization feel earned: humanity does not move directly from Giant slavery to continental empire. It passes through exile, settlement, first kings, city-states, sacred experiments, war, memory, and failed obedience.
 
 ## Era Ladder
 

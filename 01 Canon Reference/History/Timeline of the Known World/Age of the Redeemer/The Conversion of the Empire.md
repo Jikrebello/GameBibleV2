@@ -2,14 +2,14 @@
 type: event
 status: canon
 canon_level: local
+visibility: public
 era: []
 region: []
 culture: []
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 ## **The Conversion of the Empire (~430–540 AE)**
 

@@ -1,15 +1,15 @@
 ---
-type: lore
+type: creature
 status: canon
 canon_level: local
+visibility: public
 era: []
 region: []
 culture: []
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 Hobgoblins are either born as full-fledged Hobgoblins or emerge as grown goblins with an abundance of food. They are bigger and stronger than Goblins and are the closest match physically and mentally to the average human. Although only second weakest out of all Grobi, they make up for it in being arguably the smartest compared to the other sub-groups and the most capable in terms of technology, warfare arms and armaments an even a basic form of savage magic called Voodoo. Most Grobi warbands consist of majority Hobgoblin born rank and file soldiers with Goblins used as scouts and cannon fodder and being supplemented by Orc and Ogre shock troops.
 

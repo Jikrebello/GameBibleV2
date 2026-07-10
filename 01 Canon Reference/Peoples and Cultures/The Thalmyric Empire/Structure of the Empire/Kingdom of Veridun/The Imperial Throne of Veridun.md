@@ -1,15 +1,15 @@
 ---
-type: lore
+type: faction
 status: canon
 canon_level: local
+visibility: public
 era: []
-region: []
-culture: []
+region: ["Thalmyria"]
+culture: ["Thalmyric"]
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 ### **I. The Imperial Throne of Flame and Crown**
 The Imperial Throne of the Thalmyric Empire is no mere symbol—it is a **living relic**, steeped in sacred fire, prophecy, and blood. Known as the **Throne of the Ember Crown**, it sits within the **Crown of Cinders**, a basalt citadel overlooking the holy city of **Caleran**.

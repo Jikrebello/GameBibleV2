@@ -1,16 +1,19 @@
 ---
-type: lore
+type: culture
 status: canon
 canon_level: local
+visibility: public
 era: []
-region: []
-culture: []
+region: ["Nsizwa Homeland"]
+culture: ["Nsizwa"]
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+aliases: ["Economy and Trade"]
+tags: []
 ---
+# Nsizwa Economy and Trade
+
 _"A man is not measured by his wealth, but by what he can provide. Yet, without wealth, a man provides nothing."_
 
 The Nsizwa economy is deeply tied to **cattle, warfare, trade, and spiritual craftsmanship**, creating a **warrior society where wealth and status are earned through strength, strategy, and wisdom**. Unlike centralized economies based on coinage, Nsizwa wealth is **inherently tied to land, herds, and skilled labor**, with a **strong tradition of raiding and tribute-taking**.
@@ -145,4 +148,3 @@ The Nsizwa are a people of **strength, honor, and wealth**, with **cattle, warfa
 
 - [[Canon Index]]
 - [[Canon Index]]
-

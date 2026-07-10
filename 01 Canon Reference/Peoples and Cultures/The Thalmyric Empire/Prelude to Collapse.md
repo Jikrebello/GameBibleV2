@@ -1,15 +1,15 @@
 ---
-type: lore
+type: event
 status: canon
 canon_level: local
+visibility: public
 era: []
-region: []
-culture: []
+region: ["Thalmyria"]
+culture: ["Thalmyric"]
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 **Prelude to Collapse (c. Year 0 - Year 20)**
 
@@ -40,11 +40,11 @@ Far to the west, across the mountains and rivers that marked the edge of the Ath
 - Unlike the opulence of Caleran, Eclessia remained **rural, ascetic, and harsh**. Mountain abbeys, orchard-villages, and hidden sanctuaries dotted the hillsides.
 - The people were **tough, devout, and wary** of imperial opulence, seeing it as a deviation from the Redeemer’s simplicity.
 
-Despite its spiritual pedigree, Eclessia held little political power. The imperial roads that ran westward were crumbling. Tax caravans came infrequently. The region was **largely self-reliant**, overseen by a patchwork of monastic orders, rural governors, and flame-chaplains.
+Despite its spiritual pedigree, Eclessia held little political power. The imperial roads that ran eastward were crumbling. Tax caravans came infrequently. The region was **largely self-reliant**, overseen by a patchwork of monastic orders, rural governors, and flame-chaplains.
 
 While Caleran’s clergy debated divine succession and omen-ritual, **Eclessian preachers warned of pride, idolatry, and judgment**—messages which fell on deaf ears in the capital.
 
-When Ahl-e-Ahd scouts were first seen near the eastern marches, **Eclessian priests declared public fasts**, while Corvenas declared public games.
+When Ahl-e-Ahd scouts were first seen near the northern marches, **Eclessian priests declared public fasts**, while Corvenas declared public games.
 
 ---
 

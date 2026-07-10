@@ -1,15 +1,15 @@
-﻿---
-type: lore
+---
+type: creature
 status: canon
 canon_level: local
+visibility: public
 era: []
 region: []
 culture: []
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 The Sanguine are the mystics and spiritual guides of vampire society, deeply entwined with the esoteric and life-giving properties of blood. Their understanding and manipulation of blood extend beyond the physical realm, touching upon the very essence of life, death, and the spaces in between.
 

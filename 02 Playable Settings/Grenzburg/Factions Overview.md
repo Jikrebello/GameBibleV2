@@ -2,6 +2,7 @@
 type: index
 status: canon
 canon_level: local
+visibility: author-only
 era: []
 region: ["Grenzburg"]
 culture: []

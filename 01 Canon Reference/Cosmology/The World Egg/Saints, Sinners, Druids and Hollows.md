@@ -1,15 +1,15 @@
 ---
-type: lore
+type: cosmology
 status: canon
 canon_level: local
+visibility: restricted
 era: []
 region: []
 culture: []
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 ## 1) Saints as the Church’s Apex Offices in the World
 
@@ -26,11 +26,11 @@ Their work has three lanes, always present in some ratio:
 3. **Contestation:** defending souls against rival claims (Idols, Menhir, patrons, Sinners, thin-space predation).
 
 
-### The two major Saint-traditions (Catholic / Orthodox analogue)
+### The Two Major Saint Traditions
 
 These are not “two churches” so much as **two canonical ways** within the single body.
 
-#### A) The Western Line (Roman Catholic analogue): _The Juridical / Relic / Missionary emphasis_
+#### A) The Eclessian Line: _Juridical, Relic, and Missionary Emphasis_
 
 - **Charism:** order, clarity, law, institutional continuity, evangelization-by-structure.
 
@@ -47,7 +47,7 @@ These are not “two churches” so much as **two canonical ways** within the si
 
 This lane naturally produces **saints who build systems** that outlast them.
 
-#### B) The Eastern Line (Orthodox analogue): _The Mystical / Liturgical / Hesychast emphasis_
+#### B) The Thalmyric Line: _Mystical, Liturgical, and Ascetic Emphasis_
 
 - **Charism:** illumination, inner purification, contemplative prayer, cosmic liturgy, spiritual warfare as ascetic practice.
     

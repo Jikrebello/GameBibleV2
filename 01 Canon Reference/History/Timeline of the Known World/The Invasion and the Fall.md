@@ -1,15 +1,15 @@
-﻿---
+---
 type: event
 status: canon
 canon_level: local
+visibility: public
 era: []
 region: []
 culture: []
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 # The Invasion and the Fall
 
@@ -17,7 +17,7 @@ This event note was created to resolve an existing timeline link and should be e
 
 ## Current Use
 
-- Anchors timeline navigation from [[Timeline of the Known World Overview]].
+- Anchors timeline navigation from [[Chronology of the Known World (AR Dating)]].
 - Should eventually define dates, factions, causes, consequences, key figures, disputed accounts, and playable aftermath.
 
 ## Needs Further Fleshing Out

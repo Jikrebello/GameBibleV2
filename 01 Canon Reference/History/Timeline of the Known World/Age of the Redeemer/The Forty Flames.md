@@ -2,14 +2,14 @@
 type: event
 status: canon
 canon_level: local
+visibility: public
 era: []
 region: []
 culture: []
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 > _“One flame can light a city. Forty can burn down an empire.”_  
 > —Inscribed above the Gate of the Martyrs in Ironvale

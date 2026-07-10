@@ -2,6 +2,7 @@
 type: quest
 status: canon
 canon_level: local
+visibility: author-only
 era: ["Present Day"]
 region: ["Grenzburg"]
 culture: []
@@ -10,7 +11,6 @@ appears_in: ["Grenzburg"]
 needs: []
 tags:
   - game-ready
-  - core-canon
 ---
 # Grenzburg as Vertical Slice
 

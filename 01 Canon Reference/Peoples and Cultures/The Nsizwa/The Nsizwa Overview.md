@@ -1,15 +1,15 @@
 ---
-type: lore
+type: culture
 status: canon
 canon_level: local
+visibility: public
 era: []
-region: []
-culture: []
+region: ["Nsizwa Homeland"]
+culture: ["Nsizwa"]
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 ### _"We walk with the past so that the future may endure."_
 
@@ -122,7 +122,7 @@ The **Nsizwa** are a proud and powerful people, deeply connected to their **ance
 
 ---
 
-## **VI. [[World History/People and Cultures/The Nsizwa/Economy and Trade]]**
+## **VI. [[Nsizwa Economy and Trade]]**
 
 ### **1. Cattle as Wealth**
 

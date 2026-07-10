@@ -1,15 +1,15 @@
 ---
-type: lore
+type: culture
 status: canon
 canon_level: local
+visibility: public
 era: []
-region: []
-culture: []
+region: ["Eclessia"]
+culture: ["Eclessian"]
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 ## **1. The Feuding Noble Houses of Virelia**
 
@@ -49,7 +49,7 @@ The **elective monarchy** of Virelia fosters a volatile political climate where 
 ## **2. The Upcoming Election: Power Struggles and Political Intrigue**
 
 ### **The Process of Electing a King**
-- The **Szlachta Council** gathers to vote for a new ruler upon the death or abdication of the king.
+- The **Council of Sabres** gathers to vote for a new ruler upon the death or abdication of the king.
 - Each **noble house presents a candidate**, often after months of alliances, bribery, and secret negotiations.
 - **Church officials and military leaders** may endorse candidates but have no direct voting power.
 - If no candidate secures a majority, the kingdom falls into a **regency period**, often leading to unrest.

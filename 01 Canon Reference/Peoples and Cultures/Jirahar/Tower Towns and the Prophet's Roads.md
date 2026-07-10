@@ -1,16 +1,15 @@
 ---
 type: place
-status: draft
+status: canon
 canon_level: core
-era: []
-region: []
-culture: []
+visibility: public
+era: ["Present Day"]
+region: ["Prophet's Roads", "Jirahar Diaspora"]
+culture: ["Jirahar"]
 related_factions: []
 appears_in: []
-needs: []
-tags:
-  - core-canon
-  - needs-review
+needs: ["place every tower town and Prophet's Road on the production map"]
+tags: []
 ---
 # Tower Towns and the Prophet's Roads
 
@@ -22,7 +21,7 @@ A tower town is a **vertical city under its own law** (canon): one to five great
 
 ## The Prophet's Roads (the spine's ruling on the Way-Gates)
 
-The canon teleportation network between towers is hereby grounded: **the Way-Gates follow the Exodus.** When the Great Prophet led humanity across the Great Glass Desert and the scattering routes beyond, the crossing laid down **metaphysical mass** — the holiest freight ever moved, moved on foot — and where the exodus camped, the mass pooled. Those campsites became stable, rent-free corridors through the Astral shallows: **the Prophet's Roads**, anchored not by any patron's hoard but by the Exodus itself. The tower towns stand where they stand because *the towers are built on the campsites* — every one of them. The Jirahar did not choose defensible ground; they settled their god's own footprints, and the Way-Gates simply walk the roads their ancestors walked, out of the world and back into it a hundred leagues on.
+**the Way-Gates follow the Exodus.** When the Great Prophet led humanity across the Great Glass Desert and the scattering routes beyond, the crossing laid down **metaphysical mass** — the holiest freight ever moved, moved on foot — and where the exodus camped, the mass pooled. Those campsites became stable, rent-free corridors through the Astral shallows: **the Prophet's Roads**, anchored not by any patron's hoard but by the Exodus itself. The tower towns stand where they stand because *the towers are built on the campsites* — every one of them. The Jirahar did not choose defensible ground; they settled their god's own footprints, and the Way-Gates simply walk the roads their ancestors walked, out of the world and back into it a hundred leagues on.
 
 **What this means, and who must never learn it:** the network pays no astral rent — the only long-range transport in the world the Concord of Weights cannot price, which the patrons find intolerable and inexplicable. The Keepers understand exactly what they hold and encode it in the driest possible liturgical language ("the Ways of our fathers are sufficient for us"). The Church's scholars suspect; the Covenant's jurists suspect; the Medori would pay anything; and a Way-Gate has never once opened for an outsider, because the Roads themselves refuse — you walk them by inheritance or not at all. *(Whether a sincere convert can walk them is a question the Keepers have never tested in public, and the answer is a story waiting to happen.)*
 

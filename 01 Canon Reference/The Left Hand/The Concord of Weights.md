@@ -1,20 +1,19 @@
 ---
 type: faction
-status: draft
+status: canon
 canon_level: core
+visibility: secret
 era: []
 region: []
 culture: []
-related_factions: []
+related_factions: ["The Creditor", "The Pale Hand"]
 appears_in: []
-needs: []
-tags:
-  - core-canon
-  - needs-review
+needs: ["name the principal signatories outside the Creditor"]
+tags: []
 ---
 # The Concord of Weights
 
-**The patron rent-cartel — the Astral economy's OPEC.** Not evil the way the Idols are evil: *solvent*, which in the Egg White is more dangerous.
+**The patron rent cartel.** Its members are not appetite-engines like the Idols; they are deliberate predators who convert dependence into permanent ownership and call the result fair exchange.
 
 ## What It Is
 
@@ -22,7 +21,7 @@ The Egg White's great anchor-holders discovered long ago what all cartels discov
 
 ## The Mortal Interface
 
-Patrons cannot easily project into the yolks (canon); the Concord's material-world brokerage runs through cutouts: **the Pale Hand of Vorthara** (existing canon faction — hereby wired in as the cartel's chief mortal brokerage: warlock-pact origination, anchor-scouting, debt-service collection), the Sestaran instability markets (canon), and licensed pact-scriveners in every major port. A mortal who signs a patron-pact through proper channels is, whether they know it or not, transacting on Concord paper under Concord arbitration — which cuts both ways: the terms are predatory, but they are *honored*, and there is an appeals process. (The horror of the Concord is precisely that it is fair. Drift is the alternative, and drift negotiates with no one.)
+Patrons cannot easily project into the yolks; the Concord's material-world brokerage runs through cutouts: **the Pale Hand of Vorthara**, its chief mortal brokerage for pact origination, anchor-scouting, and debt-service collection; the Sestaran instability markets; and licensed pact-scriveners in every major port. A mortal who signs a patron pact through proper channels is, whether they know it or not, transacting on Concord paper under Concord arbitration. The terms are predatory but honored, and there is an appeals process. Its procedural fairness makes the system durable; it does not make the ownership of dependent souls good.
 
 ## Signs and Politics
 
@@ -33,3 +32,8 @@ Warlock pacts across rival patrons showing identical clause-structures; debt-col
 - A Grenzburg artifact-license dispute turns out to be a Concord arbitration in miniature: two patrons claim the Barrow's engine-field as anchor-collateral, and the human factions are proxies who don't know it.
 - A warlock's patron is repossessed — the anchor sold at a Weighmoot — and every pact-holder's power now answers to a new landlord with new terms.
 - The Unweighed approach the party's warlock with the Astral equivalent of a hostile-takeover prospectus.
+
+## Navigation
+
+- [[The Atlas of the Left Hand]]
+- [[Names of the Menhir, Masks of the Idols]]

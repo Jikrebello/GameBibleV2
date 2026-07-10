@@ -1,15 +1,15 @@
 ---
-type: lore
+type: culture
 status: canon
 canon_level: local
+visibility: public
 era: []
-region: []
-culture: []
+region: ["Eclessia"]
+culture: ["Eclessian"]
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 Eclessia is a land where **faith, tradition, and regional identity** shape the daily lives of its people. While the **Eclessian Church** provides a unifying religious framework, each duchy, kingdom, and city-state expresses its own unique cultural traditions through **art, music, architecture, festivals, and local customs**.
 

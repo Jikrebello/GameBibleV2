@@ -2,14 +2,14 @@
 type: place
 status: canon
 canon_level: local
+visibility: public
 era: []
 region: []
 culture: []
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 # Geography Atlas
 
@@ -37,7 +37,7 @@ This rule matters for every map and timeline:
 - do not default to northern-hemisphere climate assumptions;
 - southern campaigns must account for winter roads, frozen rivers, stores, and short campaigning seasons;
 - the [[The Fäskogarfolk Overview|Fäskogarfolk]] and [[Ättar Overview|Ättar]] are southern cold-frontier peoples, shaped by forests, frost, permafrost, clan law, Menhir pacts, and Grobi pressure;
-- the [[01 Canon Reference/Creatures/Grobi/Overview|Grobi]] frontier belongs strongly to the deep south: winter migration, forest war, frozen passes, hunger, raids, and survival corridors;
+- the [[Grobi Overview|Grobi]] frontier belongs strongly to the deep south: winter migration, forest war, frozen passes, hunger, raids, and survival corridors;
 - Grenzburg and other frontier regions should make cold, debt, land claims, Grobi movement, and metaphysical ruins collide physically on the map.
 
 Use [[Southern Cold Belt and Grobi Frontier]] as the governing note for this climate logic.

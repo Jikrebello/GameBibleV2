@@ -1,15 +1,15 @@
 ---
-type: lore
+type: faction
 status: canon
 canon_level: local
+visibility: public
 era: []
-region: []
-culture: []
+region: ["Thalmyria"]
+culture: ["Thalmyric"]
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 ### **I. Seat of the Flame**
 The **Patriarchate of Veridun** is the supreme spiritual authority within the Thalmyric Church, centered in the city of **Caleran**, the beating heart of the **Kingdom of Veridun**. The city is built upon sacred volcanic stone and surrounded by a natural basin of black hills and red-leafed cypress groves. It is said the very soil smolders with the residual warmth of divine presence.

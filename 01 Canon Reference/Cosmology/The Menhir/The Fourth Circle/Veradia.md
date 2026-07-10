@@ -1,15 +1,15 @@
 ---
-type: lore
+type: cosmology
 status: canon
 canon_level: local
+visibility: restricted
 era: []
 region: []
 culture: []
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 ### Appearance and Forms:
 - **Primary Form:** Veradia is the Menhir-expression of **spring release**: bloom, sap-rise, swarm pressure, and the microbial violence that accompanies renewal. Mortals describe a tall figure in green-and-gold armor with vines and flowers because spring feels like a crowned return. The truer encounter is biological: the world becomes wet, noisy, and fertile; wounds infect faster; insects arrive in clouds; rot and life accelerate together. 

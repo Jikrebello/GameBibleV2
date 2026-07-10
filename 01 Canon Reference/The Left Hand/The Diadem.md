@@ -1,16 +1,15 @@
 ---
 type: faction
-status: draft
+status: canon
 canon_level: core
+visibility: restricted
 era: []
 region: []
 culture: []
-related_factions: []
+related_factions: ["Pride", "Vampire Bloodlines"]
 appears_in: []
 needs: []
-tags:
-  - core-canon
-  - needs-review
+tags: []
 ---
 # The Diadem
 
@@ -22,7 +21,7 @@ The Diadem teaches self-apotheosis by refinement: the self as the only crown wor
 
 ## Structure and Signs
 
-**Mirrors** (sponsors who cultivate prospects), **Lapidaries** (lodge-masters, "cutters of the rough"), **the Crowned Silence** (the inner circle; how many are still mortal is the file's open question). Signs: nobles whose self-regard hardens into something with *architecture*; portrait-galleries reorganized to imply descent that archives contradict; the tell the Church confessors know — **the sin that stops confessing**, because acknowledgment of fault has become ontologically impossible for the subject.
+**Mirrors** (sponsors who cultivate prospects), **Lapidaries** (lodge-masters, "cutters of the rough"), and **the Crowned Silence** (the inner circle, whose surviving mortal membership cannot be established). Signs: nobles whose self-regard hardens into something with *architecture*; portrait galleries reorganized to imply descent that archives contradict; the tell the Church confessors know — **the sin that stops confessing**, because acknowledgment of fault has become ontologically impossible for the subject.
 
 ## Relations
 
@@ -33,3 +32,8 @@ Vampires above (funnel), Fleshweavers beside (contractors), the Under-Ledger bel
 - A Sestaran patron's commissioned family history contradicts the Sanctum's archives; the archivist who noticed is now professionally ruined, in three moves, by no one.
 - A Lapidary offers a companion the lodge's mirror-reading of their life — and it is accurate, flattering, and engineered to be unforgettable.
 - An aging Grenzburg baron (Hochfeld?) has stopped confessing and started building a mausoleum with no door.
+
+## Navigation
+
+- [[The Atlas of the Left Hand]]
+- [[Names of the Menhir, Masks of the Idols]]

@@ -1,7 +1,10 @@
 filters:
-  or:
-    - canon_level == "disputed"
-    - canon_level == "apocryphal"
+  and:
+    - '!file.inFolder("90 Archive & Drafts")'
+    - '!file.inFolder("99 Templates")'
+    - or:
+        - canon_level == "disputed"
+        - canon_level == "apocryphal"
 properties:
   type:
     displayName: Type
@@ -11,6 +14,8 @@ properties:
     displayName: Canon Level
   culture:
     displayName: Culture
+  reliability:
+    displayName: Reliability
 views:
   - type: table
     name: Apocrypha & In-World Sources
@@ -20,3 +25,4 @@ views:
       - status
       - canon_level
       - culture
+      - reliability

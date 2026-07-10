@@ -1,15 +1,16 @@
 ---
-type: lore
+type: source-text
 status: canon
 canon_level: local
+reliability: disputed
+visibility: public
 era: []
-region: []
-culture: []
+region: ["Atherian Heartland"]
+culture: ["Atherian"]
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 ### The Atherian Version of the Monomyth: "The Celestial Betrayal and the Exodus"
 

@@ -1,15 +1,15 @@
 ---
-type: lore
+type: faction
 status: canon
 canon_level: local
+visibility: public
 era: []
-region: []
-culture: []
+region: ["Eclessia"]
+culture: ["Eclessian"]
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 - **Capital:** Virelia
 - **Government:** Elective Monarchy with a Strong Noble Assembly
@@ -23,7 +23,7 @@ tags:
 
 The **Kingdom of Virelia** is a vast and fertile land, known as the **breadbasket of Eclessia**. It is a kingdom of **rolling plains, dense forests, and great rivers**, home to **proud horse-lords, influential noble families, and skilled farmers**. The land’s wealth is built upon **agriculture and trade**, providing **grain, livestock, and cavalry mounts** that sustain both **the nobility and the military** of Eclessia. However, Virelia is also a land of **political intrigue, shifting alliances, and deep-seated rivalries**, as its system of **elective monarchy** ensures that no one dynasty can rule unchallenged for long.
 
-Unlike most feudal realms, where rule is hereditary, Virelia’s king is chosen by **a powerful assembly of noble houses**, known as the **Szlachta Council**. This leads to **constant political maneuvering**, as rival factions seek to install their own candidate onto the throne. While this system prevents **tyranny and unchecked royal power**, it also makes Virelia **politically unstable**, with the crown frequently shifting between noble families.
+Unlike most feudal realms, where rule is hereditary, Virelia’s king is chosen by **a powerful assembly of noble houses**, known as the **Council of Sabres**. This leads to **constant political maneuvering**, as rival factions seek to install their own candidate onto the throne. While this system prevents **tyranny and unchecked royal power**, it also makes Virelia **politically unstable**, with the crown frequently shifting between noble families.
 
 Despite these internal conflicts, Virelia remains **one of the most powerful kingdoms in Eclessia**, respected for its **formidable cavalry, rich farmlands, and strong martial traditions**. However, as neighboring states eye its resources and internal factions grow restless, its future remains uncertain.
 
@@ -33,7 +33,7 @@ Despite these internal conflicts, Virelia remains **one of the most powerful kin
 
 ### **Elective Monarchy**
 
-- The **Szlachta Council**, composed of the kingdom’s most powerful noble houses, elects the **king from among their ranks**.
+- The **Council of Sabres**, composed of the kingdom’s most powerful noble houses, elects the **king from among their ranks**.
 - No ruler holds absolute power—kings must **negotiate with the nobility, military leaders, and the Church** to maintain control.
 - Monarchs serve for **life**, but can be **deposed by the Council** if deemed weak or unfit.
 
@@ -44,7 +44,7 @@ Despite these internal conflicts, Virelia remains **one of the most powerful kin
 - Faces opposition from **House Arvidan**, a powerful noble faction that seeks to **unseat him in the next election**.
 - Struggles to balance **military ambitions with economic stability**, as nobles demand lower taxes while the army pushes for expansion.
 
-### **The Szlachta Council**
+### **The Council of Sabres**
 
 - Composed of the **most influential noble houses**, each with their own agendas.
 - Responsible for **electing the king, drafting laws, and managing major trade agreements**.
@@ -86,7 +86,7 @@ Virelia is **the largest producer of food and raw materials** in Eclessia, makin
 However, Virelia’s economic power comes with challenges:
 
 - **Mercenary Companies & Raiders:** The kingdom’s wealth attracts **bandits, foreign raiders, and rebellious mercenary bands**.
-- **Grain Tax Disputes:** The Szlachta often **clashes with peasant communities** over high grain taxes, leading to **occasional revolts**.
+- **Grain Tax Disputes:** The Sabre-right nobility often **clashes with peasant communities** over high grain taxes, leading to **occasional revolts**.
 - **Border Conflicts:** The eastern provinces face frequent **skirmishes with pagan warbands and rival duchies**.
 
 ---

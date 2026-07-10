@@ -2,6 +2,7 @@
 type: place
 status: canon
 canon_level: core
+visibility: public
 era:
   - all eras
 region:
@@ -17,8 +18,7 @@ related_factions:
 appears_in:
   - Grenzburg
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 # Southern Cold Belt and Grobi Frontier
 
@@ -77,5 +77,5 @@ The cold belt should generate concrete problems:
 
 - [[Geography Atlas]]
 - [[Early Fäskogarfolk Clan Worlds]]
-- [[01 Canon Reference/Creatures/Grobi/Overview|Grobi]]
+- [[Grobi Overview|Grobi]]
 - [[Grenzburg as Vertical Slice]]

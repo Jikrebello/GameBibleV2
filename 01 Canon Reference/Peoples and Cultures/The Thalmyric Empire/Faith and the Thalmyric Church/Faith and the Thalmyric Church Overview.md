@@ -1,17 +1,17 @@
 ---
-type: lore
+type: faction
 status: canon
 canon_level: local
+visibility: public
 era: []
-region: []
-culture: []
+region: ["Thalmyria"]
+culture: ["Thalmyric"]
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
-At the heart of Thalmyric life lies the **Thalmyric Church**, a deeply mystical, ascetic, and militant interpretation of the **Faith of the Redeemer**. Born in the crucible of war and shaped by centuries of hardship, the Thalmyric Church differs greatly from its western counterpart, the **Eclessian Church**, despite sharing the same spiritual origin. The eastern form of the faith is steeped in personal suffering, spiritual fire, and a constant state of preparation for divine warfare.
+At the heart of Thalmyric life lies the **Thalmyric Church**, a deeply mystical, ascetic, and militant interpretation of the **Faith of the Redeemer**. Born in the crucible of war and shaped by centuries of hardship, it differs greatly from the **Eclessian Church** to the east despite sharing the same spiritual origin. The Thalmyric form of the faith is steeped in personal suffering, spiritual fire, and constant preparation for divine warfare.
 
 ---
 

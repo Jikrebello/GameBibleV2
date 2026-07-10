@@ -1,15 +1,15 @@
-﻿---
-type: lore
+---
+type: cosmology
 status: canon
 canon_level: local
+visibility: restricted
 era: []
 region: []
 culture: []
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 ### Appearance and Forms:
 - **Primary Form:** Voracia is a corpulent figure with an insatiable appetite, constantly surrounded by food and drink. Her skin is a sickly pale, stretched taut over her immense form. Her eyes are glazed with constant hunger, and her mouth is perpetually smeared with the remnants of her latest feast.

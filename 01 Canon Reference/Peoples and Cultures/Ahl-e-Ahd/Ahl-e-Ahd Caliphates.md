@@ -1,19 +1,17 @@
 ---
-type: lore
+type: faction
 status: canon
 canon_level: local
+visibility: public
 era: []
-region: []
-culture: []
+region: ["The Covenant", "Ahl-e-Ahd"]
+culture: ["Ahl-e-Ahd"]
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 ### **1. The Caliphate of Iqashar**
-
-**Inspiration**: Baghdad  
 **Capital**: **Iqashar**  
 **Territory**: The **Cradle of Sands**, a desert heartland rich with ancient architecture and history.  
 **Ruling Class**: The **House of Al-Muhar**, a dynasty deeply entrenched in the old ways of the Ahl-e-Ahd.
@@ -36,8 +34,6 @@ While still powerful, Iqashar’s influence is waning as it turns inward to prot
 ---
 
 ### **2. The Caliphate of Al-Qahur**
-
-**Inspiration**: Umayyad Dynasty  
 **Capital**: **Al-Qahur**  
 **Territory**: The **Oasis of Flames**, a fertile and sacred land created through powerful contracts with the **4444 devils**.  
 **Ruling Class**: The **Wasi-King of Al-Qahur**, the religious and political leader of the caliphate.
@@ -60,8 +56,6 @@ Al-Qahur is the most **spiritually significant** caliphate and wields enormous *
 ---
 
 ### **3. The Emirate of Zanthir**
-
-**Inspiration**: Emirate of Granada  
 **Capital**: **Qabir**  
 **Territory**: The **Serron Archipelago**, and various conquered territories in the **Velian States**.  
 **Ruling Class**: The **Emir of Zanthir**, a powerful warlord and religious figure.
@@ -84,8 +78,6 @@ Zanthir is a key player in the ongoing war with the **Thalmyric Empire**, and it
 ---
 
 ### **4. The Caliphate of Qazmarid**
-
-**Inspiration**: Fatimid Caliphate  
 **Capital**: **Qazmarid**  
 **Territory**: The **Eastern Borders**, a vast region of contested lands and harsh deserts.  
 **Ruling Class**: The **House of Shahmir**, a noble family known for its military and political prowess.

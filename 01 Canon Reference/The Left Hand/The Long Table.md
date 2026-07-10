@@ -1,16 +1,15 @@
 ---
 type: faction
-status: draft
+status: canon
 canon_level: core
+visibility: restricted
 era: []
 region: []
 culture: []
-related_factions: []
+related_factions: ["Gluttony", "Ghouls"]
 appears_in: []
 needs: []
-tags:
-  - core-canon
-  - needs-review
+tags: []
 ---
 # The Long Table
 
@@ -33,3 +32,8 @@ The ghoul liaison (above); the Apathetics are their opposite pole and occasional
 - Grenzburg's winter: someone is buying smoked fish futures in Lakewatch at *above* market — before the early ice was public knowledge.
 - A feast-mystery invitation names a dish the party last saw alive.
 - The Fatted Council's starving-master doctrine has produced a defector: a Maître who fed his master out of pity and is now hunted by both the Table and, for complicated reasons, the Warrens of Woe.
+
+## Navigation
+
+- [[The Atlas of the Left Hand]]
+- [[Names of the Menhir, Masks of the Idols]]

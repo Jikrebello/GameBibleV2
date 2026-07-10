@@ -1,15 +1,15 @@
 ---
-type: lore
+type: creature
 status: canon
 canon_level: local
+visibility: public
 era: []
 region: []
 culture: []
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 ### The Ecology of Ghouls in The Devourer's Domain
 

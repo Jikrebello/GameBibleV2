@@ -1,15 +1,15 @@
 ---
-type: lore
+type: faction
 status: canon
 canon_level: local
+visibility: public
 era: []
-region: []
-culture: []
+region: ["Sestaran Concord"]
+culture: ["Sestaran"]
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 #### **Overview**
 The **Ironbound Guild** is one of the most powerful and influential factions in Vorthara, specializing in the creation of **arcane constructs**, **golems**, and other **animated magical entities**. Known for their mastery of **golem crafting**, the Ironbound Guild’s creations are highly prized across the world, especially by military forces and wealthy individuals who seek the unstoppable power of **war golems**. The guild's members are highly skilled artificers, enchanters, and magi who combine **metalworking**, **runecrafting**, and **arcane infusion** to breathe life into their constructs.

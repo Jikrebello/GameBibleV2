@@ -1,15 +1,15 @@
 ---
-type: lore
+type: faction
 status: canon
 canon_level: local
+visibility: public
 era: []
-region: []
-culture: []
+region: ["Sestaran Concord"]
+culture: ["Sestaran"]
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 **Capital**: **Sermora**  
 **Territory**: The **Sermoran Isles**, a strategic archipelago made up of fortified naval bases, pirate havens, and bustling canal cities scattered across the Thalassian Sea.  

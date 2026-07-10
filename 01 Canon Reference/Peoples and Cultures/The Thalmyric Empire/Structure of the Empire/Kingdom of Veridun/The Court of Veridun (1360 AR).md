@@ -1,20 +1,19 @@
 ---
 type: faction
-status: draft
+status: canon
 canon_level: core
-era: []
-region: []
-culture: []
+visibility: public
+era: ["Present Day", "1360 AR"]
+region: ["Veridun", "Thalmyria"]
+culture: ["Thalmyric"]
 related_factions: []
 appears_in: []
-needs: []
-tags:
-  - core-canon
-  - needs-review
+needs: ["define the succession trigger when a Thalmyria-facing story enters production"]
+tags: []
 ---
 # The Court of Veridun (1360 AR)
 
-The chancellery and succession of **Emperor Caedros IV Aetherion** — the last flagged thread of the present-day board. Builds on the existing Caedros canon (Ash-Blood, the Night of Seven Flames, the Crimson Pilgrimage, Zehrim, Ashreaver over the throne): the empire is ruled by a soldier-emperor who is *bored by ruling*, and the court is the machine that has grown around that fact.
+The chancellery and succession of **Emperor Caedros IV Aetherion**; these institutions build on the established Caedros history (Ash-Blood, the Night of Seven Flames, the Crimson Pilgrimage, Zehrim, Ashreaver over the throne): the empire is ruled by a soldier-emperor who is *bored by ruling*, and the court is the machine that has grown around that fact.
 
 ## The Emperor's Condition
 

@@ -1,15 +1,15 @@
 ---
-type: lore
+type: culture
 status: canon
 canon_level: local
+visibility: public
 era: []
-region: []
-culture: []
+region: ["The Covenant", "Ahl-e-Ahd"]
+culture: ["Ahl-e-Ahd"]
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 ### 1. **Ontology (Nature of Reality)**
    - **Axiom**: Reality is defined by binding agreements, where **contracts** are a fundamental aspect of existence. The universe is a grand, legal structure in which everything, including the gods, spirits, and mortals, is bound by contracts. The cosmos itself operates under a series of **divine contracts** set in place at the beginning of time, and everything in the natural and supernatural world follows these rules.

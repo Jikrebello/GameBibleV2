@@ -1,15 +1,15 @@
 ---
-type: lore
+type: faction
 status: canon
 canon_level: local
+visibility: public
 era: []
-region: []
-culture: []
+region: ["Sestaran Concord"]
+culture: ["Sestaran"]
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 The **Medori family** is one of the most powerful and influential families in the **Sestaran Concord** and beyond. They are the founding rulers of the **Grand Duchy of Fiorenzia**, and their vast wealth, accumulated through their control of the **Medori Bank**, has made them one of the most formidable forces in both the financial and political arenas of the known world. Publicly, the family is known for its **patronage of the arts**, intellectual contributions, and savvy financial dealings. However, beneath this polished surface lies a darker history of **hidden magic**, **ancient secrets**, and manipulation.
 

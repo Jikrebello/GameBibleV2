@@ -1,15 +1,15 @@
 ---
-type: lore
+type: event
 status: canon
 canon_level: local
+visibility: public
 era: []
-region: []
-culture: []
+region: ["Eclessia"]
+culture: ["Eclessian"]
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 ### **I. Fragmented Beginnings (Years 28–60)**
 
@@ -20,9 +20,6 @@ From this chaos, several powerful regions began to consolidate around charismati
 ---
 
 ### **II. The Kingdom of Aurelia**
-
-**Inspired by Papal States & High Medieval France**
-
 - **Founding Power**: The clergy of the **Sanctum Divinitatis**, reinforced by knightly protectors and wealthy relic guilds.
 - **First Monarch**: Queen-Matron Seraphyne, an ordained noblewoman and former battle-abbess, crowned by the High Council.
 - **Claim to Legitimacy**: Custodianship of the Redeemer’s birthplace and scriptural archives.
@@ -32,9 +29,6 @@ Aurelia became the **theocratic heart** of the region, with its monarchs selecte
 ---
 
 ### **III. The Duchy of Veridancia**
-
-**Inspired by Burgundy & Provence**
-
 - **Founding Power**: Merchant-patrons, retired crusader families, and a charismatic abbess named Elyenne of Verdissia.
 - **First Duke**: A former war-chaplain named Rhalien Veris, chosen by popular acclamation and papal endorsement.
 - **Claim to Legitimacy**: Cultural patronage, wine-tithes, and mediation of early feudal disputes.
@@ -44,9 +38,6 @@ Veridancia distinguished itself by merging **courtly elegance and spiritual loya
 ---
 
 ### **IV. The Duchy of Caldria**
-
-**Inspired by the Teutonic Order & Austria**
-
 - **Founding Power**: Knightly orders loyal to the Church, most notably the **Order of the Radiant Path** and the **Vigilant Flame**.
 - **First Duke**: Lord-Marshall Harthan Kael, a firebrand general from the Ashen Marches.
 - **Claim to Legitimacy**: Defender of the faith, protector of pilgrims, scourge of heretics.
@@ -58,9 +49,6 @@ The duchy also became the **source of Eclessia’s military calendar**, organizi
 ---
 
 ### **V. The Ironvale Dominion**
-
-**Inspired by Bohemia & Ruhr Valley**
-
 - **Founding Power**: Artisan guilds and industrial magnates who filled the vacuum left by nobility fleeing east.
 - **First Lord Regent**: Halvyn Brok, a blacksmith-priest turned guildmaster, who unified the mining cantons.
 - **Claim to Legitimacy**: Control over iron, steel, and the production of sacred weaponry.
@@ -72,9 +60,6 @@ Ironvale’s rise reshaped the economy of Eclessia, creating supply chains for c
 ---
 
 ### **VI. The Kingdom of Virelia**
-
-**Inspired by Poland-Lithuania & Hungary**
-
 - **Founding Power**: Knightly clans and rural nobility, rooted in large landholdings and cavalry tradition.
 - **First Monarch**: King Juran the Stalwart, elected by the Seven Shields of the Virelian Plains.
 - **Claim to Legitimacy**: Military prowess, agricultural abundance, and elective tradition.

@@ -1,15 +1,16 @@
 ---
-type: lore
+type: source-text
 status: canon
 canon_level: local
+reliability: disputed
+visibility: public
 era: []
-region: []
-culture: []
+region: ["The Covenant", "Ahl-e-Ahd"]
+culture: ["Ahl-e-Ahd"]
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 In the sacred traditions of the **Ahl-e-Ahd**, the story of the Great Exodus has been passed down through generations, evolving into a myth steeped in mystery, contract-binding, and celestial destiny. Over time, the clear message of the Lord became intertwined with the intricate laws of contracts, devils, and cosmic order. This version of the monomyth, known as **"The Journey of the Last Contract,"** reflects the Ahl-e-Ahd’s unique worldview.
 

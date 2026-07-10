@@ -1,15 +1,15 @@
 ---
-type: lore
+type: magic-system
 status: canon
 canon_level: local
+visibility: restricted
 era: []
-region: []
-culture: []
+region: ["Atherian Heartland"]
+culture: ["Atherian"]
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 ### **1. Arachnara (The Weaver)**
 - **Symbol**: The Spider

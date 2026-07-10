@@ -1,16 +1,15 @@
 ---
 type: faction
-status: draft
+status: canon
 canon_level: core
+visibility: restricted
 era: []
 region: []
 culture: []
-related_factions: []
+related_factions: ["Envy", "Eclessian Church"]
 appears_in: []
 needs: []
-tags:
-  - core-canon
-  - needs-review
+tags: []
 ---
 # The Weeping Courts
 
@@ -20,7 +19,7 @@ tags:
 
 The Weeping Courts do not fight the Church; they **counterfeit it**. Their insight is Envy's own: grace, like wealth, is unevenly distributed — and the overlooked will pay anything for their share. So the Courts manufacture supply: false apparitions, weeping images, rigged relics, miracle-rumors seeded along pilgrimage roads, "saints" for the villages the real calendar forgot. Every counterfeit shrine is a **feeding architecture**: the desperate devotion it harvests flows to the Rival, and the worshippers' envy of the *truly* blessed — carefully cultivated by comparison ("Sarnwell got a real spring; what did YOU get?") — flows twice.
 
-**Bruckmoor (1243 AR) was theirs** — the forty-year false apparition the Inquisition burned and salted (existing canon), and the relic courts' founding trauma. **Their internal documents claim Vessing (1352) is also theirs.** The spine deliberately does not confirm this: the claim may be a boast, an infiltration of a true apparition, or the truth — and the Sanctum's paralysis over Vessing is exactly the kind of institutional wound the Rival feeds on either way.
+**Bruckmoor (1243 AR) was theirs** — the forty-year false apparition the Inquisition burned and salted, and the relic courts' founding trauma. **Their internal documents claim Vessing (1352) is also theirs.** That claim remains unconfirmed: it may be a boast, an infiltration of a true apparition, or the truth. The Sanctum's paralysis over Vessing is exactly the kind of institutional wound the Rival feeds on either way.
 
 ## Structure
 
@@ -39,3 +38,8 @@ The relic courts and the Order of the Lantern are their professional enemies; th
 - The Vessing children: one of the three has started receiving *letters* from a "spiritual director" no one has met.
 - A Weeper defects, claiming her miracles came true for three years before she learned who was answering — and now she cannot make them stop.
 - A Grenzburg winter-shrine springs up at the Great Funnel gate: the Lady of the Gate, who "sees those the Duke turns away." Attendance is enormous. The Bishop wants it burned; the Castellan notes it is the only thing keeping the camps calm.
+
+## Navigation
+
+- [[The Atlas of the Left Hand]]
+- [[Names of the Menhir, Masks of the Idols]]

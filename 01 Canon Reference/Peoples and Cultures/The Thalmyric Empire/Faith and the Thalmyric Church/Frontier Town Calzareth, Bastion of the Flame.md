@@ -1,15 +1,15 @@
-﻿---
-type: lore
+---
+type: place
 status: canon
 canon_level: local
+visibility: public
 era: []
-region: []
-culture: []
+region: ["Thalmyria"]
+culture: ["Thalmyric"]
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 **I. Overview**
 Calzareth is a fortified frontier town situated at the edge of Thalmyric-controlled territory, nestled within a high valley near the border of the contested Velian States. It serves as both a military outpost and a center for spiritual warfare, embodying the dual nature of Thalmyric identity: militant faith and mystical devotion.

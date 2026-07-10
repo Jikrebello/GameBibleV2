@@ -1,15 +1,15 @@
 ---
-type: lore
+type: faction
 status: canon
 canon_level: local
+visibility: public
 era: []
-region: []
-culture: []
+region: ["Sestaran Concord"]
+culture: ["Sestaran"]
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 The **Debtors’ Corps** is a **shadowy mercenary force** tied directly to the **Medori Bank**, composed of highly skilled individuals who have found themselves deeply indebted to the bank. Whether through manipulation, forced contracts, or their own unfortunate circumstances, these individuals are bound to the Bank, with the promise that their debt will be erased in exchange for **military service** and **covert operations**. The Corps serves as the **unseen hand** of the Bank, carrying out missions that align with the **Medori family’s** interests and enforcing its influence across the known world.
 

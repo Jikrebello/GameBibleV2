@@ -1,15 +1,15 @@
 ---
-type: lore
+type: culture
 status: canon
 canon_level: local
+visibility: public
 era: []
-region: []
-culture: []
+region: ["Jirahar Diaspora"]
+culture: ["Jirahar"]
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 Beyond the **legalistic framework** that governs everyday Jiraharin life, there exists a **hidden, mystical dimension** to their faith—an esoteric system of thought known as **Millin Setharin** (_The Hidden Words_). This mystical tradition provides **deeper interpretations of the Scrolls**, uncovering **secrets, divine codes, and prophetic meanings** that are believed to **shape the fate of the Jirahar and the world itself**.
 

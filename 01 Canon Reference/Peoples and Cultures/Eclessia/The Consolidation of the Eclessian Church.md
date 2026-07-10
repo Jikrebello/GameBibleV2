@@ -1,19 +1,19 @@
 ---
-type: lore
+type: culture
 status: canon
 canon_level: local
+visibility: public
 era: []
-region: []
-culture: []
+region: ["Eclessia"]
+culture: ["Eclessian"]
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 ### **I. After the Fall: A Crisis of Authority (Years 28–40)**
 
-With the collapse of Caleran and the rise of the Thalmyric Empire in the east, Eclessia found itself in a dangerous vacuum. No emperor, no patriarch, no unifying voice. The once-unquestioned line of ecclesiastical succession had been **burned away in the ash of silence**, and what remained was a web of **regional abbots, knight-abbots, and independent monastic orders**, each claiming fragments of the flame.
+With the collapse of Caleran and the rise of the Thalmyric Empire to the west, Eclessia found itself in a dangerous vacuum. No emperor, no patriarch, no unifying voice. The once-unquestioned line of ecclesiastical succession had been **burned away in the ash of silence**, and what remained was a web of **regional abbots, knight-abbots, and independent monastic orders**, each claiming fragments of the flame.
 
 In this confusion, power began to **devolve into the hands of local clergy**, warrior-monks, and noble-aligned bishoprics. The **Synaxis of Old Light**, once a quiet council of spiritual preservation, began acting more like a ruling council, mediating disputes between abbeys and issuing decrees across the western provinces.
 

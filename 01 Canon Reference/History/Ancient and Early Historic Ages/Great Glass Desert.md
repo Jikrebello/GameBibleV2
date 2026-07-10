@@ -2,6 +2,7 @@
 type: place
 status: canon
 canon_level: core
+visibility: public
 era:
   - ancient
   - early historic
@@ -15,8 +16,7 @@ culture:
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 # Great Glass Desert
 

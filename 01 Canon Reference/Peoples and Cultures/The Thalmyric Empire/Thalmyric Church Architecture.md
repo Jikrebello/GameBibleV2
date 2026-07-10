@@ -1,16 +1,20 @@
 ---
-type: lore
+type: place
 status: canon
 canon_level: local
+visibility: public
 era: []
-region: []
-culture: []
-related_factions: []
+region: ["Thalmyria"]
+culture: ["Thalmyric"]
+related_factions: ["Thalmyric Church"]
 appears_in: []
-needs: []
-tags:
-  - core-canon
+needs:
+  - add regional variants for Veridun, Saronis, Elenor, and the northern frontier
+aliases: ["Architecture and Worship"]
+tags: []
 ---
+# Thalmyric Church Architecture
+
 The **churches** of the **Thalmyric Empire** are profoundly **mystical** and **symbolic**, designed to reflect the **spiritual mysteries** that define the Thalmyric faith. While they share some architectural roots with the grand structures of the **Atherian Empire**, they have evolved to embody the unique **asceticism**, **meditative practices**, and the **zeal** of the Thalmyric faithful. These buildings are not only places of worship but are seen as **gateways to the divine**, connecting the material world with the **cosmic realms** of the Redeemer.
 
 ---
@@ -92,7 +96,7 @@ The **churches** of the **Thalmyric Empire** are profoundly **mystical** and **s
   **Monastic complexes** are a common feature of the Thalmyric Church. These **fortified monasteries** are often located in **remote regions**—high in the mountains or deep in forests. These monasteries serve as **centers of learning**, where **scribes** preserve ancient texts and **mystics** seek divine communion. They are also **spiritual strongholds**, protecting sacred relics and offering a place of retreat for pilgrims.
 
 - **Battle Chapels**:  
-  Thalmyric churches near the **southern frontier** (close to the lands contested by the **Ahl-e-Ahd**) have **battle chapels**, where **warriors** and **paladins** pray for divine protection before going into combat. These chapels are often simple but fortified, designed to inspire courage in the faithful as they prepare to defend their homeland. Banners bearing **holy symbols** and **armor-blessed relics** are often found within.
+  Thalmyric churches near the **northern frontier**, close to lands contested by the **Ahl-e-Ahd**, have **battle chapels**, where **warriors** and **paladins** pray for divine protection before going into combat. These chapels are often simple but fortified, designed to inspire courage in the faithful as they prepare to defend their homeland. Banners bearing **holy symbols** and **armor-blessed relics** are often found within.
 
 ---
 
@@ -102,6 +106,7 @@ A **Thalmyric church** is a place of **austerity, mystery**, and **spiritual pow
 
 ## Navigation
 
-- [[Canon Index]]
-- [[Canon Index]]
+- [[Thalmyric Empire Overview]]
+- [[Iconography and Worship Spaces]]
+- [[Thalmyric Daily Life and the Burning Year]]
 

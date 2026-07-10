@@ -1,19 +1,19 @@
 ---
-type: lore
+type: culture
 status: canon
 canon_level: local
+visibility: public
 era: []
-region: []
-culture: []
+region: ["Thalmyria"]
+culture: ["Thalmyric"]
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 ### **I. The Great Invasion and the Shattered Borderlands**
 
-The **Ahl-e-Ahd**, a vast empire steeped in a faith centered on **contractual magic, oath-bound servitude, and celestial negotiation**, stand as the Thalmyric Empire's most enduring and devastating adversary. Originating from the scorched steppes and mirrored cities beyond the northern and eastern frontiers, the Ahl-e-Ahd launched their first great invasion over two centuries ago.
+The **Ahl-e-Ahd**, a vast empire steeped in a faith centered on **contractual magic, oath-bound servitude, and celestial negotiation**, stand as the Thalmyric Empire's most enduring and devastating adversary. Originating from the scorched steppes and mirrored cities beyond the northern and northwestern frontiers, the Ahl-e-Ahd launched their first great invasion centuries ago.
 
 The **fall of the Velian States** and the establishment of the **Emirate of Zanthir** marked the darkest days of the Thalmyric calendar. Northern bastions were razed, holy sites defiled, and countless thousands either enslaved or subjected to covenantal chains.
 

@@ -1,15 +1,15 @@
 ---
-type: lore
+type: culture
 status: canon
 canon_level: local
+visibility: public
 era: []
-region: []
-culture: []
+region: ["Southern Cold Belt"]
+culture: ["Fäskogarfolk"]
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 ### **The Fäskogarfolk**
 **Overview**:  
@@ -20,8 +20,8 @@ The **Fäskogarfolk** represent the remnants of an ancient and once-unified peop
 ### **The Ättar: Totemic Warriors of the Southern Wilds**
 The **Ättar** are a proud, martial people, known for their deep spiritual connection to their **totem animals** and their transformative abilities, granted by their pact with **Lunara Noctis**, the Moon Goddess. They are a people forged by hardship and survival in the frigid, forested wilderness of the far south, where life is harsh and unyielding.
 
-![](2024-09-09_15-52-45_1498.png)
-![](2024-09-09_15-54-17_9591.png)
+![](attachments/2024-09-09_15-52-45_1498.png)
+![](attachments/2024-09-09_15-54-17_9591.png)
 #### **Culture and Spirituality**:
 - **Totemic Heritage**: Each member of the **Ättar** is born with a connection to a specific totem animal (wolf, bear, lion, ox, etc.), which grants them certain natural traits. Over time, some choose to become **skinwalkers**, taking on the ability to transform into powerful hybrid creatures in exchange for parts of their essence.
 - **Ritual and Sacrifice**: Life among the **Ättar** is deeply ritualistic, with regular ceremonies honoring **Lunara Noctis** and their totem spirits. The decision to become a skinwalker is seen as both an honor and a curse, as it involves giving up a part of oneself to the moon goddess, eventually leading to madness and death.
@@ -41,9 +41,9 @@ The **Ättar** are a proud, martial people, known for their deep spiritual conne
 ### **The Enaidfae: Servants of Trium’s Aspects**
 The **Enaidfae** took a different spiritual path, aligning themselves with the **three aspects** of the **three-bodied god Trium**—**Thalassor**, **Sylvorn**, and **Zephyraxis**—and weaving their worship into the fabric of their daily lives. While they share the same ancestral roots as the **Ättar**, their bond with the **Trium aspects** has granted them powers tied to the elements of ocean, land, and sky, leading them to a more mysterious and arcane lifestyle.
 
-![](2024-09-09_17-17-27_6404.png)
+![](attachments/2024-09-09_17-17-27_6404.png)
 
-![](2024-09-09_16-09-28_6004.png)
+![](attachments/2024-09-09_16-09-28_6004.png)
 #### **Culture and Spirituality**:
 - **Devotees of the Trium Aspects**: The **Enaidfae** worship **Thalassor (Ocean)**, **Sylvorn (Land)**, and **Zephyraxis (Sky)** in their separate forms, with each aspect influencing different facets of their society. This division has led to a highly ritualistic culture that revolves around natural elements and primal forces.
 - **Rituals and Sacrifice**: The **Enaidfae** engage in secretive rituals that often involve blood sacrifices, wild hunts, and pacts with eldritch forces. Their worship is darker and more dangerous than the **Ättar**’s, often invoking transformation, madness, and raw elemental power.
@@ -68,4 +68,3 @@ Their connection to primal forces, their harsh environment, and their warrior et
 
 - [[Canon Index]]
 - [[Canon Index]]
-

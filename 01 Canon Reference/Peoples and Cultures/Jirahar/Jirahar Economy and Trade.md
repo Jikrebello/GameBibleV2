@@ -1,16 +1,19 @@
 ---
-type: lore
+type: culture
 status: canon
 canon_level: local
+visibility: public
 era: []
-region: []
-culture: []
+region: ["Jirahar Diaspora", "Prophet's Roads"]
+culture: ["Jirahar"]
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+aliases: ["Economy and Trade"]
+tags: []
 ---
+# Jirahar Economy and Trade
+
 The Jirahar are renowned for their **economic acumen, financial networks, and mastery of long-distance trade**, making them one of the most influential mercantile groups in the world. Their economic structure is built upon **secrecy, mobility, and exclusivity**, allowing them to **thrive in foreign lands** without integrating into non-Jiraharin societies.
 
 Through **banking, money-lending, and trade monopolies**, they have accumulated **immense wealth and influence**, despite being a **minority people often persecuted or distrusted** by the dominant religious and political forces around them.
@@ -154,4 +157,3 @@ However, as their enemies **grow wary of their influence**, the Jirahar must **c
 
 - [[Canon Index]]
 - [[Canon Index]]
-

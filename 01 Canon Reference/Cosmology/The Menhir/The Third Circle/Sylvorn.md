@@ -1,15 +1,15 @@
 ---
-type: lore
+type: cosmology
 status: canon
 canon_level: local
+visibility: restricted
 era: []
 region: []
 culture: []
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 #### Appearance:
 - **Description:** Sylvorn is the Faewild’s land-law made sovereign: wild succession, territorial memory, fertility-pressure, and the predatory intelligence of ecosystems. When perceived as a figure, Sylvorn often resolves as a towering, centaur-like presence of bark-skin and muscle-root, crowned with antlers like branching river-deltas and hung with moss and fungal glow. The sense is not “a forest spirit,” but the forest briefly wearing a face.

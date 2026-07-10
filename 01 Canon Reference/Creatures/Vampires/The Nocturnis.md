@@ -1,15 +1,15 @@
-﻿---
-type: lore
+---
+type: creature
 status: canon
 canon_level: local
+visibility: public
 era: []
 region: []
 culture: []
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 The Nocturnis represent the shadowy underbelly of vampire society, embodying the essence of stealth, secrecy, and the strategic manipulation of information. Their existence is a testament to the belief that knowledge is power, and in the darkness, they are the ultimate arbiters of both.
 

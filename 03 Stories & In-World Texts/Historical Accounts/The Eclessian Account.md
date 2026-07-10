@@ -2,6 +2,8 @@
 type: source-text
 status: canon
 canon_level: apocryphal
+reliability: propaganda
+visibility: public
 era: []
 region: []
 culture: []
@@ -55,7 +57,7 @@ This period—our **Interregnum**—has never ended.
 
 We are **Veridancia’s diplomacy**, **Caldria’s blades**, **Korrheim’s mercenaries**, **Virelia’s plough**, **Brauval’s ale**, **Ironvale’s ore**, and yet we are not one. The **Sylvan Marches** hold the southern forests against the fae, but do so alone. **Caldria**, mighty Caldria, holds the pass and keeps the fires of crusade alive—but even they cannot impose unity by steel alone.
 
-There were moments—brief flickers—when a crown seemed near. Aurelian kings anointed by the Sanctum. Caldrian warlords bearing relics of the Redeemer. Even merchant leagues in **Brauvalis** proposed governance by coin and scripture. But each effort collapsed under weight of heresy, ambition, or holy doubt.
+There were moments—brief flickers—when a crown seemed near. Aurelian kings anointed by the Sanctum. Caldrian warlords bearing relics of the Redeemer. Even merchant leagues in **Brauvalis** advocated governance by coin and scripture. But each effort collapsed under weight of heresy, ambition, or holy doubt.
 
 Worse still, the **Fäskogarfolk**, wild and terrible, grew bolder. From the southern forests they swept north, attacking villages, burning monasteries, defiling sacred groves. Caldria and the Sylvan Marches mounted crusades in reply, but even now, the **war on the frontier is endless**.
 

@@ -2,6 +2,7 @@
 type: event
 status: canon
 canon_level: core
+visibility: public
 era:
   - imperial
 region:
@@ -12,8 +13,7 @@ related_factions:
   - Atherian Empire
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 # Atherian Imperial Age
 

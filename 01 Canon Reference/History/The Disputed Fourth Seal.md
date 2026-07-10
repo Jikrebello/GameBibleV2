@@ -1,20 +1,19 @@
 ---
-type: lore
-status: draft
+type: event
+status: canon
 canon_level: core
-era: []
-region: []
-culture: []
-related_factions: []
+visibility: author-only
+era: ["572-603 AR", "Present Day"]
+region: ["The Covenant", "Ahl-e-Ahd"]
+culture: ["Ahl-e-Ahd"]
+related_factions: ["People of the Witnessed Seal", "People of the Sealed Blood", "The Creditor"]
 appears_in: []
 needs: []
-tags:
-  - core-canon
-  - needs-review
+tags: []
 ---
 # The Disputed Fourth Seal
 
-The Covenant's great internal fault line — the Sunni/Shia dynamic executed in the Ahl-e-Ahd's own idiom: not a war of theology first, but a **forensic document dispute** that theology grew around.
+The Covenant's great internal fault line began not as abstract theology but as a **forensic document dispute** from which centuries of theology grew.
 
 ## What Happened
 
@@ -29,18 +28,18 @@ The college ruled the Counter-Instrument a forgery. Ruqaiya's partisans ruled th
 
 Six years later, Ruqaiya's son and seventy-two of his household — invited under safe-conduct contract to arbitration — were surrounded at the wells of Bir Qassim and killed when the escort's contract was voided on a textual technicality (the safe-conduct named a route; a flood had forced them off it). The legal murder of the Prophet's grandson **by loophole** is the wound that made the split permanent: for his partisans, it proved the scribal establishment would use the sacred law itself as a knife.
 
-The annual **Mourning of the Wells** (Ashura analog) is kept with processions, recitation of the voided safe-conduct clause by clause, and the ritual answer after each clause: *"And yet the well was dry."*
+The annual **Mourning of the Wells** is kept with processions, recitation of the voided safe-conduct clause by clause, and the ritual answer after each clause: *"And yet the well was dry."*
 
 ## The Two Parties
 
-- **The People of the Witnessed Seal** (majority; Sunni analog). Legitimacy flows through **attestation**: the seal the college witnessed is the seal that binds, and the community's confirmed jurists are the Covenant's living authority. Dominant in Iqashar, Al-Qahur, and Zanthir.
-- **The People of the Sealed Blood** (minority; Shia analog). Legitimacy flows through **the Prophet's line**: the witness-mark cannot be delegated to a college, and the true succession has run hidden through Ruqaiya's descendants — the **Veiled Wasiyin**, each knowing the location of the true Counter-Instrument. The **Caliphate of Qazmarid** (Fatimid analog) is their great polity, ruled by a Caliph-Wasi claiming that descent.
+- **The People of the Witnessed Seal** are the majority. Legitimacy flows through **attestation**: the seal the college witnessed is the seal that binds, and the community's confirmed jurists are the Covenant's living authority. They dominate Iqashar, Al-Qahur, and Zanthir.
+- **The People of the Sealed Blood** are the minority. Legitimacy flows through **the Prophet's line**: the witness mark cannot be delegated to a college, and the true succession has run hidden through Ruqaiya's descendants, the **Veiled Wasiyin**, each knowing the location of the true Counter-Instrument. The **Caliphate of Qazmarid** is their great polity, ruled by a Caliph-Wasi claiming that descent.
 
 ## The Contract-Horror at the Center
 
 Both original instruments still exist. The Fourth Seal rests in the **Vault of Names** at Al-Qahur; Qazmarid claims the Counter-Instrument lies under the Caliph-Wasi's throne. Under Covenant law, **forensically opening a sealed succession instrument constitutes breach of the succession itself** — examination would void the very legitimacy it proved, whosever it proved. The one document that could settle everything is the one document neither side may ever open. The dispute is thus permanently decidable and permanently undecided — the most Ahl-e-Ahd sentence it is possible to write.
 
-**Behind the curtain (authorial):** which seal is genuine is deliberately unresolved — with the darker note that the patron behind Malak al-Ahd may have witnessed *both*, since a permanently divided Covenant doubles the rent streams.
+**Authorial truth:** which seal is genuine remains unresolved. [[The Creditor]], wearing the mask of Malak al-Ahd, witnessed both instruments and ensured neither could be conclusively privileged, because a permanently divided Covenant doubles the rent streams. Its interference does not establish which claimant began with the true document.
 
 ## Present-Day Consequences (1360 AR)
 

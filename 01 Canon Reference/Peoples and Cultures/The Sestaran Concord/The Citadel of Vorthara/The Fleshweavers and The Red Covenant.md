@@ -1,15 +1,15 @@
 ---
-type: lore
+type: faction
 status: canon
 canon_level: local
+visibility: public
 era: []
-region: []
-culture: []
+region: ["Sestaran Concord"]
+culture: ["Sestaran"]
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 The **Fleshweavers** and **The Red Covenant** are two of the most infamous and closely intertwined magical factions in Vorthara, each specializing in the manipulation of **flesh**, **life**, and **blood magic**. While they have distinct goals and methodologies, their fields often overlap, leading to collaboration and competition alike. Together, they are responsible for some of the most terrifying and powerful creations to emerge from the **Flesh Pits** and the **arenas** of Vorthara.
 

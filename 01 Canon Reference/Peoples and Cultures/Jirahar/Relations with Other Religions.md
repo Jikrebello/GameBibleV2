@@ -1,15 +1,15 @@
 ---
-type: lore
+type: culture
 status: canon
 canon_level: local
+visibility: public
 era: []
-region: []
-culture: []
+region: ["Jirahar Diaspora"]
+culture: ["Jirahar"]
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 The Jirahar have a **tumultuous and often hostile relationship** with the dominant religions of the world. Their firm belief in being the **true chosen people**, tasked with preserving the only pure faith, has put them at odds with **the Church of the Redeemer** and the **Ahl-e-Ahd**, both of which they view as **corruptions of the original divine message**.
 
@@ -50,7 +50,7 @@ While the **Eclessian Church** generally tolerates Jirahar **as long as they do 
 
 ### **The Ahl-e-Ahd** 
 
-The **Ahl-e-Ahd** faith, dominant in the northern deserts and eastern territories, claims to be **the final revelation of divine truth**. Their core belief that **the last prophet has already come** is a **direct contradiction to Jiraharin theology**, which states that **the Mesakha is yet to arrive**.
+The **Ahl-e-Ahd** faith, dominant in the northern deserts and their conquered client territories, claims to be **the final revelation of divine truth**. Their core belief that **the last prophet has already come** is a **direct contradiction to Jiraharin theology**, which states that **the Mesakha is yet to arrive**.
 
 This has led to centuries of **theological disputes, territorial conflicts, and occasional warfare** between the Jirahar and the Ahl-e-Ahd.
 

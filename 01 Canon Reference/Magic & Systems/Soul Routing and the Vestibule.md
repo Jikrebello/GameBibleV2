@@ -2,14 +2,14 @@
 type: mechanic
 status: canon
 canon_level: core
+visibility: author-only
 era: []
 region: []
 culture: []
 related_factions: ["Church of the Redeemer"]
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 # Soul Routing and the Vestibule
 

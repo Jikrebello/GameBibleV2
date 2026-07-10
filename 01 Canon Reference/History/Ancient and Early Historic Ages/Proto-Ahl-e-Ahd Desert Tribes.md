@@ -2,6 +2,7 @@
 type: culture
 status: canon
 canon_level: core
+visibility: public
 era:
   - early historic
 region:
@@ -13,8 +14,7 @@ related_factions:
   - Ahl-e-Ahd
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 # Proto-Ahl-e-Ahd Desert Tribes
 

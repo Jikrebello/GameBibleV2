@@ -1,16 +1,15 @@
 ---
 type: event
-status: draft
+status: canon
 canon_level: core
+visibility: public
 era: []
 region: []
 culture: []
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
-  - needs-review
+tags: []
 ---
 # The Great Split — Two Crowns, One Fire
 

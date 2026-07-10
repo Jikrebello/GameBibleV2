@@ -1,15 +1,15 @@
 ---
-type: lore
+type: culture
 status: canon
 canon_level: local
+visibility: public
 era: []
-region: []
-culture: []
+region: ["Jirahar Diaspora"]
+culture: ["Jirahar"]
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 The Jirahar do not see history as **a series of random events**, but as **a predetermined path leading toward an inevitable final reckoning**—the moment when **the Mesakha, the Awaited One, will arise to fulfill divine prophecy**. Their entire existence, from their rigid adherence to religious law to their secretive economic and political strategies, is **centered around the belief that they are biding their time, awaiting the day when the world will be remade in accordance with the true faith**.
 

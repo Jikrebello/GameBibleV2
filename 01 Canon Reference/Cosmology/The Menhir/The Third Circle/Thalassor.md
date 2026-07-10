@@ -1,15 +1,15 @@
 ---
-type: lore
+type: cosmology
 status: canon
 canon_level: local
+visibility: restricted
 era: []
 region: []
 culture: []
 related_factions: []
 appears_in: []
 needs: []
-tags:
-  - core-canon
+tags: []
 ---
 #### Appearance:
 - **Description:** Thalassor is the Faewild’s ocean-law made sovereign: depth-pressure, tide secrecy, abyssal ecology, and the predatory indifference of the sea. When perceived as a form, it appears as a colossal pressure-being—scales like overlapping shale, tentacular outlines suggested by current, and abyssal eyes that resemble deep vents or cold stars seen through water. The truest “shape” is environmental: still water that feels like a lid, undertow that behaves like intent, and horizons that seem to close.
