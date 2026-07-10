@@ -17,6 +17,8 @@ The present day is a fractured inheritance war over Atheria's body, the Redeemer
 
 ## Central Conflict
 
+*(Authorial spine: the present's deep structure is deterrence-by-unopened-proof — see [[The Age of Held Proofs]].)*
+
 The empire is dead, but its roads, churches, ruins, saints, debts, enemies, and myths still govern the living.
 
 ## Major Powers

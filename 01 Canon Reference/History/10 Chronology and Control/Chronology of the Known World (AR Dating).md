@@ -22,12 +22,14 @@ The civilized world dates from the execution and resurrection of Isfir the Redee
 
 **Present day: 1360 AR.**
 
+*(Two registers govern this timeline's texture: [[The Divergence Pass — Torque Register]] — world-native consequences of analog events — and [[The Weird of History — The Unexplained Register]] — the deliberately unresolved. Entries below marked ✶ are weirds: attested, argued, and unexplained even in the spine.)*
+
 ## Mythic and Legendary Time (traditional dates)
 
 - **The Deep Past (undatable):** Creation, the Rebellion, the fall of humanity. Hybrid canon: the rebellion happened, and the defeated rebels fused with pre-existing yolk structures — some wedding themselves to Faewild nature-law (the Menhir as now known), others to Shadowlands meaning-architecture (the Idols). In-world sources garble this into the Mono-Myth.
 - **c. 3400–2300 BR — Age of Chains.** The Giant empires enslave humanity.
 - **c. 2300–2260 BR — Age of Exodus.** The Great Prophet breaks the Giants; the crossing of the Great Glass Desert; his death at the threshold (c. 2265 BR).
-- **c. 2260–1900 BR — Age of Scattering.** The exodus fractures into the ancestor-peoples.
+- **c. 2260–1900 BR — Age of Scattering.** The exodus fractures into the ancestor-peoples. ✶ Somewhere in these centuries falls the **Year of Standing Stars**, which every calendar patches differently.
 
 ## Early Historic Ages
 
@@ -46,7 +48,7 @@ The civilized world dates from the execution and resurrection of Isfir the Redee
 - **3 BR–0 — The Ministry.** The Companions: thirteen called, one struck (see [[The Twelve Companions of the Redeemer]]). **c. 15 AR — the conversion of Saint Aquilan the Turned** (born Sha'il bar Qoreth) on the road to Virelos. **c. 29–52 AR — the Companions' martyrdoms**, the Great Purge falling c. 36–45. **c. 55 AR — the Dormition of Amaryah the Fire-Bearer** at Veridun Minor (see [[Amaryah the Fire-Bearer]]).
 - **0 AR — The Binding at Caleran.** Trial under High Augur Severan of Astaroth and Lord-Scribe Ezrahel bar Qoreth; execution on the Pillar of Concordance; the third-night fire; the Holy Flame.
 - **1–291 AR — The Underground Centuries.** The Forty Flames; the Ember Underground; the Fireless Trial; the Temple That Would Not Burn.
-- **292 AR — The Vision at the Stone Bridge of Velos.** The usurper **Cassian** sees the White Flame ("By this Flame, hold"), wins the civil war, legalizes the faith. Reigns to 316; baptized on his deathbed.
+- **292 AR — The Vision at the Stone Bridge of Velos.** The usurper **Cassian** sees the White Flame ("By this Flame, hold"), wins the civil war, legalizes the faith — and the Aurin at that bridge has never frozen since. Reigns to 316; baptized on his deathbed: **the Cassian Wager**, a scandal without resolution.
 - **348–351 AR — The Apostate Interlude.** **Astrion the Apostate** restores the stars, dies on desert campaign — "You have won, Carpenter."
 - **377–395 AR — Emperor Vestian the Pious.** Faith made compulsory (380); augur colleges dissolved; sanctity welded to state power.
 - **c. 300–400 AR — The Jirahar Persecutions.** From riot to policy under Vestian; the great eastern tower towns razed; flight northeast.
@@ -76,6 +78,7 @@ The civilized world dates from the execution and resurrection of Isfir the Redee
 - **906–908 AR — Third Crusade.** The eastward push stopped at the Duchy of Caldria.
 - **908–921 AR — The Mountain Rebellion.** Caedros of house Aetherion; the Valley Ambush (917); Virelos (921).
 - **922 AR — The Coronation at Virelos.** **Caedros I the Unbowed**, first Thalmyric Emperor.
+- **905–957 AR — The Impounded Ember.** The occupiers find the Eternal Ember will not go out; Idris declares it property-in-dispute and guards it for fifty-two years. The Reconquest finds it burning, ledgered to the day — the most famous invoice in history, which Veridun pays in full. (See [[The Divergence Pass — Torque Register]].)
 - **950–962 AR — Fourth Crusade: The Reconquest.** First weaponized Holy Flame. **957 AR — Caleran retaken; Caedros I dies at the Pillar of Concordance** at the moment of victory; witnesses swear the Flame took the body. Canonized in Thalmyria within a decade; canonization rejected by Eclessia's relic courts. **Caedros II the Completer** finishes the campaigns (to 962).
 
 ## Two Crowns (962–1104 AR)
@@ -99,7 +102,7 @@ The civilized world dates from the execution and resurrection of Isfir the Redee
 - **1243 AR — The False Lady of Bruckmoor exposed** as an Idol-feeding operation after forty years of pilgrimage — a Weeping Courts architecture that fattened on Grey Sweat grief; the site burned and salted. The relic courts' founding trauma.
 - **1214 AR — The Battle of Qarath's Well.** **Markellos the Captive** taken alive; ransomed for border themes; blinded and deposed by his own court on return. Thalmyria's deepest self-inflicted wound.
 - **1214–1225 AR — The post-Qarath civil wars.**
-- **c. 1232–1247 AR — [[The Grey Sweat]].** The great mortality: a third of eastern Eclessia, a fifth of its western territories, in fifteen years of waves. Tenantry expands across much of Eclessia while Virelia's second serfdom hardens; Ash-Walker penitents seed later quietism and shrine hunger.
+- **c. 1232–1247 AR — [[The Grey Sweat]].** The great mortality: a third of eastern Eclessia, a fifth of its western territories, in fifteen years of waves. Tenantry expands across much of Eclessia while Virelia's second serfdom hardens; Ash-Walker penitents seed later quietism and shrine hunger. Remembered as *the years the ferry queued* — a soul-logistics catastrophe as much as a plague (see [[The Divergence Pass — Torque Register]]). ✶ Ends with the **Quiet Ninth** (1247): the Sweat stops everywhere in one week, and the Ash-Walkers disband mid-march, everywhere, unasked.
 - **1225–1263 AR — Nikandros I the Restorer.** Stabilizes the rump; asks Eclessia for aid; refuses the Sanctum's price (Veridun's submission); fights on alone. Present-day Caedros IV claims this line.
 - **c. 1235–1341 AR — The Medori century.** **Bartolo the Elder** builds the bank; **Lauro the Magnificent** builds the merchant-humanist flowering. Sestara's golden age begins c. 1250.
 

@@ -46,7 +46,7 @@ Virelia's conversion is the east's great story — the Rus treatment, with a twi
 - **In Veridun's Ember-Cathedral** the envoys wept, and gave the report every Virelian child still learns: *"We knelt in the fire-light and knew not whether we stood on earth."*
 - **And the crown chose the Sanctum anyway** — for an Adalmarid marriage, western swords against the steppe, and a Church conveniently far away.
 
-The twist is permanent: Virelia's **hierarchy is western; its folk piety is eastern-flavored** — icon-corners in Vesari farmhouses, standing vigils the parish priests pretend are local custom, and a village suspicion that the envoys were right and the prince was clever. Veridun has never stopped reminding Virelia of what its own envoys said. In every succession election there is a whispered "eastern candidate," and the Sanctum makes sure he never wins.
+The twist is permanent — and it burns: the envoys' own lamp took the Flame unbidden before witnesses of both churches, and **the Virelian Lamp burns in Veridun's cathedral still**, tended as an honored hostage and formally offered home at every Virelian succession election. Virelia's **hierarchy is western; its folk piety is eastern-flavored** — icon-corners in Vesari farmhouses, standing vigils the parish priests pretend are local custom, and a village suspicion that the envoys were right and the prince was clever. Veridun has never stopped reminding Virelia of what its own envoys said. In every succession election there is a whispered "eastern candidate," and the Sanctum makes sure he never wins.
 
 ## Why This Matters
 
