@@ -15,6 +15,10 @@ tags: []
 
 Every creature family belongs to a layer of the cosmology, and its layer dictates its ecology, its weaknesses, who studies it, and what its parts are worth. This note is the master key; family notes hang from it.
 
+## The Floor Beneath the Table
+
+The families below are the *aligned and cosmological* tiers. Most encounters in the world belong to neither — see [[The Mundane Layer — Residue, Vermin, and the Delver Trade]] for the common tier (restless dead, vermin, leakspawn, wall-wardens) and the encounter pyramid that keeps existential stakes rare enough to matter.
+
 ## The Placement Table
 
 - **Grobi** (goblins → hobgoblins → orcs → ogres) — **Material realm, Wrath's harvest.** Humans transformed by the Idol of Wrath ("The Fury" — see [[Names of the Menhir, Masks of the Idols]]); now a self-sustaining species whose food-driven metamorphic ladder and seasonal migration make them an ecological weather system, not an army. See [[Grobi Overview]].

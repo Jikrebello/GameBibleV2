@@ -36,6 +36,7 @@ Use this as the main doorway into the world bible.
 - [[Timeline MOC]]
 - [[Bestiary MOC]]
 - [[Grenzburg MOC]]
+- [[Quest Tier Doctrine]] & [[The Conversion Library — Classic Adventures Recontextualized]]
 - [[Grenzburg Vertical Slice Dossier]]
 - [[Grenzburg as Vertical Slice]]
 - [[The Grey Sweat]]
