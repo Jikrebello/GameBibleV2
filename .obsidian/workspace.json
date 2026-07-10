@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7671927433308c80",
+        "id": "2403ccc7fd2f95e8",
         "type": "tabs",
         "children": [
           {
-            "id": "b12229611f641b27",
+            "id": "2236908dea8a514b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Start Here/Language Filter Rename Tables (Proposal).md",
+                "file": "00 Start Here/Needs Work.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Language Filter Rename Tables (Proposal)"
+              "title": "Needs Work"
             }
           }
         ]
@@ -178,8 +178,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b12229611f641b27",
+  "active": "2236908dea8a514b",
   "lastOpenFiles": [
+    "00 Start Here/Canon Index.md",
+    "01 Canon Reference/Peoples and Cultures/The Thalmyric Empire/Thalmyric Daily Life and the Burning Year.md",
+    "01 Canon Reference/Peoples and Cultures/The Thalmyric Empire/Thalmyric Daily Life and the Burning Year.md.tmp.26688.d0b13b0d7d60",
+    "00 Start Here/Language Filter Rename Tables (Proposal).md",
     "01 Canon Reference/The Left Hand/The Concord of Weights.md",
     "01 Canon Reference/The Left Hand/The Undertow.md",
     "01 Canon Reference/The Left Hand/The Long Table.md",
@@ -208,15 +212,11 @@
     "01 Canon Reference/Peoples and Cultures/The Fäskogarfolk/Folk Daily Life and the Thirteen Moons.md.tmp.2788.975d72303fd7",
     "01 Canon Reference/Peoples and Cultures/Eclessia/Eclessian Daily Life and the Year of the Flame.md.tmp.2788.488522049240",
     "01 Canon Reference/Creatures/Bestiary Framework — Creatures of the World Egg.md.tmp.36300.fe27ca93157f",
-    "01 Canon Reference/Creatures/Vampires/Vampires in the Present Age.md",
     "01 Canon Reference/Creatures/Vampires/Vampires in the Present Age.md.tmp.36300.4467acd9b4d8",
     "01 Canon Reference/Creatures/Drakes/Emerald Drakes.md.tmp.34548.c933dae05157",
-    "01 Canon Reference/Creatures/Drakes/Drakes Overview.md",
     "01 Canon Reference/Creatures/Drakes/Drakes Overview.md.tmp.34548.7711469be5b8",
-    "01 Canon Reference/Creatures/Bestiary Framework — Creatures of the World Egg.md",
     "01 Canon Reference/Creatures/Bestiary Framework — Creatures of the World Egg.md.tmp.34548.7b879956e159",
     "01 Canon Reference/Cosmology/Names of the Menhir, Masks of the Idols.md.tmp.34548.7770446ab80b",
-    "00 Start Here/Gap Analysis & Refinement Targets.md.tmp.29128.09dfdf4104a1",
     "01 Canon Reference/Peoples and Cultures/The Thalmyric Empire/attachments/2024-09-09_17-02-32_6978.png",
     "01 Canon Reference/Peoples and Cultures/The Thalmyric Empire/attachments/2024-09-09_17-01-36_7399.png",
     "01 Canon Reference/Geography/World Map/Known World - Labeled Gazetteer v1.png",
