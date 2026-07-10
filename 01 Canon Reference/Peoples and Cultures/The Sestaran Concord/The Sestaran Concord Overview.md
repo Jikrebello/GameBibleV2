@@ -113,6 +113,8 @@ The **Concord of Sestara** is a region of **constant intrigue**, where alliances
 
 ## Navigation
 
+- [[Lives of the Concord — The Common Spine]] (the role-by-role lives pass: five city files)
+
 - [[Canon Index]]
 - [[Canon Index]]
 
