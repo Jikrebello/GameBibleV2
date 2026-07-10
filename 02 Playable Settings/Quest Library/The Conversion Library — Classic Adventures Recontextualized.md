@@ -1,5 +1,5 @@
 ---
-type: quest
+type: index
 status: draft
 canon_level: local
 visibility: author-only
@@ -14,7 +14,19 @@ tags:
 ---
 # The Conversion Library — Classic Adventures Recontextualized
 
-Eighteen classic modules and one-shots (per the research pass: the Dungeon Magazine top-30 canon plus modern one-shot staples), rebuilt as native quests. Each entry: original → new name, tier (per [[Quest Tier Doctrine]]), placement, and the conversion's torque — what the setting adds that the original couldn't have.
+Nineteen classic modules, starter adventures, and modern anthologies rebuilt as native quest seeds. Each linked file records the source skeleton, tier, placement, conversion, setting torque, and hook. The original pitch catalogue remains below as editorial context.
+
+## Conversion Files (19)
+
+**Frontier and campaign foundations:** [[The Commandery at World's Hem]] · [[Chapel-Ford]] · [[The Fane of the Braided Flame]] · [[The Echo Seam]]
+
+**Horror and hidden control:** [[The Weeping Vale]] · [[The Serpent Under Qafra]] · [[The Tithe-House]] · [[The Undergrove]]
+
+**Expeditions and lethal sites:** [[The Court That Drank Itself]] · [[The Fallen Spire]] · [[The Bragging Vault]] · [[The Step-Tomb of the Blood Sun]] · [[The Tower That Kept Its Year]]
+
+**Coastal, tutorial, and comic adventures:** [[The Thirtieth Sister]] · [[The First Writ]] · [[The Bailiff's Ram]] · [[The Celion Light]]
+
+**Anthology frameworks:** [[The Latch Jobs]] · [[The Talga Folios]]
 
 ## The Classics
 
