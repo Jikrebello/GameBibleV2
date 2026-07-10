@@ -40,7 +40,7 @@ Keep the cultural coding. Move the surface language one step sideways.
 
 - **Ahl-e-Ahd:** Sahifat, jihad/Jahd remnants, caliph/caliphate where too direct, sheikh, emir, sultan-caliph, Malak al-Ahd.
 - **Jirahar:** rav, ben, Ta'arifat, Al-Muntazar, tower-town legal titles.
-- **Nsizwa:** iklwa, izangoma, ibutho, nkosi, and any direct clan/warrior-office terms.
+- **Nsizwa:** inkandu, Spirit-Keepers, war-regiment, nkosi, and any direct clan/warrior-office terms.
 
 ## Acceptance Criteria
 

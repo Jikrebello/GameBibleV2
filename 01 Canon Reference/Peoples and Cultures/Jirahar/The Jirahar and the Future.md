@@ -11,7 +11,7 @@ needs: []
 tags:
   - core-canon
 ---
-The Jirahar do not see history as **a series of random events**, but as **a predetermined path leading toward an inevitable final reckoning**—the moment when **Al-Muntazar, the Awaited One, will arise to fulfill divine prophecy**. Their entire existence, from their rigid adherence to religious law to their secretive economic and political strategies, is **centered around the belief that they are biding their time, awaiting the day when the world will be remade in accordance with the true faith**.
+The Jirahar do not see history as **a series of random events**, but as **a predetermined path leading toward an inevitable final reckoning**—the moment when **the Mesakha, the Awaited One, will arise to fulfill divine prophecy**. Their entire existence, from their rigid adherence to religious law to their secretive economic and political strategies, is **centered around the belief that they are biding their time, awaiting the day when the world will be remade in accordance with the true faith**.
 
 The Jirahar are not merely **a persecuted minority struggling to survive**—they see themselves as **the rightful rulers of the world, currently in exile**. Every act of preservation, every trade deal, every sacred pilgrimage, and every battle fought is seen as a step toward **the restoration of their divinely mandated dominion**.
 
@@ -35,11 +35,11 @@ Despite their shared identity, the Jirahar have been fragmented by centuries of 
 - **Grown lax in their observance**, treating the Scrolls as mere traditions rather than divine law.
 - **Formed rogue factions** that deviate from orthodox belief, focusing more on commerce or survival than prophecy.
 
-**Al-Muntazar’s first act will be to purge these weaknesses**—those who refuse to **return fully to the Path** will be **cast out or destroyed**, ensuring that **only the true Jirahar remain**.
+**The Mesakha’s first act will be to purge these weaknesses**—those who refuse to **return fully to the Path** will be **cast out or destroyed**, ensuring that **only the true Jirahar remain**.
 
-### **The Great Gathering: The Call of Al-Muntazar**
+### **The Great Gathering: The Call of the Mesakha**
 
-It is prophesied that when Al-Muntazar appears, he will issue **The Great Call**, a divine summons that will compel:
+It is prophesied that when the Mesakha appears, he will issue **The Great Call**, a divine summons that will compel:
 
 - **All Jirahar to abandon their lives in exile** and return to the Path.
 - **The hidden Tower Towns to reveal themselves**, gathering warriors, scholars, and priests to form the foundation of the new order.
@@ -64,7 +64,7 @@ They do not seek **coexistence**—they believe that **all faiths must be eradic
     - The Redeemer is viewed as **a liar who led humanity astray**, and his followers are to be either **converted or eliminated**.
 2. **The Ahl-e-Ahd**
     
-    - Considered **heretics who claimed prophecy was sealed**, thus rejecting the **true final messenger—Al-Muntazar**.
+    - Considered **heretics who claimed prophecy was sealed**, thus rejecting the **true final messenger—the Mesakha**.
     - Their scholars and rulers have **long sought to destroy the Jirahar**, so the Jirahar see their annihilation as **divinely mandated retribution**.
     - Their temples and mosques will be **purged**, and their lands brought under the Path.
 3. **Pagan Kings and Heathen Orders**
@@ -74,11 +74,11 @@ They do not seek **coexistence**—they believe that **all faiths must be eradic
 4. **Faithless Empires and Merchant Lords**
     
     - Secular rulers who **govern without divine law** are seen as **blasphemous usurpers**, ruling **without divine right**.
-    - They will be **given a choice—convert and rule in Al-Muntazar’s name, or be cast down and replaced**.
+    - They will be **given a choice—convert and rule in the Mesakha’s name, or be cast down and replaced**.
 
 ### **The War of Reckoning**
 
-Once the Jirahar have gathered, they believe **Al-Muntazar will lead them into a final, global war**—one that will not end until **the last false temple is broken** and **the world is made ready for the true faith**.
+Once the Jirahar have gathered, they believe **the Mesakha will lead them into a final, global war**—one that will not end until **the last false temple is broken** and **the world is made ready for the true faith**.
 
 It will not be **a war of conquest for power or resources**—it will be a war of **annihilation against corruption**, purging the world of **spiritual rot** so that the Path can reign **without opposition**.
 
@@ -86,11 +86,11 @@ It will not be **a war of conquest for power or resources**—it will be a war o
 
 ## **3. The Global Theocracy of the Path: The Jiraharin Vision of the Future**
 
-After the War of Reckoning, the world will not be **divided into nations, tribes, or empires**. It will be **one**—**a singular dominion ruled by the Law of the Path**, with **Al-Muntazar as the Supreme Guide** and **the Keepers of the Scrolls as the administrators of divine justice**.
+After the War of Reckoning, the world will not be **divided into nations, tribes, or empires**. It will be **one**—**a singular dominion ruled by the Law of the Path**, with **the Mesakha as the Supreme Guide** and **the Keepers of the Scrolls as the administrators of divine justice**.
 
 ### **How Will the World Be Governed?**
 
-1. **Al-Muntazar as the Divine Ruler**
+1. **the Mesakha as the Divine Ruler**
     
     - He will not be a king, emperor, or caliph—he will be **the living vessel of divine will**, his word **absolute and unquestioned**.
 2. **The Keepers of the Scrolls as Judges**
@@ -110,7 +110,7 @@ After the War of Reckoning, the world will not be **divided into nations, tribes
 
 ## **The Present: Preparing for the Future**
 
-Until Al-Muntazar arrives, the Jirahar remain in **exile**, keeping their traditions **intact, their power hidden, and their faith unshaken**. They do not seek to **hasten war** but instead **prepare for the moment when the true battle begins**.
+Until the Mesakha arrives, the Jirahar remain in **exile**, keeping their traditions **intact, their power hidden, and their faith unshaken**. They do not seek to **hasten war** but instead **prepare for the moment when the true battle begins**.
 
 Their current strategies include:
 

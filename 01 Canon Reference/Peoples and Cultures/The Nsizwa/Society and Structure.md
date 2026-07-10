@@ -17,108 +17,108 @@ The Nsizwa society is a **rigidly structured yet dynamic warrior culture**, wher
 
 ---
 
-## **1. The Nkosi (The Warrior-King)**
+## **1. The War-King**
 
 _"A king who does not bleed with his warriors is no king at all."_
 
-### **A. The Role of the Nkosi Yempi (King of War)**
+### **A. The Role of the War-King (Yempi's crown)**
 
-The **Nkosi** is not just a ruler, but a **living conduit between the ancestors and the people**. He is both **a warlord and a spiritual figure**, responsible for:
+The **War-King** is not just a ruler, but a **living conduit between the ancestors and the people**. He is both **a warlord and a spiritual figure**, responsible for:
 
 - **Leading the army in battle**, proving that he is still fit to rule.
-- **Maintaining the favor of the ancestors**, as they guide him through dreams, omens, and Sangoma-led rituals.
-- **Settling disputes among the Izinduna (noble class)** to ensure the kingdom remains unified.
-- **Presiding over the great seasonal festivals**, particularly those dedicated to the summoning of the Isidumbu.
+- **Maintaining the favor of the ancestors**, as they guide him through dreams, omens, and Spirit-Keeper-led rituals.
+- **Settling disputes among the Horn-Captains (noble class)** to ensure the kingdom remains unified.
+- **Presiding over the great seasonal festivals**, particularly those dedicated to the summoning of the Izivukwa.
 
 ### **B. Ascension to Kingship**
 
-- The title of Nkosi is **hereditary**, passed down within the **royal bloodline**, but a weak successor can be **challenged and replaced** if they fail to prove their worth.
-- Upon the death of a king, his **spirit is called forth to judge his successor** through the Izangoma. If the ancestors reject the new king, **omens and misfortunes follow**, leading to a potential **coup by the Izinduna or warrior factions**.
+- The title of War-King is **hereditary**, passed down within the **royal bloodline**, but a weak successor can be **challenged and replaced** if they fail to prove their worth.
+- Upon the death of a king, his **spirit is called forth to judge his successor** through the Spirit-Keepers. If the ancestors reject the new king, **omens and misfortunes follow**, leading to a potential **coup by the Horn-Captains or warrior factions**.
 - Every new king must undertake the **Trial of the War Spirit**, where they must:
-    1. **Face the Judgment of the Isidumbu**, proving they are worthy of ruling.
+    1. **Face the Judgment of the Izivukwa**, proving they are worthy of ruling.
     2. **Lead a warband into battle**, proving their martial skill.
     3. **Commune with the ancestral spirits**, demonstrating wisdom and spiritual awareness.
 
-### **C. The Sacred Throne of the Nkosi**
+### **C. The Sacred Throne of the War-King**
 
-- The Nkosi rules from **Nkosi’s Hold**, seated upon the **Uhlanga Throne**, an **ancient war-seat carved from a single, massive elephant tusk**, inlaid with **obsidian and gold**.
+- The War-King rules from **Mzalu’s Hold**, seated upon the **Uhlanga Throne**, an **ancient war-seat carved from a single, massive elephant tusk**, inlaid with **obsidian and gold**.
 - The throne is said to **hum with power**, resonating with the voices of past kings, who whisper guidance—or warnings—to the ruler.
 
 ---
 
-## **2. The Izinduna (The Noble Class)**
+## **2. The Horn-Captains (The Noble Class)**
 
 _"To guide a kingdom is to bear the weight of a thousand ancestors."_
 
-The **Izinduna** are the **king's council of warriors, generals, and governors**, drawn from the **most proven warriors and advisors**. Unlike traditional nobility, **Izinduna are not simply born into power—they must earn it through battle, leadership, and diplomacy.**
+The **Horn-Captains** are the **king's council of warriors, generals, and governors**, drawn from the **most proven warriors and advisors**. Unlike traditional nobility, **Horn-Captains are not simply born into power—they must earn it through battle, leadership, and diplomacy.**
 
 ### **A. Roles and Responsibilities**
 
-Each Izinduna serves as:
+Each Horn-Captains serves as:
 
 - **A Regional Governor:** Overseeing a province or stronghold within the kingdom.
-- **A General of the Ibutho (Warrior Regiments):** Leading their warriors into battle, ensuring discipline and strategy.
+- **A General of the war-regiment (Warrior Regiments):** Leading their warriors into battle, ensuring discipline and strategy.
 - **A Diplomat or Lawmaker:** Settling disputes, negotiating with outsiders, and ensuring the **ancestral laws** are upheld.
 
-### **B. Ranks within the Izinduna**
+### **B. Ranks within the Horn-Captains**
 
-There are different tiers of Izinduna, with the highest-ranked ones being almost equal in power to the Nkosi himself.
+There are different tiers of Horn-Captains, with the highest-ranked ones being almost equal in power to the War-King himself.
 
-1. **The Indlovu (The Grand Warlord):** The highest-ranking general, often second-in-command to the Nkosi in war.
-2. **The Izinduna Ezikhulu (High Lords):** Senior war-leaders governing key cities and territories.
-3. **The Amabutho Izinduna (Warband Captains):** Leaders of specific warrior regiments, responsible for training and battle formations.
+1. **The Indlovu (The Grand Warlord):** The highest-ranking general, often second-in-command to the War-King in war.
+2. **The Horn-Captains Ezikhulu (High Lords):** Senior war-leaders governing key cities and territories.
+3. **The Amabutho Horn-Captains (Warband Captains):** Leaders of specific warrior regiments, responsible for training and battle formations.
 
-### **C. The Oath of the Izinduna**
+### **C. The Oath of the Horn-Captains**
 
-- Every Izinduna swears the **Oath of the Blood Moon**, pledging loyalty to the Nkosi and to the ancestors.
-- Betraying this oath results in **execution, exile, or—if the crime is grave enough—the spirit of the betrayer being bound in eternal servitude to the Isidumbu.**
+- Every Horn-Captains swears the **Oath of the Blood Moon**, pledging loyalty to the War-King and to the ancestors.
+- Betraying this oath results in **execution, exile, or—if the crime is grave enough—the spirit of the betrayer being bound in eternal servitude to the Izivukwa.**
 
 ---
 
-## **3. The Amakhosi (The Warrior Class)**
+## **3. The Spear-Sworn (The Warrior Class)**
 
 _"A warrior does not fight alone. He fights with the spirits of the thousand warriors before him."_
 
-The Nsizwa are a **martial society**, where **every man is trained in war**, and those who prove exceptional become part of the **Amakhosi**, the **elite warrior class**.
+The Nsizwa are a **martial society**, where **every man is trained in war**, and those who prove exceptional become part of the **Spear-Sworn**, the **elite warrior class**.
 
-### **A. Warrior Training & Regiments (Ibutho)**
+### **A. Warrior Training & Regiments (war-regiments)**
 
 - Boys begin training at the age of **six**, learning **combat, tactics, and ancestor veneration**.
 - At **16, they undergo the Warrior’s Initiation**, proving themselves in the **Trial of the Hunt**, where they must **track and defeat a great beast with only a spear and shield**.
-- Those who succeed **join an Ibutho regiment**, where they receive **formal training in formations, skirmishing, and melee combat**.
+- Those who succeed **join an war-regiment regiment**, where they receive **formal training in formations, skirmishing, and melee combat**.
 
 ### **B. The Elite Regiments**
 
-1. **The Izulu Warriors (Storm-Bearers):** The finest warriors, bearing **storm-forged spears** blessed by the Izangoma.
-2. **The Impisi (Ghost-Wolves):** Stealth warriors who **fight in the shadows**, often used as assassins or ambushers.
+1. **The Storm-Sworn (Storm-Bearers):** The finest warriors, bearing **storm-forged spears** blessed by the Spirit-Keepers.
+2. **The War-hostsi (Ghost-Wolves):** Stealth warriors who **fight in the shadows**, often used as assassins or ambushers.
 3. **The Makoma Riders:** The **Nsizwa cavalry**, trained in **shock charges and mounted spear combat**.
 
 ---
 
-## **4. The Izangoma (Mystics, Healers, and Spirit-Callers)**
+## **4. The Spirit-Keepers (Mystics, Healers, and Spirit-Callers)**
 
 _"The ancestors whisper, but only the worthy can listen."_
 
-The **Izangoma** are the **spiritual backbone of the Nsizwa**, acting as **healers, oracles, and summoners of the dead**.
+The **Spirit-Keepers** are the **spiritual backbone of the Nsizwa**, acting as **healers, oracles, and summoners of the dead**.
 
 ### **A. Their Role in Society**
 
-- **Summoners of the Ancestors:** They perform the **sacred rites to awaken the spirits of warriors, kings, and the Isidumbu**.
-- **Healers and Herbalists:** They use **mooti (herbal medicine and spiritual infusions)** to heal the wounded and sick.
+- **Summoners of the Ancestors:** They perform the **sacred rites to awaken the spirits of warriors, kings, and the Izivukwa**.
+- **Healers and Herbalists:** They use **umhlwazi (herbal medicine and spiritual infusions)** to heal the wounded and sick.
 - **Interpreters of Omens:** They **read the stars, the winds, and the bones** to foresee the kingdom’s fate.
 
-### **B. The High Sangoma**
+### **B. The High Spirit-Keeper**
 
-- The **greatest Izangoma** is the **Mfundisi Wezithunzi (Master of Shadows)**, chosen by the **spirits themselves**.
-- They are the only one allowed to **enter the Tomb of the Silent Legion alone**, communing directly with the **slumbering Isidumbu**.
+- The **greatest Spirit-Keepers** is the **Mfundisi Wezithunzi (Master of Shadows)**, chosen by the **spirits themselves**.
+- They are the only one allowed to **enter the Tomb of the Silent Legion alone**, communing directly with the **slumbering Izivukwa**.
 
 ---
 
-## **5. The Abantu (The Common People)**
+## **5. The Common-Folk (The Common People)**
 
 _"A kingdom without its people is no kingdom at all."_
 
-The **Abantu** form the backbone of the Nsizwa civilization. They are the **farmers, craftsmen, traders, and artisans**, who ensure the **survival and prosperity** of the kingdom.
+The **Common-Folk** form the backbone of the Nsizwa civilization. They are the **farmers, craftsmen, traders, and artisans**, who ensure the **survival and prosperity** of the kingdom.
 
 ### **A. The Importance of Cattle**
 
@@ -129,7 +129,7 @@ The **Abantu** form the backbone of the Nsizwa civilization. They are the **farm
 ### **B. Skilled Artisans and Craftsmen**
 
 - **Blacksmiths** forge **legendary spears, shields, and armor**.
-- **Beadworkers** craft **ritual jewelry**, embedding them with **Nkisi talismans** to grant **luck, strength, or protection**.
+- **Beadworkers** craft **ritual jewelry**, embedding them with **inkatho talismans** to grant **luck, strength, or protection**.
 - **Potters and carvers** create **sacred totems**, used in ancestral rituals and war ceremonies.
 
 ### **C. The Griots and Storytellers**
@@ -141,7 +141,7 @@ The **Abantu** form the backbone of the Nsizwa civilization. They are the **farm
 
 ## **Final Thoughts: The Living Legacy**
 
-The Nsizwa **live as warriors, rulers, mystics, and keepers of ancestral wisdom**, bound together by **duty, honor, and the spirits of their ancestors**. Each person, from the **Nkosi to the humblest farmer**, plays a role in **preserving their legacy**, ensuring that **when they pass, they too will join the ranks of the honored dead.**
+The Nsizwa **live as warriors, rulers, mystics, and keepers of ancestral wisdom**, bound together by **duty, honor, and the spirits of their ancestors**. Each person, from the **War-King to the humblest farmer**, plays a role in **preserving their legacy**, ensuring that **when they pass, they too will join the ranks of the honored dead.**
 
 ## Navigation
 

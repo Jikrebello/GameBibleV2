@@ -200,7 +200,7 @@ Rule: disputes persist because truth has value; institutions manufacture it.
 
 ### Jirahar (diaspora prophecy machine)
 
-- Legalistic/ritualistic monotheists; await Al-Muntazar.
+- Legalistic/ritualistic monotheists; await the Mesakha.
     
 - Corruption model: some leadership capture is real; emergent worship exists; false patronage occurs; paranoia is politically useful.
     

@@ -13,9 +13,9 @@ tags:
 ---
 ## **1. [[Origins and Sacred History]]**
 
-The Jirahar are a semi-nomadic people who claim **direct descent from the Great Prophet**, the divine leader who led humanity out of the **Great Glass Desert** at the beginning of days. They believe they are the only people who have remained faithful to the original laws and traditions of the **Path of the Chosen** (**Ra'adat al-Mukhtarin**).
+The Jirahar are a semi-nomadic people who claim **direct descent from the Great Prophet**, the divine leader who led humanity out of the **Great Glass Desert** at the beginning of days. They believe they are the only people who have remained faithful to the original laws and traditions of the **Path of the Chosen** (**Orakh Bekhirin**).
 
-According to their sacred history, the Great Prophet received divine revelations from **the One Above All**, leading his people out of servitude under the **Giants** (**Mamalik al-Jababira**) and establishing the **Scrolls of the Path**, which form the basis of Jiraharin law and daily life. The Jirahar maintain that all other human civilizations **abandoned the Path**, becoming corrupted by foreign influences and false prophets. Their **chosenness** is both a blessing and a burden, requiring them to preserve their purity through strict adherence to ritual law.
+According to their sacred history, the Great Prophet received divine revelations from **the One Above All**, leading his people out of servitude under the **Giants** (**the Gabbarin Kingdoms**) and establishing the **Scrolls of the Path**, which form the basis of Jiraharin law and daily life. The Jirahar maintain that all other human civilizations **abandoned the Path**, becoming corrupted by foreign influences and false prophets. Their **chosenness** is both a blessing and a burden, requiring them to preserve their purity through strict adherence to ritual law.
 
 ---
 
@@ -25,29 +25,29 @@ According to their sacred history, the Great Prophet received divine revelations
 
 The Jirahar faith is deeply legalistic and ritualistic, centering around the **Scrolls of the Path**, which are divided into:
 
-- **The Scroll of Laws** (**Sahifat al-Ahkam**): A comprehensive guide to religious, social, and legal practices.
+- **The Scroll of Laws** (**Sifra d'Dinai**): A comprehensive guide to religious, social, and legal practices.
     
-- **The Scroll of Journeys** (**Sahifat al-Rihlat**): The historical narrative of the Great Prophet's exodus.
+- **The Scroll of Journeys** (**Sifra d'Masai**): The historical narrative of the Great Prophet's exodus.
     
-- **The Scroll of Prophecies** (**Sahifat al-Nubuwwat**): Foretelling the coming of **Al-Muntazar**, the final Great Prophet.
+- **The Scroll of Prophecies** (**Sifra d'Nevai**): Foretelling the coming of **the Mesakha**, the final Great Prophet.
     
 
 ### **Oral Tradition and Legal Debate**
 
-Much like the Talmudic tradition, Jiraharin religious law is supplemented by extensive **interpretations and commentaries**, known as **Ta'arifat al-Tariq** (_Interpretations of the Path_). This legal discourse is overseen by the **Keepers of the Scrolls**, scholars who engage in **debates and rulings** known as **Jahd al-Kalima** (_The Struggle of the Word_), shaping how ancient laws apply to modern situations.
+Much like the Talmudic tradition, Jiraharin religious law is supplemented by extensive **interpretations and commentaries**, known as **the Peshara** (_Interpretations of the Path_). This legal discourse is overseen by the **Keepers of the Scrolls**, scholars who engage in **debates and rulings** known as **the Milla-Strife** (_The Struggle of the Word_), shaping how ancient laws apply to modern situations.
 
-- **Hikayat** (_Narratives_): Stories and parables of the Great Prophet.
+- **Aggadatha** (_Narratives_): Stories and parables of the Great Prophet.
     
-- **Masail** (_Legal Cases_): Hypothetical and real cases debated by scholars.
+- **She'eltha** (_Legal Cases_): Hypothetical and real cases debated by scholars.
     
-- **Tafsir al-Sabil** (_Commentaries on the Path_): Discussions on how to apply laws in new circumstances.
+- **Pesher Orakh** (_Commentaries on the Path_): Discussions on how to apply laws in new circumstances.
     
-- **Amthal** (_Proverbs and Ethical Teachings_): Wisdom that governs daily life.
+- **Mishletha** (_Proverbs and Ethical Teachings_): Wisdom that governs daily life.
     
 
-### **The Prophecy of Al-Muntazar**
+### **The Prophecy of the Mesakha**
 
-A central tenet of Jiraharin belief is the coming of **Al-Muntazar** (_The Awaited One_), a final prophet who will unite the Jirahar, restore the true law, and lead them to **dominion over all nations**. Until his arrival, the Jirahar remain in exile, resisting foreign rule and maintaining their purity.
+A central tenet of Jiraharin belief is the coming of **the Mesakha** (_The Awaited One_), a final prophet who will unite the Jirahar, restore the true law, and lead them to **dominion over all nations**. Until his arrival, the Jirahar remain in exile, resisting foreign rule and maintaining their purity.
 
 ---
 
@@ -70,12 +70,12 @@ Both churches claim that **the Redeemer** fulfilled divine prophecy, negating th
     
 - **Medieval persecutions and expulsions** – Tower Towns and caravans have been **attacked or expelled** throughout history.
     
-- **End-times conflict** – Some radical Church sects believe **Al-Muntazar must be stopped** at all costs.
+- **End-times conflict** – Some radical Church sects believe **the Mesakha must be stopped** at all costs.
     
 
 ### **The Ahl-e-Ahd** (Analogous to Islam)
 
-The **Ahl-e-Ahd** believe the final revelation has already come, leading to a longstanding dispute with the Jirahar, who insist that **Al-Muntazar will be the true final prophet**.
+The **Ahl-e-Ahd** believe the final revelation has already come, leading to a longstanding dispute with the Jirahar, who insist that **the Mesakha will be the true final prophet**.
 
 **Conflicts Include:**
 
@@ -92,7 +92,7 @@ The **Ahl-e-Ahd** believe the final revelation has already come, leading to a lo
 
 The Jirahar are structured around **two major societal groups**:
 
-1. **The Caravans** (**Terrochars and Aquanaves**):
+1. **The Caravans** (**land-arks and water-arks**):
     
     - Mobile homes, markets, and places of worship.
         
@@ -132,31 +132,31 @@ Jiraharin life is governed by strict **ritual laws**, dictating **diet, marriage
     
 - **Marriage Laws** – Arranged marriages with strict purity codes; **outsiders must convert** before marriage is allowed.
     
-- **Pilgrimages** – Journeying to lost **sacred sites**, particularly **Al-Madinat al-Khaliyah** (_The Empty City_), where Al-Muntazar is prophesied to appear.
+- **Pilgrimages** – Journeying to lost **sacred sites**, particularly **Qiryath Reqa** (_The Empty City_), where the Mesakha is prophesied to appear.
     
 
 ---
 
 ## **7. [[Theological and Mystical Traditions]]**
 
-Beyond strict legalism, the Jirahar have a **mystical tradition** known as **Al-Kalimat al-Khafiya** (_The Hidden Words_), which provides esoteric interpretations of the Scrolls.
+Beyond strict legalism, the Jirahar have a **mystical tradition** known as **Millin Setharin** (_The Hidden Words_), which provides esoteric interpretations of the Scrolls.
 
 **Beliefs Include:**
 
 - The world follows a **divine pattern**, which only the Jirahar can fully decipher.
     
-- Numbers, symbols, and historical events have **hidden meanings** leading to the return of Al-Muntazar.
+- Numbers, symbols, and historical events have **hidden meanings** leading to the return of the Mesakha.
     
 - The soul is on an **eternal journey**, and true enlightenment comes through adherence to the Path.
     
 
-Certain scholars, known as **Keepers of the Veil**, devote their lives to studying these mysteries, believing that uncovering them will hasten the return of Al-Muntazar.
+Certain scholars, known as **Keepers of the Veil**, devote their lives to studying these mysteries, believing that uncovering them will hasten the return of the Mesakha.
 
 ---
 
 ## **8. [[The Jirahar and the Future]]**
 
-The Jirahar see history as leading toward **a final reckoning**, where Al-Muntazar will:
+The Jirahar see history as leading toward **a final reckoning**, where the Mesakha will:
 
 - **Unite all Jirahar under one rule.**
     
@@ -171,4 +171,8 @@ Until then, the Jirahar **continue their journey**, preserving their laws, tradi
 
 ## **Conclusion**
 
-The Jirahar are a deeply ritualistic, legalistic, and prophetic people, bound by ancient laws, mystical traditions, and a vision of their ultimate destiny. Their conflicts with the **Church of the Redeemer** and the **Ahl-e-Ahd**, their mastery of **trade and finance**, and their belief in **Al-Muntazar’s return** make them one of the most enigmatic and influential peoples in the world.
+The Jirahar are a deeply ritualistic, legalistic, and prophetic people, bound by ancient laws, mystical traditions, and a vision of their ultimate destiny. Their conflicts with the **Church of the Redeemer** and the **Ahl-e-Ahd**, their mastery of **trade and finance**, and their belief in **the Mesakha’s return** make them one of the most enigmatic and influential peoples in the world.
+
+## Naming Register (locked)
+
+The Jirahar tongue is the **archaic branch** of the desert language family (sister to the Covenant tongue, as their peoples are estranged siblings of the Scattering) — the dialect the Redeemer spoke, preserved liturgically by the Velian Church. Register rules: **d'-** genitives (Sifra d'Dinai), endings in **-a / -atha / -in**, patronymic **bar** (bath for daughters). Core lexicon: **the Mesakha** (the Awaited One), **the Orakha / Orakh Bekhirin** (the Path), the **Sifra d'Dinai / d'Masai / d'Nevai** (the three Scrolls), **the Peshara** (interpretations), **She'eltha** (legal queries), **Aggadatha** (narratives), **Mishletha** (proverbs), **Millin Setharin** (the Hidden Words), **Qiryath Reqa** (the Empty City). Forbidden verbatim: real-world liturgical/communal terms.

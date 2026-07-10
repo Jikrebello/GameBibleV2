@@ -34,7 +34,9 @@ The Idols are meaning-predators; wearing many masks is not incidental to them bu
 - **Pride** = **The Sovereign** (the vampire canon's name; patron of the Giant Imperial Court of Anshara and the five bloodlines descended from its blood).
 - **Gluttony** = **The Devourer** (the ghoul canon's name; the necropolis-cults and the Feasts of the Fallen).
 - **Sloth** = **The Slumberer**, whose Shadowlands demesne is **the Endless Dusk** (the nightmare canon's realm — a named Idol sub-region of the left yolk, useful precedent: each Idol shapes its own district of the Shadowlands).
-- **Envy and Lust** await their historical masks — every Idol-cult in history gets its own, and cataloguing them is legitimate in-world scholarship (and a Vorthara research hazard).
+- **Envy** = **the Rival** — the voice that says *that should be yours*; its network is [[The Weeping Courts]] (Bruckmoor was theirs).
+- **Lust** = **the Beloved** — counterfeit love, devotion-capture; its network is [[The Devoted]].
+- Every Idol-cult in history gets its own mask, and cataloguing them is legitimate in-world scholarship (and a Vorthara research hazard). The full hostile-network index is [[The Atlas of the Left Hand]].
 
 ## Archaic Terms
 

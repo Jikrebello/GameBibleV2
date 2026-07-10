@@ -121,7 +121,7 @@ The **Black-Tooth Clans** are a **collection of rogue Nsizwa warbands**, once **
 - **A Growing Threat:**
     
     - Some Black-Tooth leaders dream of **returning to the Nsizwa lands**—not as exiles, but as **conquerors**.
-    - If they were to **unite under one warlord**, they could **challenge the Nkosi’s rule**, plunging the region into **civil war**.
+    - If they were to **unite under one warlord**, they could **challenge the War-King’s rule**, plunging the region into **civil war**.
 
 ---
 

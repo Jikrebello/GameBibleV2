@@ -18,7 +18,7 @@ The Mother of the Redeemer — the most venerated woman in the world's history, 
 
 ## Her Life
 
-Amaryah bat Yoreth, a Jirahar carpenter's wife of an eastern tower town: poor, devout, unlettered, of a lineage the genealogy-scrolls trace (with suspicious tidiness, scholars note) back to the Great Prophet's own house. The traditions agree on little else about her early life and everything about her character: she treasured, she endured, she did not explain.
+Amaryah bath Yoreth, a Jirahar carpenter's wife of an eastern tower town: poor, devout, unlettered, of a lineage the genealogy-scrolls trace (with suspicious tidiness, scholars note) back to the Great Prophet's own house. The traditions agree on little else about her early life and everything about her character: she treasured, she endured, she did not explain.
 
 At the Binding, she stood at the foot of the Pillar of Concordance for three days. Tradition holds the Redeemer's only words from the monolith spoken to individuals were spoken to her and to Saint Calira standing beside her: *"Daughter, behold your guardian. Guardian, behold my mother."*
 

@@ -14,7 +14,7 @@ tags:
 ---
 # The Aquilan Epistles — Selected Passages
 
-*Scholar's apparatus: The Epistles of Saint Aquilan the Turned (born Sha'il ben Qoreth, d. c. 45 AR) survive in both great canons with minor variances the churches pretend are major. The Jirahar Keepers maintain a counter-collection, the* File Against the Hound*, annotating every verse. Selections below follow the Sanctum recension; disputed readings noted.*
+*Scholar's apparatus: The Epistles of Saint Aquilan the Turned (born Sha'il bar Qoreth, d. c. 45 AR) survive in both great canons with minor variances the churches pretend are major. The Jirahar Keepers maintain a counter-collection, the* File Against the Hound*, annotating every verse. Selections below follow the Sanctum recension; disputed readings noted.*
 
 ---
 

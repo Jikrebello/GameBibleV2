@@ -37,10 +37,10 @@ Make Grenzburg the first practical vertical slice: a playable frontier duchy wit
 - Thorn-Seer Mael is a Lakekeeper-line seer tied to Wolfsmere.
 - Vesari are a separate Scattering people and become Virelia's substrate.
 - Saltborn are Ättar-blooded Eclessian coastfolk.
+- Language filter applied per [[Language Filter Rename Tables (Proposal)]]: Jirahar Aramaic shift (the Mesakha, bar, the Sifra), Covenant structural-keep/religious-filter (Aqid, Wasi), Nsizwa hybrid (izivukwa, inkandu, Spirit-Keepers, Mzalu). Naming registers locked in each culture's overview.
 
 ## Still Open
 
-- Full language-filter rename tables for Jirahar, Ahl-e-Ahd, and Nsizwa.
 - Tarkhan khans and internal politics.
 - Jirahar tower-town geography.
 - Eclessian duchy borders, roads, and production-quality map layers.

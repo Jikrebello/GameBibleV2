@@ -56,7 +56,7 @@ The unclaimed tan between the Covenant's desert and the settled south — the gr
 ### Off the Board
 
 - **The Great Glass Desert** — the shimmering north-center of the continent, the Exodus crossing; beyond it, the lost Giant lands of the northern hemisphere.
-- **The Nsizwa Continent** — a separate island-continent in the far southwest ocean: temperate highlands, Nkosi's Hold, the Isidumbu shrines. Reached by a hard month's sail from the Ättar coasts or Qazmarid; the Nsizwa prefer it hard. **[Per placement decision: their own landmass, not the Qazmarid continent.]**
+- **The Nsizwa Continent** — a separate island-continent in the far southwest ocean: temperate highlands, Mzalu's Hold, the Izivukwa shrines. Reached by a hard month's sail from the Ättar coasts or Qazmarid; the Nsizwa prefer it hard. **[Per placement decision: their own landmass, not the Qazmarid continent.]**
 - **The Emerald Expanse (the New World)** — the northern hemisphere across the Boiling Sea, where the Giant empires died; every Castaran expedition is also an excavation of the Age of Chains, whether it knows it or not.
 - **The Jirahar** hold no territory on any map — tower towns stand at the desert margins and along the great trade roads (largest: near Zanthir and the Velian belt **[draft]**), and the caravans move between them. *(Tower Town geography flagged for its own pass.)*
 

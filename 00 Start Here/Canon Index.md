@@ -26,6 +26,7 @@ Use this as the main doorway into the world bible.
 - [[Historical Spine of the Known World]]
 - [[Ancient and Early Historic Ages]]
 - [[Present-Day Political Board]]
+- [[The Atlas of the Left Hand]]
 - [[Geography Atlas]]
 
 ## Lore Pillars

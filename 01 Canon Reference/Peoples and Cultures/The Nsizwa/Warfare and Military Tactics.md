@@ -23,23 +23,23 @@ Their warriors do not fight alone. **They march with the spirits of their fallen
 
 _"A spear is a warrior's soul, and a shield is his wisdom."_
 
-### **A. The Iklwa – The Blade of the Nsizwa**
+### **A. The Inkandu – The Blade of the Nsizwa**
 
-- The **Iklwa** is the **signature weapon** of Nsizwa warriors—a **short thrusting spear**, perfectly suited for **rapid and brutal close combat**.
+- The **Inkandu** is the **signature weapon** of Nsizwa warriors—a **short thrusting spear**, perfectly suited for **rapid and brutal close combat**.
 - Its blade is **broad and razor-sharp**, designed to **pierce armor and flesh alike**.
-- Unlike long spears that rely on distance, the **Iklwa demands aggression**, forcing warriors **into the enemy’s ranks** where they can fight with relentless speed.
-- Many **ancestral Iklwa are passed down through generations**, their blades believed to be **whispering spirits** that guide their wielders.
+- Unlike long spears that rely on distance, the **Inkandu demands aggression**, forcing warriors **into the enemy’s ranks** where they can fight with relentless speed.
+- Many **ancestral Inkandu are passed down through generations**, their blades believed to be **whispering spirits** that guide their wielders.
 
 ### **B. The Isihlangu – The War Shield**
 
 - A large **oval-shaped shield made from reinforced hide and enchanted wood**, often **painted with the symbols of a warrior’s lineage**.
-- The **Isihlangu is not just for defense**—it is used **to deflect, trap, and manipulate enemy weapons**, creating openings for a decisive Iklwa strike.
+- The **Isihlangu is not just for defense**—it is used **to deflect, trap, and manipulate enemy weapons**, creating openings for a decisive Inkandu strike.
 - Some elite warriors carry **shields infused with ancestral blessings**, said to **glow faintly in the presence of dark magic or cowardice**.
 
 ### **C. The Battle Axe and Throwing Spears**
 
-- While the Iklwa dominates Nsizwa combat, many warriors also carry **short-handled battle axes** or **throwing spears (Umkhonto)**.
-- The **battle axe** is used by **heavy warriors and Isidumbu**, its curved blade capable of **shattering armor and bone**.
+- While the Inkandu dominates Nsizwa combat, many warriors also carry **short-handled battle axes** or **throwing spears (Umkhonto)**.
+- The **battle axe** is used by **heavy warriors and Izivukwa**, its curved blade capable of **shattering armor and bone**.
 - The **Umkhonto** is often **ritually marked**, its blade dipped in a mixture of **herbs, ash, and warrior’s blood**, symbolizing **a bond between the weapon and the spirit world**.
 
 ---
@@ -69,50 +69,50 @@ The **Bull Horn Formation** is the **foundation of Nsizwa military strategy**, a
 
 _"The dead fight with us. The winds of war carry their voices."_
 
-Unlike conventional armies, the Nsizwa do not fight alone. **They fight alongside their ancestors**. Through **rituals, trance-inducing mooti, and spirit-channeling sangomas**, they turn the battlefield into **a place where the living and the dead strike as one**.
+Unlike conventional armies, the Nsizwa do not fight alone. **They fight alongside their ancestors**. Through **rituals, trance-inducing umhlwazi, and spirit-channeling sangomas**, they turn the battlefield into **a place where the living and the dead strike as one**.
 
 ### **A. Summoning Spectral Legions**
 
-- Before battle, **Izangoma and War-Sangoma** perform a **ritual dance**, calling forth **the spirits of warriors who fell before**.
+- Before battle, **Spirit-Keepers and War-Spirit-Keeper** perform a **ritual dance**, calling forth **the spirits of warriors who fell before**.
 - **Spectral warriors, glimpsed in flashes of blue light, charge alongside the living**, creating terror and confusion among enemies.
 - Some say that **the cold winds that rush across the battlefield** are the breath of the ancestors, **carrying their war cries and fury**.
 
-### **B. The Mooti of the War-Trance**
+### **B. The Umhlwazi of the War-Trance**
 
-- Warriors drink **sacred Mooti**, a herbal concoction that **enhances focus, suppresses fear, and sharpens reflexes**.
+- Warriors drink **sacred Umhlwazi**, a herbal concoction that **enhances focus, suppresses fear, and sharpens reflexes**.
 - In this **trance-like state**, warriors hear **the voices of their ancestors**, guiding them and filling them with an **overwhelming sense of purpose**.
 - This **state of battle-fury** is neither reckless nor blind—it is a **focused, divine clarity**, allowing warriors to **react with supernatural speed**.
 
 ### **C. The Ghost-Warriors**
 
-- Some elite warriors known as **Impisi (Ghost-Wolves)** undergo **intensive spirit-training**, allowing them to **move unseen, strike without sound, and blend into the shadows**.
+- Some elite warriors known as **War-hostsi (Ghost-Wolves)** undergo **intensive spirit-training**, allowing them to **move unseen, strike without sound, and blend into the shadows**.
 - These warriors are believed to **walk between the worlds of the living and the dead**, making them **feared assassins and scouts**.
 
 ---
 
-# **4. The Isidumbu War Hosts – The March of the Deathless**
+# **4. The Izivukwa War Hosts – The March of the Deathless**
 
 _"The dead do not rest until their duty is done."_
 
-When the battle turns dire, **the Isidumbu rise**. These **mummified warlords, sages, and warriors of ages past** emerge from their sacred tombs **only when the kingdom faces its greatest threats**.
+When the battle turns dire, **the Izivukwa rise**. These **mummified warlords, sages, and warriors of ages past** emerge from their sacred tombs **only when the kingdom faces its greatest threats**.
 
-### **A. Awakening the Isidumbu**
+### **A. Awakening the Izivukwa**
 
-- Only the **greatest Izangoma** can awaken an **Isidumbu**, calling their spirit **back into their preserved body**.
-- The Isidumbu **do not speak**—their minds are bound to **the singular purpose** they were called for.
-- Their presence alone **strikes terror into enemies**, for it is believed that **to see an Isidumbu means death is near**.
+- Only the **greatest Spirit-Keepers** can awaken an **Izivukwa**, calling their spirit **back into their preserved body**.
+- The Izivukwa **do not speak**—their minds are bound to **the singular purpose** they were called for.
+- Their presence alone **strikes terror into enemies**, for it is believed that **to see an Isivukwa means death is near**.
 
-### **B. The Role of the Isidumbu in Battle**
+### **B. The Role of the Izivukwa in Battle**
 
 - **The War-Kings:** These legendary rulers **lead entire armies**, their very presence granting warriors **superhuman endurance and resolve**.
-- **The Shieldbearers of the Past:** Some Isidumbu act as **unstoppable juggernauts**, defending key positions **until the last warrior has fallen**.
+- **The Shieldbearers of the Past:** Some Izivukwa act as **unstoppable juggernauts**, defending key positions **until the last warrior has fallen**.
 - **The Spirit-Blades:** Some wield **blades infused with their own soul**, cutting through enemies **as if striking at their very essence**.
 
-### **C. The Dangers of the Isidumbu**
+### **C. The Dangers of the Izivukwa**
 
-- The **more Isidumbu that are summoned**, the **weaker the barrier between the living and the dead becomes**.
-- If an Isidumbu is **destroyed beyond repair**, their spirit is **forever lost**.
-- If an Isidumbu **remains too long in the world**, they may become **restless, unable to return**, leading to **cursed lands or haunted battlefields**.
+- The **more Izivukwa that are summoned**, the **weaker the barrier between the living and the dead becomes**.
+- If an Isivukwa is **destroyed beyond repair**, their spirit is **forever lost**.
+- If an Isivukwa **remains too long in the world**, they may become **restless, unable to return**, leading to **cursed lands or haunted battlefields**.
 
 ---
 

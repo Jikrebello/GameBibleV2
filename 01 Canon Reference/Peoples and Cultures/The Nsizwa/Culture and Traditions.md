@@ -29,7 +29,7 @@ The **Night of a Thousand Fires** (Usuku Lwemililo Eyinengi) is the **most sacre
 
 - It is a night where **the ancestors walk freely**, and the Nsizwa gather to **honor the spirits of the past, seek omens, and celebrate the deeds of warriors**.
 - It is both a **festival of remembrance** and a **test of worthiness**, as warriors use the night to **prove they have not forgotten those who fought before them**.
-- The Izangoma perform **ceremonies to call forth spirits**, allowing **the dead to offer wisdom, warnings, or even challenges to the living**.
+- The Spirit-Keepers perform **ceremonies to call forth spirits**, allowing **the dead to offer wisdom, warnings, or even challenges to the living**.
 
 ### **B. The Rituals of the Night**
 
@@ -43,7 +43,7 @@ The **Night of a Thousand Fires** (Usuku Lwemililo Eyinengi) is the **most sacre
     - If a warrior lies or exaggerates, the fire before them will **turn to smoke**, a sign that the ancestors **reject their words**.
 3. **The Ghost Dance**
     
-    - The **Izangoma lead warriors in a trance-like dance**, designed to **connect them to the spirits of past fighters**.
+    - The **Spirit-Keepers lead warriors in a trance-like dance**, designed to **connect them to the spirits of past fighters**.
     - Some warriors claim that **in this state, they see their ancestors standing beside them, ready for battle once more**.
 4. **The Ritual of the Silent Spear**
     
@@ -74,7 +74,7 @@ The **Bloodless Hunt (Ukuzingela Okungenagazi)** is a **sacred coming-of-age tri
 
 1. **The Choosing of the Beast**
     
-    - The young warriors are assigned a **specific animal** to track, chosen by the **elders and the Izangoma**.
+    - The young warriors are assigned a **specific animal** to track, chosen by the **elders and the Spirit-Keepers**.
     - This can range from a **wild buffalo (strength)**, a **leopard (cunning)**, or an **eagle (wisdom and swiftness)**.
 2. **The Stalking Phase**
     
@@ -93,11 +93,11 @@ The **Bloodless Hunt (Ukuzingela Okungenagazi)** is a **sacred coming-of-age tri
 
 ---
 
-## **3. The Amadlozi Duels – Combat Guided by the Spirits**
+## **3. The Duels of the Honored Dead – Combat Guided by the Spirits**
 
 _"A warrior does not fight alone. Even in the arena, the ancestors stand beside him."_
 
-The **Amadlozi Duels** (Izimpi Zezithunzi) are **ritualized combat trials** where disputes, rivalries, and leadership challenges are settled **under the watchful gaze of the ancestors**.
+The **Duels of the Honored Dead** (Izwar-host Zezithunzi) are **ritualized combat trials** where disputes, rivalries, and leadership challenges are settled **under the watchful gaze of the ancestors**.
 
 ### **A. The Purpose of the Duels**
 
@@ -109,7 +109,7 @@ The **Amadlozi Duels** (Izimpi Zezithunzi) are **ritualized combat trials** wher
 
 1. **The Calling of the Spirits**
     
-    - Before the fight, the combatants enter **a trance-state**, where the **Izangoma invoke the spirits of their ancestors**.
+    - Before the fight, the combatants enter **a trance-state**, where the **Spirit-Keepers invoke the spirits of their ancestors**.
     - Some warriors claim to **feel their ancestors guiding their movements**, while others say they hear **whispers of advice or warnings**.
 2. **The Duel Itself**
     
@@ -119,7 +119,7 @@ The **Amadlozi Duels** (Izimpi Zezithunzi) are **ritualized combat trials** wher
 3. **The Judgment of the Spirits**
     
     - If a warrior **wins fairly**, they are seen as **favored by their ancestors**.
-    - If they **win through dishonor**, the **Izangoma may declare the spirits displeased**, leading to **punishment or exile**.
+    - If they **win through dishonor**, the **Spirit-Keepers may declare the spirits displeased**, leading to **punishment or exile**.
     - The defeated warrior must **perform an act of humility**, such as **offering tribute to the victor or seeking wisdom from the elders**.
 
 ---

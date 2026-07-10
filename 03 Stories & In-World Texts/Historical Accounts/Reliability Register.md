@@ -21,7 +21,7 @@ The backlog item from [[Needs Work]], executed: every in-world account rated on 
 - **A Soldier's Testament of the First Crusade** — *reliable*, with trauma distortion in the later passages.
 - **The Confession of Sir Renwalt of Dornheim** — *reliable and self-serving*; a confession is testimony about two people, and one of them is always the confessor.
 - **A Letter from Count Rhael Tovarin of Velos** — *disputed.* Genuine document; the Count is arguing a land claim while narrating history.
-- **A Sermon of Sheikh Qalim ibn Haraz** — *propaganda* in the technical sense: sincere Covenant homiletics; invaluable for how the Unsealing is remembered, useless for how it happened.
+- **A Sermon of Aqid Qalim ibn Haraz** — *propaganda* in the technical sense: sincere Covenant homiletics; invaluable for how the Unsealing is remembered, useless for how it happened.
 - **The Eclessian Account** — *propaganda.* The Sanctum's official memory: the fall as western failure, the Split as eastern pride.
 - **The Thalmyric Account** — *propaganda.* The Patriarchate's official memory: the fall as western betrayal, the Split as eastern fidelity. Read against the Eclessian Account, the two are a course in archive warfare.
 - **The Sestaran Account** — *disputed, and the most nearly honest*, because Sestara profits from accuracy; it is cynical about everyone equally, which is its own distortion.

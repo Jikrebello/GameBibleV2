@@ -40,7 +40,7 @@ _"Cattle are the blood of the kingdom; to control the herds is to control the la
 
 - The **wealthiest and most powerful men** in the Nsizwa lands are not merchants but **cattle lords**.
 - They own **vast grazing lands**, command **private warrior bands**, and **hold sway over political decisions**.
-- Even the **Nkosi (King)** must be wary of **cattle lords**, as they **control the kingdom’s economic backbone**.
+- Even the **War-King (King)** must be wary of **cattle lords**, as they **control the kingdom’s economic backbone**.
 
 ---
 
@@ -52,8 +52,8 @@ The Nsizwa are famed for their **mastery of crafting**, with their **weapons, ar
 
 ### **A. Master Weaponsmiths and Artisans**
 
-- The **Iklwa** (short stabbing spear) and **Isihlangu** (war shields) are **crafted with sacred rituals**, believed to be **guided by the ancestors**.
-- **Beadwork and Nkisi Talismans** are woven with **spiritual energy**, used for **protection, luck, and battle prowess**.
+- The **Inkandu** (short stabbing spear) and **Isihlangu** (war shields) are **crafted with sacred rituals**, believed to be **guided by the ancestors**.
+- **Beadwork and inkatho Talismans** are woven with **spiritual energy**, used for **protection, luck, and battle prowess**.
 - **Ivory carvings** are **traded with distant lands**, seen as **symbols of power and connection to the spirit world**.
 
 ### **B. Key Trade Goods**
@@ -61,20 +61,20 @@ The Nsizwa are famed for their **mastery of crafting**, with their **weapons, ar
 The Nsizwa engage in **regional trade**, offering:
 
 - **Weapons and armor** – Particularly their **ceremonial spears and enchanted shields**.
-- **Sacred Nkisi talismans** – Small artifacts containing **trapped spirits or blessings**.
+- **Sacred inkatho talismans** – Small artifacts containing **trapped spirits or blessings**.
 - **Rare hides and pelts** – Particularly **leopard skins**, worn only by **elite warriors and rulers**.
 - **Ivory and carved bone jewelry** – Used in **rituals and political gifting**.
 
 In exchange, they acquire:
 
 - **Gold, copper, and iron** – Used for **adornment and weapon-crafting**.
-- **Exotic herbs and dyes** – Used in **rituals, mooti (medicine), and warrior paints**.
-- **Fine textiles and exotic cloth** – Worn by **the ruling elite and Sangoma priests**.
+- **Exotic herbs and dyes** – Used in **rituals, umhlwazi (medicine), and warrior paints**.
+- **Fine textiles and exotic cloth** – Worn by **the ruling elite and Spirit-Keeper priests**.
 
 ### **C. Trade Restrictions**
 
-- **The Isidumbu (mummified warlords) are never to be traded or revealed to outsiders**—their existence is **a sacred secret**, meant only for the Nsizwa.
-- Foreigners who **ask too many questions about the Isidumbu** are treated with **suspicion** or **driven out**.
+- **The Izivukwa (mummified warlords) are never to be traded or revealed to outsiders**—their existence is **a sacred secret**, meant only for the Nsizwa.
+- Foreigners who **ask too many questions about the Izivukwa** are treated with **suspicion** or **driven out**.
 - Trade routes are **guarded by warrior-bands**, ensuring **Nsizwa goods do not fall into enemy hands**.
 
 ---

@@ -66,21 +66,21 @@ The Nsizwa lands experience **two dominant seasons**:
 - As the **rains fade**, the land **hardens, and water sources shrink**.
 - Warriors prepare for **skirmishes and raids**, as **cattle theft** becomes a means of proving one’s strength.
 - **Hunger and thirst test the people**, and those who survive grow **stronger and more resilient**.
-- This is **when the Isidumbu are most often called**, as **wars and great crises arise during times of hardship**.
+- This is **when the Izivukwa are most often called**, as **wars and great crises arise during times of hardship**.
 
 ---
 
 ## **3. Major Settlements of the Nsizwa**
 
-### **A. Nkosi’s Hold – The Seat of Power**
+### **A. Mzalu’s Hold – The Seat of Power**
 
 - The **capital city of the Nsizwa** sits atop a **fortified plateau**, **overlooking the vast savannas below**.
 - Protected by **high stone walls** and surrounded by **steep cliffs**, the only access is through **hidden tunnels** or the **Great Serpent Stairway**, a winding path carved into the mountainside.
 - The city is divided into **three districts**:
     - **The Warrior’s Quarter** – Home to **warriors, weapon forges, and training grounds**.
-    - **The Ancestral Court** – The heart of the city, housing the **Throne-Temple of the Nkosi**, the **Shrine of the Ancestors**, and the **tombs of past rulers**.
-    - **The Artisan District** – Where **craftsmen, traders, and healers** live, producing everything from **ritual masks to sacred Nkisi talismans**.
-- At its center stands the **Ibutho Arena**, where warriors **prove their worth before the ancestors**.
+    - **The Ancestral Court** – The heart of the city, housing the **Throne-Temple of the War-King**, the **Shrine of the Ancestors**, and the **tombs of past rulers**.
+    - **The Artisan District** – Where **craftsmen, traders, and healers** live, producing everything from **ritual masks to sacred inkatho talismans**.
+- At its center stands the **war-regiment Arena**, where warriors **prove their worth before the ancestors**.
 
 ---
 
@@ -95,7 +95,7 @@ The Nsizwa lands experience **two dominant seasons**:
 
 ### **C. The Fire Keepers’ Ascent – The Sacred Mountain**
 
-- A **towering peak**, home to the **most powerful Sangoma mystics**.
+- A **towering peak**, home to the **most powerful Spirit-Keeper mystics**.
 - Here, **elders perform rituals, study the stars, and preserve the knowledge of past ages**.
 - Only the **most worthy warriors and kings** are allowed to make the pilgrimage to this mountain.
 - It is said that **when the fire atop the mountain dims, dark times are coming**.

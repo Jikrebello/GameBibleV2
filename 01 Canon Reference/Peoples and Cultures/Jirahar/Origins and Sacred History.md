@@ -11,11 +11,11 @@ needs: []
 tags:
   - core-canon
 ---
-The Jirahar are a semi-nomadic people who claim **direct descent from the Great Prophet**, the divine leader who led humanity out of the **Great Glass Desert** at the beginning of days. They believe they are the only people who have remained faithful to the original laws and traditions of the **Path of the Chosen** (**Ra'adat al-Mukhtarin**).
+The Jirahar are a semi-nomadic people who claim **direct descent from the Great Prophet**, the divine leader who led humanity out of the **Great Glass Desert** at the beginning of days. They believe they are the only people who have remained faithful to the original laws and traditions of the **Path of the Chosen** (**Orakh Bekhirin**).
 
 ### **The Age of Bondage: Humanity Under the Giants**
 
-According to Jiraharin sacred history, humanity was once united under divine guidance, following the **Path of the One Above All**. However, in the time before the Great Prophet, humanity strayed from the Path, falling into the hands of the **Giants**, also known as **Mamalik al-Jababira**—great and terrible beings who enslaved mankind through brute strength, deception, and sorcery. The Giants ruled with absolute authority, dividing the world into vast domains where they forced the lesser peoples to labor and offer tribute.
+According to Jiraharin sacred history, humanity was once united under divine guidance, following the **Path of the One Above All**. However, in the time before the Great Prophet, humanity strayed from the Path, falling into the hands of the **Giants**, also known as **the Gabbarin Kingdoms**—great and terrible beings who enslaved mankind through brute strength, deception, and sorcery. The Giants ruled with absolute authority, dividing the world into vast domains where they forced the lesser peoples to labor and offer tribute.
 
 Each Giant kingdom imposed a different form of oppression:
 
@@ -61,7 +61,7 @@ In the generations that followed, most of those who had been freed **assimilated
 
 ### **The Eternal Journey and the Awaited One**
 
-The Jirahar believe that their journey will not end until the coming of **Al-Muntazar**, the **Awaited One**, the final Great Prophet who will **unite all Jirahar, restore the pure law, and lead them to dominion over the world**. Until that time, they must remain vigilant, ensuring that their customs, language, and traditions remain unchanged, resisting the influences of the foreign faiths that seek to corrupt them.
+The Jirahar believe that their journey will not end until the coming of **the Mesakha**, the **Awaited One**, the final Great Prophet who will **unite all Jirahar, restore the pure law, and lead them to dominion over the world**. Until that time, they must remain vigilant, ensuring that their customs, language, and traditions remain unchanged, resisting the influences of the foreign faiths that seek to corrupt them.
 
 This belief in their **divine destiny** has fueled both their **resistance to assimilation** and their **conflicts with the great religious and political powers of the world**, particularly the **Church of the Redeemer** and the **Ahl-e-Ahd**. They see themselves as **a people in exile, waiting for the day when they will reclaim their rightful place as the masters of the world.**
 

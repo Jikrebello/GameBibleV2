@@ -20,7 +20,7 @@ The **Church of the Redeemer** is the dominant faith of the western and eastern 
 - **The Eclessian Church (West)** – A rigid, hierarchical institution centered in **Eclessia**, with immense spiritual and political influence.
 - **The Thalmyric Church (East)** – A militant and mystical branch of the faith, deeply tied to the **endless wars** against the Ahl-e-Ahd.
 
-Both branches **worship the Redeemer, Isfir the Bound**, as the **final divine messenger**, rejecting the idea of **any future prophet**. This directly contradicts Jiraharin beliefs, which state that **Al-Muntazar, the Awaited One, is yet to come**, making the Jirahar and the Church **fundamentally irreconcilable** in their worldviews.
+Both branches **worship the Redeemer, Isfir the Bound**, as the **final divine messenger**, rejecting the idea of **any future prophet**. This directly contradicts Jiraharin beliefs, which state that **the Mesakha, the Awaited One, is yet to come**, making the Jirahar and the Church **fundamentally irreconcilable** in their worldviews.
 
 #### **Theological Opposition**
 
@@ -42,7 +42,7 @@ To the Jirahar, the Church represents **the greatest perversion of divine truth*
     - At various points in history, the **Eclessian nobility, with Church support, has laid siege to Jiraharin enclaves**, attempting to **forcefully integrate them into the faith**. These conflicts have only reinforced Jiraharin paranoia about assimilation.
 3. **The End-Times Conflict**
     
-    - Certain radical sects within both the **Eclessian and Thalmyric Churches** believe that **Al-Muntazar is not a savior but the foretold false messiah**, whose arrival will usher in a time of **tribulation and war**. These groups advocate **preemptive suppression of Jiraharin influence** to prevent his rise.
+    - Certain radical sects within both the **Eclessian and Thalmyric Churches** believe that **the Mesakha is not a savior but the foretold false messiah**, whose arrival will usher in a time of **tribulation and war**. These groups advocate **preemptive suppression of Jiraharin influence** to prevent his rise.
 
 While the **Eclessian Church** generally tolerates Jirahar **as long as they do not challenge its authority**, the **Thalmyric Church considers them a direct enemy**, especially given its emphasis on **purging heretics and reclaiming lost lands**.
 
@@ -50,14 +50,14 @@ While the **Eclessian Church** generally tolerates Jirahar **as long as they do 
 
 ### **The Ahl-e-Ahd** 
 
-The **Ahl-e-Ahd** faith, dominant in the northern deserts and eastern territories, claims to be **the final revelation of divine truth**. Their core belief that **the last prophet has already come** is a **direct contradiction to Jiraharin theology**, which states that **Al-Muntazar is yet to arrive**.
+The **Ahl-e-Ahd** faith, dominant in the northern deserts and eastern territories, claims to be **the final revelation of divine truth**. Their core belief that **the last prophet has already come** is a **direct contradiction to Jiraharin theology**, which states that **the Mesakha is yet to arrive**.
 
 This has led to centuries of **theological disputes, territorial conflicts, and occasional warfare** between the Jirahar and the Ahl-e-Ahd.
 
 #### **Doctrinal Clashes**
 
 - The **Ahl-e-Ahd** believe that their **final prophet** sealed divine revelation, making **any future prophetic claims blasphemous**.
-- The **Jirahar** reject this, seeing the Ahl-e-Ahd as **a misguided people** who were led astray by an **imperfect messenger** before Al-Muntazar's arrival.
+- The **Jirahar** reject this, seeing the Ahl-e-Ahd as **a misguided people** who were led astray by an **imperfect messenger** before the Mesakha's arrival.
 
 #### **Territorial Disputes**
 
@@ -83,7 +83,7 @@ The **Ahl-e-Ahd’s religious laws** include **strict restrictions on financial 
     - There have been multiple attempts to **convert the Jirahar by force**, often resulting in **rebellions and retaliatory raids**.
 3. **The Prophecy Dispute**
     
-    - The Ahl-e-Ahd teach that **Al-Muntazar does not exist**—his role having been **fulfilled by their final prophet**. The Jirahar see this as **the ultimate deception**, believing that the Ahl-e-Ahd have **deliberately obscured the true divine plan**.
+    - The Ahl-e-Ahd teach that **the Mesakha does not exist**—his role having been **fulfilled by their final prophet**. The Jirahar see this as **the ultimate deception**, believing that the Ahl-e-Ahd have **deliberately obscured the true divine plan**.
 
 While **trade between the two groups continues**, the relationship remains one of **deep mutual distrust**, with the Jirahar viewing the Ahl-e-Ahd as **false heirs to prophecy**, and the Ahl-e-Ahd seeing the Jirahar as **stubborn heretics clinging to an outdated faith**.
 
@@ -91,11 +91,11 @@ While **trade between the two groups continues**, the relationship remains one o
 
 ### **The Future of Jiraharin Religious Conflicts**
 
-As the **prophecies of Al-Muntazar’s return** grow ever more urgent in Jiraharin belief, tensions with **both the Church of the Redeemer and the Ahl-e-Ahd are expected to intensify**.
+As the **prophecies of the Mesakha’s return** grow ever more urgent in Jiraharin belief, tensions with **both the Church of the Redeemer and the Ahl-e-Ahd are expected to intensify**.
 
-- The **Eclessian and Thalmyric Churches** see the **Jirahar as a growing threat**, especially with the belief that **Al-Muntazar will challenge their dominion**.
+- The **Eclessian and Thalmyric Churches** see the **Jirahar as a growing threat**, especially with the belief that **the Mesakha will challenge their dominion**.
 - The **Ahl-e-Ahd will likely continue their efforts to eradicate Jiraharin influence**, especially in contested regions.
-- The Jirahar, for their part, are preparing for **a time of reckoning**, when Al-Muntazar will **destroy the false faiths and establish the Law of the Path worldwide**.
+- The Jirahar, for their part, are preparing for **a time of reckoning**, when the Mesakha will **destroy the false faiths and establish the Law of the Path worldwide**.
 
 For now, the Jirahar remain **a people in exile**, navigating a world that **rejects them**, yet believing that their time of **vindication is near**.
 

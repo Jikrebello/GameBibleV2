@@ -117,7 +117,7 @@ The **Jirahar are the only known possessors of black powder technology**, keepin
 
 - **A strategic deterrent** – If rulers knew of Jiraharin firepower, they might try to **seize it for themselves**.
 - **A trade advantage** – Control over **black powder ensures military superiority over bandits and warlords**.
-- **A religious obligation** – Some Jiraharin scholars believe that **firearms are divinely gifted**, meant to protect them until **Al-Muntazar arrives**.
+- **A religious obligation** – Some Jiraharin scholars believe that **firearms are divinely gifted**, meant to protect them until **the Mesakha arrives**.
 
 By **carefully controlling the spread of black powder**, the Jirahar ensure that **they alone possess this powerful technology**, making them **dangerous to challenge** despite their small numbers.
 
@@ -148,7 +148,7 @@ Despite their success, the Jirahar face **significant challenges** in maintainin
 
 The Jirahar **dominate trade not through numbers, but through intelligence, secrecy, and specialization**. Their **banking power, mastery of rare goods, teleportation networks, and black powder monopoly** make them **indispensable yet feared** in global commerce.
 
-However, as their enemies **grow wary of their influence**, the Jirahar must **constantly adapt, outmaneuver, and protect their secrets**, ensuring that **their dominance remains unchallenged until the day of Al-Muntazar’s return**.
+However, as their enemies **grow wary of their influence**, the Jirahar must **constantly adapt, outmaneuver, and protect their secrets**, ensuring that **their dominance remains unchallenged until the day of the Mesakha’s return**.
 
 ## Navigation
 

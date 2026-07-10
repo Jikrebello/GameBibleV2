@@ -13,7 +13,7 @@ tags:
 ---
 ## **“The Broken Contract and the Sword of the Faithful”**
 
-_A sermon of Sheikh Qalim ibn Haraz, Voice of the Contract and Orator of the Covenant Court_  
+_A sermon of Aqid Qalim ibn Haraz, Voice of the Contract and Orator of the Covenant Court_  
 Delivered in the Great Hall of Flame, Al-Qahur, on the Eve of the Unsealing
 
 > _“To all who breathe beneath the Covenant, hear this: We go not to conquer—we go to correct.”_

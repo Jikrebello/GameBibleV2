@@ -26,61 +26,61 @@ The foundation of Nsizwa spirituality is **ancestor veneration**. Unlike other c
 ### **A. How the Ancestors Guide the Living**
 
 - **Through Dreams and Visions:** A warrior may dream of a fallen ancestor before battle, receiving wisdom or warnings.
-- **Through Sangoma Mediation:** The Izangoma can commune with spirits, interpreting their will and channeling their power.
+- **Through Spirit-Keeper Mediation:** The Spirit-Keepers can commune with spirits, interpreting their will and channeling their power.
 - **Through Living Testaments:** Every great warrior and leader **inherits the essence** of those who came before them—whether through **weapons, tattoos, or even their own bloodline**.
 
 ### **B. The Great Kraal of the Ancestors**
 
 - The Nsizwa believe in **Ukuthula Ngaphansi—The Peace Below**, a vast ancestral **afterlife where the honored dead dwell**.
 - Only those who **die with honor and fulfill their destiny** may enter.
-- The greatest of them—warriors, kings, and Sangoma—**are not truly gone**, but instead await the day when they will be **called back into the world**.
+- The greatest of them—warriors, kings, and Spirit-Keeper—**are not truly gone**, but instead await the day when they will be **called back into the world**.
 
 ---
 
-## **2. The Isidumbu – The Deathless Guardians**
+## **2. The Izivukwa – The Deathless Guardians**
 
 _"What is death to a warrior whose name will never be forgotten?"_
 
-The **Isidumbu** are the **mummified champions, warlords, and sages** of the Nsizwa, **preserved beyond death** so that they may **return to fight once more**.
+The **Izivukwa** are the **mummified champions, warlords, and sages** of the Nsizwa, **preserved beyond death** so that they may **return to fight once more**.
 
-### **A. The Process of Becoming Isidumbu**
+### **A. The Process of Becoming Izivukwa**
 
 1. **Only the greatest warriors and leaders are chosen.**
 2. Their bodies undergo **ritual mummification**, using sacred resins and enchanted cloth.
 3. Their souls are **bound to their bodies through ancestral rites**, allowing them to be recalled when needed.
 
-### **B. Summoning the Isidumbu**
+### **B. Summoning the Izivukwa**
 
-- The Izangoma **invoke their names, offering blood, song, and sacred incense**.
+- The Spirit-Keepers **invoke their names, offering blood, song, and sacred incense**.
 - The spirit is **asked if it wishes to return**, and if the purpose is worthy, the body **reanimates**.
-- The Isidumbu do not return **indefinitely**—they rise **for a single task** and then fall dormant again.
+- The Izivukwa do not return **indefinitely**—they rise **for a single task** and then fall dormant again.
 - If their **body is destroyed beyond repair, they are lost forever**.
 
-### **C. Famous Isidumbu**
+### **C. Famous Izivukwa**
 
-- **Nkosi Yempi the Unifier** – The first warrior-king of the Nsizwa, said to have been summoned thrice in times of dire war.
-- **Sangoma Mahlangu the Spirit-Tamer** – The greatest of the Izangoma, who once **sealed a demon inside a war mask**.
+- **the War-King the Unifier** – The first warrior-king of the Nsizwa, said to have been summoned thrice in times of dire war.
+- **Spirit-Keeper Mahlezi the Spirit-Tamer** – The greatest of the Spirit-Keepers, who once **sealed a demon inside a war mask**.
 - **The Silent Legion** – Ten legendary generals who remain **entombed together**, waiting for the **day they must rise again**.
 
 ---
 
-## **3. The Maviyo (Sky Riders) – The Great Eagle Spirits**
+## **3. The Izulwane (Sky Riders) – The Great Eagle Spirits**
 
 _"The brave ride the wind. The coward is left behind."_
 
-The **Maviyo** are the Nsizwa’s version of **Valkyries**, but instead of celestial warriors, they are **great spirit-birds**, believed to be **the first souls of the ancestors**.
+The **Izulwane** are the Nsizwa’s version of **Valkyries**, but instead of celestial warriors, they are **great spirit-birds**, believed to be **the first souls of the ancestors**.
 
 ### **A. Their Role in Nsizwa Mythology**
 
-- When a warrior dies in battle, the **Maviyo descend**, lifting their soul and carrying it to the **Great Kraal of the Ancestors**.
-- Some say that the **greatest warriors become Maviyo themselves**, forever watching over their descendants.
-- If a **warrior sees a Maviyo before battle, it is a sign of either great fortune or impending death**.
+- When a warrior dies in battle, the **Izulwane descend**, lifting their soul and carrying it to the **Great Kraal of the Ancestors**.
+- Some say that the **greatest warriors become Izulwane themselves**, forever watching over their descendants.
+- If a **warrior sees a Izulwane before battle, it is a sign of either great fortune or impending death**.
 
-### **B. The Omens of the Maviyo**
+### **B. The Omens of the Izulwane**
 
-- A **lone Maviyo circling above** – A hero will fall today.
-- A **pair of Maviyo flying in unison** – The ancestors bless this battle.
-- A **Maviyo diving toward a warrior** – A sign that they will achieve great renown… or be taken by the spirits.
+- A **lone Izulwane circling above** – A hero will fall today.
+- A **pair of Izulwane flying in unison** – The ancestors bless this battle.
+- A **Izulwane diving toward a warrior** – A sign that they will achieve great renown… or be taken by the spirits.
 
 ---
 
@@ -121,7 +121,7 @@ Mpondondlwa **grants warriors and rulers unshakable confidence and power**, but 
 ### **IV. How the Nsizwa Overcome His Trial**
 
 - **The Mirrored Shields** – Warriors carry shields that reflect not their **physical form, but their spiritual flaws**, forcing them to **see themselves as they truly are**.
-- **The Kneeling Ceremony** – Before ascending to power, the Nkosi must **kneel before the tombs of the ancestors**, remembering that **he is only one among many**.
+- **The Kneeling Ceremony** – Before ascending to power, the War-King must **kneel before the tombs of the ancestors**, remembering that **he is only one among many**.
 - **The Song of the Griots** – Before battle, praise-singers tell **not just of a warrior’s greatness but also his weaknesses**, ensuring he **does not forget humility**.
 
 ---
@@ -151,7 +151,7 @@ Gqokangqubuka does not create rage—he merely **uncovers what is already there*
 #### **IV. How the Nsizwa Resist His Madness**
 
 - **The Cooling Ritual** – Before battle, warriors **burn incense and meditate**, calming their spirits to **tame their fury**.
-- **The Fire Charm** – The Nkosi wears **a charm woven from cooled volcanic rock**, symbolizing **wrath that is harnessed, not uncontrolled**.
+- **The Fire Charm** – The War-King wears **a charm woven from cooled volcanic rock**, symbolizing **wrath that is harnessed, not uncontrolled**.
 - **The Ritual of the Bound Spear** – A warrior must be able to **stop his blade an inch from his enemy’s throat**, proving he **controls his wrath, rather than being controlled by it**.
 
 ---
@@ -182,7 +182,7 @@ Ndhandhlazane does not steal or betray—**she merely suggests**. She plants **s
 
 - **The Oath of Open Hands** – Before taking leadership, a ruler must give **a great gift to his rival**, proving he has mastered **his own envy**.
 - **The Ritual of the Open Flame** – When Ndhandhlazane’s whispers grow loud, a warrior **writes his desires on dried leaves and burns them**, ensuring he controls them, not the other way around.
-- **The Mirror of Truth** – The Izangoma possess a **sacred mirror**, which shows **not what one desires, but what they truly are**, breaking Ndhandhlazane’s hold.
+- **The Mirror of Truth** – The Spirit-Keepers possess a **sacred mirror**, which shows **not what one desires, but what they truly are**, breaking Ndhandhlazane’s hold.
 
 ---
 

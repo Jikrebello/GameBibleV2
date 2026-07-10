@@ -64,7 +64,7 @@ The ransom-shame of Markellos (never again negotiate); the Nikandran grievance (
 ### The Vassal Thrones
 
 - **Al-Qahur** — **Caliph Uwais the Custodian-of-the-Wells** *(new)*: spiritual precedence, holy city, oasis of the 4,444; politically weak, liturgically indispensable (the Sharifian analog). His acknowledgment legitimizes Marzuq; his silence would wound him.
-- **Qazmarid** — **Caliph-Imam Zahran of the Sealed Blood** *(new)*: denies the Qahirid universal caliphate outright, claims descent from Ruqaiya bint Mujalib (see [[The Disputed Fourth Seal]]), and keeps what he says is the Counter-Instrument beneath his throne.
+- **Qazmarid** — **Caliph-Wasi Zahran of the Sealed Blood** *(new)*: denies the Qahirid universal caliphate outright, claims descent from Ruqaiya bint Mujalib (see [[The Disputed Fourth Seal]]), and keeps what he says is the Counter-Instrument beneath his throne.
 - **Zanthir** — **Emir Badis al-Zanthiri** *(new)*, capital Qabir: the Granada-remnant, last pearl of the Banu Mizan inheritance, paying tribute toward Iqashar and Veridun in alternating seasons, sheltering Jirahar quarters and Thalmyric exile-monks alike, universally assumed to be the next war's first battlefield and playing every court against that day.
 
 ## Sestara (light pass — expand with the Concord's own notes)
@@ -73,7 +73,7 @@ The Medori bank under **Duke Gaius Medori** ✓, Chairman and head of the family
 
 ## The Jirahar
 
-**High Keeper Zerahiah** *(new)*, first among the Keepers of the Path in the most sacred Tower Town: post-Meshalem orthodoxy incarnate — ferocious gatekeeping of prophecy, quiet finance, quieter memory. His standing ruling: any claimant to Al-Muntazar is presumed false until the Keepers rule otherwise, and the Keepers have never ruled otherwise. The irony canon (that this is exactly how a true one would be missed) stands.
+**High Keeper Zerahiah** *(new)*, first among the Keepers of the Path in the most sacred Tower Town: post-Meshalem orthodoxy incarnate — ferocious gatekeeping of prophecy, quiet finance, quieter memory. His standing ruling: any claimant to the Mesakha is presumed false until the Keepers rule otherwise, and the Keepers have never ruled otherwise. The irony canon (that this is exactly how a true one would be missed) stands.
 
 ## Open Threads
 

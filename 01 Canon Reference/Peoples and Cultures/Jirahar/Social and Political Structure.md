@@ -13,16 +13,16 @@ tags:
 ---
 The Jirahar possess a **highly structured yet flexible society**, designed to maintain **their traditions, autonomy, and survival** despite being a minority people in a world that is often hostile to them. Their society is divided between **two major societal groups**:
 
-1. **The Caravans** (**Terrochars and Aquanaves**) – The nomadic majority, constantly moving across **land and sea**, engaging in trade and maintaining Jiraharin presence across vast territories.
+1. **The Caravans** (**land-arks and water-arks**) – The nomadic majority, constantly moving across **land and sea**, engaging in trade and maintaining Jiraharin presence across vast territories.
 2. **The Tower Towns** – Fortified enclaves that serve as **centers of learning, commerce, and religious authority**, ensuring continuity for Jiraharin law and governance.
 
 At the highest level, Jiraharin society is governed by a **complex hierarchy of religious, legal, and economic leaders**, each responsible for **preserving the Path and ensuring the survival of their people**.
 
 ---
 
-## **The Caravans: Terrochars and Aquanaves**
+## **The Caravans: land-arks and water-arks**
 
-The majority of the Jirahar are **nomadic**, moving in massive caravans known as **Terrochars** (_Land Walkers_) or, in the case of maritime traders, **Aquanaves** (_Water Voyagers_). These caravans function as **self-contained communities**, equipped with **homes, marketplaces, religious sites, and defensive capabilities**, allowing the Jirahar to remain mobile while maintaining their customs.
+The majority of the Jirahar are **nomadic**, moving in massive caravans known as **land-arks** (_Land Walkers_) or, in the case of maritime traders, **water-arks** (_Water Voyagers_). These caravans function as **self-contained communities**, equipped with **homes, marketplaces, religious sites, and defensive capabilities**, allowing the Jirahar to remain mobile while maintaining their customs.
 
 ### **1. Structure of a Caravan**
 
@@ -83,7 +83,7 @@ Unlike the **loosely governed caravans**, Tower Towns are ruled by a **structure
 
 #### **Key Figures in a Tower Town**
 
-- **The High Priest of the Path (Imam al-Tariq)** – The highest religious authority, responsible for **interpreting divine law and guiding the faithful**.
+- **The High Priest of the Path (Wasi al-Tariq)** – The highest religious authority, responsible for **interpreting divine law and guiding the faithful**.
 - **The Keepers of the Scrolls** – An elite council of **legal scholars and judges** who oversee all disputes and ensure adherence to Jiraharin law.
 - **The Trade Council (Majlis al-Tijara)** – A group of powerful merchants responsible for **economic planning and financial regulation**.
 - **The Military Commander (Amir al-Haras)** – The leader of the **town guard**, responsible for its defense and military training.
@@ -120,7 +120,7 @@ This system has allowed the Jirahar to **persist for generations**, preserving t
 
 The Jirahar are a people who **move and endure**, balancing the **fluid adaptability of nomads with the permanence of fortified enclaves**. Their governance is a **blend of religious theocracy, merchant oligarchy, and nomadic tribalism**, creating a **resilient and deeply unified society**.
 
-Their belief that they are the **Chosen People, awaiting Al-Muntazar** drives their **rigid social structure, strict legalism, and economic strategies**, ensuring they will remain **a force to be reckoned with until prophecy is fulfilled**.
+Their belief that they are the **Chosen People, awaiting the Mesakha** drives their **rigid social structure, strict legalism, and economic strategies**, ensuring they will remain **a force to be reckoned with until prophecy is fulfilled**.
 
 ## Navigation
 

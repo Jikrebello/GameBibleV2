@@ -50,7 +50,7 @@ Already the vault's strongest mapping (ministry, execution, resurrection, persec
 
 ### The Jewish Diaspora → The Jirahar
 
-Temple destruction → the razing of the tower towns (300–400 AR); diaspora, legal-scholarly tradition (the Ta'arifat as Talmud), banking niches created by Church usury bans, ghettos, expulsions, blood-libel-style paranoia — all present in the vault already. The Al-Muntazar expectation is the messianic hope.
+Temple destruction → the razing of the tower towns (300–400 AR); diaspora, legal-scholarly tradition (the Peshara as Talmud), banking niches created by Church usury bans, ghettos, expulsions, blood-libel-style paranoia — all present in the vault already. The the Mesakha expectation is the messianic hope.
 
 **Recontextualization rule:** the vault's "corruption model" (some real capture, mostly weaponized paranoia, never 100% provable) is the right handling — it lets the setting depict persecution honestly without endorsing the persecutors' logic. Keep all Jirahar terminology through the filtered-analog rename pass.
 

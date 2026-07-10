@@ -43,8 +43,8 @@ The civilized world dates from the execution and resurrection of Isfir the Redee
 ## The Age of the Redeemer
 
 - **33 BR — Birth of Isfir** in a Jirahar tower town, eastern provinces.
-- **3 BR–0 — The Ministry.** The Companions: thirteen called, one struck (see [[The Twelve Companions of the Redeemer]]). **c. 15 AR — the conversion of Saint Aquilan the Turned** (born Sha'il ben Qoreth) on the road to Virelos. **c. 29–52 AR — the Companions' martyrdoms**, the Great Purge falling c. 36–45. **c. 55 AR — the Dormition of Amaryah the Fire-Bearer** at Veridun Minor (see [[Amaryah the Fire-Bearer]]).
-- **0 AR — The Binding at Caleran.** Trial under High Augur Severan of Astaroth and Lord-Scribe Ezrahel ben Qoreth; execution on the Pillar of Concordance; the third-night fire; the Holy Flame.
+- **3 BR–0 — The Ministry.** The Companions: thirteen called, one struck (see [[The Twelve Companions of the Redeemer]]). **c. 15 AR — the conversion of Saint Aquilan the Turned** (born Sha'il bar Qoreth) on the road to Virelos. **c. 29–52 AR — the Companions' martyrdoms**, the Great Purge falling c. 36–45. **c. 55 AR — the Dormition of Amaryah the Fire-Bearer** at Veridun Minor (see [[Amaryah the Fire-Bearer]]).
+- **0 AR — The Binding at Caleran.** Trial under High Augur Severan of Astaroth and Lord-Scribe Ezrahel bar Qoreth; execution on the Pillar of Concordance; the third-night fire; the Holy Flame.
 - **1–291 AR — The Underground Centuries.** The Forty Flames; the Ember Underground; the Fireless Trial; the Temple That Would Not Burn.
 - **292 AR — The Vision at the Stone Bridge of Velos.** The usurper **Cassian** sees the White Flame ("By this Flame, hold"), wins the civil war, legalizes the faith. Reigns to 316; baptized on his deathbed. *(Constantine, 312.)*
 - **348–351 AR — The Apostate Interlude.** **Astrion the Apostate** restores the stars, dies on desert campaign — "You have won, Carpenter." *(Julian.)*
@@ -64,7 +64,7 @@ The civilized world dates from the execution and resurrection of Isfir the Redee
 
 ## The Long Frontier (612–900 AR)
 
-- **612–870 AR — Coexistence and friction.** The Banu Mizan golden age: translation houses, water-courts, libraries. **Rav Yequtiel of Zanthir** (c. 748–831) writes the *Guide for the Wandering*. *(Umayyad Cordoba; Maimonides.)*
+- **612–870 AR — Coexistence and friction.** The Banu Mizan golden age: translation houses, water-courts, libraries. **Rab Yequtiel of Zanthir** (c. 748–831) writes the *Guide for the Wandering*. *(Umayyad Cordoba; Maimonides.)*
 - **874–878 AR — Second Crusade.** The attempt on the Velian States collapses. *(1147–49.)*
 - **c. 885–905 AR — The Qahirid Resurgence.** **Qahir ibn Ruzbeh** rebuilds the war machine: Ahdanite mass levies, siege-golem foundries. *(The Ottoman rise.)*
 

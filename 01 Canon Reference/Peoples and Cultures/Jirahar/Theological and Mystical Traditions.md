@@ -11,9 +11,9 @@ needs: []
 tags:
   - core-canon
 ---
-Beyond the **legalistic framework** that governs everyday Jiraharin life, there exists a **hidden, mystical dimension** to their faith—an esoteric system of thought known as **Al-Kalimat al-Khafiya** (_The Hidden Words_). This mystical tradition provides **deeper interpretations of the Scrolls**, uncovering **secrets, divine codes, and prophetic meanings** that are believed to **shape the fate of the Jirahar and the world itself**.
+Beyond the **legalistic framework** that governs everyday Jiraharin life, there exists a **hidden, mystical dimension** to their faith—an esoteric system of thought known as **Millin Setharin** (_The Hidden Words_). This mystical tradition provides **deeper interpretations of the Scrolls**, uncovering **secrets, divine codes, and prophetic meanings** that are believed to **shape the fate of the Jirahar and the world itself**.
 
-While **Jiraharin law (Ahkam al-Sabil)** dictates how life must be lived, **Al-Kalimat al-Khafiya** seeks to explain **why** things are as they are, exploring **the cosmic order, the fate of the Chosen People, and the hidden signs that foretell the coming of Al-Muntazar**.
+While **Jiraharin law (Ahkam al-Sabil)** dictates how life must be lived, **Millin Setharin** seeks to explain **why** things are as they are, exploring **the cosmic order, the fate of the Chosen People, and the hidden signs that foretell the coming of the Mesakha**.
 
 The **Keepers of the Veil** are the select group of scholars, mystics, and ascetics who devote their lives to the **study of these hidden truths**, believing that **unraveling the mysteries of the Path will hasten the return of the Awaited One**.
 
@@ -21,7 +21,7 @@ The **Keepers of the Veil** are the select group of scholars, mystics, and ascet
 
 ## **1. The Hidden Words: The Mystical Foundation of Jiraharin Thought**
 
-Al-Kalimat al-Khafiya is built on the belief that **all things in existence are part of a divine pattern**, one that can be **deciphered only by those who possess the wisdom to see beyond the surface**. The laws of the universe, historical events, and even the **rise and fall of civilizations** are said to follow a **predetermined structure**, revealed in the **Scrolls of the Path**.
+Millin Setharin is built on the belief that **all things in existence are part of a divine pattern**, one that can be **deciphered only by those who possess the wisdom to see beyond the surface**. The laws of the universe, historical events, and even the **rise and fall of civilizations** are said to follow a **predetermined structure**, revealed in the **Scrolls of the Path**.
 
 Those who master this knowledge can **foresee the future, interpret divine will, and align themselves with cosmic forces**, ensuring that they remain **true to the Path while preparing for the final reckoning**.
 
@@ -30,7 +30,7 @@ Those who master this knowledge can **foresee the future, interpret divine will,
 1. **The World as a Divine Code (Al-Ramz al-Kabir)**
     
     - The physical world is not random but follows **an intricate pattern laid down by the One Above All**.
-    - Every **historical event, natural phenomenon, and human action** is a piece of **a grand puzzle** that, when fully understood, will reveal **the exact moment of Al-Muntazar’s arrival**.
+    - Every **historical event, natural phenomenon, and human action** is a piece of **a grand puzzle** that, when fully understood, will reveal **the exact moment of the Mesakha’s arrival**.
     - The Scrolls contain **hidden ciphers**—encoded within the letters and structure of the text—that only trained mystics can decipher.
 2. **The Significance of Numbers and Symbols (Ilm al-A'dad wa’l-Rumuz)**
     
@@ -56,17 +56,17 @@ The **Keepers of the Veil (Hafiz al-Sitr)** are a **clandestine order of scholar
 - **Guarding Forbidden Texts** – Certain books and scrolls contain **knowledge too powerful or dangerous for ordinary scholars**, and only the Keepers may read them.
 - **Conducting Mystical Experiments** – Some Keepers attempt to **test theories about divine patterns**, experimenting with symbols, numerology, and sacred rituals.
 
-It is said that when **Al-Muntazar appears**, he will first **reveal himself to the Keepers**, as they are the only ones **prepared to recognize the true signs** of his coming.
+It is said that when **the Mesakha appears**, he will first **reveal himself to the Keepers**, as they are the only ones **prepared to recognize the true signs** of his coming.
 
 ---
 
-## **3. The Prophecies and the Search for Al-Muntazar**
+## **3. The Prophecies and the Search for the Mesakha**
 
-At the heart of **Jiraharin mysticism** is the **obsessive search for signs of Al-Muntazar**, the prophesied leader who will **restore the true faith, overthrow the false gods, and lead the Jirahar to reclaim their divine inheritance**.
+At the heart of **Jiraharin mysticism** is the **obsessive search for signs of the Mesakha**, the prophesied leader who will **restore the true faith, overthrow the false gods, and lead the Jirahar to reclaim their divine inheritance**.
 
-### **The Five Major Signs of Al-Muntazar’s Arrival**
+### **The Five Major Signs of the Mesakha’s Arrival**
 
-According to the **Scroll of Prophecies (Sahifat al-Nubuwwat)**, there are **five great omens** that will signal the imminent arrival of the Awaited One:
+According to the **Scroll of Prophecies (Sifra d'Nevai)**, there are **five great omens** that will signal the imminent arrival of the Awaited One:
 
 1. **The Collapse of False Thrones**
     
@@ -83,7 +83,7 @@ According to the **Scroll of Prophecies (Sahifat al-Nubuwwat)**, there are **fiv
 4. **The Voice from the Desert**
     
     - A great **spiritual leader will rise** in the wilderness, claiming to speak with **the wisdom of the Great Prophet**.
-    - Many false claimants have appeared over the centuries, but the **true Al-Muntazar will be recognized by the Keepers through hidden signs**.
+    - Many false claimants have appeared over the centuries, but the **true the Mesakha will be recognized by the Keepers through hidden signs**.
 5. **The Breaking of the Seven Seals**
     
     - Seven **sacred artifacts**, hidden since the days of the Great Prophet, will be **discovered and reassembled**, signaling the **final fulfillment of prophecy**.
@@ -107,7 +107,7 @@ Many of these practices remain **hidden from ordinary Jirahar**, as **revealing 
 
 Jiraharin mysticism is **an intricate web of prophecy, numerology, and esoteric knowledge**, seeking to **decode the divine order of existence**. While the legalistic traditions of the Jirahar **govern their outer lives**, the Hidden Words offer a **deeper, secret path** for those who seek **true enlightenment**.
 
-The **Keepers of the Veil**, through their study of **signs, celestial patterns, and hidden codes**, believe that they are the **custodians of fate itself**, working in secret to prepare the Jirahar for the **final revelation**—the day when **Al-Muntazar will lead them to reclaim the world as their rightful inheritance**.
+The **Keepers of the Veil**, through their study of **signs, celestial patterns, and hidden codes**, believe that they are the **custodians of fate itself**, working in secret to prepare the Jirahar for the **final revelation**—the day when **the Mesakha will lead them to reclaim the world as their rightful inheritance**.
 
 ## Navigation
 

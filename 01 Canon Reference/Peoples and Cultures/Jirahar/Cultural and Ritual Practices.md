@@ -17,7 +17,7 @@ Their **ritual laws (Ahkam al-Sabil)** govern:
 
 1. **Daily Rituals** – Structured prayers, ablutions, and the sacred structuring of time.
 2. **Marriage Laws** – Arranged marriages with strict purity codes, conversion requirements, and legal contracts.
-3. **Pilgrimages** – The sacred journeys to lost sites, particularly **Al-Madinat al-Khaliyah** (_The Empty City_), where Al-Muntazar is prophesied to appear.
+3. **Pilgrimages** – The sacred journeys to lost sites, particularly **Qiryath Reqa** (_The Empty City_), where the Mesakha is prophesied to appear.
 
 Each of these aspects forms the **foundation of Jiraharin identity**, reinforcing their belief that they are the **Chosen People of the Path**.
 
@@ -44,7 +44,7 @@ The Jirahar believe that **every action, no matter how small, must be done in ac
     - Even minor exchanges, like purchasing food, involve **formal blessings and witnessed agreements**.
 4. **The Sunset Covenant (Ahd al-Maghrib)**
     
-    - At sunset, families gather to **renew their daily oaths**, reciting verses about **loyalty to the Path and the coming of Al-Muntazar**.
+    - At sunset, families gather to **renew their daily oaths**, reciting verses about **loyalty to the Path and the coming of the Mesakha**.
     - This ensures that **each Jirahari ends the day in divine alignment**, free from the influence of outsiders.
 5. **The Night Vigil (Sahirat al-Layl)**
     
@@ -84,14 +84,14 @@ Jiraharin weddings are highly structured, involving:
 
 ## **3. Pilgrimages: The Journey to Sacred Lands**
 
-Pilgrimage is a **fundamental obligation** in Jiraharin life, symbolizing both **the physical and spiritual journey** towards the final fulfillment of prophecy. The most important of these journeys is the **pilgrimage to Al-Madinat al-Khaliyah** (_The Empty City_), the prophesied place where **Al-Muntazar will appear**.
+Pilgrimage is a **fundamental obligation** in Jiraharin life, symbolizing both **the physical and spiritual journey** towards the final fulfillment of prophecy. The most important of these journeys is the **pilgrimage to Qiryath Reqa** (_The Empty City_), the prophesied place where **the Mesakha will appear**.
 
 ### **The Three Great Pilgrimages**
 
-#### **1. The Journey to Al-Madinat al-Khaliyah (Rahlat al-Muntazar)**
+#### **1. The Journey to Qiryath Reqa (the Masa d'Mesakha, the Awaited One's Road)**
 
 - Considered **the holiest pilgrimage**, this journey is only undertaken by the most devout Jirahar.
-- It is believed that **one day, Al-Muntazar will appear in the Empty City**, calling the Jirahar to reclaim their divine inheritance.
+- It is believed that **one day, the Mesakha will appear in the Empty City**, calling the Jirahar to reclaim their divine inheritance.
 - Pilgrims travel **on foot, following the route inscribed in the Scrolls of Journeys**, ensuring they **retrace the path of the Great Prophet**.
 - Upon reaching the Empty City, they **fast for seven days**, meditating on the coming of the Awaited One.
 
@@ -110,14 +110,14 @@ Pilgrimage is a **fundamental obligation** in Jiraharin life, symbolizing both *
 While the three major pilgrimages are the most sacred, the Jirahar also conduct **smaller annual journeys**, including:
 
 - **The Caravan of Remembrance** – A ritual journey that retraces the **Great Prophet’s escape from the lands of the Giants**.
-- **The Night of Waiting** – A yearly vigil held in **every Tower Town**, where Jirahar gather to pray for **the coming of Al-Muntazar**.
+- **The Night of Waiting** – A yearly vigil held in **every Tower Town**, where Jirahar gather to pray for **the coming of the Mesakha**.
 - **The Festival of the First Fire** – Celebrating the discovery of black powder, a gift believed to have been **sent by the divine to protect the Chosen People**.
 
 ---
 
 ## **Conclusion**
 
-The Jiraharin way of life is **deeply structured, legalistic, and centered on divine obedience**. Their **daily rituals, strict marriage laws, and sacred pilgrimages** reinforce their belief that they are **the only people preserving the true Path**, awaiting the day when **Al-Muntazar will return to restore their rightful place in the world**.
+The Jiraharin way of life is **deeply structured, legalistic, and centered on divine obedience**. Their **daily rituals, strict marriage laws, and sacred pilgrimages** reinforce their belief that they are **the only people preserving the true Path**, awaiting the day when **the Mesakha will return to restore their rightful place in the world**.
 
 Through **unceasing devotion, meticulous tradition, and unwavering faith**, the Jirahar continue their journey, ensuring that their customs will endure **until the end of days**.
 

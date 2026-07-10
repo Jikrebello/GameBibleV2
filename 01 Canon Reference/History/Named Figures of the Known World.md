@@ -20,7 +20,7 @@ The people behind the [[Chronology of the Known World (AR Dating)]]. Each entry:
 
 ## The Age of the Redeemer
 
-**Lord-Scribe Ezrahel ben Qoreth** (fl. 0 AR) — the Caiaphas. Head of the Jirahar Council of Scribes at Isfir's trial. Not a cartoon: he sincerely believed Isfir would bring imperial fire down on every tower town, and chose one man's death over a people's. He was right about the fire and wrong about everything else — the pogroms came anyway, a century later, in the converted empire's name. Jirahar tradition never mentions him; Church tradition never stops.
+**Lord-Scribe Ezrahel bar Qoreth** (fl. 0 AR) — the Caiaphas. Head of the Jirahar Council of Scribes at Isfir's trial. Not a cartoon: he sincerely believed Isfir would bring imperial fire down on every tower town, and chose one man's death over a people's. He was right about the fire and wrong about everything else — the pogroms came anyway, a century later, in the converted empire's name. Jirahar tradition never mentions him; Church tradition never stops.
 
 **High Augur Severan of Astaroth** (fl. 0 AR) — the Pilate. Presided over the execution; the man who said "Let the stars see him." In-world his augural record survives in fragments: his last recorded reading, three days after the execution, is a single line — *the stars did not answer*. Sestaran humanists pay fortunes for alleged pages of the Severan Fragments.
 
@@ -28,7 +28,7 @@ The people behind the [[Chronology of the Known World (AR Dating)]]. Each entry:
 
 **Amaryah the Fire-Bearer** (d. c. 55 AR) — the Mary, and the faith's great theological dispute (see [[Amaryah the Fire-Bearer]]): Fire-Bearer or Man-Bearer (the Ephesus fight, settled at Halmenth 411 AR — whose losers survive as the [[The Velian Church|Velian Church]] under Covenant contract); Dormition (East) against defined Unkindled Conception and bodily Rising (West); honored-not-invoked (Freeflame); and a pending apparition case at Vessing (1352 AR) the Sanctum dares not rule on.
 
-**Saint Aquilan the Turned** (d. c. 45 AR) — the Paul, of Jirahar blood and training. Born **Sha'il ben Qoreth**, kinsman of the Lord-Scribe who condemned Isfir, Keeper-trained, Atherian citizen; as "Aquilan the Hound" the Purge's fiercest prosecutor, struck blind on the Virelos road and baptized by the congregation he came to arrest. Apostle to the nations; his **Epistles** ("fulfilled, not abolished") are the hinge of supersession and thus of four centuries of pogroms he never saw. The Freeflame quote his seatless commission against both hierarchies; the Jirahar keep the exact and unforgiving formula: *"The carpenter we mourn. The scribe we cannot forgive."*
+**Saint Aquilan the Turned** (d. c. 45 AR) — the Paul, of Jirahar blood and training. Born **Sha'il bar Qoreth**, kinsman of the Lord-Scribe who condemned Isfir, Keeper-trained, Atherian citizen; as "Aquilan the Hound" the Purge's fiercest prosecutor, struck blind on the Virelos road and baptized by the congregation he came to arrest. Apostle to the nations; his **Epistles** ("fulfilled, not abolished") are the hinge of supersession and thus of four centuries of pogroms he never saw. The Freeflame quote his seatless commission against both hierarchies; the Jirahar keep the exact and unforgiving formula: *"The carpenter we mourn. The scribe we cannot forgive."*
 
 ## The Conversion Era
 
@@ -118,9 +118,9 @@ The people behind the [[Chronology of the Known World (AR Dating)]]. Each entry:
 
 ## The Jirahar Thread
 
-**Rav Yequtiel of Zanthir, "the Lamp of the Exile"** (c. 748–831 AR) — the Maimonides. Physician to a Banu Mizan emir and the Path's greatest philosopher; his *Guide for the Wandering* reconciled Scroll legalism with Atherian philosophy and is studied, denounced, and depended upon in equal measure by every Keeper of the Scrolls since.
+**Rab Yequtiel of Zanthir, "the Lamp of the Exile"** (c. 748–831 AR) — the Maimonides. Physician to a Banu Mizan emir and the Path's greatest philosopher; his *Guide for the Wandering* reconciled Scroll legalism with Atherian philosophy and is studied, denounced, and depended upon in equal measure by every Keeper of the Scrolls since.
 
-**Meshalem the Twice-Turned** (c. 1260–1303 AR) — the Sabbatai Zevi. Proclaimed himself Al-Muntazar in 1288; half the diaspora's tower towns sold their goods and began the return. Arrested by Qahirid authorities in 1291 and offered the choice of proof or conversion, he converted. The catastrophe — worse than any pogrom, because self-inflicted — explains the present-day Keepers' ferocious gatekeeping of prophecy and the "paranoia is politically useful" canon: after Meshalem, every claimant is presumed false, which is exactly the environment in which a true one would be missed. That irony is load-bearing; keep it.
+**Meshalem the Twice-Turned** (c. 1260–1303 AR) — the Sabbatai Zevi. Proclaimed himself the Mesakha in 1288; half the diaspora's tower towns sold their goods and began the return. Arrested by Qahirid authorities in 1291 and offered the choice of proof or conversion, he converted. The catastrophe — worse than any pogrom, because self-inflicted — explains the present-day Keepers' ferocious gatekeeping of prophecy and the "paranoia is politically useful" canon: after Meshalem, every claimant is presumed false, which is exactly the environment in which a true one would be missed. That irony is load-bearing; keep it.
 
 ## Suggested Next Passes
 

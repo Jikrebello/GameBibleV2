@@ -40,12 +40,12 @@ While still powerful, Iqashar’s influence is waning as it turns inward to prot
 **Inspiration**: Umayyad Dynasty  
 **Capital**: **Al-Qahur**  
 **Territory**: The **Oasis of Flames**, a fertile and sacred land created through powerful contracts with the **4444 devils**.  
-**Ruling Class**: The **Imam-King of Al-Qahur**, the religious and political leader of the caliphate.
+**Ruling Class**: The **Wasi-King of Al-Qahur**, the religious and political leader of the caliphate.
 
 **Overview**:  
 The **Caliphate of Al-Qahur** is seen as the spiritual heart of the **Al-Ahdiya religion**. According to legend, the oasis that sustains the city was created by the **Great Prophet** of the Ahl-e-Ahd, who commissioned **4444 devils** to dig the oasis as part of a massive contract. The city itself is considered a **holy site**, and millions of Ahl-e-Ahd believers make **pilgrimages** to Al-Qahur each year to pay homage to the prophet and the site where the first contracts were forged.
 
-Al-Qahur is ruled by the **Imam-King**, a spiritual leader who oversees both the religious and secular life of the caliphate. The city's vast wealth comes from **religious tourism**, as well as its fertile lands, which are irrigated by the oasis. However, the laws of Al-Qahur are among the most **strict** in the Ahl-e-Ahd world, with severe punishments for any breach of contracts. Outsiders are treated with disdain, and their presence is heavily regulated.
+Al-Qahur is ruled by the **Wasi-King**, a spiritual leader who oversees both the religious and secular life of the caliphate. The city's vast wealth comes from **religious tourism**, as well as its fertile lands, which are irrigated by the oasis. However, the laws of Al-Qahur are among the most **strict** in the Ahl-e-Ahd world, with severe punishments for any breach of contracts. Outsiders are treated with disdain, and their presence is heavily regulated.
 
 **Slavery** is a prominent part of society, and non-Ahl-e-Ahd slaves, especially those captured from **raids** into foreign territories, are tasked with maintaining the city’s infrastructure and working the fields.
 
