@@ -17,6 +17,8 @@ The master index of the world's hostile networks — the named answer to the set
 
 ## How the Left Hand Is Organized (authorial doctrine)
 
+The physical library mirrors the four hostile economies: **10 Refusal**, **20 Idol Networks**, **30 Patron Economy**, and **40 Soul-Route Predation**.
+
 Evil in the World Egg is **plural and competitive**, not a pyramid. Four distinct supply chains, often mistaken for one another in-world:
 
 1. **The Adversary's project** (refusal): counter-churches and false prophets — [[The Hollow Flame Cult]].

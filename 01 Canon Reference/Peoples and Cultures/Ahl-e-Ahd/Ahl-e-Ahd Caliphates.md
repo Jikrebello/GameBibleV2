@@ -112,6 +112,7 @@ These caliphates each uphold the **contract-based laws** that define Ahl-e-Ahd s
 
 ## Navigation
 
+- [[The Ahl-e-Ahd Overview]]
 - [[Canon Index]]
 - [[Canon Index]]
 

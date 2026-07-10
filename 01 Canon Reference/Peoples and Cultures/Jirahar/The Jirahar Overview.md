@@ -108,7 +108,7 @@ Their society is governed by the **Keepers of the Path**, elders responsible for
 
 ---
 
-## **5. [Economy and Trade](World%20History/People%20and%20Cultures/Jirahar/version%202%20(most%20current)/Economy%20and%20Trade.md)**
+## **5. [[Jirahar Economy and Trade|Economy and Trade]]**
 
 The Jirahar thrive on **trade and finance**, excelling in:
 
@@ -179,3 +179,7 @@ The six great towers, the Empty City, and the Way-Gate network are detailed in [
 ## Naming Register (locked)
 
 The Jirahar tongue is the **archaic branch** of the desert language family (sister to the Covenant tongue, as their peoples are estranged siblings of the Scattering) — the dialect the Redeemer spoke, preserved liturgically by the Velian Church. Register rules: **d'-** genitives (Sifra d'Dinai), endings in **-a / -atha / -in**, patronymic **bar** (bath for daughters). Core lexicon: **the Mesakha** (the Awaited One), **the Orakha / Orakh Bekhirin** (the Path), the **Sifra d'Dinai / d'Masai / d'Nevai** (the three Scrolls), **the Peshara** (interpretations), **She'eltha** (legal queries), **Aggadatha** (narratives), **Mishletha** (proverbs), **Millin Setharin** (the Hidden Words), **Qiryath Reqa** (the Empty City). Forbidden verbatim: real-world liturgical/communal terms.
+
+## Navigation
+
+- [[Cultures MOC]]

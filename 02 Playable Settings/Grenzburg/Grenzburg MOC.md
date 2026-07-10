@@ -17,22 +17,18 @@ tags: []
 
 Grenzburg is the first playable testbed for the setting: a frontier duchy trying to survive winter, debt, migration pressure, relic politics, and the ambitions of every power that claims to be helping.
 
-## Start Here
+## 10 Production Bible
 
 - [[Grenzburg Vertical Slice Dossier]]
 - [[Grenzburg Numbers and Constraints]]
 - [[Grenzburg as Vertical Slice]]
-- [[Factions Overview]]
+
+## 20 Region and Locations
+
 - [[Grenzburg Regional Geography]]
-- [[Three-Act Overview]]
-- [[Companion Quests]]
-- [[ACT I AUTUMN'S HARVEST]]
-- [[ACT II WINTER'S TEETH]]
-- [[ACT III SPRING'S ROOTS]]
 
-## Cast and Factions
+## 30 Characters
 
-- [[Factions Overview]]
 - [[Duke Alaric von Grenzburg]]
 - [[Castellan Pierre Hohenwall]]
 - [[Lord High Bailiff Enzo Voss]]
@@ -41,11 +37,24 @@ Grenzburg is the first playable testbed for the setting: a frontier duchy trying
 - [[Bishop-Prelate Caestus]]
 - [[Magister Leviticus of Sestaren]]
 - [[Sir Gerhold Brandt]]
+
+## 40 Factions
+
+- [[Factions Overview]]
 - [[The Grobi]]
 - [[The Folk Clans]]
 - [[The Medori Bank]]
 - [[The Frontier Industry Lords]]
 - [[The Seasonal Village Headmen]]
+
+## 50 Campaign
+
+- [[Campaign Structure Notes (Open-World Pacing)]]
+- [[Three-Act Overview]]
+- [[Companion Quests]]
+- [[ACT I AUTUMN'S HARVEST]]
+- [[ACT II WINTER'S TEETH]]
+- [[ACT III SPRING'S ROOTS]]
 
 ## Threats and Creature Dossiers
 
@@ -67,4 +76,3 @@ Grenzburg is the first playable testbed for the setting: a frontier duchy trying
 ## Game-Use Checklist
 
 Each Grenzburg note should make clear: material survival pressure, faction legitimacy pressure, metaphysical consequence, what changes by season, what bargain has a cost, and what quest naturally emerges.
-

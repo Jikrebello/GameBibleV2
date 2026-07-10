@@ -74,5 +74,6 @@ Mujalib received a series of revelations from **Malak al-Ahd**, which were later
 
 ## Navigation
 
+- [[The Ahl-e-Ahd Overview]]
 - [[Canon Index]]
 - [[Canon Index]]

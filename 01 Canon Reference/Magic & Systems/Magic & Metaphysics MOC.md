@@ -13,6 +13,14 @@ tags: []
 ---
 # Magic & Metaphysics MOC
 
+## Physical Library
+
+- **10 Principles and Overview:** the common system vocabulary.
+- **20 Sacred and Restorative Magic:** [[White Flame Doctrine]] and [[The Making of Saints]].
+- **30 Contracts and Patrons:** [[Contract Magic and True Names]] and [[Patrons and Astral Rent]].
+- **40 Rune and Shell Magic:** [[Warlock Rune Magic]].
+- **50 Thresholds and Soul-Routing:** [[Thin Spaces]] and [[Soul Routing and the Vestibule]].
+
 ## Core Systems
 
 - [[Magic Systems Overview]]

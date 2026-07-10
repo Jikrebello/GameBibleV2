@@ -72,3 +72,7 @@ Current rulers and political alignments are indexed in [[Present-Day Courts and 
 ## Story Use
 
 Eclessian stories naturally arise from contested legitimacy, confessional borders, relic evidence, noble debt, guild autonomy, peasant flight, reform preaching, inquisitorial jurisdiction, and the gap between an institution's holy purpose and the people who wield it. [[Grenzburg MOC]] is the first playable concentration of those pressures.
+
+## Navigation
+
+- [[Cultures MOC]]

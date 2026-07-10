@@ -13,6 +13,13 @@ tags: []
 ---
 # Cosmology MOC
 
+## Physical Library
+
+- **10 Foundations:** [[The World Egg Cosmology]], [[Who’s Who in the Cosmology]], [[Names of the Menhir, Masks of the Idols]], and [[The Lord and Redeemer]].
+- **20 Realms and Soul-Routes:** [[Material Realm Overview]], [[Elemental Shell and the Four Planes]], the Astral Plane, and [[The Vestibule of Weighing]].
+- **30 Menhir:** [[The Second Circle]], [[The Three-Bodied God Overview]], [[The Horsemen Overview]], and the relationships between them.
+- **40 Idols and Adversary:** [[The Idols Overview]], its seven powers, and [[The Adversary]].
+
 ## Start Here
 
 - [[Material Realm Overview]]
@@ -46,4 +53,3 @@ tags: []
 ## Canon Note
 
 The World Egg primer is treated as the current top-level canon. The Material Realm is the grounded base plane; stranger layers pressure, rupture, overlay, or weaponize it rather than replacing ordinary reality.
-

@@ -13,6 +13,10 @@ tags: []
 ---
 # Cultures MOC
 
+## Physical Library
+
+Every culture keeps its overview at the culture root. Larger cultures then use the same numbered sequence where material exists: **10 Foundations**, **20 Faith and Worldview**, **30 Society and Daily Life**, **40 Government and Institutions**, **50 Economy and Warfare**, **60 Realms and Peoples**, and **70 History and Conflicts**. Smaller cultures remain intentionally shallow.
+
 ## Continental Powers
 
 - [[Eclessia Cultural Thesis]]

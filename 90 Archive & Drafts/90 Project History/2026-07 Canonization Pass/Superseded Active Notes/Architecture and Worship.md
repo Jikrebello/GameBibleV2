@@ -1,0 +1,29 @@
+---
+type: reference
+status: archived
+canon_level: obsolete
+visibility: author-only
+era: []
+region: ["Thalmyria"]
+culture: ["Thalmyric"]
+related_factions: ["Thalmyric Church"]
+appears_in: []
+needs: ["Expand from Thalmyric Empire Overview and Thalmyric Church Architecture."]
+superseded_by: "[[01 Canon Reference/Peoples and Cultures/The Thalmyric Empire/Thalmyric Church Architecture]]"
+tags: []
+archive_reason: project-history
+archived_from: "90 Archive & Drafts\Project History\2026-07 Canonization Pass\Superseded Active Notes\Architecture and Worship.md"
+archived_on: 2026-07-10
+---
+# Architecture and Worship
+
+Thalmyric architecture turns worship into ascent: firelit vaults, volcanic stone, relic chapels, processional stairs, and sanctuaries designed to make the Holy Flame feel both protective and dangerous.
+
+## Current Use
+
+- Support note for [[Thalmyric Empire Overview]].
+- Bridge to [[Thalmyric Church Architecture]] and [[Iconography and Worship Spaces]].
+
+## Needs Further Fleshing Out
+
+Define regional styles, pilgrimage architecture, battlefield chapels, relic display rules, and how ordinary worship differs from imperial ceremony.

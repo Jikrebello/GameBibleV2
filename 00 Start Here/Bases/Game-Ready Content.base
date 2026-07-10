@@ -2,12 +2,12 @@ filters:
   and:
     - '!file.inFolder("90 Archive & Drafts")'
     - '!file.inFolder("99 Templates")'
-    - 'status == "canon"'
+    - status == "canon"
     - or:
-        - 'appears_in.contains("Grenzburg")'
-        - 'type == "quest"'
-        - 'type == "mechanic"'
-        - 'type == "place"'
+        - appears_in.contains("Grenzburg")
+        - type == "quest"
+        - type == "mechanic"
+        - type == "place"
 properties:
   type:
     displayName: Type

@@ -57,3 +57,7 @@ Caliph, sultan, emir, vizier, ibn, bint, and Banu are translation conventions. T
 ## Story Use
 
 Covenant stories arise from the collision between justice and legalism, sanctuary and ownership, sincere faith and fraudulent revelation, rival successions, enslaved infrastructure, reform from within, and the dangerous possibility that a contract can be perfectly lawful and profoundly wicked.
+
+## Navigation
+
+- [[Cultures MOC]]

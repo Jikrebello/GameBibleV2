@@ -13,6 +13,12 @@ tags: []
 ---
 # Reliability Register
 
+## Physical Library
+
+- **10 Comparative Histories:** competing Eclessian, Thalmyric, Sestaran, and synthetic accounts.
+- **20 Witnesses and Letters:** testimony from soldiers, nobles, and confessors.
+- **30 Sermons and Sacred Testimony:** doctrinal witness and foundation narratives.
+
 The backlog item from [[Needs Work]], executed: every in-world account rated on the authorial scale — **reliable** (ground truth with ordinary bias), **disputed** (substantially true, contested framing), **propaganda** (institutionally shaped, useful mainly as evidence about its author), **apocryphal** (garbled or partly invented; may still contain buried truth). Ratings are authorial; in-world, of course, everyone rates them differently.
 
 The properties-driven register is embedded below; the prose entries preserve useful nuance.

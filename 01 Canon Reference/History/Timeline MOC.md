@@ -13,6 +13,16 @@ tags: []
 ---
 # Timeline MOC
 
+## Physical Library
+
+- **10 Chronology and Control:** master chronology, historical spine, named figures, and author-only concordance.
+- **20 Prehistory:** Giant civilizations and the mono-mythic record.
+- **30 Exodus and First Civilizations:** the bridge from the Age of Chains through the Age of Stars.
+- **40 Atherian Imperial Age:** Atherian consolidation and imperial glory.
+- **50 Redeemer and Conversion:** the Redeemer, companions, persecution, and conversion.
+- **60 Fall and Successor Empires:** invasion, collapse, restoration, and the Great Split.
+- **70 Later History and Present Day:** plague, reform, confessional settlement, rulers, and current political pressures.
+
 ## Main Timeline
 
 - [[Historical Spine of the Known World]]

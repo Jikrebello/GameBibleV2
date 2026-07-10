@@ -13,7 +13,13 @@ tags: []
 ---
 # Bestiary MOC
 
-- [[Bestiary Framework — Creatures of the World Egg]] — the master key: every family placed in the cosmology.
+## Physical Library
+
+- **00 Bestiary Standards:** [[Bestiary Framework — Creatures of the World Egg]], the master key for placing every family in the cosmology.
+- **10 Drakes:** the six drake lineages and their overview.
+- **20 Grobi:** goblins, hobgoblins, orcs, ogres, and their shared origin.
+- **30 Vampires:** origins, bloodlines, and the present-age dossier.
+- **40 Other Threats:** ghouls, Nightmares, Pale-Skins, and Hollow-Kings.
 
 ## Creature Families
 

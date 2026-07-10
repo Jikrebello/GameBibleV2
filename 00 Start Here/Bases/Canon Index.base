@@ -1,6 +1,6 @@
 filters:
   and:
-    - 'status == "canon"'
+    - status == "canon"
     - '!file.inFolder("90 Archive & Drafts")'
     - '!file.inFolder("99 Templates")'
 properties:
@@ -27,3 +27,10 @@ views:
       - culture
       - appears_in
       - visibility
+    sort:
+      - property: file.name
+        direction: ASC
+      - property: type
+        direction: ASC
+      - property: appears_in
+        direction: DESC

@@ -23,6 +23,7 @@ Make Grenzburg the first practical vertical slice: a playable frontier duchy wit
 - **Map logic:** the known world is southern-hemisphere oriented; south is colder, harsher, and more frontier-bound. Use [[Gazetteer of the Known World]] and [[Geography Atlas]] as the map baseline.
 - **Source truth:** in-world historical accounts are rated in [[Reliability Register]].
 - **Game proof:** [[Grenzburg Vertical Slice Dossier]] is the current production-facing doorway for the playable testbed.
+- **Vault structure:** active reference material uses numbered, subject-owned folders; superseded material is indexed through [[Archive Index]] and the [[Physical Reorganization Manifest]].
 
 ## Next Three Workstreams
 
