@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Canon Reference/Peoples and Cultures/The Thalmyric Empire/Faith and the Thalmyric Church/Theological Schism with Eclessia.md",
+                "file": "01 Canon Reference/Peoples and Cultures/Eclessia/Lives of Virelia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Theological Schism with Eclessia"
+              "title": "Lives of Virelia"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "shriven",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -179,8 +178,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "236becb9f504ae2f",
+  "active": "2236908dea8a514b",
   "lastOpenFiles": [
+    "01 Canon Reference/Peoples and Cultures/Eclessia/Lives of Veridancia.md",
+    "01 Canon Reference/Peoples and Cultures/Eclessia/Lives of Korrheim and Brauvalis.md",
+    "01 Canon Reference/Peoples and Cultures/Eclessia/Lives of Ironvale.md",
+    "01 Canon Reference/Peoples and Cultures/Eclessia/Lives of Eclessia — The Common Spine.md",
+    "01 Canon Reference/Peoples and Cultures/Eclessia/Lives of Caldria and the Sylvan Marches.md",
+    "01 Canon Reference/Peoples and Cultures/Eclessia/Lives of Aurelia.md",
+    "01 Canon Reference/Peoples and Cultures/The Thalmyric Empire/Faith and the Thalmyric Church/Theological Schism with Eclessia.md",
+    "01 Canon Reference/Peoples and Cultures/Eclessia/Lives of Virelia.md",
     "01 Canon Reference/Peoples and Cultures/The Thalmyric Empire/Lives of Thalmyria — Seven Roads from Cradle to Grave.md",
     "01 Canon Reference/Peoples and Cultures/The Thalmyric Empire/Lives of Thalmyria — Seven Roads from Cradle to Grave.md.tmp.29572.5047c35e6f42",
     "01 Canon Reference/Peoples and Cultures/The Thalmyric Empire/Faith and the Thalmyric Church/The Redeemer as Divine Warrior.md",
@@ -204,16 +211,8 @@
     "01 Canon Reference/The Left Hand/The Red Tally.md",
     "01 Canon Reference/The Left Hand/The Devoted.md",
     "01 Canon Reference/The Left Hand/The Weeping Courts.md",
-    "01 Canon Reference/The Left Hand/The Creditor.md",
-    "01 Canon Reference/The Left Hand/The Apathetics.md",
-    "01 Canon Reference/The Left Hand/The Hollow Flame Cult.md",
-    "01 Canon Reference/The Left Hand/The Atlas of the Left Hand.md",
     "01 Canon Reference/The Left Hand",
-    "03 Stories & In-World Texts/Historical Accounts/A sermon of Aqid Qalim ibn Haraz.md",
     "02 Playable Settings/Grenzburg/Maps/Grenzburg Regional Map v1.png",
-    "02 Playable Settings/Grenzburg/Grenzburg as Vertical Slice.md",
-    "02 Playable Settings/Grenzburg/Factions Overview.md",
-    "02 Playable Settings/Grenzburg/Lord High Bailiff Enzo Voss.md",
     "01 Canon Reference/Peoples and Cultures/The Fäskogarfolk/Folk Daily Life and the Thirteen Moons.md.tmp.2788.975d72303fd7",
     "01 Canon Reference/Peoples and Cultures/Eclessia/Eclessian Daily Life and the Year of the Flame.md.tmp.2788.488522049240",
     "01 Canon Reference/Creatures/Bestiary Framework — Creatures of the World Egg.md.tmp.36300.fe27ca93157f",

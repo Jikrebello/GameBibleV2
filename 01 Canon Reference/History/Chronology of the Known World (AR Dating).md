@@ -96,9 +96,10 @@ The civilized world dates from the execution and resurrection of Isfir the Redee
 - **1118–1167 AR — Caedros III, "the Wall of the World."** The Thalmyric golden age; the Qahirid war of 1131–39 crushed; dies childless. *(Basil II.)*
 - **1183 / 1204 AR — The Marian definitions.** The Sanctum dogmatizes the **Unkindled Conception** and the **Rising of the Mother**; Veridun rejects the West's authority to define anything. *(Immaculate Conception; Assumption.)*
 - **1190–1243 AR — Sultan-Caliph Suhrab the Lawbinder.** The Covenant's apex; the *Ledger of Ledgers*. *(Suleiman.)*
-- **1243 AR — The False Lady of Bruckmoor exposed** as an Idol-feeding operation after forty years of pilgrimage; the site burned and salted. The relic courts' founding trauma.
+- **1243 AR — The False Lady of Bruckmoor exposed** as an Idol-feeding operation after forty years of pilgrimage — a Weeping Courts architecture that fattened on Grey Sweat grief; the site burned and salted. The relic courts' founding trauma.
 - **1214 AR — The Battle of Qarath's Well.** **Markellos the Captive** taken alive; ransomed for border themes; blinded and deposed by his own court on return. Thalmyria's deepest self-inflicted wound. *(Manzikert, 1071.)*
 - **1214–1225 AR — The post-Qarath civil wars.**
+- **c. 1232–1247 AR — THE GREY SWEAT.** The great mortality: a third of the east, a fifth of the west, in fifteen years of waves. Aftermath: serfdom dissolves into tenantry in the Markish/Latinate west and HARDENS in Virelia (the second serfdom); the Ash-Walker penance processions rise and fall, seeding both the Apathetics' quietism and the shrine-hunger the Weeping Courts farm. *(The Black Death, 1348.)*
 - **1225–1263 AR — Nikandros I the Restorer.** Stabilizes the rump; asks Eclessia for aid; refuses the Sanctum's price (Veridun's submission); fights on alone. *(Alexios Komnenos.)* Present-day Caedros IV claims this line.
 - **c. 1235–1341 AR — The Medori century.** **Bartolo the Elder** builds the bank; **Lauro the Magnificent** builds the Renaissance. Sestaran golden age begins c. 1250.
 

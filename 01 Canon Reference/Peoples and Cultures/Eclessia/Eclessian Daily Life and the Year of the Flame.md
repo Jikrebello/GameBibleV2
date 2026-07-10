@@ -77,6 +77,8 @@ All of it compressed and sharpened: Wanefall slaughter decides who winters insid
 
 ## Navigation
 
+- [[Lives of Eclessia — The Common Spine]] (the role-by-role, territory-by-territory pass)
+
 - [[Eclessia Cultural Thesis]]
 - [[The Making of the Eclessians]]
 - [[The Twelve Companions of the Redeemer]]
