@@ -14,7 +14,7 @@ tags:
 ---
 # Pathfinder Module Conversions — Index
 
-Triage of the PF1e standalone module library: **26 converted** (one file each, this folder), **16 second-wave** (strong fits, files on request), **8 discarded** (with reasons). Conversion rules per [[The Conversion Library — Classic Adventures Recontextualized]]: keep the play-tested skeleton, replace the flesh with Lives-file people and Numbers-doc stakes, assign tiers honestly.
+Triage of the PF1e standalone module library: **42 converted** (one file each, this folder) and **8 discarded** (with reasons). Conversion rules per [[The Conversion Library — Classic Adventures Recontextualized]]: keep the play-tested skeleton, replace the flesh with Lives-file people and Numbers-doc stakes, assign tiers honestly.
 
 ## Converted (26)
 
@@ -26,9 +26,15 @@ Triage of the PF1e standalone module library: **26 converted** (one file each, t
 
 **Tier F / campaigns:** [[The Duke's Road]] (W1) · [[Breach-Week]] (Academy of Secrets) · [[The Drake's Demand]] · [[The Green Spire]] (Emerald Spire — the Expanse superdungeon)
 
-## Second Wave (strong fits — file on request)
+## Second Wave (16 converted)
 
-*Fangwood Keep* (Accord border keep, thin-space beneath) · *Broken Chains* (Covenant: illegal name-binder rescue) · *Murder's Mark* (traveling-fair murder mystery) · *Plunder & Peril* (Shattered Isles privateer run) · *Wardens of the Reborn Forge* (Ironvale gunworks, rogue Ironbound constructs) · *Hungry Are the Dead* (Warrens pushing up under a town) · *J4 Pact Stone Pyramid* (a PRE-Covenant contract monolith — heretical implications, handle with care) · *The Midnight Mirror* (Shadowlands-bleed manor) · *From Shore to Sea* (drowned village, Saltborn coast) · *City of Golden Death* (Avarix necropolis) · *Tomb of the Iron Medusa* (Diadem family crypt) · *LB1 Tower of the Last Baron* (Brauvalis-flip espionage) · *LB2 Chimera Cove* (privateer cache) · *Ruby Phoenix Tournament* (the arena circuit grand tournament) · *W2 River into Darkness* (Expanse river expedition) · *Carrion Hill* (leak-district horror, Vorthara or a barrow-town)
+**Borders, law, and investigation:** [[The Accord's Hollow Keep]] (Fangwood Keep) · [[The Garden of Stolen Names]] (Broken Chains) · [[Murder at Lantern Fair]] (Murder's Mark) · [[The Last Baron of Brauvalis]] (LB1 Tower of the Last Baron)
+
+**Sea and expedition:** [[The Three Perils of the Shattered Isles]] (Plunder & Peril) · [[The Drowned Bell of Salthaven]] (From Shore to Sea) · [[The Chimera Cache]] (LB2 Treasure of Chimera Cove) · [[The River Beyond Castara]] (W2 River into Darkness)
+
+**Dungeons and buried systems:** [[The Dead Press Upward]] (Hungry Are the Dead) · [[The Stone Before the Covenant]] (J4 Pact Stone Pyramid) · [[The Gilded City of Avarix]] (City of Golden Death) · [[The Iron Diadem]] (Tomb of the Iron Medusa)
+
+**Institutions and supernatural crises:** [[The Reborn Arsenal]] (Wardens of the Reborn Forge) · [[The Midnight Glass]] (The Midnight Mirror) · [[The Grand Circuit]] (Ruby Phoenix Tournament) · [[The Horror Beneath Blackspire]] (Carrion Hill)
 
 ## Discarded (and why)
 
