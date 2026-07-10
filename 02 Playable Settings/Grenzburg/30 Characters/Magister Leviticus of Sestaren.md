@@ -72,7 +72,7 @@ He is the Architect. Not a warrior, not a priest—**the civil servant trying to
 
 - **The Violence Gap:** He has no soldiers. His authority rests entirely on the Duke's willingness to enforce his pronouncements.
 - **Cultural Alienation:** The marchers see him as a fussy foreigner who doesn't understand "how things are done."
-- **The Bank's Shadow:** Clerk Anya is a constant, silent reminder that his treasury is not truly his.
+- **The Bank's Shadow:** Clerk Vesta is a constant, silent reminder that his treasury is not truly his.
 - **Information Lag:** It takes months for reports from the hamlets to reach him, by which time they are often obsolete or falsified.
 - **The Corruption Quagmire:** He is trying to drain a swamp while standing in it. Every under-clerk and bailiff expects their "bit."
 
@@ -96,10 +96,10 @@ A relationship of **cold war**. Leviticus knows Baldric is stealing. Baldric kno
 - **He Fears Baldric Will:** Trigger a liquidity crisis at a critical moment (e.g., just before the winter payroll) to force Leviticus's hand or discredit him.
 - **The Tension:** Leviticus represents the rule of law. Baldric represents the rule of the bribe. They are locked in a silent duel for the soul of Grenzburg's economy.
 
-### With Clerk Anya (The Ugly)
+### With Clerk Vesta (The Ugly)
 A relationship of **respectful mutual surveillance**. She is the most competent person in the treasury. He admires her skill and despises her master.
-- **He Uses Anya For:** Her impeccable, unforgeable records. She is the one person who can reliably catch Baldric's manipulations. He also uses her as a direct, if glacial, channel to the Medori Factor.
-- **He Fears Anya Will:** Invoke a "debt clause" at the Bank's command, legally seizing a key asset (like the docks or a mine) without his or the Duke's consent.
+- **He Uses Vesta For:** Her impeccable, unforgeable records. She is the one person who can reliably catch Baldric's manipulations. He also uses her as a direct, if glacial, channel to the Medori Factor.
+- **He Fears Vesta Will:** Invoke a "debt clause" at the Bank's command, legally seizing a key asset without his or the Duke's consent.
 - **The Tension:** He is trying to build a state treasury. She is ensuring the state remains a profitable subsidiary of the Bank. They need each other to function, but their end goals are diametrically opposed.
 
 ---
@@ -119,7 +119,7 @@ A relationship of **respectful mutual surveillance**. She is the most competent 
 ### Winter (The Accountant)
 - Turns inward. Analyzes the year's data, plans reforms, builds his case for spring.
 - Manages the intricate dance of the winter ration economy with icy precision.
-- A rare period of relative peace, trapped indoors with his numbers and his two treacherous subordinates.
+- Receives the forged neutral-escrow order and a threat to terminate imported grain credit if the Heart-Stone remains in ducal custody.
 
 ### Spring (The Reckoning)
 - Presents the Duke with the brutal truth of the previous year's finances.
@@ -128,9 +128,9 @@ A relationship of **respectful mutual surveillance**. She is the most competent 
 
 ---
 
-## Relationship to the Players (Blackjacks)
+## Relationship to the Players (Seconded Blackjacks)
 
-He views them as **volatile assets on the Bank's ledger**, but also as potential tools.
+He views them as volatile Bank assets carrying a valid ducal warrant. Their divided authority frightens him and gives him the only investigators capable of checking both sets of books.
 - **If they are discreet:** He may hire them for deniable audits—to physically verify the contents of a remote mine or lumber cache a guild master claims is empty.
 - **If they are destructive:** He sees them as a liability that destabilizes the economic predictability he craves.
 - **What he might offer them:** **Debit Notes.** Officiously stamped pieces of parchment that can be used to pay certain taxes or fees. To a Blackjack, it's a way to legally launder treasure or offset their own debts. To Leviticus, it's a way to draw them into the formal economy and gather data on their activities.
@@ -140,6 +140,10 @@ He views them as **volatile assets on the Bank's ledger**, but also as potential
 ## His "Ugly" Signature Move
 
 **He will use economic shock therapy to force reform.** Example: He will deliberately withhold the Duke's copper-coin payment to the lumberjacks, forcing a switch to a silver-based payroll. This breaks the guild's stranglehold on credit (as they deal in copper) and causes short-term panic, but in his mind, it modernizes the labor market. He sacrifices immediate stability for systemic change.
+
+## Canonical Winter Betrayal
+
+The Silent Partners coerce Leviticus through the forged escrow interpretation recorded in the [[Crisis Charter of Secondment]]. He authorizes the Heart-Stone's transfer through Katarina's service tunnel rather than falsify the books or accept immediate grain foreclosure. Pale-Skins seize the transfer. In spring, the player can prove the order fraudulent and redeem Leviticus through public testimony; this is the canonical Duke's Path result.
 
 ---
 
@@ -162,4 +166,3 @@ He views them as **volatile assets on the Bank's ledger**, but also as potential
 
 - [[Grenzburg MOC]]
 - [[Canon Index]]
-

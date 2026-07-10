@@ -34,7 +34,7 @@ He is the Scale. Not a reformer, not a brute—**the arbiter whose judgments def
 ## Private Truth
 
 - He is a **secret romantic**. He clings to the law because he has seen what happens without it—his own family lands were stripped by a rival using legal trickery. In Grenzburg, he has a chance to build a system that is *just*, not just clever.
-- He is plagued by doubt. Every judgment favoring a guild over a commoner, every necessary pardon for a brute who is useful in winter, chips away at his ideal. He drinks to quiet the voice that asks if he's just Bailiff Hagen with a fancier title.
+- He is plagued by doubt. Every judgment favoring a guild over a commoner, every necessary pardon for a brute who is useful in winter, chips away at his ideal. He drinks to quiet the voice that asks if he's just Lord High Bailiff Enzo Voss with a fancier title.
 - He fears the Gravedigger not because of the violence, but because the **people cheer for them**. It means his law is failing to provide the justice they crave.
 
 ---
@@ -46,7 +46,7 @@ He is the Scale. Not a reformer, not a brute—**the arbiter whose judgments def
 1. Secure a conviction against a major guild figure (for something real, not a trumped-up charge) to prove the law applies to all.
 2. Codify the "Winter Edicts" (emergency laws) into a clear, limited charter to prevent marshal overreach.
 3. Recover at least one significant asset stolen through fraud and return it to its rightful owner.
-4. Infiltrate and document Bailiff Hagen's protection network.
+4. Infiltrate and document Lord High Bailiff Enzo Voss's protection network.
 5. Identify the Gravedigger, by any means necessary.
 
 ### Long-term (The Hochfeld Code)
@@ -90,7 +90,7 @@ He is the Scale. Not a reformer, not a brute—**the arbiter whose judgments def
 
 ## Relationship with his Subordinates
 
-### With Bailiff Hagen (The Bad)
+### With Lord High Bailiff Enzo Voss (The Bad)
 A relationship of **toxic symbiosis**. Hagen is a cancer on the court, but he is also its muscle and its ears on the street. He gets results, even if they are foul.
 - **He Uses Hagen For:** Enforcing judgments against powerful people who would otherwise laugh at the court. Collecting intelligence on the criminal underworld. Maintaining a bare minimum of street order through fear.
 - **He Fears Hagen Will:** Fabricate evidence that leads to a catastrophic miscarriage of justice, utterly destroying the court's credibility. Or, simply stage a coup and replace him with a more pliable judge.
@@ -106,7 +106,7 @@ A relationship of **obsessive, furious paradox**. The Gravedigger is his nemesis
 *   **A Folk Sympathizer:** A settler married into the Moss-Crown clan, targeting cruel lumber bosses.
 *   **A Disgraced Veteran:** One of Sir Gerhold's former officers, court-martialed unjustly and now "cleaning up" the town.
 *   **A Rival Criminal:** Someone challenging Hagen's monopoly by eliminating his clients and making it look like justice.
-*   **Clerk Anya:** The Bank's creature, eliminating people whose debts have become a liability or who threaten Bank interests in a way the law cannot touch.
+*   **Clerk Vesta:** The Bank's creature, eliminating people whose debts have become a liability or who threaten Bank interests in a way the law cannot touch.
 
 ---
 
@@ -134,7 +134,9 @@ A relationship of **obsessive, furious paradox**. The Gravedigger is his nemesis
 
 ---
 
-## Relationship to the Players (Blackjacks)
+## Relationship to the Players (Seconded Blackjacks)
+
+The player arrives as a Bank-owned Blackjack carrying a ducal warrant; this relationship may pressure either side of that divided authority.
 
 He views them as **walking legal contradictions**. They are both agents of order (working for the Duke) and manifestations of lawlessness (debtors, criminals, deniable assets).
 - **If they operate within his framework:** He may hire them as special bailiffs for a dangerous task, granting them temporary legal authority to make an arrest or seize property.

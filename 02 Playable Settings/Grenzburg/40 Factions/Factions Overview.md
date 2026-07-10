@@ -14,6 +14,10 @@ tags:
 ---
 # Grenzburg Factions Overview
 
+## Player Position
+
+The player is a Bank-owned Blackjack seconded to the Duke under the [[Crisis Charter of Secondment]]. Pierre supplies the public brief; Koss attaches the Bank rider. Choices alter Ducal Trust, Bank Leverage, and the concession tracks described below.
+
 ## A. Top-level Rule of Three
 
 ### GOOD: The Duchy of Grenzburg (the “state” that must not fail)
@@ -65,7 +69,7 @@ Every Ugly deal has a hook that can become the _next_ Bad.
 - Player-facing: contracts, patrol operations, “boring but necessary” missions.
     
 
-**Duchy Bad (predation)** — _The Duke’s Cousin / “Master of Coin” (or a powerful advisor)_
+**Duchy Bad (predation)** — _Lord High Bailiff Enzo Voss_
 
 - Wants personal enrichment and patronage.
     
@@ -268,7 +272,7 @@ You want at least two competing external actors so Grenzburg isn’t just “rem
 - Grobi scouts probe routes
     
 
-**Player role (Blackjacks):** escort + debt seizures + “quiet problem solving”  
+**Player role (seconded Blackjacks):** carry out Pierre's public survival orders while deciding whether to obey, expose, or evade Koss's private recovery riders.
 **Faustian win condition:** you can “save” the autumn by buying compliance with debt and favors—creating winter corruption.
 
 ### WINTER: Siege + Scarcity + Narrative
@@ -348,23 +352,23 @@ This makes Faustian bargains _felt_ rather than narrated.
 
 ## E. A cast of “drivers” you can drop in immediately
 
-- **Duke Alaric von Grenzburg** (Duchy Ugly): keeps the coalition alive
+- **Duke Alaric von Grenzmark** (Duchy Ugly): keeps the coalition alive
     
-- **Constable Pierre Hohenwall** (Duchy Good): walls, discipline, ration order
+- **Castellan Pierre Hohenwall** (Duchy Good): walls, discipline, ration order
     
-- **Lord-Provost Enzo** (Duchy Bad): sells charters, skims granary
+- **Lord High Bailiff Enzo Voss** (Duchy Bad): sells charters, skims granary
     
-- **Bishop Elsbeth** (Church Good): hospitals, peacemaking
+- **Bishop-Prelate Caestus** (Church Good): hospitals, peacemaking
     
-- **Legate Corvin** (Church Bad): reunification mandate, purges
+- **Deacon Ignatius** (Church Bad): reunification mandate, purges
     
-- **Reliquarian Ysanne** (Church Ugly): relic as statecraft
+- **Sister Marcellina** (Church Ugly): relic as statecraft
     
-- **Factor Gianni Medori** (Bank Good): stability = repayment
+- **Ledger-Master Lucia Medori** (Bank Good): stability = repayment
     
-- **Collector-Knight Rauk “Blackjack”** (Bank Bad): extraction through violence
+- **Captain Valdemar Koss** (Bank Bad): extraction through violence
     
-- **Agent Livia Medori** (Bank Ugly): internal bank coup games
+- **Factor Silas Medori** (Bank sovereign): balances the branch while the **Silent Partners** conduct hidden experiments
     
 - **Speaker Bran of the River-Clans** (Folk Good): treaties, scouts
     
@@ -377,6 +381,8 @@ This makes Faustian bargains _felt_ rather than narrated.
 - **Herd-Matron Uru** (Grobi Good): survival corridor logic
     
 - **Trader-Captain Skiv** (Grobi Ugly): intel and prisoners for coin
+
+- **Grakka Stone-Tooth** (Grobi managed predation): controls the Fenn Road shadow market and Skrit's service
     
 
 

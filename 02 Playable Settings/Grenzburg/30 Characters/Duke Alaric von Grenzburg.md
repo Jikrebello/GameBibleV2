@@ -9,6 +9,7 @@ culture: []
 related_factions: []
 appears_in: ["Grenzburg"]
 needs: []
+aliases: ["Duke Alaric von Grenzmark", "Alaric von Grenzmark, Duke of Grenzburg"]
 tags:
   - game-ready
 ---
@@ -185,7 +186,9 @@ When he crosses one of these lines, it should be a story earthquake.
 
 ---
 
-## Relationship to the player (Blackjacks)
+## Relationship to the player (Seconded Blackjacks)
+
+The player arrives as a Bank-owned Blackjack carrying a ducal warrant; this relationship may pressure either side of that divided authority.
 
 He never fully trusts them. He uses them because:
 
@@ -303,4 +306,4 @@ Pick one (or let player actions determine which becomes dominant):
 
 ## Canon Ruling: Grenzmark vs Grenzburg
 
-The ducal *family* is **von Grenzmark** (of the March); the *seat and duchy* are **Grenzburg**. Act I's "Duke Alaric von Grenzmark" and this note's "von Grenzburg" are therefore both correct usage: formal style *Alaric von Grenzmark, Duke of Grenzburg*.
+The ducal *family* is **von Grenzmark** (of the March); the *seat and duchy* are **Grenzburg**. Formal style is *Alaric von Grenzmark, Duke of Grenzburg*. The older filename remains only for link compatibility.

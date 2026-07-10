@@ -15,7 +15,7 @@ tags: []
 
 ## First Creative Priority
 
-Make Grenzburg the first practical vertical slice: a playable frontier duchy with factions, characters, seasonal pressure, quests, and enough world context to prove the IP works as a game setting.
+Turn Grenzburg's locked campaign into production-ready geography and encounters. The player mandate, branch architecture, canonical continuation, and companion roster are now controlled references rather than open story questions.
 
 ## Current Canon Baseline
 
@@ -27,9 +27,9 @@ Make Grenzburg the first practical vertical slice: a playable frontier duchy wit
 
 ## Next Three Workstreams
 
-1. **Grenzburg production:** keep the dossier, numbers, faction matrix, seasonal acts, and creature threats aligned while converting remaining `needs:` entries into concrete design decisions.
-2. **Map production:** complete Eclessian duchy borders, the Prophet's Roads, Thalmyric-Covenant war corridors, and southern migration routes from the [[Gazetteer of the Known World]].
-3. **Game-ready bestiary:** finish encounter signs, tactics, materials, faction use, and quest applications for creatures that can appear in Grenzburg.
+1. **Grenzburg map production:** turn [[Grenzburg Regional Geography]] and [[Grenzburg Campaign Branch Matrix]] into city, road, village, corridor, and dungeon map requirements.
+2. **Encounter-ready bestiary:** tune the Grobi, Emerald Drake, Pale-Skins, Hollow-Kings, and optional ghouls against their locked campaign roles.
+3. **Implementation tuning:** set numerical quest rewards, track thresholds, companion approval, field-role balance, encounter difficulty, and final UI terminology.
 
 ## Locked Rulings
 
@@ -41,9 +41,12 @@ Make Grenzburg the first practical vertical slice: a playable frontier duchy wit
 - The Jirahar, Covenant, and Nsizwa naming registers are locked. Broad titles remain translation conventions; signature religious and cultural vocabulary follows each culture's own register.
 - The four Left Hand supply chains are authorial truth. [[The Creditor]] is the patron behind Malak al-Ahd, while the genuine Fourth Seal remains unresolved.
 - [[The Grey Sweat]], [[The Korrheim Accord]], and the [[Freeflame Reformation]] are the source events for Eclessia's demographic and confessional present.
+- The protagonist is a customizable Bank debtor seconded to the Duke: Koss controls the contract, Pierre controls public deployment, and Alaric controls strategy.
+- The Duke's Peace is the canonical continuation. Leviticus is the coerced winter betrayer and is redeemed through public testimony.
+- The field party is the player plus three companions. Elara, Bernard, Dismas, and Zafir are core companions; Lotte, Runa, and Skrit are lighter recruits.
 
 ## Open Production Questions
 
 - Production-quality borders, roads, travel times, and trade layers.
-- Grenzburg quest-branch triggers and ending conditions recorded in its `needs:` properties.
+- Numerical Grenzburg reward, track, companion-approval, and encounter-balance values.
 - Named regional cells for the Left Hand as new playable settings are developed.

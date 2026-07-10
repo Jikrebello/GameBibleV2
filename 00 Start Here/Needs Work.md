@@ -19,8 +19,8 @@ This page is the human-readable triage board. It includes non-canon notes and ca
 
 ## Priority Backlog
 
-- Finish the production map: duchy borders, roads, passes, trade routes, travel times, and southern cold-front migration corridors.
-- Convert remaining Grenzburg `needs:` entries into named quest branches, encounter sequences, and ending conditions.
-- Expand the Grenzburg-facing bestiary into encounter-ready ecology, tactics, materials, and faction use.
+- Build Grenzburg's production maps from the locked campaign matrix: city sites, three villages, winter corridors, companion sites, and Dragon's Tomb layers.
+- Expand the Grenzburg-facing bestiary into encounter-ready ecology, tactics, materials, faction use, and tuned difficulty.
+- Tune the remaining Grenzburg implementation values: rewards, material-state deltas, approval thresholds, field roles, and UI terminology.
 - Add ordinary-life references for the Covenant and other cultures that still exist mostly at elite or military scale.
 - Add Left Hand cells only where a playable region requires them; avoid disconnected villain catalogues.

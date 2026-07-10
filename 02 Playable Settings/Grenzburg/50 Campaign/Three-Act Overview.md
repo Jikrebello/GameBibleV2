@@ -8,15 +8,19 @@ region: ["Grenzburg"]
 culture: []
 related_factions: []
 appears_in: ["Grenzburg"]
-needs:
-  - tune exact branch triggers and ending conditions
-  - name final council traitor variants
+needs: []
 tags:
   - game-ready
 ---
 # The Skeleton of Grenzburg: Three-Act Overview
 
 This is the controlling story skeleton for the Grenzburg vertical slice. It defines the seasonal arc, the Heart-Stone throughline, and the major faction consequences. Individual quests can change shape, but they should not contradict this structure without updating the dossier.
+
+Exact triggers, fail-forward states, track changes, and companion intersections are controlled by [[Grenzburg Campaign Branch Matrix]]. The player premise is controlled by [[Player Mandate and Dual Chain of Command]].
+
+## Canonical Continuation
+
+The Duke's Path is the intended setting continuation. It requires all three villages stabilized; trust from Liese, Leviticus, and Caestus; ducal Heart-Stone custody; Ducal Trust 3 or higher; Bank Leverage 2 or lower; and no outside concession at 4. Alternate endings remain complete playable outcomes.
 
 ## **Core Loop:** Every major decision involves navigating the **Rule of Three**: choosing between the **Duchy's Needs (Good)**, the **Immediate Threat (Bad)**, and the **Costly Aid of an Ugly Faction**. Each choice strengthens one faction, weakens another, and alters the resources and alliances available for the next crisis.
 
@@ -77,7 +81,7 @@ This is the controlling story skeleton for the Grenzburg vertical slice. It defi
         *   **Bank:** Stolen by the **Silent Partners** (internal corruption).
         *   **Church:** Stolen by **Ignatius** (religious fanaticism).
         *   **Folk:** Stolen by the **Pale-Skins** (outsider enemy).
-        *   **Duke:** Stolen by a **Council Traitor** (deepest betrayal).
+        *   **Duke:** **Magister Leviticus** authorizes a fraudulent neutral-escrow transfer after the Silent Partners threaten Grenzburg's grain credit. Katarina enables the route; Pale-Skins seize the transfer. Leviticus can be exposed as a traitor or redeemed as a coerced administrator.
     *   This defines the **primary antagonist faction for Act III** and the nature of the investigation.
 
 **Act II Output:** The Grobi horde is broken, but the Pale-Skins have won—they now possess the Heart-Stone. The city is physically saved but politically and spiritually shattered. You possess the Drake's Gem (the key to victory) and know the final battle is underground.
@@ -103,12 +107,12 @@ This is the controlling story skeleton for the Grenzburg vertical slice. It defi
     *   **Climax:** Confrontation with the **Hollow-Kings**. They offer a **Faustian Bargain** for power, tailored to your journey's temptations (wealth, absolution, belonging, transcendence).
 
 4.  **The Destruction of the Stone:**
-    *   To win, you must sacrifice something of great value, usually the **Drake's Heart Gem** or a **trusted ally**.
+    *   To win, you must sacrifice something of great value: the **Drake's Heart Gem**, a trusted ally, or the city's political independence. The canonical Duke's Path sacrifices the Gem and preserves the loyal company.
     *   **Choice:** The method of destruction reflects your core allegiance (a financial transaction for the Bank, a sacrament for the Church, a natural balance for the Folk, a sovereign order for the Duke).
 
 5.  **Epilogue - The New Peace:**
     *   The ending state of Grenzburg is a direct result of **who held the Stone at the end of Act I** and **which faction you sided with most consistently**.
-    *   **Duke's Peace:** Reformed, sovereign state.
+    *   **Duke's Peace:** the canonical continuation: sovereign courts, audited Bank privileges, Folk sanctuary rights, spiritual-only Church jurisdiction, and reformed Blackjack service.
     *   **Bank's Peace:** Efficient, mercantile oligarchy.
     *   **Church's Peace:** Pious, communal theocracy.
     *   **Folk's Peace:** Decentralized, naturalistic frontier.
@@ -130,4 +134,3 @@ This is the controlling story skeleton for the Grenzburg vertical slice. It defi
 
 - [[Grenzburg MOC]]
 - [[Canon Index]]
-

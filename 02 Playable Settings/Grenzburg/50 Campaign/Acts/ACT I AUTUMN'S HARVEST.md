@@ -8,9 +8,7 @@ region: ["Grenzburg"]
 culture: []
 related_factions: []
 appears_in: ["Grenzburg"]
-needs:
-  - harmonize final NPC names with cast notes
-  - tune village consequence table
+needs: []
 tags:
   - game-ready
 ---
@@ -20,13 +18,14 @@ Act I establishes the Great Funnel, the village triage problem, the organized ea
 The player arrives in Grenzburg during the **Great Funnel**—the chaotic six weeks of autumn when the scattered population of the Marches floods towards the city, seeking winter shelter. The gates are a bottleneck of panic, hope, and desperation.
 
 **Introduction to Faction Politics (First Impressions):**
-*   **The Duke's Law:** They witness **Baroness Solveig** and her corrupt **Bailiff Hagen** processing the crowd. Hagen extorts "entry fees" from the poor, while Solveig coldly upholds the letter of the law, denying entry to those without a pre-registered trade or sponsor. The law is both shield and weapon.
+*   **The Duke's Law:** **Baron Anders of Hochfeld** hears emergency appeals while **Lord High Bailiff Enzo Voss** controls the entry rolls. Enzo extorts "expediting fees" from the poor; Anders upholds necessary limits but challenges seizures that have no lawful basis. The law is both shield and weapon.
 *   **The Church's Divinity:** **Prelate Caestus** and the **Hospitallers** run a soup kitchen just inside the gate, tending to the weary. Nearby, **Deacon Ignatius** and his **Ashen Band** preach fire, blaming the Folk and the sinners in the crowd for inviting Grobi wrath. You see faith as both comfort and a threat.
-*   **The Bank's Control:** Your induction is handled by **Enforcer-Captain Vorl**. It's not a military ceremony; it's the signing of a revised debt instrument. Your skills are assessed as collateral. You are introduced to **Ledger-Master Elara**, who gives a brief, clinical talk on how your work will contribute to "infrastructure stability." The Bank owns you.
-*   **The Folk's Presence:** You see **Elof the Bridge** and a small group of **Chapel-Folk** being harassed by both marchers (who spit at them) and Ignatius's zealots (who call them half-breeds). They are a living symbol of the frontier's unresolved conflict.
+*   **The Dual Chain:** **Captain Valdemar Koss** confirms that the Bank still owns your debt-contract. **Castellan Pierre Hohenwall** then issues the ducal warrant under the [[Crisis Charter of Secondment]]. [[Ledger-Master Lucia Medori]] explains the accounting. The Duke may command your field service; the Bank still owns your future.
+*   **The Folk's Presence:** You see **Elof of the Chapel-Folk** and a small group of **Chapel-Folk** being harassed by both marchers (who spit at them) and Ignatius's zealots (who call them half-breeds). They are a living symbol of the frontier's unresolved conflict.
 
 **First Mission: "The Lakewatch Run"**
-*   **The Job:** Captain Vorl assigns your team to a standard funnel duty: escorting a final wagon train from **Lakewatch** to the city. It's supposed to be simple. Jaromir, the headman, is desperate to get his people and his village's smoked fish stores inside before the passes close.
+*   **Ducal Objective:** [[Sergeant Liese of the Marcher Vanguard|Sergeant Liese]] orders the unit to bring Lakewatch's people and smoked stores through the closing road.
+*   **Bank Rider:** Koss requires the recovery of financed wagons, iron tools, and the names of households already in default.
 *   **The Twist:** The mission is a microcosm of the Duchy's problems.
     1.  **The Guild's Greed:** **Holger Strun** has commandeered most of the Duke's wagons for his own lumber. You must negotiate with a surly foreman or find alternative transport.
     2.  **The Folk's Anger:** The route passes near a **Moss-Crown** sacred grove that has been recently violated by "Clear-Cut" crews. **Anya Moss-Crown** or her warriors block the road, demanding restitution before any marcher passes.
@@ -39,7 +38,7 @@ The player arrives in Grenzburg during the **Great Funnel**—the chaotic six we
 With the funnel closing, the Blackjacks are deployed to the southern reaches to "mop up"—secure abandoned assets and deal with stragglers. The early, organized Grobi activity has everyone on edge.
 
 **A Trio of Crises (Choose Your Poison):**
-The Corps leadership (a tense coalition of Vorl, Elara, and the Duke's man, Captain Koss) assigns multiple pressing tasks. The party may tackle them in any order, each exposing a deeper layer of the conspiracy.
+Pierre, Koss, Liese, Leviticus, and Caestus produce a single impossible list of crises. Each mission carries a public survival objective and a Bank rider; the party may tackle them in any order.
 
 *   **Crisis 1: Timberfalls Burning.**
     *   **The Job:** **Headman Gunther** has sent a panicked message. **Shattered-Tusk Clan** warriors, emboldened, are raiding his logging camp. He demands Blackjacks to fight them off.
@@ -52,14 +51,16 @@ The Corps leadership (a tense coalition of Vorl, Elara, and the Duke's man, Capt
     *   **The Clue:** You find a dead Pale-Skin infiltrator, its body emanating a faint, sickly light. It carried a crude map pointing to a surface location: the **Barrow of the First Chieftain**, a pre-human ruin deep in the forest.
 
 *   **Crisis 3: The Bank's Missing Investment.**
-    *   **The Job:** **Ledger-Master Elara** has a problem. A Bank-funded survey team, mapping safe routes for the southern watchtower line, has gone silent near the **Barrow of the First Chieftain**. Retrieve them or the ledger.
+    *   **The Job:** **Ledger-Master Lucia Medori** has a problem. A Bank-funded survey team, mapping safe routes for the southern watchtower line, has gone silent near the **Barrow of the First Chieftain**. Retrieve them or the ledger.
     *   **The Reality:** The team was ambushed by **Bloody-Sun** scouts. The survivors are hiding. The Barrow is the focal point. The Grobi aren't just raiding; they are *excavating* with purpose, led by a hulking, black-eyed **True-Born Orc** who seems to be following a set of complex instructions.
     *   **The Clue:** You recover the surveyor's notes. They mention not just Grobi, but "strange, pallid creatures that shunned the light" seen entering the barrow from below. The notes also contain a sketch of a strange, geometric artifact the surveyors glimpsed within: **The Heart-Stone**.
 
 ---
 
 ## **Part 3: The Barrow of the First Chieftain (The Heart of the Thorn)**
-The threads converge. The Duke, via Captain Koss, gives the order: assault the Barrow, break the Grobi operation, and retrieve this "Heart-Stone" before they complete their work.
+The threads converge. Pierre gives the public order: assault the Barrow, break the Grobi operation, and secure the Heart-Stone for Grenzburg. Koss appends a private rider declaring the Stone financed salvage subject to Bank custody.
+
+**The Three Trusts:** Stabilizing Lakewatch, Highlake, and Timberfalls allows Liese, Leviticus, and Caestus to certify the player's judgement. All three trusts and Ducal Trust 3 unlock the sovereign custody claim at the climax.
 
 **The Assault:**
 The Barrow is a three-tiered nightmare.
@@ -67,10 +68,10 @@ The Barrow is a three-tiered nightmare.
 2.  **The Lower Catacombs (The Twist):** Here, the **Pale-Skins** work. Frail, intelligent deep-dwellers direct enslaved dead and terrified Grobi laborers to excavate carefully. The environment is treacherous, filled with life-leeching magic and psychic whispers. This is no longer a Grobi nest; it is a buried court using the Grobi as tools.
 3.  **The Heart Chamber (The Revelation):** The party finds the **Heart-Stone**—a pulsating, crystalline artifact of pre-human origin. It radiates a aura of *amplification*. It doesn't create rage or hunger; it takes what is already there and magnifies it to a blinding, all-consuming pitch.
 
-The **Black-Eyed Orc Commander** is in the final stage of a ritual to attune the Stone to the Grobi species-wide hunger. The **Pale-Skin Hollow-Kings** (communicating through him) don't want to destroy Grenzburg. They want to use the Heart-Stone as a **psychic amplifier** during the winter siege. They will broadcast the city's fear, despair, and the Grobi's own world-hunger, turning the Bloody-Sun Horde into an unstoppable, single-minded consumption storm and powering their own ascension ritual.
+**Ghor**, war-chief of the Bloody-Sun, is in the final stage of a ritual to attune the Stone to the Grobi species-wide hunger. The **Pale-Skin Hollow-Kings** speak through the blood-stones set into his flesh. They do not want to destroy Grenzburg outright. They want to use the Heart-Stone as a **psychic amplifier** during the winter siege, broadcasting the city's fear, despair, and the Grobi's world-hunger until the horde becomes a single consumption storm and the Hollow-Kings' ascension rite is fed.
 
 **The Climactic Choice:**
-After a fierce battle, the party stands victorious over the Orc commander, the Heart-Stone before them. Then, they are not alone.
+After a fierce battle, the party breaks the rite and forces Ghor to retreat through the lower war-tunnels. He leaves wounded, aware of the Blackjacks, and still capable of gathering the winter host. The Heart-Stone remains before the party. Then, they are not alone.
 
 *   **Sister Marcellina** and a hand-picked team of Church agents emerge from the shadows. "That artifact is a relic of profound spiritual danger. It must be contained within the Church's vaults, for the safety of all souls."
 *   A Bank **Factor's Agent** (sent by the Silent Partners) appears at another entrance. "The Medori Bank has a claim on all recovered artifacts per the Duke's debt covenants. This asset is now Bank property. Stand aside."
@@ -80,7 +81,9 @@ The players must decide, in the moment, who to give the Heart-Stone to. Their ch
 *   **Give it to the Church:** Marcellina secures it. It will be used by Bishop Konrad as a tool of immense political leverage. Deacon Ignatius will learn of it and demand its use as a "righteous wrath" against the Folk.
 *   **Give it to the Bank:** The Silent Partners acquire it. Experiments begin immediately. The Stone's amplification properties may be tested on the debtor population or integrated into Blackjack operations, creating supernaturally focused (and unstable) agents.
 *   **Give it to the Ghost-Foot:** The artifact vanishes. The immediate Pale-Skin plan is thwarted. But the Folk now possess a weapon of terrible power, and the players owe a debt that will be collected in a deeply personal way.
-*   **Try to keep it for the Duke:** This is the most dangerous path. You must evade both the Church and Bank agents, bringing the Stone directly to Captain Koss or the Duke. This earns the Duke's trust but makes you permanent enemies of two of the most powerful factions in the city.
+*   **Keep it for the Duke:** Available through the three trust gates. Invoke the ducal warrant, deliver the Stone to Pierre's guard, and accept immediate Bank and Church hostility. This is the canonical custody state.
+
+**Companion Intersections:** [[Runa Moss-Crown]] can be recruited by repairing the Lakewatch grove boundary; [[Sergeant Lotte Weissbruck]] can be recruited by saving Timberfalls' abandoned muster; [[Skrit Stone-Tooth]] first appears through Grakka's western-road probe. See [[Grenzburg Campaign Branch Matrix]].
 
 ---
 
@@ -98,4 +101,3 @@ The party returns to a Grenzburg on the brink of lockdown. The gates slam shut. 
 
 - [[Grenzburg MOC]]
 - [[Canon Index]]
-

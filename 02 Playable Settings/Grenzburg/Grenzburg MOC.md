@@ -22,6 +22,8 @@ Grenzburg is the first playable testbed for the setting: a frontier duchy trying
 - [[Grenzburg Vertical Slice Dossier]]
 - [[Grenzburg Numbers and Constraints]]
 - [[Grenzburg as Vertical Slice]]
+- [[Player Mandate and Dual Chain of Command]]
+- [[Crisis Charter of Secondment]]
 
 ## 20 Region and Locations
 
@@ -29,7 +31,7 @@ Grenzburg is the first playable testbed for the setting: a frontier duchy trying
 
 ## 30 Characters
 
-- [[Duke Alaric von Grenzburg]]
+- [[Duke Alaric von Grenzburg|Duke Alaric von Grenzmark]]
 - [[Castellan Pierre Hohenwall]]
 - [[Lord High Bailiff Enzo Voss]]
 - [[Baron Anders of Hochfeld]]
@@ -37,10 +39,21 @@ Grenzburg is the first playable testbed for the setting: a frontier duchy trying
 - [[Bishop-Prelate Caestus]]
 - [[Magister Leviticus of Sestaren]]
 - [[Sir Gerhold Brandt]]
+- [[Captain Valdemar Koss]]
+- [[Ledger-Master Lucia Medori]]
+- [[Sergeant Liese of the Marcher Vanguard]]
+- [[Lady Elara]]
+- [[Knight Bernard]]
+- [[Dismas the Highwayman]]
+- [[Zafir the Bound Chainmaster]]
+- [[Sergeant Lotte Weissbruck]]
+- [[Runa Moss-Crown]]
+- [[Skrit Stone-Tooth]]
 
 ## 40 Factions
 
 - [[Factions Overview]]
+- [[Blackjack Corps]]
 - [[The Grobi]]
 - [[The Folk Clans]]
 - [[The Medori Bank]]
@@ -51,6 +64,7 @@ Grenzburg is the first playable testbed for the setting: a frontier duchy trying
 
 - [[Campaign Structure Notes (Open-World Pacing)]]
 - [[Three-Act Overview]]
+- [[Grenzburg Campaign Branch Matrix]]
 - [[Companion Quests]]
 - [[ACT I AUTUMN'S HARVEST]]
 - [[ACT II WINTER'S TEETH]]

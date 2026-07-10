@@ -146,7 +146,9 @@ When he does cross a line, he does it through layers of proxies.
 - Covers tracks from winter excesses before the Castellan can investigate.
 
 ---
-## Relationship to the player (Blackjacks)
+## Relationship to the player (Seconded Blackjacks)
+
+The player arrives as a Bank-owned Blackjack carrying a ducal warrant; this relationship may pressure either side of that divided authority.
 He sees you as both threat and opportunity—competent outsiders who can be bought or intimidated.
 
 ### How he sees you

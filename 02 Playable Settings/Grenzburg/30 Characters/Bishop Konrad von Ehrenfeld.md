@@ -82,7 +82,9 @@ The Duke uses Prelate Caestus as his point of contact, but Konrad, Ignatius, and
 
 ---
 
-## **Relationship with the Players (Blackjacks)**
+## **Relationship with the Players (Seconded Blackjacks)**
+
+The player arrives as a Bank-owned Blackjack carrying a ducal warrant; this relationship may pressure either side of that divided authority.
 
 The Church views the Blackjacks as **useful sinners**.
 *   **Brother Clemens (Hospitallers):** Might hire you to protect a medical supply caravan from bandits (or the Ashen Band), or to find a rare healing herb in Folk territory. Pays in kindness, safe lodging, and genuine blessings.

@@ -127,7 +127,9 @@ A relationship of **grudging, essential dependence**. She is his eyes where his 
 
 ---
 
-## Relationship to the Players (Blackjacks)
+## Relationship to the Players (Seconded Blackjacks)
+
+The player arrives as a Bank-owned Blackjack carrying a ducal warrant; this relationship may pressure either side of that divided authority.
 
 He views them as **Koss's dangerous tools**. Useful in the moment, corrosive in the long run.
 - **If they follow his orders:** He will be sternly fair, give them legitimate military support, and maybe even offer a curt "well done."
@@ -158,7 +160,7 @@ He views them as **Koss's dangerous tools**. Useful in the moment, corrosive in 
 4.  **He Becomes What He Hates:** In desperation, he adopts Koss's methods completely, turning the Garrison into a mercenary company in all but name.
 
 ---
-### **Captain Valdemar Koss, Commander of the Blackjacks**
+### **[[Captain Valdemar Koss]], Commander of the Blackjacks**
 
 **Role in the Rule of Three:**
 He is the Scalpel. Not a soldier, not a warden—**the asset manager of deniable violence**. He represents the "Bad" within the military structure: efficiency unburdened by tradition, loyalty, or morality. He believes Gerhold's fortress is a sentimental relic; the future is a network of secure contracts and calculated outcomes.
@@ -176,7 +178,7 @@ He is the Scalpel. Not a soldier, not a warden—**the asset manager of deniable
 **Relationship with the Players:** He is your direct boss. He gives you the worst, most profitable jobs. He will defend you fiercely from external criticism (you're *his* assets), but will liquidate you without a second thought if your risk profile outweighs your value. He offers bonuses, better gear, and vague promises of "debt restructuring" for exceptional results.
 
 ---
-### **Sergeant Liese of the Marcher Vanguard**
+### **[[Sergeant Liese of the Marcher Vanguard]]**
 
 **Role in the Rule of Three:**
 She is the Ground. Not an officer, not a scout—**the living link between the fortress and the land**. She represents the "Ugly" pragmatism of those who live in the mud and snow. Her loyalty is to the people of the Marches, which sometimes aligns with the Duke, sometimes with the Folk, and never perfectly with the Marschal's rigid lines on a map.

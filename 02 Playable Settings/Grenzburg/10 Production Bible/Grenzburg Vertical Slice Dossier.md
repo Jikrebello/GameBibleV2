@@ -32,6 +32,8 @@ Grenzburg is a southern frontier duchy trying to survive one crisis year: autumn
 
 ## The Playable Loop
 
+The customizable protagonist is both a Bank-owned Blackjack and a ducal troubleshooter under the [[Crisis Charter of Secondment]]. [[Captain Valdemar Koss]] controls the debt-contract and confidential riders; [[Castellan Pierre Hohenwall]] controls public field deployment; Duke Alaric sets strategic priorities. See [[Player Mandate and Dual Chain of Command]].
+
 1. **Take a problem from the Council, faction boards, or field discovery.**
 2. **Travel through a concrete pressure point:** gate, village, mine, forest, lake, barrow, undercity, wall, or ration line.
 3. **Choose which institution gets the win:** Duke, Church, Bank, Folk, outsiders, or no one cleanly.
@@ -68,12 +70,22 @@ Grenzburg is a southern frontier duchy trying to survive one crisis year: autumn
 - **Wolfsmere line:** Mael's Lakekeeper authority can stabilize the Folk or awaken a deeper wound.
 - **Endgame settlement:** who gets law after survival: ducal courts, relic courts, debt courts, clan compact, or external treaty.
 
+## Canonical Continuation
+
+The authorial continuation is the hardest integrative Duke's Path: all three villages survive, Liese/Leviticus/Caestus unlock ducal Heart-Stone custody, Leviticus is redeemed after his coerced winter betrayal, the Drake's Heart Gem is sacrificed to destroy the Stone, and the summer charter restores ducal sovereignty while limiting Bank, Church, and settlement encroachment. Alternate Bank, Church, Folk, External, and Hollow outcomes remain complete playable endings.
+
+## Companion Rule
+
+The field party contains the player plus three active companions. Four core companions carry full loyalty arcs; three lighter recruits provide narrower reactive arcs. [[Companion Quests]] is the roster authority.
+
 ## Required Supporting Notes
 
 - [[Grenzburg Numbers and Constraints]]
 - [[Grenzburg Regional Geography]]
 - [[Factions Overview]]
 - [[Campaign Structure Notes (Open-World Pacing)]]
+- [[Grenzburg Campaign Branch Matrix]]
+- [[Player Mandate and Dual Chain of Command]]
 - [[Companion Quests]]
 - [[Pale-Skins and Hollow-Kings]]
 

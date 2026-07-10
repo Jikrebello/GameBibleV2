@@ -8,9 +8,7 @@ region: ["Grenzburg"]
 culture: []
 related_factions: []
 appears_in: ["Grenzburg"]
-needs:
-  - tune named Grobi leaders against encounter notes
-  - decide exact role of Grakka Stone-Tooth in Act I and Act II
+needs: []
 tags:
   - game-ready
 ---
@@ -30,10 +28,19 @@ The Grobi are **The Inevitable Bad, with an Internal Hunger.** They are not a mi
 *   **Leader:** Grakka is a **True-Born Orc**, which grants him stability and a cunning, patient intelligence. His stone tooth is a trophy from a rival he outsmarted and consumed. He views Grenzburg not as an enemy to destroy, but as a **herd to be managed**.
 *   **Goal:** To establish a permanent **predator-prey relationship**. They want the Duchy as a reliable source of winter biomass (grain, livestock, and the occasional "tithe" of criminals or captives) in exchange for their services. Their "truce" is the logic of a shepherd who protects his flock from wolves so he can shear them forever.
 *   **Offer:** They provide intelligence on rival tribes and the horde, trade worked goods, and may even **rent their strength as mercenaries** against other Grobi or the Folk. They make themselves useful to delay being eaten.
+*   **Campaign Role:** In Act I, Grakka orders disciplined probes along the Fenn Road and unknowingly circulates Pale-Skin blood-stones as trade counters. In Act II, he offers intelligence and controlled predation if Grenzburg feeds the western corridor. He never joins the city or renounces human tribute as an ideal.
 *   **Faustian Bargain with the Duke:** Dealing with Grakka is acknowledging a **fate worse than war, but potentially less immediate**.
     1.  **It is an Affront to Civilization:** It requires formally accepting a predatory relationship. You are agreeing to be a farm for monsters.
     2.  **It Fuels Their Strength:** The grain and wool you trade are directly converted into biomass that maintains their Orc warriors and may even create new ones.
     3.  **Their Loyalty is Metabolic:** The moment Grenzburg cannot pay its "blood tithe," or shows a moment of weakness, the Stone-Tooth will revert. They will be the first over the wall, proving their strength to the larger horde by consuming their former partners. The deal is stable only as long as you are strong enough to make being a parasite more profitable than being a conqueror.
+
+---
+
+## **The Western Migration Actors**
+
+- **Herd-Matron Uru:** commands a train of hungry dependents rather than a conquering host. Her corridor can be fed, redirected, or abandoned; starving it strengthens Ghor's recruitment.
+- **Trader-Captain Skiv:** buys prisoners, tools, medicine, and route knowledge for Grakka. His information is accurate only while accuracy remains profitable.
+- **[[Skrit Stone-Tooth]]:** Grakka's expendable broker and the only recruitable Grobi. His temporary service tests whether the player can use a predator without calling predation virtuous.
 
 ---
 
@@ -68,7 +75,7 @@ This lifecycle defines their society:
 *   **Orcs (Morphs):** Unstable and paranoid. They must constantly eat to maintain their form, making them aggressive and territorial. They form the warrior core but are prone to infighting over food.
 *   **Orcs (True-Born):** The stable ruling class. Freed from the fear of regression, their intelligence can be applied to strategy, crafting, and the long-term management of predation (like Grakka).
 *   **Ogres (Morphs):** Rare, terrifying, and mentally strained. Their immense hunger borders on insanity. They are berserker champions, often kept chained and unleashed as weapons.
-*   **Ogres (True-Born):** The strategic masters. Like Ghor or the Hollow-Kings, they possess great intelligence utterly focused on the acquisition of resources to feed themselves and their followers. They are the only ones capable of uniting large warbands.
+*   **Ogres (True-Born):** Strategic masters like Ghor, capable of uniting large warbands around promised food. The Hollow-Kings are not Grobi; their resemblance is part of the Pale-Skins' manipulation.
 *   **Trolls:** Mythic end-states. A creature of such overwhelming hunger and power that it becomes a natural disaster. It does not lead; it **consumes**. Its presence would spell the end of the frontier.
 
 ---
@@ -86,4 +93,3 @@ The Duke’s strategy is **metabolic warfare**.
 
 - [[Grenzburg MOC]]
 - [[Canon Index]]
-

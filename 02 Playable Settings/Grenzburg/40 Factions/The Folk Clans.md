@@ -28,6 +28,7 @@ The Folk are the **Wild Card**. They are not a single "Ugly" faction but a spect
 *   **Leader:** Anya Moss-Crown is not a warrior-queen but a **speaker-for-roots**. Middle-aged, sharp-eyed, with a crown of living moss and braided hawthorn. She speaks the trader's tongue fluently, understands debt, and thinks in generations.
 *   **Goal:** To secure a **Great Sanctuary**—a tract of primeval forest, larger than any logging claim, legally recognized by the Duke's charter and placed under their stewardship. No axe, no fire, no settlement, forever.
 *   **Offer:** In exchange, they provide unparalleled services: guides through treacherous passes, early warnings of Grobi movements, and trade in rare, potent herbs that can cure winter fevers or heal wounds.
+*   **Player Voice:** [[Runa Moss-Crown]] is Anya's subordinate grove warden and the recruitable witness to sanctuary law.
 *   **Faustian Bargain with the Duke:** Granting the Sanctuary would be an act of supreme statesmanship... and economic suicide. It would:
     1.  **Cripple the Lumber Cartel**, stripping Holger Strun of his most valuable future tracts, likely causing him to revolt or defect.
     2.  **Enrage the Settlers**, who see any "untouched" land as wasted opportunity, breeding unrest.
@@ -71,7 +72,7 @@ The Folk are the **Wild Card**. They are not a single "Ugly" faction but a spect
 ---
 
 ## **4. The Chapel-Folk (The "Redeemed"): The In-Between**
-**Led by: Elof the Bridge**
+**Led by: Elof of the Chapel-Folk**
 
 *   **Concept:** The torn. Two generations ago, a Folk clan devastated by plague was saved by a wandering preacher of the Redeemer. They converted, adopting the faith and some customs. Now, they are **outcasts to both worlds**.
 *   **Leader:** Elof is a man of two faces. He wears a simple Redeemer's wheel around his neck but keeps his hair in the braids of his mother's clan. He speaks both tongues perfectly and is fluent in the scriptures, which he uses to argue for his people's place.
@@ -93,6 +94,16 @@ The Folk are the **Wild Card**. They are not a single "Ugly" faction but a spect
 
 ---
 
+## **5. The River-Clans: The Road-Brokers**
+
+**Led by: Speaker Bran of the River-Clans**
+
+The River-Clans live along the downstream crossings and seasonal fisheries. They favor bounded treaties, hostage exchange, and paid scouting because movement is their survival. Bran offers warning of Grobi crossings and neutral meeting ground, but every road concession establishes a Folk jurisdiction the Duke will struggle to retract.
+
+They are not interchangeable with Moss-Crown. Moss-Crown bargains for permanent sanctuary; River-Clans bargain for movement, toll, and recognition along living waterways.
+
+---
+
 ## **The Collective Folk Dynamic & The Duke's Hell**
 
 The Folk are not a problem the Duke can solve with a single treaty or war. They are a **condition of the landscape**. His strategy must be a balancing act:
@@ -107,4 +118,3 @@ Every decision with one clan reverberates through the others, turning the forest
 
 - [[Grenzburg MOC]]
 - [[Canon Index]]
-

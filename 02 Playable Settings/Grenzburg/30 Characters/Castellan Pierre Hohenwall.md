@@ -190,7 +190,9 @@ If the Duke forces him across a taboo, Pierre doesn’t whine—he starts planni
 
 ---
 
-## Relationship to the player (Blackjacks)
+## Relationship to the player (Seconded Blackjacks)
+
+The player arrives as a Bank-owned Blackjack carrying a ducal warrant; this relationship may pressure either side of that divided authority.
 
 He respects competence and hates freelancing.
 
@@ -231,7 +233,7 @@ If you succeed, he becomes your strongest institutional ally. If you embarrass h
 
 - **With Duke Alaric (Ugly):** constant friction over “exceptions.” Pierre views exceptions as rot.
     
-- **Against the Provost/Master of Coin (Bad):** Pierre is the biggest obstacle to skimming and charter scams.
+- **Against Lord High Bailiff Enzo Voss (Bad):** Pierre is the biggest obstacle to skimming and charter scams.
     
 - **With the Church:** Pierre tolerates charity, despises coercive moral politics.
     
@@ -285,4 +287,3 @@ This makes him a natural magnet for coups—both for and against.
 
 - [[Grenzburg MOC]]
 - [[Canon Index]]
-

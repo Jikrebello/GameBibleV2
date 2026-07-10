@@ -128,7 +128,9 @@ A relationship of **necessary damnation**. He abhors her methods but knows the C
 
 ---
 
-## Relationship to the Players (Blackjacks)
+## Relationship to the Players (Seconded Blackjacks)
+
+The player arrives as a Bank-owned Blackjack carrying a ducal warrant; this relationship may pressure either side of that divided authority.
 
 He views them as **souls in profound peril**, but also as potential instruments of a merciful God.
 - **If they show a spark of conscience:** He will seek them out, offer genuine confession without judgment, and may give them tasks that allow for redemption—protecting a Folk healer, delivering medicine to a quarantined hamlet, retrieving a stolen item of sentimental (not monetary) value.

@@ -9,7 +9,6 @@ culture: []
 related_factions: []
 appears_in: ["Grenzburg"]
 needs:
-  - tune exact player-controlled trigger points
   - decide final UI/game terminology
 tags:
   - game-ready
@@ -17,6 +16,8 @@ tags:
 # Grenzburg Campaign Structure Notes
 
 This note defines the pacing philosophy for Grenzburg: narrative beats with open-world buffers. It is canon as a design principle, while exact UI and trigger implementation remain open.
+
+The actual story triggers are locked in [[Grenzburg Campaign Branch Matrix]]. Major escalation occurs only when the player reports readiness to the named authority, crosses the locked threshold location, or deliberately begins the next seasonal transition. Ambient danger may intensify during a buffer, but required quests do not silently expire.
 
 The target feel is narrative density and consequence wrapped in open-world freedom and systemic depth. The key is to treat the main quest not as a rigid rail, but as a **pulsing heart**: it beats forward at decisive moments, while the body of the open world can move and act independently between beats.
 

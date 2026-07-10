@@ -22,6 +22,15 @@ Companion to `Maps/Grenzburg Regional Map v1.png`. Fulfills the [[Grenzburg as V
 
 **Grenzburg** sits on the **River Grenz** at the last good bridging point before the southern forests — walls, ducal keep, Medori docks (debt flows downstream, grain flows up), and the northern gate where the Great Funnel bottlenecks every autumn. The river runs north toward Veridancia and the Sanctum roads: five to seven weeks to Aurelium, which is exactly how alone Grenzburg is.
 
+### Required City Quest Sites
+
+- **Ducal Keep and Council Chamber:** secondment, trust reports, Heart-Stone vault, theft investigation, and summer settlement.
+- **Iron Ledger Counting-House:** Blackjack induction, Bank riders, debt records, Elara's investigation, and the alternate Bank theft route.
+- **Cathedral Close:** Caestus's hospitals, Ignatius's Ashen Band, Marcellina's chancery, and Bernard's relic conflict.
+- **Main Granary and Ration Lines:** Leviticus's winter system, the Pale-Skin infiltrator, and Enzo's skimming.
+- **Undercity and Old Mine Works:** black market, Dismas's contacts, blood-stone traffic, and routes beneath the walls.
+- **Katarina's Manor and Service Tunnel:** artifact archive, Gilded Shroud fragment, and the canonical Heart-Stone transfer route.
+
 ## The Three Villages
 
 - **Lakewatch** (west, ~2 days): fishing village on **Long Lake**; smoked-fish stores feed the city's winter; the lake ices early — the road passes the **Moss-Crown sacred grove** violated by Clear-Cut crews (Act I flashpoint).
@@ -31,6 +40,14 @@ Companion to `Maps/Grenzburg Regional Map v1.png`. Fulfills the [[Grenzburg as V
 ## The Southwood and the Barrow
 
 South of the villages the **Southwood** thickens toward the true frontier. In its deep heart: the **Barrow of the First Chieftain** — the pre-human, three-tiered ruin holding the **Heart-Stone**, with the **Dragon's Tomb** in the dark beneath (Act III's descent). Nearby barrow-fields dot the hills; the **Ashfield** — a Shell-scar of old war-magic where nothing grows straight — sits between Timberfalls and the lake country, satisfying the vertical slice's war-magic-footprint requirement.
+
+### Required Outer Quest Sites
+
+- **Highlake Under-Ruins:** the Gilded Shroud vault and Pale-Skin excavation accessed through sealed mine workings.
+- **Shrine of First Snow:** Bernard's mountain pilgrimage site beyond the winter patrol line.
+- **Emerald Drake Lair:** a cliff valley beyond Highlake, seeded with Pale-Skin agitation beacons.
+- **Fenn Road Exchange:** Skrit's recruitment, Uru's migration corridor, and the blood-stone market.
+- **Dragon's Tomb:** four encounter layers beneath the Barrow: corrupted chambers, ossuary, geothermal veins, and machine-god carcass.
 
 ## Wolfsmere
 

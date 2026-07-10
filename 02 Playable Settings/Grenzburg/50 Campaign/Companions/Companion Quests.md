@@ -9,16 +9,44 @@ culture: []
 related_factions: []
 appears_in: ["Grenzburg"]
 needs:
-  - confirm companion roster and final names
-  - tune loyalty outcomes against final faction endings
+  - tune approval thresholds, field-role balance, and banter frequency during implementation
 tags:
   - game-ready
 ---
 # Companion Quests
 
-This note is canon as the companion-arc framework. Exact quest steps, names, and loyalty mechanics can still be tuned, but each companion should remain tied to a major Grenzburg system: debt, faith, roads, contracts, faction trust, and the final descent.
+This note is the controlling companion-arc framework. The roster, canonical outcomes, party size, and relationship to the final descent are locked; only numerical approval thresholds and production-level banter frequency remain tunable.
 
 Each companion's personal questline will follow the same hybrid structure as the main story: **narrative beats** that advance their character arc, separated by **open-world buffers** where their quests can be pursued (or ignored) at the player's pace. Their stories intersect with the main plot, factions, and each other.
+
+## Party Model
+
+The field party is the player plus **three active companions**. Any recruited companion may fill a slot. The four core companions have five-beat, three-act loyalty arcs and unique final-dungeon solutions. The three lighter recruits have three-beat reactive arcs and narrower field solutions.
+
+## Locked Roster
+
+### Core Companions
+
+- [[Lady Elara]]: noble justice, the Gilded Shroud, and the Bank's hidden soul clauses.
+- [[Knight Bernard]]: mercy, institutional corruption, and the Chalice of Atonement.
+- [[Dismas the Highwayman]]: frontier leadership, guilt, and public atonement.
+- [[Zafir the Bound Chainmaster]]: contract bondage, metaphysical law, and freedom.
+
+### Lighter Recruits
+
+- [[Sergeant Lotte Weissbruck]]: ordinary ducal service and marcher survival.
+- [[Runa Moss-Crown]]: Folk sovereignty and sanctuary law.
+- [[Skrit Stone-Tooth]]: transactional Grobi cooperation against the Hollow-Kings.
+
+## Canonical Continuation Outcomes
+
+- Elara exposes the Silent Partners while preserving ordinary deposits and grain credit under ducal audit.
+- Bernard chooses personal faith and works with Caestus outside his former order.
+- Dismas accepts leadership, public accountability, and the Marcher service.
+- Zafir wins freedom without inverting the contract or accepting a new master.
+- Lotte joins the audited Marcher service; Runa becomes the sanctuary's court witness; Skrit departs through a bounded trade corridor.
+
+Alternate loyalty results remain playable and can lock or alter faction endings. The outcomes above are used by later canonical material.
 
 ---
 
@@ -41,8 +69,8 @@ Each companion's personal questline will follow the same hybrid structure as the
 
 ### **ACT III: THE UNVEILING (Spring)**
 *   ***Buffer - The Final Suspects:*** Elara has three powerful suspects, each with a motive: **Silas Medori** (to protect Bank secrets), **Bishop Konrad** (to control a powerful relic), or **Duke Alaric** (to prevent destabilizing knowledge). She needs irrefutable proof. This requires high-stakes social gameplay: planting listening devices in the Manse, forging documents to force a confession, or using the Shroud itself on a suspect (which requires getting dangerously close).
-*   **Beat 5 - Confrontation:** Elara arranges a meeting with the true culprit at the site of Martyn's death. It is **Ledger-Master Elara** (the Bank's "Good" face). In a tragic twist, she reveals she ordered the hit to protect Zafir and hundreds of other debtors from a clause in their contracts that allows the **Silent Partners** to claim their souls upon death—a clause Martyn was about to expose. She offers Elara a deal: keep the Shroud, expose the clause, and destroy the Bank's reputation, but in doing so, cause a catastrophic financial collapse that would doom Grenzburg. Or, bury the truth, and let her reform the Bank from within.
-*   **Loyalty Resolution:** Elara looks to you. Do you support **Justice (expose, chaotic good)** or **Stability (reform, lawful good)**? Her loyalty is locked by this choice. If loyal, she uses the Shroud in the final dungeon to reveal the Pale-Skins' ritual weaknesses.
+*   **Beat 5 - Confrontation:** Elara arranges a meeting with the true culprit at the site of Martyn's death. It is **Ledger-Master Lucia Medori** (the Bank's "Good" face). In a tragic twist, she reveals she ordered the hit to protect Zafir and hundreds of other debtors from a clause in their contracts that allows the **Silent Partners** to claim their souls upon death—a clause Martyn was about to expose. She offers Elara a deal: keep the Shroud, expose the clause, and destroy the Bank's reputation, but in doing so, cause a catastrophic financial collapse that would doom Grenzburg. Or, bury the truth, and let her reform the Bank from within.
+*   **Loyalty Resolution:** Elara may choose indiscriminate exposure, concealment in exchange for internal reform, or controlled disclosure. On the canonical Duke's Path, she proves Lucia's culpability, exposes the Silent Partners and their soul clauses, and ring-fences ordinary deposits and grain credit under ducal audit. If loyal, she uses the Shroud in the final dungeon to reveal the Pale-Skins' ritual weaknesses.
 
 ---
 
@@ -63,7 +91,7 @@ Each companion's personal questline will follow the same hybrid structure as the
 ### **ACT III: THE FINAL ABSOLUTION (Spring)**
 *   ***Buffer - The Grandmaster's Judgment:*** Bernard's former **Templar Grandmaster** arrives in Grenzburg with the spring thaw, leading a contingent to "assist" the fractured Church. He offers Bernard reinstatement—if he surrenders the Chalice to the Order and denounces Caestus's "soft" ways. This is Bernard's old life calling.
 *   **Beat 5 - The Broken Rope:** Bernard's final test. The Grandmaster reveals the truth: the original sale of the Chalice was sanctioned by **high-ranking members of the Order** to fund a secret war against Folk "heresy." Bernard was framed not by one corrupt brother, but by the system itself. The Grandmaster gives him a new, pure white rope and an ultimatum: rejoin the Order with a clean slate and real power to change it, or walk away as a permanent heretic.
-*   **Loyalty Resolution:** Does Bernard choose **Institutional Power (lawful neutral)** or **Personal Faith (chaotic good)**? His loyalty determines his role in the final battle: either leading a squad of templars, or standing alone as a beacon of hope against the darkness.
+*   **Loyalty Resolution:** Bernard may accept institutional power or choose personal faith outside the compromised Order. On the canonical Duke's Path, he rejects the new rope, remains within the faith, and works with Caestus to preserve spiritual ministry without coercive jurisdiction. His loyalty determines whether he brings templars or stands as an independent beacon in the final battle.
 
 ---
 
@@ -74,17 +102,17 @@ Each companion's personal questline will follow the same hybrid structure as the
 ### **ACT I: THE GHOSTS OF THE ROAD (Autumn)**
 *   **Beat 1 - The Marked Coin:** Dismas receives a message: a silver coin, marked with his old gang's symbol, left on his bunk. It means one of his former crew is in Grenzburg and wants to meet. The contact is **Kaela**, his former second-in-command and the woman he loved, who now leads the shattered remnants of the gang as ruthless mercenaries.
 *   ***Buffer - Old Wounds:*** Kaela is bitter. She blames Dismas for abandoning them after the massacre. She's in Grenzburg working as muscle for **Holger Strun**, strong-arming settlers. She tells Dismas the gang didn't just fall apart—they were **manipulated** into attacking that noble coach by a third party who paid them with strange, pale gemstones (blood-stones). She gives him a name: **"The Pale Factor."**
-*   **Beat 2 - The Factor's Trail:** The Pale Factor is a **Medori Bank middle-manager** who was experimenting with using blood-stones to incite violence and create debtors/refugees. Dismas wants to confront him, but the man has vanished into the Bank's bureaucracy. Getting to him requires doing a **very dirty job for Captain Vorl** to gain access, forcing Dismas to relive his old life.
+*   **Beat 2 - The Factor's Trail:** The Pale Factor is a **Medori Bank middle-manager** who was experimenting with using blood-stones to incite violence and create debtors/refugees. Dismas wants to confront him, but the man has vanished into the Bank's bureaucracy. Getting to him requires doing a **very dirty job for Captain Valdemar Koss** to gain access, forcing Dismas to relive his old life.
 
 ### **ACT II: THE WINTER OF RECKONING (Winter)**
 *   **Beat 3 - Blood in the Snow:** You find the Pale Factor hiding in the **Undercity**, now a crazed, blood-stone addict. He reveals he was just following orders from the **Silent Partners**. Before you can get more, he's killed by **Kaela**, who wants revenge, not answers. She and her new crew are now stuck in the city, and old tensions flare.
-*   ***Buffer - Keeping the Peace:*** Kaela's crew starts causing trouble, clashing with **Bailiff Hagen's** thugs and the **Ashen Band**. Dismas must constantly intervene, acting as a mediator between his old family and the city's powers. This plays out as a series of radiant quests to break up fights, rescue captured gang members, or pull off small heists to keep them fed, testing Dismas's diplomatic and thieving skills.
+*   ***Buffer - Keeping the Peace:*** Kaela's crew starts causing trouble, clashing with **Lord High Bailiff Enzo Voss's** thugs and the **Ashen Band**. Dismas must constantly intervene, acting as a mediator between his old family and the city's powers. This plays out as a series of radiant quests to break up fights, rescue captured gang members, or pull off small heists to keep them fed, testing Dismas's diplomatic and thieving skills.
 *   **Beat 4 - The Siege Test:** During Ghor's assault on the walls, a section manned by **settlers and Kaela's crew** is about to break. Dismas must lead them—using his old command skills he swore off. Success proves his leadership can save lives. Failure hardens Kaela's heart.
 
 ### **ACT III: THE ROAD AHEAD (Spring)**
 *   ***Buffer - A New Gang:*** With the thaw, Kaela plans to leave and rebuild the gang in the wilds. She offers Dismas his old place as her partner. Simultaneously, **Sergeant Liese** offers Dismas a formal position as a **Scout-Sergeant** for the Garrison, to lead reconnaissance with his unique skills. He must choose between the freedom of the outlaw life and the responsibility of a soldier.
 *   **Beat 5 - The Last Coach:** Dismas discovers the final truth. The noble family whose coach was attacked is in Grenzburg. The sole survivor, a now-grown **child** he thought was killed, is here—as a **Blackjack recruit**. The young man recognizes Dismas. Dismas must face him: beg for forgiveness, try to explain, or deny it. The recruit's response is based on Dismas's previous actions (did he show mercy? Did he protect people?).
-*   **Loyalty Resolution:** Dismas's choice defines his redemption. Does he **Flee (return to the wilds with Kaela)**, **Atone (stay and face justice/forgiveness)**, or **Lead (accept Liese's offer and protect others)**? His loyalty mission in the final dungeon involves either his gang creating a diversion, his scout team securing a path, or him making a solo sacrifice to save the recruit.
+*   **Loyalty Resolution:** Dismas may flee with Kaela, remain to face judgement, or accept Liese's offer. On the canonical Duke's Path, atonement and leadership become the same obligation: he admits what he did, accepts that forgiveness is not owed, and serves in the reformed Marcher scouts. His final-dungeon support reflects the path taken.
 
 ---
 
@@ -108,6 +136,9 @@ Each companion's personal questline will follow the same hybrid structure as the
 *   **Loyalty Resolution:** The verdict. Zafir can:
     *   **Win His Freedom:** The contract is voided. He is powerless but free.
     *   **Invert the Terms:** He becomes the binding party, gaining control over the Medori Bank's infernal credits (a huge, dangerous power).
+    *   **Accept Substitution:** He exchanges the Bank's instrument for a new patron and remains powerful but bound.
+
+On the canonical Duke's Path, Zafir wins freedom, rejects inversion and substitution, and enters the peace as a free jurist and witness against predatory contracts.
     *   **Accept a New Master:** Malphas offers a "fairer" contract with the Kuthite legions, making Zafir a planar mercenary.
 His choice determines his final role: a freed man seeking a new purpose, a ruthless power broker, or a general of hell.
 

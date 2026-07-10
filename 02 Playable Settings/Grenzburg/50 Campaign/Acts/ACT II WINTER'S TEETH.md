@@ -8,9 +8,7 @@ region: ["Grenzburg"]
 culture: []
 related_factions: []
 appears_in: ["Grenzburg"]
-needs:
-  - tune Drake hunt branches
-  - decide which theft variants get full quest paths
+needs: []
 tags:
   - game-ready
 ---
@@ -24,10 +22,10 @@ Act II turns Grenzburg inward. The walls hold the city together physically while
 Winter descends like a shroud. Grenzburg is now a pressure cooker of roughly thirty thousand permanent residents, refugees, soldiers, debtors, and seasonal laborers. The player's debt is now paid in the currency of survival.
 
 **The New Normal:**
-*   **Rationing & Resentment:** **Magister Leviticus's** systems are tested immediately. The player's squad is assigned to ration distribution points, where they must enforce grim fairness: half-portions for the "non-essential." They witness **Bailiff Hagen** skimming from the stores, and **Brother Clemens** breaking rules to feed Chapel-Folk children.
-*   **The Duke's Midnight Meeting:** In the depths of the Manse, Duke Alaric is a man holding a cracking dam. If the player earned his audience, he is blunt: "You have a knack for finding thorns. Now I need you to find the weak points in my own walls. You report to me, and to **Sir Gerhold**. To no one else." He implies that the factions are already maneuvering in the siege's shadow.
+*   **Rationing & Resentment:** **Magister Leviticus's** systems are tested immediately. The player's squad is assigned to ration distribution points, where they must enforce grim fairness: half-portions for the "non-essential." They witness **Lord High Bailiff Enzo Voss** skimming from the stores, and **Brother Clemens** breaking rules to feed Chapel-Folk children.
+*   **The Duke's Midnight Meeting:** Duke Alaric confirms the dual chain rather than pretending it has vanished. Pierre and Gerhold control public deployment; Koss remains the player's contractual commander. The Duke asks the player to expose any Bank rider that endangers the city, knowing he cannot simply cancel the contract.
 *   **The Heart-Stone's Influence:** Depending on where the Stone was placed, its amplifying effect begins to warp the siege:
-    *   **Bank Vaults:** The Blackjacks become more aggressive, more efficient, but also crueller and more paranoid. **Captain Vorl** seems stronger, but his eyes have a hungry gleam.
+    *   **Bank Vaults:** The Blackjacks become more aggressive, more efficient, but also crueller and more paranoid. **Captain Valdemar Koss** seems stronger, but his eyes have a hungry gleam.
     *   **Church Crypts:** The Ashen Band's fervour becomes a palpable, feverish heat. **Deacon Ignatius's** sermons now draw physical warmth from listeners, leaving them shivering. Reports of "visions" and "divine wrath" among the zealots increase.
     *   **Folk Keeping (Ghost-Foot):** Strange, quiet areas appear in the city where sound dies and fear lessens. But people who linger there forget small things—their own name, the face of a loved one.
     *   **Ducal Vault (If Secured):** The Duke seems more burdened, but also more fiercely determined. The Stone is a secret he and a trusted few (the player, Gerhold, Leviticus, Caestus) bear. He uses its subtle amplification sparingly, focusing it on **Sir Gerhold's** command centre to sharpen tactical awareness, at the cost of Gerhold's brutal headaches.
@@ -37,14 +35,14 @@ Winter descends like a shroud. Grenzburg is now a pressure cooker of roughly thi
 **1. The Granary Ghost.**
 *   **The Job:** A watchman reports seeing a "pale child" in the main granary. Stocks are depleting faster than ledgered.
 *   **The Truth:** It's not a ghost, but a **Pale-Skin infiltrator** sent to weaken the city from within. It doesn't eat grain; it *spoils* it with its presence, turning it to rot and ash. It's also scouting the location of the Heart-Stone.
-*   **The Factions:** **Sister Marcellina** is already investigating, seeking to capture the creature for Church study. **Ledger-Master Elara** wants it eliminated to protect assets. The Duke wants it taken alive and interrogated *quietly*.
+*   **The Factions:** **Sister Marcellina** is already investigating, seeking to capture the creature for Church study. **Ledger-Master Lucia Medori** wants it eliminated to protect assets. The Duke wants it taken alive and interrogated *quietly*.
 *   **The Choice:** A chase through the cramped, frozen undercrofts of the city. Can you capture it? If so, who do you give it to? Its death-scream might alert its masters.
 
 **2. The Poisoned Well.**
 *   **The Job:** Sickness breaks out in the cramped Fisher's District. **Prelate Caestus** suspects poison or plague.
 *   **The Truth:** **The Shattered-Tusk Clan**, under **Jorund**, has tunnelled. Not a full-scale attack, but a sabotage run to poison a cistern. They were guided by a crude map provided by the **Pale-Skins**.
-*   **The Factions:** **Deacon Ignatius** declares it a sign of God's wrath for tolerating the Chapel-Folk, and demands they be expelled into the snow. **Baroness Solveig** wants the tunnel found and the perpetrators executed publicly to maintain order. **Elof the Bridge** pleads for a chance to find and talk to the saboteurs, believing some may be his kin.
-*   **The Choice:** A race into the sewers and old mine works beneath the city. Do you slaughter the saboteurs, capture them for Solveig's justice, or let Elof try his doomed diplomacy?
+*   **The Factions:** **Deacon Ignatius** declares it a sign of God's wrath for tolerating the Chapel-Folk, and demands they be expelled into the snow. **Baron Anders of Hochfeld** wants the tunnel found and the perpetrators executed publicly to maintain order. **Elof of the Chapel-Folk** pleads for a chance to find and talk to the saboteurs, believing some may be his kin.
+*   **The Choice:** A race into the sewers and old mine works beneath the city. Do you slaughter the saboteurs, capture them for Baron Anders's court, or let Elof attempt diplomacy?
 
 **3. The Usurer's Ice.**
 *   **The Job:** On the frozen lake, a clandestine trade is happening. **"Silent Svea"** from Lakewatch is bartering with **Stone-Tooth** Grobi, trading stolen medicines for... something.
@@ -77,11 +75,11 @@ This is a major dungeon crawl in the frozen, Grobi-infested wilderness between t
 *   **The Journey:** The squad must evade Grobi patrols and the drake's aerial sweeps. They might find a slaughtered **Moss-Crown** hunting party, their bodies preserved by frost and fear—a warning from the land.
 *   **The Lair:** The drake's valley is a place of terrible beauty. The carcasses of Grobi scouts are everywhere. The players must use terrain, siege weapons brought in pieces, and cunning to ground the beast.
 *   **The Revelation:** In the battle, they discover the truth. The Drake didn't just wake randomly. **Pale-Skin** artifacts are embedded in the cliffs around its lair—crude psychic beacons that agitated it, *driving it towards the city*. The Pale-Skins are weaponizing the very land.
-*   **The Kill:** The battle is epic. The Drake is a force of nature. Victory requires sacrificing resources, potentially the lives of NPC allies, and maybe even using a **blood-stone** shard to momentarily amplify their own weapons or magic, risking corruption.
-*   **The Prize:** In the lair, amidst treasure, is a **Drake's Heart Gem**—a powerful, pristine natural artifact thrumming with life-force, the antithesis of the necromantic Heart-Stone.
+*   **The Resolution:** The party may kill the Drake, force it from the siege corridor, calm it through Folk living-law, or accept Katarina's dangerous capture plan. Every route costs military or faction capital.
+*   **The Prize:** A **Drake's Heart Gem** can be secured from the defended heart-cache or naturally shed core-growth even if the Drake survives. It is a pristine life artifact and the necessary counter to the Heart-Stone.
 
 **The Return & The Shift:**
-You return to the city as heroes, bearing the Gem. The Drake's death has broken the Grobi's coordinated assault, buying precious time. But the factions descend:
+You return to the city bearing the Gem. Removing the Drake from the battlefield has broken the Grobi's coordinated assault, buying precious time. But the factions descend:
 *   **The Bank (Silas Medori):** "A remarkable asset. Its value could restructure the Duchy's entire debt. We will appraise it."
 *   **The Church (Bishop Konrad):** "A divine providence! The heart of a fallen serpent, perfect for crafting a holy relic to counter the dark one we hold."
 *   **Lady Katarina:** Sends an offer: the Gem for a full pardon of your debt and a share in her research.
@@ -123,7 +121,7 @@ The vault holding the **Heart-Stone** has been breached.
 *   If the **Bank** had it, it was an "inside job" by a Blackjack squad loyal to the **Silent Partners**, who have now fled with it.
 *   If the **Church** had it, **Sister Marcellina** is found "subdued," and the Stone is gone. Evidence points to **Ignatius**, who has vanished with his most fanatical followers, believing he can wield its power for a final purge.
 *   If the **Folk** had it, the Ghost-Foot Weaver is found dead, its body desiccated. The Stone is gone, and the only clue is a whisper of cold, metallic laughter from the depths of the ruins beneath the city.
-*   If the **Duke** had it, the betrayal is deepest. The vault was opened with the Duke's own seal. **Magister Leviticus** is found dead, a look of shock on his face. He was the only other person who knew the full security measures. The Stone is gone, and the Duke's trust is shattered. The traitor is someone within the Inner Council.
+*   If the **Duke** had it, **Magister Leviticus** is missing and the vault bears his valid authorization. The Silent Partners used a forged neutral-escrow interpretation and threatened to cancel Grenzburg's grain credit. Leviticus moved the Stone through Katarina's service tunnel believing he could preserve both city and law; Pale-Skins seized the transfer. Whether he is exposed, executed, or redeemed becomes the canonical spring investigation.
 
 **Act II Closes** with the first thaw of spring, but no warmth reaches Grenzburg. The siege is broken, but the true enemy has what it wanted all along. The player stands amidst the celebration, knowing the victory is hollow. The **Hollow-Kings** have their amplifier. The ritual for the Dragon's awakening is now entering its final phase. The final battle will not be for walls, but for the soul and future of the land itself.
 
@@ -133,4 +131,3 @@ A single, frost-bitten flower pushes through the blood-soaked mud by the gate. I
 
 - [[Grenzburg MOC]]
 - [[Canon Index]]
-

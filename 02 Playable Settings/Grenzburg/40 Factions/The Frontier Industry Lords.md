@@ -31,7 +31,7 @@ These are the **Ugly** factions of production. They are not ideologues like the 
 **Internal Rule of Three:**
 *   **The Good (Traditionalists):** **Old Tomas & The Season-Cutters.** Veterans who follow the old cycles, selectively fell mature hardwoods, leave offering groves for the Folk, and believe the forest can provide forever if respected. They are the guild's skilled backbone but are increasingly marginalized.
 *   **The Bad (Exploiters):** **"Clear-Cut" Karl & The Firebrands.** Aggressive, short-term profit crews. They use slave or debtor labor, burn tracts to clear land faster, and actively provoke Folk attacks as an excuse to demand military protection and more logging rights. They produce volume and fear.
-*   **The Ugly (The Sovereign):** **Holger Strun.** He plays all sides. He publicly chastises Karl while secretly funding his operations for quick cash. He listens to Old Tomas's wisdom in council while selling the very "protected" ironwood Tomas cherishes to Eclessian shipwrights. He pays off Bailiff Hagen to look the other way and is in bed with the Medori Bank's venture division (Elara) for equipment loans.
+*   **The Ugly (The Sovereign):** **Holger Strun.** He plays all sides. He publicly chastises Karl while secretly funding his operations for quick cash. He listens to Old Tomas's wisdom in council while selling the very "protected" ironwood Tomas cherishes to Eclessian shipwrights. He pays off Lord High Bailiff Enzo Voss to look the other way and is in bed with the Medori Bank's venture division (Elara) for equipment loans.
 
 **Seasonal Strategy:**
 *   **Spring/Summer:** Push new cuttings. Use Karl's crews as shock troops to establish claims. Use Tomas's crews for high-value, skilled harvesting.
@@ -91,7 +91,9 @@ Their Faustian bargain is fundamental: **The Duke empowers these petty kings to 
 
 ---
 
-## **Relationship with the Players (Blackjacks)**
+## **Relationship with the Players (Seconded Blackjacks)**
+
+The player arrives as a Bank-owned Blackjack carrying a ducal warrant; this relationship may pressure either side of that divided authority.
 
 The Industry Lords see Blackjacks as **specialized contractors for industrial problems**.
 *   **Holger Strun (Lumber):** Might hire you to "discourage" a village of settlers from logging in a tract he's claimed, to retrieve a stolen timber-map, or to quietly eliminate a Folk war-party that's targeting his camps without starting an official war.
