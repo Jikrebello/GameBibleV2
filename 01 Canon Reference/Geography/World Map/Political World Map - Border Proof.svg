@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="2273" height="1091" viewBox="0 0 2273 1091">
+  <title>Political World Map Border Proof - 1360 AR</title>
+  <desc>Approval-stage political silhouettes aligned to World Map (Southern Hemisphere).png.</desc>
+  <defs>
+    <pattern id="velian-hatch" width="14" height="14" patternUnits="userSpaceOnUse" patternTransform="rotate(35)">
+      <rect width="14" height="14" fill="#b78a43" fill-opacity="0.18"/>
+      <line x1="0" y1="0" x2="0" y2="14" stroke="#8d2638" stroke-width="5" stroke-opacity="0.62"/>
+    </pattern>
+    <filter id="number-halo" x="-50%" y="-50%" width="200%" height="200%">
+      <feMorphology in="SourceAlpha" operator="dilate" radius="2" result="dilated"/>
+      <feFlood flood-color="#f2dfb0" flood-opacity="0.95" result="halo"/>
+      <feComposite in="halo" in2="dilated" operator="in" result="outline"/>
+      <feMerge><feMergeNode in="outline"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .province { stroke-linejoin:round; stroke-linecap:round; stroke-width:2.4; }
+      .outer { fill:none; stroke-width:5.5; stroke-linejoin:round; stroke-linecap:round; }
+      .clan { stroke-width:3; stroke-dasharray:11 8; stroke-linejoin:round; }
+      .proof-number { font-family:Georgia,serif; font-size:18px; font-weight:700; text-anchor:middle; dominant-baseline:middle; fill:#251b16; filter:url(#number-halo); }
+      .context { font-family:Georgia,serif; font-size:19px; font-weight:700; letter-spacing:1px; text-anchor:middle; fill:#5d574d; opacity:0.78; }
+      .context-small { font-family:Georgia,serif; font-size:14px; font-weight:700; text-anchor:middle; fill:#5d574d; opacity:0.8; }
+    </style>
+  </defs>
+
+  <g id="base-map">
+    <image x="0" y="0" width="2273" height="1091" xlink:href="World Map (Southern Hemisphere).png"/>
+  </g>
+
+  <g id="political-overlay">
+    <!-- Ahl-e-Ahd: settled state borders are solid; the Velian belt is disputed. -->
+    <g id="ahl-e-ahd" stroke="#8f761b">
+      <polygon id="A1-Iqashar" class="province" fill="#d8bc43" fill-opacity="0.22" points="566,118 621,99 674,108 716,145 737,205 731,278 699,328 653,342 608,326 575,285 557,222"/>
+      <polygon id="A2-Al-Qahur" class="province" fill="#e1c959" fill-opacity="0.22" points="608,326 653,342 699,328 746,342 799,382 833,424 821,474 772,503 709,493 651,465 606,426 588,374"/>
+      <polygon id="A3-Qazmarid" class="province" fill="#c9ac34" fill-opacity="0.23" points="219,307 273,298 329,320 371,360 425,382 493,388 558,411 604,452 613,511 580,559 525,582 456,574 399,548 337,536 279,502 241,454 222,395"/>
+      <polygon id="A4-Zanthir" class="province" fill="#c9a43f" fill-opacity="0.23" points="812,381 858,368 909,378 951,404 956,444 925,468 875,474 833,455 808,421"/>
+      <polygon id="A5-Velian-States" class="province" fill="url(#velian-hatch)" stroke="#8d2638" points="760,451 790,435 825,440 855,460 866,480 840,501 801,501 770,481"/>
+      <path class="outer" d="M566 118 L621 99 L674 108 L716 145 L737 205 L731 278 L699 328 L746 342 L799 382 L833 424 L821 474 L772 503 L709 493 L651 465 L606 426 L588 374 L575 285 L557 222 Z"/>
+      <path class="outer" d="M219 307 L273 298 L329 320 L371 360 L425 382 L493 388 L558 411 L604 452 L613 511 L580 559 L525 582 L456 574 L399 548 L337 536 L279 502 L241 454 L222 395 Z"/>
+    </g>
+
+    <!-- Thalmyria: western mountains, cultivated eastern drainage and maritime rim. -->
+    <g id="thalmyria" stroke="#8d2638">
+      <polygon id="T3-Valrathis" class="province" fill="#b63b4a" fill-opacity="0.22" points="746,486 790,475 830,490 865,510 900,535 900,570 850,580 805,561 766,542"/>
+      <polygon id="T4-Saronis" class="province" fill="#c84a55" fill-opacity="0.22" points="900,520 944,500 989,501 1025,522 1048,552 1052,590 1035,615 1025,638 977,621 929,585"/>
+      <polygon id="T1-Veridun" class="province" fill="#a92f40" fill-opacity="0.25" points="756,544 805,561 849,580 900,581 929,613 919,666 884,706 827,720 778,701 744,661 737,600"/>
+      <polygon id="T2-Elenor" class="province" fill="#d05a62" fill-opacity="0.21" points="919,579 966,604 1025,638 1067,660 1052,706 1009,731 959,716 919,666"/>
+      <polygon id="T5-Caedmons-Reach" class="province" fill="#9d3342" fill-opacity="0.23" points="705,646 744,661 778,701 819,718 808,752 777,774 738,770 706,743 686,701"/>
+      <polygon id="T6-Archenia" class="province" fill="#dd6d70" fill-opacity="0.3" points="866,493 883,484 901,493 905,510 891,523 872,519 862,506"/>
+      <polygon id="T4-Saronis-Isles-1" class="province" fill="#c84a55" fill-opacity="0.24" points="1031,493 1057,484 1073,500 1065,524 1038,526 1024,510"/>
+      <polygon id="T4-Saronis-Isles-2" class="province" fill="#c84a55" fill-opacity="0.24" points="1080,514 1105,511 1118,530 1105,548 1082,543 1071,528"/>
+      <path class="outer" d="M746 486 L790 475 L830 490 L865 510 L900 520 L944 500 L989 501 L1025 522 L1048 552 L1052 590 L1035 615 L1025 638 L1067 660 L1052 706 L1009 731 L959 716 L919 666 L884 706 L827 720 L819 718 L808 752 L777 774 L738 770 L706 743 L686 701 L705 646 L737 600 L756 544 Z"/>
+      <path class="outer" d="M866 493 L883 484 L901 493 L905 510 L891 523 L872 519 L862 506 Z"/>
+    </g>
+
+    <!-- Sestaran Concord: related colors, deliberately no enclosing Concord border. -->
+    <g id="sestaran-concord" stroke="#277c58">
+      <polygon id="C1-Fiorenzia" class="province" fill="#4ea66f" fill-opacity="0.23" points="866,386 900,371 950,382 970,414 955,453 920,470 880,455 866,425"/>
+      <polygon id="C2-Vorthara" class="province" fill="#318e60" fill-opacity="0.24" points="950,382 1005,369 1060,381 1090,415 1070,450 1025,466 975,447 970,414"/>
+      <polygon id="C3-Sermora" class="province" fill="#62ad78" fill-opacity="0.25" points="920,468 955,459 990,476 990,508 960,525 930,513 915,489"/>
+      <polygon id="C3-Sermora-Isle" class="province" fill="#62ad78" fill-opacity="0.25" points="995,478 1018,474 1032,492 1018,508 996,503 987,490"/>
+      <polygon id="C4-Aversia" class="province" fill="#3e9565" fill-opacity="0.24" points="1048,520 1065,495 1088,500 1100,525 1098,555 1080,582 1058,580 1045,555"/>
+      <polygon id="C5-Castara" class="province" fill="#77b987" fill-opacity="0.25" points="1661,319 1691,304 1725,312 1742,338 1728,366 1694,376 1664,359 1652,338"/>
+    </g>
+
+    <!-- Eclessia: internal divisions follow river basins, ridges and confessional frontiers. -->
+    <g id="eclessia" stroke="#74458f">
+      <polygon id="E1-Caldria" class="province" fill="#9b6ab1" fill-opacity="0.21" points="1090,370 1148,356 1200,365 1230,394 1220,435 1188,461 1138,457 1103,421"/>
+      <polygon id="E4-Ironvale" class="province" fill="#80529a" fill-opacity="0.23" points="1200,365 1265,361 1304,385 1321,425 1303,465 1260,478 1220,435 1230,394"/>
+      <polygon id="E2-Brauvalis" class="province" fill="#a674b8" fill-opacity="0.21" points="1100,449 1138,457 1188,461 1208,503 1182,540 1135,549 1100,523 1096,483"/>
+      <polygon id="E3-Korrheim" class="province" fill="#9362aa" fill-opacity="0.22" points="1196,461 1260,478 1281,513 1263,550 1219,565 1182,540 1208,503"/>
+      <polygon id="E5-Virelia" class="province" fill="#7d4d97" fill-opacity="0.23" points="1260,478 1303,465 1329,494 1342,546 1330,605 1294,637 1260,613 1263,550 1281,513"/>
+      <polygon id="E6-Veridancia" class="province" fill="#aa79bc" fill-opacity="0.22" points="1135,549 1182,540 1219,565 1263,550 1260,613 1228,647 1177,653 1138,620"/>
+      <polygon id="E7-Aurelia" class="province" fill="#9a63ad" fill-opacity="0.23" points="1095,616 1138,620 1177,653 1228,647 1240,689 1207,724 1154,735 1106,712 1082,666"/>
+      <polygon id="E8-Sylvan-Marches" class="province clan" fill="#765187" fill-opacity="0.19" points="1207,724 1240,689 1294,637 1328,648 1344,699 1329,755 1282,792 1226,787 1188,756"/>
+      <polygon id="E9-Grenzburg" class="province" fill="#b184c0" fill-opacity="0.28" points="1127,714 1154,704 1183,716 1191,744 1175,767 1145,770 1123,750"/>
+      <path class="outer" d="M1090 370 L1148 356 L1200 365 L1265 361 L1304 385 L1321 425 L1303 465 L1329 494 L1342 546 L1330 605 L1294 637 L1328 648 L1344 699 L1329 755 L1282 792 L1226 787 L1188 756 L1175 767 L1145 770 L1123 750 L1127 714 L1106 712 L1082 666 L1095 616 L1138 620 L1135 549 L1100 523 L1096 483 L1100 449 L1103 421 Z"/>
+    </g>
+
+    <!-- Attar customary ranges: dashed lines represent use, tribute and wintering rights. -->
+    <g id="attar" stroke="#476d88">
+      <polygon id="AT1-Lion-Mane-Coast" class="province clan" fill="#557f9c" fill-opacity="0.19" points="493,687 551,686 615,705 649,755 674,806 716,884 675,930 610,917 551,872 516,816 481,743"/>
+      <polygon id="AT2-Hornwall-Valleys" class="province clan" fill="#6b8da4" fill-opacity="0.19" points="615,705 669,713 721,747 765,789 782,832 759,878 716,884 674,806 649,755"/>
+      <polygon id="AT3-Bearshield-Holds" class="province clan" fill="#3f6c89" fill-opacity="0.2" points="721,747 773,727 829,699 884,646 943,680 966,730 916,812 855,848 779,875 782,832 765,789"/>
+      <polygon id="AT4-Grey-Wolf-Range" class="province clan" fill="#7396aa" fill-opacity="0.19" points="884,646 951,626 1028,638 1086,679 1100,728 1057,780 998,799 916,812 966,730 943,680"/>
+    </g>
+
+    <!-- Folk and Enaidfae customary territories: porous ecological and ritual boundaries. -->
+    <g id="folk-enaidfae" stroke="#2f705f">
+      <polygon id="F1-Green-March-Kindreds" class="province clan" fill="#4e8a6f" fill-opacity="0.18" points="1057,680 1130,662 1202,657 1265,690 1280,739 1233,794 1168,812 1097,791 1057,780 1100,728"/>
+      <polygon id="F2-Rootbound-Heartwood" class="province clan" fill="#39785f" fill-opacity="0.2" points="779,875 855,848 916,812 998,799 1057,780 1097,791 1110,858 1085,918 1018,957 935,959 852,938"/>
+      <polygon id="F3-Gale-Crown-Ranges" class="province clan" fill="#3d8171" fill-opacity="0.19" points="1097,791 1168,812 1233,794 1272,837 1263,901 1221,955 1150,972 1085,918 1110,858"/>
+      <polygon id="F4-Tidewood-Coast" class="province clan" fill="#4a8e88" fill-opacity="0.19" points="716,884 779,875 852,938 935,959 1018,957 1085,918 1150,972 1221,955 1187,1009 1100,1031 1000,1026 899,1014 801,995 729,960 675,930"/>
+    </g>
+
+    <!-- Number markers only; names live in the proof key. -->
+    <g id="number-markers">
+      <text class="proof-number" x="643" y="220">A1</text><text class="proof-number" x="704" y="411">A2</text>
+      <text class="proof-number" x="410" y="463">A3</text><text class="proof-number" x="878" y="418">A4</text><text class="proof-number" x="850" y="490">A5</text>
+      <text class="proof-number" x="830" y="632">T1</text><text class="proof-number" x="991" y="672">T2</text><text class="proof-number" x="820" y="530">T3</text>
+      <text class="proof-number" x="986" y="570">T4</text><text class="proof-number" x="744" y="715">T5</text><text class="proof-number" x="884" y="504">T6</text>
+      <text class="proof-number" x="903" y="420">C1</text><text class="proof-number" x="1025" y="415">C2</text><text class="proof-number" x="953" y="493">C3</text>
+      <text class="proof-number" x="1075" y="542">C4</text><text class="proof-number" x="1697" y="341">C5</text>
+      <text class="proof-number" x="1157" y="407">E1</text><text class="proof-number" x="1139" y="493">E2</text><text class="proof-number" x="1227" y="514">E3</text>
+      <text class="proof-number" x="1272" y="410">E4</text><text class="proof-number" x="1303" y="551">E5</text><text class="proof-number" x="1190" y="600">E6</text>
+      <text class="proof-number" x="1160" y="682">E7</text><text class="proof-number" x="1275" y="711">E8</text><text class="proof-number" x="1157" y="740">E9</text>
+      <text class="proof-number" x="579" y="797">AT1</text><text class="proof-number" x="700" y="792">AT2</text><text class="proof-number" x="850" y="760">AT3</text><text class="proof-number" x="1015" y="706">AT4</text>
+      <text class="proof-number" x="1180" y="729">F1</text><text class="proof-number" x="967" y="879">F2</text><text class="proof-number" x="1182" y="878">F3</text><text class="proof-number" x="965" y="991">F4</text>
+    </g>
+
+    <!-- Neutral context: no political fill. -->
+    <g id="context-labels">
+      <text class="context" x="944" y="125">GREAT GLASS DESERT</text>
+      <text class="context" x="968" y="300">TARKHAN STEPPE</text>
+      <text class="context" x="1154" y="1018">GROBI WASTES</text>
+      <text class="context-small" x="914" y="403">JIRAHAR TOWERS / PROPHET'S ROADS</text>
+      <g fill="#5d574d" stroke="#f2dfb0" stroke-width="2">
+        <path d="M842 433 l7 13 h-14 z"/><path d="M932 492 l7 13 h-14 z"/><path d="M1050 541 l7 13 h-14 z"/>
+        <path d="M689 401 l7 13 h-14 z"/><path d="M1132 706 l7 13 h-14 z"/><path d="M1251 602 l7 13 h-14 z"/>
+      </g>
+    </g>
+
+    <!-- Compact color legend; the full numbered key is a companion Markdown note. -->
+    <g id="color-legend" transform="translate(24 874)">
+      <rect x="0" y="0" width="430" height="190" rx="4" fill="#ead8aa" fill-opacity="0.9" stroke="#5f4b34" stroke-width="1.5"/>
+      <text x="18" y="30" font-family="Georgia,serif" font-size="20" font-weight="700" fill="#2b2118">POLITICAL BORDER PROOF · 1360 AR</text>
+      <g font-family="Georgia,serif" font-size="14" fill="#2b2118">
+        <rect x="20" y="48" width="22" height="14" fill="#d8bc43" fill-opacity="0.75" stroke="#8f761b"/><text x="52" y="60">A — Ahl-e-Ahd</text>
+        <rect x="220" y="48" width="22" height="14" fill="#b63b4a" fill-opacity="0.75" stroke="#8d2638"/><text x="252" y="60">T — Thalmyria</text>
+        <rect x="20" y="76" width="22" height="14" fill="#4ea66f" fill-opacity="0.75" stroke="#277c58"/><text x="52" y="88">C — Sestaran Concord</text>
+        <rect x="220" y="76" width="22" height="14" fill="#9b6ab1" fill-opacity="0.75" stroke="#74458f"/><text x="252" y="88">E — Eclessia</text>
+        <rect x="20" y="104" width="22" height="14" fill="#557f9c" fill-opacity="0.75" stroke="#476d88"/><text x="52" y="116">AT — Ättar ranges</text>
+        <rect x="220" y="104" width="22" height="14" fill="#4e8a6f" fill-opacity="0.75" stroke="#2f705f"/><text x="252" y="116">F — Folk / Enaidfae</text>
+        <line x1="20" y1="141" x2="66" y2="141" stroke="#4b3d31" stroke-width="4"/><text x="76" y="146">settled border</text>
+        <line x1="220" y1="141" x2="266" y2="141" stroke="#4b3d31" stroke-width="3" stroke-dasharray="9 7"/><text x="276" y="146">customary frontier</text>
+        <text x="20" y="173" font-style="italic">Numbers correspond to Political Map Border Proof Key.md</text>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="2273" height="1091" viewBox="0 0 2273 1091" version="1.1" data-region-code="C5"><title>C5 - Castara</title><desc>Transparent full-canvas political region extracted from the 1360 AR border proof.</desc><defs>
+    <pattern id="velian-hatch" width="14" height="14" patternUnits="userSpaceOnUse" patternTransform="rotate(35)">
+      <rect width="14" height="14" fill="#b78a43" fill-opacity="0.18" />
+      <line x1="0" y1="0" x2="0" y2="14" stroke="#8d2638" stroke-width="5" stroke-opacity="0.62" />
+    </pattern>
+    <filter id="number-halo" x="-50%" y="-50%" width="200%" height="200%">
+      <feMorphology in="SourceAlpha" operator="dilate" radius="2" result="dilated" />
+      <feFlood flood-color="#f2dfb0" flood-opacity="0.95" result="halo" />
+      <feComposite in="halo" in2="dilated" operator="in" result="outline" />
+      <feMerge><feMergeNode in="outline" /><feMergeNode in="SourceGraphic" /></feMerge>
+    </filter>
+    <style>
+      .province { stroke-linejoin:round; stroke-linecap:round; stroke-width:2.4; }
+      .outer { fill:none; stroke-width:5.5; stroke-linejoin:round; stroke-linecap:round; }
+      .clan { stroke-width:3; stroke-dasharray:11 8; stroke-linejoin:round; }
+      .proof-number { font-family:Georgia,serif; font-size:18px; font-weight:700; text-anchor:middle; dominant-baseline:middle; fill:#251b16; filter:url(#number-halo); }
+      .context { font-family:Georgia,serif; font-size:19px; font-weight:700; letter-spacing:1px; text-anchor:middle; fill:#5d574d; opacity:0.78; }
+      .context-small { font-family:Georgia,serif; font-size:14px; font-weight:700; text-anchor:middle; fill:#5d574d; opacity:0.8; }
+    </style>
+  </defs>
+
+  <g id="C5-castara" stroke="#277c58"><polygon id="C5-Castara" class="province" fill="#77b987" fill-opacity="0.25" points="1661,319 1691,304 1725,312 1742,338 1728,366 1694,376 1664,359 1652,338" stroke-linejoin="round" stroke-linecap="round" stroke-width="2.4" />
+    </g></svg>
