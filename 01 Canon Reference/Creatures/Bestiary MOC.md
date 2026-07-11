@@ -32,6 +32,7 @@ tags: []
 - [[Borrowed Saints]]
 - [[Ward-Eaters]]
 - [[Wax-Bound Courtiers]]
+- [[Oathwood Wardens]]
 - [[The Examiner]]
 
 ## Grobi
