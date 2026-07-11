@@ -36,6 +36,10 @@ Triage of the PF1e standalone module library: **42 converted** (one file each, t
 
 **Institutions and supernatural crises:** [[The Reborn Arsenal]] (Wardens of the Reborn Forge) · [[The Midnight Glass]] (The Midnight Mirror) · [[The Grand Circuit]] (Ruby Phoenix Tournament) · [[The Horror Beneath Blackspire]] (Carrion Hill)
 
+## Third Wave — the Classics (2 converted)
+
+**Comedy and spectacle:** [[The Bailiff's Ram]] (A Wild Sheep Chase) · [[The Bragging Vault]] (S2 White Plume Mountain — the three Trophy-Arms, an audition sold as a dare)
+
 ## Discarded (and why)
 
 *The Witchwar Legacy* (no Irrisen analog; witch-queen collides with Enaidfae niche) · *Curse of the Riven Sky* (PF giants conflict with Giant-precursor canon) · *The Moonscar* (**flagged future, not dead**: the moon is Nythalum's — a lunar arc is a Tier-3 endgame, not a module) · *J5 Beyond the Vault of Souls* (**flagged future**: touches soul-routing infrastructure directly; needs author-level design, not conversion) · *E2 Blood of Dragonscar* (lvl 15 dragon-lair; true dragons are apocalypse-tier here, not lairs) · *S1 Clash of the Kingslayers* (dwarf-culture dependent; no dwarves in canon) · *J3 Crucible of Chaos* (protean chaos-city duplicates Astral-drift niche less well than The Shuffled House) · *Cult of the Ebon Destroyers* (Vudrani-dependent; the Red Tally covers the assassin-cult niche natively)
