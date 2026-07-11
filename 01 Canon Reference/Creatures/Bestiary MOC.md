@@ -36,6 +36,8 @@ tags: []
 - [[Hushwrights]]
 - [[Mnemonic Lichen]]
 - [[The Examiner]]
+- [[Estate Dead]]
+- [[Gilded Wardens]]
 
 ## Grobi
 
