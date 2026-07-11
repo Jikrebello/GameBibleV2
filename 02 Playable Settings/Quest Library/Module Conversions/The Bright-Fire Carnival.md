@@ -5,23 +5,21 @@ canon_level: local
 visibility: author-only
 source: "PZO9506 E1 Carnival of Tears"
 era: ["Present Day"]
-region: []
-culture: []
-related_factions: []
-appears_in: []
-needs: []
-tags:
-  - module-conversion
-  - game-ready
+region: ["Sylvan Marches", "Grenzburg frontier", "Ferren Hollow"]
+culture: ["Fäskogarfolk", "Eclessian"]
+related_factions: ["The Cloven", "Frontier Industry Lords", "The Left Hand"]
+appears_in: ["The Bright-Fire Carnival"]
+needs:
+  - balance the day-attractions, their twisted night-forms, and the Rime Rider for the chosen game system
+  - set the exact coin of the grove-debt (years, names, warmth) during Grenzburg economic balancing
+tags: [module-conversion, game-ready]
 ---
 # The Bright-Fire Carnival
 
-**Source:** E1 *Carnival of Tears* • **Tier:** W→3 • **Region:** any Folk-adjacent market town • **Band:** level 5 analog
+**Source:** E1 *Carnival of Tears* | **Tier:** W→3 | **Region:** Folk-adjacent market town (Sylvan Marches) | **Band:** level 5 analog
 
-**The original:** a fey carnival turns from delight to massacre as winter-fey take revenge on a logging town.
+## Original Adventure: Spark Notes
 
-**The conversion:** a traveling carnival arrives for the Bright-Fire fair — and it is a **Faewild court's instrument**: the season-court's answer to a grove the Clear-Cut interests felled without payment. The delights are real until the sun sets on the third day, when the carnival begins collecting the debt in the court's own coin: years, names, warmth.
+### Background
 
-**The torque:** the court is *lawful* — every horror has an invoice, and the massacre can be stopped at any point by paying the original grove-debt, which the guilty cartel refuses right up until the bill reaches them personally.
-
-**Hook:** Menhir justice as horror: not malice — collections.
+A logging town on the edge of a fey-haunted wood has spent years cutting into a forest the local fey consider theirs, and the fey have watched, seething, without acting. The fey of the wood are not, at first, murderous: their queen intends a measured, frightening punishment fit to the offense — enough to make the town stop, not enough to era
