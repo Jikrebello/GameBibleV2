@@ -38,6 +38,7 @@ tags: []
 - [[The Examiner]]
 - [[Estate Dead]]
 - [[Gilded Wardens]]
+- [[Hollow Sentries]]
 
 ## Grobi
 
