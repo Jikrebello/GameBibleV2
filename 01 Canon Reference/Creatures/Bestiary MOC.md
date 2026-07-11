@@ -39,6 +39,8 @@ tags: []
 - [[Estate Dead]]
 - [[Gilded Wardens]]
 - [[Hollow Sentries]]
+- [[Collateral Beasts]]
+- [[Form-Ruins]]
 
 ## Grobi
 
