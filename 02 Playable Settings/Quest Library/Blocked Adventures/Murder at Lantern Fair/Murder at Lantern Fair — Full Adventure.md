@@ -5,9 +5,9 @@ canon_level: local
 visibility: author-only
 source: "Translated from Pathfinder Module: Murder's Mark"
 era: ["Present Day"]
-region: ["Eclessia", "Halmenth"]
-culture: ["Eclessian", "Saltborn", "Sestaran", "Fäskogarfolk"]
-related_factions: ["The Turning Lantern Company", "The Chainhouse", "Eclessian Church"]
+region: ["Thalmyria", "Saltborn Coast", "Halmenth"]
+culture: ["Saltborn", "Thalmyric", "Sestaran", "Fäskogarfolk"]
+related_factions: ["The Turning Lantern Company", "The Chainhouse", "Thalmyric Church"]
 appears_in: ["Murder at Lantern Fair"]
 needs:
   - balance confrontations and rewards for the chosen game system
@@ -49,7 +49,7 @@ The case has an objective answer. Familiarity, ethnicity, itinerancy, and profit
 
 ## Lantern Week in Halmenth
 
-Lantern Week falls in Emberrise, when Halmenth relights river beacons, blesses the first full sailing convoys, and settles winter trade. Children carry Solana jars through the streets; Saltborn crews hang keel-lamps from poles; Sestaran factors open temporary exchange tables; and Folk traders arrive with pelts, honey, herbs, and carved winter work.
+Lantern Week falls in Emberrise, when Halmenth relights its harbor and river beacons, blesses the first full sailing convoys, and settles winter trade. Children carry lantern jars through the streets; Saltborn crews hang keel-lamps from poles; Sestaran factors open temporary exchange tables; and highland and steppe traders arrive with pelts, honey, herbs, and carved winter work.
 
 The Turning Lantern Company's charter grants it seven days on Lantern Meadow. Company merchants may sell directly, settle letters through their own chest, and rent temporary stalls without placing all goods in Halmenth bonded storage.
 
@@ -409,7 +409,7 @@ The credit chest is taken or destroyed, evidence disappears, and the fair is exp
 
 ### Hester's New Name
 
-The Chainhouse falls but Hester escapes with selected credit letters and seal dies. Months later, a respectable settlement house opens in another Eclessian port under a different proprietor whose handwriting bends the same way.
+The Chainhouse falls but Hester escapes with selected credit letters and seal dies. Months later, a respectable settlement house opens in another Saltborn-coast port under a different proprietor whose handwriting bends the same way.
 
 ## What the Adventure Changes
 
@@ -440,7 +440,7 @@ No new bestiary entry is required. Any animal, illusion, or supernatural rumor p
 - [[The Chainhouse]]
 - [[Mara Tide-Knot]]
 - [[Hester Vallin]]
-- [[Eclessian Daily Life and the Year of the Flame]]
-- [[The Making of the Eclessians]]
+- [[The Saltborn Coast Overview]]
+- [[Thalmyric Daily Life and the Burning Year]]
 - [[Lives of the Concord — The Common Spine]]
 - [[Quest Tier Doctrine]]

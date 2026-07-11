@@ -5,8 +5,8 @@ canon_level: local
 visibility: author-only
 source: "Pathfinder Module: Murder's Mark"
 era: ["Present Day"]
-region: ["Eclessia", "Halmenth"]
-culture: ["Eclessian", "Saltborn", "Sestaran", "Fäskogarfolk"]
+region: ["Thalmyria", "Saltborn Coast", "Halmenth"]
+culture: ["Saltborn", "Thalmyric", "Sestaran", "Fäskogarfolk"]
 related_factions: ["The Turning Lantern Company", "The Chainhouse"]
 appears_in: ["Murder at Lantern Fair"]
 needs:
@@ -16,7 +16,7 @@ tags: [module-conversion, game-ready]
 ---
 # Murder at Lantern Fair
 
-**Source:** *Murder's Mark* | **Tier:** R to W | **Region:** Halmenth, Eclessia | **Band:** level 1 analog
+**Source:** *Murder's Mark* | **Tier:** R to W | **Region:** Halmenth, the Saltborn coast (eastern Thalmyria) | **Band:** level 1 analog
 
 ## Original Adventure: Spark Notes
 

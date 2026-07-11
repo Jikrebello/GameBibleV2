@@ -5,8 +5,8 @@ canon_level: local
 visibility: author-only
 source: "U1 The Sinister Secret of Saltmarsh"
 era: ["Present Day"]
-region: ["Saltborn Coast"]
-culture: ["Saltborn"]
+region: ["Thalmyria", "Saltborn Coast"]
+culture: ["Saltborn", "Thalmyric"]
 related_factions: []
 appears_in: []
 needs: []
@@ -14,7 +14,7 @@ tags: [module-conversion, game-ready]
 ---
 # The Thirtieth Sister
 
-**Source:** U1 *The Sinister Secret of Saltmarsh* | **Tier:** W/F opener | **Region:** Saltborn coast | **Band:** levels 1-3 analog
+**Source:** U1 *The Sinister Secret of Saltmarsh* | **Tier:** W/F opener | **Region:** the Saltborn coast (eastern Thalmyria) | **Band:** levels 1-3 analog
 
 **The original:** a supposedly haunted coast-house conceals smugglers using staged effects, and their trail leads to a shipboard operation.
 

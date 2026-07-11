@@ -5,8 +5,8 @@ canon_level: local
 visibility: author-only
 source: "Pathfinder Module: From Shore to Sea"
 era: ["Present Day"]
-region: ["Saltborn Coast"]
-culture: ["Saltborn"]
+region: ["Thalmyria", "Saltborn Coast"]
+culture: ["Saltborn", "Thalmyric"]
 related_factions: []
 appears_in: []
 needs: []
@@ -14,7 +14,7 @@ tags: [module-conversion, game-ready]
 ---
 # The Drowned Bell of Salthaven
 
-**Source:** *From Shore to Sea* | **Tier:** W | **Region:** Saltborn coast | **Band:** level 6-8 analog
+**Source:** *From Shore to Sea* | **Tier:** W | **Region:** Salthaven, the Saltborn coast (eastern Thalmyria) | **Band:** level 6-8 analog
 
 **The original:** strange changes in an isolated fishing village lead to an offshore island, a drowned ancient complex, and a captive sea intelligence manipulating generations of villagers.
 

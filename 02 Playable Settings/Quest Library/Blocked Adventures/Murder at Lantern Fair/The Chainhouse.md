@@ -4,8 +4,8 @@ status: draft
 canon_level: local
 visibility: author-only
 era: ["Present Day"]
-region: ["Halmenth", "Eclessia"]
-culture: ["Eclessian", "Saltborn"]
+region: ["Halmenth", "Thalmyria", "Saltborn Coast"]
+culture: ["Thalmyric", "Saltborn"]
 related_factions: []
 appears_in: ["Murder at Lantern Fair"]
 needs:

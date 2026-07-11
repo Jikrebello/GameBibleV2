@@ -24,13 +24,15 @@ Foot column 15–20 miles/day; mounted courier 35–40; cart and wagon 12–15; 
 - **The Thalassian Sea** — the inner sea between Thalmyrica's east coast, the Sestaran peninsula, and Eclessia's western shore; the world's trade heart. Sermora's fleets police (and tax, and rob) it.
 - **The Boiling Sea** — the equatorial ocean along the world's hot north and northeast; hurricane belt; the only road to the New World. Castara is the last safe port.
 - **Wolfsmere** — the sacred lake of the Drowning (993 AR), southern Eclessian frontier near Grenzburg; standing leftward thin space; no boats, no bells, no iron.
-- **Rivers [draft]:** the **Aurin**, Caleran's river, falling from the Veridun highlands to the northwest coast; the **Weiss**, the marches' river through Brauvalis to the Thalassian (Ansgar's ashes); the **Celion**, the eastern coast river at Halmenth (Saint Naris's drowning); the **Orzva**, Virelia's great plains river to Strazgorod.
+- **Rivers [draft]:** the **Aurin**, Caleran's river, falling from the Veridun highlands to the northwest coast; the **Weiss**, the marches' river through Brauvalis to the Thalassian (Ansgar's ashes); the **Celion**, the river of Thalmyria's eastern (Thalassian) coast at Halmenth on the Saltborn shore (Saint Naris's drowning); the **Orzva**, Virelia's great plains river to Strazgorod.
 
 ## The Realms
 
 ### Thalmyrica (the Thalmyric Empire) — west-center
 
 Mountainous heart of the old empire. **Caleran** on the northwestern lowland coast at the Aurin's mouth: old imperial capital, the Redeemer's execution site, Patriarch's seat (Cathedral of the Eternal Ember) — it fell to the seaward-and-desert approach in 905 precisely because it faces the Covenant. **Veridun** in the volcanic highlands southeast: the refuge-turned-imperial-capital, Caedros IV's seat. **Virelos** deeper in the mountains (the rebellion's cradle and coronation site); **Velos** in the eastern lowlands (the Stone Bridge, 292 AR). The Reconquest's geography reads on the map: down from Virelos and Veridun to the sea.
+
+The empire's **eastern and southeastern shore on the Thalassian is the Saltborn coast** — the old Atherian maritime war-front, and the one imperial region the sea reaches easily. **Halmenth**, at the Celion's mouth, is its chief port (Saint Naris's drowning). Centuries of Ättar sea-raiders from the south and Ahl-e-Ahd invasions from the Qazmarid–Zanthir approach fell on this coast, and the raid-then-settle that followed bred the **[[The Saltborn Coast Overview|Saltborn]]**: an Atherian/Ättar creole grown into Thalmyric/Ättar coastfolk. **Salthaven** and the lesser fishing towns of the Thirty Sisters' waters line the same shore.
 
 ### The Covenant (Ahl-e-Ahd) — north and northwest
 
@@ -46,7 +48,7 @@ The purple sprawl, fragmented within one border. From west to east and north to 
 
 ### The Fäskogar Country and the Deep South
 
-The grey forest world below the settled realms: **Ättar coasts** to the southwest (fjord clans; the Saltborn enclaves line the settled coasts north of them), **Enaidfae forests** in the deep south-center, the Folk clan-lands along the whole Eclessian frontier, and beyond everything the **Grobi Wastes** of the far southeast — migration corridors aimed straight at Grenzburg's latitude every hard winter.
+The grey forest world below the settled realms: **Ättar coasts** to the southwest (fjord clans whose keels have raided north and east for centuries — it was their raid-then-settle on Thalmyria's Thalassian shore, not here, that bred the [[The Saltborn Coast Overview|Saltborn]]), **Enaidfae forests** in the deep south-center, the Folk clan-lands along the whole Eclessian frontier, and beyond everything the **Grobi Wastes** of the far southeast — migration corridors aimed straight at Grenzburg's latitude every hard winter.
 
 ### The Tarkhan Steppe — the middle north
 

@@ -37,7 +37,7 @@ Turn Grenzburg's locked campaign into production-ready geography and encounters.
 - The ducal family is **von Grenzmark**; the seat and duchy are **Grenzburg**.
 - Thorn-Seer Mael is a Lakekeeper-line seer tied to Wolfsmere.
 - Vesari are a separate Scattering people and become Virelia's substrate.
-- Saltborn are Ättar-blooded Eclessian coastfolk.
+- Saltborn are the coast people of Thalmyria's contested eastern (Thalassian) shore — an Atherian/Ättar creole grown into Thalmyric/Ättar coastfolk on the old empire's maritime war-front (Ättar raids from the south, Ahl-e-Ahd invasions from Qazmarid). See [[The Saltborn Coast Overview]]. *(Relocated from Eclessia.)*
 - The Jirahar, Covenant, and Nsizwa naming registers are locked. Broad titles remain translation conventions; signature religious and cultural vocabulary follows each culture's own register.
 - The four Left Hand supply chains are authorial truth. [[The Creditor]] is the patron behind Malak al-Ahd, while the genuine Fourth Seal remains unresolved.
 - [[The Grey Sweat]], [[The Korrheim Accord]], and the [[Freeflame Reformation]] are the source events for Eclessia's demographic and confessional present.

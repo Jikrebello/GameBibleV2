@@ -46,7 +46,7 @@ Nineteen classic modules, starter adventures, and modern anthologies rebuilt as 
 
 **Against the Cult of the Reptile God → "The Serpent Under Qafra"** (W). A Covenant caravan-town quietly converting to something in the cistern — an **Ishkatar remnant**, Avarix's mask, old as the Serpent Kingdom. Torque: the possessed aren't enthralled by magic but by *contracts signed in dreams*, and the breach-court that should annul them refuses jurisdiction because the counterparty predates the Covenant.
 
-**The Sinister Secret of Saltmarsh → "The Thirtieth Sister"** (W/F opener). A "haunted" Saltborn coast-house that is smugglers' theater — except the ship they're using is one of the **Thirty Sisters**, and the crew has started hearing the formation-bell. Torque: the mundane smuggling plot sits on a genuine weird, and the module's famous twist inverts — the fake haunting conceals a real one nobody's exploiting because nobody *can*.
+**The Sinister Secret of Saltmarsh → "The Thirtieth Sister"** (W/F opener). A "haunted" Saltborn coast-house (eastern Thalmyria) that is smugglers' theater — except the ship they're using is one of the **Thirty Sisters**, and the crew has started hearing the formation-bell. Torque: the mundane smuggling plot sits on a genuine weird, and the module's famous twist inverts — the fake haunting conceals a real one nobody's exploiting because nobody *can*.
 
 **The Lost Mine of Phandelver → "The Echo Seam"** (starter F). A Highlake-style silver mine with a lost **Shell-forge** in its depths, contested by a Grobi band, a wildcat delver crew, and the guild that holds the lapsed charter. Torque: the forge still works, and every faction's plan for it updates the Numbers doc.
 
@@ -62,7 +62,7 @@ Nineteen classic modules, starter adventures, and modern anthologies rebuilt as 
 
 **A Wild Sheep Chase → "The Bailiff's Ram"** (comic R). A ram interrupts the party — a Vorthara washout polymorphed by his own tuition-bond collateral clause, hunted by the school's recovery agent. Torque: the comedy is contract-comedy; the resolution options include renegotiation.
 
-**The Secrets of Skyhorn Lighthouse → "The Celion Light"** (W, coastal). The lighthouse at Halmenth's bar goes dark during a Naris feast; wreckers, a harridan colony, and a keeper who's been paying a private toll. Torque: the light is a Naris-shrine — dark lighthouse, drowned walkers rising; sexton-work at sea.
+**The Secrets of Skyhorn Lighthouse → "The Celion Light"** (W, coastal). The lighthouse at Halmenth's bar (the Saltborn coast, eastern Thalmyria) goes dark during a Naris feast; wreckers, a harridan colony, and a keeper who's been paying a private toll. Torque: the light is a Naris-shrine — dark lighthouse, drowned walkers rising; sexton-work at sea.
 
 **Keys from the Golden Vault (heist anthology) → "The Latch Jobs"** (F ladder, Sestara). A heist chain in Matteo the Latch's tradition — the Medori vault's *outer* rings, a prize-court evidence room, a Vorthara reagent bond-store, the salon-ledger of a retiring courtesan. Torque: every heist is also a ledger-position play, and fencing the take teaches the Concord's whole economy.
 

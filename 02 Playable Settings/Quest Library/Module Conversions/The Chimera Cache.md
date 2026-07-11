@@ -4,13 +4,18 @@ status: draft
 canon_level: local
 visibility: author-only
 source: "GameMastery Module LB2: Treasure of Chimera Cove"
-era: ["Present Day"]
-region: ["Thalassian Sea"]
+era:
+  - Present Day
+region:
+  - Thalassian Sea
+  - Sestaran Concord
 culture: []
 related_factions: []
 appears_in: []
 needs: []
-tags: [module-conversion, game-ready]
+tags:
+  - module-conversion
+  - game-ready
 ---
 # The Chimera Cache
 

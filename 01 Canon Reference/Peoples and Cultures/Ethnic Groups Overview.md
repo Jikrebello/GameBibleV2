@@ -20,7 +20,7 @@ This older note is retained as a physical-trait reference, but the current cultu
 Locked additions:
 
 - **Vesari:** a separate Scattering people of the far eastern river-plains; their converted princedoms become Virelia's substrate.
-- **Saltborn:** Ättar-blooded Eclessian coastfolk formed by raid-then-settle history along the southern coasts.
+- **Saltborn:** the coast people of Thalmyria's contested eastern (Thalassian) shore — an **Atherian/Ättar creole** laid down over the old empire's maritime war-front, now grown into **Thalmyric/Ättar coastfolk**. Centuries of Ättar raid-then-settle from the south and Ahl-e-Ahd invasion from Qazmarid made them; the Thalmyric Church and the Aetherion throne claimed them. See [[The Saltborn Coast Overview]]. *(Formerly written as an Eclessian coastal people; relocated to Thalmyria, since the Ättar and Eclessia never meaningfully met.)*
 - **Southern hemisphere rule:** Ättar and Fäskogarfolk coldness is southern, not northern. Older "northern" labels should be read as analog shorthand, not map direction.
 
 ### **Older Ethnic Groups**

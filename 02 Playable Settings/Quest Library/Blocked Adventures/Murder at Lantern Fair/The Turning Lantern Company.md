@@ -4,8 +4,8 @@ status: draft
 canon_level: local
 visibility: author-only
 era: ["Present Day"]
-region: ["Eclessia", "Saltborn Coast", "Sestaran Concord"]
-culture: ["Eclessian", "Saltborn", "Sestaran", "Fäskogarfolk"]
+region: ["Thalmyria", "Saltborn Coast", "Sestaran Concord"]
+culture: ["Thalmyric", "Saltborn", "Sestaran", "Fäskogarfolk"]
 related_factions: []
 appears_in: ["Murder at Lantern Fair"]
 needs:
@@ -14,7 +14,7 @@ tags: [module-conversion, game-ready]
 ---
 # The Turning Lantern Company
 
-The **Turning Lantern Company** is a traveling fair, market, and settlement partnership moving between Eclessian river towns, Saltborn ports, Sestaran roads, and Folk-adjacent fairs. It carries entertainment because crowds create trade, and trade because performances alone do not feed a road community through winter.
+The **Turning Lantern Company** is a traveling fair, market, and settlement partnership moving between Thalmyric river towns, the Saltborn ports of the eastern coast, Sestaran roads, and the distant Folk-adjacent fairs at the far end of its route. It carries entertainment because crowds create trade, and trade because performances alone do not feed a road community through winter.
 
 ## Composition
 
@@ -48,7 +48,7 @@ The company charges for settlement and stall protection. Its prices are lower th
 - **Osric Sealsson:** Saltborn rigging-knife performer and senior wagon rigger.
 - **Elof Reed-Step:** Folk rope-dancer, lamp-climber, and apprentice route scout.
 - **Mother Hanne:** cookhouse leader and informal judge of company disputes.
-- **Petr Voss:** head guard, formerly of an Eclessian road patrol.
+- **Petr Voss:** head guard, formerly of a Thalmyric road patrol.
 
 ## Faults and Pressures
 

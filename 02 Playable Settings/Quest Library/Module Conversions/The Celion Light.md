@@ -5,8 +5,8 @@ canon_level: local
 visibility: author-only
 source: "The Secrets of Skyhorn Lighthouse"
 era: ["Present Day"]
-region: ["Halmenth"]
-culture: ["Eclessian", "Saltborn"]
+region: ["Thalmyria", "Saltborn Coast", "Halmenth"]
+culture: ["Saltborn", "Thalmyric"]
 related_factions: []
 appears_in: []
 needs: []
@@ -14,7 +14,7 @@ tags: [module-conversion, game-ready]
 ---
 # The Celion Light
 
-**Source:** *The Secrets of Skyhorn Lighthouse* | **Tier:** W coastal | **Region:** Halmenth and Celion bar | **Band:** level 5 analog
+**Source:** *The Secrets of Skyhorn Lighthouse* | **Tier:** W coastal | **Region:** Halmenth and the Celion bar, the Saltborn coast (eastern Thalmyria) | **Band:** level 5 analog
 
 **The original:** a lighthouse goes dark, threatening shipping while aquatic attackers occupy its chambers and prepare a wider assault.
 

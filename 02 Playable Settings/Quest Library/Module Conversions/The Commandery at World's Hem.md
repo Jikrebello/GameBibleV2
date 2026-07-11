@@ -14,7 +14,7 @@ tags: [module-conversion, game-ready]
 ---
 # The Commandery at World's Hem
 
-**Source:** B2 *The Keep on the Borderlands* | **Tier:** F/R hub | **Region:** Caldria or Grenzburg frontier | **Band:** levels 1-3 analog
+**Source:** B2 *The Keep on the Borderlands* | **Tier:** F/R hub | **Region:** Caldria | **Band:** levels 1-3 analog
 
 **The original:** a fortified border settlement serves as a safe hub while expeditions explore a nearby ravine occupied by competing monster factions.
 
