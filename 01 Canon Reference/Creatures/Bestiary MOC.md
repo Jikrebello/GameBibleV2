@@ -31,6 +31,7 @@ tags: []
 - [[Pale-Skins and Hollow-Kings]]
 - [[Borrowed Saints]]
 - [[Ward-Eaters]]
+- [[Wax-Bound Courtiers]]
 - [[The Examiner]]
 
 ## Grobi

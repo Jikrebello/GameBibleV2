@@ -3,11 +3,15 @@ type: quest
 status: draft
 canon_level: local
 visibility: author-only
-source: "PZO9531 Academy of Secrets"
-era: ["Present Day"]
-region: []
-culture: []
-related_factions: ["Collegium of Doors"]
+source: PZO9531 Academy of Secrets
+era:
+  - Present Day
+region:
+  - Vorthara
+culture:
+  - Sestaran
+related_factions:
+  - Collegium of Doors
 appears_in: []
 needs:
   - select final encounter difficulty and reward values during production balancing
