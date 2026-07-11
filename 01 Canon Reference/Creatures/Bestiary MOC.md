@@ -33,6 +33,8 @@ tags: []
 - [[Ward-Eaters]]
 - [[Wax-Bound Courtiers]]
 - [[Oathwood Wardens]]
+- [[Hushwrights]]
+- [[Mnemonic Lichen]]
 - [[The Examiner]]
 
 ## Grobi
