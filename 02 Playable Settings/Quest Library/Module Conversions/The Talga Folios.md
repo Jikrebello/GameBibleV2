@@ -15,7 +15,7 @@ tags: [module-conversion, game-ready]
 ---
 # The Talga Folios
 
-**Source:** *Candlekeep Mysteries* | **Tier:** R/W anthology | **Region:** Migdal Talga, Aurelia, or University archives | **Band:** levels 1-16 analog
+**Source:** *Candlekeep Mysteries* | **Tier:** R/W anthology | **Region:** Migdal Talga | **Band:** levels 1-16 analog
 
 **The original:** seventeen stand-alone mysteries begin with unusual books in a great library and lead into varied contained adventures.
 

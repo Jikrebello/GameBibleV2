@@ -15,7 +15,7 @@ tags: [module-conversion, game-ready]
 ---
 # The Fallen Spire
 
-**Source:** S3 *Expedition to the Barrier Peaks* | **Tier:** 3 | **Region:** Grobi Wastes or Emerald Expanse | **Band:** levels 8-12 analog
+**Source:** S3 *Expedition to the Barrier Peaks* | **Tier:** 3 | **Region:** Emerald Expanse | **Band:** levels 8-12 analog
 
 **The original:** monsters emerging from a mountain lead explorers into a crashed spacecraft with access cards, machines, and alien ecology.
 
