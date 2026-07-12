@@ -4,7 +4,7 @@ status: draft
 canon_level: local
 visibility: author-only
 era: ["Present Day"]
-region: ["Thalmyria", "Thematic of Archenia", "The Drakesfall Vale"]
+region: ["Thalmyria", "Military Province of Arkena", "The Drakesfall Vale"]
 culture: ["Thalmyric"]
 related_factions: ["Thalmyric Church"]
 appears_in: ["The Drakesfall"]
@@ -45,7 +45,7 @@ She is wary of rescue that treats her vocation as a strangeness to be saved from
 
 ## Continuation
 
-Kyra can become a keeping warden who re-peoples the Skete, a Church ward taken down to Calzareth when the Patriarchate claims the vale, a child who chose to leave a vocation that was never fairly hers, or the last warden of a vale that ended on her watch. Which one is the truest measure of how the adventure went.
+Kyra can become a keeping warden who re-peoples the Skete, a Church ward taken down to Kalzaret when the Patriarchate claims the vale, a child who chose to leave a vocation that was never fairly hers, or the last warden of a vale that ended on her watch. Which one is the truest measure of how the adventure went.
 
 ## Navigation
 

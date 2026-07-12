@@ -46,7 +46,7 @@ The story rapidly spread along trade routes and underground monastic paths, and 
 
 A theological branch that asserts **the flame given by the Redeemer is not meant to consume**, but to illuminate and refine. The Forty Flames are seen as its first proof.
 
-According to the **Thalmyric Order of the Phoenix Ascendant**, the martyrs’ deaths symbolized the transition from passive martyrdom to **active sanctification**: they were **transformed**, not destroyed.
+According to later preachers associated with the Thalmyric **[[Thalmyric Military Orders|Order of the Returning Standard]]**, the martyrs' deaths marked a passage from witness into service. Mainstream doctrine treats this as devotional interpretation, not proof that death or pain sanctifies by itself.
 
 ####  _Communal Martyrdom_
 
@@ -106,4 +106,3 @@ The **Council of Second Flame** (Eclessia, 491 AE) officially recognized the For
 
 - [[Timeline MOC]]
 - [[Canon Index]]
-

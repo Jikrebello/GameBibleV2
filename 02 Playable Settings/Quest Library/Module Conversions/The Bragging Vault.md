@@ -66,7 +66,7 @@ Thirteen centuries ago the wizard Keraptis descended into a volcanic mountain wi
 - "Because a wizard is amused" is not a stake. The vault needs a reason to exist that the setting already prices — a talent audition broadcast to arena patrons, with the intruders unknowingly on display.
 - The volcanic mountain becomes a working fumarole in Vorthara's geothermal district, not a mythic peak.
 - The soul-drinking sword must not read as a generic evil blade. It becomes a native arena arm with a documented liability history — bouts won, wielders consumed, owners owed.
-- The undead guardian in the dark cannot be a wandering monster. Vorthara has a reason for it: the [[Pale Hand]] holds the mortgage on the vent and title to anything that dies below, so the guardian is a harvested former contestant.
+- The undead guardian in the dark cannot be a wandering monster. Vorthara has a reason for it: the [[The Pale Hand|Pale Hand]] holds the mortgage on the vent and title to anything that dies below, so the guardian is a harvested former contestant.
 - The three weapons' "curses" become setting mechanics with sources, registries, and costs, not GM-convenient compulsions.
 - The fire-elemental exit toll must be bound service native to the geothermal district, not summoned genies.
 - The open builder-mystery converts into a live decision: completing the gauntlet is a job offer the party can accept, refuse, or expose — and a debt the Pale Hand is quietly filing the whole time.
@@ -75,7 +75,7 @@ Thirteen centuries ago the wizard Keraptis descended into a volcanic mountain wi
 
 **The conversion:** a rogue Vorthara impresario, [[Corsin Marlo]], called *the Vaunt*, steals three celebrated pit-champion weapons — [[The Trophy-Arms|Forfeit, Ovation, and Cairn]] — and posts a public boast daring anyone to retrieve them from his gauntlet under the [[The Ashplume Vault|Ashplume]] fumarole. The three branches are showpieces, scried and broadcast to arena patrons. The gauntlet is an audition: the Vaunt is shopping for a new stable, and everyone who runs it is on display whether they consented or not.
 
-**The torque:** completion is a job interview. Marlo makes an arena-partnership offer to whoever beats his vault — while the [[Pale Hand]]'s under-factor [[Odalie Vench]] reveals the Pale Hand holds the mortgage on the vent and title to anything that dies below. Every contestant who fell before the party is now [[Vault-Claimed]] collateral. Custody of the arms, reputation in the arena, and the debt on the mountain all move independently: you can win the weapons and still owe the floor.
+**The torque:** completion is a job interview. Marlo makes an arena-partnership offer to whoever beats his vault — while the [[The Pale Hand|Pale Hand]]'s under-factor [[Odalie Vench]] reveals the Pale Hand holds the mortgage on the vent and title to anything that dies below. Every contestant who fell before the party is now [[Vault-Claimed]] collateral. Custody of the arms, reputation in the arena, and the debt on the mountain all move independently: you can win the weapons and still owe the floor.
 
 **Hook:** the funhouse dungeon is a spectacularly unethical recruitment exercise, the prizes have killed the people who carried them, and the guards used to be the last team that tried.
 

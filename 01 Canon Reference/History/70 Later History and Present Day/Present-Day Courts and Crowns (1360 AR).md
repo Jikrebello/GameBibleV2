@@ -44,11 +44,20 @@ The authoritative register of who rules where in 1360 AR. Companion to [[Present
 
 ### The Patriarchate
 
-**Patriarch Sophron the Unsleeping**, enthroned in 1351, survived seven days in the Cavern of Smoke and Flame without sleeping. An Ember-Visionary by formation, he unsettles the Hierophants and delights the monasteries. His Council of Flame is split three ways: the **Flame-Marshals** press for a Zanthir crusade; the **Hierophants** defend the Codex Ignis against Eclessian polemic; and the **Ember-Visionaries** keep transcribing the same omen from three separate trance dormitories: *a lamp carried out of a burning archive*.
+**Patriarch Sophron the Unsleeping**, enthroned in 1351, holds the historical title Patriarch of Veridun while residing at Caleran. A contemplative formed in the mountain monasteries, he presides over the **Holy Synod of Veridun**, commonly called the Council of Flame. The Synod is divided among frontier militants, doctrinal administrators, provincial bishops, and contemplatives. Sophron has refused to authenticate a widely circulated vision of *a lamp carried out of a burning archive*, frustrating every succession faction that claims it.
+
+### The Provincial Crowns and Governments
+
+- **Saronika** — **Queen Thaleia IV Saromen** rules the maritime kingdom through its Admiralty, port councils, and an uneasy dependence on Sestaran credit.
+- **Vlastrava** — **King Dragovan II Vlastar** leads the great fortress and veteran kingdom and supports stronger frontier expenditure without yet endorsing total war.
+- **Elenara** — **Duchess Mirena Ielen** balances monastery estates, river cities, abandoned land, and rival archive claims.
+- **Arkena** — **Governor-General Kyrion Arkenos** governs the military province alongside civic councils that guard older city privileges.
+- **Kedrava** — **Prince Radovan Kedrin** speaks for mountain-refuge traditions, peasant militias, and monasteries that distrust both court centralization and reckless reconquest.
+- **Zanthir** is not a Thalmyric province. It is an autonomous emirate claimed by Thalmyria and pressured by the Covenant.
 
 ### The Court's Standing Wounds
 
-The ransom-shame of Markellos (never again negotiate); the Nikandran grievance (never again ask the East); and the empirical embarrassment nobody speaks of: the Saint-Emperor's hymns kindle for some officers and not for others, and the pattern follows no rank the court can control.
+The ransom-shame of Markellos encourages leaders to treat negotiation as humiliation. The Nikandran grievance makes cooperation with Eclessia politically costly. Caedros IV's succession, Sestaran debt, depopulated interior districts, and the disputed legal inheritance of occupation-era communities now threaten the peace more immediately than any single foreign army.
 
 ## The Covenant (Qahirid Suzerainty)
 

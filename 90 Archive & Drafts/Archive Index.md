@@ -17,6 +17,8 @@ Archived material is preserved by subject. Its placement records what the materi
 
 The complete old-to-new path record is [[Physical Reorganization Manifest]].
 
+The Thalmyric reconstruction preserved its source cluster under `30 Cultures/Thalmyria/2026-07 Pre-Reconstruction`. Its [[Thalmyric Rename Manifest]] and [[Thalmyric Cross-Vault Audit]] record the naming migration and every active mention reviewed during the pass.
+
 ## Subject Archives
 
 - **10 Cosmology:** superseded cosmological phases and entity versions.

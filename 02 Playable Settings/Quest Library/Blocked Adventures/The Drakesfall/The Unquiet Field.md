@@ -4,7 +4,7 @@ status: draft
 canon_level: local
 visibility: author-only
 era: ["Present Day"]
-region: ["Thalmyria", "Thematic of Archenia", "The Drakesfall Vale"]
+region: ["Thalmyria", "Military Province of Arkena", "The Drakesfall Vale"]
 culture: ["Thalmyric"]
 related_factions: ["Thalmyric Church"]
 appears_in: ["The Drakesfall"]

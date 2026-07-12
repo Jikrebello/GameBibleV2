@@ -3,65 +3,83 @@ type: culture
 status: canon
 canon_level: core
 visibility: public
-era: ["Present Day"]
+era: ["Present Day", "1360 AR"]
 region: ["Thalmyria"]
 culture: ["Thalmyric"]
 related_factions: ["Thalmyric Empire", "Thalmyric Church", "Ahl-e-Ahd"]
 appears_in: []
-needs:
-  - reconcile minor local military-order names with the consolidated order register
 aliases: []
 tags: []
 ---
 # Thalmyric Empire Overview
 
-Thalmyria is the west-central imperial heir of Atheria, rebuilt after the fall of Caleran by refugees, mountain rebels, clergy, and surviving legions. It claims continuity through the Aetherion throne, the Patriarchate of Veridun, the recovery of Caleran, and the Holy Flame. Eclessia lies to its east; the Covenant presses from the north and northwest.
+Thalmyria is the west-central heartland and most direct surviving heir of old Atheria. Its people live among working aqueducts, buried roads, martyr crypts, occupation ruins, Reconquest forts, and fields that still yield coins and weapons from forgotten wars. The empire is old, urban, learned, proud, and materially diminished: a civilization that recovered its sacred center without recovering all the land, population, or wealth that once sustained it.
 
-## Cultural Thesis
+## The Thalmyric Claim
 
-Thalmyria answers catastrophe through fire, suffering, and continuity. Its holiness is expressed through vigil, fasting, icons, sacramental flame, mountain refuge, parish endurance, and military service. Its temptation is to make exhaustion proof of righteousness and reconquest the whole purpose of a civilization.
+Thalmyrics commonly say that law, letters, theology, civilized war, and proper cooking all began in their heartland. The boast rests on real continuity, but stretches it into ownership of achievements shared with many peoples. Thalmyria's central question is whether inheritance creates a duty of stewardship or a license to rule.
 
-See [[Thalmyria Cultural Thesis]], [[The Founding of the Thalmyric Empire]], and [[The Great Split — Two Crowns, One Fire]].
+[[Thalmyria Cultural Thesis]] states this identity plainly. [[The Making of the Thalmyrics]] explains the peoples who formed it, while [[Cultural Identity and Rivalry]] shows how that identity changes by class and region.
 
-## Throne and Church
+## Two Capitals and a Coronation City
 
-[[Emperor Caedros IV Aetherion]] rules from Veridun through an imperial system whose daily machinery is described in [[The Court of Veridun (1360 AR)]]. The Patriarch and Council of Flame share authority uneasily with the crown; neither can rule the empire alone.
+- **Veridun** is the living imperial capital, seat of [[Emperor Caedros IV Aetherion]], the court, and the coronation cathedral containing the Great Lamp and Virelian Lamp.
+- **Caleran** is recovered Atheria's sacred old capital, the Redeemer site, home of the Eternal Ember, and present seat of the Patriarchate.
+- **Virelos** is the mountain cradle of the rebellion and the city where Caedros I was crowned in 922 AR.
 
-- [[The Imperial Throne of Veridun]]
-- [[The Patriarchate of Veridun]]
+The Patriarch retains the title **Patriarch of Veridun**, inherited from the refuge years, although the Holy Synod now meets at Caleran.
+
+## Fall and Return
+
+Caleran fell in 905 AR. Refugees, clergy, provincial soldiers, and mountain communities survived behind the Veil over Veridun and began the [[The Long Reconquest (908-1052 AR)|Long Reconquest]]. Caleran was recovered in 957 AR, but the war continued province by province until the Rekindling of 1052 marked recovery of the core heartland. The [[The Velian States Overview|Velian States]] and [[Zanthir and the Unfinished Reconquest|Zanthir frontier]] remain outside secure imperial control.
+
+This history produced both liberation and new wrongs. Return armies freed people from predatory covenant rule, but also displaced families, rewarded military clients, bound laborers, and judged mixed communities through the needs of war.
+
+## Faith
+
+The Thalmyric Church is contemplative, sacramental, and icon-rich. It teaches that suffering may discipline the self but cannot purchase salvation; pain sought for its own sake is vanity or heresy. The White Flame restores, reveals, and sanctifies. It is not elemental fire, and warlock Shell-fire is not holy.
+
 - [[Faith and the Thalmyric Church Overview]]
 - [[The Holy Fire]]
+- [[The Patriarchate of Veridun]]
+- [[Icons, Churches, and Sacred Space]]
 - [[Mysticism and Asceticism]]
 - [[Saints and Relics]]
 
-## Imperial Structure
+## Empire and Court
 
-[[Structure of the Empire Overview]] indexes the imperial states: the Kingdom of Veridun, Saronis, Valrathis, Elenor, Archenia, Caedmon's Reach, the Velian States, and the contested Emirate of Zanthir. Their autonomy is real, but the army, Church, imperial roads, and reconquest bind them together.
+[[Structure of the Empire Overview]] explains the emperor, chancellery, provincial governments, military districts, hereditary realms, city privileges, and Holy Synod. [[The Court of Veridun (1360 AR)]] records the present government and succession crisis; [[The Imperial Throne of Veridun]] explains the crown's legal and ceremonial foundations.
 
-## Reconquest
+## Realms and Frontiers
 
-The Covenant conquests destroyed old Atheria and still define the northern frontier. Thalmyria's reconquest recovered Caleran but permanently militarized the state, sanctified frontier sacrifice, and left occupied and blended regions that do not fit either empire's preferred history.
+- [[The Kingdom of Veridun Overview]] and [[Caleran and the Eternal Ember]]
+- [[The Maritime Kingdom of Saronika Overview]]
+- [[The Kingdom of Vlastrava Overview]]
+- [[The Duchy of Elenara Overview]]
+- [[The Military Province of Arkena Overview]]
+- [[Principality of Kedrava Overview]]
+- [[The Saltborn Coast Overview]]
+- [[The Velian States Overview]]
+- [[Zanthir and the Unfinished Reconquest]]
 
-- [[The Reconquest and Conflict with the Ahl-e-Ahd Overview]]
-- [[The Battle of Caelmount]]
-- [[The Reclamation of Caleran]]
-- [[Prelude to Collapse]]
+## The Old Heartland
 
-## Ordinary Life
+Most Thalmyrics live in or near fortified cities, market towns, monasteries, and roads the state can still protect. In the interior, abandoned terraces and shrinking villages surround ruins from six historical layers. Farmers commonly find ordinary antiquities; intact relics and functioning Atherian systems remain rare and dangerous.
 
-- [[Thalmyric Daily Life and the Burning Year]]: calendar, household religion, labor, and seasonal obligation.
-- [[Lives of Thalmyria — Seven Roads from Cradle to Grave]]: farmer, soldier, bureaucrat, priest, bishop, outlaw, and noble life paths.
+- [[Thalmyric Heartland - Cities, Ruins, and the Empty Interior]]
+- [[The Layers Beneath Thalmyria]]
+- [[Thalmyric Economy and the Old Heartland]]
+- [[Thalmyric Daily Life and the Burning Year]]
+- [[Lives of Thalmyria — Seven Roads from Cradle to Grave]]
 
-## War and Material Culture
+## War and the Present Crisis
 
-- [[Thalmyric Military Orders]]
-- [[Thalmyric Church Architecture]]
-- [[Church-Military Unity]]
+[[Thalmyric Armies and the Long Frontier]] and [[Thalmyric Military Orders]] describe the forces defending a long, expensive border. In 1360 AR, Thalmyria faces an unresolved succession, Sestaran debt, depopulated districts, antiquities crime, exhausted veterans, and pressure to resume a total war for Zanthir.
 
-## Story Use
-
-Thalmyric stories arise from succession, holy-war exhaustion, frontier amnesties, icon and relic disputes, mixed provinces, court-versus-monastery politics, veterans returning to villages, and genuine miracles becoming instruments of state.
+[[Challenges and Future Tensions]] collects the active story fronts.
 
 ## Navigation
 
 - [[Cultures MOC]]
+- [[Historical Spine of the Known World]]
+- [[Gazetteer of the Known World]]

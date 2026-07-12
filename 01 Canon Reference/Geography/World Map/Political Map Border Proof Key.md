@@ -30,11 +30,11 @@ This is the approval key for [[Political World Map - Border Proof.png]]. The pro
 | ID | Territory | Border rationale |
 |---|---|---|
 | T1 | Veridun | Volcanic mountain core and the defensible refuge from which the restored empire is ruled. |
-| T2 | Elenor | Cultivated eastern drainage: river towns, vineyards, monasteries and veteran estates. |
-| T3 | Valrathis | Northern fortress belt facing Zanthir and the disputed Velian corridor. |
-| T4 | Saronis | Main Thalassian coast and principal archipelago; the Saltborn Coast will later be a label within this maritime rim. |
-| T5 | Caedmon's Reach | Rugged southwestern coast, pine highlands and difficult approaches. |
-| T6 | Archenia | Small fortified island enclave and permanent campaign district, deliberately not the whole archipelago. |
+| T2 | Elenara | Cultivated eastern drainage: river towns, vineyards, monasteries and veteran estates. |
+| T3 | Vlastrava | Northern fortress belt facing Zanthir and the disputed Velian corridor. |
+| T4 | Saronika | Main Thalassian coast and principal archipelago; the Saltborn Coast will later be a label within this maritime rim. |
+| T5 | Kedrava | Rugged southwestern coast, pine highlands and difficult approaches. |
+| T6 | Arkena | Small fortified island enclave and permanent campaign district, deliberately not the whole archipelago. |
 
 ## Sestaran Concord
 
@@ -87,7 +87,7 @@ Dashed borders represent customary range, tribute, pasture and wintering rights.
 1. Do the six cultural-political blocks occupy the correct parts of the terrain?
 2. Are any first-order territories too large, too small or on the wrong side of a mountain or river?
 3. Does the Eclessian-Folk gradient leave enough room for Grenzburg to function as a contested march?
-4. Does Saronis have enough maritime territory while Archenia remains a readable enclave?
+4. Does Saronika have enough maritime territory while Arkena remains a readable enclave?
 5. Do the Ättar and Folk ranges feel like customary territories rather than modern provinces?
 
 No capital, city or finished regional typography should be added until these silhouettes are approved.

@@ -4,7 +4,7 @@ status: draft
 canon_level: local
 visibility: author-only
 era: ["Present Day"]
-region: ["Thalmyria", "Thematic of Archenia", "Faewild law-places"]
+region: ["Thalmyria", "Military Province of Arkena", "Faewild law-places"]
 culture: []
 related_factions: []
 appears_in: ["The Drakesfall"]

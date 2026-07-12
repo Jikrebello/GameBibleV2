@@ -76,10 +76,12 @@ The civilized world dates from the execution and resurrection of Isfir the Redee
 - **c. 905–920 AR — The First Catch.** The fallen empire's border studs scatter into the grass; the foot-nomad Tarkhan catch them and become, within three generations, the world's finest light cavalry. Grey Sister's line begins.
 - **906 AR — The Veil over Veridun.** During the Qahirid advance, watchers see a woman's figure spreading a veil of pale fire above the city; the siege breaks in a night storm. Thalmyria's supreme feast of the Mother.
 - **906–908 AR — Third Crusade.** The eastward push stopped at the Duchy of Caldria.
-- **908–921 AR — The Mountain Rebellion.** Caedros of house Aetherion; the Valley Ambush (917); Virelos (921).
+- **908–921 AR — The Mountain Rebellion.** Caedros of house Aetherion; [[The Battle of Caelmount|Caelmount/the Valley Ambush]] (917); Virelos secured (921).
 - **922 AR — The Coronation at Virelos.** **Caedros I the Unbowed**, first Thalmyric Emperor.
+- **922–949 AR — [[The War of the Burning Banners]].** Refuge leagues, monastery armies, and return claimants are brought under one imperial command.
 - **905–957 AR — The Impounded Ember.** The occupiers find the Eternal Ember will not go out; Idris declares it property-in-dispute and guards it for fifty-two years. The Reconquest finds it burning, ledgered to the day — the most famous invoice in history, which Veridun pays in full. (See [[The Divergence Pass — Torque Register]].)
-- **950–962 AR — Fourth Crusade: The Reconquest.** First weaponized Holy Flame. **957 AR — Caleran retaken; Caedros I dies at the Pillar of Concordance** at the moment of victory; witnesses swear the Flame took the body. Canonized in Thalmyria within a decade; canonization rejected by Eclessia's relic courts. **Caedros II the Completer** finishes the campaigns (to 962).
+- **950–962 AR — [[The Reclamation of Caleran|The Caleran campaign]].** **957 AR — Caleran retaken; Caedros I dies at the Pillar of Concordance** at the moment of victory; witnesses swear the Flame took the body. Canonized in Thalmyria within a decade; canonization rejected by Eclessia's relic courts. **Caedros II the Road-Maker** secures the immediate coast and river districts (to 962).
+- **962–1052 AR — [[The Long Reconquest (908-1052 AR)|The Long Reconquest continues]].** Province-by-province return, occupation settlements, military colonies, and competing land registers reshape the heartland. The Velian States and Zanthir remain unrecovered.
 
 ## Two Crowns (962–1104 AR)
 
@@ -100,33 +102,41 @@ The civilized world dates from the execution and resurrection of Isfir the Redee
 - **1183 / 1204 AR — The definitions concerning the Mother.** The Sanctum dogmatizes the **Unkindled Conception** and the **Rising of the Mother**; Veridun rejects the Sanctum's authority to define either doctrine.
 - **1190–1243 AR — Sultan-Caliph Suhrab the Lawbinder.** The Covenant's apex; the *Ledger of Ledgers*.
 - **1243 AR — The False Lady of Bruckmoor exposed** as an Idol-feeding operation after forty years of pilgrimage — a Weeping Courts architecture that fattened on Grey Sweat grief; the site burned and salted. The relic courts' founding trauma.
-- **1214 AR — The Battle of Qarath's Well.** **Markellos the Captive** taken alive; ransomed for border themes; blinded and deposed by his own court on return. Thalmyria's deepest self-inflicted wound.
+- **1214 AR — The Battle of Qarath's Well.** **Markellos the Captive** taken alive; ransomed for border military districts; blinded and deposed by his own court on return. Thalmyria's deepest self-inflicted wound.
 - **1214–1225 AR — The post-Qarath civil wars.**
-- **c. 1232–1247 AR — [[The Grey Sweat]].** The great mortality: a third of eastern Eclessia, a fifth of its western territories, in fifteen years of waves. Tenantry expands across much of Eclessia while Virelia's second serfdom hardens; Ash-Walker penitents seed later quietism and shrine hunger. Remembered as *the years the ferry queued* — a soul-logistics catastrophe as much as a plague (see [[The Divergence Pass — Torque Register]]). ✶ Ends with the **Quiet Ninth** (1247): the Sweat stops everywhere in one week, and the Ash-Walkers disband mid-march, everywhere, unasked.
 - **1225–1263 AR — Nikandros I the Restorer.** Stabilizes the rump; asks Eclessia for aid; refuses the Sanctum's price (Veridun's submission); fights on alone. Present-day Caedros IV claims this line.
+- **c. 1232–1247 AR — [[The Grey Sweat]].** The great mortality: a third of eastern Eclessia, a fifth of its western territories, in fifteen years of waves. Tenantry expands across much of Eclessia while Virelia's second serfdom hardens; Ash-Walker penitents seed later quietism and shrine hunger. Remembered as *the years the ferry queued* — a soul-logistics catastrophe as much as a plague (see [[The Divergence Pass — Torque Register]]). ✶ Ends with the **Quiet Ninth** (1247): the Sweat stops everywhere in one week, and the Ash-Walkers disband mid-march, everywhere, unasked.
 - **c. 1235–1341 AR — The Medori century.** **Bartolo the Elder** builds the bank; **Lauro the Magnificent** builds the merchant-humanist flowering. Sestara's golden age begins c. 1250.
+- **1261 AR — The Kurultai of the Long Grass.** **Qarayel, the Black Wind**, unites all Tarkhan banners under the Nine-Mane Standard.
+- **1265–1300 AR — The Black Wind Years.** Iqashar pays escort fees, the Velian fairs burn and pay, Sestara institutes the grass-toll; extraction without occupation.
 
 ## Reformation and the Present (1281–1360 AR)
 
+- **1279–1352 AR — Doctor Lucian Ferro** systematizes the movement: *The Order of the Open Flame*; the Freeflame ecclesiology ("the Lord's Fire keeps no landlord"); sheltered by **Duke Rainald of Ironvale**.
 - **1281–1296 AR — Lord Primarch Alessior VI** (House Malvora, bought with Medori credit). Industrial expansion of **routing assurances** to fund wars and the rebuilding of the Sanctum.
+- **c. 1295 AR — Caedros IV Aetherion born.** The Nikandran restoration line continues through the soldier-prince later called Ash-Blood.
 - **1297 AR — The [[Freeflame Reformation]] begins.** Ansgar of Brenholt posts the *Hundred Grievances* against the assurance trade.
+- **1303 AR — Death of Qarayel**, undefeated, unsucceeded; the secret grave. **1304 — the Partition of the Herds:** the White, Iron, Moon, and Ash Hordes divide by his children's lines.
 - **1305 AR — The Synod of Aldersbruck.** Ansgar refuses to recant and is burned; ashes scattered in the River Weiss; **the Unburnt Psalter** vaulted and denied.
 - **1306–1329 AR — The Ashenmen Risings** in and around the Ironvale country.
-- **1279–1352 AR — Doctor Lucian Ferro** systematizes the movement: *The Order of the Open Flame*; the Freeflame ecclesiology ("the Lord's Fire keeps no landlord"); sheltered by **Duke Rainald of Ironvale**.
-- **1330–1354 AR — Lord Primarch Celestin IX;** the **Council of Veridance** (1337–1352); assurance sales abolished; the five tests codified; the **Order of the Lantern** founded by **Father Ivo the Lamed**.
-- **1343 AR — [[The Korrheim Accord]].** *Whose the realm, his the rite.* It excludes unaffiliated radicals, ignores the reunification mandate, and satisfies no one.
-- **1261 AR — The Kurultai of the Long Grass.** **Qarayel, the Black Wind**, unites all Tarkhan banners under the Nine-Mane Standard. **1265–1300 — the Black Wind Years:** Iqashar pays "escort fees," the Velian fairs burn and pay, Sestara institutes the grass-toll; extraction without occupation.
-- **1303 AR — Death of Qarayel**, undefeated, unsucceeded; the secret grave. **1304 — the Partition of the Herds:** the White, Iron, Moon, and Ash Hordes divide by his children's lines (Temuchar's disputed blood; Berkan's Covenant-drifting Iron banner; Alakha's Moon custody of the Standard; Qutan's Ash road-lords).
 - **1311 AR — The Spring at Sarnwell.** An apparition of the Mother to a crippled washerwoman; the healing spring passes every relic-court test.
-- **1346–1349 AR — Frate Severin of Fiorenzia:** the Pyre of Masks; hanged and burned. **Nicanor Vetti's** *Mirror for Sovereigns* circulates banned (written c. 1340).
-- **1352 AR — The Lady of the Sloe-Field at Vessing.** Three shepherd children; a figure of banked fire; irreconcilable testimonies touching the Kindling Question. **The Sanctum has not ruled.**
+- **1318 AR — The Night of Seven Flames at Orinel.** Caedros Aetherion becomes a frontier hero.
+- **1319–1322 AR — The Crimson Pilgrimage.** Caedros campaigns, breaks contract engines, and reconsecrates shrines through the Velian frontier.
+- **1324–1325 AR — The Siege of Zehrim.** Surrender accepted; captured contract engines and ledgers burned; the altar restored without executing the garrison.
+- **c. 1329 AR — Caedros IV crowned at Virelos.**
+- **1330–1354 AR — Lord Primarch Celestin IX;** the **Council of Veridance** (1337–1352); assurance sales abolished; the five tests codified; the **Order of the Lantern** founded by **Father Ivo the Lamed**.
 - **c. 1330s AR — Castara opens the Boiling Sea routes;** the New World rush.
+- **1343 AR — [[The Korrheim Accord]].** *Whose the realm, his the rite.* It excludes unaffiliated radicals, ignores the reunification mandate, and satisfies no one.
+- **1346–1349 AR — Frate Severin of Fiorenzia:** the Pyre of Masks; hanged and burned. **Nicanor Vetti's** *Mirror for Sovereigns* circulates banned (written c. 1340).
 - **1349 AR–present — Sultan-Caliph Marzuq III**, Qahirid suzerain at Iqashar over the four caliphates. Guard-brokered, stagnant, cracked. The **Emirate of Zanthir** endures as the last autonomous remnant of the old conquest.
+- **1352 AR — The Lady of the Sloe-Field at Vessing.** Three shepherd children; a figure of banked fire; irreconcilable testimonies touching the Kindling Question. **The Sanctum has not ruled.**
+- **1357 AR — Empress Vasilia of Vlastrava dies.** The emperor's prolonged flame-silences begin after her fortieth-day.
+- **1358 AR — Prince Nikandros dies** in a frontier skirmish; the succession becomes a three-way struggle between Alexane, Sophios, and adoption.
 - **1360 AR — PRESENT DAY.** **Caedros IV Aetherion** reigns in Veridun (regnal names recur; he is the fourth Caedros, not the fourth emperor). Eclessia is split three ways — Sanctum loyalists, Accord-protected reformed duchies, and the 345-year schism with Veridun — making the reunification mandate almost self-parodying. Armed frontier peace with the Covenant. Sestara finances everyone. Grenzburg's crisis year.
 
 ## Sanity Checks
 
-Fall to coronation: 17 years. Caedros I dies at 62 in the assault he insisted on leading. The Split arrives 58 years after the Reconquest and 13 after Adalmar's coronation, giving the Two Emperors problem one generation to fester. At present, Ansgar has been dead 63 years, Ferro 8 years, and the confessional map has been frozen by the Accord for 17 years. Wave One to Wave Two contains roughly three centuries of Velian coexistence. Adalmar's imperial crown lasts one century before deposition.
+Fall to coronation: 17 years. Caedros I dies at 62 in the assault he insisted on leading. The Split arrives 58 years after Caleran's recovery, 13 years after Adalmar's coronation, and 37 years before the Long Reconquest's concluding Rekindling. At present, Ansgar has been dead 55 years, Ferro 8 years, and the confessional map has been frozen by the Accord for 17 years. Wave One to Wave Two contains roughly three centuries of Velian coexistence. Adalmar's imperial crown lasts one century before deposition.
 
 ## Navigation
 

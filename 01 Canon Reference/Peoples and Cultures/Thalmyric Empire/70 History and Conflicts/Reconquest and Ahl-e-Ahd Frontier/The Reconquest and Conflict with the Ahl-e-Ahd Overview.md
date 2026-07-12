@@ -1,89 +1,54 @@
 ---
-type: culture
+type: reference
 status: canon
-canon_level: local
+canon_level: core
 visibility: public
-era: []
-region: ["Thalmyria"]
-culture: ["Thalmyric"]
-related_factions: []
+era: ["Fall of Atheria", "Long Reconquest", "Present Day"]
+region: ["Thalmyria", "Velian States", "Zanthir"]
+culture: ["Thalmyric", "Ahl-e-Ahd", "Velian"]
+related_factions: ["Thalmyric Empire", "Ahl-e-Ahd", "Thalmyric Church"]
 appears_in: []
-needs: []
+aliases: ["Thalmyric Reconquest Overview"]
 tags: []
 ---
-### **I. The Great Invasion and the Shattered Borderlands**
+# The Reconquest and Conflict with the Ahl-e-Ahd Overview
 
-The **Ahl-e-Ahd**, a vast empire steeped in a faith centered on **contractual magic, oath-bound servitude, and celestial negotiation**, stand as the Thalmyric Empire's most enduring and devastating adversary. Originating from the scorched steppes and mirrored cities beyond the northern and northwestern frontiers, the Ahl-e-Ahd launched their first great invasion centuries ago.
+The conflict between Thalmyria and the Ahl-e-Ahd began with conquest but did not remain a simple war between two armies. The Fall destroyed Atherian government, imposed systems of contract bondage, displaced populations, and created mixed communities whose descendants inherited incompatible claims to land, worship, and belonging.
 
-The **fall of the Velian States** and the establishment of the **Emirate of Zanthir** marked the darkest days of the Thalmyric calendar. Northern bastions were razed, holy sites defiled, and countless thousands either enslaved or subjected to covenantal chains.
+## Fall, Refuge, and Return
 
-This catastrophic invasion precipitated the collapse of unified Atherian rule and led directly to the **creation of the Thalmyric Empire**, as military and spiritual leaders withdrew to defend the heartland.
+Caleran fell in 905 AR. Veridun survived beneath the Veil in 906, and the Mountain Rebellion began in 908. The authoritative campaign sequence is recorded in [[The Long Reconquest (908-1052 AR)]]. Caleran's recovery in 957 restored the sacred center but did not end the war. Recovery, resettlement, and consolidation continued until 1052, while the Velian and Zanthir frontiers remained unsettled.
 
----
+## What Occupation Did
 
-### **II. The Nature of the Enemy**
+Covenant authorities distributed conquered land among garrison families and rewarded clients, retained contract-bound locals, transplanted subject peoples, and used forced labor on strategic estates and roads. Their law could provide predictable protections to recognized parties while denying full personhood to those trapped beneath imposed obligations. The system was orderly, productive in places, and genuinely predatory.
 
-The Ahl-e-Ahd differ from the Thalmyric faithful not merely in belief, but in **ontological worldview**:
+## What Return Did
 
-- Their magic is **contractual**, bound in ink, blood, and celestial sign.
-- Their gods are **bargaining entities**, powerful beings bound by covenant.
-- Spiritual advancement is gained not through suffering, but **negotiation and obedience** to higher powers.
+Thalmyric armies broke contract engines, reopened churches, restored some dispossessed communities, and ended many forms of bondage. They also created veteran estates, enforced population transfers, privileged documented claimants, and sometimes treated language or ancestry as proof of collaboration. Later amnesties attempted to distinguish perpetrators from descendants, but their enforcement remains uneven.
 
-To the Thalmyric mind, this is **the deepest perversion of the divine**—where mystery is replaced by transaction, and devotion by servitude.
+## The Present Frontier
 
----
+The old Reconquest is over as a continuous imperial campaign. The frontier war is not. Raids, proxy forces, prisoner exchanges, covert patronage, and disputes over shrines and waterworks continue across the [[The Velian States Overview|Velian States]]. [[Zanthir and the Unfinished Reconquest]] is the great unresolved political symbol: homeland to its inhabitants, occupied province to Thalmyric militants, and strategic frontier to the Covenant.
 
-### **III. The Reconquest as Spiritual Crusade**
+## Faith and War
 
-The **Reconquest** is not just a military endeavor—it is a **sacred charge**, a mission to:
+The Church may bless defense, liberation, and the protection of the oppressed. It does not teach that conquest itself sanctifies an army or that suffering purchases salvation. Campaign rites call soldiers to repentance, restraint, burial of the dead, and protection of noncombatants. Militants who preach “burn to be redeemed” stand outside mainstream doctrine even when powerful patrons shelter them.
 
-- **Reclaim holy lands** lost to the invaders.
-- **Purify corrupted soil** with prayer and flame.
-- **Liberate souls** from oath-bound chains.
+The Returning Standard tradition is represented within [[Thalmyric Military Orders]], alongside the defensive Long Watch and the hospital-centered Iron Martyrs. Warlock Shell-fire remains categorically distinct from the White Flame.
 
-Each campaign is launched only after undergoing the **Ceremony of Illumination**, sanctioned by the **Council of Flame** and blessed with fire drawn from the Eternal Brazier of Caleran.
+## Story Uses
 
-Crusading orders like the **Order of the Phoenix Ascendant** and the **Order of the Eternal Vigil** view the Reconquest as a **lifelong calling**, not a temporal war.
-
-> _“The fire shall reclaim what the shadow has taken. We burn, and so we redeem.”_ — Inscription over the eastern gate of Calzareth
-
----
-
-### **IV. Blended Territories and Cultural Fracture**
-
-Centuries of occupation and resistance have created **hybrid zones**—blended territories where Ahl-e-Ahd architecture, law, and theology mix uneasily with Thalmyric traditions.
-
-- In cities like **Tavresh and Mordun**, Thalmyric shrines stand beside oath-temples.
-- Local populations may revere both saints and celestial signatories.
-- Some Thalmyric citizens have adopted **contractual naming rites**, drawing suspicion from Church inquisitors.
-
-These regions are both the **most volatile** and the **most theologically contested**—where battle is fought not only in the streets, but in **souls and symbols**.
-
----
-
-### **V. The Endless War**
-
-The Thalmyric Church teaches that the Reconquest is **not a finite conflict**, but an **ongoing purgation** of the empire’s sin, a spiritual trial that burns away complacency.
-
-Yet this perspective is not without strain:
-
-- **Younger clergy** and commanders ask: _Can the fire burn forever?_
-- **Exhausted provinces** struggle to supply men and materials.
-- Some radical mystics claim the war will never end until **the Redeemer returns**, and see each battle as a test of **faith and endurance**.
-
----
-
-### **VI. Conclusion: Fire Against the Scroll**
-
-To the Thalmyric faithful, the war with the Ahl-e-Ahd is not about territory alone—it is a war between **fire and ink**, between **flame-wrought revelation** and **contractual bondage**. The Reconquest is not merely about reclaiming what was lost—it is about **becoming worthy** of restoration.
-
-And as the old crusader’s chant goes:
-
-> _“We do not fight for land. We fight so the fire will never be extinguished.”_
+- a village with three valid property histories and only enough land for two;
+- a liberated contract laborer whose descendants are threatened by an older title;
+- a frontier commander concealing a raid to force renewed war;
+- a mixed shrine where saint-veneration and occupation-era practice cannot be cleanly separated;
+- prisoners whose release would expose the profitable peace maintained by both sides.
 
 ## Navigation
 
 - [[Thalmyric Empire Overview]]
-- [[Canon Index]]
-- [[Canon Index]]
-
+- [[The Long Reconquest (908-1052 AR)]]
+- [[The Velian States Overview]]
+- [[Zanthir and the Unfinished Reconquest]]
+- [[The Ahl-e-Ahd Overview]]

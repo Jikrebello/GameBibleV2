@@ -1,83 +1,56 @@
 ---
 type: character
 status: canon
-canon_level: local
+canon_level: core
 visibility: public
-era: []
-region: ["Thalmyria"]
+era: ["Present Day", "1360 AR"]
+region: ["Veridun", "Thalmyria", "Velian Frontier"]
 culture: ["Thalmyric"]
-related_factions: []
+related_factions: ["House Aetherion", "Thalmyric Empire", "Thalmyric Church"]
 appears_in: []
-needs: []
+aliases: ["Ash-Blood"]
 tags: []
 ---
-### **I. Prelude to the Crown: The Rise of a Commander**
+# Emperor Caedros IV Aetherion
 
-Before ascending the Throne of the Ember Crown, **Caedros Aetherion** earned his renown not through bloodline, but by the **burning path of war**. Though the scion of a noble house, his early years were spent in the dust and ash of border skirmishes, not in the velvet halls of Caleran.
+Caedros IV, called **Ash-Blood**, was born around 1295 AR into a provincial branch of House Aetherion. He became famous as a frontier commander before inheriting an empire whose bureaucracy he respects, whose court he dislikes, and whose unfinished war has shaped nearly every choice of his adult life.
 
-Trained in the **Emberhold War College**, he famously rejected an early commission in the Imperial Guard, choosing instead to serve among the **frontier militias** of Valrathis. There, he fought side-by-side with villein-knights, flamebound zealots, and lowborn captains—earning the trust of the common soldiery and the nickname: _“Ash-Blood.”_
+## Rise on the Frontier
 
----
+Caedros trained at the war college of **Vatrin**, then rejected an early palace commission for service in Vlastrava and the Velian marches. He shared infantry rations, learned siegecraft from provincial engineers, and acquired a reputation for inspecting walls in person. His restraint with soldiers became as important to his legend as his victories.
 
-### **II. The Night of Seven Flames**
+At **Chapel-Fort Orinel** in 1318 AR, his garrison survived a night assault while seven signal braziers failed one by one. Caedros led the dawn counterattack after the final light went out. Later songs turned the smoke into a great bird of fire; the Church records only an improbable victory and several credible acts of courage.
 
-Caedros' most storied battle and the moment that etched his legend into the minds of the faithful.
+## The Crimson Pilgrimage, 1319-1322 AR
 
-- **Location**: Chapel-Fort Orinel, on the eastern fringe of the Velian frontier.
-- **Opposing Force**: Ahl-e-Ahd raiders led by the warlock-prince Azran Mir.
-- **Conditions**: Outnumbered 12 to 1, with no reinforcements and dwindling supplies.
+After Orinel, Caedros led a three-year circuit through contested Velian districts. His column reopened roads, broke contract engines, returned seized parish registers, and reconsecrated churches where communities requested it. At Saint Rhedan's ruined basilica, he kept a six-day vigil while wounded. The event made him a symbol of disciplined endurance, although later militants distorted it into a cult of pain he has publicly rejected.
 
-Caedros ordered seven braziers—each drawn from relic-flame—to be placed atop the battlements. One was extinguished every two hours as a **symbol of endurance**. As the seventh flickered out, he led a counterattack under ash-choked skies, wielding a blade wrapped in a burning prayer-cloth.
+## Zehrim, 1324-1325 AR
 
-The enemy was routed, Azran Mir slain, and the survivors claimed to have seen **a phoenix shape** rising from the smoke.
+Caedros commanded the eight-month siege of Fort Zehrim. When the garrison capitulated, he accepted the surrender and protected the prisoners under military law. He then burned the captured contract engines, oath-ledgers, and instruments of imposed covenant on the fort's desecrated altar. The blackened cathedral later built there commemorates liberation from contract bondage, not the killing of surrendered defenders.
 
----
+## Emperor
 
-### **III. The Crimson Pilgrimage**
+Caedros acceded around 1329 AR. He codified frontier amnesties, strengthened provincial audits, and tried to distinguish recoverable civilian property from assets created through covenant enslavement. These reforms won him loyalty in mixed districts and hatred from land claimants who expected victory to erase every occupation-era title.
 
-After Orinel, Caedros chose not to return to Caleran, but instead embarked on a **holy campaign** across the fractured western Velian lands.
+He is now about sixty-five: physically formidable, sleep-starved, and increasingly given to long devotional silences. His wife, Empress Vasilia of Vlastrava, died in 1357. Their elder son Nikandros died on the frontier in 1358. Princess Alexane, Prince Sophios, and the possibility of adoption now divide the court.
 
-- **Purpose**: To **reconsecrate lost Thalmyric shrines** and root out Ahl-e-Ahd contract magic.
-- **Duration**: 3 years, 8 cities liberated, 21 heretical altars burned.
-- **Key Deed**: At the ruined Basilica of Saint Rhedan, he held vigil in silence for six days while wounded, until the sacred flame relit itself.
+## Character and Limits
 
-This journey became a rallying cry for the faithful, and inspired the foundation of **the Order of the Ashen Star**, a militant monastic brotherhood modeled after his discipline and flame-silence.
+Caedros is patient with engineers, veterans, and village petitioners, but impatient with ceremony. He sincerely believes the empire has a duty to defend the oppressed and recover its holy places. His danger is that he can mistake a duty to protect for a mandate to possess. He knows what another Zanthir war would cost and has not decided whether restraint is wisdom or cowardice.
 
----
+His sword **Ashreaver** hangs above the imperial throne at Veridun. It has not been drawn since his coronation.
 
-### **IV. The Siege of Fort Zehrim**
+## Story Use
 
-Fort Zehrim, deep within contested Velian territory, had resisted Thalmyric forces for over a decade.
-
-- Caedros, by then a Flame-Marshal, coordinated an **eight-month siege**, during which he personally led the construction of the **Ash Ramps**—stone siege bridges set ablaze before each assault to inspire the troops.
-- He refused to sleep within the command tent, instead sleeping with the infantry.
-- At the siege’s end, Caedros allowed the Ahl-e-Ahd defenders to surrender peacefully—then **anointed the fort’s altar with their ashes**, transforming the site into a **sanctified bastion of penance and flame.**
-
-Zehrim became the site of a major frontier cathedral, known for its blackened walls and eternal braziers.
-
----
-
-### **V. Legacy of the Sword**
-
-These campaigns secured Caedros’ rise to prominence, but more than that, they defined a **new model of leadership** within the Empire:
-
-- A ruler who **suffered alongside his men**.
-- A warrior who **fought with relics, not just regiments**.
-- A leader who saw war not only as strategy—but as **sacrament**.
-
-His personal blade, **Ashreaver**, now hangs over the Throne of the Ember Crown—never drawn since, unless the empire again faces its darkest hour.
-
----
-
-### **Conclusion**
-
-The legend of **Caedros IV** is not carved into stone, but **burned into memory**. In his youth, he was a torch in the dark—on the edge of collapse, at the heart of holy vengeance. His campaigns continue to shape the prayers of the faithful, the tactics of generals, and the hopes of a people who still believe that flame may yet purify the world.
-
-> _“To bleed for the Redeemer is not glory. It is necessity. To lead in fire is not honor. It is burden. But it is the burden I choose.”_ — Caedros, after the fall of Zehrim
+- a revered commander forced to decide whether his life's unfinished war should become his children's inheritance;
+- an emperor who appears unannounced at a failing wall or neglected hospital;
+- a succession struggle in which every candidate embodies a different answer to imperial continuity;
+- petitioners from mixed frontier communities invoking Caedros's own amnesty laws against his generals.
 
 ## Navigation
 
+- [[The Court of Veridun (1360 AR)]]
+- [[The Imperial Throne of Veridun]]
 - [[Thalmyric Empire Overview]]
-- [[Canon Index]]
-- [[Canon Index]]
-
+- [[Zanthir and the Unfinished Reconquest]]

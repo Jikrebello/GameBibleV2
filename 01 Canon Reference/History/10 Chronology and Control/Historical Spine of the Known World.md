@@ -87,11 +87,13 @@ Ahl-e-Ahd invasion, imperial weakness, failed crusades, and internal fracture br
 
 **Inherited wound:** no successor state can prove itself without arguing over the fall.
 
-## 13. Thalmyric Founding
+## 13. Thalmyric Founding and the Long Reconquest
 
-Mountain resistance, holy fire, ascetic militarization, and imperial memory become Thalmyria. The Thalmyrics define themselves as the flame-bearing heirs of Atheria.
+Mountain resistance, holy fire, refuge government, and imperial memory become Thalmyria across [[The Long Reconquest (908-1052 AR)|five generations of reconquest]]. Caleran returns in 957, but the core provinces are not secured until 1052; the Velian States and Zanthir remain outside imperial rule.
 
-**Inherited wound:** reconquest becomes spiritual identity.
+Occupation resettlement means return is never restoration to an empty land. Garrison families, bound locals, transplanted subjects, surviving villages, and refugee descendants possess competing claims.
+
+**Inherited wound:** reconquest becomes spiritual identity, while the cities fill with people who possess ancestral homes they cannot lawfully or safely recover.
 
 ## 14. Eclessian Fragmentation
 

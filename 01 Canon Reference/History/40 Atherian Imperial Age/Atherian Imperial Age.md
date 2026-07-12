@@ -33,6 +33,8 @@ The empire inherits:
 
 Atheria creates the imperial board that later cultures fight over: roads, provinces, archives, ruins, legions, star temples, imperial law, and the public stage on which the Redeemer appears.
 
+Its oldest and densest infrastructure accumulated in the land now forming Thalmyria. The modern heartland is therefore not merely a successor state's territory but a vertical record of pre-Atherian cities, republican expansion, imperial monumental growth, conversion, occupation, and return. See [[The Layers Beneath Thalmyria]].
+
 ## Navigation
 
 - [[Timeline MOC]]

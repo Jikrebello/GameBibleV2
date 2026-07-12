@@ -1,107 +1,54 @@
 ---
 type: faction
 status: canon
-canon_level: local
+canon_level: core
 visibility: public
-era: []
-region: ["Thalmyria"]
+era: ["905-1360 AR", "Present Day"]
+region: ["Caleran", "Veridun", "Thalmyria"]
 culture: ["Thalmyric"]
-related_factions: []
+related_factions: ["Thalmyric Church", "Thalmyric Empire", "Holy Synod of Veridun"]
 appears_in: []
-needs: []
+needs:
+  - name the current metropolitan bishops after the regional court pass
+aliases: ["Patriarchate of Veridun", "Holy Synod of Veridun", "Council of Flame"]
 tags: []
 ---
-### **I. Seat of the Flame**
-The **Patriarchate of Veridun** is the supreme spiritual authority within the Thalmyric Church, centered in the city of **Caleran**, the beating heart of the **Kingdom of Veridun**. The city is built upon sacred volcanic stone and surrounded by a natural basin of black hills and red-leafed cypress groves. It is said the very soil smolders with the residual warmth of divine presence.
+# The Patriarchate of Veridun
 
-The **Cathedral of the Eternal Ember**, an immense obsidian structure crowned by a perpetual flame, serves as both the religious center of the city and the Patriarch's seat. Its great spire, known as the **Column of Light**, emits a steady pillar of pale fire visible for miles, said to have been ignited by the Redeemer’s spirit in the First Era of Fire.
+The Patriarchate of Veridun is the supreme ecclesiastical authority of the Thalmyric Church. It is seated at the Cathedral of the Eternal Ember in Caleran. Its title preserves the refuge city from which the Church survived the Fall.
 
----
+## Two Seats of Memory
 
-### **II. The Patriarch of Veridun**
-The Patriarch is revered not only as the head of the Church but as the **spiritual flame-bearer** of the Redeemer’s ongoing will. He is considered the **living ember** of the faith, a vessel of mystical authority and divine vision.
+During occupation, the Patriarchate governed from Veridun and developed the institutions that sustained the mountain resistance. After Caleran's recovery, the Patriarch returned to the Redeemer site and Eternal Ember.
 
-#### **Selection and Rituals**
-- The Patriarch is chosen by the **Conclave of Ascendants**, composed of senior Ember-Visionaries, Arch-Hierophants, and Flame-Marshals.
-- Upon selection, the Patriarch-to-be undergoes **seven days of silence** in the **Cavern of Smoke and Flame**, a volcanic shrine beneath Caleran said to grant visions and scorch away all unworthy ambition.
-- On the seventh night, if the candidate survives, he emerges from the cavern wrapped in smoke and soot, then is anointed with **sacred oil mixed with ash** and crowned within the Cathedral.
+Veridun retains the Great Lamp, Virelian Lamp, coronation cathedral, and major synodal archives. The Church therefore possesses a Patriarchal seat at Caleran and an indispensable second center at Veridun.
 
-#### **Regalia and Symbols**
-- **Crown of Ashfire**: A black iron circlet shaped like a brazier, with slow-burning coals embedded in the rim.
-- **Phoenix Mantle**: A great cloak of red and black feathers, representing the Redeemer’s resurrection and divine rebirth.
-- **Voice of Flame**: The Patriarch's staff, forged from obsidian and topped with a slow-burning wick that never extinguishes.
+## Patriarch Sophron
 
-The Patriarch is not only a symbolic leader but also a theological arbiter, visionary guide, and military coordinator during times of crusade.
+Patriarch Sophron the Unsleeping was enthroned in 1351. An elder formed in contemplative stillness, he survived seven days in the Cavern of Smoke and Flame without sleeping. He distrusts manufactured spectacle and resists the Flame-Marshals' demand for immediate war with Zanthir.
 
----
+## The Holy Synod
 
-### **III. The Council of Flame**
-The **Council of Flame** is the governing ecclesiastical body beneath the Patriarch. It is composed of three branches:
+The formal governing body is the **Holy Synod of Veridun**, commonly called the Council of Flame. Its principal benches are:
 
-#### **1. Hierophants**
-- Custodians of doctrine, they oversee theological education, scripture copying, and dogmatic consistency.
-- They preserve and interpret the **Codex Ignis**, a living document of Church law, which is regularly updated with verified mystic visions.
-- Hierophants are often found within the **Scriptorum Pyrae**, a subterranean archive beneath the Cathedral.
+- doctrinal bishops and theologians who guard teaching and Church law;
+- visionary elders who examine miracles, dreams, and disputed sanctity;
+- Flame-Marshals who coordinate chaplaincy, frontier missions, and Church obligations during war.
 
-#### **2. Ember-Visionaries**
-- These monks and nuns are considered to have **received multiple divine revelations**, often after decades of fasting, silence, or flame-pilgrimage.
-- They are not administrators but **spiritual advisors**, consulted when omens, visions, or theological paradoxes arise.
-- Some are kept in specially consecrated dormitories, where they remain in near-permanent trance states, murmuring truths that scribes record and seal.
+The Synod elects the Patriarch, glorifies saints, judges doctrine, regulates relic custody, and may bless or refuse an imperial campaign.
 
-#### **3. Flame-Marshals**
-- Warrior-priests and military strategists who coordinate the Church’s presence on the front lines.
-- Each Flame-Marshal is assigned a **region of spiritual conflict**, such as the Velian States or the border of Zanthir.
-- They lead **blessing rites** for armies, enforce **battlefield liturgy**, and oversee the construction of **battle chapels**.
+## Crown and Patriarch
 
-The Council gathers once every **seasonal quarter**, or upon the Patriarch’s summons, in the **Chamber of Braided Fire**, a round chamber lit by three sacred braziers symbolizing the Redeemer’s triune aspects.
+The Emperor appoints no Patriarch and the Patriarch commands no imperial army. Each nevertheless possesses practical leverage over the other. A campaign without blessing may remain lawful but loses moral legitimacy; a Patriarch without imperial protection cannot safely administer the frontier.
 
----
+## Present Crisis
 
-### **IV. Duties and Divine Authority**
-The Patriarch and the Council are responsible for:
-
-- **Sanctifying military campaigns**: No war of reconquest can be declared without their blessing.
-- **Declaring heresies**: They investigate and proclaim schisms, false prophets, and corrupt orders.
-- **Guardian of relics**: The Council safeguards artifacts said to contain the Redeemer’s breath, blood, or ashes.
-- **Interpreting visions**: All verified visions are judged for authenticity and doctrinal impact.
-
-They also oversee public rituals during high holy days such as:
-
-- **Feast of the Burning Light**
-- **Vigil of the Phoenix’s Wake**
-- **Ashfall Remembrance**
-
----
-
-### **V. Inner Politics and Tensions**
-While unified in doctrine, the Council is not free from internal tension:
-
-- **Hierophants** are often wary of the mystical excesses of the **Ember-Visionaries**.
-- **Flame-Marshals** push for immediate military action, while **visionaries** urge caution based on omens.
-- Some whisper that **visions are being suppressed** for political reasons, or that the current Patriarch has **not spoken a true prophecy** since his anointment.
-
-There is also growing concern that the **Cavern of Smoke and Flame** has grown **silent**, producing fewer visionary experiences, leading some to question whether the Church has grown too institutional and less spiritually alive.
-
----
-
-### **VI. The Living Flame**
-Despite these tensions, the Patriarch remains a revered figure—a **symbol of continuity**, chosen from fire, cloaked in ash, and trusted to bear the burden of a burning world. He is often called:
-
-- **“The Ember Crowned”**
-- **“The Voice That Burns”**
-- **“High Keeper of the Flame That Walks”**
-
-His presence at public rites is said to ignite lamps that were never lit, and his voice causes coals to glow. The faithful look to him not just for leadership—but for **fire enough to endure.**
-
----
-
-### **Conclusion**
-
-The **Patriarchate of Veridun** is the soul-forge of the Thalmyric Church. It is where visions meet law, and where sacred fire is shaped into governance. From the volcanic deeps beneath Caleran to the red-robed figure who raises his brazier-staff before crusading knights, the Patriarchate exists to **carry the flame forward—until the Redeemer returns in final fire.**
+Three separate visionary houses report an image of a lamp carried out of a burning archive. Sophron refuses to declare it a succession prophecy. The court, army, monasteries, and foreign agents have already done so for him.
 
 ## Navigation
 
-- [[Thalmyric Empire Overview]]
-- [[Canon Index]]
-- [[Canon Index]]
-
+- [[Faith and the Thalmyric Church Overview]]
+- [[The Court of Veridun (1360 AR)]]
+- [[The Holy Fire]]
+- [[The Great Split — Two Crowns, One Fire]]
+- [[Caleran and the Eternal Ember]]

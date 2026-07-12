@@ -13,7 +13,7 @@ tags: []
 ---
 # Gazetteer of the Known World (1360 AR)
 
-The written companion to the labeled map (`World Map/Known World - Labeled Gazetteer v1.png`). All placements marked are proposals matching the phase-1 region map; everything else follows established canon. Scale: the main board (Caleran to Strazgorod) spans roughly **2,200 miles**; the full known world about 3,000.
+The written companion to the labeled map (`World Map/Known World - Labeled Gazetteer v1.png`). Scale: the main board from Caleran to Strazgorod spans roughly **2,200 miles**; the full known world about 3,000.
 
 ## Travel Rules of Thumb
 
@@ -32,7 +32,9 @@ Foot column 15–20 miles/day; mounted courier 35–40; cart and wagon 12–15; 
 
 Mountainous heart of the old empire. **Caleran** on the northwestern lowland coast at the Aurin's mouth: old imperial capital, the Redeemer's execution site, Patriarch's seat (Cathedral of the Eternal Ember) — it fell to the seaward-and-desert approach in 905 precisely because it faces the Covenant. **Veridun** in the volcanic highlands southeast: the refuge-turned-imperial-capital, Caedros IV's seat. **Virelos** deeper in the mountains (the rebellion's cradle and coronation site); **Velos** in the eastern lowlands (the Stone Bridge, 292 AR). The Reconquest's geography reads on the map: down from Virelos and Veridun to the sea.
 
-The empire's **eastern and southeastern shore on the Thalassian is the Saltborn coast** — the old Atherian maritime war-front, and the one imperial region the sea reaches easily. **Halmenth**, at the Celion's mouth, is its chief port (Saint Naris's drowning). Centuries of Ättar sea-raiders from the south and Ahl-e-Ahd invasions from the Qazmarid–Zanthir approach fell on this coast, and the raid-then-settle that followed bred the **[[The Saltborn Coast Overview|Saltborn]]**: an Atherian/Ättar creole grown into Thalmyric/Ättar coastfolk. **Salthaven** and the lesser fishing towns of the Thirty Sisters' waters line the same shore.
+The core population follows fortified cities, functioning aqueducts, ports, monasteries, and maintained imperial roads. Between them lie abandoned terraces, thinly settled valleys, occupation ghost towns, and ruins from every Atherian and post-Atherian period. The Long Reconquest reached Caleran in 957 but continued through the core provinces until 1052; its settlement corridors remain visible in veteran towns and fortified roads. See [[Thalmyric Heartland - Cities, Ruins, and the Empty Interior]] and [[The Layers Beneath Thalmyria]].
+
+The empire's **eastern and southeastern shore on the Thalassian is the Saltborn coast** — the old Atherian maritime war-front, and the one imperial region the sea reaches easily. **Halmenth**, at the Celion's mouth, is its chief port (Saint Naris's drowning). Centuries of Ättar sea-raiders from the south and Ahl-e-Ahd invasions from the Qazmarid–Zanthir approach fell on this coast, and the raid-then-settle that followed bred the **[[The Saltborn Coast Overview|Saltborn]]**: an Atherian/Ättar creole grown into Thalmyric/Ättar coastfolk. **Soligrad** and the lesser fishing towns of the Thirty Sisters' waters line the same shore.
 
 ### The Covenant (Ahl-e-Ahd) — north and northwest
 

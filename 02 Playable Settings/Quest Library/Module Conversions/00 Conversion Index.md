@@ -30,7 +30,7 @@ Triage of the PF1e standalone module library: **42 converted** (one file each, t
 
 **Borders, law, and investigation:** [[The Accord's Hollow Keep]] (Fangwood Keep) · [[The Garden of Stolen Names]] (Broken Chains) · [[Murder at Lantern Fair]] (Murder's Mark) · [[The Last Baron of Brauvalis]] (LB1 Tower of the Last Baron)
 
-**Sea and expedition:** [[The Three Perils of the Shattered Isles]] (Plunder & Peril) · [[The Drowned Bell of Salthaven]] (From Shore to Sea) · [[The Chimera Cache]] (LB2 Treasure of Chimera Cove) · [[The River Beyond Castara]] (W2 River into Darkness)
+**Sea and expedition:** [[The Three Perils of the Shattered Isles]] (Plunder & Peril) · [[The Drowned Bell of Soligrad]] (From Shore to Sea) · [[The Chimera Cache]] (LB2 Treasure of Chimera Cove) · [[The River Beyond Castara]] (W2 River into Darkness)
 
 **Dungeons and buried systems:** [[The Dead Press Upward]] (Hungry Are the Dead) · [[The Stone Before the Covenant]] (J4 Pact Stone Pyramid) · [[The Gilded City of Avarix]] (City of Golden Death) · [[The Iron Diadem]] (Tomb of the Iron Medusa)
 

@@ -17,14 +17,12 @@ tags: []
 
 The Saltborn are the coast people of **Thalmyria's contested eastern and southeastern shore** — the one stretch of the mountain empire the sea reaches easily, and therefore the one the sea has always fought over. They are an **Atherian/Ättar creole grown into Thalmyric/Ättar coastfolk**: the old empire's maritime frontier, layered century on century by raid, settlement, invasion, and baptism into a distinct and salt-cured people. They keep totem bynames beside saints' names, brew mead at church weddings, and are the first levy called when a strange sail crosses the horizon.
 
-*(Note: the Saltborn were formerly written as an Eclessian coastal people. They have been relocated to Thalmyria, because the Ättar and Eclessia sit on opposite sides of the continent and never meaningfully met; the Ättar keels actually landed here, on the empire's Thalassian coast.)*
-
 ## Where They Are
 
 The Saltborn coast is Thalmyria's **eastern lowland shore on the Thalassian Sea** — the inner sea between Thalmyrica, the Sestaran peninsula, and Eclessia's far western edge. It runs from the eastern lowlands around Velos down the southeastern shore toward the Ahl-e-Ahd frontier of the Velian States and Zanthir.
 
 - **Halmenth**, at the mouth of the **Celion**, is the chief Saltborn port — the drowning-place of **Saint Naris** and the coast's beating heart.
-- **Salthaven** and the lesser fishing towns line the waters of the **Thirty Sisters**, where the coast's strangest maritime weird runs.
+- **Soligrad** and the lesser fishing towns line the waters of the **Thirty Sisters**, where the coast's strangest maritime weird runs.
 - Behind the ports rise the imperial highlands; before them lies the Thalassian, and beyond it the Ättar keels of the south and the old invasion-roads from Qazmarid.
 
 ## How They Were Made
@@ -48,22 +46,22 @@ The Saltborn are **Thalmyric in faith and allegiance, Ättar in the bone, Atheri
 
 ## The Skinwalker Inheritance
 
-The **skinwalker path** survives among a few Saltborn lineages as a hidden, heretical inheritance — an Ättar sea-magic the Holy Fire condemns. It is an open file with the Thalmyric Church's inquisitors (the Order of the Silver Flame would call it corruption; the coast calls it grandmother's business), and a superb quest seam: a coast-guard captain who is also the thing the Church hunts.
+The **skinwalker path** survives among a few Saltborn lineages as a hidden, heretical inheritance, an Ättar sea-magic condemned by the Thalmyric Church. Diocesan investigators call it corruption; the coast calls it grandmother's business. A coast-guard captain can therefore be both a loyal servant of the empire and the object of a Church investigation.
 
 ## The Thirty Sisters and the Sea-Weird
 
-The waters off Salthaven carry the coast's deepest strangeness: the **formation-bells of the Thirty Sisters**, a maritime weird tied to drowned Atherian works on the tidal islands and the Undertow's old channels. Some Saltborn lineages are born able to *hear* it — an inherited adaptation, cultivated over generations, that is lineage and not guilt. The coast's ghost-stories are, unusually often, true.
+The waters off Soligrad carry the coast's deepest strangeness: the **formation-bells of the Thirty Sisters**, a maritime weird tied to drowned Atherian works on the tidal islands and the Undertow's old channels. Some Saltborn lineages are born able to *hear* it — an inherited adaptation, cultivated over generations, that is lineage and not guilt. The coast's ghost-stories are, unusually often, true.
 
 ## The Empire's Sword-Arm and Sea-Arm
 
-The Saltborn are worth more to Veridun than their tax-rolls. They crew the **Sea-Marshal's** ships, and by ancient custom they fill the **[[The Court of Veridun (1360 AR)|Ash Guard]]** — the emperor's axe-bearing life-guard, recruited from baptized Ättar oath-men and Saltborn coastmen under the Varangian bargain: frontier men with no court faction, bound by hearth-oath to the man and not the throne. Their commander, **Hallvard Whale-Tooth**, sings drinking songs in a language the court does not speak.
+The Saltborn are worth more to Veridun than their tax-rolls. They crew the **Sea-Marshal's** ships, and by ancient custom they fill the **[[The Court of Veridun (1360 AR)|Ash Guard]]**, the emperor's axe-bearing household guard. Its baptized Ättar oath-families and Saltborn coastfolk have few ties to inland court factions and bind themselves by hearth-oath to the crowned emperor. Their commander, **Hallvard Whale-Tooth**, sings drinking songs in a language the court does not speak.
 
 ## Story Use
 
 - a strange sail on the horizon that is a cousin, a raider, or an invasion — and the coast cannot yet tell which;
 - a Naris-cult lighthouse whose flame routes drowned souls as well as ships;
 - a coast-guard family whose grandmother keeps the skinwalker path, and the inquisitor who has come for her;
-- a Salthaven lineage born hearing the Thirty Sisters' bells, cultivated by something in the deep water;
+- a Soligrad lineage born hearing the Thirty Sisters' bells, cultivated by something in the deep water;
 - an Ash Guard veteran home from Veridun, caught between the throne he swore to and the coast that made him.
 
 ## Navigation

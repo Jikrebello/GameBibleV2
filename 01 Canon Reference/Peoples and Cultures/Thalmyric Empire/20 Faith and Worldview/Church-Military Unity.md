@@ -1,144 +1,56 @@
 ---
-type: culture
+type: reference
 status: canon
-canon_level: local
-visibility: public
-era: []
-region: ["Thalmyria"]
+canon_level: core
+visibility: restricted
+era: ["Present Day"]
+region: ["Thalmyria", "Velian States"]
 culture: ["Thalmyric"]
-related_factions: []
+related_factions: ["Thalmyric Church", "Thalmyric Empire"]
 appears_in: []
-needs: []
+needs:
+  - define the current Synodal vote required for an offensive crusade
+aliases: ["Church, Army, and the Reconquest"]
 tags: []
 ---
-### **I. Holy War and Divine Mandate**
+# Church-Military Unity
 
-In the Thalmyric Empire, war is not merely a political or territorial endeavor—it is **spiritual warfare** in the most literal sense. The ongoing reconquest against the Ahl-e-Ahd and the reclamation of sacred lands are understood as **divinely mandated acts of redemption**. The Thalmyric Church teaches that each soldier fights not only for the empire, but for the **soul of the world**.
+Thalmyria's Church and army share history, chaplaincy, saints, hospitals, frontier land, and the memory of survival. They are not one institution.
 
-The phrase **"To march is to pray, to strike is to burn"** is inscribed above the gates of every battle chapel.
+## Lawful Cooperation
 
----
+The Crown commands armed forces. The Church supplies chaplains, burial, moral teaching, hospitals, relic custody, and discernment concerning supernatural threats. The Holy Synod may bless a campaign or refuse to bless it; refusal does not physically prevent war but changes its legitimacy.
 
-### **II. Priests and Chaplains of the Battlefield**
+## Battlefield Clergy
 
-Clergy are an essential part of every military force in the empire. Their duties extend beyond spiritual encouragement and into sacramental, magical, and martial domains.
+Chaplains serve sacramental and pastoral needs, maintain records of the dead, investigate spiritual hazards, negotiate burial, and challenge unlawful orders. They do not command formations merely by being ordained.
 
-#### **Functions of Battlefield Clergy:**
+## The Redeemer and War
 
-- **Blessing arms and armor** before battle, inscribing flame-runes or anointing with sacred oil.
-- **Chanting flame-liturgies** to inspire courage and suppress fear.
-- **Tending to the wounded** with holy rites that mix medicine and miracle.
-- **Administering last rites** on the field, often using ash to mark the forehead of the dying.
-- **Dispelling spiritual corruption** and countering Ahl-e-Ahd magic with divine fire.
+Thalmyric preaching emphasizes the Redeemer's victory over predatory powers and death. The Redeemer is not a patron of conquest. Military iconography shows humility, protection, descent into suffering, and victory without becoming a divine endorsement of every soldier.
 
-Some clergy are trained to fight, but many carry **flame-censers** or **brands of ember**, using sacred fire as both weapon and symbol.
+## Holy Flame Bearers
 
----
+Rare bearers may manifest the White Flame against corruption or to protect people. They are not warlocks and cannot guarantee kindling. The army rotates bearers away from prolonged use because pride, trauma, and institutional pressure can deform discernment.
 
-### **III. Paladins as Sacred Warriors**
+Shell-fire units operate through licensed rune scripts and remain under military engineering law.
 
-The **Order of the Phoenix Ascendant** and other military orders provide the elite holy warriors of the empire. These **paladins** are:
+## The Three Orders
 
-- Trained in **martial combat, theology, and mysticism**.
-- Bound by **ritual oaths of flame**, taken in youth and renewed yearly.
-- Known to fight with weapons that blaze with spiritual fire, and recite **battle-litanies** mid-combat.
+- **Order of the Returning Standard:** preserves return roads, imperial archives, and sites recovered during the Long Reconquest.
+- **Order of the Long Watch:** maintains frontier chapels, hospitals, scouts, and evacuation routes.
+- **Iron Martyrs:** veteran and hospitaller order guarding relics, caring for the maimed, and confronting corrupted battlefields.
 
-Their presence on the field is seen as a blessing and omen—**a walking prayer, clad in ash and steel**.
+The Ash Guard is an imperial household formation, not a Church order.
 
----
+## Failure Modes
 
-### **IV. Battle Chapels and Frontier Shrines**
-
-The **battle chapel** is a uniquely Thalmyric institution—a fortified shrine constructed near or within military encampments.
-
-#### **Features of a Battle Chapel:**
-
-- A central **flame-altar**, kindled by embers from Caleran.
-- A relic niche, often housing a **fragment of a saint's armor or weapon**.
-- Flame-sigils carved into every wall.
-- A stockpile of sacramental wine, ash, oil, and ember-sigils for rites.
-
-These chapels host:
-
-- **Pre-battle rites** invoking the Redeemer’s protection.
-- **Communal chants** for courage.
-- **Purification rituals** after battle, to cleanse spiritual residue.
-
-Soldiers often sleep within their chapel the night before battle, believing it binds their souls more closely to the Redeemer.
-
----
-
-### **V. The Sacraments of Flame**
-
-The spiritual rituals of the Thalmyric military are codified into sacred rites known as the **Sacraments of Flame**:
-
-#### **1. Anointing Before Battle**
-
-- Sacred oil is mixed with powdered ash and applied to the brow, chest, and weapon grip.
-- Invokes the Redeemer’s flame to shield the bearer from both steel and sin.
-
-#### **2. Communion of Ember**
-
-- Bread is baked with ember-dust and spiced wine is warmed with a holy flame.
-- Consumed beside a fire, it recalls the Redeemer’s flame-gifted body and spirit.
-- Often includes a **communal breath prayer**: inhaling smoke from sacred herbs.
-
-#### **3. Pyric Oaths**
-
-- Vows sworn over open flame.
-- Oaths may include fidelity to comrades, defense of the innocent, or holy vengeance against corruption.
-- Breaking a pyric oath is considered a spiritual betrayal, punishable by **flame-penance** or exile.
-
-#### **4. Ash Binding**
-
-- Ranks or squadrons kneel in ash, symbolizing humility and mortality.
-- Ash is mixed with the soil of ancestral lands or martyr's remains.
-- This rite binds warriors to both their ancestors and the Redeemer’s cause.
-
----
-
-### **VI. The Ceremony of Illumination**
-
-No campaign or major battle may begin without the **Ceremony of Illumination**, a rite that:
-
-- Kindles a **flame-altar** at the command camp, using embers taken from Caleran’s **Eternal Brazier**.
-- Involves prayers led by high-ranking Flame-Marshals or clergy.
-- Includes a **reading of visions** relevant to the battle, if available.
-- Sanctifies weapons and commanders with smoke and fire.
-
-This flame is carried on the battlefield by **torch-bearers**, who guard it even under fire. It is said that if the flame is extinguished, the army loses the Redeemer’s favor.
-
----
-
-### **VII. Church-Military Hierarchy**
-
-The military is tightly woven into the ecclesiastical structure:
-
-- **Flame-Marshals** serve both as generals and priests.
-- **Battle Abbots** oversee larger military districts, coordinating both logistics and liturgy.
-- **Templar Archivists** travel with armies to record visions, miracles, or omens witnessed during campaigns.
-
-Each army maintains a **Relic-Bearer**, who carries a sacred artifact into battle—often a bone, a page, or a shard touched by a saint or the Redeemer himself.
-
----
-
-### **VIII. Legacy and Consecrated Warfare**
-
-The fusion of Church and military has created a unique class of **warrior-mystics**, whose legacy is passed down in both bloodlines and **sacred scrolls of valor**. Songs, visions, and relics from past campaigns are invoked to inspire new crusades.
-
-Warfare is not just sanctioned—it is **sanctified**.
-
-Each victory is a step toward the **reclamation of the Redeemer’s kingdom**, and each loss a lesson written in ash.
-
----
-
-### **Conclusion**
-
-To the Thalmyric faithful, war is prayer in motion. Swords burn with sermons, and shields echo chants. The Church does not merely bless war—it fights, bleeds, and burns in its name. And where the soldiers march, the flame of the Redeemer walks with them, **until every battlefield is an altar, and every foe purified by holy fire.**
+The Church can turn military necessity into permanent spiritual emergency. The army can demand miracles as equipment. Monasteries can bless ancestral claims without hearing living occupants. Zealots can treat refusal to fight as refusal of faith.
 
 ## Navigation
 
-- [[Thalmyric Empire Overview]]
-- [[Canon Index]]
-- [[Canon Index]]
-
+- [[Thalmyric Armies and the Long Frontier]]
+- [[Thalmyric Military Orders]]
+- [[The Holy Fire]]
+- [[The Long Reconquest (908-1052 AR)]]
+- [[Warlock Rune Magic]]

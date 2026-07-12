@@ -8,7 +8,7 @@ era:
   - Present Day
 region:
   - Thalmyria
-  - Thematic of Archenia
+  - Military Province of Arkena
   - The Drakesfall Vale
 culture:
   - Thalmyric
@@ -27,7 +27,7 @@ tags:
 ---
 # The Drakesfall
 
-**Source:** J2 *Guardians of Dragonfall* | **Tier:** W | **Region:** Thalmyric highlands, the Thematic of Archenia | **Band:** level 5 analog
+**Source:** J2 *Guardians of Dragonfall* | **Tier:** W | **Region:** Thalmyric highlands, the Military Province of Arkena | **Band:** level 5 analog
 
 ## Original Adventure: Spark Notes
 
@@ -70,15 +70,15 @@ The greatest gold dragon in the world has died, and his kin want to know why. To
 - The "eternal guardians" become two real things: the mortal **wardens** who tend the vale, and the vale's own **law**, which does the guarding. When the wardens die, the law goes untended — that is the "broken watch."
 - The guardians attacking villages become the vale's **destabilizing law** spilling into imperial country: seasons stacking wrong, game walking in circles, a dead silver drake's moon-law leaking into local nights — and the **[[The Gemfallen|Gemfallen]]**, drake-dead animating without a keeper.
 - The wardens must be **Thalmyric**, not Folk — there are no Folk here. They become an ancient ascetic hermitage, the **[[The Drakesfall Vale|Cyrian Skete]]**, that has kept the vale since Atherian times, half-suspect to the Patriarchate for tending a Faewild site and tolerated because it contains one.
-- The usurper becomes a **[[The Vharo Concession|Vorthara-backed harvesting concession]]** working under a legal grant a frontier **strategos** of Archenia sold — rights he arguably held, which is the whole problem.
+- The usurper becomes a **[[The Vharo Concession|Vorthara-backed harvesting concession]]** working under a legal grant a frontier **military governor** of Arkena sold — rights he arguably held, which is the whole problem.
 - The great dead dragon becomes a great old **[[Gold Drakes|gold drake]]** that came to the vale to die as drakes do, and was harvested fresh — the act that tipped the field and got the wardens killed.
 - The stakes become setting-priced: **heart-gems in bulk** are a **[[The Concord of Weights|Concord-of-Weights]]**-grade prize, so the powers that want the vale emptied are economic, patient, and legally armored.
 
 ## World Egg Conversion Seed
 
-**The conversion:** the **[[The Drakesfall Vale|Drakesfall]]** — a highland vale in the Thematic of Archenia where the Faewild courts' drakes have come to die since before men — is floored with heart-gems slowly returning to the Faewild, and kept quiet by the ascetic wardens of the **Cyrian Skete**. A **[[The Vharo Concession|Vorthara-backed concession]]** has come to harvest the gems in bulk, killed most of the wardens who stood in the way, and cracked open a great old gold drake fresh — and now the vale's untended law is destabilizing: seasons stacking wrong, game circling, a dead silver drake's moon-law bleeding into the nights of nearby imperial villages, and **[[The Gemfallen]]** walking out of the bone-field.
+**The conversion:** the **[[The Drakesfall Vale|Drakesfall]]** — a highland vale in the Military Province of Arkena where the Faewild courts' drakes have come to die since before men — is floored with heart-gems slowly returning to the Faewild, and kept quiet by the ascetic wardens of the **Cyrian Skete**. A **[[The Vharo Concession|Vorthara-backed concession]]** has come to harvest the gems in bulk, killed most of the wardens who stood in the way, and cracked open a great old gold drake fresh — and now the vale's untended law is destabilizing: seasons stacking wrong, game circling, a dead silver drake's moon-law bleeding into the nights of nearby imperial villages, and **[[The Gemfallen]]** walking out of the bone-field.
 
-**The torque:** the concession's paper is *legal* — Strategos Konstantin Vharo sold harvesting rights he arguably held under Archenia's land-for-service law — and a lot of drake heart-gems is a Concord-of-Weights-grade fortune, so Vorthara and the weights-houses want the vale emptied and will out-lawyer any objection. Stopping the harvest means voiding a lawful grant, quieting a failing law-field before it takes a village, and protecting the last warden — who is twelve years old.
+**The torque:** the concession's paper is *legal* — Governor Konstantin Vharo sold harvesting rights he arguably held under Arkena's land-for-service law — and a lot of drake heart-gems is a Concord-of-Weights-grade fortune, so Vorthara and the weights-houses want the vale emptied and will out-lawyer any objection. Stopping the harvest means voiding a lawful grant, quieting a failing law-field before it takes a village, and protecting the last warden — who is twelve years old.
 
 **Hook:** the drake canon's holiest site, priced by the gem, defended by a child and a dying monk.
 

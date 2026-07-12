@@ -48,7 +48,7 @@ A blind imperial scribe and forger who received partial sight from Isfir and spe
 
 Legionnaire and noble exile, healed by Isfir, entrusted with Amaryah from the Pillar itself. She brought the Mother south through the Purge and **died defending the first shrine — Amaryah's hearth at Veridun Minor** — holding a doorway against a Purge cohort with a sword that had snapped at the crossguard. The **Broken Blade** hangs in the Cathedral of the Eternal Ember.
 
-- **Thalmyria:** the great martyr of the Ember Succession; patroness of the **Order of the Phoenix Ascendant** (the healed soldier reborn in service). By her own recorded wish there are no icons of her face: *"Look at the hearth, not at me."* Her feast is an all-night standing vigil.
+- **Thalmyria:** the great martyr of the Ember Succession and a patron of the **[[Thalmyric Military Orders|Order of the Returning Standard]]**. By her own recorded wish there are no icons of her face: *"Look at the hearth, not at me."* Her feast is an all-night standing vigil.
 - **Eclessia:** honored crusader-saint; invoked by soldiers' widows and bodyguards; Eclessian art ignores her wish and paints her constantly, which Thalmyric polemicists never tire of noting.
 
 ### 3. Saint Thalos the Laughing Monk — *the Fool* (d. 36 AR)

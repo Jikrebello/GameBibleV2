@@ -34,7 +34,7 @@ The filenames begin with the same IDs used by [[Political Map Border Proof Key]]
 - `AT1–AT4`: Ättar customary ranges
 - `F1–F4`: Folk and Enaidfae customary territories
 
-`T4 - Saronis.svg` includes Saronis's mainland/coastal shape and both associated island pieces. `C3 - Sermora.svg` includes Sermora's principal shape and associated island. `A5 - Velian States.svg` retains its disputed hatch. Ättar and Folk files retain dashed customary-frontier strokes.
+`T4 - Saronika.svg` includes Saronika's mainland/coastal shape and both associated island pieces. `C3 - Sermora.svg` includes Sermora's principal shape and associated island. `A5 - Velian States.svg` retains its disputed hatch. Ättar and Folk files retain dashed customary-frontier strokes.
 
 ## Reassembly
 

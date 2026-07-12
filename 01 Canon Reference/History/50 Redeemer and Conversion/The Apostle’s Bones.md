@@ -57,7 +57,7 @@ The local bishop immediately proclaimed them the **bones of Calira**, martyred d
 ####  **Thalmyric Claim**
 
 - Thalmyric clergy maintained that Calira was **spiritually Thalmyric**, due to her militant background and last stand in a mountain pass—one of the earliest models for the **Order of the Vigilant Flame**.
-- They asserted the bones should be housed in **Valrathis**, in a sanctum built to honor the Redeemer’s warriors.
+- They asserted the bones should be housed in **Vlastrava**, in a sanctum built to honor the Redeemer’s warriors.
 
 ####  **Imperial Remnant Obstruction**
 

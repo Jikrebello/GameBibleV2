@@ -1,93 +1,42 @@
 ---
 type: event
 status: canon
-canon_level: local
+canon_level: core
 visibility: public
-era: []
-region: ["Thalmyria"]
-culture: ["Thalmyric"]
-related_factions: []
+era: ["885-905 AR"]
+region: ["Atheria", "Caleran", "Thalmyria"]
+culture: ["Atherian"]
+related_factions: ["Atherian Empire", "Ahl-e-Ahd"]
 appears_in: []
-needs: []
+aliases: ["Prelude to the Fall of Caleran"]
 tags: []
 ---
-**Prelude to Collapse (c. Year 0 - Year 20)**
+# Prelude to Collapse
 
-### **I. The Waning of the Atherian Empire**
-By the dawn of the new century, the **Atherian Empire**—once a bastion of radiant order, mystical power, and philosophical grandeur—was in the grip of **spiritual stagnation** and **political decay**. Though still imposing in breadth, its borders increasingly frayed beneath the weight of its own contradictions.
+The Atherian Empire entered its final decades with functioning cities, ancient prestige, and a government increasingly unable to convert information into action.
 
-- **Noble decadence** bloomed in the imperial court, where banquets, relic pageants, and apocalyptic theatre replaced military discipline and administrative clarity.
-- The **Senate of Flame**, long a deliberative chamber of reform and religious dialogue, had become a fractured mouthpiece of regional lobbying and theological infighting.
-- Frontier satrapies complained of **neglected roads**, **unpaid garrisons**, and **slow-burning rebellions** in minor provinces, particularly along the **eastern marches and desert borderlands**.
+## Corvenas III and the Ash Hall
 
----
+Corvenas III was devout, ceremonial, and more interested in preserving the converted empire's sacred inheritance than rebuilding its army. He turned part of Caleran's palace into the Ash Hall, gathering relics, imperial trophies, and surviving objects from the suppressed Star cults.
 
-### **II. The Emperor in the Ash Hall**
-The last ruling Atherian Emperor, **Corvenas III**, was a man more priest than general. Deeply committed to ceremony and eschatological interpretation, he resided almost exclusively in **Caleran**, where he turned the ancient imperial palace into a sanctified relic gallery known as the **Ash Hall**.
+The collection was not decadence by itself. The failure lay in treating possession of the past as protection from the future.
 
-- He ordered the burning of state archives deemed “irrelevant to salvation.”
-- Invested heavily in flame-theatrics: sacred operas, omen-courts, and staged martyrdoms.
-- Commissioned the **Eighty-Seven Shrines of Final Judgement**, each meant to prepare a different class of citizen for the End of Days.
+## Structural Weakness
 
-To many, Corvenas was either a prophet-king or a blind shepherd. To his generals and provincial governors, he was a ruler whose fire had become smoke.
+Provincial forces answered competing commands. Tax registers overstated recoverable wealth. Court factions delayed mobilization because an honest muster would reveal empty depots and unpaid troops. The Second Crusade's failure in 878 had already shown the frontier could not be repaired by ceremony.
 
----
+## The Qahirid Preparation
 
-### **III. The Western Frontier: Eclessia**
-Far to the west, across the mountains and rivers that marked the edge of the Atherian heartlands, lay the region known as **Eclessia**—a rugged frontier territory with ancient sacred roots.
+Qahir ibn Ruzbeh rebuilt Covenant logistics, officer promotion, siege foundries, and intelligence between roughly 885 and 902. Traders, local clients, water courts, and contract archives supplied knowledge no Atherian map contained.
 
-- Eclessia was the **birthplace of the Redeemer**, and the cradle of his ministry. It held the earliest temples, the original stone where he was anointed, and the grove where he first preached to the outcast.
-- Unlike the opulence of Caleran, Eclessia remained **rural, ascetic, and harsh**. Mountain abbeys, orchard-villages, and hidden sanctuaries dotted the hillsides.
-- The people were **tough, devout, and wary** of imperial opulence, seeing it as a deviation from the Redeemer’s simplicity.
+Warnings reached Caleran through frontier commanders, Sestaran factors, monasteries, and provincial governors. Each report was treated as a factional demand until the reports stopped.
 
-Despite its spiritual pedigree, Eclessia held little political power. The imperial roads that ran eastward were crumbling. Tax caravans came infrequently. The region was **largely self-reliant**, overseen by a patchwork of monastic orders, rural governors, and flame-chaplains.
+## The Last Error
 
-While Caleran’s clergy debated divine succession and omen-ritual, **Eclessian preachers warned of pride, idolatry, and judgment**—messages which fell on deaf ears in the capital.
-
-When Ahl-e-Ahd scouts were first seen near the northern marches, **Eclessian priests declared public fasts**, while Corvenas declared public games.
-
----
-
-### **IV. The First Warnings**
-In **Year 13**, travelers and traders began whispering of strange movements beyond the eastern dunes. **Oath caravans**—great bands of chained merchants and warriors—passed through desert outposts, bearing sigils and banners never before seen.
-
-- Reports told of **contracts carved into bone**, **bound spirits in lacquered masks**, and cities that had simply **disappeared overnight**, replaced by glowing glyphs in the sand.
-- **Two flame-wardens** sent to investigate vanished without trace.
-
-Priests of the Redeemer argued bitterly over whether these were signs of divine judgment or fabrications of border superstition.
-
----
-
-### **V. Ignored Counsel and Unheeded Signs**
-Several frontier strategoi, including the future Emperor **Altharic’s father**, petitioned for reinforcements and early mobilization.
-
-- The petitions were dismissed as fear-mongering.
-- The Emperor instead declared **the Flamefast Jubilee**, a year-long celebration of imperial renewal, flooding Caleran with pilgrims and halting most military movement.
-
-During the Jubilee, a monk named **Sarion the Pale** publicly proclaimed:
-
-> _“The inked ones are coming. They walk with chains and offers of peace. The crown will burn in silence.”_
-
-He was stoned to death by a mob the next day. His words would later be etched onto a memorial wall in Caleran, after the city’s reclamation.
-
----
-
-### **VI. The Calm Before the Tempest**
-By **Year 20**, the eastern border was a tense no-man’s-land. Patrols vanished regularly. Caravan routes fell silent. The Church hesitated, waiting for divine confirmation. The Crown hesitated, unwilling to undo the carefully staged illusion of control.
-
-Eclessia, meanwhile, continued to preach repentance and preparedness. Some monastic orders began **secretly training warrior-priests** and **preserving relics** in hidden vaults, fearing the empire’s fall.
-
-The Empire stood as a statue before the storm—majestic, unbending… and brittle.
-
-The next year, the invasion would begin, and the world would catch fire.
-
----
-
-**End of Record — Compiled by the Ember Chroniclers of the Hall of Ash, Caleran**
+Corvenas ordered public rites and partial mobilization without choosing one strategy. Forces assembled too late and in the wrong districts. The empire remained magnificent enough to look permanent until the campaign proved it was not.
 
 ## Navigation
 
-- [[Thalmyric Empire Overview]]
-- [[Canon Index]]
-- [[Canon Index]]
-
+- [[The Invasion and the Fall]]
+- [[The Atherian Empire Overview]]
+- [[Chronology of the Known World (AR Dating)]]

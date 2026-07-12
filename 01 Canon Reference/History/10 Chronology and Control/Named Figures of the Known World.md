@@ -59,9 +59,9 @@ The people behind the [[Chronology of the Known World (AR Dating)]]. Each entry 
 
 ## Thalmyria
 
-**Caedros I the Unbowed** (r. 922–957 AR) — founder-saint and rebel general. Minor-house general of the mountain rebellion; crowned at Virelos. At sixty-two he insisted on leading the Reconquest's final assault, and died at the moment of victory *at the Pillar of Concordance itself* — witnesses swore the White Flame descended and took the body, leaving armor and unmelted sword. Thalmyria canonized him within a decade (**Saint-Emperor of the Returning**); his hymns are battle-liturgy. Eclessia's relic courts reject the canonization: no body, no relic anchor test, no independent witnesses — "an empire canonizing its own founding is not sanctity, it is heraldry." Whether his hymns truly kindle is the empirically loaded heart of the veneration dispute.
+**Caedros I the Unbowed** (r. 922–957 AR) — founder-saint and rebel general. A commander of the mountain rebellion, crowned at Virelos after unifying the refuge territories. He died during Caleran's recovery at the Pillar of Concordance. Thalmyric witnesses said the White Flame took his body, leaving armor and sword; Eclessian relic courts reject the canonization for want of remains and independent examination. The event completed the sacred objective of his reign but not the [[The Long Reconquest (908-1052 AR)|Long Reconquest]].
 
-**Caedros II the Completer** (r. 957–979 AR) — finished the campaigns, rebuilt Caleran's walls, and spent his reign managing the impossible inheritance of a father in heaven.
+**Caedros II the Road-Maker** (r. 957–979 AR) — secured Caleran, rebuilt its walls, protected surrendered quarters, and opened the roads required for the next generations of province-by-province return. He inherited a sacred victory and an unfinished war.
 
 **Leovar III the Lampbreaker** (r. 984–1011 AR) — After the Ashfall Omen — an eruption year in which the Great Lamp of Veridun guttered during plague — he concluded that housing the uncreated Fire in made vessels was blasphemy being punished, and began the **First Breaking** (987): icon-lamps smashed, relic-braziers melted, flame-monks exiled. Soldiers loved him (he was a brilliant frontier commander); monks recorded him as a demon.
 
@@ -71,9 +71,9 @@ The people behind the [[Chronology of the Known World (AR Dating)]]. Each entry 
 
 **Empress Theodosia the Kindler** (r. 1049–1071 AR) — Ended the **Second Breaking** (1029–1052) and instituted the **Feast of the Rekindling** (1052), still Thalmyria's greatest liturgical day: every lamp in the empire lit from one flame carried on foot from Caleran.
 
-**Caedros III, "the Wall of the World"** (r. 1118–1167 AR) — The golden age: crushed the Qahirid war of 1131–39, refilled the treasury, resettled the frontier themes, never married, died childless — and the succession scramble he left behind began the long decline his name still shames.
+**Caedros III, "the Wall of the World"** (r. 1118–1167 AR) — The golden age: crushed the Qahirid war of 1131–39, refilled the treasury, resettled the frontier military districts, never married, and died childless. The succession scramble he left behind began the long decline his name still shames.
 
-**Markellos the Captive** (r. 1209–1214 AR) — Lost the **Battle of Qarath's Well** to Suhrab, was taken alive, treated with elaborate contract-courtesy, and released for a ransom of border themes — then blinded and deposed by his own court for the crime of coming home. Died in a monastery. The shame — not the defeat, the *blinding* — is Thalmyria's Manzikert wound: the day the empire proved it feared its own humiliation more than its enemy.
+**Markellos the Captive** (r. 1209–1214 AR) — Lost the **Battle of Qarath's Well** to Suhrab, was taken alive, treated with elaborate contract-courtesy, and released for a ransom of border military districts. His own court then blinded and deposed him for the crime of coming home. The shame lies not only in defeat but in an empire proving it feared humiliation more than injustice.
 
 **Nikandros I the Restorer** (r. 1225–1263 AR) — Stabilized the rump after the post-Qarath civil wars. Swallowed two centuries of schism to ask Eclessia for soldiers; the Sanctum's price was Veridun's submission under the Kindling Question. He refused, fought on alone, and won back half the loss — and Thalmyric liturgy still includes a line widely understood to mean *the East sold us for a doctrine.* Present-day Caedros IV claims the restoration line.
 

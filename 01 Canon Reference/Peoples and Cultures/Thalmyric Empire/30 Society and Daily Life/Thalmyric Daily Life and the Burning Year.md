@@ -13,7 +13,7 @@ tags: []
 ---
 # Thalmyric Daily Life and the Burning Year
 
-The third daily-life document (after [[Eclessian Daily Life and the Year of the Flame]] and [[Folk Daily Life and the Thirteen Moons]]): how Thalmyrics eat, marry, mourn, soldier, and keep the lamps. The governing thesis holds — Eclessia *administers* the faith; Thalmyria *endures* it — so where Eclessian life runs on offices and calendars, Thalmyric life runs on **fire kept alive by hand**.
+Thalmyric daily life is organized around households, parishes, seasonal labor, memorial observance, military obligation, and fire kept alive by hand. The ceremonial language is grand; the practice is intimate: trimming a wick, sharing fast-day food, repairing an aqueduct branch, walking to a grave, or carrying a lamp to a new home.
 
 ## The Burning Year (the shared calendar, quarreled over)
 
@@ -51,7 +51,7 @@ Death faces the lamp. The dying are turned toward the niche; the **viaticum embe
 
 ## Soldiers, Widows, and the Long Memory
 
-Thalmyria is a veteran culture the way Sestara is a merchant one. Textures: **the frontier themes**, where farms are held by soldier-tenure and a plow-team doubles as a lance-team; **war widows' guilds**, which run the wool trade and half the charity in the empire and answer to no man below the Patriarch; **veteran villages** founded by disbanded units, keeping regimental feast-days like saints' days; the **Qarath's Well shame** taught to children as a caution against *both* defeat and what the court did after; and the standing texture of reconquest exhaustion — a state church that preaches holy war and parishes full of men who have been to one. The gap between the Flame-Marshals' crusade appetite and the veteran pews' silence is the empire's quietest fault line, and the Apathetics' Stillhouses have noticed.
+Thalmyria is a veteran culture the way Sestara is a merchant one. Frontier military districts contain farms held by soldier-tenure, where a plough-team can double as a lance-team. War widows' guilds run much of the wool trade and charitable relief. Veteran villages keep regimental feast-days like saints' days. The shame of Qarath's Well is taught as a warning against both defeat and the abuses committed afterward. The gap between the war party's appetite and the silence of people who have already served is one of the empire's quietest fault lines.
 
 ## Songs, Sayings, Jokes
 
@@ -61,7 +61,7 @@ Thalmyria is a veteran culture the way Sestara is a merchant one. Textures: **th
 > *One lamp, one road, one bowl, one grave — / and still the wick burns brighter:*
 > *the Carpenter was poor as us, / and He outlasted fire.*
 
-**Sayings:** *"They speak while we burn."* (canon — the standard verdict on the West) — *"Oven-fire"* (faith kept secretly) — *"He let his lamp die"* (moral collapse) — *"Bright as the ninth day"* (grief pretending to be fine — from the memorial ladder) — *"Don't sell your crowns"* (don't cheapen your marriage; said to quarreling couples).
+**Sayings:** *"They speak while we burn"* is the standard unfair verdict on the West. *"Oven-fire"* means faith kept secretly. *"He let his lamp die"* describes moral collapse. *"Bright as the ninth day"* means grief pretending to be fine. *"Don't sell your crowns"* warns a married couple not to cheapen their vows.
 
 **The joke the East tells about the Split:** An Eclessian cardinal and a Thalmyric monk argue theology for three days. Finally the cardinal, exasperated: "Brother, we have documents, councils, protocols — what do *you* have?" The monk holds up his lamp. "A light. Would you like to *file* it?"
 

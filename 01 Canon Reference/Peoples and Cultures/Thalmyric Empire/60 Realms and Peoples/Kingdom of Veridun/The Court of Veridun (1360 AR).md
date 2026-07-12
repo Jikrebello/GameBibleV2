@@ -6,47 +6,60 @@ visibility: public
 era: ["Present Day", "1360 AR"]
 region: ["Veridun", "Thalmyria"]
 culture: ["Thalmyric"]
-related_factions: []
+related_factions: ["House Aetherion", "Thalmyric Empire", "Thalmyric Church"]
 appears_in: []
-needs: ["define the succession trigger when a Thalmyria-facing story enters production"]
+needs:
+  - define the succession trigger when a Thalmyria-facing story enters production
 tags: []
 ---
 # The Court of Veridun (1360 AR)
 
-The chancellery and succession of **Emperor Caedros IV Aetherion**; these institutions build on the established Caedros history (Ash-Blood, the Night of Seven Flames, the Crimson Pilgrimage, Zehrim, Ashreaver over the throne): the empire is ruled by a soldier-emperor who is *bored by ruling*, and the court is the machine that has grown around that fact.
+The imperial court at Veridun governs through a professional chancellery, provincial negotiation, Church consultation, and military patronage. Emperor Caedros IV trusts this machinery more than he enjoys it. His age, grief, and unresolved succession have made every ordinary appointment feel like a declaration about the next reign.
 
 ## The Emperor's Condition
 
-Caedros IV is past sixty now, the frontier legend gone grey: still sleeping poorly in beds, still happiest inspecting a wall, increasingly given to the flame-silences of his Crimson Pilgrimage years — vigils that stretch from hours to days and from devotion toward something the court doesn't name. He has not drawn Ashreaver since his coronation and has twice been found at night standing beneath it. The Zanthir question is his private torment: the Flame-Marshals want the crusade his whole life points toward, and the veteran in him — who accepted Zehrim's surrender before anointing its altar — knows exactly what it would cost.
+[[Emperor Caedros IV Aetherion|Caedros IV]] is about sixty-five, the frontier legend gone grey. He still sleeps poorly in beds, remains happiest inspecting a wall, and increasingly withdraws into long periods of prayer. He has not drawn Ashreaver since his coronation. The Zanthir question is his private torment: the frontier command wants the war his whole life appears to promise, while the veteran who accepted Zehrim's surrender and burned its contract engines knows exactly what such a war would cost.
 
 ## The Chancellery
 
-- **Grand Logothete Prokopia** — the chancellor, and the empire's actual daily government. Risen from the war widows' guilds (which run half the empire's charity and answer to no man below the Patriarch — canon), she keeps the treasury, the themes' accounts, and the emperor's calendar, in roughly that order of difficulty. The court's saying: *"the Emperor commands the army, the Patriarch commands heaven, and Prokopia commands Tuesday."*
-- **The Master of Lamps** — palace prefect and, crucially, marshal of the Rekindling relay: the one night a year the whole empire is a single flame is also the one night a year it is a single *vulnerability*, and the office knows it.
-- **The Keeper of Ashreaver** — a ceremonial office with teeth: the Keeper alone may hand the emperor his sword, meaning the Keeper is, by three centuries of precedent, the last voice before war. The current Keeper is a Zehrim veteran who has refused the hand-off once already.
-- **The Ash Guard** — the emperor's axe-bearing life-guard, recruited by ancient custom from **baptized Ättar oath-men and [[The Saltborn Coast Overview|Saltborn]] coastmen** (the Varangian bargain: frontier men with no court faction — the empire's own contested-coast folk and their unbaptized cousins alike, bound by hearth-oath to the man, not the throne). Their loyalty survived three dynasties; their drinking songs are in a language the court doesn't speak; and their commander, **Hallvard Whale-Tooth**, is the only person in Veridun who tells the emperor jokes.
-- **The Sea-Marshal and the Flame-Marshals** — the war establishment, crusade-hungry (per the Patriarchate canon), currently checked by Prokopia's arithmetic and the emperor's silences.
+- **Grand Chancellor Prokopia** is the empire's chief civil minister and the practical center of daily government. Risen from the war widows' guilds, she keeps the treasury, provincial accounts, and the emperor's calendar. The court says that the emperor commands the army, the Patriarch commands the Church, and Prokopia commands Tuesday.
+- **The Master of Lamps** is palace prefect and marshal of the annual Rekindling relay. The one night when the empire is symbolically united is also a night of unusual logistical vulnerability.
+- **The Keeper of Ashreaver** alone may hand the emperor his suspended sword. By precedent, the Keeper is the last ceremonial voice before a declared imperial war. The current Keeper is a Zehrim veteran who has once refused the hand-off pending a lawful war council.
+- **The Ash Guard** is the emperor's axe-bearing household guard, recruited chiefly from baptized Ättar oath-families and [[The Saltborn Coast Overview|Saltborn]] coastfolk. They swear to the person of the crowned emperor rather than to a court faction. Commander **Hallvard Whale-Tooth** is one of the few people who can make Caedros laugh.
+- **The Sea-Marshal and provincial commanders** divide between limited frontier defense and renewed conquest. Prokopia's arithmetic and the emperor's hesitation currently restrain them.
 
-## The Succession (the court's held breath)
+## The Succession
 
-The Empress **Vasilia of Valrathis**, his frontier-noble wife of forty years, died three winters ago; the emperor's silences date from her fortieth-day. Their children:
+Empress **Vasilia of Vlastrava**, Caedros's wife of forty years, died in 1357 AR. Their elder son **Prince Nikandros** died on the frontier in 1358. Three futures now compete.
 
-- **Prince Nikandros** — the soldier-heir, named for the Restorer, dead two years in a border skirmish that the Zanthir crusade party has never stopped invoking and the emperor has never once mentioned aloud.
-- **Princess Alexane** — thirty-four, the Empress's temper and the Emperor's eye for ground; effectively ran the Valrathis theme for a decade; backed by the veteran establishment and, quietly, by Prokopia. Thalmyria has crowned women before (Anthe, Theodosia) — her obstacle is not law but the second son's faction.
-- **Prince Sophios the Quiet** — twenty-six, a Hierophant-formed scholar who has taken minor orders and visibly wants the library, not the throne; backed *precisely for that* by the old Caleran houses and the doctrine-men, who have had two centuries of warrior-emperors and would like a manageable one.
+- **Princess Alexane**, thirty-four, effectively governed a Vlastravan military district for a decade. Veterans and much of the chancellery support her. Thalmyria has crowned women before; her obstacle is political, not legal.
+- **Prince Sophios the Quiet**, twenty-six, is a seminary-trained scholar in minor orders who visibly wants a library rather than a throne. Old Caleran houses and church politicians support him precisely because they expect to guide him.
+- **Adoption** has old imperial precedent. Officers who distrust both court factions want Caedros to name a proven commander as heir, a choice that could bypass the family and provoke resistance.
 
-And the third whisper, growing: that Ash-Blood will do the old Atherian thing and **adopt** — naming a Flame-Marshal protégé as heir-by-merit, as the war college men say the Saint-Emperor's line began. Whether the whisper is a faction's kite or the emperor's actual intent is the court's most expensive question; the Nightveil Coven, the Nocturnis, and at least two chancelleries are paying for the answer.
+Alexane offers experienced continuity but alarms those who fear another military reign. Sophios promises learning and conciliation but risks a Church-managed crown. Adoption might restore merit to the succession or turn the army into kingmakers.
 
-**The stakes, plainly:** Alexane means a competent continuity that the doctrine-party fears; Sophios means a church-managed throne that the army despises; adoption means civil war odds no one prices below a third. And over all of it, the omen from the Patriarchate's trance-dormitories — *a lamp carried out of a burning archive* — which every faction has decided is about the succession, each in its own favor.
+A disputed monastic vision of **a lamp carried out of a burning archive** has been claimed by every faction. The Holy Synod has refused to authenticate it.
+
+## Court Fault Lines
+
+- Veridun officials resist Caleran clerics who treat the sacred capital as the natural seat of temporal power.
+- Returned-land claimants oppose mixed-community amnesties and Caedros's limits on hereditary confiscation.
+- Saronikan naval interests want port investment; Vlastravan commanders demand frontier forts.
+- Sestaran creditors press the treasury while antiquities smugglers sell the empire's buried inheritance abroad.
+- Provincial rulers support whichever succession preserves the privileges they already possess.
 
 ## Story Use
 
-The succession as slow-burning campaign background (every Thalmyric NPC has a candidate); the Keeper of Ashreaver's refusal as the war-and-peace fulcrum; Ash Guard oath-men as the party's unexpected in at court; and the emperor himself — available, per his canon, anywhere a wall needs inspecting, unannounced, with four axe-men and no patience for protocol.
+- a slow succession campaign in which every Thalmyric NPC has a preferred future;
+- the Keeper of Ashreaver's assent or refusal as a war-and-peace fulcrum;
+- an Ash Guard oath-family caught between service to Caedros and a provincial grievance;
+- a disputed antiquities claim connecting a court patron to a buried Atherian state archive;
+- the emperor appearing without ceremony wherever a wall, hospital, or frontier petition demands attention.
 
 ## Navigation
 
 - [[Thalmyric Empire Overview]]
-- [[Emperor Caedros IV Aetherion]]
+- [[The Imperial Throne of Veridun]]
 - [[The Kingdom of Veridun Overview]]
 - [[Present-Day Courts and Crowns (1360 AR)]]
 - [[The Patriarchate of Veridun]]

@@ -25,11 +25,11 @@ The empire is dead, but its roads, churches, ruins, saints, debts, enemies, and 
 
 ### Eclessia
 
-Western Christian-coded, fragmented, church-bound, feudal, reform-haunted. Wants unity, legitimacy, and proof that its institutional inheritance is the true public face of the Redeemer's Church.
+Fragmented, church-bound, confessional, and reform-haunted. Its powers want unity, legitimacy, and proof that their divided institutional inheritance remains the true public face of the Redeemer's Church.
 
 ### Thalmyria
 
-Mystical, militarized, imperial, and ascetic, with authority expressed through icons, holy fire, monastic witness, and continuity with old Atheria. Wants reconquest, security, and proof that its suffering has preserved the true flame.
+The densely layered old heartland: urban, mystical, imperial, and militarized, with authority expressed through icons, sacrament, monastic witness, Atherian law, and the memory of return. It wants security, demographic recovery, control of its buried inheritance, and an answer to the unfinished Zanthir claim. Its central political danger is turning stewardship into entitlement and the Long Reconquest into a permanent mandate for war.
 
 ### Sestaran Concord
 

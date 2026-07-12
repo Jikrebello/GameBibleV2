@@ -4,18 +4,18 @@ status: draft
 canon_level: local
 visibility: author-only
 era: ["Present Day"]
-region: ["Thalmyria", "Thematic of Archenia", "The Drakesfall Vale"]
+region: ["Thalmyria", "Military Province of Arkena", "The Drakesfall Vale"]
 culture: ["Thalmyric"]
 related_factions: ["Thalmyric Church", "The Vharo Concession"]
 appears_in: ["The Drakesfall"]
 needs:
-  - place the vale on the final Archenian highland map and set its distance from Calzareth
+  - place the vale on the final Arkenan highland map and set its distance from Kalzaret
   - decide the Skete's post-adventure custody (re-peopled, Church-held, or ended)
 tags: [module-conversion, game-ready]
 ---
 # The Drakesfall Vale
 
-The Drakesfall Vale is a highland valley in the Thematic of Archenia where the Faewild courts' [[Drakes Overview|drakes]] have come to die since before men — the drake canon's holiest and most dangerous site, and the setting of [[The Drakesfall]]. It is floored with heart-gems slowly returning their crystallized law to the Faewild, and it has been kept quiet for centuries by the ascetic wardens of the Cyrian Skete. Left untended, it is a dam with a crack.
+The Drakesfall Vale is a highland valley in the Military Province of Arkena where the Faewild courts' [[Drakes Overview|drakes]] have come to die since before men — the drake canon's holiest and most dangerous site, and the setting of [[The Drakesfall]]. It is floored with heart-gems slowly returning their crystallized law to the Faewild, and it has been kept quiet for centuries by the ascetic wardens of the Cyrian Skete. Left untended, it is a dam with a crack.
 
 ## What the Vale Is
 
@@ -38,7 +38,7 @@ The vale floor is the bone-field: centuries of drake-dead settling their law int
 - **The Great Gold Drake:** a generations-old [[Gold Drakes|gold drake]] that came to the vale to die and was cracked open fresh by the concession; its half-harvested heart is the richest prize and the worst hazard, and the keystone of any quieting.
 - **The Silver Grave:** a century-dead [[Silver Drakes|silver drake]] whose moon-law now bleeds up into the nights, the source of the unnatural moonlight and wandering-sleep down the passes.
 - **The Chapel-Cave:** where the Skete keeps its greater keeping-offices; broken open in the sack, and the place the field must be quieted from.
-- **The Warden Road:** the single road up the passes from Calzareth, along which the wardens died and the wagons came.
+- **The Warden Road:** the single road up the passes from Kalzaret, along which the wardens died and the wagons came.
 
 ## The Vale's Law — Rules of the Place
 
@@ -60,4 +60,4 @@ The Drakesfall Vale can become a re-peopled and quieted holy site under a keepin
 - [[The Gemfallen]]
 - [[The Vharo Concession]]
 - [[Drakes Overview]]
-- [[Frontier Town Calzareth, Bastion of the Flame]]
+- [[Kalzaret, Bastion of the Returning Road]]

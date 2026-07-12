@@ -1,29 +1,40 @@
 ---
 type: event
 status: canon
-canon_level: local
+canon_level: core
 visibility: public
-era: []
-region: []
-culture: []
-related_factions: []
+era: ["922 AR"]
+region: ["Virelos", "Thalmyria"]
+culture: ["Thalmyric"]
+related_factions: ["House Aetherion", "Thalmyric Church"]
 appears_in: []
 needs: []
+aliases: ["Coronation of Caedros I"]
 tags: []
 ---
 # The Coronation at Virelos
 
-This event note was created to resolve an existing timeline link and should be expanded into a full event dossier.
+In 922 AR, representatives of the mountain armies, refuge cities, monasteries, surviving provincial offices, and return households crowned Caedros Aetherion as emperor at Virelos.
 
-## Current Use
+## Why an Emperor
 
-- Anchors timeline navigation from [[Chronology of the Known World (AR Dating)]].
-- Should eventually define dates, factions, causes, consequences, key figures, disputed accounts, and playable aftermath.
+The resistance needed one command for taxation, diplomacy, land grants, and war. A council could defend separate valleys; it could not decide whose register would govern returned land or speak for Atheria abroad.
 
-## Needs Further Fleshing Out
+Caedros claimed continuity without pretending uninterrupted legality. His title rested on the argument that imperial obligation had survived the imperial court.
 
-Clarify exact chronology, in-world source disagreements, and how this event still shapes the present day.
+## The Rite
+
+The coronation joined an Atherian military acclamation, episcopal anointing, a vigil before the refuge lamp, and a public oath limiting confiscation from surrendered communities. Later dynastic liturgy made the event more seamless than it was.
+
+Caedros was crowned at Virelos rather than Veridun to prevent the refuge clergy or city government from appearing to own the new throne. Every later Aetherion ruler returns to Virelos for coronation even though the court sits in Veridun.
+
+## The Unsettled Promise
+
+The coronation oath promised return, justice, protection of the Church, and restoration of Caleran. It did not explain how ancestral claims would be reconciled with four generations of occupation. That silence became the empire's longest legal wound.
 
 ## Navigation
 
-- [[Timeline MOC]]
+- [[The Refuge and the Rise of Veridun]]
+- [[The War of the Burning Banners]]
+- [[The Imperial Throne of Veridun]]
+- [[The Long Reconquest (908-1052 AR)]]

@@ -1,29 +1,44 @@
 ---
 type: event
 status: canon
-canon_level: local
+canon_level: core
 visibility: public
-era: []
-region: []
-culture: []
-related_factions: []
+era: ["885-905 AR"]
+region: ["Atheria", "Caleran", "Thalmyria"]
+culture: ["Atherian", "Thalmyric"]
+related_factions: ["Atherian Empire", "Ahl-e-Ahd"]
 appears_in: []
 needs: []
+aliases: ["The Fall of Caleran"]
 tags: []
 ---
 # The Invasion and the Fall
 
-This event note was created to resolve an existing timeline link and should be expanded into a full event dossier.
+The Fall was the destruction of unified Atherian government, not the disappearance of its people or civilization. Qahirid military reform, imperial exhaustion, failed frontier strategy, and a capital unable to distinguish ceremony from readiness made the catastrophe possible.
 
-## Current Use
+## The Last Court
 
-- Anchors timeline navigation from [[Chronology of the Known World (AR Dating)]].
-- Should eventually define dates, factions, causes, consequences, key figures, disputed accounts, and playable aftermath.
+Emperor Corvenas III ruled from Caleran's Ash Hall, an imperial palace turned relic gallery after conversion. He was personally devout and strategically incapable. Provincial reports were filtered through court factions that feared mobilization would expose fiscal weakness.
 
-## Needs Further Fleshing Out
+Qahir ibn Ruzbeh rebuilt the Covenant war machine between roughly 885 and 902 AR around mass levies, siege-golem foundries, contract logistics, and disciplined frontier intelligence. His successor Idris al-Fattah inherited a prepared instrument.
 
-Clarify exact chronology, in-world source disagreements, and how this event still shapes the present day.
+## The Campaign of 905 AR
+
+Idris advanced through the northwestern approaches and seaward supply line. Caleran's walls remained formidable, but its field armies had been dispersed, unpaid, or committed to rival commands. The capital fell in 905 AR.
+
+Idris did not destroy the Pillar of Concordance or Eternal Ember. He sealed the sacred forum as evidence and declared the Ember impounded property under guard. The act preserved the sites while making their custody an occupation claim.
+
+## Collapse and Flight
+
+The emperor died, the imperial command chain failed, and surviving regions improvised. Refugees moved toward Veridun, Virelos, rural estates, mountain monasteries, eastern ports, Eclessia, and the steppe. The future Tarkhan caught scattered imperial cavalry stock; the eastern provinces organized their own defense.
+
+## Occupation
+
+Covenant government secured ports, aqueducts, roads, archives, and productive estates. Repopulation combined garrison families, clients, contract-bound locals, imported labor, and transplanted subjects. These communities made occupation durable and later return legally explosive.
 
 ## Navigation
 
-- [[Timeline MOC]]
+- [[Prelude to Collapse]]
+- [[The Refuge and the Rise of Veridun]]
+- [[The Long Reconquest (908-1052 AR)]]
+- [[Chronology of the Known World (AR Dating)]]

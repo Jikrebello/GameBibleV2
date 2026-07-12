@@ -1,115 +1,54 @@
 ---
-type: culture
+type: reference
 status: canon
-canon_level: local
+canon_level: core
 visibility: public
-era: []
+era: ["Present Day"]
 region: ["Thalmyria"]
 culture: ["Thalmyric"]
-related_factions: []
+related_factions: ["Thalmyric Church"]
 appears_in: []
-needs: []
+needs:
+  - name two living elders outside the imperial court
+aliases: ["Thalmyric Mysticism", "Stillness and Ascetic Life"]
 tags: []
 ---
-### **I. The Path of Fire Within**
+# Mysticism and Asceticism
 
-Thalmyric mysticism is a deeply experiential and personal form of spiritual devotion. It seeks direct communion with the divine through suffering, solitude, and silence. While Eclessia relies on structure, scripture, and sacrament, the Thalmyric path is forged in fire—**a pilgrimage of the soul through ash and flame.**
+Thalmyric mysticism begins with stillness rather than spectacle. Its purpose is to make the heart truthful enough to recognize grace, temptation, memory, and fear without confusing them.
 
-Mystics believe that the **Redeemer walks not in temples of gold but in the caves, mountains, and burning hearts of the faithful.** Divine truth is not discovered but endured, and enlightenment is not granted but forged.
+## The Still Prayer
 
----
+Practitioners sit or stand in disciplined quiet, coordinate breath with a short prayer, confess intrusive fantasies without following them, and return attention to the Lord. The practice is taught under spiritual direction because obsession can imitate devotion.
 
-### **II. Practices of the Flame-Walkers**
+Silence is not emptiness. It is refusal to let appetite, shame, anger, or imperial noise name the soul.
 
-#### **1. Voluntary Isolation**
+## Fasting and Labor
 
-- Many Thalmyric mystics retreat to caves, scorched plains, or mountain sanctuaries.
-- Solitude is believed to thin the veil between the material and the divine.
-- Some mystics dwell in **ash-cells**—stone enclosures where they are voluntarily sealed for years, emerging only for visions or death.
+Fasting limits appetite and creates food for mercy. Manual labor prevents contemplation from becoming self-importance. Hospitality tests whether an ascetic's peace survives another person's need.
 
-#### **2. Fasting and Bodily Mortification**
+Exposure, scarring, starvation, and sleeplessness pursued as proof of holiness are condemned. Severe disciplines may be accepted under direction for a specific purpose but pain has no saving value.
 
-- Extreme fasting is practiced not to deny the body, but to sharpen spiritual senses.
-- Devotees wear **iron weights or heated chains**, believing that physical pain draws the Flame-Spirit closer.
-- Ritual walking across hot stones or coals is a frequent rite during holy days.
+## Elders and Monasteries
 
-#### **3. Pilgrimage to Flame-Shrines**
+Wonder-working elders usually spend decades in hidden service before receiving pilgrims. Reliable elders deflect praise, refuse political ownership, and distinguish advice from command.
 
-- Shrines are scattered across perilous wildernesses, often where saints are said to have burned or received visions.
-- Pilgrims crawl the last mile on hands and knees, reciting the **Litany of Cinders**.
-- Returning pilgrims are marked with **brands of ember-sigils** on their forearms.
+Mountain monasteries preserve return registers, occupation testimony, icons, seed stores, and local memory as well as theology. Their authority often conflicts with bishops and noble patrons.
 
----
+## Visions
 
-### **III. The Vision-State**
+A vision is judged by doctrine, witness, moral fruit, freedom from coercion, and whether it restores rather than consumes the recipient. Visible kindling in a living claimant produces caution, not automatic honor.
 
-Mystical visions are considered the highest form of divine encounter. These are called **Fire-Sights**, and are marked by profound physical and emotional intensity.
+The Holy Synod maintains trance dormitories for rare cases, but permanent vision production is politically dangerous. No vision becomes doctrine merely because an emperor needs it.
 
-#### **Signs of True Vision:**
+## False Stillness
 
-- Heat without source (the mystic's skin flushes with no external flame).
-- The smell of burning incense or iron.
-- Unbidden weeping or laughter.
-- Glossolalia in Old Jirharian or tongues unknown.
-
-Visions are often dictated afterward by scribes, forming a growing corpus of texts used for theological interpretation, prophecy, or guidance.
-
-#### **Famous Visions:**
-
-- **The Flame-Sky of Saint Rhedas**: A mystic saw the heavens opened like an oven, and stars falling like coals, interpreted as a prophecy of imperial victory.
-- **The Mirror of Ash**: Sister Solenne of the Red Path beheld the Redeemer holding a mirror made of ash, showing her the sins of the world smoldering into light.
-
----
-
-### **IV. Orders of Ascetics and Mystics**
-
-#### **1. The Ember-Bound**
-
-- Hermits who wander barefoot across volcanic lands, preaching in tongues.
-- Known to spontaneously enter trance states mid-sermon.
-
-#### **2. The Chain-Kissed**
-
-- Monastics who take lifelong vows of pain, binding heated chains around their torsos.
-- They chant day and night in ash-temples built into cliff faces.
-
-#### **3. The Ashen Veil**
-
-- Female mystics and seers who dwell in silence, only speaking when visited by the Flame-Spirit.
-- Veils soaked in ash obscure their faces.
-
----
-
-### **V. Mysticism as Theology**
-
-Thalmyric mysticism is not a rejection of doctrine, but a deepening of it. The truths of scripture are seen as **embers**—to be kindled into flame through lived experience.
-
-Theologians often rely on mystic visions to resolve doctrinal disputes, interpret celestial omens, or determine the direction of the Reconquest.
-
-Many **saints** of the Thalmyric Church were mystics who died in trance, consumed by inner flame. Their ashes are preserved and mixed with incense or used in sacramental oils.
-
----
-
-### **VI. Dangers and Heresies**
-
-While the Church reveres mystics, it also warns of **false flame**—visions born of pride, madness, or demonic deception.
-
-- **The Burned Doctrine**: A condemned heresy claiming that pain alone grants divinity, leading to widespread self-immolations.
-- **The Hollow Flame Cult**: Mystics who taught that the Redeemer had already returned as fire itself, rejecting all sacraments but burning.
-
-To prevent spiritual corruption, the **Council of Flame** must review all visions before they are declared holy.
-
----
-
-### **Conclusion: The Ascent Through Flame**
-
-For Thalmyric mystics, **pain is the altar**, and **vision the offering**. The path of fire is not for the many, but for the few called to carry the sacred burden of direct communion.
-
-In silence, in suffering, and in searing light, they draw near the Redeemer—**and in their ashes, the next vision may yet be born.**
+The Apathetics imitate peace through exhaustion and refusal. Idols can use repetition, grief, and pride to construct counterfeit revelation. A true stillness returns a person to responsibility; false stillness offers escape from it.
 
 ## Navigation
 
-- [[Thalmyric Empire Overview]]
-- [[Canon Index]]
-- [[Canon Index]]
-
+- [[Faith and the Thalmyric Church Overview]]
+- [[Saints and Relics]]
+- [[The Holy Fire]]
+- [[The Apathetics]]
+- [[Thin Spaces]]

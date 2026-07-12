@@ -5,7 +5,7 @@ canon_level: local
 visibility: author-only
 source: "Translated from PZO9507 J2 Guardians of Dragonfall"
 era: ["Present Day"]
-region: ["Thalmyria", "Thematic of Archenia", "The Drakesfall Vale"]
+region: ["Thalmyria", "Military Province of Arkena", "The Drakesfall Vale"]
 culture: ["Thalmyric"]
 related_factions: ["The Vharo Concession", "Thalmyric Church", "The Concord of Weights"]
 appears_in: ["The Drakesfall"]
@@ -18,9 +18,9 @@ tags: [module-conversion, game-ready]
 
 ## Adventure at a Glance
 
-**Premise:** In a remote highland vale of the Thematic of Archenia, the Faewild courts' [[Drakes Overview|drakes]] have come to die since before men, leaving a valley floored with heart-gems slowly returning to the Faewild. An ascetic hermitage, the [[The Drakesfall Vale|Cyrian Skete]], has kept the vale quiet for centuries. Now a [[The Vharo Concession|Vorthara-backed concession]] has come to harvest the gems, killed most of the wardens, and cracked a great old gold drake open fresh — and the vale's untended law is coming apart.
+**Premise:** In a remote highland vale of the Military Province of Arkena, the Faewild courts' [[Drakes Overview|drakes]] have come to die since before men, leaving a valley floored with heart-gems slowly returning to the Faewild. An ascetic hermitage, the [[The Drakesfall Vale|Cyrian Skete]], has kept the vale quiet for centuries. Now a [[The Vharo Concession|Vorthara-backed concession]] has come to harvest the gems, killed most of the wardens, and cracked a great old gold drake open fresh — and the vale's untended law is coming apart.
 
-**Beginning:** In the frontier town of Calzareth, the party hears that something is wrong up the passes — villages reporting nights that will not end, herds walking in circles, and armed men on the old warden road. A dying warden, or the child heir he is trying to get to safety, brings the truth down the mountain.
+**Beginning:** In the frontier town of Kalzaret, the party hears that something is wrong up the passes — villages reporting nights that will not end, herds walking in circles, and armed men on the old warden road. A dying warden, or the child heir he is trying to get to safety, brings the truth down the mountain.
 
 **Middle:** The party climbs to the vale and crosses the bone-field: heart-gem hazards, stacked seasons, leaking moon-law, and [[The Gemfallen]] — drake-dead animating without a keeper. They find the Skete sacked, the wardens dead but for two, and the concession dug in around a half-harvested gold drake.
 
@@ -28,14 +28,14 @@ tags: [module-conversion, game-ready]
 
 **Tier:** W. A journey and a moral knot: the crime is plain, the paper is lawful, the prize is a fortune, and the only people with standing to keep the vale are a dying monk and a child.
 
-**Expected length:** 3-5 substantial sessions: Calzareth and the road, the bone-field crossing, the sacked Skete, the confrontation, and the reckoning over the field and the grant.
+**Expected length:** 3-5 substantial sessions: Kalzaret and the road, the bone-field crossing, the sacked Skete, the confrontation, and the reckoning over the field and the grant.
 
 ## Who, What, Where, Why, and How
 
-- **Who:** the player crew; [[Kyra Vael]], the twelve-year-old last warden; Elder Sabbas, the dying keeper; [[Corvane Sisk]], the Vorthara harvest-master; his concession crew; Strategos Konstantin Vharo, who sold the grant; and the Thalmyric Church court that could void it.
+- **Who:** the player crew; [[Kyra Vael]], the twelve-year-old last warden; Elder Sabbas, the dying keeper; [[Corvane Sisk]], the Vorthara harvest-master; his concession crew; Governor Konstantin Vharo, who sold the grant; and the Thalmyric Church court that could void it.
 - **What:** stop the harvest, quiet the [[The Unquiet Field]] before its leaking law takes a village, get Kyra to safety or into her vocation, and decide what happens to a legal grant over a holy site.
-- **Where:** the frontier town of [[Frontier Town Calzareth, Bastion of the Flame|Calzareth]], the warden road up the passes, and the [[The Drakesfall Vale|Drakesfall Vale]] with its bone-field and sacked Skete.
-- **Why the party acts:** villages down the valley are suffering the vale's leaking law; a dying warden asks it; the Church wants a quiet inquiry into a strategos's grant; or the party is hired by the concession itself and discovers what the job actually is.
+- **Where:** the frontier town of [[Kalzaret, Bastion of the Returning Road|Kalzaret]], the warden road up the passes, and the [[The Drakesfall Vale|Drakesfall Vale]] with its bone-field and sacked Skete.
+- **Why the party acts:** villages down the valley are suffering the vale's leaking law; a dying warden asks it; the Church wants a quiet inquiry into a military governor's grant; or the party is hired by the concession itself and discovers what the job actually is.
 - **Why the crisis exists:** the concession killed the wardens who kept the field quiet and harvested a great drake fresh, and untended drake-law does not simply wait — it destabilizes, spills, and animates.
 - **How it escalates:** each day unharvested gems bleed more law into the nights, the Gemfallen range further down the passes, Sisk digs deeper toward the richest gems, and Vharo's paper makes every lawful objection slow.
 
@@ -45,7 +45,7 @@ The vale is holy in the drake sense, not the Church sense, and the difference is
 
 The harvest is a desecration and a hazard, not merely a theft. Pulling heart-gems out of the field in bulk, fast, and killing the keepers who slowed the process, does not just rob a site; it breaks the slow return that kept the accumulated law from spilling. The leaking moon-law taking nearby villages is a direct, foreseeable consequence. Sisk's crew is not only greedy; it is dangerous the way breaking a dam is dangerous.
 
-The grant is legal and that is not a defense. Strategos Vharo sold rights he arguably held under Archenia's land-for-service law, and a Concord-of-Weights lot of drake gems is a real fortune lawfully claimable. That the paper is valid says something true about Archenia's frontier law, not something exculpatory about emptying a holy site and getting its keepers killed.
+The grant is legal and that is not a defense. Governor Vharo sold rights he arguably held under Arkena's land-for-service law, and a Concord-of-Weights lot of drake gems is a real fortune lawfully claimable. That the paper is valid says something true about Arkena's frontier law, not something exculpatory about emptying a holy site and getting its keepers killed.
 
 The wardens are neither pagans to be purged nor saints to be canonized. They are an ascetic order tending something genuinely dangerous, half-heretical by the Patriarchate's lights and entirely necessary. Kyra Vael is a child with a vocation she did not choose and is now the last to hold. The adventure should not resolve her into either an orphan to be rescued from her strange duty or a mascot to be handed the keys; her keeping is real work, and whether it survives is a real question.
 
@@ -53,9 +53,9 @@ The strongest resolution quiets the field, stops the harvest, and finds the vale
 
 ## The Central Truth
 
-The Drakesfall has been tended since before the Empire, since before Atheria, by a line of keepers the Church later folded into a tolerated hermitage: the Cyrian Skete, named for the ascetic who first built cells above the vale and taught that the drake-dead must be kept quiet, not cleansed. The wardens' whole vocation is slowness — walking the field, singing the old keeping-offices, letting each heart-gem return its law to the Faewild at the pace the vale can bear. Done right, the Drakesfall is the safest holy place in Archenia. Done wrong, it is a dam with a crack.
+The Drakesfall has been tended since before the Empire, since before Atheria, by a line of keepers the Church later folded into a tolerated hermitage: the Cyrian Skete, named for the ascetic who first built cells above the vale and taught that the drake-dead must be kept quiet, not cleansed. The wardens' whole vocation is slowness — walking the field, singing the old keeping-offices, letting each heart-gem return its law to the Faewild at the pace the vale can bear. Done right, the Drakesfall is the safest holy place in Arkena. Done wrong, it is a dam with a crack.
 
-Two things broke it. First, a great old gold drake — one of Father Sun's herd, generations in the making — came to the vale to die, as the greatest of the courts' beasts do. Its heart-gem alone was worth more than the Skete had ever tended at once. Second, a Vorthara acquisitions house heard of it. Through a factor, it approached Strategos Konstantin Vharo, the military governor of the relevant Archenian district, and bought a harvesting concession over "unclaimed mineral rights in vacant highland crown-land" — a description that is legally defensible and morally a lie, because the land is neither vacant nor mineral.
+Two things broke it. First, a great old gold drake — one of Father Sun's herd, generations in the making — came to the vale to die, as the greatest of the courts' beasts do. Its heart-gem alone was worth more than the Skete had ever tended at once. Second, a Vorthara acquisitions house heard of it. Through a factor, it approached Governor Konstantin Vharo, the military governor of the relevant Arkenan district, and bought a harvesting concession over "unclaimed mineral rights in vacant highland crown-land" — a description that is legally defensible and morally a lie, because the land is neither vacant nor mineral.
 
 Harvest-Master Corvane Sisk brought a crew up the warden road with the great drake's fresh death as the prize and the concession as the shield. The wardens stood in the road. Sisk's crew killed most of them and dug in. Only Elder Sabbas and the child oblate Kyra Vael got clear, and Sabbas is dying of a wound.
 
@@ -68,14 +68,14 @@ Now the field is untended for the first time in living memory, and it is coming 
 | [[Kyra Vael]] | Last warden of the Cyrian Skete, aged twelve | To keep the vale as she was taught, and not to be the last | That she does not yet know all the offices, and is terrified she cannot hold it |
 | **Elder Sabbas** | Dying senior warden; the party's guide | The field quieted and Kyra safe — in that order, though it costs him | He knows the vale may need to be let go, not just defended, and cannot bear to say it |
 | [[Corvane Sisk]] | Vorthara harvest-master; on-site antagonist | The gold drake's heart and the richest gems, out before the vale fails | That his own digging is what is making the vale fail, and he knows it |
-| **Strategos Konstantin Vharo** | Archenian military governor; sold the grant | The concession fee, and no Church inquiry into how he spends emergency authority | That he knew the "vacant crown-land" was the Drakesfall and sold it anyway |
-| **Deacon-Advocate Ilaria Sunn** | Thalmyric Church court investigator (offstage/ally) | Evidence that Vharo abused his grant-making power | That the Church wants the vale less to save it than to take it from a strategos |
+| **Governor Konstantin Vharo** | Arkenan military governor; sold the grant | The concession fee, and no Church inquiry into how he spends emergency authority | That he knew the "vacant crown-land" was the Drakesfall and sold it anyway |
+| **Deacon-Advocate Ilaria Sunn** | Thalmyric Church court investigator (offstage/ally) | Evidence that Vharo abused his grant-making power | That the Church wants the vale less to save it than to take it from a military governor |
 
 ## The Vale, Vorthara, and the Weights
 
 The [[The Drakesfall Vale]] is a Faewild law-place kept by mortal wardens — the drake canon's holiest site, and the most dangerous, because what it holds is crystallized law with nowhere safe to go quickly. It is the adventure's board and its bomb.
 
-The [[The Vharo Concession]] is the antagonist structure: a Vorthara acquisitions house working through Harvest-Master Sisk, under a grant Strategos Vharo sold, backed by the promise of a [[The Concord of Weights]]-grade payout. It is not a warband; it is a business with a legal department, and its worst weapon is its paper.
+The [[The Vharo Concession]] is the antagonist structure: a Vorthara acquisitions house working through Harvest-Master Sisk, under a grant Governor Vharo sold, backed by the promise of a [[The Concord of Weights]]-grade payout. It is not a warband; it is a business with a legal department, and its worst weapon is its paper.
 
 The [[The Concord of Weights]] and Vorthara stand behind it all: heart-gems in bulk are exactly the kind of prize the weights-houses standardize and the Citadel of Vorthara files "under acquisitions." They will not appear in the vale, but their appetite is why the grant exists and why voiding it is hard.
 
@@ -84,20 +84,20 @@ The [[The Concord of Weights]] and Vorthara stand behind it all: heart-gems in b
 - **Field Strain (0-4):** how far the Unquiet Field has destabilized. Rises each day the harvest continues and each gem pulled in bulk. At 4, the leaking law takes a village — a night that does not end, a herd or a household walking in circles into the passes.
 - **Gemfallen Range (vale / passes / villages):** how far the drake-dead have walked from the bone-field. The further, the more ordinary people are in danger.
 - **Kyra's Footing (0-3):** whether the child is a terrified survivor, a guide, or a warden able to sing the keeping-offices again. Sabbas's teaching, the party's trust, and recovered office-books raise it.
-- **The Paper (0-3):** how much the party can bring against Vharo's grant — the true description of the land, the strategos's knowledge, the deaths on the road, and Deacon-Advocate Sunn's interest.
+- **The Paper (0-3):** how much the party can bring against Vharo's grant — the true description of the land, the military governor's knowledge, the deaths on the road, and Deacon-Advocate Sunn's interest.
 
-## Act I — Calzareth and the Road
+## Act I — Kalzaret and the Road
 
 ### The Word from the Passes
 
-The party is in [[Frontier Town Calzareth, Bastion of the Flame|Calzareth]], the Bastion of the Flame, where the reconquest stages and the passes begin. The trouble arrives as frontier trouble does: teamsters who will not take the upper road after dark, a village deputation the garrison is ignoring, and a Phoenix chaplain worried about "nights that don't turn."
+The party is in [[Kalzaret, Bastion of the Returning Road|Kalzaret]], the Bastion of the Flame, where the reconquest stages and the passes begin. The trouble arrives as frontier trouble does: teamsters who will not take the upper road after dark, a village deputation the garrison is ignoring, and a Phoenix chaplain worried about "nights that don't turn."
 
 The party can learn, before they climb:
 
 - villages up-valley report nights that will not end and herds walking in circles;
 - armed men with a Vorthara look have been going up the old warden road with picks and wagons;
-- the road leads to the Drakesfall, which everyone in Calzareth knows to leave alone and no one can quite say why;
-- a Church deacon-advocate has been asking questions about a strategos's grant.
+- the road leads to the Drakesfall, which everyone in Kalzaret knows to leave alone and no one can quite say why;
+- a Church deacon-advocate has been asking questions about a military governor's grant.
 
 ### The Warden Off the Mountain
 
@@ -108,7 +108,7 @@ The hook lands in person: Elder Sabbas comes down the road, dying of a wound, wi
 - the villages' suffering is real and worsening, and the garrison is slow;
 - Sabbas asks it, and is out of time to ask anyone else;
 - Deacon-Advocate Sunn will quietly sponsor a party that can bring back evidence against Vharo's grant;
-- or the party was hired in Calzareth by the concession's own agent and now knows what the job is.
+- or the party was hired in Kalzaret by the concession's own agent and now knows what the job is.
 
 ### Act I Output
 
@@ -177,7 +177,7 @@ Done, the nights turn again, the game scatters, and the villages are released.
 The grant remains. Force did not void it, and a quieted vale is still, on paper, Vharo's to sell. Answering it is the adventure's Tier-W tail:
 
 - **the true description** — proof that the "vacant mineral crown-land" is the Drakesfall, tended and inhabited, voids the grant's premise;
-- **the strategos's knowledge** — proof that Vharo knew what he was selling turns a bad grant into an abuse of office, which is what Deacon-Advocate Sunn wants;
+- **the military governor's knowledge** — proof that Vharo knew what he was selling turns a bad grant into an abuse of office, which is what Deacon-Advocate Sunn wants;
 - **the deaths on the road** — the killed wardens make the concession liable regardless of the grant;
 - **a standing for the vale** — the strongest outcome gets the Drakesfall recognized in imperial or Church law as a kept site, so the next concession cannot simply buy it again.
 
@@ -189,7 +189,7 @@ Drive off or buy out the concession, re-seat the great drake's heart, and quiet 
 
 ### Void the Grant
 
-Bring the true description, Vharo's knowledge, and the road-deaths to Deacon-Advocate Sunn. The Church court voids the concession and disciplines the strategos — and, in the same motion, tries to claim the vale for the Patriarchate. The party trades one owner for another and must decide whether Church custody is safe for a Faewild site.
+Bring the true description, Vharo's knowledge, and the road-deaths to Deacon-Advocate Sunn. The Church court voids the concession and disciplines the military governor — and, in the same motion, tries to claim the vale for the Patriarchate. The party trades one owner for another and must decide whether Church custody is safe for a Faewild site.
 
 ### The Vale Recognized
 
@@ -219,8 +219,8 @@ Kyra is not fixed by rescue. Her best outcome is a vocation she can hold with he
 
 ## What the Adventure Changes
 
-- The Thematic of Archenia gains a precedent on whether a strategos's emergency land-grants can sell a holy or inhabited site — a real limit on frontier military rule, or a proof there is none.
-- The [[The Vharo Concession]] is stopped, bought, exposed, or successful; Strategos Vharo is disciplined, protected, or promoted.
+- The Military Province of Arkena gains a precedent on whether a military governor's emergency land-grants can sell a holy or inhabited site — a real limit on frontier military rule, or a proof there is none.
+- The [[The Vharo Concession]] is stopped, bought, exposed, or successful; Governor Vharo is disciplined, protected, or promoted.
 - The Thalmyric Church decides whether a Faewild vale is heresy to purge, property to claim, or a kept site to protect — a live question for the Patriarchate.
 - The [[The Drakesfall Vale|Cyrian Skete]] is re-peopled, taken into Church custody, or ended with its last warden.
 - The [[The Gemfallen]] and the [[The Unquiet Field|law-field]] enter the known hazards of the drake canon: what a drake-death-place does when its keepers are killed.

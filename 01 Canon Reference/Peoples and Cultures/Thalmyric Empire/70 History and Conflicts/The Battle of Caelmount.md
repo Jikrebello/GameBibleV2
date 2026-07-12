@@ -1,29 +1,44 @@
 ---
 type: event
-status: placeholder
-canon_level: local
+status: canon
+canon_level: core
 visibility: public
-era: ["Founding of Thalmyria"]
-region: ["Thalmyria"]
-culture: ["Thalmyric"]
-related_factions: ["Ahl-e-Ahd", "Thalmyric Empire"]
+era: ["917 AR"]
+region: ["Caelmount", "Thalmyria"]
+culture: ["Thalmyric", "Atherian"]
+related_factions: ["Mountain Resistance", "Ahl-e-Ahd"]
 appears_in: []
-needs: ["Expand chronology, commanders, terrain, and aftermath."]
+needs:
+  - place Caelmount on the highland campaign map
+aliases: ["The Valley Ambush"]
 tags: []
 ---
 # The Battle of Caelmount
 
-The Battle of Caelmount is an early founding battle of Thalmyria, remembered as the moment the mountain resistance proved it could defeat Ahl-e-Ahd forces in open consequence rather than merely survive as guerrillas.
+The Battle of Caelmount in 917 AR, called the Valley Ambush in the central chronology, was the first defeat of a major Covenant field force by the mountain resistance.
 
-## Canon Function
+## The Field
 
-- Linked from [[The Founding of the Thalmyric Empire]].
-- Its completed account must explain how the Veridunian resistance gained legitimacy and momentum.
+Caelmount controls a narrow volcanic valley where an Atherian road crosses unstable ash slopes before dividing toward Veridun and Virelos. Covenant commander Amir Qazem intended to destroy the resistance granaries and force the refuge cities into separate settlements.
 
-## Required Development
+## The Battle
 
-Define the year, battlefield, commanders, tactical reversal, relic involvement, casualties, and how later imperial propaganda reshaped the memory of the battle.
+Caedros allowed the vanguard through the pass, then used miners, shepherds, engineers, and surviving legionaries to collapse prepared road cuts behind it. Village militias attacked supply animals while the main resistance held the high terraces.
+
+No weaponized Holy Flame was used; that development belongs to the Caleran campaign. A refuge lamp remained lit through the ash storm and became the battle's symbol. Later art enlarged it into a wall of divine fire.
+
+## Cost and Reversal
+
+The resistance won because local communities accepted the destruction of terraces, bridges, and winter stores on which they depended. The battle saved Veridun while producing famine and refugee movement in the surrounding valleys.
+
+Captured conscripts were offered amnesty if they surrendered binding instruments. Contract officers and name custodians were exchanged rather than executed, giving the resistance leverage for imprisoned civilians.
+
+## Aftermath
+
+Caelmount gave Caedros the legitimacy to command beyond his own league. It also created the imperial habit of calling civilian sacrifice strategically necessary and commemorating it more readily than compensating it.
 
 ## Navigation
 
-- [[Thalmyric Empire Overview]]
+- [[The Refuge and the Rise of Veridun]]
+- [[The Coronation at Virelos]]
+- [[The Long Reconquest (908-1052 AR)]]

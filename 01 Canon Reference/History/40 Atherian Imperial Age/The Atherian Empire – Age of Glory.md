@@ -1,94 +1,60 @@
 ---
 type: event
 status: canon
-canon_level: local
+canon_level: core
 visibility: public
-era: []
-region: []
-culture: []
-related_factions: []
+era: ["Atherian Imperial Age"]
+region: ["Atheria", "Known World"]
+culture: ["Atherian"]
+related_factions: ["Atherian Empire", "Star Pantheon"]
 appears_in: []
-needs: []
+aliases: ["Atherian Age of Glory"]
 tags: []
 ---
-> _"The stars ruled the heavens, and we ruled the world beneath them."_ —Inscription found on the Gates of Caleran
+# The Atherian Empire - Age of Glory
 
-### **Overview**
-This was the era of unchallenged imperial power. The **Atherian Empire**, forged through centuries of conquest and divine mandate, stood as the beacon of civilization across the known world. Its banners flew from the sun-drenched coasts of the Sestaran Peninsula to the frost-touched forests of the southern Fäskogar. The empire claimed not just political dominion, but spiritual supremacy as well, guided by the celestial deities of the **Star Pantheon**.
+The Atherian Age of Glory was the long period in which imperial law, armies, archives, roads, ports, and the Star Pantheon held most of the known world's central belt within one political system. Later Thalmyric writers describe it as ordered abundance. Subject peoples remembered the taxes, land seizures, forced settlements, and religious hierarchy that paid for the marble.
 
-This period is marked by peace, prosperity, cultural refinement, and vast infrastructure projects. Yet beneath the surface, seeds of future conflict were quietly being sown.
+## Government
 
----
+The emperor was presented as the stars' chosen mediator and guardian of terrestrial order. Provincial governors combined civil and military authority but depended on treasury officials, municipal councils, and temple estates. The old senate retained control over portions of infrastructure, citizenship, and commercial law while losing meaningful command of the army.
 
-### **Political and Administrative Structure**
-- **Divine Emperorship**: The emperor was regarded as the living mediator between the celestial gods and mortals. Chosen by omens in the stars and crowned by the High Augur of Astaroth, each emperor's reign was believed to reflect the favor (or displeasure) of the heavens.
+A professional bureaucracy maintained census rolls, property surveys, water rights, courts, road stations, and grain distribution. Modern Thalmyric and Eclessian law still cites surviving Atherian registers, sometimes to resolve a dispute and sometimes to resurrect one.
 
-- **Exarch System**: The empire was divided into provinces ruled by appointed **Exarchs**. These individuals served as governors, generals, and religious stewards, blending military and spiritual authority. They reported directly to the emperor and were required to make annual pilgrimages to Caleran to renew their vows.
+## Religion
 
-- **Imperial Senate**: Though largely ceremonial by this era, the Senate retained some administrative power over infrastructure and trade regulation. It was mostly composed of aristocratic families descended from the earliest founders of Atheria.
+The Star Pantheon organized older cults beneath an imperial celestial hierarchy. Astaroth represented conquest and public order; Lyraxis art and civic performance; Thanatos death and passage; Arachnara illness and concealed networks; Typhonius calamity and monstrous birth. Local gods could survive as regional titles, attendants, or disputed manifestations so long as their temples acknowledged imperial primacy.
 
-- **Bureaucracy**: A robust bureaucratic class, often drawn from scholarly families in the central provinces, ensured the efficient collection of taxes, census data, and road maintenance. Their records are still referenced in modern Thalmyrian and Eclessian law.
+Temple complexes were schools, archives, treasuries, employers, and political centers. Their observatories and ritual substructures form some of Thalmyria's most dangerous surviving ruins. Many were later converted into churches; others were sealed, dismantled, or built over after the Redeemer's conversion movement.
 
+## Cities and Infrastructure
 
----
+Caleran stood at the center of a road and water network extending across the empire. Milestones measured distance from its forum. Aqueducts supported dense urban populations and irrigated estates; ports moved grain, salt, wine, metals, and enslaved people; fortified stations protected official couriers and tax shipments.
 
-### **Religion: The Star Pantheon**
-- **The Star Children**: The pantheon consisted of celestial deities associated with constellations and phenomena. Each had distinct temples, priesthoods, rituals, and festivals. Worship was guided by omens and the position of the stars, interpreted by an elite caste of astrologer-priests.
+The system was never uniform. Core cities received monumental works while distant villages supplied labor and tax. Regional capitals adapted imperial plans to local materials and customs. The resulting variation is why modern ruins cannot be understood from Caleran's architecture alone.
 
-    - **Astaroth** – The Warrior Star: Patron of empire and conquest.
-    - **Orionis** – The Hunter Star: Guardian of the wilds and exploration.
-    - **Hecatara** – The Witch-Star: Keeper of sorcery and fate.
-    - **Thanatos** – The Boatman Star: God of death and mourning.
-    - **Lyraxis** – The Muse Star: Patron of art, music, and satire.
-    - **Typhonius** – The Beast Star: Herald of calamity and monstrous births.
-    - **Arachnara** – The Weaver Star: Governess of vermin, secrets, and illness.
+## Learning and Art
 
-- **Ritual Life**: Daily rituals occurred at household shrines and public temples. Grand celestial festivals aligned with equinoxes, eclipses, or notable astral phenomena. Temples often housed oracles who offered prophecies based on complex star charts.
+Schools taught law, rhetoric, mathematics, medicine, astronomy, engineering, and script magic. Public mosaics and reliefs joined local histories to imperial myth. Theater, satire, athletic games, philosophical schools, and astropoetry flourished under elite patronage. Archive culture preserved immense knowledge while allowing the state to decide whose testimony counted.
 
-- **Temple Complexes**: Major cities hosted multi-deity complexes, with seven towers dedicated to each god of the pantheon. These acted as both centers of worship and schooling.
+Warlock rune magic developed from older practical scripts into regulated military and engineering disciplines. Colleges standardized safe portions of the craft for siege, signaling, construction, firefighting, and controlled elemental work. Their sealed laboratories are among the rare Atherian sites that may still function.
 
----
+## Uneven Prosperity
 
-### **Cultural Flourishing**
-- **Architecture**: Massive public works such as aqueducts, amphitheaters, bathhouses, and celestial observatories were constructed. The use of white stone and polished bronze made cities shimmer beneath the sun.
+The age produced long-distance trade, durable infrastructure, and periods of relative peace. It also depended on frontier war, coerced labor, unequal citizenship, temple wealth, and the transfer of provincial resources to the core. Rebellions were often caused not by rejection of roads or law, but by the price exacted for them.
 
-- **Education and Philosophy**: Atherian schools taught astronomy, logic, rhetoric, and law. Philosophy was often linked to celestial order, emphasizing harmony with the stars. The schools of **Lyraxis** and **Orionis** rivaled each other in debates over free will versus destiny.
+## The Redeemer's World
 
-- **Art and Literature**: Mosaics, relief carvings, and epic poetry celebrated the gods and the imperial lineage. Performers would reenact myths and moral plays during celestial festivals. The genre of "astropoetics" — poems structured to mirror star patterns — was born in this age.
+By the Redeemer's lifetime, Atheria was ancient enough to mistake endurance for permanence. Its institutions could carry a new faith across continents once converted, but first they supplied the courts, roads, archives, and execution machinery used against it. Churches in modern Thalmyria therefore stand within a double inheritance: Atherian systems helped persecute the faith and later helped preserve it.
 
-- **Cosmopolitanism**: Traders, pilgrims, and scholars from across the known world traveled the empire’s roads. Local customs were tolerated so long as they paid homage to the Pantheon. Religious syncretism quietly flourished, especially in the eastern provinces.
+## Material Legacy
 
-
----
-
-### **Infrastructure and Economy**
-- **The Via Celestis**: A vast imperial road network allowed legions and caravans to move efficiently. Milestones marked distance from Caleran, the imperial capital, often with star-forged bronze glyphs.
-
-- **Trade and Coinage**: The Atherian **Solar Denarii** became the standard currency across the continent. Trade flourished through regulated ports and merchant guilds, with tariffs fueling the treasury.
-
-- **Aqueducts and Agriculture**: Sophisticated aqueducts watered central farmlands, while granaries in the western provinces fed distant garrisons. Temple-owned lands produced wine, grain, and incense in massive quantities.
-
-- **Military Might**: Though relatively peaceful during this era, the empire maintained its legions and frontier forts. Soldiers were often recruited from border provinces, creating strong cultural intermingling.
-
-
----
-
-### **The Western Frontier (Modern Eclessia)**
-- Considered a distant province, the eastern frontier was a patchwork of rural communities, fortified outposts, and growing trade cities.
-- Many of the imperial roads and aqueducts were newly constructed here, and the presence of imperial cults was recent but growing.
-- Local beliefs, particularly among the Fäskogar-descended peoples, blended with the Star Pantheon in strange and unorthodox ways.
-- Minor spiritual sects, mystic traditions, and monastic cults had begun to arise here, often dismissed by imperial theologians as "frontier superstition."
-- This region would later become the cradle of the Redeemer's ministry.
-
----
-
-### **Foreshadowing the Fall**
-Even in this age of gold, cracks had begun to form. The imperial capital grew increasingly decadent. Provinces groaned under the weight of taxes. Star omens grew darker and harder to read.
-
-And in the quiet tower towns of the east, a new voice would soon rise—one not born of the stars, but of sacrifice, fire, and love.
+In the Thalmyric heartland, imperial stone remains part of ordinary life. Houses reuse cut blocks; roads follow buried grades; farmers recover coins and rusted arms; churches occupy converted civic structures. Complete tombs, sealed archives, relic chambers, and operational devices are rare because centuries of reuse, occupation, looting, and war have already opened most accessible sites.
 
 ## Navigation
 
-- [[Timeline MOC]]
-- [[Canon Index]]
-
+- [[The Rise of the Atherian Empire Overview]]
+- [[Atherian Imperial Age]]
+- [[The Layers Beneath Thalmyria]]
+- [[Origins of Warlock Rune Magic]]
+- [[Historical Spine of the Known World]]

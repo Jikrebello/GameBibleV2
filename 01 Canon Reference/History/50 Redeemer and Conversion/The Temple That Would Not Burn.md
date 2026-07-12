@@ -64,7 +64,7 @@ It is often cited in **sermons about spiritual fortitude** and appears in religi
 
 ---
 
-####  **Thalmyric Interpretation (Order of the Phoenix Ascendant, Doctrine of Sacred Rebirth)**:
+#### **Thalmyric Interpretation (Order of the Returning Standard)**
 
 The Thalmyric Church interprets the event not as preservation—but as **transmutation**. The temple’s refusal to burn is seen as the **first proof that the Redeemer’s flame is purifying, not destructive**. It burned away unworthy intentions and false worship—but preserved that which had been consecrated anew.
 
@@ -104,4 +104,3 @@ This view is echoed in some modern Concord universities as an example of **“mi
 
 - [[Timeline MOC]]
 - [[Canon Index]]
-

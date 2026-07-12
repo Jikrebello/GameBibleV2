@@ -1,103 +1,52 @@
 ---
 type: event
 status: canon
-canon_level: local
+canon_level: core
 visibility: public
-era: []
-region: []
-culture: []
-related_factions: []
+era: ["Age of City-States", "Age of Stars", "Atherian Imperial Age"]
+region: ["Atheria", "Thalmyric Heartland"]
+culture: ["Atherian"]
+related_factions: ["Atherian Republic", "Atherian Empire", "Star Pantheon"]
 appears_in: []
-needs: []
+aliases: ["Rise of Atheria"]
 tags: []
 ---
-> _"Out of blood, fire, and the whisper of the stars, Atheria rose."_ —Opening line of the _Chronicles of Aurelius Caldon_, Imperial Historian
+# The Rise of the Atherian Empire Overview
 
-### **I. Origins: The Founding of Atheria**
-The Atherian Empire did not begin as a grand vision—it emerged from a confederation of squabbling city-states on the highland coasts of the western continent, near the future site of **Caleran**. These city-states were initially tied together by mutual protection pacts against coastal raiders, particularly **Ättar reavers** from the southern forests and seas.
+Atheria began among old hill cities, river settlements, ports, and sacred leagues in the region now forming Thalmyria's core. It did not invent civilization. It joined older civilizations through law, road, conquest, citizenship, archive, and a state cult broad enough to absorb local gods into the Star Pantheon.
 
-#### **The Twelve Tribes of Atheria**
-- Originally, twelve distinct clans controlled fortified hill-cities.
-- A religious league formed around shared worship of the **Star Pantheon**, with **Astaroth** and **Lyraxis** as primary patrons.
-- Intertribal conflict was frequent, but so were alliances through marriage and joint campaigns against common enemies.
+## Before the Empire
 
-#### **The Great Pact of Caleran**
-- In response to a devastating coastal invasion by the **Fäskogarfolk**, the Twelve Tribes formed the **Celestial Compact**, pledging unity under a High Chancellor elected from among the warrior-kings.
-- This Compact laid the groundwork for a proto-republican system and initiated the construction of the first Atherian legions.
+The earliest Atherian cities occupied defensible hills and river crossings around the future Caleran basin. Their builders reused pre-Atherian walls and waterworks, creating the first of the archaeological overlaps still visible in modern Thalmyria. Competition for grain, copper, coastal access, and pilgrimage traffic produced leagues that could cooperate against raiders and then turn on one another when danger passed.
 
----
+The **Celestial Compact** joined twelve leading cities under a common star calendar, arbitration law, and military levy. Caleran became the league's archive and meeting place because its river, harbor, and roads made it difficult to bypass.
 
-### **II. The Republican Era**
+## Republic and Expansion
 
-#### **Rise of the Senate and the People**
-- A structured republic emerged, governed by a **Senate** and two annually elected **Magisters** who commanded the military.
-- Expansionist policies began in earnest, targeting smaller kingdoms along the coast and rich farmlands inland.
+The Compact hardened into a republic governed by assemblies, a senate of property-holding houses, and annually chosen magistrates. The republic built roads to move armies, cadastral archives to tax conquered land, aqueducts to support larger cities, and colonies to secure routes. Citizenship expanded unevenly: allies could earn rights, subject communities could be taxed without them, and enslaved labor supported estates and public works.
 
-#### **The Fäskogar Wars**
-- Initial Atherian incursions into the southern forests were met with fierce resistance by **totemic Ättar warriors** and arcane **Enaidfae cults**.
-- The First War ended in failure, with Atherian legions being ambushed and destroyed in the Blackpine Glades.
-- The Second War was more methodical. Atheria adopted scorched earth tactics and fortification strategies, building outposts and using deforested corridors to push deeper.
-- Eventually, several key Ättar tribes were defeated, and the **Southern Marches** were established.
+Atherian wars reached the Sestaran harbors, eastern future Eclessian provinces, northern desert approaches, and southern forest marches. Expansion spread law and infrastructure while destroying local polities, transferring populations, and turning regional cults into subordinate faces of the stars.
 
-#### **The Concord Suppression**
-- The loosely connected merchant cities of **proto-Sestara** resisted taxation and religious conformity.
-- Atheria waged a series of short but brutal wars, installing pro-imperial governors and ensuring the spread of the Pantheon.
-- The cities were allowed to retain cultural autonomy in exchange for tribute and military service.
+## From Republic to Empire
 
-#### **The Civil Wars of the Triumvirs**
-- Competing Magisterial families began to dominate politics.
-- The assassination of Magister Varian Silvus led to a decade-long civil conflict between three factions:
-    - The **Western Starborn**, who wanted an aggressive expansionist policy.
-    - The **Populares of Caleran**, who advocated for land reform.
-    - The **Traditionalists**, who wished to preserve the old Compact.
-- The wars ended with **General Aurelius Thalion** seizing Caleran and declaring himself **Primarch of the Stars**. Though nominally preserving the republic, he effectively ruled as a monarch.
+Land concentration, military patronage, provincial wealth, and rivalry among victorious commanders broke the republican settlement. A sequence of civil wars ended when **Aurelius Thalion** seized Caleran, retained republican offices in ceremonial form, and made his command hereditary in practice.
 
----
+Thalion's reforms created a standing army, centralized provincial appointments, regularized taxation, and elevated Astaroth's priesthood as guardian of imperial destiny. Successors expanded the imperial household, court schools, archive ministries, and public cult that later generations would remember as timeless Atherian tradition.
 
-### **III. The Imperial Transition**
+## Why the Heartland Is So Layered
 
-#### **The Reforms of Thalion**
-- Created a standing professional army.
-- Established the **Imperial Cult of Astaroth**, elevating the emperor as chosen by the stars.
-- Massive building campaigns: roads, temples, celestial forums.
+Modern Thalmyria contains the republic's first roads beneath imperial avenues, old star temples beneath converted churches, municipal drains beneath Reconquest streets, and family tombs reused by successive religions. Caleran accumulated senate halls, forums, palaces, observatories, prisons, shrines, warehouses, and burial districts over centuries. Veridun, Virelos, Arkena, and the river cities preserve different combinations of the same growth.
 
-#### **The Border Consolidation Wars**
-- Major campaigns launched in the northern steppes and eastern highlands.
-- Defeated the **Khadoric Horse Lords**, bringing their tribal lands under Atherian governance.
-- Rebellions among Ättar tribes in the south were crushed, though some escaped deep into the forested tundra.
+The empire built systems larger than modern settlements can maintain. Working aqueducts and bridges survive beside collapsed branches; buried roads run toward towns that no longer exist. This is why common debris is everywhere while intact sealed complexes remain exceptional.
 
-#### **Religious Centralization**
-- The old temple leagues were dissolved.
-- A centralized priesthood based in Caleran was established, led by the **High Augur**.
-- The **Seven Temples** were erected in every major city, standardizing worship of the Star Pantheon.
+## Inheritance
 
----
-
-### **IV. The Wars of the Eastern Horizon**
-
-#### **Campaigns into the East**
-- The eastern provinces (modern Eclessia) were still fragmented, home to minor kings and rural clans.
-- These regions were prized for their fertile lands and their trade routes leading into the desert interior.
-- The **Wars of the Eastern Horizon** saw a string of campaigns led by successive emperors, ending with the annexation of the province now called **Veridun Minor**.
-
-#### **Cultural Intermixing**
-- As settlers moved eastward, they encountered the Jirahar caravaners and early Enaidfae cults.
-- Many intermarried with Fäskogarfolk-descended peoples.
-- Eastern Atherian culture became marked by mysticism, dream interpretation, and veneration of local spirits alongside star worship.
-
----
-
-### **V. The Imperial Zenith**
-- The empire reached its greatest extent. From sea to desert to mountain to forest, all bent the knee.
-- Caleran was a glittering capital of bronze domes and marble spires.
-- Roads stretched across continents; temples crowned every city.
-- The **Via Celestis**, the imperial road, was completed.
-- The **Star Pantheon** was supreme.
-
-And far in the east, under a sky lit with omens, a child was born in a Tower Town among the Jirahar—a child destined to shatter the heavens and remake the world.
+Atheria created the material and political board inherited by every successor: roads, provincial boundaries, legal formulas, archives, ruins, military districts, star temples, urban privileges, and the imperial claim that unity justified conquest. Thalmyria inherited the deepest physical concentration of this world. Eclessia inherited eastern provincial institutions. Sestara inherited and monetized maritime archives. Other peoples remember Atheria as conqueror as often as civilizer.
 
 ## Navigation
 
-- [[Timeline MOC]]
-- [[Canon Index]]
-
+- [[Atherian Imperial Age]]
+- [[The Atherian Empire – Age of Glory]]
+- [[The First Atherian City-States]]
+- [[The Layers Beneath Thalmyria]]
+- [[Historical Spine of the Known World]]

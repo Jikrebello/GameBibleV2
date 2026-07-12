@@ -1,101 +1,57 @@
 ---
 type: faction
 status: canon
-canon_level: local
+canon_level: core
 visibility: public
-era: []
-region: ["Thalmyria"]
+era: ["Present Day", "1360 AR"]
+region: ["Veridun", "Thalmyria"]
 culture: ["Thalmyric"]
-related_factions: []
+related_factions: ["House Aetherion", "Thalmyric Empire", "Thalmyric Church"]
 appears_in: []
-needs: []
+aliases: ["Throne of the Ember Crown"]
 tags: []
 ---
-### **I. The Imperial Throne of Flame and Crown**
-The Imperial Throne of the Thalmyric Empire is no mere symbol—it is a **living relic**, steeped in sacred fire, prophecy, and blood. Known as the **Throne of the Ember Crown**, it sits within the **Crown of Cinders**, a basalt citadel overlooking the holy city of **Caleran**.
+# The Imperial Throne of Veridun
 
-Forged in the aftermath of the Atherian Empire's collapse, the throne is said to incorporate **blackstone salvaged from the altar of the Redeemer’s first martyr-shrine**, fused with molten bronze and phoenix ash. It is never cold. Even when unoccupied, the air around it **shimmers with heat**, and the seat itself is lined with **volcanic silk**, said to be fireproof yet soft to the touch.
+The **Throne of the Ember Crown** is the legal and ceremonial center of Thalmyric sovereignty. It stands in the Crown Hall at Veridun, not Caleran. Refuge craftsmen built it after the first mountain victories from dark stone, recovered imperial bronze, and timber taken from the council chamber where the rebellion was sworn.
 
-Only a crowned Emperor may sit upon it. Others who have attempted—pretenders, rebels, or foreign emissaries—are said to have been **burned, maimed, or driven mad** by the throne’s divine fire.
+The throne is a relic of continuity rather than a reliable magical ordeal. Pilgrims report warmth, dreams, and judgement in its presence; Church investigators have authenticated some experiences and rejected others. Imperial law does not permit a miracle claim to substitute for coronation, oath, succession, and recognition by the realm.
 
-The enthronement ceremony involves the **Anointing of Flame**, the **Binding of Crown and Spirit**, and a vigil where the soon-to-be Emperor must sit upon the throne **through a full night without rising**, enduring dreams said to be whispered by the Flame-Spirit itself.
+## Coronation
 
----
+Thalmyric emperors are first acclaimed and crowned at **Virelos**, preserving Caedros I's coronation of 922 AR. They then enter Veridun beneath the Great Lamp and Virelian Lamp, swear the compact of crown and Church, and sit in the Crown Hall to receive the seals of government. Caleran supplies the Patriarchal blessing and oil of consecration but is not the living court.
 
-### **II. House Aetherion**
-The current ruling dynasty, **House Aetherion**, traces its line back to the **Last Strategos of Atheria**, a general who refused to surrender during the fall and led the first crusading armies of the Reconquest. They are seen not as tyrants or bureaucrats, but as **shield-kings**—warrior-sovereigns whose legitimacy is as much spiritual as it is political.
+The ceremony binds the monarch to four duties:
 
-The house motto is: _“To Rule Is to Burn.”_
+1. preserve the faith without claiming priestly office;
+2. defend the people and the recovered heartland;
+3. uphold provincial rights, city privileges, and lawful amnesties;
+4. keep the road open between Veridun, Virelos, and Caleran.
 
-#### **Symbols and Colors**:
+## House Aetherion
 
-- **Crest**: A phoenix rising from a shattered crown.
-- **Colors**: Ash-gray, ember-red, and sun-gold.
-- Their royal seal is pressed with **wax laced with coal dust**, said to carry a faint warmth.
+House Aetherion descends from the refuge command and the line founded by Caedros I. Its legitimacy rests on continuity, service, coronation, and acceptance by imperial institutions, not on an unbroken biological claim to every Atherian emperor. Adoption has valid old precedent, which makes it a live and dangerous answer to the present succession.
 
----
+Its public colors are ash-grey, ember-red, and gold. The familiar saying, **“To rule is to tend the fire,”** names stewardship; militants often shorten it into a harsher slogan the court does not officially recognize.
 
-### **III. Current Monarch: [[Emperor Caedros IV Aetherion]]**
-A ruler forged in equal parts **heroism and law**, **Emperor Caedros IV** embodies the legendary duality of Thalmyric sovereignty. He is remembered both as a victorious **crusading general** and as a **reforming emperor**, a man whose soul burned on the battlefield and in the chambers of governance.
+## The Present Succession
 
-#### **As a Warrior-Hero (El Cid Inspired)**
-- Once a **Firewarden Commander**, Caedros led the **Night of Seven Flames**, defending a battle chapel for fourteen hours without reinforcements.
-- Personally beheaded an Ahl-e-Ahd covenant-lord with a relic blade lit aflame by his own blood.
-- Beloved by soldiers, folk militias, and villein-knights alike; he often rode alongside them rather than observing from command tents.
+[[Emperor Caedros IV Aetherion]] was widowed by Vasilia's death in 1357 and lost his elder son Nikandros in 1358. Three futures now compete:
 
-#### **As a Reformer and Codifier (Justinian Inspired)**
-- Architect of the **Ash Codex**, a comprehensive imperial law that unified provincial justice under the Church's spiritual authority.
-- Oversaw the reconstruction of Caleran’s **flame channels**, enabling geothermal heating across entire districts.
-- Founded the **Magistrum Ignis**, a permanent judicial body for interpreting both flame-law and imperial doctrine.
+- **Princess Alexane**, an experienced provincial governor supported by veterans and much of the chancellery;
+- **Prince Sophios**, a scholar in minor orders supported by old Caleran houses and church politicians;
+- **adoption**, likely of a proven commander, supported by officers who fear dynastic weakness.
 
-#### **Traits**:
-- Tall, broad-shouldered, bearing burn scars on his sword hand from a youthful flame trial.
-- Rarely speaks in court; prefers short, absolute decrees.
-- Known to quote flame scripture as legal precedent.
+Thalmyric law permits each path. Politics may not permit the losers to accept one.
 
-Caedros' reign is defined by a single phrase he once uttered to his council: _“The Redeemer did not suffer to see us stumble in ashes. He suffered so we might build again.”_
+## The Crown and the Church
 
----
-
-### **IV. The Imperial Family**
-
-#### **Empress-Militant Serenya of House Luriel**
-- A noble from the flame-tempered line of Luriel, she is both Empress and a **Knight-Paladin** of the Eternal Vigil.
-- Known for her public oratory and sharp sense of ritual symbolism.
-- Wields a curved blade known as **Kindler’s Grace**, forged with phoenix tears.
-
-#### **Crown Prince Helion Aetherion (27)**
-- Charismatic but untested in war.
-- Trained in both flame philosophy and military arts.
-- Whispers abound that he leans toward **Archenian mysticism**, a concern for traditionalists.
-
-#### **Princess Naeria (24)**
-- A student of prophecy and relic-lore.
-- Currently cloistered in the **Cloister of Blinding Flame** for spiritual refinement.
-- Rumors claim she has received troubling visions.
-
-#### **Youngest Son—Luceron (16)**
-- Rebellious and known for disguising himself to roam the streets of Caleran.
-- Said to spend time in the **Outer Ash Circle**, mingling with pilgrims and beggars.
-
----
-
-### **V. Political Position and Legacy**
-House Aetherion stands as a **pillar of stability** within a fractured and burning world. Their rule is one of **fire-bound legacy**, balancing the mandates of the Church with the imperatives of empire.
-
-But tension simmers:
-
-- Ahl-e-Ahd raiders push deeper into the Velian frontier.
-- The Church grows restless with a lack of “divinely verified visions.”
-- And the question looms—**can the line of fire endure one more generation**?
-
-The fate of empire, throne, and flame may yet rest in the hands of those raised in its shadow.
-
----
-
-### **Conclusion**
-The **Throne of the Ember Crown** and the **House of Aetherion** represent the convergence of martial authority, sacred tradition, and apocalyptic vigilance. As the empire burns at the edges, and prophecy whispers through the vaults of Caleran, the rulers of Veridun must walk a razor’s edge—**blessed by flame, but never spared its touch.**
+The emperor appoints ministers, commands armies, confirms governors, and enforces temporal law. The Patriarch and Holy Synod govern doctrine, ordination, sacraments, and ecclesiastical discipline. Their cooperation is expected but never complete. A crown that commands doctrine becomes tyrannical; a synod that administers the empire exceeds its office.
 
 ## Navigation
 
+- [[The Court of Veridun (1360 AR)]]
+- [[Structure of the Empire Overview]]
+- [[The Patriarchate of Veridun]]
+- [[The Coronation at Virelos]]
 - [[Thalmyric Empire Overview]]

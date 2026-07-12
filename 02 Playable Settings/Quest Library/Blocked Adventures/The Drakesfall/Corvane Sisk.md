@@ -4,7 +4,7 @@ status: draft
 canon_level: local
 visibility: author-only
 era: ["Present Day"]
-region: ["Thalmyria", "Thematic of Archenia", "The Drakesfall Vale"]
+region: ["Thalmyria", "Military Province of Arkena", "The Drakesfall Vale"]
 culture: ["Sestaran", "Thalmyric"]
 related_factions: ["The Vharo Concession"]
 appears_in: ["The Drakesfall"]
@@ -18,7 +18,7 @@ Corvane Sisk is the Vorthara harvest-master of the [[The Vharo Concession]] and 
 
 ## The Business
 
-Sisk works for a Vorthara acquisitions house — the kind that files drake heart-gems "under acquisitions" and sells them on to the [[The Concord of Weights|weights-houses]] in standardized lots. When the house heard a great old gold drake had come to the Drakesfall to die, it bought a harvesting concession from Strategos Konstantin Vharo and sent Sisk to work it. He came up the warden road with pick-crews, warded wagons, hired blades, and a copy of the grant he treats as armor.
+Sisk works for a Vorthara acquisitions house — the kind that files drake heart-gems "under acquisitions" and sells them on to the [[The Concord of Weights|weights-houses]] in standardized lots. When the house heard a great old gold drake had come to the Drakesfall to die, it bought a harvesting concession from Governor Konstantin Vharo and sent Sisk to work it. He came up the warden road with pick-crews, warded wagons, hired blades, and a copy of the grant he treats as armor.
 
 He has done this before, at soured mines and war-scars and forgotten undercrofts. He has never worked a site that was still being *kept*, and he mistook the wardens for squatters with a superstition rather than keepers holding a dam shut.
 
