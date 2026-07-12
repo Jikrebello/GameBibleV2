@@ -7,7 +7,7 @@ era: []
 region: []
 culture: []
 related_factions: ["Greed", "Medori Bank"]
-appears_in: []
+appears_in: ["Grenzburg", "Caleran"]
 needs: []
 tags: []
 ---
@@ -32,6 +32,7 @@ The Medori hunt them (nothing threatens a real bank like a fake one inside it); 
 ## Hooks
 
 - The Grenzburg debt-audit: someone inside the Bank's local factorage is writing loans the Bank didn't authorize, against collateral the Bank wouldn't touch.
+- Caleran's pooled grain, hospital, and excavation loans contain a contaminated position whose collapse would harm the same people its predation targets.
 - A hoard-cult noble dies; the locked room contains no gold — only deeds, teeth, locks of hair, and one true-name tablet with a Grenzburg name on it.
 - The Comptroller's Circle offers the Duke a winter of grain at an interest rate that is, genuinely, generous. The catch is in what currency the interest compounds.
 

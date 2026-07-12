@@ -1,5 +1,5 @@
 ---
-type: lore
+type: reference
 status: canon
 canon_level: core
 visibility: author-only

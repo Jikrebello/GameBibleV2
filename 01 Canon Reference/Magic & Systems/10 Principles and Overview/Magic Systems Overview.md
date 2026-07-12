@@ -40,6 +40,10 @@ Every magic system should answer five questions:
 
 If a power is useful in war, someone has built a school, guild, office, heresy, black market, countermeasure, or legal regime around it.
 
+## Occult Investigation
+
+[[Occult Investigation in Caleran]] does not add a seventh magic family. Psychometry, séances, haunts, possession, charged evidence, and shared visionary environments must resolve to residue, thin spaces, Shades, patrons, contracts, relics, soul-routing, or active ancient systems.
+
 ## Navigation
 
 - [[Magic & Metaphysics MOC]]

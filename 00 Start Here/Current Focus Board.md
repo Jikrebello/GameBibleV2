@@ -15,7 +15,7 @@ tags: []
 
 ## First Creative Priority
 
-Turn Grenzburg's locked campaign into production-ready geography and encounters. The player mandate, branch architecture, canonical continuation, and companion roster are now controlled references rather than open story questions.
+Develop Caleran as the setting's great-city sandbox. Its population, fourteen districts, public factions, principal cast, intrigue toolkit, undercity networks, and level 1-20 progression are controlled through [[Caleran MOC]].
 
 ## Current Canon Baseline
 
@@ -23,13 +23,14 @@ Turn Grenzburg's locked campaign into production-ready geography and encounters.
 - **Map logic:** the known world is southern-hemisphere oriented; south is colder, harsher, and more frontier-bound. Use [[Gazetteer of the Known World]] and [[Geography Atlas]] as the map baseline.
 - **Source truth:** in-world historical accounts are rated in [[Reliability Register]].
 - **Game proof:** [[Grenzburg Vertical Slice Dossier]] is the current production-facing doorway for the playable testbed.
+- **Great-city sandbox:** [[Caleran Great-City Dossier]] is the production doorway for urban intrigue, archaeology, and occult investigation.
 - **Vault structure:** active reference material uses numbered, subject-owned folders; superseded material is indexed through [[Archive Index]] and the [[Physical Reorganization Manifest]].
 
 ## Next Three Workstreams
 
-1. **Grenzburg map production:** turn [[Grenzburg Regional Geography]] and [[Grenzburg Campaign Branch Matrix]] into city, road, village, corridor, and dungeon map requirements.
-2. **Encounter-ready bestiary:** tune the Grobi, Emerald Drake, Pale-Skins, Hollow-Kings, and optional ghouls against their locked campaign roles.
-3. **Implementation tuning:** set numerical quest rewards, track thresholds, companion approval, field-role balance, encounter difficulty, and final UI terminology.
+1. **Caleran map production:** turn [[Caleran Surface Map and Adjacency]] and [[Under-Caleran Overview and Access Overlay]] into illustrated surface and access maps.
+2. **Caleran adventure selection:** promote chosen entries from [[Forty Caleran Urban Quest Seeds]] and [[Caleran Faction Ladders]] into fully blocked adventures.
+3. **Grenzburg implementation tuning:** retain the locked frontier campaign as the first rural vertical slice while Caleran tests long-form urban play.
 
 ## Locked Rulings
 
@@ -50,3 +51,5 @@ Turn Grenzburg's locked campaign into production-ready geography and encounters.
 - Production-quality borders, roads, travel times, and trade layers.
 - Numerical Grenzburg reward, track, companion-approval, and encounter-balance values.
 - Named regional cells for the Left Hand as new playable settings are developed.
+- Final visual treatment for Caleran's surface and undercity maps.
+- System-specific encounter and reward tuning for selected Caleran adventures.

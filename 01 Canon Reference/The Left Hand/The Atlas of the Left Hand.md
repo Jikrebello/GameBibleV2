@@ -8,7 +8,7 @@ region: []
 culture: []
 related_factions: ["The Adversary", "The Idols", "The Concord of Weights", "The Undertow"]
 appears_in: []
-needs: ["add regional cells as new playable settings are developed"]
+needs: ["add regional cells beyond Grenzburg and Caleran as new playable settings are developed"]
 tags: []
 ---
 # The Atlas of the Left Hand
@@ -27,6 +27,8 @@ Evil in the World Egg is **plural and competitive**, not a pyramid. Four distinc
 4. **Soul-route predation** (the leftward road): [[The Undertow]] — the counter-Boatman.
 
 Standing creature-side infrastructure cross-references: the vampire bloodlines (Pride's escrowed souls), the ghoul-cities (Gluttony's logistics), the Nightmares (Sloth's cavalry), and the Hollow-Kings, whose place in these supply chains remains unknown.
+
+Caleran's active regional interlock is recorded in [[Secret Networks of Caleran]]: Undertow body theft, Fleshweaver procurement, Under-Ledger finance, and an Idol operation built around borrowed sanctity.
 
 ## The Interlock Rule
 

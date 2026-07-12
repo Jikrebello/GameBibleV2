@@ -7,7 +7,7 @@ era: []
 region: []
 culture: []
 related_factions: ["The Boatman", "Lakekeepers"]
-appears_in: []
+appears_in: ["Grenzburg", "Caleran"]
 needs: ["define the Lakekeepers annual payment before the deep Grenzburg arc"]
 tags: []
 ---
@@ -35,6 +35,7 @@ Everyone's contractor, no one's friend: Hell pays in permissions, patrons in ren
 
 - Grenzburg's siege-winter mass graves: a Wrecker is embedded in the burial details, and the Pale-Skins' death-energy ritual and the Undertow's bulk-shipment interests have just noticed each other.
 - A parish's dead stop arriving (the saint's tell) — the investigation must move at the speed of funerals.
+- Caleran's ossuary roads: one-by-one body discrepancies conceal a Wrecker and a separate Fleshweaver procurement chain that has become its temporary partner.
 - The Lakekeepers' annual price comes due, and this year Thorn-Seer Mael cannot pay it alone. What the lake's keeper asks of the party is never named in advance. It never is.
 
 ## Navigation

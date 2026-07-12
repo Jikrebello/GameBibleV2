@@ -5,6 +5,7 @@ filters:
     - status == "canon"
     - or:
         - appears_in.contains("Grenzburg")
+        - appears_in.contains("Caleran")
         - type == "quest"
         - type == "mechanic"
         - type == "place"

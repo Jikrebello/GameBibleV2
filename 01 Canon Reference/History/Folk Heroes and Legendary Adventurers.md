@@ -1,5 +1,5 @@
 ---
-type: lore
+type: reference
 status: draft
 canon_level: core
 visibility: public

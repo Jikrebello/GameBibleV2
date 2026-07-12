@@ -21,6 +21,8 @@ Thalmyria possesses old infrastructure, skilled cities, fertile volcanic distric
 
 Veridun, Caleran, Virelos, Naverion, Drasovar, and the regional capitals gather guilds, schools, courts, hospitals, garrisons, aqueduct service, and Church charity. Refuge-descended neighborhoods retain village names long after the villages themselves disappear.
 
+Caleran is the heartland's largest sacred, pilgrimage, antiquities, and hospital economy. Its 350,000 permanent residents depend on river and maritime grain, seven historic aqueduct lines, metropolitan return villages, Church reserves, and a port whose stoppage becomes an imperial concern within days.
+
 Cities offer work and water. The countryside offers land entangled in title, service, ruin law, and infrastructure no household can repair alone.
 
 ## Agriculture
@@ -58,4 +60,3 @@ Abandoned aqueduct branches, war taxation, veteran land demands, Medori debt, re
 - [[The Layers Beneath Thalmyria]]
 - [[Thalmyric Armies and the Long Frontier]]
 - [[Structure of the Empire Overview]]
-

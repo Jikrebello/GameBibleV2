@@ -4,19 +4,20 @@ status: draft
 canon_level: local
 visibility: author-only
 source: "PZO9528 The Godsmouth Heresy"
-era: ["Present Day"]
-region: []
-culture: []
-related_factions: []
-appears_in: []
-needs: []
+era: ["Present Day", "1360 AR"]
+region: ["Caleran", "Martyrs' Steps", "Under-Caleran"]
+culture: ["Thalmyric"]
+related_factions: ["Court of Five Lamps", "The Undertow", "Fleshweavers"]
+appears_in: ["Caleran"]
+needs:
+  - tune encounter opposition and rewards for the selected game system
 tags:
   - module-conversion
   - game-ready
 ---
 # The Ossuary Heresy
 
-**Source:** *The Godsmouth Heresy* • **Tier:** W starter • **Region:** Caleran or Veridancia (any great cathedral) • **Band:** level 1 analog
+**Source:** *The Godsmouth Heresy* • **Tier:** W starter • **Region:** Caleran, Martyrs' Steps and the ossuary roads • **Band:** level 1 analog
 
 **The original:** bodies interred in a sacred ossuary are vanishing; the priesthood quietly hires investigators to descend and find out why.
 
@@ -25,3 +26,9 @@ tags:
 **The torque:** every recovered body is a small mercy and a huge liability — the families must never know, the chapter's cover story needs the party's silence, and the Undertow's man has a ledger of *which clergy signed which rites*, which is worth more than the party's fee to three different factions.
 
 **Hook:** the setting's quietest war (sexton-work) made into a first dungeon.
+
+## Translation
+
+- [[The Ossuary Heresy - Caleran Adventure]]
+- [[The Martyr and Ossuary Roads]]
+- [[Secret Networks of Caleran]]

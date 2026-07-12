@@ -1,5 +1,5 @@
 ---
-type: lore
+type: reference
 status: canon
 canon_level: core
 visibility: public
@@ -7,7 +7,7 @@ era: []
 region: []
 culture: []
 related_factions: []
-appears_in: []
+appears_in: ["Grenzburg", "Caleran"]
 needs: []
 tags: []
 ---
@@ -49,6 +49,8 @@ A campaign that skips Tier One reads as exhausting; a campaign that never reache
 ## Where the Dungeons Come From
 
 The world generates delving sites honestly: **barrow-fields** (pre-human and Folk); **Atherian undercrofts** (a thousand years of imperial cellars, waystations, and forgotten shrines under every old town); **Giant-era ruins** (glass-fused, half-taboo, Tier Three waiting under Tier One skins); **war-scars** (Shell-burned battlefields, collapsed siegeworks); **soured mines**; **Velian border forts** (three changes of ownership, three layers of dead); and **failed colonies** on every frontier. Most hold rattle-bones, vermin, a bandit season, and somebody's lost strongbox. That is the point.
+
+Caleran is the largest urban expression of this rule. Its working waterworks, ossuaries, cellars, siege tunnels, and undercrofts contain ordinary residue and vermin far more often than active relics, hostile networks, or functioning Atherian systems.
 
 ## The Delver Trade
 

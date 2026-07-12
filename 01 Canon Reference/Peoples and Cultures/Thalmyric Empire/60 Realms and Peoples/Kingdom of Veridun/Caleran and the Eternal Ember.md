@@ -7,9 +7,7 @@ era: ["Atherian Imperial Age", "905-1360 AR", "Present Day"]
 region: ["Caleran", "Thalmyria"]
 culture: ["Atherian", "Thalmyric"]
 related_factions: ["Thalmyric Church", "Thalmyric Empire"]
-appears_in: []
-needs:
-  - map the restored city rings and sealed occupation districts
+appears_in: ["Caleran"]
 aliases: ["Caleran", "The Old Capital"]
 tags: []
 ---
@@ -23,6 +21,8 @@ Caleran lies on the northwestern lowland coast at the Aurin's mouth. Atherian fo
 
 The city fell in 905 and returned in 957. It never again became the ordinary imperial court because Veridun's refuge government had become indispensable and the return remained incomplete.
 
+Present-day Caleran has approximately 350,000 permanent residents. Major pilgrimages can raise the population toward 450,000. Fourteen civic districts spread across the old river channels, sacred core, occupation quarter, working wards, ports, walls, and expanding suburbs.
+
 ## The Eternal Ember
 
 The Ember remained lit throughout occupation under Covenant guard and property law. It is neither ordinary fuel nor an object the Patriarch can command. Its continuity anchors Thalmyric memory while the occupation invoice prevents a simple triumphalist story.
@@ -33,7 +33,9 @@ Patriarch Sophron and the Holy Synod govern from the Cathedral of the Eternal Em
 
 ## Below Caleran
 
-Every building project risks opening an older city. Known underlayers include senate tunnels, martyr crypts, Star temples, name vaults, siege works, sealed occupation courts, and forgotten aqueduct branches.
+Every building project risks opening an older city. Known underlayers include hill-city walls, senate tunnels, martyr crypts, Star temples, name vaults, siege works, sealed occupation courts, and forgotten aqueduct branches. These are irregular networks rather than a single continuous underground city.
+
+The city's ordinary ruins contain masonry, records, graves, broken tools, and residue. Intact relics and functioning ancient systems remain exceptional.
 
 ## Story Uses
 
@@ -45,4 +47,4 @@ Patriarchal politics, pilgrimage, contested excavation, old-city crime, impounde
 - [[The Patriarchate of Veridun]]
 - [[The Reclamation of Caleran]]
 - [[The Layers Beneath Thalmyria]]
-
+- [[Thalmyric Heartland - Cities, Ruins, and the Empty Interior]]

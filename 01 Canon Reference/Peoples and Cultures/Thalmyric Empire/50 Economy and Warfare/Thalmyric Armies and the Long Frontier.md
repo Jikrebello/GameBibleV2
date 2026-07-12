@@ -7,7 +7,7 @@ era: ["Present Day"]
 region: ["Thalmyria", "Velian States"]
 culture: ["Thalmyric"]
 related_factions: ["Thalmyric Empire", "Thalmyric Church", "Ahl-e-Ahd"]
-appears_in: []
+appears_in: ["Caleran"]
 needs:
   - reconcile force sizes after the population atlas
 aliases: ["Thalmyric Military System"]
@@ -28,6 +28,8 @@ Coin-paid infantry, cavalry, engineers, artillery, scouts, and supply troops ser
 ## Regional Forces
 
 Vlastrava provides fortress troops, cavalry, and engineers. Saronika and Saltborn districts crew the fleet. Arkena controls island garrisons and naval signals. Kedrava supplies mountain infantry and outer-coast sailors. Elenara supports hospitals, grain, remounts, and roads.
+
+Caleran maintains approximately 5,500 regular garrison troops in the city and nearby forts. They protect walls, strategic waterworks, state sites, and approaches but do not replace the professional watch or district patrols.
 
 ## Warlocks and Engineers
 
@@ -52,4 +54,3 @@ The present frontier is armed peace, raids, prisoner exchange, truce fairs, espi
 - [[Warlock Rune Magic]]
 - [[Zanthir and the Unfinished Reconquest]]
 - [[The Reconquest and Conflict with the Ahl-e-Ahd Overview]]
-
