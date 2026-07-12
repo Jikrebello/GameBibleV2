@@ -4,9 +4,9 @@ status: canon
 canon_level: core
 visibility: public
 era: ["Present Day"]
-region: ["Eclessia"]
+region: ["Aurelia", "Eclessia"]
 culture: ["Eclessian"]
-related_factions: []
+related_factions: ["Eclessian Church"]
 appears_in: []
 needs: ["add two named representative NPCs and one settlement-level story seed"]
 tags: []

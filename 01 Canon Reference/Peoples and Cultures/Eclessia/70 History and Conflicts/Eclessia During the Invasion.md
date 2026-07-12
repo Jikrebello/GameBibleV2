@@ -1,93 +1,53 @@
 ---
 type: event
 status: canon
-canon_level: local
+canon_level: core
 visibility: public
-era: []
-region: ["Eclessia"]
-culture: ["Eclessian"]
-related_factions: []
+era: ["905-975 AR"]
+region: ["Eclessia", "Caldria"]
+culture: ["Eclessian", "Atherian"]
+related_factions: ["Eclessian Church", "Ahl-e-Ahd"]
 appears_in: []
 needs: []
+aliases: ["Eastern Provinces During the Fall"]
 tags: []
 ---
-### **I. The Breaking of the Imperial Line (Year 21)**
+# Eclessia During the Invasion
 
-When the Ahl-e-Ahd invasion struck the northern and northwestern front, Eclessia lay across the empire to the east and was geographically untouched by the opening blows. Its distance soon became estrangement.
+Eclessia did not begin with the Fall of Atheria. Its cities, dioceses, roads, estates, and peoples were old provincial societies when Caleran fell in 905 AR. The invasion transformed their relationship to empire: a distant eastern inheritance became a self-governing world.
 
-As the Mustering of All Flame stripped garrisons, grain stores, and holy relics from rural holdings to reinforce the heartland, **Eclessia’s villages and monasteries were left to fend for themselves**. Messengers from the capital grew infrequent. Roads fell into disrepair. Tithes were taken but never returned.
+## The Fall Reaches the East, 905 AR
 
-Within a year, the last functioning imperial courier road was closed by banditry and famine.
+The Qahirid resurgence struck the imperial heart and northern approaches before turning toward the eastern provinces. News arrived through refugees, broken tax convoys, and contradictory Church letters. Some governors waited for orders that would never come; others converted imperial authority into hereditary rule.
 
----
+The east was not untouched. Caleran's loss severed military pay, grain schedules, episcopal appeals, and the legal archive on which provincial titles depended.
 
-### **II. The Silence from Caleran (Years 22–27)**
+## The Third Crusade, 906-908 AR
 
-From the holy city, there came **no word of victory, nor any call for help**. Eclessian clergy and governors were left to speculate.
+The advance was stopped at Caldria by provincial troops, refugee formations, knightly confraternities, and local levies. Later Eclessian chronicles call this the Third Crusade; contemporary records describe a desperate coalition with no single commander.
 
-- Some believed Caleran had fallen and the empire was dead.
-- Others insisted the silence was part of a divine test.
-- A few radicals began preaching that **the old imperial Church had been judged and broken**, and that Eclessia must carry the true flame alone.
+Caldria's fortress culture and the political authority of its orders date from this defense. The halt protected the eastern heartland but did not recover the empire.
 
-Eclessian abbots convened **The Synaxis of Old Light**, a quiet, unauthorized gathering of monastic elders and flame-scribes, to decide whether they were still bound to the broken empire. Most chose patience. Others chose preparation.
+## Local Government
 
----
+Bishops authenticated records, abbeys stored grain, towns repaired walls, and landholders raised permanent households. Coastal Aratheos and the valley district of Fareth survive in the record as local leagues rather than lost kingdoms: Aratheos maintained beacon and storm roads, while Fareth organized vineyard militias and refugee farms.
 
-### **III. Rise of the Flame-Wardens of the West**
+These leagues explain later regional institutions without replacing the larger history. Their relic brands, militia oaths, and saint banners were absorbed by successor realms.
 
-As chaos consumed the imperial heartland, Eclessia's rural regions formed **local leagues of defense**, led by warrior-clerics, knight-abbots, and lay militias.
+## Refuge and Estrangement
 
-- In the storm-prone coasts of Aratheos, the **Wardens of the Redeemer’s Breath** patrolled wind-swept paths with relic brands and chanting torches.
-- In the valley sanctuaries of Fareth, **flame-farmers and orchard-knights** turned vineyards into battlegrounds, training militias under the banners of ancient saints.
-- Monastic strongholds such as **the Red Cloister** became centers of resistance, prophecy, and recordkeeping.
+Refugees carried Caleran's manuscripts, relics, trades, and competing accounts of failure east. Others fled south and helped create the Thalmyric restoration. The two refugee streams remembered the same disaster differently: Eclessia learned that institutions must survive without the capital; Thalmyria learned that the empire must be restored around the Eternal Ember.
 
-These groups operated independently but invoked a shared prayer: _“We guard what they left behind.”_
+The difference became political before it became schism.
 
----
+## Toward Adalmar
 
-### **IV. The Fracturing of Allegiance**
-
-By Year 25, the **practical sovereignty of Eclessia** was undeniable. No taxes were paid to Caleran. No orders came from the Ash Hall. Messages from fleeing refugees confirmed what many feared: **the Atherian capital had fallen**.
-
-But with no clear heir, and the heart of the Church engulfed in ash, a schism formed:
-
-- Some flame-priests declared loyalty to any surviving imperial remnant, should one arise.
-- Others argued that the **Redeemer’s true light now rested solely in Eclessia**, free from the decadence of the past.
-- A small but growing group called for the crowning of a new patriarch—**one not appointed by Caleran**, but by the surviving orders of Eclessia itself.
-
-This spiritual tension remained unresolved, simmering beneath outward unity.
-
----
-
-### **V. Refuge and Revelation**
-
-Eclessia became a haven for those fleeing the fallen heartland:
-
-- **Monks and mystics**, bearing sacred texts and partial flame relics.
-- **Disillusioned nobles**, seeking redemption through service or ascetic exile.
-- Survivors of lost legions, wounded and weary, but still sworn to the Redeemer.
-
-These refugees brought with them the final confirmations of Caleran’s fall—and stories of a general named **Altharic**, who was said to have survived and was gathering resistance in the mountains.
-
-Eclessia watched.
-
-And waited.
-
----
-
-### **VI. The Quiet Rebirth (Year 28+)**
-
-When word came that **a new empire had been named in Veridun**, some wept in relief, others in doubt. Eclessia sent no embassy, but **lit beacon-fires across the hills**, a silent signal seen for leagues.
-
-In the years to follow, Eclessia would remain a distinct, devout, and increasingly independent voice—bound in shared faith, yet walking its own path in flame.
-
-The seeds planted during this time—of regional militancy, religious autonomy, and fractured noble governance—would grow into the modern-day Eclessia: a **mosaic of duchies, kingdoms, and dominions**, deeply rooted in tradition, divided in ambition, but united beneath the ever-watchful eye of the **Eclessian Church**.
-
-> _“The fire does not speak with one tongue. We kept the coals in silence. Let others come now, and share the light.”_ — Elder Thaloros of the Red Cloister
+Between 908 and 975 AR, emergency lordships hardened into principalities. None could claim to be the whole empire. Adalmar's achievement was to conquer and marry these existing powers into a crown, not to invent civilization where none had stood.
 
 ## Navigation
 
+- [[The Rise of the Eclessian Duchies and Kingdoms]]
+- [[The Consolidation of the Eclessian Church]]
+- [[Chronology of the Known World (AR Dating)]]
 - [[Eclessia Overview]]
-- [[Canon Index]]
-- [[Canon Index]]
 

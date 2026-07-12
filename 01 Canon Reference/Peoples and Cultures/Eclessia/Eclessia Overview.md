@@ -23,6 +23,8 @@ Eclessia answers disorder through visible institutions: parish registers, relic 
 
 See [[Eclessia Cultural Thesis]] and [[The Making of the Eclessians]].
 
+Creator-facing authority and contradiction control are maintained in [[Eclessian Canon Register]].
+
 ## Present Crisis
 
 The [[Freeflame Reformation]] has broken the old Church's monopoly without ending the faith it challenged. The [[The Korrheim Accord]] freezes confession by territory, leaving mixed families, border parishes, reformist princes, and the Sanctum to live inside its silences. Behind both stands the older schism with Thalmyria and the still-unfulfilled reunification mandate.
@@ -68,6 +70,12 @@ Current rulers and political alignments are indexed in [[Present-Day Courts and 
 - [[Military and Warfare Overview]]
 - [[The Rise of the Eclessian Duchies and Kingdoms]]
 - [[Eclessia During the Invasion]]
+
+## Controlling Events
+
+- [[The Grey Sweat]]
+- [[Freeflame Reformation]]
+- [[The Korrheim Accord]]
 
 ## Story Use
 

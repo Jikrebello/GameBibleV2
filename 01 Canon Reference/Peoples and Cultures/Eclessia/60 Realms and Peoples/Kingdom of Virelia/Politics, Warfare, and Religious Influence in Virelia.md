@@ -1,139 +1,55 @@
 ---
-type: culture
+type: reference
 status: canon
 canon_level: local
-visibility: public
-era: []
-region: ["Eclessia"]
-culture: ["Eclessian"]
-related_factions: []
+visibility: restricted
+era: ["Present Day"]
+region: ["Virelia", "Eclessia"]
+culture: ["Eclessian", "Vesari"]
+related_factions: ["Eclessian Church", "Freeflame"]
 appears_in: []
-needs: []
+needs:
+  - determine Gregor IV's health and the formal date of the next election
+aliases: ["Virelian Politics and Warfare"]
 tags: []
 ---
-## **1. The Feuding Noble Houses of Virelia**
+# Politics, Warfare, and Religious Influence in Virelia
 
-### **Overview**
+## The Council of Sabres
 
-The **elective monarchy** of Virelia fosters a volatile political climate where noble houses **compete for dominance, influence elections, and vie for military and economic control**. With no permanent royal dynasty, every election is a battlefield of **alliances, betrayals, and clandestine maneuvering**.
+The Council elects a king after death, abdication, or lawful deposition; it does not hold routine elections. King Gregor IV Radomir still reigns. Current maneuvering concerns the eventual succession and the confessional settlement that will follow it.
 
-### **Major Noble Houses and Their Rivalries**
+The electorate combines the greatest magnates, senior officers, chartered ecclesiastical voices, and recognized provincial delegations. Roughly one-third now supports Freeflame candidates or guarantees.
 
-#### **House Radomir (Current Ruling House)**
-- **Supports military expansion and border defense**.
-- Controls **major cavalry academies** and wields influence over the Winged Lancers.
-- Deeply opposed by **House Arvidan**, which seeks to unseat them in the next election.
+## Principal Houses
 
-#### **House Arvidan (Chief Political Rivals)**
-- Advocates for **economic growth over war**, prioritizing trade agreements and urban development.
-- Has deep ties with **merchant guilds and coastal cities**.
-- Seeks to replace **King Gregor IV Radomir** in the upcoming election, favoring a more commercial ruler.
+- **House Radomir:** royal, old Church, and committed to preserving the present grain settlement.
+- **House Arvidan:** river commerce and towns; more open to Freeflame allies and labor reform where it weakens Radomir estates.
+- **House Siercan:** eastern frontier commanders; doctrinally mixed and concerned above all with defense.
+- **House Lovec:** woodland and rough-country lords with close ties to local custom and irregular cavalry.
 
-#### **House Siercan (The Guardians of the Eastern Marches)**
-- Oversees **the eastern frontier**, responsible for protecting Virelia against **pagan raiders**.
-- A fiercely **traditionalist house**, favoring **close ties to the Church and noble privileges**.
-- Supports **military-first policies**, but wary of the **political instability caused by frequent elections**.
+Likely future candidates include Prince Erik Radomir, Duke Marek Arvidan, and Countess Katarina Siercan. Their candidacies are preparations, not an election already under way.
 
-#### **House Lovec (The Wild Lords)**
-- Controls **vast forests and hunting grounds**, supplying timber, furs, and leather.
-- Neutral in most conflicts but **sells resources to both military and trade-focused factions**.
-- Recently accused of **smuggling arms to mercenary bands**, stirring unrest.
+## Preserved Recent Conflicts
 
-### **Noble Feuds and Recent Political Conflicts**
-- **The Broken Pact (10 years ago):** House Radomir accused House Arvidan of **buying votes in the last election**, nearly leading to civil war.
-- **The Trade War of Orzova (5 years ago):** House Arvidan attempted to **block grain exports to Radomir-controlled provinces**, causing food shortages.
-- **The Duel of the Crown (2 years ago):** A public **trial by combat** between a Radomir knight and an Arvidan champion ended in controversy, with accusations of foul play.
+- **The Broken Pact, 1350 AR:** evidence that Arvidan agents bought succession promises nearly caused armed confrontation. Gregor survived the crisis by refusing to name an heir.
+- **Trade War of Orzova, 1355 AR:** rival houses manipulated grain passage and town supply. The crown ended the blockade but not the commercial rivalry.
+- **Duel of the Crown, 1358 AR:** champions of Radomir and Arvidan fought over an accusation of forged lineage. Disputed ritual conduct left the underlying claim unresolved.
 
----
+## Confessional Politics
 
-## **2. The Upcoming Election: Power Struggles and Political Intrigue**
+Under the Korrheim Accord, the next king may determine Virelia's public rite. Old-Church magnates defend the western alliance; Freeflame houses promise audited estates and vernacular worship; an eastern party points to the Virelian Lamp in Veridun. Few magnates intend to free bound tenants regardless of confession.
 
-### **The Process of Electing a King**
-- The **Council of Sabres** gathers to vote for a new ruler upon the death or abdication of the king.
-- Each **noble house presents a candidate**, often after months of alliances, bribery, and secret negotiations.
-- **Church officials and military leaders** may endorse candidates but have no direct voting power.
-- If no candidate secures a majority, the kingdom falls into a **regency period**, often leading to unrest.
+## Warfare
 
-### **Contenders for the Next Election**
+Winged lancers are noble shock troops whose display is political as well as tactical. Hetmans negotiate contributions from houses and provinces. Frontier Guards patrol rivers and eastern roads; hired cavalry fills gaps but often answers more reliably to creditors than to the crown.
 
-#### **Prince Erik Radomir (House Radomir Candidate)**
-- Son of **King Gregor IV**, though **not guaranteed succession due to the elective system**.
-- A highly skilled **cavalry commander**, promising to expand Virelia’s military dominance.
-- Supported by **the Winged Lancers and border lords**, but faces strong opposition from merchant factions.
-
-#### **Duke Marek Arvidan (House Arvidan Candidate)**
-- A shrewd diplomat and **trade-focused noble**, seeking to **curtail military spending in favor of economic development**.
-- Backed by **merchant guilds and city leaders**, who favor **less taxation and freer trade**.
-- Opposed by **military hardliners**, who see his policies as weakening the kingdom’s defenses.
-
-#### **Countess Katarina Siercan (House Siercan Candidate)**
-- A **staunch traditionalist**, advocating for **closer ties to the Church and stricter feudal order**.
-- Believes the kingdom should **focus on internal stability and religious unity** rather than expansion.
-- Has support from **conservative noble factions** but is unpopular with the merchant class.
-
-### **Potential Outcomes and Consequences**
-- If **Radomir wins**, Virelia may pursue **aggressive military expansion** but could strain its economy.
-- If **Arvidan wins**, expect **economic reform**, though at the cost of **military discontent**.
-- If **Siercan wins**, the kingdom may see **greater Church influence** but risk **falling behind in modernization**.
-
----
-
-## **3. The Cavalry Warfare of Virelia**
-
-### **The Winged Lancers: Masters of Shock Combat**
-- Renowned for their **devastating cavalry charges**, capable of **breaking enemy lines in a single assault**.
-- Wear **ornate winged armor**, creating an intimidating presence in battle.
-- Primarily recruited from **noble families**, ensuring that cavalry officers hold political power as well.
-
-### **Tactics and Battlefield Doctrine**
-- **Feigned Retreats:** Lancers often **feign disorder** to lure enemies into a counter-charge trap.
-- **Hammer & Anvil Maneuvers:** Cavalry assaults pin enemy forces while **foot soldiers flank from the sides**.
-- **Religious Warfare:** Cavalry officers are **expected to pray before battle**, and victories are often attributed to divine favor.
-
-### **The Rise of Mercenary Cavalry**
-- Many **lesser noble families and mercenary bands** now train their own cavalry forces.
-- Some fear this will **undermine noble military traditions**, leading to **less centralized military control**.
-- The next king may be forced to **either integrate or suppress these new cavalry units**.
-
----
-
-## **4. The Role of the Church in Virelia**
-
-### **Religious Authority and Influence**
-- The **Eclessian Church holds immense power** in Virelia, though it does not directly control the government.
-- Bishops and high priests often **serve as political advisors**, pushing for **moral governance and Church-aligned policies**.
-- The kingdom hosts **several major pilgrimage sites**, drawing both revenue and influence from religious tourism.
-
-### **Church-Backed Policies**
-- **Tithes on Agriculture:** The Church levies **heavy taxes on grain and livestock**, leading to periodic disputes with noble landowners.
-- **Religious Courts:** Can prosecute **heresy, treason, and disputes between noble families**.
-- **Opposition to Mercenary Influence:** The clergy strongly opposes **the growing role of mercenary companies**, viewing them as **agents of instability**.
-
-### **Conflicts with the Nobility**
-- **House Radomir has resisted Church oversight**, refusing to raise taxes for religious campaigns.
-- **House Arvidan has worked with the clergy**, but only to ensure economic freedoms are upheld.
-- **House Siercan remains the Church’s strongest ally**, backing policies of **greater religious control over Virelia’s affairs**.
-
-### **Upcoming Religious Movements**
-- **Reformist Clerics:** A small but growing faction of priests **advocates for lower Church taxes** to improve **peasant living conditions**.
-- **The Call for a Crusade:** Some high-ranking bishops push for **a holy war against pagans**, seeking to reclaim lost lands.
-- **The Excommunication Controversy:** A debate within the Church on whether **nobles who violate religious laws should be stripped of their titles**.
-
----
-
-## **The Future of Virelia: A Kingdom at a Crossroads**
-
-With **political feuds, an approaching election, rising mercenary power, and Church influence**, Virelia’s future is uncertain:
-
-- **Will the next king be a warrior, a diplomat, or a religious zealot?**
-- **Will the cavalry traditions hold firm, or will new military tactics redefine warfare?**
-- **Will the Church tighten its grip, or will noble independence prevail?**
-
-The fate of Virelia will be decided **in battlefields, noble courts, and the sacred halls of the Church.**
+The Unwritten are runaway camps, raiders, guides, and occasional auxiliaries outside estate registers. They are not a unified faction. Both the crown and magnates alternately hire and hunt them.
 
 ## Navigation
 
-- [[Eclessia Overview]]
-- [[Canon Index]]
-- [[Canon Index]]
+- [[The Kingdom of Virelia Overview]]
+- [[Lives of Virelia]]
+- [[The Korrheim Accord]]
+- [[The Making of the Eclessians]]
 

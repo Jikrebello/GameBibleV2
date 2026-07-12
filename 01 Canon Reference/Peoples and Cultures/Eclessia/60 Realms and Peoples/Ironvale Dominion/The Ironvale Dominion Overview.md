@@ -1,132 +1,65 @@
 ---
-type: culture
+type: faction
 status: canon
-canon_level: local
+canon_level: core
 visibility: public
-era: []
-region: ["Eclessia"]
+era: ["Present Day"]
+region: ["Ironvale", "Eclessia"]
 culture: ["Eclessian"]
-related_factions: []
-appears_in: []
-needs: []
+related_factions: ["Freeflame", "Medori Bank"]
+appears_in: ["Grenzburg"]
+needs:
+  - fix the constitutional succession procedure below the Grand Minister
+aliases: ["Ironvale Dominion"]
 tags: []
 ---
-- **Capital:** Ironvale
-- **Government:** Guild-Oligarchy with Noble Oversight
-- **Ruler:** Grand Minister Aldric Weyn and the Council of Iron
-- **Primary Exports:** Iron, coal, steel, weapons, siege machinery, heavy industrial tools
-- **Major Cities:** Ironvale (Capital), Hammerford, Greystone, Blackridge
+# The Ironvale Dominion Overview
 
----
+Ironvale is the northern Markish foundry state where the Freeflame Reformation became a constitution. Coal, iron, wage labor, printing, bombards, and guild government distinguish it from the landed realms around it. Grand Minister Aldric Weyn governs through the Council of Iron.
 
-### **1. Overview**
+## Historical Formation
 
-The **Ironvale Dominion** is the **industrial and manufacturing powerhouse of Eclessia**, producing the vast majority of **iron, coal, and steel** that fuels the armies and fortifications of the realm. Unlike the traditional feudal duchies, Ironvale is ruled by a unique system where **wealthy industrial guilds and mining cartels hold significant power**, working alongside noble overseers who maintain order and defend key trade routes.
+Ironvale began as one of Gervin's marcher duchies. Its mines and fortified guild towns grew steadily, but the ducal house remained supreme until the fourteenth century.
 
-The region is characterized by **towering foundries, endless mines, and sprawling industrial centers**, where soot-blackened laborers toil day and night to produce the tools of war. The dominion’s influence stems from its **monopoly on metal production**, making it indispensable to **knightly orders, mercenary bands, and siege engineers across Eclessia**. However, its reliance on industrial output has also led to deep-seated class struggles, with **miners and factory workers often exploited by the ruling elite**.
+## The Grey Sweat
 
-Despite its economic strength, Ironvale is **not without conflict**. The balance of power between **noble families, industrialist guilds, and trade unions** is constantly shifting, and with technological advancements reshaping warfare, some question whether **Ironvale’s future lies in forging weapons for knights or in creating new machines of war that may render them obsolete**.
+Labor scarcity allowed miners, smiths, and carriers to demand wages and movement. Guild burial funds and neighborhood congregations replaced failed estate and parish structures. The social power that later sustained reform was forged during plague reconstruction.
 
-Ironvale's dukelessness is the Reformation's signature. The last duke, **Rainald**, sheltered Doctor Lucian Ferro and armed the heirs of the **Ashenmen risings** (1306–1329); the Wars of Reform cost his house its blood, its credit, and its Church standing, and the guilds filled the vacuum — the **Grand Ministry dates its charter to the house's extinction**. The Dominion remains Eclessia's **Freeflame stronghold**, claiming the mantle of its own martyr-patron **Saint Menos the Chain-Breaker**, the slave of its golem-forges (see [[The Twelve Companions of the Redeemer]] and [[Named Figures of the Known World]]). Church regulation of its black-powder experiments is read locally as the old enemy's newest leash.
+## Reformation and Accord
 
----
+Ansgar's marches preaching found its strongest armed support in Ironvale. Duke Rainald sheltered Doctor Lucian Ferro and backed heirs of the Ashenmen Risings. The Reform Wars exhausted his house in blood, debt, and legitimacy. When the line became extinct, the guild ministries assumed government and dated the Grand Ministry from that transfer.
 
-### **2. Government & Political Structure**
+The Accord recognizes Ironvale as Freeflame territory. Old-Church households may remain only under local toleration and have no general right to public worship.
 
-#### **Grand Minister Aldric Weyn and the Council of Iron**
+## Government and Faith
 
-- The de facto ruler of Ironvale is **Grand Minister Aldric Weyn**, an influential industrialist and guild leader.
-- Unlike traditional nobility, he **rose to power through economic might**, controlling the **largest steelworks and mining operations** in the dominion.
-- His rule is **not absolute**, as he must balance the interests of both **the noble families and the industrial guilds**.
-- He is a strong advocate for **military mechanization**, pushing for **early gunpowder weapons, siege machines, and armor enhancements**.
+The Council of Iron represents the principal guilds, foundry districts, chartered congregations, and military offices. Weyn is elected from within that structure rather than crowned. Tested elders share civic authority but do not form a separate priestly estate.
 
-#### **The Council of Iron**
+Freeflame discipline supports literacy, mutual aid, and public accounting. It can also become moral surveillance, with employment and reputation tied to congregational judgment.
 
-- A governing body composed of **wealthy guild leaders, noble lords, and military commanders**.
-- Ensures that **industrial production remains uninterrupted** while maintaining stability between competing factions.
-- Has the power to **levy taxes on guilds, negotiate trade agreements, and approve military contracts**.
-- Divided into **pro-mechanization factions**, who push for **new technologies**, and **traditionalists**, who still support **supplying knightly orders**.
+## Economy and Society
 
-#### **Noble Houses & Industrial Guilds**
+Coal, iron, tools, plate, artillery, scripts, and pamphlets drive the Dominion. Workers are free in law and exposed to injury, debt, and employer power in fact. Medori credit reaches the Council through equipment finance and export contracts.
 
-- **House Blackridge**: The **oldest noble family**, responsible for maintaining **law, order, and defense** of key mining settlements.
-- **House Greystone**: Oversees **the largest coal mines**, supplying the foundries of Ironvale and **controlling the flow of fuel**.
-- **The Forgekeepers’ Guild**: An industrial powerhouse, controlling **the production of weapons, siege machines, and military-grade armor**.
-- **The Miners’ Syndicate**: Represents **iron, coal, and steel laborers**, often clashing with guild leaders over working conditions.
-- **The Red Anvil Consortium**: A rising faction advocating for **gunpowder weaponry and mechanical innovation**, seen as heretical by knightly orders.
+## Warfare
 
----
+The Blackened Guard protects the state; the Ironclad Siege Corps operates bombards and warlock-assisted engines; Smelterborn Brigades combine disciplined infantry with industrial logistics. Ironvale sells arms to governments whose theology it condemns.
 
-### **3. Economy & Trade**
+## Present Tensions
 
-Ironvale’s **entire economy revolves around industry**, making it both the wealthiest and most unstable region in Eclessia.
+- The Greystone labor conflict tests whether guild citizenship protects workers or only masters.
+- Black powder and Shell scripts threaten old military and religious limits.
+- Old ducal loyalists, displaced Church interests, and foreign financiers seek leverage.
+- Reformist certainty risks reproducing the coercion it overthrew.
 
-- **Metal Production**: Supplies **90% of all iron, steel, and weaponry** used by Eclessian armies.
-- **Black Powder Trade**: Though controversial, Ironvale has begun **experimenting with gunpowder**, producing early hand cannons and bombards.
-- **Industrial Machinery**: Provides **siege engines, plate armor, and war-forged tools** to both noble armies and mercenary bands.
-- **Coal & Fuel**: Controls the **primary sources of coal**, making it **indispensable to blacksmiths and foundries** across Eclessia.
+## Story Uses
 
-However, economic dominance breeds resentment:
-
-- **The Eclessian Church heavily regulates experimental weapons**, fearing that technological advancements could **undermine the power of knights and divine combat traditions**.
-- **Mercenary bands often raid Ironvale’s supply lines**, seeking to **control lucrative shipments of weapons and siege engines**.
-- **Labor riots and industrial unrest** are growing, as miners and foundry workers **demand better wages and conditions**.
-
----
-
-### **4. Military Power & Notable Units**
-
-Despite being an industrial power, Ironvale maintains a **highly disciplined standing army**, specializing in **siege warfare and defensive tactics**.
-
-#### **The Blackened Guard**
-
-- Elite warriors clad in **heavy, soot-darkened armor**, wielding **massive warhammers and tower shields**.
-- Trained for **urban combat and fortress defense**, they are among the best defenders in Eclessia.
-
-#### **The Ironclad Siege Corps**
-
-- Engineers and siege masters responsible for **constructing trebuchets, ballistae, and newly developed bombards**.
-- Their knowledge is highly sought after by both **Eclessian noble lords and foreign invaders**.
-
-#### **The Smelterborn Brigades**
-
-- A militia composed of **miners and factory workers**, armed with **mass-produced weapons** and known for **brutal, close-quarters combat**.
-- Often used to **suppress labor riots**, though some defect to mercenary groups.
-
----
-
-### **5. Internal Conflicts & Power Struggles**
-
-#### **The Black Powder Controversy**
-
-- The rising **use of gunpowder weapons** threatens **the dominance of knightly orders**, leading to tensions with **Church-aligned forces**.
-- Some nobles fear that the **introduction of firearms could change the nature of war**, making heavily armored cavalry obsolete.
-
-#### **The Greystone Labor Riots**
-
-- A major uprising where **thousands of miners went on strike**, demanding better conditions.
-- The revolt was **brutally suppressed by the Blackened Guard**, but it left deep scars, leading to the rise of **underground resistance groups**.
-
-#### **The Mercenary Disputes**
-
-- As Ironvale supplies **both noble armies and mercenaries**, it has been accused of **arming enemies of the faith**.
-- Some noble factions have **demanded tighter restrictions**, but guild leaders argue that **profit knows no allegiance**.
-
----
-
-### **6. The Future of Ironvale**
-
-Ironvale stands at a **tipping point**:
-
-- Will it **embrace new technology**, reshaping the battlefield with gunpowder and siege machines?
-- Will the **Church and knightly orders suppress these advancements**, fearing the end of traditional warfare?
-- How long can **the delicate balance between nobles, guilds, and laborers hold** before full-scale rebellion erupts?
-
-With **Grand Minister Aldric Weyn** pushing for **innovation** but facing **political opposition**, the future of Ironvale will be decided **not only by war, but by the fires of industry and the struggles of its people**.
+Industrial espionage, labor organization, forbidden relics in foundry foundations, weapon smuggling, Freeflame trials, Bank coercion, and ducal restoration plots.
 
 ## Navigation
 
+- [[Conflicts and Underground Movements]]
+- [[Lives of Ironvale]]
+- [[Freeflame Reformation]]
 - [[Eclessia Overview]]
-- [[Canon Index]]
-- [[Canon Index]]
 

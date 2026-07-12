@@ -6,7 +6,7 @@ visibility: public
 era: ["Present Day"]
 region: ["Eclessia"]
 culture: ["Eclessian"]
-related_factions: []
+related_factions: ["Eclessian Church", "Freeflame"]
 appears_in: []
 needs: ["add two named representative NPCs and one settlement-level story seed"]
 tags: []

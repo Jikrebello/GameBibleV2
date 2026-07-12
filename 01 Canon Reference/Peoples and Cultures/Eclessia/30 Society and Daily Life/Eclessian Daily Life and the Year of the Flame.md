@@ -6,14 +6,14 @@ visibility: public
 era: ["Present Day"]
 region: ["Eclessia"]
 culture: ["Eclessian"]
-related_factions: []
+related_factions: ["Eclessian Church", "Freeflame"]
 appears_in: []
 needs: ["align feast dates with the final calendar"]
 tags: []
 ---
 # Eclessian Daily Life and the Year of the Flame
 
-Commandment 8's second half: how Eclessians actually eat, marry, mourn, sing, and lie to each other. Regional registers follow [[The Making of the Eclessians]]; the confessional splits follow the Reformation canon.
+Commandment 8's second half: how Eclessians actually eat, marry, mourn, sing, and lie to each other. Regional registers follow [[The Making of the Eclessians]]; confessional practice follows the Reformation settlement.
 
 ## The Year of the Flame (the twelve liturgical months)
 
@@ -27,7 +27,7 @@ The Church's calendar overlays the old Atherian civic grid: twelve months, a sev
 6. **Harvestmonth** (first fruits; grain tithes; the month of weddings, because the larders can bear a feast)
 7. **Aquilantide** (Saint Aquilan's feast, when the *whole* verse of the Tower-Born epistle must be read aloud — root and branch both — a rubric written in black ink after dark centuries)
 8. **Wanefall** (autumn slaughter and salting; Saint Myra's feast: foundling processions, alms for mothers)
-9. **Souls-month** (the month of the dead: grave-tending, the Rite of the Empty Seat, Ischar's name spoken once and refused; sextons bless the cemetery bounds — see the ghoul canon for why this is not sentiment)
+9. **Souls-month** (the month of the dead: grave-tending, the Rite of the Empty Seat, Ischar's name spoken once and refused; sextons bless the cemetery bounds because those wards materially discourage ghouls)
 10. **Emberfast** (the great fast; no meat, dim lamps, catechism season)
 11. **Kindlenight** (midwinter: the Vigil of the Last Ember, every hearth relit from the church lamp; gift-small, light-large)
 12. **Thawwait** (the mud month; nothing happens in Thawwait, an Eclessian proverb for futility: *"as busy as Thawwait"*)

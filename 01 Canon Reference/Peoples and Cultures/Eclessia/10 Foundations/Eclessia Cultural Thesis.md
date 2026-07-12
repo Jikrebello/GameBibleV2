@@ -6,7 +6,7 @@ visibility: public
 era: ["Present Day"]
 region: ["Eclessia"]
 culture: ["Eclessian"]
-related_factions: ["Eclessian Church"]
+related_factions: ["Eclessian Church", "Freeflame"]
 appears_in: []
 needs: []
 tags: []
@@ -38,9 +38,9 @@ Eclessia is tempted to confuse institutional control with divine truth. It can m
 - mercy orders versus inquisitorial orders,
 - sincere faith versus political churchcraft.
 
-## Cultural Texture to Add
+## Cultural Expression
 
-Develop feast calendars, relic processions, parish festivals, confession customs, guild patron saints, reform pamphlets, pilgrimage economies, cathedral schools, folk heresies, rural saints, and regional rivalries.
+Feast calendars, relic processions, parish festivals, confession customs, guild patrons, reform pamphlets, pilgrimage economies, cathedral schools, rural saints, and regional rivalries make institutional questions visible in ordinary life.
 
 ## Moral Frame
 
@@ -49,3 +49,6 @@ Eclessia can be genuinely holy and genuinely corrupt. Its danger is not that tru
 ## Navigation
 
 - [[Eclessia Overview]]
+- [[The Making of the Eclessians]]
+- [[Eclessian Church Overview]]
+- [[Freeflame Reformation]]

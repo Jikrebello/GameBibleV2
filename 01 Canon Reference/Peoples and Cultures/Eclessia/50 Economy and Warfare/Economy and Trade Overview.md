@@ -1,103 +1,66 @@
 ---
-type: culture
+type: reference
 status: canon
-canon_level: local
+canon_level: core
 visibility: public
-era: []
+era: ["1232-1360 AR", "Present Day"]
 region: ["Eclessia"]
 culture: ["Eclessian"]
-related_factions: []
-appears_in: []
-needs: []
+related_factions: ["Eclessian Church", "Freeflame", "Medori Bank"]
+appears_in: ["Grenzburg"]
+needs:
+  - add interregional price bands after the population atlas is fixed
+aliases: ["Eclessian Economy and Trade"]
 tags: []
 ---
-Eclessia’s economy is **diverse and interdependent**, shaped by the unique geography, industries, and traditions of each region. While the **church dominates cultural life**, economic power rests largely in the hands of **nobles, merchant guilds, and industrialists**, who oversee production, trade, and taxation. Due to the lack of a central authority, trade is often conducted through **regional treaties, trade leagues, and alliances**, with periodic conflicts over tariffs and monopolies. The economy is built on a foundation of **agriculture, mining, industry, and commerce**, with distinct economic centers emerging in each territory.
+# Economy and Trade Overview
 
-### **Merchant Guilds and Economic Power Factions**
+Eclessia is not one market. It is a chain of grain estates, cathedral towns, river cantons, foundry cities, vineyard courts, monastic workshops, and frontier fairs joined by old Atherian roads and divided by tolls, confession, and law.
 
-Eclessia’s economy is dominated by a web of **merchant guilds, industrial cartels, and noble-backed trade networks**, each vying for control over markets and resources. While the church provides a unifying force, its influence does not extend into the cutthroat world of commerce, where **alliances, espionage, and economic warfare** dictate success.
+## The Plague Settlement
 
-#### **The Merchant Guilds of Ostermark** – _(Maritime Trade & Banking)_
+The Grey Sweat removed labor faster than land. In most western and central territories, survivors demanded wages, fixed rents, inheritance, and freedom to move. Guilds and towns grew stronger; monasteries leased abandoned holdings; rulers competed for settlers.
 
-- **The Guild of the Silver Compass**: Controls **maritime trade, shipping lanes, and overseas commerce**. They own the **largest fleet of merchant vessels**, dictating tariffs and tolls.
-- **The House of Gold & Ink**: The most influential **banking syndicate**, funding **wars, construction projects, and noble ventures**. They offer loans but are notorious for foreclosures and debt collection through **mercenary enforcement**.
-- **The Sable Coalition**: Operates **smuggling rings**, evading church tithes and tariffs. They move **contraband goods**, from exotic spices to heretical manuscripts, using hidden networks.
+Virelia chose the opposite settlement. Its sabre-right nobility bound surviving tenants to demesne estates, expanded compulsory labor, and used river export contracts to enforce a second serfdom. Virelian grain feeds much of Eclessia, while runaways feed its roads and southern frontiers.
 
-#### **The Ironvale Foundry Lords** – _(Mining & Heavy Industry)_
+Broken plague registers remain economic weapons. A monastery, village, noble, and guild can each hold plausible title to the same abandoned field. Lay notaries from Veridancia and Aurelia now compete with parish clerks to determine which memory has force.
 
-- **The Brotherhood of the Anvil**: A cartel of **foundry owners, blacksmith guilds, and iron barons**, controlling **iron, steel, and weapons production**.
-- **The Flame Consortium**: Oversees **coal, fuel, and alchemical industry**, with strong ties to **Halmburg’s alchemists and siege engineers**.
-- **The Black Chain Syndicate**: A secretive organization controlling the **indentured labor market**, accused of exploiting **prisoners, war captives, and debt slaves**.
+## Confessional Property
 
-#### **The Wine Consortium of Veridancia** – _(Luxury Goods & Noble Trade)_
+The Freeflame Reformation redistributed enormous wealth. Reformist rulers dissolved or converted monasteries, transferred tithes to civic funds, and placed parish property under territorial control. Some used the proceeds for schools and poor relief; others enriched their houses.
 
-- **The Veridancian Concord**: Regulates **vineyards, breweries, and distilleries**, ensuring **wine exports maintain exclusivity**.
-- **The House of Gilded Petals**: A **luxury goods syndicate**, handling **perfumes, fine fabrics, and glassworks**. They cater to **aristocrats and clergy**, often securing **religious commissions**.
-- **The Autumn Pact**: A shadowy faction specializing in **black-market luxury trade**, selling **counterfeit relics, rare artifacts, and illicit narcotics**.
+The Korrheim Accord recognizes territorial settlements but not every private claim. Displaced clergy, heirs of confiscating nobles, surviving monastic corporations, and mixed-confession towns continue to litigate ownership.
 
-#### **The Paladin Orders of Caldria** – _(Military Economy & War Industry)_
+## Regional Economies
 
-- **The Order of the Crimson Pact**: Functions as a **mercenary contractor**, renting out **knightly orders and elite cavalry** to warring nobles.
-- **The Armsman’s Union**: Regulates the sale of **siege equipment, fortifications, and training facilities**.
-- **The Holy Tribunal of the Tithe**: A religious faction enforcing **church-mandated war taxes**, often clashing with secular rulers.
+- **Aurelia:** pilgrimage, court administration, relic licensing, education, luxury craft, and a surviving gray market in assurances.
+- **Veridancia:** wine, silk, books, trained notaries, court culture, and controlled printing.
+- **Caldria:** arms, horses, fortification, military schools, and frontier provisioning.
+- **Virelia:** grain, timber, horses, cattle, river tolls, and labor extracted from bound estates.
+- **Ironvale:** coal, iron, tools, bombards, printed pamphlets, and wage industry.
+- **Korrheim:** engineering, transit, mercenary contracts, mountain livestock, and protected civic credit.
+- **Brauvalis:** ale, medicine, ceramics, cloth, hops, monastic craft, and hospitality.
+- **Sylvan Marches:** timber, resin, furs, relic salvage, charcoal, and dangerous seasonal trade.
 
-#### **Independent Trade Networks & Secret Markets**
+## Institutions and Networks
 
-- **The Wandering Coin**: A **traveling merchant guild**, composed of **nomadic traders, caravaneers, and fortune-seekers**. They connect **isolated villages and frontier towns**, selling goods where others dare not go.
-- **The Shadow Market of Ostwald**: A clandestine market in **Korrheim**, known for selling **illegal alchemy, heretical texts, and stolen relics**.
-- **The Brotherhood of Ash & Ink**: A **scribe's guild** turned **forgers**, dealing in **fake documents, counterfeit seals, and fabricated historical records**.
+Guilds regulate apprenticeship, quality, burial funds, militia duty, and political representation. The **House of Gold and Ink** is an Aurellian notarial-credit league rather than a sovereign bank. It refinances clerical estates and often carries Medori paper. Ironvale's **Flame Consortium** coordinates fuel and alchemical supply. The **Black Chain** is an illegal network moving prisoners, debtors, and bound labor across jurisdictions.
 
----
+Medori credit sits behind rulers, bishops, contractors, and grain exporters. It does not replace local finance; it connects local obligations into a system no one court can easily audit.
 
-### **Economic Rivalries & Trade Conflicts**
+## Long Rivalries
 
-The fragmented nature of Eclessia fosters intense **economic rivalries**, with guilds and noble houses engaging in both **legal and clandestine conflicts** to secure dominance.
+The Veridancian wine and Brauvalian ale dispute is a century of tariffs, naming rights, adulteration trials, and sabotage rather than one continuous war. Caldria's war contractors repeatedly demand a larger share of Church and princely taxation. Ironvale and Virelia depend on each other for metal and food while condemning each other's labor systems.
 
-- **The Ostermark-Ironvale Dispute**: Ostermark's merchant fleet seeks to bypass Ironvale's control over **raw materials**, leading to tensions over **exclusive shipping rights**.
-- **The Veridancia-Brauvalis Wine & Ale War**: A century-long feud between **Veridancia’s wine barons and Brauvalis’ brewers**, fueled by **taxation disputes and sabotage**.
-- **The Caldria-Drusenwald War Economy Feud**: Caldria profits from **holy wars**, while Drusenwald, as a border defense region, demands a **larger share of military funding**.
-- **The Church vs. The Guilds**: The **Eclessian Church** attempts to impose **tithes and moral regulations** on merchants, while **secular guilds resist clerical control**.
+## Story Uses
 
----
-
-### **Smuggling Rings & Underground Economies**
-
-Beyond the sanctioned trade routes, a vast **black market** thrives beneath the surface, controlled by rogue factions and criminal syndicates.
-
-#### **The Black Ledger Cartel** – _(Illicit Trade & Smuggling)_
-
-- A **multi-territorial syndicate** that specializes in smuggling **forbidden relics, narcotics, and stolen goods**.
-- They have deep roots in **Drusenwald’s border towns**, using hidden passes to smuggle goods.
-
-#### **The Blood Coin Brotherhood** – _(Mercenary & Slave Trade)_
-
-- Operates in **Sylvan Marches and Korrheim**, dealing in **stolen prisoners, captured pagans, and mercenary contracts**.
-- Many **rogue knightly orders** secretly employ them for **unofficial campaigns**.
-
-#### **The Ivory Fang Syndicate** – _(Heresy & Forbidden Knowledge)_
-
-- A network of **scholars, mages, and dissidents** trafficking in **forbidden books, alchemical contraband, and ancient magic**.
-- Their hidden libraries are said to contain **pre-Atherian texts and lost rituals**.
-
----
-
-### **Trade Networks and Market Influence**
-
-Eclessia’s economy is structured around **regional trade networks**, with **guilds, nobles, and independent cities** competing for dominance. The strongest economic players are:
-
-- **The Merchant Guilds of Ostermark** – control international trade and finance
-- **The Ironvale Foundry Lords** – dominate mining and weapon production
-- **The Wine Consortium of Veridancia** – regulates luxury goods and vineyard exports
-- **The Paladin Orders of Caldria** – control the war economy through church-backed campaigns
-- **The Black Ledger Cartel & Shadow Markets** – manage the underground economy
-
-These competing factions shape Eclessia’s **economic policies**, sometimes cooperating, sometimes engaging in bitter conflicts over **tariffs, supply lines, and monopolies**.
-
-With no central authority regulating commerce, Eclessia’s economy is both **prosperous and volatile**, driven by **alliances, feuds, and the ambitions of powerful guilds and noble houses**.
+Useful conflicts include a plague title with three lawful owners, a monastery converted into a hospital, smuggled Freeflame books hidden in wine casks, Virelian runaways claimed under the Accord, counterfeit assurance certificates, and a Medori loan whose collateral is a parish's future tithe.
 
 ## Navigation
 
 - [[Eclessia Overview]]
-- [[Canon Index]]
-- [[Canon Index]]
+- [[The Grey Sweat]]
+- [[Freeflame Reformation]]
+- [[The Korrheim Accord]]
+- [[Military and Warfare Overview]]
 

@@ -3,17 +3,17 @@ type: culture
 status: canon
 canon_level: core
 visibility: public
-era: []
+era: ["Atherian Imperial Age", "905-1360 AR"]
 region: ["Eclessia"]
 culture: ["Eclessian"]
-related_factions: []
+related_factions: ["Eclessian Church"]
 appears_in: []
 needs: []
 tags: []
 ---
 # The Making of the Eclessians
 
-There is no such thing as "an Eclessian" the way there is an Ättar or a Jirahar. Eclessia is a **layered ethnogenesis** — like real Europe, a hodgepodge of substrates, settlers, and conquerors fused by one Church — and every duchy's character, naming register, and grudges follow from which layers went into it.
+There is no such thing as "an Eclessian" in the same sense that there is an Ättar or a Jirahar. Eclessia is a **layered ethnogenesis**: substrates, settlers, provincial populations, and conquerors historically fused by a shared Church inheritance. Every realm's character, naming register, and grudges follow from the layers that formed it.
 
 ## The Layers
 
@@ -35,11 +35,11 @@ There is no such thing as "an Eclessian" the way there is an Ättar or a Jirahar
 - **Virelia:** Vesari substrate under a Latinate-Markish crown veneer; elective, cavalry-proud, east-facing.
 - **Korrheim, Brauvalis, Ironvale, Grenzburg's duchy:** Markish — guild towns, cantons, marcher lords, the Reformation's cradle (Ansgar was a marches friar; the register is his).
 - **The southern coasts:** a raided, Folk-fringed frontier — watchtowers and beacon-levies, not a settled sea-people (the Ättar coast-creole is Thalmyric; see [[The Saltborn Coast Overview]]).
-- **The Sylvan Marches:** Enaidfae substrate barely under the paint — "technically Eclessia," per its own canon.
+- **The Sylvan Marches:** Enaidfae substrate barely under the paint and only intermittently governed from the settled east.
 
 ## The Choosing at Strazgorod (1061 AR)
 
-Virelia's conversion is the east's great story — the Rus treatment, with a twist. **Prince Radomir I of Strazgorod**, first of the royal house, sent sworn envoys to test the four faiths:
+Virelia's conversion is the east's great choosing. **Prince Radomir I of Strazgorod**, first of the royal house, sent sworn envoys to test the four faiths:
 
 - **The Covenant** they refused: *"Their law is a marvel and a cage; they would hold our souls' names in a vault."*
 - **The Path of the Jirahar** they refused: *"A god who wanders owns no land, and we are a people of land."*

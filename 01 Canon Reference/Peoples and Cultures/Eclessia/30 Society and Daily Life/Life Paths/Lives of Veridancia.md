@@ -4,9 +4,9 @@ status: canon
 canon_level: core
 visibility: public
 era: ["Present Day"]
-region: ["Eclessia"]
+region: ["Veridancia", "Eclessia"]
 culture: ["Eclessian"]
-related_factions: []
+related_factions: ["Eclessian Church", "Order of the Lantern", "Freeflame"]
 appears_in: []
 needs: ["add two named representative NPCs and one settlement-level story seed"]
 tags: []
@@ -25,7 +25,7 @@ The **Lantern seminaries** are the Counter-Reformation's engine and the poor boy
 
 ## The Printer and the Merchant
 
-Veridancia and Ironvale run the presses of the east — here, under license: catechisms, council decrees, devotional bestsellers, and the *approved* refutations. The printer's road is prosperous and razor-edged: the same shop that sets the Lantern's Latin can set a banned pamphlet in a night-run, and the margin on contraband is triple. The merchant road runs through the **Silk Duchess's** consortium (canon: the recognized merchant class): guild wedding to guild, factor postings abroad, and the class's great ambition — a son in the seminaries, a daughter into the lesser nobility, the family arms one generation from respectability.
+Veridancia and Ironvale run the presses of the east — here, under license: catechisms, council decrees, devotional bestsellers, and the *approved* refutations. The printer's road is prosperous and razor-edged: the same shop that sets the Lantern's Latin can set a banned pamphlet in a night-run, and the margin on contraband is triple. The merchant road runs through the **Silk Duchess's consortium**, the recognized court-facing merchant league: guild wedding to guild, factor postings abroad, and the class's great ambition — a son in the seminaries, a daughter into the lesser nobility, the family arms one generation from respectability.
 
 ## The Priest and the Bishop
 

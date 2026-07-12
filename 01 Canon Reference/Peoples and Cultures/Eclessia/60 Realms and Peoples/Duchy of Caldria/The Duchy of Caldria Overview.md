@@ -1,106 +1,62 @@
 ---
 type: faction
 status: canon
-canon_level: local
+canon_level: core
 visibility: public
-era: []
-region: ["Eclessia"]
+era: ["Present Day"]
+region: ["Caldria", "Eclessia"]
 culture: ["Eclessian"]
-related_factions: []
+related_factions: ["Eclessian Church", "Order of the Lantern"]
 appears_in: []
-needs: []
+needs:
+  - define the current frontier command districts
+aliases: ["Duchy of Caldria"]
 tags: []
 ---
-- **Capital:** Caldros
-- **Government:** Feudal Military Duchy
-- **Ruler:** Grand Duke Alric IV von Caldria
-- **Primary Exports:** Weapons, armor, warhorses, military training, religious relics
-- **Major Cities:** Caldros (Capital), Varendor, Stagfort, Dornheim
+# The Duchy of Caldria Overview
 
----
+Caldria is Eclessia's northwestern fortress duchy: a Latinate-Markish frontier society shaped by the Third Crusade, military estates, order compounds, and a court that treats readiness as a religious duty. Grand Duke Alric IV remains old Church while modernizing against Ironvale artillery and warlock scripts.
 
-### **1. Overview**
-The **Duchy of Caldria** is a land defined by **war, faith, and unwavering discipline**. Known for its **elite knightly orders, disciplined armies, and religious devotion**, Caldria is the **martial heart of Eclessia**, standing as a bulwark against heretics, pagans, and foreign invaders. The duchy’s military academies produce **some of the finest warriors**, blending rigorous martial training with religious indoctrination, ensuring that its soldiers fight with both **steel and faith**.
+## Historical Formation
 
-Unlike other duchies, where political maneuvering and trade dominate, Caldria’s influence is **secured through military power and religious fervor**. Its people are raised from birth to value **duty, loyalty, and sacrifice**, with nobility expected to **lead from the front**. While other realms engage in diplomacy and commerce, Caldria prepares for **holy war and crusades**, making it the preferred launching point for **Church-sanctioned military campaigns**.
+Caldria halted the Qahirid advance in 906-908 AR. Its emergency commanders, bishops, and orders became a permanent military aristocracy. Gervin's inheritance at Drossfeld confirmed the territory but never erased the orders' independent charters.
 
-Despite its strength, Caldria is **not without internal conflicts**. The balance of power between **ducal authority, knightly orders, and the Church** is constantly shifting, and as military innovations evolve, some **question the duchy’s reliance on traditional knightly warfare**.
+The War of the Crimson Banner, 1288-1295, secured a disputed relic for the Church courts and its toll road for Caldria. The so-called Schism Wars of 1310-1324 were Caldria's Reform War campaigns, not a separate religious fracture.
 
----
+## The Grey Sweat
 
-### **2. Government & Political Structure**
+The duchy lost fewer people than the deep east but enough to imperil its garrisons. Lords converted labor services into fixed military rents, offered abandoned holdings to veterans, and admitted skilled refugees. These concessions created a freer peasantry than Virelia's while preserving severe conscription.
 
-#### **Grand Duke Alric IV von Caldria**
-- A **fearsome warrior and devout leader**, Grand Duke Alric IV is the embodiment of Caldria’s martial spirit.
-- His rule is **absolute on the battlefield**, but politically, he must **negotiate with knightly orders and religious leaders**.
-- He seeks to **modernize Caldria’s military**, introducing new siege tactics and defensive strategies, which have **alienated some traditionalists**.
-- A staunch ally of the Eclessian Church, but he has begun to **clash with some high-ranking clergy over military funding and autonomy**.
+## Reformation and Accord
 
-#### **The War Council of Caldros**
-- A ruling body composed of **ducal generals, knightly grandmasters, and high-ranking clergy**.
-- Oversees **military campaigns, city fortifications, and crusade logistics**.
-- Ensures that **no single knightly order becomes too powerful**, preventing potential coups against the duke.
+Caldria fought for the old Church during the Reform Wars. The War of the Broken Lance, 1335 AR, was an internal mutiny by officers refusing a purge of Freeflame soldiers; its settlement established mixed-unit service articles. The Accord confirms old-Church rule but protects recognized passage and limits cross-border campaigning.
 
-#### **[[Knightly Orders & Power Struggles]]**
-- **The Order of the Silver Cross** – The most prestigious and elite knightly order, tasked with leading **holy wars and crusades**.
-- **The Brotherhood of Stagfort** – A militant monastic order known for **fanatical devotion** and brutal tactics against heretics.
-- **The Iron Banner Knights** – A more secular order, focused on **military strategy and discipline**, often at odds with religious zealots.
-- **The Lance of Dornheim** – A cavalry-focused order, specializing in **shock warfare and field maneuvers**, but with **declining influence due to battlefield innovations**.
+## Government and Faith
 
-While all these factions serve Caldria, **rivalries and ideological differences** sometimes lead to tensions, particularly when it comes to **the Church’s role in military affairs**.
+Alric IV rules through the War Council of Caldros, territorial nobility, bishops, and chartered orders. Fortress chapels, veterans' confraternities, and campaign litanies dominate public religion. Lantern investigators are respected when hunting real supernatural threats and resented when reviewing military relics.
 
----
+## Society and Economy
 
-### **3. Military & Warfare**
+Horse breeding, arms, fortification, military schools, and supply contracts organize the duchy. Rank can elevate a common soldier, but military law reaches deeply into family life. Border towns are multilingual and less doctrinally tidy than court proclamations.
 
-#### **Caldria’s Military Doctrine**
-- **Heavy Cavalry Dominance** – Caldrian knights are **renowned for their devastating cavalry charges**, capable of breaking enemy lines in a single assault.
-- **Fortified Strongholds** – Cities and towns are built like **fortresses**, designed to withstand prolonged sieges.
-- **Crusader Mentality** – Soldiers are instilled with **religious zeal**, believing that battle is a form of divine service.
-- **Mercenary Regulation** – Unlike other duchies, Caldria strictly controls the use of mercenaries, preferring **oaths of loyalty over gold**.
+## Warfare
 
-#### **Historical Conflicts & Crusades**
-- **The Great Pagan War (150 years ago)** – A massive campaign against the **Fäskogarfolk**, where Caldria established **fortified outposts in enemy lands**.
-- **The Siege of Dornheim (90 years ago)** – The last major **defensive war against an eastern invasion**, where Caldrian knights held out for three months before reinforcements arrived.
-- **The Schism Wars (50 years ago)** – When a faction within the Eclessian Church attempted to form a **separate military-religious state**, Caldria crushed the rebellion in a brutal campaign.
-- **The War of the Broken Lance (25 years ago)** – A dispute between **The Order of the Silver Cross and the Iron Banner Knights**, nearly resulting in a civil war within Caldria.
+Caldria combines heavy cavalry, disciplined infantry, engineers, fortified passes, and licensed warlocks. Debate over bombards is practical as well as moral: new weapons weaken the mounted houses on which the duchy's political order rests.
 
----
+## Present Tensions
 
-### **4. Economy & Trade**
-While known for its military might, Caldria also boasts a **strong wartime economy**, focused on **weapon production, horse breeding, and fortress construction**.
+- Alric's modernization against order privilege.
+- Old-Church loyalty versus the service of Freeflame soldiers.
+- Competition with Ironvale for weapons and engineers.
+- A frontier culture tempted to turn permanent readiness into permanent war.
 
-- **Weapons & Armor**: Caldrian forges produce some of the **finest blades and plate armor**, with blacksmiths considered **as vital as warriors**.
-- **Warhorses**: The duchy’s breeding farms produce **massive destriers**, trained for battlefield dominance.
-- **Religious Relics & Pilgrimages**: The Church funds **holy sites and relic markets**, drawing in **devout warriors and noble patrons**.
-- **Fortification Industry**: Caldrian masons are in high demand, constructing **castles, monasteries, and siege defenses** across Eclessia.
+## Story Uses
 
-However, Caldria’s **dependence on a wartime economy makes it vulnerable** during peacetime, often leading to **unofficial border skirmishes or manufactured conflicts** to sustain demand.
-
----
-
-### **5. Culture & Society**
-Caldria’s society is structured around **duty, faith, and martial excellence**.
-
-- **Honor & Chivalry**: Knights are expected to uphold **a strict code of duty**, though some interpret it more flexibly.
-- **Religious Zeal**: The Church plays a **major role in daily life**, with **mandatory prayer before battle** and **sermons in training halls**.
-- **Strict Social Order**: Nobility leads, warriors fight, and artisans forge. Few break free from their assigned roles.
-- **Warrior Festivals**: Events like the **Grand Melee of Caldros** celebrate **combat skill and knightly valor**, drawing warriors from across Eclessia.
-
----
-
-### **6. Internal Conflicts & Future Challenges**
-Despite its strength, Caldria faces **internal and external challenges**:
-
-- **Knightly Rivalries** – The **rising influence of more secular military factions** threatens **traditional religious orders**.
-- **Economic Strain** – Without constant warfare, **Caldria’s economy suffers**, leading to **political pressure to seek new conflicts**.
-- **The Role of the Church** – Some factions **demand full religious control**, while others **seek a more independent military command**.
-- **Foreign Threats** – The **Ahl-e-Ahd Empire and eastern raiders** constantly probe the duchy’s defenses, hinting at a potential future war.
-
-With **Grand Duke Alric IV** pushing for **modernization**, yet facing **resistance from zealots and old-guard knights**, Caldria’s future remains uncertain. Will it remain **a bastion of holy warriors**, or will **innovation and pragmatism reshape its destiny**?
-
-One thing is certain—**Caldria will never rest while there is a battle to be fought.**
+Order rivalries, fortress commands, relic custody, mixed-confession companies, warlock accidents, veteran settlements, and border incidents engineered to break the Accord.
 
 ## Navigation
 
+- [[Knightly Orders & Power Struggles]]
+- [[Lives of Caldria and the Sylvan Marches]]
+- [[Military and Warfare Overview]]
 - [[Eclessia Overview]]

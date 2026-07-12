@@ -46,7 +46,3 @@ Eclessian families still speak of events as before or after the Sweat. Wage labo
 - [[Lives of Eclessia — The Common Spine]]
 - [[The Korrheim Accord]]
 - [[Freeflame Reformation]]
-
-## The Torque: The Years the Ferry Queued
-
-On Earth a plague is biology; here it was a **soul-logistics catastrophe**. The Vestibule's intake overwhelmed; burial rites collapsing faster than bodies could be blessed; the **Undertow's harvest of the century** (their oldest standing routes date from the Sweat, bought in bulk from the unburied). Church quarantine doctrine was written about **rite-integrity, not contagion**: a sealed village with a living priest was "clean"; a healthy village with a dead one was not. And the Ash-Walkers were not merely hysterics — where they walked, the records show, the thin places closed. Nobody has ever wanted to study why. (Per [[The Divergence Pass — Torque Register]].)

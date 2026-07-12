@@ -4,16 +4,16 @@ status: canon
 canon_level: core
 visibility: public
 era: ["Present Day"]
-region: ["Eclessia"]
+region: ["Virelia", "Eclessia"]
 culture: ["Eclessian"]
-related_factions: []
+related_factions: ["Eclessian Church", "Freeflame"]
 appears_in: []
 needs: ["add two named representative NPCs and one settlement-level story seed"]
 tags: []
 ---
 # Lives of Virelia
 
-The hard file. East of the Orzva watershed the Grey Sweat's aftermath ran backward: where the west freed its farmers, the sabre-right nobility bound theirs — and the binding tightens every generation as the grain barges go north. Virelia is the granary of Eclessia (canon), and the granary has a price nobody upriver asks about.
+The hard file. East of the Orzva watershed the Grey Sweat's aftermath ran backward: where the west freed its farmers, the sabre-right nobility bound theirs — and the binding tightens every generation as the grain barges go north. Virelia is the granary of Eclessia, and the granary has a price nobody upriver asks about.
 
 ## The Serf (most Virelian lives)
 
@@ -23,11 +23,11 @@ The hard file. East of the Orzva watershed the Grey Sweat's aftermath ran backwa
 
 ## The Sabre-Right Noble
 
-**Born** into the noble nation — perhaps one Virelian in twelve carries the sabre-right, from magnate palaces to noble families plowing their own fields with a sword on the wall ("barefoot sabre-right nobility," poor as their serfs and legally worlds above them). The identity is intoxicating: legal equality of all nobles, the *district noble moot* moot-democracy, election fever every royal death, golden-liberty rhetoric — a republic of lords sitting on a nation of the bound, and genuinely unable to see the contradiction the west's pamphlets keep pointing at. **The forks:** magnate clientage (whose ante-chamber to stand in); the hussar road (the winged lancers — canon — the class's glory and its cavalry-poor-cousin economics: a season's harvest for the armor); the election bet (which candidate, whose gold, the whispered "eastern candidate" the Sanctum always kills); and the marriage market where grain acreage weds pedigree.
+**Born** into the noble nation — perhaps one Virelian in twelve carries the sabre-right, from magnate palaces to noble families plowing their own fields with a sword on the wall ("barefoot sabre-right nobility," poor as their serfs and legally worlds above them). The identity is intoxicating: legal equality of all nobles, the *district noble moot* moot-democracy, election fever every royal death, golden-liberty rhetoric — a republic of lords sitting on a nation of the bound, and genuinely unable to see the contradiction the west's pamphlets keep pointing at. **The forks:** magnate clientage (whose ante-chamber to stand in); the hussar road (the winged lancers, the class's glory and its cavalry-poor-cousin economics: a season's harvest for the armor); the election bet (which candidate, whose gold, the whispered "eastern candidate" the Sanctum always kills); and the marriage market where grain acreage weds pedigree.
 
 ## The Hussar
 
-The soldier's road in its eastern key: recruited noble-only (canon), horse and wings self-funded, glory real — the charge that broke the steppe raiders at the fords is sung in three languages — and the account books grim: most hussars are mortgaged to a magnate or the Medori by their second campaign. The fork every winged rider faces by forty: the magnate's household (retainer-captain, comfortable, owned) or the small estate and the slow decline into sabre-on-the-wall gentility.
+The soldier's road in its eastern key: recruited only from the sabre-right, horse and wings self-funded, glory real — the charge that broke the steppe raiders at the fords is sung in three languages — and the account books grim: most hussars are mortgaged to a magnate or the Medori by their second campaign. The fork every winged rider faces by forty: the magnate's household (retainer-captain, comfortable, owned) or the small estate and the slow decline into sabre-on-the-wall gentility.
 
 ## The Priest of the East
 

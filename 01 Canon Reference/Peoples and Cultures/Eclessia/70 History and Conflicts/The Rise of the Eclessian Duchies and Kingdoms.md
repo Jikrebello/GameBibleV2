@@ -1,98 +1,65 @@
 ---
 type: event
 status: canon
-canon_level: local
+canon_level: core
 visibility: public
-era: []
+era: ["975-1104 AR"]
 region: ["Eclessia"]
 culture: ["Eclessian"]
-related_factions: []
+related_factions: ["Eclessian Church"]
 appears_in: []
 needs: []
+aliases: ["Rise of the Eclessian Successor Realms"]
 tags: []
 ---
-### **I. Fragmented Beginnings (Years 28–60)**
+# The Rise of the Eclessian Duchies and Kingdoms
 
-In the immediate aftermath of the Atherian collapse, Eclessia existed as a fractured territory of **rural abbeys, fortified hill-forts, and scattered noble manors**, each acting in isolation. Without a central imperial or patriarchal presence, the land was ruled by whoever could hold it—**by sword, scripture, or sanctity**.
+The present Eclessian realms descend from Atherian provinces, post-Fall emergency lordships, Adalmar's united crown, and the later partitions of his dynasty. They did not all arise at once, and several acquired their modern form centuries after their names first appeared.
 
-From this chaos, several powerful regions began to consolidate around charismatic lords, monastic orders, or ancient sacred sites. These would become the **first true duchies and kingdoms** of the Eclessian age.
+## Adalmar's Crown, 975-1019 AR
 
----
+Adalmar the Great, a Markish king of the eastern marches, united the region through war, marriage, Church law, and forced conversion. His Folk Wars expanded parish and noble rule into the southern borderlands; the Drowning at Wolfsmere remains the crown's deepest atrocity.
 
-### **II. The Kingdom of Aurelia**
-- **Founding Power**: The clergy of the **Sanctum Divinitatis**, reinforced by knightly protectors and wealthy relic guilds.
-- **First Monarch**: Queen-Matron Seraphyne, an ordained noblewoman and former battle-abbess, crowned by the High Council.
-- **Claim to Legitimacy**: Custodianship of the Redeemer’s birthplace and scriptural archives.
+Lord Primarch Silvane II crowned him Emperor of the Atherians in 1002. The crown offered common law and defense, but it also created the claim that Eclessia could inherit Atheria without Veridun.
 
-Aurelia became the **theocratic heart** of the region, with its monarchs selected or sanctioned by the **Eclessian Church**. The kingdom’s economy and prestige relied on **pilgrimages, theological schools, and relic-trade**, all reinforced by elite **ecclesiastical lancers and templar-prelates**.
+## Split and Partition
 
----
+The Great Split of 1015 separated the Sanctum and Veridun. After Adalmar's death, Ludovar the Mild failed to contain the rivalries of his sons. At Drossfeld in 1049, Adalmar's grandsons divided the inheritance:
 
-### **III. The Duchy of Veridancia**
-- **Founding Power**: Merchant-patrons, retired crusader families, and a charismatic abbess named Elyenne of Verdissia.
-- **First Duke**: A former war-chaplain named Rhalien Veris, chosen by popular acclamation and papal endorsement.
-- **Claim to Legitimacy**: Cultural patronage, wine-tithes, and mediation of early feudal disputes.
+- Aldwin's line became the Kingdom of Aurelia and the temporal shell around the Primarchal State.
+- Lotharic's line became the eastern royal line that later incorporated Virelia.
+- Gervin's middle marches fragmented into the ancestor territories of Caldria, Brauvalis, Veridancia, Korrheim, Ironvale, and the Sylvan Marches.
 
-Veridancia distinguished itself by merging **courtly elegance and spiritual loyalty**. Its noble houses were known for producing diplomats, archivists, and **scribal orders** who traveled between duchies to settle disputes. Veridancia also fostered the **first chivalric codes** adapted to post-imperial Eclessian theology.
+Every modern border claim interprets Drossfeld differently.
 
----
+## Founders Remembered Correctly
 
-### **IV. The Duchy of Caldria**
-- **Founding Power**: Knightly orders loyal to the Church, most notably the **Order of the Radiant Path** and the **Vigilant Flame**.
-- **First Duke**: Lord-Marshall Harthan Kael, a firebrand general from the Ashen Marches.
-- **Claim to Legitimacy**: Defender of the faith, protector of pilgrims, scourge of heretics.
+Older regional chronicles preserve useful figures while exaggerating their offices:
 
-Caldria emerged as a **fortress-duchy**, forging elite warrior-castes and establishing monastic war colleges. It formalized the **Crusader’s Vow**, allowing nobles to legally rule if they pledged themselves and their heirs to holy campaigns.
+- **Queen-Matron Seraphyne** was Aurelia's battle-abbess and emergency protector c. 930-949 AR, not the founder of a post-Fall kingdom.
+- **Abbess Elyenne of Verdissia** and **Rhalien Veris** built Veridancia's first post-Drossfeld ducal compact in the 1050s. Rhalien was acclaimed as war-chaplain and protector before his descendants regularized the title.
+- **Juran the Stalwart** was a Vesari elected war-prince before the Choosing, not the first king of a fully Eclessian Virelia.
 
-The duchy also became the **source of Eclessia’s military calendar**, organizing year-round religious and martial festivals to sanctify readiness for war.
+Their corrected roles preserve the regional traditions without making every modern realm spring fully formed from 905 AR.
 
----
+## The Choosing of Virelia, 1061 AR
 
-### **V. The Ironvale Dominion**
-- **Founding Power**: Artisan guilds and industrial magnates who filled the vacuum left by nobility fleeing east.
-- **First Lord Regent**: Halvyn Brok, a blacksmith-priest turned guildmaster, who unified the mining cantons.
-- **Claim to Legitimacy**: Control over iron, steel, and the production of sacred weaponry.
+The Vesari princedoms were not a late Eclessian colony. They were an older Scattering people with their own towns, moots, and rites. Prince Radomir I chose the Sanctum for dynastic alliance and western arms despite his envoys' powerful encounter with Veridun. This created Virelia's durable contradiction: a western hierarchy above eastern-flavored popular piety.
 
-Unlike other regions, Ironvale had no king or duke—**rule passed through consensus among the Forged Table**, a council of guild-representatives and fire-clergy.
+## The Crown in Trust, 1104 AR
 
-Ironvale’s rise reshaped the economy of Eclessia, creating supply chains for crusader campaigns, and offering political weight to **non-noble industrialists**.
+Repeated partitions ended any practical imperial monarchy. Karlmann the Idle was deposed in 1102, and the Crown of Embers entered the Sanctum's custody two years later. Eclessia remained a family of realms held together by Church institutions, shared law, roads, dynastic memory, and an unrealized promise of reunion.
 
----
+## How the Modern Realms Emerged
 
-### **VI. The Kingdom of Virelia**
-- **Founding Power**: Knightly clans and rural nobility, rooted in large landholdings and cavalry tradition.
-- **First Monarch**: King Juran the Stalwart, elected by the Seven Shields of the Virelian Plains.
-- **Claim to Legitimacy**: Military prowess, agricultural abundance, and elective tradition.
+Aurelia and Virelia retained royal lines. Veridancia and Caldria consolidated as territorial duchies. Brauvalis grew around monastic towns and guild estates. Korrheim's cantons resisted permanent princely rule. Ironvale remained ducal until the Reform Wars destroyed its house and elevated the guild ministries. The Sylvan Marches never achieved comparable centralization.
 
-Virelia became the **breadbasket and cavalry core** of Eclessia. Its royal system of **elective monarchy** was established to prevent dynastic stagnation, but often led to fierce political maneuvering between noble houses.
-
-It is also where **mounted saint-veneration** began, with entire shrines dedicated to warrior-saints of the plains.
-
----
-
-### **VII. The Rise of Others**
-
-Other powers rose as well:
-
-- **Brauvalis** — a duchy of **monastic breweries and trade guilds**, its power built on beer, herbal medicine, and artisan solidarity.
-- **Korrheim Confederation** — **cantons of mountain warriors and siege engineers**, bonded by oaths rather than blood.
-- **Sylvan Marches** — a wild frontier, ruled by **ranger-nobility and zealous wood-priests**, defending against nonhuman incursions.
-
-Each of these claimed unique cultural roles and spiritual insights, contributing to the **rich mosaic of Eclessian identity**.
-
----
-
-### **VIII. Conclusion: Crownless Unity**
-
-The rise of the duchies and kingdoms did not lead to war between rivals for a new imperial throne. Instead, **no one ruler emerged powerful enough** to claim hegemony. The Church, strengthened by the Sanctum Divinitatis and the Doctrine of the Ember Seat, filled the void—not as monarch, but as **arbiter and spiritual crown**.
-
-Thus, modern Eclessia took form: a land **crowned in many places, ruled by none completely**, but united beneath the ever-burning flame of the Redeemer.
-
-> _“The sword claims the hill, the saint holds the hearth, but the altar keeps the soul. We are many banners—one light.”_
+The Grey Sweat, Freeflame Reformation, and Korrheim Accord later changed these realms as profoundly as Drossfeld had created them.
 
 ## Navigation
 
+- [[Eclessia During the Invasion]]
+- [[The Consolidation of the Eclessian Church]]
+- [[The Making of the Eclessians]]
+- [[The Grey Sweat]]
 - [[Eclessia Overview]]
-- [[Canon Index]]
-- [[Canon Index]]
-

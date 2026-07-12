@@ -1,116 +1,62 @@
 ---
-type: culture
+type: reference
 status: canon
-canon_level: local
+canon_level: core
 visibility: public
-era: []
+era: ["982-1360 AR", "Present Day"]
 region: ["Eclessia"]
 culture: ["Eclessian"]
-related_factions: []
-appears_in: []
-needs: []
+related_factions: ["Eclessian Church", "Freeflame"]
+appears_in: ["Grenzburg"]
+needs:
+  - reconcile army-size bands with the population atlas
+aliases: ["Eclessian Warfare"]
 tags: []
 ---
-Eclessia’s military strength lies in its **knightly orders, mercenary companies, and feudal levies**. Warfare in the region is shaped by **political fragmentation, religious conflicts, and external threats**, leading to a dynamic and often volatile battlefield landscape.
+# Military and Warfare Overview
 
----
+Eclessia fights through princely households, feudal levies, town militias, knightly orders, contract companies, and increasingly professional artillery trains. Fragmentation creates military variety but makes long campaigns dependent on credit, negotiated passage, and confessional trust.
 
-### **1. Knightly Orders**
+## The Historical Schools
 
-The knightly orders of Eclessia serve both **martial and religious** functions, often acting as autonomous military entities. They fight in **crusades, internal conflicts, and border skirmishes**, and their influence extends into politics and diplomacy.
+Caldria preserves the fortress and crusading tradition born in 906-908 AR. Virelia fields noble shock cavalry and estate levies. Korrheim specializes in disciplined pike companies, engineering, and defensible terrain. Ironvale supplies foundry weapons, bombards, sappers, and wage infantry. The Sylvan Marches depend on rangers, fortified settlements, scouts, and seasonal musters.
 
-- **The Order of the Radiant Path**: Protects trade routes, pilgrimage roads, and holy sites, ensuring safe travel for merchants and pilgrims.
-- **The Knights of Saint Aveline**: Crusaders dedicated to defending Eclessia from **pagan raiders and fae incursions**, stationed on the southern and eastern frontiers.
-- **The Inquisitors of Saint Malveris**: A shadowy order tasked with **hunting heretics and subversive sects**, often operating as a secret police force for the Church.
-- **The Order of the Vigilant Flame**: Enforcers of religious purity, known for **public purges, witch hunts, and rooting out corruption**.
-- **The Guardians of the Ivory Tower**: A scholarly yet militant order, protecting sacred relics and theological archives while maintaining elite warrior-priests.
+## Wars of Reform
 
----
+The Ashenmen Risings began as wagon-fort rebellions and became a school of confessional war. Freeflame forces used literate quartermasters, town militias, field preaching, and confiscated Church strongholds. Old-Church armies combined princely cavalry, orders, episcopal levies, and relic-bearing chaplains.
 
-### **2. Warfare Between Eclessian Regions**
+The fighting destroyed Ironvale's ducal house and created enduring military exiles. It also taught rulers to use doctrine as a title to land. Sincere defense of worship and cynical confiscation frequently marched under the same banner.
 
-With no central ruler, conflicts between duchies, kingdoms, and city-states are frequent, often fought for **territorial control, economic dominance, or religious authority**. Warfare in Eclessia follows several key patterns:
+## The Accord at War
 
-- **Border Raids & Skirmishes**: Common between rival territories, these small-scale wars involve fast-moving **cavalry raids, ambush tactics, and siege harassment**.
-- **Feudal Levies & Noble Armies**: Nobles raise armies from their **vassals and peasant militias**, with trained knights forming the elite core.
-- **Church-Sanctioned Conflicts**: Some wars are fought under the guise of **religious disputes**, with the Church supporting one side to gain political leverage.
-- **Siege Warfare**: Fortified cities and monastic strongholds are key military assets, leading to **prolonged sieges** with **battering rams, trebuchets, and fortified tunnels**.
-- **Mercenary Involvement**: Independent **free companies** and **foreign sellswords** fight for the highest bidder, sometimes betraying their employers for better offers.
-- **Assassinations & Political Intrigue**: Warfare is not always open battle; poisoning, infiltration, and subterfuge play major roles in conflicts.
+The Korrheim Accord prohibits armed conversion across recognized borders. It does not prohibit dynastic war, covert support, mercenary service, or a ruler changing a territory's confession after succession. Mixed-confession companies therefore swear detailed service articles governing worship, burial, and whether they may fight co-religionists.
 
-Key Historical Conflicts:
+## Preserved Campaigns
 
-- **The War of the Crimson Banner**: A decade-long struggle between Caldria and Drusenwald over control of a sacred relic, ending in a tenuous peace brokered by the Church.
-- **The Ostermark-Ironvale Trade Wars**: A series of naval and economic conflicts over shipping rights and access to mining resources.
-- **The Succession War of Veridancia**: A bloody civil war between rival noble houses, with outside factions interfering for personal gain.
+- **War of the Crimson Banner, 1288-1295 AR:** Caldria and the Drusenwald marcher district fought over custody of a frontier relic and its toll road. The relic court retained the object; Caldria retained the road.
+- **Ostermark-Ironvale Trade Wars, 1312-1320 AR:** river toll fights and foundry embargoes became a northern theater of the Reform Wars.
+- **Veridancian Succession War, 1278-1282 AR:** rival court houses contested the ducal line; the settlement strengthened the Council of Verdissia and its lay jurists.
+- **First Southern Crusade, 1060-1067 AR:** post-Drossfeld marcher expansion continuing Adalmar's Folk policy.
+- **Great Southern Purge, 1158-1163 AR:** destruction of seers and shrine settlements; remembered by the Folk as a campaign against land memory.
+- **March of the Redeemer's Sword, 1258-1261 AR:** failed attempt to occupy the deeper cold forest shortly after the Grey Sweat.
 
----
+These events survive as named campaigns, not as independent eras competing with the central chronology.
 
-### **3. The Southern Crusades Against the Fäskogarfolk**
+## Black Powder and Warlock Scripts
 
-Eclessia has long waged **holy wars against the pagan Fäskogarfolk** of the **southern wildlands**, viewing them as enemies of the faith. These crusades are driven by **religious fervor, territorial expansion, and the Church’s desire to solidify its influence**.
+Ironvale's bombards and Caldria's siege schools increasingly combine alchemy with warlock rune scripts that draw elemental force from the Shell. A script can ignite powder, fracture stone, redirect wind, or stabilize a firing platform. Failure can breach containment, call uncontrolled elemental force, or turn a siege line into a thin-space disaster.
 
-- **First Southern Crusade (300 years ago)**: Led by the Knights of Saint Aveline, this campaign established the first **border fortresses and missionary outposts** in the wilderness.
-- **The Great Purge (200 years ago)**: A brutal inquisition that sought to eradicate **pagan shamans and tribal leaders**, leading to mass displacement and retaliatory raids.
-- **The March of the Redeemer’s Sword (100 years ago)**: A failed attempt to establish permanent control over the southern forests, ending in a costly retreat.
-- **Ongoing Border Wars**: The southern territories remain in a state of constant conflict, with noble houses launching **small-scale crusades** to claim land, often clashing with native warbands.
+Old-Church authorities demand licensed warlocks and relic safeguards. Freeflame governments reject Church licensing but enforce civic script registries. Both sides use the technology while accusing the other of sacrilege.
 
-#### **Southern Warfare Tactics**
+## Southern Frontier
 
-The **Fäskogarfolk** are skilled in **guerrilla warfare**, utilizing the dense forests and harsh terrain to their advantage. They employ:
-
-- **Hit-and-run attacks** against Eclessian forts and supply lines.
-- **Poisoned weapons and druidic magic**, countering traditional knightly warfare.
-- **Animal-mounted skirmishers**, including **wolves and elk cavalry**.
-- **Terror tactics**, including night raids and sabotage of Eclessian settlements.
-
-Eclessian knights counter these tactics with:
-
-- **Heavy cavalry charges**, breaking through enemy lines in open-field battles.
-- **Fire-based siege warfare**, using flaming arrows and incendiary weapons to destroy hidden pagan settlements.
-- **Religious purges**, aimed at eliminating shamans and spiritual leaders to weaken enemy morale.
-- **Establishment of fortified border towns**, creating safe zones for missionaries and settlers.
-
----
-
-### **4. Mercenary Companies & Free Companies**
-
-While knightly orders fight for faith and honor, **mercenary companies** fight purely for coin. These **highly trained, well-equipped forces** shift the balance of power in wars, often tipping the scales for the highest bidder.
-
-- **The Ironclad Legion**: A professional army of **exiled knights and disgraced noble sons**, known for their **discipline and brutal effectiveness**.
-- **The Black Talons**: A ruthless company specializing in **urban warfare and sabotage**, often hired by city-states in political feuds.
-- **The Ashen Shields**: Former crusaders turned sellswords, now fighting for **whoever can afford their elite cavalry**.
-- **The Crimson Wolves**: A rogue warband notorious for **raiding both enemy and employer alike**.
-
-Mercenary companies often complicate wars, as they can **switch sides mid-battle**, engage in **plundering and looting**, or refuse to fight if their payment is not guaranteed.
-
----
-
-### **5. The Role of the Church in Warfare**
-
-The **Eclessian Church** does not directly command armies but exerts **massive influence over military affairs**:
-
-- **Crusade Declarations**: The Church grants spiritual legitimacy to wars, offering blessings and indulgences to warriors who fight in holy campaigns.
-- **Religious Justification for Conflict**: Many wars are framed as fights against heresy or infidels, securing greater public support.
-- **Clerical Military Orders**: Monastic warriors, such as the **Blessed Wardens**, combine faith with martial skill, acting as the Church’s enforcers.
-- **Sanctified Weaponry**: Holy relics, blessed weapons, and divine magic play roles in key battles, particularly against supernatural threats.
-
----
-
-### **6. Future of Warfare in Eclessia**
-
-Eclessia’s military landscape is constantly evolving, with several looming challenges:
-
-- **Rising Use of Gunpowder**: Early firearms are beginning to appear, threatening traditional knightly dominance.
-- **Growing Power of Mercenaries**: The reliance on professional sellswords may lead to instability and the weakening of noble armies.
-- **External Threats**: The **Ahl-e-Ahd Empire**, the **Enaidfae**, and the **Thalmyric Empire** pose constant dangers that may force Eclessia to unite or fall to invasion.
-- **Internal Religious Struggles**: The Church’s role in war is being questioned by reformists, potentially leading to **civil conflict over the nature of holy warfare**.
-
-Despite its **knightly traditions and religious zeal**, Eclessia’s future wars may be dictated by **new technologies, shifting alliances, and an increasingly mercenary-driven battlefield**.
+The deeper south is colder. Taiga, frozen rivers, permafrost, and short growing seasons govern campaigning. Grobi movement follows hunger corridors and winter pressure. Folk resistance uses terrain, Menhir pacts, concealment, and local obligation rather than the caricature of undisciplined raiders.
 
 ## Navigation
 
+- [[Eclessian Military Orders]]
+- [[Warlock Rune Magic]]
+- [[Southern Cold Belt and Grobi Frontier]]
+- [[Economy and Trade Overview]]
 - [[Eclessia Overview]]
-- [[Canon Index]]
-- [[Canon Index]]
 
