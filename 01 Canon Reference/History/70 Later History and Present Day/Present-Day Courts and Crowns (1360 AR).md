@@ -77,9 +77,11 @@ The ransom-shame of Markellos encourages leaders to treat negotiation as humilia
 - **Zanthir** — **Emir Badis al-Zanthiri**, ruling from Qabir, holds the autonomous remnant of the Banu Mizan inheritance. He pays tribute toward Iqashar and Veridun in alternating seasons, protects the Velian Church and Jirahar quarters, and plays every court against the expectation that his realm will be the next war's first battlefield.
 - **Mazrakan** — the **Council of Nine Measures** governs the northern chartered market under an imperial Gate-Prefect. Its commercial peace converts Tarkhan pressure into customs, patronage, and licensed danger without ending the raids beyond its wells.
 
-## Sestara
+## The Seven Sestaran Seals
 
-The Medori bank is led by **Duke Gaius Medori**, head of the family, with **Lord Matteo Medori** directing investments and **Factor Gianni** and **Agent Livia** active in Grenzburg. The Medori carry hidden **Ahl-e-Ahd lineage and contract magic**, explaining both the bank's uncanny instruments and what the family acquired when it purchased Alessior VI's Primarchy. Sermora's Doge and Admiralty, Aversia's House of Soran, and Vorthara's Council of Magi hold the other major poles of Concord power. Fiorenzia still dreams uneasily of Frate Severin.
+Sestara has no common court. **Duke Gaius Medori** rules Fiorenzia beside its senate, with **Lord Matteo Medori** directing investments and Factors Gianni and Livia active in Grenzburg. **Doge Terenzo Vescari** balances Sermora's Admiralty and merchant houses. **Duke Marcus Soran** and **General Aurelia Soran** command Aversia. Vorthara has no ruler; **Pass-Keeper Salvi Corren** holds only its external seal. **First Speaker Eliana Corvesi** heads Castara's Merchant Princes. **Harbor Rector Sabina Valeris** governs Orsena. **First Burgess Tomas Bellafor** presides over Vardessa's guild benches.
+
+The Medori carry hidden Ahl-e-Ahd lineage and contract technique; this remains author-only and does not make Fiorenzia a Covenant proxy. The seven authorities cooperate automatically only under [[The Seven-Seal Defensive Muster]]. Fiorenzia still dreams uneasily of Frate Severin.
 
 ## The Tarkhan Steppe (the Four Hordes)
 

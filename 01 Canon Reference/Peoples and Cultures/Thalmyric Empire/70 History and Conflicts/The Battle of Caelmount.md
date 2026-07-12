@@ -15,7 +15,7 @@ tags: []
 ---
 # The Battle of Caelmount
 
-The Battle of Caelmount in 917 AR, called the Valley Ambush in the central chronology, was the first defeat of a major Covenant field force by the mountain resistance.
+The Battle of Caelmount in 917 AR, called the Valley Ambush in the central chronology, was the first defeat of a major Covenant field force by the mountain resistance. It followed the separate Caldrian-Vortharan victory at [[The Battle of the Shattered Engines (907 AR)]], which had broken the northern invasion road and reduced Covenant siege strength.
 
 ## The Field
 

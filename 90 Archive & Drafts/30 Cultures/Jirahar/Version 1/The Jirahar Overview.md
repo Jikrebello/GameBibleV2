@@ -65,7 +65,7 @@ Religion is central to the Jirahar way of life. Their faith, known as the **Path
 
 ---
 
-### **[[Relations with Outsiders]]**
+### **Relations with Outsiders**
 
 Due to their insular nature and refusal to integrate into local societies, the Jirahar are often viewed with **suspicion and distrust** by outsiders. They are seen as secretive and cunning, especially in their trade dealings and banking practices. This mistrust is exacerbated by the presence of **rogue clans** within the Jirahar, who engage in illicit activities such as **smuggling, thievery, and assassination**.
 
@@ -98,4 +98,3 @@ However, the Jirahar are adept at **adapting** to new environments and re-establ
 The **Jirahar** are a highly structured and insular culture, defined by their **nomadic existence**, **deeply ritualistic religion**, and **strong sense of communal identity**. Their **economic prowess**, particularly in trade and banking, makes them an important—if sometimes resented—presence in many lands. Their **legalistic approach** to life and strong internal cohesion keep them unified, even when scattered across diverse regions.
 
 Despite the mistrust they often face from outsiders, the Jirahar remain steadfast in their belief that they are the **chosen people**, entrusted with the preservation of their ancient way of life. Their ability to adapt and thrive, despite the challenges they face, ensures that the Jirahar continue their journey across the world, following the Path of the Chosen.
-

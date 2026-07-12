@@ -4,12 +4,12 @@ status: draft
 canon_level: local
 visibility: public
 era: ["Present Day"]
-region: ["Sestaran Concord"]
-culture: ["Sestaran"]
+region: ["Vorthara"]
+culture: ["Vortharan"]
 related_factions: ["Crucible", "Ironbound Guild", "Nightveil Coven"]
 appears_in: ["Breach-Week"]
 needs:
-  - decide its permanent Council standing after the Breach-Week ending is canonized
+  - decide which ward compact protects it after the Breach-Week ending is canonized
 tags: [game-ready]
 ---
 # Collegium of Doors
@@ -50,4 +50,3 @@ The faction can survive [[Breach-Week — Full Adventure]] as a reformed public-
 - [[The Citadel of Vorthara Overview]]
 - [[Magical Schools and Factions of Vorthara]]
 - [[Breach-Week — Full Adventure]]
-

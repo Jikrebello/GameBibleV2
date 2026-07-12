@@ -33,7 +33,7 @@ superseded_by: []
 - **Sacred Sites:** Old growth nodes, moving groves, stone circles, root-cairns, fungal rings that map living corridors.
 - **Human Worship:** Hedge-wardens and border druids practicing land etiquette; atrocity-cults represent human misuse of fertility-pressure, not Sylvorn’s requirement.
 
-#### Sky Aspect: [Zephyraxis](Zephyraxis_UPDATED.md)
+#### Sky Aspect: [[Zephyraxis]]
 
 - **Appearance:** Living pressure-front and storm-architecture; perceived as cyclone-eye, anvil-front, or turbulence silhouette; truest form expressed as organizing weather geometry.
 - **Followers:** Aerial storm-ecologies (gust-wraiths, cloudlings, lightning-eels, flock-shadows) emerging within persistent systems.
@@ -42,7 +42,7 @@ superseded_by: []
 - **Sacred Sites:** Lightning fields, sky-needles (spires/towers), wind corridors in passes and coastal cliffs.
 - **Human Worship:** Sailors and highland orders treating the sky as authority of preparation and humility; blood-sacrifice is cultural panic, not celestial appetite.
 
-#### Unified Form: [Trium](Trium_UPDATED.md)
+#### Unified Form: [[Trium]]
 
 - **Appearance:** The rare phase-lock state where sky/land/sea synchronize; perceived as layered composite because convergence cannot be held by a single image.
 - **Followers:** Not a cult—synchronized convergence ecologies across domains (aerial swarms, forest courts, abyssal emissaries) exploiting the same locked conditions.
@@ -60,5 +60,4 @@ superseded_by: []
 
 - [[Canon Index]]
 - [[Canon Index]]
-
 

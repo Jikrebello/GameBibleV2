@@ -113,13 +113,27 @@ The people behind the [[Chronology of the Known World (AR Dating)]]. Each entry 
 
 ## The Sestaran Merchant Age
 
-**Bartolo Medori the Elder** (c. 1235–1301 AR) — Built the bank into the Concord's shadow-sovereign; his ledger-maxim "lend to both, collect from the winner" is quoted as cynicism and practiced as policy.
+**Bartolo Medori the Elder** (c. 1235–1301 AR) — Built the bank into the peninsula's dominant credit house and purchased Medori admission to Fiorenzia's Golden Book in 1238. His ledger-maxim “lend to both, collect from the winner” is quoted as cynicism and practiced as policy.
 
 **Lauro Medori the Magnificent** (1289–1341 AR) — The patronage apex: academies, galleries, the Fiorenzian flowering — and the quiet purchase of Alessior VI's Primarchy, which makes the Medori, by two removes, co-authors of the Reformation. The family does not discuss this.
 
 **Frate Severin of Fiorenzia** (1301–1349 AR) — Flame-preacher who seized Fiorenzia's soul for four years; his **Pyre of Masks** (1346) burned the vanities of the merchant age in the cathedral square — and witnesses still argue about what they saw standing in that fire. Hanged and burned by a Medori-restored government in 1349. In a world where the Flame is real, the question *was Severin kindled or mad?* has teeth: the Freeflame claim him, the Lantern studies him, Fiorenzia dreams about him.
 
 **Nicanor Vetti** (1289–1347 AR) — Dismissed Sermoran under-secretary; wrote **The Mirror for Sovereigns** in exile: statecraft stripped of every sacred pretension, dedicated — with what must be irony — to a Medori. Banned by both churches, condemned by the Covenant, and found in the private shelves of every ruler on the board. Selections survive in [[The Mirror for Sovereigns — Selected Maxims]].
+
+**Duke Gaius Medori** — Present ruler of Fiorenzia and head of the Medori family, governing beside a senate whose old houses resent the purchased ancestry that made his title possible.
+
+**Doge Terenzo Vescari** — Present compromise ruler of Sermora, balancing Admiralty houses, guilds, privateer captains, and the secrets accumulated by the Veiled Office.
+
+**Duke Marcus Soran and General Aurelia Soran** — Present princely and military heads of Aversia. Their mercenary dynasty seized an office older Shield Houses still consider stolen.
+
+**Pass-Keeper Salvi Corren** — Keeper of Vorthara's roads, gates, shared water stations, and external Concord seal. He is not ruler of the anarchic city.
+
+**First Speaker Eliana Corvesi** — Head of Castara's Merchant Princes and advocate of continued Boiling Sea expansion despite labor unrest and contested foreign claims.
+
+**Harbor Rector Sabina Valeris** — Present rector of Orsena, responsible for neutrality, cistern security, prisoner exchange, and the Harbor Book's exclusions.
+
+**First Burgess Tomas Bellafor** — Presiding officer of Vardessa's guild benches and custodian of the neutral muster hall.
 
 ## The Jirahar Thread
 

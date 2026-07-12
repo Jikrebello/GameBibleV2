@@ -76,6 +76,8 @@ The civilized world dates from the execution and resurrection of Isfir the Redee
 - **c. 905–920 AR — The First Catch.** The fallen empire's border studs scatter into the grass; the foot-nomad Tarkhan catch them and become, within three generations, the world's finest light cavalry. Grey Sister's line begins.
 - **906 AR — The Veil over Veridun.** During the Qahirid advance, watchers see a woman's figure spreading a veil of pale fire above the city; the siege breaks in a night storm. Thalmyria's supreme feast of the Mother.
 - **906–908 AR — Third Crusade.** The eastward push stopped at the Duchy of Caldria.
+- **907 AR — [[The Battle of the Shattered Engines (907 AR)|Battle of the Shattered Engines]].** Caldria holds Crown Gate Pass while Vortharan warlocks destroy two Covenant siege golems and cripple a third, ending the northern advance and weakening occupation forces later exposed at Caelmount.
+- **908–909 AR — The Sestaran defensive compact.** Fiorenzia, Sermora, Aversia, Vardessa, and Orsena seal mutual defence in 908; Vorthara adds its external seal in 909 while refusing domestic oversight.
 - **908–921 AR — The Mountain Rebellion.** Caedros of house Aetherion; [[The Battle of Caelmount|Caelmount/the Valley Ambush]] (917); Virelos secured (921).
 - **922 AR — The Coronation at Virelos.** **Caedros I the Unbowed**, first Thalmyric Emperor.
 - **922–949 AR — [[The War of the Burning Banners]].** Refuge leagues, monastery armies, and return claimants are brought under one imperial command.
@@ -106,7 +108,7 @@ The civilized world dates from the execution and resurrection of Isfir the Redee
 - **1214–1225 AR — The post-Qarath civil wars.**
 - **1225–1263 AR — Nikandros I the Restorer.** Stabilizes the rump; asks Eclessia for aid; refuses the Sanctum's price (Veridun's submission); fights on alone. Present-day Caedros IV claims this line.
 - **c. 1232–1247 AR — [[The Grey Sweat]].** The great mortality: a third of eastern Eclessia, a fifth of its western territories, in fifteen years of waves. Tenantry expands across much of Eclessia while Virelia's second serfdom hardens; Ash-Walker penitents seed later quietism and shrine hunger. Remembered as *the years the ferry queued* — a soul-logistics catastrophe as much as a plague (see [[The Divergence Pass — Torque Register]]). ✶ Ends with the **Quiet Ninth** (1247): the Sweat stops everywhere in one week, and the Ash-Walkers disband mid-march, everywhere, unasked.
-- **c. 1235–1341 AR — The Medori century.** **Bartolo the Elder** builds the bank; **Lauro the Magnificent** builds the merchant-humanist flowering. Sestara's golden age begins c. 1250.
+- **c. 1235–1341 AR — The Medori century.** **Bartolo the Elder** builds the bank; the Medori purchase admission to Fiorenzia's Golden Book in 1238; **Lauro the Magnificent** builds the merchant-humanist flowering. Sestara's golden age begins c. 1250.
 - **1261 AR — The Kurultai of the Long Grass.** **Qarayel, the Black Wind**, unites all Tarkhan banners under the Nine-Mane Standard.
 - **1265–1300 AR — The Black Wind Years.** Iqashar pays escort fees, the Velian fairs burn and pay, Sestara institutes the grass-toll; extraction without occupation.
 
@@ -125,7 +127,7 @@ The civilized world dates from the execution and resurrection of Isfir the Redee
 - **1324–1325 AR — The Siege of Zehrim.** Surrender accepted; captured contract engines and ledgers burned; the altar restored without executing the garrison.
 - **c. 1329 AR — Caedros IV crowned at Virelos.**
 - **1330–1354 AR — Lord Primarch Celestin IX;** the **Council of Veridance** (1337–1352); assurance sales abolished; the five tests codified; the **Order of the Lantern** founded by **Father Ivo the Lamed**.
-- **c. 1330s AR — Castara opens the Boiling Sea routes;** the New World rush.
+- **c. 1330s AR — Castara opens the Boiling Sea routes;** the New World rush. **1332 AR — Castara joins the Sestaran compact as the seventh seal.**
 - **1343 AR — [[The Korrheim Accord]].** *Whose the realm, his the rite.* It excludes unaffiliated radicals, ignores the reunification mandate, and satisfies no one.
 - **1346–1349 AR — Frate Severin of Fiorenzia:** the Pyre of Masks; hanged and burned. **Nicanor Vetti's** *Mirror for Sovereigns* circulates banned (written c. 1340).
 - **1349 AR-present — Sultan-Caliph Marzuq III**, Qahirid suzerain at Iqashar. His layered empire claims Al-Qahur, is rejected by the Sealed-Blood counter-caliphate of Qazmarid, and receives contested tribute from autonomous Zanthir. Guard-brokered, stagnant, and cracked.

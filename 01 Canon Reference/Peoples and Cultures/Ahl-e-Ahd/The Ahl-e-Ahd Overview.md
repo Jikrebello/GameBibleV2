@@ -44,6 +44,10 @@ Recognized communities devoted to the Redeemer are called [[The People of the La
 
 The Covenant arose from ancient desert oath and water institutions, not fully formed from Mujalib's revelation. Its causal history is controlled by [[Historical Spine of the Covenant]] and its identities by [[The Making of the Covenant Peoples]].
 
+## Sestaran Relations
+
+Sermoran and Orsenan ships carry Covenant goods; Vardessan fairs receive caravan houses; Mazrakan hosts Sestaran factors; Fiorenzian scholars study contract law; and Aversian arms cross licensed and forbidden routes. The Medori are legally and publicly Fiorenzian, while rumors about foreign legal inheritances remain unproved. See [[Sestara and the Wider World]].
+
 ## Navigation
 
 - [[Cultures MOC]]

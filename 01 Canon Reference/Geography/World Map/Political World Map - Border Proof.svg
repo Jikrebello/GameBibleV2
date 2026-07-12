@@ -62,6 +62,8 @@
       <polygon id="C3-Sermora-Isle" class="province" fill="#62ad78" fill-opacity="0.25" points="995,478 1018,474 1032,492 1018,508 996,503 987,490"/>
       <polygon id="C4-Aversia" class="province" fill="#3e9565" fill-opacity="0.24" points="1048,520 1065,495 1088,500 1100,525 1098,555 1080,582 1058,580 1045,555"/>
       <polygon id="C5-Castara" class="province" fill="#77b987" fill-opacity="0.25" points="1661,319 1691,304 1725,312 1742,338 1728,366 1694,376 1664,359 1652,338"/>
+      <polygon id="C6-Orsena" class="province" fill="#8ac49a" fill-opacity="0.30" points="1070,451 1088,447 1104,458 1103,476 1089,487 1073,478"/>
+      <polygon id="C7-Vardessa" class="province" fill="#6fb486" fill-opacity="0.30" points="954,443 972,439 985,451 980,468 963,472 951,459"/>
     </g>
 
     <!-- Eclessia: internal divisions follow river basins, ridges and confessional frontiers. -->
@@ -102,6 +104,7 @@
       <text class="proof-number" x="986" y="570">T4</text><text class="proof-number" x="744" y="715">T5</text><text class="proof-number" x="884" y="504">T6</text>
       <text class="proof-number" x="903" y="420">C1</text><text class="proof-number" x="1025" y="415">C2</text><text class="proof-number" x="953" y="493">C3</text>
       <text class="proof-number" x="1075" y="542">C4</text><text class="proof-number" x="1697" y="341">C5</text>
+      <text class="proof-number" x="1088" y="466">C6</text><text class="proof-number" x="968" y="456">C7</text>
       <text class="proof-number" x="1157" y="407">E1</text><text class="proof-number" x="1139" y="493">E2</text><text class="proof-number" x="1227" y="514">E3</text>
       <text class="proof-number" x="1272" y="410">E4</text><text class="proof-number" x="1303" y="551">E5</text><text class="proof-number" x="1190" y="600">E6</text>
       <text class="proof-number" x="1160" y="682">E7</text><text class="proof-number" x="1275" y="711">E8</text><text class="proof-number" x="1157" y="740">E9</text>

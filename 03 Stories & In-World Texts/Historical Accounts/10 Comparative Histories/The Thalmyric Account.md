@@ -76,7 +76,7 @@ The jewel of the empire—burned. The emperor—slaughtered. Holy sites—defile
 
 But fire does not die. It hides. It waits.
 
-In the **southern volcanic ranges**, among basalt cliffs and fire-choked valleys, survivors endured. There, under the banner of a forgotten noble house, a **rebel general** kindled resistance. The **Third Crusade**, launched with desperate hope and shadowed by warlocks of **Vorthara**, held the line at **Caldria**. A **valley ambush** crippled the Ahl-e-Ahd elite. The battle at **Virelos** was the turning point.
+In the **southern volcanic ranges**, among basalt cliffs and fire-choked valleys, survivors endured. There, under the banner of a forgotten noble house, a rebel general kindled resistance. Caldria and the warlocks of Vorthara shattered the northern siege engines in 907. Ten years later, the valley ambush at Caelmount crippled a Covenant field force. The battle at Virelos was the turning point.
 
 One by one, the great siege golems fell. The desert juggernaut had overreached. Their cracks became faults. Their fury could not stop the fire rising again.
 
@@ -123,4 +123,3 @@ Let me know when you're ready for the **Eclessian perspective**—that one will 
 
 - [[Canon Index]]
 - [[Canon Index]]
-

@@ -29,7 +29,7 @@ The filenames begin with the same IDs used by [[Political Map Border Proof Key]]
 
 - `A1–A5`: Ahl-e-Ahd and the disputed Velian belt
 - `T1–T6`: Thalmyria
-- `C1–C5`: Sestaran Concord
+- `C1–C7`: Sestaran Concord
 - `E1–E9`: Eclessia
 - `AT1–AT4`: Ättar customary ranges
 - `F1–F4`: Folk and Enaidfae customary territories

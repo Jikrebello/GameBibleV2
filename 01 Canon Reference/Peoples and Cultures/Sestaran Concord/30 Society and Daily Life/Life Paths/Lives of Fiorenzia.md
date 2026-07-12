@@ -4,11 +4,11 @@ status: canon
 canon_level: core
 visibility: public
 era: ["Present Day"]
-region: ["Sestaran Concord"]
-culture: ["Sestaran"]
+region: ["Fiorenzia", "Fiorenzian Highlands"]
+culture: ["Fiorenzian"]
 related_factions: []
 appears_in: []
-needs: ["add two named representative NPCs and one city-level story seed"]
+needs: []
 tags: []
 ---
 # Lives of Fiorenzia

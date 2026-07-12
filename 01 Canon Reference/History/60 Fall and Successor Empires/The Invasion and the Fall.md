@@ -32,6 +32,10 @@ Idris did not destroy the Pillar of Concordance or Eternal Ember. He sealed the 
 
 The emperor died, the imperial command chain failed, and surviving regions improvised. Refugees moved toward Veridun, Virelos, rural estates, mountain monasteries, eastern ports, Eclessia, and the steppe. The future Tarkhan caught scattered imperial cavalry stock; the eastern provinces organized their own defense.
 
+## The Northern Advance Breaks, 906-908 AR
+
+After Caleran, a Qahirid army attempted to force the Caldrian road into Eclessia. Caldrian defenders held Crown Gate Pass while Vortharan warlocks destroyed two of the army's five great siege golems and crippled a third at [[The Battle of the Shattered Engines (907 AR)]]. The defeat ended the northern advance and dispersed forces the later mountain resistance could isolate.
+
 ## Occupation
 
 Covenant government secured ports, aqueducts, roads, archives, and productive estates. Repopulation combined garrison families, clients, contract-bound locals, imported labor, and transplanted subjects. These communities made occupation durable and later return legally explosive.
@@ -42,3 +46,4 @@ Covenant government secured ports, aqueducts, roads, archives, and productive es
 - [[The Refuge and the Rise of Veridun]]
 - [[The Long Reconquest (908-1052 AR)]]
 - [[Chronology of the Known World (AR Dating)]]
+- [[The Battle of the Shattered Engines (907 AR)]]

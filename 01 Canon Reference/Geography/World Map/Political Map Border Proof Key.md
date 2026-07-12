@@ -45,8 +45,10 @@ This is the approval key for [[Political World Map - Border Proof.png]]. The pro
 | C3 | Sermora | Central islands and their immediate maritime territory. |
 | C4 | Aversia | Southern Iron Foothills, mines and fortress approaches. |
 | C5 | Castara | Small detached Boiling Sea enclave; it is not a vast Concord province. |
+| C6 | Orsena | Tiny harbor microstate at the eastern foot of the Vortharan range where the Eclessian road meets the Thalassian. |
+| C7 | Vardessa | Small inland enclave at the Three Roads Basin between Fiorenzia, Vorthara and Aversia. |
 
-The Concord deliberately has no single enclosing border. Shared green tones communicate confederate membership without implying a unified territorial state.
+The Concord deliberately has no single enclosing border. Shared green tones communicate defensive membership without implying a unified territorial state. C6 and C7 are microstate enclaves rather than first-order regional powers.
 
 ## Eclessia
 

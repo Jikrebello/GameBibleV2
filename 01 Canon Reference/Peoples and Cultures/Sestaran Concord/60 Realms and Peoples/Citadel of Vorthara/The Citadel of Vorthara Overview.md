@@ -1,100 +1,57 @@
 ---
-type: culture
+type: place
 status: canon
-canon_level: local
+canon_level: core
 visibility: public
-era: []
-region: ["Sestaran Concord"]
-culture: ["Sestaran"]
-related_factions: []
+era: ["Ancient", "907-1360 AR", "Present Day"]
+region: ["Vorthara", "Vortharan Range", "Crown Gate Pass"]
+culture: ["Vortharan"]
+related_factions: ["Wardens of the Crown Road", "Crucible", "Ironbound Guild", "Nightveil Coven", "Pale Hand"]
 appears_in: []
 needs: []
+aliases: ["Citadel of Vorthara", "Vorthara", "City of the Black Spire"]
 tags: []
 ---
-**Capital**: Vorthara  
-**Territory**: The **Vortharan Highlands**, a remote and mystical region teeming with arcane energies  
-**Ruling Class**: The **Council of Magi**, a loosely organized coalition of powerful warlocks, sorcerers, and magical guild leaders.
+# The Citadel of Vorthara Overview
 
----
-### **Overview**
+Vorthara occupies the Black Spire and surrounding ridges at the mountain knot between Thalmyria, Eclessia, and Sestara. It controls Crown Gate Pass and scattered hamlets but no broad highland province.
 
-The **Citadel of Vorthara** is a city where magic rules all, built around the massive, mysterious **black spire** that dominates the landscape. Located in the far-flung **Vortharan Highlands**, Vorthara is home to magic users of all kinds—warlocks, necromancers, blood mages, and more. Here, the study and practice of magic, no matter how dark or forbidden, is encouraged. The city is a haven for those who push the boundaries of the arcane.
+## The City Without Government
 
-While the **spires**, **floating platforms**, and **arcane forges** define the city's skyline, Vorthara’s true heart lies beneath the surface in its **arenas**—vast spaces designed for blood sports where magic and combat are intertwined. These arenas serve not only as a source of entertainment but also as a tool for enforcing the city’s strict **no-infighting** rule. Conflicts between mages and academies are settled in the **Flesh Pits and magical arenas**, where combatants—whether living, undead, or constructed—battle to determine the victor.
+Vorthara has no Council of Magi, common citizenship, citywide law, or ordinary ruler. Schools, guilds, families, gangs, shrines, arenas, and neighborhood compacts control their own wards. Protection depends on membership, reputation, payment, favors, and the willingness of neighbors to enforce a boundary.
 
----
+The **Spire Truce** forbids faction war that closes the ascent, poisons shared water, breaks the external wards, or draws a foreign army through the gates. Disputes may be settled through arena champions, compensation, hostage exchange, arbitration, sabotage kept below the Truce's threshold, or exhaustion.
 
-### **Key Features**
+The **Wardens of the Crown Road** maintain the ascent, outer gates, water stations, and warning bells. Pass-Keeper **Salvi Corren** holds Vorthara's Concord seal and coordinates external defence. The Wardens cannot legislate inside a faction ward.
 
-#### **The Black Spire**
+## Origins and Independence
 
-The **Black Spire** is the centerpiece of Vorthara, a towering and enigmatic structure made from **oily black stone** that absorbs light. The spire stretches deep underground and once pierced the sky, though its uppermost reaches have crumbled long ago. It radiates **dark energy**, fueling the city's **arcane power** and serving as a hub for magical research. The **floating platforms**, **magical bridges**, and **towers** that surround the spire house the city’s magical academies, guilds, and powerful mages. The black stone is used in crafting enchanted items and amplifies the magical properties of any spell cast within its proximity.
+The Black Spire is pre-Atherian and of uncertain function. Atheria built roads, quarantine forts, laboratories, and inspectors around it but never fully governed the inner city. Refugees, outcasts, criminals, scholars, prohibited faiths, escaped servants, and specialists accumulated behind its wards.
 
----
+In 907 Vortharan warlocks helped Caldria destroy the Covenant siege train at [[The Battle of the Shattered Engines (907 AR)]]. Vorthara joined the defensive compact in 909 while refusing every domestic clause.
 
-#### **The Arenas and The Flesh Pits**
+## Magic and Factions
 
-The **Arenas of Vorthara** are massive gladiatorial spaces where blood sport is elevated to an art form. These arenas serve as both entertainment for the city’s populace and a **method of enforcing justice**. When disputes arise between factions, mages, or schools, they are settled in the **arena**, where champions—be they fleshwarped monsters, war golems, or warlocks—fight on behalf of their patrons.
+- [[The Crucible]] teaches warlock rune scripts and battlefield Shell magic.
+- [[Collegium of Doors]] practices containment, wardcraft, and spatial redirection.
+- [[The Ironbound Guild]] builds script-driven constructs and engines.
+- [[The Nightveil Coven]] studies Shadowlands overlays, perception, and controlled Shade contact.
+- [[The Fleshweavers and The Red Covenant]] manipulate bodies and blood and connect to hidden procurement networks.
+- [[The Pale Hand]] works with corpses, residue, and undeath under the limits of soul routing.
+- [[The Crafters’ Union and The Elixirium]] manufacture instruments, equipment, medicines, and dangerous enhancements.
 
-1. **The Flesh Pits**: Deep beneath the city lie the infamous **Flesh Pits**, where **fleshweavers** breed and modify monstrous creatures for war. These creatures are pitted against each other in brutal **arena combat**, serving both as a showcase for potential buyers and as a means for the Fleshweavers to refine their techniques. The pits are filled with hybrid monsters, grotesque beasts, and horrors that are unleashed in the arenas.
+Arachnara appears in cult testimony as an Idol mask associated with appetite, vermin, multiplication, and dissolved identity. She is not an authorially confirmed goddess.
 
-2. **Combat Arenas**: The various magical factions of Vorthara each sponsor gladiator teams or magical creations in these arenas. Warlocks from the Crucible test their combat spells against **golems** created by the Ironbound Guild, or undead minions raised by the Pale Hand. These battles demonstrate not only the effectiveness of magic but also advertise the capabilities of each faction. Blood mages from the **Red Covenant** and **necromancers** from the Pale Hand often enhance the gladiators to showcase the full might of their arcane arts.
+## Ordinary Life
 
-3. **Arena of Champions**: The **Arena of Champions** is the largest and most prestigious of the city's combat arenas, hosting the most significant blood sport events. Factions, guilds, and even individual mages enter their creations, mercenaries, or personally step into the arena to prove their superiority. The arena also serves as a way for the **Council of Magi** to enforce the **no-infighting** law—any caught violating the rule are often thrown into the arena to fight for their survival as punishment.
+Most residents are carriers, cooks, builders, laundresses, clerks, ward hands, miners, gardeners, healers, performers, servants, traders, and families living around magical institutions rather than practitioners. Arenas test products and settle some disputes, but they do not define every neighborhood.
 
----
+## Present Tensions
 
-### **Magical Schools and Factions**
-
-Vorthara’s many magical factions use the arenas as both a battleground and a showcase for their skills. These schools are in constant rivalry, and their combatants frequently fight in the arenas to prove the superiority of their magic. Some of the key factions include:
-
-- **[[Collegium of Doors]]**: A smaller specialist school of wardcraft, containment, spatial redirection, and professional counter-breach. It hosts Breach-Week, the city's public ward-breaking festival.
-
-- **The Crucible**: This war college specializes in **elemental war magic**—fire, ice, lightning, and acid. Warlocks trained here are known for their **quick casting**, using dual **wands** and **magic gauntlets** to unleash rapid-fire spells. In the arenas, Crucible warlocks often face off against other warlocks, **golems**, or magical creatures, demonstrating the destructive power of their elemental combinations.
-
-- **The Nightveil Coven**: Specializing in **shadowbinding**, Nightveil mages summon **Nightmares** from the **Shadowrealm**. These incorporeal creatures are used to fight in the arena, often binding themselves to the bodies of the dead to become terrifying, temporary combatants. Shadowbinders are feared for their ability to control the shadows and the creatures that live inside them, making them formidable opponents in arena battles.
-
-- **The Ironbound Guild**: Known for their **golem crafting**, the Ironbound Guild creates powerful **war golems** used in arena battles. These constructs are imbued with arcane energy and powered by **phylacteries**, making them deadly and durable combatants. The **Black Forgers**, a secretive group within the guild, still create **golems powered by sacrificial magic**, though these creations are only seen in the most elite arenas.
-
-- **The Fleshweavers**: Worshippers of **Typhonius**, minor god of Monsters, the Fleshweavers create **monstrous hybrids** from flesh and magic. These creatures are bred for war and are the stars of the **Flesh Pits**, where they battle against each other, **golems**, and **undead** in brutal spectacles. The Fleshweavers are masters of **blood magic** and **life manipulation**, often partnering with the **Red Covenant** to enhance their creations with ritual sacrifices.
-
-- **Arachnara’s Weavers**: Devotees of **Arachnara**, minor goddess of Vermin, these mages control **swarms of vermin** and can transform into masses of insects or other creatures. In the arenas, their swarms overwhelm opponents, devouring them alive or driving them to madness. The most powerful among them become **Worms-that-Walk**, using the bodies of insects to replace their own.
-
-- **The Red Covenant**: Masters of **blood magic**, the Red Covenant performs **ritual sacrifices** to fuel their spells. In the arenas, they often act as **enhancers**, using their magic to empower fighters or bolster the abilities of **warbeasts** and **golems**. Their connection with the **Fleshweavers** ensures that their magic plays a vital role in arena battles.
-
-- **The Pale Hand**: Specializing in **necromancy**, the Pale Hand raises **undead armies**, doing everything from zombies and skeleton soldiers who fight in the arenas. Their **undead gladiators** are pitted against living and non-living opponents alike, providing gruesome displays of necromantic power. The **Black Mud** they use to raise the dead is tied to the **Adversary**, giving them a dark, ominous presence in every fight. The also facilitate in the creation of intelligent undead such as **death knights** and **liches** for those with the means and motivation to pursue those dark paths.
-
-- **The Crafters’ Union and The Elixirium**: The **Crafters’ Union** creates **magical artifacts**, **enchanted weapons**, and **armors** used by gladiators in the arenas. They frequently showcase their wares by sponsoring **champions** equipped with their latest enchanted gear. Their sister guild, **The Elixirium**, supplies potions and elixirs that heal, enhance strength, or even offer temporary magical abilities during combat, making them essential sponsors of arena combatants.
-
----
-
-### **Magical Economy and the Arena Industry**
-
-The **arenas** are not only a source of entertainment but also a vital part of Vorthara’s economy. The sale of **magical creatures**, **enchanted weapons**, and **golems** is facilitated through these battles, as buyers witness firsthand the capabilities of Vorthara’s magical creations. The city’s **arcane forges** and **flesh pits** work tirelessly to supply the demands of warlords, city-states, and private patrons seeking the most powerful mercenaries and magical tools.
-
-The **floating greenhouses** surrounding the spire also provide rare magical ingredients for potions and rituals, many of which are used in the arenas to enhance combatants or heal them after brutal battles. Potions of strength, agility, and even **resurrection** are commonly sold to arena fighters or their sponsors.
-
----
-
-### **Government: The Council of Magi**
-
-The **Council of Magi** loosely governs Vorthara, enforcing the single law of **no infighting within the city**. The council is made up of representatives from the major magical factions, each vying for control over the city’s wealth and influence. The council’s main responsibility is to maintain the **neutrality** of Vorthara and ensure that internal conflicts are settled in the **arenas** rather than on the streets.
-
----
-
-### **Military and Mercenary Forces**
-
-Vorthara’s military might lies not in a traditional army but in its **mercenaries**, **warlocks**, and **arcane constructs**. The city produces some of the most feared warlocks and magical soldiers in the world, who are often hired by outside forces. The **war golems**, **fleshwarped beasts**, and **undead armies** that fight in the arenas are also sold to city-states and empires, furthering Vorthara’s influence and wealth.
-
----
-
-### **Conclusion**
-
-The **Citadel of Vorthara** is a city where **magic** and **blood sport** intertwine. Its **arenas**, **magical academies**, and **flesh pits** form the backbone of its culture, economy, and power. Vorthara is a city where **no magic is forbidden**, and the pursuit of arcane knowledge is matched only by the spectacle of gladiatorial combat. It is a place of **limitless potential**, where the greatest magical minds battle for supremacy, both in their **arcane arts** and in the **arenas** that define the city’s heart.
+The Spire's unknown function, faction procurement, missing bodies, Black Spire leakage, foreign recruitment, interdict, arena violence, road neutrality, and whether Salvi Corren's wartime authority could become the government Vorthara has always refused.
 
 ## Navigation
 
-- [[The Sestaran Concord Overview]]
-- [[Collegium of Doors]]
-- [[Canon Index]]
-- [[Canon Index]]
+- [[Lives of Vorthara]]
+- [[Magical Schools and Factions of Vorthara]]
+- [[Sestara and the Wider World]]

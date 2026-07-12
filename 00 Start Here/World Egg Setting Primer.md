@@ -182,11 +182,15 @@ Rule: disputes persist because truth has value; institutions manufacture it.
 - Known for “weaponized Holy Flame” usage to combat the Ahl-e-Ahd binding magick.
     
 
-### Sestaran Concord (amplifier and marketplace)
+### Sestaran Concord (seven defensive city-states)
 
-- Competitive city-states; trade, finance, archives, philosophy.
-    
-- The best place for secrets to circulate and be weaponized.
+- Seven independent cities share no ruler, law, treasury, church, citizenship, or foreign policy. Their automatic military compact exists only to resist external conquest.
+
+- Fiorenzia finances, Sermora sails, Aversia arms, Vorthara experiments, Castara explores, Orsena mediates, and Vardessa connects the roads.
+
+- City identity comes first. Citizenship is narrow and local; most residents cannot vote where they live.
+
+- The Concord is the best place for goods, specialists, secrets, exiles, and rival powers to meet without agreeing on anything else.
     
 
 ### Ahl-e-Ahd (layered Covenant civilization)

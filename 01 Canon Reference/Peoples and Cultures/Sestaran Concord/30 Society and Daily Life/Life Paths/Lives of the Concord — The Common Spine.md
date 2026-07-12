@@ -5,46 +5,49 @@ canon_level: core
 visibility: public
 era: ["Present Day"]
 region: ["Sestaran Concord"]
-culture: ["Sestaran"]
+culture: ["Fiorenzian", "Sermoran", "Aversian", "Vortharan", "Castaran", "Orsenan", "Vardessan"]
 related_factions: []
 appears_in: []
-needs: ["add two named representative NPCs and one city-level story seed"]
+needs: []
 tags: []
 ---
-# Lives of the Concord — The Common Spine
+# Lives of the Concord - The Common Spine
 
-The Sestaran companion to the Thalmyric and Eclessian lives passes — and the third answer to the same question. Thalmyria sorts its people by *fire*, Eclessia by *confession*; **the Concord sorts by solvency.** Territory files: [[Lives of Fiorenzia]], [[Lives of Aversia]], [[Lives of Vorthara]], [[Lives of Sermora]], [[Lives of Castara]].
+There is no single Sestaran life. The shared pattern is movement between cities whose rights do not travel with the person.
 
-## The Vertical
+## City Before Concord
 
-Every Sestaran city stacks the same three tiers under different names: the **great families** (whoever sits on the ruling council this generation); the **citizen-guilds** (the enfranchised middle — masters, captains, licensed professionals — citizenship is *chartered*, jealously narrow, and purchasable at prices that keep it so); and the **portside** (everyone else: laborers, foreigners, sailors between ships, the unlicensed — most of every city, owning none of it). Movement between tiers is the Concord's civic religion: it happens *just* often enough to keep the portside buying lottery-shares in itself.
+People identify by city, ward, household, guild, ship, company, or school. “Sestaran” becomes useful abroad, in war, or when negotiating with someone who does not care which harbor issued a document.
 
-## The Faith of the Merchant Age
+## Citizen, Resident, and Stranger
 
-Officially old Church; practically its own weather. Bishops come from merchant families and administer splendor competently; feast-days are magnificent, catechism thin; the educated quote Vetti in private and endow chapels in public, and see no contradiction because there isn't one — **Sestaran piety is real and worldly at once**, and Frate Severin's four years proved how deep both run (Fiorenzia still flinches). Vorthara sits under a perpetual unresolved **interdict** that three Primarchs have declined to enforce and every Sestaran ledger has priced at zero. The Freeflame is a port-district curiosity ("a religion with no processions — how do they *sell* anything?"). What the Concord genuinely venerates: **Saint Naris** on every keel, **Saint Dorn** on every road-gate, and the contract-oath, which is kept with a rigor that shames cathedrals.
+Citizens vote according to local charter and can hold protected property or guild rights. Protected residents may work, worship, sue, and inherit without political voice. Foreigners rely on patrons, quarters, ship articles, fair peace, or temporary licenses. The unregistered can live in a city for decades while remaining removable.
 
-## The Contract Culture
+Citizenship is inherited, earned, purchased, adopted, married into, or forged. Movement occurs often enough to sustain hope and rarely enough to preserve old families.
 
-The notary is the Concord's parish priest: birth, apprenticeship, marriage, partnership, and death all pass through sealed instruments, and the **notarial roll** is the true civic memory. Sestarans read clauses the way Thalmyrics read flames. This is also why the Covenant unnerves them less than it does everyone else — and why the Under-Ledger finds Sestara simultaneously irresistible and well-defended: everyone here *audits*.
+## Work and Household
 
-## The Shared Roads, Bent
+Farmers and tenants serve urban markets. Artisans live by guild, workshop, or patron. Sailors, soldiers, warlocks, factors, clerks, performers, priests, servants, and carriers move between jurisdictions. Households combine kin, apprentices, dependants, servants, clients, and business partners; the governing document changes at every city gate.
 
-- **The farmer** exists but serves the city: contado tenants growing wine, oil, and mulberry for urban landlords on short commercial leases — closer to a Veridancian than a Virelian, with the market's volatility in place of the lord's whim.
-- **The soldier** is hired: the Concord keeps no levies — it keeps *contracts* (Aversian companies, Crucible warlocks, Sermoran fleets), and the citizen-militias exist mostly to hold walls until the professionals arrive.
-- **The bureaucrat** is the notary-secretary class — Vetti's profession — serving councils that change and archives that don't.
-- **The priest and bishop** administer more than they shepherd; the **criminal** is often a licensing question (yesterday's pirate is today's privateer); the **noble** is a merchant whose money has had time to acquire manners.
-- **The distinct Sestaran roads**: the **factor**, the **debtor** (Fiorenzia's particular institution), the **contract-captain**, the **Crucible warlock**, the **gladiator**, the **privateer**, the **colonist**, the **artist-humanist**, and the **courtesan-informant** — each detailed in its home city's file.
+## Faith and Festival
 
-## The Strange-Dose (Concord rule)
+The Redeemer's feasts, saints of road and sea, guild patrons, civic victories, fairs, races, arena days, ship blessings, and family memorials shape public time. Piety can be sincere, political, spectacular, quiet, or all four. See [[Faiths of the Seven Cities]].
 
-Higher than most of Eclessia and *commercialized*: the Concord meets the uncanny as inventory — Vortharan exports, Expanse artifacts, drake-gem markets — which produces the region's characteristic spiritual posture: **familiarity without reverence**, the exact inverse of the Folk. A Sestaran will haggle over a relic he half-believes could save his soul, and win the haggle.
+## City Roads
+
+- [[Lives of Fiorenzia]]
+- [[Lives of Sermora]]
+- [[Lives of Aversia]]
+- [[Lives of Vorthara]]
+- [[Lives of Castara]]
+- [[Lives of Orsena]]
+- [[Lives of Vardessa]]
 
 ## Design Rule
 
-Place any Sestaran NPC by **city, tier, and ledger-position** (whose paper do they hold; who holds theirs). Confession matters less than collateral; ancestry less than instruments.
+Place a character by city, legal status, livelihood, household or faction, faith, and the right they possess in one jurisdiction but lose in another. Solvency matters, but it is not the only human relationship.
 
 ## Navigation
 
 - [[The Sestaran Concord Overview]]
-- [[Lives of Eclessia — The Common Spine]]
-- [[Lives of Thalmyria — Seven Roads from Cradle to Grave]]
+- [[Sestaran Citizenship and Office Register]]

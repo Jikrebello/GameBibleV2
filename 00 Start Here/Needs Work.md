@@ -24,4 +24,6 @@ This page is the human-readable triage board. It includes non-canon notes and ca
 - Tune the remaining Grenzburg implementation values: rewards, material-state deltas, approval thresholds, field roles, and UI terminology.
 - Map Mazrakan, Al-Qahur's basin, Qazmarid's strait defenses, Zanthir's tributary roads, and the present Velian jurisdictions using the reconstructed Covenant authority notes.
 - Fix Mazrakan's population and district boundaries only when it enters playable-setting production.
+- Fix Orsena's population, harbor districts, and cistern capacity during a playable-setting pass.
+- Fix Vardessa's annual fair calendar and Three Roads travel table.
 - Add Left Hand cells only where a playable region requires them; avoid disconnected villain catalogues.

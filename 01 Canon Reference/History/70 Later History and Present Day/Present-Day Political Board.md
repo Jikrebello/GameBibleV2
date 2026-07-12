@@ -33,7 +33,7 @@ The densely layered old heartland: urban, mystical, imperial, and militarized, w
 
 ### Sestaran Concord
 
-Archive-market civilization. Wants leverage, trade, art, secrets, magical schools, banking influence, and profitable ambiguity.
+Seven independent city-states joined only for external defence. Fiorenzia wants credit and cultural authority; Sermora wants command of sea access; Aversia wants military clients and strategic depth; Vorthara wants freedom from government; Castara wants the Boiling Sea future; Orsena wants indispensable neutrality; Vardessa wants open roads and fair peace. Collectively they prevent conquest. Separately they finance, arm, transport, frustrate, and spy upon everyone, including one another.
 
 ### Ahl-e-Ahd
 

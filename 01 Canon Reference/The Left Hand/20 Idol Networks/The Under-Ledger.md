@@ -2,7 +2,7 @@
 type: faction
 status: canon
 canon_level: core
-visibility: restricted
+visibility: author-only
 era: []
 region: []
 culture: []
@@ -19,7 +19,7 @@ tags: []
 
 Not a bank — a **parasite of banks**. The Under-Ledger teaches that ownership is the only sacrament and interest the only prayer that is always answered. Its cells colonize existing financial institutions the way mold colonizes bread: a clerk here, a factor there, a lending desk whose margins run strange. Their instruments are real finance bent one degree hellward: loans engineered to be unrepayable *specifically* (the default is the product — land, heirlooms, daughters' marriages, and at the deep end, collateralized *names*); hoard-cults among the rich (the Principal's oldest rite: the locked room you add to and never spend, the dragon-sleep of capital); and famine arbitrage run in liaison with the Long Table.
 
-The **Silent Partners** inside the Medori operation in Grenzburg are an Under-Ledger cell. The Bank's hidden Ahl-e-Ahd contract lineage makes it the single most valuable infiltration target in the world: an institution that already knows how to bind.
+The **Silent Partners** inside the Medori operation in Grenzburg are an Under-Ledger cell. The Medori's inherited knowledge of Covenant contract forms makes the Bank an unusually valuable infiltration target: an institution that already knows how to bind. The family connection is controlled in [[Medori Family - Authorial Truth]].
 
 ## Structure and Signs
 

@@ -81,7 +81,11 @@ The filioque becomes the **Procession of the Flame** controversy: Eclessia teach
 
 ### Renaissance Italy → The Sestaran Concord
 
-Direct mappings: Fiorenzia/Medori = Florence/Medici; Sermora (Doge, Admiralty, espionage) = Venice; Aversia (arms, contract-captains) = Milan under the Sforza; Vorthara = the university-occult world with no clean analogue. **Nicanor Vetti** carries the Machiavelli function, **Frate Severin** the Savonarola function, and Alessior VI with his Medori creditors the Borgia function. Aversian company captains remain local expansion material rather than a missing continental institution.
+The governing dynamic is Renaissance Italy crossed with pirate republics, free imperial cities, and modern entrepôt microstates: intense local patriotism, narrow citizenship, private war, common fear of conquest, and specialization strong enough to make larger empires dependent.
+
+Direct mappings: Fiorenzia/Medori draws from Florence/Medici; Sermora from Venice, Genoa and Caribbean privateer polities; Aversia from Milan under military dynasties; Vorthara from Kaer Maga's anarchic refuge translated through World Egg magic; Castara from Atlantic boom ports and colonial companies; Orsena from Singapore, Ragusa and neutral free ports; Vardessa from Frankfurt, Nuremberg, Swiss free cities and San Marino. The Seven-Seal Muster carries Swiss and defensive-league logic without creating a federal state.
+
+**Nicanor Vetti** carries the Machiavelli function, **Frate Severin** the Savonarola function, and Alessior VI with his Medori creditors the Borgia function. The public notes must use native names and institutions rather than these analog labels.
 
 **Triangle (Sestara):** GOOD — civic humanists who believe archives and art redeem the fractured inheritance; BAD — the Pale Hand / Fleshweaver end of Vorthara, where knowledge has no brakes; UGLY — the Medori, financing every side of every war including both churches' reunification schemes.
 

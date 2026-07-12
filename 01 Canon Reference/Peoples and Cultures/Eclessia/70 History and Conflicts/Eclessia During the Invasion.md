@@ -24,7 +24,7 @@ The east was not untouched. Caleran's loss severed military pay, grain schedules
 
 ## The Third Crusade, 906-908 AR
 
-The advance was stopped at Caldria by provincial troops, refugee formations, knightly confraternities, and local levies. Later Eclessian chronicles call this the Third Crusade; contemporary records describe a desperate coalition with no single commander.
+The advance was stopped at Caldria by provincial troops, refugee formations, knightly confraternities, local levies, and controversial Vortharan specialists. At [[The Battle of the Shattered Engines (907 AR)]], Caldrian forces held Crown Gate Pass while Vortharan counter-scripts destroyed two Covenant siege golems and crippled a third. Later Eclessian chronicles call the entire defence the Third Crusade; contemporary records describe a desperate coalition with no single commander.
 
 Caldria's fortress culture and the political authority of its orders date from this defense. The halt protected the eastern heartland but did not recover the empire.
 
@@ -50,4 +50,4 @@ Between 908 and 975 AR, emergency lordships hardened into principalities. None c
 - [[The Consolidation of the Eclessian Church]]
 - [[Chronology of the Known World (AR Dating)]]
 - [[Eclessia Overview]]
-
+- [[The Battle of the Shattered Engines (907 AR)]]

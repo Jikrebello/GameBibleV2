@@ -69,7 +69,7 @@ Some say it was a miracle. Others, a prophecy fulfilled. But all agreed: the gen
 
 ### **IV. The Turning Tides**
 
-With **Soltirael** in hand, Caedros led the faithful to a legendary ambush at the **Valley of Halberths**, where his tactics crippled an elite division of the Ahl-e-Ahd. This, combined with the earlier defense of **Caldros** and the coordination with the warlocks of **Vorthara**, marked the turning of the tide.
+With **Soltirael** in hand, Caedros led the faithful to the legendary ambush at **Caelmount**, where his tactics crippled an elite Covenant division. This victory followed Caldria and Vorthara's destruction of the northern siege engines and marked the turning of the tide.
 
 Soon after, the Thalmyric banners flew at **Virelos**, and then at the gates of **Caleran**.
 
@@ -105,4 +105,3 @@ To this day, on the **Day of the Reclamation**, the emperor walks barefoot into 
 
 - [[Canon Index]]
 - [[Canon Index]]
-

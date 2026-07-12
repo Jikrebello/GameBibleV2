@@ -6,7 +6,7 @@ visibility: author-only
 era: ["Present Day"]
 region: ["Vorthara"]
 culture: ["Sestaran", "Vortharan"]
-related_factions: ["Council of Magi", "Crafters' Union", "Fleshweavers"]
+related_factions: ["Wardens of the Crown Road", "Crafters' Union", "Fleshweavers"]
 appears_in: ["The Bailiff's Ram"]
 needs:
   - place the teaching-house within Vorthara's final district map
@@ -69,4 +69,3 @@ The House combines flesh-pattern craft, artifact engineering, identity indexing,
 - [[The Citadel of Vorthara Overview]]
 - [[Reversion Crook]]
 - [[Collateral Beasts]]
-

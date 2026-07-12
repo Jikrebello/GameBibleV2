@@ -6,7 +6,7 @@ visibility: author-only
 era: ["Present Day"]
 region: ["Vorthara", "Vortharan geothermal district", "Ashplume Vault"]
 culture: ["Sestaran", "Vortharan"]
-related_factions: ["The Vaunt's Stable", "Pale Hand", "Council of Magi"]
+related_factions: ["The Vaunt's Stable", "Pale Hand", "Wardens of the Crown Road"]
 appears_in: ["The Bragging Vault"]
 needs:
   - decide his post-adventure standing after the canonical ending is selected

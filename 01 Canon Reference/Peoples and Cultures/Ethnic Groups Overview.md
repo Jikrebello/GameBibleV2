@@ -143,7 +143,7 @@ Locked additions:
 - **Feminine Traits**:
   - **Facial features**: A mix of **Mediterranean and Nordic** influences. **Soft, rounder faces** or **sharper features** depending on city-state. Women in coastal regions have **tanner skin**, while northern women exhibit **pale, angular features**.
   - **Hair**: **Dark brown to light brown**, with wavy or curly textures. In northern regions, **blond** and **auburn** hair is more common.
-  - **Body**: Variable—some women exhibit **slender frames**, particularly in city-states like **Venara**, while others in **Aversia** or **Seramora** show **stronger, more muscular builds** due to the influence of **mercenary culture**.
+  - **Body**: Variable across city, household, labor, diet, and ancestry; older attempts to assign one build to whole Sestaran cities are not authoritative.
 ---
 ### **Jirahar**
 - **General Heights**: Men typically range from **5'6" to 6'1"**, and women range from **5'2" to 5'8"**.

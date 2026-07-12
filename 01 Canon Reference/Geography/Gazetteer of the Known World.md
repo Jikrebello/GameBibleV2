@@ -42,7 +42,7 @@ The yellow desert crescent contains several peoples and unequal states. **Iqasha
 
 ### The Sestaran Concord — the peninsula and isles
 
-Green on the map, wedged between the giants. **Fiorenzia** (Medori seat) and **Vorthara** (the Black Spire) on the peninsula; **Sermora** on its isles commanding the Thalassian; **Aversia** in the Iron Foothills to the southeast; **Castara** far to the northeast on the Boiling Sea coast — gateway to the Emerald Expanse and effectively a Concord colony-city beyond the Concord.
+Green on the map, but never enclosed by one border. **Fiorenzia** holds the fertile northwestern highlands and river contado. **Vorthara** occupies the Black Spire and Crown Gate Pass at the mountain knot between Thalmyria, Eclessia, and Sestara. **Orsena** is a tiny neutral harbor at the range's eastern foot where the Eclessian road reaches the Thalassian. **Vardessa** holds the inland Three Roads Basin between Fiorenzia, Vorthara, and Aversia. **Sermora** commands central islands and sea lanes. **Aversia** controls the southern Iron Foothills and fortress roads. **Castara** lies far northeast as a detached Boiling Sea enclave and gateway toward the Emerald Expanse.
 
 ### The Eclessian Imperium — east
 

@@ -26,11 +26,12 @@ Develop Caleran as the setting's great-city sandbox. Its population, fourteen di
 - **Great-city sandbox:** [[Caleran Great-City Dossier]] is the production doorway for urban intrigue, archaeology, and occult investigation.
 - **Vault structure:** active reference material uses numbered, subject-owned folders; superseded material is indexed through [[Archive Index]] and the [[Physical Reorganization Manifest]].
 - **Covenant structure:** [[Ahl-e-Ahd Canon Register]] controls the layered peoples, Witnessed/Sealed divide, unequal states, and authorial Fourth Seal truth. [[Covenant Reconstruction Audit]] records the full reference pass.
+- **Sestaran structure:** [[Sestaran Canon Register]] controls seven independent seals joined only by [[The Seven-Seal Defensive Muster]]. Orsena and Vardessa are locked microstates; Vorthara has no common government. [[Sestaran Reconstruction Audit]] records the full reference pass.
 
 ## Next Three Workstreams
 
-1. **Covenant map production:** place Mazrakan, the Al-Qahur water system, Qazmari ports, Zanthir roads, and present Velian jurisdictions on the political and trade layers.
-2. **Mazrakan playable-setting decision:** determine whether [[Mazrakan, Market of the Nine Measures]] becomes the Covenant's first detailed urban sandbox or remains a regional anchor while Zanthir receives priority.
+1. **Regional map production:** turn the Covenant and Sestaran control notes into finished roads, trade, harbor, fair, water, fortress, and jurisdiction layers.
+2. **Next playable-city selection:** choose between Mazrakan, Vorthara, Orsena, Vardessa, and Zanthir only after comparing their campaign functions against Caleran.
 3. **Caleran and Grenzburg implementation:** continue map and adventure blocking from their locked production bibles without reopening their canon spines.
 
 ## Locked Rulings
@@ -44,6 +45,8 @@ Develop Caleran as the setting's great-city sandbox. Its population, fourteen di
 - The four Left Hand supply chains are authorial truth. [[The Creditor]] is the patron behind Malak al-Ahd, while the genuine Fourth Seal remains unresolved.
 - Ahl-e-Ahd is an imperial-confessional identity shared by distinct Ahdari, Iqashari, Qahuri, Qazmari, Zanthiri, and Velian peoples. Iqashar is the imperial center; Al-Qahur the sacred military-household basin; Qazmarid the independent Sealed-Blood counter-caliphate; Zanthir the autonomous mixed gateway.
 - Covenant law calls recognized Velian, Thalmyric, and Eclessian Redeemer communions the [[The People of the Lamp|People of the Lamp]]. Their protections are genuine and unequal.
+- The Sestaran Concord contains Fiorenzia, Sermora, Aversia, Vorthara, Castara, Orsena, and Vardessa. “Sestaran” is secondary to city identity. Only external invasion activates collective obligations.
+- [[The Battle of the Shattered Engines (907 AR)]] is the Caldrian-Vortharan victory that broke the northern Covenant advance and materially enabled the later mountain resistance.
 - [[The Grey Sweat]], [[The Korrheim Accord]], and the [[Freeflame Reformation]] are the source events for Eclessia's demographic and confessional present.
 - The protagonist is a customizable Bank debtor seconded to the Duke: Koss controls the contract, Pierre controls public deployment, and Alaric controls strategy.
 - The Duke's Peace is the canonical continuation. Leviticus is the coerced winter betrayer and is redeemed through public testimony.
@@ -56,5 +59,6 @@ Develop Caleran as the setting's great-city sandbox. Its population, fourteen di
 - Named regional cells for the Left Hand as new playable settings are developed.
 - Final visual treatment for Caleran's surface and undercity maps.
 - System-specific encounter and reward tuning for selected Caleran adventures.
+- Orsena population, harbor districts, and cistern capacity; Vardessa's fair calendar and road travel table.
 - Population, district, and playable-setting numbers for Mazrakan.
 - Present road, fortress, and jurisdiction maps for Zanthir and the Velian States.

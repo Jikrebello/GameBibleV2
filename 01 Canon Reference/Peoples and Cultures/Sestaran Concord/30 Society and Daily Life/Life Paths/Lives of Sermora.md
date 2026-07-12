@@ -4,11 +4,11 @@ status: canon
 canon_level: core
 visibility: public
 era: ["Present Day"]
-region: ["Sestaran Concord"]
-culture: ["Sestaran"]
+region: ["Sermora", "Sermoran Isles"]
+culture: ["Sermoran"]
 related_factions: []
 appears_in: []
-needs: ["add two named representative NPCs and one city-level story seed"]
+needs: []
 tags: []
 ---
 # Lives of Sermora
@@ -17,7 +17,7 @@ The canal-republic: a navy pretending to be a market, a spy service pretending t
 
 ## The Arsenal Hand and the Canal-Folk
 
-Sermora's portside works the **Arsenal** — the fortified state shipyard whose assembly-sheds can frame a war-galley in weeks (the republic's true crown jewel; its workers are oath-bound, well-paid, and forbidden to emigrate, which tells you everything). Around it: caulkers, rope-walks, chandlers, pilots who know the lagoon's false channels (a hereditary mystery and a military secret), and the canal-boat families who are the city's bloodstream and see, collectively, everything — the Council of Ten's cheapest and best informant network, mostly without knowing which fare paid double.
+Sermora's portside works the **Arsenal** — the fortified state shipyard whose assembly-sheds can frame a war-galley in weeks. Its workers are oath-bound, well paid, and forbidden to sell protected methods abroad. Around it work caulkers, rope-makers, chandlers, pilots who know the lagoon's false channels, and canal-boat families who see most of the city without necessarily knowing which passenger reports to the [[The Sermoran Republic Overview|Veiled Office]].
 
 ## The Privateer (the licensed road)
 
@@ -29,7 +29,7 @@ Sermora's soft-power profession, guilded in all but name: the great salon-keeper
 
 ## The Merchant Lord, the Doge, and the Ten
 
-The patrician road: galley-shares before marriage, marriage as fleet-merger, the family palace's ground floor a warehouse and its portrait floor a negotiation. The summit is Council seats and, for one exhausted grandee a decade, the **Dogeship** — gorgeously robed, ceremonially supreme, structurally supervised (canon), and required annually to **wed the Thalassian**: the Ring-Casting, when the Doge casts a gold ring into the deep water "in token of true and perpetual dominion" — a marriage the sailors will tell you the sea has never formally accepted, which is why Naris-tokens outnumber wedding rings on every keel. Above and beneath it all, the **Council of Ten** and their instruments (the Black Dagger Guild — canon): the road *into* the Ten is invisible by design, and the road out is a state funeral with excellent attendance.
+The patrician road begins with galley-shares before marriage and marriages negotiated like fleet mergers. Its summit is the Dogeship: richly robed, ceremonially prominent, and constrained by the Admiralty, merchant houses, guilds, and ship-share interests. The annual Ring-Casting claims friendship and command over the Thalassian; sailors note that the sea has never signed. Behind public ceremony, the **Veiled Office** investigates treason and foreign purchase, while the **Night Oar** performs deniable seizures and violence. Neither institution rules alone, and both accumulate enemies among the very houses they protect.
 
 ## Priest and Criminal
 

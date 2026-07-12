@@ -27,6 +27,8 @@ Occupation repopulation mixed garrison households, rewarded clients, contract-bo
 
 Caedros Aetherion joined surviving soldiers, refuge councils, monasteries, village militias, and dispossessed houses. The resistance initially fought through ambush, evacuation, road denial, and the preservation of people rather than territory.
 
+The Covenant army's defeat at [[The Battle of the Shattered Engines (907 AR)]] had already ended its Eclessian advance, destroyed much of its siege train, and forced occupation forces to cover too many roads with too few engines. Vorthara's intervention created an opportunity for the resistance without making the city part of the Thalmyric cause.
+
 [[The Battle of Caelmount]] in 917 proved a Covenant field force could be defeated in the mountains. Virelos was secured in 921, giving the rebellion a defensible political center.
 
 ## Crown and Burning Banners, 922-949 AR
@@ -58,6 +60,7 @@ Four generations of flight and return concentrated population around walls, mark
 - [[The Invasion and the Fall]]
 - [[The Refuge and the Rise of Veridun]]
 - [[The Battle of Caelmount]]
+- [[The Battle of the Shattered Engines (907 AR)]]
 - [[The Coronation at Virelos]]
 - [[The War of the Burning Banners]]
 - [[The Reclamation of Caleran]]

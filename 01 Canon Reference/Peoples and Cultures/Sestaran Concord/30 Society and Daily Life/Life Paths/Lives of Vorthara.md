@@ -4,11 +4,11 @@ status: canon
 canon_level: core
 visibility: public
 era: ["Present Day"]
-region: ["Sestaran Concord"]
-culture: ["Sestaran"]
+region: ["Vorthara", "Vortharan Range"]
+culture: ["Vortharan"]
 related_factions: []
 appears_in: []
-needs: ["add two named representative NPCs and one city-level story seed"]
+needs: []
 tags: []
 ---
 # Lives of Vorthara
@@ -35,7 +35,7 @@ The Flesh Pits (canon) run two rosters: the **made** (Fleshweaver constructs and
 
 ## Priest, Noble, Criminal
 
-The interdict means no bishop: chapels cluster *outside* the walls (the Lamplighters' Gate row), served by clergy officially "ministering to travelers" for three centuries of wink. The Council of Magi (canon) is the nobility — school-masters and faction-heads whose feuds are the city's politics and occasionally its weather. Crime is inventory-shaped: reagent theft, script-piracy, unlicensed castings (the liability courts' criminal docket), grave-goods for the Fleshweavers, and the standing quiet trade the leak-wardens are really watched for — *selling what leaks* before reporting it.
+The interdict means no bishop: chapels cluster *outside* the walls along Lamplighters' Gate, served by clergy officially ministering to travellers. Vorthara has no nobility recognized across the city. School masters, faction heads, ward patrons, gang elders, arena owners, and road wardens each possess authority only where others will enforce it. Crime is jurisdiction-shaped: reagent theft, script piracy, grave goods, body procurement, unlicensed casting inside a protected ward, and selling what leaks before reporting it.
 
 ## Hooks
 

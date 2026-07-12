@@ -22,7 +22,7 @@ These city-states are known for their shifting alliances, political intrigue, an
 
 ---
 
-### **1. [The Grand Duchy of Fiorenzia](The%20Grand%20Duchy%20of%20Fiorenzia%20Overview.md)**
+### **1. [[The Grand Duchy of Fiorenzia Overview|The Grand Duchy of Fiorenzia]]**
 
 **Capital**: **Fiorenzia**  
 **Territory**: The **Fiorenzian Highlands**, a region of rolling hills, vineyards, and grand estates.  
@@ -40,7 +40,7 @@ Fiorenzia’s wealth flows not only from its banking systems but also from its f
 
 ---
 
-### **2. [The Principality of Aversia](The%20Principality%20of%20Aversia%20Overview.md)**
+### **2. [[The Principality of Aversia Overview|The Principality of Aversia]]**
 
 **Capital**: **Aversia**  
 **Territory**: The **Iron Foothills**, a mountainous region rich in natural resources such as **iron** and **coal**.  
@@ -58,7 +58,7 @@ Aversia’s **siege engineers** and **soldiers** are highly sought after, with t
 
 ---
 
-### **3. [The Citadel of Vorthara](The%20Citadel%20of%20Vorthara%20Overview.md)**
+### **3. [[The Citadel of Vorthara Overview|The Citadel of Vorthara]]**
 
 **Capital**: **Vorthara**  
 **Territory**: The **Vortharan Highlands**, a mystical region teeming with arcane energies.  
@@ -76,7 +76,7 @@ Vorthara is known for its **Flesh Pits**, where creatures crafted through blood 
 
 ---
 
-### **4. [The Free City of Castara](The%20Free%20City%20of%20Castara%20Overview.md)**
+### **4. [[The Free City of Castara Overview|The Free City of Castara]]**
 
 **Capital**: **Castara**  
 **Territory**: The **Castrian Frontier**, located on the far eastern edge of the Concord, bordering the **Boiling Sea**.  
@@ -94,7 +94,7 @@ As the **"New World Gold Rush"** unfolds, Castara’s population has exploded, w
 
 ---
 
-### **5. [The Sermoran Republic](The%20Sermoran%20Republic%20Overview.md)**
+### **5. [[The Sermoran Republic Overview|The Sermoran Republic]]**
 
 **Capital**: **Sermora**  
 **Territory**: The **Sermoran Isles**, a strategic archipelago of fortified naval bases, pirate havens, and bustling canal cities.  
@@ -122,4 +122,3 @@ The **Concord of Sestara** is a region of **constant intrigue**, where alliances
 
 - [[Canon Index]]
 - [[Canon Index]]
-

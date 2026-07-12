@@ -64,8 +64,11 @@ The **Fäskogarfolk** represent a culture divided by divergent spiritual paths. 
 
 Their connection to primal forces, their harsh environment, and their warrior ethos make the **Fäskogarfolk** a formidable presence in the southern regions of the world, with their influence felt in both the physical and supernatural realms.
 
+## Sestaran Contact
+
+Sestaran factors reach Folk lands through Eclessian roads and Thalassian shipping in search of timber, amber, medicines, guides, and place-bound materials. Trade can be fair; fraudulent concessions, relic theft, and destructive extraction are recurring conflicts. See [[Sestara and the Wider World]].
+
 ## Navigation
 
 - [[Cultures MOC]]
-- [[Canon Index]]
 - [[Canon Index]]

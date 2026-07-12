@@ -45,7 +45,7 @@ Use [[Southern Cold Belt and Grobi Frontier]] as the governing note for this cli
 ## Required Map Layers
 
 - Mark capitals, holy cities, pilgrimage roads, trade routes, mountain passes, frontier duchies, Velian States, Zanthir, Mazrakan, and Grenzburg.
-- Playable-region detail for Grenzburg, Caleran, Vorthara, Fiorenzia, Aversia, Caldria, and the Velian States.
+- Playable-region detail for Grenzburg, Caleran, Vorthara, Fiorenzia, Aversia, Orsena, Vardessa, Caldria, and the Velian States.
 - Physical routes for each major war, migration, and population transfer.
 
 ## Thalmyric Heartland Logic

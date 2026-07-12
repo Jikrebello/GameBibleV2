@@ -5,54 +5,46 @@ canon_level: core
 visibility: public
 era: ["Present Day"]
 region: ["Sestaran Concord", "Thalassian Sea"]
-culture: ["Sestaran"]
-related_factions: ["Medori Bank", "Admiralty Council", "Council of Magi"]
+culture: ["Fiorenzian", "Sermoran", "Aversian", "Vortharan", "Castaran", "Orsenan", "Vardessan"]
+related_factions: ["Seven-Seal Defensive Muster", "Medori Bank", "Sermoran Admiralty", "House of Soran"]
 appears_in: ["Grenzburg"]
-needs:
-  - define the Concord's shared assembly procedure during external war
-aliases: []
+needs: []
+aliases: ["Concord of Sestara"]
 tags: []
 ---
 # The Sestaran Concord Overview
 
-The Sestaran Concord is a league of fiercely independent city-states along the Thalassian trade world. Its cities compete through banking, hired armies, naval power, archives, magical industry, espionage, art, and colonial exploration, but unite when an outside power threatens their collective freedom.
+The Sestaran Concord is a defensive league of seven independent city-states. It is not a country. Its members share no ruler, treasury, law, church, foreign policy, or enclosing border. A Fiorenzian or Sermoran may accept **Sestaran** abroad while insisting at home that the word describes an emergency arrangement, not a people.
 
-## Cultural Thesis
+## Answer to Reality
 
-Sestara answers uncertainty through leverage. Contracts, archives, credit, patronage, ships, licenses, and information allow its people to survive between larger empires. The Concord preserves learning and makes exchange possible across hostile borders. Its temptation is to price every loyalty, monetize every discovery, and mistake the ability to trade a thing for the right to own it.
+The cities answer uncertainty through leverage: archives, patronage, ships, credit, citizenship, licensed force, specialized craft, and information. They preserve exchange between hostile powers and give unusual people room to work. Their temptation is to price every loyalty, turn discovery into property, and mistake enforceability for justice.
 
-## Shared Institutions
+## The Seven Seals
 
-Citizenship is chartered and narrow. Notaries preserve civic memory; guilds regulate work; merchant families convert wealth into office; the portside majority lives outside full political rights. Old-Church worship remains public and splendid but loosely disciplined, while oath-keeping often commands more practical reverence than preaching.
+- [[The Grand Duchy of Fiorenzia Overview]]: highland duchy, art, scholarship, vineyards, and Medori finance.
+- [[The Sermoran Republic Overview]]: canal metropolis, fortified islands, privateers, fleets, and intelligence.
+- [[The Principality of Aversia Overview]]: mines, foundries, fortresses, engineers, and contract-captains.
+- [[The Citadel of Vorthara Overview]]: anarchic mountain refuge, faction wards, dangerous research, and the Black Spire.
+- [[The Free City of Castara Overview]]: detached Boiling Sea gateway, shipyards, migration, and colonial ambition.
+- [[The Free Port of Orsena]]: neutral harbor, prisoner exchange, foreign quarters, and disciplined scarcity.
+- [[The Free City of Vardessa]]: landlocked fairs, crafts, horse markets, roads, and the neutral muster hall.
 
-See [[Lives of the Concord — The Common Spine]].
+Their only binding institution is the [[The Seven-Seal Defensive Muster]]. An external attack activates fixed contributions. Private wars, piracy, mercenary disputes, and colonial ventures do not.
 
-## The Five Powers
+## Citizenship and Daily Life
 
-- [[The Grand Duchy of Fiorenzia Overview]]: finance, art, vineyards, scholarship, and the Medori network.
-- [[The Principality of Aversia Overview]]: mines, steel, fortification, arms factors, and contract-captains.
-- [[The Citadel of Vorthara Overview]]: warlock schools, magical guilds, artifact markets, and research without firm moral brakes.
-- [[The Free City of Castara Overview]]: shipyards, universities, migration, and the Boiling Sea routes.
-- [[The Sermoran Republic Overview]]: the Doge, Admiralty, privateering, canals, intelligence, and command of the Thalassian.
+Political membership is narrow and city-specific. Residents, laborers, migrants, sailors, servants, and foreigners outnumber citizens in every member. See [[Sestaran Citizenship and Office Register]] and [[Lives of the Concord — The Common Spine]].
 
-## Ordinary Life
+## History and Neighbours
 
-- [[Lives of Fiorenzia]]
-- [[Lives of Aversia]]
-- [[Lives of Vorthara]]
-- [[Lives of Castara]]
-- [[Lives of Sermora]]
-
-## Present-Day Power
-
-The Concord finances every major power while insisting it belongs to none. Fiorenzian credit reaches Eclessian princes and Thalmyric houses; Sermoran shipping crosses confessional borders; Aversian companies fight in foreign wars; Vortharan instruments shape the artifact economy; Castaran discoveries are beginning to pull wealth toward the Boiling Sea.
-
-Current rulers and family interests are indexed in [[Present-Day Courts and Crowns (1360 AR)]].
-
-## Story Use
-
-Sestaran stories arise from debt, citizenship, patronage, salvage rights, mercenary loyalty, censored archives, magical licensing, colonial ambition, private war, and the difference between a contract that is enforceable and a bargain anyone should have made.
+[[The Making of the Sestaran Cities]] traces their different relationships with Atheria. [[Historical Spine of the Sestaran Concord]] controls the league's chronology, including [[The Battle of the Shattered Engines (907 AR)]]. [[Sestara and the Wider World]] governs relations with the great empires, Jirahar, Tarkhan, Folk, and Ättar.
 
 ## Navigation
 
 - [[Cultures MOC]]
+- [[Economy of the Seven Cities]]
+- [[Sestaran Forces and Private War]]
+- [[Faiths of the Seven Cities]]
+- [[Present-Day Courts and Crowns (1360 AR)]]
+- [[Gazetteer of the Known World]]

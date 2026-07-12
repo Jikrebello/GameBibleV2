@@ -7,7 +7,7 @@ source: "Translated from S2 White Plume Mountain"
 era: ["Present Day"]
 region: ["Vorthara", "Vortharan geothermal district", "Ashplume Vault"]
 culture: ["Sestaran", "Vortharan"]
-related_factions: ["Pale Hand", "The Vaunt's Stable", "Council of Magi", "Fleshweavers"]
+related_factions: ["Pale Hand", "The Vaunt's Stable", "Wardens of the Crown Road", "Fleshweavers"]
 appears_in: ["The Bragging Vault"]
 needs:
   - balance the branch gauntlets, the champion fight, and the Cinder-Bound toll for the chosen game system

@@ -86,9 +86,9 @@ tags:
 
 - Atherian rebel general from a minor house leads a **guerrilla defense** in the southern mountains.
 
-- A smaller Third Crusade (mostly by the centrally positioned Dutchy of Caldria and its supporting neighbours, including controversial help from warlocks from the nearby Citadel of Vorthara) is called to stop the attempted Ahl-e-Ahd main force from entering into Eclessia, which successfully stops it at the **Duchy of Caldria**
+- A smaller Third Crusade, led by Caldria and neighboring forces with controversial Vortharan aid, stops the Covenant advance. At the **Battle of the Shattered Engines (907 AR)**, Vortharan counter-scripts destroy two great siege golems and cripple a third while Caldria holds Crown Gate Pass.
 
-- Legendary **Valley Ambush** cripples Ahl-e-Ahd elite forces on their way back from the defeat at Caldria in an attempted to secure the southern part of the realm from the Atherian rebels and refugees hiding in the mountain passes.
+- The later **Battle of Caelmount (917 AR)**, remembered as the Valley Ambush, cripples a separate Covenant field force attempting to destroy the mountain resistance.
 
 - Further Victory at **Virelos** in the west cements the rebels' success and a growing turn of the tides, as the Ahl-e-Ahd forces are now seemingly spread far to thin and have lost 4 of the 5 great golem siege engines since the war started.
 
@@ -131,4 +131,3 @@ tags:
 
 - [[Canon Index]]
 - [[Canon Index]]
-
