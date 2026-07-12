@@ -5,59 +5,47 @@ canon_level: core
 visibility: public
 era: ["Present Day"]
 region: ["The Covenant", "Ahl-e-Ahd"]
-culture: ["Ahl-e-Ahd"]
-related_factions: ["Qahirid Caliphate", "Caliphate of Qazmarid", "The Creditor"]
+culture: ["Ahl-e-Ahd", "Ahdari", "Iqashari", "Qahuri", "Qazmari", "Zanthiri"]
+related_factions: ["Qahirid Suzerainty", "Caliphate of Qazmarid", "Emirate of Zanthir"]
 appears_in: []
-needs:
-  - add an ordinary-life dossier for households outside the courts and army
-aliases: []
+needs: []
+aliases: ["The Covenant"]
 tags: []
 ---
 # The Ahl-e-Ahd Overview
 
-The Ahl-e-Ahd are the peoples of the northern and northwestern Covenant: oasis cities, irrigated valleys, caravan roads, conquered provinces, military colonies, and desert tribes held together by sacred law. Their civilization treats obligation as the basic substance of order. A promise is not merely moral language; properly witnessed, it becomes metaphysical fact.
+The **Ahl-e-Ahd**, or People of the Covenant, are not one ancestry. The name describes a civilization held together by Al-Ahdiya, Covenant law, the literary Ahdari tongue, interdependent roads and courts, and the long reach of Iqashar. Its peoples include [[The Ahdari]], [[The Iqashari]], [[The Qahuri]], [[The Qazmari]], and [[The Zanthiri]]. Velians, Jirahar, Tarkhan, and foreign communities also live beneath Covenant rule without ceasing to be themselves.
 
 ## Answer to Reality
 
-The Covenant answers chaos through enforceable obligation. Its jurists argue that power without terms is tyranny, that even rulers must be bound, and that the weak are safest when duties can be proven before a court. Water shares, inheritance, marriage, apprenticeship, sanctuary, trade, and public office all depend on witnessed instruments.
+The Covenant answers chaos through enforceable obligation. Water shares, inheritance, marriage, apprenticeship, sanctuary, trade, and office all depend upon witnessed instruments. A competent jurist can restrain a governor, protect an orphan's estate, or secure a freed person's name.
 
-That genuine legal good does not erase the civilization's central corruptions. Conquest contracts, inherited servitude, name custody, bound devils, coerced military service, and loophole justice turn persons into collateral. The law can restrain appetite while also giving exploitation permanent form.
+That real good exists beside grave corruption. Conquest contracts, inherited servitude, name custody, bound spirits, coerced military service, and loophole justice turn persons into collateral. Covenant law can restrain appetite while giving exploitation permanent form.
 
-See [[Ahl-e-Ahd Cultural Philosophy Overview]] and [[Al-Ahdiya Overview]].
+## Faith and the Fourth Seal
 
-## Faith
+[[Al-Ahdiya Overview|Al-Ahdiya]] teaches that creation rests upon the Great Covenant revealed to Mujalib by Malak al-Ahd. [[The Disputed Fourth Seal]] divides the faithful between the majority [[The Witnessed Seal|Witnessed Seal]] and the minority [[The Sealed Blood|Sealed Blood]]. Iqashar and Al-Qahur follow the Witnessed Seal; Qazmarid is the great Sealed-Blood counter-caliphate; Zanthir is predominantly Witnessed but plural.
 
-Mujalib taught that creation rests upon the Great Covenant revealed by Malak al-Ahd. Sacred contracts order worship, politics, and magic. Breach is both crime and spiritual wound; public trust depends on courts whose rulings can carry supernatural force.
-
-[[The Disputed Fourth Seal]] divides the Covenant between the People of the Witnessed Seal and the People of the Sealed Blood. Their dispute concerns succession, lawful testimony, and the massacre at Bir Qassim; neither side may open the evidence without voiding the legitimacy it hopes to prove.
-
-## Society and Ordinary Life
-
-Most Ahl-e-Ahd are not contract masters. They are farmers guarding water rights, caravan hands, craftspeople, householders, soldiers, debtors, teachers, and petitioners. A competent local jurist can protect a widow from a governor, force a landlord to honor repairs, or secure a freed person's name. Honest judges, reformist scribes, and sanctuary houses are therefore real social goods rather than camouflage.
-
-The same machinery supports severe hierarchy. Enslaved families and contract-bound descendants sustain estates, armies, mines, and golem works. The Ahdanite Guard takes children into lifelong service. Elite name-custodians can make resistance legally and metaphysically difficult.
+Recognized communities devoted to the Redeemer are called [[The People of the Lamp]]. Their protection is real, unequal, and vulnerable to political abuse.
 
 ## States and Power
 
-[[Ahl-e-Ahd Caliphates]] indexes the competing present-day caliphates, sultanates, emirates, dynasties, and confessional blocs. [[Present-Day Courts and Crowns (1360 AR)]] records their current rulers and fault lines.
+[[Ahl-e-Ahd Caliphates|The Covenant Political Order]] indexes the present states. [[The Qahirid Suzerainty and Iqashar]] controls the imperial center. [[Al-Qahur and the Sacred Basin]] supplies grain, pilgrimage, and sacred legitimacy. [[Qazmarid and the Sealed Blood]] rejects Qahirid universal rule. [[Emirate of Zanthir Overview|Zanthir]] survives by commerce, mixed law, and divided tribute. [[The Velian States Overview|The Velian States]] remain a contested client belt rather than empty unrecovered land.
 
-## Magic and War
+## Life, Work, and War
 
-Contract magic binds identity, obligation, devils, elementals, and constructed bodies. Covenant armies combine disciplined infantry, Ahdanite formations, siege golems, bound shock troops, and legal warfare intended to make surrender itself enforceable.
+- [[Households and Daily Life in the Covenant]]
+- [[Status, Slavery, and Manumission in the Covenant]]
+- [[Covenant Economy and the Caravan World]]
+- [[Covenant Armies and the Tarkhan Frontier]]
+- [[Mazrakan, Market of the Nine Measures]]
 
-- [[Contract Magic and True Names]]
-- [[Patrons and Astral Rent]]
-- [[The Disputed Fourth Seal]]
-- [[The Reconquest and Conflict with the Ahl-e-Ahd Overview]]
+## History
 
-## Naming Register
-
-Caliph, sultan, emir, vizier, ibn, bint, and Banu are translation conventions. The religious-legal register uses Covenant terms including **Aqid**, **Wasi**, **sealed ruling**, **breach-judge**, and **the Unsealing**. The Covenant tongue is the flowing branch of the same desert language family as the older Jirahar register.
-
-## Story Use
-
-Covenant stories arise from the collision between justice and legalism, sanctuary and ownership, sincere faith and fraudulent revelation, rival successions, enslaved infrastructure, reform from within, and the dangerous possibility that a contract can be perfectly lawful and profoundly wicked.
+The Covenant arose from ancient desert oath and water institutions, not fully formed from Mujalib's revelation. Its causal history is controlled by [[Historical Spine of the Covenant]] and its identities by [[The Making of the Covenant Peoples]].
 
 ## Navigation
 
 - [[Cultures MOC]]
+- [[Gazetteer of the Known World]]
+- [[Present-Day Courts and Crowns (1360 AR)]]

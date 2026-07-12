@@ -3,42 +3,43 @@ type: faction
 status: canon
 canon_level: core
 visibility: public
-era: ["411 AR-Present"]
-region: ["Velian States", "Zanthir"]
+era: ["411-1360 AR", "Present Day"]
+region: ["Velian States", "Zanthir", "Qabir"]
 culture: ["Velian"]
-related_factions: ["Thalmyric Church", "Eclessian Church", "Ahl-e-Ahd"]
+related_factions: ["Thalmyric Church", "Eclessian Church", "Emirate of Zanthir"]
 appears_in: []
-needs:
-  - place present-day Velian communities in Zanthir and the client states
+needs: []
 tags: []
 ---
 # The Velian Church
 
-The third ancient branch of the Redeemer's faith — the "Man-Bearer" communion condemned at the Council of Halmenth (411 AR) and never extinguished. *(The Church of the East analog: the Nestorian losers of Ephesus who survived centuries under the Caliphate.)*
+The Velian Church is the third ancient communion of the Redeemer's faith. Its Man-Bearer doctrine was condemned at the Council of Halmenth in 411 AR but never extinguished.
 
 ## Doctrine
 
-The Velians hold, after Bishop Nasriel of Qabir, that Amaryah bore **the man** — the perfect vessel — and that the uncreated Fire descended upon and crowned him at the opening of his ministry: *"the lamp was made in her; the Fire came after."* To the two great churches this severs the Redeemer in half; to the Velians it protects the Fire's transcendence from being folded into a womb. On the Kindling Question they hold a position both great churches find infuriating: if the Fire crowned even the Redeemer *from outside*, then no church can "hold" it at all — custody is a category error. (The Freeflame noticed this argument centuries later; the Velians noticed it first and are still not thanked.)
+Following Bishop Nasriel of Qabir, Velians teach that Amaryah bore the perfect human vessel and that the uncreated Fire descended upon and crowned the Redeemer at the opening of his ministry: *the lamp was made in her; the Fire came after.* Eclessian and Thalmyric theologians hold that this divides the Redeemer's person. Velians answer that it preserves the Fire's transcendence and proves no institution can possess it.
 
 ## History
 
-Condemned in 411, Nasriel's communion fled north beyond imperial reach into the desert margin cities. When the Covenant's first wave conquered those lands (568–612 AR), the Velians negotiated survival the Ahl-e-Ahd way: a **sealed protection contract** — tribute, disarmament, and testimony-restrictions in exchange for guaranteed worship, renewed with each dynasty since. They took their lasting name from the Velian States, where their communities flourished under the Banu Mizan as physicians, translators, and archivists (much of the Atherian learning that survived the conquest survived through Velian copyists). The Reconquest was a catastrophe for them: the reconquering churches treated them as collaborator-heretics twice over. Their heartland today is **Zanthir**, with quarters in Iqashar and the Covenant cities, and thin, quiet congregations in frontier ports.
+After Halmenth, Nasriel's communion survived in desert-margin cities. During the First Unsealing it negotiated sealed protection with the Banu Mizan: tribute, disarmament, and testimony restrictions in exchange for worship, property, clergy, and communal courts. Velian physicians, translators, and copyists preserved substantial Atherian learning.
 
-## What Makes Them Unmistakable
+The Long Reconquest harmed the church as well as its Covenant rulers. Reconquest authorities often treated Velians as collaborator-heretics. Its present heartland is Zanthir and the Velian States, with smaller congregations in Iqashar, Al-Qahur, and frontier ports.
 
-Married clergy; no images of any kind, only bare whitewashed prayer halls with a single lamp; and the **Catholicos of Qabir** heading a hierarchy neither Veridun nor the Sanctum recognizes. Their crown jewel is the liturgy prayed in the **Jirahar dialect the Redeemer himself spoke**, preserved unbroken while both imperial churches worship in Atherian. Velian priests are famously serene about persecution and famously insufferable about this one point.
+## Life and Worship
 
-## Present Day (1360 AR)
+Velian clergy may marry. Churches are whitewashed and image-free, lit by a single lamp. The Catholicos of Qabir heads a hierarchy recognized by neither Veridun nor the Eclessian Sanctum. The liturgy preserves the Jirahar dialect associated with the Redeemer's earthly life.
 
-Perhaps a few hundred thousand souls, concentrated under Emir Badis al-Zanthiri's protection. The Qahirid suzerainty tolerates them (their contract is old, their tribute punctual, and their existence embarrasses both enemy churches); Qazmarid's Sealed-Blood regime is harsher. Both great churches run quiet missions to poach their congregations; the Order of the Lantern keeps a study-house in Qabir that everyone correctly assumes is also something else. If Zanthir falls to crusade or conquest, the Velian Church's heartland dies with it — a stake almost no war council on either side bothers to weigh.
+## Present Day
+
+Several hundred thousand adherents live principally under Emir Badis and the client-state compacts. Their status as [[The People of the Lamp|People of the Lamp]] gives enforceable protection without equality. Qazmarid is harsher; Thalmyric and Eclessian missions compete for congregations; political collapse in Zanthir could destroy the church's institutional heartland.
 
 ## Story Use
 
-A guide, translator, or physician faction with unmatched access to pre-fall archives; the moral test a Zanthir crusade poses to every "righteous" belligerent; the theological wildcard whose ancient no-custody doctrine could be weaponized by (or against) the Freeflame; and the recurring humiliation that the man both empires claim spoke a language only the heretics still pray in.
+Velian guides, translators, physicians, archives, divided families, disputed churches, and communal courts make the church indispensable on the frontier. Any campaign of conquest or liberation must decide whether living Velians matter more than ancestral claims.
 
 ## Navigation
 
-- [[Timeline MOC]]
-- [[Amaryah the Fire-Bearer]]
-- [[Present-Day Courts and Crowns (1360 AR)]]
+- [[Velian Culture Overview]]
+- [[The Velian States Overview]]
+- [[The People of the Lamp]]
 - [[The Disputed Fourth Seal]]

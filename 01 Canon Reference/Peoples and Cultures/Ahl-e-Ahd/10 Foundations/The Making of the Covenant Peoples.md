@@ -1,0 +1,41 @@
+---
+type: reference
+status: canon
+canon_level: core
+visibility: public
+era: ["Ancient", "541-1360 AR"]
+region: ["The Covenant", "Ahl-e-Ahd"]
+culture: ["Ahdari", "Iqashari", "Qahuri", "Qazmari", "Zanthiri", "Velian"]
+related_factions: ["Qahirid Suzerainty"]
+appears_in: []
+needs: []
+tags: []
+---
+# The Making of the Covenant Peoples
+
+The Covenant was made by roads, conversion, conquest, marriage, resettlement, military service, and shared courts. It did not descend from one tribe unchanged.
+
+## The Ahdari Foundation
+
+The [[The Ahdari|Ahdari]] descend from desert oath, well, and caravan peoples. Their guest-law and water covenants supplied Mujalib with the social grammar from which Al-Ahdiya grew. Early caliphs spread their literary language and legal forms far beyond Ahdari ancestry.
+
+## Older Settled Peoples
+
+The [[The Iqashari|Iqashari]] inhabited northern escarpment towns and caravan cities before Qahirid rule. They became the bureaucratic and commercial core of Iqashar. The [[The Qahuri|Qahuri]] were cultivators, well guardians, and irrigation communities of the sacred basin; conquest and pilgrimage placed military households above institutions older than the caliphate.
+
+Across the western strait, the [[The Qazmari|Qazmari]] retained highland, fortress, and maritime identities. Ruqaiya's descendants found their strongest refuge among them, binding regional independence to the Sealed-Blood cause.
+
+## Frontier Peoples
+
+The [[The Zanthiri|Zanthiri]] formed after the First Unsealing from Banu Mizan soldiers, local converts, Velians, coastal households, freed people, and merchants. Their identity is neither simply conqueror nor conquered. The [[The Velian States Overview|Velians]] remain an Atherian-descended people with their own Redeemer communion and six centuries of life under mixed rule.
+
+## Layered Belonging
+
+A person may be Qahuri by family, Ahl-e-Ahd by faith and law, Qahirid by political allegiance, and Sealed-Blood by confession. City, profession, household, and patronage may matter as much as ancestry. These layers create solidarity without erasing conflict.
+
+## Navigation
+
+- [[The Ahl-e-Ahd Overview]]
+- [[Proto-Ahl-e-Ahd Desert Tribes]]
+- [[Historical Spine of the Covenant]]
+

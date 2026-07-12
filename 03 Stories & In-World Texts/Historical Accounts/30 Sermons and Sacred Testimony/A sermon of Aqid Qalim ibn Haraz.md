@@ -107,10 +107,8 @@ Let every signature be sealed in glory.
 
 ---
 
-Let me know if you'd like to follow this up with a **contract-priest’s field log**, or a **personal account from an Ahdanite Guard officer**, to see how this sermon echoed across the battlefield—or twisted over time.
-
 ## Navigation
 
-- [[Canon Index]]
-- [[Canon Index]]
-
+- [[Al-Ahdiya Overview]]
+- [[Historical Spine of the Covenant]]
+- [[The Invasion and the Fall]]

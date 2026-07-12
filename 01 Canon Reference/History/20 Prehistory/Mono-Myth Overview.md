@@ -72,7 +72,7 @@ With the Prophet’s death, the unity of the people shattered. Without their lea
 
 As the people crossed into the southern lands, they settled into distinct regions and began to form new cultures, each carrying remnants of the Prophet’s teachings but diverging in their beliefs and practices:
 
-- **The Ahl-e-Ahd** wandered the **Great Desert** for generations, forming small nomadic tribes. Over time, the story of the Lord and the Prophet became distorted through generations of oral retellings. Eventually, a **Final Prophet** arose, claiming to have been visited by an angel of the Lord. This angel taught him that the world and all of existence were governed by **cosmic contracts**, and he learned to write his own. He founded the **Caliphate of Al-Qahur**, forging contracts with spiritual entities, including the **4444 devils** who dug the oasis that sustains the city to this day. Al-Qahur became the spiritual heart of the **Al-Ahdiya** faith, and millions make pilgrimages there to honor the Final Prophet’s teachings.
+- **The proto-Covenant peoples** divided among Ahdari caravan clans, Iqashari towns, Qahuri water communities, and western strait peoples. Their Exodus memory became oath, guest, sanctuary, and water law. In 541 AR, **Mujalib** received the revelation attributed to Malak al-Ahd and transformed those institutions into Al-Ahdiya. The Covenant of the 4,444 established Al-Qahur as its sacred center without making the later empire one ancestry.
 
 - **The Atherians**, though once followers of the Great Prophet, fell back into old ways, worshiping the **Idols** and **Menhir** as gods. Their descendants formed mighty city-states, driven by power and ambition, with little memory of the Lord's commandments.
 
@@ -91,4 +91,3 @@ To this day, no one knows what became of the lands north of the **Great Glass De
 - [[Ancient and Early Historic Ages]]
 - [[Timeline MOC]]
 - [[Canon Index]]
-

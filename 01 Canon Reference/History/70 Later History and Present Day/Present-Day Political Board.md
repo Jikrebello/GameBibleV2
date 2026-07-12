@@ -37,7 +37,7 @@ Archive-market civilization. Wants leverage, trade, art, secrets, magical school
 
 ### Ahl-e-Ahd
 
-Contract-state civilization. Wants enforceable order, strategic depth, name custody, bound infrastructure, and legal-metaphysical dominance.
+The Covenant is a layered imperial-confessional civilization rather than one ethnicity. The Qahirid court at Iqashar wants enforceable order, strategic depth, tribute, name custody, and control of roads and military households. Al-Qahur supplies sacred legitimacy and grain while its military houses resist direct rule. Qazmarid's Sealed-Blood counter-caliphate rejects Qahirid authority. Zanthir and the Velian States turn the Thalmyric frontier into a contest over living mixed societies rather than empty lost provinces. See [[The Ahl-e-Ahd Overview]] and [[Ahl-e-Ahd Caliphates]].
 
 ### Jirahar
 

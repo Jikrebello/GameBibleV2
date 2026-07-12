@@ -128,7 +128,7 @@ The civilized world dates from the execution and resurrection of Isfir the Redee
 - **c. 1330s AR — Castara opens the Boiling Sea routes;** the New World rush.
 - **1343 AR — [[The Korrheim Accord]].** *Whose the realm, his the rite.* It excludes unaffiliated radicals, ignores the reunification mandate, and satisfies no one.
 - **1346–1349 AR — Frate Severin of Fiorenzia:** the Pyre of Masks; hanged and burned. **Nicanor Vetti's** *Mirror for Sovereigns* circulates banned (written c. 1340).
-- **1349 AR–present — Sultan-Caliph Marzuq III**, Qahirid suzerain at Iqashar over the four caliphates. Guard-brokered, stagnant, cracked. The **Emirate of Zanthir** endures as the last autonomous remnant of the old conquest.
+- **1349 AR-present — Sultan-Caliph Marzuq III**, Qahirid suzerain at Iqashar. His layered empire claims Al-Qahur, is rejected by the Sealed-Blood counter-caliphate of Qazmarid, and receives contested tribute from autonomous Zanthir. Guard-brokered, stagnant, and cracked.
 - **1352 AR — The Lady of the Sloe-Field at Vessing.** Three shepherd children; a figure of banked fire; irreconcilable testimonies touching the Kindling Question. **The Sanctum has not ruled.**
 - **1357 AR — Empress Vasilia of Vlastrava dies.** The emperor's prolonged flame-silences begin after her fortieth-day.
 - **1358 AR — Prince Nikandros dies** in a frontier skirmish; the succession becomes a three-way struggle between Alexane, Sophios, and adoption.

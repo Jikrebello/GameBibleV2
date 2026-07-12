@@ -57,6 +57,8 @@ Canon structures stand (clans, khans by success and gift-giving, oath riders, sp
 
 To **the Covenant**: a hired sword growing opinions (Iron), and a northern flank it cannot fortify (White). To **Sestara**: a toll, a mercenary market, and an actuarial category (Ash). To **Eclessia and Thalmyria**: distant thunder, for now — both churches' strategists have noted that the last time the steppe unified, it took thirty-five years for the bill to reach everyone. To **the Jirahar**: the safest roads in the world, oddly — Qarayel ruled that the wandering people paid a flat peace-price, and the hordes still honor it ("they were slow once too, and never forgot how to move").
 
+Along the arid Covenant edge, Tarkhan mobility changes with the ground. Horses remain sacred and dominant on the grass; camel-breeding border clans carry trade and raids across the driest well-country. Iron Horde companies work both kinds of remount in Qahirid service, while White Horde and dispossessed splinters test the roads beyond [[Mazrakan, Market of the Nine Measures]].
+
 ## Game Use
 
 Canon hooks stand (escorts, arbitration, horse-theft, taboo mounds, the unifier campaign), plus: the grave-hunt (forbidden, priceless, and someone in every horde is quietly digging); an Iron Horde contract-crisis where Tegrul's seal conflicts with his banner-oath (word-price versus Covenant law — a jurisdiction duel); the Nine-Mane Standard as the ultimate steal-and-return quest; and Sorqai's death, whenever it comes, as the board-shaking event every chancellery already wargames.

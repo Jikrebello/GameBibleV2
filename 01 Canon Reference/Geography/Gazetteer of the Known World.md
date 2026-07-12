@@ -38,7 +38,7 @@ The empire's **eastern and southeastern shore on the Thalassian is the Saltborn 
 
 ### The Covenant (Ahl-e-Ahd) — north and northwest
 
-The yellow desert crescent. **Iqashar** in the far north (Qahirid suzerain's seat, the Sublime Threshold); **Al-Qahur** at the great oasis (holy city, Caliph Uwais, the 4,444's well); **Bir Qassim** on the southern caravan road (the wells of the massacre, 603 AR); **Qazmarid** across the western strait on the western continent's tip — the Sealed-Blood caliphate's seat. The **Emirate of Zanthir** (capital **Qabir**) sits detached to the southeast between desert and Thalassian: the last-conquest remnant, last of the conquest emirates, home of the Velian Church's Catholicos. The **Velian States** — the old client belt — lie between Zanthir and the coast.
+The yellow desert crescent contains several peoples and unequal states. **Iqashar** in the far north is the Qahirid suzerain's seat and administrative heart; **Mazrakan** guards the market wells where its roads meet the Tarkhan approaches. **Al-Qahur**, south of Iqashar, is the sacred and agricultural basin ruled by Caliph Uwais and Sword-Regent Nadir ibn Haraz. **Bir Qassim** lies on its southern caravan road. **Qazmarid** occupies the western strait on the separate western landmass and is an independent Sealed-Blood counter-caliphate. The autonomous **Emirate of Zanthir**, capital **Qabir**, sits southeast between desert and Thalassian as a mixed commercial gateway and home of the Velian Church's Catholicos. The **Velian States** form the disputed client belt between Zanthir and Thalmyria.
 
 ### The Sestaran Concord — the peninsula and isles
 

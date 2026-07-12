@@ -5,48 +5,43 @@ canon_level: core
 visibility: public
 era: ["601-1360 AR", "Present Day"]
 region: ["Zanthir", "Qabir"]
-culture: ["Ahl-e-Ahd", "Velian", "Jirahar"]
-related_factions: ["Ahl-e-Ahd", "Velian Church", "Thalmyric Empire"]
+culture: ["Zanthiri", "Velian", "Ahl-e-Ahd", "Jirahar"]
+related_factions: ["Velian Church", "Qahirid Suzerainty", "Thalmyric Empire"]
 appears_in: []
-needs:
-  - complete the tributary road and fortress map
+needs: ["Complete the tributary road and fortress map"]
 aliases: ["Emirate of Zanthir", "Zanthir"]
 tags: []
 ---
 # Emirate of Zanthir Overview
 
-Zanthir is the last autonomous remnant of the Banu Mizan conquest order, ruled from Qabir by Emir Badis al-Zanthiri. It lies between the Covenant world, Velian belt, Thalassian trade, and Thalmyric claim.
-
-## Historical Formation
-
-Established in 601 AR, Zanthir survived dynastic changes through tribute, useful trade, water administration, translation, and timely betrayal. It escaped the Long Reconquest by alternating military resistance with negotiated submission.
+Zanthir is the last autonomous remnant of the Banu Mizan conquest order, ruled from Qabir by Emir Badis al-Zanthiri. It stands between the Covenant, Velian belt, Thalassian trade, and Thalmyric claim.
 
 ## Government
 
-Emir Badis rules through household troops, water courts, contract jurists, merchant communities, provincial notables, and tribute agreements. He pays toward Iqashar and Veridun in alternating seasons without admitting equal subordination to either.
+Badis rules through household troops, water courts, merchant patrons, contract jurists, Velian and Jirahar communal leaders, provincial notables, and tribute agreements. He pays toward Iqashar and Veridun in alternating seasons without admitting final submission to either.
 
-## Society
+## People and Faith
 
-Qabir contains Ahl-e-Ahd jurists, Velian Christians, Jirahar quarters, Thalmyric exile monks, Sestaran factors, soldiers, slaves, freed households, and families whose loyalties cannot be represented by one map color.
+The [[The Zanthiri|Zanthiri]] are a mixed frontier people, not simply an occupying caste. Qabir contains Witnessed-Seal schools, the Catholicos of the [[The Velian Church|Velian Church]], Sealed-Blood congregations, Jirahar quarters, Thalmyric exile monasteries, foreign factors, enslaved people, and freed households.
 
-Law can genuinely restrain arbitrary violence while preserving predatory name custody and bondage. Banu Mizan protections survive beside later Qahirid controls.
+The ancient Banu Mizan protection compact makes Velian Redeemer-faithful unusually secure by Covenant standards. Their security remains unequal, taxable, and politically revocable.
 
-## Economy and Defense
+## Gateway Economy
 
-Irrigation, caravan trade, spice gardens, contract archives, river customs, insurance, and fortified roads sustain the emirate. Destroying its legal infrastructure would collapse civilian water and property systems.
+Irrigation, caravan trade, shipping, spices, translation houses, contract archives, insurance, river customs, and fortified roads sustain Zanthir. Merchant patrons finance scholarship, espionage, monuments, militias, and rival claimants. Gold and information continue wars that treaties suspend.
 
 ## Present Crisis
 
-Every major power expects Zanthir to become the first battlefield of the next war. Badis delays through tribute, hostages, trade, and protected minorities whose presence makes conquest politically costly.
+Badis delays conquest through tribute, hostages, foreign patrons, and protected communities whose presence makes invasion morally and politically costly. Thalmyric liberation plans, Qahirid annexation, local anti-bondage movements, and Velian demands for firmer autonomy pull in different directions.
 
 ## Story Uses
 
-Contract loopholes, diplomacy, mixed courts, intelligence, slave liberation, water infrastructure, protected quarters, and preventing two empires from turning a living city into a symbol.
+Diplomacy, patronage, translation, mixed courts, slave liberation, water infrastructure, confessional protection, espionage, and preventing rival empires from turning a living society into a symbol.
 
 ## Navigation
 
-- [[Zanthir and the Unfinished Reconquest]]
+- [[Velian Culture Overview]]
 - [[The Velian States Overview]]
-- [[Ahl-e-Ahd Caliphates]]
-- [[Present-Day Courts and Crowns (1360 AR)]]
+- [[Zanthir and the Unfinished Reconquest]]
+- [[The People of the Lamp]]
 

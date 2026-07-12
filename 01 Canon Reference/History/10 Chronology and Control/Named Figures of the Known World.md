@@ -53,7 +53,13 @@ The people behind the [[Chronology of the Known World (AR Dating)]]. Each entry 
 
 **Sultan-Caliph Suhrab the Lawbinder** (r. 1190–1243 AR) — The apex. Codified the **Ledger of Ledgers**, harmonizing every provincial contract code; won the **Battle of Qarath's Well** (1214) and took an emperor captive. Died old, having executed his most gifted son on the Guard's evidence — the dynasty has been living off his capital ever since.
 
-**Sultan-Caliph Marzuq III** (r. 1349 AR–present) — Reigns from Iqashar as Qahirid suzerain over the four caliphates (Al-Qahur's spiritual precedence, schismatic Qazmarid, autonomous Zanthir); clever, indolent, ruled in practice by the Ahdanite Guard's officer-brokers and the Vault of Names bureaucracy. The Cull of Brothers (contract-mandated fratricide at accession) bought him the throne and costs him sleep. Cracks are forming; his court is detailed in [[Present-Day Courts and Crowns (1360 AR)]].
+**Sultan-Caliph Marzuq III** (r. 1349 AR-present) — Reigns from Iqashar as Qahirid suzerain over a layered imperial order. Al-Qahur supplies sacred legitimacy, independent Qazmarid rejects his universal claim, and autonomous Zanthir pays contested tribute. Clever and indolent, he depends on Ahdanite officer-brokers and the Vault of Names. The Cull of Brothers bought him the throne and costs him sleep. See [[Present-Day Courts and Crowns (1360 AR)]].
+
+**Caliph Uwais, Custodian-of-the-Wells** — Sacred ruler of Al-Qahur whose acknowledgment legitimizes the Qahirid throne. Politically constrained by Sword-Regent Nadir and the military households.
+
+**Sword-Regent Nadir ibn Haraz** — Effective governor of Al-Qahur, balancing Ahdanite-descended military houses, irrigation councils, pilgrimage, and dependence on Uwais's sacred authority.
+
+**Caliph-Wasi Zahran** — Sealed-Blood ruler of independent Qazmarid, claimant through Ruqaiya bint Mujalib and asserted custodian of the Counter-Instrument.
 
 **The Emirate of Zanthir** (601 AR–present) — First-wave conquest emirate turned last autonomous remnant: survivor of the Reconquest by timely tribute and timelier treachery, still standing as "the last pearl of the Banu Mizan." Under **Emir Badis al-Zanthiri** it pays tribute toward Iqashar and Veridun in alternating seasons, insures with the Medori, shelters Jirahar quarters, and is universally assumed to be the next war's first battlefield.
 

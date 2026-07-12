@@ -72,9 +72,10 @@ The ransom-shame of Markellos encourages leaders to treat negotiation as humilia
 
 ### The Vassal Thrones
 
-- **Al-Qahur** — **Caliph Uwais the Custodian-of-the-Wells** holds spiritual precedence in the holy city and oasis of the 4,444. Politically weak but liturgically indispensable, his acknowledgment legitimizes Marzuq and his silence would wound him.
-- **Qazmarid** — **Caliph-Wasi Zahran of the Sealed Blood** denies the Qahirid universal caliphate, claims descent from Ruqaiya bint Mujalib, and keeps what he says is the Counter-Instrument beneath his throne. See [[The Disputed Fourth Seal]].
-- **Zanthir** — **Emir Badis al-Zanthiri**, ruling from Qabir, holds the last autonomous remnant of the Banu Mizan inheritance. He pays tribute toward Iqashar and Veridun in alternating seasons, shelters Jirahar quarters and Thalmyric exile-monks alike, and plays every court against the expectation that his realm will be the next war's first battlefield.
+- **Al-Qahur** — **Caliph Uwais the Custodian-of-the-Wells** holds spiritual precedence in the holy city and oasis of the 4,444. **Sword-Regent Nadir ibn Haraz** governs through competing military households. Uwais's acknowledgment legitimizes Marzuq; his silence would wound both Marzuq and Nadir.
+- **Qazmarid** — **Caliph-Wasi Zahran of the Sealed Blood** rules an independent counter-caliphate across the western strait. He denies Qahirid universal rule, claims descent from Ruqaiya bint Mujalib, and keeps what he says is the Counter-Instrument beneath his throne. See [[The Disputed Fourth Seal]].
+- **Zanthir** — **Emir Badis al-Zanthiri**, ruling from Qabir, holds the autonomous remnant of the Banu Mizan inheritance. He pays tribute toward Iqashar and Veridun in alternating seasons, protects the Velian Church and Jirahar quarters, and plays every court against the expectation that his realm will be the next war's first battlefield.
+- **Mazrakan** — the **Council of Nine Measures** governs the northern chartered market under an imperial Gate-Prefect. Its commercial peace converts Tarkhan pressure into customs, patronage, and licensed danger without ending the raids beyond its wells.
 
 ## Sestara
 

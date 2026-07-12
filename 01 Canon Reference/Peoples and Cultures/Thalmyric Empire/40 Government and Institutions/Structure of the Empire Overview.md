@@ -21,7 +21,7 @@ Thalmyria is an empire of one crown, one imperial law, one Church communion, and
 
 [[Emperor Caedros IV Aetherion]] commands foreign policy, the army, imperial appointments, strategic roads, currency, and the return law. He rules from Veridun and is crowned at Virelos.
 
-The Emperor is neither priest nor divine. His duty is to preserve a Christian empire under moral judgment, not to embody the White Flame.
+The Emperor is neither priest nor divine. His duty is to preserve an empire devoted to the Redeemer under moral judgment, not to embody the White Flame.
 
 ## The Chancellery
 

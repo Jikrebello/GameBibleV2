@@ -22,5 +22,6 @@ This page is the human-readable triage board. It includes non-canon notes and ca
 - Build Grenzburg's production maps from the locked campaign matrix: city sites, three villages, winter corridors, companion sites, and Dragon's Tomb layers.
 - Expand the Grenzburg-facing bestiary into encounter-ready ecology, tactics, materials, faction use, and tuned difficulty.
 - Tune the remaining Grenzburg implementation values: rewards, material-state deltas, approval thresholds, field roles, and UI terminology.
-- Add ordinary-life references for the Covenant and other cultures that still exist mostly at elite or military scale.
+- Map Mazrakan, Al-Qahur's basin, Qazmarid's strait defenses, Zanthir's tributary roads, and the present Velian jurisdictions using the reconstructed Covenant authority notes.
+- Fix Mazrakan's population and district boundaries only when it enters playable-setting production.
 - Add Left Hand cells only where a playable region requires them; avoid disconnected villain catalogues.

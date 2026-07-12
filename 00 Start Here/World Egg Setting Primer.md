@@ -189,13 +189,17 @@ Rule: disputes persist because truth has value; institutions manufacture it.
 - The best place for secrets to circulate and be weaponized.
     
 
-### Ahl-e-Ahd (contract-state)
+### Ahl-e-Ahd (layered Covenant civilization)
 
-- Cosmology: reality governed through contracts; “law-as-cosmos.”
-    
-- Behind the curtain: their “angel” is an Astral Plane patron masquerading as divine messenger of the Lord.
-    
-- Uses devils (enslaved Astral plane natives) as bound assets for civil engineering and war.
+- Ahl-e-Ahd is an imperial-confessional identity shared across Ahdari, Iqashari, Qahuri, Qazmari, Zanthiri, and Velian peoples.
+
+- Iqashar heads a layered suzerainty; Al-Qahur supplies sacred legitimacy and grain; independent Qazmarid follows the Sealed Blood; autonomous Zanthir governs the mixed frontier.
+
+- Cosmology: reality governed through contracts and witnessed obligation. Law can protect the weak while slavery, name custody, and conquest instruments give evil durable form.
+
+- Behind the curtain: Malak al-Ahd is the Creditor, an Astral patron profiting from Covenant rent. Which Fourth Seal began genuine remains unresolved.
+
+- Bound spirits and imposed devil mantles support civil engineering and war, but ordinary Covenant life is primarily agricultural, mercantile, urban, and familial.
     
 
 ### Jirahar (diaspora prophecy machine)

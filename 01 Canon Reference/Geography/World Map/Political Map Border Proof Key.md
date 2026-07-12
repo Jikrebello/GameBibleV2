@@ -19,11 +19,11 @@ This is the approval key for [[Political World Map - Border Proof.png]]. The pro
 
 | ID | Territory | Border rationale |
 |---|---|---|
-| A1 | Iqashar | Northern desert heartland held between the western escarpment, upland drainage and the open Tarkhan approaches. |
-| A2 | Al-Qahur | Oasis and caravan basin south of Iqashar, narrowing toward Bir Qassim and the southern road. |
-| A3 | Qazmarid | East-facing territory on the separate western landmass, controlling the strait rather than the entire continent. |
-| A4 | Zanthir | Detached conquest emirate on the desert-to-Thalassian corridor. |
-| A5 | Velian States | Hatched client-state belt between Zanthir and Thalmyria; sovereignty is intentionally unresolved. |
+| A1 | Iqashar | Multiethnic Qahirid heartland between the western escarpment, upland drainage, and open Tarkhan approaches; Mazrakan marks its northern market frontier. |
+| A2 | Al-Qahur | Qahuri agricultural and sacred basin south of Iqashar, narrowing toward Bir Qassim and the southern road. |
+| A3 | Qazmarid | Independent Sealed-Blood territory on the separate western landmass, controlling the strait rather than the entire continent. |
+| A4 | Zanthir | Autonomous mixed frontier emirate on the desert-to-Thalassian corridor. |
+| A5 | Velian States | Hatched Redeemer-faithful client-state belt between Zanthir and Thalmyria; sovereignty is intentionally unresolved. |
 
 ## Thalmyria
 
