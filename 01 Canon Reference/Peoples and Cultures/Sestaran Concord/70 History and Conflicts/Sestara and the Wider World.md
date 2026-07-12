@@ -15,7 +15,7 @@ tags: []
 
 ## Jirahar
 
-Migdal Dahava competes with Medori credit while clearing obligations the Bank cannot safely hold. Migdal Yamma works through Sermoran fleets. Orsena and Vardessa maintain protected Jirahar quarters whose sanctuary, food law, schools, and burial rights predate many citizen houses. Cities value Jirahar routes and repeatedly resent the independence that makes them useful.
+Migdal Dahava competes with Medori credit while clearing obligations the Bank cannot safely hold. Migdal Yamma and the Sea Fleets work through Sermoran shipping. Orsena and Vardessa maintain protected Jirahar quarters whose sanctuary, food law, schools, and burial rights predate many citizen houses; Turning Companies use their river yards and fairs. Cities value Jirahar routes and repeatedly resent the independence that makes them useful.
 
 ## The Covenant
 

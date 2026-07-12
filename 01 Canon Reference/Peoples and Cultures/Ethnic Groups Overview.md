@@ -146,22 +146,12 @@ Locked additions:
   - **Body**: Variable across city, household, labor, diet, and ancestry; older attempts to assign one build to whole Sestaran cities are not authoritative.
 ---
 ### **Jirahar**
-- **General Heights**: Men typically range from **5'6" to 6'1"**, and women range from **5'2" to 5'8"**.
-- **Musculature**: **Lean to medium builds**. Jirahar men often possess **slender but strong frames**, reflecting their nomadic lifestyle and the need for endurance over brute strength. Women, similarly, have **slender and graceful builds**, with **toned legs and arms** from walking long distances and performing practical tasks.
 
----
+The Jirahar are a diaspora people shaped by ancient eastern ancestry, maternal descent, conversion, adoption, and centuries of life among every major culture. No single face, complexion, height, or body type is authoritative.
 
-#### **Masculine Traits**:
-- **Facial features**: Jirahar men typically have **strong, defined features**, with **sharp cheekbones**, **aquiline noses**, and **intense eyes**. Their eyes are often **dark brown or hazel**, with **olive to light brown skin** that tans easily. Some have **thick, curly or wavy dark hair**, with facial hair ranging from **well-groomed beards** to **stubble**.
-- **Body**: Jirahar men have **lean yet wiry builds**, with **strong legs and forearms** from constant movement, tending to livestock, or trading in caravans. 
-- **Hair**: **Dark and curly or wavy**, often kept medium length. Men usually sport facial hair in the form of short, well-kept beards or clean-shaven looks.
-- **Clothing**: They often wear layered garments, designed for **practicality** and **comfort**, with hints of **bright embroidery** or **jewelry** that reflect their cultural pride and craftsmanship.
+Tower, Road, Sea, and Turning lives produce occupational differences without producing separate biological populations. Clothing follows work and region: layered road garments, durable shipboard dress, tower court clothing, local fabrics, portable jewelry, and household embroidery may all identify affiliation more reliably than appearance.
 
-#### **Feminine Traits**:
-- **Facial features**: Jirahar women often have **delicate, angular features**, with **high cheekbones**, **almond-shaped eyes**, and **full lips**. Their eyes are typically **dark brown** or **green**, and their skin is **light olive to medium brown**, which tans with ease. 
-- **Body**: Jirahar women have **graceful and slender builds**, with **slim waists**, **strong legs**, and **toned arms**, a reflection of their nomadic lifestyle and active roles in the community.
-- **Hair**: Typically **dark and curly** or **wavy**, worn long and often adorned with **colorful scarves** or **braided** with beads.
-- **Clothing**: Women’s clothing is usually **flowing and layered**, adorned with intricate **patterns and jewelry**. Their attire reflects their rich cultural identity, often involving vibrant fabrics with **gold and silver accessories**. 
+Maternal registers record covenant membership, not racial measurement. Converts and their descendants are fully Jirahar under law even when old houses behave otherwise.
 
 ## Navigation
 

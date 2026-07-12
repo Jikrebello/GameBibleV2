@@ -35,6 +35,8 @@ Every culture keeps its overview at the culture root. Larger cultures then use t
 - [[Velian Culture Overview]]
 - [[The Jirahar Overview]]
 - [[Tower Towns and the Prophet's Roads]]
+- [[Four Ways of Jirahar Life]]
+- [[Historical Spine of the Jirahar]]
 - [[Present-Day Political Board]]
 - [[Present-Day Courts and Crowns (1360 AR)]]
 

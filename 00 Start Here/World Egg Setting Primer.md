@@ -206,11 +206,12 @@ Rule: disputes persist because truth has value; institutions manufacture it.
 - Bound spirits and imposed devil mantles support civil engineering and war, but ordinary Covenant life is primarily agricultural, mercantile, urban, and familial.
     
 
-### Jirahar (diaspora prophecy machine)
+### Jirahar (towers, roads, fleets, and prophecy)
 
-- Legalistic/ritualistic monotheists; await the Mesakha.
-    
-- Corruption model: some leadership capture is real; emergent worship exists; false patronage occurs; paranoia is politically useful.
+- Ancient covenant people organized through five living deep tower-citadels, the Empty City, host quarters, Road Companies, Sea Fleets, and river-changing Turning Companies.
+- Maternal descent and demanding conversion preserve communal continuity without making identity biologically closed.
+- They await the Mesakha. Mainstream doctrine expects restored law and severe judgement, while internal schools dispute jurisdiction, proof, and the meaning of gathering.
+- Keeper-controlled Way-Gates can move whole caravans only between fixed anchors. Ordinary roads, rivers, seas, charters, and physical Underways remain essential.
     
 
 ---
@@ -263,7 +264,7 @@ Outcome: sainthood becomes contestable, forgeable, politically explosive, and op
     
 - Devils = any significant powers bound by true names; binding imposes a mantle that reshapes identity.
     
-- Jirahar contain real corruption and also weaponized paranoia; “not 100% provable” by design.
+- Jirahar canon contains real institutional guilt and genuine severe doctrinal error; hereditary guilt, ethnic conspiracy, and persecutors' collective accusations remain false.
     
 
 ---

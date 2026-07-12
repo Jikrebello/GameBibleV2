@@ -17,6 +17,8 @@ There is no such thing as "an Eclessian" in the same sense that there is an Ätt
 
 ## The Layers
 
+**0. The Arqeshite river layer.** Before Atheria, the eastern riverlands contained the mortal [[The Arqeshite River Empire|Arqeshite Empire]] of canals, brick capitals, deportation, and royal water law. It destroyed First Qiryath in 742 BR and fell c. 690 BR. Later Atherian provinces reused its canals, boundary stones, archives, and subject populations; modern eastern archaeology still finds Arqesh beneath the imperial layer.
+
 **1. The Atherian provincial base (Latinate).** The old empire's eastern provinces: colonists, veterans' land-grants, road towns, civic law, and church Atherian as the language of altar and archive. Strongest in the south — Aurelia, Veridancia — where names still run Latinate (Adrien, Alessior, Aurelia itself).
 
 **2. The Enaidfae substrate.** The old forest peoples the empire ruled but never digested: clan-land, seers, grove-law, river-names. Under every southern and western Eclessian parish is an Enaidfae holy place with a new name; the unconverted remnant on the frontiers is what settled Eclessians simply call **the Folk** (see [[The Folk of the Frontier and the Wolfsmere Lineage]]).

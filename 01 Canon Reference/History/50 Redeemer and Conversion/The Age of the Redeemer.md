@@ -1,81 +1,44 @@
 ---
 type: event
 status: canon
-canon_level: local
+canon_level: core
 visibility: public
-era: []
-region: []
-culture: []
-related_factions: []
-appears_in: []
+era: ["Age of the Redeemer"]
+region: ["Atherian Empire", "Caleran", "Qiryath Reqa"]
+culture: ["Atherian", "Jirahar"]
+related_factions: ["Star Pantheon", "Qiryath Council", "Followers of the Redeemer"]
+appears_in: ["Caleran"]
 needs: []
 tags: []
 ---
-> _“He was bound in our place, so that we might walk free.”_  
-> —Litany of the Flamebound
+# The Age of the Redeemer
 
-### **Overview**
-The Age of the Redeemer marks the **single most transformative period** in Atherian religious history. In a time of imperial complacency, spiritual exhaustion, and social stratification, a man from a forgotten Tower Town in the eastern provinces ignited a movement that would, in time, unravel empires, redefine divinity, and split the known world.
+## Jirahar Birth
 
-### **Key Events and Themes**
-- **Isfir the Redeemer** is born into the **Jirahar people**, a proud and legalistic culture dwelling in towering cities of stone and brass.
-- As he matures, Isfir challenges the **letter of the law** and the **power of the stars**, teaching a new covenant of **compassion, sacrifice, and spiritual liberation**.
-- He travels the eastern provinces, performing **miracles**, healing the broken, casting out spirits, and confronting both **Imperial priests** and **Jirahar scholars**.
-- Gathers a following of **Twelve Companions**, later canonized as saints.
-- In Caleran, the heart of the empire, he is **arrested and executed** during the Festival of Convergence.
+Isfir is born in 33 BR to a Jirahar household connected to the eastern tower and caravan world. He is raised in the Scrolls, Peshara argument, craft, pilgrimage, and the memory of two exiles.
 
-### **The Binding and the Nails of Judgment**
-Isfir was taken to the **Celestial Forum**, the grand square of Caleran, where condemned heretics and rebels were made examples of. A massive **stone monolith**, sacred to the Star Pantheon, stood at its center—known as the **Pillar of Concordance**, said to align with the heavens above.
+## Ministry, 3 BR-0 AR
 
-Before a crowd of thousands gathered for the **Festival of Convergence**, Isfir was **stripped, bound**, and nailed **through the wrists and ankles** into the cold face of the monolith. Each of the **four nails** was forged from **star-forged iron**, typically reserved for binding daemons or cursed spirits. These were said to **drain power**, cutting the soul off from celestial favor.
+Isfir proclaims the Lord's kingdom, heals, casts out corrupting powers, condemns Star worship, and challenges both imperial domination and legal authorities who use correct forms without mercy. He does not teach that law or the Jirahar covenant were meaningless; he claims their fulfilment and exposes their misuse.
 
-The **High Augur of Astaroth** and the **Jirahar Lord-Scribe** presided together. Before the execution, they declared:
+His followers include Jirahar and people of other nations. His Mesakha and divine claims divide Jirahar courts. Some follow him, some reject him lawfully, and a controlling council faction decides he is dangerous enough to deliver to imperial power.
 
-> _“Let the stars see him. Let the gods hear him. Let him suffer in silence until even the sky turns away.”_
+## Trial and Binding, 0 AR
 
-He was not impaled through the heart, nor given poison or mercy. Instead, **he was left to hang**, bound and pierced, for three days, exposed to sun, wind, and cold. Pilgrims and loyalists were forbidden from approaching. Birds pecked at his wounds. Children were brought to throw stones.
+Lord-Scribe Ezrahel bar Qoreth and a majority of participating senior elders press Atherian authorities for execution. They intend his death while lacking power to impose it themselves. High Augur Severan and the imperial court choose the sentence. Atherian soldiers bind Isfir to the Pillar of Concordance at Caleran.
 
-On the third night, **a celestial anomaly** occurred: a false dawn split the sky, and fire was seen curling around the monolith. When the guards returned the next morning, the body was **gone**, and the **star-forged nails lay melted into the stone**, fused with strange, glowing glyphs.
+The elders' guilt is real and specific. The later claim that it passes through Jirahar blood is false.
 
-The site was immediately **sealed and declared heretical**. But witnesses carried the tale eastward, and to this day, Redeemer temples carry replicas of the **Four Nails of Judgment**, often worn as talismans or affixed to altars.
-#### The Role of the Jirahar Elders:
+## Resurrection and Flame
 
-The **Jirahar Council of Scribes**, particularly the high houses from Isfir’s own homeland, were **deeply unsettled** by his rejection of their legalist tradition. His parables struck at the heart of the Jirahar covenantal worldview. His growing popularity threatened their authority not just with their people, but with the Empire—who relied on Jirahar lawmen and scribes across the eastern provinces.
+On the third night Isfir rises, appears to his followers, and sends them into the nations. The White Flame authenticates his person and mission. At Qiryath, sacrificial rites continue but the recognized sign of divine acceptance never returns.
 
-Yet while they believed he was dangerous, they also feared backlash. The **Jirahar did not want blood on their hands.**
+## Revolt and Destruction
 
-So they turned to the imperial authorities and said:
-
-> _“This man stirs the people. He teaches rebellion. Your stars condemn him—do they not?”_
-
-The High Augur of Astaroth, whose omens had already grown ominous in Isfir’s presence, saw an opportunity to **reassert imperial and celestial supremacy.**
-
-It was the **Atherian priests and judges** who held the trial.  
-It was **Atherian soldiers** who forged the nails and struck them through his flesh.  
-But it was the **Jirahar who stood silently**, robed in white, watching from the marble colonnades—**their approval unspoken, but understood**.
-
----
-
-> _“The stars judged him. The law rejected him. And still, he forgave them all.”_  
-> —_The Gospel of Flame, Chapter 9_
-
-- He dies after three days, exposed and suffering.
-- On the third night, the sky splits with **celestial fire**, and his **body vanishes**. The **star-forged nails are left fused into the stone**, glowing with unknown glyphs.
-
-### **Resurrection and the Holy Flame**
-- Isfir appears to his followers after death—transfigured, radiant, and filled with the **Holy Flame**.
-- He blesses them, instructs them to spread the flame, and then **vanishes**, ascending in fire or walking into the wilderness, depending on tradition.
-- The **Holy Flame** becomes both symbol and miracle: a divine gift representing his continued presence.
-
-### **Legacy and Persecution**
-
-- The Empire declares his followers traitors and heretics.
-- Shrines are destroyed, the Companions are hunted—some captured, others martyred.
-- Still, the **faith spreads underground**, especially in the east, where imperial control is weakest.
-- Isfir’s death, far from ending his influence, becomes the foundation of a spiritual movement that will **fracture the Star Pantheon** and reshape the continent.
+The silence deepens existing tensions. In 66 AR revolt begins against Atherian rule. Qiryath is destroyed in 70 AR and the final fortress falls in 73. The disaster ends sacrifice and transforms Jirahar institutions without ending the people.
 
 ## Navigation
 
-- [[Timeline MOC]]
-- [[Canon Index]]
-
+- [[The Rise of the Redeemer]]
+- [[Jirahar Memory of Isfir]]
+- [[Great Tower Revolt and the Second Destruction]]

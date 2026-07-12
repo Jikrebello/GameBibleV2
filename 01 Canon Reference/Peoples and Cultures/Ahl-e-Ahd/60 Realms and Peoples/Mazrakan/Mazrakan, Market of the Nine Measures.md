@@ -30,6 +30,8 @@ The city is more than vice. Camel yards, horse fairs, food streets, performers, 
 
 Iqashari factors, Ahdari caravan clans, Tarkhan traders, Qahuri grain houses, Jirahar brokers, People of the Lamp, Sestaran agents, and foreign adventurers meet here. Iron Horde companies sell escort service; their enemies sell stolen horses two streets away under altered brands.
 
+Jirahar Road Companies usually reach Mazrakan through [[Migdal Melach]] and Tarkhan passage-price country. The market has no Way-Gate anchor, which prevents the Council of Nine Measures from turning commercial regulation into control of the Prophet's Roads.
+
 ## Conflicts
 
 - The Gate-Prefect wants imperial customs to override the charter.

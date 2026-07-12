@@ -68,6 +68,10 @@ Their connection to primal forces, their harsh environment, and their warrior et
 
 Sestaran factors reach Folk lands through Eclessian roads and Thalassian shipping in search of timber, amber, medicines, guides, and place-bound materials. Trade can be fair; fraudulent concessions, relic theft, and destructive extraction are recurring conflicts. See [[Sestara and the Wider World]].
 
+## Jirahar Contact
+
+Jirahar Road and Turning Companies exchange medicine, metal repair, cloth, amber, timber, guides, and route knowledge with Folk communities. Conflict begins when written concessions claim communal land or when refusal to worship Menhir is mistaken for refusal to respect living law. See [[Jirahar and the Wider World]].
+
 ## Navigation
 
 - [[Cultures MOC]]

@@ -6,7 +6,7 @@ visibility: author-only
 era: ["Present Day", "1360 AR"]
 region: ["Known World"]
 culture: []
-related_factions: ["Ahl-e-Ahd", "Thalmyric Empire", "Sestaran Concord", "Eclessia", "Ättar", "Enaidfae"]
+related_factions: ["Ahl-e-Ahd", "Thalmyric Empire", "Sestaran Concord", "Eclessia", "Ättar", "Enaidfae", "Jirahar"]
 appears_in: []
 needs: ["creator approval of political silhouettes and internal borders", "capital and major-seat label pass", "final legend and typography"]
 tags: ["needs-review"]
@@ -49,6 +49,10 @@ This is the approval key for [[Political World Map - Border Proof.png]]. The pro
 | C7 | Vardessa | Small inland enclave at the Three Roads Basin between Fiorenzia, Vorthara and Aversia. |
 
 The Concord deliberately has no single enclosing border. Shared green tones communicate defensive membership without implying a unified territorial state. C6 and C7 are microstate enclaves rather than first-order regional powers.
+
+## Non-Territorial Jirahar Overlay
+
+The Jirahar receive no enclosing political polygon. Final city and route layers must mark five living tower anchors and Qiryath Reqa as point features, with public caravan, river, and sea routes shown separately from restricted Underways and secret Way-Gate connections.
 
 ## Eclessia
 

@@ -89,7 +89,7 @@ Fifty-seven years after the Black Wind's death, his great-grandchildren rule the
 
 ## The Jirahar
 
-**High Keeper Zerahiah**, first among the Keepers of the Path in the most sacred Tower Town, embodies post-Meshalem orthodoxy: ferocious gatekeeping of prophecy, quiet finance, and quieter memory. His standing ruling presumes every claimant to the Mesakha false until the Keepers rule otherwise, and the Keepers have never ruled otherwise. This is also exactly how a true claimant could be missed.
+**High Keeper Zerahiah**, first among the Keepers of the Path at [[Migdal Qesheth]], embodies post-Meshalem orthodoxy: ferocious scrutiny of prophecy, guarded coordination between independent courts, and refusal to let any host ruler purchase gate access. His standing ruling presumes every claimant to the Mesakha false until the Keepers rule otherwise, and the Keepers have never ruled otherwise. He is first in dignity, not king of the towers.
 
 ## Navigation
 

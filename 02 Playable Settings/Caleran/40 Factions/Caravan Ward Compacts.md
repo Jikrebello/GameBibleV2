@@ -14,7 +14,7 @@ tags: [game-ready]
 
 ## Public Identity
 
-the negotiated customary protections linking Caleran's Jirahar, Eclessian, Sestaran, Velian, Covenant, and itinerant communities.
+The negotiated customary protections linking Caleran's Jirahar Tower-affiliated households, Road and Turning companies, Eclessian, Sestaran, Velian, Covenant, and other itinerant communities.
 
 ## Private Truth
 
@@ -62,4 +62,3 @@ Prefecture foreign officers, criminal brokers, hostile preachers, and foreign in
 - [[Caleran Faction Board]]
 - [[Caleran Faction Ladders]]
 - [[Caleran MOC]]
-

@@ -76,22 +76,21 @@ The **Star Pantheon is outlawed**, its temples repurposed, desecrated, or quietl
 
 ---
 
-###  **V. The Sundering of the Jirahar **
+### **V. The Long Persecution of the Jirahar**
 
 > _What was once the cradle of prophecy becomes the ruin of a people._
 
 #### Overview:
 
-Though the Jirahar gave rise to Isfir, they are now seen as **his greatest betrayers**. Fueled by religious fervor, imperial anger, and new theological reinterpretations, pogroms erupt across the eastern provinces. The **Tower Towns are razed**, and the surviving Jirahar **flee into the desert**, taking their ancient contract-magic with them.
+The Second Qiryath had already been destroyed by Atheria in 70 AR. During the Underground Centuries, Jirahar and Redeemer communities sometimes sheltered one another and sometimes denounced one another. After imperial conversion, polemic turns the real guilt of Ezrahel's council into inherited accusation against an entire people.
 
-This becomes the **genesis moment of Ahl-e-Ahd** culture.
+Under Vestian, riot becomes policy. From 377 to 395 AR, remaining eastern towers are razed or confiscated, Qiryath is cleared under its Empty Charter, and established road, sea, and foreign-quarter networks absorb another great displacement.
 
-- **Exiled Jirahar**: Merge with desert nomads → seed the rise of **Ahl-e-Ahd** (especially their legalist-contract philosophy).
-- **Hidden Jirahar**: Retreat to remote Tower Towns → preserve **pre-Redeemer traditions**, build **secret caravan networks**, waiting for the flame to cool.
+Jirahar residents and jurists later influence Covenant scholarship, but the Ahl-e-Ahd peoples descend independently from the Scattering. Jirahar exile is not their genesis.
 
 
-- **“Ashes of the Covenant”**: A lone Jirahar scholar rescues forbidden scrolls from the burning Tower Town of Shaharaz and makes a pact to protect them—no matter the cost.
-- **“Desert Exodus”**: Follow the brutal, soul-breaking march of Jirahar families into the northeast—into lands they do not yet know will become their salvation.
+- **“Ashes of the Covenant”**: A Jirahar scholar rescues household registers from a confiscated eastern tower without surrendering them to a patron bargain.
+- **“The Closed Road”**: A Great Trek must choose between a hostile physical pass and a distant gate bench unwilling to receive another tower's danger.
 - **“The Last Bell”**: A Redeemer monk tries to save a Jirahar child marked for death, and together they flee an empire that’s turning zealot.
 
 ## Navigation

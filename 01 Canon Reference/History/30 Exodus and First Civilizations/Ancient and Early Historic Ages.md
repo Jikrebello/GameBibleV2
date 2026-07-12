@@ -37,6 +37,7 @@ This note bridges [[Prehistory Overview]] and the [[Atherian Imperial Age]]. It 
 
 - **Atherians:** post-Exodus peoples who abandon, distort, or civilize the Prophet's teaching into star cults, civic law, archives, roads, and imperial synthesis.
 - **Jirahar:** communities with the strongest claim to preserving the Great Prophet's original teaching through caravans, tower towns, law, memory, and prophecy.
+- **Arqeshites:** eastern river-city peoples who create an early mortal empire of canals, estates, deportation, and royal sacred power before being absorbed by the expanding Atherian world.
 - **Ahl-e-Ahd:** desert oath and water-right tribes whose covenant memory hardens into contract law, obligation, and later cosmic contract doctrine.
 - **Fäskogarfolk and Ättar:** southern cold-forest peoples shaped by winter survival, clan law, Menhir pacts, ancestor memory, and war against Grobi pressure.
 - **Sestara:** harbor and archive-city cultures that survive by monetizing memory, art, finance, ships, legal skill, and secrets.
@@ -59,3 +60,4 @@ Every modern culture should inherit at least one institution, taboo, myth, or wo
 - [[Timeline MOC]]
 - [[Geography Atlas]]
 - [[Origins of Warlock Rune Magic]]
+- [[The Arqeshite River Empire]]

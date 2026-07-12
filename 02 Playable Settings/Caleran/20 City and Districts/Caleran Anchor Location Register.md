@@ -114,7 +114,7 @@ These seventy locations are the first recurring stage set for Caleran. Promote a
 
 - **Hall of Compacts:** chamber where customary courts negotiate jurisdiction and safe conduct.
 - **River Gate Caravanserai:** lodging, stable, warehouse, and hiring complex for inland arrivals.
-- **Jirahar Scroll Court:** library, legal school, worship space, and secure Keeper archive.
+- **Jirahar Scroll Court:** library, legal school, worship space, maternal register, and secure Keeper archive. It is a host-city institution, not a tower or Way-Gate anchor.
 - **Sestaran Exchange House:** currency, insurance, shipping letters, auction notices, and financial intelligence.
 - **Velian Pilgrim Chapel:** lodging and worship for believers pressured by both great churches.
 
@@ -132,4 +132,3 @@ These seventy locations are the first recurring stage set for Caleran. Promote a
 - [[Caleran Surface Map and Adjacency]]
 - [[Forty Caleran Urban Quest Seeds]]
 - [[Caleran MOC]]
-

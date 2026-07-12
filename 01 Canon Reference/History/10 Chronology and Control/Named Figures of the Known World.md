@@ -137,9 +137,13 @@ The people behind the [[Chronology of the Known World (AR Dating)]]. Each entry 
 
 ## The Jirahar Thread
 
+**The last River-King of Arqesh** (d. c. 690 BR) — remembered under incompatible names in Jirahar, Atherian, and eastern river records. His empire had destroyed First Qiryath in 742 BR; his succession war and failed flood regime opened the return that produced Second Qiryath.
+
 **Rab Yequtiel of Zanthir, "the Lamp of the Exile"** (c. 748–831 AR) — Physician to a Banu Mizan emir and the Path's greatest philosopher; his *Guide for the Wandering* reconciled Scroll legalism with Atherian philosophy and is studied, denounced, and depended upon in equal measure by every Keeper of the Scrolls since.
 
 **Meshalem the Twice-Turned** (c. 1260–1303 AR) — Proclaimed himself the Mesakha in 1288; half the diaspora's tower towns sold their goods and began the return. Arrested by Qahirid authorities in 1291 and offered the choice of proof or conversion, he converted. The catastrophe — worse than any pogrom, because self-inflicted — explains the present-day Keepers' ferocious gatekeeping of prophecy and the resulting political doctrine: after Meshalem, every claimant is presumed false, which is exactly the environment in which a true one would be missed. That irony remains central to Jirahar claimant stories.
+
+**High Keeper Zerahiah** (present day) — First in dignity among independent Jirahar courts at Migdal Qesheth. He coordinates claimant scrutiny and gate cooperation without ruling the other towers. His greatest fear is another Meshalem; his greatest possible failure is refusing the true claimant for exactly that reason.
 
 ## Navigation
 

@@ -33,10 +33,10 @@ The properties-driven register is embedded below; the prose entries preserve use
 - **A Letter from Count Rhael Tovarin of Velos** — *disputed.* Genuine document; the Count is arguing a land claim while narrating history.
 - **A Sermon of Aqid Qalim ibn Haraz** — *propaganda* in the technical sense: sincere Covenant homiletics; invaluable for how the Unsealing is remembered, useless for how it happened.
 - **The Eclessian Account** — *propaganda.* The Sanctum's official memory: the fall as Thalmyric failure, the Split as Thalmyric pride.
-- **The Thalmyric Account** — *propaganda.* The Patriarchate's official memory: the fall as Eclessian betrayal, the Split as Thalmyric fidelity. Read against the Eclessian Account, the two are a course in archive warfare.
-- **The Sestaran Account** — *disputed, and the most nearly honest*, because Sestara profits from accuracy; it is cynical about everyone equally, which is its own distortion.
+- **The Thalmyric Account** — *propaganda.* The Patriarchate's official memory: the fall as Eclessian betrayal, the Split as Thalmyric fidelity. Its collective language about Jirahar guilt and claim that the exiles founded the Ahl-e-Ahd are confessional errors, not authorial facts.
+- **The Sestaran Account** — *disputed, and often nearly honest*, because Sestara profits from accuracy; it is cynical about everyone equally, which is its own distortion. Its account compresses the 70 AR destruction and Vestian persecutions and repeats the false Jirahar-origin theory of the Covenant.
 - **Caedros and the Birth of Thalmyria** — *disputed.* Founding narrative with hagiographic pressure; the Valley Ambush details check out, the omens do not have to.
-- **World History (.md/.pdf)** — *apocryphal-synthesis.* An older compiled draft; superseded where it conflicts with [[Chronology of the Known World (AR Dating)]].
+- **World History (.md/.pdf)** — *apocryphal-synthesis.* An older compiled draft; its single tower-destruction sequence is superseded by [[Historical Spine of the Jirahar]] and the AR chronology.
 
 ## Related In-World Sources (03/In-World Texts)
 

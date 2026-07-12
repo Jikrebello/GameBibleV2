@@ -41,7 +41,7 @@ The Covenant is a layered imperial-confessional civilization rather than one eth
 
 ### Jirahar
 
-Exilic prophetic people. Want survival, memory, ritual continuity, protection from persecution, and eventual vindication.
+Five living towers, the Empty City, host quarters, and mobile companies share law without a sovereign. High Keeper Zerahiah wants continuity, cautious gate custody, and protection from another false claimant. Restorationists want Qiryath secured; Dominion zealots want preparation for future judgement; ordinary towers and companies want viable charters, safe routes, and room to remain distinct. See [[The Jirahar Overview]].
 
 ### Fäskogarfolk and Frontier Peoples
 

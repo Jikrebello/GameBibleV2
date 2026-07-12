@@ -32,11 +32,10 @@ Conversion to Al-Ahdiya can bring opportunity but does not automatically erase a
 
 ## Distinct From Jirahar Status
 
-Jirahar communities are governed by tower, road, guest, and sanctuary instruments. They are not People of the Lamp and must not be folded into Redeemer communal law.
+Jirahar communities are governed through tower, Road, Sea, Turning, guest, and sanctuary instruments. They are not People of the Lamp and must not be folded into Redeemer communal law.
 
 ## Navigation
 
 - [[Velian Culture Overview]]
 - [[The Velian States Overview]]
 - [[Emirate of Zanthir Overview]]
-

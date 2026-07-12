@@ -35,6 +35,9 @@ The civilized world dates from the execution and resurrection of Isfir the Redee
 
 - **c. 1900–1400 BR — Age of Hearths and First Kings.**
 - **c. 1400–800 BR — Age of City-States.**
+- **742 BR — First Destruction of Qiryath.** The Arqeshite River Empire sacks the first Jirahar sanctuary-city and deports its leading households.
+- **c. 690 BR — Fall of Arqesh.** Return to Qiryath begins under the changing eastern leagues.
+- **c. 660 BR — Consecration of the Second Qiryath.**
 - **c. 800–350 BR — Age of Stars.** Atherian synthesis.
 
 ## The Atherian Imperial Age
@@ -47,11 +50,13 @@ The civilized world dates from the execution and resurrection of Isfir the Redee
 - **33 BR — Birth of Isfir** in a Jirahar tower town, eastern provinces.
 - **3 BR–0 — The Ministry.** The Companions: thirteen called, one struck (see [[The Twelve Companions of the Redeemer]]). **c. 15 AR — the conversion of Saint Aquilan the Turned** (born Sha'il bar Qoreth) on the road to Virelos. **c. 29–52 AR — the Companions' martyrdoms**, the Great Purge falling c. 36–45. **c. 55 AR — the Dormition of Amaryah the Fire-Bearer** at Veridun Minor (see [[Amaryah the Fire-Bearer]]).
 - **0 AR — The Binding at Caleran.** Trial under High Augur Severan of Astaroth and Lord-Scribe Ezrahel bar Qoreth; execution on the Pillar of Concordance; the third-night fire; the Holy Flame.
+- **0 AR — The Silence of Acceptance.** Jirahar sacrifice continues at Qiryath, but its authenticated sign of divine acceptance never returns after the Resurrection.
+- **66–73 AR — The Great Tower Revolt.** Initial Jirahar victories give way to factional division and Atherian siege. The Second Qiryath is destroyed in 70 AR; the final rebel fortress falls in 73 AR.
 - **1–291 AR — The Underground Centuries.** The Forty Flames; the Ember Underground; the Fireless Trial; the Temple That Would Not Burn.
 - **292 AR — The Vision at the Stone Bridge of Velos.** The usurper **Cassian** sees the White Flame ("By this Flame, hold"), wins the civil war, legalizes the faith — and the Aurin at that bridge has never frozen since. Reigns to 316; baptized on his deathbed: **the Cassian Wager**, a scandal without resolution.
 - **348–351 AR — The Apostate Interlude.** **Astrion the Apostate** restores the stars, dies on desert campaign — "You have won, Carpenter."
 - **377–395 AR — Emperor Vestian the Pious.** Faith made compulsory (380); augur colleges dissolved; sanctity welded to state power.
-- **c. 300–400 AR — The Jirahar Persecutions.** From riot to policy under Vestian; the great eastern tower towns razed; flight northeast.
+- **377–395 AR — The Vestian Persecutions.** Existing diaspora communities absorb a second great displacement as remaining eastern towers are razed or confiscated and Qiryath is placed under its perpetual empty charter.
 
 ## Decadence and the First Unsealing
 

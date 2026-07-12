@@ -48,6 +48,10 @@ The Covenant arose from ancient desert oath and water institutions, not fully fo
 
 Sermoran and Orsenan ships carry Covenant goods; Vardessan fairs receive caravan houses; Mazrakan hosts Sestaran factors; Fiorenzian scholars study contract law; and Aversian arms cross licensed and forbidden routes. The Medori are legally and publicly Fiorenzian, while rumors about foreign legal inheritances remain unproved. See [[Sestara and the Wider World]].
 
+## Jirahar Relations
+
+Jirahar communities live under negotiated Covenant protections, taxes, and courts without becoming an Ahl-e-Ahd ethnicity. Shared Scattering memories and resident jurists influenced early legal scholarship; they did not found the Covenant peoples. [[Migdal Qesheth]] and [[Migdal Melach]] are major frontier institutions, while Mazrakan brings trade, debate, surveillance, and conversion pressure together. See [[Jirahar and the Wider World]].
+
 ## Navigation
 
 - [[Cultures MOC]]

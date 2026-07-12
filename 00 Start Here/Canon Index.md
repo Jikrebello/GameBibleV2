@@ -49,6 +49,9 @@ Use this as the main doorway into the world bible.
 - [[The Sestaran Concord Overview]]
 - [[Sestaran Canon Register]]
 - [[The Seven-Seal Defensive Muster]]
+- [[The Jirahar Overview]]
+- [[Jirahar Canon Register]]
+- [[Historical Spine of the Jirahar]]
 - [[Needs Work]]
 
 ## Dynamic Views

@@ -26,6 +26,8 @@ The [[The Zanthiri|Zanthiri]] are a mixed frontier people, not simply an occupyi
 
 The ancient Banu Mizan protection compact makes Velian Redeemer-faithful unusually secure by Covenant standards. Their security remains unequal, taxable, and politically revocable.
 
+[[Migdal Qesheth]] stands on Zanthir's dry margin under a separate old charter. Its sacred precedence and gate custody make it useful to the emir and resistant to his control.
+
 ## Gateway Economy
 
 Irrigation, caravan trade, shipping, spices, translation houses, contract archives, insurance, river customs, and fortified roads sustain Zanthir. Merchant patrons finance scholarship, espionage, monuments, militias, and rival claimants. Gold and information continue wars that treaties suspend.
@@ -44,4 +46,3 @@ Diplomacy, patronage, translation, mixed courts, slave liberation, water infrast
 - [[The Velian States Overview]]
 - [[Zanthir and the Unfinished Reconquest]]
 - [[The People of the Lamp]]
-

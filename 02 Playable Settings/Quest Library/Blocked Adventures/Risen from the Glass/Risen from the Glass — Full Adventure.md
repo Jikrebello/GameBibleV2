@@ -20,7 +20,7 @@ tags: [module-conversion, game-ready]
 
 **Premise:** A glass-storm has stripped a forgotten Ishkatar tomb from the desert floor. Three present-day claimants race toward it while its ancient receiver wakes and begins classifying every entrant as part of the estate.
 
-**Beginning:** The party joins a Covenant assessor, a Jirahar land-ark, or an independent recovery expedition. Its route determines who reaches the tomb first, what supplies survive, and whether the outer court records the party as witnesses or thieves.
+**Beginning:** The party joins a Covenant assessor, a Jirahar Road Company, or an independent recovery expedition. Its route determines who reaches the tomb first, what supplies survive, and whether the outer court records the party as witnesses or thieves.
 
 **Middle:** The party crosses the exposed forecourt, survives the tomb's moving processional defenses, discovers a false burial, and learns that the apparent royal household was made from murdered servants and confiscated families. Rivals enter behind it and force choices about alliance, evidence, and treasure.
 
@@ -32,7 +32,7 @@ tags: [module-conversion, game-ready]
 
 ## Who, What, Where, Why, and How
 
-- **Who:** the player crew; [[Breach-Assessor Samir Veyad]]; Jirahar road-keeper Miriam bat-Oren; land-ark captain Eder Ben-Tal; salvage captain Daro Vessan and the [[Brass Jackals]]; guide Nadim al-Sahr; the Estate Dead; and Sethrak.
+- **Who:** the player crew; [[Breach-Assessor Samir Veyad]]; Jirahar road-keeper Miriam bat-Oren; Road Company captain Eder Ben-Tal; salvage captain Daro Vessan and the [[Brass Jackals]]; guide Nadim al-Sahr; the Estate Dead; and Sethrak.
 - **What:** enter the exposed funerary estate, recover its history and human names, prevent its ancient ownership rite from attaching to the living, and decide who receives its records and wealth.
 - **Where:** the northern margin of the [[Great Glass Desert]], two days beyond the Covenant court-town of Qasr Ilyun, in a processional tomb built above a dry branch of the Serpent's Spine.
 - **Why the party acts:** Samir needs an armed neutral crew to serve notice and protect witnesses; the Jirahar pay for recovery of slave-name tablets; a patron finances salvage; or a storm strands the party with the competing expeditions.
@@ -78,7 +78,7 @@ He does not command the party outside the court charter. He needs its protection
 
 ### The Caravan of the Bent Reed
 
-A Jirahar land-ark reaches Qasr Ilyun carrying a copied Exodus itinerary. Its oldest margin note identifies this region as **the place where the Receiver buried six households without descendants**, meaning he killed or renamed every recorded heir.
+A Jirahar Road Company reaches Qasr Ilyun carrying a copied Exodus itinerary. Its oldest margin note identifies this region as **the place where the Receiver buried six households without descendants**, meaning he killed or renamed every recorded heir.
 
 Road-keeper **Miriam bat-Oren** wants the name tablets, remains, and any testimony concerning the vanished households. She is willing to leave most portable wealth under neutral custody if the dead are named publicly.
 
@@ -119,7 +119,7 @@ Samir reads a notice declaring the site temporarily hazardous and asks the party
 The party chooses an expedition arrangement:
 
 - **Court caravan:** slower, supplied, and able to carry the full closure kit.
-- **Jirahar land-ark:** follows an older camp road, finds the memorial approach, and learns one servant name before entry.
+- **Jirahar Road Company:** follows an older camp road, finds the memorial approach, and learns one servant name before entry.
 - **Jackal sprint:** reaches the forecourt first but crosses with fewer water reserves and no formal notice.
 - **Independent route:** uses Nadim's glass gullies, risking equipment to arrive between the others.
 
@@ -202,7 +202,7 @@ The party can destroy the wardens, alter the inventory, or earn escorted passage
 
 ### Zone 4: The Rival Entry
 
-The next expedition catches up. If the party arrived with Samir, Miriam and the land-ark enter. If it arrived with Miriam, the Jackals appear. If it sprinted with Daro, Samir reaches the court with a smaller escort.
+The next expedition catches up. If the party arrived with Samir, Miriam and the Road Company enter. If it arrived with Miriam, the Jackals appear. If it sprinted with Daro, Samir reaches the court with a smaller escort.
 
 The newcomers force a concrete decision:
 
@@ -388,7 +388,7 @@ The exposed route cannot carry every burden safely on Day 4. The party must allo
 - gold, jewels, and ritual objects;
 - rival casualties and abandoned equipment.
 
-The Jackals carry more than anyone else if Rival Trust is positive. The Jirahar land-ark protects names and remains first. Samir prioritizes dangerous seals and complete evidence. No faction has enough capacity to preserve everything alone.
+The Jackals carry more than anyone else if Rival Trust is positive. The Jirahar Road Company protects names and remains first. Samir prioritizes dangerous seals and complete evidence. No faction has enough capacity to preserve everything alone.
 
 ### The Returning Glass
 
@@ -430,7 +430,7 @@ Daro or the party extracts substantial unrecorded treasure. The tomb is defeated
 
 ### The Tomb of the Bent Reed
 
-Miriam takes primary custody, seals the gold, and turns the basin into a Jirahar memorial site. The names are protected, but the Covenant accuses the land-ark of removing artifacts under a religious claim it never submitted to court.
+Miriam takes primary custody, seals the gold, and turns the basin into a Jirahar memorial site. The names are protected, but the Covenant accuses the Road Company of removing artifacts under a religious claim it never submitted to court.
 
 ### Buried Under Glass
 

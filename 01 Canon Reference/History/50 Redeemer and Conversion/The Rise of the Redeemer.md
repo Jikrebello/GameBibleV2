@@ -1,55 +1,42 @@
 ---
 type: event
 status: canon
-canon_level: local
+canon_level: core
 visibility: public
-era: []
-region: []
-culture: []
-related_factions: []
-appears_in: []
+era: ["Age of the Redeemer"]
+region: ["Atherian Empire"]
+culture: ["Jirahar", "Atherian"]
+related_factions: ["Followers of the Redeemer", "Qiryath Council", "Star Pantheon"]
+appears_in: ["Caleran"]
 needs: []
 tags: []
 ---
-#### **Origin and Early Life**
-The **Redeemer**, known to his followers as **Isfir the Bound**, was born among the **Jirahar people** in a **Tower Town** located in the eastern provinces of the Atherian Empire. The Jirahar, already a people of deep spiritual significance and strict legalistic traditions, had always carried with them the stories of a **promised one**—someone who would bring the scattered and oppressed into a new covenant with the divine. Isfir was born under peculiar circumstances, during an event where the skies were alight with celestial signs, and the stars seemed to whisper his name. His parents, prominent members of a respected **Jirahar caravan**, believed from the outset that their son had a unique destiny.
+# The Rise of the Redeemer
 
-As a young man, Isfir exhibited a profound ability to interpret ancient texts and traditions, which was a hallmark of the Jirahar people. He traveled widely across the eastern provinces, studying with various scholars, priests, and mystics. However, what set him apart from others was his growing reputation for **miraculous acts**—healing the sick, giving sight to the blind, and offering prophetic words that pierced the hearts of his listeners. Unlike other Jirahar, who focused on **law and ritual**, Isfir emphasized the **spirit of compassion, mercy, and sacrifice**, which was in sharp contrast to the Atherian imperial culture that dominated the region.
+## Early Life
 
-#### **Revolutionary Teachings**
-Isfir’s teachings resonated with those who were marginalized, downtrodden, and weary of the strictures of both the **Atherian imperial rule** and the **rigid traditions** of the Jirahar. He taught that **divine love and freedom** were not found through following exhaustive laws but through a **personal relationship with the Divine**, marked by acts of **love, forgiveness, and self-sacrifice**.
+Isfir grows within the Jirahar world of tower courts, road households, pilgrimage, craft, and scriptural dispute. His family is respectable without being princely. Later genealogies exaggerate or suppress his connection to famous houses according to theology.
 
-He began gathering a group of followers—both Jirahar and non-Jirahar—who saw him as more than a teacher. His message of love, redemption, and breaking free from the chains of both imperial oppression and spiritual bondage spread rapidly among the peasants, soldiers, and even disillusioned nobles of the eastern provinces. His teachings directly challenged the authority of the **Atherian Star Pantheon** and the empire’s divine right to rule, claiming that true power and salvation came not from the stars but from the **Lord** (the ultimate divine being) and the **Redeemer’s message** of salvation.
+## Teaching
 
-#### **Persecution and the Atherian Response**
-The Atherian Empire, rooted in the worship of its Star Pantheon, saw Isfir and his growing movement as a direct threat. The empire’s rigid structures were built upon celestial prophecies and the divine mandate of its rulers, and Isfir’s teachings undermined this. Consequently, the **Exarchs of the West**, under the direct orders of the **Atherian Emperor**, began to persecute the Redeemer and his followers.
+He teaches that the Lord seeks truth, mercy, repentance, courage, and self-giving rather than correct forms used to conceal predation. He confronts Atherian divine rule, Star sacrifice, corrupt courts, exploitative creditors, and Jirahar leaders who mistake preservation of office for preservation of the Path.
 
-Isfir was eventually captured and brought to the **capital of Aurelia**, where he was publicly tried and sentenced to death. The method of his execution was designed to humiliate and discredit him—he was **bound** to a great stone altar, left exposed to the elements, a symbolic gesture that mocked his message of love and redemption. According to the faithful, this was the moment of his **sacrifice**—where he became "bound" to the fate of humanity, taking on their suffering.
+He also affirms obligations that his later followers sometimes erase. His conflict is not simple compassion against law; it is the claim that law reaches its purpose in him.
 
-#### **Resurrection and Ascension**
-Three days after his execution, Isfir was **miraculously resurrected**. His return from death was a defining moment for his followers and marked the turning point for the spread of his teachings. They believed that in his **resurrection**, Isfir had overcome not just death but the **bondage of the old ways**, offering eternal life and freedom from spiritual chains to all who believed in him. He was seen by his followers in various places, offering them words of hope and commissioning them to spread his message.
+## Followers and Opposition
 
-His ascension into the heavenly realms was marked by a cosmic event, where his followers saw the stars re-arrange themselves, signaling the **end of the old order** and the beginning of the **Age of the Redeemer**.
+Workers, soldiers, women, debtors, scholars, foreigners, and Jirahar households join him. Atherian officials fear unrest and theological sedition. Some Jirahar elders fear a false claimant, imperial retaliation, and the collapse of their authority. Those fears are not identical, and opposition never encompasses the whole people.
 
-#### **Impact on the Atherian Empire**
-Despite the Empire's initial suppression of his movement, the faith of the Redeemer continued to grow, especially in the eastern provinces, where **Isfir’s resurrection** became the rallying cry of a new faith. This grassroots movement rapidly spread among the oppressed, who saw the **Redeemer’s message** as a way out of the crushing yoke of imperial oppression.
+## Caleran
 
-After decades of struggle, the empire eventually **converted** to the faith of the Redeemer. It was not an overnight transformation—many emperors and officials resisted the new faith, but it became clear that the **hearts of the people** had shifted. The Atherian Empire, once the beacon of celestial worship, gradually became a realm shaped by the teachings of Isfir, as his followers grew in influence and number. However, the conversion of the empire also sowed the seeds of division between the **west** and **east**. 
+Isfir enters Caleran during the Festival of Convergence. Ezrahel bar Qoreth's council faction presses the imperial court to remove him. High Augur Severan turns the request into an imperial spectacle at the Pillar of Concordance.
 
-#### **The Faith’s Divergence and Schism**
-As the faith spread, it took on different forms. In the eastern provinces that became Eclessia, growing church institutions developed a highly organized and juridical structure. In the old heartland and western refuge that became Thalmyria, Atherian continuity, monastic scholarship, and invasion produced a more mystical, contemplative, and militant interpretation. The two churches share one origin but remember the empire's fall through opposing wounds.
+## Legacy
 
-#### **Symbols and Relics of the Redeemer**
-- **The Chains of Binding**: Represent the Redeemer’s sacrifice, where he was bound to an altar. This symbol is often worn by clergy or depicted in statues and icons.
-- **The Phoenix**: Symbolizing the Redeemer’s resurrection and ascension, the phoenix is central to the faith’s imagery, representing death and rebirth.
-- **The Crossroads**: The crossroads where the Redeemer taught are seen as sacred, symbolizing choice, change, and spiritual transformation.
-- **The Crown of Stars**: Symbolizing the defeat of the old star gods and the triumph of the Redeemer’s faith.
-
-#### **The Legacy of the Redeemer**
-Today, the Redeemer’s legacy is seen in both **Eclessia** and the **Thalmyric Empire**, where his message of salvation, love, and spiritual freedom continues to inspire the faithful. His **teachings** have become the bedrock of both churches, though their interpretations of his words have evolved in different ways. The Redeemer’s legacy of uniting the Jirahar people’s tradition of wandering and law with the broader spiritual message of redemption has left an indelible mark on the world, creating a faith that continues to guide millions through war, peace, and spiritual struggle.
+The Resurrection establishes the Redeemer's objective truth. Jirahar rejection remains a genuine theological error; the crimes later committed against Jirahar communities remain crimes. The two facts do not cancel one another.
 
 ## Navigation
 
-- [[Timeline MOC]]
-- [[Canon Index]]
-- [[Canon Index]]
+- [[The Age of the Redeemer]]
+- [[Jirahar Memory of Isfir]]
+- [[Caleran and the Eternal Ember]]

@@ -26,4 +26,5 @@ This page is the human-readable triage board. It includes non-canon notes and ca
 - Fix Mazrakan's population and district boundaries only when it enters playable-setting production.
 - Fix Orsena's population, harbor districts, and cistern capacity during a playable-setting pass.
 - Fix Vardessa's annual fair calendar and Three Roads travel table.
+- Place the five living Jirahar towers, Qiryath Reqa, public routes, Underways, and gate anchors on the appropriate regional production maps; then set tower populations and travel times.
 - Add Left Hand cells only where a playable region requires them; avoid disconnected villain catalogues.

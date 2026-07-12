@@ -25,7 +25,7 @@ See [[Gazetteer of the Known World]] for cities, seas, rivers, distances, and tr
 - **Thalmyria:** old Atherian heartland, mountain refuge turned return empire, with dense cities, shrinking rural districts, layered ruins, and an unfinished frontier. Holy Flame and warlock Shell-fire are distinct; attempts to weaponize the former remain a grave controversy.
 - **Sestaran Concord:** city-state marketplace of finance, archives, art, philosophy, secrets, and mercenary leverage.
 - **Ahl-e-Ahd:** contract-state power bloc using legal metaphysics, bound devils, and border emirates.
-- **Jirahar:** diaspora and prophecy network moving through trade, memory, law, and suspicion.
+- **Jirahar:** five living deep tower-citadels, the Empty City, host quarters, land caravans, Sea Fleets, Turning Companies, local Underways, and fixed Prophet's Road anchors. They possess routes rather than a continuous state.
 - **Fäskogarfolk and frontier peoples:** old cultural roots, contested forests, clan law, migration routes, and border pressure.
 
 ## Southern Hemisphere Climate Rule

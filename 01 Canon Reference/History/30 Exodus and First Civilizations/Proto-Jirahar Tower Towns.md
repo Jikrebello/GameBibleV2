@@ -30,6 +30,8 @@ The tower town is both shelter and statement:
 - a refuge during raids and famine;
 - a vertical symbol of waiting for the true promised land.
 
+The visible structure is only the crown of the settlement. Cisterns, dwellings, workshops, stores, schools, burial galleries, and refuges expand below ground over generations.
+
 ## Social Pattern
 
 Proto-Jirahar life combines movement and rooted memory. Families travel by caravan, but the tower towns anchor law, archives, marriage records, food storage, ritual calendars, and judges.
@@ -40,7 +42,7 @@ The Jirahar preserve the strongest claim to the Great Prophet's original teachin
 
 ## Future Consequence
 
-Later persecution, exile, finance, prophecy, and suspicion all build on this early pattern: a people without final settlement, but with unusually durable memory.
+Qiryath becomes the greatest early tower, is destroyed by Arqesh in 742 BR, rebuilt, and destroyed again by Atheria in 70 AR. The broader tower pattern survives because it never depends on one kingdom. Later towers become deep cities and fixed anchors for the Prophet's Roads.
 
 ## Navigation
 

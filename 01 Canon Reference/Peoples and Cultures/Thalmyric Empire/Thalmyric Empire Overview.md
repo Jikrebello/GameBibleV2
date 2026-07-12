@@ -78,6 +78,10 @@ Most Thalmyrics live in or near fortified cities, market towns, monasteries, and
 
 [[Challenges and Future Tensions]] collects the active story fronts.
 
+## Jirahar Relations
+
+Thalmyria venerates a Jirahar Redeemer while inheriting imperial accounts of the elders who pressed for his death. Jirahar pilgrims and scholars move through Thalmyric sacred geography, while the empire's claim to Isfir's legacy collides with Jirahar custody of his mother tongue and family memory. See [[Jirahar Memory of Isfir]] and [[Jirahar and the Wider World]].
+
 ## Navigation
 
 - [[Cultures MOC]]

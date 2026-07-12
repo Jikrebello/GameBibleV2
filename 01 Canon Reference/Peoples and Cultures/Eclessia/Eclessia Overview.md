@@ -81,6 +81,10 @@ Current rulers and political alignments are indexed in [[Present-Day Courts and 
 
 Eclessian stories naturally arise from contested legitimacy, confessional borders, relic evidence, noble debt, guild autonomy, peasant flight, reform preaching, inquisitorial jurisdiction, and the gap between an institution's holy purpose and the people who wield it. [[Grenzburg MOC]] is the first playable concentration of those pressures.
 
+## Jirahar Relations
+
+Eclessia contains [[Qiryath Reqa]], [[Migdal Talga]], ancient persecution sites, and protected quarters under sharply different confessional laws. The real guilt of Ezrahel's council remains entangled with false hereditary blame. Charter protection, conversion pressure, restitution, pilgrimage, and renewed confiscation are live political questions. See [[Jirahar and the Wider World]].
+
 ## Navigation
 
 - [[Cultures MOC]]

@@ -49,11 +49,17 @@ Already the vault's strongest mapping (ministry, execution, resurrection, persec
 
 **Triangle (Conversion era):** GOOD — sincere bishop-martyrs who remember the catacombs; BAD — court converts weaponizing heresy law for property and revenge; UGLY — the old augur aristocracy, selling their archives and legitimacy to the new order piece by piece.
 
-### The Jewish Diaspora → The Jirahar
+### Jewish and Traveller Histories → The Jirahar
 
-Temple destruction → the razing of the tower towns (300–400 AR); diaspora, legal-scholarly tradition (the Peshara as Talmud), banking niches created by Church usury bans, ghettos, expulsions, blood-libel-style paranoia — all present in the vault already. The the Mesakha expectation is the messianic hope.
+The two Qiryath destructions carry the First and Second Temple sequence: Arqesh supplies the earlier river-imperial conquest and deportation; the 66–73 AR Great Tower Revolt supplies revolt, siege, destruction, enslavement, flight, and final-fortress memory. Vestian's later persecution carries imperialized collective blame, confiscation, expulsion, and destruction of remaining communities rather than the foundational diaspora event.
 
-**Recontextualization rule:** the vault's "corruption model" (some real capture, mostly weaponized paranoia, never 100% provable) is the right handling — it lets the setting depict persecution honestly without endorsing the persecutors' logic. Keep all Jirahar terminology through the filtered-analog rename pass.
+The Scrolls and Peshara carry scriptural and legal-scholarly continuity; maternal descent, difficult conversion, food law, host charters, burial, communal courts, and Mesakha expectation carry the covenant-diaspora register. The cessation of authenticated sacrificial acceptance after Isfir's resurrection is objective setting history, interpreted differently by Jirahar and Redeemer churches.
+
+Roma and Irish Traveller histories contribute road households, repair trades, performance, animal dealing, seasonal labor, host suspicion, repeated expulsion, and the ability to remain a people without territorial rule. They do not justify criminal, rootless, biologically exotic, or universally nomadic stereotypes.
+
+The deep tower-citadels borrow the useful fantasy image of a visible stronghold above a much larger excavated settlement. Public canon explains them through generations of ordinary engineering, refuge, cisterns, archives, and Way-Gate custody rather than importing another setting's peoples or places.
+
+**Recontextualization rule:** name the specific elders guilty in Isfir's death while rejecting hereditary guilt. Separate real financial institutions from ethnic conspiracy. Keep all direct historical and fantasy comparisons here; public prose uses Jirahar institutions.
 
 ### Islam → The Ahl-e-Ahd
 

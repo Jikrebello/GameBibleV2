@@ -80,7 +80,7 @@ Thousands of years later, a sandstorm exposes the lost pyramid. Archaeologists a
 
 ## World Egg Conversion Seed
 
-**The conversion:** a glass-storm exposes [[The Glass-Risen Estate]], a minor Ishkatar funerary complex at the desert's edge. Its master was [[Sethrak the Final Receiver]], a human priest of Avarix who converted confiscated homes, names, and lives into the perpetual property of his temple. A Jirahar land-ark, Covenant officials, and the [[Brass Jackals]] converge before the next storm buries it again.
+**The conversion:** a glass-storm exposes [[The Glass-Risen Estate]], a minor Ishkatar funerary complex at the desert's edge. Its master was [[Sethrak the Final Receiver]], a human priest of Avarix who converted confiscated homes, names, and lives into the perpetual property of his temple. A Jirahar Road Company, Covenant officials, and the [[Brass Jackals]] converge before the next storm buries it again.
 
 **The torque:** the tomb is an estate machine. It classifies everyone who enters as claimant, witness, creditor, servant, or property and then enforces the role. [[Breach-Assessor Samir Veyad]] carries a narrow closure writ that can break those classifications if the party recovers the dead cult's seal, inventory, and proof of extinction. The writ is one weapon among ropes, observation, negotiation, and steel.
 

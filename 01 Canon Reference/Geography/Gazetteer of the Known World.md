@@ -61,7 +61,7 @@ The unclaimed tan between the Covenant's desert and the settled south — the gr
 - **The Great Glass Desert** — the shimmering north-center of the continent, the Exodus crossing; beyond it, the lost Giant lands of the northern hemisphere.
 - **The Nsizwa Continent** — a separate island-continent in the far southwest ocean: temperate highlands, Mzalu's Hold, the Izivukwa shrines. Reached by a hard month's sail from the Ättar coasts or Qazmarid; the Nsizwa prefer it hard. **[Per placement decision: their own landmass, not the Qazmarid continent.]**
 - **The Emerald Expanse (the New World)** — the northern hemisphere across the Boiling Sea, where the Giant empires died; every Castaran expedition is also an excavation of the Age of Chains, whether it knows it or not.
-- **The Jirahar** hold no territory on any map — they hold verticals and vectors: the six great towers (Migdal Qesheth near Zanthir, Dahava in the Velian belt, Yamma on the Thalassian, Melach on the Iqashar road, Talga in the southern marches, and the Empty City of Qiryath Reqa in Eclessian lands) and the Prophet's Roads between them. See [[Tower Towns and the Prophet's Roads]].
+- **The Jirahar** hold no continuous territory: five living deep tower-citadels and the ruined Empty City. [[Migdal Qesheth]] stands near Zanthir, [[Migdal Dahava]] in the Velian belt, [[Migdal Yamma]] on the Thalassian near Halmenth, [[Migdal Melach]] on the Iqashar-Tarkhan road, [[Migdal Talga]] in the cold Eclessian marches near Grenzburg, and [[Qiryath Reqa]] in the eastern Eclessian riverlands. Physical routes, local Underways, and fixed Way-Gates connect them. See [[Tower Towns and the Prophet's Roads]].
 
 ## Border Logic (why the lines sit where they sit)
 

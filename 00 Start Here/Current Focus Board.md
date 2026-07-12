@@ -27,6 +27,7 @@ Develop Caleran as the setting's great-city sandbox. Its population, fourteen di
 - **Vault structure:** active reference material uses numbered, subject-owned folders; superseded material is indexed through [[Archive Index]] and the [[Physical Reorganization Manifest]].
 - **Covenant structure:** [[Ahl-e-Ahd Canon Register]] controls the layered peoples, Witnessed/Sealed divide, unequal states, and authorial Fourth Seal truth. [[Covenant Reconstruction Audit]] records the full reference pass.
 - **Sestaran structure:** [[Sestaran Canon Register]] controls seven independent seals joined only by [[The Seven-Seal Defensive Muster]]. Orsena and Vardessa are locked microstates; Vorthara has no common government. [[Sestaran Reconstruction Audit]] records the full reference pass.
+- **Jirahar structure:** [[Jirahar Canon Register]] controls the two destructions, maternal descent, conversion, four mobile Ways, five living towers, Empty City, and Keeper-controlled Way-Gates. [[Jirahar Reconstruction Audit]] records the full reference pass.
 
 ## Next Three Workstreams
 

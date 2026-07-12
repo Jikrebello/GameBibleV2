@@ -45,6 +45,8 @@ This note is the causal backbone of the setting. It explains how the present con
 
 **Inherited wound:** cities preserve memory, but they also create debt, class, legal violence, and appetite for empire.
 
+The eastern [[First Qiryath and the Arqeshite Exile|Arqeshite River Empire]] destroys the First Qiryath in 742 BR. Its fall permits return and the Second Qiryath, adding conquest, deportation, and restoration to Jirahar identity centuries before Atheria unifies.
+
 ## 6. Age of Stars and Atherian Synthesis
 
 [[Age of Stars]] is the late pre-imperial Atherian synthesis. Star cults, civic law, archives, roads, astronomy, and military discipline turn rival cities into a civilization that believes it is destined to organize the world.
@@ -69,9 +71,9 @@ The Redeemer's faith overtakes the Star Pantheon. Martyrs become saints. The emp
 
 **Inherited wound:** sanctity and institutional power become intertwined from the beginning.
 
-## 10. Jirahar Exile
+## 10. Jirahar Destructions and Exile
 
-Jirahar communities, whose tower-town roots go back to the early historic ages, are driven into deeper exile. Some tower towns are destroyed, and survival becomes inseparable from memory, law, finance, and prophecy.
+The Second Qiryath falls to Atheria in 70 AR after the Great Tower Revolt. Vestian's 377–395 AR persecutions later destroy or confiscate most remaining eastern towers. Survival becomes inseparable from memory, law, mobile households, host charters, and prophecy.
 
 **Inherited wound:** the Jirahar remember the Church as persecutor, while Church cultures remember the Jirahar through suspicion, prophecy anxiety, and inherited guilt.
 
