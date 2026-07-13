@@ -79,7 +79,8 @@ The civilized world dates from the execution and resurrection of Isfir the Redee
 ## The Fall and the Thalmyric Rise
 
 - **905 AR — WAVE TWO: The Fall of Caleran.** **Sultan-Caliph Idris al-Fattah** takes the capital at twenty-six and seals the Celestial Forum under glass "for the final audit." The empire dies; refugees flee south to the volcanic mountains.
-- **c. 905–920 AR — The First Catch.** The fallen empire's border studs scatter into the grass; the foot-nomad Tarkhan catch them and become, within three generations, the world's finest light cavalry. Grey Sister's line begins.
+- **558 AR — [[Nine Wells of Tergai|Seizure of the Nine Wells]].** Covenant forces violently seize ancestral Well-Tarkhan water grounds. Later tradition recasts the conquest as voluntary submission.
+- **c. 905–920 AR — [[First Catch and Grey Sister|The First Catch]].** The fallen empire's border studs scatter into the northeastern grass. Grass-Tarkhan hunters and herders catch them and become, within three generations, the world's finest light cavalry. Grey Sister's line begins; the older western camel culture continues.
 - **906 AR — The Veil over Veridun.** During the Qahirid advance, watchers see a woman's figure spreading a veil of pale fire above the city; the siege breaks in a night storm. Thalmyria's supreme feast of the Mother.
 - **906–908 AR — Third Crusade.** The eastward push stopped at the Duchy of Caldria.
 - **907 AR — [[The Battle of the Shattered Engines (907 AR)|Battle of the Shattered Engines]].** Caldria holds Crown Gate Pass while Vortharan warlocks destroy two Covenant siege golems and cripple a third, ending the northern advance and weakening occupation forces later exposed at Caelmount.
@@ -125,6 +126,7 @@ The civilized world dates from the execution and resurrection of Isfir the Redee
 - **c. 1295 AR — Caedros IV Aetherion born.** The Nikandran restoration line continues through the soldier-prince later called Ash-Blood.
 - **1297 AR — The [[Freeflame Reformation]] begins.** Ansgar of Brenholt posts the *Hundred Grievances* against the assurance trade.
 - **1303 AR — Death of Qarayel**, undefeated, unsucceeded; the secret grave. **1304 — the Partition of the Herds:** the White, Iron, Moon, and Ash Hordes divide by his children's lines.
+- **1334 AR — First Ash Road Peace.** After the previous year's attack on Castara's inland route, the city begins annual payment for declared escorts and passage across Ash-Horde country.
 - **1305 AR — The Synod of Aldersbruck.** Ansgar refuses to recant and is burned; ashes scattered in the River Weiss; **the Unburnt Psalter** vaulted and denied.
 - **1306–1329 AR — The Ashenmen Risings** in and around the Ironvale country.
 - **1311 AR — The Spring at Sarnwell.** An apparition of the Mother to a crippled washerwoman; the healing spring passes every relic-court test.

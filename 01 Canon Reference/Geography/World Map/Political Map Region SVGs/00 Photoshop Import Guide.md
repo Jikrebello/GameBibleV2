@@ -33,8 +33,13 @@ The filenames begin with the same IDs used by [[Political Map Border Proof Key]]
 - `E1–E9`: Eclessia
 - `AT1–AT4`: Ättar customary ranges
 - `F1-F4`: Folk customary territories; Enaidfae is an old-rite identity within them
+- `TH1-TH4`: Tarkhan Horde customary ranges
+- `TG1`: Nine Wells of Tergai marker
+- `TR1`: Castaran Long Road route
 
 `T4 - Saronika.svg` includes Saronika's mainland/coastal shape and both associated island pieces. `C3 - Sermora.svg` includes Sermora's principal shape and associated island. `A5 - Velian States.svg` retains its disputed hatch. Ättar and Folk files retain dashed customary-frontier strokes.
+
+The Tarkhan Horde files also retain dashed strokes and may overlap. `TG1` and `TR1` are control layers, not political territories.
 
 ## Reassembly
 

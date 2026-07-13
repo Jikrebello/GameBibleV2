@@ -54,9 +54,9 @@ The grey forest world below the settled realms contains four overlapping customa
 
 The distinct **Ättar ranges** lie to the southwest. Their western sea-road reaches Kedrava directly, and centuries of raid-then-settle history produced the [[The Saltborn Coast Overview|Saltborn]]. The four customary ranges are the Lion-Mane Coast, Hornwall Valleys, Bearshield Holds, and Grey-Wolf Range; each contains many rival halls rather than one government. Beyond the Folk country lie the **Grobi Wastes** of the far southeast, whose winter migration corridors aim toward Grenzburg's latitude.
 
-### The Tarkhan Steppe — the middle north
+### The Tarkhan Lands — the northern dry belt
 
-The unclaimed tan between the Covenant's desert and the settled south — the grass road connecting everyone's back doors. Whoever unites it flanks three empires at once — Qarayel the Black Wind proved it (1261–1303), and the Four Hordes that split his herd are the region's present tenants. See [[The Tarkhan Tribes Overview]].
+The unclaimed northern tan is not one continuous grassland. Western **Well-Tarkhan** country is desert and stony well-country adjoining Iqashar; northeastern **Grass-Tarkhan** country opens into pasture and migratory great-horn range. The Four Hordes overlap these ecological worlds: White in the northwest, Iron at the Iqashar-Mazrakan frontier, Moon on the central sacred circuit, and Ash along the Castaran approaches. The [[Nine Wells of Tergai]] lie north of Mazrakan, while the [[Castaran Long Road]] crosses Ash country north of Eclessia toward Vardessa and Aversia. See [[The Tarkhan Tribes Overview]].
 
 ### Off the Board
 
@@ -67,7 +67,7 @@ The unclaimed tan between the Covenant's desert and the settled south — the gr
 
 ## Border Logic (why the lines sit where they sit)
 
-Thalmyrica/Covenant: the desert edge and the western strait, a frontier of forts and truce-fairs. Thalmyrica/Eclessia: the mountain watershed south of the Thalassian, a schism border of rite-changing valleys. Eclessia/Folk: no fixed line, but a gradient of parishes thinning into Green March clan-law. Covenant/Tarkhan: wells. Everyone/Sestara: money.
+Thalmyrica/Covenant: the desert edge and the western strait, a frontier of forts and truce-fairs. Thalmyrica/Eclessia: the mountain watershed south of the Thalassian, a schism border of rite-changing valleys. Eclessia/Folk: no fixed line, but a gradient of parishes thinning into Green March clan-law. Covenant/Tarkhan: fortified wells, especially the stolen Nine Wells of Tergai. Castara/Tarkhan: a paid road peace rather than a territorial border. Everyone/Sestara: money.
 
 ## Map Work Remaining
 

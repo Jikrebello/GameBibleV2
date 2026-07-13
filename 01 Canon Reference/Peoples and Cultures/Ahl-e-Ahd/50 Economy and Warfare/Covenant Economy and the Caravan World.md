@@ -21,7 +21,7 @@ The Covenant economy joins river grain, oasis cultivation, herding, maritime tra
 - Al-Qahur supplies grain, dates, linen, fish, pilgrimage, and military-estate revenue.
 - Qazmarid controls strait shipping, orchards, salt, horses, and western routes.
 - Zanthir brokers Thalassian trade, translation, insurance, spices, and intelligence.
-- Mazrakan joins imperial roads to Tarkhan animals, hides, escorts, captives, and grassland trade.
+- Mazrakan joins imperial roads to Well-Tarkhan camels and dry-country transport, Grass-Tarkhan horses and hides, escorts, captives, falconers, and the wider northern trade.
 
 ## Contracts and Credit
 
@@ -39,4 +39,3 @@ Water stations, canals, fodder, guarded roads, and shipping lanes are the empire
 
 - [[Status, Slavery, and Manumission in the Covenant]]
 - [[Mazrakan, Market of the Nine Measures]]
-

@@ -30,10 +30,11 @@ Develop Caleran as the setting's great-city sandbox. Its population, fourteen di
 - **Jirahar structure:** [[Jirahar Canon Register]] controls the two destructions, maternal descent, conversion, four mobile Ways, five living towers, Empty City, and Keeper-controlled Way-Gates. [[Jirahar Reconstruction Audit]] records the full reference pass.
 - **Folk structure:** [[Folk Canon Register]] controls the living clan umbrella, Enaidfae old-rite confederacies, Chapel-Folk, four customary regions, local courts, and the Frost-Road. [[Folk Reconstruction Audit]] records the cross-vault pass.
 - **Ättar structure:** [[Ättar Canon Register]] controls the four great kindreds, hall government, Mother Moon's firstborn bargain, skinwalker chiefs, Moon-Seers, berserker challenge, slavery, and winter war. [[Ättar Reconstruction Audit]] records the cross-vault pass.
+- **Tarkhan structure:** [[Tarkhan Canon Register]] controls Well-Tarkhan and Grass-Tarkhan life, the four Hordes, the stolen Nine Wells, the Castaran road peace, and the limits of falcon sky-riding. [[Tarkhan Reconstruction Audit]] records the cross-vault pass.
 
 ## Next Three Workstreams
 
-1. **Regional map production:** turn the Covenant and Sestaran control notes into finished roads, trade, harbor, fair, water, fortress, and jurisdiction layers.
+1. **Regional map production:** turn the Covenant, Sestaran, and Tarkhan control notes into finished roads, trade, harbor, fair, water, fortress, customary-range, and jurisdiction layers.
 2. **Next playable-city selection:** choose between Mazrakan, Vorthara, Orsena, Vardessa, and Zanthir only after comparing their campaign functions against Caleran.
 3. **Caleran and Grenzburg implementation:** continue map and adventure blocking from their locked production bibles without reopening their canon spines.
 
@@ -53,6 +54,7 @@ Develop Caleran as the setting's great-city sandbox. Its population, fourteen di
 - [[The Grey Sweat]], [[The Korrheim Accord]], and the [[Freeflame Reformation]] are the source events for Eclessia's demographic and confessional present.
 - The Folk are a living umbrella civilization rather than a state. Enaidfae are old-rite Folk confederacies; Ättar are a distinct cousin people. Local courts may mix Menhir courtiers, patrons, Shades, and Idol masks, while [[Folk Faith and Appeasement]] governs public practice.
 - The Ättar are four great totem-kindreds containing many rival halls. Every old-rite hall chief is a hybrid-only skinwalker; each ruling line owes one firstborn exchange per generation. Transformations do not consume memories, and Moontouched decline is neither immediate nor inevitable.
+- The Tarkhan are one people expressed through western camel-based Well-Tarkhan and northeastern horse-based Grass-Tarkhan life. The White Horde is Iqashar's immediate raiding threat; Iron settlement is its slower institutional threat. The [[Nine Wells of Tergai]] are ancestral Tarkhan ground seized by Covenant forces in 558 AR, and the [[Castaran Long Road]] remains outside ordinary Concord territory.
 - The protagonist is a customizable Bank debtor seconded to the Duke: Koss controls the contract, Pierre controls public deployment, and Alaric controls strategy.
 - The Duke's Peace is the canonical continuation. Leviticus is the coerced winter betrayer and is redeemed through public testimony.
 - The field party is the player plus three companions. Elara, Bernard, Dismas, and Zafir are core companions; Lotte, Runa, and Skrit are lighter recruits.
@@ -67,3 +69,4 @@ Develop Caleran as the setting's great-city sandbox. Its population, fourteen di
 - Orsena population, harbor districts, and cistern capacity; Vardessa's fair calendar and road travel table.
 - Population, district, and playable-setting numbers for Mazrakan.
 - Present road, fortress, and jurisdiction maps for Zanthir and the Velian States.
+- Final placement and travel-time proof for the Nine Wells, TH1-TH4 ranges, and Castaran Long Road.

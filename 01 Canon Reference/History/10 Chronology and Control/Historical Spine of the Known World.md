@@ -31,6 +31,8 @@ This note is the causal backbone of the setting. It explains how the present con
 
 [[Age of Scattering]] turns one exodus into many peoples: proto-Atherians, Jirahar, proto-Ahl-e-Ahd, southern ancestors of the Folk and Ättar, the Vesari river-folk of the east, Sestaran harbor peoples, Tarkhan, Nsizwa, and others.
 
+In the northern dry belt, Tarkhan communities develop western camel-and-well circuits and eastern hunting and herding circuits long before Atheria falls. Covenant seizure of the Nine Wells in 558 AR creates a frontier wound; the Atherian collapse later supplies the horses of the First Catch without creating Tarkhan civilization from nothing.
+
 **Inherited wound:** no people keeps the whole Exodus intact, but every people can claim some fragment of it.
 
 ## 4. Age of Hearths and First Kings

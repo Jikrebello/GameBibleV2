@@ -43,6 +43,8 @@ This register controls authorial facts when Covenant notes disagree.
 
 Iqashar lies in the far north at the Tarkhan approaches. Al-Qahur occupies the fertile basin south of it. Qazmarid lies across the western strait. Zanthir and the Velian belt lie southeast toward the Thalassian and Thalmyric frontier. South grows colder.
 
+The [[Nine Wells of Tergai]] are ancestral Well-Tarkhan works seized by Covenant forces in 558 AR. The public First Submission tradition is historically false. White-Horde raids are Iqashar's immediate danger; Iron-Horde military settlement is its slower institutional danger.
+
 ## Locked Metaphysical Truth
 
 The Creditor wears the mask of Malak al-Ahd and profits from Covenant rent architecture. Its interference kept the Fourth Seal dispute permanently unresolved but does not establish which succession instrument began genuine. Sincere belief, honest judgement, and lawful protection remain possible inside the corrupted system.
@@ -55,4 +57,3 @@ Ottoman, Mamluk, Sunni, Shia, Muslim, Christian, Qadira, Kelesh, and Katapesh ar
 
 - [[The Ahl-e-Ahd Overview]]
 - [[Real-History Concordance]]
-

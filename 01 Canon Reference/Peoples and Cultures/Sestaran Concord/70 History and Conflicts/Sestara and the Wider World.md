@@ -23,7 +23,7 @@ Sermoran and Orsenan merchants carry Covenant goods; Fiorenzian scholars study c
 
 ## Tarkhan
 
-Vardessa's horse fairs and northern roads depend on negotiated word-prices. Sermora hires Ash Horde lances and transports horses by sea. Castaran routes face Ash Horde extraction. Fiorenzian insurers price the grass-toll while occasionally financing those who collect it. Tarkhan guests judge Sestaran contracts by hospitality and declared word-price, not notarial elegance.
+Vardessa's horse fairs and northern roads depend on negotiated word-prices. Sermora hires Ash Horde lances and transports horses by sea. Castara purchases the annual [[Castaran Long Road|Ash Road Peace]] for declared caravans crossing northeastern Tarkhan country; the route remains outside Castaran territory and ordinary Seven-Seal protection. Aversia sells tools and arms while demanding security, and Fiorenzian insurers price both the payment and its failure. Tarkhan guests judge Sestaran contracts by hospitality and declared word-price, not notarial elegance.
 
 ## Folk
 

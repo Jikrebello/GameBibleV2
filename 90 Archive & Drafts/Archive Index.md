@@ -23,6 +23,8 @@ The Folk reconstruction preserved its source cluster under `30 Cultures/Folk/202
 
 The Ättar reconstruction preserved its three superseded source notes under `30 Cultures/Ättar/2026-07 Pre-Reconstruction`. See [[Ättar - 2026-07 Pre-Reconstruction Archive Index]] and [[Ättar Reconstruction Audit]].
 
+The Tarkhan reconstruction preserved its superseded overview under `30 Cultures/Tarkhan/2026-07 Pre-Reconstruction` and regrouped the earlier duplicate under the same subject archive. See [[Tarkhan - 2026-07 Pre-Reconstruction Archive Index]] and [[Tarkhan Reconstruction Audit]].
+
 ## Subject Archives
 
 - **10 Cosmology:** superseded cosmological phases and entity versions.

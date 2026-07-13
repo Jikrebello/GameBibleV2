@@ -6,7 +6,7 @@ visibility: author-only
 era: ["Present Day", "1360 AR"]
 region: ["Known World"]
 culture: []
-related_factions: ["Ahl-e-Ahd", "Thalmyric Empire", "Sestaran Concord", "Eclessia", "Folk", "Ättar", "Jirahar"]
+related_factions: ["Ahl-e-Ahd", "Thalmyric Empire", "Sestaran Concord", "Eclessia", "Folk", "Ättar", "Jirahar", "Tarkhan Hordes"]
 appears_in: []
 needs: ["creator approval of political silhouettes and internal borders", "capital and major-seat label pass", "final legend and typography"]
 tags: ["needs-review"]
@@ -53,6 +53,19 @@ The Concord deliberately has no single enclosing border. Shared green tones comm
 ## Non-Territorial Jirahar Overlay
 
 The Jirahar receive no enclosing political polygon. Final city and route layers must mark five living tower anchors and Qiryath Reqa as point features, with public caravan, river, and sea routes shown separately from restricted Underways and secret Way-Gate connections.
+
+## Tarkhan Horde Ranges and Shared Routes
+
+| ID | Range or feature | Cartographic meaning |
+|---|---|---|
+| TH1 | White Horde | Northwestern grass and desert fringe; customary raid, pasture, and well-claim range under Batuqai. |
+| TH2 | Iron Horde | Iqashar-Mazrakan frontier; mixed horse-and-camel contract country under Tegrul. |
+| TH3 | Moon Horde | Central sacred migration circuit and Nine-Mane custodial country under Sorqai's regency. |
+| TH4 | Ash Horde | Northeastern grass and Castaran approach under Chilgir. |
+| TG1 | Nine Wells of Tergai | Shared point-chain north of Mazrakan: ancestral Tarkhan wells held by Covenant forts. |
+| TR1 | Castaran Long Road | Negotiated corridor from Castara across Ash country toward Vardessa and Aversia; not Castaran territory. |
+
+TH1-TH4 use dashed, overlapping silhouettes because Horde control follows banners, pasture, toll, and seasonal allegiance rather than surveyed borders. TG1 and TR1 are separate editable overlays so their final placement can be corrected without changing political shapes.
 
 ## Eclessia
 

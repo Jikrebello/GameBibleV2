@@ -1,8 +1,8 @@
 ---
 type: culture
-status: canon
-canon_level: core
-visibility: public
+status: archived
+canon_level: obsolete
+visibility: author-only
 era: []
 region: ["Tarkhan Steppe"]
 culture: ["Tarkhan"]
@@ -10,6 +10,10 @@ related_factions: []
 appears_in: []
 needs: []
 tags: []
+archive_reason: "Superseded by the 2026-07 Tarkhan canon reconstruction"
+archived_from: "01 Canon Reference/Peoples and Cultures/Tarkhan Tribes/The Tarkhan Tribes Overview.md"
+archived_on: 2026-07-13
+superseded_by: "[[The Tarkhan Tribes Overview]]"
 ---
 # The Tarkhan Tribes Overview
 

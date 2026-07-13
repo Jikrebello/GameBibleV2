@@ -30,7 +30,7 @@ Idris did not destroy the Pillar of Concordance or Eternal Ember. He sealed the 
 
 ## Collapse and Flight
 
-The emperor died, the imperial command chain failed, and surviving regions improvised. Refugees moved toward Veridun, Virelos, rural estates, mountain monasteries, eastern ports, Eclessia, and the steppe. The future Tarkhan caught scattered imperial cavalry stock; the eastern provinces organized their own defense.
+The emperor died, the imperial command chain failed, and surviving regions improvised. Refugees moved toward Veridun, Virelos, rural estates, mountain monasteries, eastern ports, Eclessia, and the grasslands. Grass-Tarkhan clans caught scattered imperial cavalry stock; their western Well-Tarkhan kin retained an older camel-and-well civilization. The eastern provinces organized their own defense.
 
 ## The Northern Advance Breaks, 906-908 AR
 

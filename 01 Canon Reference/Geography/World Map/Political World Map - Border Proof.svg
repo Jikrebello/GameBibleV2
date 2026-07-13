@@ -115,7 +115,13 @@
     <!-- Neutral context: no political fill. -->
     <g id="context-labels">
       <text class="context" x="944" y="125">GREAT GLASS DESERT</text>
-      <text class="context" x="968" y="300">TARKHAN STEPPE</text>
+      <g id="TH1-white-horde" stroke="#7b5c3d"><polygon id="TH1-White-Horde" class="province clan" fill="#b58a55" fill-opacity="0.16" points="721,95 824,78 930,101 1000,151 975,221 890,265 786,247 724,190" /></g>
+      <g id="TH2-iron-horde" stroke="#695746"><polygon id="TH2-Iron-Horde" class="province clan" fill="#907b61" fill-opacity="0.17" points="706,211 807,198 918,223 1016,275 1053,340 978,381 865,361 771,325 706,279" /></g>
+      <g id="TH3-moon-horde" stroke="#6d668f"><polygon id="TH3-Moon-Horde" class="province clan" fill="#8c84ad" fill-opacity="0.16" points="949,103 1068,82 1190,101 1292,154 1310,221 1238,287 1116,306 1005,267 967,211" /></g>
+      <g id="TH4-ash-horde" stroke="#815f53"><polygon id="TH4-Ash-Horde" class="province clan" fill="#a47768" fill-opacity="0.16" points="1233,145 1361,126 1490,154 1618,221 1668,297 1622,356 1494,370 1371,344 1276,290 1234,222" /></g>
+      <g id="TG1-nine-wells"><circle cx="760" cy="260" r="9" fill="#3f83a8" stroke="#f2e3ad" stroke-width="3"/><circle cx="760" cy="260" r="16" fill="none" stroke="#3f83a8" stroke-width="2" stroke-dasharray="4 4"/></g>
+      <g id="TR1-castaran-long-road"><path d="M1689 340 C1540 312 1420 303 1308 316 C1218 327 1142 350 1074 392 C1032 418 995 444 970 455" fill="none" stroke="#9a4f36" stroke-width="4" stroke-dasharray="13 7" stroke-linecap="round"/></g>
+      <text class="context" x="1050" y="335">TARKHAN LANDS</text>
       <text class="context" x="1154" y="1018">GROBI WASTES</text>
       <text class="context-small" x="914" y="403">JIRAHAR TOWERS / PROPHET'S ROADS</text>
       <g fill="#5d574d" stroke="#f2dfb0" stroke-width="2">

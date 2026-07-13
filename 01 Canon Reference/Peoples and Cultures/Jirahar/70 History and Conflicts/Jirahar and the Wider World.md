@@ -31,7 +31,7 @@ Dahava competes with Medori finance. Yamma works with Sermoran shipping. Orsena 
 
 ## Tarkhan
 
-Melach's peace-price depends on old word-law with the Hordes. Jirahar caravans pay passage, hire escorts, exchange animals, and sometimes shelter dispossessed clans. A broken hospitality oath can close more country than a formal border.
+Melach's peace-price depends on old word-law with the Hordes. Jirahar caravans pay passage, hire escorts, exchange Well-Tarkhan camels and Grass-Tarkhan horses, and sometimes shelter dispossessed clans. A broken hospitality oath can close more country than a formal border. Fixed Way-Gates do not bypass markets or routes without anchors, so Tarkhan passage remains materially important.
 
 ## Folk and Ättar
 

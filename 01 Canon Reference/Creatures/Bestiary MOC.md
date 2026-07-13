@@ -20,6 +20,7 @@ tags: []
 - **20 Grobi:** goblins, hobgoblins, orcs, ogres, and their shared origin.
 - **30 Vampires:** origins, bloodlines, and the present-age dossier.
 - **40 Other Threats:** ghouls, Nightmares, Pale-Skins, Hollow-Kings, and specialist arcane threats.
+- **Mundane ecology:** [[Great-Horns]] anchors northeastern grassland migration, hunting, and road conflict without requiring a supernatural origin.
 
 ## Creature Families
 
@@ -41,6 +42,7 @@ tags: []
 - [[Hollow Sentries]]
 - [[Collateral Beasts]]
 - [[Form-Ruins]]
+- [[Great-Horns]]
 
 ## Grobi
 

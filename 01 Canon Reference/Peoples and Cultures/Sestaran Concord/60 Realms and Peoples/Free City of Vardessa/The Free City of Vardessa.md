@@ -28,6 +28,8 @@ Seasonal markets existed before Atherian conquest. Atheria formalized the roads,
 
 The great fairs exchange horses, wool, timber, ore, tools, arms, clocks, books, dyes, medicines, art, and distant goods. Jirahar caravans, Tarkhan horse traders, Folk intermediaries, Ättar factors, Covenant merchants, pilgrims, soldiers, entertainers, and spies temporarily multiply the population.
 
+Vardessa is the principal western clearing point for the [[Castaran Long Road]]. Its guarantors register protected caravans, witness Ash word-prices, and mediate disputes among Castara, Aversian buyers, and Tarkhan escorts without claiming jurisdiction over the grass.
+
 Fair peace protects declared guests, worship, property, and roads for the market season. Beyond it, Vardessan law is narrow and guild-centered. Permanent foreign residents can become indispensable without approaching citizenship.
 
 ## Defence
@@ -43,4 +45,3 @@ Rooted families resist naturalization; Tarkhan traders challenge fixed measures;
 - [[Lives of Vardessa]]
 - [[The Seven-Seal Defensive Muster]]
 - [[Sestara and the Wider World]]
-

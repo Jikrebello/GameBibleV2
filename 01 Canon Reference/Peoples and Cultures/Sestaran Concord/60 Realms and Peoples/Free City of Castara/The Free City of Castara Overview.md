@@ -32,6 +32,8 @@ Growth has produced new docks, crowded housing, university workshops, foreign qu
 
 Shipyards, navigation, cartography, provisioning, universities, salvage, speculation, and imported curiosities sustain Castara. Claims about Expanse peoples, artifacts, creatures, and “empty” land remain expedition testimony, advertising, rumor, or colonial propaganda unless controlled elsewhere in the vault.
 
+Castara's inland lifeline is the [[Castaran Long Road]], which crosses Ash-Horde grass north of Eclessia toward Vardessa and Aversia. Since 1334 the city has renewed the Ash Road Peace with silver, grain, tools, privileges, and gifts in return for escorts and recognized passage. The road is not Castaran territory, and missing payment ends collective Ash protection.
+
 During a muster Castara supplies ships, scouts, distant provisions, and Boiling Sea intelligence.
 
 ## Present Tensions
@@ -43,4 +45,5 @@ Founding families versus new fortunes, expedition fraud, Ash Horde extraction on
 - [[Lives of Castara]]
 - [[The Weird of History — The Unexplained Register]]
 - [[The Seven-Seal Defensive Muster]]
-
+- [[Castaran Long Road]]
+- [[Ash Horde]]

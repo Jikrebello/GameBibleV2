@@ -51,6 +51,16 @@ The annual Grobi winter war supplies a setting-native institution with no direct
 
 **Recontextualization rule:** public canon uses Folk clans, courts, confederacies, and regional names. It does not use Gaulish, Gothic, Celtic, Germanic, Pictish, or other real-world labels as in-world taxonomy.
 
+### Northern Nomad Empires and Plains Societies → The Tarkhan
+
+The Tarkhan borrow political and military structures from Hunnic, Mongol, Turkic, and Oghuz histories: mobile courts, banner coalitions, kurultai legitimacy, remount wealth, extraction without occupation, contract cavalry, and the danger of hired frontier soldiers becoming rulers. The western dry belt adds ancient camel pastoralism, well law, caravan raiding, and slave markets. The northeastern grassland adds dispersed horse camps, migratory herd hunting, falcon reconnaissance, and the political importance of routes that settled states cannot hold continuously.
+
+Indigenous North American plains histories, particularly Sioux and Apache traditions, inform selected Grass-Tarkhan relationships among mobility, horse adoption, hunting, kin networks, scouting, and resistance to surveyed frontiers. They are not treated as interchangeable with Eurasian nomad histories and do not supply direct names, sacred objects, dress, or flattened “tribal” imagery.
+
+The Four Hordes transform succession-empire precedents into setting-native regional coalitions. White is the raid and reclamation frontier; Iron the employed-warrior-to-institutional-capture trajectory; Moon the ritual and constitutional center; Ash the road-peace and mercenary frontier. The Nine Wells provide an objective dispossession around which sincere present communities still have unequal claims and responsibilities.
+
+**Recontextualization rule:** public canon uses Well-Tarkhan, Grass-Tarkhan, Hordes, banner-lords, wind-speakers, sky-riding, word-price, and named routes. Hun, Mongol, Oghuz, Sioux, Apache, and related comparison labels remain creator-facing only.
+
 ### Christianity → The Redeemer's Faith
 
 Already the vault's strongest mapping (ministry, execution, resurrection, persecution, catacomb church). The conversion-era mapping is embodied by:

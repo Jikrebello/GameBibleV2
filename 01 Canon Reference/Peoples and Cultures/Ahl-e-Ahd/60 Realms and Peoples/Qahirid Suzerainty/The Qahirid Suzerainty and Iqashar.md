@@ -30,7 +30,7 @@ Customs, caravan tolls, textiles, metalwork, weapons, court consumption, provinc
 
 ## Northern Frontier
 
-Iqashar faces the Tarkhan through wells rather than a clean border. Iron Horde companies guard some routes; White Horde and dispossessed bands raid others. Horse warfare dominates the grass, while camel-mounted clans and auxiliaries control the driest approaches. [[Mazrakan, Market of the Nine Measures]] converts part of that conflict into trade.
+Iqashar faces the Tarkhan through wells rather than a clean border. The [[Nine Wells of Tergai]] remain ancestral Tarkhan ground held by Qahirid forts. Iron Horde companies guard routes and increasingly occupy frontier offices; White Horde and dispossessed bands raid the approaches. Horse warfare dominates the grass, while ancient Well-Tarkhan camel traditions control the driest country. [[Mazrakan, Market of the Nine Measures]] converts part of that conflict into trade.
 
 ## Present Crisis
 
@@ -41,4 +41,3 @@ Marzuq is clever, indolent, and dependent upon the Guard that placed him. The co
 - [[Covenant Government and Imperial Suzerainty]]
 - [[Covenant Armies and the Tarkhan Frontier]]
 - [[Present-Day Courts and Crowns (1360 AR)]]
-

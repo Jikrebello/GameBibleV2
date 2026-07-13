@@ -14,7 +14,7 @@ tags: []
 ---
 # Mazrakan, Market of the Nine Measures
 
-Mazrakan stands where Iqashar's paved caravan road reaches the wells of the Tarkhan approaches. Its charter promises hard commercial peace: feuds, imperial warrants, and banner disputes stop at the market gates unless the city's courts recognize them.
+Mazrakan stands where Iqashar's paved caravan road reaches the approaches to the [[Nine Wells of Tergai]]. Its charter promises hard commercial peace: feuds, imperial warrants, and banner disputes stop at the market gates unless the city's courts recognize them.
 
 ## Government
 
@@ -28,7 +28,7 @@ The city is more than vice. Camel yards, horse fairs, food streets, performers, 
 
 ## Peoples and Frontier
 
-Iqashari factors, Ahdari caravan clans, Tarkhan traders, Qahuri grain houses, Jirahar brokers, People of the Lamp, Sestaran agents, and foreign adventurers meet here. Iron Horde companies sell escort service; their enemies sell stolen horses two streets away under altered brands.
+Iqashari factors, Ahdari caravan clans, Well-Tarkhan camel houses, Grass-Tarkhan horse traders, Qahuri grain houses, Jirahar brokers, People of the Lamp, Sestaran agents, and foreign adventurers meet here. Iron Horde companies sell escort service; their enemies sell stolen remounts two streets away under altered brands. White-Horde captives also pass through licensed and illicit markets.
 
 Jirahar Road Companies usually reach Mazrakan through [[Migdal Melach]] and Tarkhan passage-price country. The market has no Way-Gate anchor, which prevents the Council of Nine Measures from turning commercial regulation into control of the Prophet's Roads.
 

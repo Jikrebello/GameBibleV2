@@ -37,6 +37,8 @@ The six cities fight private wars, seize tolls, hire troops abroad, and repeated
 
 Fiorenzian banking and patronage reshape the league. The Medori enter Fiorenzia's Golden Book in 1238. Qarayel's Black Wind forces Sestaran routes to pay the grass-toll from 1265 to 1300, proving the compact defends walls better than trade beyond them.
 
+Castara joins as the seventh seal in 1332. After an Ash-Horde attack devastates its new inland connection in 1333, the city concludes the first [[Castaran Long Road|Ash Road Peace]] in 1334. The annual escort payment secures registered caravans but never extends Castaran sovereignty across Tarkhan country.
+
 ## Castaran Expansion, 1330-1360 AR
 
 Boiling Sea routes transform Castara. It joins as the seventh seal in 1332 in exchange for ships, scouts, and overseas provisions. Frate Severin's Fiorenzian regime ends in 1349. By 1360 the Concord finances, arms, transports, and spies upon every major power while remaining unable to agree on what any of that is for.
@@ -46,4 +48,3 @@ Boiling Sea routes transform Castara. It joins as the seventh seal in 1332 in ex
 - [[Chronology of the Known World (AR Dating)]]
 - [[The Seven-Seal Defensive Muster]]
 - [[The Making of the Sestaran Cities]]
-

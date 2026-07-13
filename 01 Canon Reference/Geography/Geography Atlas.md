@@ -27,6 +27,7 @@ See [[Gazetteer of the Known World]] for cities, seas, rivers, distances, and tr
 - **Ahl-e-Ahd:** contract-state power bloc using legal metaphysics, bound devils, and border emirates.
 - **Jirahar:** five living deep tower-citadels, the Empty City, host quarters, land caravans, Sea Fleets, Turning Companies, local Underways, and fixed Prophet's Road anchors. They possess routes rather than a continuous state.
 - **Folk and frontier peoples:** old cultural roots, contested forests, clan law, migration routes, and border pressure.
+- **Tarkhan:** one northern mobile civilization across western camel-and-well country and northeastern horse-and-grass country. Its four Horde ranges are customary coalitions, not state borders; the Nine Wells and Castaran Long Road are the principal fixed conflict lines.
 
 ## Southern Hemisphere Climate Rule
 
@@ -47,6 +48,7 @@ Use [[Southern Cold Belt and Grobi Frontier]] as the governing note for this cli
 - Mark capitals, holy cities, pilgrimage roads, trade routes, mountain passes, frontier duchies, Velian States, Zanthir, Mazrakan, and Grenzburg.
 - Playable-region detail for Grenzburg, Caleran, Vorthara, Fiorenzia, Aversia, Orsena, Vardessa, Caldria, and the Velian States.
 - Physical routes for each major war, migration, and population transfer.
+- Dashed TH1-TH4 ranges for the White, Iron, Moon, and Ash Hordes, plus the [[Nine Wells of Tergai]] and [[Castaran Long Road]].
 
 ## Thalmyric Heartland Logic
 

@@ -37,6 +37,8 @@ Qahir ibn Ruzbeh rebuilds central forces through Ahdanite mass levies, siege wor
 
 Competition with Thalmyria hardens the frontier. Suhrab the Lawbinder rules from 1190 to 1243 and compiles the *Ledger of Ledgers*. Qarayel's Black Wind forces Iqashar to pay the Tarkhan between 1265 and 1300, exposing the limits of settled power.
 
+The northern frontier's oldest wound predates this humiliation. In 558 AR, Mujalib's coalition violently seized the Tarkhan-built [[Nine Wells of Tergai]]. Later Witnessed-Seal tradition recast the conquest as voluntary submission. Qahirid forts and pilgrimages still depend upon that false public memory.
+
 ## Present Settlement, 1304-1360 AR
 
 The Tarkhan divide into four hordes. Qahirid rulers recover influence through Guard politics rather than conquest. Marzuq III takes the throne in 1349. Qazmarid remains independent, Al-Qahur indispensable but internally divided, and Zanthir the expected first battlefield of the next imperial war.
@@ -46,4 +48,3 @@ The Tarkhan divide into four hordes. Qahirid rulers recover influence through Gu
 - [[Chronology of the Known World (AR Dating)]]
 - [[The Making of the Covenant Peoples]]
 - [[The Disputed Fourth Seal]]
-

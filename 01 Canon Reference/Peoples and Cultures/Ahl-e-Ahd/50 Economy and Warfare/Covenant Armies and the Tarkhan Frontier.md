@@ -24,7 +24,9 @@ tags: []
 
 ## Tarkhan Border
 
-The frontier follows wells and seasonal pasture. Tarkhan horses dominate grass country. Camel-mounted desert-edge clans operate where heat, sand, and sparse water defeat cavalry remounts. Iron Horde companies hold imperial contracts; White Horde and land-poor splinters raid; the same banner may escort one caravan and tax another.
+The frontier follows wells and seasonal pasture. Well-Tarkhan camel culture predates the First Catch; Grass-Tarkhan horse culture grows from the captured Atherian remount lines. Iron Horde companies hold imperial contracts with mixed horse and camel forces. White Horde and land-poor splinters raid the fortified approaches; the same clan may escort one caravan and tax another under different declared terms.
+
+The [[Nine Wells of Tergai]] are the frontier's central wound. Tarkhan ancestors dug them, Covenant armies seized them in 558 AR, and Qahirid authority still teaches a voluntary submission that did not occur. White raids seek captives, animals, access, and reclamation. Iron officers seek appointments, estates, and inheritable influence inside the system that employs them.
 
 Iqashar alternates fortified wells, tribute renamed as escort fees, hostage exchange, marriage diplomacy, punitive columns, and employment. Deep pursuit usually fails because Covenant armies consume the supplies their enemies carry with them.
 
@@ -37,4 +39,6 @@ Covenant commanders offer surrender instruments, register captives, and attempt 
 - [[The Tarkhan Tribes Overview]]
 - [[The Qahirid Suzerainty and Iqashar]]
 - [[Warlock Rune Magic]]
-
+- [[Nine Wells of Tergai]]
+- [[White Horde]]
+- [[Iron Horde]]

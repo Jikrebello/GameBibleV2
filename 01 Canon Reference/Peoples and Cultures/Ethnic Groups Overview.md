@@ -37,7 +37,7 @@ Ahl-e-Ahd is an imperial-confessional identity shared by Ahdari, Iqashari, Qahur
 
 ## Other Peoples
 
-Jirahar identity follows communal descent and conversion law rather than appearance. Tarkhan, Nsizwa, Sestaran city populations, Velians, and the populations of former Atheria contain substantial internal diversity governed by their own culture dossiers.
+Jirahar identity follows communal descent and conversion law rather than appearance. The Tarkhan are one internally diverse people whose Well-Tarkhan and Grass-Tarkhan identities follow ecology and mobility rather than ancestry. Nsizwa, Sestaran city populations, Velians, and the populations of former Atheria likewise contain substantial internal diversity governed by their own culture dossiers.
 
 ## Use Rule
 
@@ -50,3 +50,4 @@ Character appearance should arise from family, region, class, labor, diet, age, 
 - [[The Making of the Folk]]
 - [[The Making of the Covenant Peoples]]
 - [[The Making of the Thalmyrics]]
+- [[The Making of the Tarkhan]]

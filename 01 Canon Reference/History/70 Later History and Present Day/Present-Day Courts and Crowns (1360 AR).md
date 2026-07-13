@@ -83,9 +83,9 @@ Sestara has no common court. **Duke Gaius Medori** rules Fiorenzia beside its se
 
 The Medori carry hidden Ahl-e-Ahd lineage and contract technique; this remains author-only and does not make Fiorenzia a Covenant proxy. The seven authorities cooperate automatically only under [[The Seven-Seal Defensive Muster]]. Fiorenzia still dreams uneasily of Frate Severin.
 
-## The Tarkhan Steppe (the Four Hordes)
+## The Tarkhan Lands (the Four Hordes)
 
-Fifty-seven years after the Black Wind's death, his great-grandchildren rule the quarters of his herd: **Khan Batuqai** of the White Horde (richest grass, disputed blood, patient as winter); **Khan Tegrul** of the Iron Horde (selling heavy cavalry to Iqashar, sealing contracts in his own name — the employer-becomes-conquest trajectory every analyst dreads); **Khatun Sorqai** of the Moon Horde (keeper of the Nine-Mane Standard and the grave-secret's prohibition — the steppe's shared conscience, and old); **Khan Chilgir** of the Ash Horde (young, Under-Ledger-indebted, taxing the Castara roads). No full kurultai can be called without Sorqai's Standard; her death is the board-shaking event every chancellery wargames. See [[The Tarkhan Tribes Overview]].
+Fifty-seven years after the Black Wind's death, his great-grandchildren rule four regional coalitions. **Khan Batuqai** of the White Horde directs the principal raiding and slaving threat against the Nine Wells. **Khan Tegrul** of the Iron Horde embeds contracted horse-and-camel companies in Iqashar's frontier institutions. **Khatun-regent Sorqai** of the Moon Horde keeps the Nine-Mane Standard and the prohibition against searching for Qarayel's grave. **Khan Chilgir** of the Ash Horde sells the annual road peace to Castara while struggling with foreign debt. No full kurultai can be called without Sorqai's Standard; her exceptional regency does not establish unrestricted female khanship. See [[Four Hordes of the Partition]].
 
 ## The Jirahar
 
