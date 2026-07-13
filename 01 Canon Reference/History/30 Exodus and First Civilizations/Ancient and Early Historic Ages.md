@@ -39,7 +39,7 @@ This note bridges [[Prehistory Overview]] and the [[Atherian Imperial Age]]. It 
 - **Jirahar:** communities with the strongest claim to preserving the Great Prophet's original teaching through caravans, tower towns, law, memory, and prophecy.
 - **Arqeshites:** eastern river-city peoples who create an early mortal empire of canals, estates, deportation, and royal sacred power before being absorbed by the expanding Atherian world.
 - **Ahl-e-Ahd:** desert oath and water-right tribes whose covenant memory hardens into contract law, obligation, and later cosmic contract doctrine.
-- **Folk and Ättar:** southern cold-forest peoples shaped by winter survival, clan law, Menhir pacts, ancestor memory, and war against Grobi pressure.
+- **Folk and Ättar:** related southern cold-frontier populations that develop into distinct peoples. Folk institutions center on clan territory and local courts; settled Ättar halls later accept Mother Moon's firstborn pact during the [[War of the Empty Halls]].
 - **Sestara:** harbor and archive-city cultures that survive by monetizing memory, art, finance, ships, legal skill, and secrets.
 - **Vesari:** Slavic-coded river-plain settlers of the far east, a separate Scattering people; their converted princedoms become Virelia's substrate (see [[The Making of the Eclessians]]).
 - **Tarkhan, Nsizwa, and others:** independent heirs of the Scattering, not late cultural add-ons.

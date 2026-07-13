@@ -40,6 +40,8 @@ The earliest rites seek distance from great powers through stones, groves, masks
 
 The Folk remember liberation as the right not to be owned by a foreign king, city, church, bank, or court. The Ättar develop separately from related southern ancestors. Shared origin does not make either a branch of the other.
 
+After settlement, coastal hall society and the [[War of the Empty Halls]] produce the distinct Ättar kindreds. Their firstborn pact is therefore a later southern institution, not a gift received during the Exodus.
+
 ## Navigation
 
 - [[The Making of the Folk]]

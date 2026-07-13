@@ -1,0 +1,45 @@
+---
+type: magic-system
+status: canon
+canon_level: core
+visibility: restricted
+era: ["c. 1600 BR-Present"]
+region: ["Southern Cold Belt"]
+culture: ["Ättar"]
+related_factions: ["Moon Court"]
+appears_in: []
+needs: []
+tags: []
+---
+# Mother Moon's Bargain
+
+The Ättar pact is a direct covenant with [[Mother Moon]], administered by lesser courtiers sometimes called the **Pale Household** or **Moon Court**. It grants old-rite chiefs a single hybrid form and places inherited rage in their paternal lines. It does not prove that Mother Moon loves the Ättar. The agreement treats human children as an acceptable price for continuity.
+
+## Renewal
+
+Every old-rite hall chooses a male chief from an eligible paternal pact line. At installation he must transform publicly before the free hall assembly. A failed transformation proves that the line lacks moon-right.
+
+Once in each generation, the Court claims the pact-heir's first living child. Civil law, slavery, concealment, and refusal do not alter the claim. If the child has not yet been born when the chief takes office, the debt attaches to the future birth.
+
+## The Exchange
+
+The taking usually occurs during the first sleep beneath open moonlight. A changeling of the Pale Household remains in the child's place and grows at a human pace. At adolescence it becomes restless, dreams of roads no mortal can follow, and eventually departs. The original child then returns at the same apparent age.
+
+The returned child is not the person who vanished unchanged. Their memory is discontinuous, their senses answer lunar cycles, and they understand portions of the Court's etiquette. Hall law declares them free and inviolable regardless of their mother's former status.
+
+## What the Pact Does Not Do
+
+- It does not permit full animal transformation.
+- It does not consume a memory with each use.
+- It does not make every Ättar a skinwalker.
+- It does not guarantee wisdom, goodness, or stable rule.
+- It does not release the hall from ordinary winter labour, weapons, walls, or alliances.
+
+## Authorial Judgement
+
+The bargain helped save the early halls from destruction. That necessity does not make its recurring child-price righteous. Mother Moon keeps the letter of the agreement and remains indifferent to the human meaning of what she takes.
+
+## Navigation
+
+- [[Ättar Overview]]
+- [[Borrowed Children and Moon-Seers]]

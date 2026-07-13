@@ -19,6 +19,8 @@ This note controls broad ancestry relationships without assigning cultures one f
 
 The archaic Fäskogarfolk population contributed to both the living Folk and the distinct Ättar culture. The Folk include many regional populations rather than one ancestry. Enaidfae is an old-rite Folk identity, not a biological subdivision. Chapel-Folk remain ethnically and culturally Folk after conversion.
 
+Ättar totem and moon-blood follow an acknowledged paternal line. Children of foreign mothers may be fully Ättar through their father's hall while inheriting weaker rage; appearance does not determine pact strength. Centuries of captive-taking, marriage, fosterage, and adoption make every range internally mixed despite chiefly claims of pure descent.
+
 The southern-hemisphere rule governs their distribution: deeper southern populations inhabit colder country. Hair, skin, eye color, stature, and build vary by family and region and do not determine clan, court, or confession.
 
 ## Eclessians
@@ -27,7 +29,7 @@ Eclessian populations formed through Atherian provincial settlers, converted and
 
 ## Thalmyrics and Saltborn
 
-Thalmyrics descend from Atherian heartlanders, refuge populations, provincial peoples, occupation-era communities, and Reconquest settlers. The Saltborn are a coastal Thalmyric/Ättar people produced by centuries of raid, settlement, war, and intermarriage.
+Thalmyrics descend from Atherian heartlanders, refuge populations, provincial peoples, occupation-era communities, and Reconquest settlers. The Saltborn are a western Kedravan Thalmyric/Ättar people produced by centuries of raid, settlement, war, baptism, and intermarriage.
 
 ## Covenant Peoples
 

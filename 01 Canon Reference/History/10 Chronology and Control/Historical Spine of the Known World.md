@@ -37,6 +37,8 @@ This note is the causal backbone of the setting. It explains how the present con
 
 [[Age of Hearths and First Kings]] is the age of villages, hill forts, river towns, first kings, ancestor houses, Menhir pacts, oasis law, and local priesthoods.
 
+In the southern ranges, established Ättar halls face the [[War of the Empty Halls]] around 1600 BR. Their firstborn covenant with Mother Moon creates the four pact-kindreds long after the Exodus, while related Folk societies retain different clan and court traditions.
+
 **Inherited wound:** kingship protects people from chaos but also reintroduces domination after liberation.
 
 ## 5. Age of City-States

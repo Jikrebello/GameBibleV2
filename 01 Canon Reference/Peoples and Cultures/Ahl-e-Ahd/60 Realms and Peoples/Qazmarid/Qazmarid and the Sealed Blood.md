@@ -30,11 +30,10 @@ Witnessed-Seal subjects retain courts and worship but are excluded from the high
 
 ## Foreign Policy
 
-Zahran denies Marzuq's universal title, competes for routes through the western strait, and uses Sealed-Blood minorities as influence networks. Qahirid invasion is limited by sea, distance, and the risk of turning Zahran into the martyr he claims already to be.
+Zahran denies Marzuq's universal title, competes for routes through the western strait, and uses Sealed-Blood minorities as influence networks. Qahirid invasion is limited by sea, distance, and the risk of turning Zahran into the martyr he claims already to be. Qazmari captains alternately fight, hire, ransom, and enslave Ättar crews moving between the Lion-Mane Coast and western Kedrava.
 
 ## Navigation
 
 - [[The Qazmari]]
 - [[The Sealed Blood]]
 - [[The Disputed Fourth Seal]]
-

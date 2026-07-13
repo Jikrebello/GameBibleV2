@@ -15,7 +15,7 @@ tags: [module-conversion, game-ready]
 ---
 # The Drowned Bell of Soligrad
 
-**Source:** *From Shore to Sea* | **Tier:** W | **Region:** Soligrad, the Saltborn coast (eastern Thalmyria) | **Band:** level 6-8 analog
+**Source:** *From Shore to Sea* | **Tier:** W | **Region:** Soligrad, western Kedrava's Saltborn coast | **Band:** level 6-8 analog
 
 **The original:** strange changes in an isolated fishing village lead to an offshore island, a drowned ancient complex, and a captive sea intelligence manipulating generations of villagers.
 

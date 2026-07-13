@@ -27,7 +27,7 @@ Thalmyria is not simply old Atheria with a new flag. It is an old heartland popu
 
 **Velians** belong to the border civilization formed beneath Banu Mizan and later Qahirid rule. Their churches, water courts, markets, and family law cannot be reduced to either occupier or captive.
 
-**Saltborn** are Atherian coastfolk transformed through centuries of Ättar raid, settlement, baptism, and naval service.
+**Saltborn** are Atherian-Kedravan coastfolk of the western outer shore, transformed through centuries of Ättar raid, settlement, baptism, and naval service.
 
 ## The Imperial Boast
 

@@ -31,7 +31,7 @@ The war college's product (canon: gauntlet-casters, elemental specializations, s
 
 ## The Gladiator
 
-The Flesh Pits (canon) run two rosters: the **made** (Fleshweaver constructs and rebuilt volunteers — the line between those two categories is a liability-court question with case law) and the **free blades** — debt-driven, glory-driven, or Crucible cadets making rent. Careers are short, celebrity is real (pit-champions endorse reagent brands), and the surgeons' row behind the arena is the best trauma medicine in the world, for exactly the reasons you'd guess. The road's fork is always the same one, offered in a back room with excellent manners: *we can make you faster.* Everything after that fork is a different road.
+The Flesh Pits (canon) run two rosters: the **made** (Fleshweaver constructs and rebuilt volunteers — the line between those two categories is a liability-court question with case law) and the **free blades** — debt-driven, glory-driven, or Crucible cadets making rent. Foreign champions include Ättar mercenaries taking the keel for pay; other Ättar reach the same sand as enslaved or debt-bound captives. Their berserker rage sells tickets and kills handlers who mistake it for a performance switch. Careers are short, celebrity is real, and the surgeons' row behind the arena is the best trauma medicine in the world, for exactly the reasons you'd guess. The road's fork is always the same one, offered in a back room with excellent manners: *we can make you faster.* Everything after that fork is a different road.
 
 ## Priest, Noble, Criminal
 

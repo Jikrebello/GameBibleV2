@@ -32,8 +32,8 @@ This is the approval key for [[Political World Map - Border Proof.png]]. The pro
 | T1 | Veridun | Volcanic mountain core and the defensible refuge from which the restored empire is ruled. |
 | T2 | Elenara | Cultivated eastern drainage: river towns, vineyards, monasteries and veteran estates. |
 | T3 | Vlastrava | Northern fortress belt facing Zanthir and the disputed Velian corridor. |
-| T4 | Saronika | Main Thalassian coast and principal archipelago; the Saltborn Coast will later be a label within this maritime rim. |
-| T5 | Kedrava | Rugged southwestern coast, pine highlands and difficult approaches. |
+| T4 | Saronika | Main Thalassian coast and principal archipelago; Saltborn naval districts are later migrant communities rather than the regional substrate. |
+| T5 | Kedrava | Rugged southwestern outer coast, pine highlands and difficult approaches; the Saltborn homeland, Halmenth, Soligrad, and the Celion estuary occupy this maritime rim. |
 | T6 | Arkena | Small fortified island enclave and permanent campaign district, deliberately not the whole archipelago. |
 
 ## Sestaran Concord
@@ -72,10 +72,10 @@ The Jirahar receive no enclosing political polygon. Final city and route layers 
 
 | ID | Territory | Cartographic meaning |
 |---|---|---|
-| AT1 | Lion-Mane Coast — Lion Clan Lands | Western and southwestern raiding coast. |
-| AT2 | Hornwall Valleys — Ox Clan Lands | Inland valleys, halls and customary drove routes. |
-| AT3 | Bearshield Holds — Bear Clan Lands | Central mountain forests and defended winter country. |
-| AT4 | Grey-Wolf Range — Wolf Clan Lands | Northeastern taiga and the pressure frontier toward Grobi migration routes. |
+| AT1 | Lion-Mane Coast | Western and southwestern raiding coast; many rival Lion halls and the direct sea-road to Kedrava. |
+| AT2 | Hornwall Valleys | Inland Ox halls, pasture valleys and customary drove routes. |
+| AT3 | Bearshield Holds | Bear halls in central mountain forests and defended winter country. |
+| AT4 | Grey-Wolf Range | Wolf halls in northeastern taiga and the pressure frontier toward Grobi migration routes. |
 
 Dashed borders represent customary range, tribute, pasture and wintering rights. They are not surveyed state lines.
 

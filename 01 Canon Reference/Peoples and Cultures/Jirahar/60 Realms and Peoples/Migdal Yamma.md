@@ -4,7 +4,7 @@ status: canon
 canon_level: core
 visibility: public
 era: ["Present Day"]
-region: ["Thalassian Sea", "Halmenth"]
+region: ["Western Kedravan Coast", "Halmenth"]
 culture: ["Jirahar"]
 related_factions: ["Sea Fleets", "Sermoran Admiralty", "Halmenth Harbor Authorities"]
 appears_in: []
@@ -13,7 +13,7 @@ tags: []
 ---
 # Migdal Yamma
 
-**Migdal Yamma**, the Sea Tower, rises above a protected Thalassian inlet near Halmenth. It is the principal winter harbor of the Sea Fleets.
+**Migdal Yamma**, the Sea Tower, rises above a protected inlet on western Kedrava's outer coast near Halmenth. It is the principal winter harbor of the Sea Fleets and their nearest fixed anchor to the Ättar sea-road.
 
 ## Above and Below
 

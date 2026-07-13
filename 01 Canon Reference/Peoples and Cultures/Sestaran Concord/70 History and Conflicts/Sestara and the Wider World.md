@@ -31,7 +31,7 @@ Sestaran factors seek timber, amber, medicines, guides, resin, rare plants, and 
 
 ## Ättar
 
-Ättar crews raid Sestaran shipping, serve as mercenary sailors, sell timber, furs, whale products, iron, and cold-water navigation, and ransom one another through Orsena. Sermoran letters can turn the same captain from pirate to privateer without changing the last voyage's dead.
+Ättar crews raid Sestaran shipping, serve as mercenary sailors, sell timber, furs, whale products, iron, and cold-water navigation, and ransom one another through Orsena. Sermoran letters can turn the same captain from pirate to privateer without changing the last voyage's dead. Vorthara's arenas employ both free champions and enslaved or debt-bound Ättar captives; Lion-Mane jarls treat the distinction as a reason for vengeance only when it affects their own hall.
 
 ## Thalmyria and Eclessia
 

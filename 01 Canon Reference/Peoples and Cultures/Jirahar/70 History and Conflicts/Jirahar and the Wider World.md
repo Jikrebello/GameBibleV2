@@ -35,7 +35,7 @@ Melach's peace-price depends on old word-law with the Hordes. Jirahar caravans p
 
 ## Folk and Ättar
 
-Trade includes timber, medicines, metalwork, amber, fish, furs, whale products, guides, and ships. Jirahar law rejects worship of Menhir as gods; Folk distinguish that rejection from respect poorly when sacred land is involved. Ättar crews alternately raid, escort, ransom, and join Sea Fleet ventures.
+Trade includes timber, medicines, metalwork, amber, fish, furs, whale products, guides, and ships. Jirahar law rejects worship of Menhir as gods; Folk distinguish that rejection from respect poorly when sacred land is involved. Ättar crews alternately raid, escort, ransom, and join Sea Fleet ventures. Migdal Yamma's western Kedravan anchor places its captains directly on the Lion-Mane route and makes Jirahar ransom law one of the few reliable ways to recover captives across hall boundaries.
 
 ## Velians
 

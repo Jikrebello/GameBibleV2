@@ -21,6 +21,8 @@ The Thalmyric reconstruction preserved its source cluster under `30 Cultures/Tha
 
 The Folk reconstruction preserved its source cluster under `30 Cultures/Folk/2026-07 Pre-Reconstruction`. See [[Folk - 2026-07 Pre-Reconstruction Archive Index]], [[Folk Reconstruction Migration Manifest]], and [[Folk Reconstruction Audit]].
 
+The Ättar reconstruction preserved its three superseded source notes under `30 Cultures/Ättar/2026-07 Pre-Reconstruction`. See [[Ättar - 2026-07 Pre-Reconstruction Archive Index]] and [[Ättar Reconstruction Audit]].
+
 ## Subject Archives
 
 - **10 Cosmology:** superseded cosmological phases and entity versions.

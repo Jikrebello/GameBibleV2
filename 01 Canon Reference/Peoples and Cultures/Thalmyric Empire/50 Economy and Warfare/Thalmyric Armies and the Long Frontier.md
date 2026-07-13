@@ -27,7 +27,7 @@ Coin-paid infantry, cavalry, engineers, artillery, scouts, and supply troops ser
 
 ## Regional Forces
 
-Vlastrava provides fortress troops, cavalry, and engineers. Saronika and Saltborn districts crew the fleet. Arkena controls island garrisons and naval signals. Kedrava supplies mountain infantry and outer-coast sailors. Elenara supports hospitals, grain, remounts, and roads.
+Vlastrava provides fortress troops, cavalry, and engineers. Saronika supplies Thalassian fleets and later Saltborn service districts. Arkena controls island garrisons and naval signals. Kedrava supplies mountain infantry and the principal Saltborn outer-coast sailors. Elenara supports hospitals, grain, remounts, and roads.
 
 Caleran maintains approximately 5,500 regular garrison troops in the city and nearby forts. They protect walls, strategic waterworks, state sites, and approaches but do not replace the professional watch or district patrols.
 

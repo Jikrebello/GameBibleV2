@@ -1,8 +1,8 @@
 ---
 type: magic-system
-status: canon
-canon_level: local
-visibility: restricted
+status: archived
+canon_level: obsolete
+visibility: author-only
 era: []
 region: ["Southern Cold Belt"]
 culture: ["Ättar"]
@@ -10,6 +10,10 @@ related_factions: []
 appears_in: []
 needs: []
 tags: []
+archive_reason: "Superseded by the firstborn-bargain and hybrid-only skinwalker canon"
+archived_from: "01 Canon Reference/Peoples and Cultures/Ättar/The Path of the Skinwalker.md"
+archived_on: 2026-07-13
+superseded_by: "[[The Path of the Skinwalker]]"
 ---
 ### **Totemic Inheritance**
 

@@ -14,7 +14,7 @@ tags: [module-conversion, game-ready]
 ---
 # The Thirtieth Sister
 
-**Source:** U1 *The Sinister Secret of Saltmarsh* | **Tier:** W/F opener | **Region:** the Saltborn coast (eastern Thalmyria) | **Band:** levels 1-3 analog
+**Source:** U1 *The Sinister Secret of Saltmarsh* | **Tier:** W/F opener | **Region:** western Kedrava's Saltborn coast | **Band:** levels 1-3 analog
 
 **The original:** a supposedly haunted coast-house conceals smugglers using staged effects, and their trail leads to a shipboard operation.
 
@@ -23,4 +23,3 @@ tags: [module-conversion, game-ready]
 **The torque:** exposing smugglers is simple; deciding whether to sail, burn, or return the Sister is not. Cargo value, drowned deaths, customs corruption, and formation integrity move separately.
 
 **Hook:** the fake haunting works because it accidentally hides a real maritime weird.
-

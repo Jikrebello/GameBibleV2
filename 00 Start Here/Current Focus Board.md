@@ -29,6 +29,7 @@ Develop Caleran as the setting's great-city sandbox. Its population, fourteen di
 - **Sestaran structure:** [[Sestaran Canon Register]] controls seven independent seals joined only by [[The Seven-Seal Defensive Muster]]. Orsena and Vardessa are locked microstates; Vorthara has no common government. [[Sestaran Reconstruction Audit]] records the full reference pass.
 - **Jirahar structure:** [[Jirahar Canon Register]] controls the two destructions, maternal descent, conversion, four mobile Ways, five living towers, Empty City, and Keeper-controlled Way-Gates. [[Jirahar Reconstruction Audit]] records the full reference pass.
 - **Folk structure:** [[Folk Canon Register]] controls the living clan umbrella, Enaidfae old-rite confederacies, Chapel-Folk, four customary regions, local courts, and the Frost-Road. [[Folk Reconstruction Audit]] records the cross-vault pass.
+- **Ättar structure:** [[Ättar Canon Register]] controls the four great kindreds, hall government, Mother Moon's firstborn bargain, skinwalker chiefs, Moon-Seers, berserker challenge, slavery, and winter war. [[Ättar Reconstruction Audit]] records the cross-vault pass.
 
 ## Next Three Workstreams
 
@@ -42,7 +43,7 @@ Develop Caleran as the setting's great-city sandbox. Its population, fourteen di
 - The ducal family is **von Grenzmark**; the seat and duchy are **Grenzburg**.
 - Thorn-Seer Mael is a Lakekeeper-line seer tied to Wolfsmere.
 - Vesari are a separate Scattering people and become Virelia's substrate.
-- Saltborn are the coast people of Thalmyria's contested eastern (Thalassian) shore — an Atherian/Ättar creole grown into Thalmyric/Ättar coastfolk on the old empire's maritime war-front (Ättar raids from the south, Ahl-e-Ahd invasions from Qazmarid). See [[The Saltborn Coast Overview]]. *(Relocated from Eclessia.)*
+- Saltborn are the coast people of Kedrava's rugged western shore: an Atherian-Kedravan population transformed through Ättar raiding, settlement, baptism, and naval service. Halmenth, the Celion estuary, Soligrad, and the Thirty Sisters belong to this western rim; Saronika and Caleran contain later diaspora districts. See [[The Saltborn Coast Overview]].
 - The Jirahar, Covenant, and Nsizwa naming registers are locked. Broad titles remain translation conventions; signature religious and cultural vocabulary follows each culture's own register.
 - The four Left Hand supply chains are authorial truth. [[The Creditor]] is the patron behind Malak al-Ahd, while the genuine Fourth Seal remains unresolved.
 - Ahl-e-Ahd is an imperial-confessional identity shared by distinct Ahdari, Iqashari, Qahuri, Qazmari, Zanthiri, and Velian peoples. Iqashar is the imperial center; Al-Qahur the sacred military-household basin; Qazmarid the independent Sealed-Blood counter-caliphate; Zanthir the autonomous mixed gateway.
@@ -51,6 +52,7 @@ Develop Caleran as the setting's great-city sandbox. Its population, fourteen di
 - [[The Battle of the Shattered Engines (907 AR)]] is the Caldrian-Vortharan victory that broke the northern Covenant advance and materially enabled the later mountain resistance.
 - [[The Grey Sweat]], [[The Korrheim Accord]], and the [[Freeflame Reformation]] are the source events for Eclessia's demographic and confessional present.
 - The Folk are a living umbrella civilization rather than a state. Enaidfae are old-rite Folk confederacies; Ättar are a distinct cousin people. Local courts may mix Menhir courtiers, patrons, Shades, and Idol masks, while [[Folk Faith and Appeasement]] governs public practice.
+- The Ättar are four great totem-kindreds containing many rival halls. Every old-rite hall chief is a hybrid-only skinwalker; each ruling line owes one firstborn exchange per generation. Transformations do not consume memories, and Moontouched decline is neither immediate nor inevitable.
 - The protagonist is a customizable Bank debtor seconded to the Duke: Koss controls the contract, Pierre controls public deployment, and Alaric controls strategy.
 - The Duke's Peace is the canonical continuation. Leviticus is the coerced winter betrayer and is redeemed through public testimony.
 - The field party is the player plus three companions. Elara, Bernard, Dismas, and Zafir are core companions; Lotte, Runa, and Skrit are lighter recruits.

@@ -5,8 +5,8 @@ canon_level: local
 visibility: restricted
 era: []
 region: []
-culture: []
-related_factions: []
+culture: ["Ättar"]
+related_factions: ["Moon Court"]
 appears_in: []
 needs: []
 tags: []
@@ -70,7 +70,7 @@ Lunara’s worship is not a centralized priesthood. It is a network of **night-r
 
 #### Followers
 
-- **Lycanthropes and Moon-Touched:** Those whose bodies respond strongly to lunar pull—skinwalkers, shapeshifters, and the moon-marked. They are not inherently “evil.” They are people living closer to the animal calendar than to human society.
+- **Lycanthropes and Moon-Touched:** Those whose bodies respond strongly to lunar pull include Ättar skinwalkers, other shapeshifters, and the moon-marked. Their conditions have different causes and moral meanings; Ättar [[Moontouched|moon-loss]] is a specific danger of excessive hybrid use.
 - **Trackers, Midwives, and Tide-Walkers:** Hunters who respect pack-law, coastal folk who live by tides, and guides who navigate fog and forest by scent, sound, and moon-angle.
 - **Exiles and Pilgrims:** Those who must vanish, change, or travel far—runaways, oathbreakers seeking re-binding, and wanderers who accept that the safest road is the one that cannot be mapped.
 
@@ -91,6 +91,8 @@ Lunara grants the gifts of the night—at the cost of daylight certainty.
 - **Boon:** heightened senses, safe passage through mist and dark, pack-bonding that cannot be broken by distance, controlled shifting, and the ability to “hear” currents in land and sea.
 - **Price:** loss of fixedness. Your sleep, appetite, and desire begin to follow lunar rhythm. You become harder to recognize in the social sense—less predictable, more migratory, more governed by season than schedule. Some lose their name for a phase; others lose the comfort of staying still.
 
+The Ättar compact is a distinct historical bargain rather than this generic pattern. [[Mother Moon's Bargain]] gives hybrid rule and inherited rage in exchange for one firstborn child from each ruling line in every generation. The Pale Household administers that exchange with exactness and no human mercy.
+
 ------
 
 #### Summary
@@ -101,5 +103,4 @@ Lunara is the moon as predator and calendar: the tide that climbs land, the inst
 
 - [[Cosmology MOC]]
 - [[Canon Index]]
-- [[Canon Index]]
-
+- [[Ättar Overview]]

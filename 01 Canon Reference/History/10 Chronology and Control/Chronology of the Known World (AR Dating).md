@@ -34,6 +34,7 @@ The civilized world dates from the execution and resurrection of Isfir the Redee
 ## Early Historic Ages
 
 - **c. 1900–1400 BR — Age of Hearths and First Kings.**
+- **c. 1600 BR — [[War of the Empty Halls]].** A great Grobi offensive nearly destroys the settled Ättar ranges. Four ruling coalitions accept Mother Moon's firstborn bargain, creating the enduring Lion, Ox, Bear, and Wolf pact-kindreds.
 - **c. 1400–800 BR — Age of City-States.**
 - **742 BR — First Destruction of Qiryath.** The Arqeshite River Empire sacks the first Jirahar sanctuary-city and deports its leading households.
 - **c. 690 BR — Fall of Arqesh.** Return to Qiryath begins under the changing eastern leagues.

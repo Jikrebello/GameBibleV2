@@ -39,7 +39,7 @@ Horse traders, raiders, mercenaries, and exiles use northern approaches to Folk 
 
 ## Ättar
 
-The Ättar are cousins, rivals, raiders, spouses, and allies. Coastal disputes involve timber, winter anchorage, captives, and old migration claims. Shared ancestry does not erase separate identities.
+The Ättar are cousins, rivals, raiders, spouses, and allies. Coastal disputes involve timber, winter anchorage, captives, and old migration claims. Grey-Wolf and Tidewood or Gale-Crown warbands also share intelligence and refuge during major Grobi movements. Shared ancestry does not erase separate identities or excuse Ättar slave-taking.
 
 ## Grobi
 
@@ -50,4 +50,3 @@ The winter war defines the relationship but does not make all contact identical.
 - [[The Folk Overview]]
 - [[Frost-Road and the Winter War]]
 - [[Gazetteer of the Known World]]
-

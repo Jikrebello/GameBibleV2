@@ -14,7 +14,7 @@ tags: [module-conversion, game-ready]
 ---
 # The Celion Light
 
-**Source:** *The Secrets of Skyhorn Lighthouse* | **Tier:** W coastal | **Region:** Halmenth and the Celion bar, the Saltborn coast (eastern Thalmyria) | **Band:** level 5 analog
+**Source:** *The Secrets of Skyhorn Lighthouse* | **Tier:** W coastal | **Region:** Halmenth and the Celion bar, western Kedrava's Saltborn coast | **Band:** level 5 analog
 
 **The original:** a lighthouse goes dark, threatening shipping while aquatic attackers occupy its chambers and prepare a wider assault.
 
@@ -23,4 +23,3 @@ tags: [module-conversion, game-ready]
 **The torque:** relighting restores shipping but resumes whatever follows it. The party must clear the tower and alter the rite before the next convoy. Ships saved and drowned souls routed are separate counts.
 
 **Hook:** lighthouse defense becomes sexton-work under naval deadline.
-

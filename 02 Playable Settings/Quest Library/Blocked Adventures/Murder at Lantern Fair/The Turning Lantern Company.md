@@ -14,7 +14,7 @@ tags: [module-conversion, game-ready]
 ---
 # The Turning Lantern Company
 
-The **Turning Lantern Company** is a traveling fair, market, and settlement partnership moving between Thalmyric river towns, the Saltborn ports of the eastern coast, Sestaran roads, and the distant Folk-adjacent fairs at the far end of its route. It carries entertainment because crowds create trade, and trade because performances alone do not feed a road community through winter.
+The **Turning Lantern Company** is a traveling fair, market, and settlement partnership moving between Thalmyric river towns, the Saltborn ports of western Kedrava, Sestaran roads, and distant Folk-adjacent fairs. It carries entertainment because crowds create trade, and trade because performances alone do not feed a road community through winter.
 
 ## Composition
 

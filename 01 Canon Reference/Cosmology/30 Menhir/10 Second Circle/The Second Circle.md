@@ -146,7 +146,7 @@ Lunara’s worship is not a centralized priesthood. It is a network of **night-r
 
 #### Followers
 
-- **Lycanthropes and Moon-Touched:** Those whose bodies respond strongly to lunar pull—skinwalkers, shapeshifters, and the moon-marked. They are not inherently “evil.” They are people living closer to the animal calendar than to human society.
+- **Lycanthropes and Moon-Touched:** Those whose bodies respond strongly to lunar pull include Ättar skinwalkers, other shapeshifters, and the moon-marked. Their conditions have different causes; Ättar [[Moontouched|moon-loss]] follows excessive hybrid use rather than a universal lunar curse.
 - **Trackers, Midwives, and Tide-Walkers:** Hunters who respect pack-law, coastal folk who live by tides, and guides who navigate fog and forest by scent, sound, and moon-angle.
 - **Exiles and Pilgrims:** Those who must vanish, change, or travel far—runaways, oathbreakers seeking re-binding, and wanderers who accept that the safest road is the one that cannot be mapped.
 
@@ -166,6 +166,8 @@ Lunara grants the gifts of the night—at the cost of daylight certainty.
 
 - **Boon:** heightened senses, safe passage through mist and dark, pack-bonding that cannot be broken by distance, controlled shifting, and the ability to “hear” currents in land and sea.
 - **Price:** loss of fixedness. Your sleep, appetite, and desire begin to follow lunar rhythm. You become harder to recognize in the social sense—less predictable, more migratory, more governed by season than schedule. Some lose their name for a phase; others lose the comfort of staying still.
+
+The Ättar compact is a separate historical covenant. See [[Mother Moon's Bargain]] for its firstborn exchange, Pale Household, and hybrid-only chiefs.
 
 ------
 
@@ -757,4 +759,3 @@ Typhonius is the Recombiner: the procedural force by which boundaries thin and l
 - [[Cosmology MOC]]
 - [[Canon Index]]
 - [[Canon Index]]
-

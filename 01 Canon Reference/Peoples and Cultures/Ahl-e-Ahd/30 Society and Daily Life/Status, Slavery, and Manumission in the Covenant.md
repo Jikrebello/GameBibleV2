@@ -19,6 +19,8 @@ Covenant law distinguishes free subjects, protected communities, debt-bound labo
 
 Bondage arises through war, birth under inherited instruments, criminal sentence, unpaid debt, sale by a lawful custodian, and military levy. Kidnapping a free protected person is illegal; converting kidnapping into a valid-looking instrument is a profitable profession.
 
+Foreign war captives include Ättar raiders taken along the western strait. Some are sold as oarsmen, guards, spectacle fighters, or gladiators because foreign buyers prize their size and rumored rage. Contract handlers attempt to trigger that rage for profit despite the deaths it causes.
+
 ## Rights Within Bondage
 
 Enslaved people may petition over food, injury, separation forbidden by an instrument, withheld manumission, or an owner's breach. Such rights save lives but do not make ownership just. Name custody can prevent flight or resistance through metaphysical force and is among the Covenant's gravest institutions.

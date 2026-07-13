@@ -36,12 +36,12 @@ The Velian States and Zanthir remain outside secure imperial rule. Later defeats
 | Region | Cultural register | Government in 1360 | Settlement and old layers | Present conflict |
 |---|---|---|---|---|
 | Veridun and Caleran | old Atherian imperial core | Caedros IV in Veridun; Sophron at Caleran | Densest living cities and deepest archaeological strata | Succession, patriarchal restraint, and the Zanthir war party |
-| Saronika | old-city and island maritime | Queen Thaleia IV Saromen and the Admiralty | Port cities over Atherian quays; Saltborn districts | Naval debt and control of the Thalassian lanes |
+| Saronika | old-city and island maritime | Queen Thaleia IV Saromen and the Admiralty | Port cities over Atherian quays; later Saltborn naval districts | Naval debt and control of the Thalassian lanes |
 | Vlastrava | fortress and veteran frontier | King Dragovan II Vlastar | Fortified towns, veteran estates, occupied villages | Crusade pressure, land restitution, and exhausted civilians |
 | Elenara | river-valley and monastery belt | Duchess Mirena Ielen | Vineyards, monasteries, abandoned estates, buried archives | Monastic title, cityward migration, and imperial taxation |
 | Arkena | Atherian island cities | Governor-General Kyrion Arkenos and civic councils | Academies and harbors built directly through older city layers | Local autonomy versus naval administration |
-| Kedrava | mountain and outer-coast refuge | Prince Radovan Kedrin | Resistance monasteries, cold uplands, peasant militia valleys | Refuge privilege, rural poverty, and central neglect |
-| Saltborn Coast | Thalmyric-Ättar maritime layer | Crosses Saronikan and imperial jurisdictions | Atherian ports beneath raid-and-settle towns | Church scrutiny, sea-weird, and divided loyalty |
+| Kedrava | mountain and western outer-coast refuge | Prince Radovan Kedrin | Resistance monasteries, cold uplands, militia valleys, and the Saltborn maritime rim | Refuge privilege, rural poverty, naval obligation, and central neglect |
+| Saltborn Coast | Atherian-Kedravan/Ättar maritime layer | Kedravan and imperial coastal jurisdictions | Western Atherian ports beneath raid-and-settle towns | Church scrutiny, sea-weird, and divided loyalty |
 | Velian States | Velian, Thalmyric, Covenant, and mixed | Fragmented and contested | Contract-bound infrastructure and layered holy sites | Occupation, resistance, and competing ancestral claims |
 | Zanthir | Ahl-e-Ahd and Banu Mizan | Emir Badis al-Zanthiri | Autonomous frontier emirate | Tribute balance and fear of the next crusade |
 

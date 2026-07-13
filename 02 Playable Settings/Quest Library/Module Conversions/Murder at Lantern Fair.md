@@ -16,7 +16,7 @@ tags: [module-conversion, game-ready]
 ---
 # Murder at Lantern Fair
 
-**Source:** *Murder's Mark* | **Tier:** R to W | **Region:** Halmenth, the Saltborn coast (eastern Thalmyria) | **Band:** level 1 analog
+**Source:** *Murder's Mark* | **Tier:** R to W | **Region:** Halmenth, western Kedrava's Saltborn coast | **Band:** level 1 analog
 
 ## Original Adventure: Spark Notes
 

@@ -1,72 +1,52 @@
 ---
 type: culture
 status: canon
-canon_level: local
+canon_level: core
 visibility: public
-era: []
-region: ["Southern Cold Belt"]
+era: ["Present Day", "Ancient"]
+region: ["Southern Cold Belt", "Lion-Mane Coast", "Hornwall Valleys", "Bearshield Holds", "Grey-Wolf Range"]
 culture: ["Ättar"]
-related_factions: []
+related_factions: ["Thalmyric Empire", "Sestaran Concord", "Folk", "Grobi"]
 appears_in: []
 needs: []
+aliases: ["The Ättar"]
 tags: []
 ---
-### The Totemic Warriors of the Southern Wilds
+# Ättar Overview
 
-#### **Concept and Origin**
-- **Pact with the Fae**: Facing insurmountable odds against indigenous dangers, including the formidable Grobi, they forged a sacred pact with Lunara Noctis. This alliance granted them the moon's mystic protection and the transformative power to assume formidable beast-like forms, echoing the primal essence of their chosen totem animals.
+The **Ättar** are a southern maritime people of rival halls, raiding fleets, fortified valleys, moon-bound rulers, and annual war against the Grobi. They share language, law, four great totem-kindreds, and the ancient bargain with [[Mother Moon]], but they have no universal king, state, or common foreign policy.
 
-#### **Totemic Transformation**
-- **Power of Transformation**: This mystical boon allows Ättar warriors to metamorphose into hybrid creatures—melding human cunning with the brute strength of werewolves, the steadfast endurance of minotaurs, the regal ferocity of lion-men, and the indomitable might of bear-men.
-- **Sacrificial Cost**: The continuation of these powers necessitates a heavy price: at the first transformation and each one after, transformed losses apart of themselves and their memories, which with frequent use and the passage of time, leads them to becoming moontouched, a catatonic state of mind that leads to their death.
-### The Ättar Tribes: Totemic Inheritance and the Path of the Skinwalker
+An Ättar normally belongs first to a household and hall, then to a regional kindred. The four kindreds are not nations: [[Lion-Mane Coast]], [[Hornwall Valleys]], [[Bearshield Holds]], and [[Grey-Wolf Range]] each contain feuding halls, jarldoms, free farmers, dependants, freed families, and thralls.
 
-#### **Totemic Inheritance**
-Upon birth, every member of the Ättar tribes is blessed with subtle, yet distinct, strengths that align with their tribe's totem animal. This totemic inheritance elevates them above the baseline of normal human capabilities, imbuing them with traits reflective of their spiritual kin. For example:
-- **Wolf Totem**: Enhanced endurance and heightened senses, embodying the wolf's stamina and keen awareness.
-- **Lion Totem**: Exceptional speed and agility, mirroring the lion's swift prowess.
-- **Ox Totem**: Increased strength and resilience, drawing from the ox's formidable presence and durability.
-- **Bear Totem**: Great physical power and a natural protective instinct, reflecting the bear's might and guardianship.
+## The Hall World
 
-This inheritance is a birthright, a sign of the tribe's enduring bond with Lunara Noctis and their totem spirits. It shapes the individuals' roles within the tribe and their approach to life, emphasizing a deep connection to their totemic essence.
+The great hall is court, granary, feast-house, barracks, sanctuary, and archive. Male assemblies choose chiefs from eligible paternal pact lines. Great-hall jarls gather lesser halls by gifts, marriage, tribute, and victory; temporary chief-kings arise for major wars and usually lose their following when the emergency ends. See [[Halls, Jarls, and Chief-Kings]].
 
-#### **[[The Path of the Skinwalker]]**
-For those seeking to embrace the full extent of their totemic heritage, including the ability to transform into their animal-hybrid counterpart, a deeper, more personal sacrifice is required. Becoming a skinwalker is a choice that demands the willing offering of one's memories and essence to Lunara Noctis. This sacrifice is not taken lightly, as it involves surrendering a piece of one's soul to the moon goddess in exchange for her blessing.
+Hospitality, oath-keeping, compensation, fosterage, public courage, and loyalty to one's hall are serious goods. So are poetry, seamanship, craftsmanship, and the duty to shelter kin in winter. These virtues coexist with feud, slave-taking, sexual coercion, raiding, and a political order that purchases supernatural authority with children.
 
-- **Initial Transformation**: The aspirant undergoes a ritual where they offer a significant memory or part of their essence to Lunara Noctis. This offering is a pact that grants them the power to transform into a powerful hybrid form reflective of their totem animal. This first transformation is profound, marking a point of no return on their path as a skinwalker.
+## Moon-Right
 
-- **The Cost of Power**: Each subsequent transformation requires the skinwalker to sacrifice a small part of themselves, a fragment of memory or emotion, to maintain their bond with Lunara Noctis. While subtle at first, this cost accumulates over time.
+Every old-rite hall chief must be a [[The Path of the Skinwalker|skinwalker]] able to assume the hybrid shape of his kindred. The authority began in the [[War of the Empty Halls]], when the first ruling lines accepted [[Mother Moon's Bargain]]. Each line owes one firstborn child per generation. A changeling is left in the child's place; at adolescence it departs and the original child returns as a [[Borrowed Children and Moon-Seers|Moon-Seer]].
 
-- **Moontouched**: The condition known as "moontouched" is the eventual consequence of frequent transformations. Skinwalkers find themselves gradually losing their memories and sense of self, their identities eroding with each shift. They become more aligned with the moon's mysterious essence but at the cost of their connections to the mortal world.
+Skinwalkers do not lose a memory whenever they transform. [[Moontouched]] decline comes from age, excessive shifting, and remaining too long in hybrid form. It is feared, dangerous, and preventable rather than inevitable.
 
-- **Final Twilight**: In the twilight of their lives, the most seasoned skinwalkers fall into a catatonic state, their minds emptied of personal attachments and their bodies motionless. They are said to be wholly embraced by Lunara Noctis in death, their spirits joining her in the moonlit realm beyond, leaving behind a legacy shrouded in both reverence and caution.
+## Rage and the Keel
 
-### Cultural Impact and Perception
-The path of the skinwalker is both honored and feared within Ättar society. It embodies the ultimate expression of devotion to Lunara Noctis and the totemic spirits but also serves as a solemn reminder of the price of power. Young warriors are taught the value of their totemic inheritance and the grave cost of seeking transformation, ensuring that the decision to walk the path of a skinwalker is made with full awareness of its implications.
+Moon-blood also permits the emergency rage cultivated by [[Berserker Rage and Iron-Skin Paint|berserkers]]. Their toxic painted armor makes them one of the few mortal forces able to challenge a transformed chief.
 
-Skinwalkers are respected as protectors and champions of their tribes, wielding great power in defense of their people. However, their eventual fate as moontouched also serves as a poignant symbol of the cycle of life, death, and rebirth that Lunara Noctis governs—a cycle that demands sacrifice but promises renewal and transformation in return.
+To **take the keel** is to leave home for a season of raiding, trade, exploration, mercenary service, or escort work. Some crews return with honest profit, some with plunder and captives, and many do both. The people who remain sustain farms, herds, fisheries, looms, forges, ships, law, and winter stores. See [[Ättar Ships, Economy, and Daily Life]] and [[Raiding, Slavery, and Manumission]].
 
-#### **Tribe Structure**
-- **Society Organized by Tribes**: Ättar society is a confederation of tribes, each under the aegis of a totem animal. The leading family of each tribe—bearers of the original pact with Lunara Noctis—governs, guiding their people in accordance with the virtues and strengths of their totem.
-- **Totem Animals as Cultural Cornerstones**: The chosen totem animals are not merely symbols but the very heart of each tribe's identity, informing their martial tactics, spiritual practices, and societal functions.
+## Faith and Conversion
 
-#### **Cultural Practices and Beliefs**
-- **Warrior Ethos**: Valor, prowess in battle, and spiritual communion with their totem spirits define Ättar culture. Their warrior creed emphasizes not just physical strength but a profound bond with the natural world, manifesting in their respect for the hunt, the cycles of life and death, and the sacredness of their pact-bound transformations.
-- **Ritualistic Way of Life**: Life among the Ättar is rhythmically punctuated with ceremonies that venerate Lunara Noctis, prepare warriors for transformation, and honor the lineage of sacrifice that sustains their people. These rituals reinforce the tribe's unity and their connection to the natural and divine realms.
-
-#### **Settlements and Lifestyle**
-- **Communal Living in Mead Halls**: Reflective of their communal spirit and martial culture, Ättar tribes dwell in sprawling mead halls that serve as the nucleus of their social and ceremonial lives. These structures, robust and warmly lit, stand against the backdrop of the icy wilderness, symbolizing the Ättar's resilience and communal bonds.
-- **Adaptation to the Cold**: The southern forests, with their biting cold and treacherous landscapes, have shaped the Ättar into a hardy and resourceful people. Their settlements, fortified and insulated, are both bastions against the encroaching wilderness and sanctuaries of warmth and fellowship.
-
-#### **Interaction with Others**
-- **Complex Relations with the Folk**: The Ättar and Folk share ancient southern ancestry but are distinct peoples. Relations with Tidewood and old-rite Enaidfae confederacies alternate among marriage, trade, raiding, alliance, and rivalry.
-- **Stalwart Defenders**: The Ättar's prowess is most evident in their relentless defense against the Grobi and other threats. Their battles are legendary, showcasing not just the ferocity of their totemic forms but their deep-seated commitment to protecting their lands and way of life.
-- **Sestaran Contact**: Ättar crews raid Sestaran shipping, serve as mercenary sailors, sell timber, furs, whale products, iron, and navigation, and conduct ransom through Orsena. Sermoran letters can legalize the next voyage without changing the last voyage's dead. See [[Sestara and the Wider World]].
-- **Jirahar Contact**: Sea Fleets meet Ättar as rivals, escorts, raiders, ransom intermediaries, and partners in cold-water trade. Timber, furs, whale products, ironwork, navigation, and recovered captives move between them. Neither side assumes one good voyage cancels the last bad one. See [[Jirahar and the Wider World]].
-
-### **Conclusion**
-The Ättar stand as a testament to the enduring human spirit, a people who have intertwined their fate with the mystical forces of nature to survive and thrive in a land that is as beautiful as it is deadly. Their society is a fascinating blend of primal power, deep-rooted spirituality, and unwavering commitment to the cycle of life, death, and rebirth that governs the natural world.
+Mother Moon is a real Menhir and her bargain is exact, powerful, and morally inhuman. She is not a loving tribal goddess. [[Baptized Ättar Halls]] renounce the exchange and lose future skinwalker renewal while retaining language, kinship, inherited moon-scars, and often a weakened rage.
 
 ## Navigation
 
-- [[The Folk Overview]]
+- [[Ättar Canon Register]]
+- [[The Making of the Ättar]]
+- [[Historical Spine of the Ättar]]
+- [[Ättar Kinship, Descent, and Weregild]]
+- [[Mother Moon's Bargain]]
+- [[The Monomyth According to the Ättar]]
+- [[Winter War and the Grobi Frontier]]
+- [[Ättar and the Wider World]]

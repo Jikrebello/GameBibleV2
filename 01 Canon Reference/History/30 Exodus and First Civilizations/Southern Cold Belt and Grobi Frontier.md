@@ -49,7 +49,7 @@ The Folk and Ättar are distinct southern cold-frontier peoples. Their cultures 
 - raids and counter-raids,
 - distrust of southern expansion by church, bank, and crown.
 
-Among the Folk, this pressure produces longhouses, ringworks, hidden granaries, beacon chains, refuge roads, and the [[Frost-Road and the Winter War|Frost-Road]]. Ättar answers remain governed by their own culture notes.
+Among the Folk, this pressure produces longhouses, ringworks, hidden granaries, beacon chains, refuge roads, and the [[Frost-Road and the Winter War|Frost-Road]]. Among the Ättar it produces fortified mead halls, chief-sized sally doors, beacon ranges, the annual [[Winter War and the Grobi Frontier|winter muster]], and the disastrous firstborn bargain made during the [[War of the Empty Halls]].
 
 ## Grobi Pressure
 

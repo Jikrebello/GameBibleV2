@@ -47,6 +47,10 @@ Five living towers, the Empty City, host quarters, and mobile companies share la
 
 No common ruler speaks for the Folk. Green March clans contest settlement and Church jurisdiction; Rootbound confederacies defend old-rite country; Gale-Crown forts control iron and passes; Tidewood leagues face maritime extraction and Ättar rivalry. All depend upon winter cooperation against Grobi migration. Chapel-Folk seek recognition without cultural erasure, while old-rite seers disagree over sacrifice and the local courts. See [[The Folk Overview]].
 
+### The Ättar
+
+No permanent king unites the four great kindreds. Lion-Mane jarls want profitable sea service and access to Kedrava; Grey-Wolf halls demand a stronger Grobi muster; Hornwall halls control food and drove routes; Bearshield holds control iron and Paint-Keeper circuits. Every old-rite chief rules through a skinwalker pact purchased with a firstborn exchange, while baptized halls reject moon-right and seek recognition without abandoning Ättar identity. See [[Ättar Overview]].
+
 ## Recurring Board Questions
 
 - Who owns Atheria's legacy?

@@ -21,6 +21,8 @@ How the Known World maps onto real history — the people, their motivations, an
 
 The world is a **mirrored Mediterranean**: north is the desert (the Ahl-e-Ahd's North-Africa/Levant analog), the temperate middle belt holds the old imperial heartland, and south descends into cold forest, taiga, and permafrost (the Folk, the Ättar, and beyond them the Grobi — the pagan Baltic/steppe frontier, frozen). **Thalmyria faces west, Eclessia faces east.** This deliberately flips the real map: the "Byzantine" power sits where Western Rome sat and the "Catholic" world where the East was. The flip is a feature — it prevents one-to-one geographic tracing while keeping every historical dynamic intact.
 
+**Ättar design register:** Viking-age and North Sea hall society, heroic hall poetry, jarls, seasonal raiding, weregild, thralls, and gift economies provide the social scaffold. Changeling traditions and a deliberately transformed skinwalker motif provide the supernatural layer. These comparison labels are creator-facing only; public canon uses halls, taking the keel, Moon-Seers, skinwalker chiefs, and Paint-Keepers.
+
 ## Era-by-Era Mapping
 
 ### Bronze Age & Exodus → Age of Chains, Exodus, Scattering

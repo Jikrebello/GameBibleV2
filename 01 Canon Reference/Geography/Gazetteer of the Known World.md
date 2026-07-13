@@ -24,7 +24,7 @@ Foot column 15–20 miles/day; mounted courier 35–40; cart and wagon 12–15; 
 - **The Thalassian Sea** — the inner sea between Thalmyrica's east coast, the Sestaran peninsula, and Eclessia's western shore; the world's trade heart. Sermora's fleets police (and tax, and rob) it.
 - **The Boiling Sea** — the equatorial ocean along the world's hot north and northeast; hurricane belt; the only road to the New World. Castara is the last safe port.
 - **Wolfsmere** — the sacred lake of the Drowning (993 AR), southern Eclessian frontier near Grenzburg; standing leftward thin space; no boats, no bells, no iron.
-- **Rivers:** the **Aurin**, Caleran's river, falling from the Veridun highlands to the northwest coast; the **Weiss**, the marches' river through Brauvalis to the Thalassian (Ansgar's ashes); the **Celion**, the river of Thalmyria's eastern (Thalassian) coast at Halmenth on the Saltborn shore (Saint Naris's drowning); the **Orzva**, Virelia's great plains river to Strazgorod.
+- **Rivers:** the **Aurin**, Caleran's river, falling from the Veridun highlands to the northwest coast; the **Weiss**, the marches' river through Brauvalis to the Thalassian (Ansgar's ashes); the **Celion**, descending through Kedrava to the western outer coast at Halmenth (Saint Naris's drowning); the **Orzva**, Virelia's great plains river to Strazgorod.
 
 ## The Realms
 
@@ -34,7 +34,7 @@ Mountainous heart of the old empire. **Caleran** on the northwestern lowland coa
 
 The core population follows fortified cities, functioning aqueducts, ports, monasteries, and maintained imperial roads. Between them lie abandoned terraces, thinly settled valleys, occupation ghost towns, and ruins from every Atherian and post-Atherian period. The Long Reconquest reached Caleran in 957 but continued through the core provinces until 1052; its settlement corridors remain visible in veteran towns and fortified roads. See [[Thalmyric Heartland - Cities, Ruins, and the Empty Interior]] and [[The Layers Beneath Thalmyria]].
 
-The empire's **eastern and southeastern shore on the Thalassian is the Saltborn coast** — the old Atherian maritime war-front, and the one imperial region the sea reaches easily. **Halmenth**, at the Celion's mouth, is its chief port (Saint Naris's drowning). Centuries of Ättar sea-raiders from the south and Ahl-e-Ahd invasions from the Qazmarid–Zanthir approach fell on this coast, and the raid-then-settle that followed bred the **[[The Saltborn Coast Overview|Saltborn]]**: an Atherian/Ättar creole grown into Thalmyric/Ättar coastfolk. **Soligrad** and the lesser fishing towns of the Thirty Sisters' waters line the same shore.
+The empire's **western and southwestern outer coast in Kedrava is the Saltborn homeland**. **Halmenth**, at the western mouth of the Celion, is its chief port and Saint Naris's drowning-place. Centuries of Ättar sea-raiding, settlement, baptism, and naval service transformed the Atherian-Kedravan coast population into the [[The Saltborn Coast Overview|Saltborn]]. **Soligrad** and the fishing towns associated with the Thirty Sisters line the same maritime rim. Saronika and Caleran contain later Saltborn naval districts but are not the culture's homeland.
 
 ### The Covenant (Ahl-e-Ahd) — north and northwest
 
@@ -52,7 +52,7 @@ The purple sprawl, fragmented within one border. From west to east and north to 
 
 The grey forest world below the settled realms contains four overlapping customary regions rather than one country. The **Green March Kindreds** meet Eclessia and Grenzburg; the **Rootbound Heartwood** occupies the deep south-central forest; the **Gale-Crown Ranges** hold eastern mountain woods and Grobi-facing passes; and the **Tidewood Coast** follows the cold ocean-facing forest. Old-rite Enaidfae confederacies are strongest in the latter three but remain culturally Folk.
 
-The distinct **Ättar ranges** lie to the southwest. Their keels have raided north and east for centuries; their raid-then-settle history on Thalmyria's Thalassian shore helped produce the [[The Saltborn Coast Overview|Saltborn]]. Beyond the Folk country lie the **Grobi Wastes** of the far southeast, whose winter migration corridors aim toward Grenzburg's latitude.
+The distinct **Ättar ranges** lie to the southwest. Their western sea-road reaches Kedrava directly, and centuries of raid-then-settle history produced the [[The Saltborn Coast Overview|Saltborn]]. The four customary ranges are the Lion-Mane Coast, Hornwall Valleys, Bearshield Holds, and Grey-Wolf Range; each contains many rival halls rather than one government. Beyond the Folk country lie the **Grobi Wastes** of the far southeast, whose winter migration corridors aim toward Grenzburg's latitude.
 
 ### The Tarkhan Steppe — the middle north
 
@@ -63,7 +63,7 @@ The unclaimed tan between the Covenant's desert and the settled south — the gr
 - **The Great Glass Desert** — the shimmering north-center of the continent, the Exodus crossing; beyond it, the lost Giant lands of the northern hemisphere.
 - **The Nsizwa Continent** — a separate island-continent in the far southwest ocean: temperate highlands, Mzalu's Hold, the Izivukwa shrines. Reached by a hard month's sail from the Ättar coasts or Qazmarid; the Nsizwa prefer it hard. **[Per placement decision: their own landmass, not the Qazmarid continent.]**
 - **The Emerald Expanse (the New World)** — the northern hemisphere across the Boiling Sea, where the Giant empires died; every Castaran expedition is also an excavation of the Age of Chains, whether it knows it or not.
-- **The Jirahar** hold no continuous territory: five living deep tower-citadels and the ruined Empty City. [[Migdal Qesheth]] stands near Zanthir, [[Migdal Dahava]] in the Velian belt, [[Migdal Yamma]] on the Thalassian near Halmenth, [[Migdal Melach]] on the Iqashar-Tarkhan road, [[Migdal Talga]] in the cold Eclessian marches near Grenzburg, and [[Qiryath Reqa]] in the eastern Eclessian riverlands. Physical routes, local Underways, and fixed Way-Gates connect them. See [[Tower Towns and the Prophet's Roads]].
+- **The Jirahar** hold no continuous territory: five living deep tower-citadels and the ruined Empty City. [[Migdal Qesheth]] stands near Zanthir, [[Migdal Dahava]] in the Velian belt, [[Migdal Yamma]] on the western Kedravan sea-road near Halmenth, [[Migdal Melach]] on the Iqashar-Tarkhan road, [[Migdal Talga]] in the cold Eclessian marches near Grenzburg, and [[Qiryath Reqa]] in the eastern Eclessian riverlands. Physical routes, local Underways, and fixed Way-Gates connect them. See [[Tower Towns and the Prophet's Roads]].
 
 ## Border Logic (why the lines sit where they sit)
 

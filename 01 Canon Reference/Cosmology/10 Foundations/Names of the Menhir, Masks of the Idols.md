@@ -22,7 +22,7 @@ Authorial/spine documents use the **plain names** (Father Sun, Mother Moon, Wrat
 ## The Menhir — Names
 
 - **Father Sun** = **Solzareth** (the deep or court name, used in Faewild-facing texts and *The Second Circle*; the ruthless arithmetic of daylight) = the Atherian Star Pantheon's chief solar cult = the Ättar's pitiless day-law. One being: the Atherians worshipped him as ordering providence; the Folk fear him as exposure and drought; both are accurate readings of the same law.
-- **Mother Moon** = **Lunara / Lunara Noctis** (the Ättar's patroness of the skinwalker pact; Nythalum's "Mother Moon (Lunara)"). The Ättar know her intimately and correctly and pay her price; the Atherians theologized her at civil distance.
+- **Mother Moon** = **Lunara / Lunara Noctis** (the Ättar patron of [[Mother Moon's Bargain]]). The Ättar know the terms of one real covenant but mistake exact enforcement for kinship. The Atherians theologized her at civil distance; neither culture makes her humane.
 - **Astaroth, Orionis, Hecatara, Thanatos, Typhonius, Arachnara, Lyraxis** and the rest of the Second Circle: these ARE the Star Pantheon. **Canonized revelation:** the Atherian imperial religion was Menhir worship dressed in civic astronomy — the High Augur of Astaroth who condemned the Redeemer was, knowingly or not, a Menhir cultist at the head of an empire. The Church knows this and says it loudly; Sestaran scholars know it and say it carefully; the Folk have always known it and find the whole dispute funny.
 
 ## The Idols — Masks

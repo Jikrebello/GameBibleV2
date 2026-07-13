@@ -1,9 +1,9 @@
 ---
 type: source-text
-status: canon
-canon_level: local
+status: archived
+canon_level: obsolete
 reliability: disputed
-visibility: public
+visibility: author-only
 era: []
 region: ["Southern Cold Belt"]
 culture: ["Ättar"]
@@ -11,6 +11,10 @@ related_factions: []
 appears_in: []
 needs: []
 tags: []
+archive_reason: "Superseded by a shorter disputed-source version"
+archived_from: "01 Canon Reference/Peoples and Cultures/Ättar/The Monomyth According to the Ättar.md"
+archived_on: 2026-07-13
+superseded_by: "[[The Monomyth According to the Ättar]]"
 ---
 ### The Ättar's Version of the Monomyth
 
