@@ -53,6 +53,12 @@ South of the villages the **Southwood** thickens toward the true frontier. In it
 
 Two days west of Lakewatch, beyond Moss-Crown lands: **Wolfsmere**, the Lake That Remembers (see [[The Folk of the Frontier and the Wolfsmere Lineage]]). No boats, no bells, no iron. Its proximity is deliberate: Grenzburg's Folk politics sit forty miles from the Drowning, and Thorn-Seer Mael's Lakekeeper-line authority means every deal the Duke cuts with the Folk is being weighed against what sleeps in that water.
 
+## Alderway Vale and the Western Relief Project
+
+North of Wolfsmere and west-northwest of Grenzburg, [[Alderway Vale]] climbs toward old roads leading to Dornwatch and the Brauvalian supply network. Duke Alaric has commissioned a second relief corridor through it so the duchy is not wholly dependent upon the River Grenz road.
+
+The work is unfinished in 1360 AR. [[Fort Alderwatch]] guards the current road camps, while the local [[Alder-Crossing Clan]] holds crossing, fishery, refuge, and sanctuary rights. Three alignments remain possible: a direct trace through [[Still-Hearth Glen]], a more expensive river-bend route, and a difficult northern ridge line. Regional maps must show an unfinished project rather than selecting the outcome of [[The Duke's Road — Full Adventure]].
+
 ## Winter Approaches (the military geography)
 
 The Grobi come north up two corridors as the deep south freezes: the **Tuskway** (east, along the Shattered-Tusk range past Highlake — warband country, Bloody-Sun's road) and the **Fenn Road** (west, up the lake lowlands toward Lakewatch — the herd-and-family route, Herd-Matron Uru's road). That split *is* the campaign's moral geography: the eastern corridor brings the war-chief, the western brings the starving. Passes on both close by midwinter; whoever holds Timberfalls holds the river between them.

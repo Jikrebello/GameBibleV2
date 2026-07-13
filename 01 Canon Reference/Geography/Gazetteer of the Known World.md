@@ -50,6 +50,8 @@ The purple sprawl, fragmented within one border. From west to east and north to 
 
 Eastern Brauvalis contains [[Wanemoor District]], where wooded iron and timber hills descend toward the lower Weiss reed fens. [[Wanenbruck]] is its district seat; Merewick lies farther into the wetlands. The ruined Abbey of the Last Lamp stands on the cemetery ridge east of Wanenbruck.
 
+West-northwest of Grenzburg and north of Wolfsmere, [[Alderway Vale]] forms a possible relief corridor toward Dornwatch and the Brauvalian road network. [[Fort Alderwatch]] stands over the half-built ducal project. Its final alignment and completion remain unsettled; maps should not assume an outcome for [[The Duke's Road — Full Adventure]].
+
 ### The Folk Lands and the Deep South
 
 The grey forest world below the settled realms contains four overlapping customary regions rather than one country. The **Green March Kindreds** meet Eclessia and Grenzburg; the **Rootbound Heartwood** occupies the deep south-central forest; the **Gale-Crown Ranges** hold eastern mountain woods and Grobi-facing passes; and the **Tidewood Coast** follows the cold ocean-facing forest. Old-rite Enaidfae confederacies are strongest in the latter three but remain culturally Folk.

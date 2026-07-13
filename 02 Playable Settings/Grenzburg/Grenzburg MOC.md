@@ -78,6 +78,10 @@ Grenzburg is the first playable testbed for the setting: a frontier duchy trying
 - [[Ghouls]]
 - [[The Folk of the Frontier and the Wolfsmere Lineage]]
 
+## Related Independent Adventures
+
+- [[The Duke's Road — Full Adventure]] - a sixty-day western road expedition in [[Alderway Vale]]; its starting situation is canon, but no route or ending is assumed by the core campaign.
+
 ## Historical and Hidden Pressures
 
 - [[The Grey Sweat]]

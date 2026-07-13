@@ -44,6 +44,7 @@ tags: []
 - [[Collateral Beasts]]
 - [[Form-Ruins]]
 - [[Great-Horns]]
+- [[Blood-Briar Guests]]
 
 ## Grobi
 

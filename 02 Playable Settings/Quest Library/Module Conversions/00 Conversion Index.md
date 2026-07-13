@@ -18,8 +18,8 @@ tags:
 
 This is the authoritative map for the **61 active adventure conversions**.
 
-- **Fully Blocked: 15** - local premise, cast, locations, threats, and branchable ending states have dedicated canon dossiers.
-- **Canon-Locked: 46** - source structure, World Egg placement, culture, premise, and conversion ruling are stable; scene blocking remains.
+- **Fully Blocked: 16** - local premise, cast, locations, threats, and branchable ending states have dedicated canon dossiers.
+- **Canon-Locked: 45** - source structure, World Egg placement, culture, premise, and conversion ruling are stable; scene blocking remains.
 - **Seed: 0** - no active conversion remains an unplaced log line.
 
 A fully blocked adventure makes its starting situation canon. Player outcomes remain open.
@@ -32,10 +32,10 @@ A fully blocked adventure makes its starting situation canon. Player outcomes re
 - [[Into the Old Wood]]
 - [[The Bright-Fire Carnival]]
 - [[The Broken Tower]]
+- [[The Duke's Road]]
 
 ### Canon-Locked
 
-- [[The Duke's Road]]
 - [[The First Writ]]
 - [[The Timberfalls Fever]]
 - [[The Warren Under the Mission]]

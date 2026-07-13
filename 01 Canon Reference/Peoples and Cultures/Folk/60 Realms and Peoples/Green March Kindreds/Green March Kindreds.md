@@ -43,6 +43,10 @@ The region receives refugees and Grobi bands displaced from deeper southern corr
 - Ghost-Foot use of dangerous local courts;
 - ducal attempts to turn temporary roads into permanent jurisdiction.
 
+## Named Kindreds
+
+- [[Alder-Crossing Clan]] - the local river, refuge, and sanctuary kindred of [[Alderway Vale]], where Grenzburg's western relief road remains unfinished.
+
 ## Story Uses
 
 - A written road concession erases three seasonal clan rights.
@@ -55,4 +59,3 @@ The region receives refugees and Grobi bands displaced from deeper southern corr
 - [[The Folk of the Frontier and the Wolfsmere Lineage]]
 - [[Grenzburg Regional Geography]]
 - [[The Folk Overview]]
-
