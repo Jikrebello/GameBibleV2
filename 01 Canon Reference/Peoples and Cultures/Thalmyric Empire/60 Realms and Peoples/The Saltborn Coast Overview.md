@@ -23,7 +23,7 @@ They are Thalmyric in faith and allegiance, Kedravan in political inheritance, �
 
 The homeland follows Kedrava's steep outer coast beneath cold pine highlands and refuge monasteries.
 
-- **Halmenth**, at the western mouth of the **Celion**, is the chief port, the site of the Council of 411 AR, and the drowning-place of Saint Naris.
+- **Halmenth**, at the western mouth of the **Celion**, is the chief port, the site of the Council of 411 AR, and the drowning-place of Saint Naris. [[Celion Light Station]] stands six miles west on Saint Naris's Tooth and marks the outer reef passage.
 - **Soligrad** and its fishing settlements face the tidal waters associated with the **Thirty Sisters**.
 - Inland roads climb toward Kedravan halls, resistance monasteries, pasture valleys, and the imperial heartland.
 - West and south lie the direct sea roads to the Lion-Mane Coast, Qazmarid's strait, and the distant Nsizwa routes.
@@ -58,7 +58,7 @@ Saltborn crews are central to Kedrava's coast defence and serve throughout the i
 - a family accused of renewing the child-price after generations of baptism;
 - a Thirty Sisters bell heard by children who have never been to sea;
 - an Ättar raider claiming kin-right in a Saltborn inheritance;
-- a Naris lighthouse whose spiritual purpose cannot be separated from its practical one.
+- [[The Celion Light — Full Adventure|a Naris lighthouse]] whose spiritual purpose cannot be separated from its practical one.
 
 ## Navigation
 
@@ -67,3 +67,5 @@ Saltborn crews are central to Kedrava's coast defence and serve throughout the i
 - [[Thalmyric Empire Overview]]
 - [[Gazetteer of the Known World]]
 - [[Saints and Relics]]
+- [[Celion Light Station]]
+- [[The Celion Light — Full Adventure]]

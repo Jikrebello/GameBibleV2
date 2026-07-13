@@ -3,8 +3,8 @@ filters:
     - '!file.inFolder("90 Archive & Drafts")'
     - '!file.inFolder("99 Templates")'
     - or:
-        - 'status != "canon"'
-        - 'needs.length > 0'
+        - status != "canon"
+        - needs.length > 0
 properties:
   status:
     displayName: Status
@@ -24,3 +24,6 @@ views:
       - needs
       - canon_level
       - visibility
+    sort:
+      - property: status
+        direction: DESC

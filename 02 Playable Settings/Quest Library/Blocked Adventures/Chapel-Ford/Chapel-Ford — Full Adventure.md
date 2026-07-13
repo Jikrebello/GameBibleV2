@@ -18,7 +18,7 @@ tags: [module-conversion, game-ready]
 
 ## Adventure at a Glance
 
-**Premise:** A converted Folk village has found prosperity and spiritual recognition through an apparition claiming to speak for Saint Elsin. The miracles are a Weeping Courts counterfeit, but the relief, investment, and some late-stage healings are real.
+**Premise:** A converted Folk village has found prosperity and spiritual recognition through an apparition claiming to speak for Saint Elsin. The miracles are a [The Weeping Courts](The%20Weeping%20Courts.md) counterfeit, but the relief, investment, and some late-stage healings are real.
 
 **Beginning:** The party arrives during the anniversary of the apparition's first appearance. [[Edda Bent-Oak]] asks them to find her missing granddaughter Miri without provoking the pilgrims or outside Church authorities.
 

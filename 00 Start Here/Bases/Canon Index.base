@@ -30,7 +30,5 @@ views:
     sort:
       - property: file.name
         direction: ASC
-      - property: type
-        direction: ASC
       - property: appears_in
         direction: DESC
