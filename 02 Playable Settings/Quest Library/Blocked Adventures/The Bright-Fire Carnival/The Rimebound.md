@@ -5,7 +5,7 @@ canon_level: local
 visibility: author-only
 era: ["Present Day"]
 region: ["Sylvan Marches", "Faewild edges", "Faewild's winter half"]
-culture: ["Fäskogarfolk"]
+culture: ["Folk"]
 related_factions: ["The Cloven", "The Left Hand"]
 appears_in: ["The Bright-Fire Carnival"]
 needs:

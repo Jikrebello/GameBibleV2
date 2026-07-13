@@ -47,7 +47,7 @@ Many later cultures define themselves by how they remember the Chains:
 - the [[The Jirahar Overview|Jirahar]] preserve the liberation memory most directly;
 - the [[The Ahl-e-Ahd Overview|Ahl-e-Ahd]] turn bondage and deliverance into legal memory;
 - the [[The Atherian Empire Overview|Atherian Empire]] later converts Giant astronomy and monuments into civic glory;
-- the [[The Fäskogarfolk Overview|Fäskogarfolk]] remember bondage as the reason no foreign king may own clan land;
+- the [[The Folk Overview|Folk]] remember bondage as the reason no foreign king may own clan land;
 - Sestaran harbor peoples inherit the practical lesson that memory, archives, and ledgers are survival weapons.
 
 ## Inherited Wound

@@ -88,7 +88,7 @@ Today, the map is divided:
 - **Eclessia** remains fragmented, with the **Sanctum Divinitatis** acting as a religious anchor while petty kings and lords wage war for dominance. It is a land yearning for unification, its people haunted by memories of imperial glory.
 - **Sestara**, mercantile and independent, is a beacon of free thought, culture, and trade. Its scholars, philosophers, and naval captains shape the modern discourse.
 - **Ahl-e-Ahd** remains a potent force, but signs of **internal fracture**—regional rebellions, ideological schisms, and stretched resources—suggest their strength is no longer absolute.
-- The **Fäskogarfolk** remain wild and mysterious, interwoven in regional conflicts but never truly conquered.
+- The **Folk** remain wild and mysterious, interwoven in regional conflicts but never truly conquered.
 
 ---
 

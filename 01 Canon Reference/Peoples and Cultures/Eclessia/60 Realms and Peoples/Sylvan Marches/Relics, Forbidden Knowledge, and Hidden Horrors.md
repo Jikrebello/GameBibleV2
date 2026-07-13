@@ -5,7 +5,7 @@ canon_level: local
 visibility: secret
 era: ["Present Day"]
 region: ["Sylvan Marches", "Eclessia"]
-culture: ["Eclessian", "Fäskogarfolk", "Enaidfae"]
+culture: ["Eclessian", "Folk", "Enaidfae"]
 related_factions: ["The Left Hand", "Weeping Courts"]
 appears_in: ["Grenzburg"]
 needs:

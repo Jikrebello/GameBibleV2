@@ -12,7 +12,7 @@ culture:
   - Jirahar
   - Ahl-e-Ahd
   - Atherian
-  - Fäskogarfolk
+  - Folk
 related_factions: []
 appears_in: []
 needs: []
@@ -30,7 +30,7 @@ The desert is not just terrain. It is a filter. It burns away the old world, tes
 
 - [[The Jirahar Overview]] remember routes, commandments, camps, and the Prophet's failure or martyrdom.
 - [[The Ahl-e-Ahd Overview]] remember water, oath, hospitality, provision, and covenant.
-- [[The Fäskogarfolk Overview]] and [[Ättar Overview]] remember survival, transformation, coldward wandering, and wilderness guidance.
+- [[The Folk Overview]] remembers coldward wandering, shared hearths, and dangerous threshold bargains; [[Ättar Overview]] preserves its own moon, beast, and transformation traditions.
 - [[The Atherian Empire Overview]] later turns the crossing into heroic civic myth more than binding law.
 
 ## Story Use

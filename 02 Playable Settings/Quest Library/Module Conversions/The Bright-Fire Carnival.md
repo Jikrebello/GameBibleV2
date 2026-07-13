@@ -6,7 +6,7 @@ visibility: author-only
 source: "PZO9506 E1 Carnival of Tears"
 era: ["Present Day"]
 region: ["Sylvan Marches", "Grenzburg frontier", "Ferren Hollow"]
-culture: ["Fäskogarfolk", "Eclessian"]
+culture: ["Folk", "Eclessian"]
 related_factions: ["The Cloven", "Frontier Industry Lords", "The Left Hand"]
 appears_in: ["The Bright-Fire Carnival"]
 needs:

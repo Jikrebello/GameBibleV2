@@ -26,7 +26,7 @@ See [[Gazetteer of the Known World]] for cities, seas, rivers, distances, and tr
 - **Sestaran Concord:** city-state marketplace of finance, archives, art, philosophy, secrets, and mercenary leverage.
 - **Ahl-e-Ahd:** contract-state power bloc using legal metaphysics, bound devils, and border emirates.
 - **Jirahar:** five living deep tower-citadels, the Empty City, host quarters, land caravans, Sea Fleets, Turning Companies, local Underways, and fixed Prophet's Road anchors. They possess routes rather than a continuous state.
-- **Fäskogarfolk and frontier peoples:** old cultural roots, contested forests, clan law, migration routes, and border pressure.
+- **Folk and frontier peoples:** old cultural roots, contested forests, clan law, migration routes, and border pressure.
 
 ## Southern Hemisphere Climate Rule
 
@@ -36,7 +36,7 @@ This rule matters for every map and timeline:
 
 - do not default to northern-hemisphere climate assumptions;
 - southern campaigns must account for winter roads, frozen rivers, stores, and short campaigning seasons;
-- the [[The Fäskogarfolk Overview|Fäskogarfolk]] and [[Ättar Overview|Ättar]] are southern cold-frontier peoples, shaped by forests, frost, permafrost, clan law, Menhir pacts, and Grobi pressure;
+- the [[The Folk Overview|Folk]] and [[Ättar Overview|Ättar]] are southern cold-frontier peoples, shaped by forests, frost, permafrost, clan law, Menhir pacts, and Grobi pressure;
 - the [[Grobi Overview|Grobi]] frontier belongs strongly to the deep south: winter migration, forest war, frozen passes, hunger, raids, and survival corridors;
 - Grenzburg and other frontier regions should make cold, debt, land claims, Grobi movement, and metaphysical ruins collide physically on the map.
 

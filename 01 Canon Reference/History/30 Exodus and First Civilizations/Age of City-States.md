@@ -45,7 +45,7 @@ People no longer organize only around hearth, clan, and wandering memory. They b
 - **Jirahar tower towns:** preserve law and prophecy while functioning as caravan courts, memory fortresses, and negotiable sanctuaries.
 - **Arqeshite river cities:** join levees, royal estates, deportation armies, and water control into an early mortal empire. Its destruction of First Qiryath proves that humans can reproduce Giant methods without Giant blood.
 - **Ahl-e-Ahd oasis polities:** turn wells, guest-law, caravan security, and oath enforcement into durable desert authority.
-- **Southern frontier forts:** Fäskogarfolk clans, border traders, and early Eclessian/Atherian outposts begin the long pattern of forest war and winter defense.
+- **Southern frontier forts:** Folk clans, border traders, and early Eclessian/Atherian outposts begin the long pattern of forest war and winter defense.
 
 ## Magic and Engineering
 

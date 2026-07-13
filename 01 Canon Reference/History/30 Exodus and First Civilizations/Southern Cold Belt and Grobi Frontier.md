@@ -9,11 +9,11 @@ region:
   - southern cold belt
   - Grobi frontier
 culture:
-  - Fäskogarfolk
+  - Folk
   - Ättar
 related_factions:
   - Grobi
-  - Fäskogarfolk
+  - Folk
   - Ättar
 appears_in:
   - Grenzburg
@@ -36,7 +36,7 @@ When designing maps, campaigns, migrations, wars, and calendars:
 
 ## Peoples of the Cold Belt
 
-The Fäskogarfolk and Ättar are southern cold-frontier peoples. Their cultures are shaped by:
+The Folk and Ättar are distinct southern cold-frontier peoples. Their cultures are shaped by:
 
 - forest survival,
 - clan halls,
@@ -48,6 +48,8 @@ The Fäskogarfolk and Ättar are southern cold-frontier peoples. Their cultures 
 - cold-road hospitality,
 - raids and counter-raids,
 - distrust of southern expansion by church, bank, and crown.
+
+Among the Folk, this pressure produces longhouses, ringworks, hidden granaries, beacon chains, refuge roads, and the [[Frost-Road and the Winter War|Frost-Road]]. Ättar answers remain governed by their own culture notes.
 
 ## Grobi Pressure
 
@@ -61,6 +63,8 @@ Key pressures:
 - summer growth and warband expansion;
 - cold-adapted camps, caves, and forest holds;
 - border cultures built around watches, beacon fires, stockades, and evacuation roads.
+
+For the Folk, frontier clans bear the direct obligation while people from safer regions travel to the fighting as a path to honor, followers, marriage standing, and eligibility for office. Winter service includes stores, transport, refuge, healing, and scouting as well as battle.
 
 ## Game and Story Use
 
@@ -77,6 +81,8 @@ The cold belt should generate concrete problems:
 
 - [[Timeline MOC]]
 - [[Geography Atlas]]
-- [[Early Fäskogarfolk Clan Worlds]]
+- [[Early Folk Clan Worlds]]
+- [[Frost-Road and the Winter War]]
+- [[Folk Architecture and Settlement]]
 - [[Grobi Overview|Grobi]]
 - [[Grenzburg as Vertical Slice]]

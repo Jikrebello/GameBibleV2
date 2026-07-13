@@ -60,7 +60,7 @@ The civilized world dates from the execution and resurrection of Isfir the Redee
 
 ## Decadence and the First Unsealing
 
-- **c. 400–540 AR — Age of Decadence.** Weak emperors; Ättar and Enaidfae raids; Sestaran drift toward independence.
+- **c. 400-540 AR - Age of Decadence.** Weak emperors; Ättar sea-raids and Folk frontier incursions; Sestaran drift toward independence.
 - **411 AR — The Council of Halmenth.** "Fire-Bearer" affirmed; Bishop Nasriel of Qabir's "Man-Bearer" party condemned — his communion flees north and survives as the [[The Velian Church|Velian Church]].
 - **541 AR — The Revelation of Mujalib.** Tribal unification 545–567; Al-Qahur founded; the 4,444 devils dig the oasis.
 - **572–601 AR — The Four Rightly-Sealed Caliphs.** The disputed fourth seal.

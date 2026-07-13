@@ -123,7 +123,7 @@ tags:
 
 - **Ahl-e-Ahd**: Still powerful, but cracks are forming from within.
 
-- **Fäskogarfolk** remain wild and mostly unconquered, yet deeply entangled.
+- **Folk** remain wild and mostly unconquered, yet deeply entangled.
 
 - **(Present Day)** 
 

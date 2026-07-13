@@ -76,7 +76,7 @@ As the people crossed into the southern lands, they settled into distinct region
 
 - **The Atherians**, though once followers of the Great Prophet, fell back into old ways, worshiping the **Idols** and **Menhir** as gods. Their descendants formed mighty city-states, driven by power and ambition, with little memory of the Lord's commandments.
 
-- **The Fäskogarfolk** split into two distinct groups: the **Ättar**, who became a proud and warlike people bound to nature, and the **Enaidfae**, who blended spiritualism with a reverence for natural forces. Both groups retained elements of the **Menhir** in their beliefs, focusing on nature’s raw power rather than the Lord.
+- **The southern clan peoples** formed many forest, mountain, and coastal societies. The **Folk** retained hearth-law and local court traditions; their deepest old-rite confederacies later became known as **Enaidfae**. Related southern ancestors also produced the distinct **Ättar** culture. The synthesis compresses centuries of migration, alliance, and intermarriage into one family story.
 
 - **The Jirahar**, unlike the others, remained faithful to the Great Prophet’s original teachings. They rejected the idea of a permanent home, believing they were still in search of the true promised land. They became a nomadic people, forming **caravans** and **tower towns**, always on the move, following the paths of their ancestors in an unending quest for the divine promise.
 

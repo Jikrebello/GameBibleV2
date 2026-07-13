@@ -11,7 +11,7 @@ culture:
   - Jirahar
   - Atherian
   - Ahl-e-Ahd
-  - Fäskogarfolk
+  - Folk
 related_factions: []
 appears_in: []
 needs: []
@@ -31,7 +31,7 @@ The Exodus crosses the [[Great Glass Desert]], a place of heat, reflection, tria
 
 - the Jirahar remember commandments, names, routes, and failed obedience;
 - the Ahl-e-Ahd remember water, oath, provision, and covenant;
-- the Fäskogarfolk remember survival, transformation, hunger, and moonlit guidance;
+- the Folk remember coldward survival, the first common hearths, dangerous roadside powers, and the duty not to trade freedom for easy protection;
 - Atherian descendants remember liberation but often sand away the Prophet's harder demands;
 - Sestaran memory treats the crossing as the first great archive problem: which testimony survived, and who profited by preserving it?
 

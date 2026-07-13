@@ -46,11 +46,13 @@ Green on the map, but never enclosed by one border. **Fiorenzia** holds the fert
 
 ### The Eclessian Imperium — east
 
-The purple sprawl, fragmented within one border. From west to east and north to south: **Caldria** guarding the northwestern approach (where the Third Crusade held); **Brauvalis** on the Weiss; **Heldenheim** (Korrheim's council seat) in the central cantons; **Ironvale** in the northern mountains (Freeflame stronghold); **Veridancia** in the Latinate south-center (Council of Veridance); **Aurelium, the holy city of the Kingdom of Aurelia in the deep south, seat of the Sanctum Divinitatis, the Crown of Embers, and the Unburnt Psalter; **Virelia** city and **Strazgorod** on the eastern Orzva plains (the Choosing, 1061); the **Sylvan Marches** along the southeastern forests; and **Grenzburg** on the far southern frontier where the purple meets the Fäskogar grey — with **Wolfsmere** just west of it. Reformation geography: the Markish center-north leans Freeflame; the Latinate south holds for the Sanctum; Virelia's east is western-ruled and eastern-hearted.
+The purple sprawl, fragmented within one border. From west to east and north to south: **Caldria** guarding the northwestern approach (where the Third Crusade held); **Brauvalis** on the Weiss; **Heldenheim** (Korrheim's council seat) in the central cantons; **Ironvale** in the northern mountains (Freeflame stronghold); **Veridancia** in the Latinate south-center (Council of Veridance); **Aurelium, the holy city of the Kingdom of Aurelia in the deep south, seat of the Sanctum Divinitatis, the Crown of Embers, and the Unburnt Psalter; **Virelia** city and **Strazgorod** on the eastern Orzva plains (the Choosing, 1061); the **Sylvan Marches** along the southeastern forests; and **Grenzburg** on the far southern frontier where the purple meets the Folk customary territories, with **Wolfsmere** just west of it. Reformation geography: the Markish center-north leans Freeflame; the Latinate south holds for the Sanctum; Virelia's east is western-ruled and eastern-hearted.
 
-### The Fäskogar Country and the Deep South
+### The Folk Lands and the Deep South
 
-The grey forest world below the settled realms: **Ättar coasts** to the southwest (fjord clans whose keels have raided north and east for centuries — it was their raid-then-settle on Thalmyria's Thalassian shore, not here, that bred the [[The Saltborn Coast Overview|Saltborn]]), **Enaidfae forests** in the deep south-center, the Folk clan-lands along the whole Eclessian frontier, and beyond everything the **Grobi Wastes** of the far southeast — migration corridors aimed straight at Grenzburg's latitude every hard winter.
+The grey forest world below the settled realms contains four overlapping customary regions rather than one country. The **Green March Kindreds** meet Eclessia and Grenzburg; the **Rootbound Heartwood** occupies the deep south-central forest; the **Gale-Crown Ranges** hold eastern mountain woods and Grobi-facing passes; and the **Tidewood Coast** follows the cold ocean-facing forest. Old-rite Enaidfae confederacies are strongest in the latter three but remain culturally Folk.
+
+The distinct **Ättar ranges** lie to the southwest. Their keels have raided north and east for centuries; their raid-then-settle history on Thalmyria's Thalassian shore helped produce the [[The Saltborn Coast Overview|Saltborn]]. Beyond the Folk country lie the **Grobi Wastes** of the far southeast, whose winter migration corridors aim toward Grenzburg's latitude.
 
 ### The Tarkhan Steppe — the middle north
 
@@ -65,7 +67,7 @@ The unclaimed tan between the Covenant's desert and the settled south — the gr
 
 ## Border Logic (why the lines sit where they sit)
 
-Thalmyrica/Covenant: the desert edge and the western strait — a frontier of forts and truce-fairs. Thalmyrica/Eclessia: the mountain watershed south of the Thalassian — schism border, rite-swapping valleys. Eclessia/Fäskogar: no line at all — a gradient of parishes thinning into clan-land, which is the whole Grenzburg problem. Covenant/Tarkhan: wells. Everyone/Sestara: money.
+Thalmyrica/Covenant: the desert edge and the western strait, a frontier of forts and truce-fairs. Thalmyrica/Eclessia: the mountain watershed south of the Thalassian, a schism border of rite-changing valleys. Eclessia/Folk: no fixed line, but a gradient of parishes thinning into Green March clan-law. Covenant/Tarkhan: wells. Everyone/Sestara: money.
 
 ## Map Work Remaining
 

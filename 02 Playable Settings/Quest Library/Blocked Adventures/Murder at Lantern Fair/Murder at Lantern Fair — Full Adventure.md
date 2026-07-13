@@ -6,7 +6,7 @@ visibility: author-only
 source: "Translated from Pathfinder Module: Murder's Mark"
 era: ["Present Day"]
 region: ["Thalmyria", "Saltborn Coast", "Halmenth"]
-culture: ["Saltborn", "Thalmyric", "Sestaran", "Fäskogarfolk"]
+culture: ["Saltborn", "Thalmyric", "Sestaran", "Folk"]
 related_factions: ["The Turning Lantern Company", "The Chainhouse", "Thalmyric Church"]
 appears_in: ["Murder at Lantern Fair"]
 needs:

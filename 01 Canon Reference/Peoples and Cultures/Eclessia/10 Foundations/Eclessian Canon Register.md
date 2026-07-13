@@ -32,7 +32,7 @@ The Fall of Caleran (905) creates the eastern emergency; the Third Crusade (906-
 | Ironvale | Markish guild and foundry belt | Grand Minister Aldric Weyn and Council of Iron | Freeflame | Wage labor and guild power surge | Reformation becomes the constitution after the ducal line falls | Labor, black powder, and hidden Bank leverage |
 | Korrheim | Markish mountain cantons | Council of Heldenheim | Canton by canton | Communal reconstruction strengthens civic oaths | Accord's host and namesake | Joint rule survives through procedure, not trust |
 | Brauvalis | Markish monastic-guild country | Duke Reinhardt | Old Church with protected Freeflame districts | Hospitals, wage bargaining, and abbey debt reshape the duchy | Fragile old-Church compromise | Succession and guild privilege may reopen the settlement |
-| Sylvan Marches | Enaidfae and Folk substrate under marcher rule | High Warden Elias Dreymann | Nominally old Church | Abandoned parishes receive migrants and exiles | Patchwork practice beyond reliable enforcement | Folk land, Grobi pressure, relic ruins, and weak lordship |
+| Sylvan Marches | Folk substrate; old-rite Enaidfae and Chapel-Folk under marcher rule | High Warden Elias Dreymann | Nominally old Church | Abandoned parishes receive migrants and exiles | Patchwork practice beyond reliable enforcement | Folk land, Grobi pressure, relic ruins, and weak lordship |
 
 ## Moral and Institutional Rule
 

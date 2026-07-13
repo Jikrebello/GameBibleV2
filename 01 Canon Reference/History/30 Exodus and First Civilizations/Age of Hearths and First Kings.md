@@ -11,7 +11,7 @@ culture:
   - Atherian
   - Jirahar
   - Ahl-e-Ahd
-  - Fäskogarfolk
+  - Folk
   - Sestaran
 related_factions: []
 appears_in: []
@@ -53,7 +53,7 @@ This age produces the first recognizable ancestors of later institutions:
 - Atherian civic law begins as hill-fort judgement and river toll procedure.
 - Jirahar tower towns begin as fortified memory shelters and caravan courts.
 - Ahl-e-Ahd contract thought begins as water, guest, blood-price, and oath enforcement.
-- Fäskogarfolk clan worlds bind land, ancestry, Menhir pressure, and winter obligation.
+- Folk clan worlds bind land, ancestry, Menhir pressure, and winter obligation.
 - Sestaran harbor towns begin keeping public ledgers, route archives, and art-patronage registers.
 
 ## Inherited Wound
@@ -66,4 +66,4 @@ The first kings protect people from chaos, but they also reintroduce hierarchy a
 - [[Age of Scattering]]
 - [[Age of City-States]]
 - [[Proto-Ahl-e-Ahd Desert Tribes]]
-- [[Early Fäskogarfolk Clan Worlds]]
+- [[Early Folk Clan Worlds]]

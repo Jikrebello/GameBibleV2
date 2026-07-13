@@ -5,7 +5,7 @@ canon_level: local
 visibility: author-only
 era: ["Present Day"]
 region: ["Thalmyria", "Saltborn Coast", "Sestaran Concord"]
-culture: ["Thalmyric", "Saltborn", "Sestaran", "Fäskogarfolk"]
+culture: ["Thalmyric", "Saltborn", "Sestaran", "Folk"]
 related_factions: []
 appears_in: ["Murder at Lantern Fair"]
 needs:

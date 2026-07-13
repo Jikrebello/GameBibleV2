@@ -5,7 +5,7 @@ canon_level: local
 visibility: author-only
 era: ["Present Day"]
 region: ["Grenzburg approaches", "Velian border", "The Kestrel Tower"]
-culture: ["Fäskogarfolk", "Eclessian"]
+culture: ["Folk", "Eclessian"]
 related_factions: ["The Medori Bank", "The Folk Clans"]
 appears_in: ["The Broken Tower"]
 needs:

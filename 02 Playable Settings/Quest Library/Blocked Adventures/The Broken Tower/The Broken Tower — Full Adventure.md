@@ -6,7 +6,7 @@ visibility: author-only
 source: "Translated from PZO9500-4 Master of the Fallen Fortress"
 era: ["Present Day"]
 region: ["Grenzburg approaches", "Velian border", "The Kestrel Tower"]
-culture: ["Fäskogarfolk", "Eclessian"]
+culture: ["Folk", "Eclessian"]
 related_factions: ["The Medori Bank", "The Folk Clans"]
 appears_in: ["The Broken Tower"]
 needs:

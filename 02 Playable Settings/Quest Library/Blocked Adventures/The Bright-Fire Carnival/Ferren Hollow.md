@@ -5,7 +5,7 @@ canon_level: local
 visibility: author-only
 era: ["Present Day"]
 region: ["Sylvan Marches", "Grenzburg frontier", "Ferren Hollow"]
-culture: ["Fäskogarfolk", "Eclessian"]
+culture: ["Folk", "Eclessian"]
 related_factions: ["Frontier Industry Lords", "The Cloven"]
 appears_in: ["The Bright-Fire Carnival"]
 needs:
@@ -39,7 +39,7 @@ A party that visits the Stump-Ring learns more than any amount of fair-gossip: t
 
 - **The Timber-Cartel:** Strun's shadow-government, split between Old Tomas's Season-Cutters (who left the offering groves), "Clear-Cut" Karl's Firebrands (who burned this one), and Strun himself (who set the quota and denies it).
 - **Mayor Adelheid Ports:** town warden, keeper of the quiet, burier of the grove-debt rumor.
-- **The Folk across the border:** Fäskogarfolk who know exactly what an unpaid offering grove means and are watching to see whether the town pays or the fair burns.
+- **The Folk across the border:** Folk who know exactly what an unpaid offering grove means and are watching to see whether the town pays or the fair burns.
 - **The carnival:** [[The Cloven]] under Sisrin, and the cold thing riding them.
 
 ## The Festival Clock

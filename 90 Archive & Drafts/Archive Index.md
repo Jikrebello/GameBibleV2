@@ -19,6 +19,8 @@ The complete old-to-new path record is [[Physical Reorganization Manifest]].
 
 The Thalmyric reconstruction preserved its source cluster under `30 Cultures/Thalmyria/2026-07 Pre-Reconstruction`. Its [[Thalmyric Rename Manifest]] and [[Thalmyric Cross-Vault Audit]] record the naming migration and every active mention reviewed during the pass.
 
+The Folk reconstruction preserved its source cluster under `30 Cultures/Folk/2026-07 Pre-Reconstruction`. See [[Folk - 2026-07 Pre-Reconstruction Archive Index]], [[Folk Reconstruction Migration Manifest]], and [[Folk Reconstruction Audit]].
+
 ## Subject Archives
 
 - **10 Cosmology:** superseded cosmological phases and entity versions.

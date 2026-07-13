@@ -98,10 +98,12 @@ Canon ruling: the pale deep-dwellers of the Grenzburg arc and their Hollow-King 
 
 **Loot and materials:** hides and sinew (hard-wearing, low-status), hobgoblin voodoo fetishes (hedge-occult market, Church contraband), orc-teeth (Folk trophy-currency), and stage-gland extracts — the alchemical scandal: preparations from Grobi metamorphic organs interest the Fleshweavers of Vorthara for exactly the reasons the Church bans them.
 
-**Faction use:** the Duke needs migration forecasts; the Bank insures against raid seasons (and profits either way); the Folk trade Grobi intelligence for recognition; Vorthara buys specimens; the Church debates whether Grobi have routable souls — the standing theological horror question of the frontier, deliberately unresolved.
+**Faction use:** the Duke needs migration forecasts; the Bank insures against raid seasons and profits either way; the Folk trade Grobi intelligence for recognition and organize the [[Frost-Road and the Winter War|Frost-Road]]; Vorthara buys specimens; the Church debates whether Grobi have routable souls, the standing theological horror question of the frontier.
 
 **Hooks:** a winter matron offers a corridor-truce the Duke cannot afford and cannot refuse; a starving splinter band converts at a Chapel-Folk mission and no one — Church, Folk, or Grobi — knows what that means; a Fleshweaver caravan is buying live goblins and the price is going *up*; the drums stop entirely, which has never once been good news.
 
 ## Navigation
 
 - [[Bestiary MOC]]
+- [[Frost-Road and the Winter War]]
+- [[Southern Cold Belt and Grobi Frontier]]

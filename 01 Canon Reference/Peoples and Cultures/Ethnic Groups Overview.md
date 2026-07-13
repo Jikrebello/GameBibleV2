@@ -1,159 +1,50 @@
 ---
 type: reference
 status: canon
-canon_level: local
+canon_level: core
 visibility: author-only
-era: []
-region: []
+era: ["Present Day"]
+region: ["Known World"]
 culture: []
 related_factions: []
 appears_in: []
 needs: []
 tags: []
 ---
-# Ethnic Groups Overview
+# Peoples and Ancestry Register
 
-## Canon Overlay
+This note controls broad ancestry relationships without assigning cultures one fixed appearance. Centuries of migration, conquest, conversion, fosterage, slavery, marriage, and trade make physical traits overlap throughout the known world.
 
-This older note is retained as a physical-trait reference, but the current culture-first model is governed by [[Cultures MOC]], [[The Making of the Eclessians]], [[Ancient and Early Historic Ages]], and [[Gazetteer of the Known World]].
+## Folk and Ättar
 
-Locked additions:
+The archaic Fäskogarfolk population contributed to both the living Folk and the distinct Ättar culture. The Folk include many regional populations rather than one ancestry. Enaidfae is an old-rite Folk identity, not a biological subdivision. Chapel-Folk remain ethnically and culturally Folk after conversion.
 
-- **Vesari:** a separate Scattering people of the far eastern river-plains; their converted princedoms become Virelia's substrate.
-- **Saltborn:** the coast people of Thalmyria's contested eastern (Thalassian) shore — an **Atherian/Ättar creole** laid down over the old empire's maritime war-front, now grown into **Thalmyric/Ättar coastfolk**. Centuries of Ättar raid-then-settle from the south and Ahl-e-Ahd invasion from Qazmarid made them; the Thalmyric Church and the Aetherion throne claimed them. See [[The Saltborn Coast Overview]]. *(Formerly written as an Eclessian coastal people; relocated to Thalmyria, since the Ättar and Eclessia never meaningfully met.)*
-- **Southern hemisphere rule:** Ättar and Fäskogarfolk coldness is southern, not northern. Older "northern" labels should be read as analog shorthand, not map direction.
+The southern-hemisphere rule governs their distribution: deeper southern populations inhabit colder country. Hair, skin, eye color, stature, and build vary by family and region and do not determine clan, court, or confession.
 
-### **Older Ethnic Groups**
+## Eclessians
 
-#### **Ahl-e-Ahd**
-- **General Heights**: Medium height overall, ranging from **5'6" to 6'0"** for men and **5'2" to 5'8"** for women. Heights tend to vary by region, with coastal peoples tending to be taller.
-- **Musculature**: Generally lean to medium muscular builds. Men often have wiry strength, with **strong forearms** and legs built from a mix of desert survival, horsemanship, and warfare. Women tend to be **slender yet strong**, particularly in the legs and hips, from daily activities and travel.
-  
-- **Masculine Traits**:
-  - **Facial hair** is highly valued, with thick beards and mustaches being common. Jawlines tend to be **sharp**, and brows often more **prominent**.
-  - **Torso**: Men often have lean or defined torsos, with strong upper bodies and compact frames.
-  - **Arms and Shoulders**: Shoulders are **broad** but not overly bulky, with **well-defined arms** due to labor and horsemanship.
-  
-- **Feminine Traits**:
-  - Women often have **graceful and angular features**, with **high cheekbones** and **almond-shaped eyes** being particularly common.
-  - **Hips and legs** tend to be strong, owing to the lifestyle of travel and sometimes pastoral work. Women generally have **slim waists** with **well-defined legs**.
-  - **Hair**: Long, thick, and lustrous hair, often in rich shades of black or dark brown, is common among women, sometimes worn braided or covered in traditional garments.
+Eclessian populations formed through Atherian provincial settlers, converted and Atherianized Folk, Markish and Latinate regional societies, Vesari in Virelia, later migrations, and local frontier peoples. Southern Eclessian realms retain stronger Folk ancestry and cultural substrate without becoming less Eclessian.
 
----
+## Thalmyrics and Saltborn
 
-#### **Atherians**
-- **General Heights**: Men range from **5'7" to 6'2"**, with women typically between **5'3" to 5'8"**. The Atherians have a broad range of heights, with taller individuals seen more frequently in northern regions.
-- **Musculature**: **Medium to stocky** builds. Atherians are traditionally hardy, with men and women having **sturdy frames**. Men often show **solid musculature** from both urban work and military traditions, while women have **curvaceous but firm builds**.
+Thalmyrics descend from Atherian heartlanders, refuge populations, provincial peoples, occupation-era communities, and Reconquest settlers. The Saltborn are a coastal Thalmyric/Ättar people produced by centuries of raid, settlement, war, and intermarriage.
 
-- **Masculine Traits**:
-  - **Facial features**: Men often have **aquiline noses**, **prominent jaws**, and **full lips**. **Facial hair** is varied but usually neatly groomed.
-  - **Chest and torso**: Broad-chested, with **muscular, well-defined upper bodies** due to a history of construction, craftsmanship, and military service.
-  - **Arms and shoulders**: Shoulders are **broad**, with **powerful arms** from both manual labor and sports.
-  
-- **Feminine Traits**:
-  - **Curves**: Women tend to have **hourglass figures**, with **strong hips** and **full chests** being common.
-  - **Facial features**: **Rounded cheeks**, **soft, almond-shaped eyes**, and **full lips**. Hair tends to be **dark**, wavy, and often thick.
-  - **Legs and hips**: Firmly built, with **strong, shapely legs** from centuries of walking over uneven terrain in cities and countryside alike.
+## Covenant Peoples
 
----
+Ahl-e-Ahd is an imperial-confessional identity shared by Ahdari, Iqashari, Qahuri, Qazmari, Zanthiri, converts, and mixed communities. It is not one ancestry.
 
-#### **Fäskogarfolk**
+## Other Peoples
 
-1. **Ättar (Southern Cold-Coast Scandinavian Types)**
-   - **General Heights**: Men range from **5'10" to 6'4"**, and women from **5'6" to 5'11"**, with some particularly tall individuals among the northernmost populations.
-   - **Musculature**: Broad and powerful, with **heavy musculature** being a common trait. Men are often **large-framed**, with **muscular arms, torsos, and legs**, built from a life of labor, farming, and combat. Women also tend to be **strong and athletic**, with broad shoulders and **defined musculature**, especially in the legs and arms.
-   
-   - **Masculine Traits**:
-     - **Height** and **broad shoulders** are defining features. Men often have **rugged, angular features** with **strong jawlines** and **wide foreheads**.
-     - **Hair** is typically **light blond to light brown**, often straight or slightly wavy. Beards are thick and often grown long, with strong, masculine faces.
-     - **Legs and arms**: Both are **well-defined** and muscular, with **strong calves** and **forearms** from daily work and sailing.
-   
-   - **Feminine Traits**:
-     - **Tall and athletic**, with **broad shoulders** and **strong arms**. Women have muscular legs, particularly the **thighs and calves**, from traveling across rugged northern terrain.
-     - **Hair**: Typically **blond or light brown**, long, and often worn in braids or waves.
-     - **Facial features**: Women have **angular faces**, with **high cheekbones**, **blue or gray eyes**, and **fine brows**.
-     - **Hips and waist**: Women from Ättar have **slim waists** but are often curvier than expected, with firm but prominent hips.
+Jirahar identity follows communal descent and conversion law rather than appearance. Tarkhan, Nsizwa, Sestaran city populations, Velians, and the populations of former Atheria contain substantial internal diversity governed by their own culture dossiers.
 
-2. **Enaidfae (Celtic/Pictish Peoples)**
-   - **General Heights**: Men are between **5'8" and 6'0"**, while women range from **5'4" to 5'9"**.
-   - **Musculature**: **Lean and wiry**, with men and women having **slim but powerful builds**. The Enaidfae people are **agile**, with muscle concentrated in the **legs and shoulders**.
-   
-   - **Masculine Traits**:
-     - **Facial features**: **Sharp, angular** features, often with **strong brows** and **narrow eyes**. Men tend to have **sharp cheekbones** and **defined jaws**, with prominent **reddish-brown or auburn hair**.
-     - **Body**: **Lean and athletic**, with **strong legs** and **muscular arms**, suited for warfare and hunting.
-     - **Hair**: Often worn long or in **wild curls**, with a reddish tinge being quite common.
-     - **Torso**: **Slim, sinewy frames**, with defined muscles across the chest and stomach.
-   
-   - **Feminine Traits**:
-     - **Hair**: Reddish to brown, sometimes auburn, with **wild curls** or **waves**. Women often wear their hair long and loose.
-     - **Facial features**: **High cheekbones**, **freckles**, and **bright eyes** (usually blue or green) give the women a wild, untamed beauty.
-     - **Body**: Women tend to have **narrow waists** but **strong hips**, with **athletic legs** from constant movement.
-     - **Legs and arms**: Strongly built, with defined calves and forearms from daily activity.
+## Use Rule
 
----
-
-### **Modern Ethnic Groups**
-
-#### **Eclessian**
-- **Ethnic Background**: A mixture of **Atherians** and **Enaidfae** peoples, leading to an interesting hybrid of **Mediterranean** and **Celtic** traits.
-- **General Heights**: Men generally range from **5'7" to 6'1"**, while women range from **5'3" to 5'8"**.
-- **Musculature**: **Medium builds** are common. Men tend to have a more **defined musculature**, especially in the arms and chest, due to both labor and military traditions. Women typically have **toned legs and arms**, though the upper body remains more slender.
-  
-- **Masculine Traits**:
-  - **Facial features**: A blend of **Enaidfae angularity** and **Atherian softness**. Men often have **strong jaws**, **wide foreheads**, and **sharp cheekbones**, with some retaining the **softer, rounder** features of their Atherian ancestors.
-  - **Hair**: Dark brown to chestnut, sometimes reddish or auburn. Hair is often thick, with slight waves being common.
-  - **Body**: Men tend to be **lean yet defined**, with **muscular shoulders** and **powerful legs**. Soldiers often develop broader chests and stronger arms.
-  
-- **Feminine Traits**:
-  - **Facial features**: Women exhibit a combination of **delicate Atherian features** (such as softer cheeks and rounded jaws) with **Enaidfae sharpness** (especially around the eyes and cheekbones).
-  - **Hair**: Ranges from **dark brown to chestnut**, often worn long and wavy. Auburn hair also occasionally appears.
-  - **Body**: Women often have **slender yet firm frames**, with **curves** in the hips and **slim waists**.
-
- **Legs** tend to be well-toned, especially in rural areas.
-
----
-
-#### **Thalmyric Empire**
-- **Ethnic Background**: Predominantly **Atherian**, with **subtle Ahl-e-Ahd influences**, especially in coastal regions and the contested **Velian States**.
-- **General Heights**: Men typically range from **5'8" to 6'2"**, with women from **5'4" to 5'9"**.
-- **Musculature**: Men tend to have **sturdier, athletic builds**, with more emphasis on **upper body strength** due to their historical military traditions. Women have **firmer yet curvier figures**, with a focus on agility and strength in the legs.
-  
-- **Masculine Traits**:
-  - **Facial features**: **Mediterranean softness**, with **sharp Atherian noses**, **prominent cheekbones**, and **full lips**. In coastal areas, **Ahl-e-Ahd influences** are seen in the **narrower eyes** and **sharper noses**.
-  - **Body**: **Athletic builds** with **broad shoulders** and **muscular torsos**. **Farmers and soldiers** often show strength in the **arms and chests**.
-  - **Hair**: Dark brown to black, often wavy and kept short or shoulder-length.
-  
-- **Feminine Traits**:
-  - **Facial features**: A blend of **Atherian** and **Ahl-e-Ahd**—softer, rounder faces inland, and more **angular features** in coastal populations. Women may have **sharper cheekbones** and **larger eyes**.
-  - **Hair**: Dark brown to black, typically long and wavy.
-  - **Body**: **Curvy yet firm**, with strong **hips** and **waists**. **Legs** tend to be strong and well-defined, particularly in rural and coastal regions.
-
----
-
-#### **Concord of Sestara**
-- **Ethnic Background**: A diverse blend of **Thalmyric**, **Eclessian**, **Ahl-e-Ahd**, and **Ättar** influences. Ethnic traits vary significantly across city-states, with each region reflecting different degrees of intermixing.
-- **General Heights**: Highly variable. Men range from **5'8" to 6'2"**, and women from **5'3" to 5'10"**. **Ättar-influenced** regions often have taller individuals.
-- **Musculature**: Builds range from **lean and wiry** in city-states like **Fiorenzia**, to **sturdy and athletic** in places like **Aversia**. Mercenaries often have **muscular builds**, while more affluent populations tend toward **leaner frames**.
-  
-- **Masculine Traits**:
-  - **Facial features**: Depending on the city-state, some men exhibit **Eclessian** softness, while others have **Thalmyric** angularity or **Ättar** ruggedness. **Broad, strong jawlines**, **sharp cheekbones**, and **full lips** are common.
-  - **Hair**: Varies from **dark brown to black** with **wavy or straight textures**. In northern regions, **blond** or **light brown hair** appears frequently.
-  - **Body**: Leaner in the arts-focused city-states like Fiorenzia, and **muscular** in military hubs like Aversia. **Broad shoulders** and **well-defined legs** are often seen, especially among the **mercenaries**.
-  
-- **Feminine Traits**:
-  - **Facial features**: A mix of **Mediterranean and Nordic** influences. **Soft, rounder faces** or **sharper features** depending on city-state. Women in coastal regions have **tanner skin**, while northern women exhibit **pale, angular features**.
-  - **Hair**: **Dark brown to light brown**, with wavy or curly textures. In northern regions, **blond** and **auburn** hair is more common.
-  - **Body**: Variable across city, household, labor, diet, and ancestry; older attempts to assign one build to whole Sestaran cities are not authoritative.
----
-### **Jirahar**
-
-The Jirahar are a diaspora people shaped by ancient eastern ancestry, maternal descent, conversion, adoption, and centuries of life among every major culture. No single face, complexion, height, or body type is authoritative.
-
-Tower, Road, Sea, and Turning lives produce occupational differences without producing separate biological populations. Clothing follows work and region: layered road garments, durable shipboard dress, tower court clothing, local fabrics, portable jewelry, and household embroidery may all identify affiliation more reliably than appearance.
-
-Maternal registers record covenant membership, not racial measurement. Converts and their descendants are fully Jirahar under law even when old houses behave otherwise.
+Character appearance should arise from family, region, class, labor, diet, age, and personal history. Avoid treating a political culture as a fixed body type or a mixed population as a predictable visual average.
 
 ## Navigation
 
-- [[Canon Index]]
-- [[Canon Index]]
+- [[Cultures MOC]]
+- [[The Making of the Eclessians]]
+- [[The Making of the Folk]]
+- [[The Making of the Covenant Peoples]]
+- [[The Making of the Thalmyrics]]

@@ -59,7 +59,7 @@ We are **Veridancia’s diplomacy**, **Caldria’s blades**, **Korrheim’s merc
 
 There were moments—brief flickers—when a crown seemed near. Aurelian kings anointed by the Sanctum. Caldrian warlords bearing relics of the Redeemer. Even merchant leagues in **Brauvalis** advocated governance by coin and scripture. But each effort collapsed under weight of heresy, ambition, or holy doubt.
 
-Worse still, the **Fäskogarfolk**, wild and terrible, grew bolder. From the southern forests they swept north, attacking villages, burning monasteries, defiling sacred groves. Caldria and the Sylvan Marches mounted crusades in reply, but even now, the **war on the frontier is endless**.
+Worse still, the **Folk**, wild and terrible, grew bolder. From the southern forests they swept north, attacking villages, burning monasteries, defiling sacred groves. Caldria and the Sylvan Marches mounted crusades in reply, but even now, the **war on the frontier is endless**.
 
 ---
 

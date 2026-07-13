@@ -166,7 +166,7 @@ Rule: disputes persist because truth has value; institutions manufacture it.
 
 ### Eclessia (fragmented sacred politics)
 
-- Many duchies/kingdoms comprised of older ethnic groups of Atherians and Fäskogarfolk and newer ethnic groups comprised of their mixture into a broadly Eclessian ethnic and cultural group; Church is the cultural spine.
+- Many duchies/kingdoms comprised of older ethnic groups of Atherians and Folk and newer ethnic groups comprised of their mixture into a broadly Eclessian ethnic and cultural group; Church is the cultural spine.
     
 - Situated geographically east of Thalmyria, largely underdeveloped/ rural outside of main population centers/ natural resource points.
     

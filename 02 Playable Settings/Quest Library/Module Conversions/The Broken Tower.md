@@ -9,7 +9,7 @@ era:
 region:
   - Grenzburg approaches
 culture:
-  - Fäskogarfolk
+  - Folk
   - Eclessian
 related_factions:
   - The Medori Bank

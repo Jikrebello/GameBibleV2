@@ -12,7 +12,7 @@ culture:
   - Atherian
   - Jirahar
   - Ahl-e-Ahd
-  - Fäskogarfolk
+  - Folk
   - Vesari
   - Sestaran
   - Tarkhan
@@ -31,7 +31,7 @@ The Age of Scattering begins after the Prophet's death, when the exodus breaks i
 - **Proto-Atherians:** settle river valleys, hills, and coastal plains; retain liberation myths while absorbing star cults, civic law, and old Giant knowledge.
 - **Proto-Jirahar:** preserve commandment, route-memory, caravan discipline, tower towns, and prophetic expectation.
 - **Proto-Ahl-e-Ahd:** remain in desert and oasis networks where oath, water-right, guest-law, and survival contract become sacred.
-- **Early Fäskogarfolk and Ättar:** move into southern cold forests, frost valleys, and Menhir-haunted land where clan law and winter survival dominate.
+- **Early Folk and Ättar:** move into southern cold forests, frost valleys, and Menhir-haunted land where clan law and winter survival dominate.
 - **Sestaran harbor peoples:** gather around ports, islands, and archive cities, turning navigation, accounting, art, and memory into leverage.
 - **Tarkhan and Nsizwa peoples:** develop independent trajectories from the Scattering rather than appearing as later border ornaments.
 - **Vesari:** river-plain settlers of the far east — moot-law, bright hearth-gods, princedoms on the great rivers; their converted descendants become Virelia's substrate (see [[The Making of the Eclessians]]).
@@ -64,5 +64,5 @@ Every culture can claim some descent from liberation. No culture can claim it wi
 - [[Timeline MOC]]
 - [[Age of Exodus]]
 - [[Age of Hearths and First Kings]]
-- [[Early Fäskogarfolk Clan Worlds]]
+- [[Early Folk Clan Worlds]]
 - [[The First Atherian City-States]]

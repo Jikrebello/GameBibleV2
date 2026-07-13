@@ -5,8 +5,8 @@ canon_level: local
 visibility: public
 era: []
 region: ["Grenzburg"]
-culture: []
-related_factions: []
+culture: ["Folk", "Chapel-Folk"]
+related_factions: ["Moss-Crown", "Shattered-Tusk", "Ghost-Foot", "River-Clans", "Chapel-Folk"]
 appears_in: ["Grenzburg"]
 needs: []
 tags:
@@ -17,7 +17,9 @@ tags:
 **Role in the Rule of Three:**
 The Folk are the **Wild Card**. They are not a single "Ugly" faction but a spectrum of them, representing the land's ancient claim against the newcomers. They are the ultimate variable in the Duke's calculus: they can be the difference between a hamlet's survival or annihilation, a clear road or an ambushed trail. Their internal divisions mirror and mock the conflicts of the so-called "civilized" men.
 
-**Core Concept:** The Fasgrangar are the indigenous peoples of the deep forests and high valleys. They are not primitive; their culture is ancient, complex, and tied to the spirit of the land in ways the Eclessians cannot comprehend. Their conflict with Grenzburg is not a war of conquest, but a **war of ecology and memory**. Each clan represents a different strategy for surviving the invasion: assimilation, resistance, manipulation, or something in between.
+**Core Concept:** These Green March kindreds hold overlapping clan, sanctuary, road, and winter rights around Grenzburg. Their conflict with the duchy is a war of ecology, jurisdiction, and memory. Each clan represents a different response to settlement, extraction, conversion, and the need to cooperate when the Grobi move.
+
+Their wider culture is governed by [[The Folk Overview]], while [[Frost-Road and the Winter War]] explains why even hostile clans may answer the same winter beacon.
 
 ---
 
@@ -74,7 +76,7 @@ The Folk are the **Wild Card**. They are not a single "Ugly" faction but a spect
 ## **4. The Chapel-Folk (The "Redeemed"): The In-Between**
 **Led by: Elof of the Chapel-Folk**
 
-*   **Concept:** The torn. Two generations ago, a Folk clan devastated by plague was saved by a wandering preacher of the Redeemer. They converted, adopting the faith and some customs. Now, they are **outcasts to both worlds**.
+*   **Concept:** The faithful and contested. The Chapel-Folk descend from several converted communities under the old Bent Oak precedent. They sincerely follow the Redeemer while retaining Folk language, kinship, hearth-law, dress, music, and winter obligations. Their growing Grenzburg congregation remains **mistrusted by both worlds**.
 *   **Leader:** Elof is a man of two faces. He wears a simple Redeemer's wheel around his neck but keeps his hair in the braids of his mother's clan. He speaks both tongues perfectly and is fluent in the scriptures, which he uses to argue for his people's place.
 *   **Goal:** **Recognition.** They want the Church to formally recognize them as a pious congregation, not "converted heathens." They want the marchers to see them as neighbors, not suspicious half-breeds. They want the other Folk to stop calling them "Lost-Songs."
 *   **Dilemma:** They are the ultimate buffer zone, and both sides abuse this.
@@ -83,7 +85,7 @@ The Folk are the **Wild Card**. They are not a single "Ugly" faction but a spect
     *   **The Other Folk Clans** despise them as traitors who sold their ancestors' ways for false comfort. The Shattered-Tusk specifically targets them.
 *   **What They Offer the Duke:** They are **invaluable intermediaries**. They can explain Folk motives to the council, predict Shattered-Tusk movements, and identify which Ghost-Foot promises are literal and which are poetic traps. They know the land as Folk, but think in terms the Duke can understand.
 *   **Faustian Bargain with the Duke:** To champion them is to:
-    1.  **Enrage the Church's Zealots** (Ignatius), who believe true conversion requires complete cultural eradication, not synthesis.
+    1.  **Enrage the Church's Zealots** (Ignatius), who believe true conversion requires cultural assimilation as well as renouncing court worship.
     2.  **Alienate the Traditionalist Folk** (Moss-Crown and others), who see any support for the Chapel-Folk as validating cultural destruction.
     3.  **Create a Permanent, Vulnerable Dependent.** Protecting them is a constant drain, as they are attacked from all sides. Abandoning them is a moral and strategic catastrophe, proving no one can trust the Duke's promises of integration.
 
@@ -117,4 +119,6 @@ Every decision with one clan reverberates through the others, turning the forest
 ## Navigation
 
 - [[Grenzburg MOC]]
+- [[Green March Kindreds]]
+- [[Chapel-Folk]]
 - [[Canon Index]]

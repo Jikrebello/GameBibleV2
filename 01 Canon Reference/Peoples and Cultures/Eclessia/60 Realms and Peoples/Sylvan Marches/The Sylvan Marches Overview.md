@@ -5,8 +5,8 @@ canon_level: core
 visibility: public
 era: ["Present Day"]
 region: ["Sylvan Marches", "Eclessia"]
-culture: ["Eclessian", "Fäskogarfolk", "Enaidfae"]
-related_factions: ["Eclessian Church", "Freeflame", "Fäskogarfolk"]
+culture: ["Eclessian", "Folk", "Enaidfae"]
+related_factions: ["Eclessian Church", "Freeflame", "Folk"]
 appears_in: ["Grenzburg"]
 needs:
   - place the named ruins and frontier settlements on the southern atlas
@@ -19,7 +19,7 @@ The Sylvan Marches are Eclessia's southeastern cold frontier: forest lordships, 
 
 ## Historical Formation
 
-The Marches preserve a strong Enaidfae and Folk substrate beneath Adalmarid settlement. The First Southern Crusade, Great Southern Purge, and March of the Redeemer's Sword established forts and parishes but never erased older land claims. Authority remains negotiated at the distance a garrison can actually travel.
+The Marches preserve a strong Folk substrate beneath Adalmarid settlement, including old-rite Enaidfae and Chapel-Folk communities. The First Southern Crusade, Great Southern Purge, and March of the Redeemer's Sword established forts and parishes but never erased older land claims. Authority remains negotiated at the distance a garrison can actually travel.
 
 ## The Grey Sweat
 
@@ -59,4 +59,6 @@ Missing settlements, winter convoys, disputed land, Grobi diplomacy, drake hunts
 - [[Relics, Forbidden Knowledge, and Hidden Horrors]]
 - [[Lives of Caldria and the Sylvan Marches]]
 - [[Southern Cold Belt and Grobi Frontier]]
+- [[Green March Kindreds]]
+- [[Chapel-Folk]]
 - [[Eclessia Overview]]

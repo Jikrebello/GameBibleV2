@@ -6,7 +6,7 @@ visibility: public
 era: ["Present Day"]
 region: ["Caldria", "Sylvan Marches", "Eclessia"]
 culture: ["Eclessian"]
-related_factions: ["Eclessian Church", "Freeflame", "Fäskogarfolk"]
+related_factions: ["Eclessian Church", "Freeflame", "Folk"]
 appears_in: []
 needs: ["add two named representative NPCs and one settlement-level story seed"]
 tags: []

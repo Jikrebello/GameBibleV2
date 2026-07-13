@@ -6,7 +6,7 @@ visibility: author-only
 source: "PZO9500-TC1 Into the Haunted Forest"
 era: ["Present Day"]
 region: ["Sylvan Marches", "Old Wood"]
-culture: ["Eclessian", "Fäskogarfolk"]
+culture: ["Eclessian", "Folk"]
 related_factions: ["The Briar Lances", "Grey-Withy"]
 appears_in: ["Into the Old Wood"]
 needs:

@@ -6,7 +6,7 @@ visibility: author-only
 era: ["Present Day", "1360 AR"]
 region: ["Known World"]
 culture: []
-related_factions: ["Ahl-e-Ahd", "Thalmyric Empire", "Sestaran Concord", "Eclessia", "Ättar", "Enaidfae"]
+related_factions: ["Ahl-e-Ahd", "Thalmyric Empire", "Sestaran Concord", "Eclessia", "Folk", "Ättar"]
 appears_in: []
 needs: ["replace proof coordinates with creator-adjusted Photoshop placements"]
 tags: ["needs-review"]
@@ -32,7 +32,7 @@ The filenames begin with the same IDs used by [[Political Map Border Proof Key]]
 - `C1–C7`: Sestaran Concord
 - `E1–E9`: Eclessia
 - `AT1–AT4`: Ättar customary ranges
-- `F1–F4`: Folk and Enaidfae customary territories
+- `F1-F4`: Folk customary territories; Enaidfae is an old-rite identity within them
 
 `T4 - Saronika.svg` includes Saronika's mainland/coastal shape and both associated island pieces. `C3 - Sermora.svg` includes Sermora's principal shape and associated island. `A5 - Velian States.svg` retains its disputed hatch. Ättar and Folk files retain dashed customary-frontier strokes.
 

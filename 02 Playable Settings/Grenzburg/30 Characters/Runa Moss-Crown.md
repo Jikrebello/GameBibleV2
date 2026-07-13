@@ -5,7 +5,7 @@ canon_level: local
 visibility: public
 era: ["Present Day"]
 region: ["Grenzburg", "Moss-Crown Grove"]
-culture: ["Fäskogarfolk"]
+culture: ["Folk"]
 related_factions: ["Moss-Crown Clan", "Folk Clans"]
 appears_in: ["Grenzburg"]
 needs: []

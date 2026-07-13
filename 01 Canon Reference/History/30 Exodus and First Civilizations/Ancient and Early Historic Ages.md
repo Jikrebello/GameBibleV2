@@ -12,7 +12,7 @@ culture:
   - Atherian
   - Jirahar
   - Ahl-e-Ahd
-  - Fäskogarfolk
+  - Folk
   - Sestaran
 related_factions: []
 appears_in: []
@@ -39,7 +39,7 @@ This note bridges [[Prehistory Overview]] and the [[Atherian Imperial Age]]. It 
 - **Jirahar:** communities with the strongest claim to preserving the Great Prophet's original teaching through caravans, tower towns, law, memory, and prophecy.
 - **Arqeshites:** eastern river-city peoples who create an early mortal empire of canals, estates, deportation, and royal sacred power before being absorbed by the expanding Atherian world.
 - **Ahl-e-Ahd:** desert oath and water-right tribes whose covenant memory hardens into contract law, obligation, and later cosmic contract doctrine.
-- **Fäskogarfolk and Ättar:** southern cold-forest peoples shaped by winter survival, clan law, Menhir pacts, ancestor memory, and war against Grobi pressure.
+- **Folk and Ättar:** southern cold-forest peoples shaped by winter survival, clan law, Menhir pacts, ancestor memory, and war against Grobi pressure.
 - **Sestara:** harbor and archive-city cultures that survive by monetizing memory, art, finance, ships, legal skill, and secrets.
 - **Vesari:** Slavic-coded river-plain settlers of the far east, a separate Scattering people; their converted princedoms become Virelia's substrate (see [[The Making of the Eclessians]]).
 - **Tarkhan, Nsizwa, and others:** independent heirs of the Scattering, not late cultural add-ons.
@@ -48,7 +48,7 @@ This note bridges [[Prehistory Overview]] and the [[Atherian Imperial Age]]. It 
 
 The known world is southern-hemisphere oriented. South means colder, harsher, more forested, and more permafrost-bound. The farther south a culture lives, the more its political calendar, military routes, food systems, and myths should reflect cold pressure.
 
-Use [[Southern Cold Belt and Grobi Frontier]] as the governing note for the deep southern cold belt, the Ättar/Fäskogarfolk frontier, and Grobi migration logic.
+Use [[Southern Cold Belt and Grobi Frontier]] as the governing note for the deep southern cold belt, the Ättar/Folk frontier, and Grobi migration logic.
 
 ## Story Use
 

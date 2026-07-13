@@ -21,9 +21,9 @@ There is no such thing as "an Eclessian" in the same sense that there is an Ätt
 
 **1. The Atherian provincial base (Latinate).** The old empire's eastern provinces: colonists, veterans' land-grants, road towns, civic law, and church Atherian as the language of altar and archive. Strongest in the south — Aurelia, Veridancia — where names still run Latinate (Adrien, Alessior, Aurelia itself).
 
-**2. The Enaidfae substrate.** The old forest peoples the empire ruled but never digested: clan-land, seers, grove-law, river-names. Under every southern and western Eclessian parish is an Enaidfae holy place with a new name; the unconverted remnant on the frontiers is what settled Eclessians simply call **the Folk** (see [[The Folk of the Frontier and the Wolfsmere Lineage]]).
+**2. The Folk substrate.** The forest, river, and hill peoples whom the empire ruled unevenly: clan-land, hearth-law, seers, grove boundaries, federate soldiers, and old river-names. Many became Atherianized provincial populations and later Eclessians; others retained independent clan identity. Enaidfae names the old-rite confederacies among the living Folk, not the ancestry of every Eclessian with southern roots. See [[The Making of the Folk]].
 
-**3. The Vesari — a separate people of the Scattering.** Not Fäskogarfolk: their own exodus fragment, river-plain settlers of the far east, with princedoms, public moots, and bright gods of storm and hearth. The converted Vesari princedoms became **Virelia's substrate**; Orzova, Strazgorod, Helvgrad, and Radomir are Vesari names, and their princely-moot customs became the sabre-right elective tradition.
+**3. The Vesari — a separate people of the Scattering.** Not Folk: their own exodus fragment, river-plain settlers of the far east, with princedoms, public moots, and bright gods of storm and hearth. The converted Vesari princedoms became **Virelia's substrate**; Orzova, Strazgorod, Helvgrad, and Radomir are Vesari names, and their princely-moot customs became the sabre-right elective tradition.
 
 **4. The Markish stock.** Born in the imperial age from garrison settlers and Folk intermarriage along the military frontier, they are a hard-handed, clan-proud, castle-building synthesis. Their naming register includes Korrheim, Brauvalis, Grenzburg, Adalmar, Reinhardt, and Weyn. Adalmar the Great was Markish, and the marches remember that Eclessia's greatest dynasty came from its roughest stock.
 
@@ -37,7 +37,7 @@ There is no such thing as "an Eclessian" in the same sense that there is an Ätt
 - **Virelia:** Vesari substrate under a Latinate-Markish crown veneer; elective, cavalry-proud, east-facing.
 - **Korrheim, Brauvalis, Ironvale, Grenzburg's duchy:** Markish — guild towns, cantons, marcher lords, the Reformation's cradle (Ansgar was a marches friar; the register is his).
 - **The southern coasts:** a raided, Folk-fringed frontier — watchtowers and beacon-levies, not a settled sea-people (the Ättar coast-creole is Thalmyric; see [[The Saltborn Coast Overview]]).
-- **The Sylvan Marches:** Enaidfae substrate barely under the paint and only intermittently governed from the settled east.
+- **The Sylvan Marches:** Folk substrate remains institutionally visible, with old-rite Enaidfae and Chapel-Folk communities only intermittently governed from the settled east.
 
 ## The Choosing at Strazgorod (1061 AR)
 
@@ -60,5 +60,5 @@ Ethnic layering is Eclessia's political physics: Markish reform against Latinate
 - [[Eclessia Cultural Thesis]]
 - [[Ethnic Groups Overview]]
 - [[The Folk of the Frontier and the Wolfsmere Lineage]]
-- [[The Fäskogarfolk Overview]]
+- [[The Folk Overview]]
 - [[Named Figures of the Known World]]

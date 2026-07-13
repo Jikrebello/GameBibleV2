@@ -48,7 +48,7 @@ tags: []
 - [[The Arqeshite River Empire]]
 - [[Historical Spine of the Jirahar]]
 - [[Proto-Ahl-e-Ahd Desert Tribes]]
-- [[Early Fäskogarfolk Clan Worlds]]
+- [[Early Folk Clan Worlds]]
 - [[Origins of Warlock Rune Magic]]
 - [[Southern Cold Belt and Grobi Frontier]]
 

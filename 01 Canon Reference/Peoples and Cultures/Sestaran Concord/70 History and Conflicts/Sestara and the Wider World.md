@@ -5,7 +5,7 @@ canon_level: core
 visibility: public
 era: ["Present Day"]
 region: ["Sestaran Concord", "Known World"]
-culture: ["Sestaran", "Jirahar", "Ahl-e-Ahd", "Tarkhan", "Fäskogarfolk", "Ättar"]
+culture: ["Sestaran", "Jirahar", "Ahl-e-Ahd", "Tarkhan", "Folk", "Ättar"]
 related_factions: ["Thalmyric Empire", "Eclessia", "Qahirid Suzerainty"]
 appears_in: []
 needs: []

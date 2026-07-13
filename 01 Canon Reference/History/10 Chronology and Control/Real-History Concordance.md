@@ -39,6 +39,16 @@ The Atherian city-states are the poleis: civic rivalry, leagues, tyrants, coloni
 
 Unification ends the city-state age (c. 350 BR); the Age of Glory is the Pax Romana. The remaining design question is the identity of the founding conqueror and whether unification included a republic-to-empire constitutional crisis. The roads, laws, and archives every successor now fights over are already established.
 
+### Iron-Age Europe and the Imperial Frontier → The Folk
+
+The Folk draw structural inspiration from the clan, tribal, hillfort, federate, and successor societies encountered beyond and within the Roman frontier: Gaulish confederacies, Gothic war-leadership, Germanic halls, and the Brittonic, Welsh, Cornish, Scottish, and Irish persistence of local law and identity. This produces a political spectrum rather than one generic tribe. Some communities use stone, bronze, and scarce bloomery iron; others field mature iron-working confederacies, fortified towns, treaty systems, and armies capable of negotiating with empires.
+
+The Enaidfae are old-rite Folk confederacies, not a fantasy ancestry or a direct ethnic analogue. Their local courts borrow the structural unease of traditions in which bright and terrible beings share etiquette without becoming morally safe. The powers are appeased because they are dangerous, not loved as benevolent parents. The Chapel-Folk carry the process by which converted frontier peoples remain culturally themselves rather than becoming foreign settlers overnight.
+
+The annual Grobi winter war supplies a setting-native institution with no direct historical duplicate: frontier duty, honor migration along the Frost-Road, refuge architecture, hidden granaries, and seasonal war-kings. It keeps the Folk militarily consequential without unifying them into a nation.
+
+**Recontextualization rule:** public canon uses Folk clans, courts, confederacies, and regional names. It does not use Gaulish, Gothic, Celtic, Germanic, Pictish, or other real-world labels as in-world taxonomy.
+
 ### Christianity → The Redeemer's Faith
 
 Already the vault's strongest mapping (ministry, execution, resurrection, persecution, catacomb church). The conversion-era mapping is embodied by:

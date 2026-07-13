@@ -28,6 +28,7 @@ Develop Caleran as the setting's great-city sandbox. Its population, fourteen di
 - **Covenant structure:** [[Ahl-e-Ahd Canon Register]] controls the layered peoples, Witnessed/Sealed divide, unequal states, and authorial Fourth Seal truth. [[Covenant Reconstruction Audit]] records the full reference pass.
 - **Sestaran structure:** [[Sestaran Canon Register]] controls seven independent seals joined only by [[The Seven-Seal Defensive Muster]]. Orsena and Vardessa are locked microstates; Vorthara has no common government. [[Sestaran Reconstruction Audit]] records the full reference pass.
 - **Jirahar structure:** [[Jirahar Canon Register]] controls the two destructions, maternal descent, conversion, four mobile Ways, five living towers, Empty City, and Keeper-controlled Way-Gates. [[Jirahar Reconstruction Audit]] records the full reference pass.
+- **Folk structure:** [[Folk Canon Register]] controls the living clan umbrella, Enaidfae old-rite confederacies, Chapel-Folk, four customary regions, local courts, and the Frost-Road. [[Folk Reconstruction Audit]] records the cross-vault pass.
 
 ## Next Three Workstreams
 
@@ -49,6 +50,7 @@ Develop Caleran as the setting's great-city sandbox. Its population, fourteen di
 - The Sestaran Concord contains Fiorenzia, Sermora, Aversia, Vorthara, Castara, Orsena, and Vardessa. “Sestaran” is secondary to city identity. Only external invasion activates collective obligations.
 - [[The Battle of the Shattered Engines (907 AR)]] is the Caldrian-Vortharan victory that broke the northern Covenant advance and materially enabled the later mountain resistance.
 - [[The Grey Sweat]], [[The Korrheim Accord]], and the [[Freeflame Reformation]] are the source events for Eclessia's demographic and confessional present.
+- The Folk are a living umbrella civilization rather than a state. Enaidfae are old-rite Folk confederacies; Ättar are a distinct cousin people. Local courts may mix Menhir courtiers, patrons, Shades, and Idol masks, while [[Folk Faith and Appeasement]] governs public practice.
 - The protagonist is a customizable Bank debtor seconded to the Duke: Koss controls the contract, Pierre controls public deployment, and Alaric controls strategy.
 - The Duke's Peace is the canonical continuation. Leviticus is the coerced winter betrayer and is redeemed through public testimony.
 - The field party is the player plus three companions. Elara, Bernard, Dismas, and Zafir are core companions; Lotte, Runa, and Skrit are lighter recruits.

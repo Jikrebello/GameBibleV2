@@ -43,9 +43,9 @@ The Covenant is a layered imperial-confessional civilization rather than one eth
 
 Five living towers, the Empty City, host quarters, and mobile companies share law without a sovereign. High Keeper Zerahiah wants continuity, cautious gate custody, and protection from another false claimant. Restorationists want Qiryath secured; Dominion zealots want preparation for future judgement; ordinary towers and companies want viable charters, safe routes, and room to remain distinct. See [[The Jirahar Overview]].
 
-### Fäskogarfolk and Frontier Peoples
+### The Folk
 
-Land-and-pact peoples. Want autonomy, sacred territories, old rights, and survival against conversion, settlement, and extraction.
+No common ruler speaks for the Folk. Green March clans contest settlement and Church jurisdiction; Rootbound confederacies defend old-rite country; Gale-Crown forts control iron and passes; Tidewood leagues face maritime extraction and Ättar rivalry. All depend upon winter cooperation against Grobi migration. Chapel-Folk seek recognition without cultural erasure, while old-rite seers disagree over sacrifice and the local courts. See [[The Folk Overview]].
 
 ## Recurring Board Questions
 

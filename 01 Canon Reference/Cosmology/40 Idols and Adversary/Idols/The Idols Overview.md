@@ -75,6 +75,10 @@ tags: []
 - **Symbols:** Green eye, broken chain, withered vine.
 - **Worship and Influence:** Mortals honor Invidia through acts of coveting and resentment. Rituals often involve reflecting on their own envies and seeking ways to undermine those they envy.
 
+## Entry Through Local Courts
+
+Idols do not always announce themselves as universal powers. A mask may enter an established local court, imitate a useful role, and turn a bounded custom toward habitual predation. Folk seers therefore encounter Idol activity without reliably identifying its source. [[Courts of the Folk Lands]] records the authorial classification of the first six such court ecologies; [[Folk Faith and Appeasement]] records what ordinary practitioners believe.
+
 ## Navigation
 
 - [[Cosmology MOC]]

@@ -5,7 +5,7 @@ canon_level: local
 visibility: author-only
 era: ["Present Day"]
 region: ["Grenzburg"]
-culture: ["Eclessian", "Fäskogarfolk"]
+culture: ["Eclessian", "Folk"]
 related_factions: ["Duchy of Grenzburg", "Medori Bank", "Church of the Redeemer", "Folk Clans", "Grobi"]
 appears_in: ["Grenzburg"]
 needs:

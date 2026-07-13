@@ -5,7 +5,7 @@ canon_level: local
 visibility: author-only
 era: ["Present Day"]
 region: ["Sylvan Marches", "Southern Forests", "Faewild edges"]
-culture: ["Fäskogarfolk"]
+culture: ["Folk"]
 related_factions: ["The Cloven"]
 appears_in: ["The Bright-Fire Carnival"]
 needs:

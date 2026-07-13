@@ -6,7 +6,7 @@ visibility: author-only
 source: "The Sunless Citadel"
 era: ["Present Day"]
 region: ["Southern Forests"]
-culture: ["Enaidfae", "Fäskogarfolk"]
+culture: ["Enaidfae", "Folk"]
 related_factions: []
 appears_in: []
 needs: []

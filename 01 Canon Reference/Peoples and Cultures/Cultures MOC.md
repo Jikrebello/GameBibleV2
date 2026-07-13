@@ -44,7 +44,11 @@ Every culture keeps its overview at the culture root. Larger cultures then use t
 
 - [[Ethnic Groups Overview]]
 - [[The Atherian Empire Overview]]
-- [[The Fäskogarfolk Overview]]
+- [[The Folk Overview]]
+- [[Folk Canon Register]]
+- [[Enaidfae Old-Rite Confederacies]]
+- [[Chapel-Folk]]
+- [[Ättar Overview]]
 - [[The Nsizwa Overview]]
 - [[The Tarkhan Tribes Overview]]
 - [[The Folk of the Frontier and the Wolfsmere Lineage]]
@@ -56,7 +60,8 @@ Every culture keeps its overview at the culture root. Larger cultures then use t
 - [[The First Atherian City-States]]
 - [[Proto-Jirahar Tower Towns]]
 - [[Proto-Ahl-e-Ahd Desert Tribes]]
-- [[Early Fäskogarfolk Clan Worlds]]
+- [[Early Folk Clan Worlds]]
+- [[Historical Spine of the Folk]]
 - [[Southern Cold Belt and Grobi Frontier]]
 
 ## Culture Design Checklist

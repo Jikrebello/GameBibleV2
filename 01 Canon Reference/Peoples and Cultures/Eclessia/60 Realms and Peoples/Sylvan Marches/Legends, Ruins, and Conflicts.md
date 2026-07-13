@@ -5,8 +5,8 @@ canon_level: local
 visibility: restricted
 era: ["Present Day"]
 region: ["Sylvan Marches", "Eclessia"]
-culture: ["Eclessian", "Fäskogarfolk", "Enaidfae"]
-related_factions: ["Fäskogarfolk", "Eclessian Church", "Freeflame"]
+culture: ["Eclessian", "Folk", "Enaidfae"]
+related_factions: ["Folk", "Eclessian Church", "Freeflame"]
 appears_in: ["Grenzburg"]
 needs:
   - place Raven's Hollow, Valtorheim, Dornwald, Uldrekh, and Kael'Ryth on the atlas

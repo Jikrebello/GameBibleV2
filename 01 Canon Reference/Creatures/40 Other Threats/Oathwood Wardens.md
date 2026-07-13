@@ -4,8 +4,8 @@ status: draft
 canon_level: local
 visibility: restricted
 era: ["Present Day"]
-region: ["Sylvan Marches", "Fäskogarfolk Pact-Lands"]
-culture: ["Fäskogarfolk", "Marcher"]
+region: ["Sylvan Marches", "Folk Pact-Lands"]
+culture: ["Folk", "Marcher"]
 related_factions: []
 appears_in: ["Into the Old Wood"]
 needs:

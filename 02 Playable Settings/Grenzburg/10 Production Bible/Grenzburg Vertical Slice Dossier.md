@@ -9,7 +9,7 @@ region:
   - Grenzburg
 culture:
   - Eclessian
-  - Fäskogarfolk
+  - Folk
 related_factions:
   - Duchy of Grenzburg
   - Church of the Redeemer

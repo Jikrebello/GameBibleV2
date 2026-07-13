@@ -6,7 +6,7 @@ visibility: author-only
 era: ["Present Day", "1360 AR"]
 region: ["Known World"]
 culture: []
-related_factions: ["Ahl-e-Ahd", "Thalmyric Empire", "Sestaran Concord", "Eclessia", "Ättar", "Enaidfae", "Jirahar"]
+related_factions: ["Ahl-e-Ahd", "Thalmyric Empire", "Sestaran Concord", "Eclessia", "Folk", "Ättar", "Jirahar"]
 appears_in: []
 needs: ["creator approval of political silhouettes and internal borders", "capital and major-seat label pass", "final legend and typography"]
 tags: ["needs-review"]
@@ -79,14 +79,16 @@ The Jirahar receive no enclosing political polygon. Final city and route layers 
 
 Dashed borders represent customary range, tribute, pasture and wintering rights. They are not surveyed state lines.
 
-## Folk and Enaidfae Territories
+## Folk Customary Territories
 
 | ID | Territory | Cartographic meaning |
 |---|---|---|
-| F1 | Green March Kindreds — Northern Frontier Clans | The mixed frontier below Eclessia and Grenzburg, including local communities without enlarging them into nations. |
-| F2 | Rootbound Heartwood — Sylvorn/Land Tribes | Central deep forest and place-bound Menhir law. |
-| F3 | Gale-Crown Ranges — Zephyraxis/Sky Tribes | Eastern mountain woods, high passes and exposed uplands. |
-| F4 | Tidewood Coast — Thalassor/Ocean Tribes | Southern cold coast and ocean-facing forests. |
+| F1 | Green March Kindreds | The mixed frontier below Eclessia and around Grenzburg: clans, Chapel-Folk, river leagues, and marcher communities. |
+| F2 | Rootbound Heartwood | Central deep forest, old-rite Enaidfae confederacies, hidden settlements, and extensive place-law. |
+| F3 | Gale-Crown Ranges | Eastern mountain woods, iron valleys, hillforts, high passes, and exposed uplands. |
+| F4 | Tidewood Coast | Southern cold coast, estuary leagues, ocean-facing forests, and overlapping Ättar anchorage claims. |
+
+These are customary cultural worlds, not states and not subdivisions of one religion. Enaidfae identity is strongest in F2-F4 but can occur anywhere among the Folk.
 
 ## Approval Questions
 

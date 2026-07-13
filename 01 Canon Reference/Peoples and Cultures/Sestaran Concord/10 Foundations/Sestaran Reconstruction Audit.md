@@ -30,7 +30,7 @@ These cross-vault notes received corrections to geography, chronology, rulers, e
 - `00 Start Here`: World Egg Setting Primer, Needs Work, Current Focus Board, and Canon Index.
 - `01 Canon Reference/Geography`: Gazetteer, Geography Atlas, Political Map Border Proof Key, and Photoshop Import Guide.
 - `01 Canon Reference/History`: AR Chronology, Named Figures, Real-History Concordance, Invasion and Fall, Present-Day Courts and Crowns, and Present-Day Political Board.
-- `01 Canon Reference/Peoples and Cultures`: Cultures MOC, Ethnic Groups Overview, and the Ahl-e-Ahd, Jirahar, Tarkhan, Fäskogarfolk, Ättar, Eclessian invasion, Caelmount, and Long Reconquest authorities.
+- `01 Canon Reference/Peoples and Cultures`: Cultures MOC, Ethnic Groups Overview, and the Ahl-e-Ahd, Jirahar, Tarkhan, Folk, Ättar, Eclessian invasion, Caelmount, and Long Reconquest authorities.
 - `02 Playable Settings`: The Bragging Vault conversion, full adventure, and Corsin Marlo; House of Mutable Form.
 
 ## Preserved as In-World Testimony: 11

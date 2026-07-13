@@ -95,7 +95,7 @@ Ex-gladiator, caravan guard, the Redeemer's shield on the roads, builder of the 
 
 ### 9. Saint Elsin of the Wordless Flame — *the Shepherd* (d. 52 AR)
 
-The mute shepherd of the Fäskogar borderlands, gifted with fire-speech that calmed beasts and moved crowds without a word. He alone died in peace — back among the Folk, **in silence, smiling, surrounded by converts** — and the Folk buried him secretly. **His grave has never been found.** The Folk keep its location as an oath-secret to this day; after Wolfsmere, they say: *you may have our lake — you will not have our shepherd.*
+The mute shepherd of the early Folk borderlands, gifted with fire-speech that calmed beasts and moved crowds without a word. He alone died in peace, back among the Folk, **in silence, smiling, surrounded by converts**, and the Folk buried him secretly. **His grave has never been found.** The Folk keep its location as an oath-secret to this day; after Wolfsmere, they say: *you may have our lake, you will not have our shepherd.*
 
 - **Thalmyria:** patron of hesychasts and the silence-disciplines; the Wordless is the East's icon of prayer beyond language.
 - **Eclessia:** patron of the **Order of the Blessed Watch** and of the peaceful-mission tradition — the standing counter-authority to the crusading Knights of Saint Aveline. Every borderland priest who opposes conversion by sword invokes Elsin; every one who doesn't invokes Aveline; Grenzburg's pulpits know both names well.
