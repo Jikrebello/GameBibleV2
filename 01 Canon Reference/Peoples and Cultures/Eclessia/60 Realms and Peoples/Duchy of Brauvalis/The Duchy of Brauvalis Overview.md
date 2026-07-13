@@ -39,6 +39,8 @@ Reinhardt rules with noble estates, abbots, and town guilds. Old-Church monaster
 
 Ale, hops, medicines, cloth, ceramics, timber, and hospitality circulate through Brauvalian markets. Brewing is food preservation, medicine, wages, tax base, and ritual hospitality before it is luxury. The renamed **Order of Saint Veyskar** maintains the oldest licensed monastic breweries.
 
+The poor eastern [[Wanemoor District]] adds wet timber hills, shallow iron workings, charcoal roads, and reed fens to this economy. Its district seat, [[Wanenbruck]], governs mine and saw traffic before the land descends toward isolated villages such as Merewick. Wanemoor's Grey Sweat galleries and burial grounds remain public obligations even where later leases placed mines or yards around them.
+
 ## Warfare
 
 Brauvalis maintains ducal cavalry, guild militias, river guards, and fortified abbeys. It hires Korrheim companies in crisis and buys Ironvale weapons while fearing both neighbors' political influence.
@@ -58,6 +60,6 @@ Poisoned festival casks, abbey debt, guild elections, concealed congregations, m
 
 - [[Conflicts and Cultural Struggles]]
 - [[Lives of Korrheim and Brauvalis]]
+- [[Wanemoor District]]
 - [[Economy and Trade Overview]]
 - [[Eclessia Overview]]
-

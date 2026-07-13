@@ -18,9 +18,9 @@ tags: [module-conversion, game-ready]
 
 ## Adventure at a Glance
 
-**Premise:** A glass-storm has stripped a forgotten [Ishkatar](The%20Serpent%20Kingdom%20of%20Ishkatar.md) tomb from the desert floor. Three present-day claimants race toward it while its ancient receiver wakes and begins classifying every entrant as part of the estate.
+**Premise:** A glass-storm has stripped a forgotten [[The Serpent Kingdom of Ishkatar|Ishkatar]] tomb from the desert floor. Three present-day claimants race toward it while its ancient receiver wakes and begins classifying every entrant as part of the estate.
 
-**Beginning:** The party joins a [Qahuri](The%20Qahirid%20Suzerainty%20and%20Iqashar.md) breach-assessor, a Jirahar Road Company, or an independent recovery expedition. Its route determines who reaches the tomb first, what supplies survive, and whether the outer court records the party as witnesses or thieves.
+**Beginning:** The party joins a [[The Qahirid Suzerainty and Iqashar|Qahuri]] breach-assessor, a Jirahar Road Company, or an independent recovery expedition. Its route determines who reaches the tomb first, what supplies survive, and whether the outer court records the party as witnesses or thieves.
 
 **Middle:** The party crosses the exposed forecourt, survives the tomb's moving processional defenses, discovers a false burial, and learns that the apparent royal household was made from murdered servants and confiscated families. Rivals enter behind it and force choices about alliance, evidence, and treasure.
 

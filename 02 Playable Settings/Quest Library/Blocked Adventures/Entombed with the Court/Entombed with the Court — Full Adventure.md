@@ -18,7 +18,7 @@ tags: [module-conversion, game-ready]
 
 ## Adventure at a Glance
 
-**Premise:** A [Fiorenzian](01%20Canon%20Reference/Peoples%20and%20Cultures/Sestaran%20Concord/60%20Realms%20and%20Peoples/Grand%20Duchy%20of%20Fiorenzia/The%20Grand%20Duchy%20of%20Fiorenzia%20Overview.md) curator hires the party to document an Ansharan satellite court before treasure hunters strip it. A rival expedition backed by a hidden Regalis patron pursues the same site. Both crews become trapped inside a funerary court that is trying to appoint them as its new household.
+**Premise:** A [[The Grand Duchy of Fiorenzia Overview|Fiorenzian]] curator hires the party to document an Ansharan satellite court before treasure hunters strip it. A rival expedition backed by a hidden Regalis patron pursues the same site. Both crews become trapped inside a funerary court that is trying to appoint them as its new household.
 
 **Beginning:** At the Lantern Exchange, the party buys clues, meets the rival Gilded Step, and hears a blinded survivor describe the court's progressive recognition marks. Both crews then race to steal or bargain for the Processional Face that can call the hidden complex back into the Material Realm.
 

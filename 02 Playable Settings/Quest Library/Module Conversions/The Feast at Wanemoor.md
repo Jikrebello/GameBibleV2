@@ -5,10 +5,8 @@ canon_level: local
 visibility: author-only
 source: "PZO9533 Feast of Ravenmoor"
 era: ["Present Day"]
-region:
-  - Wanemoor
-culture:
-  - Wanemoor Eclessian
+region: ["Wanemoor", "Merewick", "Brauvalis", "Eclessia"]
+culture: ["Brauvalian", "Eclessian"]
 related_factions: []
 appears_in: []
 needs: []
@@ -52,7 +50,7 @@ The celebration becomes a sacrifice. The party must survive the congregation, co
 
 ## Exact World Egg Placement
 
-The village of Merewick lies in Wanemoor's reed fens, beyond reliable parish visitation. A diocesan almoner vanished after reporting that Merewick's poor-box was full during a failed harvest. The village's plenty comes from the **Reed Mother**, a predatory field-idol grown around generations of concealed offerings. It grants fertile mud, easy births, and full nets, then demands a stranger or dissenter at the autumn feast.
+The village of Merewick lies in the reed fens of [[Wanemoor District]], eastern [[The Duchy of Brauvalis Overview|Brauvalis]], beyond reliable parish visitation. Wanenbruck is the district seat, but flooded roads and shallow channels can leave Merewick functionally isolated for weeks. A diocesan almoner vanished after reporting that Merewick's poor-box was full during a failed harvest. The village's plenty comes from the **Reed Mother**, a predatory field-idol grown around generations of concealed offerings. It grants fertile mud, easy births, and full nets, then demands a stranger or dissenter at the autumn feast.
 
 The people are not grey innocents. Some are terrified, some deceived, and some knowingly murder for prosperity. Ending the idol is right; keeping Merewick alive through the winter is the harder work that follows.
 
@@ -66,8 +64,9 @@ The people are not grey innocents. Some are terrified, some deceived, and some k
 ## Controlling Canon
 
 - [[Eclessian Canon Register]]
+- [[Wanemoor District]]
+- [[The Duchy of Brauvalis Overview]]
 - [[Gazetteer of the Known World]]
-- [[The Long Table]]
 
 ## Research Basis
 

@@ -18,7 +18,7 @@ tags: [module-conversion, game-ready]
 
 ## Adventure at a Glance
 
-**Premise:** The party enters [Vorthara's](01%20Canon%20Reference/Peoples%20and%20Cultures/Sestaran%20Concord/60%20Realms%20and%20Peoples/Citadel%20of%20Vorthara/The%20Citadel%20of%20Vorthara%20Overview.md) most celebrated ward-breaking competition and discovers that its final defense is an adaptive magical intelligence built from the copied minds of failed contestants.
+**Premise:** The party enters [[The Citadel of Vorthara Overview|Vorthara's]] most celebrated ward-breaking competition and discovers that its final defense is an adaptive magical intelligence built from the copied minds of failed contestants.
 
 **Beginning:** [[Rector Ilyra Sorn]] recruits the party as outside challengers. A ward accident proves that something inside the final hall is already reaching beyond containment.
 

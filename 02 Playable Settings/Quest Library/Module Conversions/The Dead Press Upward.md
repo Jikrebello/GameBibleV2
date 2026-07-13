@@ -5,75 +5,117 @@ canon_level: local
 visibility: author-only
 source: "GameMastery Module D4: Hungry Are the Dead"
 era: ["Present Day"]
-region:
-  - Wanemoor
-culture:
-  - Wanemoor Eclessian
-related_factions: []
-appears_in: []
+region: ["Wanemoor", "Wanenbruck", "Brauvalis", "Eclessia"]
+culture: ["Brauvalian", "Eclessian"]
+related_factions: ["The Wane-Warren", "Duchy of Brauvalis", "Eclessian Church", "Freeflame"]
+appears_in: ["The Dead Press Upward"]
 needs: []
 tags: [module-conversion, game-ready]
 ---
 # The Dead Press Upward
 
-**Source:** D4 *Hungry Are the Dead* | **Tier:** W | **Region:** a logging or mining town | **Band:** level 6 analog
+**Source:** D4 *Hungry Are the Dead* | **Tier:** W | **Region:** [[Wanemoor District]], eastern Brauvalis | **Band:** level 6 analog
 
-**The original:** waves of undead and tainted wildlife drive the party toward an ancient evil awakening beneath a hard-used frontier town.
-
-**The conversion:** graves are opening from below. A ghoul warren, displaced by deep excavation and Pale Hand cadaver purchases, has reached the town's abandoned burial galleries. Its elders are not invading blindly: they are driving lesser dead upward while moving an entire corpse-economy away from something awakening beneath their oldest feeding chambers.
-
-**The torque:** the town's burial register proves that generations of paupers were interred in galleries later sold as mining ground. The immediate problem is an undead assault; the durable problem is that the town's prosperity rests on a broken promise to its dead. Closing the warren without repairing burial law guarantees recurrence.
-
-**Hook:** a dungeon pressure-cooker in which the dead are both attackers and displaced evidence.
 ## Original Adventure: Spark Notes
 
 ### Background
 
-A frontier town's old burial and dungeon complex releases undead into the surrounding country.
+The failed antiquarian-necromancer Drazmorg searches for immortality and discovers lore concerning magical seals used to contain the Whispering Tyrant. His investigation leads him beneath an abandoned dwarven monastery near Falcon's Hollow.
+
+Drazmorg tampers with one seal's locking mechanism. The resulting eruption of negative energy destroys the lower half of his body but leaves him unnaturally alive and empowered. He becomes convinced that he is the risen embodiment of the imprisoned tyrant. The damaged seal leaks corruption into the surrounding forest, animating buried dead, wildlife, and victims caught by the release.
 
 ### Beginning
 
-Attacks and missing dead force the party to trace the disturbance beneath the town.
+The local gravekeeper reaches Falcon's Hollow with only moments of warning: graves have opened and a zombie horde is approaching. The party and local priest Lady Cirthana defend the town through successive waves of undead. If the defenders fail badly, the settlement can suffer catastrophic losses.
+
+After the attack, the dead's route leads back through the forgotten cemetery toward the abandoned monastery. The party must follow before the power below has time to create another army.
 
 ### Middle
 
-The party descends through occupied levels while pressure on the settlement worsens.
+The monastery's previously blocked lower areas are open. The party descends through an undead-filled tomb and vault complex containing corrupted wildlife, ghouls, traps, and festrogs: fast, quadrupedal ghoul-like dead created by the magical release.
+
+Drazmorg observes the party through his undead and learns from their methods. The intelligent worg-bodied necromancer Lucimar occupies the dungeon for reasons of his own. He may speak, deceive, or manipulate rather than immediately fight, but remains an independent evil predator interested in the vault and its lore.
+
+The original dungeon can become combat-heavy and allows parties to bypass much of the explanation. Its strongest usable structure is the urgent transition from town defense to a descent in which an injured villain, an independent undead schemer, and a damaged ancient seal all exert pressure.
 
 ### End
 
-They confront the power driving the dead upward and decide how the reopened complex is contained.
+The party reaches the inner seal vault and confronts Drazmorg. Defeating him prevents the immediate creation of another undead army and stops his search for further seals. The damaged seal remains an ominous problem rather than becoming harmless because its breaker dies.
 
-## Conversion Ruling
+Lucimar may survive or escape, preserving an intelligent recurring antagonist independent of Drazmorg. If the party abandons the threat for too long, Drazmorg gathers strength and can destroy Falcon's Hollow.
 
-### Preserve
+## What the Translation Preserves
 
-Preserve the town under pressure, downward investigation, undead ecology, and ancient cause.
+- a gravekeeper's last-minute warning and a town attacked by the dead;
+- multiple defense fronts with real civilian consequences;
+- the trail from opened graves to an abandoned religious complex;
+- a vertical descent through two distinct forms of undead threat;
+- a mutilated scholar who interprets magical backlash as apotheosis;
+- an intelligent independent predator that may outlive the principal villain;
+- an ancient seal whose damage remains important after the final battle;
+- a deadline preventing consequence-free withdrawal.
 
-### Replace
+## What the Translation Replaces
 
-Replace Pale Hand purchases as a default explanation; Wanemoor's broken burial promises and a specific awakening are enough.
+- Falcon's Hollow becomes the Brauvalian district town of [[Wanenbruck]].
+- The dwarven monastery becomes [[Abbey of the Last Lamp|the Abbey of the Last Lamp]], a dissolved burial house with Grey Sweat pauper galleries.
+- Negative-energy leakage becomes residue animation, ghoul-fray, and a bounded soul-route wound around [[The Seal of the Shut Mouth]].
+- Drazmorg becomes [[Magister Edrik Morn]], a mortal death-law scholar who mistakes control of corpse residue for inheritance of the Boatman's office.
+- Lucimar becomes [[Mournfang]], an elder ghoul grave-runner seeking the route and Edrik's methods. It attacks or manipulates but offers no settlement branch.
+- Festrogs become [[Grave-Runners]], fast quadrupedal ghoul-corrupted dead.
+- Repeated generic undead rooms become evidence, rescue, route-control, burial-integrity, and faction-pressure scenes.
+- Pale Hand purchases, Bank involvement, contract machinery, the Undertow, and unrelated Left Hand plotting are removed.
 
 ## Exact World Egg Placement
 
-**Region:** Wanemoor. **Cultures:** Wanemoor Eclessian. The frontmatter placement is controlling; later blocking must use named local offices and factions rather than an umbrella government.
+The adventure takes place in **1360 AR**, during Souls-month after first frost. [[Wanemoor District]] lies in eastern [[The Duchy of Brauvalis Overview|Brauvalis]], where wooded iron hills descend into the Merewick reed fens.
+
+Wanenbruck is a saw and mining town of roughly 1,700 people. Its cemetery and the Last Lamp ridge stand above an old ghoul passage called the Maw-Road. The abbey sealed that passage in 1028 AR and later expanded its galleries during [[The Grey Sweat]].
+
+Bruch Mine knowingly crossed the protected burial boundary. Edrik used the concealed trespass to reach and break the Seal. [[The Wane-Warren]] then entered the plague galleries while Edrik drove ordinary residue dead upward through the cemetery.
 
 ## Translated Adventure Core
 
-- **Premise:** defend an Eclessian town when lesser dead and ghouls erupt upward through burial galleries sold for excavation.
-- **Conflict:** the ghouls are dangerous, but they are also fleeing something deeper, and a purely military purge leaves the town's broken promise to its pauper dead untouched.
-- **Antagonist:** the awakening beneath the oldest feeding chambers and the living interests that profited from violating the burial ground.
-- **Consequences:** the town survives or collapses, the deeper threat is sealed or exposed, and burial law is repaired or allowed to produce another rising.
+- **Premise:** defend Wanenbruck when its cemetery opens from below, then descend through the violated plague galleries before a second rising overwhelms the town.
+- **Conflict:** Edrik directs residue dead, the Wane-Warren exploits the opened route, and Wanenbruck's mine leadership conceals the trespass that gave both access.
+- **Antagonists:** Edrik is the principal villain; the Wane-Warren is a hostile predatory faction; Mournfang is an independent recurring threat.
+- **Durable problem:** killing Edrik stops his direction of the dead but does not restore the Seal, recover the pauper burials, or repair Wanemoor's institutions.
+- **Consequences:** the town holds or evacuates, the Maw-Road is restored or violently closed, the poor dead are named or abandoned, and living responsibility is judged specifically.
+
+## Moral and Metaphysical Ruling
+
+Ordinary animated corpses are residue rather than trapped souls. Edrik cannot become the Boatman by moving remains. Ghouls are intelligent Devourer-aligned predators, not ecological custodians or displaced innocents entitled to a corpse supply.
+
+Mine-Mistress [[Helene Bruch]] is guilty of concealment, burial trespass, and falsifying worker deaths. She did not knowingly commission necromancy. Her responsibility remains serious without erasing the distinction between negligence, deliberate occult violation, and predatory feeding.
+
+## Completed Translation
+
+- **Controlling adventure:** [[The Dead Press Upward — Full Adventure]]
+- **Region:** [[Wanemoor District]] and [[Wanenbruck]]
+- **Primary delve:** [[Abbey of the Last Lamp]]
+- **Seal mechanic:** [[The Seal of the Shut Mouth]]
+- **Principal villain:** [[Magister Edrik Morn]]
+- **Principal patron:** [[Sexton Adelheid Kern]]
+- **Living complicity:** [[Helene Bruch]]
+- **Independent predator:** [[Mournfang]]
+- **Ghoul faction:** [[The Wane-Warren]]
+- **Creature translation:** [[Grave-Runners]]
 
 ## Controlling Canon
 
+- [[Wanemoor District]]
+- [[The Duchy of Brauvalis Overview]]
+- [[Eclessian Daily Life and the Year of the Flame]]
+- [[The Mundane Layer — Residue, Vermin, and the Delver Trade]]
+- [[Ghouls]]
+- [[Soul Routing and the Vestibule]]
 - [[Gazetteer of the Known World]]
-- [[Setting Commandments]]
 
 ## Research Basis
 
-Checked against the publisher or catalog record for [GameMastery Module D4: Hungry Are the Dead](https://paizo.com/search?q=GameMastery%20Module%20D4%3A%20Hungry%20Are%20the%20Dead) and reputable adventure overviews. The summary above records structure rather than protected encounter text.
+- [Paizo product page for GameMastery Module D4: Hungry Are the Dead](https://paizo.com/products/btpy85en)
+- Published module text, checked against the publisher's description and spoiler-bearing product discussion, was used to verify Drazmorg, the seal, the monastery, and the original adventure sequence.
+- [d20PFSRD conversion index confirming the principal original adversary types](https://www.d20pfsrd.com/bestiary/fan-conversions/adventure-paths/gamemastery-modules/hungry-are-the-dead/)
+- [Archives of Nethys festrog reference](https://www.aonprd.com/MonsterDisplay.aspx?ItemName=Festrog)
 
-## Blocking Needs
-
-- Name the principal patron, antagonist, threatened community, and final location.
-- Convert the preserved structure into a scene-by-scene branch outline before promotion beyond seed status.
+The summary records plot structure and design facts without reproducing protected encounter text.
