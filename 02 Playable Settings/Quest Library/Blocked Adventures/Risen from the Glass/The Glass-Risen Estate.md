@@ -1,10 +1,10 @@
 ---
 type: place
-status: draft
+status: canon
 canon_level: local
 visibility: author-only
 era: ["Age of Chains", "Present Day"]
-region: ["Great Glass Desert", "Covenant caravan roads"]
+region: ["Al-Qahur", "Glass frontier"]
 culture: ["Ishkatar", "Ahl-e-Ahd", "Jirahar"]
 related_factions: ["Breach-Court of Qasr Ilyun", "Caravan of the Bent Reed", "Brass Jackals"]
 appears_in: ["Risen from the Glass"]
@@ -54,7 +54,7 @@ Secret possession is particularly dangerous. A grave object removed without inve
 
 ## Canon Boundary
 
-The estate proves that Ishkatar used funerary ownership magic and that Avarix could preserve an appetite through title and residue. It does not explain the creation of the Great Glass Desert, establish that all Ishkatar tombs work identically, or make Covenant courts the universal heirs of Giant-Age ruins.
+The estate proves that Ishkatar used funerary ownership magic and that Avarix could preserve an appetite through title and residue. It does not explain the creation of the Great Glass Desert, establish that all Ishkatar tombs work identically, or make Qahuri breach-courts the universal heirs of Giant-Age ruins.
 
 ## Navigation
 

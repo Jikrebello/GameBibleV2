@@ -1,6 +1,6 @@
 ---
 type: character
-status: draft
+status: canon
 canon_level: local
 visibility: author-only
 era: ["Present Day"]
@@ -9,7 +9,7 @@ culture: ["Folk"]
 related_factions: ["The Cloven"]
 appears_in: ["The Bright-Fire Carnival"]
 needs:
-  - decide her post-adventure disposition once the canonical ending is selected
+  - define her post-adventure disposition for each ending branch reached in play
 tags: [module-conversion, game-ready]
 ---
 # Sisrin the Alder-Maid
@@ -28,7 +28,7 @@ She is proud of the claim and will state it plainly to anyone who addresses her 
 
 ## The Mistake
 
-She took a guarantee from [[The Rime Rider]]. It came to her as an ally of the wronged, offering to *ensure* the collection succeeded, and she accepted in the grove's name. What the Rider actually did was buy a share of the grievance and inflate its coin — reclassifying the debt from the guilty crews to the whole town, and setting the third-night bonfires as a harvest. Faewild law binds Sisrin to the bargain she struck. She cannot simply call it off.
+She took a guarantee from [[The Rime Rider]]. It came to her as an ally of the wronged, offering to *ensure* the collection succeeded, and she accepted in the grove's name. What the Rider actually did was fasten itself to the grievance and inflate its coin — reclassifying the debt from the guilty crews to the whole town, and setting the third-night bonfires as a harvest. Faewild law binds Sisrin to the bargain she struck. She cannot simply call it off.
 
 This is her tragedy and the party's opening: she wants the guilty to pay the *original* debt before the third night, because payment would satisfy her claim and strip the Rider of the pretext it is riding.
 

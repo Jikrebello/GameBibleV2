@@ -1,6 +1,6 @@
 ---
 type: creature
-status: draft
+status: canon
 canon_level: local
 visibility: author-only
 era: ["Wars of Reform", "Present Day"]

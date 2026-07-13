@@ -5,8 +5,11 @@ canon_level: local
 visibility: author-only
 source: "PZO9500-8 Risen From the Sands"
 era: ["Present Day", "Age of Chains"]
-region: ["Great Glass Desert", "Covenant caravan roads"]
-culture: ["Ishkatar", "Ahl-e-Ahd", "Jirahar"]
+region:
+  - Al-Qahur Glass frontier
+culture:
+  - Qahuri
+  - Jirahar
 related_factions: ["Breach-Court of Qasr Ilyun", "Caravan of the Bent Reed", "Brass Jackals"]
 appears_in: ["Risen from the Glass"]
 needs:
@@ -54,7 +57,7 @@ Thousands of years later, a sandstorm exposes the lost pyramid. Archaeologists a
 
 ## Conversion Diagnosis
 
-### What Is Worth Keeping
+### Preserve
 
 - A violent storm revealing a tomb that should have remained buried.
 - Rival expeditions racing toward a short-lived opening.
@@ -66,7 +69,7 @@ Thousands of years later, a sandstorm exposes the lost pyramid. Archaeologists a
 - A final antagonist who speaks, demands submission, and can be weakened through understanding his tomb.
 - A compact ancient-ruin adventure suitable for an early party.
 
-### What Needs Rebuilding
+### Replace
 
 - The race must alter the adventure. Arrival order should determine rival access, preparation time, and whom the tomb recognizes as claimant.
 - Desert travel needs a real purpose without becoming a week of random encounters. Route choice should trade speed, supplies, evidence, and allies.
@@ -78,7 +81,7 @@ Thousands of years later, a sandstorm exposes the lost pyramid. Archaeologists a
 - Covenant law should provide a few potent tools, not turn every scene into an audit. Stone, glass, traps, rivals, dead servants, and exploration remain the adventure's substance.
 - The grave goods need an ethical and political future. Gold stolen from slaves cannot simply be awarded to the fastest looter or presumed to belong to the dead tyrant.
 
-## World Egg Conversion Seed
+## Exact World Egg Placement
 
 **The conversion:** a glass-storm exposes [[The Glass-Risen Estate]], a minor Ishkatar funerary complex at the desert's edge. Its master was [[Sethrak the Final Receiver]], a human priest of Avarix who converted confiscated homes, names, and lives into the perpetual property of his temple. A Jirahar Road Company, Covenant officials, and the [[Brass Jackals]] converge before the next storm buries it again.
 
@@ -96,8 +99,25 @@ Thousands of years later, a sandstorm exposes the lost pyramid. Archaeologists a
 - [[Estate Dead]]
 - [[Gilded Wardens]]
 
+## Blocking Needs
+
+- The adventure is fully blocked in [[Risen from the Glass — Full Adventure]].
+- Remaining needs are the numerical or implementation-dependent items listed in frontmatter; the premise and ending branches are already defined.
+
 ## Research Basis
 
 - [Paizo product page](https://paizo.com/products/btpy959k?Pathfinder-Module-Risen-from-the-Sands=)
 - [Detailed play review and synopsis](https://jhaeman.blogspot.com/2018/05/risen-from-sands-pathfinder-module-rpg.html)
 - [Module transcription used to check room order and ending](https://dokumen.pub/pathfinder-module-risen-from-the-sands.html)
+
+## Translated Adventure Core
+
+- **Premise:** reach a newly exposed Ishkatar estate on Al-Qahur's Glass frontier before storm, rival claimants, and the tomb's own classifications seal it again.
+- **Conflict:** the party must rescue people whom the estate has assigned as property while assembling the seal and evidence needed to break its rules.
+- **Antagonist:** Sethrak the Final Receiver and his estate-dead machinery, with the Brass Jackals and rival claimants creating human pressure around the tomb.
+- **Consequences:** captives are restored or retained, the estate is closed or reactivated, and Qahuri, Jirahar, and private expedition claims leave the frontier with different truths and dangers.
+
+## Controlling Canon
+
+- [[Ahl-e-Ahd Canon Register]]
+- [[Jirahar Canon Register]]

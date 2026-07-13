@@ -1,11 +1,11 @@
 ---
 type: faction
-status: draft
+status: canon
 canon_level: local
 visibility: author-only
 era: ["Present Day"]
-region: ["Thalmyria", "Military Province of Arkena", "The Drakesfall Vale"]
-culture: ["Thalmyric", "Sestaran"]
+region: ["Thalmyria", "Kingdom of Vlastrava", "The Drakesfall Vale"]
+culture: ["Thalmyric", "Vortharan"]
 related_factions: ["The Concord of Weights", "Thalmyric Empire", "Thalmyric Church"]
 appears_in: ["The Drakesfall"]
 needs:
@@ -15,11 +15,11 @@ tags: [module-conversion, game-ready]
 ---
 # The Vharo Concession
 
-The Vharo Concession is the antagonist structure of [[The Drakesfall]]: a legal grant to harvest the drakes' death-vale, and the Vorthara-backed company working it. It is named for the Arkenan military governor who sold it, and it is dangerous less for its blades than for its paper — a lawful-looking claim over a holy site, armored by frontier law and financed by the appetite of the [[The Concord of Weights|weights-houses]].
+The Vharo Concession is the antagonist structure of [[The Drakesfall]]: a legal grant to harvest the drakes' death-vale, and the Vorthara-backed company working it. It is named for the Vlastravan military governor who sold it, and it is dangerous less for its blades than for its paper — a lawful-looking claim over a holy site, armored by frontier law and financed by the appetite of the [[The Concord of Weights|weights-houses]].
 
 ## The Grant
 
-Governor Konstantin Vharo is the military governor of the Arkenan district that includes the [[The Drakesfall Vale|Drakesfall]]. Under the Military Province of Arkena's land-for-service custom, a military governor may grant crown-land and its rights in exchange for service and fees — an emergency power meant for settling soldiers and supplying campaigns, which corrupt governors stretch into personal rule.
+Governor Konstantin Vharo is the military governor of the Vlastravan highland district that includes the [[The Drakesfall Vale|Drakesfall]]. Under the Kingdom of Vlastrava's frontier land-for-service custom, a military governor may grant crown-land and its rights in exchange for service and fees — an emergency power meant for settling soldiers and supplying campaigns, which corrupt governors stretch into personal rule.
 
 Vharo sold a harvesting concession over "unclaimed mineral rights in vacant highland crown-land." The description is legally defensible and factually a lie: the vale is neither vacant (the Cyrian Skete tends it) nor mineral (heart-gems are crystallized Faewild law, not ore). Vharo either did not ask or did not want to know — and the evidence suggests he knew exactly what he was selling.
 
@@ -39,7 +39,7 @@ The company is not a warband. It is a business with a legal department, and its 
 
 ## Why It Is Legal, and Why That Isn't a Defense
 
-A lot of drake heart-gems is a Concord-of-Weights-grade fortune, standardizable and fungible, which is why the weights-houses want the vale emptied and will defend the grant to the last clause. The concession's whole strategy is to make the harvest a paperwork fact before anyone with standing can stop it. That the paper is valid is a truth about Arkena's frontier law — not an excuse for emptying a holy site, breaking its slow return, and getting its keepers killed.
+A lot of drake heart-gems is a Concord-of-Weights-grade fortune, standardizable and fungible, which is why the weights-houses want the vale emptied and will defend the grant to the last clause. The concession's whole strategy is to make the harvest a paperwork fact before anyone with standing can stop it. That the paper is valid is a truth about Vlastrava's frontier law — not an excuse for emptying a holy site, breaking its slow return, and getting its keepers killed.
 
 ## How It Can Be Broken
 
@@ -59,5 +59,5 @@ Even a total defeat here — the dig stopped, the grant voided, Vharo discipline
 - [[Corvane Sisk]]
 - [[The Drakesfall Vale]]
 - [[The Concord of Weights]]
-- [[The Military Province of Arkena Overview]]
+- [[The Kingdom of Vlastrava Overview]]
 - [[The Citadel of Vorthara Overview]]

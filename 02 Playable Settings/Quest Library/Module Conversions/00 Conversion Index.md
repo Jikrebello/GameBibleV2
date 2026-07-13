@@ -1,9 +1,10 @@
 ---
 type: index
-status: draft
+status: canon
 canon_level: local
 visibility: author-only
-era: []
+era:
+  - Present Day
 region: []
 culture: []
 related_factions: []
@@ -11,40 +12,148 @@ appears_in: []
 needs: []
 tags:
   - module-conversion
+  - game-ready
 ---
-# Pathfinder Module Conversions — Index
+# Adventure Conversion Index
 
-Triage of the PF1e standalone module library: **42 converted** (one file each, this folder) and **8 discarded** (with reasons). Conversion rules per [[The Conversion Library — Classic Adventures Recontextualized]]: keep the play-tested skeleton, replace the flesh with Lives-file people and Numbers-doc stakes, assign tiers honestly.
+This is the authoritative map for the **61 active adventure conversions**.
 
-## Converted (26)
+- **Fully Blocked: 13** - local premise, cast, locations, threats, and branchable ending states have dedicated canon dossiers.
+- **Canon-Locked: 48** - source structure, World Egg placement, culture, premise, and conversion ruling are stable; scene blocking remains.
+- **Seed: 0** - no active conversion remains an unplaced log line.
 
-**Starters/Tutorials:** [[The Timberfalls Fever]] (D0) · [[The Broken Tower]] (Fallen Fortress) · [[Into the Old Wood]] (TC1) · [[The Founder's Lamp]] (Everflame) · [[The Ossuary Heresy]] (Godsmouth) · [[Risen from the Glass]] (Risen from the Sands)
+A fully blocked adventure makes its starting situation canon. Player outcomes remain open.
 
-**Tier W:** [[The Warren Under the Mission]] (D1+D1.5) · [[The Saint of the Morning Quarter]] (Scarlet Sun) · [[The Severin Panels]] (U1) · [[Entombed with the Court]] (J1) · [[The Drakesfall]] (J2) · [[The Gallows Court]] (U2) · [[The Second Brannoc]] (W3) · [[The God of the Open Hand]] (Masks) · [[The Feast at Wanemoor]] (Ravenmoor) · [[No Word from Claim Seventeen]] (Deepmar) · [[The Winter Keep]] (Daughters of Fury)
+## Grenzburg and Folk Frontier (12)
 
-**Tier W→3 / Tier 3:** [[The Seven Edges]] (D2 — the Idol blades) · [[The Bright-Fire Carnival]] (E1) · [[The Uninvited Court]] (Fellnight) · [[The Shuffled House]] (Harrowing) · [[The Star over Dustfeld]] (Dustpawn — Nythalum) 
+### Fully Blocked
 
-**Tier F / campaigns:** [[The Duke's Road]] (W1) · [[Breach-Week]] (Academy of Secrets) · [[The Drake's Demand]] · [[The Green Spire]] (Emerald Spire — the Expanse superdungeon)
+- [[Chapel-Ford]]
+- [[Into the Old Wood]]
+- [[The Bright-Fire Carnival]]
+- [[The Broken Tower]]
 
-## Second Wave (16 converted)
+### Canon-Locked
 
-**Borders, law, and investigation:** [[The Accord's Hollow Keep]] (Fangwood Keep) · [[The Garden of Stolen Names]] (Broken Chains) · [[Murder at Lantern Fair]] (Murder's Mark) · [[The Last Baron of Brauvalis]] (LB1 Tower of the Last Baron)
+- [[The Duke's Road]]
+- [[The First Writ]]
+- [[The Timberfalls Fever]]
+- [[The Warren Under the Mission]]
+- [[The Commandery at World's Hem]]
+- [[The Undergrove]]
+- [[The Uninvited Court]]
+- [[The Weeping Vale]]
 
-**Sea and expedition:** [[The Three Perils of the Shattered Isles]] (Plunder & Peril) · [[The Drowned Bell of Soligrad]] (From Shore to Sea) · [[The Chimera Cache]] (LB2 Treasure of Chimera Cove) · [[The River Beyond Castara]] (W2 River into Darkness)
+## Eclessia (13)
 
-**Dungeons and buried systems:** [[The Dead Press Upward]] (Hungry Are the Dead) · [[The Stone Before the Covenant]] (J4 Pact Stone Pyramid) · [[The Gilded City of Avarix]] (City of Golden Death) · [[The Iron Diadem]] (Tomb of the Iron Medusa)
+### Fully Blocked
 
-**Institutions and supernatural crises:** [[The Reborn Arsenal]] (Wardens of the Reborn Forge) · [[The Midnight Glass]] (The Midnight Mirror) · [[The Grand Circuit]] (Ruby Phoenix Tournament) · [[The Horror Beneath Blackspire]] (Carrion Hill)
+- [[The Accord's Hollow Keep]]
 
-## Third Wave — the Classics (2 converted)
+### Canon-Locked
 
-**Comedy and spectacle:** [[The Bailiff's Ram]] (A Wild Sheep Chase) · [[The Bragging Vault]] (S2 White Plume Mountain — the three Trophy-Arms, an audition sold as a dare)
+- [[The Dead Press Upward]]
+- [[The Drake's Demand]]
+- [[The Feast at Wanemoor]]
+- [[The Founder's Lamp]]
+- [[The Gallows Court]]
+- [[The God of the Open Hand]]
+- [[The Last Baron of Brauvalis]]
+- [[The Midnight Glass]]
+- [[The Reborn Arsenal]]
+- [[The Saint of the Morning Quarter]]
+- [[The Second Brannoc]]
+- [[The Tithe-House]]
 
-## Discarded (and why)
+## Thalmyria (8)
 
-*The Witchwar Legacy* (no Irrisen analog; witch-queen collides with Enaidfae niche) · *Curse of the Riven Sky* (PF giants conflict with Giant-precursor canon) · *The Moonscar* (**flagged future, not dead**: the moon is Nythalum's — a lunar arc is a Tier-3 endgame, not a module) · *J5 Beyond the Vault of Souls* (**flagged future**: touches soul-routing infrastructure directly; needs author-level design, not conversion) · *E2 Blood of Dragonscar* (lvl 15 dragon-lair; true dragons are apocalypse-tier here, not lairs) · *S1 Clash of the Kingslayers* (dwarf-culture dependent; no dwarves in canon) · *J3 Crucible of Chaos* (protean chaos-city duplicates Astral-drift niche less well than The Shuffled House) · *Cult of the Ebon Destroyers* (Vudrani-dependent; the Red Tally covers the assassin-cult niche natively)
+### Fully Blocked
 
-## Navigation
+- [[Murder at Lantern Fair]]
+- [[The Drakesfall]]
 
-- [[Quest Tier Doctrine]]
+### Canon-Locked
+
+- [[The Celion Light]]
+- [[The Drowned Bell of Soligrad]]
+- [[The Iron Diadem]]
+- [[The Ossuary Heresy]]
+- [[The Thirtieth Sister]]
+- [[The Tower That Kept Its Year]]
+
+## Vorthara, Sestaran Cities, and Castaran Expeditions (17)
+
+### Fully Blocked
+
+- [[Breach-Week]]
+- [[Entombed with the Court]]
+- [[No Word from Claim Seventeen]]
+- [[The Bailiff's Ram]]
+- [[The Bragging Vault]]
+
+### Canon-Locked
+
+- [[The Chimera Cache]]
+- [[The Echo Seam]]
+- [[The Grand Circuit]]
+- [[The Green Spire]]
+- [[The Horror Beneath Blackspire]]
+- [[The Latch Jobs]]
+- [[The River Beyond Castara]]
+- [[The Seven Edges]]
+- [[The Severin Panels]]
+- [[The Shuffled House]]
+- [[The Step-Tomb of the Blood Sun]]
+- [[The Three Perils of the Shattered Isles]]
+
+## Covenant, Jirahar, and Ancient Glass (8)
+
+### Fully Blocked
+
+- [[Risen from the Glass]]
+
+### Canon-Locked
+
+- [[The Court That Drank Itself]]
+- [[The Garden of Stolen Names]]
+- [[The Gilded City of Avarix]]
+- [[The Serpent Under Qafra]]
+- [[The Stone Before the Covenant]]
+- [[The Fane of the Braided Flame]]
+- [[The Talga Folios]]
+
+## Tarkhan and Ättar Frontiers (3)
+
+### Canon-Locked
+
+- [[The Star over Dustfeld]]
+- [[The Fallen Spire]]
+- [[The Winter Keep]]
+
+## Linked but Independent Arcs
+
+- [[The Last Baron of Brauvalis]] -> [[The Chimera Cache]]
+- [[Chapel-Ford]] and [[The Commandery at World's Hem]] -> [[The Fane of the Braided Flame]]
+- [[The Star over Dustfeld]] -> [[The Fallen Spire]]
+
+These links share clues and consequences. No adventure requires completion of another.
+
+## Deferred Source Candidates
+
+These are not among the 61 active conversions:
+
+- *The Witchwar Legacy* - no current cultural home strong enough to justify conversion.
+- *Curse of the Riven Sky* - conflicts with Giant-precursor canon.
+- *The Moonscar* - Nythalum endgame material requiring original design.
+- *Beyond the Vault of Souls* - touches soul-routing infrastructure too directly for a source conversion.
+- *Blood of Dragonscar* - true dragons do not fit the adventure's ordinary lair scale.
+- *Clash of the Kingslayers* - depends on a people absent from the setting.
+- *Crucible of Chaos* - duplicates stronger Astral material.
+- *Cult of the Ebon Destroyers* - its adventure role is already occupied by native factions.
+
+## Control
+
 - [[The Conversion Library — Classic Adventures Recontextualized]]
+- [[Quest Tier Doctrine]]
+- [[Setting Commandments]]
+- [[Gazetteer of the Known World]]

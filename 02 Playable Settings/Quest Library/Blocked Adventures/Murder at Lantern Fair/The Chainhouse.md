@@ -1,6 +1,6 @@
 ---
 type: faction
-status: draft
+status: canon
 canon_level: local
 visibility: author-only
 era: ["Present Day"]
@@ -65,7 +65,7 @@ The operation fails if the party links Cart Twelve, copied keys, Chainhouse lamp
 
 ## Aftermath
 
-Removing the Vallins leaves Halmenth with a real economic problem. The town still needs warehouses, cranes, carts, and bonded custody. Possible successors include a worker partnership, several smaller licensed stores, a council warehouse, or a Sestaran concession whose cleaner books bring different forms of dependence.
+Removing the Vallins leaves Halmenth with a real economic problem. The town still needs warehouses, cranes, carts, and bonded custody. Possible successors include a worker partnership, several smaller licensed stores, a council warehouse, or a Vardessan concession whose cleaner books bring different forms of dependence.
 
 ## Navigation
 

@@ -5,8 +5,10 @@ canon_level: local
 visibility: author-only
 source: "A Wild Sheep Chase"
 era: ["Present Day"]
-region: ["Vorthara", "Vortharan Highlands", "Bent Bough Lodge"]
-culture: ["Sestaran", "Vortharan"]
+region:
+  - Vorthara
+culture:
+  - Vortharan
 related_factions: ["House of Mutable Form", "Vortharan Recovery Office"]
 appears_in: ["The Bailiff's Ram"]
 needs:
@@ -58,7 +60,7 @@ Shinebright remains a prisoner in his own garden for two years. When Noke leaves
 
 ## Conversion Diagnosis
 
-### What Is Worth Keeping
+### Preserve
 
 - A ridiculous animal messenger interrupting an ordinary meal.
 - A speech-scroll that lets an arrogant transformed person explain the problem personally.
@@ -71,7 +73,7 @@ Shinebright remains a prisoner in his own garden for two years. When Noke leaves
 - Turning a bed into a profoundly unconvincing dragon for the climax.
 - A damaged restoration tool that makes the final choice meaningful.
 
-### What Needs Rebuilding
+### Replace
 
 - Shinebright and Noke's century-scale apprenticeship should become Vorthara's tuition-bond system, where human lifetimes and post-study service are already priced directly.
 - The ram cannot be an innocent victim whose own exploitation of a poorer assistant is ignored. His wrongdoing needs restitution without validating bodily enslavement.
@@ -84,7 +86,7 @@ Shinebright remains a prisoner in his own garden for two years. When Noke leaves
 - Contract clauses should create options and reversals, but the module must remain a fast physical comedy rather than a prolonged hearing.
 - The aftermath must decide who regains a body, what debt remains, who receives credit for stolen work, and whether the school may keep writing body-collateral bonds.
 
-## World Egg Conversion Seed
+## Exact World Egg Placement
 
 **The conversion:** a ram named [[Tavian Sorel]] interrupts lunch carrying a notarized speech-scroll. He is a Vortharan washout transformed under a tuition-bond clause after fleeing compulsory service at the [[House of Mutable Form]]. The school's recovery bailiff, [[Nera Voss]], arrives with [[Collateral Beasts]] made from other debtors and demands her ram back.
 
@@ -103,7 +105,25 @@ Shinebright remains a prisoner in his own garden for two years. When Noke leaves
 - [[Collateral Beasts]]
 - [[Form-Ruins]]
 
+## Blocking Needs
+
+- The adventure is fully blocked in [[The Bailiff's Ram — Full Adventure]].
+- Remaining needs are the numerical or implementation-dependent items listed in frontmatter; the premise and ending branches are already defined.
+
 ## Research Basis
 
 - [Winghorn Press adventure page](https://winghornpress.com/adventures/a-wild-sheep-chase/)
 - [Official free adventure PDF](https://winghornpress.com/wp-content/uploads/2018/02/the_wild_sheep_chase_v2.pdf)
+
+## Translated Adventure Core
+
+- **Premise:** protect and restore a transformed Vortharan student when his school's private recovery officer arrives to reclaim him as House property.
+- **Conflict:** Tavian owes real credit and compensation to Nera, but the House's bodily collateral practice and Nera's unsafe methods remain wrong.
+- **Antagonist:** Nera Voss in her capacity as House bailiff, backed by Collateral Beasts and an unstable Reversion Crook.
+- **Consequences:** Tavian is restored, surrendered, or left transformed; Nera receives justice or revenge; and the House of Mutable Form's Fleshweaver practices are reformed, exposed, or emboldened.
+
+## Controlling Canon
+
+- [[Sestaran Canon Register]]
+- [[The Citadel of Vorthara Overview]]
+- [[The Fleshweavers and The Red Covenant]]

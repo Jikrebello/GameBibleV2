@@ -1,11 +1,11 @@
 ---
 type: place
-status: draft
+status: canon
 canon_level: local
 visibility: author-only
 era: ["Present Day", "Age of Chains"]
 region: ["Shattered Isles", "Morrow Atoll"]
-culture: ["Sestaran", "Castaran", "Nythalum"]
+culture: ["Castaran", "Nythalum"]
 related_factions: ["Valcori Passage and Extraction Company", "University of Castara"]
 appears_in: ["No Word from Claim Seventeen"]
 needs:

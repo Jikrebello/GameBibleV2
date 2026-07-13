@@ -1,12 +1,12 @@
 ---
 type: quest
-status: draft
+status: canon
 canon_level: local
 visibility: author-only
 source: "Translated from Pathfinder Module: Murder's Mark"
 era: ["Present Day"]
 region: ["Thalmyria", "Saltborn Coast", "Halmenth"]
-culture: ["Saltborn", "Thalmyric", "Sestaran", "Folk"]
+culture: ["Saltborn", "Thalmyric", "Vardessan", "Folk"]
 related_factions: ["The Turning Lantern Company", "The Chainhouse", "Thalmyric Church"]
 appears_in: ["Murder at Lantern Fair"]
 needs:
@@ -36,7 +36,7 @@ tags: [module-conversion, game-ready]
 - **What:** determine who killed Gerhard Lenz and Alena Naris, protect the fair from collective punishment, stop the theft of its credit chest, and present an evidence chain that identifies the Vallins.
 - **Where:** Halmenth on the River Celion, the Lantern Meadow outside its river gate, Lenz Bonded House, Saint Naris chapel, Rook House, and Warehouse Nine above the Chainhouse undercroft.
 - **Why the party acts:** Mara hires them after seeing their competence; Klara needs investigators not tied to Halmenth's merchant factions; the party knows one of the performers; or it is present when the lantern mast fails.
-- **Why the murders happen:** the fair charter permits direct trade and Sestaran settlement, bypassing the Chainhouse's storage charges, short loans, and control of dock labor. Lenz opposed an exclusive warehouse concession. Alena learned enough to make the frame collapse.
+- **Why the murders happen:** the fair charter permits direct trade and Vardessan settlement, bypassing the Chainhouse's storage charges, short loans, and control of dock labor. Lenz opposed an exclusive warehouse concession. Alena learned enough to make the frame collapse.
 - **How it escalates:** each murder increases public fear, the Vallins convert that fear into formal quarantine, and the final riot gives them cover to seize the chest and destroy the fair's records.
 
 ## Canon and Moral Ruling
@@ -49,7 +49,7 @@ The case has an objective answer. Familiarity, ethnicity, itinerancy, and profit
 
 ## Lantern Week in Halmenth
 
-Lantern Week falls in Emberrise, when Halmenth relights its harbor and river beacons, blesses the first full sailing convoys, and settles winter trade. Children carry lantern jars through the streets; Saltborn crews hang keel-lamps from poles; Sestaran factors open temporary exchange tables; and highland and steppe traders arrive with pelts, honey, herbs, and carved winter work.
+Lantern Week falls in Emberrise, when Halmenth relights its harbor and river beacons, blesses the first full sailing convoys, and settles winter trade. Children carry lantern jars through the streets; Saltborn crews hang keel-lamps from poles; Vardessan factors open temporary exchange tables; and highland and steppe traders arrive with pelts, honey, herbs, and carved winter work.
 
 The Turning Lantern Company's charter grants it seven days on Lantern Meadow. Company merchants may sell directly, settle letters through their own chest, and rent temporary stalls without placing all goods in Halmenth bonded storage.
 
@@ -59,7 +59,7 @@ This arrangement is popular with small merchants and hated by the Chainhouse. He
 
 The chest is not a box overflowing with coin. It contains:
 
-- authenticated Sestaran letters of credit;
+- authenticated Vardessan letters of credit;
 - fair-company partnership rolls;
 - merchant deposits and settlement tallies;
 - dies and seals used to verify paper;
@@ -97,7 +97,7 @@ The plan changes in response to the party. Hester is willing to abandon the murd
 |---|---|---|---|
 | [[Mara Tide-Knot]] | Proprietor of the Turning Lantern Company | Preserve the company, charter, and people | The location and full value of the portable credit chest |
 | **Osric Sealsson** | Saltborn rigging-knife performer | Clear his name and recover his grandfather's knife | He struck Lenz during an argument two years earlier and fears the history will be treated as motive |
-| **Tessa Marin** | Sestaran treasurer and exchange keeper | Keep every merchant deposit intact | She moved the credit chest during the first murder and initially refuses to reveal where |
+| **Tessa Marin** | Vardessan treasurer and exchange keeper | Keep every merchant deposit intact | She moved the credit chest during the first murder and initially refuses to reveal where |
 | **Elof Reed-Step** | Folk rope-dancer and lamp-climber | Be treated as a professional, not a curiosity | He saw a Chainhouse tally coat backstage but was drinking where company rules forbid it |
 | **Gerhard Lenz** | Public weighmaster and bonded-house owner | Before death, block the Chainhouse concession | He had begun quietly collecting evidence of false warehouse weights |
 | **Sister Alena Naris** | Chapel mediator and harbor priest | Stop collective blame and establish the truth | She received an unsigned note from Niko Pell identifying a hidden Chainhouse night door |
@@ -137,7 +137,7 @@ Three packets convince Klara to delay arrests. Four justify a search of Warehous
 
 ### Beat 1: The Company Arrives
 
-The Turning Lantern Company enters Halmenth in procession. Saltborn rope-workers raise keel-lamps, Sestaran sellers unfold painted stalls, Folk performers walk the high lines, and local apprentices join the parade for the price of wearing a paper crown.
+The Turning Lantern Company enters Halmenth in procession. Saltborn rope-workers raise keel-lamps, Vardessan sellers unfold painted stalls, Folk performers walk the high lines, and local apprentices join the parade for the price of wearing a paper crown.
 
 Give the party time to participate:
 
@@ -389,7 +389,7 @@ Evidence determines what can be proved. Town Temper and the party's conduct dete
 
 ### The Lanterns Hold
 
-Evidence is 5+, the chest remains secure, and Town Temper ends at 2 or lower. The Vallins are convicted or publicly exposed, stolen property is returned, and the Turning Lantern charter survives. Halmenth creates an independent weighing office and bars any single warehouse partnership from controlling fair settlement. This is the strongest continuation.
+Evidence is 5+, the chest remains secure, and Town Temper ends at 2 or lower. The Vallins are convicted or publicly exposed, stolen property is returned, and the Turning Lantern charter survives. Halmenth creates an independent weighing office and bars any single warehouse partnership from controlling fair settlement. This is the most restorative continuation.
 
 ### Truth After the Fire
 
@@ -416,7 +416,7 @@ The Chainhouse falls but Hester escapes with selected credit letters and seal di
 - Halmenth either reforms or consolidates its warehouse economy.
 - The Turning Lantern Company becomes a trusted recurring location, a wounded road community, or a fugitive fair.
 - The party gains a reputation for evidence-based investigation and public crisis work.
-- Small Saltborn, Folk, and Sestaran traders retain or lose access to direct fair settlement.
+- Small Saltborn, Folk, and Vardessan traders retain or lose access to direct fair settlement.
 - Bailiff Klara Wess becomes an ally, compromised official, or casualty of merchant politics.
 - The Vallins are convicted, privately protected, or transformed into recurring commercial antagonists.
 

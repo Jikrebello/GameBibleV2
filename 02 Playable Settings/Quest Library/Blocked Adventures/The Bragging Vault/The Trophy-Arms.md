@@ -1,16 +1,16 @@
 ---
 type: mechanic
-status: draft
+status: canon
 canon_level: local
 visibility: author-only
 era: ["Present Day"]
 region: ["Vorthara", "Vortharan geothermal district"]
-culture: ["Sestaran", "Vortharan"]
+culture: ["Vortharan"]
 related_factions: ["The Vaunt's Stable", "Crafters' Union", "Fleshweavers"]
 appears_in: ["The Bragging Vault"]
 needs:
   - assign exact bonuses, activation costs, and failure states for each arm in the chosen game system
-  - decide which arms survive to become player equipment after the canonical ending
+  - define which arms survive as player equipment for each ending branch reached in play
 tags: [module-conversion, game-ready, artifact]
 ---
 # The Trophy-Arms

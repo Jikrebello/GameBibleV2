@@ -1,15 +1,15 @@
 ---
 type: character
-status: draft
+status: canon
 canon_level: local
 visibility: author-only
 era: ["Present Day"]
-region: ["Grenzburg approaches", "Velian border", "The Kestrel Tower"]
+region: ["Dornwatch", "Grenzburg", "The Kestrel Tower"]
 culture: ["Folk"]
 related_factions: ["The Folk Clans", "The Medori Bank"]
 appears_in: ["The Broken Tower"]
 needs:
-  - decide his post-adventure fate once the canonical ending is selected
+  - define his post-adventure fate for each ending branch reached in play
 tags: [module-conversion, game-ready]
 ---
 # Torvald Ghost-Foot
@@ -30,7 +30,7 @@ He came to the Kestrel Tower because the quake had emptied it and no one else wa
 
 When the Bank sent surveyor Ivo Kesler to assess the cracked fort, Torvald recognized the seal and took him. It was not a plan so much as a reflex — the first Bank thing to come within reach in two years of being unheard. He has not harmed Kesler. He feeds him, keeps him bound, and argues his case at him nightly, because Kesler is the only person in the world currently obliged to listen.
 
-His demand is small and, as he has framed it, impossible: the Bank must admit the survey was wrong and restore his family's title. He does not know the quake lapsed the fort's charter, or that the Bank now wants the tower more than it wants its man back.
+His demand is small and, as he has framed it, impossible: the Bank must admit the survey was wrong and restore his family's title. He does not know that Kesler entered with two local guides whose safety his standoff now endangers.
 
 ## Character
 
@@ -49,7 +49,7 @@ If the party storms the top floor, Torvald is a single desperate defender — lo
 
 ## Continuation
 
-Torvald can become a restored clansman whose title the Bank quietly corrected, a fugitive who slips the tower when the standoff breaks, a cautionary name in Dornwatch, or — if the party spends the salvage claim well — a man who got his hearing because outsiders finally read his paperwork.
+Torvald can become a restored clansman whose title the Bank quietly corrected, a fugitive who slips the tower when the standoff breaks, a cautionary name in Dornwatch, or a man who got his hearing because outsiders saved everyone he endangered and then read his papers.
 
 ## Navigation
 

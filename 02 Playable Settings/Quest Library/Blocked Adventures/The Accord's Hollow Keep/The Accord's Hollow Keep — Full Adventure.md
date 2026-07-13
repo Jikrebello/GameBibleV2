@@ -1,6 +1,6 @@
 ---
 type: quest
-status: draft
+status: canon
 canon_level: local
 visibility: author-only
 source: "Translated from Pathfinder Module: Fangwood Keep"
@@ -419,7 +419,7 @@ Evidence can include Othmar's confession, rescued originals, Sabine's notes, the
 
 ### The Joint Watch Restored
 
-Sabine is stopped, Living Recovered is 3+, Accord Stability is +1 or better, and both relief columns receive the truth. The Muster is healed or jointly sealed. Hollow Keep returns to a mixed garrison under a new commander, and the Night of Broken Bells enters the public record. This is the strongest continuation.
+Sabine is stopped, Living Recovered is 3+, Accord Stability is +1 or better, and both relief columns receive the truth. The Muster is healed or jointly sealed. Hollow Keep returns to a mixed garrison under a new commander, and the Night of Broken Bells enters the public record. This is the most restorative continuation.
 
 ### Korrheim Holds the Walls
 

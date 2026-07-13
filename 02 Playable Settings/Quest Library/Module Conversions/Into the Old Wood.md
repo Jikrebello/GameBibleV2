@@ -5,8 +5,12 @@ canon_level: local
 visibility: author-only
 source: "PZO9500-TC1 Into the Haunted Forest"
 era: ["Present Day"]
-region: ["Sylvan Marches", "Old Wood"]
-culture: ["Eclessian", "Folk"]
+region:
+  - Grenzburg
+  - Folk frontier
+culture:
+  - Folk
+  - Chapel-Folk
 related_factions: ["The Briar Lances", "Grey-Withy"]
 appears_in: ["Into the Old Wood"]
 needs:
@@ -53,7 +57,7 @@ The druid Willowroot recovered the Panoply and returned its pieces to sites matc
 
 ## Conversion Diagnosis
 
-### What Is Worth Keeping
+### Preserve
 
 - A starter adventure built around learning one bounded wilderness.
 - A roadside warning, a memorable inn, and a rival adventuring crew.
@@ -63,7 +67,7 @@ The druid Willowroot recovered the Panoply and returned its pieces to sites matc
 - Rivals who can race, interfere, betray one another, or be rescued.
 - A final confrontation at an abandoned inn where settlement once tried to manage the wood.
 
-### What Needs Rebuilding
+### Replace
 
 - The original depends on the party finding one hidden dagger, accepting an inevitable brawl, being blamed for another person's loss, and submitting to a coercive debt. The translated hook should be voluntary and intelligible.
 - Five weak elemental objects produce repetition without deepening the story. The three heirlooms in the conversion seed can each embody one specific broken promise.
@@ -73,7 +77,7 @@ The druid Willowroot recovered the Panoply and returned its pieces to sites matc
 - The final Wooden Protector is visually strong but morally empty. Its World Egg counterpart should preserve the person and wrong that created it.
 - Recovery should not automatically mean justice. The heir must decide whether to repair the compact or merely regain the symbols of authority.
 
-## World Egg Conversion Seed
+## Exact World Egg Placement
 
 **The conversion:** [[Lord Lucan Harrowfen]] cannot be acclaimed as a Marcher lord without the sword, cup, and seal of his house. His grandfather said the heirlooms were lost in the Old Wood. In truth, the wood took them as forfeit after he closed a shared road, dammed free water, and killed a Folk witness who entered his lodge under hearth-law.
 
@@ -88,7 +92,24 @@ The druid Willowroot recovered the Panoply and returned its pieces to sites matc
 - [[The Briar Lances]]
 - [[Oathwood Wardens]]
 
+## Blocking Needs
+
+- The adventure is fully blocked in [[Into the Old Wood — Full Adventure]].
+- Remaining needs are the numerical or implementation-dependent items listed in frontmatter; the premise and ending branches are already defined.
+
 ## Research Basis
 
 - [Paizo product description and discussion](https://paizo.com/products/btpy80so/discuss?GameMastery-Module-TC1-Into-the-Haunted-Forest=)
 - [Detailed play review and synopsis](https://jhaeman.blogspot.com/2020/01/pathfinder-module-into-haunted-forest.html)
+
+## Translated Adventure Core
+
+- **Premise:** recover the sword, cup, and seal Lord Lucan needs for acclamation from an Old Wood that holds them as payment for his grandfather's crimes.
+- **Conflict:** each heirloom can be taken by force or redeemed by repairing the specific broken promise its guardian remembers, while a rival recovery crew closes in.
+- **Antagonist:** the Briar Lances and the violent residue of Harrowfen's inherited breach; the wood itself is an exacting witness, not an evil mastermind.
+- **Consequences:** Lucan is acclaimed, disqualified, or forced into restitution, and the marcher court either proves or breaks its ability to keep faith with Folk law.
+
+## Controlling Canon
+
+- [[Folk Canon Register]]
+- [[Grenzburg MOC]]

@@ -1,11 +1,11 @@
 ---
 type: character
-status: draft
+status: canon
 canon_level: local
 visibility: author-only
 era: ["Present Day"]
-region: ["Thalmyria", "Military Province of Arkena", "The Drakesfall Vale"]
-culture: ["Sestaran", "Thalmyric"]
+region: ["Thalmyria", "Kingdom of Vlastrava", "The Drakesfall Vale"]
+culture: ["Vortharan", "Thalmyric"]
 related_factions: ["The Vharo Concession"]
 appears_in: ["The Drakesfall"]
 needs:

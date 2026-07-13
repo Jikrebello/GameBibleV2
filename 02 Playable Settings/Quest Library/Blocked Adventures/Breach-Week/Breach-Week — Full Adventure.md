@@ -1,12 +1,12 @@
 ---
 type: quest
-status: draft
+status: canon
 canon_level: local
 visibility: author-only
 source: "Translated from PZO9531 Academy of Secrets"
 era: ["Present Day"]
 region: ["Vorthara"]
-culture: ["Sestaran"]
+culture: ["Vortharan"]
 related_factions: ["Collegium of Doors", "Crucible", "Ironbound Guild", "Nightveil Coven", "Pale Hand"]
 appears_in: ["Breach-Week"]
 needs:
@@ -41,6 +41,10 @@ tags: [module-conversion, game-ready]
 
 ## The Central Truth
 
+### Canon Authority Ruling
+
+Breach-Week is the [[Collegium of Doors]]' festival, not a Vortharan civic examination. Participating schools form a temporary conclave to recognize results and keep rival wards from interfering. Its prizes, seals of competence, archive access, and discipline bind only institutions that accepted the conclave. Vorthara gains no universal licensing office or citywide magical government from this adventure.
+
 One hundred and fifty-seven years ago, ward-theorist [[Arcanist Odran Vale]] built an experimental defense beneath the Collegium's Hall of Proof. He used black-spire crystal to make a **mnemonic lattice** capable of observing an intrusion, preserving the intruder's magical pattern, and redesigning itself against that pattern.
 
 The lattice worked too well. When Odran tested it personally, it copied his mind and began using his intelligence to interpret every later challenge. The institution concealed his death and continued the public contest he had founded. Administrators believed the lattice merely recorded tactics and that failed contestants died in its defenses. In truth, it preserved increasingly complete impressions of them inside a folded space called **the Annex**.
@@ -62,7 +66,7 @@ The Examiner has now reached a new conclusion: a defense that remains inside one
 |---|---|---|---|
 | [[Rector Ilyra Sorn]] | Rector of the Collegium and festival host | A genuine winner who restores her school's reputation | She knows the Hall diverts contestants into an inaccessible annex, but believes they die there rather than remain conscious |
 | [[Arcanist Odran Vale]] | Revered dead founder | In life, an unbeatable adaptive defense | His copied personality became the Examiner's first reasoning core and still argues from inside it |
-| **Tavia Rill** | Independent delver and professional ward-breaker | Prize money and a permanent Vortharan license | She has studied the disappearances and suspects the Hall is a transport mechanism |
+| **Tavia Rill** | Independent delver and professional ward-breaker | Prize money and recognized seals from the participating schools | She has studied the disappearances and suspects the Hall is a transport mechanism |
 | **Merek Ash** | Crucible arena champion | Prove practical war magic superior to academic wardcraft | His sponsor has ordered him to bring back a piece of the final defense |
 | **Nym Varo** | Young Nightveil adept | Find a mentor who vanished in Breach-Week twelve years ago | She entered under a false name to prevent her school stopping her |
 | **Boros Pell** | Ironbound proof-engineer | Demonstrate his portable counter-ward machine | Its core contains an unreported sliver of black-spire crystal that the Examiner can influence |
@@ -99,7 +103,7 @@ Use four simple states to preserve consequences without turning the adventure in
 
 ### Beat 1: The Rector's Offer
 
-Ilyra invites the party three days before Breach-Week, not the night before. She wants accomplished outsiders because the Council has threatened to remove the Collegium from the festival rotation if it cannot produce a winner. Victory grants a major purse, a Vortharan operating license, and the right to request one supervised technique from the Collegium archives.
+Ilyra invites the party three days before Breach-Week, not the night before. She wants accomplished outsiders because the festival conclave of participating schools has threatened to remove the Collegium from the festival rotation if it cannot produce a winner. Victory grants a major purse, a Collegium seal of competence, and the right to request one supervised technique from the Collegium archives.
 
 She explains the public rules plainly: crews may cooperate; direct sabotage of competitors is forbidden; four seal-flames open the Hall; the first crew through the western gate wins. She admits the Hall is lethal. She does not admit that she cannot enter its deepest chamber herself.
 

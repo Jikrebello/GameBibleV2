@@ -9,7 +9,7 @@ era:
 region:
   - Vorthara
 culture:
-  - Sestaran
+  - Vortharan
 related_factions:
   - Collegium of Doors
 appears_in: []
@@ -53,7 +53,7 @@ Headmaster **Toff Ornelos** knows that his supposedly immortal ancestor still co
 
 ## Conversion Diagnosis
 
-### What Is Worth Keeping
+### Preserve
 
 - A famous public competition that becomes a real emergency.
 - A preparatory evening with rivals and warning signs.
@@ -63,7 +63,7 @@ Headmaster **Toff Ornelos** knows that his supposedly immortal ancestor still co
 - Escape causing a campus-wide disaster in front of witnesses.
 - A compromised head who is culpable without being the true mastermind.
 
-### What Needs Rebuilding
+### Replace
 
 - The original soul-harvest conspiracy depends on a remote villain the party cannot meaningfully confront.
 - Requiring one key-light per character makes the contest scale awkwardly with party size.
@@ -72,7 +72,7 @@ Headmaster **Toff Ornelos** knows that his supposedly immortal ancestor still co
 - The infernal rupture happens because the ending requires a public battle, not because contestants made a legible choice.
 - The aftermath leans heavily on scandal management instead of resolving what happened to the trapped contestants and the dangerous institution itself.
 
-## World Egg Conversion Seed
+## Exact World Egg Placement
 
 **The conversion:** Vorthara's schools hold **Breach-Week**, a sanctioned trial in which crews breach staged defenses for prizes, licenses, sponsorships, and recruitment. The hosting [[Collegium of Doors]] possesses an adaptive ward-engine that has learned from every contestant ever sent through it. Failed challengers were not simply killed: their magical patterns and memories remain trapped inside the engine's folded annex. This year the party becomes the first crew capable of reaching the intelligence at its center, [[The Examiner]].
 
@@ -88,3 +88,24 @@ Headmaster **Toff Ornelos** knows that his supposedly immortal ancestor still co
 - [[Arcanist Odran Vale]]
 - [[The Examiner]]
 - [[Ward-Eaters]]
+
+## Translated Adventure Core
+
+- **Premise:** enter Vorthara's Breach-Week contest and become the first crew to reach the adaptive ward-engine hidden behind its final trial.
+- **Conflict:** freeing the contestants copied into the engine also releases every dangerous defense it has learned into a crowded school festival.
+- **Antagonist:** [[The Examiner]], sustained by Arcanist Odran Vale's pride and the Collegium's refusal to question a prestigious lethal institution.
+- **Consequences:** captives are freed or consumed, the campus is contained or ruptured, and the Collegium must reform, close, or defend the trial that caused the disaster.
+
+## Controlling Canon
+
+- [[Sestaran Canon Register]]
+- [[The Citadel of Vorthara Overview]]
+
+## Blocking Needs
+
+- The adventure is fully blocked in [[Breach-Week — Full Adventure]].
+- Remaining needs are the numerical or implementation-dependent items listed in frontmatter; the premise and ending branches are already defined.
+
+## Research Basis
+
+Checked against [Paizo's official Academy of Secrets description](https://store.paizo.com/pathfinder-module-academy-of-secrets-pfrpg-pdf/).

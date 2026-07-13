@@ -1,11 +1,11 @@
 ---
 type: faction
-status: draft
+status: canon
 canon_level: local
 visibility: author-only
 era: ["Present Day"]
-region: ["Great Glass Desert", "Covenant caravan roads"]
-culture: ["Ahl-e-Ahd", "Sestaran", "Jirahar"]
+region: ["Al-Qahur", "Glass frontier"]
+culture: ["Qahuri", "Jirahar", "Fiorenzian"]
 related_factions: ["Breach-Court of Qasr Ilyun"]
 appears_in: ["Risen from the Glass"]
 needs:

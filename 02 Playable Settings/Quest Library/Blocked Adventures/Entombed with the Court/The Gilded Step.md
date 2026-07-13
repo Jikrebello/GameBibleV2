@@ -1,11 +1,11 @@
 ---
 type: faction
-status: draft
+status: canon
 canon_level: local
 visibility: author-only
 era: ["Present Day"]
 region: ["Great Glass Desert"]
-culture: ["Sestaran"]
+culture: ["Fiorenzian"]
 related_factions: ["The Regalis", "Meridian Antiquities Venture"]
 appears_in: ["Entombed with the Court"]
 needs:

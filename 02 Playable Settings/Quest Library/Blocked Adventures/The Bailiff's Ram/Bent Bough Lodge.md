@@ -1,11 +1,11 @@
 ---
 type: place
-status: draft
+status: canon
 canon_level: local
 visibility: author-only
 era: ["Present Day"]
 region: ["Vortharan Highlands", "Vorthara road"]
-culture: ["Sestaran", "Vortharan"]
+culture: ["Vortharan"]
 related_factions: ["House of Mutable Form", "Vortharan Recovery Office"]
 appears_in: ["The Bailiff's Ram"]
 needs:

@@ -1,6 +1,6 @@
 ---
 type: quest
-status: draft
+status: canon
 canon_level: local
 visibility: author-only
 source: "Translated from T1 The Village of Hommlet"
@@ -249,7 +249,7 @@ The party must explain three truths separately:
 - some later supernatural effects were real but came from a predatory source;
 - the village's worth, faith, and right to survive do not depend on that source.
 
-Evidence without compassion convinces authorities and loses the village. Compassion without evidence allows the Court to call the party persecutors. Both are needed for the strongest ending.
+Evidence without compassion convinces authorities and loses the village. Compassion without evidence allows the Court to call the party persecutors. Both are needed for the most restorative branch.
 
 ## Ending States
 
@@ -257,7 +257,7 @@ Evidence without compassion convinces authorities and loses the village. Compass
 
 The apparition is destroyed, Miri is restored, and Marta confesses or leaves conclusive evidence. Edda, Tomas, Sivra, and Harek convert the Kind Lantern's remaining stock into a village storehouse and pilgrim hostel. Chapel-Ford loses spectacle but keeps most material security. The Chapel of Two Fires openly acknowledges both the community's faith in the Redeemer and its inherited customs without claiming false sainthood.
 
-This is the strongest continuation, requiring Village Trust 3+, Material Security 2+, and a destroyed or powerless apparition.
+This is the most restorative continuation, requiring Village Trust 3+, Material Security 2+, and a destroyed or powerless apparition.
 
 ### Ash and Salt
 

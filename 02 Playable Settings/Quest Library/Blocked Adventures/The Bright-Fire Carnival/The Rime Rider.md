@@ -1,12 +1,12 @@
 ---
 type: character
-status: draft
+status: canon
 canon_level: local
 visibility: author-only
 era: ["Present Day"]
 region: ["Sylvan Marches", "Grenzburg frontier", "Ferren Hollow"]
 culture: ["Folk"]
-related_factions: ["The Left Hand", "The Cloven"]
+related_factions: ["The Cloven"]
 appears_in: ["The Bright-Fire Carnival"]
 needs:
   - assign encounter and unbinding values for the chosen game system
@@ -14,11 +14,11 @@ tags: [module-conversion, game-ready, antagonist]
 ---
 # The Rime Rider
 
-The Rime Rider is the true antagonist of [[The Bright-Fire Carnival]]: a cold factor of [[The Atlas of the Left Hand|The Left Hand]] — the setting's architecture for buying legitimate obligations and collecting them for ruin — wearing the mask of the year's winter half. It did not suffer the wrong the carnival is avenging. It bought a share of the grievance, inflated the invoice, and means to turn a proportionate collection into a harvest of a whole town's warmth.
+The Rime Rider is the true antagonist of [[The Bright-Fire Carnival]]: an ancient winter-hunter cast out of the lawful seasonal courts, wearing the mask of the year's winter half. It did not suffer the wrong the carnival is avenging. It fastened itself to the grievance, inflated the invoice, and means to turn a proportionate collection into a harvest of a whole town's warmth.
 
 ## What It Is
 
-The Rider is not a season-court sovereign and not the grove's law. It is a debt-buyer that trades in aggrieved land-claims the way other factors trade in coin. It rides the cold half of the year because that is when territorial-memory debts fall due hardest, and it wears frost and antlered dark because those are the shapes a wronged forest expects an ally to wear. Underneath, its interest is yield: grief, years, and warmth taken by force from many pay far better than a single debt settled clean.
+The Rider is not a season-court sovereign and not the grove's law. It is a predator that follows aggrieved land until righteous anger can be widened into a hunt. It rides the cold half of the year because that is when territorial-memory debts fall due hardest, and it wears frost and antlered dark because those are the shapes a wronged forest expects an ally to wear. Underneath, it feeds on stolen warmth and the terror of being hunted. A whole town sustains it longer than punishment confined to the guilty.
 
 ## Method
 
@@ -34,22 +34,22 @@ Every hour "Clear-Cut" Karl and the Timber-Cartel refuse to pay the real debt, t
 
 ## Character
 
-The Rider is patient, courteous, and entirely transactional. It does not hate Ferren Hollow and takes no joy in the frost; it simply prefers the larger sum. It speaks in the language of fairness and owed things, and everything it says is technically true and totally corrupt — the tell of a Left-Hand instrument. It regards Sisrin's scruple about proportion as a quaint inefficiency in an otherwise sound collection.
+The Rider is patient, courteous, and entirely transactional. It does not hate Ferren Hollow and takes no joy in the frost; it simply prefers the larger sum. It speaks in the language of fairness and owed things, and everything it says is technically true and totally corrupt — the tell of a predator's fraud. It regards Sisrin's scruple about proportion as a quaint inefficiency in an otherwise sound collection.
 
 ## Weaknesses and Levers
 
 - **It does not own the grievance outright.** Prove the debt is not its to inflate, and its pretext collapses to the targeted claim.
 - **Its bargain has terms.** The guarantee it took from Sisrin has a voidable overreach — a filing at a Folk grove-court, a thin-space rule, or its own widened claim used against it.
 - **Payment strips it.** If the guilty pay the original grove-debt before the third night, Sisrin's claim closes and the Rider must either withdraw or attack openly as the aggressor it is.
-- **Exposure unmakes it.** A Left-Hand factor caught wearing a wronged party's face, collecting for yield, loses the legitimacy it hides inside.
+- **Exposure unmakes it.** A winter-hunt predator caught wearing a wronged party's face, collecting for yield, loses the legitimacy it hides inside.
 
 ## In the Fight
 
-If forced to open violence, the Rider fights with cold, with the [[The Rimebound]] it has made from Sisrin's Cloven, and with the turned attractions as terrain. But defeating the Rider by force only collapses its inflated invoice — it does not pay what Ferren Hollow still owes the grove, and Sisrin will still collect from the guilty. Killing the Rider is never the whole solution; it is the part that saves the innocent.
+If forced to open violence, the Rider fights with cold, with the [[The Rimebound]] it has made from Sisrin's Cloven, and with the turned attractions as terrain. But defeating the Rider by force only collapses its widened punishment — it does not pay what Ferren Hollow still owes the grove, and Sisrin will still collect from the guilty. Killing the Rider is never the whole solution; it is the part that saves the innocent.
 
 ## Continuation
 
-The Rider can become a destroyed aggressor unmasked before the Folk and the town, a withdrawn factor that keeps its unspent share of the debt and nurses a grudge, or a cold power loose in the Sylvan Marches with a taste for aggrieved groves and a ledger full of debts to buy.
+The Rider can become a destroyed aggressor unmasked before the Folk and the town, a driven-off predator that keeps the warmth it already stole and nurses a grudge, or a cold power loose in the Sylvan Marches with a taste for aggrieved groves and a trail of grievances to corrupt.
 
 ## Navigation
 
@@ -57,4 +57,3 @@ The Rider can become a destroyed aggressor unmasked before the Folk and the town
 - [[Sisrin the Alder-Maid]]
 - [[The Grove-Debt]]
 - [[The Rimebound]]
-- [[The Atlas of the Left Hand|The Left Hand]]

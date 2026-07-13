@@ -7,10 +7,11 @@ source: PZO9500-4 Master of the Fallen Fortress
 era:
   - Present Day
 region:
-  - Grenzburg approaches
+  - Dornwatch
+  - Grenzburg
 culture:
+  - Grenzburger
   - Folk
-  - Eclessian
 related_factions:
   - The Medori Bank
   - The Folk Clans
@@ -54,7 +55,7 @@ Outside a great city stand the ruined siege-castles of old wars, long picked ove
 
 ## Conversion Diagnosis
 
-### What Is Worth Keeping
+### Preserve
 
 - An earthquake that cracks a long-sealed ruin open and starts a race to it.
 - A tight vertical delve that climbs floor by floor — the cleanest possible dungeon shape for teaching.
@@ -63,23 +64,30 @@ Outside a great city stand the ruined siege-castles of old wars, long picked ove
 - A self-appointed "master" whose plan is bigger than his means.
 - A first-name-in-the-trade reward: treasure, rescue, and standing.
 
-### What Needs Rebuilding
+### Replace
 
 - The reptile-folk druid must not import a foreign species and a "conquer the surface" cult. He becomes a [[The Folk Clans|Ghost-Foot]] exile with a small, human-scale grievance the setting already prices.
 - The society-of-explorers captive becomes a [[The Medori Bank|Bank]] surveyor, which roots the rescue in the delver-trade economy instead of an outside adventurer guild.
-- The ruin becomes a [[The Kestrel Tower|Velian border fort]] — canonically three changes of ownership and three layers of dead — so its residue is native Tier One, not invented.
+- The ruin becomes an [[The Kestrel Tower|Atherian-Eclessian frontier fort near Dornwatch]] — canonically three changes of ownership and three layers of dead — so its residue is native Tier One, not invented.
 - The tower's long-dead become [[The Mundane Layer — Residue, Vermin, and the Delver Trade|Tier One residue]]: rattle-bones, barrow-shades, a harridan flock — handleable evil, sexton-work, no theology.
 - The captive's captor must have a reason worth hearing. His plan shrinks from conquest to leverage: he holds the surveyor because the Bank genuinely wronged him and will not otherwise hear it.
 - The reward gains a torque the original leaves implicit: the fort's charter lapsed with the quake, so under salvage law whoever clears it can claim it — a fact the party's employer knew and did not mention.
 - The whole thing becomes a deliberate tutorial in the delver trade: iron for bones, silver for shades, and paperwork for everything the sword cannot settle.
 
-## World Egg Conversion Seed
+## Exact World Egg Placement
 
-**The conversion:** an earthquake cracks open the [[The Kestrel Tower]], a long-sealed Velian border fort on the Grenzburg approaches with three ownerships' worth of dead in its history. A flock of [[Harridans]] has colonized the cracked lower floors; above them, a [[The Folk Clans|Ghost-Foot]] exile, [[Torvald Ghost-Foot]], has taken the tower and holds a [[The Medori Bank|Bank]] surveyor hostage — not to conquer anything, but because the Bank owes him a debt it refuses to hear, and a hostage is the only writ he has left. The party is hired to bring the surveyor out.
+**The conversion:** an earthquake cracks open the [[The Kestrel Tower]], a long-sealed Atherian-Eclessian frontier fort near Dornwatch. A small survey party enters before the structure is stable and becomes trapped among [[Harridans]], broken stairs, and awakened residue. [[Torvald Ghost-Foot]], a Folk exile with a genuine grievance against the survey's Bank sponsor, follows them in and turns the last defensible chamber into a hostage standoff. The party is sent to bring everyone out alive.
 
-**The torque:** the fort's charter lapsed when the quake broke it, and under [[The Mundane Layer — Residue, Vermin, and the Delver Trade|salvage law]] whoever clears the tower can claim its finder's-quarter and title. The party's employer — a Bank factor — knew this when posting the job and did not mention it, because the Bank means to claim the tower itself once the party has done the clearing for free. The rescue is real; the underpayment is the lesson.
+**The torque:** the rescue cannot wait for the title dispute. Torvald has proof that the Bank used an old marcher survey to close a Ghost-Foot winter road and never compensated the displaced households, but his grievance does not justify holding frightened guides at spearpoint. The characters must cross the failing fort, keep the trapped people alive, and resolve the standoff before anyone can safely argue over ownership.
 
-**Hook:** the delver trade's cleanest tutorial — iron for bones, silver for shades, and paperwork for everything else — wrapped around a hostage-taker whose grievance is truer than the contract that sent you to stop him.
+**Hook:** a dangerous rescue through a newly opened frontier ruin, ending with a hostage-taker whose grievance is true and whose chosen remedy is wrong.
+
+## Translated Adventure Core
+
+- **Premise:** rescue a surveyor and two local guides trapped in a quake-opened fort before the structure or its inhabitants kill them.
+- **Conflict:** physical rescue, Torvald's justified complaint, and his unjust hostage-taking must be handled on the same clock.
+- **Antagonist:** the tower's hazards and Harridans are the immediate threat; Torvald creates the final human standoff without becoming a secret mastermind.
+- **Consequences:** lives are saved or lost, Torvald is heard or hardened, and the Bank's title claim becomes a later dispute after the site is closed and stabilized.
 
 ## Translation
 
@@ -88,8 +96,18 @@ Outside a great city stand the ruined siege-castles of old wars, long picked ove
 - [[The Kestrel Tower]]
 - [[Harridans]]
 
+## Blocking Needs
+
+- The adventure is fully blocked in [[The Broken Tower — Full Adventure]].
+- Remaining needs are the numerical or implementation-dependent items listed in frontmatter; the premise and ending branches are already defined.
+
 ## Research Basis
 
 - [Master of the Fallen Fortress — PathfinderWiki](https://pathfinderwiki.com/wiki/Master_of_the_Fallen_Fortress)
 - [Paizo product page — Master of the Fallen Fortress](https://paizo.com/products/btpy8ey4)
 - [Jhaeman's Detritus — module review](http://jhaeman.blogspot.com/2021/01/pathfinder-module-master-of-fallen.html)
+
+## Controlling Canon
+
+- [[Grenzburg MOC]]
+- [[Gazetteer of the Known World]]

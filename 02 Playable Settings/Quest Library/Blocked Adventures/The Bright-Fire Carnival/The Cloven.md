@@ -1,6 +1,6 @@
 ---
 type: creature
-status: draft
+status: canon
 canon_level: local
 visibility: author-only
 era: ["Present Day"]
@@ -57,7 +57,7 @@ The Folk survive beside the Cloven by land etiquette: offering groves, seed-buri
 
 ## Corruption
 
-The Cloven are proportionate by nature; that proportion can be **overtaken**. When a colder power — a [[The Rime Rider|Left-Hand factor]] riding the year's winter half — sinks its cold into a Cloven, it becomes one of the [[The Rimebound]]: a collector with the proportion burned out of it. This is not the Cloven's natural state and not their fault; it is what is done to them.
+The Cloven are proportionate by nature; that proportion can be **overtaken**. When a colder power — the exiled [[The Rime Rider|winter-hunter]] — sinks its cold into a Cloven, it becomes one of the [[The Rimebound]]: a collector with the proportion burned out of it. This is not the Cloven's natural state and not their fault; it is what is done to them.
 
 ## Quest Uses
 

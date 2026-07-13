@@ -1,11 +1,11 @@
 ---
 type: faction
-status: draft
+status: canon
 canon_level: local
 visibility: author-only
 era: ["Present Day"]
 region: ["Vorthara"]
-culture: ["Sestaran", "Vortharan"]
+culture: ["Vortharan"]
 related_factions: ["Wardens of the Crown Road", "Crafters' Union", "Fleshweavers"]
 appears_in: ["The Bailiff's Ram"]
 needs:
@@ -14,6 +14,10 @@ needs:
 tags: [module-conversion, game-ready]
 ---
 # House of Mutable Form
+
+The House of Mutable Form is a dissident teaching-house within Vorthara's broader Fleshweaver inheritance. Its founders rejected the Red Covenant's most predatory body-market while retaining disciplined study of living form, reversal, and controlled transformation. That ancestry gives the House expertise; it does not make the House innocent of coercion or bad teaching.
+
+Its authority is private and local. House seals, recovery officers, and student covenants bind members and named partner schools, not Vorthara as a whole.
 
 The House of Mutable Form is a minor Vortharan teaching-house specializing in reversible bodily transformation. Its graduates design temporary forms for hazardous labor, surgery, performance, infiltration, rescue, and arena use.
 

@@ -1,11 +1,11 @@
 ---
 type: character
-status: draft
+status: canon
 canon_level: local
 visibility: author-only
 era: ["Present Day"]
 region: ["Vorthara", "Bent Bough Lodge"]
-culture: ["Sestaran", "Vortharan"]
+culture: ["Vortharan"]
 related_factions: ["House of Mutable Form", "Vortharan Recovery Office"]
 appears_in: ["The Bailiff's Ram"]
 needs:
@@ -14,7 +14,7 @@ tags: [module-conversion, game-ready, antagonist]
 ---
 # Nera Voss
 
-Nera Voss is a licensed Vortharan recovery bailiff and the principal antagonist of [[The Bailiff's Ram]]. She co-developed the reversion index that powers the [[Reversion Crook]], received little credit for it, and now uses the instrument to turn defaulted debtors into collection agents.
+Nera Voss is the House of Mutable Form's licensed recovery bailiff and the principal antagonist of [[The Bailiff's Ram]]. Her authority comes from House covenants and a few reciprocal school agreements, not from Vorthara as a whole. She co-developed the reversion index that powers the [[Reversion Crook]], received little credit for it, and now uses the instrument to turn defaulted debtors into collection agents.
 
 ## Grievance
 
@@ -67,4 +67,3 @@ Nera can become a prisoner, technical witness against body-collateral, fugitive 
 - [[House of Mutable Form]]
 - [[Reversion Crook]]
 - [[Collateral Beasts]]
-

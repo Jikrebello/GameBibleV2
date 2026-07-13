@@ -1,11 +1,11 @@
 ---
 type: faction
-status: draft
+status: canon
 canon_level: local
 visibility: author-only
 era: ["Present Day"]
 region: ["Thalmyria", "Saltborn Coast", "Sestaran Concord"]
-culture: ["Thalmyric", "Saltborn", "Sestaran", "Folk"]
+culture: ["Thalmyric", "Saltborn", "Vardessan", "Folk"]
 related_factions: []
 appears_in: ["Murder at Lantern Fair"]
 needs:
@@ -14,7 +14,7 @@ tags: [module-conversion, game-ready]
 ---
 # The Turning Lantern Company
 
-The **Turning Lantern Company** is a traveling fair, market, and settlement partnership moving between Thalmyric river towns, the Saltborn ports of western Kedrava, Sestaran roads, and distant Folk-adjacent fairs. It carries entertainment because crowds create trade, and trade because performances alone do not feed a road community through winter.
+The **Turning Lantern Company** is a traveling fair, market, and settlement partnership moving between Thalmyric river towns, the Saltborn ports of western Kedrava, Vardessan and other Concord roads, and distant Folk-adjacent fairs. It carries entertainment because crowds create trade, and trade because performances alone do not feed a road community through winter.
 
 ## Composition
 
@@ -22,7 +22,7 @@ The company includes roughly enough permanent members to function as a small mov
 
 - performers, musicians, rope-workers, animal handlers, and lanternwrights;
 - cooks, guards, wagon carpenters, healers, and drovers;
-- Sestaran factors and temporary exchange clerks;
+- Vardessan factors and temporary exchange clerks;
 - Saltborn riggers and river pilots between voyages;
 - Folk craftspeople and performers who prefer seasonal road life to a settled frontier;
 - local merchants who attach themselves for one or two stages.
@@ -37,14 +37,14 @@ The company protects members strongly because local authorities rarely distingui
 
 ## Trade Function
 
-The company's portable credit chest lets road merchants settle authenticated Sestaran paper, pool specie, and carry balances between fairs. The chest makes the company more than entertainment and explains why warehouse monopolies treat it as a threat.
+The company's portable credit chest lets road merchants settle authenticated Vardessan paper, pool specie, and carry balances between fairs. The chest makes the company more than entertainment and explains why warehouse monopolies treat it as a threat.
 
 The company charges for settlement and stall protection. Its prices are lower than permanent bonded storage because it leaves after seven days and carries less overhead. This is useful competition, not charity.
 
 ## Important Members
 
 - **[[Mara Tide-Knot]]:** proprietor and route captain.
-- **Tessa Marin:** Sestaran treasurer, seal reader, and keeper of the credit chest.
+- **Tessa Marin:** Vardessan treasurer, seal reader, and keeper of the credit chest.
 - **Osric Sealsson:** Saltborn rigging-knife performer and senior wagon rigger.
 - **Elof Reed-Step:** Folk rope-dancer, lamp-climber, and apprentice route scout.
 - **Mother Hanne:** cookhouse leader and informal judge of company disputes.

@@ -1,15 +1,15 @@
 ---
 type: character
-status: draft
+status: canon
 canon_level: local
 visibility: author-only
 era: ["Present Day"]
 region: ["Vorthara", "Vortharan geothermal district", "Ashplume Vault"]
-culture: ["Sestaran", "Vortharan"]
+culture: ["Vortharan"]
 related_factions: ["The Vaunt's Stable", "Pale Hand", "Wardens of the Crown Road"]
 appears_in: ["The Bragging Vault"]
 needs:
-  - decide his post-adventure standing after the canonical ending is selected
+  - define his post-adventure standing for each ending branch reached in play
 tags: [module-conversion, game-ready]
 ---
 # Corsin Marlo

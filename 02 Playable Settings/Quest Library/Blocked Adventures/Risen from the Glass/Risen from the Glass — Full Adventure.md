@@ -1,11 +1,11 @@
 ---
 type: quest
-status: draft
+status: canon
 canon_level: local
 visibility: author-only
 source: "Translated from PZO9500-8 Risen From the Sands"
 era: ["Present Day", "Age of Chains"]
-region: ["Great Glass Desert", "Covenant caravan roads", "Glass-Risen Estate"]
+region: ["Al-Qahur", "Glass frontier", "Glass-Risen Estate"]
 culture: ["Ishkatar", "Ahl-e-Ahd", "Jirahar"]
 related_factions: ["Breach-Court of Qasr Ilyun", "Caravan of the Bent Reed", "Brass Jackals"]
 appears_in: ["Risen from the Glass"]
@@ -20,7 +20,7 @@ tags: [module-conversion, game-ready]
 
 **Premise:** A glass-storm has stripped a forgotten Ishkatar tomb from the desert floor. Three present-day claimants race toward it while its ancient receiver wakes and begins classifying every entrant as part of the estate.
 
-**Beginning:** The party joins a Covenant assessor, a Jirahar Road Company, or an independent recovery expedition. Its route determines who reaches the tomb first, what supplies survive, and whether the outer court records the party as witnesses or thieves.
+**Beginning:** The party joins a Qahuri breach-assessor, a Jirahar Road Company, or an independent recovery expedition. Its route determines who reaches the tomb first, what supplies survive, and whether the outer court records the party as witnesses or thieves.
 
 **Middle:** The party crosses the exposed forecourt, survives the tomb's moving processional defenses, discovers a false burial, and learns that the apparent royal household was made from murdered servants and confiscated families. Rivals enter behind it and force choices about alliance, evidence, and treasure.
 
@@ -34,7 +34,7 @@ tags: [module-conversion, game-ready]
 
 - **Who:** the player crew; [[Breach-Assessor Samir Veyad]]; Jirahar road-keeper Miriam bat-Oren; Road Company captain Eder Ben-Tal; salvage captain Daro Vessan and the [[Brass Jackals]]; guide Nadim al-Sahr; the Estate Dead; and Sethrak.
 - **What:** enter the exposed funerary estate, recover its history and human names, prevent its ancient ownership rite from attaching to the living, and decide who receives its records and wealth.
-- **Where:** the northern margin of the [[Great Glass Desert]], two days beyond the Covenant court-town of Qasr Ilyun, in a processional tomb built above a dry branch of the Serpent's Spine.
+- **Where:** the northern margin of the [[Great Glass Desert]], two days beyond the Qasr Ilyun breach-court-town of Qasr Ilyun, in a processional tomb built above a dry branch of the Serpent's Spine.
 - **Why the party acts:** Samir needs an armed neutral crew to serve notice and protect witnesses; the Jirahar pay for recovery of slave-name tablets; a patron finances salvage; or a storm strands the party with the competing expeditions.
 - **Why the tomb woke:** the glass-storm exposed the outer receiving court and sunlight struck a gold tally mirror for the first time since Ishkatar fell. The mirror resumed the estate's final inventory and awakened Sethrak's residue.
 - **How it escalates:** the tomb first assigns roles, then enforces them, then sends its wardens to recover removed property. Each unrecorded theft strengthens Sethrak and each restored name breaks part of his household.
@@ -414,7 +414,7 @@ This resolution requires negotiation, but the adventure does not turn its climax
 
 ### The Estate Is Closed and the Names Returned
 
-Closure Proof is 3, Names Restored is 3+, and no living claimant leaves at Estate Hold 4. Sethrak's office ends, the servants pass beyond his control, and the household records reach the Jirahar network. This is the strongest continuation.
+Closure Proof is 3, Names Restored is 3+, and no living claimant leaves at Estate Hold 4. Sethrak's office ends, the servants pass beyond his control, and the household records reach the Jirahar network. This is the most restorative continuation.
 
 ### The Heirs of No One
 

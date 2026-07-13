@@ -5,8 +5,10 @@ canon_level: local
 visibility: author-only
 source: "S2 White Plume Mountain"
 era: ["Present Day"]
-region: ["Vorthara", "Vortharan geothermal district", "Ashplume Vault"]
-culture: ["Sestaran", "Vortharan"]
+region:
+  - Vorthara
+culture:
+  - Vortharan
 related_factions: ["Pale Hand", "The Vaunt's Stable", "Wardens of the Crown Road", "Fleshweavers"]
 appears_in: ["The Bragging Vault"]
 needs:
@@ -48,7 +50,7 @@ Thirteen centuries ago the wizard Keraptis descended into a volcanic mountain wi
 
 ## Conversion Diagnosis
 
-### What Is Worth Keeping
+### Preserve
 
 - A boastful builder who steals famous weapons and dares recovery teams to come get them.
 - Three sentient trophy-weapons, each a liability as much as a prize.
@@ -60,7 +62,7 @@ Thirteen centuries ago the wizard Keraptis descended into a volcanic mountain wi
 - A final toll on the way out that scales with how much you take.
 - The suspicion, never dispelled, that the whole gauntlet was watched — that winning was the point.
 
-### What Needs Rebuilding
+### Replace
 
 - The vanished-immortal wizard should not import a thirteen-century mystery. The builder becomes a living, careerist Vorthara magus running a spectacle for a concrete purpose: recruitment.
 - "Because a wizard is amused" is not a stake. The vault needs a reason to exist that the setting already prices — a talent audition broadcast to arena patrons, with the intruders unknowingly on display.
@@ -71,7 +73,7 @@ Thirteen centuries ago the wizard Keraptis descended into a volcanic mountain wi
 - The fire-elemental exit toll must be bound service native to the geothermal district, not summoned genies.
 - The open builder-mystery converts into a live decision: completing the gauntlet is a job offer the party can accept, refuse, or expose — and a debt the Pale Hand is quietly filing the whole time.
 
-## World Egg Conversion Seed
+## Exact World Egg Placement
 
 **The conversion:** a rogue Vorthara impresario, [[Corsin Marlo]], called *the Vaunt*, steals three celebrated pit-champion weapons — [[The Trophy-Arms|Forfeit, Ovation, and Cairn]] — and posts a public boast daring anyone to retrieve them from his gauntlet under the [[The Ashplume Vault|Ashplume]] fumarole. The three branches are showpieces, scried and broadcast to arena patrons. The gauntlet is an audition: the Vaunt is shopping for a new stable, and everyone who runs it is on display whether they consented or not.
 
@@ -89,8 +91,25 @@ Thirteen centuries ago the wizard Keraptis descended into a volcanic mountain wi
 - [[Cinder-Bound]]
 - [[Vault-Claimed]]
 
+## Blocking Needs
+
+- The adventure is fully blocked in [[The Bragging Vault — Full Adventure]].
+- Remaining needs are the numerical or implementation-dependent items listed in frontmatter; the premise and ending branches are already defined.
+
 ## Research Basis
 
 - [White Plume Mountain — Wikipedia](https://en.wikipedia.org/wiki/White_Plume_Mountain)
 - [Greyhawk Wiki — White Plume Mountain (module)](https://ghwiki.greyparticle.com/index.php/White_Plume_Mountain_(module))
 - [Grognardia retrospective — White Plume Mountain](http://grognardia.blogspot.com/2011/05/retrospective-white-plume-mountain.html)
+
+## Translated Adventure Core
+
+- **Premise:** accept Corsin Marlo's public challenge and recover three champion weapons from a lethal arena-gauntlet beneath the Ashplume fumarole.
+- **Conflict:** the contest is also an involuntary audition, while the Ashplume compact tribunal and Pale Hand mortgage divide custody of the weapons, the vent, and those who die below.
+- **Antagonist:** Corsin Marlo, whose vanity and recruitment scheme built the gauntlet, with Odalie Vench exploiting its deaths through a separate predatory claim.
+- **Consequences:** the Trophy-Arms, public reputation, arena employment, and the fate of the Vault-Claimed can each pass to different hands.
+
+## Controlling Canon
+
+- [[Sestaran Canon Register]]
+- [[The Citadel of Vorthara Overview]]

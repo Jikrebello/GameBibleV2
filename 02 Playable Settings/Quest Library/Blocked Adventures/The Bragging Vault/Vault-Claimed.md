@@ -1,11 +1,11 @@
 ---
 type: creature
-status: draft
+status: canon
 canon_level: local
 visibility: author-only
 era: ["Present Day"]
 region: ["Vorthara", "Vortharan geothermal district", "Vortharan magical industry"]
-culture: ["Sestaran", "Vortharan"]
+culture: ["Vortharan"]
 related_factions: ["Pale Hand"]
 appears_in: ["The Bragging Vault"]
 needs:

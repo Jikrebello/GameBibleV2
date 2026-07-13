@@ -1,6 +1,6 @@
 ---
-type: index
-status: draft
+type: reference
+status: canon
 canon_level: local
 visibility: author-only
 era: []
@@ -10,74 +10,124 @@ related_factions: []
 appears_in: []
 needs: []
 tags:
+  - module-conversion
   - game-ready
 ---
-# The Conversion Library — Classic Adventures Recontextualized
+# The Conversion Library - Classic Adventures Recontextualized
 
-Nineteen classic modules, starter adventures, and modern anthologies rebuilt as native quest seeds. Each linked file records the source skeleton, tier, placement, conversion, setting torque, and hook. The original pitch catalogue remains below as editorial context.
+This note controls how published adventure structures are adapted into the World Egg setting. [[00 Conversion Index]] controls the active library and production state.
 
-## Conversion Files (19)
+## Purpose
 
-**Frontier and campaign foundations:** [[The Commandery at World's Hem]] · [[Chapel-Ford]] · [[The Fane of the Braided Flame]] · [[The Echo Seam]]
+A conversion preserves a proven **playable structure** while replacing the setting assumptions that made it belong elsewhere. The result must read as a World Egg adventure that happens to have a strong inherited skeleton, not a renamed summary of another world.
 
-**Horror and hidden control:** [[The Weeping Vale]] · [[The Serpent Under Qafra]] · [[The Tithe-House]] · [[The Undergrove]]
+## What May Be Preserved
 
-**Expeditions and lethal sites:** [[The Court That Drank Itself]] · [[The Fallen Spire]] · [[The Bragging Vault]] · [[The Step-Tomb of the Blood Sun]] · [[The Tower That Kept Its Year]]
+Preserve the parts that create play:
 
-**Coastal, tutorial, and comic adventures:** [[The Thirtieth Sister]] · [[The First Writ]] · [[The Bailiff's Ram]] · [[The Celion Light]]
+- the inciting problem;
+- beginning, middle, and end;
+- investigation or expedition order;
+- faction pressure;
+- clocks and reversals;
+- dungeon or location topology;
+- recoverable allies;
+- antagonist escalation;
+- meaningful ending choices.
 
-**Anthology frameworks:** [[The Latch Jobs]] · [[The Talga Folios]]
+Names, peoples, theology, geography, institutions, creatures, magic, and moral assumptions are replaced whenever they conflict with this setting.
 
-## The Classics
+## Conversion Tests
 
-**Keep on the Borderlands → "The Commandery at World's Hem"** (F/R hub). An Aveline preceptory on the Caldrian or Grenzburg frontier; the Caves of Chaos become a **Grobi splinter-warren** riven between Bloody-Sun raiders, a starving matron-band, and one cave the Grobi themselves wall off. Torque: the keep's chaplain schism (Aveline crusaders vs. an Elsin missioner) means every cave cleared is also a doctrinal argument won by somebody.
+### Cultural Specificity
 
-**The Village of Hommlet → "Chapel-Ford"** (W). A prosperous Chapel-Folk village with a beloved new trading post — which is a **Weeping Courts** cell farming the village's conversion-grief toward a manufactured apparition. Torque: the villagers are *happier* since the false miracles started, and ending the operation means proving to converts that heaven wasn't finally answering them.
+Every adventure belongs to a named place and the people who live there.
 
-**The Temple of Elemental Evil → "The Fane of the Braided Flame"** (campaign, Tier 3 capstone). A ruined Shell-leak sanctum where **four cults have colonized four elemental nodes** — and the true horror is the discovery that they're being *farmed*: a Left-Hand architecture (Weeping Courts above, Under-Ledger financing, a patron's anchor beneath) harvesting all four. Torque: the four supply chains' mutual sabotage is the party's best weapon, per the Atlas's interlock rule.
+- Use **Vortharan**, **Fiorenzian**, **Castaran**, **Vardessan**, or another city identity where that is what characters actually are.
+- Do not invent a universal Folk court, Vortharan government, or Sestaran civic identity.
+- Use the local culture's offices, kinship, worship, food, class, and ordinary motives before adding secret systems.
 
-**Ravenloft → "The Weeping Vale"** (W-campaign). A Sylvan Marches valley under a Regalis elder whose invitation-jurisdiction covers the *whole vale* — the fog is a threshold, and everyone inside has, at some point, said yes to something. Torque: the vampire's lien is real Pride-escrow; the tragic option (route his soul at last) is canonically available and costs the party everything the Weighing costs.
+### Human Motive
 
-**Tomb of Horrors → "The Court That Drank Itself"** (Tier 3, high-level). An **Ansharan tomb-palace** in the deep desert: the paranoid court-magus of a Giant lord, who watched the bloodlines devour Anshara and built a tomb designed to *insult* graverobbers as it kills them. Torque: the traps are contract-shaped (consent-gates, forfeit-clauses); the demilich-analog is a court chamberlain still keeping a dead empire's protocol.
+Start with motives such as fear, love, pride, hunger, revenge, loyalty, ambition, cowardice, faith, greed, and duty.
 
-**Expedition to the Barrier Peaks → "The Fallen Spire"** (Tier 3). A crashed **Nythalum vessel** in the Grobi Wastes or the Expanse — metal corridors, mind-wiped custodian machines, the moon-stranded intelligences' returned probe (canon: Nythalum's eerie returns). Torque: everything inside predates the Exodus; the University, Vorthara, and the Hollow-Kings all want it, and the machines' hostility rules are *cargo-manifest logic*.
+Contracts, banks, audits, salvage law, and metaphysical procedure appear only when the chosen culture and adventure genuinely need them. They are not default texture.
 
-**White Plume Mountain → "The Bragging Vault"** (F/W). A rogue Vorthara magus's trial-gauntlet under a geothermal fumarole, built to test thieves for recruitment — the three trophy-weapons are pit-champion arms with liability histories. Torque: completing it is a job *offer*, and the Pale Hand holds the mortgage on the mountain.
+### Objective Morality
 
-**Against the Cult of the Reptile God → "The Serpent Under Qafra"** (W). A Covenant caravan-town quietly converting to something in the cistern — an **Ishkatar remnant**, Avarix's mask, old as the Serpent Kingdom. Torque: the possessed aren't enthralled by magic but by *contracts signed in dreams*, and the breach-court that should annul them refuses jurisdiction because the counterparty predates the Covenant.
+The setting permits complexity without moral fog.
 
-**The Sinister Secret of Saltmarsh → "The Thirtieth Sister"** (W/F opener). A "haunted" Saltborn coast-house on western Kedrava that is smugglers' theater — except the ship they're using is one of the **Thirty Sisters**, and the crew has started hearing the formation-bell. Torque: the mundane smuggling plot sits on a genuine weird, and the module's famous twist inverts — the fake haunting conceals a real one nobody's exploiting because nobody *can*.
+- A grievance can be real while hostage-taking remains wrong.
+- A community can love its children while knowingly feeding an idol.
+- An institution can provide real goods while practicing corruption.
+- Predation, slavery, desecration, false worship, and deliberate cruelty do not become neutral because their perpetrators have reasons.
 
-**The Lost Mine of Phandelver → "The Echo Seam"** (starter F). A Highlake-style silver mine with a lost **Shell-forge** in its depths, contested by a Grobi band, a wildcat delver crew, and the guild that holds the lapsed charter. Torque: the forge still works, and every faction's plan for it updates the Numbers doc.
+Player outcomes remain open, but authorial truth does not disappear.
 
-**The Hidden Shrine of Tamoachan → "The Step-Tomb of the Blood Sun"** (W, Expanse). A Xolotl ziggurat in the Emerald Expanse, half-flooded, bird-marked on the Viscaran charts. Torque: it's a *bird-marked site* — sweptly empty except for what the sweepers left, and the University's real question is who did the sweeping.
+### Exact Geography
 
-**The Ghost Tower of Inverness → "The Tower That Kept Its Year"** (Tier 3 one-shot). A ruined Atherian observatory where the **Year of Standing Stars** never quite ended — inside, the stars still don't move. Torque: it's a weird made walkable; per register rules, the tower explains *nothing*, and the treasure is a star-chart of a sky nobody has seen since the Scattering.
+A conversion must name its region and respect travel, climate, borders, and authority.
 
-## The Modern One-Shots
+- South grows colder.
+- Arkena is an eastern archipelago, not the highlands above Kalzaret.
+- Grenzburg is not on the Velian border.
+- Caldria is not the Grobi frontier.
+- Qasr Ilyun lies on Al-Qahur's Glass frontier.
+- Kestrel Tower lies near Dornwatch.
+- Drakesfall lies in Vlastrava above the Kalzaret road.
 
-**The Sunless Citadel → "The Undergrove"** (starter W). A sunken Enaidfae shrine beneath a barrow-collapse, where a corrupted **drake heart-gem** was planted and grew — a law-tree whose apples enforce a broken law. Torque: the Gulthias-analog is crystallized Faewild law gone septic; the Folk want it re-seated, the Bank wants it harvested, the tree wants gardeners.
+### Restrained Supernatural Complexity
 
-**The Delian Tomb → "The First Writ"** (tutorial R→W). Bandits take a hostage into a barrow; the rescue is a first collection-writ. Torque: the Colville teaching structure kept intact — plus one door in the barrow that is worked stone, which the tutorial teaches you to *leave alone*.
+Use the smallest supernatural explanation that makes the adventure native.
 
-**A Wild Sheep Chase → "The Bailiff's Ram"** (comic R). A ram interrupts the party — a Vorthara washout polymorphed by his own tuition-bond collateral clause, hunted by the school's recovery agent. Torque: the comedy is contract-comedy; the resolution options include renegotiation.
+Nythalum, the Left Hand, the Medori Bank, the Undertow, contract magic, soul-routing, and Hollow-Kings are exceptional tools. They must not become universal explanations or decorative cameos.
 
-**The Secrets of Skyhorn Lighthouse → "The Celion Light"** (W, coastal). The lighthouse at Halmenth's western bar on the Kedravan Saltborn coast goes dark during a Naris feast; wreckers, a harridan colony, and a keeper who's been paying a private toll. Torque: the light is a Naris-shrine — dark lighthouse, drowned walkers rising; sexton-work at sea.
+## Required Conversion Note
 
-**Keys from the Golden Vault (heist anthology) → "The Latch Jobs"** (F ladder, Sestara). A heist chain in Matteo the Latch's tradition — the Medori vault's *outer* rings, a prize-court evidence room, a Vorthara reagent bond-store, the salon-ledger of a retiring courtesan. Torque: every heist is also a ledger-position play, and fencing the take teaches the Concord's whole economy.
+Every active conversion records:
 
-**Candlekeep Mysteries (library anthology) → "The Talga Folios"** (R/W chain). Mysteries seeded from books — staged at Migdal Talga's scroll-floor, the Great Library of Aurelia, or the University's locked vault. Torque: in this world a book can be a *held proof* in miniature; the recurring question is never "what does it say" but "who must never read it."
+1. Original background.
+2. Original beginning, middle, and end.
+3. What should be preserved.
+4. What must be replaced.
+5. Exact World Egg placement and cultures.
+6. Controlling canon links.
+7. Translated premise, conflict, antagonist, and consequences.
+8. Research basis.
+9. Remaining blocking needs.
 
-**Death House → "The Tithe-House"** (horror one-shot). An Aurelium townhouse whose devoted household never noticed their living saint had died — the Devoted architecture kept running on habit and fear. Torque: the horror is the Beloved's machinery *without an operator*; the basement altar is to no one, which is worse.
+Summaries describe structure in original language and do not reproduce protected encounter text.
 
-## Conversion Rules (standing)
+## Production States
 
-1. Keep the original's *skeleton* (the part play-tested for fifty years); replace the flesh with Lives-file people and Numbers-doc stakes.
-2. Assign the tier honestly — most conversions are W or F; only three entries above touch Tier 3, and that ratio is the doctrine.
-3. Every conversion must answer: *whose job is this, and what number changes when it's done?*
+- **Seed:** source identified, but placement or conversion thesis remains open.
+- **Canon-Locked:** source verified; placement, culture, premise, and conversion ruling are stable.
+- **Fully Blocked:** dedicated adventure and support dossiers define the complete starting situation, cast, locations, threats, acts, and branchable consequences.
+
+Only fully blocked adventure premises become local canon. No player ending becomes canon merely because the adventure is blocked.
+
+## Blocking Standard
+
+A fully blocked adventure must let a reader answer:
+
+- Who needs help?
+- What happens if nobody acts?
+- Where does each act occur?
+- Why did the antagonist choose this course?
+- How do clues and travel connect?
+- Which creatures and hazards require dossiers?
+- What can fail forward?
+- Which ending states alter the setting?
+
+The adventure should work without oral explanation from its creator.
+
+## Research Standard
+
+Use official publisher descriptions first, then reputable catalogs, contemporary reviews, and play records to confirm structure. Record sources in the conversion note. Research is used to prevent invented summaries, not to preserve irrelevant proper nouns.
 
 ## Navigation
 
+- [[00 Conversion Index]]
 - [[Quest Tier Doctrine]]
-- [[The Mundane Layer — Residue, Vermin, and the Delver Trade]]
-- [[Grenzburg Campaign Branch Matrix]]
+- [[Setting Commandments]]
+- [[Gazetteer of the Known World]]

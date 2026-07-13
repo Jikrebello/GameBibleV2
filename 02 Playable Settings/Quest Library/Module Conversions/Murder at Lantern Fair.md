@@ -5,8 +5,11 @@ canon_level: local
 visibility: author-only
 source: "Pathfinder Module: Murder's Mark"
 era: ["Present Day"]
-region: ["Thalmyria", "Saltborn Coast", "Halmenth"]
-culture: ["Saltborn", "Thalmyric", "Sestaran", "Folk"]
+region:
+  - Halmenth
+culture:
+  - Saltborn
+  - Vardessan
 related_factions: ["The Turning Lantern Company", "The Chainhouse"]
 appears_in: ["Murder at Lantern Fair"]
 needs:
@@ -56,7 +59,7 @@ The guild wants room to expand its theft, smuggling, and commercial control with
 
 ## Conversion Diagnosis
 
-### What Is Worth Keeping
+### Preserve
 
 - Letting players enjoy and learn the fair before the first murder changes its meaning.
 - An ordinary criminal conspiracy using prejudice as camouflage.
@@ -69,7 +72,7 @@ The guild wants room to expand its theft, smuggling, and commercial control with
 - An attempt to frame the investigators once they become effective.
 - A warehouse finale containing stolen goods, disguises, plans, and hard evidence.
 
-### What Needs Rebuilding
+### Replace
 
 - The original sometimes gates essential deductions behind individual skill checks. Every necessary conclusion needs several independently obtainable clues and a fail-forward route.
 - The sphinx illusion is memorable but pulls the investigation toward a fantasy creature rather than the social mechanism of scapegoating. The translated frame should use a distinctive but ordinary performance tool.
@@ -79,11 +82,11 @@ The guild wants room to expand its theft, smuggling, and commercial control with
 - The fair company needs ordinary flaws, secrets, and commercial interests so innocence does not mean idealization.
 - Public proof must matter. Killing the warehouse owners without preserving evidence should not automatically clear the accused.
 
-## World Egg Conversion Seed
+## Exact World Egg Placement
 
 **The conversion:** [[The Turning Lantern Company]] arrives in Halmenth for Lantern Week. Public weighmaster Gerhard Lenz is murdered with Saltborn performer's forked rigging knife while his bonded warehouse is robbed. When Sister Alena Naris is killed inside the fair during a manufactured disturbance, the town prepares to revoke the company's charter and close its camp.
 
-**The torque:** [[The Chainhouse]], Halmenth's dominant warehouse partnership, wants traveling merchants forced back through its stores and loans. Its proprietors plan to use the riot to seize the company's portable Sestaran credit chest. The murder evidence is mundane: fish-oil lampblack, cargo fibers, cart ruts, forged delivery rolls, witness times, and tools whose owners can account for where they were.
+**The torque:** [[The Chainhouse]], Halmenth's dominant warehouse partnership, wants traveling merchants forced back through its stores and loans. Its proprietors plan to use the riot to seize the company's portable Vardessan credit chest. The murder evidence is mundane: fish-oil lampblack, cargo fibers, cart ruts, forged delivery rolls, witness times, and tools whose owners can account for where they were.
 
 **Hook:** a starter investigation where proving that the obvious suspect is innocent is only half the work; the party must also prove who actually benefits before the fair burns.
 
@@ -95,7 +98,24 @@ The guild wants room to expand its theft, smuggling, and commercial control with
 - [[Mara Tide-Knot]]
 - [[Hester Vallin]]
 
+## Blocking Needs
+
+- The adventure is fully blocked in [[Murder at Lantern Fair — Full Adventure]].
+- Remaining needs are the numerical or implementation-dependent items listed in frontmatter; the premise and ending branches are already defined.
+
 ## Research Basis
 
 - [Paizo product page](https://store.paizo.com/pathfinder-module-murder-s-mark-pfrpg-pdf/)
 - [Detailed review and adventure summary](https://rpgames.be/murders-mark-review/)
+
+## Translated Adventure Core
+
+- **Premise:** solve two murders and a warehouse robbery before Halmenth expels the culturally mixed Turning Lantern Company and seizes its Vardessan credit chest.
+- **Conflict:** ordinary physical evidence must overcome a manufactured riot, confessional prejudice, and the Chainhouse's control of local storage and testimony.
+- **Antagonist:** Hester Vallin and her Chainhouse conspirators, who kill to destroy independent trade and make travelers carry the blame.
+- **Consequences:** the killers are exposed or protected, the company keeps or loses its charter and chest, and Halmenth either preserves an open fair or hardens into warehouse monopoly and suspicion.
+
+## Controlling Canon
+
+- [[Thalmyric Canon Register]]
+- [[Gazetteer of the Known World]]

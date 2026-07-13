@@ -1,11 +1,11 @@
 ---
 type: faction
-status: draft
+status: canon
 canon_level: local
 visibility: author-only
 era: ["Present Day"]
 region: ["Castara", "Shattered Isles", "Emerald Expanse"]
-culture: ["Sestaran", "Castaran"]
+culture: ["Castaran"]
 related_factions: ["University of Castara", "House of Nine Anchors"]
 appears_in: ["No Word from Claim Seventeen"]
 needs:

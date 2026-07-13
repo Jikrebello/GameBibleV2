@@ -1,12 +1,12 @@
 ---
 type: creature
-status: draft
+status: canon
 canon_level: local
 visibility: author-only
 era: ["Present Day"]
 region: ["Sylvan Marches", "Faewild edges", "Faewild's winter half"]
 culture: ["Folk"]
-related_factions: ["The Cloven", "The Left Hand"]
+related_factions: ["The Cloven"]
 appears_in: ["The Bright-Fire Carnival"]
 needs:
   - assign encounter and unbinding values for the chosen game system
@@ -20,7 +20,7 @@ They are not a species and not a natural stage of Cloven life. "Rimebound" descr
 
 ## Cause
 
-When a [[The Rime Rider|Left-Hand factor]] riding the year's winter half sinks its cold into a Cloven collection, it does two things at once: it **inflates the debt** the Cloven is bound to collect, and it **freezes out the proportion** that would have stopped them at the guilty. What remains is a collector that still moves in its law's grammar — bargains, lures, the taking of names and years and warmth — but recognizes no limit and no wrong target. The debt is now everyone's, and the Rimebound collects as if that were true.
+When the exiled [[The Rime Rider|winter-hunter]] sinks its cold into a Cloven collection, it does two things at once: it **inflates the debt** the Cloven is bound to collect, and it **freezes out the proportion** that would have stopped them at the guilty. What remains is a collector that still moves in its law's grammar — bargains, lures, the taking of names and years and warmth — but recognizes no limit and no wrong target. The debt is now everyone's, and the Rimebound collects as if that were true.
 
 ## Signs
 
@@ -48,7 +48,7 @@ A Rimebound is not freed by being killed. Release means breaking the **Rider's h
 
 ## Canon Boundary
 
-Rimebound are corrupted Cloven, not a new fey lineage, not naturally breeding, and not evidence that the Cloven are "really" monsters. They are what a Left-Hand cold does to a lawful collection — the same wrong the Bright-Fire Carnival turns on, wearing frost. Remove the cold and the Cloven is simply a Cloven again, grieving what it was made to do.
+Rimebound are corrupted Cloven, not a new fey lineage, not naturally breeding, and not evidence that the Cloven are "really" monsters. They are what the Rime Rider's predatory cold does to a lawful collection — the same wrong the Bright-Fire Carnival turns on, wearing frost. Remove the cold and the Cloven is simply a Cloven again, grieving what it was made to do.
 
 ## Quest Uses
 
@@ -56,7 +56,7 @@ Rimebound are corrupted Cloven, not a new fey lineage, not naturally breeding, a
 - a Rimebound begs, in the original Cloven's voice, to be unbound rather than destroyed;
 - a party must tell Rimebound from Cloven in the dark, and killing the wrong one deepens the debt;
 - a freed Cloven becomes a witness against the Rider that overtook it;
-- a Left-Hand factor leaves Rimebound behind as it withdraws, a cold loose in the Marches.
+- a winter-hunt predator leaves Rimebound behind as it withdraws, a cold loose in the Marches.
 
 ## Navigation
 

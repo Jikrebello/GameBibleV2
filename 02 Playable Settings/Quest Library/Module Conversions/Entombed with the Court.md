@@ -5,8 +5,12 @@ canon_level: local
 visibility: author-only
 source: "PZO9505 J1 Entombed with the Pharaohs"
 era: ["Present Day"]
-region: ["Great Glass Desert", "Anshara"]
-culture: ["Sestaran", "Ansharan"]
+region:
+  - Fiorenzia
+  - Great Glass Desert
+culture:
+  - Fiorenzian
+  - Ansharan
 related_factions: ["The Sanguine", "The Regalis", "The Gilded Step"]
 appears_in: ["Entombed with the Court"]
 needs:
@@ -53,7 +57,7 @@ A previous expedition found the tomb and was destroyed. Its sole survivor, Raego
 
 ## Conversion Diagnosis
 
-### What Is Worth Keeping
+### Preserve
 
 - An antiquities auction that lets clues, tools, and rivalries appear before the dungeon.
 - A survivor who can warn the party but cannot safely return.
@@ -64,7 +68,7 @@ A previous expedition found the tomb and was destroyed. Its sole survivor, Raego
 - A progressive tomb curse that can turn allies into guardians.
 - Four distinct funerary precincts, a central ruling household, and a timed escape.
 
-### What Needs Rebuilding
+### Replace
 
 - Egyptian royal imagery belongs to the source adventure, not to Anshara. The conversion needs Ansharan satrapal courts, paradise-gardens, throne-wax, Giant pride, and vampire lineage claims.
 - The original curse is mechanically memorable but causally arbitrary. The Ansharan tomb should transform intruders because it recognizes, ranks, and absorbs them into its household.
@@ -74,9 +78,9 @@ A previous expedition found the tomb and was destroyed. Its sole survivor, Raego
 - Treasure alone is too thin a stake. The expedition must decide the fate of conscious servants, evidence about vampiric origins, and a court-engine that could restore an ancient claim.
 - The ending needs consequences for the rival crew and the Sanguine and Regalis claimants, not merely an escape roll.
 
-## World Egg Conversion Seed
+## Exact World Egg Placement
 
-**The conversion:** A Sestaran antiquities venture locates the processional road to an Ansharan satellite court sealed inside a folded paradise-garden. The party and the rival [[The Gilded Step|Gilded Step]] race to recover the **Processional Face** that can recall it. Once inside, the court's protocol assigns every intruder a rank and gradually seals them in throne-wax as members of its dead household.
+**The conversion:** A Fiorenzian antiquities venture locates the processional road to an Ansharan satellite court sealed inside a folded paradise-garden. The party and the rival [[The Gilded Step|Gilded Step]] race to recover the **Processional Face** that can recall it. Once inside, the court's protocol assigns every intruder a rank and gradually seals them in throne-wax as members of its dead household.
 
 **The torque:** the party's curator wants a documented recovery; a hidden Regalis investor wants proof that his bloodline inherits the court; the Sanguine claim the entire complex as ancestral memory. The court's human servants are still conscious enough to be freed, but opening the archives also gives modern vampires access to primordial blood rites.
 
@@ -89,7 +93,24 @@ A previous expedition found the tomb and was destroyed. Its sole survivor, Raego
 - [[Satrap Varesh]]
 - [[Wax-Bound Courtiers]]
 
+## Blocking Needs
+
+- The adventure is fully blocked in [[Entombed with the Court — Full Adventure]].
+- Remaining needs are the numerical or implementation-dependent items listed in frontmatter; the premise and ending branches are already defined.
+
 ## Research Basis
 
 - [Paizo product description](https://paizo.com/products/btpy80ea)
 - [Paizo: Meet the Competition](https://paizo.com/blog/meet-the-competition)
+
+## Translated Adventure Core
+
+- **Premise:** join a Fiorenzian antiquities venture racing to recall and enter a folded Ansharan court before a rival expedition claims it.
+- **Conflict:** the dead court assigns every intruder a permanent household rank while modern sponsors compete over archives, blood rites, and ownership of the find.
+- **Antagonist:** Satrap Varesh and the court protocol he still embodies, with the Gilded Step acting as a dangerous human rival rather than a second final villain.
+- **Consequences:** trapped servants may be freed or sealed forever, the Processional Face changes hands, and primordial blood knowledge is destroyed, controlled, or released to modern claimants.
+
+## Controlling Canon
+
+- [[Sestaran Canon Register]]
+- [[Gazetteer of the Known World]]

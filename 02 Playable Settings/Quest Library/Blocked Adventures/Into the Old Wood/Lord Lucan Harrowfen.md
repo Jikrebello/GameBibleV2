@@ -1,6 +1,6 @@
 ---
 type: character
-status: draft
+status: canon
 canon_level: local
 visibility: author-only
 era: ["Present Day"]
@@ -47,7 +47,7 @@ Lucan gains Resolve when shown evidence alongside a workable material response. 
 
 ## Continuation
 
-Under the strongest ending, Lucan becomes a constrained but legitimate frontier lord. He remains vulnerable to poor harvests, Sabine's criticism, Church suspicion, and Folk demands that the compact apply in cases he did not anticipate. His success is the beginning of difficult rule, not proof that one good promise solved the Marches.
+Under the most restorative branch, Lucan becomes a constrained but legitimate frontier lord. He remains vulnerable to poor harvests, Sabine's criticism, Church suspicion, and Folk demands that the compact apply in cases he did not anticipate. His success is the beginning of difficult rule, not proof that one good promise solved the Marches.
 
 ## Navigation
 

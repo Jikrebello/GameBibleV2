@@ -1,6 +1,6 @@
 ---
 type: quest
-status: draft
+status: canon
 canon_level: local
 visibility: author-only
 source: "Translated from PZO9500-TC1 Into the Haunted Forest"
@@ -195,7 +195,7 @@ After the first two relics, the wood opens a path back to the cairn. Lucan and S
 
 The party must decide what to reveal. Each confession shown to Lucan raises his Resolve if the party also explains the material cost of restitution. Concealing the evidence keeps him cooperative now but weakens the final compact.
 
-Eydis asks Lucan to accompany the party to Hartrest Lodge. He may refuse unless Resolve is at least 1. The party can bring him as a vulnerable noncombatant, carry his written pledge, or proceed without him. Only his personal presence permits the strongest ending.
+Eydis asks Lucan to accompany the party to Hartrest Lodge. He may refuse unless Resolve is at least 1. The party can bring him as a vulnerable noncombatant, carry his written pledge, or proceed without him. Only his personal presence permits the most restorative branch.
 
 ### Act II Output
 
@@ -276,7 +276,7 @@ The strongest result needs a material plan, not only a good speech. Lucan can re
 
 ### The Compact Renewed
 
-All three breaches are repaired, Alda's memory is released, Lucan personally renews the terms, and the party presents at least two confession fragments. The wood grants the heirlooms rather than losing them. Lucan becomes lord with narrower powers and stronger local legitimacy. This is the strongest continuation.
+All three breaches are repaired, Alda's memory is released, Lucan personally renews the terms, and the party presents at least two confession fragments. The wood grants the heirlooms rather than losing them. Lucan becomes lord with narrower powers and stronger local legitimacy. This is the most restorative continuation.
 
 ### The Inheritance Taken
 

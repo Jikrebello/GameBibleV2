@@ -1,10 +1,10 @@
 ---
 type: creature
-status: draft
+status: canon
 canon_level: local
 visibility: author-only
 era: ["Present Day"]
-region: ["Thalmyria", "Military Province of Arkena", "Faewild law-places"]
+region: ["Thalmyria", "Kingdom of Vlastrava", "Faewild law-places"]
 culture: []
 related_factions: []
 appears_in: ["The Drakesfall"]

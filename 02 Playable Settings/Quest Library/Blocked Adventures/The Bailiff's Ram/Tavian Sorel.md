@@ -1,15 +1,15 @@
 ---
 type: character
-status: draft
+status: canon
 canon_level: local
 visibility: author-only
 era: ["Present Day"]
 region: ["Vorthara", "Vortharan Highlands"]
-culture: ["Sestaran", "Vortharan"]
+culture: ["Vortharan"]
 related_factions: ["House of Mutable Form"]
 appears_in: ["The Bailiff's Ram"]
 needs:
-  - determine his post-adventure profession after the canonical ending is selected
+  - define his post-adventure profession for each ending branch reached in play
 tags: [module-conversion, game-ready]
 ---
 # Tavian Sorel
@@ -45,7 +45,7 @@ He is worth rescuing without being allowed to author the final account.
 
 ## Growth
 
-Tavian's strongest continuation requires three admissions:
+Tavian's most restorative continuation requires three admissions:
 
 1. He never mastered.
 2. Nera built the reversion index.
@@ -59,4 +59,3 @@ Restoration without these admissions gives him back a body without changing the 
 - [[Nera Voss]]
 - [[House of Mutable Form]]
 - [[Reversion Crook]]
-

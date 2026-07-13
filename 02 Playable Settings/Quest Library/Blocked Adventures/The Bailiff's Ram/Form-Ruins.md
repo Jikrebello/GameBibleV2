@@ -1,11 +1,11 @@
 ---
 type: creature
-status: draft
+status: canon
 canon_level: local
 visibility: author-only
 era: ["Present Day"]
 region: ["Vorthara", "Vortharan magical industry"]
-culture: ["Sestaran", "Vortharan"]
+culture: ["Vortharan"]
 related_factions: ["Fleshweavers", "House of Mutable Form"]
 appears_in: ["The Bailiff's Ram"]
 needs:

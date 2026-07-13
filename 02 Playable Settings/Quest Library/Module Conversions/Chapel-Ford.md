@@ -5,8 +5,12 @@ canon_level: local
 visibility: author-only
 source: "T1 The Village of Hommlet"
 era: ["Present Day"]
-region: ["Eclessia"]
-culture: ["Chapel-Folk"]
+region:
+  - Grenzburg
+  - Folk frontier
+culture:
+  - Chapel-Folk
+  - Folk
 related_factions: ["Weeping Courts"]
 appears_in: []
 needs:
@@ -48,7 +52,7 @@ The module is primarily a **home-base sandbox**, not a tightly plotted story. Mo
 
 ## Conversion Diagnosis
 
-### What Is Worth Keeping
+### Preserve
 
 - A village detailed enough to become a genuine home rather than a quest dispenser.
 - Ordinary trades, prices, defenses, gossip, and domestic relationships.
@@ -57,7 +61,7 @@ The module is primarily a **home-base sandbox**, not a tightly plotted story. Mo
 - A local charismatic villain whose defeat reveals a larger network.
 - Player freedom to recruit help and choose how deeply to investigate.
 
-### What Needs Rebuilding
+### Replace
 
 - The original gives the party no strong reason to investigate the moathouse.
 - Many villagers have statistics and hidden alignment but little playable motive.
@@ -66,7 +70,7 @@ The module is primarily a **home-base sandbox**, not a tightly plotted story. Mo
 - Village investigation rarely changes the expedition beyond supplying rumors and hirelings.
 - The module ends with a larger threat but gives little closure for the village itself.
 
-## World Egg Conversion Seed
+## Exact World Egg Placement
 
 **The conversion:** Chapel-Ford has prospered since a trading house began funding weddings, funerals, and repairs. Its apparitions comfort converts whose families mourn the old pacts. A Weeping Courts cell manufactures the miracles from a ruined toll-house, refining conversion-grief for sale.
 
@@ -81,3 +85,24 @@ The module is primarily a **home-base sandbox**, not a tightly plotted story. Mo
 - [[Marta Veyr]]
 - [[Borrowed Saints]]
 - [[The Weeping Courts]]
+
+## Translated Adventure Core
+
+- **Premise:** investigate comforting apparitions around Chapel-Ford before the force producing them finishes converting private grief into a predatory harvest.
+- **Conflict:** the manufactured miracles have accompanied real charity and social peace, so exposing the predation risks destroying goods that sincere villagers depend upon.
+- **Antagonist:** Marta Veyr and the Weeping Courts cell in the ruined toll-house, aided by the community's understandable desire to keep its consolation.
+- **Consequences:** the cell is exposed or entrenched, mourners keep or lose their false apparitions, and Chapel-Folk relations with kin, clergy, and local court law change with the party's method.
+
+## Controlling Canon
+
+- [[Folk Canon Register]]
+- [[Grenzburg MOC]]
+
+## Blocking Needs
+
+- The adventure is fully blocked in [[Chapel-Ford — Full Adventure]].
+- Remaining needs are the numerical or implementation-dependent items listed in frontmatter; the premise and ending branches are already defined.
+
+## Research Basis
+
+Checked against the documented structure of [The Village of Hommlet and Temple of Elemental Evil](https://en.wikipedia.org/wiki/The_Temple_of_Elemental_Evil).

@@ -1,10 +1,10 @@
 ---
 type: creature
-status: draft
+status: canon
 canon_level: local
 visibility: author-only
 era: ["Present Day"]
-region: ["Grenzburg approaches", "Velian border", "frontier ruins"]
+region: ["Dornwatch", "Grenzburg", "frontier ruins"]
 culture: []
 related_factions: []
 appears_in: ["The Broken Tower"]

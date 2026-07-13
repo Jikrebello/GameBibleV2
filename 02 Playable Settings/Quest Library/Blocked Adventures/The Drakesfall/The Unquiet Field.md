@@ -1,10 +1,10 @@
 ---
 type: mechanic
-status: draft
+status: canon
 canon_level: local
 visibility: author-only
 era: ["Present Day"]
-region: ["Thalmyria", "Military Province of Arkena", "The Drakesfall Vale"]
+region: ["Thalmyria", "Kingdom of Vlastrava", "The Drakesfall Vale"]
 culture: ["Thalmyric"]
 related_factions: ["Thalmyric Church"]
 appears_in: ["The Drakesfall"]

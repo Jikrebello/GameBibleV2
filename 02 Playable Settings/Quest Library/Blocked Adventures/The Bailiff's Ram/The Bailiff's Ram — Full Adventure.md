@@ -1,12 +1,12 @@
 ---
 type: quest
-status: draft
+status: canon
 canon_level: local
 visibility: author-only
 source: "Translated from A Wild Sheep Chase"
 era: ["Present Day"]
 region: ["Vorthara", "Vortharan Highlands", "Bent Bough Lodge"]
-culture: ["Sestaran", "Vortharan"]
+culture: ["Vortharan"]
 related_factions: ["House of Mutable Form", "Vortharan Recovery Office"]
 appears_in: ["The Bailiff's Ram"]
 needs:
@@ -79,6 +79,10 @@ By then Nera had expanded the system. Debtors unable to pay were offered collect
 | **Oren Bale** | Cartwright in bear form | Get out of the lodge, preferably after finding trousers | He knows Nera sleeps with the Crook chained to the canopy bed |
 
 ## The House of Mutable Form
+
+### Canon Authority Ruling
+
+The House is an independent Vortharan school descended from the Fleshweaver tradition described in [[The Fleshweavers and The Red Covenant]]. Its recovery officers enforce House covenants, lodge rules, and reciprocal agreements with a few neighboring schools. Nera Voss is the House's bailiff, not a municipal officer, and her writ has no automatic force outside those relationships.
 
 The [[House of Mutable Form]] is a minor Vortharan teaching-house specializing in reversible bodies for dangerous labor, surgery, performance, infiltration, and arena use. It is licensed, profitable, academically serious, and morally compromised.
 
@@ -363,7 +367,7 @@ Tavian's restoration is the least technically difficult and the most politically
 
 ### Every Body Returned
 
-Proof of Misuse is 3, the register survives, Collateral Trust is positive, and the Crook remains usable long enough for controlled restoration. The House voids the body-collateral clause in settlement, Nera loses her recovery license, and Tavian accepts service plus public correction of authorship. This is the strongest continuation.
+Proof of Misuse is 3, the register survives, Collateral Trust is positive, and the Crook remains usable long enough for controlled restoration. The House voids the body-collateral clause in settlement, Nera loses her recovery license, and Tavian accepts service plus public correction of authorship. This is the most restorative continuation.
 
 ### Restitution Without Ownership
 

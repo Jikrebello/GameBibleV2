@@ -1,6 +1,6 @@
 ---
 type: faction
-status: draft
+status: canon
 canon_level: local
 visibility: author-only
 era: ["1343 AR-Present"]

@@ -1,21 +1,21 @@
 ---
 type: place
-status: draft
+status: canon
 canon_level: local
 visibility: author-only
 era: ["Present Day"]
-region: ["Thalmyria", "Military Province of Arkena", "The Drakesfall Vale"]
+region: ["Thalmyria", "Kingdom of Vlastrava", "The Drakesfall Vale"]
 culture: ["Thalmyric"]
 related_factions: ["Thalmyric Church", "The Vharo Concession"]
 appears_in: ["The Drakesfall"]
 needs:
-  - place the vale on the final Arkenan highland map and set its distance from Kalzaret
+  - set the vale's exact travel time from Kalzaret during encounter blocking
   - decide the Skete's post-adventure custody (re-peopled, Church-held, or ended)
 tags: [module-conversion, game-ready]
 ---
 # The Drakesfall Vale
 
-The Drakesfall Vale is a highland valley in the Military Province of Arkena where the Faewild courts' [[Drakes Overview|drakes]] have come to die since before men — the drake canon's holiest and most dangerous site, and the setting of [[The Drakesfall]]. It is floored with heart-gems slowly returning their crystallized law to the Faewild, and it has been kept quiet for centuries by the ascetic wardens of the Cyrian Skete. Left untended, it is a dam with a crack.
+The Drakesfall Vale is a highland valley in the Kingdom of Vlastrava, above Kalzaret, where the Faewild courts' [[Drakes Overview|drakes]] have come to die since before men — the drake canon's holiest and most dangerous site, and the setting of [[The Drakesfall]]. It is floored with heart-gems slowly returning their crystallized law to the Faewild, and it has been kept quiet for centuries by the ascetic wardens of the Cyrian Skete. Left untended, it is a dam with a crack.
 
 ## What the Vale Is
 

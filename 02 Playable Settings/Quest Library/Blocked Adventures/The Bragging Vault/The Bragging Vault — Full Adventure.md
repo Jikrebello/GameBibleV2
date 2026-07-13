@@ -1,12 +1,12 @@
 ---
 type: quest
-status: draft
+status: canon
 canon_level: local
 visibility: author-only
 source: "Translated from S2 White Plume Mountain"
 era: ["Present Day"]
 region: ["Vorthara", "Vortharan geothermal district", "Ashplume Vault"]
-culture: ["Sestaran", "Vortharan"]
+culture: ["Vortharan"]
 related_factions: ["Pale Hand", "The Vaunt's Stable", "Wardens of the Crown Road", "Fleshweavers"]
 appears_in: ["The Bragging Vault"]
 needs:
@@ -74,6 +74,10 @@ What Marlo underpriced was the floor. To fund construction cheaply he took a dev
 | **The three registered owners** | Bounty-posters | Their names cleared of what the arms did | Each posted a "theft" that was partly a relief |
 
 ## The Vaunt's Stable and the Pale Hand
+
+### Canon Authority Ruling
+
+Ashplume is governed by a compact among the Vaunt's stable, the Pale Hand lender, neighboring pit patrons, and the arena shrine whose Bishop-of-Bouts arbitrates their disputes. The bond-court is this compact's tribunal. It can impound the Trophy-Arms and void its own mortgage clauses, but it is neither Vorthara's government nor a court with universal city jurisdiction.
 
 The [[Corsin Marlo|Vaunt's operation]] is not yet an institution — it is one impresario, a stage-crew, a broker's lapsed license, and a scried gauntlet. That is exactly its danger and its appeal: Marlo is building the stable out of whoever wins, and a party that signs becomes the founding act of a rising arena house with real money behind it.
 
@@ -269,7 +273,7 @@ The arms are not restored so much as retired. Forfeit's win-lock can be broken w
 
 ### The Rising House
 
-The party signs on their terms, the harvest is dismantled as a condition, and the Vault-Claimed are released into their care. Vorthara gains a new arena stable that recovers people from institutions instead of feeding them to one. Marlo is a chastened partner testing every clause. The strongest continuation.
+The party signs on their terms, the harvest is dismantled as a condition, and the Vault-Claimed are released into their care. Vorthara gains a new arena stable that recovers people from institutions instead of feeding them to one. Marlo is a chastened partner testing every clause. This is the most restorative continuation.
 
 ### The Court Carves Them
 

@@ -1,11 +1,11 @@
 ---
 type: character
-status: draft
+status: canon
 canon_level: local
 visibility: author-only
 era: ["Present Day"]
 region: ["Vorthara"]
-culture: ["Sestaran"]
+culture: ["Vortharan"]
 related_factions: ["Collegium of Doors"]
 appears_in: ["Breach-Week"]
 needs: []

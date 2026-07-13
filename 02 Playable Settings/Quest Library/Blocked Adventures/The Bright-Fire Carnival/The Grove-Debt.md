@@ -1,12 +1,12 @@
 ---
 type: mechanic
-status: draft
+status: canon
 canon_level: local
 visibility: author-only
 era: ["Present Day"]
 region: ["Sylvan Marches", "Grenzburg frontier"]
 culture: ["Folk"]
-related_factions: ["The Cloven", "The Left Hand", "Frontier Industry Lords"]
+related_factions: ["The Cloven", "Frontier Industry Lords"]
 appears_in: ["The Bright-Fire Carnival"]
 needs:
   - set the exact coin (years, names, warmth, offering) and settlement thresholds for the chosen game system
@@ -55,7 +55,7 @@ A grove-debt is only proportionate while it stays attached to the guilty. [[The 
 - **acceleration:** setting a public due date (the third-night bonfires) instead of the land's slow season;
 - **guarantee:** binding the wronged party by Faewild law so they cannot call the collection off once inflated.
 
-An inflated grove-debt is no longer justice. It is a Left-Hand instrument wearing justice's clothes, and collapsing it back to its targeted form — by payment, by voiding the guarantee, or by destroying the Rider — is the party's core problem.
+An inflated grove-debt is no longer justice. It is a predator's fraud wearing justice's clothes, and collapsing it back to its targeted form — by payment, by voiding the guarantee, or by destroying the Rider — is the party's core problem.
 
 ## Why the Guilty Refuse
 
@@ -63,7 +63,7 @@ The cruelty of the mechanic is that the debt is cheap to pay and expensive to ad
 
 ## Story Use
 
-The grove-debt is portable: any grove taken without offering, any frontier profit built on a defaulted land-claim, any Left-Hand factor buying an aggrieved forest's grievance. It is the Sylvan Marches version of every lien in the setting — a real obligation that is just when the wronged collect it and monstrous when a predator buys and inflates it.
+The grove-debt is portable: any grove taken without offering, any frontier profit built on a defaulted land-claim, any winter-hunt predator buying an aggrieved forest's grievance. It is a recurring danger of the Sylvan Marches — a real obligation that is just when the wronged collect it and monstrous when a predator buys and inflates it.
 
 ## Navigation
 

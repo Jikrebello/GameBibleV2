@@ -1,11 +1,11 @@
 ---
 type: place
-status: draft
+status: canon
 canon_level: local
 visibility: author-only
 era: ["Present Day"]
 region: ["Vorthara", "Vortharan geothermal district", "Ashplume Vault"]
-culture: ["Sestaran", "Vortharan"]
+culture: ["Vortharan"]
 related_factions: ["The Vaunt's Stable", "Pale Hand", "Crafters' Union"]
 appears_in: ["The Bragging Vault"]
 needs:

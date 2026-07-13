@@ -13,7 +13,7 @@ tags: ["needs-review"]
 ---
 # Photoshop Import Guide
 
-This folder contains one transparent SVG for every political block in [[Political World Map - Border Proof]]. Every SVG uses the same **2273 × 1091** artboard as `World Map (Southern Hemisphere).png`. No file contains the parchment base map, number label, context label, legend, or another territory.
+This folder contains one transparent SVG for every political block in [[Political World Map - Border Proof.svg]]. Every SVG uses the same **2273 × 1091** artboard as `World Map (Southern Hemisphere).png`. No file contains the parchment base map, number label, context label, legend, or another territory.
 
 ## Import
 

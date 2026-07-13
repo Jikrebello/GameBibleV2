@@ -5,8 +5,10 @@ canon_level: local
 visibility: author-only
 source: "Pathfinder Module: Fangwood Keep"
 era: ["Present Day", "Wars of Reform"]
-region: ["Eclessia", "Korrheim-Brauvalis border", "Hollow Keep"]
-culture: ["Eclessian", "Korrheimer", "Brauvalian"]
+region:
+  - Brauvalis
+culture:
+  - Brauvalian
 related_factions: ["Accord Wardens", "Freeflame", "Eclessian Church", "Grey Pike Company"]
 appears_in: ["The Accord's Hollow Keep"]
 needs:
@@ -58,7 +60,7 @@ After weeks of digging, casualties, and lies, the Strikers rebel. Vos and his co
 
 ## Conversion Diagnosis
 
-### What Is Worth Keeping
+### Preserve
 
 - A compact fortress whose defenders move, communicate, and react to alarms.
 - Several viable infiltration routes, including secret passages built for defenders after occupation.
@@ -70,7 +72,7 @@ After weeks of digging, casualties, and lies, the Strikers rebel. Vos and his co
 - A surface military problem that opens into an older hidden complex.
 - A final choice over a strategic keep rather than a dungeon that ceases to matter when its boss dies.
 
-### What Needs Rebuilding
+### Replace
 
 - The original national border war should become a post-Accord confessional border where renewed fighting could undo a fragile peace.
 - Hobgoblin mercenaries should not be imported merely to fill enemy rooms. A Korrheimer contract-company can preserve the negotiable military faction without confusing Grobi canon.
@@ -82,7 +84,7 @@ After weeks of digging, casualties, and lies, the Strikers rebel. Vos and his co
 - Capturing the fort cannot be the only objective. The party must prevent approaching relief columns from turning a contained crisis into a new reform war.
 - The confession register must matter as testimony and supernatural anchor, not as another excuse to make every scene about paperwork.
 
-## World Egg Conversion Seed
+## Exact World Egg Placement
 
 **The conversion:** [[Hollow Keep]] is a joint Accord watch-fort controlling the Dreywater road between Korrheim and Brauvalis. It stops answering both sides. Freeflame auxiliaries hold the walls, old-Church soldiers barricade the chapel wing, the [[Grey Pike Company]] controls the gatehouse, and surviving [[Accord Wardens]] hide in passages beneath them.
 
@@ -101,8 +103,25 @@ After weeks of digging, casualties, and lies, the Strikers rebel. Vos and his co
 - [[Accord Wardens]]
 - [[Hollow Sentries]]
 
+## Blocking Needs
+
+- The adventure is fully blocked in [[The Accord's Hollow Keep — Full Adventure]].
+- Remaining needs are the numerical or implementation-dependent items listed in frontmatter; the premise and ending branches are already defined.
+
 ## Research Basis
 
 - [Official Paizo product page](https://store.paizo.com/pathfinder-module-fangwood-keep-pdf/)
 - [Spoiler review and structural synopsis](https://www.ofdiceandpen.ca/2013/04/fangwood-keep.html)
 - [Original module text used to check the keep, NPCs, undercroft, and ending](https://fliphtml5.com/baltv/khuy/Fangwood_Keep/1/)
+
+## Translated Adventure Core
+
+- **Premise:** retake an Accord watch-fort before rival relief columns arrive and turn a local disappearance into renewed confessional war.
+- **Conflict:** the party must distinguish living soldiers from copied sentries while crossing Freeflame, old-Church, mercenary, and Warden lines inside the same keep.
+- **Antagonist:** Magistra Sabine Krail and the Hollow Muster she activated through Captain Othmar Vale's grief.
+- **Consequences:** the keep is restored, partitioned, or destroyed; surviving troops are identified or condemned; and the Korrheim Accord is reinforced or pushed toward another war.
+
+## Controlling Canon
+
+- [[Eclessian Canon Register]]
+- [[The Korrheim Accord]]

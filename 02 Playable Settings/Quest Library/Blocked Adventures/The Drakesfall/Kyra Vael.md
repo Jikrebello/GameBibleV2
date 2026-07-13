@@ -1,15 +1,15 @@
 ---
 type: character
-status: draft
+status: canon
 canon_level: local
 visibility: author-only
 era: ["Present Day"]
-region: ["Thalmyria", "Military Province of Arkena", "The Drakesfall Vale"]
+region: ["Thalmyria", "Kingdom of Vlastrava", "The Drakesfall Vale"]
 culture: ["Thalmyric"]
 related_factions: ["Thalmyric Church"]
 appears_in: ["The Drakesfall"]
 needs:
-  - decide her vocation and custody after the canonical ending is selected
+  - define her vocation and custody for each ending branch reached in play
 tags: [module-conversion, game-ready]
 ---
 # Kyra Vael

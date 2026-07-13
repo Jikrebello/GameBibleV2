@@ -1,12 +1,12 @@
 ---
 type: quest
-status: draft
+status: canon
 canon_level: local
 visibility: author-only
 source: "Translated from PZO9536 No Response from Deepmar"
 era: ["Present Day"]
 region: ["Shattered Isles", "Emerald Expanse Route", "Claim Seventeen"]
-culture: ["Sestaran", "Castaran"]
+culture: ["Castaran"]
 related_factions: ["Valcori Passage and Extraction Company", "University of Castara", "House of Nine Anchors"]
 appears_in: ["No Word from Claim Seventeen"]
 needs:
@@ -425,7 +425,7 @@ The party must also decide whether copied memories count as survivors, evidence,
 
 ### The Claim Is Closed and the People Named
 
-The Curator is destroyed or permanently shut down, Survivors Recovered is 3+, Memory Integrity is 3+, and the debt rolls return. Claim Seventeen is publicly declared unsafe and locally bird-marked. Passage debts are discharged from Valcori insurance proceeds, and every confirmed dead or copied worker is named. This is the strongest continuation.
+The Curator is destroyed or permanently shut down, Survivors Recovered is 3+, Memory Integrity is 3+, and the debt rolls return. Claim Seventeen is publicly declared unsafe and locally bird-marked. Passage debts are discharged from Valcori insurance proceeds, and every confirmed dead or copied worker is named. This is the most restorative continuation.
 
 ### University Quarantine
 

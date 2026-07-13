@@ -1,21 +1,20 @@
 ---
 type: place
-status: draft
+status: canon
 canon_level: local
 visibility: author-only
 era: ["Present Day"]
-region: ["Grenzburg approaches", "Velian border", "The Kestrel Tower"]
+region: ["Dornwatch", "Grenzburg", "The Kestrel Tower"]
 culture: ["Folk", "Eclessian"]
 related_factions: ["The Medori Bank", "The Folk Clans"]
 appears_in: ["The Broken Tower"]
 needs:
-  - place the tower on the final Grenzburg-approaches border map and set its finder's-quarter value
-  - decide its post-adventure owner (Bank, party, or contested)
+  - set the tower's exact half-day route from Dornwatch and its stabilization requirements
 tags: [module-conversion, game-ready]
 ---
 # The Kestrel Tower
 
-The Kestrel Tower is an earthquake-split Velian border fort on the Grenzburg approaches, and the delving site of [[The Broken Tower]]. It is a textbook Tier One dungeon: a long-sealed ruin with three garrisons' worth of dead in its history, cracked open by a quake, now holding old residue, a vermin flock, a squatter, and somebody's lost strongbox. It is exactly the kind of place the delver trade runs on.
+The Kestrel Tower is an earthquake-split Atherian-Eclessian frontier fort near Dornwatch, and the delving site of [[The Broken Tower]]. It is a textbook Tier One dungeon: a long-sealed ruin with three garrisons' worth of dead in its history, cracked open by a quake, now holding old residue, a vermin flock, a squatter, and somebody's lost strongbox. It is exactly the kind of place the delver trade runs on.
 
 ## History — Three Layers of Dead
 
@@ -37,9 +36,9 @@ The tower rises in floors rather than spreading in halls, which makes it the cle
 
 The tower's dead are [[The Mundane Layer — Residue, Vermin, and the Delver Trade|Tier One residue]] — shed echoes of three garrisons, animated because the quake broke the rites and years that had drained them. They are not the people who died here; those souls routed long ago. Putting them down is sexton-work: iron, silver, a torch, and a consecration after if a priest is passing. No theology required, which is the whole point of the site as a tutorial.
 
-## The Salvage Question
+## The Ownership Question
 
-The tower's charter lapsed when the quake broke the fort — a filed charter cannot survive the destruction of the thing it charters. Under salvage law, whoever *clears* the tower can claim its finder's-quarter and title. The [[The Medori Bank]] knows this and means to claim the fort once someone else has done the dangerous clearing. This is the adventure's torque: the ruin is worth more as a claim than as a rescue, and the party is the cheapest way to make the claim clearable.
+The fort's old title is disputed between the ducal march, the Bank file that last surveyed it, and Folk descendants whose holdings were cut by later boundaries. That dispute does not need resolution during the rescue. Until masons stabilize the quake damage and clergy settle the disturbed dead, no responsible authority should award occupation.
 
 ## Environmental Features
 
@@ -51,7 +50,7 @@ The tower's charter lapsed when the quake broke the fort — a filed charter can
 
 ## Aftermath Uses
 
-The Kestrel Tower can become a Bank-claimed and re-charted holding, a party-held finder's claim and possible base, a contested salvage file that draws rival crews, or a re-consecrated and abandoned ruin left to finish draining at last.
+The Kestrel Tower can become a stabilized ducal watchpost, a jointly administered border site, a sealed ruin, or a later contested holding. Those are follow-on stories rather than rewards for completing the rescue.
 
 ## Navigation
 

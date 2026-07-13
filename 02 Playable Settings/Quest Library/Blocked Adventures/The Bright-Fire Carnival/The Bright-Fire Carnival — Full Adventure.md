@@ -1,13 +1,13 @@
 ---
 type: quest
-status: draft
+status: canon
 canon_level: local
 visibility: author-only
 source: "Translated from E1 Carnival of Tears"
 era: ["Present Day"]
 region: ["Sylvan Marches", "Grenzburg frontier", "Ferren Hollow"]
 culture: ["Folk", "Eclessian"]
-related_factions: ["The Cloven", "Frontier Industry Lords", "The Left Hand"]
+related_factions: ["The Cloven", "Frontier Industry Lords"]
 appears_in: ["The Bright-Fire Carnival"]
 needs:
   - balance the day-attractions, their twisted night-forms, and the Rime Rider for the chosen game system
@@ -22,7 +22,7 @@ tags: [module-conversion, game-ready]
 
 **Beginning:** Three days of real festival. The attractions delight by day; the chill is a little wrong; the performers are a little too graceful. The party enters as fairgoers and becomes the only people asking why the carnival feels like a countdown.
 
-**Middle:** The party learns two truths in sequence. First, the carnival's fey are collecting a lawful, proportionate [[The Grove-Debt|grove-debt]] against the people who burned the grove — measured, targeted, and stoppable by payment. Second, a colder thing has gotten inside the collection: [[The Rime Rider]], a [[The Atlas of the Left Hand|Left-Hand]] factor who buys aggrieved land-debts, has inflated the invoice and means to take the whole town instead of the guilty few.
+**Middle:** The party learns two truths in sequence. First, the carnival's fey are collecting a lawful, proportionate [[The Grove-Debt|grove-debt]] against the people who burned the grove — measured, targeted, and stoppable by payment. Second, a colder thing has gotten inside the collection: [[The Rime Rider]], an ancient winter-hunt predator that fastens itself to aggrieved land, has inflated the invoice and means to take the whole town instead of the guilty few.
 
 **End:** On the third night, after the Bright-Fire bonfires and the fireworks, the attractions turn. Each daytime delight becomes its lethal shadow. The party can fight through the gauntlet, remove the Rider, pay the original debt, force the guilty to pay it, or some combination — but force ends the Rider without ending the debt, and paying the debt ends the Cloven without ending the Rider.
 
@@ -57,7 +57,7 @@ Last spring, to make a quota Holger Strun had quietly promised a southern buyer,
 
 The grove did not simply die. Under [[Sylvorn]]'s law a grove that old is a node of territorial memory, and its law survived its trees. It gathered itself into [[Sisrin the Alder-Maid]] — the grove wearing a face — and filed a collection in the only venue the frontier and the Faewild share: a festival. Sisrin took over a real traveling carnival, staffed it with the grove's [[The Cloven]], and brought it to Ferren Hollow for Bright-Fire. Her intended collection was proportionate and targeted: frighten the town, take specific years and names and warmth from the crews who did the burning, and leave with the debt paid. Cruel by human measure, but bounded.
 
-Then the debt was noticed by something that trades in them. [[The Rime Rider]] is a factor of the [[The Atlas of the Left Hand|Left Hand]]'s cold reaches — the architecture that buys legitimate debts and collects them predatorily — wearing the mask of the year's winter half, when territorial-memory debts fall due hardest. The Rider approached Sisrin as an ally of the wronged and offered to *guarantee* the collection. What it actually did was buy a share of the grievance and inflate its coin: reclassify the debt from "the crews who burned the grove" to "the town that ate the profit," and set the third-night bonfires as the moment the whole of Ferren Hollow pays.
+Then the debt was noticed by something that trades in them. [[The Rime Rider]] is an old Faewild winter-hunter cast out of the lawful seasonal courts, wearing the mask of the year's winter half, when territorial-memory debts fall due hardest. The Rider approached Sisrin as an ally of the wronged and offered to *guarantee* the collection. What it actually did was fasten itself to the grievance and inflate its coin: reclassify the debt from "the crews who burned the grove" to "the town that ate the profit," and set the third-night bonfires as the moment the whole of Ferren Hollow pays.
 
 Sisrin knows the collection has been corrupted and cannot easily undo it, because she took the Rider's guarantee in the grove's name and Faewild law holds her to it. She wants the guilty to pay the original debt before the third night, which would satisfy her claim and strip the Rider of the pretext it is riding. The Timber-Cartel refuses. Karl will not admit the burning; Holger Strun will not pay for a grove he can still deny knowing about. Every hour they refuse, the Rider's version looks more like justice, and the fireworks come closer.
 
@@ -66,25 +66,25 @@ Sisrin knows the collection has been corrupted and cannot easily undo it, becaus
 | Character | Role | What they want | What they conceal |
 |---|---|---|---|
 | [[Sisrin the Alder-Maid]] | The burned grove's surviving law; carnival mistress | The original grove-debt paid by the guilty, before the third night | She took the Rider's guarantee and is now bound to a collection she no longer controls |
-| [[The Rime Rider]] | Cold Left-Hand factor riding the collection | To take the whole town's warmth at the third-night fires | It does not own the grievance; it bought a share and inflated the invoice for yield |
+| [[The Rime Rider]] | Cold winter-hunt predator riding the collection | To take the whole town's warmth at the third-night fires | It does not own the grievance; it bought a share and inflated the invoice for yield |
 | **"Clear-Cut" Karl** | Timber-Cartel foreman who burned the grove | To deny the burning and blame the Folk for the fair's "trouble" | He burned the offering grove knowingly, to provoke reprisal and win more guards |
 | **Guild Master Holger Strun** | The cartel sovereign; "First Forester" | To keep the fair, the season's cut, and his deniability | He set the quota that made Karl burn, and he can pay the debt but will not admit he must |
 | **Old Tomas** | Season-Cutter elder | The grove-debt paid and the offering groves restored | He knew Karl was going to burn it and could not stop him, and the guilt is eating him |
 | **Wren Sallow** | Carnival barker (Cloven, in human seeming) | To be believed by someone who might actually pay the debt | She tells the truth to fairgoers precisely because none of them ever act on it |
 | **Mayor Adelheid Ports** | Town warden of Ferren Hollow | A quiet, profitable fair and no incident on the Folk border | She has heard the grove-debt rumor and buried it to protect the season's trade |
 
-## The Cloven, the Cartel, and the Left Hand
+## The Cloven, the Cartel, and the Rime Rider
 
 The [[The Cloven]] are [[Sylvorn]]'s forest-fey — fauns, thorn-maids, grove-spirits, beautiful hazards that arise where the land-law runs hot. They do not choose cruelty; they collect in the coin their law recognizes: names, laughter, years, warmth. Under Sisrin they are a lawful collection crew wearing a carnival. Under the Rider's cold, some become [[The Rimebound]], collectors with the proportion burned out of them.
 
 The [[The Frontier Industry Lords|Timber-Cartel]] is canon Grenzburg: Holger Strun's shadow-government of the axe, split between Old Tomas's sustainable Season-Cutters, "Clear-Cut" Karl's provocateur Firebrands, and Strun himself, who funds Karl in secret and chastises him in public. The burned grove is the exact wrong the cartel's structure is built to produce and deny.
 
-The [[The Atlas of the Left Hand|The Left Hand]] is the setting's predatory architecture — the meta-faction that buys legitimate obligations and collects them for ruin. The Rime Rider is one of its cold instruments. It is not the wronged party and not the law; it is the thing that turns a just debt into a catastrophe because catastrophe pays better.
+The The Rime Rider is an exiled winter-hunter that survives by attaching itself to genuine grievance. It is not the wronged party and not the law; it widens a just punishment into indiscriminate predation because stolen warmth lets it endure beyond its proper season.
 
 ## Adventure States
 
 - **Fair Warmth (3 → 0):** the festival's remaining safe days, counting down over the three Bright-Fire nights. At 0, the attractions turn.
-- **The Invoice (targeted / inflated):** whether the collection is still aimed at the guilty crews or has been widened to the whole town. The Rider raises it; paying installments or exposing the Rider can lower it.
+- **The Claim (targeted / widened):** whether the collection is still aimed at the guilty crews or has been widened to the whole town. The Rider raises it; paying installments or exposing the Rider can lower it.
 - **Cartel Admission (0-3):** how close Karl, then Strun, are to admitting the burning and paying — moved by evidence, pressure, Folk testimony, and the Season-Cutters.
 - **Cloven Trust (-2 to +2):** whether the carnival's fey resist the party, deal with them in debt-grammar, or help them strip the Rider from the collection.
 - **Rider's Hold (0-3):** how deep the cold has sunk into the Cloven. High Hold means more Rimebound and a harder unbinding at the climax.
@@ -103,7 +103,7 @@ Make Karl, and then Strun, admit the burning and pay before the third night. Evi
 
 ### Strip the Rider
 
-Expose or defeat the Rime Rider to collapse the inflated invoice back to its targeted form. Force removes the Rider but leaves the real debt unpaid — Sisrin will still collect from the guilty, and if they still refuse, the fair still ends badly, just smaller.
+Expose or defeat the Rime Rider to collapse the widened punishment back to its targeted form. Force removes the Rider but leaves the real debt unpaid — Sisrin will still collect from the guilty, and if they still refuse, the fair still ends badly, just smaller.
 
 ### Break the Bargain
 
@@ -157,7 +157,7 @@ This is the hinge of the adventure. Once the party understands the debt is propo
 A second layer surfaces at the Fortune Tent, in the frost at the fair's edges, and in Wren Sallow's franker moments: the collection has been corrupted. [[The Rime Rider]] has inflated the invoice from "the crews who burned the grove" to "the town that ate the profit," and set the third-night fires as the harvest. Sisrin took the Rider's guarantee and is bound by it; she wants the guilty to pay before the third night precisely because that would strip the Rider of its pretext.
 
 - The party can find the **terms of the guarantee** — a thin-space bargain with a voidable overreach.
-- They can find the **Rider's true nature** — a Left-Hand factor, not the wronged party, collecting for yield.
+- They can find the **Rider's true nature** — a winter-hunt predator, not the wronged party, collecting for yield.
 - They can find that **Sisrin regrets it**, which makes her a possible ally against the thing she invited in.
 
 ### The Guilty Who Won't Pay
@@ -204,7 +204,7 @@ A pure fight is the module's worst shape and remains playable: the Rider fights 
 
 ### The Debt Paid Justly
 
-The guilty pay the grove-debt in its own coin and the offering groves are pledged restored. Sisrin calls off the collection; the Rider, robbed of pretext and yield, withdraws or is destroyed as an open aggressor. The fair ends as a fair, a year late. The strongest ending.
+The guilty pay the grove-debt in its own coin and the offering groves are pledged restored. Sisrin calls off the collection; the Rider, robbed of pretext and yield, withdraws or is destroyed as an open aggressor. The fair ends as a fair, a year late. This is the most restorative branch.
 
 ### The Cartel Broken Open
 
@@ -244,14 +244,14 @@ The grove-debt is not "cured"; it is paid or re-seated. Payment in the court's c
 - Ferren Hollow learns the difference between the fey who came to collect and the thing that came to feast — or does not, and pays for it.
 - The [[The Frontier Industry Lords|Timber-Cartel]]'s provoke-and-profit machine is exposed, reformed, or vindicated, depending on whether the burning is ever admitted.
 - [[Sisrin the Alder-Maid]] becomes a satisfied claimant who leaves, a grove-court ally on the Folk border, or a bound instrument the party could not free from her own bargain.
-- [[The Rime Rider]] becomes a destroyed aggressor, a withdrawn factor nursing a grudge, or a cold power loose in the Marches with a new debt to buy.
+- [[The Rime Rider]] becomes a destroyed aggressor, a driven-off predator nursing a grudge, or a cold power loose in the Marches with a new debt to buy.
 - The [[The Cloven]] and [[The Rimebound]] enter the known bestiary of the Sylvan Marches as, respectively, the land's lawful collectors and what they become when a colder hand inflates the bill.
 - The offering-grove custom is re-established, quietly abandoned, or turned into a Folk-border flashpoint.
 
 ## Encounter and Creature Register
 
 - [[Sisrin the Alder-Maid]]: the grove's surviving law; carnival mistress; measured collector and possible ally.
-- [[The Rime Rider]]: cold Left-Hand factor; the true antagonist; corruptor of a just debt.
+- [[The Rime Rider]]: exiled winter-hunter; the true antagonist; corruptor of a just debt.
 - [[The Cloven]]: Sylvorn's forest-fey, staffing the carnival as a lawful collection crew.
 - [[The Rimebound]]: Cloven overtaken by the Rider's cold; the gauntlet's corrupted horrors.
 - **"Clear-Cut" Karl and the Firebrands:** human antagonists who did the burning and won't admit it.

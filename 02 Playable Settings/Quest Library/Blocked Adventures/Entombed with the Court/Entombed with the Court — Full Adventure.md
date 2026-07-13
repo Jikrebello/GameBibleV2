@@ -1,12 +1,12 @@
 ---
 type: quest
-status: draft
+status: canon
 canon_level: local
 visibility: author-only
 source: "Translated from PZO9505 J1 Entombed with the Pharaohs"
 era: ["Present Day"]
 region: ["Great Glass Desert", "Anshara"]
-culture: ["Sestaran", "Ansharan"]
+culture: ["Fiorenzian", "Ansharan"]
 related_factions: ["The Sanguine", "The Regalis", "The Gilded Step"]
 appears_in: ["Entombed with the Court"]
 needs:
@@ -18,7 +18,7 @@ tags: [module-conversion, game-ready]
 
 ## Adventure at a Glance
 
-**Premise:** A Sestaran curator hires the party to document an Ansharan satellite court before treasure hunters strip it. A rival expedition backed by a hidden Regalis patron pursues the same site. Both crews become trapped inside a funerary court that is trying to appoint them as its new household.
+**Premise:** A Fiorenzian curator hires the party to document an Ansharan satellite court before treasure hunters strip it. A rival expedition backed by a hidden Regalis patron pursues the same site. Both crews become trapped inside a funerary court that is trying to appoint them as its new household.
 
 **Beginning:** At the Lantern Exchange, the party buys clues, meets the rival Gilded Step, and hears a blinded survivor describe the court's progressive recognition marks. Both crews then race to steal or bargain for the Processional Face that can call the hidden complex back into the Material Realm.
 
@@ -64,9 +64,9 @@ Varesh's human household was embalmed alive in **throne-wax**, a blood-and-resin
 
 ## Modern Expedition Conflict
 
-The expedition is financed through the **Meridian Antiquities Venture**, a Sestaran partnership with two concealed agendas.
+The expedition is financed through the **Meridian Antiquities Venture**, a Fiorenzian antiquities partnership with two concealed agendas.
 
-- **Livia Serrat**, curator and public expedition lead, hires the party. She wants a documented recovery, a defensible museum collection, and proof that Sestaran scholarship can reach the site before private looters.
+- **Livia Serrat**, curator and public expedition lead, hires the party. She wants a documented recovery, a defensible museum collection, and proof that Fiorenzian scholarship can reach the site before private looters.
 - **Lord Cassian Veyr**, a cultivated Regalis intermediary, secretly finances the Gilded Step. He wants Varesh's blood genealogy and throne-seal, which he believes can establish an inherited right over lesser vampires.
 - **Mother Serai**, a Sanguine memory-keeper, does not fund either crew. She warns that every Ansharan object is part of a murdered people and demands custody of the blood archives. She tells the truth about the court's origin and lies about how harmless Sanguine custody would be.
 
@@ -84,7 +84,7 @@ The venture did not deliberately hire two identical teams. Its principals funded
 
 | Character | Public role | What they want | What they conceal |
 |---|---|---|---|
-| **Livia Serrat** | Sestaran curator and party sponsor | A documented recovery and surviving expedition | She knows her venture has an unnamed silent investor but not that he is Regalis |
+| **Livia Serrat** | Fiorenzian curator and party sponsor | A documented recovery and surviving expedition | She knows her venture has an unnamed silent investor but not that he is Regalis |
 | **Hadran Pell** | Blinded survivor of the first expedition | His companions released from the household | He saw three recognition marks and blinded himself before the fourth appeared |
 | **Oren Tal** | Collector holding the Processional Face | Survive the attention his collection has attracted | His displayed Face is a replica; the true one is hidden beneath his wine cistern |
 | **Vasco Ren** | Captain of the Gilded Step | Complete the expedition without losing another crew | He suspects his patron is a vampire but has not told the others |
@@ -295,7 +295,7 @@ If Rival Trust is 3 or higher, Vasco reveals Cassian's coercion and stands down.
 
 ### Names Returned
 
-Varesh is destroyed, the throne-seal and blood engine are broken, Household Freed is 3+, and enough testimony survives to establish what happened. The freed dead are routed or allowed a final act of witness. Livia publishes a limited account that exposes Ansharan slavery without printing usable blood rites. This is the strongest continuation.
+Varesh is destroyed, the throne-seal and blood engine are broken, Household Freed is 3+, and enough testimony survives to establish what happened. The freed dead are routed or allowed a final act of witness. Livia publishes a limited account that exposes Ansharan slavery without printing usable blood rites. This is the most restorative continuation.
 
 ### The Sanguine Archive
 
@@ -345,4 +345,3 @@ The court folds before the crews escape. The desert site becomes ordinary glass 
 - [[Vampires in the Present Age]]
 - [[Great Glass Desert]]
 - [[Quest Tier Doctrine]]
-

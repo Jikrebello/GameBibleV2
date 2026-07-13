@@ -1,6 +1,6 @@
 ---
 type: character
-status: draft
+status: canon
 canon_level: local
 visibility: author-only
 era: ["Present Day"]
@@ -32,7 +32,7 @@ She does not murder because a supernatural force corrupted a good intention. She
 
 ## Operational Method
 
-- Builds frames from real facts: Osric's temper, fair secrecy, Folk travel marks, Sestaran paper, and public fear.
+- Builds frames from real facts: Osric's temper, fair secrecy, Folk travel marks, Vardessan paper, and public fear.
 - Plants one obvious clue and one apparently incidental clue meant for experienced investigators.
 - Keeps murderers and planners separated from ordinary workers.
 - Preserves witnesses when false testimony is more useful than silence.
