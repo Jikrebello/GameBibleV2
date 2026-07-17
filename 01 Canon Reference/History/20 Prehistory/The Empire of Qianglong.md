@@ -2,7 +2,7 @@
 type: event
 status: canon
 canon_level: local
-visibility: public
+visibility: author-only
 era: []
 region: []
 culture: []
@@ -13,32 +13,34 @@ tags: []
 ---
 ### Overview
 
-The Celestial Empire of Qianglong was a powerful and ancient civilization, structured around four distinct castes of Giants, each representing one of the Four Horsemen—**Solrath (War), Nevaura (Famine), Morvalis (Death),** and **Veradia (Pestilence)**. These castes, embodying the attributes of their divine progenitors, formed the backbone of Qianglong society and governance. The Menhir/Horsemen themselves, after shaping the early prehistory of the world, took a step back, allowing their giant offspring to lead the empire on their behalf. The history of Qianglong was marked by grand civil wars, with each victorious caste establishing a new dynasty, only to be replaced in time by another, reflecting the cyclical nature of power.
+The Celestial Empire of Qianglong was structured around four Giant castes aligned with **Solrath (War), Nevaura (Famine), Morvalis (Death),** and **Veradia (Pestilence)**. Court genealogy called the castes children of the Horsemen. Authorially, they were Giant lineages altered by prolonged Menhir patronage, office-law, selective breeding, and ritual imitation. Grand civil wars rotated the ruling caste and made violent succession appear to be a natural cycle.
+
+Qianglong's continuity project attempted necromantic caste recurrence. Sealed vaults preserved trained residue, office patterns, and prepared bodies so the ruling order could return without accepting mortality. The system copied and reinstated caste function; it did not create human souls.
 
 ### The Four Castes of Giants
 
-**1. The War Caste: Children of Solrath**
+**1. The War Caste: Solrath's Claimed Line**
 
 - **Role:** The War Caste was responsible for the empire's military might. These Giants were the generals, warriors, and strategists who led Qianglong’s armies in conquest and defense. They were known for their unmatched strength, discipline, and tactical brilliance.
 - **Appearance:** Towering, muscular Giants clad in blood-red armor that radiated heat. Their eyes burned with the intensity of the sun, and they carried weapons that seemed to pulse with destructive power.
 - **Domain:** The War Caste controlled the empire’s fortifications, military academies, and the lands surrounding the capital city, where the empire’s elite soldiers were trained.
 - **Dynastic Influence:** The War Caste often rose to power during periods of conflict, establishing dynasties that prioritized conquest and expansion. Their reigns were marked by the consolidation of power and the strengthening of the empire’s borders.
 
-**2. The Famine Caste: Children of Nevaura**
+**2. The Famine Caste: Nevaura's Claimed Line**
 
 - **Role:** The Famine Caste governed the agricultural and economic aspects of the empire. These Giants oversaw the distribution of resources, ensuring that the empire could survive through harsh winters and times of scarcity.
 - **Appearance:** Gaunt, pale Giants with frost-covered skin. Their breath chilled the air, and their presence could cause crops to wither and rivers to freeze.
 - **Domain:** The Famine Caste controlled the empire’s farmlands, granaries, and trade routes. They were also responsible for managing the empire’s vast reserves of food and wealth.
 - **Dynastic Influence:** The Famine Caste rose to power during times of economic hardship or natural disasters, establishing dynasties that focused on stability, resource management, and survival. Their reigns were characterized by austerity and strict control over the empire’s resources.
 
-**3. The Death Caste: Children of Morvalis**
+**3. The Death Caste: Morvalis's Claimed Line**
 
 - **Role:** The Death Caste managed the spiritual and necromantic aspects of Qianglong society. These Giants were the priests, morticians, and necromancers who maintained the balance between life and death, ensuring that the dead were honored and the living were guided.
 - **Appearance:** Skeletal Giants draped in rust-colored armor and tattered cloaks. Their eyes glowed with a ghostly light, and their presence brought an aura of decay and inevitability.
 - **Domain:** The Death Caste controlled the empire’s temples, cemeteries, and necropolises. They were also the keepers of Qianglong’s extensive funerary rites and necromantic practices.
 - **Dynastic Influence:** The Death Caste often rose to power during times of spiritual unrest or when the balance between life and death was threatened. Their dynasties focused on maintaining cosmic order, respecting the cycles of life, and mastering necromantic arts. Their reigns were often marked by a deep reverence for tradition and the ancestors.
 
-**4. The Pestilence Caste: Children of Veradia**
+**4. The Pestilence Caste: Veradia's Claimed Line**
 
 - **Role:** The Pestilence Caste was responsible for the empire’s knowledge of herbalism, medicine, and the management of disease. These Giants were both healers and bringers of plague, using their knowledge to control the balance between life and decay.
 - **Appearance:** Vines and creeping plants grew from their bodies, with their skin displaying mottled, diseased patches. Their eyes gleamed with a toxic green light, and their breath carried the scent of rot and new growth.
@@ -71,4 +73,3 @@ The legacy of the Celestial Empire of Qianglong lives on in the myths and legend
 
 - [[Timeline MOC]]
 - [[Canon Index]]
-

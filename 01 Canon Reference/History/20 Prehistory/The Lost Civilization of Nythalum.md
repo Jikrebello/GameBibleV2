@@ -2,7 +2,7 @@
 type: event
 status: canon
 canon_level: local
-visibility: public
+visibility: author-only
 era: []
 region: []
 culture: []
@@ -23,7 +23,9 @@ The island itself was rich in magical resources, with ley lines of potent energy
 
 ### The Forgotten Ones: Rulers and Their Beliefs
 
-The ruling Giants of Nythalum, known as the **Forgotten Ones**, were a race of immensely tall, slender beings with elongated limbs and heads. Their appearance was heavily modified with advanced magical and technological enhancements, giving them an almost alien, otherworldly presence. They were the descendants of Lyraxis, whose influence imbued them with an insatiable thirst for knowledge, creativity, and a deep understanding of the cosmos.
+The ruling Giants of Nythalum, known as the **Forgotten Ones**, were immensely tall, slender beings with elongated limbs and heads. Magical and technological modification gave them an alien appearance. They claimed descent from Lyraxis, but their connection came through patronage, captured court-law, selective alteration, and deliberate imitation rather than literal parentage.
+
+Nythalum's continuity project attempted uploaded mechanical persistence. Giant command patterns and memories survived in spires, custodians, and lunar machines. These continuities can reason and reconstruct aspects of their makers, but they are not human souls and cannot manufacture the Image.
 
 However, it was their veneration of **Lunara, Mother Moon**, that truly defined their civilization. They believed that the moon was a sacred realm, a place where the barriers between the material and the divine were weakest. The moon represented the ultimate destination for their souls—a place where they could shed their physical forms and become beings of pure intellect, guided by Lunara’s chaotic and transformative light.
 
@@ -67,4 +69,3 @@ In the end, the Forgotten Ones of Nythalum stand as a cautionary tale of the dan
 
 - [[Timeline MOC]]
 - [[Canon Index]]
-

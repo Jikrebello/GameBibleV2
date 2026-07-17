@@ -1,0 +1,121 @@
+filters:
+  and:
+    - 'type == "creature"'
+    - '!file.inFolder("90 Archive & Drafts")'
+    - '!file.inFolder("99 Templates")'
+properties:
+  status:
+    displayName: Status
+  origin_layer:
+    displayName: Origin
+  continuity:
+    displayName: Continuity
+  intelligence:
+    displayName: Intelligence
+  moral_agency:
+    displayName: Moral Agency
+  encounter_tier:
+    displayName: Threat Tier
+  rank:
+    displayName: Rank
+  creature_family:
+    displayName: Family
+  habitats:
+    displayName: Habitats
+  encounter_roles:
+    displayName: Roles
+  appears_in:
+    displayName: Adventures
+  needs:
+    displayName: Needs
+views:
+  - type: table
+    name: By Origin
+    groupBy:
+      property: note.origin_layer
+      direction: ASC
+    order:
+      - file.name
+      - origin_layer
+      - creature_family
+      - continuity
+      - encounter_tier
+      - rank
+      - needs
+    sort:
+      - property: origin_layer
+        direction: ASC
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Quest Ready
+    filters:
+      and:
+        - 'status == "canon"'
+        - needs.length == 0
+    order:
+      - file.name
+      - creature_family
+      - encounter_roles
+      - habitats
+      - rank
+      - appears_in
+  - type: table
+    name: By Threat Tier
+    groupBy:
+      property: note.encounter_tier
+      direction: ASC
+    order:
+      - file.name
+      - encounter_tier
+      - rank
+      - encounter_roles
+      - continuity
+  - type: table
+    name: By Intelligence
+    groupBy:
+      property: note.intelligence
+      direction: ASC
+    order:
+      - file.name
+      - intelligence
+      - moral_agency
+      - continuity
+      - creature_family
+  - type: table
+    name: By Continuity
+    groupBy:
+      property: note.continuity
+      direction: ASC
+    order:
+      - file.name
+      - continuity
+      - origin_layer
+      - intelligence
+      - moral_agency
+  - type: table
+    name: Adventure Demand
+    filters: 'appears_in.length > 0'
+    order:
+      - file.name
+      - appears_in
+      - encounter_roles
+      - rank
+      - needs
+  - type: table
+    name: Unfinished Creature Work
+    filters:
+      or:
+        - 'status != "canon"'
+        - needs.length > 0
+    order:
+      - file.name
+      - status
+      - origin_layer
+      - creature_family
+      - needs
+    sort:
+      - property: origin_layer
+        direction: ASC
+      - property: file.name
+        direction: ASC

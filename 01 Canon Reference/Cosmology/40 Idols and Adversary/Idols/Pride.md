@@ -18,8 +18,9 @@ tags: []
 ### Realm:
 - **The Shimmering Palace:** A realm of grandiose architecture and opulent beauty. The palace is filled with mirrors and reflective surfaces, emphasizing the importance of appearance and status. Every hall and chamber is designed to showcase beauty and splendor, but the realm's beauty is isolating, as pride separates individuals from one another. The palace's reflective surfaces distort reality, showing those who enter only what they desire to see, further feeding their pride and vanity.
 
-### Native Followers:
-- **Spectral Peacocks:** Majestic, magical peacocks that strut proudly and can unleash deadly, blinding displays of their feathers. These creatures are embodiments of pride and vanity, often found preening and admiring their own reflections. They are both beautiful and dangerous, their displays capable of blinding and disorienting those who witness them.
+### Creature Ecology:
+- **Mirror and Heraldic Masks:** Spectral peacocks, flattering doubles, and blinding court displays recur as Pride's visible masks.
+- **Vampiric Inheritance:** [[Vampire Origins|Vampires]] are Pride's most consequential Material inheritance through Ansharan Giant blood. They remain human soul-holders, not a native Shadowlands species.
 
 ### Personality and Characterization:
 - **Arrogant and Self-Centered:** Vaingloria embodies the essence of pride, constantly seeking admiration and validation of her superiority. She is arrogant and self-centered, always placing herself above others.
@@ -48,5 +49,3 @@ tags: []
 
 - [[Cosmology MOC]]
 - [[Canon Index]]
-- [[Canon Index]]
-

@@ -26,7 +26,7 @@ Evil in the World Egg is **plural and competitive**, not a pyramid. Four distinc
 3. **The patron economy** (Astral rent): [[The Concord of Weights]] (the rent cartel) and its greatest member, [[The Creditor]] — the spine's biggest secret.
 4. **Soul-route predation** (the leftward road): [[The Undertow]] — the counter-Boatman.
 
-Standing creature-side infrastructure cross-references: the vampire bloodlines (Pride's escrowed souls), the ghoul-cities (Gluttony's logistics), the Nightmares (Sloth's cavalry), and the Hollow-Kings, whose place in these supply chains remains unknown.
+Standing creature-side infrastructure cross-references: the vampire bloodlines (human souls retained by Ansharan blood liens), the ghoul-cities (Gluttony's logistics), the Nightmares (Sloth's cavalry), and the Hollow-Kings, whose place in these supply chains remains unknown.
 
 Caleran's active regional interlock is recorded in [[Secret Networks of Caleran]]: Undertow body theft, Fleshweaver procurement, Under-Ledger finance, and an Idol operation built around borrowed sanctity.
 

@@ -11,13 +11,19 @@ appears_in: []
 needs: []
 tags: []
 ---
-## 1) The Egg-White’s “people”: the Driftkin (human-adjacent cousins)
+## 1) The Egg-White's people: the Driftkin
 
 ### What they are
 
-The Driftkin are not “another fantasy race” in the Material sense. They are **human lineage that became ontologically specialized**: people whose ancestry passed through thin-spaces, demiplane failures, patron-islands, or long exile in the Egg-White until the environment selected for a different survival trait—**reality-handling**.
+The Driftkin descend biologically from humans whose communities survived thin spaces, demiplane failures, patron-islands, and long exile in the Egg-White. Across generations, Astral drift, rent dependence, and metaphysical ballast rewrote the lineage until it ceased to bear the Image. Fully developed Driftkin are therefore **not metaphysically human and do not receive routable human souls at birth**.
 
-Where Material humans evolved for **food, weather, predators**, Driftkin evolved for **place, stability, coherence**.
+Where Material humans survive food, weather, and predators, Driftkin bodies survive place, stability, and coherence.
+
+### Continuity
+
+Driftkin identity persists through embodied memory, true-silt, names, route-patterns, and personal ballast. At death, those patterns ordinarily disperse into Drift. A pattern may be copied, anchored, harvested, or imitated, but that persistence is not a human afterlife and does not produce an arrival at the Vestibule. [[The Image, Soul, and Creaturely Continuity]] controls the authorial ruling.
+
+Driftkin remain capable of intelligence, loyalty, cruelty, culture, and moral choice. None of those qualities manufactures the Image.
 
 ### What makes them unique
 
@@ -99,7 +105,7 @@ This keeps “protons” firmly in **nature/ecosystem territory**, not Idol terr
 - **Anchor-Owners (Patrons):** beings whose “power” is primarily that they sit on stable mass and can lease it.
 - **Pattern-Engineers (Archmages / conclaves):** groups that maintain demiplanes through recursive ritual and geometry.
 - **Salvage-Saints and Relic Reavers:** factions that strip mass from carcasses, battlefields, and oath-sites.
-- **Exiles of higher realms:** angels/demons severed from their home-gradient who reconstitute into stranger temperaments—less “aligned,” more procedural, shaped by lease-economics and drift pressure. (This stays consistent with your broader cosmic polarity: Lord/light vs Adversary/mud, with other beings operating only as permitted. )
+- **Displaced higher-realm manifestations:** a heavenly servant, damned office-holder, Depth creature, or Abyssal form may become stranded in the Drift. Astral pressure can distort embodiment and access to power, but it does not turn good and evil into neutral temperament.
 
 ---
 
@@ -142,5 +148,3 @@ That gives you a stable three-way contrast:
 
 - [[Cosmology MOC]]
 - [[Canon Index]]
-- [[Canon Index]]
-

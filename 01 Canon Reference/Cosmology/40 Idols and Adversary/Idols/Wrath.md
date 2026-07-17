@@ -18,8 +18,9 @@ tags: []
 ### Realm:
 - **The Infernal Pits:** A volcanic realm of molten lava, endless firestorms, and violent eruptions. The land is in constant upheaval, with rivers of lava and towering volcanoes spewing ash and fire. The air is thick with smoke and the scent of burning. The ground trembles with Furor's unending rage, and the sky is perpetually lit by the glow of fires.
 
-### Native Followers:
-- **Death Knights:** Animated suits of armor possessed by fire, these relentless warriors never rest. They reanimate after being broken and destroyed, their burning essence fueling their endless rage. They serve as Furor's enforcers, spreading chaos and destruction wherever they go.
+### Creature Ecology:
+- **Grobi:** [[Grobi Overview|Grobi]] are Furor's principal self-sustaining Material harvest: Wrath-rewritten life organized through hunger, violence, and escalating bodily stages.
+- **Burning Armor:** Death-knight forms exist as rage-residue or imposed martial offices. They are a minor manifestation rather than Wrath's defining species.
 
 ### Personality and Characterization:
 - **Hot-tempered and Destructive:** Furor embodies the essence of wrath, thriving on conflict and violence. He is quick to anger and relentless in his pursuit of vengeance and destruction.
@@ -48,5 +49,3 @@ tags: []
 
 - [[Cosmology MOC]]
 - [[Canon Index]]
-- [[Canon Index]]
-

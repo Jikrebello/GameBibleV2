@@ -1,5 +1,5 @@
 ---
-type: creature
+type: mechanic
 status: canon
 canon_level: local
 visibility: author-only

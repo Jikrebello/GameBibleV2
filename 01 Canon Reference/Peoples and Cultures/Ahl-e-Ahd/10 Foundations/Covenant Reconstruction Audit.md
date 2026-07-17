@@ -88,7 +88,7 @@ This register records the disposition of every other active note matching the Co
 - `00 Start Here/Needs Work.md` - reviewed; reference is compatible or incidental and requires no change
 - `00 Start Here/World Egg Setting Primer.md` - reviewed; reference is compatible or incidental and requires no change
 - `01 Canon Reference/Creatures/00 Bestiary Standards/The Mundane Layer — Residue, Vermin, and the Delver Trade.md` - reviewed; reference is compatible or incidental and requires no change
-- `01 Canon Reference/Creatures/30 Vampires/Vampires in the Present Age.md` - reviewed; reference is compatible or incidental and requires no change
+- `01 Canon Reference/Creatures/30 Shadowlands and Idols/20 Vampires/Vampires in the Present Age.md` - reviewed; reference is compatible or incidental and requires no change
 - `01 Canon Reference/Geography/World Map/Political Map Region SVGs/00 Photoshop Import Guide.md` - reviewed; reference is compatible or incidental and requires no change
 - `01 Canon Reference/History/10 Chronology and Control/Historical Spine of the Known World.md` - reviewed; reference is compatible or incidental and requires no change
 - `01 Canon Reference/History/10 Chronology and Control/The Divergence Pass — Torque Register.md` - reviewed; reference is compatible or incidental and requires no change
@@ -181,7 +181,7 @@ This register records the disposition of every other active note matching the Co
 - `02 Playable Settings/Quest Library/Blocked Adventures/Risen from the Glass/Breach-Assessor Samir Veyad.md` - reviewed; reference is compatible or incidental and requires no change
 - `02 Playable Settings/Quest Library/Blocked Adventures/Risen from the Glass/Risen from the Glass — Full Adventure.md` - reviewed; reference is compatible or incidental and requires no change
 - `02 Playable Settings/Quest Library/Blocked Adventures/Risen from the Glass/The Glass-Risen Estate.md` - reviewed; reference is compatible or incidental and requires no change
-- `02 Playable Settings/Quest Library/Blocked Adventures/The Broken Tower/Harridans.md` - reviewed; reference is compatible or incidental and requires no change
+- `01 Canon Reference/Creatures/10 Material and Residue/10 Predators and Megafauna/Harridans.md` - reviewed; reference is compatible or incidental and requires no change
 - `02 Playable Settings/Quest Library/Blocked Adventures/The Broken Tower/The Broken Tower — Full Adventure.md` - reviewed; reference is compatible or incidental and requires no change
 - `02 Playable Settings/Quest Library/Blocked Adventures/The Broken Tower/The Kestrel Tower.md` - reviewed; reference is compatible or incidental and requires no change
 - `02 Playable Settings/Quest Library/Blocked Adventures/The Broken Tower/Torvald Ghost-Foot.md` - reviewed; reference is compatible or incidental and requires no change

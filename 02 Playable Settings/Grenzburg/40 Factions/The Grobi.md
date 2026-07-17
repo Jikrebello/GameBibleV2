@@ -15,7 +15,7 @@ tags:
 # The Grobi
 
 **Role in the Rule of Three:**
-The Grobi are **The Inevitable Bad, with an Internal Hunger.** They are not a mirror of human conflicts, but a **biological and moral antithesis** to civilization. Their driving principle is not ideology, circumstance, or faith, but a primal, metabolic imperative: **Consume or Be Consumed.** Their society, politics, and migrations are all expressions of this singular, predatory nature. Engaging with them is not diplomacy; it is **controlled predation**, a gamble that you can feed a lesser part of them to avoid being eaten by the greater whole.
+The Grobi are **The Inevitable Bad, with an Internal Hunger.** They are not a mirror of human conflicts, and the warbands descending on Grenzburg have knowingly built their survival around raid, consumption, and domination. Their metabolic imperative is real, but it does not erase the meaningful choices available to intelligent Grobi. Engaging them is therefore **controlled predation** rather than moral equivalence: any bargain must reckon with what this specific warband chooses to eat, spare, betray, or restrain.
 
 **Core Concept:** The Grobi are a single, dimorphic species locked in a horrific lifecycle of hunger-driven metamorphosis. Their civilization is a **pyramid of appetite**, with each tier seeking to satiate its own burning metabolic needs by dominating the tier below and preying on the world beyond. They migrate north because the southern winters cannot provide the catastrophic caloric intake their higher forms require. They are not "evil" in a philosophical sense; they are **ecological weapons**, and their fundamental nature is as alien and hostile to peace as fire is to dry tinder.
 

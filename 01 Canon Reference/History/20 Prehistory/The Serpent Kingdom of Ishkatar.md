@@ -2,7 +2,7 @@
 type: event
 status: canon
 canon_level: local
-visibility: public
+visibility: author-only
 era: []
 region: []
 culture: []
@@ -13,7 +13,7 @@ tags: []
 ---
 ### Overview
 
-The Serpent Kingdom of Ishkatar was a grand and ancient civilization inspired by the rich culture and grandeur of Ancient Egypt. Located along the fertile banks of a great river known as the **Serpent’s Spine**, Ishkatar thrived as a center of wealth, power, and religious fervor. Ruled by the **Naga Giants**, serpentine beings who were the children of **Avarix, the Idol of Greed**, Ishkatar was a civilization obsessed with opulence, domination, and the veneration of their god-like rulers. The kingdom's decline was swift and brutal, marked by internal strife, rebellion, and environmental catastrophe, leaving its once-great cities buried beneath the sands of the desert.
+The Serpent Kingdom of Ishkatar was a river civilization of flood calendars, monumental tomb-estates, divine kingship, and concentrated wealth. Along the fertile **Serpent's Spine**, its Naga Giants built an imperial religion around ownership, hierarchy, and their claimed descent from **Avarix, the Idol of Greed**. That genealogy was court propaganda grounded in real Idol patronage and bodily alteration, not literal divine parentage. Ishkatar's decline was swift and brutal, leaving its cities beneath the desert.
 
 ### Geography
 
@@ -21,7 +21,9 @@ The Serpent Kingdom of Ishkatar was situated along the banks of the **Serpent’
 
 ### Ruling Giants: The Naga Giants
 
-The ruling class of Ishkatar, the **Naga Giants**, were massive serpentine beings, with the upper bodies of humanoid figures and the lower bodies of colossal, coiling serpents. Their scales shimmered with the colors of precious metals and jewels, reflecting their divine connection to Avarix, the Idol of Greed. The Naga Giants were revered as living gods, believed to be the direct offspring of Avarix, and their obsession with wealth and power was unmatched. They ruled over Ishkatar with an iron fist, their word was law, and they demanded absolute devotion from their human subjects.
+The ruling class of Ishkatar, the **Naga Giants**, were massive serpentine beings with humanoid upper bodies and colossal coiling lower bodies. Their scales carried metallic and jewel-like coloration shaped by generations of Giant blood craft and Avarix patronage. Their subjects were required to revere them as Avarix's direct offspring, but the claim legitimated rule rather than recording biology. They ruled through force, temple estates, and absolute demands upon their human subjects.
+
+Ishkatar's continuity project attempted to make title and property outlive the ruler. Estates, offices, guardians, records, and ownership claims were built to reconstruct authority after bodily death. The system could preserve Giant memory and imposed office, but could neither create a human soul nor grant the Image.
 
 The Naga Giants were also the spiritual leaders of Ishkatar, acting as intermediaries between the mortal world and the divine. Each Naga Giant governed a specific aspect of life, such as fertility, death, war, or commerce, and their temples were the centers of both religious and political power. The most powerful of the Naga Giants held the title of **Pharaoh-Serpent**, ruling over all others and presiding from the **Golden Pyramid of Nagtara**, the largest and most opulent structure in the kingdom.
 
@@ -61,4 +63,3 @@ The legacy of Ishkatar also lives on in the myths and legends of the world, with
 
 - [[Timeline MOC]]
 - [[Canon Index]]
-

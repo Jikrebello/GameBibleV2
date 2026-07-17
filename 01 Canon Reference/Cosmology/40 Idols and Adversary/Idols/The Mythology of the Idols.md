@@ -48,5 +48,3 @@ The origin of the Idols serves as a reminder of the darkness that resides within
 
 - [[Cosmology MOC]]
 - [[Canon Index]]
-- [[Canon Index]]
-

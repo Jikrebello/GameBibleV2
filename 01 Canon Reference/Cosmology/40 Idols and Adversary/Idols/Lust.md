@@ -18,8 +18,8 @@ tags: []
 ### Realm:
 - **The Garden of Temptation:** A lush, sensuous realm filled with fragrant flowers, intoxicating scents, and enchanting beauty. The landscape is designed to arouse desire and indulgence, with every plant, flower, and tree exuding an aura of temptation. The air is filled with the sound of soft music and whispering voices, drawing visitors deeper into the garden.
 
-### Native Followers:
-- **Sirens, Succubi, and Incubi:** Alluring, seductive beings that entice and ensnare those who enter the garden. Sirens sing enchanting songs that lure visitors to their doom, while succubi and incubi use their charms to lead mortals into a never-ending cycle of desire and indulgence. These followers are the embodiment of Luxuria's power, spreading her influence through temptation and seduction.
+### Creature Ecology:
+- **Invitation Predators and Desire Doubles:** Garden-grown forms imitate beauty, affection, need, or the voice of a beloved person in order to secure access and control. `Siren`, `succubus`, and `incubus` are mortal labels applied to several manifestations, not biological species.
 
 ### Personality and Characterization:
 - **Passionate and Seductive:** Luxuria embodies the essence of lust, thriving on temptation and the fulfillment of carnal desires. She is passionate and seductive, always seeking to captivate and ensnare.
@@ -48,5 +48,3 @@ tags: []
 
 - [[Cosmology MOC]]
 - [[Canon Index]]
-- [[Canon Index]]
-

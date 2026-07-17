@@ -1,5 +1,5 @@
 ---
-type: creature
+type: mechanic
 status: canon
 canon_level: local
 visibility: author-only
@@ -11,6 +11,17 @@ appears_in: ["The Bright-Fire Carnival"]
 needs:
   - assign encounter and unbinding values for the chosen game system
 tags: [module-conversion, game-ready, fey, corrupted]
+origin_layer: faewild
+continuity: court-law
+intelligence: cunning
+moral_agency: limited
+encounter_tier: aligned
+rank: [elite]
+creature_family: The Cloven
+condition_type: court-corruption
+habitats: [winter roads, frozen water, court crossings]
+encounter_roles: [pursuer, controller, hazard]
+related_magic: [Menhir law]
 ---
 # The Rimebound
 

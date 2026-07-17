@@ -48,5 +48,3 @@ tags: []
 
 - [[Cosmology MOC]]
 - [[Canon Index]]
-- [[Canon Index]]
-

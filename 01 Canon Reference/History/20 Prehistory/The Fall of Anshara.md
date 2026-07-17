@@ -18,7 +18,7 @@ The fall of Anshara was not one battle, plague, or slave rising. It was the coll
 
 ## Before the Collapse
 
-Anshara was the Court of Courts: a plateau empire of satrapies, paradise-gardens, processional roads, blood archives, and Giant households descended from the Idol of Pride called the Sovereign. Its rulers used primordial vampirism to extend life, dominate memory, preserve servants in office, and create the first specialized mortal vampire lines.
+Anshara was the Court of Courts: a plateau empire of satrapies, paradise-gardens, processional roads, blood archives, and Giant households claiming descent from the Idol of Pride called the Sovereign. Pride patronage and Giant blood craft, rather than literal divine parentage, produced primordial vampirism. Its rulers used that inheritance to extend life, dominate memory, preserve servants in office, and create the first specialized mortal vampire lines.
 
 The later Regalis, Nocturnis, Sanguine, Eclipsis, and Militis did not begin as equal nations. They emerged from gifts, punishments, breeding programs, military houses, ritual offices, and rebel lineages whose inherited powers specialized as Giant blood diluted.
 
@@ -64,4 +64,3 @@ No discovery at the Palace of the Last Audience settles these questions. Azravan
 - [[Vampires in the Present Age]]
 - [[Entombed with the Court — Full Adventure]]
 - [[The Court That Drank Itself — Full Adventure]]
-

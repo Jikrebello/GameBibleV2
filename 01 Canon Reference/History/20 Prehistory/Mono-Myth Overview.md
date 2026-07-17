@@ -3,7 +3,7 @@ type: source-text
 status: canon
 canon_level: local
 reliability: apocryphal
-visibility: public
+visibility: author-only
 era: []
 region: []
 culture: []
@@ -15,7 +15,7 @@ tags:
 ---
 # Mono-Myth Overview
 
-> **Authorial status (canon ruling, hybrid origin):** This document is the *in-world synthesis myth* — the common story the scattered peoples tell, reconstructed by scholars. It is **partially true**. Behind the curtain: the Rebellion happened, and the defeated rebels **fused with pre-existing yolk structures** — some wedding themselves to Faewild nature-law (becoming the Menhir as now known), others to Shadowlands meaning-architecture (the Idols). The myth's claim that the Menhir and Idols simply *are* fallen angels compresses that fusion; the World Egg Cosmology's claim that they are pure nature-laws compresses it from the other side. Neither in-world tradition knows the whole. "Dreamlands" below is the archaic term for the Shadowlands — see [[Names of the Menhir, Masks of the Idols]].
+> **Authorial status (canon ruling, hybrid origin):** This document is the *in-world synthesis myth* — the common story the scattered peoples tell, reconstructed by scholars. It is **partially true**. Behind the curtain: the Rebellion happened, and the defeated rebels **fused with pre-existing yolk structures** — some wedding themselves to Faewild nature-law (becoming the Menhir as now known), others to Shadowlands meaning-architecture (the Idols). The myth's claim that the Menhir and Idols simply *are* fallen angels compresses that fusion; the World Egg Cosmology's claim that they are pure nature-laws compresses it from the other side. Neither in-world tradition knows the whole. The Giant genealogies below likewise compress patronage, ritual imitation, selective alteration, and political propaganda into literal parentage. "Dreamlands" below is the archaic term for the Shadowlands — see [[Names of the Menhir, Masks of the Idols]].
 
 #### **1. Creation and the Fall of Humanity**
 

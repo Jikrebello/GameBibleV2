@@ -1,6 +1,6 @@
 ---
 type: reference
-status: draft
+status: canon
 canon_level: core
 visibility: author-only
 era: []
@@ -9,37 +9,126 @@ culture: []
 related_factions: []
 appears_in: []
 needs: []
-tags: []
+aliases: [Bestiary Canon Register]
+tags: [core-canon]
 ---
 # Bestiary Framework — Creatures of the World Egg
 
-Every creature family belongs to a layer of the cosmology, and its layer dictates its ecology, its weaknesses, who studies it, and what its parts are worth. This note is the master key; family notes hang from it.
+This is the authoritative **Bestiary Canon Register**. It controls how creature families are classified, what their properties mean, and how the bestiary expands. Pathfinder categories may be used in creator research, but they never override World Egg cosmology.
 
-## The Floor Beneath the Table
+## Governing Rules
 
-The families below are the *aligned and cosmological* tiers. Most encounters in the world belong to neither — see [[The Mundane Layer — Residue, Vermin, and the Delver Trade]] for the common tier (restless dead, vermin, leakspawn, wall-wardens) and the encounter pyramid that keeps existential stakes rare enough to matter.
+1. **Origin first.** Every creature has one primary source ecology even when it now lives elsewhere.
+2. **Continuity answers what persists.** Intelligence, memory, and a human soul are separate questions. [[The Image, Soul, and Creaturely Continuity]] controls all rulings.
+3. **The Material remains ordinary.** Most encounters are animals, weather, disease, human violence, residue, or practical hazards.
+4. **A family needs an ecology.** A monster must have signs, needs, pressures, lifecycle, and consequences beyond combat.
+5. **Objective morality remains legible.** Predation, slavery, corruption, and soul violation do not become morally neutral because their perpetrators are culturally complex.
+6. **No accidental nations.** Broad creature variety does not require a new nonhuman state for every intelligent family.
+7. **System neutral.** Threat ranks describe narrative and encounter function, not a ruleset or challenge rating.
 
-## The Placement Table
+## Origin Sections
 
-- **Grobi** (goblins → hobgoblins → orcs → ogres) — **Material realm, Wrath's harvest.** Humans transformed by the Idol of Wrath ("The Fury" — see [[Names of the Menhir, Masks of the Idols]]); now a self-sustaining species whose food-driven metamorphic ladder and seasonal migration make them an ecological weather system, not an army. See [[Grobi Overview]].
-- **The Pale-Skins and the Hollow-Kings** — **a separate ancient species, not Grobi.** The deep-dwellers of the Grenzburg arc are no kin to the surface clans they manipulate. They are the **remnant of the barrow-builders** — the pre-human civilization that raised the Barrow of the First Chieftain and its buried engines — sunken, sunless, and multiplied strange, with the Hollow-Kings as their undying ruler-caste seeking to rekindle their ancestors' works (the Heart-Stone among them). What bent them in the deep dark — Idol feeding, patron rent, or something older — is deliberately unresolved. See [[Pale-Skins and Hollow-Kings]].
-- **Drakes** (bronze, emerald, gold, ruby, sapphire, silver) — **Faewild court-fauna.** The Menhir courts keep beasts as their regimes keep weather; drakes are those beasts strayed or seeded into the Material where the right yolk presses through. Each color belongs to a regime — see [[Drakes Overview]]. Their **heart-gems are crystallized Faewild law**, which is why one can silence a Shadowlands engine (Act II/III of Grenzburg: natural law against psychic hunger — yolk against yolk).
-- **Dragons** — **Abyssal exile-intelligences**, the Adversary's heavy pieces (established in [[The Adversary]]): swamp-leviathan refusal-physics, manifesting only through layered ritual. **The drake/dragon confusion is in-world canon and lethal**: peasants, heralds, and half the Church's rural clergy use the words interchangeably; scholars who know the difference know that hunting one is sport and disturbing the other is apocalypse. An Emerald Drake ate someone's herd. A dragon is why a duchy stopped appearing in records.
-- **Vampires** (Regalis, Nocturnis, Sanguine, Eclipsis, Militis) — **Pride's bloodlines, Material-realm heirs of the Giant Age.** Descended from the Giants of the **Imperial Court of Anshara** (the fifth Giant empire — see below), whose primordial vampirism was Pride's sovereignty over life itself, diluted through five specialized lines. The Sovereign's shadow — superiority, isolation, dominion — is their shared inheritance and their shared curse. See [[Vampires in the Present Age]].
-- **Ghouls** — **Gluttony's predatory economy.** Intelligent corpse-predators shaped by ghoul-fever, feeding hierarchies, and the necropolis cities of Nihil, the Warrens of Woe, and the Dusk Barrows. Their civilization makes the threat organized and culpable; it does not make them necessary custodians of death. See [[Ghouls]].
-- **Nightmares** — **Sloth's steeds out of the Endless Dusk**, the Slumberer's Shadowlands demesne; fear made mount, crossing at sloth-soaked thin spaces.
+| Folder | Primary origin | Coverage target |
+|---|---|---:|
+| `10 Material and Residue` | Material biology and post-mortem residue | 30 entries |
+| `20 Faewild and Menhir` | Menhir courts, place-law, and mythic fauna | 30 entries |
+| `30 Shadowlands and Idols` | vice ecologies, counterfeits, hunger, and fear | 24 entries |
+| `40 Astral Drift and Patrons` | Drift ecologies, route parasites, and rented stability | 18 entries |
+| `50 Elemental Shell` | Shell patterns, seams, leakspawn, and bindings | 18 entries |
+| `60 Heaven and Soul-Road` | redeemed human servants and soul-road offices | 16 entries |
+| `70 Hell and Abyss` | damned transformations, Depth fauna, and refusal wounds | 24 entries |
+| `80 Ancient and Crafted Legacies` | constructs, fleshworks, and dead-imperial remnants | 28 entries |
+| `90 Cross-Cutting Conditions` | modifiers that alter creatures from another family | 12 entries |
 
-## Canon Addition: The Fifth Giant Empire
+The target is approximately 200 registry entries represented through 45–60 family dossiers, standalone recurring creatures, and compact variants. It is a coverage target, not a quota.
 
-**Anshara, the Court of Courts** *(Persia-coded: satrapies, paradise-gardens, an immortal guard, the king-of-kings written in Giant scale)* — Pride's own empire, ruled by Giants whose divine blood carried primordial vampirism as the physical form of sovereignty. It is the empire the surviving myths forgot, and the omission is itself lore: Anshara was not broken by the Great Prophet's plagues like its four sisters — **it drank itself**. The bloodlines it had gifted and cursed turned on the court that made them, and the paradise-gardens closed over the wreckage. The Mono-Myth's silence about Anshara is the oldest redaction in the world; vampire tradition remembers what human tradition was made to forget, which is one more thing the Regalis are insufferable about. *(Integrated: Anshara now appears in the Prehistory Overview as the fifth empire.)*
+## Encounter Pyramid
 
-## The Creature Sheet Standard (restated from the MOC)
+- **Mundane:** animals, vermin, human opponents, ordinary residue, terrain, disease, and common crafted defenses. This should remain the broad base.
+- **Aligned:** a layer or ancient system materially shapes the threat, but the encounter remains locally comprehensible.
+- **Cosmological:** the creature can alter a region, soul-route, court, or plane-level condition. These encounters must remain rare enough to retain weight.
 
-Every family and species note should reach: encounter role, ecology and lifecycle, social intelligence, **signs** (what you notice before you meet it), lair logic, loot and material use (with the layer explaining *why* the parts have power), faction use (who hunts, farms, bans, or worships it), and 3–5 story hooks. A creature whose parts nobody trades and whose presence nobody interprets is not finished.
+## Rank Ladder
+
+- **Nuisance:** dangerous through numbers, circumstance, contamination, or surprise.
+- **Standard:** a recurring encounter for prepared local professionals.
+- **Specialist:** requires specific knowledge, equipment, or a countermeasure.
+- **Elite:** changes the plan of an expedition, company, or settlement.
+- **Apex:** dominates an ecology or regional crisis.
+- **Unique:** an individual whose history and defeat conditions require a dedicated dossier.
+
+A family may contain several ranks. `rank` records the dossier's most useful band or bands; it is not a fixed biological caste.
+
+## Controlled Creature Properties
+
+| Property | Controlled values or use |
+|---|---|
+| `origin_layer` | `material`, `faewild`, `shadowlands`, `astral`, `shell`, `heaven`, `hell`, `abyss`, `crafted`, `mixed` |
+| `continuity` | `human-soul`, `retained-human-soul`, `bound-human-soul`, `residue`, `wrath-rewritten-life`, `drift-rewritten-life`, `biological-pattern`, `court-law`, `idol-pattern`, `shell-pattern`, `constructed-pattern`, `giant-memory`, `infrastructure-office`, `abyssal-wound` |
+| `intelligence` | `mindless`, `animal`, `cunning`, `sapient`, `sovereign` |
+| `moral_agency` | `none`, `limited`, `full` |
+| `encounter_tier` | `mundane`, `aligned`, `cosmological` |
+| `rank` | `nuisance`, `standard`, `specialist`, `elite`, `apex`, `unique`; use a list when a family spans ranks |
+| `creature_family` | Canonical family name, normally matching a hub or family dossier |
+| `habitats` | List of physical or metaphysical habitats |
+| `encounter_roles` | List such as predator, controller, infiltrator, siege, hazard, guardian, skirmisher, or social |
+| `related_magic` | List of systems that create, bind, expose, or counter the creature |
+
+## Continuity Controls Defeat
+
+- `human-soul`: death normally routes the person.
+- `retained-human-soul`: break the retaining lien or condition, not only the body.
+- `bound-human-soul`: release the prisoner without destroying the soul.
+- `residue`: disperse or settle the animating memory, appetite, or place-anchor.
+- `wrath-rewritten-life` and `drift-rewritten-life`: defeat the living being and any external propagation mechanism; no soul routes afterward.
+- `court-law`: break, satisfy, displace, or overwrite the law that gives the being form.
+- `idol-pattern`: starve, expose, or sever the vice ecology that reproduces it.
+- `shell-pattern`: interrupt elemental coherence, binding, or seam conditions.
+- `constructed-pattern`: disable the script, engine, command structure, or body.
+- `giant-memory`: destroy or separate every vessel through which the memory reconstructs itself.
+- `infrastructure-office`: remove or lawfully replace the office, not merely its current manifestation.
+- `abyssal-wound`: close the breach or contradiction that lets the creature recur.
+
+## Family Rulings Already Locked
+
+- [[Grobi Overview|Grobi]] are Wrath-rewritten life, not humans with damaged souls. Trolls are the rare stable fifth stage.
+- [[Drakes Overview|Drakes]] are Menhir court-fauna. They are not Greed's followers and are not true dragons.
+- [[True Dragons]] are unique Abyssal catastrophes, not a color-coded animal family.
+- [[Vampire Origins|Vampires]] are humans whose real souls are held by Giant-derived blood liens.
+- [[Ghouls]] are residue-born intelligences aligned with Gluttony's appetite economy; the original human soul has departed.
+- [[Egg White Ecology|Driftkin]] are Drift-rewritten descendants of humans, without routable human souls.
+- Heavenly servants are redeemed human souls selected after judgement; there is no separate angel species.
+- A devil is a contractual mantle or office, not a biological species.
+
+## Aberration Is a Diagnostic Tag
+
+`Aberration` is not an origin section. It records a violation of body, identity, memory, space, time, ecology, or death. A Vortharan fleshwork, Astral route predator, or Nythalum machine may all be aberrant for different reasons while remaining in their true source folders.
+
+## Creator and Public Names
+
+Creator references may use recognizable terms such as angel, hydra, sphinx, troll, or elemental. Public canon should prefer regional names, folklore, disputed classifications, and the language of the culture encountering the creature. Pathfinder-specific names remain in [[Bestiary Translation Concordance|the authorial concordance]].
+
+## Required Dossier Anatomy
+
+Every mature family or creature dossier must state:
+
+- origin and continuity;
+- ecology and lifecycle;
+- intelligence and moral agency;
+- signs before contact;
+- habitats and lair logic;
+- encounter roles and tactics;
+- weaknesses and permanent defeat;
+- materials, remains, or salvage value;
+- faction use and legal or religious response;
+- regional names;
+- at least three story uses.
 
 ## Navigation
 
 - [[Bestiary MOC]]
-- [[Drakes Overview]]
-- [[Names of the Menhir, Masks of the Idols]]
+- [[Bestiary Translation Concordance]]
+- [[The Image, Soul, and Creaturely Continuity]]
+- [[The Mundane Layer — Residue, Vermin, and the Delver Trade]]
+- [[Creature Conditions and Templates]]
 - [[The World Egg Cosmology]]

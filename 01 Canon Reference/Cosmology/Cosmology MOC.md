@@ -34,6 +34,7 @@ tags: []
 
 - [[The Vestibule of Weighing]]
 - [[Soul Routing and the Vestibule]]
+- [[The Image, Soul, and Creaturely Continuity]]
 - [[Saints, Sinners, Druids and Hollows]]
 - [[The Egg White Primer]]
 - [[Patrons]]
@@ -51,6 +52,8 @@ tags: []
 - [[The Horsemen Overview]]
 - [[Lesser Beings]]
 - [[Courts of the Folk Lands]]
+- [[Heavenly Orders Overview]]
+- [[Hell and Abyssal Beings Overview]]
 
 ## Canon Note
 

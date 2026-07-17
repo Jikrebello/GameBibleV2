@@ -18,8 +18,8 @@ tags: []
 ### Realm:
 - **The Hoarded Vaults:** A labyrinthine realm filled with mountains of gold, precious gems, and countless treasures. The air is thick with the scent of wealth, and the walls glimmer with the reflections of endless riches. Within the Vaults is a grand casino where all games of chance are presented with unbelievably high odds. One can wager anything and everything, from rare mythological artifacts to human and otherworldly slaves and magical creatures. The casino is a place of both great fortune and immense loss, where the stakes are always high, and the only outcomes that are certain is that the house always wins.
 
-### Native Followers:
-- **Lizard and Reptile-themed Beings:** These creatures range from small, cunning lizardfolk who serve as guards and spies to massive, hulking reptilian brutes who enforce Avarix's will. The most powerful of these are the Drakes, batlike reptiles with scales of rare gemstones like Ruby, Emerald, and Sapphire. These Drakes possess a cruel cunning and occasionally slip into the material world to wreak havoc and gather more treasures for their master.
+### Creature Ecology:
+- **Claim-Mites, Hoardlings, and Gilded Counterfeits:** Avarix grows or attracts forms that classify, seize, guard, and imitate wealth. Reptilian masks appear in some cults, but they are not a universal people. [[Drakes Overview|Drakes]] are Menhir court-fauna and do not serve Avarix by nature.
 
 ### Personality and Characterization:
 - **Cunning and Manipulative:** Avarix is a master of manipulation and deceit, always scheming to acquire more wealth and power. He thrives on the suffering of others, finding joy in their downfall and the acquisition of their possessions.
@@ -48,5 +48,3 @@ tags: []
 
 - [[Cosmology MOC]]
 - [[Canon Index]]
-- [[Canon Index]]
-

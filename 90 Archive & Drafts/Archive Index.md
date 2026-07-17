@@ -25,6 +25,8 @@ The Ättar reconstruction preserved its three superseded source notes under `30 
 
 The Tarkhan reconstruction preserved its superseded overview under `30 Cultures/Tarkhan/2026-07 Pre-Reconstruction` and regrouped the earlier duplicate under the same subject archive. See [[Tarkhan - 2026-07 Pre-Reconstruction Archive Index]] and [[Tarkhan Reconstruction Audit]].
 
+The bestiary control pass preserved the former framework, Idol assignments, Grobi overview, Driftkin account, and Giant prehistory under `90 Project History/2026-07 Bestiary Control Pass`. [[Bestiary Taxonomy Migration Manifest]] records every creature move and local-mechanic reclassification.
+
 ## Subject Archives
 
 - **10 Cosmology:** superseded cosmological phases and entity versions.

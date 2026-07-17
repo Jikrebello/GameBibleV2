@@ -2,7 +2,7 @@
 type: event
 status: canon
 canon_level: local
-visibility: public
+visibility: author-only
 era: []
 region: []
 culture: []
@@ -13,7 +13,7 @@ tags: []
 ---
 ### Overview
 
-The Blood Empire of Xolotl was a fearsome and brutal civilization deeply inspired by the culture and practices of the Aztec Empire. Nestled within a dense jungle, surrounded by towering mountains and vast swamps, Xolotl was a place of grandeur, terror, and relentless bloodshed. Ruled by the **Obsidian Giants**—the offspring of **Furor, the Idol of Wrath**—the empire was sustained by constant blood sacrifices, believed to be essential for maintaining cosmic balance. The empire’s rise and fall were both marked by extreme violence, leaving behind a legacy of fear and ruin.
+The Blood Empire of Xolotl was a jungle and highland civilization of causeway cities, war calendars, captive tribute, monumental sacrifice, and exact astronomy. Its **Obsidian Giants** proclaimed themselves offspring of **Furor, the Idol of Wrath**, but were a Giant lineage altered through Wrath patronage, volcanic rites, and blood craft. Constant sacrifice powered the Blood Sun and the rulers' claim that only their violence preserved the world.
 
 ### Geography
 
@@ -23,7 +23,9 @@ The geography of Xolotl was both a blessing and a curse. The dense jungle provid
 
 ### Ruling Giants: The Obsidian Giants
 
-The Obsidian Giants, the rulers of Xolotl, were terrifying beings with skin as hard and black as volcanic glass, and eyes that burned with a crimson light. These Giants were the direct offspring of **Furor, the Idol of Wrath**, and they embodied his insatiable thirst for blood and violence. The Obsidian Giants were revered and feared as living gods, their every command obeyed without question by their human subjects.
+The Obsidian Giants had skin as hard and black as volcanic glass and eyes that burned with crimson light. Court theology called them Furor's direct offspring. Authorially, repeated sacrificial alteration made them an Idol-patronized Giant caste, not literal children of Wrath. They were revered and feared as living gods, and human subjects were compelled to obey them.
+
+Xolotl's continuity project attempted to preserve lineage-memory, vitality, and imperial authority in sacrificial blood. The Blood Sun could store and redistribute those patterns only by consuming human life. It could not preserve the Image or turn Giant memory into a human soul.
 
 The Obsidian Giants were not only rulers but also priests and warriors. They led their armies into battle, performed the most important sacrifices, and presided over the empire’s complex religious ceremonies. Each Obsidian Giant held dominion over a specific aspect of life and death, from war and sacrifice to the underworld and the elements. The most powerful among them held the title of **High Warlord**, ruling over all others from the top of the Pyramid of Blood.
 
@@ -65,4 +67,3 @@ The legacy of Xolotl also lives on in the myths and rituals of surrounding cultu
 
 - [[Timeline MOC]]
 - [[Canon Index]]
-

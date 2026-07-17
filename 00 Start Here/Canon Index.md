@@ -62,6 +62,7 @@ Use this as the main doorway into the world bible.
 - ![[Apocrypha & In-World Sources.base]]
 - ![[Authorial Secrets.base]]
 - ![[Source Reliability.base]]
+- ![[Bestiary Registry.base]]
 
 ## Archive and Provenance
 
