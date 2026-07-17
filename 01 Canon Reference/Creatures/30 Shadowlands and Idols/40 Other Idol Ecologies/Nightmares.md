@@ -17,6 +17,7 @@ moral_agency: limited
 encounter_tier: aligned
 rank: [elite, apex]
 creature_family: Nightmares
+catalogued_forms: [Nightmares]
 habitats: [sloth-thinned roads, dream sites, Shadowlands crossings]
 encounter_roles: [mount, pursuer, fear controller]
 related_magic: [Idol influence, dream intrusion]

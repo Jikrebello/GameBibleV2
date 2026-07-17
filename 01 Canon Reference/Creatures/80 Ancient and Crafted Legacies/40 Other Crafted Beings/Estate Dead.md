@@ -18,6 +18,7 @@ moral_agency: limited
 encounter_tier: aligned
 rank: [standard, specialist]
 creature_family: Ishkatar Legacies
+catalogued_forms: [Estate Dead]
 habitats: [Ishkatar estates, tombs, sealed households]
 encounter_roles: [laborer, guardian, ambusher]
 related_magic: [residue animation, Giant office]
@@ -83,7 +84,7 @@ Not every Ishkatar undead servant is Estate Dead, and later cultures may have co
 - a museum opens a sealed servant register and its exhibits begin resuming old duties;
 - an Estate Dead asks the party to find a name no surviving archive records;
 - a modern heir inherits an Ishkatar title and wakes every servant attached to it;
-- rival scholars disagree whether a speaking residue is the person or only evidence of that person;
+- rival scholars disagree whether a speaking residue is the person or only evidence of that person; authorial canon rules that it is not the deceased unless a genuine human soul was separately bound;
 - a tomb can be cleared by combat but only healed through restitution.
 
 ## Navigation
@@ -93,4 +94,3 @@ Not every Ishkatar undead servant is Estate Dead, and later cultures may have co
 - [[The Glass-Risen Estate]]
 - [[Sethrak the Final Receiver]]
 - [[Soul Routing and the Vestibule]]
-

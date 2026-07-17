@@ -18,6 +18,7 @@ moral_agency: full
 encounter_tier: aligned
 rank: [nuisance, standard, specialist]
 creature_family: Giltlings
+catalogued_forms: [Giltlings]
 habitats: [sun courts, ruins, tunnels, mortal settlements]
 encounter_roles: [skirmisher, infiltrator, social]
 related_magic: [Menhir law]
@@ -82,4 +83,3 @@ Giltling tools are clever small-scale craft, not magical treasure by default. Th
 - [[Gold Drakes]]
 - [[The Bright-Tail Host]]
 - [[The Drake's Demand — Full Adventure]]
-

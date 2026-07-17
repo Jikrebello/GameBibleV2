@@ -1,5 +1,5 @@
 ---
-type: creature
+type: reference
 status: canon
 canon_level: core
 visibility: author-only
@@ -8,48 +8,42 @@ region: []
 culture: []
 related_factions: []
 appears_in: []
-needs:
-  - Define the visible forms, mandates, and failure states of recurring soul-road offices.
-tags: []
+needs: []
 origin_layer: heaven
-continuity: infrastructure-office
-intelligence: sapient
-moral_agency: limited
-encounter_tier: cosmological
-rank: [specialist, elite, unique]
-creature_family: Soul-Road Functionaries
-habitats: [Vestibule approaches, funeral thresholds, damaged soul-routes]
-encounter_roles: [guide, investigator, guardian, controller]
-related_magic: [soul routing, funerary rites, White Flame]
+related_magic:
+  - Soul Routing
+tags:
+  - core-canon
 ---
+
 # Soul-Road Functionaries
 
-Soul-road functionaries are bounded offices and mechanisms that keep the passage of human souls from being confused with residue, diverted by predators, or trapped by illicit anchors. They are not a morally neutral pantheon and do not judge independently of the Lord.
+Soul-road functionary is a creator-facing name for temporary commissions that protect the passage of genuine human souls. It is not a neutral bureaucracy, a separate civilization, or a hierarchy with authority independent of the Lord.
 
-Some offices are inhabited by redeemed human servants. Others are impersonal infrastructure capable of speech and decision only within a mandate. A manifestation must therefore record both its office and its continuity.
+These services may be performed by true angels, manifested saints, the unique Boatman, or impersonal road mechanisms. Their shared appearance reflects the work at hand: distinguishing a soul from residue, preventing interception, restoring a broken way, or guarding the dying at a vulnerable threshold.
 
-## Recurring Functions
+## What They Do
 
-- **Guides:** maintain passage through a damaged or contested route.
-- **Separators:** distinguish soul from residue, copy, blood-memory, or false identity.
-- **Trackers:** pursue an intercepted or illicitly retained human soul.
-- **Custodians:** defend a threshold, record, or route mechanism.
-- **Witnesses:** preserve the truth of a death when Material evidence has been altered.
+- **Guide:** reveal or stabilize the next valid stretch of passage.
+- **Separate:** distinguish the routed person from corpse-memory, copied pattern, attached appetite, or hostile counterfeit.
+- **Hunt:** pursue an interceptor that has entered the road unlawfully.
+- **Ward:** protect a deathbed, crossing, or damaged threshold until passage completes.
 
-The Boatman remains the controlling image and office around passage. Lesser functionaries neither replace the Boatman nor establish a separate bureaucracy with its own moral law.
+They do not determine final judgement, own the souls they protect, collect metaphysical fees, or negotiate independent policy. The Redeemer judges; the commissioned servants keep the road from being falsified or seized.
 
-## Encounter Use
+## Manifestation
 
-A functionary may oppose protagonists who are carrying a bound soul, destroying necessary evidence, or attempting to cross a route under a false identity. Such opposition should be legible and bounded. Correcting the violation, presenting the truth, or releasing the soul can resolve the encounter without combat.
+Road service often appears through simple, repeated signs: lamps, oars, feathers, boundary cords, opened doors, receding water, or a clear voice naming the proper direction. Impersonal mechanisms possess no personality beyond their assigned function. Angels and saints retain their own agency and identity while carrying out the same work.
 
-## Failure States
+## Profiles
 
-An office can be damaged, falsely occupied, cut off from authority, forced into a literal reading, or imitated by a predator. Destroying its current body may not end the office; repairing, replacing, or closing its mandate may be required.
+- [[The Boatman]]
+- [[Soul-Road Guides and Separators]]
+- [[Soul-Hunters and Threshold Wardens]]
 
-## Navigation
+## Related
 
 - [[The Vestibule of Weighing]]
 - [[Soul Routing and the Vestibule]]
-- [[Heavenly Orders Overview]]
-- [[The Image, Soul, and Creaturely Continuity]]
-- [[Bestiary MOC]]
+- [[Heavenly Commission and Manifestation]]
+- [[Heaven and Soul-Road MOC|Heaven and Soul-Road]]

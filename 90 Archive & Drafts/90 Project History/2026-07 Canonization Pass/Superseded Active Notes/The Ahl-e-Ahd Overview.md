@@ -16,8 +16,8 @@ archive_reason: project-history
 archived_from: "90 Archive & Drafts\Project History\2026-07 Canonization Pass\Superseded Active Notes\The Ahl-e-Ahd Overview.md"
 archived_on: 2026-07-10
 ---
-![](2024-09-09_15-39-00_7398.png)
-![](2024-09-09_15-41-25_4848.png)
+![[01 Canon Reference/Peoples and Cultures/Ahl-e-Ahd/attachments/2024-09-09_15-39-00_7398.png]]
+![[01 Canon Reference/Peoples and Cultures/Ahl-e-Ahd/attachments/2024-09-09_15-41-25_4848.png]]
 #### **Geography and Environment**
 The **Ahl-e-Ahd** are a desert-dwelling people, living in a harsh and arid environment that has shaped their culture, economy, and philosophy. Their cities are often built around **oases** or hidden sources of water, with tall, imposing architecture designed to reflect the permanence and rigidity of their contract-based society. The desert itself is seen as a vast, untamed space where life is unpredictable, and survival depends on careful planning and negotiation with nature—much like the contracts that bind their world together.
 

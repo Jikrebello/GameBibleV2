@@ -18,6 +18,7 @@ moral_agency: limited
 encounter_tier: aligned
 rank: [apex]
 creature_family: Grobi
+catalogued_forms: [Ogres]
 habitats: [southern cold belt, taiga, permafrost, migration corridors]
 encounter_roles: [raider, skirmisher, siege, predator]
 related_magic: [Idol influence]

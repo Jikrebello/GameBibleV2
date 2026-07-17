@@ -68,6 +68,9 @@ The lamp is a genuine White Flame relic, but a modest one: it burns cleanly in f
 - [[Eclessian Canon Register]]
 - [[White Flame Doctrine]]
 - [[Freeflame Reformation]]
+- [[Corpse Residue]]
+- [[Anchored Hauntings]]
+- [[Manifested Saints Overview]]
 
 ## Research Basis
 

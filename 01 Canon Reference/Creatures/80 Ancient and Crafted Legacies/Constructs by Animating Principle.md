@@ -18,6 +18,7 @@ moral_agency: [none, limited, full]
 encounter_tier: aligned
 rank: [nuisance, standard, specialist, elite, apex, unique]
 creature_family: Constructs
+catalogued_forms: [Construct Principles]
 habitats: [ruins, workshops, fortifications, temples, ancient engines]
 encounter_roles: [guardian, laborer, infiltrator, controller, siege]
 related_magic: [rune magic, elemental binding, soulbinding, fleshweaving]

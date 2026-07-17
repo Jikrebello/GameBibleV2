@@ -16,7 +16,8 @@ tags: []
 1. **Creation of the First Circle:**
    - The First Circle was formed, with Father Sun (Solrath) and Mother Moon (Lunara) at the top, embodying the celestial balance of the universe.
    - The Three-Bodied God, Trium, existed in its unified state, embodying the Ocean, Land, and Sky aspects in perfect harmony.
-   - The lesser star children, including Astaroth, Lyraxis, Thanatos, Orionis, Hecatara, Typhonius, and Arachnara, were yet to be born, as the First Circle maintained its celestial balance.
+   - The lesser star children, including Astaroth, Lyraxis, Orionis, Hecatara, Typhonius, and Arachnara, were yet to be born, as the First Circle maintained its celestial balance.
+   - Later Atherian recensions insert **Thanatos** into this genealogy. That insertion reflects the empire's misclassification of [[The Boatman]], not an actual Menhir birth.
 
 2. **The Golden Age:**
    - The First Circle thrived in harmony, with Father Sun and Mother Moon ruling with wisdom and power. Trium was the beloved of both, guiding the realms with its triune nature.
@@ -69,4 +70,3 @@ tags: []
 - [[Cosmology MOC]]
 - [[Canon Index]]
 - [[Canon Index]]
-

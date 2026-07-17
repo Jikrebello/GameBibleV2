@@ -29,7 +29,7 @@ tags: []
 - **30 Shadowlands and Idols:** Grobi, vampires, ghouls, Nightmares, and vice-grown counterfeits.
 - **40 Astral Drift and Patrons:** Driftkin, Protons, route predators, and rent-bound servitors.
 - **50 Elemental Shell:** primal patterns, seams, leakspawn, and bound manifestations.
-- **60 Heaven and Soul-Road:** redeemed human servants and bounded route offices.
+- **60 Heaven and Soul-Road:** created angels, manifested saints, the Boatman, and bounded route mechanisms.
 - **70 Hell and Abyss:** damned transformations, Depth fauna, imposed mantles, and wounds.
 - **80 Ancient and Crafted Legacies:** dead-imperial remnants, constructs, fleshworks, and engines.
 - **90 Cross-Cutting Conditions:** modifiers that preserve the subject's primary origin.
@@ -37,8 +37,30 @@ tags: []
 ## 10 Material and Residue
 
 - [[The Mundane Layer — Residue, Vermin, and the Delver Trade]]
+- [[Residue Dead Overview]]
+
+### Predators and Megafauna
+
 - [[Great-Horns]]
 - [[Harridans]]
+- [[Predators and Oversized Fauna]]
+- [[Wyverns]]
+- [[Burrowers of Road and Deep]]
+- [[Material Sea Leviathans]]
+
+### Vermin, Decay, Plants, and Fungi
+
+- [[Ruin Vermin and Swarms]]
+- [[Natural Oozes and Slimes]]
+- [[Predatory Plants and Rot-Heaps]]
+- [[Fungal Colonies and Parasitic Succession]]
+
+### Residue Dead
+
+- [[Corpse Residue]]
+- [[Anchored Hauntings]]
+- [[Self-Anchored Dead]]
+- [[Bound Champions and Ward-Residue]]
 - [[Hollow Sentries]]
 
 ## 20 Faewild and Menhir
@@ -102,8 +124,31 @@ tags: []
 
 ## 60 Heaven and Soul-Road
 
+- [[Heaven and Soul-Road MOC]]
 - [[Heavenly Orders Overview]]
+- [[Heavenly Commission and Manifestation]]
+
+### True Angels
+
+- [[True Angels Overview]]
+- [[Attendant and Herald Angels]]
+- [[Warden, Mercy, and Witness Angels]]
+- [[Host and Greater Angels]]
+- [[Phoenixes]]
+
+### Manifested Saints
+
+- [[Manifested Saints Overview]]
+- [[Local and Mission Saints]]
+- [[Wonder, War, and Threshold Saints]]
+- [[Greater Saints]]
+
+### Soul-Road
+
 - [[Soul-Road Functionaries]]
+- [[The Boatman]]
+- [[Soul-Road Guides and Separators]]
+- [[Soul-Hunters and Threshold Wardens]]
 
 ## 70 Hell and Abyss
 
@@ -133,8 +178,8 @@ tags: []
 
 ## Expansion Order
 
-1. Material and Residue + Heaven and Soul-Road.
-2. Faewild and Menhir + Hell and Abyss.
+1. **Complete:** Material and Residue + Heaven and Soul-Road.
+2. **Next:** Faewild and Menhir + Hell and Abyss.
 3. Ancient and Crafted Legacies + Elemental Shell.
 4. Shadowlands and Idols + Astral Drift and Patrons.
 5. Cross-cutting conditions, regional names, and adventure-demand closure.

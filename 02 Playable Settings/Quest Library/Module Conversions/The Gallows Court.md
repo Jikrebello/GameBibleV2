@@ -70,6 +70,8 @@ Replace procedure as a clever gimmick; the Brauvalian confessional wound and hum
 
 - [[Gazetteer of the Known World]]
 - [[Setting Commandments]]
+- [[Residue Dead Overview]]
+- [[Anchored Hauntings]] - the Keener and courthouse persona echo are residue, not the routed victim.
 
 ## Research Basis
 

@@ -9,7 +9,7 @@ culture: []
 related_factions: []
 appears_in: []
 needs:
-  - Complete the six focused family waves recorded in the Bestiary expansion queue.
+  - Complete waves two through six recorded in the Bestiary expansion queue.
 tags: []
 ---
 # Bestiary Translation Concordance
@@ -30,14 +30,14 @@ This is the creator-only crosswalk for the supplied Pathfinder monster taxonomy.
 
 | Source archetype | Result | World Egg destination |
 |---|---|---|
-| Angels: devas, planetars, solars, messengers, guardians | `merge` | [[Heavenly Orders Overview]]; redeemed humans in messenger, guardian, healer, judge, and warrior offices |
-| Archons: lantern, hound, legion, shield, trumpet, gate, star, bastion | `merge` | Heavenly guardians and war-host offices; animal shapes are office vestments, not species |
-| Agathions: silvanshee, vulpinal, avoral, leonal, cetaceal, cervinal, draconal | `merge` | Saintly animal symbolism, Menhir noble beasts, and local miracle forms; no separate ancestral-animal people |
-| Azatas: lyrakien, bralani, lillend, ghaele, brijidine, veranallia | `merge` | Liberator, pilgrim, artist, and intervention offices among redeemed servants |
-| Couatls and garudas | `merge` | Heavenly teaching or champion vestments; serpent and winged forms are culturally interpreted |
-| Peris | `expand` | Penitent or tested heavenly agents; fire symbolism does not create a lineage |
+| Angels: devas, planetars, solars, messengers, guardians | `merge` | [[True Angels Overview]]; created spirits serving as attendants, heralds, wardens, hosts, and greater angels |
+| Archons: lantern, hound, legion, shield, trumpet, gate, star, bastion | `merge` | True-angel warden and host commissions; animal imagery may be core anatomy or cultural vestment, not an imported species ladder |
+| Agathions: silvanshee, vulpinal, avoral, leonal, cetaceal, cervinal, draconal | `merge` | Menhir noble beasts, true-angel vestments, and saintly signs according to the useful role; no ancestral-animal heavenly people |
+| Azatas: lyrakien, bralani, lillend, ghaele, brijidine, veranallia | `merge` | Mission saints and true-angel herald, mercy, or host commissions; no morally neutral freedom species |
+| Couatls and garudas | `merge` | True-angel teaching or champion forms and Menhir serpents; winged forms remain origin-specific |
+| Peris | `merge` | Loyal fire-bearing angels or later fallen-angel cases; penance does not create a heavenly lineage |
 | Manasaputras | `exclude` | Human sanctification is not self-generated spiritual evolution |
-| Empyreans and divine heralds | `unique` | Named phoenix-grade interventions under direct authority |
+| Empyreans and divine heralds | `unique` | Named greater angels, greater saints, or phoenix-grade interventions under direct commission |
 
 ## Fiend Crosswalk
 
@@ -57,7 +57,7 @@ This is the creator-only crosswalk for the supplied Pathfinder monster taxonomy.
 
 | Source archetype | Result | World Egg destination |
 |---|---|---|
-| Psychopomps: nosoi, esobok, vanth, shoki, morrigna, memitim, kere, yamaraj | `merge` | [[Soul-Road Functionaries]] and redeemed investigators; the Boatman and Vestibule retain authority |
+| Psychopomps: nosoi, esobok, vanth, shoki, morrigna, memitim, kere, yamaraj | `merge` | [[The Boatman]], commissioned angels or saints, and impersonal [[Soul-Road Functionaries]]; no neutral psychopomp society |
 | Proteans: voidworm, naunet, imentesh, keketar | `merge` | Astral instability, route fauna, and drift-rewritten sovereign patterns |
 | Aeons | `merge` | World-correction mechanisms and rare infrastructure offices, without moral neutrality above the Lord |
 | Inevitables | `expand` | Atherian, Giant, or soul-road enforcement constructs with bounded mandates |
@@ -216,7 +216,7 @@ The first controlled condition set is [[Creature Conditions and Templates|residu
 
 ## Expansion Queue
 
-1. Material and Residue + Heaven and Soul-Road.
+1. **Complete:** Material and Residue + Heaven and Soul-Road.
 2. Faewild and Menhir + Hell and Abyss.
 3. Ancient and Crafted Legacies + Elemental Shell.
 4. Shadowlands and Idols + Astral Drift and Patrons.

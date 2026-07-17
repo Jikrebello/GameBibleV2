@@ -27,6 +27,8 @@ The Tarkhan reconstruction preserved its superseded overview under `30 Cultures/
 
 The bestiary control pass preserved the former framework, Idol assignments, Grobi overview, Driftkin account, and Giant prehistory under `90 Project History/2026-07 Bestiary Control Pass`. [[Bestiary Taxonomy Migration Manifest]] records every creature move and local-mechanic reclassification.
 
+The first creature expansion wave preserved its controlling pre-wave references under `90 Project History/2026-07 Material and Heaven Wave`. [[Material and Heaven Wave Migration Manifest]] records the Boatman migration, the 34 Material and residue forms, the sixteen heavenly profiles, and every deferred origin family.
+
 ## Subject Archives
 
 - **10 Cosmology:** superseded cosmological phases and entity versions.

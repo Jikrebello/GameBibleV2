@@ -13,19 +13,19 @@ tags: []
 ---
 # Soul Routing and the Vestibule
 
-Soul routing is the metaphysical process by which the dead are moved from Material death toward judgement and final disposition. It is one of the setting's central stakes.
+Soul routing is the metaphysical process by which genuine human souls pass from Material death toward judgement and final disposition. Nonhuman continuities, residue, Grobi, and Driftkin do not naturally enter this road.
 
 ## The Normal Route
 
-1. A mortal dies in the Material Realm.
+1. A human dies in the Material Realm; body and residue remain behind.
 2. The soul is received toward the [[The Vestibule of Weighing]].
 3. Truth-of-life and consent are encountered under the Redeemer's authority.
-4. The Boatman routes the soul according to its disposition.
-5. Communion, refusal, or leftward capture becomes spiritually consequential.
+4. [[The Boatman]] receives and routes the soul according to its disposition.
+5. The soul proceeds toward communion or the consequence of completed refusal.
 
 ## Why Factions Fight Over It
 
-Control over soul routing means control over ultimate destiny. This is why saints, sinners, Idols, patrons, cults, churches, and leftward powers care about burial, confession, relics, contracts, names, and death rites.
+No created faction can own judgement or manufacture the Image. The conflict concerns whether a human soul reaches the truthful encounter cleanly, whether a life is trained toward communion or refusal, and whether a retaining lien or false passage can delay arrival. This is why saints, sinners, Idols, patrons, cults, churches, and leftward powers care about burial, confession, relics, contracts, names, and death rites.
 
 ## Interception Methods
 
@@ -48,3 +48,7 @@ Clean soul routing is a work of mercy and justice. Interception, predation, and 
 ## Navigation
 
 - [[Magic & Metaphysics MOC]]
+- [[The Vestibule of Weighing]]
+- [[The Boatman]]
+- [[Soul-Road Functionaries]]
+- [[Heaven and Soul-Road MOC]]

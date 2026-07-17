@@ -11,6 +11,10 @@ appears_in: []
 needs: []
 tags: []
 ---
+# Reliability Note
+
+The religious sections below describe Atherian belief and practice. They should not be read as an authorial endorsement of every imperial classification. Most Star-Pantheon cults addressed Menhir through civic masks; the Thanatos cult instead misclassified [[The Boatman]] and surrounded his real psychopomp signs with false myths of theft and bargaining.
+
 ![](attachments/2024-09-09_15-43-53_3735.png)
 
 ![](attachments/2024-09-09_15-46-58_8163.png)
@@ -103,4 +107,3 @@ The **Atherian Empire** may have fallen, but its legacy lives on through the rui
 - [[Cultures MOC]]
 - [[Canon Index]]
 - [[Canon Index]]
-

@@ -18,6 +18,7 @@ moral_agency: limited
 encounter_tier: aligned
 rank: [elite]
 creature_family: Drakes
+catalogued_forms: [The Gemfallen]
 habitats: [Menhir-thin wilds, court territories, Material nesting grounds]
 encounter_roles: [predator, territorial hazard, apex beast]
 related_magic: [Menhir law, Shell scarring]

@@ -41,12 +41,25 @@ _A practical overview of the major actors, what they are, where they belong, and
 
 ---
 
+## True Angels
+
+**What true angels are:** Created heavenly spirits with stable identities, full agency, and core forms often expressed through strange avian anatomy, light, wind, and living fire. They are not redeemed humans.
+
+**What they do:** Loyal angels serve the Lord through bounded commissions as attendants, heralds, wardens, mercies, witnesses, hosts, and greater servants. Phoenixes are intervention-grade true angels.
+
+**How authority works:** Divine commission, not species or raw power, determines authority. A saint may command angels when entrusted with that work.
+
+**Can they fall:** Yes. Falling is chosen refusal, not infection or bodily mutation. Detailed fallen-angel ecologies belong to the Hell and Astral references.
+
+---
+
 ## The Boatman
 
-**What the Boatman is:** A necessary infrastructure-being of the Material plane: the psychopomp office that ensures souls do not become prey to yolk regimes or drift economics. He is closer to a metaphysical civil servant than a god, but his authority is real and difficult to contest.  
+**What the Boatman is:** A unique created angel commissioned as psychopomp and custodian of the soul-road. He is neither a Menhir nor a neutral god, and "Thanatos" is one regional title rather than a uniquely authoritative true name.
+
 **What the Boatman does:** He receives the dead into the correct intake process, prevents interception where possible, and ferries souls onto their rightful routes after judgement is resolved.  
 **Where the Boatman belongs:** He operates at the boundary between Material death and the Vestibule of Weighing, and along the official soul-roads toward the Gates.  
-**Why he’s important:** Without him, the dead would routinely snag in thin spaces, be harvested by Idols, bargained away to patrons, or dissolved in drift.
+**What he does not do:** He does not judge, own souls, bargain for worship, or administer an independent afterlife. His authority comes from the Lord's commission.
 
 ---
 
@@ -93,12 +106,15 @@ _A practical overview of the major actors, what they are, where they belong, and
 
 ---
 
-## Saints
+## Living and Manifested Saints
 
-**What Saints are:** Mortals sanctified during life by the White Flame, serving as advanced officers and exemplars of the Redeemer’s single church. Saints are not only fighters; they are builders, shepherds, founders, and living proofs of rightward coherence.  
-**What Saints do:** They expand and strengthen the church and contest rival claims on souls. They stabilize thin spaces, dismantle predation infrastructure, protect clean routing to the Vestibule, and shape communities into resilience against Idol mapping and patron debt.  
-**Why relics matter:** Saints often leave behind relics that function as portable rightward anchors—high-density coherence objects that stabilize reality and disrupt corruption vectors.   
-**How they vary internally:** Different traditions emphasize different methods (institutional/juridical versus mystical/liturgical/ascetic), while remaining one body. They also usually fall under certain portfolios and are petitioned for prayers by mortals accordingly.
+**What living saints are:** Human persons sanctified during earthly life by the White Flame, serving as builders, shepherds, founders, protectors, and witnesses of the Redeemer's church. Church recognition may identify sanctity but cannot manufacture it.
+
+**What manifested saints are:** Redeemed human souls sent from Heaven under a particular commission after judgement and final communion. They retain recognizable earthly and cultural identity, sometimes accompanied by avian or fiery signs.
+
+**How they differ from angels:** Saints are human souls; true angels are created spirits. Saints cannot fall after final communion.
+
+**Why relics matter:** A saint's earthly remains or tools may become portable anchors of White Flame, but neither relic custody nor ritual technique permits mortals to summon the saint mechanically.
 
 ---
 
@@ -138,5 +154,4 @@ _A practical overview of the major actors, what they are, where they belong, and
 
 - [[Cosmology MOC]]
 - [[Canon Index]]
-- [[Canon Index]]
-
+- [[Heaven and Soul-Road MOC]]

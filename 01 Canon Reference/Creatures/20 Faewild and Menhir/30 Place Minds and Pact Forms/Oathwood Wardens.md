@@ -18,6 +18,7 @@ moral_agency: limited
 encounter_tier: aligned
 rank: [elite, apex]
 creature_family: Place Minds
+catalogued_forms: [Oathwood Wardens]
 habitats: [oathwoods, breached sanctuaries, Folk pact-lands]
 encounter_roles: [guardian, controller, social]
 related_magic: [Menhir law, place pacts]

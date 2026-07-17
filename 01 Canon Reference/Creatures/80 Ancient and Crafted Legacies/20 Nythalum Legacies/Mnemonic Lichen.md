@@ -18,6 +18,7 @@ moral_agency: none
 encounter_tier: aligned
 rank: [nuisance, specialist]
 creature_family: Nythalum Constructs
+catalogued_forms: [Mnemonic Lichen]
 habitats: [Nythalum annexes, crystal systems, contaminated water]
 encounter_roles: [hazard, memory predator, resource]
 related_magic: [Nythalum engineering, memory craft]

@@ -55,9 +55,19 @@ tags: []
 
 ## Agents
 
-### Phoenixes (Heavenly Sovereigns / Greater Angels)
+### True Angels (Created Heavenly Spirits)
 
-- **Role:** High-order emissaries and executors of divine coherence; intervention-grade beings, rare and severe.
+- **Nature:** True angels are created spirits with stable identities and full agency. They are not redeemed humans, Menhir, or personified infrastructure.
+
+- **Commission:** Loyal angels serve through the Lord's commission. Authority follows the work entrusted to them rather than raw power or origin; a manifested saint may command angels when that commission requires it.
+
+- **Form:** Their core manifestations are strange and often avian: layered wings, many-eyed vigilance, wind-song, living light, and fire that reveals without consuming. Cultures translate vestment and symbolism without inventing a different being.
+
+- **Freedom:** Angels can choose refusal and fall. Falling is a moral act, not an infection or biological life stage.
+
+### Phoenixes (Intervention-Grade True Angels)
+
+- **Role:** Singular high-order true angels entrusted with intervention-grade commissions. They are created spirits, not transformed saints or elemental birds.
 
 - **Form:** Avian beings of light—often interpreted as phoenixes, burning-winged raptors, or radiant birds whose feathers resemble living embers or sunlit blades.
 
@@ -69,11 +79,13 @@ tags: []
 
 - **Signature effect:** Presence feels like _being seen entirely_—not watched, but comprehended.
 
-### Saints (Sanctified Mortals / Rightward Anchors)
+### Living and Manifested Saints
 
-- **Role:** The Church’s advanced agents—leaders, protectors, restorers, and wardens in the war over souls and stability.
+- **Living saints:** Human persons whose earthly lives have been shaped by the White Flame into exceptional witness, leadership, protection, and restoration. Recognition by a church does not create sanctity and may be mistaken.
 
-- **Transformation:** Sanctification produces **ontological coherence** (not only moral virtue). Saints become hard to bargain away, hard to fracture, and hard to map by Idol logic.
+- **Manifested saints:** After judgement and final communion, a redeemed human saint may be sent from Heaven under a bounded commission. The saint retains recognizable earthly identity and cannot fall.
+
+- **Transformation:** Sanctification produces **ontological coherence** (not only moral virtue). Living saints become hard to bargain away, fracture, or map by Idol logic. A posthumous manifestation is a commission-body around a redeemed human soul, not an angelic species.
 
 - **Manifest traits:** Not always literal wings, but commonly:
     
@@ -87,6 +99,8 @@ tags: []
     - preserve clean passage of the dead toward judgement,
     - stabilize regions where yolk intrusion is accelerating,
     - expand and strengthen the Church (Saints are not only fighters; they are builders of durable rightward order).
+
+- **Limit:** Neither angels nor manifested saints can be summoned or commanded through repeatable mortal magic. Their aid may be petitioned, and their present manifestation may be broken, but their underlying spirit or redeemed soul is not thereby destroyed.
 
 
 ### Prophets (Pre-Redeemer Messengers / Covenant Voices)
@@ -129,5 +143,4 @@ tags: []
 
 - [[Cosmology MOC]]
 - [[Canon Index]]
-- [[Canon Index]]
-
+- [[Heaven and Soul-Road MOC]]

@@ -3,6 +3,8 @@ filters:
     - 'type == "creature"'
     - '!file.inFolder("90 Archive & Drafts")'
     - '!file.inFolder("99 Templates")'
+formulas:
+  coverage_count: 'catalogued_forms.length'
 properties:
   status:
     displayName: Status
@@ -20,6 +22,10 @@ properties:
     displayName: Rank
   creature_family:
     displayName: Family
+  catalogued_forms:
+    displayName: Catalogued Forms
+  formula.coverage_count:
+    displayName: Forms
   habitats:
     displayName: Habitats
   encounter_roles:
@@ -29,6 +35,23 @@ properties:
   needs:
     displayName: Needs
 views:
+  - type: table
+    name: Coverage
+    groupBy:
+      property: note.origin_layer
+      direction: ASC
+    order:
+      - file.name
+      - origin_layer
+      - creature_family
+      - formula.coverage_count
+      - catalogued_forms
+      - status
+    sort:
+      - property: origin_layer
+        direction: ASC
+      - property: file.name
+        direction: ASC
   - type: table
     name: By Origin
     groupBy:

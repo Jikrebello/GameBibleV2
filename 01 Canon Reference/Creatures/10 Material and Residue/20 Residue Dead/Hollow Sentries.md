@@ -18,6 +18,7 @@ moral_agency: limited
 encounter_tier: aligned
 rank: [specialist]
 creature_family: Residue Dead
+catalogued_forms: [Hollow Sentries]
 habitats: [sealed keeps, battlefields, burial works]
 encounter_roles: [guardian, controller]
 related_magic: [residue animation]
@@ -90,6 +91,10 @@ Similar after-images may arise at other thin spaces, but they should reflect the
 - hardline commanders want reliable replacement guards;
 - Freeflame witnesses fear the Church will classify echoes as relic property;
 - Accord Wardens prioritize finding the living original before destroying a double.
+
+## Regional Names
+
+Hollow Keep survivors call them **Hollow Sentries**. Brauvalian testimony also uses **second guards** and **bell doubles**; Freeflame pamphlets prefer **muster echoes** to avoid implying that a human soul has returned.
 
 ## Quest Uses
 

@@ -71,6 +71,9 @@ The supernatural pressure comes from the stolen jaw itself: it is changing the d
 - [[Bearshield Holds]]
 - [[Grobi Overview]]
 - [[Gazetteer of the Known World]]
+- [[Predators and Oversized Fauna]]
+- [[Burrowers of Road and Deep]] - Frostmaws belong to the deep southern permafrost ecology.
+- [[Anchored Hauntings]] - controls the dead lord's hall-residue.
 
 ## Research Basis
 

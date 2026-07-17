@@ -23,7 +23,7 @@ A professional bureaucracy maintained census rolls, property surveys, water righ
 
 ## Religion
 
-The Star Pantheon organized older cults beneath an imperial celestial hierarchy. Astaroth represented conquest and public order; Lyraxis art and civic performance; Thanatos death and passage; Arachnara illness and concealed networks; Typhonius calamity and monstrous birth. Local gods could survive as regional titles, attendants, or disputed manifestations so long as their temples acknowledged imperial primacy.
+The Star Pantheon organized older cults beneath an imperial celestial hierarchy. Astaroth represented conquest and public order; Lyraxis art and civic performance; the figure called Thanatos death and passage; Arachnara illness and concealed networks; Typhonius calamity and monstrous birth. Local gods could survive as regional titles, attendants, or disputed manifestations so long as their temples acknowledged imperial primacy. Most named powers were Menhir encountered through imperial astronomy, but Thanatos was a syncretic misclassification of [[The Boatman]], not a Star Child.
 
 Temple complexes were schools, archives, treasuries, employers, and political centers. Their observatories and ritual substructures form some of Thalmyria's most dangerous surviving ruins. Many were later converted into churches; others were sealed, dismantled, or built over after the Redeemer's conversion movement.
 

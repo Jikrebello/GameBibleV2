@@ -18,6 +18,7 @@ moral_agency: full
 encounter_tier: cosmological
 rank: [unique]
 creature_family: Adaptive Constructs
+catalogued_forms: [The Examiner]
 habitats: [Vortharan black-spire annexes]
 encounter_roles: [boss, controller, mimic, investigator]
 related_magic: [wardcraft, memory craft]

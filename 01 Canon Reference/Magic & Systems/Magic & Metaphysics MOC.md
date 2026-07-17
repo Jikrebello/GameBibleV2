@@ -37,6 +37,8 @@ tags: []
 - [[Thin Spaces]]
 - [[Soul Routing and the Vestibule]]
 - [[The Image, Soul, and Creaturely Continuity]]
+- [[Heaven and Soul-Road MOC]]
+- [[Heavenly Commission and Manifestation]]
 - [[Saints, Sinners, Druids and Hollows]]
 - [[The Vestibule of Weighing]]
 - [[The Egg White Primer]]
@@ -49,7 +51,7 @@ tags: []
 - **Warlock rune magic:** runic scripts draw elemental force from the Shell for war magic, siege craft, and engineered spellwork.
 - **Thin spaces:** local rule failures where myth becomes actionable.
 - **Entropic rent:** stability has upkeep, debt, owners, and failure states.
-- **Soul routing:** death, judgement, interception, saints, sinners, and the Boatman.
+- **Soul routing:** human death, judgement under the Redeemer, passage guarded by the Boatman, interception, saints, angels, and bounded road mechanisms.
 - **Artifact economy:** relics, god-debris, saint anchors, patron leverage, and political ownership.
 
 ## Hostile Metaphysical Systems

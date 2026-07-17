@@ -45,7 +45,7 @@ The ordinary dead in this adventure are residue-animate bodies, not imprisoned p
 
 The breach is more serious because ghouls consume corpses before burial residue has settled and deliberately tear at the roads by which the dead are mourned, named, and released. They are intelligent predators. Their hunger, memories, discipline, and loyalty to one another do not make that predation morally neutral.
 
-Edrik cannot become the Boatman. The Boatman's office is received under the Redeemer's authority and concerns truth, judgement, and passage. Edrik commands remains, residue, and a damaged threshold. His ability to make a corpse walk proves only that he has learned to exploit what a person leaves behind.
+Edrik cannot become the Boatman. The Boatman's commission is received from the Lord and concerns reception, protection, and passage after judgement. Edrik commands remains, residue, and a damaged threshold. His ability to make a corpse walk proves only that he has learned to exploit what a person leaves behind.
 
 Helene Bruch and Wanenbruck's mine council are culpable because they knowingly crossed protected burial ground, concealed deaths and subsidence, and valued the mine over the pauper galleries. They did not hire Edrik to raise the dead and did not understand the Seal. Their crime is grave without being identical to Edrik's necromancy or the warren's predation.
 
@@ -362,6 +362,9 @@ Stopping the rising does not automatically decide the living cases.
 - [[The Seal of the Shut Mouth]]
 - [[Ghouls]]
 - [[Grave-Runners]]
+- [[Residue Dead Overview]]
+- [[Corpse Residue]]
+- [[Self-Anchored Dead]]
 - [[The Mundane Layer — Residue, Vermin, and the Delver Trade]]
 - [[Eclessian Daily Life and the Year of the Flame]]
 - [[Soul Routing and the Vestibule]]

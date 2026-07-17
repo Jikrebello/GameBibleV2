@@ -18,6 +18,7 @@ moral_agency: none
 encounter_tier: mundane
 rank: [standard, specialist]
 creature_family: Harridans
+catalogued_forms: [Harridans]
 habitats: [cliffs, ruined towers, forest margins]
 encounter_roles: [aerial predator, ambusher]
 related_magic: []
@@ -55,6 +56,16 @@ Harridans are the trade's bread: a flock fight that rewards a quiet, prepared pa
 ## Handling — the Trade's Way
 
 The proverb is *iron for bones, silver for shades, run from anything that talks* — and harridans are firmly in the "iron" column, if you can reach them. Ranged weapons, a controlled choke-point, a torch, and quiet approach are the standard answers. A flock that has fed a while is fat and slow; a hungry one is bold. Either way they are killable vermin, and killing them is pest-control, not a moral event.
+
+## Lifecycle, Materials, and Use
+
+Harridans pair at exposed roosts, lay small clutches, and mature rapidly where carrion is abundant. Clearing adults without removing nests produces another flock within a season. Feathers, crop oil, talons, and hollow wing bones have modest trade value; frontier ratters use shed feathers to find updrafts, while dishonest relic sellers gild them as false angel pinions.
+
+March towns post bounties, delvers read roosts as signs of a newly opened ruin, and armies sometimes tolerate a distant flock because it clears carcasses. Feeding or driving a flock toward an enemy settlement is an ordinary act of cruelty, not creature magic.
+
+## Regional Names
+
+**Harridan** is the marcher trade name. Brauvalian crews use **bone-kite**, Folk hunters use **tower shriek**, and Saltborn sailors call coastal flocks **wake-birds**. Woman-faced harpies belong to folktales and counterfeit sightings, not this family.
 
 ## Canon Boundary
 

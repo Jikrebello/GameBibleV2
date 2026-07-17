@@ -18,6 +18,7 @@ moral_agency: [none, limited, full]
 encounter_tier: cosmological
 rank: [nuisance, standard, specialist, elite, apex, unique]
 creature_family: Hell and Abyssal Beings
+catalogued_forms: [Hell and Abyssal Beings]
 habitats: [Hell, the Depths, Abyssal wounds, refusal-thinned Material sites]
 encounter_roles: [tempter, jailer, predator, corrupter, catastrophe]
 related_magic: [contract magic, true names, soul routing, black mud]

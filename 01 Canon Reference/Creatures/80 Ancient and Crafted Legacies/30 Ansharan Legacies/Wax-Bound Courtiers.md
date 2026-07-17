@@ -18,6 +18,7 @@ moral_agency: limited
 encounter_tier: cosmological
 rank: [specialist, elite]
 creature_family: Ansharan Constructs
+catalogued_forms: [Wax-Bound Courtiers]
 habitats: [Ansharan courts, sealed estates, audience chambers]
 encounter_roles: [social, guardian, controller]
 related_magic: [Giant blood memory, soulbinding]

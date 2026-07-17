@@ -30,12 +30,12 @@ This is the authoritative **Bestiary Canon Register**. It controls how creature 
 
 | Folder | Primary origin | Coverage target |
 |---|---|---:|
-| `10 Material and Residue` | Material biology and post-mortem residue | 30 entries |
+| `10 Material and Residue` | Material biology and post-mortem residue | 34 entries |
 | `20 Faewild and Menhir` | Menhir courts, place-law, and mythic fauna | 30 entries |
 | `30 Shadowlands and Idols` | vice ecologies, counterfeits, hunger, and fear | 24 entries |
 | `40 Astral Drift and Patrons` | Drift ecologies, route parasites, and rented stability | 18 entries |
 | `50 Elemental Shell` | Shell patterns, seams, leakspawn, and bindings | 18 entries |
-| `60 Heaven and Soul-Road` | redeemed human servants and soul-road offices | 16 entries |
+| `60 Heaven and Soul-Road` | created angels, manifested saints, and soul-road offices | 16 entries |
 | `70 Hell and Abyss` | damned transformations, Depth fauna, and refusal wounds | 24 entries |
 | `80 Ancient and Crafted Legacies` | constructs, fleshworks, and dead-imperial remnants | 28 entries |
 | `90 Cross-Cutting Conditions` | modifiers that alter creatures from another family | 12 entries |
@@ -64,7 +64,7 @@ A family may contain several ranks. `rank` records the dossier's most useful ban
 | Property | Controlled values or use |
 |---|---|
 | `origin_layer` | `material`, `faewild`, `shadowlands`, `astral`, `shell`, `heaven`, `hell`, `abyss`, `crafted`, `mixed` |
-| `continuity` | `human-soul`, `retained-human-soul`, `bound-human-soul`, `residue`, `wrath-rewritten-life`, `drift-rewritten-life`, `biological-pattern`, `court-law`, `idol-pattern`, `shell-pattern`, `constructed-pattern`, `giant-memory`, `infrastructure-office`, `abyssal-wound` |
+| `continuity` | `human-soul`, `retained-human-soul`, `bound-human-soul`, `created-spirit`, `residue`, `wrath-rewritten-life`, `drift-rewritten-life`, `biological-pattern`, `court-law`, `idol-pattern`, `shell-pattern`, `constructed-pattern`, `giant-memory`, `infrastructure-office`, `abyssal-wound` |
 | `intelligence` | `mindless`, `animal`, `cunning`, `sapient`, `sovereign` |
 | `moral_agency` | `none`, `limited`, `full` |
 | `encounter_tier` | `mundane`, `aligned`, `cosmological` |
@@ -73,12 +73,14 @@ A family may contain several ranks. `rank` records the dossier's most useful ban
 | `habitats` | List of physical or metaphysical habitats |
 | `encounter_roles` | List such as predator, controller, infiltrator, siege, hazard, guardian, skirmisher, or social |
 | `related_magic` | List of systems that create, bind, expose, or counter the creature |
+| `catalogued_forms` | Every distinct reusable form covered by the dossier; standalone creatures list themselves |
 
 ## Continuity Controls Defeat
 
 - `human-soul`: death normally routes the person.
 - `retained-human-soul`: break the retaining lien or condition, not only the body.
 - `bound-human-soul`: release the prisoner without destroying the soul.
+- `created-spirit`: break the present manifestation or commission-body; the spirit itself persists unless authorial canon establishes a greater judgement.
 - `residue`: disperse or settle the animating memory, appetite, or place-anchor.
 - `wrath-rewritten-life` and `drift-rewritten-life`: defeat the living being and any external propagation mechanism; no soul routes afterward.
 - `court-law`: break, satisfy, displace, or overwrite the law that gives the being form.
@@ -97,7 +99,7 @@ A family may contain several ranks. `rank` records the dossier's most useful ban
 - [[Vampire Origins|Vampires]] are humans whose real souls are held by Giant-derived blood liens.
 - [[Ghouls]] are residue-born intelligences aligned with Gluttony's appetite economy; the original human soul has departed.
 - [[Egg White Ecology|Driftkin]] are Drift-rewritten descendants of humans, without routable human souls.
-- Heavenly servants are redeemed human souls selected after judgement; there is no separate angel species.
+- [[True Angels Overview|True angels]] are created heavenly spirits; [[Manifested Saints Overview|manifested saints]] are redeemed human souls. [[The Boatman]] is a unique created angel, while impersonal road mechanisms use `infrastructure-office`.
 - A devil is a contractual mantle or office, not a biological species.
 
 ## Aberration Is a Diagnostic Tag
@@ -112,6 +114,7 @@ Creator references may use recognizable terms such as angel, hydra, sphinx, trol
 
 Every mature family or creature dossier must state:
 
+- the distinct forms catalogued by the dossier;
 - origin and continuity;
 - ecology and lifecycle;
 - intelligence and moral agency;

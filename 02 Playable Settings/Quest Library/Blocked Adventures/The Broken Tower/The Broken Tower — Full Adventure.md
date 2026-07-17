@@ -160,7 +160,7 @@ Torvald is not redeemed by being defeated. He is redeemed, if at all, by being *
 
 ## Encounter and Creature Register
 
-- **Tier One residue:** rattle-bones (iron), barrow-shades (silver), grave-rats and corpse-beetles — the tower's three garrisons of dead, per [[The Mundane Layer — Residue, Vermin, and the Delver Trade]].
+- **Tier One residue:** [[Corpse Residue|rattle-bones]], [[Anchored Hauntings|barrow-shades]], and [[Ruin Vermin and Swarms|grave-rats and corpse-beetles]] form the tower's three ordinary ruin ecologies.
 - [[Harridans]]: the flock in the broken second-floor roost; the delve's big vermin set-piece.
 - [[Torvald Ghost-Foot]]: the tower's living "master"; a standoff, not a boss.
 - **Ivo Kesler:** the captured Bank surveyor; the objective, and an unexpected witness.
@@ -171,6 +171,9 @@ Torvald is not redeemed by being defeated. He is redeemed, if at all, by being *
 - [[Torvald Ghost-Foot]]
 - [[The Kestrel Tower]]
 - [[Harridans]]
+- [[Corpse Residue]]
+- [[Anchored Hauntings]]
+- [[Ruin Vermin and Swarms]]
 - [[The Mundane Layer — Residue, Vermin, and the Delver Trade]]
 - [[The Medori Bank]]
 - [[The Folk Clans]]

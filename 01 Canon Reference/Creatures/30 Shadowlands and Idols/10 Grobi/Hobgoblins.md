@@ -18,6 +18,7 @@ moral_agency: full
 encounter_tier: aligned
 rank: [standard, specialist]
 creature_family: Grobi
+catalogued_forms: [Hobgoblins]
 habitats: [southern cold belt, taiga, permafrost, migration corridors]
 encounter_roles: [raider, skirmisher, siege, predator]
 related_magic: [Idol influence]

@@ -1,58 +1,59 @@
 ---
-type: creature
+type: reference
 status: canon
 canon_level: core
 visibility: author-only
 era: []
 region: []
 culture: []
-related_factions: []
+related_factions: [Church of the Redeemer]
 appears_in: []
-needs:
-  - Define recurring messenger, guardian, healer, judge, warrior, and phoenix-grade offices in the Heaven wave.
+needs: []
 tags: [core-canon]
-origin_layer: heaven
-continuity: human-soul
-intelligence: sapient
-moral_agency: full
-encounter_tier: cosmological
-rank: [specialist, elite, apex, unique]
-creature_family: Heavenly Orders
-habitats: [Heaven, consecrated thresholds, commissioned missions]
-encounter_roles: [messenger, guardian, healer, judge, warrior]
-related_magic: [White Flame, sainthood, soul routing]
 ---
 # Heavenly Orders Overview
 
-The beings mortals call angels are **redeemed human souls selected after judgement for active service**. They are not a created outsider species and do not reproduce into an angelic people. Their transformed bodies and symbols express the office they have been given.
+Heaven and the soul-road involve three distinct continuities: **true angels**, **manifested saints**, and **impersonal road mechanisms**. Angels and saints serve the Lord as persons; mechanisms execute a bounded sacred function without personal agency.
 
-## Offices
+| Kind | Origin and continuity | Agency | Material appearance |
+|---|---|---|---|
+| [[True Angels Overview|True angels]] | Created heavenly spirits; `created-spirit` | Full; falling remains possible | Stable strange core form under a culturally intelligible vestment |
+| [[Manifested Saints Overview|Manifested saints]] | Redeemed human souls; `human-soul` | Full and fulfilled in communion; cannot fall | Recognizable earthly person translated through the witness's culture, sometimes with avian signs |
+| [[Soul-Road Functionaries|Road mechanisms]] | Impersonal commissioned infrastructure; `infrastructure-office` | Bounded to mandate | Lanterns, paths, doors, shore-beasts, bells, keys, or other functional forms |
 
-- **Messengers** carry a bounded truth, warning, commission, or answer.
-- **Guardians** defend a person, place, relic, road, or threshold under explicit authority.
-- **Healers** restore coherence and expose corruption without abolishing mortality.
-- **Judicial servants** bear witness, identify a soul-road violation, or execute a judgement already authorized.
-- **Warriors** oppose large-scale corruption, refusal, or predatory supernatural power.
-- **Phoenix-grade servants** are the rarest intervention order, sent where restoration requires death, fire, witness, and renewal on a regional scale.
+[[The Boatman]] is a true angel created by the Lord and appointed to the soul-road's central psychopomp commission. His work belongs to the road, but his continuity remains `created-spirit`, not `infrastructure-office`.
 
-These are functions, not social castes. One soul may serve through more than one office across its commission, while the same office may appear differently to different cultures.
+## Shared Missions
 
-## Limits
+Angels and saints may both carry messages, guard, heal, bear witness, fight, or work at thresholds. Origin does not dictate a single job. A local saint may command angels when the Lord's commission places the saint over that mission; an angel has no automatic authority over a saint merely by being an angel. Power, rank, testimony, and authority are separate questions.
 
-Heavenly servants do not create souls, alter the final standard of judgement, become independent gods, or accept worship as their right. They may refuse a mortal request, conceal information outside their commission, or permit suffering they have not been sent to prevent. Their goodness is real; their knowledge and jurisdiction remain bounded.
+## Intervention Scale
 
-## Mortal Recognition
+- **Local:** one person, household, shrine, crossing, or immediate danger.
+- **Mission-bearing:** a town, pilgrimage, institution, expedition, or sustained conflict.
+- **Great:** a kingdom, church, army, metaphysical frontier, or historical turning.
+- **Phoenix-grade:** singular intervention where judgement and restoration alter a region or age.
 
-Cultures interpret office-vestments through familiar symbols: wings, fire, wheels, armored ancestors, radiant beasts, bells, stars, or human figures. A beast-shaped appearance does not make the servant a celestial animal species. Apparitions must be tested against doctrine, purpose, humility, and fruit because [[Borrowed Saints]] and other counterfeits imitate the visible language of holiness.
+Both angels and saints can operate at more than one scale. Phoenixes are true angels, not saints transformed into a higher species.
 
-## Defeat and Harm
+## Petition and Command
 
-A commissioned servant can be resisted, wounded in its manifested body, cut off from a place, or forced to withdraw when its mission becomes impossible. Mortals cannot annihilate the redeemed human soul by ordinary violence. A fallen appearance is not proof that Heaven produced an evil angel species; corruption claims must be investigated as counterfeit, coercion, false office, or refusal by a human soul.
+Mortals can pray, prepare a rite, carry a relic, repair a threshold, or ask a saint's intercession. None of these mechanically summons a heavenly servant. Appearance requires the Lord's commission. A valid rite makes truthful reception possible; it does not create a command word for Heaven.
+
+## Falling and Counterfeits
+
+True angels possess real freedom and can fall through chosen refusal. They do not fall through disease, spell contamination, or ordinary injury. Detailed fallen-angel ecologies belong to the Astral and Hell catalogues.
+
+Redeemed saints cannot fall after final communion. A hostile “saint” is counterfeit, misidentified residue, a manipulated relic-effect, or an appearance generated by another power. [[Borrowed Saints]] are the most widespread such counterfeit.
+
+## Harm
+
+A heavenly servant normally enters the Material Realm through a commission-body. Mortals may resist, wound, or break that manifestation. Ordinary violence does not annihilate the created angelic spirit or redeemed human soul. Closing the mission, severing the local path, or making the commission impossible forces withdrawal without proving moral or metaphysical superiority.
 
 ## Navigation
 
+- [[Heaven and Soul-Road MOC]]
+- [[Heavenly Commission and Manifestation]]
 - [[The Image, Soul, and Creaturely Continuity]]
-- [[The Lord and Redeemer]]
 - [[White Flame Doctrine]]
-- [[Soul-Road Functionaries]]
 - [[Bestiary MOC]]

@@ -11,6 +11,10 @@ appears_in: []
 needs: []
 tags: []
 ---
+# Reliability Note
+
+This note records **Atherian astrological doctrine**, not authorial cosmology. Its placement of Thanatos among the Star Children preserves an imperial misclassification of [[The Boatman]]. Natal traits, portfolios, and claims of stellar influence describe what Atherians taught and how they organized society; they do not establish the powers' true natures.
+
 ### **1. Arachnara (The Weaver)**
 - **Symbol**: The Spider
 - **Element**: **Shadow** 
@@ -101,4 +105,3 @@ This **Atherian Astrology System** blends the traits of the Star Children with t
 - [[The Atherian Empire Overview]]
 - [[Canon Index]]
 - [[Canon Index]]
-

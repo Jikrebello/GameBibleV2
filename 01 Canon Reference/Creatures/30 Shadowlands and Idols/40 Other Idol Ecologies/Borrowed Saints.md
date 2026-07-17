@@ -18,6 +18,7 @@ moral_agency: limited
 encounter_tier: aligned
 rank: [specialist, elite]
 creature_family: Idol Counterfeits
+catalogued_forms: [Borrowed Saints]
 habitats: [false shrines, grief cults, communal dream sites]
 encounter_roles: [infiltrator, controller, social predator]
 related_magic: [Idol influence, apparition craft]

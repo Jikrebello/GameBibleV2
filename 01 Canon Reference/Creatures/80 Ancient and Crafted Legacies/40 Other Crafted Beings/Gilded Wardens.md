@@ -18,6 +18,7 @@ moral_agency: limited
 encounter_tier: aligned
 rank: [elite]
 creature_family: Ishkatar Legacies
+catalogued_forms: [Gilded Wardens]
 habitats: [Ishkatar vaults, estates, tomb roads]
 encounter_roles: [guardian, controller, siege]
 related_magic: [Giant office, rune craft]

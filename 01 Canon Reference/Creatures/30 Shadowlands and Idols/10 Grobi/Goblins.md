@@ -18,6 +18,7 @@ moral_agency: full
 encounter_tier: aligned
 rank: [nuisance, standard]
 creature_family: Grobi
+catalogued_forms: [Goblins]
 habitats: [southern cold belt, taiga, permafrost, migration corridors]
 encounter_roles: [raider, skirmisher, siege, predator]
 related_magic: [Idol influence]

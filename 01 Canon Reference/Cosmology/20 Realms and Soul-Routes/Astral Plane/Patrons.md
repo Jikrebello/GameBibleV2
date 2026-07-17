@@ -46,11 +46,11 @@ tags: []
 
 ---
 
-# 2) The Heavenly
+# 2) The Radiant Counterfeit
 
-**Cosmology name:** _Severed Radiants_ (functional right-pole remnants)
+**Cosmology name:** _Severed Radiants_ (Astral rightward mimics)
 
-**What they are:** Agents once keyed to the Heaven-gradient who now survive by **function** rather than devotion—boundary wardens, heraldic engines, luminous auditors, “lamps” that enforce crossings.
+**What they are:** Astral patrons, abandoned boundary engines, and self-preserving patterns that resemble heavenly signs without bearing a present divine commission. They are not true angels merely because they use light, wings, sanctuary, or heraldic forms. Any actual fallen created spirit belongs to the later fallen-angel register and must be identified individually.
 
 **Why they pact into yolk-space:**
 - To keep thin-spaces from cascading into systemic failure.
@@ -66,12 +66,12 @@ tags: []
 - **Boundary Authority:** seal doors, define thresholds, forbid crossing.
 - **Revelation-as-Structure:** expose hidden passages, false forms, corrupted rites.
 - **Sanctuary Geometry:** create safe zones that behave like clauses, not comfort.
-- **Audit Fire:** cleanse corruption by enforcing correct pattern, not “purity rhetoric.”
+- **Pattern Fire:** burn out structures that violate the patron's bounded threshold pattern.
 - **Witness Marks:** brand truths into place (signposts, ward-lines, procedural sigils).
 
 ## Signature boons
 1. **Warrant of Passage** — You may designate a controlled crossing: allies pass; designated threats cannot.
-2. **Audit Sight** — You see “fault lines” in reality: thin spaces, false doors, binding points, concealed routes, and rule-inconsistencies.
+2. **Fault Sight** — You see thin spaces, false doors, binding points, concealed routes, and rule-inconsistencies.
 3. **Clause-Sanctuary** — You create a temporary sanctuary that enforces a simple law (no violence, no lies, no pursuit, no summoning).
 
 ## Signature prices / clauses
@@ -81,20 +81,20 @@ tags: []
 
 ---
 
-# 3) The Shadow
+# 3) Funerary Sovereigns
 
 **Cosmology name:** _Funerary Sovereigns_ (custodians of endings)
 
-**What they are:** Not an Idol and not a Menhir: an Egg White class of patron that governs **passage, custody, and the bookkeeping of endings**—souls in transit, names of the dead, rightful destinations. Often anchored to ossuary belts, death-cairns, or “ledger-reefs” of fossilized contracts.
+**What they are:** Egg White patrons anchored to ossuary belts, death-cairns, copied names, and fossilized funerary compacts. They claim passage and custody, but they possess no lawful authority over judgement or the soul-road. Their actual reach concerns residue, names, Material anchors, and souls they have managed to intercept before clean arrival.
 
 **Why they pact into yolk-space:**
-- To prevent “unpaid deaths” (souls snagged, bound, stolen, looped).
-- To collect **true names** of the dead and settle metaphysical debts.
-- To enforce that death remains a **function**, not a resource for others to hoard.
+- To recover or monopolize names, remains, and funerary anchors.
+- To seize intercepted souls before rivals do, sometimes while presenting predation as rescue.
+- To destroy illicit bindings that compete with their own stability.
 
 **How their power feels:** Silence, inevitability, marked thresholds; the dead recognize you; bargains are clean and final.  
 
-**Common pact terms:** deliver certain souls; destroy illicit bindings; keep a funerary rite; never speak a prohibited name.  
+**Common pact terms:** recover named remains; destroy rival bindings; maintain an anchor rite; never speak a prohibited name.
 
 **Typical patron personality:** Archivist (death-ledger) or Severed Herald (custodial function).
 ## Power motifs
@@ -318,4 +318,3 @@ In exchange, it provides:
 - [[Cosmology MOC]]
 - [[Canon Index]]
 - [[Canon Index]]
-

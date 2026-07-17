@@ -9,7 +9,7 @@ culture: []
 related_factions: []
 appears_in: []
 needs: []
-superseded_by: "[[01 Canon Reference/Peoples and Cultures/The Sestaran Concord/The Sestaran Concord Overview]]"
+superseded_by: "[[01 Canon Reference/Peoples and Cultures/Sestaran Concord/The Sestaran Concord Overview]]"
 tags:
   - core-canon
 archive_reason: project-history

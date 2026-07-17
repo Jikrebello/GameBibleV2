@@ -18,6 +18,7 @@ moral_agency: limited
 encounter_tier: aligned
 rank: [standard, specialist, elite]
 creature_family: The Cloven
+catalogued_forms: [The Cloven]
 habitats: [old woods, offering groves, Faewild edges, Folk pact-lands]
 encounter_roles: [social, controller, skirmisher]
 related_magic: [Menhir law]

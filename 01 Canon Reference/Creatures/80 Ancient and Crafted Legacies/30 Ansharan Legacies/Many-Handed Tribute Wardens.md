@@ -18,6 +18,7 @@ moral_agency: limited
 encounter_tier: cosmological
 rank: [elite]
 creature_family: Ansharan Constructs
+catalogued_forms: [Many-Handed Tribute Wardens]
 habitats: [Ansharan palaces, audience routes, treasure chambers]
 encounter_roles: [guardian, controller, siege]
 related_magic: [Giant court architecture]

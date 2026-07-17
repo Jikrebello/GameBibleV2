@@ -71,6 +71,8 @@ Destroying a residue-being does not destroy a human soul. It can still be morall
 | Living human | `human-soul` | Natural route through the Vestibule |
 | Human vampire | `retained-human-soul` | Held until released or condition ends |
 | Soulbound construct or office | `bound-human-soul` | Imprisoned; routing resumes if truly released |
+| True angel, including the Boatman | `created-spirit` | Not human and never routed through the Vestibule |
+| Manifested saint | `human-soul` | Already judged and redeemed; serves from Heaven |
 | Ordinary residue dead | `residue` | Original soul already departed |
 | Grobi | `wrath-rewritten-life` | None |
 | Driftkin | `drift-rewritten-life` | None |
@@ -87,9 +89,14 @@ Giltlings, ordinary fey, elder drakes, elementals, Giants, Pale-Skins, patrons, 
 
 ## Heaven
 
-Heavenly messengers, guardians, healers, judges, warriors, and phoenix-grade agents are not a separately created angelic species. They are redeemed human souls selected after judgement for active service and transformed for an office. Their continuity remains `human-soul`, though their mode of embodiment and action has changed.
+Heavenly service includes more than one kind of continuity.
 
-Heavenly service is not a promotion earned by raw power. It is a vocation under the Lord's authority. A messenger cannot become an independent god, create new souls, or rewrite judgement.
+- **True angels** are created heavenly spirits with `continuity: created-spirit`. They possess stable identities, full agency, and core forms often expressed through strange avian anatomy, light, wind, or living fire. Loyal angels act by the Lord's commission. They can choose refusal and fall, though falling is a moral act rather than infection or biological mutation.
+- **Manifested saints** are redeemed human souls with `continuity: human-soul`. They retain recognizable earthly and cultural identity while serving under a particular commission. After final communion they cannot fall.
+- **[[The Boatman]]** is a unique true angel commissioned as psychopomp and custodian of the soul-road. He routes and protects; he does not judge independently of the Lord.
+- **Road mechanisms** are impersonal `infrastructure-office` manifestations used to guide, separate, hunt, or ward when passage is endangered.
+
+Authority follows divine commission rather than origin or raw power. A saint may command angels when entrusted with that work, and an angel may command saints under another commission. Mortals may petition for aid but cannot summon, bind, or mechanically deploy either kind of heavenly person. Destroying a heavenly manifestation ends its present commission-body, not the angelic spirit or redeemed soul.
 
 ## Hell and the Abyss
 
@@ -115,6 +122,9 @@ Hell contains more than one kind of being:
 
 - [[Soul Routing and the Vestibule]]
 - [[The Vestibule of Weighing]]
+- [[Heaven and Soul-Road MOC]]
+- [[Heavenly Commission and Manifestation]]
+- [[The Boatman]]
 - [[Bestiary Framework — Creatures of the World Egg]]
 - [[Grobi Overview]]
 - [[Egg White Ecology]]

@@ -15,8 +15,8 @@ archived_from: "90 Archive & Drafts\Versioned Drafts\Jirahar version 1\The Jirah
 archived_on: 2026-07-10
 superseded_by: []
 ---
-![](2024-09-09_18-44-41_6828.png)
-![](2024-09-09_18-52-31_5249.png)
+![[90 Archive & Drafts/30 Cultures/Jirahar/2026-07 Pre-Reconstruction/attachments/2024-09-09_18-44-41_6828.png]]
+![[90 Archive & Drafts/30 Cultures/Jirahar/2026-07 Pre-Reconstruction/attachments/2024-09-09_18-52-31_5249.png]]
 #### **Geography and Nomadic Lifestyle**
 The **Jirahar** are a nomadic people, whose lifestyle is defined by constant movement across different lands and territories. They travel in **great trade caravans**, following ancient routes that cross various regions, deserts, and mountains. Their ability to survive and thrive in harsh environments has been honed over generations, making them highly self-sufficient. While primarily land-based, a cousin group of the Jirahar operates a **fleet of ships**, following the same traditions and lifestyle but on the seas, using islands as their **Tower Towns**.
 

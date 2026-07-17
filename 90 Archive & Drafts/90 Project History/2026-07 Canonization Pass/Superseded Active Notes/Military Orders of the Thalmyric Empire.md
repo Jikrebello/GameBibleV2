@@ -9,7 +9,7 @@ culture: ["Thalmyric"]
 related_factions: ["Thalmyric Empire", "Thalmyric Church"]
 appears_in: []
 needs: ["Expand order roster, command structure, vows, rivalries, and quest use."]
-superseded_by: "[[01 Canon Reference/Peoples and Cultures/The Thalmyric Empire/Thalmyric Military Orders]]"
+superseded_by: "[[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/50 Economy and Warfare/Thalmyric Military Orders]]"
 tags: []
 archive_reason: project-history
 archived_from: "90 Archive & Drafts\Project History\2026-07 Canonization Pass\Superseded Active Notes\Military Orders of the Thalmyric Empire.md"

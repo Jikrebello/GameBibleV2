@@ -18,6 +18,7 @@ moral_agency: none
 encounter_tier: aligned
 rank: [standard, specialist, elite]
 creature_family: Drakes
+catalogued_forms: [Bronze Drakes]
 habitats: [marshes, estuaries, reed beds, wetland ruins]
 encounter_roles: [ambush predator, ferry hazard, lair guardian]
 related_magic: [Menhir law]

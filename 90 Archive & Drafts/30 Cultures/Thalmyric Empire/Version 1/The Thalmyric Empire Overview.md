@@ -15,8 +15,8 @@ archived_from: "90 Archive & Drafts\Versioned Drafts\Thalmyric Empire version 1\
 archived_on: 2026-07-10
 superseded_by: []
 ---
-![](2024-09-09_17-24-07_2158.png)
-![](2024-09-09_18-26-41_1195.png)
+![[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/attachments/2024-09-09_17-24-07_2158.png]]
+![[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/attachments/2024-09-09_18-26-41_1195.png]]
 The **Thalmyric Empire** is a grand and ancient civilization that rose to power through its connection to the **Thalassian Sea** and its strategic coastal and inland territories. Once part of the broader **Atherian Empire**, the Thalmyric Empire split off due to **religious schism** and political tensions, forming its own identity as a powerful and resilient state, deeply connected to its own version of the church and mysticism.
 
 ---
@@ -133,5 +133,4 @@ Together, these regions form a dynamic and complex empire, caught in a struggle 
 
 - [[Canon Index]]
 - [[Canon Index]]
-
 

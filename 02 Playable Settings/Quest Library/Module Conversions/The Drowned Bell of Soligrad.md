@@ -71,6 +71,9 @@ Replace generic Undertow machinery; Saltborn lineage and the Thirty Sisters must
 
 - [[Gazetteer of the Known World]]
 - [[Setting Commandments]]
+- [[Material Sea Leviathans]]
+- [[The Vestibule of Weighing]]
+- [[Soul-Road Functionaries]] - distinguishes lawful passage from the Undertow pilot's counterfeit channel.
 
 ## Research Basis
 

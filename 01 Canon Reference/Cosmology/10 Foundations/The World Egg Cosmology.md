@@ -143,11 +143,14 @@ This is why high ritual and rare conditions are usually required for true manife
 - Organized around core predatory structures that feed through identity and society.
 - They are not symbolic morals; they are operational metaphysical ecologies.
 
-### Material Infrastructure Beings
+### Heavenly Servants and Road Mechanisms
 
-Some entities exist because the system requires them.
+- **True angels** are created heavenly spirits with full agency. Loyal angels serve through the Lord's commission; they are not redeemed humans.
+- **Manifested saints** are redeemed human souls sent after judgement under bounded commissions. They retain earthly identity and cannot fall after final communion.
+- **The Boatman** is a unique true angel appointed as psychopomp and custodian of the soul-road.
+- **Road mechanisms** are impersonal infrastructure-office manifestations used to guide, separate, hunt, and ward when passage is endangered.
 
-- The prime example is **the Boatman**, a necessary custodian of passage tied to the Material’s metaphysical function.
+Authority follows divine commission rather than origin or raw power. Mortals may petition for heavenly aid but cannot summon or command it mechanically.
 
 ---
 
@@ -164,7 +167,7 @@ There, disposition is resolved as a convergence of:
 
 ### The Boatman
 
-- Custodian and transporter of souls.
+- A unique created angel who serves as custodian and transporter of souls.
 - He does not judge; he routes souls after disposition is resolved.
 
 ### The Official Roads and the Two Gates
@@ -184,7 +187,8 @@ In the pre-Redeemer age, the Vestibule also served as a universal holding for th
 
 ### Saints
 
-- Mortals sanctified in life by the Lord’s **White Flame**.
+- Living saints are mortals sanctified in life by the Lord’s **White Flame**.
+- Manifested saints are those redeemed human souls sent from Heaven after judgement under a particular commission.
 - Elite agents and exemplars of the Redeemer’s single church.
 - Their focus is not only conflict but also building and advancing the church through proclamation, formation, and defense.
 - Two major emphases exist within the one body (institutional/juridical vs mystical/liturgical), producing different saintly orders and methods.
@@ -258,4 +262,3 @@ Hell → beyond: Abyss (Adversary’s exile)
 - [[Cosmology MOC]]
 - [[Canon Index]]
 - [[Canon Index]]
-

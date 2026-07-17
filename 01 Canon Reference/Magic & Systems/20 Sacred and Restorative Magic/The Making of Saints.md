@@ -15,6 +15,8 @@ tags: []
 
 How the two great churches (and the third movement) recognize sanctity — the lived difference between them, downstream of the Kindling Question. Companion to [[White Flame Doctrine]] and the five-test protocol in the [[World Egg Setting Primer]].
 
+**Authorial distinction:** churches recognize, commemorate, and sometimes misidentify saints; they do not manufacture them. A living saint remains a human person in the Material Realm. A [[Manifested Saints Overview|manifested saint]] is a redeemed human soul sent from Heaven after judgement. Manifested saints are not true angels and cannot be mechanically summoned through relics, hymns, or canonization procedure.
+
 ## Eclessia: Canonization (the Juridical Way)
 
 Sainthood in the West is a **verdict**. A cause is opened; a postulator assembles the life, the miracles, the witnesses; the **Adversary's Counsel** — a standing office whose whole vocation is arguing that the candidate was *not* a saint — attacks everything; the five tests are applied by the relic courts; and the Lord Primarch pronounces. The process takes decades and produces paperwork by the wagonload, which is precisely the point: an Eclessian saint is *proven*.
@@ -38,6 +40,8 @@ Ferro's congregations recognize **tested elders** in this life and leave the nex
 ## Behind the Curtain
 
 Per the authorial ruling in [[The Great Split — Two Crowns, One Fire]]: the Flame answers **the righteousness and purpose of the person**, not the institution's process. Both systems therefore "work" exactly insofar as they actually find or form holy people — the West's tests genuinely filter fraud when honestly run, the East's elders genuinely discern when genuinely humble — and both fail identically when they become machinery for something else. Neither knows this. Each reads the other's failures as proof of its own method.
+
+A true posthumous manifestation confirms that the redeemed person has received a particular commission; it does not validate every claim made by the person's earthly admirers. Counterfeit apparitions, persona echoes, patron imitations, and [[Borrowed Saints]] remain possible even around genuine relics.
 
 ## Game Use
 

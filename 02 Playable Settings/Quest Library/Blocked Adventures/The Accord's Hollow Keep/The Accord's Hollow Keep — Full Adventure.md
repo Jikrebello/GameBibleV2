@@ -477,6 +477,8 @@ Othmar leaves with Hannes's echo bound to an object or living pattern. The echo 
 - [[Magistra Sabine Krail]]
 - [[Grey Pike Company]]
 - [[Hollow Sentries]]
+- [[Residue Dead Overview]]
+- [[Bound Champions and Ward-Residue]]
 - [[The Korrheim Accord]]
 - [[Freeflame Reformation]]
 - [[Thin Spaces]]

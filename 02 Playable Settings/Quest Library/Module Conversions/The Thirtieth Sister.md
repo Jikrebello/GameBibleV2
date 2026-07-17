@@ -69,6 +69,9 @@ Replace a detached supernatural twist; the missing Sister's bell should complica
 
 - [[Gazetteer of the Known World]]
 - [[Setting Commandments]]
+- [[Material Sea Leviathans]]
+- [[Corpse Residue]] - Drowned Walkers remain an available coast-house threat without becoming the genuine mystery.
+- [[Anchored Hauntings]]
 
 ## Research Basis
 

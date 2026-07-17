@@ -17,6 +17,7 @@ moral_agency: none
 encounter_tier: aligned
 rank: [standard, specialist, elite, apex]
 creature_family: Drakes
+catalogued_forms: [Drake Lineages]
 habitats: [Menhir-thin wilds, court territories, Material nesting grounds]
 encounter_roles: [predator, territorial hazard, apex beast]
 related_magic: [Menhir law]

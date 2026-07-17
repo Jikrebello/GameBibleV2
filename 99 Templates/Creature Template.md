@@ -17,6 +17,7 @@ moral_agency:
 encounter_tier:
 rank: []
 creature_family:
+catalogued_forms: []
 habitats: []
 encounter_roles: []
 related_magic: []

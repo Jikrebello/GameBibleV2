@@ -18,6 +18,7 @@ moral_agency: limited
 encounter_tier: aligned
 rank: [nuisance, standard, specialist, elite, apex]
 creature_family: Elemental Manifestations
+catalogued_forms: [Elemental Manifestations]
 habitats: [Shell seams, rune works, leak zones, bound vessels]
 encounter_roles: [hazard, controller, siege, guardian]
 related_magic: [Warlock Rune Magic, Elemental Shell]

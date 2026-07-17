@@ -17,6 +17,7 @@ moral_agency: none
 encounter_tier: mundane
 rank: [standard, elite]
 creature_family: Great-Horns
+catalogued_forms: [Great-Horns]
 habitats: [cold grasslands, migration corridors]
 encounter_roles: [herd hazard, megafauna, resource]
 related_magic: []
@@ -47,9 +48,17 @@ Some Grass-Tarkhan follow the herds as their primary economy. Others hunt only a
 
 Meat, fat, hide, sinew, bone, horn, glue, containers, bow components, shields, and winter coverings support camps and trade. Horn from a dangerous bull has prestige but no inherent magical property.
 
+## Weaknesses and Permanent Defeat
+
+Great-horns tire in deep mud, turn poorly on broken slopes, and avoid sustained fire and unfamiliar barriers. A slain animal stays dead. Redirecting a herd requires opening a credible route rather than merely frightening its front rank, which can turn a manageable migration into a stampede.
+
 ## Faction Use
 
 Ash road-builders try to steer migrations away from depots. Moon wind-speakers arbitrate old hunting grounds. Castaran merchants buy hide and horn; Aversian buyers seek standardized supply. Poachers can trigger feud or famine without invoking supernatural taboo.
+
+## Regional Names
+
+Grass-Tarkhan speakers distinguish broad-horn cows, black-brow bulls, and long-road herds by age and migration. Castaran traders shorten all of them to **great-horns**; southern caravaners use **walking walls** for a herd in motion.
 
 ## Story Uses
 

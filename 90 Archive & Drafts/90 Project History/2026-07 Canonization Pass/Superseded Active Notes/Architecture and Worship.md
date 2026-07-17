@@ -9,7 +9,7 @@ culture: ["Thalmyric"]
 related_factions: ["Thalmyric Church"]
 appears_in: []
 needs: ["Expand from Thalmyric Empire Overview and Thalmyric Church Architecture."]
-superseded_by: "[[01 Canon Reference/Peoples and Cultures/The Thalmyric Empire/Thalmyric Church Architecture]]"
+superseded_by: "[[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/20 Faith and Worldview/Icons, Churches, and Sacred Space]]"
 tags: []
 archive_reason: project-history
 archived_from: "90 Archive & Drafts\Project History\2026-07 Canonization Pass\Superseded Active Notes\Architecture and Worship.md"

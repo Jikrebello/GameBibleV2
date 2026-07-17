@@ -18,6 +18,7 @@ moral_agency: limited
 encounter_tier: aligned
 rank: [standard, specialist, elite]
 creature_family: Nythalum Constructs
+catalogued_forms: [Hushwrights]
 habitats: [Nythalum annexes, ruins, machine sites]
 encounter_roles: [guardian, collector, controller]
 related_magic: [Nythalum engineering]

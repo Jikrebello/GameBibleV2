@@ -11,6 +11,10 @@ appears_in: []
 needs: []
 tags: []
 ---
+# Reliability Note
+
+This overview presents Astratheon as its adherents understood it. The religion combined real Menhir powers, civic theology, political myth, and syncretic errors. Its Thanatos cult addressed [[The Boatman]] through a false Star-Child genealogy and falsely taught that offerings could alter his routing.
+
 #### **Foundational Beliefs**
 The Astratheon religion is a cosmic and star-centered belief system centered around the **Star Children**, powerful deities who rule over the heavens and influence all aspects of mortal life. The stars are seen as divine entities that hold sway over fate, guiding the lives, destinies, and afterlives of mortals. Astratheon is a grim and fatalistic faith, where the movements of constellations and celestial events are interpreted as direct messages or omens from the Star Children.
 
@@ -61,4 +65,3 @@ Astratheon is a grim and complex religion, embodying the fatalism and reverence 
 - [[The Atherian Empire Overview]]
 - [[Canon Index]]
 - [[Canon Index]]
-

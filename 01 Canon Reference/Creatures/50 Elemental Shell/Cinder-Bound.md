@@ -18,6 +18,7 @@ moral_agency: limited
 encounter_tier: aligned
 rank: [specialist, elite]
 creature_family: Elemental Manifestations
+catalogued_forms: [Cinder-Bound]
 habitats: [sealed vaults, siege works, fire seams]
 encounter_roles: [guardian, controller, siege]
 related_magic: [Warlock Rune Magic, elemental binding]

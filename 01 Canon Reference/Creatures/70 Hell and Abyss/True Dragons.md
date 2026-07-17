@@ -18,6 +18,7 @@ moral_agency: full
 encounter_tier: cosmological
 rank: [unique]
 creature_family: True Dragons
+catalogued_forms: [True Dragons]
 habitats: [Abyssal wounds, layered ritual sites, devastated regions]
 encounter_roles: [catastrophe, sovereign, siege, corrupter]
 related_magic: [Abyssal ritual, black mud, refusal]

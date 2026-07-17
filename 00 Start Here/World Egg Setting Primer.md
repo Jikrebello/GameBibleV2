@@ -98,6 +98,10 @@ To “really” enter the world, beings generally need:
 - **White Flame:** the Lord’s coherence operating in created reality; cancels corruption and can “sterilize” discord, sewing up thin spaces and centering each plane towards their original cosmological orientation.
     
 - **The Redeemer:** reorders judgement and soul-path around truth + consent.
+
+- **True angels:** created heavenly spirits who serve by the Lord's commission. They can choose refusal and fall; loyal angels are not mechanically summonable.
+
+- **Manifested saints:** redeemed human souls sent from Heaven under bounded commissions. They retain earthly identity and cannot fall after final communion.
     
 - **Menhir (Faewild):** sovereign “laws of nature” made godlike; cult is secondary to regime.
     
@@ -105,14 +109,16 @@ To “really” enter the world, beings generally need:
     
 - **Patrons (Astral Plane):** anchor-owners who lease stability in the Astral plane via pacts; profit from rent and intermediation and grant power via entropy to agents in the material world.
     
-- **Infrastructure beings:** entities required by the system (e.g., the Boatman for the material plane, elementals within the shell's planes).
+- **The Boatman:** a unique created angel appointed as psychopomp and soul-road custodian. "Thanatos" is one regional name, not a uniquely authoritative true name.
+
+- **Road mechanisms:** impersonal sacred infrastructure that guides, separates, hunts, or wards when soul-routes fail.
     
 
 ### Death and the routing war
 
 - Souls pass through the **Vestibule of Weighing **a sub plane of the material where mortal souls are judged/ justified (truth-of-life + consent).
     
-- The **Boatman** routes souls rightwards (Lumen threshold) or leftwards (Chthonic breach → Hell/Abyss risk).
+- The **Redeemer** judges in truth and consent; the **Boatman** receives and routes the dead after that disposition. Neither is a neutral official serving an independent afterlife bureaucracy.
     
 - Strategic point: factions fight over **soul routing**, not just territory.
     
@@ -235,15 +241,15 @@ Key components:
 - **Enforcement arm:** contract-bound compliance operators who execute bindings in the field.
     
 
-### B) Church proof-of-sainthood protocol (saints as hymn-authors)
+### B) Church proof-of-sainthood protocol
 
-Core idea: clergy “cast” by reciting saint-authored hymns/psalms; saints are authorization sources.
+Core idea: churches test saint-authored hymns, relics, testimony, and posthumous signs for durable agreement with the White Flame. The Lord remains the source; a hymn carries truthful formation and practiced coherence rather than summoning the saint or borrowing that person's private power.
 
 Five tests:
 
 1. **White Flame resonance** (stabilization / thin-space sealing).
     
-2. **Hymn-mint test** (prayer works reliably when channeled by ordinary clergy).
+2. **Hymn-mint test** (prayer continues to bear coherent fruit when ordinary clergy use the teaching honestly).
     
 3. **Idol-resistance** (coherence under predatory meaning pressure).
     
@@ -252,7 +258,7 @@ Five tests:
 5. **Anti-contract immunity** (resistance to being “re-typed” by contract/name tricks).
     
 
-Outcome: sainthood becomes contestable, forgeable, politically explosive, and operationally meaningful.
+Outcome: recognition claims become contestable, forgeable, politically explosive, and operationally meaningful. Actual sanctity and heavenly commission remain the Lord's, not the institution's manufacture.
 
 ---
 

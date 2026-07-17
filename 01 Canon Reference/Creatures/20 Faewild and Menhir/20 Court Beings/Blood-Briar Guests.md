@@ -18,6 +18,7 @@ moral_agency: full
 encounter_tier: aligned
 rank: [specialist, elite]
 creature_family: Blood-Briar Guests
+catalogued_forms: [Blood-Briar Guests]
 habitats: [old woods, violated roads, court crossings]
 encounter_roles: [ambusher, social predator, skirmisher]
 related_magic: [Menhir law]

@@ -9,7 +9,7 @@ culture: []
 related_factions: []
 appears_in: []
 needs: []
-superseded_by: "[[01 Canon Reference/Peoples and Cultures/The Thalmyric Empire/Thalmyric Empire Overview]]"
+superseded_by: "[[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/Thalmyric Empire Overview]]"
 tags:
   - core-canon
 archive_reason: project-history

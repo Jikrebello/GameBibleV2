@@ -11,11 +11,17 @@ appears_in: []
 needs: []
 tags: []
 ---
+# Saints, Sinners, Druids and Hollows
+
+## Scope
+
+This note primarily concerns **living saints** and mortal religious actors. A living saint remains a human person on the Material soul-road. A [[Manifested Saints Overview|manifested saint]] is that redeemed human soul serving after judgement under a heavenly commission. True angels are a separate order of created spirits. Church recognition can be prudent or mistaken; it does not create either earthly sanctity or posthumous authority.
+
 ## 1) Saints as the Church’s Apex Offices in the World
 
 ### What a Saint is (functionally)
 
-A Saint is a mortal whose life has been shaped into **rightward coherence** by the White Flame and whose sanctification becomes **public ecclesial force**: they are not merely “holy individuals,” they are **mission-bearing nodes** of the Redeemer’s church in history.
+A living Saint is a mortal whose life has been shaped into **rightward coherence** by the White Flame and whose sanctification becomes **public ecclesial force**: they are not merely “holy individuals,” they are **mission-bearing nodes** of the Redeemer’s church in history.
 
 Their work has three lanes, always present in some ratio:
 
@@ -248,5 +254,5 @@ Hollows are the most common “street-level” adversary for Saints because they
 
 - [[Cosmology MOC]]
 - [[Canon Index]]
-- [[Canon Index]]
-
+- [[Manifested Saints Overview]]
+- [[True Angels Overview]]

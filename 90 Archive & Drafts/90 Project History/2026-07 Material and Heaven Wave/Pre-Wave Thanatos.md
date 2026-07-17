@@ -1,15 +1,19 @@
 ---
 type: cosmology
-status: canon
-canon_level: local
-visibility: restricted
+status: archived
+canon_level: obsolete
+visibility: author-only
+archived_on: 2026-07-17
+archived_from: "01 Canon Reference/Cosmology/30 Menhir/10 Second Circle/Thanatos.md"
+archive_reason: "Snapshot before the Boatman was removed from the Menhir structure and rewritten as a created angel."
+superseded_by: "[[The Boatman]]"
 era: []
 region: []
 culture: []
 related_factions: []
 appears_in: []
 needs: []
-tags: []
+tags: [archive-snapshot]
 ---
 ### Thanatos
 
@@ -100,4 +104,3 @@ Thanatos is the Material realm’s psychopomp: not a god to be adored, not a dem
 - [[Cosmology MOC]]
 - [[Canon Index]]
 - [[Canon Index]]
-

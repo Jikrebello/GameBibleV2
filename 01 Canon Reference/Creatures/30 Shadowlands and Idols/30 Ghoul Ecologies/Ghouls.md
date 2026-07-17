@@ -18,6 +18,7 @@ moral_agency: full
 encounter_tier: aligned
 rank: [standard, specialist, elite, apex]
 creature_family: Ghouls
+catalogued_forms: [Ghouls]
 habitats: [grave systems, ruins, cities, corpse routes]
 encounter_roles: [predator, infiltrator, skirmisher, social]
 related_magic: [residue animation, Idol influence]

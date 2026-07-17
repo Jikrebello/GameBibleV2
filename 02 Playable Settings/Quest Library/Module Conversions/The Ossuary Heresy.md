@@ -71,6 +71,9 @@ He is wrong about the souls: the dead have routed onward. What moves are residue
 
 - [[Thalmyric Canon Register]]
 - [[Soul Routing and the Vestibule]]
+- [[Corpse Residue]]
+- [[Bound Champions and Ward-Residue]]
+- [[Manifested Saints Overview]] - the deacon's obedient "saints" are categorically false.
 - [[The Martyr and Ossuary Roads]]
 - [[The Ossuary Heresy - Caleran Adventure]]
 

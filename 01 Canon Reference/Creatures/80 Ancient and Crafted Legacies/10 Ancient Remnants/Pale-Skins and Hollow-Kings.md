@@ -26,6 +26,7 @@ moral_agency: full
 encounter_tier: cosmological
 rank: [specialist, elite, apex]
 creature_family: Pale-Skins and Hollow-Kings
+catalogued_forms: [Pale-Skins, Hollow-Kings]
 habitats: [deep barrows, buried engines, sunless settlements]
 encounter_roles: [infiltrator, controller, sovereign, siege]
 related_magic: [ancient engines, Heart-Stone]

@@ -18,6 +18,7 @@ moral_agency: none
 encounter_tier: aligned
 rank: [nuisance, specialist]
 creature_family: Ward-Eaters
+catalogued_forms: [Ward-Eaters]
 habitats: [arcane districts, ward networks, black-spire leaks]
 encounter_roles: [hazard, ward breaker, skirmisher]
 related_magic: [wardcraft, Astral leakage]

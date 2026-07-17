@@ -18,6 +18,7 @@ moral_agency: full
 encounter_tier: aligned
 rank: [specialist, elite]
 creature_family: Vampires
+catalogued_forms: [The Eclipsis]
 habitats: [human courts, hidden estates, cities, bloodline refuges]
 encounter_roles: [infiltrator, social predator, controller, apex]
 related_magic: [blood liens, White Flame, soul routing]

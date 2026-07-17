@@ -18,6 +18,7 @@ moral_agency: limited
 encounter_tier: aligned
 rank: [standard, specialist]
 creature_family: Ghouls
+catalogued_forms: [Grave-Runners]
 habitats: [grave roads, pauper galleries, ghoul warrens]
 encounter_roles: [pursuer, skirmisher, corpse hauler]
 related_magic: [residue animation, Idol influence]

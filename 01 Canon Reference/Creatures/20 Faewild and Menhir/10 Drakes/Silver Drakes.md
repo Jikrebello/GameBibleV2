@@ -18,6 +18,7 @@ moral_agency: none
 encounter_tier: aligned
 rank: [standard, specialist, elite]
 creature_family: Drakes
+catalogued_forms: [Silver Drakes]
 habitats: [cold ridges, winter passes, old border roads, moon-thin valleys]
 encounter_roles: [ambush predator, pursuit hazard, lair guardian]
 related_magic: [Menhir law]

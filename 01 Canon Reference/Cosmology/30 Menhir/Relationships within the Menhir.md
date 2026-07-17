@@ -43,11 +43,10 @@ tags: []
       - **Rivalries:** Rivalry with star children who impose strict order and control.
       - **Objectives:** To inspire creativity and mischief, challenging rigid structures and rules.
 
-   c. **Thanatos**
-      - **Relationships:** Feared and respected by his siblings, maintains a neutral stance towards his parents.
-      - **Alliances:** Occasional alliances with those who respect the balance of life and death.
-      - **Rivalries:** Rivalry with star children who disrupt the natural order of life and death.
-      - **Objectives:** To maintain the balance of death and passage, ensuring the cycle of life and death is respected.
+   c. **Imperial insertion: Thanatos**
+      - Atherian lists placed Thanatos among the Star Children and invented sibling rivalries around him.
+      - Authorial truth identifies the encountered being as [[The Boatman]], a created angel with no parentage, alliance, or rivalry inside the Menhir courts.
+      - Preserve the relationship stories only when describing Atherian doctrine or its political uses.
 
    d. **Orionis**
       - **Relationships:** Respected for his skill, but feared for his capricious nature.
@@ -126,4 +125,3 @@ tags: []
 - [[Cosmology MOC]]
 - [[Canon Index]]
 - [[Canon Index]]
-
