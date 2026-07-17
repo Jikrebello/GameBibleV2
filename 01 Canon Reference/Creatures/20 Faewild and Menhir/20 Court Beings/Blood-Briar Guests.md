@@ -33,6 +33,8 @@ A Blood-Briar Guest feeds upon fear, exposed blood, and the inversion of welcome
 
 Most live in pairs or little garlands around abandoned inns, disputed roads, and overgrown camps. They remember affronts, imitate voices, and understand bargains. Their intelligence makes them responsible for deliberate murder. Hunger and court custom do not excuse it.
 
+A new Guest buds from a thorn-heart where a broken welcome is repeatedly reenacted. It reaches full personhood only after establishing its first accepted threshold and choosing how to use it. A garland therefore grows through corrupted hospitality rather than ordinary birth.
+
 ## Signs
 
 - rose-red or rust-red flowers blooming out of season;
@@ -48,9 +50,19 @@ Blood-Briar Guests attack from concealment with splinter arrows, poisoned thorns
 
 A defeated Guest may leave a hard red thorn-heart. Folk seers can identify the court, host, or violated threshold reflected in it. Warlocks grind these hearts into unstable reagents for scripts involving pursuit, pain, or bramble growth. Possession is restricted in most Green March markets because the material readily carries the malice of its taking.
 
+## Weaknesses and Permanent Defeat
+
+Truthfully naming the offered shelter, refusing benefit before crossing, witnessed release from hospitality, running water, and separation from the thorn-heart weaken a Guest's threshold powers. Fire destroys concealment but may spread the court wound through ash and displaced seed.
+
+Breaking the manifested body without destroying or re-seating its thorn-heart allows the same court-law identity to regrow. Permanent defeat requires ending the corrupted welcome, releasing claimed guests, and destroying or lawfully returning the heart outside every usable threshold.
+
 ## The Red Garland
 
 The Red Garland of Alderway is a named murderous band, not the species as a whole. Its members kill workers, take ears, and trade road intelligence to an outside ally. Their conduct is chosen predation, not a valid expression of [[Alder-Crossing Clan|Alder-Crossing]] land rights.
+
+## Regional Names
+
+Blood-Briar Guest, red guest, thorn lodger, hedge host, welcome-cutter, and briar cousin. `Roseblood sprite` appears in foreign delver manuals but is not a native Folk classification.
 
 ## Quest Hooks
 

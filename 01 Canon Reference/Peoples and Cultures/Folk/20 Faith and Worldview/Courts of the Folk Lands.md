@@ -17,7 +17,7 @@ This is the creator-facing register for the first six Folk courts. A court is a 
 
 ## Authorial Rule
 
-Lesser Menhir courtiers and Faewild organisms are amoral expressions of natural law. Patrons seek stability, identity, service, or rent. Shades and residue repeat or imitate. Idol masks deliberately prey upon meaning, appetite, shame, and identity. Folk seers classify all of them by observed custom, so one court can contain several kinds at once.
+Menhir pressure is natural law rather than moral authority. Animals and reflexive organisms may lack agency; sapient courtiers remain responsible for choices made within their compulsions. Patrons seek stability, identity, service, or rent. Shades and residue repeat or imitate. Idol masks deliberately prey upon meaning, appetite, shame, and identity. Folk seers classify all of them by observed custom, so one court can contain several kinds at once.
 
 | Court | Primary country | Public concern | Authorial pressure |
 |---|---|---|---|
@@ -36,5 +36,5 @@ Courts change without issuing doctrine. A seer's true precedent may cease to wor
 
 - [[Folk Faith and Appeasement]]
 - [[Folk Canon Register]]
+- [[Faewild and Menhir MOC]]
 - [[Cosmology MOC]]
-

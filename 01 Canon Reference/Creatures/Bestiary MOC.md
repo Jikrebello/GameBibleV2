@@ -65,6 +65,8 @@ tags: []
 
 ## 20 Faewild and Menhir
 
+- [[Faewild and Menhir MOC]]
+
 ### Drakes
 
 - [[Drakes Overview]]
@@ -76,12 +78,26 @@ tags: []
 - [[Silver Drakes]]
 - [[The Gemfallen]]
 
-### Courts and Places
+### Court Beings
 
 - [[Blood-Briar Guests]]
 - [[Giltlings]]
 - [[The Cloven]]
+- [[Hearthlings and Glimmerfolk]]
+- [[Tangle-Gremlins]]
+- [[Revel Hosts]]
+- [[Hags and Counterfeit Kin]]
+
+### Places, Fauna, and Hunts
+
 - [[Oathwood Wardens]]
+- [[Root-Minds, Water-Wives, and Stone-Voices]]
+- [[Aerials and Deep Envoys]]
+- [[Sky-Lions and Crown-Beasts]]
+- [[Stone-Eyes and Many-Necks]]
+- [[Oathwyrms]]
+- [[Hunt Hounds and Hunt Riders]]
+- [[Way-Weavers]]
 
 ## 30 Shadowlands and Idols
 
@@ -152,8 +168,34 @@ tags: []
 
 ## 70 Hell and Abyss
 
+- [[Hell and Abyss MOC]]
 - [[Hell and Abyssal Beings Overview]]
+- [[Hell, Depth, and the Abyss]]
+- [[Fallen Angels and Broken Commissions]]
+
+### Damned and Depth Fauna
+
+- [[Mirebound and Grudge-Bearers]]
+- [[Crowned Refusers and Hollow Prophets]]
+- [[Flensed Devotees]]
+- [[Mire Larvae and Vow-Leeches]]
+- [[Carrion Eels and Silt Hounds]]
+- [[Bone-Reef Crawlers and Hell-Drakes]]
+
+### Mantles and Soul Predators
+
+- [[Whisper-Mantles and Ash Advocates]]
+- [[Chain Keepers and Mire Marshals]]
+- [[Shore-Lures and Soul-Hooks]]
+- [[Name-Strippers]]
+
+### Abyssal Wounds
+
+- [[Black-Mud Spawn and Wound-Worms]]
+- [[Occlusion Beasts and Null-Maws]]
 - [[True Dragons]]
+- [[The Shoreless King]]
+- [[The Unwritten Worm]]
 
 ## 80 Ancient and Crafted Legacies
 
@@ -179,8 +221,8 @@ tags: []
 ## Expansion Order
 
 1. **Complete:** Material and Residue + Heaven and Soul-Road.
-2. **Next:** Faewild and Menhir + Hell and Abyss.
-3. Ancient and Crafted Legacies + Elemental Shell.
+2. **Complete:** Faewild and Menhir + Hell and Abyss.
+3. **Next:** Ancient and Crafted Legacies + Elemental Shell.
 4. Shadowlands and Idols + Astral Drift and Patrons.
 5. Cross-cutting conditions, regional names, and adventure-demand closure.
 

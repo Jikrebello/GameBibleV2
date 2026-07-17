@@ -13,7 +13,7 @@ tags: []
 ---
 ### Overview
 
-Nythalum was a highly advanced and isolated civilization of Giants located on a large, secluded island in the middle of the world’s vast ocean. Renowned for their unparalleled intellect, magical prowess, and technological achievements, the Giants of Nythalum were known as the **Forgotten Ones**—beings who sought to transcend their physical forms and ascend to a higher plane of existence. Their civilization was marked by a deep reverence for both **Lyraxis**, the Star Child of Music, Trickery, and Inspiration, and **Lunara**, Mother Moon, the Menhir of Chaos, Transformation, and Enlightenment. The culmination of their ambitions led to the catastrophic failure of the **Ascension Project**, which resulted in the destruction of their homeland and their transformation into disembodied, machine-bound minds.
+Nythalum was a highly advanced and isolated civilization of Giants located on a large, secluded island in the middle of the world’s vast ocean. Renowned for their unparalleled intellect, magical prowess, and technological achievements, the Giants of Nythalum were known as the **Forgotten Ones**—beings who sought to transcend their physical forms and ascend to a higher plane of existence. Their civilization revered both **Lyraxis**, the Star Child of Music, Trickery, and Inspiration, and **Lunara**, Mother Moon, whose law governs cycles, tides, instinct, and mutable form. Nythalum mistook mutability for permission to escape creaturely limits. The culmination of that error was the catastrophic failure of the **Ascension Project**, which destroyed their homeland and reduced its surviving rulers to disembodied, machine-bound memory patterns.
 
 ### Geography
 
@@ -27,7 +27,7 @@ The ruling Giants of Nythalum, known as the **Forgotten Ones**, were immensely t
 
 Nythalum's continuity project attempted uploaded mechanical persistence. Giant command patterns and memories survived in spires, custodians, and lunar machines. These continuities can reason and reconstruct aspects of their makers, but they are not human souls and cannot manufacture the Image.
 
-However, it was their veneration of **Lunara, Mother Moon**, that truly defined their civilization. They believed that the moon was a sacred realm, a place where the barriers between the material and the divine were weakest. The moon represented the ultimate destination for their souls—a place where they could shed their physical forms and become beings of pure intellect, guided by Lunara’s chaotic and transformative light.
+However, it was their veneration of **Lunara, Mother Moon**, that truly defined their civilization. They believed that the moon was a sacred realm where bodily form could be revised without limit. They treated it as the destination of their personal continuity, imagining that they could shed their bodies and persist as pure intellect beneath Lunara's cyclical and mutable light. This was Nythalum's doctrine, not proof that Giants possessed routable human souls.
 
 The Forgotten Ones saw their physical forms as temporary vessels, something to be transcended in their pursuit of higher understanding and communion with Lunara. Their society was built around this belief, with every aspect of their culture, from their art to their science, focused on achieving the ultimate goal of lunar ascension.
 
@@ -37,7 +37,7 @@ Nythalum was a deeply spiritual and intellectual society. The Forgotten Ones hel
 
 Their religion was less about traditional worship and more about a philosophical pursuit of enlightenment through the merging of magic and technology. The Forgotten Ones believed that by understanding and mastering the natural and supernatural laws of the universe, they could transcend mortality and join Lunara in her realm of endless transformation.
 
-The civilization also placed a high value on creativity and innovation. Artistic expression was considered a form of worship, with the greatest works of art being those that captured the essence of Lunara’s chaotic beauty or Lyraxis’s inspirational trickery. Music, in particular, was highly revered, and it was said that the Forgotten Ones could create harmonies that resonated with the very fabric of the cosmos.
+The civilization also placed a high value on creativity and innovation. Artistic expression was considered a form of worship, with the greatest works of art being those that captured Lunara's mutable beauty or Lyraxis's inspirational trickery. Music, in particular, was highly revered, and it was said that the Forgotten Ones could create harmonies that resonated with the very fabric of the cosmos.
 
 ### The Ascension Project
 

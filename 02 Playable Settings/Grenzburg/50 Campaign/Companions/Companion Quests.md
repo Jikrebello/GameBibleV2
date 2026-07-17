@@ -118,7 +118,7 @@ Alternate loyalty results remain playable and can lock or alter faction endings.
 
 ## **4. ZAFIR THE BOUND CHAINMASTER: "THE FINE PRINT"**
 
-**Core Conflict:** Freedom vs. Power. His quest is a cosmic legal thriller, battling contractual demons and unraveling a conspiracy that binds the material world to the infernal.
+**Core Conflict:** Freedom vs. Power. His quest is a contract-magic thriller about imposed offices, forged instruments, and a conspiracy that turns lawful form into captivity.
 
 ### **ACT I: THE FIRST CLAUSE (Autumn)**
 *   **Beat 1 - The Itch in the Sigil:** Zafir's binding sigil (a tattoo-like mark) burns. He explains his contract with the Medori Bank has **sub-clauses** that activate based on conditions. One has triggered: "In the event of significant arcane resonance..." The Heart-Stone's discovery is causing it. The clause forces him to **investigate the Stone** and report its properties to the Bank. He must obey, but he can choose *how*.
@@ -126,12 +126,12 @@ Alternate loyalty results remain playable and can lock or alter faction endings.
 *   **Beat 2 - Binding the Unclean:** The "contaminant" is a fragment of a **Hollow-King's** will. To bind it, Zafir must perform a dangerous ritual that risks his own possession. Success gives him a terrifying insight: the Pale-Skins' contracts with the Dragon are not pacts of service, but of **consumption**. They are trying to *eat* their god. This revelation shakes his understanding of all binding magic.
 
 ### **ACT II: THE WINTER OF COMPLIANCE (Winter)**
-*   **Beat 3 - The Devil's Auditor:** A **Bank Auditor** arrives—not a human, but a **Kuthite**, a devil from Zafir's homeland specializing in contract law. It has come to assess his performance and the value of his "assets" (his summoned entities). The Kuthite, **Malphas**, offers a deal: help it find and claim the "unbound metaphysical assets" (the nascent Troll-souls the Hollow-Kings are creating) in exchange for striking a favorable clause from Zafir's contract.
-*   ***Buffer - Infernal Bookkeeping:*** Malphas becomes a persistent, unsettling presence. It gives Zafir "assignments": use his powers to sense areas of high metaphysical debt (Pale-Skin ritual sites), or to breach the contracts of other bound beings (like a **Church-bound angel** or a **Folk nature spirit**). Each task is morally repugnant but brings Zafir closer to freedom. The player must choose how far to go.
-*   **Beat 4 - The Breaking Point:** Malphas's final task: use the **Drake's Heart Gem** (if you have it) as a "battery" to power a ritual that would sever the Pale-Skins' connection to the Dragon, causing a feedback loop that would destroy the Hollow-Kings but also kill all the Grobi connected to them (thousands). Zafir must choose between a clean, genocidal solution to the war and his own freedom, or defiance.
+*   **Beat 3 - The Ash Advocate:** **Malphas** manifests through the Bank's forged instrument as an [[Whisper-Mantles and Ash Advocates|Ash Advocate]], a devil office with an undisclosed bearer. It offers to strike one clause from Zafir's contract if he helps seize the unbound anchors growing through the Hollow-Kings' blood-stone network. These anchors are coercive patterns in living Grobi bodies, not nascent souls.
+*   ***Buffer - Predatory Assignments:*** Malphas directs Zafir toward damaged contract sites and other bound intelligences. The worst case is a [[Way-Weavers|Way-Weaver]] held by a corrupt Eclessian canon court and falsely presented as an angelic witness. Releasing it is good; transferring its route-threads to Malphas is not. Each assignment forces Zafir to distinguish a captive from the office exploiting it.
+*   **Beat 4 - The Breaking Point:** Malphas proposes using the **Drake's Heart Gem** as a counter-law battery to burn through every blood-stone link at once. The feedback would cripple the Hollow-Kings but kill thousands of connected Grobi bodies. Their lack of routable souls does not make extermination morally clean. Zafir must choose freedom bought through mass killing or defiance.
 
 ### **ACT III: THE FINAL CONTRACT (Spring)**
-*   ***Buffer - The Plaintiff's Case:*** Zafir learns the truth of his own contract. It wasn't just stolen by the Bank; it was **forged** by the **Silent Partners** using infernal law, but with a fatal flaw: it binds him to the **"Entity known as Medori Bank,"** a legal fiction. If the Bank ceases to exist or is fundamentally transformed, the contract becomes void. This makes Zafir a key player in the faction endgame.
+*   ***Buffer - The Plaintiff's Case:*** Zafir learns the truth of his own contract. It was **forged** by the **Silent Partners** through Creditor-derived mantle architecture, but with a fatal flaw: it binds him to the **"Entity known as Medori Bank,"** a legal fiction. If the Bank ceases to exist or is fundamentally transformed, the contract becomes void. This makes Zafir a key player in the faction endgame.
 *   **Beat 5 - The Court of Ash:** Zafir, with your help, summons Malphas and the **Silent Partners' representative** (a ghostly, non-corporeal entity) to a metaphysical court in a desert ruin, using the last of his power. Here, he argues his case for nullification. The "trial" is a series of skill challenges: presenting evidence gathered throughout the game, using persuasion, intimidation, or arcane knowledge. You can call character witnesses (Elara on forgery, Bernard on oath-breaking, Dismas on coercion).
 *   **Loyalty Resolution:** The verdict. Zafir can:
     *   **Win His Freedom:** The contract is voided. He is powerless but free.
@@ -139,8 +139,8 @@ Alternate loyalty results remain playable and can lock or alter faction endings.
     *   **Accept Substitution:** He exchanges the Bank's instrument for a new patron and remains powerful but bound.
 
 On the canonical Duke's Path, Zafir wins freedom, rejects inversion and substitution, and enters the peace as a free jurist and witness against predatory contracts.
-    *   **Accept a New Master:** Malphas offers a "fairer" contract with the Kuthite legions, making Zafir a planar mercenary.
-His choice determines his final role: a freed man seeking a new purpose, a ruthless power broker, or a general of hell.
+    *   **Accept a New Master:** Malphas offers substitution into the Silent Partners' wider mantle network, preserving Zafir's power while changing the beneficiary.
+His choice determines his final role: a freed man seeking a new purpose, a ruthless power broker, or an agent of the Creditor's hidden network.
 
 ---
 

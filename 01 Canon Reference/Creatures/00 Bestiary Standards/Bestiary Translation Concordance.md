@@ -9,7 +9,7 @@ culture: []
 related_factions: []
 appears_in: []
 needs:
-  - Complete waves two through six recorded in the Bestiary expansion queue.
+  - Complete waves three through six recorded in the Bestiary expansion queue.
 tags: []
 ---
 # Bestiary Translation Concordance
@@ -43,10 +43,10 @@ This is the creator-only crosswalk for the supplied Pathfinder monster taxonomy.
 
 | Source archetype | Result | World Egg destination |
 |---|---|---|
-| Demons: dretches through balors, including succubi/incubi | `merge` | Idol-grown forms, damned transformations, and Abyssal wounds classified by appetite rather than a demon species ladder |
-| Devils: lemures through pit fiends, including imps, erinyes, and contract devils | `merge` | Contractual mantles, imposed offices, the Creditor's servants, and native Depth fauna; `devil` remains an office label |
-| Daemons: cacodaemons through olethrodaemons | `merge` | Soul predators, extinction cult instruments, and Hell fauna; no neutral death empire |
-| Qlippoth | `new-family` | Pre-moral Abyssal wound ecologies and anti-creation fauna |
+| Demons: dretches through balors, including succubi/incubi | `merge` | Idol-grown forms, [[Mirebound and Grudge-Bearers|damned transformations]], and [[Black-Mud Spawn and Wound-Worms|Abyssal wounds]] classified by provenance rather than a demon species ladder |
+| Devils: lemures through pit fiends, including imps, erinyes, and contract devils | `merge` | [[Whisper-Mantles and Ash Advocates|contractual mantles]], [[Chain Keepers and Mire Marshals|imposed offices]], and native [[Bone-Reef Crawlers and Hell-Drakes|Depth fauna]]; `devil` remains an office label |
+| Daemons: cacodaemons through olethrodaemons | `merge` | [[Shore-Lures and Soul-Hooks|Soul predators]], [[Name-Strippers]], and Hell fauna; no neutral death empire |
+| Qlippoth | `existing` | [[Black-Mud Spawn and Wound-Worms]] and [[Occlusion Beasts and Null-Maws]] provide nonhuman Abyssal wound ecologies |
 | Asuras | `merge` | Failed offices, counterfeit revelations, and Adversary propaganda; creation is not a divine accident |
 | Divs | `merge` | Avarix sabotage, ruin-forms, and civilization-eating curses |
 | Kytons or velstracs | `expand` | Vortharan fleshworks, damned mutilation offices, and pain cults without a unified species |
@@ -83,13 +83,13 @@ This is the creator-only crosswalk for the supplied Pathfinder monster taxonomy.
 
 | Source archetype | Result | World Egg destination |
 |---|---|---|
-| Dryads, naiads, nymphs, lampads, hesperids | `new-family` | Place-minds and Menhir-bound landscape persons classified by domain |
-| Sprites, pixies, grigs, brownies, atomies, pookas, house spirits | `new-family` | Small court folk and household obligations; no broad fairy people-state |
-| Gremlins, redcaps, mites, tooth fairies, bogey forms | `merge` | Malicious court compulsions, [[Blood-Briar Guests]], and local nuisance families |
-| Satyrs, korreds, dancing and tempting fey | `new-family` | Revel-hosts organized by invitation, excess, music, and broken hospitality |
-| Norns, Wild Hunt riders, fey monarchs, servants of the Eldest | `expand` | Menhir high courts, Horsemen retinues, and named hunts |
-| Hags | `new-family` | Child-theft, curse, and counterfeit-kin covens with disputed court origin |
-| Leshies, kami, arboreals | `merge` | Place-minds, [[Oathwood Wardens]], and Menhir-grown bodies |
+| Dryads, naiads, nymphs, lampads, hesperids | `existing` | [[Root-Minds, Water-Wives, and Stone-Voices|Place minds]] classified by domain |
+| Sprites, pixies, grigs, brownies, atomies, pookas, house spirits | `existing` | [[Hearthlings and Glimmerfolk|Small court folk]] and household obligations; no broad fairy people-state |
+| Gremlins, redcaps, mites, tooth fairies, bogey forms | `merge` | [[Tangle-Gremlins]], [[Blood-Briar Guests]], and local court compulsions |
+| Satyrs, korreds, dancing and tempting fey | `existing` | [[Revel Hosts]] and [[The Cloven]] organized by ecology, invitation, excess, and hospitality |
+| Norns, Wild Hunt riders, fey monarchs, servants of the Eldest | `existing` | [[Way-Weavers]], [[Hunt Hounds and Hunt Riders|named High Hunts]], and unique Menhir courtiers |
+| Hags | `existing` | [[Hags and Counterfeit Kin]] separates Cradle-Hags, soul-bearing Skinbound Hags, and false folklore matches |
+| Leshies, kami, arboreals | `merge` | [[Root-Minds, Water-Wives, and Stone-Voices|Place minds]], [[Oathwood Wardens]], and Menhir-grown bodies |
 
 ## Construct Crosswalk
 
@@ -123,7 +123,7 @@ This is the creator-only crosswalk for the supplied Pathfinder monster taxonomy.
 | Chromatic and metallic true dragons | `exclude` | Colors do not define true-dragon species or moral alignment |
 | Imperial, primal, outer, esoteric, planar, and skymetal dragons | `merge` | Unique [[True Dragons]], Menhir drakes, Shell sovereigns, or Nythalum engines according to the useful premise |
 | Drakes | `existing` | [[Drakes Overview]] and six Menhir court lineages |
-| Linnorms | `new-family` | Ancient curse-bearing Menhir or Giant-age leviathans, regionally named |
+| Linnorms | `existing` | [[Oathwyrms]], ancient curse-bearing Menhir fauna organized around one compact |
 | Wyverns | `new-family` | Mundane or Faewild-derived venomous aerial predators |
 | Dragon turtles and sea dragons | `new-family` | Maritime leviathans; true-dragon status requires unique Abyssal provenance |
 | Faerie dragons and pseudodragons | `merge` | Giltlings, small court reptiles, and drake juveniles; no universal companion species |
@@ -144,9 +144,9 @@ This is the creator-only crosswalk for the supplied Pathfinder monster taxonomy.
 
 | Source archetype | Result | World Egg destination |
 |---|---|---|
-| Griffons, hippogriffs, manticores, chimeras, owlbears, sphinxes | `new-family` | Divide among mundane megafauna, Menhir convergence fauna, Giant menageries, and Vortharan fleshworks |
-| Basilisks, cockatrices, medusas, catoblepases, gorgons | `new-family` | Gaze, calcification, and law-fixing predators with distinct origins |
-| Hydras and pyrohydras | `new-family` | Regenerating Menhir or Shell-scarred predators; creator term allowed |
+| Griffons, hippogriffs, manticores, chimeras, owlbears, sphinxes | `merge` | [[Sky-Lions and Crown-Beasts]], Menhir convergence fauna, Giant menageries, and Vortharan fleshworks according to origin |
+| Basilisks, cockatrices, medusas, catoblepases, gorgons | `merge` | [[Stone-Eyes and Many-Necks|Stone-Eyes]] cover biological law-fixing predators; human-shaped and crafted gaze forms retain their true origins |
+| Hydras and pyrohydras | `existing` | [[Stone-Eyes and Many-Necks|Many-Necks]]; Shell-fire remains a condition rather than a second species |
 | Ankhravs, ankhegs, bulettes, remorhazes, purple worms | `new-family` | Material burrowers and frontier megafauna, with Shell variants where justified |
 | Unicorns, pegasi, kirin, lammasus, benevolent sphinxes | `merge` | Noble Menhir beasts and rare heavenly vestments, not proof that a species is morally good |
 | Nagas, couatls, guardian serpents | `merge` | Ishkatar remnants, Menhir serpents, and heavenly teaching forms |
@@ -217,8 +217,8 @@ The first controlled condition set is [[Creature Conditions and Templates|residu
 ## Expansion Queue
 
 1. **Complete:** Material and Residue + Heaven and Soul-Road.
-2. Faewild and Menhir + Hell and Abyss.
-3. Ancient and Crafted Legacies + Elemental Shell.
+2. **Complete:** Faewild and Menhir + Hell and Abyss.
+3. **Next:** Ancient and Crafted Legacies + Elemental Shell.
 4. Shadowlands and Idols + Astral Drift and Patrons.
 5. Cross-Cutting Conditions and regional naming.
 6. Adventure-demand audit and final registry balancing.

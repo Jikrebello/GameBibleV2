@@ -36,10 +36,12 @@ The civilized world dates from the execution and resurrection of Isfir the Redee
 - **c. 1900–1400 BR — Age of Hearths and First Kings.**
 - **c. 1600 BR — [[War of the Empty Halls]].** A great Grobi offensive nearly destroys the settled Ättar ranges. Four ruling coalitions accept Mother Moon's firstborn bargain, creating the enduring Lion, Ox, Bear, and Wolf pact-kindreds.
 - **c. 1400–800 BR — Age of City-States.**
+- **c. 1160 BR — [[The Refusal at Kelarion]].** Harbor rulers deny refuge during a killing storm; [[The Shoreless King]] manifests and is sealed beneath the drowned breakwaters.
 - **742 BR — First Destruction of Qiryath.** The Arqeshite River Empire sacks the first Jirahar sanctuary-city and deports its leading households.
 - **c. 690 BR — Fall of Arqesh.** Return to Qiryath begins under the changing eastern leagues.
 - **c. 660 BR — Consecration of the Second Qiryath.**
 - **c. 800–350 BR — Age of Stars.** Atherian synthesis.
+- **c. 520 BR — [[The Erasure of Orthea]].** A city league attempts to remove an atrocity and its witnesses from causal record; [[The Unwritten Worm]] manifests and is sealed beneath the archive-valley.
 
 ## The Atherian Imperial Age
 

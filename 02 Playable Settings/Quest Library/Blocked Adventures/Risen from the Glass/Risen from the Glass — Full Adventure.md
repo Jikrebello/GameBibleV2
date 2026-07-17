@@ -66,7 +66,7 @@ His funerary complex was therefore built as a working estate:
 
 When Ishkatar collapsed, the last tombwrights sabotaged the rite. They hid the receiver's seal in the false tomb, kept a forbidden list of the servants' birth names, and left the cult's dissolution tablet in the confiscation archive. Those three proofs can close the estate.
 
-Sethrak's human soul did not remain whole. What wakes is a residue shaped by office, embalmed appetite, and Avarix's claim. It is intelligent, remembers its life, and is responsible for its choices, but defeating it does not destroy an innocent soul awaiting rescue.
+Sethrak's human soul routed toward judgement and does not remain in the tomb. What wakes is a new residue intelligence shaped by his embalmed body, office, repeated appetite, and Avarix's claim. It remembers his life and is responsible for its own choices; defeating it does not injure or erase Sethrak's soul.
 
 ## Present-Day Claims
 

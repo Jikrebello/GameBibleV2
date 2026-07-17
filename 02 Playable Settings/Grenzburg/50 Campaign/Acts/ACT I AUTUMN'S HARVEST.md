@@ -91,7 +91,7 @@ The players must decide, in the moment, who to give the Heart-Stone to. Their ch
 The party returns to a Grenzburg on the brink of lockdown. The gates slam shut. Autumn is over.
 
 *   **The Stone's New Home:** Wherever the Heart-Stone rests, it is a ticking clock. Its presence warps the ambitions of its holder.
-*   **The Pale-Skins' Setback:** Their amplifier is gone, but their ritual is not cancelled—only delayed. They will adapt. The Bloody-Sun Horde still gathers, now led by the furious, demon-possessed **Ghor the Consumed**. The winter siege will be worse than ever.
+*   **The Pale-Skins' Setback:** Their amplifier is gone, but their ritual is not cancelled—only delayed. They will adapt. The Bloody-Sun Horde still gathers, now led by **Ghor the Consumed**, whose flesh is riddled with Hollow-King blood-stones and a Lesser Heart-Shard. The winter siege will be worse than ever.
 *   **Factional Distrust:** Whomever you crossed in the Barrow now views the Blackjacks (and you personally) as a threat or a rival. Your actions have carved your initial place in Grenzburg's political landscape.
 *   **The Duke's Quiet Summons:** A sealed message arrives. Duke Alaric von Grenzmark requests a private audience. He does not mention the Stone. He only says: "You have seen the thorns in our southern soil. Now, you must help me navigate the brambles within my own walls. Winter is here."
 

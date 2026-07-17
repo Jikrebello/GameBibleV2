@@ -13,8 +13,8 @@ needs:
 tags: [module-conversion, game-ready, faewild, drake-canon]
 origin_layer: faewild
 continuity: court-law
-intelligence: cunning
-moral_agency: limited
+intelligence: mindless
+moral_agency: none
 encounter_tier: aligned
 rank: [elite]
 creature_family: Drakes
@@ -27,7 +27,7 @@ related_magic: [Menhir law, Shell scarring]
 
 The Gemfallen are drake-dead that animate when a tended death-place loses its keepers — the "eternal guardians gone wrong" of the [[The Drakesfall]], re-rooted in drake canon. They are not drakes, not undead in the residue sense, and not evil. They are Faewild law walking: the crystallized law of dead drakes, released unpaced from an [[The Unquiet Field|Unquiet Field]], taking rough shape and drifting toward wherever unfinished law drifts — which is, unfortunately, downhill toward people.
 
-## What They Are
+## Origin and Lifecycle
 
 In a tended drake death-vale, each heart-gem returns its law to the Faewild slowly, quietly, under the keepers' offices. Kill the keepers or tear the gems out in bulk, and the law returns anyway — but unpaced, and some of it takes a body on the way out. A Gemfallen is a knot of released drake-law wearing the bones, scales, or gem-shards of the dead it came from: a walking fragment of a court's law with no keeper to point it home.
 
@@ -53,9 +53,15 @@ The Gemfallen are a range-based threat, not a dungeon population: the further th
 - re-form while the field is unquiet, no matter how thoroughly they are put down;
 - settle and go still when a keeper sings the offices, or when the gem that feeds them is re-seated.
 
-## Handling and Settling
+## Handling and Permanent Defeat
 
 Iron and silver put a Gemfallen *down*; only keeping puts it to *rest*. The wardens' offices settle them; re-seating the great gem that anchors the field calls the whole drift home at once. Destroying the gem-shards a Gemfallen wears can end a particular one for good, but scatters its law into the field and raises strain — a trade the desperate make and the wardens never would.
+
+The animation has no independent moral agency. Its apparently tactical behavior is court-law following terrain and unfinished keeping. Once its feeding shard is re-seated or destroyed and the field is quieted, that Gemfallen cannot return.
+
+## Materials and Regional Names
+
+Loose gem-shards and court-marked bone retain the law that animated them. They are containment hazards rather than ordinary loot until a keeper settles them. Regional names include Gemfallen, walking law, bone-bright, dead court, shard guardian, and the downhill dead.
 
 ## Canon Boundary
 

@@ -33,6 +33,12 @@ The most dangerous contract systems compartmentalize names so no single custodia
 
 In the current cosmology, "devil" is not simply a species category. A devil can be any significant power forced into a contractual job-mantle by binding. The mantle reshapes behavior, duties, limits, and self-understanding.
 
+The mantle uses `continuity: infrastructure-office`. It never replaces the bearer's underlying continuity. Creator dossiers record that underlying kind through `bearer_continuity` where it is known. Breaking a devil office can therefore expose a damned human soul, Depth being, captured court-being, Drift or Shell intelligence, construct, or empty enforcement script.
+
+Release from a mantle is not the same as redemption, innocence, or friendship. The bearer remains answerable according to its own agency and acts.
+
+The 4,444 devil offices associated with Al-Qahur are heterogeneous in authorial truth. Their standardized appearance and duties are products of one hidden architecture rather than evidence of one species. This fact is not available to ordinary Covenant theology.
+
 This makes contract magic useful, terrifying, and spiritually dangerous.
 
 ## Core Components
@@ -61,3 +67,6 @@ Oath, law, and covenant can be good when ordered toward truth and justice. Preda
 ## Navigation
 
 - [[Magic & Metaphysics MOC]]
+- [[Whisper-Mantles and Ash Advocates]]
+- [[Chain Keepers and Mire Marshals]]
+- [[Hell, Depth, and the Abyss]]

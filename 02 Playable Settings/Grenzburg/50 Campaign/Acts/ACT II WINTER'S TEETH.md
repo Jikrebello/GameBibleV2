@@ -104,13 +104,13 @@ The **Heart-Stone's** location dramatically affects this battle:
 *   **Duke:** Gerhold's command is preternaturally sharp, allowing flawless counters, but the strain is killing him.
 
 **Confronting Ghor:**
-Amidst the chaos, Ghor himself assaults the gate, a demon-possessed Ogre of immense power. The player's squad is tasked with a suicide mission: a sally to break his bodyguard and slay him.
+Amidst the chaos, Ghor himself assaults the gate, an Ogre amplified and partly directed through Hollow-King blood-stones and a Lesser Heart-Shard. The player's squad is tasked with a suicide mission: a sally to break his bodyguard and slay him.
 
 **The Truth Revealed:**
-In the duel with Ghor, the demon within him speaks. It reveals the **Pale-Skins'** true endgame: the siege, the bloodshed, the amplified hatred and fear—it's all **fuel**. The Heart-Stone in the city is a **receiver**. The blood-stones are **transmitters**. They are creating a psychic resonance to crack open the "Tomb of the Dragon" (the ancient machine-god) not to awaken it as a servant, but to **feed it to their Hollow-Kings**, allowing them to become rulers of thought, hunger, and shadow.
+In the duel with Ghor, the blood-stones speak through him in the layered voices of the **Pale-Skin Hollow-Kings**. They reveal the true endgame: the siege, bloodshed, amplified hatred, and fear are **fuel**. The Heart-Stone in the city is a **receiver**. The blood-stones are **transmitters**. They are creating a psychic resonance to crack open the "Tomb of the Dragon" (the ancient machine-god), not to awaken it as a servant, but to **feed it to their Hollow-Kings**, allowing them to become rulers of thought, hunger, and shadow.
 
 **Destroying Ghor:**
-The battle is brutal. Ghor is empowered by a **Lesser Heart-Shard** (the dark twin to the main Stone). To win, the players might need to use the **Drake's Heart Gem** as a purifying focus, shattering Ghor's shard and exorcising the demon. With his dying breath, Ghor doesn't curse—he *laughs*. "The song is already singing. The gates are opening. You hold the key in your city, and you don't even know which door it fits."
+The battle is brutal. Ghor is empowered by a **Lesser Heart-Shard** linked to the main Stone. The players can use the **Drake's Heart Gem** as a counter-law focus, shattering the shard and breaking the Hollow-Kings' remote control lattice. With his dying breath, Ghor doesn't curse—he *laughs*. "The song is already singing. The gates are opening. You hold the key in your city, and you don't even know which door it fits."
 
 **The Siege Breaks:**
 With Ghor dead, the horde shatters into fleeing bands. The immediate threat is over. Grenzburg has survived. Cheers echo off the bloody walls.

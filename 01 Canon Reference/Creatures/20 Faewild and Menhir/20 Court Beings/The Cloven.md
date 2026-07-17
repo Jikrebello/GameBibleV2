@@ -14,7 +14,7 @@ tags: [module-conversion, game-ready, fey]
 origin_layer: faewild
 continuity: court-law
 intelligence: sapient
-moral_agency: limited
+moral_agency: full
 encounter_tier: aligned
 rank: [standard, specialist, elite]
 creature_family: The Cloven
@@ -35,9 +35,9 @@ The Cloven do not arise from devotion but from pressure: where Sylvorn's law con
 
 ## Bargain-Law
 
-The Cloven deal in bargains, and their bargains express ecological predation in human terms. They take **names, memories, laughter, years, and warmth** as nutrient, leverage, or seeding. A Cloven gift is rarely a gift; it is a lure, a hook, or a planting. This is not deceit as humans practice it — it is simply how their law transacts, and they consider it fair because, by their law, it is.
+The Cloven deal in bargains, and their bargains express ecological predation in human terms. They take **names, memories, laughter, years, and warmth** as nutrient, leverage, or seeding. A Cloven gift may be a lure, hook, or planting whose literal terms conceal its lived cost.
 
-Understanding this is the difference between surviving a Cloven and provoking one. They can be reasoned with in the grammar of debt and offering; they cannot be reasoned with in the grammar of mercy, which their law does not recognize.
+Cloven understand alternatives, consequence, and refusal. Their court-law explains their appetites but does not excuse coercion, disproportion, or deliberate deception. They can reason through offering and ecological exchange most easily, but individual Cloven can recognize mercy, choose restraint, and become culpable when they refuse either.
 
 ## Common Types
 
@@ -62,13 +62,23 @@ Understanding this is the difference between surviving a Cloven and provoking on
 - withdraw when a debt is paid or an offering restored, because their law is satisfied, not their appetite;
 - fight with the grove's advantages — path-editing, thorn, poison, sudden abundance — when forced.
 
+## Weaknesses and Permanent Defeat
+
+A Cloven loses leverage when its exact domain, invitation, price, and local anchor are made explicit. Restoring a stolen offering, closing an accepted bargain, separating the being from its grove, or forcing it onto ground governed by a different living law can strip away path-editing and abundance.
+
+Destroying only the visible body may allow a court-law person to reform from an intact anchor. Permanent defeat requires breaking or satisfying the local law that holds that individual together, then destroying the body or accepting its witnessed departure. If the same ecological pressure later forms another Cloven, that newcomer is not the slain person's soul returned.
+
 ## The Folk Accommodation
 
 The Folk survive beside the Cloven by land etiquette: offering groves, seed-burial oaths, ring-walks, and the knowledge of how to move without provoking an edit. Hedge-wardens and border druids make careers of it. The whole tragedy of the Bright-Fire Carnival is a frontier crew that broke the etiquette — burned an offering grove — and a colder power that turned the resulting lawful collection into something the Cloven themselves would never have designed.
 
 ## Corruption
 
-The Cloven are proportionate by nature; that proportion can be **overtaken**. When a colder power — the exiled [[The Rime Rider|winter-hunter]] — sinks its cold into a Cloven, it becomes one of the [[The Rimebound]]: a collector with the proportion burned out of it. This is not the Cloven's natural state and not their fault; it is what is done to them.
+Cloven bargains normally inherit a pressure toward ecological proportion, but this is tendency rather than innocence. That proportion can also be **overtaken**. When a colder power such as the exiled [[The Rime Rider|winter-hunter]] sinks its cold into a Cloven, it becomes one of the [[The Rimebound]]: a collector with the proportion burned out of it. The imposed condition is not chosen, though each surviving Cloven remains accountable for choices it can still make.
+
+## Materials and Regional Names
+
+Antler, bark-skin, revel reed, thorn milk, and seed tokens may retain one local tendency. Taking them from a living Cloven is injury; remains from a necessary killing must be settled before use. Regional names include Cloven, alder-maid, thorn-maid, faun, satyr, grove face, root host, and green cousin.
 
 ## Quest Uses
 
@@ -81,6 +91,7 @@ The Cloven are proportionate by nature; that proportion can be **overtaken**. Wh
 ## Navigation
 
 - [[Bestiary MOC]]
+- [[Faewild and Menhir MOC]]
 - [[The Bright-Fire Carnival — Full Adventure]]
 - [[Sisrin the Alder-Maid]]
 - [[The Rimebound]]

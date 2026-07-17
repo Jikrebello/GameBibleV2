@@ -25,7 +25,7 @@ related_magic: [Menhir law, place pacts]
 ---
 # Oathwood Wardens
 
-Oathwood Wardens form where a witnessed promise, a violent breach, and a Faewild-thin landscape remain pressed together for years. Roots and worked timber grow around a preserved human memory until the land can physically repeat the compact's last demand.
+Oathwood Wardens form where a witnessed promise, a violent breach, and a Faewild-thin landscape remain pressed together for years. Roots and worked timber grow around a human persona echo until the land can physically repeat the compact's last demand. The witness's human soul has ordinarily routed onward; resemblance is not survival.
 
 They are not incarnations of a Menhir and not proof that every Folk account is correct. They are territorial memory made animate under [[Sylvorn|Sylvorn's land-law]]. A Warden can preserve a just claim while enforcing it without mercy, proportion, or understanding of changed circumstances.
 
@@ -36,9 +36,9 @@ Four conditions usually coincide:
 1. A promise is made to a place through seed, salt, blood, bone, or a named boundary.
 2. The promise is witnessed by both people and the living landscape.
 3. A witness is killed, buried, or deliberately erased at the site of the breach.
-4. No living community completes restitution or releases the witness from duty.
+4. No living community completes restitution or releases the witness's memory from duty.
 
-The Warden grows around the witness's strongest unresolved command. Personal memory slowly becomes subordinate to that command.
+The Warden grows around the witness's strongest unresolved command. Residue becomes subordinate to court-law and may develop into a new limited mind. It is not the deceased person returned.
 
 ## Signs
 
@@ -63,10 +63,10 @@ Wardens prefer compelled restitution to death. Their idea of restitution can inc
 
 ## Weaknesses and Release
 
-- **Personal name:** speaking the witness's true name separates memory from function briefly.
+- **Personal name:** speaking the witness's true name separates the persona echo from its function briefly.
 - **Complete testimony:** recounting the promise, breach, and victim prevents the Warden from substituting a convenient false version.
 - **Material restitution:** restoring the road, water, grave, shelter, or boundary removes the corresponding source of strength.
-- **White Flame:** can separate the human soul from land residue if the witness chooses release when personal awareness surfaces.
+- **White Flame:** can separate the persona echo from court-law and reveal whether an exceptional deliberate soul-binding is also present. An ordinary Warden contains no human soul to release.
 - **Fire:** destroys the body quickly but may spread the breach through ash, smoke, and surviving roots if nothing was repaired.
 - **Counter-oath:** a living guarantor can assume the compact, gaining control over the Warden while becoming personally answerable for future violations.
 
@@ -83,6 +83,10 @@ Its lair should always reveal what happened before the creature appears. Players
 - **Root-script:** can preserve a contract in living wood, making later alteration physically visible.
 
 These materials are valuable to Folk seers, Marcher arbiters, Church investigators, and contract magicians. Harvesting them from an unreleased Warden risks inheriting part of its unfinished duty.
+
+## Regional Names
+
+Oathwood Warden, witness tree, root bailiff, promise grove, board saint, compact wood, and the house that remembers. These labels describe local manifestations rather than one speaking institution.
 
 ## Quest Uses
 

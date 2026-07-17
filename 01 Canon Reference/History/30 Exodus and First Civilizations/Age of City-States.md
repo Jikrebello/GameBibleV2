@@ -55,6 +55,8 @@ This is the age when practical elemental scripting begins to move from craft-sec
 
 Cities preserve memory better than camps, but they also create class, debt, law courts, slave markets, and hunger for empire.
 
+Coastal traditions also remember an unnamed harbor drowned after its rulers refused storm-driven ships. Surviving public accounts disagree on whether this was punishment, weather, or political allegory. The complete history remains outside public canon.
+
 ## Navigation
 
 - [[Timeline MOC]]

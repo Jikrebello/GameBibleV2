@@ -27,6 +27,7 @@ Develop Caleran as the setting's great-city sandbox. Its population, fourteen di
 - **Vault structure:** active reference material uses numbered, subject-owned folders; superseded material is indexed through [[Archive Index]] and the [[Physical Reorganization Manifest]].
 - **Creature canon:** [[Bestiary Framework — Creatures of the World Egg|Bestiary Canon Register]] controls origin-first taxonomy and [[The Image, Soul, and Creaturely Continuity]] controls personhood and persistence. [[Bestiary Translation Concordance]] records the full Pathfinder crosswalk without importing its canon.
 - **First creature wave:** [[The Mundane Layer — Residue, Vermin, and the Delver Trade]] controls 34 Material and residue forms; [[Heaven and Soul-Road MOC]] controls sixteen profiles divided among true angels, manifested saints, and soul-road service.
+- **Second creature wave:** [[Faewild and Menhir MOC]] controls thirty forms across drakes, court beings, place minds, mythic fauna, and High Hunts; [[Hell and Abyss MOC]] controls twenty-four forms across damned manifestations, Depth fauna, devil mantles, soul predators, and Abyssal wounds.
 - **Covenant structure:** [[Ahl-e-Ahd Canon Register]] controls the layered peoples, Witnessed/Sealed divide, unequal states, and authorial Fourth Seal truth. [[Covenant Reconstruction Audit]] records the full reference pass.
 - **Sestaran structure:** [[Sestaran Canon Register]] controls seven independent seals joined only by [[The Seven-Seal Defensive Muster]]. Orsena and Vardessa are locked microstates; Vorthara has no common government. [[Sestaran Reconstruction Audit]] records the full reference pass.
 - **Jirahar structure:** [[Jirahar Canon Register]] controls the two destructions, maternal descent, conversion, four mobile Ways, five living towers, Empty City, and Keeper-controlled Way-Gates. [[Jirahar Reconstruction Audit]] records the full reference pass.
@@ -37,7 +38,7 @@ Develop Caleran as the setting's great-city sandbox. Its population, fourteen di
 ## Next Three Workstreams
 
 1. **Regional map production:** turn the Covenant, Sestaran, and Tarkhan control notes into finished roads, trade, harbor, fair, water, fortress, customary-range, and jurisdiction layers.
-2. **Bestiary Wave 3:** plan and build Faewild and Menhir alongside Hell and Abyss, using adventure demand and the locked drake/true-dragon distinction as the priority.
+2. **Bestiary Wave 4:** plan and build Ancient and Crafted Legacies alongside the Elemental Shell, using adventure demand to prioritize constructs, fleshworks, Giant remnants, seam forms, and bound manifestations.
 3. **Caleran and Grenzburg implementation:** continue map and adventure blocking from their locked production bibles without reopening their canon spines; use those adventures to set the creature backlog.
 
 ## Locked Rulings
@@ -68,7 +69,7 @@ Develop Caleran as the setting's great-city sandbox. Its population, fourteen di
 - Named regional cells for the Left Hand as new playable settings are developed.
 - Final visual treatment for Caleran's surface and undercity maps.
 - System-specific encounter and reward tuning for selected Caleran adventures.
-- Family ladders, regional homes, and encounter-ready profiles for the Faewild/Menhir and Hell/Abyss paired expansion wave.
+- Family ladders, regional homes, and encounter-ready profiles for the Ancient/Crafted and Elemental Shell paired expansion wave.
 - Orsena population, harbor districts, and cistern capacity; Vardessa's fair calendar and road travel table.
 - Population, district, and playable-setting numbers for Mazrakan.
 - Present road, fortress, and jurisdiction maps for Zanthir and the Velian States.

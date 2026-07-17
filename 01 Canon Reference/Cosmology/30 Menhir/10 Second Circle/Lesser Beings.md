@@ -34,16 +34,16 @@ A mortal **court** is often an observational category. Beings repeatedly encount
 
 ## Bargains
 
-Lesser beings may keep exact bargains because a bounded exchange fits their nature. This is not love or moral approval. Costs include changed appetite, service, taboo, transformed descendants, altered memory, territorial access, and attention from larger powers.
+Lesser beings may keep exact bargains because a bounded exchange fits their nature. Exactness is not love, justice, or moral approval. Costs include changed appetite, service, taboo, transformed descendants, altered memory, territorial access, and attention from larger powers.
 
 ## Authorial Classification
 
-Menhir-adjacent beings remain expressions of amoral natural or mythic law. They differ from Idols, which actively engineer meaning-predation, and from Astral patrons, which require rented stability. In-world observers often misclassify all three.
+The Menhir pressure itself expresses created natural or mythic law rather than moral authority. Sapient lesser beings can understand alternatives and remain accountable for chosen cruelty, restraint, fidelity, and betrayal. They differ from Idols, which actively engineer meaning-predation, and from Astral patrons, which require rented stability. In-world observers often misclassify all three.
 
 ## Navigation
 
 - [[The Second Circle]]
 - [[Who’s Who in the Cosmology]]
 - [[Folk Faith and Appeasement]]
+- [[Faewild and Menhir MOC]]
 - [[Cosmology MOC]]
-

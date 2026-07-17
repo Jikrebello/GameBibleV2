@@ -78,6 +78,8 @@ Destroying a residue-being does not destroy a human soul. It can still be morall
 | Driftkin | `drift-rewritten-life` | None |
 | Mundane animal or altered lineage | `biological-pattern` | None |
 | Fey or Menhir court-being | `court-law` | None |
+| Cradle-Hag | `court-law` | None |
+| Skinbound Hag | `retained-human-soul` | Held by the chosen bargain until restored or released |
 | Idol-grown form | `idol-pattern` | None |
 | Elemental | `shell-pattern` | None |
 | Autonomous construct | `constructed-pattern` | None |
@@ -110,12 +112,21 @@ Hell contains more than one kind of being:
 
 **Devil** is an imposed contractual mantle, not a biological species. A damned human may be forced into such an office, while a nonhuman Depth intelligence may wear a similar mantle without becoming human. The Abyss produces catastrophes and anti-forms rather than a morally neutral people.
 
+Final refusal is definitive after judgement. Defeating a damned manifestation, releasing a damned bearer from an imposed office, or ending another power's exploitation does not reverse that judgement. It can still be a genuine rescue from an additional captivity or misuse.
+
+No created being can annihilate a human soul. Predators, patrons, offices, Idols, Menhir, and Abyssal wounds may hold, obscure, mutilate, strip memories or attachments, imitate, or misdirect a soul. None can erase the person from existence or alter the Lord's judgement.
+
+An `infrastructure-office` does not overwrite its bearer. Authorial creature notes use `bearer_continuity` to record the underlying being when known. Breaking the office may reveal a damned human, Depth animal, court-being, Drift intelligence, Shell pattern, construct, or an empty script. Release from office does not automatically establish innocence.
+
+The Covenant's 4,444 devil mantles are heterogeneous in authorial canon. Their standardized roles and appearances come from the Creditor's architecture, not shared ancestry. Public Covenant doctrine does not know this controlling truth.
+
 ## Design Consequences
 
 - Soul interception, damnation, sainthood, redemption, and celestial elevation apply only to genuine human souls.
 - Memory is evidence of continuity but not proof of a human soul.
 - Speech and intelligence establish encounter complexity, not membership in humanity.
 - A creature's permanent defeat must follow its continuity: release a held soul, disperse residue, break court-law, interrupt a Shell pattern, destroy an anchor, or close an Abyssal wound.
+- A folklore name such as `hag`, `demon`, or `devil` never settles continuity by itself.
 - Public notes may preserve uncertainty. Author-only notes and creature properties must follow this ruling.
 
 ## Navigation
@@ -130,4 +141,6 @@ Hell contains more than one kind of being:
 - [[Egg White Ecology]]
 - [[Vampire Origins]]
 - [[Ghouls]]
+- [[Hags and Counterfeit Kin]]
+- [[Hell, Depth, and the Abyss]]
 - [[Cosmology MOC]]

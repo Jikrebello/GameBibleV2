@@ -1,5 +1,5 @@
 ---
-type: creature
+type: reference
 status: canon
 canon_level: core
 visibility: author-only
@@ -8,20 +8,8 @@ region: []
 culture: []
 related_factions: []
 appears_in: []
-needs:
-  - Define the damned, Depth-fauna, imposed-office, soul-predator, and wound-being ladders in the Hell and Abyss wave.
+needs: []
 tags: [core-canon]
-origin_layer: mixed
-continuity: abyssal-wound
-intelligence: [mindless, animal, cunning, sapient, sovereign]
-moral_agency: [none, limited, full]
-encounter_tier: cosmological
-rank: [nuisance, standard, specialist, elite, apex, unique]
-creature_family: Hell and Abyssal Beings
-catalogued_forms: [Hell and Abyssal Beings]
-habitats: [Hell, the Depths, Abyssal wounds, refusal-thinned Material sites]
-encounter_roles: [tempter, jailer, predator, corrupter, catastrophe]
-related_magic: [contract magic, true names, soul routing, black mud]
 ---
 # Hell and Abyssal Beings Overview
 
@@ -35,13 +23,13 @@ related_magic: [contract magic, true names, soul routing, black mud]
 4. **Imposed offices:** jailers, tempters, collectors, and contractual mantles. `Devil` belongs here as an office-name, not a species.
 5. **Abyssal wound-beings:** active contradictions whose body is the expression of a tear in creation.
 
-These provenances can cooperate without forming a unified infernal government. Rival economies of refusal, appetite, contract, and annihilation may exploit one another while remaining objectively evil.
+These provenances can cooperate without forming a unified infernal government. Rival economies of refusal, appetite, contract, and soul predation may exploit one another. Native animals may be harmful without moral culpability; damned persons and full-agency predators remain answerable for chosen evil.
 
 ## Design Controls
 
-- A damned human remains a human soul and cannot be treated as mere monster material.
+- A damned human remains a human soul. Judgement is final, but the soul cannot be annihilated by another creature.
 - A Depth animal can be cunning and dangerous without participating in mortal guilt.
-- An imposed office has a mandate, wording, chain of authority, and means of removal.
+- An imposed office has a mandate, wording, chain of authority, means of removal, and an underlying bearer whose continuity does not change.
 - An Abyssal wound recurs until the opening that expresses it is closed.
 - Seduction, fear, pain, destruction, and legal coercion are strategies or ecologies, not imported species names.
 
@@ -52,6 +40,8 @@ Churches, villagers, warlocks, and occult courts use `demon`, `devil`, `hell-bea
 ## Navigation
 
 - [[The Adversary]]
+- [[Hell, Depth, and the Abyss]]
+- [[Hell and Abyss MOC]]
 - [[The Image, Soul, and Creaturely Continuity]]
 - [[True Dragons]]
 - [[The Atlas of the Left Hand]]

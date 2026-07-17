@@ -1,7 +1,7 @@
 ---
 type: cosmology
 status: canon
-canon_level: local
+canon_level: core
 visibility: restricted
 era: []
 region: []
@@ -11,33 +11,57 @@ appears_in: []
 needs: []
 tags: []
 ---
-#### Appearance:
-- **Description:** Thalassor is the Faewild’s ocean-law made sovereign: depth-pressure, tide secrecy, abyssal ecology, and the predatory indifference of the sea. When perceived as a form, it appears as a colossal pressure-being—scales like overlapping shale, tentacular outlines suggested by current, and abyssal eyes that resemble deep vents or cold stars seen through water. The truest “shape” is environmental: still water that feels like a lid, undertow that behaves like intent, and horizons that seem to close.
-- **Manifestation:** Thalassor manifests where depth becomes absolute—trenches, maelstrom basins, storm-swells that arrive without wind, and black tides that carry silt too old to belong to the shoreline.
+# Thalassor
 
-#### Followers:
-- **The Deep Ones:**
-  - **Description:** Depth-adapted beings and abyssal societies that emerged alongside Thalassor’s law—amphibious, pressure-hardened, and ritualized around survival in hostile strata. They are not “priests” so much as custodians of depth-anchors and current-paths.
-  - **Behavior:** Deep Ones approach surface contact as anglerfish approach prey: lure, test, take. They maintain trenches, protect pressure nodes, and treat shipwrecks as harvest rather than conquest.
+Thalassor is the Faewild's ocean-law made sovereign: depth, pressure, current, tide secrecy, and the predatory indifference of the sea. Thalassor is not the Abyss, a god of madness, or a monarch of every being beneath the water.
 
-#### Rituals:
-- **Tide-Marking:** Knots tied in seaweed cord and sunk under pier-stones to measure and remember abnormal tides. The rite is used to predict when the sea is “keeping” something and when it is “returning” it.
-- **Weight-Offerings:** Stones, iron, or relic-weights dropped into specific depths to stabilize a current corridor or to “pay” for safe passage across a known undertow. The sea does not demand; humans and Deep Ones perform the rite because it sometimes works.
-- **Dream-Dives:** Controlled sleep rituals near deep water to receive current-maps and pressure-omens. The danger is not madness as punishment; the danger is that the mind learns an ocean-scale orientation it cannot unlearn.
+## Manifestation
 
-#### Sacred Sites:
-- **Trench Mouths:** Places where continental shelves break into true abyss—water that darkens too quickly and never warms.
-- **Maelstrom Eyes:** Persistent rotating systems and sink currents that act like stable gateways into deeper strata.
-- **Sunken Anchors:** Underwater temples, wreck-cities, whale-fall “cathedrals,” and coral-lodes that function as pressure-stabilizers.
+Witnesses describe overlapping shale scales, tentacular current-lines, cold vent lights, and an immense body perceived only in fragments. The more accurate manifestation is environmental: open water becoming still as a lid, an undertow that behaves like selection, or a horizon that seems to close.
 
-#### Human Worship:
-- **Coastal Bargainers:** Fishing villages and reef-clans who treat Thalassor as an impersonal authority: tides, storms, and the taking of ships. Offerings are often practical—weights, knots, salt, and bone—used to mark pacts of passage rather than devotion.
-- **Failure Modes:** Where humans practice sacrifice, it is desperation translated into ritual. The ocean does not “want” morality or cruelty; it wants depth-law satisfied: weight, timing, and pressure.
+Thalassor is most present at trenches, maelstrom basins, cold upwellings, storm swells without wind, and pressure anchors where deep-water law remains stable close to the surface.
 
-#### Additional Elements:
-- **Omens:** Bioluminescence forming repeating rune-like spirals, fish running to shore in silence, fog that smells like ancient silt, and undertow that pulls only living things.
-- **Relics:** Driftbone charms that prevent drowning but induce a slow love of depth; pressure-shell armor that hardens under threat; tide-glass lenses that reveal submerged paths for a single night.
+## Natural Portfolio
+
+- depth and crushing pressure;
+- tide, current, carrying, and return;
+- abyssal ecology without Abyssal metaphysics;
+- shipwreck, dissolution, and the sea's custody of material things;
+- biological adaptation to darkness and pressure.
+
+The similarity between deep ocean and Hell imagery does not make them one realm. Thalassor belongs to created Faewild law. [[Hell, Depth, and the Abyss|Hell's Depth]] expresses leftward refusal through Water and Earth convergence.
+
+## Attendant Ecology
+
+[[Aerials and Deep Envoys|Deep Envoys]] are local pressure-adapted organisms and communities. Some maintain current paths or pressure anchors; others salvage, trade, lure, or prey. They are not priests, a worldwide species-state, or one abyssal civilization.
+
+Creator and coastal sources may call several unrelated deep beings `Deep Ones`. Authorial notes must identify the local family and continuity instead of treating the name as a nation.
+
+## Human Contact
+
+- **Tide-marking:** seaweed knots and pier marks record abnormal current behavior.
+- **Weight offerings:** practical weights stabilize known current corridors or mark an accepted loss. The sea does not morally demand them.
+- **Dream-dives:** controlled sleep near deep water can teach current orientation at the risk of leaving a human mind unable to think at ordinary scale.
+- **Pressure anchors:** wreck structures, reef works, and sunken chambers preserve stable pockets of depth-law.
+
+Human sacrifice remains a human attempt to purchase control through terror. Thalassor does not require cruelty. Predatory beings may learn to exploit the rite because it reliably provides prey.
+
+## Signs
+
+- bioluminescence repeating a current map;
+- fish moving toward shore in silence;
+- fog smelling of deep mineral silt;
+- undertow selecting one kind of cargo or living body;
+- pressure effects appearing at impossible shallows.
+
+## Relationships
+
+Thalassor converges with [[Sylvorn]] at reef, marsh, and coast and with [[Zephyraxis]] through storm, spray, and moving pressure. Their rare threefold synchronization manifests as [[Trium]]. These are interacting laws, not diplomatic alliances.
 
 ## Navigation
 
+- [[The Three-Bodied God Overview]]
+- [[Aerials and Deep Envoys]]
+- [[Relationships within the Menhir]]
+- [[Faewild and Menhir MOC]]
 - [[Cosmology MOC]]

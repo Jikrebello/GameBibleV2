@@ -41,7 +41,7 @@ Highest ambient in Eclessia: Aurelium sees authenticated miracles the way capita
 
 ## Hooks
 
-The vault under the Sanctum (Unburnt Psalter, Vessing file, Crown of Embers) as the world's most consequential room; a Registry clerk who has found the Creditor's uncatalogued entry-shadow; the choir-school child whose voice makes hymn-lamps behave.
+The vault under the Sanctum (Unburnt Psalter, Vessing file, Crown of Embers) as the world's most consequential room; a Registry clerk who has found an uncatalogued entry-shadow with no named owner; the choir-school child whose voice makes hymn-lamps behave.
 
 ## Navigation
 

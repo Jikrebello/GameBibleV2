@@ -51,6 +51,8 @@ tags: []
 - [[Early Folk Clan Worlds]]
 - [[Origins of Warlock Rune Magic]]
 - [[Southern Cold Belt and Grobi Frontier]]
+- [[The Refusal at Kelarion]]
+- [[The Erasure of Orthea]]
 
 ## Historical Lenses
 

@@ -31,6 +31,7 @@ Emerald drakes are the deep-forest livery of **Sylvorn's court** — old-growth 
 
 - **Encounter shape:** territorial hazard, lair guardian, regional pressure, climactic hunt (the Grenzburg Act II winter hunt is the exemplar).
 - **Intelligence:** animal-cunning raised by court-law — it does not plan, but its territory does. Traps feel authored because the forest's rules are.
+- **Tactics:** divide intruders with false paths, pollen and silence; strike isolated prey from root cover; retreat toward the heart-oak when wounded; and use the territory's ordered animals as warning rather than obedient troops.
 
 ## Ecology and Lifecycle
 
@@ -44,6 +45,12 @@ Pollen-sleep circles (foragers found dozing unharmed — the first warning); gam
 
 A root-vaulted hollow under the oldest tree, floored with generations of bone meal and seed husk. Approaches are dosed: drowse-pollen at the borders, vertigo-spore at the middle ring, dead silence at the heart. The lair sits, more often than chance allows, atop something the law is holding down — a thin space, a barrow, an old wound. Grenzburg's drake lairs above the Southwood's buried troubles, which is exactly why hunting it in Act II is not the favor it appears.
 
+## Weaknesses and Permanent Defeat
+
+Clean wind, controlled burning outside the root vault, sealed breathing gear, and routes cut across rather than along the drake's planted paths reduce its territorial advantage. Away from old growth, an emerald drake remains a dangerous animal but loses the forest's path-editing and coordinated silence.
+
+Bodily death permanently ends the individual. The law-gem and ordered territory remain active until re-seated, dispersed, or inherited by another clutch; neither contains a returning drake mind. Killing one without dealing with what its law suppressed can exchange a visible predator for a wider metaphysical breach.
+
 ## The Heart-Gem and Materials
 
 The emerald **law-gem** is crystallized forest-law: quiet, patience, growth-in-order. Reagent-grade slivers steady the mind and still pain; anchor-grade cores stabilize wards; and a full heart, fresh, can **assert living law against unliving architecture** — the canonical counter-engine to the Heart-Stone's psychic amplification in Act III. Scales take a green temper prized for ranger-mail; the pollen-glands are a poisoner's dowry and a physician's temptation; the eyes, dried, are folk-charms against getting lost, which work just well enough to keep the trade alive.
@@ -51,6 +58,10 @@ The emerald **law-gem** is crystallized forest-law: quiet, patience, growth-in-o
 ## Faction Use
 
 The Duke wants the threat gone and the trophy public; the Bank wants the gem priced; the Church wants it consecrated or condemned (the rural clergy will call the beast a dragon and the learned clergy will exhaust themselves correcting them); Vorthara pays triple for an intact heart; the Folk want the hunt *refused* — they know what the law is sitting on, even if they won't say it in a Church tongue.
+
+## Regional Names
+
+Emerald drake, green silence, heart-oak hunter, moss lord, pollen-cat, and root emerald. Folk communities usually name a territorial animal for its valley or oldest tree rather than treating the lineage name as sufficient.
 
 ## Story Hooks
 

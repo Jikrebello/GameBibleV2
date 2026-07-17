@@ -43,6 +43,8 @@ By the end of this age, Atherian cities increasingly believe they are not merely
 
 Atheria's genius is also its temptation: it can preserve law, beauty, infrastructure, and memory while converting spiritual loss into civic grandeur.
 
+Several late Star annals preserve traces of a campaign whose district, commanders, and road cannot be placed together. Public historians treat the gaps as censorship or copy error. The complete event remains author-only.
+
 ## Navigation
 
 - [[Timeline MOC]]

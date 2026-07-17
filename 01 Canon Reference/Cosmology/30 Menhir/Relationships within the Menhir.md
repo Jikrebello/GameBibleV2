@@ -1,127 +1,107 @@
 ---
 type: cosmology
 status: canon
-canon_level: local
-visibility: restricted
+canon_level: core
+visibility: author-only
 era: []
 region: []
 culture: []
 related_factions: []
 appears_in: []
 needs: []
-tags: []
+tags: [core-canon]
 ---
-### Second Circle: The Celestial Family
+# Relationships within the Menhir
 
-1. **Father Sun (Solzareth)**
-   - **Relationships:**
-     - **Mother Moon (Lunara):** A strained and complex relationship, characterized by mutual respect and rivalry.
-     - **Star Children:** Solzareth views his children as tools for maintaining order and expanding his influence, though he harbors a deep distrust for their ambitions.
-   - **Alliances:** Solzareth maintains tenuous alliances with his more obedient star children.
-   - **Rivalries:** Rivalry with Lunara, exacerbated by their differing views on power and control.
-   - **Objectives:** To restore and maintain absolute dominance over the realms, ensuring his rule is unchallenged.
+This is the authorial pressure register for the Menhir. Terms such as parent, child, marriage, rivalry, court, and alliance are mortal descriptions of interacting natural laws. They can describe stable patterns without proving a divine family, moral pantheon, or universal government.
 
-2. **Mother Moon (Lunara)**
-   - **Relationships:**
-     - **Father Sun (Solzareth):** A mix of cooperation and competition, with underlying tension.
-     - **Star Children:** Lunara is more nurturing but manipulative, using her children to further her own chaotic agendas.
-   - **Alliances:** Stronger alliances with star children aligned with chaos and transformation.
-   - **Rivalries:** Rivalry with Solzareth, especially over the control of their children and the realms.
-   - **Objectives:** To spread chaos and transformation, challenging Solzareth’s dominance and promoting her darker knowledge.
+## Governing Rule
 
-3. **Star Children:**
+Menhir are sovereign expressions of created natural and mythic law. They are not gods, Idols, or sources of moral truth. A natural pressure may preserve life in one context and destroy it in another. Sapient courtiers remain morally accountable even when the Menhir law itself is impersonal.
 
-   a. **Astaroth**
-      - **Relationships:** Distrusts his parents, has tenuous alliances with siblings who share his chaotic nature.
-      - **Alliances:** Occasionally aligns with Lunara to foster chaos.
-      - **Rivalries:** Rivalry with star children who seek order.
-      - **Objectives:** To incite chaos and conflict, undermining stability and control.
+## Second Circle
 
-   b. **Lyraxis**
-      - **Relationships:** Generally liked by his siblings for his charm and wit, but not fully trusted.
-      - **Alliances:** Allies with siblings who value freedom and creativity.
-      - **Rivalries:** Rivalry with star children who impose strict order and control.
-      - **Objectives:** To inspire creativity and mischief, challenging rigid structures and rules.
+### Father Sun
 
-   c. **Imperial insertion: Thanatos**
-      - Atherian lists placed Thanatos among the Star Children and invented sibling rivalries around him.
-      - Authorial truth identifies the encountered being as [[The Boatman]], a created angel with no parentage, alliance, or rivalry inside the Menhir courts.
-      - Preserve the relationship stories only when describing Atherian doctrine or its political uses.
+Father Sun expresses exposure, heat, dominance, visibility, and the survival threshold created by light without shelter. His pressure competes with Mother Moon wherever fixed exposure meets cyclic concealment and mutable form.
 
-   d. **Orionis**
-      - **Relationships:** Respected for his skill, but feared for his capricious nature.
-      - **Alliances:** Forms temporary alliances with siblings during hunts and conflicts.
-      - **Rivalries:** Rivalry with star children who challenge his dominance in hunting and mastery.
-      - **Objectives:** To assert his supremacy in hunting and mastery, seeking the thrill of the hunt.
+His court associations favor [[Gold Drakes]], Solar Sons, heat-adapted fauna, and beings that sort by endurance. This does not make dominance righteous or every solar creature his servant.
 
-   e. **Hecatara**
-      - **Relationships:** Respected and feared for her dark powers, maintains a distant relationship with her siblings.
-      - **Alliances:** Aligns with siblings who value sorcery and dark knowledge.
-      - **Rivalries:** Rivalry with those who seek to control or diminish her power.
-      - **Objectives:** To expand her influence in sorcery and dark magic, guiding those at life’s crossroads.
+### Mother Moon
 
-   f. **Typhonius**
-      - **Relationships:** Feared and respected for his monstrous creations, has a close bond with Arachnara.
-      - **Alliances:** Strong alliance with Arachnara, occasional alliances with siblings who seek power through creation and destruction.
-      - **Rivalries:** Rivalry with those who oppose his monstrous creations.
-      - **Objectives:** To create and control hybrid monsters, spreading fear and chaos.
+Mother Moon expresses tides, cycles, instinct, migration, pack-law, and mutable form. She does not govern generic chaos, darkness, or forbidden knowledge.
 
-   g. **Arachnara**
-      - **Relationships:** Strong bond with Typhonius, maintains a secretive relationship with other siblings.
-      - **Alliances:** Strong alliance with Typhonius, aligns with siblings who value shadows and infestation.
-      - **Rivalries:** Rivalry with those who seek to eradicate her vermin and shadows.
-      - **Objectives:** To control vermin and shadows, spreading infestation and fear.
+Her pressure alternately tempers and destabilizes Father Sun's fixed exposure. It intersects with Orionis through pursuit, Hecatara through changing routes, and Lyraxis through transformation. These convergences explain recurrent myths of alliance without establishing shared political purpose.
 
-### Third Circle: The Three-Bodied God (Trium)
+### Astaroth
 
-1. **Thalassor (Ocean)**
-   - **Relationships:** Mutual respect with Sylvorn and Zephyraxis, though strained by their separation.
-   - **Alliances:** Strong alliance with Sylvorn and Zephyraxis when unified as Trium.
-   - **Rivalries:** Rivalry with forces that seek to exploit or control the ocean’s depths.
-   - **Objectives:** To protect the secrets of the ocean and maintain its mysterious power.
+Astaroth expresses collision, structural conflict, battlefield pressure, and the way force reveals weakness. He does not need war to be morally justified. Human rulers turned this pressure into a god of conquest because conflict made imperial power legible.
 
-2. **Sylvorn (Land)**
-   - **Relationships:** Mutual respect with Thalassor and Zephyraxis, though strained by their separation.
-   - **Alliances:** Strong alliance with Thalassor and Zephyraxis when unified as Trium.
-   - **Rivalries:** Rivalry with those who threaten the primal power of the land.
-   - **Objectives:** To preserve the primal nature of the land and protect its secrets.
+Astaroth converges with Orionis in selection through contest, with Father Sun in dominance, and with Typhonius where collision produces recombination.
 
-3. **Zephyraxis (Sky)**
-   - **Relationships:** Mutual respect with Thalassor and Sylvorn, though strained by their separation.
-   - **Alliances:** Strong alliance with Thalassor and Sylvorn when unified as Trium.
-   - **Rivalries:** Rivalry with those who seek to control or diminish the sky’s power.
-   - **Objectives:** To maintain the freedom and power of the sky, protecting its mysteries.
+### Lyraxis
 
-### Fourth Circle: The Horsemen
+Lyraxis expresses metamorphosis, adaptation, disruptive play, recombination of meaning, music, and the unexpected route out of rigid form. Creativity is a created good; disruption is not automatically benevolent.
 
-1. **Solrath (Summer/War)**
-   - **Relationships:** Respectful yet competitive relationship with Nevaura, Morvalis, and Veradia.
-   - **Alliances:** Occasional alliances with siblings to maintain seasonal balance.
-   - **Rivalries:** Rivalry with forces that challenge his dominance in war and summer.
-   - **Objectives:** To assert his dominance through war and conquest, ensuring the intensity of summer.
+Lyraxis converges with Mother Moon in mutable form, Hecatara in alternative routes, and Typhonius in biological or symbolic recombination.
 
-2. **Nevaura (Winter/Famine)**
-   - **Relationships:** Respectful yet competitive relationship with Solrath, Morvalis, and Veradia.
-   - **Alliances:** Occasional alliances with siblings to maintain seasonal balance.
-   - **Rivalries:** Rivalry with forces that threaten the desolation of winter.
-   - **Objectives:** To spread the desolation and scarcity of winter, ensuring survival through adversity.
+### Orionis
 
-3. **Morvalis (Autumn/Death)**
-   - **Relationships:** Respectful yet competitive relationship with Solrath, Nevaura, and Veradia.
-   - **Alliances:** Occasional alliances with siblings to maintain seasonal balance.
-   - **Rivalries:** Rivalry with those who disrupt the natural cycle of life and death.
-   - **Objectives:** To guide souls to the afterlife and oversee the decline and decay of autumn.
+Orionis expresses hunt, mastery, selection, tracking, and the proof produced by successful pursuit. His pressure does not establish that the hunted deserve capture.
 
-4. **Veradia (Spring/Pestilence)**
-   - **Relationships:** Respectful yet competitive relationship with Solrath, Nevaura, and Morvalis.
-   - **Alliances:** Occasional alliances with siblings to maintain seasonal balance.
-   - **Rivalries:** Rivalry with forces that threaten the duality of growth and decay.
-   - **Objectives:** To balance growth and decay, spreading life and pestilence as needed.
+Orionis converges with Astaroth in contest, Mother Moon in pack and migration, and the Horsemen in seasonal Hunts. [[Hunt Hounds and Hunt Riders|High Hunts]] are temporary expressions, not one eternal army.
 
+### Hecatara
 
+Hecatara expresses crossroads, topology, toll, route consequence, thresholds, and access. She does not govern generic dark magic or the human soul-road.
+
+Her pressure intersects with Lyraxis where alternatives proliferate, Mother Moon where routes change by cycle, and Arachnara where hidden infrastructure connects distant points. [[Way-Weavers]] expose consequences without controlling fate.
+
+### Typhonius
+
+Typhonius expresses hybridization, recombination, regeneration, and the new stable form produced when incompatible bodies or laws meet. He does not create monsters to spread fear.
+
+His convergences produce [[Stone-Eyes and Many-Necks|Many-Necks]], unusual court fauna, and the natural grammar later imitated by Giant and Vortharan fleshworkers. Human atrocity conducted through recombination remains human choice.
+
+### Arachnara
+
+Arachnara expresses hidden infrastructure, networked predation, swarm coordination, silk, venom, and systems whose local nodes serve a larger pattern. Disease and fear may follow those systems but are not her moral purpose.
+
+She intersects with Typhonius through distributed bodies, Hecatara through hidden routes, and Sylvorn through fungal, root, and predator networks.
+
+### The Atherian Thanatos Error
+
+Atherian lists inserted Thanatos among the Star Children and invented sibling relations around him. Authorial truth identifies the encountered being as [[The Boatman]], a created angel with no Menhir parentage, court alliance, or authority derived from the stars. Such stories remain valid evidence of Atherian religion, not cosmology.
+
+## Third Circle
+
+### Zephyraxis, Sylvorn, and Thalassor
+
+The three aspects express sky pressure, land succession, and ocean depth. They do not maintain diplomatic relations. Their apparent cooperation is physical convergence.
+
+When all three lock together, [[Trium]] manifests as a temporary world-scale operating state. [[Aerials and Deep Envoys]], forest courts, and cross-domain animals may synchronize during that event without becoming one people or unified cult.
+
+## Fourth Circle
+
+The Horsemen express seasonal pressures rather than four moral rulers.
+
+- **Solrath:** summer exposure, heat, campaigning pressure, fire risk, and violent abundance.
+- **Nevaura:** winter scarcity, cold, dormancy, famine pressure, and survival selection.
+- **Morvalis:** autumn decline, harvest ending, bodily death, grave stillness, decomposition, and ecological return. Morvalis does not guide human souls; that commission belongs to [[The Boatman]].
+- **Veradia:** spring growth, crowding, infection, birth pressure, flood, and the danger inside renewal.
+
+Their retinues appear through regional Crown-Beasts, Hunt forms, Revel Hosts, Aerials, and place minds. Seasonal variation does not create four additional species ladders.
+
+## Courts and Mortal Interpretation
+
+[[Courts of the Folk Lands|Folk courts]] classify recurring conduct and association. One court may contain Menhir courtiers, biological fauna, place minds, residue, patrons, or hidden Idol masks. The court name does not settle continuity or morality.
+
+Astratheon religion turned pressure relations into divine genealogy and civic politics. Those myths remain culturally important and frequently preserve genuine encounters, but authorial creature and cosmology notes must use the distinctions above.
 
 ## Navigation
 
 - [[Cosmology MOC]]
-- [[Canon Index]]
-- [[Canon Index]]
+- [[Faewild and Menhir MOC]]
+- [[Names of the Menhir, Masks of the Idols]]
+- [[The Mythology of The Menhir]]
+- [[The Boatman]]

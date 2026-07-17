@@ -59,6 +59,12 @@ They are morally responsible people, not vermin driven by alignment. Individual 
 
 Giltlings prefer ambush, obstruction, and escape. Cornered adults can be dangerous in groups, but a host rarely fights to extinction unless an elder has convinced it that no outside mercy exists.
 
+## Weaknesses and Permanent Defeat
+
+Giltlings are small living people rather than recurring manifestations. Matte coverings, smoke, cold flooding, blocked warm-air passages, and removal of prepared reflection lines defeat their usual tactical advantages. Food, safety, amnesty, and proof that a patron cannot protect them may break a host's willingness to fight.
+
+Bodily death is permanent. Destroying a host means killing a community, not dismissing court-fauna back to another plane. A defeated but surviving host can scatter, surrender, negotiate withdrawal, or establish a new warren if it retains young, tools, and access to warmth.
+
 ## The Hellerbruck Host
 
 [[The Bright-Tail Host]] serves [[Sovarath-of-the-Open-Noon]]. Kezra Seven-Rings embraces the promised rank of mortal-court steward. Nirr Ash-Eye leads a faction that recognizes Sovarath's indifference and can abandon the campaign.
@@ -68,6 +74,10 @@ The host's role does not establish all Giltlings as followers of gold drakes. It
 ## Materials and Law
 
 Giltling tools are clever small-scale craft, not magical treasure by default. Their route mirrors and glare powders are useful to scouts and thieves. Captured hosts should be judged for particular acts rather than hunted as monsters. A drake's claim over them has no inherent legal or moral authority.
+
+## Regional Names
+
+Giltling, bright-tail, sun-warren folk, mirror-tail, ochre hand, and warm-crack people. Host names are normally more important to Giltlings than the broad human family label.
 
 ## Story Hooks
 

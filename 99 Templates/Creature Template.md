@@ -12,6 +12,7 @@ needs: []
 tags: []
 origin_layer:
 continuity:
+bearer_continuity: []
 intelligence:
 moral_agency:
 encounter_tier:
@@ -25,6 +26,14 @@ related_magic: []
 # {{title}}
 
 ## Origin and Continuity
+
+### Domain, Compulsion, and Taboo
+
+Use for court-law beings. State the bargain and price where one exists.
+
+### Provenance, Office, and Manifestation
+
+Use for Hell forms. State refusal, mandate, bearer continuity, soul effects, and containment where relevant.
 
 ## Encounter Role
 
@@ -51,4 +60,3 @@ related_magic: []
 ## Navigation
 
 - [[Bestiary MOC]]
-

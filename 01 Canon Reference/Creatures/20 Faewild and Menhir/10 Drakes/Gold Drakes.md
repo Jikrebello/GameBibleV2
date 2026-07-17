@@ -79,6 +79,12 @@ An elder can speak, bargain, deceive, preserve a grievance, and choose how to ac
 
 Signs of true elder sapience include abstract language, plans extending beyond immediate territory, recognition of individual responsibility, invented offices, deliberate restraint, and adjustment to arguments rather than conditioned cues.
 
+## Weaknesses and Permanent Defeat
+
+Deep shade, wet enclosed ground, smoke that breaks reflected sightlines, and destruction of prepared mirror paths limit an ordinary gold drake's territorial law. Denying safe launch shelves and forcing it to choose between pursuit and clutch protection are more reliable than attempting to outlast it under open noon.
+
+Bodily death permanently ends an ordinary or elder individual. An elder law-gem may preserve organized autobiographical memory, but memory is not a resurrected drake; reconstructing a speaking copy would create a separate and dangerous continuity problem. A displaced nesting conflict can sometimes be settled through a protected court boundary, but a sapient elder remains answerable for any terms it knowingly imposes.
+
 ## Law-Gem and Materials
 
 - **Gold law-gem:** stores exposure, heat distribution, reflective alignment, and—in an elder—organized autobiographical memory.
@@ -104,6 +110,10 @@ Extraction from a living drake is fatal or mutilating. After a necessary kill, c
 - a wounded drake whose collapsing law exposes a hidden damp corruption;
 - a poached clutch drawing repeated attacks against the wrong settlement;
 - a rare elder whose legitimate territorial claim has become the foundation for chosen tyranny.
+
+## Regional Names
+
+Gold drake, sun-cliff hunter, noon-back, gilt jaw, mirror hoarder, and bright court beast. A speaking elder normally takes or receives an individual name in addition to these lineage terms.
 
 ## Game Hooks
 

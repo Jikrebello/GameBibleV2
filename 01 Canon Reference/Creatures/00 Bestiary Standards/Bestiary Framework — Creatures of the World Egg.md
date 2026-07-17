@@ -42,6 +42,17 @@ This is the authoritative **Bestiary Canon Register**. It controls how creature 
 
 The target is approximately 200 registry entries represented through 45–60 family dossiers, standalone recurring creatures, and compact variants. It is a coverage target, not a quota.
 
+## Completed Expansion Waves
+
+| Wave | Locked coverage |
+|---|---:|
+| Material and Residue | 34 forms |
+| Heaven and Soul-Road | 16 profiles |
+| Faewild and Menhir | 30 forms |
+| Hell and Abyss | 24 forms |
+
+Section MOCs hold exact form registers. Overview and index notes never contribute artificial `catalogued_forms` coverage.
+
 ## Encounter Pyramid
 
 - **Mundane:** animals, vermin, human opponents, ordinary residue, terrain, disease, and common crafted defenses. This should remain the broad base.
@@ -65,6 +76,7 @@ A family may contain several ranks. `rank` records the dossier's most useful ban
 |---|---|
 | `origin_layer` | `material`, `faewild`, `shadowlands`, `astral`, `shell`, `heaven`, `hell`, `abyss`, `crafted`, `mixed` |
 | `continuity` | `human-soul`, `retained-human-soul`, `bound-human-soul`, `created-spirit`, `residue`, `wrath-rewritten-life`, `drift-rewritten-life`, `biological-pattern`, `court-law`, `idol-pattern`, `shell-pattern`, `constructed-pattern`, `giant-memory`, `infrastructure-office`, `abyssal-wound` |
+| `bearer_continuity` | Optional list using the controlled continuity vocabulary. Required when a known being wears an `infrastructure-office`; family dossiers list attested bearers and unique dossiers name the actual bearer. Empty means deliberately unknown. |
 | `intelligence` | `mindless`, `animal`, `cunning`, `sapient`, `sovereign` |
 | `moral_agency` | `none`, `limited`, `full` |
 | `encounter_tier` | `mundane`, `aligned`, `cosmological` |
@@ -88,7 +100,7 @@ A family may contain several ranks. `rank` records the dossier's most useful ban
 - `shell-pattern`: interrupt elemental coherence, binding, or seam conditions.
 - `constructed-pattern`: disable the script, engine, command structure, or body.
 - `giant-memory`: destroy or separate every vessel through which the memory reconstructs itself.
-- `infrastructure-office`: remove or lawfully replace the office, not merely its current manifestation.
+- `infrastructure-office`: remove or lawfully replace the office, not merely its current manifestation. Then identify and address the bearer according to `bearer_continuity`.
 - `abyssal-wound`: close the breach or contradiction that lets the creature recur.
 
 ## Family Rulings Already Locked
@@ -96,11 +108,14 @@ A family may contain several ranks. `rank` records the dossier's most useful ban
 - [[Grobi Overview|Grobi]] are Wrath-rewritten life, not humans with damaged souls. Trolls are the rare stable fifth stage.
 - [[Drakes Overview|Drakes]] are Menhir court-fauna. They are not Greed's followers and are not true dragons.
 - [[True Dragons]] are unique Abyssal catastrophes, not a color-coded animal family.
+- [[Hags and Counterfeit Kin|Hag]] is a folklore classification covering several continuities. Cradle-Hags are court-law beings; Skinbound Hags are transformed humans retaining real souls.
 - [[Vampire Origins|Vampires]] are humans whose real souls are held by Giant-derived blood liens.
 - [[Ghouls]] are residue-born intelligences aligned with Gluttony's appetite economy; the original human soul has departed.
 - [[Egg White Ecology|Driftkin]] are Drift-rewritten descendants of humans, without routable human souls.
 - [[True Angels Overview|True angels]] are created heavenly spirits; [[Manifested Saints Overview|manifested saints]] are redeemed human souls. [[The Boatman]] is a unique created angel, while impersonal road mechanisms use `infrastructure-office`.
-- A devil is a contractual mantle or office, not a biological species.
+- A devil is a contractual mantle or office, not a biological species. The Covenant's 4,444 offices have heterogeneous bearers in authorial canon.
+- Damned human souls cannot be annihilated or redeemed by ordinary defeat. Breaking an imposed office does not reverse final judgement.
+- [[Fallen Angels and Broken Commissions|Fallen angels]] remain rare named created spirits, never a reusable creature ladder.
 
 ## Aberration Is a Diagnostic Tag
 
@@ -133,5 +148,7 @@ Every mature family or creature dossier must state:
 - [[Bestiary Translation Concordance]]
 - [[The Image, Soul, and Creaturely Continuity]]
 - [[The Mundane Layer — Residue, Vermin, and the Delver Trade]]
+- [[Faewild and Menhir MOC]]
+- [[Hell and Abyss MOC]]
 - [[Creature Conditions and Templates]]
 - [[The World Egg Cosmology]]

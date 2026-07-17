@@ -9,7 +9,7 @@ culture: []
 related_factions: []
 appears_in: []
 needs:
-  - Add regional variants, lifecycle timing, and system-specific encounter profiles during the Faewild wave.
+  - set system-specific profiles for juvenile, adult, and submerged-lair encounters
 tags: []
 origin_layer: faewild
 continuity: court-law
@@ -31,6 +31,8 @@ Sapphire drakes are Thalassor's cold-water herd. They hunt beneath lake surfaces
 
 A sapphire drake claims a connected body of water rather than a patch of shore. It follows submerged passages, spring channels, and seasonal floods that human maps treat as separate. Fish and aquatic mammals sustain it, but a territorial adult will take livestock, ferrymen, or divers who repeatedly cross its nesting route.
 
+A breeding adult lays one or two mineral-shelled eggs every ten to fifteen years in an air pocket above a submerged spring. Hatchlings remain in shallow feeder pools for three to five years before following the deep current network. This makes upstream pools dangerous even when no adult has been seen.
+
 ## Signs
 
 - bell ropes cut below the waterline while the bell disappears;
@@ -43,9 +45,19 @@ A sapphire drake claims a connected body of water rather than a patch of shore. 
 
 Sapphire drakes attack from below, drag armored prey into depth, and use current to separate rescuers. They dislike prolonged exposure on open land. Noise transmitted through water can lure or repel them, depending on whether it resembles prey, court-song, or a rival's boundary call.
 
+## Weaknesses and Permanent Defeat
+
+Low water, dry open banks, blocked submerged passages, and confused vibration reduce a sapphire drake's control of an encounter. It cannot sustain a long pursuit across dry country, though a nesting adult may beach itself to protect eggs.
+
+Bodily death permanently ends the individual. Its heart-gem can continue fixing a current or reservoir boundary but contains no returning animal mind. A conflict may instead end by moving a bell, ferry route, clutch, or water work outside the claimed current network.
+
 ## Materials and Use
 
 Sapphire scale is valued for cold-water gear and resonant instrument work. A heart-gem can stabilize a current, flooded chamber, or reservoir boundary, but careless use may make the enforced water-law hostile to every route except the one the drake recognized.
+
+## Regional Variants and Names
+
+Deep southern lake animals are pale and heavy-bodied; highland river animals carry darker bands and longer steering fins. Names include sapphire drake, bell-taker, blue current, drowned-chain, lake sapphire, and spring-jaw.
 
 ## Story Hooks
 

@@ -54,6 +54,12 @@ Ruby drakes eat meat but also seek heated mineral salts and traces of worked iro
 
 Females lay one to three thick-shelled eggs in a heated midden. Young drakes are ground-running scavengers for their first season and can be mistaken for unusually large red lizards. Captive breeding usually fails because removing court conditions produces sick or malformed hatchlings.
 
+## Weaknesses and Permanent Defeat
+
+Cold saturation, wet ash, broken launch lines, and removal of concentrated heat sources reduce a ruby drake's speed and orientation. A frightened animal can be diverted toward an empty heat beacon, but a nesting adult is unlikely to abandon its midden.
+
+Bodily death permanently ends the individual. A ruby law-gem can continue storing heat and contest-pattern after death, but it does not contain a routable soul or reconstruct the animal. A freed collared drake may still need treatment, distance, and a viable retreat route before it ceases attacking.
+
 ## Law-Gems and Materials
 
 - **Ruby law-gem:** holds a pattern of heat-seeking, contest, and rapid release. It can stabilize fire scripts, furnace instruments, or heat-resistant relic settings. Extraction from a living drake is fatal.
@@ -70,6 +76,10 @@ Siege-warlocks can fit a ruby drake with a script collar keyed to pain, heat, an
 Collared drakes show scorched neck scales, repetitive circling, bleeding around rune studs, and attacks that continue after ordinary retreat behavior should begin. Breaking the control gem or grounding its script ends the coercion, but the freed animal remains frightened, wounded, and dangerous. Removing a live collar without cooling and interrupting its pattern can discharge the stored heat into the drake or everyone nearby.
 
 The Alderway attacks demonstrate applied cruelty and warlock skill, not a natural bond between warlocks and drakes.
+
+## Regional Names
+
+Ruby drake, furnace wing, slag-back, cinder jaw, red scavenger, and battle ember. Southern cold-belt communities often distinguish vent-dwellers from migratory battlefield animals, while warmer northern foundry towns rarely make the distinction.
 
 ## Game Hooks
 

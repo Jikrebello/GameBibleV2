@@ -1,5 +1,5 @@
 ---
-type: creature
+type: reference
 status: canon
 canon_level: core
 visibility: public
@@ -10,23 +10,12 @@ related_factions: []
 appears_in: ["Grenzburg", "The Duke's Road", "The Drake's Demand"]
 needs: []
 tags: []
-origin_layer: faewild
-continuity: court-law
-intelligence: animal
-moral_agency: none
-encounter_tier: aligned
-rank: [standard, specialist, elite, apex]
-creature_family: Drakes
-catalogued_forms: [Drake Lineages]
-habitats: [Menhir-thin wilds, court territories, Material nesting grounds]
-encounter_roles: [predator, territorial hazard, apex beast]
-related_magic: [Menhir law]
 ---
 # Drakes Overview
 
 Drakes are Faewild court-fauna: the beasts the Menhir regimes keep as their laws keep weather. Where the right yolk presses into the Material through old groves, moon-ridges, drowned caves, sun-cliffs, and similar sites, drake lines stray or are seeded through and settle into mortal ecology like half-mythic livestock gone feral.
 
-A drake is not a small dragon. A true dragon is an Abyssal exile-intelligence and a threat to whole realms. A drake is normally an apex animal wearing a court's livery, dangerous in the manner of flood, wildfire, or territorial predator. Confusion between the terms is chronic in-world and occasionally fatal to scholarship.
+A drake is not a small dragon. A [[True Dragons|true dragon]] is a unique Abyssal wound-being and a threat to whole realms. A drake is normally an apex animal wearing a court's livery, dangerous in the manner of flood, wildfire, or territorial predator. Confusion between the terms is chronic in-world and occasionally fatal to scholarship.
 
 ## The Six Liveries
 
@@ -94,6 +83,7 @@ A dead drake often begins a conflict over custody before its body cools.
 ## Navigation
 
 - [[Bestiary MOC]]
+- [[Faewild and Menhir MOC]]
 - [[Bestiary Framework — Creatures of the World Egg]]
 - [[Gold Drakes]]
 - [[Emerald Drakes]]
