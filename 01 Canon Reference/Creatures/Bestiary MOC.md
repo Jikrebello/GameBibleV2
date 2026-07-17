@@ -46,6 +46,7 @@ tags: []
 - [[Great-Horns]]
 - [[Blood-Briar Guests]]
 - [[Many-Handed Tribute Wardens]]
+- [[Giltlings]]
 
 ## Grobi
 

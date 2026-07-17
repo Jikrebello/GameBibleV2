@@ -41,6 +41,8 @@ Ale, hops, medicines, cloth, ceramics, timber, and hospitality circulate through
 
 The poor eastern [[Wanemoor District]] adds wet timber hills, shallow iron workings, charcoal roads, and reed fens to this economy. Its district seat, [[Wanenbruck]], governs mine and saw traffic before the land descends toward isolated villages such as Merewick. Wanemoor's Grey Sweat galleries and burial grounds remain public obligations even where later leases placed mines or yards around them.
 
+Central [[Hellerbruck]] stands on the River Weiss above a high limestone quarry. Its bridge, breweries, pottery yards, and bell foundry make it a prosperous charter town rather than an eastern extraction district. The ruined founder ridge and old upper quarry are protected historic ground whose final boundaries have not yet been mapped.
+
 ## Warfare
 
 Brauvalis maintains ducal cavalry, guild militias, river guards, and fortified abbeys. It hires Korrheim companies in crisis and buys Ironvale weapons while fearing both neighbors' political influence.
@@ -61,5 +63,6 @@ Poisoned festival casks, abbey debt, guild elections, concealed congregations, m
 - [[Conflicts and Cultural Struggles]]
 - [[Lives of Korrheim and Brauvalis]]
 - [[Wanemoor District]]
+- [[Hellerbruck]]
 - [[Economy and Trade Overview]]
 - [[Eclessia Overview]]

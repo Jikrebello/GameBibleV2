@@ -1,56 +1,91 @@
 ---
 type: creature
-status: draft
+status: canon
 canon_level: core
 visibility: public
 era: []
 region: []
 culture: []
 related_factions: []
-appears_in: []
+appears_in: ["Grenzburg", "The Duke's Road", "The Drake's Demand"]
 needs: []
 tags: []
 ---
 # Drakes Overview
 
-**Canon ruling: drakes are Faewild court-fauna** — the beasts the Menhir regimes keep as their laws keep weather. Where the right yolk presses into the Material (old groves, moon-ridges, drowned caves, sun-cliffs), drake lines stray or are seeded through, and settle into mortal ecology like half-mythic livestock gone feral. A drake is not a small dragon. A dragon is an abyssal exile-intelligence and the end of a duchy; a drake is an apex animal wearing a court's livery — dangerous the way a flood is dangerous, not the way refusal is. The confusion between the words is in-world canon, chronic, and occasionally fatal to scholarship.
+Drakes are Faewild court-fauna: the beasts the Menhir regimes keep as their laws keep weather. Where the right yolk presses into the Material through old groves, moon-ridges, drowned caves, sun-cliffs, and similar sites, drake lines stray or are seeded through and settle into mortal ecology like half-mythic livestock gone feral.
 
-## The Six Liveries (color = court)
+A drake is not a small dragon. A true dragon is an Abyssal exile-intelligence and a threat to whole realms. A drake is normally an apex animal wearing a court's livery, dangerous in the manner of flood, wildfire, or territorial predator. Confusion between the terms is chronic in-world and occasionally fatal to scholarship.
 
-- **Gold — Father Sun's herd** (the court texts say *Solzareth's*): sun-cliff baskers of heat-shimmer and hoarded metal, drawn to exposure and glare. Their sacred look is accidental, which has founded at least two heresies.
-- **Silver — Mother Moon's** (*Lunara's*): moonlit-ridge and winter drakes, reflective, unnervingly still; the Ättar will not hunt them and will not say why.
-- **Emerald — Sylvorn's** (the land-aspect of Trium): deep-forest lords of narcotic pollen and hunting silence. See the full dossier: [[Emerald Drakes]].
-- **Sapphire — Thalassor's** (the ocean-aspect): cold-water lurkers of lakes and mountain rivers, collectors of drowned tools and bells.
-- **Bronze — the Braided Court's** (the estuary-margin where Thalassor's and Sylvorn's laws overlap): reed-bed ambushers, patient as tide-law, scourges of ferries and pilgrim fords.
-- **Ruby — the Solar Sons'** (the furnace-aspects of Father Sun's line): volcanic and battlefield scavengers, thriving where heat, blood, and metal mix; their presence is a diagnostic sign that a place has been spiritually or ecologically overheated.
+## The Six Liveries
+
+- **Gold — Father Sun's herd:** sun-cliff baskers of heat-shimmer and hoarded metal, drawn to exposure and glare. Their sacred appearance is accidental and has founded several heresies. See [[Gold Drakes]].
+- **Silver — Mother Moon's herd:** moonlit-ridge and winter drakes, reflective and unnervingly still. The Ättar will not hunt them and rarely explain why.
+- **Emerald — Sylvorn's herd:** deep-forest lords of narcotic pollen and hunting silence. See [[Emerald Drakes]].
+- **Sapphire — Thalassor's herd:** cold-water lurkers of lakes and mountain rivers, collectors of drowned tools and bells.
+- **Bronze — the Braided Court's herd:** reed-bed ambushers from the estuary margin where ocean and land laws overlap.
+- **Ruby — the Solar Sons' herd:** furnace and battlefield scavengers drawn to heat, blood, and worked metal. See [[Ruby Drakes]].
 
 ## Lifecycle and Ecology
 
-Drakes clutch rarely and live long; a settled drake is a generational fact, like a pass or a river. Their territories subtly enforce their court's law — game grows lawful around a silver drake's ridge (nothing hunts at the wrong hour), fords silt into new patterns around a bronze — because the beast is a low-grade Faewild anchor. Kill the drake and the local law lapses, which is sometimes the *point* of the hunt and sometimes the disaster after it: the classic hook ("the drake is suppressing something worse") is canon mechanics, not coincidence.
+Drakes clutch rarely and live long. A settled adult is a generational fact like a pass or a river. Its territory subtly enforces its court's law because the animal is a low-grade Faewild anchor. Game follows rigid hours around some silver drakes; a bronze territory repeatedly changes a ford; a gold territory strips shade from exposed stone.
+
+Killing a drake causes that local law to lapse. Sometimes this is the purpose of the hunt. Sometimes it exposes a thin space, releases another predator, or destabilizes weather and ecology after an otherwise necessary kill.
+
+Ordinary drakes can learn routines, recognize individuals, solve immediate problems, and manipulate familiar environments. These abilities remain animal intelligence. Training, injury, feeding, or a magical collar does not make a normal drake a speaking political actor.
+
+## Rare Elder Sapience
+
+In exceptionally old individuals of any lineage, the law-gem may accumulate centuries of ordered sensory and territorial memory. On rare occasions, that memory becomes a stable self capable of language, reflection, long planning, and moral choice. Scholars call this the **elder threshold**.
+
+An elder drake remains an embodied member of its lineage. It does not become a true dragon, patron, Menhir, humanoid people, or immortal spirit. It can be wounded and killed by material means, though age and territorial alignment may make that extremely difficult.
+
+Elder sapience creates accountability. A speaking elder can possess real grievances, form attachments, show restraint, deceive, and choose good or evil. Instinct may explain a desire without excusing a deliberate crime. [[Sovarath-of-the-Open-Noon]] is the best documented present-age example.
+
+The threshold is rare enough that it does not justify treating ordinary drakes as hidden persons. Unusual planning, repeated symbols, language, negotiation across abstractions, and concern for acts beyond immediate territory are stronger evidence than mere cunning.
 
 ## The Heart-Gem
 
-Every drake's heart contains a **law-gem**: crystallized Faewild law, colored to its court, condensing over the beast's lifetime. Uses, in ascending order of trouble: alchemical reagent (potions of the court's virtue — sun-strength, moon-stillness, forest-quiet); warlock-adjacent anchor (a stabilizer for scripts and wards, much cheaper than relic mass); and **counter-engine** — a strong law-gem asserts natural law against unnatural architecture, which is why the Emerald Drake's heart can be turned against a Shadowlands amplifier in the Grenzburg arc. Yolk against yolk. The Church files heart-gems under "creation's medicine, handle with humility"; Vorthara files them under acquisitions.
+Every drake's heart contains a **law-gem**: crystallized Faewild law colored to its court and condensed over the animal's lifetime. It can serve as alchemical reagent, script stabilizer, ward anchor, or counter-engine asserting one natural law against hostile metaphysical architecture.
+
+In an elder, the gem also carries the organized memory supporting the drake's self. Extracting it from a living drake is fatal. Killing an elder and treating the gem as ordinary salvage risks both moral desecration and severe territorial consequences.
+
+The Church files heart-gems under creation's medicine and demands restraint. Vortharan houses treat them as acquisitions. Folk courts often require return, burial, or witnessed exchange. Noble hunt-rights and military requisitions vary by realm.
 
 ## Materials and Markets
 
-Scales (armor that keeps a whisper of the court's law), teeth and claws (tool-steel that never rusts wrong), gland-oils (the alchemists' aristocracy), eggs (prestige, weaponry, and diplomatic catastrophe), and the lair itself (drake-warmed caves and pollen-groves have post-mortem value and post-mortem hazards). Saintly prohibitions, noble hunt-rights, Bank artifact-licenses, and Folk taboos all collide over a confirmed lair — a dead drake is a small war about to happen.
+- **Scales:** armor and instruments retaining a weak court tendency.
+- **Teeth and claws:** durable tool material that resists court-specific decay.
+- **Gland oils and salts:** elite alchemical ingredients.
+- **Eggs:** prestige objects, weapons research, and diplomatic catastrophes.
+- **Law-gem:** powerful anchor whose removal can destabilize a territory.
+- **Lair:** court-shaped land with post-mortem value and post-mortem hazards.
 
-## Signs (before you ever see it)
+A dead drake often begins a conflict over custody before its body cools.
 
-Missing livestock in a pattern, not a panic; local wildlife behaving *lawfully strange* (the same hour, the same paths); shed scales in payment-sized fragments; weather or terrain slightly too regular around one landmark; and Folk seers going quiet about a particular valley.
+## Signs
+
+- livestock losses following a repeated pattern rather than panic;
+- wildlife moving at the same hours or along unnaturally consistent paths;
+- shed scales in payment-sized fragments;
+- weather, heat, water, or vegetation becoming too regular around one landmark;
+- court-specific materials sorted within a midden;
+- local seers refusing to name a particular ridge, ford, cave, or grove.
 
 ## Story Hooks
 
-- The settlement wants the drake dead; the drake's law is the only thing suppressing the thin space under its lair.
-- A faction wants a live egg — and the court the egg belongs to notices.
-- The heart-gem the party carries is slowly enforcing its law on *them*.
-- A "dragon-slaying" hero's trophy is a drake gem — and something in the Church's dragon-records suggests the difference matters urgently, because a real one has begun manifesting where the drake used to keep the law.
+- A settlement needs a drake killed, but its law suppresses a worse thin-space hazard.
+- A faction wants a living egg and attracts the attention of the court from which it came.
+- A carried law-gem slowly enforces its tendency upon a company or town.
+- A supposed dragon-slayer's trophy is a drake gem, while evidence of a true dragon appears where the drake formerly held the land.
+- An ancient drake has begun using language. Determining whether this is genuine elder sapience or an outside intelligence becomes morally urgent.
 
 ## Navigation
 
 - [[Bestiary MOC]]
 - [[Bestiary Framework — Creatures of the World Egg]]
+- [[Gold Drakes]]
 - [[Emerald Drakes]]
+- [[Ruby Drakes]]
 - [[Names of the Menhir, Masks of the Idols]]
 - [[Thin Spaces]]
