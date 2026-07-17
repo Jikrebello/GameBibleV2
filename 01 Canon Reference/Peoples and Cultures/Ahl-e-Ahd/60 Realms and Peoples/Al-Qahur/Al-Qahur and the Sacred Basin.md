@@ -36,9 +36,13 @@ Al-Qahur is strongly Witnessed-Seal. Sealed-Blood pilgrims may enter under super
 
 Uwais fears becoming a ceremonial seal for Nadir and Marzuq. Nadir needs Uwais alive, compliant, and childless. Qahuri councils want fixed limits on military estates, while younger officers argue that only their houses prevent famine and invasion.
 
+## Glass Frontier
+
+[[Qasr Ilyun]] anchors the basin's northern Glass frontier. Its wells, patrols, breach court, and mixed Qahuri-Jirahar expedition economy make it the last dependable gateway before the Great Glass Desert's moving ruin country.
+
 ## Navigation
 
 - [[The Qahuri]]
+- [[Qasr Ilyun]]
 - [[The Disputed Fourth Seal]]
 - [[Status, Slavery, and Manumission in the Covenant]]
-

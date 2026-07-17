@@ -35,6 +35,8 @@ The Jirahar reject Isfir's claim while remembering him as a son of their people.
 
 The towers are larger below ground than above. Their visible spires guard deep halls, cisterns, workshops, schools, stables, burial galleries, refuges, scroll vaults, and Way-Gates. [[Tower Towns and the Prophet's Roads]] indexes the five living towers and [[Qiryath Reqa]], while [[Prophet's Roads and the Underways]] distinguishes threshold travel from engineered tunnels and hidden physical routes.
 
+At [[Qasr Ilyun]], Jirahar road companies maintain memorial paths, expedition records, and rescue obligations alongside Qahuri courts and scouts. Their presence gives them standing for their own people and records, not authority over the town or every desert ruin.
+
 ## The Wider World
 
 [[Jirahar and the Wider World]] controls relations with Eclessia, Thalmyria, the Covenant, Sestara, Tarkhan, Folk, Ättar, and Velians. Host law ranges from protected autonomy to confiscation and expulsion. No foreign state fully trusts a people capable of leaving with its records, skills, and households intact.

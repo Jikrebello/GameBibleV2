@@ -19,8 +19,10 @@ Qahuri life follows flood, planting, pilgrimage, and harvest. Extended household
 
 The military houses consider themselves guardians of Qahuri order. Many Qahuri consider them armed tenants who forgot the lease had an end.
 
+At the basin's desert margin, Qahuri scouts, water families, garrison households, and ruin workers sustain [[Qasr Ilyun]]. Its breach court is a frontier institution, not a model for all Qahuri law.
+
 ## Navigation
 
 - [[Al-Qahur and the Sacred Basin]]
+- [[Qasr Ilyun]]
 - [[The Making of the Covenant Peoples]]
-

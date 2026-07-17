@@ -18,8 +18,8 @@ tags:
 
 This is the authoritative map for the **61 active adventure conversions**.
 
-- **Fully Blocked: 16** - local premise, cast, locations, threats, and branchable ending states have dedicated canon dossiers.
-- **Canon-Locked: 45** - source structure, World Egg placement, culture, premise, and conversion ruling are stable; scene blocking remains.
+- **Fully Blocked: 17** - local premise, cast, locations, threats, and branchable ending states have dedicated canon dossiers.
+- **Canon-Locked: 44** - source structure, World Egg placement, culture, premise, and conversion ruling are stable; scene blocking remains.
 - **Seed: 0** - no active conversion remains an unplaced log line.
 
 A fully blocked adventure makes its starting situation canon. Player outcomes remain open.
@@ -111,10 +111,10 @@ A fully blocked adventure makes its starting situation canon. Player outcomes re
 ### Fully Blocked
 
 - [[Risen from the Glass]]
+- [[The Court That Drank Itself]]
 
 ### Canon-Locked
 
-- [[The Court That Drank Itself]]
 - [[The Garden of Stolen Names]]
 - [[The Gilded City of Avarix]]
 - [[The Serpent Under Qafra]]

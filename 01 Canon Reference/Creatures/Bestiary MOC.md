@@ -45,6 +45,7 @@ tags: []
 - [[Form-Ruins]]
 - [[Great-Horns]]
 - [[Blood-Briar Guests]]
+- [[Many-Handed Tribute Wardens]]
 
 ## Grobi
 

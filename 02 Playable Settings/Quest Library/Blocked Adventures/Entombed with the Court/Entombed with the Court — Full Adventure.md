@@ -229,7 +229,7 @@ This prison-archive contains people Varesh could neither trust nor allow to die.
 - **Fast solution:** burn the archive and deny Varesh its stored dissent.
 - **Freeing solution:** open cells one at a time, distinguish memory from bait, and let prisoners speak names the court prohibited.
 - **Rival intersection:** Vasco discovers Cassian's true orders: take the throne-seal, destroy the genealogy copies, and leave all witnesses inside.
-- **Reward:** the Closed Hand seal, testimony about the Court That Drank Itself, and the exit procession.
+- **Reward:** the Closed Hand seal, testimony that Anshara's courts consumed one another during the collapse, and the exit procession.
 
 ### Dynamic Rivalry
 

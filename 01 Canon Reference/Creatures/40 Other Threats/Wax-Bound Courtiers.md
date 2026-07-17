@@ -1,13 +1,13 @@
 ---
 type: creature
-status: draft
+status: canon
 canon_level: local
 visibility: restricted
 era: ["Age of Chains", "Present Day"]
 region: ["Anshara", "Great Glass Desert"]
 culture: ["Ansharan"]
 related_factions: ["Imperial Court of Anshara"]
-appears_in: ["Entombed with the Court"]
+appears_in: ["Entombed with the Court", "The Court That Drank Itself"]
 needs:
   - assign combat profiles for servant, guard, office-bearer, and court beast forms
 tags: [module-conversion, game-ready]
@@ -59,6 +59,8 @@ Wax-Bound Courtiers do not reproduce. A functioning Ansharan court creates them 
 
 Outside a functioning court, stolen throne-wax can preserve a corpse or memory fragment but cannot sustain a complete household role for long. Modern vampires, relic traders, and war colleges all have reasons to seek samples.
 
+At the [[Palace of the Last Audience]], Wax-Bound Courtiers maintain waiting halls, name removal, and blood-distillery service. They are distinct from [[The Five Memory Cups]]: Courtiers may preserve part of an individual beneath an imposed role, while the Cups contain composite blood-memory impressions rather than whole routed souls.
+
 ## Materials and Uses
 
 - **Throne-wax:** memory preservation, identity coercion, funerary research, and forbidden command magic.
@@ -80,5 +82,7 @@ Using any of these materials risks extending the court's recognition beyond its 
 - [[Bestiary MOC]]
 - [[Entombed with the Court — Full Adventure]]
 - [[Satrap Varesh]]
+- [[The Court That Drank Itself — Full Adventure]]
+- [[Many-Handed Tribute Wardens]]
 - [[Vampire Origins]]
 - [[Vampires in the Present Age]]

@@ -55,6 +55,7 @@ tags: []
 ## Historical Lenses
 
 - [[Prehistory Overview]]
+- [[The Fall of Anshara]]
 - [[Mono-Myth Overview]]
 - [[The Rise of the Atherian Empire Overview]]
 - [[The Rise of the Redeemer]]

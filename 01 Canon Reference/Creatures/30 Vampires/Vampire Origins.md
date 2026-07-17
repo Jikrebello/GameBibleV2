@@ -39,6 +39,10 @@ The creation of the vampire bloodlines from the Giants' blood was both intention
 
 The Giants of The Imperial Court stand as the monumental figures at the heart of vampire mythology, their potent form of primordial vampirism shaping the destiny of their descendants. The vampire bloodlines, each reflecting a facet of their Giants' immense power, carry forward the legacy of pride, sovereignty, and the eternal struggle for dominion over the mortal and immortal realms.
 
+### The Drinking Wars
+
+Anshara did not end in one outside conquest. Mortal vampire houses rebelled, Giant courts drank rivals and their own servants, and competing bloodlines tried to inherit the hierarchy that had made them. [[The Fall of Anshara]] controls the full authorial history; public tradition establishes only that the empire consumed itself and the final sovereign's fate remains unknown.
+
 - **Origin in Divine Blood**: The first vampires were born within this civilization, their dark gifts stemming from the diluted blood of the Giants themselves. These beings were initially revered and feared, embodying the physical manifestation of "The Sovereign's" pride and the isolation that came with it.
 
 - **The Bloodlines Emerge**: As vampire society evolved, distinct bloodlines formed, each tracing its origins back to the Imperial Court and its Giants. These bloodlines, including The Regalis, The Nocturnis, The Sanguine, The Eclipsis, and The Militis, carried forward the legacy of pride, power, and the consequences of isolation.
@@ -51,10 +55,6 @@ The Giants of The Imperial Court stand as the monumental figures at the heart of
 ## Navigation
 
 - [[Bestiary MOC]]
-- [[Canon Index]]
-- [[Canon Index]]
-
-## Navigation
-
+- [[The Fall of Anshara]]
 - [[Vampires in the Present Age]]
 - [[Bestiary Framework — Creatures of the World Egg]]

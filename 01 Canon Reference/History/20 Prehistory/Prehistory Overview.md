@@ -43,7 +43,7 @@ tags: []
 - **Geography:** A plateau empire of satrap-courts, paradise-gardens, and processional roads — the Court of Courts, where the other empires' envoys knelt.
 - **Ruling Giants:** The Giants of the Imperial Court, children of the **Idol of Pride ("The Sovereign")**, whose divine blood carried **primordial vampirism** — sovereignty over life itself made physical (see [[Vampire Origins]]).
 - **Culture and Religion:** Rule as liturgy: rank, radiance, tribute, and the gift-and-curse of the Giants' blood, by which favored mortals were made the first vampires and enemies were cursed through their lineages.
-- **Decline:** Anshara was not broken by the Great Prophet's plagues like its four sisters — **it drank itself**. The bloodlines it had made turned on the Court; the paradise-gardens closed over the wreckage. Its omission from the surviving myths is the oldest redaction in the world; vampire tradition remembers what human tradition was made to forget.
+- **Decline:** Anshara was not broken by the Great Prophet's plagues like its four sisters — **it drank itself**. The bloodlines it had made turned on the Court, Giant courts consumed rivals and households, and the paradise-gardens closed over the wreckage. [[The Fall of Anshara]] controls the authorial account; the final sovereign and capital remain unresolved.
 
 ### Summary
 
@@ -54,4 +54,3 @@ These ancient giant civilizations—**Qianglong, Ishkatar, Xolotl, Nythalum,** a
 - [[Ancient and Early Historic Ages]]
 - [[Timeline MOC]]
 - [[Canon Index]]
-
