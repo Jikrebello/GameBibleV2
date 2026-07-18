@@ -13,13 +13,15 @@ tags: []
 ---
 # Names of the Menhir, Masks of the Idols
 
-**Authorial truth:** the naming drift between cultures reflects the world itself. The great powers do not have one name each; they have one *nature* each and as many names as there are peoples who met them. the same being, read through different theologies, sometimes with opposite moral valence — and no culture's name is "wrong," only partial.
+**Authorial truth:** the naming drift between cultures reflects the world itself. The great powers do not have one name each; they have one nature each and as many names as there are peoples who met them. A name may preserve a real encounter while its theology remains wrong. [[The Great Rebellion and the Yolk Exiles]] controls the shared origin of the Menhir and Idols as transformed angelic cohorts; cultural genealogies do not.
 
 ## Rule for the Vault
 
 Authorial/spine documents use the **plain names** (Father Sun, Mother Moon, Wrath, Greed, the Shadowlands). Cultural and in-world documents may and should use the **masks** below. When an old note uses a mask, it is not an error; it is a source with a perspective.
 
 ## The Menhir — Names
+
+The Menhir are yolk-sovereignties fused with Faewild natural and mythic law. They are no longer ordinary angels, and their law-like existence does not make them gods or moral authorities.
 
 - **Father Sun** = **Solzareth** (the deep or court name, used in Faewild-facing texts and *The Second Circle*; the ruthless arithmetic of daylight) = the Atherian Star Pantheon's chief solar cult = the Ättar's pitiless day-law. One being: the Atherians worshipped him as ordering providence; the Folk fear him as exposure and drought; both are accurate readings of the same law.
 - **Mother Moon** = **Lunara / Lunara Noctis** (the Ättar patron of [[Mother Moon's Bargain]]). The Ättar know the terms of one real covenant but mistake exact enforcement for kinship. The Atherians theologized her at civil distance; neither culture makes her humane.
@@ -29,7 +31,7 @@ Authorial/spine documents use the **plain names** (Father Sun, Mother Moon, Wrat
 
 ## The Idols — Masks
 
-The Idols are meaning-predators; wearing many masks is not incidental to them but *how they feed*. Canonical equivalences:
+The Idols are culpable yolk-sovereignties and meaning-predators. Wearing many masks is not incidental to them but how they feed and intrude without entering the Material Realm in sovereign fullness. Canonical equivalences:
 
 - **Wrath** = **Furor** (Xolotl's blood-cult) = **The Fury** (the name in the Grobi origin-curse). The Grobi are Wrath's oldest surviving harvest.
 - **Greed** = **Avarix** (Ishkatar's serpent-cult).
@@ -39,6 +41,7 @@ The Idols are meaning-predators; wearing many masks is not incidental to them bu
 - **Envy** = **the Rival** — the voice that says *that should be yours*; its network is [[The Weeping Courts]] (Bruckmoor was theirs).
 - **Lust** = **the Beloved** — counterfeit love, devotion-capture; its network is [[The Devoted]].
 - Every Idol-cult in history gets its own mask, and cataloguing them is legitimate in-world scholarship (and a Vorthara research hazard). The full hostile-network index is [[The Atlas of the Left Hand]].
+- Fauna, Masks, and Archmasks are separated in [[Idol Manifestation and Feeding]]. The full encounter register is [[Shadowlands and Idols MOC]].
 
 ## Archaic Terms
 
@@ -54,4 +57,6 @@ A power's masks disagree about its character, and the disagreements are data: wh
 - [[The World Egg Cosmology]]
 - [[Who’s Who in the Cosmology]]
 - [[The Idols Overview]]
+- [[The Great Rebellion and the Yolk Exiles]]
+- [[Shadowlands and Idols MOC]]
 - [[Mono-Myth Overview]]

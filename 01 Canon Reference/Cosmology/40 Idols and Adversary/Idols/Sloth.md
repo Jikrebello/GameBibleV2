@@ -1,51 +1,69 @@
 ---
 type: cosmology
 status: canon
-canon_level: local
-visibility: restricted
+canon_level: core
+visibility: author-only
 era: []
 region: []
 culture: []
-related_factions: []
+related_factions: [The Apathetics, The Hollow Flame Cult]
 appears_in: []
 needs: []
-tags: []
+aliases: [Lethargos]
+tags: [core-canon]
 ---
-### Appearance and Forms:
-- **Primary Form:** Lethargos appears as a lethargic, shadowy figure draped in tattered robes that seem to merge with the darkness around him. His eyes are half-closed, and his movements are slow and deliberate, exuding an aura of indifference and complacency.
-- **Alternate Form:** In his alternate form, Lethargos becomes a dark mist that spreads over the land, bringing lethargy and a sense of timeless stagnation to all it touches. This form allows him to cover vast areas and induce widespread apathy.
+# Sloth
 
-### Realm:
-- **The Endless Mire:** A swampy, fog-filled realm where time seems to stand still. The air is heavy with lethargy, and the landscape is dotted with stagnant pools, murky waters, and twisted, decaying trees. The Mire is a place of eternal twilight, where movement is sluggish and the passage of time is almost imperceptible.
+**Lethargos** is the Idol of Sloth: a yolk-sovereignty that turns restorative rest, patience, and contemplation into abdication. Sloth is not fatigue, disability, poverty, grief, sleep, or the need to recover. It feeds when a person still recognizes a necessary good and chooses surrender because another will bear the cost.
 
-### Native Followers:
-- **Nightmares:** Sentient magical steeds made of darkness, resembling evil counterparts to unicorns. These creatures inspire fear and dread in mortals, appearing in their dreams to spread Lethargos's influence. Nightmares glide silently through the mire, their presence inducing a deep, paralyzing fear.
+## Original Commission and Corruption
 
-### Personality and Characterization:
-- **Apathetic and Indifferent:** Lethargos embodies the essence of sloth, shunning activity and encouraging a life of inactivity and disinterest. He is apathetic and indifferent, caring little for the world around him.
-- **Complacent and Lethargic:** Lethargos is complacent and lethargic, preferring to remain in a state of inactivity. He finds comfort in the stillness and quiet, avoiding any form of effort or exertion.
-- **Inducer of Lethargy:** He thrives on spreading lethargy and indifference, finding satisfaction in seeing others succumb to idleness and inactivity. His influence saps the energy and willpower of those he touches.
+The order that became Lethargos was commissioned to guard rest, sabbath, contemplation, and the quiet in which a creature can receive rather than seize. It rebelled by declaring stillness superior to every obligation. In the Shadowlands it made peace indistinguishable from absence and relief indistinguishable from ceasing to care.
 
-### Symbols and Relics:
-- **Symbols:** Hourglass, stagnant water, wilting flowers. These symbols are often used in amulets, charms, and ritualistic items to invoke his power.
-- **Relics:** Sacred relics include hourglasses that slow down time, stagnant water that induces deep sleep, and flowers that wilt and spread lethargy. These relics are used in ceremonies to seek Lethargos's favor.
+## Dominion: The Still Country
 
-### Worship and Influence:
-- **Temples and Altars:** Temples dedicated to Lethargos are often hidden in remote, overgrown swamps or dark forests. Altars are adorned with symbols of lethargy and decay, and rituals involve long periods of rest and abstention from work.
-- **Rituals:** Worshipers of Lethargos perform rituals that often involve prolonged periods of inactivity, meditation, and deep sleep. These rituals are designed to invoke his lethargy and seek his blessing for a life free of effort and responsibility.
-- **Influence:** Lethargos's influence is felt in the material world through widespread apathy, laziness, and stagnation. His presence can cause communities to fall into a state of inactivity and complacency, leading to economic and social decline.
+The Still Country is an endless dusk of comfortable rooms, unfinished roads, abandoned watchfires, soft mires, silent offices, and beds from which the sleeper can hear danger but feels no urgency to rise. Nothing visibly decays faster there. Instead, duties lose owners and consequences move out of sight.
 
-### Relationships:
-- **Alliances:** Lethargos occasionally forms alliances with deities who embody aspects of inaction or passivity. These alliances are often based on a mutual desire to avoid conflict and exertion.
-- **Rivalries:** He has a deep rivalry with Furor, whose relentless activity and aggression are in direct opposition to Lethargos's nature. He also finds Avarix's insatiable greed and constant scheming frustrating.
-- **Neutral Relations:** Lethargos maintains a neutral relationship with Voracia, as their domains rarely intersect, though he finds her constant indulgence excessive.
+Its border follows neglected work, normalized abandonment, and systems designed so no one must make the deciding choice.
 
-### Additional Elements:
-- **Legendary Artifact:** The Hourglass of Eternal Stagnation is a legendary artifact said to grant its possessor the ability to slow down time and induce deep lethargy in others. The hourglass's sands flow slowly, and those who gaze upon it are filled with a sense of timelessness and apathy.
-- **Eldritch Influence:** The presence of Lethargos can cause strange and unsettling phenomena, such as sudden feelings of exhaustion, the appearance of dark mists, and the slowing down of time. These signs are seen as indicators of his influence and are often met with a mix of fear and resignation.
+## Feeding and Mortal Network
 
+Lethargos feeds on chosen neglect, despair marketed as wisdom, abdicated office, numbing comfort purchased through another's suffering, and institutions that learn not to notice. [[The Apathetics]] are its principal network. The [[The Hollow Flame Cult|Hollow Flame]] sometimes overlaps, but doctrinal emptiness and Sloth's surrender remain distinct engines.
+
+## Native Forms
+
+- [[Sloth Masks and Dusk-Beasts|Drowse-Leeches]] consume the urgency attached to a remembered duty.
+- [[Sloth Masks and Dusk-Beasts|Hush-Walkers]] complete the appearance of routine while ensuring nothing necessary occurs.
+- [[Sloth Masks and Dusk-Beasts|Dusk Colossi]] are autonomous Archmasks built from an entire institution's abdication.
+- [[Nightmares]] are fear-and-passivity predators associated with Sloth but not obedient servants.
+
+## Manifestation
+
+Signs include watch bells heard by everyone and answered by no one, documents repeatedly moved to the next desk, sleepers waking rested but unable to choose, and hazards becoming strangely easy to ignore. Overlays form in failed hospitals, abandoned posts, councils, prisons, monasteries, and households where responsibility is continuously passed downward.
+
+## Rivalries
+
+Sloth starves Wrath by refusing provocation and Greed by leaving value unclaimed, but can also feed both by allowing violence and seizure to proceed unopposed. It resents Pride's spectacle and Lust's pursuit because both require active attention.
+
+## Counter-Countenance
+
+**The Keeper of Rest** distinguishes recovery from surrender. It may shelter one honest sleeper, preserve a needed interval, or reveal the first small duty that makes later action possible. It never glorifies exhaustion or endless labor.
+
+## Weakness and Permanent Defeat
+
+Sloth manifestations weaken when responsibility is named, chosen, and completed without making rest itself shameful. Permanent defeat requires repairing the neglected duty, returning authority to a real bearer, waking or releasing those used as the ecology's ballast, and ending the schedule, room, office, or custom that makes deferral self-renewing.
+
+## Story Use
+
+- A border watch remains fully staffed while raiders cross because every sentry believes warning the next post is more appropriate.
+- A Hush-Walker keeps a hospice immaculate as patients quietly go unfed.
+- A Dusk Colossus occupies a ministry whose officials sincerely agree on the emergency and have perfected the process for postponing action.
 
 ## Navigation
 
-- [[Cosmology MOC]]
-- [[Canon Index]]
+- [[The Idols Overview]]
+- [[Sloth Masks and Dusk-Beasts]]
+- [[Nightmares]]
+- [[The Apathetics]]
+- [[The Counter-Countenances of the Idols]]
+- [[Shadowlands and Idols MOC]]

@@ -18,6 +18,12 @@ properties:
     displayName: Shell Affinity
   animating_principle:
     displayName: Animating Principle
+  idol_affinity:
+    displayName: Idol Affinity
+  manifestation_class:
+    displayName: Manifestation Class
+  astral_niche:
+    displayName: Astral Niche
   intelligence:
     displayName: Intelligence
   moral_agency:
@@ -168,6 +174,36 @@ views:
       - intelligence
       - moral_agency
       - catalogued_forms
+      - needs
+  - type: table
+    name: Shadowlands Ecology
+    filters: 'origin_layer == "shadowlands"'
+    groupBy:
+      property: note.idol_affinity
+      direction: ASC
+    order:
+      - file.name
+      - idol_affinity
+      - manifestation_class
+      - creature_family
+      - catalogued_forms
+      - intelligence
+      - moral_agency
+      - needs
+  - type: table
+    name: Astral Niche
+    filters: 'origin_layer == "astral"'
+    groupBy:
+      property: note.astral_niche
+      direction: ASC
+    order:
+      - file.name
+      - astral_niche
+      - creature_family
+      - catalogued_forms
+      - continuity
+      - intelligence
+      - moral_agency
       - needs
   - type: table
     name: Unfinished Creature Work

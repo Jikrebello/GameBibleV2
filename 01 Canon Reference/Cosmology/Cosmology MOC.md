@@ -15,16 +15,17 @@ tags: []
 
 ## Physical Library
 
-- **10 Foundations:** [[The World Egg Cosmology]], [[Who’s Who in the Cosmology]], [[Names of the Menhir, Masks of the Idols]], and [[The Lord and Redeemer]].
+- **10 Foundations:** [[The World Egg Cosmology]], [[The Great Rebellion and the Yolk Exiles]], [[Who’s Who in the Cosmology]], [[Names of the Menhir, Masks of the Idols]], and [[The Lord and Redeemer]].
 - **20 Realms and Soul-Routes:** [[Material Realm Overview]], [[Elemental Shell and the Four Planes]], the Astral Plane, [[The Vestibule of Weighing]], and [[Hell, Depth, and the Abyss]].
 - **30 Menhir:** [[The Second Circle]], [[The Three-Bodied God Overview]], [[The Horsemen Overview]], [[Lesser Beings]], and the relationships between them.
-- **40 Idols and Adversary:** [[The Idols Overview]], its seven powers, and [[The Adversary]].
+- **40 Idols and Adversary:** [[The Idols Overview]], [[Idol Manifestation and Feeding]], its seven powers, and [[The Adversary]].
 
 ## Start Here
 
 - [[Material Realm Overview]]
 - [[World Egg Setting Primer]]
 - [[The World Egg Cosmology]]
+- [[The Great Rebellion and the Yolk Exiles]]
 - [[Who’s Who in the Cosmology]]
 - [[The Lord and Redeemer]]
 - [[The Adversary]]
@@ -46,12 +47,18 @@ tags: []
 - [[The Egg White Primer]]
 - [[Patrons]]
 - [[Taxonomy of Egg White Patrons]]
+- [[Major Cities and Settlements]]
+- [[Demiplane Atlas]]
+- [[Astral Conclave of Vorthara]]
+- [[Astral Drift and Patrons MOC]]
 
 ## Faewild and Shadowlands Powers
 
 - [[The Idols Overview]]
+- [[Idol Manifestation and Feeding]]
+- [[Shadowlands and Idols MOC]]
 - [[The Mythology of the Idols]]
-- [[The Hidden Virtuous Aspects of the Idols]]
+- [[The Counter-Countenances of the Idols]]
 - [[Relationships within the Menhir]]
 - [[The Mythology of The Menhir]]
 - [[The Second Circle]]

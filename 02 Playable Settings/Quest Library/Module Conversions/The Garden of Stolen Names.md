@@ -69,6 +69,11 @@ Replace making law itself the only obstacle; Qahuri law condemns the fraud while
 
 - [[Gazetteer of the Known World]]
 - [[Setting Commandments]]
+- [[False Lanes, Near-Enoughs, and Name-Shearers]]
+- [[Contract Magic and True Names]]
+- [[The Image, Soul, and Creaturely Continuity]]
+
+The slavers are human agents using name-binding. A Name-Shearer may become an encounter or tool during full blocking, but it is not the secret author of the trade and cannot annihilate a victim's human soul.
 
 ## Research Basis
 

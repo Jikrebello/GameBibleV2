@@ -1,50 +1,39 @@
 ---
-type: cosmology
+type: source-text
 status: canon
-canon_level: local
+canon_level: apocryphal
+reliability: apocryphal
 visibility: restricted
 era: []
 region: []
-culture: []
-related_factions: []
+culture: [Late Atherian]
+related_factions: [The Idols]
 appears_in: []
 needs: []
-tags: []
+tags: [in-world-source]
 ---
-#### The Birth of the Dreamlands:
-In the beginning, the Dreamlands were a vast, formless expanse of raw potential, a realm where reality and imagination intertwined. This ethereal plane was shaped by the collective subconscious of sentient beings, who, in their dreams, gave birth to landscapes, creatures, and entities beyond comprehension.
+# The Mythology of the Idols
 
-#### The First Dreams:
-As the first sentient beings began to dream, their deepest desires, fears, and vices took on forms of their own within the Dreamlands. These primordial dreams were powerful and chaotic, each a reflection of the darkest aspects of the dreamers' souls. From these potent dreams, the Idols were born, each representing one of the seven deadly sins that plagued the hearts of mortals.
+> **Reliability:** This is a late Atherian dream-theory preserved by occult schools and repeated in popular folklore. Its realm descriptions retain useful witness material. Its claim that mortal dreams created the Shadowlands or the Idols is false. See [[The Great Rebellion and the Yolk Exiles]] and [[Idol Manifestation and Feeding]].
 
-#### The Rise of the Idols:
-1. **Avarix - Greed:** The first to emerge was Avarix, born from the insatiable hunger for wealth and power that consumed the hearts of many. He arose from the swirling mists of greed, his realm of the Hoarded Vaults forming around him, filled with unimaginable treasures and guarded by his reptilian followers.
+The old myth says the first human dreams poured into an empty country and became seven rulers. Desire built a garden, anger a furnace, appetite a feast, comparison a dark grove, possession a vault, self-regard a palace, and weariness an endless dusk. Every later dream, the myth claims, added a road or servant to those realms.
 
-2. **Furor - Wrath:** As the anger and rage of sentient beings manifested, Furor burst forth in a blaze of fury. His realm, the Infernal Pits, erupted with fire and lava, reflecting the endless rage that fueled his existence. His death knights, animated by the flames of his wrath, became his relentless enforcers.
+Its teachers used this story to explain why Shadow routes respond to expectation and why an Idol's landscape resembles the vice it cultivates. They mistook responsiveness for origin. The Shadowlands existed before humanity, and the seven sovereigns brought betrayed heavenly commissions into an already living yolk.
 
-3. **Lethargos - Sloth:** From the lethargy and indifference of mortals, Lethargos took shape. His realm, the Endless Mire, became a place of stagnation and stillness, where time seemed to lose meaning. His Nightmares, born of dark magic, roamed this swampy realm, spreading fear and apathy.
+## The Seven Dream-Kings in the Atherian Account
 
-4. **Voracia - Gluttony:** The unending appetite and indulgence of sentient beings gave birth to Voracia. Her realm, the Eternal Feast, was a land of constant overindulgence, where the food never satisfied and the hunger never ceased. Her ghoulish followers, driven by an unending hunger, feasted on all they could find.
+- **Avarix** rises from the first hoard and builds vaults in which possession replaces use.
+- **Furor** rises from the first revenge and makes a burning country where every wound demands another.
+- **Lethargos** rises from the first duty abandoned and spreads dusk across unfinished work.
+- **Voracia** rises from the first feast that denied a hungry neighbor and sets tables that never nourish.
+- **Vaingloria** rises from the first praise kept for oneself and builds a palace from reflected rank.
+- **Luxuria** rises from the first beloved reduced to appetite and plants a garden of counterfeit welcome.
+- **Invidia** rises from the first good hated because another possessed it and darkens a glade of replacement.
 
-5. **Vaingloria - Pride:** From the arrogance and self-admiration of mortals, Vaingloria emerged. Her realm, the Shimmering Palace, was a place of grandiose beauty and isolation, filled with mirrors that reflected the vanity of those who entered. Her spectral peacocks, deadly in their pride, strutted through her palace.
-
-6. **Luxuria - Lust:** The desires and passions of sentient beings gave rise to Luxuria. Her realm, the Garden of Temptation, was a lush paradise designed to arouse and ensnare. Her sirens, succubi, and incubi lured mortals into a cycle of endless desire and indulgence.
-
-7. **Invidia - Envy:** Finally, from the jealousy and resentment of mortals, Invidia was born. Her realm, the Shadowed Glade, was a dark, twisted forest where nothing was ever enough. Her shades, whispering words of envy, fed off the discontent of those who entered.
-
-#### The Rule of the Idols:
-As the Idols grew in power, their influence spread throughout the Dreamlands and into the minds of mortals. They thrived on the vices they represented, drawing strength from the darkest aspects of sentient beings. Their realms became reflections of their nature, each a domain of temptation, corruption, and excess.
-
-#### The Worship of the Idols:
-Mortals, drawn to the power and promises of the Idols, began to worship them. Temples and altars were erected in their honor, and rituals were performed to invoke their favor. The Idols, in turn, granted boons and curses, manipulating mortals to further their own ends.
-
-#### The Eternal Struggle:
-The Dreamlands, shaped by the collective consciousness of sentient beings, became a battleground for the Idols. Each sought to expand their influence, vying for dominance over the dreams and desires of mortals. This eternal struggle ensured that the Idols remained ever-present, feeding on the vices that gave them life and power.
-
-#### Legacy:
-The origin of the Idols serves as a reminder of the darkness that resides within every sentient being. Their existence is a testament to the power of dreams and the influence of the subconscious, shaping the Dreamlands and the waking world alike. The Idols, born of the first dreams, continue to haunt the minds of mortals, ever-watchful, ever-hungry for more.
+The account remains valuable as a record of how Atherian schools encountered the seven heartlands. It is dangerous when used as creator cosmology, because it makes the Idols seem dependent inventions rather than culpable sovereigns who actively cultivate mortal harm.
 
 ## Navigation
 
+- [[The Idols Overview]]
+- [[Reliability Register]]
 - [[Cosmology MOC]]
-- [[Canon Index]]

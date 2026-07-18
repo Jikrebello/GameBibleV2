@@ -19,7 +19,7 @@ This index controls the **28 catalogued Ancient and Crafted forms**. It separate
 
 - [[Constructs by Animating Principle]]
 - [[The Image, Soul, and Creaturely Continuity]]
-- [[Bestiary Canon Register]]
+- [[Bestiary Framework — Creatures of the World Egg]]
 
 ## Ancient Remnants
 
@@ -47,4 +47,3 @@ This index controls the **28 catalogued Ancient and Crafted forms**. It separate
 - [[Shell Anchors and Extraction]]
 - [[Warlock Rune Magic]]
 - [[Bestiary MOC]]
-

@@ -60,11 +60,15 @@ A ritual states its source, operators, materials, boundaries, cost, failure mode
 
 Shared visions and symbolic environments are temporary Shadowlands or Astral overlays, structured residue, patron spaces, or active ancient interfaces. They are not a separate universal mental plane.
 
+For Shadowlands cases, distinguish wild [[Dreadforms]], Idol fauna, dependent Masks, and autonomous Archmasks through [[Idol Manifestation and Feeding]]. For Astral cases, identify route, anchor, rent, tether, owner, and continuity through [[The Egg White Primer]] and [[Astral Drift and Patrons MOC]]. Dreams can reveal or shape a route; they did not create either plane.
+
 ## Navigation
 
 - [[Research and Evidence in Caleran]]
 - [[Haunted Evidence and Possession Procedures]]
 - [[Thin Spaces]]
 - [[Magic Systems Overview]]
+- [[Shadowlands and Idols MOC]]
+- [[Astral Drift and Patrons MOC]]
+- [[Demiplane Atlas]]
 - [[Caleran MOC]]
-

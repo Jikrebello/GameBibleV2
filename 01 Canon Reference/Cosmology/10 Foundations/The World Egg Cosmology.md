@@ -125,7 +125,8 @@ This is why high ritual and rare conditions are usually required for true manife
 
 ### The Menhir
 
-- The Faewild’s sovereign laws: nature-principles made godlike.
+- Former angelic orders transformed into Faewild yolk-sovereignties during the [[The Great Rebellion and the Yolk Exiles|Great Rebellion]].
+- They now express created natural and mythic law at sovereign scale and are no longer ordinary angels.
 - Tiered by “circles” (scale and fundamentalness).
 - They are forces of nature first; cults and myths are secondary.
 
@@ -139,9 +140,11 @@ This is why high ritual and rare conditions are usually required for true manife
 
 ### The Idols
 
-- The Shadowlands’ sovereign engines: devouring patterns given rule.
+- Former angelic orders transformed into Shadowlands yolk-sovereignties during the Great Rebellion.
+- They betrayed commissions over human relation and now rule predatory meaning ecologies.
 - Organized around core predatory structures that feed through identity and society.
-- They are not symbolic morals; they are operational metaphysical ecologies.
+- They are not symbolic morals, products of mortal dreams, or servants of Hell.
+- [[Idol Manifestation and Feeding]] controls their masks, Archmasks, mortal networks, and Material limits.
 
 ### Heavenly Servants and Road Mechanisms
 

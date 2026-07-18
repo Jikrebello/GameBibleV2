@@ -37,7 +37,13 @@ The Making of Saints protocols exist half because of them: an Adored with genuin
 - A noble house's heir has stopped answering letters; the ransom demanded is not money but *attendance*.
 - In the Grenzburg labor camps, someone is being called "the little saint of the timberline" — and Prelate Caestus's inquiry has just been lovingly, comprehensively stonewalled by four hundred witnesses.
 
+## Shadowlands Interface
+
+[[Lust Masks and Invitation-Beasts|Invitation Moths]] carry counterfeit welcome, Desire Doubles embody a desired role, and Adoration Hosts make belonging conditional on surrendering privacy and outside bonds. None is a biological succubus or proof that ordinary attraction is corrupt.
+
 ## Navigation
 
 - [[The Atlas of the Left Hand]]
 - [[Names of the Menhir, Masks of the Idols]]
+- [[Lust]]
+- [[Lust Masks and Invitation-Beasts]]

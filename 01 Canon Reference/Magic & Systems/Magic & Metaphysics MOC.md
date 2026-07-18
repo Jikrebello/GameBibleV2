@@ -45,6 +45,10 @@ tags: []
 - [[The Vestibule of Weighing]]
 - [[The Egg White Primer]]
 - [[Patrons]]
+- [[Taxonomy of Egg White Patrons]]
+- [[Demiplane Atlas]]
+- [[Astral Conclave of Vorthara]]
+- [[Astral Drift and Patrons MOC]]
 
 ## Gameable Rules
 
@@ -52,7 +56,8 @@ tags: []
 - **Contracts and true names:** identity pressure, binding, loopholes, devils as imposed mantles.
 - **Warlock rune magic:** runic scripts draw elemental force from the Shell for war magic, siege craft, and engineered spellwork.
 - **Thin spaces:** local rule failures where myth becomes actionable.
-- **Entropic rent:** stability has upkeep, debt, owners, and failure states.
+- **Entropic rent:** stability has upkeep, owners, and failure states; ordinary repair, shelter, and travel matter as much as debt.
+- **Demiplanes:** every pocket has an anchor, governing law, upkeep, access, owner continuity, and failure state.
 - **Soul routing:** human death, judgement under the Redeemer, passage guarded by the Boatman, interception, saints, angels, and bounded road mechanisms.
 - **Artifact economy:** relics, god-debris, saint anchors, patron leverage, and political ownership.
 

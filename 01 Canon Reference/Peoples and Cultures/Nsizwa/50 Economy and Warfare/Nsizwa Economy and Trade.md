@@ -9,7 +9,7 @@ culture: ["Nsizwa"]
 related_factions: []
 appears_in: []
 needs: []
-aliases: ["Economy and Trade"]
+aliases: []
 tags: []
 ---
 # Nsizwa Economy and Trade

@@ -1,50 +1,69 @@
 ---
 type: cosmology
 status: canon
-canon_level: local
-visibility: restricted
+canon_level: core
+visibility: author-only
 era: []
 region: []
 culture: []
-related_factions: []
+related_factions: [The Long Table]
 appears_in: []
 needs: []
-tags: []
+aliases: [Voracia]
+tags: [core-canon]
 ---
-### Appearance and Forms:
-- **Primary Form:** Voracia is a corpulent figure with an insatiable appetite, constantly surrounded by food and drink. Her skin is a sickly pale, stretched taut over her immense form. Her eyes are glazed with constant hunger, and her mouth is perpetually smeared with the remnants of her latest feast.
-- **Alternate Form:** In her alternate form, Voracia becomes a massive, grotesque creature with multiple mouths and grasping hands, each seeking to consume everything within reach. This form embodies her boundless greed and insatiable hunger.
+# Gluttony
 
-### Realm:
-- **The Eternal Feast:** A realm of endless banquets and overflowing tables, where the food is both tantalizing and revolting. The land itself is made of edible substances, from the trees that drip with syrup to the rivers of wine and syrup. Consuming anything in this realm can lead to never-ending hunger, a torment for those who fall into its trap.
+**Voracia** is the Idol of Gluttony: a yolk-sovereignty that turns nourishment, hospitality, celebration, and legitimate appetite into consumption that cannot receive enough. Gluttony is not bodily size, hunger, feasting, wealth, or enjoyment. It appears when the good consumed is denied its purpose and every limit becomes an insult.
 
-### Native Followers:
-- **Ghouls:** Cannibalistic creatures that feast on anything and everything, driven by unending hunger. These ghouls are grotesque and ravenous, with sharp teeth and claws, constantly searching for their next meal. They serve Voracia with fanatical devotion, hoping to sate their endless appetites.
+## Original Commission and Corruption
 
-### Personality and Characterization:
-- **Greedy and Indulgent:** Voracia embodies the essence of gluttony, constantly seeking to consume more. She is greedy and indulgent, never satisfied no matter how much she devours.
-- **Insatiable Hunger:** Her hunger is never-ending, and she is always in search of the next source of sustenance. She finds pleasure in the act of consumption itself, reveling in excess and indulgence.
-- **Embodiment of Excess:** Voracia represents the dangers of excess and overindulgence, serving as a cautionary figure for those who seek to fulfill their desires without restraint.
+The order that became Voracia was commissioned to guard nourishment, hospitality, creaturely delight, and the shared feast. It rebelled by claiming that every gift existed to enter its own mouth. Fused with the Shadowlands, it made appetite self-justifying and converted guests, land, memory, bodies, and communities into courses.
 
-### Symbols and Relics:
-- **Symbols:** Overflowing plate, goblet, cornucopia. These symbols are often used in amulets, charms, and ritualistic items to invoke her power.
-- **Relics:** Sacred relics include goblets that can never be emptied, plates that refill with food endlessly, and cornucopias that produce an endless supply of delicacies. These relics are used in ceremonies to seek Voracia's favor.
+## Dominion: The Eternal Feast
 
-### Worship and Influence:
-- **Temples and Altars:** Temples dedicated to Voracia are often located in places of abundance, such as fertile valleys or prosperous cities. Altars are adorned with piles of food and drink, and rituals involve lavish feasts and the consumption of vast quantities of food.
-- **Rituals:** Worshipers of Voracia perform rituals that often involve extravagant feasts, competitions of eating and drinking, and offerings of rare and exotic foods. These rituals are designed to invoke her indulgence and seek her blessing for prosperity and abundance.
-- **Influence:** Voracia's influence is felt in the material world through acts of overindulgence and consumption. Her presence can lead to famine and scarcity, as resources are consumed faster than they can be replenished. Communities under her influence may suffer from gluttony and greed, leading to social and economic decline.
+The Eternal Feast is a country of kitchens, banquet roads, slaughter halls, edible gardens, fermentation pools, and tables that lengthen as guests disappear beneath them. Food is abundant and never nourishes. Doors open only after something living has been named as the next course.
 
-### Relationships:
-- **Alliances:** Voracia occasionally forms alliances with deities who embody aspects of excess and indulgence. These alliances are often based on a mutual desire for abundance and pleasure.
-- **Rivalries:** She has a deep rivalry with Nevaura, whose domain of famine and scarcity is in direct opposition to Voracia's nature of excess. She also finds Avarix's constant scheming for wealth irritating, as it distracts from the simple pleasure of consumption.
-- **Neutral Relations:** Voracia maintains a neutral relationship with Lethargos, as their domains rarely intersect, though she finds his inactivity frustrating.
+Disease, parasites, and proliferating spring life remain Veradia's domain. Bodily death, decomposition, and ecological return remain Morvalis's. Voracia exploits consumption and denied sufficiency; it is not a god of rot.
 
-### Additional Elements:
-- **Legendary Artifact:** The Cornucopia of Endless Delights is a legendary artifact said to grant its possessor an endless supply of food and drink. However, the cornucopia is cursed, and those who use it are doomed to suffer from insatiable hunger.
-- **Eldritch Influence:** The presence of Voracia can cause strange and unsettling phenomena, such as sudden outbreaks of gluttony, the appearance of endless banquets, and individuals becoming obsessed with consumption. These signs are seen as indicators of her influence and are often met with a mix of awe and fear.
+## Feeding and Mortal Network
+
+Voracia feeds on engineered addiction, corpse economies, extractive luxury, feast-as-humiliation, consumption of irreplaceable goods, and hierarchies that prove status by making others hungry. [[The Long Table]] scales that appetite through hospitality, supply, and social access.
+
+## Native Forms
+
+- [[Gluttony Masks and Feast-Beasts|Feastlings]] prepare people and places to be consumed.
+- [[Gluttony Masks and Feast-Beasts|Gut-Maws]] are mobile predators made from denied limits.
+- [[Gluttony Masks and Feast-Beasts|Banquet Tyrants]] are Archmasks that turn communities into self-renewing courses.
+- [[Ghouls]] and [[Grave-Runners]] are residue-born predatory intelligences, not routed dead humans.
+
+## Manifestation
+
+Signs include meals that increase hunger, stores emptying without theft, invitations that omit the person who produced the food, and people speaking of human labor as flavor or yield. Overlays form in feast halls, slaughterhouses, addiction markets, besieged granaries, corpse works, and courts where excess is political proof.
+
+## Rivalries
+
+Voracia consumes Greed's hoards, Wrath's casualties, and Lust's objects of desire. Greed hates the loss of recoverable value; Pride resents becoming merely another course. Sloth can preserve a stagnant feast until Gluttony eats the hosts.
+
+## Counter-Countenance
+
+**The Bread-Bearer** reveals enoughness, the excluded guest, and the difference between receiving and consuming. Its food can be shared but not stored, traded, or multiplied.
+
+## Weakness and Permanent Defeat
+
+Gluttony forms weaken when nourishment reaches those denied it, appetite accepts a true limit, and the consumed are restored to names rather than quantities. Permanent defeat requires ending the supply practice that feeds the form, recovering or honoring remains where possible, and destroying the serving vessel, kitchen law, addiction engine, or invitation that makes consumption recur.
+
+## Story Use
+
+- A relief feast keeps a city calm while each course quietly consumes a different rural village's winter reserve.
+- A Gut-Maw follows an army because its officers classify every abandoned settlement as forage.
+- A Banquet Tyrant can end a famine immediately if the city agrees that one hereditary district will become the annual table.
 
 ## Navigation
 
-- [[Cosmology MOC]]
-- [[Canon Index]]
+- [[The Idols Overview]]
+- [[Gluttony Masks and Feast-Beasts]]
+- [[Ghouls]]
+- [[The Long Table]]
+- [[The Counter-Countenances of the Idols]]
+- [[Shadowlands and Idols MOC]]

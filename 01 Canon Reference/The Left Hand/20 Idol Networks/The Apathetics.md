@@ -17,7 +17,7 @@ The Slumberer's heresy, jointly condemned by both great churches: Sloth's networ
 
 ## Doctrine
 
-Not laziness: **surrender marketed as peace**. The Apathetics teach that the war for souls is real and unwinnable, that every exertion — prayer, reform, crusade, even sin — only feeds one hungry power or another, and that the sole unexploitable act is *rest*. "The Fire and the Idols quarrel over the wick. Be the unlit candle; be sweet wax; be still." Their gatherings (**Stillhouses**) offer what no church does: permission to stop. No tithe, no fast, no penance, no cause. The catch is the doctrine's terminus: the Grey Rest, a practiced dimming of desire that ends — the Church alleges, correctly — with souls arriving at the Vestibule *too faded to consent to anything*, which is the Slumberer's actual harvest and the Endless Dusk's recruiting method.
+Not laziness: **surrender marketed as peace**. The Apathetics teach that the war for souls is real and unwinnable, that every exertion — prayer, reform, crusade, even sin — only feeds one hungry power or another, and that the sole unexploitable act is *rest*. "The Fire and the Idols quarrel over the wick. Be the unlit candle; be sweet wax; be still." Their gatherings (**Stillhouses**) offer what no church does: permission to stop. No tithe, no fast, no penance, no cause. The doctrine's terminus is the Grey Rest, a lifetime of practiced abdication in which the person repeatedly chooses not to answer truth, duty, or relation. Sloth feeds during life and prepares refusal; it cannot erase agency, fade a soul into non-personhood, or bypass judgement at the Vestibule.
 
 ## Structure and Signs
 
@@ -33,7 +33,14 @@ They recruit the burned-out: veterans, plague survivors, failed reformers, over-
 - A beloved veteran captain resigns into the Quiet mid-siege; his men start following.
 - An Ember-Visionary's trance reports the same image the Apathetics paint on their walls — and the very calm old nun sent to investigate does not come back different, which is somehow worse: she comes back *sure*.
 
+## Shadowlands Interface
+
+[[Sloth Masks and Dusk-Beasts|Drowse-Leeches]] gather around delayed duties, Hush-Walkers preserve empty routine, and Dusk Colossi form only when a large institution has made abdication into peace. [[Nightmares]] use the dreams of approaching danger to turn preparation into fantasy.
+
 ## Navigation
 
 - [[The Atlas of the Left Hand]]
 - [[Names of the Menhir, Masks of the Idols]]
+- [[Sloth]]
+- [[Sloth Masks and Dusk-Beasts]]
+- [[Nightmares]]

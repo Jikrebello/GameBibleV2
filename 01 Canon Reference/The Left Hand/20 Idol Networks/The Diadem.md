@@ -33,7 +33,14 @@ Vampires above (funnel), Fleshweavers beside (contractors), the Under-Ledger bel
 - A Lapidary offers a companion the lodge's mirror-reading of their life — and it is accurate, flattering, and engineered to be unforgettable.
 - An aging Grenzburg baron (Hochfeld?) has stopped confessing and started building a mausoleum with no door.
 
+## Shadowlands Interface
+
+[[Pride Masks and Court-Beasts|Acclaim Swarms]] feed public recognition, Mirror Heralds certify false sovereignty, and Throne-Born turn an office into a self-source. Vampires are retained human souls and potential allies or beneficiaries, not native Pride Masks.
+
 ## Navigation
 
 - [[The Atlas of the Left Hand]]
 - [[Names of the Menhir, Masks of the Idols]]
+- [[Pride]]
+- [[Pride Masks and Court-Beasts]]
+- [[Vampire Origins]]

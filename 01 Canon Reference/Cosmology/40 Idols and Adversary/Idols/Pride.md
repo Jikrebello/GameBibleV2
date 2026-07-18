@@ -1,51 +1,69 @@
 ---
 type: cosmology
 status: canon
-canon_level: local
-visibility: restricted
+canon_level: core
+visibility: author-only
 era: []
 region: []
 culture: []
-related_factions: []
+related_factions: [The Diadem]
 appears_in: []
 needs: []
-tags: []
+aliases: [Vaingloria]
+tags: [core-canon]
 ---
-### Appearance and Forms:
-- **Primary Form:** Vaingloria is a regal, majestic figure with an air of superiority. She is adorned in luxurious garments and jewels, her posture always upright and commanding. Her presence exudes confidence and arrogance, and her every movement is graceful and deliberate.
-- **Alternate Form:** In her alternate form, Vaingloria appears as a towering, figure made of "cold" light, her features indistinguishable but overwhelmingly beautiful. This form emphasizes her untouchable and divine nature, making her appear even more imposing and unapproachable.
+# Pride
 
-### Realm:
-- **The Shimmering Palace:** A realm of grandiose architecture and opulent beauty. The palace is filled with mirrors and reflective surfaces, emphasizing the importance of appearance and status. Every hall and chamber is designed to showcase beauty and splendor, but the realm's beauty is isolating, as pride separates individuals from one another. The palace's reflective surfaces distort reality, showing those who enter only what they desire to see, further feeding their pride and vanity.
+**Vaingloria** is the Idol of Pride: a yolk-sovereignty that turns human dignity, excellence, office, and right authority into self-worship. Pride is not confidence, achievement, hierarchy, nobility, or public honor. It feeds when a person refuses truth or relation because rank has become proof that the self is its own source.
 
-### Creature Ecology:
-- **Mirror and Heraldic Masks:** Spectral peacocks, flattering doubles, and blinding court displays recur as Pride's visible masks.
-- **Vampiric Inheritance:** [[Vampire Origins|Vampires]] are Pride's most consequential Material inheritance through Ansharan Giant blood. They remain human soul-holders, not a native Shadowlands species.
+## Original Commission and Corruption
 
-### Personality and Characterization:
-- **Arrogant and Self-Centered:** Vaingloria embodies the essence of pride, constantly seeking admiration and validation of her superiority. She is arrogant and self-centered, always placing herself above others.
-- **Haughty and Distant:** Vaingloria maintains an air of haughtiness, distancing herself from those she deems unworthy. She finds pleasure in her isolation, believing herself to be beyond the reach of lesser beings.
-- **Seeker of Admiration:** She thrives on the admiration and praise of others, constantly seeking to reinforce her own sense of superiority. Her need for validation drives her to display her beauty and achievements at every opportunity.
+The order that became Vaingloria was commissioned to guard creaturely dignity, rightful authority, excellence offered in service, and honor given to what is truly good. It rebelled by treating delegated glory as self-created sovereignty. Fused with the Shadowlands, it built a realm in which recognition makes reality and correction becomes an attack on existence.
 
-### Symbols and Relics:
-- **Symbols:** Crown, mirror, scepter. These symbols are often used in amulets, charms, and ritualistic items to invoke her power.
-- **Relics:** Sacred relics include mirrors that show the viewer their most admired self, crowns that grant the wearer an aura of undeniable superiority, and scepters that command respect and admiration. These relics are used in ceremonies to seek Vaingloria's favor.
+## Dominion: The Shimmering Palace
 
-### Worship and Influence:
-- **Temples and Altars:** Temples dedicated to Vaingloria are often located in the most affluent and beautiful areas of cities. Altars are adorned with mirrors, jewels, and luxurious fabrics, and rituals involve displays of wealth, beauty, and achievements.
-- **Rituals:** Worshipers of Vaingloria perform rituals that often involve self-praise, grand exhibitions, and competitions of beauty and skill. These rituals are designed to invoke her admiration and seek her blessing for continued success and recognition.
-- **Influence:** Vaingloria's influence is felt in the material world through acts of pride and vanity. Her presence can lead to social isolation, as individuals become consumed by their own self-importance. Communities under her influence may suffer from a lack of cooperation and unity, as pride drives people apart.
+The Palace is an expanding court-city of mirrors, balconies, empty thrones, processional avenues, portrait halls, and rooms whose size changes with the occupant's perceived rank. Every surface returns an improved self and a diminished companion. Servant passages are physically narrower than the bodies forced to use them.
 
-### Relationships:
-- **Alliances:** Vaingloria occasionally forms alliances with deities who embody aspects of beauty and excellence. These alliances are often based on a mutual desire for admiration and recognition.
-- **Rivalries:** She has a deep rivalry with Invidia, whose domain of envy and resentment is in direct opposition to Vaingloria's nature of pride and superiority. She also finds Luxuria's indulgence in physical pleasures vulgar and beneath her.
-- **Neutral Relations:** Vaingloria maintains a neutral relationship with Avarix, as their domains of pride and greed can sometimes align, though she finds his obsession with wealth distasteful.
+Its heartland advances through cults of personality, uncorrectable office, inherited immunity, and institutions that confuse visible splendor with moral legitimacy.
 
-### Additional Elements:
-- **Legendary Artifact:** The Mirror of Endless Admiration is a legendary artifact said to show its possessor their most admired self. However, the mirror is cursed, and those who gaze into it too long become obsessed with their reflection, unable to look away.
-- **Eldritch Influence:** The presence of Vaingloria can cause strange and unsettling phenomena, such as sudden feelings of grandiosity, the appearance of mirrors that show distorted, flattering reflections, and individuals becoming obsessed with their appearance and achievements. These signs are seen as indicators of her influence and are often met with a mix of admiration and fear.
+## Feeding and Mortal Network
+
+Vaingloria feeds on self-deification, domination, false sovereignty, acclaim purchased through another's erasure, office without accountability, and isolation presented as greatness. [[The Diadem]] cultivates courts, celebrity, religious office, command, and succession around these pressures.
+
+## Native and Inherited Forms
+
+- [[Pride Masks and Court-Beasts|Acclaim Swarms]] turn attention into social pressure.
+- [[Pride Masks and Court-Beasts|Mirror Heralds]] certify counterfeit excellence and rewrite witnesses.
+- [[Pride Masks and Court-Beasts|Throne-Born]] are autonomous Archmasks that construct a court around themselves.
+- [[Vampire Origins|Vampires]] are Pride's greatest Material inheritance through Ansharan Giant blood. They retain genuine human souls and are not native masks.
+
+## Manifestation
+
+Signs include portraits changing before the sitter does, subordinates forgetting who performed a deed, empty chairs receiving deference, and criticism producing physical distortion in the room. Overlays form in palaces, command posts, salons, churches, academies, guild halls, and households organized around one unanswerable person.
+
+## Rivalries
+
+Pride uses Envy to manufacture an audience and Greed to materialize rank, but despises both for implying dependence. Wrath threatens sole glory through indiscriminate violence. Lust can become Pride's courtship mirror until either sovereign refuses to remain an accessory.
+
+## Counter-Countenance
+
+**The Unmirrored Crown** reveals an office stripped of applause and the duties that make it legitimate. It may preserve a true name from flattery or show a ruler the unseen person whose labor sustains the throne.
+
+## Weakness and Permanent Defeat
+
+Pride forms weaken under truthful witness, accepted correction, and authority returned to service. Permanent defeat requires exposing the false attribution, restoring the diminished person's name or standing, delimiting the office's lawful jurisdiction, and breaking the mirror, throne, audience rite, or acclaim engine that lets the form recreate rank. Mere humiliation can feed Wrath or Envy and does not constitute repair.
+
+## Story Use
+
+- A beloved reformer is becoming literally larger while every collaborator disappears from public memory.
+- A Mirror Herald can prove the rightful heir, but only by erasing every competing branch from family records and recollection.
+- A Throne-Born offers peace between rival courts if both accept that all authority descends from its empty chair.
 
 ## Navigation
 
-- [[Cosmology MOC]]
-- [[Canon Index]]
+- [[The Idols Overview]]
+- [[Pride Masks and Court-Beasts]]
+- [[Vampire Origins]]
+- [[The Diadem]]
+- [[The Counter-Countenances of the Idols]]
+- [[Shadowlands and Idols MOC]]

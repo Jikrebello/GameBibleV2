@@ -92,10 +92,13 @@ Destroying a residue-being does not destroy a human soul. It can still be morall
 | Grobi | `wrath-rewritten-life` | None |
 | Driftkin | `drift-rewritten-life` | None |
 | Mundane animal or altered lineage | `biological-pattern` | None |
+| Menhir or Idol sovereign | `yolk-sovereignty` | None |
 | Fey or Menhir court-being | `court-law` | None |
 | Cradle-Hag | `court-law` | None |
 | Skinbound Hag | `retained-human-soul` | Held by the chosen bargain until restored or released |
 | Idol-grown form | `idol-pattern` | None |
+| Wild Shadowlands form | `shadow-pattern` | None |
+| Native Astral person or fauna | `astral-pattern` | None |
 | Shell manifestation | `shell-pattern` | None; no interior person exists |
 | Pure construct or adaptive simulation | `constructed-pattern` | None; no interior person exists |
 | Nythalum Continuant | `giant-memory` | A genuine nonhuman Giant continuity, never a human soul-route |
@@ -105,6 +108,8 @@ Destroying a residue-being does not destroy a human soul. It can still be morall
 | Abyssal catastrophe | `abyssal-wound` | None |
 
 Giltlings, ordinary fey, elder drakes, elementals, Giants, Pale-Skins, patrons, and autonomous constructs therefore possess their own kinds of continuity. None naturally enters the human soul-road.
+
+The Menhir and Idols are a unique historical continuity. They began as angelic cohorts, but forced yolk fusion transformed them into `yolk-sovereignty`; they are no longer ordinary `created-spirit` persons or members of a fallen-angel species. Native Astral persons use `astral-pattern`, while wild Shadowlands life uses `shadow-pattern`. Neither continuity creates the Image.
 
 ## Heaven
 
@@ -143,6 +148,7 @@ The Covenant's 4,444 devil mantles are heterogeneous in authorial canon. Their s
 - Memory is evidence of continuity but not proof of a human soul.
 - Speech and intelligence establish encounter complexity, not membership in humanity.
 - A creature's permanent defeat must follow its continuity: release a held soul, disperse residue, break court-law, interrupt a Shell pattern, destroy an anchor, or close an Abyssal wound.
+- A yolk-sovereign cannot be destroyed or summoned by routine mortal procedures; local victory targets its mask, court, feeding architecture, or dominion overlay.
 - Apparent machine consciousness never transfers blame from designer, owner, commander, or operator to a pure pattern.
 - A folklore name such as `hag`, `demon`, or `devil` never settles continuity by itself.
 - Public notes may preserve uncertainty. Author-only notes and creature properties must follow this ruling.
@@ -156,7 +162,8 @@ The Covenant's 4,444 devil mantles are heterogeneous in authorial canon. Their s
 - [[The Boatman]]
 - [[Bestiary Framework — Creatures of the World Egg]]
 - [[Grobi Overview]]
-- [[Egg White Ecology]]
+- [[Driftkin]]
+- [[Astral Drift and Patrons MOC]]
 - [[Vampire Origins]]
 - [[Ghouls]]
 - [[Hags and Counterfeit Kin]]

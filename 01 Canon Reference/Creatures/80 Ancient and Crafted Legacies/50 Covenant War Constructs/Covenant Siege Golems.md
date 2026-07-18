@@ -76,5 +76,5 @@ This is a reduced but active strategic arm, not a vanished wonder.
 - [[Covenant Armies and the Tarkhan Frontier]]
 - [[The Invasion and the Fall]]
 - [[The Battle of the Shattered Engines (907 AR)]]
-- [[The Long Reconquest]]
+- [[The Long Reconquest (908-1052 AR)]]
 - [[The Image, Soul, and Creaturely Continuity]]

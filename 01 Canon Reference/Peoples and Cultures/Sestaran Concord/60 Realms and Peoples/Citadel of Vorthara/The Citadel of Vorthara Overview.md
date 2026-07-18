@@ -48,6 +48,12 @@ Vorthara operates four permanent Shell anchors: the Crucible Mouth, Floodglass I
 
 Their output underwrites warlock training, dangerous industry, export instruments, and the city's claim to technical preeminence. Exact access geometry remains compartmentalized even among Vortharans. [[Shell Anchors and Extraction]] holds the authorial register.
 
+### The Astral Conclave
+
+During scheduled Black Spire alignments, temporary host compacts open the [[Astral Conclave of Vorthara]] inside the Spire-Annex. It is the best-known Material market for patrons, demiplanes, route services, and Astral shelter. The Collegium of Doors proves access while rival schools and independent brokers supply security, surety, and clients.
+
+The Conclave is not a city government. Its rules apply only to a session and its Annex; no faction gains authority over unrelated Vortharan wards by hosting it.
+
 ## Ordinary Life
 
 Most residents are carriers, cooks, builders, laundresses, clerks, ward hands, miners, gardeners, healers, performers, servants, traders, and families living around magical institutions rather than practitioners. Arenas test products and settle some disputes, but they do not define every neighborhood.
@@ -62,4 +68,6 @@ The Spire's unknown function, faction procurement, missing bodies, Black Spire l
 - [[Magical Schools and Factions of Vorthara]]
 - [[Shell Anchors and Extraction]]
 - [[Ironbound Frames]]
+- [[Astral Conclave of Vorthara]]
+- [[Astral Drift and Patrons MOC]]
 - [[Sestara and the Wider World]]

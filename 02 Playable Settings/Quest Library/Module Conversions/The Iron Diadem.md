@@ -68,6 +68,10 @@ Replace generic Thalmyric placement; make it a Veridun succession relic whose cl
 
 - [[Gazetteer of the Known World]]
 - [[Setting Commandments]]
+- [[Pride Masks and Court-Beasts]]
+- [[Idol Manifestation and Feeding]]
+
+The inherited command-presence is not automatically a Pride Mask. Blocking must decide whether the Diadem holds a Mask, residue, Giant reconstruction, or crafted office before assigning continuity.
 
 ## Research Basis
 

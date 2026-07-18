@@ -9,7 +9,7 @@ culture: []
 related_factions: []
 appears_in: []
 needs:
-  - Complete waves three through six recorded in the Bestiary expansion queue.
+  - Complete the cross-cutting, regional naming, and adventure-demand closure pass.
 tags: []
 ---
 # Bestiary Translation Concordance
@@ -43,14 +43,14 @@ This is the creator-only crosswalk for the supplied Pathfinder monster taxonomy.
 
 | Source archetype | Result | World Egg destination |
 |---|---|---|
-| Demons: dretches through balors, including succubi/incubi | `merge` | Idol-grown forms, [[Mirebound and Grudge-Bearers|damned transformations]], and [[Black-Mud Spawn and Wound-Worms|Abyssal wounds]] classified by provenance rather than a demon species ladder |
+| Demons: dretches through balors, including succubi/incubi | `merge` | [[Shadowlands and Idols MOC|Idol fauna, Masks, and Archmasks]], [[Mirebound and Grudge-Bearers|damned transformations]], and [[Black-Mud Spawn and Wound-Worms|Abyssal wounds]] classified by provenance rather than a demon species ladder |
 | Devils: lemures through pit fiends, including imps, erinyes, and contract devils | `merge` | [[Whisper-Mantles and Ash Advocates|contractual mantles]], [[Chain Keepers and Mire Marshals|imposed offices]], and native [[Bone-Reef Crawlers and Hell-Drakes|Depth fauna]]; `devil` remains an office label |
 | Daemons: cacodaemons through olethrodaemons | `merge` | [[Shore-Lures and Soul-Hooks|Soul predators]], [[Name-Strippers]], and Hell fauna; no neutral death empire |
 | Qlippoth | `existing` | [[Black-Mud Spawn and Wound-Worms]] and [[Occlusion Beasts and Null-Maws]] provide nonhuman Abyssal wound ecologies |
 | Asuras | `merge` | Failed offices, counterfeit revelations, and Adversary propaganda; creation is not a divine accident |
 | Divs | `merge` | Avarix sabotage, ruin-forms, and civilization-eating curses |
 | Kytons or velstracs | `expand` | Vortharan fleshworks, damned mutilation offices, and pain cults without a unified species |
-| Sahkils | `expand` | Nightmare and Idol fear ecologies organized by specific fear compulsions |
+| Sahkils | `merge` | [[Dreadforms]] and [[Nightmares]] provide fear ecologies with specific signs, anchors, and defeat conditions |
 | Oni | `merge` | Corrupted place-forms, Giant remnants, or Menhir office-breakers according to origin |
 
 ## Monitor Crosswalk
@@ -58,7 +58,7 @@ This is the creator-only crosswalk for the supplied Pathfinder monster taxonomy.
 | Source archetype | Result | World Egg destination |
 |---|---|---|
 | Psychopomps: nosoi, esobok, vanth, shoki, morrigna, memitim, kere, yamaraj | `merge` | [[The Boatman]], commissioned angels or saints, and impersonal [[Soul-Road Functionaries]]; no neutral psychopomp society |
-| Proteans: voidworm, naunet, imentesh, keketar | `merge` | Astral instability, route fauna, and drift-rewritten sovereign patterns |
+| Proteans: voidworm, naunet, imentesh, keketar | `merge` | [[Protons of the Drift]], [[False Lanes, Near-Enoughs, and Name-Shearers|route predators]], [[Anchor-Lords]], and [[Great Drift Beings]] |
 | Aeons | `merge` | World-correction mechanisms and rare infrastructure offices, without moral neutrality above the Lord |
 | Inevitables | `expand` | Atherian, Giant, or soul-road enforcement constructs with bounded mandates |
 
@@ -73,7 +73,7 @@ This is the creator-only crosswalk for the supplied Pathfinder monster taxonomy.
 | Vampires and nosferatu | `existing` | [[Vampires in the Present Age]] and its five lines |
 | Ghosts, shadows, spectres, wraiths, banshees, poltergeists, phantoms | `new-family` | Restless-residue families divided by anchor, memory, and compulsion |
 | Mummies | `merge` | Giant office-dead, preserved rulers, and court-bound human souls according to provenance |
-| Liches and demiliches | `unique` | Individual human self-anchoring projects; never a routine species |
+| Liches and demiliches | `unique` | Individual persistence projects; every case declares retained soul, bound soul, refusing soul, residue intelligence, reconstruction, or copy |
 | Graveknights, dullahans, undead warlords, phantom armour | `new-family` | Bound champions and imposed martial offices |
 | Revenants, mohrgs, herexens | `template` | Revenge-bound, murder-fed, or heresy-imprinted residue conditions |
 | Nightshades, devourers, bodaks, deathwebs | `merge` | Apex soul predators, black-mud forms, and Ghoul/Idol ecologies |
@@ -136,7 +136,7 @@ This is the creator-only crosswalk for the supplied Pathfinder monster taxonomy.
 | Air, earth, fire, and water elementals | `existing` | [[Primal Shell Manifestations]]; non-personal bodies formed from one quadrant |
 | Ice, magma, mud, smoke, steam, lightning, ash, and crystal para-elementals | `existing` | [[Seam and Mixed-Script Manifestations]], not independent peoples |
 | Elemental fauna | `existing` | [[Anchor Fauna]] selected by platform ecologies rather than biological descent |
-| Djinn, shaitan, efreet, marid, and jann | `exclude` | No genie nations or native elemental humanoid civilizations |
+| Djinn, shaitan, efreet, marid, and jann | `merge` | [[Anchor-Lords]] provide singular genie-like Astral palace owners; no elemental ancestry or genie nation is imported |
 | Mephits and other minor elemental beings | `merge` | [[Script-Bound Servitors]], [[Cinder-Bound]], and anchor fauna |
 | Elemental lords and sovereigns | `merge` | [[Great Coherences]] or imposed Menhir interpretations; pure Shell patterns never become self-aware |
 
@@ -219,11 +219,22 @@ The first controlled condition set is [[Creature Conditions and Templates|residu
 1. **Complete:** Material and Residue + Heaven and Soul-Road.
 2. **Complete:** Faewild and Menhir + Hell and Abyss.
 3. **Complete:** Ancient and Crafted Legacies + Elemental Shell.
-4. **Next:** Shadowlands and Idols + Astral Drift and Patrons.
-5. Cross-Cutting Conditions and regional naming.
+4. **Complete:** Shadowlands and Idols + Astral Drift and Patrons.
+5. **Next:** Cross-Cutting Conditions and regional naming.
 6. Adventure-demand audit and final registry balancing.
 
 Each wave receives a focused implementation plan before its family dossiers are expanded.
+
+## Author-Only Design Sources
+
+The completed Shadowlands and Astral wave used the following as structural scaffolding only:
+
+- [Warhammer Chaos Daemons](https://www.warhammer-community.com/en-gb/topics/chaos-daemons/) for the design value of power-specific realms, ecologies, and manifestation texture;
+- [Pathfinder Demon Lords](https://aonprd.com/MonsterFamilies.aspx?ItemName=Demon+Lord) for singular realm-lord encounter roles;
+- [Pathfinder Sahkils](https://aonprd.com/MonsterFamilies.aspx?ItemName=Sahkil) for fear-predator family differentiation;
+- [Pathfinder Proteans](https://aonprd.com/MonsterSubtypes.aspx?ItemName=Protean) for mutable outsider and route-hazard coverage.
+
+No borrowed name, visual identity, faction, alignment structure, or setting lore enters public canon.
 
 ## Navigation
 

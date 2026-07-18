@@ -6,7 +6,7 @@ visibility: author-only
 era: ["Present Day", "1360 AR"]
 region: ["Caleran"]
 culture: []
-related_factions: ["The Undertow", "The Under-Ledger", "The Idols"]
+related_factions: ["The Undertow", "The Under-Ledger", "The Weeping Courts", "The Devoted"]
 appears_in: ["Caleran"]
 tags: [game-ready]
 ---
@@ -30,6 +30,8 @@ Predatory capital is mixed into ordinary grain, excavation, and construction fin
 
 A Weeping Courts and Devoted collaboration cultivates a celebrated healing reputation around selected hospices and patrons. Genuine charity creates trust; manipulated comparison, jealousy, and dependency turn that good into food.
 
+The operation begins with [[Envy Masks and Replacement-Beasts|Comparison Leeches]], [[Lust Masks and Invitation-Beasts|Invitation Moths]], and staged testimony. A [[Borrowed Saints|Borrowed Saint]] or Desire Double appears only after the human network has made a durable feeding architecture. Neither Idol manifests bodily in Caleran.
+
 ## Interlock
 
 - Undertow buyers need bodies; Fleshweavers can hide removal but want material rather than souls.
@@ -48,4 +50,5 @@ Repeated one-person discrepancies, provenance that is correct but too complete, 
 - [[The Under-Ledger]]
 - [[Caleran Faction Board]]
 - [[The Ossuary Heresy - Caleran Adventure]]
-
+- [[Idol Manifestation and Feeding]]
+- [[Shadowlands and Idols MOC]]

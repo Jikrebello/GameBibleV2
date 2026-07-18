@@ -33,6 +33,8 @@ The second creature expansion wave is preserved under `90 Project History/2026-0
 
 The third creature expansion wave is preserved under `90 Project History/2026-07 Ancient Crafted and Shell Wave`. [[Ancient Crafted and Shell Wave Migration Manifest]] records the eighteen Shell forms, twenty-eight crafted forms, fourteen anchors, Giant continuity ruling, Covenant engines, and construct-focused adventure reconciliation.
 
+The fourth creature expansion wave is preserved under `90 Project History/2026-07 Shadowlands and Astral Wave`. [[Shadowlands and Astral Wave Migration Manifest]] records the forty-two Shadowlands forms, eighteen Astral forms, Great Rebellion ruling, seven Idol ecologies, Astral anchor regimes, and fourteen-entry Demiplane Atlas.
+
 ## Subject Archives
 
 - **10 Cosmology:** superseded cosmological phases and entity versions.

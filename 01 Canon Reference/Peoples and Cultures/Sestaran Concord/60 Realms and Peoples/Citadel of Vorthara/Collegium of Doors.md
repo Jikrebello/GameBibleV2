@@ -33,6 +33,8 @@ Students learn four practical disciplines:
 
 Its graduates become leak-wardens, siege consultants, vault designers, summoning supervisors, and professional proof-breakers.
 
+The Collegium also proves thresholds for the recurring [[Astral Conclave of Vorthara]]. It certifies declared anchors and exits for one market session at a time. This gives the school influence without authority over the other host factions or the city as a whole.
+
 ## Internal Culture
 
 The Collegium values elegant failures almost as highly as successful defenses. This produced excellent engineers and a dangerous reverence for tests that hurt enough to be memorable. Breach-Week turned that attitude into public prestige.
@@ -50,3 +52,4 @@ The faction can survive [[Breach-Week — Full Adventure]] as a reformed public-
 - [[The Citadel of Vorthara Overview]]
 - [[Magical Schools and Factions of Vorthara]]
 - [[Breach-Week — Full Adventure]]
+- [[Astral Conclave of Vorthara]]

@@ -68,6 +68,11 @@ Replace an interchangeable town; place it in Caldria and root the accusation in 
 
 - [[Gazetteer of the Known World]]
 - [[Setting Commandments]]
+- [[Demiplane Atlas#Midnight Glass|Midnight Glass demiplane baseline]]
+- [[False Lanes, Near-Enoughs, and Name-Shearers]]
+- [[The Image, Soul, and Creaturely Continuity]]
+
+The atlas fixes the mirror ecology and access rule, not the claimant's continuity. Full blocking must distinguish original victim, routed soul, residue, copy, and Astral predator rather than treating every reflection as the same kind of person.
 
 ## Research Basis
 

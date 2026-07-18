@@ -24,6 +24,12 @@ True angels are created spirits with full agency. A loyal angel serves through t
 - A devil mantle may constrain a fallen angel only if a particular case establishes how the office gained a true-name handle. The mantle would not change angelic continuity.
 - This wave establishes no routine restoration path. Reconciliation, further judgement, or permanent defeat must be decided for the named individual and cannot be produced by a spell or inherited procedure.
 
+## The Yolk Exiles Are the Historical Exception
+
+The angelic cohorts that became the Menhir and Idols did fall through chosen rebellion, but they did not remain ordinary created spirits. Their forced fusion with the Faewild and Shadowlands transformed them into yolk-sovereignties. They are seven Idol sovereigns and the established Menhir powers, not evidence for a reusable fallen-angel species.
+
+Every other fallen angel remains a named created-spirit individual. A mask, Commission Husk, devil office, radiant patron, or claimed Menhir child must not be promoted into a fallen angel without its own continuity evidence.
+
 ## Required Individual Dossier
 
 Every future fallen angel must receive a named character or unique-creature dossier establishing:
@@ -45,3 +51,5 @@ Fallen angels do not contribute a form to the Hell catalogue. They remain except
 - [[Hell, Depth, and the Abyss]]
 - [[Hell and Abyss MOC]]
 - [[The Image, Soul, and Creaturely Continuity]]
+- [[The Great Rebellion and the Yolk Exiles]]
+- [[First-War Remnants]]

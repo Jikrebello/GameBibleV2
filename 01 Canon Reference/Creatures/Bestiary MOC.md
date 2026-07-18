@@ -101,37 +101,38 @@ tags: []
 
 ## 30 Shadowlands and Idols
 
-### Grobi
+- [[Shadowlands and Idols MOC]] - exact register for 42 forms.
+- [[The Idols Overview]]
+- [[Idol Manifestation and Feeding]]
 
-- [[Grobi Overview]]
-- [[Goblins]]
-- [[Hobgoblins]]
-- [[Orcs]]
-- [[Ogres]]
-- [[Trolls]]
+### Seven Idol Ecologies
 
-### Vampires
+- **Greed:** [[Greed Masks and Claim-Beasts]]
+- **Wrath:** [[Wrath Masks and War-Beasts]] and [[Grobi Overview]]
+- **Sloth:** [[Sloth Masks and Dusk-Beasts]] and [[Nightmares]]
+- **Gluttony:** [[Gluttony Masks and Feast-Beasts]], [[Ghouls]], and [[Grave-Runners]]
+- **Pride:** [[Pride Masks and Court-Beasts]], [[Vampires in the Present Age]], and [[Bloodlines Overview]]
+- **Lust:** [[Lust Masks and Invitation-Beasts]]
+- **Envy:** [[Envy Masks and Replacement-Beasts]] and [[Borrowed Saints]]
 
-- [[Vampires in the Present Age]]
-- [[Vampire Origins]]
-- [[Bloodlines Overview]]
-- [[The Regalis]]
-- [[The Nocturnis]]
-- [[The Sanguine]]
-- [[The Eclipsis]]
-- [[The Militis]]
+### Wild Shadowlands
 
-### Other Idol Ecologies
-
-- [[Ghouls]]
-- [[Grave-Runners]]
-- [[Nightmares]]
-- [[Borrowed Saints]]
+- [[Dreadforms]]
+- [[First-War Remnants]]
+- [[Before-Shapes]]
 
 ## 40 Astral Drift and Patrons
 
-- [[Egg White Ecology]] - controls Driftkin and the initial Proton catalogue.
+- [[Astral Drift and Patrons MOC]] - exact register for 18 forms.
+- [[The Egg White Primer]]
+- [[Demiplane Atlas]]
+- [[Driftkin]]
+- [[Protons of the Drift]]
 - [[Ward-Eaters]]
+- [[False Lanes, Near-Enoughs, and Name-Shearers]]
+- [[Patron Servitors]]
+- [[Anchor-Lords]]
+- [[Great Drift Beings]]
 
 ## 50 Elemental Shell
 
@@ -239,7 +240,7 @@ tags: []
 1. **Complete:** Material and Residue + Heaven and Soul-Road.
 2. **Complete:** Faewild and Menhir + Hell and Abyss.
 3. **Complete:** Ancient and Crafted Legacies + Elemental Shell.
-4. **Next:** Shadowlands and Idols + Astral Drift and Patrons.
-5. Cross-cutting conditions, regional names, and adventure-demand closure.
+4. **Complete:** Shadowlands and Idols + Astral Drift and Patrons.
+5. **Next:** cross-cutting conditions, regional names, and adventure-demand closure.
 
 Each wave should add only the families its focused plan can place, distinguish, and make useful.

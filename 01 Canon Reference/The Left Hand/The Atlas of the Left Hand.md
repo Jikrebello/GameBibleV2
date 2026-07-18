@@ -28,6 +28,8 @@ Evil in the World Egg is **plural and competitive**, not a pyramid. Four distinc
 
 Standing creature-side infrastructure cross-references: the vampire bloodlines (human souls retained by Ansharan blood liens), the ghoul-cities (Gluttony's logistics), the Nightmares (Sloth's cavalry), and the Hollow-Kings, whose place in these supply chains remains unknown.
 
+[[Idol Manifestation and Feeding]] controls why free mortal choices and scalable institutions produce denser food than repetitive Shadow behavior. [[Shadowlands and Idols MOC]] controls the fauna, Masks, Archmasks, altered lineages, and wild forms used by these networks. A mortal cell does not automatically command its Idol's creatures.
+
 Caleran's active regional interlock is recorded in [[Secret Networks of Caleran]]: Undertow body theft, Fleshweaver procurement, Under-Ledger finance, and an Idol operation built around borrowed sanctity.
 
 ## The Interlock Rule
@@ -39,4 +41,8 @@ When writing any villain plot, identify **which supply chain profits** — refus
 - [[The World Egg Cosmology]]
 - [[Names of the Menhir, Masks of the Idols]]
 - [[The Adversary]]
+- [[The Idols Overview]]
+- [[Shadowlands and Idols MOC]]
+- [[Taxonomy of Egg White Patrons]]
+- [[Astral Drift and Patrons MOC]]
 - [[Canon Index]]

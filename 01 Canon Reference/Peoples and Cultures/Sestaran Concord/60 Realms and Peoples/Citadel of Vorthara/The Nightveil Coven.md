@@ -31,6 +31,6 @@ Nightveil sells secrecy and intelligence while insisting it can distinguish obse
 
 ## Navigation
 
-- [[The World Egg Cosmology#B) The Shadowlands|The Shadowlands]]
+- [[The World Egg Cosmology#B) The Shadowlands (Left Yolk)|The Shadowlands]]
 - [[The Citadel of Vorthara Overview]]
 - [[The Pale Hand]]

@@ -70,6 +70,11 @@ Replace generic Sestaran entry and automatic Astral rent; make the deck a Vardes
 
 - [[Gazetteer of the Known World]]
 - [[Setting Commandments]]
+- [[Demiplane Atlas#Shuffled House|Shuffled House demiplane baseline]]
+- [[The Egg White Primer]]
+- [[Taxonomy of Egg White Patrons]]
+
+The dead patron may be the artifact's maker or former operator without remaining its present soul. Full blocking must classify every speaking house authority as pattern, copy, residue, bound soul, or living intruder.
 
 ## Research Basis
 

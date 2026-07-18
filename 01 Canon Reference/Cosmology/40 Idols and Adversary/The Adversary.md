@@ -15,6 +15,8 @@ tags: [core-canon]
 
 The Adversary is the terminal principle of chosen refusal: the will to reject communion, deny moral dependence, and turn separation into an ultimate good. It occupies the far-left extremity beyond mapped Hell, associated with the Abyss rather than ruling Hell as one empire.
 
+At humanity's creation the Adversary led the [[The Great Rebellion and the Yolk Exiles|Great Rebellion]]. The cohorts later transformed into the Menhir and Idols fought beside it, then deserted it after defeat rather than follow completed refusal. Their second betrayal created independent yolk-sovereignties, not subordinate branches of the Adversary's kingdom.
+
 ## Refusal
 
 The Adversary does not create an alternative good. It takes real goods such as freedom, justice, memory, shelter, identity, and law, then teaches that they can be secured only by refusing the relationships that make them meaningful.
@@ -75,6 +77,7 @@ Hell-Drakes are merely native animals. Menhir drakes are court-fauna. Neither is
 ## Relationship to Other Left-Hand Powers
 
 - **Idols** feed through vice-shaped meaning ecologies. They may prepare souls for refusal but remain independent engines.
+- **Menhir** govern created natural and mythic laws through Faewild sovereignty. Their rebellion and moral limits do not make them servants of the Adversary.
 - **Patrons** seek rent, continuity, custody, and dependence.
 - **The Undertow** intercepts soul passage.
 - **Devil mantles** enforce assigned offices for whoever controls the relevant instrument.
@@ -99,5 +102,6 @@ No created predator or Abyssal wound can annihilate a human soul. Soul injury, i
 - [[Hell and Abyss MOC]]
 - [[The Image, Soul, and Creaturely Continuity]]
 - [[The Idols Overview]]
+- [[The Great Rebellion and the Yolk Exiles]]
 - [[The Atlas of the Left Hand]]
 - [[Cosmology MOC]]

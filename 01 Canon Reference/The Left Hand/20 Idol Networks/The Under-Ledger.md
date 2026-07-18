@@ -36,7 +36,13 @@ The Medori hunt them (nothing threatens a real bank like a fake one inside it); 
 - A hoard-cult noble dies; the locked room contains no gold — only deeds, teeth, locks of hair, and one true-name tablet with a Grenzburg name on it.
 - The Comptroller's Circle offers the Duke a winter of grain at an interest rate that is, genuinely, generous. The catch is in what currency the interest compounds.
 
+## Shadowlands Interface
+
+[[Greed Masks and Claim-Beasts|Claim-Mites]] expose unattended or manufactured claims, Hoardlings defend withheld goods, and Gilded Claimants attempt to turn a captured institution into an Avarix jurisdiction. Most cells never control an Archmask; those that invite one become assets in its court.
+
 ## Navigation
 
 - [[The Atlas of the Left Hand]]
 - [[Names of the Menhir, Masks of the Idols]]
+- [[Greed]]
+- [[Greed Masks and Claim-Beasts]]

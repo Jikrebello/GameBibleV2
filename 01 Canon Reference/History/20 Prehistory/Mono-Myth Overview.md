@@ -15,7 +15,7 @@ tags:
 ---
 # Mono-Myth Overview
 
-> **Authorial status:** This is an apocryphal in-world synthesis reconstructed from traditions of the Scattering. The Great Rebellion happened, but its named traitors were individual created spirits. The [[Relationships within the Menhir|Menhir]] already existed as created natural and mythic laws, while the Idols arose within Shadowlands meaning-pressure. Rebels, Giants, and later cults sought shelter, power, and propaganda through those pre-existing structures; they did not become the Menhir or create a species of fallen angel. The account below compresses alliance, imitation, alteration, and usurpation into genealogy. "Dreamlands" is its archaic term for the Shadowlands. See [[Names of the Menhir, Masks of the Idols]] and [[Fallen Angels and Broken Commissions]].
+> **Authorial status:** This is an apocryphal in-world synthesis reconstructed from traditions of the Scattering. The Great Rebellion happened, and the cohorts later known as the Menhir and Idols did fight beside the Adversary before deserting him and forcing themselves into the yolks. Their fusion created yolk-sovereignties rather than a reusable fallen-angel species. The account below remains unreliable about sequence, motives, Giant descent, and the nature of the Dreamlands. See [[The Great Rebellion and the Yolk Exiles]], [[Names of the Menhir, Masks of the Idols]], and [[Fallen Angels and Broken Commissions]].
 
 #### **1. Creation and the Fall of Humanity**
 

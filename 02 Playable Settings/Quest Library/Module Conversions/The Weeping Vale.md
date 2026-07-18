@@ -69,6 +69,11 @@ Replace the whole vale as a contract and consent puzzle; Regalis jurisdiction ca
 
 - [[Gazetteer of the Known World]]
 - [[Setting Commandments]]
+- [[Vampire Origins]]
+- [[Pride Masks and Court-Beasts]]
+- [[The Image, Soul, and Creaturely Continuity]]
+
+The Regalis elder remains a retained human soul. Pride ecology can amplify his court, but does not replace his personal culpability or make him an Archmask.
 
 ## Research Basis
 

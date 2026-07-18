@@ -33,7 +33,13 @@ Wrath's battlefields feed the Idol either way, so the Tally cooperates smoothly 
 - A Grenzburg Folk feud the Duke thought settled resurfaces with dates, names, and a written tally no clan admits keeping.
 - A Collector refuses a mature account for the first time in her life — and comes to the party for protection, carrying the ledger.
 
+## Shadowlands Interface
+
+[[Wrath Masks and War-Beasts|Feud-Hounds]] hunt the inherited target class, Red Reckoners expand accurate grievances into collective guilt, and Pyre-Crowned turn mature accounts into permanent war. The Tally can direct these forms but cannot guarantee that it will remain outside their target list.
+
 ## Navigation
 
 - [[The Atlas of the Left Hand]]
 - [[Names of the Menhir, Masks of the Idols]]
+- [[Wrath]]
+- [[Wrath Masks and War-Beasts]]

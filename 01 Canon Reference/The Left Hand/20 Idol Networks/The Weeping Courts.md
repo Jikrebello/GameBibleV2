@@ -39,9 +39,15 @@ The relic courts and the Order of the Lantern are their professional enemies; th
 - A Weeper defects, claiming her miracles came true for three years before she learned who was answering — and now she cannot make them stop.
 - A Grenzburg winter-shrine springs up at the Great Funnel gate: the Lady of the Gate, who "sees those the Duke turns away." Attendance is enormous. The Bishop wants it burned; the Castellan notes it is the only thing keeping the camps calm.
 
+## Shadowlands Interface
+
+[[Envy Masks and Replacement-Beasts|Comparison Leeches]] turn uneven grace into accusation, Replacement Doubles occupy desired roles, and Stolen-Fate Lords offer counterfeit histories. [[Borrowed Saints]] remain the Courts' most proven shrine-scale Mask.
+
 ## Navigation
 
 - [[The Atlas of the Left Hand]]
 - [[Names of the Menhir, Masks of the Idols]]
 - [[Borrowed Saints]]
+- [[Envy]]
+- [[Envy Masks and Replacement-Beasts]]
 - [[Chapel-Ford — Full Adventure]]

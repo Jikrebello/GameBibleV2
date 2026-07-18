@@ -1,50 +1,72 @@
 ---
 type: cosmology
 status: canon
-canon_level: local
-visibility: restricted
+canon_level: core
+visibility: author-only
 era: []
 region: []
 culture: []
-related_factions: []
+related_factions: [The Under-Ledger]
 appears_in: []
 needs: []
-tags: []
+aliases: [Avarix]
+tags: [core-canon]
 ---
-### Appearance and Forms:
-- **Primary Form:** Avarix appears as a gaunt, golden-skinned figure, his body adorned with countless jewels and treasures that seem to merge with his very flesh. His eyes are sharp and calculating, constantly assessing the worth of everything around him. His robes are made of the finest silks and embroidered with gold and precious gems.
-- **Alternate Form:** Avarix can also take the form of a massive, serpent-like dragon with scales of gold and eyes that glitter like diamonds. This form allows him to move swiftly through his hoarded vaults and survey his treasures with ease.
+# Greed
 
-### Realm:
-- **The Hoarded Vaults:** A labyrinthine realm filled with mountains of gold, precious gems, and countless treasures. The air is thick with the scent of wealth, and the walls glimmer with the reflections of endless riches. Within the Vaults is a grand casino where all games of chance are presented with unbelievably high odds. One can wager anything and everything, from rare mythological artifacts to human and otherworldly slaves and magical creatures. The casino is a place of both great fortune and immense loss, where the stakes are always high, and the only outcomes that are certain is that the house always wins.
+**Avarix** is the Idol of Greed: a yolk-sovereignty that turns provision and stewardship into possession without obligation. It does not condemn ownership, wealth, trade, or prudent saving. It feeds when a person treats the good of another, a common inheritance, or a necessary resource as valuable chiefly because it can be withheld.
 
-### Creature Ecology:
-- **Claim-Mites, Hoardlings, and Gilded Counterfeits:** Avarix grows or attracts forms that classify, seize, guard, and imitate wealth. Reptilian masks appear in some cults, but they are not a universal people. [[Drakes Overview|Drakes]] are Menhir court-fauna and do not serve Avarix by nature.
+## Original Commission and Corruption
 
-### Personality and Characterization:
-- **Cunning and Manipulative:** Avarix is a master of manipulation and deceit, always scheming to acquire more wealth and power. He thrives on the suffering of others, finding joy in their downfall and the acquisition of their possessions.
-- **Insatiable Greed:** His hunger for wealth is never satisfied, and he is constantly seeking new treasures to add to his hoard. He is willing to go to any lengths to obtain what he desires, regardless of the cost to others.
-- **Calculating and Ruthless:** Avarix is cold and calculating, always planning his next move. He is ruthless in his pursuit of wealth and power, showing no mercy to those who stand in his way.
+The angelic order that became Avarix was commissioned to guard provision, stewardship, and the fruitful circulation of created goods. During the Great Rebellion it declared that the provider must own the recipient and that custody proved superiority. In the Shadowlands this refusal fused with ecologies of claim, retention, and counterfeit value.
 
-### Symbols and Relics:
-- **Symbols:** Golden double sided snake head coins, treasure chests, jeweled crowns. These symbols are often engraved on amulets, worn as charms, and used in rituals to invoke his power.
-- **Relics:** Sacred relics include enchanted coins that can turn anything they touch into gold, crowns that grant the wearer the ability to see hidden treasures, and chests that can store limitless amounts of wealth. These relics are highly prized by his followers and used in ceremonies to seek his favor.
+## Dominion: The Hoarded Vaults
 
-### Worship and Influence:
-- **Temples and Altars:** Temples dedicated to Avarix are often located in the wealthiest districts of cities, hidden behind grand facades of opulence and luxury. Altars are adorned with piles of gold and gems, and rituals involve the sacrifice of valuable items and pledges of servitude.
-- **Rituals:** Worshipers of Avarix perform rituals of acquisition and wealth accumulation. These rituals often involve elaborate ceremonies where followers offer treasures to gain his favor and blessings. Acts of deceit and manipulation are also considered forms of worship, as they reflect Avarix's own nature.
-- **Influence:** Avarix's influence is felt in the material world through acts of greed and corruption. His followers are often those who seek wealth and power at any cost, including merchants, thieves, and corrupt officials. The presence of Avarix can lead to economic disparity, crime, and social unrest, as individuals and societies become consumed by their desire for wealth.
+The Vaults are not an endless pile of treasure. They are a jurisdiction in which everything receives a price, a claimant, and a reason it cannot be used. Food spoils behind perfect locks. Empty deeds outweigh occupied homes. Corridors shorten for the recorded owner and lengthen for the person who actually needs what lies beyond them.
 
-### Relationships:
-- **Alliances:** Avarix occasionally forms alliances with deities who can further his goals of wealth accumulation, though these alliances are always temporary and driven by mutual benefit.
-- **Rivalries:** He has a deep rivalry with Luxuria, as her indulgence and excess often lead to the squandering of wealth. He also despises Furor, whose destructive nature can threaten his hoarded treasures.
-- **Neutral Relations:** Avarix maintains a neutral relationship with Lethargos, as their domains rarely intersect, though he finds the latter's inactivity frustrating.
+The heartland resembles vaults, auction courts, sealed granaries, trophy galleries, counting floors, and gaming halls whose rules make the house's claim more real after every wager. Its borders advance where dispossession is normalized and retreat where stewardship is restored.
 
-### Additional Elements:
-- **Legendary Artifact:** The Golden Coin of Avarix is a legendary artifact said to grant immense wealth and the ability to manipulate others through greed. However, the coin is cursed; those who possess it are doomed to a life of insatiable hunger for wealth. The coin always returns to Avarix's hoard, regardless of who finds it.
-- **Eldritch Influence:** The presence of Avarix can cause strange and unsettling phenomena, such as sudden appearances of gold and gems, individuals becoming obsessed with wealth, and entire communities falling into chaos and corruption. These signs are seen as indicators of his influence and are often met with a mix of awe and fear.
+## Feeding and Mortal Network
+
+Avarix feeds on hoarding, slavery, engineered scarcity, predatory acquisition, bribed custodianship, enclosure of common goods, and the conversion of persons into recoverable assets. [[The Under-Ledger]] is its principal known mortal supply chain. The network embeds valid transactions inside conditions designed to manufacture default, despair, and seizure.
+
+Ordinary lenders, traders, property holders, and accountants are not servants of Greed by profession. The ecology begins where control of a good is deliberately separated from responsibility for its proper use.
+
+## Native Forms
+
+- [[Greed Masks and Claim-Beasts|Claim-Mites]] discover and enlarge unattended claims.
+- [[Greed Masks and Claim-Beasts|Hoardlings]] guard withheld goods and imitate rightful keepers.
+- [[Greed Masks and Claim-Beasts|Gilded Claimants]] are autonomous Archmasks that build local regimes of seizure.
+- [[Vault-Claimed]] is a cross-cutting condition, not a fourth native creature.
+
+Drakes are Menhir court-fauna. Reptilian masks in Avarix cults do not make drakes Greed's children.
+
+## Manifestation
+
+Early signs include keys that fit only for the wealthiest claimant, labels appearing on unowned objects, food counted but never distributed, and strangers remembering debts they never incurred. A Material overlay can turn a warehouse, mine, estate, auction, or relief office into a Vault jurisdiction. Avarix itself never enters.
+
+## Rivalries
+
+Avarix bargains readily with Pride over rank and with Envy over comparison, then tries to own their symbols. It despises Wrath's destruction of recoverable value and Gluttony's consumption of the hoard. Its arrangements with the Creditor are commercial collisions between independent powers, not obedience.
+
+## Counter-Countenance
+
+**The Last Giver** witnesses the original commission. It may reveal the one possession whose gift, restitution, or return to use can open a route through the Vaults. It never produces wealth or excuses stolen goods through indiscriminate charity.
+
+## Weakness and Permanent Defeat
+
+Greed manifestations weaken when rightful ownership, common use, and concrete obligation are made legible. Local defeat requires returning seized goods or making restitution, exposing the chain that converted custody into domination, and destroying the title-object or registry through which the form recurs. Throwing away unrelated wealth or performing a symbolic donation is insufficient.
+
+## Story Use
+
+- A famine warehouse is full, lawful, and unreachable because every relief issue creates a new senior claim.
+- A claimant Archmask offers to return stolen land if the heirs accept ownership of the people living on it.
+- A relic hunt becomes a rescue when the relic's true use is the only thing preventing an entire district from becoming inventory.
 
 ## Navigation
 
-- [[Cosmology MOC]]
-- [[Canon Index]]
+- [[The Idols Overview]]
+- [[Greed Masks and Claim-Beasts]]
+- [[The Under-Ledger]]
+- [[The Counter-Countenances of the Idols]]
+- [[Shadowlands and Idols MOC]]

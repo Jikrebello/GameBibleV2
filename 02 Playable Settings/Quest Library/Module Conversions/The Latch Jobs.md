@@ -71,6 +71,11 @@ Replace generic Sestaran identity; each job must belong to a specific city cultu
 
 - [[Gazetteer of the Known World]]
 - [[Setting Commandments]]
+- [[Astral Conclave of Vorthara]]
+- [[Demiplane Atlas]]
+- [[Ward-Eaters]]
+
+Astral routes and patrons belong only in jobs whose named target actually uses them. Ordinary evidence rooms, auctions, warehouses, and prison transfers remain human institutions with mundane security.
 
 ## Research Basis
 

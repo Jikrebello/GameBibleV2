@@ -70,6 +70,10 @@ Replace a generic city saint; Aurelium's neighborhood devotion, parish rivalry, 
 
 - [[Gazetteer of the Known World]]
 - [[Setting Commandments]]
+- [[Lust Masks and Invitation-Beasts]]
+- [[The Devoted]]
+- [[Borrowed Saints]]
+- [[Idol Manifestation and Feeding]]
 
 ## Research Basis
 

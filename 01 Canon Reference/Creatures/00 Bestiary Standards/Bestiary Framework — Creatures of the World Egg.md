@@ -32,7 +32,7 @@ This is the authoritative **Bestiary Canon Register**. It controls how creature 
 |---|---|---:|
 | `10 Material and Residue` | Material biology and post-mortem residue | 34 entries |
 | `20 Faewild and Menhir` | Menhir courts, place-law, and mythic fauna | 30 entries |
-| `30 Shadowlands and Idols` | vice ecologies, counterfeits, hunger, and fear | 24 entries |
+| `30 Shadowlands and Idols` | seven Idol ecologies, altered lineages, fear forms, and wild Shadow | 42 entries |
 | `40 Astral Drift and Patrons` | Drift ecologies, route parasites, and rented stability | 18 entries |
 | `50 Elemental Shell` | Shell patterns, seams, leakspawn, and bindings | 18 entries |
 | `60 Heaven and Soul-Road` | created angels, manifested saints, and soul-road offices | 16 entries |
@@ -52,8 +52,11 @@ The target is approximately 200 registry entries represented through 45–60 fam
 | Hell and Abyss | 24 forms |
 | Elemental Shell | 18 forms |
 | Ancient and Crafted Legacies | 28 forms |
+| Shadowlands and Idols | 42 forms |
+| Astral Drift and Patrons | 18 forms |
 
 Section MOCs hold exact form registers. Overview and index notes never contribute artificial `catalogued_forms` coverage.
+The completed active registry contains **212 genuine forms** before the final cross-cutting and regionalization pass.
 
 ## Encounter Pyramid
 
@@ -77,7 +80,7 @@ A family may contain several ranks. `rank` records the dossier's most useful ban
 | Property | Controlled values or use |
 |---|---|
 | `origin_layer` | `material`, `faewild`, `shadowlands`, `astral`, `shell`, `heaven`, `hell`, `abyss`, `crafted`, `mixed` |
-| `continuity` | `human-soul`, `retained-human-soul`, `bound-human-soul`, `created-spirit`, `residue`, `wrath-rewritten-life`, `drift-rewritten-life`, `biological-pattern`, `court-law`, `idol-pattern`, `shell-pattern`, `constructed-pattern`, `giant-memory`, `infrastructure-office`, `abyssal-wound` |
+| `continuity` | `human-soul`, `retained-human-soul`, `bound-human-soul`, `created-spirit`, `residue`, `wrath-rewritten-life`, `drift-rewritten-life`, `biological-pattern`, `court-law`, `yolk-sovereignty`, `idol-pattern`, `shadow-pattern`, `astral-pattern`, `shell-pattern`, `constructed-pattern`, `giant-memory`, `infrastructure-office`, `abyssal-wound` |
 | `bearer_continuity` | Optional list using the controlled continuity vocabulary. Required when a known being wears an `infrastructure-office`; family dossiers list attested bearers and unique dossiers name the actual bearer. Empty means deliberately unknown. |
 | `intelligence` | `mindless`, `animal`, `cunning`, `sapient`, `sovereign` |
 | `moral_agency` | `none`, `limited`, `full` |
@@ -90,6 +93,9 @@ A family may contain several ranks. `rank` records the dossier's most useful ban
 | `catalogued_forms` | Every distinct reusable form covered by the dossier; standalone creatures list themselves |
 | `shell_affinity` | Optional: `fire`, `water`, `air`, `earth`, or `mixed`; use a list when a family spans affinities |
 | `animating_principle` | Optional: `simple-script`, `shell-binding`, `bound-creature`, `soulbinding`, `residue-animation`, `giant-reconstruction`, `giant-continuity`, `fleshwork`, `adaptive-pattern`, or `strategic-engine` |
+| `idol_affinity` | Optional: `greed`, `wrath`, `sloth`, `gluttony`, `pride`, `lust`, or `envy`; use an empty list for wild Shadowlands forms |
+| `manifestation_class` | Optional: `fauna`, `mask`, or `archmask`; use a list when a dossier spans classes |
+| `astral_niche` | Optional: `drift-rewritten-people`, `proton`, `route-predator`, `anchor-predator`, `patron-servitor`, `anchor-lord`, or `great-being` |
 
 ## Continuity Controls Defeat
 
@@ -97,10 +103,13 @@ A family may contain several ranks. `rank` records the dossier's most useful ban
 - `retained-human-soul`: break the retaining lien or condition, not only the body.
 - `bound-human-soul`: release the prisoner without destroying the soul.
 - `created-spirit`: break the present manifestation or commission-body; the spirit itself persists unless authorial canon establishes a greater judgement.
+- `yolk-sovereignty`: a Menhir or Idol persists through a yolk-scale dominion. Mortals can end masks, courts, feeding architecture, and overlays, not summon or kill the sovereign by routine means.
 - `residue`: disperse or settle the animating memory, appetite, or place-anchor.
 - `wrath-rewritten-life` and `drift-rewritten-life`: defeat the living being and any external propagation mechanism; no soul routes afterward.
 - `court-law`: break, satisfy, displace, or overwrite the law that gives the being form.
 - `idol-pattern`: starve, expose, or sever the vice ecology that reproduces it.
+- `shadow-pattern`: sever the fear, route, witness, First-War scar, or other Shadow relation that permits recurrence.
+- `astral-pattern`: disrupt the body, anchor, route, tether, or return pattern stated by the dossier. Native Astral personhood never implies a human soul.
 - `shell-pattern`: interrupt elemental coherence, binding, or seam conditions. No pure Shell pattern is a person.
 - `constructed-pattern`: disable the script, engine, command structure, copies, or body. Adaptive behavior never creates interior life.
 - `giant-memory`: first distinguish an uninterrupted Nythalum Continuant from reconstruction. End a reconstruction's vessels; treat a genuine Continuant as an accountable nonhuman person.
@@ -110,6 +119,10 @@ A family may contain several ranks. `rank` records the dossier's most useful ban
 ## Family Rulings Already Locked
 
 - [[Grobi Overview|Grobi]] are Wrath-rewritten life, not humans with damaged souls. Trolls are the rare stable fifth stage.
+- [[The Idols Overview|Idols]] and Menhir are transformed `yolk-sovereignty`, not ordinary angels, gods, or reusable fallen-angel species.
+- [[Idol Manifestation and Feeding]] separates Shadow fauna, dependent Masks, and culpable Archmasks. Full Idols never enter Material reality.
+- [[Shadowlands and Idols MOC]] controls exactly forty-two forms, including wild ecologies independent of the seven.
+- [[Astral Drift and Patrons MOC]] controls exactly eighteen forms. Patron is a role, Anchor-Lords are not elementals, and lich is an umbrella requiring explicit continuity.
 - [[Drakes Overview|Drakes]] are Menhir court-fauna. They are not Greed's followers and are not true dragons.
 - [[True Dragons]] are unique Abyssal catastrophes, not a color-coded animal family.
 - [[Hags and Counterfeit Kin|Hag]] is a folklore classification covering several continuities. Cradle-Hags are court-law beings; Skinbound Hags are transformed humans retaining real souls.
@@ -147,6 +160,8 @@ Every mature family or creature dossier must state:
 - faction use and legal or religious response;
 - regional names;
 - at least three story uses.
+- Shadowlands forms also state Idol affinity where relevant, manifestation class, feeding or fear architecture, Material intrusion, and local recurrence conditions.
+- Astral forms also state niche, anchor or route relation, rent or feeding pressure, tether behavior, and what collapse does to dependents.
 
 ## Navigation
 

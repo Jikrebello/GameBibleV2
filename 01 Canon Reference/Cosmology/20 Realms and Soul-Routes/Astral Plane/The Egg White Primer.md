@@ -1,266 +1,131 @@
 ---
 type: cosmology
 status: canon
-canon_level: local
-visibility: restricted
+canon_level: core
+visibility: author-only
 era: []
-region: []
+region: [Astral Plane]
 culture: []
-related_factions: []
+related_factions: [Astral Conclave of Vorthara]
 appears_in: []
 needs: []
-tags: []
+tags: [core-canon]
 ---
-_The Interstitial Drift Within the World Egg_
+# The Egg White Primer
 
-## 1) What the Egg White Is
+The Egg White, also called the **Astral Drift**, is the interstitial medium inside the World Egg and between its three yolks. It is unfinished reality: neither Material physics, Faewild natural law, Shadowlands meaning ecology, nor the Elemental Shell.
 
-The Egg White is the **interstitial medium** inside the World Egg: a high-entropy expanse that exists **between and around** the three yolks. It is not a mirror-realm and not a moral opposite. It is **raw metaphysical substance**—reality before it commits to a stable form.
+It is not morally neutral in the sense of standing above good and evil. It is morally unaligned substance and ecology. The people and powers acting within it remain responsible according to their agency.
 
-Where the Faewild expresses **mythic ecology** and the Shadowlands express **predatory meaning**, the Egg White expresses **unfinished existence**: a place where structure must be imposed, purchased, or maintained.
+## Three Governing Laws
 
-It is the natural home for:
+### Drift
 
-- dead or sleeping god-remains,
-- artificial pocket-realities and demiplanes,
-- patron-class entities that lease stability,
-- refugee enclaves that slipped out of the Material through thin-space failure,
-- and any power or place that does not fit neatly into the logics of the yolks.
+Unanchored reality loses coherence. Geometry softens, names detach, causal sequence becomes negotiable, and bodies or places begin to express several possible versions.
 
----
+### Metaphysical Mass
 
-## 2) The Three Governing Laws
+Weight creates place. A sufficiently insistent name, relic, repeated rite, body, law, memory structure, or artifact can stabilize nearby Drift into usable geography. Mass does not prove goodness or rightful ownership.
 
-### Law 1: Drift
+### Entropic Rent
 
-**Unanchored reality dissolves.**  
-In the Egg White, form is not the default state. Anything without anchoring slowly loses coherence: boundaries blur, geometry frays, causality softens, and identity becomes unstable.
+Every made place requires upkeep. Stability is paid through energy, memory, labor, repetition, service, relic mass, living attention, or another stated resource. If upkeep fails, the place frays, contracts, changes law, or is repossessed by Drift.
 
-### Law 2: Metaphysical Mass
+Rent is a physical rule before it becomes an economic institution. Patrons exploit it, but did not create it.
 
-**Weight creates place.**  
-“Mass” here is ontological density: the insistence of a thing to remain real. A sufficiently heavy anchor stabilizes surrounding space into workable geography.
+## Geography as Regime
 
-Common anchors include:
+Astral geography is organized by stable behavior rather than fixed distance.
 
-- dead godflesh and divine debris,
-- relic-lodes and crown-shards,
-- fossilized contracts and oath-stone,
-- repeating rites that engrave stability through recurrence,
-- and preserved names that remain true enough to hold structure.
-### Law 3: Entropic Rent
+- **Driftfields:** open regions where form and direction fray.
+- **Anchor reefs:** concentrations of mass that support settlement, salvage, and conflict.
+- **Current-lanes:** repeatable correspondences between anchors.
+- **Maelstrom bands:** turbulent regions where short-lived places and creatures condense.
+- **Ossuary belts:** wreckage fields made from dead structures, remains, memories, and abandoned rules.
+- **Boundary verges:** regions pressed against the inner faces of the Elemental Shell or a yolk.
 
-**Stability is leased; upkeep is always due.**  
-Any ordered pocket accrues entropy debt. If upkeep fails, Drift repossesses the structure: demiplanes fray, routes collapse, and places forget their own rules.
+## Seven Navigational Anchors
 
----
+Most known navigation uses seven regimes:
 
-## 3) Geography Without a Fixed Map
+1. **Ossuary Verge:** a crescent accretion of wrecks, remains, and divine debris.
+2. **Cairnmarket of the Claim-Ribs:** the principal mixed salvage and anchor market.
+3. **Lantern Registry:** a route-administration complex whose lamps certify current-lanes.
+4. **Index-Shelves of Knots:** an archive of names, tethers, and route correspondences.
+5. **Knot-Sleeper Basin:** a loop-field organized around a dormant Sleeping Wrong.
+6. **Root-Glass March:** stable terraces against the inner face of Earth.
+7. **Breathwaste:** fast, volatile currents against the inner face of Air.
 
-The Egg White does not behave like a continent. It organizes into **regimes**—zones defined by consistent behavior rather than permanent borders.
+[[Major Cities and Settlements]] records the seven as geographic regimes. [[Demiplane Atlas]] places known subregions and made realms within them.
 
-### Driftfields
+## Travel
 
-Open expanses where nothing holds shape for long. They appear blank until an observer tries to measure or impose structure, at which point they become hostile to certainty.
+Astral movement is alignment before distance. A traveler needs:
 
-### Anchor Reefs
+- intent sufficient to distinguish the destination;
+- correspondence between traveler, route, and anchor;
+- knowledge of at least one reliable name or tether;
+- ballast enough to endure arrival and return.
 
-Clusters of metaphysical mass where stability condenses. These become the closest thing the Egg White has to “land”: hubs of settlement, trade, construction, and war.
+Common methods include will-sailing, route geometry, ritual vectoring, tethered crossing, patron escort, artifact entry, and demiplane gates. A route can be physically short and metaphysically expensive.
 
-### Current-Lanes
+The main hazards are loss of identity, false arrival, route predation, anchor failure, nested pockets, memory shedding, patron foreclosure, and dependence upon a guide whose destination is not the traveler's.
 
-Repeatable transit routes formed by resonance patterns. Currents are not rivers; they are pathways of correspondence and alignment. They shift when anchors collide, collapse, or are exploited.
+## Native Life
 
-### Maelstrom Bands
+[[Astral Drift and Patrons MOC]] controls eighteen forms:
 
-Turbulent zones where Drift is especially violent and creative. New pocket-realities may briefly form here and die just as quickly.
+- [[Driftkin]], a soulless drift-rewritten people descended biologically from humans;
+- [[Protons of the Drift|Protons]], small native fauna;
+- [[Ward-Eaters]] and other route predators;
+- [[Patron Servitors]] and [[Anchor-Lords]];
+- [[Great Drift Beings]] capable of defining whole regimes.
 
-### Ossuary Belts
+Native intelligence does not create the Image or a routable human soul. Astral-pattern persons can nevertheless possess full moral agency.
 
-Vast belts of drifting fragments: broken remains of countless beings and structures. These belts host salvage economies, drifting fortresses, and enclaves built on bone and debris.
+## Patrons
 
----
+A patron is any anchor-owner capable of leasing shelter, route access, power, knowledge, or reality edits to agents. Patronage is a role, not a species, alignment, or proof of predation. [[Taxonomy of Egg White Patrons]] classifies owners by continuity; [[Patrons and Astral Rent]] controls pact consequences.
 
-## 4) Travel: Alignment Over Distance
+The [[Astral Conclave of Vorthara]] is the principal known cross-realm patron market. It registers access and stabilizes negotiations without making every bargain fair.
 
-Travel in the Egg White is not primarily physical effort. It is **effort of alignment**.
+## Demiplanes
 
-Movement depends on:
+A demiplane is a bounded made place held by an anchor, governing law, upkeep cycle, and return tether. It can be built by a mortal, institution, artifact, Anchor-Lord, patron, refugee community, or large native pattern.
 
-- **Intent** (what you mean to reach),
-- **Correspondence** (what you are “like” and what resonates with you),
-- **Anchor-knowledge** (what you can name, map, or tether to),
-- **Debt-tolerance** (how much Drift you can endure without losing coherence).
+Demiplanes may serve as homes, prisons, archives, laboratories, palaces, storage, roads, sanctuaries, markets, or traps. Their laws are local engineering, not proof that every owner is divine.
 
-### Practical modes of travel
+Extradimensional containers are tiny object-anchored demiplanes. If the tether is destroyed, contents either eject into the nearest stable space or are lost to Drift according to the container's design and current damage. Placing one pocket inside another destabilizes both return tethers.
 
-- **Will-sailing:** leaning identity toward a destination and letting currents carry you.
-- **Vectoring:** using disciplined pattern-work (breath, mantra, geometry, synchronized action) to adjust trajectory.
-- **Tethering:** traveling with an anchor fragment, contractual tether, or escort that guarantees re-entry into a known lane.
+## Liches and Persistence
 
-### Common travel hazards
+Lich is creator shorthand, not a continuity. Every apparent deathless person must be classified:
 
-- loss of focus causing drift-off,
-- lane collapse due to unpaid upkeep elsewhere,
-- predatory entities that hunt by resonance,
-- “arrival cost” (small coherence loss after repeated crossings).
+- retained human soul;
+- bound human soul;
+- refusing human soul;
+- residue-born intelligence;
+- Giant or crafted reconstruction;
+- copied pattern;
+- or another explicitly named continuity.
 
----
+Memory, speech, and an anchored body never prove that a human soul remains. Human self-binding is objectively evil even when it produces an effective Astral patron.
 
-## 5) The Native Power: Stabilization Arts
-
-Magic in the Egg White is best understood as **stabilization practice**: will, ritual, and pattern-engineering used to impose and maintain order.
-
-### The three primary disciplines
-
-#### 1) Anchorcraft
-
-Engineering stability around metaphysical mass:
-
-- building islands of constant,
-- reinforcing demiplanes,
-- sealing boundaries,
-- shaping “stone and mortar” from godflesh, relic-salt, and oath-material.
-
-#### 2) Currentcraft
-
-Navigation and route manipulation:
-
-- reading resonance lanes,
-- opening temporary bridges,
-- masking one’s signature to evade predators,
-- redirecting pursuit by altering correspondence.
-
-#### 3) Debtwork
-
-Entropy management:
-
-- paying upkeep,
-- offloading entropy into sacrificial media,
-- establishing rent cycles and maintenance rites,
-- weaponizing repossession by collapsing an enemy’s stability.
-
----
-
-## 6) Ecology: What Lives Here and What It Eats
-
-The Egg White’s primary resource is **coherence**. Everything that thrives here either produces it, hoards it, rents it, or steals it.
-
-### Stabilizers (place-makers)
-
-- repeating rites that engrave local order,
-- name-lattices that keep identities and boundaries from dissolving,
-- engineered coagulators that thicken raw Egg White into workable substance.
-
-### Settlers and users
-
-- enclaves that inhabit anchored regions,
-- builders of pocket-realities,
-- travelers and convoy cultures that migrate between anchors.
-
-### Scavengers
-
-- salvage guilds harvesting divine debris and relic-lodes,
-- “bone masons” carving stable architecture from dead god-remains,
-- collectors of fossilized contracts and preserved names.
-
-### Predators
-
-These entities do not merely kill; they unmake coherence:
-
-- hunters that sense unpaid entropy debt and trigger repossession events,
-- entities that shear names and labels, causing identity collapse,
-- ambushers that masquerade as safe lanes or stable ground.
-
----
-
-## 7) Cultures and Factions (as mobile polities)
-
-Because geography drifts, societies tend to be **portable, contractual, or anchor-bound**, rather than continent-based empires.
-
-### Ossuary societies
-
-Clans and fortress-states built on debris belts and corpse-fragments. Their power is discipline: controlled transit, oath-structures, and salvage rights.
-
-### Coagulate guilds
-
-Builders and engineers of pocket-realities. They sell stabilization, repairs, and route-mapping—often at a moral cost, because upkeep requires payment.
-
-### Refuge flotillas
-
-Communities that slipped out of the Material through thin-space failure. They survive by turning culture into infrastructure: songs that renew boundaries, communal naming rites, festivals that pay rent.
-
-### Exiles
-
-Beings severed from clean influence of the outer poles. Over time, they develop temperaments shaped more by survival, economy, and Drift pressure than by their former alignment.
-
-### Lich-principalities and long-lived enclaves
-
-Ancient individuals who learned the Egg White’s central lesson: survival requires control of coherence. They hoard anchors, maps, names, and laws—becoming powerful and brittle.
-
-### Patrons (leaseholders of stability)
-
-Patrons here are powerful because they **own anchors** or control rent-cycles and current-lanes. They extend influence by contracting agents who can operate in the yolks.
-
-Warlocks, in this cosmology, are best understood as:
-
-- mobile extensions of an anchor-holder,
-- debt collectors and maintainers,
-- scouts seeking new mass,
-- and installers of rituals that widen a patron’s footprint.
-
----
-
-## 8) Resources and the Wars of Stability
-
-Material wealth is secondary. The true wealth here is whatever can stabilize place.
-
-Common strategic resources include:
-
-- **godbones:** durable structural anchors,
-- **crown-shards:** authority residue used for binding and warding,
-- **contract-fossils:** petrified oaths used to enforce rules,
-- **memory-salt:** crystallized recollection used to pay rent or stabilize identity,
-- **name-amber:** preserved true-names used to anchor places or bind beings.
-
-Conflict arises because these resources determine:
-
-- who can keep a city from dissolving,
-- who can hold reliable routes,
-- who can build pocket-realms that last,
-- and who can create patronage networks that reach into the yolks.
-
----
-
-## 9) Signature Phenomena
-
-These are common, recognizable expressions of the Egg White’s physics:
-
-- **Driftstorms:** waves of entropy that erase signage, reorder interiors, and dissolve weak boundaries.
-- **Debt tides:** periodic surges where upkeep costs spike and failing structures collapse.
-- **False cycles:** local “day” or “night” behaviors caused by residual law-shrapnel rather than true celestial cycles.
-- **Name rot:** labels fail to adhere; maps become unreliable; identities fray.
-- **Coherence blooms:** rare calm events where the Egg White thickens and temporary islands form—followed by scavengers and predators.
-
----
-
-## 10) A Creation Kit for New Content
-
-To design any new Egg White settlement, patron, or landmark, define these six properties:
-
-1. **Anchor:** what mass holds it together?
-2. **Rent:** what upkeep is required, and how is it paid?
-3. **Current:** what pattern or tether leads travelers there?
-4. **Predator:** what hunts it, repossesses it, or exploits its debt?
-5. **Export:** what does it trade or offer to survive (routes, safety, salvage, rites, maps)?
-6. **Failure:** what happens when it starts to fray?
-
-This keeps the Egg White coherent, expandable, and consistently strange.
-
+## Boundaries
+
+- Anchor-Lords are not elementals or genie nations.
+- Astral patrons do not possess lawful authority over judgement or the soul-road.
+- A stranded angel remains a created spirit; a stranded damned person remains a human soul; Drift does not neutralize continuity.
+- An Idol mask or Menhir court-being in Astral space retains its origin.
+- The Astral Plane is not the Dreamlands and does not create the Idols.
 
 ## Navigation
 
+- [[Astral Drift and Patrons MOC]]
+- [[Demiplane Atlas]]
+- [[Taxonomy of Egg White Patrons]]
+- [[Astral Conclave of Vorthara]]
+- [[Patrons and Astral Rent]]
+- [[Thin Spaces]]
 - [[Cosmology MOC]]
-- [[Canon Index]]
-- [[Canon Index]]
 

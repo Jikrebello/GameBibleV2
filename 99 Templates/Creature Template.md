@@ -24,6 +24,9 @@ encounter_roles: []
 related_magic: []
 shell_affinity: []
 animating_principle: []
+idol_affinity: []
+manifestation_class: []
+astral_niche: []
 ---
 # {{title}}
 
@@ -36,6 +39,14 @@ Use for court-law beings. State the bargain and price where one exists.
 ### Provenance, Office, and Manifestation
 
 Use for Hell forms. State refusal, mandate, bearer continuity, soul effects, and containment where relevant.
+
+### Idol Affinity, Feeding, and Intrusion
+
+Use for Shadowlands forms. State fauna, Mask, or Archmask; sovereign affinity or wild origin; feeding or fear ecology; mortal architecture; Material intrusion; and why the full sovereign cannot enter.
+
+### Astral Niche, Anchor, and Tether
+
+Use for Astral forms. State niche, mass or route relation, rent or feeding pressure, return pattern, and what anchor or tether failure does to the being and its dependents.
 
 ### Shell Coherence
 

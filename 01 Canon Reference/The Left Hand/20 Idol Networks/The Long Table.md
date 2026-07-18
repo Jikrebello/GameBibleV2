@@ -33,7 +33,14 @@ The ghoul liaison (above); the Apathetics are their opposite pole and occasional
 - A feast-mystery invitation names a dish the party last saw alive.
 - The Fatted Council's starving-master doctrine has produced a defector: a Maître who fed his master out of pity and is now hunted by both the Table and, for complicated reasons, the Warrens of Woe.
 
+## Shadowlands Interface
+
+[[Gluttony Masks and Feast-Beasts|Feastlings]] prepare feeding sites, Gut-Maws consume physical and social goods, and Banquet Tyrants turn whole supply systems into courts. [[Ghouls]] remain independent residue-born predators rather than obedient souls of the dead.
+
 ## Navigation
 
 - [[The Atlas of the Left Hand]]
 - [[Names of the Menhir, Masks of the Idols]]
+- [[Gluttony]]
+- [[Gluttony Masks and Feast-Beasts]]
+- [[Ghouls]]

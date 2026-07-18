@@ -9,7 +9,7 @@ culture: ["Jirahar"]
 related_factions: ["Migdal Dahava", "Medori Bank", "Road Companies", "Sea Fleets", "Turning Companies"]
 appears_in: []
 needs: []
-aliases: ["Economy and Trade"]
+aliases: []
 tags: []
 ---
 # Jirahar Economy and Trade

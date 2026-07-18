@@ -1,50 +1,67 @@
 ---
 type: cosmology
 status: canon
-canon_level: local
-visibility: restricted
+canon_level: core
+visibility: author-only
 era: []
 region: []
 culture: []
-related_factions: []
+related_factions: [The Devoted]
 appears_in: []
 needs: []
-tags: []
+aliases: [Luxuria]
+tags: [core-canon]
 ---
-### Appearance and Forms:
-- **Primary Form:** Luxuria is a seductive, alluring figure with an irresistible charm. Her eyes are captivating, glowing with a soft, enticing light. Her skin is flawless, and her form is perfect, exuding an aura of temptation and desire. She wears garments made of flowing, sheer fabrics that enhance her allure.
-- **Alternate Form:** In her alternate form, Luxuria can appear as an enchanting being of pure light and shadow, her features constantly shifting to embody the deepest desires of those who gaze upon her. This form is designed to captivate and ensnare, making it impossible to look away.
+# Lust
 
-### Realm:
-- **The Garden of Temptation:** A lush, sensuous realm filled with fragrant flowers, intoxicating scents, and enchanting beauty. The landscape is designed to arouse desire and indulgence, with every plant, flower, and tree exuding an aura of temptation. The air is filled with the sound of soft music and whispering voices, drawing visitors deeper into the garden.
+**Luxuria** is the Idol of Lust: a yolk-sovereignty that turns attraction, beauty, faithful union, fertility, admiration, and delight into possession of another person. Lust is not sexuality, romance, beauty, pleasure, marriage, or strong feeling. It feeds when desire denies the beloved's good, consent, freedom, or reality outside the desiring self.
 
-### Creature Ecology:
-- **Invitation Predators and Desire Doubles:** Garden-grown forms imitate beauty, affection, need, or the voice of a beloved person in order to secure access and control. `Siren`, `succubus`, and `incubus` are mortal labels applied to several manifestations, not biological species.
+## Original Commission and Corruption
 
-### Personality and Characterization:
-- **Passionate and Seductive:** Luxuria embodies the essence of lust, thriving on temptation and the fulfillment of carnal desires. She is passionate and seductive, always seeking to captivate and ensnare.
-- **Manipulative and Alluring:** Luxuria is highly manipulative, using her charm and allure to control and influence those around her. She finds pleasure in the power she holds over others and revels in their submission.
-- **Thriver on Indulgence:** She encourages indulgence in all forms, believing that true fulfillment comes from giving in to one's desires. She promotes a hedonistic lifestyle, free from restraint and inhibition.
+The order that became Luxuria was commissioned to guard faithful union, creaturely beauty, fertility, delight, and the joy by which persons freely receive one another. It rebelled by claiming that recognition creates ownership. In the Shadowlands it made every invitation a surrender and every beloved an answer to someone else's appetite.
 
-### Symbols and Relics:
-- **Symbols:** Rose, chalice, flame. These symbols are often used in amulets, charms, and ritualistic items to invoke her power.
-- **Relics:** Sacred relics include chalices that grant the drinker an irresistible charm, roses that exude an intoxicating fragrance, and flames that burn with a captivating light. These relics are used in ceremonies to seek Luxuria's favor.
+## Dominion: The Garden of Invitation
 
-### Worship and Influence:
-- **Temples and Altars:** Temples dedicated to Luxuria are often hidden in secluded, beautiful locations, such as enchanted groves or hidden valleys. Altars are adorned with flowers, incense, and offerings of beauty. Rituals involve sensual dances, offerings of beauty, and acts of seduction.
-- **Rituals:** Worshipers of Luxuria perform rituals that often involve acts of passion and indulgence. These rituals include sensual dances, ceremonies of beauty and charm, and offerings of love and desire. The goal is to invoke her power and seek her blessing for fulfilling one's deepest desires.
-- **Influence:** Luxuria's influence is felt in the material world through acts of passion, indulgence, and seduction. Her presence can lead to hedonism and excess, causing individuals to abandon restraint and give in to their desires. Communities under her influence may experience moral decay and social unrest as the pursuit of pleasure takes precedence over all else.
+The Garden is a shifting estate of perfumed orchards, theatres, wedding roads, baths, private chapels, nursery bowers, salons, and doors that open in the voice of a trusted person. Nothing appears monstrous until refusal is spoken. Paths then reveal that every beautiful scene was arranged around an unseen captive or excluded rival.
 
-### Relationships:
-- **Alliances:** Luxuria occasionally forms alliances with deities who embody aspects of indulgence and beauty. These alliances are often based on a mutual desire for pleasure and fulfillment.
-- **Rivalries:** She has a deep rivalry with Vaingloria, whose obsession with self-admiration and superiority clashes with Luxuria's focus on indulgence and passion. She also finds Invidia's envy and resentment distasteful, as it undermines the pure pursuit of pleasure.
-- **Neutral Relations:** Luxuria maintains a neutral relationship with Voracia, as their domains of indulgence and excess can sometimes align, though she finds Voracia's gluttony excessive and lacking in refinement.
+## Feeding and Mortal Network
 
-### Additional Elements:
-- **Legendary Artifact:** The Perfume of Ensnaring Desire is a legendary artifact said to grant its possessor an irresistible allure and the ability to captivate anyone who catches their scent. However, the perfume is cursed, and those who use it are doomed to an unending cycle of seduction and heartbreak, as those they ensnare eventually turn against them.
-- **Eldritch Influence:** The presence of Luxuria can cause strange and unsettling phenomena, such as sudden outbreaks of passion, the appearance of intoxicating fragrances, and individuals becoming obsessed with their desires. These signs are seen as indicators of her influence and are often met with a mix of awe and fear.
+Luxuria feeds on coercion, grooming, cultivated obsession, possession presented as love, exploitation of dependency, humiliation through desire, counterfeit intimacy, and institutions that make access to a person into status. [[The Devoted]] organizes this economy through salons, households, artistic circles, spiritual direction, and private patronage.
+
+## Native Forms
+
+- [[Lust Masks and Invitation-Beasts|Invitation Moths]] soften boundaries and carry counterfeit welcome.
+- [[Lust Masks and Invitation-Beasts|Desire Doubles]] imitate the desired role rather than merely a body.
+- [[Lust Masks and Invitation-Beasts|Adoration Hosts]] are autonomous Archmasks that build communities around compulsory intimacy.
+
+Siren, succubus, and incubus are creator-facing or polemical labels applied to several forms. They are not biological species.
+
+## Manifestation
+
+Signs include private phrases spoken by strangers, invitations that cannot be remembered being accepted, portraits responding to attention, and affection becoming painful when directed elsewhere. Overlays form in salons, cult households, brothels, courts, theatres, shrines, marriages, mentorships, and artistic movements where access and admiration can be weaponized.
+
+## Rivalries
+
+Lust cooperates with Pride to make desire confer rank and with Envy to isolate rivals. Gluttony reduces the beloved to consumption too quickly; Greed tries to make possession transferable; both offend Luxuria's demand to be uniquely adored.
+
+## Counter-Countenance
+
+**The Faithful Beloved** restores recognition that the desired person has a good, history, and will beyond the desirer. It may make one true refusal audible or preserve the memory of a freely given promise.
+
+## Weakness and Permanent Defeat
+
+Lust forms weaken when consent becomes legible, coerced dependence is ended, and relationships outside the obsession are restored. Permanent defeat requires freeing the person or role used as the invitation's anchor, repairing concrete abuse where possible, and breaking the token, private rite, access system, or audience practice through which possession presents itself as love. Shame directed at ordinary desire strengthens concealment and is not a cure.
+
+## Story Use
+
+- A Desire Double perfectly embodies a missing spouse's tenderness but has no interest in the spouse's actual return.
+- A patron funds an artistic renaissance whose invitations quietly sever every artist from family and outside friendship.
+- An Adoration Host offers a town freedom from loneliness if every resident agrees that privacy is betrayal.
 
 ## Navigation
 
-- [[Cosmology MOC]]
-- [[Canon Index]]
+- [[The Idols Overview]]
+- [[Lust Masks and Invitation-Beasts]]
+- [[The Devoted]]
+- [[The Counter-Countenances of the Idols]]
+- [[Shadowlands and Idols MOC]]

@@ -1,51 +1,69 @@
 ---
 type: cosmology
 status: canon
-canon_level: local
-visibility: restricted
+canon_level: core
+visibility: author-only
 era: []
 region: []
 culture: []
-related_factions: []
+related_factions: [The Red Tally]
 appears_in: []
 needs: []
-tags: []
+aliases: [Furor]
+tags: [core-canon]
 ---
-### Appearance and Forms:
-- **Primary Form:** Furor stands as a towering figure wreathed in flames, his muscular form scarred from countless battles. His eyes burn with an intense, red fury, and his presence exudes an aura of seething anger and relentless aggression. His skin appears molten, cracking with lines of fiery light.
-- **Alternate Form:** Furor can transform into a massive, fiery beast, his body composed entirely of raging flames. In this form, he embodies pure destruction and uncontainable wrath, leaving a path of devastation in his wake.
+# Wrath
 
-### Realm:
-- **The Infernal Pits:** A volcanic realm of molten lava, endless firestorms, and violent eruptions. The land is in constant upheaval, with rivers of lava and towering volcanoes spewing ash and fire. The air is thick with smoke and the scent of burning. The ground trembles with Furor's unending rage, and the sky is perpetually lit by the glow of fires.
+**Furor** is the Idol of Wrath: a yolk-sovereignty that turns courage, protection, and just anger into retaliation without limit. Wrath is not the fact that violence can be necessary. It is the insistence that injury grants sovereignty over whoever can be named as an enemy.
 
-### Creature Ecology:
-- **Grobi:** [[Grobi Overview|Grobi]] are Furor's principal self-sustaining Material harvest: Wrath-rewritten life organized through hunger, violence, and escalating bodily stages.
-- **Burning Armor:** Death-knight forms exist as rage-residue or imposed martial offices. They are a minor manifestation rather than Wrath's defining species.
+## Original Commission and Corruption
 
-### Personality and Characterization:
-- **Hot-tempered and Destructive:** Furor embodies the essence of wrath, thriving on conflict and violence. He is quick to anger and relentless in his pursuit of vengeance and destruction.
-- **Relentless and Unyielding:** Furor does not know mercy or forgiveness. He revels in the chaos of battle, seeking to incite violence and anger wherever he goes. His fury is unending, and his drive for destruction is insatiable.
-- **Inciter of Rage:** Furor enjoys manipulating others into acts of violence, feeding on the anger and chaos that follows. He finds pleasure in watching civilizations crumble and individuals fall to their basest instincts.
+The order that became Furor was commissioned to stand between violence and the vulnerable, to restrain force, and to carry just anger toward protection. It rebelled by claiming the sword's power as its own good. After fusing with the Shadowlands, every defended boundary became a front and every remembered wound became permission for a wider war.
 
-### Symbols and Relics:
-- **Symbols:** Flaming hammer, burning torch, volcanic mountains. These symbols are often used in amulets, charms, and ritualistic items to invoke his power.
-- **Relics:** Sacred relics include hammers that can unleash devastating firestorms, torches that burn eternally, and volcanic stones that grant the bearer immense strength and rage. These relics are used in ceremonies to seek Furor's favor.
+## Dominion: The Red Marches
 
-### Worship and Influence:
-- **Temples and Altars:** Temples dedicated to Furor are often constructed in desolate, fiery landscapes, near active volcanoes or lava flows. Altars are adorned with weapons, ashes, and charred remains. Rituals involve acts of violence, blood sacrifices, and the destruction of property.
-- **Rituals:** Worshipers of Furor perform rituals that often involve bloodletting, combat, and the burning of offerings. These rituals are designed to invoke his wrath and seek his blessing in acts of revenge or war.
-- **Influence:** Furor's influence is felt in the material world through outbreaks of violence, wars, and natural disasters like earthquakes and volcanic eruptions. His presence can incite individuals and communities to anger and conflict, leading to widespread chaos and destruction.
+The Red Marches are a moving war-country of furnace skies, ash trenches, burned halls, trophy roads, and battlefields that grow new enemies from every victory. Fire expresses Wrath's appetite for escalation and public destruction. It is not Hell, which remains a cold, wet, pressure-heavy refusal ecology.
 
-### Relationships:
-- **Alliances:** Furor forms alliances with deities who thrive on chaos and conflict. These alliances are often temporary, driven by mutual goals of destruction.
-- **Rivalries:** He has a deep rivalry with Lethargos, whose lethargy and inactivity frustrate Furor's desire for constant action and conflict. He also despises Avarix, as the accumulation of wealth often leads to complacency and peace.
-- **Neutral Relations:** Furor maintains a neutral relationship with Voracia, as their domains occasionally intersect in moments of gluttonous excess leading to violence.
+Roads in the Marches lead toward the person a traveler most wants to punish. The dead rise as accusations, weapons remember previous wielders, and fortifications migrate overnight so that no peace can become stable.
 
-### Additional Elements:
-- **Legendary Artifact:** The Bloodfire Hammer is a legendary artifact said to grant its wielder unparalleled strength and the ability to summon firestorms. The hammer's head is made of a single blood-red ruby, and it is covered in gore and viscera from countless battles.
-- **Eldritch Influence:** The presence of Furor can cause strange and terrifying phenomena, such as spontaneous fires, earthquakes, and unexplained acts of violence. These signs are seen as indicators of his influence and are often met with fear and dread.
+## Feeding and Mortal Network
+
+Furor feeds on blood feud, massacre, humiliation answered through collective punishment, militarized appetite, cruelty praised as courage, and institutions that need an enemy to justify themselves. [[The Red Tally]] records and engineers these exchanges.
+
+## Native and Altered Forms
+
+- [[Wrath Masks and War-Beasts|Feud-Hounds]] track transferable grievance.
+- [[Wrath Masks and War-Beasts|Red Reckoners]] turn injury into expanding lists of legitimate targets.
+- [[Wrath Masks and War-Beasts|Pyre-Crowned]] are autonomous warlords of escalation.
+- [[Grobi Overview|Grobi]] are Wrath's principal self-reproducing Material harvest: intelligent, soulless, Wrath-rewritten life rather than masks or damned souls.
+
+## Manifestation
+
+Signs include old wounds bleeding during arguments, weapons warming when an uninvolved relative approaches, ash falling under clear skies, and testimony shortening into lists of enemies. Dominion overlays form around massacre sites, besieged quarters, dueling grounds, war councils, and households that inherit retaliation as duty. Furor never appears bodily.
+
+## Rivalries
+
+Wrath hates Greed's restraint of useful destruction, Pride's demand for sole glory, and Sloth's refusal to answer provocation. It can cooperate with Envy to choose enemies or Gluttony to consume a defeated population, but both arrangements end in violence over the harvest.
+
+## Counter-Countenance
+
+**The Sheathed Sword** reveals whom force may rightly protect and where retaliation has ceased to be defense. It does not demand passivity, deny justice, or prevent a necessary blow.
+
+## Weakness and Permanent Defeat
+
+Wrath forms weaken when true harm is named narrowly, the innocent are removed from the target class, and force is bounded by a defensible end. Permanent local defeat requires breaking the grievance transmission, answering the original wrong through justice where possible, and destroying the tally, trophy, weapon, or public rite that authorizes endless retaliation. Merely suppressing anger leaves the architecture intact.
+
+## Story Use
+
+- Two villages are attacked by the same Feud-Hounds because each has been taught that the other sent them.
+- A Red Reckoner serves as a flawless military clerk until its casualty lists begin including witnesses, healers, and children.
+- A Pyre-Crowned offers victory in a just war if the commander agrees that surrender will no longer end guilt.
 
 ## Navigation
 
-- [[Cosmology MOC]]
-- [[Canon Index]]
+- [[The Idols Overview]]
+- [[Wrath Masks and War-Beasts]]
+- [[Grobi Overview]]
+- [[The Red Tally]]
+- [[The Counter-Countenances of the Idols]]
+- [[Shadowlands and Idols MOC]]

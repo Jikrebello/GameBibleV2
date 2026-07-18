@@ -67,6 +67,10 @@ The people are not grey innocents. Some are terrified, some deceived, and some k
 - [[Wanemoor District]]
 - [[The Duchy of Brauvalis Overview]]
 - [[Gazetteer of the Known World]]
+- [[Gluttony Masks and Feast-Beasts]]
+- [[Idol Manifestation and Feeding]]
+
+The Reed Mother remains deliberately unclassified at seed stage. Its feast and fertility imagery do not by themselves prove Gluttony, a Menhir court, or an Idol Mask; full blocking must settle continuity from behavior and defeat conditions.
 
 ## Research Basis
 

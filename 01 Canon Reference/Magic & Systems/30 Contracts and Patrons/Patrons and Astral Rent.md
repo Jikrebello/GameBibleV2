@@ -4,71 +4,74 @@ status: canon
 canon_level: core
 visibility: author-only
 era: []
-region: []
+region: [Astral Plane]
 culture: []
-related_factions: []
+related_factions: [Astral Conclave of Vorthara]
 appears_in: []
 needs: []
-tags: []
+tags: [core-canon]
 ---
 # Patrons and Astral Rent
 
-Patrons are Astral anchor-owners: powers, enclaves, intelligences, or sovereign debris-courts that control enough metaphysical mass to lease stability to others.
+Patrons are anchor-owners capable of leasing stability, power, routes, shelter, knowledge, or local reality edits. Patron is a role, not a species, magical school, or moral alignment. [[Taxonomy of Egg White Patrons]] controls continuity.
 
 ## Astral Rent
 
-The Astral Plane is unstable by default. Anything that wants to persist must pay upkeep in some form:
+Every made place in the Astral Drift requires upkeep. Rent may be:
 
-- memory,
-- names,
-- relic mass,
-- oaths,
-- worship,
-- debt,
-- service,
-- sacrifice,
-- law,
-- or harvested coherence.
+- labor or maintenance;
+- memory, names, or repeated attention;
+- relic mass, true-silt, or anchor shares;
+- ritual schedules and exact patterns;
+- service, information, novelty, or route access;
+- money used to purchase any of the above.
 
-Rent is the cost of continued place.
+The physical rule is neutral. Concealment, coercion, manufactured dependency, unsafe labor, soulbinding, and what the place is used to do determine moral culpability.
 
-## What Patrons Offer
+## Pact Anatomy
 
-Patrons can provide:
+Every patron arrangement must state:
 
-- power,
-- shelter,
-- routes,
-- anchors,
-- occult knowledge,
-- demiplane access,
-- protection from drift,
-- and magical authority borrowed from their stability base.
+1. the patron's actual continuity;
+2. the anchor and what it lawfully controls;
+3. the boon or access being leased;
+4. upkeep, due date, and who performs it;
+5. collateral and whether the patron has a right to it;
+6. failure, foreclosure, and exit;
+7. effects of patron death, agent death, and anchor collapse;
+8. whether the visible negotiator is owner, proxy, employee, copy, or office.
 
-## What Patrons Want
+## Common Boons
 
-Patrons want agents in the Material Realm because mortals can act where they cannot easily project. A patron-backed warlock or agent may:
-
-- install rituals,
-- open trade in metaphysical resources,
-- scout for anchors,
-- collect debt,
-- sabotage rival patrons,
-- or widen the patron's footprint in yolk-space.
+- shelter from Drift and identity fray;
+- demiplane access or storage;
+- current-lane travel;
+- borrowed perception or bounded local magic;
+- Proxy Bodies, Tether Hounds, and Current Shepherd support;
+- anchorcraft, repair, or information;
+- a stable base from which a mortal warlock can act.
 
 ## Failure Modes
 
-Patronage becomes corrupt when borrowed stability replaces moral agency. The debtor begins to exist as an extension of the patron's economy.
+Predatory patronage commonly uses escalating upkeep, false ownership, hidden dependency, memory collateral, dangerous foreclosure, or a term that turns the agent into part of the anchor. An honest contract can still become harmful when conditions change; a strange patron can still offer fair terms.
 
-Common dangers include:
+No pact can make ownership of a human soul morally valid, create the Image, reverse judgement, or transform a copy into the original human person.
 
-- escalating rent,
-- repossession,
-- memory collateral,
-- name dependency,
-- impossible service clauses,
-- and identity becoming leased property.
+## Material Agents
+
+Patrons need mortals because free human choice and stable Material action cannot be replaced by repetitive Astral behavior. Agents install tethers, retrieve mass, negotiate with institutions, introduce novelty, and act where a patron's anchor cannot.
+
+This makes patron magic useful and dangerous without making every adventure an audit. A patron may simply need a road opened, a refugee moved, a dangerous creature removed, a stolen anchor recovered, or a failing place repaired.
+
+## Market and Enforcement
+
+The [[Astral Conclave of Vorthara]] is the principal known cross-realm market for patron services. Its registration establishes routes and declared continuity, not fairness. [[Demiplane Atlas]] provides worked examples of fair, predatory, institutional, and failed realms.
 
 ## Navigation
 
+- [[Patrons]]
+- [[Taxonomy of Egg White Patrons]]
+- [[Astral Conclave of Vorthara]]
+- [[Demiplane Atlas]]
+- [[Contract Magic and True Names]]
 - [[Magic & Metaphysics MOC]]

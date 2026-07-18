@@ -70,6 +70,11 @@ Replace citywide Vortharan custody; one named school created the study and one f
 
 - [[Gazetteer of the Known World]]
 - [[Setting Commandments]]
+- [[The Idols Overview]]
+- [[Shadowlands and Idols MOC]]
+- [[Idol Manifestation and Feeding]]
+
+The seven weapons may host dependent Masks or carry an Idol-fed condition, but they are not fragments of the sovereign Idols and cannot summon a full Idol into Vorthara.
 
 ## Research Basis
 

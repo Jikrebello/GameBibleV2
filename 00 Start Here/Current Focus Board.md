@@ -29,6 +29,7 @@ Develop Caleran as the setting's great-city sandbox. Its population, fourteen di
 - **First creature wave:** [[The Mundane Layer — Residue, Vermin, and the Delver Trade]] controls 34 Material and residue forms; [[Heaven and Soul-Road MOC]] controls sixteen profiles divided among true angels, manifested saints, and soul-road service.
 - **Second creature wave:** [[Faewild and Menhir MOC]] controls thirty forms across drakes, court beings, place minds, mythic fauna, and High Hunts; [[Hell and Abyss MOC]] controls twenty-four forms across damned manifestations, Depth fauna, devil mantles, soul predators, and Abyssal wounds.
 - **Third creature wave:** [[Elemental Shell MOC]] controls eighteen non-personal Shell forms; [[Ancient and Crafted Legacies MOC]] controls twenty-eight crafted forms across five Giant legacies, Atherian works, Ironbound industry, fleshworks, and Covenant engines. The active registry now exposes 171 genuine forms without counting overview placeholders.
+- **Fourth creature wave:** [[Shadowlands and Idols MOC]] controls forty-two forms across seven distinct Idol ecologies, altered lineages, Dreadforms, First-War remnants, and elder Shadow; [[Astral Drift and Patrons MOC]] controls eighteen forms across Driftkin, Protons, route predators, patron servants, Anchor-Lords, and great beings. The active registry now exposes exactly **212 genuine forms**.
 - **Covenant structure:** [[Ahl-e-Ahd Canon Register]] controls the layered peoples, Witnessed/Sealed divide, unequal states, and authorial Fourth Seal truth. [[Covenant Reconstruction Audit]] records the full reference pass.
 - **Sestaran structure:** [[Sestaran Canon Register]] controls seven independent seals joined only by [[The Seven-Seal Defensive Muster]]. Orsena and Vardessa are locked microstates; Vorthara has no common government. [[Sestaran Reconstruction Audit]] records the full reference pass.
 - **Jirahar structure:** [[Jirahar Canon Register]] controls the two destructions, maternal descent, conversion, four mobile Ways, five living towers, Empty City, and Keeper-controlled Way-Gates. [[Jirahar Reconstruction Audit]] records the full reference pass.
@@ -39,7 +40,7 @@ Develop Caleran as the setting's great-city sandbox. Its population, fourteen di
 ## Next Three Workstreams
 
 1. **Regional map production:** turn the Covenant, Sestaran, and Tarkhan control notes into finished roads, trade, harbor, fair, water, fortress, customary-range, and jurisdiction layers.
-2. **Bestiary next wave:** plan and build Shadowlands and Idol ecologies alongside Astral Drift and Patrons, using the now-locked continuity rules and adventure demand.
+2. **Bestiary final wave:** build cross-cutting conditions, regional names, and the adventure-demand closure pass from the completed 212-form registry.
 3. **Caleran and Grenzburg implementation:** continue map and adventure blocking from their locked production bibles without reopening their canon spines; use those adventures to set the creature backlog.
 
 ## Locked Rulings
@@ -59,6 +60,10 @@ Develop Caleran as the setting's great-city sandbox. Its population, fourteen di
 - Pure constructs simulate mind and possess no moral agency. Human soulbinding is always an evil imprisonment; biological fleshworks and bound animals can genuinely suffer.
 - Only uninterrupted Nythalum Continuants and continuously embodied Ansharan Vampire Giants are genuine surviving Giant individuals. Every backup, caste recurrence, office reconstruction, and copied administrative personality is a pattern rather than its historical maker.
 - Qahirid great engines comprise separate Depth-Core, Slave-Soul, and Surrender technologies. In 1360 AR the Qahirids retain three operational great engines, two dormant frames, and one slow replacement foundry.
+- The Menhir and Idols began as angelic cohorts in the Great Rebellion and became yolk-sovereignties through forced fusion. They are neither ordinary angels nor servants of the Adversary. Menhir portfolio wording still requires a dedicated origin reconciliation.
+- Full Idols never enter the Material Realm. They act through dreams, fauna, Masks, Archmasks, mortal networks, and bounded dominion overlays. Each retains one suppressed Counter-Countenance that cannot be worshipped or summoned.
+- Patron is an Astral role rather than a species. Anchor-Lords are native Astral persons, not elementals; genie and lich remain creator umbrellas requiring actual continuity.
+- The [[Astral Conclave of Vorthara]] is the principal known cross-realm patron market and a temporary host compact, not Vorthara's government.
 - [[The Grey Sweat]], [[The Korrheim Accord]], and the [[Freeflame Reformation]] are the source events for Eclessia's demographic and confessional present.
 - The Folk are a living umbrella civilization rather than a state. Enaidfae are old-rite Folk confederacies; Ättar are a distinct cousin people. Local courts may mix Menhir courtiers, patrons, Shades, and Idol masks, while [[Folk Faith and Appeasement]] governs public practice.
 - The Ättar are four great totem-kindreds containing many rival halls. Every old-rite hall chief is a hybrid-only skinwalker; each ruling line owes one firstborn exchange per generation. Transformations do not consume memories, and Moontouched decline is neither immediate nor inevitable.
@@ -74,7 +79,8 @@ Develop Caleran as the setting's great-city sandbox. Its population, fourteen di
 - Named regional cells for the Left Hand as new playable settings are developed.
 - Final visual treatment for Caleran's surface and undercity maps.
 - System-specific encounter and reward tuning for selected Caleran adventures.
-- Family ladders, regional homes, and encounter-ready profiles for the Shadowlands/Idols and Astral Drift/Patrons paired expansion wave.
+- Reconcile the origin paragraph of every Menhir portfolio with [[The Great Rebellion and the Yolk Exiles]] without reopening the locked thirty-form Faewild catalogue.
+- Regional folklore names and adventure demand for the final cross-cutting bestiary pass.
 - Orsena population, harbor districts, and cistern capacity; Vardessa's fair calendar and road travel table.
 - Population, district, and playable-setting numbers for Mazrakan.
 - Present road, fortress, and jurisdiction maps for Zanthir and the Velian States.

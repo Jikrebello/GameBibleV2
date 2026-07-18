@@ -70,6 +70,9 @@ Replace an unspecified lake-isle; place the city on Al-Qahur's Glass frontier an
 
 - [[Gazetteer of the Known World]]
 - [[Setting Commandments]]
+- [[Greed]]
+- [[Greed Masks and Claim-Beasts]]
+- [[Idol Manifestation and Feeding]]
 
 ## Research Basis
 
