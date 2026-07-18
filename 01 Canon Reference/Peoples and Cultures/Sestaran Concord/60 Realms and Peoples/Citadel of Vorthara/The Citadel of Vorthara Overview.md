@@ -42,6 +42,12 @@ In 907 Vortharan warlocks helped Caldria destroy the Covenant siege train at [[T
 
 Arachnara appears in cult testimony as an Idol mask associated with appetite, vermin, multiplication, and dissolved identity. She is not an authorially confirmed goddess.
 
+### The Four Draws
+
+Vorthara operates four permanent Shell anchors: the Crucible Mouth, Floodglass Intake, Bellspire Draw, and Crown-Road Weight Gate. Together they supply forge-charge, pressure brine, stormglass, and weight-seed to rival wards. No faction owns all four, and the Spire Truce treats sabotage capable of cascading between them as an attack on the whole ascent.
+
+Their output underwrites warlock training, dangerous industry, export instruments, and the city's claim to technical preeminence. Exact access geometry remains compartmentalized even among Vortharans. [[Shell Anchors and Extraction]] holds the authorial register.
+
 ## Ordinary Life
 
 Most residents are carriers, cooks, builders, laundresses, clerks, ward hands, miners, gardeners, healers, performers, servants, traders, and families living around magical institutions rather than practitioners. Arenas test products and settle some disputes, but they do not define every neighborhood.
@@ -54,4 +60,6 @@ The Spire's unknown function, faction procurement, missing bodies, Black Spire l
 
 - [[Lives of Vorthara]]
 - [[Magical Schools and Factions of Vorthara]]
+- [[Shell Anchors and Extraction]]
+- [[Ironbound Frames]]
 - [[Sestara and the Wider World]]

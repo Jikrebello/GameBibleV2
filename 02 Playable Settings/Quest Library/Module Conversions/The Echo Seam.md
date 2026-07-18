@@ -65,6 +65,8 @@ The forge can temper a rehearsed elemental script into prepared metal, but each 
 
 - [[Sestaran Canon Register]]
 - [[Warlock Rune Magic]]
+- [[Seam and Mixed-Script Manifestations]]
+- [[Atherian Ward and Trial Engines]]
 - [[Gazetteer of the Known World]]
 
 ## Research Basis

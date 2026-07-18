@@ -8,8 +8,7 @@ region: ["Anshara", "Great Glass Desert"]
 culture: ["Ansharan"]
 related_factions: ["Imperial Court of Anshara"]
 appears_in: ["Entombed with the Court", "The Court That Drank Itself"]
-needs:
-  - assign combat profiles for servant, guard, office-bearer, and court beast forms
+needs: []
 tags: [module-conversion, game-ready]
 origin_layer: crafted
 continuity: bound-human-soul
@@ -22,6 +21,8 @@ catalogued_forms: [Wax-Bound Courtiers]
 habitats: [Ansharan courts, sealed estates, audience chambers]
 encounter_roles: [social, guardian, controller]
 related_magic: [Giant blood memory, soulbinding]
+shell_affinity: []
+animating_principle: [soulbinding, giant-reconstruction]
 ---
 # Wax-Bound Courtiers
 
@@ -31,7 +32,9 @@ Wax-Bound Courtiers are humans, animals, and lesser household beings embalmed al
 
 Throne-wax prevents ordinary death and soul-routing by fixing a subject's identity to a court role. A scribe continues recording tribute, a guard continues defending a door, and a petitioner continues waiting for an audience long after personal memory has fragmented.
 
-Some Courtiers remain conscious beneath the role. Others are only habits wearing a preserved body. Destroying the body ends the immediate threat but may also destroy the last coherent portion of the person trapped within it.
+Some Courtiers remain lucid beneath the role. Others have their real human souls and identities so deeply suppressed that only office habits reach the surface. A human Wax-Bound Courtier remains a prisoner even when it cannot speak as itself. Wax replicas made after a person's death are residue or constructed imitations and do not belong to this soulbound form.
+
+Destroying the body ends the immediate threat but does not annihilate the person. The soul routes onward if the binding truly breaks. Careless destruction may erase testimony, memory, or the chance for a lucid farewell while still releasing the indestructible soul.
 
 ## Signs
 
@@ -60,7 +63,7 @@ They fight with household tools, embalming hooks, ceremonial arms, coordinated g
 - Softening throne-wax with the correct oils permits careful separation of imposed role from preserved memory.
 - Breaking the office-seal that recognizes a Courtier removes its supernatural authority and may allow the trapped soul to route.
 - White Flame can release a Courtier cleanly when the person beneath the wax still consents to death and restoration.
-- Fire destroys throne-wax quickly but often burns the memory with it.
+- Fire destroys throne-wax quickly but often burns recoverable memory and testimony with it; it cannot burn away the human soul.
 
 No method guarantees that the original person can return to ordinary life. The strongest successes allow final testimony, willing death, or the preservation of an unenslaved memory.
 
@@ -90,6 +93,7 @@ Using any of these materials risks extending the court's recognition beyond its 
 
 ## Navigation
 
+- [[Ancient and Crafted Legacies MOC]]
 - [[Bestiary MOC]]
 - [[Entombed with the Court — Full Adventure]]
 - [[Satrap Varesh]]

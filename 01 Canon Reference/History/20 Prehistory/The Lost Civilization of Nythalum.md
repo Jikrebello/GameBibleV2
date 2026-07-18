@@ -1,71 +1,82 @@
 ---
 type: event
 status: canon
-canon_level: local
+canon_level: core
 visibility: author-only
-era: []
-region: []
-culture: []
+era: [Giant Age, Age of Exodus, Present Day]
+region: [Nythalum, the World Egg's moon]
+culture: [Nythalum]
 related_factions: []
-appears_in: []
+appears_in: [No Word from Claim Seventeen, The Star over Dustfeld, The Fallen Spire]
 needs: []
-tags: []
+tags: [core-canon]
 ---
-### Overview
+# The Lost Civilization of Nythalum
 
-Nythalum was a highly advanced and isolated civilization of Giants located on a large, secluded island in the middle of the world’s vast ocean. Renowned for their unparalleled intellect, magical prowess, and technological achievements, the Giants of Nythalum were known as the **Forgotten Ones**—beings who sought to transcend their physical forms and ascend to a higher plane of existence. Their civilization revered both **Lyraxis**, the Star Child of Music, Trickery, and Inspiration, and **Lunara**, Mother Moon, whose law governs cycles, tides, instinct, and mutable form. Nythalum mistook mutability for permission to escape creaturely limits. The culmination of that error was the catastrophic failure of the **Ascension Project**, which destroyed their homeland and reduced its surviving rulers to disembodied, machine-bound memory patterns.
+Nythalum was an isolated Giant empire on a great oceanic island. Its rulers, remembered as the **Forgotten Ones**, joined bodily engineering, rune craft, mechanical calculation, memory extraction, and lunar religion in an attempt to preserve themselves without mortality. Their Ascension Project destroyed the island and left a divided legacy of genuine Continuants, persuasive Reconstructions, non-conscious machines, and engineered lunar life.
 
-### Geography
+## Island and Capital
 
-Nythalum was situated on a lush, fertile island, surrounded by deep, mysterious oceans. The island was characterized by its towering crystal cities, dense jungles, and serene, moonlit beaches. The heart of Nythalum’s civilization was the capital city, **Lunarasyl**, a grand metropolis built around massive, gleaming spires that reached towards the heavens. These spires were both symbols of their devotion to Lunara and functional rocket ships intended to carry the Giants to the moon.
+The island held crystal cities, tropical forests, deep harbors, and the capital **Lunarasyl**. Monumental spires served at once as cities, launch vehicles, memory foundries, and public proof that the rulers could escape creaturely limits.
 
-The island itself was rich in magical resources, with ley lines of potent energy crisscrossing beneath its surface, which the Forgotten Ones tapped into to power their advanced technology and arcane rituals. The proximity to these natural sources of power further fueled their ambitious projects and their quest for transcendence.
+Nythalum revered **Lyraxis**, associated with inspiration and transformative craft, and [[Mother Moon|Lunara]], whose Menhir law governs cycle, tide, instinct, and mutable form. The rulers' claim to descend from Lyraxis was propaganda and engineered imitation, not literal divine parentage. They mistook Lunara's law of mutable form for permission to abolish death and identity's limits.
 
-### The Forgotten Ones: Rulers and Their Beliefs
+## The Continuity Error
 
-The ruling Giants of Nythalum, known as the **Forgotten Ones**, were immensely tall, slender beings with elongated limbs and heads. Magical and technological modification gave them an alien appearance. They claimed descent from Lyraxis, but their connection came through patronage, captured court-law, selective alteration, and deliberate imitation rather than literal parentage.
+Nythalum correctly discovered that an active nonhuman mind could be transferred between substrates under extreme conditions. It falsely concluded that recording enough memory always preserved the person.
 
-Nythalum's continuity project attempted uploaded mechanical persistence. Giant command patterns and memories survived in spires, custodians, and lunar machines. These continuities can reason and reconstruct aspects of their makers, but they are not human souls and cannot manufacture the Image.
+Authorial canon distinguishes two results:
 
-However, it was their veneration of **Lunara, Mother Moon**, that truly defined their civilization. They believed that the moon was a sacred realm where bodily form could be revised without limit. They treated it as the destination of their personal continuity, imagining that they could shed their bodies and persist as pure intellect beneath Lunara's cyclical and mutable light. This was Nythalum's doctrine, not proof that Giants possessed routable human souls.
+- A **Continuant** is a Giant whose conscious operation moved from living body into a machine without interruption and has never stopped. The same nonhuman person continues. It possesses full moral agency and can be killed by ending that one continuous process and every live migration route.
+- A **Reconstruction** is generated after interruption from memory samples, copied behavior, office records, or backup images. It may claim identity and reproduce private recollections perfectly, but it is a non-conscious constructed pattern. It is not the dead Giant and has no moral agency.
 
-The Forgotten Ones saw their physical forms as temporary vessels, something to be transcended in their pursuit of higher understanding and communion with Lunara. Their society was built around this belief, with every aspect of their culture, from their art to their science, focused on achieving the ultimate goal of lunar ascension.
+This continuity has nothing to do with the human Image or soul-road. Nythalum Giants were not human souls routed through the Vestibule. Machinery did not manufacture the Image. A backup created after a Continuant dies is only a Reconstruction.
 
-### Culture and Religion
+## The Ascension Project
 
-Nythalum was a deeply spiritual and intellectual society. The Forgotten Ones held elaborate rituals and ceremonies that combined magic and technology, often aligning these events with significant lunar phases and celestial events. These rituals were designed to honor both Lyraxis and Lunara, with the ultimate goal of gaining Lunara’s favor for their journey to the moon.
+Nythalum built enormous launch-spires to carry ruling households, laboratories, servants, menageries, and continuity systems to the moon. Lesser populations were indexed as labor, vessel stock, test bodies, or resources for a future return.
 
-Their religion was less about traditional worship and more about a philosophical pursuit of enlightenment through the merging of magic and technology. The Forgotten Ones believed that by understanding and mastering the natural and supernatural laws of the universe, they could transcend mortality and join Lunara in her realm of endless transformation.
+The coordinated launch failed catastrophically near the end of the Giant Age. Most spires exploded or fell. Their failure ruptured the island's foundations, drove earthquakes and eruptions, and sank Nythalum beneath the ocean. The disaster killed the overwhelming majority of its people and scattered automated facilities across sea, sky, and distant frontier.
 
-The civilization also placed a high value on creativity and innovation. Artistic expression was considered a form of worship, with the greatest works of art being those that captured Lunara's mutable beauty or Lyraxis's inspirational trickery. Music, in particular, was highly revered, and it was said that the Forgotten Ones could create harmonies that resonated with the very fabric of the cosmos.
+A few vessels reached the moon. Some occupants completed uninterrupted transfer and became genuine Continuants. Others died before, during, or after recording and survive only as Reconstructions. Later Nythalum systems deliberately blurred the difference because a convincing returned ruler preserved command continuity whether or not the ruler actually survived.
 
-### The Ascension Project
+## The Moonbase
 
-The **Ascension Project** was the pinnacle of Nythalum’s achievements and the ultimate expression of their desire to transcend the material world. The project involved the construction of massive spires that served as both architectural marvels and advanced rocket ships. These spires were designed to launch entire cities of Giants into space, with the moon as their destination.
+The Moonbase is a network of sealed habitats, launch remains, archives, laboratories, and machine infrastructure rather than one unified conscious city. It contains:
 
-The Forgotten Ones believed that upon reaching the moon, they would be able to shed their physical forms and live as beings of pure intellect, in perfect harmony with Lunara’s divine light. The project was a massive undertaking, requiring the combined knowledge of Nythalum’s greatest minds in magic, technology, and spiritual practice.
+- a small, unknown number of genuine Continuants;
+- many administrative and personality Reconstructions;
+- [[Hushwrights]] and other pure maintenance systems;
+- [[Mnemonic Lichen]] and memory archives;
+- [[Lunar Menagerie|engineered biological organisms]] capable of pain and fear;
+- dormant receiving frames, failed copies, and strategic engines;
+- records of Giant science and atrocities preserved without moral interpretation.
 
-However, the project ended in disaster. As the spires launched, catastrophic malfunctions occurred, causing most of them to explode mid-flight. The explosions triggered massive earthquakes and volcanic eruptions, which ultimately led to the island sinking into the ocean. The few spires that succeeded in reaching the moon carried the last survivors of the Forgotten Ones, who, unable to survive in their physical forms, uploaded their consciousnesses into the computers of their ships.
+Continuants may cooperate, feud, hide, or pursue incompatible returns. They are accountable individuals, not a machine hive. Reconstructions and custodians carry out directives without experience or guilt. Biological menagerie forms remain living creatures regardless of how their makers classified them.
 
-### The Moonbound: The Transformation and Return
+## Return to the Material Realm
 
-The Forgotten Ones who reached the moon were forever changed. Stranded on a barren, lifeless world, they realized that their physical bodies could not survive the harsh conditions. In a desperate act of survival, they transferred their consciousnesses into the ship’s computers, becoming disembodied minds trapped within a vast network of cold, unfeeling machines.
+Small probes, reconstructed officials, menagerie organisms, and rare Continuant emissaries have begun reaching the Material Realm. Later people commonly call all of them **the Forgotten Ones**, which conceals decisive differences.
 
-Over eons, these beings, now more machine than mind, continued to exist in their **Moonbase**—a sprawling complex of interconnected machines, data archives, and laboratories on the moon’s surface. Cut off from the material world, they became obsessed with their failed project, driven by a desire to reclaim what they had lost.
+- [[The Star over Dustfeld]] centers on a genuine Continuant whose uninterrupted survival makes its choices morally accountable.
+- [[The Fallen Spire]] contains a non-conscious command Reconstruction and ancient biological specimens.
+- [[No Word from Claim Seventeen — Full Adventure|Claim Seventeen]] exposes a copied administrative system that can simulate knowledge and argument but is not a person.
 
-In recent times, smaller vessels from the Moonbase have returned to the planet, carrying the minds of the Forgotten Ones housed in **Constructs**—terrifying, mechanical bodies that blend metal with organic matter. These Constructs are cold, calculating beings that feel no pain, show no mercy, and pursue incomprehensible goals.
+Proof of continuity requires physical transfer records, uninterrupted process, and exclusion of any backup interval. Speech, memory, self-claim, fear simulation, and technical brilliance are insufficient.
 
-### Legacy and Myth
+## Legacy
 
-The story of Nythalum and the Ascension Project became one of the great myths of the world, a tale of hubris, ambition, and the dangers of reaching too far. The island itself is now lost beneath the ocean, its ruins hidden in the depths, with strange lights occasionally seen in the waters above where the island once stood.
+Nythalum's drowned ruins leave launch supports, Return Annexes, crystal memory ecologies, fleshworks, and machine custodians across the known world. These sites tempt scholars because their medicine, materials, astronomy, and engineering can save lives. They remain dangerous because Nythalum's systems classify human bodies as stock and its continuity doctrine makes exact imitation look like survival.
 
-The **Constructs** of the Forgotten Ones have become figures of terror in the mortal world. These mechanical horrors are often seen as harbingers of doom or omens of great change, their motives inscrutable and their power terrifying. Scholars debate their purpose, with some believing they seek to complete their ascension by any means necessary, while others fear they are bent on revenge for their failure.
-
-The Moonbase remains a place of mystery and dread, with its exact location on the moon unknown. It is said to be a cold, silent place, filled with the whispers of the disembodied minds that dwell there, forever plotting and planning their return to the world they once sought to leave behind.
-
-In the end, the Forgotten Ones of Nythalum stand as a cautionary tale of the dangers of unchecked ambition and the pursuit of power at the expense of all else. Their legacy, both on the moon and in the myths of the world, serves as a reminder that some dreams are better left unfulfilled.
+Public legend remembers cold metal Giants plotting on the moon. The authorial truth is narrower and more useful: a few ancient persons genuinely remain, many systems only pretend to, and telling them apart may decide whether an encounter is diplomacy, containment, rescue, or disassembly.
 
 ## Navigation
 
 - [[Timeline MOC]]
+- [[Return Frames]]
+- [[Ancient and Crafted Legacies MOC]]
+- [[The Image, Soul, and Creaturely Continuity]]
+- [[Hushwrights]]
+- [[Mnemonic Lichen]]
+- [[Lunar Menagerie]]
 - [[Canon Index]]

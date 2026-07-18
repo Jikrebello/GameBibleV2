@@ -19,6 +19,8 @@ The Crucible is Vorthara's foremost warlock school. It teaches fixed rune script
 
 Students learn inscription, sequencing, fuel preparation, field geometry, interruption, and safe failure before destructive scripts. Wands and gauntlets are tools for prepared script families, not sources of effortless free-form magic. Fire, pressure, cold, lightning, corrosive reactions, smoke, and stone fracture require different training and costs.
 
+The school holds influence over the **Crucible Mouth**, Vorthara's Fire-side permanent draw, but does not exclusively own it. Its forge-charge supports military testing and heavy industry. The city's other three anchors prevent the Crucible from turning one strategic resource into general government.
+
 ## Institution
 
 Tuition bonds, foreign military contracts, arena testing, and industrial work fund the school. Its ward contains barracks, proving courts, script libraries, burn hospitals, and reinforced ranges. The Crucible answers to its masters and creditors, not a city council.
@@ -32,4 +34,4 @@ Crucible predecessors helped shatter Covenant siege golems in 907. That victory 
 - [[Warlock Rune Magic]]
 - [[The Battle of the Shattered Engines (907 AR)]]
 - [[The Citadel of Vorthara Overview]]
-
+- [[Shell Anchors and Extraction]]

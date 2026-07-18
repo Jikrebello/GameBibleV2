@@ -18,7 +18,7 @@ tags: []
 - **10 Principles and Overview:** the common system vocabulary.
 - **20 Sacred and Restorative Magic:** [[White Flame Doctrine]] and [[The Making of Saints]].
 - **30 Contracts and Patrons:** [[Contract Magic and True Names]] and [[Patrons and Astral Rent]].
-- **40 Rune and Shell Magic:** [[Warlock Rune Magic]].
+- **40 Rune and Shell Magic:** [[Warlock Rune Magic]], [[Shell Anchors and Extraction]], and [[Elemental Shell MOC]].
 - **50 Thresholds and Soul-Routing:** [[Thin Spaces]] and [[Soul Routing and the Vestibule]].
 
 ## Core Systems
@@ -28,6 +28,8 @@ tags: []
 - [[Material Realm Overview]]
 - [[Elemental Shell and the Four Planes]]
 - [[Elemental Manifestations Overview]]
+- [[Elemental Shell MOC]]
+- [[Shell Anchors and Extraction]]
 - [[The World Egg Cosmology]]
 - [[White Flame Doctrine]]
 - [[Warlock Rune Magic]]

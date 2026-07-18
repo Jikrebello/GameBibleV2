@@ -76,6 +76,8 @@ Most Thalmyrics live in or near fortified cities, market towns, monasteries, and
 
 [[Thalmyric Armies and the Long Frontier]] and [[Thalmyric Military Orders]] describe the forces defending a long, expensive border. In 1360 AR, Thalmyria faces an unresolved succession, Sestaran debt, depopulated districts, antiquities crime, exhausted veterans, and pressure to resume a total war for Zanthir.
 
+Three permanent Shell anchors survive as guarded strategic inheritances: **Virelos Wind Stair**, **Kedravan Frost Gate**, and **Arkenan Basalt Draw**. Their stormglass, cold-pressure work, forge-charge, and weight-seed support signals, mountain logistics, fleets, fortification, and counter-siege engineering. Monastic and provincial witnesses oversee use without pretending elemental force is holy.
+
 [[Challenges and Future Tensions]] collects the active story fronts.
 
 ## Jirahar Relations
@@ -87,3 +89,4 @@ Thalmyria venerates a Jirahar Redeemer while inheriting imperial accounts of the
 - [[Cultures MOC]]
 - [[Historical Spine of the Known World]]
 - [[Gazetteer of the Known World]]
+- [[Shell Anchors and Extraction]]

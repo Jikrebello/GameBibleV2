@@ -8,8 +8,7 @@ region: ["Ishkatar ruins", "Glass-Risen Estate"]
 culture: ["Ishkatar"]
 related_factions: ["Cult of Avarix"]
 appears_in: ["Risen from the Glass"]
-needs:
-  - assign encounter values and release difficulty for the chosen game system
+needs: []
 tags: [module-conversion, game-ready, undead]
 origin_layer: crafted
 continuity: residue
@@ -22,6 +21,8 @@ catalogued_forms: [Estate Dead]
 habitats: [Ishkatar estates, tombs, sealed households]
 encounter_roles: [laborer, guardian, ambusher]
 related_magic: [residue animation, Giant office]
+shell_affinity: []
+animating_principle: [residue-animation, giant-reconstruction]
 ---
 # Estate Dead
 
@@ -89,6 +90,7 @@ Not every Ishkatar undead servant is Estate Dead, and later cultures may have co
 
 ## Navigation
 
+- [[Ancient and Crafted Legacies MOC]]
 - [[Bestiary MOC]]
 - [[Risen from the Glass — Full Adventure]]
 - [[The Glass-Risen Estate]]

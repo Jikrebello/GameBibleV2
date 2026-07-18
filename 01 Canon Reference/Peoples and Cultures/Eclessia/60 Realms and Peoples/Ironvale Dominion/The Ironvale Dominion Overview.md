@@ -41,6 +41,8 @@ Freeflame discipline supports literacy, mutual aid, and public accounting. It ca
 
 Coal, iron, tools, plate, artillery, scripts, and pamphlets drive the Dominion. Workers are free in law and exposed to injury, debt, and employer power in fact. Medori credit reaches the Council through equipment finance and export contracts.
 
+Three permanent Shell works amplify that industry: **Furnace Crown** supplies forge-charge, **Blackwall Compression Yard** produces weight-seed, and **Thunder Draw** recovers stormglass. Ironvale possesses less theoretical breadth than Vorthara but excels at converting a narrow anchor base into standardized guns, armor, fortifications, and [[Ironbound Frames]]. Access is a state and guild secret; their products are visible throughout the Dominion.
+
 ## Warfare
 
 The Blackened Guard protects the state; the Ironclad Siege Corps operates bombards and warlock-assisted engines; Smelterborn Brigades combine disciplined infantry with industrial logistics. Ironvale sells arms to governments whose theology it condemns.
@@ -61,5 +63,6 @@ Industrial espionage, labor organization, forbidden relics in foundry foundation
 - [[Conflicts and Underground Movements]]
 - [[Lives of Ironvale]]
 - [[Freeflame Reformation]]
+- [[Shell Anchors and Extraction]]
+- [[Ironbound Frames]]
 - [[Eclessia Overview]]
-

@@ -114,3 +114,5 @@ A previous expedition found the tomb and was destroyed. Its sole survivor, Raego
 
 - [[Sestaran Canon Register]]
 - [[Gazetteer of the Known World]]
+- [[Many-Handed Tribute Wardens]]
+- [[Wax-Bound Courtiers]]

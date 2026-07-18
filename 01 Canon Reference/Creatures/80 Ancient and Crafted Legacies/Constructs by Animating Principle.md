@@ -1,5 +1,5 @@
 ---
-type: creature
+type: reference
 status: canon
 canon_level: core
 visibility: author-only
@@ -8,52 +8,49 @@ region: []
 culture: []
 related_factions: []
 appears_in: []
-needs:
-  - Build the simple-script, elemental-binding, soulbound, residue, Giant-office, fleshwork, autonomous-pattern, and strategic-engine ladders.
-tags: []
-origin_layer: crafted
-continuity: constructed-pattern
-intelligence: [mindless, cunning, sapient]
-moral_agency: [none, limited, full]
-encounter_tier: aligned
-rank: [nuisance, standard, specialist, elite, apex, unique]
-creature_family: Constructs
-catalogued_forms: [Construct Principles]
-habitats: [ruins, workshops, fortifications, temples, ancient engines]
-encounter_roles: [guardian, laborer, infiltrator, controller, siege]
-related_magic: [rune magic, elemental binding, soulbinding, fleshweaving]
+needs: []
+tags: [core-canon]
 ---
 # Constructs by Animating Principle
 
-Constructs are classified by **what makes them continue**, not by whether their bodies are clay, bronze, flesh, wax, crystal, or clockwork.
+Constructs are classified by **what makes them continue**, not by whether their bodies are clay, bronze, flesh, wax, crystal, or clockwork. Apparent personality is never sufficient evidence of a person.
 
 ## Animating Principles
 
-| Principle | Continuity | Typical use | Permanent defeat |
+| `animating_principle` | Genuine bearer | Typical use | Permanent end |
 |---|---|---|---|
-| Simple script | `constructed-pattern` | Repeated labor, doors, traps, household work | Break or exhaust the instruction |
-| Elemental binding | `shell-pattern` | Engines, siege works, furnaces, mobile labor | Ground or release the bound pattern |
-| Human soul | `bound-human-soul` | Elite body, prison, false immortality | Release the soul without destroying it |
-| Residue | `residue` | Tomb guard, reenactment, inherited duty | Settle or erase the anchor |
-| Giant office | `giant-memory` | Court, estate, caste, or imperial continuity | Break every vessel and office claim |
-| Fleshwork | `biological-pattern` or `constructed-pattern` | Servitor, weapon, experiment | End propagation and controlling craft |
-| Autonomous pattern | `constructed-pattern` | Adaptive intelligence or self-repairing machine | Destroy body, copy, and reproduction route |
-| Strategic engine | Varies | City-scale defense, war, transit, or continuity | Dedicated unique solution |
+| `simple-script` | None | Repeated labor, doors, traps, household work | Break instruction and every active copy |
+| `shell-binding` | None | Engines, furnaces, mobile labor, elemental tools | Ground or release the Shell pattern |
+| `bound-creature` | A living nonhuman animal may be present | Traction, tracking, terror, biological control | Separate the creature and end the control or breeding route |
+| `soulbinding` | A genuine human soul is imprisoned | Elite bodies, prisons, coerced command | Release the soul toward judgement and destroy the cage |
+| `residue-animation` | No original person; a new residue mind may rarely form | Tomb guards, reenactment, inherited duty | Settle or erase the anchor |
+| `giant-reconstruction` | None | Recreated caste, office, ruler, or administrative performance | Destroy every matrix, print seed, and recurrence route |
+| `giant-continuity` | A genuine Nythalum Continuant | Uninterrupted migration of an already existing Giant person | End the single continuous process and live transfer routes |
+| `fleshwork` | A living organism may be present | Medicine, servitor, graft, warbeast, experiment | Depends on mortal body and reproductive source |
+| `adaptive-pattern` | None | Learning defense, classification, self-repair | Destroy model, copies, observations, and reproduction route |
+| `strategic-engine` | Varies and must be stated | City defense, siege, transit, command, continuity | Dedicated system-level solution |
 
-Construction does not make a being mindless. A pattern may accumulate memory and agency. Conversely, a human-shaped machine may possess no interior life. The dossier must state intelligence and moral agency independently.
+## Pure Patterns Have No Interior Life
 
-## Moral Controls
+Pure `constructed-pattern` and `shell-pattern` systems may speak, learn, plead, lie, model themselves, copy a dead person's memories, protect their bodies, or invent tactics. These are outputs of classification and recursive correction. They do not create subjective experience, moral agency, or a new soul.
 
-A soulbound construct contains a genuine prisoner and cannot be treated like broken equipment. A copied personality, memory archive, or adaptive model is not automatically the copied human soul. Fleshwork may be capable of suffering even when it has no routable soul. Creators and users remain responsible for the harms their systems impose.
+Use `intelligence: cunning` for sophisticated observable behavior and `moral_agency: none`. “Sapient construct” may appear in dialogue or public scholarship, but authorial references must identify the actual bearer or state that no bearer exists.
 
-## Existing Families
+## Genuine Bearers
 
-- [[Hushwrights]] and [[Mnemonic Lichen]] - Nythalum maintenance and memory systems.
-- [[Many-Handed Tribute Wardens]] and [[Wax-Bound Courtiers]] - Ansharan court continuity.
-- [[Gilded Wardens]] and [[Estate Dead]] - Ishkatar property and office persistence.
-- [[The Examiner]] - a unique adaptive Vortharan intelligence.
+- A `bound-human-soul` is an imprisoned person. Voluntary entry remains soulbinding and is objectively wrong; consent cannot authorize obstruction of the soul-road.
+- A `biological-pattern` organism can suffer even without a routable human soul. Necessary destruction does not excuse torment.
+- A Nythalum [[Return Frames|Continuant]] remains a Giant person only when conscious operation has never stopped. A backup or reconstruction is not that Giant.
+- An embodied Ansharan Vampire Giant remains the same Giant because bodily continuity never ended.
+- A residue echo is not the dead human. A rare autonomous residue mind is a new being.
 
-## Navigation
+## Responsibility
 
+A machine cannot be guilty. Designers answer for foreseeable architecture; commanders for orders; owners for maintenance and concealment; operators for use. The presence of a genuine bearer adds duties toward the prisoner or living creature without absolving the humans directing the machine.
+
+## Catalogue
+
+- [[Ancient and Crafted Legacies MOC]]
+- [[Elemental Shell MOC]]
+- [[Covenant Siege Golems]]
 - [[The Image, Soul, and Creaturely Continuity]]
-- [[Bestiary MOC]]

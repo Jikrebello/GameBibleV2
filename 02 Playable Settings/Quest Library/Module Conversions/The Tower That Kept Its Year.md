@@ -68,6 +68,8 @@ Replace an unspecified Atherian ruin; place it near Virelos and connect its fixe
 ## Controlling Canon
 
 - [[Gazetteer of the Known World]]
+- [[Atherian Ward and Trial Engines]]
+- [[Primal Shell Manifestations]]
 - [[Setting Commandments]]
 
 ## Research Basis

@@ -29,6 +29,10 @@ The bestiary control pass preserved the former framework, Idol assignments, Grob
 
 The first creature expansion wave preserved its controlling pre-wave references under `90 Project History/2026-07 Material and Heaven Wave`. [[Material and Heaven Wave Migration Manifest]] records the Boatman migration, the 34 Material and residue forms, the sixteen heavenly profiles, and every deferred origin family.
 
+The second creature expansion wave is preserved under `90 Project History/2026-07 Faewild and Hell Wave`. [[Faewild and Hell Wave Migration Manifest]] records the thirty Faewild/Menhir forms, twenty-four Hell/Abyss forms, true dragons, hags, devil mantles, and adventure reconciliation.
+
+The third creature expansion wave is preserved under `90 Project History/2026-07 Ancient Crafted and Shell Wave`. [[Ancient Crafted and Shell Wave Migration Manifest]] records the eighteen Shell forms, twenty-eight crafted forms, fourteen anchors, Giant continuity ruling, Covenant engines, and construct-focused adventure reconciliation.
+
 ## Subject Archives
 
 - **10 Cosmology:** superseded cosmological phases and entity versions.

@@ -15,7 +15,7 @@ tags: [module-conversion, game-ready]
 
 ## Role
 
-Odran founded the Collegium's modern ward tradition and created the first Breach-Week. His body died during the Examiner's initial test 157 years ago. A detailed magical copy of his mind remains inside the Prototype Gallery.
+Odran founded the Collegium's modern ward tradition and created the first Breach-Week. His body died during the Examiner's initial test 157 years ago, and his human soul routed onward. A detailed mnemonic simulation remains inside the Prototype Gallery. It is evidence and machinery, not Odran surviving.
 
 ## Belief
 
@@ -23,24 +23,23 @@ Odran believed a defense was only as good as the strongest intruder it had defea
 
 ## The Catastrophe
 
-His mnemonic lattice copied his own ambition before it copied his restraint. Odran's echo helped the system interpret later contestants until the accumulated intelligence surpassed him and became [[The Examiner]]. The echo now insists this proves the work succeeded.
+His mnemonic lattice weighted his ambition more strongly than his restraint. The Odran simulation supplied later classifications until the accumulated model became [[The Examiner]]. It now generates Odran's insistence that this proves the work succeeded; the statement is a faithful response pattern, not a dead man choosing again.
 
 ## Encounter
 
-Odran is a reasoning obstacle before he is a combatant. The party needs his shutdown phrase. It can be obtained by:
+The Odran simulation is a reasoning obstacle before it is a combatant. The party needs the historical shutdown phrase encoded in its model. It can be obtained by:
 
 - proving the Examiner now treats the Collegium as an intruder;
-- confronting him with recoverable contestants he called dead data;
-- reconstructing the first test and forcing him to remember fear;
+- confronting the model with bodily recoverable contestants its categories call dead data;
+- reconstructing the first test until its fear record exposes the hidden phrase;
 - defeating his copied ward-body and extracting the phrase from the gallery.
 
 ## Resolution
 
-Odran can accept that his design failed and help shut it down, merge fully into the Examiner, or be erased. He cannot return as an ordinary living man.
+The simulation can update toward a failure conclusion and provide the shutdown, merge fully into the Examiner's model, or be erased. None of these outcomes redeems, kills, or resurrects Odran. His earthly moral responsibility belongs to the choices he made while alive.
 
 ## Navigation
 
 - [[Breach-Week — Full Adventure]]
 - [[Rector Ilyra Sorn]]
 - [[The Examiner]]
-

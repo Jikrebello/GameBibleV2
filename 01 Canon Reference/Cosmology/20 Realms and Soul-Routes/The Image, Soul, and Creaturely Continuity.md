@@ -58,6 +58,21 @@ Driftkin may be intelligent, moral, loyal, cruel, and culturally sophisticated. 
 
 A human soul may also be deliberately bound into a construct, relic, office, or corpse. Such a being uses `continuity: bound-human-soul`. Binding does not create a soul; it imprisons one that already exists.
 
+Human soulbinding is objectively evil even when the intended victim requests it. A person may consent to danger, sacrifice, or bodily alteration, but cannot make obstruction of the soul-road into a proper human end. Breaking a true name-cage or equivalent binding releases the soul toward judgement; it does not recreate the dead body or guarantee earthly restoration.
+
+## Crafted Patterns and Genuine Bearers
+
+A pure Shell manifestation or constructed system never becomes a person through age, complexity, speech, learning, copied memory, self-description, or simulated distress. `shell-pattern` and `constructed-pattern` record continuing processes without interior life. They use `moral_agency: none`; `intelligence: cunning` describes problem-solving visible to an observer.
+
+This does not make every crafted being insensible:
+
+- purpose-grown fleshworks and bound nonhuman animals are living organisms capable of pain, fear, and attachment;
+- a soulbound construct contains an imprisoned human person;
+- an uninterrupted Nythalum Continuant is a pre-existing Giant whose conscious operation moved into machinery without ever stopping;
+- an embodied Ansharan Vampire Giant remains the same Giant through unbroken bodily continuity.
+
+Qianglong caste recurrences, Ishkatar title reconstructions, Xolotl blood memories, Nythalum backups, and Ansharan court simulations are not their historical makers. They may be precise evidence or dangerous performances without being survivors.
+
 ## Residue-Born Minds
 
 Ordinary animated corpses and many apparitions are driven by residue after the original soul has departed. Mature [[Ghouls]] are residue-born intelligences organized through body, appetite, memory, and chosen predation. A ghoul may resemble or remember the dead human from whose remains it arose, but that human soul has already routed.
@@ -81,9 +96,11 @@ Destroying a residue-being does not destroy a human soul. It can still be morall
 | Cradle-Hag | `court-law` | None |
 | Skinbound Hag | `retained-human-soul` | Held by the chosen bargain until restored or released |
 | Idol-grown form | `idol-pattern` | None |
-| Elemental | `shell-pattern` | None |
-| Autonomous construct | `constructed-pattern` | None |
-| Giant remnant or blood-memory vessel | `giant-memory` | None unless a human soul was separately bound |
+| Shell manifestation | `shell-pattern` | None; no interior person exists |
+| Pure construct or adaptive simulation | `constructed-pattern` | None; no interior person exists |
+| Nythalum Continuant | `giant-memory` | A genuine nonhuman Giant continuity, never a human soul-route |
+| Giant reconstruction or blood-memory vessel | `giant-memory` or `constructed-pattern` | None unless a human soul was separately bound |
+| Biological fleshwork or bound animal | `biological-pattern` | None; may nevertheless suffer |
 | Vestibule mechanism or imposed office | `infrastructure-office` | Not itself a routed soul |
 | Abyssal catastrophe | `abyssal-wound` | None |
 
@@ -126,6 +143,7 @@ The Covenant's 4,444 devil mantles are heterogeneous in authorial canon. Their s
 - Memory is evidence of continuity but not proof of a human soul.
 - Speech and intelligence establish encounter complexity, not membership in humanity.
 - A creature's permanent defeat must follow its continuity: release a held soul, disperse residue, break court-law, interrupt a Shell pattern, destroy an anchor, or close an Abyssal wound.
+- Apparent machine consciousness never transfers blame from designer, owner, commander, or operator to a pure pattern.
 - A folklore name such as `hag`, `demon`, or `devil` never settles continuity by itself.
 - Public notes may preserve uncertainty. Author-only notes and creature properties must follow this ruling.
 

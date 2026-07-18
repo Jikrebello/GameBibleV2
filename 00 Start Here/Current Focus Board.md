@@ -28,6 +28,7 @@ Develop Caleran as the setting's great-city sandbox. Its population, fourteen di
 - **Creature canon:** [[Bestiary Framework — Creatures of the World Egg|Bestiary Canon Register]] controls origin-first taxonomy and [[The Image, Soul, and Creaturely Continuity]] controls personhood and persistence. [[Bestiary Translation Concordance]] records the full Pathfinder crosswalk without importing its canon.
 - **First creature wave:** [[The Mundane Layer — Residue, Vermin, and the Delver Trade]] controls 34 Material and residue forms; [[Heaven and Soul-Road MOC]] controls sixteen profiles divided among true angels, manifested saints, and soul-road service.
 - **Second creature wave:** [[Faewild and Menhir MOC]] controls thirty forms across drakes, court beings, place minds, mythic fauna, and High Hunts; [[Hell and Abyss MOC]] controls twenty-four forms across damned manifestations, Depth fauna, devil mantles, soul predators, and Abyssal wounds.
+- **Third creature wave:** [[Elemental Shell MOC]] controls eighteen non-personal Shell forms; [[Ancient and Crafted Legacies MOC]] controls twenty-eight crafted forms across five Giant legacies, Atherian works, Ironbound industry, fleshworks, and Covenant engines. The active registry now exposes 171 genuine forms without counting overview placeholders.
 - **Covenant structure:** [[Ahl-e-Ahd Canon Register]] controls the layered peoples, Witnessed/Sealed divide, unequal states, and authorial Fourth Seal truth. [[Covenant Reconstruction Audit]] records the full reference pass.
 - **Sestaran structure:** [[Sestaran Canon Register]] controls seven independent seals joined only by [[The Seven-Seal Defensive Muster]]. Orsena and Vardessa are locked microstates; Vorthara has no common government. [[Sestaran Reconstruction Audit]] records the full reference pass.
 - **Jirahar structure:** [[Jirahar Canon Register]] controls the two destructions, maternal descent, conversion, four mobile Ways, five living towers, Empty City, and Keeper-controlled Way-Gates. [[Jirahar Reconstruction Audit]] records the full reference pass.
@@ -38,7 +39,7 @@ Develop Caleran as the setting's great-city sandbox. Its population, fourteen di
 ## Next Three Workstreams
 
 1. **Regional map production:** turn the Covenant, Sestaran, and Tarkhan control notes into finished roads, trade, harbor, fair, water, fortress, customary-range, and jurisdiction layers.
-2. **Bestiary Wave 4:** plan and build Ancient and Crafted Legacies alongside the Elemental Shell, using adventure demand to prioritize constructs, fleshworks, Giant remnants, seam forms, and bound manifestations.
+2. **Bestiary next wave:** plan and build Shadowlands and Idol ecologies alongside Astral Drift and Patrons, using the now-locked continuity rules and adventure demand.
 3. **Caleran and Grenzburg implementation:** continue map and adventure blocking from their locked production bibles without reopening their canon spines; use those adventures to set the creature backlog.
 
 ## Locked Rulings
@@ -54,6 +55,10 @@ Develop Caleran as the setting's great-city sandbox. Its population, fourteen di
 - Covenant law calls recognized Velian, Thalmyric, and Eclessian Redeemer communions the [[The People of the Lamp|People of the Lamp]]. Their protections are genuine and unequal.
 - The Sestaran Concord contains Fiorenzia, Sermora, Aversia, Vorthara, Castara, Orsena, and Vardessa. “Sestaran” is secondary to city identity. Only external invasion activates collective obligations.
 - [[The Battle of the Shattered Engines (907 AR)]] is the Caldrian-Vortharan victory that broke the northern Covenant advance and materially enabled the later mountain resistance.
+- The Elemental Shell is one membrane with four joined quadrants. Pure Shell patterns never become persons. Fourteen permanent anchors provide strategic output to Vorthara, Ironvale, the Qahirid Covenant, and Thalmyria without making ordinary life broadly high-magic.
+- Pure constructs simulate mind and possess no moral agency. Human soulbinding is always an evil imprisonment; biological fleshworks and bound animals can genuinely suffer.
+- Only uninterrupted Nythalum Continuants and continuously embodied Ansharan Vampire Giants are genuine surviving Giant individuals. Every backup, caste recurrence, office reconstruction, and copied administrative personality is a pattern rather than its historical maker.
+- Qahirid great engines comprise separate Depth-Core, Slave-Soul, and Surrender technologies. In 1360 AR the Qahirids retain three operational great engines, two dormant frames, and one slow replacement foundry.
 - [[The Grey Sweat]], [[The Korrheim Accord]], and the [[Freeflame Reformation]] are the source events for Eclessia's demographic and confessional present.
 - The Folk are a living umbrella civilization rather than a state. Enaidfae are old-rite Folk confederacies; Ättar are a distinct cousin people. Local courts may mix Menhir courtiers, patrons, Shades, and Idol masks, while [[Folk Faith and Appeasement]] governs public practice.
 - The Ättar are four great totem-kindreds containing many rival halls. Every old-rite hall chief is a hybrid-only skinwalker; each ruling line owes one firstborn exchange per generation. Transformations do not consume memories, and Moontouched decline is neither immediate nor inevitable.
@@ -69,7 +74,7 @@ Develop Caleran as the setting's great-city sandbox. Its population, fourteen di
 - Named regional cells for the Left Hand as new playable settings are developed.
 - Final visual treatment for Caleran's surface and undercity maps.
 - System-specific encounter and reward tuning for selected Caleran adventures.
-- Family ladders, regional homes, and encounter-ready profiles for the Ancient/Crafted and Elemental Shell paired expansion wave.
+- Family ladders, regional homes, and encounter-ready profiles for the Shadowlands/Idols and Astral Drift/Patrons paired expansion wave.
 - Orsena population, harbor districts, and cistern capacity; Vardessa's fair calendar and road travel table.
 - Population, district, and playable-setting numbers for Mazrakan.
 - Present road, fortress, and jurisdiction maps for Zanthir and the Velian States.

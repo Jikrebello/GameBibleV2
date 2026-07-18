@@ -26,6 +26,8 @@ Magic in the World Egg is not one substance. It is a family of different access 
 | Menhir/Druidic Magic | Faewild living law | pact, taboo, place, season, bloodline, rite | druids, pact clans, forest peoples | becoming local law's instrument |
 | Idol/Shade Magic | Shadowlands predatory meanings | vice architecture, psychic feeding, cult patterning | shades, cults, corrupt courts, vice networks | possession by appetite, identity collapse |
 
+Permanent [[Shell Anchors and Extraction|Shell anchors]] are industrial infrastructure built from warlock principles, not a seventh magic family. They make forge-charge, pressure brine, stormglass, and weight-seed strategically extractable while leaving ordinary magic dependent on training, instruments, supply, and risk.
+
 ## Design Rule
 
 Every magic system should answer five questions:

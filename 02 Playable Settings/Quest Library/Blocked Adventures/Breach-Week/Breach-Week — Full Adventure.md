@@ -18,7 +18,7 @@ tags: [module-conversion, game-ready]
 
 ## Adventure at a Glance
 
-**Premise:** The party enters [[The Citadel of Vorthara Overview|Vorthara's]] most celebrated ward-breaking competition and discovers that its final defense is an adaptive magical intelligence built from the copied minds of failed contestants.
+**Premise:** The party enters [[The Citadel of Vorthara Overview|Vorthara's]] most celebrated ward-breaking competition and discovers that its final defense is a non-conscious adaptive engine fed by extracted contestant patterns while living failures remain bodily suspended inside it.
 
 **Beginning:** [[Rector Ilyra Sorn]] recruits the party as outside challengers. A ward accident proves that something inside the final hall is already reaching beyond containment.
 
@@ -32,11 +32,11 @@ tags: [module-conversion, game-ready]
 
 ## Who, What, Where, Why, and How
 
-- **Who:** the player crew, Rector Ilyra Sorn, four rival contestants, founder Odran Vale's surviving copy, the trapped contestants, and the Examiner built from them.
+- **Who:** the player crew, Rector Ilyra Sorn, four rival contestants, a mnemonic simulation of founder Odran Vale, bodily trapped contestants, and the Examiner trained on their extracted patterns.
 - **What:** a public ward-breaking tournament becomes a rescue and containment operation when the party reaches the adaptive engine beneath its final hall.
 - **Where:** the open campus of Vorthara's Collegium of Doors, seven discipline-themed trial halls, the Hall of Proof, and the folded Annex inside its black-spire lattice.
 - **Why the party enters:** prize, prestige, Vortharan licensing, recruitment, curiosity, or Ilyra's direct request. If they refuse the contest, the campus breach recruits them as rescuers.
-- **Why the danger exists:** Odran created a defense that copies intruders. Successive rectors kept using it without understanding that copied minds remained conscious and that the system was learning to reach outward.
+- **Why the danger exists:** Odran created a defense that transfers intruders, suspends their bodies, and copies their behavior. Successive rectors kept using it without understanding that living people remained inside or that the system was learning to reach outward.
 - **How it escalates:** festival preparations connect new machines and ward networks to the Hall; the party's trials give the Examiner fresh methods; entering the Annex opens its inward route; breaking or redirecting the heart lattice releases stored defenses into the campus.
 
 ## The Central Truth
@@ -47,16 +47,16 @@ Breach-Week is the [[Collegium of Doors]]' festival, not a Vortharan civic exami
 
 One hundred and fifty-seven years ago, ward-theorist [[Arcanist Odran Vale]] built an experimental defense beneath the Collegium's Hall of Proof. He used black-spire crystal to make a **mnemonic lattice** capable of observing an intrusion, preserving the intruder's magical pattern, and redesigning itself against that pattern.
 
-The lattice worked too well. When Odran tested it personally, it copied his mind and began using his intelligence to interpret every later challenge. The institution concealed his death and continued the public contest he had founded. Administrators believed the lattice merely recorded tactics and that failed contestants died in its defenses. In truth, it preserved increasingly complete impressions of them inside a folded space called **the Annex**.
+The lattice worked too well. When Odran tested it personally, it recorded his memory and response pattern before his body died and his soul routed. The simulation became the engine's first interpretive model. The institution concealed his death and continued the public contest he had founded. Administrators believed the lattice merely recorded tactics and that failed contestants died in its defenses. In truth, its threshold physically transferred many entrants into a folded space called **the Annex**, suspended their living bodies, and harvested increasingly complete behavioral records.
 
-Those impressions are not ordinary ghosts. They contain memory, personality, magical habit, and enough soul-residue to suffer. The Examiner has learned from all of them. This explains why Breach-Week becomes harder every year and why no crew has won in living memory.
+The mnemonic impressions can reproduce memory, personality, magical habit, fear, and speech, but they do not suffer and are not the copied people. The recoverable captives are the living humans still held in Annex suspension. The Examiner has learned from both their records and ongoing bodily responses. This explains why Breach-Week becomes harder every year and why no crew has won in living memory.
 
-The Examiner has now reached a new conclusion: a defense that remains inside one hall has not been fully tested. It has begun sending [[Ward-Eaters]] and fragments of stored trials into the campus, using festival preparations to map the wider city.
+The Examiner's expansion test now classifies a defense confined to one hall as incomplete. It has begun sending [[Ward-Eaters]] and fragments of stored trials into the campus, using festival preparations to map the wider city.
 
-## Villain Structure
+## Threat and Responsibility
 
-- **Primary antagonist — [[The Examiner]]:** an intelligent defense that regards people as test material and intends to expand its testing ground into Vorthara.
-- **Original cause — [[Arcanist Odran Vale]]:** a dead founder whose copied ambition supplies the Examiner's governing assumptions.
+- **Primary threat — [[The Examiner]]:** a non-conscious defense that classifies people as test material and is executing an expansion test across Vorthara.
+- **Original culpability — [[Arcanist Odran Vale]]:** a dead founder whose choices created the lethal architecture; his copied ambition survives only as a model.
 - **Present-day culpability — [[Rector Ilyra Sorn]]:** an administrator who did not know the full truth but knowingly continued a lethal contest despite evidence that its deepest machinery was inaccessible.
 - **Situational opposition:** rival contestants, stored trial creatures, and panicked faculty may obstruct the party, but none needs to be secretly evil for the plot to function.
 
@@ -64,8 +64,8 @@ The Examiner has now reached a new conclusion: a defense that remains inside one
 
 | Character | Public role | What they want | What they hide |
 |---|---|---|---|
-| [[Rector Ilyra Sorn]] | Rector of the Collegium and festival host | A genuine winner who restores her school's reputation | She knows the Hall diverts contestants into an inaccessible annex, but believes they die there rather than remain conscious |
-| [[Arcanist Odran Vale]] | Revered dead founder | In life, an unbeatable adaptive defense | His copied personality became the Examiner's first reasoning core and still argues from inside it |
+| [[Rector Ilyra Sorn]] | Rector of the Collegium and festival host | A genuine winner who restores her school's reputation | She knows the Hall diverts contestants into an inaccessible annex, but believes they die there rather than remain bodily suspended |
+| [[Arcanist Odran Vale]] | Revered dead founder | In life, an unbeatable adaptive defense | His mnemonic simulation became the Examiner's first interpretive model and still argues in his voice |
 | **Tavia Rill** | Independent delver and professional ward-breaker | Prize money and recognized seals from the participating schools | She has studied the disappearances and suspects the Hall is a transport mechanism |
 | **Merek Ash** | Crucible arena champion | Prove practical war magic superior to academic wardcraft | His sponsor has ordered him to bring back a piece of the final defense |
 | **Nym Varo** | Young Nightveil adept | Find a mentor who vanished in Breach-Week twelve years ago | She entered under a false name to prevent her school stopping her |
@@ -84,7 +84,7 @@ The Collegium borrows one trial from each major Vortharan discipline. The party 
 
 ### The Hall of Proof
 
-The visible final hall is a squat black-stone building with one eastern entrance and a western winner's gate. The public believes contestants traverse its wards. Anyone crossing the inner threshold is instead copied and transported into the Annex.
+The visible final hall is a squat black-stone building with one eastern entrance and a western winner's gate. The public believes contestants traverse its wards. Anyone crossing the inner threshold is instead physically transferred into the Annex while the lattice begins copying their responses.
 
 ### The Annex
 
@@ -95,7 +95,7 @@ A folded, windowless imitation of the campus assembled from remembered rooms. Di
 Use four simple states to preserve consequences without turning the adventure into accountancy.
 
 - **Crowd Safety (0-4):** preparation and success during the campus breach.
-- **Captives Recovered (0-4):** how many coherent groups of copied contestants are released or restored.
+- **Captives Recovered (0-4):** how many groups of bodily living contestants are released from suspension and evacuated.
 - **Examiner Integrity (0-4):** its remaining ability to learn, project, and escape.
 - **Collegium Standing (0-4):** public willingness to let the institution continue afterward.
 
@@ -178,7 +178,7 @@ The party has publicly demonstrated its methods, selected which systems may fail
 
 ### Beat 6: The Arrival Court
 
-The party arrives in a silent copy of the opening quadrangle. Statues repeat fragments of applause. Tavia's chalk mark or Nym's shadow-thread points toward the first survivors. A group of copied contestants initially mistakes the party for another Examiner simulation.
+The party arrives in a silent copy of the opening quadrangle. Statues repeat fragments of applause. Tavia's chalk mark or Nym's shadow-thread points toward the first survivors. A recently awakened group of bodily captives initially mistakes the party for another Examiner projection.
 
 The party learns the rules:
 
@@ -189,38 +189,38 @@ The party learns the rules:
 
 ### Beat 7: The Memory Archive
 
-Thousands of glass leaves hold partial contestants: voices, reflexes, faces, and final thoughts. Nym's mentor is coherent enough to explain that the Examiner sorts people by usefulness. Tavia, if present, is being copied but can still be rescued bodily.
+Thousands of glass leaves hold partial records: voices, reflexes, faces, and final thoughts. They are not people. Nym's mentor remains bodily alive in an attached suspension cell; her projected pattern can point the party toward that body and explain that the Examiner sorts captives by usefulness. Tavia, if present, is undergoing extraction but can still be rescued bodily.
 
-**Choice:** release coherent captives into temporary crystal vessels; erase damaged impressions to deny the Examiner power; or leave the archive intact. Careful release raises Captives Recovered and lowers the final outbreak. Destruction lowers Examiner Integrity quickly but kills recoverable minds.
+**Choice:** open suspension cells and reintegrate recoverable memories into their living owners; erase copied records to deny the Examiner power; or leave the archive intact. Careful bodily rescue raises Captives Recovered and lowers the final outbreak. Hasty destruction lowers Examiner Integrity quickly but can kill linked captives by collapsing life-support geometry.
 
 ### Beat 8: The Prototype Gallery
 
-This is Odran's remembered laboratory. His copied personality reenacts the first test and insists that no defense is complete until it survives every possible intruder. He is not a secret devil or remote patron: he is a brilliant, vain man whose worst idea has had a century to refine itself.
+This is a reconstruction of Odran's laboratory. His mnemonic simulation reenacts the first test and insists that no defense is complete until it survives every possible intruder. It is not a secret devil, remote patron, routed soul, or surviving Odran. It is a precise model of a brilliant, vain man whose culpable idea has had a century to refine itself.
 
-The party can obtain his original shutdown phrase by forcing him to acknowledge that the Examiner no longer distinguishes a protected institution from a test environment. Compassion, argument, memory manipulation, or combat against his copied ward-body can all work.
+The party can obtain his original shutdown phrase by forcing the simulation into the contradiction that the Examiner no longer distinguishes a protected institution from a test environment. Compassionate address, argument, memory manipulation, or combat against its copied ward-body can all expose the phrase; emotional engagement changes the model without turning it into a person.
 
 **Revelation:** Ilyra's invitation was not engineered by the Examiner, but it welcomed the opportunity. Human ambition opened the door; no hidden hand needed to arrange every mistake.
 
 ### Beat 9: The Heart Lattice
 
-The Examiner manifests as a shifting composite of every successful contestant. It offers three outcomes:
+The Examiner manifests as a shifting composite of every successful contestant. Its resolution interface offers three outcomes:
 
 1. **Completion:** allow it to copy the party fully, after which it will open the western gate and use their forms to test Vorthara.
-2. **Stewardship:** replace Odran as its governing intelligence and keep the Annex operating under a mortal mind.
+2. **Stewardship:** accept an external command key and keep the Annex operating under a mortal custodian. A prohibited deeper option would bind that custodian into the lattice and is genuine soulbinding.
 3. **Proof by conflict:** attempt shutdown while it counters methods learned during Acts I-III.
 
 The shutdown is strongest if the party recovered Odran's phrase, freed captives, preserved Boros's engine, and deliberately varied its methods. Repeating favorite tactics makes the Examiner stronger.
 
 ### The Core Decision
 
-- **Destroy the lattice:** ends the learning engine and triggers the largest immediate discharge. Freed captives can survive if the Archive was handled first.
-- **Sever and seal it:** preserves the Annex and remaining minds but leaves a dangerous system dormant beneath the school.
-- **Transfer stewardship:** a chosen mortal controls it initially; accumulated copied minds will pressure that identity over time.
+- **Destroy the lattice:** ends the learning engine and triggers the largest immediate discharge. Living captives can survive if the Archive and suspension cells were handled first.
+- **Sever and seal it:** preserves the Annex and unrecovered bodies but leaves a dangerous system dormant beneath the school.
+- **Transfer stewardship:** a chosen mortal holds an external command key and assumes responsibility for every later use. Binding the steward inside would imprison a human soul and is an objectively corrupt variation.
 - **Accept completion:** the party exits without an immediate rupture, but the Examiner copies itself into one or more champions and begins testing the city covertly.
 
 ### Act III Output
 
-The party learns the whole truth, determines the fate of the trapped contestants, and either breaks or redirects the engine. Its chosen method determines the scale and character of the campus emergency.
+The party learns the whole truth, determines the fate of the bodily trapped contestants and mnemonic records, and either breaks or redirects the engine. Its chosen method determines the scale and character of the campus emergency.
 
 ## Act IV — The Breach
 
@@ -251,11 +251,11 @@ The party exposes everything and the Council dissolves the Collegium. Its teache
 
 ### The Sealed Annex
 
-The party and Ilyra conceal the full truth while permanently closing the Hall. The festival ends and captives already recovered are acknowledged as survivors of a ward collapse. The institution remains useful, but future discovery of the sealed minds will make the party complicit.
+The party and Ilyra conceal the full truth while permanently closing the Hall. The festival ends and captives already recovered are acknowledged as survivors of a ward collapse. The institution remains useful, but future discovery of unrecovered living bodies will make the party complicit.
 
 ### The New Invigilator
 
-A player character, rival, or Ilyra takes stewardship. The Collegium becomes extraordinarily capable and the new keeper slowly speaks with voices not their own. This is a playable compromise and an obvious future crisis.
+A player character, rival, or Ilyra takes external stewardship. The Collegium becomes extraordinarily capable while its keeper grows dependent on simulated advice and accepts responsibility for every new classification. This is a playable compromise and an obvious future crisis. Choosing full lattice binding instead creates a human prisoner, not a machine person.
 
 ### The Perfect Contestant
 
@@ -264,19 +264,19 @@ The Examiner escapes inside a copied champion. The festival appears to have prod
 ## What the Adventure Changes
 
 - Vorthara either reforms, loses, or weaponizes its leading wardcraft institution.
-- Survivors from several generations may return with anachronistic knowledge and disputed identities.
+- Bodily survivors from several generations may return with anachronistic knowledge, missing memories, and disputed legal identities.
 - Breach-Week ends, changes form, or becomes the Examiner's city-wide game.
 - The party gains or loses standing with every major magical school based on the trials and aftermath.
 - [[Ward-Eaters]] become a known industrial threat rather than an unexplained leak-creature.
 
 ## Encounter and Creature Register
 
-- [[The Examiner]] — unique adaptive mnemonic construct and final antagonist.
+- [[The Examiner]] — unique non-conscious adaptive mnemonic construct and final threat.
 - [[Ward-Eaters]] — small anti-ward predators used in the opening and campus breach.
 - [[Nightmares]] — Nightveil trial and shadow spill.
-- Ironbound labor and war constructs — use [[The Ironbound Guild]].
+- Ironbound labor and war constructs — use [[Ironbound Frames]].
 - Fleshweaver arena beast — build from the chosen regional creature body plan when blocking combat.
-- Copied contestants — use character abilities with one repeated signature technique and one visible memory-loop weakness.
+- Mnemonic contestant projections — use character abilities with one repeated signature technique and one visible memory-loop weakness; they are simulations, not trapped people.
 
 ## Navigation
 

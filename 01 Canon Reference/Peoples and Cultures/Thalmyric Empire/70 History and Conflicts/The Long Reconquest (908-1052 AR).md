@@ -27,7 +27,7 @@ Occupation repopulation mixed garrison households, rewarded clients, contract-bo
 
 Caedros Aetherion joined surviving soldiers, refuge councils, monasteries, village militias, and dispossessed houses. The resistance initially fought through ambush, evacuation, road denial, and the preservation of people rather than territory.
 
-The Covenant army's defeat at [[The Battle of the Shattered Engines (907 AR)]] had already ended its Eclessian advance, destroyed much of its siege train, and forced occupation forces to cover too many roads with too few engines. Vorthara's intervention created an opportunity for the resistance without making the city part of the Thalmyric cause.
+The Covenant army's defeat at [[The Battle of the Shattered Engines (907 AR)]] had already ended its Eclessian advance, destroyed two of five great engines, crippled a third, and forced occupation forces to cover too many roads with too few machines. Knowledge recovered from a released human name-cage became part of the rebels' later counter-engine practice. Vorthara's intervention created an opportunity for the resistance without making the city part of the Thalmyric cause.
 
 [[The Battle of Caelmount]] in 917 proved a Covenant field force could be defeated in the mountains. Virelos was secured in 921, giving the rebellion a defensible political center.
 
@@ -43,7 +43,7 @@ The Eternal Ember had remained lit under Covenant guard and property law. Veridu
 
 ## Province by Province, 962-1052 AR
 
-The next ninety years were fought through roads, irrigation districts, walled towns, marriage settlements, amnesties, sieges, and competing land registers. Many returned families found their ancestral villages inhabited by other families with legal claims of their own. Some settlements negotiated continuity; others suffered expulsion, massacre, or repeated changes of ruler.
+The next ninety years were fought through roads, irrigation districts, walled towns, marriage settlements, amnesties, sieges, and competing land registers. Recovery of the Virelos Wind Stair, Kedravan Frost Gate, and Arkenan Basalt Draw gave Thalmyria strategic signal, cold-pressure, forge, and fortification capacity without making ordinary armies high-magic. Many returned families found their ancestral villages inhabited by other families with legal claims of their own. Some settlements negotiated continuity; others suffered expulsion, massacre, or repeated changes of ruler.
 
 The First and Second Breakings weakened the return by turning imperial force inward. Empress Theodosia ended the Second Breaking and secured the surviving core road network in 1052. The Feast of the Rekindling commemorates religious restoration and the practical reconnection of the heartland.
 
@@ -66,3 +66,5 @@ Four generations of flight and return concentrated population around walls, mark
 - [[The Reclamation of Caleran]]
 - [[The Founding Flame]]
 - [[Chronology of the Known World (AR Dating)]]
+- [[Covenant Siege Golems]]
+- [[Shell Anchors and Extraction]]

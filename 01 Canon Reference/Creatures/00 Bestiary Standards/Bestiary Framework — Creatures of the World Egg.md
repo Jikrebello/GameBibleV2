@@ -50,6 +50,8 @@ The target is approximately 200 registry entries represented through 45–60 fam
 | Heaven and Soul-Road | 16 profiles |
 | Faewild and Menhir | 30 forms |
 | Hell and Abyss | 24 forms |
+| Elemental Shell | 18 forms |
+| Ancient and Crafted Legacies | 28 forms |
 
 Section MOCs hold exact form registers. Overview and index notes never contribute artificial `catalogued_forms` coverage.
 
@@ -86,6 +88,8 @@ A family may contain several ranks. `rank` records the dossier's most useful ban
 | `encounter_roles` | List such as predator, controller, infiltrator, siege, hazard, guardian, skirmisher, or social |
 | `related_magic` | List of systems that create, bind, expose, or counter the creature |
 | `catalogued_forms` | Every distinct reusable form covered by the dossier; standalone creatures list themselves |
+| `shell_affinity` | Optional: `fire`, `water`, `air`, `earth`, or `mixed`; use a list when a family spans affinities |
+| `animating_principle` | Optional: `simple-script`, `shell-binding`, `bound-creature`, `soulbinding`, `residue-animation`, `giant-reconstruction`, `giant-continuity`, `fleshwork`, `adaptive-pattern`, or `strategic-engine` |
 
 ## Continuity Controls Defeat
 
@@ -97,9 +101,9 @@ A family may contain several ranks. `rank` records the dossier's most useful ban
 - `wrath-rewritten-life` and `drift-rewritten-life`: defeat the living being and any external propagation mechanism; no soul routes afterward.
 - `court-law`: break, satisfy, displace, or overwrite the law that gives the being form.
 - `idol-pattern`: starve, expose, or sever the vice ecology that reproduces it.
-- `shell-pattern`: interrupt elemental coherence, binding, or seam conditions.
-- `constructed-pattern`: disable the script, engine, command structure, or body.
-- `giant-memory`: destroy or separate every vessel through which the memory reconstructs itself.
+- `shell-pattern`: interrupt elemental coherence, binding, or seam conditions. No pure Shell pattern is a person.
+- `constructed-pattern`: disable the script, engine, command structure, copies, or body. Adaptive behavior never creates interior life.
+- `giant-memory`: first distinguish an uninterrupted Nythalum Continuant from reconstruction. End a reconstruction's vessels; treat a genuine Continuant as an accountable nonhuman person.
 - `infrastructure-office`: remove or lawfully replace the office, not merely its current manifestation. Then identify and address the bearer according to `bearer_continuity`.
 - `abyssal-wound`: close the breach or contradiction that lets the creature recur.
 
@@ -116,6 +120,8 @@ A family may contain several ranks. `rank` records the dossier's most useful ban
 - A devil is a contractual mantle or office, not a biological species. The Covenant's 4,444 offices have heterogeneous bearers in authorial canon.
 - Damned human souls cannot be annihilated or redeemed by ordinary defeat. Breaking an imposed office does not reverse final judgement.
 - [[Fallen Angels and Broken Commissions|Fallen angels]] remain rare named created spirits, never a reusable creature ladder.
+- [[Elemental Manifestations Overview|Shell manifestations]] are non-personal patterns. [[Great Coherences]] are disaster-scale computations, not sovereign elementals.
+- Pure constructs have no moral agency. [[Return Frames|Nythalum Continuants]], embodied Ansharan Vampire Giants, soulbound humans, and biological fleshworks are classified by the genuine bearer rather than the shell around them.
 
 ## Aberration Is a Diagnostic Tag
 

@@ -52,7 +52,7 @@ The Prophet’s journey took him through each of the Giant empires, where he fac
 - In **Qianglong**, the Prophet’s miracles unbalanced the natural forces, bringing famine, disease, and ruin to the empire’s structured harmony.
 - In **Ishkatar**, the Prophet’s divine intervention dried up the rivers and turned their treasures to dust, breaking the power of the Serpent Giants.
 - In **Xolotl**, the **Blood Sun** exploded in a volcanic eruption after the Prophet called down the Lord’s judgment, obliterating the Obsidian Giants' capital and ending their bloody reign.
-- In **Nythalum**, the Prophet’s prayers brought down the spires, collapsing their ascent into the heavens and leaving the few who reached the moon stranded as disembodied minds.
+- In **Nythalum**, the Prophet's prayers brought down the spires, collapsing their ascent into the heavens and leaving the few who reached the moon divided between rare uninterrupted Continuants, dead rulers imitated by Reconstructions, and non-conscious machine systems. Later myth calls all of them disembodied minds.
 
 As the Prophet moved through the lands, those who believed in his message joined him, forming a growing exodus of freed peoples. Those who did not believe remained behind, many perishing in the chaos or joining in slave rebellions that toppled the Giants’ empires from within.
 

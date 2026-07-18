@@ -32,7 +32,7 @@ Miners, charcoal burners, forge hands, engineers, factors, company families, far
 
 Ore, steel, tools, armor, artillery, fortification, proof-testing, and contract-captain service are the principality's core exports. Citizen militia holds walls; professional companies campaign abroad. During a muster Aversia supplies field troops, artillery, engineers, and fortress officers.
 
-The northeastern freight link reaches detached Castara through Vardessa and the [[Castaran Long Road]]. Aversia calls the annual Ash payment tribute while depending on its results. Aversian arms reach rival Ash banners, and proposed depots repeatedly conflict with pasture and great-horn migration.
+The northeastern freight link reaches detached Castara through Vardessa and the [[Castaran Long Road]]. Aversia calls the annual Ash payment tribute while depending on its results. Aversian arms reach rival Ash banners, and planned depots repeatedly conflict with pasture and great-horn migration.
 
 ## Present Tensions
 

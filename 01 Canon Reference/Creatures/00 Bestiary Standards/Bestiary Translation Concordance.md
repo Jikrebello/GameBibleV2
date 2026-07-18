@@ -97,13 +97,13 @@ This is the creator-only crosswalk for the supplied Pathfinder monster taxonomy.
 |---|---|---|
 | Flesh, clay, stone, iron, wood, glass, ice, bone, wax, and rare-metal golems | `expand` | [[Constructs by Animating Principle]]; material is secondary to script and continuity |
 | Animated statues, armour, furniture, weapons, ships, books, siege engines, architecture | `new-family` | Simple-script animated works and warded architecture |
-| Clockwork servants, soldiers, spies, familiars, steeds, assassins, dragons, priests, leviathans, siege machines | `expand` | Nythalum machines and lesser engineered automata |
-| Homunculi and alchemical constructs | `merge` | Vortharan fleshworks, notarial familiars, and laboratory servitors |
-| Soulbound dolls, mannequins, puppets, armour, artificial bodies | `expand` | Bound-human-soul constructs, morally distinct from autonomous machines |
-| Shield guardians, caryatid columns, animated armour, rune guardians, sentinel statues, temple machines | `existing` | [[Gilded Wardens]], [[Many-Handed Tribute Wardens]], and Atherian ward families |
+| Clockwork servants, soldiers, spies, familiars, steeds, assassins, dragons, priests, leviathans, siege machines | `expand` | [[Ironbound Frames]], [[Script Familiars]], Nythalum machines, and named strategic engines; pure patterns are simulations |
+| Homunculi and alchemical constructs | `merge` | [[Homuncular Servitors and Vat-Bred Warbeasts|Vortharan fleshworks]], script familiars, and laboratory servitors |
+| Soulbound dolls, mannequins, puppets, armour, artificial bodies | `expand` | `bound-human-soul` prisons, morally distinct from pure machines and always objectively evil |
+| Shield guardians, caryatid columns, animated armour, rune guardians, sentinel statues, temple machines | `existing` | [[Gilded Wardens]], [[Many-Handed Tribute Wardens]], and [[Atherian Ward and Trial Engines]] |
 | Poppets, scarecrows, and toys | `new-family` | Household and field constructs divided by script, residue, or bound soul |
-| Robots and technological constructs | `existing` | [[Hushwrights]], [[The Examiner]], and Nythalum legacies |
-| Colossi | `unique` | Named strategic engines or dead-imperial siege bodies |
+| Robots and technological constructs | `existing` | [[Hushwrights]], [[The Examiner]], [[Return Frames]], and modern Ironbound works; only uninterrupted Continuants are genuine surviving machine-borne people |
+| Colossi | `unique` | Named strategic engines, [[Covenant Siege Golems]], or dead-imperial siege bodies |
 
 ## Aberration Crosswalk
 
@@ -121,7 +121,7 @@ This is the creator-only crosswalk for the supplied Pathfinder monster taxonomy.
 | Source archetype | Result | World Egg destination |
 |---|---|---|
 | Chromatic and metallic true dragons | `exclude` | Colors do not define true-dragon species or moral alignment |
-| Imperial, primal, outer, esoteric, planar, and skymetal dragons | `merge` | Unique [[True Dragons]], Menhir drakes, Shell sovereigns, or Nythalum engines according to the useful premise |
+| Imperial, primal, outer, esoteric, planar, and skymetal dragons | `merge` | Unique [[True Dragons]], Menhir drakes, Great Coherences, or Nythalum engines according to the useful premise |
 | Drakes | `existing` | [[Drakes Overview]] and six Menhir court lineages |
 | Linnorms | `existing` | [[Oathwyrms]], ancient curse-bearing Menhir fauna organized around one compact |
 | Wyverns | `new-family` | Mundane or Faewild-derived venomous aerial predators |
@@ -133,12 +133,12 @@ This is the creator-only crosswalk for the supplied Pathfinder monster taxonomy.
 
 | Source archetype | Result | World Egg destination |
 |---|---|---|
-| Air, earth, fire, and water elementals | `new-family` | [[Elemental Manifestations Overview]] and four primal Shell patterns |
-| Ice, magma, mud, smoke, steam, lightning, ash, and crystal para-elementals | `expand` | Seam and mixed-script manifestations, not independent peoples |
-| Elemental fauna | `new-family` | Shell ecologies and leakspawn adapted to seams |
+| Air, earth, fire, and water elementals | `existing` | [[Primal Shell Manifestations]]; non-personal bodies formed from one quadrant |
+| Ice, magma, mud, smoke, steam, lightning, ash, and crystal para-elementals | `existing` | [[Seam and Mixed-Script Manifestations]], not independent peoples |
+| Elemental fauna | `existing` | [[Anchor Fauna]] selected by platform ecologies rather than biological descent |
 | Djinn, shaitan, efreet, marid, and jann | `exclude` | No genie nations or native elemental humanoid civilizations |
-| Mephits and other minor elemental beings | `merge` | Leakspawn, bound labor, and script familiars |
-| Elemental lords and sovereigns | `unique` | Rare self-aware Shell patterns or imposed Menhir interpretations |
+| Mephits and other minor elemental beings | `merge` | [[Script-Bound Servitors]], [[Cinder-Bound]], and anchor fauna |
+| Elemental lords and sovereigns | `merge` | [[Great Coherences]] or imposed Menhir interpretations; pure Shell patterns never become self-aware |
 
 ## Magical Beast Crosswalk
 
@@ -218,8 +218,8 @@ The first controlled condition set is [[Creature Conditions and Templates|residu
 
 1. **Complete:** Material and Residue + Heaven and Soul-Road.
 2. **Complete:** Faewild and Menhir + Hell and Abyss.
-3. **Next:** Ancient and Crafted Legacies + Elemental Shell.
-4. Shadowlands and Idols + Astral Drift and Patrons.
+3. **Complete:** Ancient and Crafted Legacies + Elemental Shell.
+4. **Next:** Shadowlands and Idols + Astral Drift and Patrons.
 5. Cross-Cutting Conditions and regional naming.
 6. Adventure-demand audit and final registry balancing.
 

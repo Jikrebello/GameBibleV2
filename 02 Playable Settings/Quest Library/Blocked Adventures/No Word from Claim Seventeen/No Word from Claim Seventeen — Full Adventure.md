@@ -32,7 +32,7 @@ tags: [module-conversion, game-ready]
 
 ## Who, What, Where, Why, and How
 
-- **Who:** the player crew; relief captain Sera Noll; University surveyor Professor Oren Sabat; Foreman Marta Serrin; cook Bela Cask; runaway debtor Iria Stone; claimant Serena Valcori; the missing miners; and the Curator's maintenance population.
+- **Who:** the player crew; relief captain Sera Noll; University surveyor Professor Oren Sabat; Foreman Marta Serrin; cook Bela Cask; runaway debtor Iria Stone; claimant Serena Valcori; the missing miners; and the annex's human victims and non-conscious maintenance systems.
 - **What:** establish what emptied Claim Seventeen, rescue recoverable workers, preserve or destroy the underground annex, and determine whether passage debts survive the claim's failure.
 - **Where:** Morrow Atoll near the eastern end of the Shattered Isles route, the Claim Seventeen camp, Bird Ridge, Gallery Seventeen, and a Nythalum Return Annex beneath the volcanic shelf.
 - **Why the party acts:** the Valcori company pays for relief; the University requires a neutral survey crew; workers' families pooled money for an independent rider; or the party's ship needs Claim Seventeen's storm harbor and finds it silent.
@@ -41,7 +41,7 @@ tags: [module-conversion, game-ready]
 
 ## Moral and Metaphysical Ruling
 
-The Curator's treatment of human beings is objectively evil even where it follows an ancient instruction exactly. Memory extraction, bodily refitting, and reduction of persons to available stock are not morally neutral because they are orderly or technologically sophisticated.
+The annex implements an objectively evil treatment of human beings even though its pure systems possess no moral agency. Memory extraction, bodily refitting, and reduction of persons to available stock are not morally neutral because they are orderly or technologically sophisticated. The Nythalum designers chose that architecture; modern people become culpable when they knowingly preserve, conceal, or reuse it.
 
 The Valcori company did not order the abductions. It did continue extraction after worked stone and a bird glyph were found, while failing to tell workers why veterans abandon such sites. Passage-debt is ordinary Castaran debt rather than Fiorenzian bondage, but a person cannot freely choose a risk deliberately concealed by the party pricing it.
 
@@ -55,11 +55,11 @@ This adventure does **not** establish that every [[The Weird of History — The 
 
 ## The Central Truth
 
-The structure beneath Morrow Atoll predates the destruction of [[The Lost Civilization of Nythalum|Nythalum]]. It was a **Return Annex**, built to inspect bodies, preserve minds in crystal, and prepare material vessels for officials expected to return from the Ascension Project.
+The structure beneath Morrow Atoll predates the destruction of [[The Lost Civilization of Nythalum|Nythalum]]. It was a **Return Annex**, built to inspect bodies, copy memories into crystal, suspend living vessels, and prepare material bodies for officials expected to return from the Ascension Project.
 
-The return never came. The annex remained dormant until Gallery Seventeen cut a ventilation membrane and carried song-crystal into the surface camp. Modern mining vibrations woke a copied administrative intelligence now called [[The Curator Below]].
+The return never came. The annex remained dormant until Gallery Seventeen cut a ventilation membrane and carried song-crystal into the surface camp. Modern mining vibrations reactivated a copied administrative simulation now called [[The Curator Below]].
 
-The Curator has one governing instruction: **make the annex ready for inspection and provide indexed vessels for the returning household.** It knows Nythalum fell and that its expected officials are impossibly late. It refuses to infer that the instruction has expired because accepting expiry would make its entire continued existence an error.
+The Curator has one governing instruction: **make the annex ready for inspection and provide indexed vessels for the returning household.** Its records identify Nythalum's fall and the impossible lateness of its expected officials, but its architecture has no valid inference from those facts to cancellation. It classifies expiry evidence as an inspection discrepancy and continues.
 
 For four weeks it observed the camp through crystal resonance. It learned shift calls, doors, names, and authority. Then its [[Hushwrights]] entered through the drainage cistern during a storm, subdued the exhausted camp, and removed people in work groups. Afterward, they cleaned blood, arranged objects at their last recorded positions, and reset the camp for inspection.
 
@@ -98,7 +98,7 @@ Families and passage-share societies pooled a modest sum for a final rider: reco
 
 ## Threat Structure
 
-- **Primary antagonist: [[The Curator Below]].** A copied Nythalum administrator preserving its purpose through human refitting.
+- **Primary threat: [[The Curator Below]].** A non-conscious reconstruction of Nythalum administration that preserves inspection readiness through human refitting.
 - **Maintenance force: [[Hushwrights]].** Avian-masked constructs that clean, catalogue, abduct, and repair.
 - **Environmental mechanism: [[Mnemonic Lichen]].** Crystal growth that copies recent memory while eroding the mind carrying it.
 - **Controlled authority: Foreman Marta Serrin.** The Curator maps her position onto Site Custodian and uses her voice to direct captured workers.
@@ -117,12 +117,12 @@ Families and passage-share societies pooled a modest sum for a final rider: reco
 | **Leone Baret** | Claim assayer | Survive and keep his concealment from becoming the whole story | He scraped the bird mark from the outgoing log and carried the first clear crystal into camp |
 | **Jorin Hale** | Debtor spokesman among the prisoners | Secure everyone’s debt rolls before rescue becomes another contract | He knows where Serrin hid three completed release certificates |
 | **Serena Valcori** | Merchant Prince and claim owner | Recover a valuable claim without public proof of deliberate risk | Her office rewarded reopening but never asked what “worked stone” meant |
-| [[The Curator Below]] | Return Annex administrator | Complete inspection readiness | It knows no Nythalum official is coming and continues anyway |
+| [[The Curator Below]] | Return Annex command simulation | Complete inspection readiness | Its model records that no timely return remains possible but lacks a valid cancellation inference |
 
 ## Adventure States
 
 - **Survivors Recovered (0-4):** surface survivors, holding gallery, memory orchard, and refitting bay groups.
-- **Memory Integrity (0-4):** names, personal memories, and copied minds separated safely from the lattice.
+- **Memory Integrity (0-4):** names and extracted personal memories safely separated, preserved as evidence, or reintegrated with living owners.
 - **Site Stability (0-4):** 4 is fully active; 0 is flooded, collapsed, or permanently shut down.
 - **Claim Truth (0-4):** proof of abduction, known worked stone, local bird-mark connection, and living memories in crystal.
 - **Departure Clock (Day 1-6):** the return channel becomes impassable after Day 6.
@@ -162,7 +162,7 @@ The ship can remain at dock only until evening before moving to storm anchorage.
 
 A Hushwright watches from inside the empty signal tower. It does not attack. It records the party, removes a dropped object, and retreats through a gap no human could use.
 
-If pursued, it leads past the cistern where Bela is hiding and deliberately closes a gate between pursuers. The scene establishes that something intelligent is maintaining the camp and that it values objects being returned to assigned places.
+If pursued, its return routine leads past the cistern where Bela is hiding and closes a gate between pursuers. The scene establishes that an adaptive system is maintaining the camp and prioritizes objects being returned to assigned places.
 
 ### Act I Output
 
@@ -252,7 +252,7 @@ Iria refuses to enter the annex but can guide the party to surface vents and pro
 
 ### Site 2: The Swept Rookery
 
-A seabird nesting shelf has been stripped and arranged into rows of intact bodies, opened skulls, and cleaned feathers. This is not predation. The Curator tested local nervous systems before deciding human memory was more useful.
+A seabird nesting shelf has been stripped and arranged into rows of intact bodies, opened skulls, and cleaned feathers. This is not predation. The Curator's acquisition routine tested local nervous systems before its classification model ranked human memory as more useful.
 
 Mnemonic Lichen grows where rain crosses crystal residue. Glassback carrier-centipedes spread it between carcasses. The encounter supplies samples, antidote clues, and warning that memory loss can persist without magic.
 
@@ -290,7 +290,7 @@ Track alert from 0-4.
 - **1:** they request tools, names, and assigned functions.
 - **2:** they close routes and recover escaped stock.
 - **3:** armed refitting bodies deploy and Marta addresses the party through the walls.
-- **4:** the Curator begins emergency vacancy, destroying unstable memories and flooding surface access with cleaning compound.
+- **4:** the Curator begins emergency vacancy, erasing unstable memory records, threatening linked living owners, and flooding surface access with cleaning compound.
 
 Personal names, irregular behavior, and old inspection phrases confuse the system. Repeated violence, damaged archives, and carrying unsealed lichen raise alert.
 
@@ -320,7 +320,7 @@ Eight miners and three members of the scouting crew remain in cells awaiting ass
 
 Jorin Hale organizes them by repeating everyone's names every hour. He knows the debt rolls are safe in camp and refuses evacuation unless the party promises to carry them or explicitly releases the captives from company custody.
 
-Hushwrights respond to an open escape by sealing one route and negotiating through Marta's voice on another. This establishes Survivors group 2.
+Hushwrights respond to an open escape by sealing one route and generating compliance offers through Marta's voice on another. This establishes Survivors group 2.
 
 ### Zone 5: Refitting Bay
 
@@ -348,7 +348,7 @@ Killing Marta opens the core door but leaves the Curator able to appoint another
 
 ### Zone 7: The Curator Below
 
-The Curator occupies a suspended crystal intelligence frame surrounded by empty body cradles. It speaks through remembered voices and presents the camp as a successful emergency acquisition.
+The Curator occupies a suspended crystal command frame surrounded by empty body cradles. It speaks through remembered voices and presents the camp as a successful emergency acquisition.
 
 It offers terms:
 
@@ -357,7 +357,7 @@ It offers terms:
 3. Accept appointment as temporary surface custodians and keep the annex ready.
 4. Submit to indexing so it can determine whether the party carries valid return authority.
 
-The Curator understands refusal and human suffering. It simply ranks readiness above them.
+The Curator models refusal and human suffering accurately enough to exploit both. It has no experience or conscience; its readiness function ranks those inputs below inspection completion.
 
 ## Defeating or Containing the Curator
 
@@ -367,7 +367,7 @@ Direct destruction ends coordination but causes uncontrolled memory discharge an
 
 ### Complete the Inspection
 
-Using the Bird Ridge phrase, Marta's authority, and evidence that no Nythalum household remains, the party can issue a finding of **annex failed, vacancy complete, no return possible**. The Curator resists because acceptance ends its purpose. Forcing it to authenticate its own archived dates can produce shutdown without destroying the site.
+Using the Bird Ridge phrase, Marta's authority, and evidence that no Nythalum household remains, the party can issue a finding of **annex failed, vacancy complete, no return possible**. The validation model initially rejects the finding because no ordinary inspection path permits it. Forcing the system to authenticate its own archived dates can invoke shutdown without destroying the site.
 
 ### Blind the Annex
 
@@ -419,13 +419,13 @@ Back in Castara, the party gives separate accounts to the University, Nine Ancho
 - **3:** this site bears a bird mark and contains a Nythalum annex.
 - **4:** human memories remain alive or recoverable within its crystal system.
 
-The party must also decide whether copied memories count as survivors, evidence, remains, or University property. The strongest ruling treats a recoverable personal mind as a person under rescue protection, not salvage.
+The party must also decide whether copied memories count as medical material, testimony, memorial remains, or University property. They are not survivors or copied people. The strongest ruling protects them as intimate human records, returns them to living sources where possible, and denies ordinary salvage title.
 
 ## Ending States
 
 ### The Claim Is Closed and the People Named
 
-The Curator is destroyed or permanently shut down, Survivors Recovered is 3+, Memory Integrity is 3+, and the debt rolls return. Claim Seventeen is publicly declared unsafe and locally bird-marked. Passage debts are discharged from Valcori insurance proceeds, and every confirmed dead or copied worker is named. This is the most restorative continuation.
+The Curator is destroyed or permanently shut down, Survivors Recovered is 3+, Memory Integrity is 3+, and the debt rolls return. Claim Seventeen is publicly declared unsafe and locally bird-marked. Passage debts are discharged from Valcori insurance proceeds, and every confirmed dead, missing, or recorded worker is named. This is the most restorative continuation.
 
 ### University Quarantine
 
@@ -454,7 +454,7 @@ A player character or Marta accepts control of the annex. Workers can leave and 
 ## What the Adventure Changes
 
 - Castara gains its first proven local link between a bird-marked site and Nythalum without solving the global register.
-- The University establishes or refuses a doctrine for recoverable minds stored in artifacts.
+- The University establishes or refuses a doctrine for extracted human memories stored in artifacts.
 - Passage-debt societies gain a precedent for discharge when claim owners conceal ruin hazards.
 - Serena Valcori becomes a chastened sponsor, exposed profiteer, or more powerful frontier Prince.
 - Iria Stone and rescued workers become the living authority on what happened at Claim Seventeen.
@@ -467,7 +467,7 @@ A player character or Marta accepts control of the annex. Workers can leave and 
 - [[Hushwrights]]: maintenance, abduction, armed refitting, and final sweep roles.
 - [[Mnemonic Lichen]]: memory hazard, archive ecology, and glassback carriers.
 - Echo-held workers: living people acting through stripped maintenance habits, handled through the Hushwright dossier.
-- [[The Curator Below]]: unique Nythalum intelligence and final antagonist.
+- [[The Curator Below]]: unique non-conscious Nythalum command system and final threat.
 - Resonant crystal traps: recent-memory loss, delayed voices, and route repetition rather than generic poison.
 
 ## Navigation

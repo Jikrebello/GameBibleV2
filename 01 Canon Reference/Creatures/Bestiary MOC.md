@@ -135,8 +135,14 @@ tags: []
 
 ## 50 Elemental Shell
 
+- [[Elemental Shell MOC]]
 - [[Elemental Manifestations Overview]]
+- [[Primal Shell Manifestations]]
+- [[Seam and Mixed-Script Manifestations]]
+- [[Anchor Fauna]]
 - [[Cinder-Bound]]
+- [[Script-Bound Servitors]]
+- [[Great Coherences]]
 
 ## 60 Heaven and Soul-Road
 
@@ -199,14 +205,24 @@ tags: []
 
 ## 80 Ancient and Crafted Legacies
 
+- [[Ancient and Crafted Legacies MOC]]
 - [[Constructs by Animating Principle]]
 - [[Pale-Skins and Hollow-Kings]]
+- [[Qianglong Caste Recurrences]]
+- [[Xolotl Blood and Calendar Engines]]
 - [[Hushwrights]]
 - [[Mnemonic Lichen]]
+- [[Return Frames]]
+- [[Lunar Menagerie]]
 - [[Many-Handed Tribute Wardens]]
 - [[Wax-Bound Courtiers]]
 - [[Estate Dead]]
 - [[Gilded Wardens]]
+- [[Atherian Ward and Trial Engines]]
+- [[Ironbound Frames]]
+- [[Script Familiars]]
+- [[Homuncular Servitors and Vat-Bred Warbeasts]]
+- [[Covenant Siege Golems]]
 - [[The Examiner]]
 
 ## 90 Cross-Cutting Conditions
@@ -222,8 +238,8 @@ tags: []
 
 1. **Complete:** Material and Residue + Heaven and Soul-Road.
 2. **Complete:** Faewild and Menhir + Hell and Abyss.
-3. **Next:** Ancient and Crafted Legacies + Elemental Shell.
-4. Shadowlands and Idols + Astral Drift and Patrons.
+3. **Complete:** Ancient and Crafted Legacies + Elemental Shell.
+4. **Next:** Shadowlands and Idols + Astral Drift and Patrons.
 5. Cross-cutting conditions, regional names, and adventure-demand closure.
 
 Each wave should add only the families its focused plan can place, distinguish, and make useful.

@@ -112,11 +112,13 @@ The derro leader Gravvik wants to understand why surface people can endure sunli
 ## Translated Adventure Core
 
 - **Premise:** a Castaran relief expedition reaches silent Claim Seventeen and must recover its missing miners before the next supply window closes.
-- **Conflict:** rescuing copied minds and refitted bodies conflicts with the University of Castara's desire to study the Nythalum annex and the company's desire to preserve the claim.
-- **Antagonist:** [[The Curator Below]] and its Hushwrights, whose orderly classification of humans as worksite material is the central evil.
+- **Conflict:** rescuing bodily living captives and reintegrating extracted memories conflicts with the University of Castara's desire to study the Nythalum annex and the company's desire to preserve the claim. Copied memories are intimate records, not duplicate people.
+- **Primary threat:** [[The Curator Below]] and its Hushwrights are non-conscious systems that classify humans as worksite material. The Nythalum designers, modern concealers, and anyone who knowingly reuses the system carry moral responsibility.
 - **Consequences:** workers and their freedom papers are recovered or lost, Morrow Atoll is evacuated or reopened, and knowledge of the bird-marked annex is contained, exploited, or spread.
 
 ## Controlling Canon
 
 - [[Sestaran Canon Register]]
+- [[Return Frames]]
+- [[Constructs by Animating Principle]]
 - [[Gazetteer of the Known World]]

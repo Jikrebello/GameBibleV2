@@ -54,20 +54,22 @@ The party confronts the returning vessel and the emissary behind its transformat
 
 ## Exact World Egg Placement
 
-Dustfeld is a Castaran road station at the Ash-Horde frontier. A Nythalum probe falls nearby carrying reconstructed minds of the moon-stranded, each fused to an animal or human memory-pattern sampled during descent. Its transmissions pour ancient observations into local sleepers and falcons.
+Dustfeld is a Castaran road station at the Ash-Horde frontier. A Nythalum probe falls nearby carrying one genuine moon-stranded [[Return Frames|Continuant]] as its emissary, several administrative Reconstructions, and engineered biological carriers sampled during descent. Its transmissions pour ancient observations into local sleepers and falcons. Those afflicted locals remain living human victims; copied responses inside the probe are not duplicate people.
 
-The Ash Horde treats the falling star as a sky-omen and asserts guest-right over any speaking returnee; Castaran scholars see the first recoverable proof of Nythalum. Their conflict shapes access but does not cause the horror. The returnees themselves are divided between those seeking help and an emissary trying to rebuild the mission's launch architecture.
+The Ash Horde treats the falling star as a sky-omen and asserts guest-right over any speaking returnee; Castaran scholars see the first recoverable proof of Nythalum. Their conflict shapes access but does not cause the horror. The emissary is an uninterrupted Giant survivor with full moral agency. It knowingly uses Reconstructions, [[Lunar Menagerie|engineered carriers]], and affected humans to rebuild the mission's launch architecture. The Reconstructions may simulate dissent or loyalty but are not surviving Giants.
 
 ## Native Adventure Spine
 
 - **Premise:** survive the fall, identify the transformed returnees, and prevent a second launch from taking living captives.
 - **Conflict:** distinguish victims from willing agents while Castaran and Tarkhan authorities contest custody.
-- **Antagonist:** a Nythalum emissary that values completion of the mission above present human life.
+- **Antagonist:** a genuine Nythalum Continuant that knowingly values completion of the mission above present human life and remains accountable for that choice.
 - **Consequences:** the road station survives or becomes a launch site; returnees are sheltered, destroyed, or studied; coordinates to [[The Fallen Spire]] are recovered.
 
 ## Controlling Canon
 
 - [[The Lost Civilization of Nythalum]]
+- [[Return Frames]]
+- [[Lunar Menagerie]]
 - [[Tarkhan Canon Register]]
 - [[Ash Horde]]
 - [[Sestaran Canon Register]]

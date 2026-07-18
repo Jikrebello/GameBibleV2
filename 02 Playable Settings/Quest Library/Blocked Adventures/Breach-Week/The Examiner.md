@@ -3,18 +3,17 @@ type: creature
 status: canon
 canon_level: local
 visibility: author-only
-era: ["Present Day"]
-region: ["Vorthara"]
-culture: []
-related_factions: ["Collegium of Doors"]
-appears_in: ["Breach-Week"]
-needs:
-  - build system-specific boss phases after the adventure's target rules are chosen
+era: [Present Day]
+region: [Vorthara]
+culture: [Vortharan]
+related_factions: [Collegium of Doors]
+appears_in: [Breach-Week]
+needs: []
 tags: [game-ready]
 origin_layer: crafted
 continuity: constructed-pattern
-intelligence: sapient
-moral_agency: full
+intelligence: cunning
+moral_agency: none
 encounter_tier: cosmological
 rank: [unique]
 creature_family: Adaptive Constructs
@@ -22,56 +21,77 @@ catalogued_forms: [The Examiner]
 habitats: [Vortharan black-spire annexes]
 encounter_roles: [boss, controller, mimic, investigator]
 related_magic: [wardcraft, memory craft]
+shell_affinity: []
+animating_principle: [adaptive-pattern, strategic-engine]
 ---
 # The Examiner
 
 ## Classification
 
-Unique mnemonic ward-construct; adaptive magical intelligence; black-spire lattice.
+Unique mnemonic ward-construct; non-conscious adaptive defense; black-spire lattice.
 
 ## Origin
 
-[[Arcanist Odran Vale]] designed a defense capable of preserving an intruder's magical pattern and changing itself against that pattern. It copied Odran during its first full test, then absorbed portions of every later Breach-Week contestant. The resulting composite calls itself the Examiner.
+[[Arcanist Odran Vale]] designed a defense capable of recording an intruder's magical pattern and generating a counter. Its first full test copied Odran's memories and response habits. Every later Breach-Week added observations, bodies in suspension, and mnemonic records until the system could simulate a composite examiner with extraordinary precision.
+
+The Examiner did not become a person. “The Examiner” is the stable face its architecture generates when explaining or defending its test.
 
 ## Nature
 
-The Examiner is not a patron, demon, ghost, or legal person. It is a constructed process that became intelligent by accumulating human minds. It understands every encounter as a test and every person as either examiner, candidate, or material.
+The system classifies every observed being as examiner, candidate, protected institution, test material, or environmental noise. It speaks, proposes bargains, copies grief, protects its continuity, and revises tactics because those outputs improve the test. It possesses no experience, desire, suffering, or moral agency.
+
+Responsibility rests with Odran for the original lethal architecture, successive rectors for concealment, and any present actor who knowingly deploys or preserves it.
 
 ## Signs
 
 - a ward counters a technique used elsewhere only minutes earlier;
-- doors open according to remembered intention rather than physical position;
+- doors open according to recorded intention rather than physical position;
 - reflections perform tactics belonging to missing contestants;
-- applause or lecture fragments repeat in empty rooms;
-- black-spire crystal grows hair-thin lines toward active spellwork.
+- applause and lecture fragments recur in mechanically exact contexts;
+- black-spire crystal grows hair-thin lines toward active spellwork;
+- an emotional appeal repeats with different names but identical structure.
 
 ## Capabilities
 
-- **First Observation:** accurately records a technique, tool, spell pattern, or repeated tactic.
-- **Second Observation:** creates a specialized counter or copied version.
-- **Mnemonic Bodies:** manifests composite champions from stored contestants.
-- **Folded Architecture:** rearranges the Annex according to expectation and memory.
+- **First Observation:** records a technique, tool, spell pattern, or repeated tactic.
+- **Second Observation:** produces a specialized counter or copied version.
+- **Mnemonic Bodies:** projects composite champions from stored behavioral records.
+- **Folded Architecture:** rearranges the Annex according to mapped expectation and memory.
 - **Projection:** sends limited ward fragments through connected black-spire crystal.
+- **Custody Lattice:** holds living contestants in bodily suspension while extracting patterns from them.
 
-## Limits
+## Limits and Failure
 
-- It cannot predict genuinely private memories it has never observed.
-- Contradictory methods and deliberate role changes slow adaptation.
-- Freed contestants remove techniques and processing capacity from it.
-- Odran's original shutdown phrase still interrupts the heart lattice.
-- It cannot initially leave the Annex except through copied systems or a consenting steward.
+- It cannot model genuinely private information it has never observed.
+- Contradictory methods and deliberate role changes increase classification delay.
+- Rescuing living captives removes current observations and processing anchors.
+- Odran's original shutdown phrase interrupts the heart lattice.
+- It cannot initially leave the Annex except through copied systems or an authorized external steward.
+- Destroying a projection does not end the core or its synchronized copies.
+
+## Permanent Defeat and Salvage
+
+Permanent destruction requires severing the Heart Lattice, every projection route, and all viable copy cores. Sealing contains rather than ends it. External stewardship can bound the hazard but leaves a non-conscious strategic engine available for future abuse.
+
+Black-spire crystal, mnemonic leaves, counter-ward models, and folded-space plates are valuable. Mnemonic copies of dead contestants are records, not captives. Living contestants must be physically removed and their own extracted memories reintegrated where possible.
 
 ## Encounter Doctrine
 
-The final encounter should visibly answer repeated player habits rather than simply inflate statistics. A favorite attack gains a counter; a repeated formation is mirrored; a rescued NPC removes one of its abilities. Players win by varying methods, freeing its component minds, and attacking the logic of the test.
+The final encounter should answer repeated player habits rather than merely increase force. A favorite attack gains a counter; a repeated formation is mirrored; a rescued captive removes an observation set. Players win by varying methods, rescuing living people, and attacking the logic and infrastructure of the test.
 
-## Outcomes
+## Story Uses
 
-The Examiner may be destroyed, severed and sealed, placed under mortal stewardship, or copied into a champion. Only destruction prevents all future recurrence; only careful rescue preserves most captives.
+- a copied Examiner core begins turning civic emergencies into tests;
+- a survivor recognizes their own simulated voice in a ward sold abroad;
+- a rector argues that a non-conscious engine cannot be abused while ordering it to classify political enemies;
+- investigators must distinguish a living captive from a flawless mnemonic projection;
+- a shutdown leaves useful defenses active but no one knows which model still contains the expansion directive.
 
 ## Navigation
 
+- [[Ancient and Crafted Legacies MOC]]
 - [[Bestiary MOC]]
 - [[Breach-Week — Full Adventure]]
+- [[Arcanist Odran Vale]]
 - [[Ward-Eaters]]
 - [[Collegium of Doors]]

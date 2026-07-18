@@ -22,6 +22,8 @@ catalogued_forms: []
 habitats: []
 encounter_roles: []
 related_magic: []
+shell_affinity: []
+animating_principle: []
 ---
 # {{title}}
 
@@ -34,6 +36,14 @@ Use for court-law beings. State the bargain and price where one exists.
 ### Provenance, Office, and Manifestation
 
 Use for Hell forms. State refusal, mandate, bearer continuity, soul effects, and containment where relevant.
+
+### Shell Coherence
+
+Use for Shell forms. State quadrant or seam, boundary, fuel, recurrence relation, and grounding or release method. Pure Shell patterns never possess interior life.
+
+### Maker, Bearer, and Instruction
+
+Use for crafted forms. State maker, power source, animating principle, command limits, maintenance, apparent cognition, any genuine bearer, and who is morally responsible.
 
 ## Encounter Role
 

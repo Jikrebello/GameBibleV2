@@ -121,3 +121,5 @@ Thousands of years later, a sandstorm exposes the lost pyramid. Archaeologists a
 
 - [[Ahl-e-Ahd Canon Register]]
 - [[Jirahar Canon Register]]
+- [[Gilded Wardens]]
+- [[Estate Dead]]

@@ -8,11 +8,10 @@ region: ["Claim Seventeen", "Nythalum Ruins"]
 culture: ["Nythalum"]
 related_factions: ["Nythalum Return Annex"]
 appears_in: ["No Word from Claim Seventeen"]
-needs:
-  - assign exposure, harvest, restoration, and glassback carrier profiles
+needs: []
 tags: [module-conversion, game-ready]
 origin_layer: crafted
-continuity: constructed-pattern
+continuity: biological-pattern
 intelligence: mindless
 moral_agency: none
 encounter_tier: aligned
@@ -22,6 +21,8 @@ catalogued_forms: [Mnemonic Lichen]
 habitats: [Nythalum annexes, crystal systems, contaminated water]
 encounter_roles: [hazard, memory predator, resource]
 related_magic: [Nythalum engineering, memory craft]
+shell_affinity: []
+animating_principle: [fleshwork, adaptive-pattern]
 ---
 # Mnemonic Lichen
 
@@ -45,7 +46,7 @@ Severe exposure copies personal memory faster than the mind can retain it. The v
 
 A coherent copied person forms a **memory knot** within a crystal branch. It is not automatically a complete soul or duplicate person. Most knots are partial: a childhood room, professional skill, fear, song, or final hour.
 
-Some Claim Seventeen knots contain enough continuity to restore a living body. Others may be the only surviving record of a dead worker. The University dispute over whether such knots are persons, remains, testimony, or artifacts begins with this adventure.
+Some Claim Seventeen knots contain enough recorded memory to help restore identity to their still-living source. Others may be the only surviving record of a dead worker. No knot is the copied person or a human soul, however complete its testimony appears. The University dispute over whether knots should be treated as remains, testimony, or artifacts begins with this adventure; the authorial ruling is settled.
 
 ## Glassback Carriers
 
@@ -89,6 +90,7 @@ These materials could transform medicine, testimony, training, espionage, and id
 
 ## Navigation
 
+- [[Ancient and Crafted Legacies MOC]]
 - [[Bestiary MOC]]
 - [[No Word from Claim Seventeen — Full Adventure]]
 - [[Claim Seventeen]]

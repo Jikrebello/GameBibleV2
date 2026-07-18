@@ -13,7 +13,7 @@ tags: []
 ---
 # The Great Split — Two Crowns, One Fire
 
-The schism of 1015 AR between the Eclessian Church and the Patriarchate of Veridun. **Supersedes the "Procession of the Flame" placeholder and the Primer's "~80 years after the great split" line.** The Split is primarily a war over inheritance and fealty; the doctrine is the weapon each side forged for it.
+The Great Split is the schism of 1015 AR between the Eclessian Church and the Patriarchate of Veridun. It is primarily a war over inheritance and fealty; doctrine is the weapon each side forged for it.
 
 ## The Political Core: Who Inherits Atheria
 
@@ -29,7 +29,7 @@ Each claim is strongest exactly where the other is weakest — Thalmyria has the
 
 The theological content of the Split is not an abstract clause about procession. It is a concrete, testable, in-world dispute about **what the White Flame is and who may hold it** — grown directly out of Thalmyria's Lamp Controversy and Eclessia's relic-court system.
 
-**Veridun teaches the Flame is uncreated** — the Lord's own presence, not a made thing — which *consents* to dwell in what sanctity prepares (Ioan of Velia's formula: "the Redeemer had a body; the Fire may have a lamp"). Custody is therefore proven by **theophany**: the Flame demonstrably came to Caedros at the Pillar; it demonstrably rides Thalmyric war-lamps against the Covenant's bound devils; it demonstrably answers ascetics on the volcanic heights. You do not audit God. You witness Him.
+**Veridun teaches the Flame is uncreated** — the Lord's own presence, not a made thing — which *consents* to dwell in what sanctity prepares (Ioan of Velia's formula: "the Redeemer had a body; the Fire may have a lamp"). Custody is therefore proven by **theophany**: the Flame demonstrably came to Caedros at the Pillar; it demonstrably rides Thalmyric war-lamps against Covenant devil-mantles and soulbound engines; it demonstrably answers ascetics on the volcanic heights. Thalmyric doctrine sharply separates this witness from ordinary Shell-fire. You do not command God. You witness Him.
 
 **Eclessia teaches the Flame as given to mortals is a created grace** — truly from the Lord, but a *gift*, entrusted to the apostolic body, and therefore governable: testable by relic courts, mintable in authorized hymns, administered under canon law like any sacrament. Custody is proven by **protocol**: the five tests of sainthood, the authentication registries, the reproducible hymn-mint. A fire that cannot be examined is precisely how forgers, Idol-feeders, and imperial propagandists operate.
 

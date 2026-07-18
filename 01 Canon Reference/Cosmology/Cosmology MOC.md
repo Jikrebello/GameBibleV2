@@ -30,6 +30,8 @@ tags: []
 - [[The Adversary]]
 - [[Hell, Depth, and the Abyss]]
 - [[Elemental Shell and the Four Planes]]
+- [[Elemental Shell MOC]]
+- [[Shell Anchors and Extraction]]
 
 ## Major Systems
 

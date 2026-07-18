@@ -229,9 +229,9 @@ A party holding Proof of the Audition and Proof of the Mortgage can play these a
 
 ### The Cinder-Bound Toll
 
-Leaving with the arms is the original's exit challenge, kept and re-rooted. The vent's heat is worked by [[Cinder-Bound]] — fire-spirits bound into the geothermal district's service, here set as an exit toll. At Vault Toll 3-4, carrying two or three arms out lights the toll: the Cinder-Bound demand payment for removing prizes the vent was built to display.
+Leaving with the arms is the original's exit challenge, kept and re-rooted. The vent's heat is worked by [[Cinder-Bound]] — non-conscious Fire-side work patterns assigned to geothermal service, here configured as an exit toll. At Vault Toll 3-4, carrying two or three arms out lights the toll and its embedded schedule requests payment for removing prizes the vent was built to display.
 
-Payment need not be blood. The toll can be met with coin, with a wager, with an equal spectacle, or by releasing the Cinder-Bound from a binding the party can prove is expired — the district's valve-crews keep the seals, and a sharp group can turn a fight into a manumission. Fighting them is possible and expensive; the vent does not want to lose its show.
+Payment need not be blood. The toll can be met with coin, a wager, an equal spectacle, or proof that the work seal has expired. The district's valve crews keep the records, and a sharp group can turn a fight into release or decommissioning. Fighting the patterns is possible and expensive; the gauntlet's show-preservation instruction escalates against removal.
 
 ### If It Comes to Violence
 
@@ -302,7 +302,7 @@ The party takes the victory-eater and keeps it. Someone starts winning, and cann
 - The Pale Hand becomes an enemy, a discredited lender, or an untouched institution that simply moved its clause to the next vent.
 - The three [[The Trophy-Arms|Trophy-Arms]] enter play as impounded evidence, retired hazards, dangerous loot under terms, or the seed of a body-market inquest.
 - The [[Vault-Claimed]] enter the known bestiary of Vortharan magical industry as a distinct wrong: the mortgaged dead.
-- [[Cinder-Bound]] enter the district's known hazards as bound service that can be paid, wagered, or freed.
+- [[Cinder-Bound]] enter the district's known hazards as bound work patterns whose schedules can be paid, wagered, released, or decommissioned.
 
 ## Encounter and Creature Register
 
@@ -311,7 +311,7 @@ The party takes the victory-eater and keeps it. Someone starts winning, and cann
 - **Gorreth:** fleshwarped champion and current wielder of Forfeit; boss and victim.
 - **Wisp Aldery:** flume-riding scout who grades the party live.
 - [[Vault-Claimed]]: prior contestants raised by the Pale Hand as guards and set-pieces.
-- [[Cinder-Bound]]: bound fire-spirits set as the exit toll.
+- [[Cinder-Bound]]: non-conscious Fire-side work patterns set as the exit toll.
 - **Fleshweaver arena-stock:** the bubble-crab and the stepped menagerie's beasts, native Flesh-Pit product.
 - [[The Trophy-Arms|Forfeit, Ovation, and Cairn]]: three sentient arms, each a prize and a liability.
 

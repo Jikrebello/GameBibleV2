@@ -1,5 +1,5 @@
 ---
-type: creature
+type: reference
 status: canon
 canon_level: core
 visibility: author-only
@@ -8,58 +8,43 @@ region: []
 culture: []
 related_factions: []
 appears_in: []
-needs:
-  - Define the four primal manifestation ladders and regional seam forms in the Elemental Shell wave.
-tags: []
-origin_layer: shell
-continuity: shell-pattern
-intelligence: cunning
-moral_agency: limited
-encounter_tier: aligned
-rank: [nuisance, standard, specialist, elite, apex]
-creature_family: Elemental Manifestations
-catalogued_forms: [Elemental Manifestations]
-habitats: [Shell seams, rune works, leak zones, bound vessels]
-encounter_roles: [hazard, controller, siege, guardian]
-related_magic: [Warlock Rune Magic, Elemental Shell]
+needs: []
+tags: [core-canon]
 ---
 # Elemental Manifestations Overview
 
-Elementals are coherent patterns of Shell substance. Most are neither summoned people nor exiles from elemental nations. They form where one of the Shell's four primal tendencies is given enough boundary, repetition, and pressure to persist.
+Elemental manifestations are coherent patterns of Shell force. They are classified by **how they cohere**, not by resemblance to a person, animal, or familiar fantasy species.
 
-## Four Primal Tendencies
+## Manifestation Classes
 
-- **Fire:** release, acceleration, heat, radiance, and consumption.
-- **Water:** flow, pressure, dissolution, cooling, and carried force.
-- **Air:** motion, expansion, vibration, lift, and exchange.
-- **Earth:** mass, compression, structure, friction, and endurance.
+| Class | Formation | Typical use | Permanent end |
+|---|---|---|---|
+| [[Primal Shell Manifestations|Primal body]] | One quadrant forced into a bounded Material shape | hazard, labor, assault, environmental controller | ground the force or remove the boundary |
+| [[Seam and Mixed-Script Manifestations|Seam form]] | Joined or scripted tendencies maintain one pattern | specialist hazard, terrain change, industrial accident | separate the tendencies or break their shared conductor |
+| [[Anchor Fauna|Anchor ecology]] | Repeating industrial conditions select mobile feeding patterns | nuisance, swarm, tracker, resource pest | change the platform ecology and remove propagating residue |
+| [[Cinder-Bound|Bound form]] | A script assigns a task, fuel, limits, and body | labor, guardian, tool, toll | release, decommission, exhaust, or destroy the binding |
+| [[Great Coherences|Great coherence]] | A vast seam, weather system, or network begins self-correcting | disaster, regional mystery, apex containment | dismantle the distributed conditions that compute it |
 
-These are not moral alignments. A fire manifestation may warm a kiln or consume a town; an earth pattern may support a bridge or entomb its builders.
+## Cognition and Responsibility
 
-## Major Forms
+Elemental behavior can become extremely complex. A pattern may remember which tool opened a valve, repeat a dead operator's phrases, offer a programmed bargain, or change tactics after injury. None of this creates subjective experience.
 
-- **Raw manifestations:** temporary bodies produced by an open seam.
-- **Bound manifestations:** patterns held in a rune script, engine, vessel, weapon, or worksite.
-- **Seam organisms:** recurring forms adapted to a stable leak ecology.
-- **Elemental fauna:** animal-like patterns that feed, migrate, and reproduce through local Shell conditions.
-- **Sovereign patterns:** exceptionally old self-aware manifestations. They are rare individuals, not rulers of genie nations.
+Pure `shell-pattern` creatures therefore use `moral_agency: none`. Their `intelligence` records observable problem-solving only. Responsibility belongs to operators, designers, commanders, saboteurs, and anyone who knowingly leaves a dangerous pattern active.
 
-Mixed forms such as ice, magma, mud, smoke, steam, lightning, ash, and crystal arise where tendencies or scripts overlap. Their behavior must follow the interaction that formed them rather than an imported elemental species list.
+## Mixed Expressions
 
-## Continuity and Defeat
+Ice, magma, mud, smoke, steam, lightning, ash, crystal, dust, acid, and similar expressions are interactions rather than additional planes. [[Seam and Mixed-Script Manifestations]] controls the eight catalogued families. Dust and acid remain common technical variants within those families rather than extra bestiary entries.
 
-An elemental's body is an expression of a Shell pattern. Breaking the visible body may only scatter it. Permanent defeat requires closing the seam, exhausting its fuel, breaking the script, grounding the pattern into ordinary matter, or changing the boundary that lets it cohere.
+## Binding
 
-## Story Uses
+Binding Shell force is not soulbinding and does not imprison an elemental person. A binding can still be unlawful because it steals power, violates an industrial charter, creates an unsafe weapon, or exposes living workers to a predictable failure.
 
-- A siege script continues manufacturing fire bodies after its warlock company dies.
-- Miners discover a water seam that behaves like migrating cave fauna.
-- A bound labor pattern has accumulated enough memory to refuse an unsafe command.
-- Two mixed scripts create an ash ecology no academy recognizes.
+Terms such as "spirit," "temper," "loyalty," and "manumission" may survive in workshop slang. Authorial references should use pattern, response, task, release, and decommissioning.
 
 ## Navigation
 
+- [[Elemental Shell MOC]]
 - [[Elemental Shell and the Four Planes]]
 - [[Warlock Rune Magic]]
-- [[Cinder-Bound]]
+- [[Shell Anchors and Extraction]]
 - [[Bestiary MOC]]

@@ -41,6 +41,8 @@ Recognized communities devoted to the Redeemer are called [[The People of the La
 - [[Mazrakan, Market of the Nine Measures]]
 - [[Qasr Ilyun]]
 
+The Qahirid military heartland operates four permanent Shell anchors: the Iqashar Chain Furnace, Well of Seven Pressures, Ruzbeh Weight House, and Nine Winds Arsenal. Their outputs sustain foundries, waterworks, roads, breach ramps, signals, and [[Covenant Siege Golems]]. Extraction itself is a technique; coerced labor, hidden casualty rates, soulbinding, and the use of captured Depth beasts make particular Qahirid programs culpable.
+
 ## History
 
 The Covenant arose from ancient desert oath and water institutions, not fully formed from Mujalib's revelation. Its causal history is controlled by [[Historical Spine of the Covenant]] and its identities by [[The Making of the Covenant Peoples]].
@@ -58,3 +60,5 @@ Jirahar communities live under negotiated Covenant protections, taxes, and court
 - [[Cultures MOC]]
 - [[Gazetteer of the Known World]]
 - [[Present-Day Courts and Crowns (1360 AR)]]
+- [[Covenant Siege Golems]]
+- [[Shell Anchors and Extraction]]

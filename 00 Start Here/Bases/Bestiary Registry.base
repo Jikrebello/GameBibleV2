@@ -14,6 +14,10 @@ properties:
     displayName: Continuity
   bearer_continuity:
     displayName: Mantle Bearer
+  shell_affinity:
+    displayName: Shell Affinity
+  animating_principle:
+    displayName: Animating Principle
   intelligence:
     displayName: Intelligence
   moral_agency:
@@ -137,6 +141,33 @@ views:
       - creature_family
       - rank
       - related_magic
+      - needs
+  - type: table
+    name: Shell Affinity
+    filters: 'origin_layer == "shell"'
+    groupBy:
+      property: note.shell_affinity
+      direction: ASC
+    order:
+      - file.name
+      - shell_affinity
+      - creature_family
+      - catalogued_forms
+      - rank
+      - needs
+  - type: table
+    name: Construct Principle
+    filters: 'origin_layer == "crafted"'
+    groupBy:
+      property: note.animating_principle
+      direction: ASC
+    order:
+      - file.name
+      - animating_principle
+      - continuity
+      - intelligence
+      - moral_agency
+      - catalogued_forms
       - needs
   - type: table
     name: Unfinished Creature Work

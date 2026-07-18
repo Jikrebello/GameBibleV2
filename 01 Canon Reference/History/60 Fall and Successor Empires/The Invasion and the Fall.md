@@ -20,7 +20,7 @@ The Fall was the destruction of unified Atherian government, not the disappearan
 
 Emperor Corvenas III ruled from Caleran's Ash Hall, an imperial palace turned relic gallery after conversion. He was personally devout and strategically incapable. Provincial reports were filtered through court factions that feared mobilization would expose fiscal weakness.
 
-Qahir ibn Ruzbeh rebuilt the Covenant war machine between roughly 885 and 902 AR around mass levies, siege-golem foundries, contract logistics, and disciplined frontier intelligence. His successor Idris al-Fattah inherited a prepared instrument.
+Qahir ibn Ruzbeh rebuilt the Covenant war machine between roughly 885 and 902 AR around mass levies, permanent Shell extraction, siege-golem foundries, contract logistics, and disciplined frontier intelligence. His successor Idris al-Fattah inherited five great engines: three Depth-Core frames driven by captured Hell fauna and two Slave-Soul frames holding executed human prisoners.
 
 ## The Campaign of 905 AR
 
@@ -34,7 +34,7 @@ The emperor died, the imperial command chain failed, and surviving regions impro
 
 ## The Northern Advance Breaks, 906-908 AR
 
-After Caleran, a Qahirid army attempted to force the Caldrian road into Eclessia. Caldrian defenders held Crown Gate Pass while Vortharan warlocks destroyed two of the army's five great siege golems and crippled a third at [[The Battle of the Shattered Engines (907 AR)]]. The defeat ended the northern advance and dispersed forces the later mountain resistance could isolate.
+After Caleran, a Qahirid army attempted to force the Caldrian road into Eclessia. Caldrian defenders held Crown Gate Pass while Vortharan warlocks destroyed one Depth-Core and one Slave-Soul engine and crippled a second Depth-Core at [[The Battle of the Shattered Engines (907 AR)]]. The other two escaped with the retreat. The defeat ended the northern advance and dispersed forces the later mountain resistance could isolate.
 
 ## Occupation
 
@@ -47,3 +47,4 @@ Covenant government secured ports, aqueducts, roads, archives, and productive es
 - [[The Long Reconquest (908-1052 AR)]]
 - [[Chronology of the Known World (AR Dating)]]
 - [[The Battle of the Shattered Engines (907 AR)]]
+- [[Covenant Siege Golems]]

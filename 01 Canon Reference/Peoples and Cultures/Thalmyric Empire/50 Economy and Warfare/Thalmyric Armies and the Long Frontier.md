@@ -35,6 +35,8 @@ Caleran maintains approximately 5,500 regular garrison troops in the city and ne
 
 Licensed warlocks use Shell scripts for fire, wind, stone, siege works, signaling, and containment. Their units answer to engineering law. Calling their elemental work “Holy Fire” is fraud.
 
+The Virelos Wind Stair, Kedravan Frost Gate, and Arkenan Basalt Draw provide strategic stormglass, pressure-cold, forge-charge, and weight-seed. Military, monastic, and provincial witnesses divide custody. Exact threshold routes remain secret, but their outputs visibly sustain naval signals, winter supply, fortress repair, and the counter-engine corps trained to dismantle Covenant golems.
+
 ## Holy Flame Bearers
 
 Rare bearers serve under chaplains and commanders but cannot be treated as predictable weapons. A bearer may refuse an order believed corrupt. Units that demand kindling as proof of loyalty have repeatedly produced ordinary fire, spiritual injury, or no answer.
@@ -52,5 +54,7 @@ The present frontier is armed peace, raids, prisoner exchange, truce fairs, espi
 - [[Thalmyric Military Orders]]
 - [[Church-Military Unity]]
 - [[Warlock Rune Magic]]
+- [[Shell Anchors and Extraction]]
+- [[Covenant Siege Golems]]
 - [[Zanthir and the Unfinished Reconquest]]
 - [[The Reconquest and Conflict with the Ahl-e-Ahd Overview]]

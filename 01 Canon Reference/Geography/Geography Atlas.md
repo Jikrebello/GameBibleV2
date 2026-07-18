@@ -45,6 +45,8 @@ Use [[Southern Cold Belt and Grobi Frontier]] as the governing note for this cli
 
 ## Required Map Layers
 
+- **Strategic Shell industry:** mark the public industrial zones around Vorthara's four draws, Ironvale's three works, the Qahirid four-anchor complex, and Thalmyria's three inherited gates. Exact threshold entrances and access geometry remain author-only in [[Shell Anchors and Extraction]].
+
 - Mark capitals, holy cities, pilgrimage roads, trade routes, mountain passes, frontier duchies, Velian States, Zanthir, Mazrakan, and Grenzburg.
 - Playable-region detail for Grenzburg, Caleran, Vorthara, Fiorenzia, Aversia, Orsena, Vardessa, Caldria, and the Velian States.
 - Physical routes for each major war, migration, and population transfer.

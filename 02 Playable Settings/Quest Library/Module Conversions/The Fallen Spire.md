@@ -54,13 +54,14 @@ The deepest accessible decks reveal the vessel's nature and permit the party to 
 
 The Fallen Spire is an ancient Nythalum launch-support vessel buried nose-down in the escarpment above the Ash-Horde frontier. Dustfeld's falling probe transmits coordinates that wake it, opening sealed decks and releasing preserved lunar organisms into the grasslands.
 
-The vessel arrived before the Exodus and has been inert ever since. Its access seals express crew function, not cargo ownership, and its custodians judge living entrants against incomplete Nythalum personnel patterns. Tarkhan sky-priests regard its opening as the answer to the Dustfeld omen; Castaran scholars arrive because they decoded the coordinates.
+The vessel arrived before the Exodus and has been inert ever since. Its access seals express crew function, not cargo ownership, and its non-conscious custodians classify living entrants against incomplete Nythalum personnel patterns. Tarkhan sky-priests regard its opening as the answer to the Dustfeld omen; Castaran scholars arrive because they decoded the coordinates.
 
 ## Native Adventure Spine
 
 - **Premise:** stop an outbreak from a newly awakened ancient vessel and learn how to close it again.
 - **Conflict:** exploration yields tools and proof while every opened deck releases further hazards.
-- **Antagonist:** the Spire's damaged command intelligence and the expedition leader who intends to keep it awake.
+- **Primary threat:** a damaged command Reconstruction that simulates a Nythalum officer while executing launch-support directives.
+- **Moral antagonist:** the expedition leader who understands the system is non-conscious and intends to keep it awake despite the outbreak.
 - **Consequences:** the vessel is resealed, occupied, stripped, or becomes the center of a frontier war.
 
 ## Linked Adventure
@@ -70,6 +71,8 @@ The vessel arrived before the Exodus and has been inert ever since. Its access s
 ## Controlling Canon
 
 - [[The Lost Civilization of Nythalum]]
+- [[Return Frames]]
+- [[Lunar Menagerie]]
 - [[Tarkhan Canon Register]]
 - [[Ash Horde]]
 - [[Gazetteer of the Known World]]
@@ -81,4 +84,4 @@ Checked against the established summary of [Expedition to the Barrier Peaks](htt
 ## Blocking Needs
 
 - Build the outbreak bestiary and six-deck route.
-- Name the Ash-Horde host, Castaran expedition, and command intelligence.
+- Name the Ash-Horde host, Castaran expedition, and command Reconstruction.

@@ -18,9 +18,15 @@ tags: []
 - The Ahdanite Guard provides elite infantry, cavalry, engineers, palace security, and officers raised through coerced military service.
 - Provincial levies defend walls, canals, roads, and local estates.
 - Military households field retainers and estate cavalry, especially in Al-Qahur.
-- Contract engineers operate siege golems, bound shock troops, and surrender instruments.
+- Contract engineers operate three distinct [[Covenant Siege Golems|siege-engine lines]]: Depth-Core golems, Slave-Soul golems, and pure-pattern Surrender Engines.
 - Warlock corps use Shell-derived elemental scripts; their fire is not holy and their work is distinct from contract magic.
 - Tribal auxiliaries, foreign mercenaries, and Tarkhan companies supply mobility the settled armies lack.
+
+## Great Engines and Shell Industry
+
+The Qahirids hold the Iqashar Chain Furnace, Well of Seven Pressures, Ruzbeh Weight House, and Nine Winds Arsenal. These anchors produce strategic Shell output for foundries, siege roads, hydraulic works, signals, and warlock corps.
+
+In 1360 AR the dynasty retains **three operational great engines**, **two dormant frames**, and **one foundry** capable of slowly replacing a great golem. Depth-Core machines imprison captured Hell fauna commonly called demons. Slave-Soul machines hold executed human prisoners whose souls can still be released toward judgement. Surrender Engines are non-conscious strategic systems that simulate persuasion and terror.
 
 ## Tarkhan Border
 
@@ -39,6 +45,8 @@ Covenant commanders offer surrender instruments, register captives, and attempt 
 - [[The Tarkhan Tribes Overview]]
 - [[The Qahirid Suzerainty and Iqashar]]
 - [[Warlock Rune Magic]]
+- [[Covenant Siege Golems]]
+- [[Shell Anchors and Extraction]]
 - [[Nine Wells of Tergai]]
 - [[White Horde]]
 - [[Iron Horde]]

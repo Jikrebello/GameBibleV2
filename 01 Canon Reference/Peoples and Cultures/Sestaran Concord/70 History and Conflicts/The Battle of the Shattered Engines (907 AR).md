@@ -17,7 +17,9 @@ In 907 AR a major Covenant army attempted to force Crown Gate Pass between Vorth
 
 ## The Battle
 
-Caldrian troops held prepared walls and switchbacks while Vortharan factions supplied rune-warlocks, construct breakers, guides, and unstable Black Spire instruments. Two of the army's five great siege golems were destroyed. A third was crippled badly enough to be abandoned during retreat.
+Caldrian troops held prepared walls and switchbacks while Vortharan factions supplied rune-warlocks, construct breakers, guides, and unstable Black Spire instruments. Of the army's five great siege golems, one Depth-Core and one Slave-Soul engine were destroyed. A second Depth-Core was crippled badly enough to be abandoned during retreat; two engines escaped.
+
+The wreckage proved that “demon golem” concealed more than one technology. One shattered chassis released a dying Depth beast. The other exposed a human name-cage, allowing Vortharan and Eclessian witnesses to release the imprisoned soul. That distinction shaped every later counter-engine doctrine.
 
 The victory was neither clean nor holy. Vortharan weapons killed defenders when a counter-script propagated through the wrong ward, and several factions used the emergency to test devices later prohibited even in their own streets.
 
@@ -37,4 +39,4 @@ The battle demonstrated that the peninsula's specialists could defeat an empire 
 - [[The Invasion and the Fall]]
 - [[The Battle of Caelmount]]
 - [[The Seven-Seal Defensive Muster]]
-
+- [[Covenant Siege Golems]]

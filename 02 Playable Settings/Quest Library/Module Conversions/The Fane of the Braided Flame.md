@@ -60,7 +60,7 @@ Now four descendant circles have returned. Each believes the disaster came from 
 
 - **Premise:** investigate raids around Chapel-Ford and the Commandery, then prevent the four circles from restoring the Braided Script.
 - **Conflict:** rival warlock schools possess pieces of a weapon none can safely control.
-- **Antagonist:** four circle-masters and the imprinted battle-intelligence formed by the original failed braid.
+- **Antagonist:** four morally accountable circle-masters and the non-conscious [[Great Coherences|Great Coherence]] formed by the original failed braid.
 - **Consequences:** sealing, purifying, or claiming each node changes weather, roads, and military power along the Velian border.
 
 ## Linked Adventures
@@ -73,6 +73,9 @@ Now four descendant circles have returned. Each believes the disaster came from 
 
 - [[Magic Systems Overview]]
 - [[Warlock Rune Magic]]
+- [[Primal Shell Manifestations]]
+- [[Seam and Mixed-Script Manifestations]]
+- [[Great Coherences]]
 - [[Folk Canon Register]]
 - [[Gazetteer of the Known World]]
 

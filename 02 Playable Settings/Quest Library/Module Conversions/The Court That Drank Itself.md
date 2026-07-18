@@ -124,6 +124,8 @@ This adventure requires no clue, artifact, cast member, faction, or outcome from
 - [[Prehistory Overview]]
 - [[Vampire Origins]]
 - [[Vampires in the Present Age]]
+- [[Many-Handed Tribute Wardens]]
+- [[Wax-Bound Courtiers]]
 - [[The Qahuri]]
 - [[The Jirahar Overview]]
 - [[Gazetteer of the Known World]]

@@ -68,6 +68,7 @@ Replace generic Expanse mystery; define the Castaran expedition and preserve the
 ## Controlling Canon
 
 - [[Gazetteer of the Known World]]
+- [[Xolotl Blood and Calendar Engines]]
 - [[Setting Commandments]]
 
 ## Research Basis

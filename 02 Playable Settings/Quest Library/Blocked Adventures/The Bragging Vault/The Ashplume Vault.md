@@ -52,7 +52,7 @@ The hazards are engineered for spectacle, not defense. The vent does not want to
 - frictionless glass and against-gravity flumes as arena sports the audience bets on;
 - scrying-eyes throughout, feeding the broadcast and the scout's grading tally;
 - [[Cinder-Bound]] worked into the heat, set as an exit toll that lights when prizes leave;
-- Crafters' Union valve-seals in the outer galleries — some expired, a lever for freeing the Cinder-Bound.
+- Crafters' Union valve-seals in the outer galleries — some expired, a lever for releasing or decommissioning the Cinder-Bound patterns.
 
 ## The Two Hidden Ledgers
 
