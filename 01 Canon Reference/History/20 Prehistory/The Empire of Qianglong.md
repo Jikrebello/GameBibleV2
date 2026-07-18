@@ -11,13 +11,15 @@ appears_in: []
 needs: []
 tags: []
 ---
-### Overview
+# The Empire of Qianglong
 
-The Celestial Empire of Qianglong was structured around four Giant castes aligned with **Solrath (War), Nevaura (Famine), Morvalis (Death),** and **Veradia (Pestilence)**. Court genealogy called the castes children of the Horsemen. Authorially, they were Giant lineages altered by prolonged Menhir patronage, office-law, selective breeding, and ritual imitation. Grand civil wars rotated the ruling caste and made violent succession appear to be a natural cycle.
+## Overview
+
+The Celestial Empire of Qianglong was structured around four Giant castes aligned with **Solrath (War), Nevaura (Famine), Morvalis (Death),** and **Veradia (Pestilence)**. Court genealogy called the castes children of the Horsemen. Authorially, they were Giant lineages altered by prolonged Menhir contact, office-law, selective breeding, and ritual imitation. None of the four Menhir created the Giants, authorized their rule, or supplied a moral verdict on the empire. Qianglong converted natural domain into political mandate and called the result divine order.
 
 Qianglong's continuity project attempted necromantic caste recurrence. Sealed vaults preserved trained residue, office patterns, and prepared bodies so the ruling order could return without accepting mortality. The system copied and reinstated caste function; it did not create human souls.
 
-### The Four Castes of Giants
+## The Four Castes of Giants
 
 **1. The War Caste: Solrath's Claimed Line**
 
@@ -35,19 +37,19 @@ Qianglong's continuity project attempted necromantic caste recurrence. Sealed va
 
 **3. The Death Caste: Morvalis's Claimed Line**
 
-- **Role:** The Death Caste managed the spiritual and necromantic aspects of Qianglong society. These Giants were the priests, morticians, and necromancers who maintained the balance between life and death, ensuring that the dead were honored and the living were guided.
+- **Role:** The Death Caste managed burial, decomposition, residue, ancestry records, and necromantic recurrence. Its priests falsely extended Morvalis's bodily domain into authority over human souls; [[The Boatman]] alone governs passage along the soul-road.
 - **Appearance:** Skeletal Giants draped in rust-colored armor and tattered cloaks. Their eyes glowed with a ghostly light, and their presence brought an aura of decay and inevitability.
 - **Domain:** The Death Caste controlled the empire’s temples, cemeteries, and necropolises. They were also the keepers of Qianglong’s extensive funerary rites and necromantic practices.
-- **Dynastic Influence:** The Death Caste often rose to power during times of spiritual unrest or when the balance between life and death was threatened. Their dynasties focused on maintaining cosmic order, respecting the cycles of life, and mastering necromantic arts. Their reigns were often marked by a deep reverence for tradition and the ancestors.
+- **Dynastic Influence:** The Death Caste rose during burial crises, epidemics, or failures of succession. Its dynasties enforced mortuary continuity, ancestor records, and necromantic recurrence, often mistaking administrative persistence for cosmic order.
 
 **4. The Pestilence Caste: Veradia's Claimed Line**
 
-- **Role:** The Pestilence Caste was responsible for the empire’s knowledge of herbalism, medicine, and the management of disease. These Giants were both healers and bringers of plague, using their knowledge to control the balance between life and decay.
+- **Role:** The Pestilence Caste controlled herbalism, medicine, infection, and proliferating life. Its physicians could heal or spread plague, and its rulers treated both outcomes as instruments of demographic control.
 - **Appearance:** Vines and creeping plants grew from their bodies, with their skin displaying mottled, diseased patches. Their eyes gleamed with a toxic green light, and their breath carried the scent of rot and new growth.
 - **Domain:** The Pestilence Caste controlled the empire’s swamps, jungles, and medicinal gardens. They were also in charge of Qianglong’s vast apothecaries and the study of both healing and poisons.
-- **Dynastic Influence:** The Pestilence Caste rose to power during times of widespread illness or environmental crisis, establishing dynasties that emphasized the duality of growth and decay. Their reigns were often marked by significant advancements in medicine and agriculture, as well as a deep connection to the natural world.
+- **Dynastic Influence:** The Pestilence Caste rose during widespread illness or ecological crisis. Its dynasties advanced medicine and agriculture while also weaponizing infection, fertility, invasive growth, and dependency on court remedies.
 
-### The Dynastic Cycle
+## The Dynastic Cycle
 
 The history of the Celestial Empire of Qianglong was defined by a cyclical pattern of dynastic rise and fall, closely tied to the attributes of the ruling caste. When one caste grew too powerful or became corrupt, the other castes would unite to overthrow them, leading to a grand civil war. The victorious caste would then establish a new dynasty, reshaping the empire according to their values and strengths.
 
@@ -55,21 +57,23 @@ The history of the Celestial Empire of Qianglong was defined by a cyclical patte
 
 - **Famine Dynasties:** Focused on stability, resource management, and economic growth. These dynasties often led the empire through periods of recovery and rebuilding, but their strict control sometimes led to stagnation and internal unrest.
 
-- **Death Dynasties:** Emphasized spiritual order, tradition, and the balance between life and death. These dynasties often brought peace and stability but were also known for their conservatism and resistance to change.
+- **Death Dynasties:** Emphasized mortuary administration, recurrence, ancestral precedent, and the preservation of office. They often brought stability while deepening necromantic dependence and resistance to change.
 
-- **Pestilence Dynasties:** Known for their advancements in medicine, agriculture, and the balance between growth and decay. These dynasties often brought innovation and environmental harmony but also faced challenges related to disease and the management of natural resources.
+- **Pestilence Dynasties:** Advanced medicine, agriculture, and controlled ecologies while normalizing plague, forced adaptation, and the political allocation of health.
 
-### The Disappearance of the Giants and the Fall of Qianglong
+## The Disappearance of the Giants and the Fall of Qianglong
 
-As the cycles continued, the influence of the Horsemen began to weigh heavily on the empire. The Giants, increasingly divided by their caste loyalties and ambitions, found themselves in a constant state of conflict. The final dynastic war, the **War of the Four Horsemen**, saw the castes tear each other apart in a struggle for supremacy.
+As the cycles continued, each caste treated its Menhir alignment as proof that its own office should encompass the whole empire. The Horsemen did not judge between them; their domains simply answered compatible rites and pressures. Giant ambition converted that amoral response into escalating political certainty. The final dynastic war, the **War of the Four Horsemen**, saw the castes tear each other apart in a struggle for supremacy.
 
-In the aftermath, the ruling Giants—sensing the impending collapse—retreated into vast underground vaults hidden beneath the mountains. These vaults were said to contain the greatest treasures and knowledge of each caste, as well as powerful relics tied to the Horsemen themselves. With their rulers gone, the lesser Giants and humans of the empire descended into chaos, unable to maintain the fragile balance that had kept the civilization intact.
+In the aftermath, the ruling Giants retreated into vast underground vaults hidden beneath the mountains. These vaults held each caste's treasures, knowledge, recurrence bodies, and Menhir-aligned relics. With their rulers gone, the lesser Giants and enslaved humans were left inside a failing state apparatus built around coerced specialization and recurrent civil war.
 
 The once-great cities of Qianglong were abandoned, their temples and palaces left to decay as the empire fell into ruin. The remnants of Qianglong are now haunted places, filled with the echoes of past grandeur and the dark magic that still lingers in the bones of the earth.
 
-The legacy of the Celestial Empire of Qianglong lives on in the myths and legends of the world, a tale of power, ambition, and the inevitable decay that comes when the forces of War, Famine, Death, and Pestilence are allowed to rule unchecked.
+Qianglong survives in myth as a warning about power mistaking natural correspondence for justice. War, scarcity, bodily death, and proliferating life were real domains. The empire's decision to make them titles of human and Giant rule was its own.
 
 ## Navigation
 
 - [[Timeline MOC]]
+- [[The Faewild Schism]]
+- [[Menhir Sovereignty and Bargain]]
 - [[Canon Index]]

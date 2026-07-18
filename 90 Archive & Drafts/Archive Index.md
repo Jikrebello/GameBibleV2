@@ -35,6 +35,8 @@ The third creature expansion wave is preserved under `90 Project History/2026-07
 
 The fourth creature expansion wave is preserved under `90 Project History/2026-07 Shadowlands and Astral Wave`. [[Shadowlands and Astral Wave Migration Manifest]] records the forty-two Shadowlands forms, eighteen Astral forms, Great Rebellion ruling, seven Idol ecologies, Astral anchor regimes, and fourteen-entry Demiplane Atlas.
 
+The Menhir and ghoul-geography cohesion wave is preserved under `90 Project History/2026-07 Menhir and Ghoul Geography Wave`. [[Menhir and Ghoul Geography Migration Manifest]] records the twenty-nine pre-wave snapshots, Menhir moral-blindness ruling, Faewild Schism, temporary modern Trium, discontinuous underworld, three double-layer ghoul cities, and outward culture and adventure reconciliation.
+
 ## Subject Archives
 
 - **10 Cosmology:** superseded cosmological phases and entity versions.

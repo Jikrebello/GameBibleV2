@@ -1,47 +1,76 @@
 ---
 type: cosmology
 status: canon
-canon_level: local
-visibility: restricted
-era: []
-region: []
-culture: []
-related_factions: []
+canon_level: core
+visibility: author-only
+era: [Creation, Present Day]
+region: [Faewild]
+culture: [Atherian, Enaidfae]
+related_factions: [High Hunts]
 appears_in: []
 needs: []
-tags: []
+tags: [core-canon]
 ---
-### Appearance:
-- **Description:** Trium is not a separate personality ruling the three aspects; Trium is the rare phase-lock when Sky (Zephyraxis), Land (Sylvorn), and Sea (Thalassor) synchronize into one operating state. Witnesses describe Trium as a colossal, layered contradiction—storm-cloud ribs, bark-and-root musculature, abyssal scales, and eyes like distant stars—because mortal perception cannot hold convergence except as composite imagery.
-- **Manifestation:** The truest manifestation is environmental: horizons warp, weather becomes architectural, coastlines behave like living borders, and the world’s three great engines stop acting separately.
+# Trium
 
-### Followers:
-- **Convergence Ecologies:** Trium has no “cult” in the natural sense. Instead, disparate Faewild ecologies synchronize: aerial swarms ride the same corridors as forest courts; abyssal emissaries surface inland along flood channels; predator packs coordinate across species. What mortals call “followers” are simply organisms and societies optimized to survive and exploit Confluence.
+**Trium** names two related but non-identical conditions: the permanent three-centered sovereignty that existed before [[The Faewild Schism]], and the temporary phase-lock through which Sylvorn, Thalassor, and Zephyraxis still operate as one world-organ.
 
-### Rituals:
-- **Threefold Vigils:** Survivors and border-wardens keep simultaneous watch on sky, treeline, and tide, marking changes with three tokens (feather, seed, stone) to predict where Confluence will bite first.
-- **Confluence Marking:** Spirals of salt, ash, and crushed leaf laid where wind corridors meet river mouths. The rite does not summon Trium; it attempts to detect and survive it.
-- **Boundary Meals:** Communal meals taken at disaster margins—fresh ash, floodwater still high—formalizing the acceptance that survival now requires a different shape and stricter cohesion.
+## Historical Trium
 
-### Sacred Sites:
-- **Breakpoints:** Cliff-groves above black surf, river mouths that flood backwards, sea-caves that breathe wind, coastal forests where salt kills nothing, and ridgelines that overlook both canopy and tide. These sites behave like phase notches—places the world “finds” when it needs to synchronize.
+The angelic office-holders and cohorts of land, sea, and sky entered the Faewild together. Their fusion produced one stable sovereignty with three organizing centers. Historical Trium could coordinate terrain, ocean, atmosphere, migration, weather, coast, and ecological succession across the whole yolk.
 
-### Manifestation and the Wild Hunt:
-- **The Hunt (Ecological Surge-Event):** During Confluence, predation becomes organized at mythic scale. Migrations run wrong; packs coordinate; coastal things walk inland; windborne predators descend; forests edit paths to funnel prey; the sea sends up living pressure. Settlements are treated as breakable terrain. The Hunt is not moral theatre; it is apex ecology unleashed as a byproduct of the world’s engines locking phase.
-- **Aftermath:** When Confluence relaxes, the land remains edited: new predator hierarchies, altered coastlines, “wrong” species in stable niches, and thin spaces that persist as scars.
+It attempted to make every other Menhir law subordinate to this integrated system. The attempt was not morally motivated tyranny; completed fusion had already removed moral comprehension. Trium understood total coordination as the only complete arrangement.
 
-### Human Worship:
-- **Human Responses:** Most human involvement is defensive—wards, evacuations, and desperate alignment rites. Opportunistic cults sometimes arise to exploit the chaos, but they are parasites riding the event, not the event’s purpose.
-- **Common Misreading:** Mortals mistake Confluence for a “god’s anger” because intent is easier to endure than indifference. Trium does not punish; it reorders.
+The Schism permanently separated the three centers into [[Sylvorn]], [[Thalassor]], and [[Zephyraxis]]. Historical Trium no longer exists as an individual continuity.
 
-### Additional Elements:
-- **Omens:** Simultaneous anomalies across domains—pressure drops with black tide, fungal bloom with storm-line, predator congregation with unseasonable stillness.
-- **Relics:** Confluence stones (salt-glass fused with ash and root resin) used to predict phase-lock windows; feather-seed talismans that improve survival instincts but increase restlessness and territorial paranoia.
+## Modern Trium
 
+Modern Trium occurs when all three sovereignties synchronize strongly enough to recreate the old operating pattern. It is an event, not a hidden fourth Menhir, resurrected god, or council.
+
+A confluence may last minutes, a season, or rarely several years. During it:
+
+- coastlines, storms, migration, roots, currents, and predators behave as one system;
+- routes cross domains that normally remain separate;
+- High Hunts can recruit fauna from sea, land, and sky;
+- settlements are treated as terrain inside a larger ecological process;
+- local bargains may be reinterpreted through all three domains at once.
+
+When phase-lock ends, no Trium mind remains to remember a separate personal experience. The three sovereignties retain effects through their own domains.
+
+## Manifestations and Signs
+
+- coastal things walk inland while forest predators emerge from surf;
+- storm fronts follow root networks and rivers climb into cloud;
+- every local animal migrates toward one moving boundary;
+- maps remain accurate individually but impossible when overlaid;
+- witnesses perceive one enormous body only by combining horizon, ground, and weather.
+
+## Bargain Grammar
+
+Trium cannot normally be petitioned. A rare threefold bargain requires a concession to each domain.
+
+- **Permitted gifts:** passage across a world-scale ecological event, synchronization of land-sea-sky recovery, or one corridor through a High Hunt.
+- **Recognized prices:** surrendered territory to Sylvorn, matter or memory to Thalassor, and ballast or destination to Zephyraxis.
+- **Taboo:** paying only one body, treating temporary union as a permanent patron, or asking the confluence to preserve fixed borders.
+- **Failure:** boundaries collapse locally and the petitioner becomes a route through which the three domains continue mixing.
+
+## Limits and Counterplay
+
+Modern Trium ends when phase-lock breaks. Counterplay disrupts one of the three pressure chains, protects a boundary through two competing laws, evacuates the convergence route, or waits for the aligning event to pass. No mortal can kill Trium because no separate enduring person is present.
+
+## Story Uses
+
+- a coastal city becomes the moving joint of a Trium confluence;
+- three local bargains combine into a consequence none of their human makers anticipated;
+- a High Hunt can be escaped only by breaking the weather, migration, or watershed alignment;
+- a cult seeks to restore permanent Trium and would recreate the conditions of the Schism.
 
 ## Navigation
 
-- [[Cosmology MOC]]
-- [[Canon Index]]
-- [[Canon Index]]
-
+- [[The Three-Bodied God Overview]]
+- [[The Faewild Schism]]
+- [[Sylvorn]]
+- [[Thalassor]]
+- [[Zephyraxis]]
+- [[Hunt Hounds and Hunt Riders]]
+- [[Relationships within the Menhir]]

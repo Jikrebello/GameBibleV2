@@ -34,6 +34,12 @@ tags: []
 - [[The Founding of the Thalmyric Empire]]
 - [[Prelude to Collapse]]
 
+## Cosmic Prehistory
+
+- [[The Great Rebellion and the Yolk Exiles]]
+- [[The Faewild Schism]] - after yolk-fusion and before the Giant imperial ages.
+- [[The Mythology of The Menhir]] - later Atherian interpretation with disputed reliability.
+
 ## Bridge Ages
 
 - [[Age of Chains]]

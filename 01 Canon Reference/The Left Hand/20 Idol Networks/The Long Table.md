@@ -6,32 +6,34 @@ visibility: restricted
 era: []
 region: []
 culture: []
-related_factions: ["Gluttony", "Ghouls"]
+related_factions: ["Gluttony", "Ghouls", "Warrens of Woe"]
 appears_in: []
 needs: []
 tags: []
 ---
 # The Long Table
 
-**Gluttony's mortal network. Mask: the Devourer** (per the register; the ghoul-cities are the same patron's underworld — the Table is its surface franchise).
+The Long Table is Gluttony's principal mortal network. It serves the Devourer's feeding economy through excess, engineered want, and the conversion of necessary food into social domination. It is not the surface government of the ghoul cities, and the Devourer does not administer either network as a resident monarch.
 
 ## Doctrine and Method
 
-The Long Table teaches consumption as communion: to devour a thing is to honor it, to hunger is to be alive, and satiety is the only heresy. Its visible face is decadent — feast-mysteries for the rich, twelve-hour banquets with courses that should not exist (the deep cells' provisioning is a Church nightmare all by itself). Its structural face is worse: **famine brokerage.** The Table's factors buy standing crops in glutted years, engineer scarcities, and sell hunger at the top of the market — a Devourer feeds on the gorging *and* the starving, and the Table has learned to serve both courses from one kitchen. In liaison with the Under-Ledger (finance) and the ghoul-cities (disposal — the Table's contracts with the necropolises are the setting's most matter-of-fact horror: cadaver-tribute in exchange for the Warrens not farming upward).
+The Long Table teaches consumption as communion: to devour a thing is to honor it, to hunger is to be alive, and satiety is the only heresy. Its visible face is decadent - feast-mysteries for the rich and twelve-hour banquets with courses that should not exist. Its structural face is worse: **famine brokerage.** Table factors buy standing crops in abundant years, engineer scarcities, and sell hunger at the top of the market. The Devourer feeds on both gorging and starvation, and the Table has learned to serve both courses from one kitchen.
+
+Some deep cells exchange cadavers, grave maps, or captive routes with particular ghoul lineages. These arrangements are temporary accommodations between predators, not binding treaties with a unified ghoul nation. A ghoul buyer may betray, consume, or expose a Table factor as readily as honor the exchange. The [[Underworld, Underways, and Corpse-Roads|corpse-roads]] are too discontinuous for a stable disposal network, and no agreement can guarantee that a city will refrain from surface hunting.
 
 ## Structure and Signs
 
-**Provisioners** (supply), **Maîtres** (cell-masters who run the feasts and the famines with the same ledgers), **the Fatted Council** (masters; tradition holds each must be visibly starving — the inner doctrine being that true hunger is never fed, only honored). Signs: grain moving against all market logic; feast-clubs whose membership rolls overlap with grain-factor licenses; the Devourer's tell — communities where *appetite has replaced ritual*: festivals with the saints' names sanded off and the eating kept.
+**Provisioners** control supply, **Maîtres** run feasts and famines with the same records, and the **Fatted Council** coordinates the largest cells. Tradition requires each councilor to remain visibly starving, because the inner doctrine holds that true hunger is never fed, only honored. Signs include grain moving against market logic, feast-clubs whose memberships overlap with grain-factor licenses, and festivals from which every saint's name has been removed while the eating remains.
 
 ## Relations
 
-The ghoul liaison (above); the Apathetics are their opposite pole and occasional prey (the Quiet make poor customers until the Table starves them back into wanting); the Church's fast-calendar is their counter-doctrine, which is why Long Table money has quietly funded three separate theological attacks on fasting since the Reformation began.
+Individual cells court the Under-Ledger for finance and particular ghoul lineages for disposal or intimidation. The Apathetics are their opposite pole and occasional prey: the Quiet make poor customers until the Table starves them back into wanting. The Church's fast-calendar is their counter-doctrine, which is why Long Table money has quietly funded several theological attacks on fasting since the Reformation began.
 
 ## Hooks
 
 - Grenzburg's winter: someone is buying smoked fish futures in Lakewatch at *above* market — before the early ice was public knowledge.
 - A feast-mystery invitation names a dish the party last saw alive.
-- The Fatted Council's starving-master doctrine has produced a defector: a Maître who fed his master out of pity and is now hunted by both the Table and, for complicated reasons, the Warrens of Woe.
+- The Fatted Council's starving-master doctrine has produced a defector: a Maître who fed his master out of pity and is now hunted by the Table and by one [[Warrens of Woe|Fever Deeps]] lineage whose route he exposed.
 
 ## Shadowlands Interface
 
@@ -44,3 +46,5 @@ The ghoul liaison (above); the Apathetics are their opposite pole and occasional
 - [[Gluttony]]
 - [[Gluttony Masks and Feast-Beasts]]
 - [[Ghouls]]
+- [[Underworld, Underways, and Corpse-Roads]]
+- [[Warrens of Woe]]

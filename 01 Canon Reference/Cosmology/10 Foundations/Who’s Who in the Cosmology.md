@@ -73,16 +73,20 @@ _A practical overview of the major actors, what they are, where they belong, and
 
 ## The Menhir
 
-**What the Menhir are:** The sovereign powers of the Faewild: natural laws and mythic cycles given agency, scale, and court. They are not “nature gods” in a sentimental sense; they are nature as inevitability—predation, migration, metamorphosis, storm, thresholds—expressed as ruling intelligences.  
+**What the Menhir are:** Former angelic office-holders fused with their cohorts and bodies of Faewild natural law during the Great Rebellion's aftermath. Each is now a `yolk-sovereignty`: an intelligent ruling continuity inseparable from domain, court, and mythic cycle. Joining the Rebellion and choosing fusion were culpable decisions; completed fusion left the Menhir unable to comprehend good and evil as binding categories.
+
 **Where the Menhir belong:** The Faewild (the right yolk), though their effects can bleed into the Material through thin spaces, pacts, or rites.  
-**How they interact with mortals:** Mortals can bargain with them, offend them, serve them, or be inducted into their regimes—but the Menhir are not dependent on worship. They would remain what they are even if humanity vanished.  
-**How they are organized:** By tiers (“circles”) that reflect how fundamental and large-scale the law is.
+
+**How they interact with mortals:** Most dealings pass through courtiers, place minds, omens, or bounded manifestations. Direct sovereign bargains occur only at major thin places. A Menhir can recognize terms and injury without judging justice, and no repeatable rite can summon or command one.
+
+**How they are organized:** They are not. The Second, Third, and Fourth Circles are Atherian names for real recurring ecological blocs, not a hierarchy, government, or family. See [[Menhir Sovereignty and Bargain]] and [[The Faewild Schism]].
 
 ---
 
 ## Father Sun and Mother Moon
 
-**What they are:** Second-circle anchors within the Menhir hierarchy—dominant luminary sovereigns whose portfolios are so foundational that they shape entire regimes of natural behavior and mythic law.  
+**What they are:** Dominant luminary sovereignties placed in the Atherian Second Circle because their domains shape broad regimes of natural behavior and mythic law.
+
 **What they govern (in-setting logic):** Not “sun worship” and “moon worship,” but the deeper natural realities those luminaries represent: exposure, dominance, heat, fertility pressure, tides, instinct, cyclic return, and transformational timing.  
 **Where they belong:** The Faewild’s higher structure, with projection influence across Material nature.  
 **Why they matter:** They are “main players” because their logic touches everything living.
@@ -91,10 +95,13 @@ _A practical overview of the major actors, what they are, where they belong, and
 
 ## The Star Children
 
-**What they are:** Specialized lesser offspring of Father Sun and Mother Moon—Solar Sons and Midnight Daughters—each embodying a narrower, sharper natural function within the parent’s portfolio.  
-**What they do:** They handle specific “sub-laws” (particular kinds of heat, particular kinds of night, specific timings, instincts, exposures) and are often the powers mortals encounter first when dealing with the Second Circle.  
-**Where they belong:** Still within the Faewild’s regime, but smaller than the great circle powers and below the seasonal Horsemen in raw authority.  
-**Why they work well narratively:** They give you high-myth “nature divinities” that can interact with stories without feeling like ultimate gods.
+**What they are:** **Star Children** is the Atherian family-title for six sovereign Menhir: Astaroth, Lyraxis, Orionis, Hecatara, Typhonius, and Arachnara. They are not offspring of Father Sun and Mother Moon. **Solar Sons** and **Midnight Daughters** are recurring court roles and manifestation categories rather than additional sovereigns.
+
+**What they do:** The six express narrower natural and mythic laws than the luminary powers and are often encountered through their courtiers, signs, and bounded overlays.
+
+**Where they belong:** Within the Faewild's Second-Circle ecology as Atherians classified it, without implying rank over the Seasonal or World-Body sovereignties.
+
+**Why they work narratively:** They provide high-myth powers with clear domains while leaving direct encounters rare and culturally interpreted.
 
 ---
 
@@ -128,7 +135,8 @@ _A practical overview of the major actors, what they are, where they belong, and
 
 ## Druids
 
-**What Druids are:** Mortals inducted into Faewild pacts—Menhir-aligned operatives who embody local natural regimes and enforce mythic ecological law.  
+**What Druids are:** Mortals inducted into Faewild pacts - Menhir-aligned operatives who embody local natural regimes and mediate mythic ecological law. That law can establish consequence without establishing justice.
+
 **Where they belong:** Primarily at the edges where Faewild influence is strong: old groves, thresholds, migrating corridors, stormlands, sacred waters.  
 **How they differ from Saints:** They are powerful locally and mythically, but they are not oriented toward the Redeemer’s restoration project. Their loyalty is to living law and pact, not universal salvation.
 

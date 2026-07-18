@@ -9,61 +9,62 @@ culture: ["Folk"]
 related_factions: ["The Cloven", "Frontier Industry Lords"]
 appears_in: ["The Bright-Fire Carnival"]
 needs:
-  - set the exact coin (years, names, warmth, offering) and settlement thresholds for the chosen game system
+  - set the exact pressure and settlement thresholds for the chosen game system
 tags: [module-conversion, game-ready, mechanic]
 ---
 # The Grove-Debt
 
-The grove-debt is the engine of [[The Bright-Fire Carnival]]: the obligation that falls due when someone destroys a grove under [[Sylvorn]]'s law without making the payment the land's memory expects. It is not a curse and not a metaphor. On the frontier it is treated as a real, collectable debt — one the Folk have always paid, the Season-Cutters still honor, and the Timber-Cartel's Firebrands pretend does not exist until it collects itself.
+The grove-debt is the frontier name for the response produced when someone destroys a grove under [[Sylvorn]]'s law without performing the repair its territorial memory expects. It is a real metaphysical pressure, not a legal judgement and not proof that every price demanded in its name is just. The Folk and the Season-Cutters maintain customs that usually prevent it; the Timber-Cartel's Firebrands ignored those customs until the land answered.
 
 ## Where It Comes From
 
-Under Sylvorn, an old grove is a node of **territorial memory**: it remembers footfalls, oaths, blood, and fire, and it responds seasons later as if the offense were yesterday. The Folk manage this with offering groves — stands left uncut and paid into at Bright-Fire — because a grove that is honored collects nothing. A grove that is taken *without* offering collects everything it is owed, in its own time, in its own coin.
+Under Sylvorn, an old grove is a node of **territorial memory**: it remembers footfalls, oaths, blood, and fire, and it may answer seasons later as if the offense were yesterday. The Folk manage this with offering groves - stands left uncut and honored at Bright-Fire - because recognition, restraint, and restoration keep human use within survivable bounds.
 
-When "Clear-Cut" Karl's crews burned the Stump-Ring offering grove to hit a quota, they did not merely destroy trees. They defaulted on a debt the land had no intention of forgiving.
+When "Clear-Cut" Karl's crews burned the Stump-Ring offering grove to hit a quota, they committed a genuine wrong: deliberate destruction, broken custom, concealed responsibility, and foreseeable danger to their neighbors. Sylvorn's law preserved the injury as a pressure for equivalence. Human moral judgement establishes the guilt; the land's response does not.
 
 ## The Coin
 
-The grove-debt is not paid in silver. It is paid in the things the [[The Cloven]] recognize as nutrient and leverage — the same coin they take in bargains:
+The [[The Cloven]] may describe the pressure in the kinds of coin their place-law recognizes:
 
 - **Years:** time lifted from a life, leaving the payer older or the taken time simply gone.
 - **Names:** a name unremembered — by others, or by its owner — until it is returned or paid off.
 - **Warmth:** heat of body and hearth, the literal cold the debt leaves behind.
-- **The Offering:** the Folk-recognized payment — labor, goods, oath, and rite — that would have kept the grove honored in the first place, and can still close the debt if paid by the guilty.
+- **Repair:** labor, goods, public admission, oath, restored land, and rite that address the human wrong while satisfying the grove's demand for recognition.
 
-A collection is proportionate when it draws this coin from those who actually incurred the debt. That is what makes [[Sisrin the Alder-Maid]]'s original claim just.
+Years, names, and warmth are not morally interchangeable with timber or labor merely because Sylvorn's ecology treats them as equivalent. [[Sisrin the Alder-Maid]] begins with a bounded and truthful claim against the actual offenders, but the personal coin she proposes is still cruel and may rightly be refused.
 
 ## Settlement — the Clean Path
 
-The grove-debt can be settled, and settling it is the adventure's cleanest solution:
+The grove-debt can be settled without surrendering anyone's life, identity, or bodily warmth. This is the adventure's cleanest solution:
 
-- the **guilty** pay the debt in its coin — Karl's crews, and behind them Holger Strun, who set the quota;
-- payment can be **forced** (evidence, Folk testimony, public pressure) or **freely made** (Old Tomas's confession leading the way);
-- once the original debt is paid, Sisrin's claim closes and, by her own law, she must call off the collection.
+- the **guilty** admit the burning and the concealed quota in public;
+- Karl's crews and Holger Strun provide labor, timber, seed, goods, and compensation for the border communities they endangered;
+- a renewed offering and bounded oath acknowledge the grove without granting Sylvorn moral jurisdiction over human lives;
+- Sisrin accepts the repair as sufficient ecological equivalence and calls off her retinue.
 
-Payment before the third night is the difference between a fair that ended a year late and a town that burned.
+Evidence, Folk testimony, and public pressure can compel this settlement even when the guilty refuse to confess freely. Reaching it before the third night is the difference between a fair that can end and a town exposed to the Rider's massacre.
 
 ## Re-Seating — the Fuller Path
 
-Beyond payment, the debt can be **re-seated**: the grove restored to honored standing through a Folk seed-burial oath, a renewed offering, and the guilty party's participation. Re-seating answers Sylvorn's law rather than merely satisfying it — it turns a stopped massacre into a healed border and a renewed grove, and it is the ending the Folk and the Season-Cutters actually want.
+Beyond settlement, the grove can be **re-seated**: restored to honored standing through a Folk seed-burial oath, a renewed offering, long-term stewardship, and the guilty party's participation. Re-seating repairs both the damaged land and the human relationship around it. It does not declare Sylvorn's original terms righteous; it finds a morally defensible act that the grove can recognize as closure.
 
 ## Inflation — How the Debt Becomes a Massacre
 
-A grove-debt is only proportionate while it stays attached to the guilty. [[The Rime Rider]]'s whole craft is **inflating** it:
+A grove-response remains bounded only while it stays attached to the actual injury and offenders. [[The Rime Rider]]'s whole craft is **inflating** it:
 
 - **reclassification:** widening the debt from "the crews who burned the grove" to "the town that ate the profit";
 - **acceleration:** setting a public due date (the third-night bonfires) instead of the land's slow season;
-- **guarantee:** binding the wronged party by Faewild law so they cannot call the collection off once inflated.
+- **guarantee:** binding Sisrin's retinue to continue once the Rider's wider predation begins.
 
-An inflated grove-debt is no longer justice. It is a predator's fraud wearing justice's clothes, and collapsing it back to its targeted form — by payment, by voiding the guarantee, or by destroying the Rider — is the party's core problem.
+The Rider's plan is unequivocally evil: it turns a real grievance into permission for collective terror and feeds on people who neither ordered nor performed the burning. The party must stop the Rider, protect the town, and then decide how to answer the underlying human wrong without treating the land's preferred coin as a moral command.
 
 ## Why the Guilty Refuse
 
-The cruelty of the mechanic is that the debt is cheap to pay and expensive to admit. Paying means Karl confessing the burning and Strun conceding he set the quota — which exposes the cartel's provoke-and-profit machine. They would rather gamble the town than sign the receipt, and the Rider is counting on exactly that.
+The material repair is affordable; the admission is politically expensive. Karl must confess the burning and Strun must concede that he set the quota, exposing the cartel's provoke-and-profit machine. They would rather gamble the town than lose power, and the Rider is counting on exactly that.
 
 ## Story Use
 
-The grove-debt is portable: any grove taken without offering, any frontier profit built on a defaulted land-claim, any winter-hunt predator buying an aggrieved forest's grievance. It is a recurring danger of the Sylvan Marches — a real obligation that is just when the wronged collect it and monstrous when a predator buys and inflates it.
+The grove-debt is portable: any grove taken without restraint, any frontier profit built on an ignored land-claim, any winter-hunt predator attaching itself to an aggrieved forest. It creates a useful three-sided problem: a real human wrong, an amoral ecological response, and an agent who may choose either bounded repair or predation. A court settlement can end the danger, but it never absolves the human participants from judging the terms themselves.
 
 ## Navigation
 
@@ -72,5 +73,6 @@ The grove-debt is portable: any grove taken without offering, any frontier profi
 - [[The Rime Rider]]
 - [[The Cloven]]
 - [[Sylvorn]]
+- [[Menhir Sovereignty and Bargain]]
 - [[The Frontier Industry Lords]]
 - [[Folk Daily Life and the Thirteen Moons]]

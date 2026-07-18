@@ -125,18 +125,17 @@ This is why high ritual and rare conditions are usually required for true manife
 
 ### The Menhir
 
-- Former angelic orders transformed into Faewild yolk-sovereignties during the [[The Great Rebellion and the Yolk Exiles|Great Rebellion]].
+- Former angelic office-holders and cohorts transformed into Faewild yolk-sovereignties after the [[The Great Rebellion and the Yolk Exiles|Great Rebellion]].
 - They now express created natural and mythic law at sovereign scale and are no longer ordinary angels.
-- Tiered by “circles” (scale and fundamentalness).
-- They are forces of nature first; cults and myths are secondary.
+- Fusion retained intention and choice while removing comprehension of good and evil as binding categories. Menhir exactness is never proof of justice.
+- “Circles” are Atherian names for recurring ecological blocs, not ranks, governments, or kinship.
+- [[Menhir Sovereignty and Bargain]] controls mortal interaction; [[The Faewild Schism]] controls historical Trium and the Circle pattern.
 
-### Father Sun and Mother Moon (Second Circle Anchors)
+### The Atherian Second Circle
 
-- The dominant luminaries of the second circle, with specialized offspring:
-    - **Solar Sons** (aspects of Father Sun’s portfolio)
-    - **Midnight Daughters** (aspects of Mother Moon’s portfolio)
-
-- These star children are lesser than the circle powers and distinct from the seasonal Horsemen of later circles.
+- Father Sun and Mother Moon are dominant luminary sovereignties.
+- Astaroth, Lyraxis, Orionis, Hecatara, Typhonius, and Arachnara are the six independent powers Atheria called **Star Children**.
+- Solar Sons and Midnight Daughters are court roles and cultural manifestation categories, not literal offspring or additional sovereigns.
 
 ### The Idols
 
@@ -239,7 +238,7 @@ Air + Fire → Light → **Lumen Threshold**
 - **Shell:** four elemental boundary-realms
 
 - **Inside:**
-    - **Faewild (right yolk):** mythic nature laws → Menhir (circles) → Father Sun/Mother Moon → Solar Sons/Midnight Daughters
+    - **Faewild (right yolk):** mythic nature laws → Menhir sovereignties → Atherian Circle taxonomy → courts and manifestations
     - **Shadowlands (left yolk):** psychic inversion/hunger architectures → Idols
     - **Material (center outcome):** stable overlap projection
 

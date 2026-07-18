@@ -26,4 +26,4 @@ views:
       - visibility
     sort:
       - property: status
-        direction: DESC
+        direction: ASC

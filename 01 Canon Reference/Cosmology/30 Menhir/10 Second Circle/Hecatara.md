@@ -1,101 +1,76 @@
 ---
 type: cosmology
 status: canon
-canon_level: local
-visibility: restricted
-era: []
-region: []
-culture: []
-related_factions: []
+canon_level: core
+visibility: author-only
+era: [Creation, Present Day]
+region: [Faewild]
+culture: [Atherian]
+related_factions: [Way-Weavers]
 appears_in: []
 needs: []
-tags: []
+tags: [core-canon]
 ---
-### Hecatara
+# Hecatara
 
-*Second Circle — The Crossroads That Are Real, and the Toll of Unlived Lives*
+**Hecatara** is the Menhir sovereignty of routes, adjacency, crossroads, thresholds, tolls, and the consequence of passage.
 
-------
+## Original Commission and Cohort
 
-#### Appearance and Forms
+Hecatara's angelic office administered material adjacency, migratory corridors, safe crossings, boundaries between unlike environments, and the truth that every arrival implies a departure from somewhere else.
 
-- **Primary Form (The Threefold Way):** Hecatara appears as a towering figure with three faces, each oriented toward a different direction of travel. One face carries the sharp alertness of first departure; one holds the hard calm of measured endurance; one bears the hollow patience of long roads and older nights. Her cloak is a mantle of night-sky and road-dust, stitched with star-points that shift like a living map. Her gaze shines at a distance like lantern-light—steady, guiding, and inescapably noticeable once seen.
-- **Toll-Keeper Form:** Hecatara may take the shape of a crone bent like an old signpost, hands knotted like roots and fingers stained with soot from a thousand lanterns. In this guise she resembles consequence made visible: the weight of a toll unpaid, the creak of a bridge that has carried too much, the look of a road that demands something before it will open. Her voice carries the dry rasp of wind through reeds at a fork in the trail.
-- **The Masked Walker:** Sometimes she appears as a cloaked traveler wearing a three-faced mask. This form is quiet and practical, like a guide encountered at the edge of fog. She offers a route, a doorway, a passage that did not exist a moment before—an opening that feels like mercy until the traveler realizes the new road has its own rules and its own debts.
+The office-holder and cohort joined the Rebellion seeking authority over access itself. Fusion made Hecatara capable of opening, closing, and pricing routes without understanding sanctuary, exile, hospitality, or entrapment as moral realities.
 
-------
+## The Faewild Schism
 
-#### Implements and Signs of Power
+Trium attempted to make every route serve one integrated world map. Hecatara opened forbidden adjacencies and made paths leave the system without crossing its intervening terrain. These breaches allowed the other sovereignties to attack domains Trium had kept apart.
 
-Hecatara’s instruments are the tools by which routes become legible, choices become fixed, and thresholds become traversable.
+## Domain and Compulsion
 
-- **The Torch (Lantern of the Third Road):** A cold flame that throws light onto possibility rather than surface. Under its glow, walls reveal dormant doorways, rivers show stepping-stones aligned to the night’s current, and landscapes disclose paths that exist only during certain alignments of moon, season, and star.
-- **The Key (The Liminal Key):** A heavy key of iron and moon-silver that turns through more than locks. When used, it secures a crossing and seals a route into reality. It binds a passage to the traveler who invoked it, and binds the traveler to the price of that passage.
-- **The Three-Faced Mask (The Witness):** A mask that renders branching routes visible—glimpses of adjacent outcomes threaded around a single moment. It shows the nearby roads a life might have taken, not as prophecy but as terrain: side-trails of consequence running parallel to the one currently walked.
+Hecatara makes place relational. A door, ford, bridge, crossroads, migration lane, and political border become potent when crossing changes what rules apply. Every shortened route creates a displaced distance, every opening creates another closure, and every threshold selects who may pass.
 
-------
+She does not govern the human soul-road, fate, generic dark magic, or lawful contract. Similar imagery around keys and tolls does not make her the Boatman or the Creditor.
 
-#### Nature and Character
+## Manifestations and Signs
 
-Hecatara is the Faewild’s topology given shape: the sovereign principle of thresholds, forks, and the hidden geometry of passage.
+- roads meet where no map permits them to meet;
+- a door opens to the correct destination only from one side;
+- travelers pay distance through age, memory, cargo, or a later detour;
+- crossroads acquire a fourth or fifth direction after midnight;
+- keys fit places rather than locks;
+- a three-faced guide answers where, from where, and at what cost, but never whether one should go.
 
-- **Sovereign of Crossroads:** Hecatara governs places where paths divide and converge—roads, fords, ridge-lines, cave mouths, city gates, and the thin places where the Faewild’s near edges touch the Material world. Where movement is possible in more than one direction, her influence can be felt.
-- **Arbiter of Toll:** Every crossing has a cost. Hecatara is the law that assigns the cost and ensures it is paid. The toll may be time, certainty, memory, a promise, a season of a life—always something that matters to the traveler’s continuity.
-- **Cartographer of Consequence:** To Hecatara, lives are routes traced through a landscape of branching options. She reads decisions the way a tracker reads prints: not for morality, but for direction, momentum, and inevitability. A “good route” is one that holds; a “bad route” is one that collapses.
-- **The Vast Map:** The oppressive awe of Hecatara comes from scale. Her map contains roads beneath roads, crossings within crossings, and exits most minds never perceive until they are standing on them. To encounter her is to realize that the world is layered with hidden routes that do not belong to human planning.
+## Bargain Grammar
 
-------
+- **Permitted gifts:** one opened passage, shortened journey, hidden exit, redirected pursuit, sealed threshold, or knowledge of the route a thing used.
+- **Recognized prices:** a toll, closure of another path, delivery of a traveler or message, surrendered destination, or obligation to return by the long road.
+- **Taboo:** crossing without paying, demanding passage without consequence, or using a one-way threshold as if return were included.
+- **Failure:** destinations exchange, routes loop, a path opens for an unwanted traveler, or displaced distance returns all at once.
 
-#### Influence and Observances
+## Courts and Ecologies
 
-Hecatara is acknowledged through field-rites and boundary customs practiced by those whose lives depend on clean passage.
+[[Way-Weavers]], road courts, bridge minds, migratory fauna, and threshold households mediate Hecatara's law. Some are full moral agents. A Way-Weaver can warn of a cruel toll even when the route itself cannot care.
 
-- **Road-Shrines and Threshold Altars:** Her markers are three-way cairns, lantern-posts in empty moors, stone circles at converging paths, offerings wedged under bridge keystones, and standing stones that cast strange triple shadows at dusk. In regions where her power is strong, signposts sometimes indicate routes that only exist at night or only for a single traveler.
-- **Rites of Passage:**
-  - **The Candle Offering:** three candles lit at a crossroads; one is permitted to die, recognizing that one route must be surrendered.
-  - **The Key-Scar Rite:** a small cut made with cold iron, sealing a crossing to the traveler’s blood and binding the toll to their story.
-  - **The Mask Vigil:** a night spent awake at a fork in the road while wearing the three-faced mask, letting the mind register the neighboring routes that braid around the present one.
-- **Lantern-Keepers:** Guides, ferrymen, oath-midwives, hedge-wardens, and boundary-judges keep Hecatara’s customs. They maintain old paths, preserve crossing rules, and ensure travelers do not drag unwanted things across thresholds.
-- **Omens:** Hecatara’s constellation and signs appear around thin crossings and consequential routes:
-  - three crows aligned along a fork,
-  - a lantern-glow in fog where no road should be,
-  - keys found in improbable places,
-  - familiar paths rearranging after dusk,
-  - bridges that “feel longer” than they measure.
+## Mortal Names and Misreadings
 
-------
+Atherian mystery cults made Hecatara patron of crossroads, secret knowledge, and witches. Folk road customs treat her more accurately as the pressure behind paths that remember terms. Warlocks sometimes mistake topological effects for Astral or contract magic.
 
-#### Symbols and Relics
+## Limits and Counterplay
 
-- **Symbols:** the torch, the key, and the three-faced mask—signs of revelation, passage, and witness.
-- **Relics:**
-  - **Unquenching Torches:** lanterns that survive wind and rain, used to trace a road that exists only for a night.
-  - **Keys of Liminal Iron:** keys that open a single impossible crossing once, then turn inert and heavy as spent fate.
-  - **Masks of the Witness:** masks that render branching routes visible, leaving the wearer altered—more aware of options, less able to forget them.
+Hecatara cannot alter judgement, make an unlawful destination rightful, or create access without displaced consequence. Counterplay names both endpoints, marks the return route, pays the bounded toll, refuses a path before stepping across it, or destroys the local threshold anchor.
 
-------
+## Story Uses
 
-#### Legendary Artifact
-
-- **The Cauldron of Hecatara (The Kettle of Roads):** A deep vessel etched with spirals and forked lines. Its brews are route-elixirs: draughts that grant access to the third road, allow passage through a sealed threshold, or return a traveler by a path that has never existed before. Each use draws a toll from unlived life—an opportunity erased, a relationship that never forms, a future that will not occur—subtracting possibility to fund passage.
-
-------
-
-#### Common Phenomena
-
-- **Lantern-Paths:** lights in fog that lead travelers onto routes that feel safe until they realize the destination was never their intent.
-- **Forked Shadows:** three shadows cast at dusk, suggesting a life briefly aligned with multiple adjacent routes.
-- **Road-Drift:** trails that become subtly wrong after midnight; bridges opening onto unfamiliar valleys; doors leading to older or neighboring versions of the same place.
-
-------
-
-#### Summary
-
-Hecatara is the Crossroads That Are Real: the embodied geometry of passage. She governs the branching of roads, the thinning of thresholds, and the toll that makes crossings possible. Her presence turns choices into terrain and reveals that the world is layered with hidden routes—some merciful, some ruinous, all of them costly.
+- a shortcut saving a winter convoy has quietly lengthened every road out of the destination;
+- a prison door opens anywhere except outside the prison's legal boundary;
+- a bridge court demands delivery of a traveler no living witness remembers;
+- a hidden route can evacuate refugees but will also admit the army pursuing them next season.
 
 ## Navigation
 
-- [[Cosmology MOC]]
-- [[Canon Index]]
-- [[Canon Index]]
-
+- [[The Second Circle]]
+- [[Way-Weavers]]
+- [[Menhir Sovereignty and Bargain]]
+- [[Thin Spaces]]
+- [[The Boatman]]
+- [[The Faewild Schism]]

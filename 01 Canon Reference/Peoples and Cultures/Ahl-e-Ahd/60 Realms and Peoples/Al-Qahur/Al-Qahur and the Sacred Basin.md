@@ -40,6 +40,8 @@ Uwais fears becoming a ceremonial seal for Nadir and Marzuq. Nadir needs Uwais a
 
 [[Qasr Ilyun]] anchors the basin's northern Glass frontier. Its wells, patrols, breach court, and mixed Qahuri-Jirahar expedition economy make it the last dependable gateway before the Great Glass Desert's moving ruin country.
 
+Qahuri grave-watch cautions against following erased names or empty funeral trains into the Glass. The stories call their destination **the Hollow City**, but basin authorities treat it as a family of warnings rather than a mapped settlement.
+
 ## Navigation
 
 - [[The Qahuri]]

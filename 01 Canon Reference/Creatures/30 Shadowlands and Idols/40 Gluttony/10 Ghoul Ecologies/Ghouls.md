@@ -6,10 +6,9 @@ visibility: public
 era: []
 region: []
 culture: []
-related_factions: ["The Devourer"]
-appears_in: ["The Dead Press Upward"]
-needs:
-  - place the three great ghoul cities relative to the final underworld geography
+related_factions: [The Devourer]
+appears_in: [The Dead Press Upward]
+needs: []
 tags: [game-ready]
 origin_layer: shadowlands
 continuity: residue
@@ -19,7 +18,7 @@ encounter_tier: aligned
 rank: [standard, specialist, elite, apex]
 creature_family: Ghouls
 catalogued_forms: [Ghouls]
-habitats: [grave systems, ruins, cities, corpse routes]
+habitats: [grave systems, ruins, cities, corpse-roads]
 encounter_roles: [predator, infiltrator, skirmisher, social]
 related_magic: [residue animation, Idol influence]
 idol_affinity: gluttony
@@ -27,141 +26,136 @@ manifestation_class: []
 ---
 # Ghouls
 
-Ghouls are intelligent corpse-predators aligned with **the Devourer**, the Idol of Gluttony. They feed upon bodies, grave residue, and the damage their feeding does to the ordinary release of the dead. They are neither natural recyclers nor necessary custodians of death. Burial, carrion, disease, and population balance continue without them.
+Ghouls are intelligent residue-born corpse predators aligned with **the Devourer**, the Idol of Gluttony. They feed upon bodies, grave residue, and the social and metaphysical damage their feeding causes. They are neither natural recyclers nor necessary custodians of death.
 
-Ghoul society can contain memory, loyalty, hierarchy, craft, fear, and even restraint toward its own members. Those qualities make ghouls understandable and culpable. They do not turn predation into an alternative moral order.
+Ghoul society can contain memory, loyalty, hierarchy, craft, fear, and restraint toward its own members. Those qualities make ghouls understandable and culpable. They do not turn predation into an alternative moral order.
+
+## Origin and Continuity
+
+A ghoul is an undead or death-corrupted body whose residue has reorganized around consuming human remains. Most arise through ghoul-fever, deliberate first feeding, or prolonged exposure to an established warren. A few are assembled by elder ghouls from prepared corpse matter and cached residue.
+
+The original human soul has ordinarily departed toward judgement. A mature ghoul is a new residue-born intelligence, not the deceased human restored in corrupted form. It may inherit memories, speech, habits, or loyalties from one or several bodies without becoming those people.
+
+Ghouls are catalogued under `origin_layer: shadowlands` because durable ghoul identity and society require a Gluttony-shaped appetite pattern to stabilize Material residue. Their bodies and lairs remain physical. The classification does not make every grave tunnel a planar portal.
 
 ## Ecology and Lifecycle
 
-A ghoul is an undead or death-corrupted person whose body and retained residue have been reorganized around consuming human remains. Most arise through **ghoul-fever**, deliberate ritual feeding, or long exposure to an established warren. A few are made directly by elder ghouls or concentrated soul-route damage.
+### Ghoul-Fever
 
-A mature ghoul retains more intelligence and memory than an ordinary residue corpse. It can plan, speak, lie, form loyalties, and choose targets. This is why a ghoul is not interchangeable with a rattle-bone and why its acts can be judged as acts rather than weather.
+Ghoul-fever begins after a contaminated bite, concentrated warren exposure, or deliberate inoculation. Early signs include fever, aversion to ordinary food, heightened smell, grave-dreams, and fixation upon recent death.
 
-The original human soul is not ordinarily trapped whole inside the ghoul. What remains is a corrupted conjunction of body, residue, appetite, and enough personal continuity to create real agency. The precise point at which infection becomes an undead ghoul is medically and theologically contested; the duty to treat the living before that point is not.
-
-## Ghoul-Fever
-
-Ghoul-fever begins after a contaminated bite, exposure to concentrated warren matter, or deliberate inoculation. Early signs include fever, aversion to ordinary food, heightened smell, grave-dreams, and fixation upon meat or recent death.
-
-### Early Infection
-
-An infected living person is sick, not damned. Isolation, wound cleaning, ordinary medicine, White Flame care, and removal from ghoul residue can prevent progression. Killing a treatable victim out of fear is murder.
+An infected living person is sick, not damned. Isolation, wound cleaning, medicine, White Flame care, and removal from ghoul residue can prevent progression. Killing a treatable victim out of fear is murder.
 
 ### Advancing Corruption
 
-As the fever advances, the victim becomes physically altered and increasingly compelled toward corpse consumption. Lucid intervals remain possible. Restraint, treatment, confession, and protection of others still matter, although recovery becomes harder.
+As fever advances, physical alteration and compulsion toward corpse consumption intensify. Lucid intervals remain possible. Treatment, restraint, confession, and protection of others still matter, although recovery becomes harder.
 
 ### Mature Ghoul
 
-Death, first feeding, and stable undead animation usually mark full transformation. Mature restoration is rare and cannot be assumed as an ordinary remedy. A mature ghoul that stalks graves or spreads fever is an active predator and may be destroyed in defense of the living and dead.
+Death, first feeding, and stable residue animation normally mark full transformation. At that point the human soul has routed and a new intelligence has stabilized. Mature restoration cannot be assumed as an ordinary remedy. A mature ghoul that hunts graves or spreads fever may be destroyed in defense of the living and dead.
 
-## Why Feeding Is More Than Theft
+### Reproduction and Recruitment
 
-Ordinary corpse decay does not imprison the soul. Ghoul feeding is dangerous because it deliberately combines consumption with grave-fray, name damage, residue capture, and repeated violation of burial boundaries. A body consumed before its burial residue settles can leave the route toward remembrance and release ragged.
+Warrens grow through infection, deliberate preparation of remains, adoption of unaffiliated scavengers, and rare residue budding around a strong feeding anchor. Ghouls can cultivate lineages and teach behavior, but they do not produce human souls or resurrect consumed people.
 
-This does not let a ghoul eat or own the whole soul as simple food. It lets the Devourer's economy exploit confusion, grief, unkept names, and damaged thresholds. The distinction matters: ghouls are dangerous without making every missing bone an automatic damnation.
+## Feeding and Burial Damage
 
-Consecrated burial, grave-watch, truthful registers, recovery of remains, and mourning rites are therefore practical defenses. Sextons are not performing decorative sentiment. They maintain one of civilization's boundaries against predation.
+Ordinary corpse decay does not imprison the soul. Ghoul feeding is dangerous because it combines consumption with grave-fray, name damage, residue capture, and repeated violation of burial boundaries. A body consumed before its burial residue settles can leave remembrance, mourning, and local soul-road infrastructure damaged.
 
-## Warrens
+This does not let a ghoul eat or annihilate a whole human soul. It lets the Devourer's ecology exploit confusion, grief, unkept names, and damaged thresholds. Consecrated burial, truthful registers, recovery of remains, and mourning rites are therefore practical defenses.
 
-Most ghouls live in warrens organized around routes to bodies. Their politics follow access, secrecy, feeding order, and control of infection.
+## Intelligence and Society
+
+Most ghouls live in warrens organized around access to bodies.
 
 - **Scavengers** raid isolated graves, battlefields, plague pits, and roads.
-- **Feeders** process bodies, residue, and stolen burial goods inside the warren.
-- **Grave-runners** pursue surface prey, haul corpses, and maintain escape routes.
-- **Elders** control routes, remember old cemeteries, and bargain or war with rival lineages.
+- **Feeders** process bodies, residue, and stolen burial goods.
+- **Grave-Runners** pursue surface prey, haul corpses, and maintain escape routes.
+- **Elders** control routes, remember cemeteries, and direct rival lineages.
 - **Fever-keepers** cultivate infection and supervise transformation.
+- **Warren speakers** negotiate, deceive, and cultivate surface complicity.
 
-Warren members may protect their young, honor agreements among themselves, or punish waste. These internal goods make them a society rather than a random encounter. They do not create a claim upon another people's bodies.
+Members may protect their young, keep internal agreements, preserve art, or punish waste. These are real limited goods within a predatory society. They do not create an entitlement to another people's bodies.
 
-## The Great Ghoul Cities
+## Legends of Great Cities
 
-Three deep settlements appear repeatedly in grave-watch records and forbidden scholarship. Their exact locations remain unsettled.
+Most known settlements are bounded Material warrens. Grave-watch lore nevertheless converges on three possible deep centers:
 
-- **Necropolis of Nihil:** the largest known ghoul city, built into the remains of a civilization destroyed by plague and predation. Its oldest foundations predate the ghouls occupying them.
-- **Warrens of Woe:** a tunnel-city centered upon fever cultivation, ritual feeding, and the training of surface hunters.
-- **Dusk Barrows:** a cavern settlement suspended along burial shafts and old underways, known for grave-runners capable of retrieving records and relics as well as bodies.
+- **the Hollow City** or **City After the Last Name**, placed somewhere beyond reliable Glass roads;
+- **the Fever Deeps**, blamed for corpse-roads and grave-fever in the Merewick country;
+- **the Under-Cairns**, a southern warning about frozen burial shafts and grave-runners.
 
-The existence of cities does not make ghouls a misunderstood nation with an equal right to surface cemeteries. It means their predation can possess institutions, memory, logistics, and strategic purpose.
+No grave-watch order, Jirahar Keeper, or scholar possesses a reliable complete map. Witnesses disagree about whether each name describes one city, several warrens, or a recurring Shadowlands correspondence. Attempts to follow one corpse-road to another center have ended in collapse, false emergence, or disappearance.
+
+The available evidence suggests rival societies rather than provinces of one ghoul empire. No stable worldwide tunnel or safe planar road connects them.
 
 ## Relationship to the Devourer
 
-Some ghouls consciously worship the Devourer. Others deny theology while living by the same logic: everything outside the appetite exists to become food, and restraint is merely hunger postponed.
+Some ghouls consciously worship [[Gluttony|the Devourer]]. Others deny theology while living by the same proposition: everything beyond appetite exists to become food, and restraint is hunger postponed.
 
-The Devourer does not maintain a healthy natural cycle. It recasts consumption as the final truth of every relationship. Ghoul rites, corpse tithes, and feeding hierarchies are expressions of that falsehood.
+The Devourer does not govern the cities as a resident monarch and does not maintain a healthy natural cycle. It shapes conditions in which consumption becomes the final meaning of relationship. Ghoul corpse tithes, first-feedings, and feeding hierarchies extend that falsehood.
 
-Known rites include communal feeding, the binding of new ghouls through their first corpse, and processions that follow wars or epidemics. These ceremonies create social cohesion while celebrating real violations. Ritual dignity does not cleanse the act performed.
-
-## Signs and Lairs
+## Signs
 
 - graves subside weeks after burial rather than immediately;
 - dogs refuse streets or cemetery walls without visible cause;
-- grave goods remain while the body disappears;
+- grave goods remain while bodies disappear;
 - mourners' offerings vanish in patterns too orderly for animals;
 - corpse chutes open behind mortared crypt walls;
-- burial registers, name-tablets, and sextons disappear with the dead;
-- recent battle or plague routes acquire repeated drag marks.
+- registers, name-tablets, and sextons disappear with the dead;
+- battle or plague routes acquire repeated drag marks;
+- several infected people dream of the same stair, table, or warm dark.
 
-A ghoul lair favors layered escape routes, narrow cuts, corpse storage, contaminated water, and access to a burial population. Surface entrances are often hidden beneath ordinary vermin or residue activity.
+## Habitats and Lairs
+
+A ghoul lair favors layered escape routes, narrow cuts, corpse storage, contaminated water, and access to a burial population. Surface entrances often hide beneath ordinary vermin or residue activity.
+
+Large warrens require water, ventilation, a sustainable body source, fever control, and routes that do not expose the whole settlement when one entrance is found. Great cities add a stable Feast-shadow anchor.
 
 ## Threat Pattern
 
-Young scavengers strike quickly and retreat with bodies. Established warrens attack logistics: grave-watch schedules, registers, lamp supplies, roads, and the people trained to repair a cemetery. Elders may wait years while a community normalizes missing graves.
+Young scavengers strike quickly and retreat with bodies. Established warrens attack logistics: grave-watch schedules, registers, lamp supplies, roads, and the people trained to maintain burial boundaries. Elders may wait years while a community normalizes missing graves.
 
-Ghouls use speech when it improves access or weakens opposition. An agreement made under threat of corpse predation does not create moral legitimacy. Some authorities may accept such a bargain. That remains collaboration with predation, not proof that the warren was harmless.
+Ghouls use speech when it improves access. An agreement made under threat of corpse predation does not create moral legitimacy. Authorities may accept such bargains; this remains collaboration with predation.
 
-The Wane-Warren in [[The Dead Press Upward — Full Adventure]] is a bounded example. It exploits an opened route, drives residue dead upward as cover, and targets the records required to restore the burial ground.
+The [[The Wane-Warren|Wane-Warren]] in [[The Dead Press Upward — Full Adventure]] is a bounded example. It exploits an opened route and belongs to no great-city chain of command.
 
-## Countermeasures
+## Weaknesses and Permanent Defeat
 
-- maintain named burial and accurate registers;
-- keep physical cemetery bounds, drains, lamps, and walls in repair;
-- investigate subsidence and missing remains immediately;
-- treat living ghoul-fever victims before transformation;
-- use fire, White Flame, strong light, and disciplined formations against active hunters;
-- close every route rather than clearing only the visible feeding chamber;
-- recover stolen names and remains where possible;
-- distinguish ordinary residue dead from intelligent ghoul direction.
+Fire, White Flame, strong light, disciplined formation, clean water, named burial, and closed routes all oppose ghoul activity. Treatment applies to living infection; destruction applies to mature active predators.
 
-Destroying a warren's fighters without restoring its breached routes invites another lineage to inherit the access.
+Destroying a mature ghoul's body and dispersed residue ends that individual. An established warren may rebuild from cached residue or prepared corpse matter, so permanent clearance also requires breaking its feeding anchor and closing every grave-route that sustains recurrence.
 
-## Permanent Defeat
+A great city requires simultaneous defeat of its Material anchor and Feast-shadow organ. Destroying one layer alone permits reconstruction from the other.
 
-A mature ghoul is a residue-born person, not the routed human whose memories it resembles. Destroying its body and dispersed residue ends that individual. An established warren may rebuild a defeated feeder from cached residue, remembered appetite, or prepared corpse matter, so permanent clearance also requires breaking the named feeding anchor and closing every grave-route that sustained recurrence. This releases no captive human soul because the original soul has already departed.
+## Materials and Remains
 
-## Materials and Evidence
+Ghoul remains yield elder ichor, fever cultures, grave-wax, and residue-saturated bone. These materials are dangerous, frequently illegal, and valuable to Fleshweavers or necromancers. Transport can spread the corruption an investigation intended to contain.
 
-Ghoul remains can yield elder ichor, fever cultures, grave-wax, and residue-saturated bone. These materials are dangerous, frequently illegal, and valuable to Fleshweavers or necromancers. Transporting them may spread the very corruption an investigation intends to contain.
+More useful evidence includes route maps, stolen registers, bite patterns, grave goods, and remembered names. A cache can expose generations of concealed predation.
 
-More useful evidence often consists of route maps, grave goods, bite patterns, stolen registers, and remembered names. A ghoul cache can expose generations of unreported predation.
+## Faction Use
+
+Necromancers seek ghoul-fever and memory-bearing tissue. Criminals use corpse disposal and hidden routes. The [[The Long Table|Long Table]] competes with ghouls over appetite cults and corrupted food chains. Grave-watch orders, churches, and Jirahar Keepers study their signs while disagreeing over the cities' existence.
 
 ## Regional Names
 
-Eclessian grave-watch records use **ghoul** and **grave-eater**; Thalmyric villages use **name-chewer** for lineages that steal records; Jirahar caravan speech distinguishes **corpse-hungry** from ordinary residue dead. These names describe overlapping warren ecologies rather than separate species.
+Eclessian records use **ghoul** and **grave-eater**. Thalmyric villages use **name-chewer** for lineages stealing records. Jirahar speech distinguishes **corpse-hungry** from ordinary residue dead. These names describe overlapping ecologies rather than separate species.
 
-## Game-Ready Families
+## Story Hooks
 
-- **Scavenger ghouls:** fast raiders that prioritize bodies and retreat routes.
-- **Elder feeders:** patient controllers that use darkness, disease, and collapse.
-- **[[Grave-Runners]]:** quadrupedal ghoul-corrupted dead used for pursuit and dragging.
-- **Warren speakers:** intelligent manipulators whose conversation serves predation.
-- **Fever-keepers:** infection specialists and transformation wardens.
-
-## Story Uses
-
-- a parish discovers that its dead have reached the Vestibule frayed and must find the breached route;
 - a warren steals registers rather than bodies because it is selecting descendants;
 - a living infection cluster must be treated while frightened neighbors demand executions;
-- an elder protects one grave from rival ghouls for reasons that remain predatory;
-- a town accepted a corpse-tithe bargain and now seeks to call collaboration necessity;
-- grave-runners retrieve books and maps for a deep city preparing a surface campaign.
+- a town accepted a corpse-tithe bargain and now calls collaboration necessity;
+- grave-runners retrieve books and maps for a city preparing a surface expedition;
+- three contradictory maps each become correct during a different Feast-shadow overlap;
+- restoring a burial route will expose the institution that secretly supplied it with bodies.
 
 ## Navigation
 
 - [[Bestiary MOC]]
-- [[Bestiary Framework — Creatures of the World Egg]]
-- [[The Mundane Layer — Residue, Vermin, and the Delver Trade]]
-- [[Names of the Menhir, Masks of the Idols]]
-- [[Soul Routing and the Vestibule]]
+- [[Shadowlands and Idols MOC]]
 - [[Grave-Runners]]
+- [[The Image, Soul, and Creaturely Continuity]]
+- [[Soul Routing and the Vestibule]]
+- [[Gluttony]]

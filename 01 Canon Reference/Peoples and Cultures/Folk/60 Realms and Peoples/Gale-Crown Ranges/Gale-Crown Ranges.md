@@ -35,6 +35,8 @@ Iron, wool, sheep, horses, smoked meat, stone, tolls, mercenary service, and gui
 
 Frozen passes can become Grobi roads. Gale-Crown forts maintain avalanche triggers, bridge demolitions, beacon towers, and veteran companies. Taking the Frost-Road here often means serving an entire winter under a hillfort's War-Keeper.
 
+The oldest cairn-keepers warn of **the Under-Cairns**, frozen halls said to open when relic thieves cut too deeply into permafrost burials. No pass confederacy agrees on their entrance or extent. The warning is practical: mark the dead, close violated shafts, and never follow a grave-runner merely because its tunnel slopes toward familiar stone.
+
 ## Present Conflicts
 
 - pass confederacies dispute who may collect foreign tolls;
@@ -53,4 +55,3 @@ Frozen passes can become Grobi roads. Gale-Crown forts maintain avalanche trigge
 - [[The Storm-Cairn Court]]
 - [[Frost-Road and the Winter War]]
 - [[The Folk Overview]]
-

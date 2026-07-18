@@ -17,7 +17,7 @@ tags: []
 
 - **10 Foundations:** [[The World Egg Cosmology]], [[The Great Rebellion and the Yolk Exiles]], [[Who’s Who in the Cosmology]], [[Names of the Menhir, Masks of the Idols]], and [[The Lord and Redeemer]].
 - **20 Realms and Soul-Routes:** [[Material Realm Overview]], [[Elemental Shell and the Four Planes]], the Astral Plane, [[The Vestibule of Weighing]], and [[Hell, Depth, and the Abyss]].
-- **30 Menhir:** [[The Second Circle]], [[The Three-Bodied God Overview]], [[The Horsemen Overview]], [[Lesser Beings]], and the relationships between them.
+- **30 Menhir:** [[Menhir Sovereignty and Bargain]], [[The Faewild Schism]], [[The Second Circle]], [[The Three-Bodied God Overview]], [[The Horsemen Overview]], [[Lesser Beings]], and the relationships between them.
 - **40 Idols and Adversary:** [[The Idols Overview]], [[Idol Manifestation and Feeding]], its seven powers, and [[The Adversary]].
 
 ## Start Here
@@ -59,8 +59,10 @@ tags: []
 - [[Shadowlands and Idols MOC]]
 - [[The Mythology of the Idols]]
 - [[The Counter-Countenances of the Idols]]
+- [[Menhir Sovereignty and Bargain]]
+- [[The Faewild Schism]]
 - [[Relationships within the Menhir]]
-- [[The Mythology of The Menhir]]
+- [[The Mythology of The Menhir]] - disputed Atherian source text, not authorial genealogy.
 - [[The Second Circle]]
 - [[The Three-Bodied God Overview]]
 - [[The Horsemen Overview]]

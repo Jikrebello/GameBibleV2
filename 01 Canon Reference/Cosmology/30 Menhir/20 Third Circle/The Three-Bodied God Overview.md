@@ -1,75 +1,51 @@
 ---
-type: cosmology
+type: index
 status: canon
 canon_level: core
-visibility: restricted
-era: []
-region: []
-culture: []
-related_factions: []
+visibility: author-only
+era: [Creation, Present Day]
+region: [Faewild]
+culture: [Atherian, Enaidfae]
+related_factions: [The Menhir]
 appears_in: []
 needs: []
-tags: []
+tags: [core-canon]
 ---
 # The Three-Bodied God Overview
 
-The Atherian title **Three-Bodied God** describes three Third-Circle Menhir pressures and their rare convergence. Authorial canon treats them as world-engines with perceivable sovereignty, not a civic deity divided into three political persons.
+The Atherian title **Three-Bodied God** compresses one historical union and three present sovereignties. It is useful as cultural language and false as literal theology.
 
-## Zephyraxis: Sky
+## Before the Schism
 
-[[Zephyraxis]] expresses pressure fronts, altitude, wind, storm architecture, migration, and exposure. The sky tests structures because moving air and weather sort what can endure them, not because Zephyraxis seeks moral punishment.
+The angelic office-holders and cohorts of land, sea, and sky entered the Faewild together and initially fused as stable **Trium**. Trium attempted to order the whole Faewild through one world-system. [[The Faewild Schism]] ended that permanent union.
 
-Its attendant ecology includes [[Aerials and Deep Envoys|Aerials]], storm-following fauna, and court beings adapted to height and pressure.
+## The Three Sovereignties
 
-## Sylvorn: Land
+- [[Sylvorn]] is land-law: succession, territorial memory, fertility pressure, root, stone, and the predatory intelligence of ecosystems.
+- [[Thalassor]] is sea-law: depth, pressure, current, tide, erosion, and the ocean's custody of matter.
+- [[Zephyraxis]] is sky-law: atmosphere, altitude, wind, storm architecture, exposure, and airborne migration.
 
-[[Sylvorn]] expresses succession, territorial memory, fertility pressure, root and fungal networks, and the predatory intelligence of ecosystems. Land becomes active, attentive, and capable of rewriting paths and boundaries.
+Each is now a complete `yolk-sovereignty`. None is merely a severed limb waiting to be reunited.
 
-Its attendant ecology includes [[The Cloven]], [[Root-Minds, Water-Wives, and Stone-Voices|Root-Minds]], [[Oathwood Wardens]], forest Crown-Beasts, and many local court forms.
+## Modern Trium
 
-## Thalassor: Sea
+[[Trium]] now occurs only when land, sea, and sky phase-lock strongly enough to operate as one temporary world-organ. A confluence may coordinate storms, migrations, coastlines, forests, and predators across enormous distances. When the alignment ends, there is no fourth personality left behind.
 
-[[Thalassor]] expresses depth, pressure, tide, current, abyssal ecology, shipwreck, and the ocean's custody of matter. It is not the metaphysical Abyss.
+## Hunts and Ecologies
 
-Its attendant ecology includes local [[Aerials and Deep Envoys|Deep Envoys]], pressure fauna, Water-Wives, Sapphire Drakes, and biological leviathans shaped by sea-law.
-
-## Trium: Convergence
-
-[[Trium]] is the temporary phase-lock of sky, land, and sea pressures. It occurs when major systems such as storm, seismic movement, coast, and ecological migration synchronize strongly enough that boundaries begin operating as one world-organ.
-
-Effects may include:
-
-- coast, canopy, and cloud behaving as one connected structure;
-- predators coordinating across species and domains;
-- paths, currents, and storm routes becoming temporarily interchangeable;
-- rapid ecological and geographic reordering;
-- court signals becoming mutually intelligible during the event.
-
-Trium does not remain as a permanent ruler after the alignment relaxes.
-
-## Hunts and Court Ecologies
-
-Older sources describe one Wild Hunt and one unified body of Deep Ones. Authorial canon rejects both universal structures.
-
-High Hunts are named temporary pursuit ecologies described in [[Hunt Hounds and Hunt Riders]]. Deep Envoys are local communities and organisms, not a worldwide state. During Trium, separate ecologies may synchronize without acquiring a common sovereign or permanent language.
+Trium confluences can organize High Hunts without creating a nation or army. Aerials, Deep Envoys, forest courts, migration beasts, and local place-minds retain their own continuities even while moving in one pattern.
 
 ## Mortal Misreadings
 
-Humans build temples, sacrifices, lineages, and political claims around genuine manifestations. These practices reveal human need and institutional history. They do not prove that the Menhir demand worship, confer moral legitimacy, or govern through one pantheon.
-
-The controlling questions for any Third-Circle event are:
-
-1. Which natural engine is saturated?
-2. What boundary or ecology changes under that pressure?
-3. Which beings ride, parasitize, or emerge from it?
-4. Which human institution mistakes survival practice for divine command?
+Enaidfae traditions may address Trium as one dangerous patron. Atherian doctrine treated the fracture as divine tragedy and promised civic rite could restore balance. Both preserve encounter; neither makes Trium a god, moral authority, or permanent person.
 
 ## Navigation
 
+- [[The Faewild Schism]]
 - [[Trium]]
-- [[Zephyraxis]]
 - [[Sylvorn]]
 - [[Thalassor]]
+- [[Zephyraxis]]
 - [[Relationships within the Menhir]]
+- [[Aerials and Deep Envoys]]
 - [[Faewild and Menhir MOC]]
-- [[Cosmology MOC]]

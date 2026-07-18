@@ -6,7 +6,7 @@ visibility: author-only
 era: ["Present Day"]
 region: ["Wanemoor", "Brauvalis", "Maw-Road"]
 culture: []
-related_factions: ["The Devourer"]
+related_factions: ["The Devourer", "Warrens of Woe"]
 appears_in: ["The Dead Press Upward"]
 needs:
   - balance the warren's active hunters and off-screen population for the chosen game system
@@ -18,9 +18,15 @@ The Wane-Warren is a lesser ghoul settlement below [[Wanemoor District]]. It exp
 
 ## Origin
 
-The warren occupies natural caverns and abandoned cuttings below the Last Lamp ridge. It descends from several hunting lineages that found old funerary routes after the abbey sealed the main Maw-Road. For generations they survived by raiding battle burials, animals, isolated graves, and one another.
+The warren occupies natural caverns and abandoned cuttings below the Last Lamp ridge. It descends from hunting lineages that split from the [[Warrens of Woe|Fever Deeps]] ecology generations ago and found old funerary routes after the abbey sealed the main Maw-Road. They have since developed their own leadership, feeding customs, and hunting territory by raiding battle burials, animals, isolated graves, and one another.
 
 The Seal denied them regular access to Wanenbruck. Its age did not turn their frustrated predation into a lawful claim.
+
+## Relation to the Fever Deeps
+
+The [[The Seal of the Shut Mouth|Maw-Road]] is a damaged western feeder in the wider corpse-road pressure beneath Merewick. It is not a continuous highway to a capital. Most passages between the Wane-Warren and the Fever Deeps are collapsed, seasonal, or only traversable through a Gluttony-shaped Feast-shadow.
+
+The Wane-Warren is an independent splinter settlement, not a province or garrison of the great city. Its elders trade information and captives with individual Fever Deeps lineages when a route opens, raid them when advantage permits, and reject any lasting outside rule. No event in this adventure assumes help, orders, or reinforcements from the Warrens of Woe.
 
 ## Present Leadership
 
@@ -76,4 +82,6 @@ The warren contains memory, loyalty, fear, hierarchy, and deliberate action. Tho
 - [[Ghouls]]
 - [[Mournfang]]
 - [[Grave-Runners]]
+- [[Underworld, Underways, and Corpse-Roads]]
+- [[Warrens of Woe]]
 - [[Abbey of the Last Lamp]]

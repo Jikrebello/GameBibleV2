@@ -63,7 +63,7 @@ After enough attractions are disrupted, the Cold Rider enters openly and challen
 - Replace undifferentiated evil fey with a specific dispute between Ferren Hollow's timber interests and a burned Folk offering grove.
 - Replace the distant northern witch connection with the [[The Rime Rider|Rime Rider]], an exiled winter-hunt power that attaches itself to genuine grievance and widens it into predation.
 - Remove the Left Hand, banks, and universal contract procedure. The supernatural logic belongs to local grove-law and Faewild seasonality.
-- Keep wrongdoing morally distinct: the cartel's desecration is real, the grove's demand for restitution is bounded, and the Rider's attempted massacre is evil.
+- Keep wrongdoing morally distinct: the cartel's desecration is real, Sisrin's first demand is bounded but morally contestable, and the Rider's attempted massacre is knowingly evil. Sylvorn's law establishes consequence rather than justice.
 
 ## Exact World Egg Placement
 
@@ -95,6 +95,7 @@ Last spring, Clear-Cut Karl's crew burned an offering grove to meet a quota. [[S
 - [[Grenzburg MOC]]
 - [[Folk Daily Life and the Thirteen Moons]]
 - [[Gazetteer of the Known World]]
+- [[Menhir Sovereignty and Bargain]]
 
 ## Research Basis
 

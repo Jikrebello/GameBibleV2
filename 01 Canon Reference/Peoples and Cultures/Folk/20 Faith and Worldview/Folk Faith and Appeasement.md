@@ -19,7 +19,7 @@ The Folk do not expect the powers of the world to love them. Forest, moon, storm
 
 A direct meeting with a great power is usually a catastrophe. Folk stories praise the person who recognizes the stranger on the road, remembers the correct taboo, gives no unnecessary name, and escapes without receiving a gift. A seer is valuable because a seer creates distance through masks, inherited words, bounded places, and lesser intermediaries.
 
-The same power may save a harvest one year and destroy a family the next without hypocrisy. It is not a parent. It acts according to appetite, season, nature, story, or rules that humans only partly understand.
+The same power may save a harvest one year and destroy a family the next without hypocrisy. It is not a parent. A Menhir acts through domain and compulsion, with intention but without recognizing good and evil as binding categories. Its exactness therefore proves neither love nor justice. Lesser courtiers may possess fuller agency and must be judged for the choices they make.
 
 ## Courts, Not a Pantheon
 
@@ -48,12 +48,12 @@ Seers remember precedents, inspect signs, negotiate boundaries, authenticate oat
 
 ## Moral Limits
 
-Caprice is not goodness. A bargain kept exactly may still be cruel. The Folk recognize obligations such as hospitality, kin protection, truthful naming at the hearth, and winter mercy that can override a court's demand. Heroes are often those who outwit a power without becoming like it.
+Caprice is not goodness. A bargain kept exactly may still be cruel, and a valid grievance does not make every demanded price just. The Folk recognize obligations such as hospitality, kin protection, truthful naming at the hearth, and winter mercy that can override a court's demand. Heroes are often those who repair a real wrong while refusing a predatory settlement.
 
 ## Navigation
 
 - [[Courts of the Folk Lands]]
+- [[Menhir Sovereignty and Bargain]]
 - [[Lesser Beings]]
 - [[Names of the Menhir, Masks of the Idols]]
 - [[The Folk Overview]]
-

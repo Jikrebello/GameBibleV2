@@ -2,66 +2,71 @@
 type: cosmology
 status: canon
 canon_level: core
-visibility: restricted
-era: []
-region: []
-culture: []
-related_factions: []
+visibility: author-only
+era: [Creation, Present Day]
+region: [Faewild]
+culture: [Atherian, Saltborn]
+related_factions: [Sea Courts]
 appears_in: []
 needs: []
-tags: []
+tags: [core-canon]
 ---
 # Thalassor
 
-Thalassor is the Faewild's ocean-law made sovereign: depth, pressure, current, tide secrecy, and the predatory indifference of the sea. Thalassor is not the Abyss, a god of madness, or a monarch of every being beneath the water.
+**Thalassor** is the Menhir sovereignty of sea, depth, pressure, current, tide secrecy, erosion, and the ocean's custody of matter.
 
-## Manifestation
+## Original Commission and Cohort
 
-Witnesses describe overlapping shale scales, tentacular current-lines, cold vent lights, and an immense body perceived only in fragments. The more accurate manifestation is environmental: open water becoming still as a lid, an undertow that behaves like selection, or a horizon that seems to close.
+Thalassor's angelic office administered oceans, currents, pressure, salinity, erosion, marine migration, and the exchange by which the sea carries heat and matter through the world.
 
-Thalassor is most present at trenches, maelstrom basins, cold upwellings, storm swells without wind, and pressure anchors where deep-water law remains stable close to the surface.
+The office-holder and cohort joined the Rebellion seeking to own depth and passage through water. They entered the Faewild as one body of historical Trium. Fusion produced an intelligence that remembers everything surrendered to the sea but cannot understand rescue, burial, or ownership as moral claims.
 
-## Natural Portfolio
+## The Faewild Schism
 
-- depth and crushing pressure;
-- tide, current, carrying, and return;
-- abyssal ecology without Abyssal metaphysics;
-- shipwreck, dissolution, and the sea's custody of material things;
-- biological adaptation to darkness and pressure.
+Trium made ocean a component of one total world-system. After the Schism, Thalassor became independent sea-law. It continues to press inland through flood, groundwater, marsh, and drowned memory whenever Sylvorn or Zephyraxis yields a boundary.
 
-The similarity between deep ocean and Hell imagery does not make them one realm. Thalassor belongs to created Faewild law. [[Hell, Depth, and the Abyss|Hell's Depth]] expresses leftward refusal through Water and Earth convergence.
+## Domain and Compulsion
 
-## Attendant Ecology
+Thalassor makes matter answer depth, current, and pressure. The sea carries, erodes, conceals, returns, and transforms. What enters is not automatically owed back in the same condition.
 
-[[Aerials and Deep Envoys|Deep Envoys]] are local pressure-adapted organisms and communities. Some maintain current paths or pressure anchors; others salvage, trade, lure, or prey. They are not priests, a worldwide species-state, or one abyssal civilization.
+Thalassor is not the metaphysical Abyss, Hell's Depth, the Boatman, or a monarch of every marine being. Similar imagery reflects mortal fear of deep water.
 
-Creator and coastal sources may call several unrelated deep beings `Deep Ones`. Authorial notes must identify the local family and continuity instead of treating the name as a nation.
+## Manifestations and Signs
 
-## Human Contact
+- inland chambers acquire tide marks and pressure without water;
+- drowned objects return far from their point of loss;
+- currents carry voices, cargo, or predators along impossible coastlines;
+- a wall of water holds the suggestion of a vast face only while moving;
+- salt appears on sealed doors whose other side is below sea level;
+- marine creatures gather around a debt of matter rather than food.
 
-- **Tide-marking:** seaweed knots and pier marks record abnormal current behavior.
-- **Weight offerings:** practical weights stabilize known current corridors or mark an accepted loss. The sea does not morally demand them.
-- **Dream-dives:** controlled sleep near deep water can teach current orientation at the risk of leaving a human mind unable to think at ordinary scale.
-- **Pressure anchors:** wreck structures, reef works, and sunken chambers preserve stable pockets of depth-law.
+## Bargain Grammar
 
-Human sacrifice remains a human attempt to purchase control through terror. Thalassor does not require cruelty. Predatory beings may learn to exploit the rite because it reliably provides prey.
+- **Permitted gifts:** one safe current, depth endurance, return of a surrendered object, concealment beneath water, knowledge carried by tide, or passage through a marine territory.
+- **Recognized prices:** cargo, a memory, a future return, release of something held from the sea, acceptance of changed condition, or one place allowed to flood.
+- **Taboo:** calling the sea owned, demanding stillness after taking a current, or assuming rescue includes restoration.
+- **Failure:** pressure, flood, erosion, or return occurs where the bargain displaced it.
 
-## Signs
+## Courts and Ecologies
 
-- bioluminescence repeating a current map;
-- fish moving toward shore in silence;
-- fog smelling of deep mineral silt;
-- undertow selecting one kind of cargo or living body;
-- pressure effects appearing at impossible shallows.
+Water-Wives, Deep Envoys, reef minds, sea leviathans, tide courts, and some sapphire or bronze drakes converge with Thalassor. Deep Envoys remain local ecologies and communities, not a worldwide undersea nation.
 
-## Relationships
+## Limits and Counterplay
 
-Thalassor converges with [[Sylvorn]] at reef, marsh, and coast and with [[Zephyraxis]] through storm, spray, and moving pressure. Their rare threefold synchronization manifests as [[Trium]]. These are interacting laws, not diplomatic alliances.
+Thalassor cannot judge the drowned, route their souls, or make shipwreck morally deserved. Counterplay breaks current continuity, changes salinity or pressure, establishes a clear shoreline boundary, returns the named matter, waits for the tide-state to pass, or invokes land and sky pressures together.
+
+## Story Uses
+
+- a harbor's safe-current pact has transferred every wreck to one undefended coast;
+- a drowned archive returns page by page in the bodies of marine animals;
+- a village can recover its children from a tide court only in the changed forms the sea now recognizes;
+- an inland mine has become pressure-linked to a trench no map records.
 
 ## Navigation
 
 - [[The Three-Bodied God Overview]]
+- [[The Faewild Schism]]
 - [[Aerials and Deep Envoys]]
-- [[Relationships within the Menhir]]
-- [[Faewild and Menhir MOC]]
-- [[Cosmology MOC]]
+- [[Root-Minds, Water-Wives, and Stone-Voices]]
+- [[Material Sea Leviathans]]
+- [[Hell, Depth, and the Abyss]]

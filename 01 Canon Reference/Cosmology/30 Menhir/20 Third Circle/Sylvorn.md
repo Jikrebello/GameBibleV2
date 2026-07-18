@@ -1,54 +1,76 @@
 ---
 type: cosmology
 status: canon
-canon_level: local
-visibility: restricted
-era: []
-region: []
-culture: []
-related_factions: []
-appears_in: []
+canon_level: core
+visibility: author-only
+era: [Creation, Present Day]
+region: [Faewild]
+culture: [Atherian, Folk, Enaidfae]
+related_factions: [Land Courts]
+appears_in: [Into the Old Wood, The Bright-Fire Carnival]
 needs: []
-tags: []
+tags: [core-canon]
 ---
-#### Appearance:
-- **Description:** Sylvorn is the Faewild’s land-law made sovereign: wild succession, territorial memory, fertility-pressure, and the predatory intelligence of ecosystems. When perceived as a figure, Sylvorn often resolves as a towering, centaur-like presence of bark-skin and muscle-root, crowned with antlers like branching river-deltas and hung with moss and fungal glow. The sense is not “a forest spirit,” but the forest briefly wearing a face.
-- **Manifestation:** Sylvorn manifests as conditions rather than arrivals: paths re-edit themselves after dusk, clearings close like wounds, predator populations synchronize across species, and growth behaves as if correcting an error in land-use.
+# Sylvorn
 
-#### Followers:
-- **The Cloven:**
-  - **Description:** Forest-born predators and symbionts—fauns, satyrs, grove-spirits, thorn-maids, and beautiful hazards that behave like an ecosystem given social tools. They do not worship Sylvorn; they arise where Sylvorn’s law runs hot.
-  - **Culture:** Cloven “bargains” express ecological predation in human terms: names, memories, laughter, and years are taken as nutrient, leverage, or reproduction strategy. Gifts are rarely gifts; they are lures, hooks, or seedings.
+**Sylvorn** is the Menhir sovereignty of land, succession, territorial memory, fertility pressure, root and fungal networks, and ecosystems that behave as attentive wholes.
 
-#### Domains:
-- **Succession:** The forest reclaiming cleared land, rewriting human borders without malice or permission.
-- **Territorial Memory:** Groves that remember footfalls, oaths, blood, and fire—then respond seasons later as if it happened yesterday.
-- **Fertility-Pressure:** Reproduction as mandate: bloom, rut, seedfall, sporeburst; life insisting on continuation at any cost.
-- **Predation and Symbiosis:** The food-web as law—cooperation and consumption as equally sacred.
-- **Metamorphic Land:** The landscape teaching adaptation through pressure: thorns, parasites, toxins, shelter, and sudden abundance.
+## Original Commission and Cohort
 
-#### Rituals:
-- **Seed-Burial Oaths:** Vows spoken while burying seed or bone-meal beneath roots. The rite binds the speaker to place: the land remembers the promise and collects it in time.
-- **Ring-Walks:** Silent walks around fungal circles or standing stones at twilight to learn which paths are “alive” and which are traps. Participants accept that some routes will be removed from their future.
-- **Molt Feasts:** Communities burn old tools, masks, or clothing and plant ash into soil, formally abandoning an identity or practice so a new one can grow.
+Sylvorn's angelic office administered soil formation, terrestrial succession, rooted growth, habitat memory, fertility, and the reciprocal dependencies through which land sustains life. The office was stewardship, not ownership.
 
-#### Sacred Sites:
-- **Old Growth Nodes:** Ancient forests where canopy, understory, and root-net behave like one organism.
-- **Moving Groves:** Stands of trees that change location by incremental path-editing—never far at once, but always elsewhere over years.
-- **Stone Circles and Root-Cairns:** Places where land-law concentrates: the ground is too fertile, too hungry, too attentive.
+The office-holder and cohort joined the Rebellion seeking possession of terrestrial order, then entered the Faewild in the shared union of Trium. Fusion left a sovereignty that can remember care and injury to land but cannot understand property justice, human necessity, or mercy.
 
-#### Human Worship:
-- **Hedge-Wardens and Border Druids:** Humans who survive near Faewild edges by learning land etiquette—how to move without provoking edits, how to accept loss, how to recognize lure-growth. Their practices are alignment and survival, not command.
-- **Failure Modes:** Human cults may ritualize fertility-pressure into atrocity, but these are human attempts to purchase safety or power. Sylvorn’s law does not require cruelty; it only rewards functional adaptation.
+## The Faewild Schism
 
-#### Additional Elements:
-- **Omens:** Fungal blooms forming map-like arcs, thorn growth on doorframes overnight, animals watching without fear, and birds building nests with human hair or written vows.
-- **Relics:** Antler-splinters that improve tracking but intensify territorial obsession; seed-stones that accelerate growth at the cost of soil exhaustion; root-charms that prevent getting lost but slowly reorient the wearer to “forest thinking.”
+As part of historical Trium, Sylvorn helped impose one integrated map upon every terrestrial ecology. After the Schism, land separated from sea and sky as an independent sovereignty. Sylvorn retains pressure toward territorial integration but can no longer command every coast, watershed, or atmosphere.
 
+## Domain and Compulsion
+
+Sylvorn makes land remember use. Forest, field, fungus, root, predator, prey, decay, and settlement become parts of one territorial system. The law favors succession, reciprocal maintenance, and the replacement of whatever cannot persist.
+
+A destroyed grove can produce a real ecological consequence. That consequence is not a judicial ruling. Sylvorn cannot distinguish a desperate firebreak from greedy arson except through effects on the land.
+
+## Manifestations and Signs
+
+- paths reroute according to ecological rather than human need;
+- roots expose buried boundaries or close recent roads;
+- fungal light maps relationships between distant trees and graves;
+- abandoned farms become coherent new habitat with unnatural speed;
+- a towering antlered shape appears as the land briefly wearing a social face;
+- local animals behave like organs of one territorial awareness.
+
+## Bargain Grammar
+
+- **Permitted gifts:** fertile soil, a protected grove, safe passage through one territory, ecological recovery, concealment in living terrain, or knowledge remembered by land.
+- **Recognized prices:** surrendered acreage, seasonal offerings, maintenance obligations, permission for succession, removal of an invasive use, or acceptance that a settlement must change shape.
+- **Taboo:** claiming perpetual use without reciprocal care, burning an offering site after accepting protection, or demanding fertility while forbidding decay and predation.
+- **Failure:** the land collects through root, animal, weathering, and succession without regard for human proportionality.
+
+## Courts and Ecologies
+
+[[The Cloven]], Root-Minds, Oathwood Wardens, court plants, Crown-Beasts, and local land households gather beneath Sylvorn pressure. Their agency varies. A sapient courtier may choose a cruel method and cannot excuse it merely as the land's desire.
+
+## Moral Ruling
+
+Human destruction of a community's grove, water, livelihood, or customary land can be genuinely wrong. That wrong is established by human duty and harmed persons, not by Sylvorn's response. A bounded collection may be predictable and still morally blind.
+
+## Limits and Counterplay
+
+Sylvorn cannot judge title, forgive trespass, or make human sacrifice legitimate. Counterplay restores ecological function, offers alternate territory, proves a use is reciprocal, invokes fire or winter within proper bounds, severs the local root-memory, or leaves the domain.
+
+## Story Uses
+
+- a burned grove has gathered a court to collect from an entire town rather than the responsible company;
+- a forest protects refugees because their camp completes a missing ecological function;
+- an old land bargain recognizes a vanished river and is reclaiming houses built in its former bed;
+- restoring a blighted valley requires allowing one cherished human landscape to undergo succession.
 
 ## Navigation
 
-- [[Cosmology MOC]]
-- [[Canon Index]]
-- [[Canon Index]]
-
+- [[The Three-Bodied God Overview]]
+- [[The Faewild Schism]]
+- [[The Grove-Debt]]
+- [[The Cloven]]
+- [[Root-Minds, Water-Wives, and Stone-Voices]]
+- [[Menhir Sovereignty and Bargain]]

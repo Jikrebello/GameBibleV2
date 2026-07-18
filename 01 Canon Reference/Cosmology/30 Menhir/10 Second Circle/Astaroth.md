@@ -1,102 +1,72 @@
 ---
 type: cosmology
 status: canon
-canon_level: local
-visibility: restricted
-era: []
-region: []
-culture: []
+canon_level: core
+visibility: author-only
+era: [Creation, Present Day]
+region: [Faewild]
+culture: [Atherian]
 related_factions: []
 appears_in: []
 needs: []
-tags: []
+tags: [core-canon]
 ---
-### Astaroth
+# Astaroth
 
-*Second Circle — The Red Collision and the Law of Rupture*
+**Astaroth** is the Menhir sovereignty of collision, resistance, structural conflict, and the knowledge force produces when it tests a boundary.
 
-------
+## Original Commission and Cohort
 
-#### Appearance and Forms
+Astaroth's angelic office administered impact, leverage, material resistance, tectonic stress, muscular exertion, and the safe revelation of structural weakness. The commission existed so creation could bear force without pretending weakness did not exist.
 
-- **Primary Form (The Hooded Omen):** Astaroth manifests as a tall figure wrapped in a cloak that does not behave like cloth. It flickers like heat haze over blood-warm stone, as if the air itself is trying to recoil from him. His face is seldom fully seen—not because he “hides,” but because the eye cannot hold him in a single shape for long. Where his gaze falls, the world seems to develop tension, like a bowstring drawn too far. His eyes burn a deep red, not with emotion, but with **pressure**.
-- **Warrior Form (The Breaker-in-Armor):** When land, clan, beast, or weather-system reaches the point of unavoidable clash, Astaroth may appear as a battered, ancient warrior clad in dark, scarred plates. The armor looks less forged than *weathered into existence*—pitted by sand, cracked by frost, stained by old iron. His presence does not “incite fear.” It **forces decision**. Hesitation becomes impossible.
-- **Raven Form (The Scout of Rupture):** Astaroth can take the form of a great raven with ember-red eyes and feathers like soot brushed with rust. In this shape, he is an omen not of “evil,” but of imminent **contact**—the moment two forces occupy the same ground and only one can remain.
-- **Storm-Sign (The Red Star’s Nearness):** At times Astaroth does not appear as a body at all. He appears as an atmospheric wrongness: a faint red star visible in daylight, a copper tint on clouds, a bruise-colored dusk that arrives too early. The world feels as if it is approaching an impact it cannot avoid.
+The office-holder and cohort joined the Rebellion to own the verdict of strength. Fusion made Astaroth a sovereignty that can calculate consequence and seek worthy resistance but cannot understand why power should be restrained for the weak.
 
-------
+## The Faewild Schism
 
-#### Implements and Signs of Power
+Astaroth concentrated force at Trium's shared joins. Land struck sea, sea undermined land, and sky loaded both with storm. The eventual fracture became Astaroth's greatest recurring pattern: pressure revealing the line along which a whole can break.
 
-Astaroth’s implements are not instruments of tyranny or manipulation. They are the tools by which rupture becomes real.
+## Domain and Compulsion
 
-- **The Broken Sword (The Sundering Edge):** Astaroth carries a shattered blade whose break is perfectly clean, like a fault line in stone. It does not “drip dark energy.” It bleeds **pressure**—the invisible force that builds before storms, earthquakes, stampedes, and wars.
-  - When raised, the broken sword can turn brittle agreements into cracks, weaken fortifications by making their stress-points audible, and “split” the moment so that conflict happens *now* rather than later.
-- **The War-Drum of First Impact (rare sign, not always present):** Some claim Astaroth can be heard before he is seen—a distant, slow thudding like a heartbeat in the earth. This is not a summoning call. It is the world’s warning that collision has entered the final stage.
+Astaroth tests. Walls, armies, bones, institutions, and promises become visible to his law when opposed by force. He does not distinguish a necessary test from gratuitous violence. Human cultures therefore turned him into a god of war, conquest, trial, and public order.
 
-------
+## Manifestations and Signs
 
-#### Nature and Character
+- hairline cracks appear in the weakest load-bearing point;
+- rivals feel compelled to settle abstractions through physical contest;
+- weapons ring before an attack and shields grow heavy near cowardly formations;
+- two roads, herds, storms, or crowds converge upon the same narrow place;
+- a mailed figure appears only at the instant one force meets another.
 
-Astaroth is not a whispering instigator and does not feed on fear. He is the Faewild principle of **collision**: the point where competing hungers, migrations, seasons, and territories overlap and the world rebalances through force.
+## Bargain Grammar
 
-- **Bringer of Strife (as Natural Law):** Astaroth does not create conflict by temptation. He arrives when conflict is already structurally inevitable—when prey is scarce, when borders press too close, when herds cross the wrong valley, when storms break old coastlines, when two apex predators claim the same ground.
-- **Rupture-Logic:** Astaroth embodies the truth that some systems cannot be reconciled; they must fracture and reform. Mortals call this “war.” The Faewild calls it **pressure release**.
-- **Respect for Strength (Not Valor):** Astaroth does not reward chivalry or morality. He rewards **fitness**: timing, cohesion, decisive action, the ability to endure impact and remain functional afterward. He favors the pack that holds formation, the tribe that moves first, the leader who does not freeze.
-- **Unknowable Scale:** The cosmic horror of Astaroth is that he is not a person with preferences. He is a sign that the world’s deeper machinery has turned a gear. To see his star is to realize your “choices” may be footnotes inside a collision far older and larger than you.
+- **Permitted gifts:** revealed weakness, temporary reinforcement, endurance under impact, a fair field of contest, or force concentrated at one point.
+- **Recognized prices:** submission of something valuable to genuine testing, acceptance of an opponent, a scar, broken equipment, or the surrender of an untested claim.
+- **Taboo:** demanding victory without resistance, substituting a helpless victim for the named contestant, or fleeing after accepting the field.
+- **Failure:** conflict spreads beyond its boundary until every nearby structure, relationship, or faction is forced to prove itself.
 
-------
+## Courts and Ecologies
 
-#### Influence and Observances
+Crown-Beasts, contest courtiers, impact organisms, and some Hunt Riders gather around Astaroth. Sapient champions remain responsible for choosing cruelty. Astaroth's pressure does not make a war just or a victor legitimate.
 
-Astaroth is not served by cathedral-temples or preached as a doctrine. He is acknowledged through **impact-rites** practiced by those who live close to scarcity, borders, and storms.
+## Mortal Names and Misreadings
 
-- **Altars of Rupture (not temples):** His sites are **broken places**: old battlefields reclaimed by grass, collapsed bridges, canyon passes where ambush is inevitable, storm-split trees, landslide scars, and cliff paths where travelers must choose who goes first. Offerings are left where the world shows its fractures.
-- **Rites Under the Red Star:**
-  - **Breaking of Blades:** warriors snap a weapon and bury it at a boundary, asking not for “victory,” but for a clean outcome—swift decision, minimal lingering.
-  - **The First Blood Vow:** a small, controlled cut offered before conflict begins—acknowledgment that impact is coming and that denial only worsens it.
-  - **The Clash-Walk:** groups march at night beneath the red star, silent, moving as one, training their bodies to accept contact without panic.
-- **War-Bands and Collision-Cults:** His followers are not primarily mercenaries seeking chaos. They are raiders, border-wardens, storm-chasers, and migration tribes—people who believe conflict is a seasonal certainty like winter. They do not worship Astaroth because they love violence; they acknowledge him because they live where **violence is the weather**.
-- **Omens:** The appearance of Astaroth’s red star does not mean “evil is coming.” It means the world is entering a phase where overlapping forces cannot coexist. Signs include:
-  - animals migrating against instinct,
-  - wells tasting of iron,
-  - tools tarnishing overnight,
-  - sudden, unnatural silence before storms,
-  - arguments erupting not from manipulation, but because pressure has risen too high for restraint.
+Atherian generals called Astaroth the Red Star and treated victory as divine ratification. Later soldiers preserve fragments of his testing rites without necessarily worshipping him. Engineers know quieter signs: a structure showing its failure before people enter it.
 
-------
+## Limits and Counterplay
 
-#### Symbols and Relics
+Astaroth cannot determine moral courage, lawful title, guilt, or whether a conflict should occur. Counterplay removes the load, redistributes force, refuses the false field before accepting it, substitutes proof that does not harm the vulnerable, or invokes Hecatara to route around collision.
 
-- **Symbols:** the red star, the broken sword, and the raven remain—reframed as **contact, fracture, and omen** rather than dread-for-dread’s-sake.
-- **Relics:**
-  - **Sword-Shards:** carried as talismans to find stress-points in stone, wood, or social structures—useful for siege, escape, or survival.
-  - **Raven Feathers:** used by scouts and pathfinders to “read the wind” before conflict or storm.
-  - **Impact Drums:** not to summon Astaroth, but to synchronize a band’s movement so they strike as a single body.
+## Story Uses
 
-------
-
-#### Legendary Artifact
-
-- **The Broken Sword of Astaroth:** The blade does not grant “chaos.” It grants **inevitability**. When drawn, it accelerates outcomes: alliances snap, weak foundations fail, and the undecided are forced into action. Those who wield it become dangerously effective—until they realize they can no longer de-escalate anything. Every problem becomes a collision because the sword makes “later” feel impossible.
-
-------
-
-#### Common Phenomena
-
-- **Red Skies and Copper Dusk:** light shifts toward rust tones; clouds bruise.
-- **Border Fever:** settlements near boundaries grow restless; patrols multiply; packs test fences.
-- **The Silence Before Impact:** insects quiet, birds relocate, and even wind seems to hold its breath—then something breaks.
-
-------
-
-#### Summary
-
-Astaroth is the Red Collision: the Faewild law that when territories overlap and resources tighten, the world rebalances through rupture. He does not whisper violence into hearts or feed on terror. He appears when pressure reaches its limit—an omen that the deeper machinery of nature has turned and conflict is no longer a possibility, but a **phase**. The horror of Astaroth is not that he is cruel, but that he is correct.
+- a fortress asks Astaroth to reveal its weakness and begins manufacturing enemies to complete the test;
+- a succession moot accepts trial by combat, then learns the Menhir recognizes strength rather than legitimacy;
+- an engineer's bargain keeps a bridge standing only while something heavy crosses it each year;
+- two armies are being drawn toward a pass neither intended to contest.
 
 ## Navigation
 
-- [[Cosmology MOC]]
-- [[Canon Index]]
-- [[Canon Index]]
-
+- [[The Second Circle]]
+- [[Menhir Sovereignty and Bargain]]
+- [[The Faewild Schism]]
+- [[Orionis]]
+- [[Relationships within the Menhir]]

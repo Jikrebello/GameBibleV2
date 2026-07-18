@@ -25,13 +25,13 @@ related_magic: [Menhir law]
 ---
 # The Rimebound
 
-The Rimebound are [[The Cloven]] whom a colder power has overtaken — forest-fey with the proportion burned out of them. A Cloven collects what its law says it is owed and then stops; a Rimebound collects everything, from everyone, without the brake that made the first one just. In [[The Bright-Fire Carnival]] they are the carnival's turned attractions and the [[The Rime Rider]]'s frostbitten collectors, made from [[Sisrin the Alder-Maid]]'s own crew.
+The Rimebound are [[The Cloven]] whom a colder power has overtaken - forest-fey with their ordinary restraints burned out. A Cloven may stop when its place-law recognizes equivalence; a Rimebound collects everything, from everyone, without even that ecological brake. In [[The Bright-Fire Carnival]] they are the carnival's turned attractions and the [[The Rime Rider]]'s frostbitten collectors, made from [[Sisrin the Alder-Maid]]'s own crew.
 
 They are not a species and not a natural stage of Cloven life. "Rimebound" describes a Cloven bound under winter-cold to an inflated collection — a harm done to fey, not a kind of fey.
 
 ## Cause
 
-When the exiled [[The Rime Rider|winter-hunter]] sinks its cold into a Cloven collection, it does two things at once: it **inflates the debt** the Cloven is bound to collect, and it **freezes out the proportion** that would have stopped them at the guilty. What remains is a collector that still moves in its law's grammar — bargains, lures, the taking of names and years and warmth — but recognizes no limit and no wrong target. The debt is now everyone's, and the Rimebound collects as if that were true.
+When the exiled [[The Rime Rider|winter-hunter]] sinks its cold into a Cloven collection, it does two things at once: it **widens the claim** the retinue is compelled to pursue, and it **freezes out the restraint** that would have stopped them at the original offenders. What remains still moves in court grammar - bargains, lures, and the taking of names, years, and warmth - but recognizes no limit and no wrong target. The Rimebound behaves as though every person present belongs to the harvest.
 
 ## Signs
 
@@ -55,15 +55,15 @@ Rimebound are gauntlet-horrors and tragic antagonists, not simple monsters. They
 
 ## Release
 
-A Rimebound is not freed by being killed. Release means breaking the **Rider's hold** — voiding the guarantee that binds the collection, paying the original [[The Grove-Debt|grove-debt]] so the claim closes, or destroying the Rider itself. Once the hold breaks, the Cloven can return to Sisrin's measured law or leave the collection entirely. Cutting one down in the gauntlet stops a threat and frees no one; the difference is the whole moral weight of the third night.
+A Rimebound is not freed by being killed. Release means breaking the **Rider's hold** - voiding the guarantee, completing a [[The Grove-Debt|repair]] that closes the claim, or destroying the Rider itself. Once the hold breaks, the Cloven can return to Sisrin's retinue or leave the collection entirely. Cutting one down in the gauntlet stops a threat and frees no one; the difference is the whole moral weight of the third night.
 
 ## Canon Boundary
 
-Rimebound are corrupted Cloven, not a new fey lineage, not naturally breeding, and not evidence that the Cloven are "really" monsters. They are what the Rime Rider's predatory cold does to a lawful collection — the same wrong the Bright-Fire Carnival turns on, wearing frost. Remove the cold and the Cloven is simply a Cloven again, grieving what it was made to do.
+Rimebound are corrupted Cloven, not a new fey lineage, not naturally breeding, and not evidence that the Cloven are "really" monsters. They are what the Rime Rider's predatory cold does to a bounded court retinue. Remove the cold and the Cloven is itself again, responsible for the choices it retained and grieving those the Rider forced upon it.
 
 ## Quest Uses
 
-- a turned attraction can be stopped mid-collection by paying the debt that binds it;
+- a turned attraction can be stopped mid-collection by completing the repair that closes its claim;
 - a Rimebound begs, in the original Cloven's voice, to be unbound rather than destroyed;
 - a party must tell Rimebound from Cloven in the dark, and killing the wrong one deepens the debt;
 - a freed Cloven becomes a witness against the Rider that overtook it;

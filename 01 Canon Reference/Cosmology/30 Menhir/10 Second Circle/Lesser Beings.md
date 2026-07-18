@@ -1,10 +1,10 @@
 ---
-type: cosmology
+type: reference
 status: canon
 canon_level: core
 visibility: restricted
 era: []
-region: []
+region: [Faewild]
 culture: []
 related_factions: []
 appears_in: []
@@ -13,37 +13,37 @@ tags: []
 ---
 # Lesser Beings
 
-Mortals rarely encounter a Menhir as a singular sovereign intelligence. They encounter ecologies, courtiers, offspring, masks, weather-organisms, place-bound intelligences, and creatures shaped by proximity to one or more great laws.
+Mortals rarely encounter a Menhir as a singular sovereignty. They encounter ecologies, courtiers, place-minds, fauna, inherited pact lineages, and bounded manifestations shaped by one or more great laws.
 
-## What "Lesser" Means
+## What “Lesser” Means
 
-Lesser describes scale, not safety. A river-wife may govern only one ford and still drown a village. An antlered hunter may be unable to leave its forest and still remember a bloodline for centuries.
+“Lesser” describes scale relative to a yolk-sovereign, not worth, intelligence, or moral status.
 
-Common forms include:
+- **Court persons** are sapient `court-law` beings capable of household, loyalty, cruelty, and choice.
+- **Place-minds** arise where natural law becomes locally self-directing.
+- **Mythic fauna** are biological organisms whose lifecycle crosses Faewild and Material conditions.
+- **Manifestation roles** are recurring forms worn by different beings or by a bounded expression of a sovereign.
+- **Pact descendants** are mortal or animal lineages altered through inherited bargains.
+- **Convergence beings** appear when several Menhir pressures overlap.
 
-- **courtiers:** beings that perform a role within a Menhir ecology;
-- **place minds:** recurring agency attached to a grove, pass, tide pool, migration route, or season;
-- **mythic fauna:** organisms whose life cycle crosses Material and Faewild conditions;
-- **borrowed masks:** roles worn temporarily by different beings;
-- **pact descendants:** mortal or animal lineages altered by inherited bargains;
-- **convergence beings:** temporary organisms produced when several Menhir pressures overlap.
+## Agency
 
-## Courts
+Association with an amoral Menhir does not settle a lesser being's responsibility. Sapient court persons may possess full moral agency. Reflexive fauna and law-organisms may possess none or little. Humans retain human responsibility unless another controlling continuity applies.
 
-A mortal **court** is often an observational category. Beings repeatedly encountered under the same taboos are treated as one society whether or not they share allegiance. Patrons, Shades, and Idol masks can enter such a court and exploit its customs. This is especially developed in [[Courts of the Folk Lands]].
+## Bargains and Authority
 
-## Bargains
+Many lesser beings can negotiate because bounded exchange fits their nature. A courtier may carry only a narrow authority: one crossing, one season, one bloodline, one grove, or one hunt. It cannot promise the whole Menhir's power.
 
-Lesser beings may keep exact bargains because a bounded exchange fits their nature. Exactness is not love, justice, or moral approval. Costs include changed appetite, service, taboo, transformed descendants, altered memory, territorial access, and attention from larger powers.
+Prices include service, taboo, altered appetite, changed memory, transformed descendants, territorial access, years, names, or attention from larger powers. Exact terms are not proof of affection or justice.
 
-## Authorial Classification
+## Catalogue Rule
 
-The Menhir pressure itself expresses created natural or mythic law rather than moral authority. Sapient lesser beings can understand alternatives and remain accountable for chosen cruelty, restraint, fidelity, and betrayal. They differ from Idols, which actively engineer meaning-predation, and from Astral patrons, which require rented stability. In-world observers often misclassify all three.
+[[Solar Sons]] and [[Midnight Daughters]] are manifestation-role registers. The sovereign Menhir and their poetic roles do not add forms to the locked thirty-form [[Faewild and Menhir MOC|Faewild catalogue]]. A reusable creature counts only through its controlling family dossier.
 
 ## Navigation
 
+- [[Menhir Sovereignty and Bargain]]
 - [[The Second Circle]]
-- [[Who’s Who in the Cosmology]]
-- [[Folk Faith and Appeasement]]
 - [[Faewild and Menhir MOC]]
-- [[Cosmology MOC]]
+- [[Courts of the Folk Lands]]
+- [[Thin Spaces]]

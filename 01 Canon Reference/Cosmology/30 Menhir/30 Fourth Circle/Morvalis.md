@@ -1,40 +1,72 @@
 ---
 type: cosmology
 status: canon
-canon_level: local
-visibility: restricted
-era: []
-region: []
-culture: []
+canon_level: core
+visibility: author-only
+era: [Creation, Present Day]
+region: [Faewild]
+culture: [Atherian, Qianglong]
 related_factions: []
 appears_in: []
 needs: []
-tags: []
+tags: [core-canon]
 ---
-### Appearance and Forms:
-- **Primary Form:** Morvalis is the Menhir-expression of **late autumn**: senescence, harvest completion, leaf-fall, and the ecological handover from growth to decay. Mortals often describe a skeletal rider in rusted armor and a hooded cloak because autumn feels like a reaper. The truer encounter is the **quiet closing** of a season: sap withdrawing, daylight thinning, and the air smelling of rot and iron. 
-- **Steed:** “Nightshade,” the ghostly horse with a mane of withered leaves, is the folk-image of autumn winds carrying decay-signals and spores across the land—breath that withers because decomposition is beginning everywhere at once. 
-- **Weapon:** “Harvest’s End” is the mythic translation of Morvalis’s mechanism: **cutoff**—the seasonal severing of active growth, the closing of reproductive windows, and the turning of biomass into fuel for winter and soil. 
+# Morvalis
 
-### Personality and Characterization:
-- **Embodiment of Senescence:** Morvalis governs the biological certainty that tissues fail, leaves fall, and organisms return to nutrient. 
-- **Harbinger of Autumn Transition:** The “death” aspect is the natural law of **return**: decomposition, scavenging, and the conversion of the year’s surplus into the next year’s soil. 
-- **Impartial Closure:** Morvalis’s “justice” is seasonal accounting: what was gained must be spent; what was built must be broken down; what was fed must now feed others. 
+**Morvalis** is the Menhir sovereignty of autumn senescence, harvest completion, bodily death, grave stillness, decomposition, and ecological return. Mortal traditions call him the Horseman of Death.
 
-### Influence and Worship:
-- **Temples and Altars:** Sites attributed to Morvalis appear where the land teaches closure: graveyards (as human analogues of return), orchard edges at first frost, ancient forests in leaf-fall, and composting pits that steam in cold air. 
-- **Rituals:** Harvest rites, ancestor remembrances, and “closing” ceremonies (finishing debts, ending feuds, storing tools) function as cultural mirrors of autumn law: finish the year clean or winter will punish loose ends.
-- **Death Cults (Reframed):** Morticians and gravekeepers may cluster around Morvalis imagery, but the Menhir does not recruit. These groups persist because societies need systems for handling bodies, grief, and inheritance—autumn logic applied to human life. 
-- **Omens:** Sudden mass leaf-drop, fungal blooms out of cycle, breath that smells of cold earth, and the brief sensation that a familiar place has “closed” behind you. 
+## Original Commission and Cohort
 
-### Symbols and Relics:
-- **Symbols:** Scythe, falling leaf, ghostly horse— **harvest, senescence, and seasonal passage**.
-- **Relics:** Preserving leaves, cloaks that resist necrotic seep, and bone-handled tools used in burial and harvest—objects that help manage the boundary between living work and return-to-soil. 
+Morvalis's angelic office administered endings within embodied creation: leaf-fall, senescence, decomposition, nutrient return, harvest closure, and the bodily stillness that follows death. Human soul passage was never part of this commission.
 
-### Additional Elements:
-- **Legendary Artifact (Mythic Anchor):** “Harvest’s End” is best treated as a name applied to rare cutoff-anchors—implements or stones that can accelerate senescence in a small zone (useful for ending infestations, dangerous if used on crops or people). 
-- **Natural Saturation:** Morvalis’s presence produces chills, rustling without wind, mist carrying spores, and an uncanny sense of completion—the world’s energy turning inward.
+The office-holder and cohort joined the Rebellion seeking possession of ending itself. Fusion made Morvalis capable of identifying what has completed its season without understanding grief, hope, dignity, or why humans may rightly resist a premature end.
+
+## The Faewild Schism
+
+Trium attempted to recycle every ending inside one seamless world-system. Morvalis closed processes before their outputs could return to that plan, severing growth, migration, and circulation at inconvenient points. The fracture made ecological endings locally sovereign again.
+
+## Domain and Compulsion
+
+Morvalis closes embodied processes and returns matter to new use. He governs corpse stillness and decomposition, not the immortal person who has departed. [[The Boatman]] alone governs human soul passage under the Lord's commission.
+
+Morvalis does not judge when a human life has achieved moral completion. His law can end blight or accelerate healthy senescence with equal exactness.
+
+## Manifestations and Signs
+
+- leaves fall in a perfect boundary while neighboring trees remain green;
+- rust, rot, and compost advance as one coordinated process;
+- dead bodies become unnaturally still and resistant to residue animation;
+- unfinished projects acquire the physical signs of age;
+- a hooded skeletal rider appears as the mortal image of seasonal cutoff;
+- the air smells of iron, spores, and harvest just before something ends.
+
+## Bargain Grammar
+
+- **Permitted gifts:** clean closure, accelerated decay, ending of a biological process, protection from residue animation, completed harvest, or release of material from a failed use.
+- **Recognized prices:** surrender of something whose season has ended, acceptance of irreversibility, relinquished preservation, a final harvest, or the burial of an unfinished claim.
+- **Taboo:** demanding that a closed thing return unchanged, preserving matter beyond the named season, or asking Morvalis to route or judge a soul.
+- **Failure:** senescence spreads to adjacent systems, closure arrives prematurely, or useful memory is discarded with exhausted matter.
+
+## Courts and Ecologies
+
+Decay organisms, grave-still place minds, autumn courts, fungal succession, and carrion ecologies converge with Morvalis. Ghouls violate rather than complete this law: they organize corpse matter around predatory appetite and damaged remembrance.
+
+## Limits and Counterplay
+
+Morvalis cannot kill or save a soul, forgive the dead, make murder natural, or decide that grief should end. Counterplay proves a process remains active, separates the named object from adjacent life, invokes spring renewal, restores circulation, or accepts one bounded ending before it spreads.
+
+## Story Uses
+
+- a cemetery protected from residue has begun imposing stillness on living mourners;
+- a blight can be ended only by surrendering the heirloom orchard that carries it;
+- an unfinished oath is physically aging everyone who continues to preserve it;
+- a ruler invokes Morvalis to end a war and discovers the law regards the entire dynasty as the exhausted process.
 
 ## Navigation
 
-- [[Cosmology MOC]]
+- [[The Horsemen Overview]]
+- [[The Boatman]]
+- [[Fungal Colonies and Parasitic Succession]]
+- [[Ghouls]]
+- [[Menhir Sovereignty and Bargain]]
+- [[The Faewild Schism]]

@@ -115,6 +115,15 @@ tags: []
 - **Lust:** [[Lust Masks and Invitation-Beasts]]
 - **Envy:** [[Envy Masks and Replacement-Beasts]] and [[Borrowed Saints]]
 
+### Ghoul Geography
+
+- [[Underworld, Underways, and Corpse-Roads]]
+- [[Necropolis of Nihil]]
+- [[Warrens of Woe]]
+- [[Dusk Barrows]]
+
+These references define ontology and places; they add no creature forms.
+
 ### Wild Shadowlands
 
 - [[Dreadforms]]

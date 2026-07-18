@@ -1,47 +1,72 @@
 ---
 type: cosmology
 status: canon
-canon_level: local
-visibility: restricted
-era: []
-region: []
-culture: []
-related_factions: []
+canon_level: core
+visibility: author-only
+era: [Creation, Present Day]
+region: [Faewild]
+culture: [Atherian, Tarkhan]
+related_factions: [Sky Courts]
 appears_in: []
 needs: []
-tags: []
+tags: [core-canon]
 ---
-#### Appearance:
-- **Description:** Zephyraxis is the Faewild’s sky-law made visible: a living pressure-front, storm-architecture, and unowned altitude. When perceived as a “body,” it is only because mortal senses insist on shape—towering walls of cloud with lightning-veins, a cyclone-eye that watches without eyelids, or a silhouette implied by turbulence rather than flesh. Its “wings” are wind-shears; its “voice” is the organizing roar of weather.
-- **Manifestation:** Zephyraxis manifests where the sky becomes a mechanism—sudden inversions, migrating storm-lines, mountain-wave turbulence, and winds that arrive with deliberate geometry. In strong proximity, speech thins, maps become unreliable, and the air takes on a clean, metallic sharpness as if the world has been scrubbed.
+# Zephyraxis
 
-#### Followers:
-- **The Aerials:**
-  - **Description:** Windborne fae-life and storm-spirits that cohere inside persistent weather systems—gust-wraiths, cloudlings, lightning-eels, and flock-shadows that move as one organism. They are not “disciples”; they are emergent ecologies that form in Zephyraxis’s wake.
-  - **Behavior:** The Aerials test and sort like the sky does: they scatter caravans, split marching lines, steal heat, and “teach” altitude-law by punishing weak preparations. They may guide as often as they mislead, but never for kindness—only because a corridor of wind briefly favors passage.
+**Zephyraxis** is the Menhir sovereignty of atmosphere, altitude, wind, storm architecture, airborne migration, and unowned sky.
 
-#### Rituals:
-- **Front-Watching Vigils:** Performed when pressure drops and the horizon “hardens.” Participants keep silence, read cloud strata, and mark wind-shifts on stone or bone to align their timing with the sky’s true movement.
-- **Sky-Needle Ascents:** Climbs to lightning-taken towers, ridge cairns, or exposed spires to hang streamers, chimes, and feather-knots that “answer” the wind. The rite is less a petition than a declaration of readiness to endure exposure.
-- **Oath-of-Open-Air:** A binding vow spoken in a gale with no shelter nearby. The vow is considered valid only if the speaker can keep breath and footing; if the wind takes the words, the vow is judged unmade.
+## Original Commission and Cohort
 
-#### Sacred Sites:
-- **Lightning Fields:** Ridges and plateaus repeatedly struck, where stone vitrifies and iron sands gather in branching patterns.
-- **Sky-Needles:** Ruined high towers, jagged spires, and lone peaks that function as natural conductors—places the storm “remembers” and returns to.
-- **Wind Corridors:** Mountain passes and coastal cliffs where air accelerates into consistent, blade-like currents, creating permanent lanes of flight and danger.
+Zephyraxis's angelic office administered breathable atmosphere, wind, weather transfer, flight corridors, seed dispersal, and the pressures by which sky connects distant lands and waters.
 
-#### Human Worship:
-- **Skyward Orders:** Sailors, storm-chasers, ridge-wardens, and highland clans treat Zephyraxis as an impersonal authority: preparation, timing, and humility determine survival. Offerings are practical—salt, feather, iron, and wind-knots—used as mnemonic tools rather than bribes.
-- **Failure Modes:** Where human communities turn this into blood sacrifice, it is cultural panic attempting to bargain with a system that does not bargain. The sky does not “demand”; it simply sorts.
+The office-holder and cohort joined the Rebellion seeking to possess open movement above creation. They entered the Faewild as part of historical Trium. Fusion produced a sovereignty that can choose where weather travels but cannot understand shelter, sovereignty, or civilian exposure as moral concerns.
 
-#### Additional Elements:
-- **Omens:** Sudden stillness before a front, three-tier cloud stacks forming unnatural symmetry, birds migrating against seasonless expectation, and winds that arrive from “the wrong direction” repeatedly.
-- **Relics:** Storm-glass shards (vitrified lightning stone) used as barometric talismans; wind-chimes that ring only when a safe corridor exists; feather-mantles that reduce exhaustion but amplify restlessness.
+## The Faewild Schism
 
+Within Trium, sky distributed one integrated climate over land and sea. After the fracture, Zephyraxis became independent. Storm and wind could once again contradict coast, forest, season, and road rather than serving one world plan.
+
+## Domain and Compulsion
+
+Zephyraxis moves pressure. Wind sorts structures, transports life, strips exposed surfaces, and makes distant places share weather. Altitude removes the protections of ground and tests what can remain coherent in motion.
+
+The sovereignty is not freedom in a moral or political sense. It is movement without ownership.
+
+## Manifestations and Signs
+
+- winds form corridors with rigid walls and destinations;
+- cloud architecture resembles stairs, gates, or migrating beasts;
+- voices arrive before the speaker's weather front;
+- buildings fail only where they refuse to flex;
+- seeds, insects, and aerial predators migrate together across species;
+- a body is implied by turbulence, lightning-veins, and one watching cyclone eye.
+
+## Bargain Grammar
+
+- **Permitted gifts:** favorable wind, one flight corridor, storm diversion, airborne message, breathable passage at altitude, or weather knowledge.
+- **Recognized prices:** surrender of ballast, exposure to the open air, carriage of another thing, relinquished ownership of a high place, or acceptance that displaced weather must land elsewhere.
+- **Taboo:** claiming the sky as property, demanding wind without a destination, or building rigidly after accepting flexibility.
+- **Failure:** the wind returns with accumulated force, the storm reaches an unnamed settlement, or the petitioner cannot become still again.
+
+## Courts and Ecologies
+
+Aerials, storm kites, sky-lions, wind courts, and migrating flock minds converge with Zephyraxis. Tarkhan traditions fold several sky pressures into Kokh, but the Blue Eternal is not another sovereign.
+
+## Limits and Counterplay
+
+Zephyraxis cannot make conquest freedom, judge ownership, or erase the consequences of redirected weather. Counterplay grounds the local manifestation, vents pressure, offers a safe destination, bends rather than resists, enters sealed earth, or invokes Sylvorn and Thalassor to close the atmospheric circuit.
+
+## Story Uses
+
+- a diverted storm saves one fleet and begins circling an unnamed inland town;
+- an airborne road carries messages and a predator that has learned to follow them;
+- a mountain fortress's wind bargain fails because its new ruler claims ownership of the summit;
+- ending a drought requires accepting where the stolen rain must fall instead.
 
 ## Navigation
 
-- [[Cosmology MOC]]
-- [[Canon Index]]
-- [[Canon Index]]
-
+- [[The Three-Bodied God Overview]]
+- [[The Faewild Schism]]
+- [[Aerials and Deep Envoys]]
+- [[Sky-Lions and Crown-Beasts]]
+- [[Anchor Fauna]]
+- [[Menhir Sovereignty and Bargain]]

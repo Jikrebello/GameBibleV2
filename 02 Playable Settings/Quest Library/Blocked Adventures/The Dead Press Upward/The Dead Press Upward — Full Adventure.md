@@ -63,7 +63,7 @@ Edrik Morn supplied the false survey. Formerly a diocesan antiquarian and death-
 
 The backlash crushed and burned away Edrik's lower body but did not let him die. He fixed himself into a pale iron bier-chair whose jointed pallbearer legs move by grave-script and residue. From the Seal chamber he can see through nearby animated eyes and address intruders through dead mouths. He interprets his survival and command as confirmation that he is the Second Boatman.
 
-The broken Seal reopened the **Maw-Road**, a steep underworld passage used by the Wane-Warren. The ghouls entered the plague galleries to feed. Edrik learned that directing residue bodies upward concealed his experiments and supplied him with more remains. The warren learned that each rising emptied Wanenbruck's streets and graveyard. They cooperate only in the sense that two predators can exploit the same wound. Each intends to own it when the other weakens.
+The broken Seal reopened the **Maw-Road**, a steep corpse-road and damaged western feeder in the wider [[Warrens of Woe|Fever Deeps]] ecology. It is not a stable tunnel to a ghoul capital. The independent [[The Wane-Warren|Wane-Warren]] entered the plague galleries to feed. Edrik learned that directing residue bodies upward concealed his experiments and supplied him with more remains. The warren learned that each rising emptied Wanenbruck's streets and graveyard. They cooperate only in the sense that two predators can exploit the same wound. Each intends to own it when the other weakens.
 
 Mournfang is not the warren's envoy. It is an elder grave-runner and residue-worker that wants the Maw-Road for its own hunting lineage. It studies the party, lets them spend strength against Edrik, and attacks when it can take the broken Seal or the recovered name-tablets.
 
@@ -365,6 +365,8 @@ Stopping the rising does not automatically decide the living cases.
 - [[Residue Dead Overview]]
 - [[Corpse Residue]]
 - [[Self-Anchored Dead]]
+- [[Underworld, Underways, and Corpse-Roads]]
+- [[Warrens of Woe]]
 - [[The Mundane Layer — Residue, Vermin, and the Delver Trade]]
 - [[Eclessian Daily Life and the Year of the Flame]]
 - [[Soul Routing and the Vestibule]]

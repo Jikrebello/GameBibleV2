@@ -33,6 +33,15 @@ This is the controlling register for exactly **42 genuine Shadowlands forms**. I
 
 - [[Ghouls]] and [[Grave-Runners]] (2)
 
+#### Ghoul Geography
+
+- [[Underworld, Underways, and Corpse-Roads]]
+- [[Necropolis of Nihil]]
+- [[Warrens of Woe]]
+- [[Dusk Barrows]]
+
+These are ontology and place references. They contribute no additional catalogue forms.
+
 ### Pride
 
 - [[Bloodlines Overview]]: Regalis, Nocturnis, Sanguine, Eclipsis, and Militis vampires (5)

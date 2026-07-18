@@ -42,6 +42,8 @@ This division is not administrative chaos by itself. Brauvalis governs through n
 
 Old-Church parishes predominate, but Wanenbruck and several timber settlements contain Freeflame households protected under local articles of the [[The Korrheim Accord|Korrheim Accord]]. Both confessions use the same public cemeteries where custom or land makes division impossible. They dispute prayers, images, and authority while sharing practical grave-watch against residue and ghouls.
 
+Grave-watchers call the imagined source of every deep scratch and fevered corpse-road **the Fever Deeps**. Parish warnings disagree about whether it is a city, a punishment, or merely a name for bad ground. Public authorities possess no reliable map and discourage anyone from treating the stories as a road guide.
+
 Wanemoor suffered badly during [[The Grey Sweat]]. Abbey infirmaries became burial stations and pauper galleries took strangers whose home parishes had failed. These interments remain a living legal and spiritual obligation, not abandoned property.
 
 ## Economy
@@ -65,4 +67,3 @@ The district can also support mine collapses, confessional relief disputes, miss
 - [[Wanenbruck]]
 - [[Gazetteer of the Known World]]
 - [[Eclessia Overview]]
-

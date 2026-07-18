@@ -1,45 +1,72 @@
 ---
 type: cosmology
 status: canon
-canon_level: local
-visibility: restricted
-era: []
-region: []
-culture: []
+canon_level: core
+visibility: author-only
+era: [Creation, Present Day]
+region: [Faewild]
+culture: [Atherian, Qianglong]
 related_factions: []
 appears_in: []
 needs: []
-tags: []
+tags: [core-canon]
 ---
-### Appearance and Forms:
-- **Primary Form:** Veradia is the Menhir-expression of **spring release**: bloom, sap-rise, swarm pressure, and the microbial violence that accompanies renewal. Mortals describe a tall figure in green-and-gold armor with vines and flowers because spring feels like a crowned return. The truer encounter is biological: the world becomes wet, noisy, and fertile; wounds infect faster; insects arrive in clouds; rot and life accelerate together. 
-- **Steed:** “Plaguebringer,” the diseased horse, is the folk-image of spring’s carrier-state: parasites, spores, and vectors moving faster than communities can adapt. 
-- **Weapon:** “Venomlash” is the mythic translation of Veradia’s mechanism: **rapid propagation**—growth that overreaches, blight that spreads, and the way spring turns every boundary porous. 
+# Veradia
 
-### Personality and Characterization:
-- **Embodiment of Proliferation:** Veradia is not “evil disease.” Veradia is the seasonal law of **expansion**: seeds, spores, insects, bacteria, and vines exploiting the opening of warmth and water.
-- **Pestilence as Ecology:** The “pestilence” aspect is not a curse; it is the price of wet fertility: vector blooms, standing water, crowding, and immune systems catching up after winter stress.
-- **Duality as Mechanism:** The same conditions that make fields flourish also make contagion thrive. Veradia’s “shift” from nurturing to destructive is simply spring’s unstable abundance expressing both sides of the equation. 
+**Veradia** is the Menhir sovereignty of spring proliferation, birth, infection, parasites, competition, recovery, and life pressing into available space. Mortal traditions call her the Horseman of Pestilence.
 
-### Influence and Worship:
-- **Temples and Altars:** Places attributed to Veradia are overgrown gardens, wet forests, marsh edges, and herb-lodes—sites where growth is intense enough to feel authored. 
-- **Rituals:** Offerings of flowers and herbs, cleansing rites, and planting ceremonies function as community-level adaptation: celebrating fertility while managing outbreak risk. 
-- **Healer Cults (Reframed):** Herbalists and healers cluster around Veradia because spring is when infection, birth, and recovery spike. Their rites are practical pharmacology made sacred, not priestly service demanded by a goddess. 
-- **Farmer Devotion:** First-bloom offerings and seed blessings encode the logic that spring is a gamble: growth must be invited, but growth must also be controlled.
-- **Omens:** Sudden out-of-season blooms, insect swarms forming coordinated spirals, mildew creeping across clean stone overnight, and a “sweet-rot” scent carried on warm rain.
+## Original Commission and Cohort
 
-### Symbols and Relics:
-- **Symbols:** Whip, bloom, diseased horse—reframed as **propagation, fertility, and vectors**.
-- **Relics:** Ever-blooming flowers, preservative herbs, and vine-tools that can either accelerate growth or cut it back—items used to manage spring pressure rather than channel divine favor.
+Veradia's angelic office administered germination, birth, population recovery, immune challenge, pollination, parasitic checks, and the dangerous abundance through which life renews after scarcity.
 
-### Additional Elements:
-- **Legendary Artifact (Mythic Anchor):** “Venomlash” is best treated as a name for rare propagation-anchors—vines, seeds, or thorn-tools that can cause explosive growth or outbreak conditions in a localized area. Useful for siege, reclamation, and sabotage; dangerous because spring pressure is hard to stop once started.
-- **Eldritch Influence (Natural Saturation):** Veradia’s presence produces rapid plant growth, sudden disease clusters, and the unsettling sense that the world is multiplying faster than it can be organized. 
+The office-holder and cohort joined the Rebellion seeking possession of increase. Fusion produced a sovereignty that can distinguish thriving from failure but cannot understand consent, suffering, or why one form of life should be protected from another's proliferation.
 
+## The Faewild Schism
+
+Trium attempted to schedule growth within one balanced world-cycle. Veradia proliferated beyond every assigned boundary: roots in sky ecologies, parasites in new hosts, births outside season, and recovery that exceeded available territory. The integrated system could not contain every new demand.
+
+## Domain and Compulsion
+
+Veradia fills openings with life. Birth, seed, infection, healing tissue, weed, insect, parasite, and population boom all belong to the same pressure. Recovery and outbreak are not opposites from her perspective.
+
+She is not Gluttony and does not feed upon vice. Idol masks may exploit epidemic fear, but biological infection remains Veradian or Material ecology unless another cause is established.
+
+## Manifestations and Signs
+
+- out-of-season flowers open around wounds or sickrooms;
+- insects coordinate pollination and transmission as one event;
+- healed tissue continues growing after function returns;
+- abandoned ground becomes crowded with competing life overnight;
+- a green rider appears only through the movement of spores, larvae, and shoots;
+- warm rain carries a sweet-rot scent and unfamiliar fertility.
+
+## Bargain Grammar
+
+- **Permitted gifts:** fertility, germination, population recovery, rapid tissue repair, medicinal growth, pollination, or biological resistance through competition.
+- **Recognized prices:** acceptance of culling, shared habitat, a new parasite or symbiont, uncontrolled descendants, surrendered sterility, or continued care for what proliferates.
+- **Taboo:** demanding growth without competition, healing without changed tissue, or fertility while refusing every resulting life a place.
+- **Failure:** recovery becomes tumor, fertility becomes swarm, medicine becomes host, or one successful species displaces the rest.
+
+## Courts and Ecologies
+
+Spring courts, pollinator swarms, parasitic succession, medicinal place-minds, and proliferating plants gather beneath Veradia pressure. Healers may learn from these ecologies without receiving priestly authority or moral instruction.
+
+## Limits and Counterplay
+
+Veradia cannot restore a routed soul, make every birth good, or distinguish wanted healing from invasive growth. Counterplay establishes carrying capacity, culls with proportion, invokes winter restraint or autumn closure, isolates transmission, or ends the local source of proliferation.
+
+## Story Uses
+
+- a miraculous recovery rite is producing healthy organs the patients do not need;
+- a spring court offers to end infertility by giving every household more children than it can feed;
+- an epidemic protects its hosts from a worse disease and resists eradication as self-defense;
+- restoring a dead wetland will displace the farms built during its absence.
 
 ## Navigation
 
-- [[Cosmology MOC]]
-- [[Canon Index]]
-- [[Canon Index]]
-
+- [[The Horsemen Overview]]
+- [[Nevaura]]
+- [[Morvalis]]
+- [[Fungal Colonies and Parasitic Succession]]
+- [[Gluttony Masks and Feast-Beasts]]
+- [[Menhir Sovereignty and Bargain]]

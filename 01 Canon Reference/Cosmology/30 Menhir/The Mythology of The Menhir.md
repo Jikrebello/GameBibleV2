@@ -1,72 +1,68 @@
 ---
-type: cosmology
+type: source-text
 status: canon
-canon_level: local
-visibility: restricted
-era: []
-region: []
-culture: []
-related_factions: []
+canon_level: apocryphal
+visibility: public
+reliability: disputed
+era: [Atherian Imperial Age]
+region: [Atheria]
+culture: [Atherian]
+related_factions: [Star Pantheon]
 appears_in: []
 needs: []
-tags: []
+tags: [in-world-source]
 ---
-### Order of Events Before the War:
+# The Mythology of the Menhir
 
-1. **Creation of the First Circle:**
-   - The First Circle was formed, with Father Sun (Solrath) and Mother Moon (Lunara) at the top, embodying the celestial balance of the universe.
-   - The Three-Bodied God, Trium, existed in its unified state, embodying the Ocean, Land, and Sky aspects in perfect harmony.
-   - The lesser star children, including Astaroth, Lyraxis, Orionis, Hecatara, Typhonius, and Arachnara, were yet to be born, as the First Circle maintained its celestial balance.
-   - Later Atherian recensions insert **Thanatos** into this genealogy. That insertion reflects the empire's misclassification of [[The Boatman]], not an actual Menhir birth.
+> **Source status:** This is the received Atherian Circle Myth. It preserves a real Menhir war, Trium's fracture, and the recurring Circles, but presents them through divine genealogy, moralized betrayal, and imperial hierarchy. Creator truth is controlled by [[The Great Rebellion and the Yolk Exiles]], [[Menhir Sovereignty and Bargain]], and [[The Faewild Schism]].
 
-2. **The Golden Age:**
-   - The First Circle thrived in harmony, with Father Sun and Mother Moon ruling with wisdom and power. Trium was the beloved of both, guiding the realms with its triune nature.
-   - The realms of Ocean, Land, and Sky were in perfect balance, with the creatures and beings living in peace and prosperity.
-   - The Four Horsemen—Solrath (Summer/War), Nevaura (Winter/Famine), Morvalis (Autumn/Death), and Veradia (Spring/Pestilence)—were initially lesser deities, maintaining the cycles of seasons and natural order.
+## The First Circle
 
-### Leading into the Great War:
+In the beginning, Father Sun and Mother Moon held the high vault between them. Trium stood beneath their light as one body of land, sea, and sky, and every road of the world returned to that harmony.
 
-3. **The Birth of the Star Children:**
-   - The lesser star children were born, bringing new dynamics and powers into the First Circle. They were weaker than their parents but held significant influence over various aspects of existence.
-   - As their influence grew, so did their ambitions, leading to envy and discord within the First Circle.
+The Four Seasonal Riders guarded the turning year. Solrath bore summer and war, Nevaura winter and famine, Morvalis autumn and death, and Veradia spring and pestilence. The younger stars had not yet taken their thrones.
 
-4. **The Conspiracy Against Trium:**
-   - A conspiracy began to form among the star children, who sought greater power and autonomy. They viewed Trium's favor with jealousy and desired to disrupt the celestial balance.
-   - The star children manipulated the Four Horsemen, promising them greater power and influence in exchange for their allegiance.
+## Birth of the Star Children
 
-5. **The Splitting of Trium:**
-   - The conspirators enacted a powerful ritual that split Trium into its three aspects: Thalassor (Ocean), Sylvorn (Land), and Zephyraxis (Sky). This weakened the First Circle, causing chaos and instability.
-   - The Three-Bodied God was cursed to only join briefly during specific celestial events, losing its former power and harmony.
+The hymns say the light of Sun and Moon produced Astaroth, Lyraxis, Orionis, Hecatara, Typhonius, and Arachnara. Each received a star, a craft, and a portion of the living world. Later imperial recensions also name Thanatos, although older temple lists disagree about his parentage.
 
-### The Great War:
+The Star Children learned that Trium's three bodies touched every realm. They feared that no road, hunt, war, transformation, or hidden design could escape its order.
 
-6. **The Celestial Conflict:**
-   - With Trium split and the celestial balance disrupted, the realms descended into war. The Four Horsemen, now more powerful, began to assert their dominance, leading their respective factions.
-   - Father Sun and Mother Moon struggled to maintain order, facing betrayal from within as the star children pursued their own ambitions.
+## The Conspiracy
 
-7. **Battles of the Divine:**
-   - The realms saw epic battles between the divided factions, with the Ocean, Land, and Sky now in perpetual conflict.
-   - The star children, along with the Four Horsemen, fought for control and supremacy, causing widespread destruction and upheaval.
+Hecatara opened a road that Trium had closed. Arachnara carried the secret through her web. Lyraxis made a thousand forms that did not fit the old world. Typhonius joined what Trium had separated. Orionis found the weak place, and Astaroth struck it.
 
-### The Aftermath of the War:
+The Four Riders joined the conflict, each believing the broken world would give its season dominion. Father Sun and Mother Moon opposed one another over which child should be punished and which should inherit.
 
-8. **The Fall of the First Circle:**
-   - The war culminated in the destruction of the First Circle. Father Sun and Mother Moon were forced to retreat, weakened and unable to restore the former order.
-   - The star children, realizing the devastation they had caused, sought to establish new order from the chaos.
+## The Great War
 
-9. **Formation of the Second, Third, and Fourth Circles:**
-   - The Celestial Family (Second Circle) emerged, led by the star children who sought to rebuild and govern the realms with a new hierarchy.
-   - The Three-Bodied God (Third Circle), now in its fragmented state, continued to wield influence but was no longer the unified force it once was.
-   - The Four Horsemen (Fourth Circle) established their dominion, embodying the seasons and the apocalyptic forces, enforcing their will with fear and reverence.
+Land rose against sea. Sea drowned the roots of land. Sky tore both with storm. The stars fought through forests, mountains, coasts, and the turning year. Creatures changed sides by changing shape, and roads carried armies to places that had never been adjacent.
 
-10. **A New Era:**
-	 - The Menhir entered a new era, with the Second, Third, and Fourth Circles coexisting in a fragile balance.
-	- The realms, scarred by the war, adapted to the new order, with the worship of the gods marked by fear, reverence, and a deep memory of the celestial conflict.
+At the war's height, Trium was split into Sylvorn of Land, Thalassor of Sea, and Zephyraxis of Sky. The Three-Bodied God could thereafter unite only during rare conjunctions, when the old world briefly remembered itself.
 
+## The Later Circles
 
+The First Circle never returned. Imperial theologians arranged the surviving powers into three visible orders:
+
+- the Second Circle of Sun, Moon, and Star Children;
+- the Third Circle of the three world bodies and their temporary union;
+- the Fourth Circle of the Seasonal Riders.
+
+The empire taught that proper rite kept these powers balanced beneath civic law. Local temples disagreed over whether the war was tragedy, necessary rebellion, or the first proof that dominion belongs to whoever can hold it.
+
+## Authorial Concordance
+
+- The Great War remembers the real [[The Faewild Schism|Faewild Schism]].
+- Trium's permanent fracture is real; literal divine parentage is not.
+- The Circles describe observed ecological blocs, not a celestial government.
+- Thanatos is an imperial misclassification of [[The Boatman]].
+- “Balance beneath civic law” is Atherian political theology, not cosmological fact.
 
 ## Navigation
 
+- [[Reliability Register]]
+- [[The Faewild Schism]]
+- [[The Second Circle]]
+- [[The Three-Bodied God Overview]]
+- [[The Horsemen Overview]]
 - [[Cosmology MOC]]
-- [[Canon Index]]
-- [[Canon Index]]

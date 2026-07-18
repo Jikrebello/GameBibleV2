@@ -26,7 +26,7 @@ Evil in the World Egg is **plural and competitive**, not a pyramid. Four distinc
 3. **The patron economy** (Astral rent): [[The Concord of Weights]] (the rent cartel) and its greatest member, [[The Creditor]] — the spine's biggest secret.
 4. **Soul-route predation** (the leftward road): [[The Undertow]] — the counter-Boatman.
 
-Standing creature-side infrastructure cross-references: the vampire bloodlines (human souls retained by Ansharan blood liens), the ghoul-cities (Gluttony's logistics), the Nightmares (Sloth's cavalry), and the Hollow-Kings, whose place in these supply chains remains unknown.
+Standing creature-side cross-references include the vampire bloodlines (human souls retained by Ansharan blood liens), the three rival ghoul cities whose Feast-shadows reproduce Gluttony's pressure without forming its government, the Nightmares associated with Sloth, and the Hollow-Kings, whose place in these supply chains remains unknown.
 
 [[Idol Manifestation and Feeding]] controls why free mortal choices and scalable institutions produce denser food than repetitive Shadow behavior. [[Shadowlands and Idols MOC]] controls the fauna, Masks, Archmasks, altered lineages, and wild forms used by these networks. A mortal cell does not automatically command its Idol's creatures.
 

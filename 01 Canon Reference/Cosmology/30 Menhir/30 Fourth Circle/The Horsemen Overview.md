@@ -1,55 +1,50 @@
 ---
-type: cosmology
+type: index
 status: canon
-canon_level: local
-visibility: restricted
-era: []
-region: []
-culture: []
-related_factions: []
+canon_level: core
+visibility: author-only
+era: [Creation, Present Day]
+region: [Faewild]
+culture: [Atherian, Qianglong]
+related_factions: [The Menhir]
 appears_in: []
 needs: []
-tags: []
+tags: [core-canon]
 ---
-### Fourth Circle Menhir: The Horsemen of the Seasons (Updated Frame)
+# The Horsemen Overview
 
-The Fourth Circle are seasonal Menhir-expressions: **terrestrial cycle engines** that ride the year’s turning as procedural force rather than civic divinity. They are weaker than the Second Circle’s solar/lunar primaries and the Third Circle’s triune confluence, but they are more immediately dangerous to mortal settlements than most lesser beings because they are **recurring** and **predictably timed**.
+The **Fourth Circle** is the Atherian classification for four Menhir sovereignties governing seasonal extremes. “Horsemen” and the associated calamities are mortal images of what those seasons do when natural pressure becomes intentional and unbounded.
 
-They do not require belief. They occur because the world turns. Human “worship” emerges as survival culture, forecasting practice, and attempts to align with seasonal pressure.
+## The Four Seasonal Sovereignties
 
----
+- [[Veradia]]: spring proliferation, birth, infection, parasites, competition, and recovery.
+- [[Solrath]]: summer intensity, exertion, ripening, conflict, heat, and expenditure.
+- [[Morvalis]]: autumn senescence, harvest ending, decomposition, and ecological return.
+- [[Nevaura]]: winter scarcity, dormancy, preservation, rationing, and cold selection.
 
-### Summer: [[Solrath]]
-- **Core Function:** Heat-load, drought risk, wildfire conditions, and the contest ecology that emerges when water and shade become territory.
-- **Mythic Image:** A red-armored rider and burning chariot translating fast-moving heat fronts and ember winds. 
-- **Cycle Peak:** Summer solstice window; strongest in prolonged dry years. 
-- **Setting Use:** Raids, territorial conflict, fires, brittle politics, endurance trials, migration pressure.
+Pestilence, war, death, and famine are valid human catastrophe titles. They are not the whole domains and do not imply the four powers morally choose victims.
 
-### Winter: [[Nevaura]]
-- **Core Function:** Cold-load, dormancy, scarcity, and the tightening of food webs into survival accounting.
-- **Mythic Image:** Frost-robed rider on a spectral reindeer translating winter corridors and sudden temperature collapses. 
-- **Cycle Peak:** Winter solstice window; strongest when stores fail and migrations bottleneck. 
-- **Setting Use:** Short rations, frozen roads, failed harvest consequences, communal strain, hard moral choices under scarcity.
+## Origin and Schism
 
-### Autumn: [[Morvalis]]
-- **Core Function:** Senescence, harvest closure, decomposition onset, and the conversion of surplus into soil and store.
-- **Mythic Image:** A reaper-rider with leaf-mane steed translating leaf-fall winds, rot bloom, and the shutting down of growth windows. 
-- **Cycle Peak:** Autumn equinox window; strongest after bountiful years (more biomass to return). 
-- **Setting Use:** Inheritance disputes, burial culture, harvest festivals, rot outbreaks, endings and preparations.
+Each seasonal sovereign began as an angelic office-holder fused with its cohort and seasonal law. After fusion they retained choice without moral comprehension. During [[The Faewild Schism]], all four intensified their seasons beyond Trium's integrated cycle and helped break its claim to total order.
 
-### Spring: [[Veradia]]
-- **Core Function:** Release of growth, bloom, swarm pressure, and the microbial/parasite violence that accompanies renewal.
-- **Mythic Image:** A vine-armored rider on a diseased horse translating vectors, spores, and rapid propagation. 
-- **Cycle Peak:** Spring equinox window; strongest in wet years and crowded settlements. 
-- **Setting Use:** Booms and blights, medicine politics, quarantine vs faith, insect swarms, new births, rapid social change.
+## The Cycle
 
----
+The four pressures recur in sequence without forming a council or covenant. One may intrude out of season. Their convergences create false springs, killing summers, premature autumns, preserved plagues, and High Hunts shaped by seasonal conditions.
 
-### Worship and Influence (Reframed)
-- **Temples and Altars:** Most “temples” are seasonal markers: storage houses, burn pits, frost shelters, compost yards, herb gardens, and equinox stones. 
-- **Rituals:** Seasonal rites are forecasting and adaptation—controlled burns, preservation feasts, harvest closures, planting cleansings—rather than bargains with personified beings. 
-- **Human Relationship:** Communities fear and respect the Horsemen because they are inevitable. The wisest cultures treat them as the year’s governors: prepare early, keep stores, learn local signs, and never assume a mild season means safety.
+## Moral and Metaphysical Limits
+
+- No Horseman judges who deserves war, hunger, illness, or death.
+- Morvalis governs bodies and ecological return; [[The Boatman]] alone governs human soul passage.
+- Veradia governs biological infection and proliferation; Gluttony may exploit those conditions but does not own them.
+- Winter rationing can preserve a community without making every sacrifice just.
+- A seasonal bargain is exact ecological pressure, not providence.
 
 ## Navigation
 
-- [[Cosmology MOC]]
+- [[Menhir Sovereignty and Bargain]]
+- [[The Faewild Schism]]
+- [[Relationships within the Menhir]]
+- [[The Second Circle]]
+- [[The Three-Bodied God Overview]]
+- [[Faewild and Menhir MOC]]

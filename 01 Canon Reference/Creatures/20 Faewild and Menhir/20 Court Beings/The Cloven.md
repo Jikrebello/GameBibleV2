@@ -25,7 +25,7 @@ related_magic: [Menhir law]
 ---
 # The Cloven
 
-The Cloven are [[Sylvorn]]'s forest-fey — fauns, satyrs, thorn-maids, grove-spirits, and beautiful hazards that arise wherever the Faewild's land-law runs hot. They are not a bred species and they do not worship anything; they are what an ecosystem looks like when it is given social tools and a face. In [[The Bright-Fire Carnival]] they staff the carnival as a lawful collection crew, gathered by [[Sisrin the Alder-Maid]] out of a grove that was burned.
+The Cloven are [[Sylvorn]]'s forest-fey — fauns, satyrs, thorn-maids, grove-spirits, and beautiful hazards that arise wherever the Faewild's land-law runs hot. They are not a bred species and they do not worship anything; they are what an ecosystem looks like when it is given social tools and a face. In [[The Bright-Fire Carnival]] they staff the carnival as the collection retinue of [[Sisrin the Alder-Maid]], gathered out of a grove that was burned.
 
 This dossier collects the Cloven as a bestiary family, since they recur wherever the Sylvan Marches meets Faewild edges and are as likely to be encountered as debtors, hosts, and tricksters as enemies.
 
@@ -56,9 +56,10 @@ Cloven understand alternatives, consequence, and refusal. Their court-law explai
 
 ## Behavior and Tactics
 
-- collect in their law's coin rather than kill, when the collection is proportionate;
+- prefer the coin recognized by their place-law to immediate killing;
 - use lures, bargains, and terrain before force;
 - honor the letter of a deal with ferocious precision, including its buried hooks;
+- choose restraint, coercion, generosity, or cruelty according to their own agency, even when a court compulsion narrows the available choices;
 - withdraw when a debt is paid or an offering restored, because their law is satisfied, not their appetite;
 - fight with the grove's advantages — path-editing, thorn, poison, sudden abundance — when forced.
 
@@ -70,11 +71,11 @@ Destroying only the visible body may allow a court-law person to reform from an 
 
 ## The Folk Accommodation
 
-The Folk survive beside the Cloven by land etiquette: offering groves, seed-burial oaths, ring-walks, and the knowledge of how to move without provoking an edit. Hedge-wardens and border druids make careers of it. The whole tragedy of the Bright-Fire Carnival is a frontier crew that broke the etiquette — burned an offering grove — and a colder power that turned the resulting lawful collection into something the Cloven themselves would never have designed.
+The Folk survive beside the Cloven by land etiquette: offering groves, seed-burial oaths, ring-walks, and the knowledge of how to move without provoking an edit. Hedge-wardens and border druids make careers of it. The whole tragedy of the Bright-Fire Carnival begins with a genuine human wrong - a frontier crew burning an offering grove - and worsens when a colder power turns the grove's bounded response into indiscriminate predation. Sylvorn's recognition of the breach establishes an ecological consequence, not a moral verdict.
 
 ## Corruption
 
-Cloven bargains normally inherit a pressure toward ecological proportion, but this is tendency rather than innocence. That proportion can also be **overtaken**. When a colder power such as the exiled [[The Rime Rider|winter-hunter]] sinks its cold into a Cloven, it becomes one of the [[The Rimebound]]: a collector with the proportion burned out of it. The imposed condition is not chosen, though each surviving Cloven remains accountable for choices it can still make.
+Cloven bargains normally inherit a pressure toward ecological equivalence, but equivalence is not justice and tendency is not innocence. That pressure can also be **overtaken**. When a colder power such as the exiled [[The Rime Rider|winter-hunter]] sinks its cold into a Cloven, it becomes one of the [[The Rimebound]]: a collector whose bounds have been burned out. The imposed condition is not chosen, though each surviving Cloven remains accountable for choices it can still make.
 
 ## Materials and Regional Names
 
@@ -83,10 +84,10 @@ Antler, bark-skin, revel reed, thorn milk, and seed tokens may retain one local 
 ## Quest Uses
 
 - a Cloven barker tells the party the exact truth, certain they will fail to act on it;
-- an offering grove goes unpaid and its Cloven come, lawfully, to a festival to collect;
+- an offering grove is violated and its Cloven choose a customary festival as the venue for their answer;
 - a hedge-warden teaches the party the etiquette that keeps a Folk-border town alive;
 - a Cloven bargain looks generous and plants a hook the party pays off three adventures later;
-- a predator inflates a just Cloven collection, and the party must tell the wronged fey from the thing riding them.
+- a predator inflates a bounded Cloven collection, and the party must judge both the original response and the thing riding it.
 
 ## Navigation
 

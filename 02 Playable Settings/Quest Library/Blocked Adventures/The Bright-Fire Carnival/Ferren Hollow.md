@@ -33,18 +33,18 @@ During the fair it holds the carnival — the Laughing House, the Sweetheart Flo
 
 In the wood beyond the green stands the burned offering grove: a ring of blackened stumps that still smells of last spring's fire. This was one of the groves the Season-Cutters left uncut and paid into each Bright-Fire, until "Clear-Cut" Karl's Firebrands burned it to hit a quota. It is the source of the whole adventure — the [[The Grove-Debt|grove-debt]] made visible — and [[Sisrin the Alder-Maid]] is the part of it that survived.
 
-A party that visits the Stump-Ring learns more than any amount of fair-gossip: the burning was deliberate, the offering was owed, and the grove remembers.
+A party that visits the Stump-Ring learns more than any amount of fair-gossip: the burning was deliberate, the customary offering was withheld, and the grove remembers.
 
 ## Powers and Players
 
 - **The Timber-Cartel:** Strun's shadow-government, split between Old Tomas's Season-Cutters (who left the offering groves), "Clear-Cut" Karl's Firebrands (who burned this one), and Strun himself (who set the quota and denies it).
 - **Mayor Adelheid Ports:** town warden, keeper of the quiet, burier of the grove-debt rumor.
-- **The Folk across the border:** Folk who know exactly what an unpaid offering grove means and are watching to see whether the town pays or the fair burns.
+- **The Folk across the border:** Folk who know what an ignored offering grove can become and are watching to see whether the town admits and repairs the wrong before the fair burns.
 - **The carnival:** [[The Cloven]] under Sisrin, and the cold thing riding them.
 
 ## The Festival Clock
 
-The fair runs three days. Each day the carnival's warmth thins and the frost creeps further in from the wood. The third night's fireworks are the lure's climax and the massacre's trigger. Ferren Hollow's fate is set less by the fey than by whether its own guilty parties pay a debt before that last shell bursts.
+The fair runs three days. Each day the carnival's warmth thins and the frost creeps further in from the wood. The third night's fireworks are the lure's climax and the massacre's trigger. Ferren Hollow's fate is set by whether its guilty parties admit and repair the burning, whether Sisrin accepts a defensible settlement, and whether the Rider is stopped before the last shell bursts.
 
 ## Aftermath Uses
 

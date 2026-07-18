@@ -37,6 +37,8 @@ The towers are larger below ground than above. Their visible spires guard deep h
 
 At [[Qasr Ilyun]], Jirahar road companies maintain memorial paths, expedition records, and rescue obligations alongside Qahuri courts and scouts. Their presence gives them standing for their own people and records, not authority over the town or every desert ruin.
 
+Road memorials also warn of **the City After the Last Name**, where a traveler's record may arrive before the traveler and return without them. Keepers teach the story as a burial warning, not a route: no living tower recognizes a road to such a city.
+
 ## The Wider World
 
 [[Jirahar and the Wider World]] controls relations with Eclessia, Thalmyria, the Covenant, Sestara, Tarkhan, Folk, Ättar, and Velians. Host law ranges from protected autonomy to confiscation and expulsion. No foreign state fully trusts a people capable of leaving with its records, skills, and households intact.

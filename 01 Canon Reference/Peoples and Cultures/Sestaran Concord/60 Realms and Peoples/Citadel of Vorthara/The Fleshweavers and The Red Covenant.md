@@ -25,7 +25,7 @@ Their hidden economy depends on bodies, captives, rare ancestries, living reagen
 
 ## Belief
 
-Typhonius and Arachnara appear as disputed cult masks within the Fleshweavers: stories that justify appetite, transformation, multiplication, and freedom from stable identity. Authorially they are interpreted through Idol pressure rather than confirmed gods.
+Typhonius and Arachnara are real Menhir whose recombination and network laws can appear around Vortharan fleshcraft. Neither law grants moral permission to coerce, mutilate, or redesign a person. Fleshweaver cults turn their names into stories that justify appetite, multiplication, and freedom from stable identity; where those stories absolve chosen cruelty, the doctrine is a mortal corruption often cultivated by Idol pressure rather than a Menhir command.
 
 ## Vortharan Power
 

@@ -103,7 +103,7 @@ To “really” enter the world, beings generally need:
 
 - **Manifested saints:** redeemed human souls sent from Heaven under bounded commissions. They retain earthly identity and cannot fall after final communion.
     
-- **Menhir (Faewild):** sovereign “laws of nature” made godlike; cult is secondary to regime.
+- **Menhir (Faewild):** former angelic offices fused with natural law as morally blind yolk-sovereignties; cult is secondary to domain and regime.
     
 - **Idols (Shadowlands):** predatory meaning engines feeding on identity, obsession, shame, envy, appetite, pressure.
     

@@ -13,7 +13,7 @@ tags: []
 ---
 # Mother Moon's Bargain
 
-The Ättar pact is a direct covenant with [[Mother Moon]], administered by lesser courtiers sometimes called the **Pale Household** or **Moon Court**. It grants old-rite chiefs a single hybrid form and places inherited rage in their paternal lines. It does not prove that Mother Moon loves the Ättar. The agreement treats human children as an acceptable price for continuity.
+The Ättar pact is a direct covenant with [[Mother Moon]], concluded at an ancient lunar thin place and administered in later generations by lesser courtiers sometimes called the **Pale Household** or **Moon Court**. It cannot be recreated as a routine rite. The pact grants old-rite chiefs a single hybrid form and places inherited rage in their paternal lines. It does not prove that Mother Moon loves the Ättar or that the exchange is just. Moon recognizes the pact as an exact cycle of taking and return; she cannot comprehend the child's dignity as a moral claim against that cycle.
 
 ## Renewal
 
@@ -37,9 +37,10 @@ The returned child is not the person who vanished unchanged. Their memory is dis
 
 ## Authorial Judgement
 
-The bargain helped save the early halls from destruction. That necessity does not make its recurring child-price righteous. Mother Moon keeps the letter of the agreement and remains indifferent to the human meaning of what she takes.
+The bargain helped save the early halls from destruction. That necessity does not make its recurring child-price righteous. Mother Moon keeps the letter because cycle, exchange, and mutable form are her law, not because she has weighed the good of the child. Human chiefs, parents, seers, and courtiers who understand the harm remain responsible for accepting, concealing, resisting, or reforming the terms.
 
 ## Navigation
 
 - [[Ättar Overview]]
 - [[Borrowed Children and Moon-Seers]]
+- [[Menhir Sovereignty and Bargain]]

@@ -37,6 +37,10 @@ The court is valued because an inventory can return a dead worker's share to fam
 
 Public maps end these roads where dependable water and patrols end. Rumors of deeper palaces, estates, and buried cities are not reliable geography.
 
+## Grave Legends
+
+Glass scouts sometimes call an unnamed eastern ruin **the Hollow City**, while Jirahar memorial companies warn of **the City After the Last Name**. Stories agree only that stolen names, opened graves, and a city beneath a salt mirror belong together. No dependable route, distance, or surviving witness confirms that the two names describe one place.
+
 ## Story Uses
 
 - a breach hearing must decide whether an object can safely remain in private hands;
@@ -51,4 +55,3 @@ Public maps end these roads where dependable water and patrols end. Rumors of de
 - [[The Qahuri]]
 - [[The Jirahar Overview]]
 - [[Great Glass Desert]]
-
