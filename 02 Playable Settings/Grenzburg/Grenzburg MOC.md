@@ -81,6 +81,7 @@ Grenzburg is the first playable testbed for the setting: a frontier duchy trying
 ## Related Independent Adventures
 
 - [[The Duke's Road — Full Adventure]] - a sixty-day western road expedition in [[Alderway Vale]]; its starting situation is canon, but no route or ending is assumed by the core campaign.
+- [[The First Writ — Full Adventure]] - a standalone Chapel-Folk rescue at [[Birchcross]]; it assumes neither a Blackjack protagonist nor any outcome in the core campaign.
 
 ## Historical and Hidden Pressures
 

@@ -53,6 +53,14 @@ South of the villages the **Southwood** thickens toward the true frontier. In it
 
 Two days west of Lakewatch, beyond Moss-Crown lands: **Wolfsmere**, the Lake That Remembers (see [[The Folk of the Frontier and the Wolfsmere Lineage]]). No boats, no bells, no iron. Its proximity is deliberate: Grenzburg's Folk politics sit forty miles from the Drowning, and Thorn-Seer Mael's Lakekeeper-line authority means every deal the Duke cuts with the Folk is being weighed against what sleeps in that water.
 
+## Birchcross and the First Shelter Spur
+
+One day's travel west of Grenzburg on the Lakewatch road, [[Birchcross]] is a Chapel-Folk hamlet of about 150 people. Its mill, stable, smithy, chapel yard, and refuge store support traffic between the city and western lake country without making the hamlet a ducal garrison.
+
+An abandoned Atherian spur leaves the modern road beyond the mill leat. Half a day west, [[First Shelter Watch-Barrow]] occupies a restored imperial relay once maintained by the [[Fraternity of the First Shelter]]. The upper refuge and memorial are known locally. The [[Birchcross Imperial Stair|imperial stair beneath it]] is not public map knowledge.
+
+Regional maps should show Birchcross and the overgrown spur without selecting an outcome for [[The First Writ — Full Adventure]].
+
 ## Alderway Vale and the Western Relief Project
 
 North of Wolfsmere and west-northwest of Grenzburg, [[Alderway Vale]] climbs toward old roads leading to Dornwatch and the Brauvalian supply network. Duke Alaric has commissioned a second relief corridor through it so the duchy is not wholly dependent upon the River Grenz road.
@@ -75,5 +83,7 @@ Everything dangerous is south; everything that gives orders is north; everything
 
 - [[Grenzburg MOC]]
 - [[Grenzburg as Vertical Slice]]
+- [[Birchcross]]
+- [[The First Writ — Full Adventure]]
 - [[Factions Overview]]
 - [[Gazetteer of the Known World]]

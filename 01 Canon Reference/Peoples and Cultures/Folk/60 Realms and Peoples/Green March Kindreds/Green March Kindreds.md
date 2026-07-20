@@ -47,6 +47,11 @@ The region receives refugees and Grobi bands displaced from deeper southern corr
 
 - [[Alder-Crossing Clan]] - the local river, refuge, and sanctuary kindred of [[Alderway Vale]], where Grenzburg's western relief road remains unfinished.
 
+## Named Communities
+
+- [[Birchcross]] - a Chapel-Folk mill and refuge hamlet on the road between Grenzburg and Lakewatch.
+- [[Fraternity of the First Shelter]] - a historical mixed frontier brotherhood whose refuge and Writ remain in Birchcross memory.
+
 ## Story Uses
 
 - A written road concession erases three seasonal clan rights.
@@ -57,5 +62,7 @@ The region receives refugees and Grobi bands displaced from deeper southern corr
 
 - [[The Folk Clans]]
 - [[The Folk of the Frontier and the Wolfsmere Lineage]]
+- [[Birchcross]]
+- [[The First Writ — Full Adventure]]
 - [[Grenzburg Regional Geography]]
 - [[The Folk Overview]]

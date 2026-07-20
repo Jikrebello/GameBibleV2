@@ -54,6 +54,8 @@ In central Brauvalis, [[Hellerbruck]] is a prosperous Weiss crossing known for b
 
 West-northwest of Grenzburg and north of Wolfsmere, [[Alderway Vale]] forms a possible relief corridor toward Dornwatch and the Brauvalian road network. [[Fort Alderwatch]] stands over the half-built ducal project. Its final alignment and completion remain unsettled; maps should not assume an outcome for [[The Duke's Road — Full Adventure]].
 
+One day's travel west of Grenzburg on the Lakewatch road, [[Birchcross]] is a Chapel-Folk mill and refuge hamlet where the modern road crosses an abandoned Atherian spur. [[First Shelter Watch-Barrow]] lies half a day farther west. Public maps should show the hamlet and overgrown spur without recording an outcome for [[The First Writ — Full Adventure]] or disclosing the imperial stair beneath the barrow.
+
 ### The Folk Lands and the Deep South
 
 The grey forest world below the settled realms contains four overlapping customary regions rather than one country. The **Green March Kindreds** meet Eclessia and Grenzburg; the **Rootbound Heartwood** occupies the deep south-central forest; the **Gale-Crown Ranges** hold eastern mountain woods and Grobi-facing passes; and the **Tidewood Coast** follows the cold ocean-facing forest. Old-rite Enaidfae confederacies are strongest in the latter three but remain culturally Folk.

@@ -45,6 +45,7 @@ Old-rite zealots may treat Chapel-Folk as oath-breakers. Eclessian settlers may 
 
 - The Bent Oak lineage and its daughter settlements.
 - [[Chapel-Ford — Full Adventure|Chapel-Ford]], where Saint Elsin's memory and inherited seasonal practice remain politically alive.
+- [[Birchcross]], a mill and road-refuge hamlet that preserves the memory of the [[Fraternity of the First Shelter]].
 - Elof's Grenzburg communities, caught between ducal need, Church scrutiny, and clan suspicion.
 
 ## Navigation
@@ -52,4 +53,6 @@ Old-rite zealots may treat Chapel-Folk as oath-breakers. Eclessian settlers may 
 - [[The Folk Overview]]
 - [[The Folk of the Frontier and the Wolfsmere Lineage]]
 - [[Folk Daily Life and the Thirteen Moons]]
+- [[Birchcross]]
+- [[The First Writ — Full Adventure]]
 - [[The Consolidation of the Eclessian Church]]

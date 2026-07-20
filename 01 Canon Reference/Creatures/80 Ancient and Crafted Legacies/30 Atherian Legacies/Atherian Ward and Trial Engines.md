@@ -7,7 +7,7 @@ era: [Atherian Imperial Age]
 region: [Former Atherian Empire]
 culture: [Atherian]
 related_factions: []
-appears_in: [The Echo Seam, The Fane of the Braided Flame, The Tower That Kept Its Year]
+appears_in: [The Echo Seam, The Fane of the Braided Flame, The Tower That Kept Its Year, The First Writ]
 needs: []
 tags: [core-canon, atherian, construct]
 origin_layer: crafted
@@ -58,3 +58,4 @@ Atheria deployed constructs as civic infrastructure rather than a separate peopl
 - [[Constructs by Animating Principle]]
 - [[Atherian Imperial Age]]
 - [[The Echo Seam — Full Adventure]]
+- [[The First Writ — Full Adventure]]

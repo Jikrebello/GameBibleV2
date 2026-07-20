@@ -248,6 +248,7 @@ These references define ontology and places; they add no creature forms.
 ## Adventure Encounter Sets
 
 - [[The Echo Seam — Full Adventure]] - mundane road violence and natural mine hazards escalating into residue, Atherian ward engines, and non-conscious Crystal Forms.
+- [[The First Writ — Full Adventure]] - human deserters and readable physical hazards, with optional corpse residue and an Atherian road warden after the rescue.
 
 ## Expansion Order
 
