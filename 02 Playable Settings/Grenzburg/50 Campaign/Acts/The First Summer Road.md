@@ -9,7 +9,7 @@ culture: []
 related_factions: []
 appears_in: ["Grenzburg"]
 needs:
-  - fully block the reactive route after worldspace and ending states are designed
+  - fully block the reactive route after political, settlement, and faction ending states are designed
 tags: [game-ready]
 quest_class: aftermath
 act: summer
@@ -24,7 +24,7 @@ blocking_status: outlined
 
 The second required summer quest carries the player through the reopened region, reveals settlement and faction consequences in place, and selects the first reconstruction priority. Its controlling outline is in [[SUMMER AFTERMATH]].
 
-The quest is canon as a campaign requirement. Its exact route and reactive encounters remain to be blocked after the worldspace and endings passes.
+The quest is canon as a campaign requirement. Its route must revisit at least one changed site in each surviving campaign corridor and end at a player-selected reconstruction priority. Exact stops and reactive encounters remain to be blocked after the ending-state pass.
 
 ## Navigation
 

@@ -39,6 +39,8 @@ The Menhir and ghoul-geography cohesion wave is preserved under `90 Project Hist
 
 The former Grenzburg vertical-slice campaign is preserved under `50 Grenzburg and Playable Settings/2026-07-20 Pre-Game-Constitution`. [[Grenzburg Pre-Game-Constitution Archive Index]] records the retired Heart-Stone campaign, old act treatments, companion framework, faction framework, and dual-employer control layer before the full-game rebuild.
 
+Grenzburg's pre-production geography and first concept map are preserved under `50 Grenzburg and Playable Settings/2026-07-20 Pre-Worldspace-Constitution`. [[Grenzburg Pre-Worldspace Archive Index]] records the replaced physical baseline, numerical anchors, Fort Tannbruck and Deep Muster placements, and `Grenzburg Regional Map v1.png` before the city and seven-region worldspace were locked.
+
 ## Subject Archives
 
 - **10 Cosmology:** superseded cosmological phases and entity versions.

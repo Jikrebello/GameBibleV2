@@ -4,23 +4,34 @@ status: canon
 canon_level: local
 visibility: author-only
 era: ["Giant Age", "Present Day"]
-region: ["Grenzburg frontier"]
+region: ["Grenzburg", "Frostfenn March"]
 culture: ["Qianglong"]
 related_factions: ["Qianglong War Caste", "Qianglong Death Caste"]
 appears_in: ["Grenzburg"]
 needs:
-  - lock exact regional placement, entrances, floor sequence, seals, and encounter ecology in the dungeon pass
+  - block the floor sequence, seals, encounter ecology, closure methods, and finale states in Wave 4
+map_id: "GR-7-D1"
+worldspace_role: mega-dungeon
+subregion: "Frostfenn March"
+district: ""
+map_visibility: secret
+danger_band: extreme
+travel_services: []
+seasonal_states: [autumn, winter, spring, summer]
+dungeon_scale: mega
 tags: [game-ready]
 ---
 # The Deep Muster
 
-The Deep Muster is the buried core of [[The Unending Muster]], a Qianglong death-and-war complex beneath the Grenzburg frontier. It is the final mega-dungeon of the campaign and the architecture through which [[The General Below]] attempts to materialize.
+The Deep Muster is the buried core of [[The Unending Muster]], a Qianglong death-and-war complex beneath the far southern [[Frostfenn March]]. It is the final mega-dungeon of the campaign and the architecture through which [[The General Below]] attempts to materialize.
 
 ## What It Is
 
 The complex once received armies and reduced service into reusable command: bodies, armor, posture, route memory, drill, office, and residue. It is not a necropolis full of trapped souls and not a gate into the Elemental Shell. Its engines are Giant-crafted recurrence systems aligned to War and Death through Qianglong ideology.
 
 The first present-day recurrence begins without a living mastermind. Sir Gerhold Brandt later accepts its vacant command, allowing the system to classify Grenzburg's dead and defenses as part of its army.
+
+The complex lies beneath a permafrost basin beyond [[Last Hearth]]. Its surface logistics survive as [[Deep Muster Approaches]], whose three roads run north through the Fenn Road, Upper Grenz, and Tuskway. This placement makes the dead march physically credible without making the Muster responsible for the modern road network, Grobi movement, or winter siege.
 
 ## Dungeon Grammar
 
@@ -60,6 +71,21 @@ The General Below must be stopped and the command recurrence broken in every com
 
 No single weapon, companion, faction, or vocation is mandatory. Different closure methods preserve or destroy different knowledge, routes, remains, and reconstruction resources.
 
+## Access Contract
+
+- The public map contains no Deep Muster marker before Act III.
+- The first spring evidence appears at separate outer works rather than revealing the final door immediately.
+- The final Menhir waystone ends outside the Qianglong approach and becomes unreliable during materialization.
+- The Intake Gate, Last Hearth maintenance shaft, and Fen Wound provide distinct finale approaches after campaign preparation.
+- Every completed campaign stops the General Below; floor condition, remains, knowledge, and surviving infrastructure vary.
+
+## Seasonal States
+
+- **Autumn:** buried and unknown; isolated folklore has no confirmed map location.
+- **Winter:** independently cycling beneath frozen ground without directing Ghor or the Drake.
+- **Spring:** outer depots align, residue formations appear, and Gerhold investigates before choosing command.
+- **Summer:** sealed, collapsed, flooded, purified, or partially preserved according to the finale method; never reset for repeat clearing.
+
 ## Public Knowledge
 
 The Deep Muster is not publicly mapped before Act III. Surface communities preserve contradictory stories about marching beneath spring mud, horns heard underground, and old roads that reject discharged soldiers. Exact location and nature remain creator-facing until discovered in play.
@@ -67,6 +93,9 @@ The Deep Muster is not publicly mapped before Act III. Surface communities prese
 ## Navigation
 
 - [[The Unending Muster]]
+- [[Frostfenn March]]
+- [[Deep Muster Approaches]]
+- [[Last Hearth]]
 - [[The General Below]]
 - [[ACT III THE UNENDING MUSTER]]
 - [[Qianglong Caste Recurrences]]

@@ -15,7 +15,7 @@ tags: []
 
 ## First Creative Priority
 
-Build Grenzburg into the setting's first complete video game. Wave 1 is controlled through [[Grenzburg Game Constitution]] and [[Grenzburg Campaign Spine]]; the next approved work is the production worldspace for Grenzburg city and seven connected exterior subregions. Caleran remains the great-city sandbox, but it is not the active implementation priority.
+Build Grenzburg into the setting's first complete video game. The game and worldspace constitutions are now locked through [[Grenzburg Game Constitution]], [[Grenzburg Campaign Spine]], and [[Grenzburg Regional Geography]]. The next production wave is player systems. Caleran remains the great-city sandbox, but it is not the active implementation priority.
 
 ## Current Canon Baseline
 
@@ -23,6 +23,7 @@ Build Grenzburg into the setting's first complete video game. Wave 1 is controll
 - **Map logic:** the known world is southern-hemisphere oriented; south is colder, harsher, and more frontier-bound. Use [[Gazetteer of the Known World]] and [[Geography Atlas]] as the map baseline.
 - **Source truth:** in-world historical accounts are rated in [[Reliability Register]].
 - **Active game:** [[Grenzburg MOC]] is the project doorway. [[Grenzburg Game Constitution]], [[Player Character Constitution]], [[Season and World-State Constitution]], [[Quest and Content Architecture]], [[Companion Constitution]], and [[Factions Overview]] control the full-game rebuild.
+- **Active worldspace:** [[Grenzburg Regional Geography]] controls the twin-walled city, seven exterior regions, physical routes, and map boundary. [[Grenzburg Map Package]] provides creator and player maps; [[Grenzburg Worldspace Location Register]] reserves later content placement.
 - **Great-city sandbox:** [[Caleran Great-City Dossier]] is the production doorway for urban intrigue, archaeology, and occult investigation.
 - **Vault structure:** active reference material uses numbered, subject-owned folders; superseded material is indexed through [[Archive Index]] and the [[Physical Reorganization Manifest]].
 - **Creature canon:** [[Bestiary Framework — Creatures of the World Egg|Bestiary Canon Register]] controls origin-first taxonomy and [[The Image, Soul, and Creaturely Continuity]] controls personhood and persistence. [[Bestiary Translation Concordance]] records the full Pathfinder crosswalk without importing its canon.
@@ -41,9 +42,9 @@ Build Grenzburg into the setting's first complete video game. Wave 1 is controll
 
 ## Next Three Workstreams
 
-1. **Grenzburg worldspace:** lock the city districts, seven exterior subregions, roads, hubs, dungeons, seasonal variants, Fort Tannbruck logistics, Deep Muster approaches, and replacement regional map.
-2. **Grenzburg player systems:** build the six starting vocation dossiers, reversible hybrid progression, trainers, traversal, social formulas, and the Paladin and Binder unlock paths.
-3. **Grenzburg companions and factions:** workshop each new or revised identity with targeted creator questions before canonizing eight companion arcs and five eight-to-ten-quest faction lines.
+1. **Grenzburg player systems:** build the six starting vocation dossiers, reversible hybrid progression, trainers, traversal, social formulas, and the Paladin and Binder unlock paths.
+2. **Grenzburg companions and factions:** workshop each new or revised identity with targeted creator questions before canonizing eight companion arcs and five eight-to-ten-quest faction lines.
+3. **Grenzburg main campaign:** block all twenty-one chapters and two aftermath quests against the locked map, travel, and seasonal rules.
 
 ## Locked Rulings
 
@@ -76,10 +77,11 @@ Build Grenzburg into the setting's first complete video game. Wave 1 is controll
 - Grenzburg's critical path is [[PROLOGUE THE BLACK ROAD|The Black Road]], [[ACT I THE CLOSING ROADS|The Closing Roads]], [[ACT II WINTER'S TEETH|Winter's Teeth]], [[ACT III THE UNENDING MUSTER|The Unending Muster]], and playable [[SUMMER AFTERMATH|summer aftermath]]. The Heart-Stone, Pale-Skins, Leviticus betrayal, and Duke's Peace are retired from the main campaign.
 - Fort Tannbruck always falls, the Emerald Drake is slain, Ghor's organized siege is defeated, Gerhold accepts the Unending Muster without redemption, and the General Below is stopped in every completed campaign. Political power, casualties, debt freedom, companion futures, and settlement survival remain variable; no political ending is setting canon.
 - The field party is the player plus three companions selected from eight full outsider debtors. Four women and four men each receive four personal quests and relationship paths; romance eligibility is heterosexual, while same-sex paths become mechanically equivalent sworn bonds.
+- Grenzburg is a twin-walled city of eight districts joined by one permanent fortified bridge. Its base-game worldspace contains [[Grenz Lowlands]], [[Longlake Country]], [[Wolfsmere Woods]], [[Southwood Barrowlands]], [[Highlake Uplands]], [[Upper Grenz]], and [[Frostfenn March]]. South grows colder, and the River Grenz flows north.
+- Public travel follows roads and water. Seven fixed Road-Key Menhir links serve remote paths without moving mounts, freight, refugees, or armies. Birchcross and Alderway Vale remain outside the base-game atlas.
 
 ## Open Production Questions
 
-- Production-quality Grenzburg subregions, city districts, roads, travel times, hubs, dungeon sites, and seasonal layers.
 - Grenzburg vocation trees, social formulas, progression costs, quest rewards, companion approval, and encounter balance.
 - Names, cultures, debts, vocations, faults, and ending ranges for the four new companions, to be resolved through individual workshops.
 - Leaders, internal futures, services, and eight-to-ten-quest ladders for Grenzburg's five deep faction lines.

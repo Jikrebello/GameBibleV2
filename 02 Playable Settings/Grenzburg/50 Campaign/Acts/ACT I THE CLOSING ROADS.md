@@ -9,7 +9,7 @@ culture: ["Eclessian", "Folk"]
 related_factions: ["Duchy of Grenzburg", "Marcher Vanguard", "Blackjack Corps", "Grobi"]
 appears_in: ["Grenzburg"]
 needs:
-  - fully block chapters 3-8 after the worldspace pass
+  - fully block chapters 3-8 after player systems and faction roles are approved
 aliases: ["ACT I AUTUMN'S HARVEST"]
 tags: [game-ready]
 ---
@@ -34,6 +34,14 @@ Act I introduces the world in layers:
 5. **Open Autumn:** Folk kindreds, warlock craft, residue, deeper dungeons, and faction lines through player-chosen work.
 
 No council scene introduces the complete cast. Important people become memorable by giving or obstructing concrete work.
+
+## Worldspace Use
+
+- [[Grenz Lowlands]] and [[The Funnel]] carry the grounded opening and first public-road problems.
+- [[Grenzburg City Districts Overview|Grenzburg's eight districts]] open after *Warrant at the Gate* and provide parallel urban work.
+- [[Longlake Country]], [[Upper Grenz]], and the public approaches to [[Highlake Uplands]] hold the first settlement and supply chapters.
+- [[Wolfsmere Woods]], [[Southwood Barrowlands]], and deeper Highlake pockets become substantial optional exploration during Open Autumn.
+- [[Fort Tannbruck]] is the fixed act-ending loss. Earlier work determines its evacuation, stores, defenders, intelligence, and later reclaimability.
 
 ## Main Chapters
 

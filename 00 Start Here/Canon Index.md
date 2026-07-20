@@ -64,6 +64,7 @@ Use this as the main doorway into the world bible.
 - ![[Authorial Secrets.base]]
 - ![[Source Reliability.base]]
 - ![[Bestiary Registry.base]]
+- ![[Grenzburg Worldspace.base]]
 
 ## Archive and Provenance
 

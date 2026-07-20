@@ -9,7 +9,7 @@ culture: ["Eclessian", "Folk", "Qianglong"]
 related_factions: ["Duchy of Grenzburg", "Church of the Redeemer", "Folk kindreds"]
 appears_in: ["Grenzburg"]
 needs:
-  - fully block chapters 16-21 and the Deep Muster mega-dungeon after worldspace and systems approval
+  - fully block chapters 16-21 and the Deep Muster mega-dungeon after player systems and the dungeon-layout wave
 aliases: ["ACT III SPRING'S ROOTS"]
 tags: [game-ready]
 ---
@@ -27,9 +27,13 @@ The horror grows through order rather than chaos. Corpses are found standing in 
 
 [[The Deep Muster]] is a Qianglong death-and-war complex built to preserve military service beyond ordinary defeat. Its residue armies are corpse patterns, equipment memory, and command architecture. Human souls have already routed onward.
 
-The complex begins waking before Gerhold acts. Thaw, damaged seals, old infrastructure, and the accumulated availability of war dead permit its commands to recur. The exact first physical trigger will be locked with the worldspace and dungeon layout; it cannot be a secret action by Gerhold, Ghor, the Drake, Bank, Heart-Stone, or Pale-Skins.
+The complex begins waking before Gerhold acts. Thaw, damaged seals, old infrastructure, and the accumulated availability of war dead permit its commands to recur. The precise site-local incident that first makes the recurrence visible remains a campaign-blocking decision; its location and causes are fixed. It cannot be a secret action by Gerhold, Ghor, the Drake, Bank, Heart-Stone, or Pale-Skins.
 
 [[The General Below]] is not a Qianglong general whose soul became a dragon. It is an Abyssal wound that embodies eternal conscription: the refusal to release service even at death. The complex gives that refusal architecture, bodies, hierarchy, and a path into the Material Realm.
+
+## Worldspace Use
+
+Spring begins by reopening [[Upper Grenz]], fallen [[Fort Tannbruck]], damaged Longlake roads, and abandoned holdings. Evidence then converges on [[Frostfenn March]]. The dead march divides along the Fenn Road, Upper Grenz command road, and Tuskway before the player secures [[Deep Muster Approaches]] and enters [[The Deep Muster]].
 
 ## Gerhold's Fall
 

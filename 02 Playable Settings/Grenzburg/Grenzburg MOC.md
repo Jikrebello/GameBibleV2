@@ -28,7 +28,13 @@ Grenzburg is the active game project: a silent-protagonist, party-based open-wor
 | Joinable faction lines | [[Factions Overview]] |
 | Main chapter gates and open-world windows | [[Grenzburg Chapter and Window Matrix]] |
 | Material anchors | [[Grenzburg Numbers and Constraints]] |
-| Physical baseline | [[Grenzburg Regional Geography]] |
+| Physical worldspace authority | [[Grenzburg Regional Geography]] |
+| City districts and access | [[Grenzburg City Districts Overview]] and [[Grenzburg City Adjacency and Access]] |
+| Exterior regions and adjacency | [[Grenzburg Exterior Regions Overview]] |
+| Travel and remote crossings | [[Grenzburg Travel and Road-Key Network]] and [[Road Keys and Menhir Paths]] |
+| Seasonal physical states | [[Grenzburg Seasonal Worldspace Matrix]] |
+| Content placement | [[Grenzburg Worldspace Location Register]] |
+| Production and player maps | [[Grenzburg Map Package]] |
 
 ## Campaign
 
@@ -40,14 +46,21 @@ Grenzburg is the active game project: a silent-protagonist, party-based open-wor
 - [[Accounts of the Living]]
 - [[The First Summer Road]]
 
-## Principal Campaign Places
+## Worldspace
 
 - [[Grenzburg Regional Geography]]
+- [[Grenzburg City Districts Overview]]
+- [[Grenzburg Exterior Regions Overview]]
+- [[Grenzburg Travel and Road-Key Network]]
+- [[Grenzburg Seasonal Worldspace Matrix]]
+- [[Grenzburg Worldspace Location Register]]
+- [[Grenzburg Map Package]]
 - [[Fort Tannbruck]]
 - [[The Deep Muster]]
-- [[Alderway Vale]]
 
-The production map is a Wave 2 deliverable. `Maps/Grenzburg Regional Map v1.png` is a concept reference rather than final authority.
+The base-game atlas contains Grenzburg city and seven exterior regions. [[Birchcross]] and [[Alderway Vale]] remain valid independent-adventure locations outside it.
+
+![[Grenzburg Worldspace.base]]
 
 ## Campaign Threats
 
@@ -112,14 +125,15 @@ The Heart-Stone theft, Pale-Skin conspiracy, mandatory Bank riders, Leviticus be
 
 See [[Grenzburg Pre-Game-Constitution Archive Index]] for the preserved treatment.
 
-## Following Waves
+## Production Sequence
 
-1. **Worldspace:** map, city districts, seven exterior subregions, hubs, roads, dungeons, and seasonal variants.
-2. **Player systems:** vocation dossiers, progression, trainers, traversal, combat and social formulas.
-3. **Companions and factions:** targeted creator questions, then individual canonization.
-4. **Main campaign:** fully block all twenty-one chapters and two aftermath quests.
-5. **Side content:** marquee stories, local quests, dungeons, hunts, contracts, and jobs.
-6. **Integration:** endings, summer states, intersections, production navigation, and final canon checks.
+1. **Game constitution:** complete.
+2. **Worldspace constitution:** complete; later content may fill reserved sites without moving the geography.
+3. **Player systems:** vocation dossiers, progression, trainers, traversal, combat and social formulas.
+4. **Companions and factions:** targeted creator questions, then individual canonization.
+5. **Main campaign:** fully block all twenty-one chapters and two aftermath quests.
+6. **Side content:** marquee stories, local quests, dungeons, hunts, contracts, and jobs.
+7. **Integration:** endings, summer states, intersections, production navigation, and final canon checks.
 
 ## Return
 

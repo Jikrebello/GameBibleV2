@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1200" viewBox="0 0 1800 1200">
+  <defs>
+    <style>
+      .title { font: 700 42px Georgia, serif; fill: #262b2f; }
+      .smallcap { font: 700 15px Arial, sans-serif; fill: #51585d; letter-spacing: 2px; }
+      .land { fill: #eef0e8; stroke: #555d5f; stroke-width: 3; }
+      .forest { fill: #587b60; opacity: .72; }
+      .hill { fill: #969a9b; stroke: #64696a; stroke-width: 2; }
+      .road { fill: none; stroke: #76583e; stroke-width: 6; stroke-linecap: round; }
+      .minor-road { fill: none; stroke: #8a7662; stroke-width: 3; stroke-dasharray: 11 9; }
+      .river { fill: none; stroke: #4c8ca3; stroke-width: 17; stroke-linecap: round; }
+      .water { fill: #a8cfda; stroke: #4c8ca3; stroke-width: 3; }
+      .town { fill: #f8f5e8; stroke: #30383d; stroke-width: 4; }
+      .city { fill: #30383d; stroke: #f8f5e8; stroke-width: 4; }
+      .label { font: 700 19px Georgia, serif; fill: #273037; }
+      .region { font: italic 22px Georgia, serif; fill: #586065; }
+      .note { font: italic 15px Georgia, serif; fill: #5d6263; }
+      .legend { font: 15px Arial, sans-serif; fill: #333a3e; }
+    </style>
+    <pattern id="paper" width="28" height="28" patternUnits="userSpaceOnUse">
+      <rect width="28" height="28" fill="#f6f4ea"/>
+      <path d="M0 7 H28 M0 21 H28" stroke="#c9c5b5" stroke-width=".5" opacity=".35"/>
+    </pattern>
+  </defs>
+
+  <rect width="1800" height="1200" fill="#e4e2d7"/>
+  <rect x="38" y="36" width="1724" height="1128" fill="url(#paper)" stroke="#343b3f" stroke-width="4"/>
+  <text x="90" y="100" class="title">Ducal Survey of the Grenzburg March</text>
+  <text x="94" y="134" class="smallcap">PUBLIC ROADS, SETTLEMENTS, WATERS, AND HIGH COUNTRY - 1360 AR</text>
+
+  <path class="land" d="M120 180 C400 130 780 145 1100 155 C1340 170 1460 300 1450 540 C1440 760 1320 915 1240 1100 L190 1100 C150 935 100 780 120 620 C142 450 85 310 120 180 Z"/>
+
+  <path class="river" d="M835 1110 C845 1010 820 930 850 850 C885 760 825 685 835 610 C845 525 795 470 785 405 C775 340 805 270 780 150"/>
+  <text x="817" y="272" class="note" transform="rotate(-80 817 272)">River Grenz</text>
+  <ellipse class="water" cx="350" cy="555" rx="130" ry="64"/>
+  <text x="300" y="562" class="label">Long Lake</text>
+  <ellipse class="water" cx="1210" cy="625" rx="68" ry="36"/>
+  <text x="1165" y="630" class="label">High Lake</text>
+
+  <g class="forest">
+    <circle cx="185" cy="710" r="18"/><circle cx="230" cy="742" r="22"/><circle cx="285" cy="700" r="17"/><circle cx="345" cy="770" r="22"/><circle cx="205" cy="840" r="20"/><circle cx="300" cy="885" r="24"/>
+    <circle cx="495" cy="750" r="19"/><circle cx="555" cy="710" r="18"/><circle cx="620" cy="760" r="22"/><circle cx="700" cy="725" r="18"/><circle cx="600" cy="875" r="24"/><circle cx="735" cy="890" r="20"/>
+    <circle cx="470" cy="1015" r="18"/><circle cx="560" cy="1060" r="20"/><circle cx="950" cy="1005" r="18"/><circle cx="1050" cy="1040" r="22"/>
+  </g>
+  <g class="hill">
+    <path d="M1110 505 l34 -70 l34 70 z"/><path d="M1190 470 l42 -84 l42 84 z"/><path d="M1280 520 l36 -72 l36 72 z"/>
+    <path d="M1090 700 l34 -70 l34 70 z"/><path d="M1210 760 l44 -90 l44 90 z"/><path d="M1340 690 l36 -72 l36 72 z"/>
+  </g>
+
+  <text x="370" y="225" class="region">Grenz Lowlands</text>
+  <text x="180" y="470" class="region">Longlake Country</text>
+  <text x="150" y="805" class="region">Wolfsmere Woods</text>
+  <text x="500" y="820" class="region">Southwood</text>
+  <text x="1100" y="530" class="region">Highlake Uplands</text>
+  <text x="735" y="535" class="region">Upper Grenz</text>
+  <text x="650" y="1040" class="region">The Frostfenn</text>
+
+  <path class="road" d="M500 150 L575 270 L780 345 L790 420 L820 575 L850 715 L835 980"/>
+  <path class="road" d="M780 345 L575 390 L430 500"/>
+  <path class="road" d="M780 345 L1010 500 L1175 600"/>
+  <path class="minor-road" d="M430 500 L390 690"/>
+  <path class="minor-road" d="M555 785 L700 720 L850 715"/>
+  <path class="minor-road" d="M650 915 L835 980"/>
+  <path class="road" d="M1175 600 L1085 760 L850 715"/>
+
+  <g>
+    <circle class="town" cx="575" cy="270" r="11"/><text x="592" y="276" class="label">The Funnel</text>
+    <rect class="city" x="759" y="324" width="42" height="42" transform="rotate(45 780 345)"/><text x="814" y="352" class="label">Grenzburg</text>
+    <circle class="town" cx="430" cy="500" r="11"/><text x="448" y="506" class="label">Lakewatch</text>
+    <circle class="town" cx="555" cy="785" r="10"/><text x="575" y="790" class="label">Ashfield Lodge</text>
+    <circle class="town" cx="1175" cy="600" r="11"/><text x="1193" y="606" class="label">Highlake</text>
+    <circle class="town" cx="820" cy="575" r="11"/><text x="839" y="581" class="label">Timberfalls</text>
+    <path d="M850 697 l14 14 l-14 14 l-14 -14 z" fill="#5b5050" stroke="#f8f5e8" stroke-width="3"/><text x="870" y="717" class="label">Fort Tannbruck</text>
+    <circle class="town" cx="650" cy="915" r="10"/><text x="490" y="946" class="label">Fenn Road Exchange</text>
+    <circle class="town" cx="835" cy="980" r="10"/><text x="855" y="986" class="label">Last Hearth</text>
+  </g>
+
+  <path d="M740 1090 Q835 1030 930 1090" fill="none" stroke="#6d7476" stroke-width="4" stroke-dasharray="7 8"/>
+  <text x="698" y="1098" class="note">Beyond this line the old survey is incomplete.</text>
+
+  <g transform="translate(1500 220)">
+    <rect x="0" y="0" width="205" height="255" fill="#fbfaf3" stroke="#555d5f" stroke-width="2"/>
+    <text x="20" y="38" class="label">Survey Key</text>
+    <circle class="town" cx="30" cy="75" r="9"/><text x="53" y="81" class="legend">settlement</text>
+    <rect class="city" x="21" y="105" width="18" height="18" transform="rotate(45 30 114)"/><text x="53" y="120" class="legend">walled city</text>
+    <line x1="18" y1="155" x2="45" y2="155" class="road"/><text x="56" y="161" class="legend">maintained road</text>
+    <line x1="18" y1="195" x2="45" y2="195" class="minor-road"/><text x="56" y="201" class="legend">known track</text>
+    <line x1="18" y1="232" x2="45" y2="232" class="river"/><text x="56" y="238" class="legend">water route</text>
+  </g>
+
+  <g transform="translate(1535 790)">
+    <circle cx="70" cy="70" r="54" fill="#fbfaf3" stroke="#30383d" stroke-width="2"/>
+    <path d="M70 8 L82 65 L70 55 L58 65 Z" fill="#30383d"/><text x="63" y="-2" class="label">N</text>
+    <path d="M70 132 L82 75 L70 85 L58 75 Z" fill="#4c8ca3"/><text x="63" y="160" class="label">S</text>
+    <text x="8" y="191" class="smallcap">COLDWARD</text>
+  </g>
+
+  <text x="94" y="1140" class="note">Prepared for the ducal roads office. Unmarked paths, sacred crossings, ruins, and military secrets require local confirmation.</text>
+</svg>

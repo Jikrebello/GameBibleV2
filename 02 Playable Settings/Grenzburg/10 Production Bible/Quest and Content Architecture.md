@@ -9,12 +9,14 @@ culture: []
 related_factions: []
 appears_in: ["Grenzburg"]
 needs:
-  - allocate named quests and job placements after worldspace and faction workshops
+  - allocate named quests and job placements from the Worldspace Location Register after faction workshops
 tags: [game-ready]
 ---
 # Quest and Content Architecture
 
 This note controls what kinds of quests Grenzburg contains, how they enter the campaign, what metadata they carry, and how much content the game budgets. It replaces the old assumption that every meaningful quest requires three factions, a legal device, or a metaphysical twist.
+
+[[Grenzburg Worldspace Location Register]] controls physical placement. A later quest may claim a reserved site and define its cast, encounters, and persistent result; it may not silently move that site or create a disposable duplicate of an existing anchor.
 
 ## The Three Core Quest Experiences
 

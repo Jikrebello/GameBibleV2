@@ -1,0 +1,45 @@
+filters:
+  and:
+    - '!file.inFolder("90 Archive & Drafts")'
+    - '!file.inFolder("99 Templates")'
+    - appears_in.contains("Grenzburg")
+    - map_id != ""
+properties:
+  map_id:
+    displayName: Map ID
+  worldspace_role:
+    displayName: Worldspace Role
+  subregion:
+    displayName: Subregion
+  district:
+    displayName: District
+  map_visibility:
+    displayName: Map Visibility
+  danger_band:
+    displayName: Danger Band
+  travel_services:
+    displayName: Travel Services
+  seasonal_states:
+    displayName: Seasonal States
+  dungeon_scale:
+    displayName: Dungeon Scale
+  needs:
+    displayName: Needs
+views:
+  - type: table
+    name: Grenzburg Worldspace
+    order:
+      - map_id
+      - file.name
+      - worldspace_role
+      - subregion
+      - district
+      - map_visibility
+      - danger_band
+      - travel_services
+      - seasonal_states
+      - dungeon_scale
+      - needs
+    sort:
+      - property: map_id
+        direction: ASC

@@ -1,15 +1,18 @@
 ---
 type: place
-status: canon
-canon_level: local
+status: archived
+canon_level: obsolete
 visibility: restricted
 era: ["Present Day"]
 region: ["Grenzburg", "southern march"]
 culture: ["Eclessian", "Folk"]
 related_factions: ["Duchy of Grenzburg", "Marcher Vanguard"]
 appears_in: ["Grenzburg"]
-needs:
-  - lock exact map coordinates, garrison, civilian population, and fort plan in Wave 2
+needs: []
+archive_reason: preserved before the Wave 2 worldspace constitution
+archived_from: "02 Playable Settings/Grenzburg/20 Region and Locations/Fort Tannbruck.md"
+archived_on: 2026-07-20
+superseded_by: "[[Fort Tannbruck]]"
 tags: [game-ready]
 ---
 # Fort Tannbruck

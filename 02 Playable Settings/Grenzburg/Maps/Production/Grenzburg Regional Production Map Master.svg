@@ -1,0 +1,127 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1200" viewBox="0 0 1800 1200">
+  <defs>
+    <style>
+      .title { font: 700 38px Georgia, serif; fill: #17212b; }
+      .subtitle { font: 18px Arial, sans-serif; fill: #46515b; }
+      .region { stroke: #4e5961; stroke-width: 3; }
+      .region-label { font: 700 23px Georgia, serif; fill: #18242b; }
+      .id { font: 700 14px Arial, sans-serif; fill: #344049; }
+      .place { font: 700 17px Arial, sans-serif; fill: #18242b; }
+      .minor { font: 14px Arial, sans-serif; fill: #344049; }
+      .road { fill: none; stroke: #694d37; stroke-width: 6; stroke-linecap: round; }
+      .minor-road { fill: none; stroke: #806a55; stroke-width: 3; stroke-dasharray: 10 8; }
+      .river { fill: none; stroke: #337e9c; stroke-width: 16; stroke-linecap: round; }
+      .water { fill: #8ec5d8; stroke: #337e9c; stroke-width: 3; }
+      .hub { fill: #f7f4e7; stroke: #202b33; stroke-width: 4; }
+      .dungeon { fill: #9d3f3f; stroke: #f7f4e7; stroke-width: 3; }
+      .hidden { fill: #6b3f78; stroke: #f7f4e7; stroke-width: 3; }
+      .forest { fill: #315f46; opacity: .72; }
+      .mount { fill: #777d84; stroke: #4b5157; stroke-width: 2; }
+      .legend { font: 15px Arial, sans-serif; fill: #26323a; }
+      .note { font: italic 14px Georgia, serif; fill: #4a535a; }
+    </style>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="3" stdDeviation="4" flood-opacity=".22"/>
+    </filter>
+  </defs>
+
+  <rect width="1800" height="1200" fill="#e9ede8"/>
+  <rect x="38" y="36" width="1724" height="1128" fill="#f7f8f3" stroke="#27323a" stroke-width="4"/>
+  <text x="82" y="92" class="title">Grenzburg March: Production Worldspace</text>
+  <text x="84" y="124" class="subtitle">Creator authority - 1360 AR - south is colder - River Grenz flows north</text>
+
+  <g filter="url(#shadow)">
+    <path class="region" fill="#d9e7bd" d="M250 165 L1050 145 L1260 280 L1120 405 L820 430 L590 445 L255 340 Z"/>
+    <path class="region" fill="#b9d9d8" d="M255 340 L590 445 L585 625 L430 735 L155 670 L130 450 Z"/>
+    <path class="region" fill="#8eb49a" d="M155 670 L430 735 L510 925 L305 1065 L105 875 Z"/>
+    <path class="region" fill="#b7c790" d="M430 735 L585 625 L790 665 L855 865 L665 1040 L510 925 Z"/>
+    <path class="region" fill="#b8b7c9" d="M1030 410 L1260 280 L1410 405 L1375 785 L1190 920 L1010 790 Z"/>
+    <path class="region" fill="#d3bd91" d="M590 445 L820 430 L1030 410 L1010 790 L855 865 L790 665 L585 625 Z"/>
+    <path class="region" fill="#c6d4dc" d="M305 1065 L510 925 L665 1040 L855 865 L1010 790 L1190 920 L1310 1100 L330 1100 Z"/>
+  </g>
+
+  <text x="360" y="225" class="region-label">GRENZ LOWLANDS</text><text x="360" y="250" class="id">GR-1</text>
+  <text x="195" y="470" class="region-label">LONGLAKE COUNTRY</text><text x="195" y="495" class="id">GR-2</text>
+  <text x="145" y="800" class="region-label">WOLFSMERE WOODS</text><text x="145" y="825" class="id">GR-3</text>
+  <text x="475" y="745" class="region-label">SOUTHWOOD</text><text x="500" y="772" class="region-label">BARROWLANDS</text><text x="475" y="798" class="id">GR-4</text>
+  <text x="1085" y="520" class="region-label">HIGHLAKE UPLANDS</text><text x="1085" y="545" class="id">GR-5</text>
+  <text x="740" y="535" class="region-label">UPPER GRENZ</text><text x="740" y="560" class="id">GR-6</text>
+  <text x="690" y="1010" class="region-label">FROSTFENN MARCH</text><text x="690" y="1035" class="id">GR-7</text>
+
+  <path class="river" d="M835 1110 C845 1020 820 930 850 850 C885 760 825 685 835 610 C845 525 795 470 785 405 C775 340 805 270 780 150"/>
+  <text x="858" y="315" class="minor" transform="rotate(-81 858 315)">RIVER GRENZ</text>
+  <ellipse class="water" cx="350" cy="555" rx="128" ry="62"/>
+  <text x="300" y="562" class="place">Long Lake</text>
+  <ellipse class="water" cx="1210" cy="625" rx="66" ry="35"/>
+  <text x="1170" y="630" class="minor">High Lake</text>
+
+  <g class="forest">
+    <circle cx="185" cy="710" r="18"/><circle cx="230" cy="742" r="22"/><circle cx="285" cy="700" r="17"/><circle cx="345" cy="770" r="22"/><circle cx="205" cy="840" r="20"/><circle cx="300" cy="885" r="24"/>
+    <circle cx="495" cy="750" r="19"/><circle cx="555" cy="710" r="18"/><circle cx="620" cy="760" r="22"/><circle cx="700" cy="725" r="18"/><circle cx="600" cy="875" r="24"/><circle cx="735" cy="890" r="20"/>
+    <circle cx="480" cy="1025" r="16"/><circle cx="560" cy="1060" r="20"/><circle cx="950" cy="1000" r="18"/><circle cx="1050" cy="1035" r="22"/>
+  </g>
+  <g class="mount">
+    <path d="M1120 500 l32 -65 l32 65 z"/><path d="M1190 470 l40 -80 l40 80 z"/><path d="M1280 520 l36 -72 l36 72 z"/>
+    <path d="M1090 700 l34 -70 l34 70 z"/><path d="M1210 760 l44 -90 l44 90 z"/><path d="M1340 690 l36 -72 l36 72 z"/>
+  </g>
+
+  <path class="road" d="M500 150 L575 270 L780 345 L790 420 L820 575 L855 715 L850 845 L835 980 L830 1085"/>
+  <path class="road" d="M780 345 L575 390 L430 500"/>
+  <path class="road" d="M780 345 L1010 500 L1175 600"/>
+  <path class="road" d="M430 500 L390 690"/>
+  <path class="minor-road" d="M390 690 L555 785 L700 720 L850 845"/>
+  <path class="minor-road" d="M700 720 L650 915 L830 1085"/>
+  <path class="road" d="M1175 600 L1085 760 L850 845"/>
+  <path class="minor-road" d="M1085 760 L1110 920 L830 1085"/>
+
+  <g>
+    <circle class="hub" cx="575" cy="270" r="12"/><text x="594" y="250" class="place">The Funnel</text>
+    <rect x="759" y="324" width="42" height="42" fill="#26323a" stroke="#f7f4e7" stroke-width="4" transform="rotate(45 780 345)"/><text x="813" y="350" class="place">Grenzburg</text>
+    <circle class="hub" cx="430" cy="500" r="12"/><text x="446" y="505" class="place">Lakewatch</text>
+    <circle class="hub" cx="390" cy="690" r="12"/><text x="405" y="685" class="place">Moss-Crown Mootground</text>
+    <circle class="hub" cx="555" cy="785" r="12"/><text x="572" y="815" class="place">Ashfield Lodge</text>
+    <circle class="hub" cx="1175" cy="600" r="12"/><text x="1192" y="604" class="place">Highlake</text>
+    <circle class="hub" cx="820" cy="575" r="12"/><text x="838" y="580" class="place">Timberfalls</text>
+    <circle class="hub" cx="850" cy="715" r="12"/><text x="868" y="719" class="place">Fort Tannbruck</text>
+    <circle class="hub" cx="650" cy="915" r="12"/><text x="520" y="944" class="place">Fenn Road Exchange</text>
+    <circle class="hub" cx="835" cy="980" r="12"/><text x="852" y="986" class="place">Last Hearth</text>
+  </g>
+
+  <g>
+    <rect class="dungeon" x="650" y="285" width="16" height="16" transform="rotate(45 658 293)"/><text x="612" y="320" class="minor">Broken Tollworks</text>
+    <rect class="dungeon" x="290" y="615" width="16" height="16" transform="rotate(45 298 623)"/><text x="180" y="647" class="minor">Sunken Causeway</text>
+    <rect class="dungeon" x="250" y="835" width="16" height="16" transform="rotate(45 258 843)"/><text x="276" y="849" class="minor">Bellless Hold</text>
+    <rect class="dungeon" x="690" y="825" width="16" height="16" transform="rotate(45 698 833)"/><text x="715" y="839" class="minor">Emerald Drake Range</text>
+    <rect class="hidden" x="540" y="900" width="16" height="16" transform="rotate(45 548 908)"/><text x="365" y="894" class="minor">First Chieftain Barrow</text>
+    <rect class="dungeon" x="1260" y="645" width="16" height="16" transform="rotate(45 1268 653)"/><text x="1180" y="682" class="minor">Cold-Iron Deeps</text>
+    <rect class="dungeon" x="900" y="625" width="16" height="16" transform="rotate(45 908 633)"/><text x="926" y="638" class="minor">Old River Arsenal</text>
+    <rect class="hidden" x="824" y="1060" width="18" height="18" transform="rotate(45 833 1069)"/><text x="858" y="1075" class="place">Deep Muster</text>
+  </g>
+
+  <g transform="translate(1420 170)">
+    <rect x="0" y="0" width="300" height="565" fill="#ffffff" stroke="#59636a" stroke-width="2"/>
+    <text x="22" y="38" class="place">Production Key</text>
+    <circle class="hub" cx="30" cy="78" r="10"/><text x="52" y="84" class="legend">regional hub</text>
+    <rect x="20" y="112" width="18" height="18" fill="#26323a" transform="rotate(45 29 121)"/><text x="52" y="127" class="legend">Grenzburg city</text>
+    <rect class="dungeon" x="21" y="156" width="16" height="16" transform="rotate(45 29 164)"/><text x="52" y="170" class="legend">major space</text>
+    <rect class="hidden" x="21" y="198" width="16" height="16" transform="rotate(45 29 206)"/><text x="52" y="212" class="legend">author-only site</text>
+    <line x1="18" y1="250" x2="45" y2="250" class="road"/><text x="58" y="256" class="legend">public / military road</text>
+    <line x1="18" y1="292" x2="45" y2="292" class="minor-road"/><text x="58" y="298" class="legend">path or ancient trace</text>
+    <line x1="18" y1="334" x2="45" y2="334" class="river"/><text x="58" y="340" class="legend">river / navigable water</text>
+    <text x="22" y="390" class="legend">Danger trend</text>
+    <rect x="22" y="410" width="45" height="18" fill="#d9e7bd"/><rect x="67" y="410" width="45" height="18" fill="#b7c790"/><rect x="112" y="410" width="45" height="18" fill="#c6d4dc"/><rect x="157" y="410" width="45" height="18" fill="#9fb4c2"/>
+    <text x="22" y="453" class="legend">north: broadly manageable</text>
+    <text x="22" y="477" class="legend">south: severe cold and</text>
+    <text x="22" y="499" class="legend">dangerous early pockets</text>
+    <text x="22" y="543" class="note">Not a political border map.</text>
+  </g>
+
+  <g transform="translate(1510 810)">
+    <circle cx="70" cy="70" r="54" fill="#fff" stroke="#26323a" stroke-width="2"/>
+    <path d="M70 8 L82 65 L70 55 L58 65 Z" fill="#26323a"/><text x="63" y="-2" class="place">N</text>
+    <path d="M70 132 L82 75 L70 85 L58 75 Z" fill="#337e9c"/><text x="63" y="160" class="place">S</text>
+    <text x="4" y="190" class="legend">COLDER SOUTH</text>
+  </g>
+
+  <text x="84" y="1140" class="note">Map authority: Grenzburg Regional Geography. Birchcross and Alderway Vale are intentionally outside this base-game sheet.</text>
+</svg>

@@ -9,7 +9,7 @@ culture: ["Eclessian", "Folk"]
 related_factions: ["Duchy of Grenzburg", "Blackjack Corps", "Medori Bank", "Church of the Redeemer", "Folk kindreds", "Grobi"]
 appears_in: ["Grenzburg"]
 needs:
-  - fully block all twenty-one chapters in Wave 4 after worldspace, systems, companions, and factions are approved
+  - fully block all twenty-one chapters after player systems, companions, and factions are approved
 aliases: ["Three-Act Overview"]
 tags: [game-ready]
 ---
@@ -35,6 +35,12 @@ The campaign's principal pressures converge but do not share a mastermind.
 | General Below | A unique Abyssal wound embodying eternal conscription and refusal to release service at death. | Uses the completed Muster and Gerhold's command as conditions for materialization. |
 
 Pale-Skins, the Heart-Stone, the Medori Bank, and Ghor do not cause the Deep Muster.
+
+## Worldspace Spine
+
+[[Grenzburg Regional Geography]] fixes the campaign's physical logic. The prologue descends through [[Grenz Lowlands]] and [[The Funnel]]; autumn opens the city and near frontier before the fixed fall of [[Fort Tannbruck]]; winter alternates between the eight city districts, the [[Emerald Drake Range]], and the Upper Grenz and Tuskway fronts; spring reclaims those roads before converging through [[Frostfenn March]] and [[Deep Muster Approaches]].
+
+The Fenn Road, Upper Grenz road, and Tuskway are three distinct Act III march corridors. This makes the final crisis regional without treating the Muster as the cause of earlier dangers.
 
 ## Story Shape
 

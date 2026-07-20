@@ -90,17 +90,11 @@ The final Deep Dragon should feel impossible in Act I because the player has not
 
 ## Worldspace Contract
 
-Wave 2 will lock borders, routes, hubs, and names. Wave 1 fixes the playable functions of seven exterior subregions:
+[[Grenzburg Regional Geography]] fixes the borders, routes, hubs, names, and southward climate of one contiguous region. Grenzburg's eight city districts and seven exterior regions are controlled through [[Grenzburg City Districts Overview]] and [[Grenzburg Exterior Regions Overview]].
 
-1. the Northern Road and autumn Funnel;
-2. the western lake country and Chapel-Folk roads;
-3. Wolfsmere and its forest kindreds;
-4. the Southwood and old barrow country;
-5. the Highlake uplands and Tuskway approaches;
-6. Timberfalls and the upper River Grenz;
-7. the Fenn Road and deep southern march.
+The exterior regions are [[Grenz Lowlands]], [[Longlake Country]], [[Wolfsmere Woods]], [[Southwood Barrowlands]], [[Highlake Uplands]], [[Upper Grenz]], and [[Frostfenn March]]. Each has a service hub, traversal identity, signature space, seasonal states, faction reservations, and reasons to return. [[Grenzburg Worldspace Location Register]] reserves the supporting content budget without prematurely assigning quests or outcomes.
 
-Each subregion requires a settlement or service hub, a strong visual identity, a principal traversal problem, at least one major dungeon, seasonal changes, faction presence, and reasons to return after its first main-story use.
+Public roads, water travel, and fixed local Menhir links are controlled by [[Grenzburg Travel and Road-Key Network]]. Every critical route remains usable by every vocation.
 
 ## Content Budget
 

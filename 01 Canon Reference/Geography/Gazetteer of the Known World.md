@@ -52,9 +52,11 @@ Eastern Brauvalis contains [[Wanemoor District]], where wooded iron and timber h
 
 In central Brauvalis, [[Hellerbruck]] is a prosperous Weiss crossing known for breweries, ceramics, limestone, and bell-founding. Its high quarry rises into the ruined ridge-fort of Dame Sabine Heller and an old protected court-site. Public maps should not assume the result of [[The Drake's Demand — Full Adventure]].
 
-West-northwest of Grenzburg and north of Wolfsmere, [[Alderway Vale]] forms a possible relief corridor toward Dornwatch and the Brauvalian road network. [[Fort Alderwatch]] stands over the half-built ducal project. Its final alignment and completion remain unsettled; maps should not assume an outcome for [[The Duke's Road — Full Adventure]].
+[[Grenzburg Regional Geography|Grenzburg's base-game march]] centers on a twin-walled city at the last dependable permanent bridge over the north-flowing River Grenz. Seven exterior regions fan south from the warmer [[Grenz Lowlands]] through [[Longlake Country]], [[Wolfsmere Woods]], [[Southwood Barrowlands]], [[Highlake Uplands]], and [[Upper Grenz]] into the far colder [[Frostfenn March]]. Lakewatch, Highlake, Timberfalls, Fort Tannbruck, and the Funnel are public anchors; the Deep Muster and hidden barrow sites do not appear on ordinary surveys.
 
-One day's travel west of Grenzburg on the Lakewatch road, [[Birchcross]] is a Chapel-Folk mill and refuge hamlet where the modern road crosses an abandoned Atherian spur. [[First Shelter Watch-Barrow]] lies half a day farther west. Public maps should show the hamlet and overgrown spur without recording an outcome for [[The First Writ — Full Adventure]] or disclosing the imperial stair beneath the barrow.
+West-northwest of the base-game march and north of Wolfsmere, [[Alderway Vale]] forms a possible relief corridor toward Dornwatch and the Brauvalian road network. [[Fort Alderwatch]] stands over the half-built ducal project. Its final alignment and completion remain unsettled; maps should not assume an outcome for [[The Duke's Road — Full Adventure]]. The vale lies outside Grenzburg's base-game player atlas.
+
+Beyond the western edge of the base-game atlas, [[Birchcross]] is a Chapel-Folk mill and refuge hamlet where the wider Lakewatch road crosses an abandoned Atherian spur. [[First Shelter Watch-Barrow]] lies half a day farther west. Dedicated adventure maps may show the hamlet and overgrown spur without recording an outcome for [[The First Writ — Full Adventure]] or disclosing the imperial stair beneath the barrow.
 
 ### The Folk Lands and the Deep South
 
@@ -81,7 +83,7 @@ Thalmyrica/Covenant: the desert edge and the western strait, a frontier of forts
 
 ## Map Work Remaining
 
-Pilgrimage roads and the Via Celestis drawn as routes; thin-space and Shell-scar layer; the four Caliphate internal borders; Eclessian duchy boundaries; and a production Grenzburg game map covering its city, seven exterior subregions, roads, settlements, dungeons, and seasonal corridors.
+Pilgrimage roads and the Via Celestis drawn as routes; thin-space and Shell-scar layer; the four Caliphate internal borders; Eclessian duchy boundaries; and the remaining regional surveys outside the completed [[Grenzburg Map Package]].
 
 ## Navigation
 

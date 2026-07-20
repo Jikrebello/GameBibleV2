@@ -9,7 +9,8 @@ culture: []
 related_factions: []
 appears_in: ["Grenzburg"]
 needs:
-  - divide regional industry actors among local, faction, and marquee quest ownership in the worldspace pass
+  - reconcile the named industry actors with the new faction constitution and assign them to faction, marquee, or local quest ownership
+  - place operations through Hammer Ward, Timberfalls and Fellwater, Highlake and Cold-Iron, and bounded Southwood work sites
 tags: []
 ---
 ### **The Frontier Industry Lords (Vassals & Guild Masters)**

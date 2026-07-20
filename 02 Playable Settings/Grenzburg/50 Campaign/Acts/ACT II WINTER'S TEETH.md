@@ -9,7 +9,7 @@ culture: ["Eclessian", "Folk"]
 related_factions: ["Duchy of Grenzburg", "Church of the Redeemer", "Medori Bank", "Grenzburg underworld", "Grobi"]
 appears_in: ["Grenzburg"]
 needs:
-  - fully block chapters 9-15 and the Emerald Drake hunt after worldspace and faction approval
+  - fully block chapters 9-15 and the Emerald Drake hunt after player systems and faction approval
 tags: [game-ready]
 ---
 # Act II: Winter's Teeth
@@ -21,6 +21,10 @@ Act II contracts the world without making it small. Grenzburg becomes denser, mo
 The city is crowded, cold, hungry, loud, and intensely alive. Workshops run at night, shrines fill, ration lines form, smugglers prosper, soldiers rotate from the walls, refugees improvise neighborhoods, and every institution argues that its emergency powers are necessary.
 
 Outside the walls, distance matters. Snow buries roads, frozen rivers create new routes, tracks become information, storms isolate camps, and familiar places acquire new hazards. Winter exploration should feel harsher and more intentional, not simply slower.
+
+## Worldspace Use
+
+The urban strand rotates through the eight districts, Bridgehold, walls, rooftops, and selected underways. The hunt leaves through [[Ashfield Lodge]] and follows the [[Emerald Drake Range]] in [[Southwood Barrowlands]]. Shock operations use [[Upper Grenz]], the Tuskway edge of [[Highlake Uplands]], and the approaches to fallen [[Fort Tannbruck]]. [[Grenzburg Seasonal Worldspace Matrix]] controls which services and crossings survive between sorties.
 
 ## Three Equal Main Strands
 

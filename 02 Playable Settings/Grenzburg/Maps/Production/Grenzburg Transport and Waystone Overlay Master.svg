@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1200" viewBox="0 0 1800 1200">
+  <defs>
+    <style>
+      .title { font: 700 38px Georgia, serif; fill: #17212b; }
+      .subtitle { font: 17px Arial, sans-serif; fill: #4b555c; }
+      .region { fill: #dce2dd; stroke: #8a9293; stroke-width: 2; }
+      .region-label { font: italic 19px Georgia, serif; fill: #697174; }
+      .road { fill: none; stroke: #694d37; stroke-width: 8; stroke-linecap: round; }
+      .river { fill: none; stroke: #337e9c; stroke-width: 18; stroke-linecap: round; }
+      .ferry { fill: none; stroke: #337e9c; stroke-width: 6; stroke-dasharray: 12 8; }
+      .sled { fill: none; stroke: #70a9b6; stroke-width: 5; stroke-dasharray: 4 10; }
+      .way { fill: none; stroke: #7a3f82; stroke-width: 6; stroke-dasharray: 8 7; }
+      .node { fill: #fff; stroke: #26333a; stroke-width: 4; }
+      .key { fill: #7a3f82; stroke: #fff; stroke-width: 2; }
+      .label { font: 700 16px Arial, sans-serif; fill: #202b32; }
+      .id { font: 700 13px Arial, sans-serif; fill: #7a3f82; }
+      .legend { font: 15px Arial, sans-serif; fill: #29343a; }
+      .note { font: italic 14px Georgia, serif; fill: #4d575c; }
+    </style>
+  </defs>
+  <rect width="1800" height="1200" fill="#e9ede8"/>
+  <rect x="38" y="36" width="1724" height="1128" fill="#f7f8f3" stroke="#27323a" stroke-width="4"/>
+  <text x="82" y="92" class="title">Grenzburg Transport and Road-Key Overlay</text>
+  <text x="84" y="124" class="subtitle">Physical services and seven fixed neighboring Menhir links - no arbitrary fast travel</text>
+
+  <g opacity=".82">
+    <path class="region" d="M250 165 L1050 145 L1260 280 L1120 405 L820 430 L590 445 L255 340 Z"/>
+    <path class="region" d="M255 340 L590 445 L585 625 L430 735 L155 670 L130 450 Z"/>
+    <path class="region" d="M155 670 L430 735 L510 925 L305 1065 L105 875 Z"/>
+    <path class="region" d="M430 735 L585 625 L790 665 L855 865 L665 1040 L510 925 Z"/>
+    <path class="region" d="M1030 410 L1260 280 L1410 405 L1375 785 L1190 920 L1010 790 Z"/>
+    <path class="region" d="M590 445 L820 430 L1030 410 L1010 790 L855 865 L790 665 L585 625 Z"/>
+    <path class="region" d="M305 1065 L510 925 L665 1040 L855 865 L1010 790 L1190 920 L1310 1100 L330 1100 Z"/>
+  </g>
+  <text x="350" y="225" class="region-label">Grenz Lowlands</text>
+  <text x="185" y="470" class="region-label">Longlake</text>
+  <text x="145" y="795" class="region-label">Wolfsmere</text>
+  <text x="500" y="810" class="region-label">Southwood</text>
+  <text x="1090" y="510" class="region-label">Highlake</text>
+  <text x="755" y="530" class="region-label">Upper Grenz</text>
+  <text x="670" y="1030" class="region-label">Frostfenn</text>
+
+  <path class="river" d="M835 1110 C845 1020 820 930 850 850 C885 760 825 685 835 610 C845 525 795 470 785 405 C775 340 805 270 780 150"/>
+  <path class="road" d="M500 150 L575 270 L780 345 L820 575 L850 715 L835 980"/>
+  <path class="road" d="M780 345 L430 500"/>
+  <path class="road" d="M780 345 L1175 600 L1085 760 L850 715"/>
+  <path class="ferry" d="M430 500 C390 525 350 545 300 555"/>
+  <path class="ferry" d="M780 345 C770 410 805 480 820 575"/>
+  <path class="sled" d="M780 345 L430 500 L390 690"/>
+  <path class="sled" d="M780 345 L820 575 L850 715 L650 915 L835 980"/>
+
+  <g>
+    <circle class="node" cx="575" cy="270" r="11"/><text x="592" y="276" class="label">Funnel</text>
+    <rect x="762" y="327" width="36" height="36" fill="#26333a" transform="rotate(45 780 345)"/><text x="812" y="351" class="label">Grenzburg</text>
+    <circle class="node" cx="430" cy="500" r="11"/><text x="446" y="506" class="label">Lakewatch</text>
+    <circle class="node" cx="390" cy="690" r="11"/><text x="406" y="685" class="label">Moss-Crown</text>
+    <circle class="node" cx="555" cy="785" r="11"/><text x="572" y="780" class="label">Ashfield</text>
+    <circle class="node" cx="1175" cy="600" r="11"/><text x="1192" y="606" class="label">Highlake</text>
+    <circle class="node" cx="820" cy="575" r="11"/><text x="838" y="581" class="label">Timberfalls</text>
+    <circle class="node" cx="850" cy="715" r="11"/><text x="868" y="720" class="label">Tannbruck</text>
+    <circle class="node" cx="650" cy="915" r="11"/><text x="492" y="944" class="label">Fenn Exchange</text>
+    <circle class="node" cx="835" cy="980" r="11"/><text x="852" y="986" class="label">Last Hearth</text>
+  </g>
+
+  <g>
+    <path class="way" d="M430 500 L330 650"/><path class="key" d="M330 641 l9 9 l-9 9 l-9 -9 z"/><text x="345" y="630" class="id">WK-1 Grey-Withy</text>
+    <path class="way" d="M330 650 L390 690"/><path class="key" d="M390 681 l9 9 l-9 9 l-9 -9 z"/><text x="400" y="711" class="id">WK-2</text>
+    <path class="way" d="M555 785 L700 825"/><path class="key" d="M700 816 l9 9 l-9 9 l-9 -9 z"/><text x="716" y="831" class="id">WK-3 Drake Ridge</text>
+    <path class="way" d="M1175 600 L1080 700"/><path class="key" d="M1080 691 l9 9 l-9 9 l-9 -9 z"/><text x="1045" y="748" class="id">WK-4 Ghost-Foot</text>
+    <path class="way" d="M1175 600 L1310 680"/><path class="key" d="M1310 671 l9 9 l-9 9 l-9 -9 z"/><text x="1326" y="686" class="id">WK-5 High Tuskway</text>
+    <path class="way" d="M650 915 L835 980"/><text x="705" y="930" class="id">WK-6</text>
+    <path class="way" d="M835 980 L830 1080"/><path class="key" d="M830 1071 l9 9 l-9 9 l-9 -9 z"/><text x="846" y="1086" class="id">WK-7 Muster Approach</text>
+  </g>
+
+  <g transform="translate(1415 180)">
+    <rect x="0" y="0" width="305" height="430" fill="#fff" stroke="#59636a" stroke-width="2"/>
+    <text x="20" y="38" class="label">Network Key</text>
+    <line x1="18" y1="78" x2="52" y2="78" class="road"/><text x="65" y="84" class="legend">carriage / ox-cart</text>
+    <line x1="18" y1="125" x2="52" y2="125" class="river"/><text x="65" y="131" class="legend">riverboat route</text>
+    <line x1="18" y1="172" x2="52" y2="172" class="ferry"/><text x="65" y="178" class="legend">ferry link</text>
+    <line x1="18" y1="219" x2="52" y2="219" class="sled"/><text x="65" y="225" class="legend">winter sled service</text>
+    <line x1="18" y1="266" x2="52" y2="266" class="way"/><text x="65" y="272" class="legend">fixed Menhir pair</text>
+    <path class="key" d="M35 303 l9 9 l-9 9 l-9 -9 z"/><text x="65" y="318" class="legend">remote endpoint</text>
+    <text x="20" y="360" class="legend">Every endpoint must be</text>
+    <text x="20" y="382" class="legend">discovered and stabilized.</text>
+    <text x="20" y="410" class="note">One Road Key per crossing.</text>
+  </g>
+
+  <text x="84" y="1142" class="note">A crossing carries the player, three companions, and normal equipment only. It never moves carts, freight, refugees, mounts, or armies.</text>
+</svg>

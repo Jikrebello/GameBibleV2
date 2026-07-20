@@ -9,7 +9,16 @@ culture: ["Grenzburger", "Folk", "Chapel-Folk"]
 related_factions: ["Alder-Crossing Clan", "Duchy of Grenzburg"]
 appears_in: ["The Duke's Road"]
 needs:
-  - fix the final road alignment on the next Grenzburg regional map without selecting an adventure outcome
+  - prepare a dedicated adventure map when The Duke's Road enters production; do not select a road outcome
+map_id: "DR-ALDERWAY"
+worldspace_role: subregion
+subregion: "Alderway Vale"
+district: ""
+map_visibility: author-only
+danger_band: moderate
+travel_services: [ox-cart]
+seasonal_states: [autumn, winter, spring, summer]
+dungeon_scale: none
 tags: [game-ready]
 ---
 # Alderway Vale
@@ -26,7 +35,7 @@ Three lines through the vale are physically possible:
 - a river-bend way follows firm gravel around the glen but requires bridges, retaining works, and negotiated passage;
 - a northern ridge line avoids the sanctuary and the floodplain at the cost of hard grades and a longer construction season.
 
-None is yet the settled public road. Maps should show the project and [[Fort Alderwatch]], not a completed alignment.
+None is yet the settled public road. A future *Duke's Road* production map should show the project and [[Fort Alderwatch]], not a completed alignment. Alderway remains outside Grenzburg's base-game atlas.
 
 ## People and Rights
 
@@ -50,7 +59,6 @@ Workers have opened several miles of grade, repaired the old ford, and establish
 
 ## Navigation
 
-- [[Grenzburg Regional Geography]]
 - [[Alder-Crossing Clan]]
 - [[Fort Alderwatch]]
 - [[Still-Hearth Glen]]

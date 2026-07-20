@@ -51,7 +51,7 @@ tags: []
 
 - [[The Idols Overview]]
 - [[The Mythology of the Idols]]
-- [[The Hidden Virtuous Aspects of the Idols]]
+- [[The Counter-Countenances of the Idols|The Hidden Virtuous Aspects of the Idols]]
 - [[Relationships within the Menhir]]
 - [[The Mythology of The Menhir]]
 - [[The Second Circle]]

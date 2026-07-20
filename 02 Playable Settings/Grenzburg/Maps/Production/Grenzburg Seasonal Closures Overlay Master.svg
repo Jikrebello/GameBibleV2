@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1200" viewBox="0 0 1800 1200">
+  <defs>
+    <style>
+      .title { font: 700 38px Georgia, serif; fill: #17212b; }
+      .subtitle { font: 17px Arial, sans-serif; fill: #4b555c; }
+      .season { font: 700 27px Georgia, serif; fill: #202a31; }
+      .panel { fill: #f8f9f5; stroke: #59636a; stroke-width: 3; }
+      .route { fill: none; stroke-width: 7; stroke-linecap: round; }
+      .open { stroke: #3e8157; }
+      .conditional { stroke: #c0832f; stroke-dasharray: 10 7; }
+      .closed { stroke: #a64343; stroke-dasharray: 5 8; }
+      .water { stroke: #3f82a0; }
+      .node { fill: #fff; stroke: #27323a; stroke-width: 3; }
+      .label { font: 700 14px Arial, sans-serif; fill: #263139; }
+      .detail { font: 14px Arial, sans-serif; fill: #475158; }
+      .legend { font: 15px Arial, sans-serif; fill: #28333a; }
+      .note { font: italic 14px Georgia, serif; fill: #515a60; }
+    </style>
+  </defs>
+  <rect width="1800" height="1200" fill="#e9ede8"/>
+  <rect x="38" y="36" width="1724" height="1128" fill="#f4f6f2" stroke="#27323a" stroke-width="4"/>
+  <text x="82" y="90" class="title">Grenzburg Seasonal Route-State Overlay</text>
+  <text x="84" y="122" class="subtitle">Open, conditional, and closed movement by season; exact outcomes still depend on settlement and campaign state</text>
+
+  <g transform="translate(80 160)">
+    <rect class="panel" width="790" height="430"/>
+    <text x="30" y="45" class="season">AUTUMN - Closing Roads</text>
+    <path class="route open" d="M120 80 L265 135 L395 180 L430 265 L455 350"/>
+    <path class="route open" d="M395 180 L190 230 L150 330"/>
+    <path class="route open" d="M395 180 L610 230 L570 315 L455 350"/>
+    <path class="route conditional" d="M150 330 L300 350 L455 350"/>
+    <path class="route water" d="M405 390 C430 320 410 250 395 180 C380 130 395 95 380 65"/>
+    <circle class="node" cx="265" cy="135" r="9"/><text x="280" y="140" class="label">Funnel</text>
+    <rect x="385" y="170" width="20" height="20" fill="#27323a" transform="rotate(45 395 180)"/><text x="415" y="184" class="label">City</text>
+    <circle class="node" cx="190" cy="230" r="9"/><text x="125" y="218" class="label">Lakewatch</text>
+    <circle class="node" cx="610" cy="230" r="9"/><text x="627" y="235" class="label">Highlake</text>
+    <circle class="node" cx="430" cy="265" r="9"/><text x="447" y="270" class="label">Timberfalls</text>
+    <circle class="node" cx="455" cy="350" r="9"/><text x="472" y="355" class="label">Tannbruck</text>
+    <text x="520" y="395" class="detail">Most services run.</text>
+    <text x="520" y="415" class="detail">High paths begin closing.</text>
+  </g>
+
+  <g transform="translate(930 160)">
+    <rect class="panel" width="790" height="430"/>
+    <text x="30" y="45" class="season">WINTER - Siege and Ice</text>
+    <path class="route open" d="M120 80 L265 135 L395 180"/>
+    <path class="route open" d="M395 180 L190 230 L150 330"/>
+    <path class="route conditional" d="M395 180 L610 230 L570 315"/>
+    <path class="route closed" d="M395 180 L430 265 L455 350"/>
+    <path class="route conditional" d="M150 330 L300 350 L455 350"/>
+    <path class="route closed" d="M405 390 C430 320 410 250 395 180 C380 130 395 95 380 65"/>
+    <circle class="node" cx="265" cy="135" r="9"/><text x="280" y="140" class="label">Funnel</text>
+    <rect x="385" y="170" width="20" height="20" fill="#27323a" transform="rotate(45 395 180)"/><text x="415" y="184" class="label">City</text>
+    <circle class="node" cx="190" cy="230" r="9"/><text x="125" y="218" class="label">Lakewatch</text>
+    <circle class="node" cx="610" cy="230" r="9"/><text x="627" y="235" class="label">Highlake</text>
+    <circle class="node" cx="430" cy="265" r="9"/><text x="447" y="270" class="label">Timberfalls</text>
+    <circle class="node" cx="455" cy="350" r="9"/><text x="472" y="355" class="label">Tannbruck fallen</text>
+    <text x="520" y="395" class="detail">Sleds replace boats.</text>
+    <text x="520" y="415" class="detail">Siege control closes roads.</text>
+  </g>
+
+  <g transform="translate(80 640)">
+    <rect class="panel" width="790" height="430"/>
+    <text x="30" y="45" class="season">SPRING - Thaw and Reclamation</text>
+    <path class="route conditional" d="M120 80 L265 135 L395 180"/>
+    <path class="route closed" d="M395 180 L190 230 L150 330"/>
+    <path class="route closed" d="M395 180 L610 230 L570 315"/>
+    <path class="route conditional" d="M395 180 L430 265 L455 350"/>
+    <path class="route conditional" d="M150 330 L300 350 L455 350"/>
+    <path class="route conditional water" d="M405 390 C430 320 410 250 395 180 C380 130 395 95 380 65"/>
+    <circle class="node" cx="265" cy="135" r="9"/><text x="280" y="140" class="label">Funnel</text>
+    <rect x="385" y="170" width="20" height="20" fill="#27323a" transform="rotate(45 395 180)"/><text x="415" y="184" class="label">City</text>
+    <circle class="node" cx="190" cy="230" r="9"/><text x="125" y="218" class="label">Lakewatch</text>
+    <circle class="node" cx="610" cy="230" r="9"/><text x="627" y="235" class="label">Highlake</text>
+    <circle class="node" cx="430" cy="265" r="9"/><text x="447" y="270" class="label">Timberfalls</text>
+    <circle class="node" cx="455" cy="350" r="9"/><text x="472" y="355" class="label">Tannbruck front</text>
+    <text x="520" y="395" class="detail">Mud, flood, unsafe ice.</text>
+    <text x="520" y="415" class="detail">Repairs reopen chosen routes.</text>
+  </g>
+
+  <g transform="translate(930 640)">
+    <rect class="panel" width="790" height="430"/>
+    <text x="30" y="45" class="season">SUMMER - Consequence Made Visible</text>
+    <path class="route open" d="M120 80 L265 135 L395 180"/>
+    <path class="route conditional" d="M395 180 L190 230 L150 330"/>
+    <path class="route conditional" d="M395 180 L610 230 L570 315"/>
+    <path class="route conditional" d="M395 180 L430 265 L455 350"/>
+    <path class="route conditional" d="M150 330 L300 350 L455 350"/>
+    <path class="route open water" d="M405 390 C430 320 410 250 395 180 C380 130 395 95 380 65"/>
+    <circle class="node" cx="265" cy="135" r="9"/><text x="280" y="140" class="label">Funnel</text>
+    <rect x="385" y="170" width="20" height="20" fill="#27323a" transform="rotate(45 395 180)"/><text x="415" y="184" class="label">City</text>
+    <circle class="node" cx="190" cy="230" r="9"/><text x="125" y="218" class="label">Lakewatch</text>
+    <circle class="node" cx="610" cy="230" r="9"/><text x="627" y="235" class="label">Highlake</text>
+    <circle class="node" cx="430" cy="265" r="9"/><text x="447" y="270" class="label">Timberfalls</text>
+    <circle class="node" cx="455" cy="350" r="9"/><text x="472" y="355" class="label">Tannbruck state</text>
+    <text x="520" y="395" class="detail">Green or amber depends on</text>
+    <text x="520" y="415" class="detail">survival, control, and repair.</text>
+  </g>
+
+  <g transform="translate(1190 95)">
+    <line class="route open" x1="0" y1="0" x2="45" y2="0"/><text x="58" y="6" class="legend">open</text>
+    <line class="route conditional" x1="145" y1="0" x2="190" y2="0"/><text x="203" y="6" class="legend">conditional</text>
+    <line class="route closed" x1="330" y1="0" x2="375" y2="0"/><text x="388" y="6" class="legend">closed</text>
+  </g>
+  <text x="82" y="1138" class="note">This overlay communicates route state, not a second geography. Waystone links follow their own discovered, stabilized, and locally held conditions.</text>
+</svg>
