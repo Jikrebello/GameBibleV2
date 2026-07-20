@@ -79,11 +79,11 @@ Road control, bridges, patrols, camps, fast-travel availability, creature pressu
 
 ### Faction State
 
-Trust, influence, internal leadership, completed line stage, public legitimacy, and claims secured or denied. No single global reputation number replaces faction-specific consequences.
+Rank, institutional stance, completed sequence, internal alignment, leader states, services, and settlement terms. All five lines remain open through quest six; later lock-ins are explicit. No single global reputation number replaces faction-specific consequences. [[Narrative State Register]] controls the values.
 
 ### Companion State
 
-Recruitment, active personal stage, approval tendencies, loyalty resolution, relationship commitment, departure, injury, and ending destination.
+Recruitment, active personal stage, Guarded/Open/Trusted/Strained approval, named conflicts, personal outcome, relationship commitment, departure, injury, and ending destination. One romance and one sworn bond use separate commitment slots. [[Narrative State Register]] controls the values.
 
 ### Material Survival
 

@@ -8,145 +8,78 @@ region: ["Grenzburg"]
 culture: ["Eclessian", "Folk", "Sestaran"]
 related_factions: ["Duchy of Grenzburg", "Marcher Vanguard", "Blackjack Corps", "Medori Bank", "Church of the Redeemer", "Folk kindreds", "Grenzburg underworld"]
 appears_in: ["Grenzburg"]
-needs:
-  - workshop the internal leaders, names, and eight-to-ten quest ladder of each line in Wave 4
+needs: []
+aliases: ["Grenzburg Factions Overview"]
 tags: [game-ready]
 ---
 # Grenzburg Factions Overview
 
-This note controls the five deep faction lines in the Grenzburg game. It defines their playable promise, internal conflict, campaign role, and design limits. Individual faction dossiers remain source material under review until Wave 4.
+This note controls Grenzburg's five deep faction lines. [[Faction Questlines MOC]] lists all forty-eight authored notes; [[Narrative State Register]] controls their outputs. Premises and institutions are local canon. Player-selected settlements are not future-setting canon.
 
-## Faction-Line Rule
+## Shared Line Contract
 
-Each joinable line contains eight to ten quests distributed across autumn, winter, spring, and summer consequence. Joining means sustained service and access, not total ideological submission. The player may begin several lines, but leadership decisions, betrayals, and ending claims can make some late combinations impossible.
+Each line moves through Admission, Service, Fracture, Alignment, and Settlement. The player becomes a trusted officer or power broker, never supreme leader. Standing appears as a named rank plus institutional stance, not a universal number.
 
-Every line must provide:
+Every line contains ordinary members, a sincere good, a real temptation, at least one social or investigative quest, one distinctive space, one optional main-crisis contribution, and a visible summer state. No organization causes every Grenzburg crisis.
 
-- a distinctive form of work;
-- an ordinary social world beyond its leaders;
-- a sincere good it protects or produces;
-- a real corruption, temptation, or injustice;
-- at least two internally credible futures;
-- services, spaces, equipment, training, and allies;
-- visible effects on the main crises without becoming required for critical-path completion;
-- a summer state.
+## The Five Lines
 
-## 1. Ducal and Marcher Service
+| Line | Leaders | Real good | Central danger | Strongest settlement term |
+|---|---|---|---|---|
+| [[Ducal and Marcher Service]] | [[Duke Alaric von Grenzburg]] sets political ends; [[Castellan Pierre Hohenwall]] protects professional command and civil procedure; [[Sergeant Liese of the Marcher Vanguard]] is the player's field counterpart and carries settlement testimony upward. | Grenzburg needs roads, courts, trained defenders, coordinated stores, and officials who will stand between settlements and violence. | Necessary wartime powers can become patronage, confiscation, military detention, collective punishment, and government without petitions. | A professional marcher service remains under ducal sovereignty and civil law. Villages gain petitions, emergency powers expire on fixed dates, officers answer ordinary courts for secular crimes, and the Duke still rules. |
+| [[Blackjacks and Medori]] | [[Ledger-Master Lucia Medori]] is a sincere institutional reformer with firm limits; [[Captain Valdemar Koss]] knowingly chooses predation; [[Quartermaster Brina Kest]] organizes ordinary debtors and the practical company. | Credit, imported grain, specialist gear, logistics, training, and organized risk can keep Grenzburg alive. | Debt converts survival, injury, equipment, and inherited liability into control over persons. Reform can improve conditions while preserving ownership. | The Blackjacks become a chartered free company. Existing service is fixed and reviewable, future members are paid contractors, Lucia retains regulated credit and logistics, Brina protects company governance, and Koss loses command. |
+| [[Church of Grenzburg]] | [[Bishop Konrad von Ehrenfeld]] sincerely identifies institutional strength with protection of the faith; [[Bishop-Prelate Caestus]] leads pastoral work; [[Deacon Ignatius]] is severe but recoverable before atrocity; [[Sister Marcellina]] protects people through evidence while normalizing coercive surveillance. | The Church teaches real salvation, tends the sick, names the dead, sustains hope, and can recognize corruption secular officials cannot. | Truth about spiritual danger can be used to claim courts, land, surveillance, or punishment unrelated to the soul. | A bounded diocese keeps Konrad as bishop, gives Caestus authority over hospitals and formation, returns secular crimes to ducal courts, and confines Church coercive jurisdiction to genuinely spiritual matters with a fixed appeal process. |
+| [[Four-Hearth Compact]] | [[Runa Moss-Crown]] guides field work; [[Anya Moss-Crown]], [[Elof Bent-Oak]], River-Clan speakers, and Ghost-Foot delegates retain their own authority. [[Jorund Shattered-Tusk]] chooses total war and must be separated from households who reject civilian murder. [[Thorn-Seer Mael]] guards restricted Wolfsmere truth. | Local memory, refuge duties, ecological knowledge, and customary limits protect communities repeatedly treated as empty land. | Old pacts can demand evil, vengeance can target civilians, and no claim of land or ancestry proves moral right. | A temporary Four-Hearth compact grants renewable seasonal sanctuary, passage, land and worship, and boundary rights in return for warning, refuge, and restraint. Wolfsmere's deepest truth remains restricted to the player and compact elders. |
+| [[Grenzburg Underworld]] | [[Mara Senn]] and [[Ivo Renn]] founded the Low Lantern network together. [[Watch-Captain Oskar Vey]] and his protected murders split Ivo's archive into the Black Bell. [[Lord High Bailiff Enzo Voss]] sells warrants and suppresses evidence but does not control the underworld. | Illegal networks can protect people from corrupt authority, keep food moving, preserve testimony, and reach places closed to ordinary justice. | Secrecy also shelters extortion, vice, trafficking, vendetta, and murder. Immediate defense may be justified; permanent private jurisdiction is corrupting. | The Low Lanterns can become a licensed night guild with civil oversight. The Black Bell can become a strict hidden tribunal requiring multiple witnesses and unpaid service, but even its best form remains morally compromised. |
 
-**Player fantasy:** become the frontier specialist trusted by soldiers, wardens, road officers, village levies, and the ducal household.
+## Progress and Lock-In
 
-**Representative work:** patrols, rescues, fort relief, military investigations, scouting, sabotage, discipline cases, holding actions, and dangerous warrants.
+The player may complete approximately six quests in every line without exclusive commitment. Late choices select an internal future, not compulsory loyalty against every other institution.
 
-**Real good:** Grenzburg requires lawful defense, roads, courts, coordinated food, and people willing to stand between settlements and violence.
+- Ducal: professional civil service, broad ducal emergency office, or permanent military administration.
+- Blackjacks: free company, debtor cooperative, ducal absorption, regulated Medori control, or continued Koss command.
+- Church: bounded diocese, broad episcopal court, secular restriction, or unstable dual jurisdiction.
+- Folk: renewable Four-Hearth rights, permanent compact, informal bilateral network, or dissolution.
+- Underworld: Low Lantern night guild or Black Bell tribunal after six shared quests.
 
-**Central danger:** emergency command can normalize confiscation, censorship, collective punishment, political patronage, and permanent rule by necessity.
+Every lock warning names closed quests, leaders, services, and settlement terms before confirmation. Best results may coexist; none is declared the canonical ending.
 
-**Internal fracture:** professional marcher service and local duty oppose courtiers, profiteers, and officers who treat the frontier as property or reputation. Duke Alaric may be pressured toward survival measures that outlive their justification.
+## Composite Settlement
 
-**Campaign contribution:** stronger evacuation, fort survivors, scouts, organized shock troops, defenses against the dead march, and a credible postwar state.
+Faction resolutions contribute one term apiece to the summer political matrix:
 
-## 2. Blackjacks and the Medori Branch
+| Domain | Controlling output |
+|---|---|
+| Military authority | `settlement_military_authority` |
+| Debt and company form | `settlement_debt_regime` |
+| Church jurisdiction | `settlement_church_jurisdiction` |
+| Folk rights | `settlement_folk_rights` |
+| Underground power | `settlement_underworld_power` |
 
-**Player fantasy:** master the dangerous professional world that owns the player's debt, protect fellow debtors, and decide whether the institution is reformed, captured, escaped, or broken.
+The matrix also reads settlement survival, casualties, player freedom, and unresolved leader states. No single faction ending erases the material existence of the others.
 
-**Representative work:** recoveries, investigations, debt enforcement, convoy security, deniable expeditions, missing personnel, ledger theft, equipment trials, and internal mutiny.
+## Non-Joinable and Secondary Actors
 
-**Real good:** credit, logistics, imported grain, specialist training, risk capital, and organized recovery can keep a poor frontier alive.
+- [[The Grobi|The Grobi in Grenzburg]] are band-specific enemies and negotiable actors, never a joinable government.
+- [[Frontier Industry Chains]] own substantial production, labor, craft, and resource stories.
+- [[Seasonal Settlement Chains]] own local authority and seasonal survival stories.
+- Delvers, schools, craftspeople, hunters, and trainers retain secondary progress without becoming global rulers.
 
-**Central danger:** people become collateral. Debt can be engineered, inherited, extended through survival, and enforced by violence that resembles private sovereignty.
+## Moral Guardrails
 
-**Internal fracture:** long-term builders, professional debtors, predatory collectors, and distant capital interests disagree over whether Grenzburg is a community, a client, or an extraction field.
-
-**Campaign contribution:** supplies, specialist gear, intelligence, paid companies, debt relief, or additional coercion. Bank pressure remains selective and explicit rather than attached to every main mission.
-
-## 3. Church of the Redeemer
-
-**Player fantasy:** serve hospitals, parish communities, relic houses, confessors, investigators, and militant protectors while deciding the rightful limits of Church authority.
-
-**Representative work:** sanctuary, healing, burial, exorcism, relic recovery, doctrinal inquiry, missing clergy, protection of worship, heresy investigation, and public mercy or judgement.
-
-**Real good:** the Church tells the truth about salvation, tends the sick, buries the dead, preserves hope, and can resist corruption that secular power cannot even perceive.
-
-**Central danger:** spiritual authority can be used to seize temporal jurisdiction, reward zeal without wisdom, conceal scandal, or mistake institutional obedience for faithfulness.
-
-**Internal fracture:** pastoral service, learned doctrine, militant emergency action, reform, and political episcopal power compete over what Grenzburg's crisis permits.
-
-**Campaign contribution:** hospitals, morale, burial integrity, White-Flame support, protection against residue, civilian order, and the terms of postwar spiritual jurisdiction.
-
-## 4. Folk Kindreds and Frontier Compacts
-
-**Player fantasy:** earn trust across specific kindreds, learn the living law of place, defend valid sanctuary and passage rights, and navigate relationships older than Grenzburg's claims.
-
-**Representative work:** mediation, seasonal rites, missing kin, land trespass, hunts, reciprocal rescue, Menhir danger, road agreements, revenge limits, and disputes among kindreds.
-
-**Real good:** the Folk preserve local memory, ecological knowledge, refuge obligations, customary limits, and communities repeatedly treated as empty land by states and companies.
-
-**Central danger:** old pacts can be cruel, vengeance can become inherited identity, local sovereignty can shelter raiding, and no appeal to the land proves moral right.
-
-**Internal fracture:** Chapel-Folk, old-rite kindreds, raiders, seers, settlers, and practical negotiators do not share one government or one answer to Grenzburg.
-
-**Campaign contribution:** guides, winter routes, safe groves, scouts, local levies, warning of Grobi movement, knowledge of old sites, and durable or broken land settlements.
-
-## 5. Grenzburg Underworld
-
-**Player fantasy:** enter the city's hidden routes, fences, smugglers, burglars, informants, killers, and unofficial justice, then decide what kind of underground power survives the siege.
-
-**Representative work:** burglary, smuggling, surveillance, prison access, black-market recovery, gang truces, exposing protected predators, sabotage, and targeted killing.
-
-**Real good:** illegal networks can move food past corrupt gatekeepers, hide the persecuted, expose crimes protected by rank, and reach places official power cannot.
-
-**Central danger:** secrecy protects extortion, addiction, trafficking, murder, vendetta, and leaders who call private appetite justice.
-
-**Fork:** the shared line eventually divides between thieves-smugglers who seek a stable shadow economy and killer-vigilantes who claim the right to punish those ordinary courts cannot reach. Neither branch is morally clean, and the vigilante path must not become consequence-free assassination fantasy.
-
-**Campaign contribution:** hidden city routes, intelligence, contraband, evacuation channels, sabotage during the siege, and either restrained underground order or normalized private killing.
-
-The organizations and principal leaders of this line are reserved for a targeted Wave 4 workshop.
-
-## Non-Joinable Regional Actors
-
-### Grobi
-
-Grobi are enemies, migrants, raiders, families, traders, captives, and negotiable regional actors. They are not a joinable faction line. The player may bargain with particular bands, split Ghor's coalition, exchange prisoners, redirect migration, protect noncombatants, or kill committed raiders. No individual group speaks for all Grobi.
-
-### Industry Lords and Seasonal Headmen
-
-Mine owners, timber interests, millers, village speakers, guilds, and relief committees drive local quests and may align with larger factions. They do not become sixth and seventh global reputation bars merely because they matter.
-
-### Delvers, Warlock Schools, Craftsmen, Hunters, and Trainers
-
-These groups own substantial secondary chains, services, vocation access, and dungeons. They may have reputation or progression states appropriate to their work without competing for political control of the whole duchy.
-
-## Cross-Faction Rules
-
-- No faction is secretly behind every crisis.
-- Faction leaders pursue understandable goals through choices that remain morally judgeable.
+- Military necessity does not create permanent unlimited power.
+- Useful credit does not make ownership of persons neutral.
+- True faith does not grant courts authority over unrelated secular crime.
+- Place law and ancestry do not prove moral right.
+- Failed public justice does not make permanent private execution clean.
 - Ordinary members are not reducible to the institution's worst leader.
-- Completing one line cannot erase another faction's material existence.
-- Main quests recognize prior faction service through alternate resources and methods, not through mandatory loyalty gates.
-- Final political outcomes must account for settlement survival, legal authority, debt, land rights, Church jurisdiction, underworld violence, and military control.
-- No outcome is canonical until all are designed.
-
-## Line-Build Requirements
-
-Wave 4 develops one faction at a time after targeted creator questions. Each finished line needs:
-
-- named leaders, rank-and-file members, rivals, and beneficiaries;
-- headquarters and at least two secondary spaces;
-- an eight-to-ten quest ladder;
-- services and progression rewards;
-- act cutoffs and transformed states;
-- companion intersections;
-- at least two final settlements;
-- summer scenes and world-state outputs.
 
 ## Navigation
 
-- [[Grenzburg Game Constitution]]
+- [[Faction Questlines MOC]]
+- [[Faction Progression and Settlement Matrix]]
+- [[Narrative State Register]]
+- [[Companion Constitution]]
 - [[Quest and Content Architecture]]
 - [[Grenzburg Campaign Spine]]
-- [[Blackjack Corps]]
-- [[The Medori Bank]]
-- [[The Folk Clans]]
-- [[The Grobi]]
 - [[Grenzburg MOC]]

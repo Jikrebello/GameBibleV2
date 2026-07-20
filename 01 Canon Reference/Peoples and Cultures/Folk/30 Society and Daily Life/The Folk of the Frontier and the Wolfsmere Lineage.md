@@ -51,5 +51,5 @@ The Roll of the Drowned as a living quest-calendar (something goes wrong at name
 - [[The Reed Court of Wolfsmere]]
 - [[The Making of the Eclessians]]
 - [[Named Figures of the Known World]]
-- [[The Folk Clans]]
+- [[Four-Hearth Compact]]
 - [[Thin Spaces]]

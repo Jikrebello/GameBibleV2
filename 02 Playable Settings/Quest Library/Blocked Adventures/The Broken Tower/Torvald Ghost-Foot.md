@@ -55,5 +55,5 @@ Torvald can become a restored clansman whose title the Bank quietly corrected, a
 
 - [[The Broken Tower — Full Adventure]]
 - [[The Kestrel Tower]]
-- [[The Folk Clans]]
+- [[Four-Hearth Compact]]
 - [[The Medori Bank]]

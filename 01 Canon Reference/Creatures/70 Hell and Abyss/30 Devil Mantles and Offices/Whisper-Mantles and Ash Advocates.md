@@ -85,5 +85,5 @@ Names include whisper mantle, ear-devil, little counsel, ash advocate, black not
 - [[Hell and Abyss MOC]]
 - [[Contract Magic and True Names]]
 - [[The Creditor]]
-- [[Zafir the Bound Chainmaster]]
+- [[Zafir ibn Samad]]
 - [[Bestiary MOC]]

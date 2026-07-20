@@ -18,6 +18,11 @@ cutoff_result: persists
 world_state_outputs: []
 required_locations: []
 blocking_status: concept
+quest_owner: ""
+quest_sequence: 0
+companion_id: ""
+faction_line: ""
+faction_branch: ""
 ---
 # {{title}}
 
@@ -42,6 +47,8 @@ blocking_status: concept
 ## Information Paths
 
 ## Choices
+
+## Lock-In Consequences
 
 ## Fail-Forward Results
 

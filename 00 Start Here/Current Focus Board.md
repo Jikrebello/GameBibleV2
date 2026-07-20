@@ -15,7 +15,7 @@ tags: []
 
 ## First Creative Priority
 
-Build Grenzburg into the setting's first complete video game. The game, worldspace, and narrative player-system constitutions are now locked through [[Grenzburg Game Constitution]], [[Grenzburg Campaign Spine]], [[Grenzburg Regional Geography]], and [[Player Systems MOC]]. The next production wave is companions and factions, developed through targeted creator questions before canonization. Caleran remains the great-city sandbox, but it is not the active implementation priority.
+Build Grenzburg into the setting's first complete video game. The game, worldspace, player systems, eight companions, five faction lines, and narrative-state constitution are now locked through [[Grenzburg Game Constitution]], [[Grenzburg Campaign Spine]], [[Grenzburg Regional Geography]], [[Player Systems MOC]], [[Companions MOC]], [[Faction Questlines MOC]], and [[Narrative State Register]]. The next production wave is the twenty-one main chapters and two summer aftermath quests. Caleran remains the great-city sandbox, but it is not the active implementation priority.
 
 ## Current Canon Baseline
 
@@ -42,8 +42,8 @@ Build Grenzburg into the setting's first complete video game. The game, worldspa
 
 ## Next Three Workstreams
 
-1. **Grenzburg companions and factions:** workshop each new or revised identity with targeted creator questions before canonizing eight companion arcs and five eight-to-ten-quest faction lines.
-2. **Grenzburg main campaign:** block all twenty-one chapters and two aftermath quests against the locked map, travel, seasonal, player-system, companion, and faction rules.
+1. **Grenzburg main campaign:** block all twenty-one chapters and two aftermath quests against the locked map, seasons, player systems, companion arcs, faction ladders, and narrative outputs.
+2. **Grenzburg side content:** allocate marquee quests, local stories, dungeons, hunts, and secondary industry or settlement chains to the reserved worldspace sites.
 3. **Player-system prototyping and originalization:** replace all inherited skill language, test the six starting vocations and two advanced vocations, and move provisional numbers into implementation specifications only after play evidence exists.
 
 ## Locked Rulings
@@ -79,16 +79,15 @@ Build Grenzburg into the setting's first complete video game. The game, worldspa
 - Every vocation can complete every critical route. Medium shades are non-conscious imprints, Warlock and Rune Fist obey Shell-script canon, Paladin techniques require White-Flame coherence, and Binder cannot bind human souls or coerced persons.
 - Grenzburg's critical path is [[PROLOGUE THE BLACK ROAD|The Black Road]], [[ACT I THE CLOSING ROADS|The Closing Roads]], [[ACT II WINTER'S TEETH|Winter's Teeth]], [[ACT III THE UNENDING MUSTER|The Unending Muster]], and playable [[SUMMER AFTERMATH|summer aftermath]]. The Heart-Stone, Pale-Skins, Leviticus betrayal, and Duke's Peace are retired from the main campaign.
 - Fort Tannbruck always falls, the Emerald Drake is slain, Ghor's organized siege is defeated, Gerhold accepts the Unending Muster without redemption, and the General Below is stopped in every completed campaign. Political power, casualties, debt freedom, companion futures, and settlement survival remain variable; no political ending is setting canon.
-- The field party is the player plus three companions selected from eight full outsider debtors. Four women and four men each receive four personal quests and relationship paths; romance eligibility is heterosexual, while same-sex paths become mechanically equivalent sworn bonds.
+- The field party is the player plus three companions selected from [[Elara Velescar]], [[Ilyana Veshkar]], [[Svala Last-Beacon]], [[Ashira bath Melan]], [[Bernard Valeon]], [[Dismas Raben]], [[Tavio Meran]], and [[Zafir ibn Samad]]. The roster has four women and four men, each owns four outlined personal quests, and a playthrough may commit to one heterosexual romance and one same-sex sworn bond with equivalent mechanical value.
+- Grenzburg's five deep faction lines are [[Ducal and Marcher Service]], [[Blackjacks and Medori]], [[Church of Grenzburg]], [[Four-Hearth Compact]], and [[Grenzburg Underworld]]. The first four contain nine quests each; the underworld contains six shared quests and two exclusive three-quest branches. Their five independent settlement terms are controlled by [[Narrative State Register]].
 - Grenzburg is a twin-walled city of eight districts joined by one permanent fortified bridge. Its base-game worldspace contains [[Grenz Lowlands]], [[Longlake Country]], [[Wolfsmere Woods]], [[Southwood Barrowlands]], [[Highlake Uplands]], [[Upper Grenz]], and [[Frostfenn March]]. South grows colder, and the River Grenz flows north.
 - Public travel follows roads and water. Seven fixed Road-Key Menhir links serve remote paths without moving mounts, freight, refugees, or armies. Birchcross and Alderway Vale remain outside the base-game atlas.
 
 ## Open Production Questions
 
-- Exact Grenzburg damage, frames, inputs, growth curves, mastery rates, social probabilities, quest rewards, companion approval, encounter balance, custom-build budget, and compatibility matrix.
+- Exact Grenzburg damage, frames, inputs, growth curves, mastery rates, social probabilities, quest rewards, hidden companion event weighting, encounter balance, custom-build budget, and compatibility matrix.
 - Final original names, descriptions, animation identities, and progression orders for source-derived vocation skills tracked in [[Vocation Originalization Register]].
-- Names, cultures, debts, vocations, faults, and ending ranges for the four new companions, to be resolved through individual workshops.
-- Leaders, internal futures, services, and eight-to-ten-quest ladders for Grenzburg's five deep faction lines.
 - Named regional cells for the Left Hand as new playable settings are developed.
 - Final visual treatment for Caleran's surface and undercity maps.
 - System-specific encounter and reward tuning for selected Caleran adventures.

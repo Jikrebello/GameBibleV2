@@ -87,7 +87,7 @@ Last spring, Clear-Cut Karl's crew burned an offering grove to meet a quota. [[S
 - [[The Cloven]]
 - [[The Rimebound]]
 - [[The Grove-Debt]]
-- [[The Frontier Industry Lords]]
+- [[Frontier Industry Chains]]
 
 ## Controlling Canon
 

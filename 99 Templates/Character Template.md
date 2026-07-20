@@ -10,6 +10,14 @@ related_factions: []
 appears_in: []
 needs: []
 tags: []
+companion_id: ""
+sex: ""
+vocation: ""
+recruitment_window: ""
+foil: ""
+relationship_theme: ""
+faction_line: ""
+faction_branch: ""
 ---
 # {{title}}
 
@@ -30,4 +38,14 @@ tags: []
 ## Seasonal or Plot Behavior
 
 ## Quest Use
+
+## Narrative Properties
+
+- Companion ID:
+- Sex:
+- Vocation:
+- Recruitment window:
+- Principal foil:
+- Relationship theme:
+- Faction line and branch:
 

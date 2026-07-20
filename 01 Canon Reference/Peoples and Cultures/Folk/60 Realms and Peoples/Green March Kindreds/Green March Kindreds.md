@@ -60,7 +60,7 @@ The region receives refugees and Grobi bands displaced from deeper southern corr
 
 ## Navigation
 
-- [[The Folk Clans]]
+- [[Four-Hearth Compact]]
 - [[The Folk of the Frontier and the Wolfsmere Lineage]]
 - [[Birchcross]]
 - [[The First Writ — Full Adventure]]

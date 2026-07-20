@@ -8,129 +8,120 @@ region: ["Grenzburg"]
 culture: ["Eclessian", "Thalmyric", "Sestaran", "Jirahar", "Ahl-e-Ahd", "Ättar"]
 related_factions: ["Blackjack Corps", "Medori Bank"]
 appears_in: ["Grenzburg"]
-needs:
-  - workshop and canonize the four new companion identities with the creator
-  - rebuild all eight dossiers, combat roles, approval values, and personal quests in Wave 4
+needs: []
 aliases: ["Companion Quests"]
 tags: [game-ready]
 ---
 # Companion Constitution
 
-This note controls Grenzburg's companion roster, relationship rules, personal-quest scale, and writing standards. Individual biographies are subordinate until their Wave 4 workshops are approved.
+This note controls Grenzburg's companion roster, recruitment, approval, personal quests, relationships, departure, and ending treatment. [[Companions MOC]] is the operational register. Individual outcomes are player-dependent and do not become future-setting canon.
 
-## Roster Contract
+## Fixed Roster
 
-Grenzburg has eight full companions: four women and four men. Every companion is an outsider to Grenzburg and a debtor serving with, transported by, or newly assigned to the [[Blackjack Corps]]. Debt arises for different reasons and must not become the same story with different clothing.
+| Companion | Vocation | Recruitment | Core fault | Strongest future |
+|---|---|---|---|---|
+| [[Elara Velescar]] | [[Slayer]] | Early Autumn | Elara converted the dead and the poor into resources for a house whose dignity mattered more to her than their consent. Vardek betrayed her, but he did not choose her first trespass. | She exposes Vardek, relinquishes the Velescar title, transfers viable land to its workers, and establishes a burial-repair fund from recoverable family assets. She remains an adventurer without pretending that motion itself is restitution. |
+| [[Ilyana Veshkar]] | [[Warlock]] | Black Road | The first overdraw was her choice, and accepting the false report converted dead soldiers into a decoration. Later desertion proves she could refuse, not that the earlier silence disappears. | She returns the medal, names every dead soldier publicly, and commands Blackjack specialists under a doctrine that forbids treating trapped people as expendable inputs. |
+| [[Svala Last-Beacon]] | [[Fighter]] | Open Autumn | The champion's exclusion and pride were wrong; his yield still bound her. She killed him after the contest had morally and socially ended. | She accepts chosen exile, pays continuing weregild through service, and becomes a free protector of Grenzburg's winter roads without claiming restoration to her hall. |
+| [[Ashira bath Melan]] | [[Medium]] | Early Autumn | The raiders chose murder; their families did not. Simulating familiar faces to terrorize them was chosen collective punishment even though no human soul was captured. | She destroys the human-derived roster, documents the harm without metaphysical falsehood, and remains in Grenzburg as a scholar of nonhuman field patterns. |
+| [[Bernard Valeon]] | [[Paladin]] | Black Road | Illness explains the pressure to steal, not the decision to hide relapse or the harm caused. The murderer bears the murder; Bernard bears the obstruction and concealment. | He becomes a lay hospice knight outside his old order, living with treatment, safeguards, public restitution, and a faith no longer used as immunity. |
+| [[Dismas Raben]] | [[Hunter]] | Black Road | The robbery was chosen, the premature rockfall was reckless, and abandoning trapped civilians was cowardice. Trauma is consequence, not supernatural punishment or exoneration. | He confesses publicly and accepts permanent marcher scout service under civil oversight. Victims owe no forgiveness; his future is useful and constrained rather than cleansed. |
+| [[Tavio Meran]] | [[Rune Fist]] | Early Autumn | The coach offered the illegal advantage; Tavio knowingly made it decisive and accepted glory afterward. Institutional corruption explains his opportunity, not his hand. | He exposes the Crucible school, accepts a permanent arena ban, settles a fair reckoning with Lio, and becomes a leak-warden protecting Grenzburg's foundries. |
+| [[Zafir ibn Samad]] | [[Binder]] | Early Autumn | His contracts placed persons under command. Limits and petitions reduced some harms but did not make ownership just. Samira's inversion is culpable coercion of him without retroactively making his system humane. | He cuts every living-person instrument he can reach, teaches ethical Binder practice, and returns to Iqashar to face clients and help void surviving restraints. |
 
-The field party is the player plus three active companions. No companion is a lighter recruit. All eight receive:
-
-- a complete three-act presence;
-- four personal quests;
-- camp, travel, city, faction, and main-story reactions;
-- a friendship baseline;
-- a relationship path;
-- a final personal resolution;
-- a summer destination or continuing role.
-
-## Locked Companion Seeds
-
-These are premises, not permission to preserve contradictory older quest material.
-
-### Women
-
-**Lady Elara:** a dispossessed noblewoman whose attempt to preserve her house forced her into clandestine grave-robbing. Her debt joins money, stolen funerary property, class shame, and the question of whether lineage can be repaired without living off the dead. She should be capable, socially educated, adventurous, and morally compromised without becoming a generic haughty aristocrat.
-
-**Thalmyric woman:** an outsider whose debt and vocation reveal Thalmyric life through a personal history rather than a culture lecture. Her identity, state of origin, vocation, and reason for debt require a dedicated creator workshop.
-
-**Sestaran woman:** an outsider rooted in one specific Sestaran city rather than a generic Concord identity. Her debt should expose a different face of credit, trade, craft, war, or civic service from Elara and the Medori line. Her identity requires a dedicated creator workshop.
-
-**Ättar woman:** a southern hall-born outsider whose presence does not flatten the Ättar into berserkers or make her an all-purpose Folk representative. Her hall, totem-kindred, relationship to slavery and the firstborn bargain, vocation, and debt require a dedicated creator workshop.
-
-### Men
-
-**Knight Bernard:** a sincere paladin and compulsive thief whose kleptomania repeatedly violates the trust his vocation requires. His story concerns responsibility, grace, restitution, and the difference between holy purpose and using faith to excuse oneself. His third quest unlocks [[Paladin]] and his fourth provides its capstone.
-
-**Dismas:** a haunted highwayman whose debt follows chosen violence, survival, and the people who paid for his legend. He must be charismatic and genuinely useful without romanticizing predation or reducing his arc to self-loathing.
-
-**Zafir:** an Ahl-e-Ahd binder trapped by an inversion of his own summoning craft. What he once treated as commanded service has become the structure of his own captivity. His story examines agency, lawful form, slavery, culpability, and freedom without making Covenant evil the only thing about him. His third quest unlocks [[Binder]] and his fourth provides its capstone.
-
-**Jirahar man:** an outsider whose Way, tower relationship, family memory, vocation, and debt must be specific to Jirahar canon. He cannot serve as a walking exposition device or generic desert mystic. His identity requires a dedicated creator workshop.
+The roster contains exactly four women and four men. It covers [[Fighter]], [[Slayer]], [[Hunter]], [[Warlock]], [[Medium]], [[Rune Fist]], [[Paladin]], and [[Binder]] once each. All are outsiders, all carry distinct debtor histories, and every one is recruitable by the end of Open Autumn.
 
 ## Recruitment Rhythm
 
-The game does not introduce all eight companions in one briefing.
+The Black Road introduces [[Bernard Valeon]], [[Dismas Raben]], and [[Ilyana Veshkar]]. Early Autumn opens [[Elara Velescar]], [[Tavio Meran]], [[Ashira bath Melan]], and [[Zafir ibn Samad]]. [[Svala Last-Beacon]] becomes the final recruitment at the Southbound Muster.
 
-- The Black Road introduces the first small cohort and establishes that every debtor has a different story.
-- Grenzburg admission and early autumn open additional recruitments through work, custody, medical recovery, or faction contact.
-- The final recruit must be available early enough in Act I to participate meaningfully before winter.
-- Declining an initial recruitment does not permanently lose the companion unless the player explicitly rejects or betrays them.
+Declining an initial invitation does not lose a companion. A named repair scene remains until the end of Open Autumn. No recruitment briefing delivers a culture lecture; foreign history enters through the debt, an immediate task, and later visitors or records.
 
-Exact recruitment order is reserved for the companion wave because it depends on approved identities and tutorial combat needs.
+## Personal Quest Contract
 
-## Four-Quest Personal Structure
+Every companion owns four authored quests:
 
-Each companion owns four substantial quests:
+1. **Debt named:** establish the concrete harm and the companion's preferred account.
+2. **Old method tested:** place the habitual answer under current pressure.
+3. **Reckoning:** confront a victim, witness, institution, or power and open relationship commitment.
+4. **Chosen future:** produce resolved, compromised, or broken/departed states and a visible summer destination.
 
-1. **The Debt Named:** Act I exposes the concrete origin of the debt and establishes what the companion says they want.
-2. **The Old Method Fails:** late Act I or Act II forces the companion's habitual solution into conflict with another person, institution, or fact.
-3. **The Reckoning:** Act II or early Act III confronts the person, place, victim, oath, craft, or power that sustains the problem.
-4. **The Chosen Future:** Act III resolves conduct and determines the companion's summer state, advanced-vocation teaching where applicable, and relationship culmination.
+Every note carries an availability window, information paths, fail-forward results, cutoff, required locations, rewards, and world-state outputs. Personal content may alter main operations but never supplies a mandatory key.
 
-Reactive scenes between these quests show consequences and relationship growth. They do not substitute for playable personal content.
+## Approval
 
-## Approval and Conflict
+Approval is qualitative: **Guarded**, **Open**, **Trusted**, and **Strained**. The UI also names unresolved conflicts such as concealed evidence, violated surrender, or coerced service. There is no exposed numeric affection meter.
 
-Companion judgement arises from specific values and witnessed actions. Approval is not a demand that the player agree with every opinion.
+Companions judge repeated conduct and exceptional betrayals. Disagreement can deepen respect when the player acts consistently and bears a cost. Habitual snark, interchangeable trauma, and party-wide hostility are prohibited.
 
-Rules:
+Permanent departure requires:
 
-- companions remember patterns as well as exceptional betrayals;
-- major objections are explained in character before departure becomes possible;
-- disagreement can deepen respect when the player acts consistently and accepts a cost;
-- no companion approves cruelty merely because it is efficient unless that failing is specific, consequential, and confronted;
-- conflict banter must vary with relationship and context;
-- habitual snark, constant contempt, and party-wide hostility are prohibited;
-- two companions may dislike each other's conduct without making every camp scene an argument.
+1. a specific witnessed violation;
+2. an explicit confrontation naming it;
+3. a practical repair opportunity;
+4. a final warned choice.
+
+Death occurs only through a late, explicit sacrifice after alternatives are made legible.
 
 ## Relationship Paths
 
-All eight companions have a relationship path grounded in their individual arc.
+- Male players may romance women companions; female players may romance men companions.
+- Same-sex companions offer a sworn bond with equal narrative weight and mechanical value.
+- A playthrough may commit to one romance and one sworn bond.
+- Early interest may overlap. Commitment occurs only after quest three and always names what closes.
+- Mature intimacy fades to black.
+- Neither path grants ownership, automatic agreement, immunity from departure, or a canonical ending.
 
-- A male player may enter romance paths with women companions.
-- A female player may enter romance paths with men companions.
-- Same-sex companion relationships culminate in a sworn-bond path rather than romance.
-- Romance and sworn bond grant equivalent mechanical rewards and equal narrative weight.
-- Early interest or deepening friendship may overlap across companions.
-- Only one romance may be committed in a playthrough.
-- A sworn bond is a profound non-romantic commitment and is not written as a consolation prize.
+Romance rewards emphasize reciprocal intimacy. Sworn-bond rewards emphasize declared mutual duty. Both grant one companion field synergy, one player-facing technique or augment contribution, one late intervention, and a summer scene at equal power.
 
-Character creation's sex selection controls romance eligibility. Relationship commitment is always explicit; ordinary kindness, high approval, or completing a personal quest never commits the player by surprise.
+| Companion | Romance reward | Sworn-bond reward |
+|---|---|---|
+| [[Elara Velescar]] | Equal Footing | Witness at My Back |
+| [[Ilyana Veshkar]] | Chosen Life | Relief Held |
+| [[Svala Last-Beacon]] | Shared Hearth | Beacon Stand |
+| [[Ashira bath Melan]] | Unmasked Pattern | Clear Pattern |
+| [[Bernard Valeon]] | Kept in the Light | Open Hand |
+| [[Dismas Raben]] | No Escape Route | No Blind Turn |
+| [[Tavio Meran]] | Fair Challenge | Fair Return |
+| [[Zafir ibn Samad]] | Unowned Accord | Witnessed Freedom |
 
-## Reward Standard
+The two rewards for a companion are distinct and mutually exclusive because relationship type is fixed at commitment. Their exact numerical values remain provisional, but their utility budget must remain equivalent.
 
-Every completed relationship path grants:
+## Foil Pairs
 
-- one companion-specific field synergy;
-- one player augment, proficiency, or advanced-vocation contribution;
-- a unique intervention in a late campaign quest;
-- a summer scene and continuing-world consequence.
+- [[Elara Velescar]] and [[Zafir ibn Samad]]: inherited privilege against beautiful systems of ownership.
+- [[Bernard Valeon]] and [[Ashira bath Melan]]: moral coherence against precise claims that no soul means no grave harm.
+- [[Ilyana Veshkar]] and [[Dismas Raben]]: command secrecy against flight from responsibility.
+- [[Svala Last-Beacon]] and [[Tavio Meran]]: hearing yield against the hunger to make victory decisive.
 
-Romance and sworn bond use the same reward power. Their scenes and emotional promises differ according to the relationship.
+Foils produce changed conversations, joint field solutions, and honest disagreement. They do not exist to insult each other at camp.
 
-## Companion Main-Story Use
+## Outcome Standard
 
-No companion is a mandatory key that makes the critical path impossible without them. Loyalty and personal resolution create alternate solutions, preserve people or resources, simplify encounters, reveal evidence, and alter endings. The player can complete the campaign with an unpopular or incomplete party, but the world should show the cost.
+**Resolved** means the companion names the harm, accepts a proportionate continuing duty, and chooses a life not organized around the old excuse.
 
-Companions do not become the hidden authors of every crisis. Their histories intersect the world because they are well-travelled debtors, not because destiny assembled eight secret plot devices in one convoy.
+**Compromised** means real repair occurs while an important concealment, privilege, archive, or institution survives.
 
-## Wave 4 Approval Rule
+**Broken/departed** means the companion recommits to the central wrong or refuses the final repair. Departure does not prove the character was secretly evil from the start.
 
-Each companion will be developed individually. Before canonizing a new identity or substantially rewriting one of the four retained companions, the creator is asked targeted questions about personality, culture, debt, vocation, attraction, moral fault, and desired ending range. Approved dossiers then replace the current needs-review character files.
+No companion ending is selected as future canon.
+
+## Metaphysical Guardrails
+
+- Ashira's imprints are non-conscious patterns, never captured souls.
+- Zafir's Binder path excludes human souls and coerced persons without exception.
+- Bernard's White-Flame abilities require genuine moral coherence and restitution.
+- Ilyana and Tavio obey Elemental Shell script limits, Arcane Burn, and bounded conductors.
+- Svala's rage is trained human physiology and attention, not possession or a hidden monster.
+- Dismas's haunting is memory and trauma, not a supernatural entity.
 
 ## Navigation
 
-- [[Grenzburg Game Constitution]]
+- [[Companions MOC]]
+- [[Companion Reactive Scene Register]]
+- [[Narrative State Register]]
+- [[Factions Overview]]
 - [[Player Character Constitution]]
-- [[Grenzburg Campaign Spine]]
 - [[Quest and Content Architecture]]
+- [[Grenzburg Campaign Spine]]
 - [[Grenzburg MOC]]

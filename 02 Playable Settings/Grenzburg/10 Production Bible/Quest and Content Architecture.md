@@ -9,7 +9,7 @@ culture: []
 related_factions: []
 appears_in: ["Grenzburg"]
 needs:
-  - allocate named quests and job placements from the Worldspace Location Register after faction workshops
+  - allocate marquee, local, training, and job content from the Worldspace Location Register in the side-content wave
 tags: [game-ready]
 ---
 # Quest and Content Architecture
@@ -63,6 +63,11 @@ Every active Grenzburg quest note must carry these properties in addition to ord
 | world_state_outputs | Named settlement, faction, companion, material, debt, access, or Muster states changed. |
 | required_locations | Links to every location required by the quest. |
 | blocking_status | concept, outlined, blocked, or implementation-ready |
+| quest_owner | Named companion, faction line, institution, or local chain that owns the quest. |
+| quest_sequence | Integer position inside a companion or faction ladder; zero when not applicable. |
+| companion_id | CMP-01 through CMP-08 for companion content; empty otherwise. |
+| faction_line | Controlled faction-line ID for faction content; empty otherwise. |
+| faction_branch | shared, low-lanterns, black-bell, or empty as applicable. |
 
 The fields record current design truth. They do not replace readable prose.
 
@@ -131,7 +136,7 @@ Most job placements are finite and handcrafted around a named place. Repeatable 
 
 ## Faction-Line Standard
 
-Each of the five deep faction lines contains eight to ten quests across four movements:
+The active faction library contains forty-eight authored notes: nine each for Ducal/Marcher, Blackjacks/Medori, Church, and Four-Hearth, plus six shared underworld quests and two exclusive three-quest branches. Each line crosses four movements:
 
 1. **Admission:** learn the work and earn access.
 2. **Service:** perform representative missions and meet internal factions.
@@ -140,9 +145,13 @@ Each of the five deep faction lines contains eight to ten quests across four mov
 
 At least one quest per line must be primarily social or investigative, one must use a distinctive dungeon or urban space, one must intersect a main crisis without becoming required for main completion, and one must visibly alter summer.
 
+[[Faction Questlines MOC]] is the count and order authority. All five lines remain open through quest six; later internal lock-ins must display exact consequences.
+
 ## Companion-Line Standard
 
 Each companion owns four personal quests. Ordinary approval scenes and romance or bond conversations do not consume those four slots. [[Companion Constitution]] controls structure and eligibility.
+
+[[Companions MOC]] is the count and order authority for the thirty-two outlined personal quests.
 
 ## Conversion-Library Boundary
 
@@ -165,5 +174,8 @@ Blocked adventure conversions remain independent references and craft studies. G
 - [[Grenzburg Chapter and Window Matrix]]
 - [[Season and World-State Constitution]]
 - [[Factions Overview]]
+- [[Faction Questlines MOC]]
 - [[Companion Constitution]]
+- [[Companions MOC]]
+- [[Narrative State Register]]
 - [[Grenzburg MOC]]

@@ -9,7 +9,7 @@ culture: ["Eclessian", "Folk", "Chapel-Folk", "Grobi"]
 related_factions: ["Duchy of Grenzburg", "Folk kindreds", "Grobi"]
 appears_in: ["Grenzburg"]
 needs:
-  - assign quest ownership, named local casts, and final encounter budgets during later content waves
+  - assign remaining main, marquee, local, training, and job ownership and final encounter budgets
 map_id: "GR-REGISTER"
 worldspace_role: location-register
 subregion: ""

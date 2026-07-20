@@ -40,5 +40,5 @@ Conditional rest, herbal supplies, hunting craft, guides, Folk knowledge, local-
 
 - [[Wolfsmere Woods]]
 - [[Bellless Hold]]
-- [[The Folk Clans]]
+- [[Four-Hearth Compact]]
 - [[Grenzburg Travel and Road-Key Network]]

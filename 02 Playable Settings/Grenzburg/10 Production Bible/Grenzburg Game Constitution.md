@@ -110,7 +110,7 @@ Every vocation can complete every critical route. Exact damage, frames, inputs, 
 |---|---:|---|
 | Critical-path chapters | 21 | Advance seasons, crises, systems, and campaign payoffs. |
 | Summer aftermath quests | 2 | Resolve world state and reopen the region after the finale. |
-| Deep faction lines | 5 lines of 8-10 quests | Long institutional stories parallel to the main path. |
+| Deep faction lines | 48 authored notes, 45 playable in one run | Four nine-quest lines plus six shared and two exclusive three-quest underworld branches. |
 | Companion personal quests | 32 | Four quests for each of eight companions, plus reactive scenes. |
 | Marquee authored quests | 24 | Large local stories with investigation, character, and consequence. |
 | Smaller local quests | 36 | Focused authored stories, discoveries, and practical problems. |
@@ -138,8 +138,9 @@ The Heart-Stone and its barrow remain available for a later optional high-level 
 - Campaign: [[Grenzburg Campaign Spine]]
 - Seasons and persistence: [[Season and World-State Constitution]]
 - Quest formats and budgets: [[Quest and Content Architecture]]
-- Factions: [[Factions Overview]]
-- Companions and relationships: [[Companion Constitution]]
+- Factions: [[Factions Overview]] and [[Faction Questlines MOC]]
+- Companions and relationships: [[Companion Constitution]] and [[Companions MOC]]
+- Narrative outputs and political settlement: [[Narrative State Register]]
 - Numerical anchors: [[Grenzburg Numbers and Constraints]]
 - Physical baseline: [[Grenzburg Regional Geography]]
 - Main-chapter gates: [[Grenzburg Chapter and Window Matrix]]

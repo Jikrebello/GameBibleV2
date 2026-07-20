@@ -1,0 +1,71 @@
+filters:
+  and:
+    - '!file.inFolder("90 Archive & Drafts")'
+    - '!file.inFolder("99 Templates")'
+    - 'appears_in.contains("Grenzburg")'
+    - 'faction_line != ""'
+properties:
+  faction_line:
+    displayName: Line
+  faction_branch:
+    displayName: Branch
+  quest_owner:
+    displayName: Quest Owner
+  quest_sequence:
+    displayName: Sequence
+  availability_window:
+    displayName: Window
+  cutoff_result:
+    displayName: Cutoff
+  blocking_status:
+    displayName: Blocking
+  world_state_outputs:
+    displayName: Outputs
+views:
+  - type: table
+    name: Faction Authorities
+    filters:
+      or:
+        - 'type == "faction"'
+        - 'type == "index"'
+    groupBy:
+      property: note.faction_line
+      direction: ASC
+    order:
+      - file.name
+      - faction_line
+      - faction_branch
+      - status
+  - type: table
+    name: Faction Quest Ladders
+    filters: 'quest_class == "faction"'
+    groupBy:
+      property: note.faction_line
+      direction: ASC
+    order:
+      - faction_line
+      - faction_branch
+      - quest_sequence
+      - file.name
+      - act
+      - availability_window
+      - cutoff_result
+      - blocking_status
+    sort:
+      - property: faction_line
+        direction: ASC
+      - property: quest_sequence
+        direction: ASC
+      - property: faction_branch
+        direction: ASC
+  - type: table
+    name: Settlement Outputs
+    filters:
+      and:
+        - 'quest_class == "faction"'
+        - 'quest_sequence == 9'
+    order:
+      - faction_line
+      - faction_branch
+      - file.name
+      - world_state_outputs

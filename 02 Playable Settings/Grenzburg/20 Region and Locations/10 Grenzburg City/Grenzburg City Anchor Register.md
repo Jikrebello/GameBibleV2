@@ -9,7 +9,7 @@ culture: ["Eclessian", "Folk", "Chapel-Folk"]
 related_factions: []
 appears_in: ["Grenzburg"]
 needs:
-  - assign quest owners and named local cast during the faction, companion, campaign, and side-content waves
+  - assign remaining main, marquee, local, training, and job owners during their content waves
 map_id: "GC-ANCHORS"
 worldspace_role: reference
 subregion: "Grenzburg City"
@@ -23,7 +23,7 @@ tags: [game-ready]
 ---
 # Grenzburg City Anchor Register
 
-This register reserves reusable spaces without assigning final quest ownership or outcomes.
+This register reserves reusable spaces and remains the naming authority for required locations. Companion and faction quests now claim anchors through their `required_locations` properties; later waves assign the remaining main, marquee, local, training, and job uses.
 
 ## District Anchors
 

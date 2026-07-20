@@ -34,7 +34,7 @@ It is not an upgraded Fighter. The Fighter controls a line through trained arms 
 
 ## In the World
 
-`Paladin` is a gameplay umbrella for several Eclessian and marcher traditions of armed White-Flame service. It does not designate one universal knightly order. [[Knight Bernard]] teaches the player a personal field form during his third quest after the player has confronted the difference between holy purpose, public office, and self-excusing piety.
+`Paladin` is a gameplay umbrella for several Eclessian and marcher traditions of armed White-Flame service. It does not designate one universal knightly order. [[Bernard Valeon]] teaches the player a personal field form during his third quest after the player has confronted the difference between holy purpose, public office, and self-excusing piety.
 
 Bernard's fourth quest supplies the vocation's capstone. Neither unlock requires the player to make the Church politically supreme, and neither establishes that private feeling is always purer than institution.
 
@@ -115,7 +115,7 @@ Once unlocked and mastered, Paladin contributes great weapons, heavy armour, int
 
 ## Navigation
 
-- [[Knight Bernard]]
+- [[Bernard Valeon]]
 - [[White Flame Doctrine]]
 - [[Virtue and Sin Tendencies]]
 - [[Vocation Progression and Mastery]]

@@ -40,5 +40,4 @@ If given skilled labor, recovered stone, and proof of reliable Alder-Crossing ma
 - [[The Duke's Road Company]]
 - [[Still-Hearth Glen]]
 - [[Alderway Vale]]
-- [[The Frontier Industry Lords]]
-
+- [[Frontier Industry Chains]]

@@ -1,0 +1,61 @@
+filters:
+  and:
+    - '!file.inFolder("90 Archive & Drafts")'
+    - '!file.inFolder("99 Templates")'
+    - 'appears_in.contains("Grenzburg")'
+    - 'companion_id != ""'
+properties:
+  companion_id:
+    displayName: ID
+  sex:
+    displayName: Sex
+  vocation:
+    displayName: Vocation
+  recruitment_window:
+    displayName: Recruitment
+  foil:
+    displayName: Foil
+  relationship_theme:
+    displayName: Relationship Theme
+  quest_owner:
+    displayName: Quest Owner
+  quest_sequence:
+    displayName: Sequence
+  availability_window:
+    displayName: Window
+  blocking_status:
+    displayName: Blocking
+views:
+  - type: table
+    name: Companion Roster
+    filters: 'type == "character"'
+    order:
+      - companion_id
+      - file.name
+      - sex
+      - vocation
+      - recruitment_window
+      - foil
+      - relationship_theme
+    sort:
+      - property: companion_id
+        direction: ASC
+  - type: table
+    name: Companion Quests
+    filters: 'quest_class == "companion"'
+    groupBy:
+      property: note.quest_owner
+      direction: ASC
+    order:
+      - companion_id
+      - quest_sequence
+      - file.name
+      - act
+      - availability_window
+      - cutoff_result
+      - blocking_status
+    sort:
+      - property: companion_id
+        direction: ASC
+      - property: quest_sequence
+        direction: ASC

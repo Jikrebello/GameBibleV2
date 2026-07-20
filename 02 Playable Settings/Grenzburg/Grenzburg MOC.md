@@ -13,7 +13,7 @@ tags: [game-ready]
 ---
 # Grenzburg MOC
 
-Grenzburg is the active game project: a silent-protagonist, party-based open-world RPG played across one changing frontier region from autumn through summer. Start with the authority desk before using older character or faction dossiers.
+Grenzburg is the active game project: a silent-protagonist, party-based open-world RPG played across one changing frontier region from autumn through summer. Wave 4 has locked its eight companions, five faction lines, thirty-two companion quests, forty-eight faction quest notes, and composite narrative state.
 
 ## Authority Desk
 
@@ -21,12 +21,16 @@ Grenzburg is the active game project: a silent-protagonist, party-based open-wor
 |---|---|
 | Game vision, tone, scope, and design laws | [[Grenzburg Game Constitution]] |
 | Player identity, social interface, and vocation rules | [[Player Character Constitution]] |
-| Detailed character creation, progression, field play, and vocations | [[Player Systems MOC]] |
+| Detailed progression, field play, and vocations | [[Player Systems MOC]] |
 | Critical-path story | [[Grenzburg Campaign Spine]] |
 | Seasons, cutoffs, persistence, and summer | [[Season and World-State Constitution]] |
 | Quest classes, budgets, and metadata | [[Quest and Content Architecture]] |
-| Companion roster and relationship rules | [[Companion Constitution]] |
-| Joinable faction lines | [[Factions Overview]] |
+| Companion rules | [[Companion Constitution]] |
+| Companion roster and quest register | [[Companions MOC]] |
+| Faction rules | [[Factions Overview]] |
+| Faction quest register | [[Faction Questlines MOC]] |
+| Narrative variables and settlement matrix | [[Narrative State Register]] |
+| Character navigation | [[Characters MOC]] |
 | Main chapter gates and open-world windows | [[Grenzburg Chapter and Window Matrix]] |
 | Material anchors | [[Grenzburg Numbers and Constraints]] |
 | Physical worldspace authority | [[Grenzburg Regional Geography]] |
@@ -47,6 +51,43 @@ Grenzburg is the active game project: a silent-protagonist, party-based open-wor
 - [[Accounts of the Living]]
 - [[The First Summer Road]]
 
+## Companion Roster
+
+| Companion | Sex | Vocation | Recruitment |
+|---|---|---|---|
+| [[Elara Velescar]] | woman | [[Slayer]] | Early Autumn |
+| [[Ilyana Veshkar]] | woman | [[Warlock]] | Black Road |
+| [[Svala Last-Beacon]] | woman | [[Fighter]] | Open Autumn, at Southbound Muster |
+| [[Ashira bath Melan]] | woman | [[Medium]] | Early Autumn |
+| [[Bernard Valeon]] | man | [[Paladin]] | Black Road |
+| [[Dismas Raben]] | man | [[Hunter]] | Black Road |
+| [[Tavio Meran]] | man | [[Rune Fist]] | Early Autumn |
+| [[Zafir ibn Samad]] | man | [[Binder]] | Early Autumn |
+
+The party remains the player plus three active companions. A male player may romance women; a female player may romance men. Same-sex paths become sworn bonds with equivalent power. One romance and one sworn bond may be committed in a playthrough.
+
+![[Companions.base]]
+
+## Faction Lines
+
+- [[Ducal and Marcher Service]]
+- [[Blackjacks and Medori]]
+- [[Church of Grenzburg]]
+- [[Four-Hearth Compact]]
+- [[Grenzburg Underworld]], forking after six shared quests into [[Low Lanterns]] or [[Black Bell]]
+
+Every line remains open through approximately quest six. Late internal commitments display exact closed quests, leaders, services, and settlement terms. The player becomes a trusted officer or power broker, never the supreme leader.
+
+![[Factions.base]]
+
+## Principal Cast
+
+- Ducal and civil: [[Duke Alaric von Grenzburg]], [[Castellan Pierre Hohenwall]], [[Sergeant Liese of the Marcher Vanguard]], [[Sir Gerhold Brandt]], and [[Sergeant Lotte Weissbruck]].
+- Bank and company: [[Captain Valdemar Koss]], [[Ledger-Master Lucia Medori]], and [[Quartermaster Brina Kest]].
+- Church: [[Bishop Konrad von Ehrenfeld]], [[Bishop-Prelate Caestus]], [[Deacon Ignatius]], and [[Sister Marcellina]].
+- Folk compact: [[Runa Moss-Crown]], [[Anya Moss-Crown]], [[Elof Bent-Oak]], [[Jorund Shattered-Tusk]], and [[Thorn-Seer Mael]].
+- Underworld and civil corruption: [[Mara Senn]], [[Ivo Renn]], [[Watch-Captain Oskar Vey]], and [[Lord High Bailiff Enzo Voss]].
+
 ## Worldspace
 
 - [[Grenzburg Regional Geography]]
@@ -65,74 +106,45 @@ The base-game atlas contains Grenzburg city and seven exterior regions. [[Birchc
 
 ## Campaign Threats
 
-- [[Grobi Overview]] - the wider people and moral-agency ruling.
-- [[The Grobi]] - the Grenzburg campaign-facing source dossier, currently under review.
-- [[Emerald Drakes]] - the mandatory winter hunt remains an animal encounter.
-- [[Residue Dead Overview]] - controls corpse residue and the rule that souls have routed onward.
-- [[Qianglong Caste Recurrences]] - Giant legacy forms used by the Muster.
-- [[The Unending Muster]] - historical and metaphysical source of Act III.
-- [[The General Below]] - unique true dragon and final sovereign horror.
+- [[Grobi Overview]] controls the wider people and moral-agency ruling.
+- [[The Grobi|The Grobi in Grenzburg]] controls band-specific campaign use; Grobi are not a joinable global faction.
+- [[Emerald Drakes]] controls the mandatory winter hunt as an animal encounter.
+- [[Residue Dead Overview]] controls corpse residue and the rule that souls have routed onward.
+- [[Qianglong Caste Recurrences]] controls Giant legacy forms used by the Muster.
+- [[The Unending Muster]] controls the historical and metaphysical source of Act III.
+- [[The General Below]] is the unique true dragon and final sovereign horror.
 
 Pale-Skins remain wider-setting canon but have no role in Grenzburg's active main campaign.
 
-## Companion Control
+## Secondary Content
 
-[[Companion Constitution]] fixes eight full outsider debtors, four women and four men, player-plus-three party size, four personal quests each, heterosexual romance eligibility, and same-sex sworn bonds with equivalent rewards.
+- [[Frontier Industry Chains]]
+- [[Seasonal Settlement Chains]]
+- [[Rimewing Sisters]]
+- delvers, warlock schools, craftspeople, hunters, and trainers through later secondary chains
 
-The retained seeds are:
-
-- [[Lady Elara]];
-- [[Knight Bernard]];
-- [[Dismas the Highwayman]];
-- [[Zafir the Bound Chainmaster]].
-
-Three women representing Thalmyric, specific Sestaran, and Ättar life, plus one Jirahar man, will be named and canonized through individual Wave 4 workshops. Existing Lotte, Runa, and Skrit notes remain local-character source material under review; they are not members of the active eight-companion roster.
-
-## Principal Cast Under Review
-
-- [[Duke Alaric von Grenzburg|Alaric von Grenzmark, Duke of Grenzburg]]
-- [[Castellan Pierre Hohenwall]]
-- [[Sir Gerhold Brandt]]
-- [[Captain Valdemar Koss]]
-- [[Ledger-Master Lucia Medori]]
-- [[Magister Leviticus of Sestaren]]
-- [[Bishop Konrad von Ehrenfeld]]
-- [[Bishop-Prelate Caestus]]
-- [[Lord High Bailiff Enzo Voss]]
-- [[Sergeant Liese of the Marcher Vanguard]]
-
-Their setting identities remain source material. Their game roles, quest ownership, and outcomes require Wave 4 reconciliation with the new campaign.
-
-## Faction Lines
-
-- **Ducal and Marcher service**
-- **Blackjacks and Medori:** [[Blackjack Corps]] and [[The Medori Bank]]
-- **Church of the Redeemer**
-- **Folk kindreds:** [[The Folk Clans]]
-- **Grenzburg underworld**, later forking between thieves-smugglers and killer-vigilantes
-
-Grobi are enemies and negotiable regional actors rather than a joinable faction. Industry lords, village headmen, delvers, warlock schools, craftsmen, hunters, and trainers own substantial secondary content without becoming five more campaign-wide reputation bars.
+These groups own substantial stories and services without becoming additional global reputation bars.
 
 ## Independent Adventures
 
 - [[The Duke's Road — Full Adventure]]
 - [[The First Writ — Full Adventure]]
 
-Their starting situations remain local canon. Their names, plots, player outcomes, and quest structures are not imported into the Grenzburg main game. The conversion library is craft guidance only.
+Their starting situations remain local canon. Their names, plots, outcomes, and quest structures are not imported into the main game. The conversion library is craft guidance only.
 
 ## Retired Main-Story Material
 
 The Heart-Stone theft, Pale-Skin conspiracy, mandatory Bank riders, Leviticus betrayal, Dragon's Tomb finale, and canonical Duke's Peace belong to the archived pre-rebuild campaign. The Heart-Stone's barrow may later become an optional high-level side adventure.
 
-See [[Grenzburg Pre-Game-Constitution Archive Index]] for the preserved treatment.
+See [[Grenzburg Pre-Game-Constitution Archive Index]] and [[Grenzburg Wave 4 Archive Index]] for preserved treatments.
 
 ## Production Sequence
 
 1. **Game constitution:** complete.
-2. **Worldspace constitution:** complete; later content may fill reserved sites without moving the geography.
-3. **Player systems:** complete at the narrative-constitution level through [[Player Systems MOC]]; exact combat balance remains provisional.
-4. **Companions and factions:** next; targeted creator questions, then individual canonization.
-5. **Main campaign:** fully block all twenty-one chapters and two aftermath quests after companion and faction control is locked.
+2. **Worldspace constitution:** complete.
+3. **Player systems:** complete at narrative-constitution level; numerical balance remains provisional.
+4. **Companions and factions:** complete at outlined production level.
+5. **Main campaign:** next; fully block all twenty-one chapters and two aftermath quests against the locked narrative state.
 6. **Side content:** marquee stories, local quests, dungeons, hunts, contracts, and jobs.
 7. **Integration:** endings, summer states, intersections, production navigation, and final canon checks.
 

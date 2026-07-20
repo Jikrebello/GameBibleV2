@@ -176,5 +176,5 @@ Torvald is not redeemed by being defeated. He is redeemed, if at all, by being *
 - [[Ruin Vermin and Swarms]]
 - [[The Mundane Layer — Residue, Vermin, and the Delver Trade]]
 - [[The Medori Bank]]
-- [[The Folk Clans]]
+- [[Four-Hearth Compact]]
 - [[Quest Tier Doctrine]]

@@ -10,6 +10,8 @@ related_factions: []
 appears_in: []
 needs: []
 tags: []
+faction_line: ""
+faction_branch: ""
 ---
 # {{title}}
 
@@ -28,4 +30,8 @@ tags: []
 ## Player Leverage
 
 ## Quest Hooks
+
+## Settlement Outputs
+
+## Lock-In Consequences
 

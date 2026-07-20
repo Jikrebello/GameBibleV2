@@ -86,5 +86,5 @@ Way-Weaver, crossroad wife, key sister, road norn, fork speaker, and the one who
 - [[Faewild and Menhir MOC]]
 - [[Hecatara]]
 - [[Contract Magic and True Names]]
-- [[Zafir the Bound Chainmaster]]
+- [[Zafir ibn Samad]]
 - [[Bestiary MOC]]

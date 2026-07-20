@@ -74,5 +74,5 @@ The grove-debt is portable: any grove taken without restraint, any frontier prof
 - [[The Cloven]]
 - [[Sylvorn]]
 - [[Menhir Sovereignty and Bargain]]
-- [[The Frontier Industry Lords]]
+- [[Frontier Industry Chains]]
 - [[Folk Daily Life and the Thirteen Moons]]

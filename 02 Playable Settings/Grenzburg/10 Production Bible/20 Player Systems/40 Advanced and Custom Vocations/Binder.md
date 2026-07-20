@@ -128,7 +128,7 @@ Once unlocked and mastered, Binder contributes rings, cords, prepared forms, bre
 
 ## Navigation
 
-- [[Zafir the Bound Chainmaster]]
+- [[Zafir ibn Samad]]
 - [[Contract Magic and True Names]]
 - [[The Creditor]]
 - [[Vocation Progression and Mastery]]

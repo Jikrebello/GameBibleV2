@@ -56,6 +56,6 @@ Ferren Hollow can become a town that paid and made a real Folk-border peace, a t
 - [[Sisrin the Alder-Maid]]
 - [[The Rime Rider]]
 - [[The Grove-Debt]]
-- [[The Frontier Industry Lords]]
+- [[Frontier Industry Chains]]
 - [[The Sylvan Marches Overview]]
 - [[Folk Daily Life and the Thirteen Moons]]

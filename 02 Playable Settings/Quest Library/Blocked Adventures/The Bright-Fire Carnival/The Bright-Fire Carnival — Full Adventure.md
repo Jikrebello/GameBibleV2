@@ -268,7 +268,7 @@ The grove-debt is not cured by force alone. It ends when the territorial memory 
 - [[The Rimebound]]
 - [[Menhir Sovereignty and Bargain]]
 - [[Sylvorn]]
-- [[The Frontier Industry Lords]]
+- [[Frontier Industry Chains]]
 - [[Folk Daily Life and the Thirteen Moons]]
 - [[Thin Spaces]]
 - [[Quest Tier Doctrine]]
