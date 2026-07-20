@@ -7,7 +7,7 @@ era: []
 region: []
 culture: []
 related_factions: []
-appears_in: []
+appears_in: ["Grenzburg"]
 needs: []
 tags: []
 ---
@@ -18,6 +18,8 @@ tags: []
 The Celestial Empire of Qianglong was structured around four Giant castes aligned with **Solrath (War), Nevaura (Famine), Morvalis (Death),** and **Veradia (Pestilence)**. Court genealogy called the castes children of the Horsemen. Authorially, they were Giant lineages altered by prolonged Menhir contact, office-law, selective breeding, and ritual imitation. None of the four Menhir created the Giants, authorized their rule, or supplied a moral verdict on the empire. Qianglong converted natural domain into political mandate and called the result divine order.
 
 Qianglong's continuity project attempted necromantic caste recurrence. Sealed vaults preserved trained residue, office patterns, and prepared bodies so the ruling order could return without accepting mortality. The system copied and reinstated caste function; it did not create human souls.
+
+One late frontier project joined War-Caste command to Death-Caste recurrence. [[The Unending Muster]] attempted to make service itself survive soldiers, dynasties, and defeat. It did not resurrect the dead; it preserved posture, equipment memory, route, office, and obedience. Its refusal to permit discharge or death to end service opened the wound later known as [[The General Below]].
 
 ## The Four Castes of Giants
 
@@ -74,6 +76,8 @@ Qianglong survives in myth as a warning about power mistaking natural correspond
 ## Navigation
 
 - [[Timeline MOC]]
+- [[The Unending Muster]]
+- [[Qianglong Caste Recurrences]]
 - [[The Faewild Schism]]
 - [[Menhir Sovereignty and Bargain]]
 - [[Canon Index]]

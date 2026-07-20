@@ -15,21 +15,21 @@ tags: []
 
 ## First Creative Priority
 
-Develop Caleran as the setting's great-city sandbox. Its population, fourteen districts, public factions, principal cast, intrigue toolkit, undercity networks, and level 1-20 progression are controlled through [[Caleran MOC]].
+Build Grenzburg into the setting's first complete video game. Wave 1 is controlled through [[Grenzburg Game Constitution]] and [[Grenzburg Campaign Spine]]; the next approved work is the production worldspace for Grenzburg city and seven connected exterior subregions. Caleran remains the great-city sandbox, but it is not the active implementation priority.
 
 ## Current Canon Baseline
 
 - **Present day:** 1360 AR, using the [[Chronology of the Known World (AR Dating)]].
 - **Map logic:** the known world is southern-hemisphere oriented; south is colder, harsher, and more frontier-bound. Use [[Gazetteer of the Known World]] and [[Geography Atlas]] as the map baseline.
 - **Source truth:** in-world historical accounts are rated in [[Reliability Register]].
-- **Game proof:** [[Grenzburg Vertical Slice Dossier]] is the current production-facing doorway for the playable testbed.
+- **Active game:** [[Grenzburg MOC]] is the project doorway. [[Grenzburg Game Constitution]], [[Player Character Constitution]], [[Season and World-State Constitution]], [[Quest and Content Architecture]], [[Companion Constitution]], and [[Factions Overview]] control the full-game rebuild.
 - **Great-city sandbox:** [[Caleran Great-City Dossier]] is the production doorway for urban intrigue, archaeology, and occult investigation.
 - **Vault structure:** active reference material uses numbered, subject-owned folders; superseded material is indexed through [[Archive Index]] and the [[Physical Reorganization Manifest]].
 - **Creature canon:** [[Bestiary Framework — Creatures of the World Egg|Bestiary Canon Register]] controls origin-first taxonomy and [[The Image, Soul, and Creaturely Continuity]] controls personhood and persistence. [[Bestiary Translation Concordance]] records the full Pathfinder crosswalk without importing its canon.
 - **First creature wave:** [[The Mundane Layer — Residue, Vermin, and the Delver Trade]] controls 34 Material and residue forms; [[Heaven and Soul-Road MOC]] controls sixteen profiles divided among true angels, manifested saints, and soul-road service.
 - **Second creature wave:** [[Faewild and Menhir MOC]] controls thirty forms across drakes, court beings, place minds, mythic fauna, and High Hunts; [[Hell and Abyss MOC]] controls twenty-four forms across damned manifestations, Depth fauna, devil mantles, soul predators, and Abyssal wounds.
 - **Third creature wave:** [[Elemental Shell MOC]] controls eighteen non-personal Shell forms; [[Ancient and Crafted Legacies MOC]] controls twenty-eight crafted forms across five Giant legacies, Atherian works, Ironbound industry, fleshworks, and Covenant engines. The active registry now exposes 171 genuine forms without counting overview placeholders.
-- **Fourth creature wave:** [[Shadowlands and Idols MOC]] controls forty-two forms across seven distinct Idol ecologies, altered lineages, Dreadforms, First-War remnants, and elder Shadow; [[Astral Drift and Patrons MOC]] controls eighteen forms across Driftkin, Protons, route predators, patron servants, Anchor-Lords, and great beings. The active registry now exposes exactly **212 genuine forms**.
+- **Fourth creature wave:** [[Shadowlands and Idols MOC]] controls forty-two forms across seven distinct Idol ecologies, altered lineages, Dreadforms, First-War remnants, and elder Shadow; [[Astral Drift and Patrons MOC]] controls eighteen forms across Driftkin, Protons, route predators, patron servants, Anchor-Lords, and great beings. With [[The General Below]] added for Grenzburg, the active registry now exposes exactly **213 genuine forms**.
 - **Menhir control:** [[Menhir Sovereignty and Bargain]] controls fused continuity, moral blindness, bounded bargains, and the distinction between sovereign compulsion and court-person agency. [[The Faewild Schism]] controls historical Trium and the Atherian Circle taxonomy.
 - **Ghoul geography:** [[Underworld, Underways, and Corpse-Roads]] controls discontinuous caverns, corpse-roads, and double-layer settlements. The three great cities remain creator secrets; public cultures retain only contradictory grave-watch folklore.
 - **Covenant structure:** [[Ahl-e-Ahd Canon Register]] controls the layered peoples, Witnessed/Sealed divide, unequal states, and authorial Fourth Seal truth. [[Covenant Reconstruction Audit]] records the full reference pass.
@@ -41,9 +41,9 @@ Develop Caleran as the setting's great-city sandbox. Its population, fourteen di
 
 ## Next Three Workstreams
 
-1. **Regional map production:** turn the Covenant, Sestaran, and Tarkhan control notes into finished roads, trade, harbor, fair, water, fortress, customary-range, and jurisdiction layers.
-2. **Bestiary final wave:** build cross-cutting conditions, regional names, and the adventure-demand closure pass from the completed 212-form registry.
-3. **Caleran and Grenzburg implementation:** continue map and adventure blocking from their locked production bibles without reopening their canon spines; use those adventures to set the creature backlog.
+1. **Grenzburg worldspace:** lock the city districts, seven exterior subregions, roads, hubs, dungeons, seasonal variants, Fort Tannbruck logistics, Deep Muster approaches, and replacement regional map.
+2. **Grenzburg player systems:** build the six starting vocation dossiers, reversible hybrid progression, trainers, traversal, social formulas, and the Paladin and Binder unlock paths.
+3. **Grenzburg companions and factions:** workshop each new or revised identity with targeted creator questions before canonizing eight companion arcs and five eight-to-ten-quest faction lines.
 
 ## Locked Rulings
 
@@ -72,14 +72,17 @@ Develop Caleran as the setting's great-city sandbox. Its population, fourteen di
 - The Folk are a living umbrella civilization rather than a state. Enaidfae are old-rite Folk confederacies; Ättar are a distinct cousin people. Local courts may mix Menhir courtiers, patrons, Shades, and Idol masks, while [[Folk Faith and Appeasement]] governs public practice.
 - The Ättar are four great totem-kindreds containing many rival halls. Every old-rite hall chief is a hybrid-only skinwalker; each ruling line owes one firstborn exchange per generation. Transformations do not consume memories, and Moontouched decline is neither immediate nor inevitable.
 - The Tarkhan are one people expressed through western camel-based Well-Tarkhan and northeastern horse-based Grass-Tarkhan life. The White Horde is Iqashar's immediate raiding threat; Iron settlement is its slower institutional threat. The [[Nine Wells of Tergai]] are ancestral Tarkhan ground seized by Covenant forces in 558 AR, and the [[Castaran Long Road]] remains outside ordinary Concord territory.
-- The protagonist is a customizable Bank debtor seconded to the Duke: Koss controls the contract, Pierre controls public deployment, and Alaric controls strategy.
-- The Duke's Peace is the canonical continuation. Leviticus is the coerced winter betrayer and is redeemed through public testimony.
-- The field party is the player plus three companions. Elara, Bernard, Dismas, and Zafir are core companions; Lotte, Runa, and Skrit are lighter recruits.
+- The protagonist is a silent, customizable outsider debtor serving as a Blackjack specialist under ducal field assignment. The Duke drives the public main story; Bank pressure is selective rather than a rider attached to every mission.
+- Grenzburg's critical path is [[PROLOGUE THE BLACK ROAD|The Black Road]], [[ACT I THE CLOSING ROADS|The Closing Roads]], [[ACT II WINTER'S TEETH|Winter's Teeth]], [[ACT III THE UNENDING MUSTER|The Unending Muster]], and playable [[SUMMER AFTERMATH|summer aftermath]]. The Heart-Stone, Pale-Skins, Leviticus betrayal, and Duke's Peace are retired from the main campaign.
+- Fort Tannbruck always falls, the Emerald Drake is slain, Ghor's organized siege is defeated, Gerhold accepts the Unending Muster without redemption, and the General Below is stopped in every completed campaign. Political power, casualties, debt freedom, companion futures, and settlement survival remain variable; no political ending is setting canon.
+- The field party is the player plus three companions selected from eight full outsider debtors. Four women and four men each receive four personal quests and relationship paths; romance eligibility is heterosexual, while same-sex paths become mechanically equivalent sworn bonds.
 
 ## Open Production Questions
 
-- Production-quality borders, roads, travel times, and trade layers.
-- Numerical Grenzburg reward, track, companion-approval, and encounter-balance values.
+- Production-quality Grenzburg subregions, city districts, roads, travel times, hubs, dungeon sites, and seasonal layers.
+- Grenzburg vocation trees, social formulas, progression costs, quest rewards, companion approval, and encounter balance.
+- Names, cultures, debts, vocations, faults, and ending ranges for the four new companions, to be resolved through individual workshops.
+- Leaders, internal futures, services, and eight-to-ten-quest ladders for Grenzburg's five deep faction lines.
 - Named regional cells for the Left Hand as new playable settings are developed.
 - Final visual treatment for Caleran's surface and undercity maps.
 - System-specific encounter and reward tuning for selected Caleran adventures.

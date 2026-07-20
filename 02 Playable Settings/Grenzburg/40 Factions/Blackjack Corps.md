@@ -1,6 +1,6 @@
 ---
 type: faction
-status: canon
+status: needs-review
 canon_level: local
 visibility: restricted
 era: ["Present Day"]
@@ -8,8 +8,9 @@ region: ["Grenzburg"]
 culture: ["Eclessian", "Sestaran"]
 related_factions: ["Medori Bank", "Duchy of Grenzburg"]
 appears_in: ["Grenzburg"]
-needs: []
-tags: [game-ready]
+needs:
+  - rebuild the eight-to-ten-quest line, service-credit rules, internal futures, and selective Bank pressure
+tags: []
 ---
 # Blackjack Corps
 
@@ -19,7 +20,7 @@ Blackjacks are debt-bound specialists maintained by the Medori Bank: escorts, de
 
 ## Command
 
-[[Captain Valdemar Koss]] commands the Corps internally. Under the [[Crisis Charter of Secondment]], [[Castellan Pierre Hohenwall]] controls public deployment and Duke Alaric sets strategic priorities. Koss retains discipline, pay, equipment, debt assessment, and confidential Bank riders.
+[[Captain Valdemar Koss]] commands the Corps internally. Under the [[Crisis Charter of Secondment]], [[Castellan Pierre Hohenwall]] and appointed officers control public field assignments while Duke Alaric sets strategic priorities. Koss retains discipline, equipment accounts, and debt assessment. Bank orders occur as explicit faction or conflict missions rather than confidential riders attached to every ducal assignment.
 
 ## Internal Fault Lines
 
@@ -30,14 +31,14 @@ Blackjacks are debt-bound specialists maintained by the Medori Bank: escorts, de
 
 ## Player Leverage
 
-The player can reduce Bank leverage by paying principal, exposing fraudulent clauses, winning ducal indemnity, or obtaining Lady Elara's Gilded Shroud. Accepting advances, concealing Bank crimes, or surrendering artifacts increases leverage.
+The player can change their debt position through payment, service credit, fraud exposure, sponsorship, political settlement, defiance, or escape. Accepting advances and protection may deepen Bank control. No single artifact or companion automatically resolves the account.
 
-## Canonical Future
+## Possible Futures
 
-Under the Duke's Peace, the Corps is not abolished overnight. It becomes a jointly audited frontier service: Bank debts remain collectible, but service terms, release dates, and collateral claims enter ducal court. Koss loses unilateral authority to liquidate personnel.
+The faction line must support several fully costed outcomes, including professional reform, continued Medori control, debtor self-organization, ducal absorption, or institutional fracture. No future is setting canon in Wave 1.
 
 ## Navigation
 
-- [[Player Mandate and Dual Chain of Command]]
+- [[Player Character Constitution]]
 - [[The Medori Bank]]
 - [[Grenzburg MOC]]

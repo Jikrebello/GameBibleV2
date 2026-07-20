@@ -49,14 +49,14 @@ The target is approximately 200 registry entries represented through 45–60 fam
 | Material and Residue | 34 forms |
 | Heaven and Soul-Road | 16 profiles |
 | Faewild and Menhir | 30 forms |
-| Hell and Abyss | 24 forms |
+| Hell and Abyss | 25 forms |
 | Elemental Shell | 18 forms |
 | Ancient and Crafted Legacies | 28 forms |
 | Shadowlands and Idols | 42 forms |
 | Astral Drift and Patrons | 18 forms |
 
 Section MOCs hold exact form registers. Overview and index notes never contribute artificial `catalogued_forms` coverage.
-The completed active registry contains **212 genuine forms** before the final cross-cutting and regionalization pass.
+The completed active registry contains **213 genuine forms** before the final cross-cutting and regionalization pass.
 
 ## Encounter Pyramid
 

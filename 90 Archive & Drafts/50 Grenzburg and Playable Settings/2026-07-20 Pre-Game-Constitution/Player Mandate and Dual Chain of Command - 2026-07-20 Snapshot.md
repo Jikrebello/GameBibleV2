@@ -1,7 +1,7 @@
 ---
 type: reference
-status: canon
-canon_level: local
+status: archived
+canon_level: obsolete
 visibility: author-only
 era: ["Present Day"]
 region: ["Grenzburg"]
@@ -9,7 +9,11 @@ culture: ["Eclessian"]
 related_factions: ["Duchy of Grenzburg", "Medori Bank", "Blackjack Corps"]
 appears_in: ["Grenzburg"]
 needs: []
-tags: [game-ready]
+archive_reason: preserved before the Grenzburg game-constitution rebuild
+archived_from: "02 Playable Settings/Grenzburg/10 Production Bible/Player Mandate and Dual Chain of Command.md"
+archived_on: 2026-07-20
+superseded_by: "[[Player Character Constitution]]"
+tags: []
 ---
 # Player Mandate and Dual Chain of Command
 

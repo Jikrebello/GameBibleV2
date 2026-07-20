@@ -1,6 +1,6 @@
 ---
 type: faction
-status: canon
+status: needs-review
 canon_level: local
 visibility: public
 era: []
@@ -8,9 +8,9 @@ region: ["Grenzburg"]
 culture: []
 related_factions: []
 appears_in: ["Grenzburg"]
-needs: []
-tags:
-  - game-ready
+needs:
+  - reconcile settlements and leaders with the seven-subregion map and expanded seasonal world states
+tags: []
 ---
 ### **The Seasonal Village Headmen**
 
@@ -94,4 +94,3 @@ Together, the pleas of these three Headmen represent the **Trilemma of the Front
 
 - [[Grenzburg MOC]]
 - [[Canon Index]]
-

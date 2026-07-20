@@ -1,6 +1,6 @@
 ---
 type: character
-status: canon
+status: needs-review
 canon_level: local
 visibility: public
 era: []
@@ -8,9 +8,9 @@ region: ["Grenzburg"]
 culture: []
 related_factions: []
 appears_in: ["Grenzburg"]
-needs: []
-tags:
-  - game-ready
+needs:
+  - reconcile his field-command role, Fort Tannbruck strategy, and faction-line ownership with the rebuilt campaign
+tags: []
 ---
 ### “The Wall Is the Law” (Duchy: Good)
 

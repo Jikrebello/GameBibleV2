@@ -1,6 +1,6 @@
 ---
 type: character
-status: canon
+status: needs-review
 canon_level: local
 visibility: public
 era: []
@@ -8,9 +8,9 @@ region: ["Grenzburg"]
 culture: []
 related_factions: []
 appears_in: ["Grenzburg"]
-needs: []
-tags:
-  - game-ready
+needs:
+  - define his non-traitor role in the rebuilt urban, logistics, and faction story
+tags: []
 ---
 ### **Magister Leviticus of Sestaren, The Kämmerer of Grenzburg**
 
@@ -119,7 +119,7 @@ A relationship of **respectful mutual surveillance**. She is the most competent 
 ### Winter (The Accountant)
 - Turns inward. Analyzes the year's data, plans reforms, builds his case for spring.
 - Manages the intricate dance of the winter ration economy with icy precision.
-- Receives the forged neutral-escrow order and a threat to terminate imported grain credit if the Heart-Stone remains in ducal custody.
+- Faces ordinary wartime pressure over stores, records, imported grain, and lawful emergency administration; his exact campaign missions remain to be rebuilt.
 
 ### Spring (The Reckoning)
 - Presents the Duke with the brutal truth of the previous year's finances.
@@ -141,9 +141,9 @@ He views them as volatile Bank assets carrying a valid ducal warrant. Their divi
 
 **He will use economic shock therapy to force reform.** Example: He will deliberately withhold the Duke's copper-coin payment to the lumberjacks, forcing a switch to a silver-based payroll. This breaks the guild's stranglehold on credit (as they deal in copper) and causes short-term panic, but in his mind, it modernizes the labor market. He sacrifices immediate stability for systemic change.
 
-## Canonical Winter Betrayal
+## Retired Winter Plot
 
-The Silent Partners coerce Leviticus through the forged escrow interpretation recorded in the [[Crisis Charter of Secondment]]. He authorizes the Heart-Stone's transfer through Katarina's service tunnel rather than falsify the books or accept immediate grain foreclosure. Pale-Skins seize the transfer. In spring, the player can prove the order fraudulent and redeem Leviticus through public testimony; this is the canonical Duke's Path result.
+Leviticus is not the mandatory winter betrayer in the rebuilt campaign. The Heart-Stone transfer, Pale-Skin seizure, public redemption, and canonical Duke's Path are archived. Wave 3 will determine his logistics, urban, and faction roles without presuming treason.
 
 ---
 

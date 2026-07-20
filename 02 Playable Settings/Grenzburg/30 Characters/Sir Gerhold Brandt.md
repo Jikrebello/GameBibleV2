@@ -1,6 +1,6 @@
 ---
 type: character
-status: canon
+status: needs-review
 canon_level: local
 visibility: public
 era: []
@@ -8,11 +8,15 @@ region: ["Grenzburg"]
 culture: []
 related_factions: []
 appears_in: ["Grenzburg"]
-needs: []
-tags:
-  - game-ready
+needs:
+  - rebuild his military role, investigation of the waking Muster, irreversible acceptance, boss encounter, and death or execution
+tags: []
 ---
 # Sir Gerhold "The Iron-Bear" Brandt, Marschal of Grenzburg
+
+## Controlling Campaign Ruling
+
+[[Grenzburg Campaign Spine]] supersedes the legacy role treatment below. Gerhold does not cause the Deep Muster's first recurrence. After the winter siege, he knowingly accepts command of its residue armies as a replacement garrison and accelerates [[The General Below]]. Once he accepts, he receives no redemptive outcome: the player kills him or defeats him and sees him executed. His exact earlier service, relationships, and boss design remain under review.
 
 **Role in the Rule of Three:**
 He is the Shield. Not a strategist, not a politician—**the man who maintains the wall between order and annihilation**. Every decision is measured in bodies and breaches. His internal war is between tradition, ruthless efficiency, and bitter pragmatism.

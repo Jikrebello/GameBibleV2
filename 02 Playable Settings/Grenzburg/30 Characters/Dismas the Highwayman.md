@@ -1,40 +1,38 @@
 ---
 type: character
-status: canon
+status: needs-review
 canon_level: local
 visibility: restricted
 era: ["Present Day"]
 region: ["Grenzburg"]
-culture: ["Eclessian"]
-related_factions: ["Blackjack Corps", "Marcher Vanguard"]
+culture: []
+related_factions: ["Blackjack Corps"]
 appears_in: ["Grenzburg"]
-needs: []
-tags: [game-ready]
+needs:
+  - workshop his culture, gang, crimes, haunting, debt, vocation, four quests, and relationship path
+tags: []
 ---
 # Dismas the Highwayman
 
-## Core Concept
+## Locked Core
 
-Dismas is a former highway captain whose gang was manipulated into atrocity with Pale-Skin blood-stones. He must decide whether leadership is merely the power to escape consequences or the duty to remain when others depend on him.
+Dismas is an outsider and former highwayman haunted by what he chose, enabled, and survived. His criminal debt, sentence, blood-price, or converted obligation places him among the Blackjacks travelling to Grenzburg.
 
-## Five Decisive Beats
+He is charismatic, observant, funny when he is not performing indifference, and highly competent on roads. The game may let players like him without romanticizing robbery, murder, or the people his band harmed.
 
-1. **The Marked Coin:** meet Kaela and learn the old gang was steered by the Pale Factor.
-2. **The Factor's Trail:** enter Bank bureaucracy without becoming Koss's thug again.
-3. **Blood in the Snow:** confront the addicted Pale Factor and prevent revenge from erasing the evidence.
-4. **The Siege Test:** lead settlers and irregulars at a breaking section of wall.
-5. **The Last Coach:** face the surviving child of the family he once attacked and accept judgement without fleeing.
+## Companion Function
 
-## Canonical Outcome
+Dismas's four personal quests concern leadership, guilt, victims, former accomplices, and the temptation to turn every attachment into an escape route. His past atrocity was not secretly caused by Pale-Skins, blood-stones, possession, or another device that removes his agency.
 
-Dismas atones and accepts a field leadership role in the reformed Marcher service. He does not receive automatic forgiveness; he chooses to remain answerable and protect the roads he once preyed upon.
+Exact culture, criminal history, nature of the haunting, vocation, debt terms, and ending range await the Wave 3 workshop. No fixed atonement or political outcome is carried forward.
 
-## Final Dungeon Solution
+## Relationship
 
-Dismas coordinates irregular allies and holds the retreat route against ritual-spawn while the active company enters the heart chamber.
+Dismas follows the eligibility and reward rules in [[Companion Constitution]]. Romance and sworn bond may deepen through honesty and conduct but require explicit commitment.
 
 ## Navigation
 
-- [[Companion Quests]]
-- [[Blackjack Corps]]
+- [[Companion Constitution]]
+- [[Player Character Constitution]]
+- [[Grenzburg Campaign Spine]]
 - [[Grenzburg MOC]]

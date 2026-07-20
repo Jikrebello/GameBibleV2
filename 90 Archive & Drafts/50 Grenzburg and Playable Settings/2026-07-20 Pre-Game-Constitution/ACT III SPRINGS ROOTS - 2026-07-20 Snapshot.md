@@ -1,7 +1,7 @@
 ---
 type: quest
-status: canon
-canon_level: local
+status: archived
+canon_level: obsolete
 visibility: author-only
 era: []
 region: ["Grenzburg"]
@@ -9,6 +9,10 @@ culture: []
 related_factions: []
 appears_in: ["Grenzburg"]
 needs: []
+archive_reason: preserved before the Grenzburg game-constitution rebuild
+archived_from: "02 Playable Settings/Grenzburg/50 Campaign/Acts/ACT III SPRING'S ROOTS.md"
+archived_on: 2026-07-20
+superseded_by: "[[ACT III THE UNENDING MUSTER]]"
 tags:
   - game-ready
 ---

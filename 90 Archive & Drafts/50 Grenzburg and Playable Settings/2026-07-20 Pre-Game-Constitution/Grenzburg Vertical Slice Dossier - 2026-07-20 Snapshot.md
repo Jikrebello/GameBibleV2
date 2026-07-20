@@ -1,7 +1,7 @@
 ---
 type: quest
-status: canon
-canon_level: local
+status: archived
+canon_level: obsolete
 visibility: author-only
 era:
   - Present Day
@@ -19,6 +19,10 @@ related_factions:
 appears_in:
   - Grenzburg
 needs: []
+archive_reason: preserved before the Grenzburg game-constitution rebuild
+archived_from: "02 Playable Settings/Grenzburg/10 Production Bible/Grenzburg Vertical Slice Dossier.md"
+archived_on: 2026-07-20
+superseded_by: "[[Grenzburg Game Constitution]]"
 tags:
   - game-ready
 ---

@@ -1,6 +1,6 @@
 ---
 type: character
-status: canon
+status: needs-review
 canon_level: local
 visibility: public
 era: []
@@ -8,9 +8,9 @@ region: ["Grenzburg"]
 culture: []
 related_factions: []
 appears_in: ["Grenzburg"]
-needs: []
-tags:
-  - game-ready
+needs:
+  - define whether he belongs in the main game, a faction line, or regional side content
+tags: []
 ---
 ### **Baron Anders of Hochfeld, The Landvogt of Grenzburg**
 
@@ -170,4 +170,3 @@ He views them as **walking legal contradictions**. They are both agents of order
 
 - [[Grenzburg MOC]]
 - [[Canon Index]]
-

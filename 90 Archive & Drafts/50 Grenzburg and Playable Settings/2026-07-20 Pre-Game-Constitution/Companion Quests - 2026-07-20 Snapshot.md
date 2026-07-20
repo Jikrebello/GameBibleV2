@@ -1,7 +1,7 @@
 ---
 type: quest
-status: canon
-canon_level: local
+status: archived
+canon_level: obsolete
 visibility: author-only
 era: []
 region: ["Grenzburg"]
@@ -10,6 +10,10 @@ related_factions: []
 appears_in: ["Grenzburg"]
 needs:
   - tune approval thresholds, field-role balance, and banter frequency during implementation
+archive_reason: preserved before the Grenzburg game-constitution rebuild
+archived_from: "02 Playable Settings/Grenzburg/50 Campaign/Companions/Companion Quests.md"
+archived_on: 2026-07-20
+superseded_by: "[[Companion Constitution]]"
 tags:
   - game-ready
 ---

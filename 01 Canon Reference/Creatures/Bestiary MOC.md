@@ -212,6 +212,7 @@ These references define ontology and places; they add no creature forms.
 - [[True Dragons]]
 - [[The Shoreless King]]
 - [[The Unwritten Worm]]
+- [[The General Below]]
 
 ## 80 Ancient and Crafted Legacies
 

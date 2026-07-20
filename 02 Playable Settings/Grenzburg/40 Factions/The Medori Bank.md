@@ -1,6 +1,6 @@
 ---
 type: faction
-status: canon
+status: needs-review
 canon_level: local
 visibility: public
 era: []
@@ -8,9 +8,9 @@ region: ["Grenzburg"]
 culture: []
 related_factions: ["Blackjack Corps", "Duchy of Grenzburg", "Silent Partners"]
 appears_in: ["Grenzburg"]
-needs: []
-tags:
-  - game-ready
+needs:
+  - rewrite the branch in culturally grounded terms and build its eight-to-ten-quest line without a fixed political ending
+tags: []
 ---
 ### **The Medori Bank ("The Iron Ledger") in Grenzburg**
 
@@ -89,15 +89,15 @@ The player arrives as a Bank-owned Blackjack carrying a ducal warrant; this rela
 The Blackjacks are the Bank’s **premium, high-risk financial instruments**. You are not people; you are collateralized debt obligations.
 *   **Ledger-Master Lucia Medori (Ventures):** Might hire you as security for a infrastructure project in dangerous territory, or to retrieve a specific piece of low-value but critical technical data (e.g., survey maps). Pays with official Bank scrip, better rations, and perhaps a note in your file about "cooperative behavior."
 *   **Captain Valdemar Koss (Collections):** Your direct, brutal boss. Assigns you artifact delves, debt collections, sabotage of rival operations, and "personnel management" (intimidating or disappearing problematic debtors). Pays in coin, debt relief, and the grim respect of a slaughterman.
-*   **The Silent Partners (Experiments):** You will never meet them. Their tasks come through Koss or Silas with no context and extreme urgency. Refusal is possible, but it raises Bank Leverage, freezes equipment, and shifts coercion toward people or property named as collateral.
+*   **The Silent Partners (Experiments):** You will never meet them. Their selected tasks come through local officers with little context and extreme urgency. Refusal is possible, but it can freeze equipment, worsen debt terms, or shift collection pressure toward named collateral.
 
 **The Faustian Bargain:** Every transaction with the Bank increases your debt or deepens its control. Take a loan for better gear? The interest is 100% and the collateral is your friend’s life. Do a job for Lucia? You strengthen the Bank’s legitimate hold on the Duchy. Do a job for the Silent Partners? You are actively participating in an experiment that may doom the entire region for the sake of a Sestaren profit model.
 
-The exact division of authority is recorded in [[Player Mandate and Dual Chain of Command]] and the [[Crisis Charter of Secondment]].
+The rebuilt division of authority is recorded in [[Player Character Constitution]] and the [[Crisis Charter of Secondment]].
 
-## Canonical Future
+## Possible Futures
 
-Under the Duke's Peace, the Iron Ledger survives but loses private sovereignty. Lucia cooperates against the Silent Partners; Silas accepts a reduced but lawful branch; Koss retains a command role under joint audit. Ordinary credit continues, while debt service and release terms become reviewable in ducal court.
+The rebuilt faction line must distinguish ordinary credit from predatory sovereignty and support several costed outcomes: reform, continued extraction, ducal limitation, debtor rupture, internal capture, or expulsion. No Bank or political future is setting canon in Wave 1.
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 type: character
-status: canon
+status: needs-review
 canon_level: local
 visibility: public
 era: []
@@ -8,9 +8,9 @@ region: ["Grenzburg"]
 culture: []
 related_factions: []
 appears_in: ["Grenzburg"]
-needs: []
-tags:
-  - game-ready
+needs:
+  - reconcile his episcopal authority and possible Church-line outcomes with the faction constitution
+tags: []
 ---
 ### **Bishop Konrad & The Church of the Redeemer in Grenzburg**
 

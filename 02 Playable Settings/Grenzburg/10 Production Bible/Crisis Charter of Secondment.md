@@ -1,5 +1,5 @@
 ---
-type: reference
+type: mechanic
 status: canon
 canon_level: local
 visibility: restricted
@@ -8,38 +8,52 @@ region: ["Grenzburg"]
 culture: ["Eclessian", "Sestaran"]
 related_factions: ["Duchy of Grenzburg", "Medori Bank", "Blackjack Corps"]
 appears_in: ["Grenzburg"]
-needs: []
+needs:
+  - lock exact termination, pay-credit, injury, and desertion clauses during the Blackjack faction pass
 tags: [game-ready]
 ---
 # Crisis Charter of Secondment
 
-The Crisis Charter is the agreement by which the Iron Ledger seconds a Blackjack field unit to Grenzburg from Gates Close until the Duke formally ends the emergency or the first summer council adjourns.
+The Crisis Charter is the emergency agreement that places a Medori Blackjack detachment at Grenzburg's disposal without cancelling the debts or service obligations of its members.
 
-## Public Terms
+## Division of Authority
 
-- The Duke grants the unit a warrant to bear arms, cross guild boundaries, requisition emergency transport, and investigate threats to the March.
-- The Castellan controls deployment whenever walls, roads, villages, refugees, or military stores are at risk.
-- The Bank continues wages, equipment, debt accounting, and internal discipline.
-- Recovered ordinary property returns to its lawful owner; unclaimed artifacts enter disputed custody until adjudicated.
-- Ducal orders outrank ordinary collection work during an immediate threat to life or fortification.
+- [[Duke Alaric von Grenzburg|Duke Alaric]] sets public strategic priorities.
+- [[Castellan Pierre Hohenwall]] and appointed officers issue ducal field assignments.
+- [[Captain Valdemar Koss]] controls internal Blackjack discipline, equipment account, service credit, and Medori faction work.
+- The player is a specialist within the detachment, not its commander.
 
-## Bank Riders
+The charter does not create two briefs for every mission. Most critical-path assignments are ducal operations. The Bank applies pressure through selected orders, equipment access, collection, debt accounting, faction quests, and specific conflicts where its interests are genuinely present.
 
-- Existing debt is not forgiven by public service.
-- Bank records, secured vaults, and named collateral remain outside ordinary ducal search.
-- Koss may append a confidential recovery rider when a mission touches Bank property or financed assets.
-- The Bank can petition for compensation when ducal orders destroy collateral, but cannot lawfully abandon a settlement to secure repayment.
+## What the Duke Receives
 
-## Hidden Abuse
+- trained delvers, scouts, investigators, escorts, fighters, and warlock-capable specialists;
+- access to equipment and technical personnel Grenzburg cannot quickly raise;
+- a force usable for missions too small, dangerous, distant, or deniable for regular formations.
 
-The Silent Partners maintain a forged escrow interpretation claiming that any artifact threatening creditor security must be transferred to "neutral custody." In winter they use this interpretation, together with threatened cancellation of grain credit, to coerce [[Magister Leviticus of Sestaren]] into moving the Heart-Stone. The order is fraudulent, but sufficiently plausible to trap a conscientious administrator.
+## What the Bank Receives
 
-## Story Function
+- payment or service credit against the detachment's upkeep;
+- lawful access to its personnel and counting-house during the emergency;
+- opportunities to offer explicit recovery or commercial work;
+- recognition that secondment alone does not forgive a debtor's principal.
 
-The Charter makes the player's grey zone lawful rather than accidental. It gives the Duke a claim on the player's courage, the Bank a claim on the player's future, and the player enough conflicting authority to investigate either institution.
+The charter does not grant the Bank automatic ownership of every artifact, prisoner, ruin, or discovery encountered during ducal service.
+
+## Player Conflict
+
+The player may refuse, expose, subvert, or renegotiate a specific Bank order. Consequences can include lost equipment, worsened debt terms, withheld service credit, retaliation against collateral, faction hostility, or criminal exposure. Refusal does not automatically fail the main campaign.
+
+The player may also defy a ducal order. Consequences can include lost warrant access, prosecution, military distrust, denied support, or altered operations. The game continues through the player's remaining lawful, factional, or illicit relationships.
+
+## End of Emergency
+
+The charter is reviewed after the Deep Dragon is stopped and immediate survival is accounted for. The player's debt, freedom, continued Blackjack service, ducal employment, criminal status, and sponsorship are separate ending states. No single outcome is fixed as canon.
 
 ## Navigation
 
-- [[Player Mandate and Dual Chain of Command]]
+- [[Player Character Constitution]]
 - [[Blackjack Corps]]
+- [[Factions Overview]]
+- [[Grenzburg Campaign Spine]]
 - [[Grenzburg MOC]]

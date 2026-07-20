@@ -1,38 +1,26 @@
 ---
 type: character
-status: canon
+status: needs-review
 canon_level: local
 visibility: public
 era: ["Present Day"]
 region: ["Grenzburg"]
 culture: ["Eclessian"]
-related_factions: ["Duchy of Grenzburg", "Grenzburg Garrison"]
+related_factions: ["Duchy of Grenzburg", "Marcher Vanguard"]
 appears_in: ["Grenzburg"]
-needs: []
-tags: [game-ready]
+needs:
+  - decide her rank, posting, relationship to Fort Tannbruck, and ownership within the ducal faction line
+tags: []
 ---
 # Sergeant Lotte Weissbruck
 
-## Core Concept
+Lotte is reserved as a possible Grenzburger marcher sergeant, fort officer, trainer, or ducal faction character. She is not one of the eight active companions and receives no romance or sworn-bond path.
 
-Lotte is a garrison sergeant from a marcher household ruined by repeated winter levies. She represents ordinary ducal service: suspicious of Bank specialists, loyal to the walls, and unwilling to pretend every lawful order is survivable.
-
-## Compact Arc
-
-1. **The Last Muster:** recruit Lotte at Timberfalls by rescuing a muster abandoned between Gerhold's order and a Bank wagon claim.
-2. **The Winter Line:** help her disobey a tactically sound withdrawal long enough to evacuate civilians, or enforce the order and preserve soldiers.
-3. **The Spring Oath:** decide whether she joins the reformed Marcher service, remains in the traditional garrison, or resigns in disgust.
-
-## Canonical Outcome
-
-Lotte joins the audited Marcher service and becomes its enlisted counterweight to both Koss and court officers.
-
-## Field Role
-
-Defender and formation leader. In the Tomb she can hold a chokepoint without requiring the full Dismas loyalty solution.
+Her earlier companion outcome is retired. Wave 3 must decide whether she serves Fort Tannbruck, Grenzburg's walls, a field company, or another local institution before her biography becomes canon again.
 
 ## Navigation
 
-- [[Companion Quests]]
-- [[Sir Gerhold Brandt]]
+- [[Factions Overview]]
+- [[Fort Tannbruck]]
+- [[Companion Constitution]]
 - [[Grenzburg MOC]]

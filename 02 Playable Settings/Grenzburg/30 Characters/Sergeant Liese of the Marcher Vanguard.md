@@ -1,6 +1,6 @@
 ---
 type: character
-status: canon
+status: needs-review
 canon_level: local
 visibility: public
 era: ["Present Day"]
@@ -8,8 +8,9 @@ region: ["Grenzburg"]
 culture: ["Eclessian"]
 related_factions: ["Duchy of Grenzburg", "Marcher Vanguard"]
 appears_in: ["Grenzburg"]
-needs: []
-tags: [game-ready]
+needs:
+  - remove old branch-matrix gates and rebuild her marcher role against the faction constitution
+tags: []
 ---
 # Sergeant Liese of the Marcher Vanguard
 
@@ -25,11 +26,11 @@ Liese trusts the player when all three autumn villages remain viable and the pla
 
 - Provides the ducal brief for village stabilization and frontier reconnaissance.
 - Measures outcomes by who can still live on the land after the mission.
-- Challenges Koss when Bank riders sacrifice roads or people for recoverable property.
+- Challenges Koss when a specific Bank demand sacrifices roads or people for recoverable property.
 - Leads the Marcher Vanguard during the winter assault and spring resettlement.
 
 ## Navigation
 
-- [[Grenzburg Campaign Branch Matrix]]
+- [[Grenzburg Chapter and Window Matrix]]
 - [[Sir Gerhold Brandt]]
 - [[Grenzburg MOC]]

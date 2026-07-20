@@ -81,7 +81,7 @@ Thalmyrica/Covenant: the desert edge and the western strait, a frontier of forts
 
 ## Map Work Remaining
 
-Pilgrimage roads and the Via Celestis drawn as routes; thin-space and Shell-scar layer; the four Caliphate internal borders; Eclessian duchy boundaries; a proper Grenzburg regional map (city, villages, barrows, migration corridors) — the vertical slice deserves its own sheet next.
+Pilgrimage roads and the Via Celestis drawn as routes; thin-space and Shell-scar layer; the four Caliphate internal borders; Eclessian duchy boundaries; and a production Grenzburg game map covering its city, seven exterior subregions, roads, settlements, dungeons, and seasonal corridors.
 
 ## Navigation
 

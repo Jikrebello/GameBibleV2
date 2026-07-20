@@ -1,6 +1,6 @@
 ---
 type: character
-status: canon
+status: needs-review
 canon_level: local
 visibility: public
 era: []
@@ -8,9 +8,9 @@ region: ["Grenzburg"]
 culture: []
 related_factions: []
 appears_in: ["Grenzburg"]
-needs: []
-tags:
-  - game-ready
+needs:
+  - rebuild his offices, crimes, faction intersections, and possible outcomes without the old Heart-Stone plot
+tags: []
 ---
 ### “The Ledger Never Lies” (Duchy: Bad)
 **Role in the Rule of Three:**  
@@ -228,4 +228,3 @@ If you cross him, he doesn’t rage—he quietly adds your name to a ledger.
 
 - [[Grenzburg MOC]]
 - [[Canon Index]]
-

@@ -15,7 +15,7 @@ tags: []
 
 True dragons are unique Abyssal catastrophes. They are not the adult form of a drake, not a color-coded species, and not ordinary fauna from another plane. Each dragon is a particular refusal or wound given sovereign appetite and physical consequence.
 
-The two historically attested cases are [[The Shoreless King]], sealed beneath [[Kelarion]], and [[The Unwritten Worm]], sealed beneath [[Orthea]]. They establish the design grammar without implying that true dragons reproduce, share alignment by color, or form a hidden nation.
+Three cases are authorially established: [[The Shoreless King]], sealed beneath [[Kelarion]]; [[The Unwritten Worm]], sealed beneath [[Orthea]]; and [[The General Below]], whose recurrence is bound to [[The Deep Muster]] beneath the Grenzburg frontier. They establish the design grammar without implying that true dragons reproduce, share alignment by color, or form a hidden nation.
 
 ## Drake and Dragon
 
@@ -38,7 +38,7 @@ True dragons may appear serpentine, winged, many-limbed, aquatic, skeletal, radi
 
 Destroying a manifested body can interrupt a dragon. Permanent victory requires closing or transforming the Abyssal contradiction that permits it to exist. This normally demands historical truth, physical action, spiritual resistance, and the destruction of several anchors rather than one weapon or damage type.
 
-Both established dragons are sealed in the present day. Their cults, ruins, and recurrence signs remain usable without imposing an active realm-scale crisis.
+The Shoreless King and Unwritten Worm remain sealed in the present day. The General Below approaches materialization during the Grenzburg campaign and is stopped in every completed playthrough; its political and material consequences remain variable.
 
 ## Navigation
 
@@ -47,6 +47,7 @@ Both established dragons are sealed in the present day. Their cults, ruins, and 
 - [[Hell and Abyssal Beings Overview]]
 - [[The Shoreless King]]
 - [[The Unwritten Worm]]
+- [[The General Below]]
 - [[Hell, Depth, and the Abyss]]
 - [[Hell and Abyss MOC]]
 - [[Bestiary MOC]]

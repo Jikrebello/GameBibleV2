@@ -1,40 +1,39 @@
 ---
 type: character
-status: canon
+status: needs-review
 canon_level: local
 visibility: restricted
 era: ["Present Day"]
 region: ["Grenzburg"]
 culture: ["Eclessian"]
-related_factions: ["Church of the Redeemer", "Bishop-Prelate Caestus"]
+related_factions: ["Blackjack Corps", "Church of the Redeemer"]
 appears_in: ["Grenzburg"]
-needs: []
-tags: [game-ready]
+needs:
+  - workshop his order, theft history, debt, personality, great-weapon style, four quests, and relationship path
+tags: []
 ---
 # Knight Bernard
 
-## Core Concept
+## Locked Core
 
-Bernard is a disgraced knight framed after uncovering the sanctioned sale of the Chalice of Atonement. His arc tests whether fidelity belongs to an institution's prestige or to the mercy it was created to serve.
+Bernard is an outsider paladin and compulsive thief. His kleptomania repeatedly violates the trust, property, and discipline required by the sacred vocation he sincerely believes he serves. Debt and imposed service place him among the Blackjacks bound for Grenzburg.
 
-## Five Decisive Beats
+He is personable, devout, physically brave, and capable of real mercy. Faith does not erase his responsibility, and shame does not make every relapse inevitable.
 
-1. **The Weight of the Rope:** confess the relic scandal and seek a Folk buyer rather than arresting one blindly.
-2. **The Zealot's Hoard:** recover or defend the Chalice against Deacon Ignatius.
-3. **The Shrine of First Snow:** cross Grobi lines and reconsecrate the Chalice without dispossessing Shattered-Tusk dead.
-4. **The Choice of Grace:** publicly offer repentance to a deserter or collaborator during the siege.
-5. **The Broken Rope:** reject reinstatement purchased through silence about the Order's systemic corruption.
+## Companion Function
 
-## Canonical Outcome
+Bernard's four personal quests concern responsibility, restitution, grace, temptation, and the difference between seeking help and using holy purpose as an excuse. His conflict with Church institutions must arise from concrete doctrine and conduct rather than the stock claim that personal belief is always purer than organized religion.
 
-Bernard chooses personal faith and works with Caestus to preserve the Church's spiritual ministry while rejecting coercive jurisdiction. He remains outside his former order but not outside the faith.
+A resolved path teaches the great-weapon [[Player Character Constitution|Paladin advanced vocation]]. Exact order, stolen objects, victims, debt terms, combat role, and ending range await the Wave 3 workshop. No former relic chain or fixed outcome is carried forward by default.
 
-## Final Dungeon Solution
+## Relationship
 
-The Chalice creates a sanctuary against despair and soul-route predation, preserving the company through the Tomb's ossuary chamber.
+Bernard follows the eligibility and reward rules in [[Companion Constitution]]. Romance and sworn bond receive equal mechanical weight and separate explicit commitments.
 
 ## Navigation
 
-- [[Companion Quests]]
-- [[Bishop-Prelate Caestus]]
+- [[Companion Constitution]]
+- [[Player Character Constitution]]
+- [[Eclessian Church Overview]]
+- [[Grenzburg Campaign Spine]]
 - [[Grenzburg MOC]]

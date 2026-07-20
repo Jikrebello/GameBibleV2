@@ -1,6 +1,6 @@
 ---
 type: faction
-status: canon
+status: needs-review
 canon_level: local
 visibility: public
 era: []
@@ -8,9 +8,9 @@ region: ["Grenzburg"]
 culture: ["Folk", "Chapel-Folk"]
 related_factions: ["Moss-Crown", "Shattered-Tusk", "Ghost-Foot", "River-Clans", "Chapel-Folk"]
 appears_in: ["Grenzburg"]
-needs: []
-tags:
-  - game-ready
+needs:
+  - reconcile all named kindreds and build the eight-to-ten-quest line against the Folk Canon Register
+tags: []
 ---
 # The Folk Clans
 

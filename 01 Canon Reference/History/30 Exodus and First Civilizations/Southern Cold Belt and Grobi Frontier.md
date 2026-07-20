@@ -85,4 +85,4 @@ The cold belt should generate concrete problems:
 - [[Frost-Road and the Winter War]]
 - [[Folk Architecture and Settlement]]
 - [[Grobi Overview|Grobi]]
-- [[Grenzburg as Vertical Slice]]
+- [[Grenzburg Game Constitution]]

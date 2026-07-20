@@ -23,7 +23,7 @@ Hell is the mapped destination and ecology of completed refusal. The Abyss lies 
 - [[The Adversary]] - refusal, black mud, and the terminal leftward pressure.
 - [[Fallen Angels and Broken Commissions]] - rare individual traitors, never a reusable species ladder.
 
-## Catalogue: 24 Hell and Abyss Forms
+## Catalogue: 25 Hell and Abyss Forms
 
 | Section | Forms | Family dossiers | Count |
 |---|---|---|---:|
@@ -31,8 +31,8 @@ Hell is the mapped destination and ecology of completed refusal. The Abyss lies 
 | Depth fauna | Mire Larvae; Vow-Leeches; Carrion Eels; Silt Hounds; Bone-Reef Crawlers; Hell-Drakes | [[Mire Larvae and Vow-Leeches]]; [[Carrion Eels and Silt Hounds]]; [[Bone-Reef Crawlers and Hell-Drakes]] | 6 |
 | Devil mantles | Whisper-Mantles; Ash Advocates; Chain Keepers; Mire Marshals | [[Whisper-Mantles and Ash Advocates]]; [[Chain Keepers and Mire Marshals]] | 4 |
 | Soul predators | Shore-Lures; Soul-Hooks; Name-Strippers | [[Shore-Lures and Soul-Hooks]]; [[Name-Strippers]] | 3 |
-| Abyssal wounds and dragons | Black-Mud Spawn; Wound-Worms; Occlusion Beasts; Null-Maws; Shoreless King; Unwritten Worm | [[Black-Mud Spawn and Wound-Worms]]; [[Occlusion Beasts and Null-Maws]]; [[The Shoreless King]]; [[The Unwritten Worm]] | 6 |
-| **Total** | | | **24** |
+| Abyssal wounds and dragons | Black-Mud Spawn; Wound-Worms; Occlusion Beasts; Null-Maws; Shoreless King; Unwritten Worm; General Below | [[Black-Mud Spawn and Wound-Worms]]; [[Occlusion Beasts and Null-Maws]]; [[The Shoreless King]]; [[The Unwritten Worm]]; [[The General Below]] | 7 |
+| **Total** | | | **25** |
 
 ## Encounter Rules
 

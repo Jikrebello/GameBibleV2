@@ -3,87 +3,113 @@ type: place
 status: canon
 canon_level: local
 visibility: public
-era: []
+era: ["Present Day"]
 region: ["Grenzburg"]
-culture: []
-related_factions: []
+culture: ["Eclessian", "Folk"]
+related_factions: ["Duchy of Grenzburg", "Folk kindreds", "Grobi"]
 appears_in: ["Grenzburg"]
-needs: []
-tags:
-  - game-ready
+needs:
+  - replace Regional Map v1 with a production map locking all seven subregions, routes, hubs, and travel times in Wave 2
+  - reconcile village populations and road times with the expanded game worldspace
+tags: [game-ready]
 ---
 # Grenzburg Regional Geography
 
-Companion to `Maps/Grenzburg Regional Map v1.png`. Fulfills the [[Grenzburg as Vertical Slice]] requirement for "a clear map of city, villages, roads, woods, rivers, barrows, mines, and winter approaches." All placements draft; distances at ~50 miles city-to-Barrow, so every Act I location is one-to-three days' hard travel from the walls.
+This note is the physical baseline for Wave 1. [[Grenzburg Game Constitution]] fixes one contiguous playable region containing Grenzburg city and seven exterior subregions. Wave 2 will lock borders, routes, hubs, dungeon placement, and a replacement map.
 
-**Canon spelling:** the *family* is **von Grenzmark** (the March); the *seat and duchy* are **Grenzburg**. Formal style is **Alaric von Grenzmark, Duke of Grenzburg**.
+The existing `Maps/Grenzburg Regional Map v1.png` remains a useful concept reference but is not the final production map.
 
-## The City
+## Orientation and Climate
 
-**Grenzburg** sits on the **River Grenz** at the last good bridging point before the southern forests — walls, ducal keep, Medori docks (debt flows downstream, grain flows up), and the northern gate where the Great Funnel bottlenecks every autumn. The river runs north toward Veridancia and the Sanctum roads: five to seven weeks to Aurelium, which is exactly how alone Grenzburg is.
+The setting lies in the southern hemisphere. Travel south from Grenzburg becomes colder, more forested, less densely settled, and increasingly shaped by taiga, upland frost, permafrost, and severe winter corridors. The River Grenz flows north toward warmer Eclessian roads.
 
-### Required City Quest Sites
+Grobi pressure comes out of the deep southern belt as winter closes forage and routes. The Folk frontier is not a warm northern woodland transplanted onto the map; its forests, lakes, frozen soils, and seasonal movement belong to the cold south.
 
-- **Ducal Keep and Council Chamber:** secondment, trust reports, Heart-Stone vault, theft investigation, and summer settlement.
-- **Iron Ledger Counting-House:** Blackjack induction, Bank riders, debt records, Elara's investigation, and the alternate Bank theft route.
-- **Cathedral Close:** Caestus's hospitals, Ignatius's Ashen Band, Marcellina's chancery, and Bernard's relic conflict.
-- **Main Granary and Ration Lines:** Leviticus's winter system, the Pale-Skin infiltrator, and Enzo's skimming.
-- **Undercity and Old Mine Works:** black market, Dismas's contacts, blood-stone traffic, and routes beneath the walls.
-- **Katarina's Manor and Service Tunnel:** artifact archive, Gilded Shroud fragment, and the canonical Heart-Stone transfer route.
+## Grenzburg City
 
-## The Three Villages
+Grenzburg sits at the last dependable bridge over the River Grenz before the southern march. Its walls enclose roughly 18,000 permanent residents and a far larger winter population. The ducal keep, cathedral close, Iron Ledger counting-house, markets, docks, workshops, barracks, refugee districts, underways, and criminal routes make the city the campaign's largest hub.
 
-- **Lakewatch** (west, ~2 days): fishing village on **Long Lake**; smoked-fish stores feed the city's winter; the lake ices early — the road passes the **Moss-Crown sacred grove** violated by Clear-Cut crews (Act I flashpoint).
-- **Highlake** (southeast, ~2–3 days): mining village on the upland tarn under the **Ghost-Foot crags** — iron, silver, and now the "withered" dead where Pale-Skins leach life from below.
-- **Timberfalls** (south, ~2 days upriver): lumber town at the falls of the Grenz; Clear-Cut cartel camps; burned in Act I's first crisis.
+The city is not one decorative stop between wilderness quests. Winter turns it into a dense playable world with district missions, faction headquarters, interiors, rooftops, walls, underways, services, homes, and changing public spaces.
 
-## The Southwood and the Barrow
+## Seven Exterior Subregions
 
-South of the villages the **Southwood** thickens toward the true frontier. In its deep heart: the **Barrow of the First Chieftain** — the pre-human, three-tiered ruin holding the **Heart-Stone**, with the **Dragon's Tomb** in the dark beneath (Act III's descent). Nearby barrow-fields dot the hills; the **Ashfield** — a Shell-scar of old war-magic where nothing grows straight — sits between Timberfalls and the lake country, satisfying the vertical slice's war-magic-footprint requirement.
+The names below are controlling functional names for Wave 1. Wave 2 may refine local names while preserving each area's role.
 
-### Required Outer Quest Sites
+### 1. Northern Road and Grenz Lowlands
 
-- **Highlake Under-Ruins:** the Gilded Shroud vault and Pale-Skin excavation accessed through sealed mine workings.
-- **Shrine of First Snow:** Bernard's mountain pilgrimage site beyond the winter patrol line.
-- **Emerald Drake Lair:** a cliff valley beyond Highlake, seeded with Pale-Skin agitation beacons.
-- **Fenn Road Exchange:** Skrit's recruitment, Uru's migration corridor, and the blood-stone market.
-- **Dragon's Tomb:** four encounter layers beneath the Barrow: corrupted chambers, ossuary, geothermal veins, and machine-god carcass.
+Warmer farms, river traffic, debtor convoys, autumn camps, road inns, toll points, and the great Funnel approach Grenzburg from the north. [[PROLOGUE THE BLACK ROAD]] begins here. This is the player's first landscape and must remain visually and socially distinct from the deeper frontier.
 
-## Wolfsmere
+### 2. Western Lake Country
 
-Two days west of Lakewatch, beyond Moss-Crown lands: **Wolfsmere**, the Lake That Remembers (see [[The Folk of the Frontier and the Wolfsmere Lineage]]). No boats, no bells, no iron. Its proximity is deliberate: Grenzburg's Folk politics sit forty miles from the Drowning, and Thorn-Seer Mael's Lakekeeper-line authority means every deal the Duke cuts with the Folk is being weighed against what sleeps in that water.
+Long Lake, **Lakewatch**, [[Birchcross]], Chapel-Folk hamlets, fisheries, marsh roads, refuge stores, and old Atherian spurs occupy the west. The country supports smoked fish, hidden crossings, and repeated tension between ducal roads and local obligations.
 
-## Birchcross and the First Shelter Spur
+[[The First Writ — Full Adventure]] remains an independent adventure at Birchcross and contributes no assumed outcome to the main campaign.
 
-One day's travel west of Grenzburg on the Lakewatch road, [[Birchcross]] is a Chapel-Folk hamlet of about 150 people. Its mill, stable, smithy, chapel yard, and refuge store support traffic between the city and western lake country without making the hamlet a ducal garrison.
+### 3. Wolfsmere Woods
 
-An abandoned Atherian spur leaves the modern road beyond the mill leat. Half a day west, [[First Shelter Watch-Barrow]] occupies a restored imperial relay once maintained by the [[Fraternity of the First Shelter]]. The upper refuge and memorial are known locally. The [[Birchcross Imperial Stair|imperial stair beneath it]] is not public map knowledge.
+Beyond the lake roads lie Wolfsmere, Moss-Crown lands, deep forest routes, sacred restrictions, and kindred politics. The area carries strong Folk identity and Menhir pressure without making every tree part of the main plot. It must support exploration, land disputes, sanctuary, hunting, and place-bound supernatural content.
 
-Regional maps should show Birchcross and the overgrown spur without selecting an outcome for [[The First Writ — Full Adventure]].
+### 4. Southwood and Barrow Country
 
-## Alderway Vale and the Western Relief Project
+Old growth, damaged clearings, barrow fields, Ashfield war-magic scars, hidden valleys, and the Emerald Drake's winter territory define the Southwood. The Drake hunt belongs here or on its immediate upland edge; Wave 2 will lock its full range and lair.
 
-North of Wolfsmere and west-northwest of Grenzburg, [[Alderway Vale]] climbs toward old roads leading to Dornwatch and the Brauvalian supply network. Duke Alaric has commissioned a second relief corridor through it so the duchy is not wholly dependent upon the River Grenz road.
+The Barrow of the First Chieftain and its Heart-Stone remain in wider local canon as a sealed optional high-level side-adventure site. They have no required role in the critical path, the winter siege, Gerhold's fall, or the Deep Muster.
 
-The work is unfinished in 1360 AR. [[Fort Alderwatch]] guards the current road camps, while the local [[Alder-Crossing Clan]] holds crossing, fishery, refuge, and sanctuary rights. Three alignments remain possible: a direct trace through [[Still-Hearth Glen]], a more expensive river-bend route, and a difficult northern ridge line. Regional maps must show an unfinished project rather than selecting the outcome of [[The Duke's Road — Full Adventure]].
+### 5. Highlake Uplands and Tuskway
 
-## Winter Approaches (the military geography)
+**Highlake**, mines, cold tarns, Ghost-Foot crags, upland passes, and the eastern Tuskway corridor form the harder military approach. Ghor's war coalition uses this broad axis, but the subregion also contains miners, herders, hunters, old roads, and independent threats.
 
-The Grobi come north up two corridors as the deep south freezes: the **Tuskway** (east, along the Shattered-Tusk range past Highlake — warband country, Bloody-Sun's road) and the **Fenn Road** (west, up the lake lowlands toward Lakewatch — the herd-and-family route, Herd-Matron Uru's road). That split *is* the campaign's moral geography: the eastern corridor brings the war-chief, the western brings the starving. Passes on both close by midwinter; whoever holds Timberfalls holds the river between them.
+### 6. Timberfalls and the Upper Grenz
 
-## Clan Territories (per the Factions canon)
+**Timberfalls**, lumber camps, falls, river transport, forest industry, and the southern military road occupy the upper valley. [[Fort Tannbruck]] stands farther along the strategic crossing where the upper road meets the Tuskway spur. Its fall ends Act I; its people and resources remain variable.
 
-**River-Clans** downstream north (Speaker Bran — scouts and treaties); **Moss-Crown** west woods (the grove); **Ghost-Foot** in the southeast crags (Highlake's uneasy neighbors); **Shattered-Tusk** naming the far range they were driven from; **Chapel-Folk** hamlets huddled within a day of the walls; **Ash-Spear** raiders moving wherever the Duke looks weakest.
+### 7. Fenn Road and Deep Southern March
 
-## Story-Geography Rules
+The western migration corridor descends into colder forest, frozen wetlands, sparse refuge points, and the routes used by Grobi dependents, traders, raiders, and splinter bands. Herd-Matron Uru's people and Ghor's war coalition do not use the region in the same way.
 
-Everything dangerous is south; everything that gives orders is north; everything sacred is west; everything valuable is east and underground. Winter reverses the map: the roads become the danger and the walls become the world.
+The exact surface entrances to [[The Deep Muster]] lie somewhere within the wider southern march and will be fixed only after its dungeon, reclamation route, and dead-march logistics are designed.
+
+## Existing Independent Western Content
+
+North of Wolfsmere and west-northwest of Grenzburg, [[Alderway Vale]] climbs toward old roads leading to Dornwatch and Brauvalian supply. [[Fort Alderwatch]] and the unfinished relief project remain the starting situation for [[The Duke's Road — Full Adventure]]. No road alignment or adventure outcome is assumed by the main game.
+
+## Campaign Movement
+
+- **Prologue:** northern road to Grenzburg.
+- **Act I:** city, near roads, settlements, Fort Tannbruck, and broad autumn exploration.
+- **Act II:** dense city play plus deliberate winter expeditions to the Drake territory and Grobi siege positions.
+- **Act III:** reopened roads, reclaimed holdings, Qianglong outer works, dead-march fronts, and the Deep Muster.
+- **Summer:** return through changed settlements and routes with reconstruction visible.
+
+Main-story travel should repeatedly cross known ground in changed conditions. New subregions open in layers, but old areas continue producing quests, services, consequences, and alternate routes.
+
+## Military Corridors
+
+The eastern Tuskway favors organized warbands and the movement of Ghor's main coalition. The western Fenn Road carries a greater share of dependents, opportunists, traders, and bands seeking survival corridors. Timberfalls and Tannbruck sit between those pressures and Grenzburg's core river road.
+
+This split is strategic and moral geography, not a rule that everyone east is hostile and everyone west is innocent.
+
+## Worldspace Requirements for Wave 2
+
+Each exterior subregion must receive:
+
+- a named service or settlement hub;
+- fixed road and off-road connections;
+- travel-time anchors;
+- a visual and traversal identity;
+- faction and companion uses;
+- one major dungeon and several smaller sites;
+- autumn, winter, spring, and summer states;
+- at least one reason to return after its first critical-path chapter.
+
+The final map must make the fall of Tannbruck, the winter siege, Drake hunt, Grobi corridors, spring reclamation, dead march, and Deep Muster approaches physically credible.
 
 ## Navigation
 
 - [[Grenzburg MOC]]
-- [[Grenzburg as Vertical Slice]]
-- [[Birchcross]]
-- [[The First Writ — Full Adventure]]
-- [[Factions Overview]]
+- [[Grenzburg Game Constitution]]
+- [[Grenzburg Campaign Spine]]
+- [[Fort Tannbruck]]
+- [[The Deep Muster]]
+- [[Grenzburg Numbers and Constraints]]
 - [[Gazetteer of the Known World]]

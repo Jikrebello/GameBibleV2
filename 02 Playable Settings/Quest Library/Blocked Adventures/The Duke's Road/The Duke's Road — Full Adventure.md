@@ -46,7 +46,7 @@ tags: [module-conversion, game-ready]
 
 The starting situation is local canon: Alderway Vale, the unfinished project, Fort Alderwatch, the Alder-Crossing claim, the named cast, Rauk's plot, the Red Garland, the collared drakes, and the Cinder Seed all exist.
 
-The adventure is independent from Grenzburg's three-act campaign. It does not assume a Heart-Stone holder, a faction ending, a companion outcome, or any change to the main campaign's employer tracks. It can occur before, between, or after the seasonal crisis if the table adjusts weather references.
+The adventure is independent from Grenzburg's critical path. It assumes no faction ending, companion outcome, political settlement, road completion, or main-campaign state. It may be scheduled around the seasonal crisis only by deliberately reconciling its sixty-day calendar with the game's milestone windows.
 
 No road result is canon. Later references should describe the **unfinished Alderway project** unless a campaign continuity deliberately selects an ending.
 

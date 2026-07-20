@@ -1,38 +1,27 @@
 ---
 type: character
-status: canon
+status: needs-review
 canon_level: local
 visibility: public
 era: ["Present Day"]
-region: ["Grenzburg", "Moss-Crown Grove"]
+region: ["Grenzburg", "Wolfsmere"]
 culture: ["Folk"]
-related_factions: ["Moss-Crown Clan", "Folk Clans"]
+related_factions: ["Moss-Crown kindred"]
 appears_in: ["Grenzburg"]
-needs: []
-tags: [game-ready]
+needs:
+  - decide her kinship, office, beliefs, local quest ownership, and role in the Folk faction line
+tags: []
 ---
 # Runa Moss-Crown
 
-## Core Concept
+Runa is reserved as a possible Moss-Crown guide, advocate, seer, hunter, or faction character. She is a local or near-local Folk actor rather than one of the eight outsider debtor companions and receives no romance or sworn-bond path.
 
-Runa is a young grove warden serving beneath Anya Moss-Crown. She joins neither to become Eclessian nor to teach the player that every dispute is a misunderstanding. She wants enforceable sanctuary, reparations for violated places, and proof that Grenzburg can keep an oath when timber is scarce.
-
-## Compact Arc
-
-1. **The Cut Boundary:** recruit Runa by stopping illegal felling at Lakewatch and accepting Folk testimony as evidence.
-2. **The Winter Sanctuary:** choose which refugees, spirits, and supplies may shelter in the grove without turning it into a ducal camp.
-3. **The Charter Root:** secure, weaken, or betray the permanent sanctuary clause in the spring settlement.
-
-## Canonical Outcome
-
-Runa remains a Moss-Crown warden and becomes the sanctuary's appointed witness to Grenzburg's court. Cooperation does not erase Folk sovereignty.
-
-## Field Role
-
-Scout, ward-breaker, and ecological interpreter. In the Tomb she identifies living-law routes that avoid corrupted chambers.
+Her earlier companion outcome is retired. Wave 3 must ground her in the [[Folk Canon Register]], one particular kindred, and the actual Wolfsmere worldspace before her biography becomes canon again.
 
 ## Navigation
 
-- [[Companion Quests]]
+- [[Factions Overview]]
 - [[The Folk Clans]]
+- [[Folk Canon Register]]
+- [[Companion Constitution]]
 - [[Grenzburg MOC]]

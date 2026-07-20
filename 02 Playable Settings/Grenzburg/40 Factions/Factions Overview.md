@@ -3,390 +3,150 @@ type: index
 status: canon
 canon_level: local
 visibility: author-only
-era: []
+era: ["Present Day"]
 region: ["Grenzburg"]
-culture: []
-related_factions: []
+culture: ["Eclessian", "Folk", "Sestaran"]
+related_factions: ["Duchy of Grenzburg", "Marcher Vanguard", "Blackjack Corps", "Medori Bank", "Church of the Redeemer", "Folk kindreds", "Grenzburg underworld"]
 appears_in: ["Grenzburg"]
-needs: []
-tags:
-  - game-ready
+needs:
+  - workshop the internal leaders, names, and eight-to-ten quest ladder of each line in Wave 3
+tags: [game-ready]
 ---
 # Grenzburg Factions Overview
 
-## Player Position
+This note controls the five deep faction lines in the Grenzburg game. It defines their playable promise, internal conflict, campaign role, and design limits. Individual faction dossiers remain source material under review until Wave 3.
 
-The player is a Bank-owned Blackjack seconded to the Duke under the [[Crisis Charter of Secondment]]. Pierre supplies the public brief; Koss attaches the Bank rider. Choices alter Ducal Trust, Bank Leverage, and the concession tracks described below.
+## Faction-Line Rule
 
-## A. Top-level Rule of Three
+Each joinable line contains eight to ten quests distributed across autumn, winter, spring, and summer consequence. Joining means sustained service and access, not total ideological submission. The player may begin several lines, but leadership decisions, betrayals, and ending claims can make some late combinations impossible.
 
-### GOOD: The Duchy of Grenzburg (the “state” that must not fail)
+Every line must provide:
 
-**Primary need:** survive winter siege + keep spring re-expansion possible  
-**Primary weakness:** manpower + legitimacy + money (all three are externally leveraged)
+- a distinctive form of work;
+- an ordinary social world beyond its leaders;
+- a sincere good it protects or produces;
+- a real corruption, temptation, or injustice;
+- at least two internally credible futures;
+- services, spaces, equipment, training, and allies;
+- visible effects on the main crises without becoming required for critical-path completion;
+- a summer state.
 
-### BAD: The Grobi Migration (existential pressure)
+## 1. Ducal and Marcher Service
 
-**Primary need:** calories, warmth, territory, survival  
-**Primary weakness:** internal coordination is fragile; the “migration” is a container for many competing grobi agendas
+**Player fantasy:** become the frontier specialist trusted by soldiers, wardens, road officers, village levies, and the ducal household.
 
-### UGLY: Neutral powers that decide who wins
+**Representative work:** patrols, rescues, fort relief, military investigations, scouting, sabotage, discipline cases, holding actions, and dangerous warrants.
 
-- **Church of the Redeemer** (legitimacy + relic power)
-    
-- **Medori Bank** (credit + coercion via debt)
-    
-- **Folk clans** (terrain knowledge + manpower + raids)
-    
-- **Rival Eclessian interests** (diplomatic recognition + sabotage + proxy support)
-    
-- **Artifact economy** (expeditions, smugglers, black market scholars)
-    
+**Real good:** Grenzburg requires lawful defense, roads, courts, coordinated food, and people willing to stand between settlements and violence.
 
-**Core dynamic:** In a straight fight, Grenzburg loses over time. To endure, it must keep at least one Ugly aligned enough to:
+**Central danger:** emergency command can normalize confiscation, censorship, collective punishment, political patronage, and permanent rule by necessity.
 
-1. provide manpower/logistics **or**
-    
-2. prevent a second front **or**
-    
-3. disrupt Grobi cohesion.
-    
+**Internal fracture:** professional marcher service and local duty oppose courtiers, profiteers, and officers who treat the frontier as property or reputation. Duke Alaric may be pressured toward survival measures that outlive their justification.
 
-Every Ugly deal has a hook that can become the _next_ Bad.
+**Campaign contribution:** stronger evacuation, fort survivors, scouts, organized shock troops, defenses against the dead march, and a credible postwar state.
 
----
+## 2. Blackjacks and the Medori Branch
 
-## B. Inside each faction: its own Good / Bad / Ugly (and the individuals who drive them)
+**Player fantasy:** master the dangerous professional world that owns the player's debt, protect fellow debtors, and decide whether the institution is reformed, captured, escaped, or broken.
 
-### 1) The Duchy (GOOD as a faction)
+**Representative work:** recoveries, investigations, debt enforcement, convoy security, deniable expeditions, missing personnel, ledger theft, equipment trials, and internal mutiny.
 
-**Duchy Good (stability)** — _The Castellan / Master of the Walls_
+**Real good:** credit, logistics, imported grain, specialist training, risk capital, and organized recovery can keep a poor frontier alive.
 
-- Wants disciplined rationing, predictable justice, fewer external adventures.
-    
-- Strategy: tighten gate control, expand patrols, formalize Folk auxiliaries, restrict relic and bank privileges.
-    
-- Player-facing: contracts, patrol operations, “boring but necessary” missions.
-    
+**Central danger:** people become collateral. Debt can be engineered, inherited, extended through survival, and enforced by violence that resembles private sovereignty.
 
-**Duchy Bad (predation)** — _Lord High Bailiff Enzo Voss_
+**Internal fracture:** long-term builders, professional debtors, predatory collectors, and distant capital interests disagree over whether Grenzburg is a community, a client, or an extraction field.
 
-- Wants personal enrichment and patronage.
-    
-- Strategy: sell logging charters, skim granary, auction “artifact licenses,” take bribes for winter admission.
-    
-- Creates enemies inside the city that are “legal.”
-    
+**Campaign contribution:** supplies, specialist gear, intelligence, paid companies, debt relief, or additional coercion. Bank pressure remains selective and explicit rather than attached to every main mission.
 
-**Duchy Ugly (survival pragmatism)** — _The Duke himself_
+## 3. Church of the Redeemer
 
-- Not evil, but will sign any deal to keep the walls standing.
-    
-- Strategy: balance Bank, Church, and Folk by giving each a controlled slice of power.
-    
-- Faustian bargain risk: he normalizes exceptional measures (indenture, confiscation, heresy trials).
-    
+**Player fantasy:** serve hospitals, parish communities, relic houses, confessors, investigators, and militant protectors while deciding the rightful limits of Church authority.
 
-**Duchy political fault line:** _Winter emergency powers_
+**Representative work:** sanctuary, healing, burial, exorcism, relic recovery, doctrinal inquiry, missing clergy, protection of worship, heresy investigation, and public mercy or judgement.
 
-- Who controls ration tokens and labor drafts becomes the real sovereign.
-    
+**Real good:** the Church tells the truth about salvation, tends the sick, buries the dead, preserves hope, and can resist corruption that secular power cannot even perceive.
 
----
+**Central danger:** spiritual authority can be used to seize temporal jurisdiction, reward zeal without wisdom, conceal scandal, or mistake institutional obedience for faithfulness.
 
-### 2) The Grobi (BAD as a faction)
+**Internal fracture:** pastoral service, learned doctrine, militant emergency action, reform, and political episcopal power compete over what Grenzburg's crisis permits.
 
-You’ll get better politics if the Grobi aren’t a single mind.
+**Campaign contribution:** hospitals, morale, burial integrity, White-Flame support, protection against residue, civilian order, and the terms of postwar spiritual jurisdiction.
 
-**Grobi Good (ordered survival)** — _The Winter Matron / Herd-keeper caste leader_
+## 4. Folk Kindreds and Frontier Compacts
 
-- Wants predictable migration routes and reduced losses.
-    
-- Will negotiate tacit “corridors” if it keeps the group alive.
-    
-- Player twist: you can cut a brutal but stabilizing deal (Ugly-to-Good inversion).
-    
+**Player fantasy:** earn trust across specific kindreds, learn the living law of place, defend valid sanctuary and passage rights, and navigate relationships older than Grenzburg's claims.
 
-**Grobi Bad (war)** — _The War-Chief / Banner-Eater_
+**Representative work:** mediation, seasonal rites, missing kin, land trespass, hunts, reciprocal rescue, Menhir danger, road agreements, revenge limits, and disputes among kindreds.
 
-- Wants conquest, tribute, slaves, and wintering inside human lands.
-    
-- Strategy: coordinated siege attempts, sabotage, targeting granaries.
-    
+**Real good:** the Folk preserve local memory, ecological knowledge, refuge obligations, customary limits, and communities repeatedly treated as empty land by states and companies.
 
-**Grobi Ugly (internal opportunists)** — _The “Grobi traders” / scavenger captains_
+**Central danger:** old pacts can be cruel, vengeance can become inherited identity, local sovereignty can shelter raiding, and no appeal to the land proves moral right.
 
-- Smuggle loot, trade prisoners, sell information.
-    
-- They can be bribed to redirect warbands… until the price changes.
-    
+**Internal fracture:** Chapel-Folk, old-rite kindreds, raiders, seers, settlers, and practical negotiators do not share one government or one answer to Grenzburg.
 
-**Grobi political fault line:** _Migration cohesion_
+**Campaign contribution:** guides, winter routes, safe groves, scouts, local levies, warning of Grobi movement, knowledge of old sites, and durable or broken land settlements.
 
-- If you can fracture it (starvation, competing chiefs, poisoned routes), the winter siege becomes manageable—but you create roaming splinter bands (next year’s nightmare).
-    
+## 5. Grenzburg Underworld
 
----
+**Player fantasy:** enter the city's hidden routes, fences, smugglers, burglars, informants, killers, and unofficial justice, then decide what kind of underground power survives the siege.
 
-### 3) Church of the Redeemer (UGLY as a faction)
+**Representative work:** burglary, smuggling, surveillance, prison access, black-market recovery, gang truces, exposing protected predators, sabotage, and targeted killing.
 
-**Church Good (mercy + unity)** — _Bishop-Administrator of Grenzburg_
+**Real good:** illegal networks can move food past corrupt gatekeepers, hide the persecuted, expose crimes protected by rank, and reach places official power cannot.
 
-- Wants peace with Folk where possible, stable charity, controlled relic usage.
-    
-- Sees Bank indenture as spiritually corrosive but tolerates it for survival.
-    
+**Central danger:** secrecy protects extortion, addiction, trafficking, murder, vendetta, and leaders who call private appetite justice.
 
-**Church Bad (dominion)** — _The Inquisitor / Legate of Reunification_
+**Fork:** the shared line eventually divides between thieves-smugglers who seek a stable shadow economy and killer-vigilantes who claim the right to punish those ordinary courts cannot reach. Neither branch is morally clean, and the vigilante path must not become consequence-free assassination fantasy.
 
-- Believes Grenzburg is the test-case for reuniting Eclessia under “divine mandate.”
-    
-- Strategy: pressure the Duke, delegitimize rivals, declare artifacts “heretical,” seize them “for safekeeping.”
-    
+**Campaign contribution:** hidden city routes, intelligence, contraband, evacuation channels, sabotage during the siege, and either restrained underground order or normalized private killing.
 
-**Church Ugly (political realism)** — _The Reliquarian / Keeper of Saints_
+The organizations and principal leaders of this line are reserved for a targeted Wave 3 workshop.
 
-- Controls relic deployment; treats miracles as strategic resources.
-    
-- Will trade relic appearances for privileges: courts, land, tithe exemptions, influence over succession.
-    
+## Non-Joinable Regional Actors
 
-**Church fault line:** _Relics and narrative control_
+### Grobi
 
-- Whoever owns “the story” of winter survival owns the people.
-    
+Grobi are enemies, migrants, raiders, families, traders, captives, and negotiable regional actors. They are not a joinable faction line. The player may bargain with particular bands, split Ghor's coalition, exchange prisoners, redirect migration, protect noncombatants, or kill committed raiders. No individual group speaks for all Grobi.
 
-**Faustian bargain:** if you “secure the Church,” you may get winter morale and healing—but you buy **theocracy creep** and purges.
+### Industry Lords and Seasonal Headmen
 
----
+Mine owners, timber interests, millers, village speakers, guilds, and relief committees drive local quests and may align with larger factions. They do not become sixth and seventh global reputation bars merely because they matter.
 
-### 4) Medori Bank (UGLY as a faction)
+### Delvers, Warlock Schools, Craftsmen, Hunters, and Trainers
 
-**Bank Good (orderly finance)** — _Resident Factor / Chief Accountant_
-
-- Wants predictable repayment: stable tariffs, secure docks, enforceable contracts.
-    
-- Will back reforms that stabilize Grenzburg long-term.
-    
-
-**Bank Bad (extraction)** — _The “Collector-Provost” of the Blackjacks_
-
-- Treats Grenzburg as a mining claim: maximize artifact capture and debt conversion.
-    
-- Strategy: “buy” criminals, expand indenture classes, provoke crises to justify more Bank control.
-    
-
-**Bank Ugly (internal faction warfare)** — _A rival Medori faction agent_
-
-- Undermines the local factor to shift profits to their wing of the family.
-    
-- Funds smugglers, bribes guards, leaks secrets to the Church or a rival kingdom.
-    
-
-**Bank fault line:** _Debt as governance_
-
-- When the Bank becomes the payroll, it becomes the state.
-    
-
-**Faustian bargain:** Bank help wins winters—but creates a **private sovereignty** that may outlast the Duke.
-
----
-
-### 5) The Folk (UGLY, sometimes BAD, sometimes ally)
-
-Split them into blocs so politics emerge naturally.
-
-**Folk Good (coexistence/trade)** — _The River-Clan Speaker_
-
-- Wants timber-right treaties, hostage exchanges, controlled grazing/hunting zones.
-    
-- Offers scouts and grobi intelligence for rations and recognition.
-    
-
-**Folk Bad (feud + vengeance)** — _The Ash-Spear Warlord_
-
-- Wants to burn camps, punish encroachment, take captives.
-    
-- Thrives when the Duke looks weak or when the Bank’s collectors brutalize people.
-    
-
-**Folk Ugly (prophetic opportunism)** — _The Thorn-Seer / “Saint” of the Wild_
-
-- Can unify clans in winter or split them in spring.
-    
-- Might accept relics, artifacts, or “visions” in exchange for guiding raids away—or toward—the city.
-    
-
-**Folk fault line:** _Identity vs survival_
-
-- Service-for-rations creates collaborators and radicals, forever.
-    
-
-**Faustian bargain:** ally with Folk and you gain terrain mastery—but you legitimize their claims, and later they demand land autonomy inside the Marches.
-
----
-
-### 6) Rival Eclessian interests (UGLY external)
-
-You want at least two competing external actors so Grenzburg isn’t just “remote.”
-
-**External Good (stability interest)** — _A neighboring kingdom’s envoy_
-
-- Wants Grenzburg stable because grobi pressure spilling north hurts them too.
-    
-- Offers grain, iron, or engineers—at a price: trade concessions, garrison rights.
-    
-
-**External Bad (takeover interest)** — _A claimant / spymaster faction_
-
-- Wants the Duchy to fail so they can annex the Marches “to save it.”
-    
-- Funds banditry, stirs riots, bribes bank agents.
-    
-
-**External Ugly (mercenary/charter companies)** — _Free Companies_
-
-- Switch sides seasonally. They’re a force multiplier and a future coup risk.
-    
-
-**Faustian bargain:** accept “help” and you invite **foreign sovereignty** through “temporary” garrisons.
-
----
-
-## C. How the Rule of Three creates your campaign arcs (seasonal politics)
-
-### AUTUMN: The Funnel & the Gate (everyone moving toward Grenzburg)
-
-**Primary conflict:** who gets inside, who gets fed, who is armed
-
-- Duchy Good wants strict order
-    
-- Duchy Ugly makes exceptions
-    
-- Bank Bad sells exceptions
-    
-- Church Bad uses exceptions to enforce ideology
-    
-- Folk Bad raids camps
-    
-- Grobi scouts probe routes
-    
-
-**Player role (seconded Blackjacks):** carry out Pierre's public survival orders while deciding whether to obey, expose, or evade Koss's private recovery riders.
-**Faustian win condition:** you can “save” the autumn by buying compliance with debt and favors—creating winter corruption.
-
-### WINTER: Siege + Scarcity + Narrative
-
-**Primary conflict:** food, fuel, morale, legitimacy
-
-- Church Good feeds people, Church Bad hunts heresy
-    
-- Bank Good stabilizes supply, Bank Bad privatizes survival
-    
-- Duchy Bad skims ration and triggers riots
-    
-- Folk decide whether to camp near the walls (ally) or raid (enemy)
-    
-- Grobi War-Chief tests the walls; Grobi traders sell intel
-    
-
-**Player role:** plug holes, assassinate agitators, retrieve relic/artifact to flip morale.  
-**Faustian win condition:** to hold the walls, you may empower either the Church (theocracy) or the Bank (corporate state).
-
-### SPRING: Reckoning & Land
-
-**Primary conflict:** land claims, justice, resettlement, revenge
-
-- returning camps find their homes stripped or occupied
-    
-- Folk disputes ignite
-    
-- Bank calls loans
-    
-- Church demands moral “cleansing” of wartime compromises
-    
-- external powers try to lock in concessions
-    
-
-**Player role:** enforcement, arbitration, “expeditions,” and coverups.  
-**Faustian win condition:** you can stabilize spring by crushing rivals—creating a durable insurgency.
-
-### SUMMER: The Artifact Economy & Frontier Expansion
-
-**Primary conflict:** who owns the past
-
-- Bank wants artifacts
-    
-- Church wants relic control / doctrinal dominance
-    
-- Duke wants revenue and autonomy
-    
-- Folk want sacred sites protected or exploited on their terms
-    
-- Grobi pressure builds again in the south
-    
-
-**Player role:** ruin runs that are also political operations (maps, witnesses, rival teams).  
-**Faustian win condition:** artifact power “solves” problems short-term but escalates the scale of conflict.
-
----
-
-## D. The “strings attached” mechanics (make Ugly deals measurable)
-
-Give each Ugly faction a **Concession Track**. When players rely on them, the track fills; at thresholds, the world changes.
-
-Example thresholds:
-
-- **Church track:** inquisitions, relic courts, “sanctuary law,” forced tithes
-    
-- **Bank track:** debt prisons, privatized docks, indenture expansion, Bank militia
-    
-- **Folk track:** autonomous zones, Folk law inside camps, tribute corridors
-    
-- **External track:** foreign garrison, “advisors,” annexation treaty clauses
-    
-
-This makes Faustian bargains _felt_ rather than narrated.
-
----
-
-## E. A cast of “drivers” you can drop in immediately
-
-- **Duke Alaric von Grenzmark** (Duchy Ugly): keeps the coalition alive
-    
-- **Castellan Pierre Hohenwall** (Duchy Good): walls, discipline, ration order
-    
-- **Lord High Bailiff Enzo Voss** (Duchy Bad): sells charters, skims granary
-    
-- **Bishop-Prelate Caestus** (Church Good): hospitals, peacemaking
-    
-- **Deacon Ignatius** (Church Bad): reunification mandate, purges
-    
-- **Sister Marcellina** (Church Ugly): relic as statecraft
-    
-- **Ledger-Master Lucia Medori** (Bank Good): stability = repayment
-    
-- **Captain Valdemar Koss** (Bank Bad): extraction through violence
-    
-- **Factor Silas Medori** (Bank sovereign): balances the branch while the **Silent Partners** conduct hidden experiments
-    
-- **Speaker Bran of the River-Clans** (Folk Good): treaties, scouts
-    
-- **Warlord Cenn Ash-Spear** (Folk Bad): raids, feuds
-    
-- **Thorn-Seer Mael** (Folk Ugly): Lakekeeper-line seer whose prophecy and bargaining power come from Wolfsmere's living wound ([[The Folk of the Frontier and the Wolfsmere Lineage]])
-    
-- **War-Chief Ghor-Maw** (Grobi Bad): winter conquest
-    
-- **Herd-Matron Uru** (Grobi Good): survival corridor logic
-    
-- **Trader-Captain Skiv** (Grobi Ugly): intel and prisoners for coin
-
-- **Grakka Stone-Tooth** (Grobi managed predation): controls the Fenn Road shadow market and Skrit's service
-    
-
+These groups own substantial secondary chains, services, vocation access, and dungeons. They may have reputation or progression states appropriate to their work without competing for political control of the whole duchy.
+
+## Cross-Faction Rules
+
+- No faction is secretly behind every crisis.
+- Faction leaders pursue understandable goals through choices that remain morally judgeable.
+- Ordinary members are not reducible to the institution's worst leader.
+- Completing one line cannot erase another faction's material existence.
+- Main quests recognize prior faction service through alternate resources and methods, not through mandatory loyalty gates.
+- Final political outcomes must account for settlement survival, legal authority, debt, land rights, Church jurisdiction, underworld violence, and military control.
+- No outcome is canonical until all are designed.
+
+## Line-Build Requirements
+
+Wave 3 develops one faction at a time after targeted creator questions. Each finished line needs:
+
+- named leaders, rank-and-file members, rivals, and beneficiaries;
+- headquarters and at least two secondary spaces;
+- an eight-to-ten quest ladder;
+- services and progression rewards;
+- act cutoffs and transformed states;
+- companion intersections;
+- at least two final settlements;
+- summer scenes and world-state outputs.
 
 ## Navigation
 
+- [[Grenzburg Game Constitution]]
+- [[Quest and Content Architecture]]
+- [[Grenzburg Campaign Spine]]
+- [[Blackjack Corps]]
+- [[The Medori Bank]]
+- [[The Folk Clans]]
+- [[The Grobi]]
 - [[Grenzburg MOC]]
-- [[Canon Index]]

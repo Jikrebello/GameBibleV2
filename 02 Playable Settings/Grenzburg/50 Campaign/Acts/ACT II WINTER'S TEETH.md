@@ -1,133 +1,125 @@
 ---
-type: quest
+type: reference
 status: canon
 canon_level: local
 visibility: author-only
-era: []
+era: ["Present Day"]
 region: ["Grenzburg"]
-culture: []
-related_factions: []
+culture: ["Eclessian", "Folk"]
+related_factions: ["Duchy of Grenzburg", "Church of the Redeemer", "Medori Bank", "Grenzburg underworld", "Grobi"]
 appears_in: ["Grenzburg"]
-needs: []
-tags:
-  - game-ready
+needs:
+  - fully block chapters 9-15 and the Emerald Drake hunt after worldspace and faction approval
+tags: [game-ready]
 ---
-## **The Siege Without, The Rot Within**
-Act II turns Grenzburg inward. The walls hold the city together physically while the Heart-Stone, scarcity, and faction bargains pull it apart politically and spiritually.
+# Act II: Winter's Teeth
 
----
+Act II contracts the world without making it small. Grenzburg becomes denser, more political, and more criminal while winter turns exterior travel into deliberate expeditions. The critical path is divided evenly among urban pressure, the Emerald Drake hunt, and military shock work against Ghor.
 
-## **PART 1: THE WALLS CLOSE IN (Weeks 1-4 of Winter)**
+## Intended Feel
 
-Winter descends like a shroud. Grenzburg is now a pressure cooker of roughly thirty thousand permanent residents, refugees, soldiers, debtors, and seasonal laborers. The player's debt is now paid in the currency of survival.
+The city is crowded, cold, hungry, loud, and intensely alive. Workshops run at night, shrines fill, ration lines form, smugglers prosper, soldiers rotate from the walls, refugees improvise neighborhoods, and every institution argues that its emergency powers are necessary.
 
-**The New Normal:**
-*   **Rationing & Resentment:** **Magister Leviticus's** systems are tested immediately. The player's squad is assigned to ration distribution points, where they must enforce grim fairness: half-portions for the "non-essential." They witness **Lord High Bailiff Enzo Voss** skimming from the stores, and **Brother Clemens** breaking rules to feed Chapel-Folk children.
-*   **The Duke's Midnight Meeting:** Duke Alaric confirms the dual chain rather than pretending it has vanished. Pierre and Gerhold control public deployment; Koss remains the player's contractual commander. The Duke asks the player to expose any Bank rider that endangers the city, knowing he cannot simply cancel the contract.
-*   **The Heart-Stone's Influence:** Depending on where the Stone was placed, its amplifying effect begins to warp the siege:
-    *   **Bank Vaults:** The Blackjacks become more aggressive, more efficient, but also crueller and more paranoid. **Captain Valdemar Koss** seems stronger, but his eyes have a hungry gleam.
-    *   **Church Crypts:** The Ashen Band's fervour becomes a palpable, feverish heat. **Deacon Ignatius's** sermons now draw physical warmth from listeners, leaving them shivering. Reports of "visions" and "divine wrath" among the zealots increase.
-    *   **Folk Keeping (Ghost-Foot):** Strange, quiet areas appear in the city where sound dies and fear lessens. But people who linger there forget small things—their own name, the face of a loved one.
-    *   **Ducal Vault (If Secured):** The Duke seems more burdened, but also more fiercely determined. The Stone is a secret he and a trusted few (the player, Gerhold, Leviticus, Caestus) bear. He uses its subtle amplification sparingly, focusing it on **Sir Gerhold's** command centre to sharpen tactical awareness, at the cost of Gerhold's brutal headaches.
+Outside the walls, distance matters. Snow buries roads, frozen rivers create new routes, tracks become information, storms isolate camps, and familiar places acquire new hazards. Winter exploration should feel harsher and more intentional, not simply slower.
 
-**Siege Missions – The Internal Front:**
+## Three Equal Main Strands
 
-**1. The Granary Ghost.**
-*   **The Job:** A watchman reports seeing a "pale child" in the main granary. Stocks are depleting faster than ledgered.
-*   **The Truth:** It's not a ghost, but a **Pale-Skin infiltrator** sent to weaken the city from within. It doesn't eat grain; it *spoils* it with its presence, turning it to rot and ash. It's also scouting the location of the Heart-Stone.
-*   **The Factions:** **Sister Marcellina** is already investigating, seeking to capture the creature for Church study. **Ledger-Master Lucia Medori** wants it eliminated to protect assets. The Duke wants it taken alive and interrogated *quietly*.
-*   **The Choice:** A chase through the cramped, frozen undercrofts of the city. Can you capture it? If so, who do you give it to? Its death-scream might alert its masters.
+### Urban and Political
 
-**2. The Poisoned Well.**
-*   **The Job:** Sickness breaks out in the cramped Fisher's District. **Prelate Caestus** suspects poison or plague.
-*   **The Truth:** **The Shattered-Tusk Clan**, under **Jorund**, has tunnelled. Not a full-scale attack, but a sabotage run to poison a cistern. They were guided by a crude map provided by the **Pale-Skins**.
-*   **The Factions:** **Deacon Ignatius** declares it a sign of God's wrath for tolerating the Chapel-Folk, and demands they be expelled into the snow. **Baron Anders of Hochfeld** wants the tunnel found and the perpetrators executed publicly to maintain order. **Elof of the Chapel-Folk** pleads for a chance to find and talk to the saboteurs, believing some may be his kin.
-*   **The Choice:** A race into the sewers and old mine works beneath the city. Do you slaughter the saboteurs, capture them for Baron Anders's court, or let Elof attempt diplomacy?
+Chapters 10 and 13 use city districts, interiors, rooftops, underways, crowds, records, criminal contacts, faction spaces, and social investigation. Their stakes remain material: a store, route, hospital, prison, water source, pay chest, defense plan, or public authority.
 
-**3. The Usurer's Ice.**
-*   **The Job:** On the frozen lake, a clandestine trade is happening. **"Silent Svea"** from Lakewatch is bartering with **Stone-Tooth** Grobi, trading stolen medicines for... something.
-*   **The Truth:** Svea is getting small, polished **blood-stones** from the Grobi. They are inert shards of the Heart-Stone. The Stone-Tooth are trading them for supplies, not knowing their full purpose. The Pale-Skins are seeding them throughout the region as ritual anchors.
-*   **The Factions:** **Captain Koss** wants to assault the meet, capture Svea, and seize the stones for the Bank. **Sergeant Liese** wants to observe and trace the stones back to their source. The Duke, if you're his agent, orders you to *replace* the stones with fakes if possible, to misdirect the enemy.
-*   **The Choice:** A tense, silent operation on the ice in the dead of night. Betrayal, frostbite, and the eerie glow of corrupted stone.
+The urban story is not an audit simulator. Paper, law, debt, and records matter when they affect people and action. Other missions use stealth, pursuit, burglary, infiltration, protection, interrogation, public confrontation, and close-quarters combat.
 
----
+### Emerald Drake Hunt
 
-## **PART 2: THE EMERALD SCALE (Weeks 5-8 of Winter)**
+Chapters 11 and 12 form a major monster story. The Emerald Drake is territorial Faewild court-fauna with animal intelligence. It is neither the Deep Dragon nor a speaker for the forest. It has become an unacceptable threat to supply columns, winter movement, and the war effort.
 
-The siege grinds on. Then, a new terror.
+The hunt requires investigation, tracking, preparation, winter travel, environmental counterplay, and a physically ambitious battle. The main path ends in the Drake's death. The strongest play limits collateral damage, understands what ecological order the animal imposed, and prepares for what changes after its death.
 
-**The Drake's Awakening:**
-A monstrous roar shakes the southern mountains. The **Emerald Drake**, an ancient creature of the deep forests, is roused. Its territory has been violated by the massive Bloody-Sun siege camp. Enraged and disoriented, it attacks the largest source of heat and movement: Grenzburg.
+The law-gem and other materials may matter to crafting, factions, or side content. They are not a required key to the final campaign.
 
-**The Dual Catastrophe:**
-The Drake's first attack is a disaster. Its toxic breath corrodes stone and flesh. It smashes a watchtower and ignores arrows. The Grobi horde, seeing this, launches a coordinated assault at the same moment. The city is caught between two apocalyptic forces.
+### Shock Operations and Siege
 
-**The Council of Desperation:**
-An emergency war council is called. It is a microcosm of factional strife:
-*   **Sir Gerhold:** "The Drake is a tactical problem. We must lure it, ground it, kill it with concentrated force. It is a beast, not a demon."
-*   **Deacon Ignatius:** "It is a dragon, a symbol of the Adversary! Its awakening is a sign of our impurity! We must purify ourselves through penance!"
-*   **Lady Katarina (via messenger):** "Do not kill it! Capture it! Its glands, its bones... it is a treasure trove of primal artifice! My people can devise a harness!"
-*   **Bishop Konrad:** "The creature's attack is a divine test. Perhaps... it can be turned. A relic, properly applied, might soothe the beast and direct its wrath upon the heathen Grobi." He looks meaningfully towards the vault holding the Heart-Stone.
-*   **The Duke:** Listens to all, then turns to the player. "You have proven resourceful. Gerhold will give you men. Find a way to kill the Drake before it and the horde break us together. Use whatever tools you must. But understand—every faction will be watching, and wanting a piece of the carcass."
+Chapters 14 and 15 make the player a decisive field specialist rather than a general. The party crosses lines, destroys an engine or horn, rescues a cut-off unit, kills a critical war leader, opens a gate, or takes an otherwise inaccessible position. Larger forces exploit the opening.
 
-**The Drake Hunt:**
-This is a major dungeon crawl in the frozen, Grobi-infested wilderness between the city and the mountains.
-*   **The Journey:** The squad must evade Grobi patrols and the drake's aerial sweeps. They might find a slaughtered **Moss-Crown** hunting party, their bodies preserved by frost and fear—a warning from the land.
-*   **The Lair:** The drake's valley is a place of terrible beauty. The carcasses of Grobi scouts are everywhere. The players must use terrain, siege weapons brought in pieces, and cunning to ground the beast.
-*   **The Revelation:** In the battle, they discover the truth. The Drake didn't just wake randomly. **Pale-Skin** artifacts are embedded in the cliffs around its lair—crude psychic beacons that agitated it, *driving it towards the city*. The Pale-Skins are weaponizing the very land.
-*   **The Resolution:** The party may kill the Drake, force it from the siege corridor, calm it through Folk living-law, or accept Katarina's dangerous capture plan. Every route costs military or faction capital.
-*   **The Prize:** A **Drake's Heart Gem** can be secured from the defended heart-cache or naturally shed core-growth even if the Drake survives. It is a pristine life artifact and the necessary counter to the Heart-Stone.
+Ghor's defeat must arise from accumulated military damage, Grobi fractures, intelligence, supplies, and the final operation. It cannot depend on a hidden Pale-Skin command being switched off.
 
-**The Return & The Shift:**
-You return to the city bearing the Gem. Removing the Drake from the battlefield has broken the Grobi's coordinated assault, buying precious time. But the factions descend:
-*   **The Bank (Silas Medori):** "A remarkable asset. Its value could restructure the Duchy's entire debt. We will appraise it."
-*   **The Church (Bishop Konrad):** "A divine providence! The heart of a fallen serpent, perfect for crafting a holy relic to counter the dark one we hold."
-*   **Lady Katarina:** Sends an offer: the Gem for a full pardon of your debt and a share in her research.
-*   **The Duke (if you are his agent):** "Keep it. Hide it. Do not let it become another piece on their board. It may be the only clean weapon we have."
+## Main Chapters
 
----
+### 9. Winter's Teeth
 
-## **PART 3: THE CONSUMED HEART (Weeks 9-12 of Winter)**
+The city receives the survivors of Tannbruck, counts losses, closes gates, and establishes the three winter strands. The player sees immediate consequences before receiving new objectives. This chapter opens winter services, transformed faction stages, and seasonal exterior routes.
 
-The Grobi horde, frustrated and starving, makes its final, desperate play. The **Bloody-Sun Warband** converges for an all-out assault on the main gate. At its head is **Warlord Ghor the Consumed**.
+### 10. The City in Siege
 
-**The Final Defense:**
-The battle for the gate is a set-piece siege defense. The player must coordinate between:
-*   **Sir Gerhold's** garrison holding the walls.
-*   **The Ashen Band** fighting with fanatical, reckless fury.
-*   **Blackjack** squads doing deadly sallies and sabotage.
-*   **Civilian** militias led by **Headmen Jaromir, Berti, and a humbled Gunther**.
-The **Heart-Stone's** location dramatically affects this battle:
-*   **Bank:** Blackjacks fight with uncanny coordination but are recklessly aggressive, taking high casualties.
-*   **Church:** The Ashen Band become near-invincible zealots but begin seeing "heretics" on the walls, turning on their own.
-*   **Folk:** Weird silences disrupt Grobi charges, but parts of the wall seem to *forget* they're stone, becoming brittle.
-*   **Duke:** Gerhold's command is preternaturally sharp, allowing flawless counters, but the strain is killing him.
+An urban political problem threatens a concrete defense resource. Its final premise is reserved for Wave 4, but it must introduce urban mission play beyond conversation: restricted access, pursuit, infiltration, protection, or recovery in a district whose ordinary life is visible.
 
-**Confronting Ghor:**
-Amidst the chaos, Ghor himself assaults the gate, an Ogre amplified and partly directed through Hollow-King blood-stones and a Lesser Heart-Shard. The player's squad is tasked with a suicide mission: a sally to break his bodyguard and slay him.
+### 11. The Emerald Trail
 
-**The Truth Revealed:**
-In the duel with Ghor, the blood-stones speak through him in the layered voices of the **Pale-Skin Hollow-Kings**. They reveal the true endgame: the siege, bloodshed, amplified hatred, and fear are **fuel**. The Heart-Stone in the city is a **receiver**. The blood-stones are **transmitters**. They are creating a psychic resonance to crack open the "Tomb of the Dragon" (the ancient machine-god), not to awaken it as a servant, but to **feed it to their Hollow-Kings**, allowing them to become rulers of thought, hunger, and shadow.
+The player proves the nature and range of the Drake threat, gathers local and technical knowledge, identifies the lair approach, and chooses preparations. Hunters, Folk witnesses, warlocks, soldiers, and affected civilians may all contribute without any one viewpoint becoming an infallible answer.
 
-**Destroying Ghor:**
-The battle is brutal. Ghor is empowered by a **Lesser Heart-Shard** linked to the main Stone. The players can use the **Drake's Heart Gem** as a counter-law focus, shattering the shard and breaking the Hollow-Kings' remote control lattice. With his dying breath, Ghor doesn't curse—he *laughs*. "The song is already singing. The gates are opening. You hold the key in your city, and you don't even know which door it fits."
+### 12. A Drake in Winter
 
-**The Siege Breaks:**
-With Ghor dead, the horde shatters into fleeing bands. The immediate threat is over. Grenzburg has survived. Cheers echo off the bloody walls.
+The party enters the transformed territory and kills the Emerald Drake. Preparation changes paths, hazards, allies, and phases. Failure may kill helpers, lose equipment, worsen attacks, or require a second approach, but the main chapter remains recoverable.
 
-**The Final Scene: The Theft**
-Exhausted, the player returns to their barracks. In the middle of the night, they are awakened by an alarm. Not from the walls, but from *within*.
-The vault holding the **Heart-Stone** has been breached.
-*   If the **Bank** had it, it was an "inside job" by a Blackjack squad loyal to the **Silent Partners**, who have now fled with it.
-*   If the **Church** had it, **Sister Marcellina** is found "subdued," and the Stone is gone. Evidence points to **Ignatius**, who has vanished with his most fanatical followers, believing he can wield its power for a final purge.
-*   If the **Folk** had it, the Ghost-Foot Weaver is found dead, its body desiccated. The Stone is gone, and the only clue is a whisper of cold, metallic laughter from the depths of the ruins beneath the city.
-*   If the **Duke** had it, **Magister Leviticus** is missing and the vault bears his valid authorization. The Silent Partners used a forged neutral-escrow interpretation and threatened to cancel Grenzburg's grain credit. Leviticus moved the Stone through Katarina's service tunnel believing he could preserve both city and law; Pale-Skins seized the transfer. Whether he is exposed, executed, or redeemed becomes the canonical spring investigation.
+### 13. Knives Behind the Walls
 
-**Act II Closes** with the first thaw of spring, but no warmth reaches Grenzburg. The siege is broken, but the true enemy has what it wanted all along. The player stands amidst the celebration, knowing the victory is hollow. The **Hollow-Kings** have their amplifier. The ritual for the Dragon's awakening is now entering its final phase. The final battle will not be for walls, but for the soul and future of the land itself.
+The second urban chapter pushes the underworld line and faction conflict into the siege without making either the cause of Ghor's assault. Criminal routes can save people or profit from them. Official power can defend the city or cover its own predation. The result controls a route, institution, or resource used in the final defense.
 
-A single, frost-bitten flower pushes through the blood-soaked mud by the gate. It is black at the petals, and its centre pulses with a faint, sickly light.
+### 14. Break the Southern Horn
+
+The player undertakes a multi-stage shock operation against a decisive Grobi siege position. Faction and companion support create methods rather than pass/fail keys. The mission should combine traversal, field stealth or battle, and one major tactical set piece.
+
+### 15. Ghor at the Gate
+
+The organized siege culminates at Grenzburg. The player completes the specialist objective that permits ducal forces, militia, allies, and civilians to hold. Ghor is defeated as war-chief; whether he dies, is captured, or is displaced by another Grobi actor is reserved for Wave 4 because it affects later regional play.
+
+The siege is always broken. Variable results include casualties, districts damaged, prisoners, noncombatant Grobi outcomes, coalition splintering, and which factions receive public credit.
+
+## Parallel Winter Content
+
+Winter supports:
+
+- thieves, smugglers, killers, and vigilantes in dense urban spaces;
+- hospitals, burial, sanctuary, food, fuel, corruption, and public-order stories;
+- faction fractures and second companion quests;
+- winter-only hunts, frozen-route dungeons, and siege salvage;
+- wall defenses, patrols, prison problems, spy work, and deserter cases;
+- social quests among refugees, soldiers, craftspeople, clergy, and debtors;
+- deliberate expeditions into a visually transformed exterior.
+
+The city must contain joy and ordinary endurance as well as misery: feast substitutes, songs, games, illicit theater, shared kitchens, romances, craft pride, and gallows humor make the people worth defending.
+
+## Act II Output
+
+At first thaw, the game records:
+
+- district damage, disease, food, fuel, and civilian losses;
+- Tannbruck survivor contribution;
+- Emerald Drake death and ecological aftermath;
+- Ghor's state and coalition splintering;
+- Grobi prisoners, dependents, corridors, and revenge pressure;
+- faction winter leadership and public legitimacy;
+- underworld branch pressure;
+- companion stages and relationship commitments begun;
+- city services and exterior routes surviving into spring.
+
+## Prohibited Act II Moves
+
+- no Pale-Skin infiltrator as the hidden answer to city problems;
+- no Heart-Stone, blood-stone, or stolen artifact throughline;
+- no claim that the Drake and Ghor serve the same power;
+- no talking, morally negotiating Emerald Drake;
+- no replacement of urban action with paperwork alone;
+- no player command of the full siege;
+- no false ten-minute urgency during open winter windows.
 
 ## Navigation
 
+- [[ACT I THE CLOSING ROADS]]
+- [[Grenzburg Campaign Spine]]
+- [[Grenzburg Chapter and Window Matrix]]
+- [[Emerald Drakes]]
+- [[ACT III THE UNENDING MUSTER]]
+- [[Grenzburg Regional Geography]]
 - [[Grenzburg MOC]]
-- [[Canon Index]]

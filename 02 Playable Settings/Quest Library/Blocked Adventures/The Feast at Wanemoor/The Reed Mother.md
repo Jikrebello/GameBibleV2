@@ -18,7 +18,7 @@ moral_agency: limited
 encounter_tier: aligned
 rank: [unique]
 creature_family: Gluttony Masks and Feast-Beasts
-catalogued_forms: [The Reed Mother]
+catalogued_forms: []
 habitats: [reed fens, sacrificial fields, hidden feast stores]
 encounter_roles: [controller, ambusher, social pressure, boss, environmental hazard]
 related_magic: [Idol manifestation, White Flame]

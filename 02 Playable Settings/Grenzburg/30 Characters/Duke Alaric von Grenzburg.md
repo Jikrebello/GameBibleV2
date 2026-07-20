@@ -1,6 +1,6 @@
 ---
 type: character
-status: canon
+status: needs-review
 canon_level: local
 visibility: author-only
 era: []
@@ -8,10 +8,10 @@ region: ["Grenzburg"]
 culture: []
 related_factions: []
 appears_in: ["Grenzburg"]
-needs: []
+needs:
+  - reconcile his public campaign leadership and all possible political endings with Grenzburg Game Constitution
 aliases: ["Duke Alaric von Grenzmark", "Alaric von Grenzmark, Duke of Grenzburg"]
-tags:
-  - game-ready
+tags: []
 ---
 # Duke Alaric von Grenzmark, Duke of Grenzburg
 

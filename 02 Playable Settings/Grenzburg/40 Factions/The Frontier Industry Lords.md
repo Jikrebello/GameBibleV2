@@ -1,6 +1,6 @@
 ---
 type: faction
-status: canon
+status: needs-review
 canon_level: local
 visibility: public
 era: []
@@ -8,9 +8,9 @@ region: ["Grenzburg"]
 culture: []
 related_factions: []
 appears_in: ["Grenzburg"]
-needs: []
-tags:
-  - game-ready
+needs:
+  - divide regional industry actors among local, faction, and marquee quest ownership in the worldspace pass
+tags: []
 ---
 ### **The Frontier Industry Lords (Vassals & Guild Masters)**
 
@@ -106,4 +106,3 @@ The Industry Lords see Blackjacks as **specialized contractors for industrial pr
 
 - [[Grenzburg MOC]]
 - [[Canon Index]]
-

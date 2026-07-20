@@ -102,7 +102,7 @@ This seasonal dynamic gives human defenders enough predictability to plan withou
 
 ### The Pale-Skins Are Not Grobi
 
-Canon ruling: the pale deep-dwellers of the Grenzburg arc and their Hollow-King ruler-caste are **a separate ancient species**, the sunken remnant of the pre-human barrow-builders. See [[Pale-Skins and Hollow-Kings]]. They manipulate Grobi warbands through hunger and awe; they are not of them. Surface Grobi who have met them do not speak of them, which from Grobi is remarkable.
+Canon ruling: pale deep-dwellers and their Hollow-King ruler-caste are **a separate ancient species**, the sunken remnant of pre-human barrow-builders. See [[Pale-Skins and Hollow-Kings]]. Some Grobi bands in other regions may fear, trade with, raid, or be manipulated by them, but this is not part of Grenzburg's main campaign and never defines Grobi origin or behavior.
 
 ## Game-Ready Layer
 

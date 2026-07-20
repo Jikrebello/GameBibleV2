@@ -1,42 +1,39 @@
 ---
 type: character
-status: canon
+status: needs-review
 canon_level: local
-visibility: secret
+visibility: restricted
 era: ["Present Day"]
 region: ["Grenzburg"]
 culture: ["Ahl-e-Ahd"]
-related_factions: ["Medori Bank", "Silent Partners", "The Creditor"]
+related_factions: ["Blackjack Corps", "Medori Bank"]
 appears_in: ["Grenzburg"]
-needs: []
-tags: [game-ready]
+needs:
+  - workshop his people and state, former binding practice, inversion, debt, personality, four quests, and relationship path
+tags: []
 ---
 # Zafir the Bound Chainmaster
 
-## Core Concept
+## Locked Core
 
-Zafir is a contract magician bound through a forged Bank instrument. His arc treats freedom as the surrender of illegitimate power, not merely the acquisition of a stronger master.
+Zafir is an Ahl-e-Ahd binder trapped by an inversion of his own summoning craft. A structure he once used to command manifested service now constrains his body, power, debt, or freedom and carries him into Blackjack service at Grenzburg.
 
-## Five Decisive Beats
+He is a jurist and practitioner shaped by one specific Covenant people and state, not a generic representative of all Ahl-e-Ahd life. His knowledge, humor, ordinary loyalties, and culpability must exist beside the horror of his inversion.
 
-1. **The First Clause:** interpret the Heart-Stone rider and seek a sympathetic echo rather than surrendering the Stone.
-2. **Binding the Unclean:** contain a Hollow-King fragment and learn the Pale-Skins intend to consume their god.
-3. **The Ash Advocate:** face Malphas, an imposed devil office offering freedom through predatory assignments.
-4. **The Breaking Point:** reject a genocidal use of the Drake's Heart Gem against the entire Grobi migration.
-5. **The Court of Ash:** prove the contract binds him to a manipulated legal fiction and obtain nullification.
+## Companion Function
 
-## Canonical Outcome
+Zafir's four personal quests examine agency, lawful form, slavery, commanded beings, culpability, and freedom. His captors and Bank debt may exploit the inversion, but neither creates a Heart-Stone rider or makes him a key to the Deep Muster.
 
-Zafir wins freedom and loses the powers supplied by the forged instrument. He rejects inversion and a replacement mantle-master, entering the Duke's Peace as a free jurist and witness against predatory contracts.
+A resolved path teaches the [[Player Character Constitution|Binder advanced vocation]]. Binding must remain compatible with the setting's rules against human soulbinding and predatory ownership. Exact homeland, instrument, former conduct, combat summons, debt terms, and ending range await the Wave 3 workshop.
 
-## Final Dungeon Solution
+## Relationship
 
-Zafir contests the ritual's binding language and opens the brief lawful interval in which the Heart Gem can destroy the Stone.
+Zafir follows the eligibility and reward rules in [[Companion Constitution]]. Romance and sworn bond receive equal mechanical weight and separate explicit commitments.
 
 ## Navigation
 
-- [[Companion Quests]]
-- [[Contract Magic and True Names]]
-- [[Whisper-Mantles and Ash Advocates]]
-- [[Way-Weavers]]
+- [[Companion Constitution]]
+- [[Player Character Constitution]]
+- [[Ahl-e-Ahd Canon Register]]
+- [[Grenzburg Campaign Spine]]
 - [[Grenzburg MOC]]

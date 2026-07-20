@@ -33,7 +33,7 @@ Everyone's contractor, no one's friend: Hell pays in permissions, patrons in ren
 
 ## Hooks
 
-- Grenzburg's siege-winter mass graves: a Wrecker is embedded in the burial details, and the Pale-Skins' death-energy ritual and the Undertow's bulk-shipment interests have just noticed each other.
+- Grenzburg's siege-winter mass graves can attract a Wrecker or Undertow cell as an optional regional side threat. Such predation is independent of the Grobi siege and Deep Muster and has no Pale-Skin connection.
 - A parish's dead stop arriving (the saint's tell) — the investigation must move at the speed of funerals.
 - Caleran's ossuary roads: one-by-one body discrepancies conceal a Wrecker and a separate Fleshweaver procurement chain that has become its temporary partner.
 - The Lakekeepers' annual price comes due, and this year Thorn-Seer Mael cannot pay it alone. What the lake's keeper asks of the party is never named in advance. It never is.

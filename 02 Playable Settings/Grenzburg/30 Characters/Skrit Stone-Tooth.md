@@ -1,38 +1,27 @@
 ---
 type: character
-status: canon
+status: needs-review
 canon_level: local
 visibility: restricted
 era: ["Present Day"]
 region: ["Grenzburg", "Fenn Road"]
 culture: ["Grobi"]
-related_factions: ["Stone-Tooth Tribe", "Grobi"]
+related_factions: ["Stone-Tooth band"]
 appears_in: ["Grenzburg"]
-needs: []
-tags: [game-ready]
+needs:
+  - decide his stage, relation to Grakka, quest uses, survival states, and limits of temporary cooperation
+tags: []
 ---
 # Skrit Stone-Tooth
 
-## Core Concept
+Skrit is reserved as a Stone-Tooth broker, scout, captive, enemy, informant, or temporary quest actor. He is not one of the eight active companions and receives no romance, sworn bond, or redemptive loyalty arc.
 
-Skrit is a goblin broker sent by Grakka to price Grenzburg's weakness and monitor Herd-Matron Uru's corridor. He cooperates because a living city is a renewable source of food and metal. Recruitment never turns him into a misunderstood hero; it creates a temporary alignment between predators facing a worse consumption engine.
-
-## Compact Arc
-
-1. **The Meat Oath:** recruit Skrit by honoring a prisoner-and-food exchange without allowing him to select human tribute.
-2. **The Winter Price:** decide whether to feed Uru's dependents, redirect them, or let Skrit sell the route to raiders.
-3. **The Broken Tooth:** expose Skrit's contingency betrayal and force a final choice between Grakka's managed predation and Ghor's annihilating feast.
-
-## Canonical Outcome
-
-Skrit helps fracture Ghor's host, receives a bounded trade corridor, and leaves after spring. He remains dangerous, transactional, and barred from selecting people as payment.
-
-## Field Role
-
-Saboteur, trap-reader, and Grobi interpreter. In the Tomb he identifies hunger-signals and false commands used by the Hollow-Kings.
+Cooperation with Skrit is transactional and action-specific. It does not prove that predation is virtuous, bind every Grobi band, or require him to become human in outlook. Wave 3 must decide his exact lifecycle stage, obligations to Grakka, and possible spring or summer states.
 
 ## Navigation
 
-- [[Companion Quests]]
 - [[The Grobi]]
+- [[Grobi Overview]]
+- [[Factions Overview]]
+- [[Companion Constitution]]
 - [[Grenzburg MOC]]

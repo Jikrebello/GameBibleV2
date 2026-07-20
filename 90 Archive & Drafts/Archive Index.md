@@ -37,6 +37,8 @@ The fourth creature expansion wave is preserved under `90 Project History/2026-0
 
 The Menhir and ghoul-geography cohesion wave is preserved under `90 Project History/2026-07 Menhir and Ghoul Geography Wave`. [[Menhir and Ghoul Geography Migration Manifest]] records the twenty-nine pre-wave snapshots, Menhir moral-blindness ruling, Faewild Schism, temporary modern Trium, discontinuous underworld, three double-layer ghoul cities, and outward culture and adventure reconciliation.
 
+The former Grenzburg vertical-slice campaign is preserved under `50 Grenzburg and Playable Settings/2026-07-20 Pre-Game-Constitution`. [[Grenzburg Pre-Game-Constitution Archive Index]] records the retired Heart-Stone campaign, old act treatments, companion framework, faction framework, and dual-employer control layer before the full-game rebuild.
+
 ## Subject Archives
 
 - **10 Cosmology:** superseded cosmological phases and entity versions.

@@ -1,6 +1,6 @@
 ---
 type: character
-status: canon
+status: needs-review
 canon_level: local
 visibility: public
 era: []
@@ -8,9 +8,9 @@ region: ["Grenzburg"]
 culture: []
 related_factions: []
 appears_in: ["Grenzburg"]
-needs: []
-tags:
-  - game-ready
+needs:
+  - reconcile his pastoral and military role with the rebuilt Church line and residue crisis
+tags: []
 ---
 ### **Bishop-Prelate Caestus, The Geistlicher Rat of Grenzburg**
 
@@ -164,4 +164,3 @@ He views them as **souls in profound peril**, but also as potential instruments 
 
 - [[Grenzburg MOC]]
 - [[Canon Index]]
-

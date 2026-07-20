@@ -17,7 +17,8 @@ related_factions:
   - Grobi
 appears_in:
   - Grenzburg
-needs: []
+needs:
+  - retune population, military, debt, travel, and supply anchors against the seven-subregion production map
 tags:
   - game-ready
 ---
@@ -98,11 +99,11 @@ These are design anchors, not perfect simulation. Use them to keep quests ground
 
 ## Design Rule
 
-Whenever a quest gives a faction a win, update at least one number: food weeks, fuel weeks, garrison strength, refugee load, debt exposure, morale, disease risk, Grobi cohesion, or concession level.
+Whenever a quest materially changes the crisis, update at least one grounded state: food, fuel, garrison strength, refugee load, debt exposure, morale, disease risk, road access, settlement survival, or Grobi cohesion. Not every personal or exploratory quest needs to move a campaign-wide number.
 
 ## Navigation
 
 - [[Grenzburg MOC]]
-- [[Grenzburg Vertical Slice Dossier]]
+- [[Grenzburg Game Constitution]]
 - [[Grenzburg Regional Geography]]
 - [[Factions Overview]]

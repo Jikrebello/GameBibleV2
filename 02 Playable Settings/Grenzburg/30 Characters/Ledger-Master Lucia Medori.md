@@ -1,6 +1,6 @@
 ---
 type: character
-status: canon
+status: needs-review
 canon_level: local
 visibility: restricted
 era: ["Present Day"]
@@ -8,8 +8,9 @@ region: ["Grenzburg"]
 culture: ["Sestaran"]
 related_factions: ["Medori Bank", "Iron Ledger"]
 appears_in: ["Grenzburg"]
-needs: []
-tags: [game-ready]
+needs:
+  - reconcile her Bank role, ordinary credit, debtor policy, and possible endings with the new faction line
+tags: []
 ---
 # Ledger-Master Lucia Medori
 
@@ -20,14 +21,14 @@ Lucia leads the Iron Ledger's venture wing. She believes stable roads, solvent h
 ## Campaign Function
 
 - Presents the Bank's respectable face during Blackjack induction.
-- Issues infrastructure and survey riders rather than collection orders.
-- Ordered Martyn Valerius's death after concluding that immediate disclosure of the soul clause would collapse Grenzburg's grain credit.
-- Can help Lady Elara expose the Silent Partners through controlled disclosure.
-- Governs the local branch in the alternate Bank ending.
+- Sponsors selected infrastructure, survey, logistics, and debtor-professional work.
+- Argues that solvent households and trained living workers produce better long-term returns than Koss's liquidation methods.
+- Must answer for the coercion that remains inside her reform model rather than serving as the Bank's automatic good ending.
+- May become ally, rival, reformer, manager, defendant, or casualty according to the rebuilt Bank line.
 
-## Canonical Outcome
+## Rebuild Boundary
 
-Lucia confesses under the Gilded Shroud and cooperates against the Silent Partners. She retains a reduced banking office under ducal audit and faces civil judgement for Martyn's death; good intentions do not erase the crime.
+The Martyn Valerius murder, soul clause, Gilded Shroud confession, and fixed ducal-audit outcome are retired. Lucia has no canonical campaign outcome in Wave 1.
 
 ## Navigation
 
