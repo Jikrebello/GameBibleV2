@@ -80,5 +80,6 @@ Hang-vine, widow cord, sweet pit, reed maw, walking compost, and warm midden are
 
 - [[The Mundane Layer — Residue, Vermin, and the Delver Trade]]
 - [[Oathwood Wardens]]
-- [[The Feast at Wanemoor]]
+- [[Hollow Acre]]
+- [[The Feast at Wanemoor — Full Adventure]]
 - [[Bestiary MOC]]

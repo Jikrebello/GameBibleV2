@@ -18,8 +18,8 @@ tags:
 
 This is the authoritative map for the **61 active adventure conversions**.
 
-- **Fully Blocked: 19** - local premise, cast, locations, threats, and branchable ending states have dedicated canon dossiers.
-- **Canon-Locked: 42** - source structure, World Egg placement, culture, premise, and conversion ruling are stable; scene blocking remains.
+- **Fully Blocked: 20** - local premise, cast, locations, threats, and branchable ending states have dedicated canon dossiers.
+- **Canon-Locked: 41** - source structure, World Egg placement, culture, premise, and conversion ruling are stable; scene blocking remains.
 - **Seed: 0** - no active conversion remains an unplaced log line.
 
 A fully blocked adventure makes its starting situation canon. Player outcomes remain open.
@@ -51,10 +51,10 @@ A fully blocked adventure makes its starting situation canon. Player outcomes re
 - [[The Accord's Hollow Keep]]
 - [[The Dead Press Upward]]
 - [[The Drake's Demand]]
+- [[The Feast at Wanemoor]]
 
 ### Canon-Locked
 
-- [[The Feast at Wanemoor]]
 - [[The Founder's Lamp]]
 - [[The Gallows Court]]
 - [[The God of the Open Hand]]

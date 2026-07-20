@@ -78,6 +78,8 @@ Feast-beasts can exploit rot, infestation, or plague, but they do not cause thos
 - [[The Long Table]]
 - [[Ghouls]]
 - [[Grave-Runners]]
+- [[The Reed Mother]]
+- [[The Feast at Wanemoor — Full Adventure]]
 - [[Idol Manifestation and Feeding]]
 - [[Shadowlands and Idols MOC]]
 - [[Bestiary MOC]]

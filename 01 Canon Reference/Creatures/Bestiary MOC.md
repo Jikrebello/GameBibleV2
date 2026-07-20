@@ -243,6 +243,7 @@ These references define ontology and places; they add no creature forms.
 ## Unique Adventure Creatures
 
 - [[The Examiner]] - unique Breach-Week construct; physically owned by its adventure while remaining visible in the registry.
+- [[The Reed Mother]] - unique Merewick Gut-Maw manifestation of an existing Gluttony form; it adds no reusable family or form to the 42-form register.
 
 ## Adventure Encounter Sets
 

@@ -32,6 +32,7 @@ This is the controlling register for exactly **42 genuine Shadowlands forms**. I
 ### Gluttony
 
 - [[Ghouls]] and [[Grave-Runners]] (2)
+- **Local manifestation, not an additional form:** [[The Reed Mother]], a unique Merewick expression of the catalogued Gut-Maw.
 
 #### Ghoul Geography
 

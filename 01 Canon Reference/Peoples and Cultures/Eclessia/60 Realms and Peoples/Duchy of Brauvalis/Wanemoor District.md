@@ -14,7 +14,7 @@ tags: [game-ready]
 ---
 # Wanemoor District
 
-Wanemoor is a poor eastern district of [[The Duchy of Brauvalis Overview|Brauvalis]]. Its wooded iron hills and rain-dark timber country descend toward reed fens on the lower Weiss. The district seat is [[Wanenbruck]], where mine roads, saw rafts, and fen barges meet. Farther into the wetlands, settlements such as **Merewick** become harder for ducal officers, priests, and merchants to reach reliably.
+Wanemoor is a poor eastern district of [[The Duchy of Brauvalis Overview|Brauvalis]]. Its wooded iron hills and rain-dark timber country descend toward reed fens on the lower Weiss. The district seat is [[Wanenbruck]], where mine roads, saw rafts, and fen barges meet. Farther into the wetlands, settlements such as [[Merewick]] become harder for ducal officers, priests, and merchants to reach reliably.
 
 Wanemoor is neither a separate principality nor a distinct Eclessian people. It is Brauvalian border country with a recognizable local register: poorer, wetter, more dependent on seasonal labor, and more accustomed to parish custom carrying duties that richer districts assign to formal offices.
 
@@ -27,7 +27,7 @@ Autumn is the decisive season. Timber must be brought down before the roads diss
 ## Settlements and Roads
 
 - **Wanenbruck:** district seat, market, parish center, saw town, and mining office; population about 1,700.
-- **Merewick:** an isolated fen village reached by raised road and shallow boat, the setting of [[The Feast at Wanemoor]].
+- **[[Merewick]]:** an isolated fen village reached by raised road and shallow boat, and the setting of [[The Feast at Wanemoor — Full Adventure]].
 - **Last Lamp ridge:** the abandoned abbey cemetery and eastern mine country above Wanenbruck.
 - **The Reedway:** a raised but poorly maintained road from Wanenbruck into the fens. Flooding can turn a half-day journey into two days by boat.
 - **The Charcoal Road:** the northwestern timber route linking Wanemoor to larger Brauvalian guild towns.
@@ -57,7 +57,7 @@ Guild burial funds and parish poor boxes matter as much as wages. A household th
 Wanemoor supports two independent adventures:
 
 - [[The Dead Press Upward — Full Adventure]] begins in Wanenbruck and the Last Lamp ridge. Its crisis concerns violated plague burials, an opened ghoul road, and a mortal necromancer.
-- [[The Feast at Wanemoor]] begins at Merewick. Its crisis concerns an isolated village and the Reed Mother. It does not depend upon Wanenbruck's outcome.
+- [[The Feast at Wanemoor — Full Adventure]] begins at Merewick. Its crisis concerns an isolated village, concealed sacrifice, and [[The Reed Mother]]. It does not depend upon Wanenbruck's outcome.
 
 The district can also support mine collapses, confessional relief disputes, missing timber crews, winter hunger, fen smuggling, and ducal investigations whose danger is entirely human.
 
@@ -65,5 +65,7 @@ The district can also support mine collapses, confessional relief disputes, miss
 
 - [[The Duchy of Brauvalis Overview]]
 - [[Wanenbruck]]
+- [[Merewick]]
+- [[The Feast at Wanemoor — Full Adventure]]
 - [[Gazetteer of the Known World]]
 - [[Eclessia Overview]]
