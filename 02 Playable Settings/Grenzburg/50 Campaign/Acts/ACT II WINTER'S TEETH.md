@@ -56,7 +56,7 @@ The city receives the survivors of Tannbruck, counts losses, closes gates, and e
 
 ### 10. The City in Siege
 
-An urban political problem threatens a concrete defense resource. Its final premise is reserved for Wave 4, but it must introduce urban mission play beyond conversation: restricted access, pursuit, infiltration, protection, or recovery in a district whose ordinary life is visible.
+An urban political problem threatens a concrete defense resource. Its final premise is reserved for Wave 5, but it must introduce urban mission play beyond conversation: restricted access, pursuit, infiltration, protection, or recovery in a district whose ordinary life is visible.
 
 ### 11. The Emerald Trail
 
@@ -76,7 +76,7 @@ The player undertakes a multi-stage shock operation against a decisive Grobi sie
 
 ### 15. Ghor at the Gate
 
-The organized siege culminates at Grenzburg. The player completes the specialist objective that permits ducal forces, militia, allies, and civilians to hold. Ghor is defeated as war-chief; whether he dies, is captured, or is displaced by another Grobi actor is reserved for Wave 4 because it affects later regional play.
+The organized siege culminates at Grenzburg. The player completes the specialist objective that permits ducal forces, militia, allies, and civilians to hold. Ghor is defeated as war-chief; whether he dies, is captured, or is displaced by another Grobi actor is reserved for Wave 5 because it affects later regional play.
 
 The siege is always broken. Variable results include casualties, districts damaged, prisoners, noncombatant Grobi outcomes, coalition splintering, and which factions receive public credit.
 

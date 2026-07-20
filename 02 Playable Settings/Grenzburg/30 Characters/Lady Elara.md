@@ -24,7 +24,7 @@ She is educated, socially capable, adventurous, and accustomed to reading rank. 
 
 Elara's story asks whether lineage can be repaired without living off the dead. Her four personal quests must confront the graves entered, property taken, people implicated, and living obligations her family ignored. A good resolution requires truth and restitution without making the destruction of every innocent dependent the only honest answer.
 
-Her exact combat role, origin polity, debt instrument, attraction style, and ending range await the dedicated Wave 3 workshop. No Heart-Stone, Pale-Skin, Silent-Partner soul clause, Gilded Shroud, murdered betrothed, or fixed outcome is carried forward by default.
+Her exact combat role, origin polity, debt instrument, attraction style, and ending range await the dedicated Wave 4 workshop. No Heart-Stone, Pale-Skin, Silent-Partner soul clause, Gilded Shroud, murdered betrothed, or fixed outcome is carried forward by default.
 
 ## Relationship
 

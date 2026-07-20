@@ -24,7 +24,7 @@ He is charismatic, observant, funny when he is not performing indifference, and 
 
 Dismas's four personal quests concern leadership, guilt, victims, former accomplices, and the temptation to turn every attachment into an escape route. His past atrocity was not secretly caused by Pale-Skins, blood-stones, possession, or another device that removes his agency.
 
-Exact culture, criminal history, nature of the haunting, vocation, debt terms, and ending range await the Wave 3 workshop. No fixed atonement or political outcome is carried forward.
+Exact culture, criminal history, nature of the haunting, vocation, debt terms, and ending range await the Wave 4 workshop. No fixed atonement or political outcome is carried forward.
 
 ## Relationship
 

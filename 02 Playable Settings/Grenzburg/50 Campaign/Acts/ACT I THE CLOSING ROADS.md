@@ -55,7 +55,7 @@ The player joins a movement toward [[Fort Tannbruck]], meets marcher troops and 
 
 ### 5. Fort Tannbruck
 
-A grounded crisis inside or near the fort exposes structural weakness: supply corruption, a failed bridge, deserter collusion, captured scouts, a compromised outwork, or another practical failure to be selected in Wave 4. Solving it earns trust and improves the eventual withdrawal but does not make the fort permanently defensible.
+A grounded crisis inside or near the fort exposes structural weakness: supply corruption, a failed bridge, deserter collusion, captured scouts, a compromised outwork, or another practical failure to be selected in Wave 5. Solving it earns trust and improves the eventual withdrawal but does not make the fort permanently defensible.
 
 ### 6. Roads Worth Saving
 

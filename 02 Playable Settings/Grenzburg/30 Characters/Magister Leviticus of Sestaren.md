@@ -143,7 +143,7 @@ He views them as volatile Bank assets carrying a valid ducal warrant. Their divi
 
 ## Retired Winter Plot
 
-Leviticus is not the mandatory winter betrayer in the rebuilt campaign. The Heart-Stone transfer, Pale-Skin seizure, public redemption, and canonical Duke's Path are archived. Wave 3 will determine his logistics, urban, and faction roles without presuming treason.
+Leviticus is not the mandatory winter betrayer in the rebuilt campaign. The Heart-Stone transfer, Pale-Skin seizure, public redemption, and canonical Duke's Path are archived. Wave 4 will determine his logistics, urban, and faction roles without presuming treason.
 
 ---
 

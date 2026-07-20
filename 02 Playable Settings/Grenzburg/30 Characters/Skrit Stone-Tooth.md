@@ -16,7 +16,7 @@ tags: []
 
 Skrit is reserved as a Stone-Tooth broker, scout, captive, enemy, informant, or temporary quest actor. He is not one of the eight active companions and receives no romance, sworn bond, or redemptive loyalty arc.
 
-Cooperation with Skrit is transactional and action-specific. It does not prove that predation is virtuous, bind every Grobi band, or require him to become human in outlook. Wave 3 must decide his exact lifecycle stage, obligations to Grakka, and possible spring or summer states.
+Cooperation with Skrit is transactional and action-specific. It does not prove that predation is virtuous, bind every Grobi band, or require him to become human in outlook. Wave 4 must decide his exact lifecycle stage, obligations to Grakka, and possible spring or summer states.
 
 ## Navigation
 

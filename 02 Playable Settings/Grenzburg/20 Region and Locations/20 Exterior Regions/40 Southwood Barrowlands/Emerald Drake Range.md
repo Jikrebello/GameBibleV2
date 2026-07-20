@@ -9,7 +9,7 @@ culture: ["Folk", "Eclessian"]
 related_factions: ["Grenzburg hunters", "Folk kindreds"]
 appears_in: ["Grenzburg"]
 needs:
-  - block the hunt route, lair phases, preparation assets, and ecological aftermath in Wave 4
+  - block the hunt route, lair phases, preparation assets, and ecological aftermath in Wave 5
 map_id: "GR-4-D1"
 worldspace_role: major-dungeon
 subregion: "Southwood Barrowlands"

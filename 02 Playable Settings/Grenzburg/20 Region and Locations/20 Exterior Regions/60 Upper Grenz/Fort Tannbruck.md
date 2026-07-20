@@ -9,7 +9,7 @@ culture: ["Eclessian", "Folk"]
 related_factions: ["Duchy of Grenzburg", "Marcher Vanguard"]
 appears_in: ["Grenzburg"]
 needs:
-  - block the fort's active cast, defence missions, fall, winter occupation, and spring reclamation in Wave 4
+  - block the fort's active cast, defence missions, fall, winter occupation, and spring reclamation in Wave 5
 map_id: "GR-6-H2"
 worldspace_role: fortress-hub
 subregion: "Upper Grenz"

@@ -9,7 +9,7 @@ culture: ["Qianglong"]
 related_factions: ["Qianglong War Caste", "Qianglong Death Caste"]
 appears_in: ["Grenzburg"]
 needs:
-  - block the floor sequence, seals, encounter ecology, closure methods, and finale states in Wave 4
+  - block the floor sequence, seals, encounter ecology, closure methods, and finale states in Wave 5
 map_id: "GR-7-D1"
 worldspace_role: mega-dungeon
 subregion: "Frostfenn March"

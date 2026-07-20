@@ -16,7 +16,7 @@ tags: []
 
 Runa is reserved as a possible Moss-Crown guide, advocate, seer, hunter, or faction character. She is a local or near-local Folk actor rather than one of the eight outsider debtor companions and receives no romance or sworn-bond path.
 
-Her earlier companion outcome is retired. Wave 3 must ground her in the [[Folk Canon Register]], one particular kindred, and the actual Wolfsmere worldspace before her biography becomes canon again.
+Her earlier companion outcome is retired. Wave 4 must ground her in the [[Folk Canon Register]], one particular kindred, and the actual Wolfsmere worldspace before her biography becomes canon again.
 
 ## Navigation
 

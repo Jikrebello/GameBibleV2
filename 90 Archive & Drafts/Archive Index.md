@@ -41,6 +41,8 @@ The former Grenzburg vertical-slice campaign is preserved under `50 Grenzburg an
 
 Grenzburg's pre-production geography and first concept map are preserved under `50 Grenzburg and Playable Settings/2026-07-20 Pre-Worldspace-Constitution`. [[Grenzburg Pre-Worldspace Archive Index]] records the replaced physical baseline, numerical anchors, Fort Tannbruck and Deep Muster placements, and `Grenzburg Regional Map v1.png` before the city and seven-region worldspace were locked.
 
+Grenzburg's pre-player-systems material is preserved under `50 Grenzburg and Playable Settings/2026-07-20 Pre-Player-Systems-Constitution`. [[Grenzburg Pre-Player-Systems Archive Index]] records the imported `Game Lore Bible`, its original source hash, and the player authority replaced by the field-locked vocation model.
+
 ## Subject Archives
 
 - **10 Cosmology:** superseded cosmological phases and entity versions.

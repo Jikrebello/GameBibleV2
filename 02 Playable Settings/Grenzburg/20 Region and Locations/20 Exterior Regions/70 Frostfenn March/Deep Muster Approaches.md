@@ -9,7 +9,7 @@ culture: ["Qianglong", "Folk", "Grobi"]
 related_factions: ["Qianglong War Caste", "Qianglong Death Caste"]
 appears_in: ["Grenzburg"]
 needs:
-  - block entry operations, active seals, and the final descent in Wave 4
+  - block entry operations, active seals, and the final descent in Wave 5
 map_id: "GR-7-D0"
 worldspace_role: mega-dungeon-approach
 subregion: "Frostfenn March"

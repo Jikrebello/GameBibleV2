@@ -9,7 +9,7 @@ culture: ["Folk", "Grobi", "Qianglong"]
 related_factions: ["Folk kindreds", "Grobi", "Qianglong War Caste", "Qianglong Death Caste"]
 appears_in: ["Grenzburg"]
 needs:
-  - block the final reclamation and dead-march operations in Wave 4
+  - block the final reclamation and dead-march operations in Wave 5
 map_id: "GR-7"
 worldspace_role: subregion
 subregion: "Frostfenn March"

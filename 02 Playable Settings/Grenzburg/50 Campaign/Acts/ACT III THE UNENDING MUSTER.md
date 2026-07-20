@@ -77,7 +77,7 @@ Victory requires stopping the General Below and breaking the conditions that let
 
 ## Mega-Dungeon Requirements
 
-Wave 4 and the dungeon pass must provide:
+Wave 5 and the dungeon pass must provide:
 
 - multiple entrances earned through world play;
 - a return route and changing fallback spaces;

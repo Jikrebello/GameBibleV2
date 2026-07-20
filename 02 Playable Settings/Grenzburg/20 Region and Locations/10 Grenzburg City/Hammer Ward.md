@@ -9,7 +9,7 @@ culture: ["Eclessian", "Sestaran", "Thalmyric"]
 related_factions: ["Grenzburg guilds", "Grenzburg warlock schools"]
 appears_in: ["Grenzburg"]
 needs:
-  - name and build trainer, school, craft, and labor institutions during Wave 3 and the player-systems wave
+  - name the trainer cast and build school, craft, and labor quest ownership during Wave 4 and later content waves
 map_id: "GC-06"
 worldspace_role: district
 subregion: "Grenzburg City"

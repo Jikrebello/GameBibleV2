@@ -10,13 +10,13 @@ related_factions: ["Blackjack Corps", "Medori Bank"]
 appears_in: ["Grenzburg"]
 needs:
   - workshop and canonize the four new companion identities with the creator
-  - rebuild all eight dossiers, combat roles, approval values, and personal quests in Wave 3
+  - rebuild all eight dossiers, combat roles, approval values, and personal quests in Wave 4
 aliases: ["Companion Quests"]
 tags: [game-ready]
 ---
 # Companion Constitution
 
-This note controls Grenzburg's companion roster, relationship rules, personal-quest scale, and writing standards. Individual biographies are subordinate until their Wave 3 workshops are approved.
+This note controls Grenzburg's companion roster, relationship rules, personal-quest scale, and writing standards. Individual biographies are subordinate until their Wave 4 workshops are approved.
 
 ## Roster Contract
 
@@ -48,11 +48,11 @@ These are premises, not permission to preserve contradictory older quest materia
 
 ### Men
 
-**Knight Bernard:** a sincere paladin and compulsive thief whose kleptomania repeatedly violates the trust his vocation requires. His story concerns responsibility, grace, restitution, and the difference between holy purpose and using faith to excuse oneself. He unlocks the great-weapon Paladin vocation through resolution.
+**Knight Bernard:** a sincere paladin and compulsive thief whose kleptomania repeatedly violates the trust his vocation requires. His story concerns responsibility, grace, restitution, and the difference between holy purpose and using faith to excuse oneself. His third quest unlocks [[Paladin]] and his fourth provides its capstone.
 
 **Dismas:** a haunted highwayman whose debt follows chosen violence, survival, and the people who paid for his legend. He must be charismatic and genuinely useful without romanticizing predation or reducing his arc to self-loathing.
 
-**Zafir:** an Ahl-e-Ahd binder trapped by an inversion of his own summoning craft. What he once treated as commanded service has become the structure of his own captivity. His story examines agency, lawful form, slavery, culpability, and freedom without making Covenant evil the only thing about him. He unlocks the Binder vocation through resolution.
+**Zafir:** an Ahl-e-Ahd binder trapped by an inversion of his own summoning craft. What he once treated as commanded service has become the structure of his own captivity. His story examines agency, lawful form, slavery, culpability, and freedom without making Covenant evil the only thing about him. His third quest unlocks [[Binder]] and his fourth provides its capstone.
 
 **Jirahar man:** an outsider whose Way, tower relationship, family memory, vocation, and debt must be specific to Jirahar canon. He cannot serve as a walking exposition device or generic desert mystic. His identity requires a dedicated creator workshop.
 
@@ -123,7 +123,7 @@ No companion is a mandatory key that makes the critical path impossible without 
 
 Companions do not become the hidden authors of every crisis. Their histories intersect the world because they are well-travelled debtors, not because destiny assembled eight secret plot devices in one convoy.
 
-## Wave 3 Approval Rule
+## Wave 4 Approval Rule
 
 Each companion will be developed individually. Before canonizing a new identity or substantially rewriting one of the four retained companions, the creator is asked targeted questions about personality, culture, debt, vocation, attraction, moral fault, and desired ending range. Approved dossiers then replace the current needs-review character files.
 

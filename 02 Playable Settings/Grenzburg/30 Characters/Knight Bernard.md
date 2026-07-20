@@ -24,7 +24,7 @@ He is personable, devout, physically brave, and capable of real mercy. Faith doe
 
 Bernard's four personal quests concern responsibility, restitution, grace, temptation, and the difference between seeking help and using holy purpose as an excuse. His conflict with Church institutions must arise from concrete doctrine and conduct rather than the stock claim that personal belief is always purer than organized religion.
 
-A resolved path teaches the great-weapon [[Player Character Constitution|Paladin advanced vocation]]. Exact order, stolen objects, victims, debt terms, combat role, and ending range await the Wave 3 workshop. No former relic chain or fixed outcome is carried forward by default.
+A resolved path teaches the great-weapon [[Paladin]] advanced vocation. Exact order, stolen objects, victims, debt terms, combat role, and ending range await the Wave 4 workshop. No former relic chain or fixed outcome is carried forward by default.
 
 ## Relationship
 

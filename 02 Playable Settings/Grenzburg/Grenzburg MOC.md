@@ -21,6 +21,7 @@ Grenzburg is the active game project: a silent-protagonist, party-based open-wor
 |---|---|
 | Game vision, tone, scope, and design laws | [[Grenzburg Game Constitution]] |
 | Player identity, social interface, and vocation rules | [[Player Character Constitution]] |
+| Detailed character creation, progression, field play, and vocations | [[Player Systems MOC]] |
 | Critical-path story | [[Grenzburg Campaign Spine]] |
 | Seasons, cutoffs, persistence, and summer | [[Season and World-State Constitution]] |
 | Quest classes, budgets, and metadata | [[Quest and Content Architecture]] |
@@ -85,7 +86,7 @@ The retained seeds are:
 - [[Dismas the Highwayman]];
 - [[Zafir the Bound Chainmaster]].
 
-Three women representing Thalmyric, specific Sestaran, and Ättar life, plus one Jirahar man, will be named and canonized through individual Wave 3 workshops. Existing Lotte, Runa, and Skrit notes remain local-character source material under review; they are not members of the active eight-companion roster.
+Three women representing Thalmyric, specific Sestaran, and Ättar life, plus one Jirahar man, will be named and canonized through individual Wave 4 workshops. Existing Lotte, Runa, and Skrit notes remain local-character source material under review; they are not members of the active eight-companion roster.
 
 ## Principal Cast Under Review
 
@@ -100,7 +101,7 @@ Three women representing Thalmyric, specific Sestaran, and Ättar life, plus one
 - [[Lord High Bailiff Enzo Voss]]
 - [[Sergeant Liese of the Marcher Vanguard]]
 
-Their setting identities remain source material. Their game roles, quest ownership, and outcomes require Wave 3 reconciliation with the new campaign.
+Their setting identities remain source material. Their game roles, quest ownership, and outcomes require Wave 4 reconciliation with the new campaign.
 
 ## Faction Lines
 
@@ -129,9 +130,9 @@ See [[Grenzburg Pre-Game-Constitution Archive Index]] for the preserved treatmen
 
 1. **Game constitution:** complete.
 2. **Worldspace constitution:** complete; later content may fill reserved sites without moving the geography.
-3. **Player systems:** vocation dossiers, progression, trainers, traversal, combat and social formulas.
-4. **Companions and factions:** targeted creator questions, then individual canonization.
-5. **Main campaign:** fully block all twenty-one chapters and two aftermath quests.
+3. **Player systems:** complete at the narrative-constitution level through [[Player Systems MOC]]; exact combat balance remains provisional.
+4. **Companions and factions:** next; targeted creator questions, then individual canonization.
+5. **Main campaign:** fully block all twenty-one chapters and two aftermath quests after companion and faction control is locked.
 6. **Side content:** marquee stories, local quests, dungeons, hunts, contracts, and jobs.
 7. **Integration:** endings, summer states, intersections, production navigation, and final canon checks.
 

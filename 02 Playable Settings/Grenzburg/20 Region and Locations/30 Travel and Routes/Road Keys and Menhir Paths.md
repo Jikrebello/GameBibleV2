@@ -9,7 +9,7 @@ culture: ["Folk", "Chapel-Folk", "Eclessian"]
 related_factions: ["Local path custodians", "Way-Weavers"]
 appears_in: ["Grenzburg"]
 needs:
-  - tune price, stock, acquisition, and inventory presentation during the player-systems wave
+  - tune price, stock, acquisition, and inventory presentation during player-system prototyping
 map_id: "GR-ROADKEY"
 worldspace_role: travel-mechanic
 subregion: ""

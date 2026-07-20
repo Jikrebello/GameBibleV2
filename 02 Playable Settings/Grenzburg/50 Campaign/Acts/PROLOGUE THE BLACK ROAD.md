@@ -9,12 +9,12 @@ culture: []
 related_factions: ["Blackjack Corps", "Medori Bank", "Duchy of Grenzburg"]
 appears_in: ["Grenzburg"]
 needs:
-  - fully block the convoy cast, crisis, tutorial encounters, and first companion recruitment in Wave 4
+  - fully block the convoy cast, crisis, tutorial encounters, and first companion recruitment in Wave 5
 tags: [game-ready]
 ---
 # Prologue: The Black Road
 
-The prologue introduces the player through action rather than explanation. A Medori debtor convoy travels south toward Grenzburg as autumn traffic chokes the northern road. Something grounded and legible turns the journey into a rescue and survival operation. The exact hostile incident is reserved for Wave 4, but it must arise from road conditions, human violence, animals, Grobi opportunism, or a credible combination rather than the final supernatural plot.
+The prologue introduces the player through action rather than explanation. A Medori debtor convoy travels south toward Grenzburg as autumn traffic chokes the northern road. Something grounded and legible turns the journey into a rescue and survival operation. The exact hostile incident is reserved for Wave 5, but it must arise from road conditions, human violence, animals, Grobi opportunism, or a credible combination rather than the final supernatural plot.
 
 ## Fixed Functions
 

@@ -9,12 +9,12 @@ culture: ["Eclessian", "Folk", "Sestaran"]
 related_factions: ["Duchy of Grenzburg", "Marcher Vanguard", "Blackjack Corps", "Medori Bank", "Church of the Redeemer", "Folk kindreds", "Grenzburg underworld"]
 appears_in: ["Grenzburg"]
 needs:
-  - workshop the internal leaders, names, and eight-to-ten quest ladder of each line in Wave 3
+  - workshop the internal leaders, names, and eight-to-ten quest ladder of each line in Wave 4
 tags: [game-ready]
 ---
 # Grenzburg Factions Overview
 
-This note controls the five deep faction lines in the Grenzburg game. It defines their playable promise, internal conflict, campaign role, and design limits. Individual faction dossiers remain source material under review until Wave 3.
+This note controls the five deep faction lines in the Grenzburg game. It defines their playable promise, internal conflict, campaign role, and design limits. Individual faction dossiers remain source material under review until Wave 4.
 
 ## Faction-Line Rule
 
@@ -101,7 +101,7 @@ Every line must provide:
 
 **Campaign contribution:** hidden city routes, intelligence, contraband, evacuation channels, sabotage during the siege, and either restrained underground order or normalized private killing.
 
-The organizations and principal leaders of this line are reserved for a targeted Wave 3 workshop.
+The organizations and principal leaders of this line are reserved for a targeted Wave 4 workshop.
 
 ## Non-Joinable Regional Actors
 
@@ -129,7 +129,7 @@ These groups own substantial secondary chains, services, vocation access, and du
 
 ## Line-Build Requirements
 
-Wave 3 develops one faction at a time after targeted creator questions. Each finished line needs:
+Wave 4 develops one faction at a time after targeted creator questions. Each finished line needs:
 
 - named leaders, rank-and-file members, rivals, and beneficiaries;
 - headquarters and at least two secondary spaces;

@@ -9,7 +9,7 @@ culture: ["Folk", "Chapel-Folk"]
 related_factions: ["Moss-Crown", "Folk kindreds"]
 appears_in: ["Grenzburg"]
 needs:
-  - assign Moss-Crown offices, household cast, and faction-line services in Wave 3
+  - assign Moss-Crown offices, household cast, and faction-line services in Wave 4
 map_id: "GR-3-H1"
 worldspace_role: regional-hub
 subregion: "Wolfsmere Woods"

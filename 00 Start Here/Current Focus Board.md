@@ -15,14 +15,14 @@ tags: []
 
 ## First Creative Priority
 
-Build Grenzburg into the setting's first complete video game. The game and worldspace constitutions are now locked through [[Grenzburg Game Constitution]], [[Grenzburg Campaign Spine]], and [[Grenzburg Regional Geography]]. The next production wave is player systems. Caleran remains the great-city sandbox, but it is not the active implementation priority.
+Build Grenzburg into the setting's first complete video game. The game, worldspace, and narrative player-system constitutions are now locked through [[Grenzburg Game Constitution]], [[Grenzburg Campaign Spine]], [[Grenzburg Regional Geography]], and [[Player Systems MOC]]. The next production wave is companions and factions, developed through targeted creator questions before canonization. Caleran remains the great-city sandbox, but it is not the active implementation priority.
 
 ## Current Canon Baseline
 
 - **Present day:** 1360 AR, using the [[Chronology of the Known World (AR Dating)]].
 - **Map logic:** the known world is southern-hemisphere oriented; south is colder, harsher, and more frontier-bound. Use [[Gazetteer of the Known World]] and [[Geography Atlas]] as the map baseline.
 - **Source truth:** in-world historical accounts are rated in [[Reliability Register]].
-- **Active game:** [[Grenzburg MOC]] is the project doorway. [[Grenzburg Game Constitution]], [[Player Character Constitution]], [[Season and World-State Constitution]], [[Quest and Content Architecture]], [[Companion Constitution]], and [[Factions Overview]] control the full-game rebuild.
+- **Active game:** [[Grenzburg MOC]] is the project doorway. [[Grenzburg Game Constitution]], [[Player Character Constitution]], [[Player Systems MOC]], [[Season and World-State Constitution]], [[Quest and Content Architecture]], [[Companion Constitution]], and [[Factions Overview]] control the full-game rebuild.
 - **Active worldspace:** [[Grenzburg Regional Geography]] controls the twin-walled city, seven exterior regions, physical routes, and map boundary. [[Grenzburg Map Package]] provides creator and player maps; [[Grenzburg Worldspace Location Register]] reserves later content placement.
 - **Great-city sandbox:** [[Caleran Great-City Dossier]] is the production doorway for urban intrigue, archaeology, and occult investigation.
 - **Vault structure:** active reference material uses numbered, subject-owned folders; superseded material is indexed through [[Archive Index]] and the [[Physical Reorganization Manifest]].
@@ -42,9 +42,9 @@ Build Grenzburg into the setting's first complete video game. The game and world
 
 ## Next Three Workstreams
 
-1. **Grenzburg player systems:** build the six starting vocation dossiers, reversible hybrid progression, trainers, traversal, social formulas, and the Paladin and Binder unlock paths.
-2. **Grenzburg companions and factions:** workshop each new or revised identity with targeted creator questions before canonizing eight companion arcs and five eight-to-ten-quest faction lines.
-3. **Grenzburg main campaign:** block all twenty-one chapters and two aftermath quests against the locked map, travel, and seasonal rules.
+1. **Grenzburg companions and factions:** workshop each new or revised identity with targeted creator questions before canonizing eight companion arcs and five eight-to-ten-quest faction lines.
+2. **Grenzburg main campaign:** block all twenty-one chapters and two aftermath quests against the locked map, travel, seasonal, player-system, companion, and faction rules.
+3. **Player-system prototyping and originalization:** replace all inherited skill language, test the six starting vocations and two advanced vocations, and move provisional numbers into implementation specifications only after play evidence exists.
 
 ## Locked Rulings
 
@@ -74,6 +74,9 @@ Build Grenzburg into the setting's first complete video game. The game and world
 - The Ättar are four great totem-kindreds containing many rival halls. Every old-rite hall chief is a hybrid-only skinwalker; each ruling line owes one firstborn exchange per generation. Transformations do not consume memories, and Moontouched decline is neither immediate nor inevitable.
 - The Tarkhan are one people expressed through western camel-based Well-Tarkhan and northeastern horse-based Grass-Tarkhan life. The White Horde is Iqashar's immediate raiding threat; Iron settlement is its slower institutional threat. The [[Nine Wells of Tergai]] are ancestral Tarkhan ground seized by Covenant forces in 558 AR, and the [[Castaran Long Road]] remains outside ordinary Concord territory.
 - The protagonist is a silent, customizable outsider debtor serving as a Blackjack specialist under ducal field assignment. The Duke drives the public main story; Bank pressure is selective rather than a rider attached to every mission.
+- Grenzburg uses global character levels, separate vocation mastery, and one field-locked vocation at a time. The six starters are [[Fighter]], [[Slayer]], [[Hunter]], [[Warlock]], [[Medium]], and [[Rune Fist]]; [[Paladin]] and [[Binder]] are companion-earned advanced paths. [[Custom Vocation Workshop]] is an account-wide metagame builder unlocked after two authored vocations are fully mastered.
+- Character creation grants one origin culture, one additional cultural familiarity, one background knowledge, primary and secondary social-stat focus, one moral leaning or neutrality, and one starting vocation. Social checks show their governing skill or knowledge and a Favored, Even, Risky, or Dire band while exact rolls and Luck remain hidden.
+- Every vocation can complete every critical route. Medium shades are non-conscious imprints, Warlock and Rune Fist obey Shell-script canon, Paladin techniques require White-Flame coherence, and Binder cannot bind human souls or coerced persons.
 - Grenzburg's critical path is [[PROLOGUE THE BLACK ROAD|The Black Road]], [[ACT I THE CLOSING ROADS|The Closing Roads]], [[ACT II WINTER'S TEETH|Winter's Teeth]], [[ACT III THE UNENDING MUSTER|The Unending Muster]], and playable [[SUMMER AFTERMATH|summer aftermath]]. The Heart-Stone, Pale-Skins, Leviticus betrayal, and Duke's Peace are retired from the main campaign.
 - Fort Tannbruck always falls, the Emerald Drake is slain, Ghor's organized siege is defeated, Gerhold accepts the Unending Muster without redemption, and the General Below is stopped in every completed campaign. Political power, casualties, debt freedom, companion futures, and settlement survival remain variable; no political ending is setting canon.
 - The field party is the player plus three companions selected from eight full outsider debtors. Four women and four men each receive four personal quests and relationship paths; romance eligibility is heterosexual, while same-sex paths become mechanically equivalent sworn bonds.
@@ -82,7 +85,8 @@ Build Grenzburg into the setting's first complete video game. The game and world
 
 ## Open Production Questions
 
-- Grenzburg vocation trees, social formulas, progression costs, quest rewards, companion approval, and encounter balance.
+- Exact Grenzburg damage, frames, inputs, growth curves, mastery rates, social probabilities, quest rewards, companion approval, encounter balance, custom-build budget, and compatibility matrix.
+- Final original names, descriptions, animation identities, and progression orders for source-derived vocation skills tracked in [[Vocation Originalization Register]].
 - Names, cultures, debts, vocations, faults, and ending ranges for the four new companions, to be resolved through individual workshops.
 - Leaders, internal futures, services, and eight-to-ten-quest ladders for Grenzburg's five deep faction lines.
 - Named regional cells for the Left Hand as new playable settings are developed.

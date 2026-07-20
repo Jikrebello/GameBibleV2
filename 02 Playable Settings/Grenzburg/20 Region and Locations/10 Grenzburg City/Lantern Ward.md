@@ -9,7 +9,7 @@ culture: ["Eclessian", "Sestaran", "Folk", "Jirahar", "Ahl-e-Ahd", "Thalmyric", 
 related_factions: ["Blackjack Corps", "Medori Bank", "Grenzburg underworld"]
 appears_in: ["Grenzburg"]
 needs:
-  - assign the underworld branches, debtor cast, and companion routines in Wave 3
+  - assign the underworld branches, debtor cast, and companion routines in Wave 4
 map_id: "GC-08"
 worldspace_role: district
 subregion: "Grenzburg City"

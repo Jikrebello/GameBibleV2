@@ -9,7 +9,7 @@ culture: ["Eclessian", "Folk", "Chapel-Folk"]
 related_factions: ["Duchy of Grenzburg", "Folk kindreds", "Grenzburg carriers"]
 appears_in: ["Grenzburg"]
 needs:
-  - tune fares, Road-Key prices, stock cadence, and interface presentation during the player-systems wave
+  - tune fares, Road-Key prices, stock cadence, and interface presentation during player-system prototyping
 map_id: "GR-TRAVEL"
 worldspace_role: travel-network
 subregion: ""

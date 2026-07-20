@@ -16,7 +16,7 @@ tags: []
 
 Lotte is reserved as a possible Grenzburger marcher sergeant, fort officer, trainer, or ducal faction character. She is not one of the eight active companions and receives no romance or sworn-bond path.
 
-Her earlier companion outcome is retired. Wave 3 must decide whether she serves Fort Tannbruck, Grenzburg's walls, a field company, or another local institution before her biography becomes canon again.
+Her earlier companion outcome is retired. Wave 4 must decide whether she serves Fort Tannbruck, Grenzburg's walls, a field company, or another local institution before her biography becomes canon again.
 
 ## Navigation
 

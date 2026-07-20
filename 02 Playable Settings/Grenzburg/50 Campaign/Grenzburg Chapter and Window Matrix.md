@@ -9,7 +9,7 @@ culture: []
 related_factions: []
 appears_in: ["Grenzburg"]
 needs:
-  - replace chapter-level concept rows with fully blocked triggers and failure states in Wave 4
+  - replace chapter-level concept rows with fully blocked triggers and failure states in Wave 5
 aliases: ["Grenzburg Campaign Branch Matrix"]
 tags: [game-ready]
 ---
@@ -67,7 +67,8 @@ Main quest urgency is expressed through condition and stakes rather than false m
 
 - Faction admission begins in Early Autumn; no line delivers all of its leaders in one scene.
 - Every companion is recruitable by the end of Open Autumn.
-- At least one vocation trainer and one representative quest from each gameplay mode appear before chapter 5.
+- At least one alternate starting-vocation trainer and one representative quest from each gameplay mode appear before chapter 5.
+- All six starting vocations can be unlocked by the end of chapter 6 without requiring permanent faction loyalty.
 - No advanced vocation unlocks before the player's core combat language is established.
 - The first marquee supernatural quest uses familiar local stakes and limited terminology.
 - Winter does not delete the exterior world; it changes routes, dangers, services, and quest forms.
@@ -76,7 +77,7 @@ Main quest urgency is expressed through condition and stakes rather than false m
 
 ## Failure Transformation Standard
 
-Wave 4 must give every chapter:
+Wave 5 must give every chapter:
 
 - an explicit trigger;
 - at least one fail-forward state;
@@ -94,6 +95,7 @@ No chapter may rely on an unnamed traitor, forced player stupidity, off-screen c
 - [[Grenzburg Campaign Spine]]
 - [[Season and World-State Constitution]]
 - [[Quest and Content Architecture]]
+- [[Player Systems MOC]]
 - [[ACT I THE CLOSING ROADS]]
 - [[ACT II WINTER'S TEETH]]
 - [[ACT III THE UNENDING MUSTER]]

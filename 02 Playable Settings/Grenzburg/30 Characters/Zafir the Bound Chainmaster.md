@@ -24,7 +24,7 @@ He is a jurist and practitioner shaped by one specific Covenant people and state
 
 Zafir's four personal quests examine agency, lawful form, slavery, commanded beings, culpability, and freedom. His captors and Bank debt may exploit the inversion, but neither creates a Heart-Stone rider or makes him a key to the Deep Muster.
 
-A resolved path teaches the [[Player Character Constitution|Binder advanced vocation]]. Binding must remain compatible with the setting's rules against human soulbinding and predatory ownership. Exact homeland, instrument, former conduct, combat summons, debt terms, and ending range await the Wave 3 workshop.
+A resolved path teaches the [[Binder]] advanced vocation. Binding must remain compatible with the setting's rules against human soulbinding and predatory ownership. Exact homeland, instrument, former conduct, combat summons, debt terms, and ending range await the Wave 4 workshop.
 
 ## Relationship
 

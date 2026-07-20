@@ -110,7 +110,7 @@ Summer is playable. [[Accounts of the Living]] establishes immediate survival, d
 | 20 | Act III | The Dead March | Defend routes and settlements while opening the final descent. |
 | 21 | Act III | The Deep Muster | Break the Muster, stop the General Below, and determine the survival state. |
 
-The titles are controlling working titles for Wave 1. Wave 4 may rename a chapter only if its function and position remain legible or this spine is explicitly revised.
+The titles are controlling working titles from Wave 1. Wave 5 may rename a chapter only if its function and position remain legible or this spine is explicitly revised.
 
 ## Onboarding Discipline
 

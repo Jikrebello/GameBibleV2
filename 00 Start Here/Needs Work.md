@@ -19,9 +19,11 @@ This page is the human-readable triage board. It includes non-canon notes and ca
 
 ## Priority Backlog
 
-- Build Grenzburg's production worldspace from [[Grenzburg Regional Geography]]: city districts, seven exterior subregions, Fort Tannbruck, winter corridors, faction and companion sites, dungeons, seasonal variants, and Deep Muster approaches.
+- Workshop and canonize Grenzburg's eight companions and five deep faction lines, asking the creator targeted questions before identity, debt, role, or ending decisions are fixed.
+- Originalize the source-derived vocation language tracked in [[Vocation Originalization Register]] and prototype the qualitative systems in [[Provisional Player Balance Appendix]] before any vocation becomes implementation-ready.
+- Fully block Grenzburg's twenty-one campaign chapters and two summer chapters against the locked worldspace and [[Player Systems MOC]].
 - Expand the Grenzburg-facing bestiary into encounter-ready ecology, tactics, materials, faction use, and tuned difficulty.
-- Tune the remaining Grenzburg implementation values: rewards, material-state deltas, approval thresholds, field roles, and UI terminology.
+- Tune the remaining Grenzburg implementation values: rewards, material-state deltas, approval thresholds, field roles, inputs, and UI terminology.
 - Map Mazrakan, Al-Qahur's basin, Qazmarid's strait defenses, Zanthir's tributary roads, and the present Velian jurisdictions using the reconstructed Covenant authority notes.
 - Fix Mazrakan's population and district boundaries only when it enters playable-setting production.
 - Fix Orsena's population, harbor districts, and cistern capacity during a playable-setting pass.

@@ -27,7 +27,7 @@ Ghor is a powerful true-born Ogre who turns seasonal movement into organized con
 
 His coalition has real military structure, scouts, routes, siege aims, supply predation, and internal fractures. It is not controlled by Pale-Skins, Hollow-Kings, the Heart-Stone, the Left Hand, the Medori Bank, or the Deep Muster. Ghor chooses the siege because Grenzburg is valuable and because victory would establish his authority over rivals.
 
-The organized host is defeated at the end of [[ACT II WINTER'S TEETH]]. Ghor's death, capture, displacement, or survival beyond the broken siege remains to be locked in Wave 4 because each creates a different spring frontier.
+The organized host is defeated at the end of [[ACT II WINTER'S TEETH]]. Ghor's death, capture, displacement, or survival beyond the broken siege remains to be locked in Wave 5 because each creates a different spring frontier.
 
 ## Herd-Matron Uru
 

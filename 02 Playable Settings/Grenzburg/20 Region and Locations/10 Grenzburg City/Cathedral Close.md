@@ -9,7 +9,7 @@ culture: ["Eclessian", "Chapel-Folk"]
 related_factions: ["Church of the Redeemer"]
 appears_in: ["Grenzburg"]
 needs:
-  - reconcile the active Church cast and institutional line in Wave 3
+  - reconcile the active Church cast and institutional line in Wave 4
 map_id: "GC-02"
 worldspace_role: district
 subregion: "Grenzburg City"

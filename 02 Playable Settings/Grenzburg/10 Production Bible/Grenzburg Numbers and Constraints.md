@@ -18,7 +18,7 @@ related_factions:
 appears_in:
   - Grenzburg
 needs:
-  - tune fares, rewards, Road-Key costs, and encounter values during the player-systems wave
+  - tune fares, rewards, Road-Key costs, and encounter values during player-system prototyping
 tags:
   - game-ready
 ---

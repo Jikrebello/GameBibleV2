@@ -1,0 +1,100 @@
+filters:
+  and:
+    - '!file.inFolder("90 Archive & Drafts")'
+    - '!file.inFolder("99 Templates")'
+    - 'system_family == "player"'
+properties:
+  player_system:
+    displayName: System
+  vocation_tier:
+    displayName: Vocation Tier
+  native_weapons:
+    displayName: Native Weapons
+  native_armour:
+    displayName: Native Armour
+  magic_source:
+    displayName: Magic Source
+  unlock_method:
+    displayName: Unlock Method
+  account_access:
+    displayName: Account Access
+  training_regions:
+    displayName: Training Regions
+  balance_status:
+    displayName: Balance
+  originalization_status:
+    displayName: Originalization
+  status:
+    displayName: Status
+  needs:
+    displayName: Needs
+views:
+  - type: table
+    name: Player Systems
+    groupBy:
+      property: note.player_system
+      direction: ASC
+    order:
+      - file.name
+      - player_system
+      - status
+      - balance_status
+      - needs
+    sort:
+      - property: player_system
+        direction: ASC
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Vocations
+    filters: 'player_system == "vocation"'
+    groupBy:
+      property: note.vocation_tier
+      direction: ASC
+    order:
+      - file.name
+      - vocation_tier
+      - native_weapons
+      - native_armour
+      - magic_source
+      - unlock_method
+      - account_access
+      - training_regions
+      - balance_status
+      - originalization_status
+      - needs
+    sort:
+      - property: vocation_tier
+        direction: ASC
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Training and Law
+    filters:
+      or:
+        - 'player_system == "training"'
+        - 'player_system == "legal-treatment"'
+    order:
+      - file.name
+      - player_system
+      - related_factions
+      - needs
+  - type: table
+    name: Production Work
+    filters:
+      or:
+        - 'status != "canon"'
+        - 'needs.length > 0'
+        - 'balance_status == "provisional"'
+        - 'originalization_status == "placeholder"'
+        - 'originalization_status == "review"'
+    order:
+      - file.name
+      - player_system
+      - status
+      - balance_status
+      - originalization_status
+      - needs
+    sort:
+      - property: file.name
+        direction: ASC

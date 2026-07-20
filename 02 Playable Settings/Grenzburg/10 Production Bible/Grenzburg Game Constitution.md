@@ -96,6 +96,14 @@ The exterior regions are [[Grenz Lowlands]], [[Longlake Country]], [[Wolfsmere W
 
 Public roads, water travel, and fixed local Menhir links are controlled by [[Grenzburg Travel and Road-Key Network]]. Every critical route remains usable by every vocation.
 
+## Player-System Contract
+
+[[Player Character Constitution]] fixes the protagonist and non-negotiable player rules. [[Player Systems MOC]] controls the detailed narrative systems.
+
+Grenzburg uses third-person action combat, global character levels, separate vocation mastery, and one field-locked vocation at a time. The six starting vocations are [[Fighter]], [[Slayer]], [[Hunter]], [[Warlock]], [[Medium]], and [[Rune Fist]]. [[Paladin]] and [[Binder]] are companion-earned advanced vocations. Cross-vocation construction occurs only through the metagame [[Custom Vocation Workshop]] after two authored vocations are fully mastered.
+
+Every vocation can complete every critical route. Exact damage, frames, inputs, probability curves, and final build budgets remain provisional rather than setting canon.
+
 ## Content Budget
 
 | Content family | Target | Role |
@@ -125,7 +133,8 @@ The Heart-Stone and its barrow remain available for a later optional high-level 
 
 ## Authority Map
 
-- Player identity and progression: [[Player Character Constitution]]
+- Player identity and fixed rules: [[Player Character Constitution]]
+- Detailed player systems and vocations: [[Player Systems MOC]]
 - Campaign: [[Grenzburg Campaign Spine]]
 - Seasons and persistence: [[Season and World-State Constitution]]
 - Quest formats and budgets: [[Quest and Content Architecture]]
