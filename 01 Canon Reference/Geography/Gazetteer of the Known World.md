@@ -64,6 +64,8 @@ The distinct **Ättar ranges** lie to the southwest. Their western sea-road reac
 
 The unclaimed northern tan is not one continuous grassland. Western **Well-Tarkhan** country is desert and stony well-country adjoining Iqashar; northeastern **Grass-Tarkhan** country opens into pasture and migratory great-horn range. The Four Hordes overlap these ecological worlds: White in the northwest, Iron at the Iqashar-Mazrakan frontier, Moon on the central sacred circuit, and Ash along the Castaran approaches. The [[Nine Wells of Tergai]] lie north of Mazrakan, while the [[Castaran Long Road]] crosses Ash country north of Eclessia toward Vardessa and Aversia. See [[The Tarkhan Tribes Overview]].
 
+Twelve road-days west of Castara, [[Cavora]] occupies a bounded roadholding granted by the Grey-Rein Banner. Its three wells, depot, market, workshops, and declared approaches belong to the charter; the surrounding grassland remains Ash country. Public maps should show Cavora as a road town without naming or resolving the restricted discovery behind [[The Echo Seam — Full Adventure]].
+
 ### Off the Board
 
 - **The Great Glass Desert** — the shimmering north-center of the continent, the Exodus crossing; beyond it, the lost Giant lands of the northern hemisphere.

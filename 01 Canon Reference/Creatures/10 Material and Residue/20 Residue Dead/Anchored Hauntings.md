@@ -7,7 +7,7 @@ era: []
 region: []
 culture: []
 related_factions: []
-appears_in: [The Gallows Court, The Broken Tower, The Thirtieth Sister, The Winter Keep]
+appears_in: [The Echo Seam, The Gallows Court, The Broken Tower, The Thirtieth Sister, The Winter Keep]
 needs: []
 tags: [game-ready]
 origin_layer: material
@@ -81,3 +81,4 @@ Cold guest, stone widow, bench-cry, old tenant, after-house, and wake voice are 
 - [[Hollow Sentries]]
 - [[The Image, Soul, and Creaturely Continuity]]
 - [[Bestiary MOC]]
+- [[The Echo Seam — Full Adventure]]

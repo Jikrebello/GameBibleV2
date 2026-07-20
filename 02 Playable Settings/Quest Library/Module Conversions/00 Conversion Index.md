@@ -18,8 +18,8 @@ tags:
 
 This is the authoritative map for the **61 active adventure conversions**.
 
-- **Fully Blocked: 18** - local premise, cast, locations, threats, and branchable ending states have dedicated canon dossiers.
-- **Canon-Locked: 43** - source structure, World Egg placement, culture, premise, and conversion ruling are stable; scene blocking remains.
+- **Fully Blocked: 19** - local premise, cast, locations, threats, and branchable ending states have dedicated canon dossiers.
+- **Canon-Locked: 42** - source structure, World Egg placement, culture, premise, and conversion ruling are stable; scene blocking remains.
 - **Seed: 0** - no active conversion remains an unplaced log line.
 
 A fully blocked adventure makes its starting situation canon. Player outcomes remain open.
@@ -90,11 +90,11 @@ A fully blocked adventure makes its starting situation canon. Player outcomes re
 - [[No Word from Claim Seventeen]]
 - [[The Bailiff's Ram]]
 - [[The Bragging Vault]]
+- [[The Echo Seam]]
 
 ### Canon-Locked
 
 - [[The Chimera Cache]]
-- [[The Echo Seam]]
 - [[The Grand Circuit]]
 - [[The Green Spire]]
 - [[The Horror Beneath Blackspire]]

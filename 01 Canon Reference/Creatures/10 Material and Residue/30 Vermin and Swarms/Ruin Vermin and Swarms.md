@@ -7,7 +7,7 @@ era: []
 region: []
 culture: []
 related_factions: []
-appears_in: [The Broken Tower, The Ossuary Heresy, Risen from the Glass]
+appears_in: [The Echo Seam, The Broken Tower, The Ossuary Heresy, Risen from the Glass]
 needs: []
 tags: [game-ready, tier-one]
 origin_layer: material
@@ -75,3 +75,4 @@ Names are occupational rather than cultural: bone-rats, ledger spiders, bell bee
 - [[Corpse Residue]]
 - [[The Ossuary Heresy]]
 - [[Bestiary MOC]]
+- [[The Echo Seam — Full Adventure]]

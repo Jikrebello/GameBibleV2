@@ -98,4 +98,5 @@ Seam forms arise where two elemental tendencies are forced into one repeating re
 - [[Primal Shell Manifestations]]
 - [[Shell Anchors and Extraction]]
 - [[The Echo Seam]]
+- [[The Echo Seam — Full Adventure]]
 - [[The Fane of the Braided Flame]]

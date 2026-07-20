@@ -7,7 +7,7 @@ era: ["1334 AR", "Present Day"]
 region: ["Castara", "Northeastern Tarkhan Grasslands", "Vardessa", "Aversia"]
 culture: ["Castaran", "Tarkhan", "Sestaran"]
 related_factions: ["Ash Horde", "Castara", "Aversia", "Vardessa", "Seven-Seal Defensive Muster"]
-appears_in: []
+appears_in: [The Echo Seam]
 needs: ["final road line and travel-time table on the political map"]
 aliases: ["Ash Road"]
 tags: []
@@ -35,6 +35,12 @@ Castara records the payment as an escort compact. Rivals call it tribute. Both d
 
 Castara needs a land link to Concord markets. Aversia wants secure ore, tools, arms, and expedition freight without admitting dependence. Vardessa profits from horse fairs and mediation. Ash banners need revenue but resist permanent surveying, forts, and pasture loss.
 
+## Cavora Roadholding
+
+[[Cavora]] lies twelve road-days west of Castara on ground granted by the Grey-Rein Banner. Its roughly 650 permanent residents maintain three wells, a depot, workshops, a market, and two declared approaches. The grant makes Cavora a lawful Castaran charter town without transferring the surrounding grassland to Castaran sovereignty.
+
+Cavora illustrates the road's limits. Its civic officers govern inside the boundary stones. Grey-Rein witnesses retain authority over the grant and adjacent land. Quarrying, new wells, fields, forts, or permanent roads beyond the declared holding require another agreement rather than unilateral Castaran registration.
+
 ## Story Uses
 
 - an installment vanishes before the renewal fire;
@@ -49,3 +55,5 @@ Castara needs a land link to Concord markets. Aversia wants secure ore, tools, a
 - [[The Free City of Castara Overview|The Free City of Castara]]
 - [[The Free City of Vardessa]]
 - [[The Principality of Aversia Overview|The Principality of Aversia]]
+- [[Cavora]]
+- [[The Echo Seam — Full Adventure]]

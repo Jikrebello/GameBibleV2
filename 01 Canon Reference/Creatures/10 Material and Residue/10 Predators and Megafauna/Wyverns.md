@@ -8,7 +8,7 @@ era: []
 region: []
 culture: []
 related_factions: []
-appears_in: []
+appears_in: [The Echo Seam]
 needs: []
 tags: [game-ready]
 origin_layer: material
@@ -74,3 +74,4 @@ Venom supports medicine, hunting poisons, and assassination. Wing leather is lig
 - [[Drakes Overview]]
 - [[True Dragons]]
 - [[Bestiary MOC]]
+- [[The Echo Seam — Full Adventure]]

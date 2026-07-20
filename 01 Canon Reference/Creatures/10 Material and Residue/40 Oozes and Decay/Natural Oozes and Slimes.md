@@ -7,7 +7,7 @@ era: []
 region: []
 culture: []
 related_factions: []
-appears_in: [The Accord's Hollow Keep, Risen from the Glass]
+appears_in: [The Echo Seam, The Accord's Hollow Keep, Risen from the Glass]
 needs: []
 tags: [game-ready, tier-one]
 origin_layer: material
@@ -84,3 +84,4 @@ Carrion soap, glass water, rust hunger, bone-wash, cistern veil, and miner's ora
 - [[Elemental Manifestations Overview]]
 - [[Constructs by Animating Principle]]
 - [[Bestiary MOC]]
+- [[The Echo Seam — Full Adventure]]

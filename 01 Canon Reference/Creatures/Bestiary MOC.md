@@ -244,6 +244,10 @@ These references define ontology and places; they add no creature forms.
 
 - [[The Examiner]] - unique Breach-Week construct; physically owned by its adventure while remaining visible in the registry.
 
+## Adventure Encounter Sets
+
+- [[The Echo Seam — Full Adventure]] - mundane road violence and natural mine hazards escalating into residue, Atherian ward engines, and non-conscious Crystal Forms.
+
 ## Expansion Order
 
 1. **Complete:** Material and Residue + Heaven and Soul-Road.

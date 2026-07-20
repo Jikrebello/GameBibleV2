@@ -8,7 +8,7 @@ era: []
 region: []
 culture: []
 related_factions: []
-appears_in: [The Broken Tower, The Dead Press Upward, The Ossuary Heresy, The Founder's Lamp]
+appears_in: [The Echo Seam, The Broken Tower, The Dead Press Upward, The Ossuary Heresy, The Founder's Lamp]
 needs: []
 tags: [game-ready, tier-one]
 origin_layer: material
@@ -89,3 +89,4 @@ Bone-men, mud-dead, pressers, wreck-walkers, dry guard, and pauper heap are comm
 - [[The Dead Press Upward — Full Adventure]]
 - [[The Mundane Layer — Residue, Vermin, and the Delver Trade]]
 - [[Bestiary MOC]]
+- [[The Echo Seam — Full Adventure]]
