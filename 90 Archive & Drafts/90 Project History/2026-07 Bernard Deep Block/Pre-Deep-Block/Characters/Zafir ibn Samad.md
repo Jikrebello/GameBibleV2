@@ -1,8 +1,12 @@
 ---
 type: character
-status: canon
-canon_level: local
+status: archived
+canon_level: obsolete
 visibility: author-only
+archive_reason: "Companion snapshot before Bernard foil reconciliation"
+archived_from: "02 Playable Settings/Grenzburg/30 Characters/10 Companions/Zafir ibn Samad.md"
+archived_on: 2026-07-21
+superseded_by: "[[Zafir ibn Samad]]"
 era: ["Present Day"]
 region: ["Grenzburg"]
 culture: ["Ahl-e-Ahd", "Iqashari"]
@@ -15,7 +19,7 @@ companion_id: "CMP-08"
 sex: man
 vocation: "Binder"
 recruitment_window: "Early Autumn"
-foil: "Bernard Valeon"
+foil: "Elara Velescar"
 relationship_theme: "freedom without ownership"
 ---
 # Zafir ibn Samad
@@ -75,9 +79,7 @@ Romance and sworn bond have distinct scenes and promises but equivalent power. A
 
 ## Principal Foil
 
-[[Bernard Valeon]] is Zafir's principal foil. Bernard's voluntary poverty vow and personal account of mercy force Zafir to distinguish chosen discipline from ownership; Zafir's insistence on records, remedies, and institutional durability forces Bernard to distinguish love from unaccountable good intentions. Neither is a caricature of faith or law.
-
-[[Elara Velescar]] remains a strong secondary relationship. Her inherited privilege and his procedural ownership allow each to recognize the other's favored excuse with uncomfortable precision.
+[[Elara Velescar]] challenges Zafir ibn Samad's central habit without becoming a constant antagonist. Their disagreements change after personal quests and include warmth, shared competence, and occasions when each is plainly right.
 
 ## Navigation
 

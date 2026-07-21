@@ -1,8 +1,12 @@
 ---
 type: reference
-status: canon
-canon_level: local
+status: archived
+canon_level: obsolete
 visibility: author-only
+archive_reason: "Reactive-scene snapshot before the Bernard companion deep block"
+archived_from: "02 Playable Settings/Grenzburg/50 Campaign/Companions/Companion Reactive Scene Register.md"
+archived_on: 2026-07-21
+superseded_by: "[[Companion Reactive Scene Register]]"
 era: ["Present Day"]
 region: ["Grenzburg"]
 culture: []
@@ -40,21 +44,21 @@ Personal adventures admit only the player and their quest-owning companion as fu
 
 | Companion | Autumn | Winter | Spring and Muster | Summer |
 |---|---|---|---|---|
-| [[Elara Velescar]] | reads Grenzburg rank through servants and funeral display; recognizes Vardek goods before admitting why | contrasts noble emergency privilege with refugee loss; challenges Ashira over when discovery becomes permission | identifies families treating dead service as inherited property; can fund evacuation through resolved assets | visits returned graves or restored household holdings, then chooses adventure without title; controlled in [[Elara Banter and Reactivity]] |
+| [[Elara Velescar]] | reads Grenzburg rank through servants and funeral display; recognizes Vardek goods before admitting why | contrasts noble emergency privilege with refugee loss; challenges Zafir over elegant ownership | identifies families treating dead service as inherited property; can fund evacuation through resolved assets | visits returned graves or restored household holdings, then chooses adventure without title; controlled in [[Elara Banter and Reactivity]] |
 | [[Ilyana Veshkar]] | quietly takes command during the Black Road rescue, then yields formal authority | argues with Dismas about leaving positions and with officers about clean breaches | recognizes Gerhold's language of expendable service before he accepts the Muster | trains a life-preserving specialist cadre, serves under secrecy, or is absent through departure |
 | [[Svala Last-Beacon]] | makes the first real shared meal after Southbound Muster | reacts to every surrender and refugee gate; tests her recall method under siege noise | treats Last Hearth as a practical home rather than a symbol | keeps a road beacon, returns under conditional hall terms, or leaves no fire if broken |
-| [[Ashira bath Melan]] | corrects false claims that Mediums hold souls and then evades the harm her imprints caused | studies the Drake and residue without romanticizing them; disputes Elara over who may use accurate knowledge | recognizes the Muster's apparent speech as computation and faces copies of her named roster | opens a nonhuman field school, leaves a sealed archive, or vanishes with the human patterns |
-| [[Bernard Valeon]] | tends convoy wounds, struggles with small thefts, and establishes witnessed property safeguards | leads the Chapel-Folk road school and serves hospitals during siege; genuine kindling changes duty rather than proving innocence | opposes Gerhold's refusal to release service at death and builds accountable lay care | opens a hospice, returns to the Long Watch, travels as a hospitaller, remains in Blackjack service, or loses sacred techniques through broken conduct; controlled in [[Bernard Banter and Reactivity]] |
+| [[Ashira bath Melan]] | corrects false claims that Mediums hold souls and then evades the harm her imprints caused | studies the Drake and residue without romanticizing them; disputes Bernard over whether right knowledge is enough | recognizes the Muster's apparent speech as computation and faces copies of her named roster | opens a nonhuman field school, leaves a sealed archive, or vanishes with the human patterns |
+| [[Bernard Valeon]] | tends convoy wounds and institutes witnessed property safeguards | serves hospitals during siege; the genuine miracle changes duty rather than proving innocence | opposes Gerhold's refusal to release service at death and offers lay care before battle | opens a hospice, returns to supervised order life, or loses sacred techniques through broken conduct |
 | [[Dismas Raben]] | marks every exit at camp and returns only when another person is still on the road | reads Grobi and Drake routes; challenges Ilyana when command secrecy hides bodies | chooses the last civilian route during the dead march | reports for public marcher service, serves under sealed terms, or has fled beyond the map |
 | [[Tavio Meran]] | turns training into friendly contest while refusing to discuss the championship gauntlet | compares fair combat with siege necessity and tests surrender cues with Svala | treats Muster engines as unsafe force to vent, not opponents to impress | works as leak-warden, teaches privately under ban, or chases an unregulated circuit |
-| [[Zafir ibn Samad]] | explains Grenzburg law precisely while calling owned service orderly | challenges Bernard's confidence in voluntary mercy and Lucia's productive ownership | identifies Gerhold's command as compulsory service made absolute | prepares return to Iqashar, preserves bounded restraint, or leaves to build another law house |
+| [[Zafir ibn Samad]] | explains Grenzburg law precisely while calling owned service orderly | challenges Elara's inherited emergency and Lucia's productive ownership | identifies Gerhold's command as compulsory service made absolute | prepares return to Iqashar, preserves bounded restraint, or leaves to build another law house |
 
 ## Foil Pair Progression
 
 | Pair | First disagreement | Midgame reversal | Late respect |
 |---|---|---|---|
-| Elara and Ashira | adventurous discovery against exact knowledge | each recognizes how an accurate record can still become a weapon or excuse | they establish a delving protocol requiring provenance, living custodians, and bounded use |
-| Bernard and Zafir | freely chosen vow against enforceable protection | Bernard accepts records and consequences; Zafir confronts the point where bounded control still owns a person | they can write a hospice rule that protects without converting care into ownership |
+| Elara and Zafir | lineage emergency against procedural ownership | each recognizes the other's favored excuse in a Grenzburg institution | they can jointly transfer property and void restraint without claiming either act settles the past |
+| Bernard and Ashira | moral language against exact ontology | Bernard must accept that false metaphysics can harm care; Ashira must accept harm without trapped souls | they build a truthful residue-and-burial protocol |
 | Ilyana and Dismas | command secrecy against flight | each is placed in the other's temptation during winter | they plan a rescue where one holds and the other returns |
 | Svala and Tavio | hearing yield against proving victory | Svala must trust a test; Tavio must stop one | they create a combat recall drill that treats restraint as mastery |
 
@@ -68,7 +72,6 @@ Resolved companions add alternate solutions, preserve people or resources, or re
 - [[Companion Constitution]]
 - [[Companion Field Familiarity and Duo Quest Standard]]
 - [[Elara Banter and Reactivity]]
-- [[Bernard Banter and Reactivity]]
 - [[Narrative State Register]]
 - [[Grenzburg Chapter and Window Matrix]]
 - [[Grenzburg MOC]]

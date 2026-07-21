@@ -75,7 +75,7 @@ Main ownership does not consume a whole site. Side content may reuse accessible 
 |---|---|---|---|---|
 | GR-1-M1 | Grenz Lowlands | Three Mills Reach | mill hamlet and shared leat | food, labor, flood control, and local rivalry |
 | GR-1-M2 | Grenz Lowlands | Black Road Quarry | worked civil quarry | construction jobs, bandit cover, and ordinary danger |
-| GR-2-M1 | Longlake Country | Bent-Oak Refuge | Chapel-Folk refuge house | shelter law, road service, and winter triage |
+| GR-2-M1 | Longlake Country | [[Bent-Oak Refuge]] | Chapel-Folk refuge house | shelter law, road service, child road-school, and winter triage |
 | GR-2-M2 | Longlake Country | Netter's Isle | seasonal fishing island | ferry play, smuggling, and ice-state change |
 | GR-3-M1 | Wolfsmere Woods | Grey-Withy Crossing | outer-wood ford and waystone | negotiated access and fixed remote travel |
 | GR-3-M2 | Wolfsmere Woods | Drowned Roll Paths | flooded forest tracks | environmental navigation and lost memorial records |

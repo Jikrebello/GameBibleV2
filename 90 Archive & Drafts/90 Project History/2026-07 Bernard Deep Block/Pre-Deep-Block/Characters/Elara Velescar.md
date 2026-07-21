@@ -1,8 +1,12 @@
 ---
 type: character
-status: canon
-canon_level: local
+status: archived
+canon_level: obsolete
 visibility: author-only
+archive_reason: "Companion snapshot before Bernard foil reconciliation"
+archived_from: "02 Playable Settings/Grenzburg/30 Characters/10 Companions/Elara Velescar.md"
+archived_on: 2026-07-21
+superseded_by: "[[Elara Velescar]]"
 era: ["Present Day"]
 region: ["Grenzburg", "Virelia"]
 culture: ["Eclessian", "Virelian"]
@@ -17,7 +21,7 @@ vocation: "Slayer"
 combat_variant: "Delver-Duelist"
 recruitment_window: "Early Autumn"
 home_base: "Blackjack Yard"
-foil: "Ashira bath Melan"
+foil: "Zafir ibn Samad"
 relationship_theme: "adventure between equals"
 relationship_perks: ["Equal Footing", "Witness at My Back"]
 ---
@@ -201,9 +205,9 @@ Declining commitment preserves friendship and access to Elara's strongest person
 
 ## Principal Foil
 
-[[Ashira bath Melan]] is Elara's principal foil. Both love discovery and can use accurate knowledge to excuse a harmful method: Elara through provenance stripped from graves and workers, Ashira through human imprints treated as useful abstractions. Their rivalry becomes an ethical delving partnership grounded in living custodians, named harm, and bounded use.
+[[Zafir ibn Samad]] is Elara's principal foil. She inherited a beautiful language of privilege; he designed a beautiful language of ownership. Each initially recognizes the other's excuse more easily than their own.
 
-[[Zafir ibn Samad]] remains a strong secondary relationship. Inherited privilege and procedural ownership still give them unusually sharp insight into one another's favored excuses.
+Their relationship should include respect, legal and historical competence, humor, and moments when each is plainly right. By their resolved states they can transfer property and void restraint together without pretending either act settles the past.
 
 ## Faction Outlook
 

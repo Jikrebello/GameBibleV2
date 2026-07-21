@@ -1,8 +1,12 @@
 ---
 type: index
-status: canon
-canon_level: local
+status: archived
+canon_level: obsolete
 visibility: author-only
+archive_reason: "Navigation snapshot before the Bernard companion deep block"
+archived_from: "02 Playable Settings/Grenzburg/50 Campaign/Companions/Companions MOC.md"
+archived_on: 2026-07-21
+superseded_by: "[[Companions MOC]]"
 era: ["Present Day"]
 region: ["Grenzburg"]
 culture: []
@@ -20,14 +24,14 @@ This is the production doorway for the eight outsider-debtor companions and thei
 
 | ID | Companion | Sex | Vocation | Recruitment | Principal foil | Relationship theme |
 |---|---|---|---|---|---|---|
-| CMP-01 | [[Elara Velescar]] | woman | [[Slayer]] - Delver-Duelist variant | Early Autumn | [[Ashira bath Melan]] | adventure between equals |
+| CMP-01 | [[Elara Velescar]] | woman | [[Slayer]] - Delver-Duelist variant | Early Autumn | [[Zafir ibn Samad]] | adventure between equals |
 | CMP-02 | [[Ilyana Veshkar]] | woman | [[Warlock]] | Black Road | [[Dismas Raben]] | comrades who choose life |
 | CMP-03 | [[Svala Last-Beacon]] | woman | [[Fighter]] | Open Autumn | [[Tavio Meran]] | shared hearth |
-| CMP-04 | [[Ashira bath Melan]] | woman | [[Medium]] | Early Autumn | [[Elara Velescar]] | intellectual equals |
-| CMP-05 | [[Bernard Valeon]] | man | [[Paladin]] | Black Road | [[Zafir ibn Samad]] | receiving without taking |
+| CMP-04 | [[Ashira bath Melan]] | woman | [[Medium]] | Early Autumn | [[Bernard Valeon]] | intellectual equals |
+| CMP-05 | [[Bernard Valeon]] | man | [[Paladin]] | Black Road | [[Ashira bath Melan]] | care without rescue |
 | CMP-06 | [[Dismas Raben]] | man | [[Hunter]] | Black Road | [[Ilyana Veshkar]] | no escape route |
 | CMP-07 | [[Tavio Meran]] | man | [[Rune Fist]] | Early Autumn | [[Svala Last-Beacon]] | rivals who can yield |
-| CMP-08 | [[Zafir ibn Samad]] | man | [[Binder]] | Early Autumn | [[Bernard Valeon]] | freedom without ownership |
+| CMP-08 | [[Zafir ibn Samad]] | man | [[Binder]] | Early Autumn | [[Elara Velescar]] | freedom without ownership |
 
 ## Quest Register
 
@@ -49,10 +53,10 @@ This is the production doorway for the eight outsider-debtor companions and thei
 | CMP-04-2 | [[A Useful Terror]] | [[Ashira bath Melan]] | act-1 | Open Autumn, Early Winter | outlined |
 | CMP-04-3 | [[The Price of the Bow Tower]] | [[Ashira bath Melan]] | act-2 | Deep Winter, Early Spring | outlined |
 | CMP-04-4 | [[No Human Shadow]] | [[Ashira bath Melan]] | act-3 | Early Spring, Muster Crisis | outlined |
-| CMP-05-1 | [[Little Things Missing]] | [[Bernard Valeon]] | act-1 | Early Autumn, Open Autumn | blocked |
-| CMP-05-2 | [[Little Hands, Long Road]] | [[Bernard Valeon]] | act-1 | Open Autumn, Early Winter | blocked |
-| CMP-05-3 | [[Embers Without Excuse]] | [[Bernard Valeon]] | act-2 | Deep Winter, Early Spring | blocked |
-| CMP-05-4 | [[The Open Hospice]] | [[Bernard Valeon]] | act-3 | Early Spring, Open Spring, Muster Crisis | blocked |
+| CMP-05-1 | [[Little Things Missing]] | [[Bernard Valeon]] | act-1 | Early Autumn, Open Autumn | outlined |
+| CMP-05-2 | [[The Pilgrim's Mark]] | [[Bernard Valeon]] | act-1 | Open Autumn, Early Winter | outlined |
+| CMP-05-3 | [[Embers Without Excuse]] | [[Bernard Valeon]] | act-2 | Deep Winter, Early Spring | outlined |
+| CMP-05-4 | [[The Open Hospice]] | [[Bernard Valeon]] | act-3 | Early Spring, Muster Crisis | outlined |
 | CMP-06-1 | [[The Sound of Falling Stone]] | [[Dismas Raben]] | act-1 | Early Autumn, Open Autumn | outlined |
 | CMP-06-2 | [[The Easy Ambush]] | [[Dismas Raben]] | act-1 | Open Autumn, Early Winter | outlined |
 | CMP-06-3 | [[The Name on the Charge]] | [[Dismas Raben]] | act-2 | Deep Winter, Early Spring | outlined |
@@ -77,10 +81,7 @@ This is the production doorway for the eight outsider-debtor companions and thei
 - [[Vasko Dren]]
 - [[Kata Belyn]]
 - [[Danara Veln]]
-- [[Hospice-Mother Radena Vosk]]
-- [[Matej Solin]]
-- [[Petra Ilev]]
-- [[Oda Reed-Way]]
+- [[Gerren Vaust]]
 - [[Marta Etten]]
 - [[Samira bint Nahal]]
 - [[Rimewing Sisters]]
@@ -96,17 +97,7 @@ This is the production doorway for the eight outsider-debtor companions and thei
 - [[House Velescar]]: estate history, household claims, and outcome boundaries.
 - [[Names Beneath Lime]], [[A House Fed by Bones]], [[The Patron's Cabinet]], and [[No Lady of Velescar]]: four production-blocked duo adventures.
 
-### CMP-05: Bernard Valeon
-
-- [[Bernard Valeon]]: controlling character bible.
-- [[Bernard Field Familiarity and Relationships]]: authored release gates, approval, commitment, and permanent relationship rewards.
-- [[Bernard Compulsion and Accountability System]]: finite systemic incidents, the Things Not Mine pouch, and owner-facing restitution.
-- [[Bernard Long Watch Greatsword Package]]: companion combat language, Paladin progression, and custom-vocation unlocks.
-- [[Bernard Banter and Reactivity]]: companion exchanges, Last Ember responses, faction attitudes, routines, and seasonal dialogue.
-- [[The Froststep Evacuation]] and [[Hospice of the Lantern Road]]: controlling history and institutional origin.
-- [[Little Things Missing]], [[Little Hands, Long Road]], [[Embers Without Excuse]], and [[The Open Hospice]]: four production-blocked duo adventures.
-
-The other six companion packages remain outlined until their individual deep-block passes. Elara and Bernard establish shared production standards without requiring identical biographies, systems, or quest shapes from later companions.
+The other seven companion packages remain outlined until their individual deep-block passes. Elara's package is the implementation standard, not a source of identical story beats for the rest of the roster.
 
 ## Controls
 

@@ -36,7 +36,7 @@ Longlake Country spreads west of Grenzburg around Long Lake, marsh roads, fisher
 
 - [[Lakewatch]]: the principal fishery and western service hub.
 - [[Sunken Causeway]]: flooded Atherian road-and-water infrastructure.
-- **Bent Oak Refuge:** medium communal hall and protected store on the western road.
+- [[Bent-Oak Refuge]]: medium communal hall and protected store on the western road.
 - **Netter's Isle:** medium ferry, fishery, and smuggling site exposed differently by water and ice.
 
 ## Campaign Use

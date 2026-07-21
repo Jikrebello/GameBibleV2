@@ -1,8 +1,12 @@
 ---
 type: quest
-status: canon
-canon_level: local
+status: archived
+canon_level: obsolete
 visibility: author-only
+archive_reason: "Retired quest snapshot before replacement by the Chapel-Folk road-school adventure"
+archived_from: "02 Playable Settings/Grenzburg/50 Campaign/Companions/CMP-05 Bernard Valeon/The Pilgrim's Mark.md"
+archived_on: 2026-07-21
+superseded_by: "[[Little Hands, Long Road]]"
 era: ["Present Day"]
 region: ["Grenzburg"]
 culture: ["Eclessian", "Aurelian"]

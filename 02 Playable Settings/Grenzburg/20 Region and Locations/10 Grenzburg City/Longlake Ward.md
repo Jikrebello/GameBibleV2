@@ -38,7 +38,7 @@ Longlake Ward fills the west-bank road fan between Lake Gate, the quays, and Ham
 - **Bent Oak Chapel:** Chapel-Folk worship, mediation, and inherited identity.
 - **Lake Gate:** western traffic, searches, refuge, and road control.
 - **Ferry Yard:** carriers, sleds, lake-road guides, and travel services.
-- **West Refuge Hall:** displaced households, clan delegates, and sanctuary disputes.
+- **West Refuge Hall:** displaced households, clan delegates, and sanctuary disputes; it may become [[Open Lamp Hospice]] after Bernard's final quest.
 
 ## Seasonal States
 
@@ -58,3 +58,4 @@ Folk faction work, Chapel-Folk stories, Lakewatch travel, refuge consequences, f
 - [[Ledger Quays]]
 - [[Hammer Ward]]
 - [[Lantern Ward]]
+- [[Open Lamp Hospice]]

@@ -1,8 +1,12 @@
 ---
 type: character
-status: canon
-canon_level: local
+status: archived
+canon_level: obsolete
 visibility: author-only
+archive_reason: "Retired murder-token antagonist removed from Bernard canon"
+archived_from: "02 Playable Settings/Grenzburg/30 Characters/60 Personal Histories/Gerren Vaust.md"
+archived_on: 2026-07-21
+superseded_by: "[[Bernard Valeon]]"
 era: ["Present Day"]
 region: ["Grenzburg"]
 culture: ["Eclessian"]

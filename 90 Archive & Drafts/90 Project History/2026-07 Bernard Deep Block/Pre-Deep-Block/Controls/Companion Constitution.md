@@ -1,12 +1,16 @@
 ---
 type: reference
-status: canon
-canon_level: local
+status: archived
+canon_level: obsolete
 visibility: author-only
+archive_reason: "Control snapshot before the Bernard companion deep block"
+archived_from: "02 Playable Settings/Grenzburg/50 Campaign/Companions/Companion Constitution.md"
+archived_on: 2026-07-21
+superseded_by: "[[Companion Constitution]]"
 era: ["Present Day"]
 region: ["Grenzburg"]
-culture: ["Eclessian", "Thalmyric", "Kedravan", "Sestaran", "Jirahar", "Ahl-e-Ahd", "Ättar"]
-related_factions: ["Blackjack Corps", "Medori Bank", "Order of the Long Watch"]
+culture: ["Eclessian", "Thalmyric", "Sestaran", "Jirahar", "Ahl-e-Ahd", "Ättar"]
+related_factions: ["Blackjack Corps", "Medori Bank"]
 appears_in: ["Grenzburg"]
 needs: []
 aliases: ["Companion Quests"]
@@ -24,7 +28,7 @@ This note controls Grenzburg's companion roster, recruitment, approval, personal
 | [[Ilyana Veshkar]] | [[Warlock]] | Black Road | The first overdraw was her choice, and accepting the false report converted dead soldiers into a decoration. Later desertion proves she could refuse, not that the earlier silence disappears. | She returns the medal, names every dead soldier publicly, and commands Blackjack specialists under a doctrine that forbids treating trapped people as expendable inputs. |
 | [[Svala Last-Beacon]] | [[Fighter]] | Open Autumn | The champion's exclusion and pride were wrong; his yield still bound her. She killed him after the contest had morally and socially ended. | She accepts chosen exile, pays continuing weregild through service, and becomes a free protector of Grenzburg's winter roads without claiming restoration to her hall. |
 | [[Ashira bath Melan]] | [[Medium]] | Early Autumn | The raiders chose murder; their families did not. Simulating familiar faces to terrorize them was chosen collective punishment even though no human soul was captured. | She destroys the human-derived roster, documents the harm without metaphysical falsehood, and remains in Grenzburg as a scholar of nonhuman field patterns. |
-| [[Bernard Valeon]] | [[Paladin]] | Black Road | Childhood deprivation explains his compulsion, but he chose to cache relief stores, deny the shortage, and leave evacuees to suffer preventable frostbite. A vow of poverty cannot make secret possession harmless. | He names the urge before concealment, keeps reserves through witnessed stewardship, and chooses among accountable Long Watch service, the Open Lamp Hospice, travelling hospitaller work, or continued Blackjack service. |
+| [[Bernard Valeon]] | [[Paladin]] | Black Road | Illness explains the pressure to steal, not the decision to hide relapse or the harm caused. The murderer bears the murder; Bernard bears the obstruction and concealment. | He becomes a lay hospice knight outside his old order, living with treatment, safeguards, public restitution, and a faith no longer used as immunity. |
 | [[Dismas Raben]] | [[Hunter]] | Black Road | The robbery was chosen, the premature rockfall was reckless, and abandoning trapped civilians was cowardice. Trauma is consequence, not supernatural punishment or exoneration. | He confesses publicly and accepts permanent marcher scout service under civil oversight. Victims owe no forgiveness; his future is useful and constrained rather than cleansed. |
 | [[Tavio Meran]] | [[Rune Fist]] | Early Autumn | The coach offered the illegal advantage; Tavio knowingly made it decisive and accepted glory afterward. Institutional corruption explains his opportunity, not his hand. | He exposes the Crucible school, accepts a permanent arena ban, settles a fair reckoning with Lio, and becomes a leak-warden protecting Grenzburg's foundries. |
 | [[Zafir ibn Samad]] | [[Binder]] | Early Autumn | His contracts placed persons under command. Limits and petitions reduced some harms but did not make ownership just. Samira's inversion is culpable coercion of him without retroactively making his system humane. | He cuts every living-person instrument he can reach, teaches ethical Binder practice, and returns to Iqashar to face clients and help void surviving restraints. |
@@ -88,7 +92,7 @@ Relationship perks occupy no ordinary vocation augment slot. A learned perk rema
 | [[Ilyana Veshkar]] | Chosen Life | Relief Held |
 | [[Svala Last-Beacon]] | Shared Hearth | Beacon Stand |
 | [[Ashira bath Melan]] | Unmasked Pattern | Clear Pattern |
-| [[Bernard Valeon]] | Kept in the Light | Last Watch |
+| [[Bernard Valeon]] | Kept in the Light | Open Hand |
 | [[Dismas Raben]] | No Escape Route | No Blind Turn |
 | [[Tavio Meran]] | Fair Challenge | Fair Return |
 | [[Zafir ibn Samad]] | Unowned Accord | Witnessed Freedom |
@@ -97,8 +101,8 @@ The two rewards for a companion are distinct and mutually exclusive because rela
 
 ## Foil Pairs
 
-- [[Elara Velescar]] and [[Ashira bath Melan]]: discovery, remains, and the intelligent excuses used to call harmful knowledge necessary.
-- [[Bernard Valeon]] and [[Zafir ibn Samad]]: voluntary vows and personal mercy against contractual protection, control, and ownership.
+- [[Elara Velescar]] and [[Zafir ibn Samad]]: inherited privilege against beautiful systems of ownership.
+- [[Bernard Valeon]] and [[Ashira bath Melan]]: moral coherence against precise claims that no soul means no grave harm.
 - [[Ilyana Veshkar]] and [[Dismas Raben]]: command secrecy against flight from responsibility.
 - [[Svala Last-Beacon]] and [[Tavio Meran]]: hearing yield against the hunger to make victory decisive.
 
@@ -118,7 +122,7 @@ No companion ending is selected as future canon.
 
 - Ashira's imprints are non-conscious patterns, never captured souls.
 - Zafir's Binder path excludes human souls and coerced persons without exception.
-- Bernard's White-Flame abilities require genuine moral coherence and restitution; kindling never certifies legal innocence or clerical office.
+- Bernard's White-Flame abilities require genuine moral coherence and restitution.
 - Ilyana and Tavio obey Elemental Shell script limits, Arcane Burn, and bounded conductors.
 - Svala's rage is trained human physiology and attention, not possession or a hidden monster.
 - Dismas's haunting is memory and trauma, not a supernatural entity.

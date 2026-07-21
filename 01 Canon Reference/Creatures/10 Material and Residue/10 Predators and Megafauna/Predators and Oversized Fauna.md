@@ -7,7 +7,7 @@ era: []
 region: []
 culture: []
 related_factions: []
-appears_in: [The Duke's Road, The Broken Tower, The Feast at Wanemoor]
+appears_in: [The Duke's Road, The Broken Tower, The Feast at Wanemoor, "Little Hands, Long Road"]
 needs: []
 tags: [game-ready, tier-one]
 origin_layer: material
@@ -26,7 +26,7 @@ related_magic: []
 
 Most large predators in the Material Realm are ordinary bears, wolves, boars, cats, crocodilians, and sharks. They do not require a supernatural explanation. Two widespread lineages are unusual enough to deserve the delver trade's attention while remaining wholly biological: **wargs** and **marsh-jaws**.
 
-Neither family is a Menhir beast, Grobi creation, Shell manifestation, or moral adversary. Hunger, territory, injury, and breeding season explain their behavior.
+Neither family is a Menhir beast, Grobi creation, Shell manifestation, or moral adversary. Hunger, territory, injury, and breeding season explain their behavior. Ordinary wounded bears follow the same rule, including the snared animal in [[Little Hands, Long Road]]; protecting people may require killing one without turning it into a supernatural villain.
 
 ## Wargs
 
@@ -92,4 +92,5 @@ Qahuri boatmen use **reed-crown**; northern Sestaran pilots use **mud admiral**;
 - [[Great-Horns]]
 - [[Harridans]]
 - [[The Feast at Wanemoor — Full Adventure]]
+- [[Little Hands, Long Road]]
 - [[Bestiary MOC]]

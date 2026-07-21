@@ -1,15 +1,19 @@
 ---
 type: mechanic
-status: canon
-canon_level: local
+status: archived
+canon_level: obsolete
 visibility: author-only
+archive_reason: "Player-system snapshot before the Thalmyric Paladin and Long Watch revision"
+archived_from: "02 Playable Settings/Grenzburg/10 Production Bible/20 Player Systems/40 Advanced and Custom Vocations/Paladin.md"
+archived_on: 2026-07-21
+superseded_by: "[[Paladin]]"
 era: ["Present Day"]
-region: ["Grenzburg", "Eclessia", "Thalmyria", "Kedrava"]
-culture: ["Eclessian", "Thalmyric", "Kedravan"]
-related_factions: ["Church of the Redeemer", "Thalmyric Church", "Order of the Long Watch", "Blackjack Corps"]
+region: ["Grenzburg"]
+culture: ["Eclessian"]
+related_factions: ["Church of the Redeemer", "Blackjack Corps"]
 appears_in: ["Grenzburg"]
 needs:
-  - tune final skill values, recovery windows, and coherence thresholds during combat prototyping
+  - convert Bernard's outlined unlock and capstone quests into implementation-ready mechanics
   - name and originalize the final active-skill set
 system_family: player
 player_system: vocation
@@ -17,9 +21,9 @@ vocation_tier: advanced
 native_weapons: [greatsword, maul, poleaxe]
 native_armour: [heavy]
 magic_source: white-flame
-unlock_method: "Bernard Valeon companion quest 3 - Embers Without Excuse"
+unlock_method: "Knight Bernard personal quest 3"
 account_access: account-wide-after-quest
-training_regions: ["Grenzburg", "Cathedral Close", "Thalmyria"]
+training_regions: ["Grenzburg", "Cathedral Close"]
 balance_status: qualitative
 originalization_status: review
 tags: []
@@ -34,11 +38,9 @@ It is not an upgraded Fighter. The Fighter controls a line through trained arms 
 
 ## In the World
 
-`Paladin` is a gameplay umbrella for several Eclessian, Thalmyric, and marcher traditions of armed White-Flame service. It does not designate one universal knightly order, theology, or Church office. Western orders commonly frame their discipline through sworn chivalric service and relic custody. Thalmyric orders more often join ascetic obedience, hospital service, prayer ropes, imperial memory, and the suffering witness of holy fire.
+`Paladin` is a gameplay umbrella for several Eclessian and marcher traditions of armed White-Flame service. It does not designate one universal knightly order. [[Bernard Valeon]] teaches the player a personal field form during his third quest after the player has confronted the difference between holy purpose, public office, and self-excusing piety.
 
-[[Bernard Valeon]] teaches the player the [[Bernard Long Watch Greatsword Package|Long Watch field form]] during [[Embers Without Excuse]], after the player has confronted the difference between holy purpose, public office, and self-excusing piety. Bernard is a lay knight, not an ordained priest. His prayer rope focuses attention and freely offered prayer; it does not store or command the White Flame.
-
-[[The Open Hospice]] supplies the vocation's **Last Ember** capstone and the Long Watch custom blueprint. Neither unlock requires the player to make the Church politically supreme, and neither establishes that private feeling is always purer than institution.
+Bernard's fourth quest supplies the vocation's capstone. Neither unlock requires the player to make the Church politically supreme, and neither establishes that private feeling is always purer than institution.
 
 The first account unlock must occur through Bernard's story. After that first completion, Paladin may be selected at supported vocation-change points in future new games as an earned metagame option; the new campaign does not pretend Bernard has already taught that protagonist in its fiction.
 
@@ -92,14 +94,14 @@ The [[Virtue and Sin Tendencies]] system supplies evidence about repeated conduc
 
 ## Mastery Shape
 
-- **Unlock:** [[Embers Without Excuse]] grants the physical and sacred opening kit.
+- **Unlock:** Bernard's third quest grants the physical and sacred opening kit.
 - **Practiced:** interposition, heavy-weapon distinctions, protective challenges, and reliable anti-corruption work.
 - **Veteran:** burden-bearing, stronger sanctification, group protection, and techniques shaped by the player's vows.
-- **Capstone:** [[The Open Hospice]] resolves the vocation's master proof and grants **Last Ember** according to Bernard's outcome.
+- **Capstone:** Bernard's fourth quest resolves the vocation's master proof and one signature White-Flame technique.
 
 ## Training and Reputation
 
-After the unlock, ordinary physical mastery can be practiced with great-weapon veterans from either tradition. Sacred rank gates require Bernard, a credible order, relic custodians, saints' testimony, or another genuine White-Flame teacher. No trainer can sell restored coherence as a fee or legal indulgence.
+After the unlock, ordinary physical mastery can be practiced with great-weapon veterans. Sacred rank gates require Bernard, relic custodians, saints' testimony, or another credible White-Flame teacher. No trainer can sell restored coherence as a fee or legal indulgence.
 
 People may trust the visible flame too quickly, distrust the player's Blackjack chain, or expect political loyalty that the vocation does not require. False public expectations are story material, not proof that the Flame itself is false.
 
@@ -118,10 +120,6 @@ Once unlocked and mastered, Paladin contributes great weapons, heavy armour, int
 ## Navigation
 
 - [[Bernard Valeon]]
-- [[Thalmyric Military Orders#Order of the Long Watch|Order of the Long Watch]]
-- [[Bernard Long Watch Greatsword Package]]
-- [[Embers Without Excuse]]
-- [[The Open Hospice]]
 - [[White Flame Doctrine]]
 - [[Virtue and Sin Tendencies]]
 - [[Vocation Progression and Mastery]]

@@ -1,8 +1,12 @@
 ---
 type: reference
-status: canon
-canon_level: local
+status: archived
+canon_level: obsolete
 visibility: author-only
+archive_reason: "Reactive-dialogue snapshot before companion foil reconciliation"
+archived_from: "02 Playable Settings/Grenzburg/50 Campaign/Companions/CMP-01 Elara Velescar/Elara Banter and Reactivity.md"
+archived_on: 2026-07-21
+superseded_by: "[[Elara Banter and Reactivity]]"
 era: ["Present Day"]
 region: ["Grenzburg"]
 culture: ["Eclessian", "Virelian"]
@@ -103,8 +107,6 @@ This register controls Elara's voice around the other companions, Grenzburg's fa
 > **Svala:** Good. Last-Beacon is work, not blood. A name should know its job.
 
 ## Ashira bath Melan
-
-This is Elara's principal foil relationship: two delighted investigators learning that accurate knowledge still carries provenance, consent, and use obligations.
 
 **Early - scholarship**
 
@@ -267,8 +269,6 @@ This is Elara's principal foil relationship: two delighted investigators learnin
 > **Elara:** There it is.
 
 ## Zafir ibn Samad
-
-This remains a strong secondary relationship. Their inherited and procedural forms of ownership let each recognize the other's favored excuse with unusual precision.
 
 **Early - orderly ownership**
 

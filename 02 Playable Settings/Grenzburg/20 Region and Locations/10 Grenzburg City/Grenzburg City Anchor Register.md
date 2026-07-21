@@ -81,7 +81,7 @@ These claims reserve changed quest states without consuming their parent anchors
 | LW-2 | Longlake Ward | Bent Oak Chapel | Chapel-Folk faith, interpretation, local mediation |
 | LW-3 | Longlake Ward | Lake Gate | western traffic, carts, patrols, refuge control |
 | LW-4 | Longlake Ward | Ferry Yard | lake-road carriers, sleds, boat crews, travel service |
-| LW-5 | Longlake Ward | West Refuge Hall | shelter, clan delegates, displaced families |
+| LW-5 | Longlake Ward | West Refuge Hall | shelter, clan delegates, displaced families, and the outcome-dependent [[Open Lamp Hospice]] |
 | LA-1 | Lantern Ward | Blackjack Yard | player base, equipment, debt service, party reorganization |
 | LA-2 | Lantern Ward | Lantern Market | cheap goods, rumor, illicit exchange, crowd scenes |
 | LA-3 | Lantern Ward | Debtors' Row | debtor households, solidarity, intimidation, personal stakes |

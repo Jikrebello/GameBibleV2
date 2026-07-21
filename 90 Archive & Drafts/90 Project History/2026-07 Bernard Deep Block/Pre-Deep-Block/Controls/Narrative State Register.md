@@ -1,8 +1,12 @@
 ---
 type: reference
-status: canon
-canon_level: local
+status: archived
+canon_level: obsolete
 visibility: author-only
+archive_reason: "State-control snapshot before the Bernard companion deep block"
+archived_from: "02 Playable Settings/Grenzburg/10 Production Bible/Narrative State Register.md"
+archived_on: 2026-07-21
+superseded_by: "[[Narrative State Register]]"
 era: ["Present Day"]
 region: ["Grenzburg"]
 culture: []
@@ -113,42 +117,20 @@ Duplicate implementation keys across these authorities are prohibited unless one
 | `ashira_summer_destination` | companion | Ashira bath Melan | 4 | [[No Human Shadow]] |
 | `human_roster_final_state` | companion | Ashira bath Melan | 4 | [[No Human Shadow]] |
 | `medium_field_school` | companion | Ashira bath Melan | 4 | [[No Human Shadow]] |
-| `bernard_care_observed` | companion gate | Bernard Valeon | 0 | [[Bernard Field Familiarity and Relationships]] |
-| `bernard_property_choice_observed` | companion gate | Bernard Valeon | 0 | [[Bernard Field Familiarity and Relationships]] |
-| `bernard_shared_danger_observed` | companion gate | Bernard Valeon | 0 | [[Bernard Field Familiarity and Relationships]] |
-| `bernard_child_or_refuge_observed` | companion gate | Bernard Valeon | 0 | [[Bernard Field Familiarity and Relationships]] |
-| `bernard_food_choice_observed` | companion gate | Bernard Valeon | 0 | [[Bernard Field Familiarity and Relationships]] |
-| `bernard_self_report_observed` | companion gate | Bernard Valeon | 0 | [[Bernard Field Familiarity and Relationships]] |
-| `bernard_winter_care_observed` | companion gate | Bernard Valeon | 0 | [[Bernard Field Familiarity and Relationships]] |
-| `bernard_authority_choice_observed` | companion gate | Bernard Valeon | 0 | [[Bernard Field Familiarity and Relationships]] |
-| `bernard_reclamation_observed` | companion gate | Bernard Valeon | 0 | [[Bernard Field Familiarity and Relationships]] |
-| `things_not_mine_count` | companion system | Bernard Valeon | 0 | [[Bernard Compulsion and Accountability System]] |
-| `bernard_self_report_state` | companion system | Bernard Valeon | 0 | [[Bernard Compulsion and Accountability System]] |
-| `bernard_incident_consequence` | companion system | Bernard Valeon | 0 | [[Bernard Compulsion and Accountability System]] |
-| `bernard_compulsion_disclosed` | companion | Bernard Valeon | 1 | [[Little Things Missing]] |
-| `bernard_accountability_plan` | companion | Bernard Valeon | 1 | [[Little Things Missing]] |
-| `little_things_returned` | companion | Bernard Valeon | 1 | [[Little Things Missing]] |
-| `kitchen_helper_state` | companion | Bernard Valeon | 1 | [[Little Things Missing]] |
+| `bernard_recovery_plan` | companion | Bernard Valeon | 1 | [[Little Things Missing]] |
+| `keepsakes_returned` | companion | Bernard Valeon | 1 | [[Little Things Missing]] |
 | `koss_bernard_leverage` | companion | Bernard Valeon | 1 | [[Little Things Missing]] |
-| `road_school_state` | companion | Bernard Valeon | 2 | [[Little Hands, Long Road]] |
-| `chapel_children_state` | companion | Bernard Valeon | 2 | [[Little Hands, Long Road]] |
-| `mika_food_state` | companion | Bernard Valeon | 2 | [[Little Hands, Long Road]] |
-| `wounded_bear_state` | companion | Bernard Valeon | 2 | [[Little Hands, Long Road]] |
-| `bent_oak_refuge_state` | companion | Bernard Valeon | 2 | [[Little Hands, Long Road]] |
-| `bernard_paladin_unlocked` | progression | Bernard Valeon | 3 | [[Embers Without Excuse]] |
-| `bernard_relationship_commitment` | relationship | Bernard Valeon | 3 | [[Embers Without Excuse]] |
-| `bernard_white_flame_kindling` | companion | Bernard Valeon | 3 | [[Embers Without Excuse]] |
-| `petra_ilev_response` | companion | Bernard Valeon | 3 | [[Embers Without Excuse]] |
-| `long_watch_return_open` | companion | Bernard Valeon | 3 | [[Embers Without Excuse]] |
-| `lantern_relief_mission_state` | companion | Bernard Valeon | 3 | [[Embers Without Excuse]] |
+| `bernard_victim_named` | companion | Bernard Valeon | 2 | [[The Pilgrim's Mark]] |
+| `gerren_vaust_state` | companion | Bernard Valeon | 2 | [[The Pilgrim's Mark]] |
+| `pilgrim_register_state` | companion | Bernard Valeon | 2 | [[The Pilgrim's Mark]] |
+| `bernard_paladin_unlocked` | companion | Bernard Valeon | 3 | [[Embers Without Excuse]] |
+| `bernard_relationship_commitment` | companion | Bernard Valeon | 3 | [[Embers Without Excuse]] |
+| `gerren_vaust_verdict` | companion | Bernard Valeon | 3 | [[Embers Without Excuse]] |
+| `white_flame_miracle_witnessed` | companion | Bernard Valeon | 3 | [[Embers Without Excuse]] |
 | `bernard_arc_outcome` | companion | Bernard Valeon | 4 | [[The Open Hospice]] |
-| `bernard_future_path` | companion | Bernard Valeon | 4 | [[The Open Hospice]] |
-| `open_lamp_hospice_state` | companion | Bernard Valeon | 4 | [[The Open Hospice]] |
-| `paladin_capstone_unlocked` | progression | Bernard Valeon | 4 | [[The Open Hospice]] |
-| `long_watch_field_form_blueprint` | progression | Bernard Valeon | 4 | [[The Open Hospice]] |
 | `bernard_summer_destination` | companion | Bernard Valeon | 4 | [[The Open Hospice]] |
-| `bernard_relationship_perk` | relationship | Bernard Valeon | 4 | [[The Open Hospice]] |
-| `bernard_duo_move` | relationship | Bernard Valeon | 4 | [[The Open Hospice]] |
+| `open_hospice_state` | companion | Bernard Valeon | 4 | [[The Open Hospice]] |
+| `paladin_capstone_unlocked` | companion | Bernard Valeon | 4 | [[The Open Hospice]] |
 | `dismas_old_crime_named` | companion | Dismas Raben | 1 | [[The Sound of Falling Stone]] |
 | `dismas_rescue_response` | companion | Dismas Raben | 1 | [[The Sound of Falling Stone]] |
 | `quarry_workers_state` | companion | Dismas Raben | 1 | [[The Sound of Falling Stone]] |
@@ -398,10 +380,12 @@ Duplicate implementation keys across these authorities are prohibited unless one
 | `muster_betrayer_state` | faction | Grenzburg Underworld | 8 | [[A Bell Behind the Walls]] |
 | `public_granary_restitution` | faction | Grenzburg Underworld | 8 | [[The Store Beneath the Siege]] |
 | `underway_store_state` | faction | Grenzburg Underworld | 8 | [[The Store Beneath the Siege]] |
-| `settlement_underworld_power` | faction | Grenzburg Underworld | 9 | [[The Hidden Tribunal]] or [[The Licensed Night]] |
+| `settlement_underworld_power` | faction | Grenzburg Underworld | 9 | [[The Hidden Tribunal]] |
+| `settlement_underworld_power` | faction | Grenzburg Underworld | 9 | [[The Licensed Night]] |
 | `summer_black_bell_presence` | faction | Grenzburg Underworld | 9 | [[The Hidden Tribunal]] |
 | `summer_low_lantern_presence` | faction | Grenzburg Underworld | 9 | [[The Licensed Night]] |
-| `underworld_line_outcome` | faction | Grenzburg Underworld | 9 | [[The Hidden Tribunal]] or [[The Licensed Night]] |
+| `underworld_line_outcome` | faction | Grenzburg Underworld | 9 | [[The Hidden Tribunal]] |
+| `underworld_line_outcome` | faction | Grenzburg Underworld | 9 | [[The Licensed Night]] |
 
 ## Navigation
 

@@ -1,8 +1,12 @@
 ---
 type: character
-status: canon
-canon_level: local
+status: archived
+canon_level: obsolete
 visibility: author-only
+archive_reason: "Companion snapshot before Bernard foil reconciliation"
+archived_from: "02 Playable Settings/Grenzburg/30 Characters/10 Companions/Ashira bath Melan.md"
+archived_on: 2026-07-21
+superseded_by: "[[Ashira bath Melan]]"
 era: ["Present Day"]
 region: ["Grenzburg"]
 culture: ["Jirahar", "Qesheth"]
@@ -15,7 +19,7 @@ companion_id: "CMP-04"
 sex: woman
 vocation: "Medium"
 recruitment_window: "Early Autumn"
-foil: "Elara Velescar"
+foil: "Bernard Valeon"
 relationship_theme: "intellectual equals"
 ---
 # Ashira bath Melan
@@ -75,9 +79,7 @@ Romance and sworn bond have distinct scenes and promises but equivalent power. A
 
 ## Principal Foil
 
-[[Elara Velescar]] challenges Ashira's belief that accuracy can separate knowledge from the means and people through which it was obtained. Both are delighted by difficult places and endangered records; both must learn that discovery creates duties before it creates permission. Their arguments develop into a rigorous, warm field partnership.
-
-[[Bernard Valeon]] remains a strong secondary relationship. His moral language and her exact ontology test one another without making false metaphysics harmless or non-soul patterns into persons.
+[[Bernard Valeon]] challenges Ashira bath Melan's central habit without becoming a constant antagonist. Their disagreements change after personal quests and include warmth, shared competence, and occasions when each is plainly right.
 
 ## Navigation
 

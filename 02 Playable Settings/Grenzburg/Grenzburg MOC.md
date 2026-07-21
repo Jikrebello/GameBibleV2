@@ -147,7 +147,7 @@ See [[Grenzburg Pre-Game-Constitution Archive Index]], [[Grenzburg Wave 4 Archiv
 1. **Game constitution:** complete.
 2. **Worldspace constitution:** complete.
 3. **Player systems:** complete at narrative-constitution level; numerical balance remains provisional.
-4. **Companions and factions:** complete at outlined production level; individual companion deep blocks are now underway, with [[Elara Velescar]] complete.
+4. **Companions and factions:** complete at outlined production level; individual companion deep blocks are now underway, with [[Elara Velescar]] and [[Bernard Valeon]] complete.
 5. **Main campaign:** complete at production-block level; twenty-one chapters and two aftermath quests are wired to controlled state.
 6. **Side content:** follows the companion deep-block sequence; marquee stories, local quests, dungeons, hunts, contracts, and jobs.
 7. **Integration:** endings, summer states, intersections, production navigation, and final canon checks.
