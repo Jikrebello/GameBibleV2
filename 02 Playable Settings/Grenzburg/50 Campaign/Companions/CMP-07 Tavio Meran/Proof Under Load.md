@@ -28,7 +28,7 @@ faction_branch: ""
 
 ## Role in the Arc
 
-This is Tavio Meran's quest 2 of four. It is playable in Open Autumn and Early Winter and advances the arc without requiring Tavio Meran in the active field party outside explicitly companion-owned scenes.
+This is Tavio Meran's quest 2 of four. It is playable in Open Autumn and Early Winter. The current note remains an outline; its deep block must use the fixed player-plus-Tavio Meran duo format in [[Companion Field Familiarity and Duo Quest Standard]].
 
 ## Hook and Immediate Stake
 

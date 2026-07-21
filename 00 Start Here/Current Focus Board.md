@@ -15,7 +15,7 @@ tags: []
 
 ## First Creative Priority
 
-Build Grenzburg into the setting's first complete video game. The game constitution, worldspace, player systems, eight companions, five faction lines, twenty-one main chapters, two summer quests, and narrative-state controls are locked through [[Grenzburg MOC]] and [[Main Campaign MOC]]. The next production wave is side-content placement and blocking: marquee stories, local quests, dungeons, hunts, training chains, and finite or renewable jobs. Caleran remains the great-city sandbox, but it is not the active implementation priority.
+Build Grenzburg into the setting's first complete video game. The game constitution, worldspace, player systems, eight companions, five faction lines, twenty-one main chapters, two summer quests, and narrative-state controls are locked through [[Grenzburg MOC]] and [[Main Campaign MOC]]. The active pass is companion deep blocking: [[Elara Velescar]] now has a complete character, combat, relationship, reactivity, and four-adventure package, while the other seven remain outlined. Side-content placement follows this character pass. Caleran remains the great-city sandbox, but it is not the active implementation priority.
 
 ## Current Canon Baseline
 
@@ -42,9 +42,9 @@ Build Grenzburg into the setting's first complete video game. The game constitut
 
 ## Next Three Workstreams
 
-1. **Grenzburg side content:** allocate and block marquee quests, local stories, dungeons, hunts, and secondary industry or settlement chains against the new main-campaign windows.
-2. **Main-campaign encounter passes:** turn the blocked chapters into level layouts, encounter budgets, dialogue scenes, cinematics, and implementation specifications without changing their controlling outcomes.
-3. **Player-system prototyping and originalization:** replace inherited skill language, test the six starting vocations and two advanced vocations, and move provisional numbers into implementation specifications only after play evidence exists.
+1. **Grenzburg companion deep blocks:** apply Elara's duo-adventure and Field Familiarity standard to the other seven companions while preserving individual structure, voice, and gameplay identity.
+2. **Grenzburg side content:** allocate and block marquee quests, local stories, dungeons, hunts, and secondary industry or settlement chains against the new main-campaign windows.
+3. **Main-campaign and player-system production:** turn blocked chapters into implementation specifications, originalize inherited skill language, and prototype vocation and encounter balance.
 
 ## Locked Rulings
 
@@ -79,7 +79,7 @@ Build Grenzburg into the setting's first complete video game. The game constitut
 - Every vocation can complete every critical route. Medium shades are non-conscious imprints, Warlock and Rune Fist obey Shell-script canon, Paladin techniques require White-Flame coherence, and Binder cannot bind human souls or coerced persons.
 - Grenzburg's critical path is [[PROLOGUE THE BLACK ROAD|The Black Road]], [[ACT I THE CLOSING ROADS|The Closing Roads]], [[ACT II WINTER'S TEETH|Winter's Teeth]], [[ACT III THE UNENDING MUSTER|The Unending Muster]], and playable [[SUMMER AFTERMATH|summer aftermath]]. The Heart-Stone, Pale-Skins, Leviticus betrayal, and Duke's Peace are retired from the main campaign.
 - Fort Tannbruck always falls, the Emerald Drake is slain, Ghor's organized siege is defeated, Gerhold accepts the Unending Muster without redemption, and the General Below is stopped in every completed campaign. Political power, casualties, debt freedom, companion futures, and settlement survival remain variable; no political ending is setting canon.
-- The field party is the player plus three companions selected from [[Elara Velescar]], [[Ilyana Veshkar]], [[Svala Last-Beacon]], [[Ashira bath Melan]], [[Bernard Valeon]], [[Dismas Raben]], [[Tavio Meran]], and [[Zafir ibn Samad]]. The roster has four women and four men, each owns four outlined personal quests, and a playthrough may commit to one heterosexual romance and one same-sex sworn bond with equivalent mechanical value.
+- The ordinary field party is the player plus three companions selected from [[Elara Velescar]], [[Ilyana Veshkar]], [[Svala Last-Beacon]], [[Ashira bath Melan]], [[Bernard Valeon]], [[Dismas Raben]], [[Tavio Meran]], and [[Zafir ibn Samad]]. Personal companion adventures use a fixed player-plus-owner duo. The roster has four women and four men; Elara's four quests are production-blocked and the other twenty-eight remain outlined. A playthrough may commit to one heterosexual romance and one same-sex sworn bond with equivalent mechanical value.
 - Grenzburg's five deep faction lines are [[Ducal and Marcher Service]], [[Blackjacks and Medori]], [[Church of Grenzburg]], [[Four-Hearth Compact]], and [[Grenzburg Underworld]]. The first four contain nine quests each; the underworld contains six shared quests and two exclusive three-quest branches. Their five independent settlement terms are controlled by [[Narrative State Register]].
 - Grenzburg is a twin-walled city of eight districts joined by one permanent fortified bridge. Its base-game worldspace contains [[Grenz Lowlands]], [[Longlake Country]], [[Wolfsmere Woods]], [[Southwood Barrowlands]], [[Highlake Uplands]], [[Upper Grenz]], and [[Frostfenn March]]. South grows colder, and the River Grenz flows north.
 - Public travel follows roads and water. Seven fixed Road-Key Menhir links serve remote paths without moving mounts, freight, refugees, or armies. Birchcross and Alderway Vale remain outside the base-game atlas.

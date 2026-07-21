@@ -14,7 +14,7 @@ tags: [game-ready]
 ---
 # Companion Reactive Scene Register
 
-This register reserves the non-quest scenes that make companions present across the game. These beats do not replace the thirty-two personal quests and do not force a companion into the active party.
+This register reserves the non-quest scenes that make companions present across the game. These beats do not replace the thirty-two personal quests and do not force a companion into the active party. [[Companion Field Familiarity and Duo Quest Standard]] controls personal-quest staging; detailed companion registers control their final authored exchange pools.
 
 ## Shared Scene Rhythm
 
@@ -32,11 +32,15 @@ Every companion receives:
 
 Approval is displayed as Guarded, Open, Trusted, or Strained. Each scene names any active conflict and available repair. Banter never commits romance, sworn bond, forgiveness, or departure by surprise.
 
+## Duo Quest Boundary
+
+Personal adventures admit only the player and their quest-owning companion as full party members. Other companions may react when the quest is offered, paused, completed, or transformed by a cutoff, but they do not enter its core operation or emotional climax. This preserves intimate character work without making the wider party feel unaware of what happened.
+
 ## Individual Reactive Beats
 
 | Companion | Autumn | Winter | Spring and Muster | Summer |
 |---|---|---|---|---|
-| [[Elara Velescar]] | reads Grenzburg rank through servants and funeral display; recognizes Vardek goods before admitting why | contrasts noble emergency privilege with refugee loss; challenges Zafir over elegant ownership | identifies families treating dead service as inherited property; can fund evacuation through resolved assets | visits returned graves or restored household holdings, then chooses adventure without title |
+| [[Elara Velescar]] | reads Grenzburg rank through servants and funeral display; recognizes Vardek goods before admitting why | contrasts noble emergency privilege with refugee loss; challenges Zafir over elegant ownership | identifies families treating dead service as inherited property; can fund evacuation through resolved assets | visits returned graves or restored household holdings, then chooses adventure without title; controlled in [[Elara Banter and Reactivity]] |
 | [[Ilyana Veshkar]] | quietly takes command during the Black Road rescue, then yields formal authority | argues with Dismas about leaving positions and with officers about clean breaches | recognizes Gerhold's language of expendable service before he accepts the Muster | trains a life-preserving specialist cadre, serves under secrecy, or is absent through departure |
 | [[Svala Last-Beacon]] | makes the first real shared meal after Southbound Muster | reacts to every surrender and refugee gate; tests her recall method under siege noise | treats Last Hearth as a practical home rather than a symbol | keeps a road beacon, returns under conditional hall terms, or leaves no fire if broken |
 | [[Ashira bath Melan]] | corrects false claims that Mediums hold souls and then evades the harm her imprints caused | studies the Drake and residue without romanticizing them; disputes Bernard over whether right knowledge is enough | recognizes the Muster's apparent speech as computation and faces copies of her named roster | opens a nonhuman field school, leaves a sealed archive, or vanishes with the human patterns |
@@ -62,6 +66,8 @@ Resolved companions add alternate solutions, preserve people or resources, or re
 
 - [[Companions MOC]]
 - [[Companion Constitution]]
+- [[Companion Field Familiarity and Duo Quest Standard]]
+- [[Elara Banter and Reactivity]]
 - [[Narrative State Register]]
 - [[Grenzburg Chapter and Window Matrix]]
 - [[Grenzburg MOC]]

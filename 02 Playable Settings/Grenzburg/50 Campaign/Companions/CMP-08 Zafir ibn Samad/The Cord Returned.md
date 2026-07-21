@@ -28,7 +28,7 @@ faction_branch: ""
 
 ## Role in the Arc
 
-This is Zafir ibn Samad's quest 1 of four. It is playable in Early Autumn and Open Autumn and advances the arc without requiring Zafir ibn Samad in the active field party outside explicitly companion-owned scenes.
+This is Zafir ibn Samad's quest 1 of four. It is playable in Early Autumn and Open Autumn. The current note remains an outline; its deep block must use the fixed player-plus-Zafir ibn Samad duo format in [[Companion Field Familiarity and Duo Quest Standard]].
 
 ## Hook and Immediate Stake
 
@@ -83,4 +83,3 @@ Completion grants a companion technique or field synergy, qualitative approval m
 - [[Narrative State Register]]
 - [[Quest and Content Architecture]]
 - [[Grenzburg MOC]]
-

@@ -27,6 +27,7 @@ Grenzburg is the active game project: a silent-protagonist, party-based open-wor
 | Seasons, cutoffs, persistence, and summer | [[Season and World-State Constitution]] |
 | Quest classes, budgets, and metadata | [[Quest and Content Architecture]] |
 | Companion rules | [[Companion Constitution]] |
+| Companion familiarity and duo adventures | [[Companion Field Familiarity and Duo Quest Standard]] |
 | Companion roster and quest register | [[Companions MOC]] |
 | Faction rules | [[Factions Overview]] |
 | Faction quest register | [[Faction Questlines MOC]] |
@@ -57,7 +58,7 @@ Grenzburg is the active game project: a silent-protagonist, party-based open-wor
 
 | Companion | Sex | Vocation | Recruitment |
 |---|---|---|---|
-| [[Elara Velescar]] | woman | [[Slayer]] | Early Autumn |
+| [[Elara Velescar]] | woman | [[Slayer]] - Delver-Duelist variant | Early Autumn |
 | [[Ilyana Veshkar]] | woman | [[Warlock]] | Black Road |
 | [[Svala Last-Beacon]] | woman | [[Fighter]] | Open Autumn, at Southbound Muster |
 | [[Ashira bath Melan]] | woman | [[Medium]] | Early Autumn |
@@ -66,7 +67,7 @@ Grenzburg is the active game project: a silent-protagonist, party-based open-wor
 | [[Tavio Meran]] | man | [[Rune Fist]] | Early Autumn |
 | [[Zafir ibn Samad]] | man | [[Binder]] | Early Autumn |
 
-The party remains the player plus three active companions. A male player may romance women; a female player may romance men. Same-sex paths become sworn bonds with equivalent power. One romance and one sworn bond may be committed in a playthrough.
+The ordinary field party remains the player plus three active companions. Personal companion adventures temporarily become a player-plus-owner duo with explicit pause points. A male player may romance women; a female player may romance men. Same-sex paths become sworn bonds with equivalent power. One romance and one sworn bond may be committed in a playthrough.
 
 ![[Companions.base]]
 
@@ -146,9 +147,9 @@ See [[Grenzburg Pre-Game-Constitution Archive Index]], [[Grenzburg Wave 4 Archiv
 1. **Game constitution:** complete.
 2. **Worldspace constitution:** complete.
 3. **Player systems:** complete at narrative-constitution level; numerical balance remains provisional.
-4. **Companions and factions:** complete at outlined production level.
+4. **Companions and factions:** complete at outlined production level; individual companion deep blocks are now underway, with [[Elara Velescar]] complete.
 5. **Main campaign:** complete at production-block level; twenty-one chapters and two aftermath quests are wired to controlled state.
-6. **Side content:** next; marquee stories, local quests, dungeons, hunts, contracts, and jobs.
+6. **Side content:** follows the companion deep-block sequence; marquee stories, local quests, dungeons, hunts, contracts, and jobs.
 7. **Integration:** endings, summer states, intersections, production navigation, and final canon checks.
 
 ## Return

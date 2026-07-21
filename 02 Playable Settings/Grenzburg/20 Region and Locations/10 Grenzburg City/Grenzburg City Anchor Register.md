@@ -35,6 +35,14 @@ This register reserves reusable spaces and remains the naming authority for requ
 
 These are persistent seasonal claims rather than single-use set dressing. Side content may reuse each anchor when it respects damage and access state.
 
+## Companion Deep-Block Claims
+
+- [[Names Beneath Lime]] uses Customs Hall, Quarry Steps, North Quay Warehouses, the Market Roofline, and a moving river barge.
+- [[The Patron's Cabinet]] uses Grenzmark Keep, Chancery House, the Iron Ledger Counting-House, Market Roofline, and Grain Stairs.
+- [[No Lady of Velescar]] uses the [[Old Tithe Vault]], a hidden subspace below North Quay Warehouses connected to the Bridge Vaults and riverworks, before concluding at the Hall of Petitions.
+
+These claims reserve changed quest states without consuming their parent anchors. The Old Tithe Vault is a specialist subspace, not a sixth Ledger Quays district anchor.
+
 ## District Anchors
 
 | ID | District | Anchor | Reusable function |

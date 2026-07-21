@@ -9,7 +9,7 @@ culture: ["Folk", "Eclessian"]
 related_factions: ["Folk kindreds", "Grenzburg hunters", "Grenzburg delvers"]
 appears_in: ["Grenzburg"]
 needs:
-  - assign hunt, barrow, and Ashfield quest ownership during later waves
+  - assign remaining hunt and Ashfield quest ownership during later waves
 map_id: "GR-4"
 worldspace_role: subregion
 subregion: "Southwood Barrowlands"
@@ -38,7 +38,7 @@ The Southwood is an old-growth belt of damaged clearings, hunter trails, barrow 
 - [[Emerald Drake Range]]: mandatory winter hunt landscape and lair.
 - [[Barrow of the First Chieftain]]: hidden optional high-level site with no main-story role.
 - **Ashfield Scar:** medium war-magic footprint with material hazards and mixed-script residue.
-- **Seven Mounds:** medium barrow cluster used for burial, refuge, and delving rather than one continuous dungeon.
+- [[Seven Mounds]]: medium barrow cluster used by [[A House Fed by Bones]] for a coerced excavation, worker rescue, and burial-provenance conflict.
 
 ## Campaign Use
 
@@ -54,4 +54,5 @@ Monster hunts, materials, barrow delving, warlock investigation, Folk boundaries
 - [[Ashfield Lodge]]
 - [[Emerald Drake Range]]
 - [[Barrow of the First Chieftain]]
+- [[Seven Mounds]]
 - [[Emerald Drakes]]

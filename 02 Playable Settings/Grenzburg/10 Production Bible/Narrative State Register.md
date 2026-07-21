@@ -25,18 +25,25 @@ Each companion ID records:
 | recruitment | unavailable, offered, active, declined-repairable, refused, departed, dead |
 | arc_stage | 0, 1, 2, 3, 4 |
 | approval | Guarded, Open, Trusted, Strained |
+| field_familiarity | named authored observations; never raw time or repeatable-job count |
+| relationship_scenes | named completed, declined, or closed scenes |
 | unresolved_conflicts | named set, never a hidden number |
 | personal_outcome | unresolved, resolved, compromised, broken, departed, sacrifice |
 | relationship | none, interest, romance-committed, bond-committed |
+| relationship_perk | none or the companion's learned permanent non-slot perk |
+| duo_move | none or the committed companion's active-party move |
+| duo_quest_state | inactive, staged, active, paused, complete, transformed |
 | summer_destination | named authored state from quest four |
 
 At most one companion may occupy romance-committed, and at most one same-sex companion may occupy bond-committed. Neither relationship is mandatory. Commitment cannot occur before quest three. A warned conflict and repair state precede departure.
+
+Every companion quest sets `duo_quest_state` to staged before dismissing the other active companions. Pausing records its named chapter break and restores normal party management; resuming reforms the duo at the staging point. Temporary NPC allies never write a companion recruitment or active-party slot.
 
 ## Companion IDs
 
 | ID | Companion | Sex | Vocation |
 |---|---|---|---|
-| CMP-01 | [[Elara Velescar]] | woman | [[Slayer]] |
+| CMP-01 | [[Elara Velescar]] | woman | [[Slayer]] - Delver-Duelist variant |
 | CMP-02 | [[Ilyana Veshkar]] | woman | [[Warlock]] |
 | CMP-03 | [[Svala Last-Beacon]] | woman | [[Fighter]] |
 | CMP-04 | [[Ashira bath Melan]] | woman | [[Medium]] |
@@ -134,19 +141,48 @@ Duplicate implementation keys across these authorities are prohibited unless one
 | `dismas_summer_destination` | companion | Dismas Raben | 4 | [[The Road That Answers]] |
 | `marcher_scout_service` | companion | Dismas Raben | 4 | [[The Road That Answers]] |
 | `three_horn_evacuated` | companion | Dismas Raben | 4 | [[The Road That Answers]] |
-| `customs_porter_state` | companion | Elara Velescar | 1 | [[Names Beneath Lime]] |
+| `elara_ruin_observed` | companion gate | Elara Velescar | 0 | [[Elara Field Familiarity and Relationships]] |
+| `elara_property_choice_observed` | companion gate | Elara Velescar | 0 | [[Elara Field Familiarity and Relationships]] |
+| `elara_shared_danger_observed` | companion gate | Elara Velescar | 0 | [[Elara Field Familiarity and Relationships]] |
+| `elara_rescue_priority_observed` | companion gate | Elara Velescar | 0 | [[Elara Field Familiarity and Relationships]] |
+| `elara_delving_choice_observed` | companion gate | Elara Velescar | 0 | [[Elara Field Familiarity and Relationships]] |
+| `elara_companion_intervention_observed` | companion gate | Elara Velescar | 0 | [[Elara Field Familiarity and Relationships]] |
+| `elara_winter_city_observed` | companion gate | Elara Velescar | 0 | [[Elara Field Familiarity and Relationships]] |
+| `elara_authority_choice_observed` | companion gate | Elara Velescar | 0 | [[Elara Field Familiarity and Relationships]] |
+| `elara_reclamation_observed` | companion gate | Elara Velescar | 0 | [[Elara Field Familiarity and Relationships]] |
+| `elara_wager_scene` | relationship | Elara Velescar | 1 | [[Elara Field Familiarity and Relationships]] |
+| `elara_without_powder_scene` | relationship | Elara Velescar | 2 | [[Elara Field Familiarity and Relationships]] |
+| `elara_first_confession` | companion | Elara Velescar | 1 | [[Names Beneath Lime]] |
 | `elara_names_recorded` | companion | Elara Velescar | 1 | [[Names Beneath Lime]] |
 | `elara_public_culpability` | companion | Elara Velescar | 1 | [[Names Beneath Lime]] |
+| `grave_goods_state` | companion | Elara Velescar | 1 | [[Names Beneath Lime]] |
+| `customs_porter_state` | companion | Elara Velescar | 1 | [[Names Beneath Lime]] |
+| `vasko_trace_state` | companion | Elara Velescar | 1 | [[Names Beneath Lime]] |
+| `seven_mounds_state` | companion | Elara Velescar | 2 | [[A House Fed by Bones]] |
 | `coerced_diggers_state` | companion | Elara Velescar | 2 | [[A House Fed by Bones]] |
-| `elara_mounds_state` | companion | Elara Velescar | 2 | [[A House Fed by Bones]] |
-| `vardek_agent_exposed` | companion | Elara Velescar | 2 | [[A House Fed by Bones]] |
-| `elara_relationship_commitment` | companion | Elara Velescar | 3 | [[The Patron's Cabinet]] |
+| `kata_belyn_state` | companion | Elara Velescar | 2 | [[A House Fed by Bones]] |
+| `vasko_dren_state` | companion | Elara Velescar | 2 | [[A House Fed by Bones]] |
+| `elara_fieldbook_state` | companion | Elara Velescar | 2 | [[A House Fed by Bones]] |
+| `vardek_chain_proof` | companion | Elara Velescar | 2 | [[A House Fed by Bones]] |
+| `elara_workers_before_proof` | companion | Elara Velescar | 2 | [[A House Fed by Bones]] |
+| `cabinet_integrity` | companion | Elara Velescar | 3 | [[The Patron's Cabinet]] |
 | `elara_vardek_verdict` | companion | Elara Velescar | 3 | [[The Patron's Cabinet]] |
 | `virelian_relief_state` | companion | Elara Velescar | 3 | [[The Patron's Cabinet]] |
-| `burial_repair_fund` | companion | Elara Velescar | 4 | [[No Lady of Velescar]] |
+| `danara_veln_state` | companion | Elara Velescar | 3 | [[The Patron's Cabinet]] |
+| `vardek_escape_route` | companion | Elara Velescar | 3 | [[The Patron's Cabinet]] |
+| `old_tithe_vault_known` | companion | Elara Velescar | 3 | [[The Patron's Cabinet]] |
+| `elara_patron_refused` | companion | Elara Velescar | 3 | [[The Patron's Cabinet]] |
+| `elara_relationship_commitment` | companion | Elara Velescar | 3 | [[The Patron's Cabinet]] |
 | `elara_arc_outcome` | companion | Elara Velescar | 4 | [[No Lady of Velescar]] |
-| `elara_summer_destination` | companion | Elara Velescar | 4 | [[No Lady of Velescar]] |
 | `velescar_land_state` | companion | Elara Velescar | 4 | [[No Lady of Velescar]] |
+| `velescar_burial_state` | companion | Elara Velescar | 4 | [[No Lady of Velescar]] |
+| `velescar_title_state` | companion | Elara Velescar | 4 | [[No Lady of Velescar]] |
+| `burial_repair_fund` | companion | Elara Velescar | 4 | [[No Lady of Velescar]] |
+| `old_tithe_vault_state` | companion | Elara Velescar | 4 | [[No Lady of Velescar]] |
+| `elara_summer_destination` | companion | Elara Velescar | 4 | [[No Lady of Velescar]] |
+| `elara_relationship_perk` | relationship | Elara Velescar | 4 | [[No Lady of Velescar]] |
+| `elara_duo_move` | relationship | Elara Velescar | 4 | [[No Lady of Velescar]] |
+| `delver_duelist_blueprint` | progression | Elara Velescar | 4 | [[No Lady of Velescar]] |
 | `ilyana_medal_state` | companion | Ilyana Veshkar | 1 | [[The Medal in the Mud]] |
 | `koss_ilyana_leverage` | companion | Ilyana Veshkar | 1 | [[The Medal in the Mud]] |
 | `relief_platoon_roll` | companion | Ilyana Veshkar | 1 | [[The Medal in the Mud]] |
@@ -357,5 +393,3 @@ Duplicate implementation keys across these authorities are prohibited unless one
 - [[Main Campaign State Matrix]]
 - [[Main Campaign MOC]]
 - [[Grenzburg MOC]]
-
-

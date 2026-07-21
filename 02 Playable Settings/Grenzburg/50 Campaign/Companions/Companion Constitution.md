@@ -14,13 +14,13 @@ tags: [game-ready]
 ---
 # Companion Constitution
 
-This note controls Grenzburg's companion roster, recruitment, approval, personal quests, relationships, departure, and ending treatment. [[Companions MOC]] is the operational register. Individual outcomes are player-dependent and do not become future-setting canon.
+This note controls Grenzburg's companion roster, recruitment, approval, personal quests, relationships, departure, and ending treatment. [[Companion Field Familiarity and Duo Quest Standard]] controls party management, authored affinity, and the player-plus-companion adventure format. [[Companions MOC]] is the operational register. Individual outcomes are player-dependent and do not become future-setting canon.
 
 ## Fixed Roster
 
 | Companion | Vocation | Recruitment | Core fault | Strongest future |
 |---|---|---|---|---|
-| [[Elara Velescar]] | [[Slayer]] | Early Autumn | Elara converted the dead and the poor into resources for a house whose dignity mattered more to her than their consent. Vardek betrayed her, but he did not choose her first trespass. | She exposes Vardek, relinquishes the Velescar title, transfers viable land to its workers, and establishes a burial-repair fund from recoverable family assets. She remains an adventurer without pretending that motion itself is restitution. |
+| [[Elara Velescar]] | [[Slayer]], [[Elara Delver-Duelist Package|Delver-Duelist variant]] | Early Autumn | Elara converted the dead and the poor into resources for a house whose dignity mattered more to her than their consent. Vardek betrayed her, but he did not choose her first trespass. | She exposes Vardek, relinquishes the Velescar title, transfers viable land to its households, and establishes a burial-repair fund from recoverable family assets. She remains an adventurer without pretending that motion itself is restitution. |
 | [[Ilyana Veshkar]] | [[Warlock]] | Black Road | The first overdraw was her choice, and accepting the false report converted dead soldiers into a decoration. Later desertion proves she could refuse, not that the earlier silence disappears. | She returns the medal, names every dead soldier publicly, and commands Blackjack specialists under a doctrine that forbids treating trapped people as expendable inputs. |
 | [[Svala Last-Beacon]] | [[Fighter]] | Open Autumn | The champion's exclusion and pride were wrong; his yield still bound her. She killed him after the contest had morally and socially ended. | She accepts chosen exile, pays continuing weregild through service, and becomes a free protector of Grenzburg's winter roads without claiming restoration to her hall. |
 | [[Ashira bath Melan]] | [[Medium]] | Early Autumn | The raiders chose murder; their families did not. Simulating familiar faces to terrorize them was chosen collective punishment even though no human soul was captured. | She destroys the human-derived roster, documents the harm without metaphysical falsehood, and remains in Grenzburg as a scholar of nonhuman field patterns. |
@@ -35,22 +35,28 @@ The roster contains exactly four women and four men. It covers [[Fighter]], [[Sl
 
 The Black Road introduces [[Bernard Valeon]], [[Dismas Raben]], and [[Ilyana Veshkar]]. Early Autumn opens [[Elara Velescar]], [[Tavio Meran]], [[Ashira bath Melan]], and [[Zafir ibn Samad]]. [[Svala Last-Beacon]] becomes the final recruitment at the Southbound Muster.
 
+Companions may be added or dismissed at the Blackjack Yard, settlement hubs, established camps, and stabilized travel nodes that offer party organization. Dismissal carries no approval penalty. A dismissed companion returns to their assigned home base or current seasonal destination.
+
 Declining an initial invitation does not lose a companion. A named repair scene remains until the end of Open Autumn. No recruitment briefing delivers a culture lecture; foreign history enters through the debt, an immediate task, and later visitors or records.
 
 ## Personal Quest Contract
 
-Every companion owns four authored quests:
+Every companion owns four major authored quests:
 
 1. **Debt named:** establish the concrete harm and the companion's preferred account.
 2. **Old method tested:** place the habitual answer under current pressure.
 3. **Reckoning:** confront a victim, witness, institution, or power and open relationship commitment.
 4. **Chosen future:** produce resolved, compromised, or broken/departed states and a visible summer destination.
 
-Every note carries an availability window, information paths, fail-forward results, cutoff, required locations, rewards, and world-state outputs. Personal content may alter main operations but never supplies a mandatory key.
+Every personal quest is a main-story-adjacent adventure built for the player and its owning companion only. Accepting it at a staging point temporarily dismisses the other two active companions. Temporary guides, witnesses, rescued people, and soldiers remain outside the companion limit. A named pause point may suspend the adventure and restore normal party management.
+
+Every note carries an availability window, Field Familiarity gate, duo rule, pause points, information paths, fail-forward results, cutoff, required locations, rewards, and world-state outputs. Personal content may alter main operations but never supplies a mandatory key. All player vocations must remain viable with only the quest owner as a full companion.
 
 ## Approval
 
 Approval is qualitative: **Guarded**, **Open**, **Trusted**, and **Strained**. The UI also names unresolved conflicts such as concealed evidence, violated surrender, or coerced service. There is no exposed numeric affection meter.
+
+Personal disclosure advances through authored Field Familiarity beats: distinct quests, discoveries, moral choices, dangerous shared events, and companion observations witnessed while active. Idle time and repeatable-job farming do not advance familiarity. When a gate is met, the companion asks to speak at the next hub rather than interrupting an unrelated operation.
 
 Companions judge repeated conduct and exceptional betrayals. Disagreement can deepen respect when the player acts consistently and bears a cost. Habitual snark, interchangeable trauma, and party-wide hostility are prohibited.
 
@@ -72,7 +78,9 @@ Death occurs only through a late, explicit sacrifice after alternatives are made
 - Mature intimacy fades to black.
 - Neither path grants ownership, automatic agreement, immunity from departure, or a canonical ending.
 
-Romance rewards emphasize reciprocal intimacy. Sworn-bond rewards emphasize declared mutual duty. Both grant one companion field synergy, one player-facing technique or augment contribution, one late intervention, and a summer scene at equal power.
+Romance rewards emphasize reciprocal intimacy. Sworn-bond rewards emphasize declared mutual duty. Both grant one companion duo move, one permanent campaign-specific relationship perk, one late intervention, and a summer scene at equal power.
+
+Relationship perks occupy no ordinary vocation augment slot. A learned perk remains if the companion later dies through a chosen sacrifice or departs; the duo move becomes unavailable without them. The player may hold one romance perk and one sworn-bond perk.
 
 | Companion | Romance reward | Sworn-bond reward |
 |---|---|---|
@@ -118,6 +126,7 @@ No companion ending is selected as future canon.
 ## Navigation
 
 - [[Companions MOC]]
+- [[Companion Field Familiarity and Duo Quest Standard]]
 - [[Companion Reactive Scene Register]]
 - [[Narrative State Register]]
 - [[Factions Overview]]

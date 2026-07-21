@@ -156,9 +156,13 @@ At least one quest per line must be primarily social or investigative, one must 
 
 ## Companion-Line Standard
 
-Each companion owns four personal quests. Ordinary approval scenes and romance or bond conversations do not consume those four slots. [[Companion Constitution]] controls structure and eligibility.
+Each companion owns four major personal quests. Ordinary approval scenes and romance or bond conversations do not consume those four slots. [[Companion Constitution]] controls structure and eligibility.
 
-[[Companions MOC]] is the count and order authority for the thirty-two outlined personal quests.
+Every personal quest uses the duo format from [[Companion Field Familiarity and Duo Quest Standard]]: the player and quest owner are the only full party members from staging-point acceptance until completion or an authored pause. Temporary NPC allies operate outside the companion limit. Encounter density, traversal, information, revive pressure, and boss phases must work for every player vocation with one companion.
+
+Deep-blocked companion notes additionally record `field_experience_gate`, `companion_required`, `duo_quest`, `pause_points`, and `relationship_gate`. These fields do not apply to other quest classes.
+
+[[Companions MOC]] is the count, order, and blocking-status authority for the thirty-two registered personal quests.
 
 ## Conversion-Library Boundary
 
@@ -183,6 +187,7 @@ Blocked adventure conversions remain independent references and craft studies. G
 - [[Factions Overview]]
 - [[Faction Questlines MOC]]
 - [[Companion Constitution]]
+- [[Companion Field Familiarity and Duo Quest Standard]]
 - [[Companions MOC]]
 - [[Narrative State Register]]
 - [[Grenzburg MOC]]

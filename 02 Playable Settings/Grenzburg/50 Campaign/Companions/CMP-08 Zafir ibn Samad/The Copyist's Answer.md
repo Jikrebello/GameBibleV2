@@ -28,7 +28,7 @@ faction_branch: ""
 
 ## Role in the Arc
 
-This is Zafir ibn Samad's quest 3 of four. It is playable in Deep Winter and Early Spring and advances the arc without requiring Zafir ibn Samad in the active field party outside explicitly companion-owned scenes.
+This is Zafir ibn Samad's quest 3 of four. It is playable in Deep Winter and Early Spring. The current note remains an outline; its deep block must use the fixed player-plus-Zafir ibn Samad duo format in [[Companion Field Familiarity and Duo Quest Standard]].
 
 ## Hook and Immediate Stake
 

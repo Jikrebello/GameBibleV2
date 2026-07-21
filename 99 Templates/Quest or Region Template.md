@@ -30,6 +30,11 @@ estimated_hours: 0
 gameplay_pillars: []
 required_states: []
 optional_state_inputs: []
+field_experience_gate: []
+companion_required: ""
+duo_quest: false
+pause_points: []
+relationship_gate: ""
 ---
 # {{title}}
 
@@ -38,6 +43,8 @@ optional_state_inputs: []
 ## Hook and Immediate Stake
 
 ## Player Role
+
+## Party and Staging
 
 ## Beginning
 
@@ -70,4 +77,3 @@ optional_state_inputs: []
 ## Navigation
 
 - [[Quest and Content Architecture]]
-

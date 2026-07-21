@@ -80,7 +80,7 @@ Main ownership does not consume a whole site. Side content may reuse accessible 
 | GR-3-M1 | Wolfsmere Woods | Grey-Withy Crossing | outer-wood ford and waystone | negotiated access and fixed remote travel |
 | GR-3-M2 | Wolfsmere Woods | Drowned Roll Paths | flooded forest tracks | environmental navigation and lost memorial records |
 | GR-4-M1 | Southwood Barrowlands | Ashfield Scar | war-magic burn zone | bounded Shell residue and recovery work |
-| GR-4-M2 | Southwood Barrowlands | Seven Mounds | lesser barrow group | burial custom, delver temptation, and hunters' warnings |
+| GR-4-M2 | Southwood Barrowlands | [[Seven Mounds]] | lesser barrow group | Elara quest two; coerced excavation, burial duty, rescue, and delver temptation |
 | GR-5-M1 | Highlake Uplands | Ghost-Foot Stair | crag path and waystone | vertical traversal and Ghost-Foot access |
 | GR-5-M2 | Highlake Uplands | Tuskway Redoubt | abandoned marcher fort | military road control and defensible return hub |
 | GR-6-M1 | Upper Grenz | Fellwater Camps | lumber and rafting camps | fuel production, labor conflict, and river rescue |
@@ -88,7 +88,7 @@ Main ownership does not consume a whole site. Side content may reuse accessible 
 | GR-7-M1 | Frostfenn March | Three Horn Depot | ruined migration store | Grobi routes, survival stores, and contested evidence |
 | GR-7-M2 | Frostfenn March | White Mud Causeway | broken fen road | seasonal closure, dead-march route, and engineering |
 
-Medium-site names are canon. Their casts, owners, and outcomes remain unassigned until a quest or faction wave claims them.
+Medium-site names are canon. [[Seven Mounds]] is claimed by [[A House Fed by Bones]]. Other casts, owners, and outcomes remain unassigned until a quest or faction wave claims them.
 
 ## Minor Landmarks
 

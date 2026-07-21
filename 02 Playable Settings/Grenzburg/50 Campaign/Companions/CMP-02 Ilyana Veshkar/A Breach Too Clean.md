@@ -28,7 +28,7 @@ faction_branch: ""
 
 ## Role in the Arc
 
-This is Ilyana Veshkar's quest 2 of four. It is playable in Open Autumn and Early Winter and advances the arc without requiring Ilyana Veshkar in the active field party outside explicitly companion-owned scenes.
+This is Ilyana Veshkar's quest 2 of four. It is playable in Open Autumn and Early Winter. The current note remains an outline; its deep block must use the fixed player-plus-Ilyana Veshkar duo format in [[Companion Field Familiarity and Duo Quest Standard]].
 
 ## Hook and Immediate Stake
 

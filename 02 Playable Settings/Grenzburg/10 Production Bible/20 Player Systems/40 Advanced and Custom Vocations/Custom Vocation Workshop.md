@@ -62,6 +62,19 @@ A custom vocation may draw from account-unlocked:
 
 Unlocking a vocation does not automatically unlock every part within it. Rank, mastery, trainer, quest, and capstone gates remain attached to their rewards.
 
+## Quest-Gated Companion Packages
+
+Companion combat variants may contribute parts without becoming additional authored vocations. Their unlocks remain attached to the relevant companion arc.
+
+The first controlled package is [[Elara Delver-Duelist Package]]:
+
+- [[A House Fed by Bones]] unlocks compatible rapier, compact pick, and prepared-dart parts;
+- [[No Lady of Velescar]] unlocks the saved **Delver-Duelist** blueprint on Elara's resolved or compromised outcome;
+- the blueprint uses Slayer-derived movement and growth but preserves Elara's mark, armour-break, counter, dart, and exit language;
+- unlocking it does not alter the player's authored [[Slayer]] or create a ninth vocation.
+
+Later companion packages must state whether they grant individual parts, a coherent blueprint, or both.
+
 ## Field-Locked Result
 
 A saved custom vocation is one coherent field kit. Once equipped, it has fixed:

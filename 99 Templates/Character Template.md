@@ -13,9 +13,12 @@ tags: []
 companion_id: ""
 sex: ""
 vocation: ""
+combat_variant: ""
 recruitment_window: ""
+home_base: ""
 foil: ""
 relationship_theme: ""
+relationship_perks: []
 faction_line: ""
 faction_branch: ""
 ---
@@ -44,8 +47,9 @@ faction_branch: ""
 - Companion ID:
 - Sex:
 - Vocation:
+- Combat variant:
 - Recruitment window:
+- Home base:
 - Principal foil:
 - Relationship theme:
 - Faction line and branch:
-

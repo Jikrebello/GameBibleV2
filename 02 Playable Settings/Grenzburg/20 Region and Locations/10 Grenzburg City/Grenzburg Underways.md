@@ -33,6 +33,8 @@ The Grenzburg Underways are discontinuous drains, cellars, old quarries, river c
 - **Cellar chains:** privately joined basements, smuggler holes, shelters, and blocked wells.
 - **Atherian remnants:** road inspection rooms and civic machinery with no automatic relation to the Deep Muster.
 
+The [[Old Tithe Vault]] is a private bonded branch below Ledger Quays, reached through a warehouse stair, the Bridge Vaults, or an exterior flood channel. It is not a central junction and does not turn the underways into one continuous network.
+
 ## Play Rules
 
 Every surface district has at least one known or discoverable entry, but underground adjacency follows old engineering rather than district borders. Named routes persist after discovery. Flood, siege collapse, faction control, and repairs may close one route while opening another.
@@ -51,4 +53,5 @@ Threats begin with people, bad air, water, collapse, vermin, and residue. A hidd
 - [[Bridgehold]]
 - [[Lantern Ward]]
 - [[Grenzburg City Adjacency and Access]]
+- [[Old Tithe Vault]]
 - [[Underworld, Underways, and Corpse-Roads]]

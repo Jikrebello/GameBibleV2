@@ -28,7 +28,7 @@ faction_branch: ""
 
 ## Role in the Arc
 
-This is Dismas Raben's quest 4 of four. It is playable in Early Spring and Muster Crisis and advances the arc without requiring Dismas Raben in the active field party outside explicitly companion-owned scenes.
+This is Dismas Raben's quest 4 of four. It is playable in Early Spring and Muster Crisis. The current note remains an outline; its deep block must use the fixed player-plus-Dismas Raben duo format in [[Companion Field Familiarity and Duo Quest Standard]].
 
 ## Hook and Immediate Stake
 
