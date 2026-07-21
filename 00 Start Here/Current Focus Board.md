@@ -15,7 +15,7 @@ tags: []
 
 ## First Creative Priority
 
-Build Grenzburg into the setting's first complete video game. The game, worldspace, player systems, eight companions, five faction lines, and narrative-state constitution are now locked through [[Grenzburg Game Constitution]], [[Grenzburg Campaign Spine]], [[Grenzburg Regional Geography]], [[Player Systems MOC]], [[Companions MOC]], [[Faction Questlines MOC]], and [[Narrative State Register]]. The next production wave is the twenty-one main chapters and two summer aftermath quests. Caleran remains the great-city sandbox, but it is not the active implementation priority.
+Build Grenzburg into the setting's first complete video game. The game constitution, worldspace, player systems, eight companions, five faction lines, twenty-one main chapters, two summer quests, and narrative-state controls are locked through [[Grenzburg MOC]] and [[Main Campaign MOC]]. The next production wave is side-content placement and blocking: marquee stories, local quests, dungeons, hunts, training chains, and finite or renewable jobs. Caleran remains the great-city sandbox, but it is not the active implementation priority.
 
 ## Current Canon Baseline
 
@@ -42,9 +42,9 @@ Build Grenzburg into the setting's first complete video game. The game, worldspa
 
 ## Next Three Workstreams
 
-1. **Grenzburg main campaign:** block all twenty-one chapters and two aftermath quests against the locked map, seasons, player systems, companion arcs, faction ladders, and narrative outputs.
-2. **Grenzburg side content:** allocate marquee quests, local stories, dungeons, hunts, and secondary industry or settlement chains to the reserved worldspace sites.
-3. **Player-system prototyping and originalization:** replace all inherited skill language, test the six starting vocations and two advanced vocations, and move provisional numbers into implementation specifications only after play evidence exists.
+1. **Grenzburg side content:** allocate and block marquee quests, local stories, dungeons, hunts, and secondary industry or settlement chains against the new main-campaign windows.
+2. **Main-campaign encounter passes:** turn the blocked chapters into level layouts, encounter budgets, dialogue scenes, cinematics, and implementation specifications without changing their controlling outcomes.
+3. **Player-system prototyping and originalization:** replace inherited skill language, test the six starting vocations and two advanced vocations, and move provisional numbers into implementation specifications only after play evidence exists.
 
 ## Locked Rulings
 

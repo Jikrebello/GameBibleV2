@@ -68,6 +68,13 @@ Every active Grenzburg quest note must carry these properties in addition to ord
 | companion_id | CMP-01 through CMP-08 for companion content; empty otherwise. |
 | faction_line | Controlled faction-line ID for faction content; empty otherwise. |
 | faction_branch | shared, low-lanterns, black-bell, or empty as applicable. |
+| chapter_id | MQ-01 through MQ-21 or SQ-01 through SQ-02 for main and aftermath content; empty otherwise. |
+| main_sequence | Integer 1 through 23 for main and aftermath content; zero otherwise. |
+| story_gate | open, open-world-window, operation, investigation, confrontation, season, season-transition, finale-transition, finale, aftermath, or postgame-open. |
+| estimated_hours | Expected first-play critical-path hours; optional completion time is recorded in prose. |
+| gameplay_pillars | Controlled list drawn from assault, boss, choice, closure, combat, command-response, consequence, defense, diplomacy, dungeon, expedition, exploration, hunt, infiltration, investigation, large-combat, mega-dungeon, memorial, pursuit, reclamation, reconnaissance, reconstruction, rescue, siege, social, social-conflict, survival, travel, traversal, urban-combat, and vertical-traversal. |
+| required_states | States that must exist before the quest starts. |
+| optional_state_inputs | Prior outputs that alter routes, costs, allies, encounters, or consequences without becoming mandatory. |
 
 The fields record current design truth. They do not replace readable prose.
 

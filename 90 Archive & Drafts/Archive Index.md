@@ -39,6 +39,8 @@ The Menhir and ghoul-geography cohesion wave is preserved under `90 Project Hist
 
 The former Grenzburg vertical-slice campaign is preserved under `50 Grenzburg and Playable Settings/2026-07-20 Pre-Game-Constitution`. [[Grenzburg Pre-Game-Constitution Archive Index]] records the retired Heart-Stone campaign, old act treatments, companion framework, faction framework, and dual-employer control layer before the full-game rebuild.
 
+The Grenzburg Wave 5 project history is preserved under `90 Project History/2026-07 Grenzburg Rebuild Wave 5`. [[Grenzburg Wave 5 Archive Index]] records the campaign spine, chapter matrix, act authorities, and summer outlines immediately before the twenty-one main chapters were fully blocked.
+
 Grenzburg's pre-production geography and first concept map are preserved under `50 Grenzburg and Playable Settings/2026-07-20 Pre-Worldspace-Constitution`. [[Grenzburg Pre-Worldspace Archive Index]] records the replaced physical baseline, numerical anchors, Fort Tannbruck and Deep Muster placements, and `Grenzburg Regional Map v1.png` before the city and seven-region worldspace were locked.
 
 Grenzburg's pre-player-systems material is preserved under `50 Grenzburg and Playable Settings/2026-07-20 Pre-Player-Systems-Constitution`. [[Grenzburg Pre-Player-Systems Archive Index]] records the imported `Game Lore Bible`, its original source hash, and the player authority replaced by the field-locked vocation model.

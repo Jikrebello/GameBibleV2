@@ -9,7 +9,7 @@ culture: ["Eclessian", "Folk", "Chapel-Folk"]
 related_factions: ["Folk kindreds", "Church of the Redeemer", "Lakewatch fishers"]
 appears_in: ["Grenzburg"]
 needs:
-  - assign local households, interpreters, and Folk-line spaces in Wave 4
+  - assign local household schedules, interpreters, and side-content casts
 map_id: "GC-07"
 worldspace_role: district
 subregion: "Grenzburg City"

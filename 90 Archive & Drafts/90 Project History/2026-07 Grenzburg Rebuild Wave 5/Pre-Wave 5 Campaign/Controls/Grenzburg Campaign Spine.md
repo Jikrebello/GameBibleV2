@@ -1,17 +1,20 @@
 ---
 type: reference
-status: canon
-canon_level: local
+status: archived
+canon_level: obsolete
 visibility: author-only
 era: ["Present Day"]
 region: ["Grenzburg"]
 culture: ["Eclessian", "Folk"]
 related_factions: ["Duchy of Grenzburg", "Blackjack Corps", "Medori Bank", "Church of the Redeemer", "Folk kindreds", "Grobi"]
 appears_in: ["Grenzburg"]
-needs:
-  - fully block all twenty-one chapters after player systems, companions, and factions are approved
+needs: []
 aliases: ["Three-Act Overview"]
 tags: [game-ready]
+archive_reason: "Preserved before the Wave 5 main-campaign production block"
+archived_from: "02 Playable Settings/Grenzburg/50 Campaign/Grenzburg Campaign Spine.md"
+archived_on: 2026-07-21
+superseded_by: "[[Grenzburg Campaign Spine]]"
 ---
 # Grenzburg Campaign Spine
 

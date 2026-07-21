@@ -14,7 +14,7 @@ tags: [game-ready]
 ---
 # Narrative State Register
 
-This note controls the narrative variables created by companion and faction content. It names state families and values; implementation may store them as enums, flags, sets, or authored bundles without changing their meaning.
+This note controls companion, faction, relationship, and composite-settlement variables. [[Main Campaign State Matrix]] controls critical-path outputs. Implementation may store them as enums, flags, sets, or authored bundles without changing their meaning.
 
 ## Companion State
 
@@ -68,6 +68,17 @@ The summer settlement always reads five independent terms:
 - `settlement_underworld_power`
 
 These combine with settlement survival, material losses, player freedom, companion outcomes, and principal-leader states. Best terms may coexist. No combination is selected as future-setting canon.
+
+## Main Campaign Boundary
+
+The campaign writes its own named outputs from MQ-01 through SQ-02. Companion and faction quests may read those values and supply optional advantages, but must not silently overwrite fixed results such as Tannbruck's fall, the Drake's death, Ghor's death, Gerhold's severance, or destruction of the Deep Muster altar.
+
+Summer composition reads both registers:
+
+- [[Main Campaign State Matrix]] supplies casualties, sites, routes, Grobi aftermath, law-gem custody, anchor state, and campaign victory;
+- this register supplies companion destinations, relationships, faction terms, player debt freedom, and institutional outcomes.
+
+Duplicate implementation keys across these authorities are prohibited unless one note explicitly delegates ownership to the other.
 
 ## Lock State
 
@@ -343,6 +354,8 @@ These combine with settlement survival, material losses, player freedom, compani
 - [[Companion Constitution]]
 - [[Factions Overview]]
 - [[Season and World-State Constitution]]
+- [[Main Campaign State Matrix]]
+- [[Main Campaign MOC]]
 - [[Grenzburg MOC]]
 
 

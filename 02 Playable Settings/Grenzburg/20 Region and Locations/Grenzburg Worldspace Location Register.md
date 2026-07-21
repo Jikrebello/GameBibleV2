@@ -9,7 +9,7 @@ culture: ["Eclessian", "Folk", "Chapel-Folk", "Grobi"]
 related_factions: ["Duchy of Grenzburg", "Folk kindreds", "Grobi"]
 appears_in: ["Grenzburg"]
 needs:
-  - assign remaining main, marquee, local, training, and job ownership and final encounter budgets
+  - assign remaining marquee, local, training, and job ownership and final encounter budgets
 map_id: "GR-REGISTER"
 worldspace_role: location-register
 subregion: ""
@@ -23,7 +23,7 @@ tags: [game-ready]
 ---
 # Grenzburg Worldspace Location Register
 
-This register controls content placement below the regional-hub level. A name in this table reserves a physical site and broad purpose; it does not assign a quest, cast, faction outcome, room layout, or cleared-state result.
+This register controls content placement below the regional-hub level. A name in this table reserves a physical site and broad purpose. [[Main Campaign MOC]] now assigns critical-path ownership; later waves assign remaining side content, room layouts, and implementation budgets.
 
 ## Allocation Summary
 
@@ -36,6 +36,22 @@ This register controls content placement below the regional-hub level. A name in
 | Exterior minor landmarks | 49 | Seven navigation, encounter, story, or job anchors per region |
 
 Named dungeons retain a cleared, occupied, damaged, sealed, or transformed state. Only sites explicitly marked **renewable** may repopulate for hunts, camps, or jobs.
+
+## Main-Campaign Claims
+
+| Site family | Controlling chapter or operation |
+|---|---|
+| Broken Tollworks and Three Mills Reach | [[The Closing Roads]] and [[Roads Worth Saving]] |
+| Tannbruck, Watch Hill, and Tann Crossing | MQ-04 through [[Tannbruck Falls]], then [[The Land Reclaimed]] |
+| Emerald Drake Range and Southwood thresholds | [[The Emerald Trail]] and [[A Drake in Winter]] |
+| Tuskway Redoubt and Herd Rest | [[Break the Southern Horn]] and the Tuskway anchor operation |
+| Cold-Iron Deeps lower route | [[The Open Thaw]] |
+| Old River Arsenal | River Arsenal anchor operation under [[The Land Reclaimed]] |
+| Three Horn Depot | [[Gerhold's Choice]] |
+| White Mud Causeway and Last Hearth | [[The Unending Muster Main Quest|The Unending Muster]] and [[The Dead March]] |
+| Deep Muster Approaches and interior | [[The Deep Muster Main Quest|The Deep Muster]] |
+
+Main ownership does not consume a whole site. Side content may reuse accessible layers when its timing and persistent state agree with the controlling chapter.
 
 ## Major Spaces
 

@@ -19,9 +19,9 @@ This page is the human-readable triage board. It includes non-canon notes and ca
 
 ## Priority Backlog
 
-- Workshop and canonize Grenzburg's eight companions and five deep faction lines, asking the creator targeted questions before identity, debt, role, or ending decisions are fixed.
+- Allocate and block Grenzburg's marquee quests, local stories, secondary chains, dungeons, hunts, and jobs against the locked main-campaign windows and reserved worldspace.
 - Originalize the source-derived vocation language tracked in [[Vocation Originalization Register]] and prototype the qualitative systems in [[Provisional Player Balance Appendix]] before any vocation becomes implementation-ready.
-- Fully block Grenzburg's twenty-one campaign chapters and two summer chapters against the locked worldspace and [[Player Systems MOC]].
+- Convert the blocked Grenzburg critical path into room layouts, encounter budgets, dialogue scenes, cinematics, implementation dependencies, and tested pacing without reopening its controlling story outcomes.
 - Expand the Grenzburg-facing bestiary into encounter-ready ecology, tactics, materials, faction use, and tuned difficulty.
 - Tune the remaining Grenzburg implementation values: rewards, material-state deltas, approval thresholds, field roles, inputs, and UI terminology.
 - Map Mazrakan, Al-Qahur's basin, Qazmarid's strait defenses, Zanthir's tributary roads, and the present Velian jurisdictions using the reconstructed Covenant authority notes.

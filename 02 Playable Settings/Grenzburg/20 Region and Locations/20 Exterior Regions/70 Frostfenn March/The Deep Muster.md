@@ -9,7 +9,7 @@ culture: ["Qianglong"]
 related_factions: ["Qianglong War Caste", "Qianglong Death Caste"]
 appears_in: ["Grenzburg"]
 needs:
-  - block the floor sequence, seals, encounter ecology, closure methods, and finale states in Wave 5
+  - design room-level layouts, encounter budgets, traversal metrics, and implementation checkpoints
 map_id: "GR-7-D1"
 worldspace_role: mega-dungeon
 subregion: "Frostfenn March"
@@ -33,17 +33,17 @@ The first present-day recurrence begins without a living mastermind. Sir Gerhold
 
 The complex lies beneath a permafrost basin beyond [[Last Hearth]]. Its surface logistics survive as [[Deep Muster Approaches]], whose three roads run north through the Fenn Road, Upper Grenz, and Tuskway. This placement makes the dead march physically credible without making the Muster responsible for the modern road network, Grobi movement, or winter siege.
 
-## Dungeon Grammar
+## Controlling Five-Layer Sequence
 
 The final layout must distinguish at least five layers:
 
-1. **Outer Mobilization:** roads, depots, barracks, intake yards, and recently awakened residue.
-2. **Body and Equipment Works:** sorting halls, armor memory, repair systems, corpse handling, and construct labor.
-3. **Campaign Archive:** maps, contradictory orders, extinct fronts, officer recurrence, and historical evidence.
-4. **Command Depths:** rank architecture, recursive authority, Gerhold's imposed command, and the mechanisms sustaining the march.
-5. **The Wound Below:** physically impossible war-space where the General Below acquires form.
+1. **Outer Mobilization:** roads, depots, barracks, intake yards, a secured return line, and recently awakened residue.
+2. **Body and Equipment Works:** sorting halls, armor memory, repair systems, corpse handling, and the live processing line.
+3. **Campaign Archive:** extinct fronts, contradictory orders, the ancient closure, and the option to preserve, burn, or falsify selected command records.
+4. **Command Depths:** recursive officers, replacement artillery, false succession, and explicit rejection of the vacant supreme rank.
+5. **The Wound Below:** the altar feeds, corpse-built dragon-avatar, interrupted reformation, and permanent destruction of the Material foothold.
 
-Each layer needs a traversal identity, enemy ecology, optional objective, return route, and preparation payoff.
+[[The Deep Muster Main Quest|The Deep Muster]] controls the playable sequence, approaches, fail-forward recovery, anchor powers, and closure. Room-by-room layout and numerical encounter budgets remain implementation work rather than story canon.
 
 ## Encounter Population
 
@@ -57,7 +57,7 @@ Use existing ontology wherever possible:
 
 Familiar voices, remembered drills, and copied gestures do not prove surviving personhood.
 
-## Closure
+## Closure States
 
 The General Below must be stopped and the command recurrence broken in every completed campaign. Viable approaches may combine:
 
@@ -69,7 +69,7 @@ The General Below must be stopped and the command recurrence broken in every com
 - destroying archived campaigns and replacement capacity;
 - severing Gerhold's imposed authority.
 
-No single weapon, companion, faction, or vocation is mandatory. Different closure methods preserve or destroy different knowledge, routes, remains, and reconstruction resources.
+No single weapon, companion, faction, or vocation is mandatory. The altar is destroyed in every completed campaign. The site records one of five material states: purified-and-buried, flooded, collapsed, burned, or partially-preserved after closure. These states preserve different knowledge, routes, remains, and reconstruction resources without leaving the General Below active.
 
 ## Access Contract
 
@@ -97,6 +97,8 @@ The Deep Muster is not publicly mapped before Act III. Surface communities prese
 - [[Deep Muster Approaches]]
 - [[Last Hearth]]
 - [[The General Below]]
+- [[The Deep Muster Main Quest|The Deep Muster]]
+- [[Muster Anchor Matrix]]
 - [[ACT III THE UNENDING MUSTER]]
 - [[Qianglong Caste Recurrences]]
 - [[Residue Dead Overview]]

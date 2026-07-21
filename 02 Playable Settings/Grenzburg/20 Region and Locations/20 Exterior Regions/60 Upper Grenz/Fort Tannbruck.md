@@ -9,7 +9,7 @@ culture: ["Eclessian", "Folk"]
 related_factions: ["Duchy of Grenzburg", "Marcher Vanguard"]
 appears_in: ["Grenzburg"]
 needs:
-  - block the fort's active cast, defence missions, fall, winter occupation, and spring reclamation in Wave 5
+  - design room-level layouts, crowd schedules, and implementation encounter budgets for each season
 map_id: "GR-6-H2"
 worldspace_role: fortress-hub
 subregion: "Upper Grenz"
@@ -50,7 +50,9 @@ Marcher regulars, militia rotations, carters, smiths, laundresses, healers, trad
 
 Tannbruck is introduced as a recurring Act I hub. The player solves local problems, uses its services, learns its defenders, and prepares the road. Its fall at the end of [[ACT I THE CLOSING ROADS]] is fixed. The survival of its people, records, animals, arms, and supplies is not.
 
-The fort does not fall because of a hidden Pale-Skin conspiracy, Heart-Stone effect, or Bank sabotage. It falls because autumn closes the regional position while Ghor commits an organized Grobi coalition that Grenzburg cannot defeat so far from its walls.
+The fort does not fall because of a hidden Pale-Skin conspiracy, Heart-Stone effect, or Bank sabotage. It falls because autumn closes the regional position while [[Ghor-Maw]] commits an organized Grobi coalition that Grenzburg cannot defeat so far from its walls.
+
+[[The Southbound Muster]], [[Fort Tannbruck Main Quest|Fort Tannbruck]], [[The Last Convoy]], and [[Tannbruck Falls]] control its autumn play. [[The Land Reclaimed]] controls the spring return and opens the Watch-Hill Command Crypt operation. Tannbruck's people, stores, bridge, records, Old Route Gallery, and denied assets persist as separate states across every version.
 
 ## Seasonal States
 
@@ -71,4 +73,6 @@ The fall is fixed. Named defenders, civilians, animals, records, weapons, food, 
 - [[Old River Arsenal]]
 - [[ACT I THE CLOSING ROADS]]
 - [[Grenzburg Campaign Spine]]
+- [[Tannbruck Falls]]
+- [[The Land Reclaimed]]
 - [[Grenzburg MOC]]

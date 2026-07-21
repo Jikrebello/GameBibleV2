@@ -9,7 +9,7 @@ culture: ["Eclessian"]
 related_factions: ["Duchy of Grenzburg", "Marcher Vanguard"]
 appears_in: ["Grenzburg"]
 needs:
-  - block individual towers and wall operations during the main-campaign wave
+  - design individual tower layouts, traversal metrics, and encounter budgets
 map_id: "GC-WALL"
 worldspace_role: city-layer
 subregion: "Grenzburg City"

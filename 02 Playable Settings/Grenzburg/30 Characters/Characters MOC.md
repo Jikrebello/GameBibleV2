@@ -71,6 +71,7 @@ tags: [game-ready]
 - [[Marta Etten]]
 - [[Samira bint Nahal]]
 - [[Magister Leviticus of Sestaren]]
+- [[Ghor-Maw]]
 - [[Skrit Stone-Tooth]]
 
 ## Navigation

@@ -23,6 +23,13 @@ quest_sequence: 0
 companion_id: ""
 faction_line: ""
 faction_branch: ""
+chapter_id: ""
+main_sequence: 0
+story_gate: open
+estimated_hours: 0
+gameplay_pillars: []
+required_states: []
+optional_state_inputs: []
 ---
 # {{title}}
 

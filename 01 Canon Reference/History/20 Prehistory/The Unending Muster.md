@@ -8,8 +8,7 @@ region: ["Grenzburg frontier", "Qianglong western marches"]
 culture: ["Qianglong"]
 related_factions: ["Qianglong War Caste", "Qianglong Death Caste"]
 appears_in: ["Grenzburg"]
-needs:
-  - lock the ancient campaign name, builders, and exact sealing history during the Deep Muster dungeon pass
+needs: []
 tags: [core-canon]
 ---
 # The Unending Muster
@@ -36,7 +35,7 @@ The complex and the dragon are distinct. The Muster can recur without fully mate
 
 ## First Closure
 
-The ancient complex was disabled from within during Qianglong's collapse. Surviving laborers, coerced auxiliaries, defecting keepers, or rival castes broke its command continuity and sealed the deepest galleries. The exact actors and sequence remain to be locked when the dungeon's historical evidence is designed.
+The ancient complex was disabled from within during Qianglong's collapse. Coerced auxiliaries and labor crews broke the regional relay links while defecting lower keepers falsified the final campaign order and buried the deepest command galleries. The sovereign builders' names were deliberately removed from the surviving archive so that no later officer could claim continuity through them.
 
 The closure depended on three broad conditions:
 
@@ -51,6 +50,8 @@ These conditions explain why isolated residue and engines can wake without immed
 In 1360 AR, thaw, damaged frontier works, and an abundance of war dead allow outer commands to repeat beneath Grenzburg. The first recurrence is independent of the Grobi siege, Emerald Drake, Medori Bank, Heart-Stone, Pale-Skins, and Sir Gerhold Brandt.
 
 Gerhold later chooses to accept the vacant command and use the residue army as Grenzburg's permanent garrison. His act supplies the living command relationship the ancient closure denied and accelerates the General Below's materialization.
+
+The modern recurrence first becomes undeniable in [[The Open Thaw]] at Cold-Iron Deeps. Four additional regional anchors connect Watch Hill, the Old River Arsenal, Tuskway Redoubt, and the Fen Ossuary to the outer complex. [[Muster Anchor Matrix]] controls their function and present destruction states.
 
 ## Authorial Rulings
 
@@ -67,5 +68,6 @@ Gerhold later chooses to accept the vacant command and use the residue army as G
 - [[Qianglong Caste Recurrences]]
 - [[The Deep Muster]]
 - [[The General Below]]
+- [[Muster Anchor Matrix]]
 - [[ACT III THE UNENDING MUSTER]]
 - [[Timeline MOC]]

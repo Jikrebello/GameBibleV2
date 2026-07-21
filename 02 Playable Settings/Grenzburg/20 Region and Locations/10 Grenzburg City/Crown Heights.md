@@ -9,7 +9,7 @@ culture: ["Eclessian"]
 related_factions: ["Duchy of Grenzburg", "Marcher Vanguard"]
 appears_in: ["Grenzburg"]
 needs:
-  - assign the final court cast and faction-line ownership in Wave 4
+  - assign ambient court schedules and room-level implementation scenes
 map_id: "GC-01"
 worldspace_role: district
 subregion: "Grenzburg City"

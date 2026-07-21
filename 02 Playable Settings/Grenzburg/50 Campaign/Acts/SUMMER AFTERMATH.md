@@ -5,53 +5,49 @@ canon_level: local
 visibility: author-only
 era: ["Present Day"]
 region: ["Grenzburg"]
-culture: []
-related_factions: []
+culture: ["Eclessian", "Folk", "Grobi"]
+related_factions: ["Duchy of Grenzburg", "Blackjack Corps", "Medori Bank", "Church of the Redeemer", "Folk kindreds", "Grenzburg underworld"]
 appears_in: ["Grenzburg"]
-needs:
-  - fully block both aftermath quests after all endings and world states are designed
+needs: []
+aliases: []
 tags: [game-ready]
 ---
 # Summer Aftermath
 
-Summer is the playable answer to the campaign. It allows the player to inhabit the result rather than receiving only narrated slides.
+Summer is the playable answer to the campaign, not a slideshow or a canon political ending.
 
-## S1: Accounts of the Living
+## Required Quests
 
-The first aftermath quest begins after the General Below is stopped. It moves through survivors, triage, burial, command, debt, and immediate authority. It must resolve every critical state in a readable order without becoming a council-room spreadsheet.
+1. [[Accounts of the Living]] moves through casualty stations, burial and memorial work, the Blackjack Yard, public claims, a five-axis political settlement, the player's service claim, and all companion destinations.
+2. [[The First Summer Road]] carries the player through the changed region, solves one reconstruction problem, selects the first funded corridor, and opens persistent summer play.
 
-Required beats include:
+## Settlement Axes
 
-- confirm the condition of Grenzburg and the exterior defense;
-- identify saved, displaced, and lost settlements;
-- account for major civilian and military survivors;
-- establish Gerhold's recorded fate;
-- settle the player's immediate Blackjack and debt status;
-- give each recruited companion an immediate scene;
-- establish which factions can credibly claim authority;
-- select or defer urgent reconstruction priorities.
+Grenzburg's outcome is composed from independent terms for:
 
-Different political settlements may begin here, but none is declared the setting's canonical future in Wave 1.
+- military authority;
+- debt and Blackjack status;
+- Church jurisdiction;
+- Folk rights and sanctuary;
+- underground power and public justice.
 
-## S2: The First Summer Road
+No faction line automatically controls the others. Deadlocks and provisional terms are valid outcomes.
 
-The second aftermath quest leaves the city. The player travels a reopened route through several changed locations, sees who returned, meets consequences that cannot fit in a council, and chooses the first major reconstruction commitment.
+## Postgame Contract
 
-The route and encounters depend on settlement survival, Grobi outcomes, faction strength, companion resolutions, and the method used to close the Deep Muster. It ends by opening unrestricted summer play.
-
-## Postgame Rules
-
-- surviving unfinished quests remain available when their premise still makes sense;
-- transformed quests receive authored summer states;
-- faction headquarters, patrols, prices, services, and public spaces reflect the settlement;
-- companion departures are respected, while companions who remain have postgame routines;
-- repeatable work continues only where the region still produces it;
-- the Deep Muster may leave sealed or damaged exploration spaces, but the General Below does not remain an active recurring boss;
-- independent blocked adventures remain independent and do not acquire assumed outcomes.
+- surviving quests remain when their premise still exists;
+- transformed quests retain earlier choices;
+- cleared named dungeons do not reset;
+- selected hunts, escorts, camps, and jobs may recur where the world supports them;
+- companion departures and deaths remain respected;
+- the Deep Muster may retain sealed or contaminated spaces, but the General Below never becomes a recurring boss;
+- independent blocked adventures receive no assumed outcome;
+- no formal credits point removes control from the player.
 
 ## Navigation
 
 - [[ACT III THE UNENDING MUSTER]]
+- [[Accounts of the Living]]
+- [[The First Summer Road]]
 - [[Season and World-State Constitution]]
-- [[Grenzburg Campaign Spine]]
-- [[Grenzburg MOC]]
+- [[Main Campaign MOC]]

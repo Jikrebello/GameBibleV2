@@ -13,7 +13,7 @@ tags: [game-ready]
 ---
 # Grenzburg MOC
 
-Grenzburg is the active game project: a silent-protagonist, party-based open-world RPG played across one changing frontier region from autumn through summer. Wave 4 has locked its eight companions, five faction lines, thirty-two companion quests, forty-eight faction quest notes, and composite narrative state.
+Grenzburg is the active game project: a silent-protagonist, party-based open-world RPG played across one changing frontier region from autumn through summer. Wave 5 has now blocked its twenty-one-chapter critical path and two playable aftermath quests against the established worldspace, player systems, companions, factions, and narrative state.
 
 ## Authority Desk
 
@@ -23,6 +23,7 @@ Grenzburg is the active game project: a silent-protagonist, party-based open-wor
 | Player identity, social interface, and vocation rules | [[Player Character Constitution]] |
 | Detailed progression, field play, and vocations | [[Player Systems MOC]] |
 | Critical-path story | [[Grenzburg Campaign Spine]] |
+| Main-campaign production doorway | [[Main Campaign MOC]] |
 | Seasons, cutoffs, persistence, and summer | [[Season and World-State Constitution]] |
 | Quest classes, budgets, and metadata | [[Quest and Content Architecture]] |
 | Companion rules | [[Companion Constitution]] |
@@ -43,6 +44,7 @@ Grenzburg is the active game project: a silent-protagonist, party-based open-wor
 
 ## Campaign
 
+- [[Main Campaign MOC]]
 - [[PROLOGUE THE BLACK ROAD]]
 - [[ACT I THE CLOSING ROADS]]
 - [[ACT II WINTER'S TEETH]]
@@ -87,6 +89,7 @@ Every line remains open through approximately quest six. Late internal commitmen
 - Church: [[Bishop Konrad von Ehrenfeld]], [[Bishop-Prelate Caestus]], [[Deacon Ignatius]], and [[Sister Marcellina]].
 - Folk compact: [[Runa Moss-Crown]], [[Anya Moss-Crown]], [[Elof Bent-Oak]], [[Jorund Shattered-Tusk]], and [[Thorn-Seer Mael]].
 - Underworld and civil corruption: [[Mara Senn]], [[Ivo Renn]], [[Watch-Captain Oskar Vey]], and [[Lord High Bailiff Enzo Voss]].
+- Campaign antagonists: [[Ghor-Maw]], [[Sir Gerhold Brandt]], and [[The General Below]].
 
 ## Worldspace
 
@@ -136,7 +139,7 @@ Their starting situations remain local canon. Their names, plots, outcomes, and 
 
 The Heart-Stone theft, Pale-Skin conspiracy, mandatory Bank riders, Leviticus betrayal, Dragon's Tomb finale, and canonical Duke's Peace belong to the archived pre-rebuild campaign. The Heart-Stone's barrow may later become an optional high-level side adventure.
 
-See [[Grenzburg Pre-Game-Constitution Archive Index]] and [[Grenzburg Wave 4 Archive Index]] for preserved treatments.
+See [[Grenzburg Pre-Game-Constitution Archive Index]], [[Grenzburg Wave 4 Archive Index]], and [[Grenzburg Wave 5 Archive Index]] for preserved treatments.
 
 ## Production Sequence
 
@@ -144,8 +147,8 @@ See [[Grenzburg Pre-Game-Constitution Archive Index]] and [[Grenzburg Wave 4 Arc
 2. **Worldspace constitution:** complete.
 3. **Player systems:** complete at narrative-constitution level; numerical balance remains provisional.
 4. **Companions and factions:** complete at outlined production level.
-5. **Main campaign:** next; fully block all twenty-one chapters and two aftermath quests against the locked narrative state.
-6. **Side content:** marquee stories, local quests, dungeons, hunts, contracts, and jobs.
+5. **Main campaign:** complete at production-block level; twenty-one chapters and two aftermath quests are wired to controlled state.
+6. **Side content:** next; marquee stories, local quests, dungeons, hunts, contracts, and jobs.
 7. **Integration:** endings, summer states, intersections, production navigation, and final canon checks.
 
 ## Return

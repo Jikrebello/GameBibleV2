@@ -9,7 +9,7 @@ culture: []
 related_factions: []
 appears_in: ["Grenzburg"]
 needs:
-  - define the exact world-state ledger and save-data implementation during integration
+  - translate the controlled narrative states into save-data schemas during implementation
 aliases: ["Campaign Structure Notes (Open-World Pacing)"]
 tags: [game-ready]
 ---
@@ -45,14 +45,15 @@ Warnings describe consequences without spoiling unknown story outcomes.
 | Window | Opens | Closes | Open-world purpose |
 |---|---|---|---|
 | Black Road | New game | arrival at Grenzburg | Tutorial rescue, convoy choices, first companions, first debt pressure. |
-| Early Autumn | Grenzburg admission | Southbound Muster | Learn the city, take first faction contacts, acquire services, explore northern and western roads. |
-| Open Autumn | Southbound Muster | Last Convoy commitment | Stabilize roads and settlements, pursue faction work, recruit companions, clear grounded dungeons. |
+| Early Autumn | [[Warrant at the Gate]] | [[The Southbound Muster]] | Learn the city, take first faction contacts, acquire services, explore northern and western roads. |
+| Open Autumn | [[The Southbound Muster]] | [[The Last Convoy]] commitment | Stabilize roads and settlements, pursue faction work, recruit companions, clear grounded dungeons. |
 | Late Autumn | Last Convoy | fall of Fort Tannbruck | Resolve exposed frontier work and determine the fort's survivors, intelligence, and supplies. |
-| Early Winter | city lockdown | Emerald hunt commitment | Urban quests, first siege operations, faction escalation, winter services. |
-| Deep Winter | drake hunt opens | final assault on Ghor | Balance urban politics, the Emerald Drake hunt, and shock operations. |
-| Early Spring | first thaw | Gerhold's irreversible choice | Reclaim holdings, reopen routes, investigate residue musters, resolve delayed autumn wounds. |
-| Muster Crisis | Gerhold accepts the dead command | descent into the Deep Muster | Defend the region, settle final faction preparations, resolve companion arcs, enter finale. |
-| Summer Aftermath | Deep Dragon stopped | open-ended | See consequences, resolve debt and political settlement, rebuild, explore, and complete surviving content. |
+| Early Winter | [[Winter's Teeth]] | [[A Drake in Winter]] opens Deep Winter | Urban quests, first siege operations, faction escalation, winter services, and hunt preparation. |
+| Deep Winter | Drake hunt available | [[Ghor at the Gate]] | Balance urban pursuit, the Emerald Drake hunt, Grobi fragmentation, and shock operations. |
+| Early Spring | [[Ghor at the Gate]] | [[The Land Reclaimed]] | Reopen routes, rescue Highlake miners, reclaim Tannbruck, and establish the anchor campaign. |
+| Open Spring | Tannbruck reclaimed | [[The Dead March]] commitment | Destroy remaining anchors, resolve companions and factions, hold Last Hearth, and confront Gerhold. |
+| Muster Crisis | [[The Dead March]] | [[The Deep Muster Main Quest|Deep Muster]] victory | Defend three fronts, prepare the final approach, and descend into the mega-dungeon. |
+| Summer Aftermath | General Below stopped | open-ended | See consequences, resolve debt and political settlement, rebuild, explore, and complete surviving content. |
 
 ## Quest Window States
 
@@ -97,6 +98,8 @@ Outstanding obligation, Blackjack status, Bank leverage, ducal warrant, criminal
 
 Known signs, awakened sites, residue pressure, Gerhold's preparations, seals secured, and finale assets. This state remains independent of Grobi, Drake, and faction causation.
 
+[[Main Campaign State Matrix]] controls the exact main-story state names. [[Narrative State Register]] controls companion, faction, relationship, and composite settlement values.
+
 ## Seasonal Transformation Standard
 
 Every exterior subregion must change in at least five visible ways per season:
@@ -121,20 +124,21 @@ The city must also change through gates, crowds, prices, patrols, interiors, pub
 
 Summer is a playable state, not a slideshow attached to the final boss. It begins with two critical aftermath quests:
 
-1. **Accounts of the Living:** count survivors, settle immediate authority, confront debt status, and establish companion destinations.
-2. **The First Summer Road:** travel through the reopened region, witness settlement and faction consequences, and choose the first reconstruction priority.
+1. [[Accounts of the Living]] counts survivors, settles immediate authority, resolves the service claim, composes five political axes, and establishes companion destinations.
+2. [[The First Summer Road]] travels a changed corridor, selects the first funded reconstruction commitment, and opens persistent summer play.
 
 After those quests, surviving faction, companion, local, dungeon, hunt, and repeatable content remains available where logically possible. Rebuilt services, memorials, displaced populations, hostile remnants, and new patrols must reflect the recorded campaign state.
 
 ## No Canonical Political Ending
 
-Wave 1 does not select a ducal, Church, Bank, Folk, underworld, coalition, or independence ending as setting canon. Every political ending must first be fully designed, costed, and checked against companion and settlement outcomes. A future continuity ruling requires its own explicit pass.
+The active campaign does not select a ducal, Church, Bank, Folk, underworld, coalition, or independence ending as setting canon. Every political ending must be designed, costed, and checked against companion and settlement outcomes. A future continuity ruling requires its own explicit pass.
 
 ## Navigation
 
 - [[Grenzburg Game Constitution]]
 - [[Grenzburg Campaign Spine]]
 - [[Grenzburg Chapter and Window Matrix]]
+- [[Main Campaign State Matrix]]
 - [[Quest and Content Architecture]]
 - [[Grenzburg Regional Geography]]
 - [[Grenzburg MOC]]

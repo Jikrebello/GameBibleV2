@@ -148,10 +148,11 @@ Named dungeons and settlements retain their changed states. Wilderness nests, ro
 
 - ![[Grenzburg Regional Production Map.png]]
 - ![[Ducal Survey of the Grenzburg March.png]]
-- [[Grenzburg City Production Map]] and [[Grenzburg City Survey Map]]
-- [[Grenzburg Transport and Waystone Overlay]]
-- [[Grenzburg Seasonal Closures Overlay]]
-- [[Grenzburg Dead March Overlay]]
+- ![[Grenzburg City Production Map.png]]
+- ![[Grenzburg City Survey Map.png]]
+- ![[Grenzburg Transport and Waystone Overlay.png]]
+- ![[Grenzburg Seasonal Closures Overlay.png]]
+- ![[Grenzburg Dead March Overlay.png]]
 
 The creator map controls exact production placement. The player survey shows only public terrain, roads, settlements, and major landmarks at the beginning of play. Minor paths, waystones, dungeons, and secrets are discovered in play.
 

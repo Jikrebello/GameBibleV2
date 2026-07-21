@@ -1,17 +1,20 @@
 ---
 type: reference
-status: canon
-canon_level: local
+status: archived
+canon_level: obsolete
 visibility: author-only
 era: ["Present Day"]
 region: ["Grenzburg"]
 culture: []
 related_factions: []
 appears_in: ["Grenzburg"]
-needs:
-  - replace chapter-level concept rows with fully blocked triggers and failure states in Wave 5
+needs: []
 aliases: ["Grenzburg Campaign Branch Matrix"]
 tags: [game-ready]
+archive_reason: "Preserved before the Wave 5 main-campaign production block"
+archived_from: "02 Playable Settings/Grenzburg/50 Campaign/Grenzburg Chapter and Window Matrix.md"
+archived_on: 2026-07-21
+superseded_by: "[[Grenzburg Chapter and Window Matrix]]"
 ---
 # Grenzburg Chapter and Window Matrix
 

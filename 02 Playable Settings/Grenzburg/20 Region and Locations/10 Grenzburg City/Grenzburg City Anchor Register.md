@@ -9,7 +9,7 @@ culture: ["Eclessian", "Folk", "Chapel-Folk"]
 related_factions: []
 appears_in: ["Grenzburg"]
 needs:
-  - assign remaining main, marquee, local, training, and job owners during their content waves
+  - assign remaining marquee, local, training, and job owners during their content waves
 map_id: "GC-ANCHORS"
 worldspace_role: reference
 subregion: "Grenzburg City"
@@ -23,7 +23,17 @@ tags: [game-ready]
 ---
 # Grenzburg City Anchor Register
 
-This register reserves reusable spaces and remains the naming authority for required locations. Companion and faction quests now claim anchors through their `required_locations` properties; later waves assign the remaining main, marquee, local, training, and job uses.
+This register reserves reusable spaces and remains the naming authority for required locations. Companion, faction, and main-campaign quests claim anchors through their `required_locations` properties; later waves assign the remaining marquee, local, training, and job uses.
+
+## Main-Campaign Claims
+
+- [[Warrant at the Gate]] opens the eight surface districts and establishes the Blackjack Yard.
+- [[The City in Siege]] uses Lantern Ward, Debtors' Row, Quarry Galleries, Millwheel Works, the wall circuit, and emergency repair yards.
+- [[Knives Behind the Walls]] uses the underways, Quarry Galleries, South Granary approaches, and Old Granary Culvert.
+- [[Ghor at the Gate]] uses Tannward, Lantern Ward, the wall circuit, outer camps, and the chosen counterattack route.
+- [[Accounts of the Living]] uses Cathedral Close, Lantern Ward, Ledger Quays, Old Market, and Crown Heights as physical settlement stations.
+
+These are persistent seasonal claims rather than single-use set dressing. Side content may reuse each anchor when it respects damage and access state.
 
 ## District Anchors
 

@@ -26,6 +26,20 @@ tags:
 
 These are design anchors, not perfect simulation. Use them to keep quests grounded in material pressure.
 
+## Campaign Production Budget
+
+| Measure | Locked anchor |
+|---|---:|
+| Main chapters | 21 |
+| Required summer quests | 2 |
+| Estimated main critical path | 40.5 hours |
+| Estimated required summer play | 4.5 hours |
+| Autumn operations available / required | 6 / 3 |
+| Regional Muster anchors / minimum destroyed | 5 / 3 |
+| Active party | player plus 3 companions |
+
+The hour estimate is a first-play production target rather than a speedrun promise. [[Grenzburg Chapter and Window Matrix]] controls the chapter-level budget.
+
 ## Population and Shelter
 
 | Category | Number |
@@ -147,4 +161,5 @@ Whenever a quest materially changes the crisis, update at least one grounded sta
 - [[Grenzburg City Districts Overview]]
 - [[Grenzburg Exterior Regions Overview]]
 - [[Grenzburg Travel and Road-Key Network]]
+- [[Grenzburg Chapter and Window Matrix]]
 - [[Factions Overview]]

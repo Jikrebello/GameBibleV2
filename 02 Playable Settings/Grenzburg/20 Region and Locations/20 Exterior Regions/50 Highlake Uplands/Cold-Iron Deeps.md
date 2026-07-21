@@ -9,7 +9,7 @@ culture: ["Eclessian", "Folk", "Atherian"]
 related_factions: ["Grenzburg miners", "Ghost-Foot"]
 appears_in: ["Grenzburg"]
 needs:
-  - block mine levels, claims, failures, and encounter progression during the side-content wave
+  - design noncampaign mine levels, local ownership quests, and room-level implementation beyond the Muster route
 map_id: "GR-5-D1"
 worldspace_role: major-dungeon
 subregion: "Highlake Uplands"
@@ -44,8 +44,12 @@ Collapse, gas, water, labor violence, ordinary predators, [[Burrowers of Road an
 
 Rescue, ownership, safety work, and closure determine which levels reopen and what Highlake can produce. Cleared dangers remain resolved unless a later world-state event introduces a new population for a stated reason.
 
+In [[The Open Thaw]], a separate spring lower route contains the Cold-Iron Muster Shaft. Its destruction is fixed; miner survival and the damage done to ordinary workings vary. The anchor does not make the rest of the mine Qianglong infrastructure.
+
 ## Navigation
 
 - [[Highlake Uplands]]
 - [[Highlake]]
 - [[Grenzburg Worldspace Location Register]]
+- [[The Open Thaw]]
+- [[Muster Anchor Matrix]]

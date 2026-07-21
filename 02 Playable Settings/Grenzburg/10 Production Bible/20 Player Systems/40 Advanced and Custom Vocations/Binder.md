@@ -9,7 +9,7 @@ culture: ["Ahl-e-Ahd"]
 related_factions: ["Blackjack Corps"]
 appears_in: ["Grenzburg"]
 needs:
-  - block Zafir's third-quest unlock and fourth-quest capstone after his Wave 4 workshop
+  - convert Zafir's outlined unlock and capstone quests into implementation-ready mechanics
   - define the initial bounded-form roster and consent-readable presentation
 system_family: player
 player_system: vocation

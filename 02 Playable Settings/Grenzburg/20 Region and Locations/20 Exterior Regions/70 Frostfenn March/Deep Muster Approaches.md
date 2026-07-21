@@ -9,7 +9,7 @@ culture: ["Qianglong", "Folk", "Grobi"]
 related_factions: ["Qianglong War Caste", "Qianglong Death Caste"]
 appears_in: ["Grenzburg"]
 needs:
-  - block entry operations, active seals, and the final descent in Wave 5
+  - design room-level approach layouts, traversal metrics, and implementation checkpoints
 map_id: "GR-7-D0"
 worldspace_role: mega-dungeon-approach
 subregion: "Frostfenn March"
@@ -40,6 +40,8 @@ These branches make the dead march a regional event. The Muster did not cause th
 - **Last Hearth Shaft:** damaged maintenance route discovered through local route work.
 - **Fen Wound:** unstable emergency breach that offers a dangerous alternate finale entry.
 
+[[The Unending Muster Main Quest|The Unending Muster]] secures the first surface access and Last Hearth forward base. [[The Dead March]] establishes final assault strength. [[The Deep Muster Main Quest|The Deep Muster]] then supports three complete entries: the direct Intake Gate, quieter Last Hearth Shaft, and unstable Fen Wound. Every vocation can complete each route.
+
 ## Road-Key Limit
 
 The final Menhir path ends at an exterior approach stone. It never enters the Qianglong complex, carries an army, bypasses the final operation, or remains reliable once the General Below distorts the area.
@@ -50,3 +52,5 @@ The final Menhir path ends at an exterior approach stone. It never enters the Qi
 - [[Last Hearth]]
 - [[The Deep Muster]]
 - [[ACT III THE UNENDING MUSTER]]
+- [[The Unending Muster Main Quest|The Unending Muster]]
+- [[The Deep Muster Main Quest|The Deep Muster]]

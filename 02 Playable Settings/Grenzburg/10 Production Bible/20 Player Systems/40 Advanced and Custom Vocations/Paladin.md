@@ -9,7 +9,7 @@ culture: ["Eclessian"]
 related_factions: ["Church of the Redeemer", "Blackjack Corps"]
 appears_in: ["Grenzburg"]
 needs:
-  - block Bernard's third-quest unlock and fourth-quest capstone after his Wave 4 workshop
+  - convert Bernard's outlined unlock and capstone quests into implementation-ready mechanics
   - name and originalize the final active-skill set
 system_family: player
 player_system: vocation

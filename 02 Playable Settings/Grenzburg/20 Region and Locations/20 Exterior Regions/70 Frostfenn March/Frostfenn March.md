@@ -9,7 +9,7 @@ culture: ["Folk", "Grobi", "Qianglong"]
 related_factions: ["Folk kindreds", "Grobi", "Qianglong War Caste", "Qianglong Death Caste"]
 appears_in: ["Grenzburg"]
 needs:
-  - block the final reclamation and dead-march operations in Wave 5
+  - design room-level operations, encounter budgets, and final route metrics during implementation
 map_id: "GR-7"
 worldspace_role: subregion
 subregion: "Frostfenn March"
@@ -43,7 +43,7 @@ Frostfenn is the deep southern march: frozen wetlands, black spruce, permafrost 
 
 ## Campaign Use
 
-Autumn presents migration and survival rather than the finale. Winter makes travel exceptional and separates Ghor's war coalition from dependants seeking corridors. Spring exposes Qianglong works and organized residue. The Muster Crisis turns the region into the origin of three northbound dead roads.
+Autumn presents migration and survival rather than the finale. Winter makes travel exceptional and separates Ghor's war coalition from dependants seeking corridors. In spring, [[The Unending Muster Main Quest|The Unending Muster]] holds Last Hearth and breaks the outer recall works, [[Gerhold's Choice]] resolves the living command at Three Horn Depot, and [[The Dead March]] turns the Fenn Road into one of three active fronts. [[The Deep Muster Main Quest|The Deep Muster]] then closes the deepest Material foothold.
 
 ## Return Reasons
 

@@ -9,7 +9,7 @@ culture: ["Qianglong"]
 related_factions: []
 appears_in: ["Grenzburg"]
 needs:
-  - lock manifestation phases, anchors, encounter signs, and permanent closure variants in the final-dungeon pass
+  - design final numerical combat profile, animation language, and implementation telegraphs
 tags: [core-canon, game-ready]
 aliases: ["Deep Dragon", "Dragon of the Unending Muster"]
 origin_layer: abyss
@@ -66,21 +66,25 @@ When physically manifest, it coordinates residue formations, folds distance thro
 
 ## Anchors
 
-The final dungeon pass must define the exact anchors. The controlling families are:
+Five regional anchors let contradictory formations act as one campaign: Cold-Iron Muster Shaft, Watch-Hill Command Crypt, River Arsenal Replacement Forge, Tuskway Banner Vault, and Fen Ossuary. [[Muster Anchor Matrix]] controls their exact functions. Three must be destroyed to make the final campaign feasible; all five remove every regional boss power.
 
-1. a living acceptance of command, supplied in the present by Gerhold;
-2. linked muster relays that let contradictory armies act as one;
-3. campaign archives that define all places and people as continuing fronts;
-4. replacement works that rebuild formations faster than ordinary victory destroys them;
-5. the deepest refusal architecture beneath the command halls.
+Gerhold's accepted living command is a separate present-day condition and is always severed before the finale. The campaign archive, local altar feeds, and deepest refusal architecture are then addressed inside the Deep Muster. Breaking a manifested body without interrupting reformation and destroying the altar only delays the dragon.
 
-Breaking a manifested body without closing these conditions only interrupts the dragon.
+## Material Avatar
+
+The first complete battlefield body is assembled from corpse residue and campaign matter rather than souls: an eel-like coil carrying marching bodies through black mud, a lamprey mouth turning command into hunger and pressure, crab-armored replacement limbs, and wing-like banners and siege frames.
+
+The confrontation has three controlling phases:
+
+1. break the current avatar while surviving any powers retained by active regional anchors;
+2. sever three altar feeds and prevent the campaign archive from issuing another formation;
+3. reject the offered supreme rank and destroy the altar by physical, White-Flame, warlock, law-gem, or combined action.
 
 ## Defeat
 
 Permanent victory requires the player to stop materialization and destroy or transform the command contradiction. Historical truth, physical action, burial or release, counterscript work, and rejection of false rank may all contribute. No human soul must be destroyed or abandoned to win because no human soul is contained in the General.
 
-Every completed Grenzburg campaign stops the General Below. Closure methods differ in casualties, preserved knowledge, surviving architecture, faction credit, and the future danger of the site.
+Every completed Grenzburg campaign stops the General Below and destroys the Material altar. Closure methods differ in casualties, preserved knowledge, surviving architecture, faction credit, and contamination. The site may remain dangerous; the General never remains an active recurring boss.
 
 ## Moral Ruling
 
@@ -91,6 +95,8 @@ The General cannot be responsibly harnessed as a permanent defense. An agreement
 - [[True Dragons]]
 - [[The Unending Muster]]
 - [[The Deep Muster]]
+- [[The Deep Muster Main Quest|The Deep Muster Finale]]
+- [[Muster Anchor Matrix]]
 - [[ACT III THE UNENDING MUSTER]]
 - [[Hell and Abyss MOC]]
 - [[Bestiary MOC]]

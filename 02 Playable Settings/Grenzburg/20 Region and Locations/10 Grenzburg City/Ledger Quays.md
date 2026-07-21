@@ -9,7 +9,7 @@ culture: ["Eclessian", "Sestaran"]
 related_factions: ["Medori Bank", "Blackjack Corps", "Grenzburg merchants"]
 appears_in: ["Grenzburg"]
 needs:
-  - reconcile the Bank line, customs cast, and commercial services in Wave 4
+  - assign customs cast schedules and commercial side-content services
 map_id: "GC-05"
 worldspace_role: district
 subregion: "Grenzburg City"
