@@ -18,6 +18,9 @@ cutoff_result: resolves-offscreen
 world_state_outputs: ["ashira_arc_outcome", "human_roster_final_state", "medium_field_school", "ashira_summer_destination"]
 required_locations: ["Bone-Reed Pool", "Deep Muster Approaches", "Warlock Hall"]
 blocking_status: outlined
+architecture_status: pending-migration
+companion_content_role: act-finale
+companion_campaign_stage: act-3
 quest_owner: "Ashira bath Melan"
 quest_sequence: 4
 companion_id: "CMP-04"

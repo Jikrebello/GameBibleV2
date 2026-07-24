@@ -14,27 +14,35 @@ tags: [game-ready]
 ---
 # Companion Reactive Scene Register
 
-This register reserves the non-quest scenes that make companions present across the game. These beats do not replace the thirty-two personal quests and do not force a companion into the active party. [[Companion Field Familiarity and Duo Quest Standard]] controls personal-quest staging; detailed companion registers control their final authored exchange pools.
+This register reserves the scenes, observations, schedules, and main-story contributions that make companions present across the game. These beats supplement the eighty formal pieces and provide part of each companion's eight-to-twelve embedded opportunities. [[Companion Campaign Architecture]] controls the campaign shape; detailed companion registers control final authored exchange pools.
 
 ## Shared Scene Rhythm
 
 Every companion receives:
 
-1. recruitment and first camp;
-2. a post-quest-one disclosure;
-3. a Tannbruck fall or winter-lockdown reaction;
-4. a post-quest-two conflict scene;
-5. an Act II faction or Drake reaction;
-6. quest-three commitment or refusal;
-7. a Gerhold and dead-march confrontation;
-8. quest-four destination;
-9. a summer scene reflecting relationship and faction settlement.
+1. field availability and first camp;
+2. an introductory-case reaction;
+3. at least one embedded main-story contribution in Act I;
+4. an Act I finale and friendship follow-up;
+5. at least one embedded main-story contribution in Act II;
+6. an Act II finale, commitment or refusal, and optional relationship episode;
+7. at least one embedded main-story contribution in Act III;
+8. an Act III finale and destination;
+9. a summer coda reflecting relationship and faction settlement.
 
 Approval is displayed as Guarded, Open, Trusted, or Strained. Each scene names any active conflict and available repair. Banter never commits romance, sworn bond, forgiveness, or departure by surprise.
 
-## Duo Quest Boundary
+## Party and Intimacy Boundary
 
-Personal adventures admit only the player and their quest-owning companion as full party members. Other companions may react when the quest is offered, paused, completed, or transformed by a cutoff, but they do not enter its core operation or emotional climax. This preserves intimate character work without making the wider party feel unaware of what happened.
+Introductions and short operations use the normal party with the owner required. Act finales admit only the player and quest owner as full party members. Other companions may react before, after, or through autonomous cross-support, but they do not enter the player-led finale's emotional climax.
+
+Friendship and relationship episodes are one-on-one. Ordinary exploration and main-story contributions preserve ensemble banter.
+
+## Autonomous Presence
+
+An inactive companion has a named location or assignment in every campaign window. Schedules provide diegetic warning of intended action even when the personal campaign is untracked.
+
+At act endings, tracked campaigns show a consolidated readiness entry. Untracked campaigns advance without one. Later scenes acknowledge autonomous success, compromise, injury, estrangement, support, or departure without pretending the companion waited for the player.
 
 ## Individual Reactive Beats
 
@@ -58,17 +66,24 @@ Personal adventures admit only the player and their quest-owning companion as fu
 | Ilyana and Dismas | command secrecy against flight | each is placed in the other's temptation during winter | they plan a rescue where one holds and the other returns |
 | Svala and Tavio | hearing yield against proving victory | Svala must trust a test; Tavio must stop one | they create a combat recall drill that treats restraint as mastery |
 
-## Main-Crisis Interventions
+## Main-Crisis Contributions
 
-Resolved companions add alternate solutions, preserve people or resources, or reduce cost. Compromised companions provide narrower help with a named risk. Broken companions may withhold help, create a complication, or depart. No intervention makes the critical path impossible without that companion.
+Every companion receives one authored contribution to each main act. Resolved companions add alternate solutions, preserve people or resources, or reduce cost. Compromised companions provide narrower help with a named risk. Broken companions may withhold help, create a complication, or depart. No intervention makes the critical path impossible without that companion.
+
+## Postgame Boundary
+
+Summer codas settle destinations. Repeating reconstruction seasons may change ambient lines and schedules at those destinations but do not create further personal incidents or arcs.
 
 ## Navigation
 
 - [[Companions MOC]]
 - [[Companion Constitution]]
+- [[Companion Campaign Architecture]]
+- [[Companion Autonomy and Act Convergence]]
 - [[Companion Field Familiarity and Duo Quest Standard]]
 - [[Elara Banter and Reactivity]]
 - [[Bernard Banter and Reactivity]]
 - [[Narrative State Register]]
 - [[Grenzburg Chapter and Window Matrix]]
+- [[Postgame Reconstruction Cycle]]
 - [[Grenzburg MOC]]

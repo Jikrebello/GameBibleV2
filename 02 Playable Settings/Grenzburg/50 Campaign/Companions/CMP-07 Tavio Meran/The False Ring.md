@@ -18,6 +18,9 @@ cutoff_result: transforms
 world_state_outputs: ["tavio_insert_state", "championship_cheating_known", "forge_safety_state"]
 required_locations: ["Blackjack Yard", "Great Forge", "Muster Green"]
 blocking_status: outlined
+architecture_status: pending-migration
+companion_content_role: introduction
+companion_campaign_stage: introduction
 quest_owner: "Tavio Meran"
 quest_sequence: 1
 companion_id: "CMP-07"

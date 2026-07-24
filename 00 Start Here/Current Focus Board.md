@@ -15,14 +15,14 @@ tags: []
 
 ## First Creative Priority
 
-Build Grenzburg into the setting's first complete video game. The game constitution, worldspace, player systems, eight companions, five faction lines, twenty-one main chapters, two summer quests, and narrative-state controls are locked through [[Grenzburg MOC]] and [[Main Campaign MOC]]. The active pass is companion deep blocking: [[Elara Velescar]] and [[Bernard Valeon]] now have complete character, combat, relationship, reactivity, and four-adventure packages; the other six remain outlined. Side-content placement follows this character pass. Caleran remains the great-city sandbox, but it is not the active implementation priority.
+Build Grenzburg into the setting's first complete video game. [[Grenzburg RPG Experience Constitution]] now treats the seasonal campaign, the blank-slate debtor, and eight autonomous companion campaigns as equal parts of the experience. The twenty-one main chapters remain locked, while the companion layer has expanded from thirty-two isolated personal quests to an eighty-piece authored architecture plus embedded world participation. [[Elara Velescar]] and [[Bernard Valeon]] are the first retrofit targets; their existing deep blocks remain source material until dedicated migration passes distribute them across the new structure. Caleran remains the great-city sandbox, but it is not the active implementation priority.
 
 ## Current Canon Baseline
 
 - **Present day:** 1360 AR, using the [[Chronology of the Known World (AR Dating)]].
 - **Map logic:** the known world is southern-hemisphere oriented; south is colder, harsher, and more frontier-bound. Use [[Gazetteer of the Known World]] and [[Geography Atlas]] as the map baseline.
 - **Source truth:** in-world historical accounts are rated in [[Reliability Register]].
-- **Active game:** [[Grenzburg MOC]] is the project doorway. [[Grenzburg Game Constitution]], [[Player Character Constitution]], [[Player Systems MOC]], [[Season and World-State Constitution]], [[Quest and Content Architecture]], [[Companion Constitution]], and [[Factions Overview]] control the full-game rebuild.
+- **Active game:** [[Grenzburg MOC]] is the project doorway. [[Grenzburg RPG Experience Constitution]], [[Grenzburg Game Constitution]], [[Player Character Constitution]], [[Player Identity Reactivity Matrix]], [[World Simulation and Discovery Constitution]], [[Quest and Content Architecture]], [[Companion Campaign Architecture]], and [[Companion Autonomy and Act Convergence]] control the player-facing experience.
 - **Active worldspace:** [[Grenzburg Regional Geography]] controls the twin-walled city, seven exterior regions, physical routes, and map boundary. [[Grenzburg Map Package]] provides creator and player maps; [[Grenzburg Worldspace Location Register]] reserves later content placement.
 - **Great-city sandbox:** [[Caleran Great-City Dossier]] is the production doorway for urban intrigue, archaeology, and occult investigation.
 - **Vault structure:** active reference material uses numbered, subject-owned folders; superseded material is indexed through [[Archive Index]] and the [[Physical Reorganization Manifest]].
@@ -42,9 +42,9 @@ Build Grenzburg into the setting's first complete video game. The game constitut
 
 ## Next Three Workstreams
 
-1. **Grenzburg companion deep blocks:** apply the shared duo-adventure and Field Familiarity standard to the other six companions while preserving individual structure, voice, and gameplay identity.
-2. **Grenzburg side content:** allocate and block marquee quests, local stories, dungeons, hunts, and secondary industry or settlement chains against the new main-campaign windows.
-3. **Main-campaign and player-system production:** turn blocked chapters into implementation specifications, originalize inherited skill language, and prototype vocation and encounter balance.
+1. **Elara and Bernard architecture retrofits:** preserve their strongest existing material while expanding each into one introductory case, three act operations, three duo finales, friendship and relationship episodes, a summer coda, embedded opportunities, and deterministic autonomous routes.
+2. **Remaining companion campaigns:** approve bespoke preparation thresholds, act contributions, autonomous decisions, ensemble support, and changed re-entry for Ilyana, Svala, Ashira, Dismas, Tavio, and Zafir before converting their outlines.
+3. **Identity and living-world allocation:** distribute the reserved culture, background, and vocation hooks across authored content, then build regional encounter decks and side-content placements without changing the main campaign.
 
 ## Locked Rulings
 
@@ -79,14 +79,20 @@ Build Grenzburg into the setting's first complete video game. The game constitut
 - Every vocation can complete every critical route. Medium shades are non-conscious imprints, Warlock and Rune Fist obey Shell-script canon, Paladin techniques require White-Flame coherence, and Binder cannot bind human souls or coerced persons.
 - Grenzburg's critical path is [[PROLOGUE THE BLACK ROAD|The Black Road]], [[ACT I THE CLOSING ROADS|The Closing Roads]], [[ACT II WINTER'S TEETH|Winter's Teeth]], [[ACT III THE UNENDING MUSTER|The Unending Muster]], and playable [[SUMMER AFTERMATH|summer aftermath]]. The Heart-Stone, Pale-Skins, Leviticus betrayal, and Duke's Peace are retired from the main campaign.
 - Fort Tannbruck always falls, the Emerald Drake is slain, Ghor's organized siege is defeated, Gerhold accepts the Unending Muster without redemption, and the General Below is stopped in every completed campaign. Political power, casualties, debt freedom, companion futures, and settlement survival remain variable; no political ending is setting canon.
-- The ordinary field party is the player plus three companions selected from [[Elara Velescar]], [[Ilyana Veshkar]], [[Svala Last-Beacon]], [[Ashira bath Melan]], [[Bernard Valeon]], [[Dismas Raben]], [[Tavio Meran]], and [[Zafir ibn Samad]]. Personal companion adventures use a fixed player-plus-owner duo. The roster has four women and four men; Elara's and Bernard's eight quests are production-blocked and the other twenty-four remain outlined. A playthrough may commit to one heterosexual romance and one same-sex sworn bond with equivalent mechanical value.
+- The ordinary field party is the player plus three companions selected from [[Elara Velescar]], [[Ilyana Veshkar]], [[Svala Last-Beacon]], [[Ashira bath Melan]], [[Bernard Valeon]], [[Dismas Raben]], [[Tavio Meran]], and [[Zafir ibn Samad]]. Introductory cases and short operations use the normal party; only the three act finales per companion use a fixed player-plus-owner duo. Each companion campaign contains ten formal pieces plus eight to twelve embedded opportunities, progresses autonomously at act gates when unattended, and cannot end in an unseen death. The roster has four women and four men. A playthrough may commit to one heterosexual romance and one same-sex sworn bond with equivalent mechanical value.
+- Every origin culture receives at least ten meaningful authored uses, every background at least eight, every starting vocation at least eight, and Paladin and Binder at least four post-unlock uses. Cultural familiarity supplies knowledge rather than a publicly visible second identity, and every critical route retains a credible workaround.
+- Grenzburg's encounter decks target a meaningful sign, discovery, encounter, or decision every five to eight minutes of ordinary exploration while preserving quiet travel. Dynamic activity remains local to the player; named deaths and major settlement changes require authored chains.
+- After [[The First Summer Road]], the player may advance deliberately through postwar autumn, winter, spring, and summer in sequence. The cycle changes renewable world conditions but never resets political, settlement, dungeon, casualty, or companion outcomes.
 - Grenzburg's five deep faction lines are [[Ducal and Marcher Service]], [[Blackjacks and Medori]], [[Church of Grenzburg]], [[Four-Hearth Compact]], and [[Grenzburg Underworld]]. The first four contain nine quests each; the underworld contains six shared quests and two exclusive three-quest branches. Their five independent settlement terms are controlled by [[Narrative State Register]].
 - Grenzburg is a twin-walled city of eight districts joined by one permanent fortified bridge. Its base-game worldspace contains [[Grenz Lowlands]], [[Longlake Country]], [[Wolfsmere Woods]], [[Southwood Barrowlands]], [[Highlake Uplands]], [[Upper Grenz]], and [[Frostfenn March]]. South grows colder, and the River Grenz flows north.
 - Public travel follows roads and water. Seven fixed Road-Key Menhir links serve remote paths without moving mounts, freight, refugees, or armies. Birchcross and Alderway Vale remain outside the base-game atlas.
 
 ## Open Production Questions
 
-- Exact Grenzburg damage, frames, inputs, growth curves, mastery rates, social probabilities, quest rewards, hidden companion event weighting, encounter balance, custom-build budget, and compatibility matrix.
+- Exact Grenzburg damage, frames, inputs, growth curves, mastery rates, social probabilities, quest rewards, encounter balance, custom-build budget, and compatibility matrix.
+- Bespoke preparation thresholds, autonomous decisions, cross-companion support, and changed re-entry for each companion retrofit.
+- Final allocation of the 90 origin, 72 background, 48 starting-vocation, and 8 advanced-vocation identity hooks reserved in [[Player Identity Reactivity Matrix]].
+- Regional and district encounter-card rosters, cooldowns, persistence details, and postwar seasonal variants governed by [[World Simulation and Discovery Constitution]].
 - Final original names, descriptions, animation identities, and progression orders for source-derived vocation skills tracked in [[Vocation Originalization Register]].
 - Named regional cells for the Left Hand as new playable settings are developed.
 - Final visual treatment for Caleran's surface and undercity maps.

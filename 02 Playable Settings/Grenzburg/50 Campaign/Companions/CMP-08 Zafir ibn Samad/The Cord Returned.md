@@ -18,6 +18,9 @@ cutoff_result: transforms
 world_state_outputs: ["zafir_cord_custody", "samira_identity_known", "zafir_prior_practice"]
 required_locations: ["Chain House", "Iron Ledger Counting-House", "Blackjack Yard"]
 blocking_status: outlined
+architecture_status: pending-migration
+companion_content_role: introduction
+companion_campaign_stage: introduction
 quest_owner: "Zafir ibn Samad"
 quest_sequence: 1
 companion_id: "CMP-08"

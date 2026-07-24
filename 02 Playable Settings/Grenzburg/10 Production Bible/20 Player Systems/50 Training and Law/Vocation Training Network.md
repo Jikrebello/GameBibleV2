@@ -57,7 +57,7 @@ Experience cannot purchase knowledge the character has never encountered. Traini
 - All six starting vocations can be opened by the end of chapter 6.
 - Every starting vocation has at least one route that does not require permanent faction loyalty.
 - Loss of one settlement or institution may make training harder, dearer, or later, but cannot permanently erase a starting vocation from a completed campaign.
-- No advanced vocation opens before its companion's third personal quest.
+- No advanced vocation opens before its companion's Act II finale.
 - The [[Custom Vocation Workshop]] opens only after two authored vocations reach full mastery.
 
 ## Trainers as World Characters

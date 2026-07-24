@@ -18,6 +18,9 @@ cutoff_result: transforms
 world_state_outputs: ["bernard_paladin_unlocked", "bernard_relationship_commitment", "bernard_white_flame_kindling", "petra_ilev_response", "long_watch_return_open", "lantern_relief_mission_state"]
 required_locations: ["Mercy Hospital", "Paupers' Cloister", "West Refuge Hall", "Outer Winter Camps", "Tann Gate Casualty Lane"]
 blocking_status: blocked
+architecture_status: pending-migration
+companion_content_role: act-finale
+companion_campaign_stage: act-2
 quest_owner: "Bernard Valeon"
 quest_sequence: 3
 companion_id: "CMP-05"

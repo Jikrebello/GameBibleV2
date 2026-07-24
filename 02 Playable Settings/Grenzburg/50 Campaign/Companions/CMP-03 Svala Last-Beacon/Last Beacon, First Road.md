@@ -18,6 +18,9 @@ cutoff_result: resolves-offscreen
 world_state_outputs: ["svala_arc_outcome", "last_hearth_refuge_state", "winter_road_protection", "svala_summer_destination"]
 required_locations: ["Last Hearth", "Fenn Lantern", "White Mud Causeway"]
 blocking_status: outlined
+architecture_status: pending-migration
+companion_content_role: act-finale
+companion_campaign_stage: act-3
 quest_owner: "Svala Last-Beacon"
 quest_sequence: 4
 companion_id: "CMP-03"

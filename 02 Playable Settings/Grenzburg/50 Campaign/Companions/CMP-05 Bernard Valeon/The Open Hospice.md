@@ -18,6 +18,9 @@ cutoff_result: transforms
 world_state_outputs: ["bernard_arc_outcome", "bernard_future_path", "open_lamp_hospice_state", "paladin_capstone_unlocked", "long_watch_field_form_blueprint", "bernard_summer_destination"]
 required_locations: ["Mercy Hospital", "Paupers' Cloister", "West Refuge Hall", "Outer Winter Camps", "Open Lamp Hospice"]
 blocking_status: blocked
+architecture_status: pending-migration
+companion_content_role: act-finale
+companion_campaign_stage: act-3
 quest_owner: "Bernard Valeon"
 quest_sequence: 4
 companion_id: "CMP-05"

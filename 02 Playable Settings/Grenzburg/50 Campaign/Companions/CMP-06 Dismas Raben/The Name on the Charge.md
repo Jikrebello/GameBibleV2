@@ -18,6 +18,9 @@ cutoff_result: transforms
 world_state_outputs: ["dismas_public_charge", "marta_etten_state", "dismas_service_terms", "dismas_relationship_commitment"]
 required_locations: ["Guild Court", "Red Stag Inn", "Grenzburg Underways"]
 blocking_status: outlined
+architecture_status: pending-migration
+companion_content_role: act-finale
+companion_campaign_stage: act-2
 quest_owner: "Dismas Raben"
 quest_sequence: 3
 companion_id: "CMP-06"

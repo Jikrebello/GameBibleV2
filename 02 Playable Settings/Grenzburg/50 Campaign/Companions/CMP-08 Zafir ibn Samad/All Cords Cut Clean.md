@@ -18,6 +18,9 @@ cutoff_result: resolves-offscreen
 world_state_outputs: ["zafir_arc_outcome", "living_cords_final_state", "binder_capstone_unlocked", "zafir_summer_destination"]
 required_locations: ["Chain House", "Deep Muster Approaches", "Fenn Road Exchange"]
 blocking_status: outlined
+architecture_status: pending-migration
+companion_content_role: act-finale
+companion_campaign_stage: act-3
 quest_owner: "Zafir ibn Samad"
 quest_sequence: 4
 companion_id: "CMP-08"

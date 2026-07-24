@@ -16,7 +16,7 @@ act: summer
 availability_window: ["Summer Aftermath"]
 repeatability: one-shot
 cutoff_result: persists
-world_state_outputs: ["player_service_claim", "campaign_casualty_record", "companion_destinations_locked", "political_settlement_composed"]
+world_state_outputs: ["player_service_claim", "campaign_casualty_record", "companion_destinations_locked", "companion_summer_codas_unlocked", "political_settlement_composed"]
 required_locations: ["Grenzburg", "Cathedral Close", "Crown Heights", "Lantern Ward", "Ledger Quays"]
 blocking_status: blocked
 quest_owner: "Grenzburg Main Campaign"
@@ -31,6 +31,10 @@ estimated_hours: 2.0
 gameplay_pillars: [consequence, exploration, social, memorial]
 required_states: ["campaign_victory"]
 optional_state_inputs: ["all_main_campaign_states", "all_faction_states", "all_companion_states", "all_settlement_states"]
+identity_hooks: []
+encounter_deck: []
+persistence_scope: campaign
+postgame_season: summer
 ---
 # Accounts of the Living
 
@@ -82,7 +86,7 @@ Faction-line results supply available terms. The player selects among earned ter
 
 ## End: Eight Doors
 
-Every recruited companion receives an in-person scene in their current location. Resolved, compromised, broken, departed, romance, sworn-bond, and sacrifice states are respected. The player confirms immediate destinations without forcing permanent companionship.
+Every companion receives an authored accounting. A reachable companion receives an in-person scene at their current location; a departed or otherwise unreachable companion receives only a credible letter, witness report, or absence marker. Resolved, compromised, broken, departed, romance, sworn-bond, and sacrifice states are respected. The player confirms immediate destinations without forcing permanent companionship.
 
 The quest ends at a public memorial assembled from the campaign's actual losses. The protagonist's service claim and the provisional settlement are read aloud only to the degree that their actions made them public.
 
@@ -99,6 +103,7 @@ Summer consequence play still requires action: dangerous Muster salvage must be 
 - `player_service_claim` resolves to personal-release, collective-relief, or superseded-by-faction-settlement.
 - `campaign_casualty_record` becomes the authoritative record of named and grouped losses.
 - `companion_destinations_locked` records all eight companion post-campaign states.
+- `companion_summer_codas_unlocked` opens each reachable companion's one reflective coda.
 - `political_settlement_composed` stores the five independent settlement axes.
 
 Personal release ends the protagonist's own Medori service. Collective relief converts the protagonist's claim into reduced terms and common assets for surviving Blackjacks; the player remains under a shorter fixed service unless another earned settlement frees the company.
@@ -121,12 +126,14 @@ Every completed faction line supplies earned settlement terms, witnesses, servic
 
 ## Cutoff and Unlocks
 
-Completing the memorial unlocks [[The First Summer Road]]. City postgame routines, companion schedules, faction headquarters, and provisional political terms activate immediately.
+Completing the memorial unlocks [[The First Summer Road]] and the summer codas reserved in [[Companion Campaign Expansion Register]]. City postgame routines, companion destinations, faction headquarters, and provisional political terms activate immediately.
 
 ## Navigation
 
 - [[SUMMER AFTERMATH]]
 - [[Main Campaign State Matrix]]
 - [[Narrative State Register]]
+- [[Companion Campaign Expansion Register]]
+- [[Postgame Reconstruction Cycle]]
 - [[The First Summer Road]]
 - [[Main Campaign MOC]]

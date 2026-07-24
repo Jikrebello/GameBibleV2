@@ -15,20 +15,21 @@ tags: [game-ready]
 ---
 # Grenzburg Game Constitution
 
-This note is the highest production authority for the Grenzburg game. It controls the experience being built, its scale, its tone, and the rules that every later design wave must obey. Lore references remain authoritative about the setting; when an older Grenzburg production note conflicts with this constitution, this constitution controls the game.
+This note is the highest production authority for the Grenzburg game. It controls the experience being built, its scale, its tone, and the rules that every later design wave must obey. [[Grenzburg RPG Experience Constitution]] controls the intended fusion of player authorship, living-world play, and authored companion narrative. Lore references remain authoritative about the setting; when an older Grenzburg production note conflicts with this constitution, this constitution controls the game.
 
 ## The Game in One Paragraph
 
-Grenzburg is a silent-protagonist, party-based, open-world action role-playing game set across one frontier duchy during a year of closing roads, winter siege, spring reclamation, and summer consequence. The player is an outsider debtor serving in the Medori Bank's Blackjack Corps and temporarily assigned as a specialist to Duke Alaric's war effort. They are useful enough to reach places ordinary soldiers cannot, but they do not command the army or rule the city. Human ambition, hunger, weather, debt, faith, land rights, Grobi migration, a territorial drake, and a separately waking Qianglong war complex converge without sharing one mastermind.
+Grenzburg is a silent-protagonist, party-based, open-world action role-playing game set across one frontier duchy during a year of closing roads, winter siege, spring reclamation, and summer consequence. The player is an outsider debtor serving in the Medori Bank's Blackjack Corps and temporarily assigned as a specialist to Duke Alaric's war effort. They are useful enough to reach places ordinary soldiers cannot, but they do not command the army or rule the city. The seasonal campaign gives the world motion, the blank protagonist lets the player author a life, and eight autonomous companion campaigns provide the principal personal narratives. Human ambition, hunger, weather, debt, faith, land rights, Grobi migration, a territorial drake, and a separately waking Qianglong war complex converge without sharing one mastermind.
 
 ## Product Promise
 
 - **Critical path:** 35-45 hours across twenty-one main chapters.
 - **Broad playthrough:** more than 100 hours when faction, companion, marquee, local, dungeon, and job content is pursued.
+- **Completionist play:** may exceed 200 hours after the expanded companion campaigns, while no individual line is mandatory.
 - **World:** Grenzburg city and seven connected exterior subregions, all traversable as one changing region.
 - **Time:** seasons advance only at major player-controlled story milestones.
 - **Party:** the player plus three active companions selected from eight full companions.
-- **Aftermath:** summer remains playable and reflects casualties, settlement states, faction strength, debt, companion resolutions, and political control.
+- **Aftermath:** summer opens a deliberate postwar seasonal cycle reflecting casualties, settlement states, faction strength, debt, companion resolutions, and political control without resetting them.
 - **Continuity:** the Deep Dragon is always stopped in a completed campaign. No political ending is yet the canonical future of the setting.
 
 ## Audience and Tone
@@ -44,6 +45,7 @@ These are craft lessons, not sources of names, plots, factions, or lore.
 - **Skyrim:** readable exploration, strong place identity, faction lines that can be pursued beside the main story, and a world that invites detours.
 - **The Witcher 3:** authored quests built around concrete people, legible motives, investigation, consequence, and monsters grounded in local circumstances.
 - **Dragon's Dogma:** physical monster encounters, strong vocation identity, party composition, travel danger, and combat discoveries made through play.
+- **Baldur's Gate 3:** material recognition of background, knowledge, ability, and prior conduct without giving Grenzburg a fixed cinematic protagonist.
 - **Grand Theft Auto's mission rhythm:** a clear main skeleton opens new people, districts, systems, and side opportunities; time advances at major missions while the player owns the space between them.
 
 ## Design Pillars
@@ -88,6 +90,18 @@ Companions may disagree sharply, but they remain personable and capable of warmt
 
 The final Deep Dragon should feel impossible in Act I because the player has not yet been taught the history, systems, places, allies, or powers required to face it. Every act must prepare part of that understanding without announcing the final answer too early.
 
+### 11. The Player Authors the Protagonist
+
+Debt explains why the protagonist is present. Origin, background, vocation, knowledge, conduct, loyalties, and chosen goals explain who they become. The world must recognize those choices without secretly replacing them with one authored personality.
+
+### 12. The World Produces Stories
+
+Travel between quests must contain authored systemic encounters, discoverable signs, ordinary work, ecology, danger, and aftermath. The open world is part of the core experience rather than empty distance between mission markers.
+
+### 13. Companions Act Without Permission
+
+Companions are fellow Blackjacks with schedules, assignments, relationships, and personal campaigns. Ignoring one changes the player's involvement; it does not stop that companion's life.
+
 ## Worldspace Contract
 
 [[Grenzburg Regional Geography]] fixes the borders, routes, hubs, names, and southward climate of one contiguous region. Grenzburg's eight city districts and seven exterior regions are controlled through [[Grenzburg City Districts Overview]] and [[Grenzburg Exterior Regions Overview]].
@@ -111,10 +125,12 @@ Every vocation can complete every critical route. Exact damage, frames, inputs, 
 | Critical-path chapters | 21 | Advance seasons, crises, systems, and campaign payoffs. |
 | Summer aftermath quests | 2 | Resolve world state and reopen the region after the finale. |
 | Deep faction lines | 48 authored notes, 45 playable in one run | Four nine-quest lines plus six shared and two exclusive three-quest underworld branches. |
-| Companion personal quests | 32 | Four quests for each of eight companions, plus reactive scenes. |
+| Formal companion pieces | 80 authored, up to 74 playable in one run | Eight introductions, twenty-four operations, twenty-four act finales, eight friendship episodes, eight relationship episodes, and eight summer codas. |
+| Embedded companion opportunities | 8-12 per companion | Main, faction, local, exploration, company, and systemic-world intersections that prepare personal chapters. |
 | Marquee authored quests | 24 | Large local stories with investigation, character, and consequence. |
 | Smaller local quests | 36 | Focused authored stories, discoveries, and practical problems. |
 | Job templates | 12 | Gameplay-forward hunts, escorts, bounties, patrols, and recoveries. |
+| Systemic encounter decks | 16-24 cards per exterior region; 8-12 per city district | Authored conditional travel, work, ecology, danger, discovery, and aftermath outside formal quests. |
 
 Counts are scope controls rather than an instruction to pad the game. Content earns its place by introducing, testing, complicating, or paying off a location, system, character, faction, or world state.
 
@@ -134,12 +150,18 @@ The Heart-Stone and its barrow remain available for a later optional high-level 
 ## Authority Map
 
 - Player identity and fixed rules: [[Player Character Constitution]]
+- Player-authorship and world-experience laws: [[Grenzburg RPG Experience Constitution]]
+- Identity recognition and coverage: [[Player Identity Reactivity Matrix]]
 - Detailed player systems and vocations: [[Player Systems MOC]]
 - Campaign: [[Grenzburg Campaign Spine]]
 - Seasons and persistence: [[Season and World-State Constitution]]
+- Postgame seasonal cycle: [[Postgame Reconstruction Cycle]]
 - Quest formats and budgets: [[Quest and Content Architecture]]
+- Sandbox quest pattern: [[Sandbox Quest Pattern]]
 - Factions: [[Factions Overview]] and [[Faction Questlines MOC]]
-- Companions and relationships: [[Companion Constitution]] and [[Companions MOC]]
+- Companions and relationships: [[Companion Constitution]], [[Companion Campaign Architecture]], and [[Companions MOC]]
+- Companion autonomy and act deadlines: [[Companion Autonomy and Act Convergence]]
+- Systemic world and discovery: [[World Simulation and Discovery Constitution]]
 - Narrative outputs and political settlement: [[Narrative State Register]]
 - Numerical anchors: [[Grenzburg Numbers and Constraints]]
 - Physical baseline: [[Grenzburg Regional Geography]]
@@ -147,7 +169,7 @@ The Heart-Stone and its barrow remain available for a later optional high-level 
 
 ## Change Rule
 
-A later wave may tune numbers and add detail. It may not quietly contradict a fixed rule here. Any change to the protagonist premise, main crisis, season model, party size, relationship model, campaign completion condition, or content budget requires an explicit constitution revision and a dated archive snapshot.
+A later wave may tune numbers and add detail. It may not quietly contradict a fixed rule here. Any change to the protagonist premise, main crisis, season model, party size, relationship model, companion autonomy, identity-coverage target, campaign completion condition, or content budget requires an explicit constitution revision and a dated archive snapshot.
 
 ## Navigation
 

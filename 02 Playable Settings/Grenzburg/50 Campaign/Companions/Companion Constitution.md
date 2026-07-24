@@ -14,7 +14,7 @@ tags: [game-ready]
 ---
 # Companion Constitution
 
-This note controls Grenzburg's companion roster, recruitment, approval, personal quests, relationships, departure, and ending treatment. [[Companion Field Familiarity and Duo Quest Standard]] controls party management, authored affinity, and the player-plus-companion adventure format. [[Companions MOC]] is the operational register. Individual outcomes are player-dependent and do not become future-setting canon.
+This note controls Grenzburg's companion roster, field availability, approval, personal campaigns, relationships, departure, and ending treatment. [[Companion Campaign Architecture]] controls the eighty formal pieces and party formats. [[Companion Autonomy and Act Convergence]] controls schedules, act deadlines, unassisted outcomes, and changed re-entry. [[Companion Field Familiarity and Duo Quest Standard]] controls shared history and staging. [[Companions MOC]] is the operational doorway. Individual and autonomous outcomes are playthrough states and do not become future-setting canon.
 
 ## Fixed Roster
 
@@ -37,26 +37,34 @@ The Black Road introduces [[Bernard Valeon]], [[Dismas Raben]], and [[Ilyana Ves
 
 Companions may be added or dismissed at the Blackjack Yard, settlement hubs, established camps, and stabilized travel nodes that offer party organization. Dismissal carries no approval penalty. A dismissed companion returns to their assigned home base or current seasonal destination.
 
-Declining an initial invitation does not lose a companion. A named repair scene remains until the end of Open Autumn. No recruitment briefing delivers a culture lecture; foreign history enters through the debt, an immediate task, and later visitors or records.
+Declining an initial field invitation does not erase a companion from the Blackjacks or stop their personal campaign. A named repair scene preserves later field availability unless an authored departure closes it. No recruitment briefing delivers a culture lecture; foreign history enters through the debt, an immediate task, and later visitors or records.
 
-## Personal Quest Contract
+## Personal Campaign Contract
 
-Every companion owns four major authored quests:
+Every companion owns ten formal pieces:
 
-1. **Debt named:** establish the concrete harm and the companion's preferred account.
-2. **Old method tested:** place the habitual answer under current pressure.
-3. **Reckoning:** confront a victim, witness, institution, or power and open relationship commitment.
-4. **Chosen future:** produce resolved, compromised, or broken/departed states and a visible summer destination.
+1. one introductory case;
+2. one short operation in each main act;
+3. one duo finale in each main act;
+4. one friendship episode;
+5. one committed romance or sworn-bond episode;
+6. one summer coda.
 
-Every personal quest is a main-story-adjacent adventure built for the player and its owning companion only. Accepting it at a staging point temporarily dismisses the other two active companions. Temporary guides, witnesses, rescued people, and soldiers remain outside the companion limit. A named pause point may suspend the adventure and restore normal party management.
+Each companion additionally receives eight to twelve embedded opportunities across main, faction, local, exploration, company, and systemic-world content.
 
-Every note carries an availability window, Field Familiarity gate, duo rule, pause points, information paths, fail-forward results, cutoff, required locations, rewards, and world-state outputs. Personal content may alter main operations but never supplies a mandatory key. All player vocations must remain viable with only the quest owner as a full companion.
+The introductory case maps from the old first quest. The old second, third, and fourth quests become the Act I, Act II, and Act III finales during retrofit. Operations and introductions require the owner but retain the normal party. Act finales use the player-plus-owner duo. Relationship episodes are one-on-one but need not be combat missions.
+
+Each act finale receives three to five meaningful preparation opportunities and a bespoke participation threshold. Every unresolved act chapter advances at the main act's final transition. Personal content may alter main operations but never supplies a mandatory key. Every player vocation remains viable.
+
+[[Companion Campaign Expansion Register]] controls the count and migration map.
 
 ## Approval
 
 Approval is qualitative: **Guarded**, **Open**, **Trusted**, and **Strained**. The UI also names unresolved conflicts such as concealed evidence, violated surrender, or coerced service. There is no exposed numeric affection meter.
 
-Personal disclosure advances through authored Field Familiarity beats: distinct quests, discoveries, moral choices, dangerous shared events, and companion observations witnessed while active. Idle time and repeatable-job farming do not advance familiarity. When a gate is met, the companion asks to speak at the next hub rather than interrupting an unrelated operation.
+Personal disclosure advances through authored shared-history beats: distinct quests, discoveries, moral choices, dangerous shared events, company scenes, and credible reports. Active companions witness private field conduct; public events may reach inactive companions through testimony and company communication. Idle time and repeatable-job farming do not advance familiarity.
+
+Shared history governs trust, disclosure, preparation, and relationship access. It does not freeze the companion's campaign. A companion whose threshold is not met follows a deterministic autonomous route at the act gate.
 
 Companions judge repeated conduct and exceptional betrayals. Disagreement can deepen respect when the player acts consistently and bears a cost. Habitual snark, interchangeable trauma, and party-wide hostility are prohibited.
 
@@ -74,7 +82,10 @@ Death occurs only through a late, explicit sacrifice after alternatives are made
 - Male players may romance women companions; female players may romance men companions.
 - Same-sex companions offer a sworn bond with equal narrative weight and mechanical value.
 - A playthrough may commit to one romance and one sworn bond.
-- Early interest may overlap. Commitment occurs only after quest three and always names what closes.
+- Early interest may overlap. Commitment occurs only after the Act II finale and always names what closes.
+- Every player may complete the companion's friendship episode.
+- A committed romance or sworn bond opens one additional Act III relationship episode.
+- Friendship remains sufficient for the companion's strongest moral outcome.
 - Mature intimacy fades to black.
 - Neither path grants ownership, automatic agreement, immunity from departure, or a canonical ending.
 
@@ -112,7 +123,19 @@ Foils produce changed conversations, joint field solutions, and honest disagreem
 
 **Broken/departed** means the companion recommits to the central wrong or refuses the final repair. Departure does not prove the character was secretly evil from the start.
 
+Autonomous outcomes may be resolved, compromised, broken, injured, estranged, or departed according to the companion's authored route and world state. They are not random, do not universally punish neglect, and cannot kill a companion unseen.
+
 No companion ending is selected as future canon.
+
+## Act Convergence
+
+All eight unresolved companion chapters advance at each main-act ending. Tracked companions appear on the transition docket with their intended action and qualitative readiness. Untracked companions continue through schedules, dialogue, company notices, and world scenes without a consolidated UI warning.
+
+A missed finale closes its original version. An authored aftermath establishes the result and permits changed re-entry into the next chapter where credible. Another companion, Blackjack team, faction contact, or beneficiary may provide authored support without making the owner's moral choice for them.
+
+## Postgame Boundary
+
+Act III and [[Accounts of the Living]] settle each companion's destination. [[Postgame Reconstruction Cycle]] may change seasonal schedules and ambient dialogue at that destination but opens no new companion arc, departure, relationship commitment, or moral resolution.
 
 ## Metaphysical Guardrails
 
@@ -126,6 +149,9 @@ No companion ending is selected as future canon.
 ## Navigation
 
 - [[Companions MOC]]
+- [[Companion Campaign Architecture]]
+- [[Companion Autonomy and Act Convergence]]
+- [[Companion Campaign Expansion Register]]
 - [[Companion Field Familiarity and Duo Quest Standard]]
 - [[Companion Reactive Scene Register]]
 - [[Narrative State Register]]
@@ -133,4 +159,5 @@ No companion ending is selected as future canon.
 - [[Player Character Constitution]]
 - [[Quest and Content Architecture]]
 - [[Grenzburg Campaign Spine]]
+- [[Postgame Reconstruction Cycle]]
 - [[Grenzburg MOC]]

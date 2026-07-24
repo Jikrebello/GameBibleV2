@@ -18,6 +18,9 @@ cutoff_result: transforms
 world_state_outputs: ["ilyana_milen_verdict", "relief_names_public", "winter_artillery_state", "ilyana_relationship_commitment"]
 required_locations: ["Old River Arsenal", "Hall of Petitions", "Warlock Hall"]
 blocking_status: outlined
+architecture_status: pending-migration
+companion_content_role: act-finale
+companion_campaign_stage: act-2
 quest_owner: "Ilyana Veshkar"
 quest_sequence: 3
 companion_id: "CMP-02"

@@ -18,6 +18,9 @@ cutoff_result: transforms
 world_state_outputs: ["seven_mounds_state", "coerced_diggers_state", "kata_belyn_state", "vasko_dren_state", "elara_fieldbook_state", "vardek_chain_proof", "elara_workers_before_proof"]
 required_locations: ["Blackjack Yard", "Ashfield Lodge", "Ashfield Track", "Seven Mounds"]
 blocking_status: blocked
+architecture_status: pending-migration
+companion_content_role: act-finale
+companion_campaign_stage: act-1
 quest_owner: "Elara Velescar"
 quest_sequence: 2
 companion_id: "CMP-01"

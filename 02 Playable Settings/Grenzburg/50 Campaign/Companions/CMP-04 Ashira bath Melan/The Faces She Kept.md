@@ -18,6 +18,9 @@ cutoff_result: transforms
 world_state_outputs: ["ashira_roster_custody", "medium_public_fear", "qesheth_judgement_found"]
 required_locations: ["Blackjack Yard", "Customs Hall", "Grenzburg Underways"]
 blocking_status: outlined
+architecture_status: pending-migration
+companion_content_role: introduction
+companion_campaign_stage: introduction
 quest_owner: "Ashira bath Melan"
 quest_sequence: 1
 companion_id: "CMP-04"

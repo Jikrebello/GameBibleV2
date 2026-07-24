@@ -18,6 +18,9 @@ cutoff_result: transforms
 world_state_outputs: ["bernard_compulsion_disclosed", "bernard_accountability_plan", "little_things_returned", "kitchen_helper_state", "koss_bernard_leverage"]
 required_locations: ["Blackjack Yard", "Red Stag Inn", "Mercy Hospital", "Old Market", "Lantern Market"]
 blocking_status: blocked
+architecture_status: pending-migration
+companion_content_role: introduction
+companion_campaign_stage: introduction
 quest_owner: "Bernard Valeon"
 quest_sequence: 1
 companion_id: "CMP-05"

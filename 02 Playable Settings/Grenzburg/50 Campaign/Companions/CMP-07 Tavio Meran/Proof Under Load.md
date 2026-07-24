@@ -18,6 +18,9 @@ cutoff_result: transforms
 world_state_outputs: ["tavio_rigging_network", "cold_iron_supply", "rune_fist_safety_doctrine"]
 required_locations: ["Cold-Iron Deeps", "Warlock Hall", "Great Forge"]
 blocking_status: outlined
+architecture_status: pending-migration
+companion_content_role: act-finale
+companion_campaign_stage: act-1
 quest_owner: "Tavio Meran"
 quest_sequence: 2
 companion_id: "CMP-07"

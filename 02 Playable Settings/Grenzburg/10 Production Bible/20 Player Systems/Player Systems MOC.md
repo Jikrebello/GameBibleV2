@@ -15,7 +15,7 @@ tags: [game-ready]
 ---
 # Player Systems MOC
 
-This is the doorway to Grenzburg's narrative player systems. [[Player Character Constitution]] controls the protagonist and the non-negotiable rules. The notes below explain what those rules mean for character creation, field play, progression, training, and the world.
+This is the doorway to Grenzburg's narrative player systems. [[Player Character Constitution]] controls the protagonist and the non-negotiable rules. [[Player Identity Reactivity Matrix]] controls the campaign-wide recognition promise. The notes below explain what those rules mean for character creation, field play, progression, training, and the world.
 
 Exact damage, frame data, input mappings, probability curves, slot budgets, and final numerical balance are not canon here. They remain in [[Provisional Player Balance Appendix]] until production testing.
 
@@ -25,6 +25,7 @@ Exact damage, frame data, input mappings, probability curves, slot budgets, and 
 |---|---|
 | Who is the player and what can change? | [[Player Character Constitution]] |
 | What is chosen at character creation? | [[Character Creation and Identity]] |
+| How often and how materially does the world recognize those choices? | [[Player Identity Reactivity Matrix]] |
 | What do the statistics mean? | [[Player Statistics and Resolution]] |
 | How do dialogue and knowledge checks work? | [[Social Skills and Knowledge]] |
 | How does conduct shape available commitments? | [[Virtue and Sin Tendencies]] |
@@ -39,6 +40,7 @@ Exact damage, frame data, input mappings, probability curves, slot budgets, and 
 ## Character Framework
 
 - [[Character Creation and Identity]]
+- [[Player Identity Reactivity Matrix]]
 - [[Player Statistics and Resolution]]
 - [[Social Skills and Knowledge]]
 - [[Virtue and Sin Tendencies]]
@@ -64,8 +66,8 @@ Exact damage, frame data, input mappings, probability curves, slot budgets, and 
 
 ## Advanced and Custom Vocations
 
-- [[Paladin]] is earned through Bernard's third personal quest and completed through his fourth.
-- [[Binder]] is earned through Zafir's third personal quest and completed through his fourth.
+- [[Paladin]] is earned through Bernard's Act II finale and completed through his Act III finale.
+- [[Binder]] is earned through Zafir's Act II finale and completed through his Act III finale.
 - [[Custom Vocation Workshop]] opens as a metagame system after two authored vocations are fully mastered.
 
 ## Production Controls
@@ -89,6 +91,7 @@ Exact damage, frame data, input mappings, probability curves, slot budgets, and 
 8. Medium shades are non-conscious imprints, never captured souls.
 9. White-Flame techniques require moral coherence.
 10. Human souls and coerced persons cannot become responsible Binder assets.
+11. Origin, background, and vocation choices receive material campaign recognition rather than cosmetic dialogue alone.
 
 ## Source Boundary
 

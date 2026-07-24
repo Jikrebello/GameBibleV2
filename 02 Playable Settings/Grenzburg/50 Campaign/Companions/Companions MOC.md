@@ -14,7 +14,7 @@ tags: [game-ready]
 ---
 # Grenzburg Companions MOC
 
-This is the production doorway for the eight outsider-debtor companions and their thirty-two personal quests. [[Companion Constitution]] controls shared rules; [[Companion Field Familiarity and Duo Quest Standard]] controls release and party format; individual dossiers control biography and personal outcomes; quest notes control playable sequence.
+This is the production doorway for eight outsider-debtor companions, eighty formal companion pieces, and eight-to-twelve embedded opportunities per companion. [[Companion Constitution]] controls the roster and moral rules. [[Companion Campaign Architecture]] controls content shape and party format. [[Companion Autonomy and Act Convergence]] controls deadlines and unassisted progression. [[Companion Campaign Expansion Register]] is the count and migration authority.
 
 ## Roster
 
@@ -29,7 +29,23 @@ This is the production doorway for the eight outsider-debtor companions and thei
 | CMP-07 | [[Tavio Meran]] | man | [[Rune Fist]] | Early Autumn | [[Svala Last-Beacon]] | rivals who can yield |
 | CMP-08 | [[Zafir ibn Samad]] | man | [[Binder]] | Early Autumn | [[Bernard Valeon]] | freedom without ownership |
 
-## Quest Register
+## Campaign Budget
+
+| Role | Per companion | Total |
+|---|---:|---:|
+| Introductory case | 1 | 8 |
+| Short act operations | 3 | 24 |
+| Duo act finales | 3 | 24 |
+| Friendship episode | 1 | 8 |
+| Romance or bond episode | 1 | 8 |
+| Summer coda | 1 | 8 |
+| **Formal pieces** | **10** | **80** |
+
+The current thirty-two notes supply the eight introductions and twenty-four finale sources. Forty-eight untitled slots are reserved without creating empty notes. See [[Companion Campaign Expansion Register]].
+
+## Existing Source Register
+
+Every quest below carries `architecture_status: pending-migration`. Existing Quest 1 becomes the introductory case; Quests 2-4 become the three act finales during that companion's retrofit.
 
 | ID | Quest | Owner | Act | Window | Status |
 |---|---|---|---|---|---|
@@ -85,7 +101,7 @@ This is the production doorway for the eight outsider-debtor companions and thei
 - [[Samira bint Nahal]]
 - [[Rimewing Sisters]]
 
-## Deep-Blocked Companion Packages
+## Existing Deep-Blocked Packages
 
 ### CMP-01: Elara Velescar
 
@@ -106,11 +122,14 @@ This is the production doorway for the eight outsider-debtor companions and thei
 - [[The Froststep Evacuation]] and [[Hospice of the Lantern Road]]: controlling history and institutional origin.
 - [[Little Things Missing]], [[Little Hands, Long Road]], [[Embers Without Excuse]], and [[The Open Hospice]]: four production-blocked duo adventures.
 
-The other six companion packages remain outlined until their individual deep-block passes. Elara and Bernard establish shared production standards without requiring identical biographies, systems, or quest shapes from later companions.
+Elara and Bernard retain complete character, combat, relationship, reactivity, and four-adventure source packages, but their campaign architecture now awaits retrofit. The other six remain outlined and will be deep-blocked directly against the new standard. No individual threshold or autonomous result is canonized without the planned user-guided pass.
 
 ## Controls
 
 - [[Companion Constitution]]
+- [[Companion Campaign Architecture]]
+- [[Companion Autonomy and Act Convergence]]
+- [[Companion Campaign Expansion Register]]
 - [[Companion Field Familiarity and Duo Quest Standard]]
 - [[Companion Reactive Scene Register]]
 - [[Narrative State Register]]

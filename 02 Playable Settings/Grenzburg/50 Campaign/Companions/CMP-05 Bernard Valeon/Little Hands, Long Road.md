@@ -18,6 +18,9 @@ cutoff_result: transforms
 world_state_outputs: ["road_school_state", "chapel_children_state", "mika_food_state", "wounded_bear_state", "bent_oak_refuge_state"]
 required_locations: ["Bent Oak Chapel", "Lake Road Cairn", "Reedmile Chapel", "Pikehook Marsh", "Bent-Oak Refuge"]
 blocking_status: blocked
+architecture_status: pending-migration
+companion_content_role: act-finale
+companion_campaign_stage: act-1
 quest_owner: "Bernard Valeon"
 quest_sequence: 2
 companion_id: "CMP-05"

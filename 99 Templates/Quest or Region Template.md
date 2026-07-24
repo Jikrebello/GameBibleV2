@@ -35,6 +35,19 @@ companion_required: ""
 duo_quest: false
 pause_points: []
 relationship_gate: ""
+companion_content_role: ""
+companion_campaign_stage: ""
+architecture_status: ""
+preparation_inputs: []
+preparation_threshold: ""
+autonomous_deadline: ""
+autonomous_resolution: ""
+changed_reentry: ""
+ensemble_inputs: []
+identity_hooks: []
+encounter_deck: []
+persistence_scope: none
+postgame_season: ""
 ---
 # {{title}}
 
@@ -60,13 +73,21 @@ relationship_gate: ""
 
 ## Information Paths
 
+## Preparation Inputs
+
+## Identity Hooks
+
 ## Choices
 
 ## Lock-In Consequences
 
 ## Fail-Forward Results
 
+## Autonomous Resolution and Changed Re-entry
+
 ## Consequences
+
+## Persistence Scope
 
 ## Seasonal Cutoff
 

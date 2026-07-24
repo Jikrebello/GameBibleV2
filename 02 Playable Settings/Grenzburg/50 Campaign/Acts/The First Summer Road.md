@@ -16,7 +16,7 @@ act: summer
 availability_window: ["Summer Aftermath"]
 repeatability: one-shot
 cutoff_result: persists
-world_state_outputs: ["reconstruction_priority", "summer_regional_access", "summer_postgame_open"]
+world_state_outputs: ["reconstruction_priority", "summer_regional_access", "summer_postgame_open", "postgame_cycle_unlocked", "postgame_season"]
 required_locations: ["Grenz Lowlands", "Upper Grenz", "Longlake Country", "Highlake Uplands", "Frostfenn March"]
 blocking_status: blocked
 quest_owner: "Grenzburg Main Campaign"
@@ -31,6 +31,10 @@ estimated_hours: 2.5
 gameplay_pillars: [travel, consequence, reconstruction, combat, choice]
 required_states: ["political_settlement_composed"]
 optional_state_inputs: ["all_region_states", "grobi_aftermath_state", "emerald_law_gem_custody", "deep_muster_site_state", "companion_destinations_locked"]
+identity_hooks: []
+encounter_deck: ["Postwar Reconstruction Roads"]
+persistence_scope: campaign
+postgame_season: summer
 ---
 # The First Summer Road
 
@@ -112,9 +116,11 @@ Available companions may travel, visit their destinations, or meet the convoy at
 
 Faction settlement terms alter labor, authority, ceremony, and who pays for the first commitment. No faction can make an unsafe route safe merely by winning its line, and no reconstruction choice becomes automatic allegiance.
 
-## Completion and Persistent Summer
+## Completion and Reconstruction Cycle
 
-The final scene returns control at the rebuilt or provisional hub. There is no formal credits point. Surviving quests, authored summer transformations, recurring jobs, relationships, exploration, and unresolved regional dangers remain playable under the established postgame rules.
+The final scene returns control at the rebuilt or provisional hub. There is no formal credits point. Surviving quests, authored transformations, recurring jobs, relationships, exploration, and unresolved regional dangers remain playable.
+
+`postgame_cycle_unlocked` becomes true and `postgame_season` begins at summer. At supported rest points, the player may deliberately advance through postwar autumn, winter, spring, and summer in sequence under [[Postgame Reconstruction Cycle]]. No transition resets casualties, political terms, companion destinations, or named site states.
 
 ## Navigation
 
@@ -122,4 +128,6 @@ The final scene returns control at the rebuilt or provisional hub. There is no f
 - [[SUMMER AFTERMATH]]
 - [[Grenzburg Seasonal Worldspace Matrix]]
 - [[Season and World-State Constitution]]
+- [[Postgame Reconstruction Cycle]]
+- [[World Simulation and Discovery Constitution]]
 - [[Main Campaign MOC]]

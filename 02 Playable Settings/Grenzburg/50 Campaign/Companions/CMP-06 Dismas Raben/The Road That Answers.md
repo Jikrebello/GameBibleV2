@@ -18,6 +18,9 @@ cutoff_result: resolves-offscreen
 world_state_outputs: ["dismas_arc_outcome", "three_horn_evacuated", "marcher_scout_service", "dismas_summer_destination"]
 required_locations: ["Three Horn Depot", "Fenn Road", "Fenn Road Exchange"]
 blocking_status: outlined
+architecture_status: pending-migration
+companion_content_role: act-finale
+companion_campaign_stage: act-3
 quest_owner: "Dismas Raben"
 quest_sequence: 4
 companion_id: "CMP-06"

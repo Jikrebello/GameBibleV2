@@ -17,6 +17,8 @@ tags: [game-ready]
 
 Character creation defines an outsider who already had a life before the Black Road. It supplies recognitions, practical experience, social habits, and a first combat discipline without inventing a secret destiny.
 
+[[Player Identity Reactivity Matrix]] controls the campaign-wide recognition targets. Character creation is incomplete as a game system if its choices exist only on the record sheet.
+
 ## Fixed Life Situation
 
 Every player character is:
@@ -55,11 +57,13 @@ Origin grants that culture's knowledge tag automatically. It establishes childho
 
 Broad culture tags translate practical familiarity. Specific dialogue should still identify the relevant city, realm, tower, tribe, confession, clan, or social register. A Sestaran tag does not make every Concord city interchangeable; an Ahl-e-Ahd tag does not erase the differences among Covenant peoples.
 
+Bank, Blackjack, and ducal intake authorities may know this declared origin from the debtor record. Strangers know it only through disclosure, credible records, reputation, practice, or an authored inference that may be mistaken.
+
 ### 3. Additional Cultural Familiarity
 
 Choose one additional culture tag. It represents sustained contact through family, travel, military service, pilgrimage, trade, captivity, education, exile, or neighborhood life.
 
-This is genuine familiarity rather than blood quantum or racial intuition. It can identify customs and likely misunderstandings but cannot reveal a stranger's private belief.
+This is genuine familiarity rather than blood quantum or racial intuition. It can identify customs and likely misunderstandings but cannot reveal a stranger's private belief. It is not a second public origin that every NPC automatically sees.
 
 ### 4. Background Knowledge
 
@@ -104,12 +108,14 @@ Choose [[Fighter]], [[Slayer]], [[Hunter]], [[Warlock]], [[Medium]], or [[Rune F
 
 Origin, additional culture, and background may all produce visible options. The option identifies its source before selection. When more than one knowledge source applies, they may support different interpretations rather than stacking into automatic truth.
 
+Recognition may also change route access, prices, suspicion, legal treatment, preparation, systemic encounters, and failure costs. Every hard critical-path restriction retains a credible workaround.
+
 ## Navigation
 
 - [[Player Character Constitution]]
 - [[Player Statistics and Resolution]]
 - [[Social Skills and Knowledge]]
 - [[Virtue and Sin Tendencies]]
+- [[Player Identity Reactivity Matrix]]
 - [[Vocation Progression and Mastery]]
 - [[Player Systems MOC]]
-

@@ -18,6 +18,9 @@ cutoff_result: transforms
 world_state_outputs: ["dismas_old_crime_named", "quarry_workers_state", "dismas_rescue_response"]
 required_locations: ["Old Coach Burn", "Black Road Quarry", "Split Elm Inn"]
 blocking_status: outlined
+architecture_status: pending-migration
+companion_content_role: introduction
+companion_campaign_stage: introduction
 quest_owner: "Dismas Raben"
 quest_sequence: 1
 companion_id: "CMP-06"

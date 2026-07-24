@@ -16,7 +16,7 @@ tags: [game-ready]
 ---
 # Player Character Constitution
 
-This note is the controlling authority for Grenzburg's protagonist, character creation, social expression, moral tendencies, field capabilities, and vocation architecture. [[Player Systems MOC]] supplies the subordinate system references. Exact damage, timing, probability, and final balance remain provisional.
+This note is the controlling authority for Grenzburg's protagonist, character creation, social expression, moral tendencies, field capabilities, and vocation architecture. [[Player Systems MOC]] supplies the subordinate system references. [[Player Identity Reactivity Matrix]] controls how often and how materially the world recognizes those choices. Exact damage, timing, probability, and final balance remain provisional.
 
 ## Fixed Identity
 
@@ -55,6 +55,8 @@ The nine culture tags are Eclessian, Thalmyric, Sestaran, Jirahar, Ahl-e-Ahd, Fo
 The nine background fields are Wilderness, Underworld, Military, Nobility, Scholarly, Merchant/Craft, Peasant/Labour, Mystic/Religious, and Drifter/Vagabond.
 
 [[Character Creation and Identity]] controls the full sequence and presentation.
+
+Every origin culture receives approximately ten meaningful campaign uses, every background eight, and every starting vocation eight. A meaningful use changes access, risk, price, trust, information, traversal, encounter behavior, or quest method. Recognition includes both opportunity and friction while preserving a critical-path workaround.
 
 ## Statistics and Social Resolution
 
@@ -114,8 +116,8 @@ The six starting vocations are:
 
 ## Advanced and Custom Vocations
 
-- [[Paladin]] unlocks during Bernard's third personal quest and receives its capstone during his fourth. Learned great-weapon handling remains available, but White-Flame techniques require moral coherence and genuine restitution after grave violation.
-- [[Binder]] unlocks during Zafir's third personal quest and receives its capstone during his fourth. It may direct non-conscious bound forms and freely covenanted beings, never human souls or coerced persons.
+- [[Paladin]] unlocks during Bernard's Act II finale and receives its capstone during his Act III finale. Learned great-weapon handling remains available, but White-Flame techniques require moral coherence and genuine restitution after grave violation.
+- [[Binder]] unlocks during Zafir's Act II finale and receives its capstone during his Act III finale. It may direct non-conscious bound forms and freely covenanted beings, never human souls or coerced persons.
 - [[Custom Vocation Workshop]] opens after two authored vocations are fully mastered. It is a metagame builder, not an in-world school. A saved custom build is itself one field-locked vocation.
 
 Druid, Witch, Monk, and further advanced vocations are deferred. Their absence from Grenzburg's launch framework does not rule on their existence elsewhere.
@@ -132,7 +134,7 @@ Druid, Witch, Monk, and further advanced vocations are deferred. Their absence f
 
 The field party is the player plus up to three active companions. The protagonist remains the controlled character. Companions contribute combat behavior, field capability, conversation, judgement, investigation, and personal quests without replacing player agency.
 
-Inactive companions follow their own routines and remain available unless a defined personal or world state removes them. [[Companion Constitution]] controls relationship and roster rules.
+Inactive companions follow their own routines, assignments, and personal campaigns unless a defined state removes them. They may act, receive support, compromise themselves, or depart without the player's permission, but cannot die unseen. [[Companion Constitution]] and [[Companion Autonomy and Act Convergence]] control those rules.
 
 ## Debt and Freedom
 
@@ -150,8 +152,10 @@ Exact curves, damage, frame data, input mappings, slot budgets, social probabili
 - Training: [[Vocation Training Network]]
 - Legal treatment: [[Public Power and Vocation Law]]
 - Companion relationships: [[Companion Constitution]]
+- Companion campaign architecture: [[Companion Campaign Architecture]]
 - Faction service: [[Factions Overview]]
 - Seasonal availability: [[Season and World-State Constitution]]
+- Identity recognition: [[Player Identity Reactivity Matrix]]
 - Campaign use: [[Grenzburg Campaign Spine]]
 
 ## Navigation

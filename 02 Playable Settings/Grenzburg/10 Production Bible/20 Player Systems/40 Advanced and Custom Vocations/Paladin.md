@@ -17,7 +17,7 @@ vocation_tier: advanced
 native_weapons: [greatsword, maul, poleaxe]
 native_armour: [heavy]
 magic_source: white-flame
-unlock_method: "Bernard Valeon companion quest 3 - Embers Without Excuse"
+unlock_method: "Bernard Valeon Act II finale - Embers Without Excuse"
 account_access: account-wide-after-quest
 training_regions: ["Grenzburg", "Cathedral Close", "Thalmyria"]
 balance_status: qualitative

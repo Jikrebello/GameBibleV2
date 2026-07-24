@@ -13,22 +13,28 @@ tags: [game-ready]
 ---
 # Grenzburg MOC
 
-Grenzburg is the active game project: a silent-protagonist, party-based open-world RPG played across one changing frontier region from autumn through summer. Wave 5 has now blocked its twenty-one-chapter critical path and two playable aftermath quests against the established worldspace, player systems, companions, factions, and narrative state.
+Grenzburg is the active game project: a silent-protagonist, party-based open-world RPG played across one changing frontier region from autumn through a deliberate postwar seasonal cycle. Its twenty-one-chapter critical path gives the world motion, the debtor protagonist preserves player-authored identity, and eight autonomous companion campaigns provide the principal personal narratives.
 
 ## Authority Desk
 
 | Domain | Controlling note |
 |---|---|
 | Game vision, tone, scope, and design laws | [[Grenzburg Game Constitution]] |
+| Player authorship, living-world play, and narrative hierarchy | [[Grenzburg RPG Experience Constitution]] |
 | Player identity, social interface, and vocation rules | [[Player Character Constitution]] |
+| Identity recognition and coverage | [[Player Identity Reactivity Matrix]] |
 | Detailed progression, field play, and vocations | [[Player Systems MOC]] |
 | Critical-path story | [[Grenzburg Campaign Spine]] |
 | Main-campaign production doorway | [[Main Campaign MOC]] |
 | Seasons, cutoffs, persistence, and summer | [[Season and World-State Constitution]] |
+| Postwar seasonal play | [[Postgame Reconstruction Cycle]] |
 | Quest classes, budgets, and metadata | [[Quest and Content Architecture]] |
+| Major sandbox quest pattern | [[Sandbox Quest Pattern]] |
 | Companion rules | [[Companion Constitution]] |
-| Companion familiarity and duo adventures | [[Companion Field Familiarity and Duo Quest Standard]] |
-| Companion roster and quest register | [[Companions MOC]] |
+| Companion campaign shape and party formats | [[Companion Campaign Architecture]] |
+| Companion tracking, autonomy, and act convergence | [[Companion Autonomy and Act Convergence]] |
+| Companion shared history and staging | [[Companion Field Familiarity and Duo Quest Standard]] |
+| Companion roster and eighty-piece register | [[Companions MOC]] and [[Companion Campaign Expansion Register]] |
 | Faction rules | [[Factions Overview]] |
 | Faction quest register | [[Faction Questlines MOC]] |
 | Narrative variables and settlement matrix | [[Narrative State Register]] |
@@ -41,6 +47,7 @@ Grenzburg is the active game project: a silent-protagonist, party-based open-wor
 | Travel and remote crossings | [[Grenzburg Travel and Road-Key Network]] and [[Road Keys and Menhir Paths]] |
 | Seasonal physical states | [[Grenzburg Seasonal Worldspace Matrix]] |
 | Content placement | [[Grenzburg Worldspace Location Register]] |
+| Systemic encounters and discovery | [[World Simulation and Discovery Constitution]] |
 | Production and player maps | [[Grenzburg Map Package]] |
 
 ## Campaign
@@ -67,7 +74,7 @@ Grenzburg is the active game project: a silent-protagonist, party-based open-wor
 | [[Tavio Meran]] | man | [[Rune Fist]] | Early Autumn |
 | [[Zafir ibn Samad]] | man | [[Binder]] | Early Autumn |
 
-The ordinary field party remains the player plus three active companions. Personal companion adventures temporarily become a player-plus-owner duo with explicit pause points. A male player may romance women; a female player may romance men. Same-sex paths become sworn bonds with equivalent power. One romance and one sworn bond may be committed in a playthrough.
+The ordinary field party remains the player plus three active companions. Introductions and short operations retain that party with the owner required; each act finale becomes a player-plus-owner duo. Companions follow autonomous schedules and act at the end of every main act even when untracked. A male player may romance women; a female player may romance men. Same-sex paths become sworn bonds with equivalent power. One romance and one sworn bond may be committed in a playthrough.
 
 ![[Companions.base]]
 
@@ -101,6 +108,7 @@ Every line remains open through approximately quest six. Late internal commitmen
 - [[Grenzburg Seasonal Worldspace Matrix]]
 - [[Grenzburg Worldspace Location Register]]
 - [[Grenzburg Map Package]]
+- [[World Simulation and Discovery Constitution]]
 - [[Fort Tannbruck]]
 - [[The Deep Muster]]
 
@@ -134,7 +142,7 @@ These groups own substantial stories and services without becoming additional gl
 - [[The Duke's Road — Full Adventure]]
 - [[The First Writ — Full Adventure]]
 
-Their starting situations remain local canon. Their names, plots, outcomes, and quest structures are not imported into the main game. The conversion library is craft guidance only.
+Their starting situations remain local canon. Their names, plots, locations, casts, and outcomes are not imported into the main game. [[Sandbox Quest Pattern]] records the structural craft lessons the game may use.
 
 ## Retired Main-Story Material
 
@@ -147,9 +155,9 @@ See [[Grenzburg Pre-Game-Constitution Archive Index]], [[Grenzburg Wave 4 Archiv
 1. **Game constitution:** complete.
 2. **Worldspace constitution:** complete.
 3. **Player systems:** complete at narrative-constitution level; numerical balance remains provisional.
-4. **Companions and factions:** complete at outlined production level; individual companion deep blocks are now underway, with [[Elara Velescar]] and [[Bernard Valeon]] complete.
+4. **Companions and factions:** the eighty-piece autonomous campaign standard is locked. Elara and Bernard retain complete source packages but require architecture retrofits; the other six remain outlined.
 5. **Main campaign:** complete at production-block level; twenty-one chapters and two aftermath quests are wired to controlled state.
-6. **Side content:** follows the companion deep-block sequence; marquee stories, local quests, dungeons, hunts, contracts, and jobs.
+6. **Living world and side content:** allocate identity hooks, systemic encounter decks, marquee stories, local quests, dungeons, hunts, contracts, and jobs without reducing the expanded companion budget.
 7. **Integration:** endings, summer states, intersections, production navigation, and final canon checks.
 
 ## Return

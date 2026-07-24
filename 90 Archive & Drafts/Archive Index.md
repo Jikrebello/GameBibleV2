@@ -45,6 +45,8 @@ Elara's pre-deep-block companion material is preserved under `90 Project History
 
 Bernard's pre-deep-block companion material and retired murder-token treatment are preserved under `90 Project History/2026-07 Bernard Deep Block`. [[Bernard Deep Block Snapshot Index]] records the prior character and foil layer, four quest outlines, shared controls, Paladin and Long Watch references, and the removal of Gerren Vaust and *The Pilgrim's Mark* from active canon.
 
+Grenzburg's pre-experience-constitution controls are preserved under `90 Project History/2026-07 Grenzburg RPG Experience Constitution Pass`. [[Grenzburg RPG Experience Constitution Pass Archive Index]] records the game, player, quest, season, companion, reactivity, narrative-state, navigation, template, Base, and summer controls immediately before the autonomous companion-campaign and systemic-world architecture was established.
+
 Grenzburg's pre-production geography and first concept map are preserved under `50 Grenzburg and Playable Settings/2026-07-20 Pre-Worldspace-Constitution`. [[Grenzburg Pre-Worldspace Archive Index]] records the replaced physical baseline, numerical anchors, Fort Tannbruck and Deep Muster placements, and `Grenzburg Regional Map v1.png` before the city and seven-region worldspace were locked.
 
 Grenzburg's pre-player-systems material is preserved under `50 Grenzburg and Playable Settings/2026-07-20 Pre-Player-Systems-Constitution`. [[Grenzburg Pre-Player-Systems Archive Index]] records the imported `Game Lore Bible`, its original source hash, and the player authority replaced by the field-locked vocation model.

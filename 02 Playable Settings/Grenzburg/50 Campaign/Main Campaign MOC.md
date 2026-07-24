@@ -14,7 +14,7 @@ tags: [game-ready]
 ---
 # Main Campaign MOC
 
-This is the production doorway for Grenzburg's critical path. All twenty-one main chapters and both summer quests are blocked. [[Grenzburg Campaign Spine]] controls the story, [[Grenzburg Chapter and Window Matrix]] controls dependencies and open-world windows, and [[Main Campaign State Matrix]] controls persistent outputs.
+This is the production doorway for Grenzburg's critical path. All twenty-one main chapters and both summer quests are blocked. [[Grenzburg Campaign Spine]] controls the story, [[Grenzburg Chapter and Window Matrix]] controls dependencies and open-world windows, and [[Main Campaign State Matrix]] controls persistent outputs. Companion act chapters converge at the three act-ending gates without becoming mandatory critical-path content.
 
 ## Campaign Authorities
 
@@ -26,6 +26,7 @@ This is the production doorway for Grenzburg's critical path. All twenty-one mai
 - [[Emerald Law-Gem Custody Matrix]]
 - [[Grobi Host Fragmentation Matrix]]
 - [[Muster Anchor Matrix]]
+- [[Companion Autonomy and Act Convergence]]
 
 ![[Main Campaign.base]]
 
@@ -77,12 +78,17 @@ Overview: [[SUMMER AFTERMATH]]
 22. [[Accounts of the Living]]
 23. [[The First Summer Road]]
 
+[[Postgame Reconstruction Cycle]] controls deliberate sequential autumn, winter, spring, and summer play after the first road is chosen.
+
 ## Parallel Content
 
 - [[Companions MOC]]
+- [[Companion Campaign Architecture]]
+- [[Companion Campaign Expansion Register]]
 - [[Faction Questlines MOC]]
 - [[Quest and Content Architecture]]
 - [[Season and World-State Constitution]]
+- [[World Simulation and Discovery Constitution]]
 
 ## Return
 

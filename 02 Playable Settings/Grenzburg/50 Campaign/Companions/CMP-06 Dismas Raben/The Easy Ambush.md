@@ -18,6 +18,9 @@ cutoff_result: transforms
 world_state_outputs: ["dismas_ambush_doctrine", "winter_medicine_state", "ravine_civilian_state"]
 required_locations: ["Split Pine Ravine", "Ashfield Track", "Burnt Antler Camp"]
 blocking_status: outlined
+architecture_status: pending-migration
+companion_content_role: act-finale
+companion_campaign_stage: act-1
 quest_owner: "Dismas Raben"
 quest_sequence: 2
 companion_id: "CMP-06"

@@ -17,7 +17,7 @@ vocation_tier: advanced
 native_weapons: [binding-rings, true-name-cords]
 native_armour: [robes, light]
 magic_source: contract-magic
-unlock_method: "Zafir personal quest 3"
+unlock_method: "Zafir ibn Samad Act II finale - The Copyist's Answer"
 account_access: account-wide-after-quest
 training_regions: ["Grenzburg", "Lantern Ward"]
 balance_status: qualitative
@@ -34,7 +34,7 @@ Its strongest play does not come from owning more servants. It comes from unders
 
 ## In the World
 
-`Binder` is a gameplay umbrella for one field discipline that [[Zafir the Bound Chainmaster|Zafir]] can teach after his third personal quest. Its instruments draw on Ahl-e-Ahd legal metaphysics, but the player form is shaped by Zafir's confrontation with coercion and the inversion of his own craft.
+`Binder` is a gameplay umbrella for one field discipline that [[Zafir the Bound Chainmaster|Zafir]] can teach during his Act II finale. Its instruments draw on Ahl-e-Ahd legal metaphysics, but the player form is shaped by Zafir's confrontation with coercion and the inversion of his own craft.
 
 The vocation's existence does not vindicate Covenant slavery, the Creditor's architecture, patron ownership, or the proposition that formally stated predation becomes moral. [[Contract Magic and True Names]] controls the metaphysics; real consent and objective moral limits control responsible use.
 
@@ -102,10 +102,10 @@ Mechanical power may be lost when the player honors a right to withdraw. That co
 
 ## Mastery Shape
 
-- **Unlock:** Zafir's third quest grants safe rings, release forms, one non-conscious asset, and basic inversion.
+- **Unlock:** Zafir's Act II finale grants safe rings, release forms, one non-conscious asset, and basic inversion.
 - **Practiced:** multiple ring arrangements, better cord directions, breach marks, and a wider prepared roster.
 - **Veteran:** hostile-binding counters, voluntary covenant partners, complex releases, and name shelter.
-- **Capstone:** Zafir's fourth quest resolves his own inverted bond and teaches one master inversion or covenant technique.
+- **Capstone:** Zafir's Act III finale resolves his own inverted bond and teaches one master inversion or covenant technique.
 
 ## Training and Reputation
 

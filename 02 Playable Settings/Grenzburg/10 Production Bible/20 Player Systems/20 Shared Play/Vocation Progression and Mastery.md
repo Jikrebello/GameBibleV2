@@ -69,8 +69,8 @@ Teachers can be institutions, named masters, manuals, relic disciplines, recover
 
 ## Advanced Vocations
 
-- [[Paladin]] opens during Bernard's third personal quest and receives its final sacred doctrine during his fourth.
-- [[Binder]] opens during Zafir's third personal quest and receives its final doctrine during his fourth.
+- [[Paladin]] opens during Bernard's Act II finale and receives its final sacred doctrine during his Act III finale.
+- [[Binder]] opens during Zafir's Act II finale and receives its final doctrine during his Act III finale.
 
 No advanced vocation is required to finish the critical path.
 

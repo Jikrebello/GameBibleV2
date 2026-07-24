@@ -18,6 +18,9 @@ cutoff_result: resolves-offscreen
 world_state_outputs: ["ilyana_arc_outcome", "blackjack_specialist_doctrine", "tannbruck_repairs", "ilyana_summer_destination"]
 required_locations: ["Old River Arsenal", "Fort Tannbruck", "Tann Crossing Farms"]
 blocking_status: outlined
+architecture_status: pending-migration
+companion_content_role: act-finale
+companion_campaign_stage: act-3
 quest_owner: "Ilyana Veshkar"
 quest_sequence: 4
 companion_id: "CMP-02"

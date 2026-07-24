@@ -19,6 +19,9 @@ home_base: ""
 foil: ""
 relationship_theme: ""
 relationship_perks: []
+architecture_status: ""
+embedded_opportunity_target: 0
+ensemble_inputs: []
 faction_line: ""
 faction_branch: ""
 ---
@@ -40,6 +43,12 @@ faction_branch: ""
 
 ## Seasonal or Plot Behavior
 
+## Autonomous Agenda
+
+## Main-Campaign Contributions
+
+## Embedded Opportunities
+
 ## Quest Use
 
 ## Narrative Properties
@@ -52,4 +61,7 @@ faction_branch: ""
 - Home base:
 - Principal foil:
 - Relationship theme:
+- Architecture status:
+- Embedded-opportunity target:
+- Ensemble inputs:
 - Faction line and branch:

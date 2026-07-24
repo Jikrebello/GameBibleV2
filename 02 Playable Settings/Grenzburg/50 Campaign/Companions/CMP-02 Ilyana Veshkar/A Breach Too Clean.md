@@ -18,6 +18,9 @@ cutoff_result: transforms
 world_state_outputs: ["ilyana_breach_method", "tollworks_civilians", "warlock_hall_opinion"]
 required_locations: ["Broken Tollworks", "Warlock Hall", "Black Road Quarry"]
 blocking_status: outlined
+architecture_status: pending-migration
+companion_content_role: act-finale
+companion_campaign_stage: act-1
 quest_owner: "Ilyana Veshkar"
 quest_sequence: 2
 companion_id: "CMP-02"

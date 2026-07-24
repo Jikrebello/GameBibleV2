@@ -1,0 +1,72 @@
+filters:
+  and:
+    - '!file.inFolder("90 Archive & Drafts")'
+    - '!file.inFolder("99 Templates")'
+    - 'appears_in.contains("Grenzburg")'
+    - or:
+        - 'quest_class == "main"'
+        - 'quest_class == "aftermath"'
+properties:
+  chapter_id:
+    displayName: Chapter
+  main_sequence:
+    displayName: Sequence
+  act:
+    displayName: Act
+  story_gate:
+    displayName: Gate
+  estimated_hours:
+    displayName: Hours
+  gameplay_pillars:
+    displayName: Gameplay
+  availability_window:
+    displayName: Window
+  cutoff_result:
+    displayName: Cutoff
+  blocking_status:
+    displayName: Blocking
+  required_states:
+    displayName: Required States
+  optional_state_inputs:
+    displayName: Optional Inputs
+  world_state_outputs:
+    displayName: Outputs
+views:
+  - type: table
+    name: Critical Path
+    filters: 'quest_class == "main"'
+    order:
+      - chapter_id
+      - file.name
+      - act
+      - story_gate
+      - estimated_hours
+      - gameplay_pillars
+      - availability_window
+      - blocking_status
+    sort:
+      - property: main_sequence
+        direction: ASC
+  - type: table
+    name: Summer
+    filters: 'quest_class == "aftermath"'
+    order:
+      - chapter_id
+      - file.name
+      - story_gate
+      - estimated_hours
+      - blocking_status
+    sort:
+      - property: main_sequence
+        direction: ASC
+  - type: table
+    name: State Wiring
+    order:
+      - chapter_id
+      - file.name
+      - required_states
+      - optional_state_inputs
+      - world_state_outputs
+    sort:
+      - property: main_sequence
+        direction: ASC

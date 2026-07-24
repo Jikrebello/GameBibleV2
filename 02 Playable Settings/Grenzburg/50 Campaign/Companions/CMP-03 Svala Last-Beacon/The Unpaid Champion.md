@@ -18,6 +18,9 @@ cutoff_result: transforms
 world_state_outputs: ["svala_weregild_state", "champion_yield_known", "attar_delegation_trust"]
 required_locations: ["Fort Tannbruck", "Muster Green", "West Refuge Hall"]
 blocking_status: outlined
+architecture_status: pending-migration
+companion_content_role: introduction
+companion_campaign_stage: introduction
 quest_owner: "Svala Last-Beacon"
 quest_sequence: 1
 companion_id: "CMP-03"

@@ -18,6 +18,9 @@ cutoff_result: transforms
 world_state_outputs: ["ashira_terror_method", "bent_oak_families", "sunken_causeway_access"]
 required_locations: ["Sunken Causeway", "Bent-Oak Refuge", "Cold Net Cove"]
 blocking_status: outlined
+architecture_status: pending-migration
+companion_content_role: act-finale
+companion_campaign_stage: act-1
 quest_owner: "Ashira bath Melan"
 quest_sequence: 2
 companion_id: "CMP-04"

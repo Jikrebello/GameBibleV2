@@ -31,6 +31,14 @@ properties:
     displayName: Optional Inputs
   world_state_outputs:
     displayName: Outputs
+  identity_hooks:
+    displayName: Identity Hooks
+  encounter_deck:
+    displayName: Encounter Deck
+  persistence_scope:
+    displayName: Persistence
+  postgame_season:
+    displayName: Postgame Season
 views:
   - type: table
     name: Critical Path
@@ -55,6 +63,8 @@ views:
       - file.name
       - story_gate
       - estimated_hours
+      - postgame_season
+      - persistence_scope
       - blocking_status
     sort:
       - property: main_sequence
@@ -67,6 +77,9 @@ views:
       - required_states
       - optional_state_inputs
       - world_state_outputs
+      - identity_hooks
+      - encounter_deck
+      - persistence_scope
     sort:
       - property: main_sequence
         direction: ASC

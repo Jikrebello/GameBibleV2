@@ -18,6 +18,9 @@ cutoff_result: transforms
 world_state_outputs: ["cabinet_integrity", "elara_vardek_verdict", "virelian_relief_state", "danara_veln_state", "vardek_escape_route", "old_tithe_vault_known", "elara_patron_refused", "elara_relationship_commitment"]
 required_locations: ["Blackjack Yard", "Grenzmark Keep", "Chancery House", "Iron Ledger Counting-House", "Market Roofline", "Grain Stairs"]
 blocking_status: blocked
+architecture_status: pending-migration
+companion_content_role: act-finale
+companion_campaign_stage: act-2
 quest_owner: "Elara Velescar"
 quest_sequence: 3
 companion_id: "CMP-01"

@@ -18,6 +18,9 @@ cutoff_result: transforms
 world_state_outputs: ["ilyana_medal_state", "relief_platoon_roll", "koss_ilyana_leverage"]
 required_locations: ["Old Coach Burn", "Split Elm Inn", "Blackjack Yard"]
 blocking_status: outlined
+architecture_status: pending-migration
+companion_content_role: introduction
+companion_campaign_stage: introduction
 quest_owner: "Ilyana Veshkar"
 quest_sequence: 1
 companion_id: "CMP-02"

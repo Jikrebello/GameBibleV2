@@ -15,7 +15,7 @@ tags: [game-ready]
 ---
 # Season and World-State Constitution
 
-This note controls campaign time, quest windows, regional persistence, and summer aftermath. It is not an in-world calendar simulation. Time advances when the player knowingly completes a campaign milestone.
+This note controls campaign time, quest windows, regional persistence, companion act convergence, and the postwar reconstruction cycle. It is not a continuously advancing in-world calendar simulation. Time changes only when the player knowingly crosses a campaign or postgame milestone.
 
 ## Time Model
 
@@ -53,7 +53,8 @@ Warnings describe consequences without spoiling unknown story outcomes.
 | Early Spring | [[Ghor at the Gate]] | [[The Land Reclaimed]] | Reopen routes, rescue Highlake miners, reclaim Tannbruck, and establish the anchor campaign. |
 | Open Spring | Tannbruck reclaimed | [[The Dead March]] commitment | Destroy remaining anchors, resolve companions and factions, hold Last Hearth, and confront Gerhold. |
 | Muster Crisis | [[The Dead March]] | [[The Deep Muster Main Quest|Deep Muster]] victory | Defend three fronts, prepare the final approach, and descend into the mega-dungeon. |
-| Summer Aftermath | General Below stopped | open-ended | See consequences, resolve debt and political settlement, rebuild, explore, and complete surviving content. |
+| Summer Aftermath | General Below stopped | [[The First Summer Road]] completion | See consequences, resolve debt and political settlement, choose the first reconstruction corridor, and open postwar play. |
+| Postwar Cycle | [[The First Summer Road]] | player-controlled and sequential | Revisit autumn, winter, spring, and summer conditions without resetting settled outcomes. |
 
 ## Quest Window States
 
@@ -65,6 +66,8 @@ Every quest at a transition resolves into one of four controlled states:
 - **fails:** its core objective becomes impossible, with a visible consequence and any appropriate continuation.
 
 Seasonal cutoff never means that an NPC simply vanishes without a recorded result. A quest that transforms should feel authored for the new season, not merely receive snow on its terrain.
+
+Companion act chapters follow the same rule. Tracked chapters appear on the transition docket. Untracked companions still act through the deterministic system in [[Companion Autonomy and Act Convergence]]. A missed finale closes its original version and opens only its authored changed-reentry state.
 
 ## World-State Families
 
@@ -84,7 +87,7 @@ Rank, institutional stance, completed sequence, internal alignment, leader state
 
 ### Companion State
 
-Recruitment, active personal stage, Guarded/Open/Trusted/Strained approval, named conflicts, personal outcome, relationship commitment, departure, injury, and ending destination. One romance and one sworn bond use separate commitment slots. [[Narrative State Register]] controls the values.
+Field availability, tracking, campaign stage, preparation assets, readiness, Guarded/Open/Trusted/Strained approval, named conflicts, autonomous results, changed re-entry, personal outcome, relationship commitment, departure, injury, and ending destination. One romance and one sworn bond use separate commitment slots. [[Narrative State Register]] controls the values.
 
 ### Material Survival
 
@@ -127,7 +130,18 @@ Summer is a playable state, not a slideshow attached to the final boss. It begin
 1. [[Accounts of the Living]] counts survivors, settles immediate authority, resolves the service claim, composes five political axes, and establishes companion destinations.
 2. [[The First Summer Road]] travels a changed corridor, selects the first funded reconstruction commitment, and opens persistent summer play.
 
-After those quests, surviving faction, companion, local, dungeon, hunt, and repeatable content remains available where logically possible. Rebuilt services, memorials, displaced populations, hostile remnants, and new patrols must reflect the recorded campaign state.
+After those quests, surviving faction, local, dungeon, hunt, and repeatable content remains available where logically possible. Companion campaigns are settled; only their summer codas and destination scenes remain. Rebuilt services, memorials, displaced populations, hostile remnants, and new patrols must reflect the recorded campaign state.
+
+## Postgame Reconstruction Cycle
+
+[[Postgame Reconstruction Cycle]] opens after [[The First Summer Road]].
+
+- The player advances seasons explicitly at supported rest points.
+- Seasons proceed summer to autumn to winter to spring to summer.
+- There is no direct selector and no automatic advancement.
+- Weather, traversal, ecology, services, prices, ambient populations, and renewable jobs may change.
+- Political results, casualties, companion outcomes, faction settlements, and named dungeon states never reset.
+- The repeating cycle does not accumulate canonical years or reopen companion arcs.
 
 ## No Canonical Political Ending
 
@@ -141,4 +155,6 @@ The active campaign does not select a ducal, Church, Bank, Folk, underworld, coa
 - [[Main Campaign State Matrix]]
 - [[Quest and Content Architecture]]
 - [[Grenzburg Regional Geography]]
+- [[Postgame Reconstruction Cycle]]
+- [[Companion Autonomy and Act Convergence]]
 - [[Grenzburg MOC]]

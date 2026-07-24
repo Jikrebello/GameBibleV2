@@ -18,6 +18,9 @@ cutoff_result: transforms
 world_state_outputs: ["svala_recall_method", "granary_civilian_state", "surrendered_deserter_state"]
 required_locations: ["South Granary", "Tannward", "Grenzburg Wall Circuit"]
 blocking_status: outlined
+architecture_status: pending-migration
+companion_content_role: act-finale
+companion_campaign_stage: act-1
 quest_owner: "Svala Last-Beacon"
 quest_sequence: 2
 companion_id: "CMP-03"

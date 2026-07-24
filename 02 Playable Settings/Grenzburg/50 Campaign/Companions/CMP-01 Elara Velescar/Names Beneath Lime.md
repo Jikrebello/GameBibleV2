@@ -18,6 +18,9 @@ cutoff_result: transforms
 world_state_outputs: ["elara_first_confession", "elara_names_recorded", "elara_public_culpability", "grave_goods_state", "customs_porter_state", "vasko_trace_state"]
 required_locations: ["Blackjack Yard", "Customs Hall", "Quarry Steps", "North Quay Warehouses", "Grain Stairs"]
 blocking_status: blocked
+architecture_status: pending-migration
+companion_content_role: introduction
+companion_campaign_stage: introduction
 quest_owner: "Elara Velescar"
 quest_sequence: 1
 companion_id: "CMP-01"

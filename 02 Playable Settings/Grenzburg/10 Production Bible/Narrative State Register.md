@@ -14,7 +14,7 @@ tags: [game-ready]
 ---
 # Narrative State Register
 
-This note controls companion, faction, relationship, and composite-settlement variables. [[Main Campaign State Matrix]] controls critical-path outputs. Implementation may store them as enums, flags, sets, or authored bundles without changing their meaning.
+This note controls companion, faction, relationship, identity-reactivity, systemic-world, postgame, and composite-settlement variables. [[Main Campaign State Matrix]] controls critical-path outputs. Implementation may store them as enums, flags, sets, or authored bundles without changing their meaning.
 
 ## Companion State
 
@@ -22,22 +22,30 @@ Each companion ID records:
 
 | Field | Controlled values |
 |---|---|
-| recruitment | unavailable, offered, active, declined-repairable, refused, departed, dead |
-| arc_stage | 0, 1, 2, 3, 4 |
+| field_availability | unavailable, offered, available, declined-repairable, refused, departed, dead |
+| campaign_tracking | undiscovered, untracked, tracked, closed |
+| campaign_stage | introduction, act-1, act-2, act-3, summer, complete |
+| architecture_status | pending-migration, reserved, current, retired |
 | approval | Guarded, Open, Trusted, Strained |
-| field_familiarity | named authored observations; never raw time or repeatable-job count |
+| shared_history | named witnessed events and credible reports; never raw time or repeatable-job count |
+| preparation_inputs | named authored set for the current act chapter |
+| readiness | unprepared, viable, prepared, strongly-prepared |
+| autonomous_assignment | named current schedule or intended action |
+| autonomous_result | unresolved or a companion-specific deterministic state |
+| changed_reentry | unavailable, offered, active, complete, or companion-specific closed state |
+| injury_state | none or named authored injury |
 | relationship_scenes | named completed, declined, or closed scenes |
 | unresolved_conflicts | named set, never a hidden number |
 | personal_outcome | unresolved, resolved, compromised, broken, departed, sacrifice |
 | relationship | none, interest, romance-committed, bond-committed |
 | relationship_perk | none or the companion's learned permanent non-slot perk |
 | duo_move | none or the committed companion's active-party move |
-| duo_quest_state | inactive, staged, active, paused, complete, transformed |
-| summer_destination | named authored state from quest four |
+| duo_finale_state | inactive, offered, staged, active, paused, complete, autonomous, transformed |
+| summer_destination | named authored state from the Act III finale and summer settlement |
 
-At most one companion may occupy romance-committed, and at most one same-sex companion may occupy bond-committed. Neither relationship is mandatory. Commitment cannot occur before quest three. A warned conflict and repair state precede departure.
+At most one companion may occupy romance-committed, and at most one same-sex companion may occupy bond-committed. Neither relationship is mandatory. Commitment cannot occur before the Act II finale. A warned conflict and repair state precede player-caused departure. Autonomous departure uses its own legible schedule and aftermath.
 
-Every companion quest sets `duo_quest_state` to staged before dismissing the other active companions. Pausing records its named chapter break and restores normal party management; resuming reforms the duo at the staging point. Temporary NPC allies never write a companion recruitment or active-party slot.
+Every act finale sets `duo_finale_state` to staged before dismissing the other active companions. Pausing records its named chapter break and restores normal party management; resuming reforms the duo at the staging point. Introductions and operations retain the normal party. Temporary NPC allies never write a companion field-availability or active-party slot.
 
 ## Companion IDs
 
@@ -51,6 +59,34 @@ Every companion quest sets `duo_quest_state` to staged before dismissing the oth
 | CMP-06 | [[Dismas Raben]] | man | [[Hunter]] |
 | CMP-07 | [[Tavio Meran]] | man | [[Rune Fist]] |
 | CMP-08 | [[Zafir ibn Samad]] | man | [[Binder]] |
+
+Each ID owns ten formal content slots through [[Companion Campaign Expansion Register]], eight to twelve embedded opportunities, three act-specific autonomous routes, and one main-campaign contribution per act.
+
+## Systemic World State
+
+Systemic encounter history records:
+
+| Field | Controlled use |
+|---|---|
+| encounter_card_history | one-shot, finite-repeat count, repeatable cooldown, or unseen |
+| local_route_condition | open, watched, threatened, obstructed, closed, or restored |
+| local_patrol_state | absent, friendly, neutral, hostile, contested, or displaced |
+| local_supply_pressure | stable, strained, scarce, disrupted, or recovering |
+| local_population_pressure | ordinary, crowded, displaced, evacuated, or returning |
+| encounter_followups | named authored cards unlocked or closed by prior results |
+
+Systemic cards may write only bounded local state. Named deaths, major settlement destruction, faction endings, and companion outcomes require bespoke authored content.
+
+## Postgame State
+
+| Field | Controlled values |
+|---|---|
+| postgame_cycle_unlocked | false or true after [[The First Summer Road]] |
+| postgame_season | summer, autumn, winter, or spring |
+| postgame_advance_available | false or true at a supported rest point |
+| postgame_cycle_count | implementation-only loop count with no canonical-year meaning |
+
+Advancing `postgame_season` changes postwar traversal, ecology, services, prices, populations, and renewable jobs. It never clears campaign, faction, companion, casualty, dungeon, or political outputs.
 
 ## Faction State
 
@@ -93,6 +129,10 @@ Duplicate implementation keys across these authorities are prohibited unless one
 - Faction quest seven displays the exact alignment consequences.
 - Underworld quest six opens a branch prompt; beginning either branch quest seven closes the other branch.
 - Romance and sworn bond use separate slots.
+- Companion act chapters converge at the act-ending main-story gate.
+- Only tracked companion campaigns appear on the consolidated transition docket.
+- Autonomous results are deterministic and cannot kill a companion unseen.
+- Missing a finale closes its original version and writes a changed-reentry state.
 - Main-story completion never requires a faction or relationship commitment.
 
 ## Authored Output Registry
@@ -406,10 +446,15 @@ Duplicate implementation keys across these authorities are prohibited unless one
 ## Navigation
 
 - [[Companions MOC]]
+- [[Companion Campaign Architecture]]
+- [[Companion Autonomy and Act Convergence]]
+- [[Companion Campaign Expansion Register]]
 - [[Faction Questlines MOC]]
 - [[Companion Constitution]]
 - [[Factions Overview]]
 - [[Season and World-State Constitution]]
+- [[World Simulation and Discovery Constitution]]
+- [[Postgame Reconstruction Cycle]]
 - [[Main Campaign State Matrix]]
 - [[Main Campaign MOC]]
 - [[Grenzburg MOC]]

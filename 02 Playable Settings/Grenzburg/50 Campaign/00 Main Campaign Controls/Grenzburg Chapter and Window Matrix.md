@@ -54,7 +54,7 @@ This matrix controls critical-path dependencies, open-world windows, and irrever
 | SQ-01 | [[Accounts of the Living]] | aftermath | MQ-21 | activates summer city routines and settlement | debt, casualties, companions, and five political axes recorded | 2.0 |
 | SQ-02 | [[The First Summer Road]] | postgame-open | SQ-01 | opens persistent summer and reconstruction work | first corridor and funding priority selected | 2.5 |
 
-The twenty-one main chapters target about **40.5 critical-path hours** before optional faction, companion, side, dungeon, hunt, job, and exploration content. Summer consequence play adds about 4.5 hours.
+The twenty-one main chapters target about **40.5 critical-path hours** before optional faction, companion, side, dungeon, hunt, job, and exploration content. Summer consequence play adds about 4.5 hours. Broad play exceeds 100 hours; completing the expanded companion, faction, local, marquee, and systemic libraries may exceed 200.
 
 ## Player-Paced Operations
 
@@ -70,13 +70,25 @@ Warnings need not use identical prose, but must name these consequences:
 
 | Gate | Warning must identify |
 |---|---|
-| MQ-07 | unresolved autumn roads, settlements, exposed NPCs, and quests |
+| MQ-07 | unresolved autumn roads, settlements, exposed NPCs, quests, and every tracked Act I companion campaign |
 | MQ-09 | conversion of the map to winter, closed roads, and transformed autumn content |
-| MQ-15 | Deep Winter quests, siege preparations, and assignments that will resolve during Ghor's assault |
+| MQ-15 | Deep Winter quests, siege preparations, assignments, and every tracked Act II companion campaign that will resolve during Ghor's assault |
 | MQ-20 | every active Muster anchor, its retained power, and all spring quests changed by the Dead March |
-| MQ-21 | party, approach, support state, active anchor powers, and inability to return to ordinary play before closure |
+| MQ-21 | party, approach, support state, active anchor powers, every tracked Act III companion campaign, and inability to return to ordinary play before closure |
 
 The player can cancel every warning and resume the open world.
+
+Only tracked companion campaigns appear on the consolidated warning. Untracked companions still follow their discoverable schedules and resolve through [[Companion Autonomy and Act Convergence]].
+
+## Companion Act Convergence
+
+| Companion chapter | Final player-led window | Autonomous deadline |
+|---|---|---|
+| Act I | before MQ-07 commitment | MQ-07 |
+| Act II | before MQ-15 commitment | MQ-15 |
+| Act III | before MQ-21 commitment | MQ-21 |
+
+Missing a finale closes its original version. Later contact uses its authored changed-reentry state and never replays the event as though the act had waited.
 
 ## Baseline Completion Rule
 
@@ -87,4 +99,6 @@ No companion or faction is mandatory. Every critical chapter supplies a baseline
 - [[Grenzburg Campaign Spine]]
 - [[Main Campaign State Matrix]]
 - [[Season and World-State Constitution]]
+- [[Companion Campaign Architecture]]
+- [[Companion Autonomy and Act Convergence]]
 - [[Main Campaign MOC]]

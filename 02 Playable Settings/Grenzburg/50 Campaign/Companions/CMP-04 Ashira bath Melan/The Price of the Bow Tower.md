@@ -18,6 +18,9 @@ cutoff_result: transforms
 world_state_outputs: ["ashira_liability_state", "qesheth_charter_protected", "human_imprint_policy", "ashira_relationship_commitment"]
 required_locations: ["Chancery House", "Iron Ledger Counting-House", "Warlock Hall"]
 blocking_status: outlined
+architecture_status: pending-migration
+companion_content_role: act-finale
+companion_campaign_stage: act-2
 quest_owner: "Ashira bath Melan"
 quest_sequence: 3
 companion_id: "CMP-04"

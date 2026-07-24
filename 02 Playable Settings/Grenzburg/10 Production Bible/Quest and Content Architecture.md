@@ -14,7 +14,7 @@ tags: [game-ready]
 ---
 # Quest and Content Architecture
 
-This note controls what kinds of quests Grenzburg contains, how they enter the campaign, what metadata they carry, and how much content the game budgets. It replaces the old assumption that every meaningful quest requires three factions, a legal device, or a metaphysical twist.
+This note controls what kinds of quests Grenzburg contains, how they enter the campaign, what metadata they carry, and how much content the game budgets. [[Grenzburg RPG Experience Constitution]] controls the relationship among the main campaign, player-authored play, autonomous companion campaigns, and the systemic world. This note replaces the old assumption that every meaningful quest requires three factions, a legal device, or a metaphysical twist.
 
 [[Grenzburg Worldspace Location Register]] controls physical placement. A later quest may claim a reserved site and define its cast, encounters, and persistent result; it may not silently move that site or create a disposable duplicate of an existing anchor.
 
@@ -41,7 +41,7 @@ Every Grenzburg quest uses one quest class:
 | main | One of the twenty-one critical-path chapters. |
 | aftermath | One of the two required summer consequence quests. |
 | faction | A stage in one of the five deep faction lines. |
-| companion | One of four personal quests belonging to a full companion. |
+| companion | An introduction, operation, act finale, friendship episode, relationship episode, or summer coda in a full companion campaign. |
 | marquee | A large authored local story outside the main, faction, or companion lines. |
 | local | A smaller finite authored quest with a specific local problem. |
 | job | A finite placement or repeatable gameplay contract built from a controlled template. |
@@ -75,6 +75,19 @@ Every active Grenzburg quest note must carry these properties in addition to ord
 | gameplay_pillars | Controlled list drawn from assault, boss, choice, closure, combat, command-response, consequence, defense, diplomacy, dungeon, expedition, exploration, hunt, infiltration, investigation, large-combat, mega-dungeon, memorial, pursuit, reclamation, reconnaissance, reconstruction, rescue, siege, social, social-conflict, survival, travel, traversal, urban-combat, and vertical-traversal. |
 | required_states | States that must exist before the quest starts. |
 | optional_state_inputs | Prior outputs that alter routes, costs, allies, encounters, or consequences without becoming mandatory. |
+| companion_content_role | introduction, operation, act-finale, friendship, relationship, summer-coda, embedded, or empty |
+| companion_campaign_stage | introduction, act-1, act-2, act-3, relationship, summer, or empty |
+| architecture_status | pending-migration, reserved, current, retired, or empty |
+| preparation_inputs | Named evidence, support, practice, route, or material assets that improve a finale. |
+| preparation_threshold | Bespoke participation requirement stated as a readable condition. |
+| autonomous_deadline | Main-story gate at which unresolved companion content advances. |
+| autonomous_resolution | Deterministic authored state or controlling resolution reference. |
+| changed_reentry | Aftermath state offered when the original event resolves without the player. |
+| ensemble_inputs | Companions, Blackjacks, factions, or beneficiaries who may affect an autonomous route. |
+| identity_hooks | Origin, background, vocation, moral, social, or reputation uses credited through [[Player Identity Reactivity Matrix]]. |
+| encounter_deck | District, region, route, or seasonal systemic deck that may call the content. |
+| persistence_scope | none, local-temporary, local-persistent, regional-milestone, or campaign |
+| postgame_season | autumn, winter, spring, summer, multi-season, or empty |
 
 The fields record current design truth. They do not replace readable prose.
 
@@ -115,12 +128,12 @@ After most major chapters, the player receives an open window to pursue parallel
 | Main | 21 | Two prologue, six Act I, seven Act II, six Act III. |
 | Aftermath | 2 | Required summer consequence and reopening quests. |
 | Faction | 40-50 | Five lines of eight to ten quests. |
-| Companion | 32 | Four per companion, excluding reactive scenes. |
+| Companion | 80 authored; up to 74 playable in one run | Ten formal pieces per companion, excluding 8-12 embedded opportunities each. |
 | Marquee | 24 | Distributed across city and all seven exterior subregions. |
 | Local | 36 | Finite authored problems and discoveries. |
 | Job templates | 12 | Most placements finite; selected hunts, escorts, and bounties repeat. |
 
-Faction and companion quests may achieve marquee depth, but they remain counted under their owning line. The budget avoids double-counting the same quest as three kinds of content.
+Faction and companion quests may achieve marquee depth, but they remain counted under their owning line. The expanded companion budget is added on top of the marquee, local, faction, and job budgets rather than replacing them.
 
 ## Job Templates
 
@@ -154,19 +167,38 @@ At least one quest per line must be primarily social or investigative, one must 
 
 [[Faction Questlines MOC]] is the count and order authority. All five lines remain open through quest six; later internal lock-ins must display exact consequences.
 
-## Companion-Line Standard
+## Companion-Campaign Standard
 
-Each companion owns four major personal quests. Ordinary approval scenes and romance or bond conversations do not consume those four slots. [[Companion Constitution]] controls structure and eligibility.
+[[Companion Campaign Architecture]] controls the eighty-piece budget and maps each old four-quest line into one introduction and three act finales.
 
-Every personal quest uses the duo format from [[Companion Field Familiarity and Duo Quest Standard]]: the player and quest owner are the only full party members from staging-point acceptance until completion or an authored pause. Temporary NPC allies operate outside the companion limit. Encounter density, traversal, information, revive pressure, and boss phases must work for every player vocation with one companion.
+- Introductory cases and short operations require the owner but retain the ordinary field party.
+- Act finales use the player-plus-owner duo.
+- Friendship episodes are available to every player.
+- One additional relationship episode follows committed romance or sworn bond.
+- Summer codas reflect settled outcomes without reopening them.
+- Each act finale has three to five useful preparation opportunities and a bespoke participation threshold.
+- Every unresolved act chapter advances at the act-ending main-story gate.
+- Missing a finale produces deterministic autonomous resolution and changed re-entry rather than indefinite waiting.
 
-Deep-blocked companion notes additionally record `field_experience_gate`, `companion_required`, `duo_quest`, `pause_points`, and `relationship_gate`. These fields do not apply to other quest classes.
+[[Companion Campaign Expansion Register]] is the formal count authority. [[Companion Autonomy and Act Convergence]] controls tracking, deadlines, cross-support, and no-unseen-death rules.
 
-[[Companions MOC]] is the count, order, and blocking-status authority for the thirty-two registered personal quests.
+Existing companion notes retain `architecture_status: pending-migration` until their individual retrofit or deep block.
+
+## Identity-Reactivity Standard
+
+Implementation-ready main, faction, companion, marquee, local, and training content records applicable `identity_hooks`. A hook counts only when it changes access, risk, price, trust, information, traversal, encounter behavior, or quest method.
+
+[[Player Identity Reactivity Matrix]] controls the campaign-wide 10/8/8 coverage targets. A critical identity restriction always has a credible workaround.
+
+## Systemic-World Boundary
+
+Systemic encounters are authored cards rather than formal quests unless their scope develops into a named chain. [[World Simulation and Discovery Constitution]] controls selection, density, repetition, and persistence.
+
+Named one-shot discoveries remain changed. Only credible patrols, travelers, weather incidents, hunts, camps, bounties, and other designated patterns may repeat.
 
 ## Conversion-Library Boundary
 
-Blocked adventure conversions remain independent references and craft studies. Grenzburg's game quests may learn from their clarity, encounter construction, fail-forward logic, or research discipline. They do not import conversion names, plots, locations, NPCs, or canonical outcomes into the main game unless a later explicit integration pass says so.
+Blocked adventure conversions remain independent references and craft studies. [[Sandbox Quest Pattern]] records the approved structural lessons: central truth, useful preparation, multiple approaches, legible state, fail-forward play, and persistent endings. Grenzburg does not import conversion names, plots, locations, NPCs, or canonical outcomes unless a later explicit integration pass says so.
 
 ## Quality Tests
 
@@ -177,6 +209,9 @@ Blocked adventure conversions remain independent references and craft studies. G
 - The primary gameplay mode changes often enough to avoid dialogue-combat-dialogue monotony.
 - The reward supports money, gear, vocation, access, relationship, or world state rather than only experience points.
 - The result is visible somewhere the player can revisit.
+- A major quest records any identity hooks it claims.
+- A companion act finale visibly uses its preparation assets.
+- Systemic content does not silently decide named deaths, companion arcs, faction endings, or major settlement survival.
 
 ## Navigation
 
@@ -187,7 +222,13 @@ Blocked adventure conversions remain independent references and craft studies. G
 - [[Factions Overview]]
 - [[Faction Questlines MOC]]
 - [[Companion Constitution]]
+- [[Companion Campaign Architecture]]
+- [[Companion Autonomy and Act Convergence]]
 - [[Companion Field Familiarity and Duo Quest Standard]]
+- [[Companion Campaign Expansion Register]]
 - [[Companions MOC]]
+- [[Player Identity Reactivity Matrix]]
+- [[World Simulation and Discovery Constitution]]
+- [[Sandbox Quest Pattern]]
 - [[Narrative State Register]]
 - [[Grenzburg MOC]]

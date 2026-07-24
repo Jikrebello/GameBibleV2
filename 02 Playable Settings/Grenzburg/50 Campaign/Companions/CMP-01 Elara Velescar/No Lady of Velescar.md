@@ -18,6 +18,9 @@ cutoff_result: transforms
 world_state_outputs: ["elara_arc_outcome", "velescar_land_state", "velescar_burial_state", "velescar_title_state", "burial_repair_fund", "old_tithe_vault_state", "elara_summer_destination", "elara_relationship_perk", "elara_duo_move", "delver_duelist_blueprint"]
 required_locations: ["Blackjack Yard", "Ledger Quays", "Old Tithe Vault", "Hall of Petitions"]
 blocking_status: blocked
+architecture_status: pending-migration
+companion_content_role: act-finale
+companion_campaign_stage: act-3
 quest_owner: "Elara Velescar"
 quest_sequence: 4
 companion_id: "CMP-01"

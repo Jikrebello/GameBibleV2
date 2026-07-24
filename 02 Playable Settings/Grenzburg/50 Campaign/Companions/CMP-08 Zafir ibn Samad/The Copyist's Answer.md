@@ -18,6 +18,9 @@ cutoff_result: transforms
 world_state_outputs: ["zafir_binder_unlocked", "samira_status", "living_binding_doctrine", "zafir_relationship_commitment"]
 required_locations: ["Hall of Petitions", "Warlock Hall", "Chain House"]
 blocking_status: outlined
+architecture_status: pending-migration
+companion_content_role: act-finale
+companion_campaign_stage: act-2
 quest_owner: "Zafir ibn Samad"
 quest_sequence: 3
 companion_id: "CMP-08"

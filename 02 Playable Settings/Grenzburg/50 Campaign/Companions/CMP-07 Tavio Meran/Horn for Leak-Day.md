@@ -18,6 +18,9 @@ cutoff_result: resolves-offscreen
 world_state_outputs: ["tavio_arc_outcome", "great_forge_state", "leak_warden_service", "tavio_summer_destination"]
 required_locations: ["Great Forge", "Last Hearth", "Deep Muster Approaches"]
 blocking_status: outlined
+architecture_status: pending-migration
+companion_content_role: act-finale
+companion_campaign_stage: act-3
 quest_owner: "Tavio Meran"
 quest_sequence: 4
 companion_id: "CMP-07"

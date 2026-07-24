@@ -9,12 +9,12 @@ culture: []
 related_factions: ["Blackjack Corps"]
 appears_in: ["Grenzburg"]
 needs: []
-aliases: ["Companion Affinity and Duo Quest Standard"]
+aliases: ["Companion Affinity and Duo Quest Standard", "Companion Shared History and Party Standard"]
 tags: [game-ready]
 ---
 # Companion Field Familiarity and Duo Quest Standard
 
-This note controls how companions join and leave the field party, how personal quests unlock, and how the thirty-two companion adventures are staged. [[Companion Constitution]] controls the roster and moral contract; individual companion references define their authored observations and rewards.
+This note controls how companions join and leave the field party, how shared history develops, how personal campaigns become tracked, and when content uses the ordinary party or an intimate duo. [[Companion Campaign Architecture]] controls the eighty formal pieces. [[Companion Autonomy and Act Convergence]] controls deadlines and unassisted progression.
 
 ## Party Management
 
@@ -40,7 +40,7 @@ A **Field Familiarity beat** is a distinct witnessed event belonging to one of t
 5. a companion-specific intervention or observation;
 6. a camp conversation unlocked by prior field experience.
 
-Only companions in the active party witness ordinary field beats. Public campaign transformations may inform later dialogue, but they do not pretend the companion personally saw a choice they missed.
+Only companions in the active party witness private field beats. Public campaign transformations, company reports, witnesses, records, and visible consequences may inform later dialogue without pretending the companion personally saw a choice they missed.
 
 Idle time, repeated resting, repeated crafting, and repeated job-template outcomes do not advance familiarity. A repeatable activity may provide one authored first-time observation, never an unlimited source.
 
@@ -55,33 +55,47 @@ Approval remains qualitative:
 
 The interface never displays a number. When a threshold is reached, the companion comments in context and later asks to speak at a camp or hub. Personal history is disclosed in stages; recruitment never delivers the whole biography.
 
-## Personal Quest Release
+## Campaign Tracking and Participation
 
-Every personal quest requires:
+A personal campaign becomes tracked when the player accepts its introductory case, explicitly promises help, or manually tracks a discovered personal matter.
 
-- completion of the preceding companion stage;
-- its named seasonal or campaign window;
-- a short list of companion-specific Field Familiarity beats;
-- no unresolved conflict explicitly marked as blocking that disclosure.
+Shared-history gates control:
 
-Meeting a gate places a **wants to speak** notice at the next valid hub. It does not interrupt another closed quest. A strained companion receives a repair conversation before the quest can begin; the player is never required to guess which action caused the block.
+- whether the player is invited into a companion's act finale;
+- which preparation opportunities and disclosures are available;
+- approval, repair, friendship, romance, and sworn-bond access;
+- which player-led resolutions remain credible.
 
-## Duo Quest Rule
+They do not control whether the companion acts. Every unresolved chapter advances at its act-ending main-story gate.
 
-All thirty-two personal quests are designed as intimate duo adventures.
+Meeting a conversational gate places a **wants to speak** notice at the next valid hub. It does not interrupt another closed quest. A strained companion receives a named repair conversation rather than a hidden numerical block.
 
-1. The quest begins at a named staging point after a warning that the current party will change.
-2. Accepting forms a fixed party of the player and the quest-owning companion.
-3. Other companions return to their assigned hub and cannot enter the personal quest's central scenes.
-4. The duo remains fixed until completion or an authored pause point.
-5. Pausing returns the owner to the staging point and restores ordinary party management.
-6. Resuming reforms the duo and restores the recorded quest phase.
+## Party Formats
+
+### Ordinary-Party Companion Content
+
+Introductory cases and short act operations require the owning companion but retain the player plus up to three companions. The owner controls defining conversations and decisions; other companions may contribute without replacing them.
+
+### Duo Act Finales
+
+Each of the twenty-four act finales uses an intimate duo:
+
+1. the finale begins at a named staging point after a party-change warning;
+2. accepting forms a fixed party of the player and quest owner;
+3. other companions return to their assigned destinations;
+4. the duo remains fixed until completion or an authored pause;
+5. pausing restores ordinary party management;
+6. resuming reforms the duo and restores the recorded phase.
+
+### Relationship and Friendship Episodes
+
+These are one-on-one authored scenes or activities. They need not dismiss the party until their private staging moment and need not include combat.
 
 Temporary guides, witnesses, prisoners, soldiers, animals, and rescued people exist outside the companion limit. They may follow, fight, flee, or require protection, but they do not use companion progression, relationship perks, inventory authority, or party dialogue rules.
 
 ## Encounter Contract
 
-Every companion quest must be completable by the player and one companion across all player vocations.
+Every duo act finale must be completable by the player and one companion across all player vocations. Ordinary-party content uses the standard field-party encounter budget.
 
 - Enemy density, flanking pressure, revive expectations, and boss phases assume two full combatants.
 - A companion may provide a distinctive shortcut, callout, or coordinated action, but not the only route through a required obstacle.
@@ -92,7 +106,7 @@ Every companion quest must be completable by the player and one companion across
 
 ## Intimacy and Reactivity
 
-The duo format reserves conversational space for the quest owner. Travel dialogue, investigation, failure, recovery, and the final decision should reveal the relationship through action rather than inserting unrelated party commentary.
+The duo finale reserves conversational space for the quest owner. Travel dialogue, investigation, failure, recovery, and the final decision should reveal the relationship through action rather than inserting unrelated party commentary.
 
 Other companions react through:
 
@@ -102,6 +116,8 @@ Other companions react through:
 - faction or campaign scenes outside the personal adventure.
 
 No companion interrupts another companion's confession, relationship commitment, or chosen-future scene.
+
+Other companions may materially affect an autonomous route through authored cross-support outside the player-led finale.
 
 ## Relationship Rewards
 
@@ -115,19 +131,26 @@ The player may hold one romance perk and one sworn-bond perk. Learned permanent 
 
 ## Companion-Quest Properties
 
-Deep-blocked companion quests record:
+Companion content records:
 
 | Property | Use |
 |---|---|
-| `field_experience_gate` | Named authored observations required before the quest can be offered. |
-| `companion_required` | The quest-owning companion; no other full companion is permitted. |
-| `duo_quest` | `true` for every personal quest. |
+| `field_experience_gate` | Named shared-history observations relevant to disclosure or participation. |
+| `companion_required` | The owning companion required in the field or private scene. |
+| `duo_quest` | `true` for act finales and explicit one-on-one content; `false` for introductions and operations. |
 | `pause_points` | Named safe phases where ordinary party management can resume. |
 | `relationship_gate` | Any approval, conflict, sex, or commitment requirement; empty when none. |
+| `companion_content_role` | introduction, operation, act-finale, friendship, relationship, summer-coda, or embedded |
+| `preparation_inputs` | Named assets that improve an act finale. |
+| `preparation_threshold` | Bespoke qualitative condition for player participation. |
+| `autonomous_deadline` | Act-ending main-story gate. |
+| `changed_reentry` | Authored aftermath if the original event resolves without the player. |
 
 ## Navigation
 
 - [[Companion Constitution]]
+- [[Companion Campaign Architecture]]
+- [[Companion Autonomy and Act Convergence]]
 - [[Companions MOC]]
 - [[Companion Reactive Scene Register]]
 - [[Narrative State Register]]

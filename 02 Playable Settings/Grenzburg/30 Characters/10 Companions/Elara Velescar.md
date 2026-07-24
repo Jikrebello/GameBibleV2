@@ -3,23 +3,37 @@ type: character
 status: canon
 canon_level: local
 visibility: author-only
-era: ["Present Day"]
-region: ["Grenzburg", "Virelia"]
-culture: ["Eclessian", "Virelian"]
-related_factions: ["Blackjack Corps", "Medori Bank", "House Velescar", "Vardek household"]
-appears_in: ["Grenzburg"]
+era:
+  - Present Day
+region:
+  - Grenzburg
+  - Virelia
+culture:
+  - Eclessian
+  - Virelian
+related_factions:
+  - Blackjack Corps
+  - Medori Bank
+  - House Velescar
+  - Vardek household
+appears_in:
+  - Grenzburg
 needs: []
-aliases: ["Lady Elara"]
-tags: [game-ready]
-companion_id: "CMP-01"
+aliases:
+  - Lady Elara
+tags:
+  - game-ready
+companion_id: CMP-01
 sex: woman
-vocation: "Slayer"
-combat_variant: "Delver-Duelist"
-recruitment_window: "Early Autumn"
-home_base: "Blackjack Yard"
-foil: "Ashira bath Melan"
-relationship_theme: "adventure between equals"
-relationship_perks: ["Equal Footing", "Witness at My Back"]
+vocation: Slayer
+combat_variant: Delver-Duelist
+recruitment_window: Early Autumn
+home_base: Blackjack Yard
+foil: Ashira bath Melan
+relationship_theme: adventure between equals
+relationship_perks:
+  - Equal Footing
+  - Witness at My Back
 ---
 # Elara Velescar
 

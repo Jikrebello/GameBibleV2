@@ -18,6 +18,9 @@ cutoff_result: transforms
 world_state_outputs: ["tavio_fair_duel_result", "lio_varcen_state", "crucible_exposure", "tavio_relationship_commitment"]
 required_locations: ["Muster Green", "Bridge Market", "Mercy Hospital"]
 blocking_status: outlined
+architecture_status: pending-migration
+companion_content_role: act-finale
+companion_campaign_stage: act-2
 quest_owner: "Tavio Meran"
 quest_sequence: 3
 companion_id: "CMP-07"

@@ -18,6 +18,9 @@ cutoff_result: transforms
 world_state_outputs: ["svala_trial_verdict", "rimewing_training_state", "svala_relationship_commitment"]
 required_locations: ["Tuskway Redoubt", "Ghost-Foot Stair", "Highlake"]
 blocking_status: outlined
+architecture_status: pending-migration
+companion_content_role: act-finale
+companion_campaign_stage: act-2
 quest_owner: "Svala Last-Beacon"
 quest_sequence: 3
 companion_id: "CMP-03"

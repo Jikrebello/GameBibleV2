@@ -18,6 +18,9 @@ cutoff_result: transforms
 world_state_outputs: ["zafir_humane_terms_verdict", "debtor_workers_state", "workshop_winter_output"]
 required_locations: ["Guild Court", "Debtors' Row", "Grenzburg Underways"]
 blocking_status: outlined
+architecture_status: pending-migration
+companion_content_role: act-finale
+companion_campaign_stage: act-1
 quest_owner: "Zafir ibn Samad"
 quest_sequence: 2
 companion_id: "CMP-08"
