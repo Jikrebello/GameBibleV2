@@ -1,7 +1,7 @@
 ---
 type: reference
-status: canon
-canon_level: local
+status: archived
+canon_level: obsolete
 visibility: author-only
 era: ["Present Day"]
 region: ["Grenzburg"]
@@ -11,6 +11,10 @@ appears_in: ["Grenzburg"]
 needs: []
 aliases: []
 tags: [game-ready]
+archive_reason: "Snapshot before Elara's ten-piece companion campaign retrofit"
+archived_from: "02 Playable Settings/Grenzburg/50 Campaign/Companions/Companion Reactive Scene Register.md"
+archived_on: 2026-07-24
+superseded_by: "[[Companion Reactive Scene Register]]"
 ---
 # Companion Reactive Scene Register
 
@@ -57,25 +61,6 @@ At act endings, tracked campaigns show a consolidated readiness entry. Untracked
 | [[Tavio Meran]] | turns training into friendly contest while refusing to discuss the championship gauntlet | compares fair combat with siege necessity and tests surrender cues with Svala | treats Muster engines as unsafe force to vent, not opponents to impress | works as leak-warden, teaches privately under ban, or chases an unregulated circuit |
 | [[Zafir ibn Samad]] | explains Grenzburg law precisely while calling owned service orderly | challenges Bernard's confidence in voluntary mercy and Lucia's productive ownership | identifies Gerhold's command as compulsory service made absolute | prepares return to Iqashar, preserves bounded restraint, or leaves to build another law house |
 
-## Migrated Campaigns
-
-### Elara Velescar
-
-[[Elara Companion Campaign]] controls Elara's ten formal pieces, ten embedded opportunities, three act deadlines, deterministic autonomous route, and changed re-entry. Her embedded register is:
-
-1. a Southwood route reading in [[Roads Worth Saving]];
-2. a winter roofline contribution in [[The City in Siege]];
-3. a living-claims provenance index in [[The Land Reclaimed]];
-4. burial-name support in [[Bread and Burial]];
-5. a logistics copy in [[Lucia's Long Book]];
-6. matched burial records in [[The Names They Buried]];
-7. a local finder's-right dispute;
-8. [[Grenzburg Worldspace Location Register#Elara Embedded Claims|Ropehouse Ruin exploration]];
-9. the Blackjack Yard Named Property Board;
-10. an Abandoned Pack systemic encounter.
-
-Only distinct authored instances count. Repeatable jobs, idle travel, and recycled encounter cards do not advance her campaign.
-
 ## Foil Pair Progression
 
 | Pair | First disagreement | Midgame reversal | Late respect |
@@ -100,7 +85,6 @@ Summer codas settle destinations. Repeating reconstruction seasons may change am
 - [[Companion Campaign Architecture]]
 - [[Companion Autonomy and Act Convergence]]
 - [[Companion Field Familiarity and Duo Quest Standard]]
-- [[Elara Companion Campaign]]
 - [[Elara Banter and Reactivity]]
 - [[Bernard Banter and Reactivity]]
 - [[Narrative State Register]]

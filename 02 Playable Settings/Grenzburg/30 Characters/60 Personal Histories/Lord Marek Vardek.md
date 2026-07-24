@@ -57,9 +57,9 @@ His restoration offer includes:
 
 ## Winter Delegation
 
-Vardek enters Grenzburg during Deep Winter with genuine grain warrants and a respectable relief household. He expects city need to make seizure politically expensive. The travelling cabinet in [[The Patron's Cabinet]] contains both relief instruments and the complete internal chain of the grave economy.
+Vardek enters Grenzburg during Deep Winter with genuine grain warrants and a respectable relief household. He expects city need to make seizure politically expensive. [[Eight Honest Warrants]] establishes the relief route and the concealed payment strip without making the food fraudulent. The travelling cabinet in [[The Patron's Cabinet]] contains both relief instruments and the complete internal chain of the grave economy.
 
-He attempts to control [[Danara Veln]], silence [[Kata Belyn]], and preserve [[Vasko Dren]] only while each remains useful.
+He attempts to control [[Danara Veln]], silence [[Kata Belyn]], and preserve [[Vasko Dren]] or [[Daria Keln]] only while each remains useful.
 
 ## Confrontation Rules
 
@@ -84,8 +84,12 @@ Vardek's relief work remains good for the people it feeds. It does not neutraliz
 - [[Elara Velescar]]
 - [[House Velescar]]
 - [[Vasko Dren]]
+- [[Daria Keln]]
 - [[Kata Belyn]]
 - [[Danara Veln]]
+- [[Eight Honest Warrants]]
 - [[The Patron's Cabinet]]
+- [[Sixty-Three Claims]]
 - [[No Lady of Velescar]]
+- [[Elara Companion Campaign]]
 - [[Companions MOC]]

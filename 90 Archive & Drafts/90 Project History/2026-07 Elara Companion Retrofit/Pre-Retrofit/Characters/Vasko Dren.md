@@ -1,7 +1,7 @@
 ---
 type: character
-status: canon
-canon_level: local
+status: archived
+canon_level: obsolete
 visibility: author-only
 era: ["Present Day"]
 region: ["Grenzburg", "Virelia"]
@@ -20,6 +20,10 @@ home_base: ""
 foil: "Elara Velescar"
 relationship_theme: ""
 relationship_perks: []
+archive_reason: "Snapshot before Elara's ten-piece companion campaign retrofit"
+archived_from: "02 Playable Settings/Grenzburg/30 Characters/60 Personal Histories/Vasko Dren.md"
+archived_on: 2026-07-24
+superseded_by: "[[Vasko Dren]]"
 ---
 # Vasko Dren
 
@@ -49,19 +53,19 @@ His grievance never requires him to burn evidence, threaten families, continue g
 
 ### Names Beneath Lime
 
-Vasko directs the warehouse clearance and barge escape. He has no protected exit. Covering the skiff, river stairs, and stern route can produce capture or death during the introductory case. If he escapes, he reaches Seven Mounds. If captured or killed, [[Daria Keln]] assumes field control and his state is never reversed.
+Vasko directs the warehouse clearance and barge escape. The duo can identify and wound him, but the quest does not require an arbitrary protected duel. He reaches the Seven Mounds only if his route remains functional; otherwise a lieutenant carries his orders while Vasko approaches by another road.
 
 ### A House Fed by Bones
 
-Vasko leads the active excavation only if still free and becomes a full confrontation. He may be captured, killed, or escape. Capture adds testimony and a route map to the winter chapter. Death preserves physical evidence but loses his testimony. Escape lets him reinforce later opposition.
+Vasko leads the active excavation and becomes a full confrontation. He may be captured, killed, or escape. Capture adds testimony and a route map to quest three. Death preserves physical evidence but loses his testimony. Escape lets him reinforce later opposition.
 
 ### The Patron's Cabinet
 
-If free, Vasko manages Vardek's physical escape and can be defeated on the frozen quays. If already captured or dead, Daria or named Vardek guards perform the route without changing the evidence logic.
+If free, Vasko manages Vardek's physical escape and can be defeated on the frozen quays. If already captured or dead, named Vardek guards perform the route without changing the evidence logic.
 
 ### No Lady of Velescar
 
-If still free, Vasko leads the race through Old Tithe Vault and serves as its human boss. Otherwise Daria, a surviving steward, or Vardek's heirs direct the vault crew according to their established states. No branch resurrects or releases him merely to preserve a set piece.
+If still free, Vasko leads the race through Old Tithe Vault and serves as its human boss. Otherwise the vault crew is led by Vardek's senior retainer. No branch resurrects or releases him merely to preserve a set piece.
 
 ## Defeat and Surrender
 
@@ -70,12 +74,10 @@ Vasko surrenders only when escape routes, demolition leverage, and armed support
 ## Navigation
 
 - [[Elara Velescar]]
-- [[Elara Companion Campaign]]
 - [[House Velescar]]
 - [[Lord Marek Vardek]]
 - [[Names Beneath Lime]]
 - [[A House Fed by Bones]]
 - [[The Patron's Cabinet]]
 - [[No Lady of Velescar]]
-- [[Daria Keln]]
 - [[Companions MOC]]

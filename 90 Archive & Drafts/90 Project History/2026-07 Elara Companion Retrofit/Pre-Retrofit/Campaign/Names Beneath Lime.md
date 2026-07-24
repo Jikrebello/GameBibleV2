@@ -1,7 +1,7 @@
 ---
 type: quest
-status: canon
-canon_level: local
+status: archived
+canon_level: obsolete
 visibility: author-only
 era: ["Present Day"]
 region: ["Grenzburg", "Ledger Quays", "Lantern Ward"]
@@ -15,11 +15,10 @@ act: act-1
 availability_window: ["Early Autumn", "Open Autumn"]
 repeatability: one-shot
 cutoff_result: transforms
-world_state_outputs: ["elara_introduction_complete", "elara_first_confession", "elara_names_recorded", "elara_public_culpability", "elara_direction", "grave_goods_state", "customs_porter_state", "vasko_trace_state", "vasko_dren_state"]
-reward_unlocks: ["Appraiser's Cut", "Elara appraisal service"]
+world_state_outputs: ["elara_first_confession", "elara_names_recorded", "elara_public_culpability", "grave_goods_state", "customs_porter_state", "vasko_trace_state"]
 required_locations: ["Blackjack Yard", "Customs Hall", "Quarry Steps", "North Quay Warehouses", "Grain Stairs"]
 blocking_status: blocked
-architecture_status: migrated
+architecture_status: pending-migration
 companion_content_role: introduction
 companion_campaign_stage: introduction
 quest_owner: "Elara Velescar"
@@ -30,25 +29,19 @@ faction_branch: ""
 chapter_id: ""
 main_sequence: 0
 story_gate: investigation
-estimated_hours: 1.5
+estimated_hours: 1.75
 gameplay_pillars: [investigation, infiltration, pursuit, rescue, urban-combat]
 required_states: ["elara_recruited"]
 optional_state_inputs: ["underways_route_access", "church_record_trust", "blackjack_rank_admitted", "rooftop_network_state"]
-field_experience_gate: ["elara_first_outing_complete"]
+field_experience_gate: ["elara_ruin_observed", "elara_property_choice_observed", "elara_shared_danger_observed"]
 companion_required: "Elara Velescar"
-duo_quest: false
+duo_quest: true
 pause_points: ["Customs Inquiry Complete", "Warehouse Located"]
-relationship_gate: "Open approval or repaired Strained conflict; no attraction required"
-preparation_inputs: []
-preparation_threshold: ""
-autonomous_deadline: "The Last Convoy"
-autonomous_resolution: "Elara follows the impounded goods alone and reaches Seven Mounds with weak evidence"
-changed_reentry: "The Scarred Mounds introduces the crime after the Act I autonomous result"
-ensemble_inputs: ["Bernard Valeon", "Dismas Raben", "Ilyana Veshkar", "Ashira bath Melan", "Tavio Meran", "Zafir ibn Samad", "Svala Last-Beacon"]
-identity_hooks: []
-encounter_deck: []
-persistence_scope: local-persistent
-postgame_season: ""
+relationship_gate: "Open approval or repaired Strained conflict"
+archive_reason: "Snapshot before Elara's ten-piece companion campaign retrofit"
+archived_from: "02 Playable Settings/Grenzburg/50 Campaign/Companions/CMP-01 Elara Velescar/Names Beneath Lime.md"
+archived_on: 2026-07-24
+superseded_by: "[[Names Beneath Lime]]"
 ---
 # Names Beneath Lime
 
@@ -60,9 +53,9 @@ The quest is designed for the player and Elara only. Jonas Feld and any rescued 
 
 ## Unlock and Staging
 
-Elara offers the quest at the [[Blackjack Yard]] after one distinct meaningful outing recorded by [[Elara Field Familiarity and Relationships]]. A named discovery, consequential property decision, or dangerous shared success is sufficient. She has seen a Customs Hall notice describing lime-caked Virelian goods with handling cuts she recognizes.
+Elara offers the quest at the [[Blackjack Yard]] after the required Field Familiarity beats from [[Elara Field Familiarity and Relationships]]. She has seen a Customs Hall notice describing lime-caked Virelian goods with handling cuts she recognizes.
 
-Elara is required, but the normal field party remains available. The player may prepare equipment, darts, warrants, and faction help without dismissing other companions. Ensemble companions may contribute methods and reactions, but Elara owns the recognition, confession, and custody decision.
+Accepting the departure warning dismisses the other active companions. The player may prepare equipment, darts, warrants, and faction help before forming the duo.
 
 ## Immediate Situation
 
@@ -95,7 +88,7 @@ Fire begins only after the warehouse is compromised or the clock reaches 0. Resc
 
 ## Beginning: The Customs Crate
 
-The party enters Customs Hall through ordinary public access. Three independent observations establish that Jonas did not steal the goods:
+The duo enters Customs Hall through ordinary public access. Three independent observations establish that Jonas did not steal the goods:
 
 1. Elara's shallow triangular survey cut appears beneath later fence marks.
 2. Lime on the lower crate matches grave-stabilizing mix rather than dock packing lime.
@@ -118,7 +111,7 @@ The player may suspend the quest after identifying the handcart route. Elara wai
 
 ## Middle: The Handcart Trail
 
-The trail runs from Ledger Quays into Quarry Steps and back toward the North Quay Warehouses. The party can reconstruct it through any two of:
+The trail runs from Ledger Quays into Quarry Steps and back toward the North Quay Warehouses. The duo can reconstruct it through any two of:
 
 - blue cord fibers caught on a Quarry Steps rail;
 - a wheel with one square repair mark;
@@ -132,7 +125,7 @@ No failed check loses the trail.
 
 ### Pause Point: Warehouse Located
 
-The party may withdraw before entering the warehouse perimeter. Resuming begins with the chosen approach and current pressure states.
+The duo may withdraw before entering the warehouse perimeter. Resuming begins with the chosen approach and current pressure states.
 
 ## The Black Lime Warehouse
 
@@ -146,7 +139,7 @@ The receiving site is a leased interior within the North Quay Warehouses, known 
 
 **Roof infiltration:** the Market Roofline network or ordinary rented climbing gear reaches the crane loft and skylights.
 
-**False buyer:** Virelian culture, Merchant/Craft knowledge, or Deception can gain an escorted viewing. Failure begins combat deeper inside rather than ejecting the party.
+**False buyer:** Virelian culture, Merchant/Craft knowledge, or Deception can gain an escorted viewing. Failure begins combat deeper inside rather than ejecting the duo.
 
 Every route is usable by every vocation. Elara shortens appraisal and structure interactions without being the only lock or climb solution.
 
@@ -169,20 +162,20 @@ When Vasko's people ignite the office, three objectives compete:
 - preserve the packing roll and name tablets;
 - stop fire reaching adjoining occupied storage.
 
-Prior pump access, a lawful crew, or an opened loading door makes all three achievable. Without preparation, the party must move physically between smoke, collapsing loft, and people calling from the sorting room.
+Prior pump access, a lawful crew, or an opened loading door makes all three achievable. Without preparation, the duo must move physically between smoke, collapsing loft, and people calling from the sorting room.
 
 Failure transforms evidence and casualties. It never ends the quest before the barge pursuit.
 
 ## End: The Grain-Stairs Barge
 
-Vasko moves the master manifest and two portable cases to a light cargo barge departing past the Grain Stairs. The party reaches it by:
+Vasko moves the master manifest and two portable cases to a light cargo barge departing past the Grain Stairs. The duo reaches it by:
 
 - crane swing and roof descent;
 - quay pursuit and mooring-line jump;
 - a customs skiff;
 - the lower drain and stern ladder.
 
-The moving-barge fight uses narrow footing, lines, shifting cargo, and civilians forced to pole the vessel. Vasko uses a rear skiff, smoke, and cut cargo lines, but he has no protected escape. Blocking the skiff, covering the river stairs, or defeating him before he reaches the stern permits capture or death here. If he escapes, he remains the principal Seven Mounds opponent. If he is captured or killed, [[Daria Keln]] assumes field control without reversing his state.
+The moving-barge fight uses narrow footing, lines, shifting cargo, and civilians forced to pole the vessel. Vasko avoids a decisive duel, cutting loose a rear skiff or using smoke if an exit remains. The player may wound and identify him; his full captured, killed, or escaped resolution belongs to [[A House Fed by Bones]].
 
 The climax asks the player to stop the barge, protect the forced crew, and secure evidence. Dropped cargo can be recovered later at greater cost. A fleeing Vasko advances later readiness but does not erase the manifest.
 
@@ -219,7 +212,7 @@ Required conclusions never rely on one roll:
 - If the warehouse burns, wet labels and barge papers preserve part of the chain.
 - If the barge escapes, Customs intercepts abandoned cargo while Vasko gains readiness.
 - If workers die, the event becomes a named conflict and Vardek uses their supposed criminality publicly.
-- If the party is defeated, its members wake under dockworker protection after Vasko departs; goods and evidence states worsen.
+- If the duo is defeated, they wake under dockworker protection after Vasko departs; goods and evidence states worsen.
 
 ## Outputs
 
@@ -229,15 +222,12 @@ Required conclusions never rely on one roll:
 - `grave_goods_state`: restored, held-as-evidence, dispersed, or stolen;
 - `customs_porter_state`: cleared, appeal-pending, imprisoned, or dead;
 - `vasko_trace_state`: identified, wounded, warned, or weak-trace.
-- `vasko_dren_state`: captured, dead, escaped, or not-confronted;
-- `elara_direction`: accountable, mixed, or entitled from the named confession and custody result;
-- `elara_introduction_complete`: true.
 
 ## Companion and Relationship Movement
 
 Elara begins by solving the crate as an exciting problem and ends forced to say why she recognizes it. Respectful insistence on truth increases approval even when she dislikes the immediate exposure. Public humiliation for its own sake creates Strained approval.
 
-Completion opens **The Wager**, the first romance or sworn-bond interest scene, and [[The Sixth Field Book]]. It also unlocks Elara's Appraiser's Cut progression.
+Completion opens **The Wager**, the first romance or sworn-bond interest scene. It also unlocks Elara's Appraiser's Cut progression.
 
 ## Seasonal Transformation
 
@@ -254,10 +244,7 @@ If autumn closes first, Jonas is transferred and the contraband sale begins. The
 ## Navigation
 
 - [[Elara Velescar]]
-- [[Elara Companion Campaign]]
 - [[Elara Field Familiarity and Relationships]]
-- [[The Sixth Field Book]]
-- [[Daria Keln]]
 - [[Elara Delver-Duelist Package]]
 - [[Vasko Dren]]
 - [[Danara Veln]]

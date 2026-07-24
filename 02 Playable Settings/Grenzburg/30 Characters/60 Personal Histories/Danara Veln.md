@@ -48,6 +48,8 @@ She can:
 - authenticate objects and certified copies;
 - identify missing names in the cabinet;
 - explain which records preserve relief warrants after seizure;
+- authenticate the casket sequence uncovered in [[Eight Honest Warrants]], producing `elara_danara_authentication` when her copy remains independent of Vardek;
+- match grave inventories against the petitions protected in [[Sixty-Three Claims]];
 - testify at the Hall of Petitions;
 - accompany a noncombat investigation segment outside the squad limit.
 
@@ -63,6 +65,9 @@ Danara may be protected, silenced, injured, or removed from Grenzburg by Vardek.
 - [[House Velescar]]
 - [[Lord Marek Vardek]]
 - [[Names Beneath Lime]]
+- [[Eight Honest Warrants]]
 - [[The Patron's Cabinet]]
+- [[Sixty-Three Claims]]
 - [[No Lady of Velescar]]
+- [[Elara Companion Campaign]]
 - [[Companions MOC]]

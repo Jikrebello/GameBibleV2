@@ -15,7 +15,7 @@ act: act-1
 availability_window: ["Late Autumn", "Early Winter"]
 repeatability: one-shot
 cutoff_result: transforms
-world_state_outputs: ["lucia_long_book_state", "winter_grain_credit", "valuable_debtors_exposed"]
+world_state_outputs: ["lucia_long_book_state", "winter_grain_credit", "valuable_debtors_exposed", "elara_lucia_logistics_copy"]
 required_locations: ["Iron Ledger Counting-House", "Customs Hall", "Grain Stairs"]
 blocking_status: outlined
 quest_owner: "Blackjacks and Medori"
@@ -53,6 +53,12 @@ At least two routes establish every required fact. Social skill, cultural famili
 ## Choice or Mastery Point
 
 Return sealed, copy the debtor pages, or publish everything at the cost of disrupted credit.
+
+## Companion Opportunity: Elara
+
+[[Elara Velescar]] can separate the book's working grain routes from its ownership judgements and make a field copy that preserves relief movement without preserving Lucia's exclusive control of the evidence. Completing that copy while keeping the winter deliveries legible records `elara_lucia_logistics_copy` for [[The Patron's Cabinet]].
+
+Lucia's quest and every principal choice remain available without Elara.
 
 ## Fail-Forward Results
 

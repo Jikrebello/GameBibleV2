@@ -1,7 +1,7 @@
 ---
 type: index
-status: canon
-canon_level: local
+status: archived
+canon_level: obsolete
 visibility: author-only
 era: ["Present Day"]
 region: ["Grenzburg"]
@@ -9,42 +9,46 @@ culture: []
 related_factions: ["Blackjack Corps"]
 appears_in: ["Grenzburg"]
 needs:
-  - name and block the 42 remaining reserved formal pieces during individual companion passes
-  - approve the other seven companions' exact preparation thresholds and autonomous outcome tables during individual passes
+  - name and block the 48 reserved formal pieces during individual companion passes
+  - approve each companion's exact preparation threshold and autonomous outcome table during individual passes
 tags: [game-ready]
+archive_reason: "Snapshot before Elara's ten-piece companion campaign retrofit"
+archived_from: "02 Playable Settings/Grenzburg/50 Campaign/Companions/Companion Campaign Expansion Register.md"
+archived_on: 2026-07-24
+superseded_by: "[[Companion Campaign Expansion Register]]"
 ---
 # Companion Campaign Expansion Register
 
-This register controls exactly eighty formal companion pieces. Elara's ten-piece campaign is migrated and blocked. The other existing quest sources retain `architecture_status: pending-migration`; untitled slots do not receive empty notes.
+This register reserves exactly eighty formal companion pieces. Existing quests remain linked as source material and carry `architecture_status: pending-migration`; untitled slots do not receive empty notes.
 
 ## Count Authority
 
-| Role | Linked notes | Reserved pieces | Total |
+| Role | Existing notes | Reserved pieces | Total |
 |---|---:|---:|---:|
 | Introductory cases | 8 | 0 | 8 |
-| Short act operations | 3 | 21 | 24 |
+| Short act operations | 0 | 24 | 24 |
 | Duo act finales | 24 | 0 | 24 |
-| Friendship episodes | 1 | 7 | 8 |
-| Romance or bond episodes | 1 | 7 | 8 |
-| Summer codas | 1 | 7 | 8 |
-| **Formal pieces** | **38** | **42** | **80** |
+| Friendship episodes | 0 | 8 | 8 |
+| Romance or bond episodes | 0 | 8 | 8 |
+| Summer codas | 0 | 8 | 8 |
+| **Formal pieces** | **32** | **48** | **80** |
 
 ## CMP-01: Elara Velescar
 
 | ID | Role | Content | Status |
 |---|---|---|---|
-| CMP-01-I | introduction | [[Names Beneath Lime]] | blocked; migrated |
-| CMP-01-A1-O | Act I operation | [[The Sixth Field Book]] | blocked; migrated |
-| CMP-01-A1-F | Act I finale | [[A House Fed by Bones]] | blocked; migrated |
-| CMP-01-FR | friendship episode | [[A Better Wager]] | blocked; migrated |
-| CMP-01-A2-O | Act II operation | [[Eight Honest Warrants]] | blocked; migrated |
-| CMP-01-A2-F | Act II finale | [[The Patron's Cabinet]] | blocked; migrated |
-| CMP-01-RL | romance or bond episode | [[Raven Shelf at Dawn]] | blocked; migrated |
-| CMP-01-A3-O | Act III operation | [[Sixty-Three Claims]] | blocked; migrated |
-| CMP-01-A3-F | Act III finale | [[No Lady of Velescar]] | blocked; migrated |
-| CMP-01-S | summer coda | [[The First Honest Find]] | blocked; migrated |
+| CMP-01-I | introduction | [[Names Beneath Lime]] | pending migration |
+| CMP-01-A1-O | Act I operation | untitled | reserved |
+| CMP-01-A1-F | Act I finale | [[A House Fed by Bones]] | pending migration |
+| CMP-01-A2-O | Act II operation | untitled | reserved |
+| CMP-01-A2-F | Act II finale | [[The Patron's Cabinet]] | pending migration |
+| CMP-01-A3-O | Act III operation | untitled | reserved |
+| CMP-01-A3-F | Act III finale | [[No Lady of Velescar]] | pending migration |
+| CMP-01-FR | friendship episode | untitled | reserved |
+| CMP-01-RL | romance or bond episode | untitled | reserved |
+| CMP-01-S | summer coda | untitled | reserved |
 
-Embedded opportunities: 10 blocked through [[Elara Companion Campaign]] and [[Elara Banter and Reactivity]]. Act readiness is two of five; all three autonomous results and changed re-entry states are locked.
+Embedded opportunities: 10 reserved. Autonomous Act I, II, and III actions are controlled below; exact results await the user-approved retrofit.
 
 ## CMP-02: Ilyana Veshkar
 
@@ -171,7 +175,7 @@ Each companion reserves ten embedded opportunities, satisfying the 8-12 target w
 
 | Companion | Main campaign | Factions | Local stories | Exploration | Company life | Systemic world | Total |
 |---|---:|---:|---:|---:|---:|---:|---:|
-| Elara | 3 | 3 | 1 | 1 | 1 | 1 | 10 |
+| Elara | 3 | 2 | 2 | 1 | 1 | 1 | 10 |
 | Ilyana | 3 | 2 | 2 | 1 | 1 | 1 | 10 |
 | Svala | 3 | 2 | 2 | 1 | 1 | 1 | 10 |
 | Ashira | 3 | 2 | 2 | 1 | 1 | 1 | 10 |

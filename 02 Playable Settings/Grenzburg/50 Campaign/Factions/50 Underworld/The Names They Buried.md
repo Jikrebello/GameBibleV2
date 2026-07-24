@@ -15,7 +15,7 @@ act: act-2
 availability_window: ["Deep Winter"]
 repeatability: one-shot
 cutoff_result: transforms
-world_state_outputs: ["protected_crimes_archive", "ivo_trust", "victim_evidence_channel"]
+world_state_outputs: ["protected_crimes_archive", "ivo_trust", "victim_evidence_channel", "elara_burial_provenance_matched"]
 required_locations: ["Night House", "Chancery House", "Paupers' Cloister"]
 blocking_status: outlined
 quest_owner: "Grenzburg Underworld"
@@ -53,6 +53,12 @@ At least two routes establish every required fact. Social skill, cultural famili
 ## Choice or Mastery Point
 
 Build a civil evidence channel, keep a protected private archive, or authorize punishment from the list.
+
+## Companion Opportunity: Elara
+
+With [[Elara Velescar]] present, the player may match the archive's burial references against field cuts, sale marks, and named-property handling from her expeditions. Authentication through an independent burial clerk or claimant records `elara_burial_provenance_matched` for [[No Lady of Velescar]]. Elara cannot certify her own history alone.
+
+The archive can be graded and protected without her.
 
 ## Fail-Forward Results
 

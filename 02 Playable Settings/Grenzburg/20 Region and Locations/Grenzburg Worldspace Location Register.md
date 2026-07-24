@@ -145,12 +145,18 @@ Medium-site names are canon. [[Seven Mounds]] is claimed by [[A House Fed by Bon
 | ID | Landmark | Use | Renewable |
 |---|---|---|---|
 | GR-5-L1 | Needle Tarn | water source, weather mirror, and hunt site | yes |
-| GR-5-L2 | Ropehouse Ruin | climbing cache and worker history | no |
+| GR-5-L2 | Ropehouse Ruin | autumn shoring encounter; sealed survey loft exposed for [[The First Honest Find]] in summer | no |
 | GR-5-L3 | Windcut Mine | minor extraction delve | no |
 | GR-5-L4 | Raven Shelf | overlook and aerial-threat warning | yes |
 | GR-5-L5 | Blue Ice Cave | seasonal cave and cold shelter | yes |
 | GR-5-L6 | Scree Chapel | marcher devotion and avalanche refuge | no |
 | GR-5-L7 | East Watch Cairn | Tuskway observation point | no |
+
+### Elara Embedded Claims
+
+- **Ropehouse Ruin (EL-E08):** its accessible outer works support an autumn exploration beat that can produce `elara_shoring_knowledge`. The deeper survey loft remains sealed until spring repairs expose it for [[The First Honest Find]].
+- **Raven Shelf and Blue Ice Cave:** [[Raven Shelf at Dawn]] uses the shelf, old signal line, and cave refuge without removing their ordinary navigation and weather functions.
+- **Finder's Share (EL-E07):** the later local-content wave must place this dispute at a living work or custody site. Its completed form can produce `elara_living_custodian_support`; it may not describe unoccupied ruin as the only claimant.
 
 ### Upper Grenz
 

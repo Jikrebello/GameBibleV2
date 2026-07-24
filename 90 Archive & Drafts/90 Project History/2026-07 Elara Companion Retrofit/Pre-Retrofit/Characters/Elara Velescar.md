@@ -1,7 +1,7 @@
 ---
 type: character
-status: canon
-canon_level: local
+status: archived
+canon_level: obsolete
 visibility: author-only
 era:
   - Present Day
@@ -34,6 +34,10 @@ relationship_theme: adventure between equals
 relationship_perks:
   - Equal Footing
   - Witness at My Back
+archive_reason: "Snapshot before Elara's ten-piece companion campaign retrofit"
+archived_from: "02 Playable Settings/Grenzburg/30 Characters/10 Companions/Elara Velescar.md"
+archived_on: 2026-07-24
+superseded_by: "[[Elara Velescar]]"
 ---
 # Elara Velescar
 
@@ -184,9 +188,9 @@ Her tactical value is opening guarded targets, reading structural weaknesses, in
 
 Elara becomes available at the Blackjack Yard in Early Autumn after [[Warrant at the Gate]]. She is a peer debtor, not a subordinate awarded to the player. Koss can recommend her expertise but cannot force her friendship.
 
-The player may add or dismiss her at camps and hubs. Dismissal has no approval penalty. Her campaign advances through distinct authored experience, act deadlines, and autonomous schedules controlled by [[Elara Companion Campaign]], not raw elapsed time.
+The player may add or dismiss her at camps and hubs. Dismissal has no approval penalty. Personal quests arise through the authored observations in [[Elara Field Familiarity and Relationships]], not raw elapsed time.
 
-Her introduction and three short operations retain the normal field party. The three act finales use only the player and Elara as full party members. Friendship and relationship activities are one-on-one, while temporary witnesses and rescued people remain outside the squad.
+During her personal quests, the field party is only the player and Elara under [[Companion Field Familiarity and Duo Quest Standard]]. Temporary witnesses and rescued people remain outside the squad.
 
 ## Approval and Boundaries
 
@@ -198,24 +202,18 @@ She does not require the player to reject all wealth, title, private property, o
 
 ## Personal Quest Arc
 
-1. [[Names Beneath Lime]] introduces her crime through an ensemble investigation.
-2. [[The Sixth Field Book]] recovers the worker roll and Seven Mounds preparation.
-3. [[A House Fed by Bones]] closes Act I by forcing a people-before-proof choice.
-4. [[A Better Wager]] establishes friendship through a roof race with nothing to exploit.
-5. [[Eight Honest Warrants]] separates evidence from genuine winter relief.
-6. [[The Patron's Cabinet]] closes Act II with Vardek's restoration offer.
-7. [[Raven Shelf at Dawn]] deepens a committed romance or sworn bond.
-8. [[Sixty-Three Claims]] protects household instructions before settlement.
-9. [[No Lady of Velescar]] closes Act III at the Old Tithe Vault and Hall of Petitions.
-10. [[The First Honest Find]] demonstrates the settled expedition ethic in summer.
+1. [[Names Beneath Lime]]: Elara recognizes her old handling marks in Grenzburg and must first name her part.
+2. [[A House Fed by Bones]]: copied methods create a new barrow crime and force her to choose workers over proof.
+3. [[The Patron's Cabinet]]: Vardek arrives carrying both relief and evidence, confronting her with restoration at the price of silence.
+4. [[No Lady of Velescar]]: the duo races for the Velescar cache before Elara chooses what the house will become.
 
 ## Relationship
 
 Elara is confident in flirtation and has had lovers. Romance is not her first experience of desire; it is the first time in years she must offer a future without rank, patronage, rescue, or performance doing the asking for her.
 
-A male player may pursue romance. A female player may pursue a sworn bond. Both require Trusted approval, two earlier relationship scenes, and personal completion of [[The Patron's Cabinet]] without an unresolved major conflict. Missing that finale permanently closes intimate commitment while preserving friendship.
+A male player may pursue romance. A female player may pursue a sworn bond. Both require Trusted approval, two earlier relationship scenes, and completion of quest three without an unresolved major conflict.
 
-Romance grants [[Elara Field Familiarity and Relationships#Equal Footing|Equal Footing]] and **Crossed Measure**. Sworn bond grants [[Elara Field Familiarity and Relationships#Witness at My Back|Witness at My Back]] and **Back-to-Back**. [[Raven Shelf at Dawn]] upgrades the moves to **Second Beat** or **Held Line**. The permanent perks remain different but equivalent in utility.
+Romance grants [[Elara Field Familiarity and Relationships#Equal Footing|Equal Footing]] and the duo move **Crossed Measure**. Sworn bond grants [[Elara Field Familiarity and Relationships#Witness at My Back|Witness at My Back]] and **Back-to-Back**. The permanent perks are different but equivalent in utility.
 
 Declining commitment preserves friendship and access to Elara's strongest personal resolution.
 
@@ -265,11 +263,8 @@ Elara enjoys Low Lantern technique, covert routes, and elegant theft more than s
 
 Death is possible only through an explicit late sacrifice after a viable alternative is shown. It is never an unseen punishment for approval.
 
-With no player involvement, Elara follows the deterministic compromised-survivor route: workers live with avoidable injuries, part of Vardek's network is exposed, household obligations are cancelled, and she retains a reduced title and private reserve. This default playthrough result is not future-setting canon.
-
 ## Navigation
 
-- [[Elara Companion Campaign]]
 - [[Elara Field Familiarity and Relationships]]
 - [[Elara Delver-Duelist Package]]
 - [[Elara Banter and Reactivity]]

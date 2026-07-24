@@ -15,7 +15,7 @@ act: act-1
 availability_window: ["Early Autumn"]
 repeatability: one-shot
 cutoff_result: transforms
-world_state_outputs: ["church_rank_admitted", "camp_bread_state", "pauper_names_recorded"]
+world_state_outputs: ["church_rank_admitted", "camp_bread_state", "pauper_names_recorded", "elara_burial_name_support"]
 required_locations: ["Mercy Hospital", "Paupers' Cloister", "Outer Winter Camps"]
 blocking_status: outlined
 quest_owner: "Church of Grenzburg"
@@ -53,6 +53,12 @@ At least two routes establish every required fact. Social skill, cultural famili
 ## Choice or Mastery Point
 
 Prioritize living distribution, complete full burial identification, or divide effort through volunteers and accept higher material cost.
+
+## Companion Opportunity: Elara
+
+With [[Elara Velescar]] present, she recognizes how emergency inventories, shroud fastenings, and household marks can preserve a name after formal records fail. If the player lets families and burial readers control the resulting record, rather than treating Elara's expertise as ownership, the quest records `elara_burial_name_support` for [[A House Fed by Bones]].
+
+The burial work remains fully solvable without Elara.
 
 ## Fail-Forward Results
 

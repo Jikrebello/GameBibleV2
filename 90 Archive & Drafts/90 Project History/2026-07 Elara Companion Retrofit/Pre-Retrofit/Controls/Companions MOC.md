@@ -1,7 +1,7 @@
 ---
 type: index
-status: canon
-canon_level: local
+status: archived
+canon_level: obsolete
 visibility: author-only
 era: ["Present Day"]
 region: ["Grenzburg"]
@@ -11,6 +11,10 @@ appears_in: ["Grenzburg"]
 needs: []
 aliases: ["Grenzburg Companions MOC"]
 tags: [game-ready]
+archive_reason: "Snapshot before Elara's ten-piece companion campaign retrofit"
+archived_from: "02 Playable Settings/Grenzburg/50 Campaign/Companions/Companions MOC.md"
+archived_on: 2026-07-24
+superseded_by: "[[Companions MOC]]"
 ---
 # Grenzburg Companions MOC
 
@@ -41,24 +45,18 @@ This is the production doorway for eight outsider-debtor companions, eighty form
 | Summer coda | 1 | 8 |
 | **Formal pieces** | **10** | **80** |
 
-Thirty-eight formal pieces now exist: Elara's complete ten-piece campaign and the twenty-eight legacy sources for the other seven companions. Forty-two untitled slots remain reserved without creating empty notes. See [[Companion Campaign Expansion Register]].
+The current thirty-two notes supply the eight introductions and twenty-four finale sources. Forty-eight untitled slots are reserved without creating empty notes. See [[Companion Campaign Expansion Register]].
 
 ## Existing Source Register
 
-Elara's ten pieces carry `architecture_status: migrated`. The remaining sources carry `pending-migration`: their existing Quest 1 becomes the introductory case and Quests 2-4 become the three act finales during that companion's retrofit.
+Every quest below carries `architecture_status: pending-migration`. Existing Quest 1 becomes the introductory case; Quests 2-4 become the three act finales during that companion's retrofit.
 
 | ID | Quest | Owner | Act | Window | Status |
 |---|---|---|---|---|---|
 | CMP-01-1 | [[Names Beneath Lime]] | [[Elara Velescar]] | act-1 | Early Autumn, Open Autumn | blocked |
-| CMP-01-2 | [[The Sixth Field Book]] | [[Elara Velescar]] | act-1 | Open Autumn | blocked |
-| CMP-01-3 | [[A House Fed by Bones]] | [[Elara Velescar]] | act-1 | Open Autumn | blocked |
-| CMP-01-4 | [[A Better Wager]] | [[Elara Velescar]] | act-1 | Open Autumn, Early Winter | blocked |
-| CMP-01-5 | [[Eight Honest Warrants]] | [[Elara Velescar]] | act-2 | Early Winter, Deep Winter | blocked |
-| CMP-01-6 | [[The Patron's Cabinet]] | [[Elara Velescar]] | act-2 | Deep Winter | blocked |
-| CMP-01-7 | [[Raven Shelf at Dawn]] | [[Elara Velescar]] | act-3 | Early Spring | blocked |
-| CMP-01-8 | [[Sixty-Three Claims]] | [[Elara Velescar]] | act-3 | Open Spring | blocked |
-| CMP-01-9 | [[No Lady of Velescar]] | [[Elara Velescar]] | act-3 | Open Spring, Muster Crisis | blocked |
-| CMP-01-10 | [[The First Honest Find]] | [[Elara Velescar]] | summer | Playable Summer | blocked |
+| CMP-01-2 | [[A House Fed by Bones]] | [[Elara Velescar]] | act-1 | Open Autumn, Early Winter | blocked |
+| CMP-01-3 | [[The Patron's Cabinet]] | [[Elara Velescar]] | act-2 | Deep Winter, Early Spring | blocked |
+| CMP-01-4 | [[No Lady of Velescar]] | [[Elara Velescar]] | act-3 | Early Spring, Open Spring, Muster Crisis | blocked |
 | CMP-02-1 | [[The Medal in the Mud]] | [[Ilyana Veshkar]] | act-1 | Early Autumn, Open Autumn | outlined |
 | CMP-02-2 | [[A Breach Too Clean]] | [[Ilyana Veshkar]] | act-1 | Open Autumn, Early Winter | outlined |
 | CMP-02-3 | [[Names Behind the Wall]] | [[Ilyana Veshkar]] | act-2 | Deep Winter, Early Spring | outlined |
@@ -97,7 +95,6 @@ Elara's ten pieces carry `architecture_status: migrated`. The remaining sources 
 - [[Keeper Othara bath Qesin]]
 - [[Lord Marek Vardek]]
 - [[Vasko Dren]]
-- [[Daria Keln]]
 - [[Kata Belyn]]
 - [[Danara Veln]]
 - [[Hospice-Mother Radena Vosk]]
@@ -112,13 +109,12 @@ Elara's ten pieces carry `architecture_status: migrated`. The remaining sources 
 
 ### CMP-01: Elara Velescar
 
-- [[Elara Companion Campaign]]: controlling ten-piece campaign, preparation, autonomy, changed re-entry, embedded opportunities, and rewards.
 - [[Elara Velescar]]: controlling character bible.
 - [[Elara Field Familiarity and Relationships]]: approval, release gates, commitment, departure, and permanent rewards.
 - [[Elara Delver-Duelist Package]]: companion combat language, progression, and custom-vocation unlocks.
 - [[Elara Banter and Reactivity]]: pair banter, faction attitudes, location observations, and seasonal dialogue.
 - [[House Velescar]]: estate history, household claims, and outcome boundaries.
-- [[Names Beneath Lime]], [[The Sixth Field Book]], [[A House Fed by Bones]], [[A Better Wager]], [[Eight Honest Warrants]], [[The Patron's Cabinet]], [[Raven Shelf at Dawn]], [[Sixty-Three Claims]], [[No Lady of Velescar]], and [[The First Honest Find]]: ten production-blocked formal pieces.
+- [[Names Beneath Lime]], [[A House Fed by Bones]], [[The Patron's Cabinet]], and [[No Lady of Velescar]]: four production-blocked duo adventures.
 
 ### CMP-05: Bernard Valeon
 
@@ -130,7 +126,7 @@ Elara's ten pieces carry `architecture_status: migrated`. The remaining sources 
 - [[The Froststep Evacuation]] and [[Hospice of the Lantern Road]]: controlling history and institutional origin.
 - [[Little Things Missing]], [[Little Hands, Long Road]], [[Embers Without Excuse]], and [[The Open Hospice]]: four production-blocked duo adventures.
 
-Elara is fully migrated to the ten-piece architecture. Bernard retains a complete four-adventure source package and awaits his retrofit; the other six remain outlined and will be deep-blocked directly against the new standard. No later companion's threshold or autonomous result is canonized without its planned user-guided pass.
+Elara and Bernard retain complete character, combat, relationship, reactivity, and four-adventure source packages, but their campaign architecture now awaits retrofit. The other six remain outlined and will be deep-blocked directly against the new standard. No individual threshold or autonomous result is canonized without the planned user-guided pass.
 
 ## Controls
 

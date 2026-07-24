@@ -38,10 +38,19 @@ These are persistent seasonal claims rather than single-use set dressing. Side c
 ## Companion Deep-Block Claims
 
 - [[Names Beneath Lime]] uses Customs Hall, Quarry Steps, North Quay Warehouses, the Market Roofline, and a moving river barge.
+- [[The Sixth Field Book]] uses Great Market, Hall of Measures, Delvers' Arcade, and Market Roofline for its bailiff-auction counter-theft.
+- [[A Better Wager]] uses Market Roofline, Bridge Market, and Great Bridge Keep for an uninterrupted friendship race.
+- [[Eight Honest Warrants]] uses Grain Stairs, North Quay Warehouses, Bridgehold, and Crown Granary for a moving relief-convoy infiltration.
 - [[The Patron's Cabinet]] uses Grenzmark Keep, Chancery House, the Iron Ledger Counting-House, Market Roofline, and Grain Stairs.
+- [[Sixty-Three Claims]] uses Paupers' Cloister, Chancery House, Hall of Petitions, Petition Stair, and Bridgehold for its claimant-protection operation.
 - [[No Lady of Velescar]] uses the [[Old Tithe Vault]], a hidden subspace below North Quay Warehouses connected to the Bridge Vaults and riverworks, before concluding at the Hall of Petitions.
 
 These claims reserve changed quest states without consuming their parent anchors. The Old Tithe Vault is a specialist subspace, not a sixth Ledger Quays district anchor.
+
+### Elara Embedded Claims
+
+- **Named Property Board (EL-E09):** an authored Blackjack Yard scene establishes a visible process for seized goods with identifiable owners. Its availability and dialogue follow [[Elara Companion Campaign]] and do not turn the Yard into a universal legal office.
+- **Finder's Share (EL-E07):** a later local story owns its own physical site; this register reserves Elara's claimant-and-custodian variant without pre-empting that story's final placement.
 
 ## District Anchors
 

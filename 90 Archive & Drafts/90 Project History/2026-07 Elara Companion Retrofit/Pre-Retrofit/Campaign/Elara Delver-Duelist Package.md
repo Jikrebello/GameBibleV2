@@ -1,7 +1,7 @@
 ---
 type: mechanic
-status: canon
-canon_level: local
+status: archived
+canon_level: obsolete
 visibility: author-only
 era: ["Present Day"]
 region: ["Grenzburg"]
@@ -17,6 +17,10 @@ combat_variant: "Delver-Duelist"
 vocation: "Slayer"
 balance_status: qualitative
 originalization_status: original
+archive_reason: "Snapshot before Elara's ten-piece companion campaign retrofit"
+archived_from: "02 Playable Settings/Grenzburg/50 Campaign/Companions/CMP-01 Elara Velescar/Elara Delver-Duelist Package.md"
+archived_on: 2026-07-24
+superseded_by: "[[Elara Delver-Duelist Package]]"
 ---
 # Elara Delver-Duelist Package
 
@@ -99,15 +103,9 @@ Elara breaks line of sight with prepared powder-smoke, relocates, and can draw t
 |---|---|---|
 | Recruitment | Measured Thrust, basic pick work, throwing knives | none |
 | [[Names Beneath Lime]] | **Appraiser's Cut:** identifies contraband handling marks and interrupts item use or escape actions | Elara appraisal service at hubs |
-| [[The Sixth Field Book]] | recovered survey practice improves structural and provenance callouts | worker-roll and Seven Mounds preparation |
 | [[A House Fed by Bones]] | **Fault Proven:** Faultfinder can expose a second structural stage and opens authored rescue shortcuts | rapier, delver's pick, dart, and traversal parts enter the custom-part library |
-| [[A Better Wager]] | **Follow My Line:** marks a nearby safe continuation after a missed traversal move | Bridgehold and Market Roofline route knowledge |
-| [[Eight Honest Warrants]] | identifies false floors and substituted sealed containers | warrant-casket preparation and contextual inspection options |
 | [[The Patron's Cabinet]] | A Lady's Exit and the committed relationship duo move | path-specific duo move when commitment occurs |
-| [[Raven Shelf at Dawn]] | path-specific duo move upgrade | Raven Line material safeguard in the Act III finale |
-| [[Sixty-Three Claims]] | recognizes claimant marks and substituted estate rolls | claimant-priority and Old Tithe preparation |
 | [[No Lady of Velescar]] | **The Last Claim:** a rapier-and-pick finisher against a properly exposed elite or large-creature point | saved Delver-Duelist blueprint on resolved or compromised outcomes |
-| [[The First Honest Find]] | postgame provenance callouts reflect the settled outcome | Provenance Board when Elara remains connected to the Blackjacks |
 
 ## Custom-Vocation Transfer
 
@@ -125,7 +123,6 @@ Completing [[No Lady of Velescar]] with Elara resolved or compromised adds a coh
 ## Navigation
 
 - [[Elara Velescar]]
-- [[Elara Companion Campaign]]
 - [[Elara Field Familiarity and Relationships]]
 - [[Slayer]]
 - [[Custom Vocation Workshop]]

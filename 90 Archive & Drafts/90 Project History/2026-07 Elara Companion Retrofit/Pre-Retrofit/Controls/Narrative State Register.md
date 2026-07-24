@@ -1,7 +1,7 @@
 ---
 type: reference
-status: canon
-canon_level: local
+status: archived
+canon_level: obsolete
 visibility: author-only
 era: ["Present Day"]
 region: ["Grenzburg"]
@@ -11,6 +11,10 @@ appears_in: ["Grenzburg"]
 needs: []
 aliases: ["Grenzburg Narrative State Register"]
 tags: [game-ready]
+archive_reason: "Snapshot before Elara's ten-piece companion campaign retrofit"
+archived_from: "02 Playable Settings/Grenzburg/10 Production Bible/Narrative State Register.md"
+archived_on: 2026-07-24
+superseded_by: "[[Narrative State Register]]"
 ---
 # Narrative State Register
 
@@ -25,7 +29,7 @@ Each companion ID records:
 | field_availability | unavailable, offered, available, declined-repairable, refused, departed, dead |
 | campaign_tracking | undiscovered, untracked, tracked, closed |
 | campaign_stage | introduction, act-1, act-2, act-3, summer, complete |
-| architecture_status | pending-migration, migrated, reserved, current, retired |
+| architecture_status | pending-migration, reserved, current, retired |
 | approval | Guarded, Open, Trusted, Strained |
 | shared_history | named witnessed events and credible reports; never raw time or repeatable-job count |
 | preparation_inputs | named authored set for the current act chapter |
@@ -203,74 +207,30 @@ Duplicate implementation keys across these authorities are prohibited unless one
 | `dismas_summer_destination` | companion | Dismas Raben | 4 | [[The Road That Answers]] |
 | `marcher_scout_service` | companion | Dismas Raben | 4 | [[The Road That Answers]] |
 | `three_horn_evacuated` | companion | Dismas Raben | 4 | [[The Road That Answers]] |
-| `elara_recruited` | companion gate | Elara Velescar | 0 | [[Elara Velescar]] |
-| `elara_first_outing_complete` | companion gate | Elara Velescar | 0 | [[Elara Companion Campaign]] |
-| `southwood_early_warning` | main campaign | Grenzburg Main Campaign | 1 | [[Roads Worth Saving]] |
-| `winter_strands_open` | main campaign | Grenzburg Main Campaign | 2 | [[Winter's Teeth]] |
-| `muster_known` | main campaign | Grenzburg Main Campaign | 3 | [[The Open Thaw]] |
-| `spring_settlement_access` | main campaign | Grenzburg Main Campaign | 3 | [[The Land Reclaimed]] |
-| `companion_summer_codas_unlocked` | main campaign | Grenzburg Main Campaign | 5 | [[Accounts of the Living]] |
-| `elara_introduction_complete` | companion campaign | Elara Velescar | 1 | [[Names Beneath Lime]] |
-| `elara_direction` | companion direction | Elara Velescar | 1-4 | [[Elara Companion Campaign]] |
-| `elara_act1_readiness` | companion readiness | Elara Velescar | 2 | [[Elara Companion Campaign]] |
-| `elara_act2_readiness` | companion readiness | Elara Velescar | 3 | [[Elara Companion Campaign]] |
-| `elara_act3_readiness` | companion readiness | Elara Velescar | 4 | [[Elara Companion Campaign]] |
-| `elara_act1_readiness_viable` | companion gate | Elara Velescar | 2 | [[Elara Companion Campaign]] |
-| `elara_act2_readiness_viable` | companion gate | Elara Velescar | 3 | [[Elara Companion Campaign]] |
-| `elara_act3_readiness_viable` | companion gate | Elara Velescar | 4 | [[Elara Companion Campaign]] |
-| `elara_act1_chapter_resolved` | companion campaign | Elara Velescar | 2 | [[A House Fed by Bones]] |
-| `elara_act2_chapter_resolved` | companion campaign | Elara Velescar | 3 | [[The Patron's Cabinet]] |
-| `elara_act3_finale_played` | companion campaign | Elara Velescar | 4 | [[No Lady of Velescar]] |
-| `elara_act1_result` | companion campaign | Elara Velescar | 2 | [[A House Fed by Bones]] |
-| `elara_act2_result` | companion campaign | Elara Velescar | 3 | [[The Patron's Cabinet]] |
-| `elara_act3_result` | companion campaign | Elara Velescar | 4 | [[No Lady of Velescar]] |
-| `elara_act2_finale_played` | companion gate | Elara Velescar | 3 | [[The Patron's Cabinet]] |
-| `elara_relationship_closed` | relationship | Elara Velescar | 3 | [[Elara Companion Campaign]] |
-| `elara_sixth_fieldbook_secured` | companion preparation | Elara Velescar | 2 | [[The Sixth Field Book]] |
-| `elara_southwood_route_intelligence` | companion preparation | Elara Velescar | 2 | [[Roads Worth Saving]] |
-| `elara_burial_name_support` | companion preparation | Elara Velescar | 2 | [[Bread and Burial]] |
-| `elara_shoring_knowledge` | companion preparation | Elara Velescar | 2 | [[Elara Companion Campaign]] |
-| `elara_living_custodian_support` | companion preparation | Elara Velescar | 2 | [[Elara Companion Campaign]] |
-| `elara_warrant_casket_key` | companion preparation | Elara Velescar | 3 | [[Eight Honest Warrants]] |
-| `elara_winter_roofline_proven` | companion preparation | Elara Velescar | 3 | [[The City in Siege]] |
-| `elara_lucia_logistics_copy` | companion preparation | Elara Velescar | 3 | [[Lucia's Long Book]] |
-| `elara_danara_authentication` | companion preparation | Elara Velescar | 3 | [[Danara Veln]] |
-| `elara_bridgehold_line_practiced` | companion preparation | Elara Velescar | 3 | [[A Better Wager]] |
-| `elara_household_claims_protected` | companion preparation | Elara Velescar | 4 | [[Sixty-Three Claims]] |
-| `elara_living_claims_indexed` | companion preparation | Elara Velescar | 4 | [[The Land Reclaimed]] |
-| `elara_kata_delegation_ready` | companion preparation | Elara Velescar | 4 | [[Kata Belyn]] |
-| `elara_burial_provenance_matched` | companion preparation | Elara Velescar | 4 | [[The Names They Buried]] |
-| `elara_old_tithe_route_known` | companion preparation | Elara Velescar | 4 | [[Elara Companion Campaign]] |
-| `elara_raven_line_practiced` | companion bonus | Elara Velescar | 4 | [[Raven Shelf at Dawn]] |
+| `elara_ruin_observed` | companion gate | Elara Velescar | 0 | [[Elara Field Familiarity and Relationships]] |
+| `elara_property_choice_observed` | companion gate | Elara Velescar | 0 | [[Elara Field Familiarity and Relationships]] |
+| `elara_shared_danger_observed` | companion gate | Elara Velescar | 0 | [[Elara Field Familiarity and Relationships]] |
+| `elara_rescue_priority_observed` | companion gate | Elara Velescar | 0 | [[Elara Field Familiarity and Relationships]] |
+| `elara_delving_choice_observed` | companion gate | Elara Velescar | 0 | [[Elara Field Familiarity and Relationships]] |
+| `elara_companion_intervention_observed` | companion gate | Elara Velescar | 0 | [[Elara Field Familiarity and Relationships]] |
+| `elara_winter_city_observed` | companion gate | Elara Velescar | 0 | [[Elara Field Familiarity and Relationships]] |
+| `elara_authority_choice_observed` | companion gate | Elara Velescar | 0 | [[Elara Field Familiarity and Relationships]] |
+| `elara_reclamation_observed` | companion gate | Elara Velescar | 0 | [[Elara Field Familiarity and Relationships]] |
 | `elara_wager_scene` | relationship | Elara Velescar | 1 | [[Elara Field Familiarity and Relationships]] |
-| `elara_friendship_episode` | relationship | Elara Velescar | 2 | [[A Better Wager]] |
-| `elara_rooftop_wager_result` | relationship | Elara Velescar | 2 | [[A Better Wager]] |
-| `elara_without_powder_scene` | relationship | Elara Velescar | 2 | [[A Better Wager]] |
-| `elara_relationship_episode` | relationship | Elara Velescar | 4 | [[Raven Shelf at Dawn]] |
-| `elara_duo_move_upgrade` | relationship | Elara Velescar | 4 | [[Raven Shelf at Dawn]] |
-| `raven_signal_runner_state` | companion | Elara Velescar | 4 | [[Raven Shelf at Dawn]] |
+| `elara_without_powder_scene` | relationship | Elara Velescar | 2 | [[Elara Field Familiarity and Relationships]] |
 | `elara_first_confession` | companion | Elara Velescar | 1 | [[Names Beneath Lime]] |
 | `elara_names_recorded` | companion | Elara Velescar | 1 | [[Names Beneath Lime]] |
 | `elara_public_culpability` | companion | Elara Velescar | 1 | [[Names Beneath Lime]] |
 | `grave_goods_state` | companion | Elara Velescar | 1 | [[Names Beneath Lime]] |
 | `customs_porter_state` | companion | Elara Velescar | 1 | [[Names Beneath Lime]] |
 | `vasko_trace_state` | companion | Elara Velescar | 1 | [[Names Beneath Lime]] |
-| `elara_worker_roll_state` | companion | Elara Velescar | 2 | [[The Sixth Field Book]] |
-| `elara_seven_mounds_survey_state` | companion | Elara Velescar | 2 | [[The Sixth Field Book]] |
-| `auction_runner_state` | companion | Elara Velescar | 2 | [[The Sixth Field Book]] |
-| `daria_keln_identified` | companion | Elara Velescar | 2 | [[The Sixth Field Book]] |
 | `seven_mounds_state` | companion | Elara Velescar | 2 | [[A House Fed by Bones]] |
 | `coerced_diggers_state` | companion | Elara Velescar | 2 | [[A House Fed by Bones]] |
 | `kata_belyn_state` | companion | Elara Velescar | 2 | [[A House Fed by Bones]] |
 | `vasko_dren_state` | companion | Elara Velescar | 2 | [[A House Fed by Bones]] |
-| `daria_keln_state` | companion | Elara Velescar | 2-4 | [[Daria Keln]] |
 | `elara_fieldbook_state` | companion | Elara Velescar | 2 | [[A House Fed by Bones]] |
 | `vardek_chain_proof` | companion | Elara Velescar | 2 | [[A House Fed by Bones]] |
 | `elara_workers_before_proof` | companion | Elara Velescar | 2 | [[A House Fed by Bones]] |
-| `eight_warrants_state` | companion | Elara Velescar | 3 | [[Eight Honest Warrants]] |
-| `vardek_relief_route_state` | companion | Elara Velescar | 3 | [[Eight Honest Warrants]] |
-| `hidden_payment_strip_state` | companion | Elara Velescar | 3 | [[Eight Honest Warrants]] |
-| `warrant_courier_state` | companion | Elara Velescar | 3 | [[Eight Honest Warrants]] |
 | `cabinet_integrity` | companion | Elara Velescar | 3 | [[The Patron's Cabinet]] |
 | `elara_vardek_verdict` | companion | Elara Velescar | 3 | [[The Patron's Cabinet]] |
 | `virelian_relief_state` | companion | Elara Velescar | 3 | [[The Patron's Cabinet]] |
@@ -279,9 +239,6 @@ Duplicate implementation keys across these authorities are prohibited unless one
 | `old_tithe_vault_known` | companion | Elara Velescar | 3 | [[The Patron's Cabinet]] |
 | `elara_patron_refused` | companion | Elara Velescar | 3 | [[The Patron's Cabinet]] |
 | `elara_relationship_commitment` | companion | Elara Velescar | 3 | [[The Patron's Cabinet]] |
-| `velescar_delegate_states` | companion | Elara Velescar | 4 | [[Sixty-Three Claims]] |
-| `velescar_claimant_priorities` | companion | Elara Velescar | 4 | [[Sixty-Three Claims]] |
-| `claim_substitution_state` | companion | Elara Velescar | 4 | [[Sixty-Three Claims]] |
 | `elara_arc_outcome` | companion | Elara Velescar | 4 | [[No Lady of Velescar]] |
 | `velescar_land_state` | companion | Elara Velescar | 4 | [[No Lady of Velescar]] |
 | `velescar_burial_state` | companion | Elara Velescar | 4 | [[No Lady of Velescar]] |
@@ -292,12 +249,6 @@ Duplicate implementation keys across these authorities are prohibited unless one
 | `elara_relationship_perk` | relationship | Elara Velescar | 4 | [[No Lady of Velescar]] |
 | `elara_duo_move` | relationship | Elara Velescar | 4 | [[No Lady of Velescar]] |
 | `delver_duelist_blueprint` | progression | Elara Velescar | 4 | [[No Lady of Velescar]] |
-| `elara_summer_coda` | companion | Elara Velescar | 5 | [[The First Honest Find]] |
-| `ropehouse_find_state` | companion | Elara Velescar | 5 | [[The First Honest Find]] |
-| `ropehouse_custody_state` | companion | Elara Velescar | 5 | [[The First Honest Find]] |
-| `elara_provenance_board` | companion | Elara Velescar | 5 | [[The First Honest Find]] |
-| `elara_scarred_mounds_state` | companion re-entry | Elara Velescar | 3 | [[Elara Companion Campaign]] |
-| `elara_cabinet_after_snow_state` | companion re-entry | Elara Velescar | 4 | [[Elara Companion Campaign]] |
 | `ilyana_medal_state` | companion | Ilyana Veshkar | 1 | [[The Medal in the Mud]] |
 | `koss_ilyana_leverage` | companion | Ilyana Veshkar | 1 | [[The Medal in the Mud]] |
 | `relief_platoon_roll` | companion | Ilyana Veshkar | 1 | [[The Medal in the Mud]] |

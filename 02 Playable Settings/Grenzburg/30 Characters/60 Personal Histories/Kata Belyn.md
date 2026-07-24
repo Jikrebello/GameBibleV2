@@ -51,6 +51,7 @@ Her anger has specific objects:
 - [[Names Beneath Lime]] identifies Kata in the surviving manifest and establishes that her household fines were transferred.
 - [[A House Fed by Bones]] places her among the coerced Seven Mounds crew. Once freed, she can guide shoring and rescue outside the companion limit.
 - [[The Patron's Cabinet]] allows her testimony to authenticate labor schedules without making it the only evidence path.
+- [[Sixty-Three Claims]] lets a surviving and willing Kata organize three claimant delegates, state their different priorities, and produce `elara_kata_delegation_ready`. She does not participate if injured, missing, or unwilling; other delegates preserve the quest.
 - [[No Lady of Velescar]] gives her one of several household petitions. She may seek land, cash, or freedom to leave depending prior survival and trust.
 
 ## Agency and Outcomes
@@ -65,5 +66,7 @@ In the resolved outcome, Kata may become a paid expedition shoring master, take 
 - [[House Velescar]]
 - [[Vasko Dren]]
 - [[A House Fed by Bones]]
+- [[Sixty-Three Claims]]
 - [[No Lady of Velescar]]
+- [[Elara Companion Campaign]]
 - [[Companions MOC]]

@@ -1,7 +1,7 @@
 ---
 type: reference
-status: canon
-canon_level: local
+status: archived
+canon_level: obsolete
 visibility: author-only
 era: ["Present Day"]
 region: ["Grenzburg"]
@@ -13,6 +13,10 @@ needs:
 aliases: ["Elara Reactive Dialogue Register"]
 tags: [game-ready]
 companion_id: "CMP-01"
+archive_reason: "Snapshot before Elara's ten-piece companion campaign retrofit"
+archived_from: "02 Playable Settings/Grenzburg/50 Campaign/Companions/CMP-01 Elara Velescar/Elara Banter and Reactivity.md"
+archived_on: 2026-07-24
+superseded_by: "[[Elara Banter and Reactivity]]"
 ---
 # Elara Banter and Reactivity
 
@@ -354,9 +358,9 @@ Elara's home schedule changes with season and personal progress. It makes her fi
 ### Spring and Summer
 
 - **Spring:** visits reclaimed sites, claimant hearings, and archive stores according to her quest states. She never enters Old Tithe Vault as a casual idle location.
-- **Resolved summer:** divides time among the Delvers' Arcade, returned-burial work, the Provenance Board, and expedition planning at the Yard.
-- **Compromised summer:** receives estate agents at the River Exchange, manages a reserved share through the Provenance Board, and keeps a more formal room in Ledger Quays while retaining her Yard bed.
-- **Broken summer:** withdraws from ordinary routines after the warned confrontation and appears at her departure, restored-house scene, or changed [[The First Honest Find]] encounter.
+- **Resolved summer:** divides time among the Delvers' Arcade, returned-burial work, and expedition planning at the Yard.
+- **Compromised summer:** receives estate agents at the River Exchange and keeps a more formal room in Ledger Quays while retaining her Yard bed.
+- **Broken summer:** withdraws from ordinary routines after the warned confrontation and appears only at her departure or restored-house scene.
 
 When Elara is selected for the active party, her schedule yields at the next valid hub. Quest, siege, injury, and relationship scenes override ambient routine without creating duplicate versions of her.
 
@@ -375,35 +379,17 @@ When Elara is selected for the active party, her schedule yields at the next val
 - **Frostfenn:** jokes less, checks equipment more, and treats every safe return as an achievement.
 - **Deep Muster:** identifies rank and property language in the command architecture and rejects its claim to honorable continuity.
 
-## Embedded Opportunity Register
-
-These ten authored opportunities make Elara present outside her formal campaign. They may add readiness, direction evidence, or a later line; none is mandatory.
-
-1. **Roads Worth Saving:** Elara distinguishes Vardek spoil cuts, ordinary bandit handling, and Folk boundary marks. She refuses to make separate enemies into one convenient conspiracy.
-2. **The City in Siege:** she opens a roof-and-crane route through damaged Ledger Quays and can preserve either trapped residents or a pursuit line.
-3. **The Land Reclaimed:** she identifies which recovered rolls, tools, and grave goods establish living claims rather than military salvage.
-4. **Bread and Burial:** she helps restore names while accepting that useful burial work does not acquit her.
-5. **Lucia's Long Book:** she separates grain logistics from debtor valuation and recognizes Lucia's reform language as a more polished version of an old temptation.
-6. **The Names They Buried:** she matches protected-crime records to burial provenance without turning the archive into private leverage.
-7. **Finder's Share:** in a future local story, Elara distinguishes discoverer, worker, landholder, and living-custodian claims instead of declaring a found object ownerless.
-8. **Ropehouse Ruin:** she reads load marks and practices shoring whose safety margin belongs to the workers using it.
-9. **Named Property Board:** at the Blackjack Yard, she establishes a visible holding process for seized items with identifiable owners.
-10. **Abandoned Pack:** a bounded systemic encounter changes with her direction: accountable Elara seeks the owner, mixed Elara inventories before deciding, and entitled Elara calls useful property abandoned too quickly.
-
 ## Campaign Scenes
 
 1. **First camp:** Elara wagers she can identify everyone's former station from boots and packing; she is wrong about at least one person.
-2. **After the introduction:** The Wager opens interest without committing it.
-3. **Tannbruck fall:** she chooses a rescue or denial task and later names who paid for the option the player selected.
-4. **After Act I:** [[A Better Wager]] and Without the Powder establish friendship before intimacy.
-5. **Winter camps:** she catches herself referring to refugees as a burden and deliberately restarts the sentence.
-6. **City breach:** she opens a roof route and uses powder-smoke to cover people crossing it.
-7. **Drake hunt:** awe never turns the animal into a speaking moral claimant; she insists custody of its remains still needs a living decision.
-8. **After The Patron's Cabinet:** relationship commitment or friendship refusal occurs without another companion present.
-9. **Raven Shelf:** a committed relationship gains its own expedition and rescue rather than borrowing Elara's moral climax.
-10. **Gerhold:** she recognizes the same grammar as House Velescar carried to its extreme: service that authority refuses to release.
-11. **Before the Deep Muster:** she offers one honest wager about both returning and specifies that neither life belongs to the other.
-12. **Summer:** [[The First Honest Find]] and ambient schedules reflect resolved, compromised, or broken disposition of the house.
+2. **Tannbruck fall:** she chooses a rescue or denial task and later names who paid for the option the player selected.
+3. **Winter camps:** she catches herself referring to refugees as a burden and deliberately restarts the sentence.
+4. **City breach:** she opens a roof route and uses powder-smoke to cover people crossing it.
+5. **Drake hunt:** awe never turns the animal into a speaking moral claimant; she insists custody of its remains still needs a living decision.
+6. **After quest three:** relationship commitment or friendship refusal occurs without another companion present.
+7. **Gerhold:** she recognizes the same grammar as House Velescar carried to its extreme: service that authority refuses to release.
+8. **Before the Deep Muster:** she offers one honest wager about both returning and specifies that neither life belongs to the other.
+9. **Summer:** her location and dialogue reflect resolved, compromised, or broken disposition of the house.
 
 ## Outcome Variants
 
@@ -442,7 +428,6 @@ These ten authored opportunities make Elara present outside her formal campaign.
 ## Navigation
 
 - [[Elara Velescar]]
-- [[Elara Companion Campaign]]
 - [[Elara Field Familiarity and Relationships]]
 - [[Elara Delver-Duelist Package]]
 - [[Companion Reactive Scene Register]]

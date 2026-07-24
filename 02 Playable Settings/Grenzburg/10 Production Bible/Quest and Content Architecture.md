@@ -61,6 +61,7 @@ Every active Grenzburg quest note must carry these properties in addition to ord
 | repeatability | one-shot, finite-repeat, or repeatable |
 | cutoff_result | persists, transforms, resolves-offscreen, or fails |
 | world_state_outputs | Named settlement, faction, companion, material, debt, access, or Muster states changed. |
+| reward_unlocks | Named techniques, services, parts, perks, blueprints, routes, or progression assets unlocked; conditional rewards remain labelled in prose. |
 | required_locations | Links to every location required by the quest. |
 | blocking_status | concept, outlined, blocked, or implementation-ready |
 | quest_owner | Named companion, faction line, institution, or local chain that owns the quest. |
@@ -70,14 +71,14 @@ Every active Grenzburg quest note must carry these properties in addition to ord
 | faction_branch | shared, low-lanterns, black-bell, or empty as applicable. |
 | chapter_id | MQ-01 through MQ-21 or SQ-01 through SQ-02 for main and aftermath content; empty otherwise. |
 | main_sequence | Integer 1 through 23 for main and aftermath content; zero otherwise. |
-| story_gate | open, open-world-window, operation, investigation, confrontation, season, season-transition, finale-transition, finale, aftermath, or postgame-open. |
+| story_gate | open, open-world-window, operation, preparation, investigation, confrontation, friendship, relationship, season, season-transition, finale-transition, finale, aftermath, summer-aftermath, or postgame-open. |
 | estimated_hours | Expected first-play critical-path hours; optional completion time is recorded in prose. |
-| gameplay_pillars | Controlled list drawn from assault, boss, choice, closure, combat, command-response, consequence, defense, diplomacy, dungeon, expedition, exploration, hunt, infiltration, investigation, large-combat, mega-dungeon, memorial, pursuit, reclamation, reconnaissance, reconstruction, rescue, siege, social, social-conflict, survival, travel, traversal, urban-combat, and vertical-traversal. |
+| gameplay_pillars | Controlled list drawn from assault, boss, choice, closure, combat, command-response, consequence, conversation, defense, diplomacy, dungeon, environmental-puzzle, escort, expedition, exploration, hunt, infiltration, investigation, large-combat, mega-dungeon, memorial, moving-vehicle, protection, pursuit, reclamation, reconnaissance, reconstruction, reflection, rescue, siege, social, social-conflict, survival, travel, traversal, urban-combat, vertical-traversal, and weather. |
 | required_states | States that must exist before the quest starts. |
 | optional_state_inputs | Prior outputs that alter routes, costs, allies, encounters, or consequences without becoming mandatory. |
 | companion_content_role | introduction, operation, act-finale, friendship, relationship, summer-coda, embedded, or empty |
 | companion_campaign_stage | introduction, act-1, act-2, act-3, relationship, summer, or empty |
-| architecture_status | pending-migration, reserved, current, retired, or empty |
+| architecture_status | pending-migration, migrated, reserved, current, retired, or empty |
 | preparation_inputs | Named evidence, support, practice, route, or material assets that improve a finale. |
 | preparation_threshold | Bespoke participation requirement stated as a readable condition. |
 | autonomous_deadline | Main-story gate at which unresolved companion content advances. |
@@ -182,7 +183,7 @@ At least one quest per line must be primarily social or investigative, one must 
 
 [[Companion Campaign Expansion Register]] is the formal count authority. [[Companion Autonomy and Act Convergence]] controls tracking, deadlines, cross-support, and no-unseen-death rules.
 
-Existing companion notes retain `architecture_status: pending-migration` until their individual retrofit or deep block.
+Companion notes retain `architecture_status: pending-migration` until their individual retrofit or deep block. Completed campaigns, beginning with [[Elara Companion Campaign]], use `architecture_status: migrated`.
 
 ## Identity-Reactivity Standard
 

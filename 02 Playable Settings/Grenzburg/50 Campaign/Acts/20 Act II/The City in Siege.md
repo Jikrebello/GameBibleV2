@@ -16,7 +16,7 @@ act: act-2
 availability_window: ["Early Winter"]
 repeatability: one-shot
 cutoff_result: transforms
-world_state_outputs: ["lantern_ward_damage", "western_breach_state", "blackjack_yard_state", "millwheel_pumps_state"]
+world_state_outputs: ["lantern_ward_damage", "western_breach_state", "blackjack_yard_state", "millwheel_pumps_state", "elara_winter_roofline_proven"]
 required_locations: ["Lantern Ward", "Quarry Steps", "Debtors' Row", "Blackjack Yard", "Millwheel Works", "Wallwright Yard"]
 blocking_status: blocked
 quest_owner: "Grenzburg Main Campaign"
@@ -115,7 +115,9 @@ Wall damage, sapper tools, and observed river tracks prove the breach method. Ho
 
 ## Companion Intersections
 
-Ilyana can direct the counterattack but must expose real costs. Tavio stabilizes pumps or wall braces. Elara opens roof approaches. Zafir organizes controlled bound labor without living coercion. Bernard and Svala excel in civilian rescue. Every route has ordinary alternatives.
+Ilyana can direct the counterattack but must expose real costs. Tavio stabilizes pumps or wall braces. Zafir organizes controlled bound labor without living coercion. Bernard and Svala excel in civilian rescue. Every route has ordinary alternatives.
+
+[[Elara Velescar]] can lead the Market Roofline counterattack while reading fire damage, guard lines, and improvised winter footing. Completing that route with her records `elara_winter_roofline_proven`, one preparation asset for [[The Patron's Cabinet]]. The rooftop route and the campaign chapter remain viable without Elara.
 
 ## Faction Advantages
 

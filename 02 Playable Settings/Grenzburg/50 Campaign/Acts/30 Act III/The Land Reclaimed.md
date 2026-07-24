@@ -16,7 +16,7 @@ act: act-3
 availability_window: ["Early Spring", "Open Spring"]
 repeatability: one-shot
 cutoff_result: persists
-world_state_outputs: ["tannbruck_reclaimed", "muster_anchor_campaign_open", "spring_settlement_access"]
+world_state_outputs: ["tannbruck_reclaimed", "muster_anchor_campaign_open", "spring_settlement_access", "elara_living_claims_indexed"]
 required_locations: ["Fort Tannbruck", "Upper Grenz", "Old River Arsenal", "Tuskway Redoubt", "White Mud Causeway"]
 blocking_status: blocked
 quest_owner: "Grenzburg Main Campaign"
@@ -120,7 +120,9 @@ Each anchor updates `muster_anchor_count`, its region, its finale power, and its
 
 ## Companion Intersections
 
-All companion histories can react to return, remains, and rebuilding. Ilyana and Dismas carry especially strong military accountability scenes; Svala and Bernard support the living settlement; Ashira clarifies recurrence; Tavio, Elara, and Zafir open specialist routes. No companion is mandatory.
+All companion histories can react to return, remains, and rebuilding. Ilyana and Dismas carry especially strong military accountability scenes; Svala and Bernard support the living settlement; Ashira clarifies recurrence; Tavio and Zafir open specialist routes. No companion is mandatory.
+
+[[Elara Velescar]] can compare recovered stores, service rolls, makers' marks, and refugee testimony before salvage is redistributed. Giving copies to the living claimants rather than merely cataloguing valuable objects records `elara_living_claims_indexed`, one preparation asset for [[No Lady of Velescar]]. Ordinary clerks can complete the reclamation without her.
 
 ## Faction Advantages
 

@@ -9,7 +9,7 @@ culture: []
 related_factions: ["Blackjack Corps"]
 appears_in: ["Grenzburg"]
 needs:
-  - retrofit Elara and Bernard after this control pass
+  - retrofit Bernard after this control pass
   - deep-block the remaining six companions through individual approval passes
 aliases: ["Companion Personal Campaign Standard"]
 tags: [game-ready]
@@ -123,7 +123,7 @@ The expanded companion budget is added on top of the existing faction, marquee, 
 
 ## Migration
 
-[[Companion Campaign Expansion Register]] controls the 80 formal slots. Existing companion notes retain their current prose until an individual retrofit or deep block. They carry `architecture_status: pending-migration` during this interval.
+[[Companion Campaign Expansion Register]] controls the 80 formal slots. [[Elara Companion Campaign]] is the first completed migration. Existing notes for the other seven retain their current prose until an individual retrofit or deep block and carry `architecture_status: pending-migration` during that interval.
 
 ## Navigation
 

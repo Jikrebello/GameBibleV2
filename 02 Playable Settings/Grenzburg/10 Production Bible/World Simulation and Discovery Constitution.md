@@ -103,6 +103,18 @@ An encounter should normally be legible in the world before its map marker appea
 
 An encounter may finish immediately, begin a short chain, seed a formal quest, transform a later card, or leave a persistent scene. Failure may produce injury, loss, pursuit, a closed route, a hostile return, or a changed witness. It should not normally erase the event without consequence.
 
+## Reserved Companion Card
+
+**Abandoned Pack (EL-E10)** is a one-shot Elara card available on a travelled exterior route after [[Names Beneath Lime]]. Tracks, weather exposure, and one named possession establish that the pack may have a living owner. The player can search, secure, carry, leave, or trace it.
+
+[[Elara Velescar]] reacts according to her established direction:
+
+- accountable Elara first seeks the owner and records anything removed;
+- mixed Elara inventories the contents before deciding whose claim matters;
+- entitled Elara calls useful property abandoned too quickly.
+
+The card may influence `elara_direction` through a named choice, but never supplies an entire act-readiness threshold, repeats for approval, or kills its owner off-screen.
+
 ## Danger and Scaling
 
 Regional danger bands remain meaningful. Cards select suitable threats; they do not make every wolf, bandit, Grobi patrol, or residue formation scale directly to player level. Early entry into dangerous pockets remains possible, readable, and escapable.

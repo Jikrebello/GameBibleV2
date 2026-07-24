@@ -1,7 +1,7 @@
 ---
 type: quest
-status: canon
-canon_level: local
+status: archived
+canon_level: obsolete
 visibility: author-only
 era: ["Present Day"]
 region: ["Grenzburg", "Ledger Quays"]
@@ -14,47 +14,40 @@ quest_class: companion
 act: act-3
 availability_window: ["Early Spring", "Open Spring", "Muster Crisis"]
 repeatability: one-shot
-cutoff_result: resolves-offscreen
-world_state_outputs: ["elara_act3_finale_played", "elara_act3_result", "elara_arc_outcome", "elara_direction", "velescar_land_state", "velescar_burial_state", "velescar_title_state", "burial_repair_fund", "old_tithe_vault_state", "elara_summer_destination", "elara_relationship_perk", "elara_duo_move", "elara_duo_move_upgrade", "delver_duelist_blueprint"]
-reward_unlocks: ["The Last Claim", "Delver-Duelist blueprint", "Equal Footing or Witness at My Back"]
+cutoff_result: transforms
+world_state_outputs: ["elara_arc_outcome", "velescar_land_state", "velescar_burial_state", "velescar_title_state", "burial_repair_fund", "old_tithe_vault_state", "elara_summer_destination", "elara_relationship_perk", "elara_duo_move", "delver_duelist_blueprint"]
 required_locations: ["Blackjack Yard", "Ledger Quays", "Old Tithe Vault", "Hall of Petitions"]
 blocking_status: blocked
-architecture_status: migrated
+architecture_status: pending-migration
 companion_content_role: act-finale
 companion_campaign_stage: act-3
 quest_owner: "Elara Velescar"
-quest_sequence: 9
+quest_sequence: 4
 companion_id: "CMP-01"
 faction_line: ""
 faction_branch: ""
 chapter_id: ""
 main_sequence: 0
 story_gate: operation
-estimated_hours: 2
+estimated_hours: 2.5
 gameplay_pillars: [infiltration, traversal, combat, rescue, choice]
-required_states: ["elara_act2_chapter_resolved", "elara_act3_readiness_viable", "muster_known"]
-optional_state_inputs: ["elara_household_claims_protected", "elara_living_claims_indexed", "elara_kata_delegation_ready", "elara_burial_provenance_matched", "elara_old_tithe_route_known", "elara_raven_line_practiced", "cabinet_integrity", "elara_vardek_verdict", "elara_patron_refused", "vasko_dren_state", "daria_keln_state", "vardek_escape_route", "danara_veln_state", "kata_belyn_state", "grave_goods_state", "coerced_diggers_state", "elara_relationship_commitment"]
-field_experience_gate: []
+required_states: ["elara_companion_quest_3_complete", "open_thaw_reached"]
+optional_state_inputs: ["cabinet_integrity", "elara_vardek_verdict", "elara_patron_refused", "vasko_dren_state", "vasko_trace_state", "vardek_escape_route", "danara_veln_state", "kata_belyn_state", "grave_goods_state", "coerced_diggers_state", "church_record_trust", "civil_review_access", "bank_faction_resolution", "low_lantern_branch_state", "underways_route_access", "elara_relationship_commitment"]
+field_experience_gate: ["elara_reclamation_observed"]
 companion_required: "Elara Velescar"
 duo_quest: true
 pause_points: ["Vault Route Secured", "Clearing Chamber Secured"]
 relationship_gate: "Quest is ungated; final perk requires a committed romance or sworn bond"
-preparation_inputs: ["elara_household_claims_protected", "elara_living_claims_indexed", "elara_kata_delegation_ready", "elara_burial_provenance_matched", "elara_old_tithe_route_known"]
-preparation_threshold: "2 of 5"
-autonomous_deadline: "The Deep Muster"
-autonomous_resolution: "Elara races the estate interests alone; direction and readiness determine claims, title, and departure"
-changed_reentry: "The First Honest Find reflects the fixed settlement and cannot reopen it"
-ensemble_inputs: ["Ashira bath Melan", "Zafir ibn Samad"]
-identity_hooks: []
-encounter_deck: []
-persistence_scope: campaign
-postgame_season: ""
+archive_reason: "Snapshot before Elara's ten-piece companion campaign retrofit"
+archived_from: "02 Playable Settings/Grenzburg/50 Campaign/Companions/CMP-01 Elara Velescar/No Lady of Velescar.md"
+archived_on: 2026-07-24
+superseded_by: "[[No Lady of Velescar]]"
 ---
 # No Lady of Velescar
 
 ## Quest Function
 
-This is Elara's Act III finale, an estate-cache heist followed by a short public settlement. The player and Elara race Vardek's remaining interests beneath [[Ledger Quays]], recover the records needed to separate households from title, and decide whether Elara will finally relinquish the social fiction that enabled her crimes.
+Elara's fourth personal adventure is an estate-cache heist followed by a short public settlement. The player and Elara race Vardek's remaining interests beneath [[Ledger Quays]], recover the records needed to separate households from title, and decide whether Elara will finally relinquish the social fiction that enabled her crimes.
 
 The active party is only the player and Elara. Any clerk, porter, guard, claimant, or faction specialist who assists is a temporary NPC outside the squad limit.
 
@@ -62,7 +55,7 @@ The quest tests action before rhetoric. Elara cannot prove that people matter mo
 
 ## Unlock and Staging
 
-The quest opens once any two Act III readiness assets from [[Elara Companion Campaign]] are secured. A spring flood dislodges a blocked quay culvert and exposes the old Velescar clearing mark beneath a Medori warehouse.
+The quest opens after [[The Patron's Cabinet]] and one authored Act III reclamation or Muster observation. A spring flood dislodges a blocked quay culvert and exposes the old Velescar clearing mark beneath a Medori warehouse.
 
 Three people independently confirm that the cache is being emptied:
 
@@ -72,7 +65,7 @@ Three people independently confirm that the cache is being emptied:
 
 Whichever witness remains available supplies the lead. If all three are lost, a customs seizure from [[The Patron's Cabinet]] names the vault and its opening tide.
 
-Elara stages the operation from the Blackjack Yard. Accepting the quest dismisses other companions and locks the player-Elara duo until completion or an explicit pause. The tracked warning names readiness, flood risk, the three recoverable claim groups, and that crossing the Deep Muster gate fixes the autonomous settlement.
+Elara stages the operation from the Blackjack Yard. Accepting the quest dismisses other companions and locks the player-Elara duo until completion or an explicit pause. The warning names the flood risk, the three recoverable claim groups, and the approaching campaign cutoff.
 
 ## Immediate Stakes
 
@@ -89,7 +82,6 @@ Vardek's surviving interests intend to remove the wealth, burn the first two gro
 - [[Elara Velescar]]: knows the estate notation and must choose what her future is worth.
 - [[Lord Marek Vardek]]: appears only if his prior state permits; otherwise his written instructions and beneficiaries drive the clearance.
 - [[Vasko Dren]]: may command the loyalists if free; his prior capture or death is never undone.
-- [[Daria Keln]]: may direct record destruction and substitutions if she escaped earlier operations.
 - [[Kata Belyn]]: may identify worker claims and assist at the later petition hearing.
 - [[Danara Veln]]: can authenticate provenance and title instruments.
 - [[Ledger-Master Lucia Medori]]: may grant bounded access to the bonded stair but will protect legitimate third-party deposits.
@@ -180,9 +172,7 @@ No branch resurrects or preserves either antagonist. Both may be captured, kille
 
 The three archive paths meet at the old hoist. Fire from the land gallery, water from the drain, and combat damage can begin a structural failure. The player and Elara must secure recoveries, rescue temporary allies, and choose an evacuation route.
 
-Three readiness assets, a controlled Clearance Clock, or equivalent strong play makes all three recoveries achievable. Four or five assets add a protected cache or evacuation route. Otherwise Elara asks what goes first. Choosing land or burial records ahead of the title is the clearest evidence that she has rejected her central lie, but the final outcome also accounts for her conduct across the complete campaign.
-
-If `elara_raven_line_practiced` is true, Elara and the player can split across a rehearsed anchored route during the collapse and preserve one additional person or recovery. This never changes what Elara chooses to prioritize.
+If the duo prepared well and controlled the Clearance Clock, all three recoveries can be saved. Otherwise Elara asks what goes first. Choosing land or burial records ahead of the title is the clearest evidence that she has rejected her central lie, but the final outcome also accounts for her conduct across all four quests.
 
 ### Pause Point: Clearing Chamber Secured
 
@@ -196,10 +186,9 @@ The principal opponent is determined by prior outcomes:
 - **Vardek arrested:** his steward carries instructions to destroy household and burial claims.
 - **Vardek dead:** his heirs' factor tries to secure portable value and blame all destruction on Elara.
 - **Vasko free:** Vasko controls the physical withdrawal and may abandon Vardek's interests to save himself.
-- **Daria free:** Daria controls substituted records and may burn title evidence to preserve her account chain.
-- **All principals removed:** frightened retainers and commercial beneficiaries become divisible opposition rather than a substitute mastermind.
+- **Both removed:** frightened retainers and commercial beneficiaries become divisible opposition rather than a substitute mastermind.
 
-Accepting Vardek's restoration offer in [[The Patron's Cabinet]] does not lock the player into failure. Elara receives one explicit repudiation: surrender the title seal, save the claims, and testify that the agreement was corrupt. Repudiation costs the easiest wealth recovery and may expose her to additional judgement, but restores the resolved path if her wider conduct supports it.
+Accepting Vardek's restoration offer in Quest 3 does not lock the player into failure. Elara receives one explicit repudiation: surrender the title seal, save the claims, and testify that the agreement was corrupt. Repudiation costs the easiest wealth recovery and may expose her to additional judgement, but restores the resolved path if her wider conduct supports it.
 
 ## Fail-Forward Results
 
@@ -244,20 +233,16 @@ If the player actively supports it, she may remain through the immediate crisis 
 - `elara_summer_destination`: field-delver, claims-steward, lesser-lady, restored-lady, or departed;
 - `elara_relationship_perk`: equal-footing, witness-at-my-back, or none;
 - `elara_duo_move`: crossed-measure, back-to-back, or none;
-- `elara_duo_move_upgrade`: second-beat, held-line, or none;
-- `delver_duelist_blueprint`: unlocked or unavailable;
-- `elara_act3_finale_played`: true;
-- `elara_act3_result`: played-resolved, played-compromised, played-broken, autonomous-resolved-costly, autonomous-compromised, or autonomous-broken;
-- `elara_direction`: accountable, mixed, or entitled.
+- `delver_duelist_blueprint`: unlocked or unavailable.
 
 ## Relationship Resolution
 
 A committed relationship is tested by the vault, not replaced by it.
 
-- A resolved romance grants **Equal Footing** as a permanent non-slot perk and retains **Crossed Measure**, upgraded to **Second Beat** if [[Raven Shelf at Dawn]] was completed.
-- A resolved sworn bond grants **Witness at My Back** as a permanent non-slot perk and retains **Back-to-Back**, upgraded to **Held Line** if Raven Shelf was completed.
+- A resolved romance grants **Equal Footing** as a permanent non-slot perk and retains **Crossed Measure** while Elara is active.
+- A resolved sworn bond grants **Witness at My Back** as a permanent non-slot perk and retains **Back-to-Back** while Elara is active.
 - A compromised outcome still grants the learned perk and duo move, but the summer scene acknowledges the unresolved hierarchy.
-- A broken outcome grants no relationship reward because the Act III finale is the perk unlock. If Elara departs or dies after a resolved or compromised completion, the learned perk remains while the duo move becomes unavailable without her.
+- A broken outcome grants no relationship reward because quest four is the perk unlock. If Elara departs or dies after a resolved or compromised completion, the learned perk remains while the duo move becomes unavailable without her.
 
 The final private scene takes place on the repaired Blackjack Yard roof or beside the summer road. Elara does not ask to be forgiven on behalf of the people she harmed. She asks whether the relationship can continue with the truth kept visible.
 
@@ -271,32 +256,25 @@ The final private scene takes place on the repaired Blackjack Yard roof or besid
 
 The blueprint contains Elara's coherent rapier, pick, dart, mobility, and appraisal package. It does not add a ninth authored vocation or alter the player's native Slayer.
 
-## Autonomous Resolution and Cutoff
+## Seasonal Cutoff and Transformation
 
-The final commitment warning before [[The Deep Muster Main Quest|The Deep Muster]] names this quest. If left incomplete, the clearance happens during the crisis:
+The final commitment warning before [[The Deep Muster]] names this quest. If left incomplete, the clearance happens during the crisis:
 
-- accountable and Prepared Elara relinquishes the title and protects household land, but one material claim group or fund is permanently lost;
-- mixed Elara cancels household obligations and grants meaningful working rights while retaining a reduced title and private reserve;
-- entitled or Strained Elara restores the house through concealed wealth or destroyed claims and may depart;
-- available Ashira preserves one burial-provenance set;
-- available Zafir exposes one substituted title liability;
-- no permanent relationship perk, capstone, or blueprint unlocks from an unplayed finale.
+- one claim group survives according to the strongest prior evidence;
+- the title wealth is removed;
+- Elara reaches a compromised summer petition unless she was already broken;
+- no relationship perk, duo move, capstone, or blueprint unlocks.
 
-This deterministic result closes the adventure without pretending the vault waited indefinitely. [[The First Honest Find]] reflects it and cannot reopen the Hall of Petitions.
+This off-screen transformation closes the adventure without pretending the vault waited indefinitely.
 
 ## Navigation
 
 - [[Elara Velescar]]
-- [[Elara Companion Campaign]]
 - [[House Velescar]]
 - [[Lord Marek Vardek]]
 - [[Vasko Dren]]
-- [[Daria Keln]]
 - [[Kata Belyn]]
 - [[Danara Veln]]
-- [[Sixty-Three Claims]]
-- [[Raven Shelf at Dawn]]
-- [[The First Honest Find]]
 - [[Old Tithe Vault]]
 - [[Ledger Quays]]
 - [[Grenzburg City Anchor Register#District Anchors|Hall of Petitions]]

@@ -16,6 +16,7 @@ availability_window: []
 repeatability: one-shot
 cutoff_result: persists
 world_state_outputs: []
+reward_unlocks: []
 required_locations: []
 blocking_status: concept
 quest_owner: ""
