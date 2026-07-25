@@ -125,7 +125,7 @@ Every vocation can complete every critical route. Exact damage, frames, inputs, 
 | Critical-path chapters | 21 | Advance seasons, crises, systems, and campaign payoffs. |
 | Summer aftermath quests | 2 | Resolve world state and reopen the region after the finale. |
 | Deep faction lines | 48 authored notes, 45 playable in one run | Four nine-quest lines plus six shared and two exclusive three-quest underworld branches. |
-| Formal companion pieces | 80 authored, up to 74 playable in one run | Eight introductions, twenty-four operations, twenty-four act finales, eight friendship episodes, eight relationship episodes, and eight summer codas. |
+| Formal companion pieces | 88 authored, up to 74 playable in one run | Eight introductions, twenty-four operations, twenty-four act finales, eight friendship episodes, eight romance episodes, eight sworn-bond episodes, and eight summer codas. |
 | Embedded companion opportunities | 8-12 per companion | Main, faction, local, exploration, company, and systemic-world intersections that prepare personal chapters. |
 | Marquee authored quests | 24 | Large local stories with investigation, character, and consequence. |
 | Smaller local quests | 36 | Focused authored stories, discoveries, and practical problems. |

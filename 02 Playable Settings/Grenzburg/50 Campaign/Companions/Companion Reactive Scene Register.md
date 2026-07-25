@@ -14,7 +14,7 @@ tags: [game-ready]
 ---
 # Companion Reactive Scene Register
 
-This register reserves the scenes, observations, schedules, and main-story contributions that make companions present across the game. These beats supplement the eighty formal pieces and provide part of each companion's eight-to-twelve embedded opportunities. [[Companion Campaign Architecture]] controls the campaign shape; detailed companion registers control final authored exchange pools.
+This register reserves the scenes, observations, schedules, and main-story contributions that make companions present across the game. These beats supplement the eighty-eight authored pieces and provide part of each companion's eight-to-twelve embedded opportunities. [[Companion Campaign Architecture]] controls the campaign shape; detailed companion registers control final authored exchange pools.
 
 ## Shared Scene Rhythm
 
@@ -25,7 +25,7 @@ Every companion receives:
 3. at least one embedded main-story contribution in Act I;
 4. an Act I finale and friendship follow-up;
 5. at least one embedded main-story contribution in Act II;
-6. an Act II finale, commitment or refusal, and optional relationship episode;
+6. an Act II finale, commitment or refusal, followed by the eligible romance or sworn-bond episode;
 7. at least one embedded main-story contribution in Act III;
 8. an Act III finale and destination;
 9. a summer coda reflecting relationship and faction settlement.
@@ -36,7 +36,7 @@ Approval is displayed as Guarded, Open, Trusted, or Strained. Each scene names a
 
 Introductions and short operations use the normal party with the owner required. Act finales admit only the player and quest owner as full party members. Other companions may react before, after, or through autonomous cross-support, but they do not enter the player-led finale's emotional climax.
 
-Friendship and relationship episodes are one-on-one. Ordinary exploration and main-story contributions preserve ensemble banter.
+Friendship, romance, and sworn-bond episodes are one-on-one. Romance and bond are separate authored activities with different situations and emotional language; neither is a dialogue branch inside the other. Ordinary exploration and main-story contributions preserve ensemble banter.
 
 ## Autonomous Presence
 
@@ -61,7 +61,7 @@ At act endings, tracked campaigns show a consolidated readiness entry. Untracked
 
 ### Elara Velescar
 
-[[Elara Companion Campaign]] controls Elara's ten formal pieces, ten embedded opportunities, three act deadlines, deterministic autonomous route, and changed re-entry. Her embedded register is:
+[[Elara Companion Campaign]] controls Elara's eleven authored pieces, ten-piece playthrough ceiling, ten embedded opportunities, three act deadlines, deterministic autonomous route, and changed re-entry. Her embedded register is:
 
 1. a Southwood route reading in [[Roads Worth Saving]];
 2. a winter roofline contribution in [[The City in Siege]];
@@ -78,7 +78,7 @@ Only distinct authored instances count. Repeatable jobs, idle travel, and recycl
 
 ### Bernard Valeon
 
-[[Bernard Companion Campaign]] controls Bernard's ten formal pieces, ten embedded opportunities, three act deadlines, deterministic autonomous route, and changed re-entry. His embedded register is:
+[[Bernard Companion Campaign]] controls Bernard's eleven authored pieces, ten-piece playthrough ceiling, ten embedded opportunities, three act deadlines, deterministic autonomous route, and changed re-entry. His embedded register is:
 
 1. casualty and property safeguards in [[Roads Worth Saving]];
 2. a breach casualty lane in [[The City in Siege]];

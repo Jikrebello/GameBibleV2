@@ -16,7 +16,7 @@ architecture_status: migrated
 ---
 # Bernard Companion Campaign
 
-This is the controlling authority for Bernard Valeon's ten formal campaign pieces, preparation ladders, autonomous decisions, changed re-entry, embedded opportunities, and progression rewards. [[Bernard Valeon]] remains the character authority. [[Bernard Field Familiarity and Relationships]] controls approval and intimacy, [[Bernard Compulsion and Accountability System]] controls finite theft incidents, and [[Bernard Long Watch Greatsword Package]] controls combat.
+This is the controlling authority for Bernard Valeon's eleven authored campaign pieces, ten-piece playthrough ceiling, preparation ladders, autonomous decisions, changed re-entry, embedded opportunities, and progression rewards. [[Bernard Valeon]] remains the character authority. [[Bernard Field Familiarity and Relationships]] controls approval and intimacy, [[Bernard Compulsion and Accountability System]] controls finite theft incidents, and [[Bernard Long Watch Greatsword Package]] controls combat.
 
 ## Campaign Thesis
 
@@ -34,7 +34,7 @@ There is no recurring villain behind Bernard's problems. Bandits, winter, Grobi 
 
 ## Formal Campaign
 
-The ten pieces target approximately **11.75 first-play hours**. Ordinary exploration, failed approaches, systemic incidents, and embedded opportunities may extend the campaign without padding its formal sequence.
+The eleven authored pieces contain mutually exclusive romance and sworn-bond episodes. A playthrough exposes nine non-exclusive pieces and no more than one sequence-7 relationship episode, preserving approximately **11.75 first-play hours**. Ordinary exploration, failed approaches, systemic incidents, and embedded opportunities may extend the campaign without padding its formal sequence.
 
 | Sequence | ID | Piece | Role | Party | Hours | Principal function |
 |---:|---|---|---|---|---:|---|
@@ -44,12 +44,13 @@ The ten pieces target approximately **11.75 first-play hours**. Ordinary explora
 | 4 | CMP-05-FR | [[A Blade Freely Given]] | friendship | one-on-one | 0.5 | make ownership healthy through an unconditional gift |
 | 5 | CMP-05-A2-O | [[Four Fires]] | Act II operation | normal party | 0.75 | keep four shelters warm through practical, public provision |
 | 6 | CMP-05-A2-F | [[Embers Without Excuse]] | Act II finale | player and Bernard | 2.25 | face Froststep, spend the reserve, and unlock Paladin |
-| 7 | CMP-05-RL | [[Enough for Two]] | relationship | one-on-one | 0.5 | accept food, rest, affection, and mutual reliance |
+| 7 | CMP-05-RM | [[Enough for Two]] | romance | one-on-one | 0.5 | accept food, romantic care, a freely given bead, and intimacy without repayment |
+| 7 | CMP-05-BD | [[Watch Until Morning]] | sworn bond | one-on-one | 0.5 | repair a road shelter, share the watch, and become sworn brothers |
 | 8 | CMP-05-A3-O | [[Beds Before Banners]] | Act III operation | normal party | 0.75 | establish neutral patient use of West Refuge Hall |
 | 9 | CMP-05-A3-F | [[The Open Hospice]] | Act III finale | player and Bernard | 2.5 | test accountable care against the Unending Muster |
 | 10 | CMP-05-S | [[The First Open Table]] | summer coda | normal party or changed encounter | 0.5 | demonstrate Bernard's settled practice and destination |
 
-Only the three act finales invoke the formal fixed-duo rules. Friendship and relationship pieces are private activities rather than combat-balanced duo quests. Temporary children, carers, patients, witnesses, drivers, and soldiers remain outside the companion limit.
+Only the three act finales invoke the formal fixed-duo rules. Friendship, romance, and sworn-bond pieces are private activities rather than combat-balanced duo quests. Romance and bond are mutually exclusive, authored separately, and never presented as alternate dialogue inside the same scene. Temporary children, carers, patients, witnesses, drivers, and soldiers remain outside the companion limit.
 
 ## Tracking and Introduction
 
@@ -122,7 +123,7 @@ For quest gating, the docket derives `bernard_act1_readiness_viable`, `bernard_a
 | `bernard_underways_evacuation_route` | [[Grenzburg Worldspace Location Register#Bernard Embedded Care Routes|West Refuge exploration]] | a nonpublic withdrawal route that does not require underworld allegiance |
 | `bernard_named_store_custodians` | [[Bernard Compulsion and Accountability System#Open-Store Practice|Blackjack Yard custodian drill]] | independent witnesses for every supply category |
 
-Completing [[Enough for Two]] adds `bernard_table_received`. This bonus prevents one exhaustion-driven physical failure during [[The Open Hospice]]. It cannot declare a reserve, confess, choose patients, or set Bernard's moral outcome.
+Completing [[Enough for Two]] adds `bernard_table_received`; completing [[Watch Until Morning]] adds `bernard_second_bearer_practiced`. These mutually exclusive relationship bonuses each prevent one exhaustion-driven physical failure during [[The Open Hospice]]. They never stack and cannot declare a reserve, confess, choose patients, or set Bernard's moral outcome.
 
 ## Act Deadlines
 

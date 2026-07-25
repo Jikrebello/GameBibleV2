@@ -14,7 +14,7 @@ tags: [game-ready]
 ---
 # Grenzburg Companions MOC
 
-This is the production doorway for eight outsider-debtor companions, eighty formal companion pieces, and eight-to-twelve embedded opportunities per companion. [[Companion Constitution]] controls the roster and moral rules. [[Companion Campaign Architecture]] controls content shape and party format. [[Companion Autonomy and Act Convergence]] controls deadlines and unassisted progression. [[Companion Campaign Expansion Register]] is the count and migration authority.
+This is the production doorway for eight outsider-debtor companions, eighty-eight authored companion pieces, and eight-to-twelve embedded opportunities per companion. A playthrough can expose no more than seventy-four formal pieces because each companion has mutually exclusive romance and sworn-bond episodes, while the global relationship rules permit one committed romance and one committed bond. [[Companion Constitution]] controls the roster and moral rules. [[Companion Campaign Architecture]] controls content shape and party format. [[Companion Autonomy and Act Convergence]] controls deadlines and unassisted progression. [[Companion Campaign Expansion Register]] is the count and migration authority.
 
 ## Roster
 
@@ -37,15 +37,16 @@ This is the production doorway for eight outsider-debtor companions, eighty form
 | Short act operations | 3 | 24 |
 | Duo act finales | 3 | 24 |
 | Friendship episode | 1 | 8 |
-| Romance or bond episode | 1 | 8 |
+| Romance episode | 1 | 8 |
+| Sworn-bond episode | 1 | 8 |
 | Summer coda | 1 | 8 |
-| **Formal pieces** | **10** | **80** |
+| **Authored pieces** | **11** | **88** |
 
-Forty-four formal pieces now exist: Elara's and Bernard's complete ten-piece campaigns plus the twenty-four legacy sources for the other six companions. Thirty-six untitled slots remain reserved without creating empty notes. See [[Companion Campaign Expansion Register]].
+Forty-six formal pieces now exist: Elara's and Bernard's complete eleven-piece authored campaigns plus the twenty-four legacy sources for the other six companions. Forty-two untitled slots remain reserved without creating empty notes. An individual companion exposes nine non-exclusive pieces plus either the eligible romance episode or the eligible bond episode, never both. See [[Companion Campaign Expansion Register]].
 
 ## Existing Source Register
 
-Elara's and Bernard's ten pieces carry `architecture_status: migrated`. The remaining sources carry `pending-migration`: their existing Quest 1 becomes the introductory case and Quests 2-4 become the three act finales during that companion's retrofit.
+Elara's and Bernard's eleven authored pieces carry `architecture_status: migrated`. The remaining sources carry `pending-migration`: their existing Quest 1 becomes the introductory case and Quests 2-4 become the three act finales during that companion's retrofit.
 
 | ID | Quest | Owner | Act | Window | Status |
 |---|---|---|---|---|---|
@@ -55,7 +56,8 @@ Elara's and Bernard's ten pieces carry `architecture_status: migrated`. The rema
 | CMP-01-4 | [[A Better Wager]] | [[Elara Velescar]] | act-1 | Open Autumn, Early Winter | blocked |
 | CMP-01-5 | [[Eight Honest Warrants]] | [[Elara Velescar]] | act-2 | Early Winter, Deep Winter | blocked |
 | CMP-01-6 | [[The Patron's Cabinet]] | [[Elara Velescar]] | act-2 | Deep Winter | blocked |
-| CMP-01-7 | [[Raven Shelf at Dawn]] | [[Elara Velescar]] | act-3 | Early Spring | blocked |
+| CMP-01-RM | [[Raven Shelf at Dawn]] | [[Elara Velescar]] | act-3 | Early Spring | blocked |
+| CMP-01-BD | [[Two Names on the Rope]] | [[Elara Velescar]] | act-3 | Early Spring | blocked |
 | CMP-01-8 | [[Sixty-Three Claims]] | [[Elara Velescar]] | act-3 | Open Spring | blocked |
 | CMP-01-9 | [[No Lady of Velescar]] | [[Elara Velescar]] | act-3 | Open Spring, Muster Crisis | blocked |
 | CMP-01-10 | [[The First Honest Find]] | [[Elara Velescar]] | summer | Playable Summer | blocked |
@@ -77,7 +79,8 @@ Elara's and Bernard's ten pieces carry `architecture_status: migrated`. The rema
 | CMP-05-4 | [[A Blade Freely Given]] | [[Bernard Valeon]] | act-1 | Open Autumn, Early Winter | blocked |
 | CMP-05-5 | [[Four Fires]] | [[Bernard Valeon]] | act-2 | Early Winter, Deep Winter | blocked |
 | CMP-05-6 | [[Embers Without Excuse]] | [[Bernard Valeon]] | act-2 | Deep Winter, Early Spring | blocked |
-| CMP-05-7 | [[Enough for Two]] | [[Bernard Valeon]] | act-2 | Deep Winter, Early Spring | blocked |
+| CMP-05-RM | [[Enough for Two]] | [[Bernard Valeon]] | act-3 | Early Spring | blocked |
+| CMP-05-BD | [[Watch Until Morning]] | [[Bernard Valeon]] | act-3 | Early Spring | blocked |
 | CMP-05-8 | [[Beds Before Banners]] | [[Bernard Valeon]] | act-3 | Early Spring, Open Spring | blocked |
 | CMP-05-9 | [[The Open Hospice]] | [[Bernard Valeon]] | act-3 | Early Spring, Open Spring, Muster Crisis | blocked |
 | CMP-05-10 | [[The First Open Table]] | [[Bernard Valeon]] | summer | Playable Summer | blocked |
@@ -118,26 +121,26 @@ Elara's and Bernard's ten pieces carry `architecture_status: migrated`. The rema
 
 ### CMP-01: Elara Velescar
 
-- [[Elara Companion Campaign]]: controlling ten-piece campaign, preparation, autonomy, changed re-entry, embedded opportunities, and rewards.
+- [[Elara Companion Campaign]]: controlling eleven-piece authored campaign, ten-piece playthrough ceiling, preparation, autonomy, changed re-entry, embedded opportunities, and rewards.
 - [[Elara Velescar]]: controlling character bible.
 - [[Elara Field Familiarity and Relationships]]: approval, release gates, commitment, departure, and permanent rewards.
 - [[Elara Delver-Duelist Package]]: companion combat language, progression, and custom-vocation unlocks.
 - [[Elara Banter and Reactivity]]: pair banter, faction attitudes, location observations, and seasonal dialogue.
 - [[House Velescar]]: estate history, household claims, and outcome boundaries.
-- [[Names Beneath Lime]], [[The Sixth Field Book]], [[A House Fed by Bones]], [[A Better Wager]], [[Eight Honest Warrants]], [[The Patron's Cabinet]], [[Raven Shelf at Dawn]], [[Sixty-Three Claims]], [[No Lady of Velescar]], and [[The First Honest Find]]: ten production-blocked formal pieces.
+- [[Names Beneath Lime]], [[The Sixth Field Book]], [[A House Fed by Bones]], [[A Better Wager]], [[Eight Honest Warrants]], [[The Patron's Cabinet]], [[Raven Shelf at Dawn]], [[Two Names on the Rope]], [[Sixty-Three Claims]], [[No Lady of Velescar]], and [[The First Honest Find]]: eleven production-blocked authored pieces, of which no more than ten can appear in one playthrough.
 
 ### CMP-05: Bernard Valeon
 
-- [[Bernard Companion Campaign]]: controlling ten-piece campaign, preparation, autonomy, changed re-entry, embedded opportunities, and rewards.
+- [[Bernard Companion Campaign]]: controlling eleven-piece authored campaign, ten-piece playthrough ceiling, preparation, autonomy, changed re-entry, embedded opportunities, and rewards.
 - [[Bernard Valeon]]: controlling character bible.
 - [[Bernard Field Familiarity and Relationships]]: approval, release rules, commitment, departure, and permanent relationship rewards.
 - [[Bernard Compulsion and Accountability System]]: finite systemic incidents, the Things Not Mine pouch, and owner-facing restitution.
 - [[Bernard Long Watch Greatsword Package]]: companion combat language, Paladin progression, and custom-vocation unlocks.
 - [[Bernard Banter and Reactivity]]: companion exchanges, Last Ember responses, faction attitudes, routines, and seasonal dialogue.
 - [[The Froststep Evacuation]] and [[Hospice of the Lantern Road]]: controlling history and institutional origin.
-- [[Little Things Missing]], [[The Wagon in the Reeds]], [[Little Hands, Long Road]], [[A Blade Freely Given]], [[Four Fires]], [[Embers Without Excuse]], [[Enough for Two]], [[Beds Before Banners]], [[The Open Hospice]], and [[The First Open Table]]: ten production-blocked formal pieces.
+- [[Little Things Missing]], [[The Wagon in the Reeds]], [[Little Hands, Long Road]], [[A Blade Freely Given]], [[Four Fires]], [[Embers Without Excuse]], [[Enough for Two]], [[Watch Until Morning]], [[Beds Before Banners]], [[The Open Hospice]], and [[The First Open Table]]: eleven production-blocked authored pieces, of which no more than ten can appear in one playthrough.
 
-Elara and Bernard are fully migrated to the ten-piece architecture. The other six remain outlined and will be deep-blocked directly against the new standard. No later companion's threshold or autonomous result is canonized without its planned user-guided pass.
+Elara and Bernard are fully migrated to the eleven-piece authored architecture and ten-piece playthrough ceiling. The other six remain outlined and will be deep-blocked directly against the new standard. No later companion's threshold or autonomous result is canonized without its planned user-guided pass.
 
 ## Controls
 

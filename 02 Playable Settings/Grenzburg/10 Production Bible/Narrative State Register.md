@@ -60,7 +60,7 @@ Every act finale sets `duo_finale_state` to staged before dismissing the other a
 | CMP-07 | [[Tavio Meran]] | man | [[Rune Fist]] |
 | CMP-08 | [[Zafir ibn Samad]] | man | [[Binder]] |
 
-Each ID owns ten formal content slots through [[Companion Campaign Expansion Register]], eight to twelve embedded opportunities, three act-specific autonomous routes, and one main-campaign contribution per act.
+Each ID owns eleven authored content slots through [[Companion Campaign Expansion Register]]: nine non-exclusive pieces, one romance episode, and one sworn-bond episode. At most ten pieces can appear for one companion in a playthrough. Each ID also owns eight to twelve embedded opportunities, three act-specific autonomous routes, and one main-campaign contribution per act.
 
 ## Systemic World State
 
@@ -211,10 +211,14 @@ Duplicate implementation keys across these authorities are prohibited unless one
 | `petra_ilev_response` | companion | Bernard Valeon | 6 | [[Embers Without Excuse]] |
 | `long_watch_return_open` | companion | Bernard Valeon | 6 | [[Embers Without Excuse]] |
 | `lantern_relief_mission_state` | companion | Bernard Valeon | 6 | [[Embers Without Excuse]] |
-| `bernard_relationship_episode` | relationship | Bernard Valeon | 7 | [[Enough for Two]] |
+| `bernard_romance_episode` | relationship | Bernard Valeon | 7 | [[Enough for Two]] |
+| `bernard_romance_move_upgrade` | relationship | Bernard Valeon | 7 | [[Enough for Two]] |
 | `bernard_table_received` | companion preparation | Bernard Valeon | 7 | [[Enough for Two]] |
-| `bernard_duo_move_upgrade` | relationship | Bernard Valeon | 7 | [[Enough for Two]] |
 | `private_feast_state` | relationship | Bernard Valeon | 7 | [[Enough for Two]] |
+| `bernard_bond_episode` | relationship | Bernard Valeon | 7 | [[Watch Until Morning]] |
+| `bernard_bond_move_upgrade` | relationship | Bernard Valeon | 7 | [[Watch Until Morning]] |
+| `bernard_second_bearer_practiced` | companion preparation | Bernard Valeon | 7 | [[Watch Until Morning]] |
+| `cairnside_shelter_state` | companion | Bernard Valeon | 7 | [[Watch Until Morning]] |
 | `bernard_west_refuge_neutral_claim` | companion preparation | Bernard Valeon | 8 | [[Beds Before Banners]] |
 | `west_refuge_hall_state` | companion | Bernard Valeon | 8 | [[Beds Before Banners]] |
 | `west_refuge_sponsor_terms` | companion | Bernard Valeon | 8 | [[Beds Before Banners]] |
@@ -230,6 +234,7 @@ Duplicate implementation keys across these authorities are prohibited unless one
 | `paladin_capstone_unlocked` | progression | Bernard Valeon | 9 | [[The Open Hospice]] |
 | `long_watch_field_form_blueprint` | progression | Bernard Valeon | 9 | [[The Open Hospice]] |
 | `bernard_relationship_perk` | relationship | Bernard Valeon | 9 | [[The Open Hospice]] |
+| `bernard_duo_move_upgrade` | relationship | Bernard Valeon | 9 | [[The Open Hospice]] |
 | `bernard_owned_greatsword_name` | companion | Bernard Valeon | 9 | [[The Open Hospice]] |
 | `bernard_summer_destination` | companion | Bernard Valeon | 9 | [[The Open Hospice]] |
 | `bernard_summer_coda` | companion | Bernard Valeon | 10 | [[The First Open Table]] |
@@ -286,14 +291,18 @@ Duplicate implementation keys across these authorities are prohibited unless one
 | `elara_kata_delegation_ready` | companion preparation | Elara Velescar | 4 | [[Kata Belyn]] |
 | `elara_burial_provenance_matched` | companion preparation | Elara Velescar | 4 | [[The Names They Buried]] |
 | `elara_old_tithe_route_known` | companion preparation | Elara Velescar | 4 | [[Elara Companion Campaign]] |
+| `elara_romance_episode` | relationship | Elara Velescar | 4 | [[Raven Shelf at Dawn]] |
+| `elara_romance_move_upgrade` | relationship | Elara Velescar | 4 | [[Raven Shelf at Dawn]] |
 | `elara_raven_line_practiced` | companion bonus | Elara Velescar | 4 | [[Raven Shelf at Dawn]] |
+| `raven_signal_runner_state` | companion | Elara Velescar | 4 | [[Raven Shelf at Dawn]] |
+| `elara_bond_episode` | relationship | Elara Velescar | 4 | [[Two Names on the Rope]] |
+| `elara_bond_move_upgrade` | relationship | Elara Velescar | 4 | [[Two Names on the Rope]] |
+| `elara_two_names_line_practiced` | companion bonus | Elara Velescar | 4 | [[Two Names on the Rope]] |
+| `windcut_return_route_state` | companion | Elara Velescar | 4 | [[Two Names on the Rope]] |
 | `elara_wager_scene` | relationship | Elara Velescar | 1 | [[Elara Field Familiarity and Relationships]] |
 | `elara_friendship_episode` | relationship | Elara Velescar | 2 | [[A Better Wager]] |
 | `elara_rooftop_wager_result` | relationship | Elara Velescar | 2 | [[A Better Wager]] |
 | `elara_without_powder_scene` | relationship | Elara Velescar | 2 | [[A Better Wager]] |
-| `elara_relationship_episode` | relationship | Elara Velescar | 4 | [[Raven Shelf at Dawn]] |
-| `elara_duo_move_upgrade` | relationship | Elara Velescar | 4 | [[Raven Shelf at Dawn]] |
-| `raven_signal_runner_state` | companion | Elara Velescar | 4 | [[Raven Shelf at Dawn]] |
 | `elara_first_confession` | companion | Elara Velescar | 1 | [[Names Beneath Lime]] |
 | `elara_names_recorded` | companion | Elara Velescar | 1 | [[Names Beneath Lime]] |
 | `elara_public_culpability` | companion | Elara Velescar | 1 | [[Names Beneath Lime]] |
@@ -336,6 +345,7 @@ Duplicate implementation keys across these authorities are prohibited unless one
 | `elara_summer_destination` | companion | Elara Velescar | 4 | [[No Lady of Velescar]] |
 | `elara_relationship_perk` | relationship | Elara Velescar | 4 | [[No Lady of Velescar]] |
 | `elara_duo_move` | relationship | Elara Velescar | 4 | [[No Lady of Velescar]] |
+| `elara_duo_move_upgrade` | relationship | Elara Velescar | 4 | [[No Lady of Velescar]] |
 | `delver_duelist_blueprint` | progression | Elara Velescar | 4 | [[No Lady of Velescar]] |
 | `elara_summer_coda` | companion | Elara Velescar | 5 | [[The First Honest Find]] |
 | `ropehouse_find_state` | companion | Elara Velescar | 5 | [[The First Honest Find]] |

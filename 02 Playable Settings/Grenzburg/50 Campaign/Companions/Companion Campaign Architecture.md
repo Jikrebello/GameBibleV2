@@ -31,11 +31,14 @@ The player may participate deeply, intermittently, or not at all. A companion's 
 | Short act operation | 3 | 24 |
 | Duo act finale | 3 | 24 |
 | Friendship episode | 1 | 8 |
-| Romance or sworn-bond episode | 1 | 8 |
+| Romance episode | 1 | 8 |
+| Sworn-bond episode | 1 | 8 |
 | Summer coda | 1 | 8 |
-| **Formal pieces** | **10** | **80** |
+| **Authored pieces** | **11** | **88** |
 
 Each companion also receives 8-12 embedded opportunities inside main quests, faction work, local stories, exploration, systemic encounters, and Blackjack company life. Embedded opportunities are authored variants rather than separate quest notes unless their playable scope earns one.
+
+Nine pieces per companion are non-exclusive, producing seventy-two pieces across the roster. A committed companion exposes either the romance episode or the sworn-bond episode, never both. Because a playthrough permits one romance and one sworn bond across the roster, the maximum is seventy-four pieces: seventy-two non-exclusive, one romance, and one bond.
 
 ## Existing-Quest Mapping
 
@@ -58,9 +61,9 @@ The owning companion is required, but the ordinary player-plus-three field party
 
 Each act finale uses the player and quest owner as the only full party members. Temporary guides, witnesses, soldiers, patients, prisoners, or rescued NPCs remain outside the companion limit.
 
-### Relationship Episodes
+### Friendship, Romance, and Bond Episodes
 
-Friendship, romance, and sworn-bond episodes are one-on-one authored scenes or activities. They need not become combat missions. They may include temporary NPCs where the story requires them.
+Friendship, romance, and sworn-bond episodes are separate one-on-one authored scenes or activities. They need not become combat missions. Romance and bond may never be two dialogue branches inside the same activity. They may include temporary NPCs where the story requires them.
 
 ## Per-Act Shape
 
@@ -104,8 +107,9 @@ Preparation improves entry, information, allies, risk, rescue capacity, or final
 
 - Every companion receives one friendship episode available to any player after the Act I finale.
 - Relationship commitment remains after the Act II finale.
-- A committed opposite-sex romance or same-sex sworn bond opens one additional Act III episode.
-- Romance and bond variants have equivalent production and mechanical budgets.
+- Every companion receives one authored opposite-sex romance episode and one authored same-sex sworn-bond episode.
+- Commitment opens only the eligible episode and permanently excludes the other variant for that companion.
+- Romance and bond have distinct premises, activities, emotional language, states, and rewards with equivalent production and mechanical budgets.
 - A friend may achieve the companion's strongest moral resolution.
 - Relationship commitment grants the existing duo-move structure; the permanent non-slot perk remains tied to the resolved or compromised Act III outcome.
 - Every companion receives one summer coda. The coda reflects rather than changes the settled outcome.
@@ -122,7 +126,7 @@ The expanded companion budget is added on top of the existing faction, marquee, 
 
 ## Migration
 
-[[Companion Campaign Expansion Register]] controls the 80 formal slots. [[Elara Companion Campaign]] and [[Bernard Companion Campaign]] are completed migrations. Existing notes for the other six retain their current prose until an individual retrofit or deep block and carry `architecture_status: pending-migration` during that interval.
+[[Companion Campaign Expansion Register]] controls the 88 authored slots and the seventy-four-piece playthrough ceiling. [[Elara Companion Campaign]] and [[Bernard Companion Campaign]] are completed migrations. Existing notes for the other six retain their current prose until an individual retrofit or deep block and carry `architecture_status: pending-migration` during that interval.
 
 ## Navigation
 

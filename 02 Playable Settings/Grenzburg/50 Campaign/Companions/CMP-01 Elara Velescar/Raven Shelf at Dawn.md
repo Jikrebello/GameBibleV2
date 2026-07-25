@@ -15,12 +15,13 @@ act: act-3
 availability_window: ["Early Spring", "Open Spring"]
 repeatability: one-shot
 cutoff_result: resolves-offscreen
-world_state_outputs: ["elara_relationship_episode", "elara_raven_line_practiced", "elara_duo_move_upgrade", "raven_signal_runner_state"]
-reward_unlocks: ["Crossed Measure: Second Beat or Back-to-Back: Held Line", "Raven Line Practiced"]
+world_state_outputs: ["elara_romance_episode", "elara_romance_move_upgrade", "elara_raven_line_practiced", "raven_signal_runner_state"]
+reward_unlocks: ["Crossed Measure: Second Beat", "Raven Line Practiced"]
 required_locations: ["Highlake", "Raven Shelf", "Blue Ice Cave"]
 blocking_status: blocked
 architecture_status: migrated
 companion_content_role: relationship
+relationship_variant: romance
 companion_campaign_stage: act-3
 quest_owner: "Elara Velescar"
 quest_sequence: 7
@@ -32,17 +33,17 @@ main_sequence: 0
 story_gate: relationship
 estimated_hours: 0.5
 gameplay_pillars: [traversal, weather, rescue, conversation]
-required_states: ["elara_relationship_commitment", "elara_act2_finale_played"]
+required_states: ["elara_relationship_commitment: romance-committed", "elara_act2_finale_played"]
 optional_state_inputs: ["highlake_carrier_terms", "spring_settlement_access", "elara_bridgehold_line_practiced"]
 field_experience_gate: []
 companion_required: "Elara Velescar"
 duo_quest: false
 pause_points: ["Signal Runner Safe"]
-relationship_gate: "Committed romance or sworn bond"
+relationship_gate: "Male player; elara_relationship_commitment: romance-committed"
 preparation_inputs: []
 preparation_threshold: ""
 autonomous_deadline: "The Deep Muster"
-autonomous_resolution: "The episode closes without injury or relationship penalty; its upgrade and Raven Line asset are not earned"
+autonomous_resolution: "The romance episode closes without relationship penalty; its upgrade and Raven Line asset are not earned"
 changed_reentry: "Summer dialogue acknowledges the missed climb but does not replay it"
 ensemble_inputs: []
 identity_hooks: []
@@ -54,9 +55,9 @@ postgame_season: ""
 
 ## Quest Function
 
-This is Elara's committed relationship episode. It deepens either romance or sworn bond through a private expedition, a weather-driven rescue, and explicit reliance without making intimacy responsible for her moral reform.
+This is Elara's romance episode for a male player. It deepens physical and emotional intimacy through a private expedition, a weather-driven rescue, and explicit reliance without making romance responsible for her moral reform.
 
-The episode grants a relationship move upgrade and a material Act III advantage. It cannot determine the resolved, compromised, or broken outcome.
+The episode grants the romance move upgrade and a material Act III advantage. It cannot determine the resolved, compromised, or broken outcome.
 
 ## Hook
 
@@ -116,19 +117,9 @@ Highlake responds to the material result. Relationship quality does not depend o
 
 Once Nika is secured with a returning signal crew or sheltered below the shelf, the player and Elara make the private camp originally intended.
 
-### Romance
-
 Elara speaks about the difference between being accompanied and being possessed. She does not offer the player a place in a restored house. She asks whether they can choose expeditions, returns, danger, and ordinary life as equals whose futures remain their own.
 
-The scene may become physically intimate and fades to black.
-
-### Sworn Bond
-
-Elara proposes a practical promise: truthful spoils, named claims, no abandonment for proof, and a duty to return for the other without converting aid into ownership.
-
-The bond is witnessed by the pair's shared route marks rather than an institution.
-
-Neither scene grants forgiveness for Elara's past or asks the player to supervise her conscience.
+The player may reciprocate, ask for more time, or reaffirm the commitment without sex. If welcomed, the scene becomes physically intimate and fades to black. None of these responses grants forgiveness for Elara's past or asks the player to supervise her conscience.
 
 ## Move Upgrades
 
@@ -136,11 +127,7 @@ Neither scene grants forgiveness for Elara's past or asks the player to supervis
 
 The romance upgrade preserves the existing setup and vocation-specific finisher. After the finisher, Elara provides a guarded disengagement and leaves a surviving target's opened point marked for one immediate follow-up. It cannot chain indefinitely or bypass boss phases.
 
-### Back-to-Back: Held Line
-
-The sworn-bond upgrade preserves Elara's contextual interception. The protected rescue, revive, climb, or mechanism interaction withstands one ordinary interruption, and the intercepted attacker becomes exposed. Boss grabs and authored catastrophic hazards still require their intended answers.
-
-Both have equivalent encounter budgets and require Elara in the active party.
+The upgrade requires Elara in the active party.
 
 ## Raven Line Practiced
 
@@ -154,9 +141,9 @@ Beginning [[The Deep Muster Main Quest|The Deep Muster]] closes the episode. Hig
 
 ## Outputs and Rewards
 
-- `elara_relationship_episode`: romance-complete, bond-complete, declined, or missed;
+- `elara_romance_episode`: complete, declined, or missed;
+- `elara_romance_move_upgrade`: second-beat or none;
 - `elara_raven_line_practiced`: true or false;
-- `elara_duo_move_upgrade`: second-beat, held-line, or none;
 - `raven_signal_runner_state`: safe, injured, cave-recovered, or independently-recovered.
 
 ## Navigation

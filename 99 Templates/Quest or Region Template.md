@@ -36,6 +36,7 @@ companion_required: ""
 duo_quest: false
 pause_points: []
 relationship_gate: ""
+relationship_variant: ""
 companion_content_role: ""
 companion_campaign_stage: ""
 architecture_status: ""

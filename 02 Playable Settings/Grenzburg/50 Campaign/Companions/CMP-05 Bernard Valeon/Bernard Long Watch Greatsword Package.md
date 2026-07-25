@@ -107,7 +107,8 @@ These effects remain restrained. [[Embers Without Excuse]] does not make the Lor
 | [[Little Hands, Long Road]] | **Shelter at My Back:** improved interposition around civilians, children, and rescue targets | Long Watch rescue augment enters the custom-part library |
 | [[A Blade Freely Given]] | honest kit provenance and personally owned greatsword | lawful gift scene and `bernard_long_watch_kit_provenance` |
 | [[Embers Without Excuse]] | Mercy Between Blows, Burden Shared, and committed relationship duo move | [[Paladin]] vocation unlock only on personal completion |
-| [[Enough for Two]] | relationship duo move upgrade | Warmth Returned or Two Bearers |
+| [[Enough for Two]] | Shared Ember: Warmth Returned | Table Received safeguard in the Act III finale |
+| [[Watch Until Morning]] | No One Alone: Two Bearers | Second Bearer safeguard in the Act III finale |
 | [[The Open Hospice]] | Last Ember and, on resolved survival, the name **Open Hand** | Long Watch Field Form blueprint and Paladin capstone on eligible personal completion |
 
 ## Custom-Vocation Transfer

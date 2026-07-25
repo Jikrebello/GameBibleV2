@@ -14,7 +14,7 @@ tags: [game-ready]
 ---
 # Companion Constitution
 
-This note controls Grenzburg's companion roster, field availability, approval, personal campaigns, relationships, departure, and ending treatment. [[Companion Campaign Architecture]] controls the eighty formal pieces and party formats. [[Companion Autonomy and Act Convergence]] controls schedules, act deadlines, unassisted outcomes, and changed re-entry. [[Companion Field Familiarity and Duo Quest Standard]] controls shared history and staging. [[Companions MOC]] is the operational doorway. Individual and autonomous outcomes are playthrough states and do not become future-setting canon.
+This note controls Grenzburg's companion roster, field availability, approval, personal campaigns, relationships, departure, and ending treatment. [[Companion Campaign Architecture]] controls the eighty-eight authored pieces, seventy-four-piece playthrough ceiling, and party formats. [[Companion Autonomy and Act Convergence]] controls schedules, act deadlines, unassisted outcomes, and changed re-entry. [[Companion Field Familiarity and Duo Quest Standard]] controls shared history and staging. [[Companions MOC]] is the operational doorway. Individual and autonomous outcomes are playthrough states and do not become future-setting canon.
 
 ## Fixed Roster
 
@@ -41,18 +41,21 @@ Declining an initial field invitation does not erase a companion from the Blackj
 
 ## Personal Campaign Contract
 
-Every companion owns ten formal pieces:
+Every companion owns eleven authored pieces:
 
 1. one introductory case;
 2. one short operation in each main act;
 3. one duo finale in each main act;
 4. one friendship episode;
-5. one committed romance or sworn-bond episode;
-6. one summer coda.
+5. one opposite-sex romance episode;
+6. one same-sex sworn-bond episode;
+7. one summer coda.
 
 Each companion additionally receives eight to twelve embedded opportunities across main, faction, local, exploration, company, and systemic-world content.
 
-The introductory case maps from the old first quest. The old second, third, and fourth quests become the Act I, Act II, and Act III finales during retrofit. Operations and introductions require the owner but retain the normal party. Act finales use the player-plus-owner duo. Relationship episodes are one-on-one but need not be combat missions.
+Nine authored pieces are non-exclusive. An ordinary friend may complete those nine. A companion chosen for romance or sworn bond exposes one eligible relationship episode for a ten-piece personal playthrough; the other authored episode remains unavailable.
+
+The introductory case maps from the old first quest. The old second, third, and fourth quests become the Act I, Act II, and Act III finales during retrofit. Operations and introductions require the owner but retain the normal party. Act finales use the player-plus-owner duo. Friendship, romance, and bond episodes are separate one-on-one pieces but need not be combat missions.
 
 Each act finale receives three to five meaningful preparation opportunities and a bespoke participation threshold. Every unresolved act chapter advances at the main act's final transition. Personal content may alter main operations but never supplies a mandatory key. Every player vocation remains viable.
 
@@ -84,7 +87,8 @@ Death occurs only through a late, explicit sacrifice after alternatives are made
 - A playthrough may commit to one romance and one sworn bond.
 - Early interest may overlap. Commitment occurs only after the Act II finale and always names what closes.
 - Every player may complete the companion's friendship episode.
-- A committed romance or sworn bond opens one additional Act III relationship episode.
+- Every companion has separate authored romance and sworn-bond episodes. Commitment opens exactly one.
+- Romance cannot reuse the bond's activity with affectionate dialogue added, and bond cannot reuse the romance's scene with affection removed.
 - Friendship remains sufficient for the companion's strongest moral outcome.
 - Mature intimacy fades to black.
 - Neither path grants ownership, automatic agreement, immunity from departure, or a canonical ending.

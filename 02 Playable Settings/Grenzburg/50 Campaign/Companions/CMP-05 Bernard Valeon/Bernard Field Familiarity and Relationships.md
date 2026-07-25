@@ -70,7 +70,7 @@ Commitment to [[Ghor at the Gate]] resolves the chapter autonomously. The transi
 
 [[Beds Before Banners]] prepares West Refuge Hall. [[The Open Hospice]] becomes joinable when two of its five Act III assets are held and remains open until commitment to [[The Deep Muster Main Quest|The Deep Muster]]. No relationship is required: a trusted friend may reach Bernard's strongest moral resolution and every non-romantic destination.
 
-[[Enough for Two]] is an additional episode for a committed romance or sworn bond. [[The First Open Table]] reflects the settled or autonomous result in summer and never reopens the hospice judgement.
+A committed romance unlocks [[Enough for Two]]. A committed sworn bond unlocks [[Watch Until Morning]]. The two episodes are separate authored experiences and mutually exclusive. [[The First Open Table]] reflects the settled or autonomous result in summer and never reopens the hospice judgement.
 
 Only [[Little Hands, Long Road]], [[Embers Without Excuse]], and [[The Open Hospice]] are fixed player-plus-Bernard duo quests. Operations retain the normal field party; friendship and relationship episodes are private one-on-one activities.
 
@@ -130,13 +130,13 @@ Commitment requires:
 
 ### Romance
 
-A female player may enter romance. She gives Bernard one plain wooden bead. Before accepting it, he asks whether it is freely and finally given. On confirmation, he threads it onto the prayer rope rather than surrendering the rope or treating the player as its new custodian.
+A female player may enter romance. Bernard asks whether care can be received without becoming debt and whether the relationship can proceed without making either person the other's custodian. The commitment opens [[Enough for Two]], where the freely given prayer-rope bead and romantic intimacy receive their own authored scene.
 
 The commitment promises companionship without ownership, honest naming of urges without policing, and a shared road that either person may still choose.
 
 ### Sworn Bond
 
-A male player may enter a sworn bond. Bernard and the player tie matching shelter knots from a common length of ordinary cord. They promise to name danger, return for the endangered, and speak before shame becomes concealment. The bond does not imitate romance or clerical brotherhood.
+A male player may enter a sworn bond. Bernard asks whether the two men should become more than ordinary friends through mutual truth, return, and service without either claiming authority over the other. The commitment opens [[Watch Until Morning]], where they repair Cairnside Shelter and explicitly become sworn brothers through a Long Watch lay custom. The bond does not imitate romance, marriage, or ordination.
 
 Declining either path preserves friendship, quest access, Paladin progression, and the strongest non-relationship endings.
 
@@ -174,7 +174,7 @@ Commitment after [[Embers Without Excuse]] unlocks this Bernard-only duo move. B
 
 ### No One Alone: Two Bearers
 
-[[Enough for Two]] upgrades the move. A rescue, carry, or revival survives one ordinary interruption and grants both characters brief Staying Power when the protected action completes. Damage, boss mechanics, and total defeat remain possible.
+[[Watch Until Morning]] upgrades the move. A rescue, carry, or revival survives one ordinary interruption and grants both characters brief Staying Power when the protected action completes. Damage, boss mechanics, and total defeat remain possible.
 
 ## Future Paths
 
@@ -207,6 +207,7 @@ Neither relationship cures his compulsion, guarantees agreement, prevents a warn
 - [[Bernard Banter and Reactivity]]
 - [[A Blade Freely Given]]
 - [[Enough for Two]]
+- [[Watch Until Morning]]
 - [[Companion Field Familiarity and Duo Quest Standard]]
 - [[Narrative State Register]]
 - [[Companions MOC]]

@@ -292,6 +292,7 @@ The original heist closes. Early Spring changed re-entry, **Cabinet After Snow**
 - [[Eight Honest Warrants]]
 - [[A Better Wager]]
 - [[Raven Shelf at Dawn]]
+- [[Two Names on the Rope]]
 - [[House Velescar]]
 - [[Old Tithe Vault]]
 - [[No Lady of Velescar]]

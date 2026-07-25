@@ -204,10 +204,13 @@ She does not require the player to reject all wealth, title, private property, o
 4. [[A Better Wager]] establishes friendship through a roof race with nothing to exploit.
 5. [[Eight Honest Warrants]] separates evidence from genuine winter relief.
 6. [[The Patron's Cabinet]] closes Act II with Vardek's restoration offer.
-7. [[Raven Shelf at Dawn]] deepens a committed romance or sworn bond.
+7. [[Raven Shelf at Dawn]] deepens a male-player romance through a Highlake ascent, rescue, and private camp.
+7. [[Two Names on the Rope]] establishes a female-player sworn bond through equal survey, reciprocal rescue, and guaranteed return.
 8. [[Sixty-Three Claims]] protects household instructions before settlement.
 9. [[No Lady of Velescar]] closes Act III at the Old Tithe Vault and Hall of Petitions.
 10. [[The First Honest Find]] demonstrates the settled expedition ethic in summer.
+
+Elara has eleven authored pieces but no more than ten appear in one run. The two sequence-7 relationship episodes are mutually exclusive.
 
 ## Relationship
 
@@ -215,7 +218,7 @@ Elara is confident in flirtation and has had lovers. Romance is not her first ex
 
 A male player may pursue romance. A female player may pursue a sworn bond. Both require Trusted approval, two earlier relationship scenes, and personal completion of [[The Patron's Cabinet]] without an unresolved major conflict. Missing that finale permanently closes intimate commitment while preserving friendship.
 
-Romance grants [[Elara Field Familiarity and Relationships#Equal Footing|Equal Footing]] and **Crossed Measure**. Sworn bond grants [[Elara Field Familiarity and Relationships#Witness at My Back|Witness at My Back]] and **Back-to-Back**. [[Raven Shelf at Dawn]] upgrades the moves to **Second Beat** or **Held Line**. The permanent perks remain different but equivalent in utility.
+Romance grants [[Elara Field Familiarity and Relationships#Equal Footing|Equal Footing]] and **Crossed Measure**; [[Raven Shelf at Dawn]] upgrades it to **Second Beat**. Sworn bond grants [[Elara Field Familiarity and Relationships#Witness at My Back|Witness at My Back]] and **Back-to-Back**; [[Two Names on the Rope]] upgrades it to **Held Line**. The episodes are fundamentally different, while the move upgrades, Act III safeguards, and permanent perks remain equivalent in mechanical value.
 
 Declining commitment preserves friendship and access to Elara's strongest personal resolution.
 

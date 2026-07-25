@@ -47,6 +47,8 @@ Bernard's pre-deep-block companion material and retired murder-token treatment a
 
 Grenzburg's pre-experience-constitution controls are preserved under `90 Project History/2026-07 Grenzburg RPG Experience Constitution Pass`. [[Grenzburg RPG Experience Constitution Pass Archive Index]] records the game, player, quest, season, companion, reactivity, narrative-state, navigation, template, Base, and summer controls immediately before the autonomous companion-campaign and systemic-world architecture was established.
 
+The companion relationship-path separation snapshots are preserved under `90 Project History/2026-07 Relationship Path Separation`. [[Relationship Path Separation Archive Index]] records the shared controls and Elara and Bernard campaign material immediately before romance and same-sex sworn bond became separate authored episodes with distinct states and rewards.
+
 Grenzburg's pre-production geography and first concept map are preserved under `50 Grenzburg and Playable Settings/2026-07-20 Pre-Worldspace-Constitution`. [[Grenzburg Pre-Worldspace Archive Index]] records the replaced physical baseline, numerical anchors, Fort Tannbruck and Deep Muster placements, and `Grenzburg Regional Map v1.png` before the city and seven-region worldspace were locked.
 
 Grenzburg's pre-player-systems material is preserved under `50 Grenzburg and Playable Settings/2026-07-20 Pre-Player-Systems-Constitution`. [[Grenzburg Pre-Player-Systems Archive Index]] records the imported `Game Lore Bible`, its original source hash, and the player authority replaced by the field-locked vocation model.

@@ -15,7 +15,7 @@ act: act-3
 availability_window: ["Early Spring", "Open Spring", "Muster Crisis"]
 repeatability: one-shot
 cutoff_result: transforms
-world_state_outputs: ["bernard_act3_chapter_resolved", "bernard_act3_result", "bernard_act3_finale_played", "bernard_direction", "bernard_arc_outcome", "bernard_sacrifice_state", "bernard_future_path", "open_lamp_hospice_state", "paladin_capstone_unlocked", "long_watch_field_form_blueprint", "bernard_relationship_perk", "bernard_owned_greatsword_name", "bernard_summer_destination"]
+world_state_outputs: ["bernard_act3_chapter_resolved", "bernard_act3_result", "bernard_act3_finale_played", "bernard_direction", "bernard_arc_outcome", "bernard_sacrifice_state", "bernard_future_path", "open_lamp_hospice_state", "paladin_capstone_unlocked", "long_watch_field_form_blueprint", "bernard_relationship_perk", "bernard_duo_move_upgrade", "bernard_owned_greatsword_name", "bernard_summer_destination"]
 reward_unlocks: ["Last Ember", "Long Watch Field Form", "Kept in the Light", "Last Watch", "Open Hand"]
 required_locations: ["Mercy Hospital", "Paupers' Cloister", "West Refuge Hall", "Outer Winter Camps", "Open Lamp Hospice"]
 blocking_status: blocked
@@ -33,7 +33,7 @@ story_gate: mastery
 estimated_hours: 2.5
 gameplay_pillars: [relief-logistics, route-securing, triage, defence, moral-resolution]
 required_states: ["bernard_act2_chapter_resolved", "bernard_act3_readiness_viable", "unending_muster_active"]
-optional_state_inputs: ["bernard_west_refuge_neutral_claim", "bernard_reclaimed_patient_routes", "bernard_mixed_carer_pledge", "bernard_underways_evacuation_route", "bernard_named_store_custodians", "bernard_table_received", "petra_ilev_response", "long_watch_return_open", "bernard_accountability_plan", "church_resolution", "blackjack_resolution", "folk_compact_state", "lantern_ward_condition"]
+optional_state_inputs: ["bernard_west_refuge_neutral_claim", "bernard_reclaimed_patient_routes", "bernard_mixed_carer_pledge", "bernard_underways_evacuation_route", "bernard_named_store_custodians", "bernard_table_received", "bernard_second_bearer_practiced", "bernard_romance_move_upgrade", "bernard_bond_move_upgrade", "petra_ilev_response", "long_watch_return_open", "bernard_accountability_plan", "church_resolution", "blackjack_resolution", "folk_compact_state", "lantern_ward_condition"]
 field_experience_gate: []
 companion_required: "Bernard Valeon"
 duo_quest: true
@@ -78,7 +78,7 @@ The tracked docket displays Viable, Prepared, or Strongly Prepared readiness. Ac
 | `bernard_underways_evacuation_route` | opens a nonpublic withdrawal route without requiring underworld allegiance |
 | `bernard_named_store_custodians` | supplies independent witnesses for every category of stock |
 
-Two assets permit the hospice attempt. Three make every principal patient, route, and store objective achievable through strong play. Four or five protect one material objective from a single failure. `bernard_table_received`, earned through [[Enough for Two]], additionally prevents one exhaustion-driven physical failure; it cannot declare a reserve, choose a patient, confess, or determine Bernard's outcome.
+Two assets permit the hospice attempt. Three make every principal patient, route, and store objective achievable through strong play. Four or five protect one material objective from a single failure. Either `bernard_table_received` from [[Enough for Two]] or `bernard_second_bearer_practiced` from [[Watch Until Morning]] additionally prevents one exhaustion-driven physical failure. The states are mutually exclusive and never stack. Neither can declare a reserve, choose a patient, confess, or determine Bernard's outcome.
 
 ## Admission Rule
 
@@ -285,6 +285,7 @@ If no destination is chosen or conditions fail, Bernard completes his existing s
 - `paladin_capstone_unlocked`: full, constrained, or unavailable;
 - `long_watch_field_form_blueprint`: unlocked or unavailable;
 - `bernard_relationship_perk`: kept-in-the-light, last-watch, or none;
+- `bernard_duo_move_upgrade`: warmth-returned, two-bearers, or none;
 - `bernard_owned_greatsword_name`: open-hand or unnamed;
 - `bernard_summer_destination`: order, Grenzburg, road, Blackjack Yard, memorial, or absent.
 
@@ -294,7 +295,7 @@ If no destination is chosen or conditions fail, Bernard completes his existing s
 - A sworn brother performs the final inventory beside him and establishes a standing rescue rule: neither leaves a living person alone to protect property.
 - Friendship receives the same destination choices except the travelling romantic path.
 - A resolved or compromised romantic path grants the permanent non-slot perk **Kept in the Light**. A resolved or compromised sworn bond grants **Last Watch**.
-- [[Enough for Two]] upgrades **Shared Ember** to **Shared Ember: Warmth Returned** or **No One Alone** to **No One Alone: Two Bearers** before this finale; the final inventory records the upgrade without making it a moral requirement.
+- `bernard_romance_move_upgrade` from [[Enough for Two]] derives `bernard_duo_move_upgrade: warmth-returned`; `bernard_bond_move_upgrade` from [[Watch Until Morning]] derives `bernard_duo_move_upgrade: two-bearers`. Missing the eligible episode preserves the base move. The final inventory records the result without making it a moral requirement.
 - A chosen sacrifice records Bernard's physical fate separately from his moral outcome. If that outcome is resolved or compromised, the appropriate permanent relationship perk is still learned; duo moves require Bernard in the active party.
 
 ## Autonomous Resolution
@@ -335,6 +336,7 @@ The summer game reflects patients saved, sponsor terms, the selected destination
 - [[Open Lamp Hospice]]
 - [[Beds Before Banners]]
 - [[Enough for Two]]
+- [[Watch Until Morning]]
 - [[Embers Without Excuse]]
 - [[The Froststep Evacuation]]
 - [[Bernard Field Familiarity and Relationships]]

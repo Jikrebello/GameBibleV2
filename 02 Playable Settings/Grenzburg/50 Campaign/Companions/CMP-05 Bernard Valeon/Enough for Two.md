@@ -15,12 +15,13 @@ act: act-3
 availability_window: ["Early Spring", "Open Spring"]
 repeatability: one-shot
 cutoff_result: resolves-offscreen
-world_state_outputs: ["bernard_relationship_episode", "bernard_table_received", "bernard_duo_move_upgrade", "private_feast_state"]
-reward_unlocks: ["Shared Ember: Warmth Returned or No One Alone: Two Bearers", "Table Received"]
+world_state_outputs: ["bernard_romance_episode", "bernard_romance_move_upgrade", "bernard_table_received", "private_feast_state"]
+reward_unlocks: ["Shared Ember: Warmth Returned", "Table Received"]
 required_locations: ["Blackjack Yard"]
 blocking_status: blocked
 architecture_status: migrated
 companion_content_role: relationship
+relationship_variant: romance
 companion_campaign_stage: act-3
 quest_owner: "Bernard Valeon"
 quest_sequence: 7
@@ -32,17 +33,17 @@ main_sequence: 0
 story_gate: relationship
 estimated_hours: 0.5
 gameplay_pillars: [conversation, reflection]
-required_states: ["bernard_relationship_commitment", "bernard_act2_finale_played"]
+required_states: ["bernard_relationship_commitment: romance-committed", "bernard_act2_finale_played"]
 optional_state_inputs: ["petra_ilev_response", "bernard_direction", "bernard_owned_sword_state", "four_shelters_state"]
 field_experience_gate: []
 companion_required: "Bernard Valeon"
 duo_quest: false
 pause_points: []
-relationship_gate: "Committed romance or sworn bond"
+relationship_gate: "Female player; bernard_relationship_commitment: romance-committed"
 preparation_inputs: []
 preparation_threshold: ""
 autonomous_deadline: "The Deep Muster"
-autonomous_resolution: "The feast closes without relationship penalty; its move upgrade and Table Received bonus are not earned"
+autonomous_resolution: "The romance episode closes without relationship penalty; its move upgrade and Table Received bonus are not earned"
 changed_reentry: "The private evening does not reopen after the Deep Muster commitment"
 ensemble_inputs: []
 identity_hooks: []
@@ -54,9 +55,9 @@ postgame_season: ""
 
 ## Quest Function
 
-This is Bernard's committed relationship episode. It contains no attack, emergency patient, missing supply, confession trap, or institution requiring judgement. Its purpose is to let Bernard accept food, rest, pleasure, and intimacy without earning every bite through service.
+This is Bernard's romance episode for a female player. It contains no attack, emergency patient, missing supply, confession trap, or institution requiring judgement. Its purpose is to let Bernard accept food, rest, pleasure, and romantic intimacy without earning every bite through service.
 
-The episode deepens either romance or sworn bond. It improves a relationship move and grants one physical Act III safeguard. It cannot determine Bernard's moral outcome.
+The episode improves the romance move and grants one physical Act III safeguard. It cannot determine Bernard's moral outcome.
 
 ## Hook
 
@@ -98,17 +99,13 @@ Bernard admits that contentment feels more dangerous than hunger because it asks
 
 The player may answer with tenderness, humor, silence, a boundary, or a mutual promise. No response requires a social check.
 
-## Romance: Shared Ember — Warmth Returned
+## Shared Ember: Warmth Returned
 
-For a committed female player, the private scene may become physically affectionate and fades to black before explicit sexual detail.
+Bernard asks whether he may add something freely given to the prayer rope that is his only inherited possession. The player offers a plain wooden bead chosen for him, and he confirms aloud that it is a gift rather than payment, pledge, or debt. If welcomed, the private scene becomes physically affectionate and fades to black before explicit sexual detail. The player may instead keep the evening tender without sex or ask for more time without ending the commitment.
 
 The upgraded duo move retains the fear cleanse and anti-stagger interval from **Shared Ember**. During that interval, the first timely ally-granted heal, cleanse, revive, or protection received by either partner shares bounded recovery and Stamina with the other. It cannot chain, duplicate unique consumables, or bypass defeat states.
 
-## Sworn Bond: No One Alone — Two Bearers
-
-For a committed male player, the pair renew the last-watch promise over the same table without imitating romance.
-
-The upgraded duo move retains Bernard's interposition and safe rescue window. One revive, carry, extraction, or protected interaction may withstand a single ordinary interruption. On completion, the player and rescued target gain brief Staying Power. Boss grabs and catastrophic hazards retain their authored answers.
+The upgrade requires Bernard in the active party.
 
 ## Table Received
 
@@ -128,9 +125,9 @@ The pair leave the kitchen together, or remain until the watch bell. Bernard was
 
 Outputs:
 
-- `bernard_relationship_episode`: romance-complete, bond-complete, declined, or missed;
+- `bernard_romance_episode`: complete, declined, or missed;
+- `bernard_romance_move_upgrade`: warmth-returned or none;
 - `bernard_table_received`: true or false;
-- `bernard_duo_move_upgrade`: warmth-returned, two-bearers, or none;
 - `private_feast_state`: accepted, shortened, or missed.
 
 ## Vocation and Access

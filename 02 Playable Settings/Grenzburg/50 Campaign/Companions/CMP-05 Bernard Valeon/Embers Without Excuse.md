@@ -205,12 +205,12 @@ Matej may open a future petition for Long Watch reinstatement. It is an availabl
 
 After the public reckoning, a player at **Trusted** approval who personally completed this finale receives one of four scenes:
 
-- **Romance, female player:** Bernard asks whether care can be accepted without becoming debt. If committed, the player gives him one plain wooden bead after he explicitly confirms it is a gift. He adds it to the prayer rope.
-- **Sworn bond, male player:** Bernard asks for a mutual last-watch promise, freely given and revocable, with neither man claiming authority over the other.
+- **Romance, female player:** Bernard asks whether care can be accepted without becoming debt and whether the pair should pursue a romantic relationship. The freely given prayer-rope bead and private intimacy belong to [[Enough for Two]], not this commitment scene.
+- **Sworn bond, male player:** Bernard asks whether the pair should pursue an exceptional platonic brotherhood grounded in truth, return, and service. The sworn-brother rite belongs to [[Watch Until Morning]], not this commitment scene.
 - **Continued friendship:** the player declines commitment without approval loss.
 - **Refusal:** a major unresolved violation or low approval leaves the relationship professional.
 
-Romance and bond commit after this scene. Their initial duo moves are defined in [[Bernard Field Familiarity and Relationships]] and are upgraded by [[Enough for Two]]. Friendship remains capable of reaching Bernard's strongest moral resolution.
+Romance and bond commit after this scene. Their initial duo moves are defined in [[Bernard Field Familiarity and Relationships]]. Romance is upgraded by [[Enough for Two]]; sworn bond is upgraded by [[Watch Until Morning]]. Friendship remains capable of reaching Bernard's strongest moral resolution.
 
 ## Information Redundancy
 
@@ -235,7 +235,7 @@ Romance and bond commit after this scene. Their initial duo moves are defined in
 - `bernard_act2_finale_played`: true or false;
 - `bernard_direction`: truthful, uncertain, or withholding;
 - `bernard_paladin_unlocked`: field-kindled, confession-kindled, or physical-form-sacred-dimmed;
-- `bernard_relationship_commitment`: romance, sworn-bond, friendship, refused, or unavailable;
+- `bernard_relationship_commitment`: romance-committed, bond-committed, friendship, refused, or unavailable;
 - `bernard_relationship_paths_closed`: open or missed-act-2;
 - `bernard_white_flame_kindling`: field-infirmary, post-confession, absent, or distorted-by-rumour;
 - `petra_ilev_response`: forgives, restitution-only, no-contact, or condemns-concealment;
@@ -287,6 +287,7 @@ The spring aftermath **Embers After Snow** permits confession, store repair, and
 - [[Bernard Compulsion and Accountability System]]
 - [[Four Fires]]
 - [[Enough for Two]]
+- [[Watch Until Morning]]
 - [[The Open Hospice]]
 - [[Companion Field Familiarity and Duo Quest Standard]]
 - [[Narrative State Register]]

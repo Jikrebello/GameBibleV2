@@ -28,7 +28,7 @@ architecture_status: migrated
 
 Bernard Valeon is a thirty-two-year-old Kedravan former lay knight of the [[Thalmyric Military Orders|Order of the Long Watch]]. He was raised in a frontier hospice, took vows of poverty and obedience, and was dismissed after secretly hoarding relief stores during [[The Froststep Evacuation]]. Medori purchased his restitution bond, making him an outsider debtor and one of Grenzburg's eight full companions.
 
-He joins during [[The Black Road Main Quest|The Black Road]], remains optional to critical-path completion, and may serve in the player's field party of three companions. [[Bernard Companion Campaign]] gives him ten formal pieces across the full seasonal story. Its operations use the normal party, its three act finales use the fixed player-plus-Bernard duo structure, and its private friendship and relationship episodes remain one-on-one.
+He joins during [[The Black Road Main Quest|The Black Road]], remains optional to critical-path completion, and may serve in the player's field party of three companions. [[Bernard Companion Campaign]] gives him eleven authored pieces across the full seasonal story, with no more than ten available in one run. Its operations use the normal party, its three act finales use the fixed player-plus-Bernard duo structure, and its private friendship, romance, and sworn-bond episodes remain one-on-one.
 
 ## Appearance
 
@@ -136,20 +136,21 @@ Repeated concealment after warning, encouraging him to steal from patients or th
 4. [[A Blade Freely Given]]
 5. [[Four Fires]]
 6. [[Embers Without Excuse]]
-7. [[Enough for Two]]
+7. [[Enough for Two]] for a committed female-player romance
+7. [[Watch Until Morning]] for a committed male-player sworn bond
 8. [[Beds Before Banners]]
 9. [[The Open Hospice]]
 10. [[The First Open Table]]
 
-The campaign also reserves ten embedded opportunities in main, faction, exploration, company, and systemic play. Bernard progresses at each act gate even if the player does not track him. His default unattended route is that of a compromised caregiver: the children live with avoidable injuries, the winter patients survive while Petra withholds forgiveness, and Brina ultimately places his useful care work inside the Blackjack infirmary under open inventory control. He cannot die unseen.
+The two sequence-7 relationship episodes are mutually exclusive. The campaign also reserves ten embedded opportunities in main, faction, exploration, company, and systemic play. Bernard progresses at each act gate even if the player does not track him. His default unattended route is that of a compromised caregiver: the children live with avoidable injuries, the winter patients survive while Petra withholds forgiveness, and Brina ultimately places his useful care work inside the Blackjack infirmary under open inventory control. He cannot die unseen.
 
 ## Relationship
 
 The relationship theme is **receiving without taking**. A female player may pursue romance; a male player may pursue a sworn bond. Commitment becomes available only after the player personally completes [[Embers Without Excuse]] at Trusted approval and never follows automatically from approval.
 
-Romance adds one freely given bead to Bernard's prayer rope after he asks whether it is truly a gift. Its Bernard-only duo move is **Shared Ember**, upgraded through [[Enough for Two]] to **Shared Ember: Warmth Returned**. Its permanent non-slot perk, **Kept in the Light**, follows an eligible Act III resolution.
+Romance adds one freely given bead to Bernard's prayer rope during [[Enough for Two]], after he asks whether it is truly a gift. Its Bernard-only duo move is **Shared Ember**, upgraded there to **Shared Ember: Warmth Returned**. Its permanent non-slot perk, **Kept in the Light**, follows an eligible Act III resolution.
 
-The sworn bond is a mutual promise to name danger, return for the endangered, and tell the truth before shame becomes concealment. Its Bernard-only duo move is **No One Alone**, upgraded through [[Enough for Two]] to **No One Alone: Two Bearers**. Its permanent non-slot perk, **Last Watch**, follows an eligible Act III resolution.
+The sworn bond is a completely platonic promise between two men to name danger, return for the endangered, and tell the truth before shame becomes concealment. [[Watch Until Morning]] makes them sworn brothers through shared shelter work and a Long Watch lay custom. Its Bernard-only duo move is **No One Alone**, upgraded there to **No One Alone: Two Bearers**. Its permanent non-slot perk, **Last Watch**, follows an eligible Act III resolution.
 
 ## Outcome Range
 

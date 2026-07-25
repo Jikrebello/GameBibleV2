@@ -14,7 +14,7 @@ tags: [game-ready]
 ---
 # Companion Field Familiarity and Duo Quest Standard
 
-This note controls how companions join and leave the field party, how shared history develops, how personal campaigns become tracked, and when content uses the ordinary party or an intimate duo. [[Companion Campaign Architecture]] controls the eighty formal pieces. [[Companion Autonomy and Act Convergence]] controls deadlines and unassisted progression.
+This note controls how companions join and leave the field party, how shared history develops, and when content uses the ordinary party or an intimate duo. [[Companion Campaign Architecture]] controls the eighty-eight authored pieces and seventy-four-piece playthrough ceiling. [[Companion Autonomy and Act Convergence]] controls deadlines and unassisted progression.
 
 ## Party Management
 
@@ -87,9 +87,9 @@ Each of the twenty-four act finales uses an intimate duo:
 5. pausing restores ordinary party management;
 6. resuming reforms the duo and restores the recorded phase.
 
-### Relationship and Friendship Episodes
+### Friendship, Romance, and Bond Episodes
 
-These are one-on-one authored scenes or activities. They need not dismiss the party until their private staging moment and need not include combat.
+These are one-on-one authored scenes or activities. Romance and sworn bond are separate quest notes with separate activities, states, and presentation. They need not dismiss the party until their private staging moment and need not include combat.
 
 Temporary guides, witnesses, prisoners, soldiers, animals, and rescued people exist outside the companion limit. They may follow, fight, flee, or require protection, but they do not use companion progression, relationship perks, inventory authority, or party dialogue rules.
 
@@ -137,10 +137,11 @@ Companion content records:
 |---|---|
 | `field_experience_gate` | Named shared-history observations relevant to disclosure or participation. |
 | `companion_required` | The owning companion required in the field or private scene. |
-| `duo_quest` | `true` for act finales and explicit one-on-one content; `false` for introductions and operations. |
+| `duo_quest` | `true` for the formal fixed-duo act finales; `false` for introductions, operations, and private friendship or relationship activities that use one-on-one staging without the finale encounter contract. |
 | `pause_points` | Named safe phases where ordinary party management can resume. |
 | `relationship_gate` | Any approval, conflict, sex, or commitment requirement; empty when none. |
 | `companion_content_role` | introduction, operation, act-finale, friendship, relationship, summer-coda, or embedded |
+| `relationship_variant` | `romance`, `bond`, or empty. Required on authored relationship episodes. |
 | `preparation_inputs` | Named assets that improve an act finale. |
 | `preparation_threshold` | Bespoke qualitative condition for player participation. |
 | `autonomous_deadline` | Act-ending main-story gate. |

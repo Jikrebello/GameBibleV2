@@ -135,17 +135,16 @@ Declining preserves friendship and the complete companion campaign.
 
 If [[The Patron's Cabinet]] resolves autonomously, `elara_relationship_closed` becomes true. [[Elara Companion Campaign#Cabinet After Snow|Cabinet After Snow]] may repair morality and friendship but never reopens romance or sworn bond. The tracked transition warning names this consequence before confirmation.
 
-## Relationship Episode
+## Relationship Episodes
 
-Committed relationships unlock [[Raven Shelf at Dawn]] during Early Spring and Open Spring.
+A committed relationship unlocks exactly one authored episode during Early Spring and Open Spring:
 
-The climb is not a moral cure. It develops mutual reliance and supplies:
+- a male player with `romance-committed` unlocks [[Raven Shelf at Dawn]], a mountain rescue and romantic camp;
+- a female player with `bond-committed` unlocks [[Two Names on the Rope]], a platonic two-person survey, reciprocal rescue, and sworn-friendship pact.
 
-- `elara_raven_line_practiced`;
-- one path-specific duo-move upgrade;
-- relationship-specific Act III and summer dialogue.
+The episodes are not alternate endings to one generic activity. Each has its own location, emotional structure, state outputs, move upgrade, and summer dialogue. Each supplies one equivalent non-stacking material safeguard for the Act III finale.
 
-Missing the climb does not end the relationship or worsen approval.
+Missing the eligible episode does not end the relationship or worsen approval, but its upgrade and safeguard are forfeited.
 
 ## Romance Rewards
 
@@ -155,7 +154,7 @@ Commitment unlocks this Elara-only duo move. Against a properly staggered elite 
 
 ### Crossed Measure: Second Beat
 
-Completing Raven Shelf upgrades the move. After the finisher, Elara provides a guarded disengagement and preserves a surviving target's opened point for one immediate follow-up. It cannot chain indefinitely.
+Completing [[Raven Shelf at Dawn]] upgrades the move. After the finisher, Elara provides a guarded disengagement and preserves a surviving target's opened point for one immediate follow-up. It cannot chain indefinitely.
 
 ### Equal Footing
 
@@ -171,7 +170,7 @@ Commitment unlocks this Elara-only duo move. Elara can intercept one contextual 
 
 ### Back-to-Back: Held Line
 
-Completing Raven Shelf upgrades the move. The protected interaction withstands one ordinary interruption and the attacker becomes exposed. Boss grabs and catastrophic authored hazards retain their intended answers.
+Completing [[Two Names on the Rope]] upgrades the move. The protected interaction withstands one ordinary interruption and the attacker becomes exposed. Boss grabs and catastrophic authored hazards retain their intended answers.
 
 ### Witness at My Back
 
@@ -183,7 +182,7 @@ The first flank or off-screen attack in an encounter receives an authored warnin
 
 A friend may:
 
-- complete all nine non-exclusive formal pieces; [[Raven Shelf at Dawn]] remains the relationship-only tenth piece;
+- complete all nine non-exclusive formal pieces; either [[Raven Shelf at Dawn]] or [[Two Names on the Rope]] becomes the relationship-only tenth piece when eligible and committed;
 - reach Elara's resolved outcome;
 - unlock Fault Proven, A Lady's Exit, The Last Claim, custom parts, and the Delver-Duelist blueprint;
 - receive the complete summer coda;
@@ -223,6 +222,7 @@ Relationship perks are campaign-specific rather than account-wide New Game unloc
 - [[A Better Wager]]
 - [[The Patron's Cabinet]]
 - [[Raven Shelf at Dawn]]
+- [[Two Names on the Rope]]
 - [[No Lady of Velescar]]
 - [[Companion Field Familiarity and Duo Quest Standard]]
 - [[Companions MOC]]

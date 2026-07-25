@@ -33,7 +33,7 @@ story_gate: summer-aftermath
 estimated_hours: 0.5
 gameplay_pillars: [exploration, traversal, environmental-puzzle, reflection]
 required_states: ["elara_arc_outcome", "companion_summer_codas_unlocked"]
-optional_state_inputs: ["elara_relationship_commitment", "elara_summer_destination", "spring_settlement_access", "highlake_carrier_terms", "elara_shoring_knowledge"]
+optional_state_inputs: ["elara_relationship_commitment", "elara_romance_episode", "elara_bond_episode", "raven_signal_runner_state", "windcut_return_route_state", "elara_summer_destination", "spring_settlement_access", "highlake_carrier_terms", "elara_shoring_knowledge"]
 field_experience_gate: []
 companion_required: "Elara Velescar"
 duo_quest: false
@@ -150,8 +150,8 @@ The player still determines immediate handling when collapse, weather, or the lo
 
 ## Relationship Variants
 
-- A romantic Elara speaks about choosing the next journey together without treating either person's future as the other's property.
-- A sworn-bond Elara adds the site to their shared record of truthful finds and safe returns.
+- A romance completed through [[Raven Shelf at Dawn]] recalls the Highlake camp, Nika's rescue, and choosing the next journey together without treating either person's future as property. A committed romance that missed the episode remains real but does not invent those memories or rewards in summer.
+- A sworn bond completed through [[Two Names on the Rope]] adds the site to the two women's shared record of honest claims and guaranteed returns. A committed bond that missed the episode remains real but does not retroactively create the Windcut pact.
 - A friend receives the same expedition access and moral resolution without reduced content.
 - A former or refused relationship retains specific history rather than defaulting to neutral dialogue.
 
@@ -181,6 +181,8 @@ Ropehouse Ruin retains:
 - [[Elara Velescar]]
 - [[Highlake Uplands]]
 - [[Grenzburg Worldspace Location Register#Highlake Uplands|Ropehouse Ruin]]
+- [[Raven Shelf at Dawn]]
+- [[Two Names on the Rope]]
 - [[Atherian Ward and Trial Engines]]
 - [[Accounts of the Living]]
 - [[Postgame Reconstruction Cycle]]

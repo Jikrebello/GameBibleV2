@@ -33,7 +33,7 @@ story_gate: operation
 estimated_hours: 2
 gameplay_pillars: [infiltration, traversal, combat, rescue, choice]
 required_states: ["elara_act2_chapter_resolved", "elara_act3_readiness_viable", "muster_known"]
-optional_state_inputs: ["elara_household_claims_protected", "elara_living_claims_indexed", "elara_kata_delegation_ready", "elara_burial_provenance_matched", "elara_old_tithe_route_known", "elara_raven_line_practiced", "cabinet_integrity", "elara_vardek_verdict", "elara_patron_refused", "vasko_dren_state", "daria_keln_state", "vardek_escape_route", "danara_veln_state", "kata_belyn_state", "grave_goods_state", "coerced_diggers_state", "elara_relationship_commitment"]
+optional_state_inputs: ["elara_household_claims_protected", "elara_living_claims_indexed", "elara_kata_delegation_ready", "elara_burial_provenance_matched", "elara_old_tithe_route_known", "elara_raven_line_practiced", "elara_two_names_line_practiced", "elara_romance_move_upgrade", "elara_bond_move_upgrade", "cabinet_integrity", "elara_vardek_verdict", "elara_patron_refused", "vasko_dren_state", "daria_keln_state", "vardek_escape_route", "danara_veln_state", "kata_belyn_state", "grave_goods_state", "coerced_diggers_state", "elara_relationship_commitment"]
 field_experience_gate: []
 companion_required: "Elara Velescar"
 duo_quest: true
@@ -182,7 +182,7 @@ The three archive paths meet at the old hoist. Fire from the land gallery, water
 
 Three readiness assets, a controlled Clearance Clock, or equivalent strong play makes all three recoveries achievable. Four or five assets add a protected cache or evacuation route. Otherwise Elara asks what goes first. Choosing land or burial records ahead of the title is the clearest evidence that she has rejected her central lie, but the final outcome also accounts for her conduct across the complete campaign.
 
-If `elara_raven_line_practiced` is true, Elara and the player can split across a rehearsed anchored route during the collapse and preserve one additional person or recovery. This never changes what Elara chooses to prioritize.
+If either `elara_raven_line_practiced` or `elara_two_names_line_practiced` is true, Elara and the player can split across a rehearsed anchored route during the collapse and preserve one additional person or recovery. The two states are mutually exclusive and never stack. This never changes what Elara chooses to prioritize.
 
 ### Pause Point: Clearing Chamber Secured
 
@@ -254,8 +254,8 @@ If the player actively supports it, she may remain through the immediate crisis 
 
 A committed relationship is tested by the vault, not replaced by it.
 
-- A resolved romance grants **Equal Footing** as a permanent non-slot perk and retains **Crossed Measure**, upgraded to **Second Beat** if [[Raven Shelf at Dawn]] was completed.
-- A resolved sworn bond grants **Witness at My Back** as a permanent non-slot perk and retains **Back-to-Back**, upgraded to **Held Line** if Raven Shelf was completed.
+- A resolved romance grants **Equal Footing** as a permanent non-slot perk and retains **Crossed Measure**. `elara_romance_move_upgrade` from [[Raven Shelf at Dawn]] derives the aggregate `elara_duo_move_upgrade: second-beat`; otherwise the base move remains.
+- A resolved sworn bond grants **Witness at My Back** as a permanent non-slot perk and retains **Back-to-Back**. `elara_bond_move_upgrade` from [[Two Names on the Rope]] derives the aggregate `elara_duo_move_upgrade: held-line`; otherwise the base move remains.
 - A compromised outcome still grants the learned perk and duo move, but the summer scene acknowledges the unresolved hierarchy.
 - A broken outcome grants no relationship reward because the Act III finale is the perk unlock. If Elara departs or dies after a resolved or compromised completion, the learned perk remains while the duo move becomes unavailable without her.
 
@@ -296,6 +296,7 @@ This deterministic result closes the adventure without pretending the vault wait
 - [[Danara Veln]]
 - [[Sixty-Three Claims]]
 - [[Raven Shelf at Dawn]]
+- [[Two Names on the Rope]]
 - [[The First Honest Find]]
 - [[Old Tithe Vault]]
 - [[Ledger Quays]]

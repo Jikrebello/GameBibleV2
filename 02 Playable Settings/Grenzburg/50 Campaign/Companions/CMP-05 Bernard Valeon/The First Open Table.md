@@ -20,7 +20,7 @@ reward_unlocks: ["Bernard summer destination scene"]
 required_locations: ["Blackjack Yard", "Open Lamp Hospice", "West Refuge Hall"]
 blocking_status: blocked
 architecture_status: migrated
-companion_content_role: summer
+companion_content_role: summer-coda
 companion_campaign_stage: summer
 quest_owner: "Bernard Valeon"
 quest_sequence: 10
@@ -33,7 +33,7 @@ story_gate: summer-aftermath
 estimated_hours: 0.5
 gameplay_pillars: [conversation, reflection]
 required_states: ["companion_summer_codas_unlocked"]
-optional_state_inputs: ["bernard_arc_outcome", "bernard_sacrifice_state", "bernard_future_path", "open_lamp_hospice_state", "bernard_summer_destination", "bernard_owned_sword_state", "bernard_owned_greatsword_name", "petra_ilev_response", "bernard_relationship_commitment"]
+optional_state_inputs: ["bernard_arc_outcome", "bernard_sacrifice_state", "bernard_future_path", "open_lamp_hospice_state", "bernard_summer_destination", "bernard_owned_sword_state", "bernard_owned_greatsword_name", "petra_ilev_response", "bernard_relationship_commitment", "bernard_romance_episode", "bernard_bond_episode", "private_feast_state", "cairnside_shelter_state"]
 field_experience_gate: []
 companion_required: ""
 duo_quest: false
@@ -106,8 +106,8 @@ The name describes a weapon used to keep shelter open and a hand no longer close
 
 ## Relationship Variants
 
-- Romance reflects **Kept in the Light** and **Shared Ember: Warmth Returned** where earned.
-- Sworn bond reflects **Last Watch** and **No One Alone: Two Bearers** where earned.
+- A romance completed through [[Enough for Two]] reflects the private feast, freely given bead, **Kept in the Light**, and **Shared Ember: Warmth Returned** where earned. A committed romance that missed the episode remains real but does not invent those memories or rewards in summer.
+- A sworn bond completed through [[Watch Until Morning]] reflects Cairnside Shelter, the service cords left on its beam, **Last Watch**, and **No One Alone: Two Bearers** where earned. A committed bond that missed the episode remains real but does not retroactively perform the sworn-brother rite.
 - Friendship receives the complete destination, sword, and accountability scenes.
 - Missed relationship content is not recreated in summer.
 
@@ -125,6 +125,8 @@ No player vocation, faction rank, romance, or cultural identity gates the coda. 
 - [[Bernard Companion Campaign]]
 - [[Bernard Valeon]]
 - [[The Open Hospice]]
+- [[Enough for Two]]
+- [[Watch Until Morning]]
 - [[Bernard Field Familiarity and Relationships]]
 - [[Open Lamp Hospice]]
 - [[Blackjack Yard]]

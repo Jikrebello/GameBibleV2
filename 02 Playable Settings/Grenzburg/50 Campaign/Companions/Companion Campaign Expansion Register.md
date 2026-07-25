@@ -9,15 +9,15 @@ culture: []
 related_factions: ["Blackjack Corps"]
 appears_in: ["Grenzburg"]
 needs:
-  - name and block the 36 remaining reserved formal pieces during individual companion passes
+  - name and block the 42 remaining reserved authored pieces during individual companion passes
   - approve the other six companions' exact preparation thresholds and autonomous outcome tables during individual passes
 tags: [game-ready]
 ---
 # Companion Campaign Expansion Register
 
-This register controls exactly eighty formal companion pieces. Elara's and Bernard's ten-piece campaigns are migrated and blocked. The other existing quest sources retain `architecture_status: pending-migration`; untitled slots do not receive empty notes.
+This register controls exactly eighty-eight authored companion pieces. Elara's and Bernard's eleven-piece authored campaigns are migrated and blocked. The other existing quest sources retain `architecture_status: pending-migration`; untitled slots do not receive empty notes.
 
-Current formal count: **44 linked / 36 reserved / 80 total**.
+Current authored count: **46 linked / 42 reserved / 88 total**. Because romance and sworn bond are mutually exclusive and only one of each may be committed across the roster, no more than **74 pieces** are playable in one run: seventy-two non-exclusive pieces, one romance, and one bond.
 
 ## Count Authority
 
@@ -27,9 +27,10 @@ Current formal count: **44 linked / 36 reserved / 80 total**.
 | Short act operations | 6 | 18 | 24 |
 | Duo act finales | 24 | 0 | 24 |
 | Friendship episodes | 2 | 6 | 8 |
-| Romance or bond episodes | 2 | 6 | 8 |
+| Romance episodes | 2 | 6 | 8 |
+| Sworn-bond episodes | 2 | 6 | 8 |
 | Summer codas | 2 | 6 | 8 |
-| **Formal pieces** | **44** | **36** | **80** |
+| **Authored pieces** | **46** | **42** | **88** |
 
 ## CMP-01: Elara Velescar
 
@@ -41,7 +42,8 @@ Current formal count: **44 linked / 36 reserved / 80 total**.
 | CMP-01-FR | friendship episode | [[A Better Wager]] | blocked; migrated |
 | CMP-01-A2-O | Act II operation | [[Eight Honest Warrants]] | blocked; migrated |
 | CMP-01-A2-F | Act II finale | [[The Patron's Cabinet]] | blocked; migrated |
-| CMP-01-RL | romance or bond episode | [[Raven Shelf at Dawn]] | blocked; migrated |
+| CMP-01-RM | romance episode | [[Raven Shelf at Dawn]] | blocked; migrated |
+| CMP-01-BD | sworn-bond episode | [[Two Names on the Rope]] | blocked; migrated |
 | CMP-01-A3-O | Act III operation | [[Sixty-Three Claims]] | blocked; migrated |
 | CMP-01-A3-F | Act III finale | [[No Lady of Velescar]] | blocked; migrated |
 | CMP-01-S | summer coda | [[The First Honest Find]] | blocked; migrated |
@@ -60,7 +62,8 @@ Embedded opportunities: 10 blocked through [[Elara Companion Campaign]] and [[El
 | CMP-02-A3-O | Act III operation | untitled | reserved |
 | CMP-02-A3-F | Act III finale | [[Hold Until Relieved]] | pending migration |
 | CMP-02-FR | friendship episode | untitled | reserved |
-| CMP-02-RL | romance or bond episode | untitled | reserved |
+| CMP-02-RM | romance episode | untitled | reserved |
+| CMP-02-BD | sworn-bond episode | untitled | reserved |
 | CMP-02-S | summer coda | untitled | reserved |
 
 Embedded opportunities: 10 reserved. Autonomous Act I, II, and III actions are controlled below; exact results await the user-approved deep block.
@@ -77,7 +80,8 @@ Embedded opportunities: 10 reserved. Autonomous Act I, II, and III actions are c
 | CMP-03-A3-O | Act III operation | untitled | reserved |
 | CMP-03-A3-F | Act III finale | [[Last Beacon, First Road]] | pending migration |
 | CMP-03-FR | friendship episode | untitled | reserved |
-| CMP-03-RL | romance or bond episode | untitled | reserved |
+| CMP-03-RM | romance episode | untitled | reserved |
+| CMP-03-BD | sworn-bond episode | untitled | reserved |
 | CMP-03-S | summer coda | untitled | reserved |
 
 Embedded opportunities: 10 reserved. Autonomous Act I, II, and III actions are controlled below; exact results await the user-approved deep block.
@@ -94,7 +98,8 @@ Embedded opportunities: 10 reserved. Autonomous Act I, II, and III actions are c
 | CMP-04-A3-O | Act III operation | untitled | reserved |
 | CMP-04-A3-F | Act III finale | [[No Human Shadow]] | pending migration |
 | CMP-04-FR | friendship episode | untitled | reserved |
-| CMP-04-RL | romance or bond episode | untitled | reserved |
+| CMP-04-RM | romance episode | untitled | reserved |
+| CMP-04-BD | sworn-bond episode | untitled | reserved |
 | CMP-04-S | summer coda | untitled | reserved |
 
 Embedded opportunities: 10 reserved. Autonomous Act I, II, and III actions are controlled below; exact results await the user-approved deep block.
@@ -109,7 +114,8 @@ Embedded opportunities: 10 reserved. Autonomous Act I, II, and III actions are c
 | CMP-05-FR | friendship episode | [[A Blade Freely Given]] | blocked; migrated |
 | CMP-05-A2-O | Act II operation | [[Four Fires]] | blocked; migrated |
 | CMP-05-A2-F | Act II finale | [[Embers Without Excuse]] | blocked; migrated |
-| CMP-05-RL | romance or bond episode | [[Enough for Two]] | blocked; migrated |
+| CMP-05-RM | romance episode | [[Enough for Two]] | blocked; migrated |
+| CMP-05-BD | sworn-bond episode | [[Watch Until Morning]] | blocked; migrated |
 | CMP-05-A3-O | Act III operation | [[Beds Before Banners]] | blocked; migrated |
 | CMP-05-A3-F | Act III finale | [[The Open Hospice]] | blocked; migrated |
 | CMP-05-S | summer coda | [[The First Open Table]] | blocked; migrated |
@@ -128,7 +134,8 @@ Embedded opportunities: 10 blocked through [[Bernard Companion Campaign]] and [[
 | CMP-06-A3-O | Act III operation | untitled | reserved |
 | CMP-06-A3-F | Act III finale | [[The Road That Answers]] | pending migration |
 | CMP-06-FR | friendship episode | untitled | reserved |
-| CMP-06-RL | romance or bond episode | untitled | reserved |
+| CMP-06-RM | romance episode | untitled | reserved |
+| CMP-06-BD | sworn-bond episode | untitled | reserved |
 | CMP-06-S | summer coda | untitled | reserved |
 
 Embedded opportunities: 10 reserved. Autonomous Act I, II, and III actions are controlled below; exact results await the user-approved deep block.
@@ -145,7 +152,8 @@ Embedded opportunities: 10 reserved. Autonomous Act I, II, and III actions are c
 | CMP-07-A3-O | Act III operation | untitled | reserved |
 | CMP-07-A3-F | Act III finale | [[Horn for Leak-Day]] | pending migration |
 | CMP-07-FR | friendship episode | untitled | reserved |
-| CMP-07-RL | romance or bond episode | untitled | reserved |
+| CMP-07-RM | romance episode | untitled | reserved |
+| CMP-07-BD | sworn-bond episode | untitled | reserved |
 | CMP-07-S | summer coda | untitled | reserved |
 
 Embedded opportunities: 10 reserved. Autonomous Act I, II, and III actions are controlled below; exact results await the user-approved deep block.
@@ -162,7 +170,8 @@ Embedded opportunities: 10 reserved. Autonomous Act I, II, and III actions are c
 | CMP-08-A3-O | Act III operation | untitled | reserved |
 | CMP-08-A3-F | Act III finale | [[All Cords Cut Clean]] | pending migration |
 | CMP-08-FR | friendship episode | untitled | reserved |
-| CMP-08-RL | romance or bond episode | untitled | reserved |
+| CMP-08-RM | romance episode | untitled | reserved |
+| CMP-08-BD | sworn-bond episode | untitled | reserved |
 | CMP-08-S | summer coda | untitled | reserved |
 
 Embedded opportunities: 10 reserved. Autonomous Act I, II, and III actions are controlled below; exact results await the user-approved deep block.
@@ -182,7 +191,7 @@ Each companion reserves ten embedded opportunities, satisfying the 8-12 target w
 | Tavio | 3 | 2 | 2 | 1 | 1 | 1 | 10 |
 | Zafir | 3 | 2 | 2 | 1 | 1 | 1 | 10 |
 
-The three main-campaign entries are the act contributions below. Individual passes may move one of the other seven opportunities between factions, local stories, exploration, company life, and systemic encounters while retaining the ten-piece total.
+The three main-campaign entries are the act contributions below. Individual passes may move one of the other seven opportunities between factions, local stories, exploration, company life, and systemic encounters while retaining the ten-opportunity total.
 
 ## Main-Act Contributions
 

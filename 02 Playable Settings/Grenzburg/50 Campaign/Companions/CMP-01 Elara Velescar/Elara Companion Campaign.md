@@ -16,7 +16,7 @@ architecture_status: migrated
 ---
 # Elara Companion Campaign
 
-This is the controlling authority for Elara Velescar's ten formal campaign pieces, three act deadlines, preparation assets, autonomous decisions, changed re-entry, embedded opportunities, and progression rewards. [[Elara Velescar]] remains the character authority. [[Elara Field Familiarity and Relationships]] controls approval and intimacy, while [[Elara Delver-Duelist Package]] controls combat.
+This is the controlling authority for Elara Velescar's eleven authored campaign pieces, ten-piece playthrough ceiling, three act deadlines, preparation assets, autonomous decisions, changed re-entry, embedded opportunities, and progression rewards. [[Elara Velescar]] remains the character authority. [[Elara Field Familiarity and Relationships]] controls approval and intimacy, while [[Elara Delver-Duelist Package]] controls combat.
 
 ## Campaign Thesis
 
@@ -33,7 +33,7 @@ The strongest outcome leaves Elara an adventurer. It does not turn her into a cl
 
 ## Formal Campaign
 
-The ten pieces target approximately **10.75 first-play hours**, within the campaign's 9-12 hour budget. Exploration, repeated attempts, optional conversations, and embedded opportunities can extend that time without padding the formal sequence.
+The eleven authored pieces contain mutually exclusive romance and sworn-bond episodes. A playthrough exposes nine non-exclusive pieces and no more than one sequence-7 relationship episode, preserving approximately **10.75 first-play hours** within the campaign's 9-12 hour budget. Exploration, repeated attempts, optional conversations, and embedded opportunities can extend that time without padding the formal sequence.
 
 | Sequence | ID | Piece | Role | Party | Principal function |
 |---:|---|---|---|---|---|
@@ -43,12 +43,13 @@ The ten pieces target approximately **10.75 first-play hours**, within the campa
 | 4 | CMP-01-FR | [[A Better Wager]] | friendship | one-on-one | let adventure be pleasure rather than entitlement |
 | 5 | CMP-01-A2-O | [[Eight Honest Warrants]] | Act II operation | normal party | separate evidence from genuine winter relief |
 | 6 | CMP-01-A2-F | [[The Patron's Cabinet]] | Act II finale | player and Elara | confront Vardek without sacrificing the people he feeds |
-| 7 | CMP-01-RL | [[Raven Shelf at Dawn]] | relationship | one-on-one | deepen a committed romance or sworn bond through mutual reliance |
+| 7 | CMP-01-RM | [[Raven Shelf at Dawn]] | romance | one-on-one | deepen a male-player romance through danger, rescue, and private intimacy |
+| 7 | CMP-01-BD | [[Two Names on the Rope]] | sworn bond | one-on-one | establish female-player sworn friendship through equal survey, reciprocal rescue, and guaranteed return |
 | 8 | CMP-01-A3-O | [[Sixty-Three Claims]] | Act III operation | normal party | protect household petitions before the estate settlement |
 | 9 | CMP-01-A3-F | [[No Lady of Velescar]] | Act III finale | player and Elara | decide what leaves the vault and what House Velescar becomes |
 | 10 | CMP-01-S | [[The First Honest Find]] | summer coda | normal party or changed encounter | demonstrate the settled expedition ethic |
 
-The introduction and operations retain ordinary party management. Only the three act finales dismiss other full companions. Friendship and relationship episodes are private one-on-one activities. Temporary workers, witnesses, and guides never consume companion slots.
+The introduction and operations retain ordinary party management. Only the three act finales dismiss other full companions under the duo-quest rule. Friendship, romance, and sworn-bond episodes are private one-on-one activities. Romance and bond are mutually exclusive, authored separately, and never presented as alternate dialogue inside the same scene. Temporary workers, witnesses, and guides never consume companion slots.
 
 ## Tracking and Release
 
@@ -115,7 +116,7 @@ No act requires a particular vocation, faction, relationship, or moral alignment
 | `elara_burial_provenance_matched` | [[The Names They Buried]] or Danara's archive work | identifies the burial tubes and valid restitution chain |
 | `elara_old_tithe_route_known` | underways access or the public riverworks survey | opens one of the Old Tithe Vault approaches |
 
-`elara_raven_line_practiced` from [[Raven Shelf at Dawn]] is a relationship bonus outside the five-asset threshold. It can preserve one person or material recovery during the clearing-chamber collapse. It cannot change Elara's direction or settlement choice.
+`elara_raven_line_practiced` from [[Raven Shelf at Dawn]] and `elara_two_names_line_practiced` from [[Two Names on the Rope]] are mutually exclusive relationship bonuses outside the five-asset threshold. Either can preserve one person or material recovery during the clearing-chamber collapse. They never stack and cannot change Elara's direction or settlement choice.
 
 ## Act Deadlines
 

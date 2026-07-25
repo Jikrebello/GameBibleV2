@@ -104,7 +104,8 @@ Elara breaks line of sight with prepared powder-smoke, relocates, and can draw t
 | [[A Better Wager]] | **Follow My Line:** marks a nearby safe continuation after a missed traversal move | Bridgehold and Market Roofline route knowledge |
 | [[Eight Honest Warrants]] | identifies false floors and substituted sealed containers | warrant-casket preparation and contextual inspection options |
 | [[The Patron's Cabinet]] | A Lady's Exit and the committed relationship duo move | path-specific duo move when commitment occurs |
-| [[Raven Shelf at Dawn]] | path-specific duo move upgrade | Raven Line material safeguard in the Act III finale |
+| [[Raven Shelf at Dawn]] | Crossed Measure: Second Beat | Raven Line material safeguard in the Act III finale |
+| [[Two Names on the Rope]] | Back-to-Back: Held Line | Two Names Line material safeguard in the Act III finale |
 | [[Sixty-Three Claims]] | recognizes claimant marks and substituted estate rolls | claimant-priority and Old Tithe preparation |
 | [[No Lady of Velescar]] | **The Last Claim:** a rapier-and-pick finisher against a properly exposed elite or large-creature point | saved Delver-Duelist blueprint on resolved or compromised outcomes |
 | [[The First Honest Find]] | postgame provenance callouts reflect the settled outcome | Provenance Board when Elara remains connected to the Blackjacks |

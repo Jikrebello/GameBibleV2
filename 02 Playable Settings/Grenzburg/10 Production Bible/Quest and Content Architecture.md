@@ -78,6 +78,7 @@ Every active Grenzburg quest note must carry these properties in addition to ord
 | optional_state_inputs | Prior outputs that alter routes, costs, allies, encounters, or consequences without becoming mandatory. |
 | companion_content_role | introduction, operation, act-finale, friendship, relationship, summer-coda, embedded, or empty |
 | companion_campaign_stage | introduction, act-1, act-2, act-3, relationship, summer, or empty |
+| relationship_variant | romance, bond, or empty; mandatory for authored relationship episodes |
 | architecture_status | pending-migration, migrated, reserved, current, retired, or empty |
 | preparation_inputs | Named evidence, support, practice, route, or material assets that improve a finale. |
 | preparation_threshold | Bespoke participation requirement stated as a readable condition. |
@@ -129,7 +130,7 @@ After most major chapters, the player receives an open window to pursue parallel
 | Main | 21 | Two prologue, six Act I, seven Act II, six Act III. |
 | Aftermath | 2 | Required summer consequence and reopening quests. |
 | Faction | 40-50 | Five lines of eight to ten quests. |
-| Companion | 80 authored; up to 74 playable in one run | Ten formal pieces per companion, excluding 8-12 embedded opportunities each. |
+| Companion | 88 authored; up to 74 playable in one run | Eleven authored pieces per companion, with separate mutually exclusive romance and bond episodes, excluding 8-12 embedded opportunities each. |
 | Marquee | 24 | Distributed across city and all seven exterior subregions. |
 | Local | 36 | Finite authored problems and discoveries. |
 | Job templates | 12 | Most placements finite; selected hunts, escorts, and bounties repeat. |
@@ -170,12 +171,12 @@ At least one quest per line must be primarily social or investigative, one must 
 
 ## Companion-Campaign Standard
 
-[[Companion Campaign Architecture]] controls the eighty-piece budget and maps each old four-quest line into one introduction and three act finales.
+[[Companion Campaign Architecture]] controls the eighty-eight-piece authored budget and maps each old four-quest line into one introduction and three act finales.
 
 - Introductory cases and short operations require the owner but retain the ordinary field party.
 - Act finales use the player-plus-owner duo.
 - Friendship episodes are available to every player.
-- One additional relationship episode follows committed romance or sworn bond.
+- Separate romance and sworn-bond episodes are authored for every companion; commitment exposes only the eligible one.
 - Summer codas reflect settled outcomes without reopening them.
 - Each act finale has three to five useful preparation opportunities and a bespoke participation threshold.
 - Every unresolved act chapter advances at the act-ending main-story gate.

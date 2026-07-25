@@ -17,7 +17,7 @@ architecture_status: migrated
 ---
 # Bernard Banter and Reactivity
 
-This register controls Bernard's voice around the other companions, Grenzburg's factions, locations, and campaign crises. [[Bernard Companion Campaign]] controls the ten-piece sequence and embedded-opportunity count. This note provides writing direction and representative exchanges; final performance scripts may vary wording without changing relationship movement.
+This register controls Bernard's voice around the other companions, Grenzburg's factions, locations, and campaign crises. [[Bernard Companion Campaign]] controls the eleven-piece authored sequence, ten-piece playthrough ceiling, and embedded-opportunity count. This note provides writing direction and representative exchanges; final performance scripts may vary wording without changing relationship movement.
 
 ## Voice Rules
 
@@ -401,7 +401,7 @@ The prayer prompt occurs only before authored major fights, a companion's explic
 - **Morning:** carries warming supplies between Mercy Hospital, outer camps, and the Yard under witnessed counts.
 - **Midday:** assists burial bearers without performing priestly rites and helps move patients during alarm states.
 - **Evening:** repairs blankets and bandages while children or exhausted debtors gather near the stove.
-- **Night:** takes an outer-camp watch when available; after a committed [[Embers Without Excuse]] outcome, his prayer rope may show the relationship bead.
+- **Night:** takes an outer-camp watch when available; after the romance episode [[Enough for Two]], his prayer rope shows the freely given relationship bead. A sworn bond never alters the prayer rope.
 
 ### Spring and Summer
 
@@ -436,7 +436,8 @@ Active-party selection overrides the next valid routine point. Personal-quest st
 - [[A Blade Freely Given]] changes equipment observations: Bernard can acknowledge one owned object without pretending the gift cured scarcity.
 - [[Four Fires]] gives him shelter-specific observations about declared shortage, consolidation, and who bears inconvenience.
 - [[Embers Without Excuse]] changes White-Flame and Froststep dialogue according to Petra's response and Bernard's disclosure.
-- [[Enough for Two]] adds private rest dialogue only on a committed path; it never replaces friendship scenes.
+- [[Enough for Two]] adds romance-specific private-rest dialogue, the freely given bead, and feast memories.
+- [[Watch Until Morning]] adds platonic sworn-brother dialogue, Cairnside Shelter observations, and shared-watch language without romantic presentation.
 - [[Beds Before Banners]] makes neutral admission, sponsor limits, and patient routes active faction observations.
 - [[The Open Hospice]] fixes moral direction, destination, perk, and sword-name variants.
 - [[The First Open Table]] supplies the summer routine rather than reopening any prior judgement.

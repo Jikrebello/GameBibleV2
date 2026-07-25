@@ -16,7 +16,7 @@ companion_id: "CMP-01"
 ---
 # Elara Banter and Reactivity
 
-This register controls Elara's voice around the other companions, Grenzburg's factions, locations, and campaign crises. It gives writing direction and representative exchanges; final performance scripts may vary wording without changing the relationship movement.
+This register controls Elara's voice around the other companions, Grenzburg's factions, locations, and campaign crises. [[Elara Companion Campaign]] controls the eleven-piece authored sequence and ten-piece playthrough ceiling. This note gives writing direction and representative exchanges; final performance scripts may vary wording without changing relationship movement.
 
 ## Voice Rules
 
@@ -400,10 +400,11 @@ These ten authored opportunities make Elara present outside her formal campaign.
 6. **City breach:** she opens a roof route and uses powder-smoke to cover people crossing it.
 7. **Drake hunt:** awe never turns the animal into a speaking moral claimant; she insists custody of its remains still needs a living decision.
 8. **After The Patron's Cabinet:** relationship commitment or friendship refusal occurs without another companion present.
-9. **Raven Shelf:** a committed relationship gains its own expedition and rescue rather than borrowing Elara's moral climax.
-10. **Gerhold:** she recognizes the same grammar as House Velescar carried to its extreme: service that authority refuses to release.
-11. **Before the Deep Muster:** she offers one honest wager about both returning and specifies that neither life belongs to the other.
-12. **Summer:** [[The First Honest Find]] and ambient schedules reflect resolved, compromised, or broken disposition of the house.
+9. **Raven Shelf:** a committed male-player romance gains its own ascent, rescue, private camp, and romantic memory rather than borrowing Elara's moral climax.
+10. **Windcut Mine:** a committed female-player bond gains its own equal survey, reciprocal rescue, public claim, and platonic pact of guaranteed return.
+11. **Gerhold:** she recognizes the same grammar as House Velescar carried to its extreme: service that authority refuses to release.
+12. **Before the Deep Muster:** she offers one honest wager about both returning and specifies that neither life belongs to the other.
+13. **Summer:** [[The First Honest Find]] and ambient schedules reflect resolved, compromised, or broken disposition of the house, plus only the relationship episode actually completed.
 
 ## Outcome Variants
 

@@ -114,7 +114,7 @@ Medium-site names are canon. [[Seven Mounds]] is claimed by [[A House Fed by Bon
 | GR-2-L4 | West Smokehouse | food supply and labor anchor | no |
 | GR-2-L5 | Eel Bridge | road chokepoint and flood-state marker | no |
 | GR-2-L6 | Ice Bell Rock | winter route warning and lake landmark | no |
-| GR-2-L7 | Lake Road Cairn | navigation, memorial, and encounter anchor | yes |
+| GR-2-L7 | Lake Road Cairn | navigation, memorial, encounter anchor, and Cairnside Shelter approach | yes |
 
 ### Wolfsmere Woods
 
@@ -146,7 +146,7 @@ Medium-site names are canon. [[Seven Mounds]] is claimed by [[A House Fed by Bon
 |---|---|---|---|
 | GR-5-L1 | Needle Tarn | water source, weather mirror, and hunt site | yes |
 | GR-5-L2 | Ropehouse Ruin | autumn shoring encounter; sealed survey loft exposed for [[The First Honest Find]] in summer | no |
-| GR-5-L3 | Windcut Mine | minor extraction delve | no |
+| GR-5-L3 | Windcut Mine | minor extraction delve and the permitted two-person survey in [[Two Names on the Rope]] | no |
 | GR-5-L4 | Raven Shelf | overlook and aerial-threat warning | yes |
 | GR-5-L5 | Blue Ice Cave | seasonal cave and cold shelter | yes |
 | GR-5-L6 | Scree Chapel | marcher devotion and avalanche refuge | no |
@@ -156,6 +156,7 @@ Medium-site names are canon. [[Seven Mounds]] is claimed by [[A House Fed by Bon
 
 - **Ropehouse Ruin (EL-E08):** its accessible outer works support an autumn exploration beat that can produce `elara_shoring_knowledge`. The deeper survey loft remains sealed until spring repairs expose it for [[The First Honest Find]].
 - **Raven Shelf and Blue Ice Cave:** [[Raven Shelf at Dawn]] uses the shelf, old signal line, and cave refuge without removing their ordinary navigation and weather functions.
+- **Windcut Mine:** [[Two Names on the Rope]] uses its spring survey branch, paired-anchor route, and public Highlake custody terms. The bond outcome never converts the mine into Elara's private claim.
 - **Finder's Share (EL-E07):** the later local-content wave must place this dispute at a living work or custody site. Its completed form can produce `elara_living_custodian_support`; it may not describe unoccupied ruin as the only claimant.
 
 ### Upper Grenz
@@ -186,6 +187,7 @@ Medium-site names are canon. [[Seven Mounds]] is claimed by [[A House Fed by Bon
 
 - **Pikehook snare line (BE-E07):** one authored exploration of Pikehook Marsh can identify the abandoned hunting line, the wounded bear's likely movement, and a safe child-withdrawal route. Recording and marking it sets `bernard_pikehook_snare_line_mapped`; ordinary renewable search jobs do not repeat the asset.
 - **West Refuge underways (BE-E08):** one authored exploration from West Refuge Hall into the city underways can clear and mark a nonpublic patient route. Completing it without handing the route to an exclusive underworld claimant sets `bernard_underways_evacuation_route`.
+- **Cairnside Shelter:** the minor road refuge beside Lake Road Cairn is repaired during [[Watch Until Morning]]. Its roof, stove, declared stores, and service cords persist according to `cairnside_shelter_state`; the site does not require a separate place dossier.
 
 ## Content Placement Rules
 
