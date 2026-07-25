@@ -116,7 +116,7 @@ The Drake's routes are learned from physical signs, preparation sites, and repea
 
 ## Companion Intersections
 
-Dismas and Ashira receive primary ecological reactions. Tavio and Ilyana support tools; Svala and Bernard protect hunters; Elara exploits climb routes; Zafir can direct covenanted nonhuman forms but cannot bind the Drake or its gem. No companion is mandatory.
+Dismas and Ashira receive primary ecological reactions. Tavio and Ilyana support tools; Ylva and Bernard protect hunters; Elara exploits climb routes; Zafir can direct covenanted nonhuman forms but cannot bind the Drake or its gem. No companion is mandatory.
 
 ## Faction Advantages
 

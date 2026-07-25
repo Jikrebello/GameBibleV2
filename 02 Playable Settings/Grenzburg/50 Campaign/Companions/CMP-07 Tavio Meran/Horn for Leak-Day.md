@@ -45,7 +45,7 @@ preparation_threshold: "2 of 5"
 autonomous_deadline: "The Deep Muster"
 autonomous_resolution: "Tavio saves the forge only after Hella or ducal authority orders evacuation and becomes a supervised load tester"
 changed_reentry: "The Road Takes the Measure"
-ensemble_inputs: ["Bernard Valeon", "Ilyana Veshkar", "Svala Last-Beacon"]
+ensemble_inputs: ["Bernard Valeon", "Ilyana Veshkar", "Ylva Winter-Track"]
 identity_hooks: ["Military", "Merchant/Craft", "Peasant/Labour", "Scholarly", "Warlock", "Lancewright"]
 encounter_deck: []
 persistence_scope: regional-milestone

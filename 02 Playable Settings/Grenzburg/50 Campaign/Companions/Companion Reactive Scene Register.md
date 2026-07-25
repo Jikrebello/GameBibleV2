@@ -50,7 +50,7 @@ At act endings, tracked campaigns show a consolidated readiness entry. Untracked
 |---|---|---|---|---|
 | [[Elara Velescar]] | reads Grenzburg rank through servants and funeral display; recognizes Vardek goods before admitting why | contrasts noble emergency privilege with refugee loss; challenges Ashira over when discovery becomes permission | identifies families treating dead service as inherited property; can fund evacuation through resolved assets | visits returned graves or restored household holdings, then chooses adventure without title; controlled in [[Elara Banter and Reactivity]] |
 | [[Ilyana Veshkar]] | takes practical command during the Black Road rescue, then confronts the Salt-Reed forgery and learns to build plans that survive refusal | establishes voluntary signals, fog, elemental cadences, and casualty calls while the former performers arrive under their own names | identifies the Muster's command cadence, releases disputed service and authorship claims, and refuses to treat emergency need as consent | travels as an open-road Bard, serves as a supervised civic signal-Bard, accepts a narrower settlement, or departs after a warned break |
-| [[Svala Last-Beacon]] | makes the first real shared meal after Southbound Muster | reacts to every surrender and refugee gate; tests her recall method under siege noise | treats Last Hearth as a practical home rather than a symbol | keeps a road beacon, returns under conditional hall terms, or leaves no fire if broken |
+| [[Ylva Winter-Track]] | exposes the impossible Fourth Marker roster, publishes a shared signal code, and learns to issue an honest distress call | builds the Lantern Ward warning chain and shares informed risk and cargo liability during the ice evacuation | duplicates the living-route atlas and must leave the final marker when relief arrives | becomes an independent pathfinder, supervised scout, solitary contractor, or an explicitly chosen unresolved memorial; controlled in [[Ylva Banter and Reactivity]] |
 | [[Ashira bath Melan]] | corrects false claims that Mediums hold souls and then evades the harm her imprints caused | studies the Drake and residue without romanticizing them; disputes Elara over who may use accurate knowledge | recognizes the Muster's apparent speech as computation and faces copies of her named roster | opens a nonhuman field school, leaves a sealed archive, or vanishes with the human patterns |
 | [[Bernard Valeon]] | tends convoy wounds, confronts genuine theft, recovers the road-school wagon, and escorts the Chapel-Folk children | keeps four shelters alive and serves the Long Watch relief mission; genuine kindling changes duty rather than proving innocence | secures West Refuge, opposes Gerhold's refusal to release service at death, and builds accountable lay care | demonstrates his settled destination through [[The First Open Table]]; controlled in [[Bernard Banter and Reactivity]] |
 | [[Dismas Raben]] | marks every exit at camp and returns only when another person is still on the road | reads Grobi and Drake routes; challenges Ilyana when command secrecy hides bodies | chooses the last civilian route during the dead march | reports for public marcher service, serves under sealed terms, or has fled beyond the map |
@@ -110,6 +110,23 @@ Only distinct authored instances count. Another companion may preserve a route, 
 
 Only distinct authored instances count. Another companion may preserve a performer, score, route, or instrument, but cannot grant consent, release Ilyana's claims, or decide whether she relinquishes ownership.
 
+### Ylva Winter-Track
+
+[[Ylva Companion Campaign]] controls Ylva's eleven authored pieces, ten-piece playthrough ceiling, ten embedded opportunities, three act deadlines, deterministic autonomous route, and changed re-entry. Her embedded register is:
+
+1. the impossible watch roster and Fourth Marker in [[The Southbound Muster]];
+2. the resident-held warning and extraction lane in [[The City in Siege]];
+3. the living road during [[The Dead March]];
+4. a named relief roster in [[Outpost Arithmetic]];
+5. distributed ice readings in [[The River's Two Banks]];
+6. collective loss precedent in [[The Blackjacks Koss Lost]];
+7. Black Fir Watch route exploration;
+8. an Ashfield fieldcraft and fletching practice;
+9. the Snowblind Rise environmental memory;
+10. the Blackjack Yard route board and relief drill.
+
+Only distinct authored instances count. Another companion may hold a signal, rescue a traveler, preserve supplies, or take a watch, but cannot report Ylva's limit, reject sole liability for her, or make her leave the last marker.
+
 ### Tavio Meran
 
 [[Tavio Companion Campaign]] controls Tavio's eleven authored pieces, ten-piece playthrough ceiling, ten embedded opportunities, three act deadlines, deterministic autonomous route, and changed re-entry. His embedded register is:
@@ -134,7 +151,7 @@ Only distinct authored instances count. Another companion may preserve a worker,
 | Elara and Ashira | adventurous discovery against exact knowledge | each recognizes how an accurate record can still become a weapon or excuse | they establish a delving protocol requiring provenance, living custodians, and bounded use |
 | Bernard and Zafir | freely chosen vow against enforceable protection | Bernard accepts records and consequences; Zafir confronts the point where bounded control still owns a person | they can write a hospice rule that protects without converting care into ownership |
 | Ilyana and Dismas | arranging others against escaping responsibility | each is placed in the other's temptation during winter | they plan a rescue in which every role may be refused and every withdrawal names who still needs help |
-| Svala and Tavio | hearing yield against proving victory | Svala must trust a test; Tavio must stop one | they create a combat recall drill that treats restraint as mastery |
+| Ylva and Tavio | exceeding limits for self-erasure against exceeding them for mastery | Ylva must accept relief; Tavio must honour a halt | they build a field drill in which either may end the proof and a replacement must actually take the watch |
 
 ## Main-Crisis Contributions
 
@@ -157,6 +174,8 @@ Summer codas settle destinations. Repeating reconstruction seasons may change am
 - [[Bernard Banter and Reactivity]]
 - [[Ilyana Companion Campaign]]
 - [[Ilyana Banter and Reactivity]]
+- [[Ylva Companion Campaign]]
+- [[Ylva Banter and Reactivity]]
 - [[Tavio Companion Campaign]]
 - [[Tavio Banter and Reactivity]]
 - [[Narrative State Register]]

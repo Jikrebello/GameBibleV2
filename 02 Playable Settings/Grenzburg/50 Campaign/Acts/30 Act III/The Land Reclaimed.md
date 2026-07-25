@@ -120,7 +120,7 @@ Each anchor updates `muster_anchor_count`, its region, its finale power, and its
 
 ## Companion Intersections
 
-All companion histories can react to return, remains, and rebuilding. Ilyana and Dismas carry especially strong responsibility scenes around command and withdrawal; Svala and Bernard support the living settlement; Ashira clarifies recurrence; Tavio and Zafir open specialist routes. No companion is mandatory.
+All companion histories can react to return, remains, and rebuilding. Ilyana and Dismas carry especially strong responsibility scenes around command and withdrawal; Ylva duplicates evacuation routes and Bernard supports living settlement; Ashira clarifies recurrence; Tavio and Zafir open specialist routes. No companion is mandatory.
 
 [[Elara Velescar]] can compare recovered stores, service rolls, makers' marks, and refugee testimony before salvage is redistributed. Giving copies to the living claimants rather than merely cataloguing valuable objects records `elara_living_claims_indexed`, one preparation asset for [[No Lady of Velescar]]. Ordinary clerks can complete the reclamation without her.
 

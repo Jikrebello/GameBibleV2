@@ -106,7 +106,7 @@ Survivor rolls, material wagons, and visible field conditions establish intake n
 
 ## Companion Intersections
 
-All recruited companions receive a winter-arrival scene. Bernard and Caestus work the casualty lane; Ilyana reads the siege test; Svala handles panic without treating it as weakness; Dismas identifies the withdrawal routes Ghor wants to close.
+All recruited companions receive a winter-arrival scene. Bernard and Caestus work the casualty lane; Ilyana reads the siege test; Ylva audits warning stations, receiving shelters, and relief changes; Dismas identifies the withdrawal routes Ghor wants to close.
 
 ## Faction Advantages
 

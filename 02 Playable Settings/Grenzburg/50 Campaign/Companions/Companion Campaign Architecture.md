@@ -126,7 +126,7 @@ The expanded companion budget is added on top of the existing faction, marquee, 
 
 ## Migration
 
-[[Companion Campaign Expansion Register]] controls the 88 authored slots and the seventy-four-piece playthrough ceiling. [[Elara Companion Campaign]], [[Ilyana Companion Campaign]], [[Bernard Companion Campaign]], and [[Tavio Companion Campaign]] are completed migrations. Existing notes for the other four retain their current prose until an individual retrofit or deep block and carry `architecture_status: pending-migration` during that interval.
+[[Companion Campaign Expansion Register]] controls the 88 authored slots and the seventy-four-piece playthrough ceiling. [[Elara Companion Campaign]], [[Ilyana Companion Campaign]], [[Ylva Companion Campaign]], [[Bernard Companion Campaign]], and [[Tavio Companion Campaign]] are completed migrations. Existing notes for Ashira, Dismas, and Zafir retain their current prose until an individual retrofit or deep block and carry `architecture_status: pending-migration` during that interval.
 
 ## Navigation
 

@@ -110,7 +110,7 @@ The player chooses which finale approach receives the first engineering preparat
 
 ## Companion Intersections
 
-Dismas, Svala, and Ilyana have strong road-and-command responses; Ashira distinguishes residue from persons; Bernard rejects false honorable service; Elara, Tavio, and Zafir support infiltration, mechanisms, and command-cord analysis. No companion is mandatory.
+Dismas, Ylva, and Ilyana have strong road-and-command responses: Dismas reads hostile movement, Ylva identifies which roads remain usable by the living, and Ilyana counters command cadence. Ashira distinguishes residue from persons; Bernard rejects false honorable service; Elara, Tavio, and Zafir support infiltration, mechanisms, and command-cord analysis. No companion is mandatory.
 
 ## Faction Advantages
 

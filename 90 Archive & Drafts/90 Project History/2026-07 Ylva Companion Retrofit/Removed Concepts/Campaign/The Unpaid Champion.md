@@ -1,7 +1,7 @@
 ---
 type: quest
-status: canon
-canon_level: local
+status: archived
+canon_level: obsolete
 visibility: author-only
 era: ["Present Day"]
 region: ["Grenzburg"]
@@ -26,6 +26,10 @@ quest_sequence: 1
 companion_id: "CMP-03"
 faction_line: ""
 faction_branch: ""
+archive_reason: "Superseded by The Fourth Marker and the White-Sled debt history"
+archived_from: "02 Playable Settings/Grenzburg/50 Campaign/Companions/CMP-03 Svala Last-Beacon/The Unpaid Champion.md"
+archived_on: 2026-07-25
+superseded_by: "[[The Fourth Marker]]"
 ---
 # The Unpaid Champion
 

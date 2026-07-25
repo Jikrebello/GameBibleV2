@@ -112,7 +112,7 @@ The player also determines whether Cold-Iron Deeps reopens under strict limits, 
 
 ## Companion Intersections
 
-Ashira is the clearest residue specialist; Ilyana and Tavio read the engine; Dismas and Svala lead difficult rescue routes; Bernard protects the remains without mistaking them for souls; Elara and Zafir identify alternate mechanisms. No companion is mandatory.
+Ashira is the clearest residue specialist; Ilyana and Tavio read the engine; Dismas reads the hostile approach while Ylva establishes the casualty route and relief change; Bernard protects the remains without mistaking them for souls; Elara and Zafir identify alternate mechanisms. No companion is mandatory.
 
 ## Faction Advantages
 

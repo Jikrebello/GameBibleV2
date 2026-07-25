@@ -44,7 +44,7 @@ preparation_threshold: "2 of 5"
 autonomous_deadline: "The Deep Muster"
 autonomous_resolution: "Brina moves Bernard's viable care service into the Blackjack infirmary under open inventory control; Open Lamp remains unrealized and Bernard remains uncertain"
 changed_reentry: "The First Open Table"
-ensemble_inputs: ["Svala Last-Beacon", "Ilyana Veshkar", "Zafir ibn Samad"]
+ensemble_inputs: ["Ylva Winter-Track", "Ilyana Veshkar", "Zafir ibn Samad"]
 identity_hooks: []
 encounter_deck: []
 persistence_scope: regional-milestone

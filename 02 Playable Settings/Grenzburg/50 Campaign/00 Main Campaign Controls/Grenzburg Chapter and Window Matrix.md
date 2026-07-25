@@ -33,7 +33,7 @@ This matrix controls critical-path dependencies, open-world windows, and irrever
 | MQ-01 | [[The Black Road Main Quest|The Black Road]] | open | new game | teaches core play; introduces Ilyana, Bernard, and Dismas | convoy reaches the Funnel; people and cargo vary | 1.25 |
 | MQ-02 | [[Warrant at the Gate]] | season | MQ-01 | opens all surface city districts and Early Autumn | ducal warrant and Blackjack party form | 0.75 |
 | MQ-03 | [[The Closing Roads]] | open | MQ-02 | opens Lowlands road content and Broken Tollworks | Three Mills road gains a persistent state | 1.25 |
-| MQ-04 | [[The Southbound Muster]] | operation | MQ-03 | opens Tannbruck, wider autumn, and Svala | local Folk road claim and first organized Grobi probe recorded | 1.25 |
+| MQ-04 | [[The Southbound Muster]] | operation | MQ-03 | opens Tannbruck, wider autumn, and Ylva | local Folk road claim and first organized Grobi probe recorded | 1.25 |
 | MQ-05 | [[Fort Tannbruck Main Quest|Fort Tannbruck]] | operation | MQ-04 | opens fort services, Watch Hill, and route intelligence | signals and bridge mechanism states persist | 1.25 |
 | MQ-06 | [[Roads Worth Saving]] | open | MQ-05 | opens six operations; any three required | unresolved operations take their authored Late Autumn state | 3.0 |
 | MQ-07 | [[The Last Convoy]] | season | three MQ-06 operations | starts Late Autumn evacuation | warning resolves or transforms exposed autumn quests | 1.5 |

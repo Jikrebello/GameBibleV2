@@ -1,7 +1,7 @@
 ---
 type: character
-status: canon
-canon_level: local
+status: archived
+canon_level: obsolete
 visibility: author-only
 era: ["Present Day"]
 region: ["Grenzburg"]
@@ -17,6 +17,10 @@ vocation: ""
 recruitment_window: ""
 foil: ""
 relationship_theme: ""
+archive_reason: "Removed with the retired Rimewing trial and visiting-homeland storyline"
+archived_from: "02 Playable Settings/Grenzburg/30 Characters/60 Personal Histories/Astrid Snow-Rope.md"
+archived_on: 2026-07-25
+superseded_by: "[[Ylva Winter-Track]]"
 ---
 # Astrid Snow-Rope
 

@@ -68,7 +68,7 @@ Grenzburg is the active game project: a silent-protagonist, party-based open-wor
 |---|---|---|---|
 | [[Elara Velescar]] | woman | [[Slayer]] - Delver-Duelist variant | Early Autumn |
 | [[Ilyana Veshkar]] | woman | [[Bard]] | Black Road |
-| [[Svala Last-Beacon]] | woman | [[Fighter]] | Open Autumn, at Southbound Muster |
+| [[Ylva Winter-Track]] | woman | [[Hunter]] - Rescue Scout package | Open Autumn, at Southbound Muster |
 | [[Ashira bath Melan]] | woman | [[Medium]] | Early Autumn |
 | [[Bernard Valeon]] | man | [[Paladin]] | Black Road |
 | [[Dismas Raben]] | man | [[Hunter]] | Black Road |
@@ -133,7 +133,7 @@ Pale-Skins remain wider-setting canon but have no role in Grenzburg's active mai
 
 - [[Frontier Industry Chains]]
 - [[Seasonal Settlement Chains]]
-- [[Rimewing Sisters]]
+- [[Ylva Companion Campaign]]
 - delvers, warlock schools, craftspeople, hunters, and trainers through later secondary chains
 
 These groups own substantial stories and services without becoming additional global reputation bars.
@@ -156,7 +156,7 @@ See [[Grenzburg Pre-Game-Constitution Archive Index]], [[Grenzburg Wave 4 Archiv
 1. **Game constitution:** complete.
 2. **Worldspace constitution:** complete.
 3. **Player systems:** complete at narrative-constitution level; numerical balance remains provisional.
-4. **Companions and factions:** the eighty-eight-piece authored companion standard and seventy-four-piece playthrough ceiling are locked. Elara's, Ilyana's, Bernard's, and Tavio's eleven-piece authored campaigns are migrated and production-blocked, with mutually exclusive romance and sworn-bond episodes; the other four remain outlined.
+4. **Companions and factions:** the eighty-eight-piece authored companion standard and seventy-four-piece playthrough ceiling are locked. Elara's, Ilyana's, Ylva's, Bernard's, and Tavio's eleven-piece authored campaigns are migrated and production-blocked, with mutually exclusive romance and sworn-bond episodes; Ashira, Dismas, and Zafir remain outlined.
 5. **Main campaign:** complete at production-block level; twenty-one chapters and two aftermath quests are wired to controlled state.
 6. **Living world and side content:** allocate identity hooks, systemic encounter decks, marquee stories, local quests, dungeons, hunts, contracts, and jobs without reducing the expanded companion budget.
 7. **Integration:** endings, summer states, intersections, production navigation, and final canon checks.

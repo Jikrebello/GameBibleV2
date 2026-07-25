@@ -44,7 +44,7 @@ preparation_threshold: "2 of 5"
 autonomous_deadline: "Ghor at the Gate"
 autonomous_resolution: "Bernard saves the patients and genuinely kindles White Flame, but admits a withheld salve only afterward; Petra accepts restitution without forgiveness and the player unlocks nothing"
 changed_reentry: "Embers After Snow"
-ensemble_inputs: ["Svala Last-Beacon", "Ilyana Veshkar", "Zafir ibn Samad"]
+ensemble_inputs: ["Ylva Winter-Track", "Ilyana Veshkar", "Zafir ibn Samad"]
 identity_hooks: []
 encounter_deck: []
 persistence_scope: regional-milestone

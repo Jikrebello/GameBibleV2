@@ -119,49 +119,49 @@ Bernard and Ilyana recognize the same temptation in different clothing: each onc
 >
 > **Bernard:** Then make somewhere.
 
-## Svala Last-Beacon
+## Ylva Winter-Track
 
-Svala and Bernard understand hospitality as work rather than sentiment. She respects his poverty vow but refuses to romanticize deprivation. He admires her hearth-keeping and challenges the moment righteous anger stops hearing surrender.
+Ylva and Bernard understand hospitality as work rather than sentiment. She respects his poverty vow but refuses to romanticize deprivation. He admires her field care and challenges the moment competent service becomes concealed self-erasure.
 
 **Early - ownership at camp**
 
-> **Svala:** Whose pot?
+> **Ylva:** Whose pot?
 >
 > **Bernard:** The company's.
 >
-> **Svala:** Whose stew?
+> **Ylva:** Whose stew?
 >
 > **Bernard:** Everyone's.
 >
-> **Svala:** Good. Your spoon is in your sleeve.
+> **Ylva:** Good. Your spoon is in your sleeve.
 
 **After Little Hands, Long Road - enough food**
 
 > **Bernard:** Mika hid food because home did not have enough.
 >
-> **Svala:** Then truth needed bread beside it.
+> **Ylva:** Then truth needed bread beside it.
 >
 > **Bernard:** You make that sound simple.
 >
-> **Svala:** It is simple. It is not cheap.
+> **Ylva:** It is simple. It is not cheap.
 
 **Last Ember response**
 
 > **Bernard:** I am not a priest. I can pray, and I can stay.
 >
-> **Svala:** My dead know another road. My living know this one.
+> **Ylva:** My dead know another road. My living know this one.
 >
 > **Bernard:** May the road hold beneath both.
 >
-> **Svala:** That prayer may walk with me.
+> **Ylva:** That prayer may walk with me.
 
 **Late - the open hearth**
 
-> **Svala:** A store everyone can count is a hearth. A store under one man's bed is fear.
+> **Ylva:** A store everyone can count is a hearth. A store under one man's bed is fear.
 >
 > **Bernard:** Sometimes fear wears a sensible lock.
 >
-> **Svala:** Then give two people the key.
+> **Ylva:** Then give two people the key.
 >
 > **Bernard:** You would have made a terrifying hospice-mother.
 
@@ -353,7 +353,7 @@ The prayer prompt occurs only before authored major fights, a companion's explic
 |---|---|---|
 | Elara | staying when escape remains possible | asks him to stay and permits the prayer |
 | Ilyana | counting people before objectives | fixes his place in the battle line |
-| Svala | distinct roads for her dead and living | accepts a prayer that does not overwrite her tradition |
+| Ylva | distinct roads for her dead and living | accepts a prayer that does not overwrite her tradition |
 | Ashira | consent despite uncertainty | says she, at least, will hear it |
 | Dismas | return rather than solitary escape | promises to come back |
 | Tavio | fairness of conduct on an unfair field | asks for a fair fight, not guaranteed victory |

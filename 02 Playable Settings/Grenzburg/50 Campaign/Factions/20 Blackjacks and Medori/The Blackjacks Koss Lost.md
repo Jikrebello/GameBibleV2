@@ -15,7 +15,7 @@ act: act-2
 availability_window: ["Early Winter", "Deep Winter"]
 repeatability: one-shot
 cutoff_result: transforms
-world_state_outputs: ["lost_blackjacks_state", "koss_abandonment_proof", "debtor_solidarity"]
+world_state_outputs: ["lost_blackjacks_state", "koss_abandonment_proof", "debtor_solidarity", "ylva_collective_loss_precedent"]
 required_locations: ["Grenzburg Underways", "Outer Winter Camps", "Quarry Steps"]
 blocking_status: outlined
 quest_owner: "Blackjacks and Medori"
@@ -23,6 +23,7 @@ quest_sequence: 6
 companion_id: ""
 faction_line: "blackjacks-medori"
 faction_branch: ""
+ensemble_inputs: ["Ylva Winter-Track"]
 ---
 # The Blackjacks Koss Lost
 
@@ -54,6 +55,12 @@ At least two routes establish every required fact. Social skill, cultural famili
 
 Publish the loss, trade evidence for immediate relief, or accept Koss' discipline account.
 
+## Ylva Intersection
+
+With [[Ylva Winter-Track]] present, Koss offers to clear the trapped unit's penalties if she accepts responsibility for the changed route and lost cargo. The offer repeats the isolation at the heart of [[The White-Sled Rescue]] without introducing anyone from her past.
+
+Ylva can refuse, but the player must still establish where the loss belongs. A witnessed company filing or public command finding produces `ylva_collective_loss_precedent`; silently transferring the debt to another individual does not.
+
 ## Fail-Forward Results
 
 If access closes, survivors open a second air shaft and signal. Failed rescues cause wounds and one named casualty, not total offscreen death.
@@ -71,6 +78,7 @@ The warning screen names affected quests, leaders, services, and political-settl
 - `lost_blackjacks_state`
 - `koss_abandonment_proof`
 - `debtor_solidarity`
+- `ylva_collective_loss_precedent`, when the loss is filed collectively or against Koss's command
 
 ## Rewards and Return Value
 

@@ -115,6 +115,8 @@ Medium-site names are canon. [[Seven Mounds]] is claimed by [[A House Fed by Bon
 | GR-2-L5 | Eel Bridge | road chokepoint and flood-state marker | no |
 | GR-2-L6 | Ice Bell Rock | winter route warning and lake landmark | no |
 | GR-2-L7 | Lake Road Cairn | navigation, memorial, encounter anchor, and Cairnside Shelter approach | yes |
+| GR-2-L8 | West Reed Shelter | public weather refuge and private-hearth episode site | no |
+| GR-2-L9 | West Reed Ferry | winter evacuation staging and lake crossing | no |
 
 ### Wolfsmere Woods
 
@@ -170,6 +172,7 @@ Medium-site names are canon. [[Seven Mounds]] is claimed by [[A House Fed by Bon
 | GR-6-L5 | Charcoal Bend | fuel depot and river ambush point | yes |
 | GR-6-L6 | Lost Rafter Camp | rescue and missing-worker jobs | yes |
 | GR-6-L7 | River Teeth | rapids, wreckage, and spring hazard | yes |
+| GR-6-L8 | Fourth Marker Cut | side-road warning point and diverted-cart route | no |
 
 ### Frostfenn March
 
@@ -182,6 +185,16 @@ Medium-site names are canon. [[Seven Mounds]] is claimed by [[A House Fed by Bon
 | GR-7-L5 | Bone-Reed Pool | residue warning and fen hazard | yes |
 | GR-7-L6 | Snowblind Rise | whiteout navigation landmark | yes |
 | GR-7-L7 | Black-Ice Ford | dangerous seasonal crossing | yes |
+
+## Ylva Embedded Rescue Routes
+
+- **Fourth Marker Cut:** [[The Fourth Marker]] uses the side-road signal, cart diversion, and captured watch point. Its staffed or neglected state persists through the autumn road network.
+- **Fellwater Camps, Black Fir Watch, and Tann Crossing:** [[A Signal Shared]] gives these existing sites one interoperable emergency layer without erasing their local warning practices.
+- **Three-Log Bridge and River Teeth:** [[The Rearguard Road]] controls their autumn rescue and material-loss states. Neither site becomes Ylva's private route.
+- **West Reed Shelter:** [[A Hearth Chosen]] uses a public weather refuge for one private romantic episode. The shelter remains publicly supplied before and after it.
+- **East Watch Cairn:** [[The Sister Watch]] uses the existing Highlake observation point for a platonic reciprocal-watch custom. The bond grants no Grey-Wolf or marcher office.
+- **Fenn Lantern, White Mud Causeway, and Last Hearth:** [[The Last Marker]] controls the dead-march rescue layer while preserving their main-campaign ownership.
+- **Snowblind Rise:** [[The White-Sled Rescue]] occurred here in 1359 AR. The landmark carries environmental memory and Ylva's field observations; no survivor or past claimant is placed in Grenzburg.
 
 ## Bernard Embedded Care Routes
 

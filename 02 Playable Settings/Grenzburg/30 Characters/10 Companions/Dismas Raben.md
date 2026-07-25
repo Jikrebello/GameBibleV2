@@ -8,7 +8,8 @@ region: ["Grenzburg"]
 culture: ["Eclessian", "Korrheim"]
 related_factions: ["Blackjack Corps", "Medori Bank"]
 appears_in: ["Grenzburg"]
-needs: []
+needs:
+  - reassess his vocation during CMP-06 now that Ylva owns the rescue-scout Hunter expression
 aliases: ["Dismas the Highwayman"]
 tags: [game-ready]
 companion_id: "CMP-06"
@@ -36,7 +37,9 @@ A dry road captain who reads weather, spoor, and frightened travelers better tha
 
 ## Combat and World Use
 
-A longbow Hunter focused on tracking, crafted arrows, monster reading, and route control. He adds scouting options but is never required for critical traversal.
+A longbow Hunter focused on ambush tracking, quarry reading, crafted arrows, monster behavior, and irregular approaches. He adds scouting options but is never required for critical traversal.
+
+This vocation remains provisional until CMP-06. [[Ylva Winter-Track]] now owns the rescue-scout, signal, and extraction expression of Hunter; Dismas must not duplicate it.
 
 Dismas Raben contributes alternate methods, observations, and late interventions. He is never a mandatory key for traversal, investigation, or the main ending.
 

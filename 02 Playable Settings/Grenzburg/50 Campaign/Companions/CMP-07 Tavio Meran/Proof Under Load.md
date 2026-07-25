@@ -45,7 +45,7 @@ preparation_threshold: "2 of 5"
 autonomous_deadline: "The Last Convoy"
 autonomous_resolution: "Tavio proves the substitution but pushes beyond the stop call, injuring one worker and losing the field antagonist"
 changed_reentry: "The Cracked Batch"
-ensemble_inputs: ["Svala Last-Beacon", "Ilyana Veshkar"]
+ensemble_inputs: ["Ylva Winter-Track", "Ilyana Veshkar"]
 identity_hooks: ["Sestaran", "Merchant/Craft", "Military", "Scholarly", "Peasant/Labour", "Warlock"]
 encounter_deck: []
 persistence_scope: regional-milestone

@@ -119,7 +119,7 @@ Local site states persist through winter, spring, and summer. Cleared named site
 
 ## Companion Intersections
 
-Every companion has at least one relevant operation, but none is mandatory. Dismas excels at Southwood and roads; Svala at Highlake restraint; Ilyana at timber and mill engineering; Bernard at rescue and witness; Tavio at machinery; Ashira at non-soul residue identification; Zafir at bounded terms.
+Every companion has at least one relevant operation, but none is mandatory. Dismas excels at Southwood ambush and quarry reading; Ylva at route signals, extraction, and relief staffing; Ilyana at timber and mill coordination; Bernard at rescue and witness; Tavio at machinery; Ashira at non-soul residue identification; Zafir at bounded terms.
 
 If [[Elara Velescar]] accompanies **The Quiet Antlers**, she distinguishes abandoned hunter movement from old clandestine survey cuts and records a stable route between Ashfield Track and the Seven Mounds approaches. Completing the field reading produces `elara_southwood_route_intelligence` for [[A House Fed by Bones]]. The operation remains fully solvable without her.
 

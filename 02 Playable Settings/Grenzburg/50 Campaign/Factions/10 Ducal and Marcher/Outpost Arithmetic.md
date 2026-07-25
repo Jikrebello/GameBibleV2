@@ -15,7 +15,7 @@ act: act-1
 availability_window: ["Open Autumn"]
 repeatability: one-shot
 cutoff_result: transforms
-world_state_outputs: ["tuskway_outpost_state", "highlake_carrier_terms", "vale_standing_marcher"]
+world_state_outputs: ["tuskway_outpost_state", "highlake_carrier_terms", "vale_standing_marcher", "ylva_upper_grenz_relief_roster"]
 required_locations: ["Tuskway Redoubt", "Highlake", "Ghost-Foot Stair"]
 blocking_status: outlined
 quest_owner: "Ducal and Marcher Service"
@@ -23,6 +23,7 @@ quest_sequence: 3
 companion_id: ""
 faction_line: "ducal-marcher"
 faction_branch: ""
+ensemble_inputs: ["Ylva Winter-Track"]
 ---
 # Outpost Arithmetic
 
@@ -54,6 +55,12 @@ At least two routes establish every required fact. Social skill, cultural famili
 
 Fund a smaller professional post, impose a larger levy, or make a renewable service compact with named limits.
 
+## Ylva Intersection
+
+With [[Ylva Winter-Track]] present, the false staffing table immediately recalls the four watches assigned to her at Southbound Muster. She can draft a rotating carrier and scout roster, but initially volunteers to cover every unfilled change herself.
+
+Naming a real relief team, giving workers stop authority, and filing shared liability produces `ylva_upper_grenz_relief_roster`. Praising Ylva for personally absorbing the gap preserves the outpost while pushing her toward `managed` or `self-spent`.
+
 ## Fail-Forward Results
 
 A missed supply run leaves the post undermanned but recoverable. Failed talks shift freight to a longer public road and increase cost.
@@ -71,6 +78,7 @@ The warning screen names affected quests, leaders, services, and political-settl
 - `tuskway_outpost_state`
 - `highlake_carrier_terms`
 - `vale_standing_marcher`
+- `ylva_upper_grenz_relief_roster`, when the roster includes named relief and stop authority
 
 ## Rewards and Return Value
 

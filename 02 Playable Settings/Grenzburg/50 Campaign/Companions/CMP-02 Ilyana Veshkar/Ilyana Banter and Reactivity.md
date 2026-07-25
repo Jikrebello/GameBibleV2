@@ -72,25 +72,25 @@ This register controls Ilyana's voice around Grenzburg, the factions, and the ot
 >
 > **Ilyana:** Ask me again when we have provisions.
 
-## Svala Last-Beacon
+## Ylva Winter-Track
 
 **Early - hall songs**
 
 > **Ilyana:** Who leads the winter song in your hall?
 >
-> **Svala:** Whoever begins it correctly.
+> **Ylva:** Whoever begins it correctly.
 >
 > **Ilyana:** And if two begin?
 >
-> **Svala:** Then one listens.
+> **Ylva:** Then one listens.
 
 **After Act I - refusal**
 
-> **Svala:** Nereo said no.
+> **Ylva:** Nereo said no.
 >
 > **Ilyana:** I heard him.
 >
-> **Svala:** Hearing is the easy half.
+> **Ylva:** Hearing is the easy half.
 >
 > **Ilyana:** I am discovering the other half has terrible rhythm.
 
@@ -98,19 +98,19 @@ This register controls Ilyana's voice around Grenzburg, the factions, and the ot
 
 > **Ilyana:** I can keep the marching line for another minute.
 >
-> **Svala:** You are bleeding.
+> **Ylva:** You are bleeding.
 >
-> **Ilyana:** A technical detail.
+> **Ilyana:** So is your left hand.
 >
-> **Svala:** Stop, or I break the flute before your lungs.
+> **Ylva:** Then we call the relief phrase together.
 
 **Late - roads**
 
-> **Svala:** A beacon does not order travellers to come.
+> **Ylva:** A beacon does not order travellers to come.
 >
 > **Ilyana:** It says there is warmth if they choose it.
 >
-> **Svala:** Good.
+> **Ylva:** Good.
 >
 > **Ilyana:** You could say that with more celebration.
 
@@ -418,4 +418,3 @@ The ten entries in [[Ilyana Companion Campaign#Embedded Opportunities|Ilyana Com
 - [[Ilyana Harmonic Support Package]]
 - [[Companion Reactive Scene Register]]
 - [[Companions MOC]]
-

@@ -46,12 +46,12 @@ His dialogue changes from declaring the measure, to asking who may stop it, to a
 3. Each recognizes how applause can disguise another person's refusal.
 4. Resolved versions run a voluntary fair whose safest event becomes the crowd favourite.
 
-### Svala Last-Beacon
+### Ylva Winter-Track
 
-1. Svala considers arena rules ornamental until Tavio shows how a yield keeps a champion alive.
-2. Tavio mistakes her restraint for fear; she asks whether he has ever stopped before being forced.
-3. They clash over rage, spectacle, and whether an opponent can hear a halt.
-4. Resolved, each trusts the other to call the line: Svala before rage, Tavio before overproof.
+1. Tavio treats the last difficult measure as proof of mastery; Ylva asks who has been named to relieve him.
+2. Ylva volunteers to hold a dangerous load alone; Tavio points out that this is overproof wearing humbler clothes.
+3. They exchange hard rules: his second may call halt, and her relief team may call change.
+4. Resolved, each trusts the other to end an unsafe proof and expects the other to obey without turning the halt into humiliation.
 
 ### Ashira bath Melan
 

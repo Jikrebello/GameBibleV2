@@ -1,7 +1,7 @@
 ---
 type: quest
-status: canon
-canon_level: local
+status: archived
+canon_level: obsolete
 visibility: author-only
 era: ["Present Day"]
 region: ["Grenzburg"]
@@ -26,6 +26,10 @@ quest_sequence: 4
 companion_id: "CMP-03"
 faction_line: ""
 faction_branch: ""
+archive_reason: "Superseded by The Last Marker and Ylva's independent-pathfinder outcomes"
+archived_from: "02 Playable Settings/Grenzburg/50 Campaign/Companions/CMP-03 Svala Last-Beacon/Last Beacon, First Road.md"
+archived_on: 2026-07-25
+superseded_by: "[[The Last Marker]]"
 ---
 # Last Beacon, First Road
 

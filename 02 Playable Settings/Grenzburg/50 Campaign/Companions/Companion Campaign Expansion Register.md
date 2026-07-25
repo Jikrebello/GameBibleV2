@@ -9,28 +9,28 @@ culture: []
 related_factions: ["Blackjack Corps"]
 appears_in: ["Grenzburg"]
 needs:
-  - name and block the 28 remaining reserved authored pieces during individual companion passes
-  - approve the other four companions' exact preparation thresholds and autonomous outcome tables during individual passes
+  - name and block the 21 remaining reserved authored pieces during individual companion passes
+  - approve Ashira, Dismas, and Zafir's exact preparation thresholds and autonomous outcome tables during individual passes
 tags: [game-ready]
 ---
 # Companion Campaign Expansion Register
 
-This register controls exactly eighty-eight authored companion pieces. Elara's, Ilyana's, Bernard's, and Tavio's eleven-piece authored campaigns are migrated and blocked. The other existing quest sources retain `architecture_status: pending-migration`; untitled slots do not receive empty notes.
+This register controls exactly eighty-eight authored companion pieces. Elara's, Ilyana's, Ylva's, Bernard's, and Tavio's eleven-piece authored campaigns are migrated and blocked. The other existing quest sources retain `architecture_status: pending-migration`; untitled slots do not receive empty notes.
 
-Current authored count: **60 linked / 28 reserved / 88 total**. Because romance and sworn bond are mutually exclusive and only one of each may be committed across the roster, no more than **74 pieces** are playable in one run: seventy-two non-exclusive pieces, one romance, and one bond.
+Current authored count: **67 linked / 21 reserved / 88 total**. Because romance and sworn bond are mutually exclusive and only one of each may be committed across the roster, no more than **74 pieces** are playable in one run: seventy-two non-exclusive pieces, one romance, and one bond.
 
 ## Count Authority
 
 | Role | Linked notes | Reserved pieces | Total |
 |---|---:|---:|---:|
 | Introductory cases | 8 | 0 | 8 |
-| Short act operations | 12 | 12 | 24 |
+| Short act operations | 15 | 9 | 24 |
 | Duo act finales | 24 | 0 | 24 |
-| Friendship episodes | 4 | 4 | 8 |
-| Romance episodes | 4 | 4 | 8 |
-| Sworn-bond episodes | 4 | 4 | 8 |
-| Summer codas | 4 | 4 | 8 |
-| **Authored pieces** | **60** | **28** | **88** |
+| Friendship episodes | 5 | 3 | 8 |
+| Romance episodes | 5 | 3 | 8 |
+| Sworn-bond episodes | 5 | 3 | 8 |
+| Summer codas | 5 | 3 | 8 |
+| **Authored pieces** | **67** | **21** | **88** |
 
 ## CMP-01: Elara Velescar
 
@@ -68,23 +68,23 @@ Embedded opportunities: 10 blocked through [[Elara Companion Campaign]] and [[El
 
 Embedded opportunities: 10 blocked through [[Ilyana Companion Campaign]] and [[Ilyana Banter and Reactivity]]. Act readiness is two of five; all three autonomous results and changed re-entry states are locked.
 
-## CMP-03: Svala Last-Beacon
+## CMP-03: Ylva Winter-Track
 
 | ID | Role | Content | Status |
 |---|---|---|---|
-| CMP-03-I | introduction | [[The Unpaid Champion]] | pending migration |
-| CMP-03-A1-O | Act I operation | untitled | reserved |
-| CMP-03-A1-F | Act I finale | [[Yield Heard Twice]] | pending migration |
-| CMP-03-A2-O | Act II operation | untitled | reserved |
-| CMP-03-A2-F | Act II finale | [[The Rimewing Trial]] | pending migration |
-| CMP-03-A3-O | Act III operation | untitled | reserved |
-| CMP-03-A3-F | Act III finale | [[Last Beacon, First Road]] | pending migration |
-| CMP-03-FR | friendship episode | untitled | reserved |
-| CMP-03-RM | romance episode | untitled | reserved |
-| CMP-03-BD | sworn-bond episode | untitled | reserved |
-| CMP-03-S | summer coda | untitled | reserved |
+| CMP-03-I | introduction | [[The Fourth Marker]] | blocked; migrated |
+| CMP-03-A1-O | Act I operation | [[A Signal Shared]] | blocked; migrated |
+| CMP-03-A1-F | Act I finale | [[The Rearguard Road]] | blocked; migrated |
+| CMP-03-FR | friendship episode | [[No Quarry Today]] | blocked; migrated |
+| CMP-03-A2-O | Act II operation | [[Signals Over Lantern Ward]] | blocked; migrated |
+| CMP-03-A2-F | Act II finale | [[What the Ice Takes]] | blocked; migrated |
+| CMP-03-RM | romance episode | [[A Hearth Chosen]] | blocked; migrated |
+| CMP-03-BD | sworn-bond episode | [[The Sister Watch]] | blocked; migrated |
+| CMP-03-A3-O | Act III operation | [[Routes for the Living]] | blocked; migrated |
+| CMP-03-A3-F | Act III finale | [[The Last Marker]] | blocked; migrated |
+| CMP-03-S | summer coda | [[The Road She Chooses]] | blocked; migrated |
 
-Embedded opportunities: 10 reserved. Autonomous Act I, II, and III actions are controlled below; exact results await the user-approved deep block.
+Embedded opportunities: 10 blocked through [[Ylva Companion Campaign]] and [[Ylva Banter and Reactivity]]. Act readiness is two of five; all three autonomous results, changed re-entry states, relationship variants, and progression rewards are locked.
 
 ## CMP-04: Ashira bath Melan
 
@@ -184,7 +184,7 @@ Each companion reserves ten embedded opportunities, satisfying the 8-12 target w
 |---|---:|---:|---:|---:|---:|---:|---:|
 | Elara | 3 | 3 | 1 | 1 | 1 | 1 | 10 |
 | Ilyana | 3 | 2 | 2 | 1 | 1 | 1 | 10 |
-| Svala | 3 | 2 | 2 | 1 | 1 | 1 | 10 |
+| Ylva | 3 | 2 | 2 | 1 | 1 | 1 | 10 |
 | Ashira | 3 | 2 | 2 | 1 | 1 | 1 | 10 |
 | Bernard | 3 | 3 | 0 | 2 | 1 | 1 | 10 |
 | Dismas | 3 | 2 | 2 | 1 | 1 | 1 | 10 |
@@ -201,7 +201,7 @@ These contributions happen through Blackjack assignments, camp scenes, reports, 
 |---|---|---|---|
 | Elara | Reads abandoned structures, spoil, and smuggler handling to improve one road investigation. | Guides a rescue or pursuit through damaged urban fabric after the breach. | Identifies which recovered records and grave goods establish living claims during reclamation. |
 | Ilyana | Coordinates one road or Tannbruck signal action while leaving local route authority intact. | Establishes fog, elemental cadence, casualty calls, and counter-signals during the western breach. | Samples and counters a Muster cadence while recognizing that residue cannot consent or refuse. |
-| Svala | Protects the southbound column and interprets one winter-road or yielded-combat dispute. | Holds a civilian refuge or retreat lane during the urban breach. | Keeps a southern extraction road open for wounded troops and returning households. |
+| Ylva | Restores the Fourth Marker, exposes an impossible watch roster, and establishes a shared south-road signal code. | Builds the Lantern Ward warning chain and opens a rescue lane during the western breach. | Duplicates the living-route atlas and keeps a southern extraction road open during the dead march. |
 | Ashira | Uses ordinary scholarship and restrained nonhuman imprints to reconstruct one hostile movement without raising Act I's supernatural ceiling. | Reads Grobi, Drake, or crowd movement while refusing recognizable human imprints as terror tools. | Distinguishes recent residue from older command patterns and exposes one false tactical assumption. |
 | Bernard | Secures casualty and property safeguards in [[Roads Worth Saving]], including the Longlake route. | Establishes a protected casualty lane during [[The City in Siege]]. | Maps reclaimed patient routes through [[The Land Reclaimed]]. |
 | Dismas | Scouts one threatened road and identifies an ambush or withdrawal route. | Finds a counter-scouting path through Ghor's siege lines. | Reconnoiters one Dead March front and marks a viable retreat before the assault. |
@@ -210,13 +210,13 @@ These contributions happen through Blackjack assignments, camp scenes, reports, 
 
 ## Autonomous Action Skeleton
 
-At each act gate, an unresolved companion undertakes the action below whether or not the player joins. [[Companion Autonomy and Act Convergence]] resolves the result deterministically from preparation, influence, world state, and available cross-support. Exact outcome tiers remain deliberately unselected until the individual question-led pass.
+At each act gate, an unresolved companion undertakes the action below whether or not the player joins. [[Companion Autonomy and Act Convergence]] resolves the result deterministically from preparation, influence, world state, and available cross-support. Migrated companions use their locked outcome tiers; Ashira, Dismas, and Zafir retain provisional actions until their individual question-led passes.
 
 | Companion | Act I autonomous action | Act II autonomous action | Act III autonomous action |
 |---|---|---|---|
 | Elara | Follows Vasko's copied field book to the Southwood dig. | Enters Vardek's winter cabinet operation by the strongest access she possesses. | Races surviving Velescar interests to the Ledger Quays cache and its claims. |
 | Ilyana | Goes to Eel Bridge to recover Nereo without a plan that requires his performance. | Stages a casualty refrain using whatever valid or invalid authority she still possesses. | Confronts the River Boom cadence engine and settles the Salt-Reed releases, credit, and property. |
-| Svala | Answers the unresolved yield claim attached to the champion she killed. | Returns to face the Rimewing judgement available in Grenzburg. | Takes responsibility for the last viable winter road and those using it. |
+| Ylva | Saves the isolated households but calls relief late, causing one avoidable injury and additional equipment loss. | Preserves the Longlake evacuation but accepts the abandoned cargo as another personal debt. | Other Blackjacks recover her after she attempts to hold the final route alone; she becomes a supervised pathfinder. |
 | Ashira | Confronts the continued practical use of the human faces she weaponized. | Answers the institutional and family cost attached to Qesheth's Bow Tower. | Decides the fate of her recognizable human-derived imprint roster. |
 | Bernard | Conducts the Chapel-Folk children's road journey; by default all survive with avoidable injuries and the bear dies in defence. | Saves the relief patients and genuinely kindles White Flame, but Petra accepts restitution without forgiveness and player unlocks close. | Serves the Blackjack infirmary under Brina's inventory authority; Open Lamp remains unrealized. |
 | Dismas | Returns to an easy ambush whose logic repeats his original wrong. | Faces the name and public charge attached to the rockfall. | Chooses whether to answer the road through accountable service or renewed flight. |

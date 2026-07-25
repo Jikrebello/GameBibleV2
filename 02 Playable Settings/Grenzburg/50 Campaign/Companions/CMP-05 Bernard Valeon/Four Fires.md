@@ -44,7 +44,7 @@ preparation_threshold: ""
 autonomous_deadline: "Ghor at the Gate"
 autonomous_resolution: "Three shelters remain open and the fourth consolidates late with avoidable exposure; the preparation asset is lost"
 changed_reentry: "Shelter damage and exposure remain visible; the original distribution cannot be replayed"
-ensemble_inputs: ["Ilyana Veshkar", "Svala Last-Beacon", "Zafir ibn Samad"]
+ensemble_inputs: ["Ilyana Veshkar", "Ylva Winter-Track", "Zafir ibn Samad"]
 identity_hooks: []
 encounter_deck: []
 persistence_scope: district-persistent

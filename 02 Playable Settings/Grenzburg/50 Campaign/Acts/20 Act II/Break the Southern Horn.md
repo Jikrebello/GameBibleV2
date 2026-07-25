@@ -113,7 +113,7 @@ Captured horn schedules, Skiv's charts, Watch Hill observations, and Folk upland
 
 ## Companion Intersections
 
-Svala and Dismas read winter movement; Ilyana and Tavio offer distinct destruction methods; Zafir can formalize a bounded withdrawal but cannot bind persons; Ashira can scout with nonhuman imprints; Bernard and Elara protect or infiltrate the dependent route. No companion is required.
+Ylva and Dismas read winter movement; Ilyana and Tavio offer distinct destruction methods; Zafir can formalize a bounded withdrawal but cannot bind persons; Ashira can scout with nonhuman imprints; Bernard and Elara protect or infiltrate the dependent route. No companion is required.
 
 ## Faction Advantages
 

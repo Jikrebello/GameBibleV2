@@ -45,7 +45,7 @@ preparation_threshold: ""
 autonomous_deadline: "The Deep Muster"
 autonomous_resolution: "Tavio files most unsafe equipment but allows one emergency batch to continue under external supervision"
 changed_reentry: ""
-ensemble_inputs: ["Ilyana Veshkar", "Bernard Valeon", "Svala Last-Beacon"]
+ensemble_inputs: ["Ilyana Veshkar", "Bernard Valeon", "Ylva Winter-Track"]
 identity_hooks: ["Military", "Merchant/Craft", "Peasant/Labour", "Warlock", "Lancewright"]
 encounter_deck: []
 persistence_scope: regional-milestone
@@ -103,7 +103,7 @@ Companions provide different advantages:
 
 - Ilyana organizes warning and withdrawal;
 - Bernard protects carers and exhausted workers;
-- Svala holds a physical line;
+- Ylva establishes a marked extraction line and relief change;
 - every starting vocation has a route through ordinary combat and shared traversal.
 
 ## Decision
@@ -144,4 +144,3 @@ The decision affects material readiness and `tavio_direction`, but no path autom
 - [[Fort Tannbruck]]
 - [[Proof-Mistress Hella Dorn]]
 - [[Lancewright]]
-

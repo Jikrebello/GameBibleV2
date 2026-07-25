@@ -101,7 +101,7 @@ These uses preserve each anchor's public and campaign functions. Ilyana's perfor
 | LW-1 | Longlake Ward | Fish Market | winter protein, Lakewatch trade, ordinary life |
 | LW-2 | Longlake Ward | Bent Oak Chapel | Chapel-Folk faith, interpretation, local mediation |
 | LW-3 | Longlake Ward | Lake Gate | western traffic, carts, patrols, refuge control |
-| LW-4 | Longlake Ward | Ferry Yard | lake-road carriers, sleds, boat crews, travel service |
+| LW-4 | Longlake Ward | Ferry Yard and Icehouse Steps | lake-road carriers, sleds, boat crews, travel service, and winter evacuation receiving point |
 | LW-5 | Longlake Ward | West Refuge Hall | shelter, clan delegates, displaced families, and the outcome-dependent [[Open Lamp Hospice]] |
 | LA-1 | Lantern Ward | Blackjack Yard | player base, equipment, debt service, party reorganization |
 | LA-2 | Lantern Ward | Lantern Market | cheap goods, rumor, illicit exchange, crowd scenes |

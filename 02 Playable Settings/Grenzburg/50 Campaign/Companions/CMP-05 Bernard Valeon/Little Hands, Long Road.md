@@ -44,7 +44,7 @@ preparation_threshold: "2 of 5"
 autonomous_deadline: "The Last Convoy"
 autonomous_resolution: "Bernard escorts the school without the player; all children survive with avoidable minor injuries, the bear dies in defence, and Bernard remains uncertain"
 changed_reentry: "The Road Afterward"
-ensemble_inputs: ["Dismas Raben", "Svala Last-Beacon"]
+ensemble_inputs: ["Dismas Raben", "Ylva Winter-Track"]
 identity_hooks: []
 encounter_deck: []
 persistence_scope: regional-milestone

@@ -108,7 +108,7 @@ Every conclusion has redundant sources: rolls and bodies, tablets and workshop t
 
 ## Companion Intersections
 
-Ilyana and Dismas receive the strongest command-accountability scenes. Bernard insists that former virtue does not erase chosen evil; Svala distinguishes loyalty from endless obedience; Ashira explains why copied voices are not persons. Elara, Tavio, and Zafir offer covert and technical approaches. No companion can talk Gerhold back after acceptance.
+Ilyana and Dismas receive the strongest command-accountability scenes. Bernard insists that former virtue does not erase chosen evil; Ylva distinguishes taking a necessary watch from refusing every legitimate relief; Ashira explains why copied voices are not persons. Elara, Tavio, and Zafir offer covert and technical approaches. No companion can talk Gerhold back after acceptance.
 
 ## Faction Advantages
 

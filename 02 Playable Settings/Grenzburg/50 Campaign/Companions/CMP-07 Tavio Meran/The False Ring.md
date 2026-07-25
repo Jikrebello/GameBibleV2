@@ -45,7 +45,7 @@ preparation_threshold: ""
 autonomous_deadline: "The Last Convoy"
 autonomous_resolution: "Hella secures the ring after Koss attempts to requisition it; Tavio admits only an equipment violation and begins Act I managed"
 changed_reentry: "The Cracked Batch"
-ensemble_inputs: ["Ilyana Veshkar", "Svala Last-Beacon", "Zafir ibn Samad"]
+ensemble_inputs: ["Ilyana Veshkar", "Ylva Winter-Track", "Zafir ibn Samad"]
 identity_hooks: ["Sestaran", "Vortharan", "Military", "Merchant/Craft", "Scholarly", "Warlock"]
 encounter_deck: []
 persistence_scope: regional-milestone

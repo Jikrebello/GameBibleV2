@@ -45,7 +45,7 @@ preparation_threshold: ""
 autonomous_deadline: "Ghor at the Gate"
 autonomous_resolution: "Lio reaches Grenzburg with damaged brace and partial evidence under independent escort"
 changed_reentry: "Bout After Snow"
-ensemble_inputs: ["Svala Last-Beacon", "Dismas Raben", "Elara Velescar"]
+ensemble_inputs: ["Ylva Winter-Track", "Dismas Raben", "Elara Velescar"]
 identity_hooks: ["Sestaran", "Military", "Merchant/Craft", "Wilderness", "Underworld"]
 encounter_deck: []
 persistence_scope: regional-milestone

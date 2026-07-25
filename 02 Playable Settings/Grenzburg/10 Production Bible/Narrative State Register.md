@@ -53,7 +53,7 @@ Every act finale sets `duo_finale_state` to staged before dismissing the other a
 |---|---|---|---|
 | CMP-01 | [[Elara Velescar]] | woman | [[Slayer]] - Delver-Duelist variant |
 | CMP-02 | [[Ilyana Veshkar]] | woman | [[Bard]] |
-| CMP-03 | [[Svala Last-Beacon]] | woman | [[Fighter]] |
+| CMP-03 | [[Ylva Winter-Track]] | woman | [[Hunter]] - Rescue Scout package |
 | CMP-04 | [[Ashira bath Melan]] | woman | [[Medium]] |
 | CMP-05 | [[Bernard Valeon]] | man | [[Paladin]] |
 | CMP-06 | [[Dismas Raben]] | man | [[Hunter]] |
@@ -441,19 +441,87 @@ Duplicate implementation keys across these authorities are prohibited unless one
 | `ilyana_summer_coda_complete` | companion | Ilyana Veshkar | 5 | [[The Road Takes the Song]] |
 | `salt_reed_summer_state` | companion | The Salt-Reed Company | 5 | [[The Road Takes the Song]] |
 | `first_road_song_state` | companion | Ilyana Veshkar | 5 | [[The Road Takes the Song]] |
-| `attar_delegation_trust` | companion | Svala Last-Beacon | 1 | [[The Unpaid Champion]] |
-| `champion_yield_known` | companion | Svala Last-Beacon | 1 | [[The Unpaid Champion]] |
-| `svala_weregild_state` | companion | Svala Last-Beacon | 1 | [[The Unpaid Champion]] |
-| `granary_civilian_state` | companion | Svala Last-Beacon | 2 | [[Yield Heard Twice]] |
-| `surrendered_deserter_state` | companion | Svala Last-Beacon | 2 | [[Yield Heard Twice]] |
-| `svala_recall_method` | companion | Svala Last-Beacon | 2 | [[Yield Heard Twice]] |
-| `rimewing_training_state` | companion | Svala Last-Beacon | 3 | [[The Rimewing Trial]] |
-| `svala_relationship_commitment` | companion | Svala Last-Beacon | 3 | [[The Rimewing Trial]] |
-| `svala_trial_verdict` | companion | Svala Last-Beacon | 3 | [[The Rimewing Trial]] |
-| `last_hearth_refuge_state` | companion | Svala Last-Beacon | 4 | [[Last Beacon, First Road]] |
-| `svala_arc_outcome` | companion | Svala Last-Beacon | 4 | [[Last Beacon, First Road]] |
-| `svala_summer_destination` | companion | Svala Last-Beacon | 4 | [[Last Beacon, First Road]] |
-| `winter_road_protection` | companion | Svala Last-Beacon | 4 | [[Last Beacon, First Road]] |
+| `ylva_recruited` | companion gate | Ylva Winter-Track | 1 | [[The Fourth Marker]] |
+| `ylva_campaign_tracked` | companion | Ylva Winter-Track | 1 | [[The Fourth Marker]] |
+| `ylva_direction` | companion direction | Ylva Winter-Track | 1-9 | [[Ylva Companion Campaign]] |
+| `ylva_approval` | companion approval | Ylva Winter-Track | 1-10 | [[Ylva Field Familiarity and Relationships]] |
+| `ylva_act1_readiness` | companion readiness | Ylva Winter-Track | 2-3 | [[Ylva Companion Campaign]] |
+| `ylva_act2_readiness` | companion readiness | Ylva Winter-Track | 5-6 | [[Ylva Companion Campaign]] |
+| `ylva_act3_readiness` | companion readiness | Ylva Winter-Track | 8-9 | [[Ylva Companion Campaign]] |
+| `ylva_black_fir_route_survey` | companion preparation | Ylva Winter-Track | 0-3 | [[Ylva Companion Campaign]] |
+| `ylva_three_log_bridge_repair` | companion preparation | Ylva Winter-Track | 0-3 | [[Ylva Companion Campaign]] |
+| `ylva_upper_grenz_relief_roster` | companion preparation | Ylva Winter-Track | 0-3 | [[Ylva Companion Campaign]] |
+| `ylva_western_breach_route_known` | companion preparation | Ylva Winter-Track | 0-6 | [[The City in Siege]] |
+| `ylva_longlake_ice_soundings` | companion preparation | Ylva Winter-Track | 0-6 | [[Ylva Companion Campaign]] |
+| `ylva_winter_field_arrow_stock` | companion preparation | Ylva Winter-Track | 0-6 | [[Ylva Rescue Hunter Package]] |
+| `ylva_receiving_shelters_staffed` | companion preparation | Ylva Winter-Track | 0-6 | [[Ylva Companion Campaign]] |
+| `ylva_collective_loss_precedent` | companion embedded | Ylva Winter-Track | 0-8 | [[The Blackjacks Koss Lost]] |
+| `ylva_tannbruck_scout_post_restored` | companion preparation | Ylva Winter-Track | 0-9 | [[Routes for the Living]] |
+| `ylva_fenn_lantern_fuel` | companion preparation | Ylva Winter-Track | 0-9 | [[Routes for the Living]] |
+| `ylva_last_hearth_relief_roster` | companion preparation | Ylva Winter-Track | 0-9 | [[Routes for the Living]] |
+| `ylva_white_mud_extraction_line` | companion preparation | Ylva Winter-Track | 0-9 | [[Routes for the Living]] |
+| `ylva_fourth_marker_restored` | companion preparation | Ylva Winter-Track | 1-3 | [[The Fourth Marker]] |
+| `ylva_injury_disclosed` | companion | Ylva Winter-Track | 1 | [[The Fourth Marker]] |
+| `southbound_watch_roster_state` | regional | Upper Grenz | 1 | [[The Fourth Marker]] |
+| `diverted_carters_state` | regional | Upper Grenz | 1 | [[The Fourth Marker]] |
+| `ylva_shared_signal_code` | companion preparation | Ylva Winter-Track | 2-3 | [[A Signal Shared]] |
+| `fellwater_signal_state` | regional | Upper Grenz | 2 | [[A Signal Shared]] |
+| `black_fir_watch_state` | regional | Upper Grenz | 2 | [[A Signal Shared]] |
+| `tann_crossing_relay_state` | regional | Upper Grenz | 2 | [[A Signal Shared]] |
+| `road_spoofers_state` | regional | Upper Grenz | 2 | [[A Signal Shared]] |
+| `all_weather_flare_arrow_unlocked` | progression | Hunter | 2 | [[A Signal Shared]] |
+| `reinforced_blunt_head_unlocked` | progression | Hunter | 2 | [[A Signal Shared]] |
+| `ylva_act1_finale_played` | companion chapter | Ylva Winter-Track | 3 | [[The Rearguard Road]] |
+| `three_log_households_state` | regional | Upper Grenz | 3 | [[The Rearguard Road]] |
+| `river_teeth_workers_state` | regional | Upper Grenz | 3 | [[The Rearguard Road]] |
+| `rearguard_cargo_state` | regional | Upper Grenz | 3 | [[The Rearguard Road]] |
+| `ylva_distress_call_state` | companion | Ylva Winter-Track | 3 | [[The Rearguard Road]] |
+| `line_arrow_unlocked` | progression | Hunter | 3 | [[The Rearguard Road]] |
+| `ylva_friendship_episode` | friendship | Ylva Winter-Track | 4 | [[No Quarry Today]] |
+| `ylva_first_snow_course_state` | companion | Ylva Winter-Track | 4 | [[No Quarry Today]] |
+| `ylva_shared_meal_state` | friendship | Ylva Winter-Track | 4 | [[No Quarry Today]] |
+| `ylva_lantern_ward_signal_chain` | companion preparation | Ylva Winter-Track | 5-6 | [[Signals Over Lantern Ward]] |
+| `lantern_rooftop_stations_state` | city | Lantern Ward | 5 | [[Signals Over Lantern Ward]] |
+| `debtors_row_warning_state` | city | Lantern Ward | 5 | [[Signals Over Lantern Ward]] |
+| `west_alley_receivers_state` | city | Lantern Ward | 5 | [[Signals Over Lantern Ward]] |
+| `smoke_arrow_unlocked` | progression | Hunter | 5 | [[Signals Over Lantern Ward]] |
+| `ylva_act2_finale_played` | companion chapter | Ylva Winter-Track | 6 | [[What the Ice Takes]] |
+| `longlake_evacuees_state` | regional | Longlake Country | 6 | [[What the Ice Takes]] |
+| `ice_food_state` | regional | Longlake Country | 6 | [[What the Ice Takes]] |
+| `shared_liability_filing` | companion | Ylva Winter-Track | 6 | [[What the Ice Takes]] |
+| `ylva_relationship_commitment_available` | relationship | Ylva Winter-Track | 6 | [[What the Ice Takes]] |
+| `ylva_relationship_commitment` | relationship | Ylva Winter-Track | 6 | [[Ylva Field Familiarity and Relationships]] |
+| `ylva_relationship_paths_closed` | relationship | Ylva Winter-Track | 6 | [[Ylva Companion Campaign]] |
+| `ylva_rescue_scout_doctrine` | progression | Ylva Winter-Track | 6 | [[What the Ice Takes]] |
+| `ylva_relay_after_frost_state` | companion re-entry | Ylva Winter-Track | 5 | [[Ylva Companion Campaign]] |
+| `ylva_ice_after_thaw_state` | companion re-entry | Ylva Winter-Track | 8 | [[Ylva Companion Campaign]] |
+| `ylva_romance_episode` | relationship | Ylva Winter-Track | 7 | [[A Hearth Chosen]] |
+| `ylva_romance_move_unlocked` | relationship | Ylva Winter-Track | 7 | [[A Hearth Chosen]] |
+| `ylva_homeward_route_practiced` | companion bonus | Ylva Winter-Track | 7-9 | [[A Hearth Chosen]] |
+| `chosen_hearth_state` | relationship | Ylva Winter-Track | 7 | [[A Hearth Chosen]] |
+| `ylva_bond_episode` | relationship | Ylva Winter-Track | 7 | [[The Sister Watch]] |
+| `ylva_bond_move_unlocked` | relationship | Ylva Winter-Track | 7 | [[The Sister Watch]] |
+| `ylva_sister_watch_practiced` | companion bonus | Ylva Winter-Track | 7-9 | [[The Sister Watch]] |
+| `east_watch_cairn_state` | relationship | Ylva Winter-Track | 7 | [[The Sister Watch]] |
+| `ylva_living_route_atlas` | companion preparation | Ylva Winter-Track | 8-9 | [[Routes for the Living]] |
+| `upper_grenz_route_team_state` | regional | Upper Grenz | 8 | [[Routes for the Living]] |
+| `tuskway_route_team_state` | regional | Highlake Uplands | 8 | [[Routes for the Living]] |
+| `frostfenn_route_team_state` | regional | Frostfenn March | 8 | [[Routes for the Living]] |
+| `duplicated_stores_state` | regional | Grenzburg | 8 | [[Routes for the Living]] |
+| `controlled_blast_arrow_unlocked` | progression | Hunter | 8 | [[Routes for the Living]] |
+| `ylva_act3_finale_played` | companion chapter | Ylva Winter-Track | 9 | [[The Last Marker]] |
+| `ylva_final_outcome` | companion | Ylva Winter-Track | 9 | [[The Last Marker]] |
+| `ylva_fate` | companion | Ylva Winter-Track | 9 | [[The Last Marker]] |
+| `fenn_lantern_state` | regional | Frostfenn March | 9 | [[The Last Marker]] |
+| `white_mud_causeway_state` | regional | Frostfenn March | 9 | [[The Last Marker]] |
+| `last_hearth_evacuated` | regional | Frostfenn March | 9 | [[The Last Marker]] |
+| `last_marker_relief_state` | companion | Ylva Winter-Track | 9 | [[The Last Marker]] |
+| `ylva_relationship_perk` | relationship | Ylva Winter-Track | 9 | [[The Last Marker]] |
+| `winter_track_fieldcraft_unlocked` | progression | Hunter | 9 | [[The Last Marker]] |
+| `ylva_summer_coda` | companion | Ylva Winter-Track | 10 | [[The Road She Chooses]] |
+| `ylva_destination` | companion | Ylva Winter-Track | 10 | [[The Road She Chooses]] |
+| `ylva_postwar_route_state` | regional | Grenzburg | 10 | [[The Road She Chooses]] |
+| `ylva_memorial_state` | companion | Ylva Winter-Track | 10 | [[The Road She Chooses]] |
 | `tavio_recruited` | companion gate | Tavio Meran | 0 | [[Tavio Meran]] |
 | `tavio_first_outing_complete` | companion gate | Tavio Meran | 0 | [[Tavio Companion Campaign]] |
 | `tavio_direction` | companion direction | Tavio Meran | 0 | [[Tavio Companion Campaign]] |

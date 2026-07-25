@@ -23,7 +23,7 @@ These are authored narrative states, not one universal score. A quest may test s
 | MQ-01 | `black_road_survivors`, `black_road_cargo`, `toll_band_state`, `grobi_scout_warning` | MQ-02, MQ-03, MQ-09 |
 | MQ-02 | `ducal_warrant`, `city_access`, `funnel_camp_state`, `blackjack_party_formed` | all later chapters and city content |
 | MQ-03 | `three_mills_road`, `broken_tollworks_state`, `road_prisoners_state` | MQ-06, MQ-07, summer |
-| MQ-04 | `southbound_convoy`, `svala_recruited`, `folk_road_claim`, `tannbruck_access` | MQ-05 through MQ-08; Folk line |
+| MQ-04 | `southbound_convoy`, `ylva_recruited`, `ylva_campaign_tracked`, `ylva_fourth_marker_restored`, `folk_road_claim`, `tannbruck_access` | MQ-05 through MQ-08; Folk line; Ylva campaign |
 | MQ-05 | `watch_hill_signals`, `tann_bridge_winch`, `smuggler_route_state`, `ghor_route_intelligence` | MQ-07, MQ-08, MQ-15 |
 | MQ-06 | `autumn_operations_completed`, `autumn_road_support`, `southwood_early_warning` | MQ-07 through MQ-12 |
 | MQ-07 | `last_convoy_people`, `last_convoy_material`, `last_convoy_route` | MQ-08 through MQ-10 |

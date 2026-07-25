@@ -25,7 +25,7 @@ The act teaches the region by repeatedly sending the player out from Grenzburg t
 | Chapter | Main task | Lasting output |
 |---|---|---|
 | [[The Closing Roads]] | reopen Three Mills and clear Broken Tollworks | safe road, rescued travelers, bandit state |
-| [[The Southbound Muster]] | escort the reinforcement convoy and recruit Svala | Folk road claim, first organized Grobi probe, Tannbruck access |
+| [[The Southbound Muster]] | escort the reinforcement convoy and recruit Ylva | Folk road claim, first organized Grobi probe, Tannbruck access |
 | [[Fort Tannbruck Main Quest|Fort Tannbruck]] | restore Watch Hill and bridge control | warning network, denial options, Ghor route evidence |
 | [[Roads Worth Saving]] | complete any three of six regional operations | chosen settlements and routes support the withdrawal |
 | [[The Last Convoy]] | allocate scarce road capacity | people, sustenance, defense material, and route state |

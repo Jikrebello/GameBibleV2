@@ -15,7 +15,7 @@ companion_id: "CMP-07"
 sex: man
 vocation: "Lancewright"
 recruitment_window: "Early Autumn"
-foil: "Svala Last-Beacon"
+foil: "Ylva Winter-Track"
 relationship_theme: "trusted seconds who respect the halt"
 ---
 # Tavio Meran
@@ -175,7 +175,7 @@ No outcome becomes future-setting canon. Tavio cannot die autonomously. A late s
 
 ## Principal Foil
 
-[[Svala Last-Beacon]] is Tavio's principal foil. Her rage makes restraint difficult; his love of proof makes stopping difficult. Each understands that a declared yield must mean something, but they arrive there from opposite wounds.
+[[Ylva Winter-Track]] is Tavio's principal foil. He exceeds limits to prove mastery and win acclaim; she exceeds them to make herself expendable. Each must learn that another person's authority to call a halt or relieve a watch is part of the work rather than an insult to competence.
 
 ## Navigation
 

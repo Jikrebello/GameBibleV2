@@ -117,7 +117,7 @@ Signals, route intelligence, scout reports, and visible enemy movement make each
 
 ## Companion Intersections
 
-All recruited companions receive a fort-fall reaction whether active or not. Active companions offer field solutions suited to vocation and current arc state. No companion can negate the fall. Ilyana and Dismas receive their principal command-and-retreat reversal; Svala receives a surrender-pressure test; Bernard organizes witnessed dead and wounded.
+All recruited companions receive a fort-fall reaction whether active or not. Active companions offer field solutions suited to vocation and current arc state. No companion can negate the fall. Ilyana and Dismas receive their principal command-and-retreat reversal; Ylva must publish a distress call and accept a replacement on one rearguard route; Bernard organizes witnessed dead and wounded.
 
 ## Faction Advantages
 

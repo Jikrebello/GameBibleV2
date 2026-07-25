@@ -30,7 +30,7 @@ story_gate: operation
 estimated_hours: 1.25
 gameplay_pillars: [investigation, dungeon, combat, defense]
 required_states: ["tannbruck_access"]
-optional_state_inputs: ["southbound_convoy", "grobi_scout_warning", "folk_road_claim", "svala_recruited"]
+optional_state_inputs: ["southbound_convoy", "grobi_scout_warning", "folk_road_claim", "ylva_recruited", "ylva_fourth_marker_restored"]
 ---
 # Fort Tannbruck
 
@@ -102,7 +102,7 @@ Grease, duty rolls, and Service Row witnesses point to Bale. Trade scratches, di
 
 - Ilyana challenges Gerhold's willingness to seal a civilian quarter for speed.
 - Dismas understands Bale's desertion without excusing sale of the bridge.
-- Svala can force a yielded deserter scene that tests whether she follows her recall discipline.
+- Ylva can expose an impossible watch rotation, improve the signal repair, and identify which route still lacks a named relief team.
 - Tavio can diagnose the winch without making his presence mandatory.
 
 ## Faction Advantages

@@ -190,7 +190,7 @@ Missing Act III fixes Bernard's autonomous destination. [[The First Open Table]]
 ## Cross-Support
 
 - Dismas can recover the wagon trail or mark the wounded bear's retreat.
-- Svala can preserve a shelter line or organize child and patient carriers.
+- Ylva can mark a shelter route, organize child and patient carriers, and name the team that relieves Bernard.
 - Ilyana can protect a winter relief route or stabilize the hospice perimeter.
 - Zafir can authenticate custody and bound sponsor terms without owning patients or stores.
 

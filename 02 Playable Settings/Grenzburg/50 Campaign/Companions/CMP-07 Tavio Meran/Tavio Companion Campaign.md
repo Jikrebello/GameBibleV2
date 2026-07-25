@@ -134,7 +134,7 @@ Tracked campaigns show readiness, intended action, lost rewards, and relationshi
 - **Managed default:** Tavio recalls most fittings but pushes one proof beyond the named halt, causing an avoidable worker injury.
 - **Overproof:** the test fails publicly, destroys records, and leaves unsafe gear in circulation.
 
-Svala may carry an injured worker. Ilyana may coordinate evacuation. Neither can make Tavio stop the test.
+Ylva may establish an extraction lane and insist upon a named relief team. Ilyana may coordinate evacuation. Neither can make Tavio stop the test.
 
 ### Act II
 
@@ -232,4 +232,3 @@ Tavio fixes another contest, silences Lio or a worker, deploys unsafe hardware, 
 - [[Companion Campaign Expansion Register]]
 - [[Narrative State Register]]
 - [[Companions MOC]]
-

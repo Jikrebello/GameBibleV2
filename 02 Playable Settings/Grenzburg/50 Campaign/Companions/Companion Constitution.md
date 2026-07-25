@@ -22,18 +22,18 @@ This note controls Grenzburg's companion roster, field availability, approval, p
 |---|---|---|---|---|
 | [[Elara Velescar]] | [[Slayer]], [[Elara Delver-Duelist Package|Delver-Duelist variant]] | Early Autumn | Elara converted the dead and the poor into resources for a house whose dignity mattered more to her than their consent. Vardek betrayed her, but he did not choose her first trespass. | She exposes Vardek, relinquishes the Velescar title, transfers viable land to its households, and establishes a burial-repair fund from recoverable family assets. She remains an adventurer without pretending that motion itself is restitution. |
 | [[Ilyana Veshkar]] | [[Bard]] | Black Road | She forged her troupe's approval, used control of bookings, instruments, and funds to make refusal ineffective, and treated one successful lawful prize as proof that they would eventually thank her. Morante's later abuse does not erase Ilyana's first coercion. | She returns individual property and authorship, releases every service and repertoire claim, accepts that restitution does not purchase reunion, and becomes an open-road Bard. |
-| [[Svala Last-Beacon]] | [[Fighter]] | Open Autumn | The champion's exclusion and pride were wrong; his yield still bound her. She killed him after the contest had morally and socially ended. | She accepts chosen exile, pays continuing weregild through service, and becomes a free protector of Grenzburg's winter roads without claiming restoration to her hall. |
+| [[Ylva Winter-Track]] | [[Hunter]] | Open Autumn, at Southbound Muster | She saved the White-Sled convoy by spending freight, then denied its crew the right to contest or share the consequences when she signed the entire Medori surety herself. She continues to hide limits and treat her own life as expendable equipment. | She accepts relief, distributes route knowledge and liability, leaves the final marker with the living, and becomes an independent pathfinder using openly shared contracts. |
 | [[Ashira bath Melan]] | [[Medium]] | Early Autumn | The raiders chose murder; their families did not. Simulating familiar faces to terrorize them was chosen collective punishment even though no human soul was captured. | She destroys the human-derived roster, documents the harm without metaphysical falsehood, and remains in Grenzburg as a scholar of nonhuman field patterns. |
 | [[Bernard Valeon]] | [[Paladin]] | Black Road | Childhood deprivation explains his compulsion, but he chose to cache relief stores, deny the shortage, and leave evacuees to suffer preventable frostbite. A vow of poverty cannot make secret possession harmless. | He names the urge before concealment, keeps reserves through witnessed stewardship, and chooses among accountable Long Watch service, the Open Lamp Hospice, travelling hospitaller work, or continued Blackjack service. |
 | [[Dismas Raben]] | [[Hunter]] | Black Road | The robbery was chosen, the premature rockfall was reckless, and abandoning trapped civilians was cowardice. Trauma is consequence, not supernatural punishment or exoneration. | He confesses publicly and accepts permanent marcher scout service under civil oversight. Victims owe no forgiveness; his future is useful and constrained rather than cleansed. |
 | [[Tavio Meran]] | [[Lancewright]] | Early Autumn | Maro offered the Fifth Ring; Tavio knew it exceeded the filed load, used it, maimed Lio during a lawful exchange, and accepted glory afterward. The Red Brass cover-up explains his opportunity, not his hand. | He exposes the Red Brass Bench, accepts a permanent arena ban, honours Lio's independent result, sounds the leak horn in time, and becomes an independent road examiner. |
 | [[Zafir ibn Samad]] | [[Binder]] | Early Autumn | His contracts placed persons under command. Limits and petitions reduced some harms but did not make ownership just. Samira's inversion is culpable coercion of him without retroactively making his system humane. | He cuts every living-person instrument he can reach, teaches ethical Binder practice, and returns to Iqashar to face clients and help void surviving restraints. |
 
-The roster contains exactly four women and four men. It covers four starting vocations and four companion-earned advanced vocations: [[Fighter]], [[Slayer]], [[Hunter]], [[Medium]], [[Paladin]], [[Binder]], [[Bard]], and [[Lancewright]]. [[Warlock]] remains a starting player vocation without a dedicated companion representative. All companions are outsiders, carry distinct debtor histories, and are recruitable by the end of Open Autumn.
+The roster contains exactly four women and four men. It currently represents three starting vocations and four companion-earned advanced vocations: [[Slayer]], [[Hunter]], [[Medium]], [[Paladin]], [[Binder]], [[Bard]], and [[Lancewright]]. Both Ylva and Dismas use Hunter for now, with distinct rescue-scout and ambush-tracker identities. Dismas's vocation is reserved for reassessment during CMP-06. [[Fighter]] and [[Warlock]] remain starting player vocations without dedicated companion representatives. All companions are outsiders, carry distinct debtor histories, and are recruitable by the end of Open Autumn.
 
 ## Recruitment Rhythm
 
-The Black Road introduces [[Bernard Valeon]], [[Dismas Raben]], and [[Ilyana Veshkar]]. Early Autumn opens [[Elara Velescar]], [[Tavio Meran]], [[Ashira bath Melan]], and [[Zafir ibn Samad]]. [[Svala Last-Beacon]] becomes the final recruitment at the Southbound Muster.
+The Black Road introduces [[Bernard Valeon]], [[Dismas Raben]], and [[Ilyana Veshkar]]. Early Autumn opens [[Elara Velescar]], [[Tavio Meran]], [[Ashira bath Melan]], and [[Zafir ibn Samad]]. [[Ylva Winter-Track]] becomes the final recruitment at the Southbound Muster.
 
 Companions may be added or dismissed at the Blackjack Yard, settlement hubs, established camps, and stabilized travel nodes that offer party organization. Dismissal carries no approval penalty. A dismissed companion returns to their assigned home base or current seasonal destination.
 
@@ -101,7 +101,7 @@ Relationship perks occupy no ordinary vocation augment slot. A learned perk rema
 |---|---|---|
 | [[Elara Velescar]] | Equal Footing | Witness at My Back |
 | [[Ilyana Veshkar]] | One Listener | Equal Voices |
-| [[Svala Last-Beacon]] | Shared Hearth | Beacon Stand |
+| [[Ylva Winter-Track]] | Hearthward | Second Watch |
 | [[Ashira bath Melan]] | Unmasked Pattern | Clear Pattern |
 | [[Bernard Valeon]] | Kept in the Light | Last Watch |
 | [[Dismas Raben]] | No Escape Route | No Blind Turn |
@@ -115,7 +115,7 @@ The two rewards for a companion are distinct and mutually exclusive because rela
 - [[Elara Velescar]] and [[Ashira bath Melan]]: discovery, remains, and the intelligent excuses used to call harmful knowledge necessary.
 - [[Bernard Valeon]] and [[Zafir ibn Samad]]: voluntary vows and personal mercy against contractual protection, control, and ownership.
 - [[Ilyana Veshkar]] and [[Dismas Raben]]: control disguised as responsibility against flight disguised as freedom.
-- [[Svala Last-Beacon]] and [[Tavio Meran]]: hearing yield against the hunger to make victory decisive.
+- [[Ylva Winter-Track]] and [[Tavio Meran]]: exceeding limits to make oneself expendable against exceeding them for mastery and glory.
 
 Foils produce changed conversations, joint field solutions, and honest disagreement. They do not exist to insult each other at camp.
 
@@ -147,7 +147,7 @@ Act III and [[Accounts of the Living]] settle each companion's destination. [[Po
 - Zafir's Binder path excludes human souls and coerced persons without exception.
 - Bernard's White-Flame abilities require genuine moral coherence and restitution; kindling never certifies legal innocence or clerical office.
 - Ilyana's Bard magic obeys [[Harmonic Shellcraft]], recoverable-health, hearing, consent, breath, and instrument limits. Tavio's [[Lancewright]] obeys Elemental Shell script limits, Arcane Burn, physical Proof Marks, filed loads, and bounded releases.
-- Svala's rage is trained human physiology and attention, not possession or a hidden monster.
+- Ylva remains a standard Hunter. Her field arrows are practical material tools, her rescue routes never become vocation gates, and neither romance nor bond controls recipe access.
 - Dismas's haunting is memory and trauma, not a supernatural entity.
 
 ## Navigation

@@ -16,7 +16,7 @@ act: act-1
 availability_window: ["Early Autumn"]
 repeatability: one-shot
 cutoff_result: persists
-world_state_outputs: ["southbound_convoy", "svala_recruited", "folk_road_claim", "tannbruck_access"]
+world_state_outputs: ["southbound_convoy", "ylva_recruited", "ylva_campaign_tracked", "ylva_fourth_marker_restored", "folk_road_claim", "tannbruck_access"]
 required_locations: ["Tann Field", "Timberfalls", "Black Fir Watch", "Fort Tannbruck"]
 blocking_status: blocked
 quest_owner: "Grenzburg Main Campaign"
@@ -30,13 +30,13 @@ story_gate: operation
 estimated_hours: 1.25
 gameplay_pillars: [traversal, social, defense, combat]
 required_states: ["three_mills_road"]
-optional_state_inputs: ["broken_tollworks_state", "road_prisoners_state", "ducal_rank_admitted", "compact_initial_trust"]
+optional_state_inputs: ["broken_tollworks_state", "road_prisoners_state", "ducal_rank_admitted", "compact_initial_trust", "ylva_fourth_marker_restored"]
 ---
 # The Southbound Muster
 
 ## Chapter Function
 
-This chapter carries the player from the safer north into the military frontier, recruits [[Svala Last-Beacon]], and makes the Folk conflict concrete without treating every local claim as righteous or every marcher road as illegitimate. It ends by establishing [[Fort Tannbruck]] as a temporary home base.
+This chapter carries the player from the safer north into the military frontier, recruits [[Ylva Winter-Track]], and makes the Folk conflict concrete without treating every local claim as righteous or every marcher road as illegitimate. It ends by establishing [[Fort Tannbruck]] as a temporary home base.
 
 ## Trigger and Commitment
 
@@ -46,13 +46,19 @@ Liese assembles a reinforcement convoy at Tann Field after MQ-03. The convoy inc
 
 Fort Tannbruck's autumn garrison is under strength. Its bridge winch and Watch Hill signal need parts before snow. The convoy must pass [[Timberfalls]] and Black Fir Watch before dark or camp in a road section repeatedly struck by raiders.
 
-Koss assigns Svala to the player's unit because her strength and winter-road knowledge are useful and because keeping the disgraced Ättar fighter visible makes her easier to control. She is warm with ordinary people, direct about danger, and unwilling to discuss the yielded champion she killed.
+Koss assigns Ylva to the route detail because her severe-weather fieldcraft is useful and her White-Sled surety lets him treat unclaimed watches as part of her debt service. She is a Grey-Wolf Hunter and rescue pathfinder, not a heavy front-line fighter. Her warmth appears through repaired harness, hot food, and noticing who is already exhausted.
+
+The route board assigns her to four simultaneous watches after Koss removes a paid scout from the roster. The omitted position stops answering, and two supply carts follow its false all-clear. This opens [[The Fourth Marker]] as Ylva's normal-party introductory case.
+
+The player may join the case before departure or leave Ylva to resolve it autonomously while the main convoy completes its preparation. Either route introduces and recruits her, but only personal participation can secure every victim, supply, truth, and preparation reward.
 
 ## Beginning: Timberfalls
 
 At Timberfalls, loose timber has jammed a river bend and delayed the army's bridge components. The player helps free a pinned rafter, defend workers from bandits who use the jam as cover, and choose whether the convoy carries bridge timber or additional fuel when not all loads can leave before dusk.
 
 This is a concise service problem rather than a hidden plot. The bandits are local opportunists, not agents of Ghor or Jorund.
+
+If [[The Fourth Marker]] was completed personally, its restored warning point identifies the bandits' approach and a staffed relief crew receives the pinned worker. If Ylva handled it alone, she arrives with the same route intelligence but an undisclosed injury and reduced supplies.
 
 ## Middle: The Moved Stone
 
@@ -90,7 +96,9 @@ Survey stakes, the stone's root scar, and a road worker establish that the bound
 ## Choices and State Changes
 
 - `southbound_convoy` records soldiers, bridge timber, fuel, medicine, and carriers delivered.
-- `svala_recruited` becomes true and opens her camp scenes and first quest.
+- `ylva_recruited` becomes true and opens Ylva as a full companion.
+- `ylva_campaign_tracked` records whether the player joined her introductory case.
+- `ylva_fourth_marker_restored` records whether the missing watch received a real relief roster rather than another promise that Ylva would cover it.
 - `folk_road_claim` becomes bounded-passage, occupied-road, abandoned-road, or blood-feud.
 - `tannbruck_access` opens the fort and Upper Grenz public route.
 
@@ -103,7 +111,7 @@ Survey stakes, the stone's root scar, and a road worker establish that the bound
 
 ## Companion Intersections
 
-- Svala demonstrates protection, camp warmth, and dangerous rage when a yielded raider is struck by another fighter.
+- Ylva reads danger and extraction before damage, covers separated carriers, and reveals her habit of hiding injury rather than asking another scout to take the watch.
 - Ilyana can organize the timber release and moving defense.
 - Dismas detects the Grobi observation team.
 - Bernard can witness the boundary settlement without declaring the Church owner of the graves.
@@ -114,12 +122,14 @@ Ducal service supplies engineers; Folk trust supplies a neutral household witnes
 
 ## Cutoff and Unlocks
 
-Arrival opens Fort Tannbruck, Timberfalls travel, Upper Grenz jobs, Svala as a full companion, and [[Fort Tannbruck Main Quest|Fort Tannbruck]]. It does not advance the season.
+Arrival opens Fort Tannbruck, Timberfalls travel, Upper Grenz jobs, Ylva as a full companion, [[A Signal Shared]], and [[Fort Tannbruck Main Quest|Fort Tannbruck]]. It does not advance the season.
 
 ## Navigation
 
 - [[ACT I THE CLOSING ROADS]]
 - [[Fort Tannbruck Main Quest|Fort Tannbruck]]
-- [[Svala Last-Beacon]]
+- [[Ylva Winter-Track]]
+- [[The Fourth Marker]]
+- [[Ylva Companion Campaign]]
 - [[Main Campaign MOC]]
 - [[Main Campaign State Matrix]]

@@ -22,11 +22,11 @@ This is the production doorway for eight outsider-debtor companions, eighty-eigh
 |---|---|---|---|---|---|---|
 | CMP-01 | [[Elara Velescar]] | woman | [[Slayer]] - Delver-Duelist variant | Early Autumn | [[Ashira bath Melan]] | adventure between equals |
 | CMP-02 | [[Ilyana Veshkar]] | woman | [[Bard]] | Black Road | [[Dismas Raben]] | a voice freely answered |
-| CMP-03 | [[Svala Last-Beacon]] | woman | [[Fighter]] | Open Autumn | [[Tavio Meran]] | shared hearth |
+| CMP-03 | [[Ylva Winter-Track]] | woman | [[Hunter]] | Open Autumn, at Southbound Muster | [[Tavio Meran]] | the right to be relieved |
 | CMP-04 | [[Ashira bath Melan]] | woman | [[Medium]] | Early Autumn | [[Elara Velescar]] | intellectual equals |
 | CMP-05 | [[Bernard Valeon]] | man | [[Paladin]] | Black Road | [[Zafir ibn Samad]] | receiving without taking |
 | CMP-06 | [[Dismas Raben]] | man | [[Hunter]] | Black Road | [[Ilyana Veshkar]] | no escape route |
-| CMP-07 | [[Tavio Meran]] | man | [[Lancewright]] | Early Autumn | [[Svala Last-Beacon]] | trusted seconds who respect the halt |
+| CMP-07 | [[Tavio Meran]] | man | [[Lancewright]] | Early Autumn | [[Ylva Winter-Track]] | trusted seconds who respect the halt |
 | CMP-08 | [[Zafir ibn Samad]] | man | [[Binder]] | Early Autumn | [[Bernard Valeon]] | freedom without ownership |
 
 ## Campaign Budget
@@ -42,11 +42,11 @@ This is the production doorway for eight outsider-debtor companions, eighty-eigh
 | Summer coda | 1 | 8 |
 | **Authored pieces** | **11** | **88** |
 
-Sixty formal pieces now exist: Elara's, Ilyana's, Bernard's, and Tavio's complete eleven-piece authored campaigns plus the sixteen legacy sources for the other four companions. Twenty-eight untitled slots remain reserved without creating empty notes. An individual companion exposes nine non-exclusive pieces plus either the eligible romance episode or the eligible bond episode, never both. See [[Companion Campaign Expansion Register]].
+Sixty-seven formal pieces now exist: Elara's, Ilyana's, Ylva's, Bernard's, and Tavio's complete eleven-piece authored campaigns plus the twelve legacy sources for the other three companions. Twenty-one untitled slots remain reserved without creating empty notes. An individual companion exposes nine non-exclusive pieces plus either the eligible romance episode or the eligible bond episode, never both. See [[Companion Campaign Expansion Register]].
 
 ## Existing Source Register
 
-Elara's, Ilyana's, Bernard's, and Tavio's eleven authored pieces carry `architecture_status: migrated`. The remaining sources carry `pending-migration`: their existing Quest 1 becomes the introductory case and Quests 2-4 become the three act finales during that companion's retrofit.
+Elara's, Ilyana's, Ylva's, Bernard's, and Tavio's eleven authored pieces carry `architecture_status: migrated`. The remaining sources carry `pending-migration`: their existing Quest 1 becomes the introductory case and Quests 2-4 become the three act finales during that companion's retrofit.
 
 | ID | Quest | Owner | Act | Window | Status |
 |---|---|---|---|---|---|
@@ -72,10 +72,17 @@ Elara's, Ilyana's, Bernard's, and Tavio's eleven authored pieces carry `architec
 | CMP-02-8 | [[Every Case Its Owner]] | [[Ilyana Veshkar]] | act-3 | Open Spring, Muster Crisis | blocked |
 | CMP-02-9 | [[The Last Common Measure]] | [[Ilyana Veshkar]] | act-3 | Open Spring, Muster Crisis | blocked |
 | CMP-02-10 | [[The Road Takes the Song]] | [[Ilyana Veshkar]] | summer | Playable Summer | blocked |
-| CMP-03-1 | [[The Unpaid Champion]] | [[Svala Last-Beacon]] | act-1 | Open Autumn, Late Autumn | outlined |
-| CMP-03-2 | [[Yield Heard Twice]] | [[Svala Last-Beacon]] | act-2 | Early Winter, Deep Winter | outlined |
-| CMP-03-3 | [[The Rimewing Trial]] | [[Svala Last-Beacon]] | act-2 | Deep Winter, Early Spring | outlined |
-| CMP-03-4 | [[Last Beacon, First Road]] | [[Svala Last-Beacon]] | act-3 | Early Spring, Muster Crisis | outlined |
+| CMP-03-1 | [[The Fourth Marker]] | [[Ylva Winter-Track]] | act-1 | Open Autumn | blocked |
+| CMP-03-2 | [[A Signal Shared]] | [[Ylva Winter-Track]] | act-1 | Open Autumn, Late Autumn | blocked |
+| CMP-03-3 | [[The Rearguard Road]] | [[Ylva Winter-Track]] | act-1 | Late Autumn | blocked |
+| CMP-03-4 | [[No Quarry Today]] | [[Ylva Winter-Track]] | act-1 | Late Autumn, Early Winter | blocked |
+| CMP-03-5 | [[Signals Over Lantern Ward]] | [[Ylva Winter-Track]] | act-2 | Early Winter, Winter Siege | blocked |
+| CMP-03-6 | [[What the Ice Takes]] | [[Ylva Winter-Track]] | act-2 | Winter Siege | blocked |
+| CMP-03-RM | [[A Hearth Chosen]] | [[Ylva Winter-Track]] | act-2 | Late Winter, Early Spring | blocked |
+| CMP-03-BD | [[The Sister Watch]] | [[Ylva Winter-Track]] | act-2 | Late Winter, Early Spring | blocked |
+| CMP-03-8 | [[Routes for the Living]] | [[Ylva Winter-Track]] | act-3 | Spring Reclamation | blocked |
+| CMP-03-9 | [[The Last Marker]] | [[Ylva Winter-Track]] | act-3 | Dead March, before Deep Muster | blocked |
+| CMP-03-10 | [[The Road She Chooses]] | [[Ylva Winter-Track]] | summer | Playable Summer | blocked |
 | CMP-04-1 | [[The Faces She Kept]] | [[Ashira bath Melan]] | act-1 | Early Autumn, Open Autumn | outlined |
 | CMP-04-2 | [[A Useful Terror]] | [[Ashira bath Melan]] | act-1 | Open Autumn, Early Winter | outlined |
 | CMP-04-3 | [[The Price of the Bow Tower]] | [[Ashira bath Melan]] | act-2 | Deep Winter, Early Spring | outlined |
@@ -122,8 +129,6 @@ Elara's, Ilyana's, Bernard's, and Tavio's eleven authored pieces carry `architec
 - [[Maro Vezan]]
 - [[Seraf Pellan]]
 - [[Proof-Mistress Hella Dorn]]
-- [[Astrid Snow-Rope]]
-- [[Yrsa Wolf-Brand]]
 - [[Keeper Othara bath Qesin]]
 - [[Lord Marek Vardek]]
 - [[Vasko Dren]]
@@ -136,7 +141,6 @@ Elara's, Ilyana's, Bernard's, and Tavio's eleven authored pieces carry `architec
 - [[Oda Reed-Way]]
 - [[Marta Etten]]
 - [[Samira bint Nahal]]
-- [[Rimewing Sisters]]
 
 ## Existing Deep-Blocked Packages
 
@@ -161,6 +165,16 @@ Elara's, Ilyana's, Bernard's, and Tavio's eleven authored pieces carry `architec
 - [[Bard]] and [[Harmonic Shellcraft]]: player vocation and controlling magic system.
 - [[Five Cases at Customs]], [[The Road Without a Conductor]], [[No Song by Command]], [[A Tune with No Owner]], [[Reeds Under Ice]], [[The Free Refrain]], [[One Private Song]], [[Duet Without a Conductor]], [[Every Case Its Owner]], [[The Last Common Measure]], and [[The Road Takes the Song]]: eleven production-blocked pieces, of which no more than ten appear in one playthrough.
 
+### CMP-03: Ylva Winter-Track
+
+- [[Ylva Companion Campaign]]: controlling eleven-piece campaign, preparation, autonomy, changed re-entry, embedded opportunities, recipes, and outcomes.
+- [[Ylva Winter-Track]]: controlling Grey-Wolf character bible.
+- [[Ylva Field Familiarity and Relationships]]: approval, friendship, romance, sworn bond, departure, and permanent perks.
+- [[Ylva Rescue Hunter Package]]: rescue-scout priorities, material field arrows, progression, and Hunter boundaries.
+- [[Ylva Banter and Reactivity]]: paired banter, faction attitudes, routes, and seasonal dialogue.
+- [[The White-Sled Rescue]]: controlling debt history and moral distinction between the right rescue and Ylva's isolating surety.
+- [[The Fourth Marker]], [[A Signal Shared]], [[The Rearguard Road]], [[No Quarry Today]], [[Signals Over Lantern Ward]], [[What the Ice Takes]], [[A Hearth Chosen]], [[The Sister Watch]], [[Routes for the Living]], [[The Last Marker]], and [[The Road She Chooses]]: eleven production-blocked pieces, of which no more than ten appear in one playthrough.
+
 ### CMP-05: Bernard Valeon
 
 - [[Bernard Companion Campaign]]: controlling eleven-piece authored campaign, ten-piece playthrough ceiling, preparation, autonomy, changed re-entry, embedded opportunities, and rewards.
@@ -183,7 +197,7 @@ Elara's, Ilyana's, Bernard's, and Tavio's eleven authored pieces carry `architec
 - [[Lancewright]]: the quest-earned advanced player vocation.
 - [[The False Ring]], [[The Signed Measure]], [[Proof Under Load]], [[Games Without a Crown]], [[The Challenger's Road]], [[The Fair Defeat]], [[No Wager Between Us]], [[After the Last Lantern]], [[Measure on the March]], [[Horn for Leak-Day]], and [[The Road Takes the Measure]]: eleven production-blocked pieces, of which no more than ten can appear in one playthrough.
 
-Elara, Ilyana, Bernard, and Tavio are fully migrated to the eleven-piece authored architecture and ten-piece playthrough ceiling. The other four remain outlined and will be deep-blocked directly against the new standard. No later companion's threshold or autonomous result is canonized without its planned user-guided pass.
+Elara, Ilyana, Ylva, Bernard, and Tavio are fully migrated to the eleven-piece authored architecture and ten-piece playthrough ceiling. Ashira, Dismas, and Zafir remain outlined and will be deep-blocked directly against the new standard. No later companion's threshold or autonomous result is canonized without its planned user-guided pass.
 
 ## Controls
 

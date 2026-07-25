@@ -70,41 +70,41 @@ This register controls Elara's voice around the other companions, Grenzburg's fa
 >
 > **Ilyana:** Ask me again when we have provisions.
 
-## Svala Last-Beacon
+## Ylva Winter-Track
 
 **Early - powder and weather**
 
-> **Svala:** Snow does not care about powder.
+> **Ylva:** Snow does not care about powder.
 >
 > **Elara:** Precisely why I must. Someone should maintain standards.
 >
-> **Svala:** Maintain your gloves first. That seam is opening.
+> **Ylva:** Maintain your gloves first. That seam is opening.
 
 **After Elara quest one - the dead**
 
-> **Svala:** In my hall, taking from a grave makes the whole hearth answer.
+> **Ylva:** In my hall, taking from a grave makes the whole hearth answer.
 >
 > **Elara:** In mine, it made one lady answer and several workers disappear into a ledger.
 >
-> **Svala:** Then your hall knew how to hide shame. Not how to carry it.
+> **Ylva:** Then your hall knew how to hide shame. Not how to carry it.
 
 **Winter - hospitality**
 
 > **Elara:** You have fed every person in this camp except yourself.
 >
-> **Svala:** I ate while stirring.
+> **Ylva:** I ate while stirring.
 >
 > **Elara:** That is tasting. Sit down before I invoke noble privilege.
 >
-> **Svala:** Try it. I need kindling.
+> **Ylva:** Try it. I need kindling.
 
 **Late - chosen names**
 
-> **Svala:** No Lady of Velescar, then?
+> **Ylva:** No Lady of Velescar, then?
 >
 > **Elara:** Elara will do. Lady, when the dress deserves it.
 >
-> **Svala:** Good. Last-Beacon is work, not blood. A name should know its job.
+> **Ylva:** Winter-Track was work before it was a name. A name should still know its job.
 
 ## Ashira bath Melan
 

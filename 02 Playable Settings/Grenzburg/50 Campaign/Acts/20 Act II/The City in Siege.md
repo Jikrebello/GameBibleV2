@@ -115,7 +115,7 @@ Wall damage, sapper tools, and observed river tracks prove the breach method. Ho
 
 ## Companion Intersections
 
-Ilyana can establish obscuring fog, shared weapon cadence, and audible casualty calls without taking permanent command of the ward. Tavio stabilizes pumps or wall braces. Zafir organizes controlled bound labor without living coercion. Bernard and Svala excel in civilian rescue. Every route has ordinary alternatives.
+Ilyana can establish obscuring fog, shared weapon cadence, and audible casualty calls without taking permanent command of the ward. Tavio stabilizes pumps or wall braces. Zafir organizes controlled bound labor without living coercion. Bernard protects casualty movement; Ylva's resident-held signal chain warns Debtors' Row and opens a marked extraction lane. Every route has ordinary alternatives.
 
 [[Elara Velescar]] can lead the Market Roofline counterattack while reading fire damage, guard lines, and improvised winter footing. Completing that route with her records `elara_winter_roofline_proven`, one preparation asset for [[The Patron's Cabinet]]. The rooftop route and the campaign chapter remain viable without Elara.
 

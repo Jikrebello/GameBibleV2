@@ -1,7 +1,7 @@
 ---
 type: faction
-status: canon
-canon_level: local
+status: archived
+canon_level: obsolete
 visibility: author-only
 era: ["Present Day"]
 region: ["Grenzburg"]
@@ -13,6 +13,10 @@ aliases: []
 tags: [game-ready]
 faction_line: "secondary-rimewing"
 faction_branch: ""
+archive_reason: "The Rimewing fellowship and rage-school storyline were retired in the Ylva Winter-Track retrofit"
+archived_from: "02 Playable Settings/Grenzburg/40 Factions/60 Secondary Chains/Rimewing Sisters.md"
+archived_on: 2026-07-25
+superseded_by: "[[Ylva Winter-Track]]"
 ---
 # Rimewing Sisters
 

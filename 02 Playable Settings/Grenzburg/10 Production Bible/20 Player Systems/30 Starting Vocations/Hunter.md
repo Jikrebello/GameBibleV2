@@ -10,6 +10,7 @@ related_factions: ["Blackjack Corps", "Folk kindreds"]
 appears_in: ["Grenzburg"]
 needs:
   - replace direct source-derived skill and augment names before implementation-ready status
+  - reassess Dismas Raben's vocation during CMP-06 without changing Hunter until that pass
 system_family: player
 player_system: vocation
 vocation_tier: starting
@@ -77,6 +78,44 @@ Ordinary ammunition is abstracted for play. Special arrows consume gathered, pur
 
 Special arrows must name their supply and legality in the quest, vendor, recipe, or item. `Magick-infused` is a gameplay family rather than evidence of generic enchanting.
 
+## Rescue Scout Doctrine
+
+[[Ylva Winter-Track]] supplies a rescue-scout expression of Hunter through [[Ylva Rescue Hunter Package]]. It remains the same vocation and obeys the same longbow-only equipment boundary.
+
+The doctrine prioritizes:
+
+- reading an extraction route before committing damage;
+- locating the wounded, encumbered, or cut off;
+- interrupting pursuit;
+- placing signals and bounded concealment;
+- establishing a proper rescue line;
+- moving out of front-line pressure after the route opens.
+
+It provides tactical advantages and clearer rescue interactions. No critical path, climb, gap, or evacuation requires Ylva, Hunter, or a special arrow.
+
+### Winter-Track Field Fletching
+
+Ylva's campaign adds five practical, account-wide recipes:
+
+| Recipe | Relationship to existing family | Use and limit |
+|---|---|---|
+| **All-Weather Flare Arrow** | Flare upgrade | visible through snow, fog, and rain; establishes a rally marker and disrupts light-sensitive threats |
+| **Reinforced Blunt-Head** | Blunt-head upgrade | armour pressure, nonlethal stops, weak ice, simple latches, and fragile obstruction |
+| **Line Arrow** | new practical field tool | carries a pilot cord so a proper rope can be hauled and secured; it never carries a person directly |
+| **Smoke Arrow** | new practical field tool | bounded concealment, wind reading, and ordinary ranged-sight interruption |
+| **Controlled Blast Arrow** | Blast upgrade | smaller shaped charge for ice, timber, obstruction, or armour with reduced spread and fire risk |
+
+All five use named material supplies and remain subject to local fire, weapon, hunting, and explosives law. They unlock through Ylva's core companion campaign regardless of friendship, romance, or sworn bond.
+
+Completing [[The Last Marker]] unlocks **Winter-Track Fieldcraft**, an account-wide augment improving severe-weather aiming, field-arrow economy, and movement while protecting or guiding another character. Exact values remain provisional.
+
+## Companion Expressions
+
+- **Ylva Winter-Track:** rescue scout, warning network, field arrows, and extraction coordination.
+- **Dismas Raben:** ambush tracker, quarry reader, and irregular approach under the current design.
+
+Both use Hunter temporarily without sharing personality or tactical priorities. Dismas's vocation is reserved for reassessment during CMP-06.
+
 ## Working Active-Skill Inventory
 
 | Family | Intended function |
@@ -125,6 +164,10 @@ Mastery contributes the longbow, light field armour, special-arrow families, aim
 
 - [[Proficiencies and Field Skills]]
 - [[Ashfield Lodge]]
+- [[Ylva Winter-Track]]
+- [[Ylva Rescue Hunter Package]]
+- [[Ylva Companion Campaign]]
+- [[The Last Marker]]
 - [[Southwood Barrowlands]]
 - [[Highlake Uplands]]
 - [[Public Power and Vocation Law]]

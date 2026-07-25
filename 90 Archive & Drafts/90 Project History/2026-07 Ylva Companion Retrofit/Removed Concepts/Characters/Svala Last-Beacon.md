@@ -1,7 +1,7 @@
 ---
 type: character
-status: canon
-canon_level: local
+status: archived
+canon_level: obsolete
 visibility: author-only
 era: ["Present Day"]
 region: ["Grenzburg"]
@@ -17,6 +17,10 @@ vocation: "Fighter"
 recruitment_window: "Open Autumn"
 foil: "Tavio Meran"
 relationship_theme: "shared hearth"
+archive_reason: "Superseded by the complete Ylva Winter-Track rescue-Hunter retrofit"
+archived_from: "02 Playable Settings/Grenzburg/30 Characters/10 Companions/Svala Last-Beacon.md"
+archived_on: 2026-07-25
+superseded_by: "[[Ylva Winter-Track]]"
 ---
 # Svala Last-Beacon
 

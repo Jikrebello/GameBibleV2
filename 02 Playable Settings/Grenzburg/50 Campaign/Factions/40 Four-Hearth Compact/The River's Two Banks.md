@@ -15,7 +15,7 @@ act: act-1
 availability_window: ["Open Autumn", "Late Autumn"]
 repeatability: one-shot
 cutoff_result: transforms
-world_state_outputs: ["longlake_passage_rule", "netters_isle_service", "river_clan_trust"]
+world_state_outputs: ["longlake_passage_rule", "netters_isle_service", "river_clan_trust", "ylva_longlake_ice_soundings"]
 required_locations: ["Sunken Causeway", "Netter's Isle", "Lakewatch"]
 blocking_status: outlined
 quest_owner: "Four-Hearth Compact"
@@ -23,6 +23,7 @@ quest_sequence: 3
 companion_id: ""
 faction_line: "four-hearth"
 faction_branch: ""
+ensemble_inputs: ["Ylva Winter-Track"]
 ---
 # The River's Two Banks
 
@@ -54,6 +55,12 @@ At least two routes establish every required fact. Social skill, cultural famili
 
 Create shared schedule, ducal priority, or clan-controlled passage with public refuge obligations.
 
+## Ylva Intersection
+
+With [[Ylva Winter-Track]] present, the two banks teach their different readings of current, reed movement, and early ice. Ylva initially attempts to combine the observations into one authoritative route held by herself.
+
+If the player preserves each crew's authority, records disagreement, and establishes a joint sounding practice, the work produces `ylva_longlake_ice_soundings`. The asset represents distributed local knowledge rather than Ylva owning the lake route.
+
 ## Fail-Forward Results
 
 If boats are lost, a temporary ice-cable route opens at greater risk. Failed talks produce tolls, not total closure.
@@ -71,6 +78,7 @@ The warning screen names affected quests, leaders, services, and political-settl
 - `longlake_passage_rule`
 - `netters_isle_service`
 - `river_clan_trust`
+- `ylva_longlake_ice_soundings`, when both banks retain and share their readings
 
 ## Rewards and Return Value
 

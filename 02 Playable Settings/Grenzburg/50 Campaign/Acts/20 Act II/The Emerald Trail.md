@@ -113,7 +113,7 @@ Cut stumps, work orders, refugee testimony, burned roots, Grobi fire gear, hunte
 
 ## Companion Intersections
 
-Dismas reads travel and prey. Ashira correctly identifies the territory as non-conscious law rather than spirit dialogue. Ilyana and Tavio create controlled wind or fire tools. Svala, Bernard, Elara, and Zafir provide rescue, traversal, or bounded-form solutions.
+Dismas reads travel and prey. Ashira correctly identifies the territory as non-conscious law rather than spirit dialogue. Ilyana and Tavio create controlled wind or fire tools. Ylva, Bernard, Elara, and Zafir provide rescue, traversal, or bounded-form solutions.
 
 ## Faction Advantages
 

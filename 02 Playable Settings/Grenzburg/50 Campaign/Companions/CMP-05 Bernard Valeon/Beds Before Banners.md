@@ -44,7 +44,7 @@ preparation_threshold: ""
 autonomous_deadline: "The Deep Muster"
 autonomous_resolution: "West Refuge becomes a narrow sponsor ward; the neutral-claim asset is lost"
 changed_reentry: "The sponsor arrangement persists into The Open Hospice and cannot be renegotiated inside the finale"
-ensemble_inputs: ["Zafir ibn Samad", "Svala Last-Beacon", "Ilyana Veshkar"]
+ensemble_inputs: ["Zafir ibn Samad", "Ylva Winter-Track", "Ilyana Veshkar"]
 identity_hooks: []
 encounter_deck: []
 persistence_scope: district-persistent

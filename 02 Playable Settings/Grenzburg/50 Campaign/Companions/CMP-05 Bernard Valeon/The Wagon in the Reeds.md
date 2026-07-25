@@ -44,7 +44,7 @@ preparation_threshold: ""
 autonomous_deadline: "The Last Convoy"
 autonomous_resolution: "Oda recovers a damaged wagon with reduced packs; the Act I operation asset is lost"
 changed_reentry: "The road school proceeds with fewer supplies; the original recovery cannot be replayed"
-ensemble_inputs: ["Dismas Raben", "Svala Last-Beacon", "Ilyana Veshkar"]
+ensemble_inputs: ["Dismas Raben", "Ylva Winter-Track", "Ilyana Veshkar"]
 identity_hooks: []
 encounter_deck: []
 persistence_scope: local-persistent

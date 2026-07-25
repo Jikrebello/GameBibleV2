@@ -33,6 +33,8 @@ properties:
     displayName: Content Role
   relationship_variant:
     displayName: Relationship Variant
+  relationship_gate:
+    displayName: Relationship Gate
   companion_campaign_stage:
     displayName: Campaign Stage
   preparation_threshold:
@@ -53,6 +55,8 @@ properties:
     displayName: Re-entry
   ensemble_inputs:
     displayName: Ensemble Inputs
+  world_state_outputs:
+    displayName: State Outputs
 views:
   - type: table
     name: Companion Roster
@@ -143,4 +147,28 @@ views:
       - property: companion_id
         direction: ASC
       - property: quest_sequence
+        direction: ASC
+  - type: table
+    name: Relationship Episodes
+    filters:
+      and:
+        - 'quest_class == "companion"'
+        - 'companion_content_role == "relationship"'
+        - 'architecture_status == "migrated"'
+    groupBy:
+      property: note.quest_owner
+      direction: ASC
+    order:
+      - companion_id
+      - file.name
+      - relationship_variant
+      - relationship_gate
+      - availability_window
+      - reward_unlocks
+      - world_state_outputs
+      - blocking_status
+    sort:
+      - property: companion_id
+        direction: ASC
+      - property: relationship_variant
         direction: ASC

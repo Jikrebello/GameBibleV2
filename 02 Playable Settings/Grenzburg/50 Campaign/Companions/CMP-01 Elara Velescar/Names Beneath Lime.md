@@ -44,7 +44,7 @@ preparation_threshold: ""
 autonomous_deadline: "The Last Convoy"
 autonomous_resolution: "Elara follows the impounded goods alone and reaches Seven Mounds with weak evidence"
 changed_reentry: "The Scarred Mounds introduces the crime after the Act I autonomous result"
-ensemble_inputs: ["Bernard Valeon", "Dismas Raben", "Ilyana Veshkar", "Ashira bath Melan", "Tavio Meran", "Zafir ibn Samad", "Svala Last-Beacon"]
+ensemble_inputs: ["Bernard Valeon", "Dismas Raben", "Ilyana Veshkar", "Ashira bath Melan", "Tavio Meran", "Zafir ibn Samad", "Ylva Winter-Track"]
 identity_hooks: []
 encounter_deck: []
 persistence_scope: local-persistent
