@@ -15,7 +15,7 @@ act: act-1
 availability_window: ["Open Autumn", "Late Autumn"]
 repeatability: one-shot
 cutoff_result: transforms
-world_state_outputs: ["blackjack_injury_rule", "wounded_debtor_state", "lucia_reform_limit"]
+world_state_outputs: ["blackjack_injury_rule", "wounded_debtor_state", "lucia_reform_limit", "bernard_service_injury_claim_supported"]
 required_locations: ["Mercy Hospital", "Debtors' Row", "Chain House"]
 blocking_status: outlined
 quest_owner: "Blackjacks and Medori"
@@ -71,6 +71,7 @@ The warning screen names affected quests, leaders, services, and political-settl
 - `blackjack_injury_rule`
 - `wounded_debtor_state`
 - `lucia_reform_limit`
+- `bernard_service_injury_claim_supported`: set when Bernard helps secure a named, non-compounding remedy without concealing the company's responsibility.
 
 ## Rewards and Return Value
 
@@ -85,6 +86,7 @@ At the next season gate, unresolved work transforms into a named institutional r
 ## Navigation
 
 - [[Blackjacks and Medori]]
+- [[Bernard Companion Campaign]]
 - [[Faction Questlines MOC]]
 - [[Factions Overview]]
 - [[Narrative State Register]]

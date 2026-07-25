@@ -1,7 +1,7 @@
 ---
 type: mechanic
-status: canon
-canon_level: local
+status: archived
+canon_level: obsolete
 visibility: author-only
 era: ["Present Day"]
 region: ["Grenzburg"]
@@ -15,7 +15,10 @@ tags: [game-ready]
 companion_id: "CMP-05"
 system_family: companion
 balance_status: qualitative
-architecture_status: migrated
+archive_reason: "Snapshot before Bernard's ten-piece companion campaign retrofit"
+archived_from: "02 Playable Settings/Grenzburg/50 Campaign/Companions/CMP-05 Bernard Valeon/Bernard Compulsion and Accountability System.md"
+archived_on: 2026-07-24
+superseded_by: "[[Bernard Compulsion and Accountability System]]"
 ---
 # Bernard Compulsion and Accountability System
 
@@ -72,13 +75,13 @@ Every attempt has a readable sequence:
 3. He adjusts an empty pouch or sleeve.
 4. A short companion bark or player-awareness cue opens intervention.
 
-Authored familiarity makes the cue earlier and clearer. [[Little Things Missing]] unlocks Bernard's ability to name the urge himself. A failed Insight or observation check shortens the response window but never removes every sensory cue.
+Higher Field Familiarity makes the cue earlier and clearer. Quest one unlocks Bernard's ability to name the urge himself. A failed Insight or observation check shortens the response window but never removes every sensory cue.
 
 ## Player Responses
 
 ### Give Bernard the first word
 
-The player waits through the cue. Bernard may self-report and step away. This best supports agency after [[Little Things Missing]], but before that case he is more likely to complete the act.
+The player waits through the cue. Bernard may self-report and step away. This best supports agency after quest one, but before that quest he is more likely to complete the act.
 
 ### Interrupt privately
 
@@ -119,7 +122,7 @@ If the object is destroyed or inaccessible, Bernard may still name it and accept
 
 ### Concealed
 
-The object remains hidden or is falsely attributed. Concealment increases Strained risk and changes later act-finale dialogue. No relationship path makes concealment harmless.
+The object remains hidden or is falsely attributed. Concealment increases Strained risk and can change quest-three or quest-four dialogue. No relationship path makes concealment harmless.
 
 ## Progression
 
@@ -131,23 +134,9 @@ One tutorial incident can occur. Bernard notices his own tell late, minimizes wh
 
 The pouch, owner records, private interruption, and self-report states unlock. Public or witnessed resolution makes tells clearer; concealment keeps later incidents less legible.
 
-### The Spare Blanket
-
-The one embedded campaign incident with a preparation output occurs before [[Little Hands, Long Road]]. In a crowded refuge space, Bernard begins folding an unassigned spare blanket and food portion into his field pack.
-
-- If he names the hunger and shortage fear before taking them, `bernard_hunger_named_early` becomes true.
-- If the player privately prompts him and he immediately reports the items, the incident repairs without the preparation asset.
-- If he takes or conceals them, the objects enter Things Not Mine and the road-school finale records the unresolved shortage.
-
-This is authored, one-shot, and cannot be replaced by farming another incident.
-
 ### After Little Hands, Long Road
 
 Bernard can identify hunger-driven behavior without humiliating another person. He becomes more likely to name food or shelter urges before acting.
-
-### Open-Store Practice
-
-The Blackjack Yard's authored open-store drill establishes purpose, release conditions, and two independent witnesses for a reserve. Completing it truthfully sets `bernard_open_store_procedure_practiced`. Repeating the drill in Act III with named category custodians sets `bernard_named_store_custodians`. Neither state follows from merely opening the inventory screen.
 
 ### After Embers Without Excuse
 
@@ -179,16 +168,11 @@ Bernard's condition is neither possession, an Idol feed automatically overriding
 - `bernard_accountability_plan`: none, private, witnessed, or coercive;
 - `things_not_mine_count`: unresolved finite set;
 - `bernard_self_report_state`: unavailable, prompted, active, or reliable;
-- `bernard_incident_consequence`: returned, compensated, confessed-under-loss, concealed, or exploited;
-- `bernard_hunger_named_early`: true or false;
-- `bernard_open_store_procedure_practiced`: true or false;
-- `bernard_named_store_custodians`: true or false;
-- `bernard_direction`: truthful, uncertain, or withholding.
+- `bernard_incident_consequence`: returned, compensated, confessed-under-loss, concealed, or exploited.
 
 ## Navigation
 
 - [[Bernard Valeon]]
-- [[Bernard Companion Campaign]]
 - [[Bernard Field Familiarity and Relationships]]
 - [[Little Things Missing]]
 - [[The Froststep Evacuation]]

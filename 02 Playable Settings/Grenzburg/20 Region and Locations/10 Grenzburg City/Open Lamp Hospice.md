@@ -49,9 +49,15 @@ On a travelling-romance future, Bernard appoints the established staff to contin
 
 Broken stores, narrow Church custody, Medori control, or destruction may reduce the hospice to a field service in [[Cathedral Close#Anchor Locations|Paupers' Cloister]]. The name can survive as aspiration without pretending the full institution exists.
 
+### Autonomous Blackjack service
+
+On Bernard's default unattended route, Open Lamp is never founded. [[Quartermaster Brina Kest|Brina Kest]] places the viable care work inside the [[Blackjack Yard]] infirmary under an open company inventory. Bernard remains useful and caring but has not developed independent accountability. [[The First Open Table]] presents that state at the Yard rather than creating this location retroactively.
+
 ## Navigation
 
 - [[The Open Hospice]]
+- [[Bernard Companion Campaign]]
+- [[The First Open Table]]
 - [[Bernard Valeon]]
 - [[Longlake Ward]]
 - [[Cathedral Close#Anchor Locations|Mercy Hospital]]

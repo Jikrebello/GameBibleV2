@@ -1,7 +1,7 @@
 ---
 type: reference
-status: canon
-canon_level: local
+status: archived
+canon_level: obsolete
 visibility: author-only
 era: ["Present Day"]
 region: ["Grenzburg"]
@@ -11,6 +11,10 @@ appears_in: ["Grenzburg"]
 needs: []
 aliases: ["Grenzburg Narrative State Register"]
 tags: [game-ready]
+archive_reason: "Snapshot before Bernard's ten-piece companion campaign retrofit"
+archived_from: "02 Playable Settings/Grenzburg/10 Production Bible/Narrative State Register.md"
+archived_on: 2026-07-24
+superseded_by: "[[Narrative State Register]]"
 ---
 # Narrative State Register
 
@@ -153,87 +157,42 @@ Duplicate implementation keys across these authorities are prohibited unless one
 | `ashira_summer_destination` | companion | Ashira bath Melan | 4 | [[No Human Shadow]] |
 | `human_roster_final_state` | companion | Ashira bath Melan | 4 | [[No Human Shadow]] |
 | `medium_field_school` | companion | Ashira bath Melan | 4 | [[No Human Shadow]] |
-| `bernard_recruited` | companion gate | Bernard Valeon | 0 | [[Bernard Valeon]] |
-| `bernard_first_outing_complete` | companion gate | Bernard Valeon | 0 | [[Bernard Companion Campaign]] |
-| `bernard_direction` | companion direction | Bernard Valeon | 0 | [[Bernard Companion Campaign]] |
-| `bernard_act1_readiness_viable` | companion readiness | Bernard Valeon | 0 | [[Bernard Companion Campaign]] |
-| `bernard_act2_readiness_viable` | companion readiness | Bernard Valeon | 0 | [[Bernard Companion Campaign]] |
-| `bernard_act3_readiness_viable` | companion readiness | Bernard Valeon | 0 | [[Bernard Companion Campaign]] |
+| `bernard_care_observed` | companion gate | Bernard Valeon | 0 | [[Bernard Field Familiarity and Relationships]] |
+| `bernard_property_choice_observed` | companion gate | Bernard Valeon | 0 | [[Bernard Field Familiarity and Relationships]] |
+| `bernard_shared_danger_observed` | companion gate | Bernard Valeon | 0 | [[Bernard Field Familiarity and Relationships]] |
+| `bernard_child_or_refuge_observed` | companion gate | Bernard Valeon | 0 | [[Bernard Field Familiarity and Relationships]] |
+| `bernard_food_choice_observed` | companion gate | Bernard Valeon | 0 | [[Bernard Field Familiarity and Relationships]] |
+| `bernard_self_report_observed` | companion gate | Bernard Valeon | 0 | [[Bernard Field Familiarity and Relationships]] |
+| `bernard_winter_care_observed` | companion gate | Bernard Valeon | 0 | [[Bernard Field Familiarity and Relationships]] |
+| `bernard_authority_choice_observed` | companion gate | Bernard Valeon | 0 | [[Bernard Field Familiarity and Relationships]] |
+| `bernard_reclamation_observed` | companion gate | Bernard Valeon | 0 | [[Bernard Field Familiarity and Relationships]] |
 | `things_not_mine_count` | companion system | Bernard Valeon | 0 | [[Bernard Compulsion and Accountability System]] |
 | `bernard_self_report_state` | companion system | Bernard Valeon | 0 | [[Bernard Compulsion and Accountability System]] |
 | `bernard_incident_consequence` | companion system | Bernard Valeon | 0 | [[Bernard Compulsion and Accountability System]] |
-| `bernard_hunger_named_early` | companion preparation | Bernard Valeon | 0 | [[Bernard Compulsion and Accountability System#The Spare Blanket|The Spare Blanket]] |
-| `bernard_open_store_procedure_practiced` | companion preparation | Bernard Valeon | 0 | [[Bernard Compulsion and Accountability System#Open-Store Practice|Open-Store Practice]] |
-| `bernard_named_store_custodians` | companion preparation | Bernard Valeon | 0 | [[Bernard Compulsion and Accountability System#Open-Store Practice|Open-Store Practice]] |
-| `bernard_longlake_route_secured` | companion preparation | Bernard Valeon | 0 | [[Roads Worth Saving]] |
-| `bernard_service_injury_claim_supported` | companion preparation | Bernard Valeon | 0 | [[A Debt That Grew Wounded]] |
-| `bernard_pikehook_snare_line_mapped` | companion preparation | Bernard Valeon | 0 | [[Grenzburg Worldspace Location Register#Bernard Embedded Care Routes|Pikehook snare line]] |
-| `bernard_breach_casualty_lane_secured` | companion preparation | Bernard Valeon | 0 | [[The City in Siege]] |
-| `bernard_mercy_heat_plan` | companion preparation | Bernard Valeon | 0 | [[Mercy in Winter]] |
-| `bernard_reclaimed_patient_routes` | companion preparation | Bernard Valeon | 0 | [[The Land Reclaimed]] |
-| `bernard_mixed_carer_pledge` | companion preparation | Bernard Valeon | 0 | [[The Four-Hearth Winter]] |
-| `bernard_underways_evacuation_route` | companion preparation | Bernard Valeon | 0 | [[Grenzburg Worldspace Location Register#Bernard Embedded Care Routes|West Refuge underways]] |
-| `bernard_introduction_complete` | companion | Bernard Valeon | 1 | [[Little Things Missing]] |
 | `bernard_compulsion_disclosed` | companion | Bernard Valeon | 1 | [[Little Things Missing]] |
 | `bernard_accountability_plan` | companion | Bernard Valeon | 1 | [[Little Things Missing]] |
 | `little_things_returned` | companion | Bernard Valeon | 1 | [[Little Things Missing]] |
 | `kitchen_helper_state` | companion | Bernard Valeon | 1 | [[Little Things Missing]] |
 | `koss_bernard_leverage` | companion | Bernard Valeon | 1 | [[Little Things Missing]] |
-| `bernard_road_school_wagon_recovered` | companion preparation | Bernard Valeon | 2 | [[The Wagon in the Reeds]] |
-| `road_school_wagon_state` | companion | Bernard Valeon | 2 | [[The Wagon in the Reeds]] |
-| `refuge_bell_state` | companion | Bernard Valeon | 2 | [[The Wagon in the Reeds]] |
-| `road_school_pack_state` | companion | Bernard Valeon | 2 | [[The Wagon in the Reeds]] |
-| `wagon_driver_state` | companion | Bernard Valeon | 2 | [[The Wagon in the Reeds]] |
-| `reed_road_bandits_state` | companion | Bernard Valeon | 2 | [[The Wagon in the Reeds]] |
-| `bernard_act1_chapter_resolved` | companion chapter | Bernard Valeon | 3 | [[Little Hands, Long Road]] |
-| `bernard_act1_result` | companion | Bernard Valeon | 3 | [[Little Hands, Long Road]] |
-| `road_school_state` | companion | Bernard Valeon | 3 | [[Little Hands, Long Road]] |
-| `chapel_children_state` | companion | Bernard Valeon | 3 | [[Little Hands, Long Road]] |
-| `mika_food_state` | companion | Bernard Valeon | 3 | [[Little Hands, Long Road]] |
-| `wounded_bear_state` | companion | Bernard Valeon | 3 | [[Little Hands, Long Road]] |
-| `bent_oak_refuge_state` | companion | Bernard Valeon | 3 | [[Little Hands, Long Road]] |
-| `bernard_friendship_episode` | friendship | Bernard Valeon | 4 | [[A Blade Freely Given]] |
-| `bernard_owned_sword_state` | companion | Bernard Valeon | 4 | [[A Blade Freely Given]] |
-| `bernard_child_portion_scene` | relationship | Bernard Valeon | 4 | [[A Blade Freely Given]] |
-| `bernard_long_watch_kit_provenance` | companion preparation | Bernard Valeon | 4 | [[A Blade Freely Given]] |
-| `bernard_four_fires_plan` | companion preparation | Bernard Valeon | 5 | [[Four Fires]] |
-| `four_shelters_state` | companion | Bernard Valeon | 5 | [[Four Fires]] |
-| `winter_fuel_state` | companion | Bernard Valeon | 5 | [[Four Fires]] |
-| `warming_routes_state` | companion | Bernard Valeon | 5 | [[Four Fires]] |
-| `four_fires_distribution_state` | companion | Bernard Valeon | 5 | [[Four Fires]] |
-| `bernard_act2_chapter_resolved` | companion chapter | Bernard Valeon | 6 | [[Embers Without Excuse]] |
-| `bernard_act2_result` | companion | Bernard Valeon | 6 | [[Embers Without Excuse]] |
-| `bernard_act2_finale_played` | companion gate | Bernard Valeon | 6 | [[Embers Without Excuse]] |
-| `bernard_paladin_unlocked` | progression | Bernard Valeon | 6 | [[Embers Without Excuse]] |
-| `bernard_relationship_commitment` | relationship | Bernard Valeon | 6 | [[Embers Without Excuse]] |
-| `bernard_relationship_paths_closed` | relationship | Bernard Valeon | 6 | [[Embers Without Excuse]] |
-| `bernard_white_flame_kindling` | companion | Bernard Valeon | 6 | [[Embers Without Excuse]] |
-| `petra_ilev_response` | companion | Bernard Valeon | 6 | [[Embers Without Excuse]] |
-| `long_watch_return_open` | companion | Bernard Valeon | 6 | [[Embers Without Excuse]] |
-| `lantern_relief_mission_state` | companion | Bernard Valeon | 6 | [[Embers Without Excuse]] |
-| `bernard_relationship_episode` | relationship | Bernard Valeon | 7 | [[Enough for Two]] |
-| `bernard_table_received` | companion preparation | Bernard Valeon | 7 | [[Enough for Two]] |
-| `bernard_duo_move_upgrade` | relationship | Bernard Valeon | 7 | [[Enough for Two]] |
-| `private_feast_state` | relationship | Bernard Valeon | 7 | [[Enough for Two]] |
-| `bernard_west_refuge_neutral_claim` | companion preparation | Bernard Valeon | 8 | [[Beds Before Banners]] |
-| `west_refuge_hall_state` | companion | Bernard Valeon | 8 | [[Beds Before Banners]] |
-| `west_refuge_sponsor_terms` | companion | Bernard Valeon | 8 | [[Beds Before Banners]] |
-| `first_patient_groups_state` | companion | Bernard Valeon | 8 | [[Beds Before Banners]] |
-| `west_refuge_rank_tablet_state` | companion | Bernard Valeon | 8 | [[Beds Before Banners]] |
-| `bernard_act3_chapter_resolved` | companion chapter | Bernard Valeon | 9 | [[The Open Hospice]] |
-| `bernard_act3_result` | companion | Bernard Valeon | 9 | [[The Open Hospice]] |
-| `bernard_act3_finale_played` | companion gate | Bernard Valeon | 9 | [[The Open Hospice]] |
-| `bernard_arc_outcome` | companion | Bernard Valeon | 9 | [[The Open Hospice]] |
-| `bernard_sacrifice_state` | companion fate | Bernard Valeon | 9 | [[The Open Hospice]] |
-| `bernard_future_path` | companion | Bernard Valeon | 9 | [[The Open Hospice]] |
-| `open_lamp_hospice_state` | companion | Bernard Valeon | 9 | [[The Open Hospice]] |
-| `paladin_capstone_unlocked` | progression | Bernard Valeon | 9 | [[The Open Hospice]] |
-| `long_watch_field_form_blueprint` | progression | Bernard Valeon | 9 | [[The Open Hospice]] |
-| `bernard_relationship_perk` | relationship | Bernard Valeon | 9 | [[The Open Hospice]] |
-| `bernard_owned_greatsword_name` | companion | Bernard Valeon | 9 | [[The Open Hospice]] |
-| `bernard_summer_destination` | companion | Bernard Valeon | 9 | [[The Open Hospice]] |
-| `bernard_summer_coda` | companion | Bernard Valeon | 10 | [[The First Open Table]] |
-| `first_open_table_state` | companion | Bernard Valeon | 10 | [[The First Open Table]] |
+| `road_school_state` | companion | Bernard Valeon | 2 | [[Little Hands, Long Road]] |
+| `chapel_children_state` | companion | Bernard Valeon | 2 | [[Little Hands, Long Road]] |
+| `mika_food_state` | companion | Bernard Valeon | 2 | [[Little Hands, Long Road]] |
+| `wounded_bear_state` | companion | Bernard Valeon | 2 | [[Little Hands, Long Road]] |
+| `bent_oak_refuge_state` | companion | Bernard Valeon | 2 | [[Little Hands, Long Road]] |
+| `bernard_paladin_unlocked` | progression | Bernard Valeon | 3 | [[Embers Without Excuse]] |
+| `bernard_relationship_commitment` | relationship | Bernard Valeon | 3 | [[Embers Without Excuse]] |
+| `bernard_white_flame_kindling` | companion | Bernard Valeon | 3 | [[Embers Without Excuse]] |
+| `petra_ilev_response` | companion | Bernard Valeon | 3 | [[Embers Without Excuse]] |
+| `long_watch_return_open` | companion | Bernard Valeon | 3 | [[Embers Without Excuse]] |
+| `lantern_relief_mission_state` | companion | Bernard Valeon | 3 | [[Embers Without Excuse]] |
+| `bernard_arc_outcome` | companion | Bernard Valeon | 4 | [[The Open Hospice]] |
+| `bernard_future_path` | companion | Bernard Valeon | 4 | [[The Open Hospice]] |
+| `open_lamp_hospice_state` | companion | Bernard Valeon | 4 | [[The Open Hospice]] |
+| `paladin_capstone_unlocked` | progression | Bernard Valeon | 4 | [[The Open Hospice]] |
+| `long_watch_field_form_blueprint` | progression | Bernard Valeon | 4 | [[The Open Hospice]] |
+| `bernard_summer_destination` | companion | Bernard Valeon | 4 | [[The Open Hospice]] |
+| `bernard_relationship_perk` | relationship | Bernard Valeon | 4 | [[The Open Hospice]] |
+| `bernard_duo_move` | relationship | Bernard Valeon | 4 | [[The Open Hospice]] |
 | `dismas_old_crime_named` | companion | Dismas Raben | 1 | [[The Sound of Falling Stone]] |
 | `dismas_rescue_response` | companion | Dismas Raben | 1 | [[The Sound of Falling Stone]] |
 | `quarry_workers_state` | companion | Dismas Raben | 1 | [[The Sound of Falling Stone]] |

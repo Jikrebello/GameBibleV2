@@ -1,7 +1,7 @@
 ---
 type: reference
-status: canon
-canon_level: local
+status: archived
+canon_level: obsolete
 visibility: author-only
 era: ["Present Day"]
 region: ["Grenzburg"]
@@ -13,11 +13,14 @@ needs:
 aliases: ["Bernard Reactive Dialogue Register"]
 tags: [game-ready]
 companion_id: "CMP-05"
-architecture_status: migrated
+archive_reason: "Snapshot before Bernard's ten-piece companion campaign retrofit"
+archived_from: "02 Playable Settings/Grenzburg/50 Campaign/Companions/CMP-05 Bernard Valeon/Bernard Banter and Reactivity.md"
+archived_on: 2026-07-24
+superseded_by: "[[Bernard Banter and Reactivity]]"
 ---
 # Bernard Banter and Reactivity
 
-This register controls Bernard's voice around the other companions, Grenzburg's factions, locations, and campaign crises. [[Bernard Companion Campaign]] controls the ten-piece sequence and embedded-opportunity count. This note provides writing direction and representative exchanges; final performance scripts may vary wording without changing relationship movement.
+This register controls Bernard's voice around the other companions, Grenzburg's factions, locations, and campaign crises. It provides writing direction and representative exchanges. Final performance scripts may vary wording without changing the relationship movement.
 
 ## Voice Rules
 
@@ -394,14 +397,14 @@ The prayer prompt occurs only before authored major fights, a companion's explic
 - **Morning:** checks the public Yard stores with a second Blackjack, practices greatsword footwork, and repairs the borrowed armour.
 - **Midday:** rotates through Mercy Hospital carrying work, Old Market food stalls, and the Yard kitchen.
 - **Evening:** cooks a large cheap meal, tells road stories, and offers quiet Last Ember conversations when asked.
-- **Night:** sleeps near the Yard door, initially with his kit under one hand; after [[Little Things Missing]], the shared locker remains visibly open.
+- **Night:** sleeps near the Yard door, initially with his kit under one hand; after quest one, the shared locker remains visibly open.
 
 ### Winter Siege
 
 - **Morning:** carries warming supplies between Mercy Hospital, outer camps, and the Yard under witnessed counts.
 - **Midday:** assists burial bearers without performing priestly rites and helps move patients during alarm states.
 - **Evening:** repairs blankets and bandages while children or exhausted debtors gather near the stove.
-- **Night:** takes an outer-camp watch when available; after a committed [[Embers Without Excuse]] outcome, his prayer rope may show the relationship bead.
+- **Night:** takes an outer-camp watch when available; after quest three, his prayer rope may show the relationship bead.
 
 ### Spring and Summer
 
@@ -427,36 +430,6 @@ Active-party selection overrides the next valid routine point. Personal-quest st
 - **Tannbruck:** reads an army by its casualty lane and kitchens rather than its banners.
 - **Frostfenn:** checks every blanket twice and asks another person to witness the count.
 - **Deep Muster:** condemns service that claims bodies after death as the final corruption of obedience.
-
-## Companion-Campaign Cadence
-
-- [[Little Things Missing]] shifts theft banter from visible excuses toward named accountability.
-- [[The Wagon in the Reeds]] gives Bernard practical road-school anticipation rather than treating the children as symbols.
-- [[Little Hands, Long Road]] adds Mika, Oda, the seven children, and the bear result to camp conversation.
-- [[A Blade Freely Given]] changes equipment observations: Bernard can acknowledge one owned object without pretending the gift cured scarcity.
-- [[Four Fires]] gives him shelter-specific observations about declared shortage, consolidation, and who bears inconvenience.
-- [[Embers Without Excuse]] changes White-Flame and Froststep dialogue according to Petra's response and Bernard's disclosure.
-- [[Enough for Two]] adds private rest dialogue only on a committed path; it never replaces friendship scenes.
-- [[Beds Before Banners]] makes neutral admission, sponsor limits, and patient routes active faction observations.
-- [[The Open Hospice]] fixes moral direction, destination, perk, and sword-name variants.
-- [[The First Open Table]] supplies the summer routine rather than reopening any prior judgement.
-
-## Ten Embedded Opportunities
-
-The following authored placements are the complete embedded set; ambient barks and repeatable incidents do not add to the count:
-
-1. casualty and property safeguards in [[Roads Worth Saving]];
-2. the breach casualty lane in [[The City in Siege]];
-3. reclaimed patient routes in [[The Land Reclaimed]];
-4. service-injury responsibility in [[A Debt That Grew Wounded]];
-5. practical heat planning in [[Mercy in Winter]];
-6. mixed refuge obligations in [[The Four-Hearth Winter]];
-7. Pikehook's snare-line exploration;
-8. the West Refuge underways route;
-9. the Blackjack Yard open-store drill;
-10. **The Spare Blanket**, the authored Things Not Mine incident.
-
-Each placement changes route, trust, information, injury risk, or finale preparation. None allows another companion to confess or choose a reserve for Bernard.
 
 ## Campaign Scenes
 
@@ -494,11 +467,11 @@ Each placement changes route, trust, information, injury risk, or finale prepara
 
 ### Resolved, Long Watch
 
-> **Bernard:** They entered my sword in the rule as a freely given field tool. Three witnesses and a very offended armourer.
+> **Bernard:** They issued me another sword. It is older than the first and fits worse.
 >
-> **Player response:** Still yours?
+> **Player response:** Then it is truly yours.
 >
-> **Bernard:** Mine, openly. Poverty is not pretending a gift never happened.
+> **Bernard:** Issued to me. Let us not lose our progress in the sunshine.
 
 ### Compromised
 
@@ -519,7 +492,6 @@ Each placement changes route, trust, information, injury risk, or finale prepara
 ## Navigation
 
 - [[Bernard Valeon]]
-- [[Bernard Companion Campaign]]
 - [[Bernard Field Familiarity and Relationships]]
 - [[Bernard Compulsion and Accountability System]]
 - [[Bernard Long Watch Greatsword Package]]

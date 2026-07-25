@@ -22,7 +22,7 @@ relationship_theme: ""
 
 ## Core Concept
 
-Reader Oda Reed-Way is a forty-year-old Chapel-Folk household reader, winter-school teacher, and refuge-route instructor attached to Bent Oak Chapel in Longlake Ward. She organizes [[Little Hands, Long Road]].
+Reader Oda Reed-Way is a forty-year-old Chapel-Folk household reader, winter-school teacher, and refuge-route instructor attached to Bent Oak Chapel in Longlake Ward. She organizes the recovery in [[The Wagon in the Reeds]] and the journey in [[Little Hands, Long Road]].
 
 ## Office and Authority
 
@@ -42,6 +42,8 @@ All seven travel as temporary quest NPCs outside the companion limit. They remai
 
 ## Navigation
 
+- [[Bernard Companion Campaign]]
+- [[The Wagon in the Reeds]]
 - [[Little Hands, Long Road]]
 - [[Bent-Oak Refuge]]
 - [[Chapel-Folk]]

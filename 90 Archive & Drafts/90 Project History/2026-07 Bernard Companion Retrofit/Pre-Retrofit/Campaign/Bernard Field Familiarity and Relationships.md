@@ -1,7 +1,7 @@
 ---
 type: mechanic
-status: canon
-canon_level: local
+status: archived
+canon_level: obsolete
 visibility: author-only
 era: ["Present Day"]
 region: ["Grenzburg"]
@@ -15,11 +15,14 @@ tags: [game-ready]
 companion_id: "CMP-05"
 relationship_theme: "receiving without taking"
 relationship_perks: ["Kept in the Light", "Last Watch"]
-architecture_status: migrated
+archive_reason: "Snapshot before Bernard's ten-piece companion campaign retrofit"
+archived_from: "02 Playable Settings/Grenzburg/50 Campaign/Companions/CMP-05 Bernard Valeon/Bernard Field Familiarity and Relationships.md"
+archived_on: 2026-07-24
+superseded_by: "[[Bernard Field Familiarity and Relationships]]"
 ---
 # Bernard Field Familiarity and Relationships
 
-This note controls Bernard's approval, authored familiarity, relationship commitment, departure, and permanent rewards. [[Bernard Companion Campaign]] controls formal-piece release, preparation, autonomous progression, and changed re-entry. Shared party and duo rules come from [[Companion Field Familiarity and Duo Quest Standard]].
+This note controls Bernard's approval, authored familiarity, personal-quest release, relationship commitment, departure, and permanent rewards. Shared party and duo rules come from [[Companion Field Familiarity and Duo Quest Standard]].
 
 ## Recruitment and Home Base
 
@@ -50,29 +53,54 @@ He responds negatively to:
 - expecting a victim to forgive because the offender now feels sincere;
 - rules that preserve an institution by quietly spending a person.
 
-## Campaign Release and Readiness
+## Field Familiarity Gates
 
-### Introduction
+### Quest One: Little Things Missing
 
-[[Little Things Missing]] unlocks after one distinct meaningful outing involving authored care, a consequential property decision, or dangerous field success with Bernard active. Idling, repeated jobs, and recycled encounters do not count. Approval need not already be Open; the case is how the player first learns what Bernard has done.
+Required before the offer:
 
-### Act I
+- `bernard_care_observed`: witness Bernard perform an authored rescue, treatment, or shelter intervention;
+- `bernard_property_choice_observed`: make one meaningful decision involving return, stores, theft, salvage, or rightful possession;
+- `bernard_shared_danger_observed`: survive a dangerous field sequence with Bernard active;
+- approval is **Open**, or a named Strained conflict has been repaired.
 
-[[The Wagon in the Reeds]] follows the introduction as a normal-party operation. [[Little Hands, Long Road]] becomes joinable when two of its five Act I assets are held. Commitment to [[The Last Convoy]] resolves the finale autonomously if the player does not join it. [[A Blade Freely Given]] remains a complete friendship episode for every player who continues on speaking terms with Bernard.
+At the next hub Bernard asks for a private conversation after a kitchen helper is accused of taking objects he recognizes from his own hiding places.
 
-### Act II
+### Quest Two: Little Hands, Long Road
 
-[[Four Fires]] opens during the winter siege. [[Embers Without Excuse]] becomes joinable when two of its five Act II assets are held. The quest itself is not relationship-gated, but commitment requires **Trusted** approval and personal completion.
+Required before the offer:
 
-Commitment to [[Ghor at the Gate]] resolves the chapter autonomously. The transition docket states plainly that missing the finale permanently forfeits the player [[Paladin]] unlock, romance, sworn bond, and the finale's player rewards for that playthrough. **Embers After Snow** permits changed restitution but cannot recreate those rewards.
+- [[Little Things Missing]] completed;
+- `bernard_child_or_refuge_observed`: witness a named child, refugee, fosterage, or shelter decision;
+- `bernard_food_choice_observed`: witness a ration, feast, hunger, or supply decision;
+- `bernard_self_report_observed`: Bernard has completed one authored self-report or player-interrupted compulsion incident;
+- Open Autumn or the transformed Early Winter window.
 
-### Act III and Summer
+Reader [[Oda Reed-Way]] sends the invitation to the next valid hub. The quest does not begin automatically while another operation is active.
 
-[[Beds Before Banners]] prepares West Refuge Hall. [[The Open Hospice]] becomes joinable when two of its five Act III assets are held and remains open until commitment to [[The Deep Muster Main Quest|The Deep Muster]]. No relationship is required: a trusted friend may reach Bernard's strongest moral resolution and every non-romantic destination.
+### Quest Three: Embers Without Excuse
 
-[[Enough for Two]] is an additional episode for a committed romance or sworn bond. [[The First Open Table]] reflects the settled or autonomous result in summer and never reopens the hospice judgement.
+Required before the offer:
 
-Only [[Little Hands, Long Road]], [[Embers Without Excuse]], and [[The Open Hospice]] are fixed player-plus-Bernard duo quests. Operations retain the normal field party; friendship and relationship episodes are private one-on-one activities.
+- [[Little Hands, Long Road]] completed;
+- `bernard_winter_care_observed`: Bernard has witnessed the winter camps, Mercy Hospital pressure, or the City in Siege casualty work;
+- `bernard_authority_choice_observed`: witness one meaningful Church, ducal, Bank, Folk, or Blackjack decision about care or responsibility;
+- one compulsion incident has been returned, compensated, confessed, or deliberately concealed;
+- approval is **Open** or **Trusted**;
+- Deep Winter or its transformed Early Spring window.
+
+Watch-Captain [[Matej Solin]] requests Bernard's help with an incoming Long Watch mission. The quest itself is never relationship-gated.
+
+### Quest Four: The Open Hospice
+
+Required before the offer:
+
+- [[Embers Without Excuse]] completed;
+- `bernard_reclamation_observed`: witness a spring reclamation, dead-march consequence, or return of displaced people;
+- no unresolved departure confrontation;
+- Early Spring, Open Spring, or Muster Crisis.
+
+No romance or sworn bond is required. A trusted friend may complete Bernard's strongest moral resolution and choose either non-romantic destination.
 
 ## Compulsion Interaction
 
@@ -86,16 +114,6 @@ Only [[Little Hands, Long Road]], [[Embers Without Excuse]], and [[The Open Hosp
 
 The player may choose stricter supervision, but permanent surveillance cannot produce Bernard's resolved state. He must eventually name and act upon the urge himself.
 
-## Direction and Approval
-
-`bernard_direction` is `truthful`, `uncertain`, or `withholding` and records named conduct across the campaign. It is not a hidden approval score:
-
-- **truthful:** he reports urges, declares reserves, accepts gifts openly, and repairs harm;
-- **uncertain:** he provides real service but relies on external control or admits concealment only after pressure;
-- **withholding:** he hides stores, shifts blame, or uses institutional or sacred authority as protection from consequence.
-
-Affection cannot buy a truthful outcome. Equally, a stern but proportionate demand for restitution does not by itself make Bernard Strained.
-
 ## Conflict and Departure
 
 A major conflict begins if the player:
@@ -107,7 +125,7 @@ A major conflict begins if the player:
 - pressures [[Petra Ilev]] to forgive him;
 - encourages a secret cache during [[The Open Hospice]].
 
-Bernard names the conflict at the next valid hub. Repair requires return, compensation, protected testimony, reopening the inventory, or repudiating the sacred claim. Refusing repair marks him **Strained**. Reaffirming the wrong during [[The Open Hospice]] creates the broken/departed outcome.
+Bernard names the conflict at the next valid hub. Repair requires return, compensation, protected testimony, reopening the inventory, or repudiating the sacred claim. Refusing repair marks him **Strained**. Reaffirming the wrong during quest four creates the broken/departed outcome.
 
 ## Relationship Rhythm
 
@@ -115,10 +133,10 @@ Bernard is heterosexual. A female player may pursue romance; a male player may p
 
 Two pre-commitment scenes are required:
 
-1. **Enough for Tonight:** after [[Little Things Missing]], Bernard admits that a full pantry can still feel one meal from empty. The player may listen, establish a boundary, or close romantic or bond interest without closing friendship.
-2. **The Child's Portion:** at the end of [[A Blade Freely Given]], Bernard discusses Mika's hidden food, accepting the player's unconditional gift, and the difference between protecting someone from shame and hiding what happened. Romance interest emphasizes being cared for without becoming dependent; bond interest emphasizes truthful witness.
+1. **Enough for Tonight:** after quest one, Bernard admits that a full pantry can still feel one meal from empty. The player may listen, establish a boundary, or close romantic or bond interest without closing friendship.
+2. **The Child's Portion:** after quest two, Bernard discusses Mika's hidden food and the difference between protecting a child from shame and hiding what happened. Romance interest emphasizes being cared for without becoming dependent; bond interest emphasizes truthful witness.
 
-## Commitment After Embers Without Excuse
+## Commitment After Quest Three
 
 Commitment requires:
 
@@ -126,7 +144,6 @@ Commitment requires:
 - both earlier scenes completed without a closed refusal;
 - no active major conflict;
 - the relevant global relationship slot remains available.
-- the player personally completed [[Embers Without Excuse]] before its Act II deadline.
 
 ### Romance
 
@@ -152,13 +169,9 @@ The effect represents learned courage in receiving help. It is not an automatic 
 
 ### Shared Ember
 
-Commitment after [[Embers Without Excuse]] unlocks this Bernard-only duo move. Bernard braces his greatsword, names the player, and steadies both characters through the prayer rope. It clears ordinary fear, creates a brief anti-stagger interval, and lets the player choose retreat, rescue, or renewed attack.
+Commitment after quest three unlocks this Bernard-only duo move. Bernard braces his greatsword, names the player, and steadies both characters through the prayer rope. It clears ordinary fear, creates a brief anti-stagger interval, and lets the player choose retreat, rescue, or renewed attack.
 
 It cannot erase boss mechanics, restore broken moral coherence, or substitute for medicine.
-
-### Shared Ember: Warmth Returned
-
-[[Enough for Two]] upgrades the move. When either partner receives timely allied healing or protection, the move shares bounded recovery and Stamina between them while preserving its fear-clear and anti-stagger interval. It remains a mutual survival tool rather than a cure or automatic miracle.
 
 ## Sworn-Bond Reward
 
@@ -170,11 +183,7 @@ Once per major encounter, the first ordinary hit received while the player perfo
 
 ### No One Alone
 
-Commitment after [[Embers Without Excuse]] unlocks this Bernard-only duo move. Bernard crosses to a downed, grappled, or endangered target, interposes with the greatsword, and opens a short safe rescue window. Enemy area attacks, prepared counters, and boss phases may still require movement or interruption.
-
-### No One Alone: Two Bearers
-
-[[Enough for Two]] upgrades the move. A rescue, carry, or revival survives one ordinary interruption and grants both characters brief Staying Power when the protected action completes. Damage, boss mechanics, and total defeat remain possible.
+Commitment after quest three unlocks this Bernard-only duo move. Bernard crosses to a downed, grappled, or endangered target, interposes with the greatsword, and opens a short safe rescue window. Enemy area attacks, prepared counters, and boss phases may still require movement or interruption.
 
 ## Future Paths
 
@@ -194,19 +203,16 @@ A committed romance may select a travelling hospitaller future. Bernard remains 
 
 ## Persistence
 
-Relationship perks occupy neither vocation augment nor equipment slots. Moral outcome and physical fate are recorded separately: a resolved or compromised path still grants its learned permanent perk if Bernard dies through the player's chosen sacrifice. Duo moves, field interventions, and Last Ember conversations require him to be present.
+Relationship perks occupy neither vocation augment nor equipment slots. A learned permanent perk remains if Bernard later departs or dies through a chosen sacrifice. Duo moves, field interventions, and Last Ember conversations require him to be present.
 
 Neither relationship cures his compulsion, guarantees agreement, prevents a warned departure, or becomes future-setting canon.
 
 ## Navigation
 
 - [[Bernard Valeon]]
-- [[Bernard Companion Campaign]]
 - [[Bernard Compulsion and Accountability System]]
 - [[Bernard Long Watch Greatsword Package]]
 - [[Bernard Banter and Reactivity]]
-- [[A Blade Freely Given]]
-- [[Enough for Two]]
 - [[Companion Field Familiarity and Duo Quest Standard]]
 - [[Narrative State Register]]
 - [[Companions MOC]]

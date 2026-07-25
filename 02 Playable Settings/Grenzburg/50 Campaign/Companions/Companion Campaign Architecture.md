@@ -9,7 +9,6 @@ culture: []
 related_factions: ["Blackjack Corps"]
 appears_in: ["Grenzburg"]
 needs:
-  - retrofit Bernard after this control pass
   - deep-block the remaining six companions through individual approval passes
 aliases: ["Companion Personal Campaign Standard"]
 tags: [game-ready]
@@ -123,7 +122,7 @@ The expanded companion budget is added on top of the existing faction, marquee, 
 
 ## Migration
 
-[[Companion Campaign Expansion Register]] controls the 80 formal slots. [[Elara Companion Campaign]] is the first completed migration. Existing notes for the other seven retain their current prose until an individual retrofit or deep block and carry `architecture_status: pending-migration` during that interval.
+[[Companion Campaign Expansion Register]] controls the 80 formal slots. [[Elara Companion Campaign]] and [[Bernard Companion Campaign]] are completed migrations. Existing notes for the other six retain their current prose until an individual retrofit or deep block and carry `architecture_status: pending-migration` during that interval.
 
 ## Navigation
 
@@ -132,5 +131,7 @@ The expanded companion budget is added on top of the existing faction, marquee, 
 - [[Companion Field Familiarity and Duo Quest Standard]]
 - [[Companion Campaign Expansion Register]]
 - [[Companion Reactive Scene Register]]
+- [[Elara Companion Campaign]]
+- [[Bernard Companion Campaign]]
 - [[Companions MOC]]
 - [[Grenzburg RPG Experience Constitution]]

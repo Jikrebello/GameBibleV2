@@ -1,7 +1,7 @@
 ---
 type: mechanic
-status: canon
-canon_level: local
+status: archived
+canon_level: obsolete
 visibility: author-only
 era: ["Present Day"]
 region: ["Grenzburg", "Eclessia", "Thalmyria", "Kedrava"]
@@ -17,13 +17,16 @@ vocation_tier: advanced
 native_weapons: [greatsword, maul, poleaxe]
 native_armour: [heavy]
 magic_source: white-flame
-unlock_method: "Personally complete Bernard Valeon's Act II finale - Embers Without Excuse"
+unlock_method: "Bernard Valeon Act II finale - Embers Without Excuse"
 account_access: account-wide-after-quest
 training_regions: ["Grenzburg", "Cathedral Close", "Thalmyria"]
 balance_status: qualitative
 originalization_status: review
-architecture_status: migrated
 tags: []
+archive_reason: "Snapshot before Bernard's ten-piece companion campaign retrofit"
+archived_from: "02 Playable Settings/Grenzburg/10 Production Bible/20 Player Systems/40 Advanced and Custom Vocations/Paladin.md"
+archived_on: 2026-07-24
+superseded_by: "[[Paladin]]"
 ---
 # Paladin
 
@@ -37,11 +40,11 @@ It is not an upgraded Fighter. The Fighter controls a line through trained arms 
 
 `Paladin` is a gameplay umbrella for several Eclessian, Thalmyric, and marcher traditions of armed White-Flame service. It does not designate one universal knightly order, theology, or Church office. Western orders commonly frame their discipline through sworn chivalric service and relic custody. Thalmyric orders more often join ascetic obedience, hospital service, prayer ropes, imperial memory, and the suffering witness of holy fire.
 
-[[Bernard Valeon]] teaches the player the [[Bernard Long Watch Greatsword Package|Long Watch field form]] during a personally completed [[Embers Without Excuse]], after the player has confronted the difference between holy purpose, public office, and self-excusing piety. Bernard is a lay knight, not an ordained priest. His prayer rope focuses attention and freely offered prayer; it does not store or command the White Flame.
+[[Bernard Valeon]] teaches the player the [[Bernard Long Watch Greatsword Package|Long Watch field form]] during [[Embers Without Excuse]], after the player has confronted the difference between holy purpose, public office, and self-excusing piety. Bernard is a lay knight, not an ordained priest. His prayer rope focuses attention and freely offered prayer; it does not store or command the White Flame.
 
 [[The Open Hospice]] supplies the vocation's **Last Ember** capstone and the Long Watch custom blueprint. Neither unlock requires the player to make the Church politically supreme, and neither establishes that private feeling is always purer than institution.
 
-The first account unlock must occur through the player's direct participation in Bernard's story. If [[Embers Without Excuse]] resolves autonomously, Bernard may still kindle genuine White Flame, but neither the current-playthrough nor account unlock occurs. **Embers After Snow** cannot restore that missed reward. After the first personal completion, Paladin may be selected at supported vocation-change points in future new games as an earned metagame option; the new campaign does not pretend Bernard has already taught that protagonist in its fiction.
+The first account unlock must occur through Bernard's story. After that first completion, Paladin may be selected at supported vocation-change points in future new games as an earned metagame option; the new campaign does not pretend Bernard has already taught that protagonist in its fiction.
 
 ## Native Kit
 
@@ -93,10 +96,10 @@ The [[Virtue and Sin Tendencies]] system supplies evidence about repeated conduc
 
 ## Mastery Shape
 
-- **Unlock:** personal completion of [[Embers Without Excuse]] grants the physical and sacred opening kit.
+- **Unlock:** [[Embers Without Excuse]] grants the physical and sacred opening kit.
 - **Practiced:** interposition, heavy-weapon distinctions, protective challenges, and reliable anti-corruption work.
 - **Veteran:** burden-bearing, stronger sanctification, group protection, and techniques shaped by the player's vows.
-- **Capstone:** eligible personal completion of [[The Open Hospice]] resolves the vocation's master proof and grants **Last Ember** according to Bernard's outcome.
+- **Capstone:** [[The Open Hospice]] resolves the vocation's master proof and grants **Last Ember** according to Bernard's outcome.
 
 ## Training and Reputation
 
@@ -119,7 +122,6 @@ Once unlocked and mastered, Paladin contributes great weapons, heavy armour, int
 ## Navigation
 
 - [[Bernard Valeon]]
-- [[Bernard Companion Campaign]]
 - [[Thalmyric Military Orders#Order of the Long Watch|Order of the Long Watch]]
 - [[Bernard Long Watch Greatsword Package]]
 - [[Embers Without Excuse]]

@@ -46,9 +46,12 @@ No social check compels forgiveness. Rescue improves trust because it is current
 
 During [[Embers Without Excuse]], Petra helps maintain the isolated infirmary and identifies the difference between a declared reserve and a secret cache. Her survival is not required for the Paladin unlock because her written account and Matej's report preserve the facts. Her death or serious injury, however, closes personal forgiveness and makes Bernard's reckoning materially harsher.
 
+On Bernard's default autonomous route, Petra accepts restitution but withholds forgiveness and renewed friendship after learning that he concealed one salve packet until the crisis passed. Strong preparation can improve the mission without assigning her a kinder response. **Embers After Snow** permits later restitution; it does not force contact or recreate the player's missed relationship and vocation unlocks.
+
 ## Navigation
 
 - [[Bernard Valeon]]
+- [[Bernard Companion Campaign]]
 - [[Matej Solin]]
 - [[The Froststep Evacuation]]
 - [[Embers Without Excuse]]

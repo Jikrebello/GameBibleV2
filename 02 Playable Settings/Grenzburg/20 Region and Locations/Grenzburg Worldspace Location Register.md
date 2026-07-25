@@ -182,6 +182,11 @@ Medium-site names are canon. [[Seven Mounds]] is claimed by [[A House Fed by Bon
 | GR-7-L6 | Snowblind Rise | whiteout navigation landmark | yes |
 | GR-7-L7 | Black-Ice Ford | dangerous seasonal crossing | yes |
 
+## Bernard Embedded Care Routes
+
+- **Pikehook snare line (BE-E07):** one authored exploration of Pikehook Marsh can identify the abandoned hunting line, the wounded bear's likely movement, and a safe child-withdrawal route. Recording and marking it sets `bernard_pikehook_snare_line_mapped`; ordinary renewable search jobs do not repeat the asset.
+- **West Refuge underways (BE-E08):** one authored exploration from West Refuge Hall into the city underways can clear and mark a nonpublic patient route. Completing it without handing the route to an exclusive underworld claimant sets `bernard_underways_evacuation_route`.
+
 ## Content Placement Rules
 
 1. A critical-path chapter may claim a reserved site, but cannot silently move it to another region.

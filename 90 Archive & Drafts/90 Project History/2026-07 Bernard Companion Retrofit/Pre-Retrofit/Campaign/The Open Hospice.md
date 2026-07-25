@@ -1,7 +1,7 @@
 ---
 type: quest
-status: canon
-canon_level: local
+status: archived
+canon_level: obsolete
 visibility: author-only
 era: ["Present Day"]
 region: ["Grenzburg", "Cathedral Close", "Lantern Ward", "Outer Winter Camps"]
@@ -15,15 +15,14 @@ act: act-3
 availability_window: ["Early Spring", "Open Spring", "Muster Crisis"]
 repeatability: one-shot
 cutoff_result: transforms
-world_state_outputs: ["bernard_act3_chapter_resolved", "bernard_act3_result", "bernard_act3_finale_played", "bernard_direction", "bernard_arc_outcome", "bernard_sacrifice_state", "bernard_future_path", "open_lamp_hospice_state", "paladin_capstone_unlocked", "long_watch_field_form_blueprint", "bernard_relationship_perk", "bernard_owned_greatsword_name", "bernard_summer_destination"]
-reward_unlocks: ["Last Ember", "Long Watch Field Form", "Kept in the Light", "Last Watch", "Open Hand"]
+world_state_outputs: ["bernard_arc_outcome", "bernard_future_path", "open_lamp_hospice_state", "paladin_capstone_unlocked", "long_watch_field_form_blueprint", "bernard_summer_destination"]
 required_locations: ["Mercy Hospital", "Paupers' Cloister", "West Refuge Hall", "Outer Winter Camps", "Open Lamp Hospice"]
 blocking_status: blocked
-architecture_status: migrated
+architecture_status: pending-migration
 companion_content_role: act-finale
 companion_campaign_stage: act-3
 quest_owner: "Bernard Valeon"
-quest_sequence: 9
+quest_sequence: 4
 companion_id: "CMP-05"
 faction_line: ""
 faction_branch: ""
@@ -32,29 +31,23 @@ main_sequence: 0
 story_gate: mastery
 estimated_hours: 2.5
 gameplay_pillars: [relief-logistics, route-securing, triage, defence, moral-resolution]
-required_states: ["bernard_act2_chapter_resolved", "bernard_act3_readiness_viable", "unending_muster_active"]
-optional_state_inputs: ["bernard_west_refuge_neutral_claim", "bernard_reclaimed_patient_routes", "bernard_mixed_carer_pledge", "bernard_underways_evacuation_route", "bernard_named_store_custodians", "bernard_table_received", "petra_ilev_response", "long_watch_return_open", "bernard_accountability_plan", "church_resolution", "blackjack_resolution", "folk_compact_state", "lantern_ward_condition"]
-field_experience_gate: []
+required_states: ["embers_without_excuse_complete", "unending_muster_active"]
+optional_state_inputs: ["petra_ilev_response", "long_watch_return_open", "bernard_accountability_plan", "church_resolution", "blackjack_resolution", "folk_compact_state", "lantern_ward_condition"]
+field_experience_gate: ["bernard_reclamation_observed"]
 companion_required: "Bernard Valeon"
 duo_quest: true
 pause_points: ["Hospice Site Declared", "Patients Sheltered"]
-relationship_gate: "No relationship required; relationship state changes scenes and rewards, not moral resolution"
-preparation_inputs: ["bernard_west_refuge_neutral_claim", "bernard_reclaimed_patient_routes", "bernard_mixed_carer_pledge", "bernard_underways_evacuation_route", "bernard_named_store_custodians"]
-preparation_threshold: "2 of 5"
-autonomous_deadline: "The Deep Muster"
-autonomous_resolution: "Brina moves Bernard's viable care service into the Blackjack infirmary under open inventory control; Open Lamp remains unrealized and Bernard remains uncertain"
-changed_reentry: "The First Open Table"
-ensemble_inputs: ["Svala Last-Beacon", "Ilyana Veshkar", "Zafir ibn Samad"]
-identity_hooks: []
-encounter_deck: []
-persistence_scope: regional-milestone
-postgame_season: ""
+relationship_gate: "Quest three complete; relationship state changes scenes, not access"
+archive_reason: "Snapshot before Bernard's ten-piece companion campaign retrofit"
+archived_from: "02 Playable Settings/Grenzburg/50 Campaign/Companions/CMP-05 Bernard Valeon/The Open Hospice.md"
+archived_on: 2026-07-24
+superseded_by: "[[The Open Hospice]]"
 ---
 # The Open Hospice
 
 ## Quest Function
 
-Bernard's Act III finale asks whether his new accountability survives a crisis large enough to make concealment feel prudent again. The player and Bernard establish a mixed hospice during the Unending Muster, secure its supply routes, maintain a witnessed inventory, move patients, and hold it against residue soldiers.
+Bernard's final personal adventure asks whether his new accountability survives a crisis large enough to make concealment feel prudent again. The player and Bernard establish a mixed hospice during the Unending Muster, secure its supply routes, maintain a witnessed inventory, move patients, and hold it against residue soldiers.
 
 The moral outcome is separate from Bernard's destination. A resolved Bernard may return to the [[Thalmyric Military Orders#Order of the Long Watch|Order of the Long Watch]], remain to establish [[Open Lamp Hospice]], or travel as a hospitaller beside a committed female romantic partner. None of those destinations alone proves his reform.
 
@@ -62,23 +55,11 @@ The closed quest uses the player and Bernard only. Carers, patients, porters, gu
 
 ## Unlock and Staging
 
-Once any two Act III assets in [[Bernard Companion Campaign]] are secured, Mercy Hospital receives notice that the dead march has cut two casualty routes and will pass within reach of the outer camps. Its beds cannot absorb soldiers, debtors, displaced Folk, captured Grobi dependents, and civilians at once.
+The quest unlocks after [[Embers Without Excuse]] and one Act III observation involving reclamation or the Muster. Mercy Hospital receives notice that the dead march has cut two casualty routes and will pass within reach of the outer camps. Its beds cannot absorb soldiers, debtors, displaced Folk, captured Grobi dependents, and civilians at once.
 
 Bernard proposes converting the abandoned West Refuge Hall into a neutral lay hospice. The hall's old lamp sign gives the future institution its name. The site is defensible and near the patients, but its roof, water line, and eastern lane require immediate work.
 
-The tracked docket displays Viable, Prepared, or Strongly Prepared readiness. Accepting the departure warning dismisses the other active companions. It states that the Deep Muster commitment will resolve Bernard's campaign autonomously, transform unresolved patients, and close the ordinary construction window.
-
-## Preparation in Play
-
-| Asset | Concrete advantage |
-|---|---|
-| `bernard_west_refuge_neutral_claim` | secures lawful mixed-patient use before sponsors arrive |
-| `bernard_reclaimed_patient_routes` | preserves one spring casualty or return corridor |
-| `bernard_mixed_carer_pledge` | provides carers already committed to neutral admission |
-| `bernard_underways_evacuation_route` | opens a nonpublic withdrawal route without requiring underworld allegiance |
-| `bernard_named_store_custodians` | supplies independent witnesses for every category of stock |
-
-Two assets permit the hospice attempt. Three make every principal patient, route, and store objective achievable through strong play. Four or five protect one material objective from a single failure. `bernard_table_received`, earned through [[Enough for Two]], additionally prevents one exhaustion-driven physical failure; it cannot declare a reserve, choose a patient, confess, or determine Bernard's outcome.
+Accepting the departure warning dismisses the other active companions. It states that the Deep Muster commitment will transform unresolved patients and close the ordinary construction window.
 
 ## Admission Rule
 
@@ -270,22 +251,15 @@ If no destination is chosen or conditions fail, Bernard completes his existing s
 - If the hall falls, a smaller field hospice survives at the Paupers' Cloister.
 - If the rank tablet is not destroyed, the duo can evacuate under repeated assaults.
 - If sponsors withdraw, ordinary carers preserve a reduced service.
-- If the quest reaches the Deep Muster cutoff before commitment, Bernard follows the autonomous route recorded below.
+- If the quest reaches the Deep Muster cutoff, Bernard establishes a compromised field hospice without choosing a long-term destination.
 
 ## Outputs
 
-- `bernard_act3_chapter_resolved`: played or autonomous;
-- `bernard_act3_result`: resolved, compromised, broken, or departed;
-- `bernard_act3_finale_played`: true or false;
-- `bernard_direction`: truthful, uncertain, or withholding;
-- `bernard_arc_outcome`: resolved, compromised, broken, or departed;
-- `bernard_sacrifice_state`: none or chosen;
+- `bernard_arc_outcome`: resolved, compromised, broken, departed, or sacrificed;
 - `bernard_future_path`: long-watch, open-lamp, travelling-hospitaller, blackjack-service, or none;
 - `open_lamp_hospice_state`: established, field-only, sponsor-controlled, lost, or unrealized;
 - `paladin_capstone_unlocked`: full, constrained, or unavailable;
 - `long_watch_field_form_blueprint`: unlocked or unavailable;
-- `bernard_relationship_perk`: kept-in-the-light, last-watch, or none;
-- `bernard_owned_greatsword_name`: open-hand or unnamed;
 - `bernard_summer_destination`: order, Grenzburg, road, Blackjack Yard, memorial, or absent.
 
 ## Relationship Payoff
@@ -293,26 +267,7 @@ If no destination is chosen or conditions fail, Bernard completes his existing s
 - A romantic partner helps Bernard pack only what has been issued or freely given. The prayer-rope bead remains his chosen symbol of receiving.
 - A sworn brother performs the final inventory beside him and establishes a standing rescue rule: neither leaves a living person alone to protect property.
 - Friendship receives the same destination choices except the travelling romantic path.
-- A resolved or compromised romantic path grants the permanent non-slot perk **Kept in the Light**. A resolved or compromised sworn bond grants **Last Watch**.
-- [[Enough for Two]] upgrades **Shared Ember** to **Shared Ember: Warmth Returned** or **No One Alone** to **No One Alone: Two Bearers** before this finale; the final inventory records the upgrade without making it a moral requirement.
-- A chosen sacrifice records Bernard's physical fate separately from his moral outcome. If that outcome is resolved or compromised, the appropriate permanent relationship perk is still learned; duo moves require Bernard in the active party.
-
-## Autonomous Resolution
-
-If the player commits to [[The Deep Muster Main Quest|The Deep Muster]] without joining this finale, Brina moves the viable care service into the Blackjack infirmary and controls its open inventory:
-
-- patients receive useful care under ordinary company limits;
-- [[Open Lamp Hospice]] remains unrealized;
-- Bernard's future path is continued Blackjack service;
-- his arc is compromised and his direction remains `uncertain`;
-- he has not developed independent accountability;
-- no capstone, blueprint, relationship perk, or sword-name reward is granted.
-
-Truthful influence and strong preparation can establish Open Lamp autonomously with permanent material losses. Withholding can leave the hall sponsor-controlled, lost, or followed by a warned departure. No autonomous route selects Bernard's sacrifice, and [[The First Open Table]] reflects rather than reopens the result.
-
-## The Sword Named
-
-On a player-completed resolved outcome in which Bernard survives, he names the greatsword freely given in [[A Blade Freely Given]] **Open Hand**. Compromised, broken, departed, autonomous, and chosen-sacrifice outcomes leave it unnamed without revoking his ownership.
+- Permanent relationship perks remain learned after departure or sacrifice. Duo moves require Bernard in the active party.
 
 ## Rewards and Unlocks
 
@@ -322,8 +277,6 @@ On a player-completed resolved outcome in which Bernard survives, he names the g
 - establishes Open Lamp as a summer service and dialogue hub when founded;
 - resolves Bernard's relationship, institution, and seasonal future without fixing a setting-canon result.
 
-These progression rewards require personal completion. A missed Act III finale fixes the autonomous settlement and grants none of them.
-
 ## Summer Reactivity
 
 The summer game reflects patients saved, sponsor terms, the selected destination, Petra's response, and whether the prayer rope bears the freely given bead. Bernard never describes the White Flame as proof that Froststep no longer matters.
@@ -331,10 +284,7 @@ The summer game reflects patients saved, sponsor terms, the selected destination
 ## Navigation
 
 - [[Bernard Valeon]]
-- [[Bernard Companion Campaign]]
 - [[Open Lamp Hospice]]
-- [[Beds Before Banners]]
-- [[Enough for Two]]
 - [[Embers Without Excuse]]
 - [[The Froststep Evacuation]]
 - [[Bernard Field Familiarity and Relationships]]
@@ -342,7 +292,6 @@ The summer game reflects patients saved, sponsor terms, the selected destination
 - [[Bernard Compulsion and Accountability System]]
 - [[Corpse Residue]]
 - [[The Unending Muster]]
-- [[The First Open Table]]
 - [[Companion Field Familiarity and Duo Quest Standard]]
 - [[Narrative State Register]]
 - [[Companions MOC]]

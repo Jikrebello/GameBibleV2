@@ -1,7 +1,7 @@
 ---
 type: index
-status: canon
-canon_level: local
+status: archived
+canon_level: obsolete
 visibility: author-only
 era: ["Present Day"]
 region: ["Grenzburg"]
@@ -11,6 +11,10 @@ appears_in: ["Grenzburg"]
 needs: []
 aliases: ["Grenzburg Companions MOC"]
 tags: [game-ready]
+archive_reason: "Snapshot before Bernard's ten-piece companion campaign retrofit"
+archived_from: "02 Playable Settings/Grenzburg/50 Campaign/Companions/Companions MOC.md"
+archived_on: 2026-07-24
+superseded_by: "[[Companions MOC]]"
 ---
 # Grenzburg Companions MOC
 
@@ -41,11 +45,11 @@ This is the production doorway for eight outsider-debtor companions, eighty form
 | Summer coda | 1 | 8 |
 | **Formal pieces** | **10** | **80** |
 
-Forty-four formal pieces now exist: Elara's and Bernard's complete ten-piece campaigns plus the twenty-four legacy sources for the other six companions. Thirty-six untitled slots remain reserved without creating empty notes. See [[Companion Campaign Expansion Register]].
+Thirty-eight formal pieces now exist: Elara's complete ten-piece campaign and the twenty-eight legacy sources for the other seven companions. Forty-two untitled slots remain reserved without creating empty notes. See [[Companion Campaign Expansion Register]].
 
 ## Existing Source Register
 
-Elara's and Bernard's ten pieces carry `architecture_status: migrated`. The remaining sources carry `pending-migration`: their existing Quest 1 becomes the introductory case and Quests 2-4 become the three act finales during that companion's retrofit.
+Elara's ten pieces carry `architecture_status: migrated`. The remaining sources carry `pending-migration`: their existing Quest 1 becomes the introductory case and Quests 2-4 become the three act finales during that companion's retrofit.
 
 | ID | Quest | Owner | Act | Window | Status |
 |---|---|---|---|---|---|
@@ -72,15 +76,9 @@ Elara's and Bernard's ten pieces carry `architecture_status: migrated`. The rema
 | CMP-04-3 | [[The Price of the Bow Tower]] | [[Ashira bath Melan]] | act-2 | Deep Winter, Early Spring | outlined |
 | CMP-04-4 | [[No Human Shadow]] | [[Ashira bath Melan]] | act-3 | Early Spring, Muster Crisis | outlined |
 | CMP-05-1 | [[Little Things Missing]] | [[Bernard Valeon]] | act-1 | Early Autumn, Open Autumn | blocked |
-| CMP-05-2 | [[The Wagon in the Reeds]] | [[Bernard Valeon]] | act-1 | Open Autumn | blocked |
-| CMP-05-3 | [[Little Hands, Long Road]] | [[Bernard Valeon]] | act-1 | Open Autumn, Early Winter | blocked |
-| CMP-05-4 | [[A Blade Freely Given]] | [[Bernard Valeon]] | act-1 | Open Autumn, Early Winter | blocked |
-| CMP-05-5 | [[Four Fires]] | [[Bernard Valeon]] | act-2 | Early Winter, Deep Winter | blocked |
-| CMP-05-6 | [[Embers Without Excuse]] | [[Bernard Valeon]] | act-2 | Deep Winter, Early Spring | blocked |
-| CMP-05-7 | [[Enough for Two]] | [[Bernard Valeon]] | act-2 | Deep Winter, Early Spring | blocked |
-| CMP-05-8 | [[Beds Before Banners]] | [[Bernard Valeon]] | act-3 | Early Spring, Open Spring | blocked |
-| CMP-05-9 | [[The Open Hospice]] | [[Bernard Valeon]] | act-3 | Early Spring, Open Spring, Muster Crisis | blocked |
-| CMP-05-10 | [[The First Open Table]] | [[Bernard Valeon]] | summer | Playable Summer | blocked |
+| CMP-05-2 | [[Little Hands, Long Road]] | [[Bernard Valeon]] | act-1 | Open Autumn, Early Winter | blocked |
+| CMP-05-3 | [[Embers Without Excuse]] | [[Bernard Valeon]] | act-2 | Deep Winter, Early Spring | blocked |
+| CMP-05-4 | [[The Open Hospice]] | [[Bernard Valeon]] | act-3 | Early Spring, Open Spring, Muster Crisis | blocked |
 | CMP-06-1 | [[The Sound of Falling Stone]] | [[Dismas Raben]] | act-1 | Early Autumn, Open Autumn | outlined |
 | CMP-06-2 | [[The Easy Ambush]] | [[Dismas Raben]] | act-1 | Open Autumn, Early Winter | outlined |
 | CMP-06-3 | [[The Name on the Charge]] | [[Dismas Raben]] | act-2 | Deep Winter, Early Spring | outlined |
@@ -128,16 +126,15 @@ Elara's and Bernard's ten pieces carry `architecture_status: migrated`. The rema
 
 ### CMP-05: Bernard Valeon
 
-- [[Bernard Companion Campaign]]: controlling ten-piece campaign, preparation, autonomy, changed re-entry, embedded opportunities, and rewards.
 - [[Bernard Valeon]]: controlling character bible.
-- [[Bernard Field Familiarity and Relationships]]: approval, release rules, commitment, departure, and permanent relationship rewards.
+- [[Bernard Field Familiarity and Relationships]]: authored release gates, approval, commitment, and permanent relationship rewards.
 - [[Bernard Compulsion and Accountability System]]: finite systemic incidents, the Things Not Mine pouch, and owner-facing restitution.
 - [[Bernard Long Watch Greatsword Package]]: companion combat language, Paladin progression, and custom-vocation unlocks.
 - [[Bernard Banter and Reactivity]]: companion exchanges, Last Ember responses, faction attitudes, routines, and seasonal dialogue.
 - [[The Froststep Evacuation]] and [[Hospice of the Lantern Road]]: controlling history and institutional origin.
-- [[Little Things Missing]], [[The Wagon in the Reeds]], [[Little Hands, Long Road]], [[A Blade Freely Given]], [[Four Fires]], [[Embers Without Excuse]], [[Enough for Two]], [[Beds Before Banners]], [[The Open Hospice]], and [[The First Open Table]]: ten production-blocked formal pieces.
+- [[Little Things Missing]], [[Little Hands, Long Road]], [[Embers Without Excuse]], and [[The Open Hospice]]: four production-blocked duo adventures.
 
-Elara and Bernard are fully migrated to the ten-piece architecture. The other six remain outlined and will be deep-blocked directly against the new standard. No later companion's threshold or autonomous result is canonized without its planned user-guided pass.
+Elara is fully migrated to the ten-piece architecture. Bernard retains a complete four-adventure source package and awaits his retrofit; the other six remain outlined and will be deep-blocked directly against the new standard. No later companion's threshold or autonomous result is canonized without its planned user-guided pass.
 
 ## Controls
 

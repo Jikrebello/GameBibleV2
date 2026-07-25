@@ -1,7 +1,7 @@
 ---
 type: quest
-status: canon
-canon_level: local
+status: archived
+canon_level: obsolete
 visibility: author-only
 era: ["Present Day"]
 region: ["Grenzburg", "Cathedral Close", "Lantern Ward", "Outer Winter Camps"]
@@ -15,15 +15,14 @@ act: act-2
 availability_window: ["Deep Winter", "Early Spring"]
 repeatability: one-shot
 cutoff_result: transforms
-world_state_outputs: ["bernard_act2_chapter_resolved", "bernard_act2_result", "bernard_act2_finale_played", "bernard_direction", "bernard_paladin_unlocked", "bernard_relationship_commitment", "bernard_relationship_paths_closed", "bernard_white_flame_kindling", "petra_ilev_response", "long_watch_return_open", "lantern_relief_mission_state"]
-reward_unlocks: ["Paladin", "Mercy Between Blows", "Burden Shared", "Shared Ember", "No One Alone"]
+world_state_outputs: ["bernard_paladin_unlocked", "bernard_relationship_commitment", "bernard_white_flame_kindling", "petra_ilev_response", "long_watch_return_open", "lantern_relief_mission_state"]
 required_locations: ["Mercy Hospital", "Paupers' Cloister", "West Refuge Hall", "Outer Winter Camps", "Tann Gate Casualty Lane"]
 blocking_status: blocked
-architecture_status: migrated
+architecture_status: pending-migration
 companion_content_role: act-finale
 companion_campaign_stage: act-2
 quest_owner: "Bernard Valeon"
-quest_sequence: 6
+quest_sequence: 3
 companion_id: "CMP-05"
 faction_line: ""
 faction_branch: ""
@@ -32,29 +31,23 @@ main_sequence: 0
 story_gate: reckoning
 estimated_hours: 2.25
 gameplay_pillars: [investigation, relief-logistics, rescue, defence, social-reckoning]
-required_states: ["bernard_act1_chapter_resolved", "bernard_act2_readiness_viable", "winter_siege_active"]
-optional_state_inputs: ["bernard_four_fires_plan", "bernard_breach_casualty_lane_secured", "bernard_mercy_heat_plan", "bernard_long_watch_kit_provenance", "bernard_open_store_procedure_practiced", "bernard_accountability_plan", "mika_food_state", "church_rank", "blackjack_rank", "city_in_siege_result", "lantern_ward_condition"]
-field_experience_gate: []
+required_states: ["little_hands_long_road_complete", "winter_siege_active"]
+optional_state_inputs: ["bernard_accountability_plan", "mika_food_state", "church_rank", "blackjack_rank", "city_in_siege_result", "lantern_ward_condition"]
+field_experience_gate: ["bernard_winter_care_observed", "bernard_authority_choice_observed"]
 companion_required: "Bernard Valeon"
 duo_quest: true
 pause_points: ["Relief Inventory Witnessed", "Field Infirmary Reached"]
-relationship_gate: "No relationship required; commitment requires Trusted approval and personal completion"
-preparation_inputs: ["bernard_four_fires_plan", "bernard_breach_casualty_lane_secured", "bernard_mercy_heat_plan", "bernard_long_watch_kit_provenance", "bernard_open_store_procedure_practiced"]
-preparation_threshold: "2 of 5"
-autonomous_deadline: "Ghor at the Gate"
-autonomous_resolution: "Bernard saves the patients and genuinely kindles White Flame, but admits a withheld salve only afterward; Petra accepts restitution without forgiveness and the player unlocks nothing"
-changed_reentry: "Embers After Snow"
-ensemble_inputs: ["Svala Last-Beacon", "Ilyana Veshkar", "Zafir ibn Samad"]
-identity_hooks: []
-encounter_deck: []
-persistence_scope: regional-milestone
-postgame_season: ""
+relationship_gate: "Trusted approval and no unresolved major violation"
+archive_reason: "Snapshot before Bernard's ten-piece companion campaign retrofit"
+archived_from: "02 Playable Settings/Grenzburg/50 Campaign/Companions/CMP-05 Bernard Valeon/Embers Without Excuse.md"
+archived_on: 2026-07-24
+superseded_by: "[[Embers Without Excuse]]"
 ---
 # Embers Without Excuse
 
 ## Quest Function
 
-Bernard's Act II finale returns the people and institution he harmed to the foreground. It is not a hunt for a hidden villain and does not reveal that his dismissal was corrupt. The [[Thalmyric Military Orders#Order of the Long Watch|Order of the Long Watch]] judged him fairly after [[The Froststep Evacuation]]. Its winter relief mission gives him an opportunity to tell the truth, work beside an injured survivor, and spend a needed reserve openly when concealment would be easier.
+Bernard's third personal adventure returns the people and institution he harmed to the foreground. It is not a hunt for a hidden villain and does not reveal that his dismissal was corrupt. The [[Thalmyric Military Orders#Order of the Long Watch|Order of the Long Watch]] judged him fairly after [[The Froststep Evacuation]]. Its winter relief mission gives him an opportunity to tell the truth, work beside an injured survivor, and spend a needed reserve openly when concealment would be easier.
 
 The White Flame answers during service. It confirms neither Bernard's innocence nor any entitlement to reinstatement.
 
@@ -62,23 +55,11 @@ The closed quest uses the player and Bernard only. [[Matej Solin]], [[Petra Ilev
 
 ## Unlock and Staging
 
-Once any two Act II assets in [[Bernard Companion Campaign]] are secured, the quest unlocks at [[Cathedral Close#Anchor Locations|Mercy Hospital]] while the winter siege is active. A Kedravan relief train has reached Grenzburg under Watch-Captain Matej Solin. Bernard recognizes its lamp pennants before he sees Petra Ilev driving the lead sled.
+The quest unlocks at [[Cathedral Close#Anchor Locations|Mercy Hospital]] after the familiarity gates in [[Bernard Field Familiarity and Relationships]] are met and the winter siege is active. A Kedravan relief train has reached Grenzburg under Watch-Captain Matej Solin. Bernard recognizes its lamp pennants before he sees Petra Ilev driving the lead sled.
 
 Matej asks Bernard to help carry a declared reserve to an isolated field infirmary near Tann Gate. He does not offer pardon, bargain for silence, or pretend that ordinary relief work is a trial designed around Bernard. Petra may refuse to speak to Bernard, but she continues the mission.
 
-The tracked docket displays Viable, Prepared, or Strongly Prepared readiness. Accepting the departure warning dismisses the other active companions. It names the risk of Grobi attack, the patients who cannot move, and the possibility that the reserve will have to be spent before the party reaches its planned destination. It also states that allowing the chapter to resolve autonomously permanently forfeits the Paladin unlock, romance, sworn bond, and finale rewards for this playthrough.
-
-## Preparation in Play
-
-| Asset | Concrete advantage |
-|---|---|
-| `bernard_four_fires_plan` | supplies a tested shelter-consolidation and fuel-release plan |
-| `bernard_breach_casualty_lane_secured` | opens a known route through damaged Lantern Ward |
-| `bernard_mercy_heat_plan` | protects one hospital heat or evacuation objective |
-| `bernard_long_watch_kit_provenance` | gives Matej a complete, honest account of Bernard's issued and owned equipment |
-| `bernard_open_store_procedure_practiced` | establishes witnessed reserve purpose and release conditions before pressure begins |
-
-Two assets permit the relief mission. Three make every principal patient, route, and store objective achievable through strong play. Four or five protect one objective from a single logistical failure without confessing for Bernard or forcing Petra's response.
+Accepting the departure warning dismisses the other active companions. It names the risk of Grobi attack, the patients who cannot move, and the possibility that the reserve will have to be spent before the party reaches its planned destination.
 
 ## Principal Cast
 
@@ -203,14 +184,14 @@ Matej may open a future petition for Long Watch reinstatement. It is an availabl
 
 ## Relationship Commitment
 
-After the public reckoning, a player at **Trusted** approval who personally completed this finale receives one of four scenes:
+After the public reckoning, an eligible player receives one of four scenes:
 
 - **Romance, female player:** Bernard asks whether care can be accepted without becoming debt. If committed, the player gives him one plain wooden bead after he explicitly confirms it is a gift. He adds it to the prayer rope.
 - **Sworn bond, male player:** Bernard asks for a mutual last-watch promise, freely given and revocable, with neither man claiming authority over the other.
 - **Continued friendship:** the player declines commitment without approval loss.
 - **Refusal:** a major unresolved violation or low approval leaves the relationship professional.
 
-Romance and bond commit after this scene. Their initial duo moves are defined in [[Bernard Field Familiarity and Relationships]] and are upgraded by [[Enough for Two]]. Friendship remains capable of reaching Bernard's strongest moral resolution.
+Romance and bond commit after this scene. Their permanent perks and duo moves are defined in [[Bernard Field Familiarity and Relationships]].
 
 ## Information Redundancy
 
@@ -225,18 +206,13 @@ Romance and bond commit after this scene. Their initial duo moves are defined in
 - If Vek captures the sled, the duo can retake it, trade distance for patients, or complete the evacuation without it.
 - If the infirmary burns, all surviving patients move to the cloister and `lantern_relief_mission_state` records the loss.
 - If the duo is defeated, Matej's rear detail recovers them after the Grobi take supplies and wound patients.
-- If Bernard conceals an item on a player-completed route, the physical Paladin form and account unlock still complete, but its White-Flame techniques begin dimmed until a named confession-and-repair scene before [[The Open Hospice]].
-- If the seasonal cutoff passes before commitment, the mission resolves through Bernard's autonomous route. Its spring aftermath cannot restore the missed player unlocks.
+- If Bernard conceals an item, the physical Paladin form and account unlock still complete, but its White-Flame techniques begin dimmed until a named confession-and-repair scene before quest four.
+- If the seasonal cutoff passes, the mission occurs during spring evacuation with fewer stores and no Long Watch reinstatement petition.
 
 ## Outputs
 
-- `bernard_act2_chapter_resolved`: played, autonomous, or aftermath;
-- `bernard_act2_result`: accountable, costly, compromised, or broken;
-- `bernard_act2_finale_played`: true or false;
-- `bernard_direction`: truthful, uncertain, or withholding;
 - `bernard_paladin_unlocked`: field-kindled, confession-kindled, or physical-form-sacred-dimmed;
 - `bernard_relationship_commitment`: romance, sworn-bond, friendship, refused, or unavailable;
-- `bernard_relationship_paths_closed`: open or missed-act-2;
 - `bernard_white_flame_kindling`: field-infirmary, post-confession, absent, or distorted-by-rumour;
 - `petra_ilev_response`: forgives, restitution-only, no-contact, or condemns-concealment;
 - `long_watch_return_open`: open, deferred, or closed;
@@ -252,32 +228,15 @@ Romance and bond commit after this scene. Their initial duo moves are defined in
 
 ## Rewards and Unlocks
 
-- personal completion unlocks the player [[Paladin]] vocation for the current playthrough and the account; unresolved concealment leaves its sacred techniques visibly dimmed until repair;
+- unlocks the player [[Paladin]] vocation on every completed path; unresolved concealment leaves its sacred techniques visibly dimmed until repair;
 - unlocks Bernard's improved **Mercy Between Blows** and **Burden Shared**;
 - unlocks the committed relationship duo move when applicable;
 - opens Long Watch, Open Lamp, and travelling future paths;
 - establishes a visible White-Flame response without changing legal responsibility.
 
-Autonomous completion grants none of these player progression rewards.
-
-## Autonomous Resolution and Embers After Snow
-
-If the player commits to [[Ghor at the Gate]] without joining this finale, Bernard undertakes the relief mission using the preparation already secured. On the default route he saves the field-infirmary patients and genuinely kindles White Flame through courageous service, then admits that he withheld one salve packet:
-
-- Petra accepts restitution but does not forgive or resume friendship;
-- the mission finishes depleted or displaced;
-- Bernard remains `uncertain`;
-- the player does not unlock Paladin;
-- romance and sworn bond close permanently for the playthrough.
-
-Truthful influence and strong preparation can improve the patient, reserve, and mission states without restoring the missed player unlocks. Withholding and poor preparation can cause serious injuries, prevent kindling, and trigger a warned departure conflict. Bernard cannot die autonomously.
-
-The spring aftermath **Embers After Snow** permits confession, store repair, and restored personal sacred coherence. It cannot unlock Paladin, romance, sworn bond, **Shared Ember**, **No One Alone**, or any missed finale reward.
-
 ## Navigation
 
 - [[Bernard Valeon]]
-- [[Bernard Companion Campaign]]
 - [[The Froststep Evacuation]]
 - [[Matej Solin]]
 - [[Petra Ilev]]
@@ -285,8 +244,6 @@ The spring aftermath **Embers After Snow** permits confession, store repair, and
 - [[Bernard Field Familiarity and Relationships]]
 - [[Bernard Long Watch Greatsword Package]]
 - [[Bernard Compulsion and Accountability System]]
-- [[Four Fires]]
-- [[Enough for Two]]
 - [[The Open Hospice]]
 - [[Companion Field Familiarity and Duo Quest Standard]]
 - [[Narrative State Register]]

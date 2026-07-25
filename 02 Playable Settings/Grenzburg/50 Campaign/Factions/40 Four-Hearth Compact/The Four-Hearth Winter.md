@@ -15,7 +15,7 @@ act: act-3
 availability_window: ["Early Spring", "Muster Crisis"]
 repeatability: one-shot
 cutoff_result: resolves-offscreen
-world_state_outputs: ["four_hearth_compact_form", "folk_rights_term", "compact_warning_network"]
+world_state_outputs: ["four_hearth_compact_form", "folk_rights_term", "compact_warning_network", "bernard_mixed_carer_pledge"]
 required_locations: ["Moss-Crown Mootground", "Bent-Oak Refuge", "Fenn Road Exchange"]
 blocking_status: outlined
 quest_owner: "Four-Hearth Compact"
@@ -71,6 +71,7 @@ The warning screen names affected quests, leaders, services, and political-settl
 - `four_hearth_compact_form`
 - `folk_rights_term`
 - `compact_warning_network`
+- `bernard_mixed_carer_pledge`: set when named carers from multiple hearths accept neutral patient admission without surrendering local authority.
 
 ## Rewards and Return Value
 
@@ -85,6 +86,7 @@ If the player passes the named finale gate without resolving this stage, the sel
 ## Navigation
 
 - [[Four-Hearth Compact]]
+- [[Bernard Companion Campaign]]
 - [[Faction Questlines MOC]]
 - [[Factions Overview]]
 - [[Narrative State Register]]

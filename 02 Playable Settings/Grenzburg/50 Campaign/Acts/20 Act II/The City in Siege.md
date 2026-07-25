@@ -16,7 +16,7 @@ act: act-2
 availability_window: ["Early Winter"]
 repeatability: one-shot
 cutoff_result: transforms
-world_state_outputs: ["lantern_ward_damage", "western_breach_state", "blackjack_yard_state", "millwheel_pumps_state", "elara_winter_roofline_proven"]
+world_state_outputs: ["lantern_ward_damage", "western_breach_state", "blackjack_yard_state", "millwheel_pumps_state", "elara_winter_roofline_proven", "bernard_breach_casualty_lane_secured"]
 required_locations: ["Lantern Ward", "Quarry Steps", "Debtors' Row", "Blackjack Yard", "Millwheel Works", "Wallwright Yard"]
 blocking_status: blocked
 quest_owner: "Grenzburg Main Campaign"
@@ -118,6 +118,8 @@ Wall damage, sapper tools, and observed river tracks prove the breach method. Ho
 Ilyana can direct the counterattack but must expose real costs. Tavio stabilizes pumps or wall braces. Zafir organizes controlled bound labor without living coercion. Bernard and Svala excel in civilian rescue. Every route has ordinary alternatives.
 
 [[Elara Velescar]] can lead the Market Roofline counterattack while reading fire damage, guard lines, and improvised winter footing. Completing that route with her records `elara_winter_roofline_proven`, one preparation asset for [[The Patron's Cabinet]]. The rooftop route and the campaign chapter remain viable without Elara.
+
+[[Bernard Valeon]] can organize the marked casualty lane between Debtors' Row, the Blackjack Yard, and the nearest functioning treatment point. Holding it through the breach and leaving carriers with a tested fallback records `bernard_breach_casualty_lane_secured` for [[Embers Without Excuse]]. Civilian rescue remains viable without him.
 
 ## Faction Advantages
 

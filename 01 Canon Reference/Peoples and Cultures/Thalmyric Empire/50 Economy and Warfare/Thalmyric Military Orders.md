@@ -25,6 +25,7 @@ Poverty and obedience are common but not identical across orders:
 
 - **poverty** means that issued arms, armour, rooms, transport, and stores belong to the house or mission rather than the member;
 - a declared devotional object, family letter, marriage token, or freely given personal keepsake may remain personal under the local rule;
+- a lawfully owned field tool or weapon may remain personal when the local rule records the gift, forbids hidden resale or inherited rank, and leaves the member free to place it in common use; poverty does not require pretending an honest gift never occurred;
 - **obedience** is bounded by the order's charter, Church discipline, and secular law. It does not sanctify a knowingly evil command;
 - marriage is permitted in many lay branches, including the Long Watch. These branches impose no universal chastity vow;
 - married members may live in order houses, attached households, or road stations according to assignment;
@@ -45,6 +46,8 @@ The Long Watch maintains frontier chapels, evacuation routes, scouts, signal tow
 Its members spend more time preventing raids and moving civilians than fighting battles. War parties distrust its negotiated relationships across the border.
 
 Lay knights normally take poverty and obedience while retaining the right to marry. Their arms and armour are issued, repaired, and returned through the house. Prayer ropes are common personal devotional objects, but they neither confer ordination nor mechanically command the White Flame.
+
+The Long Watch may record one openly gifted field weapon as personal rather than issued property. The member remains responsible for declaring it, maintaining the order's ordinary safety rules, and distinguishing ownership from superior privilege. This narrow rule permits Bernard's post-Grenzburg sword to remain honestly his if he seeks reinstatement.
 
 Long Watch discipline treats stores as a moral and practical responsibility. Relief inventories require witnesses, reserves require declared release conditions, and concealment from the vulnerable is judged more severely than an honest shortage. [[The Froststep Evacuation]] records one fair application of that rule in the history of [[Bernard Valeon]].
 

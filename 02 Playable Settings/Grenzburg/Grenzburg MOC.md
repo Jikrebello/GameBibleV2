@@ -35,7 +35,7 @@ Grenzburg is the active game project: a silent-protagonist, party-based open-wor
 | Companion tracking, autonomy, and act convergence | [[Companion Autonomy and Act Convergence]] |
 | Companion shared history and staging | [[Companion Field Familiarity and Duo Quest Standard]] |
 | Companion roster and eighty-piece register | [[Companions MOC]] and [[Companion Campaign Expansion Register]] |
-| First migrated companion campaign | [[Elara Companion Campaign]] |
+| Migrated companion campaigns | [[Elara Companion Campaign]] and [[Bernard Companion Campaign]] |
 | Faction rules | [[Factions Overview]] |
 | Faction quest register | [[Faction Questlines MOC]] |
 | Narrative variables and settlement matrix | [[Narrative State Register]] |
@@ -156,7 +156,7 @@ See [[Grenzburg Pre-Game-Constitution Archive Index]], [[Grenzburg Wave 4 Archiv
 1. **Game constitution:** complete.
 2. **Worldspace constitution:** complete.
 3. **Player systems:** complete at narrative-constitution level; numerical balance remains provisional.
-4. **Companions and factions:** the eighty-piece autonomous campaign standard is locked. Elara's ten-piece campaign is migrated and production-blocked. Bernard retains a complete source package awaiting retrofit; the other six remain outlined.
+4. **Companions and factions:** the eighty-piece autonomous campaign standard is locked. Elara's and Bernard's ten-piece campaigns are migrated and production-blocked; the other six remain outlined.
 5. **Main campaign:** complete at production-block level; twenty-one chapters and two aftermath quests are wired to controlled state.
 6. **Living world and side content:** allocate identity hooks, systemic encounter decks, marquee stories, local quests, dungeons, hunts, contracts, and jobs without reducing the expanded companion budget.
 7. **Integration:** endings, summer states, intersections, production navigation, and final canon checks.

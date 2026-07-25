@@ -15,7 +15,7 @@ tags: []
 
 ## First Creative Priority
 
-Build Grenzburg into the setting's first complete video game. [[Grenzburg RPG Experience Constitution]] treats the seasonal campaign, the blank-slate debtor, and eight autonomous companion campaigns as equal parts of the experience. The twenty-one main chapters remain locked, while the companion layer has expanded into an eighty-piece authored architecture plus embedded world participation. [[Elara Companion Campaign]] is the first complete retrofit: ten production-blocked formal pieces, ten embedded opportunities, three preparation ladders, deterministic autonomy, and changed re-entry. [[Bernard Valeon]] is the next retrofit target. Caleran remains the great-city sandbox, but it is not the active implementation priority.
+Build Grenzburg into the setting's first complete video game. [[Grenzburg RPG Experience Constitution]] treats the seasonal campaign, the blank-slate debtor, and eight autonomous companion campaigns as equal parts of the experience. The twenty-one main chapters remain locked, while the companion layer has expanded into an eighty-piece authored architecture plus embedded world participation. [[Elara Companion Campaign]] and [[Bernard Companion Campaign]] are complete retrofits with ten production-blocked pieces, ten embedded opportunities, three preparation ladders, deterministic autonomy, and changed re-entry each. Caleran remains the great-city sandbox, but it is not the active implementation priority.
 
 ## Current Canon Baseline
 
@@ -42,8 +42,8 @@ Build Grenzburg into the setting's first complete video game. [[Grenzburg RPG Ex
 
 ## Next Three Workstreams
 
-1. **Bernard architecture retrofit:** preserve his deep-blocked character material while expanding it into the ten-piece campaign standard with bespoke preparation, autonomy, changed re-entry, and embedded opportunities.
-2. **Remaining companion campaigns:** approve bespoke preparation thresholds, act contributions, autonomous decisions, ensemble support, and changed re-entry for Ilyana, Svala, Ashira, Dismas, Tavio, and Zafir before converting their outlines.
+1. **Remaining companion campaigns:** approve bespoke preparation thresholds, act contributions, autonomous decisions, ensemble support, and changed re-entry for Ilyana, Svala, Ashira, Dismas, Tavio, and Zafir before converting their outlines.
+2. **Companion integration QA:** preserve Elara's and Bernard's locked thresholds and rewards while later companions add cross-support, party banter, and shared world-state reactions.
 3. **Identity and living-world allocation:** distribute the reserved culture, background, and vocation hooks across authored content, then build regional encounter decks and side-content placements without changing the main campaign.
 
 ## Locked Rulings
@@ -90,7 +90,7 @@ Build Grenzburg into the setting's first complete video game. [[Grenzburg RPG Ex
 ## Open Production Questions
 
 - Exact Grenzburg damage, frames, inputs, growth curves, mastery rates, social probabilities, quest rewards, encounter balance, custom-build budget, and compatibility matrix.
-- Bespoke preparation thresholds, autonomous decisions, cross-companion support, and changed re-entry for Bernard and the six companions not yet migrated.
+- Bespoke preparation thresholds, autonomous decisions, cross-companion support, and changed re-entry for the six companions not yet migrated.
 - Final allocation of the 90 origin, 72 background, 48 starting-vocation, and 8 advanced-vocation identity hooks reserved in [[Player Identity Reactivity Matrix]].
 - Regional and district encounter-card rosters, cooldowns, persistence details, and postwar seasonal variants governed by [[World Simulation and Discovery Constitution]].
 - Final original names, descriptions, animation identities, and progression orders for source-derived vocation skills tracked in [[Vocation Originalization Register]].

@@ -1,7 +1,7 @@
 ---
 type: reference
-status: canon
-canon_level: local
+status: archived
+canon_level: obsolete
 visibility: author-only
 era: ["Present Day"]
 region: ["Grenzburg"]
@@ -11,6 +11,10 @@ appears_in: ["Grenzburg"]
 needs: []
 aliases: []
 tags: [game-ready]
+archive_reason: "Snapshot before Bernard's ten-piece companion campaign retrofit"
+archived_from: "02 Playable Settings/Grenzburg/50 Campaign/Companions/Companion Reactive Scene Register.md"
+archived_on: 2026-07-24
+superseded_by: "[[Companion Reactive Scene Register]]"
 ---
 # Companion Reactive Scene Register
 
@@ -52,7 +56,7 @@ At act endings, tracked campaigns show a consolidated readiness entry. Untracked
 | [[Ilyana Veshkar]] | quietly takes command during the Black Road rescue, then yields formal authority | argues with Dismas about leaving positions and with officers about clean breaches | recognizes Gerhold's language of expendable service before he accepts the Muster | trains a life-preserving specialist cadre, serves under secrecy, or is absent through departure |
 | [[Svala Last-Beacon]] | makes the first real shared meal after Southbound Muster | reacts to every surrender and refugee gate; tests her recall method under siege noise | treats Last Hearth as a practical home rather than a symbol | keeps a road beacon, returns under conditional hall terms, or leaves no fire if broken |
 | [[Ashira bath Melan]] | corrects false claims that Mediums hold souls and then evades the harm her imprints caused | studies the Drake and residue without romanticizing them; disputes Elara over who may use accurate knowledge | recognizes the Muster's apparent speech as computation and faces copies of her named roster | opens a nonhuman field school, leaves a sealed archive, or vanishes with the human patterns |
-| [[Bernard Valeon]] | tends convoy wounds, confronts genuine theft, recovers the road-school wagon, and escorts the Chapel-Folk children | keeps four shelters alive and serves the Long Watch relief mission; genuine kindling changes duty rather than proving innocence | secures West Refuge, opposes Gerhold's refusal to release service at death, and builds accountable lay care | demonstrates his settled destination through [[The First Open Table]]; controlled in [[Bernard Banter and Reactivity]] |
+| [[Bernard Valeon]] | tends convoy wounds, struggles with small thefts, and establishes witnessed property safeguards | leads the Chapel-Folk road school and serves hospitals during siege; genuine kindling changes duty rather than proving innocence | opposes Gerhold's refusal to release service at death and builds accountable lay care | opens a hospice, returns to the Long Watch, travels as a hospitaller, remains in Blackjack service, or loses sacred techniques through broken conduct; controlled in [[Bernard Banter and Reactivity]] |
 | [[Dismas Raben]] | marks every exit at camp and returns only when another person is still on the road | reads Grobi and Drake routes; challenges Ilyana when command secrecy hides bodies | chooses the last civilian route during the dead march | reports for public marcher service, serves under sealed terms, or has fled beyond the map |
 | [[Tavio Meran]] | turns training into friendly contest while refusing to discuss the championship gauntlet | compares fair combat with siege necessity and tests surrender cues with Svala | treats Muster engines as unsafe force to vent, not opponents to impress | works as leak-warden, teaches privately under ban, or chases an unregulated circuit |
 | [[Zafir ibn Samad]] | explains Grenzburg law precisely while calling owned service orderly | challenges Bernard's confidence in voluntary mercy and Lucia's productive ownership | identifies Gerhold's command as compulsory service made absolute | prepares return to Iqashar, preserves bounded restraint, or leaves to build another law house |
@@ -75,23 +79,6 @@ At act endings, tracked campaigns show a consolidated readiness entry. Untracked
 10. an Abandoned Pack systemic encounter.
 
 Only distinct authored instances count. Repeatable jobs, idle travel, and recycled encounter cards do not advance her campaign.
-
-### Bernard Valeon
-
-[[Bernard Companion Campaign]] controls Bernard's ten formal pieces, ten embedded opportunities, three act deadlines, deterministic autonomous route, and changed re-entry. His embedded register is:
-
-1. casualty and property safeguards in [[Roads Worth Saving]];
-2. a breach casualty lane in [[The City in Siege]];
-3. reclaimed patient routes in [[The Land Reclaimed]];
-4. service-injury responsibility in [[A Debt That Grew Wounded]];
-5. practical hospital heat in [[Mercy in Winter]];
-6. mixed refuge obligations in [[The Four-Hearth Winter]];
-7. Pikehook's mapped snare-line exploration;
-8. West Refuge's underways evacuation route;
-9. the Blackjack Yard open-store drill;
-10. **The Spare Blanket**, a one-shot Things Not Mine incident.
-
-Only distinct authored instances count. Another companion may preserve a route, shelter, witness, or material objective, but cannot confess, declare a reserve, or accept a gift for Bernard.
 
 ## Foil Pair Progression
 
@@ -119,7 +106,6 @@ Summer codas settle destinations. Repeating reconstruction seasons may change am
 - [[Companion Field Familiarity and Duo Quest Standard]]
 - [[Elara Companion Campaign]]
 - [[Elara Banter and Reactivity]]
-- [[Bernard Companion Campaign]]
 - [[Bernard Banter and Reactivity]]
 - [[Narrative State Register]]
 - [[Grenzburg Chapter and Window Matrix]]

@@ -183,7 +183,7 @@ At least one quest per line must be primarily social or investigative, one must 
 
 [[Companion Campaign Expansion Register]] is the formal count authority. [[Companion Autonomy and Act Convergence]] controls tracking, deadlines, cross-support, and no-unseen-death rules.
 
-Companion notes retain `architecture_status: pending-migration` until their individual retrofit or deep block. Completed campaigns, beginning with [[Elara Companion Campaign]], use `architecture_status: migrated`.
+Companion notes retain `architecture_status: pending-migration` until their individual retrofit or deep block. Completed campaigns, currently [[Elara Companion Campaign]] and [[Bernard Companion Campaign]], use `architecture_status: migrated`.
 
 ## Identity-Reactivity Standard
 

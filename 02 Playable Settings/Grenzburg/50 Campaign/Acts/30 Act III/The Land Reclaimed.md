@@ -16,7 +16,7 @@ act: act-3
 availability_window: ["Early Spring", "Open Spring"]
 repeatability: one-shot
 cutoff_result: persists
-world_state_outputs: ["tannbruck_reclaimed", "muster_anchor_campaign_open", "spring_settlement_access", "elara_living_claims_indexed"]
+world_state_outputs: ["tannbruck_reclaimed", "muster_anchor_campaign_open", "spring_settlement_access", "elara_living_claims_indexed", "bernard_reclaimed_patient_routes"]
 required_locations: ["Fort Tannbruck", "Upper Grenz", "Old River Arsenal", "Tuskway Redoubt", "White Mud Causeway"]
 blocking_status: blocked
 quest_owner: "Grenzburg Main Campaign"
@@ -123,6 +123,8 @@ Each anchor updates `muster_anchor_count`, its region, its finale power, and its
 All companion histories can react to return, remains, and rebuilding. Ilyana and Dismas carry especially strong military accountability scenes; Svala and Bernard support the living settlement; Ashira clarifies recurrence; Tavio and Zafir open specialist routes. No companion is mandatory.
 
 [[Elara Velescar]] can compare recovered stores, service rolls, makers' marks, and refugee testimony before salvage is redistributed. Giving copies to the living claimants rather than merely cataloguing valuable objects records `elara_living_claims_indexed`, one preparation asset for [[No Lady of Velescar]]. Ordinary clerks can complete the reclamation without her.
+
+[[Bernard Valeon]] can mark casualty collection points, return corridors, and shelter handoffs while the reclaimed road is still being cleared. Completing the route with named carriers records `bernard_reclaimed_patient_routes` for [[The Open Hospice]]. Reclamation remains fully viable without him.
 
 ## Faction Advantages
 

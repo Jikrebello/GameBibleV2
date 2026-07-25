@@ -1,7 +1,7 @@
 ---
 type: quest
-status: canon
-canon_level: local
+status: archived
+canon_level: obsolete
 visibility: author-only
 era: ["Present Day"]
 region: ["Grenzburg", "Old Market", "Cathedral Close", "Lantern Ward"]
@@ -15,11 +15,10 @@ act: act-1
 availability_window: ["Early Autumn", "Open Autumn"]
 repeatability: one-shot
 cutoff_result: transforms
-world_state_outputs: ["bernard_introduction_complete", "bernard_direction", "bernard_compulsion_disclosed", "bernard_accountability_plan", "little_things_returned", "kitchen_helper_state", "koss_bernard_leverage"]
-reward_unlocks: ["Hands Declared", "Things Not Mine", "Enough for Tonight"]
+world_state_outputs: ["bernard_compulsion_disclosed", "bernard_accountability_plan", "little_things_returned", "kitchen_helper_state", "koss_bernard_leverage"]
 required_locations: ["Blackjack Yard", "Red Stag Inn", "Mercy Hospital", "Old Market", "Lantern Market"]
 blocking_status: blocked
-architecture_status: migrated
+architecture_status: pending-migration
 companion_content_role: introduction
 companion_campaign_stage: introduction
 quest_owner: "Bernard Valeon"
@@ -32,39 +31,33 @@ main_sequence: 0
 story_gate: investigation
 estimated_hours: 1.5
 gameplay_pillars: [investigation, social, pursuit, urban-traversal, restitution]
-required_states: ["bernard_recruited", "bernard_first_outing_complete"]
+required_states: ["bernard_recruited"]
 optional_state_inputs: ["blackjack_rank_admitted", "church_rank_admitted", "underworld_rank", "old_market_services"]
-field_experience_gate: []
+field_experience_gate: ["bernard_care_observed", "bernard_property_choice_observed", "bernard_shared_danger_observed"]
 companion_required: "Bernard Valeon"
-duo_quest: false
+duo_quest: true
 pause_points: ["First Cache Opened", "Handcart Route Found"]
-relationship_gate: ""
-preparation_inputs: []
-preparation_threshold: ""
-autonomous_deadline: "The Last Convoy"
-autonomous_resolution: "Bernard discloses the relapse to Brina after Hannel loses wages; the introduction resolves without player rewards"
-changed_reentry: "The Early Winter forwarding version permits restitution but cannot recreate the original owner circuit"
-ensemble_inputs: ["Elara Velescar", "Dismas Raben", "Zafir ibn Samad"]
-identity_hooks: []
-encounter_deck: []
-persistence_scope: district-persistent
-postgame_season: ""
+relationship_gate: "Open approval or repaired Strained conflict"
+archive_reason: "Snapshot before Bernard's ten-piece companion campaign retrofit"
+archived_from: "02 Playable Settings/Grenzburg/50 Campaign/Companions/CMP-05 Bernard Valeon/Little Things Missing.md"
+archived_on: 2026-07-24
+superseded_by: "[[Little Things Missing]]"
 ---
 # Little Things Missing
 
 ## Quest Function
 
-Bernard's introductory case is a city investigation without a hidden mastermind. He has relapsed, every missing object is something he took, and a kitchen helper is about to carry the blame. The quest teaches [[Bernard Compulsion and Accountability System]] through recovery, pursuit, return, and confession rather than turning the condition into a mystery about whether Bernard is secretly innocent.
+Bernard's first personal adventure is a city investigation without a hidden mastermind. He has relapsed, every missing object is something he took, and a kitchen helper is about to carry the blame. The quest teaches [[Bernard Compulsion and Accountability System]] through recovery, pursuit, return, and confession rather than turning the condition into a mystery about whether Bernard is secretly innocent.
 
-The normal field party remains available. Bernard owns every confession and accountability decision; other companions may help with access, pursuit, or witness work but cannot speak for him.
+The closed sections use the player and Bernard only. Owners, witnesses, hospital staff, and the wrongly accused helper are temporary or stationary NPCs outside the companion limit.
 
 ## Unlock and Staging
 
-Bernard asks to speak at the [[Blackjack Yard]] after one meaningful shared outing, as defined by [[Bernard Companion Campaign]]. He has found an Old Market soup spoon inside his issued boot and knows he did not put it there for cleaning.
+Bernard asks to speak at the [[Blackjack Yard]] after the gates in [[Bernard Field Familiarity and Relationships]] are met. He has found an Old Market soup spoon inside his issued boot and knows he did not put it there for cleaning.
 
 At the same time, Mercy Hospital has reported a missing medicine-cup key, the Red Stag is missing several small guest objects, and **Hannel Klee**, a sixteen-year-old kitchen helper, has been confined after a pilgrim's carved clasp was found near her apron hook.
 
-The party may prepare for social access, city traversal, and one short physical pursuit; no combat loadout is required.
+Accepting the departure warning dismisses the other active companions. The duo may prepare for social access, city traversal, and one short physical pursuit; no combat loadout is required.
 
 ## Immediate Situation
 
@@ -107,7 +100,7 @@ Time advances through long delay, retreat from a closed section, a failed pursui
 
 ## Beginning: The Locker and the Hook
 
-The party first inspects Bernard's open kit area and the kitchen hook where Hannel's apron hung.
+The duo first inspects Bernard's open kit area and the kitchen hook where Hannel's apron hung.
 
 Three independent facts clear Hannel:
 
@@ -125,7 +118,7 @@ The quest may pause after Hannel is provisionally cleared and the first owners a
 
 ## Middle: Retracing the Day
 
-Bernard's route crossed the Red Stag, Mercy Hospital, Old Market, and the Yard. The party can reconstruct the remaining caches through any two clues at each stage:
+Bernard's route crossed the Red Stag, Mercy Hospital, Old Market, and the Yard. The duo can reconstruct the remaining caches through any two clues at each stage:
 
 - flour from the Red Stag cellar on Bernard's spare cuff;
 - a medicine-cabinet chalk mark on the pantry token;
@@ -139,7 +132,7 @@ At Mercy Hospital, the warming-cup key is no longer in its niche. Staff had to f
 
 ## The Refuse Handcart
 
-Tomas Brunn cleared the broken bench beneath Bernard's third cache and loaded the concealed bundle into a refuse handcart bound for Lantern Market sorting. The party identifies the cart through:
+Tomas Brunn cleared the broken bench beneath Bernard's third cache and loaded the concealed bundle into a refuse handcart bound for Lantern Market sorting. The duo identifies the cart through:
 
 - the bench's square iron nail;
 - grey wrapping caught under the cart rail;
@@ -148,7 +141,7 @@ Tomas Brunn cleared the broken bench beneath Bernard's third cache and loaded th
 
 ### Pause Point: Handcart Route Found
 
-The player may pause before pursuit. Resuming places the party at the Old Market route fork with the current Owners Depart state.
+The player may pause before pursuit. Resuming places the duo at the Old Market route fork with the current Owners Depart state.
 
 ## Pursuit Through Old Market
 
@@ -191,7 +184,7 @@ The objects return through anonymous payment or placement. Hannel can still be c
 
 ### False blame
 
-Supporting Hannel's punishment or assigning the acts to an invented thief creates an immediate major conflict. Bernard may accept the lie in fear, but the companion line enters Strained and requires repair before [[The Wagon in the Reeds]] can lead into his Act I finale.
+Supporting Hannel's punishment or assigning the acts to an invented thief creates an immediate major conflict. Bernard may accept the lie in fear, but the companion line enters Strained and requires repair before quest two.
 
 ## Information Redundancy
 
@@ -202,22 +195,16 @@ Supporting Hannel's punishment or assigning the acts to an invented thief create
 
 No failed check can make the relapse unknowable or permanently lose a required object.
 
-## Vocation Access
-
-Every player vocation can investigate the caches, protect Hannel's testimony, recover the handcart bundle, and complete the return circuit. Movement, social, or knowledge advantages change speed and privacy rather than access.
-
 ## Fail-Forward Results
 
 - If the cart reaches sorting, the bundle scatters and return takes longer.
 - If an owner departs, West Refuge Hall forwards the item with lower trust.
 - If the key is damaged, a duplicate is commissioned and Bernard owes its labor.
 - If Hannel is dismissed, she can be restored through later testimony but loses wages and trust.
-- If the party is defeated during a street disturbance, Brina retrieves them while the cart advances.
+- If the duo is defeated during a street disturbance, Brina retrieves them while the cart advances.
 
 ## Outputs
 
-- `bernard_introduction_complete`: completed, autonomous, or aftermath;
-- `bernard_direction`: truthful, uncertain, or withholding;
 - `bernard_compulsion_disclosed`: denied, partial, full, or public;
 - `bernard_accountability_plan`: none, private, witnessed, or coercive;
 - `little_things_returned`: complete, partial, compensated, or concealed;
@@ -228,7 +215,7 @@ Every player vocation can investigate the caches, protect Hannel's testimony, re
 
 Honest return without humiliation moves Bernard toward **Open** or **Trusted**. Public spectacle for its own sake may reduce openness even when confession remains necessary. Concealment creates a named conflict rather than invisible approval loss.
 
-Completion opens **Enough for Tonight** and [[The Wagon in the Reeds]]. The conversation expresses interest or friendship but does not commit either relationship path.
+Completion opens **Enough for Tonight**, the first romance or sworn-bond interest scene.
 
 ## Seasonal Transformation
 
@@ -245,11 +232,10 @@ If autumn closes first, the owners disperse and Hannel's dismissal has already o
 ## Navigation
 
 - [[Bernard Valeon]]
-- [[Bernard Companion Campaign]]
 - [[Bernard Field Familiarity and Relationships]]
 - [[Bernard Compulsion and Accountability System]]
 - [[Bernard Long Watch Greatsword Package]]
-- [[The Wagon in the Reeds]]
+- [[Little Hands, Long Road]]
 - [[Companion Field Familiarity and Duo Quest Standard]]
 - [[Narrative State Register]]
 - [[Companions MOC]]

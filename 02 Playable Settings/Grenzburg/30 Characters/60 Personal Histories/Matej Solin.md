@@ -34,6 +34,8 @@ He chaired no secret cover-up. His report recorded Bernard's deprivation history
 
 Matej brings a small Long Watch relief column to Grenzburg during the siege: two sleds, field-hospital canvas, warming equipment, four lay carers, one priest, and civilian drivers including [[Petra Ilev]]. The mission answers regional need rather than Bernard's story.
 
+If the player does not join the mission, Matej records Bernard's genuine White-Flame kindling and his delayed salve admission as separate facts. He does not grant the player Paladin training by report, and he supports the changed spring restitution without pretending it recreates the missed reckoning.
+
 He offers Bernard no private bargain. After witnessing sustained accountability, he can confirm that an ordinary reinstatement petition would be heard. He also accepts an independent hospice as valid service.
 
 ## Quest Function

@@ -1,7 +1,7 @@
 ---
 type: quest
-status: canon
-canon_level: local
+status: archived
+canon_level: obsolete
 visibility: author-only
 era: ["Present Day"]
 region: ["Grenzburg", "Longlake Ward", "Longlake Country"]
@@ -15,15 +15,14 @@ act: act-1
 availability_window: ["Open Autumn", "Early Winter"]
 repeatability: one-shot
 cutoff_result: transforms
-world_state_outputs: ["bernard_act1_chapter_resolved", "bernard_act1_result", "bernard_direction", "road_school_state", "chapel_children_state", "mika_food_state", "wounded_bear_state", "bent_oak_refuge_state"]
-reward_unlocks: ["Shelter at My Back", "Long Watch rescue augment"]
+world_state_outputs: ["road_school_state", "chapel_children_state", "mika_food_state", "wounded_bear_state", "bent_oak_refuge_state"]
 required_locations: ["Bent Oak Chapel", "Lake Road Cairn", "Reedmile Chapel", "Pikehook Marsh", "Bent-Oak Refuge"]
 blocking_status: blocked
-architecture_status: migrated
+architecture_status: pending-migration
 companion_content_role: act-finale
 companion_campaign_stage: act-1
 quest_owner: "Bernard Valeon"
-quest_sequence: 3
+quest_sequence: 2
 companion_id: "CMP-05"
 faction_line: ""
 faction_branch: ""
@@ -32,49 +31,31 @@ main_sequence: 0
 story_gate: expedition
 estimated_hours: 1.75
 gameplay_pillars: [exploration, teaching, tracking, rescue, creature-encounter]
-required_states: ["bernard_introduction_complete", "bernard_act1_readiness_viable"]
-optional_state_inputs: ["bernard_road_school_wagon_recovered", "bernard_longlake_route_secured", "bernard_service_injury_claim_supported", "bernard_pikehook_snare_line_mapped", "bernard_hunger_named_early", "lakewatch_trust", "folk_rank", "hunter_training", "longlake_travel_state"]
-field_experience_gate: []
+required_states: ["little_things_missing_complete"]
+optional_state_inputs: ["lakewatch_trust", "folk_rank", "hunter_training", "longlake_travel_state"]
+field_experience_gate: ["bernard_child_or_refuge_observed", "bernard_food_choice_observed", "bernard_self_report_observed"]
 companion_required: "Bernard Valeon"
 duo_quest: true
 pause_points: ["Reedmile Lesson Complete", "Children Sheltered"]
-relationship_gate: "No relationship required; no unresolved departure conflict"
-preparation_inputs: ["bernard_road_school_wagon_recovered", "bernard_longlake_route_secured", "bernard_service_injury_claim_supported", "bernard_pikehook_snare_line_mapped", "bernard_hunger_named_early"]
-preparation_threshold: "2 of 5"
-autonomous_deadline: "The Last Convoy"
-autonomous_resolution: "Bernard escorts the school without the player; all children survive with avoidable minor injuries, the bear dies in defence, and Bernard remains uncertain"
-changed_reentry: "The Road Afterward"
-ensemble_inputs: ["Dismas Raben", "Svala Last-Beacon"]
-identity_hooks: []
-encounter_deck: []
-persistence_scope: regional-milestone
-postgame_season: ""
+relationship_gate: "Quest one complete and no unresolved major conflict"
+archive_reason: "Snapshot before Bernard's ten-piece companion campaign retrofit"
+archived_from: "02 Playable Settings/Grenzburg/50 Campaign/Companions/CMP-05 Bernard Valeon/Little Hands, Long Road.md"
+archived_on: 2026-07-24
+superseded_by: "[[Little Hands, Long Road]]"
 ---
 # Little Hands, Long Road
 
 ## Quest Function
 
-Bernard's Act I finale is a warm Chapel-Folk road-school journey interrupted by an ordinary wounded bear. It lets the player see him teach, joke, cook, and become a hero to children without revealing a conspiracy or escalating into metaphysical lore.
+Bernard's second personal adventure is a warm Chapel-Folk road-school journey interrupted by an ordinary wounded bear. It lets the player see him teach, joke, cook, and become a hero to children without revealing a conspiracy or escalating into metaphysical lore.
 
 The full party is the player and Bernard. [[Oda Reed-Way]] and seven children travel as temporary NPCs outside the companion limit. Grouped movement, teaching stops, and shelter behavior prevent the quest from becoming seven fragile escort routines.
 
 ## Unlock and Staging
 
-Once any two Act I assets in [[Bernard Companion Campaign]] are secured, Oda invites Bernard to help lead an autumn road-school trip from Bent Oak Chapel in [[Longlake Ward]] to [[Bent-Oak Refuge]]. Bernard asks the player to come because the children need two adults who can carry, climb, and respond if the road changes.
+Oda invites Bernard to help lead an autumn road-school trip from Bent Oak Chapel in [[Longlake Ward]] to [[Bent-Oak Refuge]]. Bernard asks the player to come because the children need two adults who can carry, climb, and respond if the road changes.
 
-The tracked docket displays Viable, Prepared, or Strongly Prepared readiness. Accepting at Bent Oak Chapel dismisses the other active companions. The departure warning names the route, expected weather, the presence of children, and the transformed Early Winter conditions.
-
-## Preparation in Play
-
-| Asset | Concrete advantage |
-|---|---|
-| `bernard_road_school_wagon_recovered` | restores full packs, the refuge bell, and a sound fallback wagon |
-| `bernard_longlake_route_secured` | provides alerted road households and a reliable alternate crossing |
-| `bernard_service_injury_claim_supported` | gives families confidence that an injury will not become concealed debt |
-| `bernard_pikehook_snare_line_mapped` | reveals the bear's likely route and a safe child-withdrawal line |
-| `bernard_hunger_named_early` | lets Bernard recognize his own food anxiety before Mika's count |
-
-Two assets permit the expedition. Three make every principal material objective achievable through strong play. Four or five provide one safeguard against injury, lost stores, or failed withdrawal without deciding Bernard's truthfulness.
+Accepting at Bent Oak Chapel dismisses the other active companions. The departure warning names the route, expected weather, the presence of children, and the transformed Early Winter conditions.
 
 ## The Seven Children
 
@@ -98,10 +79,6 @@ The children are learning:
 - how to leave an accurate message for the next traveller.
 
 No faction uses the trip to recruit the children or stage propaganda.
-
-## Vocation Access
-
-Every player vocation can lead the grouped journey, read redundant danger signs, shelter the children, and resolve the bear encounter. Vocation tools provide safer preparation or faster reactions without becoming mandatory rescue keys.
 
 ## Pressure States
 
@@ -231,9 +208,6 @@ If the bear survives, local hunters monitor it and remove the abandoned snare li
 
 ## Outputs
 
-- `bernard_act1_chapter_resolved`: played, autonomous, or aftermath;
-- `bernard_act1_result`: protected, costly, compromised, or broken;
-- `bernard_direction`: truthful, uncertain, or withholding;
 - `road_school_state`: continued, restricted, suspended, or celebrated;
 - `chapel_children_state`: safe, lightly-injured, seriously-injured, or frightened;
 - `mika_food_state`: supported-openly, returned-with-help, publicly-shamed, or concealed;
@@ -244,7 +218,7 @@ If the bear survives, local hunters monitor it and remove the abandoned snare li
 
 The quest lets Bernard be admired without making admiration absolution. Protecting Mika from shame while restoring truth supports **Trusted** approval. Concealing the food or humiliating the child creates a named disagreement.
 
-Completion opens [[A Blade Freely Given]]. **The Child's Portion** now concludes that friendship episode and is available regardless of romance interest.
+Completion opens **The Child's Portion**, the second relationship-interest scene.
 
 ## Seasonal Transformation
 
@@ -256,30 +230,16 @@ In Early Winter the group travels by sled over the established lake road. The be
 - the Long Watch rescue augment enters the custom-part library;
 - Bent-Oak Refuge becomes a stable rest and dialogue site according to outcome;
 - Chapel-Folk road-school and child summer scenes unlock;
-- qualitative approval and the friendship episode.
-
-## Autonomous Resolution and The Road Afterward
-
-If the player commits to [[The Last Convoy]] without joining this finale, Bernard travels with Oda using the preparation already secured. On the default route he carries an undeclared food reserve and delays naming the danger:
-
-- all seven children survive with avoidable minor injuries;
-- the bear reaches the shelter line and is killed in necessary defence;
-- the road school continues under winter restriction;
-- Bernard admits the reserve after the crisis and remains `uncertain`.
-
-Truthful influence and at least three assets can produce an autonomous morally successful rescue with permanent supply or wagon loss. Poor preparation or withholding can cause a serious nonfatal injury and suspend the school. Bernard cannot die and no child dies unseen.
-
-The winter aftermath **The Road Afterward** permits compensation, bell repair, removal of the remaining snare line, and a later admission. It cannot reverse injuries, restore the bear, replay the journey, or grant the missed progression rewards.
+- qualitative approval and second relationship-interest scene.
 
 ## Navigation
 
 - [[Bernard Valeon]]
-- [[Bernard Companion Campaign]]
 - [[Oda Reed-Way]]
 - [[Bent-Oak Refuge]]
 - [[Bernard Field Familiarity and Relationships]]
 - [[Bernard Long Watch Greatsword Package]]
 - [[Predators and Oversized Fauna]]
-- [[A Blade Freely Given]]
+- [[Embers Without Excuse]]
 - [[Companion Field Familiarity and Duo Quest Standard]]
 - [[Companions MOC]]

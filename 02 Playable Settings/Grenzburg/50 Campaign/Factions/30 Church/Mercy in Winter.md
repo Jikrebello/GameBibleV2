@@ -15,7 +15,7 @@ act: act-2
 availability_window: ["Deep Winter"]
 repeatability: one-shot
 cutoff_result: transforms
-world_state_outputs: ["white_flame_miracle_witnessed", "mercy_hospital_state", "caestus_pastoral_authority"]
+world_state_outputs: ["white_flame_miracle_witnessed", "mercy_hospital_state", "caestus_pastoral_authority", "bernard_mercy_heat_plan"]
 required_locations: ["Mercy Hospital", "Outer Winter Camps", "Paupers' Cloister"]
 blocking_status: outlined
 quest_owner: "Church of Grenzburg"
@@ -71,6 +71,7 @@ The warning screen names affected quests, leaders, services, and political-settl
 - `white_flame_miracle_witnessed`
 - `mercy_hospital_state`
 - `caestus_pastoral_authority`
+- `bernard_mercy_heat_plan`: set when Bernard helps leave Mercy Hospital with a witnessed heat, fuel-release, and evacuation procedure.
 
 ## Rewards and Return Value
 
@@ -85,6 +86,7 @@ At the next season gate, unresolved work transforms into a named institutional r
 ## Navigation
 
 - [[Church of Grenzburg]]
+- [[Bernard Companion Campaign]]
 - [[Faction Questlines MOC]]
 - [[Factions Overview]]
 - [[Narrative State Register]]

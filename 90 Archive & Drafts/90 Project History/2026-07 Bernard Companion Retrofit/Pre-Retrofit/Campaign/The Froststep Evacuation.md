@@ -1,7 +1,7 @@
 ---
 type: event
-status: canon
-canon_level: local
+status: archived
+canon_level: obsolete
 visibility: author-only
 era: ["1356 AR"]
 region: ["Kedrava", "Froststep Road"]
@@ -11,7 +11,10 @@ appears_in: ["Grenzburg"]
 needs: []
 aliases: ["The Froststep Relief Failure"]
 tags: [game-ready]
-architecture_status: migrated
+archive_reason: "Snapshot before Bernard's ten-piece companion campaign retrofit"
+archived_from: "02 Playable Settings/Grenzburg/50 Campaign/Companions/CMP-05 Bernard Valeon/The Froststep Evacuation.md"
+archived_on: 2026-07-24
+superseded_by: "[[The Froststep Evacuation]]"
 ---
 # The Froststep Evacuation
 
@@ -66,7 +69,6 @@ Bernard remembers the moment of confession as the first honest thing he did afte
 ## Navigation
 
 - [[Bernard Valeon]]
-- [[Bernard Companion Campaign]]
 - [[Hospice of the Lantern Road]]
 - [[Hospice-Mother Radena Vosk]]
 - [[Matej Solin]]

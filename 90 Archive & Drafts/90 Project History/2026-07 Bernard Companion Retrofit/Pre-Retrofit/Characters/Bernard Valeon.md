@@ -1,7 +1,7 @@
 ---
 type: character
-status: canon
-canon_level: local
+status: archived
+canon_level: obsolete
 visibility: author-only
 era: ["Present Day"]
 region: ["Grenzburg", "Kedrava"]
@@ -20,7 +20,10 @@ home_base: "Blackjack Yard"
 foil: "Zafir ibn Samad"
 relationship_theme: "receiving without taking"
 relationship_perks: ["Kept in the Light", "Last Watch"]
-architecture_status: migrated
+archive_reason: "Snapshot before Bernard's ten-piece companion campaign retrofit"
+archived_from: "02 Playable Settings/Grenzburg/30 Characters/10 Companions/Bernard Valeon.md"
+archived_on: 2026-07-24
+superseded_by: "[[Bernard Valeon]]"
 ---
 # Bernard Valeon
 
@@ -28,7 +31,7 @@ architecture_status: migrated
 
 Bernard Valeon is a thirty-two-year-old Kedravan former lay knight of the [[Thalmyric Military Orders|Order of the Long Watch]]. He was raised in a frontier hospice, took vows of poverty and obedience, and was dismissed after secretly hoarding relief stores during [[The Froststep Evacuation]]. Medori purchased his restitution bond, making him an outsider debtor and one of Grenzburg's eight full companions.
 
-He joins during [[The Black Road Main Quest|The Black Road]], remains optional to critical-path completion, and may serve in the player's field party of three companions. [[Bernard Companion Campaign]] gives him ten formal pieces across the full seasonal story. Its operations use the normal party, its three act finales use the fixed player-plus-Bernard duo structure, and its private friendship and relationship episodes remain one-on-one.
+He joins during [[The Black Road Main Quest|The Black Road]], remains optional to critical-path completion, and may serve in the player's field party of three companions. His personal adventures use the fixed player-plus-Bernard duo structure in [[Companion Field Familiarity and Duo Quest Standard]].
 
 ## Appearance
 
@@ -39,10 +42,10 @@ His armour looks like useful inheritance rather than a matched suit:
 - plate protects his right gauntlet, arm, shoulder, breast, hip, and leading leg;
 - scale, mail, layered wool, and padded leather preserve movement along his left side;
 - old Long Watch repairs sit beside Eclessian marcher rivets and Blackjack inventory marks;
-- at recruitment, his grey greatsword has served at least three people before him and carries no personal name;
+- his grey greatsword has served at least three people before him and carries no personal name;
 - a rope of dark cord and plain wooden beads wraps around his left hand beneath the sword grip.
 
-The sword, armour, bedroll, pack, and even most of his clothes are issued, inherited, or borrowed. The prayer rope is initially the only object he calls **mine** without correction. During [[A Blade Freely Given]] he returns the inherited sword to the common armoury and may accept his first lawfully owned greatsword as an unconditional gift. He names it **Open Hand** only after a resolved [[The Open Hospice|Open Hospice]] outcome; otherwise it remains his and stays unnamed.
+The sword, armour, bedroll, pack, and even most of his clothes are issued, inherited, or borrowed. The prayer rope is the only object he calls **mine** without correction.
 
 ## Childhood on the Lantern Road
 
@@ -100,7 +103,7 @@ His prayer rope focuses breath, memory, and attention. It is not a battery, wand
 
 [[Bernard Long Watch Greatsword Package]] controls his companion combat. He is a two-handed greatsword protector who holds approaches, interposes for vulnerable allies, creates recovery intervals, and applies restrained White-Flame support.
 
-He begins with modest kindling and learned physical forms. Personal completion of [[Embers Without Excuse]] unlocks the player's [[Paladin]] vocation for the current playthrough and account; [[The Open Hospice]] grants its capstone and the Long Watch custom-vocation blueprint on eligible player-completed outcomes. Losing sacred coherence can close White-Flame techniques but never deletes learned armour or greatsword skill.
+He begins with modest kindling and learned physical forms. Quest three unlocks the player's [[Paladin]] vocation; quest four grants its capstone and the Long Watch custom-vocation blueprint. Losing sacred coherence can close White-Flame techniques but never deletes learned armour or greatsword skill.
 
 Bernard supplies advantages and observations, never a mandatory traversal, healing, ritual, or ending key.
 
@@ -126,30 +129,20 @@ He strains at:
 
 Repeated concealment after warning, encouraging him to steal from patients or the dead, or using his kindling as immunity creates a departure conflict governed by [[Bernard Field Familiarity and Relationships]].
 
-## Companion Campaign
-
-[[Bernard Companion Campaign]] is the controlling sequence:
+## Four-Quest Arc
 
 1. [[Little Things Missing]]
-2. [[The Wagon in the Reeds]]
-3. [[Little Hands, Long Road]]
-4. [[A Blade Freely Given]]
-5. [[Four Fires]]
-6. [[Embers Without Excuse]]
-7. [[Enough for Two]]
-8. [[Beds Before Banners]]
-9. [[The Open Hospice]]
-10. [[The First Open Table]]
-
-The campaign also reserves ten embedded opportunities in main, faction, exploration, company, and systemic play. Bernard progresses at each act gate even if the player does not track him. His default unattended route is that of a compromised caregiver: the children live with avoidable injuries, the winter patients survive while Petra withholds forgiveness, and Brina ultimately places his useful care work inside the Blackjack infirmary under open inventory control. He cannot die unseen.
+2. [[Little Hands, Long Road]]
+3. [[Embers Without Excuse]]
+4. [[The Open Hospice]]
 
 ## Relationship
 
-The relationship theme is **receiving without taking**. A female player may pursue romance; a male player may pursue a sworn bond. Commitment becomes available only after the player personally completes [[Embers Without Excuse]] at Trusted approval and never follows automatically from approval.
+The relationship theme is **receiving without taking**. A female player may pursue romance; a male player may pursue a sworn bond. Commitment becomes available after quest three and never follows automatically from approval.
 
-Romance adds one freely given bead to Bernard's prayer rope after he asks whether it is truly a gift. Its Bernard-only duo move is **Shared Ember**, upgraded through [[Enough for Two]] to **Shared Ember: Warmth Returned**. Its permanent non-slot perk, **Kept in the Light**, follows an eligible Act III resolution.
+Romance adds one freely given bead to Bernard's prayer rope after he asks whether it is truly a gift. Its permanent perk is **Kept in the Light** and its Bernard-only duo move is **Shared Ember**.
 
-The sworn bond is a mutual promise to name danger, return for the endangered, and tell the truth before shame becomes concealment. Its Bernard-only duo move is **No One Alone**, upgraded through [[Enough for Two]] to **No One Alone: Two Bearers**. Its permanent non-slot perk, **Last Watch**, follows an eligible Act III resolution.
+The sworn bond is a mutual promise to name danger, return for the endangered, and tell the truth before shame becomes concealment. Its permanent perk is **Last Watch** and its Bernard-only duo move is **No One Alone**.
 
 ## Outcome Range
 
@@ -172,7 +165,6 @@ Death remains possible only through an explicit, late, telegraphed sacrifice aft
 ## Navigation
 
 - [[Bernard Field Familiarity and Relationships]]
-- [[Bernard Companion Campaign]]
 - [[Bernard Long Watch Greatsword Package]]
 - [[Bernard Compulsion and Accountability System]]
 - [[Bernard Banter and Reactivity]]
