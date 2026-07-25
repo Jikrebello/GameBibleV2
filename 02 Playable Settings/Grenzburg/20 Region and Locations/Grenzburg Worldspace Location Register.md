@@ -189,6 +189,12 @@ Medium-site names are canon. [[Seven Mounds]] is claimed by [[A House Fed by Bon
 - **West Refuge underways (BE-E08):** one authored exploration from West Refuge Hall into the city underways can clear and mark a nonpublic patient route. Completing it without handing the route to an exclusive underworld claimant sets `bernard_underways_evacuation_route`.
 - **Cairnside Shelter:** the minor road refuge beside Lake Road Cairn is repaired during [[Watch Until Morning]]. Its roof, stove, declared stores, and service cords persist according to `cairnside_shelter_state`; the site does not require a separate place dossier.
 
+## Ilyana Embedded Performance Routes
+
+- **Eel Bridge and the reed-bank path:** [[No Song by Command]] uses the bridge, spring culvert, ferry structures, and household paths without turning the crossing into Salt-Reed property. Prior road work may set `ilyana_eel_bridge_route_known`.
+- **Quiet Reed Landing:** [[One Private Song]] uses a minor Longlake ferry landing and nearby camp as an intimate romance space. It remains a public working landing before and after the episode.
+- **River Boom acoustic route (IL-E08):** one authored exploration of the towers and maintenance galleries can identify returning echoes, a safe counter-performance position, and an evacuation line. It may set `ilyana_boom_tower_route_known`; repeat visits do not duplicate the asset.
+
 ## Content Placement Rules
 
 1. A critical-path chapter may claim a reserved site, but cannot silently move it to another region.

@@ -61,7 +61,11 @@ tags: [game-ready]
 
 ## Personal Histories and Regional Actors
 
-- [[Colonel Varko Milen]]
+- [[Patron-Captain Caterina Morante]]
+- [[Mirella Corsi]]
+- [[Nereo Valdo]]
+- [[Celia Orsani]]
+- [[Tomas Marin]]
 - [[Lio Varcen]]
 - [[Astrid Snow-Rope]]
 - [[Yrsa Wolf-Brand]]

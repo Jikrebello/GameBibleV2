@@ -49,7 +49,7 @@ At act endings, tracked campaigns show a consolidated readiness entry. Untracked
 | Companion | Autumn | Winter | Spring and Muster | Summer |
 |---|---|---|---|---|
 | [[Elara Velescar]] | reads Grenzburg rank through servants and funeral display; recognizes Vardek goods before admitting why | contrasts noble emergency privilege with refugee loss; challenges Ashira over when discovery becomes permission | identifies families treating dead service as inherited property; can fund evacuation through resolved assets | visits returned graves or restored household holdings, then chooses adventure without title; controlled in [[Elara Banter and Reactivity]] |
-| [[Ilyana Veshkar]] | quietly takes command during the Black Road rescue, then yields formal authority | argues with Dismas about leaving positions and with officers about clean breaches | recognizes Gerhold's language of expendable service before he accepts the Muster | trains a life-preserving specialist cadre, serves under secrecy, or is absent through departure |
+| [[Ilyana Veshkar]] | takes practical command during the Black Road rescue, then confronts the Salt-Reed forgery and learns to build plans that survive refusal | establishes voluntary signals, fog, elemental cadences, and casualty calls while the former performers arrive under their own names | identifies the Muster's command cadence, releases disputed service and authorship claims, and refuses to treat emergency need as consent | travels as an open-road Bard, serves as a supervised civic signal-Bard, accepts a narrower settlement, or departs after a warned break |
 | [[Svala Last-Beacon]] | makes the first real shared meal after Southbound Muster | reacts to every surrender and refugee gate; tests her recall method under siege noise | treats Last Hearth as a practical home rather than a symbol | keeps a road beacon, returns under conditional hall terms, or leaves no fire if broken |
 | [[Ashira bath Melan]] | corrects false claims that Mediums hold souls and then evades the harm her imprints caused | studies the Drake and residue without romanticizing them; disputes Elara over who may use accurate knowledge | recognizes the Muster's apparent speech as computation and faces copies of her named roster | opens a nonhuman field school, leaves a sealed archive, or vanishes with the human patterns |
 | [[Bernard Valeon]] | tends convoy wounds, confronts genuine theft, recovers the road-school wagon, and escorts the Chapel-Folk children | keeps four shelters alive and serves the Long Watch relief mission; genuine kindling changes duty rather than proving innocence | secures West Refuge, opposes Gerhold's refusal to release service at death, and builds accountable lay care | demonstrates his settled destination through [[The First Open Table]]; controlled in [[Bernard Banter and Reactivity]] |
@@ -93,13 +93,30 @@ Only distinct authored instances count. Repeatable jobs, idle travel, and recycl
 
 Only distinct authored instances count. Another companion may preserve a route, shelter, witness, or material objective, but cannot confess, declare a reserve, or accept a gift for Bernard.
 
+### Ilyana Veshkar
+
+[[Ilyana Companion Campaign]] controls Ilyana's eleven authored pieces, ten-piece playthrough ceiling, ten embedded opportunities, three act deadlines, deterministic autonomous route, and changed re-entry. Her embedded register is:
+
+1. voluntary local signal authority in [[Roads Worth Saving]];
+2. fog, cadence, and casualty support in [[The City in Siege]];
+3. a sampled Muster cadence in [[The Land Reclaimed]];
+4. a voluntary Blackjack signal drill in [[Terms of Service]];
+5. hospital breathing support in [[Mercy in Winter]];
+6. one local performance-credit dispute;
+7. one river rescue that leaves ferrymen in command of their own route;
+8. River Boom acoustic-route exploration;
+9. an open rehearsal at the Blackjack Yard;
+10. a one-shot stranded-performer encounter.
+
+Only distinct authored instances count. Another companion may preserve a performer, score, route, or instrument, but cannot grant consent, release Ilyana's claims, or decide whether she relinquishes ownership.
+
 ## Foil Pair Progression
 
 | Pair | First disagreement | Midgame reversal | Late respect |
 |---|---|---|---|
 | Elara and Ashira | adventurous discovery against exact knowledge | each recognizes how an accurate record can still become a weapon or excuse | they establish a delving protocol requiring provenance, living custodians, and bounded use |
 | Bernard and Zafir | freely chosen vow against enforceable protection | Bernard accepts records and consequences; Zafir confronts the point where bounded control still owns a person | they can write a hospice rule that protects without converting care into ownership |
-| Ilyana and Dismas | command secrecy against flight | each is placed in the other's temptation during winter | they plan a rescue where one holds and the other returns |
+| Ilyana and Dismas | arranging others against escaping responsibility | each is placed in the other's temptation during winter | they plan a rescue in which every role may be refused and every withdrawal names who still needs help |
 | Svala and Tavio | hearing yield against proving victory | Svala must trust a test; Tavio must stop one | they create a combat recall drill that treats restraint as mastery |
 
 ## Main-Crisis Contributions
@@ -121,6 +138,8 @@ Summer codas settle destinations. Repeating reconstruction seasons may change am
 - [[Elara Banter and Reactivity]]
 - [[Bernard Companion Campaign]]
 - [[Bernard Banter and Reactivity]]
+- [[Ilyana Companion Campaign]]
+- [[Ilyana Banter and Reactivity]]
 - [[Narrative State Register]]
 - [[Grenzburg Chapter and Window Matrix]]
 - [[Postgame Reconstruction Cycle]]

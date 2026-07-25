@@ -9,28 +9,28 @@ culture: []
 related_factions: ["Blackjack Corps"]
 appears_in: ["Grenzburg"]
 needs:
-  - name and block the 42 remaining reserved authored pieces during individual companion passes
-  - approve the other six companions' exact preparation thresholds and autonomous outcome tables during individual passes
+  - name and block the 35 remaining reserved authored pieces during individual companion passes
+  - approve the other five companions' exact preparation thresholds and autonomous outcome tables during individual passes
 tags: [game-ready]
 ---
 # Companion Campaign Expansion Register
 
-This register controls exactly eighty-eight authored companion pieces. Elara's and Bernard's eleven-piece authored campaigns are migrated and blocked. The other existing quest sources retain `architecture_status: pending-migration`; untitled slots do not receive empty notes.
+This register controls exactly eighty-eight authored companion pieces. Elara's, Ilyana's, and Bernard's eleven-piece authored campaigns are migrated and blocked. The other existing quest sources retain `architecture_status: pending-migration`; untitled slots do not receive empty notes.
 
-Current authored count: **46 linked / 42 reserved / 88 total**. Because romance and sworn bond are mutually exclusive and only one of each may be committed across the roster, no more than **74 pieces** are playable in one run: seventy-two non-exclusive pieces, one romance, and one bond.
+Current authored count: **53 linked / 35 reserved / 88 total**. Because romance and sworn bond are mutually exclusive and only one of each may be committed across the roster, no more than **74 pieces** are playable in one run: seventy-two non-exclusive pieces, one romance, and one bond.
 
 ## Count Authority
 
 | Role | Linked notes | Reserved pieces | Total |
 |---|---:|---:|---:|
 | Introductory cases | 8 | 0 | 8 |
-| Short act operations | 6 | 18 | 24 |
+| Short act operations | 9 | 15 | 24 |
 | Duo act finales | 24 | 0 | 24 |
-| Friendship episodes | 2 | 6 | 8 |
-| Romance episodes | 2 | 6 | 8 |
-| Sworn-bond episodes | 2 | 6 | 8 |
-| Summer codas | 2 | 6 | 8 |
-| **Authored pieces** | **46** | **42** | **88** |
+| Friendship episodes | 3 | 5 | 8 |
+| Romance episodes | 3 | 5 | 8 |
+| Sworn-bond episodes | 3 | 5 | 8 |
+| Summer codas | 3 | 5 | 8 |
+| **Authored pieces** | **53** | **35** | **88** |
 
 ## CMP-01: Elara Velescar
 
@@ -54,19 +54,19 @@ Embedded opportunities: 10 blocked through [[Elara Companion Campaign]] and [[El
 
 | ID | Role | Content | Status |
 |---|---|---|---|
-| CMP-02-I | introduction | [[The Medal in the Mud]] | pending migration |
-| CMP-02-A1-O | Act I operation | untitled | reserved |
-| CMP-02-A1-F | Act I finale | [[A Breach Too Clean]] | pending migration |
-| CMP-02-A2-O | Act II operation | untitled | reserved |
-| CMP-02-A2-F | Act II finale | [[Names Behind the Wall]] | pending migration |
-| CMP-02-A3-O | Act III operation | untitled | reserved |
-| CMP-02-A3-F | Act III finale | [[Hold Until Relieved]] | pending migration |
-| CMP-02-FR | friendship episode | untitled | reserved |
-| CMP-02-RM | romance episode | untitled | reserved |
-| CMP-02-BD | sworn-bond episode | untitled | reserved |
-| CMP-02-S | summer coda | untitled | reserved |
+| CMP-02-I | introduction | [[Five Cases at Customs]] | blocked; migrated |
+| CMP-02-A1-O | Act I operation | [[The Road Without a Conductor]] | blocked; migrated |
+| CMP-02-A1-F | Act I finale | [[No Song by Command]] | blocked; migrated |
+| CMP-02-FR | friendship episode | [[A Tune with No Owner]] | blocked; migrated |
+| CMP-02-A2-O | Act II operation | [[Reeds Under Ice]] | blocked; migrated |
+| CMP-02-A2-F | Act II finale | [[The Free Refrain]] | blocked; migrated |
+| CMP-02-RM | romance episode | [[One Private Song]] | blocked; migrated |
+| CMP-02-BD | sworn-bond episode | [[Duet Without a Conductor]] | blocked; migrated |
+| CMP-02-A3-O | Act III operation | [[Every Case Its Owner]] | blocked; migrated |
+| CMP-02-A3-F | Act III finale | [[The Last Common Measure]] | blocked; migrated |
+| CMP-02-S | summer coda | [[The Road Takes the Song]] | blocked; migrated |
 
-Embedded opportunities: 10 reserved. Autonomous Act I, II, and III actions are controlled below; exact results await the user-approved deep block.
+Embedded opportunities: 10 blocked through [[Ilyana Companion Campaign]] and [[Ilyana Banter and Reactivity]]. Act readiness is two of five; all three autonomous results and changed re-entry states are locked.
 
 ## CMP-03: Svala Last-Beacon
 
@@ -200,7 +200,7 @@ These contributions happen through Blackjack assignments, camp scenes, reports, 
 | Companion | Act I: Closing Roads | Act II: Winter's Teeth | Act III: Unending Muster |
 |---|---|---|---|
 | Elara | Reads abandoned structures, spoil, and smuggler handling to improve one road investigation. | Guides a rescue or pursuit through damaged urban fabric after the breach. | Identifies which recovered records and grave goods establish living claims during reclamation. |
-| Ilyana | Assesses Tannbruck's field scripts and organizes one disciplined Blackjack specialist action. | Counters Shell-fire or breach machinery during the siege without assuming command of the army. | Helps detune a Muster installation while naming the human cost of treating personnel as inputs. |
+| Ilyana | Coordinates one road or Tannbruck signal action while leaving local route authority intact. | Establishes fog, elemental cadence, casualty calls, and counter-signals during the western breach. | Samples and counters a Muster cadence while recognizing that residue cannot consent or refuse. |
 | Svala | Protects the southbound column and interprets one winter-road or yielded-combat dispute. | Holds a civilian refuge or retreat lane during the urban breach. | Keeps a southern extraction road open for wounded troops and returning households. |
 | Ashira | Uses ordinary scholarship and restrained nonhuman imprints to reconstruct one hostile movement without raising Act I's supernatural ceiling. | Reads Grobi, Drake, or crowd movement while refusing recognizable human imprints as terror tools. | Distinguishes recent residue from older command patterns and exposes one false tactical assumption. |
 | Bernard | Secures casualty and property safeguards in [[Roads Worth Saving]], including the Longlake route. | Establishes a protected casualty lane during [[The City in Siege]]. | Maps reclaimed patient routes through [[The Land Reclaimed]]. |
@@ -215,7 +215,7 @@ At each act gate, an unresolved companion undertakes the action below whether or
 | Companion | Act I autonomous action | Act II autonomous action | Act III autonomous action |
 |---|---|---|---|
 | Elara | Follows Vasko's copied field book to the Southwood dig. | Enters Vardek's winter cabinet operation by the strongest access she possesses. | Races surviving Velescar interests to the Ledger Quays cache and its claims. |
-| Ilyana | Investigates the suspiciously clean breach tied to her old command habits. | Seeks the names and evidence concealed behind the wartime wall. | Accepts or refuses the relief position that tests her command doctrine. |
+| Ilyana | Goes to Eel Bridge to recover Nereo without a plan that requires his performance. | Stages a casualty refrain using whatever valid or invalid authority she still possesses. | Confronts the River Boom cadence engine and settles the Salt-Reed releases, credit, and property. |
 | Svala | Answers the unresolved yield claim attached to the champion she killed. | Returns to face the Rimewing judgement available in Grenzburg. | Takes responsibility for the last viable winter road and those using it. |
 | Ashira | Confronts the continued practical use of the human faces she weaponized. | Answers the institutional and family cost attached to Qesheth's Bow Tower. | Decides the fate of her recognizable human-derived imprint roster. |
 | Bernard | Conducts the Chapel-Folk children's road journey; by default all survive with avoidable injuries and the bear dies in defence. | Saves the relief patients and genuinely kindles White Flame, but Petra accepts restitution without forgiveness and player unlocks close. | Serves the Blackjack infirmary under Brina's inventory authority; Open Lamp remains unrealized. |

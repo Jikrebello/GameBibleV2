@@ -63,6 +63,7 @@ The matrix also reads settlement survival, casualties, player freedom, and unres
 - [[The Grobi|The Grobi in Grenzburg]] are band-specific enemies and negotiable actors, never a joinable government.
 - [[Frontier Industry Chains]] own substantial production, labor, craft, and resource stories.
 - [[Seasonal Settlement Chains]] own local authority and seasonal survival stories.
+- [[The Salt-Reed Company]] is a broken Sermoran performance company whose individual members, property, and authorship remain distinct throughout [[Ilyana Companion Campaign]].
 - Delvers, schools, craftspeople, hunters, and trainers retain secondary progress without becoming global rulers.
 
 ## Moral Guardrails

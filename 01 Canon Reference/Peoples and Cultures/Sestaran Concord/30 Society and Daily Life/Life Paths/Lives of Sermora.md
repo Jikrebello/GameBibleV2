@@ -27,6 +27,12 @@ The republic's signature life: sailor at twelve, prize-crew at eighteen, and the
 
 Sermora's soft-power profession, guilded in all but name: the great salon-keepers are educated, propertied, and professionally protected (violence against a registered house is answered by the Ten with disproportion, as policy). The road: apprenticed young to a house, trained in languages, music, and the *listening arts*; established by patronage; and always, eventually, the visit — the Ten's registrar, with terms. The forks: what to sell (gossip is rent; patterns are wealth; *documents* are dangerous) and whom to protect — every salon-keeper's ledger has entries she has chosen not to make, and those silences are her actual estate. The best of them retire as marriage-brokers and political fixers, holding thirty years of the republic's unwritten history; the Ten pension them attentively and attend their funerals sincerely.
 
+## The Reed-Company Bard
+
+Sermoran performance lives between art, labor, signal, and war. A reed company may play theatres, canal festivals, salons, convoy decks, casualty lanes, or privateer actions in the same year. [[Harmonic Shellcraft]] lets trained Bards sustain fog, breath, mending, elemental cadence, and counter-signal work without turning every musician into a battle caster.
+
+Company names and common arrangements may be shared property. Personal instruments, authored lines, wages, and participation remain individual. Patronage can create real opportunity and equally real coercion when a booking leader or captain treats applause, prior success, or control of equipment as continuing consent.
+
 ## The Merchant Lord, the Doge, and the Ten
 
 The patrician road begins with galley-shares before marriage and marriages negotiated like fleet mergers. Its summit is the Dogeship: richly robed, ceremonially prominent, and constrained by the Admiralty, merchant houses, guilds, and ship-share interests. The annual Ring-Casting claims friendship and command over the Thalassian; sailors note that the sea has never signed. Behind public ceremony, the **Veiled Office** investigates treason and foreign purchase, while the **Night Oar** performs deniable seizures and violence. Neither institution rules alone, and both accumulate enemies among the very houses they protect.

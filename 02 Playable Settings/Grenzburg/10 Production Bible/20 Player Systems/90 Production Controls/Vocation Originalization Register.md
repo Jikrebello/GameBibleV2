@@ -54,6 +54,7 @@ No vocation or skill family with `placeholder` status may be marked public, game
 | [[Rune Fist]] | review | new vocation concept with provisional working names | prototype and compare counter-casting silhouette, resource use, and movement against adjacent games |
 | [[Paladin]] | review | original setting integration; final active list unwritten | complete Bernard path, name skills, and test distinction from Fighter |
 | [[Binder]] | review | original setting integration; final asset roster unwritten | complete Zafir path and create readable consent and release presentation |
+| [[Bard]] | review | area support, elemental boons, counters, performance resources, and force conversion informed by several RPG traditions | prototype an original double-flute silhouette, Lead logic, Resonance economy, consent presentation, and progression |
 | [[Custom Vocation Workshop]] | review | common class-builder concept | create an original interface, budget, compatibility model, and account-progression presentation |
 
 ## Known Placeholder Families
@@ -77,6 +78,10 @@ The twelve single-script names are provisional. Mixed labels including `Laser Be
 ### Medium
 
 `Miasma`, `Lassitude`, `Silentium`, `Exequy`, `Petrification`, `Funnel Trail`, `Sacrificial Bolt`, `Perdition`, `Sopor`, and inherited augment labels require review. Generic dictionary terms may ultimately remain only where their final function and presentation are independently designed.
+
+### Bard
+
+The design may retain general functions such as area healing, elemental boons, counter-performance, sustained support, and a secondary resource. It may not reuse distinctive Dragon's Dogma, Dragon's Dogma Online, Dungeons & Dragons, or Pathfinder skill names, tooltip language, exact progression order, animation identity, or full kit grouping. `Harbor Fog`, `Common Breath`, `Mending Mist`, `Countervoice`, and other active labels remain author-only working names until prototype review.
 
 ## Originalization Test
 

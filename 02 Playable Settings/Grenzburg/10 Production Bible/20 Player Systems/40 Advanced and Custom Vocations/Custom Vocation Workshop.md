@@ -108,6 +108,7 @@ The final part budget and full matrix remain provisional. These laws are already
 - Medium parts never turn shades into souls or persons;
 - Paladin sacred parts retain White-Flame coherence and restitution rules;
 - Binder parts retain consent, release, and anti-soulbinding rules;
+- Bard parts retain recoverable-health, hearing, refrain, and anti-coercion limits;
 - a movement part can improve a route but cannot become mandatory for the critical path;
 - capstone parts remain unavailable until their quests are completed;
 - a custom vocation must present a readable combat promise rather than a pile of unrelated highest-value moves.

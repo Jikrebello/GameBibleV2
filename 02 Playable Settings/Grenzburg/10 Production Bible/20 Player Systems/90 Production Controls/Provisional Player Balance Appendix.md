@@ -74,6 +74,7 @@ These tables are not implementation targets. They predate Stagger Power, Staying
 | Rune Fist | Stagger Power, Staying Power, both defences | Stamina | modest raw ranged output |
 | Paladin | Health, Strength, Stagger Power, Magick Defence | Staying Power | slow commitments and limited sustained mobility |
 | Binder | Magick, Magick Defence, Stamina | Intelligence-facing utility | low direct physical pressure |
+| Bard | Stamina, Magick, Magick Defence | Intelligence-facing support and recovery | low direct damage and severe isolation risk |
 
 ## Prototype Questions
 

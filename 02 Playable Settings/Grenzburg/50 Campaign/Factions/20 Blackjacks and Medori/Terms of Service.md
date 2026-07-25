@@ -15,7 +15,7 @@ act: act-1
 availability_window: ["Early Autumn"]
 repeatability: one-shot
 cutoff_result: transforms
-world_state_outputs: ["blackjack_rank_admitted", "induction_terms_state", "brina_trust"]
+world_state_outputs: ["blackjack_rank_admitted", "induction_terms_state", "brina_trust", "ilyana_voluntary_signal_drill"]
 required_locations: ["Blackjack Yard", "Debtors' Row", "Iron Ledger Counting-House"]
 blocking_status: outlined
 quest_owner: "Blackjacks and Medori"
@@ -54,6 +54,8 @@ At least two routes establish every required fact. Social skill, cultural famili
 
 Force uniform terms, accept individualized risk pricing, or secure only the most abused debtor.
 
+If [[Ilyana Veshkar]] is present, Brina asks her to demonstrate the Yard's emergency signal drill. Ilyana may publish each role, duration, and release cue, producing `ilyana_voluntary_signal_drill`; allowing Koss to treat a response cadence as automatic consent instead supports an entitled direction beat. The induction remains completable without her.
+
 ## Fail-Forward Results
 
 If signatures occur, a review petition remains possible but leverage rises. A missing debtor leaves a locker trail.
@@ -71,6 +73,7 @@ The warning screen names affected quests, leaders, services, and political-settl
 - `blackjack_rank_admitted`
 - `induction_terms_state`
 - `brina_trust`
+- `ilyana_voluntary_signal_drill`: set when Ilyana establishes a signal drill whose participants knowingly choose roles and may leave at the declared release cue.
 
 ## Rewards and Return Value
 
@@ -85,6 +88,7 @@ At the next season gate, unresolved work transforms into a named institutional r
 ## Navigation
 
 - [[Blackjacks and Medori]]
+- [[Ilyana Companion Campaign]]
 - [[Faction Questlines MOC]]
 - [[Factions Overview]]
 - [[Narrative State Register]]

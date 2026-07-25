@@ -120,11 +120,13 @@ Each anchor updates `muster_anchor_count`, its region, its finale power, and its
 
 ## Companion Intersections
 
-All companion histories can react to return, remains, and rebuilding. Ilyana and Dismas carry especially strong military accountability scenes; Svala and Bernard support the living settlement; Ashira clarifies recurrence; Tavio and Zafir open specialist routes. No companion is mandatory.
+All companion histories can react to return, remains, and rebuilding. Ilyana and Dismas carry especially strong responsibility scenes around command and withdrawal; Svala and Bernard support the living settlement; Ashira clarifies recurrence; Tavio and Zafir open specialist routes. No companion is mandatory.
 
 [[Elara Velescar]] can compare recovered stores, service rolls, makers' marks, and refugee testimony before salvage is redistributed. Giving copies to the living claimants rather than merely cataloguing valuable objects records `elara_living_claims_indexed`, one preparation asset for [[No Lady of Velescar]]. Ordinary clerks can complete the reclamation without her.
 
 [[Bernard Valeon]] can mark casualty collection points, return corridors, and shelter handoffs while the reclaimed road is still being cleared. Completing the route with named carriers records `bernard_reclaimed_patient_routes` for [[The Open Hospice]]. Reclamation remains fully viable without him.
+
+[[Ilyana Veshkar]] can record one Muster cadence at a disabled command point and distinguish its non-conscious repetition from any living person's assent. A clean sample records `ilyana_muster_cadence_sampled` for [[The Last Common Measure]]. Warlock counters and physical destruction remain available without her.
 
 ## Faction Advantages
 

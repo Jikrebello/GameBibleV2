@@ -49,6 +49,8 @@ Grenzburg's pre-experience-constitution controls are preserved under `90 Project
 
 The companion relationship-path separation snapshots are preserved under `90 Project History/2026-07 Relationship Path Separation`. [[Relationship Path Separation Archive Index]] records the shared controls and Elara and Bernard campaign material immediately before romance and same-sex sworn bond became separate authored episodes with distinct states and rewards.
 
+Ilyana's pre-retrofit companion material is preserved under `90 Project History/2026-07 Ilyana Companion Retrofit`. [[Ilyana Companion Retrofit Archive Index]] records her former Vlastravan breach-warlock identity, four superseded quests, Colonel Varko Milen, and the shared controls replaced by her Sermoran Bard campaign.
+
 Grenzburg's pre-production geography and first concept map are preserved under `50 Grenzburg and Playable Settings/2026-07-20 Pre-Worldspace-Constitution`. [[Grenzburg Pre-Worldspace Archive Index]] records the replaced physical baseline, numerical anchors, Fort Tannbruck and Deep Muster placements, and `Grenzburg Regional Map v1.png` before the city and seven-region worldspace were locked.
 
 Grenzburg's pre-player-systems material is preserved under `50 Grenzburg and Playable Settings/2026-07-20 Pre-Player-Systems-Constitution`. [[Grenzburg Pre-Player-Systems Archive Index]] records the imported `Game Lore Bible`, its original source hash, and the player authority replaced by the field-locked vocation model.

@@ -32,7 +32,7 @@ Ordinary vocation skills advance through mastery. A trainer is required when kno
 | Practice | improves ordinary authored skills as mastery rises | use, drills, study, ordinary instruction |
 | Rank proof | opens a new skill family or advanced technique | institution, master, practical examination |
 | Signature teaching | grants a named rare skill, augment, or method | quest, master, recovered manual, dangerous proof |
-| Advanced vocation | opens Paladin or Binder | companion personal quest |
+| Advanced vocation | opens Paladin, Binder, or Bard | companion personal quest |
 | Capstone | completes an advanced vocation or Warlock master spell | late quest with moral, technical, or material proof |
 
 Experience cannot purchase knowledge the character has never encountered. Training also cannot substitute money for moral coherence, meaningful consent, or the resolution of a specific quest.
@@ -49,6 +49,7 @@ Experience cannot purchase knowledge the character has never encountered. Traini
 | [[Rune Fist]] | Warlock Hall and [[Hammer Ward#Anchor Locations|Great Forge]] jointly | Vortharan manuals, military counterscript sites | martial warlock proof and fitted conductor craft |
 | [[Paladin]] | [[Bernard Valeon]] | credible White-Flame custodians after unlock | sacred trust joined to physical instruction |
 | [[Binder]] | [[Zafir the Bound Chainmaster|Zafir]] | recovered name traditions and consent-tested covenants after unlock | exact relation, release, and anti-coercion discipline |
+| [[Bard]] | [[Ilyana Veshkar]] | Sermoran performers, signal crews, instrument makers, and recovered scores after unlock | harmonic Shellcraft, ensemble judgement, and consent-bound support |
 
 ## Campaign Availability Contract
 
@@ -88,6 +89,7 @@ Ordinary rank proof should test the vocation's actual play:
 - Rune Fist catches and returns force without uncontrolled discharge.
 - Paladin protects a real good at cost.
 - Binder establishes a valid relation and honors release.
+- Bard sustains a group, reads when support should change, and respects a refusal under pressure.
 
 ## Proficiency Training
 

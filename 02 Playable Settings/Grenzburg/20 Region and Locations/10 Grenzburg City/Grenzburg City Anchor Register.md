@@ -47,6 +47,18 @@ These are persistent seasonal claims rather than single-use set dressing. Side c
 
 These claims reserve changed quest states without consuming their parent anchors. The Old Tithe Vault is a specialist subspace, not a sixth Ledger Quays district anchor.
 
+### Ilyana Veshkar
+
+- [[Five Cases at Customs]] uses Customs Hall, North Quay Warehouses, River Exchange, quay cranes, and the customs roof walk.
+- [[A Tune with No Owner]] uses Old Market, Bridge Market, Great Bridge Keep, Lantern Market, and the Blackjack Yard as a credited city-performance route.
+- [[Reeds Under Ice]] uses North Quay Warehouses, winter ice lanes, River Exchange, and one quay lifeboat.
+- [[The Free Refrain]] uses the western breach casualty corridor, Debtors' Row, Blackjack Yard, and a retreat position at the River Boom Towers.
+- [[Duet Without a Conductor]] uses a closed Bridgehold signal chamber and its two acoustic galleries.
+- [[Every Case Its Owner]] uses Customs Hall, Chancery House, River Exchange, and River Boom Towers.
+- [[The Last Common Measure]] uses both River Boom Towers, their maintenance galleries, and the river chain mechanism.
+
+These uses preserve each anchor's public and campaign functions. Ilyana's performances do not grant her ownership of a civic route, hall, instrument, score, or signal office.
+
 ### Elara Embedded Claims
 
 - **Named Property Board (EL-E09):** an authored Blackjack Yard scene establishes a visible process for seized goods with identifiable owners. Its availability and dialogue follow [[Elara Companion Campaign]] and do not turn the Yard into a universal legal office.

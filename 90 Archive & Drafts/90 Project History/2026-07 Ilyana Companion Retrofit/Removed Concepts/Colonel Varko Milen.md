@@ -1,7 +1,7 @@
 ---
 type: character
-status: canon
-canon_level: local
+status: archived
+canon_level: obsolete
 visibility: author-only
 era: ["Present Day"]
 region: ["Grenzburg"]
@@ -17,6 +17,10 @@ vocation: ""
 recruitment_window: ""
 foil: ""
 relationship_theme: ""
+archive_reason: "Removed with Ilyana's retired Vlastravan breach-warlock continuity"
+archived_from: "02 Playable Settings/Grenzburg/30 Characters/60 Personal Histories/Colonel Varko Milen.md"
+archived_on: 2026-07-25
+superseded_by: "[[Patron-Captain Caterina Morante]]"
 ---
 # Colonel Varko Milen
 

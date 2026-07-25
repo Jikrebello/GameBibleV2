@@ -9,7 +9,7 @@ culture: []
 related_factions: ["Blackjack Corps"]
 appears_in: ["Grenzburg"]
 needs:
-  - deep-block the remaining six companions through individual approval passes
+  - deep-block the remaining five companions through individual approval passes
 aliases: ["Companion Personal Campaign Standard"]
 tags: [game-ready]
 ---
@@ -126,7 +126,7 @@ The expanded companion budget is added on top of the existing faction, marquee, 
 
 ## Migration
 
-[[Companion Campaign Expansion Register]] controls the 88 authored slots and the seventy-four-piece playthrough ceiling. [[Elara Companion Campaign]] and [[Bernard Companion Campaign]] are completed migrations. Existing notes for the other six retain their current prose until an individual retrofit or deep block and carry `architecture_status: pending-migration` during that interval.
+[[Companion Campaign Expansion Register]] controls the 88 authored slots and the seventy-four-piece playthrough ceiling. [[Elara Companion Campaign]], [[Ilyana Companion Campaign]], and [[Bernard Companion Campaign]] are completed migrations. Existing notes for the other five retain their current prose until an individual retrofit or deep block and carry `architecture_status: pending-migration` during that interval.
 
 ## Navigation
 

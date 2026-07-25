@@ -118,6 +118,7 @@ The six starting vocations are:
 
 - [[Paladin]] unlocks during Bernard's Act II finale and receives its capstone during his Act III finale. Learned great-weapon handling remains available, but White-Flame techniques require moral coherence and genuine restitution after grave violation.
 - [[Binder]] unlocks during Zafir's Act II finale and receives its capstone during his Act III finale. It may direct non-conscious bound forms and freely covenanted beings, never human souls or coerced persons.
+- [[Bard]] unlocks during Ilyana's Act II finale and receives its capstone during her Act III finale. It sustains harmonic Shell refrains, recoverable-health support, elemental cadences, and bounded battle compulsion that never creates consent.
 - [[Custom Vocation Workshop]] opens after two authored vocations are fully mastered. It is a metagame builder, not an in-world school. A saved custom build is itself one field-locked vocation.
 
 Druid, Witch, Monk, and further advanced vocations are deferred. Their absence from Grenzburg's launch framework does not rule on their existence elsewhere.
@@ -128,6 +129,7 @@ Druid, Witch, Monk, and further advanced vocations are deferred. Their absence f
 - Medium shades are non-conscious combat imprints, never captured people or souls.
 - Paladin sacred techniques obey [[White Flame Doctrine]] rather than a neutral spell resource.
 - Binder form cannot make slavery, predatory ownership, or soulbinding morally valid.
+- Bard practice obeys [[Harmonic Shellcraft]]; its healing reaches only recoverable Health and its compulsion remains accountable force.
 - No player vocation creates a new plane, permanent Shell anchor, soul route, or universal metaphysical exception.
 
 ## Party and Field Role

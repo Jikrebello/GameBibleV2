@@ -68,6 +68,7 @@ Exact damage, frame data, input mappings, probability curves, slot budgets, and 
 
 - [[Paladin]] is earned through Bernard's Act II finale and completed through his Act III finale.
 - [[Binder]] is earned through Zafir's Act II finale and completed through his Act III finale.
+- [[Bard]] is earned through Ilyana's Act II finale and completed through her Act III finale.
 - [[Custom Vocation Workshop]] opens as a metagame system after two authored vocations are fully mastered.
 
 ## Production Controls
@@ -91,7 +92,8 @@ Exact damage, frame data, input mappings, probability curves, slot budgets, and 
 8. Medium shades are non-conscious imprints, never captured souls.
 9. White-Flame techniques require moral coherence.
 10. Human souls and coerced persons cannot become responsible Binder assets.
-11. Origin, background, and vocation choices receive material campaign recognition rather than cosmetic dialogue alone.
+11. Bard healing restores only recoverable Health, and Bardic compulsion never creates consent.
+12. Origin, background, and vocation choices receive material campaign recognition rather than cosmetic dialogue alone.
 
 ## Source Boundary
 

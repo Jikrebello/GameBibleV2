@@ -37,6 +37,10 @@ properties:
     displayName: Campaign Stage
   preparation_threshold:
     displayName: Preparation
+  field_experience_gate:
+    displayName: Familiarity Gate
+  duo_quest:
+    displayName: Duo Format
   autonomous_deadline:
     displayName: Deadline
   autonomous_resolution:
@@ -97,6 +101,8 @@ views:
       - companion_content_role
       - relationship_variant
       - companion_campaign_stage
+      - duo_quest
+      - field_experience_gate
       - availability_window
       - preparation_threshold
       - reward_unlocks

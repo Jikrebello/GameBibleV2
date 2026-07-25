@@ -21,7 +21,7 @@ This is the production doorway for eight outsider-debtor companions, eighty-eigh
 | ID | Companion | Sex | Vocation | Recruitment | Principal foil | Relationship theme |
 |---|---|---|---|---|---|---|
 | CMP-01 | [[Elara Velescar]] | woman | [[Slayer]] - Delver-Duelist variant | Early Autumn | [[Ashira bath Melan]] | adventure between equals |
-| CMP-02 | [[Ilyana Veshkar]] | woman | [[Warlock]] | Black Road | [[Dismas Raben]] | comrades who choose life |
+| CMP-02 | [[Ilyana Veshkar]] | woman | [[Bard]] | Black Road | [[Dismas Raben]] | a voice freely answered |
 | CMP-03 | [[Svala Last-Beacon]] | woman | [[Fighter]] | Open Autumn | [[Tavio Meran]] | shared hearth |
 | CMP-04 | [[Ashira bath Melan]] | woman | [[Medium]] | Early Autumn | [[Elara Velescar]] | intellectual equals |
 | CMP-05 | [[Bernard Valeon]] | man | [[Paladin]] | Black Road | [[Zafir ibn Samad]] | receiving without taking |
@@ -42,11 +42,11 @@ This is the production doorway for eight outsider-debtor companions, eighty-eigh
 | Summer coda | 1 | 8 |
 | **Authored pieces** | **11** | **88** |
 
-Forty-six formal pieces now exist: Elara's and Bernard's complete eleven-piece authored campaigns plus the twenty-four legacy sources for the other six companions. Forty-two untitled slots remain reserved without creating empty notes. An individual companion exposes nine non-exclusive pieces plus either the eligible romance episode or the eligible bond episode, never both. See [[Companion Campaign Expansion Register]].
+Fifty-three formal pieces now exist: Elara's, Ilyana's, and Bernard's complete eleven-piece authored campaigns plus the twenty legacy sources for the other five companions. Thirty-five untitled slots remain reserved without creating empty notes. An individual companion exposes nine non-exclusive pieces plus either the eligible romance episode or the eligible bond episode, never both. See [[Companion Campaign Expansion Register]].
 
 ## Existing Source Register
 
-Elara's and Bernard's eleven authored pieces carry `architecture_status: migrated`. The remaining sources carry `pending-migration`: their existing Quest 1 becomes the introductory case and Quests 2-4 become the three act finales during that companion's retrofit.
+Elara's, Ilyana's, and Bernard's eleven authored pieces carry `architecture_status: migrated`. The remaining sources carry `pending-migration`: their existing Quest 1 becomes the introductory case and Quests 2-4 become the three act finales during that companion's retrofit.
 
 | ID | Quest | Owner | Act | Window | Status |
 |---|---|---|---|---|---|
@@ -61,10 +61,17 @@ Elara's and Bernard's eleven authored pieces carry `architecture_status: migrate
 | CMP-01-8 | [[Sixty-Three Claims]] | [[Elara Velescar]] | act-3 | Open Spring | blocked |
 | CMP-01-9 | [[No Lady of Velescar]] | [[Elara Velescar]] | act-3 | Open Spring, Muster Crisis | blocked |
 | CMP-01-10 | [[The First Honest Find]] | [[Elara Velescar]] | summer | Playable Summer | blocked |
-| CMP-02-1 | [[The Medal in the Mud]] | [[Ilyana Veshkar]] | act-1 | Early Autumn, Open Autumn | outlined |
-| CMP-02-2 | [[A Breach Too Clean]] | [[Ilyana Veshkar]] | act-1 | Open Autumn, Early Winter | outlined |
-| CMP-02-3 | [[Names Behind the Wall]] | [[Ilyana Veshkar]] | act-2 | Deep Winter, Early Spring | outlined |
-| CMP-02-4 | [[Hold Until Relieved]] | [[Ilyana Veshkar]] | act-3 | Early Spring, Muster Crisis | outlined |
+| CMP-02-1 | [[Five Cases at Customs]] | [[Ilyana Veshkar]] | act-1 | Early Autumn, Open Autumn | blocked |
+| CMP-02-2 | [[The Road Without a Conductor]] | [[Ilyana Veshkar]] | act-1 | Open Autumn, Late Autumn | blocked |
+| CMP-02-3 | [[No Song by Command]] | [[Ilyana Veshkar]] | act-1 | Open Autumn, Late Autumn | blocked |
+| CMP-02-4 | [[A Tune with No Owner]] | [[Ilyana Veshkar]] | act-1 | Open Autumn, Late Autumn, Early Winter | blocked |
+| CMP-02-5 | [[Reeds Under Ice]] | [[Ilyana Veshkar]] | act-2 | Early Winter, Deep Winter | blocked |
+| CMP-02-6 | [[The Free Refrain]] | [[Ilyana Veshkar]] | act-2 | Deep Winter, Early Spring | blocked |
+| CMP-02-RM | [[One Private Song]] | [[Ilyana Veshkar]] | act-2 | Deep Winter, Early Spring | blocked |
+| CMP-02-BD | [[Duet Without a Conductor]] | [[Ilyana Veshkar]] | act-2 | Deep Winter, Early Spring | blocked |
+| CMP-02-8 | [[Every Case Its Owner]] | [[Ilyana Veshkar]] | act-3 | Open Spring, Muster Crisis | blocked |
+| CMP-02-9 | [[The Last Common Measure]] | [[Ilyana Veshkar]] | act-3 | Open Spring, Muster Crisis | blocked |
+| CMP-02-10 | [[The Road Takes the Song]] | [[Ilyana Veshkar]] | summer | Playable Summer | blocked |
 | CMP-03-1 | [[The Unpaid Champion]] | [[Svala Last-Beacon]] | act-1 | Open Autumn, Late Autumn | outlined |
 | CMP-03-2 | [[Yield Heard Twice]] | [[Svala Last-Beacon]] | act-2 | Early Winter, Deep Winter | outlined |
 | CMP-03-3 | [[The Rimewing Trial]] | [[Svala Last-Beacon]] | act-2 | Deep Winter, Early Spring | outlined |
@@ -99,7 +106,11 @@ Elara's and Bernard's eleven authored pieces carry `architecture_status: migrate
 
 ## Supporting Cast
 
-- [[Colonel Varko Milen]]
+- [[Patron-Captain Caterina Morante]]
+- [[Mirella Corsi]]
+- [[Nereo Valdo]]
+- [[Celia Orsani]]
+- [[Tomas Marin]]
 - [[Lio Varcen]]
 - [[Astrid Snow-Rope]]
 - [[Yrsa Wolf-Brand]]
@@ -129,6 +140,17 @@ Elara's and Bernard's eleven authored pieces carry `architecture_status: migrate
 - [[House Velescar]]: estate history, household claims, and outcome boundaries.
 - [[Names Beneath Lime]], [[The Sixth Field Book]], [[A House Fed by Bones]], [[A Better Wager]], [[Eight Honest Warrants]], [[The Patron's Cabinet]], [[Raven Shelf at Dawn]], [[Two Names on the Rope]], [[Sixty-Three Claims]], [[No Lady of Velescar]], and [[The First Honest Find]]: eleven production-blocked authored pieces, of which no more than ten can appear in one playthrough.
 
+### CMP-02: Ilyana Veshkar
+
+- [[Ilyana Companion Campaign]]: controlling eleven-piece campaign, preparation, autonomy, changed re-entry, embedded opportunities, and outcomes.
+- [[Ilyana Veshkar]]: controlling Sermoran character bible.
+- [[Ilyana Field Familiarity and Relationships]]: approval, release, romance, sworn bond, departure, and permanent perks.
+- [[Ilyana Harmonic Support Package]]: companion combat, Lead logic, refrains, Resonance, and progression.
+- [[Ilyana Banter and Reactivity]]: four-stage pair banter, faction attitudes, routines, and seasonal dialogue.
+- [[The Salt-Reed Company]] and [[The Gilded Wake Season]]: troupe, ownership, privateer history, and consent boundary.
+- [[Bard]] and [[Harmonic Shellcraft]]: player vocation and controlling magic system.
+- [[Five Cases at Customs]], [[The Road Without a Conductor]], [[No Song by Command]], [[A Tune with No Owner]], [[Reeds Under Ice]], [[The Free Refrain]], [[One Private Song]], [[Duet Without a Conductor]], [[Every Case Its Owner]], [[The Last Common Measure]], and [[The Road Takes the Song]]: eleven production-blocked pieces, of which no more than ten appear in one playthrough.
+
 ### CMP-05: Bernard Valeon
 
 - [[Bernard Companion Campaign]]: controlling eleven-piece authored campaign, ten-piece playthrough ceiling, preparation, autonomy, changed re-entry, embedded opportunities, and rewards.
@@ -140,7 +162,7 @@ Elara's and Bernard's eleven authored pieces carry `architecture_status: migrate
 - [[The Froststep Evacuation]] and [[Hospice of the Lantern Road]]: controlling history and institutional origin.
 - [[Little Things Missing]], [[The Wagon in the Reeds]], [[Little Hands, Long Road]], [[A Blade Freely Given]], [[Four Fires]], [[Embers Without Excuse]], [[Enough for Two]], [[Watch Until Morning]], [[Beds Before Banners]], [[The Open Hospice]], and [[The First Open Table]]: eleven production-blocked authored pieces, of which no more than ten can appear in one playthrough.
 
-Elara and Bernard are fully migrated to the eleven-piece authored architecture and ten-piece playthrough ceiling. The other six remain outlined and will be deep-blocked directly against the new standard. No later companion's threshold or autonomous result is canonized without its planned user-guided pass.
+Elara, Ilyana, and Bernard are fully migrated to the eleven-piece authored architecture and ten-piece playthrough ceiling. The other five remain outlined and will be deep-blocked directly against the new standard. No later companion's threshold or autonomous result is canonized without its planned user-guided pass.
 
 ## Controls
 

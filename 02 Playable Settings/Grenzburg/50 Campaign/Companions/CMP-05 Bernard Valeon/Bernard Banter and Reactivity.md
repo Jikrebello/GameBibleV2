@@ -77,47 +77,47 @@ Their strong secondary relationship rests on chosen theft, inherited rank, and t
 
 ## Ilyana Veshkar
 
-Their shared Thalmyric inheritance gives them familiar prayers and incompatible habits. Ilyana trusts declared stores and command procedure; Bernard distrusts any arithmetic that turns people into acceptable losses. Each recognizes the other's temptation to hide a failure behind useful service.
+Bernard and Ilyana recognize the same temptation in different clothing: each once took control of what other people needed and called the result care. His faith and her harmonic practice remain distinct, but both require truthful service rather than applause or acquittal.
 
-**Early - two Thalmyrias**
+**Early - mending**
 
-> **Ilyana:** Your Kedravan hymn has the wrong final cadence.
+> **Bernard:** Your mist closes the part of a wound still willing to close.
 >
-> **Bernard:** Your Vlastravan version marches over the last word.
+> **Ilyana:** Your Flame does what, exactly?
 >
-> **Ilyana:** It is a marching hymn.
+> **Bernard:** What it is given to do.
 >
-> **Bernard:** It is about arriving.
+> **Ilyana:** Musicians hate that answer. Priests adore it.
 
-**After Little Hands, Long Road - command and children**
+**After Five Cases - taking**
 
-> **Ilyana:** You gave seven children three instructions each. They remembered all of them.
+> **Bernard:** You kept what made leaving possible.
 >
-> **Bernard:** I made the fourth instruction a terrible song.
+> **Ilyana:** You hid what made tomorrow feel survivable.
 >
-> **Ilyana:** I may have been trained incorrectly.
+> **Bernard:** We were frightened.
 >
-> **Bernard:** Your soldiers would have mutinied by the second verse.
+> **Ilyana:** And other people paid for our fear.
 
 **Last Ember response**
 
 > **Bernard:** I am not a priest. I can pray, and I can stay.
 >
-> **Ilyana:** Pray. Then tell me where you stand when the breach opens.
+> **Ilyana:** You may. I will play under it.
 >
-> **Bernard:** On your left, unless you plan to spend it.
+> **Bernard:** Over it, if you like.
 >
-> **Ilyana:** On my left. I have learned to count people before walls.
+> **Ilyana:** No. Under. Just this once.
 
-**Late - clean records**
+**Late - enough**
 
-> **Ilyana:** I put every name in the report.
+> **Ilyana:** If I ask them to play again, am I repeating it?
 >
-> **Bernard:** I put every blanket on the board.
+> **Bernard:** Asking is not taking.
 >
-> **Ilyana:** Small disciplines.
+> **Ilyana:** Unless the answer has nowhere safe to go.
 >
-> **Bernard:** Large lies dislike them.
+> **Bernard:** Then make somewhere.
 
 ## Svala Last-Beacon
 

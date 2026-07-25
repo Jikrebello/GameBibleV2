@@ -51,7 +51,7 @@ The protagonist is human. Culture is learned identity and social formation rathe
 | Origin culture | 9 | 10 | 90 |
 | Background knowledge | 9 | 8 | 72 |
 | Starting vocation | 6 | 8 | 48 |
-| Advanced vocation | 2 | 4 after unlock | 8 |
+| Advanced vocation | 3 | 4 after unlock | 12 |
 
 Hooks may share a scene when each option produces a genuinely different interpretation, cost, route, or consequence. A single generic tagged line cannot be counted nine times.
 
@@ -111,6 +111,7 @@ Each starting vocation receives eight uses outside ordinary combat effectiveness
 | Rune Fist | 8 | 3 | reserved |
 | Paladin | 4 after unlock | 2 | reserved |
 | Binder | 4 after unlock | 2 | reserved |
+| Bard | 4 after unlock | 2 | reserved |
 
 ## Moral and Social Reactivity
 

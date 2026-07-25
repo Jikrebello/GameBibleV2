@@ -21,7 +21,7 @@ This note controls Grenzburg's companion roster, field availability, approval, p
 | Companion | Vocation | Recruitment | Core fault | Strongest future |
 |---|---|---|---|---|
 | [[Elara Velescar]] | [[Slayer]], [[Elara Delver-Duelist Package|Delver-Duelist variant]] | Early Autumn | Elara converted the dead and the poor into resources for a house whose dignity mattered more to her than their consent. Vardek betrayed her, but he did not choose her first trespass. | She exposes Vardek, relinquishes the Velescar title, transfers viable land to its households, and establishes a burial-repair fund from recoverable family assets. She remains an adventurer without pretending that motion itself is restitution. |
-| [[Ilyana Veshkar]] | [[Warlock]] | Black Road | The first overdraw was her choice, and accepting the false report converted dead soldiers into a decoration. Later desertion proves she could refuse, not that the earlier silence disappears. | She returns the medal, names every dead soldier publicly, and commands Blackjack specialists under a doctrine that forbids treating trapped people as expendable inputs. |
+| [[Ilyana Veshkar]] | [[Bard]] | Black Road | She forged her troupe's approval, used control of bookings, instruments, and funds to make refusal ineffective, and treated one successful lawful prize as proof that they would eventually thank her. Morante's later abuse does not erase Ilyana's first coercion. | She returns individual property and authorship, releases every service and repertoire claim, accepts that restitution does not purchase reunion, and becomes an open-road Bard. |
 | [[Svala Last-Beacon]] | [[Fighter]] | Open Autumn | The champion's exclusion and pride were wrong; his yield still bound her. She killed him after the contest had morally and socially ended. | She accepts chosen exile, pays continuing weregild through service, and becomes a free protector of Grenzburg's winter roads without claiming restoration to her hall. |
 | [[Ashira bath Melan]] | [[Medium]] | Early Autumn | The raiders chose murder; their families did not. Simulating familiar faces to terrorize them was chosen collective punishment even though no human soul was captured. | She destroys the human-derived roster, documents the harm without metaphysical falsehood, and remains in Grenzburg as a scholar of nonhuman field patterns. |
 | [[Bernard Valeon]] | [[Paladin]] | Black Road | Childhood deprivation explains his compulsion, but he chose to cache relief stores, deny the shortage, and leave evacuees to suffer preventable frostbite. A vow of poverty cannot make secret possession harmless. | He names the urge before concealment, keeps reserves through witnessed stewardship, and chooses among accountable Long Watch service, the Open Lamp Hospice, travelling hospitaller work, or continued Blackjack service. |
@@ -29,7 +29,7 @@ This note controls Grenzburg's companion roster, field availability, approval, p
 | [[Tavio Meran]] | [[Rune Fist]] | Early Autumn | The coach offered the illegal advantage; Tavio knowingly made it decisive and accepted glory afterward. Institutional corruption explains his opportunity, not his hand. | He exposes the Crucible school, accepts a permanent arena ban, settles a fair reckoning with Lio, and becomes a leak-warden protecting Grenzburg's foundries. |
 | [[Zafir ibn Samad]] | [[Binder]] | Early Autumn | His contracts placed persons under command. Limits and petitions reduced some harms but did not make ownership just. Samira's inversion is culpable coercion of him without retroactively making his system humane. | He cuts every living-person instrument he can reach, teaches ethical Binder practice, and returns to Iqashar to face clients and help void surviving restraints. |
 
-The roster contains exactly four women and four men. It covers [[Fighter]], [[Slayer]], [[Hunter]], [[Warlock]], [[Medium]], [[Rune Fist]], [[Paladin]], and [[Binder]] once each. All are outsiders, all carry distinct debtor histories, and every one is recruitable by the end of Open Autumn.
+The roster contains exactly four women and four men. It covers five starting vocations and the three companion-earned advanced vocations: [[Fighter]], [[Slayer]], [[Hunter]], [[Medium]], [[Rune Fist]], [[Paladin]], [[Binder]], and [[Bard]]. [[Warlock]] remains a starting player vocation without a dedicated companion representative. All companions are outsiders, carry distinct debtor histories, and are recruitable by the end of Open Autumn.
 
 ## Recruitment Rhythm
 
@@ -100,7 +100,7 @@ Relationship perks occupy no ordinary vocation augment slot. A learned perk rema
 | Companion | Romance reward | Sworn-bond reward |
 |---|---|---|
 | [[Elara Velescar]] | Equal Footing | Witness at My Back |
-| [[Ilyana Veshkar]] | Chosen Life | Relief Held |
+| [[Ilyana Veshkar]] | One Listener | Equal Voices |
 | [[Svala Last-Beacon]] | Shared Hearth | Beacon Stand |
 | [[Ashira bath Melan]] | Unmasked Pattern | Clear Pattern |
 | [[Bernard Valeon]] | Kept in the Light | Last Watch |
@@ -114,7 +114,7 @@ The two rewards for a companion are distinct and mutually exclusive because rela
 
 - [[Elara Velescar]] and [[Ashira bath Melan]]: discovery, remains, and the intelligent excuses used to call harmful knowledge necessary.
 - [[Bernard Valeon]] and [[Zafir ibn Samad]]: voluntary vows and personal mercy against contractual protection, control, and ownership.
-- [[Ilyana Veshkar]] and [[Dismas Raben]]: command secrecy against flight from responsibility.
+- [[Ilyana Veshkar]] and [[Dismas Raben]]: control disguised as responsibility against flight disguised as freedom.
 - [[Svala Last-Beacon]] and [[Tavio Meran]]: hearing yield against the hunger to make victory decisive.
 
 Foils produce changed conversations, joint field solutions, and honest disagreement. They do not exist to insult each other at camp.
@@ -146,7 +146,7 @@ Act III and [[Accounts of the Living]] settle each companion's destination. [[Po
 - Ashira's imprints are non-conscious patterns, never captured souls.
 - Zafir's Binder path excludes human souls and coerced persons without exception.
 - Bernard's White-Flame abilities require genuine moral coherence and restitution; kindling never certifies legal innocence or clerical office.
-- Ilyana and Tavio obey Elemental Shell script limits, Arcane Burn, and bounded conductors.
+- Ilyana's Bard magic obeys [[Harmonic Shellcraft]], recoverable-health, hearing, consent, breath, and instrument limits. Tavio obeys Elemental Shell script limits, Arcane Burn, and bounded conductors.
 - Svala's rage is trained human physiology and attention, not possession or a hidden monster.
 - Dismas's haunting is memory and trauma, not a supernatural entity.
 

@@ -18,7 +18,7 @@ tags: []
 - **10 Principles and Overview:** the common system vocabulary.
 - **20 Sacred and Restorative Magic:** [[White Flame Doctrine]] and [[The Making of Saints]].
 - **30 Contracts and Patrons:** [[Contract Magic and True Names]] and [[Patrons and Astral Rent]].
-- **40 Rune and Shell Magic:** [[Warlock Rune Magic]], [[Shell Anchors and Extraction]], and [[Elemental Shell MOC]].
+- **40 Rune and Shell Magic:** [[Warlock Rune Magic]], [[Harmonic Shellcraft]], [[Shell Anchors and Extraction]], and [[Elemental Shell MOC]].
 - **50 Thresholds and Soul-Routing:** [[Thin Spaces]] and [[Soul Routing and the Vestibule]].
 
 ## Core Systems
@@ -33,6 +33,7 @@ tags: []
 - [[The World Egg Cosmology]]
 - [[White Flame Doctrine]]
 - [[Warlock Rune Magic]]
+- [[Harmonic Shellcraft]]
 - [[Origins of Warlock Rune Magic]]
 - [[Contract Magic and True Names]]
 - [[Patrons and Astral Rent]]
@@ -55,6 +56,7 @@ tags: []
 - **White Flame:** coherence, stabilization, anti-corruption, sainthood, relics.
 - **Contracts and true names:** identity pressure, binding, loopholes, devils as imposed mantles.
 - **Warlock rune magic:** runic scripts draw elemental force from the Shell for war magic, siege craft, and engineered spellwork.
+- **Harmonic Shellcraft:** breath, refrain, resonance, and tuned instruments sustain elemental support, counter-signals, and bounded battle compulsion.
 - **Thin spaces:** local rule failures where myth becomes actionable.
 - **Entropic rent:** stability has upkeep, owners, and failure states; ordinary repair, shelter, and travel matter as much as debt.
 - **Demiplanes:** every pocket has an anchor, governing law, upkeep, access, owner continuity, and failure state.

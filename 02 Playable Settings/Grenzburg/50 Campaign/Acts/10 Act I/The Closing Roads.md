@@ -114,7 +114,7 @@ Treatment of captured attackers affects later faction dialogue and local trust. 
 
 - Dismas identifies ambush discipline and offers a route that avoids repeating his old crime.
 - Bernard objects to looting the captured road court before ownership is recorded.
-- Ilyana can turn the mill diversion into a controlled breach rather than an indiscriminate fire.
+- Ilyana can place fog over the exposed rescue lane and organize a voluntary mill signal without replacing the millers' authority over their own sluices.
 
 ## Faction Advantages
 

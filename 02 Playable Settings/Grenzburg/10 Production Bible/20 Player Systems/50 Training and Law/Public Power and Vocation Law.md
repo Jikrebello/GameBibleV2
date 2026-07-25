@@ -50,6 +50,7 @@ Specific assignments can widen the warrant for a time. The interface states that
 | [[Rune Fist]] | martial warlock, forge guard, foreign school fighter | unlicensed conductor gear, elemental discharge, structural damage | treated under warlock licensing when scripts are used |
 | [[Paladin]] | sacred warrior, vowed protector, claimant to religious authority | false office, sacrilege, violence under holy claim | visible White Flame commands attention but does not establish innocence or jurisdiction |
 | [[Binder]] | foreign contract worker, summoner, suspected slaver | coercion, unlawful manifestation, true-name abuse, unlicensed beings | restricted and closely judged; permitted assets and release terms must be legible |
+| [[Bard]] | performer, signaler, healer, propagandist, or battle conductor | public compulsion, unlawful signals, panic, impersonated orders, coerced performance | ordinary performance is lawful; battle enchantment and civic signals are judged as force and public authority |
 
 ## Instruments and Evidence
 
@@ -63,6 +64,7 @@ The world reacts to what can be seen:
 - glowing counter-runes on fitted gauntlets;
 - White Flame displayed while making a threat;
 - a conscious being held inside visible Binder cords.
+- a civilian or prisoner responding to a Bardic command cadence.
 
 Holstered, sheathed, dismissed, cooled, or properly sealed equipment reduces alarm. It does not erase evidence of earlier harm.
 

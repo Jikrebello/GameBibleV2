@@ -30,6 +30,8 @@ The Veiled Office directs foreign intelligence and state secrecy. The **Night Oa
 
 Canal folk, arsenal hands, sailors, pilots, courtesans, craftsmen, servants, captives, foreigners, and resident merchant communities outnumber enfranchised houses. Public faith centers on Saint Naris, ship blessings, confraternities, and harbor processions.
 
+Sermoran reed companies join theatre, procession, civic warning, ship signal, and [[Harmonic Shellcraft|harmonic field work]]. Some are private ensembles, some serve fleets or salons, and some travel between Concord cities. Instruments, authored parts, wages, and the right to refuse remain individual claims even where a company owns a booking name or common repertoire.
+
 ## Economy and Defence
 
 Shipping, convoy service, insurance, naval stores, luxury trade, pilotage, salvage, and privateering sustain the republic. The Admiralty fleet protects recognized routes; licensed captains raid enemies and occasionally discover after the fact who the republic considers an enemy. During a muster Sermora concentrates fleets and relieves blockades.
@@ -41,6 +43,7 @@ Castaran routes threaten old trade, Ättar raiding blurs into licensed service, 
 ## Navigation
 
 - [[Lives of Sermora]]
+- [[Harmonic Shellcraft]]
+- [[The Salt-Reed Company]]
 - [[Sestara and the Wider World]]
 - [[The Seven-Seal Defensive Muster]]
-

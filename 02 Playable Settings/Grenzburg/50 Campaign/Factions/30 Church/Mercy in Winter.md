@@ -15,7 +15,7 @@ act: act-2
 availability_window: ["Deep Winter"]
 repeatability: one-shot
 cutoff_result: transforms
-world_state_outputs: ["white_flame_miracle_witnessed", "mercy_hospital_state", "caestus_pastoral_authority", "bernard_mercy_heat_plan"]
+world_state_outputs: ["white_flame_miracle_witnessed", "mercy_hospital_state", "caestus_pastoral_authority", "bernard_mercy_heat_plan", "ilyana_hospital_breathing_plan"]
 required_locations: ["Mercy Hospital", "Outer Winter Camps", "Paupers' Cloister"]
 blocking_status: outlined
 quest_owner: "Church of Grenzburg"
@@ -54,6 +54,8 @@ At least two routes establish every required fact. Social skill, cultural famili
 
 Ask Bernard or another coherent servant to bear the rite, rely only on material rescue, or prioritize one ward. The White Flame answers genuine self-giving but does not replace labor.
 
+If [[Ilyana Veshkar]] is present, she can build a voluntary breathing and stretcher cadence around the material evacuation. Keeping her mending fog plainly distinct from the White Flame and allowing exhausted carriers to leave at a named cue records `ilyana_hospital_breathing_plan`. The hospital survives through ordinary rescue routes without her.
+
 ## Fail-Forward Results
 
 If the rite cannot occur, hard rescue still saves many at greater injury. If it occurs, the bearer suffers exhaustion and no institution gains automatic jurisdiction.
@@ -72,6 +74,7 @@ The warning screen names affected quests, leaders, services, and political-settl
 - `mercy_hospital_state`
 - `caestus_pastoral_authority`
 - `bernard_mercy_heat_plan`: set when Bernard helps leave Mercy Hospital with a witnessed heat, fuel-release, and evacuation procedure.
+- `ilyana_hospital_breathing_plan`: set when Ilyana supports the ward with consensual breathing and stretcher calls while preserving the distinction between Harmonic Shellcraft and White Flame.
 
 ## Rewards and Return Value
 
@@ -87,6 +90,7 @@ At the next season gate, unresolved work transforms into a named institutional r
 
 - [[Church of Grenzburg]]
 - [[Bernard Companion Campaign]]
+- [[Ilyana Companion Campaign]]
 - [[Faction Questlines MOC]]
 - [[Factions Overview]]
 - [[Narrative State Register]]

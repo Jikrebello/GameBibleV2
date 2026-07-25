@@ -30,41 +30,45 @@ This register controls Elara's voice around the other companions, Grenzburg's fa
 
 ## Ilyana Veshkar
 
-**Early - plans and doors**
+**Early - the room already planned**
 
-> **Elara:** You know a plan may contain more than one door.
+> **Elara:** You have assigned us doors without asking which ones we can open.
 >
-> **Ilyana:** It may. It may not contain more than one casualty list.
+> **Ilyana:** I chose by posture.
 >
-> **Elara:** Two doors, one list. We are already collaborating.
+> **Elara:** Mine says front door.
+>
+> **Ilyana:** Yours says window, with expensive objections.
 
-**After Elara quest one - clean reports**
+**After Five Cases - shared seals**
 
-> **Ilyana:** You put your name on the manifest.
+> **Elara:** Shared seals are dangerous things.
 >
-> **Elara:** It was already there. I had merely written it in invisible ink.
+> **Ilyana:** You had a title seal.
 >
-> **Ilyana:** Invisible ink is still a report. I know something about those.
+> **Elara:** I had villages beneath mine. You had friends.
+>
+> **Ilyana:** That was meant to sound like a smaller crime. It did not.
 
-**Winter - improvisation under command**
+**Winter - useful property**
 
-> **Elara:** Your breach route is safe, obvious, and therefore watched.
+> **Ilyana:** If the instrument saves the ward, can we argue custody afterward?
 >
-> **Ilyana:** Your roof route is elegant, exposed, and covered in ice.
+> **Elara:** We may use it with its owner's answer now.
 >
-> **Elara:** We take yours out and mine back.
+> **Ilyana:** You make daring sound administrative.
 >
-> **Ilyana:** Acceptable. You fall first.
+> **Elara:** You make theft sound like tempo.
 
-**Late - responsibility**
+**Late - open road**
 
-> **Ilyana:** You gave up a command you were born to.
+> **Elara:** An expedition with no house and a company with no proprietor.
 >
-> **Elara:** You are considering one you earned. Those are not opposites.
+> **Ilyana:** That sounds structurally irresponsible.
 >
-> **Ilyana:** They can become the same mistake.
+> **Elara:** Exhilarating, isn't it?
 >
-> **Elara:** Then let us become intolerable to one another whenever they do.
+> **Ilyana:** Ask me again when we have provisions.
 
 ## Svala Last-Beacon
 

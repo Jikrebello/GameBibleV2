@@ -52,7 +52,7 @@ Every act finale sets `duo_finale_state` to staged before dismissing the other a
 | ID | Companion | Sex | Vocation |
 |---|---|---|---|
 | CMP-01 | [[Elara Velescar]] | woman | [[Slayer]] - Delver-Duelist variant |
-| CMP-02 | [[Ilyana Veshkar]] | woman | [[Warlock]] |
+| CMP-02 | [[Ilyana Veshkar]] | woman | [[Bard]] |
 | CMP-03 | [[Svala Last-Beacon]] | woman | [[Fighter]] |
 | CMP-04 | [[Ashira bath Melan]] | woman | [[Medium]] |
 | CMP-05 | [[Bernard Valeon]] | man | [[Paladin]] |
@@ -353,20 +353,94 @@ Duplicate implementation keys across these authorities are prohibited unless one
 | `elara_provenance_board` | companion | Elara Velescar | 5 | [[The First Honest Find]] |
 | `elara_scarred_mounds_state` | companion re-entry | Elara Velescar | 3 | [[Elara Companion Campaign]] |
 | `elara_cabinet_after_snow_state` | companion re-entry | Elara Velescar | 4 | [[Elara Companion Campaign]] |
-| `ilyana_medal_state` | companion | Ilyana Veshkar | 1 | [[The Medal in the Mud]] |
-| `koss_ilyana_leverage` | companion | Ilyana Veshkar | 1 | [[The Medal in the Mud]] |
-| `relief_platoon_roll` | companion | Ilyana Veshkar | 1 | [[The Medal in the Mud]] |
-| `ilyana_breach_method` | companion | Ilyana Veshkar | 2 | [[A Breach Too Clean]] |
-| `tollworks_civilians` | companion | Ilyana Veshkar | 2 | [[A Breach Too Clean]] |
-| `warlock_hall_opinion` | companion | Ilyana Veshkar | 2 | [[A Breach Too Clean]] |
-| `ilyana_milen_verdict` | companion | Ilyana Veshkar | 3 | [[Names Behind the Wall]] |
-| `ilyana_relationship_commitment` | companion | Ilyana Veshkar | 3 | [[Names Behind the Wall]] |
-| `relief_names_public` | companion | Ilyana Veshkar | 3 | [[Names Behind the Wall]] |
-| `winter_artillery_state` | companion | Ilyana Veshkar | 3 | [[Names Behind the Wall]] |
-| `blackjack_specialist_doctrine` | companion | Ilyana Veshkar | 4 | [[Hold Until Relieved]] |
-| `ilyana_arc_outcome` | companion | Ilyana Veshkar | 4 | [[Hold Until Relieved]] |
-| `ilyana_summer_destination` | companion | Ilyana Veshkar | 4 | [[Hold Until Relieved]] |
-| `tannbruck_repairs` | companion | Ilyana Veshkar | 4 | [[Hold Until Relieved]] |
+| `ilyana_direction` | companion direction | Ilyana Veshkar | 1-4 | [[Ilyana Companion Campaign]] |
+| `ilyana_introduction_complete` | companion | Ilyana Veshkar | 1 | [[Five Cases at Customs]] |
+| `ilyana_cases_secured` | companion preparation | Ilyana Veshkar | 1-2 | [[Five Cases at Customs]] |
+| `ilyana_forgery_admitted` | companion | Ilyana Veshkar | 1 | [[Five Cases at Customs]] |
+| `salt_reed_property_state` | companion | Ilyana Veshkar | 1 | [[Five Cases at Customs]] |
+| `customs_case_thief_state` | character | Pell One-Thumb | 1 | [[Five Cases at Customs]] |
+| `morante_claim_known` | companion | Ilyana Veshkar | 1 | [[Five Cases at Customs]] |
+| `ilyana_celia_safe` | companion preparation | Ilyana Veshkar | 2 | [[The Road Without a Conductor]] |
+| `celia_orsani_state` | character | Celia Orsani | 2-5 | [[The Road Without a Conductor]] |
+| `celia_viol_state` | companion property | Celia Orsani | 2-4 | [[The Road Without a Conductor]] |
+| `reed_cart_state` | local | Grenz Lowlands | 2 | [[The Road Without a Conductor]] |
+| `lowlands_bandit_state` | regional | Grenz Lowlands | 2 | [[The Road Without a Conductor]] |
+| `ilyana_eel_bridge_route_known` | companion preparation | Ilyana Veshkar | 2 | [[Ilyana Companion Campaign]] |
+| `ilyana_individual_ownership_recorded` | companion preparation | Ilyana Veshkar | 2 | [[Ilyana Companion Campaign]] |
+| `ilyana_voluntary_signal_support` | companion preparation | Ilyana Veshkar | 2 | [[Ilyana Companion Campaign]] |
+| `ilyana_voluntary_signal_drill` | companion embedded | Ilyana Veshkar | 2 | [[Terms of Service]] |
+| `ilyana_act1_readiness` | companion readiness | Ilyana Veshkar | 2 | [[Ilyana Companion Campaign]] |
+| `ilyana_act1_chapter_resolved` | companion | Ilyana Veshkar | 2 | [[No Song by Command]] |
+| `ilyana_act1_result` | companion | Ilyana Veshkar | 2 | [[No Song by Command]] |
+| `ilyana_act1_finale_played` | companion | Ilyana Veshkar | 2 | [[No Song by Command]] |
+| `nereo_valdo_state` | character | Nereo Valdo | 2-5 | [[No Song by Command]] |
+| `nereo_drum_state` | companion property | Nereo Valdo | 2-4 | [[No Song by Command]] |
+| `eel_bridge_households_state` | regional | Longlake Country | 2 | [[No Song by Command]] |
+| `reedknife_band_state` | regional | Longlake Country | 2 | [[No Song by Command]] |
+| `ilyana_echoes_at_eel_bridge_state` | companion re-entry | Ilyana Veshkar | 3 | [[Ilyana Companion Campaign]] |
+| `ilyana_friendship_episode` | relationship | Ilyana Veshkar | 2 | [[A Tune with No Owner]] |
+| `ilyana_common_tune_state` | relationship | Ilyana Veshkar | 2 | [[A Tune with No Owner]] |
+| `ilyana_bridgehold_refrain_known` | companion preparation | Ilyana Veshkar | 2-3 | [[A Tune with No Owner]] |
+| `ilyana_relationship_interest` | relationship | Ilyana Veshkar | 2 | [[A Tune with No Owner]] |
+| `ilyana_instruments_returned` | companion preparation | Ilyana Veshkar | 3 | [[Reeds Under Ice]] |
+| `mirella_corsi_state` | character | Mirella Corsi | 3-5 | [[Reeds Under Ice]] |
+| `tomas_marin_state` | character | Tomas Marin | 3-5 | [[Reeds Under Ice]] |
+| `salt_reed_roster_in_grenzburg` | companion | Ilyana Veshkar | 3 | [[Reeds Under Ice]] |
+| `winter_instrument_state` | companion property | The Salt-Reed Company | 3 | [[Reeds Under Ice]] |
+| `quay_lifeboat_state` | city | Ledger Quays | 3 | [[Reeds Under Ice]] |
+| `morante_factor_state` | character | Ilyana Veshkar | 3 | [[Reeds Under Ice]] |
+| `ilyana_breach_casualty_lane_mapped` | companion preparation | Ilyana Veshkar | 3 | [[The City in Siege]] |
+| `ilyana_counter_tuning_prepared` | companion preparation | Ilyana Veshkar | 3 | [[Ilyana Companion Campaign]] |
+| `ilyana_performer_pledges_recorded` | companion preparation | Ilyana Veshkar | 3 | [[Ilyana Companion Campaign]] |
+| `ilyana_refuge_acoustics_known` | companion preparation | Ilyana Veshkar | 3 | [[Ilyana Companion Campaign]] |
+| `ilyana_hospital_breathing_plan` | companion embedded | Ilyana Veshkar | 3 | [[Mercy in Winter]] |
+| `ilyana_act2_readiness` | companion readiness | Ilyana Veshkar | 3 | [[Ilyana Companion Campaign]] |
+| `ilyana_act2_chapter_resolved` | companion | Ilyana Veshkar | 3 | [[The Free Refrain]] |
+| `ilyana_act2_result` | companion | Ilyana Veshkar | 3 | [[The Free Refrain]] |
+| `ilyana_act2_finale_played` | companion | Ilyana Veshkar | 3 | [[The Free Refrain]] |
+| `ilyana_bard_unlocked` | progression | Ilyana Veshkar | 3 | [[The Free Refrain]] |
+| `bard_account_unlock` | progression | Bard | 3 | [[The Free Refrain]] |
+| `ilyana_relationship_commitment` | relationship | Ilyana Veshkar | 3 | [[The Free Refrain]] |
+| `ilyana_relationship_paths_closed` | relationship | Ilyana Veshkar | 3 | [[The Free Refrain]] |
+| `salt_reed_winter_consent` | companion | The Salt-Reed Company | 3 | [[The Free Refrain]] |
+| `winter_casualty_refrain_state` | city | Grenzburg | 3 | [[The Free Refrain]] |
+| `morante_state` | character | Caterina Morante | 3-4 | [[The Free Refrain]] |
+| `ilyana_refrain_after_snow_state` | companion re-entry | Ilyana Veshkar | 4 | [[Ilyana Companion Campaign]] |
+| `ilyana_romance_episode` | relationship | Ilyana Veshkar | 3 | [[One Private Song]] |
+| `ilyana_romance_move_upgrade` | relationship | Ilyana Veshkar | 3 | [[One Private Song]] |
+| `ilyana_private_cadence_practiced` | companion bonus | Ilyana Veshkar | 4 | [[One Private Song]] |
+| `private_song_state` | relationship | Ilyana Veshkar | 3 | [[One Private Song]] |
+| `ilyana_bond_episode` | relationship | Ilyana Veshkar | 3 | [[Duet Without a Conductor]] |
+| `ilyana_bond_move_upgrade` | relationship | Ilyana Veshkar | 3 | [[Duet Without a Conductor]] |
+| `ilyana_equal_cadence_practiced` | companion bonus | Ilyana Veshkar | 4 | [[Duet Without a Conductor]] |
+| `bridgehold_duet_state` | relationship | Ilyana Veshkar | 3 | [[Duet Without a Conductor]] |
+| `ilyana_releases_protected` | companion preparation | Ilyana Veshkar | 4 | [[Every Case Its Owner]] |
+| `salt_reed_authorship_state` | companion | The Salt-Reed Company | 4 | [[Every Case Its Owner]] |
+| `salt_reed_instrument_state` | companion property | The Salt-Reed Company | 4 | [[Every Case Its Owner]] |
+| `mirella_release_state` | character | Mirella Corsi | 4 | [[Every Case Its Owner]] |
+| `nereo_release_state` | character | Nereo Valdo | 4 | [[Every Case Its Owner]] |
+| `celia_release_state` | character | Celia Orsani | 4 | [[Every Case Its Owner]] |
+| `tomas_release_state` | character | Tomas Marin | 4 | [[Every Case Its Owner]] |
+| `morante_claim_state` | character | Caterina Morante | 4 | [[Every Case Its Owner]] |
+| `ilyana_muster_cadence_sampled` | companion preparation | Ilyana Veshkar | 4 | [[The Land Reclaimed]] |
+| `ilyana_boom_tower_route_known` | companion preparation | Ilyana Veshkar | 4 | [[Ilyana Companion Campaign]] |
+| `ilyana_common_score_partitioned` | companion preparation | Ilyana Veshkar | 4 | [[Ilyana Companion Campaign]] |
+| `ilyana_ensemble_destinations_secured` | companion preparation | Ilyana Veshkar | 4 | [[Ilyana Companion Campaign]] |
+| `ilyana_act3_readiness` | companion readiness | Ilyana Veshkar | 4 | [[Ilyana Companion Campaign]] |
+| `ilyana_act3_chapter_resolved` | companion | Ilyana Veshkar | 4 | [[The Last Common Measure]] |
+| `ilyana_act3_result` | companion | Ilyana Veshkar | 4 | [[The Last Common Measure]] |
+| `ilyana_act3_finale_played` | companion | Ilyana Veshkar | 4 | [[The Last Common Measure]] |
+| `ilyana_arc_outcome` | companion | Ilyana Veshkar | 4 | [[The Last Common Measure]] |
+| `ilyana_summer_destination` | companion | Ilyana Veshkar | 4-5 | [[The Last Common Measure]] |
+| `salt_reed_settlement` | companion | The Salt-Reed Company | 4 | [[The Last Common Measure]] |
+| `river_boom_cadence_state` | regional | Grenzburg | 4 | [[The Last Common Measure]] |
+| `ilyana_relationship_perk` | relationship | Ilyana Veshkar | 4 | [[The Last Common Measure]] |
+| `ilyana_duo_move` | relationship | Ilyana Veshkar | 3-4 | [[Ilyana Field Familiarity and Relationships]] |
+| `ilyana_duo_move_upgrade` | relationship | Ilyana Veshkar | 3-4 | [[Ilyana Field Familiarity and Relationships]] |
+| `sermoran_field_bard_blueprint` | progression | Ilyana Veshkar | 4 | [[The Last Common Measure]] |
+| `ilyana_summer_coda_complete` | companion | Ilyana Veshkar | 5 | [[The Road Takes the Song]] |
+| `salt_reed_summer_state` | companion | The Salt-Reed Company | 5 | [[The Road Takes the Song]] |
+| `first_road_song_state` | companion | Ilyana Veshkar | 5 | [[The Road Takes the Song]] |
 | `attar_delegation_trust` | companion | Svala Last-Beacon | 1 | [[The Unpaid Champion]] |
 | `champion_yield_known` | companion | Svala Last-Beacon | 1 | [[The Unpaid Champion]] |
 | `svala_weregild_state` | companion | Svala Last-Beacon | 1 | [[The Unpaid Champion]] |

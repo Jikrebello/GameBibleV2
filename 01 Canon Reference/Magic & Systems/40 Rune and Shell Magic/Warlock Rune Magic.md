@@ -17,6 +17,8 @@ Warlock rune magic is engineered elemental magic. Warlocks use runes arranged in
 
 It is the basis of most formal war magic: battle casting, siege magic, elemental artillery, tactical shielding, breachwork, arena combat, and military spellcraft.
 
+[[Harmonic Shellcraft]] reaches the same broad Elemental Shell through breath, interval, refrain, and tuned conductors. It is a parallel arcane discipline rather than a Warlock specialization. A Warlock writes a bounded instruction; a Bard sustains and changes one through performed harmonic structure.
+
 ## What Warlocks Are
 
 In common speech, "warlock" can mean several related things:
