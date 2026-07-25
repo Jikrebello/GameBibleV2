@@ -72,7 +72,7 @@ Once one rescue priority is secured, Ilyana leads surviving Blackjacks against t
 - cross beneath the broken bridge and emerge behind their stone barricade;
 - hold the road, use recovered powder or warlock fire to break cover, and advance directly.
 
-Every vocation can use every route. Slayer movement, Hunter tracking, Warlock counterscripts, Medium imprints, Rune Fist guarding, and Fighter protection alter speed and encounter shape rather than access.
+Every starting vocation can use every route. Slayer movement, Hunter tracking, Warlock counter-scripts, Medium imprints, and Fighter protection alter speed and encounter shape rather than access. Advanced vocations add later-playthrough options without being assumed by the prologue.
 
 The Grobi scouts strike during the advance. The player can drive them away, kill them, or prevent their leader from escaping with a ducal route marker. There is no dialogue branch that turns the scouting knot into allies.
 

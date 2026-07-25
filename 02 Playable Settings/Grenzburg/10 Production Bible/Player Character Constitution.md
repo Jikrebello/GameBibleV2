@@ -48,7 +48,7 @@ Character creation grants exactly these identity and play decisions:
 4. one background knowledge;
 5. a primary and secondary social-stat focus, with the same choice twice creating a specialist;
 6. one initial virtue or sin leaning, or complete neutrality;
-7. one of six starting vocations.
+7. one of five starting vocations.
 
 The nine culture tags are Eclessian, Thalmyric, Sestaran, Jirahar, Ahl-e-Ahd, Folk, Ättar, Tarkhan, and Nsizwa. They represent learned familiarity, not racial instinct or guaranteed agreement with another person.
 
@@ -101,7 +101,7 @@ Grenzburg uses third-person action combat. The player equips one authored or cus
 - Vocation changes occur only at supported safe points outside immediate danger.
 - Mastered account unlocks remain available to the current campaign and future new games where their original gate has been met once.
 
-The six starting vocations are:
+The five starting vocations are:
 
 | Vocation | Native kit | Primary promise |
 |---|---|---|
@@ -110,7 +110,6 @@ The six starting vocations are:
 | [[Hunter]] | longbow; light field armour | track, prepare arrows, read monsters, and control range |
 | [[Warlock]] | paired war-wands; robes or light armour | bind elemental Shell scripts while managing Arcane Burn |
 | [[Medium]] | medium's rod; shade roster; robes or light armour | direct non-conscious combat imprints and shadow fields |
-| [[Rune Fist]] | inscribed gauntlets; medium armour | catch force and return short elemental counter-scripts |
 
 [[Vocation Progression and Mastery]] controls growth, switching, and account access. [[Equipment and Skill Loadouts]] controls authored equipment boundaries.
 
@@ -119,13 +118,14 @@ The six starting vocations are:
 - [[Paladin]] unlocks during Bernard's Act II finale and receives its capstone during his Act III finale. Learned great-weapon handling remains available, but White-Flame techniques require moral coherence and genuine restitution after grave violation.
 - [[Binder]] unlocks during Zafir's Act II finale and receives its capstone during his Act III finale. It may direct non-conscious bound forms and freely covenanted beings, never human souls or coerced persons.
 - [[Bard]] unlocks during Ilyana's Act II finale and receives its capstone during her Act III finale. It sustains harmonic Shell refrains, recoverable-health support, elemental cadences, and bounded battle compulsion that never creates consent.
+- [[Lancewright]] unlocks during Tavio's Act II finale and receives its capstone during his Act III finale. It uses a one-handed war spear and proof gauntlet to place, load, release, and safely Yield bounded elemental marks.
 - [[Custom Vocation Workshop]] opens after two authored vocations are fully mastered. It is a metagame builder, not an in-world school. A saved custom build is itself one field-locked vocation.
 
 Druid, Witch, Monk, and further advanced vocations are deferred. Their absence from Grenzburg's launch framework does not rule on their existence elsewhere.
 
 ## Metaphysical Safeguards
 
-- Warlock and Rune Fist obey [[Warlock Rune Magic]] and draw bounded elemental relations through the Shell.
+- Warlock and Lancewright obey [[Warlock Rune Magic]] and draw bounded elemental relations through the Shell.
 - Medium shades are non-conscious combat imprints, never captured people or souls.
 - Paladin sacred techniques obey [[White Flame Doctrine]] rather than a neutral spell resource.
 - Binder form cannot make slavery, predatory ownership, or soulbinding morally valid.

@@ -131,7 +131,7 @@ The warden is a non-conscious industrial engine. It tests declared weight agains
 - distribute weight across marked lanes;
 - reset the counterweights;
 - physically disable the drive;
-- use warlock or Rune Fist counter-work;
+- use Warlock or Lancewright counter-work after the relevant vocation is available;
 - take the upper maintenance path.
 
 Failure damages tools, injures no one without a visible rescue window, and may close one recovery.

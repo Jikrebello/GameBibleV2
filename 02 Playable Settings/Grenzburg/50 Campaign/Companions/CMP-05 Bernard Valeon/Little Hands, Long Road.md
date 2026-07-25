@@ -129,7 +129,7 @@ The bear is an ordinary adult injured by a spring snare left from illegal huntin
 
 The children divide food, route bells, chalk, bandages, and lesson boards. The player may inspect the count, help assign pairs, or let Oda handle logistics. Every starting vocation receives a useful but optional preparation:
 
-- Fighter or Rune Fist can carry shelter braces;
+- Fighter or a high-Strength character can carry shelter braces;
 - Slayer can inspect roof and path anchors;
 - Hunter can prepare animal-sign lessons;
 - Warlock can demonstrate safe non-combat warmth under supervision;

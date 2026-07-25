@@ -68,7 +68,7 @@ The Drake attacks across Split Pine Ravine and the winter canopy. Its phases exp
 2. **Pollen court:** wounded movement releases sleep pollen and directs animals along exact lanes.
 3. **Root-vault defense:** it uses the heart-oak chamber, scale armor, and law-gem pulses to impose stillness and false distance.
 
-Climbing the Drake is possible but not mandatory. Fighter and Rune Fist can create guarded openings; Slayer can climb and cut scale seams; Hunter controls range and reads passes; Warlock counters pollen and roots; Medium fields expose repeated movement; every vocation has a complete route.
+Climbing the Drake is possible but not mandatory. Fighter creates guarded openings; Slayer can climb and cut scale seams; Hunter controls range and reads passes; Warlock counters pollen and roots; Medium fields expose repeated movement. An unlocked Lancewright can Brace or Break marked scales, but every starting vocation has a complete route.
 
 ## End: The Empty Court
 

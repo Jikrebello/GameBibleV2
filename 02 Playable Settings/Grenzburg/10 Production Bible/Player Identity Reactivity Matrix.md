@@ -50,8 +50,8 @@ The protagonist is human. Culture is learned identity and social formation rathe
 |---|---:|---:|---:|
 | Origin culture | 9 | 10 | 90 |
 | Background knowledge | 9 | 8 | 72 |
-| Starting vocation | 6 | 8 | 48 |
-| Advanced vocation | 3 | 4 after unlock | 12 |
+| Starting vocation | 5 | 8 | 40 |
+| Advanced vocation | 4 | 4 after unlock | 16 |
 
 Hooks may share a scene when each option produces a genuinely different interpretation, cost, route, or consequence. A single generic tagged line cannot be counted nine times.
 
@@ -108,10 +108,21 @@ Each starting vocation receives eight uses outside ordinary combat effectiveness
 | Hunter | 8 | 3 | reserved |
 | Warlock | 8 | 3 | reserved |
 | Medium | 8 | 3 | reserved |
-| Rune Fist | 8 | 3 | reserved |
 | Paladin | 4 after unlock | 2 | reserved |
 | Binder | 4 after unlock | 2 | reserved |
 | Bard | 4 after unlock | 2 | reserved |
+| Lancewright | 4 after unlock | 2 | allocated |
+
+### Lancewright Post-Unlock Allocation
+
+| Use | Material change | Workaround |
+|---|---|---|
+| [[Measure on the March]] | identifies an over-capacity field fitting and permits a bounded Brace without stopping the whole convoy | Warlock inspection, physical shoring, or slower equipment isolation |
+| [[The Land Reclaimed]] | reads a physical Muster carrier and distinguishes Break, Cast, and Yield risks | Warlock counter-script, archive evidence, or mechanical destruction |
+| [[Horn for Leak-Day]] | operates the mobile vent frame and calls visible overproof warnings | ordinary valves, engineer teams, and staged evacuation |
+| [[The Deep Muster Main Quest|The Deep Muster]] | disrupts one physical command carrier while preserving the retreat route | Fighter protection, Slayer access, Hunter targeting, Warlock counter-script, or Medium pattern reading |
+
+These are advanced-vocation advantages, not permissions to continue. Personal completion of [[The Fair Defeat]] remains the first account unlock.
 
 ## Moral and Social Reactivity
 

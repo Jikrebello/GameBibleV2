@@ -45,7 +45,7 @@ The shared rules prevent monster climbing from becoming a Slayer-only game. Spec
 - [[Fighter]] braces securely and can hold attention or defend while attached.
 - [[Warlock]] uses short wand releases and elemental conditions from dangerous positions.
 - [[Medium]] directs shades while repositioning and marks a priority body part or target.
-- [[Rune Fist]] catches impacts, anchors through guarded contact, and returns force at close range.
+- [[Lancewright]] marks physical surfaces, lunges through proof geometry, vaults with the spear, and Yields captured force.
 
 ## Vocation Movement Signatures
 
@@ -56,7 +56,7 @@ The shared rules prevent monster climbing from becoming a Slayer-only game. Spec
 | [[Hunter]] | terrain reading, stable movement while aiming, evasive bow movement, and efficient pursuit |
 | [[Warlock]] | brief air-assisted jumps and controlled descent through a prepared wand response, never sustained flight |
 | [[Medium]] | short shadow-steps through open gaps and broken apertures, never sealed walls or locked doors |
-| [[Rune Fist]] | countersteps, recoil vaults, and grounded impact movement |
+| [[Lancewright]] | mark-directed lunges, spear vaults, aerial descents, and large-monster repositioning |
 | [[Paladin]] | armoured interposition, ally boosts, and stable descents under load |
 | [[Binder]] | temporary cord anchors and assistance from an eligible bound form |
 
@@ -89,4 +89,3 @@ They may not be the only way to reach a critical objective. [[Road Keys and Menh
 - [[Health Recovery Afflictions and Encumbrance]]
 - [[Grenzburg Travel and Road-Key Network]]
 - [[Player Systems MOC]]
-

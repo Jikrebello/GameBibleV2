@@ -16,7 +16,7 @@ act: act-3
 availability_window: ["Early Spring", "Open Spring"]
 repeatability: one-shot
 cutoff_result: persists
-world_state_outputs: ["tannbruck_reclaimed", "muster_anchor_campaign_open", "spring_settlement_access", "elara_living_claims_indexed", "bernard_reclaimed_patient_routes"]
+world_state_outputs: ["tannbruck_reclaimed", "muster_anchor_campaign_open", "spring_settlement_access", "elara_living_claims_indexed", "bernard_reclaimed_patient_routes", "ilyana_muster_cadence_sampled", "tavio_muster_cadence_reading"]
 required_locations: ["Fort Tannbruck", "Upper Grenz", "Old River Arsenal", "Tuskway Redoubt", "White Mud Causeway"]
 blocking_status: blocked
 quest_owner: "Grenzburg Main Campaign"
@@ -127,6 +127,8 @@ All companion histories can react to return, remains, and rebuilding. Ilyana and
 [[Bernard Valeon]] can mark casualty collection points, return corridors, and shelter handoffs while the reclaimed road is still being cleared. Completing the route with named carriers records `bernard_reclaimed_patient_routes` for [[The Open Hospice]]. Reclamation remains fully viable without him.
 
 [[Ilyana Veshkar]] can record one Muster cadence at a disabled command point and distinguish its non-conscious repetition from any living person's assent. A clean sample records `ilyana_muster_cadence_sampled` for [[The Last Common Measure]]. Warlock counters and physical destruction remain available without her.
+
+[[Tavio Meran]] can compare the same cadence against physical proof scars in the recovered lifting and forge equipment. Filing which carriers repeat, which can be Yielded, and which must be destroyed records `tavio_muster_cadence_reading` for [[Horn for Leak-Day]]. Warlock counter-scripts and ordinary mechanical isolation remain available without him.
 
 ## Faction Advantages
 

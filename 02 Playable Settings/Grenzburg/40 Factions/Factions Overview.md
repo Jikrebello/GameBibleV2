@@ -64,6 +64,7 @@ The matrix also reads settlement survival, casualties, player freedom, and unres
 - [[Frontier Industry Chains]] own substantial production, labor, craft, and resource stories.
 - [[Seasonal Settlement Chains]] own local authority and seasonal survival stories.
 - [[The Salt-Reed Company]] is a broken Sermoran performance company whose individual members, property, and authorship remain distinct throughout [[Ilyana Companion Campaign]].
+- [[Red Brass Bench]] is one corrupt Vortharan Crucible branch whose unsafe proof network drives [[Tavio Companion Campaign]] without condemning every arena school.
 - Delvers, schools, craftspeople, hunters, and trainers retain secondary progress without becoming global rulers.
 
 ## Moral Guardrails

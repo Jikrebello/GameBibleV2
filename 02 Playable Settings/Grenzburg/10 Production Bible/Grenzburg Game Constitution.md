@@ -114,7 +114,7 @@ Public roads, water travel, and fixed local Menhir links are controlled by [[Gre
 
 [[Player Character Constitution]] fixes the protagonist and non-negotiable player rules. [[Player Systems MOC]] controls the detailed narrative systems.
 
-Grenzburg uses third-person action combat, global character levels, separate vocation mastery, and one field-locked vocation at a time. The six starting vocations are [[Fighter]], [[Slayer]], [[Hunter]], [[Warlock]], [[Medium]], and [[Rune Fist]]. [[Paladin]], [[Binder]], and [[Bard]] are companion-earned advanced vocations. Cross-vocation construction occurs only through the metagame [[Custom Vocation Workshop]] after two authored vocations are fully mastered.
+Grenzburg uses third-person action combat, global character levels, separate vocation mastery, and one field-locked vocation at a time. The five starting vocations are [[Fighter]], [[Slayer]], [[Hunter]], [[Warlock]], and [[Medium]]. [[Paladin]], [[Binder]], [[Bard]], and [[Lancewright]] are companion-earned advanced vocations. Cross-vocation construction occurs only through the metagame [[Custom Vocation Workshop]] after two authored vocations are fully mastered.
 
 Every vocation can complete every critical route. Exact damage, frames, inputs, probability curves, and final build budgets remain provisional rather than setting canon.
 

@@ -83,7 +83,7 @@ Every player vocation can complete the route:
 - Slayer and Free Running improve exposed crossings;
 - Fighter and Paladin can hold or reposition heavy counterweights;
 - Hunter reads disturbed stone and old survey marks;
-- Warlock and Rune Fist can clear ice or test stress without opening a unique route;
+- Warlock and an unlocked Lancewright can clear ice or test stress without opening a unique route;
 - Medium imprints can indicate pressure movement but cannot solve the paired system alone;
 - Binder forms can hold a marked station but cannot replace the player's judgement.
 

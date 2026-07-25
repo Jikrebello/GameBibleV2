@@ -138,7 +138,7 @@ The direct route through Lantern Ward is shortest but exposed to Grobi skirmishe
 
 ### Covered Walk
 
-A Church service walk joins the Paupers' Cloister to the wall hospital. It is partially collapsed after [[The City in Siege]]. Ordinary climbing, bracing, and carrying work open it. Slayer and Rune Fist gain shortcuts, but neither is required.
+A Church service walk joins the Paupers' Cloister to the wall hospital. It is partially collapsed after [[The City in Siege]]. Ordinary climbing, bracing, and carrying work open it. Slayer gains an exposed shortcut, but no vocation is required.
 
 ### Drainage Causeway
 

@@ -51,7 +51,7 @@ No vocation or skill family with `placeholder` status may be marked public, game
 | [[Hunter]] | placeholder | direct longbow family names, sequences, and some arrow functions | establish original bow cadence, authored arrow economy, and distinct skill progression |
 | [[Warlock]] | placeholder | imported spell names, combination labels, augments, and master-spell spectacle | rename scripts in setting language and prototype a distinct two-wand binding grammar |
 | [[Medium]] | placeholder | imported occult spell names, rod actions, and augment labels | rebuild shade command, fields, and roster presentation around World Egg imprint canon |
-| [[Rune Fist]] | review | new vocation concept with provisional working names | prototype and compare counter-casting silhouette, resource use, and movement against adjacent games |
+| [[Lancewright]] | review | new vocation synthesis with provisional proof-mark and release names | prototype the spear-gauntlet silhouette, team-loaded marks, four releases, Yield, and movement against adjacent action-RPG references |
 | [[Paladin]] | review | original setting integration; final active list unwritten | complete Bernard path, name skills, and test distinction from Fighter |
 | [[Binder]] | review | original setting integration; final asset roster unwritten | complete Zafir path and create readable consent and release presentation |
 | [[Bard]] | review | area support, elemental boons, counters, performance resources, and force conversion informed by several RPG traditions | prototype an original double-flute silhouette, Lead logic, Resonance economy, consent presentation, and progression |

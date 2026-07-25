@@ -27,9 +27,10 @@ Equipment expresses a vocation's native combat language. Authored vocations rema
 | [[Hunter]] | longbow; light field armour |
 | [[Warlock]] | paired war-wands; robes or light armour |
 | [[Medium]] | medium's rod; robes or light armour |
-| [[Rune Fist]] | paired inscribed gauntlets; medium armour |
 | [[Paladin]] | great weapon; heavy armour; sacred implements appropriate to the technique |
 | [[Binder]] | inscribed rings and true-name cords; robes or light armour |
+| [[Bard]] | keyed double flute; robes or light armour |
+| [[Lancewright]] | one-handed war spear; heavy proof gauntlet; medium armour |
 
 Unlocking Fighter does not let an authored Warlock equip a shield. Mastered parts become available for a custom vocation once the builder is unlocked.
 
@@ -84,4 +85,3 @@ Equipment can support a build without replacing mastery. A rare weapon may open 
 - [[Health Recovery Afflictions and Encumbrance]]
 - [[Vocation Originalization Register]]
 - [[Player Systems MOC]]
-

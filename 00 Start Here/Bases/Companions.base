@@ -37,6 +37,10 @@ properties:
     displayName: Campaign Stage
   preparation_threshold:
     displayName: Preparation
+  preparation_inputs:
+    displayName: Preparation Assets
+  estimated_hours:
+    displayName: Hours
   field_experience_gate:
     displayName: Familiarity Gate
   duo_quest:
@@ -104,7 +108,9 @@ views:
       - duo_quest
       - field_experience_gate
       - availability_window
+      - estimated_hours
       - preparation_threshold
+      - preparation_inputs
       - reward_unlocks
       - autonomous_deadline
       - changed_reentry

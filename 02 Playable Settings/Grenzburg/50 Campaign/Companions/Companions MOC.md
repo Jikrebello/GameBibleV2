@@ -26,7 +26,7 @@ This is the production doorway for eight outsider-debtor companions, eighty-eigh
 | CMP-04 | [[Ashira bath Melan]] | woman | [[Medium]] | Early Autumn | [[Elara Velescar]] | intellectual equals |
 | CMP-05 | [[Bernard Valeon]] | man | [[Paladin]] | Black Road | [[Zafir ibn Samad]] | receiving without taking |
 | CMP-06 | [[Dismas Raben]] | man | [[Hunter]] | Black Road | [[Ilyana Veshkar]] | no escape route |
-| CMP-07 | [[Tavio Meran]] | man | [[Rune Fist]] | Early Autumn | [[Svala Last-Beacon]] | rivals who can yield |
+| CMP-07 | [[Tavio Meran]] | man | [[Lancewright]] | Early Autumn | [[Svala Last-Beacon]] | trusted seconds who respect the halt |
 | CMP-08 | [[Zafir ibn Samad]] | man | [[Binder]] | Early Autumn | [[Bernard Valeon]] | freedom without ownership |
 
 ## Campaign Budget
@@ -42,11 +42,11 @@ This is the production doorway for eight outsider-debtor companions, eighty-eigh
 | Summer coda | 1 | 8 |
 | **Authored pieces** | **11** | **88** |
 
-Fifty-three formal pieces now exist: Elara's, Ilyana's, and Bernard's complete eleven-piece authored campaigns plus the twenty legacy sources for the other five companions. Thirty-five untitled slots remain reserved without creating empty notes. An individual companion exposes nine non-exclusive pieces plus either the eligible romance episode or the eligible bond episode, never both. See [[Companion Campaign Expansion Register]].
+Sixty formal pieces now exist: Elara's, Ilyana's, Bernard's, and Tavio's complete eleven-piece authored campaigns plus the sixteen legacy sources for the other four companions. Twenty-eight untitled slots remain reserved without creating empty notes. An individual companion exposes nine non-exclusive pieces plus either the eligible romance episode or the eligible bond episode, never both. See [[Companion Campaign Expansion Register]].
 
 ## Existing Source Register
 
-Elara's, Ilyana's, and Bernard's eleven authored pieces carry `architecture_status: migrated`. The remaining sources carry `pending-migration`: their existing Quest 1 becomes the introductory case and Quests 2-4 become the three act finales during that companion's retrofit.
+Elara's, Ilyana's, Bernard's, and Tavio's eleven authored pieces carry `architecture_status: migrated`. The remaining sources carry `pending-migration`: their existing Quest 1 becomes the introductory case and Quests 2-4 become the three act finales during that companion's retrofit.
 
 | ID | Quest | Owner | Act | Window | Status |
 |---|---|---|---|---|---|
@@ -95,10 +95,17 @@ Elara's, Ilyana's, and Bernard's eleven authored pieces carry `architecture_stat
 | CMP-06-2 | [[The Easy Ambush]] | [[Dismas Raben]] | act-1 | Open Autumn, Early Winter | outlined |
 | CMP-06-3 | [[The Name on the Charge]] | [[Dismas Raben]] | act-2 | Deep Winter, Early Spring | outlined |
 | CMP-06-4 | [[The Road That Answers]] | [[Dismas Raben]] | act-3 | Early Spring, Muster Crisis | outlined |
-| CMP-07-1 | [[The False Ring]] | [[Tavio Meran]] | act-1 | Early Autumn, Open Autumn | outlined |
-| CMP-07-2 | [[Proof Under Load]] | [[Tavio Meran]] | act-1 | Open Autumn, Early Winter | outlined |
-| CMP-07-3 | [[The Fair Defeat]] | [[Tavio Meran]] | act-2 | Deep Winter, Early Spring | outlined |
-| CMP-07-4 | [[Horn for Leak-Day]] | [[Tavio Meran]] | act-3 | Early Spring, Muster Crisis | outlined |
+| CMP-07-1 | [[The False Ring]] | [[Tavio Meran]] | act-1 | Early Autumn, Open Autumn | blocked |
+| CMP-07-2 | [[The Signed Measure]] | [[Tavio Meran]] | act-1 | Open Autumn | blocked |
+| CMP-07-3 | [[Proof Under Load]] | [[Tavio Meran]] | act-1 | Open Autumn, Early Winter | blocked |
+| CMP-07-4 | [[Games Without a Crown]] | [[Tavio Meran]] | act-1 | Open Autumn, Early Winter | blocked |
+| CMP-07-5 | [[The Challenger's Road]] | [[Tavio Meran]] | act-2 | Early Winter, Deep Winter | blocked |
+| CMP-07-6 | [[The Fair Defeat]] | [[Tavio Meran]] | act-2 | Deep Winter, Early Spring | blocked |
+| CMP-07-RM | [[No Wager Between Us]] | [[Tavio Meran]] | act-2 | Late Winter, Early Spring | blocked |
+| CMP-07-BD | [[After the Last Lantern]] | [[Tavio Meran]] | act-2 | Late Winter, Early Spring | blocked |
+| CMP-07-8 | [[Measure on the March]] | [[Tavio Meran]] | act-3 | Open Thaw, Spring Reclamation | blocked |
+| CMP-07-9 | [[Horn for Leak-Day]] | [[Tavio Meran]] | act-3 | Spring Reclamation, Muster Crisis | blocked |
+| CMP-07-10 | [[The Road Takes the Measure]] | [[Tavio Meran]] | summer | Playable Summer | blocked |
 | CMP-08-1 | [[The Cord Returned]] | [[Zafir ibn Samad]] | act-1 | Early Autumn, Open Autumn | outlined |
 | CMP-08-2 | [[Humane Terms]] | [[Zafir ibn Samad]] | act-1 | Open Autumn, Early Winter | outlined |
 | CMP-08-3 | [[The Copyist's Answer]] | [[Zafir ibn Samad]] | act-2 | Deep Winter, Early Spring | outlined |
@@ -112,6 +119,9 @@ Elara's, Ilyana's, and Bernard's eleven authored pieces carry `architecture_stat
 - [[Celia Orsani]]
 - [[Tomas Marin]]
 - [[Lio Varcen]]
+- [[Maro Vezan]]
+- [[Seraf Pellan]]
+- [[Proof-Mistress Hella Dorn]]
 - [[Astrid Snow-Rope]]
 - [[Yrsa Wolf-Brand]]
 - [[Keeper Othara bath Qesin]]
@@ -162,7 +172,18 @@ Elara's, Ilyana's, and Bernard's eleven authored pieces carry `architecture_stat
 - [[The Froststep Evacuation]] and [[Hospice of the Lantern Road]]: controlling history and institutional origin.
 - [[Little Things Missing]], [[The Wagon in the Reeds]], [[Little Hands, Long Road]], [[A Blade Freely Given]], [[Four Fires]], [[Embers Without Excuse]], [[Enough for Two]], [[Watch Until Morning]], [[Beds Before Banners]], [[The Open Hospice]], and [[The First Open Table]]: eleven production-blocked authored pieces, of which no more than ten can appear in one playthrough.
 
-Elara, Ilyana, and Bernard are fully migrated to the eleven-piece authored architecture and ten-piece playthrough ceiling. The other five remain outlined and will be deep-blocked directly against the new standard. No later companion's threshold or autonomous result is canonized without its planned user-guided pass.
+### CMP-07: Tavio Meran
+
+- [[Tavio Companion Campaign]]: controlling eleven-piece authored campaign, ten-piece playthrough ceiling, preparation, autonomy, changed re-entry, embedded opportunities, and rewards.
+- [[Tavio Meran]]: controlling Vortharan character bible.
+- [[Tavio Field Familiarity and Relationships]]: approval, friendship, romance, sworn bond, departure, and permanent rewards.
+- [[Tavio Lancewright Package]]: companion mark, loading, release, Yield, and progression rules.
+- [[Tavio Banter and Reactivity]]: pair banter, faction attitudes, regional observations, and seasonal dialogue.
+- [[Red Brass Bench]], [[Maro Vezan]], [[Seraf Pellan]], [[Proof-Mistress Hella Dorn]], and [[Lio Varcen]]: institutional and personal history with stateful continuity.
+- [[Lancewright]]: the quest-earned advanced player vocation.
+- [[The False Ring]], [[The Signed Measure]], [[Proof Under Load]], [[Games Without a Crown]], [[The Challenger's Road]], [[The Fair Defeat]], [[No Wager Between Us]], [[After the Last Lantern]], [[Measure on the March]], [[Horn for Leak-Day]], and [[The Road Takes the Measure]]: eleven production-blocked pieces, of which no more than ten can appear in one playthrough.
+
+Elara, Ilyana, Bernard, and Tavio are fully migrated to the eleven-piece authored architecture and ten-piece playthrough ceiling. The other four remain outlined and will be deep-blocked directly against the new standard. No later companion's threshold or autonomous result is canonized without its planned user-guided pass.
 
 ## Controls
 

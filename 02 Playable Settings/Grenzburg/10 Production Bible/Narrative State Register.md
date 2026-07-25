@@ -57,7 +57,7 @@ Every act finale sets `duo_finale_state` to staged before dismissing the other a
 | CMP-04 | [[Ashira bath Melan]] | woman | [[Medium]] |
 | CMP-05 | [[Bernard Valeon]] | man | [[Paladin]] |
 | CMP-06 | [[Dismas Raben]] | man | [[Hunter]] |
-| CMP-07 | [[Tavio Meran]] | man | [[Rune Fist]] |
+| CMP-07 | [[Tavio Meran]] | man | [[Lancewright]] |
 | CMP-08 | [[Zafir ibn Samad]] | man | [[Binder]] |
 
 Each ID owns eleven authored content slots through [[Companion Campaign Expansion Register]]: nine non-exclusive pieces, one romance episode, and one sworn-bond episode. At most ten pieces can appear for one companion in a playthrough. Each ID also owns eight to twelve embedded opportunities, three act-specific autonomous routes, and one main-campaign contribution per act.
@@ -454,20 +454,82 @@ Duplicate implementation keys across these authorities are prohibited unless one
 | `svala_arc_outcome` | companion | Svala Last-Beacon | 4 | [[Last Beacon, First Road]] |
 | `svala_summer_destination` | companion | Svala Last-Beacon | 4 | [[Last Beacon, First Road]] |
 | `winter_road_protection` | companion | Svala Last-Beacon | 4 | [[Last Beacon, First Road]] |
-| `championship_cheating_known` | companion | Tavio Meran | 1 | [[The False Ring]] |
-| `forge_safety_state` | companion | Tavio Meran | 1 | [[The False Ring]] |
+| `tavio_recruited` | companion gate | Tavio Meran | 0 | [[Tavio Meran]] |
+| `tavio_first_outing_complete` | companion gate | Tavio Meran | 0 | [[Tavio Companion Campaign]] |
+| `tavio_direction` | companion direction | Tavio Meran | 0 | [[Tavio Companion Campaign]] |
+| `tavio_act1_readiness_viable` | companion readiness | Tavio Meran | 0 | [[Tavio Companion Campaign]] |
+| `tavio_act2_readiness_viable` | companion readiness | Tavio Meran | 0 | [[Tavio Companion Campaign]] |
+| `tavio_act3_readiness_viable` | companion readiness | Tavio Meran | 0 | [[Tavio Companion Campaign]] |
+| `tavio_cold_iron_control_sample` | companion preparation | Tavio Meran | 0 | [[Tavio Companion Campaign]] |
+| `tavio_warlock_counterproof` | companion preparation | Tavio Meran | 0 | [[Tavio Companion Campaign]] |
+| `tavio_workers_stop_authority` | companion preparation | Tavio Meran | 0-2 | [[The Equipment Account]] or [[Holdfast Without Orders]] |
+| `tavio_bout_rules_filed` | companion preparation | Tavio Meran | 0 | [[Tavio Companion Campaign]] |
+| `tavio_neutral_officials_secured` | companion preparation | Tavio Meran | 0 | [[Tavio Companion Campaign]] |
+| `tavio_red_brass_witness` | companion preparation | Tavio Meran | 0 | [[Tavio Companion Campaign]] |
+| `tavio_bookmaker_ledger` | companion preparation | Tavio Meran | 0 | [[Tavio Companion Campaign]] |
+| `tavio_leak_horn_drill` | companion preparation | Tavio Meran | 0 | [[Tavio Companion Campaign]] |
+| `tavio_mobile_vent_frame` | companion preparation | Tavio Meran | 0 | [[Tavio Companion Campaign]] |
+| `tavio_muster_cadence_reading` | companion preparation | Tavio Meran | 8 | [[The Land Reclaimed]] |
+| `tavio_worker_consent_roster` | companion preparation | Tavio Meran | 0 | [[Tavio Companion Campaign]] |
+| `tavio_campaign_tracked` | companion | Tavio Meran | 1 | [[The False Ring]] |
+| `tavio_fifth_ring_evidence` | companion preparation | Tavio Meran | 1 | [[The False Ring]] |
+| `tavio_cheating_admitted` | companion | Tavio Meran | 1 | [[The False Ring]] |
 | `tavio_insert_state` | companion | Tavio Meran | 1 | [[The False Ring]] |
-| `cold_iron_supply` | companion | Tavio Meran | 2 | [[Proof Under Load]] |
-| `rune_fist_safety_doctrine` | companion | Tavio Meran | 2 | [[Proof Under Load]] |
-| `tavio_rigging_network` | companion | Tavio Meran | 2 | [[Proof Under Load]] |
-| `crucible_exposure` | companion | Tavio Meran | 3 | [[The Fair Defeat]] |
-| `lio_varcen_state` | companion | Tavio Meran | 3 | [[The Fair Defeat]] |
-| `tavio_fair_duel_result` | companion | Tavio Meran | 3 | [[The Fair Defeat]] |
-| `tavio_relationship_commitment` | companion | Tavio Meran | 3 | [[The Fair Defeat]] |
-| `great_forge_state` | companion | Tavio Meran | 4 | [[Horn for Leak-Day]] |
-| `leak_warden_service` | companion | Tavio Meran | 4 | [[Horn for Leak-Day]] |
-| `tavio_arc_outcome` | companion | Tavio Meran | 4 | [[Horn for Leak-Day]] |
-| `tavio_summer_destination` | companion | Tavio Meran | 4 | [[Horn for Leak-Day]] |
+| `koss_fifth_ring_interest` | companion | Tavio Meran | 1 | [[The False Ring]] |
+| `hella_dorn_trust` | companion | Tavio Meran | 1 | [[The False Ring]] |
+| `tavio_signed_batch_register` | companion preparation | Tavio Meran | 2 | [[The Signed Measure]] |
+| `unsafe_lancewright_fittings_state` | companion | Tavio Meran | 2 | [[The Signed Measure]] |
+| `injured_apprentice_state` | companion | Tavio Meran | 2 | [[The Signed Measure]] |
+| `seraf_pellan_state` | character | Seraf Pellan | 2-6 | [[The Signed Measure]] |
+| `tavio_act1_chapter_resolved` | companion chapter | Tavio Meran | 3 | [[Proof Under Load]] |
+| `tavio_act1_result` | companion | Tavio Meran | 3 | [[Proof Under Load]] |
+| `tavio_act1_finale_played` | companion | Tavio Meran | 3 | [[Proof Under Load]] |
+| `cold_iron_supply` | regional | Highlake | 3 | [[Proof Under Load]] |
+| `red_brass_substitution_proven` | faction | Red Brass Bench | 3 | [[Proof Under Load]] |
+| `mine_workers_state` | companion | Tavio Meran | 3 | [[Proof Under Load]] |
+| `act1_field_antagonist_state` | character | Red Brass Bench | 3 | [[Proof Under Load]] |
+| `tavio_friendship_episode` | friendship | Tavio Meran | 4 | [[Games Without a Crown]] |
+| `yard_fair_state` | companion | Tavio Meran | 4 | [[Games Without a Crown]] |
+| `tavio_prize_state` | companion | Tavio Meran | 4 | [[Games Without a Crown]] |
+| `tavio_approval` | companion approval | Tavio Meran | 0-5 | [[Tavio Field Familiarity and Relationships]] |
+| `tavio_lio_brace_intact` | companion preparation | Tavio Meran | 5 | [[The Challenger's Road]] |
+| `lio_varcen_arrival_state` | character | Lio Varcen | 5 | [[The Challenger's Road]] |
+| `crucible_evidence_state` | faction | The Crucible | 5 | [[The Challenger's Road]] |
+| `red_brass_road_attack_state` | faction | Red Brass Bench | 5 | [[The Challenger's Road]] |
+| `tavio_act2_chapter_resolved` | companion chapter | Tavio Meran | 6 | [[The Fair Defeat]] |
+| `tavio_act2_result` | companion | Tavio Meran | 6 | [[The Fair Defeat]] |
+| `tavio_act2_finale_played` | companion | Tavio Meran | 6 | [[The Fair Defeat]] |
+| `tavio_fair_bout_result` | companion | Tavio Meran | 6 | [[The Fair Defeat]] |
+| `lio_varcen_state` | character | Lio Varcen | 6 | [[The Fair Defeat]] |
+| `red_brass_exposure` | faction | Red Brass Bench | 6 | [[The Fair Defeat]] |
+| `tavio_lancewright_unlocked` | progression | Tavio Meran | 6 | [[The Fair Defeat]] |
+| `tavio_relationship_commitment` | relationship | Tavio Meran | 6 | [[The Fair Defeat]] |
+| `tavio_relationship_paths_closed` | relationship | Tavio Meran | 6 | [[The Fair Defeat]] |
+| `maro_vezan_state` | character | Maro Vezan | 6 | [[The Fair Defeat]] |
+| `tavio_romance_episode` | relationship | Tavio Meran | 7 | [[No Wager Between Us]] |
+| `tavio_romance_move_upgrade` | relationship | Tavio Meran | 7 | [[No Wager Between Us]] |
+| `tavio_courtship_measure_practiced` | companion preparation | Tavio Meran | 7 | [[No Wager Between Us]] |
+| `festival_courtship_state` | relationship | Tavio Meran | 7 | [[No Wager Between Us]] |
+| `tavio_bond_episode` | relationship | Tavio Meran | 7 | [[After the Last Lantern]] |
+| `tavio_bond_move_upgrade` | relationship | Tavio Meran | 7 | [[After the Last Lantern]] |
+| `tavio_seconds_halt_practiced` | companion preparation | Tavio Meran | 7 | [[After the Last Lantern]] |
+| `last_lantern_state` | relationship | Tavio Meran | 7 | [[After the Last Lantern]] |
+| `tavio_field_inspection_ledger` | companion preparation | Tavio Meran | 8 | [[Measure on the March]] |
+| `march_equipment_state` | regional | Grenzburg | 8 | [[Measure on the March]] |
+| `old_river_arsenal_safety` | regional | Upper Grenz | 8 | [[Measure on the March]] |
+| `named_worker_stop_state` | companion | Tavio Meran | 8 | [[Measure on the March]] |
+| `tavio_act3_chapter_resolved` | companion chapter | Tavio Meran | 9 | [[Horn for Leak-Day]] |
+| `tavio_act3_result` | companion | Tavio Meran | 9 | [[Horn for Leak-Day]] |
+| `tavio_act3_finale_played` | companion | Tavio Meran | 9 | [[Horn for Leak-Day]] |
+| `tavio_arc_outcome` | companion | Tavio Meran | 9 | [[Horn for Leak-Day]] |
+| `great_forge_state` | regional | Hammer Ward | 9 | [[Horn for Leak-Day]] |
+| `forge_workers_state` | regional | Hammer Ward | 9 | [[Horn for Leak-Day]] |
+| `leak_horn_state` | companion | Tavio Meran | 9 | [[Horn for Leak-Day]] |
+| `tavio_summer_destination` | companion | Tavio Meran | 9-10 | [[Horn for Leak-Day]] |
+| `tavio_relationship_perk` | relationship | Tavio Meran | 9 | [[Horn for Leak-Day]] |
+| `tavio_summer_coda_complete` | companion | Tavio Meran | 10 | [[The Road Takes the Measure]] |
+| `road_examiner_state` | companion | Tavio Meran | 10 | [[The Road Takes the Measure]] |
+| `summer_proof_route_state` | regional | Upper Grenz | 10 | [[The Road Takes the Measure]] |
 | `samira_identity_known` | companion | Zafir ibn Samad | 1 | [[The Cord Returned]] |
 | `zafir_cord_custody` | companion | Zafir ibn Samad | 1 | [[The Cord Returned]] |
 | `zafir_prior_practice` | companion | Zafir ibn Samad | 1 | [[The Cord Returned]] |

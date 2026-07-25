@@ -6,14 +6,14 @@ visibility: author-only
 era: ["Present Day"]
 region: ["Grenzburg"]
 culture: ["Sestaran", "Vortharan"]
-related_factions: ["Vortharan Crucible"]
+related_factions: ["The Crucible", "Red Brass Bench"]
 appears_in: ["Grenzburg"]
 needs: []
 aliases: []
 tags: [game-ready]
 companion_id: ""
-sex: ""
-vocation: ""
+sex: man
+vocation: "Lancewright"
 recruitment_window: ""
 foil: ""
 relationship_theme: ""
@@ -22,21 +22,55 @@ relationship_theme: ""
 
 ## Core Concept
 
-Tavio Meran's former sparring partner, permanently injured by an illegal conductor insert in a match he believed fair. Recovery lets him fight through a brace, but he refuses to become a passive test of Tavio's goodness.
+Lio Varcen is a Vortharan Lancewright, former Red Brass competitor, and the opponent permanently injured by [[Tavio Meran]]'s Fifth Ring. His left hip and lower spine were damaged when Tavio's concealed overproof discharged through a certified fighting brace.
 
-## Narrative Function
+Lio walks with a cane outside combat and uses a heavy articulated brace when fighting. Pain, restricted movement, and continuing medical work are part of his life; they do not erase his skill or make him a lesson constructed for Tavio.
 
-He wants the truth, an honest bout on rules he helps choose, and institutional exposure. He may forgive, refuse forgiveness, or maintain distance independently of Tavio's outcome.
+## What He Wants
 
-This character enters Grenzburg through a credible convoy, delegation, court record, protected passage, or refugee route. Their presence does not add an off-map playable zone.
+Lio wants:
 
-## Agency and Limits
+- a truthful public record;
+- the unsafe batch recalled;
+- the Red Brass endorsement chain investigated;
+- a fair bout on rules he helps file;
+- the right to win, lose, draw, withdraw, or refuse the bout;
+- his future separated from Tavio's need for forgiveness.
 
-Lio Varcen has interests independent of [[Tavio Meran]]. The player can protect, persuade, expose, defeat, or lose them as the relevant quest allows, but cannot convert them into proof that the companion is innocent.
+He may forgive, accept restitution without forgiveness, maintain distance, or reject further contact independently of Tavio's moral outcome.
+
+## The Fair Match
+
+Lio's challenge in [[The Fair Defeat]] is not revenge through humiliation. Tavio accepted a victory created by a hidden rule. Lio wants one encounter in which:
+
+- both fighters know the equipment;
+- either second may call a halt;
+- pain and brace warnings are treated as information;
+- no one throws the contest to manufacture a moral scene;
+- the recorded result is allowed to remain true.
+
+Lio may win, lose, draw, or withdraw. A thrown fight angers him because it steals his agency again.
+
+## Independence
+
+Lio enters Grenzburg under independent Crucible and medical protection during [[The Challenger's Road]]. He has his own lodging, witnesses, correspondence, and exit route. He is never placed in Tavio's custody.
+
+He can provide evidence without accepting the bout. He can refuse reconciliation after a fair bout. He can pursue technical teaching or leave Grenzburg regardless of Tavio's destination.
+
+## State Continuity
+
+If his brace is damaged, he may testify, postpone, withdraw, or fight under altered rules. If he is threatened, the threat becomes a criminal act against him rather than a device forcing him to need Tavio.
+
+Lio cannot die off-screen. His state never blocks the Lancewright unlock if the player personally completes an honest Act II finale, but his treatment changes Tavio's direction and the public settlement.
 
 ## Navigation
 
 - [[Tavio Meran]]
+- [[Tavio Companion Campaign]]
+- [[The Challenger's Road]]
+- [[The Fair Defeat]]
+- [[Red Brass Bench]]
+- [[Lancewright]]
 - [[Companions MOC]]
 - [[Narrative State Register]]
 - [[Grenzburg MOC]]

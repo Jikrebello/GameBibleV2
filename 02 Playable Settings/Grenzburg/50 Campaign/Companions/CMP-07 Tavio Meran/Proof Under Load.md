@@ -4,9 +4,9 @@ status: canon
 canon_level: local
 visibility: author-only
 era: ["Present Day"]
-region: ["Grenzburg"]
-culture: ["Sestaran", "Vortharan"]
-related_factions: ["Blackjack Corps"]
+region: ["Grenzburg", "Highlake Uplands", "Cold-Iron Deeps"]
+culture: ["Vortharan", "Sestaran", "Eclessian"]
+related_factions: ["Blackjack Corps", "Red Brass Bench", "Great Forge", "Warlock Hall"]
 appears_in: ["Grenzburg"]
 needs: []
 tags: [game-ready]
@@ -15,74 +15,163 @@ act: act-1
 availability_window: ["Open Autumn", "Early Winter"]
 repeatability: one-shot
 cutoff_result: transforms
-world_state_outputs: ["tavio_rigging_network", "cold_iron_supply", "rune_fist_safety_doctrine"]
-required_locations: ["Cold-Iron Deeps", "Warlock Hall", "Great Forge"]
-blocking_status: outlined
-architecture_status: pending-migration
+world_state_outputs: ["tavio_act1_chapter_resolved", "tavio_act1_result", "tavio_act1_finale_played", "tavio_direction", "cold_iron_supply", "red_brass_substitution_proven", "mine_workers_state", "act1_field_antagonist_state"]
+reward_unlocks: ["Second's Brace", "Ally Loading", "Lancewright Parts"]
+required_locations: ["Highlake", "Cold-Iron Deeps", "Warlock Hall", "Great Forge"]
+blocking_status: blocked
+architecture_status: migrated
 companion_content_role: act-finale
 companion_campaign_stage: act-1
 quest_owner: "Tavio Meran"
-quest_sequence: 2
+quest_sequence: 3
 companion_id: "CMP-07"
 faction_line: ""
 faction_branch: ""
+chapter_id: ""
+main_sequence: 0
+story_gate: reckoning
+estimated_hours: 1.5
+gameplay_pillars: [expedition, technical-investigation, worker-rescue, combat, moral-reckoning]
+required_states: ["tavio_act1_readiness_viable"]
+optional_state_inputs: ["tavio_fifth_ring_evidence", "tavio_signed_batch_register", "tavio_cold_iron_control_sample", "tavio_warlock_counterproof", "tavio_workers_stop_authority", "seraf_pellan_state"]
+field_experience_gate: []
+companion_required: "Tavio Meran"
+duo_quest: true
+pause_points: ["Control Sample Secured", "Workers Evacuated"]
+relationship_gate: ""
+relationship_variant: ""
+preparation_inputs: ["tavio_fifth_ring_evidence", "tavio_signed_batch_register", "tavio_cold_iron_control_sample", "tavio_warlock_counterproof", "tavio_workers_stop_authority"]
+preparation_threshold: "2 of 5"
+autonomous_deadline: "The Last Convoy"
+autonomous_resolution: "Tavio proves the substitution but pushes beyond the stop call, injuring one worker and losing the field antagonist"
+changed_reentry: "The Cracked Batch"
+ensemble_inputs: ["Svala Last-Beacon", "Ilyana Veshkar"]
+identity_hooks: ["Sestaran", "Merchant/Craft", "Military", "Scholarly", "Peasant/Labour", "Warlock"]
+encounter_deck: []
+persistence_scope: regional-milestone
+postgame_season: ""
 ---
 # Proof Under Load
 
-## Role in the Arc
+## Quest Function
 
-This is Tavio Meran's quest 2 of four. It is playable in Open Autumn and Early Winter. The current note remains an outline; its deep block must use the fixed player-plus-Tavio Meran duo format in [[Companion Field Familiarity and Duo Quest Standard]].
+Tavio's Act I finale is a player-and-Tavio expedition into [[Cold-Iron Deeps]]. It determines whether the local ore is unsafe, whether Red Brass substituted fittings, and whether Tavio can stop when the evidence is sufficient.
 
-## Hook and Immediate Stake
+## Hook
 
-A batch of gauntlet conductors cracks under winter load, and a Vortharan supplier blames Grenzburg ore. The fracture pattern matches the illegal insert.
+A winter gauntlet batch cracks at the Great Forge. The supplier blames Highlake cold-iron. Hella finds a fracture that resembles the Fifth Ring but needs an uncontaminated mine sample and the original testing frame.
 
-Prevent foundry injuries and prove whether the championship hardware came from a wider rigging practice.
+A Red Brass field agent has reached the mine first:
 
-## Player Actions
+- [[Seraf Pellan]] if he escaped;
+- a named Red Brass quartermaster if Seraf was arrested or killed.
 
-Inspect Cold-Iron extraction, escort test metal to Warlock Hall, perform escalating load trials, and rescue workers when a conductor bank vents.
+The agent offers the mine owners a fast public test that will either clear the ore or ruin Highlake's contracts.
 
-## Opposition and Pressure
+## Preparation
 
-Supplier agents swap samples; impatient craftsmen keep production running; Tavio wants to push a dramatic test beyond safety to obtain conclusive proof.
+| Asset | Concrete advantage |
+|---|---|
+| Fifth Ring evidence | identifies the prohibited fourth relation |
+| Signed batch register | maps the suspect fittings |
+| Cold-Iron control sample | disproves ore contamination immediately |
+| Warlock counterproof | permits safe comparison without full live load |
+| Workers' stop authority | allows a miner to halt the test and order evacuation |
 
-## Information Paths
+Two assets permit the expedition. Three make proof, workers, supply, and antagonist achievable. Four or five protect one objective after a material failure.
 
-Mine stamps, slag chemistry, and script-resonance scars distinguish bad ore from deliberate overcapacity.
+## Beginning: Into the Deeps
 
-Required understanding never rests on a single social check. Cultural, background, Insight, exploration, and companion observations alter clarity and cost rather than deciding whether the plot continues.
+Accepting the quest at Highlake forms the fixed player-Tavio duo. Other companions leave at the staging point. Mine guides and rescued workers are temporary NPCs.
 
-## Decision or Mastery Point
+Three approaches reach the test chamber:
 
-Stop at sufficient proof, risk a bounded final test, or accept the supplier's settlement. Tavio's willingness to yield to safety is the character test.
+- **haulage descent:** fastest, occupied by Red Brass guards;
+- **ventilation climb:** exposed and traversal-heavy;
+- **old proof gallery:** longer, with damaged ward engines and readable load warnings.
 
-## Fail-Forward Results
+Every starting vocation can use every approach through shared movement and alternate hazard answers.
 
-A failed trial damages equipment and delays winter gauntlet supply but exposes the hidden capacity through the fracture. Injured workers remain rescueable.
+## Middle: Sample and Substitution
 
-Failed combat, stealth, or persuasion changes injuries, evidence, access, public trust, or the later encounter. It does not erase the companion line.
+The duo must secure:
 
-## World-State Outputs
+1. an ore face not touched by the supplier;
+2. a stamped fitting from the failed batch;
+3. the mine's original proof plate;
+4. testimony from workers who saw the sample swap.
 
-- `tavio_rigging_network`
-- `cold_iron_supply`
-- `rune_fist_safety_doctrine`
+Opposition consists of:
 
-## Seasonal Cutoff
+- hired guards;
+- unstable lifts;
+- ordinary cave predators;
+- old non-conscious ward mechanisms;
+- a supplier team destroying labels;
+- a conductor bank already loading under false settings.
 
-At the spring transition, unresolved danger produces a named casualty, loss, or policy change and the reckoning quest inherits it.
+No supernatural mastermind explains the fraud.
 
-## Rewards and Return Value
+## Worker Crisis
 
-Connects his personal fraud to an institution without making the institution responsible for his choice.
+The field agent starts the live proof while workers remain below the chamber. A fracture isolates two crews and threatens the haulage frame.
 
-Completion grants a companion technique or field synergy, qualitative approval movement, and a concrete late-game or summer state. Exact numerical tuning remains provisional.
+The duo may:
+
+- stop the test and rescue both crews;
+- preserve the active reading while opening a second route;
+- abandon equipment to shore the chamber;
+- pursue the agent;
+- use strong preparation to split tasks safely.
+
+Tavio initially wants one more load because it would make the substitution undeniable.
+
+## Final Proof
+
+The test has three meaningful stopping points:
+
+- **sufficient:** enough for a recall and civil action;
+- **conclusive:** stronger institutional evidence with bounded risk;
+- **overproof:** spectacular certainty at unacceptable risk to workers and structure.
+
+If a named worker calls the halt, Tavio's response is the character decision. The player may support the halt, permit a bounded continuation after evacuation, or encourage the overproof.
+
+## End
+
+Possible material outcomes include:
+
+- ore cleared and supply preserved;
+- substitution proven but mine damaged;
+- workers saved while the field antagonist escapes;
+- conclusive evidence and antagonist captured through strong preparation;
+- test catastrophe exposing the fraud through its failure.
+
+Tavio may admit the Fifth Ring connection publicly, keep the evidence technical, or accept a supplier settlement.
+
+## Fail-Forward
+
+- Lost control sample: proof plate and fracture geometry establish substitution at greater cost.
+- Witness flees: batch register and physical scars remain.
+- Worker injured: the injury persists and changes winter dialogue.
+- Antagonist escapes: later records and sabotage adapt to the state.
+- Mine closes: Highlake prices and winter supply worsen, but the campaign continues.
+- Duo defeat: miners recover them after the failed bank vents; the antagonist gains time.
+
+## Rewards
+
+- upgraded **Second's Brace**;
+- reliable ally loading for Tavio;
+- spear, proof-gauntlet, and mark parts for the custom builder after account eligibility;
+- Act I direction and outcome;
+- access to [[Games Without a Crown]];
+- Act II campaign progression.
 
 ## Navigation
 
+- [[Tavio Companion Campaign]]
 - [[Tavio Meran]]
-- [[Companion Constitution]]
-- [[Narrative State Register]]
-- [[Quest and Content Architecture]]
-- [[Grenzburg MOC]]
+- [[Lancewright]]
+- [[Cold-Iron Deeps]]
+- [[Proof-Mistress Hella Dorn]]
+- [[Red Brass Bench]]
+- [[Games Without a Crown]]

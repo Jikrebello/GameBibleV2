@@ -32,7 +32,7 @@ Ordinary vocation skills advance through mastery. A trainer is required when kno
 | Practice | improves ordinary authored skills as mastery rises | use, drills, study, ordinary instruction |
 | Rank proof | opens a new skill family or advanced technique | institution, master, practical examination |
 | Signature teaching | grants a named rare skill, augment, or method | quest, master, recovered manual, dangerous proof |
-| Advanced vocation | opens Paladin, Binder, or Bard | companion personal quest |
+| Advanced vocation | opens Paladin, Binder, Bard, or Lancewright | companion personal quest |
 | Capstone | completes an advanced vocation or Warlock master spell | late quest with moral, technical, or material proof |
 
 Experience cannot purchase knowledge the character has never encountered. Training also cannot substitute money for moral coherence, meaningful consent, or the resolution of a specific quest.
@@ -46,16 +46,16 @@ Experience cannot purchase knowledge the character has never encountered. Traini
 | [[Hunter]] | [[Ashfield Lodge]] | Longlake pilots, Highlake trackers, settlement hunting circles | food, safety, tracking, and monster work |
 | [[Warlock]] | [[Hammer Ward#Anchor Locations|Warlock Hall]] | [[Old River Arsenal]], [[Cold-Iron Deeps]], licensed field engineers | regulated elemental scripting |
 | [[Medium]] | Blackjack Yard's clandestine cell | [[Grenzburg Underways]], residue investigators, discreet field practitioners | mostly prohibited imprint craft under narrow warrant |
-| [[Rune Fist]] | Warlock Hall and [[Hammer Ward#Anchor Locations|Great Forge]] jointly | Vortharan manuals, military counterscript sites | martial warlock proof and fitted conductor craft |
 | [[Paladin]] | [[Bernard Valeon]] | credible White-Flame custodians after unlock | sacred trust joined to physical instruction |
 | [[Binder]] | [[Zafir the Bound Chainmaster|Zafir]] | recovered name traditions and consent-tested covenants after unlock | exact relation, release, and anti-coercion discipline |
 | [[Bard]] | [[Ilyana Veshkar]] | Sermoran performers, signal crews, instrument makers, and recovered scores after unlock | harmonic Shellcraft, ensemble judgement, and consent-bound support |
+| [[Lancewright]] | [[Tavio Meran]] during [[The Fair Defeat]] and [[Proof-Mistress Hella Dorn]] afterward | Great Forge, Warlock Hall, Vortharan proof manuals, road-inspection sites | spear marks, gauntlet catches, filed loads, and safe Yield |
 
 ## Campaign Availability Contract
 
 - The character-creation vocation is ready during the prologue.
 - At least one alternate starting-vocation trainer becomes available before chapter 5.
-- All six starting vocations can be opened by the end of chapter 6.
+- All five starting vocations can be opened by the end of chapter 6.
 - Every starting vocation has at least one route that does not require permanent faction loyalty.
 - Loss of one settlement or institution may make training harder, dearer, or later, but cannot permanently erase a starting vocation from a completed campaign.
 - No advanced vocation opens before its companion's Act II finale.
@@ -86,7 +86,7 @@ Ordinary rank proof should test the vocation's actual play:
 - Hunter reads and prepares a hunt.
 - Warlock solves a script safely under pressure.
 - Medium distinguishes imprint from person and dismisses cleanly.
-- Rune Fist catches and returns force without uncontrolled discharge.
+- Lancewright places and loads a physical mark, then releases or Yields it without uncontrolled discharge.
 - Paladin protects a real good at cost.
 - Binder establishes a valid relation and honors release.
 - Bard sustains a group, reads when support should change, and respects a refusal under pressure.

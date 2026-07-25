@@ -48,7 +48,7 @@ The dead formations withdraw into the southern basin. At Last Hearth the player 
 - **Last Hearth Shaft:** damaged maintenance route; tighter, quieter, and dependent on roadhead survival.
 - **Fen Wound:** unstable breach through black mud; dangerous but bypasses part of Outer Mobilization.
 
-Every vocation can complete every approach. Slayer movement, Hunter tracking, Warlock and Rune Fist counterscripts, Medium pattern reading, and Fighter control create advantages rather than exclusive locks.
+Every starting vocation can complete every approach. Slayer movement, Hunter tracking, Warlock counter-scripts, Medium pattern reading, and Fighter control create advantages rather than exclusive locks. An unlocked Lancewright may interact with physical command carriers but is never required.
 
 ## Beginning: Layer I, Outer Mobilization
 

@@ -15,7 +15,7 @@ act: act-1
 availability_window: ["Late Autumn"]
 repeatability: one-shot
 cutoff_result: transforms
-world_state_outputs: ["tann_holdfast_survivors", "seed_grain_state", "field_initiative_precedent"]
+world_state_outputs: ["tann_holdfast_survivors", "seed_grain_state", "field_initiative_precedent", "tavio_workers_stop_authority"]
 required_locations: ["Fort Tannbruck", "Tann Crossing Farms", "Upper Grenz Military Road"]
 blocking_status: outlined
 quest_owner: "Ducal and Marcher Service"
@@ -54,6 +54,12 @@ At least two routes establish every required fact. Social skill, cultural famili
 
 Issue a recorded field order, persuade local speakers to authorize movement, or hold until formal relief.
 
+## Tavio Embedded Opportunity
+
+With [[Tavio Meran]] present, the holdfast's lifting brace begins carrying more weight than its filed repair. The officer wants it kept moving until the last military cart crosses; workers want authority to stop it before collapse.
+
+Tavio can identify the real threshold, but the player must decide who may call the halt. Recording local stop authority supplies `tavio_workers_stop_authority` for [[Proof Under Load]]. Every vocation retains an ordinary route through unloading, shoring, rerouting, or abandoning the frame.
+
 ## Fail-Forward Results
 
 If the holdfast falls, survivors break out through farm drains. Lost stores strengthen one winter siege position but do not fail the line.
@@ -71,6 +77,7 @@ The warning screen names affected quests, leaders, services, and political-settl
 - `tann_holdfast_survivors`
 - `seed_grain_state`
 - `field_initiative_precedent`
+- `tavio_workers_stop_authority` when local halt authority is recorded
 
 ## Rewards and Return Value
 

@@ -143,7 +143,7 @@ Three tasks may be completed in any order:
 
 ### Water and Heat
 
-Clear the blocked river cistern, repair a stove flue, or establish a carried-water line. Warlock and Rune Fist offer technical shortcuts; every vocation can use tools, labor, and local plans.
+Clear the blocked river cistern, repair a stove flue, or establish a carried-water line. Warlock and an unlocked Lancewright offer technical shortcuts; every vocation can use tools, labour, and local plans.
 
 ### Wards and Exits
 

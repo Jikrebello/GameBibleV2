@@ -4,9 +4,9 @@ status: canon
 canon_level: local
 visibility: author-only
 era: ["Present Day"]
-region: ["Grenzburg"]
-culture: ["Sestaran", "Vortharan"]
-related_factions: ["Blackjack Corps"]
+region: ["Grenzburg", "Hammer Ward", "Lantern Ward"]
+culture: ["Vortharan", "Sestaran", "Eclessian"]
+related_factions: ["Blackjack Corps", "Medori Bank", "Red Brass Bench"]
 appears_in: ["Grenzburg"]
 needs: []
 tags: [game-ready]
@@ -15,10 +15,11 @@ act: act-1
 availability_window: ["Early Autumn", "Open Autumn"]
 repeatability: one-shot
 cutoff_result: transforms
-world_state_outputs: ["tavio_insert_state", "championship_cheating_known", "forge_safety_state"]
-required_locations: ["Blackjack Yard", "Great Forge", "Muster Green"]
-blocking_status: outlined
-architecture_status: pending-migration
+world_state_outputs: ["tavio_campaign_tracked", "tavio_fifth_ring_evidence", "tavio_cheating_admitted", "tavio_direction", "tavio_insert_state", "koss_fifth_ring_interest", "hella_dorn_trust"]
+reward_unlocks: ["Proof Reader", "Visible Overproof Warning"]
+required_locations: ["Blackjack Yard", "Great Forge", "Hammer Ward", "Muster Green"]
+blocking_status: blocked
+architecture_status: migrated
 companion_content_role: introduction
 companion_campaign_stage: introduction
 quest_owner: "Tavio Meran"
@@ -26,63 +27,145 @@ quest_sequence: 1
 companion_id: "CMP-07"
 faction_line: ""
 faction_branch: ""
+chapter_id: ""
+main_sequence: 0
+story_gate: introduction
+estimated_hours: 1.0
+gameplay_pillars: [investigation, equipment-proof, social-reckoning, controlled-combat]
+required_states: ["tavio_recruited"]
+optional_state_inputs: ["hammer_ward_access", "warlock_hall_access", "blackjack_reform_state"]
+field_experience_gate: ["one meaningful outing with Tavio"]
+companion_required: "Tavio Meran"
+duo_quest: false
+pause_points: ["Fifth Ring Secured", "Control Proof Filed"]
+relationship_gate: ""
+relationship_variant: ""
+preparation_inputs: []
+preparation_threshold: ""
+autonomous_deadline: "The Last Convoy"
+autonomous_resolution: "Hella secures the ring after Koss attempts to requisition it; Tavio admits only an equipment violation and begins Act I managed"
+changed_reentry: "The Cracked Batch"
+ensemble_inputs: ["Ilyana Veshkar", "Svala Last-Beacon", "Zafir ibn Samad"]
+identity_hooks: ["Sestaran", "Vortharan", "Military", "Merchant/Craft", "Scholarly", "Warlock"]
+encounter_deck: []
+persistence_scope: regional-milestone
+postgame_season: ""
 ---
 # The False Ring
 
-## Role in the Arc
+## Quest Function
 
-This is Tavio Meran's quest 1 of four. It is playable in Early Autumn and Open Autumn. The current note remains an outline; its deep block must use the fixed player-plus-Tavio Meran duo format in [[Companion Field Familiarity and Duo Quest Standard]].
+Tavio's introduction establishes the Fifth Ring as physical evidence, names his knowing use of it, introduces [[Proof-Mistress Hella Dorn]], and activates the campaign's proof, stop-authority, and accountability language.
 
-## Hook and Immediate Stake
+This is a normal-party case. Tavio must be present, but other companions remain available.
 
-A routine Blackjack equipment check finds an illegal Vortharan conductor insert hidden inside Tavio's old championship gauntlet. He claims he forgot it remained there.
+## Trigger
 
-Determine whether the insert was accidental salvage, preserved evidence, or a tool he intended to use again.
+After one meaningful outing, a routine equipment return at the [[Blackjack Yard]] makes Tavio's proof gauntlet ring when no relation is loaded. Quartermaster Brina halts the issue line and sends the gauntlet to the Great Forge.
 
-## Player Actions
+[[Captain Valdemar Koss]] wants the hidden capacity tested for military use. Tavio claims the old insert must have remained inside the gauntlet after his championship.
 
-Test the gauntlet at Great Forge, trace its maker mark, stage a controlled bout at Muster Green, and recover the school letter packed beneath the lining.
+Hella recognizes a deliberate concealed housing. She cannot yet prove when Tavio knew about it.
 
-## Opposition and Pressure
+## Beginning: Inventory Before Spectacle
 
-Koss wants the overpowered gauntlet deployed. Tavio minimizes his knowledge, while a forge master fears blame for possessing illegal war-script hardware.
+The party secures:
 
-## Information Paths
+- Tavio's gauntlet;
+- three filed championship proof rings;
+- the concealed Fifth Ring;
+- the Blackjack intake sheet;
+- a damaged strip of red arena lining;
+- Koss's provisional requisition.
 
-Heat memory in the insert, the maker mark, and Tavio's bout recording prove it was installed before the championship.
+The player may:
 
-Required understanding never rests on a single social check. Cultural, background, Insight, exploration, and companion observations alter clarity and cost rather than deciding whether the plot continues.
+- place the ring under Hella's independent custody;
+- allow Koss a bounded observation role;
+- involve Warlock Hall;
+- ask Brina to hold it as debtor equipment;
+- destroy its live capacity after recording the physical evidence.
 
-## Decision or Mastery Point
+Koss cannot simply steal it if the player loses a social check. A failed objection gives him an official test position and raises pressure later.
 
-Surrender it as evidence, destroy it after copying proof, or let Tavio keep it disabled. He must admit he knew its function during the match.
+## Middle: Four Tests and One Lie
 
-## Fail-Forward Results
+Hella stages four non-lethal tests in Hammer Ward:
 
-If the test overloads, Tavio and the player must contain Arcane Burn; the damaged insert still yields its signature. If Koss seizes it, it can be recovered through the Blackjack line.
+1. **Housing measure:** the insert fits only a gauntlet modified before the championship.
+2. **Maker scar:** the cut matches Seraf Pellan's proof-broker stamp.
+3. **Heat memory:** the ring carried a full fourth relation during the Lio bout.
+4. **Control demonstration:** three legal marks can be loaded, Broken, Braced, and Yielded without using the insert.
 
-Failed combat, stealth, or persuasion changes injuries, evidence, access, public trust, or the later encounter. It does not erase the companion line.
+During the control demonstration, an old strain line in the test frame fails. The party must:
 
-## World-State Outputs
+- clear apprentices;
+- catch or vent the directional force;
+- stop a swinging proof weight;
+- prevent Koss's observers from loading the Fifth Ring.
 
-- `tavio_insert_state`
-- `championship_cheating_known`
-- `forge_safety_state`
+Every starting vocation has an answer through guarding, mobility, ranged intervention, Warlock counter-script, or Medium distraction.
 
-## Seasonal Cutoff
+## Information Routes
 
-At the winter transition, the initiating evidence is secured by another party and the quest returns in Early Winter with higher institutional leverage and lower trust; it does not simply vanish.
+The truth has redundant sources:
 
-## Rewards and Return Value
+- maker scar and invoice sequence;
+- heat memory in the metal;
+- the gauntlet's pre-bout modification;
+- footage or written bout cadence;
+- Tavio's old seconding card;
+- a folded Red Brass instruction beneath the lining.
 
-Names his chosen cheating and teaches Rune Fist counter-casting through a controlled scene.
+Sestaran or Merchant/Craft knowledge identifies the endorsement form. Military or Warlock knowledge identifies why a fourth load endangers everyone sharing the field. Insight catches Tavio describing the ring's behaviour too precisely for someone who forgot it.
 
-Completion grants a companion technique or field synergy, qualitative approval movement, and a concrete late-game or summer state. Exact numerical tuning remains provisional.
+## Reckoning
+
+Tavio first admits he knew the insert existed. Pressed further, he admits he knew it exceeded the filed proof and chose to use it.
+
+The player may:
+
+- insist on a complete statement;
+- accept a witnessed private admission pending protected evidence;
+- allow a partial public statement while preserving the full record;
+- encourage concealment;
+- let Koss classify the ring as military property.
+
+The player cannot make Tavio innocent. The meaningful question is whether his first act in Grenzburg protects the truth, the Bench, or the dangerous device.
+
+## End
+
+The Fifth Ring may be:
+
+- preserved inert as evidence;
+- preserved live under Hella's custody;
+- destroyed after full documentation;
+- requisitioned by Koss;
+- retained disabled by Tavio under a named custodian.
+
+Any result can continue the campaign. Preserved physical evidence supplies `tavio_fifth_ring_evidence`; destruction requires strong documentation to supply the same preparation asset.
+
+## Fail-Forward
+
+- Test-frame failure: apprentices are injured or equipment is lost, but the fracture exposes the fourth-load architecture.
+- Koss gains custody: the player may recover the ring through the Blackjack line; copies of the measure remain.
+- Tavio lies: Hella's test still establishes the hardware, and his direction begins managed or overproof.
+- Evidence is damaged: maker scar, heat memory, and old filings provide alternate routes.
+- Party defeat during containment: forge crews clear the room and Hella files a harsher restriction.
+
+## Rewards
+
+- **Proof Reader:** Tavio calls out visibly unsafe fittings.
+- visible overproof warning in Tavio's companion interface;
+- Act I preparation asset `tavio_fifth_ring_evidence`;
+- access to [[The Signed Measure]];
+- tracked [[Tavio Companion Campaign]].
 
 ## Navigation
 
+- [[Tavio Companion Campaign]]
 - [[Tavio Meran]]
-- [[Companion Constitution]]
-- [[Narrative State Register]]
-- [[Quest and Content Architecture]]
-- [[Grenzburg MOC]]
+- [[Lancewright]]
+- [[Proof-Mistress Hella Dorn]]
+- [[Red Brass Bench]]
+- [[The Signed Measure]]

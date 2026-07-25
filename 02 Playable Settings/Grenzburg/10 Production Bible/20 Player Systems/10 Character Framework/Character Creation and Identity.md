@@ -93,7 +93,7 @@ Choose one starting virtue or sin leaning from [[Virtue and Sin Tendencies]], or
 
 ### 7. Starting Vocation
 
-Choose [[Fighter]], [[Slayer]], [[Hunter]], [[Warlock]], [[Medium]], or [[Rune Fist]]. The choice grants one coherent native kit for the prologue. It does not prevent learning the other authored vocations.
+Choose [[Fighter]], [[Slayer]], [[Hunter]], [[Warlock]], or [[Medium]]. The choice grants one coherent native kit for the prologue. It does not prevent learning the other authored vocations or later earning [[Paladin]], [[Binder]], [[Bard]], and [[Lancewright]].
 
 ## What Creation Does Not Do
 

@@ -75,7 +75,7 @@ At the Great Forge the pair strip the armour onto a public work table. Beneath l
 
 The player may preserve, clean around, or visibly catalogue the marks. Removing corrosion is maintenance; polishing away provenance to invent a noble history is not.
 
-Every vocation can complete the practical activity through ordinary tools. Craft and Military knowledge add observations, while Fighter, Paladin, Rune Fist, and Warlock training offer distinct handling comments without gating progress.
+Every vocation can complete the practical activity through ordinary tools. Craft and Military knowledge add observations, while Fighter, Paladin, and Warlock training offer distinct handling comments without gating progress.
 
 ## Middle: A Weapon Returned
 

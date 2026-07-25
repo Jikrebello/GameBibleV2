@@ -9,7 +9,7 @@ culture: []
 related_factions: []
 appears_in: ["Grenzburg"]
 needs:
-  - prototype all six starting vocations before selecting final growth curves
+  - prototype all five starting vocations before selecting final growth curves
   - assign Stagger Power and Staying Power baselines
   - set social distributions, risk thresholds, Luck behavior, mastery rates, loadout budgets, and encumbrance breakpoints
   - replace or discard the imported numerical tables after combat testing
@@ -60,7 +60,7 @@ The source supplied early and late growth for five vocations. `Defence` below ma
 | Warlock | +12 | +13 | +1 | +1 | +3 | +5 |
 | Medium | +10 | +15 | +1 | +2 | +5 | +3 |
 
-These tables are not implementation targets. They predate Stagger Power, Staying Power, Rune Fist, Paladin, Binder, the field-locked vocation ruling, and the finalized custom-growth rule.
+These tables are not implementation targets. They predate Stagger Power, Staying Power, Paladin, Binder, Bard, Lancewright, the field-locked vocation ruling, and the finalized custom-growth rule.
 
 ## Qualitative Growth Intent
 
@@ -71,7 +71,7 @@ These tables are not implementation targets. They predate Stagger Power, Staying
 | Hunter | Stamina, Strength, precision-facing Stagger Power | balanced defences | low close-pressure durability |
 | Warlock | Magick, Magick Defence, Stamina | elemental control | low physical stability |
 | Medium | Magick, Stamina, roster-facing resilience | Magick Defence | vulnerable when isolated from fields and shades |
-| Rune Fist | Stagger Power, Staying Power, both defences | Stamina | modest raw ranged output |
+| Lancewright | Stagger Power, Staying Power, Strength and Magick | Stamina | modest sustained range and dangerous overproof |
 | Paladin | Health, Strength, Stagger Power, Magick Defence | Staying Power | slow commitments and limited sustained mobility |
 | Binder | Magick, Magick Defence, Stamina | Intelligence-facing utility | low direct physical pressure |
 | Bard | Stamina, Magick, Magick Defence | Intelligence-facing support and recovery | low direct damage and severe isolation risk |
@@ -99,7 +99,7 @@ These tables are not implementation targets. They predate Stagger Power, Staying
 - Stamina costs for sprinting, climbing, guarding, shooting, scripts, and large-monster climbing.
 - Arcane Burn gain, passive decay, active venting, and overdraw thresholds.
 - Medium roster capacity by imprint scale.
-- Fighter guard and Rune Fist catch windows.
+- Fighter guard and Lancewright proof-gauntlet catch windows.
 - stagger and staying interactions across humans, creatures, and large monsters.
 
 ### Loadouts

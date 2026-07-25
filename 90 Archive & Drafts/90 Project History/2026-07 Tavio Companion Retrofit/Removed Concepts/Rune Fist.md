@@ -1,16 +1,14 @@
 ---
 type: mechanic
-status: canon
-canon_level: local
+status: archived
+canon_level: obsolete
 visibility: author-only
 era: ["Present Day"]
 region: ["Grenzburg"]
 culture: ["Vortharan"]
 related_factions: ["Grenzburg Warlock Hall", "Hammer Ward Great Forge"]
 appears_in: ["Grenzburg"]
-needs:
-  - prototype counter timing, stored-force limits, and Burn vent cadence
-  - determine whether the final public vocation name remains Rune Fist
+needs: []
 system_family: player
 player_system: vocation
 vocation_tier: starting
@@ -22,6 +20,10 @@ account_access: starting
 training_regions: ["Hammer Ward"]
 balance_status: qualitative
 originalization_status: review
+archive_reason: "Superseded as an active starting vocation when its useful counter-script and Arcane Burn concepts were absorbed into Lancewright"
+archived_from: "02 Playable Settings/Grenzburg/10 Production Bible/20 Player Systems/30 Starting Vocations/Rune Fist.md"
+archived_on: 2026-07-25
+superseded_by: "[[Lancewright]]"
 tags: []
 ---
 # Rune Fist

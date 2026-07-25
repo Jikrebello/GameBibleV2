@@ -131,7 +131,7 @@ The refuge bell is in a bandit sack moving toward the north path. A short pursui
 Every player vocation can complete every objective:
 
 - ordinary ropes, poles, tools, and the capstan recover the wagon;
-- Fighter, Paladin, and Rune Fist accelerate bracing and hauling;
+- Fighter and ordinary carrying proficiency accelerate bracing and hauling;
 - Slayer opens exposed reed and roof shortcuts;
 - Hunter reads the cleanest trail and animal-safe path;
 - Warlock may dry fittings or shift water in bounded ways;

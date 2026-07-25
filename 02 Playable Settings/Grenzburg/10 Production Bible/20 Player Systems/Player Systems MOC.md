@@ -62,13 +62,13 @@ Exact damage, frame data, input mappings, probability curves, slot budgets, and 
 | [[Hunter]] | longbow, crafted arrows, light field armour | read terrain and creatures, control range |
 | [[Warlock]] | paired war-wands, robes or light armour | weave elemental scripts while managing Arcane Burn |
 | [[Medium]] | medium's rod, shade roster, shadow fields | turn defeated forms into temporary tactical pressure |
-| [[Rune Fist]] | inscribed gauntlets, medium armour | catch force and return it through close elemental counters |
 
 ## Advanced and Custom Vocations
 
 - [[Paladin]] is earned through Bernard's Act II finale and completed through his Act III finale.
 - [[Binder]] is earned through Zafir's Act II finale and completed through his Act III finale.
 - [[Bard]] is earned through Ilyana's Act II finale and completed through her Act III finale.
+- [[Lancewright]] is earned through Tavio's Act II finale and completed through his Act III finale.
 - [[Custom Vocation Workshop]] opens as a metagame system after two authored vocations are fully mastered.
 
 ## Production Controls

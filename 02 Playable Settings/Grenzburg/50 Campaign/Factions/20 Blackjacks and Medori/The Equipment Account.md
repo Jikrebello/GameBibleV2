@@ -15,7 +15,7 @@ act: act-1
 availability_window: ["Early Autumn", "Open Autumn"]
 repeatability: one-shot
 cutoff_result: transforms
-world_state_outputs: ["equipment_account_rule", "blackjack_gear_supply", "koss_predation_evidence"]
+world_state_outputs: ["equipment_account_rule", "blackjack_gear_supply", "koss_predation_evidence", "tavio_workers_stop_authority"]
 required_locations: ["Blackjack Yard", "Great Forge", "Ledger Quays"]
 blocking_status: outlined
 quest_owner: "Blackjacks and Medori"
@@ -54,6 +54,12 @@ At least two routes establish every required fact. Social skill, cultural famili
 
 Create cost-only issue, retain punitive loss charges with review, or let the account stand in exchange for superior gear access.
 
+## Tavio Embedded Opportunity
+
+With [[Tavio Meran]] present, Koss asks him to certify an unfiled over-capacity fitting for debtor use. Tavio can refuse, expose its similarity to Red Brass practice, or accept the argument that wartime need makes the hidden load reasonable.
+
+If the player establishes that a named debtor or forge worker may halt any live proof, the quest supplies `tavio_workers_stop_authority` for [[Proof Under Load]]. Tavio changes the method and risk; his presence is never required to resolve the equipment account.
+
 ## Fail-Forward Results
 
 If records burn, physical stamps prove overcharge. Lost equipment lowers winter readiness but creates no quest dead end.
@@ -71,6 +77,7 @@ The warning screen names affected quests, leaders, services, and political-settl
 - `equipment_account_rule`
 - `blackjack_gear_supply`
 - `koss_predation_evidence`
+- `tavio_workers_stop_authority` when the worker halt is recorded
 
 ## Rewards and Return Value
 

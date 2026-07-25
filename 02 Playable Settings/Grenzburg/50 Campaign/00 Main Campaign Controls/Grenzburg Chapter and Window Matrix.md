@@ -92,7 +92,7 @@ Missing a finale closes its original version. Later contact uses its authored ch
 
 ## Baseline Completion Rule
 
-No companion or faction is mandatory. Every critical chapter supplies a baseline route for all six starting vocations. Advanced vocations, movement advantages, faction stages, companion arcs, and previous successes create shortcuts, rescues, reduced losses, and alternate methods rather than permission to continue.
+No companion or faction is mandatory. Every critical chapter supplies a baseline route for all five starting vocations. Advanced vocations, movement advantages, faction stages, companion arcs, and previous successes create shortcuts, rescues, reduced losses, and alternate methods rather than permission to continue.
 
 ## Navigation
 

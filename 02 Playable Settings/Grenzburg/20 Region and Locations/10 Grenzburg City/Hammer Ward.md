@@ -49,7 +49,7 @@ Hammer Ward occupies the west bank's southern mill races and industrial ground. 
 
 ## Return Reasons
 
-Crafting, warlock and Rune Fist training, equipment repair, labor stories, sabotage, faction resources, and reconstruction keep Hammer Ward relevant.
+Crafting, Warlock and post-unlock Lancewright training, equipment repair, labour stories, proof disputes, faction resources, and reconstruction keep Hammer Ward relevant.
 
 ## Navigation
 

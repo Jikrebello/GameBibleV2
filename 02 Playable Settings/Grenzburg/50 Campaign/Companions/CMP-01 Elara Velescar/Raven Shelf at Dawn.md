@@ -74,7 +74,7 @@ Every vocation can complete the route:
 - ordinary climbing and ladders form the main ascent;
 - Slayer and Free Running open exposed shortcuts;
 - Hunter tracking reads old signal marks;
-- Warlock and Rune Fist can clear ice or stabilize a damaged fitting without creating new routes;
+- Warlock and an unlocked Lancewright can clear ice or stabilize a damaged fitting without creating new routes;
 - Fighter, Paladin, Binder, and Medium tools solve load, protection, or hazard problems.
 
 Elara's equipment provides safer options, not mandatory access.

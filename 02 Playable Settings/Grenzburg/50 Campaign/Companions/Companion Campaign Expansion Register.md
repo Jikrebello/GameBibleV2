@@ -9,28 +9,28 @@ culture: []
 related_factions: ["Blackjack Corps"]
 appears_in: ["Grenzburg"]
 needs:
-  - name and block the 35 remaining reserved authored pieces during individual companion passes
-  - approve the other five companions' exact preparation thresholds and autonomous outcome tables during individual passes
+  - name and block the 28 remaining reserved authored pieces during individual companion passes
+  - approve the other four companions' exact preparation thresholds and autonomous outcome tables during individual passes
 tags: [game-ready]
 ---
 # Companion Campaign Expansion Register
 
-This register controls exactly eighty-eight authored companion pieces. Elara's, Ilyana's, and Bernard's eleven-piece authored campaigns are migrated and blocked. The other existing quest sources retain `architecture_status: pending-migration`; untitled slots do not receive empty notes.
+This register controls exactly eighty-eight authored companion pieces. Elara's, Ilyana's, Bernard's, and Tavio's eleven-piece authored campaigns are migrated and blocked. The other existing quest sources retain `architecture_status: pending-migration`; untitled slots do not receive empty notes.
 
-Current authored count: **53 linked / 35 reserved / 88 total**. Because romance and sworn bond are mutually exclusive and only one of each may be committed across the roster, no more than **74 pieces** are playable in one run: seventy-two non-exclusive pieces, one romance, and one bond.
+Current authored count: **60 linked / 28 reserved / 88 total**. Because romance and sworn bond are mutually exclusive and only one of each may be committed across the roster, no more than **74 pieces** are playable in one run: seventy-two non-exclusive pieces, one romance, and one bond.
 
 ## Count Authority
 
 | Role | Linked notes | Reserved pieces | Total |
 |---|---:|---:|---:|
 | Introductory cases | 8 | 0 | 8 |
-| Short act operations | 9 | 15 | 24 |
+| Short act operations | 12 | 12 | 24 |
 | Duo act finales | 24 | 0 | 24 |
-| Friendship episodes | 3 | 5 | 8 |
-| Romance episodes | 3 | 5 | 8 |
-| Sworn-bond episodes | 3 | 5 | 8 |
-| Summer codas | 3 | 5 | 8 |
-| **Authored pieces** | **53** | **35** | **88** |
+| Friendship episodes | 4 | 4 | 8 |
+| Romance episodes | 4 | 4 | 8 |
+| Sworn-bond episodes | 4 | 4 | 8 |
+| Summer codas | 4 | 4 | 8 |
+| **Authored pieces** | **60** | **28** | **88** |
 
 ## CMP-01: Elara Velescar
 
@@ -144,19 +144,19 @@ Embedded opportunities: 10 reserved. Autonomous Act I, II, and III actions are c
 
 | ID | Role | Content | Status |
 |---|---|---|---|
-| CMP-07-I | introduction | [[The False Ring]] | pending migration |
-| CMP-07-A1-O | Act I operation | untitled | reserved |
-| CMP-07-A1-F | Act I finale | [[Proof Under Load]] | pending migration |
-| CMP-07-A2-O | Act II operation | untitled | reserved |
-| CMP-07-A2-F | Act II finale | [[The Fair Defeat]] | pending migration |
-| CMP-07-A3-O | Act III operation | untitled | reserved |
-| CMP-07-A3-F | Act III finale | [[Horn for Leak-Day]] | pending migration |
-| CMP-07-FR | friendship episode | untitled | reserved |
-| CMP-07-RM | romance episode | untitled | reserved |
-| CMP-07-BD | sworn-bond episode | untitled | reserved |
-| CMP-07-S | summer coda | untitled | reserved |
+| CMP-07-I | introduction | [[The False Ring]] | blocked; migrated |
+| CMP-07-A1-O | Act I operation | [[The Signed Measure]] | blocked; migrated |
+| CMP-07-A1-F | Act I finale | [[Proof Under Load]] | blocked; migrated |
+| CMP-07-FR | friendship episode | [[Games Without a Crown]] | blocked; migrated |
+| CMP-07-A2-O | Act II operation | [[The Challenger's Road]] | blocked; migrated |
+| CMP-07-A2-F | Act II finale | [[The Fair Defeat]] | blocked; migrated |
+| CMP-07-RM | romance episode | [[No Wager Between Us]] | blocked; migrated |
+| CMP-07-BD | sworn-bond episode | [[After the Last Lantern]] | blocked; migrated |
+| CMP-07-A3-O | Act III operation | [[Measure on the March]] | blocked; migrated |
+| CMP-07-A3-F | Act III finale | [[Horn for Leak-Day]] | blocked; migrated |
+| CMP-07-S | summer coda | [[The Road Takes the Measure]] | blocked; migrated |
 
-Embedded opportunities: 10 reserved. Autonomous Act I, II, and III actions are controlled below; exact results await the user-approved deep block.
+Embedded opportunities: 10 blocked through [[Tavio Companion Campaign]] and [[Tavio Banter and Reactivity]]. Act readiness is two of five; all three autonomous results and changed re-entry states are locked.
 
 ## CMP-08: Zafir ibn Samad
 
@@ -205,7 +205,7 @@ These contributions happen through Blackjack assignments, camp scenes, reports, 
 | Ashira | Uses ordinary scholarship and restrained nonhuman imprints to reconstruct one hostile movement without raising Act I's supernatural ceiling. | Reads Grobi, Drake, or crowd movement while refusing recognizable human imprints as terror tools. | Distinguishes recent residue from older command patterns and exposes one false tactical assumption. |
 | Bernard | Secures casualty and property safeguards in [[Roads Worth Saving]], including the Longlake route. | Establishes a protected casualty lane during [[The City in Siege]]. | Maps reclaimed patient routes through [[The Land Reclaimed]]. |
 | Dismas | Scouts one threatened road and identifies an ambush or withdrawal route. | Finds a counter-scouting path through Ghor's siege lines. | Reconnoiters one Dead March front and marks a viable retreat before the assault. |
-| Tavio | Tests a bridge, fortification, or foundry repair under load before it fails in combat. | Helps restore or defend Hammer Ward's breached industrial systems. | Breaks or vents one crafted Muster mechanism without confusing it for a conscious being. |
+| Tavio | Reads Tannbruck bridge proof, names the stop authority, and prevents a hurried repair from becoming hidden overproof. | Braces an evacuation lane and casts damaged debris away during the western breach. | Reads physical Muster cadence, files unsafe reclamation gear, and Yields a crafted command carrier without treating it as conscious. |
 | Zafir | Identifies coercive custody or false consent in one prisoner, labor, or passage problem. | Provides a lawful captive-handling or bound-form solution without legitimizing Grobi slavery or human command. | Separates non-conscious command forms from persons and helps sever one imposed rank relation. |
 
 ## Autonomous Action Skeleton
@@ -220,7 +220,7 @@ At each act gate, an unresolved companion undertakes the action below whether or
 | Ashira | Confronts the continued practical use of the human faces she weaponized. | Answers the institutional and family cost attached to Qesheth's Bow Tower. | Decides the fate of her recognizable human-derived imprint roster. |
 | Bernard | Conducts the Chapel-Folk children's road journey; by default all survive with avoidable injuries and the bear dies in defence. | Saves the relief patients and genuinely kindles White Flame, but Petra accepts restitution without forgiveness and player unlocks close. | Serves the Blackjack infirmary under Brina's inventory authority; Open Lamp remains unrealized. |
 | Dismas | Returns to an easy ambush whose logic repeats his original wrong. | Faces the name and public charge attached to the rockfall. | Chooses whether to answer the road through accountable service or renewed flight. |
-| Tavio | Tests the evidence concealed beneath his celebrated victory. | Pursues the fair defeat and reckoning he once avoided. | Answers the foundry leak-day crisis after his arena identity has been stripped away. |
+| Tavio | Proves Red Brass substitution but pushes beyond a stop call, causing one avoidable worker injury. | Fights Lio fairly while accepting sole blame to preserve the Red Brass Bench. | Saves the Great Forge only after an external evacuation order and becomes a supervised load tester. |
 | Zafir | Attempts to prove or abandon the supposedly humane terms of his practice. | Seeks the copyist whose inversion exposed the nature of his control. | Cuts, preserves, or rationalizes the remaining cords tied to his former work. |
 
 ## Navigation

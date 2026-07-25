@@ -19,6 +19,8 @@ It is the basis of most formal war magic: battle casting, siege magic, elemental
 
 [[Harmonic Shellcraft]] reaches the same broad Elemental Shell through breath, interval, refrain, and tuned conductors. It is a parallel arcane discipline rather than a Warlock specialization. A Warlock writes a bounded instruction; a Bard sustains and changes one through performed harmonic structure.
 
+[[Lancewright]] is a martial proof discipline within this family. Its spear places temporary scripts on physical targets or surfaces, allied force loads them, and a fitted gauntlet performs one bounded release or safe Yield. It does not create a separate magic source, unrestricted telekinesis, or force stored without Arcane Burn and equipment limits.
+
 ## What Warlocks Are
 
 In common speech, "warlock" can mean several related things:
@@ -105,3 +107,5 @@ Warlock traditions naturally produce:
 ## Navigation
 
 - [[Magic & Metaphysics MOC]]
+- [[Lancewright]]
+- [[The Crucible]]

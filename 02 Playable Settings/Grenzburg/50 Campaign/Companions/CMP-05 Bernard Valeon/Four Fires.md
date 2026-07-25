@@ -147,7 +147,7 @@ Every player vocation can complete every task through ordinary carrying, tools, 
 - Fighter and Paladin protect convoys and move collapsed material.
 - Slayer opens roof and lane shortcuts.
 - Hunter reads safe cart and weather routes.
-- Warlock and Rune Fist accelerate drying or flue work.
+- Warlock accelerates drying or flue work; ordinary tools preserve the baseline route.
 - Medium and Binder forms assist scouting and hauling within their existing moral limits.
 
 No shelter survival depends on one vocation or companion.

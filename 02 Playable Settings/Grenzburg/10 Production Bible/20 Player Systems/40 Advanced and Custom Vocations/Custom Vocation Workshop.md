@@ -104,7 +104,7 @@ The final part budget and full matrix remain provisional. These laws are already
 - a body cannot perform incompatible two-handed and paired-hand functions at the same time;
 - instrument-dependent skills require the relevant instrument or an explicitly compatible replacement;
 - one build cannot maintain two independent Arcane Burn pools;
-- Warlock and Rune Fist parts share the same Burn state;
+- Warlock and Lancewright parts share the same Arcane Burn state;
 - Medium parts never turn shades into souls or persons;
 - Paladin sacred parts retain White-Flame coherence and restitution rules;
 - Binder parts retain consent, release, and anti-soulbinding rules;
@@ -131,7 +131,7 @@ The game should explain why a part is unavailable or incompatible before the pla
 
 ## Authored-Vocation Protection
 
-Authored vocations remain the clearest onboarding, trainer, quest, companion, reputation, and balance units. They should retain strong internal synergies and signature behaviors. The custom system expands expression after mastery; it does not make the six starters disposable tutorials.
+Authored vocations remain the clearest onboarding, trainer, quest, companion, reputation, and balance units. They should retain strong internal synergies and signature behaviors. The custom system expands expression after mastery; it does not make the five starters disposable tutorials.
 
 ## Narrative Boundary
 

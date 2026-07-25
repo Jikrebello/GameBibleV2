@@ -48,9 +48,9 @@ Vocation changes occur at safe reorganization points such as the Blackjack Yard,
 ## Opening Other Starting Vocations
 
 - Character creation grants one starting vocation.
-- The city and early frontier introduce the other five through [[Vocation Training Network]].
+- The city and early frontier introduce the other four through [[Vocation Training Network]].
 - At least one alternate trainer is available before main chapter 5.
-- All six starting vocations can be opened by the end of main chapter 6 without requiring faction allegiance.
+- All five starting vocations can be opened by the end of main chapter 6 without requiring faction allegiance.
 - A basic opening may require instruction, demonstration, equipment, and a modest cost. Signature techniques require deeper mastery or authored training.
 
 ## Trainers and Masters
@@ -72,6 +72,7 @@ Teachers can be institutions, named masters, manuals, relic disciplines, recover
 - [[Paladin]] opens during Bernard's Act II finale and receives its final sacred doctrine during his Act III finale.
 - [[Binder]] opens during Zafir's Act II finale and receives its final doctrine during his Act III finale.
 - [[Bard]] opens during Ilyana's Act II finale and receives its master counter-cadence during her Act III finale.
+- [[Lancewright]] opens during Tavio's Act II finale and receives its mass-Yield capstone during his Act III finale.
 
 No advanced vocation is required to finish the critical path.
 
@@ -83,7 +84,7 @@ After two authored vocations are fully mastered, [[Custom Vocation Workshop]] be
 
 Once unlocked, mastered weapons, armour categories, skills, augments, advanced-vocation parts, and saved custom blueprints become account-wide starting material for future new games.
 
-Paladin, Binder, and Bard require their companion quests for the first account unlock. After that first completion, the earned vocation and its unlocked parts may be selected at supported change points in later new games. This is metagame access; it does not rewrite the new protagonist's prior relationship with Bernard, Zafir, or Ilyana.
+Paladin, Binder, Bard, and Lancewright require their companion quests for the first account unlock. After that first completion, the earned vocation and its unlocked parts may be selected at supported change points in later new games. This is metagame access; it does not rewrite the new protagonist's prior relationship with Bernard, Zafir, Ilyana, or Tavio.
 
 This account access does not rewrite the current campaign's history. A later character may begin with a custom discipline because the player earned the option, not because Grenzburg suddenly contains a universal custom-vocation academy.
 

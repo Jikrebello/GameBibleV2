@@ -76,7 +76,7 @@ Other companions may wish them a dry night before departure but do not join the 
 Every vocation can complete the work:
 
 - ordinary carrying, bracing, climbing, and tool use form the principal route;
-- Fighter, Paladin, and Rune Fist improve heavy handling;
+- Fighter and Paladin improve heavy handling; an unlocked Lancewright can add a bounded Brace;
 - Slayer and Free Running improve roof access;
 - Hunter identifies dry footing, usable thatch, and chimney draw;
 - Warlock can dry or warm material without replacing carpentry;

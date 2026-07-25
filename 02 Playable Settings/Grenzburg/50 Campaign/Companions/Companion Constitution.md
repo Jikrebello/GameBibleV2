@@ -26,10 +26,10 @@ This note controls Grenzburg's companion roster, field availability, approval, p
 | [[Ashira bath Melan]] | [[Medium]] | Early Autumn | The raiders chose murder; their families did not. Simulating familiar faces to terrorize them was chosen collective punishment even though no human soul was captured. | She destroys the human-derived roster, documents the harm without metaphysical falsehood, and remains in Grenzburg as a scholar of nonhuman field patterns. |
 | [[Bernard Valeon]] | [[Paladin]] | Black Road | Childhood deprivation explains his compulsion, but he chose to cache relief stores, deny the shortage, and leave evacuees to suffer preventable frostbite. A vow of poverty cannot make secret possession harmless. | He names the urge before concealment, keeps reserves through witnessed stewardship, and chooses among accountable Long Watch service, the Open Lamp Hospice, travelling hospitaller work, or continued Blackjack service. |
 | [[Dismas Raben]] | [[Hunter]] | Black Road | The robbery was chosen, the premature rockfall was reckless, and abandoning trapped civilians was cowardice. Trauma is consequence, not supernatural punishment or exoneration. | He confesses publicly and accepts permanent marcher scout service under civil oversight. Victims owe no forgiveness; his future is useful and constrained rather than cleansed. |
-| [[Tavio Meran]] | [[Rune Fist]] | Early Autumn | The coach offered the illegal advantage; Tavio knowingly made it decisive and accepted glory afterward. Institutional corruption explains his opportunity, not his hand. | He exposes the Crucible school, accepts a permanent arena ban, settles a fair reckoning with Lio, and becomes a leak-warden protecting Grenzburg's foundries. |
+| [[Tavio Meran]] | [[Lancewright]] | Early Autumn | Maro offered the Fifth Ring; Tavio knew it exceeded the filed load, used it, maimed Lio during a lawful exchange, and accepted glory afterward. The Red Brass cover-up explains his opportunity, not his hand. | He exposes the Red Brass Bench, accepts a permanent arena ban, honours Lio's independent result, sounds the leak horn in time, and becomes an independent road examiner. |
 | [[Zafir ibn Samad]] | [[Binder]] | Early Autumn | His contracts placed persons under command. Limits and petitions reduced some harms but did not make ownership just. Samira's inversion is culpable coercion of him without retroactively making his system humane. | He cuts every living-person instrument he can reach, teaches ethical Binder practice, and returns to Iqashar to face clients and help void surviving restraints. |
 
-The roster contains exactly four women and four men. It covers five starting vocations and the three companion-earned advanced vocations: [[Fighter]], [[Slayer]], [[Hunter]], [[Medium]], [[Rune Fist]], [[Paladin]], [[Binder]], and [[Bard]]. [[Warlock]] remains a starting player vocation without a dedicated companion representative. All companions are outsiders, carry distinct debtor histories, and are recruitable by the end of Open Autumn.
+The roster contains exactly four women and four men. It covers four starting vocations and four companion-earned advanced vocations: [[Fighter]], [[Slayer]], [[Hunter]], [[Medium]], [[Paladin]], [[Binder]], [[Bard]], and [[Lancewright]]. [[Warlock]] remains a starting player vocation without a dedicated companion representative. All companions are outsiders, carry distinct debtor histories, and are recruitable by the end of Open Autumn.
 
 ## Recruitment Rhythm
 
@@ -105,7 +105,7 @@ Relationship perks occupy no ordinary vocation augment slot. A learned perk rema
 | [[Ashira bath Melan]] | Unmasked Pattern | Clear Pattern |
 | [[Bernard Valeon]] | Kept in the Light | Last Watch |
 | [[Dismas Raben]] | No Escape Route | No Blind Turn |
-| [[Tavio Meran]] | Fair Challenge | Fair Return |
+| [[Tavio Meran]] | No Wager Between Us | Second's Word |
 | [[Zafir ibn Samad]] | Unowned Accord | Witnessed Freedom |
 
 The two rewards for a companion are distinct and mutually exclusive because relationship type is fixed at commitment. Their exact numerical values remain provisional, but their utility budget must remain equivalent.
@@ -146,7 +146,7 @@ Act III and [[Accounts of the Living]] settle each companion's destination. [[Po
 - Ashira's imprints are non-conscious patterns, never captured souls.
 - Zafir's Binder path excludes human souls and coerced persons without exception.
 - Bernard's White-Flame abilities require genuine moral coherence and restitution; kindling never certifies legal innocence or clerical office.
-- Ilyana's Bard magic obeys [[Harmonic Shellcraft]], recoverable-health, hearing, consent, breath, and instrument limits. Tavio obeys Elemental Shell script limits, Arcane Burn, and bounded conductors.
+- Ilyana's Bard magic obeys [[Harmonic Shellcraft]], recoverable-health, hearing, consent, breath, and instrument limits. Tavio's [[Lancewright]] obeys Elemental Shell script limits, Arcane Burn, physical Proof Marks, filed loads, and bounded releases.
 - Svala's rage is trained human physiology and attention, not possession or a hidden monster.
 - Dismas's haunting is memory and trauma, not a supernatural entity.
 

@@ -54,7 +54,7 @@ At act endings, tracked campaigns show a consolidated readiness entry. Untracked
 | [[Ashira bath Melan]] | corrects false claims that Mediums hold souls and then evades the harm her imprints caused | studies the Drake and residue without romanticizing them; disputes Elara over who may use accurate knowledge | recognizes the Muster's apparent speech as computation and faces copies of her named roster | opens a nonhuman field school, leaves a sealed archive, or vanishes with the human patterns |
 | [[Bernard Valeon]] | tends convoy wounds, confronts genuine theft, recovers the road-school wagon, and escorts the Chapel-Folk children | keeps four shelters alive and serves the Long Watch relief mission; genuine kindling changes duty rather than proving innocence | secures West Refuge, opposes Gerhold's refusal to release service at death, and builds accountable lay care | demonstrates his settled destination through [[The First Open Table]]; controlled in [[Bernard Banter and Reactivity]] |
 | [[Dismas Raben]] | marks every exit at camp and returns only when another person is still on the road | reads Grobi and Drake routes; challenges Ilyana when command secrecy hides bodies | chooses the last civilian route during the dead march | reports for public marcher service, serves under sealed terms, or has fled beyond the map |
-| [[Tavio Meran]] | turns training into friendly contest while refusing to discuss the championship gauntlet | compares fair combat with siege necessity and tests surrender cues with Svala | treats Muster engines as unsafe force to vent, not opponents to impress | works as leak-warden, teaches privately under ban, or chases an unregulated circuit |
+| [[Tavio Meran]] | hosts honest games, exposes the Fifth Ring, recalls endorsed fittings, and learns that a worker may stop proof | protects the breached city, escorts Lio under independent terms, and accepts a filed result he cannot stage | inspects reclamation gear, reads physical Muster cadence, and must sound the Great Forge horn before proof becomes catastrophe | works as an independent road examiner, serves as a supervised tester, or returns to an unregulated circuit; controlled in [[Tavio Banter and Reactivity]] |
 | [[Zafir ibn Samad]] | explains Grenzburg law precisely while calling owned service orderly | challenges Bernard's confidence in voluntary mercy and Lucia's productive ownership | identifies Gerhold's command as compulsory service made absolute | prepares return to Iqashar, preserves bounded restraint, or leaves to build another law house |
 
 ## Migrated Campaigns
@@ -110,6 +110,23 @@ Only distinct authored instances count. Another companion may preserve a route, 
 
 Only distinct authored instances count. Another companion may preserve a performer, score, route, or instrument, but cannot grant consent, release Ilyana's claims, or decide whether she relinquishes ownership.
 
+### Tavio Meran
+
+[[Tavio Companion Campaign]] controls Tavio's eleven authored pieces, ten-piece playthrough ceiling, ten embedded opportunities, three act deadlines, deterministic autonomous route, and changed re-entry. His embedded register is:
+
+1. Tannbruck bridge proof in [[Fort Tannbruck Main Quest|Fort Tannbruck]];
+2. evacuation Brace and debris Cast in [[The City in Siege]];
+3. physical Muster-cadence reading in [[The Land Reclaimed]];
+4. unsafe debtor equipment in [[The Equipment Account]];
+5. local stop authority in [[Holdfast Without Orders]];
+6. a Hammer Ward false-proof local story;
+7. a Highlake ore-control local story;
+8. a Cold-Iron proof-chamber discovery;
+9. the Blackjack Yard fair;
+10. a one-shot public-challenge encounter.
+
+Only distinct authored instances count. Another companion may preserve a worker, route, sample, official, or evacuation lane, but cannot admit the Fifth Ring, accept Lio's result, expose the Bench, or sound Tavio's moral halt for him.
+
 ## Foil Pair Progression
 
 | Pair | First disagreement | Midgame reversal | Late respect |
@@ -140,6 +157,8 @@ Summer codas settle destinations. Repeating reconstruction seasons may change am
 - [[Bernard Banter and Reactivity]]
 - [[Ilyana Companion Campaign]]
 - [[Ilyana Banter and Reactivity]]
+- [[Tavio Companion Campaign]]
+- [[Tavio Banter and Reactivity]]
 - [[Narrative State Register]]
 - [[Grenzburg Chapter and Window Matrix]]
 - [[Postgame Reconstruction Cycle]]
