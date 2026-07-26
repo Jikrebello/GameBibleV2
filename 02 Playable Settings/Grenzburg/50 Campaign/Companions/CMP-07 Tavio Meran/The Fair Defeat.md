@@ -9,7 +9,7 @@ culture: ["Vortharan", "Sestaran", "Eclessian"]
 related_factions: ["Blackjack Corps", "Red Brass Bench", "The Crucible", "Great Forge"]
 appears_in: ["Grenzburg"]
 needs: []
-tags: [game-ready]
+tags: [narrative-rewrite]
 quest_class: companion
 act: act-2
 availability_window: ["Deep Winter", "Early Spring"]
@@ -50,6 +50,13 @@ identity_hooks: ["Sestaran", "Vortharan", "Military", "Merchant/Craft", "Underwo
 encounter_deck: []
 persistence_scope: regional-milestone
 postgame_season: ""
+emotional_rewrite_status: preserve
+dialogue_status: pending-rewrite
+archetype_pressure: "Competition becomes worth: test whether Tavio can stop, lose, or need help without surrendering athletic joy."
+emotional_function: "Keep the live match, neutral officials, sabotage, and justified halt"
+pleasure_beat: "Competition, crowds, food, physical effort, ridiculous prizes, and celebrating improvement."
+care_beat: "Tavio trains beside people, celebrates their effort, and calls a halt before glory spends their bodies."
+player_archetype_hooks: []
 ---
 # The Fair Defeat
 

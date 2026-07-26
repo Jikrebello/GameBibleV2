@@ -15,14 +15,14 @@ tags: []
 
 ## First Creative Priority
 
-Build Grenzburg into the setting's first complete video game. [[Grenzburg RPG Experience Constitution]] treats the seasonal campaign, the blank-slate debtor, and eight autonomous companion campaigns as equal parts of the experience. The twenty-one main chapters remain locked, while the companion layer has expanded into an eighty-eight-piece authored architecture, a seventy-four-piece playthrough ceiling, and embedded world participation. [[Elara Companion Campaign]], [[Ilyana Companion Campaign]], [[Ylva Companion Campaign]], [[Bernard Companion Campaign]], and [[Tavio Companion Campaign]] are complete retrofits with eleven production-blocked authored pieces, no more than ten available in one run, ten embedded opportunities, three preparation ladders, deterministic autonomy, and changed re-entry each. Caleran remains the great-city sandbox, but it is not the active implementation priority.
+Build Grenzburg into the setting's first complete video game. [[Grenzburg RPG Experience Constitution]] treats the seasonal campaign, the blank-slate debtor, and eight autonomous companion campaigns as equal parts of the experience. The twenty-one main chapters and eighty-eight-piece companion architecture remain locked. The immediate priority is emotional implementation: [[Companion Archetype Constitution]] now gives all eight companions distinct engines, [[Companion Dialogue and Scene Standard]] controls human scene craft, and [[Companion Emotional Rewrite Audit]] assigns every formal piece a preserve, reframe, or replace brief. The four paired rewrites begin with Elara and Ashira, then Ylva and Tavio, Ilyana and Dismas, and Bernard and Zafir. Caleran remains the great-city sandbox, but it is not the active implementation priority.
 
 ## Current Canon Baseline
 
 - **Present day:** 1360 AR, using the [[Chronology of the Known World (AR Dating)]].
 - **Map logic:** the known world is southern-hemisphere oriented; south is colder, harsher, and more frontier-bound. Use [[Gazetteer of the Known World]] and [[Geography Atlas]] as the map baseline.
 - **Source truth:** in-world historical accounts are rated in [[Reliability Register]].
-- **Active game:** [[Grenzburg MOC]] is the project doorway. [[Grenzburg RPG Experience Constitution]], [[Grenzburg Game Constitution]], [[Player Character Constitution]], [[Player Identity Reactivity Matrix]], [[World Simulation and Discovery Constitution]], [[Quest and Content Architecture]], [[Companion Campaign Architecture]], and [[Companion Autonomy and Act Convergence]] control the player-facing experience.
+- **Active game:** [[Grenzburg MOC]] is the project doorway. [[Grenzburg RPG Experience Constitution]], [[Grenzburg Game Constitution]], [[Player Character Constitution]], [[Player Temperament and Chemistry]], [[Player Identity Reactivity Matrix]], [[World Simulation and Discovery Constitution]], [[Quest and Content Architecture]], [[Companion Campaign Architecture]], [[Companion Archetype Constitution]], and [[Companion Autonomy and Act Convergence]] control the player-facing experience.
 - **Active worldspace:** [[Grenzburg Regional Geography]] controls the twin-walled city, seven exterior regions, physical routes, and map boundary. [[Grenzburg Map Package]] provides creator and player maps; [[Grenzburg Worldspace Location Register]] reserves later content placement.
 - **Great-city sandbox:** [[Caleran Great-City Dossier]] is the production doorway for urban intrigue, archaeology, and occult investigation.
 - **Vault structure:** active reference material uses numbered, subject-owned folders; superseded material is indexed through [[Archive Index]] and the [[Physical Reorganization Manifest]].
@@ -42,9 +42,9 @@ Build Grenzburg into the setting's first complete video game. [[Grenzburg RPG Ex
 
 ## Next Three Workstreams
 
-1. **Remaining companion campaigns:** approve bespoke preparation thresholds, act contributions, autonomous decisions, ensemble support, and changed re-entry for Ashira, Dismas, and Zafir before converting their outlines. Elara, Ilyana, Ylva, Bernard, and Tavio are fully migrated.
-2. **Companion integration QA:** preserve Elara's, Ilyana's, Ylva's, Bernard's, and Tavio's locked thresholds and rewards while later companions add cross-support, party banter, and shared world-state reactions.
-3. **Identity and living-world allocation:** distribute the reserved culture, background, and vocation hooks across authored content, then build regional encounter decks and side-content placements without changing the main campaign.
+1. **Elara and Ashira:** rewrite the Cheerleader-Goth pair together, clearing their quest dispositions, present-day ensemble scenes, three-season foil arc, grey baseline, and all eight player-temperament chemistry variants.
+2. **Remaining paired companion passes:** continue with Ylva-Tavio, Ilyana-Dismas, and Bernard-Zafir. Preserve structural deadlines, autonomy, relationship separation, and rewards while replacing emotionally weak premises and dialogue.
+3. **Identity and living-world allocation:** distribute culture, background, vocation, and temperament hooks across authored content, then build regional encounter decks and side-content placements without changing the main campaign.
 
 ## Locked Rulings
 
@@ -76,6 +76,7 @@ Build Grenzburg into the setting's first complete video game. [[Grenzburg RPG Ex
 - The protagonist is a silent, customizable outsider debtor serving as a Blackjack specialist under ducal field assignment. The Duke drives the public main story; Bank pressure is selective rather than a rider attached to every mission.
 - Grenzburg uses global character levels, separate vocation mastery, and one field-locked vocation at a time. The five starters are [[Fighter]], [[Slayer]], [[Hunter]], [[Warlock]], and [[Medium]]; [[Paladin]], [[Binder]], [[Bard]], and [[Lancewright]] are companion-earned advanced paths. [[Custom Vocation Workshop]] is an account-wide metagame builder unlocked after two authored vocations are fully mastered.
 - Character creation grants one origin culture, one additional cultural familiarity, one background knowledge, primary and secondary social-stat focus, one moral leaning or neutrality, and one starting vocation. Social checks show their governing skill or knowledge and a Favored, Even, Risky, or Dire band while exact rolls and Luck remain hidden.
+- The optional eight-question temperament reflection may seed a female Tomboy, Goth, Cheerleader, or Bohemian tendency, or a male Jock, Nerd, Rebel, or Goofball tendency. The latest twelve authored signals remain hidden, the profile locks after [[Ghor at the Gate]], grey receives complete writing, and the postgame Draught of Second Nature resets only future temperament reactions.
 - Every vocation can complete every critical route. Medium shades are non-conscious imprints, Warlock and Lancewright obey bounded Shell-script canon, Paladin techniques require White-Flame coherence, Binder cannot bind human souls or coerced persons, and Bardic healing and compulsion obey [[Harmonic Shellcraft]].
 - Grenzburg's critical path is [[PROLOGUE THE BLACK ROAD|The Black Road]], [[ACT I THE CLOSING ROADS|The Closing Roads]], [[ACT II WINTER'S TEETH|Winter's Teeth]], [[ACT III THE UNENDING MUSTER|The Unending Muster]], and playable [[SUMMER AFTERMATH|summer aftermath]]. The Heart-Stone, Pale-Skins, Leviticus betrayal, and Duke's Peace are retired from the main campaign.
 - Fort Tannbruck always falls, the Emerald Drake is slain, Ghor's organized siege is defeated, Gerhold accepts the Unending Muster without redemption, and the General Below is stopped in every completed campaign. Political power, casualties, debt freedom, companion futures, and settlement survival remain variable; no political ending is setting canon.
@@ -91,7 +92,9 @@ Build Grenzburg into the setting's first complete video game. [[Grenzburg RPG Ex
 
 - Exact Grenzburg damage, frames, inputs, growth curves, mastery rates, social probabilities, quest rewards, encounter balance, custom-build budget, and compatibility matrix.
 - Bespoke preparation thresholds, autonomous decisions, cross-companion support, and changed re-entry for Ashira, Dismas, and Zafir.
+- Full paired emotional rewrites for all eighty-eight companion pieces, beginning with Elara and Ashira; every linked quest currently awaits approved dialogue.
 - Final allocation of the 90 origin, 72 background, 40 starting-vocation, and 16 advanced-vocation identity hooks reserved in [[Player Identity Reactivity Matrix]].
+- Final placement and scripting of the twenty-four minimum temperament-signal scenes and sixty-four player-companion chemistry variants.
 - Regional and district encounter-card rosters, cooldowns, persistence details, and postwar seasonal variants governed by [[World Simulation and Discovery Constitution]].
 - Final original names, descriptions, animation identities, and progression orders for source-derived vocation skills tracked in [[Vocation Originalization Register]].
 - Named regional cells for the Left Hand as new playable settings are developed.

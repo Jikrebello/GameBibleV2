@@ -9,7 +9,7 @@ culture: ["Eclessian", "Virelian"]
 related_factions: ["Blackjack Corps", "Vardek household", "Grenzburg guilds"]
 appears_in: ["Grenzburg"]
 needs: []
-tags: [game-ready]
+tags: [narrative-rewrite]
 quest_class: companion
 act: act-1
 availability_window: ["Open Autumn", "Late Autumn"]
@@ -49,6 +49,13 @@ identity_hooks: []
 encounter_deck: []
 persistence_scope: local-persistent
 postgame_season: ""
+emotional_rewrite_status: replace
+dialogue_status: pending-rewrite
+archetype_pressure: "Belonging becomes curation: test whether Elara shares social power or decides who deserves the room."
+emotional_function: "Build a present-tense team operation in which Elara recruits, motivates, and unfairly curates a mixed expedition"
+pleasure_beat: "Social sparkle, discovery, elegant risk, and making a temporary company feel chosen."
+care_beat: "Elara shares credit, access, attention, and protection without making gratitude the price of belonging."
+player_archetype_hooks: []
 ---
 # The Sixth Field Book
 

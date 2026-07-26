@@ -4,7 +4,7 @@ status: canon
 canon_level: local
 visibility: author-only
 era: ["Present Day"]
-region: ["Grenzburg"]
+region: ["Grenzburg", "Vorthara"]
 culture: ["Sestaran", "Vortharan"]
 related_factions: ["Blackjack Corps", "Medori Bank", "Red Brass Bench"]
 appears_in: ["Grenzburg"]
@@ -14,180 +14,316 @@ tags: [game-ready]
 companion_id: "CMP-07"
 sex: man
 vocation: "Lancewright"
+combat_variant: "Crucible Spear"
 recruitment_window: "Early Autumn"
+home_base: "Blackjack Yard"
 foil: "Ylva Winter-Track"
 relationship_theme: "trusted seconds who respect the halt"
+relationship_perks: ["No Wager Between Us", "Second's Word"]
+archetype: "Jock"
+archetype_desire: "worth through embodied excellence, duty, and visible performance"
+archetype_currency: "fair victory, team trust, courage under pressure, and public standards"
+archetype_humiliation: "weakness, replacement, cowardice, or defeat that changes how the crowd sees him"
+care_language: ["protection", "training", "showing up", "shared exertion", "public encouragement"]
+archetype_shadow: "domination, rank as virtue, and making another person's body part of his wager"
+preservation_lesson: "vulnerability is compatible with excellence and competition"
+past_anchor: "Lio Varcen"
+voice_status: calibrated
+emotional_rewrite_status: bible-locked
+architecture_status: migrated
 ---
 # Tavio Meran
 
-## Companion Contract
+## Immediate Read
 
-Tavio Meran is a thirty-year-old Vortharan arena celebrity, disgraced Crucible champion, and Medori debtor. He is an optional full companion who joins during Early Autumn and serves as Grenzburg's field expression of [[Lancewright]] craft.
+Tavio can turn carrying sandbags into a contest people are disappointed to see end.
 
-He is not a chastened man waiting quietly for redemption. He still loves crowds, contests, dangerous technique, and the instant when a difficult feat becomes possible. His story asks whether that delight can survive without turning other people's safety into part of his wager.
+He is a tall Vortharan Lancewright in bright repaired armour, a former arena champion who remembers faces in a crowd and treats effort as something worth witnessing. He likes applause, but he likes the instant somebody exceeds their own expectation even more.
+
+He is generous with challenge and dangerous when he decides that accepting a challenge on somebody else's behalf proves faith in them.
+
+## Character Thesis
+
+Tavio establishes worth through embodied excellence, duty, and visible performance.
+
+At his best, he makes courage contagious, gives work a shared standard, and shows up physically when another person cannot carry the load alone. At his worst, he mistakes rank for virtue, winning for consent, and the amount of risk he is personally willing to bear for the amount he may impose on a teammate.
+
+His resolved arc does not make him ashamed of crowds, contests, athletic pride, or mastery. It teaches him that a fair halt belongs to excellence and that vulnerability need not disqualify him from being an athlete.
+
+## Identity
+
+- **Age:** thirty in 1360 AR.
+- **Origin:** Vorthara.
+- **Former standing:** celebrated Crucible champion of the Red Brass Bench.
+- **Current standing:** Medori restitution debtor, Blackjack Lancewright, and disgraced public figure.
+- **Public style:** exuberant competitor, festival host, and team captain.
+- **Private contradiction:** he believes every body deserves fair limits and built his identity on being the exception.
+- **Present ambition:** to create a road examination and training practice where stopping unsafe work is treated as mastery rather than cowardice.
 
 ## Appearance
 
-Tavio is tall, lean, olive-toned, black-curled, and close-bearded. He wears repaired medium armour in bright arena colours, a faded champion's sash, brass proof rings, and deliberate theatrical asymmetry. The repairs are honest and visible rather than disguised.
+Tavio is tall, lean, olive-toned, black-curled, and close-bearded.
 
-His native kit is:
+His repaired medium armour retains:
 
-- a one-handed war spear;
-- a heavy proof gauntlet on the off hand;
-- medium armour cut for lunges, vaults, and climbing;
-- chalk, proof wire, spare rings, and stop-flags.
+- bright arena colours;
+- a faded champion's sash;
+- brass proof rings;
+- deliberate theatrical asymmetry;
+- visible repairs rather than disguised damage.
 
-He looks like a peacock that learned to survive a workshop fire and decided the scorch marks improved the outfit.
+He fights with a one-handed war spear and heavy off-hand proof gauntlet. Chalk, proof wire, spare rings, and stop flags remain as important to his silhouette as the weapon.
 
-## Voice and Presence
+He likes clothing that moves well in front of a crowd and sees no conflict between practicality and spectacle.
 
-Tavio speaks quickly when excited, remembers faces, and gives strangers the impression that they have arrived just in time for something worth seeing. He invents public games, cooks large and imprecise meals, teaches tricks freely, and gives absurd prizes whose sentimental value exceeds their cost.
+## Vortharan Formation
 
-He performs because he enjoys making a crowd happy. His danger begins when applause becomes evidence, in his own mind, that the risk was justified.
+Vorthara taught Tavio that public competition can:
 
-## The Championship Wrong
+- test technique;
+- give strangers a common language;
+- make excellence visible outside inherited rank;
+- turn rules into a shared promise;
+- become corrupt without making every contest false.
 
-Tavio knowingly used the **Fifth Ring**, a concealed over-capacity insert supplied by coach [[Maro Vezan]] and proof-broker [[Seraf Pellan]] through the [[Red Brass Bench]].
+The Crucible is larger than the Red Brass Bench. Tavio's story does not condemn Vortharan arena culture as inherently fraudulent.
 
-The insert allowed his gauntlet to hold a fourth heavy relation beyond the bout's certified three-mark limit. During a lawful exchange, the stored force discharged through [[Lio Varcen]]'s brace and permanently maimed him.
+## The Fifth Ring
 
-Tavio:
+Tavio knowingly used a concealed over-capacity gauntlet insert called the Fifth Ring.
 
-- knew the insert exceeded the filed proof;
-- chose to use it;
-- did not strike after an explicit yield;
-- accepted the championship afterward;
-- allowed the Bench to describe the injury as an unforeseeable equipment failure.
+The insert allowed his spear marks to exceed certified load. During a lawful exchange, it discharged and permanently injured rival Lancewright [[Lio Varcen]].
 
-The Red Brass Bench covered the fraud. The wider Crucible is divided and capable of investigating it. Institutional corruption supplied the opportunity; Tavio chose what to do with it.
+Tavio did not strike after a yield. He did not misunderstand the ring. He knew it exceeded the agreed proof and accepted the championship after Lio was carried out.
+
+Coach Maro Vezan and proof-broker Seraf Pellan organized the Red Brass cover-up. They do not physically travel to Grenzburg during this campaign. Their role continues through equipment, records, agents, endorsements, and institutional pressure.
+
+Lio is the sole person from Tavio's former life who may physically return.
 
 ## Debt
 
-The Bench called Tavio's tuition, equipment, injury, and appearance sureties while insulating its senior figures. Medori purchased the resulting obligation. Tavio entered the Blackjacks with his title intact, his reputation disputed, and most of his equipment classified as attached collateral.
+The Red Brass Bench attempted to isolate the injury as a technical accident while preserving Tavio's commercial value.
 
-His debt explains why he is in Grenzburg. It does not make the Bank responsible for the championship injury.
+When evidence of the Fifth Ring surfaced:
 
-## Central Lie and Need
+- injury claims attached to Tavio;
+- endorsed equipment became suspect;
+- sponsors withdrew;
+- Medori purchased the surety and restitution exposure.
 
-> If I carried the risk and still won, I earned the right to take it.
+The debt structure is exploitative. It does not manufacture his knowledge or his decision.
 
-Tavio's lie treats personal courage as permission to expose everyone sharing the field.
+## Culpability
 
-He needs to understand:
+Tavio's controlling excuse is:
 
-- agreed limits are part of mastery;
-- a second, worker, opponent, or spectator may call a halt;
-- skill includes yielding stored power;
-- another person's body is never his wager;
-- accepting an honest defeat cannot be replaced by performing guilt.
+> “If I carried the risk and still won, I earned the right to take it.”
 
-## Everyday Life
+Lio's body was not Tavio's risk to exceed.
+
+The rule was not a timid obstacle to mastery. It was part of the contest both men had agreed to enter.
+
+## Appetite
+
+Tavio loves:
+
+- public games with rules simple enough to argue about;
+- teaching somebody a movement and watching it become theirs;
+- crowded cooking, loud breakfasts, and food designed to be eaten standing;
+- ridiculous prizes;
+- physical craft performed cleanly;
+- festivals at setup and cleanup, not only at their height;
+- rivals who improve between meetings;
+- the hush immediately before a difficult attempt.
+
+He dislikes fixed matches, spectators who enjoy injury more than skill, masters who hide uncertainty, officials who punish a legitimate halt, and people who call all competition domination because they have never trusted a rule.
+
+## Humor and Embarrassment
+
+Tavio's humor is expansive and physical. He makes a joke into a game, a demonstration, or a role for the listener.
+
+He is embarrassed by:
+
+- being helped to stand;
+- forgetting the name of someone who remembers him;
+- an old injury limiting a movement;
+- losing in front of people he wanted to inspire;
+- praise for courage after he ignored a stop;
+- being desired when he is not performing.
+
+Under embarrassment he becomes louder. Under shame he becomes formal, stops touching people, and uses titles.
+
+## Care
+
+Tavio shows care by:
+
+- training at the other person's level without announcing the concession;
+- making effort public so it receives credit;
+- stepping into the physical risk beside a teammate;
+- cooking for crowds;
+- defending a fair rule against a powerful winner;
+- showing up for the unglamorous repetition after a promise.
+
+His care becomes domination when encouragement makes refusal socially impossible.
+
+## Fear, Shadow, and Preserving Change
+
+Tavio fears weakness, replacement, and public knowledge that the admired performance was not legitimate.
+
+His shadow appears when he:
+
+- turns safety into a test of courage;
+- assumes the strongest performer should command;
+- treats another person's halt as doubt in him;
+- accepts sole blame to preserve a beloved institution from scrutiny;
+- makes injury meaningful by converting it into spectacle;
+- tries to win forgiveness.
+
+His resolved self remains competitive, visible, athletic, and delighted by difficult technique. He learns to stop, lose, disclose weakness, and protect the rule even when the rule ends his own arena career.
+
+## Voice
+
+Tavio speaks in kinetic language, inclusive challenges, bodily metaphor, and public encouragement.
+
+He says:
+
+- “Again. Slower is not smaller.”
+- “You may laugh after you lift your end.”
+- “A halt is part of the bout. Anyone can continue.”
+- “No crowd today. Tell me if that makes this easier or worse.”
+
+Under shame he becomes formal. Under fear he offers to take the dangerous position before asking whether somebody else has already accepted it.
+
+His voice obeys [[Companion Dialogue and Scene Standard]].
+
+## Present-Day Grenzburg
+
+### Great Forge
+
+[[Proof-Mistress Hella Dorn|Hella Dorn]] is Tavio's independent technical witness and trainer. She appreciates his ability to make proof comprehensible to workers and refuses every attempt to substitute charisma for documentation.
+
+### Hammer Ward Teams
+
+Tavio organizes public drills, lifting games, and worker contests. Some crews adore him; others distrust a former champion whose name once made unsafe equipment sell.
+
+### Blackjack Yard
+
+[[Quartermaster Brina Kest|Brina Kest]] uses his ability to turn practice into participation and requires every challenge to include a genuine right to decline. Tavio learns which debtors avoid games because public loss has never been safe for them.
+
+### Marcher Engineers
+
+[[Sergeant Liese of the Marcher Vanguard|Liese]] values field courage and insists that operational momentum is not consent. Tavio respects her willingness to issue a halt publicly and dislikes how quickly he begins wanting her approval.
+
+## Company Routine
 
 At camp Tavio:
 
-- cooks for the largest number he can persuade to eat;
-- repairs children's toys with proof wire;
-- runs harmless contests for chores;
-- remembers who dislikes being made into a spectacle;
-- practices spear lines at dawn;
-- checks other people's equipment more carefully than his own;
-- grows restless when praise stops before he believes the performance is finished.
+- invents contests from necessary labor;
+- cooks enormous one-pan meals;
+- remembers personal bests nobody else knew were being kept;
+- offers technique advice and learns to ask first;
+- cleans the fairground after everyone leaves;
+- polishes the Fifth Ring's empty place on his gauntlet without discussing it;
+- becomes visibly restless when injury places him on the side of a drill.
 
-He is generous with instruction and bad at receiving concern without turning it into a joke.
+He may be recruited and dismissed normally. He values being chosen for festivals, negotiations, and ordinary labor as well as combat.
 
-## Combat
+## Lancewright
 
-Tavio uses the [[Tavio Lancewright Package]]:
+Tavio uses the advanced [[Lancewright]] vocation:
 
-1. mark a part or physical surface;
-2. load it through his spear, a gauntlet catch, or an ally's attack;
-3. Break, Brace, Cast, or Yield;
-4. move through the marked geometry;
-5. stop before proof becomes overproof.
+- one-handed war spear;
+- heavy proof gauntlet;
+- medium armour;
+- Proof Marks;
+- Break, Brace, Cast, mobility, and Yield.
 
-He contributes routes and tactical advantages but is never a mandatory key. Every critical encounter and traversal path works for all five starting vocations.
+Marks are bounded Warlock Rune Magic. Lancewright cannot heal, manipulate souls, steal Stamina, create full invulnerability, or perform unrestricted telekinesis.
 
-## Approval
+His signature lesson is `Yield`: safely abandoning loaded marks, venting Arcane Burn, and creating a guarded disengagement. It is mechanically useful because the story regards stopping as skilled action.
+
+## Approval and Moral Limits
 
 Tavio approves of:
 
-- disclosed rules and real consent;
-- difficult feats with named stop conditions;
-- protecting workers and opponents;
-- honest competition;
-- accepting a loss without changing the measure;
-- skill used to make another person safer.
+- fair challenge;
+- visible effort;
+- justified halts;
+- team credit;
+- rivals allowed to withdraw;
+- public correction by independent officials;
+- disciplined joy.
 
-He disapproves of:
+He opposes:
 
-- fixed contests;
-- contempt for craft;
-- concealed hazards;
-- treating casualties as proof of seriousness;
-- killing a yielded opponent;
-- calling any victory legitimate because it was difficult.
+- rigged contests;
+- concealed overproof;
+- humiliating weakness;
+- coercing participation through crowd pressure;
+- sacrificing workers to schedule or prestige;
+- punishment presented as entertainment.
 
-Approval is shown as **Guarded**, **Open**, **Trusted**, or **Strained**. Permanent departure requires a warned confrontation and one repair opportunity.
+## Companion Campaign Direction
 
-## Companion Campaign
+[[Tavio Companion Campaign]] retains eleven pieces. [[Companion Emotional Rewrite Audit]] preserves its public heart while reducing technical repetition.
 
-[[Tavio Companion Campaign]] controls eleven authored pieces and a ten-piece playthrough ceiling:
+His campaign must include:
 
-1. [[The False Ring]]
-2. [[The Signed Measure]]
-3. [[Proof Under Load]]
-4. [[Games Without a Crown]]
-5. [[The Challenger's Road]]
-6. [[The Fair Defeat]]
-7. [[No Wager Between Us]] or [[After the Last Lantern]]
-8. [[Measure on the March]]
-9. [[Horn for Leak-Day]]
-10. [[The Road Takes the Measure]]
+1. a crowd experiencing why Tavio is attractive before the Fifth Ring dominates;
+2. teams who trusted unsafe gear because his name was on it;
+3. a public stop that feels like defeat;
+4. a villain-free fair and cleanup;
+5. Lio arriving with independent goals and the right to refuse the match;
+6. Tavio losing, drawing, winning fairly, or accepting a halt without narrative protection;
+7. relationship episodes where he is not performer, champion, or project;
+8. a forge crisis in which sounding the horn before glory becomes catastrophe is the capstone.
 
 ## Relationships
 
-[[Tavio Field Familiarity and Relationships]] controls approval, friendship, romance, sworn bond, and commitment.
+Tavio is heterosexual. A female player may pursue romance; a male player may form the exclusive sworn bond.
 
-- A female player may romance Tavio through [[No Wager Between Us]].
-- A male player may become his sworn brother through [[After the Last Lantern]].
-- [[Games Without a Crown]] is a universal friendship episode.
-- Friendship alone can reach his strongest moral result.
+Romance concerns desire without contest and a future not negotiated as a wager. Sworn friendship concerns trusted seconds who may call a halt without becoming subordinate.
 
-The romance and bond are distinct authored relationships with equivalent mechanical weight.
-
-## Faction Views
-
-- **Ducal and marcher:** values competent service under filed civil limits; opposes indefinite emergency proof.
-- **Blackjacks and Medori:** trusts [[Quartermaster Brina Kest]] over [[Captain Valdemar Koss]]; rejects unsafe debtor deployment as a cost-saving measure.
-- **Church:** respects honest relief and craft blessing; rejects sacred language used to silence injured workers.
-- **Folk:** enjoys particular challenge customs when their local holders define the rules; rejects pretending one custom speaks for all Folk.
-- **Underworld:** tolerates Low Lantern protection and smuggling people out of predation; rejects match-fixing and Black Bell execution.
-
-## Outcomes
-
-**Resolved:** Tavio exposes the Red Brass Bench, accepts a permanent arena ban, honours Lio's independent decision, sounds the leak horn before catastrophe, and becomes an independent road examiner.
-
-**Compromised:** He performs real safety work under continuing supervision, accepts sole blame to protect the Bench, or yields only after an external authority orders him to stop.
-
-**Broken or departed:** He fixes another contest, silences evidence, treats the Great Forge as his final arena, or returns to an unregulated circuit after refusing a warned repair.
-
-No outcome becomes future-setting canon. Tavio cannot die autonomously. A late sacrifice is available only when every evacuation alternative has been made visible and the player deliberately accepts his offer.
+Friendship alone can produce his strongest moral outcome.
 
 ## Principal Foil
 
-[[Ylva Winter-Track]] is Tavio's principal foil. He exceeds limits to prove mastery and win acclaim; she exceeds them to make herself expendable. Each must learn that another person's authority to call a halt or relieve a watch is part of the work rather than an insult to competence.
+[[Ylva Winter-Track]] exceeds limits to make herself expendable. Tavio exceeds them to make mastery undeniable.
+
+Their foil requires:
+
+- real competition;
+- reciprocal rescue;
+- joy in the other's skill;
+- disagreement over public credit;
+- each respecting the other's halt.
+
+## Faction Outlook
+
+- **Ducal/Marcher:** respects transparent standards, field courage, and bounded authority; opposes emergency overproof.
+- **Blackjacks/Medori:** supports Brina's team culture and rejects Koss's use of debtors as expendable equipment.
+- **Church:** values public relief and honest rules; distrusts sacred authority used to fix contests of jurisdiction.
+- **Folk:** respects particular challenge customs and land authority; rejects romantic tests imposed on civilians.
+- **Underworld:** enjoys Low Lantern games and information networks; opposes match fixing and Black Bell spectacle.
+
+## Seasonal Movement
+
+- **Autumn:** re-enters public life and confronts how his name carried unsafe trust.
+- **Winter:** faces Lio, the crowd, and the meaning of a fair defeat.
+- **Spring:** decides whether team safety can outrank the perfect save.
+- **Summer:** becomes an independent road examiner, supervised tester, departed circuit champion, or broken showman according to play.
+
+He cannot die autonomously.
 
 ## Navigation
 
 - [[Tavio Companion Campaign]]
-- [[Tavio Field Familiarity and Relationships]]
-- [[Tavio Lancewright Package]]
 - [[Tavio Banter and Reactivity]]
+- [[Tavio Lancewright Package]]
+- [[Tavio Field Familiarity and Relationships]]
 - [[Lancewright]]
-- [[Red Brass Bench]]
-- [[Lio Varcen]]
-- [[Companion Constitution]]
+- [[The False Ring|The Fifth Ring]]
+- [[Companion Archetype Constitution]]
+- [[Companion Archetype Chemistry Matrix]]
+- [[Companion Emotional Rewrite Audit]]
 - [[Companions MOC]]
-- [[Narrative State Register]]
-- [[Player Systems MOC]]
-- [[Grenzburg MOC]]

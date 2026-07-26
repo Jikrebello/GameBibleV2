@@ -9,7 +9,7 @@ culture: ["Eclessian", "Virelian", "Folk"]
 related_factions: ["Blackjack Corps", "Highlake workers", "Ghost-Foot kindred"]
 appears_in: ["Grenzburg"]
 needs: []
-tags: [game-ready]
+tags: [narrative-rewrite]
 quest_class: companion
 act: summer
 availability_window: ["Summer Aftermath", "Postgame Summer"]
@@ -49,6 +49,13 @@ identity_hooks: []
 encounter_deck: []
 persistence_scope: regional-milestone
 postgame_season: summer
+emotional_rewrite_status: preserve
+dialogue_status: pending-rewrite
+archetype_pressure: "Belonging becomes curation: test whether Elara shares social power or decides who deserves the room."
+emotional_function: "Keep ethical exploration as proof that her appetite for adventure survives"
+pleasure_beat: "Social sparkle, discovery, elegant risk, and making a temporary company feel chosen."
+care_beat: "Elara shares credit, access, attention, and protection without making gratitude the price of belonging."
+player_archetype_hooks: []
 ---
 # The First Honest Find
 

@@ -14,6 +14,15 @@ tags: [game-ready]
 ---
 # Grenzburg Characters MOC
 
+## Companion Writing Controls
+
+- [[Companion Archetype Constitution]]
+- [[Companion Dialogue and Scene Standard]]
+- [[Companion Ensemble Pair Briefs]]
+- [[Companion Archetype Chemistry Matrix]]
+- [[Companion Emotional Rewrite Audit]]
+- [[Player Temperament and Chemistry]]
+
 ## Companions
 
 - [[Elara Velescar]]

@@ -16,7 +16,7 @@ tags: [game-ready]
 ---
 # Player Character Constitution
 
-This note is the controlling authority for Grenzburg's protagonist, character creation, social expression, moral tendencies, field capabilities, and vocation architecture. [[Player Systems MOC]] supplies the subordinate system references. [[Player Identity Reactivity Matrix]] controls how often and how materially the world recognizes those choices. Exact damage, timing, probability, and final balance remain provisional.
+This note is the controlling authority for Grenzburg's protagonist, character creation, social expression, moral tendencies, temperament, field capabilities, and vocation architecture. [[Player Systems MOC]] supplies the subordinate system references. [[Player Identity Reactivity Matrix]] controls how often and how materially the world recognizes those choices. [[Player Temperament and Chemistry]] controls the optional creation reflection, hidden authored signals, Act III lock, and companion chemistry. Exact damage, timing, probability, and final balance remain provisional.
 
 ## Fixed Identity
 
@@ -40,7 +40,7 @@ Important responses are concise, legible before commitment, and allowed to expos
 
 ## Character Creation Contract
 
-Character creation grants exactly these identity and play decisions:
+Character creation grants exactly these required identity and play decisions:
 
 1. appearance, body, voice absence, and sex;
 2. one origin culture and its knowledge tag;
@@ -49,6 +49,8 @@ Character creation grants exactly these identity and play decisions:
 5. a primary and secondary social-stat focus, with the same choice twice creating a specialist;
 6. one initial virtue or sin leaning, or complete neutrality;
 7. one of five starting vocations.
+
+An optional eight-question temperament reflection follows these required choices. It returns a plain-language description that the player may accept, override, or leave open. It never writes a fixed biography or exposes an archetype label in ordinary dialogue.
 
 The nine culture tags are Eclessian, Thalmyric, Sestaran, Jirahar, Ahl-e-Ahd, Folk, Ättar, Tarkhan, and Nsizwa. They represent learned familiarity, not racial instinct or guaranteed agreement with another person.
 
@@ -79,6 +81,16 @@ All seven virtue and sin pairs remain visible in the character record. Sustained
 Only major vows, defining commitments, or a deeply established incompatible character may close a choice. Ordinary dialogue is never randomly removed. The system describes the player's repeated conduct; it does not make every moral claim equally true.
 
 [[Virtue and Sin Tendencies]] controls thresholds, feedback, incompatibility, and restoration.
+
+## Temperament and Chemistry
+
+Temperament records expressive style, not moral quality. Female protagonists may trend toward Tomboy, Goth, Cheerleader, or Bohemian writing; male protagonists may trend toward Jock, Nerd, Rebel, or Goofball writing. These are player-facing authorial categories, not diagnoses, classes, or claims NPCs can read from the character sheet.
+
+The latest twelve authored signals form a rolling ledger. Ordinary expressive dialogue contributes one signal; consequential authored action contributes two; accepting a creation leaning contributes three opening signals. A primary requires four signals and a two-signal lead. A secondary requires three. Ties, sparse evidence, and deliberate mixtures use the fully authored grey profile.
+
+Temperament remains fluid with inertia through Act II and locks when [[Ghor at the Gate]] completes. After [[The First Summer Road]], the repeatable [[Player Temperament and Chemistry#Draught of Second Nature|Draught of Second Nature]] resets only future temperament reactions and reopens the quiz or direct selection. It never changes virtues, memories, approval, relationships, or completed outcomes.
+
+Temperament changes chemistry, disclosures, arguments, jokes, and occasional methods. It never removes a critical route, grants automatic approval, determines romance or sworn-bond access, or decides whether a moral action is right.
 
 ## Shared Field Capability
 
@@ -158,6 +170,7 @@ Exact curves, damage, frame data, input mappings, slot budgets, social probabili
 - Faction service: [[Factions Overview]]
 - Seasonal availability: [[Season and World-State Constitution]]
 - Identity recognition: [[Player Identity Reactivity Matrix]]
+- Temperament and companion chemistry: [[Player Temperament and Chemistry]]
 - Campaign use: [[Grenzburg Campaign Spine]]
 
 ## Navigation

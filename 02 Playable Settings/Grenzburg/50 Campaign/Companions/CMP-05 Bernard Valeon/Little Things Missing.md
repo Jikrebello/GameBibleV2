@@ -9,7 +9,7 @@ culture: ["Thalmyric", "Kedravan", "Eclessian"]
 related_factions: ["Blackjack Corps", "Medori Bank", "Church of Grenzburg"]
 appears_in: ["Grenzburg"]
 needs: []
-tags: [game-ready]
+tags: [narrative-rewrite]
 quest_class: companion
 act: act-1
 availability_window: ["Early Autumn", "Open Autumn"]
@@ -49,6 +49,13 @@ identity_hooks: []
 encounter_deck: []
 persistence_scope: district-persistent
 postgame_season: ""
+emotional_rewrite_status: preserve
+dialogue_status: pending-rewrite
+archetype_pressure: "Warmth becomes evasion: test whether Bernard can remain funny and loving while accepting specific judgement."
+emotional_function: "Keep the real relapse, wrongful suspicion, handcart recovery, and specific restitution"
+pleasure_beat: "Food, absurdity, road stories, children laughing, and companionship without ceremony."
+care_beat: "Bernard feeds, shelters, steadies, and tells the truth about what he takes or withholds."
+player_archetype_hooks: []
 ---
 # Little Things Missing
 

@@ -9,7 +9,7 @@ culture: ["Ättar", "Grey-Wolf"]
 related_factions: ["Blackjack Corps"]
 appears_in: ["Grenzburg"]
 needs: []
-tags: [game-ready]
+tags: [narrative-rewrite]
 quest_class: companion
 act: act-2
 availability_window: ["Late Winter", "Early Spring"]
@@ -50,6 +50,13 @@ identity_hooks: ["Ättar", "Wilderness", "Military"]
 encounter_deck: []
 persistence_scope: permanent
 postgame_season: ""
+emotional_rewrite_status: preserve
+dialogue_status: pending-rewrite
+archetype_pressure: "Competence becomes self-erasure: test whether Ylva accepts shared agency without reading care as confinement."
+emotional_function: "Keep female-player sworn sisterhood and alternating command and rest"
+pleasure_beat: "Field competence, open weather, friendly contest, practical food, and quiet work done well."
+care_beat: "Ylva notices strain and shares practical work while leaving the other person real authority over risk."
+player_archetype_hooks: []
 ---
 # The Sister Watch
 

@@ -9,7 +9,7 @@ culture: ["Vortharan", "Sestaran", "Eclessian"]
 related_factions: ["Blackjack Corps", "Great Forge", "Ducal Marcher Service"]
 appears_in: ["Grenzburg"]
 needs: []
-tags: [game-ready]
+tags: [narrative-rewrite]
 quest_class: companion
 act: summer
 availability_window: ["Playable Summer"]
@@ -50,6 +50,13 @@ identity_hooks: ["Sestaran", "Military", "Merchant/Craft", "Peasant/Labour", "La
 encounter_deck: []
 persistence_scope: permanent
 postgame_season: summer
+emotional_rewrite_status: preserve
+dialogue_status: pending-rewrite
+archetype_pressure: "Competition becomes worth: test whether Tavio can stop, lose, or need help without surrendering athletic joy."
+emotional_function: "Keep examiner, supervised tester, and circuit outcomes while preserving joy in competition"
+pleasure_beat: "Competition, crowds, food, physical effort, ridiculous prizes, and celebrating improvement."
+care_beat: "Tavio trains beside people, celebrates their effort, and calls a halt before glory spends their bodies."
+player_archetype_hooks: []
 ---
 # The Road Takes the Measure
 

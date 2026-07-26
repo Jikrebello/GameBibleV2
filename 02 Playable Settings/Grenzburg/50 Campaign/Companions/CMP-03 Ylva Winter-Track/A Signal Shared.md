@@ -9,7 +9,7 @@ culture: ["Ättar", "Grey-Wolf", "Eclessian", "Folk"]
 related_factions: ["Blackjack Corps", "Duchy of Grenzburg"]
 appears_in: ["Grenzburg"]
 needs: []
-tags: [game-ready]
+tags: [narrative-rewrite]
 quest_class: companion
 act: act-1
 availability_window: ["Open Autumn", "Late Autumn"]
@@ -50,6 +50,13 @@ identity_hooks: ["Ättar", "Folk", "Military", "Wilderness", "Peasant/Labour", "
 encounter_deck: ["false road signal", "Upper Grenz bandits", "autumn storm"]
 persistence_scope: regional-milestone
 postgame_season: ""
+emotional_rewrite_status: reframe
+dialogue_status: pending-rewrite
+archetype_pressure: "Competence becomes self-erasure: test whether Ylva accepts shared agency without reading care as confinement."
+emotional_function: "Retain the relay but add inexperienced partners, patronization, and the question of who is trusted to judge field risk"
+pleasure_beat: "Field competence, open weather, friendly contest, practical food, and quiet work done well."
+care_beat: "Ylva notices strain and shares practical work while leaving the other person real authority over risk."
+player_archetype_hooks: []
 ---
 # A Signal Shared
 

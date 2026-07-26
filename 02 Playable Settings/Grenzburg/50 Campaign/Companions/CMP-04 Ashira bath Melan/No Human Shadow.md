@@ -9,7 +9,7 @@ culture: ["Jirahar", "Qesheth"]
 related_factions: ["Blackjack Corps"]
 appears_in: ["Grenzburg"]
 needs: []
-tags: [game-ready]
+tags: [narrative-rewrite]
 quest_class: companion
 act: act-3
 availability_window: ["Early Spring", "Muster Crisis"]
@@ -26,6 +26,13 @@ quest_sequence: 4
 companion_id: "CMP-04"
 faction_line: ""
 faction_branch: ""
+emotional_rewrite_status: reframe
+dialogue_status: pending-rewrite
+archetype_pressure: "Witness becomes possession: test whether Ashira can know grief and forbidden truth without appropriating another person."
+emotional_function: "Keep the army wearing copied faces and final renunciation; make the climax about relinquishing possession, not merely sorting safe files"
+pleasure_beat: "Forbidden knowledge, black humor, nocturnal beauty, private jokes, and chosen quiet."
+care_beat: "Ashira guards privacy and remains beside grief without speaking as its owner."
+player_archetype_hooks: []
 ---
 # No Human Shadow
 

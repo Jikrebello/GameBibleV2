@@ -14,20 +14,20 @@ tags: [game-ready]
 ---
 # Grenzburg Companions MOC
 
-This is the production doorway for eight outsider-debtor companions, eighty-eight authored companion pieces, and eight-to-twelve embedded opportunities per companion. A playthrough can expose no more than seventy-four formal pieces because each companion has mutually exclusive romance and sworn-bond episodes, while the global relationship rules permit one committed romance and one committed bond. [[Companion Constitution]] controls the roster and moral rules. [[Companion Campaign Architecture]] controls content shape and party format. [[Companion Autonomy and Act Convergence]] controls deadlines and unassisted progression. [[Companion Campaign Expansion Register]] is the count and migration authority.
+This is the production doorway for eight outsider-debtor companions, eighty-eight authored companion pieces, and eight-to-twelve embedded opportunities per companion. A playthrough can expose no more than seventy-four formal pieces because each companion has mutually exclusive romance and sworn-bond episodes, while the global relationship rules permit one committed romance and one committed bond. [[Companion Constitution]] controls the roster and moral rules. [[Companion Archetype Constitution]] controls the eight emotional engines. [[Companion Dialogue and Scene Standard]] controls voice and scene craft. [[Companion Ensemble Pair Briefs]] controls all twenty-eight companion pairings. [[Companion Emotional Rewrite Audit]] controls preserve, reframe, and replace decisions. [[Player Temperament and Chemistry]] and [[Companion Archetype Chemistry Matrix]] control player chemistry. [[Companion Campaign Architecture]] controls content shape and party format. [[Companion Autonomy and Act Convergence]] controls deadlines and unassisted progression. [[Companion Campaign Expansion Register]] is the count and migration authority.
 
 ## Roster
 
-| ID | Companion | Sex | Vocation | Recruitment | Principal foil | Relationship theme |
-|---|---|---|---|---|---|---|
-| CMP-01 | [[Elara Velescar]] | woman | [[Slayer]] - Delver-Duelist variant | Early Autumn | [[Ashira bath Melan]] | adventure between equals |
-| CMP-02 | [[Ilyana Veshkar]] | woman | [[Bard]] | Black Road | [[Dismas Raben]] | a voice freely answered |
-| CMP-03 | [[Ylva Winter-Track]] | woman | [[Hunter]] | Open Autumn, at Southbound Muster | [[Tavio Meran]] | the right to be relieved |
-| CMP-04 | [[Ashira bath Melan]] | woman | [[Medium]] | Early Autumn | [[Elara Velescar]] | intellectual equals |
-| CMP-05 | [[Bernard Valeon]] | man | [[Paladin]] | Black Road | [[Zafir ibn Samad]] | receiving without taking |
-| CMP-06 | [[Dismas Raben]] | man | [[Hunter]] | Black Road | [[Ilyana Veshkar]] | no escape route |
-| CMP-07 | [[Tavio Meran]] | man | [[Lancewright]] | Early Autumn | [[Ylva Winter-Track]] | trusted seconds who respect the halt |
-| CMP-08 | [[Zafir ibn Samad]] | man | [[Binder]] | Early Autumn | [[Bernard Valeon]] | freedom without ownership |
+| ID | Companion | Archetype | Sex | Vocation | Recruitment | Principal foil | Relationship theme |
+|---|---|---|---|---|---|---|---|
+| CMP-01 | [[Elara Velescar]] | Cheerleader | woman | [[Slayer]] - Delver-Duelist variant | Early Autumn | [[Ashira bath Melan]] | adventure between equals |
+| CMP-02 | [[Ilyana Veshkar]] | Bohemian | woman | [[Bard]] | Black Road | [[Dismas Raben]] | a voice freely answered |
+| CMP-03 | [[Ylva Winter-Track]] | Tomboy | woman | [[Hunter]] | Open Autumn, at Southbound Muster | [[Tavio Meran]] | the right to be relieved |
+| CMP-04 | [[Ashira bath Melan]] | Goth | woman | [[Medium]] | Early Autumn | [[Elara Velescar]] | intimacy without possession |
+| CMP-05 | [[Bernard Valeon]] | Goofball | man | [[Paladin]] | Black Road | [[Zafir ibn Samad]] | receiving without taking |
+| CMP-06 | [[Dismas Raben]] | Rebel | man | [[Hunter]] pending reassessment | Black Road | [[Ilyana Veshkar]] | chosen return without captivity |
+| CMP-07 | [[Tavio Meran]] | Jock | man | [[Lancewright]] | Early Autumn | [[Ylva Winter-Track]] | trusted seconds who respect the halt |
+| CMP-08 | [[Zafir ibn Samad]] | Nerd | man | [[Binder]] | Early Autumn | [[Bernard Valeon]] | freedom without ownership |
 
 ## Campaign Budget
 
@@ -42,11 +42,13 @@ This is the production doorway for eight outsider-debtor companions, eighty-eigh
 | Summer coda | 1 | 8 |
 | **Authored pieces** | **11** | **88** |
 
-Sixty-seven formal pieces now exist: Elara's, Ilyana's, Ylva's, Bernard's, and Tavio's complete eleven-piece authored campaigns plus the twelve legacy sources for the other three companions. Twenty-one untitled slots remain reserved without creating empty notes. An individual companion exposes nine non-exclusive pieces plus either the eligible romance episode or the eligible bond episode, never both. See [[Companion Campaign Expansion Register]].
+Sixty-seven formal pieces now exist: Elara's, Ilyana's, Ylva's, Bernard's, and Tavio's complete eleven-piece structural campaigns plus the twelve legacy sources for the other three companions. Twenty-one untitled slots remain reserved without creating empty notes. An individual companion exposes nine non-exclusive pieces plus either the eligible romance episode or the eligible bond episode, never both. See [[Companion Campaign Expansion Register]].
+
+All sixty-seven linked pieces have an explicit emotional disposition: thirty-two preserve, twenty-five reframe, and ten replace. The twenty-one reserved pieces are also replacements, for a complete 88-piece audit. Structural `blocked` and `migrated` values remain accurate, but no companion quest is implementation-ready until its paired rewrite sets `emotional_rewrite_status: cleared` and `dialogue_status: approved`.
 
 ## Existing Source Register
 
-Elara's, Ilyana's, Ylva's, Bernard's, and Tavio's eleven authored pieces carry `architecture_status: migrated`. The remaining sources carry `pending-migration`: their existing Quest 1 becomes the introductory case and Quests 2-4 become the three act finales during that companion's retrofit.
+Elara's, Ilyana's, Ylva's, Bernard's, and Tavio's eleven authored pieces carry `architecture_status: migrated`. The remaining sources carry `pending-migration`: their existing Quest 1 becomes the introductory case and Quests 2-4 become the three act finales during that companion's retrofit. The Status column below records structural blocking only; emotional status lives in [[Companion Emotional Rewrite Audit]] and the [[Companions.base|Companion Base]].
 
 | ID | Quest | Owner | Act | Window | Status |
 |---|---|---|---|---|---|
@@ -197,11 +199,17 @@ Elara's, Ilyana's, Ylva's, Bernard's, and Tavio's eleven authored pieces carry `
 - [[Lancewright]]: the quest-earned advanced player vocation.
 - [[The False Ring]], [[The Signed Measure]], [[Proof Under Load]], [[Games Without a Crown]], [[The Challenger's Road]], [[The Fair Defeat]], [[No Wager Between Us]], [[After the Last Lantern]], [[Measure on the March]], [[Horn for Leak-Day]], and [[The Road Takes the Measure]]: eleven production-blocked pieces, of which no more than ten can appear in one playthrough.
 
-Elara, Ilyana, Ylva, Bernard, and Tavio are fully migrated to the eleven-piece authored architecture and ten-piece playthrough ceiling. Ashira, Dismas, and Zafir remain outlined and will be deep-blocked directly against the new standard. No later companion's threshold or autonomous result is canonized without its planned user-guided pass.
+Elara, Ilyana, Ylva, Bernard, and Tavio are fully migrated to the eleven-piece authored architecture and ten-piece playthrough ceiling. Their emotional rewrites are not yet cleared. Ashira, Dismas, and Zafir remain structurally outlined and will be built directly against the new standard. No later companion's threshold or autonomous result is canonized without its planned user-guided pass.
 
 ## Controls
 
 - [[Companion Constitution]]
+- [[Companion Archetype Constitution]]
+- [[Companion Dialogue and Scene Standard]]
+- [[Companion Ensemble Pair Briefs]]
+- [[Companion Archetype Chemistry Matrix]]
+- [[Companion Emotional Rewrite Audit]]
+- [[Player Temperament and Chemistry]]
 - [[Companion Campaign Architecture]]
 - [[Companion Autonomy and Act Convergence]]
 - [[Companion Campaign Expansion Register]]

@@ -9,7 +9,7 @@ culture: ["Vortharan", "Sestaran", "Eclessian"]
 related_factions: ["Blackjack Corps", "Ducal Marcher Service", "Great Forge", "Warlock Hall"]
 appears_in: ["Grenzburg"]
 needs: []
-tags: [game-ready]
+tags: [narrative-rewrite]
 quest_class: companion
 act: act-3
 availability_window: ["Open Thaw", "Spring Reclamation"]
@@ -50,6 +50,13 @@ identity_hooks: ["Military", "Merchant/Craft", "Peasant/Labour", "Warlock", "Lan
 encounter_deck: []
 persistence_scope: regional-milestone
 postgame_season: ""
+emotional_rewrite_status: reframe
+dialogue_status: pending-rewrite
+archetype_pressure: "Competition becomes worth: test whether Tavio can stop, lose, or need help without surrendering athletic joy."
+emotional_function: "Keep unsafe war equipment; make Tavio oppose team prestige and operational momentum rather than conduct another inspection ledger"
+pleasure_beat: "Competition, crowds, food, physical effort, ridiculous prizes, and celebrating improvement."
+care_beat: "Tavio trains beside people, celebrates their effort, and calls a halt before glory spends their bodies."
+player_archetype_hooks: []
 ---
 # Measure on the March
 

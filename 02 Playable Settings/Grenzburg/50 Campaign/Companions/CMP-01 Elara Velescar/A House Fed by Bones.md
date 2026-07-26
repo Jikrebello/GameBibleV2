@@ -9,7 +9,7 @@ culture: ["Eclessian", "Virelian", "Folk"]
 related_factions: ["Blackjack Corps", "Vardek household", "Grenzburg hunters", "Folk kindreds"]
 appears_in: ["Grenzburg"]
 needs: []
-tags: [game-ready]
+tags: [narrative-rewrite]
 quest_class: companion
 act: act-1
 availability_window: ["Open Autumn", "Early Winter"]
@@ -49,6 +49,13 @@ identity_hooks: []
 encounter_deck: []
 persistence_scope: regional-milestone
 postgame_season: ""
+emotional_rewrite_status: reframe
+dialogue_status: pending-rewrite
+archetype_pressure: "Belonging becomes curation: test whether Elara shares social power or decides who deserves the room."
+emotional_function: "Keep Seven Mounds and people-before-proof; make workers active members whose recognition competes with Elara's need to control the story"
+pleasure_beat: "Social sparkle, discovery, elegant risk, and making a temporary company feel chosen."
+care_beat: "Elara shares credit, access, attention, and protection without making gratitude the price of belonging."
+player_archetype_hooks: []
 ---
 # A House Fed by Bones
 

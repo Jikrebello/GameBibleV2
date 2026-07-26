@@ -9,7 +9,7 @@ culture: ["Eclessian", "Korrheim"]
 related_factions: ["Blackjack Corps"]
 appears_in: ["Grenzburg"]
 needs: []
-tags: [game-ready]
+tags: [narrative-rewrite]
 quest_class: companion
 act: act-1
 availability_window: ["Early Autumn", "Open Autumn"]
@@ -26,6 +26,13 @@ quest_sequence: 1
 companion_id: "CMP-06"
 faction_line: ""
 faction_branch: ""
+emotional_rewrite_status: replace
+dialogue_status: pending-rewrite
+archetype_pressure: "Refusal becomes abandonment: test whether Dismas returns for the aftermath without treating commitment as captivity."
+emotional_function: "Introduce Dismas through a thrilling rule-breaking rescue that shows why refusal feels liberating before the old rockfall is disclosed"
+pleasure_beat: "Forbidden routes, irreverence, speed, audacious shortcuts, and puncturing pompous authority."
+care_beat: "Dismas returns for consequences, does the unglamorous cleanup, and gives others a real choice."
+player_archetype_hooks: []
 ---
 # The Sound of Falling Stone
 

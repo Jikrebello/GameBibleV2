@@ -47,6 +47,13 @@ autonomous_resolution: ""
 changed_reentry: ""
 ensemble_inputs: []
 identity_hooks: []
+emotional_rewrite_status: ""
+dialogue_status: ""
+archetype_pressure: ""
+emotional_function: ""
+pleasure_beat: ""
+care_beat: ""
+player_archetype_hooks: []
 encounter_deck: []
 persistence_scope: none
 postgame_season: ""
@@ -78,6 +85,14 @@ postgame_season: ""
 ## Preparation Inputs
 
 ## Identity Hooks
+
+## Emotional Function
+
+## Archetype Pressure
+
+## Pleasure and Care Beats
+
+## Player Archetype Hooks
 
 ## Choices
 

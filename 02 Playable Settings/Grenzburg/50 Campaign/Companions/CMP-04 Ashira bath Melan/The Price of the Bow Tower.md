@@ -9,7 +9,7 @@ culture: ["Jirahar", "Qesheth"]
 related_factions: ["Blackjack Corps"]
 appears_in: ["Grenzburg"]
 needs: []
-tags: [game-ready]
+tags: [narrative-rewrite]
 quest_class: companion
 act: act-2
 availability_window: ["Deep Winter", "Early Spring"]
@@ -26,6 +26,13 @@ quest_sequence: 3
 companion_id: "CMP-04"
 faction_line: ""
 faction_branch: ""
+emotional_rewrite_status: replace
+dialogue_status: pending-rewrite
+archetype_pressure: "Witness becomes possession: test whether Ashira can know grief and forbidden truth without appropriating another person."
+emotional_function: "Remove the visiting delegation and licensing hearing; create a Grenzburg crisis where connection and forbidden practice collide in action"
+pleasure_beat: "Forbidden knowledge, black humor, nocturnal beauty, private jokes, and chosen quiet."
+care_beat: "Ashira guards privacy and remains beside grief without speaking as its owner."
+player_archetype_hooks: []
 ---
 # The Price of the Bow Tower
 

@@ -31,7 +31,7 @@ Every player character is:
 - silent and visually customizable;
 - not a secret heir, chosen sovereign, commander, or native expert on Grenzburg.
 
-Appearance and sex do not change combat statistics. Sex controls the relationship eligibility already established by [[Companion Constitution]]. Origin, knowledge, background, conduct, and vocation control recognition and capability.
+Appearance and sex do not change combat statistics. Sex controls the relationship eligibility already established by [[Companion Constitution]] and which four temperament tendencies may be selected or inferred. Origin, knowledge, background, conduct, and vocation control recognition and capability.
 
 ## Creation Sequence
 
@@ -95,6 +95,14 @@ Choose one starting virtue or sin leaning from [[Virtue and Sin Tendencies]], or
 
 Choose [[Fighter]], [[Slayer]], [[Hunter]], [[Warlock]], or [[Medium]]. The choice grants one coherent native kit for the prologue. It does not prevent learning the other authored vocations or later earning [[Paladin]], [[Binder]], [[Bard]], and [[Lancewright]].
 
+### Optional Temperament Reflection
+
+After the seven required choices, the player may answer eight short situational questions from [[Player Temperament and Chemistry]]. The result is written as a plain-language description. The player may accept it, directly choose another available leaning, or begin open-ended with no opening signals.
+
+Female protagonists draw from Tomboy, Goth, Cheerleader, and Bohemian tendencies. Male protagonists draw from Jock, Nerd, Rebel, and Goofball tendencies. The distinction controls authored chemistry and response texture, not combat statistics, moral worth, intelligence, beauty, or relationship eligibility.
+
+Choices remain unmarked in play. Only authored expressive dialogue and consequential actions count; combat style, equipment, loot, and routine behavior never infer personality.
+
 ## What Creation Does Not Do
 
 - It does not write a fixed biography beyond the debtor premise.
@@ -103,6 +111,7 @@ Choose [[Fighter]], [[Slayer]], [[Hunter]], [[Warlock]], or [[Medium]]. The choi
 - It does not assign faction loyalty.
 - It does not force a personality through random dialogue removal.
 - It does not decide romance or sworn-bond commitment.
+- It does not make the optional temperament result permanent or morally authoritative.
 
 ## Dialogue Recognition
 
@@ -116,6 +125,7 @@ Recognition may also change route access, prices, suspicion, legal treatment, pr
 - [[Player Statistics and Resolution]]
 - [[Social Skills and Knowledge]]
 - [[Virtue and Sin Tendencies]]
+- [[Player Temperament and Chemistry]]
 - [[Player Identity Reactivity Matrix]]
 - [[Vocation Progression and Mastery]]
 - [[Player Systems MOC]]

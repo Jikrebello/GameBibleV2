@@ -9,7 +9,7 @@ culture: ["Ättar", "Grey-Wolf", "Eclessian"]
 related_factions: ["Blackjack Corps", "Duchy of Grenzburg"]
 appears_in: ["Grenzburg"]
 needs: []
-tags: [game-ready]
+tags: [narrative-rewrite]
 quest_class: companion
 act: act-2
 availability_window: ["Early Winter", "Winter Siege"]
@@ -50,6 +50,13 @@ identity_hooks: ["Ättar", "Military", "Underworld", "Peasant/Labour", "Wilderne
 encounter_deck: ["Lantern Ward rooftop hazard", "Grobi river probe", "winter fire"]
 persistence_scope: seasonal-milestone
 postgame_season: ""
+emotional_rewrite_status: reframe
+dialogue_status: pending-rewrite
+archetype_pressure: "Competence becomes self-erasure: test whether Ylva accepts shared agency without reading care as confinement."
+emotional_function: "Keep siege preparation but focus on training independent station holders rather than Ylva personally maintaining another network"
+pleasure_beat: "Field competence, open weather, friendly contest, practical food, and quiet work done well."
+care_beat: "Ylva notices strain and shares practical work while leaving the other person real authority over risk."
+player_archetype_hooks: []
 ---
 # Signals Over Lantern Ward
 

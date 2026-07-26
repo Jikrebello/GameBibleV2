@@ -9,7 +9,7 @@ culture: ["Vortharan", "Sestaran", "Eclessian"]
 related_factions: ["Blackjack Corps", "Medori Bank", "Red Brass Bench"]
 appears_in: ["Grenzburg"]
 needs: []
-tags: [game-ready]
+tags: [narrative-rewrite]
 quest_class: companion
 act: act-1
 availability_window: ["Early Autumn", "Open Autumn"]
@@ -50,6 +50,13 @@ identity_hooks: ["Sestaran", "Vortharan", "Military", "Merchant/Craft", "Scholar
 encounter_deck: []
 persistence_scope: regional-milestone
 postgame_season: ""
+emotional_rewrite_status: preserve
+dialogue_status: pending-rewrite
+archetype_pressure: "Competition becomes worth: test whether Tavio can stop, lose, or need help without surrendering athletic joy."
+emotional_function: "Keep the Fifth Ring, Tavio's knowledge, unsafe hardware, and public first crack in the champion story"
+pleasure_beat: "Competition, crowds, food, physical effort, ridiculous prizes, and celebrating improvement."
+care_beat: "Tavio trains beside people, celebrates their effort, and calls a halt before glory spends their bodies."
+player_archetype_hooks: []
 ---
 # The False Ring
 

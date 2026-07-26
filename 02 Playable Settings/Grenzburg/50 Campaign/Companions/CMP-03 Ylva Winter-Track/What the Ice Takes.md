@@ -9,7 +9,7 @@ culture: ["Ättar", "Grey-Wolf", "Eclessian", "Folk"]
 related_factions: ["Blackjack Corps", "Duchy of Grenzburg"]
 appears_in: ["Grenzburg"]
 needs: []
-tags: [game-ready]
+tags: [narrative-rewrite]
 quest_class: companion
 act: act-2
 availability_window: ["Winter Siege"]
@@ -50,6 +50,13 @@ identity_hooks: ["Ättar", "Folk", "Military", "Wilderness", "Peasant/Labour", "
 encounter_deck: ["Grobi ice skirmishers", "winter evacuation", "breaking lake ice"]
 persistence_scope: seasonal-milestone
 postgame_season: ""
+emotional_rewrite_status: preserve
+dialogue_status: pending-rewrite
+archetype_pressure: "Competence becomes self-erasure: test whether Ylva accepts shared agency without reading care as confinement."
+emotional_function: "Keep distributed risk, abandoned cargo, and the refusal of sole liability"
+pleasure_beat: "Field competence, open weather, friendly contest, practical food, and quiet work done well."
+care_beat: "Ylva notices strain and shares practical work while leaving the other person real authority over risk."
+player_archetype_hooks: []
 ---
 # What the Ice Takes
 

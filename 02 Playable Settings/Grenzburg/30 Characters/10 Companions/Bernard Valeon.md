@@ -20,166 +20,342 @@ home_base: "Blackjack Yard"
 foil: "Zafir ibn Samad"
 relationship_theme: "receiving without taking"
 relationship_perks: ["Kept in the Light", "Last Watch"]
+archetype: "Goofball"
+archetype_desire: "worth through warmth, play, and resilience"
+archetype_currency: "making fear bearable and people glad he is present"
+archetype_humiliation: "the silence after the joke, when others may judge or discard him"
+care_language: ["food", "stories", "absurd rituals", "practical kindness", "affectionate teasing"]
+archetype_shadow: "evasion, irresponsibility, and using charm to hurry past accountability"
+preservation_lesson: "responsibility does not kill joy, and seriousness does not end love"
+past_anchor: "Petra Ilev"
+voice_status: calibrated
+emotional_rewrite_status: bible-locked
 architecture_status: migrated
 ---
 # Bernard Valeon
 
-## Companion Contract
+## Immediate Read
 
-Bernard Valeon is a thirty-two-year-old Kedravan former lay knight of the [[Thalmyric Military Orders|Order of the Long Watch]]. He was raised in a frontier hospice, took vows of poverty and obedience, and was dismissed after secretly hoarding relief stores during [[The Froststep Evacuation]]. Medori purchased his restitution bond, making him an outsider debtor and one of Grenzburg's eight full companions.
+Bernard is a very large man in mismatched armour asking whether anyone wants the last rites “performed without authorization and at a disappointing price.”
 
-He joins during [[The Black Road Main Quest|The Black Road]], remains optional to critical-path completion, and may serve in the player's field party of three companions. [[Bernard Companion Campaign]] gives him eleven authored pieces across the full seasonal story, with no more than ten available in one run. Its operations use the normal party, its three act finales use the fixed player-plus-Bernard duo structure, and its private friendship, romance, and sworn-bond episodes remain one-on-one.
+He feeds people, remembers children, tells road stories in which the mule receives more characterization than the knight, and makes frightened strangers feel less foolish for being frightened. When danger begins, the humor vanishes so completely that the change is its own command.
+
+He is not comic relief. He is the person who knows relief may sometimes arrive through comedy.
+
+## Character Thesis
+
+Bernard establishes worth through warmth, play, and resilience. He wants to make pain bearable and to be welcomed for the human room he creates around hardship.
+
+At his best, he protects dignity without requiring solemnity. At his worst, he uses charm, oddity, and helpfulness to speed past the moment when people might judge his theft, scarcity habits, or lies.
+
+His resolved arc does not cure his compulsion, make him austere, or prove that White Flame has absolved him. He learns to name the urge, receive enough openly, make specific repair, and remain funny after the room has heard the truth.
+
+## Identity
+
+- **Age:** thirty-two in 1360 AR.
+- **Origin:** Kedravan orphan raised at the Hospice of the Lantern Road.
+- **Former service:** lay knight of the Thalmyric Order of the Long Watch.
+- **Current standing:** Medori restitution debtor and Blackjack protector.
+- **Public style:** warm hedge knight, improvised host, and dependable physical shelter.
+- **Private contradiction:** he wants people to give freely and secretly fears that anything not hidden may disappear.
+- **Present ambition:** to create a place where food, shelter, and care are openly sufficient and honestly counted.
 
 ## Appearance
 
-Bernard is tall, broad through the shoulders, and visibly built by years of carrying people, crates, and a two-handed sword rather than courtly exercise. His skin is ruddy from cold and weather. His hair is dark auburn, close to brown indoors and red in sunlight, and he wears a full beard that is kept clean but rarely fashionable.
+Bernard is tall, broad through the shoulders, ruddy-skinned, dark auburn-haired, and fully bearded. His body looks built by carrying people, stores, and a two-handed sword.
 
-His armour looks like useful inheritance rather than a matched suit:
+His armour is useful inheritance rather than a matched suit:
 
-- plate protects his right gauntlet, arm, shoulder, breast, hip, and leading leg;
-- scale, mail, layered wool, and padded leather preserve movement along his left side;
-- old Long Watch repairs sit beside Eclessian marcher rivets and Blackjack inventory marks;
-- at recruitment, his grey greatsword has served at least three people before him and carries no personal name;
-- a rope of dark cord and plain wooden beads wraps around his left hand beneath the sword grip.
+- plate on the right arm, shoulder, chest, and leading leg;
+- scale, mail, and padding on the flexible left side;
+- a full right gauntlet and rough field repairs;
+- a handed-down greatsword;
+- his wooden-beaded prayer rope wrapped around the left hand when fighting.
 
-The sword, armour, bedroll, pack, and even most of his clothes are issued, inherited, or borrowed. The prayer rope is initially the only object he calls **mine** without correction. During [[A Blade Freely Given]] he returns the inherited sword to the common armoury and may accept his first lawfully owned greatsword as an unconditional gift. He names it **Open Hand** only after a resolved [[The Open Hospice|Open Hospice]] outcome; otherwise it remains his and stays unnamed.
+The prayer rope, given by Hospice-Mother Radena Vosk, is the only object that was truly his before Grenzburg.
 
 ## Childhood on the Lantern Road
 
-Bernard lost both parents during a Kedravan winter fever before he was old enough to remember their voices clearly. His name survived on an intake slate. He grew up at the [[Hospice of the Lantern Road]], where Long Watch brothers, married lay households, cooks, muleteers, wounded soldiers, and displaced children shared one steep refuge compound.
+The hospice fed children, travelers, patients, and road crews from stores that were sometimes sufficient and sometimes not.
 
-Scarcity shaped him before doctrine did. Meals were regular when the road was open and frighteningly thin when snow, rockfall, or war closed it. Bernard learned to eat quickly, identify every store key by sound, and hide a heel of bread before asking whether another child needed it.
+Young Bernard learned:
 
-[[Hospice-Mother Radena Vosk]] was his principal caregiver. She taught him letters through casualty rolls, prayer through ordinary work, and the difference between fasting and simply failing to feed a child. She gave him the wooden-beaded prayer rope when he entered adult service. Radena remains alive in Kedrava and corresponds with him without pretending distance can absolve either love or discipline.
+- hunger can return after adults promise it will not;
+- a hidden crust cannot be reassigned;
+- making another child laugh can delay the shame of wanting more;
+- gifts are safest if nobody notices receiving them;
+- useful people are harder to send away.
+
+His deprivation explains the compulsion. It does not excuse taking from other vulnerable people.
 
 ## The Long Watch
 
-Bernard entered the Order of the Long Watch as a serving brother and later took its lay vows of poverty and obedience. Long Watch lay knights may marry; their rule imposes no vow of chastity and does not ordain them. Equipment remains common property, dependants receive household provision, and personal devotional objects may be retained openly.
+Bernard joined the Order of the Long Watch as a lay knight under vows of poverty and obedience.
 
-Bernard became a road guard, casualty bearer, evacuation escort, and gifted carer. Children liked him because he answered questions seriously. Frightened soldiers liked him because he could make one dry joke without denying what was happening. He learned greatsword work to hold narrow roads and doorways, not to pursue duelling prestige.
+- The order permits marriage.
+- Bernard took no vow of chastity.
+- He was never ordained.
+- He may offer private prayer but cannot administer sacraments or claim priestly authority.
 
-He was never a priest. He sometimes leads emergency prayers beside the dying, but cannot grant sacramental absolution or claim clerical jurisdiction.
-
-## The Froststep Wrong
-
-During [[The Froststep Evacuation]], months of shortage revived Bernard's old terror of being left with nothing. He made several private caches of bread, lamp oil, bandages, blankets, and warming salve. He told himself that keeping a little hidden allowed him to remain generous with the stores everyone could see.
-
-When an evacuation sled left understocked, several people suffered lasting frostbite. No one died. During the first inventory search Bernard denied knowing where the supplies were. After seeing the injuries, he confessed and led the Long Watch to every cache.
-
-The order investigated him fairly. It compensated the injured, dismissed him from vowed service, and sold his restitution bond to Medori so the hospice could replace its stores immediately. Childhood deprivation explains the form of his compulsion. It does not make the stores his, erase the lie, or transfer the injuries to an institution that acted honestly.
-
-## Central Lie and Need
-
-**Central lie:** “A little hidden away harms no one, and then I can be generous with the rest.”
-
-**Need:** Bernard must learn to receive what is freely given, trust transparent provision, name an urge before it becomes concealment, and distinguish a witnessed reserve from a secret possession. Poverty is not starvation, ownership is not automatically greed, and another person's supervision cannot replace his own truthfulness.
-
-## Person Before Problem
-
-Bernard is warm, earthy, sociable, and gently funny. He feeds people whenever a kitchen permits it, remembers who takes salt, mends other people's straps without fanfare, and tells refuge-road stories with excellent pacing. He likes children, bad singers, strong onions, and anyone who can laugh while doing necessary work.
-
-He becomes quiet around death. Before a major battle he may offer each companion the **Last Ember prayers**:
+Before dangerous fights he offers the Last Ember:
 
 > “I am not a priest. I can pray, and I can stay.”
 
-The offer is personal rather than coercive. Refusal never causes approval loss. These scenes grant no routine combat bonus and never guarantee a White-Flame manifestation.
+These prayers have no routine buff. Their meaning comes from Bernard offering presence without pretending to possess office.
+
+## The Froststep Evacuation
+
+During a Kedravan winter evacuation, Bernard secretly cached:
+
+- bread;
+- lamp oil;
+- bandages;
+- blankets;
+- warming salve.
+
+The understocked relief sled left several evacuees with lasting frostbite injuries. Nobody died.
+
+Bernard denied knowing where the shortages were. After seeing the injuries, he confessed and led the Long Watch to every cache.
+
+The order investigated fairly, compensated the injured, dismissed him, and sold his restitution bond to Medori so the hospice could replace its stores immediately.
+
+[[Petra Ilev]], permanently injured at Froststep, is the sole person from Bernard's old life who may physically arrive in Grenzburg. Former commanders and hospice figures remain present through correspondence, prayer, records, and Bernard's account.
+
+## Culpability
+
+Bernard's controlling excuse is:
+
+> “A little hidden away harms no one, and then I can be generous with the rest.”
+
+The hidden reserve changed what other people could safely plan. His generosity afterward did not return their choice.
+
+The theft was not a secret act of providence. The confession did not erase the injury. The fairness of the order's investigation does not make Medori's purchase just.
+
+## Appetite
+
+Bernard loves:
+
+- feeding six people from ingredients meant for four;
+- road saints with improbable biographies;
+- terrible carvings, crooked songs, and objects repaired past dignity;
+- children who invent rules halfway through a game;
+- baths hot enough to make him apologize to the tub;
+- wrestling with people who understand that losing can be hospitable;
+- small dogs that dislike him;
+- the exact moment a formal person decides to laugh.
+
+He dislikes empty display, food wasted to prove abundance, people who frighten servants for amusement, piety used to avoid practical care, and anyone who calls a hungry person morally simple.
+
+## Humor and Embarrassment
+
+Bernard's humor is affiliative. He makes himself part of the foolishness rather than selecting the safest target.
+
+He is embarrassed by:
+
+- a joke landing cruelly;
+- being thanked as though he has no need of thanks;
+- someone discovering an object in the Things Not Mine pouch;
+- fine clothes fitted to him;
+- receiving a gift he cannot repay immediately;
+- silence after he has tried to make a confession easier.
+
+When embarrassed, he begins an unrelated story. If the player lets the story continue forever, he may never return to the point.
+
+## Care
+
+Bernard shows care by:
+
+- feeding a person before asking for an explanation;
+- making children and frightened adults feel less observed;
+- carrying the humiliating end of an injury;
+- repairing ordinary objects badly but promptly;
+- offering prayer without claiming certainty;
+- placing his body between danger and somebody who cannot move.
+
+His care becomes evasive when helping is used to purchase a quicker judgement or to make others feel cruel for remaining angry.
+
+## Fear, Shadow, and Preserving Change
+
+Bernard fears scarcity and the unamused judgement that may follow when charm cannot carry him.
+
+His shadow appears when he:
+
+- hides a reserve “for later”;
+- steals a small object and relies on its apparent insignificance;
+- makes a joke before the harmed person has finished speaking;
+- becomes indispensable so nobody can impose a boundary;
+- treats forgiveness as the natural reward for confession.
+
+His resolved self remains generous, odd, playful, and hospitable. He learns to accept declared stores, open gifts, witness, limits, and the possibility that repair may be accepted without affection.
+
+## Voice
+
+Bernard speaks through earthy stories, absurd specificity, hospitable teasing, and prayer language.
+
+He says:
+
+- “That is not soup yet. It is water with a grievance.”
+- “I have a plan. It has failed twice, which means we know it very well.”
+- “No joke. Not for this.”
+- “You needn't forgive me to tell me where the blankets go.”
+
+When he stops joking, his sentences become plain. He does not use humor during another person's requested silence.
+
+His voice obeys [[Companion Dialogue and Scene Standard]].
 
 ## Compulsion and Accountability
 
-Bernard's kleptomania is persistent, recognizable, and neither charming loot behavior nor supernatural corruption. Stress, crowding, visible stores, hospitality spaces, and the fear of imminent shortage intensify it. He most often takes small useful or comforting things: spoons, keys, food portions, cloth, flints, buttons, devotional tokens, and medicine tools.
+[[Bernard Compulsion and Accountability System]] uses a finite set of authored incidents.
 
-He is accountable for what he takes and especially for concealment after the urge has passed. [[Bernard Compulsion and Accountability System]] controls finite field incidents, the **Things Not Mine** pouch, returns, compensation, and self-reporting. The player can support safeguards but cannot cure Bernard through romance, approval, surveillance, or force.
+- Every attempt has a visible tell.
+- Completed thefts enter `Things Not Mine`.
+- Items cannot be sold, discarded, dismantled, or used to erase responsibility.
+- Returning, confessing, compensating, and concealing produce different reactions.
+- Bernard never removes player inventory, unique equipment, or critical resources.
+- Progress makes incidents rarer and self-reporting more likely.
+- Romance does not cure him or make the player his keeper.
 
-## Faith
+The system should sometimes be awkward, sometimes sad, and occasionally darkly funny. The owner of the missing object is never the punchline.
 
-Bernard's Redeemer faith is Thalmyric: sung prayer, icons, patient stillness, hospitality, and the Holy Fire understood as a gift that restores rather than a weapon that proves rank. He does not mistake Shell-fire for grace and distrusts any institution that treats visible kindling as evidence of innocence.
+## Faith and White Flame
 
-His prayer rope focuses breath, memory, and attention. It is not a battery, wand, relic, or technical catalyst that compels the White Flame. From recruitment, modest kindling may steady panic, stabilize an injury, resist corruption, or protect someone for a brief interval. The full field form opens during [[Embers Without Excuse]], when grace accompanies truth and action without erasing his wrong.
+Bernard understands the Redeemer through Thalmyric prayer, icon, road hospice, liturgy, and personal service.
+
+White Flame is a gift responding to moral coherence. It is not:
+
+- a battery in his prayer rope;
+- proof of innocence;
+- an order's property;
+- a substitute for restitution;
+- a reward the player can force through correct dialogue.
+
+His early kindling supports stabilization, courage, cleansing, and brief protection. Stronger Paladin expression follows `Embers Without Excuse` only when he serves courageously without using service as acquittal.
+
+## Present-Day Grenzburg
+
+### Blackjack Yard
+
+Bernard helps with meals, lifting, novice drills, and the unofficial emotional weather of the yard. [[Quartermaster Brina Kest|Brina Kest]] trusts his labor and requires witnessed stores precisely because she refuses to turn affection into inventory policy.
+
+### Chapel-Folk
+
+Reader [[Oda Reed-Way]] values Bernard's rapport with children and corrects any attempt to speak as an ordained authority. He enjoys Chapel-Folk practical devotion and learns that hospitality may be structured without becoming cold.
+
+### Mercy Hospital
+
+[[Sister Marcellina]] respects his willingness to stay with difficult patients and watches his handling of stores. Their disagreements concern protection, secrecy, and whether a useful person may receive special moral credit.
+
+### Ordinary Debtors
+
+Bernard knows who eats alone, who hides medicine, who hates being prayed over, and which person will accept care only if it is framed as a task. He is loved before he is trusted fully.
+
+## Company Routine
+
+At camp Bernard:
+
+- cooks when allowed and improvises when not;
+- tells different versions of the same road story;
+- offers Last Ember prayers before major danger;
+- mends straps with excessive knots;
+- invents games whose rules favor whoever is frightened;
+- falls asleep during his own stories;
+- checks the common stores twice and must learn to report the second check.
+
+He may be recruited and dismissed normally. He notices if the player wants his protection but never his company.
 
 ## Combat and World Use
 
-[[Bernard Long Watch Greatsword Package]] controls his companion combat. He is a two-handed greatsword protector who holds approaches, interposes for vulnerable allies, creates recovery intervals, and applies restrained White-Flame support.
+Bernard remains a two-handed greatsword [[Paladin]] using the Long Watch package:
 
-He begins with modest kindling and learned physical forms. Personal completion of [[Embers Without Excuse]] unlocks the player's [[Paladin]] vocation for the current playthrough and account; [[The Open Hospice]] grants its capstone and the Long Watch custom-vocation blueprint on eligible player-completed outcomes. Losing sacred coherence can close White-Flame techniques but never deletes learned armour or greatsword skill.
+- Long-Watch Guard;
+- Road-Clearing Stroke;
+- Shelter at My Back;
+- Mercy Between Blows;
+- Burden Shared;
+- Last Ember.
 
-Bernard supplies advantages and observations, never a mandatory traversal, healing, ritual, or ending key.
-
-## Recruitment and Home Life
-
-On the Black Road, Bernard establishes a casualty point behind an overturned wagon and asks the player to bring people to him rather than pretending he can reach everyone. This introduces both his competence and his refusal to make care theatrical.
-
-At the [[Blackjack Yard]] he usually works near the kitchen, infirmary bench, or equipment racks. He checks shared stores more often than duty requires and keeps his own issued kit visibly inventoried. At camps he prepares food, tends feet and straps, and offers final prayers before clearly signposted dangers.
+His patched armour and leading-side plate support interposition rather than pristine tank fantasy. His prayer rope focuses attention and prayer, not magical output.
 
 ## Approval and Moral Limits
 
-Bernard opens through honest restitution, feeding and sheltering people without humiliation, mercy joined to boundaries, rescue under pressure, responsible reserves, and respect for freely chosen faith or refusal.
+Bernard approves of:
 
-He strains at:
+- feeding people before judging them;
+- open reserves and witnessed custody;
+- humor that includes rather than humiliates;
+- honest gifts;
+- specific restitution;
+- faith expressed through service without jurisdictional ambition.
 
-- stealing from the poor, sick, dead, or displaced;
-- concealed stores during a declared shortage;
-- treating a confession as sufficient when repair remains possible;
-- using another person's illness to deny agency or excuse chosen concealment;
-- forcing prayer, sacrament, or institutional submission;
-- abandoning people while preserving symbolic property;
-- claiming visible White Flame proves a claimant correct.
+He opposes:
 
-Repeated concealment after warning, encouraging him to steal from patients or the dead, or using his kindling as immunity creates a departure conflict governed by [[Bernard Field Familiarity and Relationships]].
+- stealing from the vulnerable or dead;
+- sacred authority used as immunity;
+- stores hidden during emergency;
+- humiliation of children, debtors, patients, or captives;
+- cruelty justified as discipline;
+- treating White Flame as a verdict.
 
-## Companion Campaign
+## Companion Campaign Direction
 
-[[Bernard Companion Campaign]] is the controlling sequence:
+[[Bernard Companion Campaign]] retains its eleven-piece architecture. [[Companion Emotional Rewrite Audit]] preserves most of its human core while replacing the most procedural winter operation.
 
-1. [[Little Things Missing]]
-2. [[The Wagon in the Reeds]]
-3. [[Little Hands, Long Road]]
-4. [[A Blade Freely Given]]
-5. [[Four Fires]]
-6. [[Embers Without Excuse]]
-7. [[Enough for Two]] for a committed female-player romance
-7. [[Watch Until Morning]] for a committed male-player sworn bond
-8. [[Beds Before Banners]]
-9. [[The Open Hospice]]
-10. [[The First Open Table]]
+His campaign must include:
 
-The two sequence-7 relationship episodes are mutually exclusive. The campaign also reserves ten embedded opportunities in main, faction, exploration, company, and systemic play. Bernard progresses at each act gate even if the player does not track him. His default unattended route is that of a compromised caregiver: the children live with avoidable injuries, the winter patients survive while Petra withholds forgiveness, and Brina ultimately places his useful care work inside the Blackjack infirmary under open inventory control. He cannot die unseen.
+1. the pleasure of Bernard's company before the first relapse is solved;
+2. children who like him without becoming instruments of redemption;
+3. a gift he cannot earn, steal, or repay;
+4. humor failing and the relationship surviving;
+5. Petra's independent judgement;
+6. White Flame kindling during courageous service without erasing accountability;
+7. an open institution whose stores remain honest when Bernard is tired and afraid;
+8. resolved, supervised, concealed, or sacrificial outcomes.
 
-## Relationship
+## Relationships
 
-The relationship theme is **receiving without taking**. A female player may pursue romance; a male player may pursue a sworn bond. Commitment becomes available only after the player personally completes [[Embers Without Excuse]] at Trusted approval and never follows automatically from approval.
+Bernard is heterosexual. A female player may pursue romance; a male player may form the exclusive sworn bond.
 
-Romance adds one freely given bead to Bernard's prayer rope during [[Enough for Two]], after he asks whether it is truly a gift. Its Bernard-only duo move is **Shared Ember**, upgraded there to **Shared Ember: Warmth Returned**. Its permanent non-slot perk, **Kept in the Light**, follows an eligible Act III resolution.
+Romance concerns receiving care, desire, and a shared table without converting them into debt. Sworn friendship concerns two men sharing labor, watch, truth, and the right to call one another back.
 
-The sworn bond is a completely platonic promise between two men to name danger, return for the endangered, and tell the truth before shame becomes concealment. [[Watch Until Morning]] makes them sworn brothers through shared shelter work and a Long Watch lay custom. Its Bernard-only duo move is **No One Alone**, upgraded there to **No One Alone: Two Bearers**. Its permanent non-slot perk, **Last Watch**, follows an eligible Act III resolution.
-
-## Outcome Range
-
-Moral outcome and destination are separate.
-
-**Resolved:** Bernard completes meaningful restitution, keeps transparent safeguards, and refuses to use poverty or sacred power as immunity. He may be reinstated in the Long Watch, establish the [[Open Lamp Hospice]], or become a travelling hospitaller beside a committed romantic partner.
-
-**Compromised:** He performs real service and makes partial repair while retaining concealment, an undisclosed reserve, or dependence on another institution to manage every difficult choice.
-
-**Broken or departed:** He secretly hoards crisis supplies, steals from vulnerable people or the dead, destroys evidence, or claims that kindling absolves him. After a named confrontation and repair opportunity, he leaves and his sacred techniques may dim or close.
-
-Death remains possible only through an explicit, late, telegraphed sacrifice after a viable alternative is shown. No destination or outcome becomes future-setting canon.
+Friendship alone can reach his strongest moral outcome.
 
 ## Principal Foil
 
-[[Zafir ibn Samad]] is Bernard's principal foil. Bernard trusts voluntary vows, personal love, and care that exceeds procedure. Zafir trusts precise limits and enforceable form because good intentions cannot protect everyone. Bernard must admit that unstructured mercy can fail the hungry; Zafir must admit that a beautiful contract can still own a person.
+[[Zafir ibn Samad]] trusts systems because people may fail. Bernard trusts mercy because systems can become inhuman.
 
-[[Ashira bath Melan]] remains an important secondary contrast around ontology, burial, and whether precise knowledge is enough to govern moral use.
+Their best friendship refuses the easy split:
+
+- Zafir is not incapable of love;
+- Bernard is not too warm for exact accountability;
+- voluntary vows are not ownership;
+- procedural protection is not consent.
+
+## Faction Outlook
+
+- **Ducal/Marcher:** supports bounded service and civil law when soldiers cannot hide harm behind usefulness.
+- **Blackjacks/Medori:** favors Brina's solidarity and Lucia's reforms over Koss's predatory command.
+- **Church:** values Caestus and pastoral work; opposes secular immunity and false ordination.
+- **Folk:** respects Chapel-Folk dignity and practical shelter; rejects civilian murder and condescending mission work.
+- **Underworld:** values Low Lantern protection; rejects theft from the poor and Black Bell execution.
+
+## Seasonal Movement
+
+- **Autumn:** becomes beloved company and confronts the first visible relapse.
+- **Winter:** serves under scarcity, faces Petra, and discovers whether serious judgement ends affection.
+- **Spring:** builds or fails to build a hospice where care and inventory support one another.
+- **Summer:** serves Open Lamp, Long Watch, the Blackjack infirmary, a travelling household, or no trusted institution according to play.
+
+He cannot die autonomously. Sacrifice requires an explicit late player decision after alternatives visibly fail.
 
 ## Navigation
 
-- [[Bernard Field Familiarity and Relationships]]
 - [[Bernard Companion Campaign]]
-- [[Bernard Long Watch Greatsword Package]]
-- [[Bernard Compulsion and Accountability System]]
 - [[Bernard Banter and Reactivity]]
+- [[Bernard Compulsion and Accountability System]]
+- [[Bernard Long Watch Greatsword Package]]
+- [[Bernard Field Familiarity and Relationships]]
 - [[The Froststep Evacuation]]
-- [[Companion Constitution]]
+- [[Companion Archetype Constitution]]
+- [[Companion Archetype Chemistry Matrix]]
+- [[Companion Emotional Rewrite Audit]]
 - [[Companions MOC]]
-- [[Narrative State Register]]
-- [[Paladin]]
-- [[Grenzburg MOC]]

@@ -4,6 +4,11 @@ filters:
     - '!file.inFolder("99 Templates")'
     - status == "canon"
     - or:
+        - 'quest_class != "companion"'
+        - and:
+            - 'emotional_rewrite_status == "cleared"'
+            - 'dialogue_status == "approved"'
+    - or:
         - appears_in.contains("Grenzburg")
         - appears_in.contains("Caleran")
         - type == "quest"
@@ -20,6 +25,10 @@ properties:
     displayName: Region
   needs:
     displayName: Needs
+  emotional_rewrite_status:
+    displayName: Emotional Rewrite
+  dialogue_status:
+    displayName: Dialogue
 views:
   - type: table
     name: Game-Ready Content
@@ -30,3 +39,5 @@ views:
       - appears_in
       - region
       - needs
+      - emotional_rewrite_status
+      - dialogue_status

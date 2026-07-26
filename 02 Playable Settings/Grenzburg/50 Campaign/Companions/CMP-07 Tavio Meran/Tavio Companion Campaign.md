@@ -10,11 +10,15 @@ related_factions: ["Blackjack Corps", "Medori Bank", "Red Brass Bench", "The Cru
 appears_in: ["Grenzburg"]
 needs: []
 aliases: ["CMP-07 Campaign"]
-tags: [game-ready]
+tags: [production-control, narrative-rewrite]
 companion_id: "CMP-07"
 architecture_status: migrated
+emotional_rewrite_status: pending-paired-pass
+dialogue_status: pending-rewrite
 ---
 # Tavio Companion Campaign
+
+This note remains the structural authority for Tavio's sequence, deadlines, preparation, autonomy, and rewards. [[Companion Emotional Rewrite Audit]] now supersedes its scene-level emotional assumptions. It is not implementation-ready until the Ylva-Tavio paired pass clears its emotional and dialogue status.
 
 This is the controlling authority for Tavio Meran's eleven authored pieces, ten-piece playthrough ceiling, preparation ladders, autonomous decisions, changed re-entry, progression, and outcomes.
 

@@ -9,7 +9,7 @@ culture: ["Ättar", "Grey-Wolf", "Eclessian", "Folk"]
 related_factions: ["Blackjack Corps", "Duchy of Grenzburg"]
 appears_in: ["Grenzburg"]
 needs: []
-tags: [game-ready]
+tags: [narrative-rewrite]
 quest_class: companion
 act: summer
 availability_window: ["Playable Summer", "Postwar Cycle"]
@@ -50,6 +50,13 @@ identity_hooks: ["Ättar", "Folk", "Military", "Wilderness", "Peasant/Labour", "
 encounter_deck: []
 persistence_scope: postgame-permanent
 postgame_season: summer
+emotional_rewrite_status: preserve
+dialogue_status: pending-rewrite
+archetype_pressure: "Competence becomes self-erasure: test whether Ylva accepts shared agency without reading care as confinement."
+emotional_function: "Keep the settled pathfinder outcomes and visible consequence of accepting or rejecting relief"
+pleasure_beat: "Field competence, open weather, friendly contest, practical food, and quiet work done well."
+care_beat: "Ylva notices strain and shares practical work while leaving the other person real authority over risk."
+player_archetype_hooks: []
 ---
 # The Road She Chooses
 

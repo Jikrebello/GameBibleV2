@@ -9,7 +9,7 @@ culture: ["Sermoran", "Eclessian", "Chapel-Folk"]
 related_factions: ["Blackjack Corps"]
 appears_in: ["Grenzburg"]
 needs: []
-tags: [game-ready]
+tags: [narrative-rewrite]
 quest_class: companion
 act: act-1
 availability_window: ["Open Autumn", "Late Autumn", "Early Winter"]
@@ -50,6 +50,13 @@ identity_hooks: ["Sermoran", "Folk", "Peasant/Labour", "Merchant/Craft"]
 encounter_deck: []
 persistence_scope: character-persistent
 postgame_season: ""
+emotional_rewrite_status: preserve
+dialogue_status: pending-rewrite
+archetype_pressure: "Freedom becomes impermanence: test whether Ilyana can sustain a shared work after novelty and sole authorship fade."
+emotional_function: "Keep the city ramble, collection, credit, and playful public performance"
+pleasure_beat: "Improvised music, novelty, public performance, and turning strangers into a temporary chorus."
+care_beat: "Ilyana makes room for another person's tempo, authorship, continuity, and refusal."
+player_archetype_hooks: []
 ---
 # A Tune with No Owner
 

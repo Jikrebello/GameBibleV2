@@ -10,11 +10,15 @@ related_factions: ["Blackjack Corps", "Medori Bank", "House Velescar", "Vardek h
 appears_in: ["Grenzburg"]
 needs: []
 aliases: ["CMP-01 Campaign"]
-tags: [game-ready]
+tags: [production-control, narrative-rewrite]
 companion_id: "CMP-01"
 architecture_status: migrated
+emotional_rewrite_status: pending-paired-pass
+dialogue_status: pending-rewrite
 ---
 # Elara Companion Campaign
+
+This note remains the structural authority for Elara's sequence, deadlines, preparation, autonomy, and rewards. [[Companion Emotional Rewrite Audit]] now supersedes its scene-level emotional assumptions. It is not implementation-ready until the Elara-Ashira paired pass clears its emotional and dialogue status.
 
 This is the controlling authority for Elara Velescar's eleven authored campaign pieces, ten-piece playthrough ceiling, three act deadlines, preparation assets, autonomous decisions, changed re-entry, embedded opportunities, and progression rewards. [[Elara Velescar]] remains the character authority. [[Elara Field Familiarity and Relationships]] controls approval and intimacy, while [[Elara Delver-Duelist Package]] controls combat.
 

@@ -14,22 +14,45 @@ tags: [game-ready]
 ---
 # Companion Constitution
 
-This note controls Grenzburg's companion roster, field availability, approval, personal campaigns, relationships, departure, and ending treatment. [[Companion Campaign Architecture]] controls the eighty-eight authored pieces, seventy-four-piece playthrough ceiling, and party formats. [[Companion Autonomy and Act Convergence]] controls schedules, act deadlines, unassisted outcomes, and changed re-entry. [[Companion Field Familiarity and Duo Quest Standard]] controls shared history and staging. [[Companions MOC]] is the operational doorway. Individual and autonomous outcomes are playthrough states and do not become future-setting canon.
+This note controls Grenzburg's companion roster, field availability, approval, personal campaigns, relationships, departure, and ending treatment. [[Companion Archetype Constitution]] controls each companion's immediate emotional read, contradiction, shadow, and preserving lesson. [[Companion Dialogue and Scene Standard]] controls scene craft and voice. [[Player Temperament and Chemistry]] and [[Companion Archetype Chemistry Matrix]] control authored player-companion chemistry without replacing approval or morality. [[Companion Campaign Architecture]] controls the eighty-eight authored pieces, seventy-four-piece playthrough ceiling, and party formats. [[Companion Autonomy and Act Convergence]] controls schedules, act deadlines, unassisted outcomes, and changed re-entry. [[Companion Field Familiarity and Duo Quest Standard]] controls shared history and staging. [[Companions MOC]] is the operational doorway. Individual and autonomous outcomes are playthrough states and do not become future-setting canon.
 
 ## Fixed Roster
 
-| Companion | Vocation | Recruitment | Core fault | Strongest future |
-|---|---|---|---|---|
-| [[Elara Velescar]] | [[Slayer]], [[Elara Delver-Duelist Package|Delver-Duelist variant]] | Early Autumn | Elara converted the dead and the poor into resources for a house whose dignity mattered more to her than their consent. Vardek betrayed her, but he did not choose her first trespass. | She exposes Vardek, relinquishes the Velescar title, transfers viable land to its households, and establishes a burial-repair fund from recoverable family assets. She remains an adventurer without pretending that motion itself is restitution. |
-| [[Ilyana Veshkar]] | [[Bard]] | Black Road | She forged her troupe's approval, used control of bookings, instruments, and funds to make refusal ineffective, and treated one successful lawful prize as proof that they would eventually thank her. Morante's later abuse does not erase Ilyana's first coercion. | She returns individual property and authorship, releases every service and repertoire claim, accepts that restitution does not purchase reunion, and becomes an open-road Bard. |
-| [[Ylva Winter-Track]] | [[Hunter]] | Open Autumn, at Southbound Muster | She saved the White-Sled convoy by spending freight, then denied its crew the right to contest or share the consequences when she signed the entire Medori surety herself. She continues to hide limits and treat her own life as expendable equipment. | She accepts relief, distributes route knowledge and liability, leaves the final marker with the living, and becomes an independent pathfinder using openly shared contracts. |
-| [[Ashira bath Melan]] | [[Medium]] | Early Autumn | The raiders chose murder; their families did not. Simulating familiar faces to terrorize them was chosen collective punishment even though no human soul was captured. | She destroys the human-derived roster, documents the harm without metaphysical falsehood, and remains in Grenzburg as a scholar of nonhuman field patterns. |
-| [[Bernard Valeon]] | [[Paladin]] | Black Road | Childhood deprivation explains his compulsion, but he chose to cache relief stores, deny the shortage, and leave evacuees to suffer preventable frostbite. A vow of poverty cannot make secret possession harmless. | He names the urge before concealment, keeps reserves through witnessed stewardship, and chooses among accountable Long Watch service, the Open Lamp Hospice, travelling hospitaller work, or continued Blackjack service. |
-| [[Dismas Raben]] | [[Hunter]] | Black Road | The robbery was chosen, the premature rockfall was reckless, and abandoning trapped civilians was cowardice. Trauma is consequence, not supernatural punishment or exoneration. | He confesses publicly and accepts permanent marcher scout service under civil oversight. Victims owe no forgiveness; his future is useful and constrained rather than cleansed. |
-| [[Tavio Meran]] | [[Lancewright]] | Early Autumn | Maro offered the Fifth Ring; Tavio knew it exceeded the filed load, used it, maimed Lio during a lawful exchange, and accepted glory afterward. The Red Brass cover-up explains his opportunity, not his hand. | He exposes the Red Brass Bench, accepts a permanent arena ban, honours Lio's independent result, sounds the leak horn in time, and becomes an independent road examiner. |
-| [[Zafir ibn Samad]] | [[Binder]] | Early Autumn | His contracts placed persons under command. Limits and petitions reduced some harms but did not make ownership just. Samira's inversion is culpable coercion of him without retroactively making his system humane. | He cuts every living-person instrument he can reach, teaches ethical Binder practice, and returns to Iqashar to face clients and help void surviving restraints. |
+| Companion | Archetype | Vocation | Recruitment | Core fault | Strongest future |
+|---|---|---|---|---|---|
+| [[Elara Velescar]] | Cheerleader | [[Slayer]], [[Elara Delver-Duelist Package|Delver-Duelist variant]] | Early Autumn | Elara converted the dead and the poor into resources for a house whose dignity mattered more to her than their consent, then curated the expedition as a brave shared adventure. | She shares credit and social power, exposes Vardek, relinquishes the Velescar title, settles household and burial claims, and remains an adventurer. |
+| [[Ilyana Veshkar]] | Bohemian | [[Bard]] | Black Road | She forged her troupe's approval and treated continuity, common property, and refusal as restraints upon a brilliant plan. | She returns property and authorship, releases every claim, accepts that restitution cannot purchase reunion, and becomes an open-road Bard whose work can continue without her. |
+| [[Ylva Winter-Track]] | Tomboy | [[Hunter]] | Open Autumn, at Southbound Muster | She saved the White-Sled convoy, then denied its crew the right to share liability and continues to treat her own needs as a threat to autonomy. | She accepts care without domestication, distributes route knowledge and risk, and becomes an independent pathfinder using openly shared contracts. |
+| [[Ashira bath Melan]] | Goth | [[Medium]] | Early Autumn | She used recognizable human imprints to terrorize families who had not committed the raiders' crimes, then treated intimate knowledge as hers to preserve and interpret. | She relinquishes human likenesses, protects private grief, and remains an ethical witness and scholar of nonhuman field patterns. |
+| [[Bernard Valeon]] | Goofball | [[Paladin]] | Black Road | Childhood deprivation explains his compulsion, but warmth and jokes became part of how he delayed admitting that he cached relief stores and lied about the shortage. | He remains funny and loving while accepting judgement, names the urge before concealment, and serves through witnessed stewardship. |
+| [[Dismas Raben]] | Rebel | [[Hunter]] pending reassessment | Black Road | He chose robbery, triggered a reckless rockfall, and escaped while civilians carried the aftermath. | He builds a freely renewed commitment to people and roads, returns for consequences, and preserves rebellion without making abandonment its price. |
+| [[Tavio Meran]] | Jock | [[Lancewright]] | Early Autumn | He knowingly used the Fifth Ring, maimed Lio, and accepted glory because he equated carrying risk and winning with earning the right to impose it. | He accepts vulnerability and a permanent arena ban, honours other people's halts and results, and becomes an independent road examiner. |
+| [[Zafir ibn Samad]] | Nerd | [[Binder]] | Early Autumn | His elegant protections still placed persons under command, and his love of systems made bounded ownership look morally complete. | He cuts living-person instruments, preserves voluntary Binder craft, and learns that no optimized arrangement can manufacture consent. |
 
 The roster contains exactly four women and four men. It currently represents three starting vocations and four companion-earned advanced vocations: [[Slayer]], [[Hunter]], [[Medium]], [[Paladin]], [[Binder]], [[Bard]], and [[Lancewright]]. Both Ylva and Dismas use Hunter for now, with distinct rescue-scout and ambush-tracker identities. Dismas's vocation is reserved for reassessment during CMP-06. [[Fighter]] and [[Warlock]] remain starting player vocations without dedicated companion representatives. All companions are outsiders, carry distinct debtor histories, and are recruitable by the end of Open Autumn.
+
+## Archetype and Emotional Contract
+
+Each companion must read clearly within their first substantial scene, then complicate that read without discarding it. Archetype is an authorial operating system, never an in-world label or a claim about intelligence, morality, sex, attractiveness, or worth.
+
+Every companion bible controls:
+
+- a visible appetite and private pleasure;
+- a social currency they understand instinctively;
+- a specific humiliation they fear;
+- an unmistakable care language;
+- the point where their gift becomes a shadow;
+- a preserving lesson that matures the archetype without flattening it.
+
+At least two-thirds of ordinary companion material concerns present life, appetite, humor, competence, relationships, and the world around them. Direct discussion of the original wrong stays below one-third and normally below one-fifth of ambient material. Only the named past anchors in [[Companion Archetype Constitution]] may return physically; every other history reaches Grenzburg through memory, habits, records, distant news, or consequences.
+
+The twenty-eight companion pairs receive individual briefs in [[Companion Ensemble Pair Briefs]]. The four principal foil pairs receive autumn, winter, and spring exchange arcs. Their disagreements remain asymmetric and unfinished where a clean resolution would feel false.
+
+## Player Temperament Chemistry
+
+The player may develop one of eight hidden authored tendencies or remain grey. A primary tendency receives the full chemistry card for the current companion; a secondary tendency modifies one beat. Grey writing is complete baseline writing rather than missing characterization.
+
+Temperament may alter disclosures, jokes, attraction texture, arguments, trust language, and an occasional quest method. It never grants approval automatically, proves a moral position, determines intelligence, controls romance or bond eligibility, or gates a companion's strongest moral resolution.
 
 ## Recruitment Rhythm
 
@@ -153,6 +176,12 @@ Act III and [[Accounts of the Living]] settle each companion's destination. [[Po
 ## Navigation
 
 - [[Companions MOC]]
+- [[Companion Archetype Constitution]]
+- [[Companion Dialogue and Scene Standard]]
+- [[Companion Ensemble Pair Briefs]]
+- [[Companion Archetype Chemistry Matrix]]
+- [[Companion Emotional Rewrite Audit]]
+- [[Player Temperament and Chemistry]]
 - [[Companion Campaign Architecture]]
 - [[Companion Autonomy and Act Convergence]]
 - [[Companion Campaign Expansion Register]]

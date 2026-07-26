@@ -17,6 +17,24 @@ properties:
     displayName: Foil
   relationship_theme:
     displayName: Relationship Theme
+  archetype:
+    displayName: Archetype
+  voice_status:
+    displayName: Voice
+  emotional_rewrite_status:
+    displayName: Emotional Rewrite
+  dialogue_status:
+    displayName: Dialogue
+  archetype_pressure:
+    displayName: Archetype Pressure
+  emotional_function:
+    displayName: Emotional Function
+  pleasure_beat:
+    displayName: Pleasure Beat
+  care_beat:
+    displayName: Care Beat
+  player_archetype_hooks:
+    displayName: Player Archetype Hooks
   quest_owner:
     displayName: Quest Owner
   quest_sequence:
@@ -67,6 +85,9 @@ views:
       - sex
       - vocation
       - recruitment_window
+      - archetype
+      - voice_status
+      - emotional_rewrite_status
       - foil
       - relationship_theme
     sort:
@@ -88,6 +109,9 @@ views:
       - availability_window
       - architecture_status
       - blocking_status
+      - emotional_rewrite_status
+      - dialogue_status
+      - emotional_function
     sort:
       - property: companion_id
         direction: ASC
@@ -119,6 +143,8 @@ views:
       - autonomous_deadline
       - changed_reentry
       - blocking_status
+      - emotional_rewrite_status
+      - dialogue_status
     sort:
       - property: companion_id
         direction: ASC
@@ -167,8 +193,39 @@ views:
       - reward_unlocks
       - world_state_outputs
       - blocking_status
+      - emotional_rewrite_status
+      - dialogue_status
     sort:
       - property: companion_id
         direction: ASC
       - property: relationship_variant
+        direction: ASC
+  - type: table
+    name: Emotional Rewrite Queue
+    filters:
+      and:
+        - 'quest_class == "companion"'
+        - or:
+            - 'emotional_rewrite_status == "reframe"'
+            - 'emotional_rewrite_status == "replace"'
+            - 'dialogue_status != "approved"'
+    groupBy:
+      property: note.quest_owner
+      direction: ASC
+    order:
+      - companion_id
+      - quest_sequence
+      - file.name
+      - emotional_rewrite_status
+      - dialogue_status
+      - archetype_pressure
+      - emotional_function
+      - pleasure_beat
+      - care_beat
+      - player_archetype_hooks
+      - blocking_status
+    sort:
+      - property: companion_id
+        direction: ASC
+      - property: quest_sequence
         direction: ASC

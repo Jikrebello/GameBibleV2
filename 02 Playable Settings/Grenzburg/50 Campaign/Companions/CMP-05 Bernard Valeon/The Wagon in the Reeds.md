@@ -9,7 +9,7 @@ culture: ["Chapel-Folk", "Eclessian", "Thalmyric"]
 related_factions: ["Blackjack Corps", "Bent Oak households"]
 appears_in: ["Grenzburg"]
 needs: []
-tags: [game-ready]
+tags: [narrative-rewrite]
 quest_class: companion
 act: act-1
 availability_window: ["Open Autumn", "Late Autumn"]
@@ -49,6 +49,13 @@ identity_hooks: []
 encounter_deck: []
 persistence_scope: local-persistent
 postgame_season: ""
+emotional_rewrite_status: reframe
+dialogue_status: pending-rewrite
+archetype_pressure: "Warmth becomes evasion: test whether Bernard can remain funny and loving while accepting specific judgement."
+emotional_function: "Keep the school wagon and practical rescue; foreground Bernard's play, rapport with children, and fear when humor cannot solve the marsh"
+pleasure_beat: "Food, absurdity, road stories, children laughing, and companionship without ceremony."
+care_beat: "Bernard feeds, shelters, steadies, and tells the truth about what he takes or withholds."
+player_archetype_hooks: []
 ---
 # The Wagon in the Reeds
 

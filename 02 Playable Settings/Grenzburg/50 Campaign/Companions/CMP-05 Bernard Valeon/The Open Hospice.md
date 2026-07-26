@@ -9,7 +9,7 @@ culture: ["Thalmyric", "Kedravan", "Eclessian", "Folk"]
 related_factions: ["Order of the Long Watch", "Church of Grenzburg", "Blackjack Corps", "Folk Kindreds"]
 appears_in: ["Grenzburg"]
 needs: []
-tags: [game-ready]
+tags: [narrative-rewrite]
 quest_class: companion
 act: act-3
 availability_window: ["Early Spring", "Open Spring", "Muster Crisis"]
@@ -49,6 +49,13 @@ identity_hooks: []
 encounter_deck: []
 persistence_scope: regional-milestone
 postgame_season: ""
+emotional_rewrite_status: preserve
+dialogue_status: pending-rewrite
+archetype_pressure: "Warmth becomes evasion: test whether Bernard can remain funny and loving while accepting specific judgement."
+emotional_function: "Keep witnessed stores, mixed patients, triage, destination, and warned sacrifice"
+pleasure_beat: "Food, absurdity, road stories, children laughing, and companionship without ceremony."
+care_beat: "Bernard feeds, shelters, steadies, and tells the truth about what he takes or withholds."
+player_archetype_hooks: []
 ---
 # The Open Hospice
 

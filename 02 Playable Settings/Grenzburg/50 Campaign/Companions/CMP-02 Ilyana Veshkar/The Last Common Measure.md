@@ -9,7 +9,7 @@ culture: ["Sermoran", "Eclessian"]
 related_factions: ["Blackjack Corps", "The Salt-Reed Company", "Unending Muster"]
 appears_in: ["Grenzburg"]
 needs: []
-tags: [game-ready]
+tags: [narrative-rewrite]
 quest_class: companion
 act: act-3
 availability_window: ["Open Spring", "Muster Crisis"]
@@ -50,6 +50,13 @@ identity_hooks: ["Sermoran", "Military", "Scholarly", "Merchant/Craft", "Mystic/
 encounter_deck: []
 persistence_scope: regional-milestone
 postgame_season: ""
+emotional_rewrite_status: preserve
+dialogue_status: pending-rewrite
+archetype_pressure: "Freedom becomes impermanence: test whether Ilyana can sustain a shared work after novelty and sole authorship fade."
+emotional_function: "Keep the cadence engine and voluntary counter-performance, with emphasis on a work that survives its maker"
+pleasure_beat: "Improvised music, novelty, public performance, and turning strangers into a temporary chorus."
+care_beat: "Ilyana makes room for another person's tempo, authorship, continuity, and refusal."
+player_archetype_hooks: []
 ---
 # The Last Common Measure
 

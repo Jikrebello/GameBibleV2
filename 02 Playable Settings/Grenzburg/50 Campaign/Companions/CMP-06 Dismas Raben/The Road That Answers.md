@@ -9,7 +9,7 @@ culture: ["Eclessian", "Korrheim"]
 related_factions: ["Blackjack Corps"]
 appears_in: ["Grenzburg"]
 needs: []
-tags: [game-ready]
+tags: [narrative-rewrite]
 quest_class: companion
 act: act-3
 availability_window: ["Early Spring", "Muster Crisis"]
@@ -26,6 +26,13 @@ quest_sequence: 4
 companion_id: "CMP-06"
 faction_line: ""
 faction_branch: ""
+emotional_rewrite_status: reframe
+dialogue_status: pending-rewrite
+archetype_pressure: "Refusal becomes abandonment: test whether Dismas returns for the aftermath without treating commitment as captivity."
+emotional_function: "Keep the dead-march evacuation; replace institutional domestication with an independent commitment he must repeatedly renew"
+pleasure_beat: "Forbidden routes, irreverence, speed, audacious shortcuts, and puncturing pompous authority."
+care_beat: "Dismas returns for consequences, does the unglamorous cleanup, and gives others a real choice."
+player_archetype_hooks: []
 ---
 # The Road That Answers
 

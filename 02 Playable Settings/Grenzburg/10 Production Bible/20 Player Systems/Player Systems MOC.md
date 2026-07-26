@@ -15,7 +15,7 @@ tags: [game-ready]
 ---
 # Player Systems MOC
 
-This is the doorway to Grenzburg's narrative player systems. [[Player Character Constitution]] controls the protagonist and the non-negotiable rules. [[Player Identity Reactivity Matrix]] controls the campaign-wide recognition promise. The notes below explain what those rules mean for character creation, field play, progression, training, and the world.
+This is the doorway to Grenzburg's narrative player systems. [[Player Character Constitution]] controls the protagonist and the non-negotiable rules. [[Player Identity Reactivity Matrix]] controls the campaign-wide recognition promise. [[Player Temperament and Chemistry]] controls optional temperament creation, authored signals, Act III locking, and companion chemistry. The notes below explain what those rules mean for character creation, field play, progression, training, and the world.
 
 Exact damage, frame data, input mappings, probability curves, slot budgets, and final numerical balance are not canon here. They remain in [[Provisional Player Balance Appendix]] until production testing.
 
@@ -26,6 +26,7 @@ Exact damage, frame data, input mappings, probability curves, slot budgets, and 
 | Who is the player and what can change? | [[Player Character Constitution]] |
 | What is chosen at character creation? | [[Character Creation and Identity]] |
 | How often and how materially does the world recognize those choices? | [[Player Identity Reactivity Matrix]] |
+| How does authored temperament change companion chemistry? | [[Player Temperament and Chemistry]] |
 | What do the statistics mean? | [[Player Statistics and Resolution]] |
 | How do dialogue and knowledge checks work? | [[Social Skills and Knowledge]] |
 | How does conduct shape available commitments? | [[Virtue and Sin Tendencies]] |
@@ -41,6 +42,7 @@ Exact damage, frame data, input mappings, probability curves, slot budgets, and 
 
 - [[Character Creation and Identity]]
 - [[Player Identity Reactivity Matrix]]
+- [[Player Temperament and Chemistry]]
 - [[Player Statistics and Resolution]]
 - [[Social Skills and Knowledge]]
 - [[Virtue and Sin Tendencies]]
@@ -94,6 +96,7 @@ Exact damage, frame data, input mappings, probability curves, slot budgets, and 
 10. Human souls and coerced persons cannot become responsible Binder assets.
 11. Bard healing restores only recoverable Health, and Bardic compulsion never creates consent.
 12. Origin, background, and vocation choices receive material campaign recognition rather than cosmetic dialogue alone.
+13. Temperament is inferred only from authored expressive choices, always supports a complete grey profile, and never determines morality or relationship eligibility.
 
 ## Source Boundary
 

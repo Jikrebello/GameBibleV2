@@ -9,7 +9,7 @@ culture: ["Ahl-e-Ahd", "Iqashari"]
 related_factions: ["Blackjack Corps"]
 appears_in: ["Grenzburg"]
 needs: []
-tags: [game-ready]
+tags: [narrative-rewrite]
 quest_class: companion
 act: act-1
 availability_window: ["Open Autumn", "Early Winter"]
@@ -26,6 +26,13 @@ quest_sequence: 2
 companion_id: "CMP-08"
 faction_line: ""
 faction_branch: ""
+emotional_rewrite_status: replace
+dialogue_status: pending-rewrite
+archetype_pressure: "Understanding becomes control: test whether Zafir preserves consent when an elegant system would work better without it."
+emotional_function: "Replace the workshop injunction with a playable machine, logistics, or rescue problem that makes human choice physically consequential"
+pleasure_beat: "Puzzles, models, exact tools, technical discovery, and the pleasure of a clean explanation."
+care_beat: "Zafir solves concrete problems while preserving each person's right to refuse, revise, or leave the plan."
+player_archetype_hooks: []
 ---
 # Humane Terms
 

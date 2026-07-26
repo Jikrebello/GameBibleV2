@@ -9,7 +9,7 @@ culture: ["Sermoran"]
 related_factions: ["Blackjack Corps", "The Salt-Reed Company", "Medori Bank", "Grobi"]
 appears_in: ["Grenzburg"]
 needs: []
-tags: [game-ready]
+tags: [narrative-rewrite]
 quest_class: companion
 act: act-2
 availability_window: ["Early Winter", "Deep Winter"]
@@ -50,6 +50,13 @@ identity_hooks: ["Sermoran", "Merchant/Craft", "Military", "Underworld"]
 encounter_deck: ["Grenzburg Winter Quays"]
 persistence_scope: city-persistent
 postgame_season: ""
+emotional_rewrite_status: replace
+dialogue_status: pending-rewrite
+archetype_pressure: "Freedom becomes impermanence: test whether Ilyana can sustain a shared work after novelty and sole authorship fade."
+emotional_function: "Build a winter performance or signal operation about maintenance, repetition, and art serving people after novelty has passed"
+pleasure_beat: "Improvised music, novelty, public performance, and turning strangers into a temporary chorus."
+care_beat: "Ilyana makes room for another person's tempo, authorship, continuity, and refusal."
+player_archetype_hooks: []
 ---
 # Reeds Under Ice
 

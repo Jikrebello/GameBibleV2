@@ -10,11 +10,15 @@ related_factions: ["Blackjack Corps", "Order of the Long Watch", "Church of Gren
 appears_in: ["Grenzburg"]
 needs: []
 aliases: ["CMP-05 Campaign"]
-tags: [game-ready]
+tags: [production-control, narrative-rewrite]
 companion_id: "CMP-05"
 architecture_status: migrated
+emotional_rewrite_status: pending-paired-pass
+dialogue_status: pending-rewrite
 ---
 # Bernard Companion Campaign
+
+This note remains the structural authority for Bernard's sequence, deadlines, preparation, autonomy, and rewards. [[Companion Emotional Rewrite Audit]] now supersedes its scene-level emotional assumptions. It is not implementation-ready until the Bernard-Zafir paired pass clears its emotional and dialogue status.
 
 This is the controlling authority for Bernard Valeon's eleven authored campaign pieces, ten-piece playthrough ceiling, preparation ladders, autonomous decisions, changed re-entry, embedded opportunities, and progression rewards. [[Bernard Valeon]] remains the character authority. [[Bernard Field Familiarity and Relationships]] controls approval and intimacy, [[Bernard Compulsion and Accountability System]] controls finite theft incidents, and [[Bernard Long Watch Greatsword Package]] controls combat.
 

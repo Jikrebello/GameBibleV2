@@ -9,7 +9,7 @@ culture: ["Ahl-e-Ahd", "Iqashari"]
 related_factions: ["Blackjack Corps"]
 appears_in: ["Grenzburg"]
 needs: []
-tags: [game-ready]
+tags: [narrative-rewrite]
 quest_class: companion
 act: act-2
 availability_window: ["Deep Winter", "Early Spring"]
@@ -26,6 +26,13 @@ quest_sequence: 3
 companion_id: "CMP-08"
 faction_line: ""
 faction_branch: ""
+emotional_rewrite_status: reframe
+dialogue_status: pending-rewrite
+archetype_pressure: "Understanding becomes control: test whether Zafir preserves consent when an elegant system would work better without it."
+emotional_function: "Keep Samira as the sole returning anchor and the severance; give her independent aims beyond proving Zafir wrong"
+pleasure_beat: "Puzzles, models, exact tools, technical discovery, and the pleasure of a clean explanation."
+care_beat: "Zafir solves concrete problems while preserving each person's right to refuse, revise, or leave the plan."
+player_archetype_hooks: []
 ---
 # The Copyist's Answer
 

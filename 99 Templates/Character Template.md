@@ -20,6 +20,16 @@ foil: ""
 relationship_theme: ""
 relationship_perks: []
 architecture_status: ""
+archetype: ""
+archetype_desire: ""
+archetype_currency: ""
+archetype_humiliation: ""
+care_language: []
+archetype_shadow: ""
+preservation_lesson: ""
+past_anchor: ""
+voice_status: ""
+emotional_rewrite_status: ""
 embedded_opportunity_target: 0
 ensemble_inputs: []
 faction_line: ""
@@ -33,6 +43,33 @@ faction_branch: ""
 
 ## Private Truth
 
+## Archetype Engine
+
+### Immediate Read
+
+### Contradiction
+
+### Appetite and Private Pleasure
+
+### Humor and Embarrassment
+
+### Care Language
+
+### Shadow
+
+### Preserving Lesson
+
+## Voice Calibration
+
+- Joy:
+- Competence:
+- Anger:
+- Affection:
+- Shame:
+- Apology:
+- Silence:
+- Ordinary company life:
+
 ## Goals
 
 ## Resources
@@ -40,6 +77,8 @@ faction_branch: ""
 ## Vulnerabilities
 
 ## Relationships
+
+### Present-Day Grenzburg Relationships
 
 ## Seasonal or Plot Behavior
 
@@ -62,6 +101,16 @@ faction_branch: ""
 - Principal foil:
 - Relationship theme:
 - Architecture status:
+- Archetype:
+- Archetype desire:
+- Social currency:
+- Archetype humiliation:
+- Care language:
+- Archetype shadow:
+- Preserving lesson:
+- Past anchor:
+- Voice status:
+- Emotional rewrite status:
 - Embedded-opportunity target:
 - Ensemble inputs:
 - Faction line and branch:

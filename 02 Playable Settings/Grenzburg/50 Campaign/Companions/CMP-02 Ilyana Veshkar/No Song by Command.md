@@ -9,7 +9,7 @@ culture: ["Sermoran", "Chapel-Folk"]
 related_factions: ["Blackjack Corps", "The Salt-Reed Company"]
 appears_in: ["Grenzburg"]
 needs: []
-tags: [game-ready]
+tags: [narrative-rewrite]
 quest_class: companion
 act: act-1
 availability_window: ["Open Autumn", "Late Autumn"]
@@ -50,6 +50,13 @@ identity_hooks: ["Sermoran", "Folk", "Wilderness", "Military", "Drifter/Vagabond
 encounter_deck: []
 persistence_scope: regional-milestone
 postgame_season: ""
+emotional_rewrite_status: reframe
+dialogue_status: pending-rewrite
+archetype_pressure: "Freedom becomes impermanence: test whether Ilyana can sustain a shared work after novelty and sole authorship fade."
+emotional_function: "Keep forced performance and rescue; use a current local musician so refusal is immediate rather than another imported reckoning"
+pleasure_beat: "Improvised music, novelty, public performance, and turning strangers into a temporary chorus."
+care_beat: "Ilyana makes room for another person's tempo, authorship, continuity, and refusal."
+player_archetype_hooks: []
 ---
 # No Song by Command
 

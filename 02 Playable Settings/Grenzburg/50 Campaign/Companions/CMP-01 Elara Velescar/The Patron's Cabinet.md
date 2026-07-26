@@ -9,7 +9,7 @@ culture: ["Eclessian", "Virelian", "Sestaran"]
 related_factions: ["Duchy of Grenzburg", "Church of the Redeemer", "Medori Bank", "Vardek household", "Grenzburg underworld"]
 appears_in: ["Grenzburg"]
 needs: []
-tags: [game-ready]
+tags: [narrative-rewrite]
 quest_class: companion
 act: act-2
 availability_window: ["Deep Winter", "Early Spring"]
@@ -49,6 +49,13 @@ identity_hooks: []
 encounter_deck: []
 persistence_scope: campaign
 postgame_season: ""
+emotional_rewrite_status: reframe
+dialogue_status: pending-rewrite
+archetype_pressure: "Belonging becomes curation: test whether Elara shares social power or decides who deserves the room."
+emotional_function: "Keep the social heist and Vardek confrontation; center public belonging, humiliation, and Elara's willingness to lose status by naming her conduct"
+pleasure_beat: "Social sparkle, discovery, elegant risk, and making a temporary company feel chosen."
+care_beat: "Elara shares credit, access, attention, and protection without making gratitude the price of belonging."
+player_archetype_hooks: []
 ---
 # The Patron's Cabinet
 

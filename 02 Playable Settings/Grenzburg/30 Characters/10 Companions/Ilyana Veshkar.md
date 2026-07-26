@@ -15,224 +15,319 @@ tags: [game-ready]
 companion_id: "CMP-02"
 sex: woman
 vocation: "Bard"
+combat_variant: "Harmonic Support"
 recruitment_window: "Black Road"
+home_base: "Blackjack Yard"
 foil: "Dismas Raben"
 relationship_theme: "a voice freely answered"
+relationship_perks: ["One Listener", "Equal Voices"]
+archetype: "Bohemian"
+archetype_desire: "freedom through self-creation and possibility"
+archetype_currency: "making new beauty, identities, and emotional permission"
+archetype_humiliation: "routine, possession, creative redundancy, or becoming somebody else's ornament"
+care_language: ["imaginative attention", "invitation", "improvisation", "emotional permission"]
+archetype_shadow: "treating promises, maintenance, and other people's limits as enemies of inspiration"
+preservation_lesson: "chosen commitment protects freedom from becoming drift"
+past_anchor: "Mirella Corsi"
+voice_status: calibrated
+emotional_rewrite_status: bible-locked
 architecture_status: migrated
 ---
 # Ilyana Veshkar
 
-## Companion Contract
+## Immediate Read
 
-Ilyana Veshkar is a thirty-one-year-old Sermoran Bard, former leader of the [[The Salt-Reed Company|Salt-Reed Company]], and one of Grenzburg's eight full companions.
+Ilyana can make a room feel as though it has another door.
 
-She is an outsider debtor serving as a Blackjack specialist. She begins the game inside the same service structure as the player and never becomes a chosen herald, army commander, or mandatory solution to the campaign.
+She arrives in a weathered jewel-toned coat with a keyed double flute, dark curls escaping their pins, and an idea that will either save the evening or make it much more difficult to explain. She speaks to strangers as though they have already agreed to be interesting.
+
+Her gift is possibility. Her danger is assuming that possibility belongs to the person who named it first.
+
+## Character Thesis
+
+Ilyana establishes worth through self-creation. She wants to make art, identities, moods, and forms of life that did not exist before she entered the room.
+
+At her best, she gives people permission to improvise beyond the role assigned to them. At her worst, she treats continuity as stagnation, refusal as fear, and other people as performers inside the story of freedom she is creating.
+
+Her resolved arc does not make her orderly, cautious, or artistically respectable. She learns that rehearsal, credit, maintenance, and chosen promises can protect invention from becoming one charismatic person's appetite.
+
+## Identity
+
+- **Age:** thirty-one in 1360 AR.
+- **Origin:** Sermora, born to Thalmyric migrant parents and formed by Sermoran street, canal, and performance culture.
+- **Current standing:** Medori restitution debtor, Blackjack Bard, and former Salt-Reed company leader.
+- **Public style:** fearless performer, improviser, and social permission-giver.
+- **Private contradiction:** she wants every voice free and becomes frightened when a free voice chooses a future without her.
+- **Present ambition:** to create a body of open-road music that may be changed, credited, and carried after she has left.
 
 ## Appearance
 
-Ilyana is lean, dark-eyed, and visibly animated even while standing still. Thick dark curls are usually pinned badly enough that weather eventually wins. She wears:
+Ilyana is lean, dark-eyed, and visibly animated even while standing still. Thick dark curls are pinned badly enough that weather eventually wins.
+
+She wears:
 
 - a weathered jewel-toned field coat cut in Sermoran canal fashion;
-- layered scarves used for warmth, instrument wrapping, and splints;
+- layered scarves used for warmth, wrapping, splints, decoration, and changing the apparent mood of the same coat;
 - practical dark boots;
-- finger rings for timing and breath counts rather than wealth;
-- a brass-and-darkwood keyed double flute in a reinforced side case.
+- finger rings for breath counts and rhythm;
+- a brass-and-darkwood keyed double flute in a scarred case;
+- ribbons, chalk, tuning wire, wax, and folded scraps bearing unfinished phrases.
 
-Her clothes are repaired with deliberately mismatched thread. She likes beauty that admits it has travelled.
+Nothing matches accidentally. Much of it no longer matches deliberately either.
 
-## Voice and Presence
+## Sermoran Formation
 
-Ilyana speaks quickly when delighted and slowly when she is trying not to direct somebody. She enjoys crowded rooms, bad musicians with nerve, improvised routes, overheard rhythms, and the moment a frightened group begins moving together.
+Ilyana grew up around migrant households, canal labor, privateering stories, public music, competing languages, and art that had to earn its floor space every night.
 
-She is playful without being unserious. Her humor invites participation rather than demanding that every sincere moment be punctured.
+She learned early that:
 
-In danger she becomes exact:
+- style can create social permission;
+- a performance can make unrelated people act like a temporary public;
+- the person who announces the next measure often becomes leader without formal election;
+- leaving before the audience tires of you feels like control.
 
-- who holds;
-- who moves;
-- which signal means stop;
-- what the group can survive.
+She considers herself Sermoran. Her Thalmyric inheritance appears in family music, prayer cadences, and instinctive familiarity rather than a second public identity.
 
-Her flaw appears when she stops asking and begins assigning.
+## The Salt-Reed Company
 
-## Origin
+Ilyana founded the five-person Salt-Reed Company with:
 
-Ilyana was born in Sermora to Thalmyric migrant parents. Her surname, household prayers, and several childhood foods are Thalmyric. Her civic identity, accent, education, artistic tradition, legal expectations, and ordinary life are Sermoran.
+- **Mirella Corsi**, singer, principal composer, and scorekeeper;
+- **Nereo Valdo**, frame-drum player and road manager;
+- **Celia Orsani**, bowed-viol player and instrument mender;
+- **Tomas Marin**, horn player and elemental-cadence specialist.
 
-She learned music through dockside processions, salon apprenticeships, ship signals, and private harmonic instruction. She can read a prize manifest, tune a fog cadence against canal weather, identify a false applause line, and tell which audience has not been paid.
+The company was good. They did not merely survive Ilyana's leadership; they made work none of them could have made alone.
 
-She is not Vlastravan and has no former military commission.
+That success became part of Ilyana's self-myth. When the troupe considered shorter seasons, individual work, and a less dangerous route, she heard the beginning of an ending.
 
-## The Salt-Reed Wrong
+## The Gilded Wake Wrong
 
-Ilyana founded the five-person Salt-Reed Company with [[Mirella Corsi]], [[Nereo Valdo]], [[Celia Orsani]], and [[Tomas Marin]].
+Ilyana forged the company's approval for an exclusive season with Patron-Captain Caterina Morante. She controlled bookings, common funds, transport, and access to several instruments, making refusal materially difficult even before the forgery.
 
-When [[Patron-Captain Caterina Morante]] offered an exclusive privateer season, all four companions refused. Ilyana forged their approvals, used control of bookings, common funds, and instrument cases to make refusal ineffective, and told herself they would be grateful once the opportunity succeeded.
+The troupe completed one lawful privateer action. They then refused further service.
 
-The first prize action was lawful and successful. The others still refused further service. Morante then knowingly exploited the forgery and attempted to hold them to the engagement.
+Morante initially believed Ilyana had authority. After discovering the forgery, she knowingly exploited it. Privateering itself is not the wrong. Forged consent, economic control, and continued service after refusal are.
 
-Ilyana never used battle compulsion on her troupe. Her wrong was not supernatural:
+Ilyana used no magical compulsion. She did not need it.
 
-- she forged consent;
-- converted shared custody into personal command;
-- used friendship and common ambition as leverage;
-- treated success as retroactive permission;
-- resisted accepting that repair might end the company.
+The resulting claims, damage, forgery restitution, and broken-service surety were purchased by Medori.
 
-## Debt
+Mirella is the sole former troupe member who may physically return in Grenzburg. Nereo, Celia, Tomas, and Morante remain present through letters, scores, testimony, agents, and consequences rather than converging on the frontier.
 
-The collapse created instrument damage, cancellation losses, forgery restitution, and broken-service claims. A Sermoran court separated Ilyana's liability from Morante's later abuses and from the four performers who had refused.
+## Culpability
 
-Medori purchased Ilyana's personal restitution and criminal surety. Her keyed double flute is issued Blackjack equipment based on a Sermoran design; it is not stolen Salt-Reed property.
+Ilyana's controlling excuse is:
 
-## Central Lie and Need
+> “They needed someone willing to choose the next measure.”
 
-**Lie:** "They needed someone willing to choose the next measure."
+The company needed decisions. It did not need Ilyana to counterfeit agreement.
 
-**Need:** Talent, love, urgency, and good outcomes never turn another person's refusal into consent.
+Her deeper fear was not danger. It was that a season might end and the people she loved might discover identities in which she was no longer the beginning.
 
-Ilyana must learn to:
+## Appetite
 
-- make a viable plan that does not require another person's coerced participation;
-- distinguish an invitation from an assignment;
-- return instruments, scores, credit, and wages to their owners;
-- accept that restitution does not purchase forgiveness or reunion;
-- remain joyful and decisive without making herself proprietor of the ensemble.
+Ilyana loves:
 
-## Desires and Fears
+- songs heard through walls;
+- repainting a familiar room for one night;
+- strangers who agree to perform badly;
+- canal lights, rooftop acoustics, markets at closing, and roads at first light;
+- clothing altered in front of its owner;
+- improvised meals whose recipe cannot be repeated;
+- instruments repaired with visible history;
+- the first rehearsal after somebody says, “I do not know how.”
 
-Ilyana wants:
+She dislikes fixed seating, inherited taste, patrons who call possession “support,” artists who despise audiences, and practical people who conceal their own artistry by calling it necessity.
 
-- to perform work that changes what a group can survive;
-- to be remembered for a sound nobody else could have made;
-- to keep the people she loves close;
-- to unlock Bard for the player through genuine shared practice;
-- to discover whether she can lead without owning the answer.
+## Humor and Embarrassment
 
-She fears:
+Ilyana's humor is theatrical but not always performed. She delights in overcommitting to a small premise until somebody else joins.
 
-- an empty room after the final note;
-- being replaceable;
-- hesitation causing preventable death;
-- hearing the Salt-Reeds perform happily without her;
-- that accepting refusal means accepting she was never necessary.
+She is embarrassed by:
 
-## Habits
+- an audience remaining silent after she expected delight;
+- forgetting a practical promise;
+- another artist improving a piece she introduced;
+- being unable to repair her own instrument;
+- realizing that a person wants routine with her;
+- somebody seeing how carefully she records criticism she claims not to mind.
 
-- Tests a room's echo under her breath before sitting.
-- Gives objects temporary rhythm names and forgets their proper labels.
-- Pays street performers before offering criticism.
-- Repairs reeds while listening to arguments.
-- Leaves doors open during rehearsal unless privacy is explicitly requested.
-- Counts frightened breathing and unconsciously matches it until the person steadies.
-- Asks "Ready?" more often as her campaign resolves.
+Embarrassment makes her describe the room, weather, or light as though they caused the problem.
 
-## Moral Limits
+## Care
+
+Ilyana shows care by:
+
+- noticing what form of expression a person has been denied;
+- giving someone a role they did not know they could attempt;
+- composing around another person's rhythm;
+- altering a space so a frightened group can breathe;
+- making private beauty for one listener;
+- lending courage without demanding sameness.
+
+Her care becomes coercive when invitation turns into momentum nobody is permitted to stop.
+
+## Fear, Shadow, and Preserving Change
+
+Ilyana fears routine as evidence that creative life has ended. She fears possession and also fears becoming unnecessary.
+
+Her shadow appears when she:
+
+- treats maintenance as somebody else's lesser talent;
+- calls a broken promise spontaneity;
+- makes another person's refusal part of her own dramatic suffering;
+- claims shared work through charisma;
+- assumes fear of change is the only reason to say no.
+
+Her resolved self remains an open-road performer. She learns to credit, rehearse, maintain, ask again, accept endings, and create work whose continuation does not require her control.
+
+## Voice
+
+Ilyana speaks in sensory metaphor, changes rhythm with mood, and asks questions that invite a person to imagine another version of themselves.
+
+She says:
+
+- “That room has been beige for too long.”
+- “Again, but this time leave somewhere for her to answer.”
+- “You heard a mistake. I heard a door with poor hinges.”
+- “No audience. Just you. That is more frightening, actually.”
+
+Under pressure she turns conversation into performance and may crowd out the answer. When sincerely listening, she becomes physically still before becoming verbally quiet.
+
+Her voice obeys [[Companion Dialogue and Scene Standard]].
+
+## Present-Day Grenzburg
+
+### Blackjack Yard
+
+Ilyana runs voluntary warm-ups, teaches signal cadences, and transforms occasional suppers into performances. [[Quartermaster Brina Kest|Brina Kest]] requires her to name who will clean, inventory, and close after the event. Ilyana initially considers this hostility to art.
+
+### Mercy Work
+
+[[Sister Marcellina]] uses Ilyana's fog, cadence, and crowd control during casualty movement while refusing any spell that replaces a patient's answer. Ilyana learns that repetition can be an act of care rather than artistic death.
+
+### Hammer Ward
+
+[[Proof-Mistress Hella Dorn|Hella Dorn]] understands breath, resonance, material fatigue, and the discipline inside performance. She will repair an instrument only if Ilyana remains for the boring parts and can explain what failed without blaming weather.
+
+### Low Lanterns
+
+[[Mara Senn]] appreciates performance as camouflage and social bridge. Ilyana likes the Low Lanterns' mobile identities and must confront how easily an artist can make criminal danger look romantic to people carrying the actual risk.
+
+## Company Routine
+
+At camp Ilyana:
+
+- tunes while other people argue and occasionally changes key to influence the argument;
+- trades scarf arrangements for stories;
+- invites one person at a time into low-stakes performance;
+- forgets where she put practical objects and remembers exactly who laughed at a particular line;
+- starts traditions before checking whether anyone wants a second occurrence;
+- leaves unfinished tunes for other companions to complete.
+
+She notices being recruited only for magical support and becomes delighted when chosen for a social disaster, a strange view, or an ordinary evening.
+
+## Combat and Harmonic Shellcraft
+
+Ilyana uses the advanced [[Bard]] vocation.
+
+Her keyed double flute shapes harmonic Shellcraft through breath, interval, repeated structure, and Resonance. She provides:
+
+- protective or obscuring fog;
+- movement and endurance refrains;
+- recoverable-health restoration;
+- group elemental enchantments;
+- vulnerability and counterphrases;
+- roar or spell interruption;
+- pressure-note self-defence.
+
+Bard healing restores only recoverable health. It does not revive, replace tissue, cure disease, cleanse spiritual corruption, or imitate White Flame.
+
+Compulsion remains bounded and morally serious. Fascination, fear, sleep, emotional pressure, or a brief command may be lethal force depending on use. Music cannot manufacture consent, memory, love, or permanent belief.
+
+## Approval and Moral Limits
 
 Ilyana approves of:
 
-- explicit and revocable consent;
-- competent rescue under pressure;
-- sharing credit and naming sources;
-- refusing an order at real cost;
-- using decisive force against an active threat;
-- preserving artistic and technical knowledge without seizing its owners.
+- experimentation with informed participants;
+- credit that follows actual creation;
+- making room for an unexpected answer;
+- beauty serving frightened or excluded people;
+- commitments that may be renewed or ended honestly;
+- preserving another person's work without owning it.
 
 She opposes:
 
-- slavery, hostage service, and inherited ownership;
-- manufactured consent;
-- using compulsion on civilians or companions;
-- collective punishment;
-- taking performers' instruments or authorship as patron property;
-- treating an emergency as permanent jurisdiction;
-- fleeing responsibility after claiming command.
+- forged agreement;
+- patrons treating artists as possessions;
+- routine contempt for art or play;
+- magical compulsion used on companions, civilians, captives, or performers;
+- using urgency to erase refusal;
+- destroying shared work because she cannot remain its centre.
 
-Battle compulsion against active enemies is a dangerous weapon. Ilyana does not pretend otherwise.
+## Companion Campaign Direction
 
-## Combat
+[[Ilyana Companion Campaign]] retains eleven pieces. [[Companion Emotional Rewrite Audit]] replaces the most procedural property stories and restricts the physically returning past cast to Mirella.
 
-Ilyana uses the [[Ilyana Harmonic Support Package|Sermoran Field Bard package]]:
+Her campaign must move through:
 
-- one, later two, refrains centered on herself;
-- one, later two, designated Lead allies;
-- protective, obscuring, marching, and mending fogs;
-- group fire, ice, lightning, and corrosive weapon cadences;
-- weakness descants and counterphrases;
-- pressure notes, stagger cones, and fog-step evasion;
-- bounded battle compulsion.
-
-She carries no melee weapon. Every player vocation remains capable of protecting itself and completing critical routes without her.
-
-## Recruitment and Company Life
-
-Ilyana appears during [[The Black Road Main Quest|The Black Road]] as a debtor-convoy specialist trying to keep frightened people moving without formal authority. She joins party management after [[Warrant at the Gate]].
-
-At the Blackjack Yard she:
-
-- tunes near the open yard rather than inside sleeping quarters;
-- helps drill nonverbal retreat and casualty signals;
-- performs for food queues only after asking the queue keeper;
-- trades Sermoran gossip for instrument materials;
-- refuses Koss's requests for morale compulsion;
-- becomes a visible point of contact for foreign performers arriving in Grenzburg.
-
-## Companion Campaign
-
-[[Ilyana Companion Campaign]] controls eleven authored pieces:
-
-1. [[Five Cases at Customs]]
-2. [[The Road Without a Conductor]]
-3. [[No Song by Command]]
-4. [[A Tune with No Owner]]
-5. [[Reeds Under Ice]]
-6. [[The Free Refrain]]
-7. [[One Private Song]] or [[Duet Without a Conductor]]
-8. [[Every Case Its Owner]]
-9. [[The Last Common Measure]]
-10. [[The Road Takes the Song]]
-
-The relationship variants share sequence seven and are mutually exclusive, so one playthrough contains at most ten pieces.
-
-## Approval and Direction
-
-Approval is shown as **Guarded**, **Open**, **Trusted**, or **Strained**. Campaign direction is separately recorded as `consensual`, `mixed`, or `entitled`.
-
-Approval measures the relationship with the player. Direction measures what Ilyana actually does with power. Affection cannot convert entitlement into resolution.
+1. the intoxicating experience of Ilyana making a group more possible;
+2. a present performer whose refusal she cannot rewrite as fear;
+3. creative work requiring maintenance after the exciting part;
+4. friendship built from credit, play, and local music;
+5. Mirella arriving with independent aims rather than a demand to complete Ilyana's lesson;
+6. voluntary winter performance under real pressure;
+7. relationship episodes that distinguish one listener from an audience and equality from shared drift;
+8. a final work that may survive, change, or reject its maker.
 
 ## Relationships
 
-Ilyana is heterosexual. A male player may pursue romance through [[One Private Song]]. A female player may pursue a strictly platonic sworn bond through [[Duet Without a Conductor]].
+Ilyana is heterosexual. A male player may pursue romance; a female player may form the exclusive sworn bond.
 
-Commitment requires Trusted approval and personal completion of [[The Free Refrain]]. Friendship remains sufficient for her strongest moral outcome and Bard progression.
+Romance concerns making something private for one listener and negotiating a future that is not another season contract. Sworn friendship concerns equal creation in which neither woman conducts the other.
+
+Friendship alone can produce her strongest moral outcome.
 
 ## Principal Foil
 
-[[Dismas Raben]] is Ilyana's principal foil. Ilyana controls when afraid; Dismas leaves when afraid. Each recognizes the other's temptation:
+[[Dismas Raben]] shares her appetite for freedom and movement. Ilyana gives rebellion culture; Dismas gives invention nerve.
 
-- she can turn responsibility into ownership;
-- he can turn freedom into abandonment.
+Their foil must reveal what neither likes to do:
 
-Their strongest shared lesson is that someone must hold and someone must return, and neither role grants command over the other.
+- maintain;
+- return;
+- apologize after the interesting part;
+- build something that continues when they are absent.
 
-## Outcome Range
+## Faction Outlook
 
-**Resolved:** Ilyana returns individual property and credit, releases every service and repertoire claim, accepts separation without bargaining for affection, and becomes an open-road Bard.
+- **Ducal/Marcher:** respects emergency coordination when roles remain revocable; fears becoming an official voice.
+- **Blackjacks/Medori:** supports Brina's debtor culture and opposes Koss's ownership of specialist talent.
+- **Church:** values song, mourning, and sanctuary; rejects imposed confession and institutional ownership of beauty.
+- **Folk:** respects local songs and route traditions only when credit and authority remain with living communities.
+- **Underworld:** admires Low Lantern invention; rejects Black Bell spectacle and danger romanticized for people without an exit.
 
-**Compromised:** She releases personal service but retains disputed common repertoire or submits her judgement to an external civic supervisor. She provides useful service without fully learning independent restraint.
+## Seasonal Movement
 
-**Broken or departed:** She conceals releases, claims the company name or scores as her own, uses compulsion on a non-hostile person, or joins Morante's replacement enterprise. Departure requires a warned conflict and refused repair.
+- **Autumn:** makes the Blackjacks larger than their contracts and confronts the first present refusal.
+- **Winter:** discovers whether repeated service can remain art and whether Mirella may answer without returning.
+- **Spring:** creates work meant to continue without her command.
+- **Summer:** becomes an open-road artist, supervised civic signal-Bard, proprietary company leader, or departed performer according to play.
 
-No outcome becomes future-setting canon. Ilyana cannot die autonomously.
+She cannot die autonomously.
 
 ## Navigation
 
 - [[Ilyana Companion Campaign]]
-- [[Ilyana Field Familiarity and Relationships]]
-- [[Ilyana Harmonic Support Package]]
 - [[Ilyana Banter and Reactivity]]
+- [[Ilyana Harmonic Support Package]]
+- [[Ilyana Field Familiarity and Relationships]]
+- [[The Salt-Reed Company]]
+- [[The Gilded Wake Season]]
 - [[Bard]]
 - [[Harmonic Shellcraft]]
-- [[Companion Constitution]]
+- [[Companion Archetype Constitution]]
+- [[Companion Archetype Chemistry Matrix]]
+- [[Companion Emotional Rewrite Audit]]
 - [[Companions MOC]]
-- [[Grenzburg MOC]]

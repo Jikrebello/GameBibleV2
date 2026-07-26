@@ -10,11 +10,15 @@ related_factions: ["Blackjack Corps", "Medori Bank"]
 appears_in: ["Grenzburg"]
 needs: []
 aliases: ["CMP-03 Campaign"]
-tags: [game-ready]
+tags: [production-control, narrative-rewrite]
 companion_id: "CMP-03"
 architecture_status: migrated
+emotional_rewrite_status: pending-paired-pass
+dialogue_status: pending-rewrite
 ---
 # Ylva Companion Campaign
+
+This note remains the structural authority for Ylva's sequence, deadlines, preparation, autonomy, and rewards. [[Companion Emotional Rewrite Audit]] now supersedes its scene-level emotional assumptions. It is not implementation-ready until the Ylva-Tavio paired pass clears its emotional and dialogue status.
 
 This is the controlling authority for Ylva Winter-Track's eleven authored pieces, ten-piece playthrough ceiling, preparation ladders, deterministic autonomy, changed re-entry, progression, and outcomes.
 

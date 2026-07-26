@@ -3,283 +3,298 @@ type: character
 status: canon
 canon_level: local
 visibility: author-only
-era:
-  - Present Day
-region:
-  - Grenzburg
-  - Virelia
-culture:
-  - Eclessian
-  - Virelian
-related_factions:
-  - Blackjack Corps
-  - Medori Bank
-  - House Velescar
-  - Vardek household
-appears_in:
-  - Grenzburg
+era: ["Present Day"]
+region: ["Grenzburg", "Virelia"]
+culture: ["Eclessian", "Virelian"]
+related_factions: ["Blackjack Corps", "Medori Bank", "House Velescar", "Vardek household"]
+appears_in: ["Grenzburg"]
 needs: []
-aliases:
-  - Lady Elara
-tags:
-  - game-ready
-companion_id: CMP-01
+aliases: ["Lady Elara"]
+tags: [game-ready]
+companion_id: "CMP-01"
 sex: woman
-vocation: Slayer
-combat_variant: Delver-Duelist
-recruitment_window: Early Autumn
-home_base: Blackjack Yard
-foil: Ashira bath Melan
-relationship_theme: adventure between equals
-relationship_perks:
-  - Equal Footing
-  - Witness at My Back
+vocation: "Slayer"
+combat_variant: "Delver-Duelist"
+recruitment_window: "Early Autumn"
+home_base: "Blackjack Yard"
+foil: "Ashira bath Melan"
+relationship_theme: "adventure between equals"
+relationship_perks: ["Equal Footing", "Witness at My Back"]
+archetype: "Cheerleader"
+archetype_desire: "exemplary belonging and social influence"
+archetype_currency: "making people feel chosen, capable, and visible"
+archetype_humiliation: "public exclusion or proof that her importance was ornamental"
+care_language: ["introductions", "public advocacy", "morale", "praise", "occasion-making"]
+archetype_shadow: "curating inconvenient people out of the story and mistaking popularity for virtue"
+preservation_lesson: "belonging becomes durable when social power is shared"
+past_anchor: "Marek Vardek"
+voice_status: calibrated
+emotional_rewrite_status: bible-locked
+architecture_status: migrated
 ---
 # Elara Velescar
 
+## Immediate Read
+
+Elara Velescar is the person who can make a wet march, an ugly ruin, and four exhausted debtors feel like the beginning of a famous expedition.
+
+She remembers names after one introduction. She praises people in front of the person whose opinion matters. She can turn a meal queue into a table, a frightened crew into a team, and a room that has decided somebody is ridiculous into a room waiting to hear what that person says next.
+
+Her brightness is not innocence. It is social force.
+
 ## Character Thesis
 
-Elara is a twenty-eight-year-old Virelian sabre-right noblewoman, skilled delver, and Medori debtor who converted graves and vulnerable labor into money when [[House Velescar]] began to fail. [[Lord Marek Vardek]] exploited and betrayed her, but he did not choose her first trespass.
+Elara seeks worth through exemplary belonging. She wants to be the woman at the centre of a brave, beautiful, admired undertaking and to make the people around her feel elevated by participating in it.
 
-She should be one of Grenzburg's most enjoyable companions to travel with: curious, polished, physically daring, amused by difficult doors, and sincerely delighted when another person does something clever. Her guilt gives the story weight without replacing her personality.
+At her best, she notices exclusion before anyone else and spends status to correct it. At her worst, she decides who belongs, who receives credit, and which inconvenient person may be left backstage so the shared story remains glorious.
 
-Elara's question is not whether she must stop being feminine, cultivated, or adventurous to become good. It is whether she can surrender the belief that her lineage makes other people's property, labor, or dead available when the house is in danger.
+Her story is not about becoming less feminine, less social, less ambitious, or less delighted by adventure. It is about learning that a company is not generous merely because she has made membership desirable.
 
 ## Identity
 
-| Field | Canon value |
-|---|---|
-| Full name | Elara Velescar |
-| Age | 28 in 1360 AR; born 1332 AR |
-| Culture | Virelian Eclessian |
-| Class | poor sabre-right nobility |
-| Legal condition | Medori-owned criminal and restitution surety; assigned to the Blackjack Corps |
-| Field role | Slayer, Delver-Duelist variant |
-| Home base | Blackjack Yard after Warrant at the Gate |
-| Languages and registers | Virelian household speech, western Eclessian court diction, burial and heraldic terminology |
-| Relationship theme | adventure between equals |
+- **Age:** twenty-eight in 1360 AR.
+- **Origin:** a failing Virelian sabre-right house.
+- **Current standing:** Medori restitution debtor and Blackjack delver.
+- **Public style:** polished noblewoman, fearless expedition host, and conspicuously competent field companion.
+- **Private contradiction:** she wants an equal company but instinctively arranges every company around herself.
+- **Present ambition:** to become the kind of explorer whose discoveries make living custodians stronger rather than invisible.
 
 ## Appearance
 
-Elara is lean, long-limbed, and visibly accustomed to climbing rather than parade-ground exercise. Her hair is a bright, almost metallic blonde and her eyes are clear green. She wears her hair pinned and braided for field work, with the style becoming progressively less perfect over a long expedition.
+Elara is bright blonde, green-eyed, and deliberately well presented even when everything she owns has been repaired twice. She powders her face lightly, wears tasteful colour around the eyes and mouth, and treats grooming as ordinary discipline rather than a confession of vanity.
 
-She powders her face and wears restrained eye and lip color even in the Blackjack Yard. This is not a false mask waiting to be discarded. Grooming is pleasure, class habit, self-command, and a small refusal to let debt service decide what she is allowed to look like. In a hard delve the powder streaks, the braid loosens, and she repairs both at the next safe moment without embarrassment.
+Her field clothes preserve the line of Virelian court dress without pretending to be court clothes:
 
-Her field wardrobe combines a bottle-green tailored coat, ivory collar, dark fitted leather, reinforced gloves, practical trousers beneath split riding skirts, and high boots with climbing support. Brass and old Velescar silver appear only in small repaired fittings. She carries:
+- a fitted riding coat with replaced cuffs;
+- split skirts or narrow field trousers according to the route;
+- high boots, soft gloves, and a practical climbing harness;
+- a rapier, compact delver's pick, throwing knives, poison darts, chalk, cord, and survey tools;
+- one good brooch repeatedly moved to whichever garment is least damaged.
 
-- a narrow rapier suited to thrust, feint, and parry;
-- a compact delver's pick at the left hip;
-- balanced throwing knives across the back of her belt;
-- a protected dart case and three preparation vials;
-- rope, wedges, chalk, folding measure, brush, and a small powder-smoke charge.
+She never performs embarrassment about looking feminine in a ruin. Mud is a condition, not a philosophy.
 
-The total silhouette is elegant because she works at it, and scrappy because nearly everything has been altered, repaired, or repurposed.
+## House Velescar
 
-## Voice and Manner
+House Velescar held a decaying manor, two villages, a river landing, and sixty-three bound households. Elara inherited at twenty-three with failing roofs, exhausted soil, disputed tolls, and more ceremonial obligation than liquid wealth.
 
-Elara learned western court diction in Vardek's household, laid over a Virelian cadence that returns when she is angry, tired, or laughing. She speaks precisely around nobles and becomes faster and more physical around delvers. She dislikes pompous antiquarian language when a wall can simply be called unstable.
+She also inherited a social identity built around being the young lady who could revive anything. Elara organized hunts, dances, repair drives, feast days, and public collections. She was often genuinely effective. She also learned to experience gratitude as proof that her authority was good.
 
-Her humor favors wagers, dry observations about rank, and graceful understatement immediately after danger. She does not habitually mock frightened or uneducated people. When she catches herself speaking past a servant or laborer, she often doubles back too formally before learning to do it naturally.
-
-Characteristic habits include:
-
-- testing masonry with two light pick taps before committing her weight;
-- looking at servants and doors before looking at the most important person in a room;
-- appraising objects aloud, then correcting herself when the owner matters more than the value;
-- powdering her face in a polished mess-tin lid at camp;
-- proposing small wagers before dangerous climbs;
-- using "my dear" warmly, sharply, or defensively depending on context;
-- smoothing one glove when she is about to confess something.
-
-## Early Life
-
-House Velescar held a decaying manor, two grain villages, a minor river landing, and sixty-three bound households on Virelia's eastern plain. Its sabre-right was ancient enough to matter in a district noble moot and too poor to fund the cavalry display expected of it.
-
-Elara's childhood joined genuine education to ordinary estate blindness. She learned heraldry, estate accounts, western court manners, riding, rapier fencing, funerary forms, and enough building survey to assess old foundations. She also learned to describe bound households as "the house" whenever their work supported Velescar dignity and as private lives whenever their complaints became inconvenient.
-
-Her parents died before she inherited at twenty-three. The estate carried riding debt, failed river works, two bad harvests, and obligations to a Vardek grain interest. Sale would have ended the Velescar title and transferred its households into a larger demesne estate with a harsher labor record.
-
-That danger was real. Elara's conclusion that preserving her legal superiority was therefore a duty was not.
+Losing the house meant more to her than poverty. It meant discovering that the room might continue without her.
 
 ## The Grave Expeditions
 
-Vardek offered an answer that felt like adventure rather than surrender. Grey Sweat emergency burials, abandoned family chapels, and sealed plague galleries still contained portable heirlooms whose claims were difficult to prove. His agents would identify promising ground, finance tools and transport, and purchase recovered material through intermediaries.
+Over eighteen months Elara led six expeditions into Grey Sweat burial sites.
 
-Across eighteen months Elara led six expeditions. She:
+She selected the sites, supervised extraction, recruited vulnerable diggers, and accepted arrangements she knew those workers could not safely refuse. She gave the crews fine meals, dramatic names, attractive equipment, and public praise. She used those real kindnesses to avoid admitting that she still controlled the risk and the proceeds.
 
-- selected and surveyed entries;
-- read burial architecture and family marks;
-- supervised extraction;
-- accepted Vardek advances secured against workers' fines;
-- continued after learning that several laborers could not safely refuse the next job;
-- allowed names and provenance to be stripped from goods to improve saleability.
+Lord Marek Vardek financed the work and purchased finds through intermediaries. When discovery approached, he surrendered Elara and the laborers while preserving his own distance.
 
-She did not believe she was serving evil for its own sake. She believed dead wealth could preserve living households and that she would repair whatever was damaged once Velescar survived. The order of those promises always placed the title first.
-
-[[Vasko Dren]], Vardek's expedition factor, taught Elara practical clandestine excavation and recruited the labor. [[Kata Belyn]] was among the people whose apparent paid employment concealed family fines and inherited pressure. [[Danara Veln]] eventually connected a recovered object to a missing burial inventory.
-
-When discovery approached, Vardek delivered Elara, Kata, and other workers to judgement, retained the profitable objects, and kept the travelling cabinet that proved his direction. Elara's restitution, burial costs, and criminal surety were purchased by Medori and converted into Blackjack service.
+Medori purchased Elara's restitution and criminal surety. Vardek remains the sole physically returning person from her old life. Former factors, diggers, and clerks may appear through records or testimony carried by current institutions; they do not all arrive in Grenzburg.
 
 ## Culpability
 
-Elara was betrayed. She was also a knowing field leader.
+Elara believed Vardek's takeover would worsen life for the Velescar households. That fear was credible. It did not make the graves hers, the workers free, or her title a moral necessity.
 
-Her central lie is:
+Her controlling excuse remains:
 
-> I did what the house required.
+> “I did what the house required.”
 
-Her actual choice was to decide what remaining a lady was worth and send part of that price downward. Vardek's manipulation explains the structure of the crime without turning her into its innocent passenger.
+The house required nothing. Elara chose what remaining its lady was worth, then made the people sharing the cost feel honoured to have been chosen.
 
-Her strongest future does not require endless self-loathing. It requires named restitution, relinquishing the title, transferring viable land to its households, funding burial repair, and continuing to live rather than making guilt another performance of specialness.
+## Appetite
 
-## Person Before Problem
+Elara loves:
 
-Elara is courtly, curious, sensual, competitive, and delighted by competence. She likes:
+- the first sight of architecture beneath earth or ivy;
+- heights, races, old mechanisms, maps with one unexplained mark, and doors everybody else has stopped noticing;
+- excellent fruit, dangerous cheeses, bright ribbons, and camp food presented as though an ambassador might arrive;
+- gossip that reveals how a room really works;
+- teaching a shy person how to enter that room without apologizing;
+- wagers whose loss produces a story rather than harm;
+- the moment a frightened group begins behaving like a company.
 
-- difficult entrances and clean exits;
-- old roads, hidden rooms, and honest maps;
-- bad inns with excellent stories;
-- well-made clothes and the work required to maintain them;
-- clever people who enjoy being clever without needing everyone else to feel stupid;
-- physical affection offered without ownership;
-- wagers she can afford to lose;
-- treasure whose discovery does not require inventing an ownerless dead.
+She dislikes stale grandeur, unearned solemnity, bad hosts, people who humiliate servants for sport, and anyone who says appearance never matters while benefiting from how somebody else has arranged the room.
 
-She is not habitually gloomy. In ordinary exploration she is often the companion most likely to suggest the dangerous overlook, notice the absurd statue, or make a cold camp feel like an expedition rather than a sentence.
+## Humor and Embarrassment
 
-## Wants, Fears, Lie, and Need
+Elara's humor is conspiratorial. She recruits the listener into a shared observation and enjoys being caught in her own vanity when the catcher is kind.
 
-**Immediate want:** clear enough debt to choose her own expeditions and stop being assigned as a useful criminal.
+She is easily embarrassed by:
 
-**Deep want:** remain memorable, beautiful, and singular without needing inherited rank to prove it.
+- being excluded from a plan she would have improved;
+- discovering that a gathering succeeded without her;
+- visible pity about her lost title;
+- practical ignorance in front of workers she has praised;
+- being sincerely adored when she has done nothing to earn it.
 
-**Fear:** that becoming morally honest means becoming ordinary, dependent, and unworthy of attention.
+When embarrassed, she becomes more formal, more generous, and more likely to speak for everyone present.
 
-**Secondary fear:** that every future patron, lover, or institution will eventually convert her usefulness into ownership.
+## Care
 
-**Lie:** the house required her crimes.
+Elara shows care by:
 
-**Need:** accept that duty to people can survive the death of a title, and that adventure is better when the people beside her are participants rather than costs.
+- making an introduction that changes how somebody is treated;
+- praising a person's work in front of the right witness;
+- noticing who has not eaten or been consulted;
+- preparing an occasion around another person's tastes;
+- using her own visibility to draw ridicule or suspicion away;
+- making danger feel shared and survivable.
 
-## Skills and Knowledge
+Her care becomes coercive when gratitude, participation, or public agreement is treated as the proper response.
 
-Elara can read:
+## Fear, Shadow, and Preserving Change
 
-- heraldry, noble precedence, and household organization;
-- funerary marks, burial inventories, grave architecture, and provenance;
-- masonry stress, concealed voids, tool marks, and disturbed soil;
-- the difference between expensive display and durable value;
-- courtly insult, servant traffic, and who in a room actually carries information;
-- common delver frauds, fences, false antiquities, and laundering methods.
+Elara fears social death more than physical danger. A ruin can kill her; an indifferent room can tell her she was never necessary.
 
-She is a strong climber, competent rider, precise fencer, practical sketcher, and fast field appraiser. She is not a general historian, theologian, warlock, locksmith without tools, or universal cultural authority.
+Her shadow is curation:
 
-## Combat
+- inconvenient people become “not ready” for the circle;
+- dissent becomes bad morale;
+- recognition becomes a reward she controls;
+- a shared achievement becomes the story she tells best.
 
-Elara uses the companion-specific [[Elara Delver-Duelist Package]]. She remains a Slayer in party-role and progression terms, but fights with rapier, compact pick, throwing knives, prepared darts, and physical climbing equipment rather than the player's paired-blade kit.
+Her resolved transformation is not humility as disappearance. She remains a visible, stylish, ambitious expedition leader. She learns to establish conditions under which people may refuse her, contradict her, receive credit without her narration, and continue the work when she leaves.
 
-Her tactical value is opening guarded targets, reading structural weaknesses, interrupting enemy actions, and repositioning through ruins. She is vulnerable in prolonged frontal pressure and cannot replace a dedicated defender or healer.
+## Voice
 
-## Recruitment and Party Life
+Elara speaks in bright imperatives, uses names deliberately, and can make praise sound like a public appointment.
 
-Elara becomes available at the Blackjack Yard in Early Autumn after [[Warrant at the Gate]]. She is a peer debtor, not a subordinate awarded to the player. Koss can recommend her expertise but cannot force her friendship.
+She rarely says “I need.” She says:
 
-The player may add or dismiss her at camps and hubs. Dismissal has no approval penalty. Her campaign advances through distinct authored experience, act deadlines, and autonomous schedules controlled by [[Elara Companion Campaign]], not raw elapsed time.
+- “We shall need…”
+- “You are plainly the person for…”
+- “Come here. This deserves a better witness.”
+- “No, no. If we are going to fail, let us at least fail from the interesting side.”
 
-Her introduction and three short operations retain the normal field party. The three act finales use only the player and Elara as full party members. Friendship and relationship activities are one-on-one, while temporary witnesses and rescued people remain outside the squad.
+Under shame she becomes ceremonially polite. Under real fear she starts arranging people and exits. When she finally speaks plainly, the loss of polish should be noticeable.
 
-## Approval and Boundaries
+Her voice obeys [[Companion Dialogue and Scene Standard]]. She never explains her archetype or diagnoses another companion accurately on demand.
 
-Elara opens through daring, truthful division of spoils, protection of the socially powerless, and refusal of inherited privilege when it harms the living. She respects consistent disagreement more than flattering hypocrisy.
+## Present-Day Grenzburg
 
-She strains under grave desecration, theft from poor households, cruelty to captives, cowardice dressed as prudence, or use of her confession as leverage. A warned confrontation and practical repair opportunity precede departure.
+Elara develops a life that does not wait for Virelia to arrive.
 
-She does not require the player to reject all wealth, title, private property, or dangerous exploration. She requires them to ask whose cost makes the adventure possible.
+### Blackjack Yard
 
-## Personal Quest Arc
+She maintains a shared outing board, turns successful returns into small ceremonies, and knows which debtors hate public praise. [[Quartermaster Brina Kest|Quartermaster Brina Kest]] values Elara's ability to make neglected work visible and refuses every attempt to make scarcity look elegant.
 
-1. [[Names Beneath Lime]] introduces her crime through an ensemble investigation.
-2. [[The Sixth Field Book]] recovers the worker roll and Seven Mounds preparation.
-3. [[A House Fed by Bones]] closes Act I by forcing a people-before-proof choice.
-4. [[A Better Wager]] establishes friendship through a roof race with nothing to exploit.
-5. [[Eight Honest Warrants]] separates evidence from genuine winter relief.
-6. [[The Patron's Cabinet]] closes Act II with Vardek's restoration offer.
-7. [[Raven Shelf at Dawn]] deepens a male-player romance through a Highlake ascent, rescue, and private camp.
-7. [[Two Names on the Rope]] establishes a female-player sworn bond through equal survey, reciprocal rescue, and guaranteed return.
-8. [[Sixty-Three Claims]] protects household instructions before settlement.
-9. [[No Lady of Velescar]] closes Act III at the Old Tithe Vault and Hall of Petitions.
-10. [[The First Honest Find]] demonstrates the settled expedition ethic in summer.
+### Old Market
 
-Elara has eleven authored pieces but no more than ten appear in one run. The two sequence-7 relationship episodes are mutually exclusive.
+Elara appraises recovered objects, learns current finder customs, and cultivates delvers, porters, conservators, tavern keepers, and craftspeople. She wants the Old Market to regard the Blackjacks as professionals rather than disposable debtors.
 
-## Relationship
+### Living Custodians
 
-Elara is confident in flirtation and has had lovers. Romance is not her first experience of desire; it is the first time in years she must offer a future without rank, patronage, rescue, or performance doing the asking for her.
+[[Runa Moss-Crown]] and other Folk custodians are not colorful keepers of Elara's desired ruins. Their authority may stop an expedition entirely. Elara's respect becomes real only when it survives refusal.
 
-A male player may pursue romance. A female player may pursue a sworn bond. Both require Trusted approval, two earlier relationship scenes, and personal completion of [[The Patron's Cabinet]] without an unresolved major conflict. Missing that finale permanently closes intimate commitment while preserving friendship.
+### Underworld
 
-Romance grants [[Elara Field Familiarity and Relationships#Equal Footing|Equal Footing]] and **Crossed Measure**; [[Raven Shelf at Dawn]] upgrades it to **Second Beat**. Sworn bond grants [[Elara Field Familiarity and Relationships#Witness at My Back|Witness at My Back]] and **Back-to-Back**; [[Two Names on the Rope]] upgrades it to **Held Line**. The episodes are fundamentally different, while the move upgrades, Act III safeguards, and permanent perks remain equivalent in mechanical value.
+Elara enjoys [[Mara Senn]] and the Low Lantern talent for making outsiders legible to one another. She opposes Black Bell execution and is vulnerable to confusing a socially elegant criminal network with an ethical one.
 
-Declining commitment preserves friendship and access to Elara's strongest personal resolution.
+## Company Routine
+
+At camp Elara:
+
+- arranges the meal even when she did not cook it;
+- repairs clothes competently and equipment optimistically;
+- keeps a private list of birthdays, dislikes, victories, and humiliations never to mention in public;
+- proposes races, views, and unnecessary but memorable detours;
+- objects to sleeping before everyone has agreed what the next morning is called.
+
+She can be dismissed or recruited at ordinary hubs without approval loss. She does not sulk because the player takes another team, but she notices if she is wanted only for tombs or parties.
+
+## Combat and Fieldcraft
+
+Elara remains a `Slayer — Delver-Duelist Variant`, not a separate vocation.
+
+Her rapier, pick, knives, darts, and climbing kit create a rhythm of mark, evade, break, exploit, and reposition. She excels at:
+
+- identifying weak points and false surfaces;
+- interrupting exposed enemies;
+- crossing damaged vertical spaces;
+- opening an elegant retreat for the party;
+- reading how people moved through a ruin.
+
+Her field style is social as well as technical. She calls openings by name, praises good timing in combat, and can steady a frightened temporary ally. None of this makes her the mandatory solution to a route.
+
+## Approval and Moral Limits
+
+Elara approves of:
+
+- adventurous competence;
+- public credit given accurately;
+- rescuing workers before treasure or proof;
+- stylish risk taken by informed participants;
+- using status to protect someone with less;
+- allowing people to refuse an admired leader.
+
+She strongly opposes:
+
+- desecration for profit;
+- coerced labor;
+- public humiliation of subordinates;
+- selling a person through elegant intermediaries;
+- concealed restoration of her house at household expense;
+- treating living custodians as obstacles to history.
+
+Approval records trust. [[Player Temperament and Chemistry]] records the kind of person she believes the player to be. Neither substitutes for the other.
+
+## Companion Campaign Direction
+
+[[Elara Companion Campaign]] retains its eleven-piece architecture while [[Companion Emotional Rewrite Audit]] controls which premises survive.
+
+Her campaign must move through:
+
+1. the appeal of being chosen by Elara;
+2. evidence that her chosen circle has a backstage;
+3. a public loss she cannot style into victory;
+4. an opportunity to use social power without owning the result;
+5. relinquishment, compromise, or restoration of House Velescar;
+6. proof that adventure remains joyful after title and exploitation are separated.
+
+Marek Vardek may be exposed, arrested, killed during justified resistance, or escape. His state never becomes an excuse to summon substitute villains from Elara's past.
+
+## Relationships
+
+Elara is heterosexual. A male player may pursue romance; a female player may form the exclusive sworn bond.
+
+Romance concerns public polish versus a private partnership that can survive failure and loss of status. Sworn friendship concerns equal witness, honest claims, and the promise that neither woman becomes the other's audience or attendant.
+
+Friendship alone can produce Elara's strongest moral resolution. Temperament changes chemistry and scene methods but never the power of rewards.
 
 ## Principal Foil
 
-[[Ashira bath Melan]] is Elara's principal foil. Both love discovery and can use accurate knowledge to excuse a harmful method: Elara through provenance stripped from graves and workers, Ashira through human imprints treated as useful abstractions. Their rivalry becomes an ethical delving partnership grounded in living custodians, named harm, and bounded use.
+[[Ashira bath Melan]] sees the person a room has agreed not to notice. Elara knows how to make that person visible without requiring confession at the door.
 
-[[Zafir ibn Samad]] remains a strong secondary relationship. Inherited privilege and procedural ownership still give them unusually sharp insight into one another's favored excuses.
+Their durable friendship requires:
+
+- Elara to welcome Ashira without displaying her;
+- Ashira to criticize belonging without treating every ordinary kindness as fraud;
+- both women to defend the other's dignity in the social territory each understands best.
 
 ## Faction Outlook
 
-### Ducal and Marcher Service
+- **Ducal/Marcher:** supports bounded authority that can mobilize people without converting admiration into permanent emergency power.
+- **Blackjacks/Medori:** favors Brina's company solidarity and Lucia's limited reform over Koss's cultivated dependence.
+- **Church:** respects burial care and pastoral courage; opposes courts that use public virtue to hide secular coercion.
+- **Folk:** must learn that custodianship is living authority, not picturesque ancestry awaiting her recognition.
+- **Underworld:** values Low Lantern protection and social translation; rejects Black Bell execution and fashionable cruelty.
 
-Elara recognizes the real usefulness of Alaric's office and Pierre's procedure. She enjoys noble access and must resist treating it as proof of merit. She favors a sovereign Duke, professional service, petitions, and expiring emergency power. Liese earns her respect by carrying responsibility without performing gentility.
+## Seasonal Movement
 
-### Blackjacks and Medori
+- **Autumn:** Elara makes the Blackjacks feel like a company and begins discovering whom her version of the company omits.
+- **Winter:** her social gifts become materially useful during siege, while public scandal and Vardek make reputation costly.
+- **Spring:** household claims, grave provenance, and reconstruction force her to decide whether belonging can exist without a lady.
+- **Summer:** she becomes an ethical adventurer, reduced titled patron, restored householder, or departed social predator according to play.
 
-Elara trusts Brina Kest's practical solidarity, despises Koss's conversion of injury into leverage, and is most vulnerable to Lucia's humane language. Lucia resembles the person Elara once hoped Vardek was: cultivated, useful, and convinced that orderly ownership can be kind.
-
-### Church
-
-Elara believes burial duty is real and does not treat her crime as merely a violation of custom. She respects Caestus's service and fears institutions that turn confession into permanent jurisdiction. She can support a bounded diocese while rejecting both cynical unbelief and unlimited Church courts.
-
-### Four-Hearth Compact
-
-Elara initially romanticizes old places and underestimates living custodianship. Runa and Anya force her to distinguish a beautiful ruin from land still held in memory and use. She supports renewable rights and rejects Jorund's attacks on civilians.
-
-### Grenzburg Underworld
-
-Elara enjoys Low Lantern technique, covert routes, and elegant theft more than she initially admits. She accepts smuggling that protects people from corrupt seizure. She rejects trafficking, extortion of dependents, and the Black Bell's attempt to turn hidden evidence into permanent execution power.
-
-## Main-Campaign Reactions
-
-- **Act I:** reads bandit patronage, false gentility, and which road claims conceal ordinary robbery; hostile Folk claims challenge her instinct to treat old ground as available.
-- **Tannbruck:** values rescue and denied assets but rejects a noble account that turns lost civilians into an acceptable footnote.
-- **Act II:** uses roofs and breaches during the city siege, treats the Drake as dangerous animal law rather than a speaking sovereign, and insists its remains are not unclaimed merely because the hunter prevailed.
-- **Act III:** sees Gerhold and the Muster as the final horror of inherited service: the dead made useful because authority refuses to release them.
-- **Summer:** resolved Elara plans ethical delves from Grenzburg without title; compromised Elara manages a reduced estate through agents; broken Elara leaves through restored patronage or concealed wealth.
-
-## Outcome Range
-
-**Resolved:** Elara exposes Vardek, relinquishes the Velescar title, transfers viable land to its sixty-three households, establishes a burial-repair fund, and retains only personal property and freely awarded expedition equipment. She remains an adventurer by choice.
-
-**Compromised:** She defeats or escapes Vardek and makes real compensation, but preserves a reduced title, private reserve, and enough control to rebuild a smaller house. She remains loyal to the player while still believing rank deserves protection unavailable to others.
-
-**Broken or departed:** She destroys claims, accepts Vardek's restoration bargain, or uses the Muster crisis to take liquid wealth. A named confrontation provides one final chance to repudiate the bargain. Reaffirming it ends her service.
-
-Death is possible only through an explicit late sacrifice after a viable alternative is shown. It is never an unseen punishment for approval.
-
-With no player involvement, Elara follows the deterministic compromised-survivor route: workers live with avoidable injuries, part of Vardek's network is exposed, household obligations are cancelled, and she retains a reduced title and private reserve. This default playthrough result is not future-setting canon.
+She has deterministic autonomous routes and cannot die unseen.
 
 ## Navigation
 
 - [[Elara Companion Campaign]]
-- [[Elara Field Familiarity and Relationships]]
-- [[Elara Delver-Duelist Package]]
 - [[Elara Banter and Reactivity]]
-- [[House Velescar]]
-- [[Lord Marek Vardek]]
-- [[Companion Constitution]]
-- [[Companion Field Familiarity and Duo Quest Standard]]
+- [[Elara Delver-Duelist Package]]
+- [[Elara Field Familiarity and Relationships]]
+- [[Companion Archetype Constitution]]
+- [[Companion Archetype Chemistry Matrix]]
+- [[Companion Emotional Rewrite Audit]]
 - [[Companions MOC]]
-- [[Narrative State Register]]
-- [[Grenzburg MOC]]

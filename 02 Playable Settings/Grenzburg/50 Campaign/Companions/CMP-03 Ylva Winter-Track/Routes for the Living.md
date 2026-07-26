@@ -9,7 +9,7 @@ culture: ["Ättar", "Grey-Wolf", "Eclessian", "Folk"]
 related_factions: ["Blackjack Corps", "Duchy of Grenzburg"]
 appears_in: ["Grenzburg"]
 needs: []
-tags: [game-ready]
+tags: [narrative-rewrite]
 quest_class: companion
 act: act-3
 availability_window: ["Spring Reclamation"]
@@ -50,6 +50,13 @@ identity_hooks: ["Ättar", "Folk", "Military", "Wilderness", "Scholarly", "Peasa
 encounter_deck: ["Muster route interference", "spring flood", "abandoned military stores"]
 persistence_scope: regional-milestone
 postgame_season: ""
+emotional_rewrite_status: reframe
+dialogue_status: pending-rewrite
+archetype_pressure: "Competence becomes self-erasure: test whether Ylva accepts shared agency without reading care as confinement."
+emotional_function: "Make this a delegation and training operation rather than a third mapping exercise"
+pleasure_beat: "Field competence, open weather, friendly contest, practical food, and quiet work done well."
+care_beat: "Ylva notices strain and shares practical work while leaving the other person real authority over risk."
+player_archetype_hooks: []
 ---
 # Routes for the Living
 

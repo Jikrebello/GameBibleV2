@@ -9,7 +9,7 @@ culture: ["Eclessian", "Virelian", "Sestaran"]
 related_factions: ["Blackjack Corps", "Medori Bank", "Vardek household", "Church of the Redeemer"]
 appears_in: ["Grenzburg"]
 needs: []
-tags: [game-ready]
+tags: [narrative-rewrite]
 quest_class: companion
 act: act-2
 availability_window: ["Early Winter", "Deep Winter"]
@@ -49,6 +49,13 @@ identity_hooks: []
 encounter_deck: []
 persistence_scope: regional-milestone
 postgame_season: ""
+emotional_rewrite_status: replace
+dialogue_status: pending-rewrite
+archetype_pressure: "Belonging becomes curation: test whether Elara shares social power or decides who deserves the room."
+emotional_function: "Replace the document theft with a siege-morale operation where social influence can genuinely save or exclude people"
+pleasure_beat: "Social sparkle, discovery, elegant risk, and making a temporary company feel chosen."
+care_beat: "Elara shares credit, access, attention, and protection without making gratitude the price of belonging."
+player_archetype_hooks: []
 ---
 # Eight Honest Warrants
 

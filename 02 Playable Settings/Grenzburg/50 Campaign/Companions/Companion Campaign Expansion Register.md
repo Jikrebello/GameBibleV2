@@ -9,13 +9,16 @@ culture: []
 related_factions: ["Blackjack Corps"]
 appears_in: ["Grenzburg"]
 needs:
-  - name and block the 21 remaining reserved authored pieces during individual companion passes
-  - approve Ashira, Dismas, and Zafir's exact preparation thresholds and autonomous outcome tables during individual passes
+  - clear all preserve, reframe, and replace dispositions through the four paired emotional rewrite passes
+  - name and block the 21 reserved authored pieces during their paired passes
+  - approve Ashira, Dismas, and Zafir's exact preparation thresholds and autonomous outcome tables during their paired passes
 tags: [game-ready]
 ---
 # Companion Campaign Expansion Register
 
-This register controls exactly eighty-eight authored companion pieces. Elara's, Ilyana's, Ylva's, Bernard's, and Tavio's eleven-piece authored campaigns are migrated and blocked. The other existing quest sources retain `architecture_status: pending-migration`; untitled slots do not receive empty notes.
+This register controls exactly eighty-eight authored companion pieces. Elara's, Ilyana's, Ylva's, Bernard's, and Tavio's eleven-piece authored campaigns are structurally migrated and blocked. The other existing quest sources retain `architecture_status: pending-migration`; untitled slots do not receive empty notes.
+
+Structural status is not emotional readiness. [[Companion Emotional Rewrite Audit]] assigns every piece a preserve, reframe, or replace brief. All linked companion quests currently use `dialogue_status: pending-rewrite` and remain outside implementation-ready views until their paired pass clears both emotional and dialogue status.
 
 Current authored count: **67 linked / 21 reserved / 88 total**. Because romance and sworn bond are mutually exclusive and only one of each may be committed across the roster, no more than **74 pieces** are playable in one run: seventy-two non-exclusive pieces, one romance, and one bond.
 
@@ -31,6 +34,26 @@ Current authored count: **67 linked / 21 reserved / 88 total**. Because romance 
 | Sworn-bond episodes | 5 | 3 | 8 |
 | Summer codas | 5 | 3 | 8 |
 | **Authored pieces** | **67** | **21** | **88** |
+
+## Emotional Rewrite Authority
+
+| Disposition | Linked pieces | Reserved pieces | Authored total |
+|---|---:|---:|---:|
+| preserve | 32 | 0 | 32 |
+| reframe | 25 | 0 | 25 |
+| replace | 10 | 21 | 31 |
+| **Total** | **67** | **21** | **88** |
+
+The eight archetypal engines are controlled by [[Companion Archetype Constitution]]:
+
+| Pair pass | Companions | Archetypes |
+|---|---|---|
+| 1 | [[Elara Velescar]] and [[Ashira bath Melan]] | Cheerleader and Goth |
+| 2 | [[Ylva Winter-Track]] and [[Tavio Meran]] | Tomboy and Jock |
+| 3 | [[Ilyana Veshkar]] and [[Dismas Raben]] | Bohemian and Rebel |
+| 4 | [[Bernard Valeon]] and [[Zafir ibn Samad]] | Goofball and Nerd |
+
+The pair order is mandatory because each pass must rewrite the shared three-season foil arc as well as the individual campaigns. A `preserve` disposition protects a premise; it does not preserve old dialogue automatically.
 
 ## CMP-01: Elara Velescar
 
@@ -210,7 +233,7 @@ These contributions happen through Blackjack assignments, camp scenes, reports, 
 
 ## Autonomous Action Skeleton
 
-At each act gate, an unresolved companion undertakes the action below whether or not the player joins. [[Companion Autonomy and Act Convergence]] resolves the result deterministically from preparation, influence, world state, and available cross-support. Migrated companions use their locked outcome tiers; Ashira, Dismas, and Zafir retain provisional actions until their individual question-led passes.
+At each act gate, an unresolved companion undertakes an authored action whether or not the player joins. [[Companion Autonomy and Act Convergence]] resolves the result deterministically from preparation, influence, world state, and available cross-support. The rows below preserve structural timing and outcome tiers only. [[Companion Emotional Rewrite Audit]] supersedes any named person, prop, or premise marked for reframe or replacement, and the paired passes must rewrite those details before implementation.
 
 | Companion | Act I autonomous action | Act II autonomous action | Act III autonomous action |
 |---|---|---|---|
@@ -228,5 +251,9 @@ At each act gate, an unresolved companion undertakes the action below whether or
 - [[Companion Campaign Architecture]]
 - [[Companion Autonomy and Act Convergence]]
 - [[Companion Constitution]]
+- [[Companion Archetype Constitution]]
+- [[Companion Dialogue and Scene Standard]]
+- [[Companion Emotional Rewrite Audit]]
+- [[Player Temperament and Chemistry]]
 - [[Companions MOC]]
 - [[Narrative State Register]]

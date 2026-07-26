@@ -5,127 +5,165 @@ canon_level: local
 visibility: author-only
 era: ["Present Day"]
 region: ["Grenzburg"]
-culture: ["Vortharan", "Sestaran"]
-related_factions: ["Blackjack Corps", "Red Brass Bench"]
+culture: ["Sestaran", "Vortharan"]
+related_factions: ["Blackjack Corps"]
 appears_in: ["Grenzburg"]
 needs:
-  - script final performance dialogue during scene-writing pass
-tags: [game-ready]
+  - replace quest-level dialogue during the Ylva-Tavio paired campaign pass
+tags: [game-ready, companion-response]
 companion_id: "CMP-07"
-architecture_status: migrated
+archetype: "Jock"
+voice_status: calibrated
+dialogue_status: calibrated
+emotional_rewrite_status: bible-locked
 ---
 # Tavio Banter and Reactivity
 
-## Voice Rules
+## Voice Key
 
-Tavio is exuberant, observant, and technically precise. He jokes because he likes people, not because every serious scene needs deflation.
+- Converts work into shared challenge.
+- Praises publicly and corrects physically through demonstration.
+- Uses bodily metaphors and inclusive imperatives.
+- Assumes effort deserves witnesses.
+- Gets louder under embarrassment and formal under shame.
+- Stops touching people when he believes he has lost the right.
+- Treats a legitimate halt as skilled action only after growth.
 
-Avoid:
+## Calibration Scenes
 
-- constant arena metaphors;
-- making every conversation a wager;
-- treating Sestaran identity as one generic accent;
-- casual contempt for injured people;
-- hiding all guilt beneath charm.
+### Joy — Absurd prize
 
-His dialogue changes from declaring the measure, to asking who may stop it, to accepting an answer he did not stage.
+Tavio presents the player with a turnip painted gold.
 
-## Companion Pairings
+**Tavio:** “First champion of carrying the left end without complaint.”
 
-### Elara Velescar
+**Player:** “I complained.”
 
-1. They compete over impossible routes and the quality of ridiculous prizes.
-2. Elara calls his concealed proof a forged provenance written on Lio's body.
-3. Tavio challenges her habit of treating preparation as permission; she challenges his love of spectacle.
-4. Resolved Tavio asks her to inspect the record before he demonstrates anything. Resolved Elara names him an honest finder of limits.
+**Tavio:** “Then the judges admired your range.”
 
-### Ilyana Veshkar
+He has already carved the date into it.
 
-1. They turn camp chores into a loud public game.
-2. Ilyana wants to conduct timing; Tavio wants every participant to call their own halt.
-3. Each recognizes how applause can disguise another person's refusal.
-4. Resolved versions run a voluntary fair whose safest event becomes the crowd favourite.
+### Competence — Proof mark
 
-### Ylva Winter-Track
+Tavio taps the loaded mark with one knuckle and listens.
 
-1. Tavio treats the last difficult measure as proof of mastery; Ylva asks who has been named to relieve him.
-2. Ylva volunteers to hold a dangerous load alone; Tavio points out that this is overproof wearing humbler clothes.
-3. They exchange hard rules: his second may call halt, and her relief team may call change.
-4. Resolved, each trusts the other to end an unsafe proof and expects the other to obey without turning the halt into humiliation.
+**Tavio:** “Too bright.”
 
-### Ashira bath Melan
+He Yields the charge instead of demonstrating the spectacular release.
 
-1. Ashira studies Proof Marks as compressed argument; Tavio calls her lectures unfiled hazards.
-2. She asks why agreed limits matter if no mind inhabits the mark. He answers that bodies inhabit the field.
-3. He confronts her use of useful terror; she exposes his use of useful spectacle.
-4. Resolved, they build a demonstration in which every observer can identify the stop condition.
+**Tavio:** “There. Anybody can break the wall. We are keeping the roof.”
 
-### Bernard Valeon
+### Embarrassment — A failed vault
 
-1. Bernard blesses neither gauntlet nor bout, but offers to stay if it fails.
-2. Tavio teases his inherited sword; Bernard asks which of Tavio's rings is truly his.
-3. Bernard values voluntary surrender; Tavio learns that mercy does not falsify a result.
-4. Resolved, Tavio calls the halt and Bernard carries the first injured worker rather than praising him.
+Tavio catches his boot and lands in a barrel.
 
-### Dismas Raben
+He raises one hand before anyone helps.
 
-1. Dismas refuses public games and quietly wins every distance estimate.
-2. Tavio accuses him of leaving before the result; Dismas accuses Tavio of staying after the answer.
-3. They disagree over risk accepted for strangers.
-4. Resolved, Dismas provides the exit route and Tavio promises to use it when called.
+**Tavio:** “The barrel has won by technical fall.”
 
-### Zafir ibn Samad
+Later, alone, he practices the same vault until the player tells him the joke was allowed to remain a joke.
 
-1. Zafir appreciates filed limits and distrusts the way institutions define who may consent.
-2. Tavio calls a bout free because both signed; Zafir asks who owned the equipment and exit.
-3. Tavio attacks Zafir's controlled bindings; Zafir attacks Tavio's theatrical voluntarism.
-4. Resolved, they distinguish a declared relation from ownership of the person within it.
+### Anger — A worker mocked for halting
 
-## Main Campaign Reactions
+Tavio steps between the foreman and the worker.
 
-- **Act I:** reads bridge, mine, and fort mechanisms; objects when hurried officers erase stop authority.
-- **Act II:** uses Brace and Cast during the western breach; treats the Drake hunt as dangerous craft, not an arena.
-- **Act III:** recognizes physical Muster carriers without attributing consciousness; argues that the dead command must be Yielded, not mastered for glory.
+**Tavio:** “Say coward again.”
 
-## Faction Positions
+The foreman does.
 
-### Ducal and Marcher
+Tavio removes his champion's sash and places it around the worker's shoulders.
 
-Supports bounded emergency service, professional inspection, and expiring powers. Opposes officers declaring a device safe because the war needs it.
+**Tavio:** “Now say it to both of us.”
 
-### Blackjacks and Medori
+### Care — Training without display
 
-Prefers [[Quartermaster Brina Kest]]'s named inventories and worker drills to [[Captain Valdemar Koss]]'s willingness to treat debtors as replaceable proof.
+Tavio notices a debtor avoiding group drills. At dawn he lays out two practice spears behind the storehouse.
 
-### Church
+**Tavio:** “I require a witness. If my footwork is terrible, it deserves a proper audience.”
 
-Respects relief kitchens, burials, and honest craft blessings. Rejects using sacred authority to discourage an injured person from testifying.
+He does not mention the debtor's shaking hands.
 
-### Folk
+### Shame — The Fifth Ring
 
-Enjoys specific local challenge and yielding customs when the people holding them define their meaning. Never treats one clan's custom as universal Folk law.
+Someone calls the injury an accident.
 
-### Underworld
+Tavio corrects them.
 
-Accepts Low Lantern protection and evidence smuggling. Rejects match-fixing, coerced bookmakers, and Black Bell execution.
+**Tavio:** “The discharge was an accident. The ring was not.”
 
-## Regional Observations
+He does not look toward the crowd after saying it.
 
-- **Hammer Ward:** technical excitement mixed with growing respect for worker authority.
-- **Highlake:** judges ore only after a control sample and listens to miners before arena brokers.
-- **Southwood:** refuses to mark a protected tree or barrow without local permission.
-- **Frostfenn:** treats frozen mechanisms as altered proof, not evidence that limits no longer matter.
+### Apology — To a team using endorsed gear
 
-## Summer Variants
+Tavio brings replacement fittings and the signed endorsement.
 
-- **Resolved:** road examiner, fair host, and a man pleased when someone else calls the correct halt.
-- **Compromised:** supervised tester who performs useful work but still looks toward the official before yielding.
-- **Broken/departed:** touring champion whose notices grow grander as the filed details disappear.
+**Tavio:** “My name made this easier to trust. I knew they sold it blank.”
+
+He tears his display copy, not the evidence.
+
+**Tavio:** “You decide whether I stay for the refit.”
+
+### Quiet — After the fair
+
+Tavio and the player collect cups in the dark.
+
+He finds the gold turnip beneath a bench and brushes off the mud.
+
+**Tavio:** “Good crowd.”
+
+They keep cleaning.
+
+## Foil Arc — Ylva
+
+### Autumn
+
+Tavio turns route work into a contest. Ylva beats him and refuses public praise. He later repeats her technique without attaching himself to its success.
+
+### Winter
+
+He calls a halt for her concealed injury; she accuses him of command. Later he obeys her stop in front of his team without asking whether it makes him look weak.
+
+### Spring
+
+They reject competing heroic last stands and build a rotation. Their rivalry survives because neither person's dignity requires the other to lose permanently.
+
+## Other Companion Objects
+
+- **Elara:** visible captains, ceremonial credit, and the private cost of public perfection.
+- **Ashira:** public hero and private shadow without rescue or exoticization.
+- **Ilyana:** disciplined practice and artistic invention.
+- **Bernard:** physical comedy, hospitality, and the difference between morale and evasion.
+- **Dismas:** fair codes versus refusal of compromised institutions.
+- **Zafir:** embodied proof versus abstract design.
+
+## Faction Reactivity
+
+- Supports ducal standards and public halt authority.
+- Favors Brina's team culture and rejects Koss's expendability.
+- Respects Church relief and opposes immunity disguised as honorable office.
+- Recognizes particular Folk challenges and rejects trials imposed on civilians.
+- Enjoys Low Lantern games while opposing match fixing and Black Bell spectacle.
+
+## Temperament Use
+
+- Grey players are treated as honest seconds rather than an audience or rival.
+- Jock similarity creates both immediate respect and rank danger.
+- Goth contrast must not become “strange woman repairs champion's depth.”
+- Romance and bond never require the player to lose a contest deliberately.
+
+## Failure Modes
+
+Reject any Tavio line that:
+
+- makes him unintelligent because he is athletic;
+- reduces every subject to proof engineering;
+- treats applause as his only pleasure;
+- makes public confidence incompatible with vulnerability;
+- converts Lio into a prop who exists to forgive him.
 
 ## Navigation
 
 - [[Tavio Meran]]
 - [[Tavio Companion Campaign]]
-- [[Tavio Field Familiarity and Relationships]]
-- [[Companion Reactive Scene Register]]
-- [[Narrative State Register]]
+- [[Companion Dialogue and Scene Standard]]
+- [[Companion Archetype Chemistry Matrix]]

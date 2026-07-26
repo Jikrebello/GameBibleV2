@@ -9,7 +9,7 @@ culture: ["Ättar", "Grey-Wolf", "Eclessian"]
 related_factions: ["Blackjack Corps"]
 appears_in: ["Grenzburg"]
 needs: []
-tags: [game-ready]
+tags: [narrative-rewrite]
 quest_class: companion
 act: act-1
 availability_window: ["Late Autumn", "Early Winter"]
@@ -50,6 +50,13 @@ identity_hooks: ["Ättar", "Wilderness", "Peasant/Labour", "Hunter"]
 encounter_deck: []
 persistence_scope: permanent
 postgame_season: ""
+emotional_rewrite_status: preserve
+dialogue_status: pending-rewrite
+archetype_pressure: "Competence becomes self-erasure: test whether Ylva accepts shared agency without reading care as confinement."
+emotional_function: "Keep competition, cooking, route play, and a day without a crisis"
+pleasure_beat: "Field competence, open weather, friendly contest, practical food, and quiet work done well."
+care_beat: "Ylva notices strain and shares practical work while leaving the other person real authority over risk."
+player_archetype_hooks: []
 ---
 # No Quarry Today
 

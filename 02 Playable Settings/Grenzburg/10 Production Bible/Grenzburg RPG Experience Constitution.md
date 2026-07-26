@@ -26,15 +26,19 @@ The campaign establishes public pressures and deliberate act transitions. It doe
 
 ### The Player's Unwritten Life
 
-The player authors the protagonist through origin, cultural familiarity, background, vocation, social method, faction service, moral habit, exploration, and refusal. The debtor premise explains why the character is present without explaining who they were or what they ultimately want.
+The player authors the protagonist through origin, cultural familiarity, background, vocation, social method, faction service, moral habit, temperament, exploration, and refusal. The debtor premise explains why the character is present without explaining who they were or what they ultimately want.
 
 The game must recognize those choices materially. Recognition may create opportunity, suspicion, cost, danger, trust, or an alternate method. It may not merely add decorative dialogue after every route has already become identical.
+
+Temperament is inferred only from authored expressive choices and may remain deliberately grey. It changes chemistry and response texture without turning the blank-slate protagonist into a hidden fixed character.
 
 ### Eight Companion Campaigns
 
 The companions provide authored character drama inside the same calendar. Each is a Blackjack colleague with an agenda, obligations, relationships, and a life that continues when absent from the player's party.
 
 The player may help, redirect, miss, oppose, or re-enter those campaigns. The player is never the sole reason another adult acts, changes, fails, or survives.
+
+Each companion must offer an immediate readable archetype, a contradiction, appetite, humor, embarrassment, care, fear, shadow, and preserving lesson. Their original wrong supplies pressure without consuming their ordinary life.
 
 ## Reference-Game Synthesis
 
@@ -58,6 +62,8 @@ These are craft lessons only. They do not authorize imported names, plots, facti
 8. Failure changes the world or the available solution instead of normally demanding a reload.
 9. The world contains worthwhile activity that does not begin with a quest marker.
 10. Exploration, combat mastery, social identity, and authored story remain valuable independently.
+11. Temperament changes chemistry but never morality, intelligence, relationship eligibility, or critical-path access.
+12. Companion dialogue dramatizes character through concrete business and subtext rather than therapeutic summaries of the arc.
 
 ## Narrative Weight
 
@@ -90,8 +96,11 @@ Grenzburg succeeds when a player can ignore the main quest for hours and still e
 
 - [[Grenzburg Game Constitution]]
 - [[Player Identity Reactivity Matrix]]
+- [[Player Temperament and Chemistry]]
 - [[World Simulation and Discovery Constitution]]
 - [[Companion Campaign Architecture]]
+- [[Companion Archetype Constitution]]
+- [[Companion Dialogue and Scene Standard]]
 - [[Companion Autonomy and Act Convergence]]
 - [[Postgame Reconstruction Cycle]]
 - [[Quest and Content Architecture]]

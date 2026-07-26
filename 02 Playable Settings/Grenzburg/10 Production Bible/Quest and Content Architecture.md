@@ -87,6 +87,13 @@ Every active Grenzburg quest note must carry these properties in addition to ord
 | changed_reentry | Aftermath state offered when the original event resolves without the player. |
 | ensemble_inputs | Companions, Blackjacks, factions, or beneficiaries who may affect an autonomous route. |
 | identity_hooks | Origin, background, vocation, moral, social, or reputation uses credited through [[Player Identity Reactivity Matrix]]. |
+| emotional_rewrite_status | preserve, reframe, replace, cleared, or empty. A structural block may still await emotional rewriting. |
+| dialogue_status | pending-rewrite, calibrated, approved, or empty. Companion content must be approved before implementation readiness. |
+| archetype_pressure | The specific point where a companion's gift risks becoming its shadow. |
+| emotional_function | What the piece changes or reveals in the companion relationship beyond plot delivery. |
+| pleasure_beat | Concrete appetite, humor, play, beauty, or ordinary enjoyment preserved inside the piece. |
+| care_beat | A specific action through which a character gives or receives care. |
+| player_archetype_hooks | Authored player-temperament reactions credited through [[Player Temperament and Chemistry]]. |
 | encounter_deck | District, region, route, or seasonal systemic deck that may call the content. |
 | persistence_scope | none, local-temporary, local-persistent, regional-milestone, or campaign |
 | postgame_season | autumn, winter, spring, summer, multi-season, or empty |
@@ -184,13 +191,28 @@ At least one quest per line must be primarily social or investigative, one must 
 
 [[Companion Campaign Expansion Register]] is the formal count authority. [[Companion Autonomy and Act Convergence]] controls tracking, deadlines, cross-support, and no-unseen-death rules.
 
-Companion notes retain `architecture_status: pending-migration` until their individual retrofit or deep block. Completed campaigns, currently [[Elara Companion Campaign]] and [[Bernard Companion Campaign]], use `architecture_status: migrated`.
+Companion notes retain `architecture_status: pending-migration` until their individual retrofit or deep block. Structurally completed campaigns use `architecture_status: migrated`. That value does not certify emotional or dialogue readiness.
+
+## Companion Emotional Readiness
+
+[[Companion Emotional Rewrite Audit]] controls preserve, reframe, and replace dispositions. [[Companion Archetype Constitution]] controls the emotional engine, and [[Companion Dialogue and Scene Standard]] controls voice and scene craft.
+
+A companion quest may retain `blocking_status: blocked` while its prose is not ready for implementation. It reaches `blocking_status: implementation-ready` only when:
+
+1. `emotional_rewrite_status: cleared`;
+2. `dialogue_status: approved`;
+3. its archetype pressure is dramatized rather than stated;
+4. it contains concrete pleasure and care beats appropriate to the companion;
+5. required player-temperament variants and a complete grey baseline exist;
+6. a blind voice review can distinguish its owner without the speaker label.
+
+Preserve means the premise survives, not that old dialogue survives. Reframe and replace pieces remain visible in the emotional rewrite queue and are excluded from Game-Ready Content.
 
 ## Identity-Reactivity Standard
 
-Implementation-ready main, faction, companion, marquee, local, and training content records applicable `identity_hooks`. A hook counts only when it changes access, risk, price, trust, information, traversal, encounter behavior, or quest method.
+Implementation-ready main, faction, companion, marquee, local, and training content records applicable `identity_hooks`. Companion and dialogue-heavy content also records applicable `player_archetype_hooks`. A hook counts only when it changes access, risk, price, trust, information, traversal, encounter behavior, quest method, or relational texture with a real authored consequence.
 
-[[Player Identity Reactivity Matrix]] controls the campaign-wide 10/8/8 coverage targets. A critical identity restriction always has a credible workaround.
+[[Player Identity Reactivity Matrix]] controls the campaign-wide 10/8/8 identity targets and temperament coverage. A critical identity restriction always has a credible workaround.
 
 ## Systemic-World Boundary
 
@@ -213,6 +235,8 @@ Blocked adventure conversions remain independent references and craft studies. [
 - The result is visible somewhere the player can revisit.
 - A major quest records any identity hooks it claims.
 - A companion act finale visibly uses its preparation assets.
+- A companion scene contains concrete business, appetite or pleasure, care, subtext, and a residue that is not a neat moral summary.
+- A companion quest awaiting emotional or dialogue rewriting is not presented as implementation-ready.
 - Systemic content does not silently decide named deaths, companion arcs, faction endings, or major settlement survival.
 
 ## Navigation
@@ -223,6 +247,10 @@ Blocked adventure conversions remain independent references and craft studies. [
 - [[Season and World-State Constitution]]
 - [[Factions Overview]]
 - [[Faction Questlines MOC]]
+- [[Companion Archetype Constitution]]
+- [[Companion Dialogue and Scene Standard]]
+- [[Companion Emotional Rewrite Audit]]
+- [[Player Temperament and Chemistry]]
 - [[Companion Constitution]]
 - [[Companion Campaign Architecture]]
 - [[Companion Autonomy and Act Convergence]]

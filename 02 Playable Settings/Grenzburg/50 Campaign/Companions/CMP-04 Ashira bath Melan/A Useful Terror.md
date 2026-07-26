@@ -9,7 +9,7 @@ culture: ["Jirahar", "Qesheth"]
 related_factions: ["Blackjack Corps"]
 appears_in: ["Grenzburg"]
 needs: []
-tags: [game-ready]
+tags: [narrative-rewrite]
 quest_class: companion
 act: act-1
 availability_window: ["Open Autumn", "Early Winter"]
@@ -26,6 +26,13 @@ quest_sequence: 2
 companion_id: "CMP-04"
 faction_line: ""
 faction_branch: ""
+emotional_rewrite_status: reframe
+dialogue_status: pending-rewrite
+archetype_pressure: "Witness becomes possession: test whether Ashira can know grief and forbidden truth without appropriating another person."
+emotional_function: "Keep the captives and human-face shortcut; make privacy, fear, and the families' agency more important than a binary policy test"
+pleasure_beat: "Forbidden knowledge, black humor, nocturnal beauty, private jokes, and chosen quiet."
+care_beat: "Ashira guards privacy and remains beside grief without speaking as its owner."
+player_archetype_hooks: []
 ---
 # A Useful Terror
 

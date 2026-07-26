@@ -9,7 +9,7 @@ culture: ["Eclessian", "Chapel-Folk", "Thalmyric"]
 related_factions: ["Blackjack Corps", "Church of Grenzburg", "Bent Oak households"]
 appears_in: ["Grenzburg"]
 needs: []
-tags: [game-ready]
+tags: [narrative-rewrite]
 quest_class: companion
 act: act-2
 availability_window: ["Early Winter", "Deep Winter"]
@@ -49,6 +49,13 @@ identity_hooks: []
 encounter_deck: []
 persistence_scope: district-persistent
 postgame_season: ""
+emotional_rewrite_status: replace
+dialogue_status: pending-rewrite
+archetype_pressure: "Warmth becomes evasion: test whether Bernard can remain funny and loving while accepting specific judgement."
+emotional_function: "Replace shelter arithmetic with a warmer ensemble problem where Bernard's morale and hospitality matter before scarcity tests his honesty"
+pleasure_beat: "Food, absurdity, road stories, children laughing, and companionship without ceremony."
+care_beat: "Bernard feeds, shelters, steadies, and tells the truth about what he takes or withholds."
+player_archetype_hooks: []
 ---
 # Four Fires
 

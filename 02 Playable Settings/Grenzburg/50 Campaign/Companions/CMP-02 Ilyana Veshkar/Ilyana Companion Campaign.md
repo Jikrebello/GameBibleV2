@@ -10,11 +10,15 @@ related_factions: ["Blackjack Corps", "Medori Bank", "The Salt-Reed Company"]
 appears_in: ["Grenzburg"]
 needs: []
 aliases: ["CMP-02 Campaign"]
-tags: [game-ready]
+tags: [production-control, narrative-rewrite]
 companion_id: "CMP-02"
 architecture_status: migrated
+emotional_rewrite_status: pending-paired-pass
+dialogue_status: pending-rewrite
 ---
 # Ilyana Companion Campaign
+
+This note remains the structural authority for Ilyana's sequence, deadlines, preparation, autonomy, and rewards. [[Companion Emotional Rewrite Audit]] now supersedes its scene-level emotional assumptions. It is not implementation-ready until the Ilyana-Dismas paired pass clears its emotional and dialogue status.
 
 This is the controlling authority for Ilyana Veshkar's eleven authored pieces, ten-piece playthrough ceiling, act preparation, autonomous decisions, changed re-entry, progression, and formal outcomes.
 

@@ -9,7 +9,7 @@ culture: ["Ättar", "Grey-Wolf", "Eclessian"]
 related_factions: ["Blackjack Corps", "Medori Bank"]
 appears_in: ["Grenzburg"]
 needs: []
-tags: [game-ready]
+tags: [narrative-rewrite]
 quest_class: companion
 act: act-1
 availability_window: ["Open Autumn"]
@@ -50,6 +50,13 @@ identity_hooks: ["Ättar", "Folk", "Military", "Wilderness", "Drifter/Vagabond",
 encounter_deck: ["Upper Grenz road bandits", "autumn route failure"]
 persistence_scope: regional-milestone
 postgame_season: ""
+emotional_rewrite_status: preserve
+dialogue_status: pending-rewrite
+archetype_pressure: "Competence becomes self-erasure: test whether Ylva accepts shared agency without reading care as confinement."
+emotional_function: "Keep the impossible watch roster, concealed injury, recruitment, and practical first read"
+pleasure_beat: "Field competence, open weather, friendly contest, practical food, and quiet work done well."
+care_beat: "Ylva notices strain and shares practical work while leaving the other person real authority over risk."
+player_archetype_hooks: []
 ---
 # The Fourth Marker
 

@@ -62,6 +62,22 @@ Every act finale sets `duo_finale_state` to staged before dismissing the other a
 
 Each ID owns eleven authored content slots through [[Companion Campaign Expansion Register]]: nine non-exclusive pieces, one romance episode, and one sworn-bond episode. At most ten pieces can appear for one companion in a playthrough. Each ID also owns eight to twelve embedded opportunities, three act-specific autonomous routes, and one main-campaign contribution per act.
 
+## Player Temperament State
+
+[[Player Temperament and Chemistry]] owns a rolling authored-signal ledger distinct from approval, virtue, reputation, background, and vocation.
+
+| Field | Controlled values |
+|---|---|
+| player_temperament_ledger | latest twelve authored tendency signals with one- or two-signal weight |
+| player_temperament_primary | one sex-linked tendency or empty |
+| player_temperament_secondary | one different sex-linked tendency or empty |
+| player_temperament_profile | grey, primary, or primary-secondary |
+| player_temperament_locked | false until [[Ghor at the Gate]] completes, then true until a postgame reset |
+| player_temperament_quiz_state | skipped, accepted, overridden, or open |
+| second_nature_draught_available | false or true after [[The First Summer Road]] |
+
+Accepted creation leaning supplies three opening signals. A primary requires four signals and a two-signal lead; a secondary requires three. Grey remains a complete authored profile. The Draught of Second Nature clears the ledger and future temperament reactions only. It does not alter virtue, approval, memories, relationships, completed scenes, or world outcomes.
+
 ## Systemic World State
 
 Systemic encounter history records:
@@ -139,6 +155,13 @@ Duplicate implementation keys across these authorities are prohibited unless one
 
 | Output | Class | Owner | Sequence | Source quest |
 |---|---|---|---:|---|
+| `player_temperament_ledger` | player temperament | Player Character | 0 | [[Player Temperament and Chemistry]] |
+| `player_temperament_primary` | player temperament | Player Character | 0 | [[Player Temperament and Chemistry]] |
+| `player_temperament_secondary` | player temperament | Player Character | 0 | [[Player Temperament and Chemistry]] |
+| `player_temperament_profile` | player temperament | Player Character | 0 | [[Player Temperament and Chemistry]] |
+| `player_temperament_quiz_state` | player temperament | Player Character | 0 | [[Character Creation and Identity]] |
+| `player_temperament_locked` | player temperament | Player Character | 15 | [[Ghor at the Gate]] |
+| `second_nature_draught_available` | postgame player temperament | Player Character | 23 | [[The First Summer Road]] |
 | `ashira_roster_custody` | companion | Ashira bath Melan | 1 | [[The Faces She Kept]] |
 | `medium_public_fear` | companion | Ashira bath Melan | 1 | [[The Faces She Kept]] |
 | `qesheth_judgement_found` | companion | Ashira bath Melan | 1 | [[The Faces She Kept]] |
@@ -768,5 +791,6 @@ Duplicate implementation keys across these authorities are prohibited unless one
 - [[World Simulation and Discovery Constitution]]
 - [[Postgame Reconstruction Cycle]]
 - [[Main Campaign State Matrix]]
+- [[Player Temperament and Chemistry]]
 - [[Main Campaign MOC]]
 - [[Grenzburg MOC]]

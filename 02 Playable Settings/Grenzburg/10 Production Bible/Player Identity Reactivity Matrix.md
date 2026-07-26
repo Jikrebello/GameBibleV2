@@ -52,6 +52,7 @@ The protagonist is human. Culture is learned identity and social formation rathe
 | Background knowledge | 9 | 8 | 72 |
 | Starting vocation | 5 | 8 | 40 |
 | Advanced vocation | 4 | 4 after unlock | 16 |
+| Player temperament | 8 | 12 broad-run signals, including 4 critical-path opportunities | 96 signal opportunities |
 
 Hooks may share a scene when each option produces a genuinely different interpretation, cost, route, or consequence. A single generic tagged line cannot be counted nine times.
 
@@ -136,13 +137,31 @@ Each sustained moral tendency should eventually receive:
 
 These are audit targets rather than a requirement to force every moral pair into every quest.
 
+## Temperament Allocation
+
+[[Player Temperament and Chemistry]] controls the hidden rolling ledger and threshold rules. This matrix controls campaign coverage.
+
+The authored game reserves at least twenty-four scored temperament scenes:
+
+| Content family | Minimum scenes |
+|---|---:|
+| Main campaign | 8 |
+| Faction and local stories | 6 |
+| Companion campaigns | 8 |
+| Systemic or company life | 2 |
+| **Total** | **24** |
+
+Each of the eight tendencies receives at least twelve plausible signals in a broad run, including at least four on the critical path. A single scene may offer several tendencies, but each response must express a genuinely different instinct rather than rephrasing the same answer.
+
+Temperament hooks may change chemistry, disclosure, social risk, a plan's presentation, or an occasional quest method. They do not count as origin, background, vocation, or moral coverage; do not grant automatic approval; and cannot remove the credible critical-path workaround.
+
 ## Critical-Path Safeguard
 
 Identity may make a critical route harder, dearer, more dangerous, or socially different. It may not make the critical path impossible. Every hard restriction requires at least one workaround through action, evidence, disguise, alternate authority, payment, traversal, or confrontation.
 
 ## Production Use
 
-Every implementation-ready major quest records `identity_hooks`. The entry names the identity, what changes, whether the result is an advantage or friction, and which coverage slot it satisfies.
+Every implementation-ready major quest records `identity_hooks` and any `player_archetype_hooks`. The entry names the identity or tendency, what changes, whether the result is an advantage or friction, and which coverage slot it satisfies.
 
 The matrix is complete only when allocated hooks link to real content. Reserved targets do not count as implemented uses.
 
@@ -153,5 +172,6 @@ The matrix is complete only when allocated hooks link to real content. Reserved 
 - [[Character Creation and Identity]]
 - [[Social Skills and Knowledge]]
 - [[Virtue and Sin Tendencies]]
+- [[Player Temperament and Chemistry]]
 - [[Quest and Content Architecture]]
 - [[Player Systems MOC]]

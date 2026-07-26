@@ -9,13 +9,13 @@ culture: []
 related_factions: ["Blackjack Corps"]
 appears_in: ["Grenzburg"]
 needs:
-  - deep-block the remaining five companions through individual approval passes
+  - clear all eight campaigns through the four paired emotional rewrite passes
 aliases: ["Companion Personal Campaign Standard"]
 tags: [game-ready]
 ---
 # Companion Campaign Architecture
 
-This note controls the formal shape, content budget, party format, preparation, relationships, and main-story presence of Grenzburg's eight companion campaigns. [[Companion Constitution]] controls the roster and moral boundaries. [[Companion Autonomy and Act Convergence]] controls what happens without the player.
+This note controls the formal shape, content budget, party format, preparation, relationships, and main-story presence of Grenzburg's eight companion campaigns. [[Companion Constitution]] controls the roster and moral boundaries. [[Companion Archetype Constitution]] controls their emotional engines. [[Companion Dialogue and Scene Standard]] controls voice and scene craft. [[Companion Emotional Rewrite Audit]] controls which existing pieces survive, change, or are replaced. [[Companion Autonomy and Act Convergence]] controls what happens without the player.
 
 ## Narrative Role
 
@@ -126,11 +126,16 @@ The expanded companion budget is added on top of the existing faction, marquee, 
 
 ## Migration
 
-[[Companion Campaign Expansion Register]] controls the 88 authored slots and the seventy-four-piece playthrough ceiling. [[Elara Companion Campaign]], [[Ilyana Companion Campaign]], [[Ylva Companion Campaign]], [[Bernard Companion Campaign]], and [[Tavio Companion Campaign]] are completed migrations. Existing notes for Ashira, Dismas, and Zafir retain their current prose until an individual retrofit or deep block and carry `architecture_status: pending-migration` during that interval.
+[[Companion Campaign Expansion Register]] controls the 88 authored slots and the seventy-four-piece playthrough ceiling. [[Elara Companion Campaign]], [[Ilyana Companion Campaign]], [[Ylva Companion Campaign]], [[Bernard Companion Campaign]], and [[Tavio Companion Campaign]] are completed structural migrations. Existing notes for Ashira, Dismas, and Zafir carry `architecture_status: pending-migration`.
+
+Architecture status does not certify emotional readiness. All sixty-seven linked quests retain their structural blocking records but carry `dialogue_status: pending-rewrite` until their paired pass. Implementation-ready companion content requires both `emotional_rewrite_status: cleared` and `dialogue_status: approved`.
 
 ## Navigation
 
 - [[Companion Constitution]]
+- [[Companion Archetype Constitution]]
+- [[Companion Dialogue and Scene Standard]]
+- [[Companion Emotional Rewrite Audit]]
 - [[Companion Autonomy and Act Convergence]]
 - [[Companion Field Familiarity and Duo Quest Standard]]
 - [[Companion Campaign Expansion Register]]

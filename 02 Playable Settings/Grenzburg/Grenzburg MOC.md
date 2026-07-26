@@ -23,6 +23,7 @@ Grenzburg is the active game project: a silent-protagonist, party-based open-wor
 | Player authorship, living-world play, and narrative hierarchy | [[Grenzburg RPG Experience Constitution]] |
 | Player identity, social interface, and vocation rules | [[Player Character Constitution]] |
 | Identity recognition and coverage | [[Player Identity Reactivity Matrix]] |
+| Player temperament and companion chemistry | [[Player Temperament and Chemistry]] |
 | Detailed progression, field play, and vocations | [[Player Systems MOC]] |
 | Critical-path story | [[Grenzburg Campaign Spine]] |
 | Main-campaign production doorway | [[Main Campaign MOC]] |
@@ -34,8 +35,9 @@ Grenzburg is the active game project: a silent-protagonist, party-based open-wor
 | Companion campaign shape and party formats | [[Companion Campaign Architecture]] |
 | Companion tracking, autonomy, and act convergence | [[Companion Autonomy and Act Convergence]] |
 | Companion shared history and staging | [[Companion Field Familiarity and Duo Quest Standard]] |
+| Companion emotional engines, ensemble pairs, voice, and rewrite status | [[Companion Archetype Constitution]], [[Companion Ensemble Pair Briefs]], [[Companion Dialogue and Scene Standard]], and [[Companion Emotional Rewrite Audit]] |
 | Companion roster, eighty-eight-piece authored register, and seventy-four-piece playthrough ceiling | [[Companions MOC]] and [[Companion Campaign Expansion Register]] |
-| Migrated companion campaigns | [[Elara Companion Campaign]] and [[Bernard Companion Campaign]] |
+| Structurally migrated companion campaigns | [[Elara Companion Campaign]], [[Ilyana Companion Campaign]], [[Ylva Companion Campaign]], [[Bernard Companion Campaign]], and [[Tavio Companion Campaign]] |
 | Faction rules | [[Factions Overview]] |
 | Faction quest register | [[Faction Questlines MOC]] |
 | Narrative variables and settlement matrix | [[Narrative State Register]] |
@@ -64,16 +66,16 @@ Grenzburg is the active game project: a silent-protagonist, party-based open-wor
 
 ## Companion Roster
 
-| Companion | Sex | Vocation | Recruitment |
-|---|---|---|---|
-| [[Elara Velescar]] | woman | [[Slayer]] - Delver-Duelist variant | Early Autumn |
-| [[Ilyana Veshkar]] | woman | [[Bard]] | Black Road |
-| [[Ylva Winter-Track]] | woman | [[Hunter]] - Rescue Scout package | Open Autumn, at Southbound Muster |
-| [[Ashira bath Melan]] | woman | [[Medium]] | Early Autumn |
-| [[Bernard Valeon]] | man | [[Paladin]] | Black Road |
-| [[Dismas Raben]] | man | [[Hunter]] | Black Road |
-| [[Tavio Meran]] | man | [[Lancewright]] | Early Autumn |
-| [[Zafir ibn Samad]] | man | [[Binder]] | Early Autumn |
+| Companion | Archetype | Sex | Vocation | Recruitment |
+|---|---|---|---|---|
+| [[Elara Velescar]] | Cheerleader | woman | [[Slayer]] - Delver-Duelist variant | Early Autumn |
+| [[Ilyana Veshkar]] | Bohemian | woman | [[Bard]] | Black Road |
+| [[Ylva Winter-Track]] | Tomboy | woman | [[Hunter]] - Rescue Scout package | Open Autumn, at Southbound Muster |
+| [[Ashira bath Melan]] | Goth | woman | [[Medium]] | Early Autumn |
+| [[Bernard Valeon]] | Goofball | man | [[Paladin]] | Black Road |
+| [[Dismas Raben]] | Rebel | man | [[Hunter]] pending reassessment | Black Road |
+| [[Tavio Meran]] | Jock | man | [[Lancewright]] | Early Autumn |
+| [[Zafir ibn Samad]] | Nerd | man | [[Binder]] | Early Autumn |
 
 The ordinary field party remains the player plus three active companions. Introductions and short operations retain that party with the owner required; each act finale becomes a player-plus-owner duo. Companions follow autonomous schedules and act at the end of every main act even when untracked. A male player may romance women; a female player may romance men. Same-sex paths become sworn bonds with equivalent power. One romance and one sworn bond may be committed in a playthrough.
 
@@ -156,7 +158,7 @@ See [[Grenzburg Pre-Game-Constitution Archive Index]], [[Grenzburg Wave 4 Archiv
 1. **Game constitution:** complete.
 2. **Worldspace constitution:** complete.
 3. **Player systems:** complete at narrative-constitution level; numerical balance remains provisional.
-4. **Companions and factions:** the eighty-eight-piece authored companion standard and seventy-four-piece playthrough ceiling are locked. Elara's, Ilyana's, Ylva's, Bernard's, and Tavio's eleven-piece authored campaigns are migrated and production-blocked, with mutually exclusive romance and sworn-bond episodes; Ashira, Dismas, and Zafir remain outlined.
+4. **Companions and factions:** the eighty-eight-piece authored companion standard and seventy-four-piece playthrough ceiling are locked. All eight character and voice bibles now have distinct emotional engines. Every formal piece has a preserve, reframe, or replace brief. Quest prose remains outside implementation-ready views until four paired rewrites clear emotional and dialogue status.
 5. **Main campaign:** complete at production-block level; twenty-one chapters and two aftermath quests are wired to controlled state.
 6. **Living world and side content:** allocate identity hooks, systemic encounter decks, marquee stories, local quests, dungeons, hunts, contracts, and jobs without reducing the expanded companion budget.
 7. **Integration:** endings, summer states, intersections, production navigation, and final canon checks.

@@ -86,6 +86,8 @@ Complex quests begin with a person or community in a specific difficulty. Lore s
 
 Companions may disagree sharply, but they remain personable and capable of warmth, humor, competence, embarrassment, loyalty, and change. Constant snark, gratuitous hostility, and interchangeable trauma are prohibited shortcuts.
 
+Each companion has a readable archetypal gift, an appetite, a care language, a feared humiliation, a shadow, and a preserving lesson. The archetype survives growth. The original wrong may not consume more than one-third of ambient characterization.
+
 ### 10. Escalation Must Be Earned
 
 The final Deep Dragon should feel impossible in Act I because the player has not yet been taught the history, systems, places, allies, or powers required to face it. Every act must prepare part of that understanding without announcing the final answer too early.
@@ -150,6 +152,7 @@ The Heart-Stone and its barrow remain available for a later optional high-level 
 ## Authority Map
 
 - Player identity and fixed rules: [[Player Character Constitution]]
+- Player temperament and companion chemistry: [[Player Temperament and Chemistry]]
 - Player-authorship and world-experience laws: [[Grenzburg RPG Experience Constitution]]
 - Identity recognition and coverage: [[Player Identity Reactivity Matrix]]
 - Detailed player systems and vocations: [[Player Systems MOC]]
@@ -159,7 +162,7 @@ The Heart-Stone and its barrow remain available for a later optional high-level 
 - Quest formats and budgets: [[Quest and Content Architecture]]
 - Sandbox quest pattern: [[Sandbox Quest Pattern]]
 - Factions: [[Factions Overview]] and [[Faction Questlines MOC]]
-- Companions and relationships: [[Companion Constitution]], [[Companion Campaign Architecture]], and [[Companions MOC]]
+- Companions and relationships: [[Companion Constitution]], [[Companion Archetype Constitution]], [[Companion Dialogue and Scene Standard]], [[Companion Campaign Architecture]], and [[Companions MOC]]
 - Companion autonomy and act deadlines: [[Companion Autonomy and Act Convergence]]
 - Systemic world and discovery: [[World Simulation and Discovery Constitution]]
 - Narrative outputs and political settlement: [[Narrative State Register]]
