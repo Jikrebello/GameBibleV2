@@ -20,7 +20,7 @@ reward_unlocks: ["Bernard summer destination scene"]
 required_locations: ["Blackjack Yard", "Open Lamp Hospice", "West Refuge Hall"]
 blocking_status: blocked
 architecture_status: migrated
-companion_content_role: summer-coda
+companion_content_role: summer
 companion_campaign_stage: summer
 quest_owner: "Bernard Valeon"
 quest_sequence: 10

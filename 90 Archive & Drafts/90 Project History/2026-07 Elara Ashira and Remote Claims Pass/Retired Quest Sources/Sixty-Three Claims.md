@@ -1,7 +1,7 @@
 ---
 type: quest
-status: canon
-canon_level: local
+status: archived
+canon_level: obsolete
 visibility: author-only
 era: ["Present Day"]
 region: ["Grenzburg", "Crown Heights", "Cathedral Close", "Ledger Quays"]
@@ -56,6 +56,10 @@ emotional_function: "Replace petition protection with an active coalition operat
 pleasure_beat: "Social sparkle, discovery, elegant risk, and making a temporary company feel chosen."
 care_beat: "Elara shares credit, access, attention, and protection without making gratitude the price of belonging."
 player_archetype_hooks: []
+archive_reason: "Superseded quest source retained for provenance"
+archived_from: "02 Playable Settings/Grenzburg/50 Campaign/Companions/CMP-01 Elara Velescar/Sixty-Three Claims.md"
+archived_on: 2026-07-27
+superseded_by: "[[The Hands That Hold It]]"
 ---
 # Sixty-Three Claims
 

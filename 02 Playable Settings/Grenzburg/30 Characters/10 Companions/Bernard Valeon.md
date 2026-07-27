@@ -27,7 +27,10 @@ archetype_humiliation: "the silence after the joke, when others may judge or dis
 care_language: ["food", "stories", "absurd rituals", "practical kindness", "affectionate teasing"]
 archetype_shadow: "evasion, irresponsibility, and using charm to hurry past accountability"
 preservation_lesson: "responsibility does not kill joy, and seriousness does not end love"
-past_anchor: "Petra Ilev"
+remote_claim_anchor: "Petra Ilev and the Froststep restitution claim"
+past_contact_mode: remote-only
+debt_manager: "Claims-Factor Marco Bellandi"
+legal_debt_state_key: "bernard_legal_debt_state"
 voice_status: calibrated
 emotional_rewrite_status: bible-locked
 architecture_status: migrated
@@ -119,7 +122,7 @@ Bernard denied knowing where the shortages were. After seeing the injuries, he c
 
 The order investigated fairly, compensated the injured, dismissed him, and sold his restitution bond to Medori so the hospice could replace its stores immediately.
 
-[[Petra Ilev]], permanently injured at Froststep, is the sole person from Bernard's old life who may physically arrive in Grenzburg. Former commanders and hospice figures remain present through correspondence, prayer, records, and Bernard's account.
+[[Petra Ilev]], former commanders, and hospice figures remain present through correspondence, prayer, records, remote testimony, and Bernard's account. None physically enters the base-game worldspace. [[Claims-Factor Marco Bellandi]] administers the Froststep portfolio under [[Companion Debt and Remote Claims Standard]].
 
 ## Culpability
 

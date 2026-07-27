@@ -4,19 +4,21 @@ status: canon
 canon_level: local
 visibility: author-only
 era: ["Present Day"]
-region: ["Grenzburg", "Kedrava"]
+region: ["Kedrava"]
 culture: ["Thalmyric", "Kedravan"]
 related_factions: ["Order of the Long Watch"]
 appears_in: ["Grenzburg"]
-needs: []
+needs:
+  - replace Bernard's physical reckoning placeholder during the Bernard-Zafir paired rewrite
 aliases: []
-tags: [game-ready]
+tags: [narrative-rewrite]
 companion_id: ""
 sex: woman
 vocation: ""
 recruitment_window: ""
 foil: "Bernard Valeon"
 relationship_theme: ""
+past_contact_mode: remote-only
 ---
 # Petra Ilev
 
@@ -32,7 +34,7 @@ She is direct, impatient with ceremonial remorse, good with animals, and protect
 
 ## Agency
 
-Petra comes to Grenzburg because [[Matej Solin|Matej's]] mission needs an experienced cold-road driver. She can:
+Petra remains in Kedrava. Through sworn testimony, correspondence, and restitution instructions, she can:
 
 - accept Bernard's public confession and compensation;
 - recognize changed conduct while withholding forgiveness;
@@ -40,11 +42,11 @@ Petra comes to Grenzburg because [[Matej Solin|Matej's]] mission needs an experi
 - reject further personal contact;
 - insist that the order hear her account before considering reinstatement.
 
-No social check compels forgiveness. Rescue improves trust because it is current conduct, not because danger places Petra in Bernard's debt.
+No social check compels forgiveness. Bernard's present conduct may answer her stated terms, but danger never places Petra in his debt.
 
 ## Quest Function
 
-During [[Embers Without Excuse]], Petra helps maintain the isolated infirmary and identifies the difference between a declared reserve and a secret cache. Her survival is not required for the Paladin unlock because her written account and Matej's report preserve the facts. Her death or serious injury, however, closes personal forgiveness and makes Bernard's reckoning materially harsher.
+Petra's authenticated account and inventory conditions inform [[Embers Without Excuse]]. The current physical-participation treatment is superseded and will be replaced during Bernard's paired rewrite. Her answer remains remote and cannot be improved by placing her in danger for Bernard to rescue.
 
 On Bernard's default autonomous route, Petra accepts restitution but withholds forgiveness and renewed friendship after learning that he concealed one salve packet until the crisis passed. Strong preparation can improve the mission without assigning her a kinder response. **Embers After Snow** permits later restitution; it does not force contact or recreate the player's missed relationship and vocation unlocks.
 

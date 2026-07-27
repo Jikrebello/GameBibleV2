@@ -19,7 +19,7 @@ recruitment_window: "Early Autumn"
 home_base: "Blackjack Yard"
 foil: "Elara Velescar"
 relationship_theme: "recognition without possession"
-relationship_perks: []
+relationship_perks: ["Seen Without Light", "Confidence Kept"]
 archetype: "Goth"
 archetype_desire: "truth and recognition outside ordinary approval"
 archetype_currency: "seeing what others conceal and being trusted with what frightens them"
@@ -27,10 +27,13 @@ archetype_humiliation: "assimilation, sentimental correction, or exposure as som
 care_language: ["confidentiality", "precise recognition", "witness", "staying beside grief"]
 archetype_shadow: "gatekeeping truth, romanticizing damage, and appropriating private pain"
 preservation_lesson: "intimacy can preserve strangeness without possessing another person's grief"
-past_anchor: ""
+remote_claim_anchor: "Qesheth human-roster judgement"
+past_contact_mode: remote-only
+debt_manager: "Claims-Factor Marco Bellandi"
+legal_debt_state_key: "ashira_legal_debt_state"
 voice_status: calibrated
 emotional_rewrite_status: bible-locked
-architecture_status: pending-migration
+architecture_status: migrated
 ---
 # Ashira bath Melan
 
@@ -92,9 +95,9 @@ Raiders massacred a Qesheth caravan. Ashira recovered non-conscious combat patte
 
 She knew families and dependants lived there. She believed terror would end further attacks without a costly assault. It did. It also subjected people who had not committed the massacre to the repeated faces and violence of those they knew.
 
-A Qesheth judgement placed personal civil liability on Ashira to prevent collective sanction against the tower. Medori purchased and administers that liability.
+A Qesheth judgement placed personal civil liability on Ashira to prevent collective sanction against the tower. Medori purchased the liability; [[Claims-Factor Marco Bellandi]] administers it in Grenzburg through authenticated Qesheth rulings, remittance instructions, and remote notices.
 
-Ashira secretly retained the named human roster because it remained useful and because destroying it felt, to her, like agreeing that frightened people had understood it better than she did.
+Ashira secretly retained the named human roster because it remained useful and because destroying it felt, to her, like agreeing that frightened people had understood it better than she did. Legal satisfaction and her ethical treatment of the roster are tracked separately under [[Companion Debt and Remote Claims Standard]].
 
 ## Culpability and Ontology
 
@@ -314,6 +317,9 @@ She cannot die autonomously.
 
 ## Navigation
 
+- [[Ashira Companion Campaign]]
+- [[Ashira Field Familiarity and Relationships]]
+- [[Ashira Shadow Roster Package]]
 - [[The Faces She Kept]]
 - [[A Useful Terror]]
 - [[No Human Shadow]]

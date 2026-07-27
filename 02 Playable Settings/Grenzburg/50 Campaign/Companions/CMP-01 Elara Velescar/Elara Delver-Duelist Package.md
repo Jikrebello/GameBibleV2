@@ -99,14 +99,14 @@ Elara breaks line of sight with prepared powder-smoke, relocates, and can draw t
 |---|---|---|
 | Recruitment | Measured Thrust, basic pick work, throwing knives | none |
 | [[Names Beneath Lime]] | **Appraiser's Cut:** identifies contraband handling marks and interrupts item use or escape actions | Elara appraisal service at hubs |
-| [[The Sixth Field Book]] | recovered survey practice improves structural and provenance callouts | worker-roll and Seven Mounds preparation |
+| [[A Splendid Little Expedition]] | mixed-crew field practice improves structural and provenance callouts | shoring and Seven Mounds preparation |
 | [[A House Fed by Bones]] | **Fault Proven:** Faultfinder can expose a second structural stage and opens authored rescue shortcuts | rapier, delver's pick, dart, and traversal parts enter the custom-part library |
 | [[A Better Wager]] | **Follow My Line:** marks a nearby safe continuation after a missed traversal move | Bridgehold and Market Roofline route knowledge |
-| [[Eight Honest Warrants]] | identifies false floors and substituted sealed containers | warrant-casket preparation and contextual inspection options |
+| [[The Winter Company]] | improves smoke-cover withdrawal and team repositioning | winter-company preparation and contextual rescue options |
 | [[The Patron's Cabinet]] | A Lady's Exit and the committed relationship duo move | path-specific duo move when commitment occurs |
 | [[Raven Shelf at Dawn]] | Crossed Measure: Second Beat | Raven Line material safeguard in the Act III finale |
 | [[Two Names on the Rope]] | Back-to-Back: Held Line | Two Names Line material safeguard in the Act III finale |
-| [[Sixty-Three Claims]] | recognizes claimant marks and substituted estate rolls | claimant-priority and Old Tithe preparation |
+| [[The Hands That Hold It]] | recognizes claimant marks and substituted estate rolls | coalition-priority and Old Tithe preparation |
 | [[No Lady of Velescar]] | **The Last Claim:** a rapier-and-pick finisher against a properly exposed elite or large-creature point | saved Delver-Duelist blueprint on resolved or compromised outcomes |
 | [[The First Honest Find]] | postgame provenance callouts reflect the settled outcome | Provenance Board when Elara remains connected to the Blackjacks |
 

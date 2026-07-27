@@ -28,6 +28,7 @@ faction_line: ""
 faction_branch: ""
 emotional_rewrite_status: replace
 dialogue_status: pending-rewrite
+remote_claim_status: pending-migration
 archetype_pressure: "Refusal becomes abandonment: test whether Dismas returns for the aftermath without treating commitment as captivity."
 emotional_function: "Remove the arriving survivor and courtroom escort; force public accountability through Dismas's present choices and voluntarily recovered evidence"
 pleasure_beat: "Forbidden routes, irreverence, speed, audacious shortcuts, and puncturing pompous authority."

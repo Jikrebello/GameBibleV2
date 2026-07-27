@@ -20,7 +20,7 @@ reward_unlocks: ["Repairing Line", "instrument field repair"]
 required_locations: ["Blackjack Yard", "Three Mills Reach", "Lowland Reed Road", "Abandoned Drying Barn"]
 blocking_status: blocked
 architecture_status: migrated
-companion_content_role: operation
+companion_content_role: act-operation
 companion_campaign_stage: act-1
 quest_owner: "Ilyana Veshkar"
 quest_sequence: 2
@@ -52,6 +52,7 @@ persistence_scope: regional-persistent
 postgame_season: ""
 emotional_rewrite_status: reframe
 dialogue_status: pending-rewrite
+remote_claim_status: pending-migration
 archetype_pressure: "Freedom becomes impermanence: test whether Ilyana can sustain a shared work after novelty and sole authorship fade."
 emotional_function: "Replace the returning troupe member with present Grenzburg performers and test whether Ilyana can coordinate without claiming authorship"
 pleasure_beat: "Improvised music, novelty, public performance, and turning strangers into a temporary chorus."
@@ -153,4 +154,3 @@ Celia cannot be persuaded to forgive in this quest.
 - [[Celia Orsani]]
 - [[Three Mills Reach]]
 - [[No Song by Command]]
-

@@ -15,6 +15,7 @@ companion_id: "CMP-05"
 architecture_status: migrated
 emotional_rewrite_status: pending-paired-pass
 dialogue_status: pending-rewrite
+remote_claim_status: pending-migration
 ---
 # Bernard Companion Campaign
 

@@ -136,6 +136,12 @@ The Blackjack route teaches evidentiary handling, residue distinction, emergency
 
 The game does not convert those consequences into routine guard interruption every time the vocation is equipped.
 
+## Ashira's Field Doctrine
+
+[[Ashira bath Melan]] demonstrates a companion-specific ethical and tactical route through the vocation. Her campaign progression adds [[Ashira Shadow Roster Package|Pattern Known]], Hush Field, Witness Circle, and the No Human Shadow capstone without redefining the player Medium.
+
+Her strongest doctrine keeps legitimate nonhuman combat imprints while refusing to store or deploy recognizable human likeness as equipment. This is a moral and custodial discipline, not proof that human imprints contain souls. The [[Ashira Companion Campaign]] determines her conduct and access to the Shadow Witness custom-vocation blueprint.
+
 ## Lore and Moral Risks
 
 - **Personality bleed:** repeated use of one imprint can make its movement priorities feel natural to the caster.
@@ -157,4 +163,6 @@ Mastery contributes the medium's rod, robes and light armour, shade-roster parts
 - [[Corpse Residue]]
 - [[Vocation Progression and Mastery]]
 - [[Public Power and Vocation Law]]
+- [[Ashira Companion Campaign]]
+- [[Ashira Shadow Roster Package]]
 - [[Player Systems MOC]]

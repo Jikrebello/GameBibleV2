@@ -4,15 +4,17 @@ status: canon
 canon_level: local
 visibility: author-only
 era: ["Present Day"]
-region: ["Sermora", "Grenzburg"]
+region: ["Sermora"]
 culture: ["Sermoran"]
 related_factions: ["The Salt-Reed Company"]
 appears_in: ["Grenzburg"]
-needs: []
+needs:
+  - replace the physical arrival and performance placeholders during the Ilyana-Dismas paired rewrite
 aliases: []
-tags: [game-ready]
+tags: [narrative-rewrite]
 sex: man
 vocation: "Bard"
+past_contact_mode: remote-only
 ---
 # Tomas Marin
 
@@ -27,7 +29,7 @@ Tomas enjoyed the lawful prize action. He still refused the season that followed
 - He may be the first former member to perform beside Ilyana again and the last to call it reconciliation.
 - He treats battle compulsion as lethal technique, not a joke or social shortcut.
 
-Tomas's horn and cadence plates enter Grenzburg during [[Reeds Under Ice]].
+Tomas remains outside the playable worldspace. His horn, cadence plates, authorship claim, recorded aid, and refusal may reach Grenzburg through ordinary transport and authenticated correspondence.
 
 ## Navigation
 
@@ -35,4 +37,3 @@ Tomas's horn and cadence plates enter Grenzburg during [[Reeds Under Ice]].
 - [[Reeds Under Ice]]
 - [[The Free Refrain]]
 - [[The Last Common Measure]]
-

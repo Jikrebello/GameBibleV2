@@ -20,7 +20,7 @@ reward_unlocks: ["Road-School Wagon", "Longlake refuge service"]
 required_locations: ["Bent Oak Chapel", "Lake Gate", "Pikehook Marsh", "Bent-Oak Refuge"]
 blocking_status: blocked
 architecture_status: migrated
-companion_content_role: operation
+companion_content_role: act-operation
 companion_campaign_stage: act-1
 quest_owner: "Bernard Valeon"
 quest_sequence: 2

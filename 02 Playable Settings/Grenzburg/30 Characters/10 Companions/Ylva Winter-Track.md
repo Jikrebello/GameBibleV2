@@ -27,7 +27,10 @@ archetype_humiliation: "pity, patronization, confinement, or visible uselessness
 care_language: ["intervention", "repair", "warning", "food", "standing watch"]
 archetype_shadow: "contempt for dependence and the belief that her own body is expendable"
 preservation_lesson: "vulnerability does not place her in anyone's custody"
-past_anchor: ""
+remote_claim_anchor: "The White-Sled Rescue liability"
+past_contact_mode: remote-only
+debt_manager: "Claims-Factor Marco Bellandi"
+legal_debt_state_key: "ylva_legal_debt_state"
 voice_status: calibrated
 emotional_rewrite_status: bible-locked
 architecture_status: migrated

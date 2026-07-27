@@ -9,40 +9,40 @@ culture: []
 related_factions: ["Blackjack Corps"]
 appears_in: ["Grenzburg"]
 needs:
-  - clear all preserve, reframe, and replace dispositions through the four paired emotional rewrite passes
-  - name and block the 21 reserved authored pieces during their paired passes
-  - approve Ashira, Dismas, and Zafir's exact preparation thresholds and autonomous outcome tables during their paired passes
+  - clear the remaining preserve, reframe, and replace dispositions through the final three paired emotional rewrite passes
+  - name and block the 14 reserved authored pieces during their paired passes
+  - approve Dismas and Zafir's exact preparation thresholds and autonomous outcome tables during their paired passes
 tags: [game-ready]
 ---
 # Companion Campaign Expansion Register
 
-This register controls exactly eighty-eight authored companion pieces. Elara's, Ilyana's, Ylva's, Bernard's, and Tavio's eleven-piece authored campaigns are structurally migrated and blocked. The other existing quest sources retain `architecture_status: pending-migration`; untitled slots do not receive empty notes.
+This register controls exactly eighty-eight authored companion pieces. Elara, Ashira, Ilyana, Ylva, Bernard, and Tavio now have eleven linked authored pieces. Elara and Ashira are emotionally cleared through paired rewrite 01. Later campaigns remain outside implementation-ready views until their own paired passes clear emotional, dialogue, and remote-claim status.
 
-Structural status is not emotional readiness. [[Companion Emotional Rewrite Audit]] assigns every piece a preserve, reframe, or replace brief. All linked companion quests currently use `dialogue_status: pending-rewrite` and remain outside implementation-ready views until their paired pass clears both emotional and dialogue status.
+Structural status is not emotional readiness. [[Companion Emotional Rewrite Audit]] assigns every uncleared piece a preserve, reframe, or replace brief.
 
-Current authored count: **67 linked / 21 reserved / 88 total**. Because romance and sworn bond are mutually exclusive and only one of each may be committed across the roster, no more than **74 pieces** are playable in one run: seventy-two non-exclusive pieces, one romance, and one bond.
+Current authored count: **74 linked / 14 reserved / 88 total**. Because romance and sworn bond are mutually exclusive and only one of each may be committed across the roster, no more than **74 pieces** are playable in one run: seventy-two non-exclusive pieces, one romance, and one bond.
 
 ## Count Authority
 
 | Role | Linked notes | Reserved pieces | Total |
 |---|---:|---:|---:|
 | Introductory cases | 8 | 0 | 8 |
-| Short act operations | 15 | 9 | 24 |
+| Short act operations | 18 | 6 | 24 |
 | Duo act finales | 24 | 0 | 24 |
-| Friendship episodes | 5 | 3 | 8 |
-| Romance episodes | 5 | 3 | 8 |
-| Sworn-bond episodes | 5 | 3 | 8 |
-| Summer codas | 5 | 3 | 8 |
-| **Authored pieces** | **67** | **21** | **88** |
+| Friendship episodes | 6 | 2 | 8 |
+| Romance episodes | 6 | 2 | 8 |
+| Sworn-bond episodes | 6 | 2 | 8 |
+| Summer codas | 6 | 2 | 8 |
+| **Authored pieces** | **74** | **14** | **88** |
 
 ## Emotional Rewrite Authority
 
-| Disposition | Linked pieces | Reserved pieces | Authored total |
+| State | Linked pieces | Reserved pieces | Authored total |
 |---|---:|---:|---:|
-| preserve | 32 | 0 | 32 |
-| reframe | 25 | 0 | 25 |
-| replace | 10 | 21 | 31 |
-| **Total** | **67** | **21** | **88** |
+| cleared and dialogue-approved: Elara and Ashira | 22 | 0 | 22 |
+| linked, awaiting later paired rewrite | 52 | 0 | 52 |
+| reserved for later paired rewrite | 0 | 14 | 14 |
+| **Total** | **74** | **14** | **88** |
 
 The eight archetypal engines are controlled by [[Companion Archetype Constitution]]:
 
@@ -59,17 +59,17 @@ The pair order is mandatory because each pass must rewrite the shared three-seas
 
 | ID | Role | Content | Status |
 |---|---|---|---|
-| CMP-01-I | introduction | [[Names Beneath Lime]] | blocked; migrated |
-| CMP-01-A1-O | Act I operation | [[The Sixth Field Book]] | blocked; migrated |
-| CMP-01-A1-F | Act I finale | [[A House Fed by Bones]] | blocked; migrated |
-| CMP-01-FR | friendship episode | [[A Better Wager]] | blocked; migrated |
-| CMP-01-A2-O | Act II operation | [[Eight Honest Warrants]] | blocked; migrated |
-| CMP-01-A2-F | Act II finale | [[The Patron's Cabinet]] | blocked; migrated |
-| CMP-01-RM | romance episode | [[Raven Shelf at Dawn]] | blocked; migrated |
-| CMP-01-BD | sworn-bond episode | [[Two Names on the Rope]] | blocked; migrated |
-| CMP-01-A3-O | Act III operation | [[Sixty-Three Claims]] | blocked; migrated |
-| CMP-01-A3-F | Act III finale | [[No Lady of Velescar]] | blocked; migrated |
-| CMP-01-S | summer coda | [[The First Honest Find]] | blocked; migrated |
+| CMP-01-I | introduction | [[Names Beneath Lime]] | blocked; migrated; cleared |
+| CMP-01-A1-O | Act I operation | [[A Splendid Little Expedition]] | blocked; migrated; cleared |
+| CMP-01-A1-F | Act I finale | [[A House Fed by Bones]] | blocked; migrated; cleared |
+| CMP-01-FR | friendship episode | [[A Better Wager]] | blocked; migrated; cleared |
+| CMP-01-A2-O | Act II operation | [[The Winter Company]] | blocked; migrated; cleared |
+| CMP-01-A2-F | Act II finale | [[The Patron's Cabinet]] | blocked; migrated; cleared |
+| CMP-01-RM | romance episode | [[Raven Shelf at Dawn]] | blocked; migrated; cleared |
+| CMP-01-BD | sworn-bond episode | [[Two Names on the Rope]] | blocked; migrated; cleared |
+| CMP-01-A3-O | Act III operation | [[The Hands That Hold It]] | blocked; migrated; cleared |
+| CMP-01-A3-F | Act III finale | [[No Lady of Velescar]] | blocked; migrated; cleared |
+| CMP-01-S | summer coda | [[The First Honest Find]] | blocked; migrated; cleared |
 
 Embedded opportunities: 10 blocked through [[Elara Companion Campaign]] and [[Elara Banter and Reactivity]]. Act readiness is two of five; all three autonomous results and changed re-entry states are locked.
 
@@ -113,19 +113,19 @@ Embedded opportunities: 10 blocked through [[Ylva Companion Campaign]] and [[Ylv
 
 | ID | Role | Content | Status |
 |---|---|---|---|
-| CMP-04-I | introduction | [[The Faces She Kept]] | pending migration |
-| CMP-04-A1-O | Act I operation | untitled | reserved |
-| CMP-04-A1-F | Act I finale | [[A Useful Terror]] | pending migration |
-| CMP-04-A2-O | Act II operation | untitled | reserved |
-| CMP-04-A2-F | Act II finale | [[The Price of the Bow Tower]] | pending migration |
-| CMP-04-A3-O | Act III operation | untitled | reserved |
-| CMP-04-A3-F | Act III finale | [[No Human Shadow]] | pending migration |
-| CMP-04-FR | friendship episode | untitled | reserved |
-| CMP-04-RM | romance episode | untitled | reserved |
-| CMP-04-BD | sworn-bond episode | untitled | reserved |
-| CMP-04-S | summer coda | untitled | reserved |
+| CMP-04-I | introduction | [[The Faces She Kept]] | blocked; migrated; cleared |
+| CMP-04-A1-O | Act I operation | [[The Room That Answered]] | blocked; migrated; cleared |
+| CMP-04-A1-F | Act I finale | [[A Useful Terror]] | blocked; migrated; cleared |
+| CMP-04-FR | friendship episode | [[The Puppet Dies Twice]] | blocked; migrated; cleared |
+| CMP-04-A2-O | Act II operation | [[What the Ruins Repeated]] | blocked; migrated; cleared |
+| CMP-04-A2-F | Act II finale | [[When the Screen Comes Down]] | blocked; migrated; cleared |
+| CMP-04-RM | romance episode | [[The Garden Under Rain]] | blocked; migrated; cleared |
+| CMP-04-BD | sworn-bond episode | [[What We Keep Closed]] | blocked; migrated; cleared |
+| CMP-04-A3-O | Act III operation | [[Borrowed Faces]] | blocked; migrated; cleared |
+| CMP-04-A3-F | Act III finale | [[No Human Shadow]] | blocked; migrated; cleared |
+| CMP-04-S | summer coda | [[A Shadow with No Face]] | blocked; migrated; cleared |
 
-Embedded opportunities: 10 reserved. Autonomous Act I, II, and III actions are controlled below; exact results await the user-approved deep block.
+Embedded opportunities: 10 blocked through [[Ashira Companion Campaign]] and [[Ashira Banter and Reactivity]]. Act readiness is two of five; all autonomous results, changed re-entry states, relationship variants, and progression rewards are locked.
 
 ## CMP-05: Bernard Valeon
 
@@ -237,10 +237,10 @@ At each act gate, an unresolved companion undertakes an authored action whether 
 
 | Companion | Act I autonomous action | Act II autonomous action | Act III autonomous action |
 |---|---|---|---|
-| Elara | Follows Vasko's copied field book to the Southwood dig. | Enters Vardek's winter cabinet operation by the strongest access she possesses. | Races surviving Velescar interests to the Ledger Quays cache and its claims. |
+| Elara | Leads the best available current crew to Seven Mounds. | Enters the remote-patron cabinet operation by the strongest access she possesses. | Races local Vardek agents to the Old Tithe Vault and its claims. |
 | Ilyana | Goes to Eel Bridge to recover Nereo without a plan that requires his performance. | Stages a casualty refrain using whatever valid or invalid authority she still possesses. | Confronts the River Boom cadence engine and settles the Salt-Reed releases, credit, and property. |
 | Ylva | Saves the isolated households but calls relief late, causing one avoidable injury and additional equipment loss. | Preserves the Longlake evacuation but accepts the abandoned cargo as another personal debt. | Other Blackjacks recover her after she attempts to hold the final route alone; she becomes a supervised pathfinder. |
-| Ashira | Confronts the continued practical use of the human faces she weaponized. | Answers the institutional and family cost attached to Qesheth's Bow Tower. | Decides the fate of her recognizable human-derived imprint roster. |
+| Ashira | Saves the Sunken Causeway captives but, by default, uses one refused recognizable face. | Saves debtors from copied Yard methods under Brina's externally imposed custody. | Seals the human roster under divided custody and remains a supervised Medium. |
 | Bernard | Conducts the Chapel-Folk children's road journey; by default all survive with avoidable injuries and the bear dies in defence. | Saves the relief patients and genuinely kindles White Flame, but Petra accepts restitution without forgiveness and player unlocks close. | Serves the Blackjack infirmary under Brina's inventory authority; Open Lamp remains unrealized. |
 | Dismas | Returns to an easy ambush whose logic repeats his original wrong. | Faces the name and public charge attached to the rockfall. | Chooses whether to answer the road through accountable service or renewed flight. |
 | Tavio | Proves Red Brass substitution but pushes beyond a stop call, causing one avoidable worker injury. | Fights Lio fairly while accepting sole blame to preserve the Red Brass Bench. | Saves the Great Forge only after an external evacuation order and becomes a supervised load tester. |

@@ -4,92 +4,125 @@ status: canon
 canon_level: local
 visibility: author-only
 era: ["Present Day"]
-region: ["Grenzburg"]
-culture: ["Jirahar", "Qesheth"]
+region: ["Longlake Country"]
+culture: ["Eclessian", "Folk"]
 related_factions: ["Blackjack Corps"]
 appears_in: ["Grenzburg"]
 needs: []
-tags: [narrative-rewrite]
+tags: [game-ready]
 quest_class: companion
 act: act-1
-availability_window: ["Open Autumn", "Early Winter"]
+availability_window: ["Open Autumn", "Late Autumn"]
 repeatability: one-shot
 cutoff_result: transforms
-world_state_outputs: ["ashira_terror_method", "bent_oak_families", "sunken_causeway_access"]
-required_locations: ["Sunken Causeway", "Bent-Oak Refuge", "Cold Net Cove"]
-blocking_status: outlined
-architecture_status: pending-migration
+world_state_outputs: ["sunken_causeway_captives", "human_face_use_state", "ashira_act1_resolution", "ashira_direction"]
+reward_unlocks: ["Hush Field"]
+required_locations: ["Sunken Causeway", "Longlake Country"]
+blocking_status: blocked
+architecture_status: migrated
 companion_content_role: act-finale
 companion_campaign_stage: act-1
 quest_owner: "Ashira bath Melan"
-quest_sequence: 2
+quest_sequence: 3
 companion_id: "CMP-04"
 faction_line: ""
 faction_branch: ""
-emotional_rewrite_status: reframe
-dialogue_status: pending-rewrite
-archetype_pressure: "Witness becomes possession: test whether Ashira can know grief and forbidden truth without appropriating another person."
-emotional_function: "Keep the captives and human-face shortcut; make privacy, fear, and the families' agency more important than a binary policy test"
-pleasure_beat: "Forbidden knowledge, black humor, nocturnal beauty, private jokes, and chosen quiet."
-care_beat: "Ashira guards privacy and remains beside grief without speaking as its owner."
-player_archetype_hooks: []
+chapter_id: ""
+main_sequence: 0
+story_gate: confrontation
+relationship_variant: ""
+encounter_deck: []
+postgame_season: ""
+estimated_hours: 1.5
+gameplay_pillars: [dungeon, rescue, infiltration, combat, choice]
+required_states: ["ashira_introduction_complete"]
+optional_state_inputs: ["ashira_spindle_recovered", "ashira_yard_testimony_protected", "ashira_causeway_flood_route", "ashira_nonhuman_decoy_pattern", "ashira_privacy_compact"]
+companion_required: "Ashira bath Melan"
+duo_quest: true
+pause_points: ["Causeway Camp Reached", "Captive Gallery Found"]
+preparation_inputs: ["ashira_spindle_recovered", "ashira_yard_testimony_protected", "ashira_causeway_flood_route", "ashira_nonhuman_decoy_pattern", "ashira_privacy_compact"]
+preparation_threshold: "2 participate; 3 all material objectives; 4 one safeguard"
+autonomous_deadline: "The Last Convoy"
+autonomous_resolution: "Ashira saves the captives but uses one recognizable face after their families refuse."
+changed_reentry: "The Drowned Answer"
+ensemble_inputs: ["Elara Velescar"]
+identity_hooks: ["Folk", "Wilderness", "Scholarly", "Mystic/Religious"]
+emotional_rewrite_status: cleared
+dialogue_status: approved
+remote_claim_status: compliant
+archetype_pressure: "A prohibited face is tactically effective, but the affected living people have authority over its use."
+emotional_function: "Force Ashira's core error through an urgent rescue rather than a hearing."
+pleasure_beat: "Flooded Atherian traversal, reflected-light stealth, and tactical shade play."
+care_beat: "Let captives and families choose what risk they will accept and what likeness they refuse."
+player_archetype_hooks: ["Cheerleader", "Tomboy", "Goth", "Bohemian", "Jock", "Nerd", "Rebel", "Goofball", "Grey"]
+persistence_scope: regional-persistent
 ---
 # A Useful Terror
 
-## Role in the Arc
+## Premise
 
-This is Ashira bath Melan's quest 2 of four. It is playable in Open Autumn and Early Winter. The current note remains an outline; its deep block must use the fixed player-plus-Ashira bath Melan duo format in [[Companion Field Familiarity and Duo Quest Standard]].
+Smugglers using [[Sunken Causeway]] take six ferry workers and two children as leverage. Their sentries are former associates of the raider band whose human patterns Ashira retained. One recognizable face could scatter them immediately.
 
-## Hook and Immediate Stake
+The captives' families refuse that use. Some knew the dead raider. Others simply reject being rescued through terror imposed in their name.
 
-Raiders trap Chapel-Folk families beyond the flooded Sunken Causeway. Ashira proposes manifesting the face of their dead leader to break them without a costly assault.
+## Duo Structure
 
-Rescue the families while deciding whether effective psychological terror is an acceptable shortcut.
+The player and Ashira enter through:
 
-## Player Actions
+- submerged service arch;
+- broken causeway top;
+- reed-channel maintenance route.
 
-Scout by boat, learn the raiders' watch pattern, repair a causeway mechanism, and choose direct rescue, deceptive nonhuman imprints, or Ashira's recognizable human shade.
+All routes remain usable by every vocation. Water timing, rope, lamps, debris, and observation provide baseline solutions.
 
-## Opposition and Pressure
+Track `Flood Pulse 3-0`, eight captives individually, and `Sentry Nerve 0-3`.
 
-The raiders threaten captives and have prepared the main road. A degraded stolen imprint may also appear, attacking by repetition rather than allegiance.
+## Middle
 
-## Information Paths
+The delve alternates:
 
-Refuge survivors know a culvert, ferrymen saw the sentry changes, and old Atherian marks operate the flood gate. Two paths always reach the captives.
+- silent crossings through reflected signal galleries;
+- ordinary smugglers;
+- natural water hazards;
+- damaged ward repetitions;
+- separated captives who can provide route choices.
 
-Required understanding never rests on a single social check. Cultural, background, Insight, exploration, and companion observations alter clarity and cost rather than deciding whether the plot continues.
+Ashira's nonhuman roster can misdirect sentries. The human face is faster and opens a clean path, but use after refusal moves her toward possessive even if nobody dies.
 
-## Decision or Mastery Point
+## Climax
 
-Use a human face, reject it, or permit a bounded demonstration away from families. Success does not erase the moral character of the method.
+The final gallery floods while the smuggler chief moves two captives onto the upper causeway. The duo can:
 
-## Fail-Forward Results
+- deploy the prepared nonhuman decoy;
+- split and perform two rescues;
+- release water early to break the formation;
+- use the human face;
+- openly attack and accept higher injury risk.
 
-A failed stealth approach starts relocation rather than execution. Flood damage closes the easy exit but opens a boat rescue.
+Three assets permit rescue of all captives and preservation of the Causeway route. Four provide a safeguard.
 
-Failed combat, stealth, or persuasion changes injuries, evidence, access, public trust, or the later encounter. It does not erase the companion line.
+Ashira asks once:
 
-## World-State Outputs
+> “It would work.”
 
-- `ashira_terror_method`
-- `bent_oak_families`
-- `sunken_causeway_access`
+If refused, she does not ask again on the witnessing path.
 
-## Seasonal Cutoff
+## Failure
 
-At the spring transition, unresolved danger produces a named casualty, loss, or policy change and the reckoning quest inherits it.
+- Failed stealth moves captives; it does not execute them off-screen.
+- Flood failure injures or separates people and closes one exit.
+- A human-face deployment ends resistance but causes family and company consequences.
+- The smuggler chief may escape without carrying the campaign.
 
-## Rewards and Return Value
+## Outcome
 
-Tests her habitual answer under real pressure and changes how the Church and Folk respond to her.
+Record each captive, Causeway damage, `human_face_use_state`, `ashira_act1_resolution`, and `ashira_direction`.
 
-Completion grants a companion technique or field synergy, qualitative approval movement, and a concrete late-game or summer state. Exact numerical tuning remains provisional.
+Unlock **Hush Field**. Friendship episode [[The Puppet Dies Twice]] becomes available.
 
 ## Navigation
 
-- [[Ashira bath Melan]]
-- [[Companion Constitution]]
-- [[Narrative State Register]]
-- [[Quest and Content Architecture]]
-- [[Grenzburg MOC]]
+- [[Ashira Companion Campaign]]
+- [[The Puppet Dies Twice]]
+- [[Sunken Causeway]]
+- [[Ashira Shadow Roster Package]]

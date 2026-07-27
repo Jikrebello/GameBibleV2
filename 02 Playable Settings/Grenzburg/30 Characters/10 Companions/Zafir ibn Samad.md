@@ -27,7 +27,10 @@ archetype_humiliation: "public error, ridicule, helplessness, or being treated a
 care_language: ["explanation", "repair", "preparation", "remembering details", "building tools"]
 archetype_shadow: "condescension, technocracy, and treating people as variables in a beautiful model"
 preservation_lesson: "knowledge serves people best when it cannot overrule their personhood"
-past_anchor: "Samira bint Nahal"
+remote_claim_anchor: "Samira bint Nahal and the inverted surety"
+past_contact_mode: remote-only
+debt_manager: "Claims-Factor Marco Bellandi"
+legal_debt_state_key: "zafir_legal_debt_state"
 voice_status: calibrated
 emotional_rewrite_status: bible-locked
 architecture_status: pending-migration
@@ -113,7 +116,7 @@ She escaped. Zafir became subject to remote restraint through the same architect
 
 His law house paid claims, voided affected instruments, and called his professional surety. Medori purchased the liability and court-appointed custody of the inverted relation.
 
-Samira's coercion of Zafir is culpable. His victimization does not retroactively justify his practice. She is the sole person from his former life who may physically arrive in Grenzburg.
+Samira's coercion of Zafir is culpable. His victimization does not retroactively justify his practice. She remains physically absent and may act through authenticated instructions, legal agents, testimony, refusal, or silence. [[Claims-Factor Marco Bellandi]] administers the portfolio without treating either party's legal position as a moral verdict.
 
 ## Culpability
 
@@ -283,7 +286,7 @@ The rebuilt eleven-piece line must move through:
 3. a field adventure where human choice changes the physical system;
 4. friendship through a puzzle, model, or invention with no practical necessity;
 5. siege logistics improved by imperfect improvisation;
-6. Samira arriving with independent aims, culpability, and knowledge;
+6. Samira exercising independent aims, culpability, and knowledge through remote legal action rather than arriving to complete Zafir's story;
 7. relationship episodes where he is known beyond usefulness;
 8. a voluntary Binder network whose participants can alter the plan;
 9. a final temptation to use perfect emergency command once.

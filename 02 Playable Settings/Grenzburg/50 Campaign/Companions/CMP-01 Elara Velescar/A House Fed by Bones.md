@@ -4,20 +4,20 @@ status: canon
 canon_level: local
 visibility: author-only
 era: ["Present Day"]
-region: ["Grenzburg", "Southwood Barrowlands"]
-culture: ["Eclessian", "Virelian", "Folk"]
-related_factions: ["Blackjack Corps", "Vardek household", "Grenzburg hunters", "Folk kindreds"]
+region: ["Southwood Barrowlands"]
+culture: ["Eclessian", "Folk"]
+related_factions: ["Blackjack Corps"]
 appears_in: ["Grenzburg"]
 needs: []
-tags: [narrative-rewrite]
+tags: [game-ready]
 quest_class: companion
 act: act-1
-availability_window: ["Open Autumn", "Early Winter"]
+availability_window: ["Open Autumn", "Late Autumn"]
 repeatability: one-shot
-cutoff_result: resolves-offscreen
-world_state_outputs: ["elara_act1_chapter_resolved", "elara_act1_result", "elara_direction", "seven_mounds_state", "coerced_diggers_state", "kata_belyn_state", "vasko_dren_state", "daria_keln_state", "elara_fieldbook_state", "vardek_chain_proof", "elara_workers_before_proof"]
-reward_unlocks: ["Fault Proven", "Delver-Duelist custom parts"]
-required_locations: ["Blackjack Yard", "Ashfield Lodge", "Ashfield Track", "Seven Mounds"]
+cutoff_result: transforms
+world_state_outputs: ["seven_mounds_state", "seven_mounds_worker_roster", "southwood_burial_state", "elara_act1_resolution", "elara_direction"]
+reward_unlocks: ["Fault Proven", "Delver-Duelist rapier parts", "Delver-Duelist pick parts", "Prepared dart parts"]
+required_locations: ["Ashfield Lodge", "Seven Mounds"]
 blocking_status: blocked
 architecture_status: migrated
 companion_content_role: act-finale
@@ -29,282 +29,163 @@ faction_line: ""
 faction_branch: ""
 chapter_id: ""
 main_sequence: 0
-story_gate: operation
-estimated_hours: 1.75
-gameplay_pillars: [expedition, dungeon, rescue, combat, traversal]
-required_states: ["elara_introduction_complete", "elara_act1_readiness_viable"]
-optional_state_inputs: ["elara_sixth_fieldbook_secured", "elara_southwood_route_intelligence", "elara_burial_name_support", "elara_shoring_knowledge", "elara_living_custodian_support", "vasko_dren_state", "customs_porter_state", "grave_goods_state", "southwood_early_warning"]
-field_experience_gate: []
+story_gate: confrontation
+relationship_variant: ""
+encounter_deck: []
+postgame_season: ""
+estimated_hours: 1.5
+gameplay_pillars: [expedition, infiltration, rescue, survival, boss]
+required_states: ["elara_introduction_complete"]
+optional_state_inputs: ["elara_mixed_expedition_crew", "elara_southwood_intelligence", "elara_burial_support", "elara_shoring_knowledge", "elara_living_custodians"]
 companion_required: "Elara Velescar"
 duo_quest: true
-pause_points: ["Ashfield Reconnaissance Complete", "Workers Secured Before Descent"]
-relationship_gate: "No relationship required; no unresolved departure conflict"
-preparation_inputs: ["elara_sixth_fieldbook_secured", "elara_southwood_route_intelligence", "elara_burial_name_support", "elara_shoring_knowledge", "elara_living_custodian_support"]
-preparation_threshold: "2 of 5"
+pause_points: ["Seven Mounds Camp Reached", "Upper Chamber Secured"]
+preparation_inputs: ["elara_mixed_expedition_crew", "elara_southwood_intelligence", "elara_burial_support", "elara_shoring_knowledge", "elara_living_custodians"]
+preparation_threshold: "2 participate; 3 all material objectives; 4 one safeguard"
 autonomous_deadline: "The Last Convoy"
-autonomous_resolution: "Elara enters Seven Mounds alone; direction and readiness determine worker injury, evidence loss, and antagonist escape"
+autonomous_resolution: "Elara saves the workers after chasing proof first; avoidable injuries and a scarred mound remain."
 changed_reentry: "The Scarred Mounds"
 ensemble_inputs: ["Bernard Valeon", "Dismas Raben"]
-identity_hooks: []
-encounter_deck: []
-persistence_scope: regional-milestone
-postgame_season: ""
-emotional_rewrite_status: reframe
-dialogue_status: pending-rewrite
-archetype_pressure: "Belonging becomes curation: test whether Elara shares social power or decides who deserves the room."
-emotional_function: "Keep Seven Mounds and people-before-proof; make workers active members whose recognition competes with Elara's need to control the story"
-pleasure_beat: "Social sparkle, discovery, elegant risk, and making a temporary company feel chosen."
-care_beat: "Elara shares credit, access, attention, and protection without making gratitude the price of belonging."
-player_archetype_hooks: []
+identity_hooks: ["Wilderness", "Peasant/Labour", "Folk", "Scholarly", "Merchant/Craft"]
+emotional_rewrite_status: cleared
+dialogue_status: approved
+remote_claim_status: compliant
+archetype_pressure: "Current workers may refuse Elara's plan, title, praise, and preferred account while still needing rescue."
+emotional_function: "Make people-before-proof an action decision made among capable adults."
+pleasure_beat: "A dangerous Southwood approach, clever entry, discovery, and Elara in her element."
+care_beat: "Elara follows a worker's stop call and spends the best route on people rather than evidence."
+player_archetype_hooks: ["Cheerleader", "Tomboy", "Goth", "Bohemian", "Jock", "Nerd", "Rebel", "Goofball", "Grey"]
+persistence_scope: regional-persistent
 ---
 # A House Fed by Bones
 
-## Quest Function
+## Premise
 
-This is Elara's Act I finale and a full Southwood expedition. It turns her copied methods into a current danger, gives the workers faces and agency, and tests whether she will abandon proof or treasure when people are beneath unstable stone.
+A local illegal crew is opening **Seven Mounds** using copied Velescar surveys sold through remote Vardek channels. The workers are current Southwood people: some were coerced by food debt, some took dangerous pay knowingly, and some now want to leave with evidence that they were promised a lawful excavation.
 
-The active party is the player and Elara. Kata and rescued diggers may assist as temporary NPCs outside the squad limit.
+The player and Elara enter as a duo. Current workers, custodians, and temporary rescuers do not consume companion slots.
 
-## Unlock and Staging
+## Cast and States
 
-Once any two Act I assets in [[Elara Companion Campaign]] are secured, a messenger from [[Ashfield Lodge]] reaches Elara at the next camp or hub. Hunters stopped one cart carrying Velescar-marked survey pages. A second cart and its labor crew continued toward [[Seven Mounds]].
+**Foreman Branka Sohl** is a Grenzburg delver who knowingly crossed the custody line. She is practical, armed, and willing to abandon her crew to keep portable proof.
 
-The tracked docket displays Viable, Prepared, or Strongly Prepared readiness before departure. The quest stages from Ashfield Lodge. Accepting the closed expedition dismisses the other active companions. The player chooses supplies, route, dart preparation, and any available temporary support before forming the duo.
+Six workers are tracked individually:
 
-## Immediate Situation
+- Emri, shoring lead;
+- Fenn and Bela, siblings on spoil haul;
+- Rosk, powder hand;
+- Juta, cook and tally keeper;
+- Vale, injured survey assistant.
 
-Vardek's field operation has adapted Elara's old book to a Southwood mound. If Vasko escaped [[Names Beneath Lime]], he commands it. If he was captured or killed, [[Daria Keln]] takes control. The crew intends to breach the names chamber before winter closes the road. Workers are tied to the job through inherited fines, food advances, threatened households, and armed oversight.
+They possess different information and do not vote as one moral chorus.
 
-The current excavation is not required to prove the old Virelian crime. Its purpose is profit and destruction of evidence: the field factor expects the mound to contain portable memorial goods and plans to bury copied correspondence in the final collapse.
+Track:
 
-## Principal Cast
+- `Mound Integrity: 3-0`;
+- `Crew Alarm: 0-3`;
+- each worker as safe, active, injured, trapped, fled, or dead;
+- evidence and burial goods separately.
 
-- [[Elara Velescar]]: recognizes her notation and must confront how portable her methods became.
-- [[Vasko Dren]]: excavation master and demolition-focused human boss if still free.
-- [[Daria Keln]]: record-burning field factor and conditional principal opponent if Vasko is unavailable.
-- [[Kata Belyn]]: former Velescar digger, now coerced shoring lead and temporary rescue ally.
-- **Hunter Reeve Marta Hain:** Ashfield coordinator who protects local routes without claiming universal Folk authority.
-- **Toren Ash-Hand:** local burial witness able to identify the opened mound's active claims.
+## Beginning: Ashfield to Seven Mounds
 
-## Expedition States
+Three approaches remain viable:
 
-### Excavation Clock: 4 to 0
+- **hunter trail:** safest observation, longest route;
+- **spoil trench:** fastest worker contact, high collapse risk;
+- **crown descent:** vertical surprise entry through an old vent.
 
-- **4:** outer cut incomplete; workers can still be separated from guards.
-- **3:** names-chamber door exposed.
-- **2:** the field factor begins removing markers and prepares powder or sealed fire bundles.
-- **1:** lower niche opens and residue activates.
-- **0:** the field factor attempts extraction and collapse; the quest advances to the emergency sequence.
+Every vocation can use every approach with gear and effort. Specialized movement provides shortcuts.
 
-The clock advances through extended delay after commitment, failed stealth, escaped sentries, or retreat from Seven Mounds. It does not advance while the quest is paused at an authored pause point.
+Along the path Elara tells a magnificent story about “the first clean look” at a sealed chamber. Emri, contacted through a work whistle, replies:
 
-### Shoring Integrity: 3 to 0
+> “We have looked. It is falling.”
 
-- **3:** supports can carry an orderly withdrawal.
-- **2:** one route will fail during the climax.
-- **1:** rescue and pursuit cannot both use the main descent.
-- **0:** immediate collapse begins; refuge passage or new fracture becomes the exit.
+That interruption establishes the quest's tone. Workers possess knowledge Elara wants, and they are not waiting to become her crew.
 
-Sabotage, careless powder, combat against supports, and ignored worker warnings reduce integrity. Kata, Elara, craft knowledge, or direct reinforcement can restore one stage before the descent.
+## Middle: The Active Dig
 
-### Worker Roster
+The duo can:
 
-Track Kata and six named diggers as safe, working, injured, captive, missing, or dead. They are not one abstract rescue total. Failure may split the crew without killing everyone at once.
+- infiltrate through shifts;
+- openly demand a stop;
+- free food and tool stores to remove immediate coercion;
+- contact workers and let them decide whether to flee, testify, or hold the shoring.
 
-## Beginning: Ashfield Lodge
+Branka's guards, unstable spoil, natural vermin, damaged burial mechanisms, and non-conscious [[Corpse Residue]] create distinct threats. No supernatural force caused the human exploitation.
 
-At the lodge, the duo examines the intercepted cart and interviews two frightened carriers. Required conclusions have several sources:
+The upper chamber reveals:
 
-- Elara recognizes her survey shorthand and a correction held only in Vardek's cabinet or the recovered sixth field book;
-- the cart's food account shows labor advances charged to Virelian households;
-- hunter tracks establish sentry numbers and the three approaches;
-- a broken shoring wedge bears Kata's personal mark;
-- local burial testimony establishes that the fourth mound is not ownerless ruin.
+- name recesses already stripped;
+- evidence that the copied plan omitted a refuge passage;
+- a portable Vardek purchase instruction;
+- living workers trapped beyond a failed partition;
+- a protected inner panel the custodians expressly forbid opening.
 
-The player decides whether to announce lawful intervention, ask local witnesses to wait outside danger, or approach covertly. A public warning lowers surprise but prepares rescue support. Covert entry improves position but leaves the lodge unable to respond until signaled.
+## Collapse and Priority
 
-### Pause Point: Ashfield Reconnaissance Complete
+Branka starts a partial powder line to open her escape. The lower chamber separates into four objectives:
 
-The quest may pause after the route and supplies are chosen. Resuming begins on the selected approach.
+1. workers behind the partition;
+2. the purchase instruction;
+3. portable memorial property;
+4. the inner panel and its intact burial context.
 
-## Approach to Seven Mounds
+With three assets and strong play, all material objectives are achievable. With fewer, the party must commit physically to routes. Elara can chase Branka or stabilize the worker passage, but cannot do both alone.
 
-### Hunter Trail
+Workers act:
 
-The safest ground offers observation blinds and a chance to capture a sentry. Vasko watches it and can withdraw workers inside if warned.
+- Emri calls a stop and can direct shoring;
+- Rosk can disarm one charge if trusted;
+- Juta carries the work roll only if not treated as a passive witness;
+- Vale knows the refuge passage but cannot walk unaided.
 
-### Spoil Trench
+If Elara overrides them, she may still save lives through competence while repeating the ownership pattern.
 
-The trench reaches the labor shelter and tool platform directly. It risks crossfire, rolling debris, and an early shoring loss.
+## Boss and Escape
 
-### Vertical Crown
+Branka fights with powder, hooks, crossbow pressure, and collapsing lines. She may be captured, killed in justified resistance, or escape. Later stages use the surviving evidence and local-agent network; they do not require her.
 
-An old offering and ventilation shaft permits rope descent behind the foreman's camp. Every vocation can use prepared anchors. Elara identifies an optional silent landing and a brittle section that can later become an escape.
+Escape uses the reinforced descent, refuge passage, or blast fracture. Carrying injured people changes traversal and enemy pressure. Elara's pick is useful, not mandatory.
 
-Route choice changes opening position, not access to the whole quest.
+## End: Refusal and Credit
 
-## The Foreman's Camp
+At the surface, the workers decide:
 
-The camp contains:
+- whether to give testimony;
+- whether Elara may use their names publicly;
+- who controls recovered tools and wages;
+- whether the mound remains closed.
 
-- armed delvers and two labor overseers;
-- worker shelter secured from the outside;
-- powder store and fuse runs;
-- copied field-book leaves distributed among stations;
-- the field factor's correspondence case;
-- a signal line to the mound entrance.
+Elara can offer an inspiring public account. Emri may answer, “You may say you listened. Do not say we followed.”
 
-The duo may infiltrate, challenge the camp openly, create a work stoppage, or free Kata first. Workers do not become a friendly army merely because restraints open. Some flee, some protect relatives, and Kata remains only if the player states a survivable plan.
+The resolved Act I beat occurs when she accepts that sentence without improving it.
 
-The field factor argues over the site only to buy excavation time. Vasko uses grievance and practical authority; Daria uses account, liability, and claimed household consent. Either is willing to abandon guards and workers.
+## Fail-Forward
 
-### Pause Point: Workers Secured Before Descent
+- Missing workers leave marks and later rescue routes.
+- Lost evidence survives through the work roll or purchase instruction.
+- A scarred mound remains visitable in winter.
+- Broken custodian trust closes the inner route but not the rescue.
+- Defeat results in an exterior recovery with Branka gone and the worker state worsened.
 
-If the outer camp is stable and at least one safe shelter remains, the player may pause before entering the mound. Resuming reforms the duo at the entrance with current workers and integrity preserved.
+## Outcomes and Rewards
 
-## The Opened Mound
+`elara_act1_resolution`:
 
-The interior uses three connected problems rather than a corridor of unrelated fights.
+- **workers-first:** Elara spends the strongest route on living people;
+- **prepared-both:** people, evidence, and context survive through preparation;
+- **proof-first-repaired:** she turns back after a material cost;
+- **curated-victory:** she saves people but claims their decision;
+- **house-fed:** proof or goods are preserved over workers.
 
-### Shored Descent
+Record `seven_mounds_state`, each worker, `southwood_burial_state`, and `elara_direction`.
 
-The player stabilizes, bypasses, or races through supports weakened by the excavation. A failed interaction causes injury, noise, and Shoring loss, not an arbitrary party kill.
-
-### Names Chamber
-
-Broken markers drive rattle-bone residue through a repeated defensive path. The pattern attacks vibration and moved goods rather than recognizing people. Solutions include:
-
-- physical destruction and respectful recovery;
-- replacing or bracing the displaced marker stones;
-- drawing the pattern into an empty route;
-- using terrain and timing to cross without disturbing further remains.
-
-Elara can read the pattern faster but is not the only solution.
-
-### Lower Niche
-
-The crew has reached portable memorial goods and a packet of correspondence intended for destruction. Kata identifies workers trapped behind a failed partition while the field factor prepares an exit.
-
-## Climax: People Beneath Stone
-
-Vasko fires a partial powder line if present. Daria instead ignites sealed record bundles and releases a loaded spoil cart through the lower supports. Either action separates the lower niche while the field factor retreats toward the crown shaft with the correspondence.
-
-The duo faces two immediate objectives:
-
-- release and extract trapped diggers;
-- prevent the field factor escaping with or destroying the evidence.
-
-Preparation can preserve both:
-
-- high Shoring Integrity keeps the descent open;
-- a freed Kata directs temporary workers through the refuge passage;
-- the vertical route intercepts the field factor;
-- preserved powder tools open a second rescue hole;
-- hunter support receives people outside once signaled.
-
-Without those advantages, the player must personally divide time. Elara proposes going after the evidence first. Her response to correction depends on prior accountability: an Open or Trusted Elara can be called back to the workers; a Strained Elara requires the player to take the rescue route while she pursues.
-
-## Field-Factor Confrontation
-
-Vasko fights through ropes, powder, loose stone, crossbow pressure, and escape routes. Daria uses locked divisions, hand-crossbow pressure, burning records, and workers as movement constraints. Neither has supernatural protection.
-
-- **Captured:** all exits are denied and the field factor is defeated after their demolition or document leverage is removed.
-- **Killed:** the field factor dies during combat, collapse, or a chosen lethal escape.
-- **Escaped:** the field factor leaves through an unsecured crown or forest cache.
-
-Surrender after capture must be honored or judged as a deliberate execution. The opponent's status changes later encounters but never gates their essential evidence.
-
-## Escape
-
-The final escape uses the reinforced main descent, opened refuge passage, or blast fracture. Carrying injured workers slows the duo and changes encounters. Elara's pick can create a faster option, but ordinary tools, Strength, warlock scripts, traversal, or Kata's guidance provide alternatives.
-
-The mound's visible state is determined after everyone who can be reached leaves.
-
-## Decisions
-
-### Mound treatment
-
-- **Preserve and witness:** leave portable goods under local and burial custody.
-- **Controlled recovery:** remove only unstable or already displaced objects with names recorded.
-- **Evidence priority:** take Vardek correspondence while accepting loss of some material context.
-- **Loot:** remove valuables for the player, Bank, or a faction, creating a major Elara conflict.
-
-### Worker remedy
-
-The player may fund immediate release, place fines into ducal or Church dispute, return workers to temporary Vardek custody, or let them scatter. No option makes their families instantly safe; each produces a later claim.
-
-## Information Paths
-
-- Vardek's chain appears in correspondence, payment seals, Vasko testimony, or Daria's account instructions.
-- Kata's coercion appears through fines, her account, or worker rosters.
-- Elara's copied method appears in field pages, tool marks, or her admission.
-- The cabinet correction appears in a copied note, the field factor's case, or an encoded payment instruction.
-
-## Fail-Forward Results
-
-- If Kata dies or disappears, shoring marks and another worker preserve her evidence; later testimony is weaker.
-- If all correspondence burns, the route plate and Customs records still reach Vardek.
-- If the mound collapses, surface spoil preserves some names while future access closes.
-- If the field factor escapes, that person strengthens later opposition rather than cancelling it.
-- If the duo is defeated, hunters recover them after the crew extracts more goods; workers and mound states worsen.
-
-## Outputs
-
-- `seven_mounds_state`: preserved, controlled-recovery, scarred, collapsed, or looted;
-- `coerced_diggers_state`: rescued, scattered, partial, recaptured, or dead;
-- `kata_belyn_state`: safe, injured, missing, dead, or hostile;
-- `vasko_dren_state`: captured, dead, escaped, or unknown;
-- `daria_keln_state`: inactive, captured, dead, escaped, or unknown;
-- `elara_fieldbook_state`: recovered, destroyed, copied-beyond-control, or surrendered-to-witnesses;
-- `vardek_chain_proof`: strong, partial, testimonial, or weak;
-- `elara_workers_before_proof`: affirmed, shared, denied, or unresolved.
-- `elara_act1_result`: played-resolved, played-compromised, autonomous-accountable, autonomous-mixed, or autonomous-entitled;
-- `elara_act1_chapter_resolved`: true;
-- `elara_direction`: accountable, mixed, or entitled.
-
-## Companion Movement
-
-The quest denies Elara the comforting claim that her crime was a single desperate episode. Her methods became a commodity and the same workers remain reachable by the same pressure.
-
-Saving people before evidence strongly advances her resolved trajectory. Recovering both through preparation proves that moral priority need not mean incompetent surrender. Choosing treasure over workers creates a named conflict even if Vasko is captured.
-
-Completion opens [[A Better Wager]]. **Without the Powder** now concludes that friendship episode rather than firing automatically after the delve.
-
-## Autonomous Resolution and The Scarred Mounds
-
-At [[The Last Convoy]], an unresolved finale advances deterministically:
-
-- accountable and Prepared Elara saves the crew, but the field factor escapes with evidence and the mound remains scarred;
-- mixed Elara pursues proof first, causing avoidable worker injuries before returning;
-- entitled or Strained Elara secures title evidence while workers are scattered or seriously harmed.
-
-Available Bernard support prevents one worker injury. Available Dismas support closes one retreat route. Neither changes Elara's priority.
-
-The original expedition cannot be replayed. Winter changed re-entry, **The Scarred Mounds**, permits recovery of names, compensation, and renewed investigation. It cannot erase injuries, restore the mound, return escaped goods, or grant Fault Proven and the custom-part rewards.
-
-## Seasonal Transformation
-
-Crossing the Act I deadline triggers the autonomous resolution above. Later entry is the authored Scarred Mounds aftermath, not a delayed copy of this finale.
-
-## Rewards and Unlocks
-
-- Elara combat upgrade: Fault Proven;
-- rapier, delver's pick, prepared-dart, and traversal parts added to the account custom-part library;
-- Ashfield and burial-witness standing based on mound treatment;
-- Vardek evidence and winter infiltration routes;
-- [[A Better Wager]] and qualitative approval movement.
+Unlock **Fault Proven**, Delver-Duelist rapier/pick/dart custom parts, and [[A Better Wager]]. Missing the finale forfeits these rewards.
 
 ## Navigation
 
-- [[Elara Velescar]]
 - [[Elara Companion Campaign]]
-- [[Seven Mounds]]
-- [[Ashfield Lodge]]
-- [[Vasko Dren]]
-- [[Daria Keln]]
-- [[Kata Belyn]]
-- [[The Patron's Cabinet]]
+- [[A Splendid Little Expedition]]
 - [[A Better Wager]]
-- [[Elara Delver-Duelist Package]]
-- [[Companion Field Familiarity and Duo Quest Standard]]
-- [[Companions MOC]]
+- [[Corpse Residue]]
+- [[Ashfield Lodge]]

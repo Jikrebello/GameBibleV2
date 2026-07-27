@@ -4,15 +4,17 @@ status: canon
 canon_level: local
 visibility: author-only
 era: ["Present Day"]
-region: ["Sermora", "Grenzburg", "Longlake Country"]
+region: ["Sermora"]
 culture: ["Sermoran"]
 related_factions: ["The Salt-Reed Company"]
 appears_in: ["Grenzburg"]
-needs: []
+needs:
+  - replace the Eel Bridge physical-arrival structure during the Ilyana-Dismas paired rewrite
 aliases: []
-tags: [game-ready]
+tags: [narrative-rewrite]
 sex: man
 vocation: "Bard"
+past_contact_mode: remote-only
 ---
 # Nereo Valdo
 
@@ -27,7 +29,7 @@ Nereo maintained bookings, wagons, lodging, wages, and instrument insurance unti
 - He wants the common road accounts separated into individual shares.
 - He believes Ilyana can change but refuses to become the person who proves it for her.
 
-Nereo reaches the Eel Bridge country before winter and becomes central to [[No Song by Command]].
+Nereo remains outside the playable worldspace. His refusal, road accounts, property instructions, and any voluntary technical aid arrive through authenticated recordings, notation, correspondence, and local agents. The physical Eel Bridge version of [[No Song by Command]] is a superseded structural placeholder pending Ilyana's paired rewrite.
 
 ## Navigation
 
@@ -35,4 +37,3 @@ Nereo reaches the Eel Bridge country before winter and becomes central to [[No S
 - [[No Song by Command]]
 - [[The Free Refrain]]
 - [[The Last Common Measure]]
-

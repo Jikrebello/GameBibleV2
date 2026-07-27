@@ -126,9 +126,9 @@ The expanded companion budget is added on top of the existing faction, marquee, 
 
 ## Migration
 
-[[Companion Campaign Expansion Register]] controls the 88 authored slots and the seventy-four-piece playthrough ceiling. [[Elara Companion Campaign]], [[Ilyana Companion Campaign]], [[Ylva Companion Campaign]], [[Bernard Companion Campaign]], and [[Tavio Companion Campaign]] are completed structural migrations. Existing notes for Ashira, Dismas, and Zafir carry `architecture_status: pending-migration`.
+[[Companion Campaign Expansion Register]] controls the 88 authored slots and the seventy-four-piece playthrough ceiling. [[Elara Companion Campaign]], [[Ilyana Companion Campaign]], [[Ylva Companion Campaign]], [[Ashira Companion Campaign]], [[Bernard Companion Campaign]], and [[Tavio Companion Campaign]] are completed structural migrations. Existing notes for Dismas and Zafir carry `architecture_status: pending-migration`.
 
-Architecture status does not certify emotional readiness. All sixty-seven linked quests retain their structural blocking records but carry `dialogue_status: pending-rewrite` until their paired pass. Implementation-ready companion content requires both `emotional_rewrite_status: cleared` and `dialogue_status: approved`.
+Architecture status does not certify emotional readiness. Seventy-four formal pieces are now linked and fourteen remain reserved. Elara's and Ashira's twenty-two pieces are cleared and approved; every later campaign remains outside implementation-ready views until its paired pass clears emotional, dialogue, and remote-claim status.
 
 ## Navigation
 

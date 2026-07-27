@@ -20,7 +20,7 @@ reward_unlocks: ["Second Bore", "individual instrument custody"]
 required_locations: ["Customs Hall", "North Quay Warehouses", "Frozen Freight Channel", "River Boom Towers", "Ferry Yard"]
 blocking_status: blocked
 architecture_status: migrated
-companion_content_role: operation
+companion_content_role: act-operation
 companion_campaign_stage: act-2
 quest_owner: "Ilyana Veshkar"
 quest_sequence: 5
@@ -52,6 +52,7 @@ persistence_scope: city-persistent
 postgame_season: ""
 emotional_rewrite_status: replace
 dialogue_status: pending-rewrite
+remote_claim_status: pending-migration
 archetype_pressure: "Freedom becomes impermanence: test whether Ilyana can sustain a shared work after novelty and sole authorship fade."
 emotional_function: "Build a winter performance or signal operation about maintenance, repetition, and art serving people after novelty has passed"
 pleasure_beat: "Improvised music, novelty, public performance, and turning strangers into a temporary chorus."
@@ -157,4 +158,3 @@ Three preparation or route successes make all people and instruments recoverable
 - [[Tomas Marin]]
 - [[The Free Refrain]]
 - [[Ledger Quays]]
-

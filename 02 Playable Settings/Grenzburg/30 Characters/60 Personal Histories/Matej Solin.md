@@ -4,19 +4,21 @@ status: canon
 canon_level: local
 visibility: author-only
 era: ["Present Day"]
-region: ["Grenzburg", "Kedrava"]
+region: ["Kedrava"]
 culture: ["Thalmyric", "Kedravan"]
 related_factions: ["Order of the Long Watch"]
 appears_in: ["Grenzburg"]
-needs: []
+needs:
+  - replace Bernard's visiting-order placeholder during the Bernard-Zafir paired rewrite
 aliases: ["Watch-Captain Matej Solin"]
-tags: [game-ready]
+tags: [narrative-rewrite]
 companion_id: ""
 sex: man
 vocation: ""
 recruitment_window: ""
 foil: "Bernard Valeon"
 relationship_theme: ""
+past_contact_mode: remote-only
 ---
 # Matej Solin
 
@@ -30,17 +32,17 @@ Matej planned the [[The Froststep Evacuation|Froststep Evacuation]] from the inf
 
 He chaired no secret cover-up. His report recorded Bernard's deprivation history, confession, prior service, concealment, and the five lasting injuries. He recommended dismissal with a path to later petition rather than permanent religious condemnation.
 
-## Present Mission
+## Remote Role
 
-Matej brings a small Long Watch relief column to Grenzburg during the siege: two sleds, field-hospital canvas, warming equipment, four lay carers, one priest, and civilian drivers including [[Petra Ilev]]. The mission answers regional need rather than Bernard's story.
+Matej remains in Kedrava. He dispatches a small Long Watch relief column under officers with no prior relationship to Bernard and sends his original Froststep report, field instructions, and any later assessment through authenticated channels.
 
 If the player does not join the mission, Matej records Bernard's genuine White-Flame kindling and his delayed salve admission as separate facts. He does not grant the player Paladin training by report, and he supports the changed spring restitution without pretending it recreates the missed reckoning.
 
-He offers Bernard no private bargain. After witnessing sustained accountability, he can confirm that an ordinary reinstatement petition would be heard. He also accepts an independent hospice as valid service.
+He offers Bernard no private bargain. After receiving independently witnessed evidence of sustained accountability, he can confirm that an ordinary reinstatement petition would be heard. He also accepts an independent hospice as valid service.
 
 ## Quest Function
 
-Matej provides operational command to temporary NPCs while the player and Bernard remain the only full party members. His orders never make Bernard's moral decision for him. He may survive, be injured, or lose mission equipment without blocking the confession, Paladin unlock, or Petra's response.
+Matej's reports establish the fair original inquiry without allowing him to adjudicate Bernard in person. The visiting-command version of [[Embers Without Excuse]] is superseded and awaits Bernard's paired rewrite.
 
 ## Navigation
 

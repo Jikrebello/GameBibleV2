@@ -27,7 +27,10 @@ archetype_humiliation: "weakness, replacement, cowardice, or defeat that changes
 care_language: ["protection", "training", "showing up", "shared exertion", "public encouragement"]
 archetype_shadow: "domination, rank as virtue, and making another person's body part of his wager"
 preservation_lesson: "vulnerability is compatible with excellence and competition"
-past_anchor: "Lio Varcen"
+remote_claim_anchor: "Lio Varcen and the Red Brass injury claim"
+past_contact_mode: remote-only
+debt_manager: "Claims-Factor Marco Bellandi"
+legal_debt_state_key: "tavio_legal_debt_state"
 voice_status: calibrated
 emotional_rewrite_status: bible-locked
 architecture_status: migrated
@@ -98,7 +101,7 @@ Tavio did not strike after a yield. He did not misunderstand the ring. He knew i
 
 Coach Maro Vezan and proof-broker Seraf Pellan organized the Red Brass cover-up. They do not physically travel to Grenzburg during this campaign. Their role continues through equipment, records, agents, endorsements, and institutional pressure.
 
-Lio is the sole person from Tavio's former life who may physically return.
+Lio remains physically absent. His medical record, refusal, demands, bout testimony, and right to decline further contact reach Grenzburg through authenticated remote channels. [[Claims-Factor Marco Bellandi]] administers the portfolio without speaking for him.
 
 ## Debt
 
@@ -273,7 +276,7 @@ His campaign must include:
 2. teams who trusted unsafe gear because his name was on it;
 3. a public stop that feels like defeat;
 4. a villain-free fair and cleanup;
-5. Lio arriving with independent goals and the right to refuse the match;
+5. Lio exercising independent goals through remote terms, testimony, refusal, and a locally appointed challenger rather than arriving for Tavio's benefit;
 6. Tavio losing, drawing, winning fairly, or accepting a halt without narrative protection;
 7. relationship episodes where he is not performer, champion, or project;
 8. a forge crisis in which sounding the horn before glory becomes catastrophe is the capstone.

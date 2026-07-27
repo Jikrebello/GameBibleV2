@@ -36,6 +36,8 @@ Highlake Uplands rise east of the Upper Grenz into cold tarns, mines, exposed pa
 
 - [[Highlake]]: mining hub, upland market, and public transport terminus.
 - [[Cold-Iron Deeps]]: vertical mine complex with layered human and ancient use.
+- [[Ropehouse Ruin]]: a damaged lift-and-rope station used for mixed-crew delving and custody practice.
+- [[Rain Vault]]: a blue-glass weather chamber whose beauty and danger survive together.
 - **Ghost-Foot Stair:** medium cliff route, settlement approach, and Road-Key terminus.
 - **Tuskway Redoubt:** medium abandoned marcher work overlooking the invasion corridor.
 
@@ -52,5 +54,7 @@ Mining, advanced materials, vertical traversal, monster hunting, Ghost-Foot poli
 - [[Grenzburg Exterior Regions Overview]]
 - [[Highlake]]
 - [[Cold-Iron Deeps]]
+- [[Ropehouse Ruin]]
+- [[Rain Vault]]
 - [[Upper Grenz]]
 - [[Frostfenn March]]

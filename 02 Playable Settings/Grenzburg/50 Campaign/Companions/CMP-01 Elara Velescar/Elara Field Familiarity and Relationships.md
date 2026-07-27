@@ -113,7 +113,7 @@ Completing the friendship episode writes:
 
 - `elara_friendship_episode`;
 - `elara_without_powder_scene`;
-- `elara_bridgehold_line_practiced`.
+- `elara_bridgehold_practice`.
 
 ## Commitment
 

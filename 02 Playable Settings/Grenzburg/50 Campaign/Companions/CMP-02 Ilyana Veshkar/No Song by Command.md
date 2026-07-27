@@ -52,6 +52,7 @@ persistence_scope: regional-milestone
 postgame_season: ""
 emotional_rewrite_status: reframe
 dialogue_status: pending-rewrite
+remote_claim_status: pending-migration
 archetype_pressure: "Freedom becomes impermanence: test whether Ilyana can sustain a shared work after novelty and sole authorship fade."
 emotional_function: "Keep forced performance and rescue; use a current local musician so refusal is immediate rather than another imported reckoning"
 pleasure_beat: "Improvised music, novelty, public performance, and turning strangers into a temporary chorus."
@@ -189,4 +190,3 @@ Nereo may remain distant, communicate through Celia, or permit practical contact
 - [[Eel Bridge]]
 - [[A Tune with No Owner]]
 - [[Reeds Under Ice]]
-

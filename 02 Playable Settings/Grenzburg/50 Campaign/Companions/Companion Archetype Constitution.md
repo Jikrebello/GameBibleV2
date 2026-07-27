@@ -78,11 +78,14 @@ Zafir makes chaos intelligible; Bernard makes intelligence enjoyable. Bernard ca
 
 Grenzburg is not a reunion point for eight foreign supporting casts.
 
-- A companion's old life may supply evidence, correspondence, habits, debt, or one indispensable physical visitor.
-- The controlling returning anchors are Marek Vardek, Mirella Corsi, Petra Ilev, Samira bint Nahal, and Lio Varcen.
-- Ylva, Ashira, and Dismas receive no physically returning figure from their former lives.
-- Other old associates remain off-map unless a later approved rewrite replaces the controlling anchor rather than adding another.
+- No person from a companion's former life physically enters the base-game worldspace.
+- Past figures remain real through correspondence, remote testimony, rejected contact, agents, records, silence, and settlement instructions.
+- A remote figure may refuse forgiveness, contact, or proposed terms without appearing for the companion's dramatic convenience.
+- [[Claims-Factor Marco Bellandi]] administers all eight local portfolios but cannot decide moral resolution.
+- Legal debt status and companion direction are separate state families.
 - Each companion bible requires at least three present-day Grenzburg relationships that exist independently of the player.
+
+[[Companion Remote Claims Compliance Register]] identifies later campaigns that still require scene-level migration.
 
 ## Story Balance
 

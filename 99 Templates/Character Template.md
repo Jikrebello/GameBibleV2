@@ -27,7 +27,10 @@ archetype_humiliation: ""
 care_language: []
 archetype_shadow: ""
 preservation_lesson: ""
-past_anchor: ""
+remote_claim_anchor: ""
+past_contact_mode: remote-only
+debt_manager: ""
+legal_debt_state_key: ""
 voice_status: ""
 emotional_rewrite_status: ""
 embedded_opportunity_target: 0
@@ -108,7 +111,10 @@ faction_branch: ""
 - Care language:
 - Archetype shadow:
 - Preserving lesson:
-- Past anchor:
+- Remote claim anchor:
+- Past contact mode:
+- Debt manager:
+- Legal debt state key:
 - Voice status:
 - Emotional rewrite status:
 - Embedded-opportunity target:

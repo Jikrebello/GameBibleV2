@@ -33,8 +33,8 @@ main_sequence: 0
 story_gate: relationship
 estimated_hours: 0.5
 gameplay_pillars: [traversal, environmental-puzzle, rescue, conversation]
-required_states: ["elara_relationship_commitment: bond-committed", "elara_act2_finale_played"]
-optional_state_inputs: ["highlake_carrier_terms", "spring_settlement_access", "elara_bridgehold_line_practiced"]
+required_states: ["elara_relationship_commitment", "elara_act2_finale_played"]
+optional_state_inputs: ["highlake_carrier_terms", "spring_settlement_access", "elara_bridgehold_practice"]
 field_experience_gate: []
 companion_required: "Elara Velescar"
 duo_quest: false
@@ -50,13 +50,14 @@ identity_hooks: []
 encounter_deck: []
 persistence_scope: local-persistent
 postgame_season: ""
-emotional_rewrite_status: preserve
-dialogue_status: pending-rewrite
+emotional_rewrite_status: cleared
+dialogue_status: approved
+remote_claim_status: compliant
 archetype_pressure: "Belonging becomes curation: test whether Elara shares social power or decides who deserves the room."
 emotional_function: "Keep equal claim, reciprocal rescue, and female-player sworn friendship"
 pleasure_beat: "Social sparkle, discovery, elegant risk, and making a temporary company feel chosen."
 care_beat: "Elara shares credit, access, attention, and protection without making gratitude the price of belonging."
-player_archetype_hooks: []
+player_archetype_hooks: ["Cheerleader", "Tomboy", "Goth", "Bohemian", "Jock", "Nerd", "Rebel", "Goofball", "Grey"]
 ---
 # Two Names on the Rope
 

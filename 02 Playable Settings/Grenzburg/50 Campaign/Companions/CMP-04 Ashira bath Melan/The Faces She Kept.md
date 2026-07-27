@@ -4,21 +4,22 @@ status: canon
 canon_level: local
 visibility: author-only
 era: ["Present Day"]
-region: ["Grenzburg"]
+region: ["Grenzburg", "Ledger Quays", "Underways"]
 culture: ["Jirahar", "Qesheth"]
-related_factions: ["Blackjack Corps"]
+related_factions: ["Blackjack Corps", "Grenzburg Customs"]
 appears_in: ["Grenzburg"]
 needs: []
-tags: [narrative-rewrite]
+tags: [game-ready]
 quest_class: companion
 act: act-1
 availability_window: ["Early Autumn", "Open Autumn"]
 repeatability: one-shot
 cutoff_result: transforms
-world_state_outputs: ["ashira_roster_custody", "medium_public_fear", "qesheth_judgement_found"]
-required_locations: ["Blackjack Yard", "Customs Hall", "Grenzburg Underways"]
-blocking_status: outlined
-architecture_status: pending-migration
+world_state_outputs: ["ashira_introduction_complete", "ashira_spindle_recovered", "human_roster_disclosed", "customs_runner_state", "ashira_direction"]
+reward_unlocks: ["Pattern Known"]
+required_locations: ["Customs Hall", "Ledger Quays", "Grenzburg Underways", "Blackjack Yard"]
+blocking_status: blocked
+architecture_status: migrated
 companion_content_role: introduction
 companion_campaign_stage: introduction
 quest_owner: "Ashira bath Melan"
@@ -26,70 +27,115 @@ quest_sequence: 1
 companion_id: "CMP-04"
 faction_line: ""
 faction_branch: ""
-emotional_rewrite_status: reframe
-dialogue_status: pending-rewrite
-archetype_pressure: "Witness becomes possession: test whether Ashira can know grief and forbidden truth without appropriating another person."
-emotional_function: "Keep the recognized face and stolen spindle; begin with Ashira's unnerving competence and selective tenderness before ontology becomes procedure"
-pleasure_beat: "Forbidden knowledge, black humor, nocturnal beauty, private jokes, and chosen quiet."
-care_beat: "Ashira guards privacy and remains beside grief without speaking as its owner."
-player_archetype_hooks: []
+chapter_id: ""
+main_sequence: 0
+story_gate: open-world-window
+relationship_variant: ""
+preparation_inputs: []
+preparation_threshold: ""
+encounter_deck: []
+postgame_season: ""
+estimated_hours: 1
+gameplay_pillars: [investigation, pursuit, combat, protection]
+required_states: ["ashira_recruited"]
+optional_state_inputs: ["city_access", "underways_route_access"]
+field_experience_gate: ["ashira_first_outing_complete"]
+companion_required: "Ashira bath Melan"
+duo_quest: false
+pause_points: ["Customs Examination Complete", "Underway Route Found"]
+autonomous_deadline: "The Last Convoy"
+autonomous_resolution: "Ashira recovers the copied spindle but conceals the larger roster."
+changed_reentry: "The Drowned Answer reveals the withheld roster after the Act I result."
+ensemble_inputs: ["Elara Velescar", "Bernard Valeon", "Dismas Raben", "Ilyana Veshkar", "Tavio Meran", "Zafir ibn Samad", "Ylva Winter-Track"]
+identity_hooks: ["Scholarly", "Underworld", "Mystic/Religious", "Peasant/Labour"]
+emotional_rewrite_status: cleared
+dialogue_status: approved
+remote_claim_status: compliant
+archetype_pressure: "Ashira's accurate recognition is useful; the test is whether she treats the frightened owner of a likeness as intellectually inferior."
+emotional_function: "Lead with unnerving competence and company care before exposing the prohibited roster."
+pleasure_beat: "A strange Customs mystery, shadow pursuit, and the satisfaction of correctly classifying the impossible-looking."
+care_beat: "Ashira believes a frightened runner without publishing what he saw."
+player_archetype_hooks: ["Cheerleader", "Tomboy", "Goth", "Bohemian", "Jock", "Nerd", "Rebel", "Goofball", "Grey"]
+persistence_scope: local-persistent
 ---
 # The Faces She Kept
 
-## Role in the Arc
+## Premise
 
-This is Ashira bath Melan's quest 1 of four. It is playable in Early Autumn and Open Autumn. The current note remains an outline; its deep block must use the fixed player-plus-Ashira bath Melan duo format in [[Companion Field Familiarity and Duo Quest Standard]].
+A Customs runner named **Pavel Orr** reports that his own shadow stepped away from him, copied a dead raider's face, and stole a sealed spindle from impound. His supervisors call it panic and suspend him.
 
-## Hook and Immediate Stake
+Ashira believes the event but not Pavel's explanation. The thief used a crude projector copied from one branch of her prohibited human roster. The theft leads through Ledger Quays into the underways.
 
-A customs examiner opens Ashira's sealed rod case and one recognizable human imprint manifests long enough for a refugee to identify the face as her dead uncle.
+## Beginning
 
-Prevent a panic about captured souls, recover the missing roster spindle, and make Ashira disclose why she kept prohibited human patterns.
+The normal party examines:
 
-## Player Actions
+- Pavel's living shadow, which behaves normally;
+- repeated boot pressure with no matching person;
+- a shutter scorched by a bounded shadow field;
+- an impound list identifying the spindle as Ashira's surrendered property.
 
-Interview the witness, trace a thief through the underways, demonstrate the imprint's non-conscious repetition, and secure the spindle before Koss tests it on prisoners.
+Ashira is calm with Pavel:
 
-## Opposition and Pressure
+> “I believe what you saw.”
+>
+> “Then say it was a ghost.”
+>
+> “No. Belief is not obedience.”
 
-The thief wants to sell a convincing dead man's face; frightened clergy assume soulbinding; Ashira withholds the roster's names because she still considers it useful.
+The player may protect his privacy, demand a public demonstration, or let Ashira turn him into a case study. These alter trust and later testimony.
 
-## Information Paths
+## Middle
 
-The imprint repeats gestures without memory, the spindle contains no true-name relation, and Ashira's Qesheth judgement identifies the source combat traces. Any two prove ontology; the judgement proves culpability.
+The thief leaves three routes:
 
-Required understanding never rests on a single social check. Cultural, background, Insight, exploration, and companion observations alter clarity and cost rather than deciding whether the plot continues.
+- public quay pursuit through reflected light;
+- customs tunnels with locked evidence gates;
+- underways path identified through displaced soot.
 
-## Decision or Mastery Point
+Human receivers hired the thief to sell a frightening security tool. Their projector repeats one recognizable approach pattern but contains no consciousness.
 
-Return the spindle to Ashira under conditions, place it with a neutral custodian, or destroy one copy. The quest must state that non-conscious does not mean harmless.
+Encounters combine:
 
-## Fail-Forward Results
+- ordinary hired blades;
+- projector-created feints;
+- dark water and moving shutters;
+- a living runner used as bait.
 
-If the thief escapes, he sells a single degraded imprint that resurfaces in quest two. If panic spreads, Marcellina restricts Medium practice and raises later access costs.
+All vocations can reveal the false figures through light, dust, water, timing, impact, or observation. Ashira is faster, not mandatory.
 
-Failed combat, stealth, or persuasion changes injuries, evidence, access, public trust, or the later encounter. It does not erase the companion line.
+## End
 
-## World-State Outputs
+The receiver attempts to broadcast the face across a crowded quay while escaping. The party must disable shutters, protect civilians, and recover the spindle.
 
-- `ashira_roster_custody`
-- `medium_public_fear`
-- `qesheth_judgement_found`
+Afterward, Ashira admits the copied branch came from a larger roster she retained after judgement. She can:
 
-## Seasonal Cutoff
+- disclose its existence to Brina under restricted custody;
+- disclose only to the player;
+- describe it as harmless technical material;
+- deny the connection despite the evidence.
 
-At the winter transition, the initiating evidence is secured by another party and the quest returns in Early Winter with higher institutional leverage and lower trust; it does not simply vanish.
+Pavel decides separately whether his name enters the report.
 
-## Rewards and Return Value
+## Failure
 
-Introduces Medium ontology in human terms and forces Ashira to name the difference between no trapped soul and no victim.
+- If the receiver escapes, the spindle remains traceable at Sunken Causeway.
+- If the projector fires, public Medium fear rises and Pavel's account becomes public.
+- If the spindle breaks, its unique cadence survives in the scorch pattern.
+- Defeat leads to Neda recovering the party; one face circulates in criminal hands.
 
-Completion grants a companion technique or field synergy, qualitative approval movement, and a concrete late-game or summer state. Exact numerical tuning remains provisional.
+## Outputs and Reward
+
+- `ashira_spindle_recovered`: intact, damaged, circulated, or lost;
+- `human_roster_disclosed`: Brina, player-only, minimized, or concealed;
+- `customs_runner_state`: protected, public, discredited, injured, or dead;
+- `ashira_direction`;
+- `ashira_introduction_complete`;
+- unlock **Pattern Known**.
 
 ## Navigation
 
-- [[Ashira bath Melan]]
-- [[Companion Constitution]]
-- [[Narrative State Register]]
-- [[Quest and Content Architecture]]
-- [[Grenzburg MOC]]
+- [[Ashira Companion Campaign]]
+- [[The Room That Answered]]
+- [[Ashira Shadow Roster Package]]
+- [[Neda Volk]]

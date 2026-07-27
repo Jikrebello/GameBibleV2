@@ -4,19 +4,21 @@ status: canon
 canon_level: local
 visibility: author-only
 era: ["Present Day"]
-region: ["Grenzburg"]
+region: ["Vorthara"]
 culture: ["Sestaran", "Vortharan"]
 related_factions: ["The Crucible", "Red Brass Bench"]
 appears_in: ["Grenzburg"]
-needs: []
+needs:
+  - replace Tavio's physical challenge and bout placeholders during the Ylva-Tavio paired rewrite
 aliases: []
-tags: [game-ready]
+tags: [narrative-rewrite]
 companion_id: ""
 sex: man
 vocation: "Lancewright"
 recruitment_window: ""
 foil: ""
 relationship_theme: ""
+past_contact_mode: remote-only
 ---
 # Lio Varcen
 
@@ -38,6 +40,8 @@ Lio wants:
 - his future separated from Tavio's need for forgiveness.
 
 He may forgive, accept restitution without forgiveness, maintain distance, or reject further contact independently of Tavio's moral outcome.
+
+Lio never enters the base-game worldspace. His challenge, filed rules, brace evidence, testimony, and eventual answer may reach Grenzburg; his body does not become a trial staged for Tavio. The live-bout treatment in [[The Fair Defeat]] is an audited structural source pending the paired rewrite.
 
 ## The Fair Match
 

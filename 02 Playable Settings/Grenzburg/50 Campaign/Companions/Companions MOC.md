@@ -14,7 +14,7 @@ tags: [game-ready]
 ---
 # Grenzburg Companions MOC
 
-This is the production doorway for eight outsider-debtor companions, eighty-eight authored companion pieces, and eight-to-twelve embedded opportunities per companion. A playthrough can expose no more than seventy-four formal pieces because each companion has mutually exclusive romance and sworn-bond episodes, while the global relationship rules permit one committed romance and one committed bond. [[Companion Constitution]] controls the roster and moral rules. [[Companion Archetype Constitution]] controls the eight emotional engines. [[Companion Dialogue and Scene Standard]] controls voice and scene craft. [[Companion Ensemble Pair Briefs]] controls all twenty-eight companion pairings. [[Companion Emotional Rewrite Audit]] controls preserve, reframe, and replace decisions. [[Player Temperament and Chemistry]] and [[Companion Archetype Chemistry Matrix]] control player chemistry. [[Companion Campaign Architecture]] controls content shape and party format. [[Companion Autonomy and Act Convergence]] controls deadlines and unassisted progression. [[Companion Campaign Expansion Register]] is the count and migration authority.
+This is the production doorway for eight outsider-debtor companions, eighty-eight authored companion pieces, and eight-to-twelve embedded opportunities per companion. A playthrough can expose no more than seventy-four formal pieces because each companion has mutually exclusive romance and sworn-bond episodes, while the global relationship rules permit one committed romance and one committed bond. [[Companion Constitution]] controls the roster and moral rules. [[Companion Debt and Remote Claims Standard]] controls past contact and legally separate debt outcomes. [[Companion Archetype Constitution]] controls the eight emotional engines. [[Companion Dialogue and Scene Standard]] controls voice and scene craft. [[Companion Ensemble Pair Briefs]] controls all twenty-eight companion pairings. [[Companion Emotional Rewrite Audit]] controls readiness. [[Player Temperament and Chemistry]] and [[Companion Archetype Chemistry Matrix]] control player chemistry. [[Companion Campaign Architecture]] controls content shape and party format. [[Companion Autonomy and Act Convergence]] controls deadlines and unassisted progression. [[Companion Campaign Expansion Register]] is the count and migration authority.
 
 ## Roster
 
@@ -42,25 +42,25 @@ This is the production doorway for eight outsider-debtor companions, eighty-eigh
 | Summer coda | 1 | 8 |
 | **Authored pieces** | **11** | **88** |
 
-Sixty-seven formal pieces now exist: Elara's, Ilyana's, Ylva's, Bernard's, and Tavio's complete eleven-piece structural campaigns plus the twelve legacy sources for the other three companions. Twenty-one untitled slots remain reserved without creating empty notes. An individual companion exposes nine non-exclusive pieces plus either the eligible romance episode or the eligible bond episode, never both. See [[Companion Campaign Expansion Register]].
+Seventy-four formal pieces now exist. Elara and Ashira are emotionally cleared and dialogue-approved; Ilyana, Ylva, Bernard, and Tavio have structurally complete eleven-piece campaigns awaiting later paired emotional work; Dismas and Zafir retain fourteen reserved slots between them. An individual companion exposes nine non-exclusive pieces plus either the eligible romance episode or eligible bond episode, never both. See [[Companion Campaign Expansion Register]].
 
-All sixty-seven linked pieces have an explicit emotional disposition: thirty-two preserve, twenty-five reframe, and ten replace. The twenty-one reserved pieces are also replacements, for a complete 88-piece audit. Structural `blocked` and `migrated` values remain accurate, but no companion quest is implementation-ready until its paired rewrite sets `emotional_rewrite_status: cleared` and `dialogue_status: approved`.
+All eighty-eight pieces have an explicit readiness or rewrite disposition. Twenty-two Elara/Ashira pieces are implementation-ready. Later companion quests remain excluded until their paired rewrite sets `emotional_rewrite_status: cleared`, `dialogue_status: approved`, and remote-claim compliance.
 
 ## Existing Source Register
 
-Elara's, Ilyana's, Ylva's, Bernard's, and Tavio's eleven authored pieces carry `architecture_status: migrated`. The remaining sources carry `pending-migration`: their existing Quest 1 becomes the introductory case and Quests 2-4 become the three act finales during that companion's retrofit. The Status column below records structural blocking only; emotional status lives in [[Companion Emotional Rewrite Audit]] and the [[Companions.base|Companion Base]].
+Elara's, Ilyana's, Ylva's, Ashira's, Bernard's, and Tavio's eleven authored pieces carry `architecture_status: migrated`. Dismas and Zafir retain `pending-migration` sources and reserved slots: their existing Quest 1 becomes the introductory case and Quests 2-4 become the three act finales during that companion's retrofit. The Status column below records structural blocking only; emotional and remote-claim readiness live in [[Companion Emotional Rewrite Audit]], [[Companion Remote Claims Compliance Register]], and the [[Companions.base|Companion Base]].
 
 | ID | Quest | Owner | Act | Window | Status |
 |---|---|---|---|---|---|
 | CMP-01-1 | [[Names Beneath Lime]] | [[Elara Velescar]] | act-1 | Early Autumn, Open Autumn | blocked |
-| CMP-01-2 | [[The Sixth Field Book]] | [[Elara Velescar]] | act-1 | Open Autumn | blocked |
+| CMP-01-2 | [[A Splendid Little Expedition]] | [[Elara Velescar]] | act-1 | Open Autumn | blocked |
 | CMP-01-3 | [[A House Fed by Bones]] | [[Elara Velescar]] | act-1 | Open Autumn | blocked |
 | CMP-01-4 | [[A Better Wager]] | [[Elara Velescar]] | act-1 | Open Autumn, Early Winter | blocked |
-| CMP-01-5 | [[Eight Honest Warrants]] | [[Elara Velescar]] | act-2 | Early Winter, Deep Winter | blocked |
+| CMP-01-5 | [[The Winter Company]] | [[Elara Velescar]] | act-2 | Siege Winter | blocked |
 | CMP-01-6 | [[The Patron's Cabinet]] | [[Elara Velescar]] | act-2 | Deep Winter | blocked |
 | CMP-01-RM | [[Raven Shelf at Dawn]] | [[Elara Velescar]] | act-3 | Early Spring | blocked |
 | CMP-01-BD | [[Two Names on the Rope]] | [[Elara Velescar]] | act-3 | Early Spring | blocked |
-| CMP-01-8 | [[Sixty-Three Claims]] | [[Elara Velescar]] | act-3 | Open Spring | blocked |
+| CMP-01-8 | [[The Hands That Hold It]] | [[Elara Velescar]] | act-3 | Spring Reclamation | blocked |
 | CMP-01-9 | [[No Lady of Velescar]] | [[Elara Velescar]] | act-3 | Open Spring, Muster Crisis | blocked |
 | CMP-01-10 | [[The First Honest Find]] | [[Elara Velescar]] | summer | Playable Summer | blocked |
 | CMP-02-1 | [[Five Cases at Customs]] | [[Ilyana Veshkar]] | act-1 | Early Autumn, Open Autumn | blocked |
@@ -85,10 +85,17 @@ Elara's, Ilyana's, Ylva's, Bernard's, and Tavio's eleven authored pieces carry `
 | CMP-03-8 | [[Routes for the Living]] | [[Ylva Winter-Track]] | act-3 | Spring Reclamation | blocked |
 | CMP-03-9 | [[The Last Marker]] | [[Ylva Winter-Track]] | act-3 | Dead March, before Deep Muster | blocked |
 | CMP-03-10 | [[The Road She Chooses]] | [[Ylva Winter-Track]] | summer | Playable Summer | blocked |
-| CMP-04-1 | [[The Faces She Kept]] | [[Ashira bath Melan]] | act-1 | Early Autumn, Open Autumn | outlined |
-| CMP-04-2 | [[A Useful Terror]] | [[Ashira bath Melan]] | act-1 | Open Autumn, Early Winter | outlined |
-| CMP-04-3 | [[The Price of the Bow Tower]] | [[Ashira bath Melan]] | act-2 | Deep Winter, Early Spring | outlined |
-| CMP-04-4 | [[No Human Shadow]] | [[Ashira bath Melan]] | act-3 | Early Spring, Muster Crisis | outlined |
+| CMP-04-I | [[The Faces She Kept]] | [[Ashira bath Melan]] | act-1 | Early Autumn, Open Autumn | blocked |
+| CMP-04-A1-O | [[The Room That Answered]] | [[Ashira bath Melan]] | act-1 | Open Autumn | blocked |
+| CMP-04-A1-F | [[A Useful Terror]] | [[Ashira bath Melan]] | act-1 | Open Autumn, Late Autumn | blocked |
+| CMP-04-FR | [[The Puppet Dies Twice]] | [[Ashira bath Melan]] | act-1 | Late Autumn, Siege Winter | blocked |
+| CMP-04-A2-O | [[What the Ruins Repeated]] | [[Ashira bath Melan]] | act-2 | Siege Winter | blocked |
+| CMP-04-A2-F | [[When the Screen Comes Down]] | [[Ashira bath Melan]] | act-2 | Siege Winter | blocked |
+| CMP-04-RM | [[The Garden Under Rain]] | [[Ashira bath Melan]] | act-3 | Early Spring | blocked |
+| CMP-04-BD | [[What We Keep Closed]] | [[Ashira bath Melan]] | act-3 | Early Spring | blocked |
+| CMP-04-A3-O | [[Borrowed Faces]] | [[Ashira bath Melan]] | act-3 | Spring Reclamation | blocked |
+| CMP-04-A3-F | [[No Human Shadow]] | [[Ashira bath Melan]] | act-3 | Before Deep Muster | blocked |
+| CMP-04-S | [[A Shadow with No Face]] | [[Ashira bath Melan]] | summer | Playable Summer | blocked |
 | CMP-05-1 | [[Little Things Missing]] | [[Bernard Valeon]] | act-1 | Early Autumn, Open Autumn | blocked |
 | CMP-05-2 | [[The Wagon in the Reeds]] | [[Bernard Valeon]] | act-1 | Open Autumn | blocked |
 | CMP-05-3 | [[Little Hands, Long Road]] | [[Bernard Valeon]] | act-1 | Open Autumn, Early Winter | blocked |
@@ -120,7 +127,11 @@ Elara's, Ilyana's, Ylva's, Bernard's, and Tavio's eleven authored pieces carry `
 | CMP-08-3 | [[The Copyist's Answer]] | [[Zafir ibn Samad]] | act-2 | Deep Winter, Early Spring | outlined |
 | CMP-08-4 | [[All Cords Cut Clean]] | [[Zafir ibn Samad]] | act-3 | Early Spring, Muster Crisis | outlined |
 
-## Supporting Cast
+## Present And Remote Cast
+
+- [[Claims-Factor Marco Bellandi]]
+- [[Neda Volk]]
+- [[Quartermaster Brina Kest]]
 
 - [[Patron-Captain Caterina Morante]]
 - [[Mirella Corsi]]
@@ -131,18 +142,14 @@ Elara's, Ilyana's, Ylva's, Bernard's, and Tavio's eleven authored pieces carry `
 - [[Maro Vezan]]
 - [[Seraf Pellan]]
 - [[Proof-Mistress Hella Dorn]]
-- [[Keeper Othara bath Qesin]]
 - [[Lord Marek Vardek]]
-- [[Vasko Dren]]
-- [[Daria Keln]]
-- [[Kata Belyn]]
-- [[Danara Veln]]
 - [[Hospice-Mother Radena Vosk]]
 - [[Matej Solin]]
 - [[Petra Ilev]]
 - [[Oda Reed-Way]]
-- [[Marta Etten]]
 - [[Samira bint Nahal]]
+
+Former-life figures in this list are remote world-canon references. Their inclusion here does not authorize physical arrival.
 
 ## Existing Deep-Blocked Packages
 
@@ -154,7 +161,16 @@ Elara's, Ilyana's, Ylva's, Bernard's, and Tavio's eleven authored pieces carry `
 - [[Elara Delver-Duelist Package]]: companion combat language, progression, and custom-vocation unlocks.
 - [[Elara Banter and Reactivity]]: pair banter, faction attitudes, location observations, and seasonal dialogue.
 - [[House Velescar]]: estate history, household claims, and outcome boundaries.
-- [[Names Beneath Lime]], [[The Sixth Field Book]], [[A House Fed by Bones]], [[A Better Wager]], [[Eight Honest Warrants]], [[The Patron's Cabinet]], [[Raven Shelf at Dawn]], [[Two Names on the Rope]], [[Sixty-Three Claims]], [[No Lady of Velescar]], and [[The First Honest Find]]: eleven production-blocked authored pieces, of which no more than ten can appear in one playthrough.
+- [[Names Beneath Lime]], [[A Splendid Little Expedition]], [[A House Fed by Bones]], [[A Better Wager]], [[The Winter Company]], [[The Patron's Cabinet]], [[Raven Shelf at Dawn]], [[Two Names on the Rope]], [[The Hands That Hold It]], [[No Lady of Velescar]], and [[The First Honest Find]]: eleven emotionally cleared production-blocked pieces, of which no more than ten can appear in one playthrough.
+
+### CMP-04: Ashira bath Melan
+
+- [[Ashira Companion Campaign]]: controlling eleven-piece campaign, preparation, autonomy, changed re-entry, progression, and outcomes.
+- [[Ashira bath Melan]]: controlling character bible.
+- [[Ashira Field Familiarity and Relationships]]: approval, friendship, romance, bond, conflict, and permanent perks.
+- [[Ashira Shadow Roster Package]]: Medium ontology, legitimate nonhuman roster, prohibited human roster, and progression.
+- [[Ashira Banter and Reactivity]]: voice, faction positions, seasonal foil incidents, and present-day company life.
+- [[The Faces She Kept]], [[The Room That Answered]], [[A Useful Terror]], [[The Puppet Dies Twice]], [[What the Ruins Repeated]], [[When the Screen Comes Down]], [[The Garden Under Rain]], [[What We Keep Closed]], [[Borrowed Faces]], [[No Human Shadow]], and [[A Shadow with No Face]]: eleven emotionally cleared production-blocked pieces, of which no more than ten can appear in one playthrough.
 
 ### CMP-02: Ilyana Veshkar
 
@@ -199,16 +215,19 @@ Elara's, Ilyana's, Ylva's, Bernard's, and Tavio's eleven authored pieces carry `
 - [[Lancewright]]: the quest-earned advanced player vocation.
 - [[The False Ring]], [[The Signed Measure]], [[Proof Under Load]], [[Games Without a Crown]], [[The Challenger's Road]], [[The Fair Defeat]], [[No Wager Between Us]], [[After the Last Lantern]], [[Measure on the March]], [[Horn for Leak-Day]], and [[The Road Takes the Measure]]: eleven production-blocked pieces, of which no more than ten can appear in one playthrough.
 
-Elara, Ilyana, Ylva, Bernard, and Tavio are fully migrated to the eleven-piece authored architecture and ten-piece playthrough ceiling. Their emotional rewrites are not yet cleared. Ashira, Dismas, and Zafir remain structurally outlined and will be built directly against the new standard. No later companion's threshold or autonomous result is canonized without its planned user-guided pass.
+Elara and Ashira are fully migrated and emotionally cleared. Ilyana, Ylva, Bernard, and Tavio retain complete structural campaigns but await their paired emotional and remote-claim migrations. Dismas and Zafir remain partially linked with reserved pieces. No later companion's threshold or autonomous result is canonized without its planned user-guided pass.
 
 ## Controls
 
 - [[Companion Constitution]]
 - [[Companion Archetype Constitution]]
 - [[Companion Dialogue and Scene Standard]]
+- [[Companion Blind Dialogue Test Pair 01]]
 - [[Companion Ensemble Pair Briefs]]
 - [[Companion Archetype Chemistry Matrix]]
 - [[Companion Emotional Rewrite Audit]]
+- [[Companion Debt and Remote Claims Standard]]
+- [[Companion Remote Claims Compliance Register]]
 - [[Player Temperament and Chemistry]]
 - [[Companion Campaign Architecture]]
 - [[Companion Autonomy and Act Convergence]]

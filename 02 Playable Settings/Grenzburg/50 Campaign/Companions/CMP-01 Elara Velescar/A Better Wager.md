@@ -15,13 +15,14 @@ act: act-1
 availability_window: ["Late Autumn", "Early Winter", "Deep Winter"]
 repeatability: one-shot
 cutoff_result: persists
-world_state_outputs: ["elara_friendship_episode", "elara_bridgehold_line_practiced", "elara_rooftop_wager_result", "elara_without_powder_scene"]
+world_state_outputs: ["elara_friendship_episode", "elara_bridgehold_practice", "elara_rooftop_wager_result", "elara_without_powder_scene"]
 reward_unlocks: ["Follow My Line", "Bridgehold route practice"]
 required_locations: ["Blackjack Yard", "Market Roofline", "Bridge Market", "Great Bridge Keep"]
 blocking_status: blocked
 architecture_status: migrated
 companion_content_role: friendship
 companion_campaign_stage: act-1
+relationship_variant: ""
 quest_owner: "Elara Velescar"
 quest_sequence: 4
 companion_id: "CMP-01"
@@ -49,13 +50,14 @@ identity_hooks: []
 encounter_deck: []
 persistence_scope: local-persistent
 postgame_season: ""
-emotional_rewrite_status: preserve
-dialogue_status: pending-rewrite
+emotional_rewrite_status: cleared
+dialogue_status: approved
+remote_claim_status: compliant
 archetype_pressure: "Belonging becomes curation: test whether Elara shares social power or decides who deserves the room."
 emotional_function: "Protect the uninterrupted race, delight, vanity, and mutual play"
 pleasure_beat: "Social sparkle, discovery, elegant risk, and making a temporary company feel chosen."
 care_beat: "Elara shares credit, access, attention, and protection without making gratitude the price of belonging."
-player_archetype_hooks: []
+player_archetype_hooks: ["Cheerleader", "Tomboy", "Goth", "Bohemian", "Jock", "Nerd", "Rebel", "Goofball", "Grey"]
 ---
 # A Better Wager
 
@@ -132,7 +134,7 @@ If Act I resolved autonomously, Elara remains willing to race after [[Elara Comp
 
 ## Rewards
 
-- `elara_bridgehold_line_practiced`, an Act II preparation asset;
+- `elara_bridgehold_practice`, an Act II preparation asset;
 - **Follow My Line**, an Elara field behavior that marks a nearby safe traversal continuation after the player misses a jump or loses sight of a climb route;
 - Bridgehold and Market Roofline shortcuts remain visible on the player map;
 - friendship progression and the second pre-commitment relationship scene.

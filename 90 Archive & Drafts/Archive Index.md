@@ -59,6 +59,8 @@ Grenzburg's pre-player-systems material is preserved under `50 Grenzburg and Pla
 
 The pre-archetype companion and player controls are preserved under `90 Project History/2026-07 Companion Archetype and Emotional Foundation Pass`. [[Archive Manifest#Companion Archetype and Emotional Foundation Pass|Companion Archetype and Emotional Foundation Pass Archive Manifest]] records twenty-seven snapshots of the eight prior character bibles, five response files, player and companion controls, templates, Bases, navigation, and focus state before the temperament, voice, ensemble, and emotional-audit standards were established.
 
+Elara and Ashira's pre-pair-rewrite material is preserved under `90 Project History/2026-07 Elara Ashira and Remote Claims Pass`. [[Elara Ashira Remote Claims Archive Manifest]] records their prior character bibles, campaign controls, relationship material, retired quest sources, and superseded local cast before the remote-claims doctrine and paired emotional rewrite were applied.
+
 ## Subject Archives
 
 - **10 Cosmology:** superseded cosmological phases and entity versions.

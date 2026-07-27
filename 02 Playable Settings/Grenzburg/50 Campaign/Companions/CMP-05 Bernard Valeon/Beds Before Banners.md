@@ -20,7 +20,7 @@ reward_unlocks: ["Neutral Hall Claim", "West Refuge preparation"]
 required_locations: ["West Refuge Hall", "Longlake Ward", "Grenzburg Underways"]
 blocking_status: blocked
 architecture_status: migrated
-companion_content_role: operation
+companion_content_role: act-operation
 companion_campaign_stage: act-3
 quest_owner: "Bernard Valeon"
 quest_sequence: 8

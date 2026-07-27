@@ -35,6 +35,16 @@ properties:
     displayName: Care Beat
   player_archetype_hooks:
     displayName: Player Archetype Hooks
+  remote_claim_anchor:
+    displayName: Remote Claim Anchor
+  past_contact_mode:
+    displayName: Past Contact Mode
+  debt_manager:
+    displayName: Debt Manager
+  legal_debt_state_key:
+    displayName: Legal Debt State
+  remote_claim_status:
+    displayName: Remote Claim Status
   quest_owner:
     displayName: Quest Owner
   quest_sequence:
@@ -88,6 +98,9 @@ views:
       - archetype
       - voice_status
       - emotional_rewrite_status
+      - remote_claim_anchor
+      - past_contact_mode
+      - debt_manager
       - foil
       - relationship_theme
     sort:
@@ -111,6 +124,7 @@ views:
       - blocking_status
       - emotional_rewrite_status
       - dialogue_status
+      - remote_claim_status
       - emotional_function
     sort:
       - property: companion_id
@@ -123,6 +137,7 @@ views:
       and:
         - 'quest_class == "companion"'
         - 'architecture_status == "migrated"'
+        - 'remote_claim_status != "pending-migration"'
     groupBy:
       property: note.quest_owner
       direction: ASC
@@ -145,6 +160,7 @@ views:
       - blocking_status
       - emotional_rewrite_status
       - dialogue_status
+      - remote_claim_status
     sort:
       - property: companion_id
         direction: ASC
@@ -195,6 +211,7 @@ views:
       - blocking_status
       - emotional_rewrite_status
       - dialogue_status
+      - remote_claim_status
     sort:
       - property: companion_id
         direction: ASC
@@ -209,6 +226,7 @@ views:
             - 'emotional_rewrite_status == "reframe"'
             - 'emotional_rewrite_status == "replace"'
             - 'dialogue_status != "approved"'
+            - 'remote_claim_status == "pending-migration"'
     groupBy:
       property: note.quest_owner
       direction: ASC
@@ -223,6 +241,7 @@ views:
       - pleasure_beat
       - care_beat
       - player_archetype_hooks
+      - remote_claim_status
       - blocking_status
     sort:
       - property: companion_id

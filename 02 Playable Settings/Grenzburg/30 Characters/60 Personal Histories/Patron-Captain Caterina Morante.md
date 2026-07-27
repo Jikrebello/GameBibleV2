@@ -4,15 +4,17 @@ status: canon
 canon_level: local
 visibility: author-only
 era: ["Present Day"]
-region: ["Sermora", "Grenzburg"]
+region: ["Sermora"]
 culture: ["Sermoran"]
 related_factions: ["Sermoran Admiralty", "The Salt-Reed Company"]
 appears_in: ["Grenzburg"]
-needs: []
+needs:
+  - migrate Ilyana's remaining physical-confrontation placeholders during the Ilyana-Dismas paired rewrite
 aliases: ["Caterina Morante"]
-tags: [game-ready]
+tags: [narrative-rewrite]
 sex: woman
 vocation: ""
+past_contact_mode: remote-only
 ---
 # Patron-Captain Caterina Morante
 
@@ -39,6 +41,10 @@ She wants:
 
 She is not responsible for Ilyana's original forgery. Once the truth emerged, Morante chose captivity, property seizure, threats, and continued battle service over release.
 
+## Remote Presence
+
+Morante never enters the base-game worldspace. She acts through authenticated claims, Sermoran rulings, local factors, seized property, correspondence, and instructions that [[Claims-Factor Marco Bellandi]] can verify but not morally endorse.
+
 ## Adventure Resilience
 
 Morante may be:
@@ -63,4 +69,3 @@ Morante can lawfully defend herself, contest actual property, and demand a heari
 - [[Five Cases at Customs]]
 - [[The Free Refrain]]
 - [[Ilyana Companion Campaign]]
-

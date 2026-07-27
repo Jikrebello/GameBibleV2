@@ -44,7 +44,7 @@ Every companion bible controls:
 - the point where their gift becomes a shadow;
 - a preserving lesson that matures the archetype without flattening it.
 
-At least two-thirds of ordinary companion material concerns present life, appetite, humor, competence, relationships, and the world around them. Direct discussion of the original wrong stays below one-third and normally below one-fifth of ambient material. Only the named past anchors in [[Companion Archetype Constitution]] may return physically; every other history reaches Grenzburg through memory, habits, records, distant news, or consequences.
+At least two-thirds of ordinary companion material concerns present life, appetite, humor, competence, relationships, and the world around them. Direct discussion of the original wrong stays below one-third and normally below one-fifth of ambient material. Under [[Companion Debt and Remote Claims Standard]], no person from a companion's former life enters the base-game worldspace. History reaches Grenzburg through memory, habits, correspondence, remote testimony, agents, records, silence, and material consequences.
 
 The twenty-eight companion pairs receive individual briefs in [[Companion Ensemble Pair Briefs]]. The four principal foil pairs receive autumn, winter, and spring exchange arcs. Their disagreements remain asymmetric and unfinished where a clean resolution would feel false.
 
@@ -60,7 +60,7 @@ The Black Road introduces [[Bernard Valeon]], [[Dismas Raben]], and [[Ilyana Ves
 
 Companions may be added or dismissed at the Blackjack Yard, settlement hubs, established camps, and stabilized travel nodes that offer party organization. Dismissal carries no approval penalty. A dismissed companion returns to their assigned home base or current seasonal destination.
 
-Declining an initial field invitation does not erase a companion from the Blackjacks or stop their personal campaign. A named repair scene preserves later field availability unless an authored departure closes it. No recruitment briefing delivers a culture lecture; foreign history enters through the debt, an immediate task, and later visitors or records.
+Declining an initial field invitation does not erase a companion from the Blackjacks or stop their personal campaign. A named repair scene preserves later field availability unless an authored departure closes it. No recruitment briefing delivers a culture lecture; foreign history enters through the debt, an immediate task, remote claims, records, and present-day consequences.
 
 ## Personal Campaign Contract
 

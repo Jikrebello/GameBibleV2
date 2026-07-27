@@ -20,7 +20,7 @@ reward_unlocks: ["Ylva Summer Routine", "Postwar Route Jobs"]
 required_locations: ["Blackjack Yard", "Tannbruck Scout Post", "Longlake Road"]
 blocking_status: blocked
 architecture_status: migrated
-companion_content_role: summer-coda
+companion_content_role: summer
 companion_campaign_stage: summer
 quest_owner: "Ylva Winter-Track"
 quest_sequence: 10

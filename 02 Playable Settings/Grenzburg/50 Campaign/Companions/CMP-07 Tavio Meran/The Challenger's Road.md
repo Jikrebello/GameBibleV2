@@ -52,8 +52,9 @@ persistence_scope: regional-milestone
 postgame_season: ""
 emotional_rewrite_status: reframe
 dialogue_status: pending-rewrite
+remote_claim_status: pending-migration
 archetype_pressure: "Competition becomes worth: test whether Tavio can stop, lose, or need help without surrendering athletic joy."
-emotional_function: "Keep Lio as the sole returning anchor; center bodily vulnerability, public expectation, and the right to arrive or withdraw"
+emotional_function: "Keep Lio's remote claim and refusal; use a present-day challenger to center bodily vulnerability, public expectation, and the right to withdraw"
 pleasure_beat: "Competition, crowds, food, physical effort, ridiculous prizes, and celebrating improvement."
 care_beat: "Tavio trains beside people, celebrates their effort, and calls a halt before glory spends their bodies."
 player_archetype_hooks: []
@@ -154,4 +155,3 @@ At Grenzburg:
 - [[The Fair Defeat]]
 - [[Red Brass Bench]]
 - [[Proof-Mistress Hella Dorn]]
-

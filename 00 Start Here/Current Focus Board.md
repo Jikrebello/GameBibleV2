@@ -15,7 +15,7 @@ tags: []
 
 ## First Creative Priority
 
-Build Grenzburg into the setting's first complete video game. [[Grenzburg RPG Experience Constitution]] treats the seasonal campaign, the blank-slate debtor, and eight autonomous companion campaigns as equal parts of the experience. The twenty-one main chapters and eighty-eight-piece companion architecture remain locked. The immediate priority is emotional implementation: [[Companion Archetype Constitution]] now gives all eight companions distinct engines, [[Companion Dialogue and Scene Standard]] controls human scene craft, and [[Companion Emotional Rewrite Audit]] assigns every formal piece a preserve, reframe, or replace brief. The four paired rewrites begin with Elara and Ashira, then Ylva and Tavio, Ilyana and Dismas, and Bernard and Zafir. Caleran remains the great-city sandbox, but it is not the active implementation priority.
+Build Grenzburg into the setting's first complete video game. [[Grenzburg RPG Experience Constitution]] treats the seasonal campaign, the blank-slate debtor, and eight autonomous companion campaigns as equal parts of the experience. The twenty-one main chapters and eighty-eight-piece companion architecture remain locked. Elara and Ashira are the first emotionally cleared pair: twenty-two production-blocked pieces now use present-day Grenzburg casts, approved dialogue, remote former-life claims, and a three-season foil arc. [[Companion Debt and Remote Claims Standard]] prevents Grenzburg from becoming a reunion point for every backstory. The next paired rewrite is Ylva and Tavio. Caleran remains the great-city sandbox, but it is not the active implementation priority.
 
 ## Current Canon Baseline
 
@@ -42,8 +42,8 @@ Build Grenzburg into the setting's first complete video game. [[Grenzburg RPG Ex
 
 ## Next Three Workstreams
 
-1. **Elara and Ashira:** rewrite the Cheerleader-Goth pair together, clearing their quest dispositions, present-day ensemble scenes, three-season foil arc, grey baseline, and all eight player-temperament chemistry variants.
-2. **Remaining paired companion passes:** continue with Ylva-Tavio, Ilyana-Dismas, and Bernard-Zafir. Preserve structural deadlines, autonomy, relationship separation, and rewards while replacing emotionally weak premises and dialogue.
+1. **Ylva and Tavio:** perform paired emotional rewrite 02, including Tavio's remote Lio claim and the Tomboy-Jock seasonal foil arc.
+2. **Remaining paired companion passes:** continue with Ilyana-Dismas and Bernard-Zafir. Preserve structural deadlines, autonomy, relationship separation, and rewards while replacing emotionally weak premises, dialogue, and prohibited former-life arrivals.
 3. **Identity and living-world allocation:** distribute culture, background, vocation, and temperament hooks across authored content, then build regional encounter decks and side-content placements without changing the main campaign.
 
 ## Locked Rulings
@@ -91,8 +91,8 @@ Build Grenzburg into the setting's first complete video game. [[Grenzburg RPG Ex
 ## Open Production Questions
 
 - Exact Grenzburg damage, frames, inputs, growth curves, mastery rates, social probabilities, quest rewards, encounter balance, custom-build budget, and compatibility matrix.
-- Bespoke preparation thresholds, autonomous decisions, cross-companion support, and changed re-entry for Ashira, Dismas, and Zafir.
-- Full paired emotional rewrites for all eighty-eight companion pieces, beginning with Elara and Ashira; every linked quest currently awaits approved dialogue.
+- Bespoke preparation thresholds, autonomous decisions, cross-companion support, and changed re-entry for Dismas and Zafir.
+- Full paired emotional rewrites for the remaining sixty-six companion pieces; Elara and Ashira's twenty-two are cleared.
 - Final allocation of the 90 origin, 72 background, 40 starting-vocation, and 16 advanced-vocation identity hooks reserved in [[Player Identity Reactivity Matrix]].
 - Final placement and scripting of the twenty-four minimum temperament-signal scenes and sixty-four player-companion chemistry variants.
 - Regional and district encounter-card rosters, cooldowns, persistence details, and postwar seasonal variants governed by [[World Simulation and Discovery Constitution]].

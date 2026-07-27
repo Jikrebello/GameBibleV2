@@ -162,20 +162,69 @@ Duplicate implementation keys across these authorities are prohibited unless one
 | `player_temperament_quiz_state` | player temperament | Player Character | 0 | [[Character Creation and Identity]] |
 | `player_temperament_locked` | player temperament | Player Character | 15 | [[Ghor at the Gate]] |
 | `second_nature_draught_available` | postgame player temperament | Player Character | 23 | [[The First Summer Road]] |
-| `ashira_roster_custody` | companion | Ashira bath Melan | 1 | [[The Faces She Kept]] |
-| `medium_public_fear` | companion | Ashira bath Melan | 1 | [[The Faces She Kept]] |
-| `qesheth_judgement_found` | companion | Ashira bath Melan | 1 | [[The Faces She Kept]] |
-| `ashira_terror_method` | companion | Ashira bath Melan | 2 | [[A Useful Terror]] |
-| `bent_oak_families` | companion | Ashira bath Melan | 2 | [[A Useful Terror]] |
-| `sunken_causeway_access` | companion | Ashira bath Melan | 2 | [[A Useful Terror]] |
-| `ashira_liability_state` | companion | Ashira bath Melan | 3 | [[The Price of the Bow Tower]] |
-| `ashira_relationship_commitment` | companion | Ashira bath Melan | 3 | [[The Price of the Bow Tower]] |
-| `human_imprint_policy` | companion | Ashira bath Melan | 3 | [[The Price of the Bow Tower]] |
-| `qesheth_charter_protected` | companion | Ashira bath Melan | 3 | [[The Price of the Bow Tower]] |
-| `ashira_arc_outcome` | companion | Ashira bath Melan | 4 | [[No Human Shadow]] |
-| `ashira_summer_destination` | companion | Ashira bath Melan | 4 | [[No Human Shadow]] |
-| `human_roster_final_state` | companion | Ashira bath Melan | 4 | [[No Human Shadow]] |
-| `medium_field_school` | companion | Ashira bath Melan | 4 | [[No Human Shadow]] |
+| `companion_claims_portfolio_state` | legal debt | Claims-Factor Marco Bellandi | 0-5 | [[Companion Debt and Remote Claims Standard]] |
+| `elara_legal_debt_state` | legal debt | Elara Velescar | 0-5 | [[Companion Debt and Remote Claims Standard]] |
+| `ilyana_legal_debt_state` | legal debt | Ilyana Veshkar | 0-5 | [[Companion Debt and Remote Claims Standard]] |
+| `ylva_legal_debt_state` | legal debt | Ylva Winter-Track | 0-5 | [[Companion Debt and Remote Claims Standard]] |
+| `ashira_legal_debt_state` | legal debt | Ashira bath Melan | 0-5 | [[Companion Debt and Remote Claims Standard]] |
+| `bernard_legal_debt_state` | legal debt | Bernard Valeon | 0-5 | [[Companion Debt and Remote Claims Standard]] |
+| `dismas_legal_debt_state` | legal debt | Dismas Raben | 0-5 | [[Companion Debt and Remote Claims Standard]] |
+| `tavio_legal_debt_state` | legal debt | Tavio Meran | 0-5 | [[Companion Debt and Remote Claims Standard]] |
+| `zafir_legal_debt_state` | legal debt | Zafir ibn Samad | 0-5 | [[Companion Debt and Remote Claims Standard]] |
+| `ashira_recruited` | companion gate | Ashira bath Melan | 0 | [[Ashira bath Melan]] |
+| `ashira_approval` | companion approval | Ashira bath Melan | 0-10 | [[Ashira Field Familiarity and Relationships]] |
+| `neda_available` | supporting character | Neda Volk | 0-10 | [[Neda Volk]] |
+| `ashira_introduction_complete` | companion campaign | Ashira bath Melan | 1 | [[The Faces She Kept]] |
+| `ashira_direction` | companion direction | Ashira bath Melan | 1-4 | [[Ashira Companion Campaign]] |
+| `ashira_spindle_recovered` | companion preparation | Ashira bath Melan | 1 | [[The Faces She Kept]] |
+| `human_roster_disclosed` | companion | Ashira bath Melan | 1 | [[The Faces She Kept]] |
+| `customs_runner_state` | companion | Ashira bath Melan | 1 | [[The Faces She Kept]] |
+| `ashira_yard_testimony_protected` | companion preparation | Ashira bath Melan | 2 | [[The Room That Answered]] |
+| `debtor_room_state` | companion | Ashira bath Melan | 2 | [[The Room That Answered]] |
+| `house_echo_state` | companion | Ashira bath Melan | 2 | [[The Room That Answered]] |
+| `ashira_debtors_row_extortion_state` | companion | Ashira bath Melan | 2 | [[The Room That Answered]] |
+| `ashira_causeway_flood_route` | companion preparation | Ashira bath Melan | 2 | [[Ashira Companion Campaign]] |
+| `ashira_nonhuman_decoy_pattern` | companion preparation | Ashira bath Melan | 2 | [[Ashira Shadow Roster Package]] |
+| `ashira_privacy_compact` | companion preparation | Ashira bath Melan | 2 | [[Ashira Companion Campaign]] |
+| `sunken_causeway_captives` | companion | Ashira bath Melan | 3 | [[A Useful Terror]] |
+| `human_face_use_state` | companion | Ashira bath Melan | 3 | [[A Useful Terror]] |
+| `ashira_act1_resolution` | companion chapter | Ashira bath Melan | 3 | [[A Useful Terror]] |
+| `ashira_friendship_episode` | friendship | Ashira bath Melan | 4 | [[The Puppet Dies Twice]] |
+| `yard_puppet_state` | companion | Ashira bath Melan | 4 | [[The Puppet Dies Twice]] |
+| `ashira_private_joke_state` | relationship | Ashira bath Melan | 4 | [[The Puppet Dies Twice]] |
+| `ashira_breach_casualty_map` | companion preparation | Ashira bath Melan | 5 | [[What the Ruins Repeated]] |
+| `ashira_missing_blackjacks_identified` | companion preparation | Ashira bath Melan | 5 | [[What the Ruins Repeated]] |
+| `repeated_signal_state` | companion | Ashira bath Melan | 5 | [[What the Ruins Repeated]] |
+| `yard_missing_roster` | companion | Ashira bath Melan | 5 | [[What the Ruins Repeated]] |
+| `ashira_brina_stop_authority` | companion preparation | Ashira bath Melan | 5 | [[Ashira Companion Campaign]] |
+| `ashira_private_identification_protocol` | companion preparation | Ashira bath Melan | 5 | [[Ashira Companion Campaign]] |
+| `ashira_quarry_shadow_route` | companion preparation | Ashira bath Melan | 5 | [[Ashira Companion Campaign]] |
+| `yard_screen_state` | companion | Ashira bath Melan | 6 | [[When the Screen Comes Down]] |
+| `copied_imprint_method_state` | companion | Ashira bath Melan | 6 | [[When the Screen Comes Down]] |
+| `yard_captive_roster` | companion | Ashira bath Melan | 6 | [[When the Screen Comes Down]] |
+| `ashira_act2_resolution` | companion chapter | Ashira bath Melan | 6 | [[When the Screen Comes Down]] |
+| `ashira_relationship_commitment` | relationship | Ashira bath Melan | 6 | [[Ashira Field Familiarity and Relationships]] |
+| `ashira_romance_episode` | relationship | Ashira bath Melan | 7 | [[The Garden Under Rain]] |
+| `ashira_romance_move_upgrade` | relationship | Ashira bath Melan | 7 | [[The Garden Under Rain]] |
+| `ashira_rain_vault_practiced` | companion bonus | Ashira bath Melan | 7 | [[The Garden Under Rain]] |
+| `rain_vault_state` | relationship | Ashira bath Melan | 7 | [[The Garden Under Rain]] |
+| `ashira_bond_episode` | relationship | Ashira bath Melan | 7 | [[What We Keep Closed]] |
+| `ashira_bond_move_upgrade` | relationship | Ashira bath Melan | 7 | [[What We Keep Closed]] |
+| `ashira_closed_circle_practiced` | companion bonus | Ashira bath Melan | 7 | [[What We Keep Closed]] |
+| `private_effects_custody_state` | relationship | Ashira bath Melan | 7 | [[What We Keep Closed]] |
+| `ashira_borrowed_face_caches` | companion preparation | Ashira bath Melan | 8 | [[Borrowed Faces]] |
+| `blackjack_likeness_policy` | companion | Ashira bath Melan | 8 | [[Borrowed Faces]] |
+| `field_copy_state` | companion | Ashira bath Melan | 8 | [[Borrowed Faces]] |
+| `ashira_company_consent_drill` | companion preparation | Ashira bath Melan | 8 | [[Borrowed Faces]] |
+| `ashira_muster_cadence_sample` | companion preparation | Ashira bath Melan | 8 | [[Ashira Companion Campaign]] |
+| `ashira_nonhuman_roster_separated` | companion preparation | Ashira bath Melan | 8 | [[Ashira Shadow Roster Package]] |
+| `ashira_bone_reed_approach` | companion preparation | Ashira bath Melan | 8 | [[Ashira Companion Campaign]] |
+| `human_roster_final_state` | companion | Ashira bath Melan | 9 | [[No Human Shadow]] |
+| `bone_reed_station_state` | companion | Ashira bath Melan | 9 | [[No Human Shadow]] |
+| `ashira_final_outcome` | companion | Ashira bath Melan | 9 | [[No Human Shadow]] |
+| `ashira_relationship_perk_state` | relationship | Ashira bath Melan | 9 | [[No Human Shadow]] |
+| `ashira_summer_destination` | companion | Ashira bath Melan | 10 | [[A Shadow with No Face]] |
+| `ashira_coda_complete` | companion | Ashira bath Melan | 10 | [[A Shadow with No Face]] |
 | `bernard_recruited` | companion gate | Bernard Valeon | 0 | [[Bernard Valeon]] |
 | `bernard_first_outing_complete` | companion gate | Bernard Valeon | 0 | [[Bernard Companion Campaign]] |
 | `bernard_direction` | companion direction | Bernard Valeon | 0 | [[Bernard Companion Campaign]] |
@@ -299,21 +348,21 @@ Duplicate implementation keys across these authorities are prohibited unless one
 | `elara_act3_result` | companion campaign | Elara Velescar | 4 | [[No Lady of Velescar]] |
 | `elara_act2_finale_played` | companion gate | Elara Velescar | 3 | [[The Patron's Cabinet]] |
 | `elara_relationship_closed` | relationship | Elara Velescar | 3 | [[Elara Companion Campaign]] |
-| `elara_sixth_fieldbook_secured` | companion preparation | Elara Velescar | 2 | [[The Sixth Field Book]] |
-| `elara_southwood_route_intelligence` | companion preparation | Elara Velescar | 2 | [[Roads Worth Saving]] |
-| `elara_burial_name_support` | companion preparation | Elara Velescar | 2 | [[Bread and Burial]] |
-| `elara_shoring_knowledge` | companion preparation | Elara Velescar | 2 | [[Elara Companion Campaign]] |
-| `elara_living_custodian_support` | companion preparation | Elara Velescar | 2 | [[Elara Companion Campaign]] |
-| `elara_warrant_casket_key` | companion preparation | Elara Velescar | 3 | [[Eight Honest Warrants]] |
-| `elara_winter_roofline_proven` | companion preparation | Elara Velescar | 3 | [[The City in Siege]] |
-| `elara_lucia_logistics_copy` | companion preparation | Elara Velescar | 3 | [[Lucia's Long Book]] |
-| `elara_danara_authentication` | companion preparation | Elara Velescar | 3 | [[Danara Veln]] |
-| `elara_bridgehold_line_practiced` | companion preparation | Elara Velescar | 3 | [[A Better Wager]] |
-| `elara_household_claims_protected` | companion preparation | Elara Velescar | 4 | [[Sixty-Three Claims]] |
-| `elara_living_claims_indexed` | companion preparation | Elara Velescar | 4 | [[The Land Reclaimed]] |
-| `elara_kata_delegation_ready` | companion preparation | Elara Velescar | 4 | [[Kata Belyn]] |
-| `elara_burial_provenance_matched` | companion preparation | Elara Velescar | 4 | [[The Names They Buried]] |
-| `elara_old_tithe_route_known` | companion preparation | Elara Velescar | 4 | [[Elara Companion Campaign]] |
+| `elara_mixed_expedition_crew` | companion preparation | Elara Velescar | 2 | [[A Splendid Little Expedition]] |
+| `elara_southwood_intelligence` | companion preparation | Elara Velescar | 2 | [[Roads Worth Saving]] |
+| `elara_burial_support` | companion preparation | Elara Velescar | 2 | [[Bread and Burial]] |
+| `elara_shoring_knowledge` | companion preparation | Elara Velescar | 2 | [[A Splendid Little Expedition]] |
+| `elara_living_custodians` | companion preparation | Elara Velescar | 2 | [[Elara Companion Campaign]] |
+| `elara_winter_company_ready` | companion preparation | Elara Velescar | 3 | [[The Winter Company]] |
+| `elara_roofline_route` | companion preparation | Elara Velescar | 3 | [[The City in Siege]] |
+| `elara_bellandi_escrow_access` | companion preparation | Elara Velescar | 3 | [[Claims-Factor Marco Bellandi]] |
+| `elara_public_witnesses` | companion preparation | Elara Velescar | 3 | [[Elara Companion Campaign]] |
+| `elara_bridgehold_practice` | companion preparation | Elara Velescar | 3 | [[A Better Wager]] |
+| `elara_coalition_ready` | companion preparation | Elara Velescar | 4 | [[The Hands That Hold It]] |
+| `elara_living_claims_index` | companion preparation | Elara Velescar | 4 | [[The Land Reclaimed]] |
+| `elara_remote_instructions_authenticated` | companion preparation | Elara Velescar | 4 | [[Claims-Factor Marco Bellandi]] |
+| `elara_burial_provenance` | companion preparation | Elara Velescar | 4 | [[The Names They Buried]] |
+| `elara_old_tithe_access` | companion preparation | Elara Velescar | 4 | [[Elara Companion Campaign]] |
 | `elara_romance_episode` | relationship | Elara Velescar | 4 | [[Raven Shelf at Dawn]] |
 | `elara_romance_move_upgrade` | relationship | Elara Velescar | 4 | [[Raven Shelf at Dawn]] |
 | `elara_raven_line_practiced` | companion bonus | Elara Velescar | 4 | [[Raven Shelf at Dawn]] |
@@ -326,46 +375,35 @@ Duplicate implementation keys across these authorities are prohibited unless one
 | `elara_friendship_episode` | relationship | Elara Velescar | 2 | [[A Better Wager]] |
 | `elara_rooftop_wager_result` | relationship | Elara Velescar | 2 | [[A Better Wager]] |
 | `elara_without_powder_scene` | relationship | Elara Velescar | 2 | [[A Better Wager]] |
-| `elara_first_confession` | companion | Elara Velescar | 1 | [[Names Beneath Lime]] |
-| `elara_names_recorded` | companion | Elara Velescar | 1 | [[Names Beneath Lime]] |
-| `elara_public_culpability` | companion | Elara Velescar | 1 | [[Names Beneath Lime]] |
-| `grave_goods_state` | companion | Elara Velescar | 1 | [[Names Beneath Lime]] |
-| `customs_porter_state` | companion | Elara Velescar | 1 | [[Names Beneath Lime]] |
-| `vasko_trace_state` | companion | Elara Velescar | 1 | [[Names Beneath Lime]] |
-| `elara_worker_roll_state` | companion | Elara Velescar | 2 | [[The Sixth Field Book]] |
-| `elara_seven_mounds_survey_state` | companion | Elara Velescar | 2 | [[The Sixth Field Book]] |
-| `auction_runner_state` | companion | Elara Velescar | 2 | [[The Sixth Field Book]] |
-| `daria_keln_identified` | companion | Elara Velescar | 2 | [[The Sixth Field Book]] |
-| `seven_mounds_state` | companion | Elara Velescar | 2 | [[A House Fed by Bones]] |
-| `coerced_diggers_state` | companion | Elara Velescar | 2 | [[A House Fed by Bones]] |
-| `kata_belyn_state` | companion | Elara Velescar | 2 | [[A House Fed by Bones]] |
-| `vasko_dren_state` | companion | Elara Velescar | 2 | [[A House Fed by Bones]] |
-| `daria_keln_state` | companion | Elara Velescar | 2-4 | [[Daria Keln]] |
-| `elara_fieldbook_state` | companion | Elara Velescar | 2 | [[A House Fed by Bones]] |
-| `vardek_chain_proof` | companion | Elara Velescar | 2 | [[A House Fed by Bones]] |
-| `elara_workers_before_proof` | companion | Elara Velescar | 2 | [[A House Fed by Bones]] |
-| `eight_warrants_state` | companion | Elara Velescar | 3 | [[Eight Honest Warrants]] |
-| `vardek_relief_route_state` | companion | Elara Velescar | 3 | [[Eight Honest Warrants]] |
-| `hidden_payment_strip_state` | companion | Elara Velescar | 3 | [[Eight Honest Warrants]] |
-| `warrant_courier_state` | companion | Elara Velescar | 3 | [[Eight Honest Warrants]] |
-| `cabinet_integrity` | companion | Elara Velescar | 3 | [[The Patron's Cabinet]] |
-| `elara_vardek_verdict` | companion | Elara Velescar | 3 | [[The Patron's Cabinet]] |
-| `virelian_relief_state` | companion | Elara Velescar | 3 | [[The Patron's Cabinet]] |
-| `danara_veln_state` | companion | Elara Velescar | 3 | [[The Patron's Cabinet]] |
-| `vardek_escape_route` | companion | Elara Velescar | 3 | [[The Patron's Cabinet]] |
-| `old_tithe_vault_known` | companion | Elara Velescar | 3 | [[The Patron's Cabinet]] |
-| `elara_patron_refused` | companion | Elara Velescar | 3 | [[The Patron's Cabinet]] |
+| `elara_first_admission` | companion | Elara Velescar | 1 | [[Names Beneath Lime]] |
+| `lime_names_state` | companion | Elara Velescar | 1 | [[Names Beneath Lime]] |
+| `jonas_feld_state` | companion | Elara Velescar | 1 | [[Names Beneath Lime]] |
+| `silkhook_broker_state` | companion | Elara Velescar | 1 | [[Names Beneath Lime]] |
+| `elara_heroic_account_state` | companion | Elara Velescar | 1 | [[Names Beneath Lime]] |
+| `ropehouse_outer_state` | companion | Elara Velescar | 2 | [[A Splendid Little Expedition]] |
+| `elara_crew_credit_state` | companion | Elara Velescar | 2 | [[A Splendid Little Expedition]] |
+| `neda_elara_trust` | companion | Elara Velescar | 2 | [[A Splendid Little Expedition]] |
+| `seven_mounds_state` | companion | Elara Velescar | 3 | [[A House Fed by Bones]] |
+| `seven_mounds_worker_roster` | companion | Elara Velescar | 3 | [[A House Fed by Bones]] |
+| `southwood_burial_state` | companion | Elara Velescar | 3 | [[A House Fed by Bones]] |
+| `elara_act1_resolution` | companion chapter | Elara Velescar | 3 | [[A House Fed by Bones]] |
+| `winter_company_roster_state` | companion | Elara Velescar | 5 | [[The Winter Company]] |
+| `lantern_rescue_state` | companion | Elara Velescar | 5 | [[The Winter Company]] |
+| `elara_public_credit_state` | companion | Elara Velescar | 5 | [[The Winter Company]] |
+| `patrons_cabinet_state` | companion | Elara Velescar | 6 | [[The Patron's Cabinet]] |
+| `vardek_restoration_offer` | companion | Elara Velescar | 6 | [[The Patron's Cabinet]] |
+| `winter_relief_state` | companion | Elara Velescar | 6 | [[The Patron's Cabinet]] |
+| `elara_act2_resolution` | companion chapter | Elara Velescar | 6 | [[The Patron's Cabinet]] |
 | `elara_relationship_commitment` | companion | Elara Velescar | 3 | [[The Patron's Cabinet]] |
-| `velescar_delegate_states` | companion | Elara Velescar | 4 | [[Sixty-Three Claims]] |
-| `velescar_claimant_priorities` | companion | Elara Velescar | 4 | [[Sixty-Three Claims]] |
-| `claim_substitution_state` | companion | Elara Velescar | 4 | [[Sixty-Three Claims]] |
-| `elara_arc_outcome` | companion | Elara Velescar | 4 | [[No Lady of Velescar]] |
-| `velescar_land_state` | companion | Elara Velescar | 4 | [[No Lady of Velescar]] |
-| `velescar_burial_state` | companion | Elara Velescar | 4 | [[No Lady of Velescar]] |
-| `velescar_title_state` | companion | Elara Velescar | 4 | [[No Lady of Velescar]] |
-| `burial_repair_fund` | companion | Elara Velescar | 4 | [[No Lady of Velescar]] |
+| `velescar_instruction_state` | companion | Elara Velescar | 8 | [[The Hands That Hold It]] |
+| `coalition_delegate_state` | companion | Elara Velescar | 8 | [[The Hands That Hold It]] |
+| `elara_spokesperson_state` | companion | Elara Velescar | 8 | [[The Hands That Hold It]] |
 | `old_tithe_vault_state` | companion | Elara Velescar | 4 | [[No Lady of Velescar]] |
-| `elara_summer_destination` | companion | Elara Velescar | 4 | [[No Lady of Velescar]] |
+| `velescar_land_records_state` | companion | Elara Velescar | 9 | [[No Lady of Velescar]] |
+| `velescar_burial_claims_state` | companion | Elara Velescar | 9 | [[No Lady of Velescar]] |
+| `velescar_title_wealth_state` | companion | Elara Velescar | 9 | [[No Lady of Velescar]] |
+| `elara_final_outcome` | companion | Elara Velescar | 9 | [[No Lady of Velescar]] |
+| `elara_summer_destination` | companion | Elara Velescar | 9 | [[No Lady of Velescar]] |
 | `elara_relationship_perk` | relationship | Elara Velescar | 4 | [[No Lady of Velescar]] |
 | `elara_duo_move` | relationship | Elara Velescar | 4 | [[No Lady of Velescar]] |
 | `elara_duo_move_upgrade` | relationship | Elara Velescar | 4 | [[No Lady of Velescar]] |

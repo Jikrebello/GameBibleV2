@@ -20,7 +20,7 @@ reward_unlocks: ["Four Fires Plan", "shelter preparation"]
 required_locations: ["Blackjack Yard", "Mercy Hospital", "West Refuge Hall", "Outer Winter Camps"]
 blocking_status: blocked
 architecture_status: migrated
-companion_content_role: operation
+companion_content_role: act-operation
 companion_campaign_stage: act-2
 quest_owner: "Bernard Valeon"
 quest_sequence: 5

@@ -28,7 +28,10 @@ archetype_humiliation: "ownership, containment, obedience, or respectability pur
 care_language: ["illicit help", "escape routes", "risks taken against power", "unadvertised loyalty"]
 archetype_shadow: "abandonment, contempt for maintenance, and leaving others to inherit the aftermath"
 preservation_lesson: "commitment can remain free when it is repeatedly chosen"
-past_anchor: ""
+remote_claim_anchor: "The Korrheim rockfall restitution record"
+past_contact_mode: remote-only
+debt_manager: "Claims-Factor Marco Bellandi"
+legal_debt_state_key: "dismas_legal_debt_state"
 voice_status: calibrated
 emotional_rewrite_status: bible-locked
 architecture_status: pending-migration

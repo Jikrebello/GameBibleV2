@@ -1,7 +1,7 @@
 ---
 type: quest
-status: canon
-canon_level: local
+status: archived
+canon_level: obsolete
 visibility: author-only
 era: ["Present Day"]
 region: ["Grenzburg", "Old Market"]
@@ -56,6 +56,10 @@ emotional_function: "Build a present-tense team operation in which Elara recruit
 pleasure_beat: "Social sparkle, discovery, elegant risk, and making a temporary company feel chosen."
 care_beat: "Elara shares credit, access, attention, and protection without making gratitude the price of belonging."
 player_archetype_hooks: []
+archive_reason: "Superseded quest source retained for provenance"
+archived_from: "02 Playable Settings/Grenzburg/50 Campaign/Companions/CMP-01 Elara Velescar/The Sixth Field Book.md"
+archived_on: 2026-07-27
+superseded_by: "[[A Splendid Little Expedition]]"
 ---
 # The Sixth Field Book
 

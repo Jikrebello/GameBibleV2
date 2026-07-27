@@ -4,20 +4,20 @@ status: canon
 canon_level: local
 visibility: author-only
 era: ["Present Day"]
-region: ["Grenzburg", "Crown Heights", "Cathedral Close", "Ledger Quays"]
-culture: ["Eclessian", "Virelian", "Sestaran"]
-related_factions: ["Duchy of Grenzburg", "Church of the Redeemer", "Medori Bank", "Vardek household", "Grenzburg underworld"]
+region: ["Grenzburg", "Crown Heights", "Ledger Quays"]
+culture: ["Eclessian", "Virelian", "Fiorenzian"]
+related_factions: ["Blackjack Corps", "Medori Bank"]
 appears_in: ["Grenzburg"]
 needs: []
-tags: [narrative-rewrite]
+tags: [game-ready]
 quest_class: companion
 act: act-2
-availability_window: ["Deep Winter", "Early Spring"]
+availability_window: ["Siege Winter"]
 repeatability: one-shot
-cutoff_result: resolves-offscreen
-world_state_outputs: ["elara_act2_chapter_resolved", "elara_act2_finale_played", "elara_act2_result", "elara_direction", "cabinet_integrity", "elara_vardek_verdict", "virelian_relief_state", "danara_veln_state", "vardek_escape_route", "old_tithe_vault_known", "elara_patron_refused", "elara_relationship_commitment", "elara_relationship_closed"]
-reward_unlocks: ["A Lady's Exit", "relationship duo move"]
-required_locations: ["Blackjack Yard", "Grenzmark Keep", "Chancery House", "Iron Ledger Counting-House", "Market Roofline", "Grain Stairs"]
+cutoff_result: transforms
+world_state_outputs: ["patrons_cabinet_state", "vardek_restoration_offer", "winter_relief_state", "elara_act2_resolution", "elara_direction", "elara_legal_debt_state"]
+reward_unlocks: ["A Lady's Exit", "relationship commitment access"]
+required_locations: ["Iron Ledger Counting-House", "Chancery House", "Grenzmark Keep", "Frozen Quays"]
 blocking_status: blocked
 architecture_status: migrated
 companion_content_role: act-finale
@@ -29,280 +29,157 @@ faction_line: ""
 faction_branch: ""
 chapter_id: ""
 main_sequence: 0
-story_gate: operation
+story_gate: confrontation
+relationship_variant: ""
+encounter_deck: []
+postgame_season: ""
 estimated_hours: 1.75
 gameplay_pillars: [social, infiltration, investigation, pursuit, choice]
-required_states: ["elara_act1_chapter_resolved", "elara_act2_readiness_viable", "winter_strands_open"]
-optional_state_inputs: ["elara_warrant_casket_key", "elara_winter_roofline_proven", "elara_lucia_logistics_copy", "elara_danara_authentication", "elara_bridgehold_line_practiced", "vardek_chain_proof", "vasko_dren_state", "daria_keln_state", "kata_belyn_state", "elara_public_culpability"]
-field_experience_gate: []
+required_states: ["elara_act1_resolution"]
+optional_state_inputs: ["elara_winter_company_ready", "elara_roofline_route", "elara_bellandi_escrow_access", "elara_public_witnesses", "elara_bridgehold_practice"]
 companion_required: "Elara Velescar"
 duo_quest: true
-pause_points: ["Infiltration Plan Chosen", "Cabinet Reached Before Opening"]
-relationship_gate: "Quest is ungated; post-quest commitment requires Trusted approval, two relationship scenes, no major conflict, and an available relationship slot"
-preparation_inputs: ["elara_warrant_casket_key", "elara_winter_roofline_proven", "elara_lucia_logistics_copy", "elara_danara_authentication", "elara_bridgehold_line_practiced"]
-preparation_threshold: "2 of 5"
+pause_points: ["Approach Chosen", "Cabinet Located"]
+preparation_inputs: ["elara_winter_company_ready", "elara_roofline_route", "elara_bellandi_escrow_access", "elara_public_witnesses", "elara_bridgehold_practice"]
+preparation_threshold: "2 participate; 3 all material objectives; 4 one safeguard"
 autonomous_deadline: "Ghor at the Gate"
-autonomous_resolution: "Elara enters through her strongest access; direction and readiness determine relief, evidence, patronage, and escape"
-changed_reentry: "Cabinet After Snow; romance and sworn bond remain permanently closed"
+autonomous_resolution: "Elara preserves relief and exposes part of the network but secretly keeps the restoration option."
+changed_reentry: "Cabinet After Snow"
 ensemble_inputs: ["Zafir ibn Samad", "Ilyana Veshkar"]
-identity_hooks: []
-encounter_deck: []
-persistence_scope: campaign
-postgame_season: ""
-emotional_rewrite_status: reframe
-dialogue_status: pending-rewrite
-archetype_pressure: "Belonging becomes curation: test whether Elara shares social power or decides who deserves the room."
-emotional_function: "Keep the social heist and Vardek confrontation; center public belonging, humiliation, and Elara's willingness to lose status by naming her conduct"
-pleasure_beat: "Social sparkle, discovery, elegant risk, and making a temporary company feel chosen."
-care_beat: "Elara shares credit, access, attention, and protection without making gratitude the price of belonging."
-player_archetype_hooks: []
+identity_hooks: ["Nobility", "Merchant/Craft", "Underworld", "Scholarly", "Peasant/Labour"]
+emotional_rewrite_status: cleared
+dialogue_status: approved
+remote_claim_status: compliant
+archetype_pressure: "Elara faces an offer that flatters her best self and lets her curate culpability without a villain present to absorb the scene."
+emotional_function: "Make remote patronage, relief, status, and confession collide inside an active heist."
+pleasure_beat: "Dress, disguise, social improvisation, locked galleries, rooftops, and a frozen-quay chase."
+care_beat: "Preserve genuine relief without using recipients as leverage or audience."
+player_archetype_hooks: ["Cheerleader", "Tomboy", "Goth", "Bohemian", "Jock", "Nerd", "Rebel", "Goofball", "Grey"]
+persistence_scope: regional-persistent
 ---
 # The Patron's Cabinet
 
-## Quest Function
+## Premise
 
-This is Elara's Act II finale, a winter social-heist with a pursuit ending. Lord Marek Vardek enters Grenzburg as a real relief patron carrying the records that can expose him. The player must separate grain from leverage and evidence from spectacle.
+Vardek's Grenzburg solicitor has placed a travelling cabinet inside Chancery House during a winter relief reception. It holds:
 
-The active party is only the player and Elara. Danara and any faction escorts are temporary NPCs outside the squad limit.
+- grave-sale records;
+- worker liabilities;
+- Velescar seals;
+- correspondence proving remote patronage;
+- genuine grain warrants needed that night by besieged districts.
 
-## Unlock and Staging
+[[Claims-Factor Marco Bellandi]] separately presents Elara with Vardek's authenticated restoration offer. Vardek does not appear. His letter describes her as brave, overburdened, and uniquely capable of making restitution “with dignity.” It offers a reduced house, private reserve, and a story in which she alone was misled by disloyal factors.
 
-The quest opens in Deep Winter once any two Act II readiness assets from [[Elara Companion Campaign]] are secured. A Virelian relief delegation receives protected rooms in Grenzmark Keep while its final grain releases are cleared through the Iron Ledger Counting-House.
+Elara hates how good it sounds.
 
-Vardek sends Elara a formal invitation addressed to **Lady Elara Velescar**, with a private line offering restoration. Danara separately sends a burial-copy sign through Paupers' Cloister.
+## Party and Approach
 
-The duo stages from the Blackjack Yard. The tracked warning identifies readiness, current evidence, relationship conflicts, the departure deadline, and that declining this finale permanently closes Elara's romance and sworn-bond paths.
+The player and Elara form a duo. Three assets make both evidence and relief achievable; fewer create material tradeoffs.
 
-## Immediate Stakes
+Approaches:
 
-Vardek's travelling cabinet contains:
+- **invitation:** use Elara's social status and a public reception;
+- **legal seizure:** combine Bellandi escrow and public witnesses;
+- **service route:** enter through kitchens, fuel halls, and roof maintenance;
+- **underworld route:** cross frozen quays and a locked archive stair.
 
-- the internal sale chain for the six grave expeditions;
-- worker fine schedules and transfer orders;
-- named burial inventories and buyer records;
-- House Velescar's title instruments and Old Tithe Vault lease key;
-- eight genuine relief clearances needed to complete distribution from the warrants processed in [[Eight Honest Warrants]].
+All routes converge on active gameplay and work for every vocation. Identity hooks change who trusts the player, how much exposure a mistake creates, and which room opens first.
 
-Seizing everything carelessly can delay relief. Preserving relief by accepting Vardek's account protects him. Preparation can save both.
+## Beginning: The Reception
 
-## Principal Cast
+The social floor contains nobles, guild officers, relief captains, servants, debtors requesting warrants, and people treating the siege as a flattering backdrop.
 
-- [[Elara Velescar]]: knows Vardek's habits and is vulnerable to the future he offers.
-- [[Lord Marek Vardek]]: court predator whose protection is material rather than occult.
-- [[Danara Veln]]: controlled delegation clerk and alternate authentication path.
-- [[Vasko Dren]]: conditional escape master if free.
-- [[Daria Keln]]: conditional record or route controller if she escaped Seven Mounds.
-- [[Ledger-Master Lucia Medori]]: may certify warrants without endorsing seizure.
-- [[Castellan Pierre Hohenwall]]: may issue a narrow evidence order if the chain is sufficient.
+Elara is brilliant. She rescues a nervous clerk from mockery, learns two guard rotations during a dance, and gives the player a title invented quickly enough to become true for five minutes.
 
-## Operation States
+Her shadow appears when she folds the relief captains into “our side” without asking whether they want the scandal attached to their work.
 
-### Delegation Phase
+The player can build:
 
-1. **Reception:** guests, servants, clerks, and guards move freely.
-2. **Private audience:** Vardek isolates Elara and shifts the cabinet toward his rooms.
-3. **Clearance:** warrants and cabinet are prepared for movement to Ledger Quays.
-4. **Departure:** Vardek begins the frozen-quay escape.
+- a public diversion;
+- a servant-led route;
+- an authenticated seizure;
+- a forged appointment;
+- a physical breach after evacuation.
 
-Noise, public accusation without proof, lost disguises, or failed seizure advances the phase. Social success and secured authority hold it without creating infinite time.
+## Middle: The Three Cabinets
 
-### Relief Integrity: 3 to 0
+Three near-identical cabinets are distributed across Chancery House:
 
-- **3:** all eight relief clearances remain valid and independently certifiable.
-- **2:** one grain release is delayed.
-- **1:** only emergency ducal credit can release the full shipment.
-- **0:** Vardek or the Bank freezes the warrants; immediate winter relief is materially reduced.
+1. a public account cabinet;
+2. a relief cabinet containing live warrants;
+3. the patron's cabinet with evidence and the restoration seal.
 
-### Exposure: concealed, suspected, identified, or alarmed
+The order can be learned through:
 
-Exposure controls guard placement, locked routes, and whether Vardek can be confronted privately. It does not erase the legal or social approaches once alarmed; it transforms them into a seizure or chase.
+- construction marks;
+- Bellandi's weights;
+- servant movement;
+- Elara's memory of Virelian packing sequence;
+- a hidden heater needed to protect the live warrants.
 
-## Preparation
+Alarm does not lock the quest. It changes social movement into seizure, chase, or combat.
 
-Before committing to an approach, the dossier reads five assets:
+## Vardek's Presence Without Arrival
 
-- warrant-casket key from [[Eight Honest Warrants]];
-- winter roofline proven during [[The City in Siege]];
-- Lucia's logistics copy;
-- Danara's cabinet authentication;
-- the practiced Bridgehold line from [[A Better Wager]].
+The restoration offer is read in a quiet records room while city bells report another fire. The letter never speaks aloud, changes magically, or controls anyone.
 
-Two assets make the operation viable. Three make full evidence and full relief achievable through strong play. Four or five add a protected witness, held escape route, or intact emergency copy without guaranteeing the result.
+Elara first laughs:
 
-### Pause Point: Infiltration Plan Chosen
+> “He has remembered my favorite paper.”
 
-The quest may pause after preparation and route selection. Resuming begins at the reception perimeter.
+Then she reaches the clause granting her authority to “settle” household claims.
 
-## Four Entry Paths
+The player can answer through temperament-specific chemistry, but no line solves the choice. Elara may pocket the seal, place it in Bellandi's escrow, tear the offer while preserving evidence, or keep it for the final settlement.
 
-### Invitation
+## Crisis and Pursuit
 
-Elara attends the winter reception under her suspended title with the player as guest, guard, specialist, or servant according to social choices. Noble, cultural, and Insight checks expose room hierarchy, but failure creates suspicion rather than expulsion.
+Local solicitor **Hadrik Venn** discovers the breach and orders the cabinet moved across the Frozen Quays while another agent releases smoke through the reception.
 
-This path provides the longest conversation with Vardek and the safest access to Danara.
+Objectives:
 
-### Legal Seizure
+- evacuate guests and staff;
+- keep grain warrants warm and dry;
+- secure evidence;
+- prevent the solicitor from removing the restoration seal.
 
-The duo presents evidence to Pierre or a civil clerk and enters with a narrow order. Guards must witness the cabinet connection before opening private compartments. Strong proof prevents Vardek converting the seizure into a public attack on relief.
+Routes use the prepared roofline, public bridge, service sled, or ice stairs. A confrontation on moving sleds and frozen moorings ends the heist. Hadrik may be captured, killed in justified resistance, or escape; no later stage requires him.
 
-### Service Route
+## End
 
-Bank or Merchant/Craft access places the duo among inventory hands moving warrants and sealed cases. It gives direct relief control but exposes the player to Vardek's bought testimony if caught outside assigned rooms.
+Bellandi records the legal result. Relief captains record whether their warrants arrived. Elara decides whether to admit:
 
-### Roof and Underway
+- that Vardek financed her;
+- that the offer appeals to her;
+- that she is considering it;
+- or that she has refused it.
 
-The duo crosses the Market Roofline, exterior galleries, and a disused service stair. The route avoids public authority but requires physical evidence to make any later accusation hold.
+The strongest scene is not a speech. In the Yard, Neda asks who saved the relief cabinet. Elara begins “we,” stops, and gives the names of the two service workers who dragged it clear while she chased the evidence.
 
-Every route is available to every vocation through ordinary equipment and social alternatives. Elara's court and delving knowledge creates shortcuts, not required permissions.
+## Fail-Forward
 
-## Grenzmark Keep Interior
-
-The operation uses a connected social space rather than isolated dialogue rooms:
-
-- reception hall and relief display;
-- service corridor carrying food, fuel, and messages;
-- delegation office where Danara works under watch;
-- guest rooms with a decoy cabinet;
-- exterior gallery linking the keep roof to a hoist court;
-- secure inventory room containing the real travelling cabinet.
-
-The decoy contains legitimate public accounts and a planted instruction naming Elara as sole director. Danara, Elara's survey sequence, or Vasko's split-circle mark exposes it.
-
-### Pause Point: Cabinet Reached Before Opening
-
-If the alarm remains below full and the secure room is controlled, the duo may pause before opening the cabinet. Resuming restores room and delegation states at that phase.
-
-## The Cabinet
-
-The travelling cabinet is physical Virelian workmanship: nested drawers, false backs, balance pins, and removable document frames. It contains no contract magic.
-
-Three layers must be distinguished:
-
-1. **Relief frame:** certified releases and shipping clearances tied to the eight bearer warrants.
-2. **Expedition drawers:** orders, sale lists, fines, and burial provenance.
-3. **House spine:** title seal, Old Tithe Vault key, and estate options.
-
-Elara can open the sequence quickly. The player can solve it through tool marks, weight, Danara's instruction, Vasko's notes, or careful disassembly. Forcing it risks tearing warrants and activates an ordinary dye-and-bell alarm.
-
-## Vardek's Offer
-
-Vardek confronts Elara before or immediately after the cabinet opens. He does not claim she is innocent. He offers a respectable account in which she acted alone, paid nobly, and may now return to a restored reduced house.
-
-In exchange, the duo must:
-
-- surrender the expedition drawers;
-- let worker claims expire;
-- preserve Vardek's private ownership of the grave profits;
-- allow him to leave with the house spine.
-
-The grain warrants remain valid under his offer. The choice is corrupt because it purchases real relief with other people's truth, not because the grain is secretly poisoned.
-
-Accepting marks `elara_patron_refused: false` and creates a major relationship conflict. It does not instantly end the arc; [[No Lady of Velescar]] provides one warned opportunity to repudiate the bargain at material cost.
-
-## Escape and Pursuit
-
-If exposed, refused, or lawfully seized, Vardek orders departure through the keep's hoist court to the frozen quays. The pursuit crosses:
-
-- an exterior gallery under wind and crossbow pressure;
-- a descending cargo hoist or stair race;
-- Market Roofline gaps and snow sheds;
-- Grain Stairs crowded with relief workers;
-- a river sled, skiff, or barge route selected during preparation.
-
-The player balances pursuit with workers endangered by Vardek's guards and loose cargo. A prepared faction can handle one rescue outside the squad limit; otherwise the duo must divide tasks.
-
-If Vasko is free, he controls smoke, ropes, and the final vehicle. If Daria is free, she controls document decoys and route substitutions. If both are unavailable, Vardek's senior guard uses a simpler defended route. No state restores either antagonist.
-
-## Vardek Resolution
-
-- **Arrested:** escape routes are closed, evidence remains, and ducal custody is available.
-- **Exposed and escaped:** certified copies survive while Vardek keeps movable wealth and influence.
-- **Killed in resistance:** Vardek chooses lethal escape and dies in combat or environmental failure; relief and estate disputes continue.
-- **Protected settlement:** the duo accepts his terms or destroys evidence for him.
-- **Partial verdict:** evidence reaches Vardek's agents but cannot yet prove his whole chain.
-
-Execution after surrender is a separate culpable act and damages the legal case.
-
-## Information Redundancy
-
-- Cabinet authenticity: survey sequence, Danara, Vasko evidence, or construction marks.
-- Vardek direction: payment orders, buyer chain, testimony, or signed fine transfers.
-- Relief validity: Bank certification, shipping copies, grain seals, or Chancery record.
-- Old Tithe Vault: house spine, lease copy, Vardek route map, or captured guard testimony.
-
-## Fail-Forward Results
-
-- If Danara is removed, certified burial copies and cabinet provenance remain.
-- If the cabinet is damaged, one layer survives in the frame while other proof shifts to testimony.
-- If Vardek escapes, the estate-cache race becomes harder but remains available.
-- If warrants are lost, ducal emergency credit or faction grain can preserve part of relief at a named cost.
-- If the duo is defeated, Vardek leaves after offering Elara the settlement; a hidden copy preserves the Old Tithe lead.
+- Burned evidence survives through Bellandi's authenticated excerpts.
+- Lost warrants can be reissued after district hunger and price consequences.
+- A failed social route becomes a pursuit.
+- Capture produces a legal hearing or Low Lantern extraction.
+- Kept restoration terms remain repudiable through **Cabinet After Snow**, but relationship commitment closes if the finale is missed.
 
 ## Outputs
 
-- `cabinet_integrity`: complete, separated, partial, destroyed, or surrendered;
-- `elara_vardek_verdict`: arrested, exposed-escaped, dead-in-resistance, protected, or partial;
-- `virelian_relief_state`: full, delayed, faction-replaced, reduced, or frozen;
-- `danara_veln_state`: protected, controlled, injured, removed, or dead;
-- `vardek_escape_route`: closed, river, roof, underways, or lawful-departure;
-- `old_tithe_vault_known`: key, map, testimony, or partial;
-- `elara_patron_refused`: true, false, or unresolved;
-- `elara_relationship_commitment`: none, interest-declined, romance-committed, or bond-committed.
-- `elara_relationship_closed`: false after a played finale, true if the finale resolved autonomously;
-- `elara_act2_finale_played`: true;
-- `elara_act2_result`: played-accountable, played-mixed, played-entitled, autonomous-accountable, autonomous-mixed, or autonomous-entitled;
-- `elara_act2_chapter_resolved`: true;
-- `elara_direction`: accountable, mixed, or entitled.
+- `patrons_cabinet_state`: complete, divided, burned-copy, or lost;
+- `vardek_restoration_offer`: refused, escrowed, retained, accepted, or repudiated;
+- `winter_relief_state`: delivered, delayed, diverted, or lost;
+- `elara_act2_resolution`: accountable, mixed, or entitled;
+- `elara_legal_debt_state`: unchanged, under-review, restructured, or satisfied as evidence permits;
+- `elara_direction`.
 
-## Relationship Scene
-
-After the public consequence settles, Elara asks to speak at a quiet roof above the Yard. The scene does not occur inside Vardek's rooms.
-
-At Trusted approval with both prior scenes and no major conflict:
-
-- a male player may commit to romance and unlock **Crossed Measure**;
-- a female player may commit to sworn bond and unlock **Back-to-Back**;
-- either may decline without losing friendship.
-
-Elara states that she wants an equal, not a patron, rescuer, dependent, or owner. Romance may proceed to mature intimacy off-screen. The bond uses a witnessed promise of truthful spoils and return from danger.
-
-Completing the finale personally is mandatory for either commitment. An autonomous finale followed by [[Elara Companion Campaign#Cabinet After Snow|Cabinet After Snow]] preserves friendship and moral repair but cannot reopen this scene.
-
-## Autonomous Resolution and Cabinet After Snow
-
-At [[Ghor at the Gate]], an unresolved finale advances:
-
-- accountable and Prepared Elara preserves relief and refuses restoration, but Vardek escapes and only partial evidence survives;
-- mixed Elara preserves relief and exposes part of the network while secretly retaining the title seal;
-- entitled or Strained Elara accepts patronage, loses the clean evidence channel, or uses recipients as leverage.
-
-Available Zafir support authenticates one ownership substitution. Available Ilyana support preserves one relief route or withdrawal. Neither refuses Vardek for Elara.
-
-The original heist closes. Early Spring changed re-entry, **Cabinet After Snow**, lets the player protect a remaining witness, recover partial copies, and help Elara repudiate the restoration terms. It can repair her Act III direction but cannot recover lost relief, recreate the reception, grant A Lady's Exit, or reopen romance and sworn bond.
-
-## Rewards and Unlocks
-
-- Elara combat upgrade: A Lady's Exit;
-- path-specific relationship duo move after commitment;
-- Old Tithe Vault access information;
-- Virelian relief, legal, Church, Bank, or underworld leverage;
-- approval and final-arc trajectory.
+Completion unlocks **A Lady's Exit**, the post-quest relationship choice, and the appropriate romance or bond commitment gate.
 
 ## Navigation
 
-- [[Elara Velescar]]
 - [[Elara Companion Campaign]]
-- [[Lord Marek Vardek]]
-- [[Danara Veln]]
-- [[Vasko Dren]]
-- [[Daria Keln]]
-- [[Eight Honest Warrants]]
-- [[A Better Wager]]
+- [[The Winter Company]]
+- [[Claims-Factor Marco Bellandi]]
 - [[Raven Shelf at Dawn]]
 - [[Two Names on the Rope]]
-- [[House Velescar]]
-- [[Old Tithe Vault]]
-- [[No Lady of Velescar]]
-- [[Elara Field Familiarity and Relationships]]
-- [[Companion Field Familiarity and Duo Quest Standard]]
-- [[Companions MOC]]
+- [[The Hands That Hold It]]

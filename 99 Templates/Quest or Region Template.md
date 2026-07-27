@@ -49,6 +49,7 @@ ensemble_inputs: []
 identity_hooks: []
 emotional_rewrite_status: ""
 dialogue_status: ""
+remote_claim_status: ""
 archetype_pressure: ""
 emotional_function: ""
 pleasure_beat: ""
@@ -93,6 +94,8 @@ postgame_season: ""
 ## Pleasure and Care Beats
 
 ## Player Archetype Hooks
+
+## Remote Claim Compliance
 
 ## Choices
 

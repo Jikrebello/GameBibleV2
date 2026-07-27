@@ -4,93 +4,160 @@ status: canon
 canon_level: local
 visibility: author-only
 era: ["Present Day"]
-region: ["Grenzburg"]
-culture: ["Jirahar", "Qesheth"]
+region: ["Frostfenn March"]
+culture: ["Jirahar", "Qianglong"]
 related_factions: ["Blackjack Corps"]
 appears_in: ["Grenzburg"]
 needs: []
-tags: [narrative-rewrite]
+tags: [game-ready]
 quest_class: companion
 act: act-3
-availability_window: ["Early Spring", "Muster Crisis"]
+availability_window: ["Before Deep Muster"]
 repeatability: one-shot
-cutoff_result: resolves-offscreen
-world_state_outputs: ["ashira_arc_outcome", "human_roster_final_state", "medium_field_school", "ashira_summer_destination"]
-required_locations: ["Bone-Reed Pool", "Deep Muster Approaches", "Warlock Hall"]
-blocking_status: outlined
-architecture_status: pending-migration
+cutoff_result: autonomous-resolution
+world_state_outputs: ["human_roster_final_state", "bone_reed_station_state", "ashira_final_outcome", "ashira_legal_debt_state", "ashira_relationship_perk_state"]
+reward_unlocks: ["No Human Shadow", "Shadow Witness blueprint", "Seen Without Light", "Confidence Kept"]
+required_locations: ["Bone-Reed Pool", "Frostfenn Muster Station"]
+blocking_status: blocked
+architecture_status: migrated
 companion_content_role: act-finale
 companion_campaign_stage: act-3
 quest_owner: "Ashira bath Melan"
-quest_sequence: 4
+quest_sequence: 9
 companion_id: "CMP-04"
 faction_line: ""
 faction_branch: ""
-emotional_rewrite_status: reframe
-dialogue_status: pending-rewrite
-archetype_pressure: "Witness becomes possession: test whether Ashira can know grief and forbidden truth without appropriating another person."
-emotional_function: "Keep the army wearing copied faces and final renunciation; make the climax about relinquishing possession, not merely sorting safe files"
-pleasure_beat: "Forbidden knowledge, black humor, nocturnal beauty, private jokes, and chosen quiet."
-care_beat: "Ashira guards privacy and remains beside grief without speaking as its owner."
-player_archetype_hooks: []
+chapter_id: ""
+main_sequence: 0
+story_gate: confrontation
+relationship_variant: ""
+encounter_deck: []
+postgame_season: ""
+estimated_hours: 1.75
+gameplay_pillars: [infiltration, rescue, environmental-puzzle, boss, choice]
+required_states: ["ashira_act2_resolution"]
+optional_state_inputs: ["ashira_borrowed_face_caches", "ashira_muster_cadence_sample", "ashira_nonhuman_roster_separated", "ashira_company_consent_drill", "ashira_bone_reed_approach", "ashira_rain_vault_practiced", "ashira_closed_circle_practiced"]
+companion_required: "Ashira bath Melan"
+duo_quest: true
+pause_points: ["Bone-Reed Pool Reached", "Command Screen Breached"]
+preparation_inputs: ["ashira_borrowed_face_caches", "ashira_muster_cadence_sample", "ashira_nonhuman_roster_separated", "ashira_company_consent_drill", "ashira_bone_reed_approach"]
+preparation_threshold: "2 participate; 3 all material objectives; 4 one safeguard"
+autonomous_deadline: "The Deep Muster Main Quest"
+autonomous_resolution: "Ashira seals the human roster under divided custody and becomes a supervised Blackjack Medium."
+changed_reentry: "A Shadow with No Face reflects the fixed custody."
+ensemble_inputs: ["Elara Velescar"]
+identity_hooks: ["Military", "Scholarly", "Mystic/Religious", "Wilderness"]
+emotional_rewrite_status: cleared
+dialogue_status: approved
+remote_claim_status: compliant
+archetype_pressure: "The roster can save lives in the immediate assault; Ashira must decide whether usefulness still outranks the living people's refusal."
+emotional_function: "Resolve her possession of human likeness while preserving the strange, legitimate heart of Medium play."
+pleasure_beat: "A severe marsh assault using shadow fields, false formations, and a command station that can be tactically understood."
+care_beat: "Preserve living company members and the nonhuman practice without treating either as justification for the human roster."
+player_archetype_hooks: ["Cheerleader", "Tomboy", "Goth", "Bohemian", "Jock", "Nerd", "Rebel", "Goofball", "Grey"]
+persistence_scope: regional-persistent
 ---
 # No Human Shadow
 
-## Role in the Arc
+## Premise
 
-This is Ashira bath Melan's quest 4 of four. It is playable in Early Spring and Muster Crisis. The current note remains an outline; its deep block must use the fixed player-plus-Ashira bath Melan duo format in [[Companion Field Familiarity and Duo Quest Standard]].
+The Unending Muster captures discarded field plates and folds their human likenesses into a command station at **Bone-Reed Pool**. The station projects living and dead Blackjack faces across the marsh, drawing rescue teams into rank traps.
 
-## Hook and Immediate Stake
+Ashira brings the original human roster because it can overwrite the copies. It can also make her the sole authority over every projected face.
 
-The Deep Muster's command patterns begin copying Ashira's named roster, making familiar human faces appear among residue troops. The roster is not their soul, but its survival now causes immediate harm.
+## Duo Assault
 
-Sever every human-derived pattern while preserving the nonhuman field knowledge needed against the dead march.
+The player and Ashira enter by:
 
-## Player Actions
+- a reed causeway mapped through exploration;
+- a submerged maintenance spine;
+- a direct assault across abandoned rank platforms.
 
-Trace copied motifs at Bone-Reed Pool, enter a surface command station, separate creature and construct patterns from named human traces, and destroy or seal the source spindles.
+All vocations can complete each route with tools, timing, and shared traversal.
 
-## Opposition and Pressure
+Track:
 
-Muster computations adapt tactically without consciousness. Ashira may argue for retention as the most useful counter-model, while frightened soldiers demand all Medium practice end.
+- `Station Attention 0-4`;
+- four living field prisoners;
+- five roster branches;
+- nonhuman roster separation;
+- return route.
 
-## Information Paths
+## Station
 
-Pattern comparison, Warlock Hall resonance tests, and Othara's roster establish which forms derive from humans. Any two support safe separation.
+### Bone-Reed Pool
 
-Required understanding never rests on a single social check. Cultural, background, Insight, exploration, and companion observations alter clarity and cost rather than deciding whether the plot continues.
+False allies call from fog. Living prisoners alter agreed signals; computations repeat them perfectly. Observation, impact, scent, heat, and prepared cadence distinguish them.
 
-## Decision or Mastery Point
+### Command Screen
 
-Renounce and destroy the roster, seal it under divided custody, or use it as a weapon in the final defense.
+The station assigns faces to ranks. Destroying rank plates weakens the final formation but risks erasing evidence and legitimate nonhuman patterns.
 
-## Fail-Forward Results
+### Muster Conductor
 
-If separation fails, some useful nonhuman imprints are lost and Ashira enters the finale weaker. If a spindle escapes, a degraded copy survives as a summer threat.
+A residue-and-construct command body uses the five human branches as phases:
 
-Failed combat, stealth, or persuasion changes injuries, evidence, access, public trust, or the later encounter. It does not erase the companion line.
+- approach creates false reinforcements;
+- guard redirects attacks;
+- pursuit closes exits;
+- strike repeats the party's last opening;
+- retreat reconstructs the body elsewhere.
 
-## World-State Outputs
+Each neutralized branch removes a phase.
 
-- `ashira_arc_outcome`
-- `human_roster_final_state`
-- `medium_field_school`
-- `ashira_summer_destination`
+## Final Decision
 
-## Seasonal Cutoff
+Ashira can:
 
-Committing to the Deep Muster closes ordinary resolution. The companion reaches a specified compromised summer state unless the quest has already produced a broken or departed outcome.
+### Destroy
 
-## Rewards and Return Value
+Separate legitimate nonhuman media, expose the human roster to controlled light and counter-pattern, and destroy it as equipment. This supports the resolved outcome.
 
-Completes her arc and makes the strongest path a clear nonhuman Medium discipline rather than a claim that all imprints are forbidden.
+### Divide custody
 
-Completion grants a companion technique or field synergy, qualitative approval movement, and a concrete late-game or summer state. Exact numerical tuning remains provisional.
+Seal branches under independent civil, company, and restricted scholarly custody with no deployment authority. This supports a contained compromise.
+
+### Weaponize
+
+Overwrite the station and command its human likeness against the Muster. It is tactically strongest now and preserves Ashira's possession. It supports the broken outcome even if the battle is won.
+
+### Lose it
+
+Collapse or flight can leave one branch in the Deep Muster network, creating a persistent finale complication.
+
+[[Claims-Factor Marco Bellandi]] later records whether destruction or custody satisfies the Qesheth judgement. That account cannot determine which choice was right.
+
+## Relationship Safeguard
+
+Rain Vault practice or Closed Circle practice may preserve one prisoner, private effect, or nonhuman branch during collapse. They are equal and cannot stack.
+
+## Failure
+
+- A false rescue costs position and injury, not automatic death.
+- Uncleared field caches reinforce one boss phase.
+- A lost return route creates a played marsh escape.
+- Defeat lets Ashira trigger partial collapse; prisoners and roster state worsen, but the decision remains.
+
+## Outcomes and Rewards
+
+**Witnessing:** human roster destroyed; nonhuman Medium practice preserved; Ashira may teach under consent rules.
+
+**Contained:** roster sealed under divided custody; Ashira remains supervised.
+
+**Possessive/broken:** private branch, weaponized roster, or refusal of company stop authority; warned conflict may cause departure.
+
+Resolved or compromised outcomes grant:
+
+- **No Human Shadow** capstone;
+- **Shadow Witness** account-wide blueprint;
+- romance perk **Seen Without Light** or bond perk **Confidence Kept** when eligible.
+
+Friendship alone reaches the resolved outcome.
 
 ## Navigation
 
-- [[Ashira bath Melan]]
-- [[Companion Constitution]]
-- [[Narrative State Register]]
-- [[Quest and Content Architecture]]
-- [[Grenzburg MOC]]
+- [[Ashira Companion Campaign]]
+- [[Borrowed Faces]]
+- [[Ashira Shadow Roster Package]]
+- [[A Shadow with No Face]]
+- [[Claims-Factor Marco Bellandi]]

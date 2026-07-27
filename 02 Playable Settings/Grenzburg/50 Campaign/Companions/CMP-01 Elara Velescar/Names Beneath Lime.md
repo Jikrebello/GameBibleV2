@@ -4,18 +4,18 @@ status: canon
 canon_level: local
 visibility: author-only
 era: ["Present Day"]
-region: ["Grenzburg", "Ledger Quays", "Lantern Ward"]
+region: ["Grenzburg", "Ledger Quays"]
 culture: ["Eclessian", "Virelian"]
-related_factions: ["Blackjack Corps", "Medori Bank", "Grenzburg Customs", "Vardek household"]
+related_factions: ["Blackjack Corps", "Grenzburg Customs"]
 appears_in: ["Grenzburg"]
 needs: []
-tags: [narrative-rewrite]
+tags: [game-ready]
 quest_class: companion
 act: act-1
 availability_window: ["Early Autumn", "Open Autumn"]
 repeatability: one-shot
 cutoff_result: transforms
-world_state_outputs: ["elara_introduction_complete", "elara_first_confession", "elara_names_recorded", "elara_public_culpability", "elara_direction", "grave_goods_state", "customs_porter_state", "vasko_trace_state", "vasko_dren_state"]
+world_state_outputs: ["elara_introduction_complete", "elara_first_admission", "lime_names_state", "jonas_feld_state", "silkhook_broker_state", "elara_heroic_account_state"]
 reward_unlocks: ["Appraiser's Cut", "Elara appraisal service"]
 required_locations: ["Blackjack Yard", "Customs Hall", "Quarry Steps", "North Quay Warehouses", "Grain Stairs"]
 blocking_status: blocked
@@ -29,245 +29,158 @@ faction_line: ""
 faction_branch: ""
 chapter_id: ""
 main_sequence: 0
-story_gate: investigation
-estimated_hours: 1.5
-gameplay_pillars: [investigation, infiltration, pursuit, rescue, urban-combat]
+story_gate: open-world-window
+relationship_variant: ""
+preparation_inputs: []
+preparation_threshold: ""
+encounter_deck: []
+postgame_season: ""
+estimated_hours: 1.25
+gameplay_pillars: [investigation, infiltration, rescue, pursuit, urban-combat]
 required_states: ["elara_recruited"]
 optional_state_inputs: ["underways_route_access", "church_record_trust", "blackjack_rank_admitted", "rooftop_network_state"]
 field_experience_gate: ["elara_first_outing_complete"]
 companion_required: "Elara Velescar"
 duo_quest: false
 pause_points: ["Customs Inquiry Complete", "Warehouse Located"]
-relationship_gate: "Open approval or repaired Strained conflict; no attraction required"
-preparation_inputs: []
-preparation_threshold: ""
 autonomous_deadline: "The Last Convoy"
-autonomous_resolution: "Elara follows the impounded goods alone and reaches Seven Mounds with weak evidence"
-changed_reentry: "The Scarred Mounds introduces the crime after the Act I autonomous result"
-ensemble_inputs: ["Bernard Valeon", "Dismas Raben", "Ilyana Veshkar", "Ashira bath Melan", "Tavio Meran", "Zafir ibn Samad", "Ylva Winter-Track"]
-identity_hooks: []
-encounter_deck: []
+autonomous_resolution: "Elara recovers part of the property with a glamorous Yard team, but Jonas remains blamed and unnamed workers disappear from the report."
+changed_reentry: "The Scarred Mounds exposes the omitted people and missing property during winter."
+ensemble_inputs: ["Ashira bath Melan", "Bernard Valeon", "Dismas Raben", "Ilyana Veshkar", "Tavio Meran", "Zafir ibn Samad", "Ylva Winter-Track"]
+identity_hooks: ["Merchant/Craft", "Underworld", "Peasant/Labour", "Nobility", "Scholarly"]
+emotional_rewrite_status: cleared
+dialogue_status: approved
+remote_claim_status: compliant
+archetype_pressure: "Elara can make the pursuit heroic; the test is whether the porter, forced crew, and record workers become subjects rather than supporting color."
+emotional_function: "Introduce her brightness, competence, culpability, and instinct to curate one exciting public account."
+pleasure_beat: "Dockside deduction, disguises, crane traversal, and a moving-barge finish."
+care_beat: "Elara uses her visibility to clear Jonas and lets quieter witnesses own their part of the story."
+player_archetype_hooks: ["Cheerleader", "Tomboy", "Goth", "Bohemian", "Jock", "Nerd", "Rebel", "Goofball", "Grey"]
 persistence_scope: local-persistent
-postgame_season: ""
-emotional_rewrite_status: reframe
-dialogue_status: pending-rewrite
-archetype_pressure: "Belonging becomes curation: test whether Elara shares social power or decides who deserves the room."
-emotional_function: "Keep grave goods, fire, and pursuit; make the public scandal test who Elara includes in her heroic account rather than centering manifests"
-pleasure_beat: "Social sparkle, discovery, elegant risk, and making a temporary company feel chosen."
-care_beat: "Elara shares credit, access, attention, and protection without making gratitude the price of belonging."
-player_archetype_hooks: []
 ---
 # Names Beneath Lime
 
-## Quest Function
+## Premise
 
-Elara's first personal adventure turns an impounded crate into a dockside investigation, warehouse infiltration, fire rescue, and moving-barge pursuit. It establishes the names beneath her old euphemisms and asks for a first act of ownership without making public confession the only useful form of repair.
+Dock porter **Jonas Feld** opens a crate after caustic lime burns through its boards. Inside are funerary cups, identity tablets, cloth, and grave fittings listed as lamp parts. Elara recognizes shallow survey cuts she made during one of her six Virelian expeditions.
 
-The quest is designed for the player and Elara only. Jonas Feld and any rescued dockworkers are temporary NPCs outside the squad limit.
+Customs arrests Jonas. A local receiving crew called the **Silkhooks** begins removing the rest of the shipment before sunset. They are liquidating property purchased remotely through [[Lord Marek Vardek|Vardek]] intermediaries; nobody from Elara's former life is present.
 
-## Unlock and Staging
+## Party and Pressure
 
-Elara offers the quest at the [[Blackjack Yard]] after one distinct meaningful outing recorded by [[Elara Field Familiarity and Relationships]]. A named discovery, consequential property decision, or dangerous shared success is sufficient. She has seen a Customs Hall notice describing lime-caked Virelian goods with handling cuts she recognizes.
+The normal party remains available. Elara is required but never the only route or clue solution.
 
-Elara is required, but the normal field party remains available. The player may prepare equipment, darts, warrants, and faction help without dismissing other companions. Ensemble companions may contribute methods and reactions, but Elara owns the recognition, confession, and custody decision.
+`Manifest Clock 4-0` advances through delay, loud retreat, or escaped couriers. At 0 the warehouse burns and its barge departs. The quest becomes a rescue and pursuit instead of failing.
 
-## Immediate Situation
+`Fire State` is contained, spreading, or quay-threatening.
 
-Dock porter **Jonas Feld** opened a leaking crate after caustic lime burned through its lower boards. Inside were funerary cups, a damaged icon frame, personal seals, and pieces of cloth wrapped around human identity tablets. Customs arrested Jonas when the listed cargo proved to be lamp fittings.
+## Beginning: Customs Hall
 
-The false manifest expires at sunset. After that, the goods enter a bulk contraband sale and Jonas is transferred to the High Court cells. Vasko's people plan to remove the evidence before either step.
+Three independent clues clear Jonas:
 
-## Principal Cast
+- lime under the later dock packing came from burial stabilization;
+- his burns prove he opened the crate after leakage;
+- a handcart left with the document case before his arrest.
 
-- [[Elara Velescar]]: recognizes her old survey cuts and initially wants a quiet recovery.
-- **Jonas Feld:** accused porter, injured by lime, observant enough to remember the collecting handcart.
-- [[Vasko Dren]]: directs the clearance and escape without waiting to fight fairly.
-- [[Danara Veln]]: absent but identifiable through a burial-copy mark among the papers.
-- **Customs Examiner Hella Braun:** wants a clean chain of custody and will help if given evidence rather than rank.
+Elara sees her cut and says, too lightly:
 
-## Pressure States
+> “That triangle is mine. I was very proud of its consistency.”
 
-### Manifest Clock: 4 to 0
+The player can ask what that means, pursue the cart first, or protect Jonas's household. Elara admits command responsibility without being forced into a public spectacle. Concealment remains possible and carries later cost.
 
-The clock advances through long delay, loud failure, retreat from a closed section, or allowing a courier to escape.
+Jonas is observant, angry, and uninterested in becoming Elara's evidence of compassion. He gives the wheel mark and asks whether she plans to clear his name before “making a lovely speech over the cups.”
 
-- **4-3:** crate remains under ordinary guard; warehouse crew is unaware.
-- **2:** Vasko begins clearing the warehouse and prepares the barge.
-- **1:** packing roll is moved to the roof office and fire pots are placed.
-- **0:** the warehouse burns and the barge departs; the quest advances to pursuit rather than failing.
+## Middle: Quarry Steps
 
-### Fire State: contained, spreading, or quay-threatening
+Any two clues find the Silkhook warehouse:
 
-Fire begins only after the warehouse is compromised or the clock reaches 0. Rescue and pump access determine whether it remains an interior hazard or spreads into occupied quay buildings.
+- blue cord caught on a rail;
+- a square-repaired wheel;
+- a customs tally in a drain;
+- a lamp child who saw the roof courier;
+- an Underworld contact who recognizes the receiving knot.
 
-## Beginning: The Customs Crate
-
-The party enters Customs Hall through ordinary public access. Three independent observations establish that Jonas did not steal the goods:
-
-1. Elara's shallow triangular survey cut appears beneath later fence marks.
-2. Lime on the lower crate matches grave-stabilizing mix rather than dock packing lime.
-3. Jonas's injury and the broken boards prove he opened the crate after it began leaking, not before arrival.
-
-Additional paths include:
-
-- Jonas remembers a blue-knotted handcart leaving with a document case;
-- Examiner Braun can expose the false cargo classification;
-- Church record trust reveals Danara's copy mark;
-- underworld standing identifies the receiving warehouse from the handcart knot.
-
-The player may clear Jonas provisionally, leave him held but protected, or remove him unlawfully. Breaking him out saves immediate time but creates a later court burden and raises warehouse readiness.
-
-Elara admits privately that the cuts are hers. She does not yet volunteer the full history unless the player asks without offering an innocent version for her.
-
-### Pause Point: Customs Inquiry Complete
-
-The player may suspend the quest after identifying the handcart route. Elara waits at the Blackjack Yard; the Manifest Clock does not advance through unrelated free play until the quest is resumed.
-
-## Middle: The Handcart Trail
-
-The trail runs from Ledger Quays into Quarry Steps and back toward the North Quay Warehouses. The party can reconstruct it through any two of:
-
-- blue cord fibers caught on a Quarry Steps rail;
-- a wheel with one square repair mark;
-- a bribed lamp boy willing to identify the roof courier;
-- a customs tally dropped in a drainage slot;
-- a lookout carrying Vasko's split-circle field mark.
-
-The route culminates in a short pursuit across stairs, laundry bridges, and quay roofs. Catching the courier preserves the warehouse office key and one unburned sales list. Losing them advances the Manifest Clock and reveals the warehouse through the courier's destination.
-
-No failed check loses the trail.
-
-### Pause Point: Warehouse Located
-
-The party may withdraw before entering the warehouse perimeter. Resuming begins with the chosen approach and current pressure states.
-
-## The Black Lime Warehouse
-
-The receiving site is a leased interior within the North Quay Warehouses, known among its workers as Black Lime because its old stone holds soot and caustic dust.
+The chase crosses stairs, laundry bridges, and quay roofs. Catching the courier preserves the office key and buyer list. Losing them advances the clock and reveals the destination.
 
 ### Approaches
 
-**Lawful seizure:** Customs or Blackjack standing supplies a limited entry order. Guards must be shown contraband in place before private rooms can be searched.
+- **lawful seizure:** establish contraband in place;
+- **false buyer:** use culture, status, disguise, or trade knowledge;
+- **roof route:** rent gear or use public maintenance access;
+- **loading drain:** clear unstable masonry beneath the office;
+- **direct breach:** fight through the loading floor while workers flee.
 
-**Underway access:** Quarry Steps leads to a blocked loading drain. Clearing it enters beneath the office but passes through unstable old masonry.
+All vocations can complete every route. Elara shortens appraisal and traversal interactions.
 
-**Roof infiltration:** the Market Roofline network or ordinary rented climbing gear reaches the crane loft and skylights.
+## Warehouse Fire
 
-**False buyer:** Virelian culture, Merchant/Craft knowledge, or Deception can gain an escorted viewing. Failure begins combat deeper inside rather than ejecting the party.
+The Silkooks are led locally by broker **Jorek Sile**, an elegant receiver who has never met Vardek. He knows the shipment is illicit and intends to burn the names because unnamed goods sell better.
 
-Every route is usable by every vocation. Elara shortens appraisal and structure interactions without being the only lock or climb solution.
+The office fire creates three physical priorities:
 
-## Warehouse Encounters
+1. release two locked sorters;
+2. preserve the name tablets and buyer roll;
+3. stop fire crossing into occupied storage.
 
-- sentries attempting to delay rather than hold ground;
-- lime dust that blinds and damages exposed breathing;
-- suspended cargo that can be lowered safely, dropped as cover, or lost;
-- two trapped workers locked in a side sorting room;
-- Vasko's roof office containing the packing roll and names stripped from sale entries;
-- a prepared fire line intended to erase the office and funerary cloth.
+Pump access, a lawfully assembled crew, or opening the river shutters can make all three possible. Otherwise the player chooses where to spend bodies and time.
 
-Elara's Appraiser's Cut can identify the master bundle quickly. The player can reach the same conclusion through labels, weight, and the split-circle mark.
-
-## Fire and Rescue
-
-When Vasko's people ignite the office, three objectives compete:
-
-- free trapped workers;
-- preserve the packing roll and name tablets;
-- stop fire reaching adjoining occupied storage.
-
-Prior pump access, a lawful crew, or an opened loading door makes all three achievable. Without preparation, the party must move physically between smoke, collapsing loft, and people calling from the sorting room.
-
-Failure transforms evidence and casualties. It never ends the quest before the barge pursuit.
+Elara is magnetic under pressure. She calls people by name, catches a falling child from a window, and nearly credits “our little company” before one rescued sorter says they were locked in by the same people she is praising.
 
 ## End: The Grain-Stairs Barge
 
-Vasko moves the master manifest and two portable cases to a light cargo barge departing past the Grain Stairs. The party reaches it by:
+Jorek takes the master list and two portable cases onto a light barge crewed by coerced laborers. Routes to it include a crane swing, quay pursuit, customs skiff, or stern ladder from the drain.
 
-- crane swing and roof descent;
-- quay pursuit and mooring-line jump;
-- a customs skiff;
-- the lower drain and stern ladder.
+The fight uses shifting cargo, cut lines, smoke, and narrow footing. Jorek can be captured, killed in justified resistance, or escape. None of those states controls later content; the evidence and people matter more than preserving him.
 
-The moving-barge fight uses narrow footing, lines, shifting cargo, and civilians forced to pole the vessel. Vasko uses a rear skiff, smoke, and cut cargo lines, but he has no protected escape. Blocking the skiff, covering the river stairs, or defeating him before he reaches the stern permits capture or death here. If he escapes, he remains the principal Seven Mounds opponent. If he is captured or killed, [[Daria Keln]] assumes field control without reversing his state.
+Elara must decide how the return is recorded:
 
-The climax asks the player to stop the barge, protect the forced crew, and secure evidence. Dropped cargo can be recovered later at greater cost. A fleeing Vasko advances later readiness but does not erase the manifest.
+- **shared account:** Jonas, sorters, barge crew, Customs, and Elara each own their testimony;
+- **accurate led account:** Elara speaks publicly but names agency and credit;
+- **curated account:** she clears Jonas while making everybody else part of her redemption story;
+- **concealed account:** the goods return without her role entering a usable record.
 
-## Decision: How the Names Return
+## Information and Failure
 
-At Customs Hall, Elara must choose how her role enters the record. The player may counsel but cannot invent innocence for her.
+No conclusion depends on one check:
 
-### Public admission
+- Elara's role comes from survey cuts, her admission, or remote purchase copies;
+- Vardek's interest comes from payment marks, Bellandi's portfolio, or buyer routes;
+- Seven Mounds comes from a survey scrap, Jorek's order, or the removed cart case.
 
-Elara names herself as field leader before Braun, Jonas, and the burial copy. It strengthens future legal routes and immediately damages her public standing.
+Failures transform:
 
-### Named restoration without public detail
+- Jonas may remain on appeal;
+- wet or burned fragments preserve partial names;
+- an escaped barge sheds cargo downstream;
+- killed workers become a named company conflict;
+- a defeated party is recovered by dockworkers after the evidence worsens.
 
-The goods and names are returned while Elara gives sealed testimony. Jonas is cleared, but Vardek has more room to frame the operation as hers alone.
+## Archetype Chemistry
 
-### Evidence custody
+- Cheerleader/Jock can make the rescue cohere but risk claiming it.
+- Tomboy/Rebel can reject ceremony but must still clear Jonas publicly.
+- Goth/Nerd can protect names and evidence without treating people as exhibits.
+- Bohemian/Goofball can improvise the pursuit while respecting frightened workers' limits.
+- Grey receives complete practical choices around custody, fire crews, and testimony.
 
-The goods remain together for the larger case. Families wait longer, and burial witnesses must supervise storage. This provides the strongest cabinet authentication if the chain survives.
+## Rewards and Outputs
 
-Keeping or selling the goods produces a named major conflict with Elara after she has admitted what they are.
+Unlock **Appraiser's Cut** and Elara's hub appraisal.
 
-## Information Redundancy
+Record:
 
-Required conclusions never rely on one roll:
-
-- Jonas is cleared through physical crate evidence, witness route, or warehouse papers.
-- Elara's connection appears through survey cuts, her admission, or Vasko correspondence.
-- Vardek's larger chain is suggested through payment marks, sale routes, or Danara's copied inventory.
-- The next investigation reaches Seven Mounds through Vasko's field mark, copied diagrams, or surviving courier testimony.
-
-## Fail-Forward Results
-
-- If Jonas remains imprisoned, Danara's later copy supports appeal; his household loses income and trust.
-- If the warehouse burns, wet labels and barge papers preserve part of the chain.
-- If the barge escapes, Customs intercepts abandoned cargo while Vasko gains readiness.
-- If workers die, the event becomes a named conflict and Vardek uses their supposed criminality publicly.
-- If the party is defeated, its members wake under dockworker protection after Vasko departs; goods and evidence states worsen.
-
-## Outputs
-
-- `elara_first_confession`: full, sealed, evasive, or refused;
-- `elara_names_recorded`: complete, partial, or lost;
-- `elara_public_culpability`: public, sealed, suspected, or concealed;
-- `grave_goods_state`: restored, held-as-evidence, dispersed, or stolen;
-- `customs_porter_state`: cleared, appeal-pending, imprisoned, or dead;
-- `vasko_trace_state`: identified, wounded, warned, or weak-trace.
-- `vasko_dren_state`: captured, dead, escaped, or not-confronted;
-- `elara_direction`: accountable, mixed, or entitled from the named confession and custody result;
-- `elara_introduction_complete`: true.
-
-## Companion and Relationship Movement
-
-Elara begins by solving the crate as an exciting problem and ends forced to say why she recognizes it. Respectful insistence on truth increases approval even when she dislikes the immediate exposure. Public humiliation for its own sake creates Strained approval.
-
-Completion opens **The Wager**, the first romance or sworn-bond interest scene, and [[The Sixth Field Book]]. It also unlocks Elara's Appraiser's Cut progression.
-
-## Seasonal Transformation
-
-If autumn closes first, Jonas is transferred and the contraband sale begins. The winter version starts as an appeal and recovery raid: some goods have reached three buyers, the warehouse is already stripped, and Vasko receives higher readiness. The barge papers still lead to quest two.
-
-## Rewards and Unlocks
-
-- Elara combat upgrade: Appraiser's Cut;
-- Elara appraisal service at hubs;
-- lawful, Church, Customs, or underworld evidence leverage based on route;
-- qualitative approval and relationship-interest scene;
-- named late restitution states.
+- `elara_first_admission`: full, private, evasive, or refused;
+- `lime_names_state`: complete, partial, dispersed, or lost;
+- `jonas_feld_state`: cleared, appeal, imprisoned, injured, or dead;
+- `silkhook_broker_state`: captured, dead, escaped, or unidentified;
+- `elara_heroic_account_state`: shared, accurate-led, curated, or concealed;
+- `elara_direction` movement;
+- `elara_introduction_complete`.
 
 ## Navigation
 
-- [[Elara Velescar]]
 - [[Elara Companion Campaign]]
-- [[Elara Field Familiarity and Relationships]]
-- [[The Sixth Field Book]]
-- [[Daria Keln]]
-- [[Elara Delver-Duelist Package]]
-- [[Vasko Dren]]
-- [[Danara Veln]]
-- [[A House Fed by Bones]]
-- [[Companion Field Familiarity and Duo Quest Standard]]
-- [[Companions MOC]]
+- [[A Splendid Little Expedition]]
+- [[Elara Velescar]]
+- [[Claims-Factor Marco Bellandi]]
+- [[Neda Volk]]

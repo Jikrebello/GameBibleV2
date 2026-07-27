@@ -8,14 +8,14 @@ region: ["Grenzburg"]
 culture: ["Eclessian", "Virelian"]
 related_factions: ["Blackjack Corps"]
 appears_in: ["Grenzburg"]
-needs:
-  - replace quest-level dialogue during the Elara-Ashira paired campaign pass
+needs: []
 tags: [game-ready, companion-response]
 companion_id: "CMP-01"
 archetype: "Cheerleader"
 voice_status: calibrated
-dialogue_status: calibrated
-emotional_rewrite_status: bible-locked
+dialogue_status: approved
+emotional_rewrite_status: cleared
+remote_claim_status: compliant
 ---
 # Elara Banter and Reactivity
 
@@ -81,7 +81,7 @@ Her anger is frightening because she knows exactly how much public discomfort th
 
 Elara begins a grand introduction, sees the debtor recoil, and changes course.
 
-**Elara:** “This is Neda. She has had enough of being looked at. The stew is there; the quiet bench is mine, but I am lending it.”
+**Elara:** “This is Mira. She has had enough of being looked at. The stew is there; the quiet bench is mine, but I am lending it.”
 
 She keeps the rest of the room occupied until Neda chooses whether to join.
 
@@ -123,23 +123,47 @@ After a while, she sets the pick down.
 
 ## Foil Arc — Ashira
 
-### Autumn
+These are three optional seasonal incidents, never one shared project or combined questline.
 
-Elara repeatedly introduces Ashira by expertise. Ashira asks whether she may someday enter a room without being announced as its interesting danger.
+### Autumn — Interesting Danger
 
-Elara is offended, then notices she has never asked what Ashira wants people to call her.
+**Trigger:** both women are present after [[The Faces She Kept]] and before the Act I gate.
 
-### Winter
+Elara introduces Ashira to a frightened official as “our incomparable authority on the unpleasantly impossible.” Ashira asks whether she may enter one room without becoming its exhibit. The official then attempts to exclude her entirely; Elara spends her own status to stop it without repeating the flourish.
 
-Ashira identifies a person Elara's morale plan has quietly excluded. Elara secures that person's place publicly without naming Ashira as the source.
+**Elara:** “Ashira bath Melan is here because she is a Blackjack assigned to the case.”
+>
+> **Ashira:** “Almost ordinary.”
+>
+> **Elara:** “Do not be greedy.”
 
-Ashira later leaves a sweet beside Elara's map and refuses to explain.
+If completed with protected privacy, Ashira may provide `elara_burial_provenance` in Act III.
 
-### Spring
+### Winter — A Place Without Display
 
-Elara asks Ashira to review a public settlement before it is announced. Ashira declines to become her private conscience and instead sits beside the petitioners while Elara hears them.
+**Trigger:** both are present during [[The Winter Company]] or its aftermath.
 
-Their mature friendship permits criticism without either woman becoming audience, ornament, or corrective device.
+Ashira identifies a debtor who needs a Quiet Line station but refuses public naming. Elara creates the position, supplies it, and credits the whole station without disclosing Ashira or the debtor. Ashira later leaves black cherries beside Elara's route map.
+
+**Elara:** “Are these gratitude?”
+>
+> **Ashira:** “They are cherries. Try not to organize them.”
+
+If completed, Elara may protect `ashira_private_identification_protocol` without exposing its source.
+
+### Spring — No Private Conscience
+
+**Trigger:** both campaigns have reached Act III.
+
+Elara asks Ashira to approve a settlement draft in private. Ashira refuses to become her moral seal and sits with the coalition while its contradictory terms are read unedited.
+
+**Ashira:** “You do not need my permission.”
+>
+> **Elara:** “I was rather hoping for your judgement.”
+>
+> **Ashira:** “That is the prettier word.”
+
+Their mature friendship permits criticism without audience, ornament, or corrective ownership. Neither scene changes the other's moral direction automatically.
 
 ## Other Companion Objects
 

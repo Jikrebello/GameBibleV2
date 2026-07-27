@@ -28,7 +28,10 @@ archetype_humiliation: "routine, possession, creative redundancy, or becoming so
 care_language: ["imaginative attention", "invitation", "improvisation", "emotional permission"]
 archetype_shadow: "treating promises, maintenance, and other people's limits as enemies of inspiration"
 preservation_lesson: "chosen commitment protects freedom from becoming drift"
-past_anchor: "Mirella Corsi"
+remote_claim_anchor: "Mirella Corsi and the Salt-Reed Company claims"
+past_contact_mode: remote-only
+debt_manager: "Claims-Factor Marco Bellandi"
+legal_debt_state_key: "ilyana_legal_debt_state"
 voice_status: calibrated
 emotional_rewrite_status: bible-locked
 architecture_status: migrated
@@ -113,7 +116,7 @@ Ilyana used no magical compulsion. She did not need it.
 
 The resulting claims, damage, forgery restitution, and broken-service surety were purchased by Medori.
 
-Mirella is the sole former troupe member who may physically return in Grenzburg. Nereo, Celia, Tomas, and Morante remain present through letters, scores, testimony, agents, and consequences rather than converging on the frontier.
+Mirella, Nereo, Celia, Tomas, and Morante remain present through letters, scores, testimony, agents, and consequences. None physically enters the base-game worldspace. [[Claims-Factor Marco Bellandi]] administers the resulting portfolio under [[Companion Debt and Remote Claims Standard]].
 
 ## Culpability
 
@@ -268,7 +271,7 @@ She opposes:
 
 ## Companion Campaign Direction
 
-[[Ilyana Companion Campaign]] retains eleven pieces. [[Companion Emotional Rewrite Audit]] replaces the most procedural property stories and restricts the physically returning past cast to Mirella.
+[[Ilyana Companion Campaign]] retains eleven pieces. [[Companion Emotional Rewrite Audit]] replaces the most procedural property stories, while [[Companion Remote Claims Compliance Register]] marks every arrival-dependent stage for migration.
 
 Her campaign must move through:
 
@@ -276,7 +279,7 @@ Her campaign must move through:
 2. a present performer whose refusal she cannot rewrite as fear;
 3. creative work requiring maintenance after the exciting part;
 4. friendship built from credit, play, and local music;
-5. Mirella arriving with independent aims rather than a demand to complete Ilyana's lesson;
+5. Mirella exercising independent aims through remote testimony, refusal, authorship terms, and silence rather than arriving to complete Ilyana's lesson;
 6. voluntary winter performance under real pressure;
 7. relationship episodes that distinguish one listener from an audience and equality from shared drift;
 8. a final work that may survive, change, or reject its maker.

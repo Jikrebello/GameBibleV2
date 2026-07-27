@@ -27,7 +27,10 @@ archetype_humiliation: "public exclusion or proof that her importance was orname
 care_language: ["introductions", "public advocacy", "morale", "praise", "occasion-making"]
 archetype_shadow: "curating inconvenient people out of the story and mistaking popularity for virtue"
 preservation_lesson: "belonging becomes durable when social power is shared"
-past_anchor: "Marek Vardek"
+remote_claim_anchor: "Marek Vardek and the Velescar restitution instructions"
+past_contact_mode: remote-only
+debt_manager: "Claims-Factor Marco Bellandi"
+legal_debt_state_key: "elara_legal_debt_state"
 voice_status: calibrated
 emotional_rewrite_status: bible-locked
 architecture_status: migrated
@@ -89,7 +92,9 @@ She selected the sites, supervised extraction, recruited vulnerable diggers, and
 
 Lord Marek Vardek financed the work and purchased finds through intermediaries. When discovery approached, he surrendered Elara and the laborers while preserving his own distance.
 
-Medori purchased Elara's restitution and criminal surety. Vardek remains the sole physically returning person from her old life. Former factors, diggers, and clerks may appear through records or testimony carried by current institutions; they do not all arrive in Grenzburg.
+Medori purchased Elara's restitution and criminal surety. [[Claims-Factor Marco Bellandi]] administers the portfolio in Grenzburg. Vardek, former factors, diggers, clerks, and Velescar households remain remote. Their letters, refusals, sworn copies, settlement instructions, and material claims can reach Grenzburg; they do not.
+
+Elara's legal account follows [[Companion Debt and Remote Claims Standard]]. Bellandi may verify or close the debt, but no account state determines whether Elara has shared power, repaired harm, or earned anybody's forgiveness.
 
 ## Culpability
 
@@ -251,7 +256,7 @@ Her campaign must move through:
 5. relinquishment, compromise, or restoration of House Velescar;
 6. proof that adventure remains joyful after title and exploitation are separated.
 
-Marek Vardek may be exposed, arrested, killed during justified resistance, or escape. His state never becomes an excuse to summon substitute villains from Elara's past.
+Marek Vardek remains a remote antagonist and claimant. His position may be exposed, rejected, preserved, or weakened through authenticated correspondence and local agents. No physical confrontation with him, or with a substitute visitor from Elara's past, decides her campaign.
 
 ## Relationships
 

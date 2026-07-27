@@ -51,6 +51,7 @@ persistence_scope: regional-milestone
 postgame_season: ""
 emotional_rewrite_status: preserve
 dialogue_status: pending-rewrite
+remote_claim_status: pending-migration
 archetype_pressure: "Warmth becomes evasion: test whether Bernard can remain funny and loving while accepting specific judgement."
 emotional_function: "Keep Petra, declared reserve, field service, and White Flame without acquittal"
 pleasure_beat: "Food, absurdity, road stories, children laughing, and companionship without ceremony."

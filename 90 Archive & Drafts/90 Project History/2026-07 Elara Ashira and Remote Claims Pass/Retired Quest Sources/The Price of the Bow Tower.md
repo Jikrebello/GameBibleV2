@@ -1,7 +1,7 @@
 ---
 type: quest
-status: canon
-canon_level: local
+status: archived
+canon_level: obsolete
 visibility: author-only
 era: ["Present Day"]
 region: ["Grenzburg"]
@@ -33,6 +33,10 @@ emotional_function: "Remove the visiting delegation and licensing hearing; creat
 pleasure_beat: "Forbidden knowledge, black humor, nocturnal beauty, private jokes, and chosen quiet."
 care_beat: "Ashira guards privacy and remains beside grief without speaking as its owner."
 player_archetype_hooks: []
+archive_reason: "Superseded quest source retained for provenance"
+archived_from: "02 Playable Settings/Grenzburg/50 Campaign/Companions/CMP-04 Ashira bath Melan/The Price of the Bow Tower.md"
+archived_on: 2026-07-27
+superseded_by: "[[When the Screen Comes Down]]"
 ---
 # The Price of the Bow Tower
 

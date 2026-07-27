@@ -1,0 +1,111 @@
+---
+type: index
+status: archived
+canon_level: obsolete
+visibility: author-only
+era: []
+region: []
+culture: []
+related_factions: []
+appears_in: []
+needs: []
+tags: []
+archive_reason: "Pre-pass control snapshot"
+archived_from: "00 Start Here/Current Focus Board.md"
+archived_on: 2026-07-27
+superseded_by: "Active controlling note at the archived path"
+---
+# Current Focus Board
+
+## First Creative Priority
+
+Build Grenzburg into the setting's first complete video game. [[Grenzburg RPG Experience Constitution]] treats the seasonal campaign, the blank-slate debtor, and eight autonomous companion campaigns as equal parts of the experience. The twenty-one main chapters and eighty-eight-piece companion architecture remain locked. The immediate priority is emotional implementation: [[Companion Archetype Constitution]] now gives all eight companions distinct engines, [[Companion Dialogue and Scene Standard]] controls human scene craft, and [[Companion Emotional Rewrite Audit]] assigns every formal piece a preserve, reframe, or replace brief. The four paired rewrites begin with Elara and Ashira, then Ylva and Tavio, Ilyana and Dismas, and Bernard and Zafir. Caleran remains the great-city sandbox, but it is not the active implementation priority.
+
+## Current Canon Baseline
+
+- **Present day:** 1360 AR, using the [[Chronology of the Known World (AR Dating)]].
+- **Map logic:** the known world is southern-hemisphere oriented; south is colder, harsher, and more frontier-bound. Use [[Gazetteer of the Known World]] and [[Geography Atlas]] as the map baseline.
+- **Source truth:** in-world historical accounts are rated in [[Reliability Register]].
+- **Active game:** [[Grenzburg MOC]] is the project doorway. [[Grenzburg RPG Experience Constitution]], [[Grenzburg Game Constitution]], [[Player Character Constitution]], [[Player Temperament and Chemistry]], [[Player Identity Reactivity Matrix]], [[World Simulation and Discovery Constitution]], [[Quest and Content Architecture]], [[Companion Campaign Architecture]], [[Companion Archetype Constitution]], and [[Companion Autonomy and Act Convergence]] control the player-facing experience.
+- **Active worldspace:** [[Grenzburg Regional Geography]] controls the twin-walled city, seven exterior regions, physical routes, and map boundary. [[Grenzburg Map Package]] provides creator and player maps; [[Grenzburg Worldspace Location Register]] reserves later content placement.
+- **Great-city sandbox:** [[Caleran Great-City Dossier]] is the production doorway for urban intrigue, archaeology, and occult investigation.
+- **Vault structure:** active reference material uses numbered, subject-owned folders; superseded material is indexed through [[Archive Index]] and the [[Physical Reorganization Manifest]].
+- **Creature canon:** [[Bestiary Framework — Creatures of the World Egg|Bestiary Canon Register]] controls origin-first taxonomy and [[The Image, Soul, and Creaturely Continuity]] controls personhood and persistence. [[Bestiary Translation Concordance]] records the full Pathfinder crosswalk without importing its canon.
+- **First creature wave:** [[The Mundane Layer — Residue, Vermin, and the Delver Trade]] controls 34 Material and residue forms; [[Heaven and Soul-Road MOC]] controls sixteen profiles divided among true angels, manifested saints, and soul-road service.
+- **Second creature wave:** [[Faewild and Menhir MOC]] controls thirty forms across drakes, court beings, place minds, mythic fauna, and High Hunts; [[Hell and Abyss MOC]] controls twenty-four forms across damned manifestations, Depth fauna, devil mantles, soul predators, and Abyssal wounds.
+- **Third creature wave:** [[Elemental Shell MOC]] controls eighteen non-personal Shell forms; [[Ancient and Crafted Legacies MOC]] controls twenty-eight crafted forms across five Giant legacies, Atherian works, Ironbound industry, fleshworks, and Covenant engines. The active registry now exposes 171 genuine forms without counting overview placeholders.
+- **Fourth creature wave:** [[Shadowlands and Idols MOC]] controls forty-two forms across seven distinct Idol ecologies, altered lineages, Dreadforms, First-War remnants, and elder Shadow; [[Astral Drift and Patrons MOC]] controls eighteen forms across Driftkin, Protons, route predators, patron servants, Anchor-Lords, and great beings. With [[The General Below]] added for Grenzburg, the active registry now exposes exactly **213 genuine forms**.
+- **Menhir control:** [[Menhir Sovereignty and Bargain]] controls fused continuity, moral blindness, bounded bargains, and the distinction between sovereign compulsion and court-person agency. [[The Faewild Schism]] controls historical Trium and the Atherian Circle taxonomy.
+- **Ghoul geography:** [[Underworld, Underways, and Corpse-Roads]] controls discontinuous caverns, corpse-roads, and double-layer settlements. The three great cities remain creator secrets; public cultures retain only contradictory grave-watch folklore.
+- **Covenant structure:** [[Ahl-e-Ahd Canon Register]] controls the layered peoples, Witnessed/Sealed divide, unequal states, and authorial Fourth Seal truth. [[Covenant Reconstruction Audit]] records the full reference pass.
+- **Sestaran structure:** [[Sestaran Canon Register]] controls seven independent seals joined only by [[The Seven-Seal Defensive Muster]]. Orsena and Vardessa are locked microstates; Vorthara has no common government. [[Sestaran Reconstruction Audit]] records the full reference pass.
+- **Jirahar structure:** [[Jirahar Canon Register]] controls the two destructions, maternal descent, conversion, four mobile Ways, five living towers, Empty City, and Keeper-controlled Way-Gates. [[Jirahar Reconstruction Audit]] records the full reference pass.
+- **Folk structure:** [[Folk Canon Register]] controls the living clan umbrella, Enaidfae old-rite confederacies, Chapel-Folk, four customary regions, local courts, and the Frost-Road. [[Folk Reconstruction Audit]] records the cross-vault pass.
+- **Ättar structure:** [[Ättar Canon Register]] controls the four great kindreds, hall government, Mother Moon's firstborn bargain, skinwalker chiefs, Moon-Seers, berserker challenge, slavery, and winter war. [[Ättar Reconstruction Audit]] records the cross-vault pass.
+- **Tarkhan structure:** [[Tarkhan Canon Register]] controls Well-Tarkhan and Grass-Tarkhan life, the four Hordes, the stolen Nine Wells, the Castaran road peace, and the limits of falcon sky-riding. [[Tarkhan Reconstruction Audit]] records the cross-vault pass.
+
+## Next Three Workstreams
+
+1. **Elara and Ashira:** rewrite the Cheerleader-Goth pair together, clearing their quest dispositions, present-day ensemble scenes, three-season foil arc, grey baseline, and all eight player-temperament chemistry variants.
+2. **Remaining paired companion passes:** continue with Ylva-Tavio, Ilyana-Dismas, and Bernard-Zafir. Preserve structural deadlines, autonomy, relationship separation, and rewards while replacing emotionally weak premises and dialogue.
+3. **Identity and living-world allocation:** distribute culture, background, vocation, and temperament hooks across authored content, then build regional encounter decks and side-content placements without changing the main campaign.
+
+## Locked Rulings
+
+- Eclessia sits east of Thalmyria in the mirrored map logic.
+- The ducal family is **von Grenzmark**; the seat and duchy are **Grenzburg**.
+- Thorn-Seer Mael is a Lakekeeper-line seer tied to Wolfsmere.
+- Vesari are a separate Scattering people and become Virelia's substrate.
+- Saltborn are the coast people of Kedrava's rugged western shore: an Atherian-Kedravan population transformed through Ättar raiding, settlement, baptism, and naval service. Halmenth, the Celion estuary, Soligrad, and the Thirty Sisters belong to this western rim; Saronika and Caleran contain later diaspora districts. See [[The Saltborn Coast Overview]].
+- The Jirahar, Covenant, and Nsizwa naming registers are locked. Broad titles remain translation conventions; signature religious and cultural vocabulary follows each culture's own register.
+- The four Left Hand supply chains are authorial truth. [[The Creditor]] is the patron behind Malak al-Ahd, while the genuine Fourth Seal remains unresolved.
+- Ahl-e-Ahd is an imperial-confessional identity shared by distinct Ahdari, Iqashari, Qahuri, Qazmari, Zanthiri, and Velian peoples. Iqashar is the imperial center; Al-Qahur the sacred military-household basin; Qazmarid the independent Sealed-Blood counter-caliphate; Zanthir the autonomous mixed gateway.
+- Covenant law calls recognized Velian, Thalmyric, and Eclessian Redeemer communions the [[The People of the Lamp|People of the Lamp]]. Their protections are genuine and unequal.
+- The Sestaran Concord contains Fiorenzia, Sermora, Aversia, Vorthara, Castara, Orsena, and Vardessa. “Sestaran” is secondary to city identity. Only external invasion activates collective obligations.
+- [[The Battle of the Shattered Engines (907 AR)]] is the Caldrian-Vortharan victory that broke the northern Covenant advance and materially enabled the later mountain resistance.
+- The Elemental Shell is one membrane with four joined quadrants. Pure Shell patterns never become persons. Fourteen permanent anchors provide strategic output to Vorthara, Ironvale, the Qahirid Covenant, and Thalmyria without making ordinary life broadly high-magic.
+- Pure constructs simulate mind and possess no moral agency. Human soulbinding is always an evil imprisonment; biological fleshworks and bound animals can genuinely suffer.
+- Only uninterrupted Nythalum Continuants and continuously embodied Ansharan Vampire Giants are genuine surviving Giant individuals. Every backup, caste recurrence, office reconstruction, and copied administrative personality is a pattern rather than its historical maker.
+- Qahirid great engines comprise separate Depth-Core, Slave-Soul, and Surrender technologies. In 1360 AR the Qahirids retain three operational great engines, two dormant frames, and one slow replacement foundry.
+- The Menhir and Idols began as angelic cohorts in the Great Rebellion and became yolk-sovereignties through forced fusion. Joining the Rebellion and choosing fusion were culpable; completed Menhir fusion retained intention and choice while removing comprehension of moral obligation. Menhir law never proves justice. Idols remain culpable because they retained moral comprehension and deliberately built evil feeding economies.
+- Historical Trium was a three-centered sovereignty broken during the Faewild Schism. Modern Trium is only a rare temporary phase-lock. The Second, Third, and Fourth Circles are Atherian ecological taxonomies, not governments, ranks, or a divine family.
+- The Material underworld is discontinuous. The Necropolis of Nihil, Warrens of Woe, and Dusk Barrows are rival double-layer ghoul cities rather than a nation or stable network. Hell, the Vestibule, the Shadowlands, Jirahar Underways, and corpse-roads remain distinct.
+- Full Idols never enter the Material Realm. They act through dreams, fauna, Masks, Archmasks, mortal networks, and bounded dominion overlays. Each retains one suppressed Counter-Countenance that cannot be worshipped or summoned.
+- Patron is an Astral role rather than a species. Anchor-Lords are native Astral persons, not elementals; genie and lich remain creator umbrellas requiring actual continuity.
+- The [[Astral Conclave of Vorthara]] is the principal known cross-realm patron market and a temporary host compact, not Vorthara's government.
+- [[The Grey Sweat]], [[The Korrheim Accord]], and the [[Freeflame Reformation]] are the source events for Eclessia's demographic and confessional present.
+- The Folk are a living umbrella civilization rather than a state. Enaidfae are old-rite Folk confederacies; Ättar are a distinct cousin people. Local courts may mix Menhir courtiers, patrons, Shades, and Idol masks, while [[Folk Faith and Appeasement]] governs public practice.
+- The Ättar are four great totem-kindreds containing many rival halls. Every old-rite hall chief is a hybrid-only skinwalker; each ruling line owes one firstborn exchange per generation. Transformations do not consume memories, and Moontouched decline is neither immediate nor inevitable.
+- The Tarkhan are one people expressed through western camel-based Well-Tarkhan and northeastern horse-based Grass-Tarkhan life. The White Horde is Iqashar's immediate raiding threat; Iron settlement is its slower institutional threat. The [[Nine Wells of Tergai]] are ancestral Tarkhan ground seized by Covenant forces in 558 AR, and the [[Castaran Long Road]] remains outside ordinary Concord territory.
+- The protagonist is a silent, customizable outsider debtor serving as a Blackjack specialist under ducal field assignment. The Duke drives the public main story; Bank pressure is selective rather than a rider attached to every mission.
+- Grenzburg uses global character levels, separate vocation mastery, and one field-locked vocation at a time. The five starters are [[Fighter]], [[Slayer]], [[Hunter]], [[Warlock]], and [[Medium]]; [[Paladin]], [[Binder]], [[Bard]], and [[Lancewright]] are companion-earned advanced paths. [[Custom Vocation Workshop]] is an account-wide metagame builder unlocked after two authored vocations are fully mastered.
+- Character creation grants one origin culture, one additional cultural familiarity, one background knowledge, primary and secondary social-stat focus, one moral leaning or neutrality, and one starting vocation. Social checks show their governing skill or knowledge and a Favored, Even, Risky, or Dire band while exact rolls and Luck remain hidden.
+- The optional eight-question temperament reflection may seed a female Tomboy, Goth, Cheerleader, or Bohemian tendency, or a male Jock, Nerd, Rebel, or Goofball tendency. The latest twelve authored signals remain hidden, the profile locks after [[Ghor at the Gate]], grey receives complete writing, and the postgame Draught of Second Nature resets only future temperament reactions.
+- Every vocation can complete every critical route. Medium shades are non-conscious imprints, Warlock and Lancewright obey bounded Shell-script canon, Paladin techniques require White-Flame coherence, Binder cannot bind human souls or coerced persons, and Bardic healing and compulsion obey [[Harmonic Shellcraft]].
+- Grenzburg's critical path is [[PROLOGUE THE BLACK ROAD|The Black Road]], [[ACT I THE CLOSING ROADS|The Closing Roads]], [[ACT II WINTER'S TEETH|Winter's Teeth]], [[ACT III THE UNENDING MUSTER|The Unending Muster]], and playable [[SUMMER AFTERMATH|summer aftermath]]. The Heart-Stone, Pale-Skins, Leviticus betrayal, and Duke's Peace are retired from the main campaign.
+- Fort Tannbruck always falls, the Emerald Drake is slain, Ghor's organized siege is defeated, Gerhold accepts the Unending Muster without redemption, and the General Below is stopped in every completed campaign. Political power, casualties, debt freedom, companion futures, and settlement survival remain variable; no political ending is setting canon.
+- The ordinary field party is the player plus three companions selected from [[Elara Velescar]], [[Ilyana Veshkar]], [[Ylva Winter-Track]], [[Ashira bath Melan]], [[Bernard Valeon]], [[Dismas Raben]], [[Tavio Meran]], and [[Zafir ibn Samad]]. Introductory cases and short operations use the normal party; only the three act finales per companion use a fixed player-plus-owner duo. Each companion campaign contains eleven authored pieces: nine non-exclusive pieces, one heterosexual romance episode, and one same-sex sworn-bond episode. At most ten appear in one run. Campaigns also contain eight to twelve embedded opportunities, progress autonomously at act gates when unattended, and cannot end in an unseen death. The roster has four women and four men. A playthrough may commit to one romance and one sworn bond; the two relationships have distinct authored experiences and equivalent mechanical value.
+- Every origin culture receives at least ten meaningful authored uses, every background at least eight, every starting vocation at least eight, and Paladin, Binder, Bard, and Lancewright at least four post-unlock uses. Cultural familiarity supplies knowledge rather than a publicly visible second identity, and every critical route retains a credible workaround.
+- Grenzburg's encounter decks target a meaningful sign, discovery, encounter, or decision every five to eight minutes of ordinary exploration while preserving quiet travel. Dynamic activity remains local to the player; named deaths and major settlement changes require authored chains.
+- After [[The First Summer Road]], the player may advance deliberately through postwar autumn, winter, spring, and summer in sequence. The cycle changes renewable world conditions but never resets political, settlement, dungeon, casualty, or companion outcomes.
+- Grenzburg's five deep faction lines are [[Ducal and Marcher Service]], [[Blackjacks and Medori]], [[Church of Grenzburg]], [[Four-Hearth Compact]], and [[Grenzburg Underworld]]. The first four contain nine quests each; the underworld contains six shared quests and two exclusive three-quest branches. Their five independent settlement terms are controlled by [[Narrative State Register]].
+- Grenzburg is a twin-walled city of eight districts joined by one permanent fortified bridge. Its base-game worldspace contains [[Grenz Lowlands]], [[Longlake Country]], [[Wolfsmere Woods]], [[Southwood Barrowlands]], [[Highlake Uplands]], [[Upper Grenz]], and [[Frostfenn March]]. South grows colder, and the River Grenz flows north.
+- Public travel follows roads and water. Seven fixed Road-Key Menhir links serve remote paths without moving mounts, freight, refugees, or armies. Birchcross and Alderway Vale remain outside the base-game atlas.
+
+## Open Production Questions
+
+- Exact Grenzburg damage, frames, inputs, growth curves, mastery rates, social probabilities, quest rewards, encounter balance, custom-build budget, and compatibility matrix.
+- Bespoke preparation thresholds, autonomous decisions, cross-companion support, and changed re-entry for Ashira, Dismas, and Zafir.
+- Full paired emotional rewrites for all eighty-eight companion pieces, beginning with Elara and Ashira; every linked quest currently awaits approved dialogue.
+- Final allocation of the 90 origin, 72 background, 40 starting-vocation, and 16 advanced-vocation identity hooks reserved in [[Player Identity Reactivity Matrix]].
+- Final placement and scripting of the twenty-four minimum temperament-signal scenes and sixty-four player-companion chemistry variants.
+- Regional and district encounter-card rosters, cooldowns, persistence details, and postwar seasonal variants governed by [[World Simulation and Discovery Constitution]].
+- Final original names, descriptions, animation identities, and progression orders for source-derived vocation skills tracked in [[Vocation Originalization Register]].
+- Named regional cells for the Left Hand as new playable settings are developed.
+- Final visual treatment for Caleran's surface and undercity maps.
+- System-specific encounter and reward tuning for selected Caleran adventures.
+- Regional folklore names and adventure demand for the final cross-cutting bestiary pass.
+- Orsena population, harbor districts, and cistern capacity; Vardessa's fair calendar and road travel table.
+- Population, district, and playable-setting numbers for Mazrakan.
+- Present road, fortress, and jurisdiction maps for Zanthir and the Velian States.
+- Final placement and travel-time proof for the Nine Wells, TH1-TH4 ranges, and Castaran Long Road.

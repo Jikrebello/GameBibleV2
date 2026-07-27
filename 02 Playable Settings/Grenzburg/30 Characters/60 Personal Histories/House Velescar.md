@@ -28,7 +28,7 @@ Before Elara's conviction, the Velescar holding contained:
 - sabre-right standing in its district noble moot;
 - substantial riding, river-work, and grain debt.
 
-The holding is never a playable off-map region. It enters Grenzburg through records, witnesses, goods, correspondence, and the people whose lives were attached to it.
+The holding is never a playable off-map region. It enters Grenzburg through records, goods, correspondence, remote testimony, authenticated household instructions, and material claims. No former Velescar resident travels to Grenzburg for the base-game campaign.
 
 ## Social Truth
 
@@ -44,9 +44,9 @@ She instead accepted Vardek's antiquities patronage because it promised enough m
 
 ## Grave Economy
 
-The house mark entered six Grey Sweat expeditions through Elara's survey cuts, field book, tools, and private correspondence. [[Vasko Dren]] recruited labor and managed movement; [[Daria Keln]] converted coercion into apparently voluntary account records and could assume control when Vasko was unavailable. [[Lord Marek Vardek]] financed the work and purchased goods through cutouts.
+The house mark entered six Grey Sweat expeditions through Elara's survey cuts, tools, and private correspondence. Local factors recruited labor and converted coercion into apparently voluntary account records. [[Lord Marek Vardek]] financed the work and purchased goods through cutouts.
 
-When [[Danara Veln]] traced a recovered item, Vardek surrendered Elara and vulnerable workers while retaining profitable material and the records that proved his control.
+When burial tracing exposed the chain, Vardek surrendered Elara and vulnerable workers while retaining profitable material and the records that proved his control.
 
 ## Present Legal State
 
@@ -75,12 +75,8 @@ No result becomes future-setting canon.
 
 - [[Elara Velescar]]
 - [[Lord Marek Vardek]]
-- [[Vasko Dren]]
-- [[Daria Keln]]
-- [[Kata Belyn]]
-- [[Danara Veln]]
-- [[The Sixth Field Book]]
-- [[Sixty-Three Claims]]
+- [[Claims-Factor Marco Bellandi]]
+- [[The Hands That Hold It]]
 - [[No Lady of Velescar]]
 - [[Elara Companion Campaign]]
 - [[Companions MOC]]

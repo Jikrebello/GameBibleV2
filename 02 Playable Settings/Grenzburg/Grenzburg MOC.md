@@ -158,7 +158,7 @@ See [[Grenzburg Pre-Game-Constitution Archive Index]], [[Grenzburg Wave 4 Archiv
 1. **Game constitution:** complete.
 2. **Worldspace constitution:** complete.
 3. **Player systems:** complete at narrative-constitution level; numerical balance remains provisional.
-4. **Companions and factions:** the eighty-eight-piece authored companion standard and seventy-four-piece playthrough ceiling are locked. All eight character and voice bibles now have distinct emotional engines. Every formal piece has a preserve, reframe, or replace brief. Quest prose remains outside implementation-ready views until four paired rewrites clear emotional and dialogue status.
+4. **Companions and factions:** the eighty-eight-piece authored companion standard and seventy-four-piece playthrough ceiling are locked. All eight character and voice bibles now have distinct emotional engines. Every formal piece has a preserve, reframe, or replace brief. Elara and Ashira's twenty-two pieces are implementation-ready; the remaining sixty-six stay outside those views until their paired rewrites clear emotional, dialogue, and remote-claim status.
 5. **Main campaign:** complete at production-block level; twenty-one chapters and two aftermath quests are wired to controlled state.
 6. **Living world and side content:** allocate identity hooks, systemic encounter decks, marquee stories, local quests, dungeons, hunts, contracts, and jobs without reducing the expanded companion budget.
 7. **Integration:** endings, summer states, intersections, production navigation, and final canon checks.

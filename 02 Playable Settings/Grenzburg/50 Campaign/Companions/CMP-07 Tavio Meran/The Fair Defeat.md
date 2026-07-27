@@ -52,6 +52,7 @@ persistence_scope: regional-milestone
 postgame_season: ""
 emotional_rewrite_status: preserve
 dialogue_status: pending-rewrite
+remote_claim_status: pending-migration
 archetype_pressure: "Competition becomes worth: test whether Tavio can stop, lose, or need help without surrendering athletic joy."
 emotional_function: "Keep the live match, neutral officials, sabotage, and justified halt"
 pleasure_beat: "Competition, crowds, food, physical effort, ridiculous prizes, and celebrating improvement."

@@ -147,12 +147,13 @@ Medium-site names are canon. [[Seven Mounds]] is claimed by [[A House Fed by Bon
 | ID | Landmark | Use | Renewable |
 |---|---|---|---|
 | GR-5-L1 | Needle Tarn | water source, weather mirror, and hunt site | yes |
-| GR-5-L2 | Ropehouse Ruin | autumn shoring encounter; sealed survey loft exposed for [[The First Honest Find]] in summer | no |
+| GR-5-L2 | [[Ropehouse Ruin]] | autumn shoring encounter; sealed survey loft exposed for [[The First Honest Find]] in summer | no |
 | GR-5-L3 | Windcut Mine | minor extraction delve and the permitted two-person survey in [[Two Names on the Rope]] | no |
 | GR-5-L4 | Raven Shelf | overlook and aerial-threat warning | yes |
 | GR-5-L5 | Blue Ice Cave | seasonal cave and cold shelter | yes |
 | GR-5-L6 | Scree Chapel | marcher devotion and avalanche refuge | no |
 | GR-5-L7 | East Watch Cairn | Tuskway observation point | no |
+| GR-5-L8 | [[Rain Vault]] | blue-glass water garden and Ashira romance site | no |
 
 ### Elara Embedded Claims
 
@@ -182,7 +183,7 @@ Medium-site names are canon. [[Seven Mounds]] is claimed by [[A House Fed by Bon
 | GR-7-L2 | Hollow Spruce Shelter | deep-south safe node | no |
 | GR-7-L3 | Herd Rest | migration camp and negotiation ground | yes |
 | GR-7-L4 | Last Road Marker | end of ordinary ducal survey | no |
-| GR-7-L5 | Bone-Reed Pool | residue warning and fen hazard | yes |
+| GR-7-L5 | [[Bone-Reed Pool]] | residue warning, Muster command station, and Ashira finale | no |
 | GR-7-L6 | Snowblind Rise | whiteout navigation landmark | yes |
 | GR-7-L7 | Black-Ice Ford | dangerous seasonal crossing | yes |
 

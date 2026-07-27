@@ -28,8 +28,9 @@ faction_line: ""
 faction_branch: ""
 emotional_rewrite_status: reframe
 dialogue_status: pending-rewrite
+remote_claim_status: pending-migration
 archetype_pressure: "Understanding becomes control: test whether Zafir preserves consent when an elegant system would work better without it."
-emotional_function: "Keep Samira as the sole returning anchor and the severance; give her independent aims beyond proving Zafir wrong"
+emotional_function: "Keep Samira's remote agency and the severance; give her independent aims beyond proving Zafir wrong without bringing her to Grenzburg"
 pleasure_beat: "Puzzles, models, exact tools, technical discovery, and the pleasure of a clean explanation."
 care_beat: "Zafir solves concrete problems while preserving each person's right to refuse, revise, or leave the plan."
 player_archetype_hooks: []

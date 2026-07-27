@@ -4,15 +4,17 @@ status: canon
 canon_level: local
 visibility: author-only
 era: ["Present Day"]
-region: ["Sermora", "Grenzburg"]
+region: ["Sermora"]
 culture: ["Sermoran"]
 related_factions: ["The Salt-Reed Company"]
 appears_in: ["Grenzburg"]
-needs: []
+needs:
+  - replace the physical rescue placeholder during the Ilyana-Dismas paired rewrite
 aliases: []
-tags: [game-ready]
+tags: [narrative-rewrite]
 sex: woman
 vocation: "Bard"
+past_contact_mode: remote-only
 ---
 # Celia Orsani
 
@@ -27,7 +29,7 @@ Celia's mending refrains saved Ilyana after several reckless performances. Ilyan
 - She is willing to speak with Ilyana sooner than Mirella, but not to soften facts for her.
 - She may support future emergency work under clear individual terms.
 
-Celia's safe arrival and property are tested in [[The Road Without a Conductor]].
+Celia remains outside the playable worldspace. Her property, repair ciphers, refusal, and any later response can enter Grenzburg; she cannot. The physical rescue version of [[The Road Without a Conductor]] remains only an audited structural source pending Ilyana's paired rewrite.
 
 ## Navigation
 
@@ -35,4 +37,3 @@ Celia's safe arrival and property are tested in [[The Road Without a Conductor]]
 - [[The Road Without a Conductor]]
 - [[Reeds Under Ice]]
 - [[Every Case Its Owner]]
-

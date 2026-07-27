@@ -55,25 +55,25 @@ His restoration offer includes:
 - a public account in which Elara acted alone but has now paid nobly;
 - abandonment of the workers and burial claimants whose evidence reaches him.
 
-## Winter Delegation
+## Remote Pressure
 
-Vardek enters Grenzburg during Deep Winter with genuine grain warrants and a respectable relief household. He expects city need to make seizure politically expensive. [[Eight Honest Warrants]] establishes the relief route and the concealed payment strip without making the food fraudulent. The travelling cabinet in [[The Patron's Cabinet]] contains both relief instruments and the complete internal chain of the grave economy.
+Vardek never enters the base-game worldspace. During winter he sends genuine grain warrants, a local solicitor, authenticated correspondence, and a restoration offer through [[Claims-Factor Marco Bellandi]]. City need still makes seizure politically expensive because the relief is real.
 
-He attempts to control [[Danara Veln]], silence [[Kata Belyn]], and preserve [[Vasko Dren]] or [[Daria Keln]] only while each remains useful.
+The travelling cabinet in [[The Patron's Cabinet]] contains relief instruments and a material chain of the grave economy. Vardek's absence prevents a charismatic confrontation from absorbing Elara's decisive scene.
 
 ## Confrontation Rules
 
 Vardek is a court predator rather than a recurring combat champion. He uses retainers, jurisdiction, hostages to consequence, prepared exits, and the relief crisis.
 
-He may be:
+His Grenzburg position may be:
 
-- exposed while retaining some wealth;
-- arrested under ducal authority;
-- killed if he chooses lethal resistance during escape;
-- allowed to escape with partial records;
-- protected through an accepted settlement.
+- exposed while he retains wealth abroad;
+- rejected through authenticated evidence;
+- weakened by seizure of local assets;
+- preserved through an accepted settlement;
+- left unresolved while local agents escape.
 
-No branch grants plot armour. If Vardek is dead or imprisoned, his options, creditors, and household retainers still have material reasons to empty [[Old Tithe Vault]].
+No local outcome arrests, kills, or physically confronts him. His options, creditors, and hired Grenzburg agents still have material reasons to empty [[Old Tithe Vault]].
 
 ## Moral Boundary
 
@@ -83,13 +83,9 @@ Vardek's relief work remains good for the people it feeds. It does not neutraliz
 
 - [[Elara Velescar]]
 - [[House Velescar]]
-- [[Vasko Dren]]
-- [[Daria Keln]]
-- [[Kata Belyn]]
-- [[Danara Veln]]
-- [[Eight Honest Warrants]]
+- [[Claims-Factor Marco Bellandi]]
 - [[The Patron's Cabinet]]
-- [[Sixty-Three Claims]]
+- [[The Hands That Hold It]]
 - [[No Lady of Velescar]]
 - [[Elara Companion Campaign]]
 - [[Companions MOC]]

@@ -20,8 +20,9 @@ reward_unlocks: ["Provenance Board"]
 required_locations: ["Highlake", "Ropehouse Ruin"]
 blocking_status: blocked
 architecture_status: migrated
-companion_content_role: summer-coda
+companion_content_role: summer
 companion_campaign_stage: summer
+relationship_variant: ""
 quest_owner: "Elara Velescar"
 quest_sequence: 10
 companion_id: "CMP-01"
@@ -32,7 +33,7 @@ main_sequence: 0
 story_gate: summer-aftermath
 estimated_hours: 0.5
 gameplay_pillars: [exploration, traversal, environmental-puzzle, reflection]
-required_states: ["elara_arc_outcome", "companion_summer_codas_unlocked"]
+required_states: ["elara_final_outcome", "companion_summer_codas_unlocked"]
 optional_state_inputs: ["elara_relationship_commitment", "elara_romance_episode", "elara_bond_episode", "raven_signal_runner_state", "windcut_return_route_state", "elara_summer_destination", "spring_settlement_access", "highlake_carrier_terms", "elara_shoring_knowledge"]
 field_experience_gate: []
 companion_required: "Elara Velescar"
@@ -49,13 +50,14 @@ identity_hooks: []
 encounter_deck: []
 persistence_scope: regional-milestone
 postgame_season: summer
-emotional_rewrite_status: preserve
-dialogue_status: pending-rewrite
+emotional_rewrite_status: cleared
+dialogue_status: approved
+remote_claim_status: compliant
 archetype_pressure: "Belonging becomes curation: test whether Elara shares social power or decides who deserves the room."
 emotional_function: "Keep ethical exploration as proof that her appetite for adventure survives"
 pleasure_beat: "Social sparkle, discovery, elegant risk, and making a temporary company feel chosen."
 care_beat: "Elara shares credit, access, attention, and protection without making gratitude the price of belonging."
-player_archetype_hooks: []
+player_archetype_hooks: ["Cheerleader", "Tomboy", "Goth", "Bohemian", "Jock", "Nerd", "Rebel", "Goofball", "Grey"]
 ---
 # The First Honest Find
 

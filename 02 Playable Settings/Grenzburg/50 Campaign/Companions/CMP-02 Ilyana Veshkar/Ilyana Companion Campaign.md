@@ -15,6 +15,7 @@ companion_id: "CMP-02"
 architecture_status: migrated
 emotional_rewrite_status: pending-paired-pass
 dialogue_status: pending-rewrite
+remote_claim_status: pending-migration
 ---
 # Ilyana Companion Campaign
 

@@ -38,6 +38,7 @@ Frostfenn is the deep southern march: frozen wetlands, black spruce, permafrost 
 - [[Last Hearth]]: final dependable shelter and Road-Key custody.
 - [[Deep Muster Approaches]]: surface mobilization roads, depots, and sealed entries.
 - [[The Deep Muster]]: final mega-dungeon beneath the far southern fen.
+- [[Bone-Reed Pool]]: a reed-choked command site where copied human likenesses can enter the Muster's battlefield repertoire.
 - **Three Horn Depot:** medium Qianglong outer work awakening in spring.
 - **White Mud Causeway:** medium route and dead-march defence landscape.
 
@@ -54,5 +55,6 @@ Grobi negotiations, extreme hunts, rare materials, route restoration, Qianglong 
 - [[Grenzburg Exterior Regions Overview]]
 - [[Fenn Road Exchange]]
 - [[Last Hearth]]
+- [[Bone-Reed Pool]]
 - [[Deep Muster Approaches]]
 - [[The Deep Muster]]

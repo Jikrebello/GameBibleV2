@@ -52,8 +52,9 @@ persistence_scope: regional-milestone
 postgame_season: ""
 emotional_rewrite_status: reframe
 dialogue_status: pending-rewrite
+remote_claim_status: pending-migration
 archetype_pressure: "Freedom becomes impermanence: test whether Ilyana can sustain a shared work after novelty and sole authorship fade."
-emotional_function: "Keep the casualty corridor and revocable consent; Mirella is the sole returning troupe anchor and other parts come from current volunteers"
+emotional_function: "Keep the casualty corridor and revocable consent; replace all former-troupe arrivals with remote agency and current volunteers during the paired migration"
 pleasure_beat: "Improvised music, novelty, public performance, and turning strangers into a temporary chorus."
 care_beat: "Ilyana makes room for another person's tempo, authorship, continuity, and refusal."
 player_archetype_hooks: []
@@ -211,4 +212,3 @@ The two relationship episodes are separate and mutually exclusive.
 - [[The City in Siege]]
 - [[One Private Song]]
 - [[Duet Without a Conductor]]
-

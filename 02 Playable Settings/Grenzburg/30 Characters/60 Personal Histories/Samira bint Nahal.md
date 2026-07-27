@@ -4,19 +4,21 @@ status: canon
 canon_level: local
 visibility: author-only
 era: ["Present Day"]
-region: ["Grenzburg"]
+region: ["Iqashar"]
 culture: ["Ahl-e-Ahd", "Iqashari"]
 related_factions: ["Iqashari legal diaspora"]
 appears_in: ["Grenzburg"]
-needs: []
+needs:
+  - replace Zafir's protected-passage placeholder during the Bernard-Zafir paired rewrite
 aliases: []
-tags: [game-ready]
+tags: [narrative-rewrite]
 companion_id: ""
 sex: ""
 vocation: ""
 recruitment_window: ""
 foil: ""
 relationship_theme: ""
+past_contact_mode: remote-only
 ---
 # Samira bint Nahal
 
@@ -28,7 +30,7 @@ The legally enslaved copyist who learned Zafir ibn Samad's restraint notation, i
 
 Samira was wrong to bind Zafir and right that his humane terms still owned people. She seeks the destruction of surviving instruments, protected passage, and recognition as a jurist rather than his moral lesson.
 
-This character enters Grenzburg through a credible convoy, delegation, court record, protected passage, or refugee route. Their presence does not add an off-map playable zone.
+Samira never enters the base-game worldspace. Her testimony, copied instruments, severance demands, refusals, and legal instructions reach Grenzburg through authenticated records, remote examination, agents, and [[Claims-Factor Marco Bellandi]].
 
 ## Agency and Limits
 

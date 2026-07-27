@@ -20,7 +20,7 @@ reward_unlocks: ["Partitioned Score", "release authentication"]
 required_locations: ["Customs Hall", "North Quay Warehouses", "Chancery House", "Bridge Vaults"]
 blocking_status: blocked
 architecture_status: migrated
-companion_content_role: operation
+companion_content_role: act-operation
 companion_campaign_stage: act-3
 quest_owner: "Ilyana Veshkar"
 quest_sequence: 8
@@ -156,4 +156,3 @@ Three strong route or preparation successes preserve every person, packet, and c
 - [[Patron-Captain Caterina Morante]]
 - [[The Last Common Measure]]
 - [[Ledger Quays]]
-

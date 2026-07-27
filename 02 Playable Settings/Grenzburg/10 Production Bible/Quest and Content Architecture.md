@@ -59,7 +59,7 @@ Every active Grenzburg quest note must carry these properties in addition to ord
 | act | prologue, act-1, act-2, act-3, summer, or multi-act |
 | availability_window | One or more named windows from [[Season and World-State Constitution]]. |
 | repeatability | one-shot, finite-repeat, or repeatable |
-| cutoff_result | persists, transforms, resolves-offscreen, or fails |
+| cutoff_result | persists, transforms, resolves-offscreen, autonomous-resolution, forfeited, or fails |
 | world_state_outputs | Named settlement, faction, companion, material, debt, access, or Muster states changed. |
 | reward_unlocks | Named techniques, services, parts, perks, blueprints, routes, or progression assets unlocked; conditional rewards remain labelled in prose. |
 | required_locations | Links to every location required by the quest. |
@@ -76,8 +76,8 @@ Every active Grenzburg quest note must carry these properties in addition to ord
 | gameplay_pillars | Controlled list drawn from assault, boss, choice, closure, combat, command-response, consequence, conversation, defense, diplomacy, dungeon, environmental-puzzle, escort, expedition, exploration, hunt, infiltration, investigation, large-combat, mega-dungeon, memorial, moving-vehicle, protection, pursuit, reclamation, reconnaissance, reconstruction, reflection, rescue, siege, social, social-conflict, survival, travel, traversal, urban-combat, vertical-traversal, and weather. |
 | required_states | States that must exist before the quest starts. |
 | optional_state_inputs | Prior outputs that alter routes, costs, allies, encounters, or consequences without becoming mandatory. |
-| companion_content_role | introduction, operation, act-finale, friendship, relationship, summer-coda, embedded, or empty |
-| companion_campaign_stage | introduction, act-1, act-2, act-3, relationship, summer, or empty |
+| companion_content_role | introduction, act-operation, act-finale, friendship, relationship, summer, embedded, or empty |
+| companion_campaign_stage | introduction, act-1, act-2, act-3, friendship, relationship, summer, or empty |
 | relationship_variant | romance, bond, or empty; mandatory for authored relationship episodes |
 | architecture_status | pending-migration, migrated, reserved, current, retired, or empty |
 | preparation_inputs | Named evidence, support, practice, route, or material assets that improve a finale. |
@@ -94,8 +94,9 @@ Every active Grenzburg quest note must carry these properties in addition to ord
 | pleasure_beat | Concrete appetite, humor, play, beauty, or ordinary enjoyment preserved inside the piece. |
 | care_beat | A specific action through which a character gives or receives care. |
 | player_archetype_hooks | Authored player-temperament reactions credited through [[Player Temperament and Chemistry]]. |
+| remote_claim_status | compliant, pending-migration, or empty. Pending companion content remains outside implementation-ready views. |
 | encounter_deck | District, region, route, or seasonal systemic deck that may call the content. |
-| persistence_scope | none, local-temporary, local-persistent, regional-milestone, or campaign |
+| persistence_scope | none, personal, local-temporary, local-persistent, district-persistent, regional-persistent, regional-milestone, or campaign |
 | postgame_season | autumn, winter, spring, summer, multi-season, or empty |
 
 The fields record current design truth. They do not replace readable prose.
@@ -191,7 +192,7 @@ At least one quest per line must be primarily social or investigative, one must 
 
 [[Companion Campaign Expansion Register]] is the formal count authority. [[Companion Autonomy and Act Convergence]] controls tracking, deadlines, cross-support, and no-unseen-death rules.
 
-Companion notes retain `architecture_status: pending-migration` until their individual retrofit or deep block. Structurally completed campaigns use `architecture_status: migrated`. That value does not certify emotional or dialogue readiness.
+Companion notes retain `architecture_status: pending-migration` until their individual retrofit or deep block. Structurally completed campaigns use `architecture_status: migrated`. That value does not certify emotional, dialogue, or remote-claim readiness.
 
 ## Companion Emotional Readiness
 
@@ -201,10 +202,11 @@ A companion quest may retain `blocking_status: blocked` while its prose is not r
 
 1. `emotional_rewrite_status: cleared`;
 2. `dialogue_status: approved`;
-3. its archetype pressure is dramatized rather than stated;
-4. it contains concrete pleasure and care beats appropriate to the companion;
-5. required player-temperament variants and a complete grey baseline exist;
-6. a blind voice review can distinguish its owner without the speaker label.
+3. `remote_claim_status: compliant`;
+4. its archetype pressure is dramatized rather than stated;
+5. it contains concrete pleasure and care beats appropriate to the companion;
+6. required player-temperament variants and a complete grey baseline exist;
+7. a blind voice review can distinguish its owner without the speaker label.
 
 Preserve means the premise survives, not that old dialogue survives. Reframe and replace pieces remain visible in the emotional rewrite queue and are excluded from Game-Ready Content.
 

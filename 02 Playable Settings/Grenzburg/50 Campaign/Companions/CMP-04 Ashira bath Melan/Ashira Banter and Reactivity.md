@@ -8,14 +8,14 @@ region: ["Grenzburg"]
 culture: ["Jirahar", "Qesheth"]
 related_factions: ["Blackjack Corps"]
 appears_in: ["Grenzburg"]
-needs:
-  - replace quest-level dialogue during the Elara-Ashira paired campaign pass
+needs: []
 tags: [game-ready, companion-response]
 companion_id: "CMP-04"
 archetype: "Goth"
 voice_status: calibrated
-dialogue_status: calibrated
-emotional_rewrite_status: bible-locked
+dialogue_status: approved
+emotional_rewrite_status: cleared
+remote_claim_status: compliant
 ---
 # Ashira Banter and Reactivity
 
@@ -125,23 +125,13 @@ Nothing else is said.
 
 ## Foil Arc — Elara
 
-### Autumn
+The controlling scene details live in [[Elara Banter and Reactivity]]. Ashira's internal movement is:
 
-Elara presents Ashira as fascinating expertise. Ashira punctures the display and then discovers that Elara's introduction stopped a frightened official from excluding her.
+- **Autumn:** she punctures Elara's display, then notices that Elara can protect her public standing without requiring confession.
+- **Winter:** she gives Elara one private confidence about an excluded debtor; Elara acts without exposing the source.
+- **Spring:** she refuses to become Elara's private conscience and offers criticism in the same room as the people whose terms matter.
 
-Neither apologizes correctly.
-
-### Winter
-
-Ashira identifies somebody missing from Elara's public circle. Elara corrects the exclusion without publishing Ashira's confidence.
-
-Ashira's gratitude appears as a practical warning about Elara's route, not praise.
-
-### Spring
-
-Ashira refuses to become Elara's private moral examiner. She sits with the petitioners and forces Elara to hear unsorted testimony.
-
-Later, Elara saves Ashira a place without announcing why it matters.
+Ashira may provide one provenance preparation assist to Elara. Elara may provide one protected-witness assist to Ashira. Neither assist changes direction, consent, custody, or relationship eligibility.
 
 ## Other Companion Objects
 

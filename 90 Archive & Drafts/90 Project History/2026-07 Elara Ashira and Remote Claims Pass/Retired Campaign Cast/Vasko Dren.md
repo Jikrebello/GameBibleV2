@@ -1,7 +1,7 @@
 ---
 type: character
-status: canon
-canon_level: local
+status: archived
+canon_level: obsolete
 visibility: author-only
 era: ["Present Day"]
 region: ["Grenzburg", "Virelia"]
@@ -20,6 +20,10 @@ home_base: ""
 foil: "Elara Velescar"
 relationship_theme: ""
 relationship_perks: []
+archive_reason: "Retired travelling campaign cast; past claims now resolve remotely"
+archived_from: "02 Playable Settings/Grenzburg/30 Characters/60 Personal Histories/Vasko Dren.md"
+archived_on: 2026-07-27
+superseded_by: "[[Companion Debt and Remote Claims Standard]]"
 ---
 # Vasko Dren
 

@@ -38,7 +38,7 @@ Ashfield hunters maintain approach marks and report disturbance. Moss-Crown and 
 - **Seven-Rise Hollow:** central low ground from which every mound can be seen in winter.
 - **Spoil Trenches:** old subsidence and new clandestine excavation cuts.
 - **Birch Ring:** living boundary whose breaks reveal recent carts and powder movement.
-- **Foreman's Camp:** temporary platforms, captive-worker shelter, tool store, and Vasko's escape preparations.
+- **Foreman's Camp:** temporary platforms, coercive work stores, tool shelter, and the local excavation crew's escape preparations.
 
 ## The Opened Mound
 

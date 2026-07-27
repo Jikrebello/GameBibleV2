@@ -52,6 +52,7 @@ persistence_scope: regional-milestone
 postgame_season: ""
 emotional_rewrite_status: preserve
 dialogue_status: pending-rewrite
+remote_claim_status: pending-migration
 archetype_pressure: "Freedom becomes impermanence: test whether Ilyana can sustain a shared work after novelty and sole authorship fade."
 emotional_function: "Keep the cadence engine and voluntary counter-performance, with emphasis on a work that survives its maker"
 pleasure_beat: "Improvised music, novelty, public performance, and turning strangers into a temporary chorus."
@@ -219,4 +220,3 @@ She conceals releases, claims the company name through emergency service, compel
 - [[The Salt-Reed Company]]
 - [[The Deep Muster Main Quest]]
 - [[The Road Takes the Song]]
-
