@@ -9,7 +9,7 @@ culture: ["Thalmyric", "Kedravan", "Eclessian"]
 related_factions: ["Blackjack Corps", "Medori Bank", "Church of Grenzburg"]
 appears_in: ["Grenzburg"]
 needs: []
-tags: [narrative-rewrite]
+tags: [game-ready]
 quest_class: companion
 act: act-1
 availability_window: ["Early Autumn", "Open Autumn"]
@@ -31,14 +31,15 @@ chapter_id: ""
 main_sequence: 0
 story_gate: investigation
 estimated_hours: 1.5
-gameplay_pillars: [investigation, social, pursuit, urban-traversal, restitution]
+gameplay_pillars: [investigation, social, pursuit, traversal, consequence]
 required_states: ["bernard_recruited", "bernard_first_outing_complete"]
-optional_state_inputs: ["blackjack_rank_admitted", "church_rank_admitted", "underworld_rank", "old_market_services"]
+optional_state_inputs: ["blackjack_rank_admitted", "church_rank_admitted", "underworld_rank_admitted", "brina_trust"]
 field_experience_gate: []
 companion_required: "Bernard Valeon"
 duo_quest: false
 pause_points: ["First Cache Opened", "Handcart Route Found"]
 relationship_gate: ""
+relationship_variant: ""
 preparation_inputs: []
 preparation_threshold: ""
 autonomous_deadline: "The Last Convoy"
@@ -49,13 +50,14 @@ identity_hooks: []
 encounter_deck: []
 persistence_scope: district-persistent
 postgame_season: ""
-emotional_rewrite_status: preserve
-dialogue_status: pending-rewrite
+emotional_rewrite_status: cleared
+dialogue_status: approved
+remote_claim_status: compliant
 archetype_pressure: "Warmth becomes evasion: test whether Bernard can remain funny and loving while accepting specific judgement."
 emotional_function: "Keep the real relapse, wrongful suspicion, handcart recovery, and specific restitution"
 pleasure_beat: "Food, absurdity, road stories, children laughing, and companionship without ceremony."
 care_beat: "Bernard feeds, shelters, steadies, and tells the truth about what he takes or withholds."
-player_archetype_hooks: []
+player_archetype_hooks: ["Cheerleader", "Tomboy", "Goth", "Bohemian", "Jock", "Nerd", "Rebel", "Goofball", "Grey"]
 ---
 # Little Things Missing
 
@@ -64,6 +66,20 @@ player_archetype_hooks: []
 Bernard's introductory case is a city investigation without a hidden mastermind. He has relapsed, every missing object is something he took, and a kitchen helper is about to carry the blame. The quest teaches [[Bernard Compulsion and Accountability System]] through recovery, pursuit, return, and confession rather than turning the condition into a mystery about whether Bernard is secretly innocent.
 
 The normal field party remains available. Bernard owns every confession and accountability decision; other companions may help with access, pursuit, or witness work but cannot speak for him.
+
+## Opening: The Wrong Spoon
+
+The first scene is the Yard breakfast before the accusation. Bernard is losing an argument with a bent frying pan, has named the porridge “Grey Duke,” and is persuading Hannel to judge a contest in which every answer is plainly invented.
+
+When he empties his boot to shake out a stone, the Red Stag's pewter spoon falls onto the table.
+
+Hannel laughs first. Bernard does too, one beat too long. Then Brina says the hospital key is also missing and a pilgrim's clasp has been found beside Hannel's apron hook.
+
+Bernard puts the spoon down where everybody can see it.
+
+> “No joke. Not for this. She did not take that spoon.”
+
+The transition matters: the player meets the warmth people would be afraid to lose, then watches Bernard choose whether to use it as cover.
 
 ## Unlock and Staging
 

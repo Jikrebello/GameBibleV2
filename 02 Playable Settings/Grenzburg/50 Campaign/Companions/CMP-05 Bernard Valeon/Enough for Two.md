@@ -9,12 +9,12 @@ culture: ["Thalmyric", "Kedravan", "Eclessian"]
 related_factions: ["Blackjack Corps"]
 appears_in: ["Grenzburg"]
 needs: []
-tags: [narrative-rewrite]
+tags: [game-ready]
 quest_class: companion
 act: act-3
 availability_window: ["Early Spring", "Open Spring"]
 repeatability: one-shot
-cutoff_result: resolves-offscreen
+cutoff_result: forfeited
 world_state_outputs: ["bernard_romance_episode", "bernard_romance_move_upgrade", "bernard_table_received", "private_feast_state"]
 reward_unlocks: ["Shared Ember: Warmth Returned", "Table Received"]
 required_locations: ["Blackjack Yard"]
@@ -22,7 +22,7 @@ blocking_status: blocked
 architecture_status: migrated
 companion_content_role: relationship
 relationship_variant: romance
-companion_campaign_stage: act-3
+companion_campaign_stage: relationship
 quest_owner: "Bernard Valeon"
 quest_sequence: 7
 companion_id: "CMP-05"
@@ -34,7 +34,7 @@ story_gate: relationship
 estimated_hours: 0.5
 gameplay_pillars: [conversation, reflection]
 required_states: ["bernard_relationship_commitment: romance-committed", "bernard_act2_finale_played"]
-optional_state_inputs: ["petra_ilev_response", "bernard_direction", "bernard_owned_sword_state", "four_shelters_state"]
+optional_state_inputs: ["petra_ilev_response", "bernard_direction", "bernard_owned_sword_state", "long_table_shelter_state"]
 field_experience_gate: []
 companion_required: "Bernard Valeon"
 duo_quest: false
@@ -48,15 +48,16 @@ changed_reentry: "The private evening does not reopen after the Deep Muster comm
 ensemble_inputs: []
 identity_hooks: []
 encounter_deck: []
-persistence_scope: companion-persistent
+persistence_scope: personal
 postgame_season: ""
-emotional_rewrite_status: preserve
-dialogue_status: pending-rewrite
+emotional_rewrite_status: cleared
+dialogue_status: approved
+remote_claim_status: compliant
 archetype_pressure: "Warmth becomes evasion: test whether Bernard can remain funny and loving while accepting specific judgement."
-emotional_function: "Keep female-player romance, the private feast, and the freely given bead"
-pleasure_beat: "Food, absurdity, road stories, children laughing, and companionship without ceremony."
-care_beat: "Bernard feeds, shelters, steadies, and tells the truth about what he takes or withholds."
-player_archetype_hooks: []
+emotional_function: "Let Bernard receive a female partner's desire and care without turning either into payment, rescue, or proof of innocence."
+pleasure_beat: "A private feast, ridiculous portions, freely chosen affection, and nowhere else either person is required to be."
+care_beat: "Bernard accepts the meal and one gifted prayer-rope bead without bargaining to repay them."
+player_archetype_hooks: ["Cheerleader", "Tomboy", "Goth", "Bohemian", "Grey"]
 ---
 # Enough for Two
 
@@ -98,7 +99,7 @@ Bernard speaks about the personally owned sword from [[A Blade Freely Given]], o
 
 ### What Petra Did Not Owe
 
-Petra's forgiveness, refusal, or restitution-only response remains hers. The player may comfort Bernard without rewriting her choice.
+Petra's accepted-without-reconciliation, redirected, or contact-closed response remains hers. The player may comfort Bernard without rewriting her choice.
 
 ### Enough
 

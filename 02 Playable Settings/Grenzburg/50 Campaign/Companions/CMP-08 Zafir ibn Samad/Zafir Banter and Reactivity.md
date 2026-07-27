@@ -8,14 +8,14 @@ region: ["Grenzburg"]
 culture: ["Ahl-e-Ahd", "Iqashari"]
 related_factions: ["Blackjack Corps"]
 appears_in: ["Grenzburg"]
-needs:
-  - replace quest-level dialogue during the Bernard-Zafir paired campaign pass
+needs: []
 tags: [game-ready, companion-response]
 companion_id: "CMP-08"
 archetype: "Nerd"
 voice_status: calibrated
-dialogue_status: calibrated
-emotional_rewrite_status: bible-locked
+dialogue_status: approved
+emotional_rewrite_status: cleared
+remote_claim_status: compliant
 ---
 # Zafir Banter and Reactivity
 
@@ -131,19 +131,35 @@ Rain begins falling through a repaired roof.
 
 ## Foil Arc — Bernard
 
-### Autumn
+### Autumn — The Label Board
 
-Zafir formalizes Bernard's accountability pouch. Bernard jokes until Zafir realizes the system is causing shame as well as preventing concealment.
+Zafir reads his improved Things Not Mine headings aloud in front of the Yard. Bernard jokes. Hannel does not.
 
-Bernard realizes shame does not invalidate the need for a system.
+**Bernard:** “My shame has acquired excellent handwriting.”
 
-### Winter
+**Zafir:** “Would you prefer an inaccurate record?”
 
-Bernard's improvisation saves people omitted by Zafir's model. Zafir finds Bernard's undeclared reserve. Neither man's gift acquits his shadow.
+Bernard asks whether he would prefer to be asked before public demonstration. Zafir moves the board to a screened alcove. Bernard still fills it in.
 
-### Spring
+### Winter — The Fifth Pot
 
-They build an open table with readable stores, humane exceptions, and no owner whose mood determines access. Their mature friendship permits precision and mercy to correct one another.
+Bernard's Long Table includes Funnel carters absent from Zafir's route model. Later Zafir hears undeclared oil beneath the table.
+
+**Bernard:** “The carters were absent from yours.”
+
+**Zafir:** “Then we have each found a person the other preferred not to count.”
+
+Zafir revises the route. Bernard declares the reserve. Neither converts the other's error into acquittal.
+
+### Spring — Welcome and Exit
+
+Bernard writes “all wounded welcome” over West Refuge's door. Zafir adds a readable limit and withdrawal sheet for carers and Open-Cord volunteers.
+
+**Bernard:** “You have put an exit on my welcome.”
+
+**Zafir:** “A welcome without one can become a capture.”
+
+Bernard leaves the exit. Zafir lets a carer explain it without correcting her wording.
 
 ## Other Companion Objects
 
@@ -164,10 +180,15 @@ They build an open table with readable stores, humane exceptions, and no owner w
 
 ## Temperament Use
 
-- Grey players ask what matters now rather than rewarding expertise as identity.
-- Nerd similarity must risk competition and a sealed two-person hierarchy.
-- Tomboy contrast cannot reduce either person to brain or body.
-- Goofball contrast respects expertise while making it socially breathable.
+- **Nerd:** shared delight risks competition and a sealed two-person hierarchy.
+- **Goofball:** humor makes expertise breathable but can humiliate Zafir during public error.
+- **Rebel:** instinct protects exit and may refuse maintenance after the breach.
+- **Jock:** embodied proof may expose what the model omitted without making thought weak.
+- **Cheerleader:** translates Zafir socially and may curate away dissent.
+- **Tomboy:** tests abstractions against work and resists being treated as apparatus.
+- **Goth:** shares exact forbidden knowledge while protecting privacy from technical possession.
+- **Bohemian:** expands possibility and strains Zafir's need for continuity.
+- **Grey:** asks what matters now and receives a complete relationship baseline without treating expertise as identity.
 
 ## Failure Modes
 
@@ -182,6 +203,9 @@ Reject any Zafir line that:
 ## Navigation
 
 - [[Zafir ibn Samad]]
+- [[Zafir Companion Campaign]]
+- [[Zafir Field Familiarity and Relationships]]
+- [[Karel Reed-Hand]]
 - [[Companion Dialogue and Scene Standard]]
 - [[Companion Archetype Chemistry Matrix]]
-- [[Companion Emotional Rewrite Audit]]
+- [[Companion Blind Dialogue Test Pair 02]]

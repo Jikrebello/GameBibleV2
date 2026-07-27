@@ -8,10 +8,9 @@ region: ["Kedrava"]
 culture: ["Thalmyric", "Kedravan"]
 related_factions: ["Order of the Long Watch"]
 appears_in: ["Grenzburg"]
-needs:
-  - replace Bernard's visiting-order placeholder during the Bernard-Zafir paired rewrite
+needs: []
 aliases: ["Watch-Captain Matej Solin"]
-tags: [narrative-rewrite]
+tags: [game-ready]
 companion_id: ""
 sex: man
 vocation: ""
@@ -24,7 +23,7 @@ past_contact_mode: remote-only
 
 ## Core Concept
 
-Watch-Captain Matej Solin is a forty-seven-year-old Long Watch evacuation officer, former commander of [[Bernard Valeon]], and leader of the winter relief mission in [[Embers Without Excuse]]. He is fair, practical, and unwilling to become either Bernard's persecutor or convenient absolver.
+Watch-Captain Matej Solin is a forty-seven-year-old Long Watch evacuation officer and former commander of [[Bernard Valeon]]. He is fair, practical, and unwilling to become either Bernard's persecutor or convenient absolver.
 
 ## Froststep
 
@@ -34,7 +33,7 @@ He chaired no secret cover-up. His report recorded Bernard's deprivation history
 
 ## Remote Role
 
-Matej remains in Kedrava. He dispatches a small Long Watch relief column under officers with no prior relationship to Bernard and sends his original Froststep report, field instructions, and any later assessment through authenticated channels.
+Matej remains in Kedrava. He sends his original Froststep report, field instructions, and any later assessment through authenticated channels administered locally by [[Claims-Factor Marco Bellandi]].
 
 If the player does not join the mission, Matej records Bernard's genuine White-Flame kindling and his delayed salve admission as separate facts. He does not grant the player Paladin training by report, and he supports the changed spring restitution without pretending it recreates the missed reckoning.
 
@@ -42,7 +41,7 @@ He offers Bernard no private bargain. After receiving independently witnessed ev
 
 ## Quest Function
 
-Matej's reports establish the fair original inquiry without allowing him to adjudicate Bernard in person. The visiting-command version of [[Embers Without Excuse]] is superseded and awaits Bernard's paired rewrite.
+Matej's reports establish the fair original inquiry without allowing him to adjudicate Bernard in person. Grenzburg's carers stage [[Embers Without Excuse]]. Matej may later receive a reinstatement petition; he does not travel to accept it.
 
 ## Navigation
 

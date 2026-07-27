@@ -64,6 +64,21 @@ These uses preserve each anchor's public and campaign functions. Ilyana's perfor
 - **Named Property Board (EL-E09):** an authored Blackjack Yard scene establishes a visible process for seized goods with identifiable owners. Its availability and dialogue follow [[Elara Companion Campaign]] and do not turn the Yard into a universal legal office.
 - **Finder's Share (EL-E07):** a later local story owns its own physical site; this register reserves Elara's claimant-and-custodian variant without pre-empting that story's final placement.
 
+### Bernard Valeon
+
+- [[Little Things Missing]] uses the Red Stag Inn, Mercy Hospital, Old Market, a refuse-cart route, and the Blackjack Yard without converting Bernard's relapse into a citywide theft plot.
+- [[The Long Winter Table]] joins four existing shelter kitchens through public streets, carrier signals, and declared stores. Its rescue network changes those shelters' winter state without creating a fifth institution.
+- [[Embers Without Excuse]] uses an isolated field infirmary, the breach casualty lane, and local Grenzburg carers. No Long Watch visitor or former Froststep acquaintance enters the map.
+- [[Beds Before Banners]] and [[The Open Hospice]] use West Refuge Hall, its underways, and existing patient routes. Open Lamp is a player-dependent changed state of the hall, not a duplicate hospice.
+
+### Zafir ibn Samad
+
+- [[The Cord Returned]] and [[The Copyist's Answer]] use Chain House and its anchor vault. The vault is a lower sublayer of X-3, not a separate city anchor or remote channel to Samira.
+- [[The Ninth Lever]] uses the **Nine-Lever Chainworks**, a Hammer Ward industrial subsite between Millwheel Works and Labor Hall. Its worker-release state persists without adding a sixth district anchor.
+- [[The Route That Wasn't There]] uses Lantern Ward lanes, resident-maintained ring points, and the western casualty corridor damaged during [[The City in Siege]].
+- [[The Ninth Star Is Late]] uses an old Crown Heights rooftop sighting instrument. It remains unnecessary civic apparatus rather than an observatory dungeon or supernatural device.
+- [[The Night of Small Repairs]] follows an ordinary circuit between the Blackjack Yard and Longlake Ward. Repaired bells, stove catches, latches, and ferries retain their local owners.
+
 ## District Anchors
 
 | ID | District | Anchor | Reusable function |

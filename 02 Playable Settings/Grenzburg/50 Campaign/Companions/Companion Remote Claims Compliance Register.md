@@ -9,9 +9,9 @@ culture: []
 related_factions: ["Blackjack Corps", "Medori Bank"]
 appears_in: ["Grenzburg"]
 needs:
-  - clear each pending campaign during its paired emotional rewrite
+  - clear Ilyana, Dismas, and Tavio during their remaining paired emotional rewrites
 aliases: ["Remote Claims Compliance"]
-tags: [production-control, companion-control, narrative-rewrite]
+tags: [production-control, companion-control, game-ready]
 ---
 # Companion Remote Claims Compliance Register
 
@@ -25,10 +25,10 @@ This register audits the eight companion campaigns against [[Companion Debt and 
 | CMP-02 | [[Ilyana Veshkar]] | [[Mirella Corsi]] and separate Salt-Reed claimants | retired physical-arrival scaffolding in six audited sources | pending Ilyana-Dismas paired migration |
 | CMP-03 | [[Ylva Winter-Track]] | White-Sled crew and Medori cargo account | none | compliant |
 | CMP-04 | [[Ashira bath Melan]] | Qesheth civil judgement and affected family collectives | Keeper Othara and a visiting delegation in the retired Act II source | compliant after paired rewrite; Othara archived |
-| CMP-05 | [[Bernard Valeon]] | Froststep compensation account and Long Watch order | retired Petra, Matej, and visiting-order scaffolding | pending Bernard-Zafir paired migration |
+| CMP-05 | [[Bernard Valeon]] | Froststep compensation account and Long Watch order | Petra, Matej, and Radena remain remote | compliant after paired rewrite; local carers stage the winter finale |
 | CMP-06 | [[Dismas Raben]] | Korrheim criminal sentence and unidentified road victims | Marta in the old courtroom source | pending Ilyana-Dismas paired migration |
 | CMP-07 | [[Tavio Meran]] | [[Lio Varcen]] and Red Brass liability holders | retired Lio, Maro, and Seraf physical-presence scaffolding | pending Ylva-Tavio paired migration |
-| CMP-08 | [[Zafir ibn Samad]] | [[Samira bint Nahal]] and Iqashari law-house judgement | retired Samira protected-passage scaffolding | pending Bernard-Zafir paired migration |
+| CMP-08 | [[Zafir ibn Samad]] | [[Samira bint Nahal]] and Iqashari law-house judgement | protected-passage source archived; Samira supplies no counter-script | compliant after paired rewrite; fixed authenticated refusal |
 
 ## Pending-Quest Rule
 
@@ -48,14 +48,16 @@ Pending notes retain their structural source value but use:
 
 Any physical-arrival prose left inside those audited sources is superseded scaffolding rather than active campaign truth. The companion bible, remote person's dossier, and this register control until the relevant paired rewrite replaces the source completely.
 
-## Cleared Pair
+## Cleared Pairs
 
-Elara and Ashira are the first cleared pair:
+Elara-Ashira and Bernard-Zafir are cleared:
 
 - every formal quest is local to the established worldspace;
 - all remote instructions arrive through ordinary couriers and Bellandi's office;
 - neither legal release requires forgiveness;
 - neither moral outcome is decided by Medori.
+- Petra, Matej, Radena, and Samira never enter the base-game map.
+- Samira's refusal and Petra's restitution response cannot be improved through player persuasion.
 
 ## Navigation
 

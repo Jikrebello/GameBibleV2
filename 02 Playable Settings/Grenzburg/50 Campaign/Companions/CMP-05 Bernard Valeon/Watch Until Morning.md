@@ -9,12 +9,12 @@ culture: ["Thalmyric", "Kedravan", "Eclessian", "Chapel-Folk"]
 related_factions: ["Blackjack Corps", "Order of the Long Watch"]
 appears_in: ["Grenzburg"]
 needs: []
-tags: [narrative-rewrite]
+tags: [game-ready]
 quest_class: companion
 act: act-3
 availability_window: ["Early Spring", "Open Spring"]
 repeatability: one-shot
-cutoff_result: resolves-offscreen
+cutoff_result: forfeited
 world_state_outputs: ["bernard_bond_episode", "bernard_bond_move_upgrade", "bernard_second_bearer_practiced", "cairnside_shelter_state"]
 reward_unlocks: ["No One Alone: Two Bearers", "Second Bearer Practiced"]
 required_locations: ["Lake Road Cairn", "Cairnside Shelter"]
@@ -22,7 +22,7 @@ blocking_status: blocked
 architecture_status: migrated
 companion_content_role: relationship
 relationship_variant: bond
-companion_campaign_stage: act-3
+companion_campaign_stage: relationship
 quest_owner: "Bernard Valeon"
 quest_sequence: 7
 companion_id: "CMP-05"
@@ -34,7 +34,7 @@ story_gate: relationship
 estimated_hours: 0.5
 gameplay_pillars: [travel, reconstruction, conversation, reflection]
 required_states: ["bernard_relationship_commitment: bond-committed", "bernard_act2_finale_played"]
-optional_state_inputs: ["lake_road_safe", "bernard_owned_sword_state", "four_shelters_state", "road_school_state"]
+optional_state_inputs: ["longlake_passage_rule", "bernard_owned_sword_state", "long_table_shelter_state", "road_school_state"]
 field_experience_gate: []
 companion_required: "Bernard Valeon"
 duo_quest: false
@@ -50,13 +50,14 @@ identity_hooks: []
 encounter_deck: []
 persistence_scope: local-persistent
 postgame_season: ""
-emotional_rewrite_status: preserve
-dialogue_status: pending-rewrite
+emotional_rewrite_status: cleared
+dialogue_status: approved
+remote_claim_status: compliant
 archetype_pressure: "Warmth becomes evasion: test whether Bernard can remain funny and loving while accepting specific judgement."
-emotional_function: "Keep male-player sworn brotherhood, shelter repair, divided watch, and service cords"
-pleasure_beat: "Food, absurdity, road stories, children laughing, and companionship without ceremony."
-care_beat: "Bernard feeds, shelters, steadies, and tells the truth about what he takes or withholds."
-player_archetype_hooks: []
+emotional_function: "Build male friendship into explicit sworn brotherhood through shared labor, equal correction, and a watch neither man must carry alone."
+pleasure_beat: "Roof work, an overfed stove, bad roadside tea, and the private jokes that survive a long quiet watch."
+care_beat: "Each man sleeps because the other is awake, and each has named authority to call the other back from concealment or self-sacrifice."
+player_archetype_hooks: ["Jock", "Nerd", "Rebel", "Goofball", "Grey"]
 ---
 # Watch Until Morning
 

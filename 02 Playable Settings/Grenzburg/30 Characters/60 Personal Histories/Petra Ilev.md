@@ -8,10 +8,9 @@ region: ["Kedrava"]
 culture: ["Thalmyric", "Kedravan"]
 related_factions: ["Order of the Long Watch"]
 appears_in: ["Grenzburg"]
-needs:
-  - replace Bernard's physical reckoning placeholder during the Bernard-Zafir paired rewrite
+needs: []
 aliases: []
-tags: [narrative-rewrite]
+tags: [game-ready]
 companion_id: ""
 sex: woman
 vocation: ""
@@ -36,19 +35,24 @@ She is direct, impatient with ceremonial remorse, good with animals, and protect
 
 Petra remains in Kedrava. Through sworn testimony, correspondence, and restitution instructions, she can:
 
-- accept Bernard's public confession and compensation;
-- recognize changed conduct while withholding forgiveness;
-- forgive him after rescue and sustained honesty;
-- reject further personal contact;
+- record complete restitution without resuming personal contact;
+- redirect her share toward practical winter-road care;
+- close contact after concealment, pressure, or use of her name as proof;
 - insist that the order hear her account before considering reinstatement.
 
 No social check compels forgiveness. Bernard's present conduct may answer her stated terms, but danger never places Petra in his debt.
 
 ## Quest Function
 
-Petra's authenticated account and inventory conditions inform [[Embers Without Excuse]]. The current physical-participation treatment is superseded and will be replaced during Bernard's paired rewrite. Her answer remains remote and cannot be improved by placing her in danger for Bernard to rescue.
+Petra's authenticated account and standing instructions inform [[Embers Without Excuse]]. She never enters the base-game worldspace and cannot be placed in danger to make Bernard useful to her.
 
-On Bernard's default autonomous route, Petra accepts restitution but withholds forgiveness and renewed friendship after learning that he concealed one salve packet until the crisis passed. Strong preparation can improve the mission without assigning her a kinder response. **Embers After Snow** permits later restitution; it does not force contact or recreate the player's missed relationship and vocation unlocks.
+Her response is determined by the actual restitution record:
+
+- `accepted-no-reconciliation`;
+- `redirected-to-road-care`;
+- `contact-closed`.
+
+None is automatic forgiveness. The player cannot contact or persuade her directly. **Ashes in the Storebook** permits later restitution; it does not force contact or recreate missed rewards.
 
 ## Navigation
 

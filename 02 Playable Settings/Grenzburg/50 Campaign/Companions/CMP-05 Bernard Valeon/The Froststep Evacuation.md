@@ -60,7 +60,7 @@ Bernard remembers the moment of confession as the first honest thing he did afte
 
 - Medori owns Bernard's remaining restitution bond.
 - The Long Watch considers reinstatement legally possible after sustained repair; it is neither promised nor secretly barred.
-- Petra has her own work, loyalties, and judgement. She may forgive Bernard, trust his changed conduct without forgiving, or refuse contact.
+- Petra has her own work, loyalties, and judgement. She may accept complete restitution without reconciliation, redirect her share to winter-road care, or close contact.
 - Visible White Flame cannot revise the event's material facts.
 
 ## Navigation

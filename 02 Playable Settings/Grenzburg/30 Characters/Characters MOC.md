@@ -57,6 +57,7 @@ tags: [game-ready]
 - [[Jorund Shattered-Tusk]]
 - [[Elof Bent-Oak]]
 - [[Thorn-Seer Mael]]
+- [[Karel Reed-Hand]]
 
 ## Bank and Underworld
 

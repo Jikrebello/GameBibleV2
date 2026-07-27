@@ -9,12 +9,12 @@ culture: []
 related_factions: ["Blackjack Corps"]
 appears_in: ["Grenzburg"]
 needs:
-  - clear each pending disposition during the four paired campaign rewrites
+  - clear the remaining dispositions during the Ylva-Tavio and Ilyana-Dismas paired rewrites
 tags: [game-ready, narrative-design, production-control]
 ---
 # Companion Emotional Rewrite Audit
 
-This note controls emotional readiness across all 88 authored companion pieces. Paired rewrite 01 has cleared Elara and Ashira; later pairs retain design dispositions.
+This note controls emotional readiness across all 88 authored companion pieces. Paired rewrites have cleared Elara, Ashira, Bernard, and Zafir. The remaining pairs retain design dispositions.
 
 ## Disposition Meanings
 
@@ -28,9 +28,9 @@ No piece reaches implementation readiness until `dialogue_status: approved` and 
 
 | State | Pieces |
 |---|---:|
-| cleared and dialogue-approved | 22 |
-| linked, awaiting paired rewrite | 52 |
-| reserved, awaiting paired rewrite | 14 |
+| cleared and dialogue-approved | 44 |
+| linked, awaiting paired rewrite | 37 |
+| reserved, awaiting paired rewrite | 7 |
 | **Total** | **88** |
 
 ## CMP-01: Elara Velescar
@@ -101,17 +101,17 @@ No piece reaches implementation readiness until `dialogue_status: approved` and 
 
 | ID | Current piece | Disposition | Rewrite brief |
 |---|---|---|---|
-| CMP-05-I | [[Little Things Missing]] | preserve | Keep the real relapse, wrongful suspicion, handcart recovery, and specific restitution |
-| CMP-05-A1-O | [[The Wagon in the Reeds]] | reframe | Keep the school wagon and practical rescue; foreground Bernard's play, rapport with children, and fear when humor cannot solve the marsh |
-| CMP-05-A1-F | [[Little Hands, Long Road]] | preserve | Keep Mika, the children, wounded bear, and Bernard's unforced heroism |
-| CMP-05-FR | [[A Blade Freely Given]] | preserve | Keep lawful gifting, armour work, and the first object he may simply receive |
-| CMP-05-A2-O | [[Four Fires]] | replace | Replace shelter arithmetic with a warmer ensemble problem where Bernard's morale and hospitality matter before scarcity tests his honesty |
-| CMP-05-A2-F | [[Embers Without Excuse]] | reframe | Keep declared reserve, field service, White Flame without acquittal, and Petra's remote refusal or testimony |
-| CMP-05-RM | [[Enough for Two]] | preserve | Keep female-player romance, the private feast, and the freely given bead |
-| CMP-05-BD | [[Watch Until Morning]] | preserve | Keep male-player sworn brotherhood, shelter repair, divided watch, and service cords |
-| CMP-05-A3-O | [[Beds Before Banners]] | reframe | Keep neutral refuge stakes; replace procedural sponsorship emphasis with people Bernard knows, jokes with, and must defend without hiding stores |
-| CMP-05-A3-F | [[The Open Hospice]] | preserve | Keep witnessed stores, mixed patients, triage, destination, and warned sacrifice |
-| CMP-05-S | [[The First Open Table]] | preserve | Keep ordinary hospitality as the final demonstration of accountability |
+| CMP-05-I | [[Little Things Missing]] | cleared | Genuine relapse opens with Yard warmth before specific restitution |
+| CMP-05-A1-O | [[The Wagon in the Reeds]] | cleared | School-wagon rescue foregrounds rapport and the moment humor stops |
+| CMP-05-A1-F | [[Little Hands, Long Road]] | cleared | Children, Mika, wounded bear, and unforced heroism remain |
+| CMP-05-FR | [[A Blade Freely Given]] | cleared | Lawful gift and the first object Bernard may simply receive |
+| CMP-05-A2-O | [[The Long Winter Table]] | cleared | Four suppers create a social rescue network before the undeclared reserve |
+| CMP-05-A2-F | [[Embers Without Excuse]] | cleared | Local carers stage the mission; Petra's response remains remote and non-reconciling |
+| CMP-05-RM | [[Enough for Two]] | cleared | Female-player romance, private feast, and freely given bead |
+| CMP-05-BD | [[Watch Until Morning]] | cleared | Male-player sworn brotherhood, repair, divided watch, and service cords |
+| CMP-05-A3-O | [[Beds Before Banners]] | cleared | Familiar people make neutral admission personal rather than procedural |
+| CMP-05-A3-F | [[The Open Hospice]] | cleared | Witnessed stores, mixed patients, triage, destination, and warned sacrifice |
+| CMP-05-S | [[The First Open Table]] | cleared | Ordinary hospitality demonstrates the settled outcome without a reunion |
 
 ## CMP-06: Dismas Raben
 
@@ -149,26 +149,31 @@ No piece reaches implementation readiness until `dialogue_status: approved` and 
 
 | ID | Current piece | Disposition | Rewrite brief |
 |---|---|---|---|
-| CMP-08-I | [[The Cord Returned]] | reframe | Keep the controlling cord and present danger; foreground Zafir's delight in decoding it and his blindness to the person behind the notation |
-| CMP-08-A1-O | reserved | replace | Build a technical field problem where Zafir's elegant solution fails because people reasonably refuse its assumptions |
-| CMP-08-A1-F | [[Humane Terms]] | replace | Replace the workshop injunction with a playable machine, logistics, or rescue problem that makes human choice physically consequential |
-| CMP-08-FR | reserved | replace | Build a villain-free puzzle, game, model, or invention shared for pleasure rather than utility |
-| CMP-08-A2-O | reserved | replace | Build a siege systems operation where imperfect human improvisation succeeds beyond Zafir's model |
-| CMP-08-A2-F | [[The Copyist's Answer]] | reframe | Keep Samira's remote agency and the severance; let her testimony, demands, refusal, or silence serve aims beyond proving Zafir wrong |
-| CMP-08-RM | reserved | replace | Build a female-player romance around curiosity, continuity, and being known beyond usefulness |
-| CMP-08-BD | reserved | replace | Build a male-player sworn friendship around collaborative mastery without hierarchy |
-| CMP-08-A3-O | reserved | replace | Build a voluntary Binder network whose participants can alter or refuse the plan after it begins |
-| CMP-08-A3-F | [[All Cords Cut Clean]] | reframe | Keep the final severance temptation; reduce repeated cord inventory and center whether Zafir can relinquish a perfect emergency command |
-| CMP-08-S | reserved | replace | Demonstrate an ethical teacher, supervised technician, or renewed master of humane domination according to outcome |
+| CMP-08-I | [[The Cord Returned]] | cleared | Present danger and technical delight reveal the person omitted from authorship |
+| CMP-08-A1-O | [[The Fifth Crossing]] | cleared | Ferry crews and Karel revise a plan that omitted their return |
+| CMP-08-A1-F | [[The Ninth Lever]] | cleared | Nine workers make personal release physically consequential |
+| CMP-08-FR | [[A Bird for No Door]] | cleared | Villain-free invention shared for pleasure rather than utility |
+| CMP-08-A2-O | [[The Route That Wasn't There]] | cleared | Imperfect resident improvisation succeeds beyond the siege model |
+| CMP-08-A2-F | [[The Copyist's Answer]] | cleared | Samira's fixed refusal supplies limits and no technical solution |
+| CMP-08-RM | [[The Ninth Star Is Late]] | cleared | Female-player romance values Zafir beyond usefulness |
+| CMP-08-BD | [[The Night of Small Repairs]] | cleared | Male-player sworn brotherhood alternates mastery and stop authority |
+| CMP-08-A3-O | [[Every Hand May Let Go]] | cleared | A voluntary Binder network may alter or refuse a deployed plan |
+| CMP-08-A3-F | [[All Cords Cut Clean]] | cleared | One perfect emergency command tests reciprocal release |
+| CMP-08-S | [[The Door Opens Both Ways]] | cleared | Ordinary repair demonstrates teacher, technician, defendant, or controller outcomes |
 
 ## Paired Rewrite Order
 
-1. Elara and Ashira.
-2. Ylva and Tavio.
-3. Ilyana and Dismas.
-4. Bernard and Zafir.
+Completed:
 
-Each pair pass clears dispositions only after both companions' shared and contrasting scenes are coherent.
+1. Elara and Ashira.
+2. Bernard and Zafir, by user-directed order.
+
+Pending:
+
+- Ylva and Tavio.
+- Ilyana and Dismas.
+
+Each pair pass clears dispositions only after both companions' shared and contrasting scenes are coherent. Pair cohesion is mandatory; completion order is not.
 
 ## Navigation
 

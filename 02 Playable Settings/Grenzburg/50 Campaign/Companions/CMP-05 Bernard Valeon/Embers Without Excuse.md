@@ -9,7 +9,7 @@ culture: ["Thalmyric", "Kedravan", "Eclessian"]
 related_factions: ["Order of the Long Watch", "Church of Grenzburg", "Blackjack Corps", "Grobi"]
 appears_in: ["Grenzburg"]
 needs: []
-tags: [narrative-rewrite]
+tags: [game-ready]
 quest_class: companion
 act: act-2
 availability_window: ["Deep Winter", "Early Spring"]
@@ -17,7 +17,7 @@ repeatability: one-shot
 cutoff_result: transforms
 world_state_outputs: ["bernard_act2_chapter_resolved", "bernard_act2_result", "bernard_act2_finale_played", "bernard_direction", "bernard_paladin_unlocked", "bernard_relationship_commitment", "bernard_relationship_paths_closed", "bernard_white_flame_kindling", "petra_ilev_response", "long_watch_return_open", "lantern_relief_mission_state"]
 reward_unlocks: ["Paladin", "Mercy Between Blows", "Burden Shared", "Shared Ember", "No One Alone"]
-required_locations: ["Mercy Hospital", "Paupers' Cloister", "West Refuge Hall", "Outer Winter Camps", "Tann Gate Casualty Lane"]
+required_locations: ["Mercy Hospital", "Paupers' Cloister", "Outer Winter Camps", "Tann Gate Casualty Lane"]
 blocking_status: blocked
 architecture_status: migrated
 companion_content_role: act-finale
@@ -29,274 +29,186 @@ faction_line: ""
 faction_branch: ""
 chapter_id: ""
 main_sequence: 0
-story_gate: reckoning
+story_gate: confrontation
 estimated_hours: 2.25
-gameplay_pillars: [investigation, relief-logistics, rescue, defence, social-reckoning]
-required_states: ["bernard_act1_chapter_resolved", "bernard_act2_readiness_viable", "winter_siege_active"]
-optional_state_inputs: ["bernard_four_fires_plan", "bernard_breach_casualty_lane_secured", "bernard_mercy_heat_plan", "bernard_long_watch_kit_provenance", "bernard_open_store_procedure_practiced", "bernard_accountability_plan", "mika_food_state", "church_rank", "blackjack_rank", "city_in_siege_result", "lantern_ward_condition"]
+gameplay_pillars: [rescue, defense, social-conflict, boss, choice]
+required_states: ["bernard_act1_chapter_resolved", "bernard_act2_readiness_viable", "winter_strands_open"]
+optional_state_inputs: ["bernard_long_table_network", "bernard_breach_casualty_lane_secured", "bernard_mercy_heat_plan", "bernard_long_watch_kit_provenance", "bernard_open_store_procedure_practiced", "bernard_accountability_plan", "mika_food_state", "western_breach_state"]
 field_experience_gate: []
 companion_required: "Bernard Valeon"
 duo_quest: true
 pause_points: ["Relief Inventory Witnessed", "Field Infirmary Reached"]
 relationship_gate: "No relationship required; commitment requires Trusted approval and personal completion"
-preparation_inputs: ["bernard_four_fires_plan", "bernard_breach_casualty_lane_secured", "bernard_mercy_heat_plan", "bernard_long_watch_kit_provenance", "bernard_open_store_procedure_practiced"]
+relationship_variant: ""
+preparation_inputs: ["bernard_long_table_network", "bernard_breach_casualty_lane_secured", "bernard_mercy_heat_plan", "bernard_long_watch_kit_provenance", "bernard_open_store_procedure_practiced"]
 preparation_threshold: "2 of 5"
 autonomous_deadline: "Ghor at the Gate"
-autonomous_resolution: "Bernard saves the patients and genuinely kindles White Flame, but admits a withheld salve only afterward; Petra accepts restitution without forgiveness and the player unlocks nothing"
-changed_reentry: "Embers After Snow"
+autonomous_resolution: "Bernard saves the patients and genuinely kindles White Flame, but admits a withheld salve only afterward; Petra's authenticated response follows the restitution record and the player unlocks nothing."
+changed_reentry: "Ashes in the Storebook"
 ensemble_inputs: ["Ylva Winter-Track", "Ilyana Veshkar", "Zafir ibn Samad"]
-identity_hooks: []
+identity_hooks: ["Military", "Peasant/Labour", "Mystic/Religious", "Merchant/Craft"]
 encounter_deck: []
 persistence_scope: regional-milestone
 postgame_season: ""
-emotional_rewrite_status: preserve
-dialogue_status: pending-rewrite
-remote_claim_status: pending-migration
-archetype_pressure: "Warmth becomes evasion: test whether Bernard can remain funny and loving while accepting specific judgement."
-emotional_function: "Keep Petra, declared reserve, field service, and White Flame without acquittal"
-pleasure_beat: "Food, absurdity, road stories, children laughing, and companionship without ceremony."
-care_beat: "Bernard feeds, shelters, steadies, and tells the truth about what he takes or withholds."
-player_archetype_hooks: []
+emotional_rewrite_status: cleared
+dialogue_status: approved
+remote_claim_status: compliant
+archetype_pressure: "Bernard can save an infirmary and still owe the truth; neither courage nor laughter may hurry the account."
+emotional_function: "Let local carers know and love Bernard before he declares a frighteningly useful reserve under attack."
+pleasure_beat: "Bernard turns grim casualty drills into memorable names, bad songs, and a team that can move without him."
+care_beat: "He spends what is needed now, stays with the most frightened patients, and accepts a remote judgement he cannot charm."
+player_archetype_hooks: ["Cheerleader", "Tomboy", "Goth", "Bohemian", "Jock", "Nerd", "Rebel", "Goofball", "Grey"]
 ---
 # Embers Without Excuse
 
-## Quest Function
+## Premise
 
-Bernard's Act II finale returns the people and institution he harmed to the foreground. It is not a hunt for a hidden villain and does not reveal that his dismissal was corrupt. The [[Thalmyric Military Orders#Order of the Long Watch|Order of the Long Watch]] judged him fairly after [[The Froststep Evacuation]]. Its winter relief mission gives him an opportunity to tell the truth, work beside an injured survivor, and spend a needed reserve openly when concealment would be easier.
+Grenzburg carers stage a relief run to an isolated Tann Gate field infirmary. The supplies include a declared emergency reserve and an authenticated Froststep settlement packet delivered by [[Claims-Factor Marco Bellandi]].
 
-The White Flame answers during service. It confirms neither Bernard's innocence nor any entitlement to reinstatement.
+Bernard must carry both. The packet gives him no reunion and no scene in which to win forgiveness. It records what [[Petra Ilev]], [[Matej Solin]], and [[Hospice-Mother Radena Vosk]] have chosen to say from Kedrava. The relief run gives him present work among people who already know him well enough to laugh with him and judge him.
 
-The closed quest uses the player and Bernard only. [[Matej Solin]], [[Petra Ilev]], Long Watch carers, patients, and rescued soldiers are temporary NPCs outside the companion limit.
+White Flame may kindle during the defence. It proves only that courageous, coherent service occurred.
 
-## Unlock and Staging
+## Party and Staging
 
-Once any two Act II assets in [[Bernard Companion Campaign]] are secured, the quest unlocks at [[Cathedral Close#Anchor Locations|Mercy Hospital]] while the winter siege is active. A Kedravan relief train has reached Grenzburg under Watch-Captain Matej Solin. Bernard recognizes its lamp pennants before he sees Petra Ilev driving the lead sled.
+The quest begins at [[Cathedral Close#Anchor Locations|Mercy Hospital]] when any two Act II assets are held. Accepting the warned departure forms the fixed player-plus-Bernard duo. Sister Hanne Wolkert, local carers, patients, and rescued soldiers are temporary quest actors outside the companion limit.
 
-Matej asks Bernard to help carry a declared reserve to an isolated field infirmary near Tann Gate. He does not offer pardon, bargain for silence, or pretend that ordinary relief work is a trial designed around Bernard. Petra may refuse to speak to Bernard, but she continues the mission.
+The warning states:
 
-The tracked docket displays Viable, Prepared, or Strongly Prepared readiness. Accepting the departure warning dismisses the other active companions. It names the risk of Grobi attack, the patients who cannot move, and the possibility that the reserve will have to be spent before the party reaches its planned destination. It also states that allowing the chapter to resolve autonomously permanently forfeits the Paladin unlock, romance, sworn bond, and finale rewards for this playthrough.
+- the infirmary may require evacuation;
+- the reserve may be needed before its planned destination;
+- the Grobi know the casualty lane;
+- autonomous resolution permanently closes the player Paladin unlock and Bernard's relationship paths.
 
-## Preparation in Play
+## Preparation
 
-| Asset | Concrete advantage |
+| Asset | Use |
 |---|---|
-| `bernard_four_fires_plan` | supplies a tested shelter-consolidation and fuel-release plan |
-| `bernard_breach_casualty_lane_secured` | opens a known route through damaged Lantern Ward |
-| `bernard_mercy_heat_plan` | protects one hospital heat or evacuation objective |
-| `bernard_long_watch_kit_provenance` | gives Matej a complete, honest account of Bernard's issued and owned equipment |
-| `bernard_open_store_procedure_practiced` | establishes witnessed reserve purpose and release conditions before pressure begins |
+| `bernard_long_table_network` | supplies known cooks, porters, shelter signals, and receiving rooms |
+| `bernard_breach_casualty_lane_secured` | opens a route through damaged Lantern Ward |
+| `bernard_mercy_heat_plan` | preserves one deep-cold ward during evacuation |
+| `bernard_long_watch_kit_provenance` | establishes exactly what Bernard owns, borrows, and owes |
+| `bernard_open_store_procedure_practiced` | makes purpose, quantity, and release condition visible before departure |
 
-Two assets permit the relief mission. Three make every principal patient, route, and store objective achievable through strong play. Four or five protect one objective from a single logistical failure without confessing for Bernard or forcing Petra's response.
+Two permit the mission. Three make every patient, route, and store objective achievable. Four or five protect one material objective from a single failure.
 
-## Principal Cast
+## The Remote Packet
 
-- [[Bernard Valeon]]: wants to prove he can be trusted and must learn that proof is not the immediate task.
-- [[Matej Solin]]: Bernard's former commander, fair in the original inquiry and unwilling to confuse mercy with exemption.
-- [[Petra Ilev]]: relief driver whose frost-damaged hands are a permanent consequence of Bernard's concealed stores.
-- **Sister Hanne Wolkert:** Eclessian field-infirmary keeper who needs supplies more urgently than institutional diplomacy.
-- **Vek One-Ear:** Grobi file-leader directing a local assault against the casualty lane. He serves Ghor's war but knows nothing of Bernard.
+Bellandi opens the packet before Bernard, the player, Brina, and Sister Hanne.
 
-## The Declared Reserve
+- Matej supplies the certified Froststep inquiry and confirms that Bernard's dismissal was fair.
+- Radena writes that the hospice has enough blankets and asks Bernard to stop repaying childhood shelter by trying to possess every future need.
+- Petra does not address Bernard personally. Her standing instruction selects one of three outcomes from the actual restitution record: accept without reconciliation, redirect her share to winter-road care, or close contact.
 
-The mission carries four sealed relief units, each witnessed by Matej, Petra, Bernard, and the player:
-
-1. warming oil and braziers;
-2. bandages, needles, and cleaning spirits;
-3. concentrated broth and salt;
-4. blankets and warming salve.
-
-They are intended for two hospitals and the Tann Gate infirmary. Any unit may be opened early, redirected, lost, or delivered. The inventory remains visible throughout the quest. There is no hidden optimal stockpile that punishes the player for treating present patients.
-
-## Pressure States
-
-### Infirmary Heat: 3 to 0
-
-- **3:** the stove, treatment table, and rear shelter remain usable.
-- **2:** the walking wounded begin moving supplies and expose themselves to attack.
-- **1:** frost and smoke threaten the immobile patients; one reserve unit is needed immediately.
-- **0:** the building must be evacuated during combat. Patients remain rescuable, but injuries and district losses increase.
-
-### Grobi Pressure: 0 to 4
-
-Pressure rises through delay, alarms, lost routes, and failed defence positions. It determines enemy preparation and the safety of the return path, not whether the quest continues.
-
-### Bernard's Reserve State
-
-`declared`, `hesitated`, `concealed`, or `spent-openly` records whether Bernard names what remains and accepts witness when scarcity becomes frightening.
+The player may ask Bellandi to verify seals, beneficiaries, or payment. No dialogue option contacts Petra, interprets silence as consent, or treats the packet as the emotional climax.
 
 ## Beginning: A Count Made Aloud
 
-At Mercy Hospital the player checks the load, chooses the first route, and hears the facts of Froststep from Petra rather than only from Bernard. She describes numb hands, a saw waiting beside the stove, and Bernard's initial denial. She does not accuse him of deaths that did not occur.
+The duo and local carers count four relief units:
 
-Bernard may confess before the assembled carers, speak privately to Petra with a witness, or postpone the conversation until after delivery. The player cannot demand forgiveness or use a social check to make Petra accept contact.
+1. warming oil and braziers;
+2. bandages, needles, and cleaning spirits;
+3. broth concentrate and salt;
+4. blankets and warming salve.
 
-Matej carries a short letter from [[Hospice-Mother Radena Vosk]]. It says the hospice has enough blankets this winter and asks Bernard to stop trying to repay childhood shelter by secretly possessing every future need. The letter is support, not absolution.
+Bernard tries to lighten the procedure with names for each bundle. The joke works until Hanne asks whether he has anything else.
+
+He does: one packet of salve and two lamp-oil flasks retained after the Long Table fire. Their existence is useful. Their status depends on whether he reported them earlier.
+
+- **Declared:** they enter the count before departure.
+- **Hesitated:** he names them after Hanne asks.
+- **Discovered:** the player or Zafir's prior assist exposes the weight.
+- **Concealed:** Bernard keeps them until a later search.
+
+No choice destroys the mission. It changes trust and direction.
 
 ### Pause Point: Relief Inventory Witnessed
 
-The quest may pause after the reserve is counted and a route selected. Resuming reforms the duo at Mercy Hospital with the recorded load intact.
+The quest may pause after the load, route, and witnesses are fixed.
 
-## The Three Routes
+## Middle: The Casualty Lane
 
-All routes are viable for every vocation and provide different pressures:
+The duo chooses one of three complete routes:
 
-### Casualty Lane
+- the prepared Lantern breach lane, fast but exposed;
+- the Paupers' Cloister service route, crowded and structurally damaged;
+- the outer camp trench, slow but useful for rescuing stranded carriers.
 
-The direct route through Lantern Ward is shortest but exposed to Grobi skirmishers and frightened refugee traffic. Social authority can clear the lane; physical defence can hold it; careful escorting can preserve both people and supplies.
+On the way, two events force present-tense care:
 
-### Covered Walk
+1. a cart overturns beneath probing arrows, trapping a carer and scattering one relief unit;
+2. smoke drives walking wounded into the route while an immobile patient remains behind.
 
-A Church service walk joins the Paupers' Cloister to the wall hospital. It is partially collapsed after [[The City in Siege]]. Ordinary climbing, bracing, and carrying work open it. Slayer gains an exposed shortcut, but no vocation is required.
+Bernard is excellent here. He remembers names, gives frightened people ridiculous jobs they can complete, and uses his body as a shield. The player sees why people love him before the reserve decision returns.
 
-### Drainage Causeway
+Every vocation can protect, carry, repair, scout, suppress, or reroute. Vocation advantages change cost and speed, never access.
 
-The frozen riverworks offer concealment and unstable footing. Tracking or Underworld knowledge identifies safe ice; any character can test poles, ropes, and marked edges. A failed crossing loses time or one unprotected supply unit rather than ending the mission.
+## The Infirmary
 
-Each route contains evidence of a second Grobi group moving toward the field infirmary. The attack is a military opportunity, not a scheme aimed at Bernard.
+The building has three failing systems:
 
-## Middle: The Field Infirmary
+- stove and smoke draw;
+- treatment room and rear shelter;
+- east door and casualty lane.
 
-The duo reaches a timber-and-canvas hospital holding twenty-three patients, including five who cannot walk. Its heating fuel was consumed during the breach, and its rear exit is blocked by a collapsed handcart.
+The player and Bernard may stabilize two immediately. Preparation can preserve all three.
 
-Sister Hanne asks to open the warming oil and blankets immediately. Petra supports her. Bernard begins to argue that the supplies were counted for multiple sites, then catches himself. The player can help him name the fear, order the stores opened, or permit him to delay.
+Sister Hanne asks to open the warming oil and salve now. Bernard begins, “If the next room is worse...” and stops. The player can answer firmly, gently, practically, or not at all. Bernard must speak the actual release.
 
-If the player delays, one patient deteriorates and Bernard privately moves a salve packet into his armour lining. The visible hand movement triggers the Compulsion System. Interrupting him creates `hesitated`; allowing concealment creates `concealed` and a later confrontation. The packet cannot vanish from the quest.
+His strongest line is not eloquent:
 
-### Pause Point: Field Infirmary Reached
+> “Open it. Write that I was afraid. Open it anyway.”
 
-After the first unit is opened or withheld, the quest may pause. The patients remain stable at the recorded Heat state until the duo resumes at the infirmary.
+## Assault and White Flame
 
-## The Grobi Assault
+Vek One-Ear's Grobi file attacks to seize medicine and prisoners for Ghor's host. Vek has no connection to Froststep.
 
-Vek One-Ear attacks in three linked beats:
+The fight moves through:
 
-1. sling teams target the stove vent and treatment lanterns;
-2. shield-runners force the casualty lane while cutters attack the rear canvas;
-3. Vek leads a push for the medicine sled, intending to seize supplies for Ghor's wounded.
+1. a yard defence while carers move the walking wounded;
+2. a smoke-filled treatment room;
+3. a breach where Bernard must choose between pursuing Vek and holding an evacuation corridor.
 
-The player and Bernard can hold the infirmary, conduct a staged evacuation, or move the patients into the covered walk and counterattack. Environmental options include water barrels, canvas releases, cart braces, wall bells, and the declared reserve itself.
+At maximum pressure, Bernard offers the Last Ember over the living:
 
-Every vocation can:
+> “I am not a priest. I can pray, and I can stay.”
 
-- free the blocked rear exit through ordinary interaction;
-- carry or direct patients;
-- defend one of the two attack faces;
-- signal the wall post;
-- help Bernard move the immobile patients.
+If his present conduct remains coherent, White Flame catches along the brazier and his plated side. It steadies panic, holds smoke back, and briefly protects the evacuation. It does not heal Petra, replenish stores, or answer the legal claim.
 
-Vocation advantages change speed, route, and enemy control. None gates survival.
+## End: A Record That Does Not Love Him
 
-## The White-Flame Moment
+Back at Mercy Hospital, Bernard gives the local carers a complete account of the reserve and signs Bellandi's transmission.
 
-At the crisis point, a roof spar falls across the treatment area as smoke and fear break the evacuation line. Bernard places his issued sword down, loops the prayer rope around his left hand, and spends the remaining warming reserve without asking whether another hospital might later deserve it more.
+Petra's existing instruction determines the response:
 
-He says the Last Ember prayer over the living and asks them to stand if they can. The White Flame kindles through the brazier and his plated side, holding smoke and panic away long enough for the player to clear the route. It stabilizes the wounded, restores courage, and briefly protects the evacuation. It does not heal Petra's hands, replace expended stores, or erase Bernard's culpability.
+- `accepted-no-reconciliation`;
+- `redirected-to-road-care`;
+- `contact-closed`.
 
-If Bernard concealed the salve, he must produce it before the kindling can hold. If the player encourages continued concealment, the rescue still proceeds through ordinary effort, but the miracle does not manifest and Paladin unlock waits until the post-battle confession.
+Bernard may be hurt, relieved, or both. He may not use the White Flame as an appeal. The player can remain, refuse intimacy, offer friendship, or open the eligible romance or bond commitment after the work is complete.
 
-## End: What Petra Is Owed
+## Failure and Re-entry
 
-After Vek is killed, captured, or driven away, the mission returns to Mercy Hospital or the Paupers' Cloister according to damage. Bernard gives a complete account of Froststep and the present reserve before Matej, Petra, and the local carers.
+- Lost supplies cause a ward evacuation and future scarcity, not mission collapse.
+- A failed route rescue injures a named carer and removes one finale safeguard.
+- Defeat lets local teams recover the duo after the Grobi take one unit and wound patients.
+- Concealment discovered after the fight moves Bernard toward `withholding` even if everybody survives.
+- Missing the quest opens **Ashes in the Storebook**, which permits later restitution but not Paladin or relationship unlocks.
 
-Petra's response depends on Bernard's conduct and remains hers:
+## Outputs and Rewards
 
-- **Forgives:** she sees sustained truth and freely chooses renewed personal contact.
-- **Restitution accepted:** she accepts the work and record but does not forgive or resume friendship.
-- **No further contact:** she acknowledges the confession and asks Bernard to stay away.
-- **Condemns concealment:** renewed lying confirms that he remains unsafe with stores.
+Record the mission, reserve, patient, Petra-response, direction, and relationship states in frontmatter.
 
-No Charisma, Diplomacy, or White-Flame display overrides her response.
-
-Matej may open a future petition for Long Watch reinstatement. It is an available destination, not a reward granted now. Bernard must still finish his Grenzburg service and demonstrate accountable practice in [[The Open Hospice]].
-
-## Relationship Commitment
-
-After the public reckoning, a player at **Trusted** approval who personally completed this finale receives one of four scenes:
-
-- **Romance, female player:** Bernard asks whether care can be accepted without becoming debt and whether the pair should pursue a romantic relationship. The freely given prayer-rope bead and private intimacy belong to [[Enough for Two]], not this commitment scene.
-- **Sworn bond, male player:** Bernard asks whether the pair should pursue an exceptional platonic brotherhood grounded in truth, return, and service. The sworn-brother rite belongs to [[Watch Until Morning]], not this commitment scene.
-- **Continued friendship:** the player declines commitment without approval loss.
-- **Refusal:** a major unresolved violation or low approval leaves the relationship professional.
-
-Romance and bond commit after this scene. Their initial duo moves are defined in [[Bernard Field Familiarity and Relationships]]. Romance is upgraded by [[Enough for Two]]; sworn bond is upgraded by [[Watch Until Morning]]. Friendship remains capable of reaching Bernard's strongest moral resolution.
-
-## Information Redundancy
-
-- The infirmary threat is revealed by route tracks, wall signals, wounded runners, and captured skirmish equipment.
-- Froststep is established through Bernard, Petra, Matej's inquiry copy, and Radena's letter.
-- The reserve count exists on seals, sled marks, Petra's slate, and the player's visible quest state.
-- Every evacuation route is identified by Sister Hanne, wall diagrams, local signs, or direct exploration.
-
-## Fail-Forward Results
-
-- A lost reserve unit worsens Infirmary Heat but another route or local substitute remains.
-- If Vek captures the sled, the duo can retake it, trade distance for patients, or complete the evacuation without it.
-- If the infirmary burns, all surviving patients move to the cloister and `lantern_relief_mission_state` records the loss.
-- If the duo is defeated, Matej's rear detail recovers them after the Grobi take supplies and wound patients.
-- If Bernard conceals an item on a player-completed route, the physical Paladin form and account unlock still complete, but its White-Flame techniques begin dimmed until a named confession-and-repair scene before [[The Open Hospice]].
-- If the seasonal cutoff passes before commitment, the mission resolves through Bernard's autonomous route. Its spring aftermath cannot restore the missed player unlocks.
-
-## Outputs
-
-- `bernard_act2_chapter_resolved`: played, autonomous, or aftermath;
-- `bernard_act2_result`: accountable, costly, compromised, or broken;
-- `bernard_act2_finale_played`: true or false;
-- `bernard_direction`: truthful, uncertain, or withholding;
-- `bernard_paladin_unlocked`: field-kindled, confession-kindled, or physical-form-sacred-dimmed;
-- `bernard_relationship_commitment`: romance-committed, bond-committed, friendship, refused, or unavailable;
-- `bernard_relationship_paths_closed`: open or missed-act-2;
-- `bernard_white_flame_kindling`: field-infirmary, post-confession, absent, or distorted-by-rumour;
-- `petra_ilev_response`: forgives, restitution-only, no-contact, or condemns-concealment;
-- `long_watch_return_open`: open, deferred, or closed;
-- `lantern_relief_mission_state`: complete, depleted, displaced, or failed-forward.
-
-## Companion and Faction Reactivity
-
-- Zafir respects the witnessed inventory but rejects Bernard's claim that mercy can be more exact than terms.
-- Ashira asks whether an unmeasurable gift can be trusted; Bernard answers that its fruits can still be judged.
-- The Church may report the kindling, but cannot certify Bernard innocent or take custody of his vocation.
-- Brina uses the transparent reserve as a model for debtor-company stores.
-- Koss attempts to frame the expended stock as negligence if his Blackjack line remains predatory.
-
-## Rewards and Unlocks
-
-- personal completion unlocks the player [[Paladin]] vocation for the current playthrough and the account; unresolved concealment leaves its sacred techniques visibly dimmed until repair;
-- unlocks Bernard's improved **Mercy Between Blows** and **Burden Shared**;
-- unlocks the committed relationship duo move when applicable;
-- opens Long Watch, Open Lamp, and travelling future paths;
-- establishes a visible White-Flame response without changing legal responsibility.
-
-Autonomous completion grants none of these player progression rewards.
-
-## Autonomous Resolution and Embers After Snow
-
-If the player commits to [[Ghor at the Gate]] without joining this finale, Bernard undertakes the relief mission using the preparation already secured. On the default route he saves the field-infirmary patients and genuinely kindles White Flame through courageous service, then admits that he withheld one salve packet:
-
-- Petra accepts restitution but does not forgive or resume friendship;
-- the mission finishes depleted or displaced;
-- Bernard remains `uncertain`;
-- the player does not unlock Paladin;
-- romance and sworn bond close permanently for the playthrough.
-
-Truthful influence and strong preparation can improve the patient, reserve, and mission states without restoring the missed player unlocks. Withholding and poor preparation can cause serious injuries, prevent kindling, and trigger a warned departure conflict. Bernard cannot die autonomously.
-
-The spring aftermath **Embers After Snow** permits confession, store repair, and restored personal sacred coherence. It cannot unlock Paladin, romance, sworn bond, **Shared Ember**, **No One Alone**, or any missed finale reward.
+Personal ethical completion unlocks [[Paladin]] for the current campaign and account, improves **Mercy Between Blows** and **Burden Shared**, and opens **Shared Ember** or **No One Alone** after eligible commitment.
 
 ## Navigation
 
-- [[Bernard Valeon]]
 - [[Bernard Companion Campaign]]
+- [[Bernard Valeon]]
+- [[The Long Winter Table]]
 - [[The Froststep Evacuation]]
-- [[Matej Solin]]
 - [[Petra Ilev]]
-- [[Hospice-Mother Radena Vosk]]
-- [[Bernard Field Familiarity and Relationships]]
-- [[Bernard Long Watch Greatsword Package]]
-- [[Bernard Compulsion and Accountability System]]
-- [[Four Fires]]
-- [[Enough for Two]]
-- [[Watch Until Morning]]
+- [[Claims-Factor Marco Bellandi]]
 - [[The Open Hospice]]
-- [[Companion Field Familiarity and Duo Quest Standard]]
+- [[Paladin]]
 - [[Narrative State Register]]
-- [[Companions MOC]]

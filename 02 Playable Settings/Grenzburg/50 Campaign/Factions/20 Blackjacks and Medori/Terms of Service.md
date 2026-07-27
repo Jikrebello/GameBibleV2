@@ -15,7 +15,7 @@ act: act-1
 availability_window: ["Early Autumn"]
 repeatability: one-shot
 cutoff_result: transforms
-world_state_outputs: ["blackjack_rank_admitted", "induction_terms_state", "brina_trust", "ilyana_voluntary_signal_drill"]
+world_state_outputs: ["blackjack_rank_admitted", "induction_terms_state", "brina_trust", "ilyana_voluntary_signal_drill", "zafir_bellandi_custody_copy"]
 required_locations: ["Blackjack Yard", "Debtors' Row", "Iron Ledger Counting-House"]
 blocking_status: outlined
 quest_owner: "Blackjacks and Medori"
@@ -56,6 +56,8 @@ Force uniform terms, accept individualized risk pricing, or secure only the most
 
 If [[Ilyana Veshkar]] is present, Brina asks her to demonstrate the Yard's emergency signal drill. Ilyana may publish each role, duration, and release cue, producing `ilyana_voluntary_signal_drill`; allowing Koss to treat a response cadence as automatic consent instead supports an entitled direction beat. The induction remains completable without her.
 
+If [[Zafir ibn Samad]] is present, he can identify where an equipment-custody clause names duties but no expiry, return test, or holder-controlled exit. Requiring Bellandi to issue the authenticated custody schedule produces `zafir_bellandi_custody_copy` for [[The Copyist's Answer]]. Zafir may still support a precise but one-sided term, which changes his direction without preventing induction.
+
 ## Fail-Forward Results
 
 If signatures occur, a review petition remains possible but leverage rises. A missing debtor leaves a locker trail.
@@ -74,6 +76,7 @@ The warning screen names affected quests, leaders, services, and political-settl
 - `induction_terms_state`
 - `brina_trust`
 - `ilyana_voluntary_signal_drill`: set when Ilyana establishes a signal drill whose participants knowingly choose roles and may leave at the declared release cue.
+- `zafir_bellandi_custody_copy`: set when the execution-end's local custody, expiry, destruction authority, and review route are authenticated rather than left to informal control.
 
 ## Rewards and Return Value
 
@@ -89,6 +92,7 @@ At the next season gate, unresolved work transforms into a named institutional r
 
 - [[Blackjacks and Medori]]
 - [[Ilyana Companion Campaign]]
+- [[Zafir Companion Campaign]]
 - [[Faction Questlines MOC]]
 - [[Factions Overview]]
 - [[Narrative State Register]]

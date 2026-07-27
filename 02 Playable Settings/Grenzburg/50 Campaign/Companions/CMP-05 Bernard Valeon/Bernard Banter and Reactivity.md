@@ -8,14 +8,14 @@ region: ["Grenzburg"]
 culture: ["Thalmyric", "Kedravan"]
 related_factions: ["Blackjack Corps", "Order of the Long Watch"]
 appears_in: ["Grenzburg"]
-needs:
-  - replace quest-level dialogue during the Bernard-Zafir paired campaign pass
+needs: []
 tags: [game-ready, companion-response]
 companion_id: "CMP-05"
 archetype: "Goofball"
 voice_status: calibrated
-dialogue_status: calibrated
-emotional_rewrite_status: bible-locked
+dialogue_status: approved
+emotional_rewrite_status: cleared
+remote_claim_status: compliant
 ---
 # Bernard Banter and Reactivity
 
@@ -123,19 +123,43 @@ At the end of an unusually quiet meal:
 
 ## Foil Arc — Zafir
 
-### Autumn
+### Autumn — The Label Board
 
-Zafir tries to improve the Things Not Mine procedure. Bernard turns the labels into jokes until Zafir asks whether the system is embarrassing him.
+Zafir replaces the Things Not Mine slate with exact owner columns, dates, and return conditions. He reads the headings aloud in front of the Yard.
 
-Bernard admits it is making concealment harder.
+**Bernard:** “Excellent. My shame has acquired excellent handwriting.”
 
-### Winter
+Several debtors laugh. Hannel does not.
 
-Bernard improvises a warm shelter that Zafir's plan omitted. Zafir catches a hidden reserve Bernard considered prudent. Each has solved a real problem and preserved his own danger.
+**Zafir:** “Would you prefer an inaccurate record?”
 
-### Spring
+**Bernard:** “I would prefer you ask before announcing it to the soup.”
 
-They establish an open table with written stores and exceptions any patient may understand. Bernard makes the rules humane in practice; Zafir makes mercy visible enough not to depend on Bernard's mood.
+Zafir moves the board into a screened alcove. Bernard still fills it in. The scene leaves both facts standing: Zafir humiliated him, and the record is necessary.
+
+### Winter — The Fifth Pot
+
+Zafir's shelter model omits the Funnel carters because their camp moved after his count. Bernard's Long Table brings them into the rescue network.
+
+Later, Zafir lifts the table and hears hidden oil strike wood.
+
+**Zafir:** “This mass is absent from the inventory.”
+
+**Bernard:** “The carters were absent from yours.”
+
+**Zafir:** “Then we have each found a person the other preferred not to count.”
+
+Bernard declares the reserve. Zafir revises the route. Neither wins the exchange.
+
+### Spring — Welcome and Exit
+
+At West Refuge Hall, Bernard writes “all wounded welcome” over the door. Zafir adds an admission sheet naming security limits and the right of every Open-Cord volunteer to withdraw.
+
+**Bernard:** “You have put an exit on my welcome.”
+
+**Zafir:** “A welcome without one can become a capture.”
+
+Bernard leaves the exit. Zafir lets a carer explain it in ordinary language rather than correcting her phrasing.
 
 ## Other Companion Objects
 

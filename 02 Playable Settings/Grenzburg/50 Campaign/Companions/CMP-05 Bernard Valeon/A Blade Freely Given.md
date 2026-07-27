@@ -9,7 +9,7 @@ culture: ["Thalmyric", "Kedravan", "Eclessian"]
 related_factions: ["Blackjack Corps", "Great Forge"]
 appears_in: ["Grenzburg"]
 needs: []
-tags: [narrative-rewrite]
+tags: [game-ready]
 quest_class: companion
 act: act-1
 availability_window: ["Open Autumn", "Early Winter"]
@@ -21,7 +21,7 @@ required_locations: ["Blackjack Yard", "Great Forge", "Hammer Ward"]
 blocking_status: blocked
 architecture_status: migrated
 companion_content_role: friendship
-companion_campaign_stage: act-1
+companion_campaign_stage: friendship
 quest_owner: "Bernard Valeon"
 quest_sequence: 4
 companion_id: "CMP-05"
@@ -39,6 +39,7 @@ companion_required: "Bernard Valeon"
 duo_quest: false
 pause_points: []
 relationship_gate: "Available to every player; no attraction or commitment required"
+relationship_variant: ""
 preparation_inputs: []
 preparation_threshold: ""
 autonomous_deadline: "Ghor at the Gate"
@@ -47,15 +48,16 @@ changed_reentry: "The repaired common kit appears, but the private outing and ow
 ensemble_inputs: []
 identity_hooks: []
 encounter_deck: []
-persistence_scope: companion-persistent
+persistence_scope: personal
 postgame_season: ""
-emotional_rewrite_status: preserve
-dialogue_status: pending-rewrite
+emotional_rewrite_status: cleared
+dialogue_status: approved
+remote_claim_status: compliant
 archetype_pressure: "Warmth becomes evasion: test whether Bernard can remain funny and loving while accepting specific judgement."
 emotional_function: "Keep lawful gifting, armour work, and the first object he may simply receive"
 pleasure_beat: "Food, absurdity, road stories, children laughing, and companionship without ceremony."
 care_beat: "Bernard feeds, shelters, steadies, and tells the truth about what he takes or withholds."
-player_archetype_hooks: []
+player_archetype_hooks: ["Cheerleader", "Tomboy", "Goth", "Bohemian", "Jock", "Nerd", "Rebel", "Goofball", "Grey"]
 ---
 # A Blade Freely Given
 

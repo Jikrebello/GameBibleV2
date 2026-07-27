@@ -268,11 +268,11 @@ Duplicate implementation keys across these authorities are prohibited unless one
 | `bernard_owned_sword_state` | companion | Bernard Valeon | 4 | [[A Blade Freely Given]] |
 | `bernard_child_portion_scene` | relationship | Bernard Valeon | 4 | [[A Blade Freely Given]] |
 | `bernard_long_watch_kit_provenance` | companion preparation | Bernard Valeon | 4 | [[A Blade Freely Given]] |
-| `bernard_four_fires_plan` | companion preparation | Bernard Valeon | 5 | [[Four Fires]] |
-| `four_shelters_state` | companion | Bernard Valeon | 5 | [[Four Fires]] |
-| `winter_fuel_state` | companion | Bernard Valeon | 5 | [[Four Fires]] |
-| `warming_routes_state` | companion | Bernard Valeon | 5 | [[Four Fires]] |
-| `four_fires_distribution_state` | companion | Bernard Valeon | 5 | [[Four Fires]] |
+| `bernard_long_table_network` | companion preparation | Bernard Valeon | 5 | [[The Long Winter Table]] |
+| `long_table_shelter_state` | companion | Bernard Valeon | 5 | [[The Long Winter Table]] |
+| `long_table_route_state` | companion | Bernard Valeon | 5 | [[The Long Winter Table]] |
+| `long_table_contribution_state` | companion | Bernard Valeon | 5 | [[The Long Winter Table]] |
+| `bernard_winter_reserve_tell` | companion direction | Bernard Valeon | 5 | [[The Long Winter Table]] |
 | `bernard_act2_chapter_resolved` | companion chapter | Bernard Valeon | 6 | [[Embers Without Excuse]] |
 | `bernard_act2_result` | companion | Bernard Valeon | 6 | [[Embers Without Excuse]] |
 | `bernard_act2_finale_played` | companion gate | Bernard Valeon | 6 | [[Embers Without Excuse]] |
@@ -329,6 +329,9 @@ Duplicate implementation keys across these authorities are prohibited unless one
 | `elara_first_outing_complete` | companion gate | Elara Velescar | 0 | [[Elara Companion Campaign]] |
 | `southwood_early_warning` | main campaign | Grenzburg Main Campaign | 1 | [[Roads Worth Saving]] |
 | `winter_strands_open` | main campaign | Grenzburg Main Campaign | 2 | [[Winter's Teeth]] |
+| `lantern_ward_damage` | main campaign | Grenzburg Main Campaign | 2 | [[The City in Siege]] |
+| `western_breach_state` | main campaign | Grenzburg Main Campaign | 2 | [[The City in Siege]] |
+| `blackjack_yard_state` | main campaign | Grenzburg Main Campaign | 2 | [[The City in Siege]] |
 | `muster_known` | main campaign | Grenzburg Main Campaign | 3 | [[The Open Thaw]] |
 | `spring_settlement_access` | main campaign | Grenzburg Main Campaign | 3 | [[The Land Reclaimed]] |
 | `companion_summer_codas_unlocked` | main campaign | Grenzburg Main Campaign | 5 | [[Accounts of the Living]] |
@@ -659,20 +662,86 @@ Duplicate implementation keys across these authorities are prohibited unless one
 | `tavio_summer_coda_complete` | companion | Tavio Meran | 10 | [[The Road Takes the Measure]] |
 | `road_examiner_state` | companion | Tavio Meran | 10 | [[The Road Takes the Measure]] |
 | `summer_proof_route_state` | regional | Upper Grenz | 10 | [[The Road Takes the Measure]] |
-| `samira_identity_known` | companion | Zafir ibn Samad | 1 | [[The Cord Returned]] |
+| `zafir_recruited` | companion gate | Zafir ibn Samad | 0 | [[Zafir ibn Samad]] |
+| `zafir_first_outing_complete` | companion gate | Zafir ibn Samad | 0 | [[Zafir Companion Campaign]] |
+| `zafir_direction` | companion direction | Zafir ibn Samad | 0 | [[Zafir Companion Campaign]] |
+| `zafir_act1_readiness_viable` | companion readiness | Zafir ibn Samad | 0 | [[Zafir Companion Campaign]] |
+| `zafir_act2_readiness_viable` | companion readiness | Zafir ibn Samad | 0 | [[Zafir Companion Campaign]] |
+| `zafir_act3_readiness_viable` | companion readiness | Zafir ibn Samad | 0 | [[Zafir Companion Campaign]] |
+| `zafir_ferry_custody_precedent` | companion reactivity | Zafir ibn Samad | 0 | [[Roads Worth Saving]] |
+| `zafir_worker_stop_authority` | companion preparation | Zafir ibn Samad | 0 | [[Holdfast Without Orders]] or [[Zafir Companion Campaign]] |
+| `zafir_hammer_load_map` | companion preparation | Zafir ibn Samad | 0 | [[Zafir Companion Campaign]] |
+| `karel_countermodel_complete` | companion preparation | Karel Reed-Hand | 0 | [[Karel Reed-Hand]] |
+| `zafir_chain_house_damage_map` | companion preparation | Zafir ibn Samad | 0 | [[The City in Siege]] |
+| `zafir_bellandi_custody_copy` | companion preparation | Zafir ibn Samad | 0 | [[Terms of Service]] and [[Claims-Factor Marco Bellandi]] |
+| `zafir_nonconscious_release_rehearsal` | companion preparation | Zafir ibn Samad | 0 | [[Binder]] |
+| `zafir_muster_command_sample` | companion preparation | Zafir ibn Samad | 0 | [[The Land Reclaimed]] |
+| `zafir_fenn_anchor_route` | companion preparation | Zafir ibn Samad | 0 | [[Grenzburg Worldspace Location Register#Zafir Embedded Relation Sites|Fenn anchor route]] |
+| `zafir_person_form_separation` | companion preparation | Zafir ibn Samad | 0 | [[Binder]] |
+| `zafir_introduction_complete` | companion | Zafir ibn Samad | 1 | [[The Cord Returned]] |
+| `zafir_cord_end_secured` | companion preparation | Zafir ibn Samad | 1 | [[The Cord Returned]] |
 | `zafir_cord_custody` | companion | Zafir ibn Samad | 1 | [[The Cord Returned]] |
-| `zafir_prior_practice` | companion | Zafir ibn Samad | 1 | [[The Cord Returned]] |
-| `debtor_workers_state` | companion | Zafir ibn Samad | 2 | [[Humane Terms]] |
-| `workshop_winter_output` | companion | Zafir ibn Samad | 2 | [[Humane Terms]] |
-| `zafir_humane_terms_verdict` | companion | Zafir ibn Samad | 2 | [[Humane Terms]] |
-| `living_binding_doctrine` | companion | Zafir ibn Samad | 3 | [[The Copyist's Answer]] |
-| `samira_status` | companion | Zafir ibn Samad | 3 | [[The Copyist's Answer]] |
-| `zafir_binder_unlocked` | companion | Zafir ibn Samad | 3 | [[The Copyist's Answer]] |
-| `zafir_relationship_commitment` | companion | Zafir ibn Samad | 3 | [[The Copyist's Answer]] |
-| `binder_capstone_unlocked` | companion | Zafir ibn Samad | 4 | [[All Cords Cut Clean]] |
-| `living_cords_final_state` | companion | Zafir ibn Samad | 4 | [[All Cords Cut Clean]] |
-| `zafir_arc_outcome` | companion | Zafir ibn Samad | 4 | [[All Cords Cut Clean]] |
-| `zafir_summer_destination` | companion | Zafir ibn Samad | 4 | [[All Cords Cut Clean]] |
+| `samira_authorship_recognized` | companion | Samira bint Nahal | 1 | [[The Cord Returned]] |
+| `karel_apprenticeship_state` | character | Karel Reed-Hand | 1-10 | [[Zafir Companion Campaign]] |
+| `chain_house_theft_state` | companion | Zafir ibn Samad | 1 | [[The Cord Returned]] |
+| `zafir_fifth_crossing_pattern` | companion preparation | Zafir ibn Samad | 2 | [[The Fifth Crossing]] |
+| `eel_bridge_rescue_state` | regional | Longlake Country | 2 | [[The Fifth Crossing]] |
+| `ferry_household_trust` | regional | Longlake Country | 2 | [[The Fifth Crossing]] |
+| `karel_revision_state` | character | Karel Reed-Hand | 2 | [[The Fifth Crossing]] |
+| `return_crew_state` | companion | Zafir ibn Samad | 2 | [[The Fifth Crossing]] |
+| `zafir_act1_chapter_resolved` | companion chapter | Zafir ibn Samad | 3 | [[The Ninth Lever]] |
+| `zafir_act1_result` | companion | Zafir ibn Samad | 3 | [[The Ninth Lever]] |
+| `zafir_act1_finale_played` | companion gate | Zafir ibn Samad | 3 | [[The Ninth Lever]] |
+| `ninth_lever_workers_state` | companion | Zafir ibn Samad | 3 | [[The Ninth Lever]] |
+| `chainworks_state` | regional | Hammer Ward | 3 | [[The Ninth Lever]] |
+| `worker_release_key_state` | companion | Zafir ibn Samad | 3 | [[The Ninth Lever]] |
+| `zafir_master_stop_state` | companion direction | Zafir ibn Samad | 3 | [[The Ninth Lever]] |
+| `zafir_friendship_episode` | friendship | Zafir ibn Samad | 4 | [[A Bird for No Door]] |
+| `reed_bird_state` | companion | Zafir ibn Samad | 4 | [[A Bird for No Door]] |
+| `zafir_play_state` | companion | Zafir ibn Samad | 4 | [[A Bird for No Door]] |
+| `zafir_unwritten_siege_route` | companion preparation | Zafir ibn Samad | 5 | [[The Route That Wasn't There]] |
+| `lantern_casualty_route_state` | regional | Lantern Ward | 5 | [[The Route That Wasn't There]] |
+| `field_revision_authority` | companion | Zafir ibn Samad | 5 | [[The Route That Wasn't There]] |
+| `karel_field_revision_recorded` | companion preparation | Karel Reed-Hand | 5 | [[The Route That Wasn't There]] |
+| `zafir_ring_placement_state` | companion | Zafir ibn Samad | 5 | [[The Route That Wasn't There]] |
+| `zafir_act2_chapter_resolved` | companion chapter | Zafir ibn Samad | 6 | [[The Copyist's Answer]] |
+| `zafir_act2_result` | companion | Zafir ibn Samad | 6 | [[The Copyist's Answer]] |
+| `zafir_act2_finale_played` | companion gate | Zafir ibn Samad | 6 | [[The Copyist's Answer]] |
+| `zafir_personal_severance` | companion | Zafir ibn Samad | 6 | [[The Copyist's Answer]] |
+| `zafir_binder_unlocked` | progression | Zafir ibn Samad | 6 | [[The Copyist's Answer]] |
+| `zafir_relationship_commitment` | relationship | Zafir ibn Samad | 6 | [[The Copyist's Answer]] |
+| `zafir_relationship_paths_closed` | relationship | Zafir ibn Samad | 6 | [[The Copyist's Answer]] |
+| `samira_refusal_state` | character | Samira bint Nahal | 6 | [[The Copyist's Answer]] |
+| `samira_authorship_state` | character | Samira bint Nahal | 6 | [[The Copyist's Answer]] |
+| `living_person_instruments_state` | companion | Zafir ibn Samad | 6 | [[The Copyist's Answer]] |
+| `chain_house_anchor_state` | regional | Ledger Quays | 6 | [[The Copyist's Answer]] |
+| `zafir_romance_episode` | relationship | Zafir ibn Samad | 7 | [[The Ninth Star Is Late]] |
+| `zafir_romance_move_upgrade` | relationship | Zafir ibn Samad | 7 | [[The Ninth Star Is Late]] |
+| `zafir_open_sky_practiced` | companion preparation | Zafir ibn Samad | 7 | [[The Ninth Star Is Late]] |
+| `ninth_star_instrument_state` | relationship | Zafir ibn Samad | 7 | [[The Ninth Star Is Late]] |
+| `zafir_bond_episode` | relationship | Zafir ibn Samad | 7 | [[The Night of Small Repairs]] |
+| `zafir_bond_move_upgrade` | relationship | Zafir ibn Samad | 7 | [[The Night of Small Repairs]] |
+| `zafir_night_circuit_practiced` | companion preparation | Zafir ibn Samad | 7 | [[The Night of Small Repairs]] |
+| `small_repairs_route_state` | relationship | Zafir ibn Samad | 7 | [[The Night of Small Repairs]] |
+| `zafir_open_cord_circle_formed` | companion preparation | Zafir ibn Samad | 8 | [[Every Hand May Let Go]] |
+| `zafir_distributed_release_keys` | companion preparation | Zafir ibn Samad | 8 | [[Every Hand May Let Go]] |
+| `open_cord_volunteer_states` | companion | Open-Cord Circle | 8-9 | [[The Open-Cord Circle]] |
+| `karel_circle_state` | character | Karel Reed-Hand | 8 | [[Every Hand May Let Go]] |
+| `shared_covenant_state` | progression | Zafir ibn Samad | 8 | [[Every Hand May Let Go]] |
+| `field_withdrawal_state` | companion | Open-Cord Circle | 8 | [[Every Hand May Let Go]] |
+| `zafir_act3_chapter_resolved` | companion chapter | Zafir ibn Samad | 9 | [[All Cords Cut Clean]] |
+| `zafir_act3_result` | companion | Zafir ibn Samad | 9 | [[All Cords Cut Clean]] |
+| `zafir_act3_finale_played` | companion gate | Zafir ibn Samad | 9 | [[All Cords Cut Clean]] |
+| `zafir_arc_outcome` | companion | Zafir ibn Samad | 9 | [[All Cords Cut Clean]] |
+| `zafir_summer_destination` | companion | Zafir ibn Samad | 9-10 | [[All Cords Cut Clean]] |
+| `open_cord_final_state` | companion | Open-Cord Circle | 9 | [[All Cords Cut Clean]] |
+| `karel_final_state` | character | Karel Reed-Hand | 9-10 | [[All Cords Cut Clean]] |
+| `name_rank_relay_state` | regional | Frostfenn March | 9 | [[All Cords Cut Clean]] |
+| `zafir_override_state` | companion direction | Zafir ibn Samad | 9 | [[All Cords Cut Clean]] |
+| `zafir_relationship_perk_state` | relationship | Zafir ibn Samad | 9 | [[All Cords Cut Clean]] |
+| `zafir_summer_coda` | companion | Zafir ibn Samad | 10 | [[The Door Opens Both Ways]] |
+| `open_cord_legacy_state` | companion | Open-Cord Circle | 10 | [[The Door Opens Both Ways]] |
+| `reed_bird_final_state` | companion | Zafir ibn Samad | 10 | [[The Door Opens Both Ways]] |
 | `blackjack_rank_admitted` | faction | Blackjacks and Medori | 1 | [[Terms of Service]] |
 | `brina_trust` | faction | Blackjacks and Medori | 1 | [[Terms of Service]] |
 | `induction_terms_state` | faction | Blackjacks and Medori | 1 | [[Terms of Service]] |

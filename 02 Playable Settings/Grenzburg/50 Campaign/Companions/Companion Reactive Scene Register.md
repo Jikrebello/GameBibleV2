@@ -16,7 +16,7 @@ tags: [game-ready]
 
 This register reserves the scenes, observations, schedules, and main-story contributions that make companions present across the game. These beats supplement the eighty-eight authored pieces and provide part of each companion's eight-to-twelve embedded opportunities. [[Companion Campaign Architecture]] controls the campaign shape. [[Companion Archetype Constitution]] controls emotional direction, [[Companion Dialogue and Scene Standard]] controls scene craft, [[Companion Ensemble Pair Briefs]] controls all twenty-eight companion pairings, and [[Companion Archetype Chemistry Matrix]] controls the sixty-four temperament cards plus eight complete grey baselines. Individual voice bibles control final exchange pools.
 
-All pre-foundation dialogue and reactive beats are source material, not approved script. The active character and voice bibles are calibrated; quest dialogue remains `pending-rewrite` until its paired campaign pass.
+Elara, Ashira, Bernard, and Zafir now use approved quest dialogue. Later pair material remains source rather than approved script until its campaign pass.
 
 ## Shared Scene Rhythm
 
@@ -54,10 +54,10 @@ At act endings, tracked campaigns show a consolidated readiness entry. Untracked
 | [[Ilyana Veshkar]] | turns the Black Road rescue and a customs crisis into vivid temporary companies, then learns that charisma does not confer authorship | sustains morale, signals, fog, and casualty calls with present-day Grenzburg volunteers; Salt-Reed figures remain remote | helps create a counter-cadence that must survive without her at its centre and refuses to treat emergency need as consent | travels as an open-road Bard, serves as a supervised civic signal-Bard, accepts a narrower settlement, or departs after a warned break |
 | [[Ylva Winter-Track]] | exposes the impossible Fourth Marker roster, publishes a shared signal code, and learns to issue an honest distress call | builds the Lantern Ward warning chain and shares informed risk and cargo liability during the ice evacuation | duplicates the living-route atlas and must leave the final marker when relief arrives | becomes an independent pathfinder, supervised scout, solitary contractor, or an explicitly chosen unresolved memorial; controlled in [[Ylva Banter and Reactivity]] |
 | [[Ashira bath Melan]] | corrects false claims that Mediums hold souls and then evades the harm her imprints caused | studies the Drake and residue without romanticizing them; disputes Elara over who may use accurate knowledge | recognizes the Muster's apparent speech as computation and faces copies of her named roster | opens a nonhuman field school, leaves a sealed archive, or vanishes with the human patterns |
-| [[Bernard Valeon]] | tends convoy wounds, confronts genuine theft, plays easily with children, and learns what happens when a joke can no longer carry the room | creates hospitality and morale during scarcity, then serves the Long Watch relief mission; genuine kindling changes duty rather than proving innocence | knows patients by name, opposes Gerhold's refusal to release service at death, and builds accountable lay care without hiding behind sacred warmth | demonstrates his settled destination through [[The First Open Table]]; controlled in [[Bernard Banter and Reactivity]] |
+| [[Bernard Valeon]] | tends convoy wounds, confronts genuine theft, plays easily with children, and learns what happens when a joke can no longer carry the room | turns four suppers into a rescue network, then serves Grenzburg's field infirmary; genuine kindling changes duty rather than proving innocence | knows patients by name, opposes Gerhold's refusal to release service at death, and builds accountable lay care without hiding behind sacred warmth | demonstrates his settled destination through [[The First Open Table]]; controlled in [[Bernard Banter and Reactivity]] |
 | [[Dismas Raben]] | breaks a bad rule to save someone spectacularly, then leaves others to discover what his shortcut cost | uses forbidden routes and false authority during siege while learning that escape is only the first half of rescue | builds or abandons a freely renewed commitment to the living roads during the dead march | becomes a free road protector, useful drifter, or renewed fugitive without treating obedience as the only mature ending |
 | [[Tavio Meran]] | hosts honest games, exposes the Fifth Ring, recalls endorsed fittings, and learns that a worker may stop proof | protects the breached city, escorts Lio under independent terms, and accepts a filed result he cannot stage | inspects reclamation gear, reads physical Muster cadence, and must sound the Great Forge horn before proof becomes catastrophe | works as an independent road examiner, serves as a supervised tester, or returns to an unregulated circuit; controlled in [[Tavio Banter and Reactivity]] |
-| [[Zafir ibn Samad]] | explains Grenzburg law precisely while calling owned service orderly | challenges Bernard's confidence in voluntary mercy and Lucia's productive ownership | identifies Gerhold's command as compulsory service made absolute | prepares return to Iqashar, preserves bounded restraint, or leaves to build another law house |
+| [[Zafir ibn Samad]] | recovers the execution-end, omits a rescue crew's return, and learns from Karel's field revision | protects an unwritten casualty route and derives severance under Samira's fixed refusal | forms the Open-Cord Circle, identifies Gerhold's command as service made absolute, and faces one perfect override | becomes an ethical teacher, supervised technician, returning defendant, renewed master, or departed controller through [[The Door Opens Both Ways]] |
 
 ## Migrated Campaigns
 
@@ -94,6 +94,23 @@ Only distinct authored instances count. Repeatable jobs, idle travel, and recycl
 10. **The Spare Blanket**, a one-shot Things Not Mine incident.
 
 Only distinct authored instances count. Another companion may preserve a route, shelter, witness, or material objective, but cannot confess, declare a reserve, or accept a gift for Bernard.
+
+### Zafir ibn Samad
+
+[[Zafir Companion Campaign]] controls Zafir's eleven authored pieces, ten-piece playthrough ceiling, ten embedded opportunities, three act deadlines, deterministic autonomous route, and changed re-entry. His embedded register is:
+
+1. coercive custody in [[Roads Worth Saving]];
+2. captive-handling limits in [[The City in Siege]];
+3. person/form separation in [[The Land Reclaimed]];
+4. expiry and exit terms in [[Terms of Service]];
+5. participant-owned alteration in [[Holdfast Without Orders]];
+6. an Eel Bridge ferryman's refusal;
+7. a Longlake bell-repair story;
+8. Chain House anchor exploration;
+9. the Yard small-repairs board;
+10. a one-shot jammed shelter-latch encounter.
+
+Only distinct authored instances count. Another companion may preserve a person, route, key, or mechanism, but cannot recognize Samira's authorship, relinquish a master key, or reject the override for Zafir.
 
 ### Ilyana Veshkar
 
@@ -151,7 +168,7 @@ Only distinct authored instances count. Another companion may preserve a worker,
 | Pair | Autumn | Winter | Spring |
 |---|---|---|---|
 | Elara and Ashira | Elara fills a room and calls it belonging; Ashira sees exactly who was not invited and refuses to perform gratitude | Ashira's private knowledge can save people only if made public, while Elara's public warmth can become social coercion | they respect discovery that shares credit, protects privacy, and leaves living custodians able to refuse |
-| Bernard and Zafir | Bernard trusts a freely offered hand more than a perfect rule; Zafir sees how mercy without records can depend on charm | Bernard must submit warmth to inventory and judgement, while Zafir watches an imperfect voluntary response outperform command | they can protect a hospice together only by leaving care personal and participation unowned |
+| Bernard and Zafir | Zafir's exact accountability board humiliates Bernard; Bernard's joke exposes the shame but does not erase the need for a record | Bernard's Long Table includes people Zafir omitted, while Zafir catches Bernard's undeclared reserve | hospice carers and Open-Cord volunteers retain personal welcome, documented limits, and individual withdrawal |
 | Ilyana and Dismas | Ilyana turns strangers into a company before asking; Dismas opens an exit before asking who must remain | she confronts maintenance after inspiration, while he confronts the people still carrying his clever escape | they build a plan whose roles may be refused and whose commitments must be renewed rather than assumed |
 | Ylva and Tavio | Ylva treats need as weakness; Tavio treats visible effort as worth | she must accept relief without surrendering command, while he must stop before the crowd gives him permission | they trust a team in which either may call the halt and another person genuinely takes the watch |
 
@@ -189,6 +206,7 @@ Summer codas settle destinations. Repeating reconstruction seasons may change am
 - [[Ashira Banter and Reactivity]]
 - [[Dismas Banter and Reactivity]]
 - [[Zafir Banter and Reactivity]]
+- [[Zafir Companion Campaign]]
 - [[Narrative State Register]]
 - [[Grenzburg Chapter and Window Matrix]]
 - [[Postgame Reconstruction Cycle]]

@@ -9,12 +9,12 @@ culture: ["Thalmyric", "Kedravan", "Eclessian", "Chapel-Folk"]
 related_factions: ["Blackjack Corps", "Order of the Long Watch", "Church of Grenzburg"]
 appears_in: ["Grenzburg"]
 needs: []
-tags: [narrative-rewrite]
+tags: [game-ready]
 quest_class: companion
 act: summer
-availability_window: ["Playable Summer"]
+availability_window: ["Summer Aftermath"]
 repeatability: one-shot
-cutoff_result: remains-available
+cutoff_result: persists
 world_state_outputs: ["bernard_summer_coda", "first_open_table_state"]
 reward_unlocks: ["Bernard summer destination scene"]
 required_locations: ["Blackjack Yard", "Open Lamp Hospice", "West Refuge Hall"]
@@ -39,6 +39,7 @@ companion_required: ""
 duo_quest: false
 pause_points: []
 relationship_gate: ""
+relationship_variant: ""
 preparation_inputs: []
 preparation_threshold: ""
 autonomous_deadline: ""
@@ -47,15 +48,16 @@ changed_reentry: "The coda reflects the fixed Act III outcome and cannot reopen 
 ensemble_inputs: []
 identity_hooks: []
 encounter_deck: []
-persistence_scope: campaign-persistent
+persistence_scope: campaign
 postgame_season: summer
-emotional_rewrite_status: preserve
-dialogue_status: pending-rewrite
+emotional_rewrite_status: cleared
+dialogue_status: approved
+remote_claim_status: compliant
 archetype_pressure: "Warmth becomes evasion: test whether Bernard can remain funny and loving while accepting specific judgement."
 emotional_function: "Keep ordinary hospitality as the final demonstration of accountability"
 pleasure_beat: "Food, absurdity, road stories, children laughing, and companionship without ceremony."
 care_beat: "Bernard feeds, shelters, steadies, and tells the truth about what he takes or withholds."
-player_archetype_hooks: []
+player_archetype_hooks: ["Cheerleader", "Tomboy", "Goth", "Bohemian", "Jock", "Nerd", "Rebel", "Goofball", "Grey"]
 ---
 # The First Open Table
 
@@ -83,7 +85,7 @@ At [[Open Lamp Hospice]], Bernard admits the first ordinary summer patients and 
 
 ### Long Watch
 
-The meal becomes a departure supper before Bernard joins a Long Watch road company. Matej receives a complete field inventory. Petra appears only if her established response permits it.
+The meal becomes a departure supper before Bernard leaves to join a Long Watch road company beyond the playable map. Bellandi has transmitted the complete field inventory and Matej's acceptance. Petra does not appear; her established response remains an authenticated record rather than a reunion.
 
 ### Travelling Hospitaller
 

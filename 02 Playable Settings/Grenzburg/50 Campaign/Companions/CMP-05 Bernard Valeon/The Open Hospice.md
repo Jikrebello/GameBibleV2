@@ -9,7 +9,7 @@ culture: ["Thalmyric", "Kedravan", "Eclessian", "Folk"]
 related_factions: ["Order of the Long Watch", "Church of Grenzburg", "Blackjack Corps", "Folk Kindreds"]
 appears_in: ["Grenzburg"]
 needs: []
-tags: [narrative-rewrite]
+tags: [game-ready]
 quest_class: companion
 act: act-3
 availability_window: ["Early Spring", "Open Spring", "Muster Crisis"]
@@ -29,16 +29,17 @@ faction_line: ""
 faction_branch: ""
 chapter_id: ""
 main_sequence: 0
-story_gate: mastery
+story_gate: finale
 estimated_hours: 2.5
-gameplay_pillars: [relief-logistics, route-securing, triage, defence, moral-resolution]
-required_states: ["bernard_act2_chapter_resolved", "bernard_act3_readiness_viable", "unending_muster_active"]
-optional_state_inputs: ["bernard_west_refuge_neutral_claim", "bernard_reclaimed_patient_routes", "bernard_mixed_carer_pledge", "bernard_underways_evacuation_route", "bernard_named_store_custodians", "bernard_table_received", "bernard_second_bearer_practiced", "bernard_romance_move_upgrade", "bernard_bond_move_upgrade", "petra_ilev_response", "long_watch_return_open", "bernard_accountability_plan", "church_resolution", "blackjack_resolution", "folk_compact_state", "lantern_ward_condition"]
+gameplay_pillars: [rescue, travel, protection, defense, choice, closure]
+required_states: ["bernard_act2_chapter_resolved", "bernard_act3_readiness_viable", "muster_known"]
+optional_state_inputs: ["bernard_west_refuge_neutral_claim", "bernard_reclaimed_patient_routes", "bernard_mixed_carer_pledge", "bernard_underways_evacuation_route", "bernard_named_store_custodians", "bernard_table_received", "bernard_second_bearer_practiced", "bernard_romance_move_upgrade", "bernard_bond_move_upgrade", "petra_ilev_response", "long_watch_return_open", "bernard_accountability_plan", "church_line_outcome", "blackjack_line_outcome", "four_hearth_compact_form", "lantern_ward_damage"]
 field_experience_gate: []
 companion_required: "Bernard Valeon"
 duo_quest: true
 pause_points: ["Hospice Site Declared", "Patients Sheltered"]
 relationship_gate: "No relationship required; relationship state changes scenes and rewards, not moral resolution"
+relationship_variant: ""
 preparation_inputs: ["bernard_west_refuge_neutral_claim", "bernard_reclaimed_patient_routes", "bernard_mixed_carer_pledge", "bernard_underways_evacuation_route", "bernard_named_store_custodians"]
 preparation_threshold: "2 of 5"
 autonomous_deadline: "The Deep Muster"
@@ -49,14 +50,14 @@ identity_hooks: []
 encounter_deck: []
 persistence_scope: regional-milestone
 postgame_season: ""
-emotional_rewrite_status: preserve
-dialogue_status: pending-rewrite
-remote_claim_status: pending-migration
+emotional_rewrite_status: cleared
+dialogue_status: approved
+remote_claim_status: compliant
 archetype_pressure: "Warmth becomes evasion: test whether Bernard can remain funny and loving while accepting specific judgement."
 emotional_function: "Keep witnessed stores, mixed patients, triage, destination, and warned sacrifice"
 pleasure_beat: "Food, absurdity, road stories, children laughing, and companionship without ceremony."
 care_beat: "Bernard feeds, shelters, steadies, and tells the truth about what he takes or withholds."
-player_archetype_hooks: []
+player_archetype_hooks: ["Cheerleader", "Tomboy", "Goth", "Bohemian", "Jock", "Nerd", "Rebel", "Goofball", "Grey"]
 ---
 # The Open Hospice
 
@@ -66,7 +67,7 @@ Bernard's Act III finale asks whether his new accountability survives a crisis l
 
 The moral outcome is separate from Bernard's destination. A resolved Bernard may return to the [[Thalmyric Military Orders#Order of the Long Watch|Order of the Long Watch]], remain to establish [[Open Lamp Hospice]], or travel as a hospitaller beside a committed female romantic partner. None of those destinations alone proves his reform.
 
-The closed quest uses the player and Bernard only. Carers, patients, porters, guards, Petra, Matej, and faction-provided helpers are temporary NPCs outside the companion limit.
+The closed quest uses the player and Bernard only. Grenzburg carers, patients, porters, guards, and faction-provided helpers are temporary NPCs outside the companion limit. Petra, Matej, and Radena remain remote.
 
 ## Unlock and Staging
 
@@ -101,8 +102,8 @@ The player may preserve the rule, narrow it under faction pressure, or let one s
 ## Principal Cast
 
 - [[Bernard Valeon]]: can now identify the urge to hide supplies but still fears that public stores will be wasted or taken.
-- [[Petra Ilev]]: may serve as inventory witness if her prior state allows contact.
-- [[Matej Solin]]: offers Long Watch carers and a field command without making reinstatement automatic.
+- [[Claims-Factor Marco Bellandi]]: authenticates Petra's existing restitution instruction and the Long Watch's remote service record before the duo departs; he does not enter the hospice assault.
+- **Neda Volk:** veteran Blackjack recovery hand who knows Bernard's jokes, his store tells, and the patients by name.
 - **Sister Hanne Wolkert:** organizes triage and insists that a neutral hospice requires practical security.
 - **Brina Kest:** can assign debtor porters and an open tally board.
 - **Olof Reed-Kin:** Chapel-Folk route reader who speaks for patients arriving from Longlake, not for all Folk.
@@ -250,7 +251,7 @@ Destination is selected only after the moral outcome is recorded.
 
 ### Return to the Long Watch
 
-Available when `long_watch_return_open` is open and Bernard is not broken. Matej receives a petition; resolved Bernard returns as a lay field knight under witnessed-store conditions. Compromised Bernard enters supervised probation.
+Available when `long_watch_return_open` is open and Bernard is not broken. Bellandi transmits Bernard's petition to Matej; resolved Bernard may return after the game as a lay field knight under witnessed-store conditions. Compromised Bernard enters supervised probation. No Long Watch figure arrives in Grenzburg for the decision.
 
 ### Open Lamp Hospice
 

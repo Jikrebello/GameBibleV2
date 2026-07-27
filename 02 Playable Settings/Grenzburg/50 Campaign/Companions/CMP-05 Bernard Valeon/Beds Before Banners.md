@@ -9,7 +9,7 @@ culture: ["Eclessian", "Chapel-Folk", "Thalmyric", "Folk"]
 related_factions: ["Blackjack Corps", "Church of Grenzburg", "Duchy of Grenzburg", "Four-Hearth Compact"]
 appears_in: ["Grenzburg"]
 needs: []
-tags: [narrative-rewrite]
+tags: [game-ready]
 quest_class: companion
 act: act-3
 availability_window: ["Early Spring", "Open Spring", "Muster Crisis"]
@@ -32,13 +32,14 @@ main_sequence: 0
 story_gate: preparation
 estimated_hours: 0.75
 gameplay_pillars: [social, exploration, protection, environmental-puzzle]
-required_states: ["bernard_act2_chapter_resolved", "unending_muster_active"]
-optional_state_inputs: ["church_resolution", "blackjack_resolution", "folk_compact_state", "lantern_ward_condition", "underways_route_access"]
+required_states: ["bernard_act2_chapter_resolved", "muster_known"]
+optional_state_inputs: ["church_line_outcome", "blackjack_line_outcome", "four_hearth_compact_form", "lantern_ward_damage", "underways_route_access"]
 field_experience_gate: []
 companion_required: "Bernard Valeon"
 duo_quest: false
 pause_points: ["Temporary Use Declared"]
 relationship_gate: ""
+relationship_variant: ""
 preparation_inputs: []
 preparation_threshold: ""
 autonomous_deadline: "The Deep Muster"
@@ -49,13 +50,14 @@ identity_hooks: []
 encounter_deck: []
 persistence_scope: district-persistent
 postgame_season: ""
-emotional_rewrite_status: reframe
-dialogue_status: pending-rewrite
+emotional_rewrite_status: cleared
+dialogue_status: approved
+remote_claim_status: compliant
 archetype_pressure: "Warmth becomes evasion: test whether Bernard can remain funny and loving while accepting specific judgement."
 emotional_function: "Keep neutral refuge stakes; replace procedural sponsorship emphasis with people Bernard knows, jokes with, and must defend without hiding stores"
 pleasure_beat: "Food, absurdity, road stories, children laughing, and companionship without ceremony."
 care_beat: "Bernard feeds, shelters, steadies, and tells the truth about what he takes or withholds."
-player_archetype_hooks: []
+player_archetype_hooks: ["Cheerleader", "Tomboy", "Goth", "Bohemian", "Jock", "Nerd", "Rebel", "Goofball", "Grey"]
 ---
 # Beds Before Banners
 
@@ -71,6 +73,15 @@ Four groups possess legitimate but incomplete claims. The problem is not solved 
 - the Blackjacks need space for debtors and dependants displaced by the dead march.
 
 The player must create bounded shared use without making one institution owner of care.
+
+The hall is not full of abstract constituencies. Bernard already knows the people doing the work:
+
+- Hannel Klee is assigning straw ticks and refuses to become “the girl Bernard once cleared”;
+- Neda Volk is testing the rear door with an injured shoulder she has not reported;
+- Olof Reed-Kin has brought two Chapel-Folk carriers Bernard fed during winter;
+- Sister Hanne Wolkert has the patient list and no patience for another sponsor's banner.
+
+Their affection makes it harder, not easier, for Bernard to treat himself as the natural owner of the room.
 
 ## Hook
 
@@ -140,11 +151,13 @@ Dialogue, burial rites, and Binder authority cannot make it a consenting person.
 
 Before the negotiation can remain theoretical, three arrivals reach the hall:
 
-- two wounded marchers;
-- a feverish debtor child and guardian;
-- a guarded Folk prisoner injured during a road clash.
+- two wounded marchers, one of whom carried the Long Table during the winter fire;
+- Mika Reed-Kin with a feverish younger cousin and no intention of surrendering the child's food bag;
+- a guarded Folk prisoner whom Olof recognizes as the person who once opened a winter track for refugees.
 
 Security conditions differ. The admission rule remains need first, with custody handled separately. The player determines beds, guards, and sponsor duties without deciding that one patient class is morally disposable.
+
+Bernard knows something human about every arrival. That knowledge may help him welcome them; it does not permit him to hide their property, alter custody, or promise a bed he has not counted.
 
 ## End: The Neutral Claim
 

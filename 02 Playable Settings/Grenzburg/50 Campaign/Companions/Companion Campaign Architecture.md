@@ -126,9 +126,9 @@ The expanded companion budget is added on top of the existing faction, marquee, 
 
 ## Migration
 
-[[Companion Campaign Expansion Register]] controls the 88 authored slots and the seventy-four-piece playthrough ceiling. [[Elara Companion Campaign]], [[Ilyana Companion Campaign]], [[Ylva Companion Campaign]], [[Ashira Companion Campaign]], [[Bernard Companion Campaign]], and [[Tavio Companion Campaign]] are completed structural migrations. Existing notes for Dismas and Zafir carry `architecture_status: pending-migration`.
+[[Companion Campaign Expansion Register]] controls the 88 authored slots and the seventy-four-piece playthrough ceiling. [[Elara Companion Campaign]], [[Ilyana Companion Campaign]], [[Ylva Companion Campaign]], [[Ashira Companion Campaign]], [[Bernard Companion Campaign]], [[Tavio Companion Campaign]], and [[Zafir Companion Campaign]] are completed structural migrations. Dismas retains seven reserved pieces and remains the only companion with `architecture_status: pending-migration`.
 
-Architecture status does not certify emotional readiness. Seventy-four formal pieces are now linked and fourteen remain reserved. Elara's and Ashira's twenty-two pieces are cleared and approved; every later campaign remains outside implementation-ready views until its paired pass clears emotional, dialogue, and remote-claim status.
+Architecture status does not certify emotional readiness. Eighty-one formal pieces are now linked and seven remain reserved. Elara, Ashira, Bernard, and Zafir account for forty-four emotionally cleared and dialogue-approved pieces. Ilyana, Ylva, and Tavio remain outside implementation-ready views until their paired passes clear emotional, dialogue, and remote-claim status; Dismas remains reserved.
 
 ## Navigation
 
@@ -142,5 +142,6 @@ Architecture status does not certify emotional readiness. Seventy-four formal pi
 - [[Companion Reactive Scene Register]]
 - [[Elara Companion Campaign]]
 - [[Bernard Companion Campaign]]
+- [[Zafir Companion Campaign]]
 - [[Companions MOC]]
 - [[Grenzburg RPG Experience Constitution]]

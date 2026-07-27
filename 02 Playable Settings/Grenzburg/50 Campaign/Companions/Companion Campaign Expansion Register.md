@@ -9,51 +9,51 @@ culture: []
 related_factions: ["Blackjack Corps"]
 appears_in: ["Grenzburg"]
 needs:
-  - clear the remaining preserve, reframe, and replace dispositions through the final three paired emotional rewrite passes
-  - name and block the 14 reserved authored pieces during their paired passes
-  - approve Dismas and Zafir's exact preparation thresholds and autonomous outcome tables during their paired passes
+  - clear the remaining preserve, reframe, and replace dispositions through the final two paired emotional rewrite passes
+  - name and block Dismas's seven reserved authored pieces during his paired pass
+  - approve Dismas's exact preparation thresholds and autonomous outcome table during his paired pass
 tags: [game-ready]
 ---
 # Companion Campaign Expansion Register
 
-This register controls exactly eighty-eight authored companion pieces. Elara, Ashira, Ilyana, Ylva, Bernard, and Tavio now have eleven linked authored pieces. Elara and Ashira are emotionally cleared through paired rewrite 01. Later campaigns remain outside implementation-ready views until their own paired passes clear emotional, dialogue, and remote-claim status.
+This register controls exactly eighty-eight authored companion pieces. Every companion except Dismas now has eleven linked authored pieces. Elara, Ashira, Bernard, and Zafir are emotionally cleared. Later campaigns remain outside implementation-ready views until their own paired passes clear emotional, dialogue, and remote-claim status.
 
 Structural status is not emotional readiness. [[Companion Emotional Rewrite Audit]] assigns every uncleared piece a preserve, reframe, or replace brief.
 
-Current authored count: **74 linked / 14 reserved / 88 total**. Because romance and sworn bond are mutually exclusive and only one of each may be committed across the roster, no more than **74 pieces** are playable in one run: seventy-two non-exclusive pieces, one romance, and one bond.
+Current authored count: **81 linked / 7 reserved / 88 total**. Because romance and sworn bond are mutually exclusive and only one of each may be committed across the roster, no more than **74 pieces** are playable in one run: seventy-two non-exclusive pieces, one romance, and one bond.
 
 ## Count Authority
 
 | Role | Linked notes | Reserved pieces | Total |
 |---|---:|---:|---:|
 | Introductory cases | 8 | 0 | 8 |
-| Short act operations | 18 | 6 | 24 |
+| Short act operations | 21 | 3 | 24 |
 | Duo act finales | 24 | 0 | 24 |
-| Friendship episodes | 6 | 2 | 8 |
-| Romance episodes | 6 | 2 | 8 |
-| Sworn-bond episodes | 6 | 2 | 8 |
-| Summer codas | 6 | 2 | 8 |
-| **Authored pieces** | **74** | **14** | **88** |
+| Friendship episodes | 7 | 1 | 8 |
+| Romance episodes | 7 | 1 | 8 |
+| Sworn-bond episodes | 7 | 1 | 8 |
+| Summer codas | 7 | 1 | 8 |
+| **Authored pieces** | **81** | **7** | **88** |
 
 ## Emotional Rewrite Authority
 
 | State | Linked pieces | Reserved pieces | Authored total |
 |---|---:|---:|---:|
-| cleared and dialogue-approved: Elara and Ashira | 22 | 0 | 22 |
-| linked, awaiting later paired rewrite | 52 | 0 | 52 |
-| reserved for later paired rewrite | 0 | 14 | 14 |
-| **Total** | **74** | **14** | **88** |
+| cleared and dialogue-approved: Elara, Ashira, Bernard, and Zafir | 44 | 0 | 44 |
+| linked, awaiting later paired rewrite | 37 | 0 | 37 |
+| reserved for later paired rewrite | 0 | 7 | 7 |
+| **Total** | **81** | **7** | **88** |
 
 The eight archetypal engines are controlled by [[Companion Archetype Constitution]]:
 
-| Pair pass | Companions | Archetypes |
+| Completion status | Companions | Archetypes |
 |---|---|---|
-| 1 | [[Elara Velescar]] and [[Ashira bath Melan]] | Cheerleader and Goth |
-| 2 | [[Ylva Winter-Track]] and [[Tavio Meran]] | Tomboy and Jock |
-| 3 | [[Ilyana Veshkar]] and [[Dismas Raben]] | Bohemian and Rebel |
-| 4 | [[Bernard Valeon]] and [[Zafir ibn Samad]] | Goofball and Nerd |
+| completed 01 | [[Elara Velescar]] and [[Ashira bath Melan]] | Cheerleader and Goth |
+| completed 02 by user direction | [[Bernard Valeon]] and [[Zafir ibn Samad]] | Goofball and Nerd |
+| pending | [[Ylva Winter-Track]] and [[Tavio Meran]] | Tomboy and Jock |
+| pending | [[Ilyana Veshkar]] and [[Dismas Raben]] | Bohemian and Rebel |
 
-The pair order is mandatory because each pass must rewrite the shared three-season foil arc as well as the individual campaigns. A `preserve` disposition protects a premise; it does not preserve old dialogue automatically.
+Pair cohesion is mandatory because each pass must rewrite the shared three-season foil arc as well as the individual campaigns. Completion order follows user direction. A `preserve` disposition protects a premise; it does not preserve old dialogue automatically.
 
 ## CMP-01: Elara Velescar
 
@@ -131,17 +131,17 @@ Embedded opportunities: 10 blocked through [[Ashira Companion Campaign]] and [[A
 
 | ID | Role | Content | Status |
 |---|---|---|---|
-| CMP-05-I | introduction | [[Little Things Missing]] | blocked; migrated |
-| CMP-05-A1-O | Act I operation | [[The Wagon in the Reeds]] | blocked; migrated |
-| CMP-05-A1-F | Act I finale | [[Little Hands, Long Road]] | blocked; migrated |
-| CMP-05-FR | friendship episode | [[A Blade Freely Given]] | blocked; migrated |
-| CMP-05-A2-O | Act II operation | [[Four Fires]] | blocked; migrated |
-| CMP-05-A2-F | Act II finale | [[Embers Without Excuse]] | blocked; migrated |
-| CMP-05-RM | romance episode | [[Enough for Two]] | blocked; migrated |
-| CMP-05-BD | sworn-bond episode | [[Watch Until Morning]] | blocked; migrated |
-| CMP-05-A3-O | Act III operation | [[Beds Before Banners]] | blocked; migrated |
-| CMP-05-A3-F | Act III finale | [[The Open Hospice]] | blocked; migrated |
-| CMP-05-S | summer coda | [[The First Open Table]] | blocked; migrated |
+| CMP-05-I | introduction | [[Little Things Missing]] | blocked; migrated; cleared |
+| CMP-05-A1-O | Act I operation | [[The Wagon in the Reeds]] | blocked; migrated; cleared |
+| CMP-05-A1-F | Act I finale | [[Little Hands, Long Road]] | blocked; migrated; cleared |
+| CMP-05-FR | friendship episode | [[A Blade Freely Given]] | blocked; migrated; cleared |
+| CMP-05-A2-O | Act II operation | [[The Long Winter Table]] | blocked; migrated; cleared |
+| CMP-05-A2-F | Act II finale | [[Embers Without Excuse]] | blocked; migrated; cleared |
+| CMP-05-RM | romance episode | [[Enough for Two]] | blocked; migrated; cleared |
+| CMP-05-BD | sworn-bond episode | [[Watch Until Morning]] | blocked; migrated; cleared |
+| CMP-05-A3-O | Act III operation | [[Beds Before Banners]] | blocked; migrated; cleared |
+| CMP-05-A3-F | Act III finale | [[The Open Hospice]] | blocked; migrated; cleared |
+| CMP-05-S | summer coda | [[The First Open Table]] | blocked; migrated; cleared |
 
 Embedded opportunities: 10 blocked through [[Bernard Companion Campaign]] and [[Bernard Banter and Reactivity]]. Act readiness is two of five; all three autonomous results and changed re-entry states are locked.
 
@@ -185,19 +185,19 @@ Embedded opportunities: 10 blocked through [[Tavio Companion Campaign]] and [[Ta
 
 | ID | Role | Content | Status |
 |---|---|---|---|
-| CMP-08-I | introduction | [[The Cord Returned]] | pending migration |
-| CMP-08-A1-O | Act I operation | untitled | reserved |
-| CMP-08-A1-F | Act I finale | [[Humane Terms]] | pending migration |
-| CMP-08-A2-O | Act II operation | untitled | reserved |
-| CMP-08-A2-F | Act II finale | [[The Copyist's Answer]] | pending migration |
-| CMP-08-A3-O | Act III operation | untitled | reserved |
-| CMP-08-A3-F | Act III finale | [[All Cords Cut Clean]] | pending migration |
-| CMP-08-FR | friendship episode | untitled | reserved |
-| CMP-08-RM | romance episode | untitled | reserved |
-| CMP-08-BD | sworn-bond episode | untitled | reserved |
-| CMP-08-S | summer coda | untitled | reserved |
+| CMP-08-I | introduction | [[The Cord Returned]] | blocked; migrated; cleared |
+| CMP-08-A1-O | Act I operation | [[The Fifth Crossing]] | blocked; migrated; cleared |
+| CMP-08-A1-F | Act I finale | [[The Ninth Lever]] | blocked; migrated; cleared |
+| CMP-08-FR | friendship episode | [[A Bird for No Door]] | blocked; migrated; cleared |
+| CMP-08-A2-O | Act II operation | [[The Route That Wasn't There]] | blocked; migrated; cleared |
+| CMP-08-A2-F | Act II finale | [[The Copyist's Answer]] | blocked; migrated; cleared |
+| CMP-08-RM | romance episode | [[The Ninth Star Is Late]] | blocked; migrated; cleared |
+| CMP-08-BD | sworn-bond episode | [[The Night of Small Repairs]] | blocked; migrated; cleared |
+| CMP-08-A3-O | Act III operation | [[Every Hand May Let Go]] | blocked; migrated; cleared |
+| CMP-08-A3-F | Act III finale | [[All Cords Cut Clean]] | blocked; migrated; cleared |
+| CMP-08-S | summer coda | [[The Door Opens Both Ways]] | blocked; migrated; cleared |
 
-Embedded opportunities: 10 reserved. Autonomous Act I, II, and III actions are controlled below; exact results await the user-approved deep block.
+Embedded opportunities: 10 blocked through [[Zafir Companion Campaign]] and [[Zafir Banter and Reactivity]]. Act readiness is two of five; all autonomous results, changed re-entry states, relationship variants, and progression rewards are locked.
 
 ## Embedded Opportunity Allocation
 
@@ -244,7 +244,7 @@ At each act gate, an unresolved companion undertakes an authored action whether 
 | Bernard | Conducts the Chapel-Folk children's road journey; by default all survive with avoidable injuries and the bear dies in defence. | Saves the relief patients and genuinely kindles White Flame, but Petra accepts restitution without forgiveness and player unlocks close. | Serves the Blackjack infirmary under Brina's inventory authority; Open Lamp remains unrealized. |
 | Dismas | Returns to an easy ambush whose logic repeats his original wrong. | Faces the name and public charge attached to the rockfall. | Chooses whether to answer the road through accountable service or renewed flight. |
 | Tavio | Proves Red Brass substitution but pushes beyond a stop call, causing one avoidable worker injury. | Fights Lio fairly while accepting sole blame to preserve the Red Brass Bench. | Saves the Great Forge only after an external evacuation order and becomes a supervised load tester. |
-| Zafir | Attempts to prove or abandon the supposedly humane terms of his practice. | Seeks the copyist whose inversion exposed the nature of his control. | Cuts, preserves, or rationalizes the remaining cords tied to his former work. |
+| Zafir | Saves the Nine-Lever workers; by default he retains a supervised master stop and causes one avoidable injury. | Secures personal severance without publishing participant-controlled release; Binder and relationship paths close. | Uses one authorized override to save the Circle, remains supervised, and loses Karel as an apprentice. |
 
 ## Navigation
 

@@ -203,6 +203,14 @@ Medium-site names are canon. [[Seven Mounds]] is claimed by [[A House Fed by Bon
 - **West Refuge underways (BE-E08):** one authored exploration from West Refuge Hall into the city underways can clear and mark a nonpublic patient route. Completing it without handing the route to an exclusive underworld claimant sets `bernard_underways_evacuation_route`.
 - **Cairnside Shelter:** the minor road refuge beside Lake Road Cairn is repaired during [[Watch Until Morning]]. Its roof, stove, declared stores, and service cords persist according to `cairnside_shelter_state`; the site does not require a separate place dossier.
 
+## Zafir Embedded Relation Sites
+
+- **Eel Bridge and the fifth crossing:** [[The Fifth Crossing]] uses the existing bridge, ferry cables, household landings, and floodplain. Its fifth route is the rescue crew's return, not a new permanent crossing or private Zafir route.
+- **Chain House anchor vault:** the lower X-3 chamber used by [[The Copyist's Answer]] stores the local execution-end and bounded river-defence relations. It transmits no thought, speech, or live command to Iqashar.
+- **Old River Arsenal deployment floor:** [[Every Hand May Let Go]] uses one reclaimed work floor to test voluntary Open-Cord field relations. Its participants retain their own keys and may withdraw after deployment.
+- **Fenn anchor route (ZF-E08):** one authored Frostfenn exploration identifies an unranked maintenance approach to the Name-Rank Relay and sets `zafir_fenn_anchor_route`. It is a one-shot discovery and does not bypass the main Deep Muster approach.
+- **Name-Rank Relay:** [[All Cords Cut Clean]] uses a subordinate Muster command station near the Deep Muster approaches. Its destruction or survival is recorded by `name_rank_relay_state`; it is not an additional Muster anchor and does not alter the five-anchor campaign count.
+
 ## Ilyana Embedded Performance Routes
 
 - **Eel Bridge and the reed-bank path:** [[No Song by Command]] uses the bridge, spring culvert, ferry structures, and household paths without turning the crossing into Salt-Reed property. Prior road work may set `ilyana_eel_bridge_route_known`.

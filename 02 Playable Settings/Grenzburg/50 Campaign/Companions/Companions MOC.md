@@ -42,13 +42,13 @@ This is the production doorway for eight outsider-debtor companions, eighty-eigh
 | Summer coda | 1 | 8 |
 | **Authored pieces** | **11** | **88** |
 
-Seventy-four formal pieces now exist. Elara and Ashira are emotionally cleared and dialogue-approved; Ilyana, Ylva, Bernard, and Tavio have structurally complete eleven-piece campaigns awaiting later paired emotional work; Dismas and Zafir retain fourteen reserved slots between them. An individual companion exposes nine non-exclusive pieces plus either the eligible romance episode or eligible bond episode, never both. See [[Companion Campaign Expansion Register]].
+Eighty-one formal pieces now exist. Elara, Ashira, Bernard, and Zafir are emotionally cleared and dialogue-approved; Ilyana, Ylva, and Tavio have structurally complete eleven-piece campaigns awaiting later paired emotional work; Dismas retains seven reserved slots. An individual companion exposes nine non-exclusive pieces plus either the eligible romance episode or eligible bond episode, never both. See [[Companion Campaign Expansion Register]].
 
-All eighty-eight pieces have an explicit readiness or rewrite disposition. Twenty-two Elara/Ashira pieces are implementation-ready. Later companion quests remain excluded until their paired rewrite sets `emotional_rewrite_status: cleared`, `dialogue_status: approved`, and remote-claim compliance.
+All eighty-eight pieces have an explicit readiness or rewrite disposition. Forty-four Elara/Ashira/Bernard/Zafir pieces are implementation-ready. Later companion quests remain excluded until their paired rewrite sets `emotional_rewrite_status: cleared`, `dialogue_status: approved`, and remote-claim compliance.
 
 ## Existing Source Register
 
-Elara's, Ilyana's, Ylva's, Ashira's, Bernard's, and Tavio's eleven authored pieces carry `architecture_status: migrated`. Dismas and Zafir retain `pending-migration` sources and reserved slots: their existing Quest 1 becomes the introductory case and Quests 2-4 become the three act finales during that companion's retrofit. The Status column below records structural blocking only; emotional and remote-claim readiness live in [[Companion Emotional Rewrite Audit]], [[Companion Remote Claims Compliance Register]], and the [[Companions.base|Companion Base]].
+Every companion except Dismas has eleven authored pieces carrying `architecture_status: migrated`. Dismas retains four source quests and seven reserved slots. The Status column below records structural blocking only; emotional and remote-claim readiness live in [[Companion Emotional Rewrite Audit]], [[Companion Remote Claims Compliance Register]], and the [[Companions.base|Companion Base]].
 
 | ID | Quest | Owner | Act | Window | Status |
 |---|---|---|---|---|---|
@@ -100,7 +100,7 @@ Elara's, Ilyana's, Ylva's, Ashira's, Bernard's, and Tavio's eleven authored piec
 | CMP-05-2 | [[The Wagon in the Reeds]] | [[Bernard Valeon]] | act-1 | Open Autumn | blocked |
 | CMP-05-3 | [[Little Hands, Long Road]] | [[Bernard Valeon]] | act-1 | Open Autumn, Early Winter | blocked |
 | CMP-05-4 | [[A Blade Freely Given]] | [[Bernard Valeon]] | act-1 | Open Autumn, Early Winter | blocked |
-| CMP-05-5 | [[Four Fires]] | [[Bernard Valeon]] | act-2 | Early Winter, Deep Winter | blocked |
+| CMP-05-5 | [[The Long Winter Table]] | [[Bernard Valeon]] | act-2 | Early Winter, Deep Winter | blocked |
 | CMP-05-6 | [[Embers Without Excuse]] | [[Bernard Valeon]] | act-2 | Deep Winter, Early Spring | blocked |
 | CMP-05-RM | [[Enough for Two]] | [[Bernard Valeon]] | act-3 | Early Spring | blocked |
 | CMP-05-BD | [[Watch Until Morning]] | [[Bernard Valeon]] | act-3 | Early Spring | blocked |
@@ -122,16 +122,24 @@ Elara's, Ilyana's, Ylva's, Ashira's, Bernard's, and Tavio's eleven authored piec
 | CMP-07-8 | [[Measure on the March]] | [[Tavio Meran]] | act-3 | Open Thaw, Spring Reclamation | blocked |
 | CMP-07-9 | [[Horn for Leak-Day]] | [[Tavio Meran]] | act-3 | Spring Reclamation, Muster Crisis | blocked |
 | CMP-07-10 | [[The Road Takes the Measure]] | [[Tavio Meran]] | summer | Playable Summer | blocked |
-| CMP-08-1 | [[The Cord Returned]] | [[Zafir ibn Samad]] | act-1 | Early Autumn, Open Autumn | outlined |
-| CMP-08-2 | [[Humane Terms]] | [[Zafir ibn Samad]] | act-1 | Open Autumn, Early Winter | outlined |
-| CMP-08-3 | [[The Copyist's Answer]] | [[Zafir ibn Samad]] | act-2 | Deep Winter, Early Spring | outlined |
-| CMP-08-4 | [[All Cords Cut Clean]] | [[Zafir ibn Samad]] | act-3 | Early Spring, Muster Crisis | outlined |
+| CMP-08-1 | [[The Cord Returned]] | [[Zafir ibn Samad]] | act-1 | Early Autumn, Open Autumn | blocked |
+| CMP-08-2 | [[The Fifth Crossing]] | [[Zafir ibn Samad]] | act-1 | Open Autumn, Late Autumn | blocked |
+| CMP-08-3 | [[The Ninth Lever]] | [[Zafir ibn Samad]] | act-1 | Late Autumn, Early Winter | blocked |
+| CMP-08-4 | [[A Bird for No Door]] | [[Zafir ibn Samad]] | act-1 | Late Autumn, Early Winter, Deep Winter | blocked |
+| CMP-08-5 | [[The Route That Wasn't There]] | [[Zafir ibn Samad]] | act-2 | Deep Winter | blocked |
+| CMP-08-6 | [[The Copyist's Answer]] | [[Zafir ibn Samad]] | act-2 | Deep Winter, Early Spring | blocked |
+| CMP-08-RM | [[The Ninth Star Is Late]] | [[Zafir ibn Samad]] | act-2 | Late Winter, Early Spring | blocked |
+| CMP-08-BD | [[The Night of Small Repairs]] | [[Zafir ibn Samad]] | act-2 | Late Winter, Early Spring | blocked |
+| CMP-08-8 | [[Every Hand May Let Go]] | [[Zafir ibn Samad]] | act-3 | Early Spring, Open Spring | blocked |
+| CMP-08-9 | [[All Cords Cut Clean]] | [[Zafir ibn Samad]] | act-3 | Open Spring, Muster Crisis | blocked |
+| CMP-08-10 | [[The Door Opens Both Ways]] | [[Zafir ibn Samad]] | summer | Playable Summer | blocked |
 
 ## Present And Remote Cast
 
 - [[Claims-Factor Marco Bellandi]]
 - [[Neda Volk]]
 - [[Quartermaster Brina Kest]]
+- [[Karel Reed-Hand]]
 
 - [[Patron-Captain Caterina Morante]]
 - [[Mirella Corsi]]
@@ -202,7 +210,18 @@ Former-life figures in this list are remote world-canon references. Their inclus
 - [[Bernard Long Watch Greatsword Package]]: companion combat language, Paladin progression, and custom-vocation unlocks.
 - [[Bernard Banter and Reactivity]]: companion exchanges, Last Ember responses, faction attitudes, routines, and seasonal dialogue.
 - [[The Froststep Evacuation]] and [[Hospice of the Lantern Road]]: controlling history and institutional origin.
-- [[Little Things Missing]], [[The Wagon in the Reeds]], [[Little Hands, Long Road]], [[A Blade Freely Given]], [[Four Fires]], [[Embers Without Excuse]], [[Enough for Two]], [[Watch Until Morning]], [[Beds Before Banners]], [[The Open Hospice]], and [[The First Open Table]]: eleven production-blocked authored pieces, of which no more than ten can appear in one playthrough.
+- [[Little Things Missing]], [[The Wagon in the Reeds]], [[Little Hands, Long Road]], [[A Blade Freely Given]], [[The Long Winter Table]], [[Embers Without Excuse]], [[Enough for Two]], [[Watch Until Morning]], [[Beds Before Banners]], [[The Open Hospice]], and [[The First Open Table]]: eleven emotionally cleared production-blocked pieces, of which no more than ten can appear in one playthrough.
+
+### CMP-08: Zafir ibn Samad
+
+- [[Zafir Companion Campaign]]: controlling eleven-piece campaign, preparation, autonomy, changed re-entry, progression, and outcomes.
+- [[Zafir ibn Samad]]: controlling character bible.
+- [[Zafir Field Familiarity and Relationships]]: approval, friendship, romance, bond, conflict, and permanent perks.
+- [[Zafir Cord Jurist Package]]: relation reading, bounded forms, participant release, and companion combat.
+- [[The Inverted Surety]]: controlling limits on the local execution-end and remote judgement.
+- [[The Open-Cord Circle]] and [[Karel Reed-Hand]]: voluntary field network and present-day learner, peer, or critic.
+- [[Zafir Banter and Reactivity]]: voice, faction positions, seasonal foil incidents, and company life.
+- [[The Cord Returned]], [[The Fifth Crossing]], [[The Ninth Lever]], [[A Bird for No Door]], [[The Route That Wasn't There]], [[The Copyist's Answer]], [[The Ninth Star Is Late]], [[The Night of Small Repairs]], [[Every Hand May Let Go]], [[All Cords Cut Clean]], and [[The Door Opens Both Ways]]: eleven emotionally cleared production-blocked pieces, of which no more than ten appear in one playthrough.
 
 ### CMP-07: Tavio Meran
 
@@ -215,7 +234,7 @@ Former-life figures in this list are remote world-canon references. Their inclus
 - [[Lancewright]]: the quest-earned advanced player vocation.
 - [[The False Ring]], [[The Signed Measure]], [[Proof Under Load]], [[Games Without a Crown]], [[The Challenger's Road]], [[The Fair Defeat]], [[No Wager Between Us]], [[After the Last Lantern]], [[Measure on the March]], [[Horn for Leak-Day]], and [[The Road Takes the Measure]]: eleven production-blocked pieces, of which no more than ten can appear in one playthrough.
 
-Elara and Ashira are fully migrated and emotionally cleared. Ilyana, Ylva, Bernard, and Tavio retain complete structural campaigns but await their paired emotional and remote-claim migrations. Dismas and Zafir remain partially linked with reserved pieces. No later companion's threshold or autonomous result is canonized without its planned user-guided pass.
+Elara, Ashira, Bernard, and Zafir are fully migrated and emotionally cleared. Ilyana, Ylva, and Tavio retain complete structural campaigns but await their paired emotional migrations. Dismas remains partially linked with seven reserved pieces. No later companion's threshold or autonomous result is canonized without its planned user-guided pass.
 
 ## Controls
 
@@ -223,6 +242,7 @@ Elara and Ashira are fully migrated and emotionally cleared. Ilyana, Ylva, Berna
 - [[Companion Archetype Constitution]]
 - [[Companion Dialogue and Scene Standard]]
 - [[Companion Blind Dialogue Test Pair 01]]
+- [[Companion Blind Dialogue Test Pair 02]]
 - [[Companion Ensemble Pair Briefs]]
 - [[Companion Archetype Chemistry Matrix]]
 - [[Companion Emotional Rewrite Audit]]

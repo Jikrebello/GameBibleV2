@@ -9,8 +9,7 @@ culture: ["Ahl-e-Ahd"]
 related_factions: ["Blackjack Corps"]
 appears_in: ["Grenzburg"]
 needs:
-  - convert Zafir's outlined unlock and capstone quests into implementation-ready mechanics
-  - define the initial bounded-form roster and consent-readable presentation
+  - tune the initial bounded-form roster and exact resource costs during combat implementation
 system_family: player
 player_system: vocation
 vocation_tier: advanced
@@ -100,12 +99,16 @@ The interface distinguishes assets with no consciousness from conscious covenant
 
 Mechanical power may be lost when the player honors a right to withdraw. That cost is part of the vocation's moral and tactical identity.
 
+Every conscious participant receives a visible personal release. If a deployed covenant permits a bounded emergency command, its exact action and expiry are shown before use. A central operator cannot silently remove a participant's release.
+
 ## Mastery Shape
 
-- **Unlock:** Zafir's Act II finale grants safe rings, release forms, one non-conscious asset, and basic inversion.
+- **Introduction support:** [[The Cord Returned]] demonstrates **Relation Read**, exposing the active anchor behind a hostile relation.
+- **Act I support:** [[The Ninth Lever]] demonstrates **Release at Hand**, giving an ally control of one prepared ordinary release.
+- **Unlock:** personal ethical completion of [[The Copyist's Answer]] grants the current-playthrough and account unlock, safe rings, release forms, one non-conscious asset, and basic inversion.
 - **Practiced:** multiple ring arrangements, better cord directions, breach marks, and a wider prepared roster.
-- **Veteran:** hostile-binding counters, voluntary covenant partners, complex releases, and name shelter.
-- **Capstone:** Zafir's Act III finale resolves his own inverted bond and teaches one master inversion or covenant technique.
+- **Veteran:** [[Every Hand May Let Go]] establishes **Shared Covenant**, distributing bounded control among voluntary participants.
+- **Capstone:** [[All Cords Cut Clean]] grants **No Master Ring**, which breaks a central override and strengthens participant releases, plus the **Open-Cord Jurist** custom-vocation blueprint.
 
 ## Training and Reputation
 
@@ -129,6 +132,9 @@ Once unlocked and mastered, Binder contributes rings, cords, prepared forms, bre
 ## Navigation
 
 - [[Zafir ibn Samad]]
+- [[Zafir Cord Jurist Package]]
+- [[The Inverted Surety]]
+- [[The Open-Cord Circle]]
 - [[Contract Magic and True Names]]
 - [[The Creditor]]
 - [[Vocation Progression and Mastery]]

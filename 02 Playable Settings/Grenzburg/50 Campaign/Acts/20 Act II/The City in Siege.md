@@ -16,8 +16,8 @@ act: act-2
 availability_window: ["Early Winter"]
 repeatability: one-shot
 cutoff_result: transforms
-world_state_outputs: ["lantern_ward_damage", "western_breach_state", "blackjack_yard_state", "millwheel_pumps_state", "elara_winter_roofline_proven", "bernard_breach_casualty_lane_secured"]
-required_locations: ["Lantern Ward", "Quarry Steps", "Debtors' Row", "Blackjack Yard", "Millwheel Works", "Wallwright Yard"]
+world_state_outputs: ["lantern_ward_damage", "western_breach_state", "blackjack_yard_state", "millwheel_pumps_state", "elara_winter_roofline_proven", "bernard_breach_casualty_lane_secured", "zafir_chain_house_damage_map"]
+required_locations: ["Lantern Ward", "Quarry Steps", "Debtors' Row", "Blackjack Yard", "Millwheel Works", "Wallwright Yard", "Chain House"]
 blocking_status: blocked
 quest_owner: "Grenzburg Main Campaign"
 quest_sequence: 0
@@ -122,6 +122,8 @@ Ilyana can establish obscuring fog, shared weapon cadence, and audible casualty 
 [[Bernard Valeon]] can organize the marked casualty lane between Debtors' Row, the Blackjack Yard, and the nearest functioning treatment point. Holding it through the breach and leaving carriers with a tested fallback records `bernard_breach_casualty_lane_secured` for [[Embers Without Excuse]]. Civilian rescue remains viable without him.
 
 [[Ilyana Veshkar]] can test the route with fog boundaries, stretcher calls, and a refrain whose participating carriers may leave at named relief points. Preserving the lane without compelling a civilian or performer records `ilyana_breach_casualty_lane_mapped` for [[The Free Refrain]]. The breach and casualty route remain viable without her.
+
+[[Zafir ibn Samad]] can inspect Chain House while the western mechanisms are being restored. Local winch crews know which controls they changed under fire; accepting their revisions produces `zafir_chain_house_damage_map` for [[The Copyist's Answer]]. Replacing their account with his pre-siege plan loses the preparation asset but never blocks the city's repair.
 
 ## Faction Advantages
 

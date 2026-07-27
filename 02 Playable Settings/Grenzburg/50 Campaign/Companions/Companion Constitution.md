@@ -129,14 +129,14 @@ Relationship perks occupy no ordinary vocation augment slot. A learned perk rema
 | [[Bernard Valeon]] | Kept in the Light | Last Watch |
 | [[Dismas Raben]] | No Escape Route | No Blind Turn |
 | [[Tavio Meran]] | No Wager Between Us | Second's Word |
-| [[Zafir ibn Samad]] | Unowned Accord | Witnessed Freedom |
+| [[Zafir ibn Samad]] | Still Worth Knowing | Peer's Objection |
 
 The two rewards for a companion are distinct and mutually exclusive because relationship type is fixed at commitment. Their exact numerical values remain provisional, but their utility budget must remain equivalent.
 
 ## Foil Pairs
 
 - [[Elara Velescar]] and [[Ashira bath Melan]]: discovery, remains, and the intelligent excuses used to call harmful knowledge necessary.
-- [[Bernard Valeon]] and [[Zafir ibn Samad]]: voluntary vows and personal mercy against contractual protection, control, and ownership.
+- [[Bernard Valeon]] and [[Zafir ibn Samad]]: personal mercy and exact systems corrected through truthful records, participant-controlled exits, and care that neither man owns.
 - [[Ilyana Veshkar]] and [[Dismas Raben]]: control disguised as responsibility against flight disguised as freedom.
 - [[Ylva Winter-Track]] and [[Tavio Meran]]: exceeding limits to make oneself expendable against exceeding them for mastery and glory.
 

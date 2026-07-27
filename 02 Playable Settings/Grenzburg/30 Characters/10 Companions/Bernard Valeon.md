@@ -34,6 +34,7 @@ legal_debt_state_key: "bernard_legal_debt_state"
 voice_status: calibrated
 emotional_rewrite_status: bible-locked
 architecture_status: migrated
+remote_claim_status: compliant
 ---
 # Bernard Valeon
 

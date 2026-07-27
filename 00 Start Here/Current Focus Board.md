@@ -15,7 +15,7 @@ tags: []
 
 ## First Creative Priority
 
-Build Grenzburg into the setting's first complete video game. [[Grenzburg RPG Experience Constitution]] treats the seasonal campaign, the blank-slate debtor, and eight autonomous companion campaigns as equal parts of the experience. The twenty-one main chapters and eighty-eight-piece companion architecture remain locked. Elara and Ashira are the first emotionally cleared pair: twenty-two production-blocked pieces now use present-day Grenzburg casts, approved dialogue, remote former-life claims, and a three-season foil arc. [[Companion Debt and Remote Claims Standard]] prevents Grenzburg from becoming a reunion point for every backstory. The next paired rewrite is Ylva and Tavio. Caleran remains the great-city sandbox, but it is not the active implementation priority.
+Build Grenzburg into the setting's first complete video game. [[Grenzburg RPG Experience Constitution]] treats the seasonal campaign, the blank-slate debtor, and eight autonomous companion campaigns as equal parts of the experience. The twenty-one main chapters and eighty-eight-piece companion architecture remain locked. Elara-Ashira and Bernard-Zafir are emotionally cleared: forty-four production-blocked pieces now use present-day Grenzburg casts, approved dialogue, remote former-life claims, and complete three-season foil arcs. [[Companion Debt and Remote Claims Standard]] prevents Grenzburg from becoming a reunion point for every backstory. Ylva-Tavio and Ilyana-Dismas remain the two paired rewrites. Caleran remains the great-city sandbox, but it is not the active implementation priority.
 
 ## Current Canon Baseline
 
@@ -42,7 +42,7 @@ Build Grenzburg into the setting's first complete video game. [[Grenzburg RPG Ex
 
 ## Next Three Workstreams
 
-1. **Ylva and Tavio:** perform paired emotional rewrite 02, including Tavio's remote Lio claim and the Tomboy-Jock seasonal foil arc.
+1. **Ylva and Tavio:** perform the next paired emotional rewrite, including Tavio's remote Lio claim and the Tomboy-Jock seasonal foil arc.
 2. **Remaining paired companion passes:** continue with Ilyana-Dismas and Bernard-Zafir. Preserve structural deadlines, autonomy, relationship separation, and rewards while replacing emotionally weak premises, dialogue, and prohibited former-life arrivals.
 3. **Identity and living-world allocation:** distribute culture, background, vocation, and temperament hooks across authored content, then build regional encounter decks and side-content placements without changing the main campaign.
 
@@ -91,8 +91,8 @@ Build Grenzburg into the setting's first complete video game. [[Grenzburg RPG Ex
 ## Open Production Questions
 
 - Exact Grenzburg damage, frames, inputs, growth curves, mastery rates, social probabilities, quest rewards, encounter balance, custom-build budget, and compatibility matrix.
-- Bespoke preparation thresholds, autonomous decisions, cross-companion support, and changed re-entry for Dismas and Zafir.
-- Full paired emotional rewrites for the remaining sixty-six companion pieces; Elara and Ashira's twenty-two are cleared.
+- Bespoke preparation thresholds, autonomous decisions, cross-companion support, and changed re-entry for Dismas.
+- Full paired emotional rewrites for the remaining forty-four companion pieces; Elara, Ashira, Bernard, and Zafir's forty-four are cleared.
 - Final allocation of the 90 origin, 72 background, 40 starting-vocation, and 16 advanced-vocation identity hooks reserved in [[Player Identity Reactivity Matrix]].
 - Final placement and scripting of the twenty-four minimum temperament-signal scenes and sixty-four player-companion chemistry variants.
 - Regional and district encounter-card rosters, cooldowns, persistence details, and postwar seasonal variants governed by [[World Simulation and Discovery Constitution]].

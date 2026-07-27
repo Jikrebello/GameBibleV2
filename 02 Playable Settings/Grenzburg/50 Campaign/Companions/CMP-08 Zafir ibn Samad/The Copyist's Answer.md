@@ -4,94 +4,204 @@ status: canon
 canon_level: local
 visibility: author-only
 era: ["Present Day"]
-region: ["Grenzburg"]
-culture: ["Ahl-e-Ahd", "Iqashari"]
-related_factions: ["Blackjack Corps"]
+region: ["Grenzburg", "Ledger Quays", "Grenzburg Underways"]
+culture: ["Ahl-e-Ahd", "Iqashari", "Fiorenzian", "Eclessian"]
+related_factions: ["Blackjack Corps", "Medori Bank"]
 appears_in: ["Grenzburg"]
 needs: []
-tags: [narrative-rewrite]
+tags: [game-ready]
 quest_class: companion
 act: act-2
 availability_window: ["Deep Winter", "Early Spring"]
 repeatability: one-shot
 cutoff_result: transforms
-world_state_outputs: ["zafir_binder_unlocked", "samira_status", "living_binding_doctrine", "zafir_relationship_commitment"]
-required_locations: ["Hall of Petitions", "Warlock Hall", "Chain House"]
-blocking_status: outlined
-architecture_status: pending-migration
+world_state_outputs: ["zafir_act2_chapter_resolved", "zafir_act2_result", "zafir_act2_finale_played", "zafir_direction", "zafir_personal_severance", "zafir_binder_unlocked", "zafir_relationship_commitment", "zafir_relationship_paths_closed", "samira_refusal_state", "samira_authorship_state", "living_person_instruments_state", "chain_house_anchor_state", "karel_apprenticeship_state"]
+reward_unlocks: ["Binder", "Shared relation practice", "Chosen Return", "Two Keys"]
+required_locations: ["Iron Ledger Counting-House", "Chain House", "Grenzburg Underways"]
+blocking_status: blocked
+architecture_status: migrated
 companion_content_role: act-finale
 companion_campaign_stage: act-2
 quest_owner: "Zafir ibn Samad"
-quest_sequence: 3
+quest_sequence: 6
 companion_id: "CMP-08"
 faction_line: ""
 faction_branch: ""
-emotional_rewrite_status: reframe
-dialogue_status: pending-rewrite
-remote_claim_status: pending-migration
-archetype_pressure: "Understanding becomes control: test whether Zafir preserves consent when an elegant system would work better without it."
-emotional_function: "Keep Samira's remote agency and the severance; give her independent aims beyond proving Zafir wrong without bringing her to Grenzburg"
-pleasure_beat: "Puzzles, models, exact tools, technical discovery, and the pleasure of a clean explanation."
-care_beat: "Zafir solves concrete problems while preserving each person's right to refuse, revise, or leave the plan."
-player_archetype_hooks: []
+chapter_id: ""
+main_sequence: 0
+story_gate: confrontation
+estimated_hours: 2.0
+gameplay_pillars: [investigation, dungeon, environmental-puzzle, combat, choice]
+required_states: ["zafir_act1_chapter_resolved", "zafir_act2_readiness_viable", "winter_strands_open"]
+optional_state_inputs: ["zafir_unwritten_siege_route", "zafir_chain_house_damage_map", "zafir_bellandi_custody_copy", "zafir_nonconscious_release_rehearsal", "karel_field_revision_recorded", "zafir_cord_end_secured"]
+field_experience_gate: []
+companion_required: "Zafir ibn Samad"
+duo_quest: true
+pause_points: ["Refusal Authenticated", "Anchor Vault Opened"]
+relationship_gate: "No relationship required; commitment requires Trusted approval and ethical personal completion"
+relationship_variant: ""
+preparation_inputs: ["zafir_unwritten_siege_route", "zafir_chain_house_damage_map", "zafir_bellandi_custody_copy", "zafir_nonconscious_release_rehearsal", "karel_field_revision_recorded"]
+preparation_threshold: "2 of 5"
+autonomous_deadline: "Ghor at the Gate"
+autonomous_resolution: "Zafir secures personal severance but preserves a supervised master method and publishes no participant-controlled release; Binder and relationships close."
+changed_reentry: "Severance Without Answer"
+ensemble_inputs: ["Bernard Valeon", "Ilyana Veshkar", "Tavio Meran"]
+identity_hooks: ["Scholarly", "Merchant/Craft", "Mystic/Religious", "Underworld"]
+encounter_deck: []
+persistence_scope: regional-milestone
+postgame_season: ""
+emotional_rewrite_status: cleared
+dialogue_status: approved
+remote_claim_status: compliant
+archetype_pressure: "Samira's answer gives Zafir the limits he must obey but none of the technical work he wants from her."
+emotional_function: "Make him earn freedom without using the former enslaved copyist as solution, audience, forgiveness, or reunion."
+pleasure_beat: "Enter a damaged anchor vault, distinguish live relations, and derive a clean severance through observable tests."
+care_beat: "Destroy useful living-person instruments and leave Samira's no-contact instruction intact."
+player_archetype_hooks: ["Cheerleader", "Tomboy", "Goth", "Bohemian", "Jock", "Nerd", "Rebel", "Goofball", "Grey"]
 ---
 # The Copyist's Answer
 
-## Role in the Arc
+## Premise
 
-This is Zafir ibn Samad's quest 3 of four. It is playable in Deep Winter and Early Spring. The current note remains an outline; its deep block must use the fixed player-plus-Zafir ibn Samad duo format in [[Companion Field Familiarity and Duo Quest Standard]].
+Bellandi receives [[Samira bint Nahal]]'s authenticated response to the Iqashari account. It contains no greeting and no counter-script.
 
-## Hook and Immediate Stake
+Her fixed terms are:
 
-Samira arrives under protected passage to testify about the instruments she copied and to demand the other cord anchors. She also carries proof that some clients still use Zafir's designs.
+1. do not contact her;
+2. recognize her authorship of the inversion;
+3. destroy every surviving living-person instrument in local custody;
+4. derive any personal severance without using unpublished work taken from her.
 
-Hear Samira without making her either a flawless liberator or a disposable villain, end Zafir's present bondage, and define ethical Binder practice.
+At the same time, siege damage opens the Chain House anchor vault. The local execution-end and copied instruments begin activating against clerks, prisoners, and rescue workers.
 
-## Player Actions
+## Staging
 
-Protect the hearing, decode client rolls, sever the inversion through coordinated consent, and stop an Iqashari agent from stealing both records and cord.
+With two Act II assets, the player attends authentication at the Iron Ledger Counting-House. Accepting the warning forms the fixed player-plus-Zafir duo.
 
-## Opposition and Pressure
+The docket states that missing the quest:
 
-Samira knowingly bound Zafir and refuses easy remorse; Zafir wants freedom before admitting ownership was wrong; Medori fears losing lawful custody.
+- permits later personal severance;
+- permanently closes Binder and Zafir's relationship paths for this playthrough;
+- resolves Samira's refusal without player alteration.
 
-## Information Paths
+## The Refusal
 
-Samira's copy rolls, Zafir's seals, and live cord anchors prove the system. Warlock Hall shows that non-conscious forms can be directed without binding persons.
+Bellandi verifies seals, chain of custody, and the limited authority of the instruction.
 
-Required understanding never rests on a single social check. Cultural, background, Insight, exploration, and companion observations alter clarity and cost rather than deciding whether the plot continues.
+Zafir reads the page twice.
 
-## Decision or Mastery Point
+> “She has omitted the construction.”
 
-Exchange mutual release, force one-sided severance, or let Zafir regain command over Samira. Only a path rejecting coerced persons unlocks Binder. Relationship commitment follows the severance.
+Bellandi answers:
 
-## Fail-Forward Results
+> “She has declined to work for you.”
 
-If an anchor is lost, a dangerous but playable field severance remains in quest four. If Samira flees, her records stay and she remains reachable through a caravan contact.
+The player may discuss legal force, technical consequence, or Zafir's reaction. No option asks Samira another question, pressures her through a courier, or interprets no contact as negotiation.
 
-Failed combat, stealth, or persuasion changes injuries, evidence, access, public trust, or the later encounter. It does not erase the companion line.
+Zafir must decide whether the public inventory says “unknown copyist,” “Samira bint Nahal, source,” or “Samira bint Nahal, author of the inversion.”
 
-## World-State Outputs
+### Pause Point: Refusal Authenticated
 
-- `zafir_binder_unlocked`
-- `samira_status`
-- `living_binding_doctrine`
-- `zafir_relationship_commitment`
+The quest may pause before entering Chain House. Samira's instruction does not change.
 
-## Seasonal Cutoff
+## The Damaged Chain House
 
-If left until the Muster Crisis, the confrontation occurs under emergency conditions: one evidence path closes, the relationship cannot commit until the issue is faced, and the final quest begins from a compromised state.
+The duo may enter by:
 
-## Rewards and Return Value
+- the public record stair;
+- the unwritten siege route;
+- a mapped underways inspection door.
 
-Unlocks Binder and commits the relationship only after freedom is no longer held as a reward between player and companion.
+Inside are:
 
-Completion grants a companion technique or field synergy, qualitative approval movement, and a concrete late-game or summer state. Exact numerical tuning remains provisional.
+- injured clerks pinned by relation lines;
+- non-conscious ward forms repeating evacuation orders;
+- a custody gallery where identity seals are locking the wrong people;
+- the anchor vault below the flooded record room.
+
+Every hazard displays its anchor, effect, and release through physical signs. All vocations can interact through levers, wedges, tools, carried releases, and ordinary combat. Specialized knowledge shortens diagnosis.
+
+## Three Separations
+
+The duo must separate:
+
+### Person from Form
+
+Cut copied identity marks from non-conscious ward patterns so the useful forms can be dismissed or retained without carrying person-control.
+
+### Custody from Command
+
+Bellandi's custody order allows possession and destruction. It does not authorize using the execution-end against Zafir for convenience.
+
+### Authorship from Possession
+
+Samira authored the inversion. Zafir may study what the court already disclosed, but he may not claim her unpublished method or make her refusal part of his own doctrine.
+
+## Deriving Severance
+
+The clean method uses four public inputs:
+
+- Zafir's original identity seal;
+- the local execution-end;
+- a non-conscious release rehearsal;
+- Karel's recorded proof that a deployed participant may revise a relation.
+
+It does not use a Samira counter-script.
+
+Three preparation assets make it possible to save every clerk, preserve legitimate non-conscious forms, destroy the living-person patterns, and sever Zafir. With fewer assets, one material objective must be lost. Four or five assets preserve one trapped clerk or one legitimate non-conscious form after a failed vault sequence.
+
+## Vault Conflict
+
+Chain House registrar **Otho Kelm** argues that the instruments should be retained as evidence and emergency tools. Koss separately requests the execution-end for field discipline.
+
+Neither controls the dungeon. Their pressure becomes a concrete choice at the vault:
+
+- destroy the living-person plates;
+- seal them under supervised custody;
+- hand one to Koss;
+- let Zafir retain a private copy.
+
+Kelm may obstruct, surrender, or be lawfully overruled. He is not Samira's agent.
+
+## Finale
+
+The damaged anchor activates the court's recorded kneel across the vault while floodwater reaches the lower rings.
+
+Zafir can free himself fastest by inverting the command onto a nearby clerk. The ethical method requires him to remain constrained while the player completes one ordinary release and Zafir cuts his own identity seal from the relation.
+
+White Flame, Warlock counters, physical breakage, Binder rehearsal, or environmental collapse can all contribute. No one build is mandatory.
+
+## Outcome
+
+**Ethical severance:** Zafir is free, Samira's authorship is recorded, living-person instruments are destroyed, and non-conscious Binder practice is preserved.
+
+**Personal severance only:** Zafir is free, but a master method or person-control pattern survives.
+
+**Supervised severance:** external authorities retain the dangerous method and limit Zafir's practice.
+
+**Failed severance:** the execution-end remains active; spring aftermath can free Zafir personally.
+
+Samira's refusal remains the same in every outcome.
+
+## Fail-Forward
+
+- Lost records leave physical anchor evidence.
+- A flooded chamber destroys both harmful and useful patterns.
+- A trapped clerk may be rescued through the public stair after the vault route closes.
+- Defeat lets Chain House crews seal the vault while Zafir remains bound.
+- An escaped copy creates a later local risk without making Samira responsible.
+
+## Rewards
+
+Personal ethical completion unlocks [[Binder]] for the current campaign and account and opens relationship commitment. It also unlocks [[Every Hand May Let Go]].
 
 ## Navigation
 
-- [[Zafir ibn Samad]]
-- [[Companion Constitution]]
+- [[Zafir Companion Campaign]]
+- [[The Inverted Surety]]
+- [[Samira bint Nahal]]
+- [[Claims-Factor Marco Bellandi]]
+- [[Binder]]
+- [[The Route That Wasn't There]]
+- [[Every Hand May Let Go]]
 - [[Narrative State Register]]
-- [[Quest and Content Architecture]]
-- [[Grenzburg MOC]]

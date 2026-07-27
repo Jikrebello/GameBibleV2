@@ -8,12 +8,11 @@ region: ["Iqashar"]
 culture: ["Ahl-e-Ahd", "Iqashari"]
 related_factions: ["Iqashari legal diaspora"]
 appears_in: ["Grenzburg"]
-needs:
-  - replace Zafir's protected-passage placeholder during the Bernard-Zafir paired rewrite
+needs: []
 aliases: []
-tags: [narrative-rewrite]
+tags: [game-ready]
 companion_id: ""
-sex: ""
+sex: woman
 vocation: ""
 recruitment_window: ""
 foil: ""
@@ -28,17 +27,26 @@ The legally enslaved copyist who learned Zafir ibn Samad's restraint notation, i
 
 ## Narrative Function
 
-Samira was wrong to bind Zafir and right that his humane terms still owned people. She seeks the destruction of surviving instruments, protected passage, and recognition as a jurist rather than his moral lesson.
+Samira was wrong to bind Zafir and right that his humane terms still owned people. She seeks destruction of surviving living-person instruments and recognition as the author of the inversion rather than as his moral lesson.
 
-Samira never enters the base-game worldspace. Her testimony, copied instruments, severance demands, refusals, and legal instructions reach Grenzburg through authenticated records, remote examination, agents, and [[Claims-Factor Marco Bellandi]].
+Samira never enters the base-game worldspace. Her fixed authenticated response reaches Grenzburg through [[Claims-Factor Marco Bellandi]].
+
+It requires:
+
+- no personal contact;
+- no counter-script supplied by her;
+- recognition of her authorship;
+- destruction of living-person instruments.
 
 ## Agency and Limits
 
-Samira bint Nahal has interests independent of [[Zafir ibn Samad]]. The player can protect, persuade, expose, defeat, or lose them as the relevant quest allows, but cannot convert them into proof that the companion is innocent.
+Samira bint Nahal has interests independent of [[Zafir ibn Samad]]. The player cannot persuade her, contact her, obtain forgiveness, or turn her refusal into proof that Zafir is innocent. Her instruction may be honored, violated, or materially frustrated in Grenzburg without changing what she said.
 
 ## Navigation
 
 - [[Zafir ibn Samad]]
+- [[The Inverted Surety]]
+- [[The Copyist's Answer]]
 - [[Companions MOC]]
 - [[Narrative State Register]]
 - [[Grenzburg MOC]]

@@ -17,6 +17,7 @@ vocation: ""
 recruitment_window: ""
 foil: "Bernard Valeon"
 relationship_theme: ""
+past_contact_mode: remote-only
 ---
 # Hospice-Mother Radena Vosk
 
@@ -40,7 +41,7 @@ Radena loves Bernard without calling him innocent. She was not present at Frosts
 - useful supervision from permanent childhood;
 - freely received property from secret possession.
 
-She refuses to travel to Grenzburg merely to deliver absolution. During [[Embers Without Excuse]], Matej carries a current letter in which she tells Bernard that returning to the order is possible but must not become another place to hide his choices.
+She refuses to travel to Grenzburg merely to deliver absolution. During [[Embers Without Excuse]], [[Claims-Factor Marco Bellandi]] authenticates a current letter in which she tells Bernard that returning to the order is possible but must not become another place to hide his choices.
 
 ## Agency and Limits
 

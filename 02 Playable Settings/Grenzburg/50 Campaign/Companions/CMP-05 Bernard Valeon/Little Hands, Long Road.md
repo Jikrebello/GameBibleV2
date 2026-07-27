@@ -9,7 +9,7 @@ culture: ["Folk", "Chapel-Folk", "Thalmyric"]
 related_factions: ["Bent Oak", "Lakewatch fishers", "Order of the Long Watch"]
 appears_in: ["Grenzburg"]
 needs: []
-tags: [narrative-rewrite]
+tags: [game-ready]
 quest_class: companion
 act: act-1
 availability_window: ["Open Autumn", "Early Winter"]
@@ -29,16 +29,17 @@ faction_line: ""
 faction_branch: ""
 chapter_id: ""
 main_sequence: 0
-story_gate: expedition
+story_gate: operation
 estimated_hours: 1.75
-gameplay_pillars: [exploration, teaching, tracking, rescue, creature-encounter]
+gameplay_pillars: [exploration, conversation, reconnaissance, rescue, survival]
 required_states: ["bernard_introduction_complete", "bernard_act1_readiness_viable"]
-optional_state_inputs: ["bernard_road_school_wagon_recovered", "bernard_longlake_route_secured", "bernard_service_injury_claim_supported", "bernard_pikehook_snare_line_mapped", "bernard_hunger_named_early", "lakewatch_trust", "folk_rank", "hunter_training", "longlake_travel_state"]
+optional_state_inputs: ["bernard_road_school_wagon_recovered", "bernard_longlake_route_secured", "bernard_service_injury_claim_supported", "bernard_pikehook_snare_line_mapped", "bernard_hunger_named_early", "chapel_folk_trust", "folk_rank_admitted", "longlake_passage_rule"]
 field_experience_gate: []
 companion_required: "Bernard Valeon"
 duo_quest: true
 pause_points: ["Reedmile Lesson Complete", "Children Sheltered"]
 relationship_gate: "No relationship required; no unresolved departure conflict"
+relationship_variant: ""
 preparation_inputs: ["bernard_road_school_wagon_recovered", "bernard_longlake_route_secured", "bernard_service_injury_claim_supported", "bernard_pikehook_snare_line_mapped", "bernard_hunger_named_early"]
 preparation_threshold: "2 of 5"
 autonomous_deadline: "The Last Convoy"
@@ -49,13 +50,14 @@ identity_hooks: []
 encounter_deck: []
 persistence_scope: regional-milestone
 postgame_season: ""
-emotional_rewrite_status: preserve
-dialogue_status: pending-rewrite
+emotional_rewrite_status: cleared
+dialogue_status: approved
+remote_claim_status: compliant
 archetype_pressure: "Warmth becomes evasion: test whether Bernard can remain funny and loving while accepting specific judgement."
 emotional_function: "Keep Mika, the children, wounded bear, and Bernard's unforced heroism"
 pleasure_beat: "Food, absurdity, road stories, children laughing, and companionship without ceremony."
 care_beat: "Bernard feeds, shelters, steadies, and tells the truth about what he takes or withholds."
-player_archetype_hooks: []
+player_archetype_hooks: ["Cheerleader", "Tomboy", "Goth", "Bohemian", "Jock", "Nerd", "Rebel", "Goofball", "Grey"]
 ---
 # Little Hands, Long Road
 

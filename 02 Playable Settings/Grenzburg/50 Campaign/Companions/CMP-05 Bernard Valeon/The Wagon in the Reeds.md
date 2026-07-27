@@ -9,7 +9,7 @@ culture: ["Chapel-Folk", "Eclessian", "Thalmyric"]
 related_factions: ["Blackjack Corps", "Bent Oak households"]
 appears_in: ["Grenzburg"]
 needs: []
-tags: [narrative-rewrite]
+tags: [game-ready]
 quest_class: companion
 act: act-1
 availability_window: ["Open Autumn", "Late Autumn"]
@@ -33,12 +33,13 @@ story_gate: preparation
 estimated_hours: 0.75
 gameplay_pillars: [exploration, rescue, pursuit, protection]
 required_states: ["bernard_introduction_complete"]
-optional_state_inputs: ["bernard_accountability_plan", "lakewatch_trust", "longlake_route_state", "road_bandit_pressure"]
+optional_state_inputs: ["bernard_accountability_plan", "chapel_folk_trust", "longlake_passage_rule", "reedknife_band_state"]
 field_experience_gate: []
 companion_required: "Bernard Valeon"
 duo_quest: false
 pause_points: ["Wagon Located"]
 relationship_gate: ""
+relationship_variant: ""
 preparation_inputs: []
 preparation_threshold: ""
 autonomous_deadline: "The Last Convoy"
@@ -49,13 +50,14 @@ identity_hooks: []
 encounter_deck: []
 persistence_scope: local-persistent
 postgame_season: ""
-emotional_rewrite_status: reframe
-dialogue_status: pending-rewrite
+emotional_rewrite_status: cleared
+dialogue_status: approved
+remote_claim_status: compliant
 archetype_pressure: "Warmth becomes evasion: test whether Bernard can remain funny and loving while accepting specific judgement."
 emotional_function: "Keep the school wagon and practical rescue; foreground Bernard's play, rapport with children, and fear when humor cannot solve the marsh"
 pleasure_beat: "Food, absurdity, road stories, children laughing, and companionship without ceremony."
 care_beat: "Bernard feeds, shelters, steadies, and tells the truth about what he takes or withholds."
-player_archetype_hooks: []
+player_archetype_hooks: ["Cheerleader", "Tomboy", "Goth", "Bohemian", "Jock", "Nerd", "Rebel", "Goofball", "Grey"]
 ---
 # The Wagon in the Reeds
 
@@ -64,6 +66,12 @@ player_archetype_hooks: []
 This is Bernard's short Act I operation. It prepares [[Little Hands, Long Road]] through practical recovery rather than another confession. The problem begins with ordinary bandit violence, a damaged road, and a driver who chose to protect people before cargo.
 
 The operation uses the normal field party. Bernard remains required, but other companions may help with tracking, defence, repair, and evacuation.
+
+Bernard begins in his easiest register. He gives the returned mule a military title, invents three increasingly implausible reasons for a school wagon to be late, and makes Oda's youngest helpers laugh while the adults prepare.
+
+At the cut trace he stops. The leather is stained where Elsa kept driving after the first bolt struck. Bernard does not offer a fourth story.
+
+> “Someone was buying time. We ought not spend it admiring the joke.”
 
 ## Hook and Immediate Stake
 
@@ -121,6 +129,8 @@ The party may:
 - frighten, capture, or kill bandits who continue armed resistance.
 
 Bernard prioritizes Elsa and the passengers. He does not demand that the player abandon recoverable supplies after the people are secure.
+
+If a frightened passenger asks whether they are safe, Bernard does not promise it. He gives the passenger the refuge bell striker and says exactly what signal to sound if the reeds move. His humor returns only after the passenger completes the job.
 
 ## End: Hauling from the Reeds
 

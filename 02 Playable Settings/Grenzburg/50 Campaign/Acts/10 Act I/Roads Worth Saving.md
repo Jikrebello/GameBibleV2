@@ -16,7 +16,7 @@ act: act-1
 availability_window: ["Open Autumn"]
 repeatability: one-shot
 cutoff_result: transforms
-world_state_outputs: ["autumn_operations_completed", "autumn_road_support", "southwood_early_warning", "elara_southwood_route_intelligence", "bernard_longlake_route_secured"]
+world_state_outputs: ["autumn_operations_completed", "autumn_road_support", "southwood_early_warning", "elara_southwood_route_intelligence", "bernard_longlake_route_secured", "zafir_ferry_custody_precedent"]
 required_locations: ["Three Mills Reach", "Lakewatch", "Timberfalls", "Highlake", "Grey-Withy Crossing", "Ashfield Lodge"]
 blocking_status: blocked
 quest_owner: "Grenzburg Main Campaign"
@@ -124,6 +124,8 @@ Every companion has at least one relevant operation, but none is mandatory. Dism
 If [[Elara Velescar]] accompanies **The Quiet Antlers**, she distinguishes abandoned hunter movement from old clandestine survey cuts and records a stable route between Ashfield Track and the Seven Mounds approaches. Completing the field reading produces `elara_southwood_route_intelligence` for [[A House Fed by Bones]]. The operation remains fully solvable without her.
 
 If [[Bernard Valeon]] accompanies the Longlake operation, he establishes a casualty stop, verifies refuge bells, and leaves the route households with a witnessed property-and-injury procedure. Completing that work produces `bernard_longlake_route_secured` for [[Little Hands, Long Road]]. The operation remains fully solvable without him.
+
+If [[Zafir ibn Samad]] accompanies **The Lake Road Still Runs**, a ducal patrol proposes taking custody of the ferry tackle until the crossing is secure. Zafir can make the restraint exact, but the ferrymen identify the missing condition: who decides that the emergency has ended and gets the equipment back. Recording a household-controlled return produces `zafir_ferry_custody_precedent`. Refusing it pressures `zafir_direction` toward mastering without blocking the crossing.
 
 ## Faction Advantages
 

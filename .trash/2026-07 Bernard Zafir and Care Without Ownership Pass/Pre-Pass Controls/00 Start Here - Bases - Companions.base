@@ -1,0 +1,250 @@
+filters:
+  and:
+    - '!file.inFolder("90 Archive & Drafts")'
+    - '!file.inFolder("99 Templates")'
+    - 'appears_in.contains("Grenzburg")'
+    - 'companion_id != ""'
+properties:
+  companion_id:
+    displayName: ID
+  sex:
+    displayName: Sex
+  vocation:
+    displayName: Vocation
+  recruitment_window:
+    displayName: Recruitment
+  foil:
+    displayName: Foil
+  relationship_theme:
+    displayName: Relationship Theme
+  archetype:
+    displayName: Archetype
+  voice_status:
+    displayName: Voice
+  emotional_rewrite_status:
+    displayName: Emotional Rewrite
+  dialogue_status:
+    displayName: Dialogue
+  archetype_pressure:
+    displayName: Archetype Pressure
+  emotional_function:
+    displayName: Emotional Function
+  pleasure_beat:
+    displayName: Pleasure Beat
+  care_beat:
+    displayName: Care Beat
+  player_archetype_hooks:
+    displayName: Player Archetype Hooks
+  remote_claim_anchor:
+    displayName: Remote Claim Anchor
+  past_contact_mode:
+    displayName: Past Contact Mode
+  debt_manager:
+    displayName: Debt Manager
+  legal_debt_state_key:
+    displayName: Legal Debt State
+  remote_claim_status:
+    displayName: Remote Claim Status
+  quest_owner:
+    displayName: Quest Owner
+  quest_sequence:
+    displayName: Sequence
+  availability_window:
+    displayName: Window
+  blocking_status:
+    displayName: Blocking
+  reward_unlocks:
+    displayName: Rewards
+  architecture_status:
+    displayName: Architecture
+  companion_content_role:
+    displayName: Content Role
+  relationship_variant:
+    displayName: Relationship Variant
+  relationship_gate:
+    displayName: Relationship Gate
+  companion_campaign_stage:
+    displayName: Campaign Stage
+  preparation_threshold:
+    displayName: Preparation
+  preparation_inputs:
+    displayName: Preparation Assets
+  estimated_hours:
+    displayName: Hours
+  field_experience_gate:
+    displayName: Familiarity Gate
+  duo_quest:
+    displayName: Duo Format
+  autonomous_deadline:
+    displayName: Deadline
+  autonomous_resolution:
+    displayName: Autonomous Route
+  changed_reentry:
+    displayName: Re-entry
+  ensemble_inputs:
+    displayName: Ensemble Inputs
+  world_state_outputs:
+    displayName: State Outputs
+views:
+  - type: table
+    name: Companion Roster
+    filters: 'type == "character"'
+    order:
+      - companion_id
+      - file.name
+      - sex
+      - vocation
+      - recruitment_window
+      - archetype
+      - voice_status
+      - emotional_rewrite_status
+      - remote_claim_anchor
+      - past_contact_mode
+      - debt_manager
+      - foil
+      - relationship_theme
+    sort:
+      - property: companion_id
+        direction: ASC
+  - type: table
+    name: Existing Quest Sources
+    filters: 'quest_class == "companion"'
+    groupBy:
+      property: note.quest_owner
+      direction: ASC
+    order:
+      - companion_id
+      - quest_sequence
+      - file.name
+      - companion_content_role
+      - relationship_variant
+      - companion_campaign_stage
+      - availability_window
+      - architecture_status
+      - blocking_status
+      - emotional_rewrite_status
+      - dialogue_status
+      - remote_claim_status
+      - emotional_function
+    sort:
+      - property: companion_id
+        direction: ASC
+      - property: quest_sequence
+        direction: ASC
+  - type: table
+    name: Migrated Campaign Pieces
+    filters:
+      and:
+        - 'quest_class == "companion"'
+        - 'architecture_status == "migrated"'
+        - 'remote_claim_status != "pending-migration"'
+    groupBy:
+      property: note.quest_owner
+      direction: ASC
+    order:
+      - companion_id
+      - quest_sequence
+      - file.name
+      - companion_content_role
+      - relationship_variant
+      - companion_campaign_stage
+      - duo_quest
+      - field_experience_gate
+      - availability_window
+      - estimated_hours
+      - preparation_threshold
+      - preparation_inputs
+      - reward_unlocks
+      - autonomous_deadline
+      - changed_reentry
+      - blocking_status
+      - emotional_rewrite_status
+      - dialogue_status
+      - remote_claim_status
+    sort:
+      - property: companion_id
+        direction: ASC
+      - property: quest_sequence
+        direction: ASC
+  - type: table
+    name: Architecture Migration
+    filters:
+      and:
+        - 'quest_class == "companion"'
+        - 'architecture_status == "pending-migration"'
+    groupBy:
+      property: note.quest_owner
+      direction: ASC
+    order:
+      - companion_id
+      - quest_sequence
+      - file.name
+      - companion_content_role
+      - relationship_variant
+      - companion_campaign_stage
+      - preparation_threshold
+      - autonomous_deadline
+      - changed_reentry
+    sort:
+      - property: companion_id
+        direction: ASC
+      - property: quest_sequence
+        direction: ASC
+  - type: table
+    name: Relationship Episodes
+    filters:
+      and:
+        - 'quest_class == "companion"'
+        - 'companion_content_role == "relationship"'
+        - 'architecture_status == "migrated"'
+    groupBy:
+      property: note.quest_owner
+      direction: ASC
+    order:
+      - companion_id
+      - file.name
+      - relationship_variant
+      - relationship_gate
+      - availability_window
+      - reward_unlocks
+      - world_state_outputs
+      - blocking_status
+      - emotional_rewrite_status
+      - dialogue_status
+      - remote_claim_status
+    sort:
+      - property: companion_id
+        direction: ASC
+      - property: relationship_variant
+        direction: ASC
+  - type: table
+    name: Emotional Rewrite Queue
+    filters:
+      and:
+        - 'quest_class == "companion"'
+        - or:
+            - 'emotional_rewrite_status == "reframe"'
+            - 'emotional_rewrite_status == "replace"'
+            - 'dialogue_status != "approved"'
+            - 'remote_claim_status == "pending-migration"'
+    groupBy:
+      property: note.quest_owner
+      direction: ASC
+    order:
+      - companion_id
+      - quest_sequence
+      - file.name
+      - emotional_rewrite_status
+      - dialogue_status
+      - archetype_pressure
+      - emotional_function
+      - pleasure_beat
+      - care_beat
+      - player_archetype_hooks
+      - remote_claim_status
+      - blocking_status
+    sort:
+      - property: companion_id
+        direction: ASC
+      - property: quest_sequence
+        direction: ASC

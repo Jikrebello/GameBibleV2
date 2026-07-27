@@ -19,7 +19,7 @@ recruitment_window: "Early Autumn"
 home_base: "Blackjack Yard"
 foil: "Bernard Valeon"
 relationship_theme: "freedom without ownership"
-relationship_perks: []
+relationship_perks: ["Still Worth Knowing", "Peer's Objection"]
 archetype: "Nerd"
 archetype_desire: "worth through systems mastery and exact understanding"
 archetype_currency: "solving what others cannot and being correct for demonstrable reasons"
@@ -33,7 +33,8 @@ debt_manager: "Claims-Factor Marco Bellandi"
 legal_debt_state_key: "zafir_legal_debt_state"
 voice_status: calibrated
 emotional_rewrite_status: bible-locked
-architecture_status: pending-migration
+architecture_status: migrated
+remote_claim_status: compliant
 ---
 # Zafir ibn Samad
 
@@ -217,6 +218,12 @@ His voice obeys [[Companion Dialogue and Scene Standard]].
 
 [[Quartermaster Brina Kest|Brina Kest]] uses Zafir to make contracts and inventories legible to debtors. She refuses any system whose success depends upon workers being too tired to exercise their rights.
 
+### Karel Reed-Hand
+
+[[Karel Reed-Hand]] voluntarily studies relation craft with Zafir and records mechanisms in charcoal and cord. Karel's field questions delight Zafir until they alter the design rather than merely illustrating it.
+
+Their apprenticeship has written exit terms. Karel may refuse, revise, leave, or become a peer. Zafir's resolved future requires that those terms remain real after deployment and disagreement.
+
 ### Ordinary Petitioners
 
 Zafir becomes an unofficial reader of letters, terms, and technical notices. Some people want explanation. Others want him to stop explaining and help move the stove.
@@ -277,7 +284,7 @@ He opposes:
 
 ## Companion Campaign Direction
 
-[[Companion Emotional Rewrite Audit]] preserves the cord, Samira, and final severance while replacing the most abstract legal set pieces.
+[[Zafir Companion Campaign]] controls the completed eleven-piece line.
 
 The rebuilt eleven-piece line must move through:
 
@@ -286,7 +293,7 @@ The rebuilt eleven-piece line must move through:
 3. a field adventure where human choice changes the physical system;
 4. friendship through a puzzle, model, or invention with no practical necessity;
 5. siege logistics improved by imperfect improvisation;
-6. Samira exercising independent aims, culpability, and knowledge through remote legal action rather than arriving to complete Zafir's story;
+6. Samira exercising independent aims through an authenticated refusal that supplies no technical solution;
 7. relationship episodes where he is known beyond usefulness;
 8. a voluntary Binder network whose participants can alter the plan;
 9. a final temptation to use perfect emergency command once.
@@ -321,7 +328,7 @@ Their friendship works when:
 ## Seasonal Movement
 
 - **Autumn:** dazzles through expertise and discovers the person omitted from an elegant solution.
-- **Winter:** faces Samira and whether freedom can be engineered by the former owner.
+- **Winter:** faces Samira's refusal and whether freedom can be engineered by the former owner.
 - **Spring:** builds or seizes a command relation under existential pressure.
 - **Summer:** becomes an ethical Binder teacher, supervised technician, renewed master, or returning defendant according to play.
 
@@ -330,8 +337,16 @@ He cannot die autonomously.
 ## Navigation
 
 - [[The Cord Returned]]
+- [[The Fifth Crossing]]
+- [[The Ninth Lever]]
 - [[The Copyist's Answer]]
 - [[All Cords Cut Clean]]
+- [[Zafir Companion Campaign]]
+- [[Zafir Field Familiarity and Relationships]]
+- [[Zafir Cord Jurist Package]]
+- [[The Inverted Surety]]
+- [[The Open-Cord Circle]]
+- [[Karel Reed-Hand]]
 - [[Zafir Banter and Reactivity]]
 - [[Binder]]
 - [[Companion Archetype Constitution]]

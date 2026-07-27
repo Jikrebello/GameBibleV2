@@ -62,7 +62,7 @@ He responds negatively to:
 
 ### Act II
 
-[[Four Fires]] opens during the winter siege. [[Embers Without Excuse]] becomes joinable when two of its five Act II assets are held. The quest itself is not relationship-gated, but commitment requires **Trusted** approval and personal completion.
+[[The Long Winter Table]] opens during the winter siege. [[Embers Without Excuse]] becomes joinable when two of its five Act II assets are held. The quest itself is not relationship-gated, but commitment requires **Trusted** approval and personal completion.
 
 Commitment to [[Ghor at the Gate]] resolves the chapter autonomously. The transition docket states plainly that missing the finale permanently forfeits the player [[Paladin]] unlock, romance, sworn bond, and the finale's player rewards for that playthrough. **Embers After Snow** permits changed restitution but cannot recreate those rewards.
 

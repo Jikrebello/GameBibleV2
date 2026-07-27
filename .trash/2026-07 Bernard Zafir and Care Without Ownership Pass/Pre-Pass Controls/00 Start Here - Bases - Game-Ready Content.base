@@ -1,0 +1,47 @@
+filters:
+  and:
+    - '!file.inFolder("90 Archive & Drafts")'
+    - '!file.inFolder("99 Templates")'
+    - status == "canon"
+    - or:
+        - 'quest_class != "companion"'
+        - and:
+            - 'emotional_rewrite_status == "cleared"'
+            - 'dialogue_status == "approved"'
+            - 'remote_claim_status != "pending-migration"'
+    - or:
+        - appears_in.contains("Grenzburg")
+        - appears_in.contains("Caleran")
+        - type == "quest"
+        - type == "mechanic"
+        - type == "place"
+properties:
+  type:
+    displayName: Type
+  status:
+    displayName: Status
+  appears_in:
+    displayName: Appears In
+  region:
+    displayName: Region
+  needs:
+    displayName: Needs
+  emotional_rewrite_status:
+    displayName: Emotional Rewrite
+  dialogue_status:
+    displayName: Dialogue
+  remote_claim_status:
+    displayName: Remote Claim Status
+views:
+  - type: table
+    name: Game-Ready Content
+    order:
+      - file.name
+      - type
+      - status
+      - appears_in
+      - region
+      - needs
+      - emotional_rewrite_status
+      - dialogue_status
+      - remote_claim_status

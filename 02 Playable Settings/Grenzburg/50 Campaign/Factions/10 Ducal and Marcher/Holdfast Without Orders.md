@@ -15,7 +15,7 @@ act: act-1
 availability_window: ["Late Autumn"]
 repeatability: one-shot
 cutoff_result: transforms
-world_state_outputs: ["tann_holdfast_survivors", "seed_grain_state", "field_initiative_precedent", "tavio_workers_stop_authority"]
+world_state_outputs: ["tann_holdfast_survivors", "seed_grain_state", "field_initiative_precedent", "tavio_workers_stop_authority", "zafir_worker_stop_authority"]
 required_locations: ["Fort Tannbruck", "Tann Crossing Farms", "Upper Grenz Military Road"]
 blocking_status: outlined
 quest_owner: "Ducal and Marcher Service"
@@ -60,6 +60,12 @@ With [[Tavio Meran]] present, the holdfast's lifting brace begins carrying more 
 
 Tavio can identify the real threshold, but the player must decide who may call the halt. Recording local stop authority supplies `tavio_workers_stop_authority` for [[Proof Under Load]]. Every vocation retains an ordinary route through unloading, shoring, rerouting, or abandoning the frame.
 
+## Zafir Embedded Opportunity
+
+With [[Zafir ibn Samad]] present, the same withdrawal plan can use prepared release rings to move the village's carts through the failing gate. The officer asks Zafir for one master release. The carters instead propose a ring on every team and the right to alter the sequence as loads change.
+
+Giving the users their own halt and release authority supplies `zafir_worker_stop_authority` for [[The Ninth Lever]]. A central master key may still save the immediate convoy, but it pressures Zafir toward procedural or mastering conduct. Ordinary signals, wedges, and manual releases keep the quest viable without him.
+
 ## Fail-Forward Results
 
 If the holdfast falls, survivors break out through farm drains. Lost stores strengthen one winter siege position but do not fail the line.
@@ -78,6 +84,7 @@ The warning screen names affected quests, leaders, services, and political-settl
 - `seed_grain_state`
 - `field_initiative_precedent`
 - `tavio_workers_stop_authority` when local halt authority is recorded
+- `zafir_worker_stop_authority` when the people operating a deployed relation retain their own halt and release
 
 ## Rewards and Return Value
 
@@ -92,6 +99,7 @@ At the next season gate, unresolved work transforms into a named institutional r
 ## Navigation
 
 - [[Ducal and Marcher Service]]
+- [[Zafir Companion Campaign]]
 - [[Faction Questlines MOC]]
 - [[Factions Overview]]
 - [[Narrative State Register]]
