@@ -149,7 +149,7 @@ Embedded opportunities: 10 blocked through [[Bernard Companion Campaign]] and [[
 
 | ID | Role | Content | Status |
 |---|---|---|---|
-| CMP-06-I | introduction | [[The Sound of Falling Stone]] | pending migration |
+| CMP-06-I | introduction | [[The Decorative Fence]] | pending migration |
 | CMP-06-A1-O | Act I operation | untitled | reserved |
 | CMP-06-A1-F | Act I finale | [[The Easy Ambush]] | pending migration |
 | CMP-06-A2-O | Act II operation | untitled | reserved |

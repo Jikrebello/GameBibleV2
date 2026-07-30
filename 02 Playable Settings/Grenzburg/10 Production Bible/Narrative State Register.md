@@ -168,6 +168,13 @@ Duplicate implementation keys across these authorities are prohibited unless one
 | `ylva_legal_debt_state` | legal debt | Ylva Winter-Track | 0-5 | [[Companion Debt and Remote Claims Standard]] |
 | `ashira_legal_debt_state` | legal debt | Ashira bath Melan | 0-5 | [[Companion Debt and Remote Claims Standard]] |
 | `bernard_legal_debt_state` | legal debt | Bernard Valeon | 0-5 | [[Companion Debt and Remote Claims Standard]] |
+| `dismas_counting_heard` | companion | Dismas Raben | 1 | [[The Easy Ambush]] |
+| `dismas_charge_filed_state` | companion milestone | Dismas Raben | 3 | [[The Name on the Charge]] — filed / sealed / paid / buried |
+| `sella_etten_response` | remote claim | Dismas Raben | 3 | [[Sella Etten]] — **fixed by the filing; unreachable, unpersuadable** |
+| `cofounder_offer_state` | companion | Dismas Raben | 3 | [[The Stonefall Papers]] — accepting maps to `gone` |
+| `reprisal_family_state` | local | Dismas Raben | 1 | [[The Lask Household]] |
+| `dismas_deck_state` | companion | Dismas Raben | 4 | [[Passing Through Slowly]] — complete / short |
+| `guide_network_state` | regional | Dismas Raben | 4 | [[Tuesday]] — chartered / founder-held / fractured |
 | `dismas_legal_debt_state` | legal debt | Dismas Raben | 0-5 | [[Companion Debt and Remote Claims Standard]] |
 | `tavio_legal_debt_state` | legal debt | Tavio Meran | 0-5 | [[Companion Debt and Remote Claims Standard]] |
 | `zafir_legal_debt_state` | legal debt | Zafir ibn Samad | 0-5 | [[Companion Debt and Remote Claims Standard]] |
@@ -315,9 +322,9 @@ Duplicate implementation keys across these authorities are prohibited unless one
 | `bernard_summer_destination` | companion | Bernard Valeon | 9 | [[The Open Hospice]] |
 | `bernard_summer_coda` | companion | Bernard Valeon | 10 | [[Grace]] |
 | `first_open_table_state` | companion | Bernard Valeon | 10 | [[Grace]] |
-| `dismas_old_crime_named` | companion | Dismas Raben | 1 | [[The Sound of Falling Stone]] |
-| `dismas_rescue_response` | companion | Dismas Raben | 1 | [[The Sound of Falling Stone]] |
-| `quarry_workers_state` | companion | Dismas Raben | 1 | [[The Sound of Falling Stone]] |
+| `dismas_old_crime_named` | companion | Dismas Raben | 1 | [[The Decorative Fence]] |
+| `dismas_rescue_response` | companion | Dismas Raben | 1 | [[The Decorative Fence]] |
+| `quarry_workers_state` | companion | Dismas Raben | 1 | [[The Decorative Fence]] |
 | `dismas_ambush_doctrine` | companion | Dismas Raben | 2 | [[The Easy Ambush]] |
 | `ravine_civilian_state` | companion | Dismas Raben | 2 | [[The Easy Ambush]] |
 | `winter_medicine_state` | companion | Dismas Raben | 2 | [[The Easy Ambush]] |

@@ -109,6 +109,44 @@ The player wakes during the second night and finds him there again.
 
 He means the ceremony, not the return.
 
+### Containment — The kind trap
+
+Brina has painted his name on the route board and given him the bunk by the gate as a permanence rather than a habit.
+
+**Brina:** “It's yours. Nobody else takes it.”
+
+**Dismas:** “Right. Good. That is — yes.”
+
+He moves his bedroll three times that week, each time somewhere worse, and cannot say why to anyone including himself. On the eighth night it is back under the old bunk and he acts as though it never left.
+
+### The joke at the wrong moment (Lovable Rogue)
+
+Anke Lask is explaining what the licence review will cost her family.
+
+**Dismas:** “I have seen worse queues. There was a toll house in Korrheim where a man—”
+
+*(She waits.)*
+
+*(He hears himself.)*
+
+**Dismas:** “...What day is the hearing.”
+
+The recovery is the character. The joke arriving at all is the shadow.
+
+### Peace — Nothing is wrong
+
+Spring. The network's fee book balances. Two guides have stopped speaking to each other over eleven miles of road.
+
+**Dismas:** “I could go and look at the fen.”
+
+**Player:** “Is something wrong with the fen?”
+
+**Dismas:** “No.”
+
+*(A while.)*
+
+**Dismas:** “That is rather my difficulty.”
+
 ## Company-Life Voice Samples
 
 Dismas studies a swollen cellar door.
@@ -169,7 +207,11 @@ Reject any Dismas line that:
 - treats every lawful institution as equally corrupt;
 - makes escape intrinsically mature;
 - converts charisma into constant sarcasm;
-- resolves his story by placing him obediently beneath a good commander.
+- resolves his story by placing him obediently beneath a good commander;
+- **says the door was open.** The exits are shown, never named. No character remarks that he could have left;
+- **explains Sella Etten,** speaks for her, or interprets her silence. Her instruction is her whole answer;
+- **makes the lawful route secretly futile.** When [[Mette Harrow]] is right, she is right on the merits;
+- **treats the count as therapy.** He finishes it once. Nobody praises him for it and nobody calls it healing.
 
 ## Navigation
 

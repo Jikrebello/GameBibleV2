@@ -107,7 +107,7 @@ Every companion except Dismas has eleven authored pieces carrying `architecture_
 | CMP-05-8 | [[Beds Before Banners]] | [[Bernard Valeon]] | act-3 | Early Spring, Open Spring | blocked |
 | CMP-05-9 | [[The Open Hospice]] | [[Bernard Valeon]] | act-3 | Early Spring, Open Spring, Muster Crisis | blocked |
 | CMP-05-10 | [[Grace]] | [[Bernard Valeon]] | summer | Playable Summer | blocked |
-| CMP-06-1 | [[The Sound of Falling Stone]] | [[Dismas Raben]] | act-1 | Early Autumn, Open Autumn | outlined |
+| CMP-06-1 | [[The Decorative Fence]] | [[Dismas Raben]] | act-1 | Early Autumn, Open Autumn | outlined |
 | CMP-06-2 | [[The Easy Ambush]] | [[Dismas Raben]] | act-1 | Open Autumn, Early Winter | outlined |
 | CMP-06-3 | [[The Name on the Charge]] | [[Dismas Raben]] | act-2 | Deep Winter, Early Spring | outlined |
 | CMP-06-4 | [[The Road That Answers]] | [[Dismas Raben]] | act-3 | Early Spring, Muster Crisis | outlined |

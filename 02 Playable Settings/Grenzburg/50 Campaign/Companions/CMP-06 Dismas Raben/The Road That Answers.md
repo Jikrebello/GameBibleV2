@@ -1,96 +1,150 @@
 ---
 type: quest
-status: canon
+status: draft
 canon_level: local
 visibility: author-only
 era: ["Present Day"]
-region: ["Grenzburg"]
+region: ["Grenzburg", "Frostfenn March", "Grenz Lowlands"]
 culture: ["Eclessian", "Korrheim"]
-related_factions: ["Blackjack Corps"]
+related_factions: ["Blackjack Corps", "Ducal Marcher Service", "Unending Muster"]
 appears_in: ["Grenzburg"]
 needs: []
 tags: [narrative-rewrite]
 quest_class: companion
 act: act-3
-availability_window: ["Early Spring", "Muster Crisis"]
+availability_window: ["Spring Reclamation", "Muster Crisis"]
 repeatability: one-shot
 cutoff_result: resolves-offscreen
-world_state_outputs: ["dismas_arc_outcome", "three_horn_evacuated", "marcher_scout_service", "dismas_summer_destination"]
-required_locations: ["Three Horn Depot", "Fenn Road", "Fenn Road Exchange"]
-blocking_status: outlined
-architecture_status: pending-migration
+world_state_outputs: ["dismas_act3_chapter_resolved", "dismas_act3_result", "dismas_arc_outcome", "dismas_sacrifice_state", "dismas_future_path", "three_horn_evacuated", "dismas_relationship_perk", "dismas_summer_destination"]
+reward_unlocks: ["No One Behind", "Quarry-Wise blueprint", "No Escape Route", "No Blind Turn"]
+required_locations: ["Three Horn Depot", "Fenn Road", "White Fen", "Fenn Road Exchange"]
+blocking_status: blocked
+architecture_status: migrated
 companion_content_role: act-finale
 companion_campaign_stage: act-3
 quest_owner: "Dismas Raben"
-quest_sequence: 4
+quest_sequence: 9
 companion_id: "CMP-06"
-faction_line: ""
-faction_branch: ""
-emotional_rewrite_status: reframe
+main_sequence: 0
+story_gate: finale
+relationship_variant: ""
+preparation_inputs: ["dismas_guide_network_charter", "dismas_fen_route_marked", "dismas_local_guides_trained", "dismas_depot_manifest_read", "dismas_residue_pattern_sampled"]
+preparation_threshold: "2 participate; 3 all material objectives; 4 one safeguard"
+encounter_deck: []
+postgame_season: ""
+estimated_hours: 2.0
+gameplay_pillars: [evacuation, traversal, defence, sabotage, closure]
+required_states: ["dismas_act2_chapter_resolved", "dismas_act3_readiness_viable", "muster_known"]
+optional_state_inputs: ["dismas_return_leg_practiced", "dismas_missing_queen_given", "guide_network_state", "dismas_charge_filed_state", "reprisal_family_state"]
+companion_required: "Dismas Raben"
+duo_quest: true
+pause_points: ["First Group Away", "Depot Cleared"]
+autonomous_deadline: "The Deep Muster"
+autonomous_resolution: "He secures the military withdrawal. The civilians reach Fenn Road Exchange late and lighter, two are lost on the fen track, and he takes a sealed specialist commission."
+changed_reentry: "Passing Through Slowly reflects the fixed settlement"
+ensemble_inputs: ["Ylva Winter-Track", "Bernard Valeon", "Ilyana Veshkar"]
+identity_hooks: ["Military", "Wilderness", "Peasant/Labour", "Underworld"]
+emotional_rewrite_status: cleared
 dialogue_status: pending-rewrite
-archetype_pressure: "Refusal becomes abandonment: test whether Dismas returns for the aftermath without treating commitment as captivity."
-emotional_function: "Keep the dead-march evacuation; replace institutional domestication with an independent commitment he must repeatedly renew"
-pleasure_beat: "Forbidden routes, irreverence, speed, audacious shortcuts, and puncturing pompous authority."
-care_beat: "Dismas returns for consequences, does the unglamorous cleanup, and gives others a real choice."
-player_archetype_hooks: []
+remote_claim_status: compliant
+archetype_pressure: "Three legs, three sincere exits. Nothing contains him and nothing can make him stay."
+emotional_function: "Resolve him through repetition — a road chosen three times, uncoerced."
+pleasure_beat: "Fen craft, a road pattern spoiled rather than fought, and guides he trained leading groups he cannot see."
+care_beat: "He is the last one out, three times, because he decided to be."
+player_archetype_hooks: ["Cheerleader", "Tomboy", "Goth", "Bohemian", "Jock", "Nerd", "Rebel", "Goofball", "Grey"]
+persistence_scope: regional-milestone
 ---
 # The Road That Answers
 
-## Role in the Arc
+## Quest Function
 
-This is Dismas Raben's quest 4 of four. It is playable in Early Spring and Muster Crisis. The current note remains an outline; its deep block must use the fixed player-plus-Dismas Raben duo format in [[Companion Field Familiarity and Duo Quest Standard]].
+Dismas's Act III finale, built out from outline. A dead-march column cuts the Fenn Road and traps civilians at Three Horn Depot.
 
-## Hook and Immediate Stake
+**The finale never contains him.** Three legs, three sincere and takeable exits, and a resolved outcome that is not obedience but repetition: *a road chosen twice*, scaled to thrice.
 
-A dead-march column cuts off civilians at Three Horn Depot. Dismas can secure the military withdrawal immediately or remain to guide a slower civilian route through the fen.
+## Premise
 
-Make a road answer for the people on it, not merely for the force strong enough to hold it.
+A residue column following old replacement orders is moving up the Fenn Road toward Tannward and will pass within reach of Three Horn Depot, where a spring convoy has stopped: eleven carts, forty-one civilians, nine wounded marchers, a depot clerk, and a manifest nobody has read.
 
-## Player Actions
+The military lane is short, hard, and defensible. The civilian route is the fen track — slower, wetter, and impossible to hold.
 
-Scout three exits, train local guides, sabotage the residue column's road pattern, and lead the selected groups through weather and pursuit.
+## Party and Preparation
 
-## Opposition and Pressure
+Accepting forms the fixed player-plus-Dismas duo. Trained guides, evacuees, and marchers are temporary NPCs.
 
-The dead follow command routes without souls or intent. Officers demand the short military lane, civilians panic, and Dismas recognizes a perfect chance to leave responsibility behind.
+| Asset | Concrete advantage |
+|---|---|
+| `dismas_guide_network_charter` | the network functions as an institution, and guides act without waiting for him |
+| `dismas_fen_route_marked` | a third exit exists, marked in his own notation |
+| `dismas_local_guides_trained` | somebody else can lead a group out |
+| `dismas_depot_manifest_read` | civilian numbers are known before the column arrives, not counted during it |
+| `dismas_residue_pattern_sampled` | the column's road-logic can be spoiled rather than fought |
 
-## Information Paths
+Two permit the operation. Three make all three groups, the depot stores, and the pattern-spoiling achievable. Four or five add one safeguard, as does either relationship safeguard (equal, exclusive, non-stacking).
 
-Depot manifests, Ash Road markers, and fen smoke reveal the viable lanes. Prior road decisions determine available scouts and supplies.
+## The Three Legs
 
-Required understanding never rests on a single social check. Cultural, background, Insight, exploration, and companion observations alter clarity and cost rather than deciding whether the plot continues.
+The evacuation runs in three movements, and **each ends with an authored, sincere, genuinely takeable exit.** Not a trick, not a test, and never punished by the interface.
 
-## Decision or Mastery Point
+### Leg One — the fast walkers
 
-Accept public marcher service and remain with the last group, take a sealed specialist commission, flee under cover of the battle, or make an explicit sacrifice after all routes fail.
+Thirty-one people who can move, out along the fen track behind a guide.
 
-## Fail-Forward Results
+**The exit:** Pierre's officer offers Dismas a *sealed specialist commission* on the spot — rank, pay, a road brief, and a lawful reason to be with the military column instead of the fen. It is a good offer, honestly meant, and it would make him a scout of the Duchy by nightfall.
 
-A lost route causes displacement and casualties but survivors reach Fenn Road Exchange. A failed sabotage makes the final escort a moving battle rather than ending it.
+### Leg Two — the wounded and the slow
 
-Failed combat, stealth, or persuasion changes injuries, evidence, access, public trust, or the later encounter. It does not erase the companion line.
+Nine wounded marchers, four elderly, two children, one handcart with a broken shaft. This is the leg that costs, and it needs the line held behind it.
 
-## World-State Outputs
+**The exit:** the column's flank opens during the fighting, and there is a forty-minute window in which a man who knows fen ground could simply not be there afterward, and no one would ever be able to say he ran rather than fell. Nobody would look for him. There would be no record.
 
-- `dismas_arc_outcome`
-- `three_horn_evacuated`
-- `marcher_scout_service`
-- `dismas_summer_destination`
+### Leg Three — the last group
 
-## Seasonal Cutoff
+The clerk, the depot stores, two guides who refused to leave earlier, and whoever the first two legs could not carry.
 
-Committing to the Deep Muster closes ordinary resolution. The companion reaches a specified compromised summer state unless the quest has already produced a broken or departed outcome.
+**The exit:** [[Sergeant Liese of the Marcher Vanguard|Liese]] releases him. Out loud, in front of witnesses, sincerely: *you have done enough, this is not your column, go.* She means it and she is right, and she is the one authority in the campaign whose respect he has actually earned. **The release must be genuine** — no scene undercuts it, and refusing it is not a rebuke to her.
 
-## Rewards and Return Value
+Resolved play is choosing to stay **three times**, uncoerced, with no one watching who could compel him.
 
-Completes his road-captain future and supplies a final-campaign evacuation asset when resolved.
+## The Work
 
-Completion grants a companion technique or field synergy, qualitative approval movement, and a concrete late-game or summer state. Exact numerical tuning remains provisional.
+Between the exits, the quest is craft:
+
+- **spoiling the pattern.** Residue follows command geometry, road grooves, and rank marks. Dismas does not fight a column; he makes a road stop looking like a road — grooves broken, marks defaced, a false lane cut into the fen that reads better to a dead formation than the real one does. His whole doctrine, finally used at scale.
+- **holding the line.** Rearguard work, reversible obstacles, and disengagement windows for people who cannot run.
+- **guides leading.** If trained, they take groups out on their own initiative and out of the player's sight, and the quest reports their arrivals rather than showing them.
+- **the manifest.** Read or unread, it determines whether anyone knows that two names are missing before the fen swallows the evidence.
+
+### Pause Points: First Group Away · Depot Cleared
+
+## Outcomes
+
+**Resolved — the free guide who stayed.** He is not commissioned, not ranked, and not anybody's scout. He is the last one out with the network's people, answerable to a route rather than an office, and the settlement records him as a road protector under no authority's charter but the one he wrote himself on a Tuesday.
+
+**Compromised — supervised.** Real protection under somebody else's structure: the sealed commission, a Blackjack rank, or the player's insistence as the thing that makes him reliable. He can name the arrangement as useful and insufficient, and does.
+
+**Broken or departed.** He takes the flank window, sells or abandons the fen route, or becomes the network's toll. A warned confrontation and one repair chance precede his departure.
+
+**Heroic but unresolved sacrifice.** Available only after all three exits have visibly failed or been spent, with the alternative casualties shown, with Dismas offering it, and with explicit player confirmation. He holds the last groove-break while the final group clears White Fen. It saves them and fixes `dismas_arc_outcome: heroic-unresolved`, which is **not** his strongest resolution.
+
+**The word "domestication" appears in no resolved-outcome sentence.** If a line reads as him settling under a good commander, cut it.
+
+## Rewards
+
+Resolved or compromised completion grants **No One Behind** (the rearguard capstone, named for the thing he did not do at Stonefall Cut, and no in-game text says so), the Quarry-Wise blueprint, and the eligible permanent perk: **No Escape Route** (romance) or **No Blind Turn** (bond).
+
+Friendship reaches the resolved outcome and every non-relationship reward.
+
+## Fail-Forward
+
+- A lost leg means displacement and casualties, and survivors reach Fenn Road Exchange; the depot's people are never wiped out by a timer.
+- Failed pattern-spoiling turns the last leg into a moving fight rather than ending the quest.
+- An unread manifest means two people are missing and nobody can say who.
+- Duo defeat: guides and marchers recover them, the depot is lost, and the settlement fixes the compromised result.
+- No autonomous route selects the sacrifice.
 
 ## Navigation
 
-- [[Dismas Raben]]
-- [[Companion Constitution]]
-- [[Narrative State Register]]
-- [[Quest and Content Architecture]]
-- [[Grenzburg MOC]]
+- [[Dismas Raben]] · [[Dismas Companion Campaign]] · [[Dismas Quarry-Wise Package]]
+- [[Tuesday]] · [[The Missing Queen]] · [[The Return Leg]] · [[Passing Through Slowly]]
+- [[The Dead March]] · [[The Deep Muster Main Quest]] · [[Frostfenn March]]

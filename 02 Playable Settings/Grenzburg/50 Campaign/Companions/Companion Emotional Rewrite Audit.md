@@ -119,19 +119,21 @@ No piece reaches implementation readiness until `dialogue_status: approved` and 
 
 ## CMP-06: Dismas Raben
 
+**Rewrite-spec pass executed — construction, not retrofit** — per [[Dismas Rewrite Spec]]. All eleven slots are now authored quest documents; the campaign doc, Field Familiarity, and Quarry-Wise package have been created; the four-quest outline is archived. Canon added: [[The Korrheim Rockfall]] with its fixed truth, [[Sella Etten]] (renamed, remote), [[The Stonefall Papers]], [[The Lask Household]], [[Mette Harrow]], the Rebel/Goofball blend, and the resolved vocation.
+
 | ID | Current piece | Disposition | Rewrite brief |
 |---|---|---|---|
-| CMP-06-I | [[The Sound of Falling Stone]] | replace | Introduce Dismas through a thrilling rule-breaking rescue that shows why refusal feels liberating before the old rockfall is disclosed |
-| CMP-06-A1-O | reserved | replace | Build a present-day checkpoint, smuggling, or passage operation whose beneficiaries also inherit the consequences |
-| CMP-06-A1-F | [[The Easy Ambush]] | reframe | Keep reversible traps and civilian traffic; make Dismas choose whether to remain for the dangerous cleanup after abandoning advantage |
-| CMP-06-FR | reserved | replace | Build a pleasurable outlaw excursion, impossible wager, or forbidden route with no moral prosecution |
-| CMP-06-A2-O | reserved | replace | Build an urban siege operation using underways and false authority where escape is easy but maintenance is not |
-| CMP-06-A2-F | [[The Name on the Charge]] | replace | Remove the arriving survivor and courtroom escort; force public accountability through Dismas's present choices and voluntarily recovered evidence |
-| CMP-06-RM | reserved | replace | Build a female-player romance around chosen return rather than taming the outlaw |
-| CMP-06-BD | reserved | replace | Build a male-player sworn friendship with a shared object or cause that survives after the enemy is gone |
-| CMP-06-A3-O | reserved | replace | Build a road community or guide network that cannot function if Dismas remains its sole unbound exception |
-| CMP-06-A3-F | [[The Road That Answers]] | reframe | Keep the dead-march evacuation; replace institutional domestication with an independent commitment he must repeatedly renew |
-| CMP-06-S | reserved | replace | Demonstrate a free road protector, useful drifter, or renewed fugitive without pretending obedience is the only mature ending |
+| CMP-06-I | [[The Decorative Fence]] | cleared; new | A caper that works completely; the neighbour at the window, unnarrated |
+| CMP-06-A1-O | [[The First Mile]] | cleared; new | The reprisal at their door; Mette wins the lawful argument; the banter apology staged; the assigned task |
+| CMP-06-A1-F | [[The Easy Ambush]] | cleared; built out | Reversible traps and mixed traffic; **the counting-freeze**; the lieutenant's offer to erase the cost; the dark cleanup as climax |
+| CMP-06-FR | [[No Railing]] | cleared; new | Illicit pleasure, cards, breakfast — and Hollow Ash's eleven chimneys, counted and correct |
+| CMP-06-A2-O | [[Passage]] | cleared; new | An underways artery; three weeks of maintenance; **Koss's leash**; the night he is not needed |
+| CMP-06-A2-F | [[The Name on the Charge]] | cleared; inverted | **He opens the case against himself**, past three authored exits and the cofounder's gift; the count completed; Sella's response fixed by the filing |
+| CMP-06-RM | [[The Return Leg]] | cleared; new | A return announced in advance; every exit shown; no door asked to close |
+| CMP-06-BD | [[The Missing Queen]] | cleared; new | A route cut against nobody; keeping-rules on a post; the card given away |
+| CMP-06-A3-O | [[Tuesday]] | cleared; new | The network's first normal week; **peace as the container**; the charter's founder clause |
+| CMP-06-A3-F | [[The Road That Answers]] | cleared; built out | Three legs, three sincere exits including Liese's release; resolved = uncontained return |
+| CMP-06-S | [[Passing Through Slowly]] | cleared; new | The bedroll, the appointment, and a complete deck |
 
 ## CMP-07: Tavio Meran
 

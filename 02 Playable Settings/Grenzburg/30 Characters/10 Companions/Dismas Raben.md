@@ -8,33 +8,35 @@ region: ["Grenzburg"]
 culture: ["Eclessian", "Korrheim"]
 related_factions: ["Blackjack Corps", "Medori Bank"]
 appears_in: ["Grenzburg"]
-needs:
-  - reassess his final vocation during the Ilyana-Dismas paired retrofit
+needs: []
 aliases: ["Dismas the Highwayman"]
 tags: [game-ready]
 companion_id: "CMP-06"
 sex: man
 vocation: "Hunter"
-combat_variant: "provisional road ambusher"
+combat_variant: "Quarry-Wise"
 recruitment_window: "Black Road"
 home_base: "Blackjack Yard"
 foil: "Ilyana Veshkar"
 relationship_theme: "a road chosen twice"
-relationship_perks: []
+relationship_perks: ["No Escape Route", "No Blind Turn"]
 archetype: "Rebel"
+archetype_secondary: "Goofball"
+archetype_blend: "Lovable Rogue"
+archetype_creed: "Any system that demands my soul in exchange for belonging is suspect — and I will make you laugh while I leave."
 archetype_desire: "worth through refusal and self-direction"
 archetype_currency: "acting without permission where compromised institutions will not"
 archetype_humiliation: "ownership, containment, obedience, or respectability purchased with silence"
 care_language: ["illicit help", "escape routes", "risks taken against power", "unadvertised loyalty"]
 archetype_shadow: "abandonment, contempt for maintenance, and leaving others to inherit the aftermath"
 preservation_lesson: "commitment can remain free when it is repeatedly chosen"
-remote_claim_anchor: "The Korrheim rockfall restitution record"
+remote_claim_anchor: "Sella Etten and the Korrheim rockfall record"
 past_contact_mode: remote-only
 debt_manager: "Claims-Factor Marco Bellandi"
 legal_debt_state_key: "dismas_legal_debt_state"
 voice_status: calibrated
 emotional_rewrite_status: bible-locked
-architecture_status: pending-migration
+architecture_status: migrated
 ---
 # Dismas Raben
 
@@ -53,6 +55,27 @@ Dismas establishes worth through refusal. He wants to remain unowned and to act 
 At his best, he recognizes fraudulent authority before respectable people do and risks himself to create an exit for somebody with none. At his worst, he treats every obligation as a future chain, every structure as corruption in waiting, and every aftermath as the concern of people who chose to stay.
 
 His resolved arc does not domesticate him into obedient marcher service. He learns to make a chosen commitment, retain the right to criticize it, and return tomorrow after the exhilaration of refusal has passed.
+
+## Creed
+
+Dismas is a Rebel with a Goofball's tongue — the Lovable Rogue, defiance made charming, whose named conflict is **seriousness versus evasion** and whose shadow is **charming nihilism.**
+
+The blend's payload is his precise failure surface: **the joke deployed at the moment gravity was owed.** He is never funnier than in the four seconds before he leaves, and the charm is not a mask over the flight — it *is* the flight, beginning early. His broken outcome is not "renewed fugitive"; it is a very likeable man who has decided nothing is worth staying for and can make that sound like wisdom.
+
+## Shape
+
+**The door stays open, and he keeps not leaving.**
+
+Every act ends with a clean exit visibly, genuinely available and untaken. Nothing in the campaign contains him — no oath, no rank, no cell, no good commander — because a contained Rebel proves nothing. His resolved ending is **uncontained return:** commitment as repetition, chosen again on a morning when nobody could have made him.
+
+The gesture-spine is **counting.**
+
+- He counted voices at the coach, and ran. ([[The Korrheim Rockfall]].)
+- He counts chimneys above a hamlet that exists because of him, alone, every year. ([[No Railing]].)
+- He makes the count of the dead, out loud, once. ([[The Name on the Charge]].)
+- He counts the network's living in spring. ([[Tuesday]].)
+
+The campaign is one man learning to finish a count.
 
 ## Identity
 
@@ -89,15 +112,15 @@ He was not a folk hero unjustly accused. Some people he helped were vulnerable. 
 
 ## The Rockfall
 
-Dismas's band prepared a rockfall above a road used by an expected revenue convoy. He triggered it before confirming the target.
+The controlling account is [[The Korrheim Rockfall]]. In brief: he triggered a prepared fall before confirming the target, and the coach beneath the stone was a civilian post-coach.
 
-The coach beneath the stone carried civilians.
+**Two people died** — the driver Hedric Vane, and a nineteen-year-old passenger named Anke Bekk, who did not die at once. **[[Sella Etten]] survived**, dug out by the soldiers whose approach made him run. He heard people alive under the stone. He counted three voices. He left.
 
-Dismas heard people alive. Soldiers approached. He left.
+He was convicted of armed robbery and road destruction because the full human cost was never established, and he did not correct the record. He chose purchased service over imprisonment; Medori acquired it.
 
-He was convicted for armed robbery and road destruction because the full human cost was never established. He chose a purchased service sentence over long imprisonment. Medori acquired it.
+**Whether staying would have saved Anke Bekk cannot be established, in any playthrough.** The stone shifted twice, the soldiers came within the hour, and the record supports both readings and settles neither. He does not get the counterfactual, and neither does the player.
 
-No survivor, former gang member, road rival, or Korrheim official physically arrives in Grenzburg. The truth emerges through Dismas's behavior, recovered evidence, and his voluntary decision to establish what happened.
+No survivor, band member, road rival, or Korrheim official physically arrives in Grenzburg. Nobody is looking for him and no warrant exists for the deaths. The truth reaches the record only if he pays a Fiorenzian claims-factor to go and find it — see [[The Name on the Charge]].
 
 ## Culpability
 
@@ -198,7 +221,11 @@ His voice obeys [[Companion Dialogue and Scene Standard]].
 
 ### Road People
 
-Carters, ferrymen, refugees, peddlers, and checkpoint laborers become his real Grenzburg constituency. They are not grateful scenery. Some want reliable law more than another clever smuggler.
+Carters, ferrymen, refugees, peddlers, and checkpoint laborers become his real Grenzburg constituency. They are not grateful scenery. Some want reliable law more than another clever smuggler — and one of them, [[Mette Harrow]], has priced his kind of freedom and can name the village that paid for it.
+
+### The Lasks
+
+[[The Lask Household]] are the family he gets out of a predatory seizure in autumn, and the family the reprisal lands on in winter. Their nine-year-old wants the card trick. They assign him something ongoing and unglamorous, and whether he keeps the appointments is visible all spring.
 
 ## Company Routine
 
@@ -216,7 +243,9 @@ He may be recruited and dismissed normally. He reacts badly to being ordered int
 
 ## Combat and Field Use
 
-Dismas currently operates as an ambush tracker and route reader:
+Dismas is a [[Hunter]] on the **Quarry-Wise** doctrine, and the name is the inversion: Ylva hunts, and Dismas is the escaped quarry who learned the hunter's habits from the wrong side. Prey-minded, exit-first, counter-tracking. He does not close on a target; he collapses a pursuer's options.
+
+Full package in [[Dismas Quarry-Wise Package]]. His field functions:
 
 - reconnaissance;
 - reversible traps;
@@ -225,9 +254,7 @@ Dismas currently operates as an ambush tracker and route reader:
 - counter-scouting;
 - rapid withdrawal.
 
-He must remain mechanically distinct from Ylva's Rescue Scout Hunter. His paired retrofit will determine whether this expression remains Hunter or moves to another established vocation.
-
-No critical route may depend on his final package.
+He remains doctrine-distinct from [[Ylva Winter-Track|Ylva's]] Rescue Scout: she moves toward the endangered, he removes the pursuer's choices. No critical route depends on his package.
 
 ## Approval and Moral Limits
 
@@ -251,7 +278,7 @@ He opposes:
 
 ## Companion Campaign Direction
 
-[[Companion Emotional Rewrite Audit]] replaces most of Dismas's current four-quest outline and reserves a full eleven-piece campaign.
+[[Dismas Companion Campaign]] is now the controlling authority for all eleven authored pieces. The old four-quest outline is archived.
 
 The rebuilt line must move through:
 
@@ -303,8 +330,9 @@ He cannot die autonomously.
 
 ## Navigation
 
-- [[The Easy Ambush]]
-- [[The Road That Answers]]
+- [[Dismas Companion Campaign]] · [[Dismas Field Familiarity and Relationships]] · [[Dismas Quarry-Wise Package]]
+- [[The Korrheim Rockfall]] · [[Sella Etten]] · [[The Stonefall Papers]]
+- [[The Lask Household]] · [[Mette Harrow]]
 - [[Dismas Banter and Reactivity]]
 - [[Companion Archetype Constitution]]
 - [[Companion Archetype Chemistry Matrix]]

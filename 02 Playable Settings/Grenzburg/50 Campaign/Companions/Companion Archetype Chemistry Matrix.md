@@ -98,7 +98,14 @@ Roster symmetry: Bernard is Goofball→Jock and [[Zafir ibn Samad]] is Nerd→Go
 | Goofball | two makers of room | neither requires constant dignity before offering affection | the friendship fails if no one can stop performing, keep an appointment, or survive an unfunny silence |
 | Grey | ordinary hospitality | the player accepts or refuses care without fitting Bernard's expected bit | Bernard must risk plain speech instead of selecting the joke he thinks this kind of person wants |
 
-## Dismas Raben — Rebel
+## Dismas Raben — Rebel / Goofball secondary
+
+**Blend: the Lovable Rogue.** Creed: *"Any system that demands my soul in exchange for belonging is suspect — and I will make you laugh while I leave."* Named conflict: **seriousness versus evasion.** Shadow: **charming nihilism** — which names his broken outcome far better than "renewed fugitive" did.
+
+His precise failure surface is **the joke deployed at the moment gravity was owed.** He is never funnier than in the four seconds before he goes, and the charm is not a mask over the flight; it *is* the flight, starting early.
+
+⟨PAIR⟩ Roster symmetry: Dismas is Rebel→Goofball and [[Ilyana Veshkar]] is Bohemian→Cheerleader (pending her spec's execution) — each carries a socially generous secondary over a self-defining primary, which is why their foil runs on maintenance rather than on ideology.
+
 
 | Player tendency | Relationship register | What catches Dismas's attention | Recurring pressure |
 |---|---|---|---|
