@@ -112,6 +112,16 @@ The sequence teaches **Given Steel**: Bernard's fitted weapon improves the stabi
 
 The blade remains unnamed. Bernard says a name should describe the life it has actually served, not the hope attached on purchase.
 
+## Un-repaying
+
+Within a few days he starts settling up, quietly, without ever calling it that.
+
+Extra unasked labour on the player's kit. A repair nobody requested. Something useful appearing in the player's pack that Bernard did not mention putting there — a whetstone, a spare strap, a wrapped portion — offered as coincidence if raised.
+
+The player catches him at it. One short scene: he has to **un-repay**, which he finds physically difficult, and which he cannot make funny for more than one sentence. He is not ashamed of generosity; he is being asked to accept that the gift is finished and nothing is outstanding, and his whole architecture says that cannot be true.
+
+The player may accept a smaller honest exchange, refuse everything, or let him keep paying and never say so. Receiving stays hard after the ceremony; the friendship episode is not frictionless.
+
 ## The Child's Portion
 
 During the walk back Bernard discusses Mika's hidden food. This becomes the second pre-commitment relationship scene.

@@ -101,19 +101,21 @@ No piece reaches implementation readiness until `dialogue_status: approved` and 
 
 ## CMP-05: Bernard Valeon
 
+**Rewrite-spec pass executed** per [[Bernard Rewrite Spec]]. The Goofball/Jock blend, the scale rule, the Froststep causal chain, Lenka Vrana, the three quoted letters, the drill reframe, the beloved-theft hinge, and both fused unfairness exceptions are canon. The coda is renamed. `dialogue_status` on rebuilt sections returns to `pending-rewrite` until a scene-level pass fixes final wording.
+
 | ID | Current piece | Disposition | Rewrite brief |
 |---|---|---|---|
 | CMP-05-I | [[Little Things Missing]] | cleared | Genuine relapse opens with Yard warmth before specific restitution |
 | CMP-05-A1-O | [[The Wagon in the Reeds]] | cleared | School-wagon rescue foregrounds rapport and the moment humor stops |
-| CMP-05-A1-F | [[Little Hands, Long Road]] | cleared | Children, Mika, wounded bear, and unforced heroism remain |
-| CMP-05-FR | [[A Blade Freely Given]] | cleared | Lawful gift and the first object Bernard may simply receive |
-| CMP-05-A2-O | [[The Long Winter Table]] | cleared | Four suppers create a social rescue network before the undeclared reserve |
-| CMP-05-A2-F | [[Embers Without Excuse]] | cleared | Local carers stage the mission; Petra's response remains remote and non-reconciling |
+| CMP-05-A1-F | [[Little Hands, Long Road]] | cleared; rebuilt middle | Undeclared portion in every route; prep asset modulates severity; the Mika mirror can distort; the count reconciled at the supper table |
+| CMP-05-FR | [[A Blade Freely Given]] | cleared; spec-passed | The un-repaying scene added; receiving stays hard after the ceremony |
+| CMP-05-A2-O | [[The Long Winter Table]] | cleared; spec-passed | Lenka's non-eating beat; the resentment seeded on the fourth night |
+| CMP-05-A2-F | [[Embers Without Excuse]] | cleared; rebuilt sections | Three letters quoted whole; **the city misreads the kindling as acquittal** and he refuses it; disclaimer stack cut |
 | CMP-05-RM | [[Enough for Two]] | cleared | Female-player romance, private feast, and freely given bead |
 | CMP-05-BD | [[Watch Until Morning]] | cleared | Male-player sworn brotherhood, repair, divided watch, and service cords |
-| CMP-05-A3-O | [[Beds Before Banners]] | cleared | Familiar people make neutral admission personal rather than procedural |
-| CMP-05-A3-F | [[The Open Hospice]] | cleared | Witnessed stores, mixed patients, triage, destination, and warned sacrifice |
-| CMP-05-S | [[The First Open Table]] | cleared | Ordinary hospitality demonstrates the settled outcome without a reunion |
+| CMP-05-A3-O | [[Beds Before Banners]] | cleared; re-engined | **The indispensability drill** — rank tablet cut; feigned incompetence and the resentment snap; the hall must run without him |
+| CMP-05-A3-F | [[The Open Hospice]] | cleared; rebuilt middle | **The beloved-theft hinge with a face**; undissolvable shortage; the silence after the joke; the permanent unwarned scar |
+| CMP-05-S | [[Grace]] | cleared; renamed | Ordinary hospitality; the child's hand; Lenka eating, served by somebody else |
 
 ## CMP-06: Dismas Raben
 

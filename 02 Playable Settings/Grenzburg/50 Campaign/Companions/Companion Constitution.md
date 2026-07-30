@@ -46,6 +46,21 @@ Every companion bible controls:
 
 At least two-thirds of ordinary companion material concerns present life, appetite, humor, competence, relationships, and the world around them. Direct discussion of the original wrong stays below one-third and normally below one-fifth of ambient material. Under [[Companion Debt and Remote Claims Standard]], no person from a companion's former life enters the base-game worldspace. History reaches Grenzburg through memory, habits, correspondence, remote testimony, agents, records, silence, and material consequences.
 
+### Exception: the Lio Clause
+
+A wronged party may enter the base-game worldspace **only** under all of the following conditions:
+
+1. under their own power, for their own stated aims;
+2. with authored refusal rights, including the right to refuse the encounter the companion needs;
+3. with independent protection, lodging, counsel, and exit route, never in the companion's custody;
+4. with no reconciliation requirement, and no outcome in which their forgiveness is produced by play.
+
+The governing test is never *may the past arrive?* It is **whose act is the climax?** Arrival must never replace the companion's volition; absence must never replace the wrong's reality.
+
+Where arrival would let the world corner a companion into accountability, the party stays remote — a subpoena redemption belongs to the world, not the character. Where absence would reduce the wrong to paperwork, arrival is permitted under the clause.
+
+**This exception currently sanctions exactly one arrival: [[Lio Varcen]].** [[Marta Etten]], the Salt-Reed performers, [[Petra Ilev]], [[Samira bint Nahal]], and every other remote claimant remain outside the worldspace by design and by their own campaigns' rulings.
+
 The twenty-eight companion pairs receive individual briefs in [[Companion Ensemble Pair Briefs]]. The four principal foil pairs receive autumn, winter, and spring exchange arcs. Their disagreements remain asymmetric and unfinished where a clean resolution would feel false.
 
 ## Player Temperament Chemistry

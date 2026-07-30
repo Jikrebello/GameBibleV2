@@ -30,11 +30,23 @@ Bernard had spent the preceding month helping receive stores. Fear of another em
 
 He did not intend to sell the stores or deny one named person. He knowingly removed communal goods, concealed the inventory mismatch, and treated his imagined future need as superior to the declared evacuation.
 
+## How the Concealment Reached the Sled
+
+The chain is short, and it matters, because the harm was arithmetic before it was weather.
+
+Bernard was helping receive stores that month, and the count he helped keep was the count the loading plan used. The goods he removed were subtracted from the shelves and **not** from the tally. So the manifest promised oil, salve, food, and covering that had already left the shelf; the sleds were loaded against that manifest, in the dark, at speed; and the second sled went out carrying a written surplus and a physical shortfall.
+
+Nobody caught it in time because there was nothing to catch — the paper was consistent with itself. The concealment did not merely hide a theft. It falsified the number three people used to decide what forty-three people would have on a mountain.
+
 ## The Understocked Sled
 
 The second sled lost a runner and spent a night above the lower switchback. Its people had too little oil, salve, food, and dry covering.
 
-No one died. Five evacuees suffered lasting cold injury. [[Petra Ilev]] lost two fingers and retained severe cold pain in one foot. Four others carried reduced mobility, nerve pain, or recurrent winter illness.
+No one died. Five evacuees suffered lasting cold injury:
+
+- [[Petra Ilev]], relief driver — two fingers of her left hand, and severe cold pain in one foot;
+- **Josef Vrana**, carrier — nerve damage to both hands and a chest that fails every winter; forty years of carrying work ended in a night. His daughter [[Lenka Vrana]] works in Grenzburg;
+- three others carry reduced mobility, nerve pain, or recurrent winter illness.
 
 When [[Matej Solin|Watch-Captain Matej Solin]] ordered an urgent store search, Bernard denied knowing where the missing supplies were. He confessed after the injured sled reached the hospice and then led the order to all four caches. The recovered goods helped later evacuees but could not reverse the injuries.
 

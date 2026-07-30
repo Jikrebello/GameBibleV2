@@ -67,7 +67,7 @@ Grenzburg carers stage a relief run to an isolated Tann Gate field infirmary. Th
 
 Bernard must carry both. The packet gives him no reunion and no scene in which to win forgiveness. It records what [[Petra Ilev]], [[Matej Solin]], and [[Hospice-Mother Radena Vosk]] have chosen to say from Kedrava. The relief run gives him present work among people who already know him well enough to laugh with him and judge him.
 
-White Flame may kindle during the defence. It proves only that courageous, coherent service occurred.
+White Flame may kindle during the defence.
 
 ## Party and Staging
 
@@ -96,11 +96,15 @@ Two permit the mission. Three make every patient, route, and store objective ach
 
 Bellandi opens the packet before Bernard, the player, Brina, and Sister Hanne.
 
-- Matej supplies the certified Froststep inquiry and confirms that Bernard's dismissal was fair.
-- Radena writes that the hospice has enough blankets and asks Bernard to stop repaying childhood shelter by trying to possess every future need.
-- Petra does not address Bernard personally. Her standing instruction selects one of three outcomes from the actual restitution record: accept without reconciliation, redirect her share to winter-road care, or close contact.
+**All three documents are quoted whole and read on screen.** They are transcribed in [[The Froststep Packet]] and no character paraphrases them, then or later.
 
-The player may ask Bellandi to verify seals, beneficiaries, or payment. No dialogue option contacts Petra, interprets silence as consent, or treats the packet as the emotional climax.
+- **Petra's letter** is dictated — set down by another carrier's hand, because she cannot hold a pen through a long letter, and the fact that the handwriting is not hers is the first thing Bernard sees. Nobody remarks on it. She writes about the bakehouse bricks she scrubbed as a girl, about relearning buttons and giving up on laces, about driving second sled now on purpose. She tells him not to say he is sorry, because he already did and she believed him, and that was never the difficulty. **Her letter is identical in every playthrough** — it does not vary with his direction, his restitution state, or the player's conduct.
+- **Radena's letter** reports that the goose is alive, that the bakehouse floor was relaid and the niche mortared and the stable box given a proper lock with the key on the pantry ring, and that she had it all done at once so that he could stop keeping the map of that house in his head.
+- **Matej's assessment** is three sentences of certification that refuse to put either fact in front of the other.
+
+Petra's *standing instruction* is separate from her letter and is a line item selected by the actual restitution record: accept without reconciliation, redirect her share to winter-road care, or close contact.
+
+The player may ask Bellandi to verify seals, beneficiaries, or payment. No dialogue option contacts Petra, interprets silence as consent, or treats the packet as the emotional climax. The relief run is still being loaded in the next room, and the quest goes back to it.
 
 ## Beginning: A Count Made Aloud
 
@@ -173,7 +177,24 @@ At maximum pressure, Bernard offers the Last Ember over the living:
 
 > “I am not a priest. I can pray, and I can stay.”
 
-If his present conduct remains coherent, White Flame catches along the brazier and his plated side. It steadies panic, holds smoke back, and briefly protects the evacuation. It does not heal Petra, replenish stores, or answer the legal claim.
+If his present conduct remains coherent, White Flame catches along the brazier and his plated side. It steadies panic, holds smoke back, and briefly protects the evacuation. It does not heal Petra, replenish a store, or answer a single line of the claim — which is the whole of the doctrine, and which the city is about to disagree with.
+
+## Aftermath: What the City Does With It
+
+The kindling was public. Carers saw it, walking wounded saw it, and by the second day the story has improved in the telling.
+
+Within a week:
+
+- somebody has hung a votive by his bunk at the Yard, and taking it down would be a public statement he does not want to make;
+- a mother from the casualty lane asks him to bless her child, and he has to refuse her twice, because the first refusal is not believed;
+- **Deacon Ignatius** preaches — in good faith, from real doctrine — that visible grace answers the question of the debt, and that a man the Flame has used is not a man the Bank should be billing;
+- Koss's tally of Bernard's costs becomes, briefly, *unpopular*, which is the most dangerous thing that happens in the whole sequence.
+
+Bernard has to insist on his own guilt against a room that has decided to absolve him. He is not eloquent about it and he does not get to win the argument: the city will believe what it finds comforting, and the votive will keep coming back.
+
+The player may help him refuse the absolution, let him take the easier version, or watch him try to have both. This is the only version of the White Flame theme that needs the player present, and it is the last place in the campaign where being loved is more dangerous to him than being blamed.
+
+Output: `white_flame_public_reading` — vindicated, contested, or quiet — with ambient consequences through spring.
 
 ## End: A Record That Does Not Love Him
 
@@ -185,7 +206,7 @@ Petra's existing instruction determines the response:
 - `redirected-to-road-care`;
 - `contact-closed`.
 
-Bernard may be hurt, relieved, or both. He may not use the White Flame as an appeal. The player can remain, refuse intimacy, offer friendship, or open the eligible romance or bond commitment after the work is complete.
+Bernard may be hurt, relieved, or both. The player can remain, refuse intimacy, offer friendship, or open the eligible romance or bond commitment after the work is complete.
 
 ## Failure and Re-entry
 

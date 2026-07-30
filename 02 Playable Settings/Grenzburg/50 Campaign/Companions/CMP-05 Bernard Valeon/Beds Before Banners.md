@@ -15,7 +15,7 @@ act: act-3
 availability_window: ["Early Spring", "Open Spring", "Muster Crisis"]
 repeatability: one-shot
 cutoff_result: resolves-offscreen
-world_state_outputs: ["bernard_west_refuge_neutral_claim", "west_refuge_hall_state", "west_refuge_sponsor_terms", "first_patient_groups_state", "west_refuge_rank_tablet_state"]
+world_state_outputs: ["bernard_west_refuge_neutral_claim", "west_refuge_hall_state", "west_refuge_sponsor_terms", "first_patient_groups_state", "bernard_drill_result"]
 reward_unlocks: ["Neutral Hall Claim", "West Refuge preparation"]
 required_locations: ["West Refuge Hall", "Longlake Ward", "Grenzburg Underways"]
 blocking_status: blocked
@@ -63,36 +63,60 @@ player_archetype_hooks: ["Cheerleader", "Tomboy", "Goth", "Bohemian", "Jock", "N
 
 ## Quest Function
 
-This is Bernard's short Act III operation. It secures the right and physical capacity to use West Refuge Hall for mixed patients before [[The Open Hospice]] begins.
+This is Bernard's short Act III operation, and it is a **drill.** Before Mercy Hospital and the sponsors will back a mixed hospice, Brina and Sister Hanne require a demonstration: West Refuge Hall must run a full admission-and-care cycle **without Bernard touching it.**
 
-Four groups possess legitimate but incomplete claims. The problem is not solved by discovering that three are fraudulent:
+Sister Hanne's terms, delivered without ceremony:
+
+> “If you are the hospice, it dies the first week you are tired.”
+
+The sponsors attend as observers. What the drill proves determines the roles they are given, which is how this piece still produces `bernard_west_refuge_neutral_claim` — the hall earns bounded shared use by demonstrating it can be run by more than one person.
+
+Four groups hold legitimate but incomplete claims, and none is fraudulent:
 
 - the Duke needs an overflow casualty station;
 - the Church needs beds beyond Mercy Hospital;
 - Chapel-Folk households retain refuge use;
 - the Blackjacks need space for debtors and dependants displaced by the dead march.
 
-The player must create bounded shared use without making one institution owner of care.
+The hall is not full of abstract constituencies. Bernard already knows everyone doing the work:
 
-The hall is not full of abstract constituencies. Bernard already knows the people doing the work:
+- **Hannel Klee** is assigning straw ticks and refuses to become “the girl Bernard once cleared”;
+- **Neda Volk** is testing the rear door with an injured shoulder she has not reported;
+- **Olof Reed-Kin** has brought two Chapel-Folk carriers Bernard fed during winter;
+- **Sister Hanne Wolkert** has the patient list, the drill, and no patience for another sponsor's banner.
 
-- Hannel Klee is assigning straw ticks and refuses to become “the girl Bernard once cleared”;
-- Neda Volk is testing the rear door with an injured shoulder she has not reported;
-- Olof Reed-Kin has brought two Chapel-Folk carriers Bernard fed during winter;
-- Sister Hanne Wolkert has the patient list and no patience for another sponsor's banner.
+Their affection makes it harder, not easier. A room full of people who love him is the worst possible place to discover he is replaceable.
 
-Their affection makes it harder, not easier, for Bernard to treat himself as the natural owner of the room.
+## Beat One: Sabotage by Helpfulness
 
-## Hook
+Bernard does not refuse the drill. He undermines its premise, cheerfully, in a dozen small ways — and this is **feigned incompetence**, the Hidden Heavyweight's oldest exit, played warm enough that nobody but the player sees it:
 
-Bernard finds all four groups hanging their sign or banner on the same hall. A Qianglong rank tablet recovered from a recent residue patrol has also begun activating command patterns beneath the floor.
+- only he knows where the good kettle is, and he says so as a joke;
+- the stove “only draws for me,” which is true, because he has never shown anyone the trick;
+- his tally handwriting “can't be taught,” offered with a self-deprecating flourish;
+- he cannot possibly explain the winter store-rotation, it's all in his head, he'd only confuse them.
 
-The hall requires:
+The drill starts failing in Bernard-shaped holes. Every one of them is a place where he made himself the only door.
+
+The player may name it privately, name it publicly, or let it run. Naming it publicly costs him standing in front of people who adore him; letting it run means the drill fails on its own, slower and worse.
+
+## Beat Two: The Resentment
+
+Mid-drill, benched, exhausted, watching other people do his work badly — a carer asks him a reasonable question about the flue for the third time.
+
+**He snaps.** One flash of something that has never been allowed out: not cruelty, not rage, just the register of a man who is tired of being the one who carries, and who has never once been given permission to say so, least of all by himself.
+
+It is unfair, it lands on somebody who did not deserve it, and there is no theft to return afterward.
+
+The repair is harder than any confession in his campaign, because there is nothing funny available and nothing to give back. He has to apologize with no object in his hands. Whether he does — and whether he says the true reason or a charming one — moves `bernard_direction`.
+
+## The Hall Requirements
+
+The drill has to produce a working hall:
 
 - a temporary use agreement;
 - one safe water line;
 - two marked exits;
-- removal or severance of the rank tablet;
 - a first admission test involving actual patients.
 
 ## Operation States
@@ -105,9 +129,9 @@ Integrity improves through roof bracing, cistern clearance, and rear-door access
 
 Each sponsor may be `bounded`, `preferred`, `controlling`, or `withdrawn`. Bounded support supplies a practical role without owning admission.
 
-### Command Stirring: 0-3
+### Drill Integrity: 0-3
 
-Disturbing the undercroft, delaying after activation, or treating residue as persuadable increases the Muster response.
+Integrity measures how much of the hall runs without Bernard. It falls when he takes a station back, when a Bernard-shaped hole stops the work, and when a sponsor is allowed to route a decision through him personally.
 
 ## Beginning: Four Signs on One Door
 
@@ -136,16 +160,13 @@ Open the cistern through the public cellar or an underways inspection passage. T
 
 Clear the rear cart door and brace the gallery stair. Ordinary tools and labor suffice; vocation abilities offer speed and safer shortcuts.
 
-### The Rank Tablet
+### Teach the Stove
 
-The tablet is a non-conscious command mechanism calling residue toward an obsolete replacement station. It may be:
+The stove that "only draws for Bernard" has a trick: a damper sequence he worked out in his first winter and never wrote down. Somebody else has to be able to do it by tonight.
 
-- physically removed after supports are secured;
-- broken and its fragments separated;
-- detuned through a warlock counter-script;
-- isolated behind a collapsed service wall.
+The task is teaching, and it is harder for him than lifting. He may demonstrate it once and let Hannel or a carer fail twice and get it; he may take the stove back "just for tonight"; or he may write the sequence on the wall beside it, which is the answer and takes him four minutes and costs him something he cannot name.
 
-Dialogue, burial rites, and Binder authority cannot make it a consenting person.
+Dialogue, charm, and a good story about a hospice goose cannot substitute for the damper sequence.
 
 ## First Admission
 
@@ -177,7 +198,7 @@ Every player vocation can:
 
 - clear the cistern and exits through ordinary interaction;
 - defend patients and workers;
-- disable the tablet through physical separation and environmental collapse;
+- teach, brace, carry, or organize without the drill routing through one person;
 - establish neutral use through evidence and emergency authority.
 
 Technical, social, stealth, and cultural abilities change method and cost rather than access.
@@ -186,7 +207,7 @@ Technical, social, stealth, and cultural abilities change method and cost rather
 
 - A failed sponsor negotiation creates preferred access instead of closing the hall.
 - A lost water line requires carried water and lower capacity.
-- An intact tablet strengthens the later assault.
+- A drill that only worked because Bernard stepped in leaves the hall dependent, and the finale opens with him already carrying it.
 - If residue enters during the operation, the first patients remain rescuable and the hall can reopen after damage.
 - If the party is defeated, one sponsor secures the building and writes its own narrower terms.
 
@@ -196,7 +217,7 @@ Technical, social, stealth, and cultural abilities change method and cost rather
 - `west_refuge_hall_state`: ready, reduced, damaged, or occupied;
 - `west_refuge_sponsor_terms`: bounded, ducal, church, Blackjack, Folk-priority, or fractured;
 - `first_patient_groups_state`: all-admitted, divided, displaced, or harmed;
-- `west_refuge_rank_tablet_state`: severed, removed, isolated, or active.
+- `bernard_drill_result`: ran-without-him, ran-with-prompting, dependent, or failed.
 
 ## Autonomous Resolution
 

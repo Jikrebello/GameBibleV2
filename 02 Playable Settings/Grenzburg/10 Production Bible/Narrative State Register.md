@@ -237,6 +237,10 @@ Duplicate implementation keys across these authorities are prohibited unless one
 | `bernard_hunger_named_early` | companion preparation | Bernard Valeon | 0 | [[Bernard Compulsion and Accountability System#The Spare Blanket|The Spare Blanket]] |
 | `bernard_open_store_procedure_practiced` | companion preparation | Bernard Valeon | 0 | [[Bernard Compulsion and Accountability System#Open-Store Practice|Open-Store Practice]] |
 | `bernard_named_store_custodians` | companion preparation | Bernard Valeon | 0 | [[Bernard Compulsion and Accountability System#Open-Store Practice|Open-Store Practice]] |
+| `lenka_state` | companion relationship | Bernard Valeon | 2 | [[Lenka Vrana]] — **fixed; never moves; approval-neutral** |
+| `bernard_drill_result` | companion | Bernard Valeon | 4 | [[Beds Before Banners]] — ran-without-him / ran-with-prompting / dependent / failed |
+| `white_flame_public_reading` | companion / district | Bernard Valeon | 3 | [[Embers Without Excuse]] — vindicated / contested / quiet |
+| `hospice_cold_injury_child` | consequence | Bernard Valeon | 4 | [[The Open Hospice]] — **written at the allocation, never displayed; surfaces once in [[Grace]]; unrepairable** |
 | `bernard_longlake_route_secured` | companion preparation | Bernard Valeon | 0 | [[Roads Worth Saving]] |
 | `bernard_service_injury_claim_supported` | companion preparation | Bernard Valeon | 0 | [[A Debt That Grew Wounded]] |
 | `bernard_pikehook_snare_line_mapped` | companion preparation | Bernard Valeon | 0 | [[Grenzburg Worldspace Location Register#Bernard Embedded Care Routes|Pikehook snare line]] |
@@ -309,8 +313,8 @@ Duplicate implementation keys across these authorities are prohibited unless one
 | `bernard_duo_move_upgrade` | relationship | Bernard Valeon | 9 | [[The Open Hospice]] |
 | `bernard_owned_greatsword_name` | companion | Bernard Valeon | 9 | [[The Open Hospice]] |
 | `bernard_summer_destination` | companion | Bernard Valeon | 9 | [[The Open Hospice]] |
-| `bernard_summer_coda` | companion | Bernard Valeon | 10 | [[The First Open Table]] |
-| `first_open_table_state` | companion | Bernard Valeon | 10 | [[The First Open Table]] |
+| `bernard_summer_coda` | companion | Bernard Valeon | 10 | [[Grace]] |
+| `first_open_table_state` | companion | Bernard Valeon | 10 | [[Grace]] |
 | `dismas_old_crime_named` | companion | Dismas Raben | 1 | [[The Sound of Falling Stone]] |
 | `dismas_rescue_response` | companion | Dismas Raben | 1 | [[The Sound of Falling Stone]] |
 | `quarry_workers_state` | companion | Dismas Raben | 1 | [[The Sound of Falling Stone]] |

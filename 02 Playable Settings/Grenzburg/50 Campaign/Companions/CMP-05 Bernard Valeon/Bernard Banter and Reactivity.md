@@ -111,6 +111,68 @@ He does not pray aloud.
 
 When the fire fails, he rebuilds it without leaving.
 
+### Resentment — The fourth night (Hidden Heavyweight)
+
+Bernard has cooked four suppers in four shelters in four nights. A carer asks him, reasonably, for the third time, how the flue works.
+
+**Bernard:** “It works when somebody watches it. That is the whole trick. That is the entire—”
+
+He stops.
+
+**Bernard:** “Ask Hannel. She knows it better than I do.”
+
+*(She does not, yet. He is not lying to be kind; he is getting out of the room.)*
+
+Later, to the player, without being asked:
+
+**Bernard:** “I was going to say something about how many pots I have carried this week.”
+
+**Player:** “Why didn't you?”
+
+**Bernard:** “Because it is true.”
+
+### Differential grace — The stallholder
+
+Bernard returns a taken tin flask in the Old Market, before witnesses, badly.
+
+The stallholder waves it off. Refuses payment. Turns it into a story — *the big knight and my flask* — and by evening he is telling it to other stallholders and they are all delighted.
+
+Hannel is standing behind Bernard with a basket.
+
+**Hannel:** “Nobody laughed when it was me.”
+
+She does not stay for his answer. There is no good answer, and the crowd is still enjoying itself.
+
+**Bernard:** *(to the stallholder, against the room's goodwill)* “I would like to pay for it.”
+
+**Stallholder:** “Don't be daft.”
+
+He can leave it there, warm and forgiven, or he can insist and be ungracious in front of people who like him. Both are in character. Only one of them is honest.
+
+### Silence — The joke that fails
+
+A frightened child who does not share his language.
+
+Bernard offers the invented kitchen office, the grave commission, the solemn absurd title.
+
+Nothing.
+
+He sits down on the floor, at the distance the child chooses, and says nothing at all, and is still there when the carer comes.
+
+*No line follows this scene. Do not write one.*
+
+### Winter — The first hard freeze
+
+The Yard is stacking for the cold. Bernard counts the stores twice before noon and once more after supper, and nobody notices except the player.
+
+Found at the store board by lamplight, well after the watch bell:
+
+**Bernard:** “It is early for this cold. Froststep was later. Two weeks later.”
+
+The player may stay or go.
+
+If they stay, he finishes the count aloud, hands over the chalk, and goes to bed. If they do not, he finishes it alone and is entirely himself in the morning. **No state moves.** The scene exists so that winter gets to be his antagonist once, for free.
+
 ## Company-Life Voice Samples
 
 Bernard turns over a boot with two different soles.
@@ -193,7 +255,11 @@ Reject any Bernard line that:
 - makes him solemn whenever faith appears;
 - treats every joke as trauma concealment;
 - uses White Flame as proof that he is good;
-- makes the player responsible for monitoring him like a child.
+- makes the player responsible for monitoring him like a child;
+- **treats the city's forgiveness as deserved.** When Grenzburg waves off his account because he is large and funny and useful, that is the hazard, not the reward;
+- **lets Hannel analyze.** She states unfairness in short declaratives and leaves. She does not explain power to anyone;
+- **explains Lenka,** argues with her, or gives her a second scene. She said her piece once and the world does not move her;
+- **explains the resentment away.** He is allowed to be tired of carrying without the scene converting it into a lesson about self-care.
 
 ## Navigation
 

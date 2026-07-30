@@ -59,7 +59,7 @@ pleasure_beat: "Food, absurdity, road stories, children laughing, and companions
 care_beat: "Bernard feeds, shelters, steadies, and tells the truth about what he takes or withholds."
 player_archetype_hooks: ["Cheerleader", "Tomboy", "Goth", "Bohemian", "Jock", "Nerd", "Rebel", "Goofball", "Grey"]
 ---
-# The First Open Table
+# Grace
 
 ## Quest Function
 
@@ -75,7 +75,20 @@ A first postwar meal is served beside an open patient and store board. Every ver
 - named store custodians or an honest acknowledgement that they were never established;
 - people from more than one wartime group;
 - a visible place for Bernard's prayer rope, sword, or absence;
-- no claim that White Flame erased Froststep.
+- no claim that White Flame erased Froststep;
+- **the child, and the hand.**
+
+## The Child, and the Hand
+
+One beat, in every version of this coda including the memorial and the departed ones, placed late and quietly and never announced.
+
+A child from the hospice convoy is at the table — Mika's cousin, or the captive's child under whatever settlement the war left, whichever of them went without warming salve on the cold night of [[The Open Hospice]]'s triage wave. `hospice_cold_injury_child` says which.
+
+They cannot fully close one hand. It is small: a stiff grip, a spoon held wrong, a mitten that gets pulled on with the other hand and a mother who does not comment because it has stopped being new. Nobody at the table connects it to a night in a hall in the spring. Nobody in the scene explains it. **The player is not told; the player is shown, and only once.**
+
+There is no repair, no reveal scene, no dialogue option, and no acknowledgement anywhere in the summer content. Judgement closed months ago. This is what closed judgement looks like when the arithmetic was already wrong in the dark — the same shape as Froststep's five, one child smaller, discovered by a stranger over supper.
+
+If Bernard is present and resolved, he sees it. He does not say anything about it. He passes the bread.
 
 ## Destination Variants
 
@@ -106,6 +119,14 @@ Bernard's place is empty. Brina, Hannel, Oda, or a surviving carer explains what
 ### Sacrificed
 
 The table includes the people saved by his explicit final stand. The prayer rope and sword are handled according to the final scene. Memorial dialogue records both his service and his culpability without posthumous absolution.
+
+## Lenka
+
+[[Lenka Vrana]] is at the table, eating.
+
+Somebody else served her — a carer, Hannel, a porter, whoever is on the ladle. She is not seated near Bernard and did not choose to be seated far from him. She talks with the person on her left about the price of soap.
+
+That is the entire beat, and it is the furthest the world ever moves her: three seasons after she told him she would not eat from his hand, she is eating in a room he built, and it still is not from his hand. `lenka_state` has not changed and will not.
 
 ## Open Hand
 

@@ -21,6 +21,9 @@ foil: "Zafir ibn Samad"
 relationship_theme: "receiving without taking"
 relationship_perks: ["Kept in the Light", "Last Watch"]
 archetype: "Goofball"
+archetype_secondary: "Jock"
+archetype_blend: "Hidden Heavyweight"
+archetype_creed: "I would rather be underestimated and liked than continuously evaluated."
 archetype_desire: "worth through warmth, play, and resilience"
 archetype_currency: "making fear bearable and people glad he is present"
 archetype_humiliation: "the silence after the joke, when others may judge or discard him"
@@ -53,6 +56,24 @@ Bernard establishes worth through warmth, play, and resilience. He wants to make
 At his best, he protects dignity without requiring solemnity. At his worst, he uses charm, oddity, and helpfulness to speed past the moment when people might judge his theft, scarcity habits, or lies.
 
 His resolved arc does not cure his compulsion, make him austere, or prove that White Flame has absolved him. He learns to name the urge, receive enough openly, make specific repair, and remain funny after the room has heard the truth.
+
+## Creed
+
+Bernard is a Goofball carrying a Jock's body and a Jock's usefulness — the Hidden Heavyweight, who would rather be underestimated and liked than continuously assessed, and who becomes formidable exactly when it matters and not one moment before.
+
+The blend's payload is the register his warmth conceals:
+
+- **Under stress he gets louder, and then abruptly, physically decisive.** The jokes accelerate, thin, and stop; then he is simply in front of the danger, and the change is its own command.
+- **Responsibility breeds resentment he has never once been allowed to say.** He is tired of being the one who cooks, carries, and absorbs the room's fear, and the only person who has never given him permission to be tired of it is Bernard.
+- **He can play dumber than he is.** Feigned incompetence is a Goofball's oldest exit — "I couldn't teach anyone my handwriting" — and it is how he stays indispensable without ever saying that he wants to be.
+
+## Scale
+
+The campaign's governing rule: **the war gets bigger and the object gets smaller.**
+
+Act I's decisive object is a food portion among children. Act II's is a salve packet in a siege. Act III's is one dose with a name on it. Institutions grow around him — a school wagon, a network of four shelters, a hospice — while the thing that actually decides who he is keeps shrinking toward a single hidden item in a single pocket.
+
+His silhouette is a **spiral, not an escalation**: relapse, repair, relapse smaller.
 
 ## Identity
 
@@ -94,12 +115,7 @@ His deprivation explains the compulsion. It does not excuse taking from other vu
 
 ## The Long Watch
 
-Bernard joined the Order of the Long Watch as a lay knight under vows of poverty and obedience.
-
-- The order permits marriage.
-- Bernard took no vow of chastity.
-- He was never ordained.
-- He may offer private prayer but cannot administer sacraments or claim priestly authority.
+Bernard joined the Order of the Long Watch as a lay knight under vows of poverty and obedience. He was never ordained, and the Long Watch does not ask its lay knights for chastity — its married members keep households, and its unordained ones may pray beside the dying without pretending to absolve them.
 
 Before dangerous fights he offers the Last Ember:
 
@@ -225,15 +241,11 @@ The system should sometimes be awkward, sometimes sad, and occasionally darkly f
 
 Bernard understands the Redeemer through Thalmyric prayer, icon, road hospice, liturgy, and personal service.
 
-White Flame is a gift responding to moral coherence. It is not:
-
-- a battery in his prayer rope;
-- proof of innocence;
-- an order's property;
-- a substitute for restitution;
-- a reward the player can force through correct dialogue.
+White Flame is a gift responding to moral coherence. It is not proof of innocence, an order's property, a substitute for restitution, or a reward the player can force through correct dialogue — and it is certainly not stored in his prayer rope.
 
 His early kindling supports stabilization, courage, cleansing, and brief protection. Stronger Paladin expression follows `Embers Without Excuse` only when he serves courageously without using service as acquittal.
+
+**What the crowd does with it is a separate problem, and the campaign stages it.** Visible grace in a devout city gets read as a verdict whether the metaphysics agree or not: after the infirmary, people will try to hang votives by his bunk, ask him to bless children, and preach that the debt is plainly annulled. Bernard then has to insist on his own guilt against a room that has decided to absolve him, which is the only version of this theme that requires the player to be present. See [[Embers Without Excuse]].
 
 ## Present-Day Grenzburg
 
@@ -251,7 +263,11 @@ Reader [[Oda Reed-Way]] values Bernard's rapport with children and corrects any 
 
 ### Ordinary Debtors
 
-Bernard knows who eats alone, who hides medicine, who hates being prayed over, and which person will accept care only if it is framed as a task. He is loved before he is trusted fully.
+Bernard knows who eats alone, who hides medicine, who hates being prayed over, and which person will accept care only if it is framed as a task. He is loved before he is trusted fully — and being loved is its own hazard, because Grenzburg keeps forgiving him for things it would not forgive a poorer or less amusing man.
+
+### Lantern Ward
+
+[[Lenka Vrana]] launders there. Her father was on the second sled. She takes the shelters, the network, and the Yard's help, and she will not take food from Bernard's hand — a refusal shaped precisely to the only language he has. Nothing he does changes it, and she never once raises her voice about it.
 
 ## Company Routine
 
@@ -308,12 +324,14 @@ His campaign must include:
 
 1. the pleasure of Bernard's company before the first relapse is solved;
 2. children who like him without becoming instruments of redemption;
-3. a gift he cannot earn, steal, or repay;
-4. humor failing and the relationship surviving;
-5. Petra's independent judgement;
-6. White Flame kindling during courageous service without erasing accountability;
+3. a gift he cannot earn, steal, or repay — and cannot covertly repay afterward;
+4. **humor failing and the relationship surviving** — staged in the triage wave of [[The Open Hospice]], where the joke dies in front of a child who does not share his language and he has to stay in the room without it;
+5. Petra's independent judgement, in her own words, unvarying;
+6. White Flame kindling during courageous service — and the city misreading it as acquittal while he refuses the acquittal;
 7. an open institution whose stores remain honest when Bernard is tired and afraid;
-8. resolved, supervised, concealed, or sacrificial outcomes.
+8. the world declining to punish him because he is beloved, in front of somebody it did punish;
+9. one scene of resentment, and one of feigned incompetence;
+10. resolved, supervised, concealed, or sacrificial outcomes.
 
 ## Relationships
 
@@ -345,7 +363,7 @@ Their best friendship refuses the easy split:
 ## Seasonal Movement
 
 - **Autumn:** becomes beloved company and confronts the first visible relapse.
-- **Winter:** serves under scarcity, faces Petra, and discovers whether serious judgement ends affection.
+- **Winter:** serves under scarcity, receives Petra's letter, watches the city try to absolve him for a fire he walked into, and discovers whether serious judgement ends affection.
 - **Spring:** builds or fails to build a hospice where care and inventory support one another.
 - **Summer:** serves Open Lamp, Long Watch, the Blackjack infirmary, a travelling household, or no trusted institution according to play.
 
@@ -358,7 +376,8 @@ He cannot die autonomously. Sacrifice requires an explicit late player decision 
 - [[Bernard Compulsion and Accountability System]]
 - [[Bernard Long Watch Greatsword Package]]
 - [[Bernard Field Familiarity and Relationships]]
-- [[The Froststep Evacuation]]
+- [[The Froststep Evacuation]] · [[The Froststep Packet]]
+- [[Lenka Vrana]]
 - [[Companion Archetype Constitution]]
 - [[Companion Archetype Chemistry Matrix]]
 - [[Companion Emotional Rewrite Audit]]

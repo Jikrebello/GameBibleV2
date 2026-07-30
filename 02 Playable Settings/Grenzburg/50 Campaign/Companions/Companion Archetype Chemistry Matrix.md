@@ -79,7 +79,12 @@ Roster symmetry: Elara is Cheerleader→Tomboy and [[Ashira bath Melan]] is Goth
 | Goofball | shared improvisation | play can remain affectionate without status competition | joy becomes permanent adolescence unless both learn appointments, repair, and follow-through |
 | Grey | curious collaborator | the player answers each invitation on its own terms | Ilyana cannot assume admiration, rebellion, or practicality and must listen for an actual preference |
 
-## Bernard Valeon — Goofball
+## Bernard Valeon — Goofball / Jock secondary
+
+**Blend: the Hidden Heavyweight.** Creed: *“I would rather be underestimated and liked than continuously evaluated.”* Stress behaviour: louder, then abruptly and physically decisive. Shadow notes now in play: resentment of responsibility, and feigned incompetence as an exit.
+
+Roster symmetry: Bernard is Goofball→Jock and [[Zafir ibn Samad]] is Nerd→Goofball. **Each man is the other's blend reversed** — hidden weight against hidden play — which is the engine under the Label Board, the Fifth Pot, and Welcome-and-Exit. Neither can dismiss the other's primary without dismissing his own secondary.
+
 
 | Player tendency | Relationship register | What catches Bernard's attention | Recurring pressure |
 |---|---|---|---|

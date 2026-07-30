@@ -44,7 +44,7 @@ preparation_inputs: ["bernard_west_refuge_neutral_claim", "bernard_reclaimed_pat
 preparation_threshold: "2 of 5"
 autonomous_deadline: "The Deep Muster"
 autonomous_resolution: "Brina moves Bernard's viable care service into the Blackjack infirmary under open inventory control; Open Lamp remains unrealized and Bernard remains uncertain"
-changed_reentry: "The First Open Table"
+changed_reentry: "Grace"
 ensemble_inputs: ["Ylva Winter-Track", "Ilyana Veshkar", "Zafir ibn Samad"]
 identity_hooks: []
 encounter_deck: []
@@ -142,6 +142,8 @@ At West Refuge Hall the duo finds three groups already waiting:
 - debtor families carrying two injured Blackjack porters;
 - Chapel-Folk and Grobi dependents escorted under guard after separate fighting.
 
+Among the Lantern Ward arrivals is a Kedravan laundress who takes a bed, a blanket, and a carer, and who will not take a bowl from Bernard's hand. She is not a scene. See [[Lenka Vrana]].
+
 Church staff offer medicine if a priest controls admission. Ducal officers offer shields if soldiers receive first priority. Medori agents offer carts if debtor treatment is recorded against company liabilities. Folk helpers offer route knowledge if their sanctuary practices are respected.
 
 The player can accept bounded help from any or all parties. The strongest arrangement preserves the admission rule while giving each helper a defined practical role. Rejecting every institution remains possible but lowers initial resources.
@@ -162,7 +164,18 @@ Open the rear cart door, mark two patient routes, and separate contagious, immob
 
 Bring supplies from Mercy Hospital, the Blackjack Yard, and one optional faction source. Every load is counted before witnesses and placed on a public tally board. Bernard is entrusted with no unrecorded personal store.
 
-During the count he finds a sealed warming-salve crate incorrectly omitted from the Church manifest. He can report it, create a declared emergency reserve with named release conditions, or hide it beneath the hospice floor. A declared reserve is responsible provision; the hidden crate repeats his original lie.
+**And there is already something in his coat.**
+
+Before the count began — before the player arrived, before anyone asked him for anything — Bernard set aside the last full portion of warming salve. Not for himself. For **Mika Reed-Kin's** feverish younger cousin, who came in with the Longlake arrivals in [[Beds Before Banners]] and who is eight years old and whom Bernard has been feeding since winter.
+
+**Mika did not ask him to.** Nobody asked him to. He simply did it, the way he did the bakehouse floor at Froststep, out of love and arithmetic, and the salve is not on the board.
+
+The taking is done. The live choice is the concealment — the same architecture as [[Little Things Missing]], at the end of the campaign instead of the start, with a name on it.
+
+- **Named now:** he puts it on the tally before the shortage is known, as a declared reserve with a stated release condition. Supports `truthful`.
+- **Named at the call:** he speaks when the allocation comes up (see the Triage Wave). Supports `truthful` at higher cost.
+- **Discovered:** the witnessed count, Hanne's tally, Zafir's weight-check assist, or the allocation itself exposes it. Supports `uncertain`.
+- **Maintained:** he keeps it, or shifts the account. Supports `withholding`.
 
 ### Pause Point: Hospice Site Declared
 
@@ -198,7 +211,51 @@ A spring convoy arrives during a brief dead-march lull. The player assigns finit
 
 No group is disposable. Triage determines location and urgency, not moral worth. Insight, Medicine-related background knowledge, and faction relationships provide clearer projections; the player always receives enough information to choose.
 
-Bernard proposes opening the declared reserve when the ward exceeds capacity. If the crate was hidden, the player can force disclosure, accept the concealment, or discover it after a patient goes without salve.
+### The Shortage — intentional, undissolvable
+
+**The wave exceeds the medicine at every preparation level.** Three assets, five assets, perfect play: the salve does not stretch to cover the cold injuries in this convoy. Preparation changes *who* bears the shortage and *how badly* — never whether somebody does.
+
+Do not rebalance this toward sufficiency; see [[Bernard Companion Campaign]]. A hospice that can always be supplied teaches nothing about the man who hoards.
+
+### The Allocation
+
+Sister Hanne calls the salve for a guarded captive's child — a Grobi dependent, eight years old, brought in under escort after separate fighting, exactly the case Bernard's own one-page admission rule was written to protect:
+
+> The wounded enter by need. Their uniform, debt, kindred, confession, and captivity determine security arrangements, not whether care is owed.
+
+There is no salve on the board, because it is in Bernard's coat, and it is for a child he loves.
+
+**His love breaks his law.** That is the campaign's thesis in one object, and the quest must let the player feel the pull of it: Mika's cousin is a face, the captive's child is a case, and everyone in the room including Bernard knows which one he would choose if nobody were watching.
+
+His choice, and the outcome mapping:
+
+- **Resolved** — he names it at the call, before discovery, and the salve goes where the rule sends it. The strongest line in his campaign is not eloquent; it is the same register as *“Open it. Write that I was afraid. Open it anyway.”*
+- **Compromised** — discovered, then owned. Real service, real care, and one more thing he only said out loud after somebody found it.
+- **Broken** — maintained, or blamed on the manifest, or justified by the fever chart he did not write.
+
+### “The child required nothing”
+
+Elara's excuse was *I did what the house required*, and the house required nothing.
+
+Bernard's is *I did what love required* — and **the child required nothing.** Mika never asked. Nobody asked. He made a person into the reason for a lie, on his own, out of love, and the naming scene must say so plainly if it is played:
+
+> “She never asked me. I want that written too.”
+
+**Mika's reaction is written, not skipped.** Being made the justification for something is its own injury: an eleven-year-old who once hid two food portions for a sibling and was handled gently about it now finds out she was the reason a stranger's child went without. She is not grateful. She does not forgive him in the scene. `mika_food_state` gains a downstream note either way.
+
+### The Silence After the Joke
+
+Somewhere in the wave, Bernard tries the thing that has never once failed him.
+
+The captive's child is terrified and alone in a corner of a ward full of soldiers. So he does the bit: the invented kitchen office, the grave commission, the absurd title solemnly conferred — the routine that made Hannel judge a porridge contest and a frightened passenger hold a refuge bell in the reeds.
+
+The child does not share his language.
+
+Nothing lands. Nobody laughs. There is no translation and no time to find one, and the guard is watching, and Bernard is standing in a room holding the only tool he has ever trusted, and it does not work here.
+
+**He stays.** He sits down on the floor at a distance the child chooses, and he is quiet, and he is still there when the carer comes. That is the entire beat: two minutes, no dialogue lesson, nobody comments afterward.
+
+His frontmatter names his humiliation as *the silence after the joke, when others may judge or discard him.* This is the scene where he finds out that the silence is survivable and the room does not discard him — and that he has nothing to offer except presence, which turns out to be the thing he has been claiming to offer all along.
 
 ### Pause Point: Patients Sheltered
 
@@ -232,6 +289,14 @@ No timer, failed check, hidden approval value, or ordinary combat defeat selects
 ## End: The Final Inventory
 
 After the assault, Bernard performs the count before treating his own wounds. The result establishes the moral outcome.
+
+**And the count balances.** Whatever he named or concealed, whoever got the salve, the hospice's paper is straight and its people are alive, and the night reads as a success to everyone in it.
+
+The cost is not in the inventory. One of the two children went without warming salve on a cold night with a fever, and cold injuries in children are slow and quiet and do not present for weeks. Nobody in this quest knows. **No warning fires, no state flags it, and no dialogue foreshadows it** — it surfaces once, months later, in [[Grace]], after judgement has closed and nothing can be done.
+
+This is intentional and flagged in [[Bernard Companion Campaign]]: **do not add a warning, a save, or a repair path.** Froststep's five became five because a number was wrong in the dark; this is one, discovered the way every harm Bernard has ever done was discovered — later, by someone else, when it was already permanent.
+
+`hospice_cold_injury_child` records which child bore the shortage. It is written at the allocation and never displayed.
 
 ### Resolved
 
@@ -318,7 +383,7 @@ If the player commits to [[The Deep Muster Main Quest|The Deep Muster]] without 
 - he has not developed independent accountability;
 - no capstone, blueprint, relationship perk, or sword-name reward is granted.
 
-Truthful influence and strong preparation can establish Open Lamp autonomously with permanent material losses. Withholding can leave the hall sponsor-controlled, lost, or followed by a warned departure. No autonomous route selects Bernard's sacrifice, and [[The First Open Table]] reflects rather than reopens the result.
+Truthful influence and strong preparation can establish Open Lamp autonomously with permanent material losses. Withholding can leave the hall sponsor-controlled, lost, or followed by a warned departure. No autonomous route selects Bernard's sacrifice, and [[Grace]] reflects rather than reopens the result.
 
 ## The Sword Named
 
@@ -353,7 +418,7 @@ The summer game reflects patients saved, sponsor terms, the selected destination
 - [[Bernard Compulsion and Accountability System]]
 - [[Corpse Residue]]
 - [[The Unending Muster]]
-- [[The First Open Table]]
+- [[Grace]]
 - [[Companion Field Familiarity and Duo Quest Standard]]
 - [[Narrative State Register]]
 - [[Companions MOC]]

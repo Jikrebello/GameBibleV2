@@ -107,7 +107,11 @@ The residents insist on contributing onions, mending, or tomorrow's carrying shi
 
 Children rename the stew after every ingredient. A Chapel-Folk host quietly corrects Bernard when his welcoming speech begins to sound like ownership of the room.
 
+A Kedravan laundress in the queue waits for a different server, takes her soup from a ladle six feet from where Bernard is standing, and eats it looking at nothing in particular. She is civil to him. She does not take the bowl from his hand, and she will not, ever. Nothing marks the moment; see [[Lenka Vrana]].
+
 ### Funnel Camp
+
+By the fourth night Bernard is grey with tiredness, and when somebody says so he waves it off with a joke about the pot being heavier than the war. It is a small beat and it is a seed: the [[Beds Before Banners]] drill collects on it.
 
 Carters know a service lane omitted from official maps. A stranger who has received one bowl volunteers the shortest path between all four shelters; the route belongs to the people using it, not to Bernard.
 

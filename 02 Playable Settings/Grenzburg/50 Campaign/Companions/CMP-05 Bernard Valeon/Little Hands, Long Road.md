@@ -153,20 +153,30 @@ At the cairn, the children practice leaving a route message. Ansel finds a broad
 
 The player may reinforce caution, dismiss the sign, or inspect further. Broken brush, blood on a root, and old iron scent independently reveal injury. Missing all three advances Bear Stress but does not remove later warnings.
 
+## The Count, and What Is In Bernard's Pack
+
+**Bernard carries an undeclared portion. In every route, played or autonomous.** He put it in his own pack at Bent Oak before anyone was watching, out of the same reflex that filled a bakehouse floor — bread and a twist of salt, for later, in case. The taking precedes the player's agency; the concealment does not.
+
+If `bernard_hunger_named_early` was earned in **The Spare Blanket**, he names it at the Lake Road Cairn count. It is a small, real shame in front of children, the count comes right, and the cost is nonzero and survivable — **and Mika watches an adult say it out loud.** This is the moment that asset was always trying to buy.
+
+If it was not earned, the midday count is wrong *because of him*, and nobody knows it. The shelter decision — push past Reedmile or wait out the weather — gets made on bad numbers. The group moves late into the marsh; the separation happens at a worse place on the road; a child goes hungry a night that nobody planned for. **The Froststep chain in miniature: the paper was consistent with itself.**
+
 ## Mika's Hidden Food
 
-At the midday count, two portions are missing. Bernard notices Mika's stiff pocket and asks Oda for a private interval rather than naming the child before the group.
+At the midday count, two more portions are missing, and this time it is not him.
 
-Mika has hidden the food for a younger foster sibling who believes the school trip receives better meals. The player may support:
+Bernard notices Mika's stiff pocket and asks Oda for a private interval rather than naming the child before the group. Mika has hidden the food for a younger foster sibling who believes the school trip receives better meals.
 
-- private truth, an honest recount, and a separate household food request;
-- returning one portion while Oda authorizes the other as a declared gift;
-- public discipline;
-- concealment and a false count.
+**The mirror can distort.** Which version of this scene the player gets depends on what is in Bernard's own pack:
+
+- **He declared at the cairn.** Mika may self-report before anyone asks — she has seen it done, once, by an adult, and it did not destroy him. If she does, the scene is about a household food solution rather than a confession.
+- **He is still carrying his.** He has to handle a child's concealment while concealing his own, and the quest forks on whether he says *mine first* — one sentence, in front of Oda and a child, at real cost — or manages Mika honestly-but-hypocritically, which works, and which the player can see working.
+
+The player may support private truth and a separate household food request; a returned portion with Oda authorizing the other as a declared gift; public discipline; or concealment and a false count.
 
 Bernard favors privacy joined to an actual food solution. He does not tell Mika that taking is harmless, and he does not reveal his full history to make the child comfort him.
 
-The best response preserves Mika's dignity, restores the count, and sends a named portion home through ordinary refuge stores.
+The best response preserves Mika's dignity, restores the count, and sends a named portion home through ordinary refuge stores. It cannot be reached while Bernard is lying about his own pack.
 
 ## Reedmile Chapel
 
@@ -220,6 +230,10 @@ At supper:
 - Mika's household food solution is either recorded, concealed, or refused;
 - Oda assesses whether the road school should continue;
 - Bernard accepts thanks without calling danger proof that he is good.
+
+**And the count is reconciled at the table, out loud, by Oda.** If Bernard concealed his portion, this is where it lands: the shortfall traced back to the pack in front of seven children who trusted the number, one of whom went hungry for a night because of it, and one of whom is Mika. He is not shouted at. Oda simply reads the corrected count and does not look at him, and Tova asks why they were short, and somebody has to answer her.
+
+The confession, if it comes here, costs more than any other version in the campaign — because the audience is children, the stake was a night's food, and the object was the size of a fist.
 
 If the bear survives, local hunters monitor it and remove the abandoned snare line. If it dies, useful meat and hide are accounted under refuge custom without turning the animal into a trophy monster.
 

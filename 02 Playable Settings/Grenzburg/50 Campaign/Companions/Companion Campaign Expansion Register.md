@@ -141,7 +141,7 @@ Embedded opportunities: 10 blocked through [[Ashira Companion Campaign]] and [[A
 | CMP-05-BD | sworn-bond episode | [[Watch Until Morning]] | blocked; migrated; cleared |
 | CMP-05-A3-O | Act III operation | [[Beds Before Banners]] | blocked; migrated; cleared |
 | CMP-05-A3-F | Act III finale | [[The Open Hospice]] | blocked; migrated; cleared |
-| CMP-05-S | summer coda | [[The First Open Table]] | blocked; migrated; cleared |
+| CMP-05-S | summer coda | [[Grace]] | blocked; migrated; cleared |
 
 Embedded opportunities: 10 blocked through [[Bernard Companion Campaign]] and [[Bernard Banter and Reactivity]]. Act readiness is two of five; all three autonomous results and changed re-entry states are locked.
 

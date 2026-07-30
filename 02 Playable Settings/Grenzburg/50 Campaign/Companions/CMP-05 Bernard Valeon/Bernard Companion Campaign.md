@@ -40,6 +40,21 @@ The campaign lets the player enjoy him before asking him to remain present when 
 
 Direct discussion of Froststep occupies less than one-third of ambient Bernard material. The rest is food, work, jokes, prayer, children, company life, danger, affection, and Grenzburg.
 
+## Campaign Shape
+
+**The war gets bigger and the object gets smaller.**
+
+Act I's decisive object is a food portion among seven children on a road. Act II's is a salve packet under a folding table in a siege. Act III's is one dose with a name on it, in a coat, in a hospice he built. The institutions expand — wagon, network, hall — while the thing that actually decides who he is keeps shrinking toward a single hidden item in a single pocket.
+
+His silhouette is a **spiral, not an escalation:** relapse, repair, relapse smaller. He does not graduate from concealment; he gets better at catching himself, later than he should, in front of people who are harder to face each time.
+
+### Two intentional exceptions — do not regress
+
+1. **The shortage in [[The Open Hospice]] is real at every preparation level.** Preparation changes who bears it and how badly, never whether somebody does. A hospice that can always be supplied teaches nothing about a man who hoards.
+2. **The cold injury to the child who went without is permanent, unwarned, and unrepairable.** It is written at the allocation, displayed nowhere, and surfaces once in [[Grace]] after judgement has closed. Do not add a warning, a save, or a repair path.
+
+`lenka_state` is likewise fixed and sits outside the ordinary conflict-and-repair loop; see [[Lenka Vrana]].
+
 ## Formal Campaign
 
 | Seq. | ID | Piece | Format | Function |
@@ -54,7 +69,7 @@ Direct discussion of Froststep occupies less than one-third of ambient Bernard m
 | 7 | CMP-05-BD | [[Watch Until Morning]] | male bond | repair a shelter and become sworn brothers through shared service |
 | 8 | CMP-05-A3-O | [[Beds Before Banners]] | normal party | protect familiar patients and establish neutral admission at West Refuge Hall |
 | 9 | CMP-05-A3-F | [[The Open Hospice]] | duo | move patients, keep witnessed stores, survive residue, and choose a destination |
-| 10 | CMP-05-S | [[The First Open Table]] | normal party/changed | demonstrate Bernard's settled conduct through an ordinary meal |
+| 10 | CMP-05-S | [[Grace]] | normal party/changed | demonstrate Bernard's settled conduct through an ordinary meal; the scar surfaces |
 
 Only the three act finales use the fixed player-plus-Bernard party. Romance and bond are mutually exclusive. Friendship alone can reach Bernard's strongest moral resolution and every non-relationship progression reward.
 
@@ -148,7 +163,7 @@ Truthful direction and three assets can improve autonomous moral conduct while p
 
 **Ashes in the Storebook:** missing Act II opens a spring restitution aftermath. Bernard may complete personal severance and repair a concealed record, but the Paladin unlock, romance, bond, and finale rewards remain closed for that playthrough. The transition docket states this explicitly.
 
-Missing Act III fixes Bernard's autonomous destination. [[The First Open Table]] reflects it rather than reopening the hospice decision.
+Missing Act III fixes Bernard's autonomous destination. [[Grace]] reflects it rather than reopening the hospice decision.
 
 ## Progression
 

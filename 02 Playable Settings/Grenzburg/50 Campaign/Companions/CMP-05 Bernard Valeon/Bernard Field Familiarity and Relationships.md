@@ -70,7 +70,7 @@ Commitment to [[Ghor at the Gate]] resolves the chapter autonomously. The transi
 
 [[Beds Before Banners]] prepares West Refuge Hall. [[The Open Hospice]] becomes joinable when two of its five Act III assets are held and remains open until commitment to [[The Deep Muster Main Quest|The Deep Muster]]. No relationship is required: a trusted friend may reach Bernard's strongest moral resolution and every non-romantic destination.
 
-A committed romance unlocks [[Enough for Two]]. A committed sworn bond unlocks [[Watch Until Morning]]. The two episodes are separate authored experiences and mutually exclusive. [[The First Open Table]] reflects the settled or autonomous result in summer and never reopens the hospice judgement.
+A committed romance unlocks [[Enough for Two]]. A committed sworn bond unlocks [[Watch Until Morning]]. The two episodes are separate authored experiences and mutually exclusive. [[Grace]] reflects the settled or autonomous result in summer and never reopens the hospice judgement.
 
 Only [[Little Hands, Long Road]], [[Embers Without Excuse]], and [[The Open Hospice]] are fixed player-plus-Bernard duo quests. Operations retain the normal field party; friendship and relationship episodes are private one-on-one activities.
 
@@ -95,6 +95,24 @@ The player may choose stricter supervision, but permanent surveillance cannot pr
 - **withholding:** he hides stores, shifts blame, or uses institutional or sacred authority as protection from consequence.
 
 Affection cannot buy a truthful outcome. Equally, a stern but proportionate demand for restitution does not by itself make Bernard Strained.
+
+## Outside the Repair Loop
+
+One relationship is deliberately excluded from the conflict-and-repair system, and no approval state, direction, restitution, or outcome reaches it.
+
+**[[Lenka Vrana]].** Her father was on the second sled. She takes the shelters, the network, the Yard's help, a bed, a blanket, and a carer — and never food from Bernard's hand. `lenka_state` does not move. She is approval-neutral in both directions: nothing the player does with her changes Bernard's approval, because she is not a mechanism. Do not add a repair path, a hidden threshold, or a late reconciliation.
+
+Two further consequences are fixed rather than relational, and both are flagged in [[Bernard Companion Campaign]]: the shortage in [[The Open Hospice]] is real at every preparation level, and the cold injury it causes is permanent, unwarned, and surfaces only in [[Grace]].
+
+**New approval hooks from the spec pass:**
+
+- naming the undeclared portion at the Lake Road Cairn count in [[Little Hands, Long Road]];
+- accepting the drill in [[Beds Before Banners]] without taking a station back, and apologizing for the snap with the true reason rather than a charming one;
+- refusing the city's absolution after the kindling in [[Embers Without Excuse]], including taking down the votive;
+- accepting the gift in [[A Blade Freely Given]] and letting the un-repaying scene end;
+- naming the salve at the allocation in [[The Open Hospice]] before discovery.
+
+Public spectacle for its own sake still reduces openness. Concealment still creates a named conflict rather than invisible approval loss.
 
 ## Conflict and Departure
 

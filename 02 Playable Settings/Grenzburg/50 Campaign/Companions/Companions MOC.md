@@ -106,7 +106,7 @@ Every companion except Dismas has eleven authored pieces carrying `architecture_
 | CMP-05-BD | [[Watch Until Morning]] | [[Bernard Valeon]] | act-3 | Early Spring | blocked |
 | CMP-05-8 | [[Beds Before Banners]] | [[Bernard Valeon]] | act-3 | Early Spring, Open Spring | blocked |
 | CMP-05-9 | [[The Open Hospice]] | [[Bernard Valeon]] | act-3 | Early Spring, Open Spring, Muster Crisis | blocked |
-| CMP-05-10 | [[The First Open Table]] | [[Bernard Valeon]] | summer | Playable Summer | blocked |
+| CMP-05-10 | [[Grace]] | [[Bernard Valeon]] | summer | Playable Summer | blocked |
 | CMP-06-1 | [[The Sound of Falling Stone]] | [[Dismas Raben]] | act-1 | Early Autumn, Open Autumn | outlined |
 | CMP-06-2 | [[The Easy Ambush]] | [[Dismas Raben]] | act-1 | Open Autumn, Early Winter | outlined |
 | CMP-06-3 | [[The Name on the Charge]] | [[Dismas Raben]] | act-2 | Deep Winter, Early Spring | outlined |
@@ -210,7 +210,7 @@ Former-life figures in this list are remote world-canon references. Their inclus
 - [[Bernard Long Watch Greatsword Package]]: companion combat language, Paladin progression, and custom-vocation unlocks.
 - [[Bernard Banter and Reactivity]]: companion exchanges, Last Ember responses, faction attitudes, routines, and seasonal dialogue.
 - [[The Froststep Evacuation]] and [[Hospice of the Lantern Road]]: controlling history and institutional origin.
-- [[Little Things Missing]], [[The Wagon in the Reeds]], [[Little Hands, Long Road]], [[A Blade Freely Given]], [[The Long Winter Table]], [[Embers Without Excuse]], [[Enough for Two]], [[Watch Until Morning]], [[Beds Before Banners]], [[The Open Hospice]], and [[The First Open Table]]: eleven emotionally cleared production-blocked pieces, of which no more than ten can appear in one playthrough.
+- [[Little Things Missing]], [[The Wagon in the Reeds]], [[Little Hands, Long Road]], [[A Blade Freely Given]], [[The Long Winter Table]], [[Embers Without Excuse]], [[Enough for Two]], [[Watch Until Morning]], [[Beds Before Banners]], [[The Open Hospice]], and [[Grace]]: eleven emotionally cleared production-blocked pieces, of which no more than ten can appear in one playthrough.
 
 ### CMP-08: Zafir ibn Samad
 
