@@ -361,11 +361,17 @@ Duplicate implementation keys across these authorities are prohibited unless one
 | `elara_bellandi_escrow_access` | companion preparation | Elara Velescar | 3 | [[Claims-Factor Marco Bellandi]] |
 | `elara_public_witnesses` | companion preparation | Elara Velescar | 3 | [[Elara Companion Campaign]] |
 | `elara_bridgehold_practice` | companion preparation | Elara Velescar | 3 | [[A Better Wager]] |
-| `elara_coalition_ready` | companion preparation | Elara Velescar | 4 | [[The Hands That Hold It]] |
+| `elara_coalition_ready` | companion preparation | Elara Velescar | 4 | [[Uninvited]] |
 | `elara_living_claims_index` | companion preparation | Elara Velescar | 4 | [[The Land Reclaimed]] |
 | `elara_remote_instructions_authenticated` | companion preparation | Elara Velescar | 4 | [[Claims-Factor Marco Bellandi]] |
 | `elara_burial_provenance` | companion preparation | Elara Velescar | 4 | [[The Names They Buried]] |
 | `elara_old_tithe_access` | companion preparation | Elara Velescar | 4 | [[Elara Companion Campaign]] |
+| `perle_state` | companion relationship | Elara Velescar | 4 | [[Uninvited]] — adoring / wounded / distant-kind; **no restored value; unrepairable by design** |
+| `player_laughed_at_perle` | player conduct | Elara Velescar | 4 | [[Uninvited]] — never surfaced as a test; consumed in the coda |
+| `elara_dethronement_complete` | companion milestone | Elara Velescar | 4 | [[Uninvited]] |
+| `reclamation_feast_state` | district | Elara Velescar | 4 | [[Uninvited]] — celebrated / marred / disrupted |
+| `sandro_state` | companion relationship | Elara Velescar | 1 | [[Sandro Tessari]] — **fixed; never moves; approval-neutral** |
+| `vardek_second_letter_read` | companion | Elara Velescar | 4 | [[The Velescar Correspondence]] |
 | `elara_romance_episode` | relationship | Elara Velescar | 4 | [[Raven Shelf at Dawn]] |
 | `elara_romance_move_upgrade` | relationship | Elara Velescar | 4 | [[Raven Shelf at Dawn]] |
 | `elara_raven_line_practiced` | companion bonus | Elara Velescar | 4 | [[Raven Shelf at Dawn]] |
@@ -398,9 +404,9 @@ Duplicate implementation keys across these authorities are prohibited unless one
 | `winter_relief_state` | companion | Elara Velescar | 6 | [[The Patron's Cabinet]] |
 | `elara_act2_resolution` | companion chapter | Elara Velescar | 6 | [[The Patron's Cabinet]] |
 | `elara_relationship_commitment` | companion | Elara Velescar | 3 | [[The Patron's Cabinet]] |
-| `velescar_instruction_state` | companion | Elara Velescar | 8 | [[The Hands That Hold It]] |
-| `coalition_delegate_state` | companion | Elara Velescar | 8 | [[The Hands That Hold It]] |
-| `elara_spokesperson_state` | companion | Elara Velescar | 8 | [[The Hands That Hold It]] |
+| `velescar_instruction_state` | companion | Elara Velescar | 8 | [[No Lady of Velescar]] |
+| `coalition_delegate_state` | companion | Elara Velescar | 8 | [[No Lady of Velescar]] |
+| `elara_spokesperson_state` | companion | Elara Velescar | 8 | [[No Lady of Velescar]] |
 | `old_tithe_vault_state` | companion | Elara Velescar | 4 | [[No Lady of Velescar]] |
 | `velescar_land_records_state` | companion | Elara Velescar | 9 | [[No Lady of Velescar]] |
 | `velescar_burial_claims_state` | companion | Elara Velescar | 9 | [[No Lady of Velescar]] |

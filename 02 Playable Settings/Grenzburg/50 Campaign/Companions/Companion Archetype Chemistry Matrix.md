@@ -18,7 +18,12 @@ This note controls 64 primary player-companion dynamics: eight possible player t
 
 Each card defines a source of recognition and a recurring pressure. It does not predetermine approval, attraction, friendship, romance, sworn bond, or moral outcome.
 
-## Elara Velescar — Cheerleader
+## Elara Velescar — Cheerleader / Tomboy secondary
+
+**Blend: the Athletic Social Captain.** Creed: *“If I earned my place under these rules, the rules must be fair.”* Stress behaviour: tightens discipline, controls presentation, and struggles to tolerate another woman at the centre of a room she assembled. Her Tomboy secondary is why the physical daring reads as competence rather than affectation — and why her social command is never *only* social.
+
+Roster symmetry: Elara is Cheerleader→Tomboy and [[Ashira bath Melan]] is Goth→Cheerleader. Each woman carries the other's primary as her secondary, which is the mechanism under their foil arc — Ashira's social intelligence is real and selective, Elara's outsider-competence is real and inconvenient, and each recognizes in the other a fluency she is supposed to disdain.
+
 
 | Player tendency | Relationship register | What catches Elara's attention | Recurring pressure |
 |---|---|---|---|

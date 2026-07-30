@@ -36,6 +36,8 @@ The households feared absorption by a larger Vardek demesne estate because its l
 
 The equation was false. The households were not asked whether the title justified grave robbery, new fines, or increased secrecy. Some wanted land; some wanted cash and freedom to leave; some valued familiar obligations more than an uncertain sale. The final settlement must preserve those differences.
 
+Those differences include one the resolved outcome must survive: at least one household wants the house back. They liked the lady, distrust the new arrangement, and would rather be Velescar tenants than freeholders under a stranger's law. Their instruction is authentic, their reasoning is their own, and relinquishment disappoints them. No settlement satisfies all sixty-three.
+
 ## Decline
 
 Velescar income failed through poor harvests, damaged river works, inherited riding debt, and the costs of maintaining noble participation. Elara inherited at twenty-three. She could have sold the landing, reduced the household, petitioned for a structured surrender of the title, or accepted Vardek absorption. Every path carried loss.
@@ -59,6 +61,10 @@ At the start of Grenzburg:
 - grave claimants have incomplete inventories;
 - the decisive land rolls, title seal, and burial provenance are hidden in [[Old Tithe Vault]].
 
+The instruments sit under Grenzburg because Medori moved them there. When the Bank purchased Elara's restitution and service surety it took possession of the pledged Velescar paper as collateral and shipped it to the branch administering the account — the rolls, the seal, and the burial provenance followed the debt into the Ledger Quays vault system, where an old tithe cellar had been holding overflow since the war closed the upper strongrooms.
+
+Correspondence with the households is slow and finite. One authenticated packet reached Grenzburg before the siege closed the roads, and it has been sitting in Bellandi's backlog since; nothing new arrives while the city is shut. Everything the campaign can enforce comes out of that packet or out of copies the Bank already held.
+
 No single document morally owns the households. The records establish what can be transferred, released, compensated, or concealed.
 
 ## Outcome Range
@@ -76,7 +82,7 @@ No result becomes future-setting canon.
 - [[Elara Velescar]]
 - [[Lord Marek Vardek]]
 - [[Claims-Factor Marco Bellandi]]
-- [[The Hands That Hold It]]
+- [[Uninvited]]
 - [[No Lady of Velescar]]
 - [[Elara Companion Campaign]]
 - [[Companions MOC]]

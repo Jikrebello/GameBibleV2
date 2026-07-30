@@ -67,7 +67,7 @@ Pair cohesion is mandatory because each pass must rewrite the shared three-seaso
 | CMP-01-A2-F | Act II finale | [[The Patron's Cabinet]] | blocked; migrated; cleared |
 | CMP-01-RM | romance episode | [[Raven Shelf at Dawn]] | blocked; migrated; cleared |
 | CMP-01-BD | sworn-bond episode | [[Two Names on the Rope]] | blocked; migrated; cleared |
-| CMP-01-A3-O | Act III operation | [[The Hands That Hold It]] | blocked; migrated; cleared |
+| CMP-01-A3-O | Act III operation | [[Uninvited]] | blocked; migrated; cleared (replaces the archived Hands That Hold It) |
 | CMP-01-A3-F | Act III finale | [[No Lady of Velescar]] | blocked; migrated; cleared |
 | CMP-01-S | summer coda | [[The First Honest Find]] | blocked; migrated; cleared |
 

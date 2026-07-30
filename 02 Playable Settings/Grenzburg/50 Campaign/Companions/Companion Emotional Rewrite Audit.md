@@ -35,19 +35,21 @@ No piece reaches implementation readiness until `dialogue_status: approved` and 
 
 ## CMP-01: Elara Velescar
 
+**Rewrite-spec pass executed** per [[Elara Rewrite Spec]]. The Cheerleader/Tomboy blend, the notoriety baseline, the Perle and Sandro relationships, the Velescar correspondence, and both unfairness exceptions are canon. `dialogue_status` on the three rebuilt pieces returns to `pending-rewrite` until a scene-level pass fixes final wording.
+
 | ID | Current piece | Disposition | Rewrite brief |
 |---|---|---|---|
-| CMP-01-I | [[Names Beneath Lime]] | cleared | Local smugglers, fire, barge pursuit, and the shared heroic account are production-blocked |
-| CMP-01-A1-O | [[A Splendid Little Expedition]] | cleared | Ropehouse mixed-crew expedition replaces the field-book operation |
-| CMP-01-A1-F | [[A House Fed by Bones]] | cleared | Current workers own knowledge, refusal, rescue, and credit |
-| CMP-01-FR | [[A Better Wager]] | cleared | Uninterrupted race, delight, and mutual play |
-| CMP-01-A2-O | [[The Winter Company]] | cleared | Distributed siege rescue and morale company replaces warrant theft |
-| CMP-01-A2-F | [[The Patron's Cabinet]] | cleared | Remote restoration offer leaves the decisive scene on Elara |
-| CMP-01-RM | [[Raven Shelf at Dawn]] | cleared | Male-player romance |
-| CMP-01-BD | [[Two Names on the Rope]] | cleared | Female-player sworn friendship |
-| CMP-01-A3-O | [[The Hands That Hold It]] | cleared | Local coalition implements unedited remote instructions |
-| CMP-01-A3-F | [[No Lady of Velescar]] | cleared | Vault recovery and legally separate settlement |
-| CMP-01-S | [[The First Honest Find]] | cleared | Ethical exploration preserves appetite |
+| CMP-01-I | [[Names Beneath Lime]] | cleared; spec-passed | Notoriety baseline retrofit; admission redefined as specific rather than general; Sandro cameo; un-narrated sorter irony |
+| CMP-01-A1-O | [[A Splendid Little Expedition]] | cleared; spec-passed | Perle volunteers and is curated out with a compliment; the record function goes unfilled |
+| CMP-01-A1-F | [[A House Fed by Bones]] | cleared; spec-passed | Worker voices redistributed off the moral-chorus register; Emri keeps the one earned chorus-line |
+| CMP-01-FR | [[A Better Wager]] | cleared; spec-passed | Specified public stake; the laugh that lands wrong; optional Perle thread in Without the Powder |
+| CMP-01-A2-O | [[The Winter Company]] | cleared; spec-passed | The whisper begins; the success case is the dethronement's cause and must not hint at it |
+| CMP-01-A2-F | [[The Patron's Cabinet]] | cleared; spec-passed | **Undissolvable fork** — evidence or relief, never both, at any preparation level; the offer is quoted whole and attached to the grain |
+| CMP-01-RM | [[Raven Shelf at Dawn]] | cleared; rebuilt | Witness-deprivation rebuild: the cave in all branches, the performance running out of room, the unnamed summit; Vesna Rimek renamed |
+| CMP-01-BD | [[Two Names on the Rope]] | cleared; spec-passed | Structure protected; the witnessed/unwitnessed contrast with the romance stated |
+| CMP-01-A3-O | [[Uninvited]] | cleared; new | Public dethronement, the authored-fixed cruelty, the coalition established and protected; replaces the archived Hands That Hold It |
+| CMP-01-A3-F | [[No Lady of Velescar]] | cleared; rebuilt front | Hearing movement absorbed; four household voices quoted; Aldi Tessari's roll; Cabinet fork propagated; Sera texture |
+| CMP-01-S | [[The First Honest Find]] | cleared; spec-passed | Perle distant-kind and Sandro absent-by-design; ethical exploration preserves appetite |
 
 ## CMP-02: Ilyana Veshkar
 

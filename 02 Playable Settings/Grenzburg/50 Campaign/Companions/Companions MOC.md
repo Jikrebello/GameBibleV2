@@ -60,7 +60,7 @@ Every companion except Dismas has eleven authored pieces carrying `architecture_
 | CMP-01-6 | [[The Patron's Cabinet]] | [[Elara Velescar]] | act-2 | Deep Winter | blocked |
 | CMP-01-RM | [[Raven Shelf at Dawn]] | [[Elara Velescar]] | act-3 | Early Spring | blocked |
 | CMP-01-BD | [[Two Names on the Rope]] | [[Elara Velescar]] | act-3 | Early Spring | blocked |
-| CMP-01-8 | [[The Hands That Hold It]] | [[Elara Velescar]] | act-3 | Spring Reclamation | blocked |
+| CMP-01-8 | [[Uninvited]] | [[Elara Velescar]] | act-3 | Spring Reclamation | blocked |
 | CMP-01-9 | [[No Lady of Velescar]] | [[Elara Velescar]] | act-3 | Open Spring, Muster Crisis | blocked |
 | CMP-01-10 | [[The First Honest Find]] | [[Elara Velescar]] | summer | Playable Summer | blocked |
 | CMP-02-1 | [[Five Cases at Customs]] | [[Ilyana Veshkar]] | act-1 | Early Autumn, Open Autumn | blocked |
@@ -169,7 +169,7 @@ Former-life figures in this list are remote world-canon references. Their inclus
 - [[Elara Delver-Duelist Package]]: companion combat language, progression, and custom-vocation unlocks.
 - [[Elara Banter and Reactivity]]: pair banter, faction attitudes, location observations, and seasonal dialogue.
 - [[House Velescar]]: estate history, household claims, and outcome boundaries.
-- [[Names Beneath Lime]], [[A Splendid Little Expedition]], [[A House Fed by Bones]], [[A Better Wager]], [[The Winter Company]], [[The Patron's Cabinet]], [[Raven Shelf at Dawn]], [[Two Names on the Rope]], [[The Hands That Hold It]], [[No Lady of Velescar]], and [[The First Honest Find]]: eleven emotionally cleared production-blocked pieces, of which no more than ten can appear in one playthrough.
+- [[Names Beneath Lime]], [[A Splendid Little Expedition]], [[A House Fed by Bones]], [[A Better Wager]], [[The Winter Company]], [[The Patron's Cabinet]], [[Raven Shelf at Dawn]], [[Two Names on the Rope]], [[Uninvited]], [[No Lady of Velescar]], and [[The First Honest Find]]: eleven emotionally cleared production-blocked pieces, of which no more than ten can appear in one playthrough.
 
 ### CMP-04: Ashira bath Melan
 

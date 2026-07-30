@@ -69,9 +69,11 @@ Vardek's Grenzburg solicitor has placed a travelling cabinet inside Chancery Hou
 - correspondence proving remote patronage;
 - genuine grain warrants needed that night by besieged districts.
 
-[[Claims-Factor Marco Bellandi]] separately presents Elara with Vardek's authenticated restoration offer. Vardek does not appear. His letter describes her as brave, overburdened, and uniquely capable of making restitution “with dignity.” It offers a reduced house, private reserve, and a story in which she alone was misled by disloyal factors.
+[[Claims-Factor Marco Bellandi]] separately presents Elara with Vardek's authenticated restoration offer. Vardek does not appear. The letter is quoted whole in [[The Velescar Correspondence]] and must be read, not summarized: warm, cultured, itemized like a schedule, and never once naming the crime. It offers a reduced house, a private reserve, closure of her Medori liabilities, a public account in which she alone was misled by disloyal factors — and the authority to hear, compound, and close the sixty-three households' claims herself, with her own hand, decently.
 
 Elara hates how good it sounds.
+
+**And the offer is attached to the grain.** Signed with the restoration terms is a release of the relief warrants — Vardek's winter gift to the city, in the house's name, deliverable tonight. Accepting secures the evidence, the relief, and the settlement authority in one lawful, public, warmly received transaction. The tempting option is materially superior and looks like the adult choice, because in every way the player can measure that night, it is.
 
 ## Party and Approach
 
@@ -79,7 +81,7 @@ The player and Elara form a duo. Three assets make both evidence and relief achi
 
 Approaches:
 
-- **invitation:** use Elara's social status and a public reception;
+- **invitation:** use Elara's status — notoriety included; half the room wants a look at the grave lady and an invitation is easy to obtain for exactly that reason;
 - **legal seizure:** combine Bellandi escrow and public witnesses;
 - **service route:** enter through kitchens, fuel halls, and roof maintenance;
 - **underworld route:** cross frozen quays and a locked archive stair.
@@ -90,7 +92,7 @@ All routes converge on active gameplay and work for every vocation. Identity hoo
 
 The social floor contains nobles, guild officers, relief captains, servants, debtors requesting warrants, and people treating the siege as a flattering backdrop.
 
-Elara is brilliant. She rescues a nervous clerk from mockery, learns two guard rotations during a dance, and gives the player a title invented quickly enough to become true for five minutes.
+Elara rescues a nervous clerk from mockery by asking him a question only he can answer, in front of the man who was mocking him. She learns two guard rotations during one dance without appearing to look at a door. She gives the player a title invented quickly enough that three people use it before the hour is out.
 
 Her shadow appears when she folds the relief captains into “our side” without asking whether they want the scandal attached to their work.
 
@@ -136,14 +138,27 @@ The player can answer through temperament-specific chemistry, but no line solves
 
 Local solicitor **Hadrik Venn** discovers the breach and orders the cabinet moved across the Frozen Quays while another agent releases smoke through the reception.
 
-Objectives:
+Venn is a fussy archivist by temperament and hates the smoke more than he hates the party — he is genuinely, visibly distressed about paper in a burning room, and gives one order to protect a bundle that is not even evidence, because it is old. He is not brave and does not pretend to be.
 
-- evacuate guests and staff;
-- keep grain warrants warm and dry;
-- secure evidence;
+### The Fork — intentional, undissolvable
+
+**If Elara refuses or escrows the offer, the night can secure the complete evidence set or the complete relief delivery. Never both. At any preparation level.**
+
+This finale deliberately breaks the three-assets-all-objectives guarantee; see [[Elara Companion Campaign#Readiness]]. Do not rebalance it toward parity. Preparation changes *which* half survives intact, how cleanly, and how badly the lost half degrades — reissue routes, partial copies, fewer cold shelters — and never whether the choice exists.
+
+Objectives, in competition:
+
+- evacuate guests and staff (always achievable);
+- **keep the grain warrants warm and dry** — the cabinet's live half;
+- **secure the evidence** — the grave-sale records, worker liabilities, and correspondence;
 - prevent the solicitor from removing the restoration seal.
 
-Routes use the prepared roofline, public bridge, service sled, or ice stairs. A confrontation on moving sleds and frozen moorings ends the heist. Hadrik may be captured, killed in justified resistance, or escape; no later stage requires him.
+The lost half propagates on screen:
+
+- **relief lost:** named hunger states at Winter Company stations for the rest of winter — the same captains, the same rooms, colder;
+- **evidence lost:** specific worker liabilities become unprovable, and named claims fail one by one during the hearing in [[No Lady of Velescar]] while their delegates watch.
+
+Routes use the prepared roofline, public bridge, service sled, or ice stairs. A confrontation on moving sleds and frozen moorings ends the heist. Hadrik will not fight for paper he does not own — he is arrested, he goes through the ice with a bundle he refuses to drop, or he abandons the sled and walks; no later stage requires him.
 
 ## End
 
@@ -154,7 +169,9 @@ Bellandi records the legal result. Relief captains record whether their warrants
 - that she is considering it;
 - or that she has refused it.
 
-The strongest scene is not a speech. In the Yard, Neda asks who saved the relief cabinet. Elara begins “we,” stops, and gives the names of the two service workers who dragged it clear while she chased the evidence.
+Back in the Yard, Neda asks who saved whichever half came through.
+
+If it was the relief, Elara begins “we,” stops, and gives the names of the two service workers who dragged it clear while she was three rooms away with the records. If it was the evidence, she has to say out loud which shelters went without, and to whom, and she is the only person in the room who chose it. If she accepted Vardek's terms, both halves arrived and Neda thanks her, and the thanks is the worst sound in the quest.
 
 ## Fail-Forward
 
@@ -182,4 +199,4 @@ Completion unlocks **A Lady's Exit**, the post-quest relationship choice, and th
 - [[Claims-Factor Marco Bellandi]]
 - [[Raven Shelf at Dawn]]
 - [[Two Names on the Rope]]
-- [[The Hands That Hold It]]
+- [[Uninvited]]

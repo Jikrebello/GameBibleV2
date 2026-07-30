@@ -55,6 +55,16 @@ His restoration offer includes:
 - a public account in which Elara acted alone but has now paid nobly;
 - abandonment of the workers and burial claimants whose evidence reaches him.
 
+## Why He Pays to Restore Her
+
+The restoration offer is witness management, and it is the cheapest instrument he owns.
+
+Elara is the only living person who can assemble the whole chain: the survey cuts, the intermediaries, the payment marks, the instruction to keep working after the burial tracing began. Restored under his patronage, that testimony dies twice. Socially, a lady returned to her title by her patron cannot accuse him without destroying herself in the same sentence. Legally, an interested beneficiary is no witness at all — her account becomes a debtor's grievance against her benefactor, and every court in Virelia knows what to do with one of those.
+
+The clause granting her authority to settle household claims does the second half of the work. Exercised under debts he holds, it lets her extinguish the sixty-three households' claims *for* them, lawfully, in her own name. His criminal exposure becomes a patronage asset: the woman who could ruin him spending her restored dignity closing the cases against him, gratefully.
+
+He is not sentimental about her. He is buying silence at the price of a reduced house he expects to control regardless.
+
 ## Remote Pressure
 
 Vardek never enters the base-game worldspace. During winter he sends genuine grain warrants, a local solicitor, authenticated correspondence, and a restoration offer through [[Claims-Factor Marco Bellandi]]. City need still makes seizure politically expensive because the relief is real.
@@ -85,7 +95,7 @@ Vardek's relief work remains good for the people it feeds. It does not neutraliz
 - [[House Velescar]]
 - [[Claims-Factor Marco Bellandi]]
 - [[The Patron's Cabinet]]
-- [[The Hands That Hold It]]
+- [[Uninvited]]
 - [[No Lady of Velescar]]
 - [[Elara Companion Campaign]]
 - [[Companions MOC]]

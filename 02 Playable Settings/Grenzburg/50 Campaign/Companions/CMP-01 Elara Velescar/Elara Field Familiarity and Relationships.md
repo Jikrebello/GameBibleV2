@@ -139,10 +139,10 @@ If [[The Patron's Cabinet]] resolves autonomously, `elara_relationship_closed` b
 
 A committed relationship unlocks exactly one authored episode during Early Spring and Open Spring:
 
-- a male player with `romance-committed` unlocks [[Raven Shelf at Dawn]], a mountain rescue and romantic camp;
-- a female player with `bond-committed` unlocks [[Two Names on the Rope]], a platonic two-person survey, reciprocal rescue, and sworn-friendship pact.
+- a male player with `romance-committed` unlocks [[Raven Shelf at Dawn]], a mountain rescue and a night in a cave with nothing to host;
+- a female player with `bond-committed` unlocks [[Two Names on the Rope]], a platonic two-person survey, reciprocal rescue, and a sworn-friendship pact entered on a public claim board.
 
-The episodes are not alternate endings to one generic activity. Each has its own location, emotional structure, state outputs, move upgrade, and summer dialogue. Each supplies one equivalent non-stacking material safeguard for the Act III finale.
+The episodes are not alternate endings to one generic activity. They are opposite solutions to the same fear: **the bond is Elara maximally witnessed — clerks, witnesses, two names in the record — and the romance is Elara maximally unwitnessed, with no audience, no exits to arrange, and no account of it anywhere.** Each has its own location, emotional structure, state outputs, move upgrade, and summer dialogue, and each supplies one equivalent non-stacking material safeguard for the Act III finale.
 
 Missing the eligible episode does not end the relationship or worsen approval, but its upgrade and safeguard are forfeited.
 
@@ -189,6 +189,15 @@ A friend may:
 - retain all non-romantic banter, interventions, and faction reactions.
 
 Only relationship-specific duo moves and permanent perks are exclusive.
+
+## Outside the Repair Loop
+
+Two relationships in this campaign are deliberately excluded from the conflict-and-repair system, and no approval state, direction, or outcome reaches either:
+
+- **[[Perle Winkel]].** After [[Uninvited]] her state is `wounded` and settles at `distant-kind`. There is no repair scene, and the absence is the design. She continues to help, accurately and briefly, which is the cost.
+- **[[Sandro Tessari]].** `sandro_state` never moves. He refuses her coin, her introductions, and her advocacy; he will not testify for her; he performs neither anger nor forgiveness. He is approval-neutral in both directions — nothing the player does with him changes Elara's approval, because he is not a mechanism.
+
+Do not add repair paths, hidden thresholds, or late reconciliations for either.
 
 ## Conflict and Repair
 

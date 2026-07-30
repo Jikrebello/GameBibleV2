@@ -107,6 +107,14 @@ Elara reaches the ruin under the reduced or restored Velescar title with a house
 
 Immediate safety decisions remain playable, but her title settlement and controlling claim do not reverse. A final letter or conversation records whether she still recognizes the player as friend, former intimate, rival, or witness.
 
+## Who Is There
+
+Two people are present and neither is a reward.
+
+**[[Perle Winkel]]** comes to the departure occasion, because she comes to all of them. She is kind, she is brief, and the ribbon is not on her apron. She answers questions accurately in four words and does not stay for the toast. `perle_state` is `distant-kind` and there is no scene, dialogue option, gift, or outcome anywhere in the campaign that changes it. If `player_laughed_at_perle` is true, she is a shade cooler with the player too, and neither she nor the game says why.
+
+**[[Sandro Tessari]]** is not there. On a resolved path his mother's restitution has reached him through the settlement like any other claimant's, and Elara knows it happened because Bellandi's schedule says so. There is no scene. He is working. That is the payoff.
+
 ## Party and Staging
 
 When Elara remains available, she is required and the ordinary field party remains available. Temporary workers wait at secured stations outside the companion limit. In a departed state, the player may bring the ordinary field party to the site and encounter her expedition already operating.
@@ -159,7 +167,7 @@ The player still determines immediate handling when collapse, weather, or the lo
 
 ## Relationship Variants
 
-- A romance completed through [[Raven Shelf at Dawn]] recalls the Highlake camp, Nika's rescue, and choosing the next journey together without treating either person's future as property. A committed romance that missed the episode remains real but does not invent those memories or rewards in summer.
+- A romance completed through [[Raven Shelf at Dawn]] recalls the Highlake cave, Vesna's rescue, and choosing the next journey together without treating either person's future as property. A committed romance that missed the episode remains real but does not invent those memories or rewards in summer.
 - A sworn bond completed through [[Two Names on the Rope]] adds the site to the two women's shared record of honest claims and guaranteed returns. A committed bond that missed the episode remains real but does not retroactively create the Windcut pact.
 - A friend receives the same expedition access and moral resolution without reduced content.
 - A former or refused relationship retains specific history rather than defaulting to neutral dialogue.

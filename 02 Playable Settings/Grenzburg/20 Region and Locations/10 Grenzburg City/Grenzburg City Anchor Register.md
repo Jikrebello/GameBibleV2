@@ -42,7 +42,7 @@ These are persistent seasonal claims rather than single-use set dressing. Side c
 - [[A Better Wager]] uses Market Roofline, Bridge Market, and Great Bridge Keep for an uninterrupted friendship race.
 - [[The Winter Company]] uses Lantern Ward stations, Ledger Quays cranes, Bridgehold, and receiving halls for distributed siege rescue.
 - [[The Patron's Cabinet]] uses Grenzmark Keep, Chancery House, the Iron Ledger Counting-House, Market Roofline, and Grain Stairs.
-- [[The Hands That Hold It]] uses the Iron Ledger Counting-House, Old Market, Hall of Petitions, Petition Stair, and Bridgehold for its coalition-protection operation.
+- [[Uninvited]] uses the Old Market, Blackjack Yard, and Hall of Petitions for the Reclamation Feast, the staged seizure, and the substitution attempt.
 - [[No Lady of Velescar]] uses the [[Old Tithe Vault]], a hidden subspace below North Quay Warehouses connected to the Bridge Vaults and riverworks, before concluding at the Hall of Petitions.
 
 These claims reserve changed quest states without consuming their parent anchors. The Old Tithe Vault is a specialist subspace, not a sixth Ledger Quays district anchor.

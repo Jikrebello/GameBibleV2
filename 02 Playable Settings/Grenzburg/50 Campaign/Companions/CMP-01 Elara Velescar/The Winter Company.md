@@ -96,6 +96,8 @@ Each rescue has action:
 
 Human looters and Grobi skirmishers exploit the confusion independently. They are not secretly connected to Elara's past.
 
+**The whisper starts here**, in the receiving halls, in the mouths of frightened people who are not lying on purpose: that the grave lady is still working for her patron, that the relief coming into the city has his name under it, that she was placed here. It is half-adjacent to a truth the player already knows — the offer exists, or is coming — and it cannot be refuted without conceding the rest. Elara hears it at least once and cannot correct it. By spring the sponsors of the Reclamation Feast will act on it, politely, without ever repeating it aloud.
+
 ## Elara's Test
 
 A talented roof runner refuses Elara's public commendation because it would expose their Low Lantern work. A quiet kitchen captain needs coal, not applause. A Chapel-Folk stretcher crew refuses a route that leaves its own lodging unprotected.
@@ -127,6 +129,8 @@ If authority was real, they:
 - complete two rescues before Elara returns.
 
 If the company was curated around her, stations wait, improvise inconsistently, or compete to be the team she notices.
+
+The success case is the campaign's quiet hinge. Elara comes out from behind the firebreak to find the work finished well by people who did not need her voice, and she is *proud* — genuinely, uncomplicatedly, this is the thing she wanted. Nobody notes that she has just built the machine that will make her unnecessary by spring. The scene must not hint at it. [[Uninvited]] collects.
 
 The player and Elara escape through roofline, street, underways, or a physically cleared firebreak. Every vocation can complete the route.
 

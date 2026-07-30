@@ -109,6 +109,36 @@ Elara has a public notice corrected before approaching the person omitted.
 
 She does not request reassurance.
 
+### Cruelty — The feast (authored, fixed)
+
+Elara has been thanked three times and given nothing. Perle is on her arm, describing the linen.
+
+Somebody within earshot says *grave lady* in the tone people use for a joke they expect to be enjoyed.
+
+**Elara:** *(one sentence, warm in shape, at Perle's expense, engineered so the room can laugh at somebody who is not her)*
+
+The room laughs.
+
+**Perle:** —
+
+She puts the linen down.
+
+*The line's final wording is fixed at scene pass. Requirements: genuinely funny on the page; affectionate in form; specific to Perle's talk, devotion, or ribbon; and not repairable afterward by anyone. See [[Uninvited]] and [[Perle Winkel]].*
+
+### Aftermath — Two weeks later
+
+Elara asks Perle where a recovered strap-ring came from.
+
+**Perle:** “Green box. Third shelf.”
+
+Elara waits for the rest of it. There is no rest of it.
+
+**Elara:** “Thank you.”
+
+**Perle:** “Yes.”
+
+Perle goes back to work. Elara does not try again in this scene, or ever successfully.
+
 ### Quiet — Camp above Southwood
 
 Elara polishes the delver's pick long after it is clean.
@@ -199,7 +229,9 @@ Reject any Elara line that:
 - makes her constantly confess class guilt;
 - treats femininity as camouflage for competence;
 - resolves conflict through one perfect statement about equality;
-- makes every interaction a lesson in provenance.
+- makes every interaction a lesson in provenance;
+- **repairs Perle.** No line, gift, apology, public correction, or late kindness restores `perle_state`. Elara may try; it may not work. Reject any writing that gives her the recovery, including a bittersweet partial one;
+- **explains Sandro,** speaks for him, or gives him a second scene. He said his piece once.
 
 ## Navigation
 

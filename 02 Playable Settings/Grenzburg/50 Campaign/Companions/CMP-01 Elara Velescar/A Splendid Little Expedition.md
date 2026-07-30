@@ -63,7 +63,11 @@ persistence_scope: local-persistent
 
 A partial wall fall exposes a sealed upper gallery at [[Ropehouse Ruin]]. Elara sees the perfect first expedition for her new Grenzburg life: close enough to stage, dangerous enough to matter, and untouched enough to name.
 
-She produces ribbons for the packs, a dramatic route title, and a list headed **Persons of Distinction**. The list includes fighters, a sketcher, and a photographer-equivalent survey artist. It omits the rope splicer, shoring carpenter, local grave watcher, and recovery hand who make entry possible.
+She produces ribbons for the packs, a dramatic route title, and a list headed **Persons of Distinction**. The list includes fighters, a sketcher, and a survey artist. It omits the rope splicer, shoring carpenter, local grave watcher, and recovery hand who make entry possible.
+
+[[Perle Winkel]] volunteers. She has mended half the kit in the Yard, remembers what was in the common box in every season since the fever year, and starts explaining which of the ribbons came off a Kestrel-job harness — and Elara stops her with a compliment. A warm one, in public, about how the Yard could not run a week without her, delivered while handing her the ribbons to distribute to the people who are going.
+
+Perle pins one to her apron. She is delighted. Nobody has noticed that the expedition's unfilled **record** function was standing in front of them describing it.
 
 ## Hook and Party
 

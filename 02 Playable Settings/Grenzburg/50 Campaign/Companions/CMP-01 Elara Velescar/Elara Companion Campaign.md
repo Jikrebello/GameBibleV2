@@ -32,10 +32,21 @@ Across the campaign, the player repeatedly enjoys Elara's gift before seeing its
 1. she turns strangers into a heroic company;
 2. somebody necessary is left outside the story;
 3. the excluded person refuses the role she offers;
-4. Elara must spend status without owning the result;
-5. she discovers that relinquishing a house does not require relinquishing delight.
+4. Elara spends status without owning the result, under siege, and it works;
+5. the room continues without her;
+6. she discovers that relinquishing a house does not require relinquishing delight.
 
 Direct discussion of the Velescar grave expeditions occupies less than one-third of ambient companion material. The rest is current work, appetite, jokes, arguments, competence, affection, and Grenzburg life.
+
+## Campaign Shape
+
+Elara's silhouette is **rise, fall, rise.**
+
+- **Act I** — her form works, and the player enjoys it. She assembles crews, clears a porter's name, wins rooms, and the campaign lets her be magnificent before it charges her for it.
+- **Act II** — her form becomes materially necessary. Siege makes her social gift into survival infrastructure, and she practises distributed authority in the one season where distributing it visibly saves lives. Meanwhile her name becomes a liability: Vardek's agents turn her existing notoriety into a rumour of ongoing service.
+- **Act III** — the form is taken from her. Partly by the scandal, and partly **because the healthy thing she built in winter now runs without her.** She is politely managed out of the first celebration of the peace, commits the campaign's one witnessed cruelty inside four minutes of being irrelevant, and cannot style her way back.
+
+The cruellest engine of the dethronement is her own reform working. That is the design, and no scene should soften it.
 
 ## Formal Campaign
 
@@ -49,13 +60,13 @@ Direct discussion of the Velescar grave expeditions occupies less than one-third
 | 6 | CMP-01-A2-F | [[The Patron's Cabinet]] | duo | social heist, relief dilemma, and remote restoration offer |
 | 7 | CMP-01-RM | [[Raven Shelf at Dawn]] | male romance | danger, rescue, chosen privacy, and romantic commitment |
 | 7 | CMP-01-BD | [[Two Names on the Rope]] | female bond | equal survey, reciprocal rescue, and platonic sworn friendship |
-| 8 | CMP-01-A3-O | [[The Hands That Hold It]] | normal party | protect a local coalition implementing unedited remote instructions |
+| 8 | CMP-01-A3-O | [[Uninvited]] | normal party | the public loss she cannot style; the coalition established and protected |
 | 9 | CMP-01-A3-F | [[No Lady of Velescar]] | duo | recover claims and choose relinquishment, compromise, or restoration |
 | 10 | CMP-01-S | [[The First Honest Find]] | normal party/changed | demonstrate her settled expedition ethic |
 
 Only the three act finales use the fixed player-plus-Elara party. Temporary workers, custodians, witnesses, and rescued people remain outside companion capacity. Romance and bond are mutually exclusive; all other pieces remain available to ordinary friendship.
 
-Estimated first-play duration is approximately **10.75 hours**.
+Estimated first-play duration is approximately **11 hours**.
 
 ## Direction and Legal State
 
@@ -67,11 +78,15 @@ Estimated first-play duration is approximately **10.75 hours**.
 
 `elara_legal_debt_state` independently uses the states in [[Companion Debt and Remote Claims Standard]]. [[Claims-Factor Marco Bellandi]] may authenticate Velescar instructions, place assets in escrow, and close the account. He cannot decide Elara's direction or produce forgiveness.
 
+**The packet.** Household correspondence is finite and already in the city. One authenticated packet crossed before the siege closed the roads and has been sitting in Bellandi's backlog; nothing new arrives while Grenzburg is shut. Everything the campaign can enforce comes out of that packet or out of copies the Bank already held — which is also the deadline underneath Act III, because the packet is the only version of the households' words that exists here. Its four principal instructions are quoted in [[The Velescar Correspondence]].
+
 [[Lord Marek Vardek|Marek Vardek]] remains remote. He acts through a restoration offer, local agents, bought claims, and authenticated correspondence. His physical absence keeps the decisive scene on Elara.
 
 ## Readiness
 
 Every act offers five assets. Two permit player participation, three make every material objective achievable, and four or five add one safeguard. No asset requires a faction, relationship, moral profile, or vocation.
+
+**Intentional exception — do not regress.** [[The Patron's Cabinet]] breaks the three-assets-all-objectives guarantee on purpose. If Elara refuses or escrows the restoration offer, the heist secures the complete evidence set **or** the complete relief delivery, never both, at any preparation level. Assets change which half survives and how badly the lost half degrades; they never dissolve the fork. A campaign about a woman who always finds the elegant both-and requires exactly one authored moment where there is none.
 
 ### Act I
 
@@ -97,7 +112,7 @@ Every act offers five assets. Two permit player participation, three make every 
 
 | State | Source | Finale use |
 |---|---|---|
-| `elara_coalition_ready` | [[The Hands That Hold It]] | keeps decision-making with current claimants |
+| `elara_coalition_ready` | [[Uninvited]] | keeps decision-making with current claimants |
 | `elara_living_claims_index` | [[The Land Reclaimed]] | distinguishes household use from salvage |
 | `elara_remote_instructions_authenticated` | Bellandi review | makes absent households' exact terms enforceable |
 | `elara_burial_provenance` | [[The Names They Buried]] | identifies restitution property |
@@ -121,9 +136,12 @@ Elara becomes a compromised survivor:
 
 - she saves the Seven Mounds workers after chasing proof first, causing avoidable injuries and a scarred chamber;
 - she preserves the winter relief and exposes part of Vardek's local network, but keeps the restoration option;
+- **she attends the Reclamation Feast, is needled, and makes the joke anyway.** The cruelty in [[Uninvited]] is hers in every route, played or unplayed; the substitution partly succeeds and the coalition is functional rather than ready;
 - she cancels inherited obligations and grants durable household rights while retaining a reduced title and private reserve.
 
 She cannot die unseen.
+
+Two states in this campaign are unrepairable by design, and both are flagged in their own files: `perle_state` never returns to `adoring` (see [[Perle Winkel]]), and `sandro_state` never moves at all (see [[Sandro Tessari]]). Neither sits inside the ordinary conflict-and-repair loop. Do not add repair scenes for either.
 
 ### Influenced autonomous results
 

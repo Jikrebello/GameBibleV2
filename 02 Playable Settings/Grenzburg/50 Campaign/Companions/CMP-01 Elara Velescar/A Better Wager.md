@@ -75,6 +75,8 @@ After her Act I chapter resolves, Elara produces the wager first proposed after 
 
 She has walked the route, obtained roof access from the relevant stallholders, and marked unsafe construction. The race is daring but not an act of trespass that leaves workers carrying the risk.
 
+**The stake is specified and slightly public:** the loser carries the winner's field kit across the Old Market at midday. Not a punishment — a spectacle, of the small ridiculous kind, in front of people who buy vegetables.
+
 ## Party and Staging
 
 The activity is one-on-one. Other companions remain at the Yard and may comment on the wager before departure or its result afterward.
@@ -115,11 +117,17 @@ Elara may win, lose, or reach the vane with the player. The game records the res
 
 No result changes approval, readiness, romance eligibility, or Elara's moral outcome.
 
+**Paying it.** If Elara lost, she carries the kit across the Old Market at midday in full style, waving, having clearly decided that the only way through this is to be magnificent about it — and she hates every step. Somewhere near the fish stalls one laugh lands wrong: not cruel, just a stranger enjoying the grave lady with a pack on. She styles over it almost successfully, and *almost* is the word. Two lines, no comment, no state. It is a forecast of the spring, and the player will not recognize it as one until [[Uninvited]].
+
 ## Without the Powder
 
 After the race, the pair sit above Bridgehold until the market closes. Back at a sheltered maintenance landing, Elara repairs a torn cuff and cleans rain, soot, and powder from her face.
 
-This is not a revelation that her appearance was false. She speaks about fearing that, without House Velescar, guilt and charm may be the only remarkable things left about her. The player may:
+This is not a revelation that her appearance was false. She speaks about fearing that, without House Velescar, guilt and charm may be the only remarkable things left about her.
+
+One optional thread, if the player has noticed Perle: Elara mentions the ribbon on the apron — how Perle wears it, how she tells the Ropehouse story wrong, how she tells it constantly — and for one beat she lets the player see that being adored by somebody she has never once thought about makes her feel like a fraud. She does not resolve it, and she changes the subject herself. See [[Perle Winkel]].
+
+The player may:
 
 - affirm adventure without flattering her innocence;
 - say friendship does not require performance;

@@ -66,6 +66,21 @@ Dock porter **Jonas Feld** opens a crate after caustic lime burns through its bo
 
 Customs arrests Jonas. A local receiving crew called the **Silkhooks** begins removing the rest of the shipment before sunset. They are liquidating property purchased remotely through [[Lord Marek Vardek|Vardek]] intermediaries; nobody from Elara's former life is present.
 
+## What Is Already Known
+
+Elara arrives in Grenzburg convicted, and the city knows it. Koss introduced her to the Yard as the famous grave lady — useful, watched, cheaper than she looks — because visible leverage is the only kind he trusts. Some debtors find it glamorous. [[Perle Winkel]] finds it tragic and romantic and says so, at length, to anyone near the linen.
+
+So this quest is not about whether the past comes out. It is about whether **these** cups, **this** manifest, and **this** warehouse are hers, said out loud, in a building where Customs is taking notes.
+
+`elara_first_admission` records that specific claim, not the general one:
+
+- **full:** she names the cut, the expedition, and the chain in the Customs Hall, on the record;
+- **private:** she tells the player and Marta's clerk and no one else;
+- **evasive:** she confirms the survey style is Virelian and lets the inference sit;
+- **refused:** she says nothing, and the lime, the cut geometry, and the remote purchase copies establish it anyway, later, worse.
+
+The distinction runs the whole campaign. Her shame is not news. Her specifics are evidence.
+
 ## Party and Pressure
 
 The normal party remains available. Elara is required but never the only route or clue solution.
@@ -88,7 +103,9 @@ Elara sees her cut and says, too lightly:
 
 The player can ask what that means, pursue the cart first, or protect Jonas's household. Elara admits command responsibility without being forced into a public spectacle. Concealment remains possible and carries later cost.
 
-Jonas is observant, angry, and uninterested in becoming Elara's evidence of compassion. He gives the wheel mark and asks whether she plans to clear his name before “making a lovely speech over the cups.”
+Jonas has burns up one forearm and has been answering questions for six hours. He gives the wheel mark, in order, twice, because the first clerk did not write it down. When Elara begins to say what she intends to do for him he asks whether she will be clearing his name before or after she makes a lovely speech over the cups, and then he asks for water, and then he stops talking to her for the rest of the scene.
+
+Across the water, a crane-hand on the North Quay platform stops working to watch the Customs crowd. He is looking at Elara. She does not see him, and nothing marks him. (See [[Sandro Tessari]].)
 
 ## Middle: Quarry Steps
 
@@ -114,7 +131,7 @@ All vocations can complete every route. Elara shortens appraisal and traversal i
 
 ## Warehouse Fire
 
-The Silkooks are led locally by broker **Jorek Sile**, an elegant receiver who has never met Vardek. He knows the shipment is illicit and intends to burn the names because unnamed goods sell better.
+The Silkhooks are led locally by broker **Jorek Sile**, an elegant receiver who has never met Vardek. He knows the shipment is illicit and intends to burn the names because unnamed goods sell better.
 
 The office fire creates three physical priorities:
 
@@ -124,13 +141,17 @@ The office fire creates three physical priorities:
 
 Pump access, a lawfully assembled crew, or opening the river shutters can make all three possible. Otherwise the player chooses where to spend bodies and time.
 
-Elara is magnetic under pressure. She calls people by name, catches a falling child from a window, and nearly credits “our little company” before one rescued sorter says they were locked in by the same people she is praising.
+Elara runs the fire the way she runs a dinner. She learns the pump crew's names off their jackets in the first thirty seconds and uses them; she puts the slowest man where the work is survivable without telling him that is why; she catches a child out of a window and hands her along without breaking sentence. It is the best she looks all quest, and the player should want to be on her crew.
+
+At the end of it she thanks the sorters — “our little company,” warmly, with the buyer roll still smoking in her other hand.
+
+One of them, two scenes later, mentions in passing which of the men now standing in her crew had turned the key on their door. Nobody comments. Nobody in the scene connects it to the thanks. The player may.
 
 ## End: The Grain-Stairs Barge
 
 Jorek takes the master list and two portable cases onto a light barge crewed by coerced laborers. Routes to it include a crane swing, quay pursuit, customs skiff, or stern ladder from the drain.
 
-The fight uses shifting cargo, cut lines, smoke, and narrow footing. Jorek can be captured, killed in justified resistance, or escape. None of those states controls later content; the evidence and people matter more than preserving him.
+The fight uses shifting cargo, cut lines, smoke, and narrow footing. Jorek fights badly and expensively — he is a receiver, not a knifeman — and ends the night arrested, in the river, or three miles downstream with the master list wet in his coat. The evidence and the people decide what happens next; he does not.
 
 Elara must decide how the return is recorded:
 

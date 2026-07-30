@@ -69,6 +69,39 @@ During the Muster disruption, local Vardek agents move to empty an old tithe vau
 
 The player and Elara enter as a duo. [[Claims-Factor Marco Bellandi]] remains above ground to administer whatever legally emerges. He does not accompany the delve or advise Elara's moral choice.
 
+## Opening Movement: The Hearing Before the Doors
+
+Before the vault, the words. At the Iron Ledger Counting-House, Bellandi lays out three bundles on the same table:
+
+1. the authenticated household instructions from the pre-siege packet;
+2. Vardek's polished consolidation — one clean page of household consent;
+3. a damaged courier copy proving local interference.
+
+The delegates established in [[Uninvited]] attend according to their states. Mira Spoke brings the transport and remittance terms; Olek Sar holds an authenticated custody instruction; Hanne Wirth refuses noble sponsorship and says so again, on the record, in case anybody has forgotten between seasons.
+
+**Elara reads the Vardek version aloud, beautifully.** It is one page, it is coherent, and it would work.
+
+Then Hanne asks her to read the households' contradictions with the same patience.
+
+The four principal instructions are quoted whole in [[The Velescar Correspondence]] and are read in play, not summarized:
+
+- **Roll 14** wants ten acres in fee tail, which is not what they want and would bind the inheritance they are trying to protect. Nobody in the packet corrects them. The settlement can give them what they asked for or what they meant, and the difference is a real decision with no correct answer available from the paper.
+- **Roll 31** refuses her money in plain, ugly anger, and asks that if it must come, it come as the court's money with her name kept off the page.
+- **Roll 52** wants six cups back and remembers eight, green when they were blue. The cups exist. Correcting a grieving household about the colour of its own remembered glass is the smallest test the campaign contains.
+- **Roll 9** wants the house back. Old Piet Sarn is not confused, not sentimental, and not wrong about the man over the hill who takes a widow's beasts every winter, lawfully. **His instruction is authentic and opposes the resolved outcome.**
+
+The player may:
+
+- authenticate seals, route marks, and hands;
+- choose whether the originals stay with Bellandi, with divided custodians, or in public escrow;
+- ask Bellandi what any of it obliges — he answers only what is legally established.
+
+Elara's instinct is to synthesize: one persuasive summary that reconciles the contradictions and gets everyone something. If she does, she wins the room and flattens four households into a position none of them holds. If she gives each instruction its own voice, the hearing is slower, uglier, harder for Vardek's agents to own — and Piet's disappointment stays in the record where the resolved ending has to live with it.
+
+When she asks Bellandi what he thinks she ought to do:
+
+> “That question is not in my portfolio.”
+
 ## Approaches
 
 - **Bellandi stair:** lawful, observed, and heavily contested;
@@ -99,11 +132,19 @@ Rotating shelves and counterweighted gates separate use records from ornamental 
 
 Sealed tubes hang over a lime cistern. Provenance lets the party release them in safe order. Without it, physical clues, names, and object matching still work under pressure.
 
+Among the labour and burial rolls, one recovered tube carries the name and hand-mark of **Aldi Tessari** — a digger on the fourth expedition, lime-scarred, dead of it two winters ago in Grenzburg. Her son works a crane on the Ledger Quays four hundred yards above this chamber.
+
+If the player has met [[Sandro Tessari]], the line has a face and the campaign's central metaphor closes: the paper Elara has spent a year recovering is made of people, and one of them has been walking past her since autumn. Nothing announces the recognition. Nothing is unlocked by it. It is simply available to a player who was paying attention, and Elara — who remembers every name after one introduction — has to read this one off a tube.
+
 ### Dry Cage
 
 Title seal, liquid instruments, and portable wealth are suspended above an old river mechanism. Local commander **Advocate Sera Vann** offers Elara a clean bargain: take the title bundle and permit the agents to destroy disputed household copies.
 
-Sera is a current hired professional, not a former acquaintance. She may be captured, killed in justified resistance, or escape.
+Sera makes the offer in Elara's own register, which is why it is dangerous. She is not a cynic and does not sneer at the work; she talks about what a restored title could *fund* — expeditions, a company on retainer, the Ropehouse properly surveyed with paid crews and a decent kitchen. She has read the file and thinks she is offering a professional a budget. Her one dismissive note is legal rather than moral: the disputed copies are bad inventory, she says, and she would rather not carry bad inventory down a flooding stair.
+
+She keeps a token from every completed contract on a ring at her belt — a provenance board in miniature, kept for the same reason Elara keeps a list of birthdays and humiliations. Neither woman remarks on it.
+
+Sera is a current hired professional, not a former acquaintance. She fights like someone being paid by the hour and stops the moment the arithmetic turns: she surrenders, she drowns in the rising gallery, or she takes the flood channel and is not seen again.
 
 ## Collapse
 
@@ -124,7 +165,11 @@ No relationship state changes Elara's settlement.
 
 ## End: Hall of Petitions
 
-The hearing is concise. Delegates speak first if the coalition survived. Bellandi reports:
+The hearing is concise, and the room already knows what the households said — the opening movement spent that currency. What arrives now is what the vault yielded and what the winter cost.
+
+**The Cabinet's fork lands here, visibly.** If [[The Patron's Cabinet]] lost the evidence half, specific worker liabilities cannot be proved and named claims fail on the record, one after another, while their delegates watch. If it lost the relief half, the delegates arrive from districts that went hungry in February and everyone in the room knows which choice bought which loss. There is no configuration in which both halves arrived.
+
+Delegates speak first if the coalition survived. Bellandi reports:
 
 - which instructions are authentic;
 - which assets satisfy restitution;
@@ -140,6 +185,8 @@ She relinquishes title, transfers viable land and authority according to househo
 She does not declare herself “no one.” She says:
 
 > “Elara will do. It has had less practice than Lady Velescar, but better company.”
+
+Roll 9 is read into the settlement unamended, and refused. Old Piet Sarn wanted the house back and asked her to come home and be sorry where it was useful, and the resolved ending tells him no. Nobody in the scene explains why he was wrong, because the record does not establish that he was — only that sixty-two other households cannot be bound to his preference. Elara signs, and one authentic voice in the packet is disappointed by the best available outcome.
 
 ### Compromised
 
@@ -175,7 +222,7 @@ Broken outcomes withhold the capstone and blueprint. Friendship can achieve the 
 ## Navigation
 
 - [[Elara Companion Campaign]]
-- [[The Hands That Hold It]]
+- [[Uninvited]]
 - [[Claims-Factor Marco Bellandi]]
 - [[The First Honest Find]]
 - [[Old Tithe Vault]]

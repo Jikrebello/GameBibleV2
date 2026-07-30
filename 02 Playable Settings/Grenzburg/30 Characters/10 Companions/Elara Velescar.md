@@ -21,6 +21,9 @@ foil: "Ashira bath Melan"
 relationship_theme: "adventure between equals"
 relationship_perks: ["Equal Footing", "Witness at My Back"]
 archetype: "Cheerleader"
+archetype_secondary: "Tomboy"
+archetype_blend: "Athletic Social Captain"
+archetype_creed: "If I earned my place under these rules, the rules must be fair."
 archetype_desire: "exemplary belonging and social influence"
 archetype_currency: "making people feel chosen, capable, and visible"
 archetype_humiliation: "public exclusion or proof that her importance was ornamental"
@@ -51,13 +54,24 @@ Elara seeks worth through exemplary belonging. She wants to be the woman at the 
 
 At her best, she notices exclusion before anyone else and spends status to correct it. At her worst, she decides who belongs, who receives credit, and which inconvenient person may be left backstage so the shared story remains glorious.
 
-Her story is not about becoming less feminine, less social, less ambitious, or less delighted by adventure. It is about learning that a company is not generous merely because she has made membership desirable.
+Her story leaves her femininity, ambition, appetite, and delight intact. What it takes from her is the belief that a company becomes generous the moment she has made membership desirable.
+
+## Creed
+
+Elara is a Cheerleader who has annexed the Tomboy's virtues — physical daring, technical competence, contempt for ornament that cannot climb. The blend has one sentence at its centre, and she has never said it aloud:
+
+> “If I earned my place under these rules, the rules must be fair.”
+
+She did earn it. She hunted, hosted, repaired, negotiated, and out-worked every idle cousin in her district, and the sabre-right that rewarded her was built on sixty-three households who could not leave. Her competence is real and it is the reason she cannot see the arrangement — a system that recognized her must be a system that recognizes merit.
+
+Under pressure the blend shows: she tightens discipline, controls presentation, and cannot easily tolerate another woman at the centre of a room she assembled.
 
 ## Identity
 
 - **Age:** twenty-eight in 1360 AR.
 - **Origin:** a failing Virelian sabre-right house.
 - **Current standing:** Medori restitution debtor and Blackjack delver.
+- **Public knowledge:** the conviction is common knowledge from the day she arrives. Grenzburg calls her *the grave lady*.
 - **Public style:** polished noblewoman, fearless expedition host, and conspicuously competent field companion.
 - **Private contradiction:** she wants an equal company but instinctively arranges every company around herself.
 - **Present ambition:** to become the kind of explorer whose discoveries make living custodians stronger rather than invisible.
@@ -105,6 +119,24 @@ Her controlling excuse remains:
 > “I did what the house required.”
 
 The house required nothing. Elara chose what remaining its lady was worth, then made the people sharing the cost feel honoured to have been chosen.
+
+## What Grenzburg Knows
+
+Everything, and nothing useful.
+
+Elara arrives convicted, and the conviction is public. Koss presents her to the Yard as the famous grave lady — useful, watched, and cheaper than she looks — and he keeps the notoriety visible because visible leverage is the only kind he trusts. Debtors know. Customs knows. The Old Market knew before she finished unpacking.
+
+This is the ground her social genius works from, and it is why the genius reads as courage rather than vanity: she has to walk into every room in Grenzburg already introduced, badly, by her worst season.
+
+What the city does **not** know:
+
+- that this particular cargo, this warehouse, these cups were hers;
+- that the patron was ever a patron, or that he is still operating;
+- that the offer exists.
+
+The distinction runs the whole campaign. Her admissions are never revelations — they are *specifics*, attached to objects, in front of people who can act on them. The general shame is already spent; the exact shame is the currency.
+
+By winter the notoriety turns. Vardek's agents seed the whisper that the grave lady still works for her patron — half-adjacent to a truth the player knows, unanswerable without conceding the rest, and enough to make her a liability the spring's sponsors politely route around.
 
 ## Appetite
 
@@ -158,7 +190,7 @@ Her shadow is curation:
 - recognition becomes a reward she controls;
 - a shared achievement becomes the story she tells best.
 
-Her resolved transformation is not humility as disappearance. She remains a visible, stylish, ambitious expedition leader. She learns to establish conditions under which people may refuse her, contradict her, receive credit without her narration, and continue the work when she leaves.
+Her resolved transformation keeps her visible, stylish, and ambitious — humility as disappearance is the wrong shape for her entirely. What she learns is procedural: she establishes conditions under which people may refuse her, contradict her, receive credit without her narration, and continue the work after she leaves the room.
 
 ## Voice
 
@@ -183,9 +215,15 @@ Elara develops a life that does not wait for Virelia to arrive.
 
 She maintains a shared outing board, turns successful returns into small ceremonies, and knows which debtors hate public praise. [[Quartermaster Brina Kest|Quartermaster Brina Kest]] values Elara's ability to make neglected work visible and refuses every attempt to make scarcity look elegant.
 
+[[Perle Winkel]] adores her, retells her exploits wrongly, and wears one of her expedition ribbons on an apron. Elara is warm to her, thinks of her as a fixture rather than a member, and has never once considered what Perle remembers.
+
 ### Old Market
 
 Elara appraises recovered objects, learns current finder customs, and cultivates delvers, porters, conservators, tavern keepers, and craftspeople. She wants the Old Market to regard the Blackjacks as professionals rather than disposable debtors.
+
+### Ledger Quays
+
+[[Sandro Tessari]] works a crane there. His mother dug for House Velescar and died of it in Grenzburg. Elara does not know his face; he has known hers since he was fourteen. He wants nothing from her and accepts nothing, and no state, season, or outcome changes that.
 
 ### Living Custodians
 
@@ -247,14 +285,16 @@ Approval records trust. [[Player Temperament and Chemistry]] records the kind of
 
 [[Elara Companion Campaign]] retains its eleven-piece architecture while [[Companion Emotional Rewrite Audit]] controls which premises survive.
 
-Her campaign must move through:
+Her campaign must move through, in this order:
 
 1. the appeal of being chosen by Elara;
 2. evidence that her chosen circle has a backstage;
-3. a public loss she cannot style into victory;
-4. an opportunity to use social power without owning the result;
+3. an opportunity to use social power without owning the result — **rehearsed** under siege, where it works;
+4. a public loss she cannot style into victory — the **examination**, in which the practice must survive losing the room;
 5. relinquishment, compromise, or restoration of House Velescar;
 6. proof that adventure remains joyful after title and exploitation are separated.
+
+The order matters. She learns to share power while she still has power to share, and Act III takes the room away — partly through scandal, partly because the healthy thing she built in winter can now run without her. Her silhouette is **rise, fall, rise**, and the cruellest engine of the fall is her own reform working.
 
 Marek Vardek remains a remote antagonist and claimant. His position may be exposed, rejected, preserved, or weakened through authenticated correspondence and local agents. No physical confrontation with him, or with a substitute visitor from Elara's past, decides her campaign.
 
@@ -287,8 +327,8 @@ Their durable friendship requires:
 ## Seasonal Movement
 
 - **Autumn:** Elara makes the Blackjacks feel like a company and begins discovering whom her version of the company omits.
-- **Winter:** her social gifts become materially useful during siege, while public scandal and Vardek make reputation costly.
-- **Spring:** household claims, grave provenance, and reconstruction force her to decide whether belonging can exist without a lady.
+- **Winter:** her social gifts become materially useful during siege, and she practises distributed authority in the one season where it visibly saves lives. Meanwhile Vardek's agents turn her existing notoriety into a rumour of ongoing service, which she cannot refute without conceding what the offer is.
+- **Spring:** the rumour has made her a liability, the company she built can run an occasion without her, and she is politely managed out of the first celebration of the peace. Household claims, grave provenance, and one unforgivable joke decide whether belonging can exist without a lady.
 - **Summer:** she becomes an ethical adventurer, reduced titled patron, restored householder, or departed social predator according to play.
 
 She has deterministic autonomous routes and cannot die unseen.
@@ -299,6 +339,8 @@ She has deterministic autonomous routes and cannot die unseen.
 - [[Elara Banter and Reactivity]]
 - [[Elara Delver-Duelist Package]]
 - [[Elara Field Familiarity and Relationships]]
+- [[Perle Winkel]] · [[Sandro Tessari]]
+- [[The Velescar Correspondence]]
 - [[Companion Archetype Constitution]]
 - [[Companion Archetype Chemistry Matrix]]
 - [[Companion Emotional Rewrite Audit]]

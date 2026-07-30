@@ -106,7 +106,7 @@ Elara breaks line of sight with prepared powder-smoke, relocates, and can draw t
 | [[The Patron's Cabinet]] | A Lady's Exit and the committed relationship duo move | path-specific duo move when commitment occurs |
 | [[Raven Shelf at Dawn]] | Crossed Measure: Second Beat | Raven Line material safeguard in the Act III finale |
 | [[Two Names on the Rope]] | Back-to-Back: Held Line | Two Names Line material safeguard in the Act III finale |
-| [[The Hands That Hold It]] | recognizes claimant marks and substituted estate rolls | coalition-priority and Old Tithe preparation |
+| [[Uninvited]] | recognizes claimant marks and substituted estate rolls | coalition-priority and Old Tithe preparation |
 | [[No Lady of Velescar]] | **The Last Claim:** a rapier-and-pick finisher against a properly exposed elite or large-creature point | saved Delver-Duelist blueprint on resolved or compromised outcomes |
 | [[The First Honest Find]] | postgame provenance callouts reflect the settled outcome | Provenance Board when Elara remains connected to the Blackjacks |
 

@@ -65,6 +65,8 @@ player_archetype_hooks: ["Cheerleader", "Tomboy", "Goth", "Bohemian", "Jock", "N
 
 This is Elara's sworn-bond episode for a female player. It is a completely platonic two-person delve about mutual competence, reciprocal rescue, honest ownership, and the certainty that each woman will come back for the other.
 
+**Deliberate contrast with the romance episode.** The bond is Elara's intimacy *maximally witnessed* — a written permission, a clerk, a worker witness, a public claim board, two names in the official record. [[Raven Shelf at Dawn]] is the same woman *maximally unwitnessed* — a cave, no exits to arrange, no record, no room. Both are the real thing; they are opposite solutions to the same fear. Neither episode may be rewritten into the other's shape.
+
 It grants the sworn-bond move upgrade and one material safeguard for [[No Lady of Velescar]]. It does not forgive Elara's grave-robbing, supervise her conscience, or determine her final moral outcome.
 
 ## Hook

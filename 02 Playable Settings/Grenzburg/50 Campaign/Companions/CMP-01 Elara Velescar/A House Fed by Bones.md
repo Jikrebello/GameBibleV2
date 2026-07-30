@@ -69,15 +69,15 @@ The player and Elara enter as a duo. Current workers, custodians, and temporary 
 
 **Foreman Branka Sohl** is a Grenzburg delver who knowingly crossed the custody line. She is practical, armed, and willing to abandon her crew to keep portable proof.
 
-Six workers are tracked individually:
+Six workers are tracked individually. They possess different information and do not vote as one moral chorus — and they are not a jury either:
 
-- Emri, shoring lead;
-- Fenn and Bela, siblings on spoil haul;
-- Rosk, powder hand;
-- Juta, cook and tally keeper;
-- Vale, injured survey assistant.
+- **Emri**, shoring lead. Speaks in loads, breaths, and stop-calls; the only person here whose job is saying no, which is why she is good at it.
+- **Fenn and Bela**, siblings on spoil haul. Bela is frightened and wants the pay; Fenn is frightened and wants to leave, and they have been having that argument for three weeks.
+- **Rosk**, powder hand. Loyal to Branka, who hired him when no one else would, and prepared to defend her out loud — wrongly, and with reasons.
+- **Juta**, cook and tally keeper. Refuses adjectives. Answers everything in numbers and knows exactly what she is owed to the penny.
+- **Vale**, injured survey assistant. Wants more money, not dignity, and says so; will trade the refuge-passage information for it without embarrassment.
 
-They possess different information and do not vote as one moral chorus.
+None of them speaks in the register of a moral instructor. Emri's line at the surface — *“You may say you listened. Do not say we followed.”* — is the campaign's one earned chorus-line, and it is earned because stop-authority is literally her trade.
 
 Track:
 
@@ -143,7 +143,7 @@ If Elara overrides them, she may still save lives through competence while repea
 
 ## Boss and Escape
 
-Branka fights with powder, hooks, crossbow pressure, and collapsing lines. She may be captured, killed in justified resistance, or escape. Later stages use the surviving evidence and local-agent network; they do not require her.
+Branka fights with powder, hooks, crossbow pressure, and collapsing lines, and she fights to leave rather than to win. She may be taken, buried under her own charge, or gone through the spoil trench before the dust settles. Later stages use the surviving evidence and the local-agent network; none of them need her alive.
 
 Escape uses the reinforced descent, refuge passage, or blast fracture. Carrying injured people changes traversal and enemy pressure. Elara's pick is useful, not mandatory.
 

@@ -97,37 +97,62 @@ The ascent crosses three sections:
 
 The player and Elara alternate anchors. The episode records whether the player leads, follows, or trades responsibility without grading one as the correct relationship posture.
 
-Along the route they find a fresh signal token belonging to **Nika Rimek**, a young Highlake warning runner who was expected back the previous evening.
+Along the route they find a fresh signal token belonging to **Vesna Rimek**, a young Highlake warning runner who was expected back the previous evening.
 
 ## Middle: Weather Turn
 
 A spring mountain front closes faster than the valley forecast predicted. Wind removes the upper trail, sleet freezes the traverse, and one old signal cable tears loose.
 
-Nika is alive on a lower ledge after descending to repair an aerial-warning marker. Her ankle is injured and her return line has fallen.
+Vesna is alive on a lower ledge after descending to repair an aerial-warning marker. Her ankle is injured and her return line has fallen.
 
 The rescue has three simultaneous needs:
 
-- reach or throw a line to Nika;
+- reach or throw a line to Vesna;
 - establish a protected anchor before the next wind wall;
 - preserve enough shelter material for the descent or emergency camp.
 
-The player may descend, direct Elara, build an improvised hauling line, or approach through Blue Ice Cave. Failed actions cost equipment, worsen Nika's injury, or force the party into the cave. Nika never dies off-screen or from one failed check.
+The player may descend, direct Elara, build an improvised hauling line, or approach through Blue Ice Cave. Failed actions cost equipment, worsen Vesna's injury, or force the party into the cave. Vesna never dies off-screen or from one failed check.
 
 ## Rescue State
 
-- **Clean extraction:** Nika is mobile with support and the upper route remains available.
-- **Hard extraction:** Nika survives with a serious injury and the party loses gear or the direct descent.
-- **Cave refuge:** all three wait out the worst weather in Blue Ice Cave and return by a longer route.
+Vesna is handed to a returning signal crew or sheltered below the shelf in every branch. What varies is cost:
+
+- **Clean extraction:** Vesna is mobile with support; the pair keep their gear and their weather cloth.
+- **Hard extraction:** Vesna survives with a serious injury; the pair lose equipment, rope, or both.
+- **Contested extraction:** the rescue takes long enough that the descent closes behind them.
 
 Highlake responds to the material result. Relationship quality does not depend on performing a perfect rescue.
 
-## End: Camp Above Highlake
+## The Cave
 
-Once Nika is secured with a returning signal crew or sheltered below the shelf, the player and Elara make the private camp originally intended.
+**In every branch, the front closes behind the rescue and the pair spend the night in [[Grenzburg Worldspace Location Register#Highlake Uplands|Blue Ice Cave]].** The cave is no longer a failure state; rescue quality determines what they have with them inside it — gear, food, dry cloth, injuries — not whether they end up there.
 
-Elara speaks about the difference between being accompanied and being possessed. She does not offer the player a place in a restored house. She asks whether they can choose expeditions, returns, danger, and ordinary life as equals whose futures remain their own.
+This is the point of the episode.
+
+There is no exit to arrange. No one to introduce. No route to name, no crew to praise, no room to read. Elara Velescar is in a hole in a mountain with one person who requires nothing from her, and she has nothing to host with.
+
+She tries anyway, and the scene should let her:
+
+- she arranges the loose stone into something like seating;
+- she narrates tomorrow's descent as an itinerary, twice;
+- she proposes names for the climb — three, each better than the last, each to no one;
+- she objects, out of pure habit, to sleeping before they have agreed what the morning is called.
+
+The performance runs out of room. It does not collapse dramatically; it just runs out, the way talking does when the second person has already said yes to everything. Then the lamp goes down to save oil, and the plain voice arrives — the one the character bible promises, where the loss of polish is audible.
+
+What she says in the dark is not about the house, the graves, or her conscience. It is about the discovery that an indifferent room does not actually kill her: she has been afraid of exactly this — no audience, no arrangement, nothing to be excellent at — and it turns out to be survivable, because one witness who wants nothing is enough, and she did not know that.
+
+The conversation then reaches what the episode is for: the difference between being accompanied and being possessed. She does not offer the player a place in a restored house. She asks whether they can choose expeditions, returns, danger, and ordinary life as equals whose futures remain their own.
 
 The player may reciprocate, ask for more time, or reaffirm the commitment without sex. If welcomed, the scene becomes physically intimate and fades to black. None of these responses grants forgiveness for Elara's past or asks the player to supervise her conscience.
+
+## Morning
+
+They summit at first light or they do not, according to the descent state. Either way:
+
+**She does not name the climb.** The first unnamed summit of her life goes into no account, no board, and no story, and she leaves it that way on purpose.
+
+*Swap test: this scene must be impossible to run for [[Ylva Winter-Track|Ylva]] or [[Ashira bath Melan|Ashira]] without rewriting every beat. If it survives the substitution, it has not been written yet.*
 
 ## Move Upgrades
 
@@ -145,7 +170,7 @@ This advantage never changes which recovery Elara values first and cannot create
 
 ## Cutoff
 
-Beginning [[The Deep Muster Main Quest|The Deep Muster]] closes the episode. Highlake's signal service recovers Nika through its own spring operations. Elara does not punish the player or end the relationship, but the private climb, move upgrade, and Raven Line asset are lost.
+Beginning [[The Deep Muster Main Quest|The Deep Muster]] closes the episode. Highlake's signal service recovers Vesna through its own spring operations. Elara does not punish the player or end the relationship, but the private climb, move upgrade, and Raven Line asset are lost.
 
 ## Outputs and Rewards
 
