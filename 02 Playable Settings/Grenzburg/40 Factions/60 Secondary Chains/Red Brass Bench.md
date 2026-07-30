@@ -45,6 +45,14 @@ Under [[Maro Vezan]], the Bench:
 
 The Bench did not force [[Tavio Meran]] to use the Fifth Ring. It made the fraud available, normalized it, and covered his willing choice.
 
+## Why a Grenzburg Proof Is Dangerous
+
+The Bench's exposure is not reputational. It is contractual, and it travels.
+
+Crucible certification is portable: a fitting proved unsafe by an independent examiner in one member city voids the warranty that carries it everywhere else. If [[Proof-Mistress Hella Dorn|Hella Dorn]] files a substitution finding at the Great Forge, every Red Brass warranty from Vorthara to the border marches becomes contestable at once — refunds, recalls, and cancelled touring contracts — and the branch's certification licence goes before a Crucible panel that contains its competitors.
+
+That is what prices their aggression, and bounds it. The Bench will spend agents, bribes, hired disruptors, and a great deal of correspondence to stop one examiner's paperwork. It will not send soldiers into a war zone, because the exposure is a market problem and armies do not fix market problems.
+
 ## Present Objective
 
 The Red Brass Bench wants:

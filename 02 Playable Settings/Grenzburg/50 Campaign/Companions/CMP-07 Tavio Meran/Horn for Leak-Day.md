@@ -44,7 +44,7 @@ preparation_inputs: ["tavio_field_inspection_ledger", "tavio_leak_horn_drill", "
 preparation_threshold: "2 of 5"
 autonomous_deadline: "The Deep Muster"
 autonomous_resolution: "Tavio saves the forge only after Hella or ducal authority orders evacuation and becomes a supervised load tester"
-changed_reentry: "The Road Takes the Measure"
+changed_reentry: "The Examiner"
 ensemble_inputs: ["Bernard Valeon", "Ilyana Veshkar", "Ylva Winter-Track"]
 identity_hooks: ["Military", "Merchant/Craft", "Peasant/Labour", "Scholarly", "Warlock", "Lancewright"]
 encounter_deck: []
@@ -68,7 +68,9 @@ The Great Forge leak is caused by damaged Shell-fire equipment interacting with 
 
 ## Hook
 
-The Great Forge's replacement line begins repeating load commands after a captured plate is installed. Three banks synchronize beyond their filed relation, igniting an expanding Shell-fire leak through the floor channels.
+**The plate came up the road from the Old River Arsenal** — recovered from a residue patrol and installed by a foundry desperate for capacity, the contaminated replacement-forge component the spring inspection chain had been tracking. If [[Meran-Style]] left pit-supplied rings circulating, some of them are on this floor, in the hands of crews who bought them because the endorsement said Meran.
+
+The Great Forge's replacement line begins repeating load commands after the plate is installed. Three banks synchronize beyond their filed relation, igniting an expanding Shell-fire leak through the floor channels.
 
 Hella orders the upper floor cleared. Foundry owners and military officers argue that abandoning the line will cripple the spring campaign.
 
@@ -109,7 +111,7 @@ The duo crosses:
 
 - buckling proof rails;
 - elemental flare jets;
-- panicked apprentices;
+- panicked apprentices, two of them named — **Rike**, who will not leave a jammed gate she was told to hold, and **Bosch**, who is wearing a knockoff ring and does not know what it is;
 - jammed load gates;
 - non-conscious animated forge tools;
 - collapsing catwalks.
@@ -146,7 +148,7 @@ Ordinary Warlock counter-scripts, physical destruction, cooling, or mechanical i
 
 If available, the mobile frame can redirect the remaining load toward the River Vent. It requires:
 
-- one person at the proof gauntlet;
+- **one person at the proof gauntlet** — the tremor's last beat. A resolved Tavio does not silently take the station: he names the hand, aloud, to Hella and the player, and either assigns it or shares it. A concealing Tavio takes it without a word, and the frame's threshold now contains a variable nobody else on the floor knows about. *(Tremor beat 4 of 4. Narrative only; no mechanical effect on the containment attempt.)*
 - one at the manual stops;
 - a clear evacuation lane;
 - an agreed final threshold.
@@ -232,7 +234,7 @@ Friendship alone can produce the resolved outcome and all non-relationship progr
 - [[Tavio Companion Campaign]]
 - [[Tavio Meran]]
 - [[Lancewright]]
-- [[Measure on the March]]
+- [[Meran-Style]]
 - [[Proof-Mistress Hella Dorn]]
 - [[Hammer Ward#Anchor Locations|Great Forge]]
-- [[The Road Takes the Measure]]
+- [[The Examiner]]

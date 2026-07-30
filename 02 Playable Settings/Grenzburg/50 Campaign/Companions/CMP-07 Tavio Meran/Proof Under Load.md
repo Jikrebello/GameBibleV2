@@ -123,6 +123,14 @@ No supernatural mastermind explains the fraud.
 
 The field agent starts the live proof while workers remain below the chamber. A fracture isolates two crews and threatens the haulage frame.
 
+The crews are people, and three of them are tracked:
+
+- **Ottir**, face boss, thirty years underground, who calls the halt and whose whole trade is knowing when a stone is lying. He speaks in loads and breaths and does not editorialize.
+- **Brannt**, powder hand, young, thrilled to be near a real proof and slow to understand what the reading costs.
+- **Sesk**, tally keeper, who has the sample log and will not release it to anyone who cannot say what it is for.
+
+If a named worker calls the halt, it is Ottir, and Tavio's response to Ottir specifically — not to an anonymous stop-call — is the character decision.
+
 The duo may:
 
 - stop the test and rescue both crews;
@@ -141,7 +149,7 @@ The test has three meaningful stopping points:
 - **conclusive:** stronger institutional evidence with bounded risk;
 - **overproof:** spectacular certainty at unacceptable risk to workers and structure.
 
-If a named worker calls the halt, Tavio's response is the character decision. The player may support the halt, permit a bounded continuation after evacuation, or encourage the overproof.
+Ottir's halt is the character decision. The player may support the halt, permit a bounded continuation after evacuation, or encourage the overproof.
 
 ## End
 

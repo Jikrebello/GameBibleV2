@@ -33,12 +33,20 @@ His old defence is:
 
 > If I carried the risk and still won, I earned the right to take it.
 
-The campaign tests four truths:
+It is a story he assembled afterward. He cheated because he was losing to [[Lio Varcen]] and had begun to feel the first edge of decline, and the excuse arrived later to make the fear sound like courage.
 
-1. An opponent's body is not part of Tavio's wager.
-2. A stop authority must be able to stop the proof.
-3. Accepting sole blame may still protect a corrupt institution.
-4. A fair defeat is not a performance of remorse.
+## Campaign Shape
+
+**The arenas get smaller and the contests get truer.**
+
+- Championship arena — backstory, a crowd of thousands, a hidden ring.
+- **Act II:** a filed public bout on his opponent's numbered terms, in a forge yard, with two seconds who can stop it.
+- **Act III:** a pit-night challenge in a Hammer Ward yard, which he declines.
+- **Summer:** a children's chalk ring and a road game, refereed.
+
+The crowd's arc runs opposite and is the campaign's real antagonist: adored, then hungry for one villain to blame, then gone to somebody younger, then — if he earns it — won back honestly at small scale by a man who now measures more than he fights.
+
+**The tremor appears exactly four times** (seeded, named, spent, passed) and never becomes a mechanic; see [[Tavio Meran#The hand]] and [[Tavio Lancewright Package]].
 
 ## Formal Campaign
 
@@ -52,9 +60,9 @@ The campaign tests four truths:
 | 6 | CMP-07-A2-F | [[The Fair Defeat]] | Act II finale | player and Tavio | 1.75 |
 | 7 | CMP-07-RM | [[No Wager Between Us]] | romance | one-on-one | 0.5 |
 | 7 | CMP-07-BD | [[After the Last Lantern]] | sworn bond | one-on-one | 0.5 |
-| 8 | CMP-07-A3-O | [[Measure on the March]] | Act III operation | normal party | 0.75 |
+| 8 | CMP-07-A3-O | [[Meran-Style]] | Act III operation | normal party | 0.75 |
 | 9 | CMP-07-A3-F | [[Horn for Leak-Day]] | Act III finale | player and Tavio | 2.25 |
-| 10 | CMP-07-S | [[The Road Takes the Measure]] | summer coda | normal party or changed encounter | 0.5 |
+| 10 | CMP-07-S | [[The Examiner]] | summer coda | normal party or changed encounter | 0.5 |
 
 One playthrough exposes nine non-exclusive pieces and one relationship variant for approximately 10.25 authored hours. Only the three act finales use the fixed duo format.
 
@@ -113,7 +121,7 @@ No threshold requires a faction, relationship, origin, starting vocation, or mor
 
 | Asset | Source | Use in Horn for Leak-Day |
 |---|---|---|
-| `tavio_field_inspection_ledger` | [[Measure on the March]] | reveals which fittings must be isolated |
+| `tavio_field_inspection_ledger` | [[Meran-Style]] | reveals which fittings and pit-supplied rings must be isolated |
 | `tavio_leak_horn_drill` | Great Forge practice | starts evacuation before smoke blocks the route |
 | `tavio_mobile_vent_frame` | Hammer Ward craftsmen | permits one bounded containment attempt |
 | `tavio_muster_cadence_reading` | [[The Land Reclaimed]] or anchor work | distinguishes repeated command from ordinary forge pressure |
@@ -152,6 +160,7 @@ Elara may recover the bookmaker ledger. Zafir may expose the liability structure
 ### Act III
 
 - **Measured and Prepared:** Tavio sounds the horn before the forge becomes his final arena and qualifies as an independent road examiner.
+- **In every route, played or autonomous:** he declines Steffen's public challenge and is read as a coward or a has-been for it. `tavio_declined_challenge` is always true; see [[Meran-Style]].
 - **Managed default:** he saves the Great Forge only after Hella or ducal authority orders evacuation, becoming a supervised load tester.
 - **Overproof:** he delays for spectacle, conceals a failed measure, or abandons evacuation for one impossible hold.
 
@@ -163,8 +172,9 @@ With no player involvement:
 
 1. Tavio recalls most unsafe gear but causes one avoidable testing injury.
 2. He fights Lio fairly while accepting sole blame to preserve the Red Brass Bench.
-3. He saves the Great Forge only after an external evacuation order.
-4. He becomes a supervised load tester rather than an independent road examiner.
+3. He confronts Steffen alone, is baited into half-accepting the challenge before Hella intervenes, and leaves the pit gear partly recalled and the boy estranged.
+4. He saves the Great Forge only after an external evacuation order.
+5. He becomes a supervised load tester rather than an independent road examiner.
 
 This is a stable compromised outcome, not future-setting canon. Tavio cannot die unseen.
 
@@ -182,7 +192,7 @@ It cannot unlock [[Lancewright]], restore Act II progression rewards, or reopen 
 
 ### Act III
 
-Missing the Act III finale fixes Tavio's autonomous settlement. [[The Road Takes the Measure]] reflects it without reopening the judgement.
+Missing the Act III finale fixes Tavio's autonomous settlement. [[The Examiner]] reflects it without reopening the judgement.
 
 ## Embedded Opportunities
 

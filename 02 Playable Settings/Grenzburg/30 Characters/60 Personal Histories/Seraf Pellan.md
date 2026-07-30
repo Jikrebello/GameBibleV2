@@ -50,4 +50,4 @@ He never enters the base-game worldspace. Stamps, shipments, agents, ledgers, an
 - [[Maro Vezan]]
 - [[The Signed Measure]]
 - [[Proof Under Load]]
-- [[Measure on the March]]
+- [[Meran-Style]]

@@ -613,6 +613,9 @@ Duplicate implementation keys across these authorities are prohibited unless one
 | `tavio_mobile_vent_frame` | companion preparation | Tavio Meran | 0 | [[Tavio Companion Campaign]] |
 | `tavio_muster_cadence_reading` | companion preparation | Tavio Meran | 8 | [[The Land Reclaimed]] |
 | `tavio_worker_consent_roster` | companion preparation | Tavio Meran | 0 | [[Tavio Companion Campaign]] |
+| `steffen_state` | companion / local | Tavio Meran | 4 | [[Meran-Style]] — examiner-apprentice / licensed / injured / estranged |
+| `pit_gear_state` | district | Tavio Meran | 4 | [[Meran-Style]] — recalled / partly-recalled / circulating |
+| `tavio_declined_challenge` | companion milestone | Tavio Meran | 4 | [[Meran-Style]] — **true in every route, played or autonomous** |
 | `tavio_campaign_tracked` | companion | Tavio Meran | 1 | [[The False Ring]] |
 | `tavio_fifth_ring_evidence` | companion preparation | Tavio Meran | 1 | [[The False Ring]] |
 | `tavio_cheating_admitted` | companion | Tavio Meran | 1 | [[The False Ring]] |
@@ -656,10 +659,10 @@ Duplicate implementation keys across these authorities are prohibited unless one
 | `tavio_bond_move_upgrade` | relationship | Tavio Meran | 7 | [[After the Last Lantern]] |
 | `tavio_seconds_halt_practiced` | companion preparation | Tavio Meran | 7 | [[After the Last Lantern]] |
 | `last_lantern_state` | relationship | Tavio Meran | 7 | [[After the Last Lantern]] |
-| `tavio_field_inspection_ledger` | companion preparation | Tavio Meran | 8 | [[Measure on the March]] |
-| `march_equipment_state` | regional | Grenzburg | 8 | [[Measure on the March]] |
-| `old_river_arsenal_safety` | regional | Upper Grenz | 8 | [[Measure on the March]] |
-| `named_worker_stop_state` | companion | Tavio Meran | 8 | [[Measure on the March]] |
+| `tavio_field_inspection_ledger` | companion preparation | Tavio Meran | 8 | [[Meran-Style]] |
+| `march_equipment_state` | regional | Grenzburg | 8 | [[Meran-Style]] |
+| `old_river_arsenal_safety` | regional | Upper Grenz | 8 | [[Meran-Style]] |
+| `named_worker_stop_state` | companion | Tavio Meran | 8 | [[Meran-Style]] |
 | `tavio_act3_chapter_resolved` | companion chapter | Tavio Meran | 9 | [[Horn for Leak-Day]] |
 | `tavio_act3_result` | companion | Tavio Meran | 9 | [[Horn for Leak-Day]] |
 | `tavio_act3_finale_played` | companion | Tavio Meran | 9 | [[Horn for Leak-Day]] |
@@ -669,9 +672,9 @@ Duplicate implementation keys across these authorities are prohibited unless one
 | `leak_horn_state` | companion | Tavio Meran | 9 | [[Horn for Leak-Day]] |
 | `tavio_summer_destination` | companion | Tavio Meran | 9-10 | [[Horn for Leak-Day]] |
 | `tavio_relationship_perk` | relationship | Tavio Meran | 9 | [[Horn for Leak-Day]] |
-| `tavio_summer_coda_complete` | companion | Tavio Meran | 10 | [[The Road Takes the Measure]] |
-| `road_examiner_state` | companion | Tavio Meran | 10 | [[The Road Takes the Measure]] |
-| `summer_proof_route_state` | regional | Upper Grenz | 10 | [[The Road Takes the Measure]] |
+| `tavio_summer_coda_complete` | companion | Tavio Meran | 10 | [[The Examiner]] |
+| `road_examiner_state` | companion | Tavio Meran | 10 | [[The Examiner]] |
+| `summer_proof_route_state` | regional | Upper Grenz | 10 | [[The Examiner]] |
 | `zafir_recruited` | companion gate | Zafir ibn Samad | 0 | [[Zafir ibn Samad]] |
 | `zafir_first_outing_complete` | companion gate | Zafir ibn Samad | 0 | [[Zafir Companion Campaign]] |
 | `zafir_direction` | companion direction | Zafir ibn Samad | 0 | [[Zafir Companion Campaign]] |

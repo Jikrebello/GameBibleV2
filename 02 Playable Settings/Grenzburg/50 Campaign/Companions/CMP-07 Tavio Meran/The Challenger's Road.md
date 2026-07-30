@@ -52,7 +52,7 @@ persistence_scope: regional-milestone
 postgame_season: ""
 emotional_rewrite_status: reframe
 dialogue_status: pending-rewrite
-remote_claim_status: pending-migration
+remote_claim_status: compliant-via-lio-clause
 archetype_pressure: "Competition becomes worth: test whether Tavio can stop, lose, or need help without surrendering athletic joy."
 emotional_function: "Keep Lio's remote claim and refusal; use a present-day challenger to center bodily vulnerability, public expectation, and the right to withdraw"
 pleasure_beat: "Competition, crowds, food, physical effort, ridiculous prizes, and celebrating improvement."
@@ -69,13 +69,15 @@ This Act II operation brings [[Lio Varcen]], his fighting brace, and independent
 
 A winter courier reports that Lio's protected convoy has stalled beyond the Highlake road. The western route is closing, Grobi scouts probe the approaches, and someone has circulated a false order transferring Lio into Blackjack custody.
 
-Lio refuses the transfer. He asks for:
+Lio refuses the transfer, and his arrival is sanctioned under [[Companion Constitution#Exception: the Lio Clause|the Lio Clause]]: he travels under his own power, for his own aims, with his own second, clerk, and exit route, and never in Tavio's custody.
 
-- neutral passage;
-- custody of his own brace and records;
-- a named medical stop;
-- lodging outside Tavio's authority;
-- a route that does not turn him into bait.
+He asks for five things, numbered, because he numbers things:
+
+> **Lio:** One, neutral passage. Two, my brace and my records stay with me. Three, a named medical stop, and I will tell you where. Four, lodging that is not his.
+>
+> *(He looks at the road, not at Tavio.)*
+>
+> **Lio:** Five. If this route is chosen because I am useful bait, say so now and I will take the ferry and be slower.
 
 ## Beginning: Terms of Escort
 
@@ -87,7 +89,7 @@ The player chooses a route:
 - **Highlake freight path:** physically demanding, safer from officials;
 - **Lowland relief convoy:** crowded but protected by witnesses.
 
-Tavio may advise. Lio decides whether the brace travels assembled, sealed, or worn.
+Tavio may advise. Lio decides whether the brace travels assembled, sealed, or worn — and he is at every departure before it is called, every morning, without ever explaining why a man who manages pain before dawn is early to things.
 
 ## Middle: Three Pressures
 

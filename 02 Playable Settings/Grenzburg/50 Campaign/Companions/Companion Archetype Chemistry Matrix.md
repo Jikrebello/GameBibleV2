@@ -126,7 +126,14 @@ Roster symmetry: Bernard is Goofball→Jock and [[Zafir ibn Samad]] is Nerd→Go
 | Goofball | intelligence made breathable | the player makes expertise socially accessible and notices when explanation is fear | jokes may humiliate real study; Zafir may treat warmth as an inefficient delivery system |
 | Grey | patient inquiry | the player asks what matters now rather than rewarding or attacking expertise as identity | Zafir must offer knowledge without first knowing what category of respect it will purchase |
 
-## Tavio Meran — Jock
+## Tavio Meran — Jock / Goofball secondary
+
+**Blend: the Lovable Captain.** Creed: *"I take performance seriously, but I refuse to let pressure make the team joyless."* Secret desire: **continued love after defeat or injury** — which is the campaign's thesis stated by the archetype. Stress behaviour: jokes more, then turns controlling when the humour fails.
+
+Differentiation from [[Bernard Valeon|Bernard]] is bright and load-bearing: Bernard's humour makes room; Tavio's humour **recruits.** Everyone at a Tavio table has a job in the bit.
+
+⟨PAIR⟩ Roster symmetry: Tavio is Jock→Goofball and [[Ylva Winter-Track]] is Tomboy→Cheerleader (pending her spec's execution) — each carries a social term in the secondary slot, which is why their foil runs on public credit and halts rather than on competence.
+
 
 | Player tendency | Relationship register | What catches Tavio's attention | Recurring pressure |
 |---|---|---|---|

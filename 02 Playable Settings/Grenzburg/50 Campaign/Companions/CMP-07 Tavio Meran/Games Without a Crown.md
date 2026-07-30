@@ -93,6 +93,14 @@ Every game has:
 
 The player may compete, officiate, cook, keep score, or invent one final prize.
 
+## Steffen
+
+One competitor is nineteen, from the crane yards, and better than he has any business being.
+
+He wins the safe spear-vault demonstration. When Tavio praises him — publicly, precisely, naming the thing he did well — the boy lights up like a lamp and is unbearable about it for the rest of the afternoon, and everybody forgives him because he is nineteen and it is a fair.
+
+He gives his name as **Steffen**. Nothing else about him surfaces here: no pits, no gear, no shadow. The player should simply like him. ([[Steffen Krall]].)
+
 ## The Day
 
 The episode moves through Old Market, Bridgehold, and the Blackjack Yard. Small choices alter dialogue and ambient fair scenes:

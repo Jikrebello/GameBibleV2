@@ -128,4 +128,4 @@ Missing the episode does not end an existing bond, but loses these upgrades.
 - [[Tavio Field Familiarity and Relationships]]
 - [[The Fair Defeat]]
 - [[Horn for Leak-Day]]
-- [[The Road Takes the Measure]]
+- [[The Examiner]]

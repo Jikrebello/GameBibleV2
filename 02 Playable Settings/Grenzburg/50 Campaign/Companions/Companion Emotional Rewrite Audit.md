@@ -135,19 +135,21 @@ No piece reaches implementation readiness until `dialogue_status: approved` and 
 
 ## CMP-07: Tavio Meran
 
+**Rewrite-spec pass executed** per [[Tavio Rewrite Spec]]. The Jock/Goofball blend, the tremor, the motive (he was losing), the **Lio Clause**, Maro's letter, Steffen Krall, Red Brass jurisdiction pricing, and Hella's wall are canon. The coda is renamed and the second inspection quest is archived. Scene-level wording still pends; the Ylva half of the paired pass is outstanding.
+
 | ID | Current piece | Disposition | Rewrite brief |
 |---|---|---|---|
-| CMP-07-I | [[The False Ring]] | preserve | Keep the Fifth Ring, Tavio's knowledge, unsafe hardware, and public first crack in the champion story |
-| CMP-07-A1-O | [[The Signed Measure]] | reframe | Keep dangerous endorsements; replace register-heavy play with teams using gear because Tavio's name made them trust it |
-| CMP-07-A1-F | [[Proof Under Load]] | reframe | Keep Cold-Iron testing and worker rescue; make stopping before certainty a visible defeat before peers |
-| CMP-07-FR | [[Games Without a Crown]] | preserve | Keep fair games, absurd prizes, food, and delight without villainy |
-| CMP-07-A2-O | [[The Challenger's Road]] | reframe | Keep Lio's remote claim, medical evidence, and right to refuse; use a present-day challenger for bodily vulnerability and public expectation |
-| CMP-07-A2-F | [[The Fair Defeat]] | reframe | Keep the live match, neutral officials, sabotage, and justified halt without requiring Lio to appear |
-| CMP-07-RM | [[No Wager Between Us]] | preserve | Keep female-player courtship without performance or stakes |
-| CMP-07-BD | [[After the Last Lantern]] | preserve | Keep male-player trusted seconds, cleanup, and brotherhood after the crowd |
-| CMP-07-A3-O | [[Measure on the March]] | reframe | Keep unsafe war equipment; make Tavio oppose team prestige and operational momentum rather than conduct another inspection ledger |
-| CMP-07-A3-F | [[Horn for Leak-Day]] | preserve | Keep the forge leak, public halt, evacuation, and capstone |
-| CMP-07-S | [[The Road Takes the Measure]] | preserve | Keep examiner, supervised tester, and circuit outcomes while preserving joy in competition |
+| CMP-07-I | [[The False Ring]] | cleared; spec-passed | Fifth evidence fact — the cadence shows Lio ahead; tremor beat 1 |
+| CMP-07-A1-O | [[The Signed Measure]] | cleared; spec-passed | The auction gauntlet's destination is a person: [[Steffen Krall]] |
+| CMP-07-A1-F | [[Proof Under Load]] | cleared; spec-passed | Ottir, Brannt, and Sesk named; the halt belongs to a face |
+| CMP-07-FR | [[Games Without a Crown]] | cleared; spec-passed | Steffen seeded as a fair competitor and nothing else |
+| CMP-07-A2-O | [[The Challenger's Road]] | cleared; **Clause-compliant** | Lio arrives under the Lio Clause with his five numbered terms in his own voice |
+| CMP-07-A2-F | [[The Fair Defeat]] | cleared; rebuilt | Challenge notice and Maro's letter quoted whole; **the filing mirror**; the popular broadsheet and the martyr's-discount scene; **every branch authored** — the fair loss voids his career; the confession owed to Lio; betting tied to Maro and Seraf's exit money |
+| CMP-07-RM | [[No Wager Between Us]] | cleared; spec-passed | The hand seen and unmanaged; tremor beat 3 |
+| CMP-07-BD | [[After the Last Lantern]] | preserve | Male-player trusted seconds, cleanup, and brotherhood after the crowd |
+| CMP-07-A3-O | [[Meran-Style]] | cleared; new | **The public stop that feels like defeat**; the replacement figure; the declined challenge, authored in all routes; replaces the archived Measure on the March |
+| CMP-07-A3-F | [[Horn for Leak-Day]] | cleared; spec-passed | Muster-plate intake; Rike and Bosch named; tremor beat 4 at the proof gauntlet |
+| CMP-07-S | [[The Examiner]] | cleared; renamed | Steffen filed and clean; the wall glanced at; renamed from The Road Takes the Measure |
 
 ## CMP-08: Zafir ibn Samad
 

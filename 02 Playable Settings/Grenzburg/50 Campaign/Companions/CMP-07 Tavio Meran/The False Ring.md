@@ -104,7 +104,13 @@ Hella stages four non-lethal tests in Hammer Ward:
 3. **Heat memory:** the ring carried a full fourth relation during the Lio bout.
 4. **Control demonstration:** three legal marks can be loaded, Broken, Braced, and Yielded without using the insert.
 
-During the control demonstration, an old strain line in the test frame fails. The party must:
+During the control demonstration — three legal marks, loaded, Broken, Braced, Yielded — an observant player can notice Tavio's right hand at the top of the third load. Not a fumble; a fine tremor, there and gone.
+
+He laughs it off before anyone else looks: cold hands, old glove, the Grenzburg damp, a joke about Vortharan winters being a rumour. It is the Lovable Captain register doing exactly what it is for, and it works.
+
+*(Tremor beat 1 of 4. Narrative only; see [[Tavio Lancewright Package]].)*
+
+Then an old strain line in the test frame fails. The party must:
 
 - clear apprentices;
 - catch or vent the directional force;
@@ -123,6 +129,10 @@ The truth has redundant sources:
 - footage or written bout cadence;
 - Tavio's old seconding card;
 - a folded Red Brass instruction beneath the lining.
+
+**And one more, which is not about the ring.** The bout cadence — on the seconding card, in the written exchange rhythm, in any surviving bill — shows **Lio ahead when the discharge came.** Two exchanges up, on Tavio's own count, in his own hand.
+
+Nobody in the scene remarks on it. Hella has no professional interest in it and Koss cannot sell it. It sits in the evidence, discoverable, months before Tavio ever says out loud why he did it. A player who notices has the motive before the confession; a player who does not gets it in Act II and should feel the earlier page turn over in their memory.
 
 Sestaran or Merchant/Craft knowledge identifies the endorsement form. Military or Warlock knowledge identifies why a fourth load endangers everyone sharing the field. Insight catches Tavio describing the ring's behaviour too precisely for someone who forgot it.
 

@@ -103,6 +103,40 @@ He tears his display copy, not the evidence.
 
 **Tavio:** “You decide whether I stay for the refit.”
 
+### Stress — When the joke stops working (Lovable Captain)
+
+A pit-night crowd. Someone half Tavio's age has just quoted him back at himself, accurately, and the room is enjoying it.
+
+**Tavio:** *(easy)* “He is not wrong. I never called one. I was insufferable at his age too — worse, ask anyone in Vorthara—”
+
+The laughter is not with him.
+
+**Tavio:** “Right. Everybody wearing a Meran ring, hands up. No — hands *up*, I am not asking.”
+
+*(Nobody moves. He is suddenly a foot taller and using a voice from a drill hall.)*
+
+**Tavio:** “You. That housing was cut for a filed gauntlet and you are running four relations through it. You will lose the hand, not the bout.”
+
+Three sentences, and the room closes against him. He hears it happen. He stops.
+
+Later, to the player, without being asked:
+
+**Tavio:** “I sounded like every official who ever told me to know my place.”
+
+### Refusal — The challenge declined
+
+Steffen, to the crowd: beat me and the rings are yours.
+
+**Tavio:** “No.”
+
+*(The crowd waits for the rest of it.)*
+
+**Tavio:** “A halt is part of the bout. Anyone can continue.”
+
+He does not explain the ban. He does not mention his hand. He does not get a speech, and the room reads it as cowardice or as decline, and he lets them.
+
+*No line follows this. Do not write one.*
+
 ### Quiet — After the fair
 
 Tavio and the player collect cups in the dark.
@@ -159,7 +193,11 @@ Reject any Tavio line that:
 - reduces every subject to proof engineering;
 - treats applause as his only pleasure;
 - makes public confidence incompatible with vulnerability;
-- converts Lio into a prop who exists to forgive him.
+- converts Lio into a prop who exists to forgive him;
+- **explains the tremor.** It is shown four times and named twice, by him, to people with a right to know. Nobody diagnoses it and no scene makes it a metaphor out loud;
+- **narrates the declined challenge as wisdom.** It is a loss. It is felt as a loss. If a line makes it read as serenity, cut it;
+- **lets Steffen be simply wrong.** An old champion preaching limits to the young has a real problem, and the kid's version of it is allowed to land;
+- **makes Maro a hypocrite.** He means the letter. That is what makes it work.
 
 ## Navigation
 

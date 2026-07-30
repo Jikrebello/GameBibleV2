@@ -27,6 +27,14 @@ Her rule is:
 
 > If nobody is allowed to stop the test, it is not proof. It is a wager made with other people's bodies.
 
+## The Wall
+
+Above her bench, in rows, nailed through: every failed, forged, or over-capacity fitting she has ever caught. Perhaps ninety pieces. Each carries a tag in her own hand — the date, the batch, and what it would have done.
+
+She does not call it anything. Everyone else calls it the wall of liars.
+
+She points at it instead of arguing, and she has never once been observed to look at it while pointing. Whether the Fifth Ring ends up on that wall, or is destroyed, or sits in a civil evidence box for forty years, is a quiet outcome-state the summer coda can glance at without comment.
+
 ## Functions
 
 Hella can:

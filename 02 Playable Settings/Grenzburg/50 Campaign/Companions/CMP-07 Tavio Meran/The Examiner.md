@@ -58,11 +58,19 @@ pleasure_beat: "Competition, crowds, food, physical effort, ridiculous prizes, a
 care_beat: "Tavio trains beside people, celebrates their effort, and calls a halt before glory spends their bodies."
 player_archetype_hooks: []
 ---
-# The Road Takes the Measure
+# The Examiner
 
 ## Quest Function
 
 Tavio's summer coda demonstrates his settled conduct. It does not reopen Lio's decision, the arena judgement, the Great Forge horn, or a missed relationship episode.
+
+## Steffen, and the Wall
+
+Two things appear in every version of this coda.
+
+**Steffen.** On a resolved or compromised path he is fighting filed and clean under examiner rules, in a licensed yard, with his gear stamped — and he is *still* a little insufferable, quotes Tavio's old bills back at him, and beats somebody in the third exchange with a guard Tavio taught him by accident eight years ago from a broadsheet. If he is estranged, the player hears his name from a bout bill instead. `steffen_state` decides which.
+
+**The wall.** Hella's rows of failed fittings, tagged in her hand, above the bench. Whether the Fifth Ring is nailed up there among them, sitting in a civil evidence box, or destroyed under documentation is visible in one glance and remarked on by nobody.
 
 ## Resolved: Independent Road Examiner
 

@@ -106,6 +106,8 @@ An apprentice is preparing a live proof. Tavio may invoke celebrity, admit the r
 
 The item can be withdrawn lawfully, bought, stolen with Low Lantern help, or disabled during the demonstration. A buyer's guards resist only if the party attempts an unfiled seizure.
 
+Whatever happens to it here is remembered. If it leaves the room intact and unrecorded, it has a destination, and the destination is a person. See [[Meran-Style]].
+
 ## Pursuit
 
 Seraf leaves with the master register by a workshop cart disguised as salvage. The pursuit crosses Hammer Ward hoists, Old Market service lanes, and the Highlake freight ramp.
@@ -132,7 +134,7 @@ This choice moves `tavio_direction`.
 - Register burns: batch stamps on recovered fittings reconstruct the routes.
 - Apprentice injured: the injury persists and opens changed winter repair.
 - Quarry closes: Highlake supply slows, but no story gate closes.
-- Auction item leaves town: it returns through the field inspection chain in Act III.
+- Auction item leaves town: it does not leave town. It goes to a Hammer Ward fence and from there to a nineteen-year-old crane-hand who has been copying Tavio's guard off bout bills since he was eleven, and it comes back in [[Meran-Style]] on [[Steffen Krall]]'s arm.
 
 ## Outputs and Rewards
 

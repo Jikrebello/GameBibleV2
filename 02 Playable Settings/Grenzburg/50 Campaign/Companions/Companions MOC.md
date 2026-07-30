@@ -119,9 +119,9 @@ Every companion except Dismas has eleven authored pieces carrying `architecture_
 | CMP-07-6 | [[The Fair Defeat]] | [[Tavio Meran]] | act-2 | Deep Winter, Early Spring | blocked |
 | CMP-07-RM | [[No Wager Between Us]] | [[Tavio Meran]] | act-2 | Late Winter, Early Spring | blocked |
 | CMP-07-BD | [[After the Last Lantern]] | [[Tavio Meran]] | act-2 | Late Winter, Early Spring | blocked |
-| CMP-07-8 | [[Measure on the March]] | [[Tavio Meran]] | act-3 | Open Thaw, Spring Reclamation | blocked |
+| CMP-07-8 | [[Meran-Style]] | [[Tavio Meran]] | act-3 | Open Thaw, Spring Reclamation | blocked |
 | CMP-07-9 | [[Horn for Leak-Day]] | [[Tavio Meran]] | act-3 | Spring Reclamation, Muster Crisis | blocked |
-| CMP-07-10 | [[The Road Takes the Measure]] | [[Tavio Meran]] | summer | Playable Summer | blocked |
+| CMP-07-10 | [[The Examiner]] | [[Tavio Meran]] | summer | Playable Summer | blocked |
 | CMP-08-1 | [[The Cord Returned]] | [[Zafir ibn Samad]] | act-1 | Early Autumn, Open Autumn | blocked |
 | CMP-08-2 | [[The Fifth Crossing]] | [[Zafir ibn Samad]] | act-1 | Open Autumn, Late Autumn | blocked |
 | CMP-08-3 | [[The Ninth Lever]] | [[Zafir ibn Samad]] | act-1 | Late Autumn, Early Winter | blocked |
@@ -232,7 +232,7 @@ Former-life figures in this list are remote world-canon references. Their inclus
 - [[Tavio Banter and Reactivity]]: pair banter, faction attitudes, regional observations, and seasonal dialogue.
 - [[Red Brass Bench]], [[Maro Vezan]], [[Seraf Pellan]], [[Proof-Mistress Hella Dorn]], and [[Lio Varcen]]: institutional and personal history with stateful continuity.
 - [[Lancewright]]: the quest-earned advanced player vocation.
-- [[The False Ring]], [[The Signed Measure]], [[Proof Under Load]], [[Games Without a Crown]], [[The Challenger's Road]], [[The Fair Defeat]], [[No Wager Between Us]], [[After the Last Lantern]], [[Measure on the March]], [[Horn for Leak-Day]], and [[The Road Takes the Measure]]: eleven production-blocked pieces, of which no more than ten can appear in one playthrough.
+- [[The False Ring]], [[The Signed Measure]], [[Proof Under Load]], [[Games Without a Crown]], [[The Challenger's Road]], [[The Fair Defeat]], [[No Wager Between Us]], [[After the Last Lantern]], [[Meran-Style]], [[Horn for Leak-Day]], and [[The Examiner]]: eleven production-blocked pieces, of which no more than ten can appear in one playthrough.
 
 Elara, Ashira, Bernard, and Zafir are fully migrated and emotionally cleared. Ilyana, Ylva, and Tavio retain complete structural campaigns but await their paired emotional migrations. Dismas remains partially linked with seven reserved pieces. No later companion's threshold or autonomous result is canonized without its planned user-guided pass.
 

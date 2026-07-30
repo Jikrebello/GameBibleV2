@@ -118,7 +118,7 @@ Each starting vocation receives eight uses outside ordinary combat effectiveness
 
 | Use | Material change | Workaround |
 |---|---|---|
-| [[Measure on the March]] | identifies an over-capacity field fitting and permits a bounded Brace without stopping the whole convoy | Warlock inspection, physical shoring, or slower equipment isolation |
+| [[Meran-Style]] | identifies an over-capacity field fitting and permits a bounded Brace without stopping the whole convoy | Warlock inspection, physical shoring, or slower equipment isolation |
 | [[The Land Reclaimed]] | reads a physical Muster carrier and distinguishes Break, Cast, and Yield risks | Warlock counter-script, archive evidence, or mechanical destruction |
 | [[Horn for Leak-Day]] | operates the mobile vent frame and calls visible overproof warnings | ordinary valves, engineer teams, and staged evacuation |
 | [[The Deep Muster Main Quest|The Deep Muster]] | disrupts one physical command carrier while preserving the retreat route | Fighter protection, Slayer access, Hunter targeting, Warlock counter-script, or Medium pattern reading |

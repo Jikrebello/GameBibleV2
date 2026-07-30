@@ -21,6 +21,9 @@ foil: "Ylva Winter-Track"
 relationship_theme: "trusted seconds who respect the halt"
 relationship_perks: ["No Wager Between Us", "Second's Word"]
 archetype: "Jock"
+archetype_secondary: "Goofball"
+archetype_blend: "Lovable Captain"
+archetype_creed: "I take performance seriously, but I refuse to let pressure make the team joyless."
 archetype_desire: "worth through embodied excellence, duty, and visible performance"
 archetype_currency: "fair victory, team trust, courage under pressure, and public standards"
 archetype_humiliation: "weakness, replacement, cowardice, or defeat that changes how the crowd sees him"
@@ -91,6 +94,15 @@ Vorthara taught Tavio that public competition can:
 
 The Crucible is larger than the Red Brass Bench. Tavio's story does not condemn Vortharan arena culture as inherently fraudulent.
 
+## Creed
+
+Tavio is a Jock carrying a Goofball's instincts — the Lovable Captain, who takes performance seriously and refuses to let pressure make the team joyless. His creed is the second half of that sentence, and his secret is the desire underneath it: **continued love after defeat or injury.**
+
+Two consequences the campaign uses:
+
+- **Under stress he jokes more, and when the jokes stop working he becomes controlling.** The festival host turns drill-sergeant in about four seconds; the register is ugly, brief, and entirely his.
+- **His humour recruits.** Bernard's jokes make room; Tavio's assign roles. Everyone at a Tavio table has a job in the bit, and refusing the bit is harder than it looks.
+
 ## The Fifth Ring
 
 Tavio knowingly used a concealed over-capacity gauntlet insert called the Fifth Ring.
@@ -98,6 +110,28 @@ Tavio knowingly used a concealed over-capacity gauntlet insert called the Fifth 
 The insert allowed his spear marks to exceed certified load. During a lawful exchange, it discharged and permanently injured rival Lancewright [[Lio Varcen]].
 
 Tavio did not strike after a yield. He did not misunderstand the ring. He knew it exceeded the agreed proof and accepted the championship after Lio was carried out.
+
+### Why
+
+Not hubris. **He was losing.**
+
+The bout cadence record — his own seconding card, the written exchange rhythm — shows Lio ahead when the discharge came. Lio had improved between meetings, which is the thing Tavio's appetite list says he loves more than winning, and at twenty-six Tavio had begun to feel the first edge of decline and had told nobody.
+
+The ring was a prosthetic against that. *"If I carried the risk and still won, I earned the right to take it"* is the story he told himself **afterward**, and it is more damning than the truth, not less: he did not cheat to prove mastery, he cheated because mastery was leaving and he could not bear to be seen finding out.
+
+The confession this buys, placed late in Act II and owed to Lio rather than to the player:
+
+> “You were better that season. I knew it in the third exchange.”
+
+### The hand
+
+The discharge marked him too.
+
+Nerve scarring across the inside of the right gauntlet hand: a fine tremor at maximum load, invisible in ordinary work and real at the top of his strength. He has concealed it for four years with technique, grip habits, and charm, and he has told no one — not Hella, not the Bench, not a physician.
+
+**It is the Bench's architecture in his own body:** a concealed over-capacity problem inside a certified housing. His private contradiction — that every body deserves fair limits and he built his identity on being the exception — is now something he can feel in a glove.
+
+The tremor is **narrative material only** and appears exactly four times across the campaign. It never becomes a stat, a debuff, or a random check; see [[Tavio Lancewright Package]].
 
 Coach Maro Vezan and proof-broker Seraf Pellan organized the Red Brass cover-up. They do not physically travel to Grenzburg during this campaign. Their role continues through equipment, records, agents, endorsements, and institutional pressure.
 
@@ -226,7 +260,7 @@ At camp Tavio:
 - remembers personal bests nobody else knew were being kept;
 - offers technique advice and learns to ask first;
 - cleans the fairground after everyone leaves;
-- polishes the Fifth Ring's empty place on his gauntlet without discussing it;
+- polishes the Fifth Ring's empty place on his gauntlet without discussing it, and re-wraps the lining under it more often than wear explains;
 - becomes visibly restless when injury places him on the side of a drill.
 
 He may be recruited and dismissed normally. He values being chosen for festivals, negotiations, and ordinary labor as well as combat.
@@ -312,8 +346,8 @@ Their foil requires:
 ## Seasonal Movement
 
 - **Autumn:** re-enters public life and confronts how his name carried unsafe trust.
-- **Winter:** faces Lio, the crowd, and the meaning of a fair defeat.
-- **Spring:** decides whether team safety can outrank the perfect save.
+- **Winter:** faces Lio on Lio's filed terms, receives Maro's letter, and discovers what the crowd does with an honest result.
+- **Spring:** watches a nineteen-year-old own his crowd in his own style on his own endorsed gear, and has to decline a fight in front of everyone.
 - **Summer:** becomes an independent road examiner, supervised tester, departed circuit champion, or broken showman according to play.
 
 He cannot die autonomously.
@@ -326,6 +360,7 @@ He cannot die autonomously.
 - [[Tavio Field Familiarity and Relationships]]
 - [[Lancewright]]
 - [[The False Ring|The Fifth Ring]]
+- [[Lio Varcen]] · [[Steffen Krall]] · [[The Red Brass Papers]]
 - [[Companion Archetype Constitution]]
 - [[Companion Archetype Chemistry Matrix]]
 - [[Companion Emotional Rewrite Audit]]

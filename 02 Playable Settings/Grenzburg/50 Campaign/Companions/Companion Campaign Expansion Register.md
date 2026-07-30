@@ -175,9 +175,9 @@ Embedded opportunities: 10 reserved. Autonomous Act I, II, and III actions are c
 | CMP-07-A2-F | Act II finale | [[The Fair Defeat]] | blocked; migrated |
 | CMP-07-RM | romance episode | [[No Wager Between Us]] | blocked; migrated |
 | CMP-07-BD | sworn-bond episode | [[After the Last Lantern]] | blocked; migrated |
-| CMP-07-A3-O | Act III operation | [[Measure on the March]] | blocked; migrated |
+| CMP-07-A3-O | Act III operation | [[Meran-Style]] | blocked; migrated |
 | CMP-07-A3-F | Act III finale | [[Horn for Leak-Day]] | blocked; migrated |
-| CMP-07-S | summer coda | [[The Road Takes the Measure]] | blocked; migrated |
+| CMP-07-S | summer coda | [[The Examiner]] | blocked; migrated |
 
 Embedded opportunities: 10 blocked through [[Tavio Companion Campaign]] and [[Tavio Banter and Reactivity]]. Act readiness is two of five; all three autonomous results and changed re-entry states are locked.
 

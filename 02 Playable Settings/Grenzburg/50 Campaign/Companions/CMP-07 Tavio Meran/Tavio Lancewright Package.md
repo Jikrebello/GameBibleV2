@@ -60,7 +60,7 @@ Final public names remain subject to the [[Vocation Originalization Register]].
 | [[The Signed Measure]] | improved mark selection and unsafe-fitting identification |
 | [[Proof Under Load]] | reliable ally loading and upgraded Brace |
 | [[The Fair Defeat]] | player [[Lancewright]] unlock and relationship duo move |
-| [[Measure on the March]] | field inspection and faster safe Yield |
+| [[Meran-Style]] | field inspection and faster safe Yield |
 | [[Horn for Leak-Day]] | **Horn Before Ruin** capstone and Road Examiner blueprint |
 
 ## Companion AI Limits
@@ -94,6 +94,18 @@ At measured direction he Yields proactively. At managed direction he sometimes w
 - **Fair Return / Second's Halt:** sworn-bond path.
 
 Both are coordination tools, not damage multipliers that excuse unsafe proof.
+
+
+## The Tremor — Design Note
+
+Tavio's right-hand nerve scarring from the Fifth Ring discharge is **narrative material only.**
+
+- It never modifies a stat, a value, a cooldown, or a failure chance.
+- It is never rolled, never random, and never a debuff or status.
+- It does not gate, weaken, or alter Yield, Break, Brace, Cast, or any mark.
+- It appears in exactly four authored beats: [[The False Ring]] (seeded), [[The Fair Defeat]] (the filing mirror), [[No Wager Between Us]] (seen, unmanaged), and [[Horn for Leak-Day]] (named at the proof gauntlet).
+
+If a later balance pass is tempted to represent it mechanically, do not. The concealment is the content.
 
 ## Navigation
 

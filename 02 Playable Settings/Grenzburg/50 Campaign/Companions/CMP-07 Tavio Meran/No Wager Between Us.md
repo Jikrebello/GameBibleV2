@@ -84,6 +84,16 @@ The pair move through three small scenes:
 
 Tavio repeatedly feels the urge to perform. The player may enjoy some showmanship, ask him to stop, or tease him without making the relationship conditional on winning.
 
+## The Hand
+
+Somewhere in the quiet part of the evening she notices it — his right hand around a cup, at rest, doing the small thing it does when he has been holding a spear all week.
+
+He does not explain, and she does not ask a question shaped like a diagnosis. He lets her see it, and takes the cup in the other hand, and that is the whole exchange: two lines at most, no structural conversation, no reveal.
+
+For a man whose listed embarrassments include *being helped to stand* and *an old injury limiting a movement*, being looked at without being managed is the intimacy. It is not a confession scene and must not become one.
+
+*(Tremor beat 3 of 4, where this episode is played.)*
+
 ## Plain Question
 
 At the river overlook, Tavio says what he wants and what he cannot promise:
@@ -117,4 +127,4 @@ Missing the episode does not end an existing commitment, but loses these upgrade
 - [[Tavio Field Familiarity and Relationships]]
 - [[The Fair Defeat]]
 - [[Horn for Leak-Day]]
-- [[The Road Takes the Measure]]
+- [[The Examiner]]

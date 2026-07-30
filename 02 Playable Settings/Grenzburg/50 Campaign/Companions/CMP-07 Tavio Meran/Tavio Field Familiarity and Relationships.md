@@ -115,6 +115,20 @@ The Act III bonuses cannot stack. Missing an exclusive episode does not end a co
 - **Spring:** whether sounding the horn is mastery or surrender.
 - **Summer:** games without title, road inspection, or a return to spectacle depending on outcome.
 
+## Spec-Pass Hooks
+
+**Approval movement added by the [[Tavio Rewrite Spec]] pass:**
+
+- filing the hand at the bout filing in [[The Fair Defeat]] rather than concealing it;
+- leaving an honest bout record alone afterward — declining the sympathetic reframe, the corrected bill, the interview;
+- refusing the sole-blame settlement after reading Maro's letter, and refusing it without contempt for the man who wrote it;
+- offering [[Steffen Krall]] the fair ladder plainly rather than as a lecture;
+- naming the hand at the proof gauntlet in [[Horn for Leak-Day]].
+
+**A player-second who learns about the tremor and stays silent** receives one line of reckoning from Hella after the bout. It is not an approval penalty; it is a note in the file.
+
+`tavio_declined_challenge` is true in every playthrough and is not an approval event. Being read as a coward by a crowd is the cost of the act, not a judgement on the player.
+
 ## Navigation
 
 - [[Tavio Companion Campaign]]
