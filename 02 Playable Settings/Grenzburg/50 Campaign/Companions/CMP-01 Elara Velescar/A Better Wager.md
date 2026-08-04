@@ -43,10 +43,15 @@ relationship_gate: "Available to every player; no attraction or commitment requi
 preparation_inputs: []
 preparation_threshold: ""
 autonomous_deadline: ""
-autonomous_resolution: "Elara runs the route alone; the friendship episode remains available later"
+autonomous_resolution: "See Companion Autonomy and Act Convergence; untracked content uses stable-colleague treatment."
 changed_reentry: "A winter version uses cleared icy roofs after an autonomous Act I finale"
 ensemble_inputs: []
 identity_hooks: []
+grounded_rewrite_status: approved
+external_stakes: ["Bridgehold rooftop race", "Old Market route safety"]
+banter_priority: optional
+player_interest_gate: none
+missed_arc_treatment: stable-colleague
 encounter_deck: []
 persistence_scope: local-persistent
 postgame_season: ""
@@ -57,7 +62,7 @@ archetype_pressure: "Belonging becomes curation: test whether Elara shares socia
 emotional_function: "Protect the uninterrupted race, delight, vanity, and mutual play"
 pleasure_beat: "Social sparkle, discovery, elegant risk, and making a temporary company feel chosen."
 care_beat: "Elara shares credit, access, attention, and protection without making gratitude the price of belonging."
-player_archetype_hooks: ["Cheerleader", "Tomboy", "Goth", "Bohemian", "Jock", "Nerd", "Rebel", "Goofball", "Grey"]
+player_archetype_hooks: []
 ---
 # A Better Wager
 

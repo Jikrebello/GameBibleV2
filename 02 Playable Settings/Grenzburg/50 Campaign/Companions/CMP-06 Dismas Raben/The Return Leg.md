@@ -1,6 +1,6 @@
 ---
 type: quest
-status: draft
+status: canon
 canon_level: local
 visibility: author-only
 era: ["Present Day"]
@@ -37,17 +37,22 @@ duo_quest: false
 pause_points: []
 relationship_gate: "Female player; dismas_relationship_commitment: romance-committed"
 autonomous_deadline: "The Deep Muster"
-autonomous_resolution: "The episode closes without relationship penalty; its upgrade and safeguard are not earned"
+autonomous_resolution: "See Companion Autonomy and Act Convergence; untracked content uses stable-colleague treatment."
 changed_reentry: "Summer dialogue acknowledges the unwalked road without replaying it"
 persistence_scope: character-persistent
+grounded_rewrite_status: approved
+external_stakes: ["Hollow Ash road survey", "Reed Landing route condition"]
+banter_priority: private
+player_interest_gate: committed-romance
+missed_arc_treatment: closes-transient-event
 emotional_rewrite_status: cleared
-dialogue_status: pending-rewrite
+dialogue_status: approved
 remote_claim_status: compliant
 archetype_pressure: "Commitment as a route chosen twice rather than a door closed once."
 emotional_function: "Let him make one promise about returning, in advance, out loud, and keep it."
 pleasure_beat: "Two days of good road, bad roadside tea, a view he has been saving, and no crisis whatsoever."
 care_beat: "He shows her every exit he has been keeping, and asks her to close none of them."
-player_archetype_hooks: ["Cheerleader", "Tomboy", "Goth", "Bohemian", "Grey"]
+player_archetype_hooks: []
 ---
 # The Return Leg
 

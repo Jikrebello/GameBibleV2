@@ -1,6 +1,6 @@
 ---
 type: quest
-status: draft
+status: canon
 canon_level: local
 visibility: author-only
 era: ["Present Day"]
@@ -33,6 +33,11 @@ story_gate: confrontation
 relationship_variant: ""
 preparation_inputs: ["dismas_fence_route_kept", "dismas_lask_repair_begun", "dismas_ravine_civilian_timing", "dismas_reversible_trap_stock", "dismas_marcher_stop_right"]
 preparation_threshold: "2 participate; 3 all material objectives; 4 one safeguard"
+grounded_rewrite_status: approved
+external_stakes: ["road users", "medicine and supplies", "public passage", "civilian withdrawal"]
+banter_priority: essential
+player_interest_gate: none
+missed_arc_treatment: changed-reentry
 encounter_deck: []
 postgame_season: ""
 estimated_hours: 1.5
@@ -43,18 +48,18 @@ companion_required: "Dismas Raben"
 duo_quest: true
 pause_points: ["Traps Placed", "Medicine Recovered"]
 autonomous_deadline: "The Last Convoy"
-autonomous_resolution: "Dismas springs the ambush on time. The medicine is recovered, the wood train takes two injuries, and he accepts the lieutenant's offer to leave the civilians out of the report."
+autonomous_resolution: "See Companion Autonomy and Act Convergence; untracked content uses stable-colleague treatment."
 changed_reentry: "A winter road-camp aftermath permits compensation and the disarming of the remaining line, but not the report's correction"
 ensemble_inputs: ["Ylva Winter-Track", "Bernard Valeon"]
 identity_hooks: ["Military", "Wilderness", "Peasant/Labour", "Underworld"]
 emotional_rewrite_status: cleared
-dialogue_status: pending-rewrite
+dialogue_status: approved
 remote_claim_status: compliant
 archetype_pressure: "A prepared hazard, mixed traffic, and an officer offering to make the cost disappear from the paper."
 emotional_function: "Put his hands on the exact machinery of 1355, and let the body remember before the man explains."
 pleasure_beat: "Reversible trapcraft, a ravine read like a page, and taking a raider band apart without killing anyone."
 care_beat: "Dismas stays in the dark afterward to disarm his own devices, uncredited, while the raiders regroup."
-player_archetype_hooks: ["Cheerleader", "Tomboy", "Goth", "Bohemian", "Jock", "Nerd", "Rebel", "Goofball", "Grey"]
+player_archetype_hooks: []
 persistence_scope: regional-milestone
 ---
 # The Easy Ambush

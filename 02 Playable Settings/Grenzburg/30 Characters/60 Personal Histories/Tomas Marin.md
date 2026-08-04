@@ -8,8 +8,7 @@ region: ["Sermora"]
 culture: ["Sermoran"]
 related_factions: ["The Salt-Reed Company"]
 appears_in: ["Grenzburg"]
-needs:
-  - replace the physical arrival and performance placeholders during the Ilyana-Dismas paired rewrite
+needs: []
 aliases: []
 tags: [narrative-rewrite]
 sex: man

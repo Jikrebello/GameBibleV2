@@ -55,6 +55,11 @@ emotional_function: ""
 pleasure_beat: ""
 care_beat: ""
 player_archetype_hooks: []
+grounded_rewrite_status: ""
+external_stakes: []
+banter_priority: contextual
+player_interest_gate: none
+missed_arc_treatment: not-applicable
 encounter_deck: []
 persistence_scope: none
 postgame_season: ""
@@ -94,6 +99,14 @@ postgame_season: ""
 ## Pleasure and Care Beats
 
 ## Player Archetype Hooks
+
+## Grounded Function
+
+### External Stakes
+
+### Professional and Ordinary-Life Use
+
+### Respect, Silence, and Relationship Boundaries
 
 ## Remote Claim Compliance
 

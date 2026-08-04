@@ -43,15 +43,21 @@ relationship_variant: ""
 preparation_inputs: []
 preparation_threshold: ""
 autonomous_deadline: "The Last Convoy"
-autonomous_resolution: "Hella secures the ring after Koss attempts to requisition it; Tavio admits only an equipment violation and begins Act I managed"
+autonomous_resolution: "See Companion Autonomy and Act Convergence; untracked content uses stable-colleague treatment."
 changed_reentry: "The Cracked Batch"
 ensemble_inputs: ["Ilyana Veshkar", "Ylva Winter-Track", "Zafir ibn Samad"]
 identity_hooks: ["Sestaran", "Vortharan", "Military", "Merchant/Craft", "Scholarly", "Warlock"]
+grounded_rewrite_status: approved
+external_stakes: ["equipment safety", "worker stop authority", "public bout integrity", "forge evacuation"]
+banter_priority: contextual
+player_interest_gate: none
+missed_arc_treatment: changed-reentry
 encounter_deck: []
 persistence_scope: regional-milestone
 postgame_season: ""
-emotional_rewrite_status: preserve
-dialogue_status: pending-rewrite
+emotional_rewrite_status: cleared
+dialogue_status: approved
+remote_claim_status: compliant
 archetype_pressure: "Competition becomes worth: test whether Tavio can stop, lose, or need help without surrendering athletic joy."
 emotional_function: "Keep the Fifth Ring, Tavio's knowledge, unsafe hardware, and public first crack in the champion story"
 pleasure_beat: "Competition, crowds, food, physical effort, ridiculous prizes, and celebrating improvement."

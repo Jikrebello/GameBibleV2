@@ -54,7 +54,7 @@ He is delighted by Tavio's attention and completely unmoved by Tavio's authority
 
 - **[[Games Without a Crown]]** — seeded. He enters the fair as a fair competitor, wins the safe spear-vault demonstration, and *glows* when Tavio praises him. Worship fully visible. The player likes him before the gear does. No hint of the pits.
 - **[[Meran-Style]]** — the Act III operation. The pit night, the needling, the refusal, the public challenge Tavio must decline, and the fair ladder he may or may not take.
-- **[[The Examiner]]** — summer. On a resolved path he is fighting filed and clean under examiner rules, and is still a little insufferable about it.
+- **[[The Road Examiner]]** — summer. On a resolved path he is fighting filed and clean under examiner rules, and is still a little insufferable about it.
 
 ## State
 
@@ -65,6 +65,6 @@ The replacement fear does not resolve by his removal. It resolves — when it re
 ## Navigation
 
 - [[Tavio Meran]] · [[Tavio Companion Campaign]] · [[Meran-Style]]
-- [[The Signed Measure]] · [[Games Without a Crown]] · [[The Examiner]]
+- [[The Signed Measure]] · [[Games Without a Crown]] · [[The Road Examiner]]
 - [[Proof-Mistress Hella Dorn]] · [[Hammer Ward]]
 - [[Tavio Rewrite Spec]]

@@ -16,10 +16,23 @@ architecture_status: migrated
 emotional_rewrite_status: cleared
 dialogue_status: approved
 remote_claim_status: compliant
+grounded_rewrite_status: approved
+external_stakes: ["dangerous execution-end", "ferry evacuation", "chainworker rescue", "siege casualty route", "Muster command relay"]
+banter_priority: contextual
+player_interest_gate: player-signaled
+missed_arc_treatment: changed-reentry
 ---
 # Zafir Companion Campaign
 
 This note controls Zafir's eleven authored pieces, ten-piece playthrough ceiling, approximately eleven playable hours, three preparation ladders, deterministic autonomy, changed re-entry, progression, and outcomes. [[Zafir ibn Samad]] controls character. [[Zafir Field Familiarity and Relationships]] controls approval and intimacy. [[Zafir Cord Jurist Package]], [[The Inverted Surety]], and [[Binder]] control play.
+
+## Grounded Campaign Identity
+
+Zafir's campaign is legal and mechanical work with human consequences. He reads petitions, moves stoves, miscalculates loads, builds useless things, and argues from convictions that remain formidable even when morally wrong. The game never frames ownership of persons as an ambiguous good arrangement.
+
+His old instruments directly centre [[The Cord Returned]], [[The Ninth Lever]], [[The Copyist's Answer]], and [[All Cords Cut Clean]]. The remaining pieces are ferry rescue, play, siege improvisation, ordinary repair, voluntary field work, and professional settlement.
+
+[[The Fifth Crossing]] includes a public confident error that injures a named deckhand after the crew follows Zafir's load claim. He must remain in the room as the responsible designer before technical correction begins. Karel's own ambition is to buy a share in a Longlake repair skiff and qualify as a refuge-bell examiner; apprenticeship is one route toward that life, not its purpose. Romance remains inactive until a female player explicitly signals interest.
 
 ## Dramatic Promise
 
@@ -141,29 +154,23 @@ Two assets permit player participation. Three make every material objective achi
 
 Tracked dockets state readiness and closures. Untracked plans remain discoverable through Zafir's cord board, Karel's charcoal plans, Chain House notices, and the Circle's keys.
 
-### Zero-participation route
+### Stable-colleague route
 
-Zafir becomes a compromised technical adviser:
+With no personal engagement, Zafir performs petition, repair, and bounded-form work under ordinary Blackjack and forge authority. He does not enter the chainworks as a personal claimant, derive his severance, form the Open-Cord Circle, or use the master override off-screen. Karel continues his own repair work and may consult Zafir without becoming dependent on an unseen moral arc.
 
-- he saves the chainworkers but retains a master stop key under external supervision;
-- he secures personal severance in winter without publishing a participant-controlled method;
-- he uses one authorized override to save the Open-Cord Circle during the Muster;
-- Karel survives, ends the apprenticeship, and becomes an independent Chapel-Folk field mechanic;
-- Zafir remains supervised rather than becoming an Open-Cord teacher.
+Zafir reaches summer formidable, useful, and unresolved. No additional supervision is imposed because the player ignored him. The execution-end, severance, authorship, and command questions return through changed re-entry when the player engages.
 
-He cannot die unseen.
+### Tracked and engaged outcomes
 
-Reciprocal direction and three assets can produce autonomous moral success with permanent material losses. Mastering direction or weak preparation worsens injury, trust, release access, and destination without inventing random death.
-
-Bernard may catch a humiliating public failure in Act I, provide a voluntary shelter network in Act II, or preserve one welcoming refuge in Act III. He cannot recognize Samira's authorship, relinquish a key, or reject the override for Zafir.
+Once tracked, reciprocal direction and preparation can produce moral success with permanent material losses. Mastering direction or a broken promise can worsen injury, trust, release access, and destination. Bernard may support shelter or public accountability but cannot recognize Samira's authorship, relinquish a key, or reject the override for Zafir.
 
 ## Changed Re-entry
 
 **The Lever After Rain:** missing Act I opens a winter machinery aftermath. The player may support injured workers, distribute late release keys, and recover one load map. The original rescue reward remains lost.
 
-**Severance Without Answer:** missing Act II opens a spring legal and technical aftermath. Zafir may achieve personal severance, but Binder, romance, bond, and finale rewards remain closed for that playthrough.
+**Severance Without Answer:** missing Act II opens a spring legal and technical aftermath around a current Chain House failure. Zafir may achieve personal severance and unlock [[Binder]] through an equivalent field proof. The time-specific romance and bond opportunity remains closed.
 
-Missing Act III fixes Zafir's supervised or broken settlement. [[The Door Opens Both Ways]] reflects it and does not reopen the command decision.
+Missing Act III fixes Zafir's supervised or broken settlement only if the player tracked him into a declared command course and then declined the finale. An untracked Zafir reaches summer as a useful, unresolved colleague. [[The Door Opens Both Ways]] reflects the relevant state without inventing reform or decline.
 
 ## Progression
 

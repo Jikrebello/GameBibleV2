@@ -23,6 +23,8 @@ properties:
     displayName: Voice
   emotional_rewrite_status:
     displayName: Emotional Rewrite
+  grounded_rewrite_status:
+    displayName: Grounded Rewrite
   dialogue_status:
     displayName: Dialogue
   archetype_pressure:
@@ -35,6 +37,14 @@ properties:
     displayName: Care Beat
   player_archetype_hooks:
     displayName: Player Archetype Hooks
+  external_stakes:
+    displayName: External Stakes
+  banter_priority:
+    displayName: Banter Priority
+  player_interest_gate:
+    displayName: Interest Gate
+  missed_arc_treatment:
+    displayName: Missed Treatment
   remote_claim_anchor:
     displayName: Remote Claim Anchor
   past_contact_mode:
@@ -98,6 +108,7 @@ views:
       - archetype
       - voice_status
       - emotional_rewrite_status
+      - grounded_rewrite_status
       - remote_claim_anchor
       - past_contact_mode
       - debt_manager
@@ -123,8 +134,13 @@ views:
       - architecture_status
       - blocking_status
       - emotional_rewrite_status
+      - grounded_rewrite_status
       - dialogue_status
       - remote_claim_status
+      - external_stakes
+      - banter_priority
+      - player_interest_gate
+      - missed_arc_treatment
       - emotional_function
     sort:
       - property: companion_id
@@ -243,6 +259,30 @@ views:
       - player_archetype_hooks
       - remote_claim_status
       - blocking_status
+    sort:
+      - property: companion_id
+        direction: ASC
+      - property: quest_sequence
+        direction: ASC
+  - type: table
+    name: Grounded Review Queue
+    filters:
+      and:
+        - 'quest_class == "companion"'
+        - 'grounded_rewrite_status != "approved"'
+    groupBy:
+      property: note.quest_owner
+      direction: ASC
+    order:
+      - companion_id
+      - quest_sequence
+      - file.name
+      - grounded_rewrite_status
+      - external_stakes
+      - banter_priority
+      - player_interest_gate
+      - missed_arc_treatment
+      - dialogue_status
     sort:
       - property: companion_id
         direction: ASC

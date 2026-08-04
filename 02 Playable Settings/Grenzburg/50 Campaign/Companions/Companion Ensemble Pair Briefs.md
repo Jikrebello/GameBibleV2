@@ -13,9 +13,9 @@ tags: [game-ready, narrative-design, companion-control]
 ---
 # Companion Ensemble Pair Briefs
 
-This register controls the ordinary dramatic engine for all twenty-eight unique companion pairs. It prevents ensemble scenes from collapsing into interchangeable agreement, habitual snark, or a symmetrical debate in which both people politely state their character arcs.
+This register is an optional post-rewrite audit bank for the twenty-eight unique companion pairs. It helps prevent ensemble scenes from collapsing into interchangeable agreement, habitual snark, or a symmetrical debate in which both people politely state their character arcs.
 
-The pair brief supplies pressure, not a mandatory conclusion. Scene writers must still give the exchange concrete business, unequal rhythms, interruptions, private jokes, and something left unresolved. [[Companion Dialogue and Scene Standard]] controls execution.
+The pair brief supplies possible pressure, not required coverage or a mandatory conclusion. A pairing needs dialogue only when shared work, place, history, or consequence gives both people a reason to speak. [[Companion Dialogue and Scene Standard]] controls execution.
 
 ## Pair Register
 
@@ -50,16 +50,16 @@ The pair brief supplies pressure, not a mandatory conclusion. Scene writers must
 | [[Dismas Raben]] and [[Tavio Meran]] | Both enjoy audacity, physical nerve, public defiance, and the pleasure of making an impossible move work. | Tavio defends rules because a fair contest matters; Dismas rejects rules because rigged contests taught him what they conceal. | They distinguish a rule that protects participants from a rule that protects prestige, then accept the cost of that distinction. |
 | [[Zafir ibn Samad]] and [[Tavio Meran]] | One explains structure, the other demonstrates it in bodies, materials, timing, and courage. | Tavio may treat expertise as support staff, while Zafir may treat Tavio's body as the unintelligent end of a model. | They become peers when either can halt the proof and both must explain the result to the workers who will use it. |
 
-## Principal Foil Arcs
+## Principal Foil Audits
 
-The four principal pairs require full autumn, winter, and spring exchange arcs:
+The four principal pairs receive an autumn, winter, and spring audit after their individual campaigns are grounded:
 
 - Elara and Ashira;
 - Ylva and Tavio;
 - Ilyana and Dismas;
 - Bernard and Zafir.
 
-Their current three-stage summaries are controlled by [[Companion Reactive Scene Register]]. Elara-Ashira and Bernard-Zafir are fully situated and dialogue-approved; the remaining pair rewrites must turn their summaries into situated exchanges across ordinary travel, main-story pressure, and one shared consequence.
+[[Companion Reactive Scene Register]] records the strongest situated exchanges. No pair is owed three conversations merely to fill a grid, and no companion campaign depends on another companion being present.
 
 ## Navigation
 

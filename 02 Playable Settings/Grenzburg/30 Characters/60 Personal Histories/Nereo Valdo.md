@@ -8,8 +8,7 @@ region: ["Sermora"]
 culture: ["Sermoran"]
 related_factions: ["The Salt-Reed Company"]
 appears_in: ["Grenzburg"]
-needs:
-  - replace the Eel Bridge physical-arrival structure during the Ilyana-Dismas paired rewrite
+needs: []
 aliases: []
 tags: [narrative-rewrite]
 sex: man
@@ -29,7 +28,7 @@ Nereo maintained bookings, wagons, lodging, wages, and instrument insurance unti
 - He wants the common road accounts separated into individual shares.
 - He believes Ilyana can change but refuses to become the person who proves it for her.
 
-Nereo remains outside the playable worldspace. His refusal, road accounts, property instructions, and any voluntary technical aid arrive through authenticated recordings, notation, correspondence, and local agents. The physical Eel Bridge version of [[No Song by Command]] is a superseded structural placeholder pending Ilyana's paired rewrite.
+Nereo remains outside the playable worldspace. His refusal, road accounts, property instructions, and any voluntary technical aid arrive through authenticated recordings, notation, correspondence, and local agents. [[No Song by Command]] now stages its refusal through a present Grenzburg signaler rather than importing Nereo.
 
 ## Navigation
 

@@ -34,6 +34,11 @@ optional_state_inputs: []
 preparation_inputs: []
 preparation_threshold: ""
 ensemble_inputs: []
+grounded_rewrite_status: approved
+external_stakes: ["company-effects custody", "private records", "secure return"]
+banter_priority: private
+player_interest_gate: committed-bond
+missed_arc_treatment: closes-transient-event
 encounter_deck: []
 postgame_season: ""
 estimated_hours: 0.5
@@ -44,7 +49,7 @@ duo_quest: false
 relationship_gate: "Trusted; female player; sworn bond committed"
 relationship_variant: bond
 autonomous_deadline: "The Deep Muster Main Quest"
-autonomous_resolution: "The sworn bond continues without the upgrade or safeguard."
+autonomous_resolution: "See Companion Autonomy and Act Convergence; untracked content uses stable-colleague treatment."
 changed_reentry: ""
 identity_hooks: ["Underworld", "Peasant/Labour", "Scholarly"]
 emotional_rewrite_status: cleared
@@ -54,7 +59,7 @@ archetype_pressure: "The bond must protect confidence without granting either wo
 emotional_function: "Establish an exceptional, wholly platonic sworn friendship through work and explicit boundaries."
 pleasure_beat: "Late-night sorting, absurd discoveries, bad tea, and a private joke over company effects."
 care_beat: "Each woman names what the other may hold, ask, repeat, and refuse."
-player_archetype_hooks: ["Cheerleader", "Tomboy", "Goth", "Bohemian", "Grey"]
+player_archetype_hooks: []
 persistence_scope: personal
 ---
 # What We Keep Closed

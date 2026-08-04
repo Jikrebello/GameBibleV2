@@ -43,10 +43,15 @@ relationship_variant: ""
 preparation_inputs: []
 preparation_threshold: ""
 autonomous_deadline: "The Last Convoy"
-autonomous_resolution: "Oda recovers a damaged wagon with reduced packs; the Act I operation asset is lost"
+autonomous_resolution: "See Companion Autonomy and Act Convergence; untracked content uses stable-colleague treatment."
 changed_reentry: "The road school proceeds with fewer supplies; the original recovery cannot be replayed"
 ensemble_inputs: ["Dismas Raben", "Ylva Winter-Track", "Ilyana Veshkar"]
 identity_hooks: []
+grounded_rewrite_status: approved
+external_stakes: ["returned property", "road-school safety", "winter shelter access", "patient survival"]
+banter_priority: contextual
+player_interest_gate: none
+missed_arc_treatment: changed-reentry
 encounter_deck: []
 persistence_scope: local-persistent
 postgame_season: ""
@@ -57,7 +62,7 @@ archetype_pressure: "Warmth becomes evasion: test whether Bernard can remain fun
 emotional_function: "Keep the school wagon and practical rescue; foreground Bernard's play, rapport with children, and fear when humor cannot solve the marsh"
 pleasure_beat: "Food, absurdity, road stories, children laughing, and companionship without ceremony."
 care_beat: "Bernard feeds, shelters, steadies, and tells the truth about what he takes or withholds."
-player_archetype_hooks: ["Cheerleader", "Tomboy", "Goth", "Bohemian", "Jock", "Nerd", "Rebel", "Goofball", "Grey"]
+player_archetype_hooks: []
 ---
 # The Wagon in the Reeds
 

@@ -1,17 +1,20 @@
 ---
 type: reference
-status: draft
-canon_level: local
+status: archived
+canon_level: obsolete
 visibility: author-only
 era: ["Present Day"]
 region: ["Grenzburg"]
 culture: ["Thalmyric", "Kedravan"]
 related_factions: ["Blackjack Corps", "Medori Bank", "Order of the Long Watch"]
 appears_in: ["Grenzburg"]
-needs:
-  - execute phases 1-6 in order, after or alongside the Elara pass
+needs: []
 tags: [narrative-design, production-control, rewrite-spec]
 aliases: ["CMP-05 Rewrite Spec"]
+archived_from: "02 Playable Settings/Grenzburg/50 Campaign/Companions"
+archived_on: 2026-08-04
+archive_reason: "rewrite specification superseded by the grounded companion campaign"
+superseded_by: "[[Bernard Companion Campaign]]"
 ---
 # Bernard Rewrite Spec
 

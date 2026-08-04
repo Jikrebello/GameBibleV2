@@ -1,6 +1,6 @@
 ---
 type: quest
-status: draft
+status: canon
 canon_level: local
 visibility: author-only
 era: ["Present Day"]
@@ -36,24 +36,29 @@ companion_required: ""
 duo_quest: false
 pause_points: []
 autonomous_deadline: ""
-autonomous_resolution: "The coda reflects the fixed Act III settlement and never changes it"
+autonomous_resolution: "See Companion Autonomy and Act Convergence; untracked content uses stable-colleague treatment."
 changed_reentry: "A departed or sacrificed Dismas appears through the network, the Lasks, and one piece of correspondence"
 persistence_scope: campaign
 postgame_season: summer
+grounded_rewrite_status: approved
+external_stakes: ["postwar guide network", "ordinary road access", "Lask household continuity"]
+banter_priority: optional
+player_interest_gate: none
+missed_arc_treatment: stable-colleague
 emotional_rewrite_status: cleared
-dialogue_status: pending-rewrite
+dialogue_status: approved
 remote_claim_status: compliant
 archetype_pressure: "Uncontained return, demonstrated by a man who has stayed and refuses to make a ceremony of it."
 emotional_function: "Show the settled outcome through a bedroll, an appointment, and a card."
 pleasure_beat: "A bad cellar door, a nine-year-old's terrible card trick, and a road that is half a day shorter than it was."
 care_beat: "He is where he said he would be, on the day, without being asked."
-player_archetype_hooks: ["Cheerleader", "Tomboy", "Goth", "Bohemian", "Jock", "Nerd", "Rebel", "Goofball", "Grey"]
+player_archetype_hooks: []
 ---
 # Passing Through Slowly
 
 ## Quest Function
 
-Dismas's summer coda. Its title is his own joke from the banter file, and it reflects the fixed Act III outcome without reopening it.
+Dismas's summer coda. Its title is his own joke from the banter file, and it reflects either a tracked Act III outcome or his stable-colleague summer life without inventing a transformation.
 
 ## Resolved — the free road protector
 

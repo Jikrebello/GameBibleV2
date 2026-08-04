@@ -36,6 +36,7 @@ debt_manager: "Claims-Factor Marco Bellandi"
 legal_debt_state_key: "bernard_legal_debt_state"
 voice_status: calibrated
 emotional_rewrite_status: bible-locked
+grounded_rewrite_status: approved
 architecture_status: migrated
 remote_claim_status: compliant
 ---
@@ -74,6 +75,16 @@ The campaign's governing rule: **the war gets bigger and the object gets smaller
 Act I's decisive object is a food portion among children. Act II's is a salve packet in a siege. Act III's is one dose with a name on it. Institutions grow around him — a school wagon, a network of four shelters, a hospice — while the thing that actually decides who he is keeps shrinking toward a single hidden item in a single pocket.
 
 His silhouette is a **spiral, not an escalation**: relapse, repair, relapse smaller.
+
+## Adult-Life Profile
+
+**Professional role.** Bernard is a heavy protector, lay hospitaller, camp cook, casualty carrier, and Long Watch-trained field knight. His humor makes difficult company bearable; it does not make him morally correct or exempt him from store rules.
+
+**Ordinary week.** He works two Yard meal shifts, one Mercy or refuge shift, one equipment drill, and regular field duty. He attends store count only with another named worker. He wants a place where anybody can receive shelter without rank, and he wants to become trustworthy enough that the place does not require his charm to operate.
+
+**Local life.** Brina values his labor and audits him. Oda lets him entertain children and stops him from borrowing clerical authority. Marcellina trusts his staying power and watches his stores. Lenka accepts useful institutions while refusing food from his hand. Love and refusal coexist without either being a verdict on his entire person.
+
+**Manners and privacy.** Bernard is deferential around ordained clergy, easy with workers, patient with children, and plain-spoken when danger strips the joke away. He offers prayer rather than assuming consent to rites. Romantic language begins only after the player signals interest. If ignored, he cooks, carries, prays, steals less reliably than he wishes, reports according to existing accountability, and remains a colleague whose deeper reckoning has not been completed for him.
 
 ## Identity
 
@@ -336,6 +347,8 @@ His campaign must include:
 ## Relationships
 
 Bernard is heterosexual. A female player may pursue romance; a male player may form the exclusive sworn bond.
+
+Neither path is inferred from hospitality, prayer, touch during rescue, or approval. Before the player chooses an explicit interest signal, Bernard does not flirt, display jealousy, or receive romance-coded party banter.
 
 Romance concerns receiving care, desire, and a shared table without converting them into debt. Sworn friendship concerns two men sharing labor, watch, truth, and the right to call one another back.
 

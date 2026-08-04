@@ -33,6 +33,11 @@ story_gate: open-world-window
 relationship_variant: ""
 preparation_inputs: []
 preparation_threshold: ""
+grounded_rewrite_status: approved
+external_stakes: ["salvage custody", "crew safety", "winter rescue capacity", "living claims"]
+banter_priority: contextual
+player_interest_gate: none
+missed_arc_treatment: changed-reentry
 encounter_deck: []
 postgame_season: ""
 estimated_hours: 1.25
@@ -44,7 +49,7 @@ companion_required: "Elara Velescar"
 duo_quest: false
 pause_points: ["Customs Inquiry Complete", "Warehouse Located"]
 autonomous_deadline: "The Last Convoy"
-autonomous_resolution: "Elara recovers part of the property with a glamorous Yard team, but Jonas remains blamed and unnamed workers disappear from the report."
+autonomous_resolution: "See Companion Autonomy and Act Convergence; untracked content uses stable-colleague treatment."
 changed_reentry: "The Scarred Mounds exposes the omitted people and missing property during winter."
 ensemble_inputs: ["Ashira bath Melan", "Bernard Valeon", "Dismas Raben", "Ilyana Veshkar", "Tavio Meran", "Zafir ibn Samad", "Ylva Winter-Track"]
 identity_hooks: ["Merchant/Craft", "Underworld", "Peasant/Labour", "Nobility", "Scholarly"]
@@ -55,7 +60,7 @@ archetype_pressure: "Elara can make the pursuit heroic; the test is whether the 
 emotional_function: "Introduce her brightness, competence, culpability, and instinct to curate one exciting public account."
 pleasure_beat: "Dockside deduction, disguises, crane traversal, and a moving-barge finish."
 care_beat: "Elara uses her visibility to clear Jonas and lets quieter witnesses own their part of the story."
-player_archetype_hooks: ["Cheerleader", "Tomboy", "Goth", "Bohemian", "Jock", "Nerd", "Rebel", "Goofball", "Grey"]
+player_archetype_hooks: []
 persistence_scope: local-persistent
 ---
 # Names Beneath Lime

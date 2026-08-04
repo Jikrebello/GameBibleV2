@@ -16,6 +16,7 @@ voice_status: calibrated
 dialogue_status: approved
 emotional_rewrite_status: cleared
 remote_claim_status: compliant
+grounded_rewrite_status: approved
 ---
 # Elara Banter and Reactivity
 
@@ -30,6 +31,7 @@ This note calibrates Elara's voice and reactive life. It does not supply final s
 - Becomes ceremonially polite under shame.
 - Starts arranging people and exits under fear.
 - Rarely asks plainly for inclusion.
+- Before an explicit player interest signal, praise, wagers, and stylish attention are not flirting and nobody frames them that way.
 
 ## Calibration Scenes
 
@@ -212,14 +214,21 @@ Their mature friendship permits criticism without audience, ornament, or correct
 - Defers to living Folk custodians only after learning that refusal is not failed hospitality.
 - Enjoys Low Lantern social craft and rejects Black Bell execution.
 
-## Temperament Use
+## Optional Temperament Hooks
 
-Use [[Companion Archetype Chemistry Matrix]] for primary dynamics.
+Grey is the controlling baseline. Use [[Companion Archetype Chemistry Matrix]] only when a variation genuinely improves a scene.
 
 - A grey player receives Elara's complete social-equal path.
 - Secondary temperament may change one joke, invitation, or objection.
 - Do not make Cheerleader players automatically popular with her.
 - Do not make Rebel players automatically more honest than her.
+
+## Chatter Discipline
+
+- **Low:** tactical calls, necessary quest information, and player-prompted conversation only.
+- **Normal:** no more than two contextual exchanges during roughly twenty minutes of uninterrupted travel.
+- **High:** no more than four, using extra work, gossip, clothing, food, ruins, and present-company material.
+- Funerals, deaths, failed rescues, stealth, confessions, and solemn discoveries impose the shared silence lock.
 
 ## Failure Modes
 
@@ -230,7 +239,7 @@ Reject any Elara line that:
 - treats femininity as camouflage for competence;
 - resolves conflict through one perfect statement about equality;
 - makes every interaction a lesson in provenance;
-- **repairs Perle.** No line, gift, apology, public correction, or late kindness restores `perle_state`. Elara may try; it may not work. Reject any writing that gives her the recovery, including a bittersweet partial one;
+- makes Perle's response a prize. Elara may apologize once and repair practical harm; Perle may remain distant or refuse without becoming a repeated forgiveness mechanism;
 - **explains Sandro,** speaks for him, or gives him a second scene. He said his piece once.
 
 ## Navigation

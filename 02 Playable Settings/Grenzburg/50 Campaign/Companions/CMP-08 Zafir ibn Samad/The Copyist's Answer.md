@@ -43,10 +43,15 @@ relationship_variant: ""
 preparation_inputs: ["zafir_unwritten_siege_route", "zafir_chain_house_damage_map", "zafir_bellandi_custody_copy", "zafir_nonconscious_release_rehearsal", "karel_field_revision_recorded"]
 preparation_threshold: "2 of 5"
 autonomous_deadline: "Ghor at the Gate"
-autonomous_resolution: "Zafir secures personal severance but preserves a supervised master method and publishes no participant-controlled release; Binder and relationships close."
+autonomous_resolution: "See Companion Autonomy and Act Convergence; untracked content uses stable-colleague treatment."
 changed_reentry: "Severance Without Answer"
 ensemble_inputs: ["Bernard Valeon", "Ilyana Veshkar", "Tavio Meran"]
 identity_hooks: ["Scholarly", "Merchant/Craft", "Mystic/Religious", "Underworld"]
+grounded_rewrite_status: approved
+external_stakes: ["petitioners and workers", "ferry safety", "casualty routes", "release mechanisms"]
+banter_priority: essential
+player_interest_gate: none
+missed_arc_treatment: changed-reentry
 encounter_deck: []
 persistence_scope: regional-milestone
 postgame_season: ""
@@ -57,7 +62,7 @@ archetype_pressure: "Samira's answer gives Zafir the limits he must obey but non
 emotional_function: "Make him earn freedom without using the former enslaved copyist as solution, audience, forgiveness, or reunion."
 pleasure_beat: "Enter a damaged anchor vault, distinguish live relations, and derive a clean severance through observable tests."
 care_beat: "Destroy useful living-person instruments and leave Samira's no-contact instruction intact."
-player_archetype_hooks: ["Cheerleader", "Tomboy", "Goth", "Bohemian", "Jock", "Nerd", "Rebel", "Goofball", "Grey"]
+player_archetype_hooks: []
 ---
 # The Copyist's Answer
 
@@ -81,7 +86,7 @@ With two Act II assets, the player attends authentication at the Iron Ledger Cou
 The docket states that missing the quest:
 
 - permits later personal severance;
-- permanently closes Binder and Zafir's relationship paths for this playthrough;
+- moves Binder to the authored spring changed-reentry and closes the time-specific relationship opportunity;
 - resolves Samira's refusal without player alteration.
 
 ## The Refusal

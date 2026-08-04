@@ -1,6 +1,6 @@
 ---
 type: quest
-status: draft
+status: canon
 canon_level: local
 visibility: author-only
 era: ["Present Day"]
@@ -33,6 +33,11 @@ story_gate: open-world-window
 relationship_variant: ""
 preparation_inputs: []
 preparation_threshold: ""
+grounded_rewrite_status: approved
+external_stakes: ["road users", "medicine and supplies", "public passage", "civilian withdrawal"]
+banter_priority: contextual
+player_interest_gate: none
+missed_arc_treatment: changed-reentry
 encounter_deck: []
 postgame_season: ""
 estimated_hours: 1.0
@@ -43,18 +48,18 @@ companion_required: "Dismas Raben"
 duo_quest: false
 pause_points: ["Route Walked"]
 autonomous_deadline: "The Last Convoy"
-autonomous_resolution: "Dismas gets the family out late and by main force; the stock is lost, the licence is pulled immediately, and the reprisal begins from a worse position."
+autonomous_resolution: "See Companion Autonomy and Act Convergence; untracked content uses stable-colleague treatment."
 changed_reentry: "The Neighbour's Bill"
 ensemble_inputs: ["Ilyana Veshkar", "Bernard Valeon", "Elara Velescar", "Ashira bath Melan"]
 identity_hooks: ["Underworld", "Peasant/Labour", "Merchant/Craft", "Drifter/Vagabond"]
 emotional_rewrite_status: cleared
-dialogue_status: pending-rewrite
+dialogue_status: approved
 remote_claim_status: compliant
 archetype_pressure: "Refusal is delightful and it works. The quest's only shadow is a neighbour at a window, and nothing names it."
 emotional_function: "Make the player love being his accomplice before the campaign charges them for it."
 pleasure_beat: "Roof routes, a bored guard, a child laughing in the wrong place, breakfast on a forbidden platform, and a fence everybody forgot was decorative."
 care_beat: "Dismas gets four people and their livelihood out of a lawful theft, for nothing, without asking to be recorded doing it."
-player_archetype_hooks: ["Cheerleader", "Tomboy", "Goth", "Bohemian", "Jock", "Nerd", "Rebel", "Goofball", "Grey"]
+player_archetype_hooks: []
 persistence_scope: district-persistent
 ---
 # The Decorative Fence

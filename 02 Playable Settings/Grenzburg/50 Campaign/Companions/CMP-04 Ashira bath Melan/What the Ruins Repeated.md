@@ -33,6 +33,11 @@ story_gate: preparation
 relationship_variant: ""
 preparation_inputs: []
 preparation_threshold: ""
+grounded_rewrite_status: approved
+external_stakes: ["nine missing Blackjacks", "winter casualty routes", "accurate notification of their households"]
+banter_priority: contextual
+player_interest_gate: none
+missed_arc_treatment: changed-reentry
 encounter_deck: []
 postgame_season: ""
 estimated_hours: 1
@@ -43,7 +48,7 @@ companion_required: "Ashira bath Melan"
 duo_quest: false
 pause_points: ["Search Grid Established", "Quarry Signal Located"]
 autonomous_deadline: "Ghor at the Gate"
-autonomous_resolution: "Ashira finds the living but publicly names one repeated death as proof."
+autonomous_resolution: "See Companion Autonomy and Act Convergence; untracked content uses stable-colleague treatment."
 changed_reentry: "After the Screen"
 ensemble_inputs: ["Elara Velescar", "Bernard Valeon", "Ilyana Veshkar", "Ylva Winter-Track"]
 identity_hooks: ["Military", "Peasant/Labour", "Scholarly", "Mystic/Religious"]
@@ -54,7 +59,7 @@ archetype_pressure: "Accuracy must serve the search without turning the dead int
 emotional_function: "Let Ashira do indispensable winter work where hope and truth pull in different directions."
 pleasure_beat: "Reading a damaged city as a layered signal puzzle and finding a living person everyone else missed."
 care_beat: "Tell families exactly what is known without manufacturing hope or exposing private death details."
-player_archetype_hooks: ["Cheerleader", "Tomboy", "Goth", "Bohemian", "Jock", "Nerd", "Rebel", "Goofball", "Grey"]
+player_archetype_hooks: []
 persistence_scope: district-persistent
 ---
 # What the Ruins Repeated
@@ -85,15 +90,19 @@ The phrase repeats from a damaged acoustic plate. It points toward a service rou
 
 ### Hammering
 
-One living worker and one corpse-residue pattern overlap beneath the Quarry Galleries. The living rhythm becomes irregular under stress; the residue does not.
+Ashira classifies the exact twelve-beat hammering as residue because it repeats without the panic variation she expects from a trapped person. Neda notices fresh metal dust beneath a speaking shaft and refuses to strike the name from the living roster.
+
+Both are partly reading the site correctly. A dead worker's residue repeats the first six blows. Living rigger **Joren Vale** has deliberately copied the remaining six because a regular cadence carries farther and costs less strength. Reaching him requires treating the overlap as a current rescue problem, not winning an argument about classification.
+
+If the party accepted Ashira's first judgement without checking the dust, Joren has a crushed foot by the time they reach him. He survives, is angry, and declines her attempt to explain the error in technical language. If rescued promptly, he asks for water and his sister's address, not an account of Medium theory.
 
 ## Emotional Beat
 
-A family asks whether the repeated woman's voice means she remained. Ashira answers:
+A family asks whether the repeated woman's voice means she remained. If they ask for Ashira's professional answer, she says:
 
 > “No. It means the wall remembers badly.”
 
-She can then stay, provide the known time and place, and let them decide whether the detail remains private. The player may support that boundary or turn the explanation into public proof of Ashira's expertise.
+She can then stay, provide the known time and place, and let them decide whether the detail remains private. She does not volunteer the explanation to prove expertise, and the player can keep the formal record narrow or publicize the phenomenon.
 
 ## Failure
 

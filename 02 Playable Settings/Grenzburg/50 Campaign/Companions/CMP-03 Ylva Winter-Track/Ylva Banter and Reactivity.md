@@ -8,14 +8,14 @@ region: ["Grenzburg"]
 culture: ["Ättar", "Grey-Wolf"]
 related_factions: ["Blackjack Corps"]
 appears_in: ["Grenzburg"]
-needs:
-  - replace quest-level dialogue during the Ylva-Tavio paired campaign pass
+needs: []
 tags: [game-ready, companion-response]
 companion_id: "CMP-03"
 archetype: "Tomboy"
 voice_status: calibrated
-dialogue_status: calibrated
-emotional_rewrite_status: bible-locked
+dialogue_status: approved
+emotional_rewrite_status: cleared
+grounded_rewrite_status: approved
 ---
 # Ylva Banter and Reactivity
 
@@ -28,6 +28,8 @@ emotional_rewrite_status: bible-locked
 - Grows quieter under anger or fear.
 - Inspects equipment when embarrassed.
 - Does not narrate sacrifice while work remains.
+- Can be curt, contemptuous, or simply wrong when she dismisses people who lack her field manner.
+- Before an explicit player interest signal, practical care is not flirtation and no party member treats it as such.
 
 ## Calibration Scenes
 
@@ -79,9 +81,11 @@ Ylva takes a companion's wet gloves, replaces them with dry ones, and stuffs the
 
 **Companion:** “You could ask.”
 
-**Ylva:** “Your hands said yes.”
+Ylva stops.
 
-Later she apologizes for the assumption without returning the wet gloves early.
+**Ylva:** “Fair.”
+
+She holds out both pairs and lets the companion choose. No lesson is discussed.
 
 ### Shame — The concealed wound
 
@@ -97,15 +101,15 @@ Ylva looks at the route ahead.
 
 The shame lies in the four minutes she stole from the team's decision.
 
-### Apology — Relief called late
+### Apology — The wrong roof
 
-Ylva replaces the route board herself.
+Ylva replaces the Dyers' Roof station card herself and brings Rika Halm a new pair of work gloves.
 
-**Ylva:** “I waited because I could still stand.”
+**Ylva:** “You said the flue would flatten the smoke. I wrote 'unlikely.'”
 
-She writes the actual injury time beside her name.
+She tears the word from her old report and puts it on the table.
 
-**Ylva:** “That was not my decision alone. I made it alone.”
+**Ylva:** “It was likely. I was wrong.”
 
 ### Quiet — Somebody else takes watch
 
@@ -156,6 +160,13 @@ Each is asked to take the heroic final position. They design a relief rotation i
 - Tomboy similarity may intensify unhealthy self-sufficiency.
 - Jock chemistry must not make every exchange a contest.
 - Goofball play remains welcome until a boundary is stated.
+
+## Chatter Discipline
+
+- **Low:** tactical calls, necessary quest information, and player-prompted conversation only.
+- **Normal:** no more than two contextual exchanges during roughly twenty minutes of uninterrupted travel.
+- **High:** no more than four, with extra material drawn from terrain, food, craft, bad weather judgement, and present company life.
+- Funerals, deaths, failed rescues, stealth, confessions, and solemn discoveries impose the shared silence lock.
 
 ## Failure Modes
 

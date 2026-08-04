@@ -43,15 +43,21 @@ relationship_variant: romance
 preparation_inputs: []
 preparation_threshold: ""
 autonomous_deadline: "The Last Marker"
-autonomous_resolution: "The private episode does not occur; commitment remains but its upgrade and safeguard are lost"
+autonomous_resolution: "See Companion Autonomy and Act Convergence; untracked content uses stable-colleague treatment."
 changed_reentry: ""
 ensemble_inputs: []
 identity_hooks: ["Ättar", "Wilderness", "Peasant/Labour"]
+grounded_rewrite_status: approved
+external_stakes: ["winter shelter preparation", "weatherproofing", "safe overnight stay"]
+banter_priority: private
+player_interest_gate: committed-romance
+missed_arc_treatment: closes-transient-event
 encounter_deck: []
 persistence_scope: permanent
 postgame_season: ""
-emotional_rewrite_status: preserve
-dialogue_status: pending-rewrite
+emotional_rewrite_status: cleared
+dialogue_status: approved
+remote_claim_status: compliant
 archetype_pressure: "Competence becomes self-erasure: test whether Ylva accepts shared agency without reading care as confinement."
 emotional_function: "Keep male-player romance, receiving care, and chosen shared shelter"
 pleasure_beat: "Field competence, open weather, friendly contest, practical food, and quiet work done well."

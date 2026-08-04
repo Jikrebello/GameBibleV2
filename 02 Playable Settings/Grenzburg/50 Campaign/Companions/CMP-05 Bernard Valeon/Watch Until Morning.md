@@ -43,10 +43,15 @@ relationship_gate: "Male player; bernard_relationship_commitment: bond-committed
 preparation_inputs: []
 preparation_threshold: ""
 autonomous_deadline: "The Deep Muster"
-autonomous_resolution: "The bond episode closes without relationship penalty; its upgrade and Second Bearer asset are not earned"
+autonomous_resolution: "See Companion Autonomy and Act Convergence; untracked content uses stable-colleague treatment."
 changed_reentry: "Summer dialogue acknowledges the unrepaired shelter without replaying the bond episode"
 ensemble_inputs: []
 identity_hooks: []
+grounded_rewrite_status: approved
+external_stakes: ["Cairnside Shelter repair", "declared stores", "overnight watch"]
+banter_priority: private
+player_interest_gate: committed-bond
+missed_arc_treatment: closes-transient-event
 encounter_deck: []
 persistence_scope: local-persistent
 postgame_season: ""
@@ -57,7 +62,7 @@ archetype_pressure: "Warmth becomes evasion: test whether Bernard can remain fun
 emotional_function: "Build male friendship into explicit sworn brotherhood through shared labor, equal correction, and a watch neither man must carry alone."
 pleasure_beat: "Roof work, an overfed stove, bad roadside tea, and the private jokes that survive a long quiet watch."
 care_beat: "Each man sleeps because the other is awake, and each has named authority to call the other back from concealment or self-sacrifice."
-player_archetype_hooks: ["Jock", "Nerd", "Rebel", "Goofball", "Grey"]
+player_archetype_hooks: []
 ---
 # Watch Until Morning
 

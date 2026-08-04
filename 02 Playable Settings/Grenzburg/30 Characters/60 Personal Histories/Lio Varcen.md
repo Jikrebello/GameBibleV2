@@ -17,7 +17,7 @@ vocation: "Lancewright"
 recruitment_window: ""
 foil: ""
 relationship_theme: ""
-past_contact_mode: remote-only
+past_contact_mode: lio-clause-exception
 ---
 # Lio Varcen
 
@@ -40,7 +40,7 @@ Lio wants:
 
 He may forgive, accept restitution without forgiveness, maintain distance, or reject further contact independently of Tavio's moral outcome.
 
-**Lio enters Grenzburg under the Lio Clause** ([[Companion Constitution#Exception: the Lio Clause]]), and he is the only remote claimant in the roster who does. He travels under his own power, for his own aims, with his own second, clerk, lodging, medical arrangements, and exit route; he is never in Tavio's custody; and he may refuse the bout, the meeting, and the reconciliation without any of it counting as a failure state.
+**Lio enters Grenzburg under the Lio Clause** ([[Companion Constitution#Past Claims and the Lio Exception]]), and he is the only remote claimant in the roster who does. He travels under his own power, for his own aims, with his own second, clerk, lodging, medical arrangements, and exit route; he is never in Tavio's custody; and he may refuse the bout, the meeting, and the reconciliation without any of it counting as a failure state.
 
 His body is not a trial staged for Tavio. His arrival exists because the wrong was relational — two men entered a contest and one of them rigged it — and the only scene that can face that at scale is a fair rematch with the actual opponent in the actual ring.
 

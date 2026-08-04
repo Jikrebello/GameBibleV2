@@ -14,7 +14,7 @@ tags: [game-ready]
 ---
 # Grenzburg Companions MOC
 
-This is the production doorway for eight outsider-debtor companions, eighty-eight authored companion pieces, and eight-to-twelve embedded opportunities per companion. A playthrough can expose no more than seventy-four formal pieces because each companion has mutually exclusive romance and sworn-bond episodes, while the global relationship rules permit one committed romance and one committed bond. [[Companion Constitution]] controls the roster and moral rules. [[Companion Debt and Remote Claims Standard]] controls past contact and legally separate debt outcomes. [[Companion Archetype Constitution]] controls the eight emotional engines. [[Companion Dialogue and Scene Standard]] controls voice and scene craft. [[Companion Ensemble Pair Briefs]] controls all twenty-eight companion pairings. [[Companion Emotional Rewrite Audit]] controls readiness. [[Player Temperament and Chemistry]] and [[Companion Archetype Chemistry Matrix]] control player chemistry. [[Companion Campaign Architecture]] controls content shape and party format. [[Companion Autonomy and Act Convergence]] controls deadlines and unassisted progression. [[Companion Campaign Expansion Register]] is the count and migration authority.
+This is the production doorway for eight outsider-debtor companions, eighty-eight authored companion pieces, and eight-to-twelve embedded opportunities per companion. A playthrough can expose no more than seventy-four formal pieces because each companion has mutually exclusive romance and sworn-bond episodes, while the global relationship rules permit one committed romance and one committed bond. [[Companion Constitution]] controls the roster and moral rules. [[Companion Grounded Writing Standard]] controls colleague life, interest gates, dialogue restraint, and missed-arc treatment. [[Companion Debt and Remote Claims Standard]] controls past contact and legally separate debt outcomes. [[Companion Archetype Constitution]] and [[Companion Ensemble Pair Briefs]] are optional authoring aids. [[Companion Dialogue and Scene Standard]] controls voice and scene craft. [[Companion Emotional Rewrite Audit]] controls readiness. [[Player Temperament and Chemistry]] and [[Companion Archetype Chemistry Matrix]] control optional player chemistry. [[Companion Campaign Architecture]] controls content shape and party format. [[Companion Autonomy and Act Convergence]] controls deadlines and unassisted progression. [[Companion Campaign Expansion Register]] is the count and migration authority.
 
 ## Roster
 
@@ -25,7 +25,7 @@ This is the production doorway for eight outsider-debtor companions, eighty-eigh
 | CMP-03 | [[Ylva Winter-Track]] | Tomboy | woman | [[Hunter]] | Open Autumn, at Southbound Muster | [[Tavio Meran]] | the right to be relieved |
 | CMP-04 | [[Ashira bath Melan]] | Goth | woman | [[Medium]] | Early Autumn | [[Elara Velescar]] | intimacy without possession |
 | CMP-05 | [[Bernard Valeon]] | Goofball | man | [[Paladin]] | Black Road | [[Zafir ibn Samad]] | receiving without taking |
-| CMP-06 | [[Dismas Raben]] | Rebel | man | [[Hunter]] pending reassessment | Black Road | [[Ilyana Veshkar]] | chosen return without captivity |
+| CMP-06 | [[Dismas Raben]] | Rebel | man | [[Hunter]], Quarry-Wise variant | Black Road | [[Ilyana Veshkar]] | chosen return without captivity |
 | CMP-07 | [[Tavio Meran]] | Jock | man | [[Lancewright]] | Early Autumn | [[Ylva Winter-Track]] | trusted seconds who respect the halt |
 | CMP-08 | [[Zafir ibn Samad]] | Nerd | man | [[Binder]] | Early Autumn | [[Bernard Valeon]] | freedom without ownership |
 
@@ -42,13 +42,13 @@ This is the production doorway for eight outsider-debtor companions, eighty-eigh
 | Summer coda | 1 | 8 |
 | **Authored pieces** | **11** | **88** |
 
-Eighty-one formal pieces now exist. Elara, Ashira, Bernard, and Zafir are emotionally cleared and dialogue-approved; Ilyana, Ylva, and Tavio have structurally complete eleven-piece campaigns awaiting later paired emotional work; Dismas retains seven reserved slots. An individual companion exposes nine non-exclusive pieces plus either the eligible romance episode or eligible bond episode, never both. See [[Companion Campaign Expansion Register]].
+All eighty-eight formal pieces now exist, are production-blocked, and have passed the grounded, emotional, dialogue, and remote-claim checks. An individual companion exposes nine non-exclusive pieces plus either the eligible romance episode or eligible bond episode, never both. See [[Companion Campaign Expansion Register]].
 
-All eighty-eight pieces have an explicit readiness or rewrite disposition. Forty-four Elara/Ashira/Bernard/Zafir pieces are implementation-ready. Later companion quests remain excluded until their paired rewrite sets `emotional_rewrite_status: cleared`, `dialogue_status: approved`, and remote-claim compliance.
+The eleven-piece symmetry is hidden from the player through varied duration, urgency, format, and presentation. Each campaign remains optional, and an ignored companion reaches summer as a stable colleague rather than an off-screen success or failure.
 
 ## Existing Source Register
 
-Every companion except Dismas has eleven authored pieces carrying `architecture_status: migrated`. Dismas retains four source quests and seven reserved slots. The Status column below records structural blocking only; emotional and remote-claim readiness live in [[Companion Emotional Rewrite Audit]], [[Companion Remote Claims Compliance Register]], and the [[Companions.base|Companion Base]].
+Every companion has eleven authored pieces carrying `architecture_status: migrated` and `blocking_status: blocked`. The Status column below records structural blocking; emotional, grounded, dialogue, and remote-claim readiness live in [[Companion Emotional Rewrite Audit]], [[Companion Remote Claims Compliance Register]], and the [[Companions.base|Companion Base]].
 
 | ID | Quest | Owner | Act | Window | Status |
 |---|---|---|---|---|---|
@@ -107,10 +107,17 @@ Every companion except Dismas has eleven authored pieces carrying `architecture_
 | CMP-05-8 | [[Beds Before Banners]] | [[Bernard Valeon]] | act-3 | Early Spring, Open Spring | blocked |
 | CMP-05-9 | [[The Open Hospice]] | [[Bernard Valeon]] | act-3 | Early Spring, Open Spring, Muster Crisis | blocked |
 | CMP-05-10 | [[Grace]] | [[Bernard Valeon]] | summer | Playable Summer | blocked |
-| CMP-06-1 | [[The Decorative Fence]] | [[Dismas Raben]] | act-1 | Early Autumn, Open Autumn | outlined |
-| CMP-06-2 | [[The Easy Ambush]] | [[Dismas Raben]] | act-1 | Open Autumn, Early Winter | outlined |
-| CMP-06-3 | [[The Name on the Charge]] | [[Dismas Raben]] | act-2 | Deep Winter, Early Spring | outlined |
-| CMP-06-4 | [[The Road That Answers]] | [[Dismas Raben]] | act-3 | Early Spring, Muster Crisis | outlined |
+| CMP-06-I | [[The Decorative Fence]] | [[Dismas Raben]] | act-1 | Early Autumn, Open Autumn | blocked |
+| CMP-06-A1-O | [[The First Mile]] | [[Dismas Raben]] | act-1 | Open Autumn | blocked |
+| CMP-06-A1-F | [[The Easy Ambush]] | [[Dismas Raben]] | act-1 | Open Autumn, Early Winter | blocked |
+| CMP-06-FR | [[No Railing]] | [[Dismas Raben]] | act-1 | Open Autumn, Early Winter | blocked |
+| CMP-06-A2-O | [[Passage]] | [[Dismas Raben]] | act-2 | Siege Winter | blocked |
+| CMP-06-A2-F | [[The Name on the Charge]] | [[Dismas Raben]] | act-2 | Deep Winter, Early Spring | blocked |
+| CMP-06-RM | [[The Return Leg]] | [[Dismas Raben]] | act-2 | Late Winter, Early Spring | blocked |
+| CMP-06-BD | [[The Missing Queen]] | [[Dismas Raben]] | act-2 | Late Winter, Early Spring | blocked |
+| CMP-06-A3-O | [[Tuesday]] | [[Dismas Raben]] | act-3 | Spring Reclamation | blocked |
+| CMP-06-A3-F | [[The Road That Answers]] | [[Dismas Raben]] | act-3 | Early Spring, Muster Crisis | blocked |
+| CMP-06-S | [[Passing Through Slowly]] | [[Dismas Raben]] | summer | Playable Summer | blocked |
 | CMP-07-1 | [[The False Ring]] | [[Tavio Meran]] | act-1 | Early Autumn, Open Autumn | blocked |
 | CMP-07-2 | [[The Signed Measure]] | [[Tavio Meran]] | act-1 | Open Autumn | blocked |
 | CMP-07-3 | [[Proof Under Load]] | [[Tavio Meran]] | act-1 | Open Autumn, Early Winter | blocked |
@@ -121,7 +128,7 @@ Every companion except Dismas has eleven authored pieces carrying `architecture_
 | CMP-07-BD | [[After the Last Lantern]] | [[Tavio Meran]] | act-2 | Late Winter, Early Spring | blocked |
 | CMP-07-8 | [[Meran-Style]] | [[Tavio Meran]] | act-3 | Open Thaw, Spring Reclamation | blocked |
 | CMP-07-9 | [[Horn for Leak-Day]] | [[Tavio Meran]] | act-3 | Spring Reclamation, Muster Crisis | blocked |
-| CMP-07-10 | [[The Examiner]] | [[Tavio Meran]] | summer | Playable Summer | blocked |
+| CMP-07-10 | [[The Road Examiner]] | [[Tavio Meran]] | summer | Playable Summer | blocked |
 | CMP-08-1 | [[The Cord Returned]] | [[Zafir ibn Samad]] | act-1 | Early Autumn, Open Autumn | blocked |
 | CMP-08-2 | [[The Fifth Crossing]] | [[Zafir ibn Samad]] | act-1 | Open Autumn, Late Autumn | blocked |
 | CMP-08-3 | [[The Ninth Lever]] | [[Zafir ibn Samad]] | act-1 | Late Autumn, Early Winter | blocked |
@@ -157,7 +164,7 @@ Every companion except Dismas has eleven authored pieces carrying `architecture_
 - [[Oda Reed-Way]]
 - [[Samira bint Nahal]]
 
-Former-life figures in this list are remote world-canon references. Their inclusion here does not authorize physical arrival.
+Former-life figures in this list are remote world-canon references. Their inclusion here does not authorize physical arrival, except for [[Lio Varcen]] under [[Companion Constitution#Past Claims and the Lio Exception|the Lio Clause]].
 
 ## Existing Deep-Blocked Packages
 
@@ -232,9 +239,19 @@ Former-life figures in this list are remote world-canon references. Their inclus
 - [[Tavio Banter and Reactivity]]: pair banter, faction attitudes, regional observations, and seasonal dialogue.
 - [[Red Brass Bench]], [[Maro Vezan]], [[Seraf Pellan]], [[Proof-Mistress Hella Dorn]], and [[Lio Varcen]]: institutional and personal history with stateful continuity.
 - [[Lancewright]]: the quest-earned advanced player vocation.
-- [[The False Ring]], [[The Signed Measure]], [[Proof Under Load]], [[Games Without a Crown]], [[The Challenger's Road]], [[The Fair Defeat]], [[No Wager Between Us]], [[After the Last Lantern]], [[Meran-Style]], [[Horn for Leak-Day]], and [[The Examiner]]: eleven production-blocked pieces, of which no more than ten can appear in one playthrough.
+- [[The False Ring]], [[The Signed Measure]], [[Proof Under Load]], [[Games Without a Crown]], [[The Challenger's Road]], [[The Fair Defeat]], [[No Wager Between Us]], [[After the Last Lantern]], [[Meran-Style]], [[Horn for Leak-Day]], and [[The Road Examiner]]: eleven production-blocked pieces, of which no more than ten can appear in one playthrough.
 
-Elara, Ashira, Bernard, and Zafir are fully migrated and emotionally cleared. Ilyana, Ylva, and Tavio retain complete structural campaigns but await their paired emotional migrations. Dismas remains partially linked with seven reserved pieces. No later companion's threshold or autonomous result is canonized without its planned user-guided pass.
+### CMP-06: Dismas Raben
+
+- [[Dismas Companion Campaign]]: controlling eleven-piece campaign, preparation, stable-colleague route, changed re-entry, progression, and outcomes.
+- [[Dismas Raben]]: controlling Korrheim character bible.
+- [[Dismas Field Familiarity and Relationships]]: approval, explicit interest, romance, sworn bond, conflict, and permanent perks.
+- [[Dismas Quarry-Wise Package]]: counter-ambush, pursuit-breaking, reversible-trap, and route-reading doctrine.
+- [[Dismas Banter and Reactivity]]: grounded voice, faction opinions, ordinary company life, and optional Ilyana incidents.
+- [[The Korrheim Rockfall]], [[Sella Etten]], [[The Lask Household]], and [[Mette Harrow]]: fixed history, remote claim, and present Grenzburg consequences.
+- [[The Decorative Fence]], [[The First Mile]], [[The Easy Ambush]], [[No Railing]], [[Passage]], [[The Name on the Charge]], [[The Return Leg]], [[The Missing Queen]], [[Tuesday]], [[The Road That Answers]], and [[Passing Through Slowly]]: eleven production-blocked pieces, of which no more than ten appear in one playthrough.
+
+All eight campaigns are fully migrated, grounded, emotionally cleared, dialogue-approved, and remote-claim compliant. Legal, relationship, personal, destination, and physical outcomes remain playthrough states rather than future-setting canon.
 
 ## Controls
 
@@ -243,6 +260,8 @@ Elara, Ashira, Bernard, and Zafir are fully migrated and emotionally cleared. Il
 - [[Companion Dialogue and Scene Standard]]
 - [[Companion Blind Dialogue Test Pair 01]]
 - [[Companion Blind Dialogue Test Pair 02]]
+- [[Companion Blind Dialogue Test Pair 03]]
+- [[Companion Blind Dialogue Test Pair 04]]
 - [[Companion Ensemble Pair Briefs]]
 - [[Companion Archetype Chemistry Matrix]]
 - [[Companion Emotional Rewrite Audit]]

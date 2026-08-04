@@ -43,10 +43,15 @@ relationship_variant: ""
 preparation_inputs: []
 preparation_threshold: ""
 autonomous_deadline: "The Deep Muster Main Quest"
-autonomous_resolution: "A supervised Circle forms with a central override and Karel leaves after the first deployment."
+autonomous_resolution: "See Companion Autonomy and Act Convergence; untracked content uses stable-colleague treatment."
 changed_reentry: "A reduced Circle remains in the finale without Shared Covenant or complete personal keys."
 ensemble_inputs: ["Bernard Valeon", "Ylva Winter-Track", "Ashira bath Melan"]
 identity_hooks: ["Military", "Peasant/Labour", "Scholarly", "Mystic/Religious"]
+grounded_rewrite_status: approved
+external_stakes: ["petitioners and workers", "ferry safety", "casualty routes", "release mechanisms"]
+banter_priority: contextual
+player_interest_gate: none
+missed_arc_treatment: changed-reentry
 encounter_deck: []
 persistence_scope: regional-persistent
 postgame_season: ""
@@ -57,7 +62,7 @@ archetype_pressure: "Volunteers may revise or abandon a deployed defence after Z
 emotional_function: "Test whether participant-controlled exit survives inconvenience, danger, and wounded pride."
 pleasure_beat: "Train a strange five-person field machine, swap roles, and watch different kinds of competence improve it."
 care_beat: "Every volunteer carries a personal release key and remains a person after accepting risk."
-player_archetype_hooks: ["Cheerleader", "Tomboy", "Goth", "Bohemian", "Jock", "Nerd", "Rebel", "Goofball", "Grey"]
+player_archetype_hooks: []
 ---
 # Every Hand May Let Go
 

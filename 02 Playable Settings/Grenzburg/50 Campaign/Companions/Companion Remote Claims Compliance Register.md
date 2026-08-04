@@ -8,8 +8,7 @@ region: ["Grenzburg"]
 culture: []
 related_factions: ["Blackjack Corps", "Medori Bank"]
 appears_in: ["Grenzburg"]
-needs:
-  - clear Ilyana, Dismas, and Tavio during their remaining paired emotional rewrites
+needs: []
 aliases: ["Remote Claims Compliance"]
 tags: [production-control, companion-control, game-ready]
 ---
@@ -21,43 +20,44 @@ This register audits the eight companion campaigns against [[Companion Debt and 
 
 | ID | Companion | Remote claim anchor | Existing physical-arrival dependency | Current disposition |
 |---|---|---|---|---|
-| CMP-01 | [[Elara Velescar]] | [[Lord Marek Vardek]] and the sixty-three household collectives | Vardek, Vasko, Daria, Kata, and Danara | compliant after paired rewrite; incidental cast archived |
-| CMP-02 | [[Ilyana Veshkar]] | [[Mirella Corsi]] and separate Salt-Reed claimants | retired physical-arrival scaffolding in six audited sources | pending Ilyana-Dismas paired migration |
+| CMP-01 | [[Elara Velescar]] | [[Lord Marek Vardek]] and the sixty-three household collectives | none; Vardek remains remote | compliant |
+| CMP-02 | [[Ilyana Veshkar]] | [[Mirella Corsi]] and separate Salt-Reed claimants | none; former performers remain remote | compliant |
 | CMP-03 | [[Ylva Winter-Track]] | White-Sled crew and Medori cargo account | none | compliant |
-| CMP-04 | [[Ashira bath Melan]] | Qesheth civil judgement and affected family collectives | Keeper Othara and a visiting delegation in the retired Act II source | compliant after paired rewrite; Othara archived |
-| CMP-05 | [[Bernard Valeon]] | Froststep compensation account and Long Watch order | Petra, Matej, and Radena remain remote | compliant after paired rewrite; local carers stage the winter finale |
-| CMP-06 | [[Dismas Raben]] | Korrheim criminal sentence and unidentified road victims | Marta in the old courtroom source | pending Ilyana-Dismas paired migration |
-| CMP-07 | [[Tavio Meran]] | [[Lio Varcen]] and Red Brass liability holders | retired Lio, Maro, and Seraf physical-presence scaffolding | pending Ylva-Tavio paired migration |
-| CMP-08 | [[Zafir ibn Samad]] | [[Samira bint Nahal]] and Iqashari law-house judgement | protected-passage source archived; Samira supplies no counter-script | compliant after paired rewrite; fixed authenticated refusal |
+| CMP-04 | [[Ashira bath Melan]] | Qesheth civil judgement and affected family collectives | none | compliant |
+| CMP-05 | [[Bernard Valeon]] | Froststep compensation account and Long Watch order | none; Petra, Matej, and Radena remain remote | compliant |
+| CMP-06 | [[Dismas Raben]] | Korrheim criminal sentence and road victims | none; Sella remains remote and unreachable | compliant |
+| CMP-07 | [[Tavio Meran]] | [[Lio Varcen]] and Red Brass liability holders | Lio enters under the sole named exception | compliant via the Lio Clause |
+| CMP-08 | [[Zafir ibn Samad]] | [[Samira bint Nahal]] and Iqashari law-house judgement | none; Samira supplies no counter-script | compliant |
 
-## Pending-Quest Rule
+## Compliance Rule
 
-The later paired passes must preserve the emotional fact represented by a remote person without physically importing them.
+Campaigns preserve the emotional fact represented by a remote person without physically importing them.
 
 - A refusal may arrive as an authenticated refusal.
 - A harmed person's needs may be carried through escrow instructions without becoming Bellandi's opinion.
 - A former colleague may submit evidence, retain property, or decline reunion from abroad.
 - A companion must demonstrate change through present Grenzburg relationships rather than performing remorse before a visiting representative.
 
-Pending notes retain their structural source value but use:
+An unsanctioned arrival must use:
 
 - `remote_claim_status: pending-migration`;
-- `emotional_rewrite_status: preserve`, `reframe`, or `replace` as already audited;
+- an unresolved emotional rewrite status;
 - `dialogue_status: pending-rewrite`;
 - no implementation-ready tag or Base inclusion.
 
-Any physical-arrival prose left inside those audited sources is superseded scaffolding rather than active campaign truth. The companion bible, remote person's dossier, and this register control until the relevant paired rewrite replaces the source completely.
+No active quest currently has an unsanctioned arrival. [[The Challenger's Road]] and [[The Fair Defeat]] use `remote_claim_status: compliant-via-lio-clause` under [[Companion Constitution#Past Claims and the Lio Exception]].
 
-## Cleared Pairs
+## Cleared Roster
 
-Elara-Ashira and Bernard-Zafir are cleared:
+All eight campaigns are cleared:
 
 - every formal quest is local to the established worldspace;
 - all remote instructions arrive through ordinary couriers and Bellandi's office;
 - neither legal release requires forgiveness;
 - neither moral outcome is decided by Medori.
-- Petra, Matej, Radena, and Samira never enter the base-game map.
+- Petra, Matej, Radena, Samira, Vardek, the Salt-Reed performers, Sella, Maro, and Seraf never enter the base-game map.
 - Samira's refusal and Petra's restitution response cannot be improved through player persuasion.
+- Lio's unique arrival gives him independent goals, protection, lodging, refusal, and exit rights and does not authorize any second exception.
 
 ## Navigation
 

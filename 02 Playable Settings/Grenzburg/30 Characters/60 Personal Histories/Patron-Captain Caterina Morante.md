@@ -8,8 +8,7 @@ region: ["Sermora"]
 culture: ["Sermoran"]
 related_factions: ["Sermoran Admiralty", "The Salt-Reed Company"]
 appears_in: ["Grenzburg"]
-needs:
-  - migrate Ilyana's remaining physical-confrontation placeholders during the Ilyana-Dismas paired rewrite
+needs: []
 aliases: ["Caterina Morante"]
 tags: [narrative-rewrite]
 sex: woman
@@ -47,16 +46,16 @@ Morante never enters the base-game worldspace. She acts through authenticated cl
 
 ## Adventure Resilience
 
-Morante may be:
+Morante's remote state may become:
 
-- exposed and arrested under Grenzburg or Sermoran process;
-- killed during justified resistance;
+- exposed and referred to Sermoran process;
+- arrested or removed from command abroad through an authored external state;
 - forced to release the claims;
 - permitted to retain a bounded property claim;
-- driven from Grenzburg;
-- or allowed to escape.
+- left in command while her Grenzburg claims fail;
+- or left at large for later use.
 
-No later Ilyana chapter requires her survival. Her factors, documents, property holders, and the former troupe's unresolved relations carry the campaign forward without plot armour.
+No Ilyana chapter stages a local physical confrontation with her. Her factors, documents, property holders, and the former troupe's unresolved relations carry the campaign forward without plot armour.
 
 ## Moral Boundary
 

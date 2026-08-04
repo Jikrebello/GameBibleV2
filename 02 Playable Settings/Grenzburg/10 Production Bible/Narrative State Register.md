@@ -23,7 +23,7 @@ Each companion ID records:
 | Field | Controlled values |
 |---|---|
 | field_availability | unavailable, offered, available, declined-repairable, refused, departed, dead |
-| campaign_tracking | undiscovered, untracked, tracked, closed |
+| campaign_tracking | undiscovered, untracked, noticed, tracked, engaged, closed |
 | campaign_stage | introduction, act-1, act-2, act-3, summer, complete |
 | architecture_status | pending-migration, migrated, reserved, current, retired |
 | approval | Guarded, Open, Trusted, Strained |
@@ -31,13 +31,16 @@ Each companion ID records:
 | preparation_inputs | named authored set for the current act chapter |
 | readiness | unprepared, viable, prepared, strongly-prepared |
 | autonomous_assignment | named current schedule or intended action |
-| autonomous_result | unresolved or a companion-specific deterministic state |
+| autonomous_result | stable-colleague, unresolved, or a companion-specific engaged-campaign state |
 | changed_reentry | unavailable, offered, active, complete, or companion-specific closed state |
 | injury_state | none or named authored injury |
 | relationship_scenes | named completed, declined, or closed scenes |
 | unresolved_conflicts | named set, never a hidden number |
 | personal_outcome | unresolved, resolved, compromised, broken, departed, sacrifice |
 | relationship | none, interest, romance-committed, bond-committed |
+| player_interest_gate | none, player-signaled, committed-romance, committed-bond |
+| missed_arc_treatment | changed-reentry, stable-colleague, closes-transient-event, not-applicable |
+| grounded_rewrite_status | pending, control-applied, recalibrated, approved |
 | relationship_perk | none or the companion's learned permanent non-slot perk |
 | duo_move | none or the committed companion's active-party move |
 | duo_finale_state | inactive, offered, staged, active, paused, complete, autonomous, transformed |
@@ -60,7 +63,7 @@ Every act finale sets `duo_finale_state` to staged before dismissing the other a
 | CMP-07 | [[Tavio Meran]] | man | [[Lancewright]] |
 | CMP-08 | [[Zafir ibn Samad]] | man | [[Binder]] |
 
-Each ID owns eleven authored content slots through [[Companion Campaign Expansion Register]]: nine non-exclusive pieces, one romance episode, and one sworn-bond episode. At most ten pieces can appear for one companion in a playthrough. Each ID also owns eight to twelve embedded opportunities, three act-specific autonomous routes, and one main-campaign contribution per act.
+Each ID owns eleven authored content slots through [[Companion Campaign Expansion Register]]: nine non-exclusive pieces, one romance episode, and one sworn-bond episode. At most ten pieces can appear for one companion in a playthrough. Untracked seasonal content follows the stable-colleague and changed-reentry rules in [[Companion Autonomy and Act Convergence]] rather than an automatic compromised route.
 
 ## Player Temperament State
 
@@ -168,13 +171,13 @@ Duplicate implementation keys across these authorities are prohibited unless one
 | `ylva_legal_debt_state` | legal debt | Ylva Winter-Track | 0-5 | [[Companion Debt and Remote Claims Standard]] |
 | `ashira_legal_debt_state` | legal debt | Ashira bath Melan | 0-5 | [[Companion Debt and Remote Claims Standard]] |
 | `bernard_legal_debt_state` | legal debt | Bernard Valeon | 0-5 | [[Companion Debt and Remote Claims Standard]] |
-| `dismas_counting_heard` | companion | Dismas Raben | 1 | [[The Easy Ambush]] |
-| `dismas_charge_filed_state` | companion milestone | Dismas Raben | 3 | [[The Name on the Charge]] — filed / sealed / paid / buried |
-| `sella_etten_response` | remote claim | Dismas Raben | 3 | [[Sella Etten]] — **fixed by the filing; unreachable, unpersuadable** |
-| `cofounder_offer_state` | companion | Dismas Raben | 3 | [[The Stonefall Papers]] — accepting maps to `gone` |
+| `dismas_counting_heard` | companion | Dismas Raben | 3 | [[The Easy Ambush]] |
+| `dismas_charge_filed_state` | companion milestone | Dismas Raben | 6 | [[The Name on the Charge]] — filed / sealed / paid / buried |
+| `sella_etten_response` | remote claim | Dismas Raben | 6 | [[Sella Etten]] — **fixed by the filing; unreachable, unpersuadable** |
+| `cofounder_offer_state` | companion | Dismas Raben | 6 | [[The Stonefall Papers]] — accepting maps to `gone` |
 | `reprisal_family_state` | local | Dismas Raben | 1 | [[The Lask Household]] |
-| `dismas_deck_state` | companion | Dismas Raben | 4 | [[Passing Through Slowly]] — complete / short |
-| `guide_network_state` | regional | Dismas Raben | 4 | [[Tuesday]] — chartered / founder-held / fractured |
+| `dismas_deck_state` | companion | Dismas Raben | 10 | [[Passing Through Slowly]] — complete / short |
+| `guide_network_state` | regional | Dismas Raben | 8 | [[Tuesday]] — chartered / founder-held / fractured |
 | `dismas_legal_debt_state` | legal debt | Dismas Raben | 0-5 | [[Companion Debt and Remote Claims Standard]] |
 | `tavio_legal_debt_state` | legal debt | Tavio Meran | 0-5 | [[Companion Debt and Remote Claims Standard]] |
 | `zafir_legal_debt_state` | legal debt | Zafir ibn Samad | 0-5 | [[Companion Debt and Remote Claims Standard]] |
@@ -322,20 +325,52 @@ Duplicate implementation keys across these authorities are prohibited unless one
 | `bernard_summer_destination` | companion | Bernard Valeon | 9 | [[The Open Hospice]] |
 | `bernard_summer_coda` | companion | Bernard Valeon | 10 | [[Grace]] |
 | `first_open_table_state` | companion | Bernard Valeon | 10 | [[Grace]] |
-| `dismas_old_crime_named` | companion | Dismas Raben | 1 | [[The Decorative Fence]] |
-| `dismas_rescue_response` | companion | Dismas Raben | 1 | [[The Decorative Fence]] |
-| `quarry_workers_state` | companion | Dismas Raben | 1 | [[The Decorative Fence]] |
-| `dismas_ambush_doctrine` | companion | Dismas Raben | 2 | [[The Easy Ambush]] |
-| `ravine_civilian_state` | companion | Dismas Raben | 2 | [[The Easy Ambush]] |
-| `winter_medicine_state` | companion | Dismas Raben | 2 | [[The Easy Ambush]] |
-| `dismas_public_charge` | companion | Dismas Raben | 3 | [[The Name on the Charge]] |
-| `dismas_relationship_commitment` | companion | Dismas Raben | 3 | [[The Name on the Charge]] |
-| `dismas_service_terms` | companion | Dismas Raben | 3 | [[The Name on the Charge]] |
-| `marta_etten_state` | companion | Dismas Raben | 3 | [[The Name on the Charge]] |
-| `dismas_arc_outcome` | companion | Dismas Raben | 4 | [[The Road That Answers]] |
-| `dismas_summer_destination` | companion | Dismas Raben | 4 | [[The Road That Answers]] |
-| `marcher_scout_service` | companion | Dismas Raben | 4 | [[The Road That Answers]] |
-| `three_horn_evacuated` | companion | Dismas Raben | 4 | [[The Road That Answers]] |
+| `dismas_introduction_complete` | companion campaign | Dismas Raben | 1 | [[The Decorative Fence]] |
+| `dismas_fence_route_kept` | companion | Dismas Raben | 1 | [[The Decorative Fence]] |
+| `lask_seizure_state` | local | Dismas Raben | 1 | [[The Decorative Fence]] |
+| `dismas_direction` | companion direction | Dismas Raben | 1-9 | [[Dismas Companion Campaign]] |
+| `dismas_lask_repair_begun` | companion | Dismas Raben | 2 | [[The First Mile]] |
+| `dismas_lask_task_kept` | companion | Dismas Raben | 2 | [[The First Mile]] |
+| `lask_licence_state` | local | Dismas Raben | 2 | [[The First Mile]] |
+| `girel_lask_state` | character | Dismas Raben | 2 | [[The First Mile]] |
+| `toll_precedent_state` | local | Dismas Raben | 2 | [[The First Mile]] |
+| `dismas_act1_chapter_resolved` | companion chapter | Dismas Raben | 3 | [[The Easy Ambush]] |
+| `dismas_act1_result` | companion | Dismas Raben | 3 | [[The Easy Ambush]] |
+| `ravine_civilian_state` | local | Dismas Raben | 3 | [[The Easy Ambush]] |
+| `winter_medicine_state` | local | Dismas Raben | 3 | [[The Easy Ambush]] |
+| `lieutenant_report_state` | evidence | Dismas Raben | 3 | [[The Easy Ambush]] |
+| `dismas_friendship_episode` | friendship | Dismas Raben | 4 | [[No Railing]] |
+| `dismas_chimney_count` | companion | Dismas Raben | 4 | [[No Railing]] |
+| `dismas_relationship_interest` | relationship | Dismas Raben | 4 | [[No Railing]] |
+| `dismas_romance_interest_signaled` | relationship | Dismas Raben | 4 | [[No Railing]] |
+| `dismas_passage_handoffs` | companion | Dismas Raben | 5 | [[Passage]] |
+| `passage_state` | local | Dismas Raben | 5 | [[Passage]] |
+| `koss_leash_result` | companion | Dismas Raben | 5 | [[Passage]] |
+| `dismas_low_lantern_terms` | companion | Dismas Raben | 5 | [[Passage]] |
+| `dismas_act2_chapter_resolved` | companion chapter | Dismas Raben | 6 | [[The Name on the Charge]] |
+| `dismas_act2_result` | companion | Dismas Raben | 6 | [[The Name on the Charge]] |
+| `dismas_act2_finale_played` | companion milestone | Dismas Raben | 6 | [[The Name on the Charge]] |
+| `dismas_relationship_commitment` | relationship | Dismas Raben | 6 | [[The Name on the Charge]] |
+| `dismas_bond_episode` | relationship | Dismas Raben | 7 | [[The Missing Queen]] |
+| `dismas_bond_move_upgrade` | relationship | Dismas Raben | 7 | [[The Missing Queen]] |
+| `dismas_missing_queen_given` | relationship | Dismas Raben | 7 | [[The Missing Queen]] |
+| `spring_cut_route_state` | regional | Dismas Raben | 7 | [[The Missing Queen]] |
+| `dismas_romance_episode` | relationship | Dismas Raben | 7 | [[The Return Leg]] |
+| `dismas_romance_move_upgrade` | relationship | Dismas Raben | 7 | [[The Return Leg]] |
+| `dismas_return_leg_practiced` | relationship | Dismas Raben | 7 | [[The Return Leg]] |
+| `return_leg_state` | regional | Dismas Raben | 7 | [[The Return Leg]] |
+| `dismas_guide_network_charter` | regional | Dismas Raben | 8 | [[Tuesday]] |
+| `dismas_local_guides_trained` | companion | Dismas Raben | 8 | [[Tuesday]] |
+| `dismas_act3_chapter_resolved` | companion chapter | Dismas Raben | 9 | [[The Road That Answers]] |
+| `dismas_act3_result` | companion | Dismas Raben | 9 | [[The Road That Answers]] |
+| `dismas_arc_outcome` | companion | Dismas Raben | 9 | [[The Road That Answers]] |
+| `dismas_sacrifice_state` | companion fate | Dismas Raben | 9 | [[The Road That Answers]] |
+| `dismas_future_path` | companion | Dismas Raben | 9 | [[The Road That Answers]] |
+| `three_horn_evacuated` | regional | Dismas Raben | 9 | [[The Road That Answers]] |
+| `dismas_relationship_perk` | relationship | Dismas Raben | 9 | [[The Road That Answers]] |
+| `dismas_summer_destination` | companion | Dismas Raben | 9 | [[The Road That Answers]] |
+| `dismas_summer_coda` | companion | Dismas Raben | 10 | [[Passing Through Slowly]] |
+| `guide_network_summer_state` | regional | Dismas Raben | 10 | [[Passing Through Slowly]] |
 | `elara_recruited` | companion gate | Elara Velescar | 0 | [[Elara Velescar]] |
 | `elara_first_outing_complete` | companion gate | Elara Velescar | 0 | [[Elara Companion Campaign]] |
 | `southwood_early_warning` | main campaign | Grenzburg Main Campaign | 1 | [[Roads Worth Saving]] |
@@ -679,9 +714,9 @@ Duplicate implementation keys across these authorities are prohibited unless one
 | `leak_horn_state` | companion | Tavio Meran | 9 | [[Horn for Leak-Day]] |
 | `tavio_summer_destination` | companion | Tavio Meran | 9-10 | [[Horn for Leak-Day]] |
 | `tavio_relationship_perk` | relationship | Tavio Meran | 9 | [[Horn for Leak-Day]] |
-| `tavio_summer_coda_complete` | companion | Tavio Meran | 10 | [[The Examiner]] |
-| `road_examiner_state` | companion | Tavio Meran | 10 | [[The Examiner]] |
-| `summer_proof_route_state` | regional | Upper Grenz | 10 | [[The Examiner]] |
+| `tavio_summer_coda_complete` | companion | Tavio Meran | 10 | [[The Road Examiner]] |
+| `road_examiner_state` | companion | Tavio Meran | 10 | [[The Road Examiner]] |
+| `summer_proof_route_state` | regional | Upper Grenz | 10 | [[The Road Examiner]] |
 | `zafir_recruited` | companion gate | Zafir ibn Samad | 0 | [[Zafir ibn Samad]] |
 | `zafir_first_outing_complete` | companion gate | Zafir ibn Samad | 0 | [[Zafir Companion Campaign]] |
 | `zafir_direction` | companion direction | Zafir ibn Samad | 0 | [[Zafir Companion Campaign]] |
@@ -904,6 +939,32 @@ Duplicate implementation keys across these authorities are prohibited unless one
 | `summer_black_bell_presence` | faction | Grenzburg Underworld | 9 | [[The Hidden Tribunal]] |
 | `summer_low_lantern_presence` | faction | Grenzburg Underworld | 9 | [[The Licensed Night]] |
 | `underworld_line_outcome` | faction | Grenzburg Underworld | 9 | [[The Hidden Tribunal]] or [[The Licensed Night]] |
+| `ilyana_road_circuit_state` | regional | Ilyana Veshkar | 2 | [[The Road Without a Conductor]] |
+| `north_road_players_state` | local | Ilyana Veshkar | 2 | [[The Road Without a Conductor]] |
+| `three_mills_signal_state` | regional | Ilyana Veshkar | 2 | [[The Road Without a Conductor]] |
+| `tessa_rill_state` | character | Ilyana Veshkar | 2-3 | [[The Road Without a Conductor]] and [[No Song by Command]] |
+| `tessa_signal_reed_state` | local | Ilyana Veshkar | 3 | [[No Song by Command]] |
+| `frozen_freight_channel_state` | regional | Ilyana Veshkar | 5 | [[Reeds Under Ice]] |
+| `ilyana_winter_signal_code` | companion | Ilyana Veshkar | 5 | [[Reeds Under Ice]] |
+| `winter_signal_crews_state` | local | Ilyana Veshkar | 5 | [[Reeds Under Ice]] |
+| `ilyana_civic_ensemble_state` | companion | Ilyana Veshkar | 6-9 | [[The Free Refrain]] and [[The Last Common Measure]] |
+| `salt_reed_refusal_honored` | remote claim | Ilyana Veshkar | 6 | [[The Free Refrain]] |
+| `blackjack_signal_case_state` | local | Ilyana Veshkar | 8 | [[Every Case Its Owner]] |
+| `hammer_signal_case_state` | local | Ilyana Veshkar | 8 | [[Every Case Its Owner]] |
+| `longlake_signal_case_state` | local | Ilyana Veshkar | 8 | [[Every Case Its Owner]] |
+| `mercy_signal_case_state` | local | Ilyana Veshkar | 8 | [[Every Case Its Owner]] |
+| `tannward_signal_case_state` | local | Ilyana Veshkar | 8 | [[Every Case Its Owner]] |
+| `ilyana_distributed_score_state` | companion | Ilyana Veshkar | 8 | [[Every Case Its Owner]] |
+| `ilyana_field_cases_state` | companion | Ilyana Veshkar | 8 | [[Every Case Its Owner]] |
+| `tannbruck_relief_convoy_state` | regional | Ashira bath Melan | 8 | [[Borrowed Faces]] |
+| `hospice_salve_allocation` | local | Bernard Valeon | 9 | [[The Open Hospice]] |
+| `lena_reed_kin_state` | character | Bernard Valeon | 9 | [[The Open Hospice]] |
+| `urra_cold_injury_state` | character | Bernard Valeon | 9 | [[The Open Hospice]] |
+| `lena_reed_kin_summer_state` | character | Bernard Valeon | 10 | [[Grace]] |
+| `urra_summer_state` | character | Bernard Valeon | 10 | [[Grace]] |
+| `tavio_romance_interest_signaled` | relationship | Tavio Meran | 4 | [[Games Without a Crown]] |
+| `aron_reed_step_state` | character | Zafir ibn Samad | 2 | [[The Fifth Crossing]] |
+| `zafir_load_error_record` | companion | Zafir ibn Samad | 2 | [[The Fifth Crossing]] |
 
 ## Navigation
 

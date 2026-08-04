@@ -16,6 +16,7 @@ companion_id: "CMP-05"
 relationship_theme: "receiving without taking"
 relationship_perks: ["Kept in the Light", "Last Watch"]
 architecture_status: migrated
+grounded_rewrite_status: approved
 ---
 # Bernard Field Familiarity and Relationships
 
@@ -64,7 +65,7 @@ He responds negatively to:
 
 [[The Long Winter Table]] opens during the winter siege. [[Embers Without Excuse]] becomes joinable when two of its five Act II assets are held. The quest itself is not relationship-gated, but commitment requires **Trusted** approval and personal completion.
 
-Commitment to [[Ghor at the Gate]] resolves the chapter autonomously. The transition docket states plainly that missing the finale permanently forfeits the player [[Paladin]] unlock, romance, sworn bond, and the finale's player rewards for that playthrough. **Embers After Snow** permits changed restitution but cannot recreate those rewards.
+Commitment to [[Ghor at the Gate]] transforms the chapter. The transition docket states plainly that missing the finale closes the time-specific romance and sworn-bond opportunity. [[Paladin]] moves to the authored **Embers After Snow** field-service test rather than being lost solely through inattention.
 
 ### Act III and Summer
 
@@ -102,7 +103,7 @@ One relationship is deliberately excluded from the conflict-and-repair system, a
 
 **[[Lenka Vrana]].** Her father was on the second sled. She takes the shelters, the network, the Yard's help, a bed, a blanket, and a carer — and never food from Bernard's hand. `lenka_state` does not move. She is approval-neutral in both directions: nothing the player does with her changes Bernard's approval, because she is not a mechanism. Do not add a repair path, a hidden threshold, or a late reconciliation.
 
-Two further consequences are fixed rather than relational, and both are flagged in [[Bernard Companion Campaign]]: the shortage in [[The Open Hospice]] is real at every preparation level, and the cold injury it causes is permanent, unwarned, and surfaces only in [[Grace]].
+The medical consequence in [[The Open Hospice]] is not a hidden relationship score. Lena and Urra's risks are named before allocation, strong preparation can protect both, and any lasting injury is recorded before summer. [[Grace]] shows that established aftermath without surprising the player.
 
 **New approval hooks from the spec pass:**
 
@@ -142,9 +143,12 @@ Commitment requires:
 
 - approval **Trusted**;
 - both earlier scenes completed without a closed refusal;
+- an explicit authored player interest signal;
 - no active major conflict;
 - the relevant global relationship slot remains available.
 - the player personally completed [[Embers Without Excuse]] before its Act II deadline.
+
+Before that signal, Bernard's warmth, prayer, feeding, and physical protectiveness are not romantic presentation. There is no flirting, jealousy, sexual teasing, or romance-coded party banter.
 
 ### Romance
 

@@ -43,10 +43,15 @@ relationship_variant: romance
 preparation_inputs: []
 preparation_threshold: ""
 autonomous_deadline: "The Open Thaw"
-autonomous_resolution: "Missing the episode preserves commitment but forfeits its upgrade and safeguard."
+autonomous_resolution: "See Companion Autonomy and Act Convergence; untracked content uses stable-colleague treatment."
 changed_reentry: ""
 ensemble_inputs: []
 identity_hooks: ["Scholarly", "Merchant/Craft", "Nobility", "Drifter/Vagabond"]
+grounded_rewrite_status: approved
+external_stakes: ["rooftop sighting instrument", "clouded observation", "safe repair"]
+banter_priority: private
+player_interest_gate: committed-romance
+missed_arc_treatment: closes-transient-event
 encounter_deck: []
 persistence_scope: personal
 postgame_season: ""
@@ -57,7 +62,7 @@ archetype_pressure: "Zafir must admit the invitation is desire rather than a dis
 emotional_function: "Let him be curious, awkward, attractive, and wanted when no problem needs solving."
 pleasure_beat: "Restore an unnecessary rooftop sighting instrument and wait for a star behind stubborn cloud."
 care_beat: "The player may decline touch, leave the instrument unfinished, or remain without producing the promised observation."
-player_archetype_hooks: ["Cheerleader", "Tomboy", "Goth", "Bohemian", "Grey"]
+player_archetype_hooks: []
 ---
 # The Ninth Star Is Late
 

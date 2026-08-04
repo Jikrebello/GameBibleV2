@@ -94,6 +94,11 @@ Every active Grenzburg quest note must carry these properties in addition to ord
 | pleasure_beat | Concrete appetite, humor, play, beauty, or ordinary enjoyment preserved inside the piece. |
 | care_beat | A specific action through which a character gives or receives care. |
 | player_archetype_hooks | Authored player-temperament reactions credited through [[Player Temperament and Chemistry]]. |
+| grounded_rewrite_status | pending, control-applied, recalibrated, or approved. Companion content must pass [[Companion Grounded Writing Standard]]. |
+| external_stakes | Concrete people, places, resources, duties, or dangers that matter beyond correcting the quest owner. |
+| banter_priority | essential, contextual, optional, private, or silent. Controlled by [[Companion Dialogue and Scene Standard]]. |
+| player_interest_gate | none, player-signaled, committed-romance, or committed-bond. Romantic subtext remains inactive at none. |
+| missed_arc_treatment | changed-reentry, stable-colleague, closes-transient-event, or not-applicable. |
 | remote_claim_status | compliant, pending-migration, or empty. Pending companion content remains outside implementation-ready views. |
 | encounter_deck | District, region, route, or seasonal systemic deck that may call the content. |
 | persistence_scope | none, personal, local-temporary, local-persistent, district-persistent, regional-persistent, regional-milestone, or campaign |

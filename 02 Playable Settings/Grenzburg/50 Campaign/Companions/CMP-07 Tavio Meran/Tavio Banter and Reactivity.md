@@ -8,25 +8,25 @@ region: ["Grenzburg"]
 culture: ["Sestaran", "Vortharan"]
 related_factions: ["Blackjack Corps"]
 appears_in: ["Grenzburg"]
-needs:
-  - replace quest-level dialogue during the Ylva-Tavio paired campaign pass
+needs: []
 tags: [game-ready, companion-response]
 companion_id: "CMP-07"
 archetype: "Jock"
 voice_status: calibrated
-dialogue_status: calibrated
-emotional_rewrite_status: bible-locked
+dialogue_status: approved
+emotional_rewrite_status: cleared
+grounded_rewrite_status: approved
 ---
 # Tavio Banter and Reactivity
 
 ## Voice Key
 
 - Converts work into shared challenge.
-- Praises publicly and corrects physically through demonstration.
+- Praises publicly and demonstrates corrections beside another person after asking; he does not reposition bodies without consent.
 - Uses bodily metaphors and inclusive imperatives.
 - Assumes effort deserves witnesses.
 - Gets louder under embarrassment and formal under shame.
-- Stops touching people when he believes he has lost the right.
+- Treats touch as practical and permission-based even before he believes he has lost the right.
 - Treats a legitimate halt as skilled action only after growth.
 
 ## Calibration Scenes
@@ -184,6 +184,14 @@ They reject competing heroic last stands and build a rotation. Their rivalry sur
 - Jock similarity creates both immediate respect and rank danger.
 - Goth contrast must not become “strange woman repairs champion's depth.”
 - Romance and bond never require the player to lose a contest deliberately.
+- Temperament variants are optional. The Grey response is written first and remains complete.
+
+## Grounded Chatter Rules
+
+- Before `tavio_romance_interest_signaled`, there is no flirting, sexual teasing, jealousy, suggestive sparring, or commentary about the player's body.
+- At Normal banter frequency, use no more than two ambient exchanges during roughly twenty minutes of uninterrupted travel. High adds contextual material rather than repeated praise.
+- Tavio does not congratulate every successful action. He speaks when he has useful technical information, a concrete joke, or an established personal reason.
+- Deaths, funerals, confessions, stealth, major failures, and solemn discoveries impose the global silence lock.
 
 ## Failure Modes
 

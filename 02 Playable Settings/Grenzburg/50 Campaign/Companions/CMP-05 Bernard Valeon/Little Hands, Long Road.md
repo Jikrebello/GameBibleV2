@@ -43,10 +43,15 @@ relationship_variant: ""
 preparation_inputs: ["bernard_road_school_wagon_recovered", "bernard_longlake_route_secured", "bernard_service_injury_claim_supported", "bernard_pikehook_snare_line_mapped", "bernard_hunger_named_early"]
 preparation_threshold: "2 of 5"
 autonomous_deadline: "The Last Convoy"
-autonomous_resolution: "Bernard escorts the school without the player; all children survive with avoidable minor injuries, the bear dies in defence, and Bernard remains uncertain"
+autonomous_resolution: "See Companion Autonomy and Act Convergence; untracked content uses stable-colleague treatment."
 changed_reentry: "The Road Afterward"
 ensemble_inputs: ["Dismas Raben", "Ylva Winter-Track"]
 identity_hooks: []
+grounded_rewrite_status: approved
+external_stakes: ["returned property", "road-school safety", "winter shelter access", "patient survival"]
+banter_priority: essential
+player_interest_gate: none
+missed_arc_treatment: changed-reentry
 encounter_deck: []
 persistence_scope: regional-milestone
 postgame_season: ""
@@ -57,7 +62,7 @@ archetype_pressure: "Warmth becomes evasion: test whether Bernard can remain fun
 emotional_function: "Keep Mika, the children, wounded bear, and Bernard's unforced heroism"
 pleasure_beat: "Food, absurdity, road stories, children laughing, and companionship without ceremony."
 care_beat: "Bernard feeds, shelters, steadies, and tells the truth about what he takes or withholds."
-player_archetype_hooks: ["Cheerleader", "Tomboy", "Goth", "Bohemian", "Jock", "Nerd", "Rebel", "Goofball", "Grey"]
+player_archetype_hooks: []
 ---
 # Little Hands, Long Road
 

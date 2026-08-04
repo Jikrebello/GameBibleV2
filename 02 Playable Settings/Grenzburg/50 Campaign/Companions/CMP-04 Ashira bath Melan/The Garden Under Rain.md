@@ -34,6 +34,11 @@ optional_state_inputs: []
 preparation_inputs: []
 preparation_threshold: ""
 ensemble_inputs: []
+grounded_rewrite_status: approved
+external_stakes: ["Rain Vault survey", "blue-glass hazards", "safe return"]
+banter_priority: private
+player_interest_gate: committed-romance
+missed_arc_treatment: closes-transient-event
 encounter_deck: []
 postgame_season: ""
 estimated_hours: 0.5
@@ -44,7 +49,7 @@ duo_quest: false
 relationship_gate: "Trusted; male player; romance committed"
 relationship_variant: romance
 autonomous_deadline: "The Deep Muster Main Quest"
-autonomous_resolution: "The committed romance continues without the upgrade or safeguard."
+autonomous_resolution: "See Companion Autonomy and Act Convergence; untracked content uses stable-colleague treatment."
 changed_reentry: ""
 identity_hooks: ["Scholarly", "Wilderness", "Mystic/Religious"]
 emotional_rewrite_status: cleared
@@ -54,7 +59,7 @@ archetype_pressure: "Ashira must permit desire to be direct rather than hiding i
 emotional_function: "Give romance a darkly beautiful experience that is not built from somebody else's pain."
 pleasure_beat: "Blue glass, rain-fed mechanisms, silver insects, and chosen private wonder."
 care_beat: "Each partner asks before touching, entering, or taking the lead."
-player_archetype_hooks: ["Jock", "Nerd", "Rebel", "Goofball", "Grey"]
+player_archetype_hooks: []
 persistence_scope: personal
 ---
 # The Garden Under Rain

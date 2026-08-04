@@ -15,7 +15,7 @@ act: act-3
 availability_window: ["Early Spring", "Open Spring", "Muster Crisis"]
 repeatability: one-shot
 cutoff_result: transforms
-world_state_outputs: ["bernard_act3_chapter_resolved", "bernard_act3_result", "bernard_act3_finale_played", "bernard_direction", "bernard_arc_outcome", "bernard_sacrifice_state", "bernard_future_path", "open_lamp_hospice_state", "paladin_capstone_unlocked", "long_watch_field_form_blueprint", "bernard_relationship_perk", "bernard_duo_move_upgrade", "bernard_owned_greatsword_name", "bernard_summer_destination"]
+world_state_outputs: ["bernard_act3_chapter_resolved", "bernard_act3_result", "bernard_act3_finale_played", "bernard_direction", "bernard_arc_outcome", "bernard_sacrifice_state", "bernard_future_path", "open_lamp_hospice_state", "paladin_capstone_unlocked", "long_watch_field_form_blueprint", "bernard_relationship_perk", "bernard_duo_move_upgrade", "bernard_owned_greatsword_name", "bernard_summer_destination", "lena_reed_kin_state", "urra_cold_injury_state", "hospice_salve_allocation"]
 reward_unlocks: ["Last Ember", "Long Watch Field Form", "Kept in the Light", "Last Watch", "Open Hand"]
 required_locations: ["Mercy Hospital", "Paupers' Cloister", "West Refuge Hall", "Outer Winter Camps", "Open Lamp Hospice"]
 blocking_status: blocked
@@ -43,10 +43,15 @@ relationship_variant: ""
 preparation_inputs: ["bernard_west_refuge_neutral_claim", "bernard_reclaimed_patient_routes", "bernard_mixed_carer_pledge", "bernard_underways_evacuation_route", "bernard_named_store_custodians"]
 preparation_threshold: "2 of 5"
 autonomous_deadline: "The Deep Muster"
-autonomous_resolution: "Brina moves Bernard's viable care service into the Blackjack infirmary under open inventory control; Open Lamp remains unrealized and Bernard remains uncertain"
+autonomous_resolution: "See Companion Autonomy and Act Convergence; untracked content uses stable-colleague treatment."
 changed_reentry: "Grace"
 ensemble_inputs: ["Ylva Winter-Track", "Ilyana Veshkar", "Zafir ibn Samad"]
 identity_hooks: []
+grounded_rewrite_status: approved
+external_stakes: ["a mixed wartime hospice", "three patient routes", "Lena and Urra's visible cold-injury risks", "civilian survival during a residue assault"]
+banter_priority: essential
+player_interest_gate: none
+missed_arc_treatment: changed-reentry
 encounter_deck: []
 persistence_scope: regional-milestone
 postgame_season: ""
@@ -57,7 +62,7 @@ archetype_pressure: "Warmth becomes evasion: test whether Bernard can remain fun
 emotional_function: "Keep witnessed stores, mixed patients, triage, destination, and warned sacrifice"
 pleasure_beat: "Food, absurdity, road stories, children laughing, and companionship without ceremony."
 care_beat: "Bernard feeds, shelters, steadies, and tells the truth about what he takes or withholds."
-player_archetype_hooks: ["Cheerleader", "Tomboy", "Goth", "Bohemian", "Jock", "Nerd", "Rebel", "Goofball", "Grey"]
+player_archetype_hooks: []
 ---
 # The Open Hospice
 
@@ -211,37 +216,45 @@ A spring convoy arrives during a brief dead-march lull. The player assigns finit
 
 No group is disposable. Triage determines location and urgency, not moral worth. Insight, Medicine-related background knowledge, and faction relationships provide clearer projections; the player always receives enough information to choose.
 
-### The Shortage — intentional, undissolvable
+### The Shortage
 
-**The wave exceeds the medicine at every preparation level.** Three assets, five assets, perfect play: the salve does not stretch to cover the cold injuries in this convoy. Preparation changes *who* bears the shortage and *how badly* — never whether somebody does.
+The convoy brings two named exposure cases and one full portion of warming salve:
 
-Do not rebalance this toward sufficiency; see [[Bernard Companion Campaign]]. A hospice that can always be supplied teaches nothing about the man who hoards.
+- **Lena Reed-Kin**, Mika's eight-year-old cousin, has fever, numb fingers, and a stable pulse. Bernard has fed her since winter and set the salve aside for her before the public count.
+- **Urra**, an eight-year-old Grobi dependent under guard, has blue fingertips, a weak grip, and rapidly falling temperature after a river crossing.
+
+Sister Hanne states the likely outcomes before anyone allocates the medicine:
+
+| Allocation | Known risk |
+|---|---|
+| full portion to Urra | Urra's hand is likely preserved; Lena needs sustained heat and observation but has the better unaided prognosis |
+| full portion to Lena | Lena stabilizes quickly; Urra has a high risk of permanent hand stiffness or tissue loss |
+| split portion | both improve, but each retains a moderate injury risk unless the heated ward and carer coverage are already secure |
+| hold the salve | both risks worsen and Bernard's concealment continues |
+
+The UI identifies these as **likely**, not certain, medical consequences. Hanne can be wrong at the margins; the causal danger is still legible.
+
+Preparation matters. With three or more assets, a repaired stove, named night carer, and open route to Mercy allow a split dose to protect both children through strong play. With fewer assets, the shortage produces a real tradeoff. No faction, vocation, or relationship is required for the best-supported route.
 
 ### The Allocation
 
-Sister Hanne calls the salve for a guarded captive's child — a Grobi dependent, eight years old, brought in under escort after separate fighting, exactly the case Bernard's own one-page admission rule was written to protect:
+Bernard's admission rule remains visible:
 
 > The wounded enter by need. Their uniform, debt, kindred, confession, and captivity determine security arrangements, not whether care is owed.
 
-There is no salve on the board, because it is in Bernard's coat, and it is for a child he loves.
+The difficulty is concrete. The only full portion is absent from the board because Bernard placed it in his coat for Lena. Mika did not ask him to do this, and Lena does not know it happened.
 
-**His love breaks his law.** That is the campaign's thesis in one object, and the quest must let the player feel the pull of it: Mika's cousin is a face, the captive's child is a case, and everyone in the room including Bernard knows which one he would choose if nobody were watching.
+Bernard may:
 
-His choice, and the outcome mapping:
+- name the reserve before Hanne calls for it;
+- disclose it when Urra's prognosis is read;
+- surrender it only after the count exposes the missing weight;
+- keep it concealed and give it privately to Lena;
+- falsify the manifest or blame a porter.
 
-- **Resolved** — he names it at the call, before discovery, and the salve goes where the rule sends it. The strongest line in his campaign is not eloquent; it is the same register as *“Open it. Write that I was afraid. Open it anyway.”*
-- **Compromised** — discovered, then owned. Real service, real care, and one more thing he only said out loud after somebody found it.
-- **Broken** — maintained, or blamed on the manifest, or justified by the fever chart he did not write.
+The player then participates in the visible medical allocation. Honest disclosure supports `truthful` even when the result is painful. Discovery followed by restitution supports `uncertain`. Continued concealment, false blame, or privileged treatment supports `withholding`.
 
-### “The child required nothing”
-
-Elara's excuse was *I did what the house required*, and the house required nothing.
-
-Bernard's is *I did what love required* — and **the child required nothing.** Mika never asked. Nobody asked. He made a person into the reason for a lie, on his own, out of love, and the naming scene must say so plainly if it is played:
-
-> “She never asked me. I want that written too.”
-
-**Mika's reaction is written, not skipped.** Being made the justification for something is its own injury: an eleven-year-old who once hid two food portions for a sibling and was handled gently about it now finds out she was the reason a stranger's child went without. She is not grateful. She does not forgive him in the scene. `mika_food_state` gains a downstream note either way.
+Mika's response occurs only if Bernard used her or her cousin as justification. She says, "I did not ask you to choose us," and leaves to sit beside Lena. She is not required to forgive, comfort, or understand him.
 
 ### The Silence After the Joke
 
@@ -290,13 +303,15 @@ No timer, failed check, hidden approval value, or ordinary combat defeat selects
 
 After the assault, Bernard performs the count before treating his own wounds. The result establishes the moral outcome.
 
-**And the count balances.** Whatever he named or concealed, whoever got the salve, the hospice's paper is straight and its people are alive, and the night reads as a success to everyone in it.
+The count names the salve allocation, the support each child actually received, and the remaining medical risk. Before the player leaves the hall, Hanne gives a plain provisional result:
 
-The cost is not in the inventory. One of the two children went without warming salve on a cold night with a fever, and cold injuries in children are slow and quiet and do not present for weeks. Nobody in this quest knows. **No warning fires, no state flags it, and no dialogue foreshadows it** — it surfaces once, months later, in [[Grace]], after judgement has closed and nothing can be done.
+- **protected:** circulation and grip have returned; continued observation remains necessary;
+- **at risk:** the hand remains stiff or numb and may not fully recover;
+- **injured:** permanent impairment is already likely and follow-up treatment is arranged.
 
-This is intentional and flagged in [[Bernard Companion Campaign]]: **do not add a warning, a save, or a repair path.** Froststep's five became five because a number was wrong in the dark; this is one, discovered the way every harm Bernard has ever done was discovered — later, by someone else, when it was already permanent.
+These states follow the disclosed allocation, preparation, route condition, and care delivered during the assault. The game does not hide the causal chain or wait until summer to reveal an unavoidable punishment.
 
-`hospice_cold_injury_child` records which child bore the shortage. It is written at the allocation and never displayed.
+`lena_reed_kin_state`, `urra_cold_injury_state`, and `hospice_salve_allocation` are displayed in the final inventory and carried into [[Grace]].
 
 ### Resolved
 

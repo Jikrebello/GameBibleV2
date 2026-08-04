@@ -22,7 +22,7 @@ relationship_theme: "a road chosen twice"
 relationship_perks: ["No Escape Route", "No Blind Turn"]
 archetype: "Rebel"
 archetype_secondary: "Goofball"
-archetype_blend: "Lovable Rogue"
+archetype_blend: "Road Rebel"
 archetype_creed: "Any system that demands my soul in exchange for belonging is suspect — and I will make you laugh while I leave."
 archetype_desire: "worth through refusal and self-direction"
 archetype_currency: "acting without permission where compromised institutions will not"
@@ -36,6 +36,7 @@ debt_manager: "Claims-Factor Marco Bellandi"
 legal_debt_state_key: "dismas_legal_debt_state"
 voice_status: calibrated
 emotional_rewrite_status: bible-locked
+grounded_rewrite_status: approved
 architecture_status: migrated
 ---
 # Dismas Raben
@@ -44,7 +45,7 @@ architecture_status: migrated
 
 Dismas knows which fence is decorative, which guard is bored, and which road law was written because one rich man lost a wagon twenty years ago.
 
-He is lean, weathered, quick to grin at the wrong official, and very good at making departure feel like courage. He opens cages, bypasses checkpoints, and gives frightened people the route nobody in authority was willing to name.
+He is lean, weathered, observant around uniforms, and very good at making departure feel like courage. He opens cages, bypasses checkpoints, and gives frightened people the route nobody in authority was willing to name.
 
 The trouble begins after the gate is open and somebody must decide who returns for the people still coming through.
 
@@ -58,9 +59,9 @@ His resolved arc does not domesticate him into obedient marcher service. He lear
 
 ## Creed
 
-Dismas is a Rebel with a Goofball's tongue — the Lovable Rogue, defiance made charming, whose named conflict is **seriousness versus evasion** and whose shadow is **charming nihilism.**
+Dismas is written from a Rebel pressure with a dry comic reflex. His named conflict is **seriousness versus evasion** and his shadow is **attractive nihilism**: the ability to make abandonment sound like hard-won clarity.
 
-The blend's payload is his precise failure surface: **the joke deployed at the moment gravity was owed.** He is never funnier than in the four seconds before he leaves, and the charm is not a mask over the flight — it *is* the flight, beginning early. His broken outcome is not "renewed fugitive"; it is a very likeable man who has decided nothing is worth staying for and can make that sound like wisdom.
+The useful pressure is precise: **the joke deployed at the moment gravity was owed.** Charm is sometimes the first motion of flight, not evidence that the room should forgive him. His broken outcome is not "renewed fugitive"; it is a competent man who has decided nothing is worth staying for and can make that sound like wisdom.
 
 ## Shape
 
@@ -76,6 +77,16 @@ The gesture-spine is **counting.**
 - He counts the network's living in spring. ([[Tuesday]].)
 
 The campaign is one man learning to finish a count.
+
+## Adult-Life Profile
+
+**Professional role.** Dismas is a counter-ambush scout, illicit-route reader, pursuit breaker, and reluctant maintenance hand. A clever exit is not automatically a just one, and his contempt for compromised authority does not prove that everyone using lawful procedure is a coward.
+
+**Ordinary week.** He takes road intelligence, checks one underways segment, keeps appointments with the Lasks when engaged, and accepts enough ordinary patrol work to remain on Brina's roster. He wants money without ownership, a bed he can leave, and a road network that does not become another man's private gate.
+
+**Local life.** Mara demands handoffs. Liese demands alternatives. Brina records him. Mette knows when legal protection is more useful than his nerve. The Lasks can enjoy him, assign him work, resent him, or refuse gratitude without becoming evidence for his reform.
+
+**Manners and privacy.** Dismas is polite to workers, formally civil to ordinary officials, insolent only when authority is predatory or has earned the risk, cautious around hospitality, and abruptly serious when somebody else will inherit his choices. He is not constantly charming and sometimes leaves a silence because he has no defensible line. Attraction begins only after the player signals it. If ignored, he remains a useful scout and occasional criminal colleague; he neither files the past nor spirals into supervised failure merely because the player chose another party.
 
 ## Identity
 

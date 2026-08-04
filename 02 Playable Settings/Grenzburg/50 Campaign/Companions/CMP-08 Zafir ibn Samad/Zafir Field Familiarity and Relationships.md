@@ -16,6 +16,7 @@ architecture_status: migrated
 emotional_rewrite_status: cleared
 dialogue_status: approved
 remote_claim_status: compliant
+grounded_rewrite_status: approved
 ---
 # Zafir Field Familiarity and Relationships
 
@@ -64,7 +65,7 @@ Distinct authored beats count:
 
 **The Route That Wasn't There** opens during the winter siege.
 
-**The Copyist's Answer** requires two of five Act II assets and closes at [[Ghor at the Gate]]. Personal completion is required for Binder and either relationship path.
+**The Copyist's Answer** requires two of five Act II assets and closes at [[Ghor at the Gate]]. Personal completion grants Binder immediately and is required for either relationship path. A changed spring field proof can grant Binder later without reopening those relationship scenes.
 
 **Every Hand May Let Go** opens in Act III.
 
@@ -76,10 +77,13 @@ Commitment requires:
 
 - Trusted approval;
 - personal completion of [[The Copyist's Answer]];
+- an explicit authored player interest signal;
 - no unresolved major violation involving slavery, coerced persons, or destruction of Samira's refusal;
 - an available global romance or bond slot.
 
 A female player may commit to romance. A male player may commit to a sworn bond. The two episodes are separate authored events and never alternate branches inside one quest.
+
+Before the explicit signal, Zafir does not flirt, display jealousy, turn intellectual attention into courtship, or receive romance-coded companion banter.
 
 Missing the eligible episode does not cancel commitment. It forfeits the move upgrade and Act III safeguard.
 
@@ -131,9 +135,9 @@ Major conflict occurs if the player:
 
 Departure requires a warned confrontation and a repair opportunity. Zafir cannot die autonomously.
 
-## Temperament
+## Optional Temperament Hooks
 
-Every player temperament receives complete writing:
+Grey is the controlling baseline. Use these only when they improve a specific exchange:
 
 - a Nerd player may share technical delight but also compete for interpretive authority;
 - a Goofball player can reveal social harm Zafir has not modeled without becoming anti-intellectual;
@@ -152,4 +156,3 @@ Temperament never gates relationship eligibility or moral resolution.
 - [[The Night of Small Repairs]]
 - [[Companion Field Familiarity and Duo Quest Standard]]
 - [[Player Temperament and Chemistry]]
-

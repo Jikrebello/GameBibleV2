@@ -16,6 +16,7 @@ voice_status: calibrated
 dialogue_status: approved
 emotional_rewrite_status: cleared
 remote_claim_status: compliant
+grounded_rewrite_status: approved
 ---
 # Ashira Banter and Reactivity
 
@@ -30,6 +31,7 @@ This note calibrates Ashira's voice and response pattern without pretending ever
 - Becomes more intimate, not louder, when angry.
 - Overexplains categories when ashamed.
 - Allows silence to remain silence.
+- Before an explicit player interest signal, private attention is not flirtation and nobody frames it that way.
 
 ## Calibration Scenes
 
@@ -49,11 +51,13 @@ She buys the broken puppet after the show.
 
 Ashira watches the window latch repeat its movement.
 
-**Ashira:** “Not a soul. Not residue. The warped frame records the wind and returns it after the gust.”
+**Ashira:** “Swollen hinge.”
 
 She opens the wall and finds the hidden pressure channel.
 
-**Ashira:** “The carpenter may still be guilty of theatre.”
+She tests it once, frowns, and corrects herself.
+
+**Ashira:** “And a speaking tube. I stopped at the first answer.”
 
 ### Embarrassment — The sweet
 
@@ -103,7 +107,7 @@ The answer ends the explanation rather than beginning another.
 
 Ashira returns a copied note and burns her transcription in front of its owner.
 
-**Ashira:** “I was accurate. I was not entitled.”
+**Ashira:** “I kept this after you said no.”
 
 She waits.
 
@@ -119,7 +123,9 @@ Ashira and the player watch rain fill the yard ruts.
 
 After several minutes:
 
-**Ashira:** “You are not required to improve this.”
+**Ashira:** “It has reached your boot.”
+
+She moves the bucket between them without looking over.
 
 Nothing else is said.
 
@@ -156,6 +162,13 @@ Ashira may provide one provenance preparation assist to Elara. Elara may provide
 - Goth players do not receive automatic intimacy; similarity can produce gatekeeping and co-rumination.
 - Goofball humor stops immediately when Ashira states a boundary.
 - Secondary temperament may alter one question or silence, never her consent.
+
+## Chatter Discipline
+
+- **Low:** tactical calls, necessary quest information, and player-prompted conversation only.
+- **Normal:** no more than two contextual exchanges during roughly twenty minutes of uninterrupted travel.
+- **High:** no more than four, using additional work, food, architecture, weather, and present-company material.
+- Funerals, deaths, failed rescues, stealth, confessions, and solemn discoveries impose the shared silence lock.
 
 ## Failure Modes
 

@@ -34,6 +34,11 @@ relationship_variant: ""
 optional_state_inputs: []
 preparation_inputs: []
 preparation_threshold: ""
+grounded_rewrite_status: approved
+external_stakes: ["summer Medium instruction", "human-roster custody", "Blackjack Yard duties"]
+banter_priority: contextual
+player_interest_gate: none
+missed_arc_treatment: not-applicable
 encounter_deck: []
 estimated_hours: 0.5
 gameplay_pillars: [conversation, reflection, consequence]
@@ -41,7 +46,7 @@ required_states: ["companion_summer_codas_unlocked"]
 companion_required: "Ashira bath Melan"
 duo_quest: false
 autonomous_deadline: ""
-autonomous_resolution: "The coda instantiates Ashira's fixed outcome."
+autonomous_resolution: "See Companion Autonomy and Act Convergence; untracked content uses stable-colleague treatment."
 changed_reentry: ""
 ensemble_inputs: ["Neda Volk", "Elara Velescar"]
 identity_hooks: []
@@ -52,7 +57,7 @@ archetype_pressure: "Demonstrate whether Ashira can remain strange and connected
 emotional_function: "Show the settled person through ordinary work rather than reopen judgement."
 pleasure_beat: "A ridiculous puppet rehearsal and elegant nonhuman shade exercise."
 care_beat: "A debtor can leave the screened practice without explanation."
-player_archetype_hooks: ["Cheerleader", "Tomboy", "Goth", "Bohemian", "Jock", "Nerd", "Rebel", "Goofball", "Grey"]
+player_archetype_hooks: []
 persistence_scope: personal
 postgame_season: summer
 ---

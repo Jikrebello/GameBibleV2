@@ -43,10 +43,15 @@ relationship_gate: "Male player; elara_relationship_commitment: romance-committe
 preparation_inputs: []
 preparation_threshold: ""
 autonomous_deadline: "The Deep Muster"
-autonomous_resolution: "The romance episode closes without relationship penalty; its upgrade and Raven Line asset are not earned"
+autonomous_resolution: "See Companion Autonomy and Act Convergence; untracked content uses stable-colleague treatment."
 changed_reentry: "Summer dialogue acknowledges the missed climb but does not replay it"
 ensemble_inputs: []
 identity_hooks: []
+grounded_rewrite_status: approved
+external_stakes: ["Raven Shelf ascent", "Highlake signal-runner rescue", "spring weather"]
+banter_priority: private
+player_interest_gate: committed-romance
+missed_arc_treatment: closes-transient-event
 encounter_deck: []
 persistence_scope: local-persistent
 postgame_season: ""
@@ -57,7 +62,7 @@ archetype_pressure: "Belonging becomes curation: test whether Elara shares socia
 emotional_function: "Keep the climb, rescue, private camp, and male-player romance"
 pleasure_beat: "Social sparkle, discovery, elegant risk, and making a temporary company feel chosen."
 care_beat: "Elara shares credit, access, attention, and protection without making gratitude the price of belonging."
-player_archetype_hooks: ["Cheerleader", "Tomboy", "Goth", "Bohemian", "Jock", "Nerd", "Rebel", "Goofball", "Grey"]
+player_archetype_hooks: []
 ---
 # Raven Shelf at Dawn
 

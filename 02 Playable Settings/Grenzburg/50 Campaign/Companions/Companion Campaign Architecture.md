@@ -8,140 +8,95 @@ region: ["Grenzburg"]
 culture: []
 related_factions: ["Blackjack Corps"]
 appears_in: ["Grenzburg"]
-needs:
-  - clear all eight campaigns through the four paired emotional rewrite passes
+needs: []
 aliases: ["Companion Personal Campaign Standard"]
+grounded_rewrite_status: approved
 tags: [game-ready]
 ---
 # Companion Campaign Architecture
 
-This note controls the formal shape, content budget, party format, preparation, relationships, and main-story presence of Grenzburg's eight companion campaigns. [[Companion Constitution]] controls the roster and moral boundaries. [[Companion Archetype Constitution]] controls their emotional engines. [[Companion Dialogue and Scene Standard]] controls voice and scene craft. [[Companion Emotional Rewrite Audit]] controls which existing pieces survive, change, or are replaced. [[Companion Autonomy and Act Convergence]] controls what happens without the player.
+This note controls the formal budget, party formats, external stakes, and player-facing concealment of Grenzburg's companion campaigns. [[Companion Grounded Writing Standard]] controls tone and adult social life.
 
 ## Narrative Role
 
-Companions are Blackjack colleagues and co-protagonists, not collectible side-quest dispensers. Grenzburg's public campaign frames their lives, while their personal campaigns provide the game's principal authored character arcs.
+Companions are Blackjack colleagues whose stories may become major campaigns through sustained player involvement. They are neither inventory nor eight compulsory co-leads. The public Grenzburg campaign remains complete regardless of personal-campaign participation.
 
-The player may participate deeply, intermittently, or not at all. A companion's life continues in every case.
-
-## Formal Budget
+## Authoring Budget
 
 | Content role | Per companion | Total |
 |---|---:|---:|
-| Introductory case | 1 | 8 |
-| Short act operation | 3 | 24 |
-| Duo act finale | 3 | 24 |
-| Friendship episode | 1 | 8 |
-| Romance episode | 1 | 8 |
-| Sworn-bond episode | 1 | 8 |
-| Summer coda | 1 | 8 |
-| **Authored pieces** | **11** | **88** |
+| introductory case | 1 | 8 |
+| act operation | 3 | 24 |
+| duo act finale | 3 | 24 |
+| friendship episode | 1 | 8 |
+| romance episode | 1 | 8 |
+| sworn-bond episode | 1 | 8 |
+| summer coda | 1 | 8 |
+| **authored pieces** | **11** | **88** |
 
-Each companion also receives 8-12 embedded opportunities inside main quests, faction work, local stories, exploration, systemic encounters, and Blackjack company life. Embedded opportunities are authored variants rather than separate quest notes unless their playable scope earns one.
+Because romance and bond variants are mutually exclusive, no more than seventy-four pieces are playable in one run.
 
-Nine pieces per companion are non-exclusive, producing seventy-two pieces across the roster. A committed companion exposes either the romance episode or the sworn-bond episode, never both. Because a playthrough permits one romance and one sworn bond across the roster, the maximum is seventy-four pieces: seventy-two non-exclusive, one romance, and one bond.
+These categories are metadata, not journal headings. Length and form vary substantially.
 
-## Existing-Quest Mapping
+## Composition Test
 
-During each companion's retrofit:
+Every companion campaign records:
 
-- existing Quest 1 becomes the introductory case;
-- existing Quest 2 becomes the Act I duo finale;
-- existing Quest 3 becomes the Act II duo finale;
-- existing Quest 4 becomes the Act III duo finale.
+- no more than four pieces centred primarily on the original wrong;
+- at least six pieces with an external objective that matters beyond personal growth;
+- at least three pieces centred on profession, pleasure, loyalty, current relationships, or ordinary life;
+- at least one public error or loss competence cannot immediately repair;
+- at least one scene where the companion's defining gift is plainly the correct answer;
+- at least one consequential refusal or unresolved disagreement;
+- a stable-colleague summer state for zero participation.
 
-Existing premises, casts, and outcomes remain valid source material until that retrofit. Their old all-duo release logic is no longer a controlling standard.
+No quest exists solely to deliver the companion's lesson.
 
-## Party Contract
+## Party Formats
 
-### Introductory Cases and Operations
+Introductions and operations require the owner but retain the ordinary player-plus-three party. Other companions may contribute only when their presence follows normal party selection.
 
-The owning companion is required, but the ordinary player-plus-three field party remains available. Other companions may contribute banter, knowledge, and combat without taking over the owner's defining scenes.
+Act finales use the player and owner as the only full party members. Temporary guides, patients, prisoners, workers, witnesses, and soldiers remain outside the companion limit. Every route works for every player vocation.
 
-### Act Finales
+Friendship and relationship episodes use private staging but need not be combat quests. Their activity must remain worthwhile without a confession.
 
-Each act finale uses the player and quest owner as the only full party members. Temporary guides, witnesses, soldiers, patients, prisoners, or rescued NPCs remain outside the companion limit.
+## Preparation
 
-### Friendship, Romance, and Bond Episodes
+Each finale may draw on three to five named preparations. Preparation can improve access, information, allies, rescue capacity, risk, or material recovery. It cannot:
 
-Friendship, romance, and sworn-bond episodes are separate one-on-one authored scenes or activities. They need not become combat missions. Romance and bond may never be two dialogue branches inside the same activity. They may include temporary NPCs where the story requires them.
+- function as hidden affection currency;
+- require one faction, vocation, romance, bond, or temperament;
+- guarantee the companion's moral choice;
+- turn every campaign into a checklist visible to the player.
 
-## Per-Act Shape
+The campaign authority records thresholds. The player-facing journal communicates concrete readiness, not asset arithmetic.
 
-Every companion has one campaign chapter in Act I, Act II, and Act III.
+## Player-Facing Rhythm
 
-Each chapter includes:
-
-- one short companion operation;
-- several embedded preparation opportunities;
-- one public main-story contribution by the companion;
-- a bespoke participation threshold;
-- one duo finale;
-- one deterministic autonomous route;
-- one changed re-entry state if the finale is missed.
-
-All eight act chapters converge at the act-ending main-story gate.
-
-## Preparation Standard
-
-An act finale offers three to five useful preparation opportunities drawn from:
-
-- the companion's short operation;
-- a main-story intersection;
-- faction or local content;
-- exploration, discovery, or personal practice.
-
-Each opportunity produces a named asset such as evidence, trust, witness support, practical readiness, route knowledge, material preparation, or practiced change.
-
-The participation threshold is bespoke. It must:
-
-- be recorded in the companion's campaign dossier and finale frontmatter;
-- be visible as a qualitative readiness state;
-- be achievable without one specific faction;
-- be achievable by every player vocation;
-- require neither romance nor sworn bond;
-- avoid demanding one prescribed moral choice.
-
-Preparation improves entry, information, allies, risk, rescue capacity, or final choices. It cannot function only as approval currency.
+- Personal pieces arise from schedules, assignments, letters, places, and current events.
+- The interface does not announce a repeated introduction-operation-finale ladder.
+- A companion may go an extended period without requesting private attention.
+- Declining or postponing a conversation carries no approval penalty.
+- Main-act contributions show professional presence without forcing the personal campaign.
+- Ambient scenes do not substitute for quests and quests do not monopolize ordinary company life.
 
 ## Relationship Layer
 
-- Every companion receives one friendship episode available to any player after the Act I finale.
-- Relationship commitment remains after the Act II finale.
-- Every companion receives one authored opposite-sex romance episode and one authored same-sex sworn-bond episode.
-- Commitment opens only the eligible episode and permanently excludes the other variant for that companion.
-- Romance and bond have distinct premises, activities, emotional language, states, and rewards with equivalent production and mechanical budgets.
-- A friend may achieve the companion's strongest moral resolution.
-- Relationship commitment grants the existing duo-move structure; the permanent non-slot perk remains tied to the resolved or compromised Act III outcome.
-- Every companion receives one summer coda. The coda reflects rather than changes the settled outcome.
+Friendship follows shared work. Romance remains dormant until an explicit player interest signal. Sworn fellowship remains a separate platonic undertaking. Commitment occurs only after sufficient shared history and the companion's required personal turning point, including a changed-reentry version where applicable.
 
-## Main-Campaign Presence
+## Seasonal Change
 
-Every companion receives at least one authored contribution to each main act whether or not they are in the active party. Contributions may be a company assignment, report, temporary battlefield role, rescue, camp duty, faction contact, autonomous operation, or visible aftermath.
+Main-story gates transform time-sensitive incidents. An untracked companion remains stable and employed. The original incident may close, but a changed version preserves the central unresolved decision and all indispensable progression paths. [[Companion Autonomy and Act Convergence]] controls this boundary.
 
-No contribution becomes a mandatory key to the critical path.
+## Production Status
 
-## Content Accounting
-
-The expanded companion budget is added on top of the existing faction, marquee, local, and job budgets. Grenzburg therefore retains a 35-45 hour critical path, supports broad play beyond 100 hours, and may exceed 200 hours for completionist play.
-
-## Migration
-
-[[Companion Campaign Expansion Register]] controls the 88 authored slots and the seventy-four-piece playthrough ceiling. [[Elara Companion Campaign]], [[Ilyana Companion Campaign]], [[Ylva Companion Campaign]], [[Ashira Companion Campaign]], [[Bernard Companion Campaign]], [[Tavio Companion Campaign]], and [[Zafir Companion Campaign]] are completed structural migrations. Dismas retains seven reserved pieces and remains the only companion with `architecture_status: pending-migration`.
-
-Architecture status does not certify emotional readiness. Eighty-one formal pieces are now linked and seven remain reserved. Elara, Ashira, Bernard, and Zafir account for forty-four emotionally cleared and dialogue-approved pieces. Ilyana, Ylva, and Tavio remain outside implementation-ready views until their paired passes clear emotional, dialogue, and remote-claim status; Dismas remains reserved.
+All eighty-eight authored slots are linked. Structural completion does not certify grounded dialogue. [[Companion Campaign Expansion Register]] controls counts; [[Companion Emotional Rewrite Audit]] controls grounded readiness.
 
 ## Navigation
 
+- [[Companion Grounded Writing Standard]]
 - [[Companion Constitution]]
-- [[Companion Archetype Constitution]]
-- [[Companion Dialogue and Scene Standard]]
-- [[Companion Emotional Rewrite Audit]]
 - [[Companion Autonomy and Act Convergence]]
 - [[Companion Field Familiarity and Duo Quest Standard]]
 - [[Companion Campaign Expansion Register]]
-- [[Companion Reactive Scene Register]]
-- [[Elara Companion Campaign]]
-- [[Bernard Companion Campaign]]
-- [[Zafir Companion Campaign]]
 - [[Companions MOC]]
-- [[Grenzburg RPG Experience Constitution]]

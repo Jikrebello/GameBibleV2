@@ -43,15 +43,21 @@ relationship_variant: ""
 preparation_inputs: ["ylva_tannbruck_scout_post_restored", "ylva_fenn_lantern_fuel", "ylva_last_hearth_relief_roster", "ylva_white_mud_extraction_line"]
 preparation_threshold: ""
 autonomous_deadline: "The Deep Muster Main Quest"
-autonomous_resolution: "Ylva maps the routes but keeps the master copy and final authority herself"
+autonomous_resolution: "See Companion Autonomy and Act Convergence; untracked content uses stable-colleague treatment."
 changed_reentry: "The Road She Chooses reflects the incomplete shared atlas"
 ensemble_inputs: ["Elara Velescar", "Zafir ibn Samad", "Dismas Raben"]
 identity_hooks: ["Ättar", "Folk", "Military", "Wilderness", "Scholarly", "Peasant/Labour", "Hunter"]
+grounded_rewrite_status: approved
+external_stakes: ["three independent evacuation crews", "duplicated spring stores", "civilian routes ahead of the dead march"]
+banter_priority: contextual
+player_interest_gate: none
+missed_arc_treatment: changed-reentry
 encounter_deck: ["Muster route interference", "spring flood", "abandoned military stores"]
 persistence_scope: regional-milestone
 postgame_season: ""
-emotional_rewrite_status: reframe
-dialogue_status: pending-rewrite
+emotional_rewrite_status: cleared
+dialogue_status: approved
+remote_claim_status: compliant
 archetype_pressure: "Competence becomes self-erasure: test whether Ylva accepts shared agency without reading care as confinement."
 emotional_function: "Make this a delegation and training operation rather than a third mapping exercise"
 pleasure_beat: "Field competence, open weather, friendly contest, practical food, and quiet work done well."
@@ -72,6 +78,8 @@ Ylva proposes one corrected atlas carried by herself.
 
 Brina points out the obvious danger: if Ylva is captured, injured, or wrong, all three fronts inherit the same failure.
 
+The job is therefore commissioned as a certification run, not a mapping expedition. Three existing crews must demonstrate that they can read changing ground, challenge the written route, relieve a lead, and withdraw without Ylva.
+
 ## The Three Corridors
 
 The party may address the corridors in any order.
@@ -87,6 +95,8 @@ Tasks include:
 - moving stores from a single exposed depot into two smaller caches;
 - training a ducal and civilian pair to verify one another's route report.
 
+The pair disagree over a flooded cart cut. Ylva's faster route is technically passable but impossible for the civilian's broad litter. Certification requires a route the assigned crew can actually carry, not the most impressive line Ylva can cross.
+
 ### Tuskway
 
 Mark a high route around the Banner Vault's influence without publishing Ghost-Foot paths or sacred approaches.
@@ -101,6 +111,8 @@ Tasks include:
 
 No universal Folk authority is implied. The route exists only through the consent of its particular holders.
 
+The local holder may refuse to explain a protected turn to Ylva and instead certify the outside runner only as far as the public fork. This is a complete route handoff, not missing information the player is expected to extract.
+
 ### Frostfenn
 
 Connect Fenn Lantern, White Mud Causeway, and Last Hearth through duplicated fuel and line stores.
@@ -112,6 +124,8 @@ Tasks include:
 - recover lamp caps without following the dead road south;
 - establish a relief roster with explicit change times;
 - mark an extraction point north of the causeway.
+
+The Fenn crew's lead asks to be relieved halfway through the trial after a fever chill begins. Ylva initially marks the change as a failed run. The crew argues that using the relief system correctly is the very skill being tested.
 
 ## Muster Interference
 
@@ -129,7 +143,7 @@ Every vocation can contribute:
 - Medium uses non-conscious imprints against non-conscious formations without claiming souls;
 - advanced vocations provide bounded alternatives.
 
-## The Atlas
+## The Crew Books
 
 The completed work has four layers:
 
@@ -146,7 +160,7 @@ The player decides how copies are distributed. A valid living-route atlas requir
 - one Blackjack or civic duplicate;
 - no theft of protected local knowledge.
 
-Ylva must permit teams to annotate their own copy and act when contact with her is lost.
+Ylva must permit teams to annotate their own copy and act when contact with her is lost. Her master atlas becomes a reference held at the Yard, not the object that grants field authority.
 
 ## Final Drill
 
@@ -157,7 +171,7 @@ The three teams receive different simulated failures:
 - the southern signal arrives late;
 - the declared lead must be relieved.
 
-If Ylva intervenes in every response, the routes function but remain `managed`. If she permits correction and accepts being overruled by current conditions, the atlas becomes genuinely shared.
+If Ylva intervenes in every response, the routes function but remain `managed`. If she grades what the crews actually do, including justified deviation and timely relief, the routes become genuinely independent.
 
 ## Fail-Forward
 

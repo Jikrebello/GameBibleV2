@@ -43,15 +43,21 @@ relationship_variant: ""
 preparation_inputs: ["tavio_field_inspection_ledger", "tavio_leak_horn_drill", "tavio_mobile_vent_frame", "tavio_muster_cadence_reading", "tavio_worker_consent_roster"]
 preparation_threshold: "2 of 5"
 autonomous_deadline: "The Deep Muster"
-autonomous_resolution: "Tavio saves the forge only after Hella or ducal authority orders evacuation and becomes a supervised load tester"
-changed_reentry: "The Examiner"
+autonomous_resolution: "See Companion Autonomy and Act Convergence; untracked content uses stable-colleague treatment."
+changed_reentry: "The Road Examiner"
 ensemble_inputs: ["Bernard Valeon", "Ilyana Veshkar", "Ylva Winter-Track"]
 identity_hooks: ["Military", "Merchant/Craft", "Peasant/Labour", "Scholarly", "Warlock", "Lancewright"]
+grounded_rewrite_status: approved
+external_stakes: ["equipment safety", "worker stop authority", "public bout integrity", "forge evacuation"]
+banter_priority: essential
+player_interest_gate: none
+missed_arc_treatment: changed-reentry
 encounter_deck: []
 persistence_scope: regional-milestone
 postgame_season: ""
-emotional_rewrite_status: preserve
-dialogue_status: pending-rewrite
+emotional_rewrite_status: cleared
+dialogue_status: approved
+remote_claim_status: compliant
 archetype_pressure: "Competition becomes worth: test whether Tavio can stop, lose, or need help without surrendering athletic joy."
 emotional_function: "Keep the forge leak, public halt, evacuation, and capstone"
 pleasure_beat: "Competition, crowds, food, physical effort, ridiculous prizes, and celebrating improvement."
@@ -237,4 +243,4 @@ Friendship alone can produce the resolved outcome and all non-relationship progr
 - [[Meran-Style]]
 - [[Proof-Mistress Hella Dorn]]
 - [[Hammer Ward#Anchor Locations|Great Forge]]
-- [[The Examiner]]
+- [[The Road Examiner]]

@@ -31,6 +31,11 @@ chapter_id: ""
 main_sequence: 0
 story_gate: confrontation
 relationship_variant: ""
+grounded_rewrite_status: approved
+external_stakes: ["salvage custody", "crew safety", "winter rescue capacity", "living claims"]
+banter_priority: essential
+player_interest_gate: none
+missed_arc_treatment: changed-reentry
 encounter_deck: []
 postgame_season: ""
 estimated_hours: 1.75
@@ -43,7 +48,7 @@ pause_points: ["Approach Chosen", "Cabinet Located"]
 preparation_inputs: ["elara_winter_company_ready", "elara_roofline_route", "elara_bellandi_escrow_access", "elara_public_witnesses", "elara_bridgehold_practice"]
 preparation_threshold: "2 participate; 3 all material objectives; 4 one safeguard"
 autonomous_deadline: "Ghor at the Gate"
-autonomous_resolution: "Elara preserves relief and exposes part of the network but secretly keeps the restoration option."
+autonomous_resolution: "See Companion Autonomy and Act Convergence; untracked content uses stable-colleague treatment."
 changed_reentry: "Cabinet After Snow"
 ensemble_inputs: ["Zafir ibn Samad", "Ilyana Veshkar"]
 identity_hooks: ["Nobility", "Merchant/Craft", "Underworld", "Scholarly", "Peasant/Labour"]
@@ -54,7 +59,7 @@ archetype_pressure: "Elara faces an offer that flatters her best self and lets h
 emotional_function: "Make remote patronage, relief, status, and confession collide inside an active heist."
 pleasure_beat: "Dress, disguise, social improvisation, locked galleries, rooftops, and a frozen-quay chase."
 care_beat: "Preserve genuine relief without using recipients as leverage or audience."
-player_archetype_hooks: ["Cheerleader", "Tomboy", "Goth", "Bohemian", "Jock", "Nerd", "Rebel", "Goofball", "Grey"]
+player_archetype_hooks: []
 persistence_scope: regional-persistent
 ---
 # The Patron's Cabinet

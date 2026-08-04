@@ -43,10 +43,15 @@ relationship_gate: "Female player; bernard_relationship_commitment: romance-comm
 preparation_inputs: []
 preparation_threshold: ""
 autonomous_deadline: "The Deep Muster"
-autonomous_resolution: "The romance episode closes without relationship penalty; its move upgrade and Table Received bonus are not earned"
+autonomous_resolution: "See Companion Autonomy and Act Convergence; untracked content uses stable-colleague treatment."
 changed_reentry: "The private evening does not reopen after the Deep Muster commitment"
 ensemble_inputs: []
 identity_hooks: []
+grounded_rewrite_status: approved
+external_stakes: ["Blackjack Yard feast", "kitchen preparation", "private evening"]
+banter_priority: private
+player_interest_gate: committed-romance
+missed_arc_treatment: closes-transient-event
 encounter_deck: []
 persistence_scope: personal
 postgame_season: ""
@@ -57,7 +62,7 @@ archetype_pressure: "Warmth becomes evasion: test whether Bernard can remain fun
 emotional_function: "Let Bernard receive a female partner's desire and care without turning either into payment, rescue, or proof of innocence."
 pleasure_beat: "A private feast, ridiculous portions, freely chosen affection, and nowhere else either person is required to be."
 care_beat: "Bernard accepts the meal and one gifted prayer-rope bead without bargaining to repay them."
-player_archetype_hooks: ["Cheerleader", "Tomboy", "Goth", "Bohemian", "Grey"]
+player_archetype_hooks: []
 ---
 # Enough for Two
 

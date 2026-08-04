@@ -43,15 +43,21 @@ relationship_variant: ""
 preparation_inputs: []
 preparation_threshold: ""
 autonomous_deadline: ""
-autonomous_resolution: "The episode remains optional and does not resolve autonomously"
+autonomous_resolution: "See Companion Autonomy and Act Convergence; untracked content uses stable-colleague treatment."
 changed_reentry: ""
 ensemble_inputs: []
 identity_hooks: ["Sermoran", "Folk", "Peasant/Labour", "Merchant/Craft"]
+grounded_rewrite_status: approved
+external_stakes: ["Grenzburg song collection", "public attribution", "city performance"]
+banter_priority: optional
+player_interest_gate: none
+missed_arc_treatment: stable-colleague
 encounter_deck: []
 persistence_scope: character-persistent
 postgame_season: ""
-emotional_rewrite_status: preserve
-dialogue_status: pending-rewrite
+emotional_rewrite_status: cleared
+dialogue_status: approved
+remote_claim_status: compliant
 archetype_pressure: "Freedom becomes impermanence: test whether Ilyana can sustain a shared work after novelty and sole authorship fade."
 emotional_function: "Keep the city ramble, collection, credit, and playful public performance"
 pleasure_beat: "Improvised music, novelty, public performance, and turning strangers into a temporary chorus."
@@ -121,4 +127,3 @@ Afterward, **Your Part, If You Want It** opens. Ilyana offers the player a two-n
 - [[Ilyana Field Familiarity and Relationships]]
 - [[Old Market]]
 - [[Bridgehold]]
-

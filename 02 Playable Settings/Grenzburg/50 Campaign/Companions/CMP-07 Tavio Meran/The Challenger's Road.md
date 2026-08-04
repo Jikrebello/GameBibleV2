@@ -43,15 +43,20 @@ relationship_variant: ""
 preparation_inputs: []
 preparation_threshold: ""
 autonomous_deadline: "Ghor at the Gate"
-autonomous_resolution: "Lio reaches Grenzburg with damaged brace and partial evidence under independent escort"
+autonomous_resolution: "See Companion Autonomy and Act Convergence; untracked content uses stable-colleague treatment."
 changed_reentry: "Bout After Snow"
 ensemble_inputs: ["Ylva Winter-Track", "Dismas Raben", "Elara Velescar"]
 identity_hooks: ["Sestaran", "Military", "Merchant/Craft", "Wilderness", "Underworld"]
+grounded_rewrite_status: approved
+external_stakes: ["equipment safety", "worker stop authority", "public bout integrity", "forge evacuation"]
+banter_priority: contextual
+player_interest_gate: none
+missed_arc_treatment: changed-reentry
 encounter_deck: []
 persistence_scope: regional-milestone
 postgame_season: ""
-emotional_rewrite_status: reframe
-dialogue_status: pending-rewrite
+emotional_rewrite_status: cleared
+dialogue_status: approved
 remote_claim_status: compliant-via-lio-clause
 archetype_pressure: "Competition becomes worth: test whether Tavio can stop, lose, or need help without surrendering athletic joy."
 emotional_function: "Keep Lio's remote claim and refusal; use a present-day challenger to center bodily vulnerability, public expectation, and the right to withdraw"
@@ -69,7 +74,7 @@ This Act II operation brings [[Lio Varcen]], his fighting brace, and independent
 
 A winter courier reports that Lio's protected convoy has stalled beyond the Highlake road. The western route is closing, Grobi scouts probe the approaches, and someone has circulated a false order transferring Lio into Blackjack custody.
 
-Lio refuses the transfer, and his arrival is sanctioned under [[Companion Constitution#Exception: the Lio Clause|the Lio Clause]]: he travels under his own power, for his own aims, with his own second, clerk, and exit route, and never in Tavio's custody.
+Lio refuses the transfer, and his arrival is sanctioned under [[Companion Constitution#Past Claims and the Lio Exception|the Lio Clause]]: he travels under his own power, for his own aims, with his own second, clerk, and exit route, and never in Tavio's custody.
 
 He asks for five things, numbered, because he numbers things:
 

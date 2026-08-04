@@ -43,10 +43,15 @@ relationship_variant: ""
 preparation_inputs: []
 preparation_threshold: ""
 autonomous_deadline: "Ghor at the Gate"
-autonomous_resolution: "Three shelters form an effective network; the fourth joins after avoidable exposure because Bernard tried to carry its route alone."
+autonomous_resolution: "See Companion Autonomy and Act Convergence; untracked content uses stable-colleague treatment."
 changed_reentry: "The damaged supper route remains visible and provides a reduced casualty lane rather than a replay."
 ensemble_inputs: ["Ilyana Veshkar", "Ylva Winter-Track", "Zafir ibn Samad"]
 identity_hooks: ["Peasant/Labour", "Merchant/Craft", "Mystic/Religious", "Drifter/Vagabond"]
+grounded_rewrite_status: approved
+external_stakes: ["returned property", "road-school safety", "winter shelter access", "patient survival"]
+banter_priority: contextual
+player_interest_gate: none
+missed_arc_treatment: changed-reentry
 encounter_deck: []
 persistence_scope: district-persistent
 postgame_season: ""
@@ -57,7 +62,7 @@ archetype_pressure: "Bernard can make four isolated rooms feel like one company,
 emotional_function: "Turn his humor, appetite, and hospitality into a concrete siege network before testing whether he reports a reserve."
 pleasure_beat: "Four very different suppers, improvised songs, terrible stew names, and travelers carrying jokes between shelters."
 care_beat: "People choose what they can contribute and later rescue one another through relationships built at the tables."
-player_archetype_hooks: ["Cheerleader", "Tomboy", "Goth", "Bohemian", "Jock", "Nerd", "Rebel", "Goofball", "Grey"]
+player_archetype_hooks: []
 ---
 # The Long Winter Table
 

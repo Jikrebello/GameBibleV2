@@ -43,15 +43,21 @@ relationship_gate: "Male player; romance-committed"
 preparation_inputs: []
 preparation_threshold: ""
 autonomous_deadline: ""
-autonomous_resolution: "The episode does not resolve autonomously"
+autonomous_resolution: "See Companion Autonomy and Act Convergence; untracked content uses stable-colleague treatment."
 changed_reentry: ""
 ensemble_inputs: []
 identity_hooks: []
+grounded_rewrite_status: approved
+external_stakes: ["river journey", "private performance", "safe return"]
+banter_priority: private
+player_interest_gate: committed-romance
+missed_arc_treatment: closes-transient-event
 encounter_deck: []
 persistence_scope: character-persistent
 postgame_season: ""
-emotional_rewrite_status: preserve
-dialogue_status: pending-rewrite
+emotional_rewrite_status: cleared
+dialogue_status: approved
+remote_claim_status: compliant
 archetype_pressure: "Freedom becomes impermanence: test whether Ilyana can sustain a shared work after novelty and sole authorship fade."
 emotional_function: "Keep a song made for one male listener and the romantic commitment"
 pleasure_beat: "Improvised music, novelty, public performance, and turning strangers into a temporary chorus."
@@ -103,4 +109,3 @@ At dawn Ilyana teaches the player the Held Note: a way to keep one support line 
 - [[The Free Refrain]]
 - [[The Last Common Measure]]
 - [[Long Lake Ferries]]
-

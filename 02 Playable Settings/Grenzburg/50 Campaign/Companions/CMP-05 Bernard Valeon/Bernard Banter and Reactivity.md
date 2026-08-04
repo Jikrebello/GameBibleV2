@@ -16,6 +16,7 @@ voice_status: calibrated
 dialogue_status: approved
 emotional_rewrite_status: cleared
 remote_claim_status: compliant
+grounded_rewrite_status: approved
 ---
 # Bernard Banter and Reactivity
 
@@ -28,6 +29,7 @@ remote_claim_status: compliant
 - Stops joking completely when another person sets a boundary.
 - Uses plain sentences under real fear.
 - Must be lovable in scenes that have nothing to do with theft.
+- Before an explicit player interest signal, hospitality and physical protectiveness are not flirting and nobody frames them that way.
 
 ## Calibration Scenes
 
@@ -240,12 +242,21 @@ Bernard leaves the exit. Zafir lets a carer explain it in ordinary language rath
 - Respects Chapel-Folk shelter and dignity.
 - Supports Low Lantern protection and rejects theft from the poor or Black Bell execution.
 
-## Temperament Use
+## Optional Temperament Hooks
+
+Grey is the controlling baseline. Use the following only when they improve a specific scene:
 
 - Grey players receive complete hospitality and accountability scenes.
 - Goofball similarity must include the capacity to stop performing.
 - Goth contrast respects silence and privacy.
 - Cheerleader contrast cannot turn the player into Bernard's permanent manager.
+
+## Chatter Discipline
+
+- **Low:** tactical calls, necessary quest information, and player-prompted conversation only.
+- **Normal:** no more than two contextual exchanges during roughly twenty minutes of uninterrupted travel.
+- **High:** no more than four, using extra work, food, prayer, weather, and current-company material.
+- Funerals, deaths, failed rescues, stealth, confessions, and solemn discoveries impose the shared silence lock.
 
 ## Failure Modes
 

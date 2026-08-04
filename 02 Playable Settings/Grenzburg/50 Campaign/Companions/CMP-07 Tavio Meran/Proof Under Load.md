@@ -43,15 +43,21 @@ relationship_variant: ""
 preparation_inputs: ["tavio_fifth_ring_evidence", "tavio_signed_batch_register", "tavio_cold_iron_control_sample", "tavio_warlock_counterproof", "tavio_workers_stop_authority"]
 preparation_threshold: "2 of 5"
 autonomous_deadline: "The Last Convoy"
-autonomous_resolution: "Tavio proves the substitution but pushes beyond the stop call, injuring one worker and losing the field antagonist"
+autonomous_resolution: "See Companion Autonomy and Act Convergence; untracked content uses stable-colleague treatment."
 changed_reentry: "The Cracked Batch"
 ensemble_inputs: ["Ylva Winter-Track", "Ilyana Veshkar"]
 identity_hooks: ["Sestaran", "Merchant/Craft", "Military", "Scholarly", "Peasant/Labour", "Warlock"]
+grounded_rewrite_status: approved
+external_stakes: ["equipment safety", "worker stop authority", "public bout integrity", "forge evacuation"]
+banter_priority: essential
+player_interest_gate: none
+missed_arc_treatment: changed-reentry
 encounter_deck: []
 persistence_scope: regional-milestone
 postgame_season: ""
-emotional_rewrite_status: reframe
-dialogue_status: pending-rewrite
+emotional_rewrite_status: cleared
+dialogue_status: approved
+remote_claim_status: compliant
 archetype_pressure: "Competition becomes worth: test whether Tavio can stop, lose, or need help without surrendering athletic joy."
 emotional_function: "Keep Cold-Iron testing and worker rescue; make stopping before certainty a visible defeat before peers"
 pleasure_beat: "Competition, crowds, food, physical effort, ridiculous prizes, and celebrating improvement."
@@ -71,7 +77,7 @@ A winter gauntlet batch cracks at the Great Forge. The supplier blames Highlake 
 A Red Brass field agent has reached the mine first:
 
 - [[Seraf Pellan]] if he escaped;
-- a named Red Brass quartermaster if Seraf was arrested or killed.
+- a named Red Brass quartermaster if Seraf was detained, exposed, or otherwise unavailable.
 
 The agent offers the mine owners a fast public test that will either clear the ore or ruin Highlake's contracts.
 

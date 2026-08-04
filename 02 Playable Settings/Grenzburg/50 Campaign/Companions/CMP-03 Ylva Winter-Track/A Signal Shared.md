@@ -43,15 +43,21 @@ relationship_variant: ""
 preparation_inputs: ["ylva_fourth_marker_restored"]
 preparation_threshold: ""
 autonomous_deadline: "The Last Convoy"
-autonomous_resolution: "Ylva establishes a working code but keeps its interpretation dependent on herself"
+autonomous_resolution: "See Companion Autonomy and Act Convergence; untracked content uses stable-colleague treatment."
 changed_reentry: "Relay After Frost"
 ensemble_inputs: ["Ilyana Veshkar", "Dismas Raben", "Bernard Valeon"]
 identity_hooks: ["Ättar", "Folk", "Military", "Wilderness", "Peasant/Labour", "Hunter"]
+grounded_rewrite_status: approved
+external_stakes: ["three south-road stations", "children and carters using the ford", "a signal code resistant to theft"]
+banter_priority: contextual
+player_interest_gate: none
+missed_arc_treatment: changed-reentry
 encounter_deck: ["false road signal", "Upper Grenz bandits", "autumn storm"]
 persistence_scope: regional-milestone
 postgame_season: ""
-emotional_rewrite_status: reframe
-dialogue_status: pending-rewrite
+emotional_rewrite_status: cleared
+dialogue_status: approved
+remote_claim_status: compliant
 archetype_pressure: "Competence becomes self-erasure: test whether Ylva accepts shared agency without reading care as confinement."
 emotional_function: "Retain the relay but add inexperienced partners, patronization, and the question of who is trusted to judge field risk"
 pleasure_beat: "Field competence, open weather, friendly contest, practical food, and quiet work done well."
@@ -73,6 +79,8 @@ After [[The Fourth Marker]], three south-road stations use incompatible warning 
 - Tann Crossing uses ducal horn calls.
 
 Ylva has translated all three into her private book. A false all-clear appears between stations, proving that a stolen symbol can redirect traffic while no one else knows how to verify it.
+
+**Mina Kell**, a nineteen-year-old Fellwater charcoal runner, has six months of station work and an exact knowledge of how rain changes the ford. Ylva treats her as a useful pair of legs, not a field judge. Mina is inexperienced; she is not foolish, secretly exceptional, or always right.
 
 ## Beginning: Three Ways to Say Run
 
@@ -97,7 +105,7 @@ Each station supplies a compact authored task:
 
 ### Fellwater Camps
 
-Recover a bell clapper and weather cloth from a flooded mill race. The player may use the wheel controls, cross the service beams, or wade a secured shallow line. The task teaches visible public signals.
+Recover a bell clapper and weather cloth from a flooded mill race. The player may use the wheel controls, cross the service beams, or wade a secured shallow line. Mina rejects Ylva's preferred crossing because brown foam on the upstream wall shows that a second surge is coming. She is correct about the surge and wrong about how long it will last. The task teaches visible public signals and gives both women a reason to revise rather than submit.
 
 ### Black Fir Watch
 
@@ -131,7 +139,7 @@ A cold rain closes visibility during the relay's first full test. Each station r
 - two children on the wrong side of a ford;
 - and a harmless charcoal plume mistaken for a road fire.
 
-The player assigns confirmation responsibility. Ylva must remain at one station instead of running between all three.
+The player assigns confirmation responsibility. Ylva must remain at one station instead of running between all three. Mina volunteers for the ford because she knows its new cut. Ylva can give her bounded authority, pair her with an experienced miller, replace her without contempt, or dismiss the judgement solely because of age.
 
 Strong results require trusting local teams:
 
@@ -140,6 +148,8 @@ Strong results require trusting local teams:
 - Tann Crossing stops the cart flow.
 
 If Ylva overrides every station, people survive but the code remains dependent on her and `ylva_direction` moves toward managed or self-spent.
+
+If Mina holds the ford, she may still call an unnecessary retreat when the water changes. The cost is wet stores and delay, not a reveal that Ylva should simply trust every junior worker. Shared judgement includes correction in both directions.
 
 ## Decision
 

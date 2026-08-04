@@ -33,6 +33,11 @@ story_gate: preparation
 relationship_variant: ""
 preparation_inputs: []
 preparation_threshold: ""
+grounded_rewrite_status: approved
+external_stakes: ["Heda Morn's housing and safety", "residents trapped above the extortion room", "evidence against a Debtors' Row protection crew"]
+banter_priority: contextual
+player_interest_gate: none
+missed_arc_treatment: changed-reentry
 encounter_deck: []
 postgame_season: ""
 estimated_hours: 0.75
@@ -43,7 +48,7 @@ companion_required: "Ashira bath Melan"
 duo_quest: false
 pause_points: ["Witness Protected", "Echo Source Found"]
 autonomous_deadline: "The Last Convoy"
-autonomous_resolution: "Ashira exposes the criminals but lets the witness's grief become public proof."
+autonomous_resolution: "See Companion Autonomy and Act Convergence; untracked content uses stable-colleague treatment."
 changed_reentry: "The Drowned Answer begins with reduced privacy support."
 ensemble_inputs: ["Elara Velescar", "Bernard Valeon", "Dismas Raben", "Ilyana Veshkar", "Tavio Meran", "Zafir ibn Samad", "Ylva Winter-Track"]
 identity_hooks: ["Underworld", "Peasant/Labour", "Scholarly", "Mystic/Religious"]
@@ -54,7 +59,7 @@ archetype_pressure: "Ashira can prove the uncanny event only by exposing a dismi
 emotional_function: "Show her as the person who believes an unwanted witness, then test whether belief becomes ownership."
 pleasure_beat: "A room answering knocks, covert observation, and exposing a clever mundane racket around a real Echo."
 care_beat: "Protect the witness's chosen account even when a more dramatic disclosure would solve the case faster."
-player_archetype_hooks: ["Cheerleader", "Tomboy", "Goth", "Bohemian", "Jock", "Nerd", "Rebel", "Goofball", "Grey"]
+player_archetype_hooks: []
 persistence_scope: local-persistent
 ---
 # The Room That Answered
@@ -79,6 +84,8 @@ Every essential conclusion has two sources: physical tubes and witness timing; e
 
 Ashira knows immediately that the answer is not Heda's sister. She does not say so until Heda asks. If the player pushes for instant correction, Heda may close the room.
 
+Ashira initially classifies the three-knock response as a fixed domestic loop that the criminals can only observe. Heda insists the third knock moved after the collectors replaced one floorboard. Ashira dismisses that as grief joining unrelated details. A physical inspection proves Heda right: a new pressure strip lets the crew select which part of the Echo repeats. Ashira's error costs the party its first chance to catch the upstairs lookout if they accepted her certainty without checking.
+
 ## Action
 
 The crew responds to discovery by trapping residents on the upper floor, releasing smoke, and escaping through the speaking tubes. The party protects residents, crosses a collapsing gallery, and captures or pursues the collectors.
@@ -89,7 +96,9 @@ The House Echo repeats evacuation gestures from an older fire. Following them re
 
 The easiest public case uses Heda's grief, room, and sister's name. The protected case requires more field evidence and may let one collector escape.
 
-Ashira's strongest beat is accepting Heda's instruction: “Prove what they did. Leave my sister out of your mouth.”
+Heda's instruction is: “Prove what they did. Leave my sister out of your mouth.”
+
+Ashira can honor it, argue that the name is evidentiary, or follow the player's public strategy. She does not summarize what she learned afterward. If she was wrong about the floorboard, she adds Heda's observation to the case record under Heda's name.
 
 ## Failure and Outcomes
 

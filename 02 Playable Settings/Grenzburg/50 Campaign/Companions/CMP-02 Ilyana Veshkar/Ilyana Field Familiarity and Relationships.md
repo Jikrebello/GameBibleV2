@@ -16,6 +16,7 @@ companion_id: "CMP-02"
 relationship_theme: "a voice freely answered"
 relationship_perks: ["One Listener", "Equal Voices"]
 architecture_status: migrated
+grounded_rewrite_status: approved
 ---
 # Ilyana Field Familiarity and Relationships
 
@@ -51,8 +52,8 @@ Idle time, repeated jobs, and recycled performances do not farm familiarity.
 
 - [[Five Cases at Customs]] opens after one meaningful outing.
 - Act finales require two of five preparation assets.
-- [[The Free Refrain]] must be personally completed to unlock Bard and relationship commitment.
-- Missing The Free Refrain permanently closes Bard, romance, and bond for that playthrough.
+- [[The Free Refrain]] personally unlocks Bard and may open relationship commitment after an explicit player interest signal.
+- Missing The Free Refrain moves the Bard unlock to the authored **Refrain After Snow** spring re-entry. It closes the time-specific relationship opportunity, not the vocation.
 - Friendship remains capable of reaching the resolved outcome.
 
 Only [[No Song by Command]], [[The Free Refrain]], and [[The Last Common Measure]] are fixed duo quests.
@@ -74,12 +75,12 @@ Repair requires release, return, corrected credit, public or affected-party trut
 
 Ilyana is heterosexual. A male player may pursue romance. A female player may pursue a sworn bond. Every player may complete [[A Tune with No Owner]].
 
-Two pre-commitment scenes are required:
+Two familiarity scenes exist, but only the second can become an interest signal:
 
 1. **The Empty Chair:** after Five Cases, Ilyana admits that she still counts five positions whenever she enters a room.
-2. **Your Part, If You Want It:** after A Tune with No Owner, she offers the player a simple response line and explicitly accepts refusal.
+2. **Your Part, If You Want It:** after A Tune with No Owner, she offers the player a simple response line. The player may explicitly mark romantic interest, sworn-bond interest, friendship, or no private interest.
 
-Commitment requires Trusted approval, no active major conflict, personal completion of [[The Free Refrain]], and an available global relationship slot.
+Before that authored selection there is no flirting, jealousy, sexual teasing, or romance-coded banter. Commitment requires Trusted approval, no active major conflict, personal completion of [[The Free Refrain]], the appropriate explicit signal, and an available global relationship slot.
 
 ## Romance
 
@@ -138,7 +139,7 @@ Permanent perks remain learned after a warned departure or player-chosen sacrifi
 ## Outcome and Destination
 
 - **Resolved:** open-road performer, with relationship-specific summer invitations that remain optional.
-- **Compromised:** supervised civic signal-Bard; the relationship acknowledges unfinished work.
+- **Compromised:** bounded civic signal-Bard whose stop rules and shared credit remain externally documented; the relationship acknowledges unfinished work.
 - **Broken:** departure, Morante patronage, or isolated control of disputed repertoire.
 
 No destination becomes future-setting canon.
@@ -152,4 +153,3 @@ No destination becomes future-setting canon.
 - [[Duet Without a Conductor]]
 - [[Companion Field Familiarity and Duo Quest Standard]]
 - [[Narrative State Register]]
-

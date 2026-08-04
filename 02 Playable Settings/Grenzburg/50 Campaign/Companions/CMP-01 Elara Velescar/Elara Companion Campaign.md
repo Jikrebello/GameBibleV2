@@ -16,10 +16,23 @@ architecture_status: migrated
 emotional_rewrite_status: cleared
 dialogue_status: approved
 remote_claim_status: compliant
+grounded_rewrite_status: approved
+external_stakes: ["stolen grave goods", "delver and worker safety", "winter rescue capacity", "living household claims"]
+banter_priority: contextual
+player_interest_gate: player-signaled
+missed_arc_treatment: changed-reentry
 ---
 # Elara Companion Campaign
 
 This is the controlling authority for Elara's eleven authored pieces, ten-piece playthrough ceiling, three deadlines, preparation ladders, autonomous progression, changed re-entry, and reward sequence. [[Elara Velescar]] controls character; [[Elara Field Familiarity and Relationships]] controls approval and intimacy; [[Elara Delver-Duelist Package]] controls combat.
+
+## Grounded Campaign Identity
+
+Elara's campaign is real delving, rescue, appraisal, smuggling, and claim work. It does not exist to keep her socially central. She may organize a crew brilliantly, work under somebody else's lead, be excluded for defensible reasons, or finish a job nobody celebrates.
+
+The grave expeditions directly centre only [[Names Beneath Lime]], [[A House Fed by Bones]], [[The Patron's Cabinet]], and [[No Lady of Velescar]]. The remaining pieces foreground current work, winter service, pleasure, ordinary expedition ethics, and relationships that do not owe her repair.
+
+Romantic presentation remains inactive until a male player explicitly signals interest. Friendly praise, a wager, shared danger, and admiration for skill are not flirting.
 
 ## Dramatic Promise
 
@@ -130,32 +143,25 @@ Every act offers five assets. Two permit player participation, three make every 
 
 Tracked campaigns show readiness and the exact content that will close. Untracked plans remain discoverable through Elara's schedule, crew board, and conversations, but receive no consolidated warning.
 
-### Zero-participation route
+### Stable-colleague route
 
-Elara becomes a compromised survivor:
+With no personal engagement, Elara remains a useful Blackjack delver and appraiser. She does not lead the Seven Mounds expedition, open Vardek's restoration offer, attend the Reclamation Feast as a claimant, or settle House Velescar off-screen. Local crews and custodians handle the seasonal sites through ordinary world states.
 
-- she saves the Seven Mounds workers after chasing proof first, causing avoidable injuries and a scarred chamber;
-- she preserves the winter relief and exposes part of Vardek's local network, but keeps the restoration option;
-- **she attends the Reclamation Feast, is needled, and makes the joke anyway.** The cruelty in [[Uninvited]] is hers in every route, played or unplayed; the substitution partly succeeds and the coalition is functional rather than ready;
-- she cancels inherited obligations and grants durable household rights while retaining a reduced title and private reserve.
+She continues legitimate surveys, winter building assessment, and salvage work. The title, household instructions, burial claims, and her need for social centrality remain unresolved. `perle_state` and `sandro_state` do not change merely because the player ignored the campaign. A later changed-reentry route restages the relevant pressure in the current season.
 
-She cannot die unseen.
+### Tracked and engaged outcomes
 
-Two states in this campaign are unrepairable by design, and both are flagged in their own files: `perle_state` never returns to `adoring` (see [[Perle Winkel]]), and `sandro_state` never moves at all (see [[Sandro Tessari]]). Neither sits inside the ordinary conflict-and-repair loop. Do not add repair scenes for either.
-
-### Influenced autonomous results
-
-Accountable direction and at least three assets can produce moral success with permanent material loss. Entitled direction or zero assets can worsen casualties, evidence, or Elara's settlement, but never invent a random outcome.
+Once the player tracks or materially engages the campaign, accountable direction and preparation can produce moral success with permanent material loss. Entitled direction or a broken promise can worsen casualties, evidence, or Elara's settlement, but never invent a random outcome.
 
 [[Bernard Valeon]] or [[Dismas Raben]] may protect workers in Act I. [[Zafir ibn Samad]] or [[Ilyana Veshkar]] may preserve relief authentication in Act II. [[Ashira bath Melan]] may preserve provenance in Act III. No companion chooses Elara's priority or settlement.
 
 ## Changed Re-entry
 
-**The Scarred Mounds:** a winter aftermath can compensate injured workers, recover names, and move direction one step through material repair. It cannot undo injuries, restore the chamber, or grant the missed finale reward.
+**The Scarred Mounds:** a winter aftermath can compensate injured workers, recover names, and move direction one step through material repair. It cannot undo injuries or restore the chamber. Fault Proven and the Delver-Duelist parts move to a changed field examination rather than disappearing solely through inattention.
 
 **Cabinet After Snow:** a spring aftermath permits repudiation of the restoration offer and recovery of partial evidence. It cannot restore lost relief or reopen romance and bond. The Act II transition warning states this closure exactly.
 
-Missing Act III fixes Elara's autonomous settlement. [[The First Honest Find]] reflects it and does not reopen judgement.
+Missing Act III fixes a settlement only if the player tracked Elara into a declared course and then declined the hearing. An untracked Elara reaches summer as a capable, unresolved colleague. [[The First Honest Find]] reflects the relevant state without inventing relinquishment or restoration.
 
 ## Ten Embedded Opportunities
 

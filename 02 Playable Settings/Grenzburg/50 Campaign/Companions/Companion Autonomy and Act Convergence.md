@@ -8,106 +8,98 @@ region: ["Grenzburg"]
 culture: []
 related_factions: ["Blackjack Corps"]
 appears_in: ["Grenzburg"]
-needs:
-  - define each companion's three autonomous routes during individual deep-block passes
+needs: []
+grounded_rewrite_status: approved
 tags: [game-ready]
 ---
 # Companion Autonomy and Act Convergence
 
-This note controls tracking, deadlines, autonomous action, cross-companion support, missed finales, and changed re-entry.
+This note controls tracking, seasonal change, ordinary autonomous work, changed re-entry, and the stable-colleague state.
 
 ## Colleagues, Not Inventory
 
-All eight companions belong to Grenzburg's Blackjack story whether or not the player places them in the field party. Field availability means the player may ask them to travel; it does not create their existence, employment, or personal agenda.
+All eight companions are employed Blackjacks whether or not they enter the field party. Inactive companions follow schedules, accept assignments, maintain relationships, earn standing, and appear in credible locations.
 
-Inactive companions follow authored schedules, accept company assignments, maintain relationships, and pursue their own campaigns.
+Their existence continues. Their central personal transformation does not happen automatically for the player's convenience.
 
-## Tracking
+## Engagement State
 
-A personal campaign becomes **tracked** when the player:
+| State | Meaning |
+|---|---|
+| untracked | the companion is a normal colleague; no private commitment has been made |
+| noticed | the player has discovered a personal pressure but has not promised involvement |
+| tracked | the player explicitly accepts the companion matter or manually tracks it |
+| engaged | the player completes a defining personal operation or finale |
 
-- accepts its introductory case;
-- explicitly promises help with the companion's personal matter; or
-- manually tracks an already discovered companion campaign.
+Party membership alone does not track a campaign. Declining or untracking a personal matter causes no approval loss.
 
-Party membership alone does not automatically track every private matter.
+## Main-Act Gates
 
-Tracked companions appear on the act-transition docket. Untracked companions do not receive consolidated UI entries, though their plans remain discoverable through location schedules, dialogue, letters, company notices, witnesses, and world scenes.
+Autumn, winter, spring, and finale transitions still alter the world. A tracked campaign appears on the transition docket with the specific incident that will change. An untracked campaign receives no consolidated warning, though schedules and world evidence remain discoverable.
 
-## Act-End Convergence
+The docket never suggests that the companion will morally collapse without the player.
 
-Act I companion chapters resolve when the player commits to the fall-of-Tannbruck transition. Act II chapters resolve when the player commits to Ghor's final defeat and spring transition. Act III chapters resolve when the player commits to the Deep Muster finale.
+## Stable-Colleague Resolution
 
-At each gate:
+When an untracked chapter reaches a season gate:
 
-1. tracked campaigns show the companion's intended action;
-2. readiness is displayed qualitatively;
-3. the player may cancel the main-story transition;
-4. joining a prepared finale remains optional;
-5. every unresolved chapter advances when the gate is crossed.
+1. the companion completes ordinary assigned work competently;
+2. the time-sensitive incident is handled by local people, changes shape, or passes with bounded material consequences;
+3. the companion's central personal decision remains unresolved;
+4. no resolved, compromised, broken, romance, bond, or departure state is assigned;
+5. the companion remains recruitable and socially present;
+6. a later changed-reentry hook reflects the new season and world state.
 
-The game never advances these deadlines through resting, travel, crafting, repeatable jobs, or hidden clocks.
-
-## Deterministic Autonomous Resolution
-
-An autonomous outcome is authored, never random. Resolve inputs in this order:
-
-1. the companion's established inclination and central fault;
-2. completed personal operations and embedded preparation;
-3. prior player influence and named conflicts;
-4. relevant main-story, faction, settlement, and regional states;
-5. available authored support from companions, Blackjacks, factions, and beneficiaries;
-6. the finale's specific opposition and cost.
-
-Different companions may improve, compromise, or worsen without the player. There is no universal off-screen result.
-
-## Cross-Companion Support
-
-Foils, friends, and shared Blackjack assignments may materially alter autonomous outcomes. Cross-support must be authored and must respect both characters' availability and current states.
-
-Another companion may provide evidence, extraction, care, technical help, testimony, or restraint. They cannot secretly complete the entire moral decision for the owner.
-
-## No Unseen Death
-
-An autonomous route may cause:
-
-- injury;
-- loss of evidence, property, standing, or opportunity;
-- a compromised decision;
-- faction dependence;
-- estrangement;
-- temporary or permanent departure.
-
-It may not kill a companion outside a witnessed, explicitly signaled late event. Companion death remains possible only through an authored sacrifice or confrontation whose alternatives and stakes are visible to the player.
+The stable-colleague route cannot cause unseen injury, supervision, disgrace, villainy, sacrifice, or personal enlightenment.
 
 ## Changed Re-entry
 
-Missing a finale permanently closes its original version. The world does not wait and the player cannot replay the same event in a later season.
+The original seasonal set piece does not wait unchanged. Later engagement provides a newly staged version that:
 
-Later contact provides an authored aftermath that:
+- preserves the central personal pressure;
+- uses current locations, factions, casualties, and services;
+- does not pretend a missed rescue or battle is still occurring;
+- preserves indispensable vocation and capstone unlock routes;
+- allows friendship, romance, or bond eligibility once the required personal turning point is completed;
+- may lose transient treasure, witnesses, or tactical advantages tied specifically to the expired event;
+- never invents deterioration merely to make the late player feel guilty.
 
-- establishes what the companion attempted;
-- shows who helped or suffered;
-- preserves material consequences;
-- allows repair, renewed trust, investigation, or continued disagreement where credible;
-- opens the next act chapter in a changed form unless the companion has departed.
+## Tracked but Declined
 
-Changed re-entry never retroactively grants missed rewards, rescues, relationship scenes, or perfect preparation.
+If the player explicitly promises help and then crosses a warned gate, the companion responds to the broken promise. The event still uses changed re-entry. Approval, trust, or a relationship may be affected because of the promise, not because the game assumes all neglect is betrayal.
+
+No companion dies unseen.
+
+## Cross-Companion Work
+
+Inactive colleagues may assist one another with ordinary extraction, records, care, transport, or technical work. This support keeps the company credible but does not complete another companion's moral decision or relationship path.
+
+Foil support requires both characters to be available and a concrete shared task. It is not an automatic moral correction.
+
+## Summer Boundary
+
+A companion whose campaign was never engaged receives a stable-colleague coda:
+
+- employed or credibly reassigned;
+- recruitable unless the main campaign itself removes the Blackjack presence;
+- carrying the same unresolved personal pressure in a quieter postwar form;
+- neither punished nor transformed for being ignored.
+
+Postgame seasons alter schedules and ambient work but create no automatic personal arc.
 
 ## Credible Knowledge
 
-Active companions witness private field conduct. Public battles, laws, trials, notices, and company losses may reach inactive companions through credible reports. Concealed choices affect them only when evidence, testimony, or the player carries the truth to them.
+Companions know private conduct they witnessed. Public law, battles, notices, and company losses may reach them through reports. Concealed choices remain concealed until evidence or testimony carries them.
 
 ## Future-Canon Boundary
 
-Autonomous outcomes are playthrough states, not canonical future history. A later continuity pass must not select one merely because it is the default result of neglect.
+Stable-colleague and engaged outcomes are playthrough states. Neither becomes future-setting canon without a separate continuity decision.
 
 ## Navigation
 
+- [[Companion Grounded Writing Standard]]
 - [[Companion Campaign Architecture]]
 - [[Companion Constitution]]
 - [[Companion Field Familiarity and Duo Quest Standard]]
 - [[Companion Reactive Scene Register]]
 - [[Narrative State Register]]
-- [[Season and World-State Constitution]]
-- [[Companions MOC]]

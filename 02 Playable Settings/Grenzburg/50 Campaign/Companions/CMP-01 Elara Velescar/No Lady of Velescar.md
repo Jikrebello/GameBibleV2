@@ -31,6 +31,11 @@ chapter_id: ""
 main_sequence: 0
 story_gate: confrontation
 relationship_variant: ""
+grounded_rewrite_status: approved
+external_stakes: ["salvage custody", "crew safety", "winter rescue capacity", "living claims"]
+banter_priority: essential
+player_interest_gate: none
+missed_arc_treatment: changed-reentry
 encounter_deck: []
 postgame_season: ""
 estimated_hours: 2
@@ -43,8 +48,8 @@ pause_points: ["Vault Approach Open", "Claims Gallery Secured"]
 preparation_inputs: ["elara_coalition_ready", "elara_living_claims_index", "elara_remote_instructions_authenticated", "elara_burial_provenance", "elara_old_tithe_access"]
 preparation_threshold: "2 participate; 3 all material objectives; 4 one safeguard"
 autonomous_deadline: "The Deep Muster Main Quest"
-autonomous_resolution: "Elara cancels inherited obligations and grants working rights but retains a reduced title and private reserve."
-changed_reentry: "The First Honest Find reflects the fixed settlement."
+autonomous_resolution: "See Companion Autonomy and Act Convergence; untracked content uses stable-colleague treatment."
+changed_reentry: "The First Honest Find reflects a tracked settlement or Elara's stable-colleague summer state."
 ensemble_inputs: ["Ashira bath Melan", "Zafir ibn Samad"]
 identity_hooks: ["Underworld", "Merchant/Craft", "Nobility", "Peasant/Labour", "Scholarly"]
 emotional_rewrite_status: cleared
@@ -54,7 +59,7 @@ archetype_pressure: "Elara must use social power to secure decisions she does no
 emotional_function: "Resolve the house through action, material priorities, and a short public settlement."
 pleasure_beat: "A stylish three-route vault heist with water, machinery, ledgers, and vertical escapes."
 care_beat: "Spend the best recovery route on living claims and let delegates state the settlement."
-player_archetype_hooks: ["Cheerleader", "Tomboy", "Goth", "Bohemian", "Jock", "Nerd", "Rebel", "Goofball", "Grey"]
+player_archetype_hooks: []
 persistence_scope: regional-persistent
 ---
 # No Lady of Velescar

@@ -33,6 +33,7 @@ debt_manager: "Claims-Factor Marco Bellandi"
 legal_debt_state_key: "ashira_legal_debt_state"
 voice_status: calibrated
 emotional_rewrite_status: bible-locked
+grounded_rewrite_status: approved
 architecture_status: migrated
 ---
 # Ashira bath Melan
@@ -52,6 +53,16 @@ Ashira establishes worth through estrangement and hidden truth. She wants to rec
 At her best, she can witness pain without flinching, protect a confidence without demanding gratitude, and distinguish a frightening phenomenon from a moral panic. At her worst, she treats privacy as cowardice, suffering as evidence of depth, and another person's likeness as material she understands better than they do.
 
 Her resolved arc does not make her cheerful, conventional, or publicly transparent. It teaches her that connection need not assimilate her and that accurate recognition does not grant possession.
+
+## Adult-Life Profile
+
+**Professional role.** Ashira is a recovery witness, restricted-pattern scholar, identifier of residue and false repetition, and field Medium. Much of her work is ordinary: interviewing frightened debtors, labeling effects, checking whether a signal came from a living person, and sitting through watches when certainty never arrives.
+
+**Ordinary week.** She assists one Mercy identification shift, spends one day in restricted records, maintains her screened practice space, and takes selected field assignments. She wants a legitimate teaching practice for nonhuman imprints and enough authority to refuse sensational demonstrations.
+
+**Local life.** Marcellina trusts her precision and contests her secrecy. Ivo catches her making pain elegant. Runa denies her access when accuracy is not permission. Neda and the Yard recovery hands know she can be kind, mistaken, difficult, and useful without making any of those qualities a revelation.
+
+**Manners and privacy.** Ashira is formal with officials, exact with witnesses, protective toward the bereaved, and selectively severe toward people who trade in private suffering. She is not contemptuous by default and does not deliver an ontology lecture when a shorter practical answer will do. Her dark taste is aesthetic, not ambient seduction. Attraction remains dormant until the player signals it. If ignored, she keeps working, makes occasional wrong calls, corrects records, and remains socially guarded rather than turning predatory or needing supervision.
 
 ## Identity
 
@@ -282,6 +293,8 @@ No outcome becomes future canon, and no returning Qesheth authority decides it f
 ## Relationships
 
 Ashira is heterosexual. A male player may pursue romance; a female player may form the exclusive sworn bond.
+
+Neither path is inferred from fascination, private trust, or shared dark taste. Before the player chooses an explicit interest signal, Ashira does not flirt, display jealousy, or receive romance-coded banter.
 
 Romance concerns being desired without rescue, correction, or exoticization. Sworn friendship concerns privacy, mutual confidence, and the right to challenge a friend without publishing her.
 

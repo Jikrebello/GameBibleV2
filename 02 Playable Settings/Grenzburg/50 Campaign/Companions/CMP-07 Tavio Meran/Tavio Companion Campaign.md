@@ -13,17 +13,26 @@ aliases: ["CMP-07 Campaign"]
 tags: [production-control, narrative-rewrite]
 companion_id: "CMP-07"
 architecture_status: migrated
-emotional_rewrite_status: pending-paired-pass
-dialogue_status: pending-rewrite
-remote_claim_status: pending-migration
+emotional_rewrite_status: cleared
+dialogue_status: approved
+remote_claim_status: compliant
+grounded_rewrite_status: approved
+external_stakes: ["unsafe proof equipment", "mine-worker safety", "public bout integrity", "reconstruction standards", "Great Forge evacuation"]
+banter_priority: contextual
+player_interest_gate: player-signaled
+missed_arc_treatment: changed-reentry
 ---
 # Tavio Companion Campaign
-
-This note remains the structural authority for Tavio's sequence, deadlines, preparation, autonomy, and rewards. [[Companion Emotional Rewrite Audit]] now supersedes its scene-level emotional assumptions. It is not implementation-ready until the Ylva-Tavio paired pass clears its emotional and dialogue status.
 
 This is the controlling authority for Tavio Meran's eleven authored pieces, ten-piece playthrough ceiling, preparation ladders, autonomous decisions, changed re-entry, progression, and outcomes.
 
 [[Tavio Meran]] controls character canon. [[Tavio Field Familiarity and Relationships]] controls approval and intimacy. [[Tavio Lancewright Package]] controls companion combat, while [[Lancewright]] controls the player vocation.
+
+## Grounded Campaign Identity
+
+Tavio's campaign is worker safety, public competition, training, and forge service rather than eleven performances of champion identity. The Fifth Ring directly centres [[The False Ring]], [[The Fair Defeat]], [[Meran-Style]], and [[Horn for Leak-Day]]. The remaining pieces concern recalls, mine proof, honest games, escort, relationships, and examiner work.
+
+Physicality is treated as craft. Tavio asks before touching, coaching, sparring, or turning labor into a contest. He is allowed to be tired, quiet, formally ashamed, and useful without an audience. Lio's appearance remains the one sanctioned remote-claim exception under the Lio Clause and does not make him Tavio's redemption prop. Romance remains inactive until a female player explicitly signals interest.
 
 ## Campaign Thesis
 
@@ -62,7 +71,7 @@ The crowd's arc runs opposite and is the campaign's real antagonist: adored, the
 | 7 | CMP-07-BD | [[After the Last Lantern]] | sworn bond | one-on-one | 0.5 |
 | 8 | CMP-07-A3-O | [[Meran-Style]] | Act III operation | normal party | 0.75 |
 | 9 | CMP-07-A3-F | [[Horn for Leak-Day]] | Act III finale | player and Tavio | 2.25 |
-| 10 | CMP-07-S | [[The Examiner]] | summer coda | normal party or changed encounter | 0.5 |
+| 10 | CMP-07-S | [[The Road Examiner]] | summer coda | normal party or changed encounter | 0.5 |
 
 One playthrough exposes nine non-exclusive pieces and one relationship variant for approximately 10.25 authored hours. Only the three act finales use the fixed duo format.
 
@@ -139,7 +148,9 @@ No threshold requires a faction, relationship, origin, starting vocation, or mor
 
 Tracked campaigns show readiness, intended action, lost rewards, and relationship consequences. Untracked plans remain discoverable through Yard schedules, forge notices, bout bills, Lio's correspondence, and Hammer Ward gossip.
 
-## Deterministic Autonomy
+## Tracked and Engaged Outcomes
+
+These branches apply after the player tracks the campaign, changes Tavio's preparation, or breaks an explicit promise. They do not govern an ignored colleague.
 
 ### Act I
 
@@ -166,17 +177,11 @@ Elara may recover the bookmaker ledger. Zafir may expose the liability structure
 
 Bernard may protect an evacuation lane. Ilyana may carry warning signals. Neither can sound Tavio's moral halt for him.
 
-## Zero-Participation Route
+## Stable-Colleague Route
 
-With no player involvement:
+With no personal engagement, Tavio performs ordinary proof and training under existing Great Forge stop rules. He does not push a secret test, fight Lio, confront Steffen as a claimant, or turn the forge leak into a private proving ground. Those seasonal incidents change through their public authorities.
 
-1. Tavio recalls most unsafe gear but causes one avoidable testing injury.
-2. He fights Lio fairly while accepting sole blame to preserve the Red Brass Bench.
-3. He confronts Steffen alone, is baited into half-accepting the challenge before Hella intervenes, and leaves the pit gear partly recalled and the boy estranged.
-4. He saves the Great Forge only after an external evacuation order.
-5. He becomes a supervised load tester rather than an independent road examiner.
-
-This is a stable compromised outcome, not future-setting canon. Tavio cannot die unseen.
+He reaches summer as a capable Lancewright whose Fifth Ring responsibility and arena future remain unresolved. He is neither a martyr nor a supervised mascot. Changed re-entry uses current equipment, workers, and public standing rather than replaying the expired bout unchanged.
 
 ## Changed Re-entry
 
@@ -186,13 +191,13 @@ Missing Act I opens a winter aftermath around the injured worker, destroyed samp
 
 ### Bout After Snow
 
-Missing Act II opens a spring repudiation aftermath. Tavio may withdraw his sole-blame statement and preserve one witness.
+Missing Act II opens a spring repudiation aftermath built around the filed record, Lio's final terms, and a public proof demonstration rather than a replay of the winter bout. Tavio may withdraw his sole-blame statement, preserve one witness, and complete a rigorous changed field examination that unlocks [[Lancewright]] for the current campaign and account.
 
-It cannot unlock [[Lancewright]], restore Act II progression rewards, or reopen romance and sworn bond. A tracked transition warning states this before confirmation.
+The re-entry cannot restore the winter result, relationship opportunity, Selective Yield reward, or lost public evidence. A tracked transition warning names those time-specific losses before confirmation.
 
 ### Act III
 
-Missing the Act III finale fixes Tavio's autonomous settlement. [[The Examiner]] reflects it without reopening the judgement.
+Missing the Act III finale fixes a settlement only when the player tracked Tavio into a declared forge course and then declined its conclusion. An untracked Tavio reaches summer as a working Lancewright and unresolved colleague. [[The Road Examiner]] reflects whichever state the playthrough actually established.
 
 ## Embedded Opportunities
 

@@ -35,9 +35,9 @@ Grenzburg is the active game project: a silent-protagonist, party-based open-wor
 | Companion campaign shape and party formats | [[Companion Campaign Architecture]] |
 | Companion tracking, autonomy, and act convergence | [[Companion Autonomy and Act Convergence]] |
 | Companion shared history and staging | [[Companion Field Familiarity and Duo Quest Standard]] |
-| Companion emotional engines, ensemble pairs, voice, and rewrite status | [[Companion Archetype Constitution]], [[Companion Ensemble Pair Briefs]], [[Companion Dialogue and Scene Standard]], and [[Companion Emotional Rewrite Audit]] |
+| Companion grounded tone, optional archetype aids, voice, and readiness | [[Companion Grounded Writing Standard]], [[Companion Archetype Constitution]], [[Companion Ensemble Pair Briefs]], [[Companion Dialogue and Scene Standard]], and [[Companion Emotional Rewrite Audit]] |
 | Companion roster, eighty-eight-piece authored register, and seventy-four-piece playthrough ceiling | [[Companions MOC]] and [[Companion Campaign Expansion Register]] |
-| Structurally migrated companion campaigns | [[Elara Companion Campaign]], [[Ilyana Companion Campaign]], [[Ylva Companion Campaign]], [[Bernard Companion Campaign]], and [[Tavio Companion Campaign]] |
+| Eight migrated companion campaigns | [[Companions MOC]] and [[Companion Campaign Expansion Register]] |
 | Faction rules | [[Factions Overview]] |
 | Faction quest register | [[Faction Questlines MOC]] |
 | Narrative variables and settlement matrix | [[Narrative State Register]] |
@@ -73,11 +73,11 @@ Grenzburg is the active game project: a silent-protagonist, party-based open-wor
 | [[Ylva Winter-Track]] | Tomboy | woman | [[Hunter]] - Rescue Scout package | Open Autumn, at Southbound Muster |
 | [[Ashira bath Melan]] | Goth | woman | [[Medium]] | Early Autumn |
 | [[Bernard Valeon]] | Goofball | man | [[Paladin]] | Black Road |
-| [[Dismas Raben]] | Rebel | man | [[Hunter]] pending reassessment | Black Road |
+| [[Dismas Raben]] | Rebel | man | [[Hunter]] - Quarry-Wise variant | Black Road |
 | [[Tavio Meran]] | Jock | man | [[Lancewright]] | Early Autumn |
 | [[Zafir ibn Samad]] | Nerd | man | [[Binder]] | Early Autumn |
 
-The ordinary field party remains the player plus three active companions. Introductions and short operations retain that party with the owner required; each act finale becomes a player-plus-owner duo. Companions follow autonomous schedules and act at the end of every main act even when untracked. A male player may romance women; a female player may romance men. Same-sex paths become sworn bonds with equivalent power. One romance and one sworn bond may be committed in a playthrough.
+The ordinary field party remains the player plus three active companions. Introductions and short operations retain that party with the owner required; each act finale becomes a player-plus-owner duo. Tracked campaigns use act deadlines and changed re-entry. Untracked companions continue stable Blackjack schedules without silently completing or failing their personal campaigns. A male player may romance women; a female player may romance men. Same-sex paths become sworn bonds with equivalent power. One romance and one sworn bond may be committed in a playthrough.
 
 ![[Companions.base]]
 
@@ -151,14 +151,14 @@ Their starting situations remain local canon. Their names, plots, locations, cas
 
 The Heart-Stone theft, Pale-Skin conspiracy, mandatory Bank riders, Leviticus betrayal, Dragon's Tomb finale, and canonical Duke's Peace belong to the archived pre-rebuild campaign. The Heart-Stone's barrow may later become an optional high-level side adventure.
 
-See [[Grenzburg Pre-Game-Constitution Archive Index]], [[Grenzburg Wave 4 Archive Index]], and [[Grenzburg Wave 5 Archive Index]] for preserved treatments.
+See [[Grenzburg Pre-Game-Constitution Archive Index]], [[Grenzburg Pre-Worldspace Archive Index]], [[Grenzburg Pre-Player-Systems Archive Index]], and [[Grounded Companion Recalibration Archive Index]] for preserved treatments.
 
 ## Production Sequence
 
 1. **Game constitution:** complete.
 2. **Worldspace constitution:** complete.
 3. **Player systems:** complete at narrative-constitution level; numerical balance remains provisional.
-4. **Companions and factions:** the eighty-eight-piece authored companion standard and seventy-four-piece playthrough ceiling are locked. All eight character and voice bibles now have distinct emotional engines. Every formal piece has a preserve, reframe, or replace brief. Elara, Ashira, Bernard, and Zafir's forty-four pieces are implementation-ready; the remaining forty-four stay outside those views until their paired rewrites clear emotional, dialogue, and remote-claim status.
+4. **Companions and factions:** the eighty-eight-piece authored companion standard and seventy-four-piece playthrough ceiling are locked. All eight campaigns are production-blocked, grounded, dialogue-approved, and remote-claim compliant. Pair material is now an optional interaction audit rather than the unit of companion development.
 5. **Main campaign:** complete at production-block level; twenty-one chapters and two aftermath quests are wired to controlled state.
 6. **Living world and side content:** allocate identity hooks, systemic encounter decks, marquee stories, local quests, dungeons, hunts, contracts, and jobs without reducing the expanded companion budget.
 7. **Integration:** endings, summer states, intersections, production navigation, and final canon checks.

@@ -1,6 +1,6 @@
 ---
 type: quest
-status: draft
+status: canon
 canon_level: local
 visibility: author-only
 era: ["Present Day"]
@@ -39,18 +39,23 @@ companion_required: "Dismas Raben"
 duo_quest: false
 pause_points: ["Passage Opened", "First Week Held"]
 autonomous_deadline: "Ghor at the Gate"
-autonomous_resolution: "The passage opens brilliantly and runs on Dismas alone until Koss exercises the contract, at which point he cedes the map rather than argue. Two wards keep a route; nobody else can hold it."
+autonomous_resolution: "See Companion Autonomy and Act Convergence; untracked content uses stable-colleague treatment."
 changed_reentry: "The passage survives as a Low Lantern asset with a toll on it, which he did not intend and cannot undo"
 ensemble_inputs: ["Ilyana Veshkar", "Bernard Valeon", "Zafir ibn Samad", "Ylva Winter-Track"]
 identity_hooks: ["Underworld", "Peasant/Labour", "Military", "Drifter/Vagabond"]
+grounded_rewrite_status: approved
+external_stakes: ["underways evacuation artery", "client safety", "ward access", "route maintenance"]
+banter_priority: contextual
+player_interest_gate: none
+missed_arc_treatment: changed-reentry
 emotional_rewrite_status: cleared
-dialogue_status: pending-rewrite
+dialogue_status: approved
 remote_claim_status: compliant
 archetype_pressure: "Opening it is one night. Keeping it is three weeks. Test whether resistance can survive becoming infrastructure."
 emotional_function: "Make maintenance the content, and let containment arrive wearing his own contract."
 pleasure_beat: "A dead tunnel becoming a lifeline, torch discipline, and the smuggler as civic artery."
 care_beat: "He trains people to run the route without him, and stands above ground doing nothing while it works."
-player_archetype_hooks: ["Cheerleader", "Tomboy", "Goth", "Bohemian", "Jock", "Nerd", "Rebel", "Goofball", "Grey"]
+player_archetype_hooks: []
 persistence_scope: district-persistent
 ---
 # Passage
@@ -139,9 +144,11 @@ He experiences it as a kind of death, and the quest offers no consolation: no co
 - Refusing Mara's terms means the route is unprotected when a client is robbed in it, which is recoverable and remembered.
 - If the player never trains anyone, the passage is his and only his, and Act III's network starts from nothing.
 
-## PAIR Note
+## Optional Ilyana Incident
 
-⟨PAIR⟩ The Ilyana winter foil beat — *they create an escape and a shelter; each tries to assign the maintenance to the other; they return together for the boring part* — stages inside or adjacent to this operation. Jointly owned; coordinate with [[Ilyana Rewrite Spec]] when her pass executes.
+If [[Ilyana Veshkar]] is in the field party, she turns the first successful passage into a visible shelter opening so frightened residents know it exists. Dismas objects that music also tells informers where to watch. Both are partly right.
+
+After the crowd leaves, the handoff slate and lamp count remain unfinished. Ilyana starts toward a rehearsal; Dismas starts toward the nearest unrecorded exit. They notice one another leaving, say nothing useful, and return separately. The player finds them arguing over lamp oil while completing the same dull roster. The incident changes their later winter banter but is not required for the passage outcome.
 
 ## Navigation
 

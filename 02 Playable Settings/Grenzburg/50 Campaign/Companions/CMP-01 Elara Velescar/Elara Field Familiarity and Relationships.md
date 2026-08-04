@@ -16,6 +16,7 @@ companion_id: "CMP-01"
 relationship_theme: "adventure between equals"
 relationship_perks: ["Equal Footing", "Witness at My Back"]
 architecture_status: migrated
+grounded_rewrite_status: approved
 ---
 # Elara Field Familiarity and Relationships
 
@@ -87,7 +88,7 @@ Elara's campaign becomes tracked when the player:
 - explicitly promises help with the Virelian property;
 - manually tracks the discovered campaign.
 
-Tracked campaigns appear on act-transition dockets with readiness and consequences. Untracked Elara still acts according to [[Elara Companion Campaign#Deterministic Autonomy|her autonomous route]].
+Tracked campaigns appear on act-transition dockets with readiness and consequences. Untracked Elara follows the [[Elara Companion Campaign#Stable-colleague route|stable-colleague route]] and does not acquire an off-screen moral settlement.
 
 ## Relationship Rhythm
 
@@ -123,6 +124,7 @@ Requirements:
 
 - approval is Trusted;
 - The Wager and Without the Powder were completed without a closed refusal;
+- the player selected the appropriate explicit romance or bond interest signal;
 - no active major conflict;
 - the relevant global relationship slot remains open;
 - `elara_act2_finale_played` is true.
@@ -132,6 +134,8 @@ A male player may enter romance. Elara asks for an equal relationship with no pa
 A female player may form a sworn bond of mutual aid, truthful spoils, and return from danger. The promise creates duty without ownership.
 
 Declining preserves friendship and the complete companion campaign.
+
+Before the explicit signal, Elara's praise, wagers, stylish attention, and shared danger are not flirting. There is no jealousy, sexual teasing, or romance-coded party banter.
 
 If [[The Patron's Cabinet]] resolves autonomously, `elara_relationship_closed` becomes true. [[Elara Companion Campaign#Cabinet After Snow|Cabinet After Snow]] may repair morality and friendship but never reopens romance or sworn bond. The tracked transition warning names this consequence before confirmation.
 
@@ -192,12 +196,12 @@ Only relationship-specific duo moves and permanent perks are exclusive.
 
 ## Outside the Repair Loop
 
-Two relationships in this campaign are deliberately excluded from the conflict-and-repair system, and no approval state, direction, or outcome reaches either:
+Two relationships in this campaign are not ordinary approval levers:
 
-- **[[Perle Winkel]].** After [[Uninvited]] her state is `wounded` and settles at `distant-kind`. There is no repair scene, and the absence is the design. She continues to help, accurately and briefly, which is the cost.
+- **[[Perle Winkel]].** After [[Uninvited]] her state records whether the player joined the joke and whether Elara made one direct apology. Perle may accept practical repair, remain distant, or refuse further personal contact. She never becomes a repeated forgiveness quest or a source of approval farming.
 - **[[Sandro Tessari]].** `sandro_state` never moves. He refuses her coin, her introductions, and her advocacy; he will not testify for her; he performs neither anger nor forgiveness. He is approval-neutral in both directions — nothing the player does with him changes Elara's approval, because he is not a mechanism.
 
-Do not add repair paths, hidden thresholds, or late reconciliations for either.
+Do not add hidden thresholds or late compulsory reconciliations for either.
 
 ## Conflict and Repair
 

@@ -4,20 +4,20 @@ status: canon
 canon_level: local
 visibility: author-only
 era: ["Present Day"]
-region: ["Grenzburg", "Ledger Quays", "Cathedral Close"]
-culture: ["Sermoran", "Eclessian"]
-related_factions: ["Blackjack Corps", "The Salt-Reed Company", "Medori Bank"]
+region: ["Grenzburg", "Ledger Quays", "Tannward", "Longlake Ward"]
+culture: ["Sermoran", "Eclessian", "Folk"]
+related_factions: ["Blackjack Corps", "Church of Grenzburg"]
 appears_in: ["Grenzburg"]
 needs: []
-tags: [narrative-rewrite]
+tags: [companion-campaign]
 quest_class: companion
 act: act-3
 availability_window: ["Open Spring", "Muster Crisis"]
 repeatability: one-shot
-cutoff_result: resolves-offscreen
-world_state_outputs: ["ilyana_releases_protected", "salt_reed_authorship_state", "salt_reed_instrument_state", "mirella_release_state", "nereo_release_state", "celia_release_state", "tomas_release_state", "morante_claim_state"]
-reward_unlocks: ["Partitioned Score", "release authentication"]
-required_locations: ["Customs Hall", "North Quay Warehouses", "Chancery House", "Bridge Vaults"]
+cutoff_result: transforms
+world_state_outputs: ["ilyana_field_cases_state", "ilyana_distributed_score_state", "longlake_signal_case_state", "mercy_signal_case_state", "tannward_signal_case_state", "hammer_signal_case_state", "blackjack_signal_case_state"]
+reward_unlocks: ["Distributed Score", "independent field ensembles"]
+required_locations: ["Blackjack Yard", "Customs Hall", "Tannward", "Ferry Yard", "Bridge Vaults"]
 blocking_status: blocked
 architecture_status: migrated
 companion_content_role: act-operation
@@ -31,128 +31,138 @@ chapter_id: ""
 main_sequence: 0
 story_gate: preparation
 estimated_hours: 0.75
-gameplay_pillars: [escort, investigation, defence, archive-recovery, property-choice]
+gameplay_pillars: [escort, defence, field-testing, traversal, delegation]
 required_states: ["ilyana_act2_chapter_resolved", "open_spring"]
-optional_state_inputs: ["ilyana_instruments_returned", "morante_state", "salt_reed_winter_consent", "ledger_quays_condition", "church_rank", "bank_rank", "underworld_rank"]
+optional_state_inputs: ["ilyana_winter_signal_code", "winter_casualty_refrain_state", "ledger_quays_condition", "tannward_condition", "longlake_ward_condition"]
 field_experience_gate: []
 companion_required: "Ilyana Veshkar"
 duo_quest: false
-pause_points: ["Release Packet Assembled"]
+pause_points: ["Five Cases Assigned"]
 relationship_gate: ""
 relationship_variant: ""
 preparation_inputs: []
 preparation_threshold: ""
 autonomous_deadline: "The Deep Muster"
-autonomous_resolution: "Personal service releases survive, but disputed common repertoire remains under supervised Grenzburg custody"
-changed_reentry: "Lost scores or instruments remain lost; the Act III finale adapts to the surviving release packet"
+autonomous_resolution: "See Companion Autonomy and Act Convergence; untracked content uses stable-colleague treatment."
+changed_reentry: "Surviving district crews build rough replacements; the missed operation does not replay after the dead march."
 ensemble_inputs: ["Zafir ibn Samad", "Elara Velescar", "Ashira bath Melan"]
-identity_hooks: ["Sermoran", "Scholarly", "Merchant/Craft", "Underworld", "Nobility"]
+identity_hooks: ["Sermoran", "Folk", "Scholarly", "Merchant/Craft", "Military", "Peasant/Labour"]
+grounded_rewrite_status: approved
+external_stakes: ["five district evacuation teams", "portable signal equipment", "civilian routes during the dead march", "a score usable after its author leaves"]
+banter_priority: contextual
+player_interest_gate: none
+missed_arc_treatment: changed-reentry
 encounter_deck: ["Grenzburg Spring Dead-March Signs"]
 persistence_scope: city-persistent
 postgame_season: ""
-emotional_rewrite_status: replace
-dialogue_status: pending-rewrite
-archetype_pressure: "Freedom becomes impermanence: test whether Ilyana can sustain a shared work after novelty and sole authorship fade."
-emotional_function: "Replace ownership records with a living creative project that must continue when Ilyana cannot remain its centre"
-pleasure_beat: "Improvised music, novelty, public performance, and turning strangers into a temporary chorus."
-care_beat: "Ilyana makes room for another person's tempo, authorship, continuity, and refusal."
+emotional_rewrite_status: cleared
+dialogue_status: approved
+remote_claim_status: compliant
+archetype_pressure: "Ilyana must release an unfinished work to people who will alter it and receive credit for what they add."
+emotional_function: "Replace archive escort with a living civic project that can continue without Ilyana at its centre."
+pleasure_beat: "Five crews play their incompatible versions at once, producing one terrible minute followed by a surprisingly strong common close."
+care_beat: "Ilyana leaves her best spare mouthpiece in the least prestigious district case without announcing the gift."
 player_archetype_hooks: []
 ---
 # Every Case Its Owner
 
 ## Quest Function
 
-This Act III operation protects the Salt-Reeds' individual release, authorship, and property records before the final emergency can be used to erase them.
+This Act III normal-party operation distributes five portable signal cases before the dead march reaches Grenzburg's northern routes. Each case belongs to the crew that will carry, repair, revise, and use it.
+
+The quest is not an archive hearing. It asks whether a useful creative work can survive its founder's absence.
+
+## The Five Cases
+
+Ilyana has built a modular field score from winter experience. The physical cases contain reeds, bells, chalk, signal cloth, simple tuning plates, repair tools, and one district-specific part.
+
+| Case | Crew | Priority |
+|---|---|---|
+| Longlake | ferrymen and Chapel-Folk road callers | crossing and withdrawal |
+| Mercy | litter teams and carers | casualty pace and route closure |
+| Tannward | wall runners and engineers | breach and fire warnings |
+| Hammer | vent crews and forge hands | heat, gas, and structural danger |
+| Blackjack | mobile recovery teams | rally, search, and extraction |
+
+The crews helped write their parts. Ilyana still calls the whole composition hers in casual speech.
 
 ## Hook
 
-Customs Reader Marta Vell assembles five release packets:
+The first disciplined residue movements enter the city underways while the five cases are due for field delivery. Old cargo marks draw residue toward the Bridge Vaults, and ordinary thieves believe the brass tuning plates can be sold as warlock metal.
 
-- Ilyana's personal liability and Medori surety;
-- Mirella's authorship and scores;
-- Nereo's road accounts and drum;
-- Celia's viol, tools, and unpaid share;
-- Tomas's horn, cadence plates, and credit.
+Neither threat knows or cares about Ilyana's personal history.
 
-A separate packet contains genuinely disputed common property.
+## Beginning: Release the Draft
 
-The first Muster disturbances reach Ledger Quays as the packets are due to move from Customs Hall to Chancery House. Morante's surviving interests attempt substitution and seizure while non-conscious residue follows old cargo-command markings through the Bridge Vaults.
+Each crew requests one final change:
 
-The human seizure and undead movement are independent threats.
+- Longlake wants fewer notes that carry badly over water;
+- Mercy wants authority to stop all music around unstable patients;
+- Tannward wants the fire call separated from the breach call;
+- Hammer wants a visual confirmation for deafened workers;
+- the Blackjacks want a phrase that any frightened recruit can remember.
 
-## Beginning: Five Owners, Five Instructions
+Ilyana can publish the current version, delay for perfection, or let each crew amend its own case. The player can test calls from obstructed positions and identify genuine technical conflicts. No social statistic determines authorship.
 
-Each person gives a separate instruction:
+### Pause Point: Five Cases Assigned
 
-- Mirella prioritizes authorship records.
-- Nereo prioritizes release and wages over the drum.
-- Celia prioritizes the tools that let her work.
-- Tomas prioritizes personal cadence plates and correct credit.
-- Ilyana must decide whether her own release matters more than keeping the company archive together.
+The quest may pause once custody, routes, and revision authority are recorded.
 
-The player may ask for clarification but cannot consolidate the instructions into one company order.
+## Middle: Five Deliveries, Three Routes
 
-## Middle: The Transfer
+The normal party cannot personally carry all five cases. It chooses two direct deliveries and prepares three independent routes.
 
-Routes:
+Approaches include:
 
-- public escorted street transfer;
-- bonded warehouse passage;
-- Bridge Vault service route;
-- Low Lantern substitution counter-operation.
+- public streets with wall protection;
+- the bonded warehouse passage;
+- Bridge Vault service routes;
+- a Low Lantern handoff;
+- boat and ferry transfer.
 
-The normal party protects three moving groups:
+During the operation:
 
-1. people and witnesses;
-2. sealed release packets;
-3. instruments and common cases.
+- residue follows an old portage mark toward whichever case takes the vault route;
+- thieves attempt one brass-plate seizure;
+- a frightened courier deviates from the plan for a valid reason;
+- one district crew changes its call before Ilyana can approve it.
 
-Morante's factor uses convincing duplicate seals. Muster residue follows painted portage symbols and attacks whatever bears the old command mark. Destroying every marked case protects movement but destroys evidence and property.
+Zafir can test release authority, Elara can identify substituted containers, and Ashira can read residue behavior. None becomes the project's owner.
 
-Zafir can expose false delegation. Elara can identify substituted containers. Ashira can distinguish residue behavior from human intent. None decides ownership.
+## End: The Work Continues Elsewhere
 
-### Pause Point: Release Packet Assembled
+At the final delivery, a Muster alarm forces all five crews to answer from different parts of the city. Ilyana hears revisions she did not write and cannot reach three of the teams.
 
-After authenticating the five packets, the quest may pause before the route begins.
+The common close succeeds if custody and safety phrases were clear, even if the performance is untidy. A centralized score sounds cleaner but can fail when Ilyana is interrupted.
 
-## End: Chancery Steps
+Ilyana can:
 
-At Chancery House, the player must keep witnesses alive long enough for individual releases to be entered while:
+- credit each crew and publish a shared technical core;
+- retain her name as principal composer while granting field revision rights;
+- demand approval for every future alteration;
+- reclaim cases whose versions no longer please her.
 
-- human agents attempt to remove the common packet;
-- residue breaks through an old service stair;
-- a damaged instrument case threatens to burn;
-- Ilyana sees a chance to preserve the entire company archive by delaying separate registration.
-
-Three strong route or preparation successes preserve every person, packet, and case. Otherwise priorities follow the owners' recorded instructions.
-
-## Choices
-
-- Register releases individually.
-- Preserve disputed common property for a later hearing.
-- Assign genuinely joint work by documented contribution.
-- Let Ilyana claim the company name or archive.
-- Destroy the disputed packet to end all claims at the cost of authorship evidence.
-- Use emergency ducal custody without converting it into permanent ownership.
+The quest ends on work, not a speech. The Hammer crew asks for a replacement strap and the Mercy team is already using its case.
 
 ## Fail-Forward
 
-- Lost packet: surviving owners testify, but the corresponding Act III asset is weakened.
-- Burned score: credit survives if copied; the music itself is lost.
-- Captured factor: Morante's legal position changes, not the truth of consent.
-- Escaped factor: final opposition gains a human retrieval team.
-- Party defeat: Chancery guards save witnesses after cases and papers are divided.
+- A lost case produces a rough local replacement and weakens one finale asset.
+- Stolen tuning plates create a later black-market encounter.
+- A harmed courier survives but one district route begins late.
+- Residue entering the wrong underpass causes local damage without changing its non-conscious nature.
+- Party defeat saves the crews while two cases and their authored refinements are lost.
 
 ## Rewards
 
-- `ilyana_releases_protected` when all five personal releases enter the register.
-- **Partitioned Score:** identifies which lines of the Last Common Measure belong to whom and permits voluntary assignment.
+- `ilyana_field_cases_state`: distributed, centralized, incomplete, or reclaimed.
+- **Distributed Score:** optional local counter-lines can continue after Ilyana is silenced or displaced.
+- `ilyana_common_score_partitioned` is retained as a compatibility state and now means that the common technical core and local contributions are separately credited.
 - Act III preparation for [[The Last Common Measure]].
 
 ## Navigation
 
 - [[Ilyana Companion Campaign]]
-- [[The Salt-Reed Company]]
-- [[Patron-Captain Caterina Morante]]
+- [[The Free Refrain]]
 - [[The Last Common Measure]]
-- [[Ledger Quays]]
+- [[Grenzburg City Anchor Register#Cross-City Anchors|River Boom Towers]]
+- [[Grenzburg City Districts Overview|Grenzburg City]]

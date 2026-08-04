@@ -33,6 +33,7 @@ debt_manager: "Claims-Factor Marco Bellandi"
 legal_debt_state_key: "zafir_legal_debt_state"
 voice_status: calibrated
 emotional_rewrite_status: bible-locked
+grounded_rewrite_status: approved
 architecture_status: migrated
 remote_claim_status: compliant
 ---
@@ -53,6 +54,16 @@ Zafir establishes worth through systems mastery. He wants to make dangerous rela
 At his best, he gives people technical power hidden behind professional language and sees failures before they become disasters. At his worst, he treats consent as another variable to model, reduces disagreement to incomplete information, and believes an elegant restraint is humane because it has clauses for predictable suffering.
 
 His resolved arc does not make him anti-intellectual, anti-law, or suspicious of every system. He learns that procedure may protect freedom only when the person may refuse the procedure itself.
+
+## Adult-Life Profile
+
+**Professional role.** Zafir is a Binder-jurist, petition reader, mechanism designer, and field analyst. He is formidable in argument and useful in repair. His intelligence is not packaged as harmless eccentricity, and the game never asks the player to mistake a well-explained ownership system for moral ambiguity.
+
+**Ordinary week.** He holds two public reading hours, works one forge or mechanism shift, teaches Karel only by mutual schedule, and reserves time for his own legal defence. He wants a technical practice whose users hold enforceable exits and a reputation strong enough to survive publishing his own errors.
+
+**Local life.** Lucia tests institutional limits. Hella tests material claims. Brina asks whether tired people can use the rights he drafted. Karel has wants, friends, and ambitions unrelated to being Zafir's student. Petitioners may value his explanation or tell him to move the stove.
+
+**Manners and privacy.** Zafir observes formal courtesy, becomes cutting when evidence is falsified, and overexplains when ashamed. He does not lecture every worker or turn every problem into consent vocabulary. Attraction remains unvoiced until the player signals it. If ignored, he continues useful technical work, sometimes makes public errors, and remains morally unresolved without external supervision being imposed as his default destiny.
 
 ## Identity
 
@@ -301,6 +312,8 @@ The rebuilt eleven-piece line must move through:
 ## Relationships
 
 Zafir is heterosexual. A female player may pursue romance; a male player may form the exclusive sworn bond.
+
+Neither path is inferred from technical respect, private consultation, or approval. Before the player chooses an explicit interest signal, Zafir does not flirt, display jealousy, or receive romance-coded party banter.
 
 Romance concerns curiosity, continuity, desire, and being valued when he has not solved anything. Sworn friendship concerns collaborative mastery without one man becoming conductor, owner, or amiable assistant.
 

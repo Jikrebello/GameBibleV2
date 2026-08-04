@@ -31,6 +31,11 @@ chapter_id: ""
 main_sequence: 0
 story_gate: confrontation
 relationship_variant: ""
+grounded_rewrite_status: approved
+external_stakes: ["salvage custody", "crew safety", "winter rescue capacity", "living claims"]
+banter_priority: essential
+player_interest_gate: none
+missed_arc_treatment: changed-reentry
 encounter_deck: []
 postgame_season: ""
 estimated_hours: 1.5
@@ -43,7 +48,7 @@ pause_points: ["Seven Mounds Camp Reached", "Upper Chamber Secured"]
 preparation_inputs: ["elara_mixed_expedition_crew", "elara_southwood_intelligence", "elara_burial_support", "elara_shoring_knowledge", "elara_living_custodians"]
 preparation_threshold: "2 participate; 3 all material objectives; 4 one safeguard"
 autonomous_deadline: "The Last Convoy"
-autonomous_resolution: "Elara saves the workers after chasing proof first; avoidable injuries and a scarred mound remain."
+autonomous_resolution: "See Companion Autonomy and Act Convergence; untracked content uses stable-colleague treatment."
 changed_reentry: "The Scarred Mounds"
 ensemble_inputs: ["Bernard Valeon", "Dismas Raben"]
 identity_hooks: ["Wilderness", "Peasant/Labour", "Folk", "Scholarly", "Merchant/Craft"]
@@ -54,7 +59,7 @@ archetype_pressure: "Current workers may refuse Elara's plan, title, praise, and
 emotional_function: "Make people-before-proof an action decision made among capable adults."
 pleasure_beat: "A dangerous Southwood approach, clever entry, discovery, and Elara in her element."
 care_beat: "Elara follows a worker's stop call and spends the best route on people rather than evidence."
-player_archetype_hooks: ["Cheerleader", "Tomboy", "Goth", "Bohemian", "Jock", "Nerd", "Rebel", "Goofball", "Grey"]
+player_archetype_hooks: []
 persistence_scope: regional-persistent
 ---
 # A House Fed by Bones
@@ -180,7 +185,7 @@ The resolved Act I beat occurs when she accepts that sentence without improving 
 
 Record `seven_mounds_state`, each worker, `southwood_burial_state`, and `elara_direction`.
 
-Unlock **Fault Proven**, Delver-Duelist rapier/pick/dart custom parts, and [[A Better Wager]]. Missing the finale forfeits these rewards.
+Unlock **Fault Proven**, Delver-Duelist rapier/pick/dart custom parts, and [[A Better Wager]]. Missing the finale moves the mechanical unlocks to the changed winter field examination; it does not recreate the rescue or its narrative rewards.
 
 ## Navigation
 

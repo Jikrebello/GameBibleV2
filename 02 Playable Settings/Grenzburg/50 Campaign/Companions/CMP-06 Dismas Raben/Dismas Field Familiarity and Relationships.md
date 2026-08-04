@@ -1,6 +1,6 @@
 ---
 type: mechanic
-status: draft
+status: canon
 canon_level: local
 visibility: author-only
 era: ["Present Day"]
@@ -16,6 +16,9 @@ companion_id: "CMP-06"
 relationship_theme: "a road chosen twice"
 relationship_perks: ["No Escape Route", "No Blind Turn"]
 architecture_status: migrated
+grounded_rewrite_status: approved
+dialogue_status: approved
+player_interest_gate: player-signaled
 ---
 # Dismas Field Familiarity and Relationships
 
@@ -71,14 +74,14 @@ Distinct events only: one of his ten embedded opportunities, a new main or facti
 
 ## Relationship Rhythm
 
-Interest may be expressed early and commits nothing.
+Romantic interest appears only after the player selects an explicit authored signal. Before that choice, Dismas does not flirt, sexualize danger, imply jealousy, or treat private routes as courtship. Trust and attraction remain separate states.
 
-- **After [[The Decorative Fence]]:** the roof-and-breakfast beat. A male player may express deliberate trust; a female player may express attraction; either may keep it ordinary. Writes `dismas_roof_scene`.
+- **After [[The Decorative Fence]]:** the roof-and-breakfast beat. A male player may express deliberate trust. A female player may select the explicit attraction signal or keep it ordinary. Writes `dismas_roof_scene`; attraction additionally writes `dismas_romance_interest_signaled`.
 - **After [[No Railing]]:** the second pre-commitment scene, on the platform, over cards. He tells a story with himself removed from the brave part, and the player may notice out loud.
 
 **Commitment is considered only after personal completion of [[The Name on the Charge]]** — the filing, not the outcome. Requirements: Trusted approval; both interest scenes without a closed refusal; no active major conflict; the relevant global slot open.
 
-- A female player may enter romance: [[The Return Leg]], a route chosen twice.
+- A female player with `dismas_romance_interest_signaled` may enter romance: [[The Return Leg]], a route chosen twice.
 - A male player may form the sworn bond: [[The Missing Queen]], a route cut for no one's enemy.
 
 Declining preserves friendship and the complete campaign. If the Act II finale resolves autonomously, `dismas_relationship_closed` becomes true and **The Unfiled Charge** cannot reopen it.
@@ -118,6 +121,10 @@ Nothing in this system reaches [[Sella Etten]]. Her response is fixed by the fil
 ## Persistence
 
 Relationship perks occupy no vocation or equipment slot and survive his departure or an explicit late sacrifice. Duo moves require him in the active party. Perks are campaign-specific rather than account-wide.
+
+## Chatter Discipline
+
+At Normal frequency, Dismas contributes no more than two ambient exchanges during roughly twenty minutes of uninterrupted travel. He does not nickname every official, answer every danger with a joke, or turn every silence into charm. High frequency draws from additional route, weather, work, and company material. Deaths, funerals, confessions, stealth, major failures, and solemn discoveries impose the global silence lock.
 
 ## Navigation
 

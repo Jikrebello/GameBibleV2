@@ -34,6 +34,7 @@ debt_manager: "Claims-Factor Marco Bellandi"
 legal_debt_state_key: "ilyana_legal_debt_state"
 voice_status: calibrated
 emotional_rewrite_status: bible-locked
+grounded_rewrite_status: approved
 architecture_status: migrated
 ---
 # Ilyana Veshkar
@@ -53,6 +54,16 @@ Ilyana establishes worth through self-creation. She wants to make art, identitie
 At her best, she gives people permission to improvise beyond the role assigned to them. At her worst, she treats continuity as stagnation, refusal as fear, and other people as performers inside the story of freedom she is creating.
 
 Her resolved arc does not make her orderly, cautious, or artistically respectable. She learns that rehearsal, credit, maintenance, and chosen promises can protect invention from becoming one charismatic person's appetite.
+
+## Adult-Life Profile
+
+**Professional role.** Ilyana earns her place as a signal-Bard, crowd coordinator, accompanist, and working musician. Most of her labor is repetition: tuning, copying parts, repairing reeds, rehearsing evacuation calls, carrying benches, and playing the same useful cadence until strangers can follow it under smoke.
+
+**Ordinary week.** She keeps three paid commitments whenever the city permits: a public room, a Mercy drill, and a lesson or rehearsal. A fourth evening belongs to unfinished music rather than an audience. She wants a lawful performance circuit, her own maintained instrument stock, and a reputation for shows that can continue after she leaves town.
+
+**Local life.** Brina makes her close what she opens. Marcellina trusts her in casualty work because Ilyana can hold a rhythm when nobody is applauding. Hella makes her remain through repairs. Mara enjoys her camouflage and refuses to let charm decide who carries criminal risk.
+
+**Manners and privacy.** Ilyana is warm with workers, respectful to a paying host, impatient with officious delay, and quiet around somebody who has clearly refused performance. She does not turn every stranger into an audience or every disagreement into theatre. Attraction remains private until the player expresses interest. If ignored, she rehearses, earns wages, repairs signals, and remains a useful Bard with unresolved claims rather than a failed artist waiting at camp.
 
 ## Identity
 
@@ -271,7 +282,7 @@ She opposes:
 
 ## Companion Campaign Direction
 
-[[Ilyana Companion Campaign]] retains eleven pieces. [[Companion Emotional Rewrite Audit]] replaces the most procedural property stories, while [[Companion Remote Claims Compliance Register]] marks every arrival-dependent stage for migration.
+[[Ilyana Companion Campaign]] retains eleven pieces. Its grounded rewrite replaces arrival-dependent property chapters with Grenzburg road work, winter signal maintenance, civic performance, and a distributed spring field project. Remote claims remain consequential without moving Ilyana's former troupe into the base-game map.
 
 Her campaign must move through:
 
@@ -289,6 +300,8 @@ Her campaign must move through:
 Ilyana is heterosexual. A male player may pursue romance; a female player may form the exclusive sworn bond.
 
 Romance concerns making something private for one listener and negotiating a future that is not another season contract. Sworn friendship concerns equal creation in which neither woman conducts the other.
+
+Neither path is inferred from warmth or approval. Before the player selects an explicit interest signal, Ilyana uses no flirtation, jealousy, suggestive teasing, or romance-coded banter.
 
 Friendship alone can produce her strongest moral outcome.
 
@@ -316,7 +329,7 @@ Their foil must reveal what neither likes to do:
 - **Autumn:** makes the Blackjacks larger than their contracts and confronts the first present refusal.
 - **Winter:** discovers whether repeated service can remain art and whether Mirella may answer without returning.
 - **Spring:** creates work meant to continue without her command.
-- **Summer:** becomes an open-road artist, supervised civic signal-Bard, proprietary company leader, or departed performer according to play.
+- **Summer:** becomes an open-road artist, a bounded civic signal-Bard, a proprietary company leader, or a departed performer according to play.
 
 She cannot die autonomously.
 

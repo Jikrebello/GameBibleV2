@@ -1,6 +1,6 @@
 ---
 type: quest
-status: draft
+status: canon
 canon_level: local
 visibility: author-only
 era: ["Present Day"]
@@ -30,6 +30,11 @@ story_gate: finale
 relationship_variant: ""
 preparation_inputs: ["dismas_guide_network_charter", "dismas_fen_route_marked", "dismas_local_guides_trained", "dismas_depot_manifest_read", "dismas_residue_pattern_sampled"]
 preparation_threshold: "2 participate; 3 all material objectives; 4 one safeguard"
+grounded_rewrite_status: approved
+external_stakes: ["road users", "medicine and supplies", "public passage", "civilian withdrawal"]
+banter_priority: essential
+player_interest_gate: none
+missed_arc_treatment: changed-reentry
 encounter_deck: []
 postgame_season: ""
 estimated_hours: 2.0
@@ -40,18 +45,18 @@ companion_required: "Dismas Raben"
 duo_quest: true
 pause_points: ["First Group Away", "Depot Cleared"]
 autonomous_deadline: "The Deep Muster"
-autonomous_resolution: "He secures the military withdrawal. The civilians reach Fenn Road Exchange late and lighter, two are lost on the fen track, and he takes a sealed specialist commission."
-changed_reentry: "Passing Through Slowly reflects the fixed settlement"
+autonomous_resolution: "See Companion Autonomy and Act Convergence; untracked content uses stable-colleague treatment."
+changed_reentry: "Passing Through Slowly reflects a tracked settlement or Dismas's stable-colleague summer state."
 ensemble_inputs: ["Ylva Winter-Track", "Bernard Valeon", "Ilyana Veshkar"]
 identity_hooks: ["Military", "Wilderness", "Peasant/Labour", "Underworld"]
 emotional_rewrite_status: cleared
-dialogue_status: pending-rewrite
+dialogue_status: approved
 remote_claim_status: compliant
 archetype_pressure: "Three legs, three sincere exits. Nothing contains him and nothing can make him stay."
 emotional_function: "Resolve him through repetition — a road chosen three times, uncoerced."
 pleasure_beat: "Fen craft, a road pattern spoiled rather than fought, and guides he trained leading groups he cannot see."
 care_beat: "He is the last one out, three times, because he decided to be."
-player_archetype_hooks: ["Cheerleader", "Tomboy", "Goth", "Bohemian", "Jock", "Nerd", "Rebel", "Goofball", "Grey"]
+player_archetype_hooks: []
 persistence_scope: regional-milestone
 ---
 # The Road That Answers

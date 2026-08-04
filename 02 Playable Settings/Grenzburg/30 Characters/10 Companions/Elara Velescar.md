@@ -36,6 +36,7 @@ debt_manager: "Claims-Factor Marco Bellandi"
 legal_debt_state_key: "elara_legal_debt_state"
 voice_status: calibrated
 emotional_rewrite_status: bible-locked
+grounded_rewrite_status: approved
 architecture_status: migrated
 ---
 # Elara Velescar
@@ -65,6 +66,16 @@ Elara is a Cheerleader who has annexed the Tomboy's virtues — physical daring,
 She did earn it. She hunted, hosted, repaired, negotiated, and out-worked every idle cousin in her district, and the sabre-right that rewarded her was built on sixty-three households who could not leave. Her competence is real and it is the reason she cannot see the arrangement — a system that recognized her must be a system that recognizes merit.
 
 Under pressure the blend shows: she tightens discipline, controls presentation, and cannot easily tolerate another woman at the centre of a room she assembled.
+
+## Adult-Life Profile
+
+**Professional role.** Elara is a working delver, appraiser, climber, and expedition organizer. She is excellent at reading damaged structures and at making a mixed crew believe difficult work is possible. She is not the automatic leader of every room; Brina, custodians, engineers, and elected crew leads can overrule her.
+
+**Ordinary week.** She spends two mornings appraising Old Market salvage, one afternoon drilling ropes or entries at the Yard, and the remaining available days on surveys. She keeps one evening for clothes, correspondence, and a meal worth dressing for. She wants enough paid work to replace borrowed equipment and establish a respected finder practice that can function when she is absent.
+
+**Local life.** Brina trusts her morale work but checks the arithmetic. Perle enjoys her company until Elara's need for an audience becomes cruel. Sandro refuses relationship altogether. Runa and living custodians can close a site she wants. These people are not stations on a redemption route.
+
+**Manners and privacy.** Elara is formally courteous to officials, direct with crews, protective toward porters, and most dangerous when humiliated in public. She does not flirt by default. Attraction appears only after the player signals it, and even then she keeps it away from the crew board. If ignored, she continues taking legitimate delves, sometimes successfully and sometimes without being the person everyone remembers.
 
 ## Identity
 

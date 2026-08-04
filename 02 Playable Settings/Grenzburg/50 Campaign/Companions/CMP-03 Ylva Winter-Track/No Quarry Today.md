@@ -43,15 +43,21 @@ relationship_variant: ""
 preparation_inputs: []
 preparation_threshold: ""
 autonomous_deadline: ""
-autonomous_resolution: "Ylva runs the course alone and leaves a marked version available for later ambient play"
+autonomous_resolution: "See Companion Autonomy and Act Convergence; untracked content uses stable-colleague treatment."
 changed_reentry: ""
 ensemble_inputs: []
 identity_hooks: ["Ättar", "Wilderness", "Peasant/Labour", "Hunter"]
+grounded_rewrite_status: approved
+external_stakes: ["Ashfield field game", "route marking", "camp meal"]
+banter_priority: optional
+player_interest_gate: none
+missed_arc_treatment: stable-colleague
 encounter_deck: []
 persistence_scope: permanent
 postgame_season: ""
-emotional_rewrite_status: preserve
-dialogue_status: pending-rewrite
+emotional_rewrite_status: cleared
+dialogue_status: approved
+remote_claim_status: compliant
 archetype_pressure: "Competence becomes self-erasure: test whether Ylva accepts shared agency without reading care as confinement."
 emotional_function: "Keep competition, cooking, route play, and a day without a crisis"
 pleasure_beat: "Field competence, open weather, friendly contest, practical food, and quiet work done well."
@@ -73,6 +79,8 @@ After Ylva's Act I chapter resolves or transforms, she asks the player to meet h
 She has marked a half-day course to First Snow Cairn. Her only rule is:
 
 > No quarry today. Nothing has to die for us to know who read the ground.
+
+Two lodge hunters invite the pair to join their evening table. Ylva answers, "We brought food," which sounds like a refusal of their company rather than their stew. She realizes this three steps down the path, considers turning back, and cannot decide whether that would make it worse. The player may laugh, go back with her, or let the moment pass. No approval changes.
 
 ## The Course
 
@@ -100,17 +108,17 @@ The pair shoot at:
 
 Ylva uses her bow. A player without a bow uses a thrown practice weight, a borrowed light bow for this scene, or a vocation-appropriate precision challenge. Results change dialogue only.
 
-### Mark the Return
+### Make Something Useless
 
-Each chooses one point where a tired traveler would need reassurance rather than warning. They make a simple route sign that does not expose a hidden shelter.
+At a sheltered work stump, Ylva produces a small carving knife and two pieces of pale birch. She normally makes pegs, arrow gauges, and spoon blanks. Hidden in the tool roll is a delicate half-finished spoon with a running-wolf pattern too fine for field use.
 
-Ylva admits she is better at marking danger than permission to stop.
+She is embarrassed because the object is decorative, not because carving is feminine or forbidden. The player may carve a spoon, a bad animal, a game token, or another small object. Craft knowledge improves the result; every character can finish something recognizable. Ylva gives blunt technical help and becomes visibly pleased when the player ignores part of it.
 
 ### Cook Without Rationing
 
 At First Snow Cairn they cook flatbread, onions, hard cheese, and tart berries. The player may burn, improve, or faithfully follow Ylva's method.
 
-There is enough food. Ylva still divides it into emergency portions until the player points out that they are already homeward-bound.
+There is enough food. Ylva makes the tart berries into an unexpectedly careful pattern on the bread, then denies that presentation matters while moving one berry twice.
 
 ## Friendly Competition
 
@@ -132,6 +140,8 @@ At the cairn Ylva may discuss:
 - what she enjoys about finding a way through;
 - whether the player likes being needed;
 - what a day without crisis feels like.
+
+She does not volunteer all six topics. The scene selects one or two from current familiarity and then allows work, eating, or silence to carry the rest.
 
 No response locks romance or bond. The player may express interest, friendship, uncertainty, or a wish to keep distance without losing the episode's universal reward.
 

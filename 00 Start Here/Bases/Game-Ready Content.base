@@ -8,6 +8,7 @@ filters:
         - and:
             - 'emotional_rewrite_status == "cleared"'
             - 'dialogue_status == "approved"'
+            - 'grounded_rewrite_status == "approved"'
             - 'remote_claim_status != "pending-migration"'
     - or:
         - appears_in.contains("Grenzburg")
@@ -32,6 +33,8 @@ properties:
     displayName: Dialogue
   remote_claim_status:
     displayName: Remote Claim Status
+  grounded_rewrite_status:
+    displayName: Grounded Rewrite
 views:
   - type: table
     name: Game-Ready Content
@@ -45,3 +48,4 @@ views:
       - emotional_rewrite_status
       - dialogue_status
       - remote_claim_status
+      - grounded_rewrite_status

@@ -16,6 +16,7 @@ architecture_status: migrated
 emotional_rewrite_status: cleared
 dialogue_status: approved
 remote_claim_status: compliant
+grounded_rewrite_status: approved
 ---
 # Ashira Field Familiarity and Relationships
 
@@ -59,6 +60,8 @@ Idling, repeated jobs, and farming the same reaction never count.
 ## Relationship Separation
 
 Ashira is heterosexual.
+
+Relationship commitment also requires an explicit authored player interest signal. Before that signal, Ashira's attention, severity, and private trust are not written as flirtation; there is no jealousy, sexual teasing, or romance-coded party banter.
 
 ### Romance
 
@@ -115,9 +118,9 @@ Major violations include:
 
 Ashira confronts the player with one concrete object, name, or action. Permanent departure requires a visible warning and one repair opportunity. An apology must include changed custody or conduct; elegant agreement is insufficient.
 
-## Temperament Chemistry
+## Optional Temperament Hooks
 
-Every player profile receives authored writing:
+Grey is the controlling baseline. Use these only when a variation makes a particular scene sharper:
 
 - **Cheerleader:** Ashira distrusts easy inclusion and is moved when welcome survives privacy.
 - **Tomboy:** practical trust comes quickly; emotional need may be dismissed as ornamental.
@@ -136,4 +139,3 @@ Every player profile receives authored writing:
 - [[What We Keep Closed]]
 - [[The Puppet Dies Twice]]
 - [[Player Temperament and Chemistry]]
-

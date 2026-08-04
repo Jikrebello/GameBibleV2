@@ -43,15 +43,21 @@ relationship_variant: ""
 preparation_inputs: ["ylva_living_route_atlas", "ylva_tannbruck_scout_post_restored", "ylva_fenn_lantern_fuel", "ylva_last_hearth_relief_roster", "ylva_white_mud_extraction_line"]
 preparation_threshold: "2 join; 3 all material objectives; 4-5 one safeguard"
 autonomous_deadline: "The Deep Muster Main Quest"
-autonomous_resolution: "Other Blackjacks recover Ylva after she tries to hold the final route alone; she becomes a supervised pathfinder"
-changed_reentry: "The Road She Chooses reflects the fixed autonomous settlement"
+autonomous_resolution: "See Companion Autonomy and Act Convergence; untracked content uses stable-colleague treatment."
+changed_reentry: "The Road She Chooses reflects a tracked outcome or Ylva's stable-colleague summer state."
 ensemble_inputs: ["Elara Velescar", "Zafir ibn Samad", "Ilyana Veshkar", "Tavio Meran"]
 identity_hooks: ["Ättar", "Folk", "Military", "Wilderness", "Peasant/Labour", "Mystic/Religious", "Hunter", "Fighter", "Slayer", "Warlock", "Medium", "Bard", "Lancewright", "Paladin", "Binder"]
+grounded_rewrite_status: approved
+external_stakes: ["route safety", "civilian evacuation", "signal infrastructure", "field-arrow supply"]
+banter_priority: essential
+player_interest_gate: none
+missed_arc_treatment: changed-reentry
 encounter_deck: ["Muster residue formation", "black-mud surge", "dead-march siege engine"]
 persistence_scope: permanent
 postgame_season: ""
-emotional_rewrite_status: preserve
-dialogue_status: pending-rewrite
+emotional_rewrite_status: cleared
+dialogue_status: approved
+remote_claim_status: compliant
 archetype_pressure: "Competence becomes self-erasure: test whether Ylva accepts shared agency without reading care as confinement."
 emotional_function: "Keep relief, final-route pressure, and the fully warned sacrifice distinction"
 pleasure_beat: "Field competence, open weather, friendly contest, practical food, and quiet work done well."

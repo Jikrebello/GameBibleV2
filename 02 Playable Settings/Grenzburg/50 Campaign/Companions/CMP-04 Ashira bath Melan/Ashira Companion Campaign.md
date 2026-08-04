@@ -16,10 +16,23 @@ architecture_status: migrated
 emotional_rewrite_status: cleared
 dialogue_status: approved
 remote_claim_status: compliant
+grounded_rewrite_status: approved
+external_stakes: ["protected witness testimony", "captive rescue", "post-breach identification", "Blackjack method safety", "Muster command suppression"]
+banter_priority: contextual
+player_interest_gate: player-signaled
+missed_arc_treatment: changed-reentry
 ---
 # Ashira Companion Campaign
 
 This note controls Ashira's eleven authored pieces, ten-piece playthrough ceiling, three deadlines, preparation, autonomy, changed re-entry, progression, and outcomes. [[Ashira bath Melan]] controls character. [[Ashira Field Familiarity and Relationships]] controls approval and intimacy. [[Ashira Shadow Roster Package]] controls combat.
+
+## Grounded Campaign Identity
+
+Ashira's campaign is recovery work before it is a thesis about likeness. She interviews witnesses, distinguishes signals, protects records, gets evidence wrong, assists people who do not like her, and performs ordinary Medium labor without making every room admire her tolerance for darkness.
+
+The prohibited human roster directly centres [[The Faces She Kept]], [[A Useful Terror]], [[When the Screen Comes Down]], and [[No Human Shadow]]. [[The Room That Answered]], [[What the Ruins Repeated]], and [[Borrowed Faces]] are external investigations whose witnesses and field workers own the practical decisions. [[The Puppet Dies Twice]] remains uncomplicated pleasure.
+
+Ashira gives short operational answers when that is what the situation needs. Her severity is selective, her mistakes have names, and her dark taste is not sexual presentation. Romance remains dormant until a male player explicitly signals interest.
 
 ## Dramatic Promise
 
@@ -119,27 +132,23 @@ Two assets permit participation. Three make every material objective achievable.
 
 Tracked dockets state readiness and closures. Untracked plans remain discoverable in Ashira's screened work area, Neda's recovery board, and conversations.
 
-### Zero-participation route
+### Stable-colleague route
 
-Ashira becomes a contained survivor:
+With no personal engagement, Ashira continues recovery witnessing, restricted archive shifts, and nonhuman Medium work. She does not take the prohibited roster to the Causeway, Yard crisis, or Muster station. It remains sealed under the custody already in force at recruitment, without that custody being presented as reform.
 
-- she saves the Causeway captives but uses one recognizable face after the affected group refuses;
-- she stops the copied winter method by accepting Brina's externally enforced limits;
-- she seals the human roster under divided Blackjack, Church, and civil custody.
+She reaches summer competent, guarded, and unresolved. No recognizable likeness is used merely to generate an off-screen failure, and no supervision is added because the player ignored her. Changed re-entry brings the roster question into a current investigation when the player later engages.
 
-She remains a supervised Blackjack Medium. She cannot die unseen.
+### Tracked and engaged outcomes
 
-With witnessing direction and at least three assets, an autonomous finale can achieve moral success while losing evidence, progression, and relationship rewards. Possessive direction worsens privacy, trust, and roster outcomes without random death.
-
-[[Elara Velescar]] may protect a public witness in autumn, include Ashira without exposing a confidence in winter, and preserve one provenance chain in spring. She cannot decide whether Ashira uses or relinquishes a face.
+Once the campaign is tracked, witnessing direction and preparation can achieve moral success while losing evidence or material advantages. Possessive direction or a broken promise can worsen privacy, trust, and roster outcomes without random death. Other companions may protect witnesses or provenance but cannot decide whether Ashira uses or relinquishes a face.
 
 ## Changed Re-entry
 
 **The Drowned Answer:** missing Act I opens a winter aftermath at a flooded Causeway annex. Captives are already recovered or lost according to autonomy; the player can repair privacy harm and recover a nonhuman substitute, not replay the rescue.
 
-**After the Screen:** missing Act II opens a spring restitution encounter around copied Yard notes. It can restore company trust and contain a method. It cannot reopen romance, bond, or the missed progression reward.
+**After the Screen:** missing Act II opens a spring containment job around copied Yard notes and a current recovery team. It can restore company trust and grant **Witness Circle** through changed field practice. It does not reopen the time-specific romance or bond opportunity.
 
-Missing Act III fixes roster custody and summer destination.
+Missing Act III fixes roster custody and summer destination only for a tracked campaign with a declared course. An untracked Ashira reaches summer as a stable, unresolved colleague under the recruitment custody already in force.
 
 ## Progression
 

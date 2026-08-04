@@ -43,15 +43,21 @@ relationship_variant: ""
 preparation_inputs: []
 preparation_threshold: ""
 autonomous_deadline: ""
-autonomous_resolution: "The coda displays Ylva's fixed autonomous settlement"
+autonomous_resolution: "See Companion Autonomy and Act Convergence; untracked content uses stable-colleague treatment."
 changed_reentry: ""
 ensemble_inputs: ["Quartermaster Brina Kest", "Tavio Meran", "Dismas Raben"]
 identity_hooks: ["Ättar", "Folk", "Military", "Wilderness", "Peasant/Labour", "Hunter"]
+grounded_rewrite_status: approved
+external_stakes: ["summer pathfinder assignment", "public route condition", "contract terms"]
+banter_priority: contextual
+player_interest_gate: none
+missed_arc_treatment: not-applicable
 encounter_deck: []
 persistence_scope: postgame-permanent
 postgame_season: summer
-emotional_rewrite_status: preserve
-dialogue_status: pending-rewrite
+emotional_rewrite_status: cleared
+dialogue_status: approved
+remote_claim_status: compliant
 archetype_pressure: "Competence becomes self-erasure: test whether Ylva accepts shared agency without reading care as confinement."
 emotional_function: "Keep the settled pathfinder outcomes and visible consequence of accepting or rejecting relief"
 pleasure_beat: "Field competence, open weather, friendly contest, practical food, and quiet work done well."
@@ -149,7 +155,7 @@ Ylva remains at her settled destination through sequential postwar seasons and g
 - Ylva's postwar routine, if alive and available.
 - route jobs appropriate to surviving settlements and organizations.
 
-No coda reward replaces a missed recipe, relationship episode, or Act III resolution.
+The coda does not recreate a missed relationship episode or Act III resolution. Practical field-arrow recipes remain available through Ylva's changed field tests and ordinary postwar trainer practice rather than being lost through inattention.
 
 ## Navigation
 

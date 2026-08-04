@@ -43,15 +43,21 @@ relationship_variant: ""
 preparation_inputs: []
 preparation_threshold: ""
 autonomous_deadline: "The Last Convoy"
-autonomous_resolution: "Ilyana recovers four cases, conceals the forged delegation, and loses the fifth case and its ownership roll"
+autonomous_resolution: "See Companion Autonomy and Act Convergence; untracked content uses stable-colleague treatment."
 changed_reentry: "The missing case and forgery surface through the Act I aftermath without restoring this quest's rewards"
 ensemble_inputs: ["Elara Velescar", "Zafir ibn Samad", "Dismas Raben"]
 identity_hooks: ["Sermoran", "Merchant/Craft", "Underworld", "Scholarly"]
+grounded_rewrite_status: approved
+external_stakes: ["working instruments", "road and ferry safety", "casualty signals", "civic performance"]
+banter_priority: contextual
+player_interest_gate: none
+missed_arc_treatment: changed-reentry
 encounter_deck: []
 persistence_scope: city-persistent
 postgame_season: ""
-emotional_rewrite_status: reframe
-dialogue_status: pending-rewrite
+emotional_rewrite_status: cleared
+dialogue_status: approved
+remote_claim_status: compliant
 archetype_pressure: "Freedom becomes impermanence: test whether Ilyana can sustain a shared work after novelty and sole authorship fade."
 emotional_function: "Keep instruments and forged authority; let Ilyana turn a customs crisis into a dazzling introduction before the cost of speaking for others appears"
 pleasure_beat: "Improvised music, novelty, public performance, and turning strangers into a temporary chorus."
@@ -72,10 +78,11 @@ Ilyana recognizes the cases and initially says only that they belonged to her ol
 
 ## Principal Cast
 
-- [[Ilyana Veshkar]]: wants the cases secured before their owners arrive and fears the documents inside.
+- [[Ilyana Veshkar]]: wants the cases secured before their remote custody instructions are read and fears the documents inside.
 - **Marta Vell:** customs reader protecting property without treating Morante's paper as automatically true.
 - **Pell One-Thumb:** quay porter who stole the lightest case expecting jewels and becomes trapped by professional smugglers.
-- [[Patron-Captain Caterina Morante]]: present through a factor or letter; her physical presence is not required.
+- [[Claims-Factor Marco Bellandi]]: verifies the competing claims and authenticated owner instructions without deciding Ilyana's moral standing.
+- [[Patron-Captain Caterina Morante]]: present only through the lodged remote claim.
 
 ## Beginning: The Examination Floor
 
@@ -136,7 +143,7 @@ Strong positioning can preserve all four. Failure costs evidence, property, inju
 
 The final customs decision records each case separately. The player can support:
 
-- individual protective custody until each owner arrives;
+- individual protective custody followed by shipment to each owner's named destination;
 - temporary neutral customs custody;
 - Morante's bounded claim to genuinely disputed common property;
 - or Ilyana's attempt to take everything as company leader.

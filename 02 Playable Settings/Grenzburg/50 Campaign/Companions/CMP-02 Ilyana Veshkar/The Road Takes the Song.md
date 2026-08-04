@@ -43,15 +43,21 @@ relationship_variant: ""
 preparation_inputs: []
 preparation_threshold: ""
 autonomous_deadline: ""
-autonomous_resolution: "The coda appears as a changed encounter at Ilyana's settled destination"
+autonomous_resolution: "See Companion Autonomy and Act Convergence; untracked content uses stable-colleague treatment."
 changed_reentry: ""
 ensemble_inputs: []
 identity_hooks: ["Sermoran", "Folk", "Drifter/Vagabond", "Peasant/Labour"]
+grounded_rewrite_status: approved
+external_stakes: ["summer signal-Bard work", "public repertoire custody", "road performance"]
+banter_priority: contextual
+player_interest_gate: none
+missed_arc_treatment: not-applicable
 encounter_deck: []
 persistence_scope: postgame-persistent
 postgame_season: summer
-emotional_rewrite_status: preserve
-dialogue_status: pending-rewrite
+emotional_rewrite_status: cleared
+dialogue_status: approved
+remote_claim_status: compliant
 archetype_pressure: "Freedom becomes impermanence: test whether Ilyana can sustain a shared work after novelty and sole authorship fade."
 emotional_function: "Keep an open-road future that reflects whether commitment became continuity or supervision"
 pleasure_beat: "Improvised music, novelty, public performance, and turning strangers into a temporary chorus."
@@ -122,4 +128,3 @@ The player can answer the final cadence, listen, or let the road carry it beyond
 - [[The Last Common Measure]]
 - [[Postgame Reconstruction Cycle]]
 - [[The First Summer Road]]
-

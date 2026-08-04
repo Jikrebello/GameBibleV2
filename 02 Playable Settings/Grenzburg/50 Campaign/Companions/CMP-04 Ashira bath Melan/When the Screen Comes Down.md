@@ -31,6 +31,11 @@ chapter_id: ""
 main_sequence: 0
 story_gate: confrontation
 relationship_variant: ""
+grounded_rewrite_status: approved
+external_stakes: ["witness safety", "captive rescue", "casualty identification", "field-method control"]
+banter_priority: essential
+player_interest_gate: none
+missed_arc_treatment: changed-reentry
 encounter_deck: []
 postgame_season: ""
 estimated_hours: 1.5
@@ -43,7 +48,7 @@ pause_points: ["Yard Evacuated", "Quarry Route Open"]
 preparation_inputs: ["ashira_breach_casualty_map", "ashira_missing_blackjacks_identified", "ashira_brina_stop_authority", "ashira_private_identification_protocol", "ashira_quarry_shadow_route"]
 preparation_threshold: "2 participate; 3 all material objectives; 4 one safeguard"
 autonomous_deadline: "Ghor at the Gate"
-autonomous_resolution: "Ashira saves the trapped debtors under Brina's imposed custody and accepts supervision without surrendering the roster."
+autonomous_resolution: "See Companion Autonomy and Act Convergence; untracked content uses stable-colleague treatment."
 changed_reentry: "After the Screen"
 ensemble_inputs: ["Elara Velescar"]
 identity_hooks: ["Underworld", "Military", "Scholarly", "Peasant/Labour"]
@@ -54,7 +59,7 @@ archetype_pressure: "Ashira must reveal enough of her method to seek help withou
 emotional_function: "Make connection and bounded disclosure necessary to save the people who currently know her."
 pleasure_beat: "Defending the Yard, navigating shadowed quarry machinery, and coordinating a precise two-person rescue."
 care_beat: "Let debtors stop the use of their likeness and still receive rescue."
-player_archetype_hooks: ["Cheerleader", "Tomboy", "Goth", "Bohemian", "Jock", "Nerd", "Rebel", "Goofball", "Grey"]
+player_archetype_hooks: []
 persistence_scope: district-persistent
 ---
 # When the Screen Comes Down
@@ -122,7 +127,7 @@ No one asks her to renounce Medium practice.
 
 Record `yard_screen_state`, `copied_imprint_method_state`, individual captives, `ashira_act2_resolution`, and `ashira_direction`.
 
-Unlock **Witness Circle** and the relationship commitment conversation. Missing the finale permanently closes romance, bond, and the reward for that playthrough.
+Unlock **Witness Circle** and, after a prior explicit player interest signal, the appropriate relationship commitment conversation. Missing the finale closes the time-specific relationship opportunity; **Witness Circle** remains available through the changed spring field job.
 
 ## Navigation
 

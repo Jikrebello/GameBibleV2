@@ -38,20 +38,26 @@ field_experience_gate: ["two Act II preparation assets"]
 companion_required: "Ylva Winter-Track"
 duo_quest: true
 pause_points: ["West Reed Group Reached", "Second Ice Lane Opened"]
-relationship_gate: ""
+relationship_gate: "No relationship required; commitment requires Trusted approval and a prior player interest signal"
 relationship_variant: ""
 preparation_inputs: ["ylva_lantern_ward_signal_chain", "ylva_western_breach_route_known", "ylva_longlake_ice_soundings", "ylva_winter_field_arrow_stock", "ylva_receiving_shelters_staffed"]
 preparation_threshold: "2 join; 3 all material objectives; 4-5 one safeguard"
 autonomous_deadline: "Ghor at the Gate"
-autonomous_resolution: "Ylva saves the evacuees but signs the abandoned freight into her own debt"
+autonomous_resolution: "See Companion Autonomy and Act Convergence; untracked content uses stable-colleague treatment."
 changed_reentry: "Ice After Thaw"
 ensemble_inputs: ["Ilyana Veshkar", "Tavio Meran"]
 identity_hooks: ["Ättar", "Folk", "Military", "Wilderness", "Peasant/Labour", "Hunter", "Fighter", "Slayer", "Warlock", "Medium", "Bard"]
+grounded_rewrite_status: approved
+external_stakes: ["twenty-eight evacuees", "Longlake food and medicine", "West Reed Ferry", "the safety of receiving crews"]
+banter_priority: essential
+player_interest_gate: player-signaled
+missed_arc_treatment: changed-reentry
 encounter_deck: ["Grobi ice skirmishers", "winter evacuation", "breaking lake ice"]
 persistence_scope: seasonal-milestone
 postgame_season: ""
-emotional_rewrite_status: preserve
-dialogue_status: pending-rewrite
+emotional_rewrite_status: cleared
+dialogue_status: approved
+remote_claim_status: compliant
 archetype_pressure: "Competence becomes self-erasure: test whether Ylva accepts shared agency without reading care as confinement."
 emotional_function: "Keep distributed risk, abandoned cargo, and the refusal of sole liability"
 pleasure_beat: "Field competence, open weather, friendly contest, practical food, and quiet work done well."
@@ -126,7 +132,7 @@ With three preparation assets and strong play, every person, medicine, and essen
 
 ## Distant Choice
 
-One receiving team reports a new crack and asks whether it should remain in place or withdraw.
+One receiving team reports a new crack and asks whether it should remain in place or withdraw. Its lead, **Holger Nett**, is a Longlake fishmonger with an old knee injury and four exhausted shop apprentices on his rope.
 
 Ylva initially attempts to order them to stay while withholding the full reading. The player may insist that the team receive:
 
@@ -137,6 +143,10 @@ Ylva initially attempts to order them to stay while withholding the full reading
 - and authority to choose.
 
 The team's informed decision varies with trust and preparation. They may hold, relocate, or create a third receiving point. Respecting that choice moves Ylva toward shared even when it costs time or stores.
+
+If Holger chooses to pull back, Ylva calls it early and contemptuously refers to him as a shopkeeper rather than a line hand. She is not merely afraid of accepting care here; she genuinely underrates someone outside her ideal of field competence. Holger may be overcautious, but his apprentices are near exhaustion. A forced hold preserves more food and causes one avoidable cold injury. A withdrawal loses cargo and preserves the crew. Strong preparation opens a third position.
+
+Ylva's contempt has a practical consequence: Holger may refuse her later hand signal and wait for the player or shore captain to confirm it. Repair comes through accurate work and an unqualified apology, not a debate about both sides.
 
 ## The Break
 
@@ -182,9 +192,9 @@ Ylva must agree not to sign alone. The player cannot secretly fix this after she
 
 ## End
 
-Ylva assesses the receiving shelters and sees other teams continue the work without her. If Trusted and personally accompanied, she opens relationship commitment at the next safe hub.
+Ylva checks the shelter doors, counts the litters twice, and starts back toward the ice until Holger points to the relief name already written beside hers. She either hands over the sounding pole or keeps it and takes a second shift.
 
-The scene states plainly that the player did not "save" her from being competent. They required her to include herself in the rescue plan.
+If Trusted, personally accompanied, and previously given an explicit player interest signal, the appropriate relationship commitment may open at the next safe hub. Otherwise the follow-up remains professional or friendly.
 
 ## Fail-Forward
 

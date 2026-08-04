@@ -1,6 +1,6 @@
 ---
 type: quest
-status: draft
+status: canon
 canon_level: local
 visibility: author-only
 era: ["Present Day"]
@@ -37,17 +37,22 @@ duo_quest: false
 pause_points: []
 relationship_gate: "Male player; dismas_relationship_commitment: bond-committed"
 autonomous_deadline: "The Deep Muster"
-autonomous_resolution: "The episode closes without relationship penalty; its upgrade and safeguard are not earned"
+autonomous_resolution: "See Companion Autonomy and Act Convergence; untracked content uses stable-colleague treatment."
 changed_reentry: "Summer dialogue acknowledges the uncut route without replaying it"
 persistence_scope: character-persistent
+grounded_rewrite_status: approved
+external_stakes: ["Cold Spring Cut", "carter travel time", "public route-keeping rules"]
+banter_priority: private
+player_interest_gate: committed-bond
+missed_arc_treatment: closes-transient-event
 emotional_rewrite_status: cleared
-dialogue_status: pending-rewrite
+dialogue_status: approved
 remote_claim_status: compliant
 archetype_pressure: "A positive shared object that survives after the authority they opposed is gone."
 emotional_function: "Cut a route against nobody, and give away the card he has kept out of every game."
 pleasure_beat: "Two men with billhooks, a spring nobody has mapped, and half a day saved for strangers forever."
 care_beat: "Call me back; I will come. Said once, in daylight, with a tool in each hand."
-player_archetype_hooks: ["Jock", "Nerd", "Rebel", "Goofball", "Grey"]
+player_archetype_hooks: []
 ---
 # The Missing Queen
 

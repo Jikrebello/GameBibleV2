@@ -9,122 +9,51 @@ culture: []
 related_factions: ["Blackjack Corps"]
 appears_in: ["Grenzburg"]
 needs: []
+grounded_rewrite_status: approved
 tags: [game-ready, narrative-design, companion-control]
 ---
 # Companion Archetype Constitution
 
-This note controls the emotional first read, durable appeal, moral shadow, and preserving transformation of Grenzburg's eight companions. [[eight_character_archetypes_complete_reference]] is the research source; this note is the game-specific authority.
+Archetypes are private diagnostic tools. They help a writer identify appetite, pride, fear, care, and characteristic mistakes. They do not control quest count, dialogue frequency, attraction, intelligence, virtue, or who a character is allowed to become.
 
-## Governing Principle
+[[eight_character_archetypes_complete_reference]] remains a research source. [[Companion Grounded Writing Standard]] overrides it wherever archetypal symmetry would make a companion thinner or less socially credible.
 
-An archetype is a dramatic operating system, not a costume, personality test, biological essence, or complete human being.
+## Backstage Assignment
 
-Every companion must establish:
+| Companion | Initial shorthand | What must survive | What must not take over |
+|---|---|---|---|
+| [[Elara Velescar]] | social captain | courage, appetite for discovery, morale, and social organization | making every room, friendship, or success orbit her |
+| [[Ilyana Veshkar]] | bohemian performer | musical invention, invitation, sensual attention, and creative nerve | performed spontaneity, compulsory charm, or treating continuity as beneath her |
+| [[Ylva Winter-Track]] | practical tomboy | physical competence, freedom, reserve, and unsentimental care | one repeated lesson about sharing burdens or proving toughness |
+| [[Ashira bath Melan]] | severe goth | curiosity about forbidden truth, privacy, dark taste, and exact witness | erotic branding, contempt as a default, or ontology lectures |
+| [[Bernard Valeon]] | warm oddball | hospitality, faith, bodily courage, and humor that makes room | charm functioning as acquittal or a joke ending every serious beat |
+| [[Dismas Raben]] | lovable rebel | refusal, mobility, criminal intelligence, and unadvertised loyalty | rebellion becoming moral superiority or charisma erasing casualties |
+| [[Tavio Meran]] | public athlete | competition, team courage, training, and pleasure in embodied skill | constant performance, sexualized physicality, or victory as his only language |
+| [[Zafir ibn Samad]] | exacting intellectual | technical delight, law, memory, and formidable argument | quirky-nerd performance, technocratic lectures, or reducing people to case studies |
 
-1. the form of freedom or worth they pursue;
-2. the proof by which they believe that worth is recognized;
-3. the humiliation they cannot easily bear;
-4. the way they show care before they can speak it;
-5. the shadow produced when their gift becomes an entitlement;
-6. a lesson that preserves their gift instead of sanding them into the same reasonable person.
+## Use Test
 
-The player should understand a companion's archetype during the first meaningful outing. Later material complicates that first read without revealing that it was false.
+An archetype may influence a scene only when it answers a concrete question:
 
-## Ensemble Assignment
+- What does this person want right now?
+- What do they notice because of their life and work?
+- What humiliation changes their conduct?
+- How do they help without explaining themselves?
+- What conviction makes compromise difficult?
 
-| Companion | Archetype | Desired worth | Proof or currency | Feared humiliation | Care language | Shadow | Preserving lesson |
-|---|---|---|---|---|---|---|---|
-| [[Elara Velescar]] | Cheerleader → Tomboy (Athletic Social Captain) | exemplary belonging and social influence | being able to gather, name, celebrate, and mobilize a room | public exclusion, irrelevance, or being revealed as ornamental | introductions, public advocacy, morale, praise, and making an occasion | treating popularity as virtue and curating inconvenient people out of the story | belonging becomes durable when social power is shared |
-| [[Ylva Winter-Track]] | Tomboy | freedom through practical competence | being trusted with difficult work and bodily risk | pity, confinement, patronization, or visible uselessness | intervention, repair, warning, food, and standing the hard watch | contempt for dependence and the belief that only the self-sufficient deserve agency | vulnerability does not place her in anyone's custody |
-| [[Ashira bath Melan]] | Goth | truth and recognition outside ordinary approval | seeing what others hide and being trusted with what frightens them | assimilation, sentimental correction, or exposure as someone who wants ordinary tenderness | confidentiality, precise recognition, witness, and staying beside grief | gatekeeping truth, romanticizing damage, and appropriating private pain | intimacy can preserve strangeness without possessing another person's grief |
-| [[Ilyana Veshkar]] | Bohemian | freedom through self-creation and possibility | making new beauty, identities, and emotional permission | routine, possession, creative redundancy, or becoming someone else's ornament | imaginative attention, invitation, improvisation, and giving others permission to try | treating promises, maintenance, and other people's limits as enemies of inspiration | chosen commitment protects freedom from becoming drift |
-| [[Bernard Valeon]] | Goofball → Jock (Hidden Heavyweight) | worth through warmth, play, and resilience | making fear bearable and people glad he is present | the silence after the joke, when others may judge or discard him | food, stories, absurd rituals, practical kindness, and affectionate teasing | evasion, irresponsibility, and using charm to hurry past accountability | responsibility does not kill joy, and seriousness does not end love |
-| [[Dismas Raben]] | Rebel → Goofball (Lovable Rogue) | worth through refusal and self-direction | acting without permission where compromised institutions will not | ownership, containment, obedience, or becoming respectable at the cost of truth | illicit help, escape routes, risks taken against power, and unadvertised loyalty | abandonment, contempt for maintenance, and leaving others to inherit the aftermath | commitment can remain free when it is repeatedly chosen |
-| [[Zafir ibn Samad]] | Nerd | worth through systems mastery and exact understanding | solving what others cannot and being correct for reasons he can demonstrate | public error, ridicule, helplessness, or being treated as merely useful | explanation, repair, preparation, remembering details, and building tools | condescension, technocracy, and treating people as variables in a beautiful model | knowledge serves people best when it cannot overrule their personhood |
-| [[Tavio Meran]] | Jock → Goofball (Lovable Captain) | worth through embodied excellence, duty, and visible performance | fair victory, team trust, courage under pressure, and public standards | weakness, replacement, cowardice, or a defeat that changes how the crowd sees him | protection, training, showing up, shared exertion, and public encouragement | domination, rank as virtue, and making another person's body part of his wager | vulnerability is compatible with excellence and competition |
-
-## Ensemble Functions
-
-- **Elara** is the social coordinator. She notices who is outside the circle and has the power either to invite or to exclude.
-- **Ylva** is the direct operator. She converts danger into tasks, routes, and actions.
-- **Ashira** is the shadow-reader. She notices suppressed grief, taboo knowledge, and false consolation.
-- **Ilyana** is the re-enchanter. She supplies possibility, improvisation, art, and emotional permission.
-- **Bernard** is the humanizer. He releases shame and tension without pretending suffering is unreal.
-- **Dismas** is the boundary-breaker. He recognizes fraudulent rules and acts beyond permission.
-- **Zafir** is the systems analyst. He remembers, models, tests, and explains.
-- **Tavio** is the captain. He turns effort into a shared performance and gives courage a public form.
-
-No companion owns an entire moral or practical domain. Ylva may be intellectually rigorous, Zafir physically courageous, Tavio socially perceptive, and Elara willing to work with her hands. Archetype determines habitual proof of worth, not the limit of competence.
-
-## Principal Foils
-
-### Elara and Ashira
-
-Elara understands ordinary belonging; Ashira distrusts what ordinary belonging hides. Elara can give Ashira social cover without normalizing her. Ashira can tell Elara when inclusion has become curation. Their friendship fails when Elara treats Ashira as an exotic guest or Ashira treats every public kindness as hypocrisy.
-
-### Ylva and Tavio
-
-Competence recognizes competence. Ylva respects Tavio's willingness to train in public; Tavio recognizes the athletic intelligence inside her fieldcraft. Their danger is permanent competition: he may mistake visibility for leadership, while she may treat every offer of help as a rank challenge.
-
-### Ilyana and Dismas
-
-Freedom recognizes freedom. Ilyana gives refusal a culture and a future; Dismas gives invention nerve. Their danger is infrastructure. Both are tempted to leave when maintenance, apology, or ordinary repetition begins.
-
-### Bernard and Zafir
-
-Zafir makes chaos intelligible; Bernard makes intelligence enjoyable. Bernard can interrupt a cruel abstraction without humiliating Zafir. Zafir can take Bernard seriously after the room stops laughing. Their friendship fails if Zafir treats him as an amiable fool or Bernard makes expertise into a punchline.
+If the label merely predicts a quip, romance beat, moral lesson, or pairing, do not use it.
 
 ## Present-First Rule
 
-Grenzburg is not a reunion point for eight foreign supporting casts.
+The first meaningful impression comes from current work in Grenzburg. Backstory explains habits later. Every companion requires independent routines, local relationships, material concerns, and a credible day when the player is absent.
 
-- No person from a companion's former life physically enters the base-game worldspace.
-- Past figures remain real through correspondence, remote testimony, rejected contact, agents, records, silence, and settlement instructions.
-- A remote figure may refuse forgiveness, contact, or proposed terms without appearing for the companion's dramatic convenience.
-- [[Claims-Factor Marco Bellandi]] administers all eight local portfolios but cannot decide moral resolution.
-- Legal debt status and companion direction are separate state families.
-- Each companion bible requires at least three present-day Grenzburg relationships that exist independently of the player.
+## Pairing Boundary
 
-[[Companion Remote Claims Compliance Register]] identifies later campaigns that still require scene-level migration.
-
-## Story Balance
-
-Across ambient dialogue and reactive scenes:
-
-- no more than one third may directly concern the companion's original wrong;
-- at least one third must show appetite, humor, competence, curiosity, affection, taste, or ordinary irritation;
-- the remainder may cover world events, factions, relationships, fear, conflict, and growth.
-
-Every companion campaign must contain:
-
-- an attractive expression of the archetype before its shadow is prosecuted;
-- a pleasure scene with no villain or moral exam;
-- a public embarrassment or loss the companion cannot solve through competence alone;
-- a care scene in which the companion helps someone without making the act about themselves;
-- a scene in which their archetypal gift is genuinely the right answer;
-- a climax that pressures the shadow without requiring rejection of the gift;
-- an ending in which the resolved companion remains unmistakably the same archetype.
-
-## Relationship Rule
-
-[[Player Temperament and Chemistry]] changes the form of recognition, friction, affection, and problem solving. It does not make one player temperament the companion's correct answer.
-
-- Similarity creates recognition and rivalry.
-- Contrast creates access to a neglected part of the self.
-- Approval continues to judge conduct and trust.
-- Virtue and sin continue to judge repeated moral direction.
-- Romance adds embodied attraction, exclusivity, and future negotiation.
-- Sworn bonds retain a distinct shared undertaking and never function as romance with different pronouns.
-- Grey players receive complete baseline relationships.
-
-## Production Gate
-
-A companion note is not emotionally production-ready until it passes [[Companion Dialogue and Scene Standard]] and its campaign pieces receive a disposition in [[Companion Emotional Rewrite Audit]].
+Foils are checked only after each individual character works alone. Pair scenes require a shared task, place, person, or disagreement. No pair is written as two archetypes completing a balanced debate.
 
 ## Navigation
 
-- [[Companions MOC]]
-- [[Companion Constitution]]
+- [[Companion Grounded Writing Standard]]
 - [[Companion Archetype Chemistry Matrix]]
-- [[Companion Campaign Expansion Register]]
-- [[Player Temperament and Chemistry]]
+- [[Companion Dialogue and Scene Standard]]
+- [[Companion Constitution]]

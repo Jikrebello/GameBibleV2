@@ -70,4 +70,3 @@ Use this as the main doorway into the world bible.
 ## Archive and Provenance
 
 - [[Archive Index]]
-- [[Physical Reorganization Manifest]]

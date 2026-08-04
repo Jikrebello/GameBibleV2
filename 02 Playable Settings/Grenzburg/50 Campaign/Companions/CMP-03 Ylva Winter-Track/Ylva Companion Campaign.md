@@ -13,16 +13,25 @@ aliases: ["CMP-03 Campaign"]
 tags: [production-control, narrative-rewrite]
 companion_id: "CMP-03"
 architecture_status: migrated
-emotional_rewrite_status: pending-paired-pass
-dialogue_status: pending-rewrite
+emotional_rewrite_status: cleared
+dialogue_status: approved
+grounded_rewrite_status: approved
+external_stakes: ["south-road safety", "civilian evacuation", "signal infrastructure", "field-arrow supply", "dead-march extraction"]
+banter_priority: contextual
+player_interest_gate: player-signaled
+missed_arc_treatment: changed-reentry
 ---
 # Ylva Companion Campaign
-
-This note remains the structural authority for Ylva's sequence, deadlines, preparation, autonomy, and rewards. [[Companion Emotional Rewrite Audit]] now supersedes its scene-level emotional assumptions. It is not implementation-ready until the Ylva-Tavio paired pass clears its emotional and dialogue status.
 
 This is the controlling authority for Ylva Winter-Track's eleven authored pieces, ten-piece playthrough ceiling, preparation ladders, deterministic autonomy, changed re-entry, progression, and outcomes.
 
 [[Ylva Winter-Track]] controls character canon. [[Ylva Field Familiarity and Relationships]] controls approval and intimacy. [[Ylva Rescue Hunter Package]] controls companion combat. [[Hunter]] controls the shared vocation.
+
+## Grounded Campaign Identity
+
+Ylva's work remains rescue and route craft, but the campaign no longer repeats one test of self-sacrifice. [[A Signal Shared]] makes her patronize a less experienced operator whose field judgement proves necessary. [[Signals Over Lantern Ward]] makes one of her route calls materially wrong while a local station-holder is right. [[What the Ice Takes]] confronts her contempt for somebody who withdraws earlier than she would. [[Routes for the Living]] tests teaching rather than another mapping exercise.
+
+Only the introduction and three act finales primarily centre her personal fault. [[No Quarry Today]] preserves beauty, competition, food, and the carved spoon without crisis. Romance remains inactive until a male player explicitly signals it.
 
 ## Campaign Thesis
 
@@ -130,7 +139,9 @@ No threshold requires a faction, relationship, origin, starting vocation, or mor
 
 Tracked campaigns show intended action, readiness, missing rewards, and relationship consequences. Untracked plans remain discoverable through the Blackjack route board, warning flags, shelter rosters, and Ylva's changing schedule.
 
-## Deterministic Autonomy
+## Tracked and Engaged Outcomes
+
+These branches apply after the player tracks the campaign, affects Ylva's readiness, or breaks an explicit promise. They do not govern an ignored colleague.
 
 ### Act I
 
@@ -156,32 +167,29 @@ Ilyana may coordinate signals. Tavio may brace a failing approach. Neither can m
 
 Elara may preserve route records. Zafir may formalize shared liability. Neither can decide whether Ylva leaves the marker.
 
-## Zero-Participation Route
+## Stable-Colleague Route
 
-With no player involvement:
+With no personal engagement, Ylva serves ordinary route watches under the same relief rules as other specialists. She does not secretly undertake the rearguard, assume Longlake cargo liability, or hold the final marker alone. Those events are handled through regional and main-campaign states.
 
-1. Ylva saves the Act I households but calls relief late, causing one avoidable injury.
-2. She preserves the Act II evacuation and signs the lost cargo into her own debt.
-3. Other Blackjacks recover her after she tries to hold the final route alone.
-4. She becomes a supervised Blackjack pathfinder under externally imposed shift limits.
-
-This is a stable compromised outcome, not future-setting canon. Ylva cannot die unseen.
+She reaches summer as a capable Blackjack pathfinder who still dislikes visible need, still makes occasional bad route calls, and has not settled the White-Sled pattern. She is neither injured nor supervised because the player chose different company. Changed re-entry preserves the personal decision through a current route problem.
 
 ## Changed Re-entry
 
 ### Relay After Frost
 
-Missing Act I opens a winter relay-repair encounter dealing with the injured traveler, lost equipment, and the damaged signal chain. It permits restitution and route repair but does not restore the missed recipes or Act I rewards.
+Missing Act I opens a winter relay-repair encounter dealing with the injured traveler, lost equipment, and the damaged signal chain. It permits restitution, route repair, and practical recipe training without recreating the missed rescue or its personal rewards.
+
+The All-Weather Flare and Reinforced Blunt-Head recipes can instead be earned through a shorter winter field test. The changed scene does not recreate the original people, danger, or narrative rewards.
 
 ### Ice After Thaw
 
-Missing Act II opens a spring aftermath addressing the widened surety, lost stores, and receiving teams. Ylva may repudiate sole liability.
+Missing Act II opens a spring aftermath addressing surviving cargo claims, current receiving teams, and a thaw-water crossing. Ylva may reject sole liability under changed circumstances.
 
-It cannot restore missed account rewards or reopen romance and sworn bond. A tracked transition warning states this before confirmation.
+It can grant the Rescue Scout progression through a credible spring extraction, but it does not reopen the time-specific romance or sworn-bond opportunity. A tracked transition warning states this before confirmation.
 
 ### Act III
 
-Missing the Act III finale fixes Ylva's autonomous settlement. [[The Road She Chooses]] reflects that result without reopening the final decision.
+Missing the Act III finale fixes a settlement only if the player had tracked Ylva into a declared course and then declined the final action. An untracked Ylva reaches summer as a stable, unresolved colleague. [[The Road She Chooses]] reflects the relevant state without inventing a transformation.
 
 ## Embedded Opportunities
 

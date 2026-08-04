@@ -43,15 +43,21 @@ relationship_variant: ""
 preparation_inputs: ["ylva_shared_signal_code", "ylva_western_breach_route_known"]
 preparation_threshold: ""
 autonomous_deadline: "Ghor at the Gate"
-autonomous_resolution: "Ylva builds a useful chain but assigns herself as the only moving verifier"
+autonomous_resolution: "See Companion Autonomy and Act Convergence; untracked content uses stable-colleague treatment."
 changed_reentry: "Ice After Thaw"
 ensemble_inputs: ["Ilyana Veshkar", "Tavio Meran", "Bernard Valeon"]
 identity_hooks: ["Ättar", "Military", "Underworld", "Peasant/Labour", "Wilderness", "Hunter", "Slayer"]
+grounded_rewrite_status: approved
+external_stakes: ["Lantern Ward warning time", "Debtors' Row evacuation", "four resident signal crews", "the Dyers' Roof storehouse"]
+banter_priority: contextual
+player_interest_gate: none
+missed_arc_treatment: changed-reentry
 encounter_deck: ["Lantern Ward rooftop hazard", "Grobi river probe", "winter fire"]
 persistence_scope: seasonal-milestone
 postgame_season: ""
-emotional_rewrite_status: reframe
-dialogue_status: pending-rewrite
+emotional_rewrite_status: cleared
+dialogue_status: approved
+remote_claim_status: compliant
 archetype_pressure: "Competence becomes self-erasure: test whether Ylva accepts shared agency without reading care as confinement."
 emotional_function: "Keep siege preparation but focus on training independent station holders rather than Ylva personally maintaining another network"
 pleasure_beat: "Field competence, open weather, friendly contest, practical food, and quiet work done well."
@@ -93,6 +99,8 @@ Each station requires:
 
 The player recruits crews through neighbourhood trust, faction contacts, payment, civic authority, or practical demonstration. No one faction is required.
 
+**Rika Halm**, a Dyers' Roof stove-tender, objects to Ylva's preferred west-facing smoke position. The line of sight is excellent, but a winter backdraft from the dye flues will flatten red smoke into the same alley used by evacuees. Ylva mistakes Rika's lack of field language for lack of field judgement.
+
 ## Middle: Build and Test
 
 ### Roof Routes
@@ -112,6 +120,8 @@ The network needs:
 
 The player chooses whether the cards are public, restricted to residents, or held by officers. A public emergency code with guarded military details gives the strongest civic result.
 
+The Dyers' Roof placement must also be settled. The player may test Rika's warning, accept Ylva's faster line, move the station to a lower cooper's loft, or build a wind hood from scarce sheet metal. Testing proves Rika right about the backdraft, but the lower loft adds eleven seconds to the western warning. There is no perfect expert whose advice removes the tradeoff.
+
 ### Independent Drill
 
 Ylva must remain at one station while the other three run a drill. The player selects where she stands.
@@ -128,7 +138,7 @@ If Ylva abandons her station to correct each mistake, the chain technically pass
 
 ## Real Pressure
 
-During the final drill, a small Grobi river probe uses the noise to approach a wall drain while an accidental brazier fire starts in a roof store.
+During the final drill, a small Grobi river probe uses the noise to approach a wall drain while an accidental brazier fire starts in the Dyers' Roof store.
 
 These events are concurrent but unrelated. The Grobi did not arrange the fire.
 
@@ -140,6 +150,8 @@ The party chooses its immediate focus while the resident stations handle the oth
 - keep the warning moving despite one lost station.
 
 The test is whether the network distributes response. Strong preparation allows every station and resident to survive. Failure costs a roof, supplies, or route speed rather than invalidating the chain.
+
+If Ylva overruled Rika without testing, the first smoke call flattens into the evacuation alley. Two residents turn the wrong way, Rika burns one hand correcting the shutter, and a season's worth of blue dye is lost. The chain still works. Ylva's mistake is public, specific, and not converted into a speech about accepting help.
 
 ## End: Who Holds the Code
 

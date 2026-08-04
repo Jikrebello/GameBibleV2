@@ -43,10 +43,15 @@ relationship_gate: "Friendship path always valid; relationship variants add dial
 preparation_inputs: []
 preparation_threshold: ""
 autonomous_deadline: ""
-autonomous_resolution: "The coda reflects Elara's fixed Act III settlement and never changes it"
+autonomous_resolution: "See Companion Autonomy and Act Convergence; untracked content uses stable-colleague treatment."
 changed_reentry: "Departed Elara appears through a changed site encounter and final correspondence"
 ensemble_inputs: []
 identity_hooks: []
+grounded_rewrite_status: approved
+external_stakes: ["Ropehouse Ruin survey", "Highlake custody agreement", "finder rights"]
+banter_priority: contextual
+player_interest_gate: none
+missed_arc_treatment: not-applicable
 encounter_deck: []
 persistence_scope: regional-milestone
 postgame_season: summer
@@ -57,7 +62,7 @@ archetype_pressure: "Belonging becomes curation: test whether Elara shares socia
 emotional_function: "Keep ethical exploration as proof that her appetite for adventure survives"
 pleasure_beat: "Social sparkle, discovery, elegant risk, and making a temporary company feel chosen."
 care_beat: "Elara shares credit, access, attention, and protection without making gratitude the price of belonging."
-player_archetype_hooks: ["Cheerleader", "Tomboy", "Goth", "Bohemian", "Jock", "Nerd", "Rebel", "Goofball", "Grey"]
+player_archetype_hooks: []
 ---
 # The First Honest Find
 

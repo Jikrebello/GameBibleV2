@@ -16,10 +16,23 @@ architecture_status: migrated
 emotional_rewrite_status: cleared
 dialogue_status: approved
 remote_claim_status: compliant
+grounded_rewrite_status: approved
+external_stakes: ["stolen property", "road-school safety", "winter shelter network", "field infirmary survival", "neutral hospice access"]
+banter_priority: contextual
+player_interest_gate: player-signaled
+missed_arc_treatment: changed-reentry
 ---
 # Bernard Companion Campaign
 
 This note controls Bernard's eleven authored pieces, ten-piece playthrough ceiling, approximately twelve playable hours, three preparation ladders, deterministic autonomy, changed re-entry, progression, and outcomes. [[Bernard Valeon]] controls character. [[Bernard Field Familiarity and Relationships]] controls approval and intimacy. [[Bernard Compulsion and Accountability System]] and [[Bernard Long Watch Greatsword Package]] control systemic play.
+
+## Grounded Campaign Identity
+
+Bernard's campaign preserves food, children, faith, lifting, road care, and hospitality as reasons to seek his company. His theft and Froststep history directly centre [[Little Things Missing]], [[Embers Without Excuse]], [[The Open Hospice]], and [[Grace]]. The remaining pieces are real service, pleasure, friendship, shelter work, and current Grenzburg relationships.
+
+Humor may release tension but never closes accusation, grief, prayer, or permanent harm. White Flame confirms neither innocence nor forgiveness. Romantic presentation remains inactive until a female player signals interest.
+
+Any lasting injury reflected in [[Grace]] has legible causality. [[The Open Hospice]] names Lena and Urra, shows both medical risks before allocation, identifies Bernard's concealed portion, and records the likely consequence before the player leaves the hall. Strong preparation can protect both through a split dose, heat, and continuing care. Summer never introduces a hidden punishment.
 
 ## Dramatic Promise
 
@@ -48,10 +61,10 @@ Act I's decisive object is a food portion among seven children on a road. Act II
 
 His silhouette is a **spiral, not an escalation:** relapse, repair, relapse smaller. He does not graduate from concealment; he gets better at catching himself, later than he should, in front of people who are harder to face each time.
 
-### Two intentional exceptions — do not regress
+### Controlling Exceptions
 
-1. **The shortage in [[The Open Hospice]] is real at every preparation level.** Preparation changes who bears it and how badly, never whether somebody does. A hospice that can always be supplied teaches nothing about a man who hoards.
-2. **The cold injury to the child who went without is permanent, unwarned, and unrepairable.** It is written at the allocation, displayed nowhere, and surfaces once in [[Grace]] after judgement has closed. Do not add a warning, a save, or a repair path.
+1. **Bernard has already concealed the salve before the open count.** Preparation cannot erase that act; it changes whether truthful disclosure and good care can prevent physical harm.
+2. **Medical consequences are legible before allocation.** Permanent injury remains possible, but it follows named risks, visible care conditions, and player-understood choices. [[Grace]] reflects the established result rather than revealing a secret one.
 
 `lenka_state` is likewise fixed and sits outside the ordinary conflict-and-repair loop; see [[Lenka Vrana]].
 
@@ -69,7 +82,7 @@ His silhouette is a **spiral, not an escalation:** relapse, repair, relapse smal
 | 7 | CMP-05-BD | [[Watch Until Morning]] | male bond | repair a shelter and become sworn brothers through shared service |
 | 8 | CMP-05-A3-O | [[Beds Before Banners]] | normal party | protect familiar patients and establish neutral admission at West Refuge Hall |
 | 9 | CMP-05-A3-F | [[The Open Hospice]] | duo | move patients, keep witnessed stores, survive residue, and choose a destination |
-| 10 | CMP-05-S | [[Grace]] | normal party/changed | demonstrate Bernard's settled conduct through an ordinary meal; the scar surfaces |
+| 10 | CMP-05-S | [[Grace]] | normal party/changed | demonstrate Bernard's settled conduct and the already-known medical aftermath through an ordinary meal |
 
 Only the three act finales use the fixed player-plus-Bernard party. Romance and bond are mutually exclusive. Friendship alone can reach Bernard's strongest moral resolution and every non-relationship progression reward.
 
@@ -141,29 +154,23 @@ Two assets permit player participation in a finale. Three make every material ob
 
 Tracked dockets show readiness, closure, and the exact relationship consequence. Untracked plans remain discoverable through the kitchen rota, Oda's route board, Mercy Hospital notices, and Bernard's own conversations.
 
-### Zero-participation route
+### Stable-colleague route
 
-Bernard becomes a compromised caregiver:
+With no personal engagement, Bernard works ordinary kitchen, escort, casualty, and refuge assignments under existing witnessed-store rules. He does not privately lead the children's expedition, kindle White Flame in an unseen personal climax, or establish the Open Hospice without the player.
 
-- all seven children survive, but a late warning causes avoidable minor injuries and the bear is killed in defence;
-- the winter patients survive and White Flame genuinely kindles during courageous service, but Bernard's accountability remains incomplete;
-- Petra records restitution without reconciliation according to the actual account;
-- Bernard serves the Blackjack infirmary under [[Quartermaster Brina Kest|Brina Kest]]'s inventory authority;
-- Open Lamp remains unrealized.
+Petra's restitution account changes only through actual recorded payments. Bernard reaches summer as a warm, useful, unresolved Blackjack hospitaller. He is not assigned special supervision, and no child is injured to demonstrate that the player should have chosen him.
 
-He cannot die autonomously.
+### Tracked and engaged outcomes
 
-Truthful direction and three assets can improve autonomous moral conduct while preserving permanent material losses. Withholding direction or weak preparation worsens trust, injury, and destination without inventing random death.
-
-[[Ylva Winter-Track]] or [[Dismas Raben]] may protect a road or child in Act I. [[Ilyana Veshkar]] or [[Zafir ibn Samad]] may preserve a shelter signal or catch an undeclared reserve in Act II. [[Ylva Winter-Track]], Ilyana, or Zafir may preserve a patient route or witnessed release in Act III. Nobody confesses, declares a reserve, or receives a gift for Bernard.
+Once the campaign is tracked, truthful direction and preparation can improve conduct while preserving real material loss. Withholding direction or a broken promise can worsen trust and patient outcomes. Other companions may protect a route, shelter, or store record but cannot confess, declare a reserve, or receive a gift for Bernard.
 
 ## Changed Re-entry
 
 **The Bent Bell:** missing Act I opens a winter road-school aftermath. The player can repair the bell, fund injuries, and clear the snare line. It cannot restore the missed rescue reward or reverse the bear's death.
 
-**Ashes in the Storebook:** missing Act II opens a spring restitution aftermath. Bernard may complete personal severance and repair a concealed record, but the Paladin unlock, romance, bond, and finale rewards remain closed for that playthrough. The transition docket states this explicitly.
+**Ashes in the Storebook:** missing Act II opens a spring restitution and field-service aftermath. Bernard may repair a concealed record and unlock [[Paladin]] through a new, witnessed service test. The time-specific romance and bond opportunity remains closed. The transition docket states this explicitly.
 
-Missing Act III fixes Bernard's autonomous destination. [[Grace]] reflects it rather than reopening the hospice decision.
+Missing Act III fixes a destination only when the player tracked Bernard into a declared hospice course and then declined it. An untracked Bernard reaches summer as a stable, unresolved colleague. [[Grace]] reflects the relevant state rather than inventing a hospice or hidden casualty.
 
 ## Progression
 

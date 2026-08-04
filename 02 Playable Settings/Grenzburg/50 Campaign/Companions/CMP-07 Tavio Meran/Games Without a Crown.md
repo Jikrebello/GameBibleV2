@@ -15,7 +15,7 @@ act: act-1
 availability_window: ["Open Autumn", "Early Winter"]
 repeatability: one-shot
 cutoff_result: remains-available
-world_state_outputs: ["tavio_friendship_episode", "yard_fair_state", "tavio_prize_state", "tavio_approval"]
+world_state_outputs: ["tavio_friendship_episode", "yard_fair_state", "tavio_prize_state", "tavio_approval", "tavio_romance_interest_signaled"]
 reward_unlocks: ["Declared Handicap", "Tavio Friendship Scene"]
 required_locations: ["Old Market", "Bridgehold", "Blackjack Yard"]
 blocking_status: blocked
@@ -43,15 +43,21 @@ relationship_variant: ""
 preparation_inputs: []
 preparation_threshold: ""
 autonomous_deadline: ""
-autonomous_resolution: "The fair occurs modestly without the player; friendship rewards remain available through a changed conversation"
+autonomous_resolution: "See Companion Autonomy and Act Convergence; untracked content uses stable-colleague treatment."
 changed_reentry: ""
 ensemble_inputs: []
 identity_hooks: ["Sestaran", "Peasant/Labour", "Merchant/Craft", "Drifter/Vagabond"]
+grounded_rewrite_status: approved
+external_stakes: ["Blackjack fair", "honest contests", "refugee and forge-family meal"]
+banter_priority: optional
+player_interest_gate: none
+missed_arc_treatment: stable-colleague
 encounter_deck: []
 persistence_scope: personal
 postgame_season: ""
-emotional_rewrite_status: preserve
-dialogue_status: pending-rewrite
+emotional_rewrite_status: cleared
+dialogue_status: approved
+remote_claim_status: compliant
 archetype_pressure: "Competition becomes worth: test whether Tavio can stop, lose, or need help without surrendering athletic joy."
 emotional_function: "Keep fair games, absurd prizes, food, and delight without villainy"
 pleasure_beat: "Competition, crowds, food, physical effort, ridiculous prizes, and celebrating improvement."
@@ -92,6 +98,8 @@ Every game has:
 - a prize whose joke never depends on poverty, injury, culture, or debt.
 
 The player may compete, officiate, cook, keep score, or invent one final prize.
+
+A female player may also choose one plainly framed private-interest line after the fair. Selecting it writes `tavio_romance_interest_signaled`; declining or ignoring it leaves the friendship untouched. Tavio's earlier praise, physical ease, and game invitations are never retroactively treated as flirting.
 
 ## Steffen
 

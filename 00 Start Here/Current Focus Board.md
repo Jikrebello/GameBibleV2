@@ -15,7 +15,7 @@ tags: []
 
 ## First Creative Priority
 
-Build Grenzburg into the setting's first complete video game. [[Grenzburg RPG Experience Constitution]] treats the seasonal campaign, the blank-slate debtor, and eight autonomous companion campaigns as equal parts of the experience. The twenty-one main chapters and eighty-eight-piece companion architecture remain locked. Elara-Ashira and Bernard-Zafir are emotionally cleared: forty-four production-blocked pieces now use present-day Grenzburg casts, approved dialogue, remote former-life claims, and complete three-season foil arcs. [[Companion Debt and Remote Claims Standard]] prevents Grenzburg from becoming a reunion point for every backstory. Ylva-Tavio and Ilyana-Dismas remain the two paired rewrites. Caleran remains the great-city sandbox, but it is not the active implementation priority.
+Build Grenzburg into the setting's first complete video game. The seasonal campaign moves the world, the blank-slate debtor preserves player authorship, and eight professional Blackjack colleagues offer substantial personal campaigns when the player chooses sustained involvement. The twenty-one main chapters and eighty-eight-piece companion architecture remain locked. All eighty-eight companion pieces are production-blocked, grounded, dialogue-approved, and remote-claim compliant, with [[Lio Varcen]] as the sole named arrival exception. Caleran remains the great-city sandbox, but it is not the active implementation priority.
 
 ## Current Canon Baseline
 
@@ -25,7 +25,7 @@ Build Grenzburg into the setting's first complete video game. [[Grenzburg RPG Ex
 - **Active game:** [[Grenzburg MOC]] is the project doorway. [[Grenzburg RPG Experience Constitution]], [[Grenzburg Game Constitution]], [[Player Character Constitution]], [[Player Temperament and Chemistry]], [[Player Identity Reactivity Matrix]], [[World Simulation and Discovery Constitution]], [[Quest and Content Architecture]], [[Companion Campaign Architecture]], [[Companion Archetype Constitution]], and [[Companion Autonomy and Act Convergence]] control the player-facing experience.
 - **Active worldspace:** [[Grenzburg Regional Geography]] controls the twin-walled city, seven exterior regions, physical routes, and map boundary. [[Grenzburg Map Package]] provides creator and player maps; [[Grenzburg Worldspace Location Register]] reserves later content placement.
 - **Great-city sandbox:** [[Caleran Great-City Dossier]] is the production doorway for urban intrigue, archaeology, and occult investigation.
-- **Vault structure:** active reference material uses numbered, subject-owned folders; superseded material is indexed through [[Archive Index]] and the [[Physical Reorganization Manifest]].
+- **Vault structure:** active reference material uses numbered, subject-owned folders; superseded material is indexed through [[Archive Index]].
 - **Creature canon:** [[Bestiary Framework — Creatures of the World Egg|Bestiary Canon Register]] controls origin-first taxonomy and [[The Image, Soul, and Creaturely Continuity]] controls personhood and persistence. [[Bestiary Translation Concordance]] records the full Pathfinder crosswalk without importing its canon.
 - **First creature wave:** [[The Mundane Layer — Residue, Vermin, and the Delver Trade]] controls 34 Material and residue forms; [[Heaven and Soul-Road MOC]] controls sixteen profiles divided among true angels, manifested saints, and soul-road service.
 - **Second creature wave:** [[Faewild and Menhir MOC]] controls thirty forms across drakes, court beings, place minds, mythic fauna, and High Hunts; [[Hell and Abyss MOC]] controls twenty-four forms across damned manifestations, Depth fauna, devil mantles, soul predators, and Abyssal wounds.
@@ -42,9 +42,9 @@ Build Grenzburg into the setting's first complete video game. [[Grenzburg RPG Ex
 
 ## Next Three Workstreams
 
-1. **Ylva and Tavio:** perform the next paired emotional rewrite, including Tavio's remote Lio claim and the Tomboy-Jock seasonal foil arc.
-2. **Remaining paired companion passes:** continue with Ilyana-Dismas and Bernard-Zafir. Preserve structural deadlines, autonomy, relationship separation, and rewards while replacing emotionally weak premises, dialogue, and prohibited former-life arrivals.
-3. **Identity and living-world allocation:** distribute culture, background, vocation, and temperament hooks across authored content, then build regional encounter decks and side-content placements without changing the main campaign.
+1. **Identity and living-world allocation:** distribute culture, background, vocation, and selective temperament hooks across authored content.
+2. **Regional encounter decks:** build district and wilderness decks with quiet intervals, bounded persistence, and seasonal changes.
+3. **Side-content production:** place marquee stories, local quests, dungeons, hunts, contracts, and jobs without changing the main campaign or companion foundations.
 
 ## Locked Rulings
 
@@ -80,7 +80,7 @@ Build Grenzburg into the setting's first complete video game. [[Grenzburg RPG Ex
 - Every vocation can complete every critical route. Medium shades are non-conscious imprints, Warlock and Lancewright obey bounded Shell-script canon, Paladin techniques require White-Flame coherence, Binder cannot bind human souls or coerced persons, and Bardic healing and compulsion obey [[Harmonic Shellcraft]].
 - Grenzburg's critical path is [[PROLOGUE THE BLACK ROAD|The Black Road]], [[ACT I THE CLOSING ROADS|The Closing Roads]], [[ACT II WINTER'S TEETH|Winter's Teeth]], [[ACT III THE UNENDING MUSTER|The Unending Muster]], and playable [[SUMMER AFTERMATH|summer aftermath]]. The Heart-Stone, Pale-Skins, Leviticus betrayal, and Duke's Peace are retired from the main campaign.
 - Fort Tannbruck always falls, the Emerald Drake is slain, Ghor's organized siege is defeated, Gerhold accepts the Unending Muster without redemption, and the General Below is stopped in every completed campaign. Political power, casualties, debt freedom, companion futures, and settlement survival remain variable; no political ending is setting canon.
-- The ordinary field party is the player plus three companions selected from [[Elara Velescar]], [[Ilyana Veshkar]], [[Ylva Winter-Track]], [[Ashira bath Melan]], [[Bernard Valeon]], [[Dismas Raben]], [[Tavio Meran]], and [[Zafir ibn Samad]]. Introductory cases and short operations use the normal party; only the three act finales per companion use a fixed player-plus-owner duo. Each companion campaign contains eleven authored pieces: nine non-exclusive pieces, one heterosexual romance episode, and one same-sex sworn-bond episode. At most ten appear in one run. Campaigns also contain eight to twelve embedded opportunities, progress autonomously at act gates when unattended, and cannot end in an unseen death. The roster has four women and four men. A playthrough may commit to one romance and one sworn bond; the two relationships have distinct authored experiences and equivalent mechanical value.
+- The ordinary field party is the player plus three companions selected from [[Elara Velescar]], [[Ilyana Veshkar]], [[Ylva Winter-Track]], [[Ashira bath Melan]], [[Bernard Valeon]], [[Dismas Raben]], [[Tavio Meran]], and [[Zafir ibn Samad]]. Introductory cases and short operations use the normal party; only the three act finales per companion use a fixed player-plus-owner duo. Each companion campaign contains eleven authored pieces: nine non-exclusive pieces, one heterosexual romance episode, and one same-sex sworn-bond episode. At most ten appear in one run. Campaigns also contain eight to twelve embedded opportunities. Ignored companions continue stable assignments without unseen moral resolution, injury, departure, or death. The roster has four women and four men. A playthrough may commit to one romance and one sworn bond; the two relationships have distinct authored experiences and equivalent mechanical value.
 - Every origin culture receives at least ten meaningful authored uses, every background at least eight, every starting vocation at least eight, and Paladin, Binder, Bard, and Lancewright at least four post-unlock uses. Cultural familiarity supplies knowledge rather than a publicly visible second identity, and every critical route retains a credible workaround.
 - Grenzburg's encounter decks target a meaningful sign, discovery, encounter, or decision every five to eight minutes of ordinary exploration while preserving quiet travel. Dynamic activity remains local to the player; named deaths and major settlement changes require authored chains.
 - After [[The First Summer Road]], the player may advance deliberately through postwar autumn, winter, spring, and summer in sequence. The cycle changes renewable world conditions but never resets political, settlement, dungeon, casualty, or companion outcomes.
@@ -91,10 +91,8 @@ Build Grenzburg into the setting's first complete video game. [[Grenzburg RPG Ex
 ## Open Production Questions
 
 - Exact Grenzburg damage, frames, inputs, growth curves, mastery rates, social probabilities, quest rewards, encounter balance, custom-build budget, and compatibility matrix.
-- Bespoke preparation thresholds, autonomous decisions, cross-companion support, and changed re-entry for Dismas.
-- Full paired emotional rewrites for the remaining forty-four companion pieces; Elara, Ashira, Bernard, and Zafir's forty-four are cleared.
 - Final allocation of the 90 origin, 72 background, 40 starting-vocation, and 16 advanced-vocation identity hooks reserved in [[Player Identity Reactivity Matrix]].
-- Final placement and scripting of the twenty-four minimum temperament-signal scenes and sixty-four player-companion chemistry variants.
+- Final placement and scripting of the twenty-four minimum temperament-signal scenes and selective player-companion chemistry variants where Grey-baseline scenes materially benefit.
 - Regional and district encounter-card rosters, cooldowns, persistence details, and postwar seasonal variants governed by [[World Simulation and Discovery Constitution]].
 - Final original names, descriptions, animation identities, and progression orders for source-derived vocation skills tracked in [[Vocation Originalization Register]].
 - Named regional cells for the Left Hand as new playable settings are developed.

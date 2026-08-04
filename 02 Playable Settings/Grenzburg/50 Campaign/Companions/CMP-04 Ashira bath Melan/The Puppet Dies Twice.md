@@ -34,6 +34,11 @@ relationship_variant: ""
 optional_state_inputs: []
 preparation_inputs: []
 preparation_threshold: ""
+grounded_rewrite_status: approved
+external_stakes: ["night puppet performance", "epitaph contest", "Blackjack company night"]
+banter_priority: optional
+player_interest_gate: none
+missed_arc_treatment: stable-colleague
 encounter_deck: []
 postgame_season: ""
 estimated_hours: 0.5
@@ -43,7 +48,7 @@ companion_required: "Ashira bath Melan"
 duo_quest: false
 relationship_gate: "Open approval; no commitment required"
 autonomous_deadline: ""
-autonomous_resolution: "Ashira attends alone; the private joke and mechanical upgrade are missed."
+autonomous_resolution: "See Companion Autonomy and Act Convergence; untracked content uses stable-colleague treatment."
 changed_reentry: ""
 ensemble_inputs: []
 identity_hooks: ["Drifter/Vagabond", "Scholarly", "Underworld"]
@@ -54,7 +59,7 @@ archetype_pressure: "Ashira must ask to share an ordinary pleasure instead of ar
 emotional_function: "Let darkness be taste, comedy, and belonging rather than injury."
 pleasure_beat: "Grotesque puppets, terrible deaths, cherries, epitaphs, and private jokes."
 care_beat: "The player remembers a preference without using it to demand disclosure."
-player_archetype_hooks: ["Cheerleader", "Tomboy", "Goth", "Bohemian", "Jock", "Nerd", "Rebel", "Goofball", "Grey"]
+player_archetype_hooks: []
 persistence_scope: personal
 ---
 # The Puppet Dies Twice

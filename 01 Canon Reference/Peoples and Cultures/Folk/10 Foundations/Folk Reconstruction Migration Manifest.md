@@ -41,5 +41,4 @@ The Folk root now uses populated `10 Foundations`, `20 Faith and Worldview`, `30
 
 - [[Folk Canon Register]]
 - [[Folk Reconstruction Audit]]
-- [[Physical Reorganization Manifest]]
-
+- [[Archive Index]]

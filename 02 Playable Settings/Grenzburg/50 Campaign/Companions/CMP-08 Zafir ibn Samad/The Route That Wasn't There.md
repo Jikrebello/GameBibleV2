@@ -43,10 +43,15 @@ relationship_variant: ""
 preparation_inputs: []
 preparation_threshold: ""
 autonomous_deadline: "Ghor at the Gate"
-autonomous_resolution: "Residents save the casualty train through their improvised route while Zafir delays one transfer by insisting on original ring authority."
+autonomous_resolution: "See Companion Autonomy and Act Convergence; untracked content uses stable-colleague treatment."
 changed_reentry: "The spring route remains usable but Zafir's missing revision record weakens the severance preparation."
 ensemble_inputs: ["Bernard Valeon", "Ilyana Veshkar", "Elara Velescar"]
 identity_hooks: ["Peasant/Labour", "Military", "Underworld", "Merchant/Craft"]
+grounded_rewrite_status: approved
+external_stakes: ["a winter casualty convoy", "four occupied homes on the improvised route", "a two-way food and medical corridor"]
+banter_priority: contextual
+player_interest_gate: none
+missed_arc_treatment: changed-reentry
 encounter_deck: []
 persistence_scope: district-persistent
 postgame_season: ""
@@ -57,7 +62,7 @@ archetype_pressure: "Residents save people by moving Zafir's prepared rings with
 emotional_function: "Show imperfect field users outperforming the model while preserving Zafir's genuine contribution."
 pleasure_beat: "Turn kitchens, laundry bridges, dye vats, and a cooper's lift into a moving casualty route."
 care_beat: "The people carrying bodies retain authority to alter the route beneath their feet."
-player_archetype_hooks: ["Cheerleader", "Tomboy", "Goth", "Bohemian", "Jock", "Nerd", "Rebel", "Goofball", "Grey"]
+player_archetype_hooks: []
 ---
 # The Route That Wasn't There
 
@@ -83,7 +88,7 @@ Karel points through a laundry window, across a kitchen, over a dye-yard bridge,
 
 Zafir says the rings are not calibrated for that route.
 
-The first patient does not have time for a seminar.
+The first patient's breathing worsens while Zafir checks the load relation. Sella Morn, serving as casualty lead, gives the party one minute to open the domestic route or carry by hand.
 
 ### Pause Point: Official Route Failed
 
@@ -111,7 +116,7 @@ The player may ask, pay, invoke emergency authority, or force access. Strongest 
 Karel moves one ring before Zafir approves it.
 
 - If Zafir accepts field authority, Karel records why and the route improves.
-- If Zafir demands central approval, the route remains usable but a casualty group waits under fire.
+- If Zafir demands central approval, the route remains usable but a casualty group waits under fire and one wounded porter develops a lasting shoulder injury during the rushed carry.
 - If the player gives every resident unrestricted magical control, a ring overloads; consent does not replace competence or preparation.
 
 The best method combines training, distributed authority, and visible limits.

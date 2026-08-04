@@ -15,7 +15,7 @@ act: summer
 availability_window: ["Summer Aftermath"]
 repeatability: one-shot
 cutoff_result: persists
-world_state_outputs: ["bernard_summer_coda", "first_open_table_state"]
+world_state_outputs: ["bernard_summer_coda", "first_open_table_state", "lena_reed_kin_summer_state", "urra_summer_state"]
 reward_unlocks: ["Bernard summer destination scene"]
 required_locations: ["Blackjack Yard", "Open Lamp Hospice", "West Refuge Hall"]
 blocking_status: blocked
@@ -43,10 +43,15 @@ relationship_variant: ""
 preparation_inputs: []
 preparation_threshold: ""
 autonomous_deadline: ""
-autonomous_resolution: ""
-changed_reentry: "The coda reflects the fixed Act III outcome and cannot reopen it"
+autonomous_resolution: "See Companion Autonomy and Act Convergence; untracked content uses stable-colleague treatment."
+changed_reentry: "The coda reflects a tracked Act III outcome or Bernard's stable-colleague summer state without inventing a hospice or casualty."
 ensemble_inputs: []
 identity_hooks: []
+grounded_rewrite_status: approved
+external_stakes: ["summer open table", "hospice service", "settled inventory practice"]
+banter_priority: contextual
+player_interest_gate: none
+missed_arc_treatment: not-applicable
 encounter_deck: []
 persistence_scope: campaign
 postgame_season: summer
@@ -57,7 +62,7 @@ archetype_pressure: "Warmth becomes evasion: test whether Bernard can remain fun
 emotional_function: "Keep ordinary hospitality as the final demonstration of accountability"
 pleasure_beat: "Food, absurdity, road stories, children laughing, and companionship without ceremony."
 care_beat: "Bernard feeds, shelters, steadies, and tells the truth about what he takes or withholds."
-player_archetype_hooks: ["Cheerleader", "Tomboy", "Goth", "Bohemian", "Jock", "Nerd", "Rebel", "Goofball", "Grey"]
+player_archetype_hooks: []
 ---
 # Grace
 
@@ -76,19 +81,21 @@ A first postwar meal is served beside an open patient and store board. Every ver
 - people from more than one wartime group;
 - a visible place for Bernard's prayer rope, sword, or absence;
 - no claim that White Flame erased Froststep;
-- **the child, and the hand.**
+- an ordinary follow-up for Lena and Urra based on the medical states already shown in [[The Open Hospice]].
 
-## The Child, and the Hand
+## The Known Consequence
 
-One beat, in every version of this coda including the memorial and the departed ones, placed late and quietly and never announced.
+Lena Reed-Kin and Urra appear only when their established location and survival states make that credible. Neither is used as a surprise verdict on Bernard.
 
-A child from the hospice convoy is at the table — Mika's cousin, or the captive's child under whatever settlement the war left, whichever of them went without warming salve on the cold night of [[The Open Hospice]]'s triage wave. `hospice_cold_injury_child` says which.
+If either child was recorded as **protected**, the coda shows ordinary recovery: carrying a bowl, fastening a mitten, helping at the table, or ignoring Bernard altogether.
 
-They cannot fully close one hand. It is small: a stiff grip, a spoon held wrong, a mitten that gets pulled on with the other hand and a mother who does not comment because it has stopped being new. Nobody at the table connects it to a night in a hall in the spring. Nobody in the scene explains it. **The player is not told; the player is shown, and only once.**
+If either was **at risk**, a brace, exercise, or adapted spoon shows continued treatment. A carer names whether recovery improved, remained uncertain, or worsened. This follows the prognosis the player already received.
 
-There is no repair, no reveal scene, no dialogue option, and no acknowledgement anywhere in the summer content. Judgement closed months ago. This is what closed judgement looks like when the arithmetic was already wrong in the dark — the same shape as Froststep's five, one child smaller, discovered by a stranger over supper.
+If either was **injured**, the child may have a stiff grip, missing fingertip, or limited hand closure consistent with the recorded outcome. The adaptation is treated as part of that person's life, not a prop waiting to absolve or condemn Bernard.
 
-If Bernard is present and resolved, he sees it. He does not say anything about it. He passes the bread.
+The player may ask one practical follow-up, leave the moment alone, or support continuing care. No late action reverses permanent injury, but treatment and material support remain possible. Bernard's truthful or withholding conduct has already been judged through the final inventory; the summer scene does not secretly rescore it.
+
+If Bernard is present, he behaves according to his settled direction. He may know the exercise schedule, avoid centering himself, or continue to use helpfulness as a shield. The children are never required to forgive him or discuss the allocation.
 
 ## Destination Variants
 
@@ -106,7 +113,7 @@ Bernard and a committed female romantic partner prepare a declared road kit whil
 
 ### Blackjack Infirmary
 
-This is the default autonomous destination. Brina holds the store keys and Bernard performs real care within her open procedure. He can name that arrangement as useful and incomplete.
+This is a tracked compromised destination. Brina holds the store keys and Bernard performs real care within her open procedure. He can name that arrangement as useful and incomplete. An untracked Bernard instead uses **Continued Service** below.
 
 ### Continued Service
 

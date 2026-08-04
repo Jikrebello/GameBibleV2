@@ -43,15 +43,21 @@ relationship_variant: ""
 preparation_inputs: []
 preparation_threshold: ""
 autonomous_deadline: "The Last Convoy"
-autonomous_resolution: "Ylva restores the marker alone, rescues the carters after one injury, and enters Act I managed"
+autonomous_resolution: "See Companion Autonomy and Act Convergence; untracked content uses stable-colleague treatment."
 changed_reentry: "Relay After Frost"
 ensemble_inputs: ["Bernard Valeon", "Dismas Raben", "Ilyana Veshkar"]
 identity_hooks: ["Ättar", "Folk", "Military", "Wilderness", "Drifter/Vagabond", "Hunter"]
+grounded_rewrite_status: approved
+external_stakes: ["route safety", "civilian evacuation", "signal infrastructure", "field-arrow supply"]
+banter_priority: contextual
+player_interest_gate: none
+missed_arc_treatment: changed-reentry
 encounter_deck: ["Upper Grenz road bandits", "autumn route failure"]
 persistence_scope: regional-milestone
 postgame_season: ""
-emotional_rewrite_status: preserve
-dialogue_status: pending-rewrite
+emotional_rewrite_status: cleared
+dialogue_status: approved
+remote_claim_status: compliant
 archetype_pressure: "Competence becomes self-erasure: test whether Ylva accepts shared agency without reading care as confinement."
 emotional_function: "Keep the impossible watch roster, concealed injury, recruitment, and practical first read"
 pleasure_beat: "Field competence, open weather, friendly contest, practical food, and quiet work done well."

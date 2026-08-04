@@ -43,10 +43,15 @@ relationship_variant: ""
 preparation_inputs: ["zafir_open_cord_circle_formed", "zafir_muster_command_sample", "zafir_distributed_release_keys", "zafir_fenn_anchor_route", "zafir_person_form_separation"]
 preparation_threshold: "2 of 5"
 autonomous_deadline: "The Deep Muster Main Quest"
-autonomous_resolution: "Zafir uses one authorized override to save the Circle, remains a supervised adviser, and Karel leaves to become an independent field mechanic."
-changed_reentry: "The Door Opens Both Ways reflects the fixed autonomous settlement."
+autonomous_resolution: "See Companion Autonomy and Act Convergence; untracked content uses stable-colleague treatment."
+changed_reentry: "The Door Opens Both Ways reflects a tracked settlement or Zafir's stable-colleague summer state."
 ensemble_inputs: ["Bernard Valeon", "Ashira bath Melan", "Ylva Winter-Track"]
 identity_hooks: ["Military", "Scholarly", "Mystic/Religious", "Peasant/Labour"]
+grounded_rewrite_status: approved
+external_stakes: ["petitioners and workers", "ferry safety", "casualty routes", "release mechanisms"]
+banter_priority: essential
+player_interest_gate: none
+missed_arc_treatment: changed-reentry
 encounter_deck: []
 persistence_scope: regional-milestone
 postgame_season: ""
@@ -57,7 +62,7 @@ archetype_pressure: "One perfect command can save the voluntary team more effici
 emotional_function: "Put mastery and reciprocal freedom in direct tactical conflict without making trust passive or consequence-free."
 pleasure_beat: "Read a vast rank engine, sever command paths, and coordinate distant releases through physical signal and timing."
 care_beat: "Every volunteer remains individually recoverable and retains a key whose use may frustrate Zafir's plan."
-player_archetype_hooks: ["Cheerleader", "Tomboy", "Goth", "Bohemian", "Jock", "Nerd", "Rebel", "Goofball", "Grey"]
+player_archetype_hooks: []
 ---
 # All Cords Cut Clean
 

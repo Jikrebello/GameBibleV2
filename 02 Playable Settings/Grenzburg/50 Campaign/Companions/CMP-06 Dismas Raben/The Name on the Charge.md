@@ -1,6 +1,6 @@
 ---
 type: quest
-status: draft
+status: canon
 canon_level: local
 visibility: author-only
 era: ["Present Day"]
@@ -33,6 +33,11 @@ story_gate: confrontation
 relationship_variant: ""
 preparation_inputs: ["dismas_passage_handoffs", "dismas_korrheim_registry_open", "dismas_route_notation_surrendered", "dismas_low_lantern_terms", "dismas_lask_task_kept"]
 preparation_threshold: "2 participate; 3 all material objectives; 4 one safeguard"
+grounded_rewrite_status: approved
+external_stakes: ["road users", "medicine and supplies", "public passage", "civilian withdrawal"]
+banter_priority: essential
+player_interest_gate: none
+missed_arc_treatment: changed-reentry
 encounter_deck: []
 postgame_season: ""
 estimated_hours: 1.75
@@ -43,18 +48,18 @@ companion_required: "Dismas Raben"
 duo_quest: true
 pause_points: ["Registry Retrieved", "Names Established"]
 autonomous_deadline: "Ghor at the Gate"
-autonomous_resolution: "He never files. The registry stays closed, the count is never made, and the world remains perfectly content with a conviction smaller than the truth. The vocation unlock and relationship commitment close for the playthrough."
+autonomous_resolution: "See Companion Autonomy and Act Convergence; untracked content uses stable-colleague treatment."
 changed_reentry: "The Unfiled Charge"
 ensemble_inputs: ["Ilyana Veshkar", "Zafir ibn Samad"]
 identity_hooks: ["Underworld", "Scholarly", "Nobility", "Peasant/Labour", "Merchant/Craft"]
 emotional_rewrite_status: cleared
-dialogue_status: pending-rewrite
+dialogue_status: approved
 remote_claim_status: compliant
 archetype_pressure: "Nobody is coming for him. Three clean exits are authored and open. The only thing that closes the gap is his own hand."
 emotional_function: "Invert the courtroom — he opens the case against himself — and finish a count eleven years old."
 pleasure_beat: "Bellandi's exact competence, a clerk enjoying a genuine puzzle, and the strange comedy of a highwayman commissioning his own prosecution."
 care_beat: "He pays for the truth out of his own service credit and asks nobody to carry it with him."
-player_archetype_hooks: ["Cheerleader", "Tomboy", "Goth", "Bohemian", "Jock", "Nerd", "Rebel", "Goofball", "Grey"]
+player_archetype_hooks: []
 persistence_scope: regional-milestone
 ---
 # The Name on the Charge

@@ -12,6 +12,9 @@ needs: []
 tags: [game-ready]
 companion_id: "CMP-07"
 architecture_status: migrated
+grounded_rewrite_status: approved
+dialogue_status: approved
+player_interest_gate: player-signaled
 ---
 # Tavio Field Familiarity and Relationships
 
@@ -75,9 +78,11 @@ Commitment requires:
 - no unresolved major violation;
 - an available global relationship slot.
 
-A female player may choose romance. A male player may choose sworn bond. The paths are mutually exclusive for Tavio and do not share a quest.
+A female player may choose romance only after selecting an explicit authored interest signal. The cleanest signal occurs during or after [[Games Without a Crown]] and is framed as a private invitation, not flirtation hidden inside ordinary encouragement. Before that choice, Tavio does not flirt, tease sexually, become jealous, or treat physical training as courtship.
 
-`tavio_relationship_commitment` uses `none`, `friendship`, `romance-committed`, or `bond-committed`. The Act II choice writes the state explicitly; approval never assigns it automatically.
+A male player may choose sworn bond. The paths are mutually exclusive for Tavio and do not share a quest.
+
+`tavio_romance_interest_signaled` must be true before the romance commitment is displayed. `tavio_relationship_commitment` uses `none`, `friendship`, `romance-committed`, or `bond-committed`. The Act II choice writes the state explicitly; approval never assigns it automatically.
 
 ### Romance
 
@@ -107,6 +112,10 @@ The Act III bonuses cannot stack. Missing an exclusive episode does not end a co
 - Permanent perks remain learned after departure or chosen sacrifice.
 - Duo moves require Tavio in the active party.
 - Exact numerical values remain provisional.
+
+## Chatter Discipline
+
+Tavio obeys the global Low, Normal, and High settings. At Normal he contributes no more than two ambient exchanges during roughly twenty minutes of uninterrupted travel. Training advice is player-prompted or situational, never a constant stream of encouragement. Silence locks apply during deaths, funerals, confessions, stealth, and solemn discoveries.
 
 ## Seasonal Conversations
 

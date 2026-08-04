@@ -33,6 +33,11 @@ story_gate: preparation
 relationship_variant: ""
 preparation_inputs: []
 preparation_threshold: ""
+grounded_rewrite_status: approved
+external_stakes: ["salvage custody", "crew safety", "winter rescue capacity", "living claims"]
+banter_priority: contextual
+player_interest_gate: none
+missed_arc_treatment: changed-reentry
 encounter_deck: []
 postgame_season: ""
 estimated_hours: 1
@@ -43,7 +48,7 @@ companion_required: "Elara Velescar"
 duo_quest: false
 pause_points: ["Company Posted", "First Rescue Complete"]
 autonomous_deadline: "Ghor at the Gate"
-autonomous_resolution: "Elara forms a celebrated central team while two peripheral stations remain understaffed."
+autonomous_resolution: "See Companion Autonomy and Act Convergence; untracked content uses stable-colleague treatment."
 changed_reentry: "The Patron's Cabinet proceeds with reduced public witnesses and a weaker escape network."
 ensemble_inputs: ["Ashira bath Melan", "Bernard Valeon", "Dismas Raben", "Ilyana Veshkar", "Tavio Meran", "Zafir ibn Samad", "Ylva Winter-Track"]
 identity_hooks: ["Military", "Peasant/Labour", "Underworld", "Nobility", "Merchant/Craft"]
@@ -54,7 +59,7 @@ archetype_pressure: "Elara must build a company whose unglamorous stations matte
 emotional_function: "Turn her social gift into material siege survival while testing whether everyone receives belonging and authority."
 pleasure_beat: "Uniform scraps, call signs, gallows humor, and a rescue team discovering its rhythm."
 care_beat: "Elara gives private or peripheral workers real authority rather than ceremonial praise."
-player_archetype_hooks: ["Cheerleader", "Tomboy", "Goth", "Bohemian", "Jock", "Nerd", "Rebel", "Goofball", "Grey"]
+player_archetype_hooks: []
 persistence_scope: district-persistent
 ---
 # The Winter Company

@@ -43,15 +43,21 @@ relationship_variant: ""
 preparation_inputs: []
 preparation_threshold: ""
 autonomous_deadline: "The Last Convoy"
-autonomous_resolution: "Most fittings are recalled, but one apprentice is injured when Tavio accepts a hurried live test"
+autonomous_resolution: "See Companion Autonomy and Act Convergence; untracked content uses stable-colleague treatment."
 changed_reentry: "The Cracked Batch"
 ensemble_inputs: ["Elara Velescar", "Ilyana Veshkar", "Bernard Valeon"]
 identity_hooks: ["Sestaran", "Merchant/Craft", "Underworld", "Military", "Warlock"]
+grounded_rewrite_status: approved
+external_stakes: ["equipment safety", "worker stop authority", "public bout integrity", "forge evacuation"]
+banter_priority: contextual
+player_interest_gate: none
+missed_arc_treatment: changed-reentry
 encounter_deck: []
 persistence_scope: regional-milestone
 postgame_season: ""
-emotional_rewrite_status: reframe
-dialogue_status: pending-rewrite
+emotional_rewrite_status: cleared
+dialogue_status: approved
+remote_claim_status: compliant
 archetype_pressure: "Competition becomes worth: test whether Tavio can stop, lose, or need help without surrendering athletic joy."
 emotional_function: "Keep dangerous endorsements; replace register-heavy play with teams using gear because Tavio's name made them trust it"
 pleasure_beat: "Competition, crowds, food, physical effort, ridiculous prizes, and celebrating improvement."

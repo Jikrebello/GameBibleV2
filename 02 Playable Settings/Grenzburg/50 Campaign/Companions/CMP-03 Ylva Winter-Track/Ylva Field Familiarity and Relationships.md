@@ -16,6 +16,7 @@ companion_id: "CMP-03"
 relationship_theme: "the right to be relieved"
 relationship_perks: ["Hearthward", "Second Watch"]
 architecture_status: migrated
+grounded_rewrite_status: approved
 ---
 # Ylva Field Familiarity and Relationships
 
@@ -63,7 +64,7 @@ She responds negatively to:
 
 [[Signals Over Lantern Ward]] opens during the siege. [[What the Ice Takes]] becomes joinable with two Act II assets. Commitment to [[Ghor at the Gate]] resolves it autonomously.
 
-The transition docket states that missing the finale permanently closes Ylva's romance and sworn-bond episodes and forfeits missed account rewards for that playthrough. The spring aftermath cannot recreate them.
+The transition docket states that missing the finale closes Ylva's time-specific romance and sworn-bond opportunity. Mechanical fieldcraft rewards move to credible changed re-entry rather than disappearing solely because the player pursued other work.
 
 ### Act III and Summer
 
@@ -97,7 +98,7 @@ Ylva names the conflict at the next valid hub. Repair requires honest reporting,
 
 ## Friendship
 
-[[No Quarry Today]] is available to every player who remains on speaking terms with Ylva. It contains tracking, target shooting, route marking, cooking, and friendly competition without a villain or emergency.
+[[No Quarry Today]] is available to every player who remains on speaking terms with Ylva. It contains tracking, target shooting, carving, cooking, and friendly competition without a villain or emergency.
 
 Friendship can reach Ylva's strongest moral resolution and unlock every recipe, the Winter-Track Fieldcraft augment, and all non-relationship progression.
 
@@ -108,10 +109,13 @@ Commitment requires:
 - **Trusted** approval;
 - personal completion of [[What the Ice Takes]];
 - two prior familiarity conversations;
+- an explicit authored player interest signal;
 - no unresolved major conflict;
 - the relevant global relationship slot remains available.
 
 Ylva is heterosexual. A male player may pursue romance. A female player may pursue a sworn bond. Declining either preserves friendship and all core progression.
+
+Before the interest signal, Ylva does not flirt, display jealousy, interpret practical care as courtship, or receive romance-coded companion banter.
 
 ## Romance
 

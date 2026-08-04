@@ -38,15 +38,20 @@ field_experience_gate: []
 companion_required: "Bernard Valeon"
 duo_quest: true
 pause_points: ["Relief Inventory Witnessed", "Field Infirmary Reached"]
-relationship_gate: "No relationship required; commitment requires Trusted approval and personal completion"
+relationship_gate: "No relationship required; commitment requires Trusted approval, a prior player interest signal, and personal completion"
 relationship_variant: ""
 preparation_inputs: ["bernard_long_table_network", "bernard_breach_casualty_lane_secured", "bernard_mercy_heat_plan", "bernard_long_watch_kit_provenance", "bernard_open_store_procedure_practiced"]
 preparation_threshold: "2 of 5"
 autonomous_deadline: "Ghor at the Gate"
-autonomous_resolution: "Bernard saves the patients and genuinely kindles White Flame, but admits a withheld salve only afterward; Petra's authenticated response follows the restitution record and the player unlocks nothing."
+autonomous_resolution: "See Companion Autonomy and Act Convergence; untracked content uses stable-colleague treatment."
 changed_reentry: "Ashes in the Storebook"
 ensemble_inputs: ["Ylva Winter-Track", "Ilyana Veshkar", "Zafir ibn Samad"]
 identity_hooks: ["Military", "Peasant/Labour", "Mystic/Religious", "Merchant/Craft"]
+grounded_rewrite_status: approved
+external_stakes: ["returned property", "road-school safety", "winter shelter access", "patient survival"]
+banter_priority: essential
+player_interest_gate: none
+missed_arc_treatment: changed-reentry
 encounter_deck: []
 persistence_scope: regional-milestone
 postgame_season: ""
@@ -57,7 +62,7 @@ archetype_pressure: "Bernard can save an infirmary and still owe the truth; neit
 emotional_function: "Let local carers know and love Bernard before he declares a frighteningly useful reserve under attack."
 pleasure_beat: "Bernard turns grim casualty drills into memorable names, bad songs, and a team that can move without him."
 care_beat: "He spends what is needed now, stays with the most frightened patients, and accepts a remote judgement he cannot charm."
-player_archetype_hooks: ["Cheerleader", "Tomboy", "Goth", "Bohemian", "Jock", "Nerd", "Rebel", "Goofball", "Grey"]
+player_archetype_hooks: []
 ---
 # Embers Without Excuse
 
@@ -78,7 +83,7 @@ The warning states:
 - the infirmary may require evacuation;
 - the reserve may be needed before its planned destination;
 - the Grobi know the casualty lane;
-- autonomous resolution permanently closes the player Paladin unlock and Bernard's relationship paths.
+- changed resolution closes the time-specific relationship opportunity; Paladin remains available through the spring field-service re-entry.
 
 ## Preparation
 
@@ -214,7 +219,7 @@ Bernard may be hurt, relieved, or both. The player can remain, refuse intimacy, 
 - A failed route rescue injures a named carer and removes one finale safeguard.
 - Defeat lets local teams recover the duo after the Grobi take one unit and wound patients.
 - Concealment discovered after the fight moves Bernard toward `withholding` even if everybody survives.
-- Missing the quest opens **Ashes in the Storebook**, which permits later restitution but not Paladin or relationship unlocks.
+- Missing the quest opens **Ashes in the Storebook**, which permits later restitution and a changed Paladin field proof, but not the time-specific relationship scenes.
 
 ## Outputs and Rewards
 

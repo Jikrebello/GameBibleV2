@@ -43,10 +43,15 @@ relationship_variant: ""
 preparation_inputs: []
 preparation_threshold: ""
 autonomous_deadline: "The Deep Muster"
-autonomous_resolution: "West Refuge becomes a narrow sponsor ward; the neutral-claim asset is lost"
+autonomous_resolution: "See Companion Autonomy and Act Convergence; untracked content uses stable-colleague treatment."
 changed_reentry: "The sponsor arrangement persists into The Open Hospice and cannot be renegotiated inside the finale"
 ensemble_inputs: ["Zafir ibn Samad", "Ylva Winter-Track", "Ilyana Veshkar"]
 identity_hooks: []
+grounded_rewrite_status: approved
+external_stakes: ["returned property", "road-school safety", "winter shelter access", "patient survival"]
+banter_priority: contextual
+player_interest_gate: none
+missed_arc_treatment: changed-reentry
 encounter_deck: []
 persistence_scope: district-persistent
 postgame_season: ""
@@ -57,7 +62,7 @@ archetype_pressure: "Warmth becomes evasion: test whether Bernard can remain fun
 emotional_function: "Keep neutral refuge stakes; replace procedural sponsorship emphasis with people Bernard knows, jokes with, and must defend without hiding stores"
 pleasure_beat: "Food, absurdity, road stories, children laughing, and companionship without ceremony."
 care_beat: "Bernard feeds, shelters, steadies, and tells the truth about what he takes or withholds."
-player_archetype_hooks: ["Cheerleader", "Tomboy", "Goth", "Bohemian", "Jock", "Nerd", "Rebel", "Goofball", "Grey"]
+player_archetype_hooks: []
 ---
 # Beds Before Banners
 

@@ -33,6 +33,7 @@ debt_manager: "Claims-Factor Marco Bellandi"
 legal_debt_state_key: "ylva_legal_debt_state"
 voice_status: calibrated
 emotional_rewrite_status: bible-locked
+grounded_rewrite_status: approved
 architecture_status: migrated
 ---
 # Ylva Winter-Track
@@ -52,6 +53,16 @@ Ylva establishes worth through competence and autonomy. To be trusted with diffi
 At her best, she makes survival practical and gives frightened people actions they can actually perform. At her worst, she treats visible need as surrender, regards care as a potential leash, and spends her own body before allowing a team to discuss the cost.
 
 Her resolved arc does not make her domestic, verbally effusive, or less capable. She learns that reporting an injury, accepting relief, and respecting another person's chosen risk are forms of team competence.
+
+## Adult-Life Profile
+
+**Professional role.** Ylva is a rescue scout, winter pathfinder, field fletcher, and route assessor. She is not infallible. Local ferrymen, hunters, and householders sometimes read a road better than she does, and one of her defining Grenzburg lessons is learning to be publicly wrong without treating correction as custody.
+
+**Ordinary week.** She takes one long route watch, one equipment and arrow day, one shared training shift, and at least one scheduled relief period that Brina records even when Ylva dislikes it. She wants a paid pathfinder practice with clear liability, good tools, and the freedom to refuse ceremonial office.
+
+**Local life.** Liese respects a report made on time, not heroic silence. Ashfield hunters correct her terrain assumptions. Runa recognizes her ethics and rejects her habit of deciding who is fit to risk. At the Yard, people value her dry company as much as her weather sense, though she rarely believes this at first.
+
+**Manners and privacy.** Ylva is courteous to householders, terse with officers, gentle but unsentimental with frightened people, and capable of cold contempt toward someone who stops earlier than she would. That contempt is a real fault, not merely a misunderstood strength. She does not flirt before the player signals interest. If ignored, she works routes competently, keeps the carved spoon, loses shooting games badly, and remains an unresolved colleague rather than collapsing from overwork off-screen.
 
 ## Identity
 
@@ -260,6 +271,8 @@ No person from her homeland arrives to decide her worth.
 ## Relationships
 
 Ylva is heterosexual. A male player may pursue romance; a female player may form the exclusive sworn bond.
+
+Neither path is inferred from field trust or practical care. Before the player selects an explicit interest signal, Ylva does not flirt, display jealousy, or receive romance-coded party banter.
 
 Romance concerns care that is freely received rather than entered as debt. Sworn friendship concerns alternating lead, watch, and relief between two women whose competence does not require hierarchy.
 

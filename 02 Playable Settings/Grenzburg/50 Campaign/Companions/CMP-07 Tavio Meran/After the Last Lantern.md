@@ -43,15 +43,21 @@ relationship_variant: bond
 preparation_inputs: []
 preparation_threshold: ""
 autonomous_deadline: "The Unending Muster"
-autonomous_resolution: "The bond remains committed if already chosen, but its episode upgrade and Act III safeguard are lost"
+autonomous_resolution: "See Companion Autonomy and Act Convergence; untracked content uses stable-colleague treatment."
 changed_reentry: ""
 ensemble_inputs: []
 identity_hooks: ["Sestaran", "Peasant/Labour", "Merchant/Craft", "Drifter/Vagabond"]
+grounded_rewrite_status: approved
+external_stakes: ["fairground cleanup", "equipment count", "overnight watch"]
+banter_priority: private
+player_interest_gate: committed-bond
+missed_arc_treatment: closes-transient-event
 encounter_deck: []
 persistence_scope: personal
 postgame_season: ""
-emotional_rewrite_status: preserve
-dialogue_status: pending-rewrite
+emotional_rewrite_status: cleared
+dialogue_status: approved
+remote_claim_status: compliant
 archetype_pressure: "Competition becomes worth: test whether Tavio can stop, lose, or need help without surrendering athletic joy."
 emotional_function: "Keep male-player trusted seconds, cleanup, and brotherhood after the crowd"
 pleasure_beat: "Competition, crowds, food, physical effort, ridiculous prizes, and celebrating improvement."
@@ -128,4 +134,4 @@ Missing the episode does not end an existing bond, but loses these upgrades.
 - [[Tavio Field Familiarity and Relationships]]
 - [[The Fair Defeat]]
 - [[Horn for Leak-Day]]
-- [[The Examiner]]
+- [[The Road Examiner]]

@@ -1,17 +1,20 @@
 ---
 type: reference
-status: draft
-canon_level: local
+status: archived
+canon_level: obsolete
 visibility: author-only
 era: ["Present Day"]
 region: ["Grenzburg"]
 culture: []
 related_factions: ["Blackjack Corps"]
 appears_in: ["Grenzburg"]
-needs:
-  - decide the arrival question (Lio; the Salt-Reed troupe) before the Ylva-Tavio and Ilyana-Dismas paired passes
+needs: []
 tags: [narrative-design, critique, production-control]
 aliases: ["Tavio and Ilyana Critique"]
+archived_from: "02 Playable Settings/Grenzburg/50 Campaign/Companions"
+archived_on: 2026-08-04
+archive_reason: "critical review incorporated into completed grounded rewrites"
+superseded_by: "[[Companion Grounded Writing Standard]]"
 ---
 # Companion Critical Review — Tavio and Ilyana
 

@@ -33,6 +33,7 @@ debt_manager: ""
 legal_debt_state_key: ""
 voice_status: ""
 emotional_rewrite_status: ""
+grounded_rewrite_status: ""
 embedded_opportunity_target: 0
 ensemble_inputs: []
 faction_line: ""
@@ -41,6 +42,22 @@ faction_branch: ""
 # {{title}}
 
 ## Core Concept
+
+## Adult-Life Profile
+
+### Professional Role
+
+### Ordinary Routine
+
+### Present-Day Relationships
+
+### Material Wants and Current Ambition
+
+### Manners and Social Boundaries
+
+### Privacy, Attraction, and Disclosure
+
+### Independent Life Without the Player
 
 ## Public Face
 
@@ -117,6 +134,7 @@ faction_branch: ""
 - Legal debt state key:
 - Voice status:
 - Emotional rewrite status:
+- Grounded rewrite status:
 - Embedded-opportunity target:
 - Ensemble inputs:
 - Faction line and branch:

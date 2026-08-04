@@ -16,18 +16,20 @@ voice_status: calibrated
 dialogue_status: approved
 emotional_rewrite_status: cleared
 remote_claim_status: compliant
+grounded_rewrite_status: approved
 ---
 # Zafir Banter and Reactivity
 
 ## Voice Key
 
-- Defines terms because precision is affection as often as defence.
-- Uses examples, counterexamples, and small models.
-- Becomes visibly delighted when corrected well.
+- Speaks formally and usually plainly; technical vocabulary appears when it prevents a real mistake.
+- Builds examples and small models while working, not as a substitute for conversation.
+- Enjoys a strong correction but dislikes being made publicly ornamental by it.
 - Overexplains when shame threatens the person beneath the expertise.
 - Offers practical tools without always asking whether one is wanted.
-- Uses dry humor and occasionally fails to signal it.
-- Must possess tastes, awkwardness, and pleasure beyond legal doctrine.
+- Uses dry humor sparingly and does not turn every disagreement into a quotable maxim.
+- Has convictions, tastes, awkwardness, and pleasure beyond legal doctrine.
+- Before an explicit player interest signal, intellectual attention is not flirtation and nobody frames it that way.
 
 ## Calibration Scenes
 
@@ -35,13 +37,11 @@ remote_claim_status: compliant
 
 Zafir unfolds a small brass bridge across two cups.
 
-**Zafir:** “The clever part is not the span.”
-
 The bridge collapses.
 
-He stares at it, then smiles.
+He stares at it. The fallen arm has landed in his tea.
 
-**Zafir:** “Excellent. It has objected.”
+Zafir laughs hard enough to spill the other cup, then spends an hour making the same foolish bridge work.
 
 ### Competence — A command device
 
@@ -51,9 +51,9 @@ The whole mechanism releases.
 
 **Player:** “How?”
 
-**Zafir:** “It was designed by someone who expected admiration before inspection.”
+**Zafir:** “The fourth cord carried no load. It only made the other three look necessary.”
 
-He is trying not to look pleased.
+He checks the workers are clear before touching the mechanism again.
 
 ### Embarrassment — A simple knot
 
@@ -71,7 +71,11 @@ A guild officer tells workers the clause is too technical to explain.
 
 Zafir takes the document.
 
-**Zafir:** “It is not difficult. You have arranged it to punish the hurried.”
+**Zafir:** “Read the third line to them.”
+
+The officer refuses.
+
+**Zafir:** “Then I will, and you will remain here while they answer.”
 
 He reads it aloud in ordinary language, including the part that implicates him.
 
@@ -81,7 +85,7 @@ A patient cannot tolerate a restraint buckle.
 
 Zafir returns with a brace that can be released by the wearer's weak hand.
 
-**Zafir:** “You need not demonstrate gratitude. Please demonstrate the catch.”
+**Zafir:** “Try the catch with your weak hand. Tell me where it drags.”
 
 He revises it when she finds the release uncomfortable.
 
@@ -101,9 +105,9 @@ He clears the centre and starts again with them present.
 
 Zafir gives the controlled worker the severed cord, complete notes, and the right to destroy both.
 
-**Zafir:** “I improved the terms of something that should not have had terms.”
+**Zafir:** “The cord was in my hand. It should have been in yours.”
 
-He does not explain how much safer his version was.
+He sets it down and does not explain how much safer his version was.
 
 ### Quiet — Tea
 
@@ -137,9 +141,9 @@ Zafir reads his improved Things Not Mine headings aloud in front of the Yard. Be
 
 **Bernard:** “My shame has acquired excellent handwriting.”
 
-**Zafir:** “Would you prefer an inaccurate record?”
+Zafir misses the joke and continues reading.
 
-Bernard asks whether he would prefer to be asked before public demonstration. Zafir moves the board to a screened alcove. Bernard still fills it in.
+Bernard asks whether he would prefer to be asked before public demonstration. Zafir refuses to move the board because the inventory must be public. Brina moves it to a screened alcove and leaves the total visible. Two days later Zafir asks Bernard where the owner names should go. Bernard still fills them in.
 
 ### Winter — The Fifth Pot
 
@@ -147,9 +151,7 @@ Bernard's Long Table includes Funnel carters absent from Zafir's route model. La
 
 **Bernard:** “The carters were absent from yours.”
 
-**Zafir:** “Then we have each found a person the other preferred not to count.”
-
-Zafir revises the route. Bernard declares the reserve. Neither converts the other's error into acquittal.
+Zafir looks under the table, finds the undeclared oil, and says nothing until the meal is over. He revises the route that night. Bernard declares the reserve at breakfast. Their next conversation is about axle grease.
 
 ### Spring — Welcome and Exit
 
@@ -157,7 +159,7 @@ Bernard writes “all wounded welcome” over West Refuge's door. Zafir adds a r
 
 **Bernard:** “You have put an exit on my welcome.”
 
-**Zafir:** “A welcome without one can become a capture.”
+**Zafir:** “The night carers asked for it.”
 
 Bernard leaves the exit. Zafir lets a carer explain it without correcting her wording.
 
@@ -178,7 +180,9 @@ Bernard leaves the exit. Zafir lets a carer explain it without correcting her wo
 - Learns that local Folk practice may encode knowledge his model omitted.
 - Values Low Lantern information but rejects unreviewable hidden judgement.
 
-## Temperament Use
+## Optional Temperament Hooks
+
+Grey is the controlling baseline. Use the following only where a specific scene gains something:
 
 - **Nerd:** shared delight risks competition and a sealed two-person hierarchy.
 - **Goofball:** humor makes expertise breathable but can humiliate Zafir during public error.
@@ -189,6 +193,13 @@ Bernard leaves the exit. Zafir lets a carer explain it without correcting her wo
 - **Goth:** shares exact forbidden knowledge while protecting privacy from technical possession.
 - **Bohemian:** expands possibility and strains Zafir's need for continuity.
 - **Grey:** asks what matters now and receives a complete relationship baseline without treating expertise as identity.
+
+## Chatter Discipline
+
+- **Low:** tactical calls, necessary quest information, and player-prompted conversation only.
+- **Normal:** no more than two contextual exchanges during roughly twenty minutes of uninterrupted travel.
+- **High:** no more than four, using additional work, food, architecture, tools, and present-company material.
+- Funerals, deaths, failed rescues, stealth, confessions, and solemn discoveries impose the shared silence lock.
 
 ## Failure Modes
 

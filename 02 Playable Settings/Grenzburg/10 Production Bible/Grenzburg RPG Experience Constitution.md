@@ -16,7 +16,7 @@ tags: [game-ready]
 
 This note controls how Grenzburg combines player authorship, authored narrative, and a living open world. [[Grenzburg Game Constitution]] remains the highest product authority. This constitution explains the experience that its systems and content must produce.
 
-## Three Equal Layers
+## Three Interlocking Layers
 
 ### The World Campaign
 
@@ -32,9 +32,9 @@ The game must recognize those choices materially. Recognition may create opportu
 
 Temperament is inferred only from authored expressive choices and may remain deliberately grey. It changes chemistry and response texture without turning the blank-slate protagonist into a hidden fixed character.
 
-### Eight Companion Campaigns
+### Eight Optional Companion Campaigns
 
-The companions provide authored character drama inside the same calendar. Each is a Blackjack colleague with an agenda, obligations, relationships, and a life that continues when absent from the player's party.
+The companions provide the game's deepest authored character drama when the player chooses sustained involvement. Each begins as a useful Blackjack colleague with an agenda, obligations, relationships, and a life that continues when absent from the player's party. They are not eight compulsory co-protagonists.
 
 The player may help, redirect, miss, oppose, or re-enter those campaigns. The player is never the sole reason another adult acts, changes, fails, or survives.
 
@@ -45,8 +45,11 @@ Each companion must offer an immediate readable archetype, a contradiction, appe
 - **Skyrim:** player-authored identity, world-first exploration, readable places, and the freedom to leave the main path alone.
 - **Dragon's Dogma:** physical combat, vocation identity, dangerous travel, party composition, and mechanical discovery.
 - **The Witcher 3:** authored local stories, investigation, concrete motives, monsters grounded in place, and visible consequence.
-- **Baldur's Gate 3:** meaningful recognition of background, ability, knowledge, and prior conduct, without giving Grenzburg a fixed cinematic protagonist.
+- **Fallout 4:** everyday companion availability, field usefulness, affinity through conduct, and private stories that remain optional.
+- **Cyberpunk and Grand Theft Auto:** material social lives, class, loyalty, crime, family, and relationships that do not wait in camp for the protagonist.
+- **Fallout: New Vegas and Pillars of Eternity:** conviction, moral ugliness, intellectual independence, and people who remain compelling without becoming agreeable.
 - **Grand Theft Auto:** a public story skeleton that opens content and advances time while the player owns the space between major missions.
+- **Dragon Age and Baldur's Gate 3:** negative tonal controls for routine sass, compulsory intimacy, ensemble therapy, sexualized banter, and companions written as an always-on performance.
 
 These are craft lessons only. They do not authorize imported names, plots, factions, dialogue, or lore.
 
@@ -67,7 +70,7 @@ These are craft lessons only. They do not authorize imported names, plots, facti
 
 ## Narrative Weight
 
-The main campaign is the public history of Grenzburg's crisis. Companion campaigns are the principal authored personal narratives. Faction lines are institutional lives. Marquee and local quests give settlements and regions their own memory.
+The main campaign is the public history of Grenzburg's crisis. Player-selected companion campaigns are the deepest authored personal narratives. Faction lines are institutional lives. Marquee and local quests give settlements and regions their own memory.
 
 No layer may consume the others:
 
@@ -83,7 +86,7 @@ No layer may consume the others:
 - Broad playthrough: more than 100 hours.
 - Completionist play: may exceed 200 hours.
 - Main acts advance only through named campaign gates.
-- Companion act chapters converge at those gates.
+- Tracked companion act chapters converge at those gates; untracked colleagues continue stable work without hidden personal resolution.
 - Postgame seasons advance only through deliberate player action.
 
 These are production promises rather than reasons to pad content.

@@ -43,10 +43,15 @@ relationship_variant: ""
 preparation_inputs: []
 preparation_threshold: ""
 autonomous_deadline: "The Last Convoy"
-autonomous_resolution: "Zafir recovers the execution-end under Medori custody but records Samira only as the instrument's source, not its author."
+autonomous_resolution: "See Companion Autonomy and Act Convergence; untracked content uses stable-colleague treatment."
 changed_reentry: "The winter version begins with a damaged execution-end and Karel already outside Zafir's instruction."
 ensemble_inputs: ["Bernard Valeon", "Elara Velescar", "Ilyana Veshkar"]
 identity_hooks: ["Scholarly", "Merchant/Craft", "Underworld", "Mystic/Religious"]
+grounded_rewrite_status: approved
+external_stakes: ["petitioners and workers", "ferry safety", "casualty routes", "release mechanisms"]
+banter_priority: contextual
+player_interest_gate: none
+missed_arc_treatment: changed-reentry
 encounter_deck: []
 persistence_scope: district-persistent
 postgame_season: ""
@@ -57,7 +62,7 @@ archetype_pressure: "Zafir is thrilled by the inversion and must name the enslav
 emotional_function: "Introduce his technical magnetism, humiliation under control, and habit of recognizing work before personhood."
 pleasure_beat: "Decode a moving cord through architecture, chase a stolen mechanism, and watch Karel solve distance by laying the plan on the floor."
 care_beat: "Zafir can protect Chain House staff and give Karel real refusal before securing his own relief."
-player_archetype_hooks: ["Cheerleader", "Tomboy", "Goth", "Bohemian", "Jock", "Nerd", "Rebel", "Goofball", "Grey"]
+player_archetype_hooks: []
 ---
 # The Cord Returned
 

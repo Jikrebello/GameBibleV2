@@ -8,8 +8,7 @@ region: ["Grenzburg"]
 culture: []
 related_factions: ["Blackjack Corps"]
 appears_in: ["Grenzburg"]
-needs:
-  - allocate temperament signals during paired companion and side-content rewrites
+needs: []
 tags: [game-ready, player-system, narrative-design]
 system_family: player
 player_system: temperament
@@ -220,7 +219,7 @@ Completion of [[Ghor at the Gate]] freezes the current primary, secondary, or gr
 
 ## Chemistry Use
 
-[[Companion Archetype Chemistry Matrix]] controls the 64 primary dynamics.
+[[Companion Archetype Chemistry Matrix]] is an optional hook bank. The Grey response is always complete, and no companion requires eight temperament variants or a fixed chemistry-scene quota.
 
 - Primary tendency chooses the full scene interpretation where a variant exists.
 - Secondary tendency may alter one follow-up, objection, joke, or method.

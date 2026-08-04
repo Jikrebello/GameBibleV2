@@ -31,6 +31,11 @@ chapter_id: ""
 main_sequence: 0
 story_gate: confrontation
 relationship_variant: ""
+grounded_rewrite_status: approved
+external_stakes: ["witness safety", "captive rescue", "casualty identification", "field-method control"]
+banter_priority: essential
+player_interest_gate: none
+missed_arc_treatment: changed-reentry
 encounter_deck: []
 postgame_season: ""
 estimated_hours: 1.75
@@ -43,8 +48,8 @@ pause_points: ["Bone-Reed Pool Reached", "Command Screen Breached"]
 preparation_inputs: ["ashira_borrowed_face_caches", "ashira_muster_cadence_sample", "ashira_nonhuman_roster_separated", "ashira_company_consent_drill", "ashira_bone_reed_approach"]
 preparation_threshold: "2 participate; 3 all material objectives; 4 one safeguard"
 autonomous_deadline: "The Deep Muster Main Quest"
-autonomous_resolution: "Ashira seals the human roster under divided custody and becomes a supervised Blackjack Medium."
-changed_reentry: "A Shadow with No Face reflects the fixed custody."
+autonomous_resolution: "See Companion Autonomy and Act Convergence; untracked content uses stable-colleague treatment."
+changed_reentry: "A Shadow with No Face reflects tracked custody or Ashira's stable-colleague summer state."
 ensemble_inputs: ["Elara Velescar"]
 identity_hooks: ["Military", "Scholarly", "Mystic/Religious", "Wilderness"]
 emotional_rewrite_status: cleared
@@ -54,7 +59,7 @@ archetype_pressure: "The roster can save lives in the immediate assault; Ashira 
 emotional_function: "Resolve her possession of human likeness while preserving the strange, legitimate heart of Medium play."
 pleasure_beat: "A severe marsh assault using shadow fields, false formations, and a command station that can be tactically understood."
 care_beat: "Preserve living company members and the nonhuman practice without treating either as justification for the human roster."
-player_archetype_hooks: ["Cheerleader", "Tomboy", "Goth", "Bohemian", "Jock", "Nerd", "Rebel", "Goofball", "Grey"]
+player_archetype_hooks: []
 persistence_scope: regional-persistent
 ---
 # No Human Shadow

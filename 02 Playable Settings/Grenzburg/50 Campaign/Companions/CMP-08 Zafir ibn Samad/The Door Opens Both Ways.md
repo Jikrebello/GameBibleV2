@@ -43,10 +43,15 @@ relationship_variant: ""
 preparation_inputs: []
 preparation_threshold: ""
 autonomous_deadline: ""
-autonomous_resolution: "The coda reflects the fixed campaign result and creates no new moral test."
+autonomous_resolution: "See Companion Autonomy and Act Convergence; untracked content uses stable-colleague treatment."
 changed_reentry: ""
 ensemble_inputs: ["Bernard Valeon"]
 identity_hooks: ["Merchant/Craft", "Peasant/Labour", "Scholarly", "Mystic/Religious"]
+grounded_rewrite_status: approved
+external_stakes: ["summer repair practice", "Open-Cord teaching", "Karel's independent work"]
+banter_priority: contextual
+player_interest_gate: none
+missed_arc_treatment: not-applicable
 encounter_deck: []
 persistence_scope: regional-milestone
 postgame_season: summer
@@ -57,7 +62,7 @@ archetype_pressure: "The final ordinary door must be usable from both sides even
 emotional_function: "Demonstrate rather than reopen his settlement through teaching, repair, supervision, departure, or renewed control."
 pleasure_beat: "Install an ordinary two-sided refuge latch and release the reed bird down a sunlit lane."
 care_beat: "Karel's independent future and Samira's no-contact boundary remain intact."
-player_archetype_hooks: ["Cheerleader", "Tomboy", "Goth", "Bohemian", "Jock", "Nerd", "Rebel", "Goofball", "Grey"]
+player_archetype_hooks: []
 ---
 # The Door Opens Both Ways
 

@@ -20,7 +20,7 @@ This note controls how all eight companion debts enter, change, and end inside t
 
 Medori owns or administers each companion's enforceable claim. The Bank is therefore the local legal counterparty even when the original wrong, injured person, employer, court, order, family, or institution remains abroad.
 
-No person from a companion's former life physically enters the base-game worldspace.
+No person from a companion's former life physically enters the base-game worldspace by default.
 
 The past may remain active through:
 
@@ -33,6 +33,12 @@ The past may remain active through:
 - local agents who never become a substitute victim or source of forgiveness.
 
 The rule prevents eight distant casts from converging on a small frontier duchy. It does not make the past unreal or let a companion escape consequences by leaving home.
+
+### Sole Exception: the Lio Clause
+
+[[Lio Varcen]] is the only active exception. He enters under his own power, for his own filed purpose, with independent lodging, protection, medical arrangements, second, clerk, and exit route. He is never in [[Tavio Meran]]'s custody and may refuse the bout, contact, apology, or reconciliation without invalidating his testimony or the campaign.
+
+The exception exists because Lio seeks a new fair contest with the actual opponent who rigged the old one. It does not authorize the arrival of mentors, relatives, patrons, former partners, victims, or other claimants in any companion campaign.
 
 ## Local Portfolio
 
@@ -101,12 +107,12 @@ No Medium imprint, Bard performance, patron, Menhir route, or supernatural mecha
 Every companion bible records:
 
 - `remote_claim_anchor`;
-- `past_contact_mode: remote-only`;
+- `past_contact_mode: remote-only`, except Tavio's `lio-clause-exception`;
 - `debt_manager: Claims-Factor Marco Bellandi`;
 - the companion-specific legal debt state key;
 - a personal direction key owned by that companion's campaign.
 
-Quest notes that still require a past person to arrive use `remote_claim_status: pending-migration` and remain excluded from implementation-ready views. Compliant quests use `remote_claim_status: compliant`.
+Quest notes that still require an unsanctioned past person to arrive use `remote_claim_status: pending-migration` and remain excluded from implementation-ready views. Compliant quests use `remote_claim_status: compliant`; Lio's two appearance quests use `compliant-via-lio-clause`.
 
 ## Navigation
 
@@ -116,4 +122,3 @@ Quest notes that still require a past person to arrive use `remote_claim_status:
 - [[Companion Constitution]]
 - [[Narrative State Register]]
 - [[Companions MOC]]
-

@@ -1,17 +1,20 @@
 ---
 type: reference
-status: draft
-canon_level: local
+status: archived
+canon_level: obsolete
 visibility: author-only
 era: ["Present Day"]
 region: ["Grenzburg", "Korrheim"]
 culture: ["Eclessian", "Korrheim"]
 related_factions: ["Blackjack Corps", "Medori Bank"]
 appears_in: ["Grenzburg"]
-needs:
-  - execute phases 1-6 in order, as the Ilyana-Dismas paired pass's Dismas half
+needs: []
 tags: [narrative-design, production-control, rewrite-spec]
 aliases: ["CMP-06 Rewrite Spec"]
+archived_from: "02 Playable Settings/Grenzburg/50 Campaign/Companions"
+archived_on: 2026-08-04
+archive_reason: "rewrite specification superseded by the grounded companion campaign"
+superseded_by: "[[Dismas Companion Campaign]]"
 ---
 # Dismas Rewrite Spec
 

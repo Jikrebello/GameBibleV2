@@ -43,10 +43,15 @@ relationship_variant: ""
 preparation_inputs: []
 preparation_threshold: ""
 autonomous_deadline: ""
-autonomous_resolution: "The episode remains available until the Act II finale."
+autonomous_resolution: "See Companion Autonomy and Act Convergence; untracked content uses stable-colleague treatment."
 changed_reentry: ""
 ensemble_inputs: []
 identity_hooks: ["Merchant/Craft", "Scholarly", "Peasant/Labour", "Drifter/Vagabond"]
+grounded_rewrite_status: approved
+external_stakes: ["mechanical reed bird", "latch course", "shared workshop"]
+banter_priority: optional
+player_interest_gate: none
+missed_arc_treatment: stable-colleague
 encounter_deck: []
 persistence_scope: local-persistent
 postgame_season: ""
@@ -57,7 +62,7 @@ archetype_pressure: "Zafir must let a useless object fail, be revised, and remai
 emotional_function: "Give him pleasure, silliness, and friendship wholly outside culpability or practical necessity."
 pleasure_beat: "Build a mechanical reed bird for an absurd latch course and wager on which failure is most elegant."
 care_beat: "The player values Zafir's company when his expertise is unnecessary."
-player_archetype_hooks: ["Cheerleader", "Tomboy", "Goth", "Bohemian", "Jock", "Nerd", "Rebel", "Goofball", "Grey"]
+player_archetype_hooks: []
 ---
 # A Bird for No Door
 

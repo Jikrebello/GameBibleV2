@@ -43,10 +43,15 @@ relationship_variant: bond
 preparation_inputs: []
 preparation_threshold: ""
 autonomous_deadline: "The Open Thaw"
-autonomous_resolution: "Missing the episode preserves commitment but forfeits its upgrade and safeguard."
+autonomous_resolution: "See Companion Autonomy and Act Convergence; untracked content uses stable-colleague treatment."
 changed_reentry: ""
 ensemble_inputs: []
 identity_hooks: ["Merchant/Craft", "Peasant/Labour", "Scholarly", "Drifter/Vagabond"]
+grounded_rewrite_status: approved
+external_stakes: ["Yard and Longlake repair circuit", "shared stop authority", "ordinary mechanisms"]
+banter_priority: private
+player_interest_gate: committed-bond
+missed_arc_treatment: closes-transient-event
 encounter_deck: []
 persistence_scope: district-persistent
 postgame_season: ""
@@ -57,7 +62,7 @@ archetype_pressure: "Two men must share mastery without one becoming the conduct
 emotional_function: "Build explicit platonic brotherhood through alternating work, stop authority, and ordinary trust."
 pleasure_beat: "Repair a bell pull, stove catch, Yard gate, and ferry lamp while arguing about which fix is least dignified."
 care_beat: "Each man takes the other's objection seriously before the mechanism becomes dangerous."
-player_archetype_hooks: ["Jock", "Nerd", "Rebel", "Goofball", "Grey"]
+player_archetype_hooks: []
 ---
 # The Night of Small Repairs
 

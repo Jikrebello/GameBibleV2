@@ -43,15 +43,21 @@ relationship_variant: ""
 preparation_inputs: ["ylva_fourth_marker_restored", "ylva_shared_signal_code", "ylva_black_fir_route_survey", "ylva_three_log_bridge_repair", "ylva_upper_grenz_relief_roster"]
 preparation_threshold: "2 join; 3 all material objectives; 4-5 one safeguard"
 autonomous_deadline: "The Last Convoy"
-autonomous_resolution: "Ylva saves everyone but calls relief late, causing one avoidable injury and extra equipment loss"
+autonomous_resolution: "See Companion Autonomy and Act Convergence; untracked content uses stable-colleague treatment."
 changed_reentry: "Relay After Frost"
 ensemble_inputs: ["Bernard Valeon", "Dismas Raben"]
 identity_hooks: ["Ättar", "Folk", "Military", "Wilderness", "Peasant/Labour", "Hunter", "Fighter", "Slayer", "Warlock", "Medium", "Bard"]
+grounded_rewrite_status: approved
+external_stakes: ["route safety", "civilian evacuation", "signal infrastructure", "field-arrow supply"]
+banter_priority: essential
+player_interest_gate: none
+missed_arc_treatment: changed-reentry
 encounter_deck: ["Upper Grenz road bandits", "autumn flood", "falling timber"]
 persistence_scope: regional-milestone
 postgame_season: ""
-emotional_rewrite_status: reframe
-dialogue_status: pending-rewrite
+emotional_rewrite_status: cleared
+dialogue_status: approved
+remote_claim_status: compliant
 archetype_pressure: "Competence becomes self-erasure: test whether Ylva accepts shared agency without reading care as confinement."
 emotional_function: "Keep the rescue; reduce repeated signal machinery and make Ylva's injured body, authority, and distress call the intimate pressure"
 pleasure_beat: "Field competence, open weather, friendly contest, practical food, and quiet work done well."

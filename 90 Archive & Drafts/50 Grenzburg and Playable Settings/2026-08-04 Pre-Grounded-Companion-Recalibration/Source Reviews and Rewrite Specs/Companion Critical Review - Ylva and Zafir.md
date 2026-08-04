@@ -1,18 +1,20 @@
 ---
 type: reference
-status: draft
-canon_level: local
+status: archived
+canon_level: obsolete
 visibility: author-only
 era: ["Present Day"]
 region: ["Grenzburg"]
 culture: []
 related_factions: ["Blackjack Corps"]
 appears_in: ["Grenzburg"]
-needs:
-  - feed the variety findings into the Ylva-Tavio paired pass
-  - schedule Zafir texture work alongside the Bernard spec execution
+needs: []
 tags: [narrative-design, critique, production-control]
 aliases: ["Ylva and Zafir Critique"]
+archived_from: "02 Playable Settings/Grenzburg/50 Campaign/Companions"
+archived_on: 2026-08-04
+archive_reason: "critical review incorporated into completed grounded rewrites"
+superseded_by: "[[Companion Grounded Writing Standard]]"
 ---
 # Companion Critical Review — Ylva and Zafir
 

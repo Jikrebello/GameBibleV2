@@ -31,6 +31,11 @@ chapter_id: ""
 main_sequence: 0
 story_gate: confrontation
 relationship_variant: ""
+grounded_rewrite_status: approved
+external_stakes: ["witness safety", "captive rescue", "casualty identification", "field-method control"]
+banter_priority: essential
+player_interest_gate: none
+missed_arc_treatment: changed-reentry
 encounter_deck: []
 postgame_season: ""
 estimated_hours: 1.5
@@ -43,7 +48,7 @@ pause_points: ["Causeway Camp Reached", "Captive Gallery Found"]
 preparation_inputs: ["ashira_spindle_recovered", "ashira_yard_testimony_protected", "ashira_causeway_flood_route", "ashira_nonhuman_decoy_pattern", "ashira_privacy_compact"]
 preparation_threshold: "2 participate; 3 all material objectives; 4 one safeguard"
 autonomous_deadline: "The Last Convoy"
-autonomous_resolution: "Ashira saves the captives but uses one recognizable face after their families refuse."
+autonomous_resolution: "See Companion Autonomy and Act Convergence; untracked content uses stable-colleague treatment."
 changed_reentry: "The Drowned Answer"
 ensemble_inputs: ["Elara Velescar"]
 identity_hooks: ["Folk", "Wilderness", "Scholarly", "Mystic/Religious"]
@@ -54,7 +59,7 @@ archetype_pressure: "A prohibited face is tactically effective, but the affected
 emotional_function: "Force Ashira's core error through an urgent rescue rather than a hearing."
 pleasure_beat: "Flooded Atherian traversal, reflected-light stealth, and tactical shade play."
 care_beat: "Let captives and families choose what risk they will accept and what likeness they refuse."
-player_archetype_hooks: ["Cheerleader", "Tomboy", "Goth", "Bohemian", "Jock", "Nerd", "Rebel", "Goofball", "Grey"]
+player_archetype_hooks: []
 persistence_scope: regional-persistent
 ---
 # A Useful Terror

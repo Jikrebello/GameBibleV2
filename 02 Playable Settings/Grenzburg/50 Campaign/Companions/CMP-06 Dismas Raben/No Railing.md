@@ -1,6 +1,6 @@
 ---
 type: quest
-status: draft
+status: canon
 canon_level: local
 visibility: author-only
 era: ["Present Day"]
@@ -15,7 +15,7 @@ act: act-1
 availability_window: ["Late Autumn", "Early Winter", "Deep Winter"]
 repeatability: one-shot
 cutoff_result: persists
-world_state_outputs: ["dismas_friendship_episode", "dismas_chimney_count", "dismas_relationship_interest"]
+world_state_outputs: ["dismas_friendship_episode", "dismas_chimney_count", "dismas_relationship_interest", "dismas_romance_interest_signaled"]
 reward_unlocks: ["Follow the Queen"]
 required_locations: ["Quarry Steps", "Old Smuggler's Traverse", "Hollow Ash"]
 blocking_status: blocked
@@ -42,21 +42,26 @@ relationship_gate: "Available to every player; no attraction or commitment requi
 preparation_inputs: []
 preparation_threshold: ""
 autonomous_deadline: ""
-autonomous_resolution: "He goes alone, as he has every year. The episode remains available later."
+autonomous_resolution: "See Companion Autonomy and Act Convergence; untracked content uses stable-colleague treatment."
 changed_reentry: "A winter version uses the frozen traverse and a shorter sit"
 ensemble_inputs: []
 identity_hooks: []
+grounded_rewrite_status: approved
+external_stakes: ["Blackjack Yard chimney count", "rooftop maintenance", "safe breakfast"]
+banter_priority: optional
+player_interest_gate: none
+missed_arc_treatment: stable-colleague
 encounter_deck: []
 persistence_scope: character-persistent
 postgame_season: ""
 emotional_rewrite_status: cleared
-dialogue_status: pending-rewrite
+dialogue_status: approved
 remote_claim_status: compliant
 archetype_pressure: "Illicit pleasure with nothing prosecuted: the one piece where refusal costs nobody anything."
 emotional_function: "Give the player the man rather than the case, and hide the campaign's heart in a count that comes out right."
 pleasure_beat: "A route that does not exist, cards on a parapet, breakfast carried all night, and a view officials call impossible."
 care_beat: "He shows the player something he has never shown anyone, and lies about why."
-player_archetype_hooks: ["Cheerleader", "Tomboy", "Goth", "Bohemian", "Jock", "Nerd", "Rebel", "Goofball", "Grey"]
+player_archetype_hooks: []
 ---
 # No Railing
 

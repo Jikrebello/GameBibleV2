@@ -8,14 +8,14 @@ region: ["Grenzburg"]
 culture: ["Sermoran"]
 related_factions: ["Blackjack Corps"]
 appears_in: ["Grenzburg"]
-needs:
-  - replace quest-level dialogue during the Ilyana-Dismas paired campaign pass
+needs: []
 tags: [game-ready, companion-response]
 companion_id: "CMP-02"
 archetype: "Bohemian"
 voice_status: calibrated
-dialogue_status: calibrated
-emotional_rewrite_status: bible-locked
+dialogue_status: approved
+emotional_rewrite_status: cleared
+grounded_rewrite_status: approved
 ---
 # Ilyana Banter and Reactivity
 
@@ -28,6 +28,8 @@ emotional_rewrite_status: bible-locked
 - Becomes physically still when genuinely listening.
 - Treats repetition as death until she learns its protective uses.
 - Never sounds like a contract lecturer merely because consent is central to her arc.
+- Does not turn every quiet space into a performance and does not fill another person's silence for them.
+- Before an explicit player interest signal, she is friendly and attentive without flirting, jealousy, or sexual teasing.
 
 ## Calibration Scenes
 
@@ -129,7 +131,7 @@ During an ugly but effective marching cadence:
 
 Ilyana turns an illegal route into a procession; Dismas is furious because spectacle risks the people using it. She points out that nobody will defend a route they experience only as shame.
 
-Both are partly right and pleased by the argument.
+They finish the argument by marking a less conspicuous route. Neither concedes the larger point.
 
 ### Winter
 
@@ -162,6 +164,13 @@ They build something neither may remain to lead. Ilyana writes an opening with r
 - Bohemian similarity must include envy, maintenance, and follow-through.
 - Rebel chemistry cannot substitute intensity for commitment.
 - Nerd contrast gives form without making the player Ilyana's permanent administrator.
+
+## Chatter Discipline
+
+- **Low:** tactical calls, required quest information, and player-prompted conversation only.
+- **Normal:** no more than two contextual exchanges during roughly twenty minutes of uninterrupted travel.
+- **High:** no more than four, drawn from extra route, weather, work, and company material rather than repetitions.
+- Funerals, deaths, failed rescues, stealth, confessions, and solemn discoveries impose the shared silence lock.
 
 ## Failure Modes
 

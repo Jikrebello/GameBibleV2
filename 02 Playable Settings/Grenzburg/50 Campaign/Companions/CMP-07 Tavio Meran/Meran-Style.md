@@ -1,6 +1,6 @@
 ---
 type: quest
-status: draft
+status: canon
 canon_level: local
 visibility: author-only
 era: ["Present Day"]
@@ -34,6 +34,11 @@ story_gate: preparation
 relationship_variant: ""
 preparation_inputs: []
 preparation_threshold: ""
+grounded_rewrite_status: approved
+external_stakes: ["equipment safety", "worker stop authority", "public bout integrity", "forge evacuation"]
+banter_priority: contextual
+player_interest_gate: none
+missed_arc_treatment: changed-reentry
 encounter_deck: []
 postgame_season: ""
 estimated_hours: 0.75
@@ -44,18 +49,18 @@ companion_required: "Tavio Meran"
 duo_quest: false
 pause_points: ["Chain Traced"]
 autonomous_deadline: "The Deep Muster"
-autonomous_resolution: "Tavio confronts Steffen alone, is baited, and half-accepts the challenge before Hella intervenes. The gear is partly recalled, Steffen is estranged, and the inspection ledger is incomplete."
+autonomous_resolution: "See Companion Autonomy and Act Convergence; untracked content uses stable-colleague treatment."
 changed_reentry: "Horn for Leak-Day opens with unrecalled Meran-style fittings in the forge crews' hands"
 ensemble_inputs: ["Ylva Winter-Track", "Ilyana Veshkar", "Bernard Valeon", "Zafir ibn Samad"]
 identity_hooks: ["Military", "Merchant/Craft", "Peasant/Labour", "Underworld", "Lancewright"]
 emotional_rewrite_status: cleared
-dialogue_status: pending-rewrite
+dialogue_status: approved
 remote_claim_status: compliant
 archetype_pressure: "Replacement and decline: test whether Tavio can refuse a contest in front of a crowd that reads refusal as cowardice."
 emotional_function: "Stage the public stop that feels like defeat, and put his name on a hazard he cannot fight."
 pleasure_beat: "Pit-night noise, an outrageously good nineteen-year-old, and the specific joy of watching someone do your own trick better than you did at that age."
 care_beat: "Tavio offers a fair ladder instead of a lesson, and lets the crowd think what it likes."
-player_archetype_hooks: ["Cheerleader", "Tomboy", "Goth", "Bohemian", "Jock", "Nerd", "Rebel", "Goofball", "Grey"]
+player_archetype_hooks: []
 persistence_scope: regional-persistent
 ---
 # Meran-Style
@@ -194,5 +199,5 @@ Nobody thanks him. Steffen, if he takes the ladder, is graceless about it for at
 
 - [[Tavio Companion Campaign]] · [[Tavio Meran]]
 - [[Steffen Krall]] · [[Proof-Mistress Hella Dorn]] · [[The Signed Measure]]
-- [[Horn for Leak-Day]] · [[The Examiner]]
+- [[Horn for Leak-Day]] · [[The Road Examiner]]
 - [[Hammer Ward]] · [[Red Brass Bench]]

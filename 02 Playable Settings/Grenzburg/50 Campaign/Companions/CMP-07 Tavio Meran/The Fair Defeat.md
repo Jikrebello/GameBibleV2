@@ -43,16 +43,21 @@ relationship_variant: ""
 preparation_inputs: ["tavio_lio_brace_intact", "tavio_bout_rules_filed", "tavio_neutral_officials_secured", "tavio_red_brass_witness", "tavio_bookmaker_ledger"]
 preparation_threshold: "2 of 5"
 autonomous_deadline: "Ghor at the Gate"
-autonomous_resolution: "Tavio fights fairly but accepts sole blame to preserve the Red Brass Bench; Lancewright and relationship unlocks are lost"
+autonomous_resolution: "See Companion Autonomy and Act Convergence; untracked content uses stable-colleague treatment."
 changed_reentry: "Bout After Snow"
 ensemble_inputs: ["Elara Velescar", "Zafir ibn Samad"]
 identity_hooks: ["Sestaran", "Vortharan", "Military", "Merchant/Craft", "Underworld", "Nobility", "Warlock"]
+grounded_rewrite_status: approved
+external_stakes: ["equipment safety", "worker stop authority", "public bout integrity", "forge evacuation"]
+banter_priority: essential
+player_interest_gate: none
+missed_arc_treatment: changed-reentry
 encounter_deck: []
 persistence_scope: regional-milestone
 postgame_season: ""
-emotional_rewrite_status: preserve
-dialogue_status: pending-rewrite
-remote_claim_status: pending-migration
+emotional_rewrite_status: cleared
+dialogue_status: approved
+remote_claim_status: compliant-via-lio-clause
 archetype_pressure: "Competition becomes worth: test whether Tavio can stop, lose, or need help without surrendering athletic joy."
 emotional_function: "Keep the live match, neutral officials, sabotage, and justified halt"
 pleasure_beat: "Competition, crowds, food, physical effort, ridiculous prizes, and celebrating improvement."
@@ -140,7 +145,7 @@ Approaches include:
 - public disclosure;
 - following the sabotage to Maro or Seraf.
 
-Maro and Seraf adapt to their prior states. A surviving figure may direct the operation; if both are gone, a Red Brass quartermaster protects the branch. No one returns from death or escapes custody without explanation.
+Maro and Seraf adapt to their prior remote states. An active figure may direct the operation through local agents; if both have lost control, a Red Brass quartermaster protects the branch. Neither man enters Grenzburg.
 
 ## The Popular Version
 
@@ -250,13 +255,13 @@ Placed at the weigh-in or after the result, branch-dependent, and spoken to Lio 
 
 Four years of *I carried the risk* collapses into one sentence about being outclassed and unable to bear it. **Lio's response is his own**, and he is entitled to find it useless — a fact about Tavio's interior life, offered late, changing nothing about a hip.
 
-Maro and Seraf may be exposed, arrested, killed during justified resistance, or escape. Later content uses state-based substitutes.
+Maro and Seraf may be exposed, referred for arrest abroad, stripped of local agents, or left at large. Later content uses state-based substitutes and never requires either man to enter Grenzburg.
 
 ## Relationship Commitment
 
 Trusted players with no unresolved major violation may choose:
 
-- female-player romance commitment, opening [[No Wager Between Us]];
+- female-player romance commitment, opening [[No Wager Between Us]], only if `tavio_romance_interest_signaled` was explicitly set earlier;
 - male-player sworn bond, opening [[After the Last Lantern]];
 - continued friendship;
 - refusal.
@@ -270,7 +275,7 @@ The episodes are distinct and mutually exclusive.
 - Evidence burns: betting shifts and physical tool marks remain.
 - Every result advances the campaign. No result advances it *normally* — see The Result below.
 - Party defeat during disruption: the bout proceeds later under heavier supervision.
-- Missed deadline: autonomy closes Lancewright and relationships for this playthrough.
+- Missed deadline: the winter relationship opportunity and Selective Yield close; a spring changed examination preserves access to Lancewright without replaying the bout.
 
 ## Outputs and Rewards
 

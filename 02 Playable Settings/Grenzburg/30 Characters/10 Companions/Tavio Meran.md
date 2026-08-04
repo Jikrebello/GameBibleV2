@@ -31,11 +31,12 @@ care_language: ["protection", "training", "showing up", "shared exertion", "publ
 archetype_shadow: "domination, rank as virtue, and making another person's body part of his wager"
 preservation_lesson: "vulnerability is compatible with excellence and competition"
 remote_claim_anchor: "Lio Varcen and the Red Brass injury claim"
-past_contact_mode: remote-only
+past_contact_mode: lio-clause-exception
 debt_manager: "Claims-Factor Marco Bellandi"
 legal_debt_state_key: "tavio_legal_debt_state"
 voice_status: calibrated
 emotional_rewrite_status: bible-locked
+grounded_rewrite_status: approved
 architecture_status: migrated
 ---
 # Tavio Meran
@@ -55,6 +56,16 @@ Tavio establishes worth through embodied excellence, duty, and visible performan
 At his best, he makes courage contagious, gives work a shared standard, and shows up physically when another person cannot carry the load alone. At his worst, he mistakes rank for virtue, winning for consent, and the amount of risk he is personally willing to bear for the amount he may impose on a teammate.
 
 His resolved arc does not make him ashamed of crowds, contests, athletic pride, or mastery. It teaches him that a fair halt belongs to excellence and that vulnerability need not disqualify him from being an athlete.
+
+## Adult-Life Profile
+
+**Professional role.** Tavio is a Lancewright, proof examiner, trainer, evacuation brace, and organizer of public games. His physical ease is professional and social rather than indiscriminately flirtatious. He asks before touching an injury, correcting a stance, or entering somebody else's drill.
+
+**Ordinary week.** He works forge proof, runs one voluntary training session, cleans and files equipment, and hosts a game only when the Yard has time to enjoy it. He wants an examiner's living, a lawful circuit of worker competitions, and a team that can call a halt without fearing his disappointment.
+
+**Local life.** Hella values comprehensible proof and distrusts charisma. Hammer Ward crews remember what his endorsement sold. Brina protects the right to decline. Liese values courage stated before catastrophe. Steffen and Lio remain people with careers and terms, not instruments for restoring Tavio's self-image.
+
+**Manners and privacy.** Tavio is respectful to officials who accept scrutiny, inclusive with novices, formal when ashamed, and capable of becoming overbearing when a crowd is watching. He does not convert every meal into a contest or every friendship into bodily banter. Attraction remains private until signaled by the player. If ignored, he trains, tests, competes, and carries the unresolved Fifth Ring history without becoming either a martyr or a supervised mascot.
 
 ## Identity
 
@@ -135,7 +146,7 @@ The tremor is **narrative material only** and appears exactly four times across 
 
 Coach Maro Vezan and proof-broker Seraf Pellan organized the Red Brass cover-up. They do not physically travel to Grenzburg during this campaign. Their role continues through equipment, records, agents, endorsements, and institutional pressure.
 
-Lio remains physically absent. His medical record, refusal, demands, bout testimony, and right to decline further contact reach Grenzburg through authenticated remote channels. [[Claims-Factor Marco Bellandi]] administers the portfolio without speaking for him.
+Lio is the sole past claimant permitted to enter Grenzburg under [[Companion Constitution#Past Claims and the Lio Exception|the Lio Clause]]. He travels for his own filed bout and investigation, with independent protection, lodging, medical care, second, clerk, and exit route. [[Claims-Factor Marco Bellandi]] administers the claim without speaking for him. Lio may refuse contact, the bout, apology, or reconciliation and still pursue the public record.
 
 ## Debt
 

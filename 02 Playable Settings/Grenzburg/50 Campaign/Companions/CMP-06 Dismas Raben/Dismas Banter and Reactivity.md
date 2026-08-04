@@ -8,14 +8,14 @@ region: ["Grenzburg"]
 culture: ["Eclessian", "Korrheim"]
 related_factions: ["Blackjack Corps"]
 appears_in: ["Grenzburg"]
-needs:
-  - replace quest-level dialogue during the Ilyana-Dismas paired campaign pass
+needs: []
 tags: [game-ready, companion-response]
 companion_id: "CMP-06"
 archetype: "Rebel"
 voice_status: calibrated
-dialogue_status: calibrated
-emotional_rewrite_status: bible-locked
+dialogue_status: approved
+emotional_rewrite_status: cleared
+grounded_rewrite_status: approved
 ---
 # Dismas Banter and Reactivity
 
@@ -23,7 +23,7 @@ emotional_rewrite_status: bible-locked
 
 - Gives authority nicknames and practical warnings.
 - Tells good stories with himself missing from the brave part.
-- Uses charm as the first stage of departure.
+- Sometimes uses charm as the first stage of departure; in ordinary work he is often concise or silent.
 - Says difficult truths sideways.
 - Notices exits before faces and later remembers both.
 - Becomes absent under containment.
@@ -119,7 +119,7 @@ Brina has painted his name on the route board and given him the bunk by the gate
 
 He moves his bedroll three times that week, each time somewhere worse, and cannot say why to anyone including himself. On the eighth night it is back under the old bunk and he acts as though it never left.
 
-### The joke at the wrong moment (Lovable Rogue)
+### The joke at the wrong moment
 
 Anke Lask is explaining what the licence review will cost her family.
 
@@ -198,6 +198,15 @@ They build a route and ritual that continue without either founder. Ilyana leave
 - Rebel similarity must not become endless mutual validation.
 - Cheerleader contrast is about leverage and capture, not a simple popular-girl/outlaw script.
 - Jock authority may earn respect when it accepts consequence.
+- These are optional hooks. Grey dialogue is authored first and loses no substance.
+
+## Grounded Chatter Rules
+
+- Before `dismas_romance_interest_signaled`, there is no flirting, sexual teasing, jealousy, suggestive danger-talk, or romantic interpretation of private routes.
+- At Normal frequency, use no more than two ambient exchanges during roughly twenty minutes of uninterrupted travel. High draws on extra contextual lines rather than repeated jokes.
+- Nicknames require a concrete abuse, pompous display, or established familiarity. Dismas remains professionally civil when antagonism would endanger a client or colleague.
+- A good lawful process is allowed to work. He may dislike it, be wrong about it, and correct himself without a quip restoring his status.
+- Deaths, funerals, confessions, stealth, major failures, and solemn discoveries impose the global silence lock.
 
 ## Failure Modes
 

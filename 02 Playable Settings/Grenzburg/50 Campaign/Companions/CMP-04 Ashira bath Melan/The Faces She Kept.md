@@ -33,6 +33,11 @@ story_gate: open-world-window
 relationship_variant: ""
 preparation_inputs: []
 preparation_threshold: ""
+grounded_rewrite_status: approved
+external_stakes: ["witness safety", "captive rescue", "casualty identification", "field-method control"]
+banter_priority: contextual
+player_interest_gate: none
+missed_arc_treatment: changed-reentry
 encounter_deck: []
 postgame_season: ""
 estimated_hours: 1
@@ -44,7 +49,7 @@ companion_required: "Ashira bath Melan"
 duo_quest: false
 pause_points: ["Customs Examination Complete", "Underway Route Found"]
 autonomous_deadline: "The Last Convoy"
-autonomous_resolution: "Ashira recovers the copied spindle but conceals the larger roster."
+autonomous_resolution: "See Companion Autonomy and Act Convergence; untracked content uses stable-colleague treatment."
 changed_reentry: "The Drowned Answer reveals the withheld roster after the Act I result."
 ensemble_inputs: ["Elara Velescar", "Bernard Valeon", "Dismas Raben", "Ilyana Veshkar", "Tavio Meran", "Zafir ibn Samad", "Ylva Winter-Track"]
 identity_hooks: ["Scholarly", "Underworld", "Mystic/Religious", "Peasant/Labour"]
@@ -55,7 +60,7 @@ archetype_pressure: "Ashira's accurate recognition is useful; the test is whethe
 emotional_function: "Lead with unnerving competence and company care before exposing the prohibited roster."
 pleasure_beat: "A strange Customs mystery, shadow pursuit, and the satisfaction of correctly classifying the impossible-looking."
 care_beat: "Ashira believes a frightened runner without publishing what he saw."
-player_archetype_hooks: ["Cheerleader", "Tomboy", "Goth", "Bohemian", "Jock", "Nerd", "Rebel", "Goofball", "Grey"]
+player_archetype_hooks: []
 persistence_scope: local-persistent
 ---
 # The Faces She Kept

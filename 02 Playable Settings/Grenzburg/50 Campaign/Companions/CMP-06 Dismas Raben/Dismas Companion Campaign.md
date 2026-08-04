@@ -1,6 +1,6 @@
 ---
 type: reference
-status: draft
+status: canon
 canon_level: local
 visibility: author-only
 era: ["Present Day"]
@@ -14,8 +14,13 @@ tags: [production-control, narrative-rewrite]
 companion_id: "CMP-06"
 architecture_status: migrated
 emotional_rewrite_status: cleared
-dialogue_status: pending-rewrite
+dialogue_status: approved
 remote_claim_status: compliant
+grounded_rewrite_status: approved
+external_stakes: ["predatory seizure", "road medicine", "civilian ambush traffic", "underways passage", "military and civilian withdrawal"]
+banter_priority: contextual
+player_interest_gate: player-signaled
+missed_arc_treatment: changed-reentry
 ---
 # Dismas Companion Campaign
 
@@ -23,13 +28,19 @@ Controlling authority for Dismas Raben's eleven authored pieces, ten-piece playt
 
 [[Dismas Raben]] controls character. [[Dismas Field Familiarity and Relationships]] controls approval and intimacy. [[Dismas Quarry-Wise Package]] controls combat. Built per [[Dismas Rewrite Spec]]; replaces the archived four-quest outline.
 
+## Grounded Campaign Identity
+
+Dismas's campaign is preserved because its external work already carries the character: seizure, reprisal, ambush design, passage maintenance, public filing, route-building, and withdrawal. His cleverness is useful but never moral proof. Mette, the Lasks, Liese, Mara, and ordinary road users may prefer lawful reliability to his style.
+
+Only [[The Easy Ambush]], [[The Name on the Charge]], [[The Road That Answers]], and the fixed truth reflected by [[Passing Through Slowly]] primarily centre his original wrong. He is not charming in every scene. He may be terse, absent, frightened, professionally courteous, or unable to defend himself. Romance remains inactive until a female player explicitly signals interest.
+
 ## Dramatic Promise
 
-Dismas knows which fence is decorative, which guard is bored, and which road law was written because one rich man lost a wagon twenty years ago. He will get your family out tonight and make it funny.
+Dismas knows which fence is decorative, which guard is bored, and which road law was written because one rich man lost a wagon twenty years ago. He can get a family out tonight. Ask him who checks on them next week and the answer takes longer.
 
 His danger is not that the exits are fake. They work. It is that he is gone before the second night, and the people standing in the doorway he opened inherit whatever comes down the street afterward.
 
-The campaign lets the player enjoy the accomplice before it shows them the bill:
+The campaign lets the player value the accomplice before it shows them the bill:
 
 1. a caper that works completely, and a neighbour who watches from a window;
 2. the reprisal, at somebody else's door;
@@ -144,25 +155,25 @@ Two assets permit player participation in a finale. Three make every material ob
 
 Tracked dockets show readiness and closures. Untracked plans stay discoverable through the Yard route board, Old Market talk, Mara's handoff slate, and Dismas's own conversations.
 
-### Zero-participation route
+### Stable-colleague route
 
-- **Act I:** he recovers the Lasks late and by extraction rather than repair; the reprisal stands; the licence is lost for a season.
-- **Act I finale:** he springs the ambush, the medicine is recovered, the wood train takes two injuries, and he accepts the lieutenant's offer to leave the civilians out of the report.
-- **Act II:** he runs the passage brilliantly and alone until Koss exercises the contract, then cedes the map rather than argue. **He never files.** The Korrheim registry stays closed and the count is never made — the saddest stable state in the roster, and the one the world is perfectly content with.
-- **Act III:** he secures the military withdrawal, the civilians reach Fenn Road Exchange late and lighter, and he takes a sealed specialist commission.
-- He becomes a **supervised marcher scout**: useful, unowned on paper, and slightly caged, which he names himself.
+With no personal engagement, Dismas performs ordinary counter-ambush scouting, underways checks, and road intelligence. He does not take responsibility for the Lask reprisal, open the Korrheim case, or accept a sealed specialist commission off-screen. The relevant seizures, medicine movement, and withdrawals follow their independent world states.
 
-He cannot die autonomously. Returning direction and three assets improve autonomous conduct while preserving material losses; `gone` direction worsens trust and casualties without inventing a random death.
+He reaches summer useful, evasive, and unresolved. He is not placed under supervision because the player ignored him. The missing count, the filing, and the question of renewed commitment remain available through changed re-entry.
 
-[[Ilyana Veshkar]] may turn a passage into a public route in Act II ⟨PAIR⟩. [[Bernard Valeon]] may hold a shelter at Three Horn. [[Ylva Winter-Track]] may mark a fen lane. **Nobody files his charge, keeps his appointments, or stays in his place.**
+### Tracked and engaged outcomes
+
+Once tracked, returning direction and preparation can improve conduct while preserving material losses; `gone` direction or a broken promise can worsen trust and casualties. Other companions may support a passage, shelter, or fen lane. Nobody files his charge, keeps his appointments, or stays in his place for him.
 
 ## Changed Re-entry
 
 **The Neighbour's Bill** — missing Act I opens a winter Old Market aftermath: the licence review can still be contested, Girel's record cleared, and the stall reopened at greater cost. It cannot restore the season's earnings or the Act I reward.
 
-**The Unfiled Charge** — missing Act II opens a spring registry aftermath. Bellandi can still retrieve Korrheim, and Dismas can still file, but the Act II finale's rewards, the relationship commitment, and the Quarry-Wise capstone stay closed for that playthrough. The docket states this before confirmation.
+**The Unfiled Charge** — missing Act II opens a spring registry aftermath. Bellandi can still retrieve Korrheim, and Dismas can still file. Completing the changed investigation and a present-day route examination unlocks the Quarry-Wise custom-vocation package for the campaign and account.
 
-Missing Act III fixes his autonomous settlement. [[Passing Through Slowly]] reflects it rather than reopening it.
+The winter relationship opportunity, its intimate scenes, and the Act II-specific reward stay closed. The docket states those time-specific losses before confirmation.
+
+Missing Act III fixes a settlement only when the player tracked Dismas into a declared spring course and then declined its conclusion. An untracked Dismas reaches summer as a capable guide and unresolved colleague. [[Passing Through Slowly]] reflects whichever state the playthrough actually established.
 
 ## Progression
 

@@ -8,8 +8,7 @@ region: ["Sermora"]
 culture: ["Sermoran"]
 related_factions: ["The Salt-Reed Company"]
 appears_in: ["Grenzburg"]
-needs:
-  - replace the physical rescue placeholder during the Ilyana-Dismas paired rewrite
+needs: []
 aliases: []
 tags: [narrative-rewrite]
 sex: woman
@@ -29,7 +28,7 @@ Celia's mending refrains saved Ilyana after several reckless performances. Ilyan
 - She is willing to speak with Ilyana sooner than Mirella, but not to soften facts for her.
 - She may support future emergency work under clear individual terms.
 
-Celia remains outside the playable worldspace. Her property, repair ciphers, refusal, and any later response can enter Grenzburg; she cannot. The physical rescue version of [[The Road Without a Conductor]] remains only an audited structural source pending Ilyana's paired rewrite.
+Celia remains outside the playable worldspace. Her property, repair ciphers, refusal, and any later response can enter Grenzburg; she cannot. [[The Road Without a Conductor]] now uses a present-day Grenzburg road circuit rather than importing her as a rescue subject.
 
 ## Navigation
 

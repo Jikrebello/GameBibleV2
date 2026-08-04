@@ -1,6 +1,6 @@
 ---
 type: quest
-status: draft
+status: canon
 canon_level: local
 visibility: author-only
 era: ["Present Day"]
@@ -33,6 +33,11 @@ story_gate: preparation
 relationship_variant: ""
 preparation_inputs: []
 preparation_threshold: ""
+grounded_rewrite_status: approved
+external_stakes: ["road users", "medicine and supplies", "public passage", "civilian withdrawal"]
+banter_priority: contextual
+player_interest_gate: none
+missed_arc_treatment: changed-reentry
 encounter_deck: []
 postgame_season: ""
 estimated_hours: 0.75
@@ -43,18 +48,18 @@ companion_required: "Dismas Raben"
 duo_quest: false
 pause_points: ["Review Date Set"]
 autonomous_deadline: "The Last Convoy"
-autonomous_resolution: "Dismas offers the Lasks another extraction, they refuse it, and the licence lapses. Girel takes a charge that was never his. Dismas sends money he cannot spare and does not come himself."
+autonomous_resolution: "See Companion Autonomy and Act Convergence; untracked content uses stable-colleague treatment."
 changed_reentry: "The Neighbour's Bill"
 ensemble_inputs: ["Elara Velescar", "Zafir ibn Samad", "Bernard Valeon", "Ilyana Veshkar"]
 identity_hooks: ["Peasant/Labour", "Merchant/Craft", "Nobility", "Scholarly", "Underworld"]
 emotional_rewrite_status: cleared
-dialogue_status: pending-rewrite
+dialogue_status: approved
 remote_claim_status: compliant
 archetype_pressure: "The exit worked and the street paid for it. Test whether he can stay inside an aftermath with no door in it."
 emotional_function: "Make the beneficiaries inherit the consequence, and let the lawful route win the argument."
 pleasure_beat: "Old Market gossip, a magistrate's clerk who can be charmed with accuracy, and Bekka's terrible card trick performed at a bailiff."
 care_beat: "Dismas stands surety under his own name and accepts a task he cannot leave."
-player_archetype_hooks: ["Cheerleader", "Tomboy", "Goth", "Bohemian", "Jock", "Nerd", "Rebel", "Goofball", "Grey"]
+player_archetype_hooks: []
 persistence_scope: district-persistent
 ---
 # The First Mile

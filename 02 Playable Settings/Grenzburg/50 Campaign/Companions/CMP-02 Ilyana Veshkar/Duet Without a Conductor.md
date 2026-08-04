@@ -43,15 +43,21 @@ relationship_gate: "Female player; bond-committed"
 preparation_inputs: []
 preparation_threshold: ""
 autonomous_deadline: ""
-autonomous_resolution: "The episode does not resolve autonomously"
+autonomous_resolution: "See Companion Autonomy and Act Convergence; untracked content uses stable-colleague treatment."
 changed_reentry: ""
 ensemble_inputs: []
 identity_hooks: []
+grounded_rewrite_status: approved
+external_stakes: ["equal two-part composition", "public rehearsal room", "shared authorship"]
+banter_priority: private
+player_interest_gate: committed-bond
+missed_arc_treatment: closes-transient-event
 encounter_deck: []
 persistence_scope: character-persistent
 postgame_season: ""
-emotional_rewrite_status: preserve
-dialogue_status: pending-rewrite
+emotional_rewrite_status: cleared
+dialogue_status: approved
+remote_claim_status: compliant
 archetype_pressure: "Freedom becomes impermanence: test whether Ilyana can sustain a shared work after novelty and sole authorship fade."
 emotional_function: "Keep equal authorship and female-player platonic commitment"
 pleasure_beat: "Improvised music, novelty, public performance, and turning strangers into a temporary chorus."
@@ -117,4 +123,3 @@ They explicitly name the bond:
 - [[The Free Refrain]]
 - [[The Last Common Measure]]
 - [[Bridgehold]]
-

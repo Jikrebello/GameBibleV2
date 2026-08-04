@@ -30,7 +30,7 @@ story_gate: operation
 estimated_hours: 2.0
 gameplay_pillars: [hunt, traversal, combat, rescue]
 required_states: ["heart_oak_route", "drake_hunt_preparations"]
-optional_state_inputs: ["southwood_early_warning", "drake_displacement_truth", "root_witness_boundary", "marcher_scout_service", "warlock_hall_opinion"]
+optional_state_inputs: ["southwood_early_warning", "drake_displacement_truth", "root_witness_boundary", "dismas_act1_result", "warlock_hall_opinion"]
 ---
 # A Drake in Winter
 

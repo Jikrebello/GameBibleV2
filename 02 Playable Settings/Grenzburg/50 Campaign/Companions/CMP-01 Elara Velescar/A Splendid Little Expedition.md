@@ -31,6 +31,11 @@ chapter_id: ""
 main_sequence: 0
 story_gate: preparation
 relationship_variant: ""
+grounded_rewrite_status: approved
+external_stakes: ["salvage custody", "crew safety", "winter rescue capacity", "living claims"]
+banter_priority: contextual
+player_interest_gate: none
+missed_arc_treatment: changed-reentry
 encounter_deck: []
 postgame_season: ""
 estimated_hours: 0.75
@@ -43,7 +48,7 @@ pause_points: ["Crew Assembled", "Outer Gallery Secured"]
 preparation_inputs: []
 preparation_threshold: ""
 autonomous_deadline: "The Last Convoy"
-autonomous_resolution: "Elara takes a glamorous but narrow crew; the find survives while shorers are injured and custodians withdraw."
+autonomous_resolution: "See Companion Autonomy and Act Convergence; untracked content uses stable-colleague treatment."
 changed_reentry: "The Scarred Mounds records the missing support and its cost."
 ensemble_inputs: ["Ashira bath Melan", "Bernard Valeon", "Dismas Raben", "Ilyana Veshkar", "Tavio Meran", "Zafir ibn Samad", "Ylva Winter-Track"]
 identity_hooks: ["Peasant/Labour", "Merchant/Craft", "Folk", "Wilderness", "Scholarly"]
@@ -54,7 +59,7 @@ archetype_pressure: "Elara can form a dazzling crew, but must accept necessary p
 emotional_function: "Make Elara exhilarating before showing how curation excludes."
 pleasure_beat: "Naming the expedition, choosing kit, cresting the ruin, and sharing a dangerous discovery."
 care_beat: "Let workers set stop conditions and receive credit in their own words."
-player_archetype_hooks: ["Cheerleader", "Tomboy", "Goth", "Bohemian", "Jock", "Nerd", "Rebel", "Goofball", "Grey"]
+player_archetype_hooks: []
 persistence_scope: local-persistent
 ---
 # A Splendid Little Expedition

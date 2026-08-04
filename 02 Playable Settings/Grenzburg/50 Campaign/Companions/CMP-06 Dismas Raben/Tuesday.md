@@ -1,6 +1,6 @@
 ---
 type: quest
-status: draft
+status: canon
 canon_level: local
 visibility: author-only
 era: ["Present Day"]
@@ -36,18 +36,23 @@ companion_required: "Dismas Raben"
 duo_quest: false
 pause_points: ["Week Begun"]
 autonomous_deadline: "The Deep Muster"
-autonomous_resolution: "He settles the quarrel by fiat, keeps the fee book himself, and the network becomes a thing that works because he is in it. The charter is lost."
+autonomous_resolution: "See Companion Autonomy and Act Convergence; untracked content uses stable-colleague treatment."
 changed_reentry: "The network enters the finale as his personal following rather than an institution"
 ensemble_inputs: ["Ilyana Veshkar", "Ylva Winter-Track", "Zafir ibn Samad", "Bernard Valeon"]
 identity_hooks: ["Peasant/Labour", "Merchant/Craft", "Underworld", "Drifter/Vagabond"]
+grounded_rewrite_status: approved
+external_stakes: ["guide-network charter", "route fees", "spring ford marks", "client complaint"]
+banter_priority: contextual
+player_interest_gate: none
+missed_arc_treatment: changed-reentry
 emotional_rewrite_status: cleared
-dialogue_status: pending-rewrite
+dialogue_status: approved
 remote_claim_status: compliant
 archetype_pressure: "Nothing is wrong. That is the antagonist."
 emotional_function: "Make peace the container he cannot pick, and let the network survive its founder being bored."
 pleasure_beat: "A fee dispute conducted with total seriousness, two guides who hate each other, and a route marked properly in good weather."
 care_beat: "He arbitrates by the rules on the post, re-marks a route, and shows up on the day."
-player_archetype_hooks: ["Cheerleader", "Tomboy", "Goth", "Bohemian", "Jock", "Nerd", "Rebel", "Goofball", "Grey"]
+player_archetype_hooks: []
 persistence_scope: regional-persistent
 ---
 # Tuesday
@@ -101,7 +106,7 @@ The resolved play is the dullest and hardest thing in his campaign:
 - **hear the complaint.** In the Old Market, out loud, from a man who is being unpleasant, and refund half of it because half is right.
 - **show up on the appointed day** for the Lask surety visit, which is the same week, which nobody has reminded him about.
 
-⟨PAIR⟩ The Ilyana spring foil beat — *she leaves room in the song; he arrives when promised* — lands here.
+If [[Ilyana Veshkar]] is present, she writes a short public route refrain with two deliberate gaps where future guides can insert their own names and warnings. Dismas calls it unfinished. She asks what hour his Lask appointment begins. He gives the time, arrives before it, and never comments on the connection. This optional incident alters their spring camp exchange without deciding the charter.
 
 ### Pause Point: Week Begun
 

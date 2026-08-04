@@ -33,6 +33,15 @@ He repairs:
 - road-shelter shutters;
 - hand winches and ordinary latches.
 
+## Independent Adult Life
+
+Karel rents bench space behind a Longlake stove shop and takes paid repair rounds whether Zafir is present or not. He eats twice a week with the Reed-Way household, owes a cooper three afternoons of honest labor, and is saving toward two concrete goals:
+
+- a one-eighth share in a Longlake repair skiff, giving him tools and transport without depending on a patron;
+- qualification as a refuge-bell examiner, allowing Chapel-Folk shelters to accept his safety mark.
+
+The apprenticeship can help him learn relation-work useful to both goals. It is not the purpose of his life, and neither goal requires Zafir's approval. Karel may qualify, buy the skiff share, pursue only one, or abandon the apprenticeship while continuing both.
+
 ## Personality
 
 Karel is patient with objects and impatient with explanations that begin after the work has already been decided.
@@ -71,6 +80,8 @@ Karel may become:
 - an independent field mechanic;
 - a critic who leaves Zafir;
 - an Open-Cord participant who later withdraws.
+
+Track the repair-skiff share and refuge-bell examination separately from his relationship with Zafir. A disagreement or departure does not automatically ruin his career.
 
 He cannot die unseen. Injury, departure, or disagreement remains visible and authored.
 

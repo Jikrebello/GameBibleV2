@@ -8,8 +8,7 @@ region: ["Vorthara"]
 culture: ["Vortharan", "Sestaran"]
 related_factions: ["Red Brass Bench", "The Crucible"]
 appears_in: ["Grenzburg"]
-needs:
-  - replace Tavio's remaining physical-antagonist placeholders during the Ylva-Tavio paired rewrite
+needs: []
 aliases: ["Proof-Broker Pellan"]
 tags: [narrative-rewrite]
 sex: man
@@ -35,13 +34,13 @@ Seraf is not devoted to Tavio, Maro, or arena glory. He believes every filed lim
 - hired escorts and ordinary violence;
 - destroying one register while preserving a more valuable copy.
 
-He has no supernatural immunity and no secret patron. He may be exposed, arrested, killed during justified resistance, or escape without breaking later stages.
+He has no supernatural immunity and no secret patron. He may be exposed, detained abroad, lose his network, or remain at large without breaking later stages.
 
 ## Narrative Use
 
 Seraf provides continuity between unsafe fittings without becoming a universal mastermind. If removed early, Red Brass quartermasters, copied records, and field failures carry the evidence forward.
 
-He never enters the base-game worldspace. Stamps, shipments, agents, ledgers, and remote orders carry his role until Tavio's paired rewrite replaces the old physical-pursuit placeholders.
+He never enters the base-game worldspace. Stamps, shipments, agents, ledgers, and remote orders carry his role.
 
 ## Navigation
 

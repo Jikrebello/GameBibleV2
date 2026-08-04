@@ -1,6 +1,6 @@
 ---
 type: mechanic
-status: draft
+status: canon
 canon_level: local
 visibility: author-only
 era: ["Present Day"]

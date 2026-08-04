@@ -30,7 +30,7 @@ story_gate: open
 estimated_hours: 1.5
 gameplay_pillars: [hunt, investigation, traversal, combat]
 required_states: ["winter_strands_open"]
-optional_state_inputs: ["southwood_early_warning", "autumn_road_support", "root_witness_boundary", "warlock_hall_opinion", "marcher_scout_service"]
+optional_state_inputs: ["southwood_early_warning", "autumn_road_support", "root_witness_boundary", "warlock_hall_opinion", "dismas_act1_result"]
 ---
 # The Emerald Trail
 

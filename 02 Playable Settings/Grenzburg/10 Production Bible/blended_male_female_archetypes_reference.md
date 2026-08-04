@@ -1,3 +1,17 @@
+---
+type: reference
+status: draft
+canon_level: local
+visibility: author-only
+era: ["Present Day"]
+region: ["Grenzburg"]
+culture: []
+related_factions: ["Blackjack Corps"]
+appears_in: ["Grenzburg"]
+needs: []
+aliases: ["Blended Male and Female Character Archetypes"]
+tags: [research, narrative-design]
+---
 # Blended Male and Female Character Archetypes
 
 ## Ordered primary–secondary combinations, desires, fears, light and shadow, ego–id–superego structure, politics, stress behaviour and narrative development

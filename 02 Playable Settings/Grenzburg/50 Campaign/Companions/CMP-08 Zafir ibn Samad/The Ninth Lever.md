@@ -43,10 +43,15 @@ relationship_variant: ""
 preparation_inputs: ["zafir_cord_end_secured", "zafir_fifth_crossing_pattern", "zafir_worker_stop_authority", "zafir_hammer_load_map", "karel_countermodel_complete"]
 preparation_threshold: "2 of 5"
 autonomous_deadline: "The Last Convoy"
-autonomous_resolution: "Zafir saves all recoverable workers but retains a supervised master stop and causes one avoidable crush injury."
+autonomous_resolution: "See Companion Autonomy and Act Convergence; untracked content uses stable-colleague treatment."
 changed_reentry: "The Lever After Rain"
 ensemble_inputs: ["Bernard Valeon", "Tavio Meran", "Ylva Winter-Track"]
 identity_hooks: ["Peasant/Labour", "Merchant/Craft", "Scholarly", "Military"]
+grounded_rewrite_status: approved
+external_stakes: ["petitioners and workers", "ferry safety", "casualty routes", "release mechanisms"]
+banter_priority: essential
+player_interest_gate: none
+missed_arc_treatment: changed-reentry
 encounter_deck: []
 persistence_scope: district-persistent
 postgame_season: ""
@@ -57,7 +62,7 @@ archetype_pressure: "Zafir can save nine workers fastest through one master stop
 emotional_function: "Convert his moral problem into bodies, machinery, timing, and a choice that remains urgent after the rescue."
 pleasure_beat: "Read a roaring chainworks as a live mechanism, cross moving loads, and release machinery in coordinated stages."
 care_beat: "Every operator is named, recoverable, and capable of holding the key to their own station."
-player_archetype_hooks: ["Cheerleader", "Tomboy", "Goth", "Bohemian", "Jock", "Nerd", "Rebel", "Goofball", "Grey"]
+player_archetype_hooks: []
 ---
 # The Ninth Lever
 

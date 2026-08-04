@@ -43,10 +43,15 @@ relationship_gate: "Female player; elara_relationship_commitment: bond-committed
 preparation_inputs: []
 preparation_threshold: ""
 autonomous_deadline: "The Deep Muster"
-autonomous_resolution: "The bond episode closes without relationship penalty; its upgrade and Two Names Line asset are not earned"
+autonomous_resolution: "See Companion Autonomy and Act Convergence; untracked content uses stable-colleague treatment."
 changed_reentry: "Summer dialogue acknowledges the unopened survey without replaying the bond episode"
 ensemble_inputs: []
 identity_hooks: []
+grounded_rewrite_status: approved
+external_stakes: ["Windcut Mine survey", "paired return route", "public claim record"]
+banter_priority: private
+player_interest_gate: committed-bond
+missed_arc_treatment: closes-transient-event
 encounter_deck: []
 persistence_scope: local-persistent
 postgame_season: ""
@@ -57,7 +62,7 @@ archetype_pressure: "Belonging becomes curation: test whether Elara shares socia
 emotional_function: "Keep equal claim, reciprocal rescue, and female-player sworn friendship"
 pleasure_beat: "Social sparkle, discovery, elegant risk, and making a temporary company feel chosen."
 care_beat: "Elara shares credit, access, attention, and protection without making gratitude the price of belonging."
-player_archetype_hooks: ["Cheerleader", "Tomboy", "Goth", "Bohemian", "Jock", "Nerd", "Rebel", "Goofball", "Grey"]
+player_archetype_hooks: []
 ---
 # Two Names on the Rope
 
