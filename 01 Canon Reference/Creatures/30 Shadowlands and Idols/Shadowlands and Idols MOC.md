@@ -19,6 +19,7 @@ This is the controlling register for exactly **42 genuine Shadowlands forms**. I
 
 - [[The Great Rebellion and the Yolk Exiles]]
 - [[The Idols Overview]]
+- [[Idol Thrones, Regnants, and Cultural Masks]]
 - [[Idol Manifestation and Feeding]]
 - [[The Counter-Countenances of the Idols]]
 - [[The Image, Soul, and Creaturely Continuity]]

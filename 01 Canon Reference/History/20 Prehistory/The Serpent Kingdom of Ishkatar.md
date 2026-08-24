@@ -13,7 +13,7 @@ tags: []
 ---
 ### Overview
 
-The Serpent Kingdom of Ishkatar was a river civilization of flood calendars, monumental tomb-estates, divine kingship, and concentrated wealth. Along the fertile **Serpent's Spine**, its Naga Giants built an imperial religion around ownership, hierarchy, and their claimed descent from **Avarix, the Idol of Greed**. That genealogy was court propaganda grounded in real Idol patronage and bodily alteration, not literal divine parentage. Ishkatar's decline was swift and brutal, leaving its cities beneath the desert.
+The Serpent Kingdom of Ishkatar was a river civilization of flood calendars, monumental tomb-estates, divine kingship, and concentrated wealth. Along the fertile **Serpent's Spine**, its Naga Giants built an imperial religion around ownership, hierarchy, and descent from **Avarix, the Idol of Greed**. The oldest Naga houses possessed genuine Titanic ancestry, including lines descending from Titan-Firstborn conceived through bounded Idol manifestations associated with Avarix. Court genealogy turned that remote and intermingled ancestry into the stronger claim that every reigning Pharaoh-Serpent was Avarix's direct, undiluted child. Later Idol patronage and bodily alteration further shaped the dynasties without making that claim universally true. Ishkatar's decline was swift and brutal, leaving its cities beneath the desert.
 
 ### Geography
 
@@ -21,9 +21,9 @@ The Serpent Kingdom of Ishkatar was situated along the banks of the **Serpent’
 
 ### Ruling Giants: The Naga Giants
 
-The ruling class of Ishkatar, the **Naga Giants**, were massive serpentine beings with humanoid upper bodies and colossal coiling lower bodies. Their scales carried metallic and jewel-like coloration shaped by generations of Giant blood craft and Avarix patronage. Their subjects were required to revere them as Avarix's direct offspring, but the claim legitimated rule rather than recording biology. They ruled through force, temple estates, and absolute demands upon their human subjects.
+The ruling class of Ishkatar, the **Naga Giants**, were massive serpentine beings with humanoid upper bodies and colossal coiling lower bodies. Their scales carried metallic and jewel-like coloration shaped by inherited Titanic traits, generations of Giant blood craft, and Avarix patronage. Their subjects were required to revere each Pharaoh-Serpent and royal house as Avarix's immediate offspring. That formula exaggerated a real but remote ancestry into an endlessly renewed proof of rule. The Naga Giants ruled through force, temple estates, and absolute demands upon their human subjects.
 
-Ishkatar's continuity project attempted to make title and property outlive the ruler. Estates, offices, guardians, records, and ownership claims were built to reconstruct authority after bodily death. The system could preserve Giant memory and imposed office, but could neither create a human soul nor grant the Image.
+Ishkatar's continuity project attempted to make title and property outlive the ruler. Estates, offices, guardians, records, and ownership claims were built to reconstruct authority after bodily death. The system could preserve records, residue, and imposed office; it did not preserve the dead Giant person without a separately established uninterrupted survival, and it could neither create a human soul nor grant the Image.
 
 The Naga Giants were also the spiritual leaders of Ishkatar, acting as intermediaries between the mortal world and the divine. Each Naga Giant governed a specific aspect of life, such as fertility, death, war, or commerce, and their temples were the centers of both religious and political power. The most powerful of the Naga Giants held the title of **Pharaoh-Serpent**, ruling over all others and presiding from the **Golden Pyramid of Nagtara**, the largest and most opulent structure in the kingdom.
 
@@ -45,11 +45,11 @@ The kingdom was also known for its wealth, accumulated through both conquest and
 
 ### Decline
 
-The Serpent Kingdom of Ishkatar was one of the first civilizations to feel the destabilizing effects of the Great Exodus. As the Great Prophet led his followers across the Great Glass Desert to the promised lands of the south, many of the human slaves left behind in Ishkatar were inspired to revolt. The uprisings spread rapidly, fueled by the hope of freedom and the promise of a new life beyond the reach of the Naga Giants.
+Ishkatar was among the first horizons to fracture during the Great Unbinding. As the Great Prophet's warnings, gathering columns, and road toward the Glass made release imaginable, enslaved households and subject cities rose against their rulers. The uprisings spread through local burial, canal, and refuge networks before, during, and after the principal host's departure; the later sanctuary beyond the Glass still failed near its threshold.
 
 The Naga Giants responded with brutal force, crushing the rebellions with a ferocity that only deepened the resentment among the human population. However, the kingdom was already crumbling from within. The greed and paranoia that had driven the Naga Giants to greatness now began to tear them apart. Rivalries between the most powerful Naga Giants led to civil wars, as each sought to claim the throne of the Pharaoh-Serpent and the treasures of the Golden Pyramid for themselves.
 
-The final blow to Ishkatar came when one of the most powerful Naga Giants, in a bid to secure ultimate power, unleashed a destructive ritual that caused the Serpent’s Spine to dry up. The river that had sustained the kingdom for centuries disappeared, turning the fertile land into a barren wasteland. The cities of Ishkatar, once teeming with life, were abandoned as the people fled or perished. The once-great civilization was reduced to ruins, its wealth buried beneath the sands, and its memory fading into legend.
+The final blow to Ishkatar's imperial center came when one of the most powerful Naga Giants, in a bid to secure ultimate power, unleashed a destructive ritual that caused the Serpent's Spine to dry up. The lost river turned the central agricultural and royal landscape into wasteland. Major cities emptied as people fled or perished, while some canal towns, delta crowns, oasis clients, and mobile communities entered separate successor histories. Ishkatar ceased to exist as an imperial order; its wealth and many royal archives disappeared beneath the sands.
 
 ### Legacy and Myth
 
@@ -62,4 +62,6 @@ The legacy of Ishkatar also lives on in the myths and legends of the world, with
 ## Navigation
 
 - [[Timeline MOC]]
+- [[Giant Descent and Creaturely Continuity]]
+- [[The Great Unbinding]]
 - [[Canon Index]]

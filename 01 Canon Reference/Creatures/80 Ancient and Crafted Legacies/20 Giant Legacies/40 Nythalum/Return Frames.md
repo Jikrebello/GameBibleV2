@@ -11,7 +11,7 @@ appears_in: [The Star over Dustfeld, The Fallen Spire]
 needs: []
 tags: [core-canon, giant-legacy, construct]
 origin_layer: crafted
-continuity: giant-memory
+continuity: [giant-continuity, constructed-pattern]
 intelligence: [cunning, sapient]
 moral_agency: [none, full]
 encounter_tier: cosmological
@@ -82,3 +82,4 @@ Salvage includes lunar metal, transfer crystals, memory checksums, star-route ta
 - [[The Star over Dustfeld]]
 - [[The Fallen Spire]]
 - [[The Image, Soul, and Creaturely Continuity]]
+- [[Giant Descent and Creaturely Continuity]]

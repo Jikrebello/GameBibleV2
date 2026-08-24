@@ -15,7 +15,7 @@ _"The past marches with us. The ancestors do not forget, and neither shall we."_
 
 The Nsizwa are **one of the most feared and disciplined warrior cultures**, blending **highly organized battle tactics with spiritual warfare and supernatural elements**. Every Nsizwa, from commoner to king, is trained in combat, for they believe that to **live well is to fight well, and to fight well is to earn eternal honor among the ancestors**.
 
-Their warriors do not fight alone. **They march with the spirits of their fallen kin**, they **call upon ancient warlords to rise again**, and they **strike with the force of both the living and the dead**.
+Their warriors do not fight alone. They march under **ancestor-shaped signs and spectral war-hosts**, awaken preserved warlords for bounded duties, and strike with the discipline of the living reinforced by the material weight of ancestral memory. Nsizwa doctrine calls these presences their fallen kin; not every manifestation's continuity is publicly settled.
 
 ---
 
@@ -69,18 +69,18 @@ The **Bull Horn Formation** is the **foundation of Nsizwa military strategy**, a
 
 _"The dead fight with us. The winds of war carry their voices."_
 
-Unlike conventional armies, the Nsizwa do not fight alone. **They fight alongside their ancestors**. Through **rituals, trance-inducing umhlwazi, and spirit-channeling sangomas**, they turn the battlefield into **a place where the living and the dead strike as one**.
+Unlike conventional armies, the Nsizwa field visible manifestations they identify as **their ancestors**. Through **rituals, trance-inducing umhlwazi, and Spirit-Keeper mediation**, they turn the battlefield into a place where the living fight beside the remembered forms and duties of the dead.
 
-### **A. Summoning Spectral Legions**
+### **A. Calling the Ancestor-Shaped Hosts**
 
-- Before battle, **Spirit-Keepers and War-Spirit-Keeper** perform a **ritual dance**, calling forth **the spirits of warriors who fell before**.
-- **Spectral warriors, glimpsed in flashes of blue light, charge alongside the living**, creating terror and confusion among enemies.
-- Some say that **the cold winds that rush across the battlefield** are the breath of the ancestors, **carrying their war cries and fury**.
+- Before battle, **Spirit-Keepers and war-ritual specialists** perform a dance that gathers memory, praise-names, relics, and battlefield residue into a visible host.
+- **Spectral warriors, glimpsed in flashes of blue light, charge alongside the living**, creating terror and confusion among enemies. The Nsizwa identify them as fallen warriors; some examiners classify many figures as organized residue.
+- The **cold winds that rush across the battlefield** are said to be the ancestors' breath, **carrying old war cries and warnings**.
 
 ### **B. The Umhlwazi of the War-Trance**
 
 - Warriors drink **sacred Umhlwazi**, a herbal concoction that **enhances focus, suppresses fear, and sharpens reflexes**.
-- In this **trance-like state**, warriors hear **the voices of their ancestors**, guiding them and filling them with an **overwhelming sense of purpose**.
+- In this **trance-like state**, warriors often hear voices they identify as **their ancestors**, guiding them and filling them with an **overwhelming sense of purpose**.
 - This **state of battle-fury** is neither reckless nor blind—it is a **focused, divine clarity**, allowing warriors to **react with supernatural speed**.
 
 ### **C. The Ghost-Warriors**
@@ -98,21 +98,21 @@ When the battle turns dire, **the Izivukwa rise**. These **mummified warlords, s
 
 ### **A. Awakening the Izivukwa**
 
-- Only the **greatest Spirit-Keepers** can awaken an **Izivukwa**, calling their spirit **back into their preserved body**.
-- The Izivukwa **do not speak**—their minds are bound to **the singular purpose** they were called for.
+- Only the **greatest Spirit-Keepers** can awaken an **isivukwa**, activating the preserved body, wrappings, praise-name, and declared tomb-duty.
+- Most Izivukwa **do not speak** and act within **the singular purpose** for which they were awakened. Famous exceptions such as Mzikhona are central to the unresolved question of what, exactly, returns.
 - Their presence alone **strikes terror into enemies**, for it is believed that **to see an Isivukwa means death is near**.
 
 ### **B. The Role of the Izivukwa in Battle**
 
 - **The War-Kings:** These legendary rulers **lead entire armies**, their very presence granting warriors **superhuman endurance and resolve**.
 - **The Shieldbearers of the Past:** Some Izivukwa act as **unstoppable juggernauts**, defending key positions **until the last warrior has fallen**.
-- **The Spirit-Blades:** Some wield **blades infused with their own soul**, cutting through enemies **as if striking at their very essence**.
+- **The Spirit-Blades:** Some wield blades anchored to their praise-name, old residue, or tomb-office, cutting through enchantments as though striking at the enemy's role and resolve. A dedicated dossier is required before any blade is said to contain a human soul.
 
 ### **C. The Dangers of the Izivukwa**
 
-- The **more Izivukwa that are summoned**, the **weaker the barrier between the living and the dead becomes**.
-- If an Isivukwa is **destroyed beyond repair**, their spirit is **forever lost**.
-- If an Isivukwa **remains too long in the world**, they may become **restless, unable to return**, leading to **cursed lands or haunted battlefields**.
+- The **more Izivukwa that are awakened**, the more strongly overlapping tomb-offices and stirred residue destabilize the battlefield.
+- If an isivukwa is **destroyed beyond repair**, that body and its tomb-route may be lost forever; no human soul is annihilated.
+- If an isivukwa **remains active too long**, its office may cease to recognize the end of its task, leaving restless residue, a roaming guardian, or a haunted battlefield.
 
 ---
 
@@ -132,11 +132,10 @@ When the battle turns dire, **the Izivukwa rise**. These **mummified warlords, s
 
 # **Final Thoughts: The Unstoppable Warriors**
 
-The Nsizwa are not merely fighters—they are **a force of history itself**, their blades carrying **the weight of the ancestors**, their formations **grinding enemies to dust**, and their **dead rising to claim victory even beyond death**. Their warfare is not just **a matter of tactics, but of legacy**, ensuring that **every battle is a testament to their ancestors, and every fallen warrior a warrior never truly lost**.
+The Nsizwa are not merely fighters—they are **a force of history itself**, their blades carrying **the weight of ancestral memory**, their formations **grinding enemies to dust**, and their preserved champions rising under duties older than the soldiers beside them. Their warfare is not just **a matter of tactics, but of legacy**, making every battle a test of what the living owe the dead—and of whether inherited service has become captivity.
 
 ## Navigation
 
 - [[The Nsizwa Overview]]
+- [[Izivukwa Continuity]]
 - [[Canon Index]]
-- [[Canon Index]]
-

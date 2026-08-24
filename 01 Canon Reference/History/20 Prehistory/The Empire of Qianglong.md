@@ -15,7 +15,7 @@ tags: []
 
 ## Overview
 
-The Celestial Empire of Qianglong was structured around four Giant castes aligned with **Solrath (War), Nevaura (Famine), Morvalis (Death),** and **Veradia (Pestilence)**. Court genealogy called the castes children of the Horsemen. Authorially, they were Giant lineages altered by prolonged Menhir contact, office-law, selective breeding, and ritual imitation. None of the four Menhir created the Giants, authorized their rule, or supplied a moral verdict on the empire. Qianglong converted natural domain into political mandate and called the result divine order.
+The Celestial Empire of Qianglong was structured around four Giant castes aligned with **Solrath (War), Nevaura (Famine), Morvalis (Death),** and **Veradia (Pestilence)**. Some early ruling houses may genuinely have descended from Titan-Firstborn conceived through bounded manifestations associated with the Horsemen. Later court genealogy compressed those possible remote births, marriage between houses, prolonged Menhir contact, office-law, selective breeding, and ritual imitation into the claim that all caste members remained the direct and exclusive children of their named Horseman. None of the four Menhir authorized caste rule or supplied a moral verdict on the empire. Qianglong converted possible ancestry and real natural correspondence into political mandate and called the result divine order.
 
 Qianglong's continuity project attempted necromantic caste recurrence. Sealed vaults preserved trained residue, office patterns, and prepared bodies so the ruling order could return without accepting mortality. The system copied and reinstated caste function; it did not create human souls.
 
@@ -69,7 +69,7 @@ As the cycles continued, each caste treated its Menhir alignment as proof that i
 
 In the aftermath, the ruling Giants retreated into vast underground vaults hidden beneath the mountains. These vaults held each caste's treasures, knowledge, recurrence bodies, and Menhir-aligned relics. With their rulers gone, the lesser Giants and enslaved humans were left inside a failing state apparatus built around coerced specialization and recurrent civil war.
 
-The once-great cities of Qianglong were abandoned, their temples and palaces left to decay as the empire fell into ruin. The remnants of Qianglong are now haunted places, filled with the echoes of past grandeur and the dark magic that still lingers in the bones of the earth.
+Many great imperial centers of Qianglong were abandoned, while human towns, mixed principalities, mountain communities, and lesser courts entered unequal successor histories beyond the vaults. The best-known remnants are haunted places filled with old office-patterns, failed recurrence works, and dangers later memory calls the echoes of imperial grandeur.
 
 Qianglong survives in myth as a warning about power mistaking natural correspondence for justice. War, scarcity, bodily death, and proliferating life were real domains. The empire's decision to make them titles of human and Giant rule was its own.
 
@@ -78,6 +78,8 @@ Qianglong survives in myth as a warning about power mistaking natural correspond
 - [[Timeline MOC]]
 - [[The Unending Muster]]
 - [[Qianglong Caste Recurrences]]
+- [[Giant Descent and Creaturely Continuity]]
+- [[The Great Unbinding]]
 - [[The Faewild Schism]]
 - [[Menhir Sovereignty and Bargain]]
 - [[Canon Index]]

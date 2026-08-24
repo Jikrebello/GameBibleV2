@@ -48,8 +48,6 @@ Bernard is a very large man in mismatched armour asking whether anyone wants the
 
 He feeds people, remembers children, tells road stories in which the mule receives more characterization than the knight, and makes frightened strangers feel less foolish for being frightened. When danger begins, the humor vanishes so completely that the change is its own command.
 
-He is not comic relief. He is the person who knows relief may sometimes arrive through comedy.
-
 ## Character Thesis
 
 Bernard establishes worth through warmth, play, and resilience. He wants to make pain bearable and to be welcomed for the human room he creates around hardship.
@@ -78,7 +76,7 @@ His silhouette is a **spiral, not an escalation**: relapse, repair, relapse smal
 
 ## Adult-Life Profile
 
-**Professional role.** Bernard is a heavy protector, lay hospitaller, camp cook, casualty carrier, and Long Watch-trained field knight. His humor makes difficult company bearable; it does not make him morally correct or exempt him from store rules.
+**Professional role.** Bernard is a heavy protector, lay hospitaller, camp cook, casualty carrier, and Long Watch-trained field knight. His humor makes difficult company bearable without making him morally correct or exempt him from store rules.
 
 **Ordinary week.** He works two Yard meal shifts, one Mercy or refuge shift, one equipment drill, and regular field duty. He attends store count only with another named worker. He wants a place where anybody can receive shelter without rank, and he wants to become trustworthy enough that the place does not require his charm to operate.
 

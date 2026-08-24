@@ -38,6 +38,8 @@ Host angels recur in recognizable martial choirs. They oppose Abyssal incursions
 
 Host angels can lead other angels inside an assigned battle. They possess no automatic command over manifested saints. A saint placed over the campaign may direct the host.
 
+During [[The Great Unbinding]], specialized Host servants operated beneath one Phoenix's regional commission. They broke selected supernatural formations, severed recurrence and generative routes, shielded mortal withdrawal, and then withdrew. They did not administer conquered lands or turn a bounded liberation commission into general authorization for human war.
+
 ## Greater Angels
 
 Each greater angel is unique. Functional titles describe them better than species: the bearer of a particular trumpet, defender of a gate, captain of a named host, keeper of a revelation, or opponent appointed against one great refusal.
@@ -71,5 +73,6 @@ Host choirs are remembered as **the High Host**, **spear-wings**, **white compan
 - [[True Angels Overview]]
 - [[Greater Saints]]
 - [[Phoenixes]]
+- [[The Great Unbinding]]
 - [[Heavenly Commission and Manifestation]]
 - [[Bestiary MOC]]

@@ -156,13 +156,13 @@ This is the creator-only crosswalk for the supplied Pathfinder monster taxonomy.
 
 | Source archetype | Result | World Egg destination |
 |---|---|---|
-| Hill, stone, frost, fire, cloud, and storm giants | `exclude` | Giants are organized through five dead empires, not elemental species |
+| Hill, stone, frost, fire, cloud, and storm giants | `exclude` | Giants are organized by Titanic descent, categorical continuity, and the Five Imperial Horizons' many dynasties and lesser states, not imported elemental species |
 | Ogres and ogrekin | `existing` | [[Ogres]] as Grobi stages; unrelated large humanoids receive separate provenance |
 | Trolls | `new-family` | [[Trolls]] as rare stable fifth-stage Grobi |
 | Cyclopes | `merge` | A named Giant caste, engineered servant, or unique ruin population |
 | Ettins and multi-headed giants | `merge` | Giant fleshwork or Grobi terminal aberration, not a people |
 | Oni and yai | `merge` | Corrupted place-office or Giant remnant |
-| Titans and gigas | `unique` | Named prehuman powers or dead-imperial apex remnants |
+| Titans and gigas | `unique` | Named Titan-Firstborn governed by `titan-continuity`, or separately classified imperial apex Giants; no generic dead Titan is inferred from ancient remains |
 
 ## Ooze Crosswalk
 
@@ -239,5 +239,6 @@ No borrowed name, visual identity, faction, alignment structure, or setting lore
 ## Navigation
 
 - [[Bestiary Framework — Creatures of the World Egg]]
+- [[Giant Descent and Creaturely Continuity]]
 - [[Bestiary MOC]]
 - [[The Image, Soul, and Creaturely Continuity]]

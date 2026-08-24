@@ -8,9 +8,7 @@ region: []
 culture: []
 related_factions: []
 appears_in: []
-needs:
-  - define the Atherian unifier and any republic-to-empire constitutional crisis
-  - decide whether Caedros I's hymns carry the White Flame independently of institutional recognition
+needs: []
 tags: []
 ---
 # Real-History Concordance
@@ -27,9 +25,9 @@ The world is a **mirrored Mediterranean**: north is the desert (the Ahl-e-Ahd's 
 
 ### Bronze Age & Exodus → Age of Chains, Exodus, Scattering
 
-The Giant empires are the Bronze Age palace states seen from below: monumental, bureaucratic, divine-king systems where ordinary people are labor inputs. Their fall compresses the Bronze Age Collapse and the biblical Exodus into one event — the plagues of Egypt *are* the systems collapse, and the Great Prophet is the Moses figure down to the detail the vault already has: he dies at the threshold of the promise for an act of disobedience (Numbers 20 recontextualized as the failed three-generation sanctuary). The Scattering is the Sea Peoples dispersal and the dark age that followed.
+The Five Imperial Horizons and their many client crowns are the Bronze Age palace world seen from below: monumental, bureaucratic, divine-king systems where ordinary people are labor inputs. Their fall compresses the Bronze Age Collapse and the biblical Exodus into the [[The Great Unbinding|Great Unbinding]] — prophetic plagues are one part of the systems collapse alongside revolt, Giant civil war, failed escape, divine judgement, and material breakdown. The Great Prophet is the Moses figure down to the detail the vault already has: he dies at the threshold of the promise after the three-generation sanctuary fails, while responsibility for that failure remains disputed. The Scattering is the Sea Peoples dispersal and the dark age that followed.
 
-**Recontextualization rule:** the Giants must never feel like "fantasy Egypt." Their leavings are the setting's Dwemer-ruin equivalent: glass deserts, blood-sun craters, moon-stranded machine minds. Every later culture's deepest taboo should be traceable to something a Giant empire did.
+**Recontextualization rule:** the Giants must never feel like "fantasy Egypt." Five dominant horizons contain dozens of overlapping states, dynasties, subject cities, and institutions. Their leavings are the setting's Dwemer-ruin equivalent: ancient Glass they did not create, blood-sun craters, sealed Titan bodies, folded courts, and Moon-stranded machine persons. Later cultures inherit different wounds; no one empire or Exodus company causes them all.
 
 ### Greece → Age of City-States and Age of Stars
 
@@ -39,7 +37,7 @@ The Atherian city-states are the poleis: civic rivalry, leagues, tyrants, coloni
 
 ### Rome → The Atherian Empire
 
-Unification ends the city-state age (c. 350 BR); the Age of Glory is the Pax Romana. The remaining design question is the identity of the founding conqueror and whether unification included a republic-to-empire constitutional crisis. The roads, laws, and archives every successor now fights over are already established.
+Unification ends the city-state age (c. 350 BR); the Age of Glory is the Pax Romana. **Aurelius Thalion** is the fixed founder: land concentration, military patronage, provincial wealth, and rival commanders broke the republic; Thalion won the civil wars, seized Caleran, retained republican offices as ceremonial forms, and made supreme command hereditary in practice. The roads, laws, and archives every successor now fights over were built by the republic and centralized by the imperial settlement.
 
 ### Iron-Age Europe and the Imperial Frontier → The Folk
 
@@ -65,9 +63,9 @@ The Four Hordes transform succession-empire precedents into setting-native regio
 
 Already the vault's strongest mapping (ministry, execution, resurrection, persecution, catacomb church). The conversion-era mapping is embodied by:
 
-- **The Converting Emperor (292 AR)** — Constantine: a civil-war usurper who sees the White Flame before battle and wins under its sign. His motivation must stay ambiguous *in-world* (genuine vision? political genius? both?) while the authorial spine knows the vision was real — and knows the man remained ruthless anyway. That gap between real grace and unchanged politics is the whole Conversion-era theme.
-- **The Apostate (c. 330s AR)** — Julian: a scholar-emperor raised in the new faith who tries to restore the stars, dies young on campaign, and becomes a permanent what-if. Sestaran humanists quietly adore him; the Church uses him as a cautionary tale.
-- **The Outlawing Emperor (c. 380 AR)** — Theodosius: makes the faith compulsory, dissolves the augur colleges, and thereby welds sanctity to state power — inherited wound #9.
+- **Cassian the Baptized (vision 292 AR; reign to 316)** — Constantine: a civil-war usurper who sees the White Flame before battle, wins under its sign, and legalizes the faith without immediately outlawing the stars. His motivation remains ambiguous *in-world* while the authorial spine knows the vision was real — and knows the man remained ruthless anyway. His deathbed baptism creates the Cassian Wager. That gap between real grace and unchanged politics is the whole Conversion-era theme.
+- **Astrion the Apostate (348–351 AR)** — Julian: a scholar-emperor raised in the new faith who restores the stars, stages a public verification to which they answer once, dies young on campaign, and becomes a permanent what-if. Sestaran humanists quietly adore him; the Church uses him as a cautionary tale.
+- **Vestian the Pious (377–395 AR; compulsion from 380)** — Theodosius: makes the faith compulsory, dissolves the augur colleges, and thereby welds sanctity to state power — inherited wound #9. The Vestian persecutions of the Jirahar occur inside this same reign.
 
 **Triangle (Conversion era):** GOOD — sincere bishop-martyrs who remember the catacombs; BAD — court converts weaponizing heresy law for property and revenge; UGLY — the old augur aristocracy, selling their archives and legitimacy to the new order piece by piece.
 
@@ -105,7 +103,9 @@ Thalmyria's later texture is carried by the First and Second Breakings, Empress 
 
 ### The 1054 Schism → The Great Split (1015 AR)
 
-The filioque becomes the **Procession of the Flame** controversy: Eclessia teaches the White Flame proceeds from the Lord *and* the Redeemer; Veridun teaches from the Lord alone, through the Redeemer. Layered under the doctrine: primacy (Eclessian pontiff vs Patriarch of Veridun), relic custody from the Reconquest, and the contested veneration of Caedros I — Thalmyria treats him as a saint under its own proof-protocol; Eclessia rejects the canonization as imperial self-worship. **This is the Talos dynamic executed within your no-apotheosis rule:** nobody becomes a god, but whether a dead emperor's hymns really channel the Flame is empirically testable in this world, and the two churches report different results. Someone is lying, or something stranger is true. The final ruling remains recorded in this note's `needs` property rather than being treated as cultural relativism.
+The filioque supplies the historical pressure, but the setting-native doctrinal weapon is the **Kindling Question**, not the older Procession formula. Veridun teaches that the Flame is uncreated and consents to dwell where sanctity prepares it; Eclessia teaches that the Flame as given to mortals is created grace entrusted to the apostolic body and governed through proof-protocol. Layered beneath it are primacy (Eclessian Lord Primarch versus Patriarch of Veridun), relic custody after the Reconquest, competing claims to Atherian inheritance, and the contested veneration of Caedros I.
+
+Caedros is the empirical test case and the Talos-like dynamic within the no-apotheosis rule: Thalmyria treats him as a saint on the evidence of the Pillar and battle hymns; Eclessia rejects imperial self-authentication. **Authorial ruling:** the hymns kindle according to the righteousness and purpose of the singer, not Caedros's authorship and not institutional recognition. The result neither turns Caedros into a god nor lets either hierarchy own the Flame; it explains why both churches obtain genuine, inconsistent results. Older “Procession of the Flame” language may survive as a secondary scholastic analogy, but it must not be presented as the primary engine of the 1015 Split.
 
 ### Renaissance Italy → The Sestaran Concord
 
@@ -137,7 +137,7 @@ The board is Habsburg–Ottoman–Valois plus confessional stalemate: Thalmyria 
 
 ## Standing Recontextualization Rules
 
-1. **Steal the dynamic, not the costume.** Every borrowing must be re-derived from the World Egg's own metaphysics (indulgences → routing assurances; Greek fire → sacramental Flame; devshirme → contract-bound levies). If the analog works only because the reader knows the real history, it isn't done yet.
+1. **Steal the dynamic, not the costume.** Every borrowing must be re-derived from the World Egg's own metaphysics (indulgences → routing assurances; Greek fire → controlled Shell-fire with disputed sacred counterclaims; devshirme → contract-bound levies). If the analog works only because the reader knows the real history, it isn't done yet.
 2. **The flip protects you.** Mirrored compass, inverted 1453, Orthodox-west/Catholic-east: keep systematically breaking one-to-one traceability while preserving motivations.
 3. **Every era gets a triangle.** Good/Bad/Ugly per the Grenzburg model — and the Ugly party should always be the one whose cooperation is necessary and whose price compounds.
 4. **Both sides get a real case.** Reformation, schism, Unsealing, reconquest: each faction's position must be the one its best people would sincerely hold. Villainy lives in method and appetite, not in having the wrong theology.

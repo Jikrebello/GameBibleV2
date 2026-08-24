@@ -43,6 +43,7 @@ tags: []
 ## Bridge Ages
 
 - [[Age of Chains]]
+- [[The Great Unbinding]]
 - [[Age of Exodus]]
 - [[Age of Scattering]]
 - [[Age of Hearths and First Kings]]
@@ -63,6 +64,7 @@ tags: []
 ## Historical Lenses
 
 - [[Prehistory Overview]]
+- [[The Historical Seed Garden]] - author-only exploratory nursery for legendary companies and unfinished human trajectories across all eras.
 - [[The Empire of Qianglong]]
 - [[The Unending Muster]]
 - [[The Fall of Anshara]]

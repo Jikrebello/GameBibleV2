@@ -49,11 +49,13 @@ This moral blindness does not make Menhir benevolent. It also does not make heat
 
 Shadowlands fusion preserved moral comprehension while turning betrayed commissions into feeding economies. The Idols know that the good exists and deliberately counterfeit it. Their continued predation is chosen, scalable, and culpable. Their [[The Counter-Countenances of the Idols|Counter-Countenances]] testify against them from within their own dominions.
 
+The fused guilty continuity persists as a Throne even if the executive personality organizing it changes. Cultural Masks may turn over frequently; true Regnant succession is exceptionally rare and consists of a claimant voluntarily assimilating into the same culpable sovereignty. [[Idol Thrones, Regnants, and Cultural Masks]] controls this distinction.
+
 The difference is load-bearing. Menhir law is amoral and dangerous. Idol appetite is knowingly evil. Neither is divine authority.
 
 ## Yolk-Sovereignty
 
-`yolk-sovereignty` describes a former created spirit whose continuity has become inseparable from a yolk-scale dominion. A named Menhir or Idol is the organizing personality of a larger fusion involving cohort, realm, law, and recurring manifestations. It is not a fallen-angel species, a human soul, or a biological lineage.
+`yolk-sovereignty` describes a former created spirit whose continuity has become inseparable from a yolk-scale dominion. A Menhir's named sovereign is ordinarily the enduring organizing personality of the larger fusion. For an Idol, the creator-name ordinarily names the enduring guilty Throne, while a Regnant organizes its cohort remnants, realm, law, and recurring manifestations. Neither is a fallen-angel species, a human soul, or a biological lineage.
 
 A yolk-sovereign:
 
@@ -76,7 +78,7 @@ Not everything abandoned during the rebellion became a sovereign. Broken banners
 - Deserting the Adversary was not repentance.
 - Menhir exactness is not justice, affection, or moral approval.
 - Idol complexity does not make their feeding morally neutral.
-- A Giant claim of descent from a Menhir or Idol normally compresses patronage, alteration, imitation, or propaganda into genealogy.
+- Ancient Titanic descent from bounded Menhir manifestations, an Idol Throne acting through a dependent Mask, or a separately autonomous Archmask is genuinely possible and often real. Giant courts nevertheless compress remote ancestry, patronage, alteration, imitation, adoption, and fraud into claims that the present dynasty is the immediate, pure, and exclusive child of its named power. [[Giant Descent and Creaturely Continuity]] controls the distinction.
 - Similar symbols do not establish common origin: Wrath's fire is not Hell, a patron is not an Idol, and a court beast is not an angel.
 
 ## Navigation
@@ -85,8 +87,10 @@ Not everything abandoned during the rebellion became a sovereign. Broken banners
 - [[The Faewild Schism]]
 - [[The World Egg Cosmology]]
 - [[The Idols Overview]]
+- [[Idol Thrones, Regnants, and Cultural Masks]]
 - [[Shadowlands and Idols MOC]]
 - [[Names of the Menhir, Masks of the Idols]]
+- [[Giant Descent and Creaturely Continuity]]
 - [[The Adversary]]
 - [[Mono-Myth Overview]]
 - [[Cosmology MOC]]

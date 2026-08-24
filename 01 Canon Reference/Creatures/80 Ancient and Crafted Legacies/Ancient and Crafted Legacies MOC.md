@@ -19,6 +19,7 @@ This index controls the **28 catalogued Ancient and Crafted forms**. It separate
 
 - [[Constructs by Animating Principle]]
 - [[The Image, Soul, and Creaturely Continuity]]
+- [[Giant Descent and Creaturely Continuity]]
 - [[Bestiary Framework — Creatures of the World Egg]]
 
 ## Ancient Remnants

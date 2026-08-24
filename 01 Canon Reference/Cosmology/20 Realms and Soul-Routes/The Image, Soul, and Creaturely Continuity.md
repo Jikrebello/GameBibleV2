@@ -23,6 +23,12 @@ Shared ancestry does not by itself preserve the Image. Intelligence, affection, 
 
 This distinction must never become an excuse for lazy creature writing. A being without a human soul may still suffer, reason, form loyalties, keep promises, betray others, or bear moral responsibility according to the agency its continuity permits.
 
+## Giant Ancestry and Categorical Birth
+
+[[Giant Descent and Creaturely Continuity]] controls mixed Giant ancestry. A child descended from Giants is authorially either a complete human person with `human-soul`, a Titan with `titan-continuity`, or a Giant with `giant-continuity`. No one possesses a fractional soul or percentage of the Image.
+
+A giant-blooded human may inherit an altered body, long life, unusual power, ancestral access, or recognition by Giant instruments while remaining completely human. A Titan or Giant may reason, suffer, and possess moral agency without acquiring the Image or entering the human soul-road. Blood concentration and court ritual cannot manufacture the Image or make genealogy an infallible continuity test.
+
 ## Human Death and Routing
 
 At ordinary human death:
@@ -101,8 +107,12 @@ Destroying a residue-being does not destroy a human soul. It can still be morall
 | Native Astral person or fauna | `astral-pattern` | None |
 | Shell manifestation | `shell-pattern` | None; no interior person exists |
 | Pure construct or adaptive simulation | `constructed-pattern` | None; no interior person exists |
-| Nythalum Continuant | `giant-memory` | Genuine nonhuman Giant continuity, never a human soul-route |
-| Giant reconstruction or blood-memory vessel | `giant-memory` or `constructed-pattern` | None unless a human soul was separately bound |
+| Titan-Firstborn, including a distributed Titan | `titan-continuity` | None; every authentic fragment remains part of one nonhuman person |
+| High or Dynastic Giant | `giant-continuity` | None |
+| Giant-blooded human | `human-soul` | Natural route through the Vestibule |
+| Nythalum Continuant | `giant-continuity` | Genuine uninterrupted nonhuman Giant continuity; never a human soul-route |
+| Embodied Ansharan Vampire Giant | `giant-continuity` | Genuine unbroken nonhuman Giant continuity; never a human soul-route |
+| Giant reconstruction, blood-memory vessel, or empty inherited office | Its actual type: normally `constructed-pattern`, `residue`, `biological-pattern`, or `infrastructure-office` | None unless a human soul was separately bound |
 | Biological fleshwork or bound animal | `biological-pattern` | None; may nevertheless suffer |
 | Vestibule mechanism or imposed office | `infrastructure-office` | Not itself a routed soul |
 | Abyssal catastrophe | `abyssal-wound` | None |
@@ -111,7 +121,7 @@ Giltlings, ordinary fey, elder drakes, elementals, Giants, Pale-Skins, patrons, 
 
 ## Menhir and Idol Sovereignty
 
-The Menhir and Idols began as angelic office-holders and cohorts but forced yolk-fusion transformed them into `yolk-sovereignty`. The named sovereign is the organizing personality of a continuity spread through realm, law, cohort remnants, and recurring manifestations. Neither group remains ordinary `created-spirit`, and neither naturally enters the human soul-road.
+The Menhir and Idols began as angelic office-holders and cohorts but forced yolk-fusion transformed them into `yolk-sovereignty`. A Menhir's named sovereign is ordinarily the enduring organizing personality of a continuity spread through realm, law, cohort remnants, and recurring manifestations. An Idol persists as one guilty Throne while a mutable Regnant organizes it and many Masks express it; [[Idol Thrones, Regnants, and Cultural Masks]] controls the distinction. Neither group remains ordinary `created-spirit`, and neither naturally enters the human soul-road.
 
 Their moral capacities differ:
 
@@ -160,7 +170,9 @@ An `infrastructure-office` does not overwrite its bearer. Authorial creature not
 - [[Heaven and Soul-Road MOC]]
 - [[The Boatman]]
 - [[Bestiary Framework — Creatures of the World Egg]]
+- [[Giant Descent and Creaturely Continuity]]
 - [[The Great Rebellion and the Yolk Exiles]]
+- [[Idol Thrones, Regnants, and Cultural Masks]]
 - [[Menhir Sovereignty and Bargain]]
 - [[Grobi Overview]]
 - [[Driftkin]]

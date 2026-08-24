@@ -15,7 +15,7 @@ tags:
 ---
 # Mono-Myth Overview
 
-> **Authorial status:** This is an apocryphal in-world synthesis reconstructed from traditions of the Scattering. The Great Rebellion happened, and the cohorts later known as the Menhir and Idols did fight beside the Adversary before deserting him and forcing themselves into the yolks. Their fusion created yolk-sovereignties rather than a reusable fallen-angel species. The account below remains unreliable about sequence, motives, Giant descent, and the nature of the Dreamlands. See [[The Great Rebellion and the Yolk Exiles]], [[Names of the Menhir, Masks of the Idols]], and [[Fallen Angels and Broken Commissions]].
+> **Authorial status:** This is an apocryphal in-world synthesis reconstructed from traditions of the Scattering. The Great Rebellion happened, and the cohorts later known as the Menhir and Idols did fight beside the Adversary before deserting him and forcing themselves into the yolks. Their fusion created yolk-sovereignties rather than a reusable fallen-angel species. The account below remains unreliable about sequence, motives, Giant descent, the number of Giant states, the causation of the Great Unbinding, the extent of the migrating remnant, the Prophet's death, and the nature of the Dreamlands. See [[The Great Rebellion and the Yolk Exiles]], [[Giant Descent and Creaturely Continuity]], [[The Great Unbinding]], and [[Fallen Angels and Broken Commissions]].
 
 #### **1. Creation and the Fall of Humanity**
 
@@ -28,6 +28,8 @@ During this rebellion, the ranks of the Adversary’s followers fractured. One g
 The rebellion ultimately failed, with the Adversary and his followers cast down and exiled into the **Abyss**, but not before they enacted a final betrayal: corrupting humanity. Through deceit, they convinced humans to rebel against the Lord’s commandments, leading to the fall of humanity from grace. The paradise they once knew was lost, and the world became a **battleground** where good and evil now coexisted, pulling humanity in opposing directions.
 
 #### **2. The Age of the Giants and the Tyranny of the False Gods**
+
+> **Recensional compression:** This synthesis preserves the common four-horizon liberation register and omits Anshara, which fell separately in the Drinking Wars. It also turns many states and dynasties into four continuous kingdoms. Those are in-world failures of memory, not the authorial political map; [[Age of Chains]] and [[The Fall of Anshara]] control the Five Imperial Horizons.
 
 In this fractured world, the Menhir and the Idols saw an opportunity. They bound themselves to the earth, sky, seas, and the Dreamlands, solidifying their power and cutting themselves off from the Adversary’s punishment. They procreated with humanity, producing a race of powerful hybrid beings—the **Giants**. These Giants established their own empires and ruled over the humans with divine authority, claiming themselves as the gods of the world.
 
@@ -44,6 +46,8 @@ The **Giants** enslaved humanity, using them as labor, sacrifices, and worshiper
 Each empire represented a different form of tyranny, but all shared a common element: humanity was enslaved, sacrificed, or treated as mere pawns in the Giants’ pursuit of power.
 
 #### **3. The Calling of the Great Prophet**
+
+> **Recensional compression:** The account below attributes the whole collapse to one circuit of personal miracles, treats every imperial catastrophe as a direct plague, and later gathers every surviving human into one column. [[The Great Unbinding]] instead controls the providential convergence, the Prophet's commissioned but human agency, Anshara's parallel collapse, and the representative rather than exhaustive remnant.
 
 After centuries of oppression, the Lord chose a single human—a **Great Prophet**—to rise up and deliver humanity from the clutches of the Giants. This prophet, humble and uncertain, was initially hesitant. Nevertheless, the Lord imbued him with divine power and tasked him with spreading His word and leading the people out of bondage.
 

@@ -15,6 +15,8 @@ tags: [core-canon]
 
 The seven Idols are former angelic orders transformed into `yolk-sovereignty` during the [[The Great Rebellion and the Yolk Exiles|Great Rebellion]]. They are objective predatory powers of the Shadowlands: independent of Hell and the Adversary, guilty of their own rebellion, and sustained by human goods deliberately turned toward vice.
 
+Each Idol persists as one guilty **Throne** while a mutable **Regnant** organizes it and many simultaneous cultural **Masks** express it. [[Idol Thrones, Regnants, and Cultural Masks]] controls those strata and the exceptionally rare possibility of succession. Neither Mask turnover nor Regnant accession creates a new god or erases the original sovereignty's guilt.
+
 They are not misunderstood gods, neutral archetypes, necessary halves of a balanced cosmos, or products of mortal dreams.
 
 ## The Seven Predatory Economies
@@ -31,9 +33,9 @@ They are not misunderstood gods, neutral archetypes, necessary halves of a balan
 
 ## What an Idol Can Do
 
-An Idol can cultivate dreams, grow fauna, project masks, authorize archmasks, alter a living lineage, organize residue, counterfeit a good, and establish a temporary dominion overlay through a mortal feeding architecture. It cannot create the Image, manufacture or annihilate a human soul, reverse judgement, or enter the Material Realm in sovereign fullness.
+An Idol can cultivate dreams, grow fauna, project masks, foster or bargain with archmasks, alter a living lineage, organize residue, counterfeit a good, and establish a temporary dominion overlay through a mortal feeding architecture. It cannot create the Image, manufacture or annihilate a human soul, reverse judgement, or enter the Material Realm in sovereign fullness.
 
-The three manifestation classes are controlled in [[Idol Manifestation and Feeding]]. Intelligence and agency must be stated per form. A Shadow creature is not morally innocent or guilty merely because of its origin.
+The three manifestation classes are controlled in [[Idol Manifestation and Feeding]]. Intelligence and agency must be stated per form. A Shadow creature is not morally innocent or guilty merely because of its origin. A human-faced Mask or Archmask may grow from legend, residue, or copied memory, but it is never the human soul whose identity it wears.
 
 ## Courts, Cults, and Institutions
 
@@ -57,6 +59,7 @@ Each Idol suppresses a surviving witness to its betrayed heavenly commission. [[
 
 - [[Shadowlands and Idols MOC]]
 - [[Idol Manifestation and Feeding]]
+- [[Idol Thrones, Regnants, and Cultural Masks]]
 - [[The Counter-Countenances of the Idols]]
 - [[The Atlas of the Left Hand]]
 - [[The Adversary]]

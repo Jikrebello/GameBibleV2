@@ -48,6 +48,8 @@ Bestiary `rank` measures encounter consequence, not holiness or authority.
 | Great | apex or unique | army, kingdom, church, or metaphysical frontier |
 | Phoenix-grade | unique | regional judgement, purification, and restoration |
 
+[[The Great Unbinding]] is the controlling ancient example: one Phoenix bears a regional commission with supporting choirs, acts only against specified apex structures and pursuit, and withdraws when the protected passage is complete. Its scale does not authorize it to rule the liberated people or validate every mortal action taken beneath its signs.
+
 ## Recognition
 
 A heavenly claim should be tested by source, commission, coherence with revealed truth, refusal of worship, treatment of the vulnerable, and the fruit of its action. Beauty, wings, healing, fire, accurate secrets, or effective protection are not sufficient proof.
@@ -76,5 +78,6 @@ Heavenly servants may aid, test, warn, bar passage, demand release of a bound so
 - [[Heavenly Orders Overview]]
 - [[True Angels Overview]]
 - [[Manifested Saints Overview]]
+- [[The Great Unbinding]]
 - [[Soul-Road Functionaries]]
 - [[Heaven and Soul-Road MOC]]

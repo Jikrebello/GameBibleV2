@@ -13,7 +13,7 @@ tags: []
 ---
 ### Overview
 
-The Blood Empire of Xolotl was a jungle and highland civilization of causeway cities, war calendars, captive tribute, monumental sacrifice, and exact astronomy. Its **Obsidian Giants** proclaimed themselves offspring of **Furor, the Idol of Wrath**, but were a Giant lineage altered through Wrath patronage, volcanic rites, and blood craft. Constant sacrifice powered the Blood Sun and the rulers' claim that only their violence preserved the world.
+The Blood Empire of Xolotl was a jungle and highland civilization of causeway cities, war calendars, captive tribute, monumental sacrifice, and exact astronomy. Its **Obsidian Giants** carried ancient Idol-derived Giant ancestry: their earliest dynasties included descendants of Titan-Firstborn conceived through bounded manifestations of **Furor, the Idol of Wrath**. Later Wrath patronage, volcanic rites, sacrificial alteration, and blood craft repeatedly reshaped that inheritance. Court theology collapsed the entire history into the claim that every Obsidian ruler was Furor's immediate offspring. Constant sacrifice powered the Blood Sun and the rulers' claim that only their violence preserved the world.
 
 ### Geography
 
@@ -23,7 +23,7 @@ The geography of Xolotl was both a blessing and a curse. The dense jungle provid
 
 ### Ruling Giants: The Obsidian Giants
 
-The Obsidian Giants had skin as hard and black as volcanic glass and eyes that burned with crimson light. Court theology called them Furor's direct offspring. Authorially, repeated sacrificial alteration made them an Idol-patronized Giant caste, not literal children of Wrath. They were revered and feared as living gods, and human subjects were compelled to obey them.
+The Obsidian Giants had skin as hard and black as volcanic glass and eyes that burned with crimson light. Their ancient Idol-derived ancestry was genuine, but their uniform obsidian bodies were also the result of later sacrificial alteration, volcanic exposure, selective breeding, and blood craft. Court theology called every ruler Furor's direct offspring, concealing the distance, mixture, and deliberate remaking between the first Titan-Firstborn and the imperial caste. They were revered and feared as living gods, and human subjects were compelled to obey them.
 
 Xolotl's continuity project attempted to preserve lineage-memory, vitality, and imperial authority in sacrificial blood. The Blood Sun could store and redistribute those patterns only by consuming human life. It could not preserve the Image or turn Giant memory into a human soul.
 
@@ -47,17 +47,17 @@ The Obsidian Giants were also masters of volcanic energy, which they used to cre
 
 ### Decline
 
-The decline of Xolotl began with the Great Exodus, which led to a series of slave rebellions that shook the empire to its core. As the Great Prophet led his followers across the Great Glass Desert, those left behind in Xolotl began to rise up against their brutal overlords. The Obsidian Giants responded with increasing brutality, but the empire’s human population began to dwindle, leading to a scarcity of sacrificial victims.
+Xolotl's final decline unfolded during the Great Unbinding. Prophetic warning and the failure of captive-supply systems created openings, while enslaved households, subject cities, and calendar rivals rose through their own networks before, during, and after the principal host's departure. The Obsidian Giants answered with increasing brutality, but sacrifice could no longer be supplied or synchronized at imperial scale.
 
 As the number of sacrifices decreased, the Blood Sun began to wane, its light growing dimmer and more ominous. The Obsidian Giants, desperate to maintain their power, turned on each other, each seeking to claim the blood of the other’s subjects to keep the Blood Sun burning. This infighting led to a series of devastating civil wars, further weakening the empire.
 
 The final catastrophe occurred when one of the most powerful Obsidian Giants, in a fit of madness and desperation, attempted to draw upon the Blood Sun’s power to annihilate the human rebels. The ritual backfired, causing the Blood Sun to explode in a massive eruption of volcanic energy. The resulting devastation obliterated Xolotlan and triggered a chain reaction of volcanic eruptions across the empire, burying Xolotl in molten lava and ash.
 
-The once-great Blood Empire was reduced to a fiery wasteland, its cities consumed by fire and its people scattered to the winds. The Obsidian Giants, once the rulers of a mighty empire, were either killed in the catastrophe or driven mad by the loss of their power.
+The imperial heartland became a fiery wasteland, many cities were consumed, and surviving peoples scattered into unequal successor histories. Many Obsidian Giants died or lost coherent command; others may have fled, remained sealed, persisted in lesser courts, or survived by means whose complete roster remains unresolved.
 
 ### Legacy and Myth
 
-The ruins of the Blood Empire of Xolotl lie buried beneath layers of volcanic rock and ash, their secrets hidden from the world. The few who dare to venture into the remnants of Xolotl speak of strange, lingering energies and the ghosts of the sacrificed, forever bound to the land. The Blood Sun, now a cold and lifeless orb, is said to lie at the heart of the ruins, a grim reminder of the empire’s fall.
+The ruins of the Blood Empire of Xolotl lie buried beneath layers of volcanic rock and ash, their secrets hidden from the world. Those who enter report lingering energies, victim-residue, and apparitions that may imitate the sacrificed; none of these is automatically the routed human soul, and any genuine soul-cage must be established individually. The Blood Sun, now a cold and lifeless orb, is said to lie at the heart of the ruins, a grim reminder of the empire’s fall.
 
 The legend of Xolotl has become a tale of caution, warning against the dangers of unchecked power and the insatiable thirst for blood. The Obsidian Giants, once feared as living gods, are now remembered as tyrants whose lust for violence led to their own destruction. The empire's fall is often depicted in art and literature as a fiery apocalypse, a moment when the wrath of the gods was unleashed upon the world.
 
@@ -66,4 +66,6 @@ The legacy of Xolotl also lives on in the myths and rituals of surrounding cultu
 ## Navigation
 
 - [[Timeline MOC]]
+- [[Giant Descent and Creaturely Continuity]]
+- [[The Great Unbinding]]
 - [[Canon Index]]

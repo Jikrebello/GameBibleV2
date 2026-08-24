@@ -44,6 +44,14 @@ Phoenixes are sent to:
 
 Their arrival does not mean every person or institution on the “correct” side is vindicated. Phoenix fire distinguishes created good from the corruption attached to it, often exposing allies as painfully as enemies.
 
+## The Great Unbinding Commission
+
+One actual, presently unnamed Phoenix bore the regional judgement-and-restoration commission during [[The Great Unbinding]]. Specialized choirs and Host servants supported it. Later traditions may confuse the Phoenix, its supporting angels, their commission-bodies, and the signs surrounding them, but the authorial event involved one Phoenix and many supporting servants rather than interchangeable cultural descriptions of an unknown headcount.
+
+Its bounded authority was to preserve the human withdrawal, expose false Giant continuities, separate captives from self-reproducing structures, bind selected Titan-Firstborn, and sever particular recurrence or generative war systems. It did not conquer Giant civilization, become the Prophet's army, destroy an Idol Throne, explain the Glass, or remain to govern the liberated people. The commission ended when the selected apex structures were contained and the protected passage was complete.
+
+No manifested saint exists before the Redeemer's work. Fire witnessed around this earlier commission belongs to that Phoenix's direct heavenly work. It does not establish an inheritable White-Flame office, repeatable kindling method, active saintly relic, or permanent authority in any surviving ash, feather, weapon, or camp object.
+
 ## Signs
 
 - ordinary flame goes silent and points toward the corruption source;
@@ -86,5 +94,6 @@ Eclessians favor **White Phoenix** or **Bird of the Final Fire**. Thalmyric hymn
 - [[True Angels Overview]]
 - [[Host and Greater Angels]]
 - [[White Flame Doctrine]]
+- [[The Great Unbinding]]
 - [[The Lord and Redeemer]]
 - [[Bestiary MOC]]

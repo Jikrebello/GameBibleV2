@@ -21,12 +21,19 @@ The Age of Chains is the era of Giant dominion. Humanity lives under empires tha
 
 ## Shape of the Age
 
-The Giant empires are not one nation. They are rival god-kingdoms, each teaching humanity a different form of bondage:
+The Giant empires are not one nation, and the familiar five are not an exhaustive political map. **Qianglong, Ishkatar, Xolotl, Nythalum, and Anshara are the Five Imperial Horizons**: the largest surviving traditions of Giant hegemony, administration, monumental culture, and continuity engineering. Dozens of smaller Giant kingdoms, human subject cities, client crowns, cadet courts, leagues, estates, marches, and mobile confederacies existed within, between, and beyond them.
+
+Most later liberation histories remember only the four horizons broken directly during the Great Prophet's movement. Anshara collapsed separately but concurrently in the Drinking Wars. Each horizon taught humanity a different form of bondage:
 
 - **Qianglong:** order turned into caste, plague, famine, war, and death.
 - **Ishkatar:** river wealth, serpent kings, sacrifice, greed, and monumental debt.
 - **Xolotl:** blood astronomy, ritual violence, volcanic power, and the Blood Sun.
 - **Nythalum:** moonward technology, body-transcendence, machine-priesthoods, and cosmic escape.
+- **Anshara:** blood made into sovereignty, rank made biological, Pride patronage, court predation, and primordial vampirism. Anshara was not broken by the Prophet's plagues; it collapsed during the parallel [[The Fall of Anshara|Drinking Wars]] and was erased from most mortal histories.
+
+The horizons expand, divide, overlap, and survive through changing dynasties. A conquered kingdom may retain its law and rulers while paying tribute to one horizon, marrying another, and using the technical system of a third. Present ruins therefore preserve political layers rather than five timeless territorial blocks.
+
+Ancient Titanic descent is often real, but a court's claim that its present ruler is the immediate, pure, and exclusive child of a named Menhir or Idol may still be selective genealogy, political compression, or fraud. [[Giant Descent and Creaturely Continuity]] controls parentage and personhood.
 
 ## Human Memory
 
@@ -58,5 +65,7 @@ The world learns that power can impersonate divinity. Every later empire is judg
 
 - [[Timeline MOC]]
 - [[Age of Exodus]]
+- [[The Great Unbinding]]
+- [[Giant Descent and Creaturely Continuity]]
 - [[Prehistory Overview]]
 - [[Mono-Myth Overview]]

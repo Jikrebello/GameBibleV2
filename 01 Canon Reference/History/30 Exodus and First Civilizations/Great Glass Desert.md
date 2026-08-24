@@ -20,11 +20,13 @@ tags: []
 ---
 # Great Glass Desert
 
-The Great Glass Desert is the crossing-place of the Exodus: a vast, reflective, deadly expanse between the old Giant worlds and the southern lands where the scattered peoples become recognizable cultures.
+The Great Glass Desert is the crossing-place of the Exodus: roughly three hundred leagues of ancient, reflective, deadly glass between the old Giant worlds and the southern lands where the scattered peoples become recognizable cultures. It predates the Prophet's plagues and, by surviving Giant records, the Giants' own interest in approaching it. Its origin, nature, and purpose remain unresolved.
 
 ## Historical Role
 
-The desert is not just terrain. It is a filter. It burns away the old world, tests obedience, preserves disputed testimony, and turns liberation into migration.
+During the [[The Great Unbinding|Great Unbinding]], the Lord provides one bounded survivable passage through a place where no imperial road, army, map, or calculation had established one. The ordered migrating camp carries households, animals, seed, tools, medicine, records, law, and living crafts. High-sign food, water, shade, orientation, endurance, and protection answer impossible bottlenecks, while human preparation and labor remain indispensable.
+
+The crossing impresses real threshold corridors and anchor camps later underlying the Prophet's Roads and lawful Way-Gates. Those traces do not reveal why the Glass exists and cannot be used to reproduce the original passage on demand.
 
 ## Cultural Memory
 
@@ -35,11 +37,13 @@ The desert is not just terrain. It is a filter. It burns away the old world, tes
 
 ## Story Use
 
-The Great Glass Desert should remain a place of pilgrimage, forbidden ruins, lost camps, miracle-sites, false relics, caravan testimony, and arguments over what the Prophet was commanded to do.
+The Great Glass Desert should remain a place of pilgrimage, forbidden ruins, lost camps, miracle-sites, false relics, caravan testimony, and arguments over what the Prophet was commanded to do. No Giant war, plague, Nythalum launch, heavenly fire, or human rite created it. No present route proves that the ancient miracle has become a reusable technique.
 
 ## Navigation
 
 - [[Timeline MOC]]
 - [[Age of Exodus]]
+- [[The Great Unbinding]]
 - [[Age of Scattering]]
 - [[Mono-Myth Overview]]
+- [[The Weird of History — The Unexplained Register]]

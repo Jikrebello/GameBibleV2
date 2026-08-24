@@ -14,11 +14,11 @@ tags: [core-canon]
 ---
 # The Fall of Anshara
 
-The fall of Anshara was not one battle, plague, or slave rising. It was the collapse of an empire that had made sovereignty biological. Giant rulers granted, withheld, bred, and cursed blood as proof that every life beneath them existed by court permission. When that hierarchy broke, its courts consumed one another literally as well as politically.
+The fall of Anshara received no direct prophetic plague cycle. It was not one battle or slave rising, but the collapse of an empire that had made sovereignty biological. Giant rulers granted, withheld, bred, and cursed blood as proof that every life beneath them existed by court permission. When that hierarchy broke, its courts consumed one another literally as well as politically.
 
 ## Before the Collapse
 
-Anshara was the Court of Courts: a plateau empire of satrapies, paradise-gardens, processional roads, blood archives, and Giant households claiming descent from the Idol of Pride called the Sovereign. Pride patronage and Giant blood craft, rather than literal divine parentage, produced primordial vampirism. Its rulers used that inheritance to extend life, dominate memory, preserve servants in office, and create the first specialized mortal vampire lines.
+Anshara was the Court of Courts: a plateau empire of satrapies, paradise-gardens, processional roads, blood archives, and genuinely Giant ruling houses. Their Giant ancestry predated the mature Ansharan blood system; some houses may have preserved remote Idol-derived Titanic descent, but court claims of immediate and exclusive birth from the Idol of Pride called the Sovereign remain unverified political theology. Later Pride patronage and Giant blood craft produced primordial vampirism as a distinct inherited technology and condition. The Giant rulers then used their own altered blood to extend life, dominate memory, preserve servants in office, and create the first specialized **human** vampire lines. Giant ancestry, Giant vampirism, and the retained human souls of those mortal lines are related histories, not one continuity.
 
 The later Regalis, Nocturnis, Sanguine, Eclipsis, and Militis did not begin as equal nations. They emerged from gifts, punishments, breeding programs, military houses, ritual offices, and rebel lineages whose inherited powers specialized as Giant blood diluted.
 
@@ -60,6 +60,8 @@ No discovery at the Palace of the Last Audience settles these questions. Azravan
 
 - [[Prehistory Overview]]
 - [[Timeline MOC]]
+- [[Giant Descent and Creaturely Continuity]]
+- [[The Great Unbinding]]
 - [[Vampire Origins]]
 - [[Vampires in the Present Age]]
 - [[Entombed with the Court — Full Adventure]]

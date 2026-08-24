@@ -27,8 +27,8 @@ The civilized world dates from the execution and resurrection of Isfir the Redee
 ## Mythic and Legendary Time (traditional dates)
 
 - **The Deep Past (undatable):** Creation, the Great Rebellion, the fall of humanity, and the yolk exiles. The future Menhir and Idols deserted the defeated Adversary and culpably chose fusion. After the Menhir became morally blind Faewild sovereignties, the [[The Faewild Schism]] broke historical Trium and produced the recurring blocs later called the Circles. All of this predates the Giant imperial ages; in-world sources compress it into the Mono-Myth.
-- **c. 3400–2300 BR — Age of Chains.** The Giant empires enslave humanity.
-- **c. 2300–2260 BR — Age of Exodus.** The Great Prophet breaks the Giants; the crossing of the Great Glass Desert; his death at the threshold (c. 2265 BR).
+- **c. 3400–2300 BR — Age of Chains.** The Five Imperial Horizons and a many-state Giant political world enslave humanity.
+- **c. 2300–2260 BR — Age of Exodus and Great Unbinding.** Prophetic signs, human revolts, Giant civil wars, bounded heavenly severance, and imperial collapse converge; the Great Prophet leads the principal liberated remnant across the Great Glass Desert and dies near the failed sanctuary threshold (c. 2265 BR).
 - **c. 2260–1900 BR — Age of Scattering.** The exodus fractures into the ancestor-peoples. ✶ Somewhere in these centuries falls the **Year of Standing Stars**, which every calendar patches differently.
 
 ## Early Historic Ages

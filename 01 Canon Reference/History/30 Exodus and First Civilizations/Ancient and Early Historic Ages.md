@@ -25,8 +25,8 @@ This note bridges [[Prehistory Overview]] and the [[Atherian Imperial Age]]. It 
 
 ## Era Ladder
 
-1. [[Age of Chains]]: Giant empires enslave humanity and teach the world its first great lessons in tyranny, monumentality, forbidden science, and false divinity.
-2. [[Age of Exodus]]: the Great Prophet breaks Giant rule and leads humanity across the [[Great Glass Desert]].
+1. [[Age of Chains]]: the Five Imperial Horizons and many lesser Giant polities enslave humanity and teach the world its first great lessons in tyranny, monumentality, forbidden science, and false divinity.
+2. [[Age of Exodus]]: the [[The Great Unbinding|Great Unbinding]] breaks Giant rule through converging judgement, revolt, civil war, and systemic collapse; the Great Prophet leads the principal liberated remnant across the [[Great Glass Desert]], while other human communities survive elsewhere.
 3. [[Age of Scattering]]: the freed peoples split, carrying fragments of the Prophet's teaching into different lands and survival strategies.
 4. [[Age of Hearths and First Kings]]: villages, hill forts, river towns, ancestor laws, early Menhir pacts, priest-kings, and local cults emerge.
 5. [[Age of City-States]]: trade, writing, archives, walls, towers, ports, oasis courts, and elemental engineering create the first urban powers.

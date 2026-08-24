@@ -64,7 +64,7 @@ The Nsizwa are famed for their **mastery of crafting**, with their **weapons, ar
 The Nsizwa engage in **regional trade**, offering:
 
 - **Weapons and armor** – Particularly their **ceremonial spears and enchanted shields**.
-- **Sacred inkatho talismans** – Small artifacts containing **trapped spirits or blessings**.
+- **Sacred inkatho talismans** – Small artifacts carrying **praise-names, blessings, and sometimes organized residue**. Claims that they contain whole human souls are taboo and require case-specific proof.
 - **Rare hides and pelts** – Particularly **leopard skins**, worn only by **elite warriors and rulers**.
 - **Ivory and carved bone jewelry** – Used in **rituals and political gifting**.
 
@@ -147,5 +147,4 @@ The Nsizwa are a people of **strength, honor, and wealth**, with **cattle, warfa
 ## Navigation
 
 - [[The Nsizwa Overview]]
-- [[Canon Index]]
 - [[Canon Index]]

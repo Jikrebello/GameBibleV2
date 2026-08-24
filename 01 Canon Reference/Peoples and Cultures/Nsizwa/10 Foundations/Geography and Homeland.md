@@ -88,7 +88,7 @@ The Nsizwa lands experience **two dominant seasons**:
 
 - Located deep within the **Valley of Echoes**, a place where the **wind carries the voices of the dead**.
 - This **sacred burial site houses the mummified bodies of the ten greatest generals** in Nsizwa history.
-- Each tomb is **sealed with wards and carvings**, ensuring the spirits inside only awaken when the **Nsizwa face their greatest trials**.
+- Each tomb is **sealed with wards and carvings**, keeping body, wrappings, praise-name, and duty dormant until the **Nsizwa face their greatest trials**. The Nsizwa say the generals' spirits wait within; outsiders cannot settle that claim from the seals alone.
 - Warriors travel here to **meditate, train, and seek wisdom from their fallen ancestors**.
 
 ---
@@ -127,7 +127,7 @@ The Nsizwa do not live in **complete isolation**—they interact with **neighbor
 
 ## **Conclusion: The Land of the Living and the Dead**
 
-The lands of the Nsizwa are as **harsh as they are beautiful**, shaped by **war, tradition, and the ever-present spirits of the past**. The people thrive in a land where **the ancestors walk among them, where warriors train under watchful spectral eyes, and where every battle is fought with both the living and the dead at their side**.
+The lands of the Nsizwa are as **harsh as they are beautiful**, shaped by **war, tradition, and an unusually active ancestral landscape**. Apparitions, omens, and awakened guardians make the past publicly visible even though their precise continuities remain disputed. Warriors train under that spectral witness and enter battle convinced that ancestral duty stands beside them.
 
 ## Navigation
 

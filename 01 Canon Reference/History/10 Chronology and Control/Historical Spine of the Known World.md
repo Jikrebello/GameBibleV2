@@ -17,13 +17,13 @@ This note is the causal backbone of the setting. It explains how the present con
 
 ## 1. Age of Chains
 
-[[Age of Chains]] is the age of Giant dominion. Humanity is enslaved by false-god empires that leave behind ruins, forbidden sciences, sacrifice systems, stolen engineering, and the memory of power impersonating divinity.
+[[Age of Chains]] is the age of Giant dominion. The Five Imperial Horizons and dozens of smaller crowns, estates, leagues, and subject cities enslave humanity while leaving behind ruins, forbidden sciences, sacrifice systems, stolen engineering, and the memory of power impersonating divinity.
 
 **Inherited wound:** later empires are haunted by the fear that monument, law, and sacred language may become Giant tyranny in human form.
 
 ## 2. Age of Exodus
 
-[[Age of Exodus]] begins when the Great Prophet breaks Giant rule and leads freed humanity across the [[Great Glass Desert]]. Liberation is real, but the Prophet's death and the failed sanctuary leave humanity freed before it is fully formed.
+[[Age of Exodus]] begins when the Great Prophet's movement becomes the center of the [[The Great Unbinding|Great Unbinding]] and leads the principal liberated remnant across the [[Great Glass Desert]]. Other human communities survive outside that host. Liberation is real, but the Prophet's death and the failed sanctuary leave the principal ancestral convergence of the Scattering freed before it is fully formed.
 
 **Inherited wound:** every later culture inherits deliverance, disobedience, contested memory, and the question of what was lost when unity shattered.
 

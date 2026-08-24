@@ -30,6 +30,8 @@ Constructs are classified by **what makes them continue**, not by whether their 
 | `adaptive-pattern` | None | Learning defense, classification, self-repair | Destroy model, copies, observations, and reproduction route |
 | `strategic-engine` | Varies and must be stated | City defense, siege, transit, command, continuity | Dedicated system-level solution |
 
+`giant-reconstruction` is an animating-principle label, not a continuity class. A reconstructed ruler or caste uses its actual continuity—normally `constructed-pattern`, `infrastructure-office`, `residue`, or `biological-pattern`—and never becomes the dead Giant through successful imitation.
+
 ## Pure Patterns Have No Interior Life
 
 Pure `constructed-pattern` and `shell-pattern` systems may speak, learn, plead, lie, model themselves, copy a dead person's memories, protect their bodies, or invent tactics. These are outputs of classification and recursive correction. They do not create subjective experience, moral agency, or a new soul.
@@ -54,3 +56,4 @@ A machine cannot be guilty. Designers answer for foreseeable architecture; comma
 - [[Elemental Shell MOC]]
 - [[Covenant Siege Golems]]
 - [[The Image, Soul, and Creaturely Continuity]]
+- [[Giant Descent and Creaturely Continuity]]

@@ -80,7 +80,7 @@ A family may contain several ranks. `rank` records the dossier's most useful ban
 | Property | Controlled values or use |
 |---|---|
 | `origin_layer` | `material`, `faewild`, `shadowlands`, `astral`, `shell`, `heaven`, `hell`, `abyss`, `crafted`, `mixed` |
-| `continuity` | `human-soul`, `retained-human-soul`, `bound-human-soul`, `created-spirit`, `residue`, `wrath-rewritten-life`, `drift-rewritten-life`, `biological-pattern`, `court-law`, `yolk-sovereignty`, `idol-pattern`, `shadow-pattern`, `astral-pattern`, `shell-pattern`, `constructed-pattern`, `giant-memory`, `infrastructure-office`, `abyssal-wound` |
+| `continuity` | `human-soul`, `retained-human-soul`, `bound-human-soul`, `created-spirit`, `residue`, `wrath-rewritten-life`, `drift-rewritten-life`, `biological-pattern`, `court-law`, `yolk-sovereignty`, `idol-pattern`, `shadow-pattern`, `astral-pattern`, `shell-pattern`, `constructed-pattern`, `titan-continuity`, `giant-continuity`, `infrastructure-office`, `abyssal-wound` |
 | `bearer_continuity` | Optional list using the controlled continuity vocabulary. Required when a known being wears an `infrastructure-office`; family dossiers list attested bearers and unique dossiers name the actual bearer. Empty means deliberately unknown. |
 | `intelligence` | `mindless`, `animal`, `cunning`, `sapient`, `sovereign` |
 | `moral_agency` | `none`, `limited`, `full` |
@@ -112,7 +112,8 @@ A family may contain several ranks. `rank` records the dossier's most useful ban
 - `astral-pattern`: disrupt the body, anchor, route, tether, or return pattern stated by the dossier. Native Astral personhood never implies a human soul.
 - `shell-pattern`: interrupt elemental coherence, binding, or seam conditions. No pure Shell pattern is a person.
 - `constructed-pattern`: disable the script, engine, command structure, copies, or body. Adaptive behavior never creates interior life.
-- `giant-memory`: first distinguish an uninterrupted Nythalum Continuant from reconstruction. End a reconstruction's vessels; treat a genuine Continuant as an accountable nonhuman person.
+- `titan-continuity`: identify every authentic fragment belonging to the one distributed Titan. Ordinary victory scatters, suppresses, or binds and can prevent reconstitution without killing. True death or a permanent reconstitution lock requires the Lord directly ending the continuity or a specifically commissioned heavenly severance stated by the unique dossier.
+- `giant-continuity`: defeat the one embodied or uninterrupted nonhuman person and every live migration route. Once operation irreversibly stops, memory, office, blood pattern, or backup can produce only a different continuity.
 - `infrastructure-office`: remove or lawfully replace the office, not merely its current manifestation. Then identify and address the bearer according to `bearer_continuity`.
 - `abyssal-wound`: close the breach or contradiction that lets the creature recur.
 
@@ -135,6 +136,7 @@ A family may contain several ranks. `rank` records the dossier's most useful ban
 - [[Fallen Angels and Broken Commissions|Fallen angels]] remain rare named created spirits, never a reusable creature ladder.
 - [[Elemental Manifestations Overview|Shell manifestations]] are non-personal patterns. [[Great Coherences]] are disaster-scale computations, not sovereign elementals.
 - Pure constructs have no moral agency. [[Return Frames|Nythalum Continuants]], embodied Ansharan Vampire Giants, soulbound humans, and biological fleshworks are classified by the genuine bearer rather than the shell around them.
+- [[Giant Descent and Creaturely Continuity]] controls Titan-Firstborn, High and Dynastic Giants, giant-blooded humans, distributed Titan life, Giant death, false return, repentance, and ancient Giant Patron claims.
 
 ## Aberration Is a Diagnostic Tag
 
@@ -168,6 +170,7 @@ Every mature family or creature dossier must state:
 - [[Bestiary MOC]]
 - [[Bestiary Translation Concordance]]
 - [[The Image, Soul, and Creaturely Continuity]]
+- [[Giant Descent and Creaturely Continuity]]
 - [[The Mundane Layer — Residue, Vermin, and the Delver Trade]]
 - [[Faewild and Menhir MOC]]
 - [[Hell and Abyss MOC]]

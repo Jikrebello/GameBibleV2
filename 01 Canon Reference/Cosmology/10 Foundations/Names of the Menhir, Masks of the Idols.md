@@ -13,7 +13,7 @@ tags: []
 ---
 # Names of the Menhir, Masks of the Idols
 
-**Authorial truth:** naming drift reflects real encounters interpreted through culture. A great power does not have one universally spoken name; it has one continuity and many masks. [[The Great Rebellion and the Yolk Exiles]] controls origin. A cultural genealogy may preserve pressure and relationship while remaining wrong about divine parentage.
+**Authorial truth:** naming drift reflects real encounters interpreted through culture, but it does not work identically for both groups. A Menhir has one enduring organizing personality interpreted through many court-titles and cultural readings. An Idol has one enduring guilty Throne, a potentially mutable Regnant, and many simultaneous active Masks. [[The Great Rebellion and the Yolk Exiles]] controls origin; [[Idol Thrones, Regnants, and Cultural Masks]] controls Idol identity and succession. A cultural genealogy may preserve genuine remote Titanic ancestry, patronage, or relationship while remaining wrong about immediate, pure, or exclusive divine parentage; [[Giant Descent and Creaturely Continuity]] controls those births.
 
 ## Rule for the Vault
 
@@ -35,15 +35,17 @@ The Second, Third, and Fourth Circles are observed Atherian taxonomies shaped by
 
 ## The Idols
 
-The Idols are morally culpable `yolk-sovereignty` and meaning-predators. Unlike the Menhir, they retained moral comprehension and deliberately organized their betrayed commissions into feeding economies. Their many masks are active methods of intrusion.
+The Idols are morally culpable `yolk-sovereignty` and meaning-predators. Unlike the Menhir, they retained moral comprehension and deliberately organized their betrayed commissions into feeding economies. Their many Masks are active methods of intrusion, not merely regional misunderstandings of one permanent body.
 
-- **Wrath** = **Furor** in Xolotl blood-cult texts = **the Fury** in Grobi origin traditions.
-- **Greed** = **Avarix**, the serpent-mask of Ishkatar.
-- **Pride** = **the Sovereign**, patron-mask of Ansharan rule and primordial vampirism.
-- **Gluttony** = **the Devourer**, named in ghoul rites and corpse-feast traditions.
-- **Sloth** = **the Slumberer**, whose heartland is the Endless Dusk.
-- **Envy** = **the Rival**, the voice that says another's good should have been yours.
-- **Lust** = **the Beloved**, the counterfeit of faithful attachment.
+- **Wrath** is the creator-name for the Throne and feeding economy. **Furor** is its standing deep title in the vault; **the Fury** is a Grobi origin-name, while Xolotl traditions also use Furor through their own blood-cult biographies.
+- **Greed** is the creator-name for the Throne. **Avarix** is its standing deep title and also appears through Ishkatar's serpent biographies.
+- **Pride** is the creator-name for the Throne. **Vaingloria** is its standing deep title; **the Sovereign** is the Ansharan patron-identity tied to court rule and primordial vampirism.
+- **Gluttony** is the creator-name for the Throne. **Voracia** is its standing deep title; **the Devourer** appears in ghoul rites and corpse-feast traditions.
+- **Sloth** is the creator-name for the Throne. **Lethargos** is its standing deep title; **the Slumberer** names its Endless-Dusk identities.
+- **Envy** is the creator-name for the Throne. **Invidia** is its standing deep title; **the Rival** is the voice and identity that says another's good should have been yours.
+- **Lust** is the creator-name for the Throne. **Luxuria** is its standing deep title; **the Beloved** counterfeits faithful attachment.
+
+“Standing deep title” is an indexing rule, not a claim that one personal occupant has borne the title unchanged since the Great Rebellion. Regional identities default to Masks unless a controlling dossier establishes an Archmask, a Regnant, or a former identity surviving as sediment.
 
 Fauna, Masks, and Archmasks are separated in [[Idol Manifestation and Feeding]]. Mortal networks are indexed through [[The Atlas of the Left Hand]].
 
@@ -60,5 +62,6 @@ Fauna, Masks, and Archmasks are separated in [[Idol Manifestation and Feeding]].
 - [[Menhir Sovereignty and Bargain]]
 - [[The Faewild Schism]]
 - [[The Idols Overview]]
+- [[Idol Thrones, Regnants, and Cultural Masks]]
 - [[Shadowlands and Idols MOC]]
 - [[Mono-Myth Overview]]

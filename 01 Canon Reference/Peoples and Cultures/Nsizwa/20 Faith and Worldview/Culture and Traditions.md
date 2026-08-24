@@ -15,7 +15,7 @@ _"We are the echoes of those who came before, and the voices of those yet to com
 
 The Nsizwa are a people defined by **ritual, honor, and connection to their ancestors**. Their traditions reflect a **balance between the physical world and the spirit world**, ensuring that **every action, every test, and every festival** strengthens their **bond to the past and future**.
 
-From **rites of passage that shape warriors** to **sacred festivals where the living and the dead walk together**, Nsizwa culture is built on **proving one's worth through trials and honoring one's lineage through sacred observances**.
+From **rites of passage that shape warriors** to **sacred festivals where ancestor-shaped presences appear among the living**, Nsizwa culture is built on **proving one's worth through trials and honoring one's lineage through sacred observances**.
 
 ---
 
@@ -27,9 +27,9 @@ The **Night of a Thousand Fires** (Usuku Lwemililo Eyinengi) is the **most sacre
 
 ### **A. The Purpose of the Festival**
 
-- It is a night where **the ancestors walk freely**, and the Nsizwa gather to **honor the spirits of the past, seek omens, and celebrate the deeds of warriors**.
+- It is held to be a night when **the ancestors walk freely**, and the Nsizwa gather to **honor the past, seek omens, and celebrate the deeds of warriors**. Apparitions are common; their exact continuity is not publicly settled.
 - It is both a **festival of remembrance** and a **test of worthiness**, as warriors use the night to **prove they have not forgotten those who fought before them**.
-- The Spirit-Keepers perform **ceremonies to call forth spirits**, allowing **the dead to offer wisdom, warnings, or even challenges to the living**.
+- The Spirit-Keepers perform ceremonies that invite **dreams, voices, and short-lived manifestations**, through which the dead are believed to offer wisdom, warnings, or challenges to the living.
 
 ### **B. The Rituals of the Night**
 
@@ -52,7 +52,7 @@ The **Night of a Thousand Fires** (Usuku Lwemililo Eyinengi) is the **most sacre
 
 ### **C. The Aftermath**
 
-- When the sun rises, the **fires are extinguished, and the spirits are believed to return to their realm**.
+- When the sun rises, the **fires are extinguished, and the manifestations cease**; the Nsizwa say the ancestors have returned to their realm.
 - If **a warrior’s flame remained strong throughout the night**, they are **blessed with good fortune**.
 - If the fire **flickered or went out, it is taken as a sign that they must make amends**, either by **seeking wisdom, proving their strength, or performing an act of honor**.
 
@@ -102,20 +102,20 @@ The **Duels of the Honored Dead** (Izwar-host Zezithunzi) are **ritualized comba
 ### **A. The Purpose of the Duels**
 
 - These duels are not just about skill—they are about **who is truly favored by the spirits**.
-- The combatants do not fight alone—before battle, they **call upon the spirits of their lineage**, asking for their **strength, wisdom, and guidance**.
+- Before battle, the combatants **invoke the names and deeds of their lineage**, asking for **strength, wisdom, and guidance**.
 - The outcome is believed to be **decided by the ancestors** rather than just skill alone.
 
 ### **B. The Ritual of the Duel**
 
 1. **The Calling of the Spirits**
     
-    - Before the fight, the combatants enter **a trance-state**, where the **Spirit-Keepers invoke the spirits of their ancestors**.
+    - Before the fight, the combatants enter **a trance-state**, while the **Spirit-Keepers invoke ancestral names and test any answering sign**.
     - Some warriors claim to **feel their ancestors guiding their movements**, while others say they hear **whispers of advice or warnings**.
 2. **The Duel Itself**
     
     - Combat is fought **with ritual spears and shields**, meant to test **both the body and spirit**.
     - The first to **be disarmed, knocked down, or yield** is declared the **lesser warrior in the eyes of the ancestors**.
-    - If a duel is particularly close, **the spirits may intervene**, causing **weapons to shatter, winds to shift, or omens to appear in the sky**.
+    - If a duel is particularly close, **weapons may shatter, winds may shift, or omens may appear in the sky**. The Nsizwa treat these as ancestral intervention without claiming that every sign proves soul-return.
 3. **The Judgment of the Spirits**
     
     - If a warrior **wins fairly**, they are seen as **favored by their ancestors**.
@@ -126,11 +126,9 @@ The **Duels of the Honored Dead** (Izwar-host Zezithunzi) are **ritualized comba
 
 # **Conclusion: A Culture of Honor and Spirit**
 
-The Nsizwa are **not just warriors—they are living extensions of their ancestors**. Through **festivals, trials, and duels**, they **constantly prove their worth, not just in battle, but in wisdom and self-mastery**. Their traditions ensure that **each generation is stronger than the last**, and that the **voices of the past never fade, but guide the living toward greatness**.
+The Nsizwa are **not just warriors—they are custodians of ancestral memory and duty**. Through **festivals, trials, and duels**, they **constantly prove their worth, not just in battle, but in wisdom and self-mastery**. Their traditions ensure that the **voices of the past remain available to guide, warn, and sometimes burden the living**.
 
 ## Navigation
 
 - [[The Nsizwa Overview]]
 - [[Canon Index]]
-- [[Canon Index]]
-

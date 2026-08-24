@@ -13,7 +13,7 @@ tags: []
 ---
 _"A people are known by their warriors, their leaders, and their legends. Those who walk in the footsteps of the great shall never be forgotten."_
 
-The Nsizwa hold **history and legacy as sacred**, and as such, their past figures—whether kings, warriors, or mystics—remain **ever-present** in their stories, songs, and rituals. The most powerful and revered among them **transcend death itself**, their names still spoken in awe, their Izivukwa **waiting in sacred tombs** to rise again when their people need them most.
+The Nsizwa hold **history and legacy as sacred**, and as such, their past figures—whether kings, warriors, or mystics—remain **ever-present** in stories, songs, apparitions, and ritual offices. The most powerful and revered among them have Izivukwa **waiting in sacred tombs** to rise again when their people need them most. Nsizwa tradition calls this the ancestor's return; the surviving evidence does not settle every guardian's underlying continuity.
 
 However, not all great figures are **kings and conquerors**—many lesser-known figures, whether through wit, craft, or a single act of defiance, have also earned their place in **the collective memory of the Nsizwa**.
 
@@ -34,12 +34,12 @@ the War-King, the **First Warrior-King**, is **the most revered historical figur
 ### **B. His Death and the Waiting Izivukwa**
 
 - Upon his death, the War-King was **mummified and placed within the Ivory Sepulcher**, where it is said he **dreams of the final war**.
-- Legend claims that **one day, when the kingdom faces its greatest threat, his spirit will return, leading his warriors one last time**.
+- Legend claims that **one day, when the kingdom faces its greatest threat, he will return in the awakened body and lead his warriors one last time**. Whether that promise concerns Mzalu's soul, preserved residue, or the office of the First War-King is deliberately unresolved.
 
 ### **C. His Influence on Modern Nsizwa**
 
 - Every War-King must prove they are **worthy of Yempi’s throne**, for **his spirit judges the weak**.
-- His **ancestral Inkandu (spear)**, _Umoya Wensimbi_ (_The Soul of Iron_), remains **locked away**, to be wielded **only by his reincarnation**.
+- His **ancestral Inkandu (spear)**, _Umoya Wensimbi_ (_The Soul of Iron_), remains **locked away**, to be wielded only by the successor whom the tomb accepts as his “return.” Praise-song sometimes calls this reincarnation; priests disagree whether the word names blood, office, resemblance, or soul.
 - Warriors **swear oaths upon his name**, believing that to **invoke his legacy before battle grants them strength**.
 
 ---
@@ -56,9 +56,9 @@ _"She wove power from the winds and bound the storms with her words."_
 
 ### **B. The Creation of the First Izivukwa Wrappings**
 
-- It is said that **Mahlezi wove the first sacred wrappings of the Izivukwa**, allowing **the greatest warriors to rise again**.
-- She learned to **whisper to the dead**, ensuring their spirits would **not fade**, but instead **return to guide their descendants**.
-- Some claim that **her own Izivukwa still walks the high mountains**, appearing only to those **destined for greatness**.
+- It is said that **Mahlezi wove the first sacred wrappings of the Izivukwa**, allowing **the names, skills, and duties of the greatest warriors to rise again**.
+- She learned to **whisper at the tombs**, preserving voice, memory, and office so they would **not fade from the descendants who needed them**. Her songs say “spirit”; later Spirit-Keepers dispute whether she meant soul, residue, or ancestral presence.
+- Some claim that **her own isivukwa still walks the high mountains**, appearing only to those **destined for greatness**.
 
 ### **C. Her Influence on the Spirit-Keepers**
 
@@ -71,13 +71,13 @@ _"She wove power from the winds and bound the storms with her words."_
 
 _"He stood when all others fell, and so he still stands."_
 
-### **A. The Five Resurrections of Mzikhona**
+### **A. The Five Awakenings of Mzikhona**
 
-Mzikhona the Unyielding is **one of the most fearsome Izivukwa in Nsizwa history**, having been **called back from the dead five times across five centuries**.
+Mzikhona the Unyielding is **one of the most fearsome Izivukwa in Nsizwa history**, his preserved body having been **awakened five times across five centuries**.
 
 - His legend **began in life**, where he was known as **the warrior who never yielded in battle**, **standing against entire warbands alone**.
-- When he **finally fell**, his warriors refused to let him **become just another ancestor**—they **preserved his body**, and when the Nsizwa faced their darkest hours, **they called him back**.
-- Each time he was **summoned from his tomb**, he **led the warriors of the living and the dead to victory**, his **blade never breaking, his will never faltering**.
+- When he **finally fell**, his warriors refused to let his service end in ordinary remembrance. They **preserved his body**, and when the Nsizwa faced their darkest hours, **they awakened the tomb**.
+- Each time he **rose from his tomb**, he **led the living and the ancestor-shaped war-hosts to victory**, his **blade never breaking, his will never faltering**.
 
 ### **B. The Last Time He Rose**
 
@@ -117,15 +117,11 @@ _"Not all heroes are kings. Not all legends wield spears."_
 
 # **Conclusion: The Living Legacy of the Nsizwa**
 
-The **Nsizwa do not forget their past**. Whether **mighty warrior-kings, cunning Spirit-Keeper, or infamous assassins**, their names are **woven into the songs of griots, the prayers of the people, and the memories of the ancestors**.
+The **Nsizwa do not forget their past**. Whether **mighty warrior-kings, cunning Spirit-Keepers, or infamous assassins**, their names are **woven into praise-song, public oath, tomb office, and inherited memory**.
 
-Their greatest figures **do not merely die—they become legends, and legends, in Nsizwa belief, are never truly gone**.
-
-Would you like me to develop **additional legendary figures, specific myths, or sacred artifacts tied to these figures?**
+Their greatest figures **do not merely die—they become legends, and legends, in Nsizwa belief, are never truly gone**. That conviction does not require every apparition or awakened body to contain the routed human soul.
 
 ## Navigation
 
 - [[The Nsizwa Overview]]
 - [[Canon Index]]
-- [[Canon Index]]
-

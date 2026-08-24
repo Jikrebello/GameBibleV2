@@ -15,11 +15,13 @@ tags: [core-canon]
 
 Nythalum was an isolated Giant empire on a great oceanic island. Its rulers, remembered as the **Forgotten Ones**, joined bodily engineering, rune craft, mechanical calculation, memory extraction, and lunar religion in an attempt to preserve themselves without mortality. Their Ascension Project destroyed the island and left a divided legacy of genuine Continuants, persuasive Reconstructions, non-conscious machines, and engineered lunar life.
 
+Nythalum's ruling houses were already ancient Giant lineages before the mature lunar cult and Ascension Project arose. Their Giant descent does not depend upon later claims of immediate birth from a named lunar or stellar power.
+
 ## Island and Capital
 
 The island held crystal cities, tropical forests, deep harbors, and the capital **Lunarasyl**. Monumental spires served at once as cities, launch vehicles, memory foundries, and public proof that the rulers could escape creaturely limits.
 
-Nythalum revered **Lyraxis**, associated with inspiration and transformative craft, and [[Mother Moon|Lunara]], whose Menhir law governs cycle, tide, instinct, and mutable form. The rulers' claim to descend from Lyraxis was propaganda and engineered imitation, not literal divine parentage. They mistook Lunara's law of mutable form for permission to abolish death and identity's limits.
+Nythalum revered **Lyraxis**, associated with inspiration and transformative craft, and [[Mother Moon|Lunara]], whose Menhir law governs cycle, tide, instinct, and mutable form. Later rulers claimed immediate descent from Lyraxis, Lunara, or both. Those genealogies were false or imprecise compressions of much older Giant ancestry, patronage, captured court-law, bodily engineering, and celestial imitation; they do not establish either named power as the direct parent of every Nythalum dynasty. The rulers mistook Lunara's law of mutable form for permission to abolish death and identity's limits.
 
 ## The Continuity Error
 
@@ -27,14 +29,14 @@ Nythalum correctly discovered that an active nonhuman mind could be transferred 
 
 Authorial canon distinguishes two results:
 
-- A **Continuant** is a Giant whose conscious operation moved from living body into a machine without interruption and has never stopped. The same nonhuman person continues. It possesses full moral agency and can be killed by ending that one continuous process and every live migration route.
-- A **Reconstruction** is generated after interruption from memory samples, copied behavior, office records, or backup images. It may claim identity and reproduce private recollections perfectly, but it is a non-conscious constructed pattern. It is not the dead Giant and has no moral agency.
+- A **Continuant** is a Giant whose conscious operation moved from living body into a machine without interruption and has never stopped. The same nonhuman person continues with `giant-continuity`. It possesses full moral agency and can be killed by ending that one continuous process and every live migration route.
+- A **Reconstruction** is generated after interruption from memory samples, copied behavior, office records, or backup images. It uses `constructed-pattern`: it may claim identity and reproduce private recollections perfectly, but it is not the dead Giant, possesses no interior person, and has no moral agency.
 
 This continuity has nothing to do with the human Image or soul-road. Nythalum Giants were not human souls routed through the Vestibule. Machinery did not manufacture the Image. A backup created after a Continuant dies is only a Reconstruction.
 
 ## The Ascension Project
 
-Nythalum built enormous launch-spires to carry ruling households, laboratories, servants, menageries, and continuity systems to the moon. Lesser populations were indexed as labor, vessel stock, test bodies, or resources for a future return.
+Nythalum built enormous launch-spires to carry ruling households, laboratories, servants, menageries, and continuity systems through physical space to the physical moon. Lesser populations were indexed as labor, vessel stock, test bodies, or resources for a future return. The Ascension Project was not Egg White flight, passage into another realm, or a concealed second programme behind the lunar one.
 
 The coordinated launch failed catastrophically near the end of the Giant Age. Most spires exploded or fell. Their failure ruptured the island's foundations, drove earthquakes and eruptions, and sank Nythalum beneath the ocean. The disaster killed the overwhelming majority of its people and scattered automated facilities across sea, sky, and distant frontier.
 
@@ -76,6 +78,8 @@ Public legend remembers cold metal Giants plotting on the moon. The authorial tr
 - [[Return Frames]]
 - [[Ancient and Crafted Legacies MOC]]
 - [[The Image, Soul, and Creaturely Continuity]]
+- [[Giant Descent and Creaturely Continuity]]
+- [[The Great Unbinding]]
 - [[Hushwrights]]
 - [[Mnemonic Lichen]]
 - [[Lunar Menagerie]]

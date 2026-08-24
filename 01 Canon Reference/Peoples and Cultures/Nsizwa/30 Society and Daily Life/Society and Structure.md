@@ -23,7 +23,7 @@ _"A king who does not bleed with his warriors is no king at all."_
 
 ### **A. The Role of the War-King (Yempi's crown)**
 
-The **War-King** is not just a ruler, but a **living conduit between the ancestors and the people**. He is both **a warlord and a spiritual figure**, responsible for:
+The **War-King** is not just a ruler, but is treated as a **living conduit between ancestral memory and the people**. He is both **a warlord and a spiritual figure**, responsible for:
 
 - **Leading the army in battle**, proving that he is still fit to rule.
 - **Maintaining the favor of the ancestors**, as they guide him through dreams, omens, and Spirit-Keeper-led rituals.
@@ -33,7 +33,7 @@ The **War-King** is not just a ruler, but a **living conduit between the ancesto
 ### **B. Ascension to Kingship**
 
 - The title of War-King is **hereditary**, passed down within the **royal bloodline**, but a weak successor can be **challenged and replaced** if they fail to prove their worth.
-- Upon the death of a king, his **spirit is called forth to judge his successor** through the Spirit-Keepers. If the ancestors reject the new king, **omens and misfortunes follow**, leading to a potential **coup by the Horn-Captains or warrior factions**.
+- Upon the death of a king, the Spirit-Keepers perform a rite asking the dead ruler and earlier kings to **judge the successor through dream, omen, apparition, or tomb response**. Whether the dead king's own soul speaks is not assumed from the sign. If the ancestors are held to reject the claimant, **omens and misfortunes follow**, often leading to a **coup by the Horn-Captains or warrior factions**.
 - Every new king must undertake the **Trial of the War Spirit**, where they must:
     1. **Face the Judgment of the Izivukwa**, proving they are worthy of ruling.
     2. **Lead a warband into battle**, proving their martial skill.
@@ -71,7 +71,7 @@ There are different tiers of Horn-Captains, with the highest-ranked ones being a
 ### **C. The Oath of the Horn-Captains**
 
 - Every Horn-Captains swears the **Oath of the Blood Moon**, pledging loyalty to the War-King and to the ancestors.
-- Betraying this oath results in **execution, exile, or—if the crime is grave enough—the spirit of the betrayer being bound in eternal servitude to the Izivukwa.**
+- Betraying this oath results in **execution, exile, or—if the crime is grave enough—a sentence that binds the traitor's name and funerary office to serve the Izivukwa.** War-songs threaten literal eternal soulbinding; Spirit-Keepers dispute that reading, and Redeemer-trained examiners condemn any true human soulbinding as an abomination.
 
 ---
 
@@ -95,15 +95,15 @@ The Nsizwa are a **martial society**, where **every man is trained in war**, and
 
 ---
 
-## **4. The Spirit-Keepers (Mystics, Healers, and Spirit-Callers)**
+## **4. The Spirit-Keepers (Mystics, Healers, and Ancestral Mediators)**
 
 _"The ancestors whisper, but only the worthy can listen."_
 
-The **Spirit-Keepers** are the **spiritual backbone of the Nsizwa**, acting as **healers, oracles, and summoners of the dead**.
+The **Spirit-Keepers** are the **spiritual backbone of the Nsizwa**, acting as **healers, oracles, keepers of tomb-anchors, and mediators of ancestral manifestations**.
 
 ### **A. Their Role in Society**
 
-- **Summoners of the Ancestors:** They perform the **sacred rites to awaken the spirits of warriors, kings, and the Izivukwa**.
+- **Keepers of Ancestral Rites:** They test dreams and apparitions, preserve names and relics, and perform the rites that awaken Izivukwa under bounded duties.
 - **Healers and Herbalists:** They use **umhlwazi (herbal medicine and spiritual infusions)** to heal the wounded and sick.
 - **Interpreters of Omens:** They **read the stars, the winds, and the bones** to foresee the kingdom’s fate.
 
@@ -147,5 +147,3 @@ The Nsizwa **live as warriors, rulers, mystics, and keepers of ancestral wisdom*
 
 - [[The Nsizwa Overview]]
 - [[Canon Index]]
-- [[Canon Index]]
-

@@ -13,7 +13,7 @@ tags: [core-canon]
 ---
 # Idol Manifestation and Feeding
 
-The Shadowlands are a prehuman yolk of predatory meaning, unrealized identity, fear, appetite, and imitation. Human thought can shape routes and local weather within it, but did not create it. The seven Idols became sovereign by fusing with this ecology during the [[The Great Rebellion and the Yolk Exiles|Great Rebellion]].
+The Shadowlands are a prehuman yolk of predatory meaning, unrealized identity, fear, appetite, and imitation. Human thought can shape routes, imagery, and local weather within it, but did not create it. The seven Idols became sovereign by fusing with this ecology during the [[The Great Rebellion and the Yolk Exiles|Great Rebellion]]. Their internal strata and rare succession are controlled by [[Idol Thrones, Regnants, and Cultural Masks]].
 
 ## Why Mortal Choice Matters
 
@@ -33,9 +33,13 @@ Fauna are reflexive `shadow-pattern` or `idol-pattern` life. They hunt according
 
 Masks are projected organs of an Idol or a feeding network. They display cunning, speech, and a role, but depend upon a mortal practice, object, title, dream-route, or dominion condition. A mask is not a shard of a human soul and does not become independent merely because it pleads.
 
+Many Masks of one Idol may operate simultaneously. Culture gives them names, biographies, kinships, iconography, and expected conduct; those identities are real manifestations rather than merely incorrect portraits. Unchosen collective expectation chiefly shapes their appearance and routes. Repeated chosen vice and the institutions that reproduce it pay for their persistence.
+
 ### Archmasks
 
-Archmasks are autonomous Shadow persons with full moral agency. They can improvise, betray their sovereign, establish a local court, or pursue private cruelty. They remain products of a chosen evil ecology and no routine redemption method exists. A named archmask may require a dedicated dossier if an adventure makes its history decisive.
+Archmasks are autonomous Shadow persons with full moral agency. They can improvise, betray their sovereign, establish a local court, or pursue private cruelty. They remain products of a chosen evil ecology and no routine redemption method exists. An ordinary Mask must acquire this independent continuity before it can even attempt Regnant accession; apparent cult replacement is not enough. A named archmask may require a dedicated dossier if an adventure makes its history decisive.
+
+A human soul never changes into either class. A Shadow person wearing a dead hero's name is a new `idol-pattern` continuity grown from legend, residue, or imitation unless a separate dossier establishes that a human soul is merely being held or exploited.
 
 ## Material Intrusion Ladder
 
@@ -46,6 +50,8 @@ Archmasks are autonomous Shadow persons with full moral agency. They can improvi
 5. **Archmask court:** an autonomous agent uses the overlay to act, recruit, and bargain.
 
 A full Idol never crosses the fifth stage. Its sovereign identity cannot fit Material reality. Claims that an Idol walked bodily through a city describe a mask, a dominion overlay, propaganda, or a catastrophic witness error.
+
+Likewise, no Material coronation, sacrifice, or destroyed image can replace an Idol's Regnant by itself. True accession is a rare Shadowlands assimilation into the existing guilty Throne, not a sixth stage of intrusion.
 
 ## Moving Heartlands
 
@@ -72,6 +78,7 @@ White Flame can expose false identity and restore coherent boundaries, but it do
 ## Navigation
 
 - [[The Idols Overview]]
+- [[Idol Thrones, Regnants, and Cultural Masks]]
 - [[Shadowlands and Idols MOC]]
 - [[The Counter-Countenances of the Idols]]
 - [[The Atlas of the Left Hand]]
