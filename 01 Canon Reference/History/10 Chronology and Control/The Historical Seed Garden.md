@@ -30,6 +30,8 @@ The current whole-history pass is held in the author-only [[Mythic and Sacred Hi
 
 - [[Whole-History Mythic Planting Programme]];
 - [[Orthodox Old Testament Lens]];
+- [[Orthodox New Testament and Early Saints Lens]];
+- [[Source-Fidelity and Mythic Hardening Ledger]];
 - [[Giant Descent and Creaturely Continuity]];
 - [[The Great Unbinding]];
 - [[Giant-Age Political Ecology and TES Integration]];
@@ -37,11 +39,13 @@ The current whole-history pass is held in the author-only [[Mythic and Sacred Hi
 - [[Whole-History Planting Matrix - Blocks III and IV]];
 - [[Historical Seed Card Template]].
 
-Those notes audit every age through human, folkloric, institutional, and metaphysical lanes. The Giant descent rules, Five Imperial Horizons, and Great Unbinding backbone are now controlling canon. The joint Late-Chains–Exodus batch has received nursery dispositions; the remaining chronological cards await review. Every story seed remains exploratory until separately promoted, and linking it here does not promote its names, memberships, miracles, dates, provisional polities, actor identities, or proposed Idol successions.
+Those notes audit every age through human, folkloric, institutional, and metaphysical lanes. The Giant descent rules, Five Imperial Horizons, and Great Unbinding backbone are now controlling canon. All seventy-two developed cards have received nursery dispositions and source-fidelity rulings; the four bridge leads, twelve Praise entries, and seventeen beds below are included in the same hardening audit. Every story seed remains exploratory until separately promoted, and linking it here does not promote its names, memberships, miracles, dates, provisional polities, actor identities, or proposed Idol successions.
 
 Promotion should begin with light traces—sayings, customs, roads, graves, relics, and disputed texts—before fixing heroes, institutions, companies, or sovereign convulsions. The seventeen beds below remain the nursery's stable framework; approved cards should deepen them before creating duplicate signature companies.
 
 ## The Garden Rule
+
+Every bed inherits the source-fidelity ruling in [[Source-Fidelity and Mythic Hardening Ledger]]. Changing names, cultures, metaphysics, chronology, or aftermath cannot delete the borrowed source's causal atrocity, culpability, bodily danger, taboo, or irreversible price. Hardness is restored only where it belongs to the borrowed element; domestic and merciful sources are not made violent for tone.
 
 Plant lightly and harvest late.
 
@@ -95,7 +99,7 @@ All titles and company names below are provisional folk handles.
 
 ### Late Age of Chains — The Company of the Broken Measure
 
-**Humble ground:** a mill sleeper, a ledger-girl, a giant-blooded human born outside the recognized household line, an elderly cook, and a condemned hunter become responsible for moving one sick child between estates. Every companion and the child possesses a complete `human-soul`.
+**Humble ground:** a mill sleeper, a ledger-girl, a giant-blooded human born outside the recognized household line, an elderly cook, and a condemned hunter become responsible for moving one sick child between estates. Years earlier, the Sleeper killed people of a household he loved during a supernaturally distorted rage and was preserved for impossible punitive labors. The influence does not commit the killings in his place, and later service cannot resurrect the dead. Every companion and the child possesses a complete `human-soul`.
 
 **Durable trace:** a broken Giant measuring rod is displayed in three incompatible shrines. The phrase *the measure broke first* means that an unjust system has invalidated its own laws.
 
@@ -109,69 +113,69 @@ All titles and company names below are provisional folk handles.
 
 **Durable trace:** cultures across the Scattering place one damaged wheel or wheel-shaped loaf at certain funerals, departures, and winter feasts.
 
-**Historical pressure:** the Exodus succeeds not only because of the Prophet at its head and high-sign provision at impossible bottlenecks, but because obscure people ration, repair, bury, remember, and keep its vulnerable rear alive.
+**Historical pressure:** the Exodus succeeds not only because of the Prophet at its head and high-sign provision at impossible bottlenecks, but because obscure people ration, repair, bury, remember, and keep its vulnerable rear alive. The rear encounters people already abandoned by faster columns; some die before the Cart reaches them, and some carriers die after surrendering their place or ration. The company is defined by refusing abandonment where it still has a choice, not by miraculously saving everyone.
 
 **Loose growth:** every people claims a different member as its ancestor. One version says the company arrived after the Prophet's death; another says they reached the threshold first and voluntarily waited for the rest.
 
 ### Age of Scattering — The Seven Who Took the Wrong Road
 
-**Humble ground:** seven scouts searching for water misread a road sign, lose the migrating host, and spend years attempting to return.
+**Humble ground:** a small mixed scouting party searching for water and missing households follows a sound marker maintained for a camp already moved, loses the migrating host, and spends years attempting to return. “Seven” and “the wrong road” are later folk judgements, not settled headcount or authorial blame.
 
 **Durable trace:** seven widely separated wells, cairns, towers, or ferry stones claim to be one of their stopping places, though the geography cannot form a single route.
 
 **Historical pressure:** the formation of the post-Exodus peoples and their different fragments of inherited teaching.
 
-**Loose growth:** the seven may have become ancestors among different peoples, or later singers may have gathered unrelated founders into one travelling company. Their apparent failure to return becomes the beginning of several homes.
+**Loose growth:** the company may be composite; one traveler may have returned; and later singers may have counted spouses, hosts, dead companions, or unrelated founders among an “original seven.” Their apparent failure to return becomes the beginning of several homes without making them the biological founders of seven peoples.
 
 ### Hearths and First Kings — The Crownless Company
 
-**Humble ground:** village hirelings are paid to recover stolen winter cattle and discover that the supposed thieves are refugees from a king who has begun taking children as tribute.
+**Humble ground:** village hirelings are paid to recover stolen winter cattle and discover that the supposed thieves are refugees from a king who has begun taking children as tribute. Their rise passes through a Judges-like civil atrocity: a protected woman is raped and murdered, her divided body summons allied hearths, vengeance nearly exterminates the offending people and kills noncombatants, and women are later seized so the remnant can continue. Future company members stand on several sides and cannot call themselves clean avengers.
 
-**Durable trace:** a plain iron cooking ring used in several coronations, always carried ahead of the crown and never explained consistently.
+**Durable trace:** a plain iron cooking ring used in several coronations, always carried ahead of the crown and never explained consistently. It is not the same original object as the Chain-era slave-collar ring, although later regalia may confuse or physically combine their materials.
 
 **Historical pressure:** the birth of protective kingship and its recurring temptation to reproduce Giant dominion.
 
-**Loose growth:** the person eventually acclaimed as king may begin as the company's cook, hostage, paymaster, or least successful fighter. One companion refuses office and becomes the ancestor claimed by later outlaw fraternities.
+**Loose growth:** the person eventually acclaimed as ruler may begin as the company's cook, hostage, paymaster, singer, or least successful fighter. A diplomat prevents one further atrocity but cannot undo the civil slaughter already committed; an indispensable commander becomes unfit for peace; abducted women and surviving children retain claims against the founder; and protection, vengeance and domination remain entangled in the first kingship.
 
 ### Hearths, Forests, and Early Menhir Pacts — The Wolf and the Lantern
 
-**Humble ground:** two confidence tricksters pretend to be qualified spirit-hunters in order to earn a meal, then encounter a household genuinely haunted by a violated place-law.
+**Humble ground:** two confidence tricksters pretend to be qualified spirit-hunters in order to earn a meal after theft and intimate betrayal have already put them on the road, then encounter a household genuinely haunted by a violated place-law.
 
 **Durable trace:** paired carvings of a long-legged wanderer and a hooded lamp appear on southern bridges; travellers leave jokes rather than prayers.
 
 **Historical pressure:** humans learning that the wilderness is inhabited jurisdiction, and that survival depends upon etiquette, bargaining, audacity, and occasionally violence.
 
-**Loose growth:** some tales make them brothers, some lovers, some rivals, and some one person speaking to his own shadow. Their cycle can absorb comic adventures indefinitely without requiring a final biography.
+**Loose growth:** some tales make them brothers, lovers, rivals, or one person speaking to his shadow. Comic episodes retain killing, theft, sexual betrayal, humiliating transformation, revenge and victims who do not recover; wit does not turn consequence into a reset button. Every episode still identifies its locality and actual kind of pressure.
 
 ### Age of City-States — The Bent-Key Fellowship
 
-**Humble ground:** a locksmith's apprentice, disgraced athlete, foreign interpreter, mortuary singer, dock thief, and junior augur are hired to steal an unimportant municipal debt tablet.
+**Humble ground:** a locksmith's apprentice, disgraced athlete, foreign interpreter, mortuary singer, dock thief, and junior augur are hired to steal an unimportant municipal debt tablet after senior judges attempt sexual coercion and answer refusal with a false capital charge. A later member enters a besieging commander's quarters by deception and kills and beheads him personally.
 
-**Durable trace:** keys bent deliberately out of shape are left at civic amnesties and failed revolutions. At least one major archive contains a sealed door whose lock accepts no straight key.
+**Durable trace:** keys bent deliberately out of shape are left at civic amnesties and failed revolutions. At least one major archive contains a sealed door whose lock accepts no straight key. The later amnesty custom may borrow the Fellowship's symbol without having been performed by the company.
 
 **Historical pressure:** the struggle among archive law, debt, citizenship, erased crimes, and the first urban alliances.
 
-**Loose growth:** one member may become a tyrant whose respectable dynasty deletes the theft; another may found a court of appeal; a third disappears while pursuing the edge of the [[The Erasure of Orthea|Orthean crime]] without explaining the Unwritten Weird itself.
+**Loose growth:** one member may become a tyrant whose respectable dynasty deletes the theft; another may help found a court of appeal; a third may disappear while pursuing the edge of the [[The Erasure of Orthea|Orthean crime]] without explaining the Unwritten Weird itself. The stolen tablet exposes only one city's linked claims and never becomes a master key to urban law.
 
 ### Age of Stars — The Road Without Milestones
 
-**Humble ground:** a survey party is commissioned to settle a boundary quarrel between two forgettable towns.
+**Humble ground:** a survey party is commissioned to settle a boundary quarrel between two forgettable towns, then extends the method across conquered land. Laborers die, a resisting settlement is burned after survey marks identify its houses, and the completed road carries soldiers to communities that previously lay beyond imperial supply.
 
-**Durable trace:** a surviving road changes width, paving style, and legal ownership repeatedly but bears no milestones for nearly two hundred leagues.
+**Durable trace:** a surviving road changes width, paving style, and legal ownership repeatedly but bears no milestones for nearly two hundred leagues. No single boundary encounter explains the entire gap.
 
 **Historical pressure:** the Atherian synthesis of roads, astronomy, civic law, military movement, and imperial imagination.
 
-**Loose growth:** the surveyors may become conquerors only after discovering how easily measurement becomes sovereignty. One refuses the emerging empire and is remembered alternately as the first road-saint, first highwayman, or first rebel against Atherian unity.
+**Loose growth:** the surveyors become conquerors after discovering how readily measurement becomes sovereignty. One later refusal cannot undo dead laborers or destroyed settlements. The dissenter is remembered as Righteous, highway robber, or rebel; another simply returns home carrying wages earned from conquest.
 
 ### Atherian Age of Glory — The Low Door Companions
 
-**Humble ground:** provincial auxiliaries, actors, debtors, and an imperial clerk shelter together during a riot by crawling through a servants' entrance beneath a star theatre.
+**Humble ground:** provincial auxiliaries, actors, debtors, and an imperial clerk shelter together during a riot by crawling through a servants' entrance beneath a star theatre. Their later ascent includes raids, hostage-taking, unlawful prisoner killings and a betrayal of one refuge that preserves the company at another household's expense.
 
-**Durable trace:** the Low Door remains part of imperial military folklore: officers entering a new command stoop beneath a deliberately low lintel before taking the high gate in ceremony.
+**Durable trace:** the Low Door remains part of imperial military folklore: officers entering a new command stoop beneath a deliberately low lintel before taking the high gate in ceremony. Its bounded office tests acceptance of the specific service obligations spoken in the rite, not private virtue, rightful emperorship, or the justice of a war.
 
 **Historical pressure:** frontier campaigning, class movement, provincial incorporation, and the transformation of talented outsiders into servants or masters of empire.
 
-**Loose growth:** the clerk may rise into the imperial household; the best soldier may become a king beyond the frontier; the actor may create the public version of all their adventures. Their celebrated unity should conceal at least one unforgiven betrayal.
+**Loose growth:** the clerk may rise into the imperial household; the best soldier may become a ruler beyond the frontier; the actor may create the public version that omits hostages and dead prisoners; and one member may simply return home. Their unity conceals an unforgiven betrayal rather than a misunderstanding later friendship repairs.
 
 ### The Redeemer and Underground Centuries — The Empty-Purse Road
 
@@ -179,9 +183,9 @@ All titles and company names below are provisional folk handles.
 
 **Durable trace:** an empty purse hangs beside the entrance of certain old pilgrim houses, signifying that refuge precedes payment.
 
-**Historical pressure:** the Redeemer's teaching moving through ordinary criminal, commercial, familial, and military networks alongside the named Companions and martyrs.
+**Historical pressure:** the Redeemer's teaching moving through ordinary criminal, commercial, familial, and military networks amid judicial torture, sexual threat, informers, recantation, execution and household reprisal alongside the named Companions and martyrs.
 
-**Loose growth:** members may include a future bishop, a recanted believer, a saint never formally recognized, a thief who remains a thief, and someone later condemned as a Sinner. Their adventures should show that proximity to holy history does not erase personality or guarantee holiness.
+**Loose growth:** members may include a future bishop, a believer who recants under torture, a martyr, an informer, a thief who remains a thief, and someone later condemned as a Sinner. Survival is not cowardice by definition, martyrdom does not manufacture holiness, and proximity to sacred history does not erase guilt.
 
 ### Conversion and Decadence — The Children of the Closed Temple
 
@@ -189,13 +193,13 @@ All titles and company names below are provisional folk handles.
 
 **Durable trace:** contradictory catalogues of rescued, stolen, destroyed, and converted objects circulate in Church and Sestaran archives.
 
-**Historical pressure:** the coercive edge of conversion, the true created power behind parts of the old religion, and the question of what can be purified rather than destroyed.
+**Historical pressure:** compulsory conversion includes smashed sanctuaries, custodians killed at altars or in street fighting, forced public conformity, dispossession and retaliatory old-cult violence. Genuine created powers, fraud and atrocity remain separate questions rather than excuses for one another.
 
 **Loose growth:** one becomes a sincere saint; one attempts restoration of a Menhir cult; one sells dangerous objects; one spends a lifetime returning relics to communities that hate them. Later polemic pretends they were never companions.
 
 ### Covenant Rise and the Long Frontier — The Four Who Brought Water
 
-**Humble ground:** prisoners from four communities are promised release if they can reopen a poisoned or contract-sealed well no official engineer will touch.
+**Humble ground:** prisoners from four communities are promised release if they can reopen a poisoned or contract-sealed well no official engineer will touch. The surrounding legal tradition includes a ruler's breach of a protected-community oath, massacre of its households and a later blood-price paid through execution of the ruler's descendants.
 
 **Durable trace:** four cups are set at certain frontier negotiations, but Covenant, Tarkhan, Jirahar, and Velian tellings disagree over who is entitled to drink first.
 
@@ -205,7 +209,7 @@ All titles and company names below are provisional folk handles.
 
 ### The Fall of Atheria — The Thirty-First Crew
 
-**Humble ground:** dock thieves, deserters, a widowed pilot, two children, and a junior archivist steal a condemned vessel to escape Caleran.
+**Humble ground:** dock thieves, deserters, a widowed pilot, two children, and a junior archivist steal a condemned vessel amid a berth riot. A guard or rival claimant is killed, a conspirator cuts the gangway while people are crossing, and known refugees are deliberately left to die because the damaged vessel cannot carry everyone.
 
 **Durable trace:** a ship's bell bearing an impossible thirty-first mark survives in a mountain monastery far from navigable water.
 
@@ -219,9 +223,9 @@ All titles and company names below are provisional folk handles.
 
 **Durable trace:** the inn's rebuilt table is claimed by a monastery, a military order, and a village tavern; all three have plausible provenance.
 
-**Historical pressure:** the survival of Veridun, the Mountain Rebellion, Caedros I's rise, the Burning Banners, and the moral compromises of reconquest.
+**Historical pressure:** the survival of Veridun, the Mountain Rebellion, Caedros I's rise, the Burning Banners, and the moral crimes of reconquest. A later company ruler abuses intimate office and arranges a loyal subordinate's death; a commander murders surrendered rivals; the resulting household feud and civil conflict outlive the fellowship.
 
-**Loose growth:** this is the strongest candidate for a full ascending-company epic. Its eventual members may include the future emperor, a smuggler, a displaced Covenant subject, a Vortharan warlock, a monk or camp healer, and a person later branded collaborator. They begin by wanting breakfast and safety. By the end, one wears a crown, one rejects the new empire, one becomes a saint, one becomes rich, one is deliberately erased, and one may remain active in the Egg White.
+**Loose growth:** this is the strongest candidate for a full ascending-company epic. Its eventual members may include the future emperor, smuggler, displaced Covenant subject, Vortharan warlock, monk or healer, and person later branded collaborator. They begin wanting breakfast and safety. Later crown, sanctity, wealth or Egg White survival cannot erase the intimate coercion, arranged death, surrendered prisoners or family ruin caused by particular members.
 
 The company must not secretly cause every victory. Its power lies in becoming one human thread through a mass historical upheaval.
 
@@ -231,13 +235,13 @@ The company must not secretly cause every victory. Its power lies in becoming on
 
 **Durable trace:** fragments of an unsigned common rule survive in both churches, each accusing the other of removing the final page.
 
-**Historical pressure:** the Lamp Controversy, the Two Emperors, and the Great Split.
+**Historical pressure:** the Lamp Controversy, the Two Emperors and the Great Split include imprisonment, beatings, shrine seizure, corpse and relic desecration, mob violence and the killing of at least one road host.
 
 **Loose growth:** the company tries to prevent a disaster it does not yet understand. Members later become polemicists, abbots, diplomats, outlaws, and founders on both sides. Their failure should not reduce the Split to one missed delivery, but their friendships make the institutional rupture personal.
 
 ### High Noon and Grey Sweat — The Forty-First Ferry
 
-**Humble ground:** ferrymen, gravediggers, an assurance clerk, two thieves, and an exhausted novice keep one illegal burial route operating during the plague.
+**Humble ground:** ferrymen, gravediggers, an assurance clerk, two thieves, and an exhausted novice keep one illegal burial route operating while decomposing bodies accumulate, officials execute or drown suspected carriers, and families abandon infected kin at closed crossings.
 
 **Durable trace:** a ferry token accepted nowhere in ordinary commerce remains a sign that a corpse, fugitive, or debtor will be carried without questions.
 

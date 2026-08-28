@@ -105,6 +105,8 @@ Judges provides an entire grammar for episodic regional heroes:
 - Jephthah is an outlaw recalled by the society that expelled him and destroyed by an oath.
 - Samson combines immense gift, appetite, comedy, betrayal, private grievance, and catastrophic victory.
 
+Judges also refuses to let heroic memory conceal social collapse. Chapters 19–21 preserve sexual violence and murder against a woman, the division of her body as a summons, retaliatory war that nearly exterminates Benjamin, the killing of noncombatants, and the later seizure of women to preserve the defeated remnant. The horror belongs not merely to an outside enemy but to the covenant society and its improvised politics. Any seed borrowing this political grammar must preserve that communal culpability and irreversible price rather than converting it into a distant atrocity the heroes simply prevent.
+
 **World Egg use:** the Age of Hearths needs numerous local judges and problem-solvers, not only first kings. Most should save one valley, ford, winter settlement, household, or clan. Their relics, vows, cults, enemies, and children can matter longer than their victories.
 
 ### 3. The captive, slave, or exile inside imperial history
@@ -146,7 +148,7 @@ Its scale is its strength:
 ### 6. Decisive women outside permanent office
 
 - Judith rebukes leaders who place a deadline upon the Lord, enters the enemy camp, kills Holofernes, saves the city, and returns rather than founding a dynasty.
-- Susanna survives corrupt judges because the young Daniel separates the witnesses and exposes contradictions.
+- Susanna refuses sexual coercion, is falsely accused of a capital offence by the judges who threatened her, and survives because the young Daniel separates the witnesses and exposes contradictions.
 - The Greek Esther makes prayer, dream, concealed identity, and imperial edict central to a court rescue.
 - Ruth's fidelity as a widowed foreigner makes an outsider fundamental to a later royal history.
 
@@ -173,6 +175,8 @@ Use sparingly so the pattern retains force.
 ### 9. Late repentance without historical erasure
 
 Chronicles and the Prayer of Manasseh preserve a catastrophic ruler who repents after humiliation.
+
+The reign being repented of includes idolatrous coercion, child sacrifice, divination, and abundant innocent blood. Repentance cannot be made meaningful by leaving those acts unnamed.
 
 The World Egg question is not merely whether the Lord can forgive. It is what genuine repentance means when victims, laws, institutions, cults, inherited offices, and predatory identities remain.
 
@@ -280,6 +284,8 @@ This permits sequential historical Regnants of Wrath, Pride, Envy, or Greed whil
 ### Empty images, fraudulent cults, and real Masks
 
 Bel and the Dragon and the Letter of Jeremiah prevent the setting from making every worshiped statue automatically supernatural.
+
+Bel's exposure is not only a clever accounting discrepancy: concealed household access is discovered, the custodians and their families are exposed as consuming the offerings, the king executes the guilty household, and the image is destroyed. A transformed seed may question that collective punishment, but cannot call itself a close use of Bel while omitting the bodily and political consequence.
 
 An investigated cult may contain any combination of:
 
@@ -630,6 +636,13 @@ Originality threshold:
 - no seed may be merely a renamed biblical episode;
 - no comparative source may override Scripture's theological boundary;
 - no World Egg metaphysic may be added solely to disguise copying.
+
+Source-fidelity threshold:
+
+- changing three axes may never remove the borrowed element's causal atrocity, principal culpability, or irreversible price;
+- restore only the hard edge belonging to the element actually borrowed, rather than collecting every cruelty present in a multi-source card;
+- name rape, murder, sacrifice, torture, dismemberment, execution, and child death directly when they are load-bearing, without voyeuristic anatomical narration;
+- a domestic, hospitable, textual, or juridical source remains nonviolent where violence is not integral to the borrowed element.
 
 ## Theological Constraints
 

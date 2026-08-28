@@ -18,9 +18,8 @@ culture: []
 related_factions: []
 appears_in: []
 needs:
-  - review Block III as a batch
-  - review Block IV as a batch
-  - enrich from later approved cultural dossiers
+  - promote selected retained roots separately and in order
+  - enrich retained seeds through later approved cultural dossiers
 tags:
   - historical-seeds
   - planting-matrix
@@ -29,7 +28,7 @@ tags:
 ---
 # Whole-History Planting Matrix — Blocks III and IV
 
-This is an **unreviewed exploratory nursery**, not chronology and not public canon. It covers the Atherian Imperial Age through 1360 AR. Every seed must be marked `retain`, `revise`, `defer`, or `reject` before promotion into [[The Historical Seed Garden]].
+This is a **staged exploratory nursery**, not chronology and not public canon. It covers the Atherian Imperial Age through 1360 AR. Every seed must be marked `retain`, `revise`, `defer`, or `reject` before promotion into [[The Historical Seed Garden]].
 
 ## Operating Rules
 
@@ -65,39 +64,53 @@ The transformation formula is:
 
 ## Atherian Republic, Unification, and Glory
 
+### Atherian Glory Comparative Ruling
+
+The five Glory-era cards form one imperial ecology without becoming one secret founding story:
+
+| Seed | Distinct function | Relationship boundary |
+|---|---|---|
+| **The Low Door Companions** | the period's signature ascending company | They enter the imperial board but neither create Atheria nor make Aurelius Thalion's victory providentially inevitable. |
+| **The Keeper of Borrowed Grain** | one morally ambiguous provincial ascent inside imperial administration | Saving lives does not sanctify later confiscation, and administrative knowledge is human craft rather than ethnic or prophetic magic. |
+| **The Crown That Would Not Conquer** | a narrow relic test concerning actual shelter | Its bounded response proves neither rightful empire, dynastic legitimacy, victory, sainthood, nor the moral innocence of its custodian. |
+| **The Emperor After the Emperor** | a dependent Pride Mask grown around standardized imperial representation | It is not an emperor's soul, the office itself, the Crowned Reflection, or an already approved future Regnant. |
+| **Two Roads, One Victory** | competing court and provincial memory carried by one practical route rite | The paired song preserves useful fragments without making both chronicles complete, inspired, or equally responsible. |
+
+Later imperial accounts may place the Keeper or road-repairers among the Low Door Companions, credit the Crown to an emperor, or use the standardized Face in every scene. Such claims are later political and Mask-making acts. They do not establish shared membership, authenticate conquest, or merge human souls, relic office, public memory, and Idol pattern.
+
 ### B3-01 — The Low Door Companions
 
 - **Lane / scale / carrier:** human; signature company; military custom, theatre fragments, and an unclaimed provincial grave.
 - **Era / region / culture:** c. 390–310 BR; several Atherian provinces; mixed provincial and metropolitan.
-- **Humble origin:** auxiliaries, debtors, actors, and a junior clerk crawl through a servants' entrance to escape a theatre riot and are arrested together as conspirators.
+- **Humble origin:** auxiliaries, debtors, actors, and a junior clerk crawl through a servants' entrance to escape a theatre riot and are arrested together as conspirators. Their later service is not a clean ascent: they raid provincial storehouses, take hostages from households whose loyalty is doubted, and kill prisoners during one retreat. One companion betrays a refuge to preserve the others and later writes the first respectable account.
 - **Scriptural pattern:** David's debtors and fugitives becoming the company around a future ruler; Daniel serving successive courts.
 - **Comparative grammar:** accidental ascending company and broken fellowship.
 - **Historical pressure:** republican civil war, provincial incorporation, and the rise of Aurelius Thalion.
-- **World Egg torque:** the low lintel acquires metaphysical mass through repeated officer rites. It rejects anyone who believes command excuses service, but it does not identify the rightful emperor or sanctify a war.
-- **Continuity / power:** human souls; mundane office custom later carrying relic-like mass; possible Pride Mask feeding upon the high gate rather than the low one.
+- **World Egg torque:** the low lintel acquires metaphysical mass through repeated officer rites. During formal assumption of command, it refuses passage when the candidate publicly rejects the particular service obligations named in that rite. It cannot inspect private virtue, identify the rightful emperor, or sanctify a war.
+- **Continuity / power:** companions are distinct `human-soul` persons; the lintel rite becomes `infrastructure-office`; a possible Pride Mask feeding upon the contrasting high gate remains `idol-pattern`.
 - **1360 AR traces:** the officer-stooping custom; mutually incompatible theatre scripts; one family claiming descent from the member royal histories call a traitor.
 - **Competing interpretations:** imperial historians call them Thalion's first loyalists; provincial songs say they intended to assassinate him; actors insist the whole cycle began as political satire.
-- **Authorially known:** the companions predate their famous name and did not cause unification alone.
-- **Open:** complete membership, Thalion's early involvement, and the unforgiven betrayal.
+- **Authorially known:** the companions predate their famous name and did not cause unification alone. Their courage and later public service are real, as are their raids, hostages, unlawful killings, and the unforgiven betrayal suppressed by imperial Lives.
+- **Open:** complete membership, Thalion's early involvement, which members enter imperial office or return home, and the unforgiven betrayal.
 - **Sensitivity / source restriction:** visible Davidic structure must not reproduce David's family, giant, or royal sequence.
-- **Promotion:** unreviewed.
+- **Review disposition:** `retain` — deepen as the Glory period's signature ascending company while keeping membership, Thalion's relationship, provincial claims, betrayal, offices, and ultimate fates provisional.
 
 ### B3-02 — The Keeper of Borrowed Grain
 
 - **Lane / scale / carrier:** human and institution; local historical figure; famine ledgers and a disputed granary seal.
 - **Era / region / culture:** late Republic; a subject river province; minority captive serving Atherian administration.
-- **Humble origin:** an imprisoned interpreter notices that an imperial grain count uses a Giant unit no living official understands.
+- **Humble origin:** a provincial debt-hostage assigned to translate storehouse marks notices that an imperial ration table silently combines a Giant volume-sign with a local weight-sign, losing grain at every conversion.
 - **Scriptural pattern:** Joseph's captive ascent and famine administration.
 - **Comparative grammar:** underestimated expert entering imperial history.
 - **Historical pressure:** famine relief, land consolidation, and the conversion of emergency provision into permanent imperial estates.
-- **World Egg torque:** correcting the unit prevents mass starvation, but the same harmonized ledger later allows Greed Masks to treat every field as divisible collateral.
-- **Continuity / power:** human soul; institutional memory; Greed feeding architecture rather than possession.
+- **World Egg torque:** a temporary dual-ledger maintained by millers, carters, household rationers, and clerks prevents mass starvation. Preservation has a price: desperate households surrender land for grain, enter compulsory estate service, and sell years of their own or their children's labor. Later governors detach the conversion table from local witnesses and turn emergency dependence into permanent confiscation, debt servitude, and a Greed feeding architecture.
+- **Continuity / power:** the Keeper and every worker remain `human-soul`; the dual-ledger and later estate register are different `infrastructure-office` developments; Greed Masks exploit chosen policy without possessing the Keeper or making arithmetic evil.
 - **1360 AR traces:** the seal remains a symbol of honest provisioning and predatory foreclosure in different provinces.
 - **Competing interpretations:** savior, collaborator, first imperial economist, or unwilling inventor of estate bondage.
-- **Authorially known:** thousands survived because of the correction; later confiscation was human policy, not inevitable magic.
+- **Authorially known:** thousands survived through the correction and distributed work; later confiscation was human policy, not inevitable magic or the Keeper's sole act.
 - **Open:** whether the Keeper accepted office freely and whether descendants benefited.
-- **Sensitivity:** do not use ethnic outsider wisdom as an exotic court superpower; retain moral ambiguity.
-- **Promotion:** unreviewed.
+- **Sensitivity:** do not use ethnic outsider wisdom as an exotic court superpower, reproduce Joseph's centralized famine sequence, or let one clever captive erase the millers, carriers, farmers, and household rationers who make survival possible.
+- **Review disposition:** `revise` — retain the dual-ledger ascent and morally divided legacy, but choose the river province, minority community, administrative chain, human collaborators, and post-famine consequences before retention.
 
 ### B3-03 — The Crown That Would Not Conquer
 
@@ -107,603 +120,764 @@ The transformation formula is:
 - **Scriptural pattern:** capture and return of the Ark; holy objects refusing use as proof-machines.
 - **Comparative grammar:** dangerous gift and relic afterlife.
 - **Historical pressure:** Atherian sacralization of conquest.
-- **World Egg torque:** the crown kindles only while sheltering a defeated petitioner. It sickens every treasury that displays it as a conquest trophy.
-- **Continuity / power:** object-borne metaphysical mass; no soul and no general test of legitimate rule.
+- **World Egg torque:** repeated sanctuary use has made the crown a bounded `infrastructure-office`: it shows a dull hearth-glow only at a threshold where a defeated petitioner is actually received and protected under the local shelter terms. Displayed as a conquest trophy or placed upon a bound captive, it burns the hands or brow of the person knowingly forcing that use; one first captor dies after ordering repeated tests and another is permanently maimed. Its response remains confined to the violated shelter commission: it does not plague the surrounding population, identify a rightful emperor, or make the captor's enemies innocent.
+- **Continuity / power:** created object carrying `infrastructure-office`; no soul, saintly presence, Regnant authority, or general test of legitimate rule. Whether an older local `court-law` first recognized the shelter custom remains open.
 - **1360 AR traces:** the crown is lost from the imperial inventory; three hospices claim to have melted pieces of it into door fittings.
-- **Competing interpretations:** imperial mercy-token, provincial curse, saintly precursor, or Menhir bargain-object.
+- **Competing interpretations:** imperial mercy-token, provincial curse, object later attributed to a saint, or Menhir bargain-object.
 - **Authorially known:** its response was genuine and narrow; it never selected an emperor.
 - **Open:** maker, present location, and whether any hospice claim is true.
-- **Source / sensitivity restriction:** Ark-capture grammar supplies the failed instrumentalization only. The crown is not an in-world Ark analogue, and its response cannot adjudicate a dynasty, war, or church.
-- **Promotion:** unreviewed.
+- **Source / sensitivity restriction:** Ark-capture grammar supplies the failed instrumentalization only. The crown is not an in-world Ark analogue, contains no pre-Redeemer saint, produces no White Flame, and its response cannot adjudicate a dynasty, war, church, or claimant beyond the actual shelter test.
+- **Review disposition:** `retain` — preserve the narrow shelter office while leaving its sanctuary, makers, initial recognition, capture, present location, and hospice claims open.
 
 ### B3-04 — The Emperor After the Emperor
 
-- **Lane / scale / carrier:** Idol pressure; institution; portrait rite, acclaim formula, and Egg White persona.
+- **Lane / scale / carrier:** Idol pressure; institution; portrait rite, acclaim formula, and alleged imperial-persona manifestations.
 - **Era / region / culture:** accumulated across the Age of Glory; imperial Atherian.
 - **Humble origin:** court artists repeatedly idealize unrelated emperors into the same youthful face so provincial subjects will recognize the office.
 - **Scriptural pattern:** Wisdom 13–15 on commemoration, ruler images, artistry, law, and idolatrous social formation.
 - **Comparative grammar:** TES-style mythic accretion and relic/office afterlife.
 - **Historical pressure:** imperial continuity despite dynastic turnover.
-- **World Egg torque:** the standardized face becomes a Pride Mask called by later occultists the Emperor After the Emperor. It is not any emperor's soul but remembers every act publicly attributed to the office.
-- **Continuity / power:** dependent Idol Mask potentially maturing toward Archmask; human imperial souls remain separate.
+- **World Egg torque:** the standardized face becomes a Pride Mask called by later occultists the Emperor After the Emperor. It is not any emperor's soul and cannot read their lives; it accumulates Sediment from acts, virtues, crimes, and invented achievements publicly attributed to the imperial office.
+- **Continuity / power:** dependent `idol-pattern` of Pride, with later autonomy left open; imperial office and portrait rites are `infrastructure-office`; every human emperor retains a separate `human-soul`.
 - **1360 AR traces:** identical face-proportions recur in coins from unrelated dynasties; some portraits correct viewers who use a ruler's birth name.
 - **Competing interpretations:** artistic convention, proof of secret blood continuity, official ghost, or old Star god.
 - **Authorially known:** a real Pride Mask formed; it has never been the whole Idol.
-- **Open:** present autonomy, relationship to the Diadem, and whether it survived conversion.
+- **Open:** present autonomy, relationship to the Diadem, whether it survived conversion, and whether it later participates in the proposed Unmirrored Interregnum.
 - **Source / sensitivity restriction:** Wisdom and TES supply different parts of the grammar. Imperial art supplies biography and feeding architecture; it neither creates Pride's guilty sovereignty nor absorbs an emperor's soul.
-- **Promotion:** unreviewed.
+- **Review disposition:** `retain` — preserve the standardized imperial Face as a real dependent Pride Mask while leaving its growth, cult network, conversion-era fate, and any later Archmask development unresolved.
 
 ### B3-05 — Two Roads, One Victory
 
 - **Lane / scale / carrier:** memory; institutional seed; court annal and provincial lament.
 - **Era / region / culture:** early imperial road expansion; Atherian and subject peoples.
-- **Humble origin:** a surveying dispute over who repaired a washed-out road becomes the first disagreement between the official and provincial histories of unification.
+- **Humble origin:** a surveying dispute over who repaired a washed-out road becomes the first disagreement between the official and provincial histories of unification. The court account celebrates the road as a bloodless victory; the provincial account records a settlement burned after refusing labor, civilians killed during clearance, and conscripted workers buried beneath an embankment to keep the timetable.
 - **Scriptural pattern:** Samuel–Kings versus Chronicles; overlapping histories with different theological and political selections.
 - **Comparative grammar:** performed history and contested chronicle.
 - **Historical pressure:** legitimizing empire through roads.
-- **World Egg torque:** both accounts preserve different portions of a route-hymn; the road remains safest only when alternating verses from both are sung.
-- **Continuity / power:** repeated rite sustaining a minor route-anchor; no metaphysical proof that either chronicle is wholly correct.
+- **World Egg torque:** both accounts preserve different portions of a work-song coordinating drainage gates, retaining walls, warning calls, and safe passage. Repeated maintenance and paired performance sustain a minor route `infrastructure-office`; using only one recension leaves practical and metaphysical gaps without proving the omitted history wholly true.
+- **Continuity / power:** singers and workers are `human-soul`; road and paired rite are `infrastructure-office`; textual survival and emotional accretion are `residue`, never a collective soul or inspired second revelation.
 - **1360 AR traces:** teamsters still alternate the verses while scholars print only one.
 - **Competing interpretations:** court readers hear voluntary concord, provincial readers remember corvée, and teamsters claim the paired song belongs to neither government.
 - **Authorially known:** neither text is complete; the route effect is real.
-- **Open:** original words and whether the repair company appears among the Low Door Companions.
-- **Source / sensitivity restriction:** Samuel–Kings and Chronicles provide a grammar of selective parallel history, not two in-world inspired scriptures or a license to make every disagreement equally true.
-- **Promotion:** unreviewed.
+- **Open:** original words, exact forced and voluntary labor contributions, and whether the repair company appears among the Low Door Companions.
+- **Source / sensitivity restriction:** Samuel–Kings and Chronicles provide a grammar of selective parallel history, not two in-world inspired scriptures or a license to make every disagreement equally true. Similarity to the Road Sung Across Glass proves no direct transmission without separate evidence.
+- **Review disposition:** `retain` — preserve the rival chronicles and paired maintenance rite while leaving the road, texts, labor history, company overlap, and surviving verses open.
 
 ## Redeemer Generation and Underground Centuries
 
+### Redeemer and Underground Comparative Ruling
+
+The three cards preserve different ordinary carriers around sacred history without becoming a replacement apostolic company or one universal resistance organization:
+
+| Seed | Distinct function | Relationship boundary |
+|---|---|---|
+| **The Empty-Purse Road** | people, letters, and fugitives moving through overlapping household, criminal, commercial, Jirahar, and later Ember routes | It is an episodic refuge-cycle, not one cross-generational company, secret bishopric, or rival to the Ember Underground. |
+| **The Burial Hands** | bodies, names, custody, mourning, inheritance, and truthful correspondence at one damaged execution site | Burial and identification protect persons and evidence; they do not purchase judgement, manufacture relics, or found every later burial society. |
+| **The Clerk Who Added Words** | fallible textual reconstruction, recension history, and the growth of a composite saint-memory | A preserved witness can contain an honest error; text, liturgical persona, relic claim, Mask, and each human soul remain distinct. |
+
+Later tradition may place the first Hands upon the Empty-Purse Road, identify the Clerk as one of their municipal witnesses, or circulate copies through Ember cells. None of those relationships is authorially fixed. Even if one is retained later, no three-card master organization results.
+
 ### B3-06 — The Empty-Purse Road
 
-- **Lane / scale / carrier:** human; recurring company; empty purses at refuge doors and a chain of safe houses.
-- **Era / region / culture:** c. 5–90 AR, with later stories attached; Atherian, Jirahar, Sestaran, and Folk margins.
+- **Lane / scale / carrier:** human and route-memory; recurring local cycle rather than one cross-generational company; empty purses at refuge doors, host-charters, prison letters, and overlapping safe roads.
+- **Era / region / culture:** earliest historical core c. 5–90 AR, with independent reuse throughout the Underground Centuries; Atherian, Jirahar, Sestaran, and Folk margins.
 - **Humble origin:** smugglers and guides carry one proscribed family through a checkpoint for payment that never arrives.
-- **Scriptural pattern:** Tobit's burial-under-persecution and household road; Baruch's scribal network; minor protectors around sacred history.
-- **Comparative grammar:** outlaw fellowship and dangerous hospitality.
-- **Historical pressure:** early persecution and the Great Tower Revolt without adding another apostle.
-- **World Egg torque:** genuine refuge repeatedly offered before payment creates a rightward route-pattern that counterfeit safe houses cannot perfectly imitate.
-- **Continuity / power:** ordinary human souls; accumulated route mass; possible manifested saint only for a separately established redeemed person.
+- **Scriptural pattern:** Tobit's persecuted household road and Baruch's scribal network as antecedents; Acts' host households, prisoner roads, minor co-workers, and ordinary people carrying sacred history without joining the apostolic center.
+- **Comparative grammar:** outlaw fellowship, dangerous hospitality, episodic prisoner-road, and saint-life correspondence network.
+- **Historical pressure:** early persecution, judicial torture, public execution, threatened sexual violence, confiscated children, informers, prisoners who recant under pain, families who reject or shelter them afterward, the Great Tower Revolt, uneven local enforcement, and the later [[The Ember Underground|Ember Underground]] without adding another apostle or rival universal resistance body.
+- **World Egg torque:** at particular thresholds, repeated freely offered shelter accumulates a narrow rightward hospitality pattern. A copied purse-sign can imitate the invitation but cannot manufacture the history of actual reception behind it; even a genuine patterned threshold cannot detect every informer, certify the host's holiness, or guarantee that the onward road is safe.
+- **Continuity / power:** hosts, guides, smugglers, prisoners, and refugees remain distinct `human-soul` persons; repeated routes and a few thresholds may develop `infrastructure-office`; copied signs and rehearsed scenes may carry `residue`; a manifested saint is possible only for a separately established redeemed person under heavenly commission.
 - **1360 AR traces:** empty-purse signs survive at pilgrim houses, thieves' inns, and two Jirahar host-charters.
-- **Competing interpretations:** church rescue network, ordinary smuggling road, Jirahar escape line, or later moralized composite.
-- **Authorially known:** several unrelated groups used the sign; proximity to Isfir did not make every guide holy.
-- **Open:** whether one company persisted across generations and which member became the condemned Sinner of later stories.
-- **Sensitivity:** no inherited Jirahar guilt; no additional central Companion.
-- **Promotion:** unreviewed.
+- **Competing interpretations:** an early Church rescue network, ordinary smuggling custom later baptized by memory, Jirahar escape sign, Ember cell-mark, or moralized composite joining unrelated hosts.
+- **Authorially known:** no single company, bishop, or secret command operated the entire Road. Several unrelated groups used or independently reinvented the sign; some later entered Ember routes, some remained commercial or criminal, and proximity to the Redeemer or Isfir made no guide holy. Hosts, informers, recanters, confessors and martyrs all occur in its history; torture and execution neither manufacture sanctity nor make a lapsed survivor contemptible.
+- **Open:** the original family's identity, the first group's membership and fates, which routes later joined the Ember Underground or Via Celestis, the purse-sign's place of origin, and which early figure was later condemned as a Sinner.
+- **Source / sensitivity restriction:** Acts, Ignatius-like prisoner correspondence, and household-saint traditions supply distributed hosting and letter-road grammars, not an additional apostolic organization. No inherited Jirahar guilt, no central Companion, and no assumption that an unbelieving or criminal host's just act was covert conversion. A working threshold proves repeated hospitality at that place, not sainthood, doctrine, or the safety of every claimant.
+- **Review disposition:** `retain` — preserve the humble unpaid rescue, empty-purse custom, overlapping refuge roads, morally mixed participants, and narrow hospitality pattern while explicitly rejecting one immortal company or universal underground. The original group, sign provenance, later Ember relationship, regional recensions, and individual fates remain provisional.
 
 ### B3-07 — The Burial Hands
 
-- **Lane / scale / carrier:** human and institution; local cycle; grave tools and a forbidden burial roll.
-- **Era / region / culture:** Underground Centuries; urban Atherian congregations and non-Christian poor.
-- **Humble origin:** corpse washers, gravediggers, two thieves, and a municipal clerk cooperate to recover bodies abandoned after an execution.
-- **Scriptural pattern:** Tobit's burial piety; 2 Maccabees' care for the dead and resurrection hope.
-- **Comparative grammar:** accidental company and performed history.
-- **Historical pressure:** state terror, anonymous graves, and the early relic economy.
-- **World Egg torque:** their accurate naming of the dead settles residue and closes false doors without changing judgement. Later relic dealers forge the roll.
-- **Continuity / power:** human souls route normally; body residue and names remain; no burial rite purchases salvation.
-- **1360 AR traces:** one iron washing hook is venerated, another used by secular undertakers; the roll contains three demonstrably false later additions.
-- **Competing interpretations:** martyr fraternity, criminal corpse market, municipal sanitation crew, or all three over time.
-- **Authorially known:** their work protected thresholds and witnesses rather than bribing the Boatman.
-- **Open:** founders' faiths and whether any named apparition is the actual redeemed person.
-- **Source / sensitivity restriction:** Tobit and 2 Maccabees inform burial courage and resurrection hope. No rite purchases judgement, and care for non-Christian dead must not be retroactively claimed as covert conversion.
-- **Promotion:** unreviewed.
+- **Lane / scale / carrier:** human, institution, and threshold-memory; local accidental company becoming one burial fraternity among many; grave tools, witness statements, and a forbidden burial roll.
+- **Era / region / culture:** one urban persecution during the Underground Centuries; Atherian congregations, municipal death-workers, prisoners' families, and non-Christian poor.
+- **Humble origin:** corpse washers, gravediggers, two thieves, and a municipal clerk cooperate to recover bodies after a purge in which prisoners are burned, beheaded, broken in public punishment, or left hanging until families surrender names. Officials cut identifying marks from some corpses, interchange heads and clothing, and dump bodies with refuse so burial, inheritance and martyr memory cannot be established.
+- **Scriptural pattern:** Tobit's burial piety and 2 Maccabees' care for the dead as antecedents; the myrrh-bearing women, Joseph and Nicodemus, and New Testament fidelity after apparent defeat.
+- **Comparative grammar:** accidental company, performed history, early martyr-act witness, plague burial, and relic-custody record.
+- **Historical pressure:** state terror, official erasure, urban sanitation, families denied bodies, and an early relic economy growing beside genuine martyr memory.
+- **World Egg torque:** officials deliberately interchange names, bodies, sentences, and disposal records so neither families nor soul-road witnesses can establish truthful correspondence at one damaged execution site. The Hands reconstruct identities through scars, clothing repairs, teeth, work injuries, testimony, and transport lists. Their labor does not judge or save the dead; it separates human persons from corpse-residue and false names, allowing lawful soul-road work to proceed wherever interception actually occurred. Later relic dealers forge additions to the successful roll, but a false entry cannot seize a redeemed soul or make an ordinary bone holy.
+- **Continuity / power:** every dead and living human remains a distinct `human-soul`; corpse impressions and repeated death-scenes are `residue`; the verified roll and custody practice may develop a limited `infrastructure-office`; tools and bones are ordinary objects unless a separate relic commission or sanctification is established.
+- **1360 AR traces:** one iron washing hook is venerated as an occupational relic without settled proof, another remains in secular undertakers' use, and the roll contains three demonstrably false later additions. Modern relic courts and municipal inquests preserve incompatible versions of the Hands' identity tests.
+- **Competing interpretations:** martyr fraternity, mixed-faith burial society, criminal corpse market, municipal sanitation crew, first relic-provenance court, or several phases later compressed into one company.
+- **Authorially known:** a small mixed group recovered and identified abandoned bodies, including people outside the Redeemer's faith. Their work restored evidence, inheritance, mourning, and truthful correspondences; it neither bribed nor commanded [[The Boatman|the Boatman]]. They did not found every later burial society or relic protocol.
+- **Open:** city and purge, founders' faiths and relationships, whether the thieves first joined for ransom or mercy, which names are original, who forged the additions, whether any intercepted soul required active separation, and whether any later apparition is the actual redeemed person named in the roll.
+- **Source / sensitivity restriction:** Tobit, 2 Maccabees, Gospel burial witnesses, early martyr memory, and Cyprian-like plague service supply courage, body care, record, and mixed-community mercy. No rite purchases judgement; an unburied person is not damned; care for non-Christian dead must not be claimed as covert conversion; martyrdom does not mechanically create sainthood; and collective commemoration never merges souls. Graphic desecration remains subordinate to the workers, families, and political purpose of erasure rather than spectacle.
+- **Review disposition:** `retain` — preserve the mixed accidental company, recovery and identification of abandoned bodies, forged later roll, occupational traces, and bounded soul-road consequence while leaving the city, purge, beliefs, sequence, relic claims, forgers, apparitions, and ultimate fates provisional.
 
 ### B3-08 — The Clerk Who Added Words
 
-- **Lane / scale / carrier:** memory; trace figure; rewritten confiscation ledger.
-- **Era / region / culture:** c. 180 AR; imperial administration.
-- **Humble origin:** a copying clerk reconstructs a congregation's seized testimony after an official burns the original.
-- **Scriptural pattern:** Jeremiah's scroll rewritten with additional words.
-- **Comparative grammar:** contested chronicle and hidden scribe.
-- **Historical pressure:** archive destruction during persecution.
-- **World Egg torque:** additions made from honest witness stabilize erased names; invented additions attract Envy's replacement ecology.
-- **Continuity / power:** text-anchor and human memory; no prophetic office claimed.
-- **1360 AR traces:** surviving copies disagree over seven names, each connected to a different relic claim.
-- **Competing interpretations:** faithful reconstruction, resistance redaction, relic-market forgery, or an ordinary copyist's consequential error.
-- **Authorially known:** the clerk preserved genuine testimony and also made at least one consequential mistake.
-- **Open:** deliberate invention versus memory failure.
-- **Source / sensitivity restriction:** Jeremiah's rewritten scroll supplies the restoration pattern only. The clerk's additions are not thereby inspired, canonical, or exempt from forensic review.
-- **Promotion:** unreviewed.
+- **Lane / scale / carrier:** memory and institution; trace figure; reconstructed local witness-book, prison letters, marginal source marks, and later liturgical recensions.
+- **Era / region / culture:** c. 180 AR; one Atherian provincial administration and the congregation, households, prisoners, and copyists it attempted to erase.
+- **Humble origin:** a junior copying clerk reconstructs a congregation's seized testimony after an official burns the original, using remembered depositions, household letters, prison-visitor notes, and several frightened witnesses who disagree. The genuine record includes torture, one recantation, an informer, and several executions; later copyists add spectacular torments to make the received figure seem incapable of fear and silently transfer the recanter's shame to another person.
+- **Scriptural pattern:** Jeremiah's scroll rewritten with additional words as antecedent; New Testament letter networks, named minor co-workers, and local testimony circulating under persecution.
+- **Comparative grammar:** contested chronicle, prison-letter road, early martyr act, textual recension, and hagiographic accretion.
+- **Historical pressure:** archive destruction, forced anonymity, danger to living witnesses, and later churches seeking a stable martyr roll and relic pedigree.
+- **World Egg torque:** the clerk uses marginal signs to distinguish remembered text, corroborated addition, personal inference, and unresolved contradiction. Later copies preserve the words but lose or deliberately regularize those signs. Two or more distinct people are consequently compressed into one exemplary biography around which a limited liturgical `legend-persona` develops; an Envy Mask may later imitate that composite face, but contradiction and repetition do not create a Mask automatically. Reading a careful recension can separate residue and expose false relic claims; it cannot recreate the dead, reveal judgement, or make every recorded act true.
+- **Continuity / power:** clerk, witnesses, and every named dead person remain distinct `human-soul` continuities; documentary and emotional survivals are `residue`; the received composite commemoration may become a `legend-persona` or limited `infrastructure-office`; any dependent Mask, relic response, or manifested saint requires separate establishment.
+- **1360 AR traces:** seven principal recensions disagree over seven names, each now connected to a relic, feast, inheritance, or suppressed family claim. Only two copies preserve different portions of the original marginal source marks, and neither is complete.
+- **Competing interpretations:** faithful reconstruction, unauthorized resistance redaction, first local martyrology, relic-market forgery, clumsy harmonization, or an Envy-corrupted book.
+- **Authorially known:** the clerk preserved substantial genuine testimony and introduced at least one consequential error. The work was neither new Scripture nor a knowingly fabricated universal saint-book, and the received composite never merged the human souls behind it.
+- **Open:** clerk's name, faith and later fate; province and congregation; exact source documents; whether the key error was memory failure, protective pseudonym, unmarked inference, or a later copyist's regularization; identities behind the composite; which relic and family claims are genuine; and whether Envy ever established an active Mask around the received figure.
+- **Source / sensitivity restriction:** Jeremiah supplies the honest rewriting-under-destruction pattern only. Acts, epistolary networks, Ignatius/Polycarp-like correspondence, and early martyr records supply distributed testimony and recension history, not an additional canonical book. A saint's received liturgical meaning, earliest recoverable biography, later wonder-cycle, relic custody, and actual `human-soul` must remain separately classified. Error does not make the whole witness fraudulent, and sincerity does not make additions inspired or exempt from forensic review.
+- **Review disposition:** `retain` — preserve the fallible reconstruction, marginal source system, genuine witness mixed with one consequential error, seven recensions, composite commemoration, and possible but unpromoted Envy exploitation while leaving all names, texts, relic claims, family claims, active supernatural agencies, and the clerk's fate provisional.
 
 ## Legalization, Conversion, and Decadence
 
+### Conversion and Decadence Comparative Ruling
+
+The three cards approach imperial conversion from different social levels without treating conversion, the Star Pantheon, the Church, or the old empire as morally uniform:
+
+| Seed | Distinct function | Relationship boundary |
+|---|---|---|
+| **The Children of the Closed Temple** | displaced workers, confiscated civic and sacred property, and case-specific created-power discernment | Their catalogue is fallible human craft, not inspired taxonomy; they do not prove that every old cult was fraud, every response holy, or every confiscation atrocity. |
+| **The Penitent and His Other Face** | genuine personal repentance confronted by surviving victims, law, beneficiaries, office, residue, and public Mask | The dependent Pride Mask preserves the perfected governor but neither caused his crimes nor repents with him; victims do not owe rehabilitation or veneration. |
+| **The Border Lamp and the Keelman** | episodic maritime life after conversion: displaced skill, mixed ports, hospitality, charter fragments, and learned cross-cultural cooperation | Neither person represents an entire people or possesses inherited mystical knowledge; the route's dual witness is jurisdictional, not racial. |
+
+Later cycles may claim that the lamp-trimmer was a younger Child of the Closed Temple, that the penitent governor confiscated the chart, or that one missing catalogue entry describes it. Those are useful possible links, not authorial facts, and no retained link may make the three cards one covert company.
+
 ### B3-09 — The Children of the Closed Temple
 
-- **Lane / scale / carrier:** human; signature company; rescue catalogues, repurposed tools, and missing sacred objects.
-- **Era / region / culture:** 292–430 AR; Atherian cities and provinces; former Star-temple workers and converts.
-- **Humble origin:** cooks, lamp-trimmers, singers, guards, cleaners, and junior augurs lose their livelihoods when their sanctuary closes and begin retrieving objects from abandoned sites.
-- **Scriptural pattern:** Josian reform, Letter of Jeremiah, Bel and the Dragon, and Manasseh's late repentance.
-- **Comparative grammar:** broken fellowship, relic afterlife, and hero corrected after victory.
-- **Historical pressure:** legalization, compulsory conversion, temple confiscation, and the difficulty of distinguishing fraud from real created power.
-- **World Egg torque:** their catalogue develops four practical classes—empty image, human fraud, Idol Mask, and Menhir manifestation. Later authorities deliberately collapse the classes for political convenience.
-- **Continuity / power:** mixed objects and persons; classification must be case-specific.
-- **1360 AR traces:** Church investigators secretly rely on the catalogue while publicly condemning its authors; several listed objects remain missing.
-- **Competing interpretations:** holy salvagers, pagan thieves, opportunists, or founders of responsible discernment.
-- **Authorially known:** no single member understood every object's continuity; some destruction was necessary and some was atrocity.
-- **Open:** membership, which object caused the final division, and whether one former member became an Archmask.
-- **Source / sensitivity restriction:** Josian, Bel, and Letter-of-Jeremiah grammars must not turn every pre-Conversion practice into fraud or demonism. Menhir correspondence, empty images, and Idol Masks remain case-specific.
-- **Promotion:** unreviewed.
+- **Lane / scale / carrier:** human, institution, and created-power discernment; existing signature company; rescue catalogues, wage and burial registers, repurposed tools, custody marks, and missing sacred objects.
+- **Era / region / culture:** historical company formed during Vestian's temple closures, c. 377–395 AR, with later activity and stories extending into the early fifth century; one Atherian city and its provincial cult network; former Star-temple workers, mixed households, converts, holdouts, and new Church custodians.
+- **Humble origin:** cooks, lamp-trimmers, singers, guards, cleaners, maintenance workers, and junior augurs lose wages, housing, burial rights, and legal standing when their sanctuary closes. They first re-enter the sealed complex to recover payroll tablets, family deposits, medicines, civic records, and the tools by which they made a living—not to restore a pantheon.
+- **Scriptural pattern:** Josian reform, Letter of Jeremiah, Bel and the Dragon, and Manasseh's late repentance as antecedents; Acts' conversion of households and public disorder around threatened cult economies.
+- **Comparative grammar:** broken fellowship, relic and office afterlife, dangerous salvage, hero corrected after victory, imperial conversion, and saint-life conflict with Christian rulers.
+- **Historical pressure:** compulsory conversion, temple confiscation, smashed images, custodians killed at altars or in street fighting, forced public conformity, old-cult retaliation against converts, Church mobs attacking households that preserved harmless inheritance, displaced labor, opportunistic relic acquisition, Astrion's recent failed restoration, and the difficulty of distinguishing false theology from genuine created response.
+- **World Egg torque:** instead of four universal classes, the company's evolving catalogue records a diagnostic sequence: ordinary or empty object; human mechanism or fraud; emotional or ritual `residue`; civic or cult `infrastructure-office`; genuine Menhir correspondence or `court-law`; Idol Mask or feeding architecture; misclassified created spirit, soul-road servant, human-bound object, or possible relic requiring outside judgement. Several cases occupy more than one line because a fraudulent priesthood can exploit a genuine Menhir response or an Idol Mask can colonize an otherwise ordinary office. The catalogue is human craft informed by dangerous encounters, not inspired taxonomy, and no label compels the power being studied.
+- **Continuity / power:** every worker and custodian remains a distinct `human-soul`; Menhir remain personally continuous created sovereignties; Idol Masks remain `idol-pattern` within their Thrones; the Boatman or another true spirit never becomes a Star Menhir because a temple misnamed it; objects, residues, offices, relics, bound souls, and frauds require individual classification.
+- **1360 AR traces:** Church investigators, antiquarians, undertakers, and Sestaran scholars preserve different portions of the catalogue's questions while disagreeing about its authors. Official histories alternately condemn the company as old-cult thieves, praise unnamed converts for “purifying” the objects, or omit the displaced workers entirely. Several listed objects and two volumes of custody marks remain missing.
+- **Competing interpretations:** holy salvagers, dispossessed temple union, old-cult restoration cell, opportunistic thieves, founders of responsible discernment, imperial evidence team, or several later groups compressed into the company.
+- **Authorially known:** one historical company formed from displaced workers and divided custodians. No member understood every continuity. The Star Pantheon included genuine Menhir correspondences and at least one major misclassification; neither fact made its imperial theology wholly true. Some dangerous structures required breaking, some preserved objects were ordinary or beneficial, some apparent miracles were fraud, and some conversion-era destruction included murder, forced conformity, desecration and dispossession committed under sacred language. Retaliatory old-cult violence was also real and does not excuse imperial policy.
+- **Open:** city and temple, complete membership and beliefs, relationship to bishops and imperial confiscators, which catalogue entries derive from direct encounter, what object caused the final division, which members reconciled or separated, present location of the missing volumes and objects, and whether any former member later became a saint, Patron, Mask-host, or merely the face attached to one.
+- **Source / sensitivity restriction:** Josiah, Bel, and the Letter of Jeremiah supply reform, consumption-audit, and empty-image grammars without making every old practice fraudulent. Constantine-and-Helen traditions supply legalization, patronage, sacred building, and relic-search questions without sanctifying every imperial policy; Basil, Macrina, Chrysostom, and Olympias supply charitable reuse and resistance to Christian power without one-to-one biographies. The company may not treat all old worshippers as knowing Idol servants, all images as Masks, all Menhir correspondence as moral approval, all confiscation as purification, or all former temple workers as an ethnic or religious monolith. A true response proves only the bounded created relation that answered.
+- **Review disposition:** `retain` — preserve the displaced-worker company, practical rescue beginning, broken fellowship, dangerous catalogue, missing objects, and morally mixed conversion aftermath while replacing the universal four-bin scheme with a case-specific diagnostic sequence. All names, city, temple, membership, beliefs, catalogue cases, disputed object, later supernatural identities, and ultimate fates remain provisional.
 
 ### B3-10 — The Penitent and His Other Face
 
-- **Lane / scale / carrier:** human and Idol pressure; local historical figure; penitential hymn, law code, and persistent royal Mask.
-- **Era / region / culture:** late conversion or early decadence; one Atherian province.
-- **Humble origin:** a cruel governor rises through confiscation and enforced conversion, then undergoes a genuine late repentance after imprisonment and humiliation.
-- **Scriptural pattern:** Manasseh in Chronicles and the Prayer of Manasseh.
-- **Comparative grammar:** relic and office afterlife; TES-style separation of person from mythic persona.
-- **Historical pressure:** whether spiritual forgiveness entails political rehabilitation.
-- **World Egg torque:** the governor's soul can repent while the Pride-and-Wrath Mask constructed by his state cult continues enforcing his former policies in his name.
-- **Continuity / power:** genuine human soul; separate dependent Mask; separate office-law and victim residue.
-- **1360 AR traces:** his hymn remains in a penitential office; victims' descendants maintain a book of unrepealed decrees; a painted governor still answers petitions in one ruin.
-- **Competing interpretations:** saint, cynical convert, unforgivable tyrant, or divided supernatural person.
-- **Authorially known:** repentance was genuine; it did not erase consequence or turn the Mask into him.
-- **Open:** final judgement and whether a later saintly manifestation ever confronted the Mask.
-- **Source / sensitivity restriction:** Manasseh supplies the repentance-after-evil problem. The seed never declares the ruler's final judgement, excuses policy, or makes victims responsible for accepting reconciliation.
-- **Promotion:** unreviewed.
+- **Lane / scale / carrier:** human, institution, memory, and Idol pressure; local historical figure rather than another empire-wide convert-ruler; penitential hymn, restitution fragments, unrepealed law, victim register, official portraits, and a persistent governor Mask.
+- **Era / region / culture:** c. 395–460 AR; one Atherian province in the first generations after compulsory conversion; converted provincial administration, dispossessed Star-cult households, Jirahar and other targeted communities, and a Church learning to govern through imperial law.
+- **Humble origin:** a junior assessor of confiscated estates discovers that zeal, revenue, and rapid conviction earn promotion. He becomes governor by perfecting seizure, judicial torture, exemplary execution and enforced conversion. He authorizes a purification policy that kills his own child or acknowledged heir together with children taken from condemned households, fills prison yards with innocent blood, and transfers the victims' property to supporters. He later loses a court struggle and is imprisoned under procedures he helped create.
+- **Scriptural pattern:** Manasseh in Chronicles and the Prayer of Manasseh as the principal antecedent; Zacchaeus's restitution and Paul's continuing responsibility after conversion as New Testament controls.
+- **Comparative grammar:** ruler corrected after victory, penitential saint-life, office and relic afterlife, hostile double, and TES-style separation of person from public mythic persona.
+- **Historical pressure:** whether genuine repentance entails political rehabilitation; whether a converted state can confess institutional sin; whether victims, beneficiaries, officials, and descendants inherit different material obligations from one reign.
+- **World Egg torque:** before his fall, official portraits, praise formulae, punishment liturgies, and petition responses build a receptive public identity into which Pride extends a dependent Mask: the flawless governor who never doubts, retracts, or kneels. Punitive imagery and violence may also feed separate Wrath networks, but the Other Face belongs only to Pride's Throne. When the human governor confesses, kneels publicly, revokes some judgements, and attempts restitution, the Mask treats repentance as an attack upon rightful perfection and continues issuing the earlier ruler's answers through surviving portraits and office routes. It remembers propaganda, decrees, and repeated acclaim—not the man's private conscience or final judgement.
+- **Continuity / power:** the governor remains one `human-soul`; the governorship, confiscation process, and surviving petition routes are `infrastructure-office`; victims and sites retain distinct `residue`; the Other Face is a dependent Pride `idol-pattern`, not the governor, Wrath, an Archmask, or a succession candidate. The hymn is a human text; any relic response, Patron persona, or manifested saint requires separate establishment.
+- **1360 AR traces:** an anonymized version of his hymn remains in a penitential office; victims' descendants and dispossessed institutions maintain a book of decrees still unrepealed or materially unanswered; several returned properties carry divided titles; and a painted governor in one ruined audience hall still answers petitions according to the cruelest recension of his former law.
+- **Competing interpretations:** genuine penitent, cynical convert protecting his legacy, unforgivable tyrant, provincial saint, useful example of confession, divided supernatural person, or victim of a demon that committed the real crimes.
+- **Authorially known:** the human ordered judicial murder, torture, confiscation, forced conversion and the purification deaths, including his own child or heir, and later repented genuinely; the Mask neither caused nor excuses his choices. His repentance produced concrete confession, release, revocation and partial restitution but could not return the dead or recover every dispersed household. It did not automatically satisfy justice, require reconciliation, make him a saint, or cause the dependent Mask to repent with him.
+- **Open:** name and province, targeted communities, crimes and beneficiaries, imprisonment, spiritual advisers, content and authorship history of the hymn, completed and failed repairs, descendants and office-holders still benefiting, final judgement, the Mask's present dependence and anchors, and whether a later true saintly manifestation ever confronted it.
+- **Source / sensitivity restriction:** Manasseh supplies catastrophic rule followed by sincere repentance; Zacchaeus, Paul, Moses the Ethiopian, and wider penitential tradition supply material consequence, discipline, and a changed life without one-to-one biography. This is not a second [[The Divergence Pass — Torque Register#The Register|Cassian Wager]]: the provincial governor demonstrably changes conduct and attempts repair, while Cassian's final disposition remains its own unresolved imperial scandal. Victims may remember, refuse veneration, litigate, or decline personal reconciliation without being cast as vindictive, spiritually defective, or responsible for Wrath. No canonization, hymn, absolution, miracle, or manifestation may legitimate the original policies or erase restitution.
+- **Review disposition:** `retain` — preserve the genuinely penitent governor, concrete but incomplete repair, victims' unrepealed book, continuing office consequences, and separate dependent Pride Mask while correcting the impossible two-Throne Mask. All names, province, crimes, repairs, beneficiaries, hymn history, final judgement, saint claim, Mask anchors, and confrontation remain provisional.
 
 ### B3-11 — The Border Lamp and the Keelman
 
-- **Lane / scale / carrier:** land and human; wandering duo; sea-road tales, lamp custom, and bilingual jokes.
-- **Era / region / culture:** c. 430–540 AR; Sestaran, Ättar, Velian, and southern frontier communities.
-- **Humble origin:** a temple lamp-trimmer and an Ättar keel-hand are stranded after each separately steals the same chart.
-- **Scriptural pattern:** Ruth's outsider fidelity and Naaman's encounter across enemy lines.
-- **Comparative grammar:** Isles/Baltic wandering duo and wilderness-as-jurisdiction.
-- **Historical pressure:** imperial decline, raids, port independence, and mixed communities.
-- **World Egg torque:** one reads human law and the other Faewild etiquette; neither can cross the coast-road alone because different stretches answer different witnesses.
-- **Continuity / power:** human souls; Menhir bargains remain amoral; stories may compress several duos.
-- **1360 AR traces:** paired lamps on cold-coast ferries and a chart whose two inks cannot be read by one person simultaneously.
-- **Competing interpretations:** friends, rivals, lovers, one trickster with two names, or a later reconciliation myth.
-- **Authorially known:** at least one historical pair existed; the episodic cycle absorbed other adventures.
-- **Open:** names, genders, and final separation.
-- **Source / sensitivity restriction:** wandering-duo and dangerous-hospitality grammars may be enriched only through specifically attributed regional dossiers; do not import living Sámi or other Indigenous ritual identities as generic forest magic.
-- **Promotion:** unreviewed.
+- **Lane / scale / carrier:** human, land, and route; wandering duo and later episodic cycle; paired ferry lamps, a layered chart, harbor jokes, guest-right cases, and contradictory port songs.
+- **Era / region / culture:** historical core c. 430–540 AR during the Ättar Great Keel-Taking and Atherian fragmentation; the southern cold coast, western Kedravan sea-road, Sestaran ports, and early Velian congregational or trading communities after 411 AR.
+- **Humble origin:** a displaced lamp-trimmer trained in temple inventories steals a confiscated coastal chart as unpaid wages after helping officials inventory people sold with temple property. An Ättar keel-hand who has raided settlements, carried captives, and taken ransom later steals the same object from a broker who withheld a crew's share. A closed harbor, damaged vessel, or contested arrest strands them with rival claims to a chart neither can fully use alone. Neither can pretend the coast's slavery and ransom economy belongs only to the other.
+- **Scriptural pattern:** Ruth's chosen outsider fidelity and Naaman's encounter across enemy lines as antecedents; Priscilla-and-Aquila-like migrant craft, household hospitality, and correction across unequal knowledge as New Testament controls.
+- **Comparative grammar:** world-native episodic maritime duo, dangerous hospitality, disputed property, trickster procurement, and wilderness or coast as overlapping jurisdiction. Isles and Baltic duo traditions remain later research leads rather than approved source attribution in this pass.
+- **Historical pressure:** imperial decline, great keel-taking, raiding and ransom, slavery and manumission, port independence, converted and closed temple property, mixed coastal households, and authorities whose safe-conducts cease at the next headland.
+- **World Egg torque:** the chart preserves two independently witnessed layers. Lamp-black notation records human harbor law—tolls, sanctuary, pilotage, ransom, wreck ownership, and safe-conduct. Salt-silver notation records bounded coastal `court-law`—tide conditions, taboo anchorages, storm refuges, offerings already owed, and places where no human grant controls the shore. At several passages the two layers must be declared simultaneously by independent competent witnesses because neither jurisdiction accepts the other as its own evidence. The original duo possess different learned portions of that competence, but either can learn more and later pairs need not share their ancestry, gender, faith, or occupations.
+- **Continuity / power:** both original people and every later pair remain distinct `human-soul` persons; harbor charters and repeated ferry procedures may carry `infrastructure-office`; local coastal responses remain bounded Menhir `court-law`; the chart is an object preserving correspondences rather than a person, saint, Patron, or universal sea key; the expanded adventure cycle is `residue` and cultural memory unless a particular later agency is established.
+- **1360 AR traces:** ferries along several southern and Kedravan routes hang one sheltered lamp and one exposed lamp before difficult crossings. Surviving chart fragments reveal their two layers under different conditions and require comparison by separate readers; ordinary copies usually preserve only the harbor notation or turn the court warnings into picturesque monsters.
+- **Competing interpretations:** friends, rivals, lovers, captor and captive, mutually cheating business partners, two saints, two unrepentant thieves, one trickster with two names, or a reconciliation cycle joining several unrelated pilots and lamp-keepers.
+- **Authorially known:** at least one historical pair traveled together and both had valid but incomplete claims to the chart. Each had materially benefited from captivity, sale or ransom before later helping some captives escape. Their cooperation opened several crossings and failed at others. Later stories absorbed adventures, sayings, and partners from other centuries; neither individual embodied or reconciled their whole culture.
+- **Open:** names, genders, faiths, precise origins, relationship, legal ownership of the chart, first route, role of slavery or ransom, households that sheltered or betrayed them, which episodes belong to the original pair, final separation or reconciliation, deaths, and whether either was ever truthfully recognized as a saint.
+- **Source / sensitivity restriction:** the duo cannot turn mission into cultural erasure, make an outsider secretly Christian, or treat hospitality as proof of conversion. Ättar competence arises from particular hall, ship, ransom, and navigation experience rather than blood; the Ättar remain many rival halls, not a raider nation with one policy. “Sestaran” must resolve to particular cities and statuses before promotion, and early Velian placement must respect their post-411 formation rather than project the later client states backward. Menhir compliance proves natural consequence, not justice. No Sámi, Indigenous, Isles, Baltic, or other living-tradition ritual identity is available as generic coast magic without a separately attributed dossier.
+- **Review disposition:** `retain` — preserve the thieving maritime duo, layered chart, learned complementary skills, dangerous hospitality, episodic accretion, paired-lamp custom, and dual-jurisdiction route while rejecting inherited mystical competence and any tidy civilizational reconciliation. All people, cities, route, chart ownership, episodes, relationship, faith, sainthood, and endings remain provisional.
 
 ## Covenant Rise and Long Frontier
 
+### Covenant Rise and Long Frontier Comparative Ruling
+
+The five cards expose different parts of the same mixed frontier without making one fellowship, school, or hidden metaphysical system responsible for the age:
+
+| Seed | Distinct function | Relationship boundary |
+|---|---|---|
+| **The Four Who Brought Water** | prisoners force one public release promise through layered material and contract obstruction | Their victory neither legitimates conquest nor founds all Covenant water law. |
+| **The Physician and the Interpreter** | fallible wandering diagnosis, paid expertise, patient speech, and institutional learning | Their protocol distinguishes categories without becoming a universal cure, inspired taxonomy, or covert mission road. |
+| **The Linen Oath** | immediate sanctuary remains answerable to the embodied people actually admitted even when their account was deceptive | Shelter does not validate the lie, create hereditary title, compel conversion, or settle later sovereignty. |
+| **The Fifth Translation** | multilingual scholarship preserves five distinct route functions that a single elegant recension collapses | The functions are procedural rather than ethnic; no language, people, or translator possesses an inborn current-lane key. |
+| **The Unmirrored Interregnum** | a deferred creator-facing hypothesis testing whether ordinary Pride activity ever became an Archmask revolt or true accession | Empty thrones, rival titles, and Mask disagreement are evidence of Pride pressure, not proof of a Regnant succession. |
+
+Later recensions may recruit the wandering duo into the well company's careers, claim that a Linen Oath sheltered one of the five translators, or treat every disputed text as evidence for the Interregnum. Those remain possible local memory acts, not one secret network.
+
+### Well and Cup Boundary
+
+The Four Who Brought Water may become a major early-Covenant company without overwriting either of the setting's older water histories:
+
+- The [[Nine Wells of Tergai]] were seized violently in 558 AR. The company's well is a lesser imperial works station after that conquest, not a hidden tenth well, a peaceful recension of the seizure, or proof that Tarkhan dispossession became voluntary.
+- The four cups do not originate all four-cup hospitality. A much older Scattering compact already survives around [[Whole-History Planting Matrix - Blocks I and II#II-L02 — The Well That Adopted the Stranger|the Well That Adopted the Stranger]]. The prisoners place four mismatched ration cups beneath the restored flow; later jurists and singers deliberately fuse the two customs.
+- The well recognizes enacted relations and bounded office conditions, not ethnic essences or moral truth. No participant is necessary because one culture possesses an inborn legal, technical, or spiritual key.
+- The company reveals both real goods and predatory uses within early Covenant law. It cannot authenticate Mujalib's revelation, the First Unsealing, Banu Mizan conquest, or any later national ownership claim.
+
 ### B3-12 — The Four Who Brought Water
 
-- **Lane / scale / carrier:** human and institution; signature company; four cups, well judgement, and contradictory legal recensions.
-- **Era / region / culture:** c. 550–650 AR; Covenant frontier; Ahl-e-Ahd, Tarkhan, Jirahar, and Velian.
-- **Humble origin:** four prisoners are promised release if they reopen a poisoned or contract-sealed well.
-- **Scriptural pattern:** Joseph/Daniel outsider service, the Gibeonite oath, and 1 Esdras servants using court favor for restoration.
-- **Comparative grammar:** ascending company and vow with delayed price.
-- **Historical pressure:** revelation, early conquest, water rights, and portable breach courts.
-- **World Egg torque:** each participant contributes a different valid relation—engineering, testimony, inherited access, and a freely surrendered claim. Later law attempts to reduce the reopening to one sovereign seal.
-- **Continuity / power:** human souls; contract infrastructure; possible later Patron persona built from the collective title is not any member.
-- **1360 AR traces:** four cups at frontier negotiations; four incompatible accounts of who drinks first.
-- **Competing interpretations:** proof of Covenant justice, stolen local miracle, Tarkhan concession extracted under duress, or Jirahar legal parable.
-- **Authorially known:** no one participant could open the well alone; its later national ownership story is false.
-- **Open:** ultimate fates and which member became the great opponent of breach-courts.
-- **Source / sensitivity restriction:** scriptural well and water-law patterns are structural. No World Egg people is a one-to-one analogue of a present religion or ethnicity, and no conquest claim follows from opening the well.
-- **Promotion:** unreviewed.
+- **Lane / scale / carrier:** human and institution; existing signature company; four mismatched prison cups, a conditional-release instrument, contradictory well judgements, work songs, and later legal recensions.
+- **Era / region / culture:** historical core c. 604–625 AR, after Bir Qassim and during the emergence of Banu Mizan frontier government; one lesser waterworks and detention station on an early imperial road. Ahl-e-Ahd officials and subjects, Tarkhan captives or displaced households, Jirahar residents or travelers, Velians, converts, and mixed frontier communities belong to the surrounding history, but promotion need not assign exactly one member to each people.
+- **Humble origin:** four low-status detainees are placed on an expendable work detail after officials, engineers, and bound enforcers fail to reopen a fouled and contract-closed well. A governor publicly promises release if water is brought to the camp, expecting the prisoners to die below the draw chamber. Their useful skills—maintenance, copying, translation, rope work, animal handling, drainage, testimony, or knowledge of the station—come from particular lives and occupations rather than ancestry.
+- **Scriptural pattern:** Joseph and Daniel's captive service without moral approval of empire; the Gibeonite oath as a promise the powerful may remain obliged to honor despite compromised formation; Greek 1 Esdras's minor servants speaking in a royal contest and using favor for restoration. The Samaritan woman at the well and Acts' demand that unlawful public punishment receive public acknowledgement serve as New Testament moral controls without turning any participant into a covert Christian.
+- **Comparative grammar:** ascending company, court contest, vow with delayed price, dangerous public works, reluctant fellowship, hero corrected after victory, and water as overlapping livelihood and jurisdiction.
+- **Historical pressure:** the aftermath of the violent Nine Wells conquest, the 603 Bir Qassim massacre, a later ruler's breach of a protected-community oath and massacre of its households, disputed succession, Banu Mizan expansion after 610, prisoner labor, slavery and manumission, older communal water tenure, portable courts, and the transformation of local protections into imperial instruments. Years afterward, claimants demand a blood-price through the public execution of several descendants of the oath-breaking house.
+- **World Egg torque:** the obstruction has several independent layers: physical fouling and neglected machinery; missing or suppressed maintenance knowledge; contradictory access instruments; and a narrow `infrastructure-office` still enforcing the most recently enacted closure. The four restore the works by repairing the intake, reconstructing the documentary chain, identifying which condition has actually lapsed, and invoking the governor's witnessed release promise against his own agents. No mechanism knows that they are “four” or recognizes their cultures. The office enforces wording and standing rather than justice; human judgement is still required to distinguish a valid release from a predatory instrument. Later jurists simplify the episode into four metaphysical keys—engineering, testimony, inherited access, and surrendered claim—but that scheme is a teaching recension, not authorial ontology.
+- **Continuity / power:** all four prisoners and every later claimant remain distinct `human-soul` persons; the well, channels, and poison remain material; the closure and release procedure may carry bounded `infrastructure-office`; any local Water-Wife or other Menhir relation is separate and presently unestablished. The collective title and accumulated adventures are cultural `residue`, not a merged soul. A later Patron persona using the company's title would be a separately classified anchor relationship and cannot be assumed to be any member's survival.
+- **1360 AR traces:** four visibly mismatched cups are placed around a common basin at some frontier negotiations, while communities disagree over who drinks first, whether one cup must remain empty, and whether the custom remembers prisoners or the older Scattering compact. Several breach-court schools quote the maxim “a promise to the bound still binds its speaker,” but hostile recensions add exceptions. Fragments of a release instrument and four incompatible well judgements survive without a secure place-name.
+- **Competing interpretations:** proof that Covenant law corrects its own rulers; evidence that conquered people forced an empire to obey one narrow promise; Tarkhan reclamation memory transferred from Tergai; Jirahar or Velian legal parable; four saints or righteous outsiders; prisoners who became conquerors; or an older hospitality story retrofitted to Banu Mizan expansion.
+- **Authorially known:** four historical detainees worked together, restored one lesser well, and made a publicly witnessed promise politically and legally costly to deny. Officials attempted to narrow, defer, or reclassify the promised release. The same legal tradition also preserves a real oath-breaking massacre and later execution of descendants as blood-price; neither side can turn that sequence into tidy justice, and the cups do not endorse it. The event neither founded Covenant water law nor legitimated conquest.
+- **Open:** exact locality and water source; names, genders, communities, faiths, legal statuses, occupations, and relationships; nature and author of the physical fouling; terms of confinement and release; whether all four were freed together; subsequent journeys, disagreements, offices, households, crimes, sanctity claims, deaths, and ordinary retirements; which person, if any, became a jurist, ruler, opponent of breach-courts, or model for a later Patron persona; and how the custom became confused with the older four cups.
+- **Source / sensitivity restriction:** scriptural captivity, oath, well, and court patterns govern moral questions rather than supplying one-to-one biographies. Forced labor is not redeemed because it produces public water, formal enforceability is not identical to justice, and professional usefulness does not justify captivity. Ahl-e-Ahd is a forming imperial-confessional identity rather than one ancestry; Jirahar scholarship does not secretly found Al-Ahdiya; Tarkhan history cannot be reduced to losing wells; Velians are not passive frontier Christians; and no community owns a supernatural competence by blood. No present religion or ethnicity is mapped wholesale onto a World Egg people, and neither working contract magic nor water access proves divine favor.
+- **Review disposition:** `retain` — preserve the four-prisoner ascending company, impossible public-works beginning, witnessed release promise, layered material and contractual obstruction, four mismatched cups, competing legal recensions, and later divergent careers while separating the episode from Tergai, the older Scattering compact, ethnic key-logic, and imperial legitimacy. All people, locality, skills, instruments, later careers, saint or Patron claims, and ultimate fates remain provisional.
 
 ### B3-13 — The Physician and the Interpreter
 
-- **Lane / scale / carrier:** human and land; new Long Frontier wandering cycle; medical casebook, translation palimpsest, and roadside proverbs.
-- **Era / region / culture:** c. 690–830 AR; Velian States, Zanthir, Sestaran routes, Jirahar towers, and neighboring frontiers.
-- **Humble origin:** a junior physician cannot treat a caravan patient because the only witness speaks a language the disgraced court interpreter refuses to translate for free.
-- **Scriptural pattern:** Tobit's household journey, Sirach on physicians and craftsmen, and Naaman's healing across enemy lines.
-- **Comparative grammar:** Fafhrd/Mouser-style episodic duo, African wilderness jurisdiction, and dangerous hospitality.
-- **Historical pressure:** coexistence, translation houses, mixed law, espionage, and frontier medicine.
-- **World Egg torque:** diseases, contracts, and spirit claims often share a symptom but require different remedies; the pair's enduring achievement is a diagnostic grammar that prevents category errors rather than a universal cure.
-- **Continuity / power:** human souls; cases distinguish biological illness, residue, contract, Menhir pressure, and Idol feeding.
-- **1360 AR traces:** incomplete bilingual casebooks circulate under several titles; doctors and jurists each omit the chapters they do not understand.
-- **Competing interpretations:** saintly healers, smugglers, spies, lovers, apostates, or a composite teaching cycle.
-- **Authorially known:** at least two historical people anchor the cycle; later tales add companions and centuries.
-- **Open:** names, faiths, relationship, and deaths.
-- **Sensitivity / source restriction:** the frontier must show urban, legal, scholarly, and domestic life rather than exotic coexistence scenery. “African wilderness jurisdiction” is a research queue, not approved source attribution; no sacred being, rite, or community-specific sequence transfers until a named tradition is studied.
-- **Promotion:** unreviewed.
+- **Lane / scale / carrier:** human, land, institution, and created-power discernment; principal new Long Frontier wandering duo; three-column casebooks, translation palimpsests, disputed clinic rules, patient letters, roadside jokes, and later paired-healer imagery.
+- **Era / region / culture:** original partnership c. 675–725 AR, with later pairs and accreted cases continuing into the ninth century; Zanthir, particular Velian towns, Jirahar roads and tower quarters, Sestaran merchant routes, caravan hospices, military stations, and mixed-law households. This dates the core before [[Named Figures of the Known World#The Jirahar Thread|Rab Yequtiel of Zanthir]] rather than absorbing him into the duo.
+- **Humble origin:** an underlicensed junior physician at an impoverished road hospice cannot understand a detained caravan patient whose confused testimony may determine both treatment and legal status. The only competent interpreter is a dismissed court worker still owed wages and unwilling to perform another unpaid order after a previous rendering was altered to bind a client. The physician witnesses the wage claim or pawns a necessary instrument; the interpreter returns for one case. Their first success is preventing an official classification from becoming fatal, not performing a spectacular cure.
+- **Scriptural pattern:** Tobit's domestic journey and practical remedies, Sirach's honor for physicians and craftspeople, and Naaman's healing across enemy lines with the refusal to sell sacred action as antecedents. The Good Samaritan, New Testament distinctions between sufferer and affliction, multilingual witness in Acts, and the many gifts of one body prevent healer, translator, exorcist, jurist, and saint from collapsing into one office.
+- **Comparative grammar:** episodic odd-couple journey, diagnostic mystery, wandering professionals, dangerous hospitality, trickster procurement, road comedy, local jurisdiction, and companions whose friendship survives recurrent disagreement better than either reputation does.
+- **Historical pressure:** Banu Mizan translation houses and protection compacts, Velian medical and copying institutions, Jirahar residence and legal scholarship, caravan disease, prisoner exchange, slavery and manumission, mixed courts, espionage, counterfeit licenses, rival communal jurisdictions, and rulers who benefit when illness can be reclassified as breach, possession, foreign deceit, or political disloyalty.
+- **World Egg torque:** fever, poison, trauma, coercive name custody, residue, Menhir `court-law`, Idol feeding, possession, and deliberate fraud can produce overlapping testimony without being one disease. The pair therefore develops a negative diagnostic discipline rather than a universal taxonomy: preserve the patient's or witness's words in the source register; record alternative translations and the legal consequence of choosing each; keep observable symptoms and ordinary treatment in a separate hand; and place every extraordinary claim in a marked annex with evidence, uncertainty, and the specialist consulted. Immediate bodily stabilization outranks winning a classification dispute when delay is dangerous. The protocol does not command a power, guarantee the correct category, replace local knowledge, or prevent honest failure.
+- **Continuity / power:** physician, interpreter, patients, later imitators, and any genuine saints remain distinct `human-soul` persons. A case may separately involve material illness, `residue`, contract `infrastructure-office`, Menhir `court-law`, Idol `idol-pattern`, another created spirit, fraud, or a bounded relic response. The casebook is a fallible human text and procedural tool rather than a person or speaking authority. A shared feast, title, icon, hospital office, Patron imitation, or composite adventure cycle never merges the people behind it.
+- **1360 AR traces:** incomplete bilingual casebooks circulate under several titles. Some medical copies remove the contract annexes; some legal copies preserve rulings but omit treatment failures; devotional copies replace uncertain outcomes with healings. Several frontier hospitals require three separately signed spaces for the patient's words, the interpreter's renderings, and clinical observation, while corrupt institutions fill all three in one hand. A road proverb—“water first, words second, wonders last”—is claimed by physicians, translators, and innkeepers.
+- **Competing interpretations:** two unmercenary saints; a physician and paid liar; smugglers using medical visits; rival spies forced to cooperate; siblings, spouses, lovers, enemies, or one teacher invented as two professions; Rab Yequtiel and an unnamed assistant; or several historical physician-interpreter pairs joined beneath one feast and set of names.
+- **Authorially known:** one earlier physician and one interpreter anchor the cycle, and neither is Rab Yequtiel. They prevented at least one lethal category error, traveled together for more than the first case, charged or accepted support in some form, disagreed publicly, failed to save some patients, and left a recoverable procedural core. Later practitioners deliberately reused their title, and stories from different centuries entered the received cycle. Yequtiel's *Guide for the Wandering* remains his distinct work even where later manuscripts copy the duo's cases into its margins or attribute maxims in the other direction.
+- **Open:** names, genders, cultures, faiths, households, training, licensing, first patient and diagnosis, exact wage dispute, route and chronology of cases, payment practice, crimes or smuggling, relationship with courts and churches, meetings with later scholars, reasons for separation, deaths, burials, feast and relic claims, which later pairs reused their identities, and whether any particular healing or manifestation was miraculous.
+- **Source / sensitivity restriction:** Tobit, Sirach, Naaman, the Samaritan, Acts, Panteleimon, the several Cosmas-and-Damian traditions, Basilian care institutions, and Ephrem's multilingual work supply distinct moral and institutional grammars rather than biographies to combine. “Unmercenary” holiness does not make a translator's wage or a physician's livelihood shameful; payment becomes predatory through exploitation, concealment, abandonment, or sale of divine favor. The interpreter is an expert and moral agent rather than a transparent mouth, comic accent, or cultural key. Patients remain agents rather than puzzles, and mental illness, epilepsy, disability, unfamiliar behavior, or foreign speech must not default to possession, sin, falsehood, or Idol influence. Frontier society remains urban, scholarly, domestic, commercial, religious, coercive, and ordinary—not exotic scenery. The earlier generic “African wilderness jurisdiction” label is withdrawn pending a specifically attributed tradition dossier; no living-tradition being, rite, or narrative sequence transfers through this card.
+- **Review disposition:** `retain` — preserve the wandering physician-interpreter duo, wage dispute, first detained patient, fallible three-column protocol, diagnostic adventures, mixed frontier institutions, incomplete casebooks, later professional pairs, and composite feast possibilities while separating medicine, translation, law, contract, created-power diagnosis, miracle, saint, and Patron identity. All personal identities, cases, route, payments, faiths, later claims, and endings remain provisional.
 
 ### B3-14 — The Linen Oath
 
-- **Lane / scale / carrier:** institution; treaty seed; patched tent-cloth and an inherited guest-right dispute.
-- **Era / region / culture:** Long Frontier; mixed municipal and nomadic communities.
-- **Humble origin:** refugees deceive a town about their identity to gain sanctuary during a raid.
-- **Scriptural pattern:** the Gibeonite treaty obtained by deception yet treated as binding.
-- **Comparative grammar:** dangerous hospitality and delayed oath-price.
-- **Historical pressure:** frontier settlement, collective punishment, and whether a bad bargain can still protect innocent descendants.
-- **World Egg torque:** the cloth remembers witnessed shelter, not the refugees' false story. It bars violence under its span while generating no permanent political legitimacy.
-- **Continuity / power:** object-anchor for a bounded human oath; no soul ownership.
-- **1360 AR traces:** descendants on both sides invoke the Linen Oath in land disputes; only small surviving strips retain the effect.
-- **Competing interpretations:** sacred treaty, fraud fossil, humanitarian precedent, or a Menhir tent-spirit.
-- **Authorially known:** deception occurred and sanctuary was genuinely promised.
-- **Open:** lawful modern remedy and surviving cloth authenticity.
-- **Source / sensitivity restriction:** dangerous-hospitality and sanctuary-deception sources do not grant a blanket license to lie, nor may a culture be characterized as naturally deceitful through this episode.
-- **Promotion:** unreviewed.
+- **Lane / scale / carrier:** human, institution, and memory; local sanctuary compact rather than signature company; a patched travel awning, witness knots, municipal and camp recensions, household testimony, and later land suits.
+- **Era / region / culture:** historical core c. 640–700 AR at one mixed Long Frontier municipality and its extra-mural caravan ground; Banu Mizan officials, Velian or other municipal households, mobile traders and pastoral visitors, protected communities, war refugees, and hired guards. Exact town, host institution, and refugee affiliation remain open so no present culture is prematurely assigned the role of congenital deceiver or credulous host.
+- **Humble origin:** several exhausted households stitch wagon covers, work aprons, and torn tent panels into one shelter after being refused entry during a raid or succession purge. Their adult speakers claim to be ordinary traveling artisans and conceal that at least one person is an active political witness, claimant's relative, escaped bonds-person, or pursued partisan. A neighborhood council or camp assembly knowingly admits the embodied people under the patched cloth and promises food, water, and protection for a stated interval; it does not promise anything to the invented genealogy.
+- **Scriptural pattern:** the Gibeonite treaty obtained through deception yet treated as creating a real obligation; Rahab's dangerous shelter, Ruth's chosen fidelity, and the prophetic distinction between truthful judgement and collective punishment. Lydia, Cornelius, the Philippian jailer, migrant artisan households, and New Testament hospitality networks reinforce that a household's concrete protection can matter historically without granting universal office or proving the guest's doctrine.
+- **Comparative grammar:** dangerous hospitality, asylum under pressure, a vow with delayed price, performed law, disputed guest-right, refuge household, and descendants arguing over whether protection of persons became possession of place.
+- **Historical pressure:** Banu Mizan client formation, succession violence, raids and reprisals, refugee concealment, slavery and name custody, municipal autonomy, mobile guest-law, protected confessional communities, collective punishment, and rulers turning emergency shelter into evidence of permanent submission or treason. The pursued force destroys the surrounding quarter after failing to seize the hidden guests; some host households are killed, enslaved or burned out, while other residents betray names to survive.
+- **World Egg torque:** repeated free witness impresses a narrow shelter `infrastructure-office` into the patched cloth. Its original relation is bodily and bounded: while the stated interval and guest conditions remain active, officers succeeding to the host jurisdiction cannot carry out declared seizure or violence beneath its span without first acknowledging breach. The cloth does not know the guests' true genealogy, forgive their concealment, bind unrelated attackers, prevent hunger or fire, or confer land, citizenship, innocence, conversion, dynastic legitimacy, or indefinite immunity. Surviving strips can support a newly witnessed shelter promise only where competent human parties restate terms; they are not self-renewing holy forcefields.
+- **Continuity / power:** every refugee, host, witness, official, and descendant remains a distinct `human-soul`; the sanctuary procedure and cloth-anchor may carry `infrastructure-office`; remembered fear and betrayal may leave `residue`; any Menhir response, saintly relic, Patron imitation, or Idol exploitation is separately classified and currently unestablished. No person, soul, bloodline, land, or political community is owned by the cloth.
+- **1360 AR traces:** several frontier sanctuary foundations sew a visibly unrelated strip into an emergency awning and read the promise aloud before opening it. Rival descendants invoke the Linen Oath in land and citizenship suits, although the surviving effect proves only a freshly witnessed interval of shelter. Archive fragments preserve incompatible answers about whether the guests disclosed pursuit, who risked retaliation, when the interval ended, and which later grant—if any—gave families lawful residence. Counterfeit strips are common because the authentic procedure can frustrate arrest for a few crucial hours.
+- **Competing interpretations:** sacred treaty, shameful fraud fossil, model of asylum, municipal capitulation, proof of ancestral land grant, Tarkhan-style guest-right transferred into a town, Covenant sanctuary precedent, Velian rescue story, one righteous household magnified into a council, or a Menhir tent-spirit wrongly credited with human courage.
+- **Authorially known:** deliberate concealment occurred, active pursuit materially endangered the hosts, and a competent human body nevertheless promised bounded shelter to the people physically admitted beneath the cloth. The promise protected actual persons rather than their false genealogy. The deception remained morally and legally consequential, but it did not retroactively authorize massacre, enslavement, or seizure during the promised interval. Neither the lie nor the oath alone created hereditary land title.
+- **Open:** town and frontier; identities, cultures, faiths, numbers, statuses, and kinships of guests and hosts; what was concealed and why; wording, duration, guest duties, restitution, retaliation, breach attempts, deaths, conversions, later residence grant, authentic strips, modern legal remedy, and whether any participant was later truthfully recognized as a saint.
+- **Source / sensitivity restriction:** Gibeonite, Rahab, Ruth, household-host, sanctuary, and guest-right materials supply moral problems rather than permission to repeat names, peoples, ritual sequences, or outcomes. Immediate protection of life does not make deception virtuous, and deception does not dissolve a freely promised duty to the identified persons. Refugees are not romanticized as holy because they suffer, hosts are not obligated to accept concealed unlimited danger, descendants do not inherit personal guilt, and no culture is characterized as naturally deceitful, naive, nomadic, violent, or hospitable. Tarkhan guest-right, Ahdari sanctuary, Covenant instruments, Velian communal protection, and Jirahar host charters remain distinct systems unless a specific locality establishes their interaction. Hospitality cannot compel conversion or legitimate an empire.
+- **Review disposition:** `retain` — preserve the patched-cloth sanctuary, morally consequential concealment, freely witnessed bodily protection, bounded object-office, later asylum practice, and overreaching land claims while rejecting perpetual immunity, automatic hereditary title, ethnic deceit coding, and a Menhir explanation for human courage. All people, place, terms, retaliation, later grants, relic or saint claims, and ultimate outcomes remain provisional.
 
 ### B3-15 — The Fifth Translation
 
-- **Lane / scale / carrier:** memory and route; institution; performed text and current-lane correspondence.
-- **Era / region / culture:** c. 760–840 AR; Banu Mizan houses, Jirahar scholars, Sestaran copyists, and Vortharan correspondents.
-- **Humble origin:** five translators cannot agree whether a route-name denotes a place, owner, legal permission, prayer, or warning.
-- **Scriptural pattern:** multiple Esdras traditions and competing sacred histories.
-- **Comparative grammar:** Mandé/Baltic performed history and TES cultural refraction.
-- **Historical pressure:** translation scholarship and access to old Atherian/Egg White routes.
-- **World Egg torque:** all five translations are required in sequence because each preserves a different correspondence. A unified 'perfect' translation strands travelers.
-- **Continuity / power:** performed route anchor; text has function but no personhood.
-- **1360 AR traces:** four recensions survive openly; the fifth is cited only through corrections in other manuscripts.
-- **Competing interpretations:** lost heresy, cipher key, scholarly joke, or erased minority language.
-- **Authorially known:** there were five functional recensions.
-- **Open:** missing version, original language, and whether erasure was deliberate.
-- **Source / sensitivity restriction:** Mandé performance traditions and Baltic song traditions are separate research leads, not a blended source; each requires named-text or named-community attribution before expansion. Translation-house history must attach to specific multilingual communities, and no sacred language is treated as disposable, primitive, or uniquely transparent.
-- **Promotion:** unreviewed.
+- **Lane / scale / carrier:** human, memory, route, and institution; translation-house company and performed travel procedure; five working recensions, a damaged route slate, wage accounts, correspondence, correction marks, failed unified editions, and current-lane incident reports.
+- **Era / region / culture:** historical core c. 780–835 AR in one Banu Mizan-sponsored translation house with correspondence among Zanthir or the Velian belt, Jirahar scholars, Sestaran copyists, and early Vortharan route researchers. Exact house and membership remain open. The work predates the Banu Mizan library ship lost around 850 AR and is not automatically part of that wreck.
+- **Humble origin:** five junior translators, copyists, performers, or route clerks are hired cheaply to produce one elegant official rendering of a damaged Atherian instruction after a licensed crossing delivers travelers to the wrong anchor. Their patron treats disagreement as incompetence and threatens wages. Each worker demonstrates that the source's disputed route-word performs a different job in a different clause, so they preserve five inelegant working recensions against orders rather than certify one dangerously smooth text.
+- **Scriptural pattern:** the differing Esdras textual traditions and parallel sacred histories as antecedents for recensions preserving different material; Daniel's multilingual imperial court and the Letter of Jeremiah's portable warning against mistaking crafted form for authority. Pentecost supplies the New Testament boundary that shared truth does not erase language, hearers, study, or translation labor; Ephrem-like vernacular teaching and epistolary circulation supply later institutional grammar without one-to-one biography.
+- **Comparative grammar:** performed history, philological adventure, argumentative fellowship, dangerous archive, route-making through several partial witnesses, cultural refraction, and a failed perfect edition whose elegance conceals operational loss. Mandé and Baltic performance traditions remain separately named future research queues rather than source material used by this card.
+- **Historical pressure:** Banu Mizan translation patronage, custody of Atherian learning, Jirahar and Velian multilingual institutions, Sestaran copying and insurance, emerging Vortharan Astral study, scholarly class and wage hierarchy, censorship, espionage, route monopolies, and the political advantage gained by declaring one imperial language perfectly transparent.
+- **World Egg torque:** the damaged instruction compresses five necessary current-lane functions into one polyvalent term: destination sufficient for intent; correspondence or tether; identity of the route or lawful access grant; boundary and hazard warning; and return, refusal, or cancellation condition. The five historical recensions preserve those functions separately and must be consulted or enacted in procedural order. No language or people metaphysically owns one function, and a competent new translation can carry it if the relation remains exact. The official “perfect” edition collapses place, owner, permission, warning, and address into one majestic title; travelers using it can select a False Lane, arrive under unintended ownership, or lose the return condition. The procedure stabilizes an existing route relation and does not create geography by literary beauty alone.
+- **Continuity / power:** all five workers and later users remain distinct `human-soul` persons; the current-lane and any route installation carry their own Astral or `infrastructure-office` classification; a Patron owner, proxy, Lantern Registry recognition, predator, or abandoned tether remains separately identified. Text, translation, performed sequence, office, and route are not human souls. A recited line cannot bind a traveler beyond the actual correspondence, consent, custody, and route terms involved.
+- **1360 AR traces:** four recensions survive openly in incompatible scholarly families. The fifth is known chiefly through corrections, negative spaces, return failures, and quotations whose grammar does not fit the other four. Pilots compare at least two independent route methods before trusting an elegant edition; smugglers sell counterfeit fifth texts that supply secret entry but omit exit. Several institutions possess one useful leaf and falsely advertise the whole sequence.
+- **Competing interpretations:** suppressed heresy, navigational checksum, five-language prayer, scribal joke, erased minority recension, a cipher to a Patron vault, an argument staged by one master scholar, or five separate accidents later harmonized. Imperial historians praise the unified edition; route workers remember it as a preventable disaster.
+- **Authorially known:** five historical workers preserved five functionally distinct recensions, and at least one route procedure required all five functions rather than all five original languages. The unified edition failed because it erased operative distinctions, not because translation itself is impossible. The missing or suppressed fifth is not one of [[The Creditor#The True Name|Sarqinyan's true-name fragments]], does not explain a Weird, and is not automatically cargo from the library ship lost around 850 AR.
+- **Open:** people, languages, faiths, genders, status, patron, translation house, original route slate, source language, route and owner, first failed travelers, exact five performances, reason the fifth vanished, relationship to Rab Yequtiel or other scholars, disciplinary consequences, later route successes, and each translator's career, sanctity claim, disappearance, or death.
+- **Source / sensitivity restriction:** Esdras, Daniel, Jeremiah, Acts, Ephrem, performed-history research, and TES cultural refraction remain distinct grammars. No sacred or vernacular language is primitive, disposable, uniquely magical, or perfectly transparent; no ethnic group supplies an instinctive translation function. “Five” is a historical procedure rather than a cosmic language number. Mandé and Baltic traditions require separately attributed named-text or named-community dossiers before any narrative sequence, office, sacred performance, or identity enters the seed. Translation can preserve truth without making every interpretation equally valid, and a working route proves correspondence rather than doctrine, holiness, ownership, or justice.
+- **Review disposition:** `retain` — preserve the underpaid five-person translation company, damaged route term, five procedural recensions, catastrophic elegant edition, missing return-related evidence, and living scholarly dispute while rejecting magical-language essentialism, a universal translation key, and automatic connection to the Creditor's name or lost library ship. All people, texts, languages, route, owner, fifth function, suppression, later claims, and endings remain provisional.
 
 ### B3-16 — Candidate Regnant Convulsion: The Unmirrored Interregnum
 
-- **Lane / scale / carrier:** Idol pressure; sovereign-convulsion candidate; incompatible coronation rites and recurrent empty-chair manifestations.
-- **Era / region / culture:** tentatively c. 400–650 AR; late Atherian and early Covenant political worlds.
-- **Humble origin:** several collapsing courts continue acclaiming absent rulers through standardized portrait and empty-throne rites.
-- **Scriptural pattern:** Wisdom 13–15 on ruler images becoming cult; divided kingdoms and rival sanctuaries.
-- **Comparative grammar:** TES mantle succession and competing cultural Masks.
-- **Historical pressure:** imperial decadence, competing legitimate rulers, and new contract sovereignty.
-- **World Egg torque:** the Emperor After the Emperor may mature into an Archmask and contest Pride's Regnant during an interregnum. If accession occurred, later cultures could remember two genuinely different Vainglorias.
-- **Continuity / power:** proposed Archmask-to-Regnant assimilation within the same guilty Pride sovereignty; never a human soul becoming an Idol.
-- **1360 AR traces:** empty chairs receive deference in several unrelated rites; Pride manifestations disagree about whether delegated authority can exist.
-- **Competing interpretations:** true Regnant succession, ordinary Mask rivalry, imperial propaganda, or unrelated cult convergences.
-- **Authorially known:** no ruling yet; this remains a candidate and must not enter chronology before the Idol succession cap is reviewed.
-- **Open:** whether accession happened, which Regnant preceded it, and whether the old ruler survives as Sediment or Severed Exalt.
-- **Source / sensitivity restriction:** TES mantling supplies identity grammar only. Any retained version must obey the approved Idol ontology, succession cap, irredeemable guilty sovereignty, and absolute separation from human souls.
-- **Promotion:** unreviewed sovereign candidate.
+- **Lane / scale / carrier:** Idol pressure; deferred sovereign-convulsion hypothesis rather than an established event; standardized imperial faces, incompatible empty-chair rites, broken acclamation sequences, alleged Shadow court testimony, and later occult concordances.
+- **Era / region / culture:** the evidence bundle spans roughly c. 350–650 AR across Atherian restoration, compulsory conversion, imperial fragmentation, successor courts, Zanthir's foundation, and early Covenant sovereignty. That breadth currently indicates several historical processes being compressed, not one demonstrated interregnum.
+- **Humble origin:** [[Whole-History Planting Matrix - Blocks III and IV#B3-04 — The Emperor After the Emperor|the Emperor After the Emperor]] begins as a dependent Pride Mask formed when court artists, acclaim formulae, coins, and provincial rites standardize unrelated human rulers into one recognizable imperial face. Empty thrones later give that face routes after particular emperors and dynasties disappear.
+- **Scriptural pattern:** Wisdom 13–15 on images of rulers becoming cult architecture; divided kingdoms and rival sanctuaries; Daniel's succession of empires; Revelation's exposure of political image, commerce, coercion, and counterfeit universality. None supplies a cipher for identifying a Regnant.
+- **Comparative grammar:** TES mantling and mythic accretion, office afterlife, rival cultural Masks, failed accession, deposed ruler sediment, and histories that mistake one repeated title for uninterrupted personal continuity.
+- **Historical pressure:** imperial restoration and coercive conversion, forced acclaim and worship before ruler images, exclusion from food and office for refusal, political killings and purges conducted under the perfected imperial Face, loss of a universal Atherian ruler, provincial and successor courts claiming inherited legitimacy, Covenant contract sovereignty offering a rival account of authority, and institutions that continue acclaim after the human office-holder is gone.
+- **World Egg torque:** the retained evidence proves abundant Pride architecture but not the proposed ascent. For the Emperor After the Emperor to contest a Regnant, it must first persist as the same continuity after loss of its dependent portrait and office anchors, maintain a stable Shadow court, remember across destroyed vessels, and choose against Vaingloria's immediate command—thereby establishing Archmask autonomy. True accession would then require voluntary assimilation into Pride's entire guilty Throne, acceptance of its Hunger and inherited feeding architecture, reorganization across otherwise independent Pride routes, and a creator-facing ruling on the prior Regnant's fate. Empty-chair manifestations, changed crowns, cult replacement, contradictory Masks, or a Material coronation satisfy none of those tests by themselves.
+- **Continuity / power:** the human emperors remain separate `human-soul` persons; imperial office and ceremonies may carry `infrastructure-office`; the retained Emperor After the Emperor remains a dependent Pride `idol-pattern` unless autonomy is separately established; Vaingloria names Pride's continuing guilty `yolk-sovereignty` through its standing deep title. A hypothetical Archmask claimant or later Regnant would be nonhuman `idol-pattern` assimilating into the same Throne, never a human soul ascending. A former Regnant cannot be labeled Sediment, buried voice, reduced Archmask, or [[Severed Exalts|Severed Exalt]] until a true prior regnancy and succession are established.
+- **1360 AR traces:** unrelated courts leave chairs empty during succession, portraits correct viewers toward standardized features, and some Pride manifestations disagree about whether authority can be delegated. Occult catalogues arrange these signs into one interregnum, but their dates, offices, and Mask biographies do not yet form a secure chain. Several empty-chair rites demonstrably arose from mourning, legal continuity, absent office-holders, or ordinary imitation rather than one Shadow command.
+- **Competing interpretations:** one true accession; a failed Archmask revolt; a dependent Mask repeatedly re-formed by similar institutions; several unrelated Pride Masks; ordinary imperial convention; later Diadem propaganda; two separate convulsions compressed together; or the earlier phase of [[Whole-History Planting Matrix - Blocks III and IV#B4-18 — Candidate Regnant Convulsion: The Crown That Replaced Its Wearer|the Crown That Replaced Its Wearer]].
+- **Authorially known:** the Emperor After the Emperor formed as a real dependent Pride Mask during the Age of Glory, and Pride later exploited empty offices and succession claims. No present evidence establishes that this Mask acquired autonomous Archmask continuity, that Pride lacked or divided its Regnant, that assimilation occurred, or that a former Regnant survives. The “Unmirrored Interregnum” is presently an authorial research label, not an event in the chronology.
+- **Open:** whether the dependent Mask survived conversion and fragmentation as one continuity; what anchors could establish autonomy; whether a separate Throne-Born claimant is being confused with it; dates and jurisdictions of the empty-chair and later crown-office evidence now grouped in this bundle; which pieces actually share continuity; changes across Pride's Shadow heartland; relationship to the Diadem; and, only if accession is later proved, the prior Regnant and its fate.
+- **Source / sensitivity restriction:** Wisdom, Daniel, Revelation, divided-kingship history, and TES identity concepts support questions and evidentiary tests rather than a predetermined divine civil war. Human acclaim shapes Mask biography and feeding architecture but neither creates Pride's guilty sovereignty nor promotes a claimant. Political decline, conversion, a new religion, a replaced dynasty, or cultural syncretism is never sufficient proof of metaphysical succession. Any revival requires a dedicated accession dossier and must obey the one-candidate-per-block rule, the three-succession whole-history cap, the irredeemable Hunger, and the absolute separation of human souls, offices, Masks, Archmasks, Regnants, and Throne.
+- **Review disposition:** `defer` — retain the Unmirrored Interregnum only as a research hypothesis and evidence bundle. Whole-history review folds B4-18's later crown-office evidence into this same bundle without making it one event. Do not promote a true accession, Archmask autonomy, divided regnancy, prior Regnant, former-Regnant remnant, or chronological event; absent materially stronger evidence, the default explanation remains dependent Mask recurrence and broader Pride architecture.
 
 # Block IV — Fall, Reconquest, Split, High Noon, Grey Sweat, Reformation, and Present
 
 ## Fall and Mountain Founding
 
+### Fall and Mountain Founding Comparative Ruling
+
+| Seed | Distinct function | Relationship boundary |
+|---|---|---|
+| **The Thirty-First Crew** | one crewed refugee escape, a narrow muster-bell office, and a disputed household archive | It approaches the Thirty Sisters only through later memory and never explains, joins, summons, numbers, or identifies the empty fleet. |
+| **The Six at the Cinder Inn** | the period's principal ascending company and the human cost of becoming founders | It may intersect Caedros I but cannot replace his fixed biography, become the whole rebellion, or predetermine six grand endings. |
+| **The Deed in the Bread Jar** | household continuity and return evidence carried by ordinary subsistence | Care, recipe, starter, deed, descent, possession, occupation-born family, restitution, and title remain different claims. |
+
+Later chronicles may put a ship survivor at the Cinder Inn or bake from the jar for the six. Those are possible local links, not authorial facts or a hidden resistance organization.
+
 ### B4-01 — The Thirty-First Crew
 
-- **Lane / scale / carrier:** human; signature refugee company; stolen ship-bell and an incomplete archive bundle.
-- **Era / region / culture:** 905–922 AR; Caleran, Sestaran ports, and mountain refuge routes.
-- **Humble origin:** dock thieves, deserters, a widowed pilot, two children, and a junior archivist steal a condemned vessel to escape the Fall.
-- **Scriptural pattern:** Baruch's refugee archive, Jeremiah's siege witnesses, and Tobit's household road.
-- **Comparative grammar:** accidental company, voyage cycle, and exile without guaranteed restoration.
-- **Historical pressure:** governmental collapse, refugee flight, archive loss, and later return claims.
-- **World Egg torque:** their bell bears an impossible thirty-first mark that resonates near records omitted under duress. It does not explain [[The Weird of History — The Unexplained Register|the Thirty Sisters]].
-- **Continuity / power:** human souls; object residue and archive correspondence.
-- **1360 AR traces:** the bell rests in a mountain monastery far from navigable water; rival land cases cite pages supposedly carried aboard.
-- **Competing interpretations:** witness to the empty fleet, one of the Sisters, opportunistic thieves, or founders of resistance intelligence.
-- **Authorially known:** they escaped in a crewed stolen ship; their tale later attached itself to the Weird.
-- **Open:** who reached the mountains, archive contents, and why the bell is numbered.
-- **Source / sensitivity restriction:** sea-company and refugee-flight grammars may shape the human cycle, but the impossible number is never evidence for an explanation of the Thirty Sisters.
-- **Promotion:** unreviewed.
+- **Lane / scale / carrier:** human, memory, and institution; existing refugee company; a stolen vessel's muster bell, incomplete passenger and cargo rolls, a junior archive bundle, port testimony, and later mountain recensions.
+- **Era / region / culture:** historical escape core during the Fall and refugee winter, 905–907 AR; one Caleran-facing river or coastal evacuation route, one or more particular Sestaran ports, and later overland movement toward Veridun or the mountain leagues. Stories extending the same crew to 922 are later accretion unless individually established.
+- **Humble origin:** dock thieves, deserters, a widowed pilot, two displaced children, a junior archivist, and people already hiding aboard steal or unlawfully recommission a condemned but repairable vessel after official evacuation places are sold, seized, or reserved. They take it amid a berth riot: at least one guard or rival claimant is killed, one conspirator cuts a gangway while people are still crossing, and known refugees are deliberately left behind because the damaged vessel cannot carry everyone. The children remain people with skills, kin, fears, and later choices rather than symbolic cargo.
+- **Scriptural pattern:** Jeremiah and Baruch's siege records, purchase deeds, letters, and preservation under catastrophe; Tobit's household travel, burial concern, and practical dependence on guides. New Testament prisoner-road and shipwreck testimony adds ordinary crews, soldiers, passengers, hospitality, and contested witness without turning the voyage into another sacred mission.
+- **Comparative grammar:** accidental company, refugee voyage, outlaw procurement, dangerous harbor, exile without guaranteed restoration, found family, disputed manifest, and a famous company name acquired only after survivors separated.
+- **Historical pressure:** collapse of imperial command, unequal evacuation, refugee markets, desertion, seaward supply failure, Sestaran port law, archive loss, family separation, later mountain resistance, and return claims made from fragments carried by people whom official histories preferred to call thieves.
+- **World Egg torque:** repeated shipboard musters impress a narrow `infrastructure-office` into the bell and its surviving roll. When the bell is struck during a witnessed reading of that vessel's own names, its tone can expose a missing place, substituted entry, or person removed under duress from that specific muster sequence. It cannot detect lies generally, authenticate unrelated deeds, identify souls, or search history. The later thirty-first overmark has no established relation to the office and supplies no count, route, crew, or explanation for [[The Weird of History — The Unexplained Register#The Thirty Sisters the Fall 905906 AR|the Thirty Sisters]].
+- **Continuity / power:** every crew member, passenger, child, later claimant, and possible saint remains a distinct `human-soul`; the bell and muster may carry bounded `infrastructure-office`; fear, voyage memory, and later songs may carry `residue`; archive pages remain fallible human records. No soul, Undertow victim, ship intelligence, Patron, or saint resides in the bell unless separately established.
+- **1360 AR traces:** a bell with an overwritten numeral hangs in a mountain monastery far from navigable water and is rung only while names from one damaged roll are read. Rival return and inheritance cases cite pages allegedly carried aboard, while Sestaran insurers maintain incompatible salvage histories for the hull. Several families possess copied passenger lines with no surviving original.
+- **Competing interpretations:** an ordinary crew that saw the empty fleet; a secretly crewed Thirty Sister; opportunistic thieves who later invented refugee virtue; founders of resistance intelligence; Undertow smugglers; or several escape vessels compressed beneath one bell and number.
+- **Authorially known:** one crewed stolen or unlawfully recommissioned vessel carried living refugees out during the Fall, and a historical core of its mixed crew survived the first passage. Its escape involved killing, coercion, abandonment and deliberate choices about who would not board; later refugee virtue does not erase those acts. The vessel was not one of the thirty empty ships, and its bell supplies no reliable fleet count.
+- **Open:** port and vessel, original bell number and later overmark, complete crew and passenger list, relationships and crimes, archive bundle and forged additions, first Sestaran landing, who continued toward the mountains, hull's later service, bell's route inland, genuine land claims, deaths, sainthood claims, and ordinary descendants.
+- **Source / sensitivity restriction:** refugee, voyage, prisoner-road, and sea-company grammars must preserve class, disability, age, family, crew labor, host-port agency, and the difference between desertion, criminality, survival, and betrayal. Children cannot exist merely to prove adult goodness. The company may witness, fear, profit from, misremember, or be blamed for the Thirty Sisters but cannot explain, crew, number, summon, insure, or resolve them.
+- **Review disposition:** `retain` — preserve the stolen crewed escape, mixed refugee company, narrow muster-bell office, incomplete archive, Sestaran landing, mountain afterlife, and later Thirty-Sisters accretion while rejecting a universal truth bell or any solution to the Weird. All people, vessel, ports, archive claims, bell provenance, later journeys, saint claims, and endings remain provisional.
 
 ### B4-02 — The Six at the Cinder Inn
 
-- **Lane / scale / carrier:** human; principal ascending company; three rival tables, early supply notes, songs, and contradictory companion rolls.
-- **Era / region / culture:** 905–c. 970 AR; refugee mountains, Veridun, Caleran, and occupied heartland; mixed Atherian, Covenant-subject, Vortharan, monastic, and displaced provincial.
-- **Humble origin:** six strangers share the last usable room of a burned inn and cooperate to recover food, medicine, boots, and a missing child.
-- **Scriptural pattern:** David's fugitives becoming a royal company; Maccabean resistance becoming a state; Abigail preventing bloodguilt; Joab as indispensable commander unfit for peace.
-- **Comparative grammar:** outlaw-to-founder ascent, broken fellowship, and hero corrected after victory.
-- **Historical pressure:** mountain survival, Caedros I's rise, reconquest, occupation-born communities, land return, and imperial memory.
-- **World Egg torque:** repeated company stories generate distinct accretions around each member—saintly testimony, office-mantle, outlaw persona, hostile Mask, and possible Egg White anchor—without merging their human souls.
-- **Continuity / power:** six human souls during life; all later continuities classified individually.
-- **1360 AR traces:** three claimed tables; a missing sixth setting in some rites; an outlaw road honoring the member omitted by court chronicles; an unresolved voice in an Egg White refuge.
-- **Competing interpretations:** imperial founding saints, self-serving warlords, mixed resistance cell, or later invention joining unrelated founders.
-- **Authorially known:** a small refugee fellowship existed and intersected Caedros before the imperial project was inevitable; it did not cause every victory.
-- **Open:** exact membership, which member became emperor or merely attached to Caedros's legend, who rejected restoration, and whether the Egg White speaker is person, residue, office, or copy.
-- **Sensitivity:** occupation populations retain real claims; Covenant origin does not determine loyalty or guilt.
-- **Promotion:** unreviewed.
+- **Lane / scale / carrier:** human, memory, institution, and possible later sacred reception; existing principal ascending company; three rival tables, a burned-inn account, early supply and refuge notes, contradictory companion rolls, outlaw songs, court Lives, and claims about one Egg White voice.
+- **Era / region / culture:** historical core begins in the refugee winter of 905–906 AR; company careers may cross the Mountain Rebellion, 922 coronation, Burning Banners, and Caleran campaign to 957 without making every later tale contemporary. Refuge highlands, Veridun, Virelos, occupied districts, Caleran, and particular return roads; displaced Atherians, existing highlanders, Covenant subjects or occupation-born people, Vortharan associates, clergy, camp workers, and mixed households.
+- **Humble origin:** six people with incompatible loyalties share the last weatherproof room of a burned roadside inn and cooperate first to recover stolen food, medicine, boots, and one missing child before exposure kills the household sheltering them. “Six,” the formal company roll, and even the Cinder Inn title may arise only after several temporary helpers have already come and gone.
+- **Scriptural pattern:** David's overlooked shepherd, fugitives, morally mixed company, kingship, family failures, and refusal to seize the crown; Abigail preventing bloodguilt and Joab embodying the commander indispensable in war but dangerous in peace; First and Second Maccabees on resistance becoming succession government and generating rival sacred histories. Acts and early saint reception add distributed gifts, public repentance, holy and compromised companions, divergent Lives, and the rule that proximity to sanctity never guarantees holiness.
+- **Comparative grammar:** outlaw-to-founder ascent, accidental company, recovered-child errand, broken fellowship, hero corrected after victory, companion unsuitable for peace, member who goes home, false final adventure, and later institutions distributing one generation's deeds into six cleaner archetypes.
+- **Historical pressure:** refugee survival, highland hosts bearing imperial displacement, Caedros I's service-based rise, monastery and village resistance, amnesty, collaboration and coercion under occupation, 922 state formation, return property, surrendered garrisons, the Burning Banners, Caleran's recovery, and the temptation to convert a coalition into one dynasty's inevitable sacred prehistory. In later office, one company ruler uses power to take or retain an intimate partner under coercive conditions and arranges the death of a loyal subordinate who obstructs concealment. A company commander murders surrendered rivals as a precaution. Those acts fracture households and help generate a feud and civil conflict that outlive the original fellowship.
+- **World Egg torque:** later memory attaches different continuities to different members without making a sixfold soul. One tradition may preserve genuine saintly recognition of the same redeemed `human-soul`; another may preserve an imperial or military `infrastructure-office`; an outlaw persona or enemy caricature may become `residue` or a distinct legend-pattern; a hostile Idol Mask can wear a member's public face without being that person; and an alleged Egg White speaker may be a bodily survivor, manifested saint under commission, Patron-role bearer, copied person, residue, office, or fraud. Each claim requires its own evidence and none follows from the company roll.
+- **Continuity / power:** all historical members and helpers remain distinct `human-soul` persons. Crown, command, office, saint, relic, Mask, legend, Patron, bodily Egg White survival, and constructed copy are separate classifications. A company feast, six settings, shared hymn, or later common title cannot merge souls or distribute one member's judgement across the others.
+- **1360 AR traces:** three tables possess plausible but mutually incompatible provenance; some coronation or veterans' customs leave a sixth place empty; an outlaw road honors a companion removed from court recensions; a monastery preserves supply notes naming helpers absent from every six-person roll; and one Egg White refuge answers in a voice claimed by two rival members without establishing what continuity speaks.
+- **Competing interpretations:** six imperial founding saints; self-serving warlords; a mixed refugee cell later cleansed of Covenant and occupation ties; one ruler and five retainers; Caedros I's intimate company; several resistance groups joined by court epic; or six ordinary survivors onto whom later offices and cults were projected.
+- **Authorially known:** a small historical fellowship began around one burned inn and crossed Caedros I's life before the imperial project was inevitable. It helped at several bounded pressure points and changed through arrivals, departures, betrayal, reconciliation, office, bloodguilt and ordinary fatigue. The intimate abuse of office, arranged killing, murder of surrendered rivals and ensuing household feud are real acts of particular later members, although identities and sequence remain open. No saintly companion, imperial achievement or later repentance transfers or dissolves that guilt.
+- **Open:** original headcount and later roll; every name, gender, culture, faith, class, family, occupation, crime, relationship, and loyalty; the missing child and sheltering household; Caedros's precise place; which members accepted office, rejected restoration, became wealthy, were erased, went home, betrayed friends, repented, were recognized as saints, or died unknown; table provenance; and the identity and truthfulness of the Egg White speaker.
+- **Source / sensitivity restriction:** Davidic, Maccabean, Acts, saint-company, saga, and ascending-adventurer grammars may shape trajectory but not supply a renamed cast, fixed six outcomes, ethnic roles, or sacred dynasty. Occupation-born families, coerced collaborators, surrendered soldiers, Covenant-origin residents, highland hosts, women, children, laborers, and refugees retain their own claims and agency. A saintly member cannot sanctify the reconquest wholesale; a guilty member cannot damn the company; repentance cannot erase victims; and an empire may remember real heroism while lying about ownership and inevitability.
+- **Review disposition:** `retain` — preserve the Cinder Inn beginning, principal ascending company, Caedros intersection, morally mixed membership, changing fellowship, rival tables and rolls, separate later continuities, erased companion, ordinary survivor, and unresolved Egg White claim while leaving every personal identity and ultimate fate open. The company remains one human thread through mass history, not the cause of the age.
 
 ### B4-03 — The Deed in the Bread Jar
 
-- **Lane / scale / carrier:** institution and trace; property document sealed in a household vessel.
-- **Era / region / culture:** 905–1052 AR; refugee and occupied heartland families.
-- **Humble origin:** a fleeing household wraps its land deed around yeast starter because the bread jar is the only thing soldiers allow an old woman to carry.
-- **Scriptural pattern:** Jeremiah buying land during siege; Baruch preserving legal testimony.
-- **Comparative grammar:** exile-return and mundane relic.
-- **Historical pressure:** return charters, occupation settlement, and competing inheritance.
-- **World Egg torque:** generations of feeding households give the jar enough metaphysical mass to witness continuity of care, not exclusive ownership.
-- **Continuity / power:** object memory and human legal claims; no ancestral soul in the jar.
-- **1360 AR traces:** the court still receives bread baked from alleged starter when hearing return claims.
-- **Competing interpretations:** perfect title proof, sentimental custom, occupier inclusion rite, or fraudulent peasant weapon.
-- **Authorially known:** the jar witnesses continued household identity but cannot settle all land rights.
-- **Open:** original parcel and authenticity of present starter.
-- **Source / sensitivity restriction:** deed, jar, and household-continuity patterns cannot erase later good-faith possession, occupation-born families, restitution duties, or competing registers.
-- **Promotion:** unreviewed.
+- **Lane / scale / carrier:** human household, institution, and trace; local return-case seed; a property deed, bread jar, living starter tradition, recipe drift, witness loaves, copied registers, and contradictory custody histories.
+- **Era / region / culture:** flight begins in 905 AR; refuge, occupation, return, and litigation extend through the Long Reconquest and into 1360; one heartland parcel and the refugee, occupation-born, resettled, married-in, tenant, and returning households connected to it.
+- **Humble origin:** soldiers or evacuation officers permit an elderly household manager to carry one food vessel. She wraps a deed, rent notes, names, or boundary sketch around the dry inner wall and preserves starter or grain culture because legal paper and tomorrow's bread must fit in the same jar.
+- **Scriptural pattern:** Jeremiah purchasing land during siege and preserving deeds as witness to return; Baruch's documentary custody, exile memory, confession, and hope without guaranteed political restoration. Household bread, widows' material agency, and New Testament table communities add survival and shared obligation without making food a sacrament by narrative default.
+- **Comparative grammar:** exile-return, mundane relic, domestic archive, contested inheritance, ordinary keeper outlasting rulers, and an object whose strongest testimony concerns use and care rather than sovereign title.
+- **Historical pressure:** Fall and refugee flight, occupation redistribution, garrison and transplanted households, mixed marriages, abandoned and cultivated land, return charters, duplicate registers, tenant improvement, imperial restoration, and courts pressured to transform moral tragedy into one clean chain of ownership.
+- **World Egg torque:** repeated feeding, naming, repair, and witnessed transfer give the jar and procedure enough metaphysical mass to preserve bounded correspondences: continuity of a household practice, some names present at particular bakings, and association between the old deed and a line of custody. It cannot identify a soul, prove biological descent, authenticate every copied deed, establish that starter remained chemically unchanged, or decide exclusive land ownership. A court must still weigh dispossession, good-faith possession, coerced transfer, improvement, kinship, tenancy, occupation-born rights, restitution, and remedy.
+- **Continuity / power:** every keeper, eater, heir, tenant, occupier, returnee, and claimant remains a distinct `human-soul`; jar, deed, starter, recipe, and court custom are material objects or bounded `infrastructure-office` and `residue`; no ancestor, household soul, saint, Menhir, or land-spirit inhabits the vessel by default.
+- **1360 AR traces:** some return courts receive an unsalted witness loaf beside documentary evidence. Rival families preserve starters and jars with plausible but incompatible custody, while professional forgers can age paper more easily than reproduce remembered recipe changes across independent household books. One court keeps the loaf custom while formally denying that it has evidentiary weight.
+- **Competing interpretations:** perfect title proof; sentimental refugee ceremony; evidence of continuous care; occupier inclusion rite; tenant weapon against landlords; forged peasant genealogy; saintly widow's vessel; or later court practice projected onto an ordinary jar.
+- **Authorially known:** one fleeing household used a food vessel to preserve both subsistence and legal memory. Some relation among a genuine early deed, jar, and household practice existed. The accumulated witness can support continuity of custody and care but cannot settle all title, descent, compensation, or present possession.
+- **Open:** locality and parcel, keeper and household, exact documents and food culture, who was permitted to carry it and why, occupation history, marriages and adoptions, later residence, authentic vessel and starter, copied or forged deeds, current litigants, and just remedy.
+- **Source / sensitivity restriction:** Jeremiah, Baruch, household, bread, exile, and return grammars cannot turn one deed into providential ethnic title or erase later good-faith possession, occupation-born families, tenants, improvements, mixed households, restitution duties, and competing registers. Domestic labor is historical agency, not picturesque proof. Bread may witness care and relation without manufacturing kinship, sainthood, land-personhood, or divine judgement.
+- **Review disposition:** `retain` — preserve the old keeper, deed-and-starter jar, witness loaf, household continuity, and difficult return litigation while sharply limiting the object's proof. Place, people, parcel, documents, material authenticity, current claimants, and remedy remain provisional.
 
 ## Reconquest and Great Split
 
+### Reconquest and Great Split Comparative Ruling
+
+| Seed | Distinct function | Relationship boundary |
+|---|---|---|
+| **The Last Common Road** | friendships, correspondence, shared hospitality, and divergent saint or office receptions crossing institutional rupture | No missed letter, courier company, saint, or final page causes or could have prevented the Great Split by itself. |
+| **The Lamp That Answered Twice** | one bounded White-Flame object whose separate responses expose particular neglected damage | It creates no neutral third church and decides neither universal primacy nor the Kindling Question. |
+| **The Two Weeping Advocates** | two dependent Envy Masks feeding on opposed replacement fantasies after the Split | They are not historical widows, saints, church souls, Brides, Regnants, or the cause of the Bells of the Split. |
+
 ### B4-04 — The Last Common Road
 
-- **Lane / scale / carrier:** human and memory; signature cross-confessional company; letters, unsigned rule, and wayhouse customs.
-- **Era / region / culture:** c. 980–1020 AR; Veridun, Eclessia, Virelia, Velian territory, and Sestaran routes.
-- **Humble origin:** couriers, minor clergy, guards, and translators are hired separately to carry routine jurisdictional correspondence.
-- **Scriptural pattern:** divided kingdom, rival sanctuaries, and Kings/Chronicles disagreement.
-- **Comparative grammar:** broken fellowship and performed history.
-- **Historical pressure:** Lamp Controversy, Two Emperors, and Great Split.
-- **World Egg torque:** their common wayhouse rule creates a narrow route of shared hospitality that remains functional across the schism but validates neither hierarchy's universal claims.
-- **Continuity / power:** human souls; route custom with accumulated mass; possible counterfeit versions.
-- **1360 AR traces:** both churches possess the rule without its final page; border inns keep customs neither hierarchy admits sharing.
-- **Competing interpretations:** failed peacemakers, spies, first schismatics, or retrospective parable.
-- **Authorially known:** friendships crossed the institutional rupture; no missed letter caused the Split.
-- **Open:** membership, final page, and whether any member deliberately hardened the break.
-- **Source / sensitivity restriction:** broken-fellowship material humanizes the schism without reducing either church's historical and theological case to personality, conspiracy, or failed delivery.
-- **Promotion:** unreviewed.
+- **Lane / scale / carrier:** human, memory, institution, and possible saint reception; existing signature cross-confessional company; routine letters, travel accounts, an unsigned common rule, visitor books, copied prayers, and wayhouse customs surviving under hostile names.
+- **Era / region / culture:** historical company develops c. 987–1025 AR across the First Breaking, Adalmar's coronation, Thousand Lamps, Great Split, and immediate aftermath; Veridun, Caleran, Eclessian courts, Virelia, Velian territory, Sestaran routes, and particular border houses. Later claims extending the same membership to 1052 require separate proof.
+- **Humble origin:** couriers, minor clergy, guards, translators, animal handlers, cooks, and one or more household hosts are separately hired to carry routine jurisdictional correspondence, replace damaged lamp fittings, escort an unpopular visitor, or settle expenses at neglected wayhouses. They become companions because institutions repeatedly fail to provision the people carrying their words.
+- **Scriptural pattern:** divided kingdom, rival sanctuaries, Kings and Chronicles preserving selective histories, and prophetic witnesses who refuse court consensus. New Testament councils, epistolary roads, migrant hosts, and common early saints provide a post-Redeemer grammar for real communion, disagreement, correction, and later divergent reception without making institutional unity easy or optional.
+- **Comparative grammar:** broken fellowship, letter-road, performed history, hospitality rule, friends becoming polemicists, minor servants present at great rupture, and a shared text whose missing ending becomes more politically useful than any recovered page.
+- **Historical pressure:** Lamp Controversy, icon and lamp breaking, Ioan's exile, rival imperial inheritance, Adalmar's 1002 coronation, Anthe's regency, primacy and trusteeship claims, the 1015 anathemas, mixed border parishes, relic passports, marriages, livelihoods, and the later need of both churches to portray separation as clean and inevitable. Clergy and couriers are imprisoned or beaten, mobs seize shrines, bones and relics are thrown into roads or refuse, and at least one road host is killed by people claiming to defend the communion whose travelers he had sheltered.
+- **World Egg torque:** repeated hospitality, route maintenance, truthful handover, and reciprocal burial duties impress a narrow `infrastructure-office` into several wayhouses and recensions of the common rule. The office recognizes named duties at a particular house—food, rest, message custody, safe departure, and care for the dead—rather than doctrine or universal jurisdiction. It can remain functional across the schism because people continue performing its terms, not because the road stands above the churches or reconciles the Kindling Question.
+- **Continuity / power:** every companion, host, polemicist, possible saint, and later claimant remains a distinct `human-soul`; each wayhouse rule may carry local `infrastructure-office`; letters and friendship memories carry human testimony and `residue`; false final pages, Masks, Patron imitations, and relic claims require separate classification. One early saint received differently by two churches remains one soul.
+- **1360 AR traces:** both churches preserve related unsigned rules without an agreed final page; border inns maintain parallel names for the same guest customs; families possess letters whose greetings were scraped from later copies; and one member may be commemorated under incompatible titles or not recognized by both communions. Several forged endings conveniently settle primacy in opposite directions.
+- **Competing interpretations:** failed peacemakers, spies, first schismatics, naive servants, a secret common church, retrospective reconciliation parable, companions who chose rival obediences honestly, or several courier circles compressed into one road.
+- **Authorially known:** real friendships, obligations and at least one working wayhouse rule crossed the institutional rupture. Imprisonment, mob violence, desecration and killing also crossed it, and some members became victims, informers or participants. No missed letter, hostile inn, betrayed courier, saint or missing page caused the Split; acknowledging violence does not erase either church's real theological case.
+- **Open:** membership and helpers, faiths and later obediences, houses and route, letters and forged layers, exact common duties, relationship to Ioan, Anthe, Hubald, Makarios, and lesser officials, deliberate betrayals, marriages, deaths, saint recognition, final page, and whether any companion later repudiated the shared rule.
+- **Source / sensitivity restriction:** divided-kingdom, council, epistolary, saint-reception, and broken-fellowship grammars humanize schism without reducing it to personality, conspiracy, romantic friendship, failed delivery, or moral equivalence. Neither hierarchy is wholly innocent, neither is merely an Idol front, and a common early saint does not become two souls. No company, route, text, relic, or manifestation rings or explains [[The Weird of History — The Unexplained Register#The Bells of the Split 1015 AR|the Bells of the Split]].
+- **Review disposition:** `retain` — preserve the minor courier-and-host company, common wayhouse rule, friendships crossing rupture, divergent receptions, missing final page, and later forged endings while fixing that neither company nor delivery caused the Split. All people, route, texts, betrayals, saint claims, and endings remain provisional.
 
 ### B4-05 — The Lamp That Answered Twice
 
-- **Lane / scale / carrier:** relic and institution; narrow proof; divided lamp assembly.
-- **Era / region / culture:** after 1015 AR; both churches.
-- **Humble origin:** a wayhouse lamp is repaired with fittings blessed under different jurisdictions.
-- **Scriptural pattern:** Ark-like narrow authentication and Gideon's dangerous demand for signs.
-- **Comparative grammar:** relic afterlife and divided object.
-- **Historical pressure:** each side's attempt to make sacramental phenomena settle universal primacy.
-- **World Egg torque:** the lamp kindles under both rites but illuminates different damage in the room. It confirms two valid commissions without proving the disputed theory connecting them.
-- **Continuity / power:** object anchor; no person or neutral third church.
-- **1360 AR traces:** the halves are now held apart, each institution claiming the other stole the component needed for a complete test.
-- **Competing interpretations:** proof of eastern commission, proof of western correction, a deliberately divided instrument, or two later objects joined by polemic.
-- **Authorially known:** both responses were genuine and bounded.
-- **Open:** current functionality and original ownership.
-- **Source / sensitivity restriction:** Ark-like relic behaviour enforces the narrow-proof rule. A response validates only the tested commission and cannot decide the Great Split wholesale.
-- **Promotion:** unreviewed.
+- **Lane / scale / carrier:** sacred response, object, and institution; narrow proof rather than sovereign relic; a repaired wayhouse lamp, mixed fittings, two test dossiers, custody seals, repair accounts, and later divided assemblies.
+- **Era / region / culture:** first authenticated responses after the 1015 Split and before or around the 1052 Rekindling; one border wayhouse used by travelers under both Eclessian and Thalmyric jurisdictions. Its identification with a Last Common Road house remains plausible but unselected.
+- **Humble origin:** cooks, hosts, travelers, or minor clergy repair an ordinary smoke-damaged lamp from whatever sound pieces remain, including fittings prepared or blessed under different jurisdictions. It is retained because a working night lamp matters more than proving who owns its theology.
+- **Scriptural pattern:** the Ark as dangerous narrow authentication of actual custody and commission rather than national innocence; Gideon's demand for repeated signs as both petition and warning; lamps, tested gifts, and the New Testament refusal to make one gift the whole body. Post-schism reception of common saints adds the rule that one holy source can be served and misinterpreted by rival institutions.
+- **Comparative grammar:** divided object, relic afterlife, humble implement becoming contested proof, dangerous test, two custodians, and miracle whose small practical answer frustrates every universal question asked of it.
+- **Historical pressure:** the Great Split, Kindling Question, dual relic and saint registries, border shelter, each church's attempt to turn functioning sacred phenomena into universal primacy, and ordinary hosts forced to keep people alive while hierarchies dispute which blessing counts.
+- **World Egg torque:** on two separately documented occasions the lamp kindles through genuine White-Flame response during concrete acts of shelter, repair, truthful witness, or protection under different jurisdictions. Between them, an official deliberately tests the lamp as a weapon against bound opponents; the assembly burns him or a willing assistant to death and leaves another handler maimed when they continue after the first warning. The bounded judgement concerns that profanation, not the official's church, victims' innocence, universal primacy, or the Kindling Question.
+- **Continuity / power:** every maker, user, saint invoked, witness, and claimant remains a distinct `human-soul`; the lamp is a created object capable of receiving bounded White-Flame action and perhaps local `infrastructure-office`, not a soul, saint fragment, neutral church, captive grace, Menhir, Patron, or Idol. Components do not divide a saint or the Flame.
+- **1360 AR traces:** the principal assemblies are held apart under rival custody; each institution says the other possesses a component needed for a complete retest, while surviving repair accounts imply the lamp functioned before either formal test. Border households use replicas as reminders to inspect the room before debating the flame.
+- **Competing interpretations:** proof of Thalmyric theophany, proof of Eclessian testable grace, a shared early saint's intervention, two objects joined by polemic, one deliberately divided instrument, ordinary fire magnified by politics, or a third-church relic suppressed by both.
+- **Authorially known:** two genuine bounded responses occurred through one historical lamp assembly or its securely continuous repair lineage. Neither response authenticated universal primacy, institutional infallibility, a dynasty, the whole common rule, or a neutral third church. The practical need answered matters more than the jurisdiction that later claimed it.
+- **Open:** wayhouse and relationship to B4-04, makers and repairers, saint invocation if any, exact dates and needs, assembly continuity, test procedures and political redactions, current components, whether any present reconstruction would respond, and rightful custody.
+- **Source / sensitivity restriction:** Ark, fleece, lamp, relic, and shared-saint grammars enforce narrow proof. Repeated response never licenses coercive testing, and failure to kindle does not condemn a person or community. The lamp cannot settle the Kindling Question, Great Split, imperial inheritance, apostolic primacy, Caedros I's sainthood, or the truth of every later miracle claim.
+- **Review disposition:** `retain` — preserve the humble repaired lamp, two genuine practical responses, divided custody, rival test dossiers, and narrow-proof frustration while rejecting two fires, automatic ritual efficacy, a neutral third church, or wholesale adjudication. Place, repair history, responses, components, saint claims, and current function remain provisional.
 
 ### B4-06 — The Two Weeping Advocates
 
-- **Lane / scale / carrier:** Idol pressure; local cycle; paired polemical personae in sermons and dreams.
-- **Era / region / culture:** Great Split and aftermath; Eclessian and Thalmyric.
-- **Humble origin:** each church circulates a lament spoken by an imaginary widow representing the wounded Church.
-- **Scriptural pattern:** personified grieving city in Lamentations and Baruch.
-- **Comparative grammar:** cultural Mask rivalry and performed history.
-- **Historical pressure:** institutionalizing grievance after schism.
-- **World Egg torque:** Envy cultivates two genuine Masks from the opposed personifications. They hate each other, each insists the other is counterfeit, and both feed the same replacement economy without being the Idol's Regnant.
-- **Continuity / power:** dependent Masks potentially moving toward Archmask autonomy; not human widows or saints.
-- **1360 AR traces:** identical dream gestures occur in mutually hostile convent records; Borrowed Saint operations reuse both iconographies.
-- **Competing interpretations:** two prophetic widows, rival church spirits, one divided saint, Envy's daughters, or polemical allegories that later became active.
-- **Authorially known:** the Masks are real and distinct; they did not ring [[The Weird of History — The Unexplained Register|the Bells of the Split]].
-- **Open:** present autonomy and original sermon authors.
-- **Source / sensitivity restriction:** personified-city and grieving-woman imagery is not a warrant to turn either Church, the Bride, or a historical woman into an Idol Mask or collective soul.
-- **Promotion:** unreviewed.
+- **Lane / scale / carrier:** Idol pressure, memory, and institution; paired dependent Mask cycle; anonymous laments, sermon personifications, copied widow images, hostile marginalia, convent dream records, and Borrowed-Saint adaptations.
+- **Era / region / culture:** rhetorical roots in the Great Split and immediate aftermath, with separate Eclessian and Thalmyric feeding architectures developing across later centuries; particular scriptoria, preaching circuits, charitable houses, and polemical offices rather than either church as a whole.
+- **Humble origin:** writers on each side compose a lament in the voice of an imaginary bereaved advocate or widow who personifies the wounded communion, displaced clergy, broken households, or lost inheritance. Later editors sharpen each figure from one grief-bearing voice into the only faithful mother whose restoration requires the rival's humiliation, disappearance, or replacement.
+- **Scriptural pattern:** Jerusalem and other grieving cities personified in Lamentations and Baruch, prophetic lawsuit, rival sanctuaries, and warnings against rejoicing over another's ruin. Revelation's women and cities remain apocalyptic moral imagery rather than a code naming a Mask.
+- **Comparative grammar:** performed history, opposed personifications, cultural Mask rivalry, hostile double, false saint reception, grievance becoming office, and two narrators whose biographies grow more alike as their followers insist they share nothing.
+- **Historical pressure:** schism grief rooted in actual siege and riot: starved districts, raped captives and pilgrims, children dead during flight or confinement, displaced parishes, broken marriages, confiscated houses, rival imperial claims, polemical preaching, women and widows used as institutional symbols while real women lose voice, and the recurrent claim that one communion can be healed only by erasing the other's good.
+- **World Egg torque:** Envy extends two distinct dependent Masks through the opposed personifications once repeated chosen comparison and replacement become reliable architecture. Each Advocate speaks genuine local biography supplied by its host tradition, hates the other as counterfeit, and treats the other's remaining good as theft. They feed the same Envy Throne without sharing a body, soul, Regnant, or cooperative mind. Similar gestures arise because the feeding grammar converges, not because one historical widow split in two.
+- **Continuity / power:** every author, widow, nun, preacher, dreamer, saint, and harmed household remains a distinct `human-soul`; each Advocate is a dependent Envy `idol-pattern`, not a church soul, Bride, saint, apparition, Archmask, Regnant, or part of the human writer. Sermon office, copied image, and institutional grievance may carry `infrastructure-office` and `residue`. Autonomy is not established merely by dreams, speech, or cross-century recurrence.
+- **1360 AR traces:** mutually hostile convent and sermon archives preserve the same hand-to-empty-breast gesture, reversed colors, and mirrored accusations; Borrowed-Saint cells reuse both iconographies; each church contains investigators who suspect its own figure while publicly exposing only the rival's. Real widow charities have inherited names associated with the cycle and resent the implication that their work feeds it.
+- **Competing interpretations:** two prophetic widows; rival guardian spirits; one early saint divided by schism; the grieving Church appearing twice; Envy's daughters; later forgeries; one traveling polemic translated badly; or human allegories that eventually became active Masks.
+- **Authorially known:** two real and distinct dependent Envy Masks formed around separate polemical architectures. The sieges, rape, starvation and child deaths in their laments happened to particular people; the Masks exploit and redistribute that grief but did not cause it and do not embody either church, historical widow, common saint, or the Bride.
+- **Open:** names and local titles, first texts and authors, sites and feeding practices, victims and beneficiaries, exact relation to Borrowed Saints, whether one ever used a genuine relic or bound soul as anchor, present manifestations, and whether either later acquires independent continuity.
+- **Source / sensitivity restriction:** personified-city, widow, Bride, lament, and church-mother imagery cannot turn a historical woman, suffering community, holy Church, or collective memory into an Idol or corporate soul. Envy arises from chosen replacement and diminishment rather than grief, disagreement, institutional criticism, or desire for justice. Female sorrow cannot be used as decorative evil, and exposing a Mask cannot dismiss the human grievance it exploited.
+- **Review disposition:** `retain` — preserve the two opposed dependent Envy Masks, convergent gestures, real grief, rival sermon architectures, and Borrowed-Saint reuse while rejecting church souls, divided saint, Archmask promotion, Regnant status, or causation of the Split and Bells. All titles, texts, anchors, victims, manifestations, and future autonomy remain provisional.
 
 ## High Noon and Qarath
 
+### High Noon and Qarath Comparative Ruling
+
+| Seed | Distinct function | Relationship boundary |
+|---|---|---|
+| **The Company of the Ransomed Standard** | the period's new frontier-adventure company, built from body recovery, ransom, truce work, compromise, and changing loyalties | It crosses several wars but does not become an immortal guild, neutral sovereign, secret peace order, or cause of Qarath. |
+| **The Woman Who Returned the Keys** | one decisive civic intervention by a person outside permanent office, preserving Judith's infiltration, personal killing, beheading and return | The load-bearing act remains close to Scripture while culture, politics, evidence, metaphysics and reception change; it creates no hidden queen, dynasty, universal saint, or perfect city. |
+| **The Poor Engineer of Qarath's Shadow** | anonymous maintenance labor saving one lesser city while great-war histories look elsewhere | His notation preserves a repair procedure, not a miracle, Patron, saint, or secret explanation for the campaign. |
+
 ### B4-07 — The Company of the Ransomed Standard
 
-- **Lane / scale / carrier:** human; new signature company; patched neutral banner, ransom lists, and frontier songs.
-- **Era / region / culture:** c. 1135–1225 AR; Thalmyric–Covenant frontier, Velian States, and adjacent trade routes.
-- **Humble origin:** prisoners, camp servants, a translator, a junior physician, and two enemy soldiers are ordered to recover bodies and unpaid ransoms from a battlefield after a truce.
-- **Scriptural pattern:** David's mixed fugitives, Tobit's burial journey, Naaman's cross-enemy healing, and Maccabean resistance succession.
-- **Comparative grammar:** accidental ascending company, wandering frontier cycle, and broken fellowship.
-- **Historical pressure:** Caedros III's high noon, frontier professionalism, failed wars, hostage diplomacy, Qarath's defeat, and the transition from confidence to decline.
-- **World Egg torque:** the patched standard carries a bounded truce-law only while borne by someone with a genuine claim from each side. Later states repeatedly try to nationalize a relic that ceases working under sole ownership.
-- **Continuity / power:** human souls; oath-object; no neutral supernatural sovereignty.
-- **1360 AR traces:** ransom brokers display replicas; one true strip may survive in Zanthir; both empires list different members as traitors and heroes.
-- **Competing interpretations:** humanitarian company, spies, mercenaries, failed crusaders, or founders of the ransom profession.
-- **Authorially known:** the company operated across several decades through changing membership and did not determine Qarath's outcome.
-- **Open:** original six, the member who became a court exile, and whether the final bearer surrendered the relic voluntarily.
-- **Sensitivity:** neither frontier civilization is reduced to victim or aggressor; mixed communities possess their own agency.
-- **Promotion:** unreviewed.
+- **Lane / scale / carrier:** human, institution, and memory; Block IV's new High Noon signature company; patched truce standard, ransom and burial lists, prisoner letters, escort receipts, medical notes, songs, and hostile court prosopographies.
+- **Era / region / culture:** historical core forms c. 1185–1195 AR and remains active through or shortly after Qarath in 1214; earlier Caedros III adventures and post-1225 stories are likely precursors or accretions unless individually established. Particular Thalmyric–Covenant fronts, Velian States, Zanthir, exchange towns, Sestaran broker routes, and mixed households affected by both powers.
+- **Humble origin:** prisoners, camp servants, a translator, a junior physician or surgeon, a ransom clerk, body-workers, and soldiers or camp followers claimed by opposing commands are ordered after a minor truce to identify bodies, recover pledged persons, and reconcile unpaid ransoms from ground neither army wants to enter. They find hostages mutilated to alter value, pledged prisoners executed after payment arrives late, and corpses displayed to provoke reprisal. On an early mission, company members answer one such killing by handing suspected accomplices to a commander they know will execute them.
+- **Scriptural pattern:** David's fugitives and morally mixed service company; Tobit's burial piety and household debt road; Naaman's healing across enemy lines and refusal to sell sacred action; Maccabean resistance, succession, negotiation, and rival histories. New Testament prisoner, physician, soldier, host, and messenger networks reinforce that mercy may operate through compromised institutions without making an army or empire holy.
+- **Comparative grammar:** accidental ascending company, ransom and recovery job, wandering frontier cycle, changing membership, dangerous hospitality, reluctant enemy cooperation, broken fellowship, court exile, member who becomes respectable, and final mission falsely rewritten as a national victory.
+- **Historical pressure:** Suhrab's legal and military apex, Thalmyric confidence after Caedros III, hostage diplomacy, prisoner markets, body exchange, Velian and Zanthiri intermediaries, professional ransom law, mixed frontier households, intelligence work, failed wars, Qarath's defeat, Markellos's captivity and brutal return, and the change from High Noon confidence to civil fracture.
+- **World Egg torque:** the patched standard can carry a bounded truce `infrastructure-office` only for the named recovery, route, duration, and parties whose competent claimants witness it. “A genuine claim from each side” means standing in that instrument—kin, creditor, custodian, unit, communal court, or authorized representative—not ethnic essence. Under sole national ownership the cloth does not cease from moral offence; the enacted conditions simply no longer exist. It can restrain named parties and their offices from declared attack while borne correctly, but cannot pacify strangers, authenticate a border, suspend every contract, or create neutral sovereignty.
+- **Continuity / power:** every member, prisoner, corpse, claimant, saint, and later imitator remains a distinct `human-soul`; the truce and standard may carry bounded `infrastructure-office`; battlefield grief and songs carry `residue`; any Patron persona, Mask, relic response, or manifested saint requires separate classification. Changing membership never transfers one soul, guilt, sanctity, or office wholesale to a successor.
+- **1360 AR traces:** ransom brokers and burial companies display replicas; opposing military lists name different members as traitors, spies, saints, surgeons, deserters, or heroes; one plausible original strip survives under divided custody in Zanthir; and a neutral port archive preserves receipts proving that celebrated rescues were sometimes paid work. Several frontier families owe their existence to exchanges each empire publicly condemns.
+- **Competing interpretations:** humanitarian fellowship, respectable ransom company, spies under a truce flag, mercenaries, failed crusaders, smugglers, traitors who prolonged war, founders of professional exchange law, or several companies compressed into one standard and roster.
+- **Authorially known:** one historical recovery company formed from people under opposed claims and worked through several conflicts with some membership change. It saved and returned people, recovered bodies, sometimes carried intelligence, accepted payment, failed ransoms and participated in at least one reprisal killing later Lives suppress. Mercy and culpability belong to particular acts and people rather than cancelling each other.
+- **Open:** original and later headcounts, names, genders, cultures, faiths, legal statuses, employers, relationships, first battlefield, claims represented in the standard, payments, deceptions, intelligence work, encounters with rulers, Qarath involvement, court exile, voluntary departures, final bearer and surrender, strip authenticity, saint or Patron claims, and every ending.
+- **Source / sensitivity restriction:** Davidic, Tobit, Naaman, Maccabean, prisoner, burial, and frontier-company sources supply structural pressures rather than a renamed fellowship. Neither civilization is permanently victim, aggressor, civilized party, or barbarian; Velian, Zanthiri, Jirahar, Sestaran, camp, enslaved, freed, occupation-born, and mixed communities remain agents rather than neutral scenery. Ransom can save life while financing captivity; burial can preserve dignity without purchasing judgement; and cross-enemy mercy cannot legitimate either war.
+- **Review disposition:** `retain` — preserve the recovery-job origin, mixed changing company, patched standard, bounded claimant-based truce office, ransom and burial ambiguity, hostile national memories, and passage through the High Noon–Qarath turn while rejecting an immortal guild, ethnic keys, neutral sovereignty, or causation of Qarath. All people, missions, standard terms, later claims, saint or Patron identities, and endings remain provisional.
 
 ### B4-08 — The Woman Who Returned the Keys
 
-- **Lane / scale / carrier:** human; local decisive figure; city keys and a private household inventory.
-- **Era / region / culture:** c. 1180–1220 AR; one besieged frontier city.
-- **Humble origin:** a wealthy widow rebukes civic leaders for announcing the date on which they will surrender, enters the enemy camp as a negotiator, and engineers the commander's removal.
-- **Scriptural pattern:** Judith.
-- **Comparative grammar:** hero outside office who refuses the crown.
-- **Historical pressure:** siege, civic panic, and later dynastic appropriation of victory.
-- **World Egg torque:** she returns the city keys and resumes household life; their later refusal to remain in royal hands becomes a narrow witness to surrendered authority, not proof of her hidden queenship.
-- **Continuity / power:** human soul; object mass; no automatic sainthood.
-- **1360 AR traces:** civic women carry replicas during a feast; a ruling house falsely claims descent.
-- **Competing interpretations:** liberator, assassin, contract lawyer, camp collaborator, saint, or composite heroine built from several sieges.
-- **Authorially known:** one woman performed the decisive intervention and rejected office.
-- **Open:** city, name, method, and supernatural aid.
-- **Source / sensitivity restriction:** Judith supplies a decisive woman outside permanent office, not her ethnic setting, signature sequence, or theological status. Change culture, method, political aftermath, and metaphysical mechanism.
-- **Promotion:** unreviewed.
+- **Lane / scale / carrier:** human, civic institution, and memory; one decisive local figure rather than another company; city keys, a household and warehouse inventory, enemy pay or ration evidence, council minutes, women's feast custom, and later dynastic genealogy.
+- **Era / region / culture:** one frontier siege c. 1180–1220 AR, probably during the instability between Caedros III's settlement and Qarath but not Qarath itself; exact Thalmyric, Covenant, Velian, Zanthiri, or mixed city and belligerents remain open.
+- **Humble origin:** a middle-aged widow, household factor, guild creditor, warehouse keeper, or former military quartermaster discovers that civic leaders have announced surrender while concealing stores, private escape places, or side agreements. She prepares through fasting, inventory and intelligence, enters the besieging camp under a calculated false appearance of defection, gains private access to its commander, kills and beheads him with her own hand, and returns carrying the head and the evidence needed to fracture his coalition.
+- **Scriptural pattern:** Judith's decisive intervention outside formal rule, courage amid civic despair, disciplined preparation, and return to ordinary life; Abigail's interruption of bloodguilt and Esther's use of access within hostile power. New Testament women patrons, household heads, widows, and witnesses keep material administration and public testimony central rather than reducing agency to beauty or exceptional violence.
+- **Comparative grammar:** hero outside office, siege audit, dangerous negotiation, trickster procurement, ruler exposed by his own coalition, civic victory appropriated by dynasty, and a liberator who returns the keys rather than accepting permanent command.
+- **Historical pressure:** siege starvation, civic faction, gendered access to household and market knowledge, garrison pay, ransom, merchant credit, divided loyalties, collaborator accusation, enemy coalition politics, and ruling houses eager to turn a civic woman's action into hereditary legitimacy.
+- **World Egg torque:** her inventory and testimony expose a material or contractual contradiction inside the besieging coalition—diverted pay, false supply totals, invalid hostage standing, concealed breach, or another researched failure—so the commander's death breaks rather than merely replaces his coalition. No miracle compels her deception, strike or escape. Afterward she returns the civic keys. Repeated witnessed return may create a narrow `infrastructure-office`, but the keys neither absolve the killing nor turn it into a reusable method of righteous assassination.
+- **Continuity / power:** the historical woman and every ally, victim, ruler, descendant, and possible saint remain distinct `human-soul` persons; keys and return rite may carry `infrastructure-office`; inventory and council records are fallible human evidence; later heroine, queen, saint, Mask, and Patron personae remain separate unless established. No city soul or hidden queenship exists in the keys.
+- **1360 AR traces:** civic women, warehouse workers, or widow guilds carry replica keys and read inventory fragments during a local feast; a ruling house claims descent despite contradictory household records; and the actual keys repeatedly reappear in municipal custody after rulers add them to coronation treasure. Political opponents call the feast collaborator propaganda.
+- **Competing interpretations:** liberator, negotiator, assassin by proxy, contract advocate, creditor protecting investments, camp collaborator, holy widow, guild invention, several siege women compressed together, or secret queen whose dynasty was stolen.
+- **Authorially known:** one historical woman outside permanent civic or military command infiltrated the enemy camp, personally killed and beheaded its commander, returned with the head, made the decisive intervention in one siege, and relinquished rather than retained the keys. Her courage, deception and killing are all real; the city's survival did not make its government innocent or its later wars righteous.
+- **Open:** city and date, identity and household, class and faith, marital history, allies, inventory, hidden civic arrangements, method of entering negotiation, commander's precise removal, deaths and reprisals, keys' original office and present custody, later public life, sainthood claim, and whether any bounded supernatural response ever occurred.
+- **Source / sensitivity restriction:** Judith supplies the load-bearing infiltration, deception, personal killing, beheading, civic deliverance and return; those acts must not be deleted merely to avoid a visible parallel. Ethnicity, exact beauty rhetoric, names, enemy identity, camp sequence, iconography and theological status do not transfer. Her authority also arises from particular work, property, relationships, courage and knowledge.
+- **Review disposition:** `retain` — preserve the decisive woman outside office, calculated infiltration, personal killing and beheading, siege intelligence, returned keys, civic feast, and false dynastic descent while changing the surrounding political and metaphysical axes and sharply bounding the key-office. City, woman, politics, saint claim, and aftermath remain provisional.
 
 ### B4-09 — The Poor Engineer of Qarath's Shadow
 
-- **Lane / scale / carrier:** human and memory; trace figure; marginal calculation in a siege manual.
-- **Era / region / culture:** near the Qarath crisis; Thalmyric or mixed frontier.
-- **Humble origin:** an impoverished repairman notices a water-pressure failure that would destroy a small city during a larger campaign.
-- **Scriptural pattern:** Ecclesiastes' poor wise man who saves a city and is forgotten.
-- **Comparative grammar:** forgotten savior.
-- **Historical pressure:** great-war histories erasing maintenance labor.
-- **World Egg torque:** the repair leaves no miracle, but later engineers unknowingly repeat his exact mark as a ward against structural resonance.
-- **Continuity / power:** human soul; craft tradition; no hidden Patron required.
-- **1360 AR traces:** the mark survives while the person's name does not.
-- **Competing interpretations:** anonymous laborer, disgraced court engineer, enemy prisoner, saint in disguise, or a later guild's invented ancestor.
-- **Authorially known:** the city survived through the repair.
-- **Open:** identity and why official chronicles credited a noble commander.
-- **Source / sensitivity restriction:** Ecclesiastes supplies the forgotten-poor-savior grammar. Poverty is neither automatic sanctity nor a device for denying the figure interiority, fault, or authorship.
-- **Promotion:** unreviewed.
+- **Lane / scale / carrier:** human, craft, and memory; trace figure; marginal pressure calculation, repair notch, copied siege-manual diagram, payroll omission, and later guild custom.
+- **Era / region / culture:** one lesser fortified town during the Qarath campaign or post-Qarath civil wars, c. 1205–1225 AR; Thalmyric, Covenant, Velian, Zanthiri, or mixed municipal setting chosen only at promotion. The town is not Qarath's Well and the repair does not explain the battle.
+- **Humble origin:** an impoverished cistern worker, millwright, pipe repairer, military laborer, enslaved specialist, apprentice, or dismissed engineer notices that emergency pumping, blocked vents, or a propagating Shell resonance will rupture the water system and destroy a crowded district while commanders focus on the larger campaign.
+- **Scriptural pattern:** Ecclesiastes' poor wise person who saves a small city and is forgotten; Sirach's honor for craftspeople and the practical knowledge by which communities stand. New Testament attention to overlooked workers and diverse gifts resists transferring credit to the office that merely commanded them.
+- **Comparative grammar:** forgotten savior, maintenance under siege, invisible labor, minor correction preventing catastrophe, hostile archive, and a technical sign surviving after institutional erasure of its maker.
+- **Historical pressure:** siege requisition, water scarcity, Shell-powered machinery, class and status exclusions from engineering offices, military secrecy, elite credit-taking, lost payrolls, and great-war histories that record commanders while treating laborers as replaceable material.
+- **World Egg torque:** the intervention is materially intelligible: a vent sequence, pressure diversion, sacrificial break, grounding notch, timing calculation, or hybrid repair interrupts the failure. The surviving mark is a compressed craft instruction that later engineers repeat because it works, not a sigil drawing power from the forgotten person's soul. Repeated correct use may contribute to a bounded waterworks `infrastructure-office`, but the mark alone is neither spell nor ward.
+- **Continuity / power:** the engineer remains one `human-soul`; drawing, mark, tool, manual, payroll, and craft office are material record or `infrastructure-office`; later residue, guild ancestor, saint claim, Patron imitation, or forged biography is distinct. No hidden saint, Menhir, warlock, or Patron is required for the repair to matter.
+- **1360 AR traces:** engineers cut or ink the same notch before pressure tests without agreeing on its origin; the official siege manual credits a noble commander whose private papers reveal he could not read the calculation; and one payroll gap or disciplinary note may preserve the maker's status without a name.
+- **Competing interpretations:** anonymous laborer, poor free engineer, enslaved specialist, enemy prisoner, disgraced court technician, woman excluded from guild record, saint in disguise, guild's invented ancestor, or several repairs compressed into one mark.
+- **Authorially known:** a particular overlooked person recognized and corrected a real failure, saving one town or district. The procedure, not a miracle, produced the immediate result. An official or institution received most surviving credit, and later users preserved the mark more faithfully than the life.
+- **Open:** town and date, identity, gender, culture, faith, status, training, fault and repair, collaborators, casualties, suppression, credited commander, later freedom or punishment, family, name fragment, saint claim, and whether the craft office accumulated any bounded response.
+- **Source / sensitivity restriction:** Ecclesiastes, Sirach, forgotten-worker, and maintenance grammars must give the figure interiority, collaborators, faults, technical authorship, and material conditions. Poverty, enslavement, foreignness, disability, or anonymity is not automatic sanctity. Elite erasure does not make every official contribution false, and recovering one name does not convert craft into magical bloodline or guild ownership.
+- **Review disposition:** `retain` — preserve the forgotten poor engineer, one saved lesser city, practical pressure repair, surviving notation, stolen credit, and possible recoverable payroll trace while rejecting a miracle mark, secret Qarath solution, or hidden Patron. Identity, town, technique, collaborators, and later fate remain provisional.
 
 ## Grey Sweat and Black Wind
 
+### Grey Sweat and Black Wind Comparative Ruling
+
+| Seed | Distinct function | Relationship boundary |
+|---|---|---|
+| **The Forty-First Ferry** | one historical illegal burial-and-refuge route beneath a larger composite ferry cycle | Burial and truthful naming aid passage and oppose predation but never buy judgement or explain the Quiet Ninth. |
+| **The Physician and the Wonder-Worker** | one fixed refuge house where medicine and bounded sanctity cooperate without becoming rival technologies | They do not cure the Grey Sweat, prove a church, repeat B3-13's wandering diagnostic cycle, or cause the plague's end. |
+| **The Two Census Chronicles** | differently purposed records of bodily mortality and threshold damage | Complementary scope does not make either complete, inspired, public knowledge of the hidden catastrophe, or a solution to the Quiet Ninth. |
+| **The Road That Paid Twice** | one Black-Wind caravan revealing how overlapping protection can save people and finance extraction | Receipts bind their issuers' named duties; they do not grant sovereignty, turn tribute into consent, or make every mobile power a raider. |
+
 ### B4-10 — The Forty-First Ferry
 
-- **Lane / scale / carrier:** human; signature plague company; ferry token, illegal registers, and a route-name.
-- **Era / region / culture:** 1232–1247 AR; Eclessian rivers and adjacent regions.
-- **Humble origin:** ferrymen, gravediggers, an assurance clerk, physicians, two thieves, and an exhausted novice keep one illegal burial route operating.
-- **Scriptural pattern:** Tobit's burial piety, 2 Maccabees' prayer for the dead, and Sirach on physicians.
-- **Comparative grammar:** accidental company, underworld-border journey, and outlaw mercy.
-- **Historical pressure:** Grey Sweat, unaffordable rites, false assurances, and mass-death predation.
-- **World Egg torque:** truthful witness, burial, and threshold defense help souls reach the road cleanly but never buy salvation or alter judgement. The Undertow hunts the registers rather than the boat alone.
-- **Continuity / power:** human souls; residue; route protection; counterfeit Patron claims.
-- **1360 AR traces:** tokens remain accepted for corpses, fugitives, and debtors; nobody agrees whether 'forty-first' names a boat, route, password, or person.
-- **Competing interpretations:** Brannoc's company, Church mercy house, criminal undertaking ring, or Undertow collaboration.
-- **Authorially known:** several illegal routes operated; the heroic cycle probably merges them.
-- **Open:** full membership, betrayed names, and which token is original.
-- **Source / sensitivity restriction:** Tobit-like burial piety does not turn funerary work into purchased salvation, establish plague guilt, or identify any route as the cause of the Quiet Ninth.
-- **Promotion:** unreviewed.
+- **Lane / scale / carrier:** human, institution, soul-road defense, and memory; existing plague company with later composite cycle; ferry token, burial and refuge registers, boat or route names, work tools, prayers, assurance scraps, and criminal accounts.
+- **Era / region / culture:** one historical core route active during one or more Grey Sweat waves, c. 1235–1247 AR, on a particular Eclessian river and its roads; later stories absorb other illegal ferries, dry crossings, charnel routes, and adjacent regions. It is not automatically centered on Brannoc.
+- **Humble origin:** ferrymen or boat repairers, gravediggers, a former assurance clerk, one or more physicians or body-workers, two thieves or smugglers, an exhausted novice, and local households keep one prohibited route operating while decomposing bodies accumulate at closed crossings. Officials drown or execute suspected carriers, families abandon infected relatives, and body-workers must separate the living from carts whose occupants are already dead.
+- **Scriptural pattern:** Tobit's burial of the abandoned dead and household journey; Second Maccabees' prayer for the dead without mechanical purchase; Sirach on physicians, craftsmen, mourning, and almsgiving. Myrrh-bearers, Joseph and Nicodemus, Cyprianic plague care, deacons, grave workers, and early feast formation add post-Redeemer burial networks without turning every body into a relic.
+- **Comparative grammar:** accidental company, outlaw mercy, underworld-border imagery, illegal ferry, dangerous burial, name register, thieves doing just work without becoming respectable, composite route cycle, and one member who writes the version later institutions use.
+- **Historical pressure:** mass mortality, quarantine, unaffordable burial and assurances, parish-register collapse, Virelian bondage, labor scarcity, criminal logistics, official suppression, thin places, unguarded thresholds, Undertow predation, family separation, and the political shame of institutions that sold certainty while bodies queued.
+- **World Egg torque:** prompt material care, truthful identification, prayer, witnessed custody, burial, and defense of a local threshold can reduce residue, prevent substitution, and help the dead reach an already lawful soul-road without buying salvation or altering judgement. The Undertow values names, custody gaps, route habits, and abandoned threshold infrastructure, so registers may be more dangerous than the boat. No original token automatically commands the Boatman, guarantees passage, absolves a corpse, or explains why the plague ended.
+- **Continuity / power:** every worker, corpse's soul, fugitive, debtor, saint, and claimant remains a distinct `human-soul`; bodies, tools, tokens, registers, residue, thin-space route protection, Undertow contracts, office, relic, and Patron counterfeit remain distinct. A collective ferry title does not merge workers or the dead, and funerary prayer does not soulbind them to a ledger.
+- **1360 AR traces:** ferry tokens remain signs that a corpse, fugitive, or debtor may be carried before payment on several rivers; incompatible registers preserve names missing from official parishes; nobody agrees whether “forty-first” first named a boat, route, count, password, clerk, or insulting administrative category; and criminal undertakers, reform charities, and Church houses each claim the merciful ancestry while suppressing theft and fees.
+- **Competing interpretations:** Brannoc's auxiliary company, Church mercy house, criminal undertaking ring, assurance fraud, plague-saint fellowship, Undertow collaboration, dry-road code later turned into a ferry, or several routes and decades compressed into one heroic company.
+- **Authorially known:** at least one historical illegal company kept one river-and-road burial or refuge route operating, and several other routes contributed episodes to the received cycle. Some work materially and spiritually protected people; some members profited, lied, stole, or failed. Neither the core company nor the composite caused the Grey Sweat, the routing catastrophe, the Ash-Walker disbanding, or [[The Weird of History — The Unexplained Register#The Quiet Ninth 1247 AR|the Quiet Ninth]].
+- **Open:** river, settlements, company roll and later additions, original meaning of forty-first, legal and religious affiliations, fees and thefts, physicians and novice, bodies and fugitives carried, registers sold or protected, Undertow infiltration, relationship to Brannoc, token provenance, betrayals, deaths, feast or saint claims, and whether any route protection still functions.
+- **Source / sensitivity restriction:** Tobit, Maccabees, Sirach, burial, plague-bishop, myrrh-bearer, ferry, and outlaw grammars preserve dignity, material labor, prayer, evidence, and morally mixed service. Unburied people are not damned; burial does not purchase judgement; plague is not punishment assigned to a population; thieves need not convert to act justly; and no ferry is a second psychopomp. Public versions cannot reveal the full authorial Undertow catastrophe.
+- **Review disposition:** `retain` — preserve one historical illegal plague-route company, broader composite ferry cycle, mixed workers, truthful registers, bounded threshold defense, criminal and institutional appropriation, and disputed forty-first title while rejecting purchased salvation, universal passage, or explanation of the plague and Quiet Ninth. All people, river, episodes, tokens, betrayals, saint claims, and endings remain provisional.
 
 ### B4-11 — The Physician and the Wonder-Worker
 
-- **Lane / scale / carrier:** human; local paired cycle; medical notebook and shrine testimony.
-- **Era / region / culture:** Grey Sweat; regions outside the principal Eclessian narrative.
-- **Humble origin:** a skeptical physician and an unrecognized holy elder are assigned the same overcrowded refuge house.
-- **Scriptural pattern:** Sirach's honor for physicians; Job's rejection of easy explanations for suffering.
-- **Comparative grammar:** contentious duo and hero corrected through service.
-- **Historical pressure:** medicine versus miracle, quarantine, and mass grief.
-- **World Egg torque:** medicine treats bodies, the elder closes a thin place, and neither action substitutes for the other. Later partisans rewrite the pair as enemies.
-- **Continuity / power:** both human souls; possible living sanctity requires separate evidence; no plague cure proves doctrine wholesale.
-- **1360 AR traces:** doctors quote the notebook without its prayers; pilgrims quote the prayers without dosage pages.
-- **Competing interpretations:** saint and assistant, physician and fraud, two equal colleagues, one person split by later memory, or rival schools accidentally preserving one notebook.
-- **Authorially known:** cooperation saved lives and protected passage.
-- **Open:** identities, recognition, and deaths.
-- **Source / sensitivity restriction:** healing and saint-life grammars must preserve medicine and sanctity as distinct forms of service; efficacy in either field is not a universal doctrinal proof.
-- **Promotion:** unreviewed.
+- **Lane / scale / carrier:** human, medicine, sacred response, and local institution; one fixed refuge-house pairing rather than another wandering duo; medical notebook, supply and death rolls, prayers, quarrel letters, shrine or burial testimony, and later partisan editions.
+- **Era / region / culture:** one Grey Sweat wave, likely c. 1235–1245 AR, in a region outside or marginal to the principal court narrative; a crowded refuge house serving several confessions, classes, migrants, and legal statuses. Exact Eclessian, Virelian, Sestaran-adjacent, or frontier locality remains open.
+- **Humble origin:** an exhausted licensed or empirically trained physician and an obscure elder, deaconess, monk, widow, hermit, lay caregiver, or locally revered person are separately assigned the same overcrowded house because no other staff remain. Patients lie beside the newly dead, medicine is rationed by triage, some are restrained or expelled under coercive quarantine, and both caregivers choose people they cannot save. Each initially believes the other is worsening danger.
+- **Scriptural pattern:** Sirach's honor for physicians and medicines; Job's rejection of easy moral explanations for suffering; Gospel and Acts distinctions among healing, exorcism, care, and sign. Panteleimon, Basilian hospitals, Macrina and Olympias's household institutions, Cyprianic plague care, and unmercenary traditions add reception grammar while keeping earthly medicine, charity, relic, and later intercession separate.
+- **Comparative grammar:** contentious colleagues, one-house pressure cooker, hero corrected through service, plague institution, mutual limitation, medicine and prayer copied apart, and later traditions inventing an intellectual duel where survivors remembered cooperation.
+- **Historical pressure:** quarantine, overcrowding, scarce medicine, triage, false cures, institutional rivalry, assurance failure, mass grief, thin-place exposure, officials seeking a saint or scapegoat, and families needing bodily care and truthful burial more than a victory in the medicine-versus-miracle argument.
+- **World Egg torque:** medicine, sanitation, nutrition, ventilation, isolation, and nursing treat what bodily skill can treat. In one separately evidenced event, prayer, repentance, truthful naming, or genuine sanctity supports a bounded White-Flame response that closes or stabilizes one thin place threatening the refuge's dead and living. It does not cure the regional plague, validate every prayer, prove the elder's whole biography, or substitute for dosage and quarantine. The physician's work does not command the Flame; the sacred response does not correct a medical error automatically.
+- **Continuity / power:** physician, elder, patients, dead, later editors, and any genuinely recognized saint remain distinct `human-soul` persons; medicine and building are material; refuge procedures may carry `infrastructure-office`; thin place, residue, relic, manifested saint, and White-Flame action remain separate. A true later saint would be the same redeemed human soul under heavenly commission, not a clinic office or legend-double.
+- **1360 AR traces:** medical copies preserve treatments, failures, ventilation diagrams, and case totals while removing prayers and quarrels; devotional copies preserve prayers, endurance, and one threshold event while converting uncertain recoveries into miracles; one complete notebook tradition records both hands and mutual corrections but is condemned as partisan by rival custodians.
+- **Competing interpretations:** saint and assistant, physician and fraud, unbelieving doctor secretly converted, two equal colleagues, hostile schools sharing a building, one person split by memory, elder stealing medical credit, physician suppressing a miracle, or several refuge workers compressed into a pair.
+- **Authorially known:** two historical people with distinct competencies cooperated in one refuge house, saved lives through ordinary care, lost patients through disease and mistaken triage, and helped protect one local threshold. At least one bounded sacred response occurred, but it did not restore the dead or erase decisions about who received scarce treatment.
+- **Open:** locality, identities, genders, cultures, faiths, training, prior sins and loyalties, patients and household staff, quarrels, treatments and failures, exact threshold event, recognition history, notebook recension, deaths, burial and relic chain, saint claim, and any later manifestation.
+- **Source / sensitivity restriction:** Sirach, Job, Gospel healing, hospital, plague-care, unmercenary, and saint-life grammars preserve medicine, sanctity, translation, nursing, household labor, and burial as distinguishable service. Charging a livelihood is not simony; refusing ineffective treatment is not unbelief; illness, disability, trauma, possession, and sin are not interchangeable. Neither participant must convert the other, and efficacy in medicine or sacred action is never universal doctrinal proof.
+- **Review disposition:** `retain` — preserve the contentious one-house pair, material medicine, bounded thin-place response, shared notebook, later partisan separation, and possible saint reception while distinguishing it from B3-13's wandering diagnostic cycle and rejecting plague cure or doctrinal adjudication. People, refuge, cases, response, recognition, relics, and endings remain provisional.
 
 ### B4-12 — The Two Census Chronicles
 
-- **Lane / scale / carrier:** memory and institution; paired chronicles; assurance register and penitential account.
-- **Era / region / culture:** Grey Sweat aftermath; Eclessian.
-- **Humble origin:** one clerk and one wandering penitent independently record the same abandoned villages.
-- **Scriptural pattern:** differing Samuel and Chronicles explanations of David's census and plague.
-- **Comparative grammar:** contested sacred history.
-- **Historical pressure:** assigning blame after catastrophe.
-- **World Egg torque:** one text accurately maps Material mortality; the other accurately maps damaged soul-thresholds. Later readers mistake different measurements for mutually exclusive causes.
-- **Continuity / power:** documents and route evidence; neither explains [[The Weird of History — The Unexplained Register|the Quiet Ninth]].
-- **1360 AR traces:** assurance courts and Ash-Walker descendants each preserve only their preferred copy.
-- **Competing interpretations:** fiscal concealment, rival theodicies, two regions mistaken for one, a Church correction of a state text, or complementary records with incompatible purposes.
-- **Authorially known:** both record real aspects; neither offers a complete causal account.
-- **Open:** authors' meeting and lost cross-references.
-- **Source / sensitivity restriction:** Samuel/Chronicles-style selective history permits genuine asymmetry, not automatic harmonization; neither account may be used to solve the Quiet Ninth.
-- **Promotion:** unreviewed.
+- **Lane / scale / carrier:** human, memory, institution, and restricted soul-route evidence; paired chronicles rather than a single harmonized book; an assurance or fiscal register, penitential itinerary, abandoned-village lists, route sketches, missing folios, and hostile scholia.
+- **Era / region / culture:** produced independently during the late Grey Sweat and immediate aftermath, c. 1240–1260 AR; overlapping but not necessarily identical Eclessian districts, assurance jurisdictions, Ash-Walker roads, parishes, estates, and abandoned villages.
+- **Humble origin:** a low assurance, tax, burial, or parish clerk is ordered to reconcile absent households, carts of decomposing bodies and uncollectable accounts; a wandering penitent, caregiver, former Ash-Walker, or local guide records where names, graves, prayers, dreams and thresholds no longer correspond. Both inherit evidence that a ruler's culpable census decision kept counting, moving and concentrating people after warnings that the work was spreading death.
+- **Scriptural pattern:** Samuel and Chronicles selecting different moral, institutional, and causal emphases around David's census and plague; Baruch and Lamentations preserving confession, devastation, office, and hope without one administrative explanation; Revelation's exposure of institutions without turning calamity into a timetable cipher.
+- **Comparative grammar:** contested sacred history, paired survey, rival measurements, bureaucratic and penitential witness, missing cross-reference, and later schools treating incompatible questions as competing total causes.
+- **Historical pressure:** mortality, broken registers, assurance fraud and shame, abandoned settlements, inheritance, Church suppression, Ash-Walker memory, landlord and princely blame, rumor of missing dead, and the desire to identify one guilty class, rite, minority, procession, or office after catastrophe.
+- **World Egg torque:** the official-leaning text more reliably maps bodies, households, dates, property abandonment, and recorded deaths within its scope; the penitential text more reliably maps anomalous residue, interrupted custody, thin places, missing names, and damaged threshold behavior. Each contains omissions and interpretation. Their partial geographic overlap lets later readers misread different measurements as mutually exclusive causal theories. Neither author possesses the full creator-facing knowledge of the Undertow harvest or the Quiet Ninth.
+- **Continuity / power:** every author, dead person, survivor, penitent, clerk, and later commentator remains a distinct `human-soul`; records, maps, offices, residue, thin places, and soul-route evidence remain distinct. A missing name does not mean an annihilated soul, and a route anomaly does not identify judgement or plague cause.
+- **1360 AR traces:** assurance courts and institutional archives preserve the mortality recension; Ash-Walker descendants, reformers, and local shrines preserve the threshold recension; each quotes hostile fragments of the other while suppressing its own weakest districts. One lost cross-reference may show the authors exchanged information without agreeing.
+- **Competing interpretations:** fiscal concealment, rival theodicies, Church correction of state record, state exposure of penitential superstition, two regions mistaken for one, complementary surveys, later harmonization, or one author writing twice under opposed patrons.
+- **Authorially known:** two historical survey traditions record real but incomplete aspects of the catastrophe with different purposes. The census order was a culpable human decision and both traditions count real mass death, even where they disagree about temptation, judgement, disease and threshold damage. Neither explains the Quiet Ninth or turns the dead into an administrative metaphor.
+- **Open:** authors, roles, faiths, districts and degree of overlap, patron pressure, falsifications and honest errors, contact and lost cross-references, custody, suppressed folios, present authenticity, and whether a later compiler knowingly made them appear more opposed.
+- **Source / sensitivity restriction:** Samuel, Chronicles, Baruch, Lamentations, apocalypse, census, and plague-history grammars permit genuine asymmetry, purpose, guilt, and selection rather than automatic harmonization. No population is blamed collectively; no count manufactures plague; no assurance record determines judgement; and authorial soul-route knowledge must not become settled public doctrine through this seed.
+- **Review disposition:** `retain` — preserve the two differently purposed surveys, bodily and threshold evidence, later partisan custody, incomplete overlap, and possible lost cross-reference while refusing total harmonization, public revelation of the hidden catastrophe, or solution to the Quiet Ninth. Authors, districts, texts, errors, suppression, and present use remain provisional.
 
 ### B4-13 — The Road That Paid Twice
 
-- **Lane / scale / carrier:** human and institution; local Black-Wind road cycle; paired escort receipts, a caravan proverb, and one disputed toll-post ruin.
-- **Era / region / culture:** c. 1265–1300 AR; Velian fairs, Sestaran grass-toll routes, Iqashar-facing roads, and mixed border settlements.
-- **Humble origin:** a widowed factor, plague orphans, an injured drover, a former levy soldier, and two grass riders must carry ordinary medicine through districts where successive armed powers each demand payment for the same promised safety.
-- **Scriptural pattern:** Tobit's household road, honest scales and bounded obligation in the wisdom books, Abigail averting bloodshed through provision, and Maccabean survival by morally costly diplomacy.
-- **Comparative grammar:** dangerous hospitality, toll-road outlaw cycle, steppe escort bargain, and an episodic company formed by a job too small for courts.
-- **Historical pressure:** Black-Wind extraction without occupation, post-plague labor scarcity, weak frontier enforcement, and communities purchasing safety from several powers at once.
-- **World Egg torque:** two genuine escort receipts laid over the same route create overlapping `infrastructure-office` duties. The road remembers protection actually promised, but it cannot decide which power has sovereign title or turn tribute into consent. Later insurers try to detach the protection from the journey and sell it repeatedly.
-- **Continuity / power:** travelers remain human souls; receipts and road-duty are offices with accumulated residue; any persona called the Double Escort would be a later Patron candidate, not the company or a merged collective soul.
-- **1360 AR traces:** the proverb *paid twice, guarded once*; paired receipts still honored at one Velian fair; a Sestaran toll rule requiring every protection seller to name the road, term, and failure remedy.
-- **Competing interpretations:** collaboration with raiders, prototype insurance, quiet resistance network, respectable extortion, or a composite of several unrelated caravans.
-- **Authorially known:** some escort bargains genuinely saved civilians and trade; the same system financed continuing extraction and never established lawful occupation.
-- **Open:** original travelers, which signers kept faith, who copied the receipts into later assurance law, and whether the Double Escort ever became an autonomous anchor-owning persona—and, if so, what continuity actually bears it.
-- **Source / sensitivity restriction:** steppe and toll-road grammars require named historical and folkloric dossiers before expansion. Do not reduce Tarkhan-coded or other mobile peoples to raiders, and do not turn settled states into passive victims without their own coercion and bargains.
-- **Promotion:** unreviewed.
+- **Lane / scale / carrier:** human, road, institution, and memory; local Black-Wind caravan cycle rather than signature company; paired escort receipts, medicine manifests, claimant marks, a caravan proverb, copied insurance clauses, and one disputed toll-post ruin.
+- **Era / region / culture:** one historical journey during the Black Wind Years, c. 1265–1300 AR; particular Velian fair roads, Iqashar-facing routes, Sestaran grass-toll corridors, Tarkhan passage country, and mixed settlements. The later 1334 Ash Road Peace may borrow its precedent but cannot be projected backward as the same instrument.
+- **Humble origin:** a widowed factor or small trader, plague orphans or dependent apprentices, an injured drover, a former levy soldier, hired guards, and two grass riders or route claimants must move ordinary medicine, tools, or seed through districts where each protection seller demands payment. Refusal does not mean a higher toll: one claimant threatens to kill the guards and enslave the dependants, while another threatens to let an allied militia massacre the caravan and seize its children.
+- **Scriptural pattern:** Tobit's family debt and medicine road; wisdom traditions on honest measures, named obligation, and oppression; Abigail averting bloodshed through provision; Maccabean survival through costly diplomacy and tribute. New Testament hospitality and tax encounters keep the moral focus on actual treatment of travelers rather than purity through refusal of every compromised payment.
+- **Comparative grammar:** dangerous hospitality, toll-road bargain, small caravan company, word-price, double payment, escort rivalry, wounded guide, orphan apprentices, settled and mobile claimants, and one ordinary job exposing a political system larger than its travelers.
+- **Historical pressure:** Qarayel's extraction without occupation, post-plague labor and medicine scarcity, weak frontier enforcement, Tarkhan word-price and competing banners, settled tribute and corruption, Sestaran insurance, Velian fairs, Iqashari payment, and communities buying protection from powers that neither fully rule nor fully leave.
+- **World Egg torque:** two valid escort instruments can create overlapping `infrastructure-office` duties where each names its issuer, route, term, travelers or cargo, promised protection, exclusions, and breach remedy. Layering the receipts does not make the road a judge or grant either issuer sovereign title. When one escort protects against its own allies and the other against a different danger, civilians may genuinely survive while both payments finance continued extraction. Later insurers attempt to detach the duty from journey, claimant, and failure remedy so that one protection can be sold repeatedly without corresponding risk.
+- **Continuity / power:** every traveler, rider, guard, orphan, issuer, victim, and later claimant remains a distinct `human-soul`; receipts, toll post, escort office, and insurance clause may carry `infrastructure-office`; road violence and repeated bargains leave `residue`. A persona called the Double Escort would require independent `astral-pattern`, Patron, Mask, office, or fraud classification and is not the company, road, Qarayel, or a merged collective soul.
+- **1360 AR traces:** *paid twice, guarded once* remains a proverb; one Velian fair honors paired receipts only when both failure remedies remain legible; a Sestaran toll rule requires protection sellers to name road, term, danger, issuer, and remedy; and competing claimants cite the episode when debating the Ash Road Peace. Copies omit which settled authority demanded the first payment.
+- **Competing interpretations:** collaboration with raiders, prototype insurance, quiet civilian resistance, respectable extortion, Qarayel's just road peace, Sestaran legal invention, Velian survival memory, or a composite of unrelated caravans and receipts.
+- **Authorially known:** at least two genuine but bounded escort bargains protected one historical journey. Some signers kept faith at material cost; some institutions exploited the arrangement; the payments helped civilians and trade survive while also financing coercion. The episode established neither lawful occupation nor willing submission and did not cause or end the Black Wind.
+- **Open:** route and year, travelers and dependants, cargo, issuers and claimants, precise risks, payments, escorts, breaches, which signers kept faith, casualties, later copying into insurance law, relationship to the 1334 Ash Road Peace, toll-post identity, and whether any Double Escort persona ever became independently active.
+- **Source / sensitivity restriction:** Tobit, wisdom, Abigail, Maccabean, word-price, guest-right, caravan, and toll-road grammars must attach to the existing internally diverse Tarkhan, Velian, Sestaran, Iqashari, and mixed-frontier dossiers. Mobile peoples are not reducible to raiders; settled states are not passive victims and maintain their own coercion, fraud, militia, and bargains; payment under danger is not simple consent; and honoring one's word does not legitimate the larger extraction system.
+- **Review disposition:** `retain` — preserve the ordinary medicine-or-seed caravan, paired bounded escort receipts, real protection and real extraction, mixed travelers and claimants, later insurance rule, and disputed Double Escort possibility while rejecting road sovereignty, tribute-as-consent, or a racialized raider story. People, road, instruments, costs, persona, and endings remain provisional.
 
 ## Reformation and Present Day
 
+### Reformation and Present Comparative Ruling
+
+| Seed | Historical function | Controlling limit |
+|---|---|---|
+| Company with No Charter | campaign-facing accidental company | only its starting pressure is planted; the Forward Rule protects every outcome |
+| Separated Witness Test | fallible evidentiary procedure | procedural contradiction is not supernatural authentication |
+| Feast Audit | human fraud entangled with a dependent Mask | exposing fraud neither disproves nor destroys the created power feeding through it |
+| Archive of the Former Gods | comparative evidence assembled around existing Held Proofs | taxonomy can identify Mask kinship but cannot by itself prove Archmask autonomy or Regnant succession |
+| Crown That Replaced Its Wearer | deferred Pride-succession hypothesis | it is consolidated with B3-16 and establishes no object, accession, former Regnant, or sovereign event |
+
 ### B4-14 — The Company with No Charter
 
-- **Lane / scale / carrier:** human; deliberately unharvested present company; no durable trace yet.
-- **Era / region / culture:** 1360 AR; cross-border and potentially campaign-facing.
-- **Humble origin:** failed students, discharged soldiers, a printer, relic-test assistant, itinerant actor, and unwanted noble child accept deniable work around a disputed apparition.
-- **Scriptural pattern:** companions entering history unknowingly; Susanna-style witness separation; Micaiah against approved consensus.
-- **Comparative grammar:** accidental ascending company and broken fellowship.
-- **Historical pressure:** Held Proofs, Reformation, confessional settlement, and proof-management.
-- **World Egg torque:** each member becomes entangled with a different proof, but no prophecy or mantle fixes their fate.
-- **Continuity / power:** ordinary living human souls unless play establishes a condition.
-- **1360 AR traces:** none; present actions may create them.
-- **Competing interpretations:** not yet applicable.
-- **Authorially known:** no ultimate fate is assigned and the world can continue if they die unknown.
-- **Open:** everything beyond the starting pressure.
-- **Source / sensitivity restriction:** campaign-facing material stays under the Forward Rule. Do not backfill promised crowns, sainthood, damnation, Patronage, or survival merely to imitate an ascending-company source.
-- **Promotion:** existing Garden bed preserved; all proposed adventures and outcomes remain unreviewed.
+- **Lane / scale / carrier:** human; deliberately unharvested present company and possible campaign carrier; no durable historical trace yet.
+- **Era / region / culture:** 1360 AR; one cross-border commission touching the present Held-Proof crisis without creating another proof or secret authority above it.
+- **Humble origin:** failed students, discharged soldiers, a printer, a relic-test assistant, an itinerant actor, an unwanted noble child, or a similarly mismatched provisional role-set accept deniable work to recover, escort, or interview one secondary witness, damaged object, or test-condition connected to an existing Held Proof. No role is mandatory until campaign selection.
+- **Scriptural pattern:** minor co-workers entering consequential history without knowing its extent; Susanna's pressure on testimony; Micaiah against approved consensus; Acts' ordinary households, travelers, prisoners, craftsmen, and local officials carrying events larger than themselves.
+- **Comparative grammar:** accidental ascending company, disputed evidence journey, dangerous employment, improvised fellowship, and possible later fracture.
+- **Historical pressure:** the Reformation, Korrheim settlement, rival church jurisdictions, the Diadem, proof custody, printing, public appetite for wonders, and institutions seeking useful deniability.
+- **World Egg torque:** the initial job concerns one bounded secondary element of the Vessing, Bruckmoor, or another already established Held-Proof dossier. Every subsequent entanglement must be established independently. No prophecy, mantle, Mask, relic, apparition, office, or archive assigns the company a collective destiny or guarantees that its members remain together.
+- **Continuity / power:** every starting member is an ordinary living `human-soul` unless play separately establishes a condition. Company name, contract, rumor, future office, reputation, and any later legendary persona never merge them.
+- **1360 AR traces:** none beyond the unsigned job, ordinary personal records, and whatever secondary proof-material initiates play. Present actions may create traces under the Forward Rule.
+- **Competing interpretations:** expendable intermediaries, honest investigators, thieves hired by a church, deniable Diadem agents, accidental witnesses, impostors, or people who will never become historically important.
+- **Authorially known:** only the bounded starting pressure is planted. No member's survival, allegiance, sanctity, damnation, rulership, Patronage, Mask relation, fellowship, betrayal, or historical fame is predetermined; the world can continue if all die unknown.
+- **Open:** membership, employer, existing Held Proof, secondary object or witness, first journey, discoveries, decisions, relationships, company name in-world, every later adventure, and every ultimate fate.
+- **Source / sensitivity restriction:** campaign-facing material remains wholly under the Forward Rule. Ascending-company, apostolic-companion, martyr, outlaw, saint, and heroic-return grammars offer possibilities rather than promised arcs. The company cannot secretly be the key to every Held Proof or a predetermined cure for the age.
+- **Review disposition:** `retain` — preserve the accidental campaign-facing company and one deniable starting commission attached to an existing Held Proof while leaving membership, employer, investigation, relationships, supernatural contact, historical importance, and all outcomes unharvested.
 
 ### B4-15 — The Separated Witness Test
 
-- **Lane / scale / carrier:** institution; forensic practice; sealed relic-court transcript.
-- **Era / region / culture:** present; courts of both churches and secular imitators.
-- **Humble origin:** a laundress accused by two senior officials survives because a junior examiner questions the witnesses separately about an incidental physical detail.
-- **Scriptural pattern:** Susanna and Daniel's separated witnesses.
-- **Comparative grammar:** minor servant entering legal history.
-- **Historical pressure:** apparition disputes, relic fraud, and institutional reputation.
-- **World Egg torque:** truthful procedure exposes contradiction but does not mechanically force supernatural truth to appear.
-- **Continuity / power:** mundane legal method; White Flame may authenticate separately.
-- **1360 AR traces:** courts teach the method under an impersonal name while suppressing the originating case.
-- **Competing interpretations:** a saint's inspired examination, a secular advocate's innovation, a forged precedent, or an older minority court practice appropriated by the state.
-- **Authorially known:** the accused was innocent; the procedure is useful but fallible.
-- **Open:** why the transcript remains sealed.
-- **Source / sensitivity restriction:** Susanna supplies separated-witness forensics, not an exact accusation, cast, verdict sequence, or warrant to treat consistency as infallible truth.
-- **Promotion:** unreviewed.
+- **Lane / scale / carrier:** human and institution; local forensic precedent; a sealed transcript, washhouse work-list, damaged seal or cloth, and an impersonal examination rule.
+- **Era / region / culture:** one recent case during the Reformation or Age of Held Proofs; a particular relic court, church tribunal, or secular proof office whose jurisdiction must be chosen before promotion.
+- **Humble origin:** two senior custodians corner a laundress, washhouse worker, or low-status relic-court servant and demand sexual access in exchange for security and silence. When she refuses, they coordinate a capital accusation that she profaned or substituted a proof cloth and claim to have witnessed the act. A junior docket examiner separates their testimony and exposes contradictions in the place, time and physical object.
+- **Scriptural pattern:** Susanna's rescue through separated testimony; Daniel's young and institutionally minor intervention; New Testament warnings against status partiality and false witness.
+- **Comparative grammar:** minor servant entering legal history, overlooked material clue, forensic questioning, suppressed precedent, and procedure outliving its makers.
+- **Historical pressure:** apparition disputes, relic fraud, crowded custody chains, confessional rivalry, public proof hunger, institutional reputation, and low-status workers bearing blame for elite failure.
+- **World Egg torque:** the physical contradiction exposes collusion in this case but does not compel supernatural truth. White Flame, manifested saint, relic response, residue, Mask, Patron imitation, ordinary defect, and fraud still require separate classification and may answer differently under their own bounded conditions.
+- **Continuity / power:** the accused, examiner, custodians, witnesses, and later jurists remain distinct `human-soul`s. The examination rule is a mundane legal procedure or narrow `infrastructure-office`, not an oracle, saint, relic, or truth-producing spirit.
+- **1360 AR traces:** courts on more than one side teach an impersonal separated-account rule; the founding transcript remains sealed or heavily redacted; washhouse workers preserve a sharper unofficial version; and one secular manual may have appropriated the procedure without attribution.
+- **Competing interpretations:** inspired saintly examination, ordinary docket craft, a forged reform precedent, an older minority-court method absorbed by the state, anticlerical propaganda, or a real acquittal later embellished.
+- **Authorially known:** the worker refused sexual coercion and was innocent of the capital charge; the senior accusers coordinated their testimony to punish her; separated material questioning exposed them. The resulting procedure is useful but fallible and does not make every inconsistent witness guilty.
+- **Open:** court, people, object, failed test, exact accusation, contradiction, sentence or remedy, reason for sealing, institutional authorship, prior minority precedent, later misuse, and whether any supernatural response occurred separately.
+- **Source / sensitivity restriction:** Susanna supplies the sexual coercion, refusal, false capital accusation and separated accounts; those causal acts must remain explicit. Names, exact botanical test, judges, setting and execution sequence do not transfer. Consistency is not innocence, inconsistency is not automatic guilt, and low-status testimony is not valuable only when ratified by an elite prodigy.
+- **Review disposition:** `retain` — preserve Susanna's load-bearing sexual coercion, refusal and false capital charge together with the innocent worker, elite collusion, separated material contradiction, suppressed transcript, and useful but fallible procedure. All identities, jurisdiction, object, remaining case details, prior source, and later use remain provisional.
 
 ### B4-16 — The Feast Audit
 
-- **Lane / scale / carrier:** human, institution, and Idol pressure; investigation seed; consumption ledgers and a sealed shrine basement.
-- **Era / region / culture:** present; any major city.
-- **Humble origin:** missing offerings lead an apprentice auditor to discover that shrine custodians have been eating the god's meals through a concealed passage.
-- **Scriptural pattern:** Bel and the Dragon; Letter of Jeremiah.
-- **Comparative grammar:** trickster exposure and wilderness/court investigation.
-- **Historical pressure:** proof hunger, anticlerical reform, and the danger of treating all cults as equally false.
-- **World Egg torque:** the priestly fraud is real, but years of staged devotion have also stabilized a Gluttony Mask beneath the shrine. Exposing the tunnel does not destroy the Mask.
-- **Continuity / power:** human fraud plus dependent Idol Mask; the statue itself may be empty.
-- **1360 AR traces:** immediate story-facing hook attached to existing proof politics, not a new master conspiracy.
-- **Competing interpretations:** wholly fraudulent cult, real god exposed by unbelievers, corrupt institution sheltering a genuine power, or auditors who accidentally created what they claimed to find.
-- **Authorially known:** fraud and supernatural predation coexist.
-- **Open:** who knowingly fed the Mask and whether it is becoming autonomous.
-- **Source / sensitivity restriction:** Bel supplies the consumption audit. No cuisine, feast culture, priestly class, or living community is equated wholesale with Gluttony, and proving fraud does not prove the Mask unreal.
-- **Promotion:** unreviewed.
+- **Lane / scale / carrier:** human, institution, and Idol pressure; local investigation seed; relief ledgers, offering manifests, contractor receipts, locked surplus rooms, and a feeding anchor distinct from any public image.
+- **Era / region / culture:** present; one already established major city and one specific shrine, charity, confraternity, or civic feast system to be selected rather than a generic surviving pagan culture.
+- **Humble origin:** an apprentice auditor notices that offerings and relief purchases exceed both public distribution and recorded consumption while hungry households are turned away. Fine ash placed after the shrine is sealed records adult and child footprints leading to a concealed passage. Custodians, contractors and members of their households have entered nightly to eat the offerings, divert relief, and stage the image's consumption.
+- **Scriptural pattern:** Bel and the Dragon's consumption audit; the Letter of Jeremiah's distinction between image and power; prophetic condemnation of feasts detached from justice; Acts' conflict over neglected food distribution.
+- **Comparative grammar:** trickster procurement turned forensic audit, locked-room inquiry, dangerous hospitality, false feast, stolen relief, and an ordinary worker discovering a predatory ecology.
+- **Historical pressure:** proof hunger, anticlerical reform, institutional charity, urban scarcity, contractor patronage, public spectacles of abundance, and the political temptation to treat one fraud as proof that every rival devotion is empty.
+- **World Egg torque:** the passage and footprints expose human fraud, but repeated hoarding, humiliation, ritualized waste and celebratory denial have also fed a dependent Gluttony Mask through a separate anchor. The ruler or court orders the convicted custodians and participating household executed and the public image destroyed. That punishment is an authorial act of state violence, not proof that every dependant shared equal guilt. Destroying the empty or incidental statue neither disproves nor kills the Mask.
+- **Continuity / power:** every perpetrator, auditor, donor, contractor, hungry petitioner, and investigator remains a distinct `human-soul`. Ledgers and storehouse rules may carry `infrastructure-office`; the dependent Mask remains within its Idol Throne's guilty `yolk-sovereignty`. No Archmask autonomy, Regnant claim, collective soul, or accidental human creation is established.
+- **1360 AR traces:** an immediate Held-Proof-adjacent investigation; redacted relief accounts; an impounded but still dangerous anchor; a public statue wrongly celebrated as either a slain god or vindicated deity; and families seeking restitution from institutions that prefer a clean fraud story.
+- **Competing interpretations:** wholly fraudulent cult, corrupt charity sheltering a real power, genuine devotion betrayed by contractors, anticlerical fabrication, auditors who created the danger by naming it, or proof that all images are empty.
+- **Authorially known:** concealed access, household participation, material fraud, hunger, exposure by physical traces, state execution and destruction of the image all occurred. A dependent Gluttony Mask was already feeding through the wider practice; the statue alone neither created nor contained it, and the executions do not finish the supernatural problem or settle the justice of collective punishment.
+- **Open:** city and institution, participants, victims, quantities, anchor, duration, who knowingly fed it, which authorities profited, restitution, public interpretation, final containment, and whether the Mask ever approaches autonomous continuity.
+- **Source / sensitivity restriction:** Bel supplies the sealed-room consumption audit, concealed passage, household access, physical exposure, execution and image destruction; these load-bearing acts remain while names, cult, food, ruler and theology change. No cuisine, feast, class, office, religion, or living community is equated wholesale with Gluttony, and supernatural predation cannot excuse ordinary theft or state excess.
+- **Review disposition:** `retain` — preserve Bel's load-bearing concealed access, household consumption, physical exposure, executions and image destruction together with diverted relief, human fraud, the separate dependent Gluttony Mask, restitution problem, and conflicting public conclusions. Reject an Archmask or master conspiracy; all local identities and later outcomes remain provisional.
 
 ### B4-17 — Archive of the Former Gods
 
-- **Lane / scale / carrier:** Idol pressure and memory; research hook; comparative icon archive.
-- **Era / region / culture:** present discovery concerning multiple earlier ages.
-- **Humble origin:** a cataloguer notices that supposedly unrelated war gods share the same damaged accession formula while displaying incompatible personalities.
-- **Scriptural pattern:** Wisdom's genealogy of ruler cults and Chronicles' preservation of prior reigns.
-- **Comparative grammar:** TES cultural identity, former-Regnant remnant, and contested chronicle.
-- **Historical pressure:** scholars beginning to distinguish cultural Masks, Archmasks, and possible Regnant successions.
-- **World Egg torque:** the archive suggests, but does not automatically prove, that several 'gods' were sequential Regnants or Sediment of one Idol Throne.
-- **Continuity / power:** documentary evidence concerning `idol-pattern`, Archmasks, and `yolk-sovereignty`.
-- **1360 AR traces:** the archive itself becomes a Held-Proof-adjacent object desired by the Diadem, Weeping Courts, and Church investigators.
-- **Competing interpretations:** occult concordance, imperial taxonomy, fabricated anti-pagan dossier, genuine throne genealogy, or several unrelated powers forced into one scheme.
-- **Authorially known:** at least some entries concern distinct Masks of one Idol; no specific succession is settled by the catalogue alone.
-- **Open:** which reigns were true successions and whether a deposed Regnant still acts.
-- **Source / sensitivity restriction:** TES identity concepts support the research question, not the answer. Archive agreement is evidence rather than metaphysical proof, and human worshippers did not create the original Idol sovereignty.
-- **Promotion:** unreviewed.
+- **Lane / scale / carrier:** Idol pressure, institution, and memory; present research hook; a new comparative concordance assembled from dispersed icon fragments, accession formulae, sermons, court rolls, testimonies, and tests already attached to known collections and Held Proofs.
+- **Era / region / culture:** compiled in the present from evidence spanning several ages and cultures; not one miraculously complete ancient archive and not a ninth Held Proof.
+- **Humble origin:** a poorly ranked cataloguer comparing secondary material for the Vessing, Bruckmoor, Closed Temple, Diadem, or another existing dossier notices that supposedly unrelated martial or royal powers share damaged formulae and anchor behavior while retaining incompatible biographies, rites, and personalities.
+- **Scriptural pattern:** Wisdom's social genealogy of ruler images; Chronicles' preservation and reframing of reigns; Acts' comparative public argument about images, names, and human workmanship; New Testament testing of spirits and claims without credulity or indiscriminate denial.
+- **Comparative grammar:** TES-style cultural identity and mythic accretion, contested chronicle, mask genealogy, archive mystery, repeated office, and false resemblance concealing real difference.
+- **Historical pressure:** scholars learning to distinguish cultural Mask, dependent Mask, autonomous Archmask, Patron persona, office, legend, fraud, and possible Regnant succession while churches, the Diadem, courts, and collectors compete to control the evidentiary vocabulary.
+- **World Egg torque:** the concordance can show that some entries are culturally distinct dependent Masks or Sediment of one Idol Throne and that similar titles need not name one person. It cannot by textual agreement alone prove autonomous continuity, accession to a Throne, replacement of a Regnant, survival of a former Regnant, or a complete genealogy. Human imagery and feeding architecture shaped the Masks but did not create the original guilty sovereignty.
+- **Continuity / power:** the cataloguer and every historical worshipper remain distinct `human-soul`s. Documents, portraits, offices, legend-personas, dependent `idol-pattern`s, possible Archmasks, Patron claims, and enduring `yolk-sovereignty` require separate entries rather than one flattened god-list.
+- **1360 AR traces:** the concordance itself becomes a disputed secondary dossier circulated among existing Held-Proof investigators, Diadem cataloguers, church courts, and the Weeping Courts; damaged originals remain dispersed; hostile marginalia preserve alternative classifications; and no single custodian controls the whole comparison.
+- **Competing interpretations:** useful concordance, imperial taxonomy, fabricated anti-pagan dossier, proof of one recurring god, proof of many unrelated powers, suppressed throne genealogy, or an investigator's category error amplified by institutions.
+- **Authorially known:** at least some compared entries concern distinct dependent Masks of one Idol; some similarities are office reuse, copying, propaganda, or ordinary icon convention; and the catalogue alone establishes no true succession.
+- **Open:** cataloguer, patrons, collections, entries, Idol affiliations, forged or misplaced pieces, institutional interference, which comparisons survive testing, any genuine Archmask evidence, and whether a separate candidate ever meets the succession standard.
+- **Source / sensitivity restriction:** TES identity and mantle concepts frame questions, not predetermined answers. No culture is reduced to a mask of another culture, archive agreement is evidence rather than revelation, and scholarly classification must not become an omniscient exposition device or new secret master plot.
+- **Review disposition:** `retain` — preserve the humble comparative discovery, dispersed evidence, dependent-Mask kinship, incompatible biographies, contested classification, and institutional struggle while making the concordance secondary to existing Held Proofs and rejecting any succession verdict, complete divine genealogy, or ninth proof.
 
 ### B4-18 — Candidate Regnant Convulsion: The Crown That Replaced Its Wearer
 
-- **Lane / scale / carrier:** Idol pressure; sovereign-convulsion candidate; succession instrument, erased portraits, and a possible former-Regnant voice.
-- **Era / region / culture:** tentatively between the Great Split and High Noon; broad court cultures.
-- **Humble origin:** a Pride Archmask built from an idealized royal office begins correcting every actual ruler toward itself.
-- **Scriptural pattern:** royal images becoming cult, divided kingship, and the warning that delegated glory can become self-worship.
-- **Comparative grammar:** TES mantling, Envy replacement, and Idol Regnant succession.
-- **Historical pressure:** competing crowns and institutionalized claims to universal rule.
-- **World Egg torque:** the claimant may have entered Pride's Throne and become a new Regnant, while its predecessor survives as an allegedly humbler regional divinity. If so, each later theology preserves a different genuine ruler of the same Hunger.
-- **Continuity / power:** proposed Archmask assimilation into Pride's enduring guilty sovereignty; no mortal soul ascends.
-- **1360 AR traces:** portraits erase individual features when displayed near one disputed crown; a Severed Exalt claims it remembers the prior Vaingloria.
-- **Competing interpretations:** successful succession, failed Archmask accession, one interregnum remembered twice, imperial erasure campaign, or a lying former-Regnant remnant.
-- **Authorially known:** no ruling yet; cannot coexist as a second promoted Block IV succession if B3-16 is retained as the same event.
-- **Open:** whether this is the later phase of the Unmirrored Interregnum, a separate failed accession, or propaganda by a deposed Archmask.
-- **Source / sensitivity restriction:** TES mantling is grammar only. Retention requires reconciliation with B3-16, the chronological succession cap, the same guilty yolk-sovereignty, and the nonredeemability of every Idol participant.
-- **Promotion:** unreviewed sovereign candidate; likely merge with, revise against, or reject in favor of B3-16.
+- **Lane / scale / carrier:** Idol pressure; deferred sovereign-convulsion hypothesis; several crown-office records, damaged portraits, recurrent Pride Masks, and an unverified voice claim that later researchers have incorrectly bundled into one event.
+- **Era / region / culture:** evidence clusters between the Great Split and High Noon but may include earlier and later material. No single court, crown, reign, or date is authorially fixed.
+- **Humble origin:** scribes and conservators notice that idealized royal offices repeatedly pressure living rulers toward the same perfected public Face. This establishes a recurring Pride architecture, not an autonomous Archmask or accession.
+- **Scriptural pattern:** royal image becoming cult, divided kingship, false universal rule, and delegated glory turned toward self-worship.
+- **Comparative grammar:** TES mantling and office replacement used as a research grammar; repeated ruler, erased portrait, disputed crown, false former-god testimony, and possible but unproven succession.
+- **Historical pressure:** rival crowns, universal claims, standardized portraiture, the Great Split's institutional competition, High-Noon court ideology, and later investigators eager to turn recurrent resemblance into one dramatic genealogy.
+- **World Egg torque:** the default explanation is several dependent Pride Masks, ordinary crown offices, copied royal conventions, propaganda, and Sediment within the same guilty `yolk-sovereignty`. A true accession would require the B3-16 tests: autonomous claimant continuity, entry into Pride's Throne, demonstrable change of regnancy, disposition of the prior Regnant, and cross-route consequences. None is presently met.
+- **Continuity / power:** rulers and witnesses remain distinct `human-soul`s; crown offices remain offices; portraits remain objects or anchors; dependent Masks remain dependent `idol-pattern`s. No Crown, Archmask, Regnant, former-Regnant remnant, Severed Exalt, or mortal ascent is established. This hypothesis is not the Crown of Embers or the Virelian Lamp.
+- **1360 AR traces:** only disputed portrait alterations, recurring accession language, and contradictory marginal claims assembled in B4-17's concordance. No uniquely identified physical crown or trustworthy prior-Regnant voice is fixed.
+- **Competing interpretations:** dependent-Mask recurrence, standardized court iconography, several failed autonomy bids, one failed accession, successful succession, propaganda by a Mask, or a modern catalogue error.
+- **Authorially known:** evidence has been overcombined; it does not presently demonstrate a sovereign convulsion; and B4-18 is the same whole-history research problem as B3-16 rather than a second candidate event.
+- **Open:** whether any autonomous Pride Archmask ever existed, whether an accession attempt occurred, what the alleged crown or portraits actually were, whether a claimant crossed into the Shadow, and whether any future evidence can satisfy the succession standard.
+- **Source / sensitivity restriction:** TES mantling remains comparative grammar only. Recurring office, imagery, title, response, or Mask does not prove identity or replacement. Any future promotion must preserve Pride's enduring guilt, cannot redeem an Idol participant, cannot elevate a human soul into Idol sovereignty, and must pass the first-pass cap and whole-history comparison.
+- **Review disposition:** `defer` — consolidate with B3-16 as one research bundle. Promote no Crown, Archmask, accession, prior Regnant, Severed Exalt, former-Regnant remnant, or sovereign event; absent materially stronger evidence, dependent Mask recurrence and ordinary office reuse remain the controlling explanation.
 
 ## Block III Review Register
 
-| Seed | Retain | Revise | Defer | Reject | Review notes |
-|---|---|---|---|---|---|
-| B3-01 | unreviewed | unreviewed | unreviewed | unreviewed | |
-| B3-02 | unreviewed | unreviewed | unreviewed | unreviewed | |
-| B3-03 | unreviewed | unreviewed | unreviewed | unreviewed | |
-| B3-04 | unreviewed | unreviewed | unreviewed | unreviewed | |
-| B3-05 | unreviewed | unreviewed | unreviewed | unreviewed | |
-| B3-06 | unreviewed | unreviewed | unreviewed | unreviewed | |
-| B3-07 | unreviewed | unreviewed | unreviewed | unreviewed | |
-| B3-08 | unreviewed | unreviewed | unreviewed | unreviewed | |
-| B3-09 | unreviewed | unreviewed | unreviewed | unreviewed | |
-| B3-10 | unreviewed | unreviewed | unreviewed | unreviewed | |
-| B3-11 | unreviewed | unreviewed | unreviewed | unreviewed | |
-| B3-12 | unreviewed | unreviewed | unreviewed | unreviewed | |
-| B3-13 | unreviewed | unreviewed | unreviewed | unreviewed | |
-| B3-14 | unreviewed | unreviewed | unreviewed | unreviewed | |
-| B3-15 | unreviewed | unreviewed | unreviewed | unreviewed | |
-| B3-16 | unreviewed | unreviewed | unreviewed | unreviewed | sole Block-III succession-candidate slot |
+The register records nursery dispositions rather than canon promotion. Every Block-III row now has exactly one result, while all unpromoted particulars remain provisional.
+
+| Seed | Disposition | First-pass deliverable | Promotion gate still outstanding |
+|---|---|---|---|
+| B3-01 — Low Door Companions | `retain` | signature provincial ascending company entering the imperial board | membership, Thalion relationship, provincial claims, betrayal, offices, and ultimate fates |
+| B3-02 — Keeper of Borrowed Grain | `revise` | dual-ledger famine correction with morally divided administrative legacy | river province, minority community, collaborators, administrative chain, and post-famine consequences |
+| B3-03 — Crown That Would Not Conquer | `retain` | narrow shelter `infrastructure-office` refusing conquest use and bodily killing or maiming a knowingly profaning handler without vindicating either army | sanctuary, makers, original recognition, capture, location, and hospice claims |
+| B3-04 — Emperor After the Emperor | `retain` | standardized imperial Face as a dependent Pride Mask | cult network, autonomy, Diadem relationship, conversion fate, and any later Archmask development |
+| B3-05 — Two Roads, One Victory | `retain` | rival court and provincial chronicles joined by a practical paired route rite | road, texts, labor history, company overlap, and surviving verses |
+| B3-06 — Empty-Purse Road | `retain` | episodic refuge-road cycle carried by several ordinary households, smugglers, guides, prisoners, and local cells rather than one cross-generational company | original family and first group, sign provenance, regional recensions, relation to the Ember Underground and Via Celestis, and individual fates |
+| B3-07 — Burial Hands | `retain` | mixed accidental burial company whose forensic naming restores evidence and truthful soul-road correspondence without purchasing judgement | city and purge, founders' beliefs and relationships, original roll, later forgers, relic status of the tools, any actual interception or manifestation, and ultimate fates |
+| B3-08 — Clerk Who Added Words | `retain` | fallible reconstructed witness-book whose lost source marks produce seven recensions and a composite saint-memory without merging souls | clerk and province, source documents, nature of the key error, people behind the composite, genuine relic and family claims, any Envy exploitation, and the clerk's fate |
+| B3-09 — Children of the Closed Temple | `retain` | displaced Vestian-era temple workers whose dangerous salvage and case-specific catalogue distinguish objects, fraud, residue, offices, Menhir, Idol Masks, spirits, bound souls, and relic claims | city and temple, membership and beliefs, imperial and episcopal relationships, catalogue cases, missing volumes and objects, final division, later identities, and ultimate fates |
+| B3-10 — Penitent and His Other Face | `retain` | genuinely repentant provincial governor responsible for judicial murder, torture, confiscation, forced conversion, innocent blood, and his own child or heir's death; his incomplete repair remains separate from victims, law, office, residue, and a dependent Pride Mask | province and communities, crimes and beneficiaries, imprisonment, repairs, hymn history, continuing titles and decrees, final judgement, saint claim, Mask anchors, and any later confrontation |
+| B3-11 — Border Lamp and Keelman | `retain` | thieving maritime duo whose layered chart requires independent human-charter and coastal-court witnesses, with competence learned rather than inherited | people, cities, route, chart ownership, ransom or slavery context, original episodes, households, relationship, faith, sainthood, and endings |
+| B3-12 — Four Who Brought Water | `retain` | four-prisoner ascending company that repairs one lesser well and turns a governor's witnessed release promise against a closure rooted in an oath-breaking massacre and the later execution of a ruler's descendants | locality, people and statuses, skills, fouling, instruments, degree of release, later careers and disputes, cup transmission, saint or Patron claims, and ultimate fates |
+| B3-13 — Physician and Interpreter | `retain` | fallible Long Frontier wandering duo whose patient-centered case protocol keeps source words, translation consequences, clinical observation, and extraordinary claims distinguishable | people, first patient, route, cases and failures, payments, institutional affiliations, later pairs, feast and relic claims, any true miracles, and endings |
+| B3-14 — Linen Oath | `retain` | bounded patched-cloth sanctuary protecting the actual people admitted despite morally and legally consequential concealment | town, hosts and guests, concealed fact, terms and duration, retaliation, restitution, later residence grants, authentic strips, saint or relic claims, and modern remedy |
+| B3-15 — Fifth Translation | `retain` | underpaid five-person translation company preserving distinct current-lane functions against a catastrophic elegant edition | translation house and workers, languages and texts, route and owner, exact procedure, first failures, fifth recension, suppression, later scholarship, and endings |
+| B3-16 — Unmirrored Interregnum | `defer` | consolidated B3-16/B4-18 research hypothesis testing whether dependent Pride-mask recurrence ever became Archmask revolt or true accession; no sovereign event established | proof of autonomous continuity, Shadow court and cross-route change, accession, prior Regnant and fate, whole-history cap, and decisive evidence separating one continuity from reused offices |
+
+### Atherian Glory Review Gates
+
+1. **Imperial-founder gate:** Aurelius Thalion remains the fixed founder of the imperial settlement. The Low Door Companions may enter his history but neither replace him nor make his victory inevitable or righteous.
+2. **Provincial-agency gate:** provincial workers, interpreters, soldiers, debtors, artists, and subject communities retain interests and choices beyond supplying talented outsiders to the imperial center.
+3. **Relic-proof gate:** the captured Crown validates only actual shelter under its local terms. It cannot select an emperor, legitimate conquest, prove a church, or supply a pre-Redeemer saint.
+4. **Soul-and-office gate:** emperor, human soul, imperial office, portrait, standardized persona, dependent Mask, possible Archmask, and Pride's `yolk-sovereignty` remain distinct.
+5. **Succession gate:** the Emperor After the Emperor is retained only as a dependent Mask. Its possible relation to B3-16 cannot promote autonomy or accession before the dedicated succession review.
+6. **Chronicle gate:** paired practical effect proves that both route traditions preserve necessary material, not that both histories are complete, inspired, simultaneous, or equally culpable.
+7. **No-master-company gate:** the Keeper, crown custodians, road repairers, and other provincial actors are not Low Door members unless separately selected. No company causes unification or the Age of Glory.
+8. **Weird gate:** no Glory card explains the unplaceable late-Star campaign, the Averted Legion, the Third Nail, or another registered Weird.
+
+### Redeemer and Underground Review Gates
+
+1. **Sacred-center gate:** the Redeemer's work remains unique and [[The Twelve Companions of the Redeemer|the Companion roll]] remains closed. The three cards supply surrounding witnesses, roads, households, bodies, and texts rather than another apostolic center.
+2. **Distributed-network gate:** the Empty-Purse Road, Burial Hands, Clerk, Via Celestis, and [[The Ember Underground|Ember Underground]] may intersect only through separately chosen local relationships. They are not one hidden command structure.
+3. **Soul-route gate:** hospitality, naming, washing, burial, record, and prayer may support truthful passage and oppose interception. None determines judgement, damns the unburied, bribes the Boatman, or creates a second psychopomp.
+4. **Source-layer gate:** eyewitness testimony, remembered reconstruction, marginal inference, liturgical commemoration, later Life, wonder-cycle, and modern devotional retelling remain distinguishable even when copied into one book.
+5. **Saint-and-relic gate:** martyrdom, proximity to sacred history, a feast, a working threshold, an accurate name, or an old bone does not manufacture sainthood. Manifested saint, relic effect, human soul, residue, legend-persona, office, Patron imitation, Mask, and fraud remain distinct.
+6. **Collective-memory gate:** a company may receive one name or feast without merging its members. A composite biography may become socially or liturgically real without becoming a composite human soul.
+7. **Mixed-community gate:** a just act by a criminal, unbeliever, official, or Jirahar host is not covert conversion. No inherited Jirahar guilt or retrospective appropriation of non-Christian dead is permitted.
+8. **Human-history gate:** every card still functions without a supernatural event: refuge saves lives, identification restores evidence and mourning, and reconstruction preserves testimony. Any true metaphysical effect remains bounded to those acts.
+9. **No-master-story gate:** none of the three causes the Great Tower Revolt, creates the Underground, preserves the entire faith, founds every later church office, or supplies a secret explanation for the age.
+10. **Weird gate:** no road, corpse, recension, relic, apparition, or hidden name explains the Third Nail, Averted Legion, or another registered Weird.
+
+### Conversion and Decadence Review Gates
+
+1. **Chronology gate:** legalization begins under Cassian in 292 AR, Astrion's restoration lasts 348–351, compulsory conversion belongs to Vestian from 377–395, Velian culture forms after 411, and the Ättar Great Keel-Taking belongs chiefly to c. 400–540. No company may flatten those phases into one event.
+2. **Star-complexity gate:** most major Star powers were refracted Menhir, Thanatos was a misclassification of the Boatman, ordinary images and offices also existed, and Idol Masks could infiltrate real institutions. No one diagnosis applies to the whole Pantheon.
+3. **Conversion gate:** authentic revelation and sanctity coexist with persuasion, protection, opportunism, coercion, confiscation, dispossession, resistance, and atrocity. Neither Church nor old cult receives collective innocence.
+4. **Classification gate:** human soul, object, fraud, residue, office, Menhir `court-law`, Idol Mask, true spirit, bound soul, relic, Patron, and saint remain distinct. A working sign proves only the bounded relationship that answered.
+5. **Repentance gate:** genuine repentance requires changed conduct and material repair where possible but cannot compel final judgement, victim reconciliation, political rehabilitation, sainthood, or the repentance of a surviving Mask.
+6. **One-Throne gate:** the Penitent's Other Face belongs to Pride alone. Separate Wrath feeding does not create a hybrid Mask, Archmask, or succession candidate.
+7. **Culture-and-geography gate:** Ättar, Sestaran, Velian, Jirahar, old-cult, converted, and mixed households require particular regional and legal placement before promotion. Competence follows learning and participation rather than ancestry.
+8. **Mission-and-hospitality gate:** just shelter, cooperation, translation, and conversion remain free human acts. No outsider is secretly Christian by narrative necessity and no route response authenticates a missionary empire.
+9. **No-master-company gate:** the Children, Penitent, and wandering duo do not jointly cause Conversion, Astrion's failure, imperial decline, Velian formation, or the Great Keel-Taking. Proposed overlaps remain optional and local.
+10. **Weird gate:** no temple object, penitential hymn, portrait, chart, court response, or later saint claim explains the Third Nail, Averted Legion, or another registered Weird.
+
+### Covenant Rise and Long Frontier Review Gates
+
+1. **Chronology gate:** Mujalib's revelation belongs to 541, Tergai's violent seizure to 558, the disputed succession to 597, Zanthir's foundation to 601, Bir Qassim to 603, Banu Mizan client formation around 610, and the Long Frontier to 612–884. Rab Yequtiel remains c. 748–831 with his own *Guide for the Wandering*.
+2. **Living-frontier gate:** Ahl-e-Ahd, Ahdari, Iqashari, Qahuri, Qazmari, Zanthiri, Velian, Jirahar, Tarkhan, Sestaran, converts, protected communities, freed households, and mixed families retain distinct institutions and internal differences. The frontier is not an empty meeting place between two pure civilizations.
+3. **Law-and-justice gate:** valid contract, enforceable office, righteous judgement, divine approval, political legitimacy, and moral obligation remain distinguishable. A working instrument can be lawful and wrong; a narrow correction does not redeem an empire.
+4. **Skill-and-person gate:** engineering, medicine, interpretation, testimony, hospitality, navigation, and scholarship arise through particular lives, training, work, and relationship rather than ancestry. Patients, refugees, prisoners, translators, and hosts remain agents rather than narrative resources.
+5. **Shelter gate:** sanctuary protects the people and interval actually promised. It neither authenticates a false story nor automatically creates conversion, citizenship, innocence, hereditary title, unlimited immunity, or rightful sovereignty.
+6. **Language gate:** translation can be better or worse without one language being primitive, uniquely sacred, perfectly transparent, or metaphysically assigned to a people. Pentecost cannot erase multilingual labor, and no living-tradition performance transfers without a named dossier.
+7. **Route gate:** current-lane travel requires intent, correspondence, a reliable name or tether, and adequate ballast and return. A performed text stabilizes the relation it actually preserves; it does not create universal geography, ownership, doctrine, or a master route key.
+8. **Continuity gate:** human soul, illness, object, text, residue, contract office, current-lane, Menhir law, Idol Mask, Archmask, Regnant, Patron, saint, relic, and composite feast remain separately classified. Repeated names, professions, texts, or rituals never merge human souls.
+9. **Succession gate:** B3-16 is deferred and now includes B4-18's later crown-office evidence in one research bundle. Dependent Mask survival, Archmask autonomy, true accession, former-Regnant continuity, and cross-heartland consequences each require separate proof; review found none sufficient to reopen the slot.
+10. **No-master-history gate:** the four prisoners, wandering duo, sanctuary households, five translators, and Pride evidence bundle do not form one secret school, cause the First Unsealing, create the Long Frontier, or explain a registered Weird.
 
 ## Block IV Review Register
 
-| Seed | Retain | Revise | Defer | Reject | Review notes |
-|---|---|---|---|---|---|
-| B4-01 | unreviewed | unreviewed | unreviewed | unreviewed | |
-| B4-02 | unreviewed | unreviewed | unreviewed | unreviewed | |
-| B4-03 | unreviewed | unreviewed | unreviewed | unreviewed | |
-| B4-04 | unreviewed | unreviewed | unreviewed | unreviewed | |
-| B4-05 | unreviewed | unreviewed | unreviewed | unreviewed | |
-| B4-06 | unreviewed | unreviewed | unreviewed | unreviewed | |
-| B4-07 | unreviewed | unreviewed | unreviewed | unreviewed | |
-| B4-08 | unreviewed | unreviewed | unreviewed | unreviewed | |
-| B4-09 | unreviewed | unreviewed | unreviewed | unreviewed | |
-| B4-10 | unreviewed | unreviewed | unreviewed | unreviewed | |
-| B4-11 | unreviewed | unreviewed | unreviewed | unreviewed | |
-| B4-12 | unreviewed | unreviewed | unreviewed | unreviewed | |
-| B4-13 | unreviewed | unreviewed | unreviewed | unreviewed | Black-Wind local cycle; not a new signature company |
-| B4-14 | unreviewed | unreviewed | unreviewed | unreviewed | existing Garden bed only; outcomes protected by Forward Rule |
-| B4-15 | unreviewed | unreviewed | unreviewed | unreviewed | |
-| B4-16 | unreviewed | unreviewed | unreviewed | unreviewed | |
-| B4-17 | unreviewed | unreviewed | unreviewed | unreviewed | evidence does not itself promote a succession |
-| B4-18 | unreviewed | unreviewed | unreviewed | unreviewed | sole Block-IV slot; must be reconciled with B3-16 before any whole-history promotion |
+The register records nursery dispositions rather than canon promotion. Block IV closes with seventeen retained seeds and one deferred research bundle; no story seed, true Idol succession, or present-day outcome is promoted by review alone.
+
+| Seed | Disposition | First-pass deliverable | Promotion gate still outstanding |
+|---|---|---|---|
+| B4-01 — Thirty-First Crew | `retain` | one refugee vessel taken amid a berth riot, killing, abandonment, and a deliberately cut gangway, with a narrow muster-bell office and later Thirty-Sisters accretion | people, vessel, ports, bell provenance, Sestaran landing, later journeys, saint claims, and endings; never identify it as a Thirty Sister |
+| B4-02 — Six at the Cinder Inn | `retain` | principal Fall-to-Reconquest ascending company whose members later include intimate abuse of office, an arranged loyal subordinate's death, murder of surrendered rivals, and a household feud that becomes civil conflict | membership, relationships, Caedros intersection, individual culpability, offices, saint and Patron claims, Egg White continuity, erased companion, and every ultimate fate |
+| B4-03 — Deed in the Bread Jar | `retain` | bounded household evidence complicating return, custody, and occupation-born claims | place, people, parcel, documents, material authenticity, present claimants, restitution, and remedy |
+| B4-04 — Last Common Road | `retain` | minor courier-and-host cycle preserving common hospitality across institutional rupture | company, route, texts, betrayals, saint reception, endings, and all local relations; never make a delivery cause the Split |
+| B4-05 — Lamp Answered Twice | `retain` | one repaired lamp giving two genuine but bounded practical responses under divided custody | place, components, response conditions, saint claims, custody, and present function; no universal doctrinal verdict |
+| B4-06 — Two Weeping Advocates | `retain` | two opposed dependent Envy Masks exploiting genuine grief and rival preaching | titles, anchors, victims, texts, manifestations, and future autonomy; no church soul, divided saint, Regnant, or Bells explanation |
+| B4-07 — Ransomed Standard | `retain` | High Noon–Qarath signature company with a claimant-bound truce standard | members, recoveries, claimants, standard terms, national memories, saint and Patron claims, and endings |
+| B4-08 — Woman Who Returned the Keys | `retain` | decisive civic woman who enters the hostile camp by calculated deception, personally kills and beheads its commander, returns with the head, and relinquishes the city keys | city, woman, siege, evidence, commander, feast, saint claim, false descendants, and aftermath |
+| B4-09 — Poor Engineer's Mark | `retain` | forgotten craft worker saving one lesser city through a practical pressure repair | identity, town, technique, notation, collaborators, stolen credit, payroll recovery, and fate |
+| B4-10 — Forty-First Ferry | `retain` | one illegal plague-route company beneath a wider composite burial-and-passage cycle | people, river, episodes, tokens, betrayals, appropriations, saint claims, and endings; never explain the Quiet Ninth |
+| B4-11 — Physician and Wonder-Worker | `retain` | one refuge-house pair combining material medicine with one bounded thin-place response | people, refuge, cases, response, recognition, relics, partisan Lives, and endings |
+| B4-12 — Two Census Chronicles | `retain` | incomplete mortality and threshold-damage surveys preserved by rival institutions | authors, districts, sources, errors, contact, suppression, custody, and present use; never reveal the full authorial catastrophe publicly by default |
+| B4-13 — Road That Paid Twice | `retain` | ordinary medicine-or-seed caravan protected and exploited by two bounded escort bargains | route, travelers, cargo, issuers, payments, breaches, Double Escort claim, Ash Road relation, and endings |
+| B4-14 — Company with No Charter | `retain` | campaign-facing accidental company offered one deniable job around an existing Held Proof | every member, employer, object, witness, investigation, relationship, discovery, choice, and outcome under the Forward Rule |
+| B4-15 — Separated Witness Test | `retain` | low-status worker who refuses sexual coercion, faces a false capital accusation, and is vindicated through separated testimony in a useful but fallible procedure | court, people, object, failed test, contradiction, remedy, sealed transcript, prior source, and later misuse |
+| B4-16 — Feast Audit | `retain` | concealed household access and consumption exposed by a physical audit, followed by state execution of the guilty household and destruction of the image while a separately anchored dependent Gluttony Mask survives | city, institution, perpetrators, victims, quantities, anchor, collective-punishment dispute, classification, containment, and public account |
+| B4-17 — Archive of the Former Gods | `retain` | secondary concordance showing some dependent-Mask kinship without supplying a divine genealogy | cataloguer, collections, entries, forgeries, affiliations, institutional interference, and any separately tested Archmask evidence |
+| B4-18 — Crown That Replaced Its Wearer | `defer` | one consolidated B3-16/B4-18 Pride-succession research bundle with no event established | autonomous continuity, accession, Throne change, prior Regnant, cross-route effect, object identity, whole-history cap, and decisive evidence |
+
+### Block IV Review Gates
+
+1. **Chronology gate:** the Fall belongs to 905 AR, the Flight to 906–907, rebellion to 908–921, Caedros I's crown to 922, Caleran's recovery and Caedros's death to 957, the Long Reconquest to 1052, the Great Split to 1015, High Noon to 1104–1290, Qarath to 1214 and its civil wars to 1214–1225, Grey Sweat to 1232–1247, Black Wind to 1265–1300, Reformation from 1297, and the present to 1360. Local cycles may overlap those eras without compressing them.
+2. **Fall-and-vessel gate:** the Thirty Sisters remain unexplained. The Thirty-First vessel is an ordinary crewed ship with a bounded bell office and later numerical accretion, never a missing Sister or universal truth instrument.
+3. **Caedros-and-company gate:** Caedros remains the fixed minor-house commander who becomes king. Six at the Cinder Inn may intersect his history and government but neither replaces him, secretly authors every success, nor makes the Reclamation inevitable.
+4. **Return-and-property gate:** return, flight, collaboration, resistance, lawful custody, occupation-born families, good-faith purchase, coercive transfer, improvement, inheritance, and prior title remain morally and legally distinguishable. One relic or deed proves only its bounded custody facts.
+5. **Split gate:** the Great Split retains both churches' real historical and theological cases. No friendship, courier, failed delivery, lamp, saint, dependent Mask, or surviving text causes or resolves the rupture or explains the Bells of the Split.
+6. **Sacred-response gate:** White Flame, relic, manifested saint, human soul, divided commemoration, lamp office, dependent Mask, Patron imitation, residue, and fraud remain separately classified. One practical response proves only its own commission and never creates a neutral third church.
+7. **High-Noon-and-Qarath gate:** the Ransomed Standard is the only new signature-company bed in the 1104–1231 gap. No company, woman, engineer, standard, mark, campaign, or court intrigue secretly causes Qarath's destruction or solves the empire's decline.
+8. **Plague-and-Quiet-Ninth gate:** ferry work, burial, medicine, wonder, census, threshold damage, Undertow effects, and later chronicle are distinct. Public evidence remains partial, the authorial catastrophe is not automatically common knowledge, and no seed explains the Grey Sweat or Quiet Ninth.
+9. **Black-Wind gate:** mobile and settled peoples retain internal diversity, coercion, bargain, hospitality, violence, and fidelity. Payment under threat is not consent, Qarayel's extraction is not occupation, and no road story finds or explains Qarayel's grave.
+10. **Present-and-Forward gate:** B4-14 fixes only a bounded starting pressure. It cannot prescribe campaign membership or fate, and B4-15–17 attach to existing Held-Proof politics without adding a ninth proof, omniscient archive, or secret master plot.
+11. **Idol-succession gate:** B4-06 and B4-16 remain dependent Masks. B4-17 proves no succession. B4-18 is deferred into B3-16; recurring imagery, office, title, archive formula, or Mask does not establish Archmask autonomy, accession, prior Regnant, or former-Regnant survival.
+12. **Continuity-and-Weird gate:** human soul, saint, relic, object, office, legend-persona, residue, Mask, Archmask, Patron, Regnant, and Idol Throne remain distinct. No Block-IV seed explains the Thirty Sisters, Bells, Two Winters and the Apology, Walking of the Small, Quiet Ninth, Held Breath, or Qarayel's grave.
 
 ## Protected Weird Checklist
 

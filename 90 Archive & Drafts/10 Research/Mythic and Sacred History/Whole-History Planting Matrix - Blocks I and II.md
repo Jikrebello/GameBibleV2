@@ -33,7 +33,7 @@ tags:
 # Whole-History Planting Matrix — Blocks I and II
 
 > [!warning] Exploratory nursery
-> Nothing in this document is canon. Existing canon and existing beds from [[The Historical Seed Garden]] are identified explicitly; all new names, memberships, miracles, Mask histories, and explanations remain provisional. A reviewed card receives exactly one nursery disposition: `retain`, `revise`, `defer`, or `reject`. Cards outside the opened Late-Chains–Exodus bridge batch remain `unreviewed`.
+> Nothing in this document is canon. Existing canon and existing beds from [[The Historical Seed Garden]] are identified explicitly; all new names, memberships, miracles, Mask histories, and explanations remain provisional. Every developed card now carries exactly one nursery disposition: `retain`, `revise`, `defer`, or `reject`. Lighter leads and the Praise roll remain outside the developed-card review count until expanded.
 
 ## How to Read the Four Lanes
 
@@ -76,11 +76,11 @@ These early-age cards use compact labels while retaining the full [[Historical S
 - **Future hooks** carries competing interpretations and deliberately open facts; alternatives joined by *may*, *whether*, or *claim* remain unresolved.
 - **Protected boundaries** carries authorially known negative facts and unresolved-Weird limits.
 - **Source and sensitivity note** carries attribution and transfer restrictions.
-- **Review disposition** records exactly one of `retain`, `revise`, `defer`, or `reject` once a card enters author review. Cards outside the current Late-Chains–Exodus bridge review retain their four `unreviewed` placeholders until their chronological batch is opened. A reviewed disposition governs nursery work only and does not promote the card into canon.
+- **Review disposition** records exactly one of `retain`, `revise`, `defer`, or `reject` once a card enters author review. Cards not listed in a completed disposition register retain their four `unreviewed` placeholders until their chronological batch is opened. A reviewed disposition governs nursery work only and does not promote the card into canon.
 
 ### Regnant-Succession Control
 
-The earlier whole-history nursery reserved exactly **one authorial succession-candidate slot in Block I** and **one in Block II**. The Devourer's First Mouth holds the Block-I slot; the Crowned Reflection holds the Block-II slot. The present bridge pass introduces and promotes no true succession, and defers the Block-I candidate. Other throne-shaped ideas below are already classified as Archmask revolts, regional Mask turnovers, failed coups, or in-world historical theories. They are not additional true-succession candidates unless a block review first rejects its current candidate and explicitly reopens the slot.
+The earlier whole-history nursery reserved exactly **one authorial succession-candidate slot in Block I** and **one in Block II**. The Devourer's First Mouth holds the Block-I slot; the Crowned Reflection holds the Block-II slot. Completed reviews have promoted no true succession and have deferred both candidates. Other throne-shaped ideas below are already classified as Archmask revolts, regional Mask turnovers, failed coups, or in-world historical theories. They are not additional true-succession candidates unless a block review first rejects its current candidate and explicitly reopens the slot.
 
 An Idol remains one guilty `yolk-sovereignty`. A Regnant is its mutable executive personality, not an innocent tenant of a neutral divine office. A dependent Mask must first become an autonomous Archmask before it can contend for regnancy. A human soul cannot become an Idol; only an `idol-pattern` persona grown from memory, office, or legend could be assimilated into the Throne.
 
@@ -168,7 +168,7 @@ These are trace-level leads, not additional signature companies, succession cand
 #### BX-01 — The Petition of the Closing Court
 
 - **Era and carrier:** late Chains; a Giant court archive containing dreams, calculations, witness statements, and a rejected request for interpretation or exemption.
-- **Use:** gives the Closing Courts fear, denial, bargaining, and rival advice without making them innocent or fixing the Great Prophet's private dealings.
+- **Use:** gives the Closing Courts fear, denial, bargaining, and rival advice without making them innocent or fixing the Great Prophet's private dealings. The petition comes from a court already killing captive children, interpreters, and failed petitioners; its request for mercy is not evidence that it offered mercy to those it owned.
 - **Trace:** a sealed tablet whose erased addressee may have been the Prophet, a client interpreter, a counterfeit oracle, or nobody the later court remembered correctly.
 - **Boundary:** foreknowledge is not repentance; the petition neither causes the plagues nor establishes that the Lord owed the court another warning.
 - **Review disposition:** `retain` as an exploratory trace lead.
@@ -176,7 +176,7 @@ These are trace-level leads, not additional signature companies, succession cand
 #### BX-02 — The House That Opened One Gate
 
 - **Era and carrier:** warning and plague years; one client household, estate authority, or minor crown obeys a bounded demand to release captives and open one route.
-- **Use:** demonstrates that warnings and protected acts are genuine without declaring the whole ruler, dynasty, or polity righteous.
+- **Use:** demonstrates that warnings and protected acts are genuine without declaring the whole ruler, dynasty, or polity righteous. Rival officials execute captured gate servants and kill some released families before they reach the route; neighboring houses that refuse release suffer the bodily judgement or retaliatory destruction their later records try to reduce to property loss.
 - **Trace:** one gate commission still recognizes that completed release while refusing every later attempt to turn it into hereditary sanctity.
 - **Boundary:** temporal mercy does not erase prior crimes, confer universal legitimacy, or make this house the sole source of a later people.
 - **Review disposition:** `retain` as an exploratory trace lead.
@@ -184,7 +184,7 @@ These are trace-level leads, not additional signature companies, succession cand
 #### BX-03 — The City That Stayed Behind
 
 - **Era and carrier:** breakout and Orphaned World; canal workers, burial fraternities, former client officials, soldiers, and freed households remain to keep one liberated city alive.
-- **Use:** establishes a human successor history outside the principal host and tests whether load-bearing Giant infrastructure can be repaired without inheriting Giant sovereignty.
+- **Use:** establishes a human successor history outside the principal host and tests whether load-bearing Giant infrastructure can be repaired without inheriting Giant sovereignty. Its first years include famine, siege, collaboration, executions by successor rulers, and graves for people killed because they refused both returning Giant masters and the new human predation.
 - **Trace:** a ruined public measure, emergency canal law, grave quarter, or later northern community preserving a different liberation calendar.
 - **Boundary:** remaining behind is not rejection by the Lord; later failure or tyranny cannot be assigned to blood, ethnicity, or refusal of one man's charisma.
 - **Review disposition:** `retain` as an exploratory trace lead.
@@ -192,7 +192,7 @@ These are trace-level leads, not additional signature companies, succession cand
 #### BX-04 — The Severed Pursuit
 
 - **Era and carrier:** final breakout or Glass approach; a recurrence engine, generative route, or apex pursuit-work is broken while its captives and ordinary components are separated from it.
-- **Use:** leaves bounded evidence of the one Phoenix's Commission of Severance without naming that Phoenix, fixing its visible cultural forms, or turning the Host into the Prophet's army.
+- **Use:** leaves bounded evidence of the one Phoenix's Commission of Severance without naming that Phoenix, fixing its visible cultural forms, or turning the Host into the Prophet's army. Pursuers die when the commissioned severance closes the recurrence route; selected Titan systems are bound or cut away from reconstitution, while captives and ordinary components are distinguished from the war-work.
 - **Trace:** a burned negative-space, harmless replacement bodies, an engine that cannot recognize its former command, or mutually incompatible wing-and-fire accounts.
 - **Boundary:** the trace does not explain the Glass, identify a Bird-Marked Site, prove every pursuer condemned, or authorize a repeatable modern severance rite.
 - **Review disposition:** `retain` as an exploratory trace lead.
@@ -217,13 +217,13 @@ These are trace-level leads, not additional signature companies, succession cand
 ### I-H02 — The Midwives of the Unnumbered
 
 - **Era and scope:** middle Age of Chains into the warning years; a loose profession-network in Qianglong and several estates copying its caste measures, not one secret universal order.
-- **Humble ground:** enslaved midwives falsify birth measures to keep children below Giant tribute thresholds and quietly exchange infants whose inherited work-designations would mean death.
+- **Humble ground:** Qianglong's rulers order infants assigned to forbidden, rebellious, or overfull work lines killed at birth or exposed beyond the estate wall. Enslaved midwives falsify birth measures to keep some children below the thresholds and quietly exchange infants whose inherited work-designations mean death. The decree is not merely threatened: many children are killed, and several exposed bodies become the first evidence later gathering registers preserve.
 - **Scriptural lens:** the midwives who fear the Lord more than a murderous ruler; women and household servants defeating imperial policy without military office; the name known by the Lord though erased by the state.
 - **Comparative grammar:** local wise-women, household protectors, kinship made through adoption, and the underestimated figure whose ordinary competence is exactly what the crisis needs.
 - **World Egg torque:** Giant caste magic reads assigned measure, lineage mark, and first recorded name. The midwives learn that no single lie is sufficient; survival requires keeping body, spoken name, ledger-name, and household memory from aligning until the child can be acknowledged publicly outside the lethal work-designation. During Qianglong's Four Offices crisis, their separate household records help distinguish living persons from caste recurrences and supply trustworthy names to gathering registers.
 - **Continuities:** children and midwives are `human-soul`; caste ledgers and naming stations are `infrastructure-office`; counterfeit cradle voices are `constructed-pattern` or Idol Masks only if a later story establishes them.
 - **Present-day traces:** birth knots tied with one deliberate error; customs of giving a child a private, household, and public name; midwives exempt from certain census oaths; Giant tablets listing impossible demographic gaps; disputed camp copies in which work categories have been replaced by witnessed household relations.
-- **Future hooks:** one saved child may later become a collaborator, one midwife may have sold names under torture, and a modern noble line may depend upon a substitution the family would call fraud. Different branches may join the remnant, remain in a successor city, or perish while protecting children who never enter the central host.
+- **Future hooks:** one saved child may later become a collaborator; one midwife sells names under torture; captured midwives are publicly killed to frighten the profession; and a modern noble line may depend upon a substitution the family would call fraud. Different branches may join the remnant, remain in a successor city, or perish while protecting children who never enter the central host. Their courage does not retroactively save the infants already murdered.
 - **Protected boundaries:** do not make these women the sole preservers of humanity, and do not make deception intrinsically holy; the moral center is protection of the threatened person.
 - **Source and sensitivity note:** the Exodus parallel may remain visible, but change regime, technique, company structure, consequence, and later memory. Do not reproduce named biblical characters or ethnicity as a reskin.
 - **Review disposition:** `retain` — deepen through Qianglong's caste, medicine, and gathering-register crisis.
@@ -231,7 +231,7 @@ These are trace-level leads, not additional signature companies, succession cand
 ### I-H03 — The Funeral Thieves
 
 - **Era and scope:** late Giant time through Ishkatar's collapse; initially one work gang stealing a body from a reclamation quay, later an expandable burial, plague, and corpse-exchange road cycle.
-- **Humble ground:** corpse-sorters, furnace hands, a failed apprentice embalmer, and a child who remembers names steal human remains before Giant workshops can reuse them.
+- **Humble ground:** corpse-sorters, furnace hands, a failed apprentice embalmer, and a child who remembers names steal human remains from reclamation quays where bodies are flayed for marked skin, opened for usable organs, rendered for furnace material, or rebuilt as obedient estate forms. Families are denied the remains, and captured burial thieves are mutilated with the same tools before execution or display.
 - **Scriptural lens:** Tobit's burial piety; fidelity to the dead under an empire that treats bodies as material; the apparently small righteous act that creates a road for later deliverance.
 - **Comparative grammar:** underworld road adventure, African and European dangerous-hospitality tales, and outlaw companies whose sacred reputation grows from illegal work.
 - **World Egg torque:** correct burial does not determine judgement, but it disperses usable residue, denies estate engines a name-bearing anchor, and prevents corpse-roads from becoming feeding architecture for Gluttony. As river title and afterlife claims fail, the thieves learn the limited material tests distinguishing a routed human grave, a true `bound-human-soul`, a Giant body, a `titan-continuity` fragment, and a royal Giant Reconstruction using `constructed-pattern`.
@@ -246,13 +246,13 @@ These are trace-level leads, not additional signature companies, succession cand
 
 - **Era and scope:** late Age of Chains into the warning and early plague years, close enough to liberation for later traditions to attach members to the Great Prophet without making them part of his central household.
 - **Nursery provenance:** existing Garden bed.
-- **Humble ground:** a mill sleeper, ledger-girl, giant-blooded household bastard, elderly cook, and condemned hunter must move one sick child between estates. Authorially, the household bastard is a giant-blooded human possessing one complete `human-soul`, not a Titan-Firstborn, High Giant, fractional soul, or Giant Reconstruction.
+- **Humble ground:** a mill sleeper, ledger-girl, giant-blooded household bastard, elderly cook, and condemned hunter must move one sick child between estates. Years earlier, the Sleeper was driven into a supernaturally distorted rage during a Giant household contest and killed several people of the household he loved and was sworn to defend. The estate preserved him for impossible labors, alternating punishment with promises that one more service would balance the dead. Authorially, he remains responsible for the killings even where Giant or Idol pressure helped disorder him; the pressure neither committed the act in his place nor makes restitution possible. The household bastard is a giant-blooded human possessing one complete `human-soul`, not a Titan-Firstborn, High Giant, fractional soul, or Giant Reconstruction.
 - **Scriptural lens:** the reluctant deliverer, the vulnerable child, wisdom appearing in servants, and imperial measure judged by the harm it conceals.
 - **Comparative grammar:** sleeping champion, Heraclean impossible labor, trickster contract, wandering company, and hero corrected by the less celebrated member.
 - **World Egg torque:** the Giant measuring rod is also a bounded `infrastructure-office`. By proving that its owner has demanded mutually impossible obligations, the company makes the measure invalidate its own authority over one estate network. The ledger-girl, not the Sleeper, understands the victory. The sick child's movement forces them to combine hidden names, public ration measures, burial clearance, and estate-to-estate conduct that later gathering crews can inherit without inheriting the company.
 - **Continuities:** every companion, including the giant-blooded household bastard, is `human-soul`; the rod is `infrastructure-office`; any personality later answering from the relic is `residue`, `constructed-pattern`, `legend-persona`, or an Idol Mask pending investigation.
 - **Present-day traces:** three shrines claim the broken rod; *the measure broke first* is a legal proverb; mills leave one oversized sleeping bench during famine relief; some Exodus ration tables use a deliberately broken upper mark to show that no office may claim the uncounted person.
-- **Future hooks:** which member first heard the Prophet, whether the household bastard later administered or liberated an estate, whether the Sleeper's gift was bodily, bargained, or legendary, which feeder road reached the gathering, and which shrine possesses only a later copy.
+- **Future hooks:** which member first heard the Prophet, whether the household bastard later administered or liberated an estate, which household dead are omitted from heroic recensions, whether the Sleeper's distortion was bodily, bargained, or Idol-induced, which feeder road reached the gathering, and which shrine possesses only a later copy. Saving the sick child may begin a changed life; it neither resurrects the slain nor completes an arithmetic of expiation.
 - **Protected boundaries:** this local defeat does not reveal a universal loophole in Giant law, cause a plague, command the hidden Bowl network, or reduce the Exodus to clever accounting. Inherited practice never proves shared membership.
 - **Source and sensitivity note:** the sleeper must be misjudged because ordinary labor cannot safely use his capacity, not because a colonized people are characterized as lazy. Avoid equating appetite, body size, or disability with moral failure.
 - **Review disposition:** `revise` — the soul classification and Unbinding placement are now fixed for the next author review; names, membership, encounters, and final outcomes remain exploratory.
@@ -290,7 +290,7 @@ These are trace-level leads, not additional signature companies, succession cand
 ### I-L03 — The Child Who Snared Noon
 
 - **Era and scope:** Age of Chains; a mobile folktale with several mutually incompatible locations.
-- **Ordinary problem:** a small enslaved child sets a snare for the overseer's light-hunting bird and catches the estate's tethered blood-calendar light instead. Later songs call it a piece of the sun, but authorially it is a constructed imperial refraction, not Father Sun in sovereign or manifested personhood.
+- **Ordinary problem:** a small enslaved child repeatedly ignores an elder sibling's warnings and sets a snare for the overseer's light-hunting bird, putting the sibling, the household, and a hidden ration route in immediate danger before catching the estate's tethered blood-calendar light. Later songs insist that the recklessness carried a permanent cost, but no death, maiming, or lost refuge is authorially fixed until the named Innu source review. The captured thing is a constructed imperial refraction, not Father Sun in sovereign or manifested personhood.
 - **Scriptural lens:** the least person confounding imperial power; creation remaining the Lord's rather than the ruler's possession; an elder sibling's warning as moral center.
 - **Comparative grammar:** Tshakapesh-like reckless culture hero, stolen-light and cosmic-accident stories, and the child whose foolishness becomes consequential.
 - **World Egg torque:** the observatory uses genuine solar regularity as evidence for a false claim that the Blood Sun owns daylight. Catching its light-bird interrupts one estate's measured noon, making work bells, surveillance lenses, sacrifice clocks, and ration periods disagree. The child and elder sibling must dismantle the tether without mistaking an imperial instrument for the created sun it imitates.
@@ -304,7 +304,7 @@ These are trace-level leads, not additional signature companies, succession cand
 ### I-L04 — The Thief of the Unowned Day
 
 - **Era and scope:** late Nythalum work camps before the Ascension catastrophe; an etiological trickster cycle later retold by laborers, priests, and magistrates far beyond the island.
-- **Ordinary problem:** a hungry slave tries to steal the sealed assignment cylinder authorizing a Giant feast-shift so that the launch kitchens will stop for one afternoon. Later tales turn the cylinder into a jar containing time itself.
+- **Ordinary problem:** a hungry slave steals the sealed assignment cylinder authorizing a Giant feast-shift first for food, revenge, and the pleasure of humiliating an overseer—not from pure public virtue. The broken cylinder halts the kitchens for one afternoon but also erases a labor gang's promised berth allocation; at least one person dies in the panic over the unassigned interval. Later tales suppress the selfish motive or turn the cylinder into a jar containing time itself.
 - **Scriptural lens:** sabbath as freedom from total ownership; provision before prestige; imperial claims broken by their own excess.
 - **Comparative grammar:** Raven and Ananse procurement, Loki-like misadventure, Reynardian legal cunning, and the foolish benefactor whose motive is mixed.
 - **World Egg torque:** Nythalum's observatory calendars are bounded offices assigning labor, sacrifice, supply priority, and promised lunar berths to royal houses. When the cylinder breaks, several work intervals become unassignable by that office. Contracts, inventory claims, and certain Mask routes fail during the irregular intervals without fragmenting, owning, or altering cosmic time.
@@ -318,7 +318,7 @@ These are trace-level leads, not additional signature companies, succession cand
 ### I-L05 — The Three Unfinished Borders
 
 - **Era and scope:** physical scars of the Faewild Schism distributed across three distant regions; no mortal participant, eyewitness, or complete battle sequence.
-- **Seed function:** give the Schism durable geography and mutually incompatible later memories while keeping its combatants and chronology under [[The Faewild Schism]].
+- **Seed function:** give the Schism durable geography and mutually incompatible later memories while keeping its combatants and chronology under [[The Faewild Schism]]. The scars were made in real parent–child and sibling war among created powers: manifestations were torn apart, imprisoned inside wounded jurisdictions, and used as weapons against their own courts. Later mortals disagree about every identity and sequence, but not because the battle was bloodless.
 - **Scriptural lens:** creation remains the Lord's good work even when rebellious created powers wound their relation to it; no battle among creatures becomes a war among peer gods.
 - **Comparative grammar:** landscape scars left by Greek, Norse, and Hindu divine-war cycles, used only as the grammar by which later mortals narrate an event they did not witness.
 - **Historical pressure:** Scattering peoples, Giant surveyors, Atherian natural philosophers, and present courts each need the damaged boundaries to fit a different sacred and political map.
@@ -363,16 +363,16 @@ These are trace-level leads, not additional signature companies, succession cand
 ### I-M03 — The Collar Carried Before the Crown
 
 - **Era and scope:** late Chains origin with later First-King and imperial reuse.
-- **Ordinary origin:** a freed overseer removes the command seal from a slave collar and uses the iron ring to carry cooking pots for a refugee household.
+- **Ordinary origin:** the ring first belongs to a household slave sold after resisting separation from a child. Its command seal tightens under punishment and is used during a fatal public beating; a later overseer who participated in the punishment removes the seal after his own manumission and uses the iron ring to carry cooking pots for a refugee household. Later coronations usually erase both the dead bearer and the overseer's guilt.
 - **Scriptural lens:** authority remembered under judgement; the ruler as servant; liberation never permitting forgetfulness of bondage.
 - **Comparative grammar:** humble object becoming regalia, outlaw founder, sleeping-king relic, and TES office-mantle without person replacement.
 - **World Egg torque:** centuries of coronation use may turn the ring into an `infrastructure-office` that exposes whether a claimant accepts duties once assigned to servants. It can reject a performance without proving universal legitimacy.
 - **Continuities:** original bearer is `human-soul`; the ring is an object developing `infrastructure-office`; voices or visions around it are `residue` unless a saintly commission or bound soul is independently established.
 - **Present-day traces:** several crowns are preceded ceremonially by an iron ring; one dynasty hides the inner collar marks; popular tales claim it burns tyrants, although records disagree.
-- **Future hooks:** the original command seal may still exist; rival regalia may descend from pieces of one collar; an Idol Mask may attempt to turn service-memory into Pride's theatre of humility.
-- **Protected boundaries:** the ring cannot determine divine favour, final judgement, or hereditary right. Do not merge it automatically with the Crownless Company's cooking ring; one object, two rival objects, and later deliberate fusion remain the three live alternatives.
+- **Future hooks:** the original command seal may still exist; rival regalia may descend from pieces of one collar; a later crown may rivet claimed collar iron into a copy of the Iron Cooking Ring; an Idol Mask may attempt to turn service-memory into Pride's theatre of humility.
+- **Protected boundaries:** the Chain-era collar ring and the Crownless Company's original cooking ring are authorially distinct objects. Later fusion, shared ritual language, forgery, or mistaken identity cannot make them one origin. Neither ring can determine divine favour, final judgement, or hereditary right.
 - **Source and sensitivity note:** retain the moral weight of bondage. A slave collar must not become attractive fantasy décor detached from the people it harmed.
-- **Review disposition:** `defer` — hold until the Block-II object-identity review resolves its relation to the Iron Cooking Ring.
+- **Review disposition:** `defer` — the separate-object ruling is now fixed; hold this Chain-era seed until its household, later reuse, and specific coercive history can be developed without making the collar decorative regalia.
 
 ## Lane I-D — Idol, Menhir, and Metaphysical Pressure
 
@@ -393,7 +393,7 @@ These are trace-level leads, not additional signature companies, succession cand
 ### I-I02 — The Red King without a Face
 
 - **Era and scope:** late Chains into Xolotl's Closing-Court wars; Archmask-revolt probe, not an authorial succession candidate in this pass.
-- **Historical pressure:** Giant states convert protection, courage, grievance, and ritual retaliation into hereditary war architecture. When captive supply and Blood Sun transfer begin failing, sacrificial captains, subject armies, and rival royal houses claim that only their violence can preserve the world.
+- **Historical pressure:** Giant states convert protection, courage, grievance, and ritual retaliation into hereditary war architecture. Captives are opened, dismembered, burned, or bled according to competing Red Tally offices; reprisals deliberately kill the kin of deserters and defeated captains. When captive supply and Blood Sun transfer begin failing, sacrificial captains, subject armies, and rival royal houses claim that only still greater violence can preserve the world.
 - **Scriptural lens:** blood crying for judgement, rulers disguising predation as protection, and the refusal to let human vengeance impersonate the Lord's justice.
 - **Comparative grammar:** wars of divine generations and heroic war offices, refracted through TES-style distinction between an enduring sovereignty and the personality attempting to occupy its executive place.
 - **Probe account:** an Archmask grown around the office of sacrificial war-captain captures enough Red Tally networks during the Closing Courts to challenge Wrath's Regnant but fails to take the Throne. Later blood-cult texts turn the failed revolt into a victory and show the same claimant alternately as a faceless judge, wounded animal, and crowned warrior.
@@ -409,10 +409,10 @@ These are trace-level leads, not additional signature companies, succession cand
 ### I-I03 — The Devourer's First Mouth
 
 - **Era and scope:** deep Giant time, sole Block-I succession candidate in this pass; associated with palace famine-feasts and corpse reclamation rather than one ethnicity.
-- **Historical pressure:** Giant elites make nourishment proof of rank and turn denied hospitality into public ritual while enslaved districts starve.
+- **Historical pressure:** Giant elites make nourishment proof of rank and turn denied hospitality into public ritual while enslaved districts starve. Some palace famine-feasts serve the flesh of executed captives or reclaimed corpses as proof that the host can consume both subject and ancestor; other courts force starving petitioners to watch food rot before killing those who reach for it.
 - **Scriptural lens:** rulers and rich households devouring the poor, banquets exposing injustice, and food retained as a created good whose abuse judges the host rather than the hungry.
 - **Comparative grammar:** dangerous hospitality, devouring-host cycles, wars of divine succession, and TES-style throne continuity under a changed executive identity.
-- **Candidate account:** a feast Archmask originally grown as the public voice of several courts becomes autonomous, consumes the prior Regnant's speaking persona, and reorganizes Gluttony around ceremonial inclusion that never nourishes.
+- **Candidate account:** a feast Archmask originally grown as the public voice of several courts becomes autonomous through banquets of deliberate starvation, corpse use, and cannibal incorporation. It consumes the prior Regnant's speaking persona and reorganizes Gluttony around ceremonial inclusion that never nourishes. The bodily practice does not prove the proposed metaphysical succession, which remains deferred.
 - **Succession grammar:** Gluttony. The successor consumes the predecessor and inherits appetites, memories, names, and internal enemies until it cannot distinguish what was originally its own.
 - **World Egg torque:** ancient depictions of the Devourer as a solitary animal and later depictions as an endless host may record a genuine change in Regnant expression rather than cultural costume alone.
 - **Continuities:** Gluttony is one `yolk-sovereignty`; the challenger is an Archmask; feast fauna remain `idol-pattern`; reused human dead carry `residue`, not their original souls.
@@ -472,6 +472,72 @@ These unreviewed leads deepen the people around the Great Prophet without creati
 
 All five leads require visible changes from their scriptural sources, culture-specific placement, and case-by-case soul, relic, and miracle classification before promotion.
 
+## Scattering Comparative Ruling
+
+The six developed Scattering seeds are a shared ecology of memory, migration, hospitality, and predation, but they are not six fragments of one secret event. Their authorial functions remain distinct:
+
+| Seed | Distinct function | Relationship boundary |
+|---|---|---|
+| **The Seven Who Took the Wrong Road** | the one signature wandering-company tradition | “Seven” and “wrong” are later mnemonic judgements; neither fixes the original headcount nor founds seven peoples. |
+| **The House That Chose the Stranger** | human kinship created by witnessed obligation | The household covenant does not require a well, Menhir, or supernatural recognition to be real. |
+| **The Well That Adopted the Stranger** | one local water compact and place-law encounter | It is not automatically the House's well and does not establish universal water law. |
+| **The Parting Tables** | a family of competing departure chronicles and performances | The recensions do not prove a fixed number of departures or a single recoverable itinerary. |
+| **The Unlisted Companion** | a later Envy forgery that parasitizes hardened founder rolls | It does not cause ordinary cultural difference, and it is not secretly an eighth member of the wandering company. |
+| **The Keeper Who Stopped Moving** | one local caution about due action refused under the name of safety | It neither condemns necessary rest nor explains the Scattering as a whole. |
+
+Later singers, courts, and cults may merge these materials: a well may claim the House, a departure recension may absorb the wandering company, or an Envy network may forge itself into both. Such mergers are themselves later historical acts and never prove one master genealogy, hidden organization, fixed set of peoples, or metaphysical fracture.
+
+## Hearths and First Kings Comparative Ruling
+
+The Hearths batch explores how scattered households become durable local societies without making kingship, outlawry, Menhir bargains, or dynastic marriage one universal stage of development. Its six cards perform different work:
+
+| Seed | Distinct function | Relationship boundary |
+|---|---|---|
+| **The Crownless Company** | the principal human ascending-company tradition of the age | Its victory creates obligations before it creates a crown; no member, bloodline, or object is supernaturally entitled to rule. |
+| **The Wolf and the Lantern** | an expandable comic duo cycle about exact local jurisdictions | Its episodes may borrow other tales, but the duo neither classifies every wilderness power nor secretly founds a kingdom. |
+| **The Road of Borrowed Gifts** | a portable road-and-hospitality tale family | It is not the duo's canonical itinerary, and its hosts must be classified episode by episode rather than treated as one spirit species. |
+| **The Iron Cooking Ring** | the Crownless Company's humble relic and later provisioning office | It is not the same original object as the Chain-era collar ring, does not contain a founder, and cannot prove divine election. |
+| **The Crowned Reflection** | the sole Block-II true-succession hypothesis | The contender is an Archmask of Pride, never a human king, crown, reflection, legend, or office becoming the Idol. |
+| **The Guest at the Empty Signature** | a dynastic-coercion Mask complex crossing into the City-State age | It feeds on chosen conversion of covenant into political access, not on marriage, desire, fertility, women, or foreigners as such. |
+
+Later courts may fuse these memories for legitimacy: a dynasty may claim the Ring chose its founder, place the Crowned Reflection in a coronation mirror, recruit a Wolf-and-Lantern episode into royal propaganda, or insert the Guest into an ancestral treaty. Those claims are later feeding and office architectures. They do not retroactively merge the human company, relic, folklore figures, or Idol continuities.
+
+## Exodus Trace-Pair Ruling
+
+The two remaining Exodus cards are supporting carriers of the Last Cart ecology, not additional companies or explanations of the Glass:
+
+| Seed | Distinct function | Relationship boundary |
+|---|---|---|
+| **The Road Sung Across Glass** | a living, paired route-and-duty technique used in a bounded part of the crossing | It supports orientation only while people accurately name nearby persons and responsibilities; it is not revelation, a universal Glass key, or proof of one inherited melody. |
+| **The Wheel Behind the Prophet** | a distributed memorial and departure office built around damaged-wheel signs | It remembers carrying and burial without containing the dead, authenticating a unique original wheel, or proving every Last Cart claim. |
+
+The song may be used by a Last Cart crew and a wheel rite may preserve one of its names, but neither practice establishes company membership, sole cultural ownership, miracle transmission, or an unbroken secret order.
+
+## City-States Comparative Ruling
+
+The City-States batch separates a human company, bounded evidence, institutional repair, and hostile Idol pressure:
+
+| Seed | Distinct function | Relationship boundary |
+|---|---|---|
+| **The Bent-Key Fellowship** | the age's principal human civic-adventure company | Stealing one tablet exposes one city's linked injustices; the company neither invents urban law nor secretly controls later reform. |
+| **The Fountain That Heard Foreigners** | a local forensic encounter in which nonhuman evidence is narrowly interpreted | The fountain records water disturbance, not testimony, guilt, souls, or divine judgement. |
+| **The Bent-Key Amnesty** | a later public remedy that changes one legal architecture | The amnesty may inherit the Fellowship's symbol without being its deed, and bending metal cannot dissolve generic debt or replace restitution. |
+| **The First Foreclosure** | a failed Greed Archmask coup that captures part of a regional feeding network | It exploits chosen dispossession through law; it neither makes commerce demonic nor turns the company, debtors, archives, or city into the Idol. |
+
+The stolen tablet, courthouse fountain, bent keys, and hostile ledger may coexist in one later civic cycle, but they are not one super-artifact or occult machine. Evidence still requires human interpretation, amnesty requires public authority and material repair, and the Greed network can exploit an injustice without causing every participant or institution involved.
+
+## Age of Stars Comparative Ruling
+
+The three Age of Stars cards describe different parts of the Atherian synthesis rather than one inevitable imperial spell:
+
+| Seed | Distinct function | Relationship boundary |
+|---|---|---|
+| **The Road without Milestones** | the age's principal human survey-and-infrastructure company | Maps acquire force through roads, archives, labor, enforcement, and negotiated place-law—not by repetition alone or because surveyors possess metaphysical truth. |
+| **The Boundary That Refused Milestones** | one local dispute exposing limits and overlaps within imperial legibility | The boundary neither invalidates all human property nor causes the entire milestone gap, and its `court-law` is exact rather than morally infallible. |
+| **The Family of Stars** | the institutional synthesis that makes diverse Atherian cults interoperable | Real Menhir continuities, civic genealogies, Idol infiltrations, offices, and human interpreters remain distinct; the authorial Menhir are not literally born into a pantheon. |
+
+Road survey and pantheon synthesis can reinforce the same imperial imagination: one makes territories administratively comparable, the other makes cults ritually comparable. The local boundary shows that neither comparison becomes divine truth. None of the three explains Atherian genius, conquest, or later empire by itself, and none explains the unplaceable late-Star campaign.
+
 ## Lane II-A — Human Heroes and Companies
 
 ### II-H01 — The Last Cart
@@ -491,18 +557,18 @@ All five leads require visible changes from their scriptural sources, culture-sp
 
 ### II-H02 — The Seven Who Took the Wrong Road
 
-- **Era and scope:** Scattering; seven scouts become a later composite of several lost migration parties.
+- **Era and scope:** Scattering; a later composite wanderer cycle built from one or more lost migration parties. “Seven” is the mature tradition's mnemonic number, not an authorially fixed headcount.
 - **Nursery provenance:** existing Garden bed.
-- **Humble ground:** scouts seeking water misread a marker, lose the migrating host, and spend years attempting to return.
-- **Scriptural lens:** wandering after disobedience, the stranger becoming neighbor, and unintended settlement without claiming providential certainty.
-- **Comparative grammar:** exile-return, sevenfold company, culture-founder cycle, episodic wanderers, and landscape-making journeys.
-- **World Egg torque:** road and place laws read the party differently after each receives local guest-right. The farther they travel, the less one return route can recognize all seven under a shared company-name.
+- **Humble ground:** a small mixed scouting party seeks water and missing households after the sanctuary's failure. It follows a sound marker that has been maintained for a camp already moved, loses the larger host, and spends years attempting to return. Later tellings disagree over whether the road was wrong, the departure disobedient, or the mistake merciful.
+- **Scriptural lens:** wandering after failed common life, the stranger becoming neighbor, confession of error, and unintended settlement without claiming providential certainty.
+- **Comparative grammar:** exile-return, mnemonic company, culture-founder cycle, episodic wanderers, and landscape-making journeys.
+- **World Egg torque:** road and place laws read the party differently after each receives local guest-right. The farther they travel, the less one return route can recognize everyone remembered under a shared company-name.
 - **Continuities:** scouts are `human-soul`; place recognition is `court-law` or `infrastructure-office`; later sevenfold founder persona may be `residue`, not seven merged souls.
 - **Present-day traces:** seven wells, cairns, ferry stones, and towers that cannot form one physical route; several languages share a proverb about arriving home by failing to return.
-- **Future hooks:** the company may be composite, one member may have rejoined the host, and later singers may have converted spouses and hosts into the original seven.
-- **Protected boundaries:** do not turn the seven into literal ancestors of every people or use the impossible geography to explain the Year of Standing Stars.
+- **Future hooks:** one member may have rejoined the host; later singers may have converted spouses, guides, dead companions, and hosts into an “original seven”; some regional episodes may belong to unrelated wanderers absorbed into the cycle.
+- **Protected boundaries:** do not turn the seven into literal ancestors of every people, treat the title as an exact itinerary, or use the impossible geography to explain the Year of Standing Stars.
 - **Source and sensitivity note:** avoid a lost-tribe template that reduces distinct cultures to mistaken branches of one family. Emphasize local adoption and long ethnogenesis.
-- **Review:** `retain: unreviewed` · `revise: unreviewed` · `defer: unreviewed` · `reject: unreviewed`
+- **Review disposition:** `retain` — preserve the signature wanderer cycle with its exact headcount, membership, regional episodes, and historical core deliberately open.
 
 ### II-H03 — The House That Chose the Stranger
 
@@ -510,73 +576,73 @@ All five leads require visible changes from their scriptural sources, culture-sp
 - **Humble ground:** a widowed caravan worker, her bereaved in-law, two unrelated children, and a foreign debtor remain together after their larger host divides.
 - **Scriptural lens:** Ruth, Tobit, care for widow and foreigner, household fidelity, and a minor domestic decision entering genealogy.
 - **Comparative grammar:** kinship by obligation, African and Indigenous emphasis on adoption and relational belonging, and the founder whose true story survives in household performance rather than royal annal.
-- **World Egg torque:** they publicly exchange names and duties at a well whose `court-law` recognizes household responsibility rather than ancestry. Later legal traditions mistake this bounded recognition for universal blood adoption.
-- **Continuities:** household members are `human-soul`; well is `court-law`; household charter becomes `infrastructure-office`; ancestor apparitions are `residue` unless otherwise established.
-- **Present-day traces:** a guest may inherit one household object before blood heirs; four cultures tell the same widow-story with different destinations; a well charter names roles but no kinship terms.
+- **World Egg torque:** they publicly exchange names and duties before camp witnesses. Repeated performance turns the witnessed household charter into a narrow `infrastructure-office`, but the household is already real through human promise and care. Several later well-courts claim to have recognized the covenant; none is required to create it.
+- **Continuities:** household members are `human-soul`; household charter may become `infrastructure-office`; any well recognition is separate `court-law`; ancestor apparitions are `residue` unless otherwise established.
+- **Present-day traces:** a guest may inherit one household object before blood heirs; four cultures tell the same widow-story with different destinations; a household charter names roles and duties but no kinship terms; several wells claim the founding exchange.
 - **Future hooks:** one child may become a local ruler, another an ordinary potter whose descendants preserve the truer account, and the debtor may later betray the house without erasing the original fidelity.
-- **Protected boundaries:** do not make this one household the biological source of multiple peoples or claim a Menhir bargain defines human personhood.
+- **Protected boundaries:** do not make this one household the biological source of multiple peoples, identify it automatically with the Well That Adopted the Stranger, or claim supernatural recognition defines human kinship or personhood.
 - **Source and sensitivity note:** change names, social structure, sequence, geography, outcome, and metaphysical mechanism from Ruth. The African and Indigenous kinship comparison remains a research queue until a named community or text is approved. Avoid treating adoption as mystical absorption of culture.
-- **Review:** `retain: unreviewed` · `revise: unreviewed` · `defer: unreviewed` · `reject: unreviewed`
+- **Review disposition:** `retain` — preserve the household-by-obligation cycle independently of any well; locality, comparative attribution, and individual fates remain nursery work.
 
 ### II-H04 — The Crownless Company
 
-- **Era and scope:** Hearths and First Kings.
+- **Era and scope:** Hearths and First Kings; one regional ascent cycle later borrowed by several royal and outlaw traditions.
 - **Nursery provenance:** existing Garden bed.
-- **Humble ground:** village hirelings seek stolen winter cattle and discover that the thieves are refugees from a ruler taking children as tribute.
+- **Humble ground:** village hirelings seek stolen winter cattle and discover that the thieves are refugees from a ruler taking children as tribute. During the company's rise, a woman traveling under household protection is sexually assaulted and murdered by men of a protected settlement. Her body is divided and sent among allied hearths as a summons. The resulting confederate war nearly exterminates the offending people, kills women and children in settlements that did not commit the first crime, and is followed by the seizure of women from another community so the remnant can continue. Future company members stand on several sides of this sequence; none can claim that vengeance left them clean.
 - **Scriptural lens:** judges and early kingship; shepherd or overlooked servant becoming ruler; the demand for protection carrying the temptation of domination.
 - **Comparative grammar:** Robin Hood and hajduk outlaw justice, Conan-like warrior-to-king ascent, Sunjata-like underestimated founder, and hero corrected after victory.
-- **World Egg torque:** the company can break the tribute architecture only by accepting responsibility for winter stores, hostages, and disputes previously managed by the tyrant. Kingship begins as an unwanted burden with a material logistics problem, not a prophecy.
-- **Continuities:** members are `human-soul`; crown and cooking ring may become `infrastructure-office`; later founder-persona is `residue` or cultural memory, never automatic sainthood.
+- **World Egg torque:** the company can break one tribute architecture only by publicly assuming its abandoned obligations: winter stores, hostages, grazing routes, blood-price disputes, and protection of the ruler's former dependants. The cooking ring begins as common equipment at the first shared ration and only later accumulates a bounded provisioning office. Kingship begins as an unwanted logistics and judgement burden, not a prophecy.
+- **Continuities:** members and rulers are `human-soul`; crown and cooking ring may become separate `infrastructure-office`; later founder-persona is `residue` or cultural memory, never automatic sainthood or a soul divided among successors.
 - **Present-day traces:** plain iron cooking ring carried before several crowns; outlaw fraternities claim the companion who refused office; cattle bells rung at coronations.
-- **Future hooks:** the cook, hostage, paymaster, or weakest fighter may become king; the most heroic member may become an enemy of the new court; one refugee family may retain a valid claim against the founder.
-- **Protected boundaries:** the company does not invent kingship everywhere or make protective rule morally self-authenticating.
+- **Future hooks:** the cook, hostage, paymaster, singer, or least celebrated fighter may become ruler; a rival heir may become a beloved friend; a diplomat prevents one further atrocity but cannot undo the civil slaughter already committed; the indispensable commander may become an enemy of the peace; abducted women and surviving children preserve claims against both the defeated remnant and the victorious founder. Protection, vengeance and domination remain entangled in the first kingship.
+- **Protected boundaries:** the company does not invent kingship everywhere, acquire authority through blood purity or prophecy, make protective rule morally self-authenticating, or cause the whole Age of Hearths.
 - **Source and sensitivity note:** use outlaw and founder grammars across cultures rather than assigning them only to European-coded peoples. Sunjata/Sundiata remains specifically Mandé epic material; only the underestimated-founder grammar is in scope until a named recension and performance context are studied. Do not turn child tribute into sensational scenery.
-- **Review:** `retain: unreviewed` · `revise: unreviewed` · `defer: unreviewed` · `reject: unreviewed`
+- **Review disposition:** `retain` — deepen as the age's principal ascending company while keeping region, membership, ruler, rival heir, commander, diplomat, and ultimate political settlement provisional.
 
 ### II-H05 — The Wolf and the Lantern
 
-- **Era and scope:** Hearths, forests, and early Menhir pacts; indefinitely expandable regional duo cycle.
+- **Era and scope:** Hearths, forests, and early Menhir pacts; an indefinitely expandable tale family whose historical core and regional imitators remain unresolved.
 - **Nursery provenance:** existing Garden bed.
-- **Humble ground:** two confidence tricksters pretend to be spirit-hunters for a meal and encounter a household genuinely endangered by violated place-law.
+- **Humble ground:** two confidence tricksters pretend to be spirit-hunters for a meal after one has stolen from a host and the other has betrayed an intimate partner to escape the reprisal. They encounter a household genuinely endangered by violated place-law. Their early episodes include killings committed in panic or anger, humiliating bodily transformations, theft from allies, sexual deception, revenge out of proportion to injury, and jokes whose victims do not always recover.
 - **Scriptural lens:** wisdom from compromised people; truthful action after deception; hospitality and repentance expressed through repair rather than respectability.
 - **Comparative grammar:** Fafhrd and Mouser, Reynard, Thor/Loki misadventure, Balkan and Isles wandering heroes, and African hunter-diplomat tales.
-- **World Egg torque:** they survive because one understands human fraud and the other recognizes that a local power is enforcing exact law rather than staging a moral judgement. Their victories normally repair bargains, expose Masks, or redirect court process rather than kill a generic spirit.
+- **World Egg torque:** they survive because one understands human fraud and the other recognizes when a local power is enforcing exact law rather than staging a moral judgement. Each episode must classify its nonhuman pressure authorially. Their victories normally repair bargains, expose Masks, redirect court process, or escape an unjust human use of true place-law rather than kill a generic spirit.
 - **Continuities:** duo are `human-soul`; place powers are `court-law`; a vice-fed counterfeit may be `idol-pattern`; bridge carvings and later talking lanterns are `residue` or crafted mechanisms.
 - **Present-day traces:** paired bridge carvings; jokes left instead of prayers; contradictory claims that the pair were brothers, lovers, rivals, or one person and a shadow.
-- **Future hooks:** one may eventually accept a Patron anchor, one story may belong to a later imitator, and their alleged final adventure may be entirely invented.
-- **Protected boundaries:** comedy does not make Menhir law harmless or Idol predation morally neutral. Do not settle their relationship or final fates now.
+- **Future hooks:** one may eventually enter a Patron relationship without ceasing to be a human soul; several stories may belong to later imitators; the duo may absorb one Borrowed-Gifts host; and their alleged final adventure may be entirely invented.
+- **Protected boundaries:** comedy does not make Menhir law harmless, Idol predation morally neutral, or deception automatically wise. The cycle does not classify every wilderness power, establish one universal spirit etiquette, or settle the pair's relationship and final fates.
 - **Source and sensitivity note:** make each future episode locally researched; do not turn diverse forest traditions into a universal fairyland aesthetic.
-- **Review:** `retain: unreviewed` · `revise: unreviewed` · `defer: unreviewed` · `reject: unreviewed`
+- **Review disposition:** `retain` — preserve the expandable duo grammar, with every episode gated by locality, named comparative sources, exact nonhuman classification, and a human problem that survives without the supernatural reading.
 
 ### II-H06 — The Bent-Key Fellowship
 
-- **Era and scope:** City-States.
+- **Era and scope:** City-States; one provisional port or river city whose later civic and dynastic traditions compete for the company.
 - **Nursery provenance:** existing Garden bed.
-- **Humble ground:** a locksmith's apprentice, disgraced athlete, foreign interpreter, mortuary singer, dock thief, and junior augur steal an apparently unimportant municipal debt tablet.
+- **Humble ground:** a locksmith's apprentice, disgraced athlete, foreign interpreter, mortuary singer, dock thief, and junior augur steal an apparently unimportant municipal debt tablet after two senior judges attempt to coerce a woman into sex and threaten her with a coordinated capital accusation when she refuses. Separating their testimony exposes the lie. During the later siege, another member enters the commander's quarters by calculated deception, kills and beheads him personally, and carries the head back as proof. The Fellowship's reforms grow from threatened and inflicted bodily violence, not a bloodless puzzle.
 - **Scriptural lens:** Susanna's demand for truthful procedure, Judith's dangerous civic action, the younger Daniel exposing contradictory testimony, and prophetic confrontation with corrupt office.
 - **Comparative grammar:** urban trickster procurement, Greek civic hero company, outlaw-to-magistrate ascent, and underworld performance through mortuary expertise.
-- **World Egg torque:** the tablet is one node in a civic `infrastructure-office` linking debt, citizenship, burial entitlement, and magical access. Bending the key prevents the archive from treating legal straightness as moral truth and reveals mutually incompatible claims.
+- **World Egg torque:** the tablet is one node in a local civic `infrastructure-office` linking debt, citizenship, burial entitlement, housing, and magical access. Bending the key disables one lock's presumption that every archived claim is simultaneously enforceable, forcing the city to confront mutually incompatible rights through witnesses, negotiation, and force rather than receiving an automatic moral verdict.
 - **Continuities:** members are `human-soul`; archive and lock are `infrastructure-office`; mortuary residue remains `residue`; an emerging Greed Mask is `idol-pattern` and not the debtors' collective soul.
 - **Present-day traces:** bent keys at amnesties and revolutions; a sealed door accepting no straight key; dynasties suppressing a founder's criminal beginning.
-- **Future hooks:** one member becomes a tyrant, one founds appeal procedure, one disappears near the Orthean crime without explaining it, and the respectable betrayer authors the surviving account.
-- **Protected boundaries:** the fellowship does not cause urbanization, solve the Erasure of Orthea, or prove that all debt is demonic.
+- **Future hooks:** one member may become a tyrant, another may help found appeal procedure, one may disappear near the Orthean crime without explaining it, and a respectable betrayer may author the surviving account. A later amnesty may use their bent-key symbol without having been performed by them.
+- **Protected boundaries:** the fellowship does not cause urbanization, create all forensic law, secretly direct later civic institutions, solve the Erasure of Orthea, or prove that all debt is demonic.
 - **Source and sensitivity note:** preserve women, foreigners, workers, and ritual specialists as agents rather than helpers orbiting one male hero.
-- **Review:** `retain: unreviewed` · `revise: unreviewed` · `defer: unreviewed` · `reject: unreviewed`
+- **Review disposition:** `retain` — deepen as the principal City-State company while keeping its city, membership, theft, betrayals, reforms, and ultimate fates provisional.
 
 ### II-H07 — The Road without Milestones
 
-- **Era and scope:** Age of Stars.
+- **Era and scope:** Age of Stars; one multi-city survey corridor later treated as a rehearsal for Atherian unification.
 - **Nursery provenance:** existing Garden bed.
-- **Humble ground:** a survey party settles a minor boundary quarrel between two forgettable towns.
+- **Humble ground:** a survey party settles a minor boundary quarrel between two forgettable towns, then is retained to extend the same measure across conquered land. Workers die under quotas and exposure; a resisting settlement is burned after survey marks identify every house; and the party's road enables soldiers to reach communities that had previously survived beyond imperial supply. The later dissenter regrets a successful work whose human cost cannot be dismantled by removing one milestone.
 - **Scriptural lens:** the temptation to number, possess, and monumentalize; wise administration becoming imperial pride; the prophetic dissenter inside successful statecraft.
 - **Comparative grammar:** heroic road company, Roman and Central European founder-surveyor legends, Hindu vow and delayed consequence, and the smith or builder who regrets the weapon made.
-- **World Egg torque:** measurement becomes a claim recognized by roads, archives, tax systems, military logistics, and some place-laws. The surveyors discover that a sufficiently repeated map can gain metaphysical mass without becoming morally true.
-- **Continuities:** surveyors are `human-soul`; road and jurisdiction are `infrastructure-office`; place resistance is `court-law`; later road-persona may be `residue` or Patron anchor, not the souls of its builders.
+- **World Egg torque:** measurement becomes a claim through the combined repetition of roads, archives, taxation, maintenance, labor levies, military logistics, public judgement, and negotiated recognition by some place-laws. The surveyors discover that an institutionally enacted map can gain metaphysical mass without becoming morally or universally true.
+- **Continuities:** surveyors and affected land users are `human-soul`; road, map, and jurisdiction may become linked `infrastructure-office`; place resistance is `court-law`; any later road-persona is `residue`, office-persona, or separately established Patron manifestation, never the souls of its builders.
 - **Present-day traces:** a road changing width, pavement, and legal ownership for two hundred leagues but bearing no milestones; surveyors' marks used by rebels and tax collectors alike.
-- **Future hooks:** one surveyor becomes an imperial architect, another the first road-saint or highwayman, and a missing milestone may have been deliberately withheld to prevent complete sovereignty.
-- **Protected boundaries:** the road does not explain the Via Somnia or any future Weird; measurement exerts created pressure but cannot rewrite divine truth or the human soul.
+- **Future hooks:** one surveyor may become an imperial architect; another may become a pre-Redeemer Righteous dissenter, highway robber, or both in competing memory; one may simply return home; and a missing milestone may have been deliberately withheld to prevent one office from claiming complete jurisdiction.
+- **Protected boundaries:** no pre-Redeemer saint is created. The road does not explain the Via Somnia, the unplaceable late-Star campaign, or any future Weird; measurement exerts created pressure but cannot rewrite divine truth, create land from nothing, or alter the human soul.
 - **Source and sensitivity note:** “Hindu vow” is a research queue until attached to a named epic episode or text; no sacred figure or outcome transfers. Avoid a triumphalist civilizing-road narrative. Show towns, displaced users, local laws, and people whose land is being converted into imperial legibility.
-- **Review:** `retain: unreviewed` · `revise: unreviewed` · `defer: unreviewed` · `reject: unreviewed`
+- **Review disposition:** `retain` — deepen as the principal Age-of-Stars company while keeping its corridor, membership, affected communities, dissent, bargains, imperial careers, and final outcomes provisional.
 
 ## Lane II-B — Land, Folklore, and Local Encounter
 
@@ -586,69 +652,69 @@ All five leads require visible changes from their scriptural sources, culture-sp
 - **Ordinary problem:** exhausted walkers cannot distinguish reflected camps, dead ends, and the true movement of the host.
 - **Scriptural lens:** wilderness song, communal memory, provision, and guidance received without ownership.
 - **Comparative grammar:** performed route history, underworld navigation by song, and oral map traditions.
-- **World Egg torque:** alternating singers name only the people and duties immediately ahead and behind them. The practice anchors social orientation strongly enough to resist Glass reflections that isolate travelers from the host.
-- **Continuities:** walkers are `human-soul`; song-route is `infrastructure-office` supported by living memory; Glass manifestations remain unclassified and unresolved where canon is silent.
+- **World Egg torque:** alternating singers name only the people and duties immediately ahead and behind them. Within a bounded known corridor, accurate living performance anchors social orientation strongly enough to resist some Glass reflections that isolate travelers from the host. A copied melody without current names and duties does not reproduce the effect.
+- **Continuities:** walkers are `human-soul`; the performed route-and-duty practice may become `infrastructure-office` but depends upon living human correction; Glass manifestations remain unclassified and unresolved where canon is silent.
 - **Present-day traces:** antiphonal road hymns, processions that never allow the front or rear singer to perform alone, and route maps written as paired names rather than directions.
-- **Future hooks:** a missing rear verse may belong to the Last Cart; several churches and peoples may preserve incompatible melodies that all function locally.
-- **Protected boundaries:** do not explain the Glass, replace the Prophet's guidance, or make one ethnic music tradition the magical key to Exodus.
-- **Source and sensitivity note:** performed knowledge is technical and communal, not primitive intuition. Avoid lifting a living sacred song's words or melody.
-- **Review:** `retain: unreviewed` · `revise: unreviewed` · `defer: unreviewed` · `reject: unreviewed`
+- **Future hooks:** a missing rear verse may belong to a Last Cart stage; several churches and peoples may preserve incompatible melodies whose locally adapted duty structure still functions; a supposedly oldest version may fail because its custodians refuse to update the living names.
+- **Protected boundaries:** do not explain the Glass, replace the Prophet's guidance, establish one canonical Exodus song, or make one ethnic music tradition the magical key to crossing or salvation.
+- **Source and sensitivity note:** performed knowledge is technical and communal, not primitive intuition. Avoid lifting a living sacred song's words, melody, performer office, or custodial claim; named comparative sources remain required before regional expansion.
+- **Review disposition:** `retain` — preserve the bounded paired-orientation technique while leaving its camp stage, practitioners, source attribution, melodies, and relation to the Last Cart open.
 
 ### II-L02 — The Well That Adopted the Stranger
 
-- **Era and scope:** Scattering; proto-Ahl-e-Ahd and neighboring desert memory before later Covenant revelation.
+- **Era and scope:** Scattering; one provisional desert-border locality remembered by proto-Ahl-e-Ahd and neighboring communities before later Covenant revelation.
 - **Ordinary problem:** migrants and an established well-community must share failing water without a common kinship or oath language.
 - **Scriptural lens:** water in wilderness, guest-law, the foreigner protected, and covenant obligation preceding state power.
 - **Comparative grammar:** African wilderness jurisdiction, Indigenous relational place law, desert hospitality, and the house choosing the stranger.
 - **World Egg torque:** a place-mind recognizes caretaking duties performed through a full dry season. It grants no moral verdict or eternal title, but its water thereafter responds to a four-part local compact of gift, price, boundary, and failure.
 - **Continuities:** people are `human-soul`; well is `court-law`; later charter is `infrastructure-office`; no angelic or human soul resides in the water.
 - **Present-day traces:** four cups at negotiations, inherited duty to offer water before asking name, and disputes over whether a well can adopt a household.
-- **Future hooks:** later Covenant jurists may reinterpret the pact as early contract revelation; a neglected clause may still govern access during drought.
-- **Protected boundaries:** do not make this the origin of Al-Ahdiya, Malak al-Ahd's later revelation, or universal water law. Menhir acceptance is not divine justice.
+- **Future hooks:** later Covenant jurists may reinterpret the pact as early contract revelation; a neglected clause may still govern access during drought; one House tradition may claim this as its founding well without authorial confirmation.
+- **Protected boundaries:** do not make this the origin of Al-Ahdiya, Malak al-Ahd's later revelation, the House That Chose the Stranger, or universal water law. Menhir acceptance is not divine justice, and one locality's compact is not the metaphysical constitution of hospitality.
 - **Source and sensitivity note:** African and Indigenous water traditions are research queues here; this seed cannot advance beyond `revise` until it names the specific community or text informing it. Do not flatten place-law into generic animism or treat desert peoples as timeless tribal precursors.
-- **Review:** `retain: unreviewed` · `revise: unreviewed` · `defer: unreviewed` · `reject: unreviewed`
+- **Review disposition:** `revise` — keep one local water compact, but require a named comparative source, a fixed locality, and an exact Menhir or place-law classification before retention.
 
-### II-L03 — The Road of Seven Hosts
+### II-L03 — The Road of Borrowed Gifts
 
-- **Era and scope:** Hearths and First Kings; a widespread folktale cycle with deliberately shifting geography.
-- **Ordinary problem:** a traveler carrying medicine must accept or refuse hospitality on seven nights while crossing territories governed by different human and nonhuman hosts.
+- **Era and scope:** Hearths and First Kings; a portable folktale family with deliberately shifting geography and no fixed number or order of encounters.
+- **Ordinary problem:** a traveler carrying medicine must accept, refuse, or repay hospitality while crossing territories governed by different human and nonhuman hosts before the medicine spoils.
 - **Scriptural lens:** Abrahamic hospitality, Tobit's disguised companion, discernment, and the stranger whose need tests the household.
-- **Comparative grammar:** African dangerous-host tales, Isles fairy feasts, Slavic house and forest powers, and Hindu boon-with-price structures.
-- **World Egg torque:** each host offers a real bounded gift that takes an associated capacity: food that removes hunger, sleep that removes dreams, direction that removes destination, safety that removes the right to leave. Survival depends upon recognizing which goods can be received without ceasing to serve the human neighbor waiting at the road's end.
-- **Continuities:** traveler is `human-soul`; some hosts are `court-law`, some `idol-pattern`, one may be a Patron manifestation; the tale's refusal to classify them all is intentional public uncertainty.
-- **Present-day traces:** seven-part guest questions, road shrines with one gift left untouched, and physicians refusing to sleep on the final night of a winter journey.
-- **Future hooks:** episodes can be added regionally; one host may later appear in the Wolf and Lantern cycle; the medicine's recipient is never named.
-- **Protected boundaries:** hospitality is not automatic submission, all spirits are not Idols, and dangerous difference is not a license to demonize foreign human cultures.
+- **Comparative grammar:** dangerous-host tales, Isles fairy feasts, Slavic house and forest powers, boon-with-price structures, and the errand that remains morally primary despite marvels.
+- **World Egg torque:** different episodes offer bounded gifts that remove or encumber an associated capacity: food that removes hunger, sleep that removes dreams, direction that removes destination, safety that removes the right to leave. Some exchanges are exact `court-law`; others are Idol counterfeits or human traps. Survival depends upon discerning which goods can be received without abandoning the human neighbor waiting at the road's end.
+- **Continuities:** traveler is `human-soul`; each host must be classified authorially as human, `court-law`, `idol-pattern`, Patron manifestation, residue, or fraud; the public tale may leave the classifications uncertain without making them metaphysically interchangeable.
+- **Present-day traces:** regionally varying guest questions, road shrines with one gift left untouched, medicine carriers who refuse one locally specified comfort, and quarrels over which encounter belongs in the cycle.
+- **Future hooks:** episodes can be added only after regional research; one host may later be absorbed into the Wolf and Lantern cycle; different tellings may change the medicine and recipient while preserving the duty to arrive.
+- **Protected boundaries:** the road is not the canonical itinerary of the Wolf and Lantern, hospitality is not automatic submission, all spirits are not Idols, gifts do not always demand supernatural payment, and dangerous difference is not a license to demonize foreign human cultures.
 - **Source and sensitivity note:** the African and Hindu comparisons are research queues until attached to particular traditions and texts. Transform sacred beings completely; do not use “the wilderness gods” as a continental African stereotype.
-- **Review:** `retain: unreviewed` · `revise: unreviewed` · `defer: unreviewed` · `reject: unreviewed`
+- **Review disposition:** `revise` — retain the medicine-errand and costly-gift grammar, but remove the fixed sevenfold itinerary and require one researched regional recension before retention.
 
 ### II-L04 — The Fountain That Heard Foreigners
 
-- **Era and scope:** City-States; a port-city civic legend suitable for Sestaran or early Atherian use after regional review.
+- **Era and scope:** City-States; one port-city civic legend suitable for Sestaran or early Atherian placement after regional review.
 - **Ordinary problem:** foreign dockworkers are denied standing to testify after a granary wall collapses.
 - **Scriptural lens:** Susanna and truthful witnesses; law protecting the stranger; Wisdom's critique of corrupt judges.
 - **Comparative grammar:** civic miracle tale, speaking place-law, trickster courtroom, and water as foreign jurisdiction.
-- **World Egg torque:** the courthouse fountain is a bounded water place-mind that records disturbances in flow, not human moral truth. An interpreter learns to read the timing of each witness's passage and exposes contradictory official testimony.
+- **World Egg torque:** the courthouse fountain is a bounded water place-mind that retains disturbances in flow, not words or human moral truth. A foreign interpreter combines its limited sequence with work schedules, masonry evidence, and separated testimony to expose contradictions in the official account.
 - **Continuities:** witnesses are `human-soul`; fountain is `court-law`; civic procedure becomes `infrastructure-office`; later “voice of the fountain” devices may be constructed imitations.
-- **Present-day traces:** foreign interpreters sworn beside public water, courthouse basins with seven drainage marks, and the phrase *let the water hear him*.
+- **Present-day traces:** foreign interpreters sworn beside public water, courthouse basins with mismatched drainage repairs, and the phrase *let the water hear him*.
 - **Future hooks:** later rulers may manipulate the fountain's limited evidence, and one city may build a counterfeit that becomes an Envy Mask by replacing human testimony.
-- **Protected boundaries:** the fountain does not discern guilt, read souls, or deliver divine judgement. Do not restage Susanna's exact accusation or trial.
+- **Protected boundaries:** the fountain does not hear speech, discern guilt, read souls, replace witnesses, or deliver divine judgement. The case neither restages Susanna's accusation nor proves foreigners are inherently clearer readers of truth.
 - **Source and sensitivity note:** foreign witnesses require names, trades, and interests of their own; they are not wise outsiders inserted only to shame the city.
-- **Review:** `retain: unreviewed` · `revise: unreviewed` · `defer: unreviewed` · `reject: unreviewed`
+- **Review disposition:** `retain` — preserve the narrow evidence-and-interpretation case while leaving the city, workers, interpreter, legal consequence, and exact place-law open.
 
 ### II-L05 — The Boundary That Refused Milestones
 
-- **Era and scope:** late City-States into Stars; a land-story crossing the Road without Milestones company.
+- **Era and scope:** late City-States into Stars; one provisional land-use dispute encountered by, or later attached to, the Road without Milestones company.
 - **Ordinary problem:** surveyors repeatedly replace a boundary stone that appears intact in its old position the next morning.
 - **Scriptural lens:** limits on royal possession; Naboth-like refusal of inherited land without copying the plot; created authority judged by service rather than scale.
 - **Comparative grammar:** Baltic and Slavic boundary folklore, land-wight exactness, saga legal dispute, and Indigenous relational landscape grammar.
-- **World Egg torque:** several human titles overlap a deeper `court-law` boundary that recognizes seasonal use rather than permanent surveyed ownership. The road can cross only if it remains legally unmilestoned for a fixed distance.
+- **World Egg torque:** several human titles and seasonal working agreements overlap a deeper `court-law` boundary that recognizes recurring use rather than permanent surveyed ownership. The court-law supplies no moral verdict about the users. The road can cross this locality only if its office leaves a fixed interval legally unmilestoned and the human communities negotiate continued access.
 - **Continuities:** surveyors and land users are `human-soul`; boundary is `court-law`; road is `infrastructure-office`; later marker-ghosts are `residue` unless shown otherwise.
-- **Present-day traces:** a long milestone gap, a surveyor's oath acknowledging unmeasured use, and a village whose common pasture falls under three maps but no exclusive title.
-- **Future hooks:** imperial lawyers may have concealed the original bargain; one lost stone may still carry an invalid claim capable of reopening the dispute.
-- **Protected boundaries:** do not declare all private property illegitimate or make the land-law morally infallible. Do not use the seed to explain later sleepwalking roads.
+- **Present-day traces:** one interval within a much longer milestone gap, a surveyor's oath acknowledging unmeasured use, and a village common or seasonal pasture falling under several maps without one exclusive title.
+- **Future hooks:** imperial lawyers may have concealed the original bargain; one lost stone may still carry an invalid local office-claim capable of reopening the dispute; later chroniclers may falsely make this encounter the explanation for every missing milestone.
+- **Protected boundaries:** this one boundary does not cause the road's full two-hundred-league trace, invalidate all private or public property, grant a Menhir moral ownership of human labor, or make land-law morally infallible. Do not use the seed to explain later sleepwalking roads or the unplaceable campaign.
 - **Source and sensitivity note:** the Indigenous comparison remains a research queue until attached to a named community or text. Landscape relation must include actual communities and labor, not romantic empty nature resisting civilization.
-- **Review:** `retain: unreviewed` · `revise: unreviewed` · `defer: unreviewed` · `reject: unreviewed`
+- **Review disposition:** `revise` — preserve the negotiated milestone gap and overlapping-use problem, but require one locality, its laboring communities, and named Baltic, Slavic, and Indigenous comparative sources before retention.
 
 ## Lane II-C — Institution, Memory, and Relic
 
@@ -658,87 +724,88 @@ All five leads require visible changes from their scriptural sources, culture-sp
 - **Ordinary origin:** rear-guard households mark burials and departures with a damaged wheel so those at the front will know who was carried rather than abandoned.
 - **Scriptural lens:** remembrance of the vulnerable, burial duty, and many uncelebrated offices sustaining one people.
 - **Comparative grammar:** relic from mundane tool, performed migration history, and the absent member remembered by an empty object.
-- **World Egg torque:** repeated use gives the wheel-symbol enough metaphysical mass to stabilize local departure rites and road assurance, but no object contains the souls of the dead or overrides the Vestibule.
+- **World Egg torque:** repeated public use gives the damaged-wheel sign enough metaphysical mass to stabilize local departure, burial, and name-accounting rites. The office helps a community remember who was carried and who remains owed a duty; it does not guarantee safe travel, contain the dead, or override the Vestibule.
 - **Continuities:** participants are `human-soul`; ritual office is `infrastructure-office`; emotional persistence is `residue`.
 - **Present-day traces:** wheel-loaves, damaged cartwheels in funeral processions, and arguments over whether the symbol means delay, care, failure, or voluntary waiting.
-- **Future hooks:** monasteries, caravan guilds, and midwives may preserve different spokes; a forged “original wheel” may still perform because the rite, not provenance, carries most of the office.
-- **Protected boundaries:** relic function does not authenticate every Last Cart story or grant salvation.
+- **Future hooks:** monasteries, caravan guilds, and midwives may preserve different spokes; a forged “original wheel” may still serve locally because witnessed duty and rite, not provenance alone, carry most of the office; one authentic cart fragment may remain entirely inert.
+- **Protected boundaries:** no unique wheel is required, relic function does not authenticate every Last Cart story, no dead soul resides in a wheel or loaf, and the rite grants neither salvation nor authority over the soul-road.
 - **Source and sensitivity note:** keep disabled, elderly, pregnant, and ill travelers as people with agency and relationships rather than an undifferentiated burden.
-- **Review:** `retain: unreviewed` · `revise: unreviewed` · `defer: unreviewed` · `reject: unreviewed`
+- **Review disposition:** `retain` — preserve the distributed memorial office while leaving its earliest objects, custodians, rites, and demonstrable relation to particular Last Cart members open.
 
-### II-M02 — The Seven Departures
+### II-M02 — The Parting Tables
 
-- **Era and scope:** Scattering; a family of mutually incompatible liturgical, legal, and oral accounts.
+- **Era and scope:** Scattering; a family of mutually incompatible liturgical, legal, domestic, and oral accounts with no authorially fixed number of departures.
 - **Ordinary origin:** memory specialists in separating camps each record the last common meal and first separate route using the tools available to them.
-- **Scriptural lens:** Chronicles and Esdras reframing shared history; genealogies preserving legitimacy; division after failed obedience.
+- **Scriptural lens:** Chronicles and Esdras reframing shared history; genealogies preserving legitimacy; exile households carrying partial memory; division after failed common obedience.
 - **Comparative grammar:** Mandé and saga performance variants, Indigenous place-specific truth, and TES-style cultural refraction without making all accounts literally simultaneous.
 - **World Egg torque:** repeated accounts build different ritual and institutional consequences around one historical fracture. They can stabilize distinct roads, calendars, and offices without rewriting the underlying human souls or making every contradiction factually true.
 - **Continuities:** rememberers are `human-soul`; traditions become `infrastructure-office` and `residue`; no collective racial soul is created.
-- **Present-day traces:** seven incompatible departure meals, calendars beginning the Scattering on different days, and genealogies that agree on roles but not names.
-- **Future hooks:** one version may have been authored by the respectable betrayer; another may preserve a lost people; later states may attempt to force convergence for political legitimacy.
-- **Protected boundaries:** do not resolve the Year of Standing Stars, declare one modern people sole owner of the Exodus, or literalize every contradiction as a timeline break.
+- **Present-day traces:** incompatible departure meals, calendars beginning the Scattering on different days, tables or tablets that agree on duties but not names, and recensions that count the separations differently.
+- **Future hooks:** one version may have been authored by a respectable betrayer; another may preserve a lost people; some ritual families may count seven because of a later mnemonic scheme; later states may attempt to force convergence for political legitimacy.
+- **Protected boundaries:** do not identify the accounts as an itinerary of the Seven Who Took the Wrong Road, fix seven historical departures or peoples, resolve the Year of Standing Stars, declare one modern people sole owner of the Exodus, or literalize every contradiction as a timeline break.
 - **Source and sensitivity note:** any Mandé or Indigenous expansion requires a named performance tradition, community, or text and must preserve its custodial context. Distinct peoples are not defective fragments waiting to be recombined; preserve their later agency and internal diversity.
-- **Review:** `retain: unreviewed` · `revise: unreviewed` · `defer: unreviewed` · `reject: unreviewed`
+- **Review disposition:** `revise` — remove the false fixed count, select the actual carriers and recensions, and attach each comparative grammar to a named source before retention.
 
 ### II-M03 — The Iron Cooking Ring
 
-- **Era and scope:** Hearths and First Kings; material remainder of the Crownless Company with possible but unconfirmed relation to I-M03.
+- **Era and scope:** Hearths and First Kings; material remainder of the Crownless Company. It is authorially distinct from the Chain-era collar ring in I-M03, although later courts may fuse their histories or even their metal.
 - **Ordinary origin:** a company cooks communal winter food in a plain iron suspension ring before anyone considers founding a kingship.
 - **Scriptural lens:** shepherd and servant becoming ruler; kingship under memory of bondage; authority beginning at the common table.
 - **Comparative grammar:** founder relic, humble regalia, sleeping king's token, and TES office accumulating around repeated performance.
-- **World Egg torque:** coronations gradually turn the ring into an `infrastructure-office` carrying duties of provisioning and refuge. A ruler may satisfy the object's terms while remaining morally corrupt in other respects.
+- **World Egg torque:** repeated public meals, refuge proclamations, and winter reckonings gradually turn the ring into an `infrastructure-office` carrying duties of provisioning and shelter. Its bounded response follows performed obligation rather than royal blood or original-object provenance. A ruler may satisfy those terms while remaining morally corrupt in other respects.
 - **Continuities:** founders are `human-soul`; ring is `infrastructure-office`; apparent founder speech is `residue`, counterfeit Mask, or rare saintly commission only after separate testing.
-- **Present-day traces:** ring carried before the crown, winter kitchens claiming sanctuary, and rival objects with plausible chain-era provenance.
-- **Future hooks:** the ring and collar may be one object, two rival objects, or a later deliberate fusion; an erased companion may have forged it.
-- **Protected boundaries:** working regalia proves only bounded acceptance, not divine election, inherited holiness, or the truth of a royal biography.
+- **Present-day traces:** ring carried before the crown, winter kitchens claiming sanctuary, rival copies with plausible early provenance, and at least one royal ring incorporating iron claimed to come from a slave collar.
+- **Future hooks:** an erased companion may have forged the first cooking ring; a later dynasty may deliberately rivet collar iron into a copy; several objects may perform locally because the witnessed office matters more than an unbroken museum pedigree.
+- **Protected boundaries:** the original cooking ring is not the Collar Carried Before the Crown. A working ring proves only bounded performance of provisioning or refuge duty, not divine election, inherited holiness, royal biography, or the presence of a founder's soul.
 - **Source and sensitivity note:** do not romanticize monarchy as inevitable culmination. Preserve the companion who refuses office and the people who fear a new Giant pattern.
-- **Review:** `retain: unreviewed` · `revise: unreviewed` · `defer: unreviewed` · `reject: unreviewed`
+- **Review disposition:** `retain` — preserve the humble provisioning office and the separate-object ruling while leaving the first ring, later copies, forged pedigrees, and political uses open.
 
 ### II-M04 — The Bent-Key Amnesty
 
-- **Era and scope:** City-States; a legal custom accreted around the Bent-Key Fellowship.
+- **Era and scope:** City-States; a later legal custom accreted around the Bent-Key Fellowship's symbol without requiring the company to perform the amnesty.
 - **Ordinary origin:** citizens deliberately ruin the keys to debt cells after a negotiated release so the cells cannot quietly reopen under a successor magistrate.
 - **Scriptural lens:** release from unjust debt, truthful judgement, and restoration requiring changed architecture rather than a ceremonial declaration.
 - **Comparative grammar:** civic legend, trickster law, saintly relic practice without sainthood, and the reused mundane object.
-- **World Egg torque:** bending the key interrupts a legal-magical office that otherwise treats an amnesty as a temporary exception. The physical act matters only where the specific lock, charter, and public witnesses align.
+- **World Egg torque:** after negotiation, restitution schedules, and public release, bending the operative keys interrupts a local legal-magical office that would otherwise treat the amnesty as a temporary exception. The physical act matters only where the specific locks, amended charter, released persons, and public witnesses align.
 - **Continuities:** participants are `human-soul`; lock and amnesty are `infrastructure-office`; any Greed Mask depending upon the prison is `idol-pattern`.
 - **Present-day traces:** bent keys at pardons, failed revolutions, and bankruptcy rites; one archive door accepting no straight key.
-- **Future hooks:** authorities may perform counterfeit bendings while preserving duplicate locks; a famous saint may later be credited with a civic act performed by criminals.
-- **Protected boundaries:** not all debt is evil, no generic key breaks every contract, and ritual repair cannot replace restitution to harmed people.
+- **Future hooks:** authorities may perform counterfeit bendings while preserving duplicate locks or unchanged ledgers; a later saint may be credited with a civic act performed by criminals, debtors, magistrates, and ordinary witnesses; one failed revolution may copy the symbol without changing the office.
+- **Protected boundaries:** not all debt is evil, no generic key breaks every contract, the Fellowship need not be present, and ritual repair cannot replace restitution, altered records, release of persons, or material change.
 - **Source and sensitivity note:** distinguish debt relief, theft, civic obligation, and predatory finance rather than assigning moral alignment by profession.
-- **Review:** `retain: unreviewed` · `revise: unreviewed` · `defer: unreviewed` · `reject: unreviewed`
+- **Review disposition:** `retain` — preserve as a later civic repair office while leaving the city, legal settlement, participants, counterfeit ceremonies, and relation to the Fellowship open.
 
 ### II-M05 — The Family of Stars
 
 - **Era and scope:** late City-States through Stars; formation of the Atherian Star Pantheon's shared genealogy.
-- **Ordinary origin:** translators, augurs, actors, marriage diplomats, and civic archivists need a common ritual language for cities encountering different Menhir manifestations.
+- **Ordinary origin:** translators, augurs, actors, marriage diplomats, road officials, and civic archivists need a common ritual language for cities preserving different names, manifestations, calendars, and relationships around enduring Menhir powers.
 - **Scriptural lens:** critique of idols and false genealogies; Chronicles as politically purposeful ordering; wisdom distinguishing real created power from divine authority.
 - **Comparative grammar:** Greek and Norse divine family cycles, Hindu cosmological relation, TES cultural identities, and performed civic synthesis.
-- **World Egg torque:** local encounters are real refractions of enduring Menhir `yolk-sovereignty`, but the archivists convert convergences, opposition, season, and shared symbols into literal parentage. The invented family makes imperial ritual interoperable and therefore gains enormous institutional force without becoming authorially true.
-- **Continuities:** Menhir are `yolk-sovereignty`; cult offices are `infrastructure-office`; masks used by Idols inside the pantheon remain `idol-pattern`; the archivists are `human-soul`.
+- **Historical pressure:** the shared civic genealogy is not a polite chart laid over harmless powers. Its authorized plays and temple recitations retain parent–child war, kin-killing, mutilation, imprisonment, sexual coercion, humiliating transformation, and revenge because courts use those episodes to explain conquest, marriage alliance, inherited office, and permitted retaliation. Those acts belong to cultural Mask biographies and performed political memory; they are not authorial biographies of the Menhir whose refractions were absorbed into the system.
+- **World Egg torque:** the synthesizers sometimes correctly identify culturally refracted encounters with the same enduring Menhir, then convert convergence, opposition, season, shared symbols, and diplomatic analogy into literal parentage and marriage. The constructed family makes civic ritual interoperable and gains enormous institutional force without rewriting the actual Menhir continuities or becoming authorially true genealogy.
+- **Continuities:** Menhir remain personally continuous `yolk-sovereignty`; star genealogies, temples, calendars, and civic cult offices are `infrastructure-office`; Idol Masks infiltrating a pantheon role remain `idol-pattern` and never become a Menhir; the synthesizers and worshippers are distinct `human-soul` persons.
 - **Present-day traces:** star genealogies disagreeing at politically useful marriages; old plays preserving alternative genders and relationships; one city refusing to call Thanatos a star-child.
-- **Future hooks:** an erased archivist may have known Thanatos was the Boatman; rival cities may restore older names; a later Idol Mask may exploit a vacant family role.
-- **Protected boundaries:** Menhir are not born, married, or divine peers in authorial truth. The Boatman remains a loyal `created-spirit`, not a Menhir. Hindu or living religious genealogies must not be directly recoded as error.
+- **Future hooks:** an erased archivist may have known Thanatos was the Boatman; rival cities may restore older names without recovering an uncontaminated original cult; a later Idol Mask may exploit a vacant family role; one liturgy may work because it addresses a genuine Menhir commission while its genealogy remains false.
+- **Protected boundaries:** Menhir are not born, married, replaced by cultural variants, or divine peers in authorial truth. The Boatman remains a loyal `created-spirit`, not a Menhir. A real response authenticates only its bounded power or commission, not the pantheon's genealogy, imperial ideology, or moral claims. Idol infiltration does not make every Star cult an Idol cult. Hindu or living religious genealogies must not be directly recoded as error.
 - **Source and sensitivity note:** use ancient family-pantheon grammar as political technology, not as a one-to-one renamed pantheon. Hindu cosmological material requires a named textual tradition at expansion time and must never be presented as the direct model of Atherian error.
-- **Review:** `retain: unreviewed` · `revise: unreviewed` · `defer: unreviewed` · `reject: unreviewed`
+- **Review disposition:** `retain` — preserve the institutional synthesis of real Menhir refractions and invented kinship while leaving the cities, compilers, source dossiers, disputed genealogies, infiltrated roles, and political settlement open.
 
 ## Lane II-D — Idol, Menhir, and Metaphysical Pressure
 
-### II-I01 — The Rival of Seven Names
+### II-I01 — The Unlisted Companion
 
-- **Era and scope:** Scattering; Envy Archmask campaign and in-world succession theory, not an authorial succession candidate in this pass.
-- **Historical pressure:** successor peoples preserve different fragments of the Exodus and increasingly treat another group's surviving good as evidence of their own dispossession.
+- **Era and scope:** late Scattering; a regional Envy Archmask campaign arising only after founder rolls and departure recensions possess political authority. It is an in-world succession theory, not an authorial succession candidate in this pass.
+- **Historical pressure:** some successor courts increasingly treat another community's surviving good as evidence of their own dispossession and use founder lists to regulate land, office, marriage, or sanctuary. The first proof-war begins after one claimant attempts to murder a sibling and then inserts the intended victim into the genealogy only as a treacherous, already-dead companion; later recensions disagree whether the blow succeeded.
 - **Scriptural lens:** brothers resenting another's gift, false witness rewriting inheritance, and rival sacred histories that remain morally accountable rather than automatically equivalent.
 - **Comparative grammar:** omitted-companion folklore, performed genealogy, cultural identity accretion, and TES-style replacement claims without soul transfer.
-- **Campaign account:** a replacement Archmask learns to speak through contradictory founder genealogies and claims it was the companion omitted from every version. It tries and fails to make all other Envy Masks depend upon proving a stolen original identity.
+- **Campaign account:** a replacement Archmask learns to infiltrate several contradictory founder genealogies and claims it is the indispensable companion each local roll omitted. It tries and fails to make other Envy Masks depend upon proving a stolen original identity; it never appears in every tradition.
 - **Conflict grammar:** Envy. The claimant manufactures records saying it always ruled; the actual Regnant exploits both the claimant and the resulting proof-war.
 - **World Egg torque:** without true succession, the Mask gives Envy a durable historical technique: not merely wanting another's good, but manufacturing evidence that the other's inheritance was originally yours.
 - **Continuities:** Envy remains `yolk-sovereignty`; contender must be an Archmask; falsified offices are `infrastructure-office`; no people's collective memory or soul becomes the Idol.
-- **Present-day traces:** founder lists containing a grammatically impossible eighth role, genealogies with scraped first names, and rival cult images whose restorations uncover another face beneath.
+- **Present-day traces:** founder lists containing a grammatically impossible extra role, genealogies with scraped first names, and rival cult images whose restorations uncover another face beneath.
 - **Future hooks:** the failed claimant may survive as a mourning court; a modern succession dispute could reactivate its proof-war.
-- **Protected boundaries:** Envy does not cause the Scattering, and cultural disagreement is not automatically demonic. It remains an Archmask campaign unless the Block-II candidate slot is explicitly reopened.
+- **Protected boundaries:** Envy does not cause the Scattering, normal cultural disagreement is not automatically demonic, and the claimant is not secretly an original member of the Seven Who or a missing author of the Parting Tables. It remains a regional Archmask campaign unless the Block-II candidate slot is explicitly reopened.
 - **Source and sensitivity note:** never portray distinct ethnic traditions as jealous corruptions of one pure original. The feeding architecture lies in chosen replacement and political forgery.
-- **Review:** `retain: unreviewed` · `revise: unreviewed` · `defer: unreviewed` · `reject: unreviewed`
+- **Review disposition:** `revise` — localize the feeding network, classify the claimant's exact Archmask status, and choose its falsified offices and surviving trace before retention.
 
 ### II-I02 — The Crowned Reflection
 
@@ -746,62 +813,62 @@ All five leads require visible changes from their scriptural sources, culture-sp
 - **Historical pressure:** communities ask protectors to become kings, then convert gratitude, genealogy, public acclaim, and sacred theatre into permanent superiority.
 - **Scriptural lens:** the people's demand for a king, Davidic rule under judgement, royal images becoming cult, and delegated authority condemned when it mistakes acclaim for its source.
 - **Comparative grammar:** outlaw-to-founder ascent turned into office myth, royal apotheosis cycles, and TES-style mantling constrained by an already guilty Idol Throne.
-- **Candidate account:** a Mask formed from repeated royal acclamation becomes an Archmask capable of withholding recognition from Pride's older Regnant. Courts begin seeing the crowned human image rather than the ancient palace-sovereign.
+- **Candidate account:** a Mask accreted around repeated royal acclamation across several rival courts becomes an Archmask capable of withholding recognition from Pride's older Regnant. Courts begin seeing a perfected crowned image rather than the ancient palace-sovereign; no individual ruler supplies its soul or complete identity.
 - **Succession grammar:** Pride. Recognition shifts until the old Regnant cannot appear except through the successor's permission.
 - **World Egg torque:** a succession would explain why later Pride cults center human-like sovereign perfection while some Chain-era remains depict impersonal height, mirror, or command. It would not make humans the creators of Pride.
-- **Continuities:** Pride is `yolk-sovereignty`; challenger is an Archmask; crowns are `infrastructure-office`; royal legends are `residue`; human kings retain `human-soul` and do not become the Idol.
+- **Continuities:** Pride is continuous `yolk-sovereignty`; challenger is an autonomous Archmask; crowns and coronation mirrors are `infrastructure-office`; royal legends are `residue`; human kings retain `human-soul` and do not become, compose, reincarnate as, or divide into the Idol.
 - **Present-day traces:** early crowns without faces, later mirrors wearing crowns, royal rites in which the ruler's reflection is acclaimed before the ruler, and an old Mask allegedly unable to enter a hall without a portrait.
 - **Future hooks:** a failed king may believe he can become the “good Pride”; a deposed Regnant persona may persist beneath an unmirrored throne; Counter-Countenance encounters could expose office without applause.
-- **Protected boundaries:** kingship is not intrinsically Pride-fed, acclaim does not create a god, and the Unmirrored Crown cannot be enthroned. If retained, this should be the only true Block-II succession.
+- **Protected boundaries:** kingship is not intrinsically Pride-fed, acclaim does not create a god, the Iron Cooking Ring neither births nor recognizes the contender, and the Unmirrored Crown cannot be enthroned. If eventually promoted, this remains the only true Block-II succession.
 - **Source and sensitivity note:** avoid mapping one historical monarchy or culture to Pride. The architecture must appear across rival societies and include conscious choices by office-holders.
-- **Review:** `retain: unreviewed` · `revise: unreviewed` · `defer: unreviewed` · `reject: unreviewed`
+- **Review disposition:** `defer` — preserve the sole Block-II succession slot as a dormant hypothesis until the cross-history Idol review selects a regional sequence, old Regnant, autonomous Archmask development, and evidence that genuine accession adds more than a Mask-regime change.
 
 ### II-I03 — The First Foreclosure
 
-- **Era and scope:** City-States; failed Greed Archmask coup and Mask-regime change, not an authorial succession candidate in this pass.
-- **Historical pressure:** stored grain, debt, citizenship, burial, housing, and legal personality become transferable claims administered by urban archives.
+- **Era and scope:** late City-States; a regional failed Greed Archmask coup and Mask-regime change, not an authorial succession candidate. “First” is the claimant network's title, not proof that abstract dispossession began here.
+- **Historical pressure:** stored grain, debt, citizenship, burial, housing, and legal personality become transferable claims administered by urban archives. Defaulted households are separated at sale, children and spouses assigned to different creditors, debtors worked to death, and excluded families starve beside granaries whose claims are legally intact.
 - **Scriptural lens:** debt release, condemned boundary-moving, the poor sold for small claims, and wealth becoming idolatrous when possession replaces duty to persons.
 - **Comparative grammar:** hoard-monster folklore translated into civic law, archive contest, and TES-style office capture without treating commerce itself as supernatural evil.
-- **Coup account:** a ledger Archmask acquires older hoard-serpent Masks as collateral and attempts to take the Throne by proving that it owns every route through which Greed feeds. The claim fails at the Throne while succeeding across much of the feeding network.
+- **Coup account:** a ledger Archmask acquires several older hoard-serpent Masks as collateral and claims that control of one regional chain of granaries, debt courts, burial claims, and property ledgers proves ownership of every route through which Greed feeds. The claim fails at the Throne while capturing much of that regional network.
 - **Conflict grammar:** Greed. The claimant tries to acquire sovereignty through ownership, inheritance, foreclosure, theft, or an impossible claim; defeated Masks become items in its lesser vault.
-- **World Egg torque:** Greed's dominant cultural expression shifts from possession by physical hoard to possession by abstract claim, explaining how later Under-Ledger networks feed without requiring a Regnant change.
+- **World Egg torque:** the failed coup gives later Greed courts a durable technique for converting possession by physical hoard into possession by abstract claim. Under-Ledger networks can inherit that technique without a Regnant change or one uninterrupted conspiracy.
 - **Continuities:** Greed is `yolk-sovereignty`; contender is an Archmask; municipal ledgers are `infrastructure-office`; dependent debt Masks are `idol-pattern`; debtors remain `human-soul` and retain unequal individual culpability.
 - **Present-day traces:** serpent images overwritten by columns of numbers; vault doors opening onto archives rather than treasure rooms; city charters containing an owner with no body.
-- **Future hooks:** an older hoard-beast Mask may survive as a resentful court; a missing debt tablet may be one instrument of the attempted foreclosure; modern banks may unknowingly reuse its clauses.
-- **Protected boundaries:** debt, accounting, markets, and archives are not intrinsically evil. Feeding requires deliberate dispossession and goods converted from use into domination. It remains a failed coup unless the Block-II candidate slot is explicitly reopened.
+- **Future hooks:** an older hoard-beast Mask may survive as a resentful court; a missing debt tablet may be one instrument of the attempted foreclosure; later charters may inherit dangerous clauses through ordinary legal copying without their users belonging to a hidden cult.
+- **Protected boundaries:** debt, accounting, markets, banks, merchants, and archives are not intrinsically evil. Feeding requires deliberate dispossession and goods converted from use into domination. The Fellowship does not cause or secretly defeat the whole campaign, and the campaign remains a failed coup unless the Block-II candidate slot is explicitly reopened.
 - **Source and sensitivity note:** avoid anti-Semitic financial imagery, ethnicized merchant villains, and “secret banker controls history” structures. The network must include rulers, landowners, temples, households, and public law.
-- **Review:** `retain: unreviewed` · `revise: unreviewed` · `defer: unreviewed` · `reject: unreviewed`
+- **Review disposition:** `revise` — preserve the regional hoard-to-abstract-claim transition, but choose the cities, dispossessing acts, human participants, legal transmission, captured Masks, and exact Archmask status before retention.
 
-### II-I04 — The Bride behind Every Treaty
+### II-I04 — The Guest at the Empty Signature
 
-- **Era and scope:** Hearths through City-States; Lust Mask development, not a succession candidate.
-- **Historical pressure:** rulers turn marriage, fertility, beauty, affection, and hostage exchange into access rights over persons and territories.
-- **Seed account:** different courts encounter a welcoming figure who claims to be the hidden beloved ratifying every dynastic union. The Mask rewards ceremonies that erase the actual spouse's consent while preserving the public appearance of fidelity.
+- **Era and scope:** late Hearths through City-States; a family of related Lust Masks exploiting particular dynastic and hostage treaties, not a succession candidate or presence behind every political marriage.
+- **Historical pressure:** rulers turn marriage, fertility, beauty, affection, and hostage exchange into access rights over persons and territories. Courts compel marriages, claim sexual access and children as treaty yield, confine spouses who revoke consent, and mutilate or execute people whose refusal threatens the dynasty's supernatural access.
+- **Seed account:** different courts encounter a welcoming figure at the unassigned witness place: beloved, matchmaker, ancestor, officiant, hostage-friend, or faceless guest according to local imagery. Related Masks reward ceremonies that preserve the appearance of fidelity while converting a person's consent into permanent access to body, heirs, land, office, or diplomacy.
 - **Scriptural lens:** marriages and households as real covenants between persons; prophetic critique of rulers consuming households; Susanna and Judith foregrounding women's agency rather than availability.
-- **Comparative grammar:** dangerous fairy marriage, royal epic alliance, shape-changing beloved, and boon whose price is personhood.
-- **World Egg torque:** the Mask can move between marriage institutions because its anchor is not desire itself but the conversion of relational fidelity into political possession.
-- **Continuities:** spouses are `human-soul`; Mask is `idol-pattern`; a sufficiently autonomous form could become Archmask but has no regnancy claim here; marriage offices are `infrastructure-office`.
+- **Comparative grammar:** dangerous otherworld marriage, royal epic alliance, shape-changing intimate, false witness, and boon whose price is personhood.
+- **World Egg torque:** the Mask family can move between different institutions because its feeding anchor is not desire itself but the chosen conversion of relational fidelity and consent into political possession. Similar images need not be one mobile person; some are dependent Masks coordinated through the same Throne and feeding architecture.
+- **Continuities:** spouses, hostages, matchmakers, and rulers are `human-soul`; manifestations are `idol-pattern`; an individually autonomous form would require separate Archmask proof but has no regnancy claim here; treaty and marriage offices are `infrastructure-office`.
 - **Present-day traces:** treaties with an inexplicable empty signature line; wedding customs requiring each spouse to be named separately from house and territory; a recurring faceless figure in royal portraits.
-- **Future hooks:** one historical spouse may have defeated the Mask while remaining politically condemned; rival dynasties may each claim the figure blessed them.
-- **Protected boundaries:** desire, sexuality, marriage, fertility, and beauty remain created goods. Do not reduce Lust to sex, women, queer desire, or foreign marriage customs.
+- **Future hooks:** one historical spouse or hostage may have defeated a local Mask while remaining politically condemned; rival dynasties may each claim the Guest blessed them; a court may preserve the empty line specifically to deny any office the right to sign for a person.
+- **Protected boundaries:** desire, sexuality, marriage, fertility, beauty, diplomacy, and arranged marriage remain created or human goods capable of just use. Do not reduce Lust to sex, women, queer desire, foreign marriage customs, or one gendered supernatural figure; no Mask is literally present behind every treaty.
 - **Source and sensitivity note:** keep consent, fidelity, coercion, and political ownership precise. Do not import a living sacred marriage rite or demonize arranged marriage as a single undifferentiated institution.
-- **Review:** `retain: unreviewed` · `revise: unreviewed` · `defer: unreviewed` · `reject: unreviewed`
+- **Review disposition:** `revise` — keep the empty-signature forensic trace and consent-to-access feeding logic, but choose one court, treaty form, local image, and human resistance episode before retention.
 
 ### II-I05 — The Keeper Who Stopped Moving
 
-- **Era and scope:** Scattering into early Hearths; cautionary Sloth Archmask cycle, not an authorial succession candidate in this pass.
+- **Era and scope:** late Scattering into early Hearths; one refuge or settlement's cautionary Sloth Archmask cycle, not an authorial succession candidate in this pass.
 - **Historical pressure:** exhausted migrants require real rest, but some leaders convert temporary shelter into permanent refusal of duty while calling abandonment contemplation.
 - **Scriptural lens:** watchmen and stewards answerable for neglected duty, Sabbath as restorative gift rather than abandonment, and the sleeper who must rise when a real summons comes.
 - **Comparative grammar:** dormant sovereign, sleeping-hero expectation, substitute-office tale, and TES-style operational identity without making rest or contemplation culpable.
 - **Cycle account:** a servant Mask performs neglected local functions, first speaking for the Regnant, then dreaming for it, then becoming the only personality through which one Still-Country province acts. It mistakes regional monopoly for the Throne.
 - **Conflict grammar:** Sloth. The claimant wins by making action appear pointless and office indistinguishable from indefinite substitution, but never completes accession.
-- **World Egg torque:** the new expression offers not sleep but relief from being answerable: a settlement can remain safe only by refusing every traveler, obligation, birth, repair, and future.
+- **World Egg torque:** the new expression offers not sleep but relief from being answerable: one settlement is promised safety only by refusing every traveler, obligation, birth, repair, and future. The Keeper ignores a genuine summons while a neighboring refuge burns; people barred at the gate die from attackers and exposure, and the Still-Country tradition spends generations calling those deaths the price of peace.
 - **Continuities:** Sloth is `yolk-sovereignty`; contender must become an autonomous Archmask; dreams and dependent dusk forms are `idol-pattern`; exhausted humans remain `human-soul` and are not guilty merely for resting.
 - **Present-day traces:** abandoned settlements with beds made and tools unfinished; two Sloth names, one meaning Sleeper and one meaning Keeper; pilgrimage tales in which a guardian has forgotten what it guards.
 - **Future hooks:** an older Mask voice may still dream beneath the Still Country; one human refuge may survive by negotiating restorative rest through the Counter-Countenance rather than accepting surrender.
 - **Protected boundaries:** do not stigmatize disability, depression, sleep, contemplation, monastic withdrawal, or trauma. The vice is knowing abandonment of due good disguised as rest. It remains a regional Mask shift unless the Block-II candidate slot is explicitly reopened.
 - **Source and sensitivity note:** sleeping-hero and enchanted-sleeper motifs must remain distinct from Sloth. A crisis-specific Sleeper may be virtuous precisely because he rises when truly needed.
-- **Review:** `retain: unreviewed` · `revise: unreviewed` · `defer: unreviewed` · `reject: unreviewed`
+- **Review disposition:** `retain` — preserve this as a strictly local refusal-of-duty cycle while leaving the settlement, human decisions, Mask form, and Counter-Countenance encounter open.
 
 ---
 
@@ -817,11 +884,11 @@ This Sirach-style roll plants names and sayings more lightly than a full card. I
 | Scattering | **Remember the widow of the lean ox, who divided winter rather than the herd.** | A seasonal cattle law claimed by three peoples with incompatible founding stories. |
 | Scattering | **Remember the interpreter who lied once to stop a killing and spent a lifetime telling the cost.** | A disputed confession used in oath courts; neither deception nor literalism receives a simple verdict. |
 | First Kings | **Remember the cook who carried the iron before the crown and then went home.** | An ordinary ending deliberately omitted from later royal ascent songs. |
-| First Kings | **Remember the hostage who taught both courts the names of their enemy's children.** | A paired naming feast later misread as proof of one bloodline. |
+| First Kings | **Remember the hostage who taught both courts the names of their enemy's children.** | A paired naming feast born from coercive fosterage; some named children later die in the feud, and the feast cannot make their captivity voluntary. |
 | City-States | **Remember the key-bearer without a house, who asked truth's reward for the debtors instead of himself.** | A civic amnesty formula shaped by Greek 1 Esdras without copying its contest or cast. |
-| City-States | **Remember the woman who separated two witnesses and refused a judge's chair.** | A minor precursor to later forensic law, with no preserved trial transcript. |
+| City-States | **Remember the woman who separated two witnesses after refusing their sexual coercion and surviving their false capital accusation.** | A minor precursor to later forensic law, with no preserved trial transcript and no claim that procedure erased the attempted predation. |
 | City-States | **Remember the poor wall-mender whose name the victory arch excludes.** | A maintenance mark that may be rediscovered without restoring the lost biography. |
-| Stars | **Remember the singer who praised the road but would not praise its owner.** | A censored survey hymn and a guild custom of leaving one verse unsigned. |
+| Stars | **Remember the singer who praised the road but would not praise its owner, and was beaten and exiled for the missing verse.** | A censored survey hymn and a guild custom of leaving one verse unsigned. |
 | Stars | **Remember the surveyor who withheld the final milestone and accepted exile.** | One unmeasured interval that resists total imperial title without explaining any Weird. |
 
 The roll's restraint is intentional. Some lines may later join existing beds; some may remain only proverbs; some may prove to preserve several unrelated people; and some human identities are genuinely unrecoverable even where a custom survives.
@@ -832,14 +899,14 @@ The roll's restraint is intentional. Some lines may later join existing beds; so
 
 ## Late-Chains–Exodus Review Disposition Register
 
-This register records the completed **nursery disposition**, not canon promotion. Every reviewed seed has exactly one result. Unlisted Block-II cards remain wholly unreviewed; the Exodus company is included only because the Glass Ark requires a controlled bridge across the formal block boundary.
+This register records the completed **nursery disposition**, not canon promotion. Every reviewed seed has exactly one result. The Exodus company is included only because the Glass Ark requires a controlled bridge across the formal block boundary.
 
 | Seed or lead | Disposition | First-pass deliverable | Promotion gate still outstanding |
 |---|---|---|---|
 | I-H01 — People Beneath the Bowl | `retain` | generational Ansharan refuge ecology and divided Closing-Court outcomes | Ansharan locality and final participant choices |
 | I-H02 — Midwives of the Unnumbered | `retain` | Qianglong name, birth, medicine, and gathering-register practice | named regional placement and source attribution |
 | I-H03 — Funeral Thieves | `retain` | Ishkatar–Urum burial road and continuity-audit practice | exact Giant/Titan remains in any developed episode |
-| I-H04 — Company of the Broken Measure | `revise` | warning-year company with giant-blooded human member and bounded estate victory | final polity, names, membership, encounters, and feeder-road outcome |
+| I-H04 — Company of the Broken Measure | `revise` | warning-year company with a giant-blooded human member, a Heraclean household killing that later service cannot cleanse, and a bounded estate victory | final polity, names, membership, encounters, and feeder-road outcome |
 | I-L01 — Ford with Two Owners | `defer` | protected pre-Giant etiological bed | prehistory and named-source review |
 | I-L02 — Hunter Who Knew He Was a Guest | `defer` | reserve outside-host survival cycle | region, nursery polity, and named-source review |
 | I-L03 — Child Who Snared Noon | `revise` | Xolotl blood-calendar construct cycle | Xolotl locality and cultural-source review |
@@ -847,7 +914,7 @@ This register records the completed **nursery disposition**, not canon promotion
 | I-L05 — Three Unfinished Borders | `defer` | protected Faewild scar cluster | separate Schism review |
 | I-M01 — Names Beneath the Numbers | `retain` | plural identity-preservation and remnant-register practice | case studies proving no master archive |
 | I-M02 — Song of the Nine Service Doors | `retain` | route-practice bridge from palace service to gathering craft | decide whether any Glass song has demonstrable descent |
-| I-M03 — Collar Carried Before the Crown | `defer` | preserve three object-identity alternatives | joint review with II-M03 Iron Cooking Ring |
+| I-M03 — Collar Carried Before the Crown | `defer` | separate Chain-era collar object later entangled with First-King regalia | household and coercive history, later reuse, and any forgery or material fusion |
 | I-I01 — Seven First Faces | `defer` | primordial Idol-formation control | separate Idol-cosmology review |
 | I-I02 — Red King without a Face | `revise` | bounded Xolotl Closing-Court Archmask revolt | exact feeding network and surviving Mask status |
 | I-I03 — Devourer's First Mouth | `defer` | hold sole Block-I succession slot dormant | separate Idol review and whole-history succession-cap review |
@@ -866,7 +933,112 @@ This register records the completed **nursery disposition**, not canon promotion
 4. **Commission gate:** one Phoenix with supporting choirs is fixed as bearer; the Severed Pursuit remains trace-level until its local target, witness carrier, and bounded work are selected. No seed may identify the Glass or Bird-Marked Sites through it.
 5. **Practice-braid gate:** later resemblance among Bowl, Measure, service-song, burial, midwife, and Cart practices never proves a hidden organization, universal bloodline, or second revelation.
 6. **Promotion gate:** sayings, customs, registers, roads, graves, and bounded relic behavior precede named biographies, fixed company membership, ancient actors, or sovereign convulsions.
-7. **Block-boundary gate:** this bridge reviews only the Last Cart from Block II. With the Late-Chains–Exodus review closed, the next opened nursery batch begins with the six Scattering cards; later Block-II ages remain unreviewed until their own turn.
+7. **Block-boundary gate:** this bridge reviews only the Last Cart from Block II. The Scattering and later Block-II ages received their own comparative reviews below; their dispositions do not retroactively enlarge the Late-Chains–Exodus bridge.
+
+## Scattering Review Disposition Register
+
+This register closes the six-card comparative batch without making any seed canonical. It fixes their different nursery functions so later research can deepen them without collapsing the Scattering into one company, one genealogy, one count of peoples, or one supernatural cause.
+
+| Seed | Disposition | First-pass deliverable | Promotion gate still outstanding |
+|---|---|---|---|
+| II-H02 — Seven Who Took the Wrong Road | `retain` | signature composite wanderer cycle; “seven” remains mnemonic | regional episodes, historical core, party membership, and composite logic |
+| II-H03 — House That Chose the Stranger | `retain` | human household-by-obligation cycle independent of supernatural recognition | locality, named comparative attribution, and individual fates |
+| II-L02 — Well That Adopted the Stranger | `revise` | one local hospitality compact and place-law encounter | named source or community, geography, and exact Menhir or court-law classification |
+| II-M02 — Parting Tables | `revise` | plural departure chronicles and performances with no fixed count | select carriers, recensions, and named comparative sources |
+| II-I01 — Unlisted Companion | `revise` | late regional Envy genealogy-forgery campaign | feeding network, falsified offices, exact Archmask status, and cultural audit |
+| II-I05 — Keeper Who Stopped Moving | `retain` | local Sloth caution about knowing refusal of due good | settlement, human decisions, Mask form, and Counter-Countenance trace |
+
+### Scattering Review Gates
+
+1. **Mnemonic-number gate:** “seven” may remain in the wandering cycle as a folk handle, but it cannot fix company size, departures, founder roles, peoples, wells, or Idol identities elsewhere.
+2. **Human-covenant gate:** the House is constituted by human promise and duty. A well or place-mind may recognize a covenant but cannot create human kinship, personhood, or moral truth.
+3. **Locality gate:** the Well must belong to one researched locality and compact; it is neither universal water law nor automatically the House's founding scene.
+4. **Chronicle gate:** the Parting Tables are historical carriers with political and ritual consequences, not a supernatural set of simultaneously true timelines or a fixed census of departures.
+5. **Idol-pressure gate:** the Unlisted Companion exploits later institutional choices. Envy neither causes the Scattering nor makes ordinary disagreement, mixture, or partial memory demonic.
+6. **Source gate:** African, Indigenous, Mandé, and other living or custodially specific comparisons remain research queues until attached to named communities, texts, or performance traditions.
+7. **No-master-story gate:** no merger among the six may establish one genealogy, hidden organization, inevitable set of nations, or explanation of the Year of Standing Stars.
+
+## Hearths and First Kings Review Disposition Register
+
+This register closes the six-card Hearths batch without canonizing a founder, kingdom, company membership, relic pedigree, Mask episode, or true Idol succession. The Crownless Company and Wolf and Lantern remain the two existing Garden beds; the other four cards deepen their age without becoming additional signature companies.
+
+| Seed | Disposition | First-pass deliverable | Promotion gate still outstanding |
+|---|---|---|---|
+| II-H04 — Crownless Company | `retain` | principal regional ascending-company formed inside a Judges 19–21-like sexual murder, retaliatory near-extermination, seizure of women, and burden-of-rule cycle in which members share culpability | culture and region, member roles, transition settlement, claims against the founders, and ultimate fates |
+| II-H05 — Wolf and Lantern | `retain` | expandable comic duo cycle about exact local jurisdictions | episode-by-episode locality, named sources, supernatural classification, and human stakes |
+| II-L03 — Road of Borrowed Gifts | `revise` | medicine errand and costly-hospitality tale family without fixed encounter count | one regional recension, named comparative sources, host classifications, and trace |
+| II-M03 — Iron Cooking Ring | `retain` | mundane cooking tool becoming a bounded provisioning and refuge office | first locality, copy lineage, witnessed terms, and later royal appropriations |
+| II-I02 — Crowned Reflection | `defer` | dormant sole Block-II true-succession hypothesis | cross-history Idol review, regional chronology, old Regnant, Archmask autonomy, and necessity of true accession |
+| II-I04 — Guest at the Empty Signature | `revise` | Lust Mask family converting consent into forced marriage, coerced sexual access, reproductive ownership, and punishment for refusal | one court, treaty form, local image, human resistance episode, and source audit |
+
+### Hearths and First Kings Review Gates
+
+1. **Burden-before-crown gate:** the Crownless Company first assumes concrete obligations abandoned by the defeated ruler. Acclamation, regalia, ancestry, and victory do not independently legitimate its successor government.
+2. **Company-and-king gate:** every member remains a distinct `human-soul`. A ruler, founder-persona, crown, company legend, and later dynasty are never one continuity merely because they share a name.
+3. **Two-rings gate:** the original Iron Cooking Ring and the original Collar Carried Before the Crown are different objects. Later fusion, copies, or propaganda may entangle their histories but cannot rewrite their origins.
+4. **Jurisdiction gate:** every Wolf-and-Lantern and Borrowed-Gifts episode must distinguish human fraud, `court-law`, Idol Mask, Patron manifestation, residue, and ordinary danger authorially even where the public tale does not.
+5. **Created-goods gate:** kingship, hospitality, desire, marriage, fertility, diplomacy, and beauty are not intrinsically Idol-fed. Predation requires a chosen architecture that turns a good into domination, abandonment, or possession.
+6. **Succession gate:** the Crowned Reflection stays deferred. No king becomes Pride; no ring or mirror creates Pride; and no true accession is assumed until it proves more useful than an Archmask regime change.
+7. **Distribution gate:** this one company, duo, road cycle, relic, and two Idol pressures do not describe every culture's path into settlement or kingship. Local Judges-scale heroes remain open planting space.
+
+## Exodus Supporting-Trace Review Disposition Register
+
+This register closes the two Exodus cards omitted from the earlier narrow bridge. Both remain supporting practices around the Last Cart and Glass Ark rather than new headline events.
+
+| Seed | Disposition | First-pass deliverable | Promotion gate still outstanding |
+|---|---|---|---|
+| II-L01 — Road Sung Across Glass | `retain` | bounded paired route-and-duty performance sustained by living correction | camp stage, practitioners, named source attribution, local melodies, and exact relation to the Last Cart |
+| II-M01 — Wheel Behind the Prophet | `retain` | distributed damaged-wheel memorial and departure office | earliest objects, custodians, rites, and demonstrable links to particular Cart stages or people |
+
+### Exodus Supporting-Trace Review Gates
+
+1. **Glass gate:** the song records a survivable practice inside a bounded crossing; it does not explain the Glass, reproduce the passage elsewhere, or become a universal route key.
+2. **Living-performance gate:** names, duties, paired correction, and current human knowledge matter more than an allegedly original melody. Performance cannot become ethnic ownership of revelation.
+3. **Distributed-office gate:** no unique wheel is required. A copy or forged relic may serve a witnessed local rite, while an authentic fragment may remain inert.
+4. **Soul gate:** no wheel, loaf, verse, road office, residue, or remembered name contains a dead human soul or changes the Vestibule.
+5. **Company gate:** resemblance to Last Cart practice may preserve contact or later borrowing, but neither card proves membership, one secret organization, or every later Cart claim.
+
+## City-States Review Disposition Register
+
+This register closes the four core City-State cards. It does not canonize a city, theft, trial, amnesty, company fate, Archmask, or link to an unresolved crime.
+
+| Seed | Disposition | First-pass deliverable | Promotion gate still outstanding |
+|---|---|---|---|
+| II-H06 — Bent-Key Fellowship | `retain` | principal civic-adventure company whose evidentiary reforms arise from sexual coercion and a false capital accusation, followed by the founder's personally committed wartime beheading | city and culture, membership, tablet, betrayal, reforms, and ultimate fates |
+| II-L04 — Fountain That Heard Foreigners | `retain` | local forensic case combining bounded place evidence with human interpretation | port, workers, interpreter, exact place-law, procedure, and legal consequence |
+| II-M04 — Bent-Key Amnesty | `retain` | later public repair office requiring release, amended records, witnesses, and damaged operative keys | city, settlement, participants, restitution, duplicate-lock risk, and relation to the Fellowship |
+| II-I03 — First Foreclosure | `revise` | regional failed Greed coup transmitting hoard logic into abstract legal claim | cities, acts of dispossession, human network, legal transmission, captured Masks, and Archmask classification |
+
+### City-States Review Gates
+
+1. **One-city gate:** the Fellowship's tablet, fountain case, and first amnesty must each receive a locality before development. They may share a city only by later authorial choice, not by structural necessity.
+2. **Evidence gate:** a place-mind can supply bounded physical evidence but cannot hear testimony, determine guilt, read a soul, or replace human procedure and judgement.
+3. **Repair gate:** bent keys matter only with release of persons, changed records, public witnesses, and material settlement. A symbol alone cannot dissolve an office or repair its harms.
+4. **No-super-artifact gate:** tablet, fountain, keys, archive, and hostile ledger remain distinct objects and offices. Combining them in later legend does not create one occult urban machine.
+5. **Greed gate:** dispossession remains a human legal and material act with unequal culpability. Greed exploits and standardizes it but does not make commerce, debt, markets, merchants, archives, or cities intrinsically evil.
+6. **Continuity gate:** company members, witnesses, debtors, officials, city institutions, residue, office, Mask, Archmask, and `yolk-sovereignty` remain categorically distinct.
+7. **Weird gate:** no card explains the Erasure of Orthea, the unnamed drowned harbor, or any other registered Weird or public uncertainty.
+
+## Age of Stars Review Disposition Register
+
+This register closes the final three Block-II cards without canonizing a survey corridor, company membership, land settlement, pantheon compiler, disputed genealogy, or Idol infiltration.
+
+| Seed | Disposition | First-pass deliverable | Promotion gate still outstanding |
+|---|---|---|---|
+| II-H07 — Road without Milestones | `retain` | principal survey company showing enacted measurement becoming imperial jurisdiction | corridor, cultures, membership, affected users, office formation, dissent, and ultimate fates |
+| II-L05 — Boundary That Refused Milestones | `revise` | one negotiated gap where overlapping human use meets exact place-law | locality, laboring communities, land agreements, and named Baltic, Slavic, and Indigenous sources |
+| II-M05 — Family of Stars | `retain` | institutional synthesis of real Menhir refractions into invented civic kinship whose Mask biographies retain divine kin-war, mutilation, sexual coercion and revenge | cities, compilers, genealogical recensions, named comparative sources, infiltrated roles, and political adoption |
+
+### Age of Stars Review Gates
+
+1. **Enacted-map gate:** repetition alone has no sovereign magic. A map gains office-mass through construction, maintenance, archives, labor, taxation, judgement, enforcement, and particular negotiated place-laws.
+2. **Human-land gate:** surveyors, residents, seasonal users, displaced households, workers, and officials remain human agents with competing claims. No Menhir judgement erases the need for human justice or restitution.
+3. **Local-boundary gate:** the Boundary is one encounter and one interval. It neither explains the full road nor establishes a universal theory of property.
+4. **Menhir-continuity gate:** cultural names, genders, images, relationships, and rites may vary while the encountered Menhir remains personally continuous. Ordinary Menhir do not undergo Regnant succession.
+5. **Pantheon-office gate:** the Family of Stars is an institutional genealogy, not literal authorial kinship. Its civic usefulness and bounded supernatural responses do not prove its theology or imperial mission.
+6. **Idol-distinction gate:** an Idol Mask may infiltrate a pantheon office without becoming a Menhir or proving every cult participant knowingly worships an Idol.
+7. **Sacred-history gate:** no pre-Redeemer saint or saintly relic is introduced. A pre-Redeemer human may be remembered as Righteous, judge, prophet, dissenter, criminal, or by a culture-specific title.
+8. **Weird gate:** no road, missing marker, pantheon gap, or survey account explains the Via Somnia, the unplaceable late-Star campaign, or another registered Weird.
 
 ## Existing Garden Beds Preserved
 
@@ -887,9 +1059,9 @@ Their presence here does not alter the Garden's firm roots or promote ultimate f
 |---|---|---|---|
 | The Red King without a Face | Wrath | Archmask revolt — `revise` | May replace the Block-I candidate only after that slot is explicitly reopened. |
 | The Devourer's First Mouth | Gluttony | **sole Block-I succession candidate — `defer`** | Giant continuity is settled; the slot remains dormant pending separate Idol review and the whole-history cap. |
-| The Rival of Seven Names | Envy | Archmask replacement campaign | Keep as a disputed in-world succession theory. |
-| The Crowned Reflection | Pride | **sole Block-II succession candidate** | Retain, revise, defer, or reject as the block's one candidate. |
-| The First Foreclosure | Greed | failed Archmask coup | Preserve the Mask-regime transition without a new Regnant. |
+| The Unlisted Companion | Envy | Archmask replacement campaign — `revise` | Keep as a disputed regional succession theory pending localization and exact Archmask classification. |
+| The Crowned Reflection | Pride | **sole Block-II succession candidate — `defer`** | Preserve as a dormant hypothesis pending cross-history Idol review; do not assume accession where a Mask-regime change suffices. |
+| The First Foreclosure | Greed | failed Archmask coup — `revise` | Preserve the regional hoard-to-claim transition without a new Regnant; require localization and exact Archmask classification. |
 | The Keeper Who Stopped Moving | Sloth | regional Archmask monopoly | Preserve the cautionary cycle without accession. |
 
 The two candidate slots are alternatives across history, not automatic canon. Even if both survive block review, the whole-history promotion cap of three true successions still governs Blocks III and IV together.
@@ -912,7 +1084,7 @@ The two candidate slots are alternatives across history, not automatic canon. Ev
 - **Block I:** 16 seeds — 4 human/company, 5 land/folklore, 3 institution/memory, 4 metaphysical-pressure.
 - **Block II:** 22 seeds — 7 human/company, 5 land/folklore, 5 institution/memory, 5 metaphysical-pressure.
 - **Total:** 38 exploratory seeds, including 8 existing Garden beds, 2 authorial Regnant-succession candidates, and 4 throne-shaped Archmask alternatives already classified as non-successions.
-- **Bridge additions:** 8 fixed nursery-polity anchors, 5 provisional ancient-actor slots, and 4 retained trace-level leads. None changes the developed-seed total, creates a signature company, or opens another succession slot.
+- **Bridge additions:** 8 approved provisional nursery-polity anchors, 5 provisional ancient-actor slots, and 4 retained trace-level leads. None changes the developed-seed total, creates a signature company, or opens another succession slot.
 
 ## Navigation
 

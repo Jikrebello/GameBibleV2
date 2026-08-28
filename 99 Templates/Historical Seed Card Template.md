@@ -44,6 +44,15 @@ tags:
 - **Menhir, Idol, or Patron relationship:**
 - **Three changed axes:**
 
+### Source-Fidelity Ruling
+
+- **Received source:** exact Orthodox scriptural book or Life, named mythic cycle or folklore family, or modern literary grammar
+- **Borrowed element:**
+- **Original hard edge:** violence, coercion, sin, terror, humiliation, sacrifice, betrayal, or irreversible consequence integral to the borrowed element; write `none` when the element is genuinely nonviolent
+- **Current state:** `intact` / `attenuated` / `omitted` / `nonviolent` / `research-blocked`
+- **Restoration:** exact causal correction, or `none`
+- **Historical layer:** authorial fact / disputed chronicle / received Life / cult legend / folklore accretion / propaganda
+
 > **Required formula:** scriptural moral pattern + primary comparative grammar + culture-specific pressure + World Egg torque + contested residue
 
 ## Historical Residue
@@ -72,5 +81,8 @@ tags:
 - [ ] The seed does not explain a protected Weird.
 - [ ] The company does not secretly cause an entire age.
 - [ ] At least three major axes differ from any visible source parallel.
+- [ ] Changing those axes has not removed the source's load-bearing atrocity, culpability, bodily danger, taboo, or irreversible price.
+- [ ] Only the source element actually borrowed contributes hardness; unrelated atrocities from secondary citations have not been stacked into the seed.
+- [ ] Direct harms are named plainly without voyeuristic anatomical narration.
 - [ ] The seed leaves a useful trace, or its genuine loss is intentional.
 - [ ] Present-day material creates a hook rather than predetermined future history.

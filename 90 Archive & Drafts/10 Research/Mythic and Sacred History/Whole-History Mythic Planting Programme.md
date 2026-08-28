@@ -11,9 +11,9 @@ culture: []
 related_factions: []
 appears_in: []
 needs:
-  - open the six-card Scattering review queue, then continue the remaining chronological batches
+  - select the lightest retained roots for a separate promotion pass
   - enrich retained seeds through specifically attributed cultural dossiers
-  - promote retained Late-Chains–Exodus material lightly and in order
+  - keep both Pride-succession bundles deferred unless materially stronger evidence is designed
 tags:
   - mythic-history
   - programme-control
@@ -27,36 +27,44 @@ This is the control note for the first author-only planting pass from Creation t
 ## Governing Lens and Interfaces
 
 - [[Orthodox Old Testament Lens]] — the governing moral, theological, and sacred-historical source atlas.
+- [[Orthodox New Testament and Early Saints Lens]] — the governing post-Redeemer scriptural, martyrological, institutional, and saint-memory atlas.
 - [[Idol Thrones, Regnants, and Cultural Masks]] — the controlling Idol sequence and succession ontology.
 - [[The Image, Soul, and Creaturely Continuity]] — the hard boundary among a human person, memory, residue, office, legend, and constructed identity.
 - [[Names of the Menhir, Masks of the Idols]] — Menhir continuity and cultural refraction versus Idol identity accretion.
 - [[Historical Seed Card Template]] — the complete seed interface and validation checklist.
+- [[Source-Fidelity and Mythic Hardening Ledger]] — the complete parity audit for every developed card, light lead, Praise entry, and existing Garden bed.
 - [[The Historical Seed Garden]] — the nursery into which reviewed material may be promoted.
 
 The transformation formula is:
 
 > scriptural moral pattern + primary comparative grammar + culture-specific pressure + World Egg torque + contested residue
 
-Every visible source parallel must change at least three major axes. Comparative traditions supply narrative grammar and local research questions; they do not override the Orthodox scriptural lens or become one-to-one culture mappings.
+Every visible source parallel must change at least three major axes. Comparative traditions supply narrative grammar and local research questions; they do not override the Orthodox scriptural lenses or become one-to-one culture mappings. The Old Testament lens remains primary for pre-Redeemer sacred history. The New Testament and early-saints lens governs the Redeemer and post-Redeemer review without making the Redeemer's unique work, the Companion roll, Pentecost, martyrdom, or sainthood reusable hero mechanics.
+
+The three-axis transformation rule cannot be satisfied by deleting what makes the source morally intelligible. If the borrowed element depends upon rape, murder, child death, sacrifice, torture, kin-slaying, cannibalism, martyrdom, betrayal, humiliation, or an irreversible vow, the World Egg seed must retain that load-bearing hardness at the same causal weight. This is **severity parity**, not a license to accumulate unrelated cruelties or exceed the source.
+
+Scripture follows the received Eastern Orthodox form and preserves a borrowed defining act closely. Orthodox saint tradition preserves the received bodily trial at its correct documentary, Life, liturgical, or folklore layer. Non-Christian mythology uses a clearly identified familiar composite and retains equivalent severity while changing its setting expression. Living African, Indigenous American, Hindu, Sámi, and other traditions still require a named people, text, or performance context; no generic cultural brutality may be invented.
 
 ## First-Pass Dashboard
 
 | Review block | Scope | Seed cards | Existing Garden beds deepened | New exploratory cards | Sole succession-candidate slot | Review state |
 |---|---|---:|---:|---:|---|---|
 | I | Creation, Yolk Exiles, Faewild Schism, Five Imperial Horizons, Chains | 16 | 2 | 14 | The Devourer's First Mouth — Gluttony | reviewed: 6 `retain`, 4 `revise`, 6 `defer`; candidate deferred |
-| II | Exodus, Scattering, Hearths, City-States, Stars | 22 | 6 | 16 | The Crowned Reflection — Pride | Last Cart `retain`; 21 cards unreviewed |
-| III | Atherian glory, Redeemer, Conversion, Decadence, Long Frontier | 16 | 4 | 12 | The Unmirrored Interregnum — Pride | unreviewed |
-| IV | Fall, Reconquest, Split, High Noon, Grey Sweat, Black Wind, Reformation, present | 18 | 5 | 13 | The Crown That Replaced Its Wearer — Pride | unreviewed |
-| **Whole pass** | Creation–1360 AR | **72** | **17** | **55** | four review slots; no succession promotions | **17 reviewed; 55 unreviewed; no story seed canonized** |
+| II | Exodus, Scattering, Hearths, City-States, Stars | 22 | 6 | 16 | The Crowned Reflection — Pride | reviewed: 14 `retain`, 7 `revise`, 1 `defer`; block closed |
+| III | Atherian glory, Redeemer, Conversion, Decadence, Long Frontier | 16 | 4 | 12 | The Unmirrored Interregnum — Pride | reviewed: 14 `retain`, 1 `revise`, 1 `defer`; block closed; candidate deferred |
+| IV | Fall, Reconquest, Split, High Noon, Grey Sweat, Black Wind, Reformation, present | 18 | 5 | 13 | The Crown That Replaced Its Wearer — Pride | reviewed: 17 `retain`, 1 `defer`; block closed; candidate consolidated with B3-16 and deferred |
+| **Whole pass** | Creation–1360 AR | **72** | **17** | **55** | four review slots; no succession promotions | **72 reviewed and source-hardened: 51 `retain`, 12 `revise`, 9 `defer`, 0 `reject`; all four blocks closed; no story seed canonized** |
 
 The matrices are:
 
 - [[Whole-History Planting Matrix - Blocks I and II]];
 - [[Whole-History Planting Matrix - Blocks III and IV]].
 
-The Giant descent ruling, Five-Horizon many-state model, and Great Unbinding causal backbone are now controlling canon through [[Giant Descent and Creaturely Continuity]] and [[The Great Unbinding]]. The completed joint Late-Chains–Exodus nursery review also disposes four trace-level bridge leads outside the seventy-two-card count. Its next queue is the six Scattering cards `II-H02`, `II-H03`, `II-L02`, `II-M02`, `II-I01`, and `II-I05`; no additional Giant-Age headline figure should be opened first.
+The Giant descent ruling, Five-Horizon many-state model, and Great Unbinding causal backbone are now controlling canon through [[Giant Descent and Creaturely Continuity]] and [[The Great Unbinding]]. The completed joint Late-Chains–Exodus nursery review also disposes four trace-level bridge leads outside the seventy-two-card count. All four chronological blocks are now closed at nursery-review level. Block IV retains seventeen cards and defers the Crown That Replaced Its Wearer, consolidating it with B3-16's Unmirrored Interregnum as one unproven Pride-succession research bundle. The Fall and Reconquest retain the Thirty-First Crew, Six at the Cinder Inn, and the Deed in the Bread Jar; the Split gains bounded road, lamp, and Envy-Mask memories without explaining the Bells; High Noon–Qarath gains the Ransomed Standard company and two local civic heroes; Grey Sweat and Black Wind retain incomplete practical carriers without explaining the Quiet Ninth or Qarayel's grave; and the present receives playable investigations without fixed futures. No Pride succession, Archmask promotion, former-Regnant remnant, or interregnum has been established.
 
 The Scattering, Long Frontier, and High Noon–Qarath band receive the heaviest new human-scale planting. The Redeemer generation, Reconquest, Split, Grey Sweat, and present are deepened sideways rather than given replacement headline figures.
+
+The integrated source-fidelity pass is complete. [[Source-Fidelity and Mythic Hardening Ledger]] assigns one ruling to each of the seventy-two developed cards, four Late-Chains–Exodus bridge leads, twelve Praise entries, and seventeen existing Garden beds. It records the exact received source, borrowed element, original hard edge, pre-correction state, applied restoration, and historical layer. The two matrices and Garden now carry the restored causes and consequences themselves; the ledger is an audit trail, not a substitute for putting the hard edge in the story. No review disposition or promotion status changed.
 
 ## Four-Lane Audit Rule
 
@@ -73,7 +81,7 @@ An intentional empty lane is a valid audit result. Creation, the Great Rebellion
 
 Each block may place no more than one true Idol succession into authorial review. Other throne-shaped ideas must remain Archmask revolts, failed accessions, Mask regime changes, Sediment, or mistaken historical theories unless the block's sole slot is explicitly reopened.
 
-No more than **three true successions across recorded human history** may be promoted from the entire first pass. The four block candidates therefore cannot all become true. B3-16 and B4-18 may be two memories of one attempted or completed Pride convulsion and must be reconciled before either is promoted.
+No more than **three true successions across recorded human history** may be promoted from the entire first pass. The four original block slots therefore cannot all become true. Review has consolidated B3-16 and B4-18 into one deferred Pride research bundle rather than two candidate events. It currently establishes only dependent-Mask recurrence and office reuse; reopening it requires materially stronger evidence and a dedicated accession dossier.
 
 Any retained succession must preserve all of the following:
 
@@ -122,6 +130,8 @@ A card fails review if it:
 - makes a miracle prove more than its actual commission;
 - lets repentance erase victims, law, property, or historical consequence;
 - maps a World Egg people wholesale onto a scriptural or comparative source culture;
+- attenuates or omits the load-bearing hard edge of the element actually borrowed;
+- imports cruelty from a source element the card did not borrow merely to make the world darker;
 - predetermines post-1360 history.
 
 ## Later Enrichment Queue
@@ -135,6 +145,7 @@ Indigenous, African, Hindu, and Sámi material requires named-community or named
 - **Coverage:** seventy-two unique developed cards span all four chronological blocks; the Faewild Schism and Black Wind have explicit non-headline audit results.
 - **Nursery discipline:** all seventeen existing Garden beds are deepened before duplication; the Company of the Ransomed Standard is the pass's only completely new signature company.
 - **Transformation fields:** every developed card records a scriptural lens, comparative grammar, World Egg torque, continuity classification, present residue, open material, source restriction, and review state through either the full or compact interface.
+- **Source fidelity:** all seventy-two developed cards, four bridge leads, twelve Praise entries, and seventeen Garden beds have exactly one ledger ruling; load-bearing hard edges appear in the historical seed rather than surviving only as warning notes.
 - **Trace density:** seventy-one of seventy-two cards have an explicit 1360 AR trace; B4-14 intentionally has none yet under the Forward Rule. The Praise roll additionally preserves people whose identities are genuinely lost despite surviving customs.
 - **Succession control:** four blocks expose four candidate slots; no succession is promoted, and noncandidate throne conflicts are fixed as Archmask or Mask events.
 - **Protected boundaries:** no card explains a registered Weird, creates a second Prophet or central apostle, makes a company cause an age, or turns a human soul into a Mask, office, Patron persona, or Idol.

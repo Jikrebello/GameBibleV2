@@ -12,7 +12,8 @@ related_factions: []
 appears_in: []
 needs:
   - add comparative-tradition dossiers as their research passes are completed
-  - audit every promoted seed against chronology, culture, and theology
+  - select the lightest hardened roots for separate promotion review
+  - audit every promoted seed against chronology, culture, theology, and source fidelity
 tags:
   - research
   - mythic-history
@@ -44,10 +45,14 @@ The standard transformation formula is:
 
 A seed must change at least three major axes from any single source: culture and setting, company composition, inciting problem, event sequence, outcome, metaphysical mechanism, political function, or later moral interpretation.
 
+Changing those axes may never remove the borrowed element's causal atrocity, principal culpability, or irreversible price. The standard is severity parity: preserve the load-bearing moral wound, but do not import unrelated cruelties from other cited sources or increase violence merely for atmosphere.
+
 ## Research Dossiers
 
 - [[Whole-History Mythic Planting Programme]] — programme dashboard, succession cap, trace rule, review sequence, and promotion lock.
+- [[Source-Fidelity and Mythic Hardening Ledger]] — exhaustive source-fidelity rulings for all developed cards, bridge leads, Praise entries, and existing Garden beds.
 - [[Orthodox Old Testament Lens]] — pan-Orthodox canon cautions, scriptural story grammars, longer-canon material, whole-history planting map, Idol-Mask implications, and theological boundaries.
+- [[Orthodox New Testament and Early Saints Lens]] — Orthodox New Testament ordering, source-status ladder for Lives, representative early saints, post-Redeemer story grammars, saint-memory classification, and Block-III interfaces.
 - [[Whole-History Planting Matrix - Blocks I and II]] — Creation through the Age of Stars, audited in four lanes.
 - [[Whole-History Planting Matrix - Blocks III and IV]] — Atherian glory through 1360 AR, audited in four lanes.
 - [[Giant-Age Political Ecology and TES Integration]] — five imperial horizons, many-crown dynastic ecology, provisional secondary polities, the Nythalum lunar exception, and bounded TES identity grammar.
@@ -56,11 +61,13 @@ A seed must change at least three major axes from any single source: culture and
 
 ## Programme State
 
-The first whole-history planting pass is built and has received its structural check against reconciled canon. It contains seventy-two developed seed cards, a lighter Praise roll, and trace-level peripheral leads.
+The first whole-history planting pass is built, structurally checked against reconciled canon, and source-hardened. It contains seventy-two developed seed cards, twelve Praise entries, four trace-level bridge leads, and seventeen synchronized Garden beds.
 
 The Giant descent ruling, Five Imperial Horizons, and Great Unbinding backbone have now been promoted into controlling canon through [[Giant Descent and Creaturely Continuity]] and [[The Great Unbinding]]. Their names, actor identities, exact plague sequence, and disputed recensions remain deliberately open where those notes say so.
 
-The joint Late-Chains–Exodus bridge has completed its **nursery review**: the sixteen Block-I cards, [[The Historical Seed Garden#Age of Exodus — The Last Cart|the Last Cart]], and four light bridge leads each carry exactly one `retain`, `revise`, `defer`, or `reject` disposition in [[Whole-History Planting Matrix - Blocks I and II#Late-Chains–Exodus Review Disposition Register|the review register]]. These dispositions do not canonize a story seed. The remaining Block-II cards and all Block-III/IV cards remain unreviewed. The next planting review opens with the Scattering rather than another Giant-Age headline figure; promotion of retained bridge material proceeds separately in the order below.
+All seventy-two cards now carry exactly one disposition in the two whole-history matrices: fifty-one `retain`, twelve `revise`, nine `defer`, and none `reject`. Every developed card, bridge lead, Praise entry, and existing Garden bed also carries exactly one ruling in the [[Source-Fidelity and Mythic Hardening Ledger]]. Where a borrowed element depended upon rape, murder, child death, sacrifice, torture, kin-slaying, cannibalism, martyrdom, betrayal, humiliation, or an irreversible vow, the matrices now state that cause and consequence directly. Genuinely domestic, hospitable, textual, or juridical borrowings were not given artificial violence. No disposition, canon status, protected Weird, metaphysical ruling, promotion gate, or Forward Rule changed through hardening.
+
+Block IV closes with seventeen `retain` and one `defer`. Its Fall, Reconquest, Split, High Noon–Qarath, Grey Sweat, Black Wind, Reformation, and present-day carriers have been bounded against the Thirty Sisters, Bells of the Split, Quiet Ninth, Qarayel's grave, and Forward Rule. The Company with No Charter retains only a starting pressure around an existing Held Proof; every member and outcome remains open. The Crown That Replaced Its Wearer is consolidated with the Unmirrored Interregnum as one deferred Pride-succession research bundle: no Archmask autonomy, Regnant accession, divided regnancy, former-Regnant remnant, or sovereign convulsion is established. These dispositions close the exploratory review but do not canonize a story seed, named participant, event sequence, relic pedigree, or Idol succession. Promotion of selected retained material proceeds separately in the order below.
 
 Promotion proceeds from the least constraining material to the most constraining:
 
