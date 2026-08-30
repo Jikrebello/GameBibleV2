@@ -166,6 +166,7 @@ At mass death, damaged thresholds, and intercepted soul routes, several powers m
 - **Open facts:** the one genuine Giant escape selected for later dossier, the hunter's exact Menhir jurisdiction, and the fate of every human tenant.
 - **Protected boundaries:** Nythalum's imperial Ascension remains physically lunar; no Hunt explains the Glass or collects every escaped Giant.
 - **Planting status:** `nursery-unreviewed`.
+- **Developed reviewed episode:** [[First Unknown Histories - Six Recoverable Lore Capsules#UH-01 — The Caravan That Cast Off Its Wards]]; separated from adjacent nursery roots in [[First Unknown Histories - Collision and Disposition Review#UH-01 — Separate Decoy-Caravan Crime]].
 
 ## Block II — Exodus, Scattering, First Kings, City-States, and Stars
 
@@ -194,6 +195,7 @@ At mass death, damaged thresholds, and intercepted soul routes, several powers m
 - **Open facts:** no single beginning, capital, commander, or final front is fixed; individual dominions require dossiers.
 - **Protected boundaries:** neither side is good; Abyssal wounds are not a people; the Adversary does not become a dark emperor; heavenly forces do not defend Hell's tyranny.
 - **Planting status:** `nursery-unreviewed`.
+- **Developed reviewed episode:** [[First Unknown Histories - Six Recoverable Lore Capsules#UH-03 — The Prisoners Who Became a Border]]; bounded as one mortal aperture in [[First Unknown Histories - Collision and Disposition Review#UH-03 — One Mortal Aperture into a Larger War]].
 
 ### GP-II-03 — The Crown-Market of Shadows
 
@@ -263,6 +265,7 @@ At mass death, damaged thresholds, and intercepted soul routes, several powers m
 - **Open facts:** saint, churches' later rulings, which appearances were genuine, and whether reconciliation of the records is possible.
 - **Protected boundaries:** one saint remains one soul; neither church is an Idol; a saint cannot be summoned or made partisan by custody.
 - **Planting status:** `nursery-unreviewed`.
+- **Developed reviewed episode:** [[First Unknown Histories - Six Recoverable Lore Capsules#UH-06 — The Saint Who Guarded the Enemy Gate]]; separated from the Two Ferries in [[First Unknown Histories - Collision and Disposition Review#UH-06 — Inland Military Saint, Not the Two Ferries]].
 
 ### GP-IV-02 — The Ossuary Crown Dispute
 
