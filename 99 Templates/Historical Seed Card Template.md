@@ -68,12 +68,41 @@ Complete this section when a seed centers a Menhir, Idol, Patron, saint, Sinner,
 
 > **Required formula:** scriptural moral pattern + primary comparative grammar + culture-specific pressure + World Egg torque + contested residue
 
+## Human Coherence
+
+Describe one event chain in ordinary causal language before using metaphysical shorthand.
+
+- **Starting condition:** the material, political, bodily, legal, or ecological situation before anyone acts
+- **Human decision:** who chooses what; do not assign a human crime to “the age,” “the cult,” or supernatural influence when an identifiable person or institution commits it
+- **Supernatural trigger:** exact act or condition that permits a response; write `none` if the event is human
+- **Mechanism in plain language:** what the object, office, Mask, Menhir law, Patron anchor, saintly commission, or other actor actually does
+- **Immediate observable effect:** what a present witness sees, hears, measures, loses, or is physically prevented from doing
+- **Direct cost:** death, injury, displacement, debt, lost time, broken relation, exhausted resource, or other irreversible consequence
+- **Second-order consequence:** the law, institution, feud, migration, cult, economy, landscape, or custom produced afterward
+- **Limit and failed inference:** what this event does not prove or permit
+
+Do not use *recognizes*, *answers*, *feeds*, *gains mass*, *aligns*, *stabilizes*, *refuses*, *inherits*, *corresponds*, or *opens a route* without stating the trigger and observable result.
+
 ## Historical Residue
 
 - **1360 AR traces:**
 - **Competing interpretations:**
 - **Authorially known facts:**
 - **Deliberately open facts:**
+
+## Discovery Interface
+
+Complete this section for any history intended to be unknown in 1360 AR and recoverable through investigation.
+
+- **Hidden authorial fact:** what actually happened, stated without in-world uncertainty
+- **Contemporary witnesses:** who could have seen portions of it and what each could not know
+- **Primary physical remainder:** body, object, structure, landscape change, accounting discrepancy, route scar, residue, or other evidence produced by the event itself
+- **Transmission chain:** who copied, moved, translated, concealed, altered, inherited, or misunderstood the evidence
+- **1360 access point:** the specific ruin, lawsuit, archive, person, ritual test, market, grave, route, or crisis through which investigation begins
+- **Reproducible test:** what present investigators can do and what result would support or falsify one claim
+- **Expected false reading:** the most plausible wrong conclusion and the evidence that appears to support it
+- **Corroboration threshold:** the independent evidence required before the hidden fact may be treated as established
+- **What remains unknowable:** facts the surviving evidence cannot recover even if the investigation succeeds
 
 ## Safety and Promotion
 
@@ -103,3 +132,7 @@ Complete this section when a seed centers a Menhir, Idol, Patron, saint, Sinner,
 - [ ] Hell's dominions, devil offices, damned souls, Depth fauna, and Abyssal wounds remain distinct rather than becoming a generic fiend nation.
 - [ ] The seed leaves a useful trace, or its genuine loss is intentional.
 - [ ] Present-day material creates a hook rather than predetermined future history.
+- [ ] The cause, chosen action, mechanism, observable result, cost, and later consequence can be restated without metaphysical jargon.
+- [ ] Every supernatural verb has a stated trigger, observable effect, and limit.
+- [ ] An unknown history has a surviving evidence chain rather than becoming knowable through authorial exposition.
+- [ ] No single archive, vision, relic, or witness conveniently supplies the complete truth.

@@ -11,7 +11,7 @@ culture: []
 related_factions: []
 appears_in: []
 needs:
-  - test seeds against regional culture passes before promotion
+  - test seeds against regional culture passes before canon promotion
   - keep most names and memberships provisional
 tags:
   - historical-seeds
@@ -38,6 +38,10 @@ The current whole-history pass is held in the author-only [[Mythic and Sacred Hi
 - [[Whole-History Planting Matrix - Blocks I and II]];
 - [[Whole-History Planting Matrix - Blocks III and IV]];
 - [[Great-Power Mythic Ecology and Planting Matrix]];
+- [[Patron Realms and Egg White City Politics Review]];
+- [[Patron Realm Historical Placement Pass]];
+- [[Patron Realm Garden Promotion Review]];
+- [[Human Coherence and Discoverability Pass]];
 - [[Historical Seed Card Template]].
 
 Those notes audit every age through human, folkloric, institutional, and metaphysical lanes. The Giant descent rules, Five Imperial Horizons, and Great Unbinding backbone are now controlling canon. All seventy-two developed cards have received nursery dispositions and source-fidelity rulings; the four bridge leads, twelve Praise entries, and seventeen beds below are included in the same hardening audit. Every story seed remains exploratory until separately promoted, and linking it here does not promote its names, memberships, miracles, dates, provisional polities, actor identities, or proposed Idol successions.
@@ -304,6 +308,74 @@ These twelve beds sit beside the seventeen human-company beds rather than replac
 
 These beds produce ancient grudges and present encounters without making every storm, apparition, war, plague, or political change the visible edge of one hidden cosmic conspiracy.
 
+## First Patron Trace Planting
+
+These six light roots are the first Patron-realm material promoted from the comparative research nursery into the Garden. Their selection and withheld layers are controlled by [[Patron Realm Garden Promotion Review]]. They deepen the twelve great-power beds without adding a thirteenth umbrella war or fixing six complete Astral kingdoms.
+
+The provisional realm, owner, ruler, route, population, institution and event behind each trace remain outside the Garden. Only the carrier, pressure and moral wound below have been planted.
+
+### Late Chains — Petitions of the Cut-Loose Wards
+
+**Humble aperture:** tenants, servants and descendants present a damaged petition asking a Patron court to identify which wards it protected, which it abandoned and whose labor made the escape possible.
+
+**Durable trace:** contradictory ballast lists and roads ending at cleanly severed foundations. Later petitioners insist that no ruler may call abandonment necessary before naming the elite estates never considered expendable.
+
+**Historical pressure:** Giant bodily flight into the Egg White during the Great Unbinding and the later Hunt of the Escaped Courts.
+
+**Loose growth:** families were divided and people killed at closed gates, but the Giant owner, originating polity, route and surviving districts remain open. The petitions may expose one guilty court, preserve later tenant law, or have been copied by communities with no direct descent. Any escaped Giant retains `giant-continuity`; every human victim and descendant retains a complete `human-soul`.
+
+### Scattering — The Second-Hearth Clause
+
+**Humble aperture:** refugee households need a rule for admitting people whom the founder never knew. One ancient formula answers: *The first hearth remembers; the second hearth admits.*
+
+**Durable trace:** evacuation songs, household admission clauses, incompatible maps and a disputed anchor shard that applies obsolete domestic punishments.
+
+**Historical pressure:** Scattering-era refuge building, the transformation of household memory into civic law and a later restorationist reaction.
+
+**Loose growth:** the lost city came to recognize witnessed dwelling and shared obligation rather than the founder's affection. Restorationists later excluded an unremembered workers' district, withdrew maintenance, killed inhabitants and fractured the city. Founder, plan, copied relatives, evacuation routes and any surviving district remain open. It is neither [[Demiplane Atlas#Chalkhaven Recursion|Chalkhaven]] nor the [[Demiplane Atlas#Unfinished Shore|Unfinished Shore]], and neither is its secret continuation.
+
+### Long Frontier — The Borrowed-Standing Seal
+
+**Humble aperture:** interpreters and Material witnesses need to testify in a Patron compact without becoming the client, property or moral guarantor of any party.
+
+**Durable trace:** multilingual seal impressions and one register classifying the same kidnapped people as cargo in one language and citizens in another.
+
+**Historical pressure:** the Long Rent War, mixed Long-Frontier trade, ransom, slavery and otherworld law that restrains owners while allowing procedural cruelty.
+
+**Loose growth:** officials preserved a fraudulent cargo classification to prevent an anchor contributor withdrawing; captives, witnesses and bystanders died in the resulting dock violence, and later anchor withdrawal displaced whole districts. The port, owners, complete compact, access cities and present route remain open. Standing attaches only to the declared act and can never convey a human soul.
+
+### Fall and Reconquest — The Unreturned Ledger
+
+**Humble aperture:** displaced clerks record both **what was carried out** of the fallen empire and **who carried it**. Later creditor copies preserve the property column and erase the people.
+
+**Durable trace:** paired title entries, service claims, refugee-credit warnings and the disputed formula that no room returns before the people who kept it standing receive a hearing.
+
+**Historical pressure:** the Fall of Caleran, refugee shelter, restoration finance, occupation settlement and property claims during the Long Reconquest.
+
+**Loose growth:** shelter became debt, debt became inherited service, dependants became collateral and wounded people were abandoned outside a closing refuge while officers admitted title chests. The Patron treasury, owner, portable palace, clients and present creditors remain open. The ledger supplies evidence rather than judgement, and occupation-born families possess real claims.
+
+### Grey Sweat — The Three-Night Exception
+
+**Humble aperture:** an inheritance court must decide whether a person remained continuously alive while experiencing three nights in a refuge and returning years later.
+
+**Durable trace:** missing-person exceptions, sealed farewell gifts, contradictory age testimony and plague registers amended in several hands.
+
+**Historical pressure:** unequal plague refuge, broken parish records, remarriage, inheritance and time-displaced return during and after the Grey Sweat.
+
+**Loose growth:** the refuge saved bodies, but people were beaten or killed at its gate and admitted parents returned to find children aged or dead. Stewards concealed a temporal cost they partly understood. Palace, Anchor-Lord, locality, returnees, gift and time ratio remain open; the tradition neither causes nor explains the Grey Sweat or Quiet Ninth. Its Ryūgū and Urashima source grammar remains specifically attributed and promotion beyond this trace requires the dedicated Japanese source pass.
+
+### Present Day — The Nameless-Citizen Petition
+
+**Humble aperture:** a redacted petitioner asks whether defenders who erased their registered names under torture can regain civic protection without restoring the debts, commands and hostile routes attached to those names.
+
+**Durable trace:** erased veteran marks, a provisional restoration rubric, conflicting gatekeeper genealogies and testimony concerning current kidnappings.
+
+**Historical pressure:** 1360 AR Conclave recognition politics, name custody, old siege claims and institutions that treat vulnerable people as keys.
+
+**Loose growth:** gatekeepers were tortured, defenders erased biographies and family standing, children lost civic protection and creditors exploited unregistered households. The fortress, owner, castellan, archive, besiegers, jurisdiction and correct remedy remain open. A true name is a bounded handle rather than a soul, and every outcome remains governed by the Forward Rule.
+
+These traces are mutually independent. Their shared concern with ownership, refuge and procedure reflects recurring Egg White pressures rather than one lost empire, route league or Patron conspiracy.
+
 ## Promotion Test
 
 Before moving a seed into canon, answer:
@@ -327,6 +399,7 @@ Before moving a seed into canon, answer:
 - [[The Great Unbinding]]
 - [[Whole-History Planting Matrix - Blocks I and II]]
 - [[Great-Power Mythic Ecology and Planting Matrix]]
+- [[Patron Realm Garden Promotion Review]]
 - [[Folk Heroes and Legendary Adventurers]]
 - [[The Weird of History — The Unexplained Register]]
 - [[The Divergence Pass — Torque Register]]
