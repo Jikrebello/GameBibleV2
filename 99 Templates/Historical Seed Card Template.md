@@ -53,6 +53,19 @@ tags:
 - **Restoration:** exact causal correction, or `none`
 - **Historical layer:** authorial fact / disputed chronicle / received Life / cult legend / folklore accretion / propaganda
 
+### Great-Power Interface
+
+Complete this section when a seed centers a Menhir, Idol, Patron, saint, Sinner, angel, damned ruler, devil office, Abyssal wound, or other nonhuman conflict.
+
+- **Conflict ecology:** Seven Hungers / Menhir conjunction or High Hunt / War of the Last Map / Anchor and Rent War / Last-Door battle / other stated ecology
+- **Principal actors and continuities:**
+- **What each actor wants:**
+- **Why the conflict persists:**
+- **Human aperture:** how mortal witnesses, victims, agents, or institutions encounter the conflict without becoming its secret cause
+- **Commission limit:** for any loyal angel or manifested saint
+- **Material exit condition:** what ends or contains this episode without pretending to settle the whole ecology
+- **Misclassification risk:** likely in-world confusion among saint, angel, Menhir, Mask, Patron, office, residue, copy, or soul
+
 > **Required formula:** scriptural moral pattern + primary comparative grammar + culture-specific pressure + World Egg torque + contested residue
 
 ## Historical Residue
@@ -84,5 +97,9 @@ tags:
 - [ ] Changing those axes has not removed the source's load-bearing atrocity, culpability, bodily danger, taboo, or irreversible price.
 - [ ] Only the source element actually borrowed contributes hardness; unrelated atrocities from secondary citations have not been stacked into the seed.
 - [ ] Direct harms are named plainly without voyeuristic anatomical narration.
+- [ ] A Patron is treated as a role with separately stated continuity, not a species or alignment.
+- [ ] A loyal angel or manifested saint acts only within a bounded commission and does not acquire an autonomous geopolitical agenda.
+- [ ] A great-power conflict pressures history without becoming the secret cause of an entire age.
+- [ ] Hell's dominions, devil offices, damned souls, Depth fauna, and Abyssal wounds remain distinct rather than becoming a generic fiend nation.
 - [ ] The seed leaves a useful trace, or its genuine loss is intentional.
 - [ ] Present-day material creates a hook rather than predetermined future history.

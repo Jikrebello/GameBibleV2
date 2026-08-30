@@ -13,6 +13,7 @@ appears_in: []
 needs:
   - add comparative-tradition dossiers as their research passes are completed
   - select the lightest hardened roots for separate promotion review
+  - review the sixty-six great-power realm and sacred-warfare leads before expanding the twelve umbrella beds
   - audit every promoted seed against chronology, culture, theology, and source fidelity
 tags:
   - research
@@ -24,7 +25,7 @@ tags:
 
 ## Purpose
 
-This author-only workspace holds comparative research and provisional historical planting material. Its purpose is to give every age a reservoir of human-scale stories, sacred memories, folk heroes, companies, relics, contested chronicles, and unexplained traces without prematurely fixing complete biographies.
+This author-only workspace holds comparative research and provisional historical planting material. Its purpose is to give every age a reservoir of human-scale stories, sacred memories, folk heroes, companies, relics, contested chronicles, unexplained traces, and conflicts among created powers without prematurely fixing complete biographies or a secret cosmic master chronology.
 
 Nothing in this folder is canon merely because it is written here. Promotion requires a separate decision and an edit to the relevant Canon Reference note.
 
@@ -55,6 +56,8 @@ Changing those axes may never remove the borrowed element's causal atrocity, pri
 - [[Orthodox New Testament and Early Saints Lens]] — Orthodox New Testament ordering, source-status ladder for Lives, representative early saints, post-Redeemer story grammars, saint-memory classification, and Block-III interfaces.
 - [[Whole-History Planting Matrix - Blocks I and II]] — Creation through the Age of Stars, audited in four lanes.
 - [[Whole-History Planting Matrix - Blocks III and IV]] — Atherian glory through 1360 AR, audited in four lanes.
+- [[Great-Power Mythic Ecology and Planting Matrix]] — five recurring conflict ecologies and twelve chronological beds centered upon Idols, Menhir, Patrons, saints, Sinners, Hell, the Abyss, and the soul-road.
+- [[Comparative Realms, Courts, and Sacred Warfare Atlas]] — broad comparative atlas separating Idol heartlands, Menhir jurisdictions, Patron anchor-kingdoms, heavenly commissions, Shell littorals, infernal dominions, and Abyssal wound-fronts; includes sixty-six unmerged research leads.
 - [[Giant-Age Political Ecology and TES Integration]] — five imperial horizons, many-crown dynastic ecology, provisional secondary polities, the Nythalum lunar exception, and bounded TES identity grammar.
 - [[The Great Unbinding - Collapse, Remnant, and the Glass Ark]] — Noahic preservation, prophetic plagues, Giant civil wars, bounded heavenly intervention, the representative remnant, the Glass crossing, and the many fates of the abandoned Giant world.
 - [[Historical Seed Card Template]] — reusable full-field nursery card and validation checklist.
@@ -62,6 +65,10 @@ Changing those axes may never remove the borrowed element's causal atrocity, pri
 ## Programme State
 
 The first whole-history planting pass is built, structurally checked against reconciled canon, and source-hardened. It contains seventy-two developed seed cards, twelve Praise entries, four trace-level bridge leads, and seventeen synchronized Garden beds.
+
+A separate great-power companion pass now adds twelve `nursery-unreviewed` beds across the same four chronological blocks. These do not alter the seventy-two-card review totals, the seventeen-bed human-company budget, or any promotion status. They supply nonhuman history through the War of Broken Standards, Sevenfold Feast War, Hunt of the Escaped Courts, War of Unfinished Seasons, War of the Last Map, Crown-Market of Shadows, Siege of the Martyrs' Names, War of the Closed Doors, Long Rent War, War for the Common Saints, Ossuary Crown Dispute, and one Forward-Rule proof contest. Each carries its own source-fidelity ruling in [[Great-Power Mythic Ecology and Planting Matrix]].
+
+The follow-up [[Comparative Realms, Courts, and Sacred Warfare Atlas]] confirms that those twelve beds are umbrella conflicts rather than a sufficient population of otherworld history. It keeps requested source families separate and adds sixty-six `research-lead` entries: ten Idol conflicts, twelve Menhir court and jurisdiction leads, twelve Patron and Egg White realm leads, twelve saint and sacred-order leads, eight constructed Shell-polity leads, and twelve infernal or Abyssal leads. These entries are not yet dated, named, merged, promoted, or counted as historical seed cards. Their purpose is to widen the nursery before a second great-power planting pass.
 
 The Giant descent ruling, Five Imperial Horizons, and Great Unbinding backbone have now been promoted into controlling canon through [[Giant Descent and Creaturely Continuity]] and [[The Great Unbinding]]. Their names, actor identities, exact plague sequence, and disputed recensions remain deliberately open where those notes say so.
 

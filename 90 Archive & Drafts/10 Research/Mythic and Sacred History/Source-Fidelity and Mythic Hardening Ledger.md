@@ -20,7 +20,7 @@ tags:
 ---
 # Source-Fidelity and Mythic Hardening Ledger
 
-This is the controlling parity audit for the whole-history nursery. It does not canonize a card, name a participant, promote a succession, or override a card's `retain`, `revise`, or `defer` disposition.
+This is the controlling parity audit for the original whole-history human nursery. It does not canonize a card, name a participant, promote a succession, or override a card's `retain`, `revise`, or `defer` disposition. The twelve subsequently planted nonhuman and great-power beds receive their single rulings in [[Great-Power Mythic Ecology and Planting Matrix#Source-Fidelity Rulings]] rather than being duplicated here.
 
 ## Ruling
 
@@ -183,6 +183,7 @@ Each Garden bed inherits the full ruling of its controlling matrix card. This ta
 3. A victim remains a person with relations, choices, memory and consequences rather than evidence decorating another person's arc.
 4. A hero's supernatural distortion, coercion, repentance or later sanctity never makes the hero's own act unreal.
 5. Cultural attribution prevents fabrication; it does not make a sourced tradition gentler than it is.
+6. Great-power conflict does not excuse the choices of human or Giant perpetrators, turn natural catastrophe into deserved judgement, or manufacture an autonomous heavenly agenda.
 6. Severity restoration does not explain a Weird, promote a seed, change continuity, create a new apostle, or determine post-1360 history.
 
 ## Navigation
@@ -193,3 +194,4 @@ Each Garden bed inherits the full ruling of its controlling matrix card. This ta
 - [[Orthodox Old Testament Lens]]
 - [[Orthodox New Testament and Early Saints Lens]]
 - [[The Historical Seed Garden]]
+- [[Great-Power Mythic Ecology and Planting Matrix]]

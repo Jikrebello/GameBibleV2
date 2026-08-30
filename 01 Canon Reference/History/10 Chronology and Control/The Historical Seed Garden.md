@@ -37,6 +37,7 @@ The current whole-history pass is held in the author-only [[Mythic and Sacred Hi
 - [[Giant-Age Political Ecology and TES Integration]];
 - [[Whole-History Planting Matrix - Blocks I and II]];
 - [[Whole-History Planting Matrix - Blocks III and IV]];
+- [[Great-Power Mythic Ecology and Planting Matrix]];
 - [[Historical Seed Card Template]].
 
 Those notes audit every age through human, folkloric, institutional, and metaphysical lanes. The Giant descent rules, Five Imperial Horizons, and Great Unbinding backbone are now controlling canon. All seventy-two developed cards have received nursery dispositions and source-fidelity rulings; the four bridge leads, twelve Praise entries, and seventeen beds below are included in the same hardening audit. Every story seed remains exploratory until separately promoted, and linking it here does not promote its names, memberships, miracles, dates, provisional polities, actor identities, or proposed Idol successions.
@@ -273,6 +274,36 @@ These can be planted around any company without fixing its whole plot.
 - **The reusable relic:** an object associated with the company has a mundane original purpose and only later becomes politically or spiritually charged.
 - **The company name that came later:** companions rarely call themselves what history calls them.
 
+## Great-Power Mythic Beds
+
+These twelve beds sit beside the seventeen human-company beds rather than replacing or enlarging their signature-company budget. They ask what Idols, Menhir, Patrons, Sinners, damned rulers, devil offices, Abyssal wounds, angels, and manifested saints were doing beyond the human foreground. Their complete interfaces and source-fidelity rulings are held in [[Great-Power Mythic Ecology and Planting Matrix]]. All remain `nursery-unreviewed`.
+
+### First War and Giant Antiquity
+
+- **The War of Broken Standards:** abandoned First-War allegiances continue fighting through empty banners, Commission Husks, Unhoused Witnesses, Idol Masks, and Menhir courts. Its durable trace is battlefield matter that still recruits explorers into armies whose commanders no longer exist.
+- **The Sevenfold Feast War:** the seven Idol Hungers repeatedly raid and reclassify the Giant world's sacrifice, kingship, appetite, marriage, grievance, wealth, and abandoned duty. Its durable trace is a cult complex whose seven underlayers answer different vices without establishing a Regnant succession.
+- **The Hunt of the Escaped Courts:** genuine Giant Continuants, copied ancestors, abandoned dependants, High Hunt beings, Idol proxies, and emerging Patrons pursue one another through the Egg White after the Unbinding. Its durable traces are wandering palace caravans, carcass thrones, false ancestors, and foreclosed refuge routes; Nythalum remains physically lunar.
+
+### Scattering through Stars
+
+- **The War of Unfinished Seasons:** Menhir pressures collide while closing the Giant world's artificial recurrence systems. Its durable trace is regional weather and funerary law that later cultures mistake for a moral war between good and evil seasons.
+- **The War of the Last Map:** damned dominions and devil-office systems fight to keep Hell mappable while using Abyssal wounds to erase rivals. This is the setting's nearest Blood-War-scale ecology, but neither side is good, the Abyss has no demon nation, and soul-road forces intervene only against unlawful interception.
+- **The Crown-Market of Shadows:** Idol Masks and Patron claimants trade victory, pedigree, treasury, vengeance, beauty, fertility, and erasure around mortal coronations. Its durable traces are incompatible crown signatures and royal offices still bidding for bodies they cannot lawfully possess.
+
+### Redeemer through Long Frontier
+
+- **The Siege of the Martyrs' Names:** Sinner networks, damned counterfeits, Idol Masks, Patrons, relic brokers, angels of witness, and occasionally genuine manifested saints contest graves, feast rolls, icons, and public memory. The saint remains one redeemed soul and needs no perfect invented Passion.
+- **The War of the Closed Doors:** temple closure simultaneously exposes fraud, interrupts Idol feeding, violates some real Menhir pacts, displaces workers, releases offices, and creates an anchor market. Its durable traces are mixed sanctuaries whose doors enforce obligations neither later side remembers honestly.
+- **The Long Rent War:** Patrons fight across the frontier's Egg White correspondences through route denial, debt assumption, proxy seizure, memory rent, and refuge foreclosure. Its durable traces are doors with rival owners, displaced Driftkin communities, and debts whose supposed creditor is a copied Giant ancestor.
+
+### Split through Present
+
+- **The War for the Common Saints:** hostile powers try to make saints shared by both churches prove exclusive ownership. Its durable traces are genuine corrections preserved in hostile icon traditions, multiple real saints later conflated under one name, and Patron contracts hidden beneath devotional titles.
+- **The Ossuary Crown Dispute:** an Egg White intelligence formed from plague wreckage is mistaken for the collective survival or resurrection of the dead. Its durable traces are a salvage crown speaking in copied voices and custody disputes requiring separation of remains, residue, bound souls, and the new person's own rights.
+- **The Proof That Attracted Three Heavens:** one existing Held Proof draws an Idol claimant, a Patron claimant, and a Sinner or devil-office claimant, each holding one truth and one ownership lie. This is a Forward-Rule starting pressure only; “three heavens” is frightened folklore, not cosmology.
+
+These beds produce ancient grudges and present encounters without making every storm, apparition, war, plague, or political change the visible edge of one hidden cosmic conspiracy.
+
 ## Promotion Test
 
 Before moving a seed into canon, answer:
@@ -284,7 +315,9 @@ Before moving a seed into canon, answer:
 5. Does it leave at least one useful trace even if no future story explains the whole legend?
 6. Do later cultures disagree for intelligible reasons rather than arbitrary mystery?
 7. Is at least one outcome neither triumph nor tragedy, but ordinary human continuation?
-8. If every supernatural claim is false, does the human story still work? If the claims are true, do they remain consistent with the Lord's unique uncreated divinity?
+8. For a human seed, does the story still work if every reported supernatural claim is false? For a great-power seed, does the human aperture remain usable if witnesses misclassify the authorial supernatural event? In either case, does the truth remain consistent with the Lord's unique uncreated divinity?
+9. If the seed concerns great powers, does every actor retain its proper continuity, motive, and limit rather than collapsing into a generic god, demon, angel, or Patron?
+10. Does a heavenly intervention remain a bounded commission rather than an autonomous saintly or angelic agenda?
 
 ## Navigation
 
@@ -293,6 +326,7 @@ Before moving a seed into canon, answer:
 - [[Giant Descent and Creaturely Continuity]]
 - [[The Great Unbinding]]
 - [[Whole-History Planting Matrix - Blocks I and II]]
+- [[Great-Power Mythic Ecology and Planting Matrix]]
 - [[Folk Heroes and Legendary Adventurers]]
 - [[The Weird of History — The Unexplained Register]]
 - [[The Divergence Pass — Torque Register]]

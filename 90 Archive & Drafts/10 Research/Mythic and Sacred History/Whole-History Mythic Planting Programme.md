@@ -13,6 +13,7 @@ appears_in: []
 needs:
   - select the lightest retained roots for a separate promotion pass
   - enrich retained seeds through specifically attributed cultural dossiers
+  - review the twelve great-power companion beds independently of the human-company budget
   - keep both Pride-succession bundles deferred unless materially stronger evidence is designed
 tags:
   - mythic-history
@@ -33,6 +34,7 @@ This is the control note for the first author-only planting pass from Creation t
 - [[Names of the Menhir, Masks of the Idols]] — Menhir continuity and cultural refraction versus Idol identity accretion.
 - [[Historical Seed Card Template]] — the complete seed interface and validation checklist.
 - [[Source-Fidelity and Mythic Hardening Ledger]] — the complete parity audit for every developed card, light lead, Praise entry, and existing Garden bed.
+- [[Great-Power Mythic Ecology and Planting Matrix]] — the companion fifth-lane audit for nonhuman conflict, schemes, commissions, and cross-realm wars.
 - [[The Historical Seed Garden]] — the nursery into which reviewed material may be promoted.
 
 The transformation formula is:
@@ -65,6 +67,8 @@ The Giant descent ruling, Five-Horizon many-state model, and Great Unbinding cau
 The Scattering, Long Frontier, and High Noon–Qarath band receive the heaviest new human-scale planting. The Redeemer generation, Reconquest, Split, Grey Sweat, and present are deepened sideways rather than given replacement headline figures.
 
 The integrated source-fidelity pass is complete. [[Source-Fidelity and Mythic Hardening Ledger]] assigns one ruling to each of the seventy-two developed cards, four Late-Chains–Exodus bridge leads, twelve Praise entries, and seventeen existing Garden beds. It records the exact received source, borrowed element, original hard edge, pre-correction state, applied restoration, and historical layer. The two matrices and Garden now carry the restored causes and consequences themselves; the ledger is an audit trail, not a substitute for putting the hard edge in the story. No review disposition or promotion status changed.
+
+The human four-lane matrix now has a separate fifth-lane companion rather than being reopened. [[Great-Power Mythic Ecology and Planting Matrix]] plants twelve `nursery-unreviewed` beds—three per chronological block—around five recurring ecologies: the Great Game of the Seven Hungers, Menhir conjunctions and High Hunts, the War of the Last Map, Anchor and Rent Wars, and episodic Last-Door battles. This companion layer does not add headline human companies, true Idol successions, autonomous heavenly factions, or a hidden cause behind the chronology.
 
 ## Four-Lane Audit Rule
 
@@ -146,6 +150,7 @@ Indigenous, African, Hindu, and Sámi material requires named-community or named
 - **Nursery discipline:** all seventeen existing Garden beds are deepened before duplication; the Company of the Ransomed Standard is the pass's only completely new signature company.
 - **Transformation fields:** every developed card records a scriptural lens, comparative grammar, World Egg torque, continuity classification, present residue, open material, source restriction, and review state through either the full or compact interface.
 - **Source fidelity:** all seventy-two developed cards, four bridge leads, twelve Praise entries, and seventeen Garden beds have exactly one ledger ruling; load-bearing hard edges appear in the historical seed rather than surviving only as warning notes.
+- **Great-power companion:** twelve additional beds have one source-fidelity ruling each in their controlling matrix; none changes a human-card disposition, succession count, Weird, or post-1360 outcome.
 - **Trace density:** seventy-one of seventy-two cards have an explicit 1360 AR trace; B4-14 intentionally has none yet under the Forward Rule. The Praise roll additionally preserves people whose identities are genuinely lost despite surviving customs.
 - **Succession control:** four blocks expose four candidate slots; no succession is promoted, and noncandidate throne conflicts are fixed as Archmask or Mask events.
 - **Protected boundaries:** no card explains a registered Weird, creates a second Prophet or central apostle, makes a company cause an age, or turns a human soul into a Mask, office, Patron persona, or Idol.
