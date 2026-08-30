@@ -42,9 +42,12 @@ The current whole-history pass is held in the author-only [[Mythic and Sacred Hi
 - [[Patron Realm Historical Placement Pass]];
 - [[Patron Realm Garden Promotion Review]];
 - [[Human Coherence and Discoverability Pass]];
+- [[Great Saints and Sinners - Chronological Placement Review]];
+- [[Great Saints and Sinners - First Trace Promotion Review]];
+- [[Great Saints and Sinners - Primarch Source-Fidelity Hardening Review]];
 - [[Historical Seed Card Template]].
 
-Those notes audit every age through human, folkloric, institutional, and metaphysical lanes. The Giant descent rules, Five Imperial Horizons, and Great Unbinding backbone are now controlling canon. All seventy-two developed cards have received nursery dispositions and source-fidelity rulings; the four bridge leads, twelve Praise entries, and seventeen beds below are included in the same hardening audit. Every story seed remains exploratory until separately promoted, and linking it here does not promote its names, memberships, miracles, dates, provisional polities, actor identities, or proposed Idol successions.
+Those notes audit every age through human, folkloric, institutional, and metaphysical lanes. The Giant descent rules, Five Imperial Horizons, and Great Unbinding backbone are now controlling canon. All seventy-two developed cards have received nursery dispositions and source-fidelity rulings; the four bridge leads, twelve Praise entries, and seventeen beds below are included in the same hardening audit. The fourteen Great-Person traces and their sixteen controlling placements have a separate Primarch source-fidelity audit: nine visible wounds restored, five visible wounds retained intact, and both erased-person mysteries retained intact. Every story seed remains exploratory until separately promoted, and linking it here does not promote its names, memberships, miracles, dates, provisional polities, actor identities, or proposed Idol successions.
 
 Promotion should begin with light traces—sayings, customs, roads, graves, relics, and disputed texts—before fixing heroes, institutions, companies, or sovereign convulsions. The seventeen beds below remain the nursery's stable framework; approved cards should deepen them before creating duplicate signature companies.
 
@@ -375,6 +378,182 @@ The provisional realm, owner, ruler, route, population, institution and event be
 **Loose growth:** gatekeepers were tortured, defenders erased biographies and family standing, children lost civic protection and creditors exploited unregistered households. The fortress, owner, castellan, archive, besiegers, jurisdiction and correct remedy remain open. A true name is a bounded handle rather than a soul, and every outcome remains governed by the Forward Rule.
 
 These traces are mutually independent. Their shared concern with ownership, refuge and procedure reflects recurring Egg White pressures rather than one lost empire, route league or Patron conspiracy.
+
+## First Great-Person Trace Planting
+
+These fourteen light roots are promoted from the reviewed Great Saints and Sinners placements. Their selection and withheld layers are controlled by [[Great Saints and Sinners - First Trace Promotion Review]], while the severity beneath them is controlled by [[Great Saints and Sinners - Primarch Source-Fidelity Hardening Review]]. They form one **great-person trace layer**, not fourteen new signature-company beds, a complete roster of history's great people, a sacred college, a divine family or two camps in one universal war.
+
+The provisional people, names, exact localities, complete lives, soul-states, manifestations, offices, rivalries, campaigns and institutional heirs remain outside the Garden. A trace may support belief in a Saint or Sinner without authenticating either.
+
+### Underground — The Red Door Names
+
+**Humble aperture:** prison staff, former captives and victims' households need a way to remember people abandoned during one transfer crisis alongside those later rescued.
+
+**Durable trace:** an unhinged red-painted prison door and an annual reading containing both groups of names.
+
+**Historical pressure:** Underground imprisonment, transfer killings, an escape network murdering captives and wrongly accused prisoners, suppression of their names, burial-name recovery and later attempts to turn a compromised martyr memory into spotless propaganda.
+
+**Loose growth:** the door may come from the original prison, a later commemoration or another site that adopted the custom. The reading remains useful because it refuses to let later courage delete earlier abandonment.
+
+**Identity and promotion boundary:** no Companion, martyr, apparition, cult succession or relic authenticity is established; this is neither the Three-Lock Prison Road nor a ferry tradition.
+
+### Conversion — The Hospital Fragment of the Second Gospel
+
+**Humble aperture:** a charitable ward copies a short instruction on feeding and washing displaced patients without knowing that another recension associates the text with a condemned counter-church.
+
+**Durable trace:** several incompatible Second Gospels and one hospital fragment whose practical instruction remains sound.
+
+**Historical pressure:** temple closure, displaced workers, rival preaching, a counter-church founded through captive sacrifice, child possession trials and murder, textual reuse, and the difficulty of separating a useful sentence from a guilty institutional history.
+
+**Loose growth:** the hospital may have copied an early innocent sermon, a censored hostile text or a later forgery. Present users do not become guilty merely by unknowingly preserving it.
+
+**Identity and promotion boundary:** no preacher, original Gospel, responsive power, heresiarch office or damnation is fixed; the fragment is not lost canonical Scripture or part of Aquilan's Epistles.
+
+### Long Frontier — The Empty Place at the Route Hearing
+
+**Humble aperture:** guides reviewing a disputed accusation need a visible reminder that their claimed founder once condemned an innocent scout.
+
+**Durable trace:** one place remains empty at formal route hearings, and testimony for the absent is read before secret evidence.
+
+**Historical pressure:** mixed forest jurisdictions, infiltrator fear, coerced scouts, a commander personally murdering the innocent scout who demanded an open hearing, falsified execution records and later route institutions seeking restraint.
+
+**Loose growth:** the custom postdates the alleged founder and may have been created by the victim's household. It can restrain secret judgement even if every genealogical claim is false.
+
+**Identity and promotion boundary:** no Hunter, Saint, guide lineage, Long Watch descent, Menhir pact or permanent route authority is promoted.
+
+### Long Frontier — The Sealed Ninth Chambers
+
+**Humble aperture:** repair crews discover rooms omitted from the public plans of otherwise unrelated fortresses and must decide whether opening them exposes a crime or completes a dangerous design.
+
+**Durable trace:** sealed ninth chambers, contradictory engineering annotations and cult marks asking that the rooms be “made complete.”
+
+**Historical pressure:** lethal frontier construction, prisoner labour, workers decimated by lot for a commander's humiliation, concealed casualty architecture and later infernal reuse of human atrocity.
+
+**Loose growth:** any chamber may hide ordinary executions, copied superstition, military fraud, a later cult installation or genuine route geometry. One answer need not govern every fortress.
+
+**Identity and promotion boundary:** no Mason, original bastion, linked fortress network, infrastructure office or map of Hell is established.
+
+### Long Frontier — The Broken Gauntlets and Restitution Charter
+
+**Humble aperture:** injured workers and rival craft cities dispute whether celebrated gauntlets matter more than the payments and tools recorded for those a workshop harmed.
+
+**Durable trace:** incompatible broken-gauntlet relics, an independently transmitted restitution charter and surviving adaptive tools.
+
+**Historical pressure:** bond labour, a lethal test the founder knowingly refuses to stop, expulsion of maimed witnesses, public repentance and institutional resistance to reform.
+
+**Loose growth:** every displayed gauntlet may be false while the charter remains genuine. Later schools disagree over whether breaking strength-symbols fulfilled or betrayed the founder's teaching.
+
+**Identity and promotion boundary:** no Smith, Saint, manifestation, strength-order, Iron Martyr inheritance or connection to Saintmaker's Forge is promoted.
+
+### Long Frontier — The Broken Chain and Missing Link
+
+**Humble aperture:** emancipated households adopt an open chain as a sign that liberation is unfinished, while hostile collectors insist the chain must someday be closed.
+
+**Durable trace:** open-link abolition tokens and stories of a missing joining link sought by recurrence cults.
+
+**Historical pressure:** slavery, bodily coercion, revolt, later retaliatory atrocity and infernal systems that turn custody into renewed violence.
+
+**Loose growth:** the joining link may be an ordinary lost tool, cult forgery, legal seal or dangerous office instrument. Its alleged importance does not taint the emancipation symbol.
+
+**Identity and promotion boundary:** no Chain-Bearer, pain engine, recurrence body, Wrath Mask or fragment of a human soul is established.
+
+### Long Frontier — The Clerk's Ending
+
+**Humble aperture:** communities saved by emergency rationing need a rule for asking when successful coercive powers must end.
+
+**Durable trace:** courts call the expiry-and-rehearing clause in an emergency order **the Clerk's ending**.
+
+**Historical pressure:** drought, siege, elite well seizure, armed confiscation, impressed labourers and household defenders killed during enforcement, execution under emergency procedure and dependency surviving into peace.
+
+**Loose growth:** several legal schools claim the phrase. It may derive from one clerk, a victim petition, later reformers or the merging of unrelated expiry clauses.
+
+**Identity and promotion boundary:** no Hundred-Wells district, Saint, seal response or universal Covenant law is fixed; the Four Who Brought Water did not found the phrase.
+
+### Long Frontier — The Bitter Cordial
+
+**Humble aperture:** frontier clinics need a cheap preparation for limited poison exposure, while authorities and cults seek to make access conditional upon obedience.
+
+**Durable trace:** a bitter cordial that is medically useful in bounded doses and dangerous when administered as a compulsory dependency rite.
+
+**Historical pressure:** toxic labour, quarantine, unequal medicine, forced exposure and protection converted into permanent control.
+
+**Loose growth:** recipes differ and ordinary physicians can use the medicine ethically. Therapeutic success does not vindicate coercion; cult abuse does not make every dose corrupt.
+
+**Identity and promotion boundary:** no Reaper, estate, outbreak, compact, Sinner clinic or Grey-Sweat cause is promoted, and illness carries no moral guilt.
+
+### Long Frontier — The Unopened Warnings
+
+**Humble aperture:** archivists inherit sealed messages that may describe a danger accurately while also completing the route by which it arrives.
+
+**Durable trace:** several unopened warnings, maintenance notes recording heat and seal distortion, and procedures for testing their containers without reading them.
+
+**Historical pressure:** frontier breach scholarship, authorities who believe a warning but prohibit its mechanism, a concealed preliminary injury, coerced student receivers and the lethal cost of a demonstration conducted after consent is withdrawn.
+
+**Loose growth:** a warning may be hostile machinery, dangerous instruction, elaborate fraud or an accurate document delivered through the wrong medium. No one archive possesses a universal solution.
+
+**Identity and promotion boundary:** no Reader, warning office, memory copy, Fifth Translation descent or Open Cinder ownership is established.
+
+### Long Frontier — The Duty-Marked Refuge Tools
+
+**Humble aperture:** refugee workshops mark tools by the duties they owe—opening a hospice, sounding evacuation, dismantling a weapon or proving workmanship—rather than by owner prestige.
+
+**Durable trace:** scattered duty-marked tools organised into incompatible local sets with no authoritative number.
+
+**Historical pressure:** mobile refuge craft, a maker personally authorising the second discharge of a civilian-killing weapon, military concealment, workshop confiscation, restitution and dangerous objects redirected toward survival.
+
+**Loose growth:** some tools may respond unusually when their marked duty is attempted; others are ordinary objects honoured for practical service. Collectors repeatedly mistake obligation for a return mechanism.
+
+**Identity and promotion boundary:** no Smith, heat weapon, authentic relic set, White-Flame source or Saintly summons is promoted. Collecting the tools grants no authority.
+
+### Fall and Reconquest — The Portraits Beneath the Victors
+
+**Humble aperture:** restorers cleaning triumphal portraits discover people and injuries removed from the generation's official appearance.
+
+**Durable trace:** buried wounds, mixed marriages, displaced households and one repeated medium-and-contract signature beneath several repainted faces.
+
+**Historical pressure:** refugee ascent, reconquest propaganda, sexual abuse of office, a victorious commander personally murdering the beloved critic, execution of surrendered rivals, aesthetic cleansing and families edited out of victory.
+
+**Loose growth:** the repeated signature can prove coordinated revision without showing that every portrait belonged to one court or supernatural programme. Restored people retain separate histories and claims.
+
+**Identity and promotion boundary:** no General, Glass Court, perfected body, Patron, Pride succession or membership in the Six at the Cinder Inn is established.
+
+### Fall and Reconquest — The Repaired Measuring Cord
+
+**Humble aperture:** refugee builders preserve an ordinary measuring cord while courts and shrines compete over more prestigious hand-relics attributed to a vanished defender.
+
+**Durable trace:** the child-repaired cord, incompatible hand claims and evacuation measurements built into several provincial forts.
+
+**Historical pressure:** siege maintenance, civilians sealed outside a redoubt, punitive warfare, confession and later reforms that place evacuation before symbolic defence.
+
+**Loose growth:** the cord may be genuine, commemorative or attached to the wrong defender. Its repair history remains more useful than claims that possession of a body part conveys command.
+
+**Identity and promotion boundary:** no Warden, fort, bodily remains, manifestation, Caedros identity or Returning Standard inheritance is promoted.
+
+### Split Aftermath — The Future Fact
+
+**Humble aperture:** courts facing persuasive forecasts need a rule preventing fear of possible crimes from becoming punishment for acts not committed.
+
+**Durable trace:** the prohibition against conviction for **the future fact** and an illicit market in Black-Eaves forecasts.
+
+**Historical pressure:** post-Split jurisdictional rivalry, genuine or alleged foresight, preventive torture, collective punishment and self-fulfilling terror.
+
+**Loose growth:** forecasts may combine supernatural vision, intelligence work, probability and fraud. The legal prohibition remains sound even when a prediction later proves accurate.
+
+**Identity and promotion boundary:** no Judge, crown, execution office, fear Mask, assassination or explanation of the Great Split is promoted.
+
+### High Noon — The Feast and the Reading
+
+**Humble aperture:** descendants want to celebrate liberation without letting victory erase prisoners and altered survivors harmed by the liberators.
+
+**Durable trace:** a public liberation feast followed the next day by an unofficial reading of experimental victims omitted from the heroic account.
+
+**Historical pressure:** slave revolt, threatened reconquest, non-consensual breach experiments, concealment, confession and contested repentance.
+
+**Loose growth:** authorities alternately suppress, tolerate or absorb the second observance. Families can honour liberation, refuse veneration of its commander and preserve victims without accepting one official moral settlement.
+
+**Identity and promotion boundary:** no Ashen-Wings Saint, experimental route, manifestation, Ansgar identity or universal breachward order is promoted.
+
+These fourteen traces are mutually independent. Repeated concern with founders, institutions and correction reflects the review's thematic purpose rather than a lost college, shared campaign or secret lineage. None authenticates the provisional active histories from which it was harvested.
 
 ## Promotion Test
 
