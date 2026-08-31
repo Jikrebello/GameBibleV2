@@ -13,13 +13,17 @@ tags: []
 ---
 # The Rise of the Atherian Empire Overview
 
-Atheria began among old hill cities, river settlements, ports, and sacred leagues in the region now forming Thalmyria's core. It did not invent civilization. It joined older civilizations through law, road, conquest, citizenship, archive, and a state cult broad enough to absorb local gods into the Star Pantheon.
+Atheria became a city civilization among old hill cities, river settlements, ports, and sacred leagues in the region now forming Thalmyria's core, after a much earlier history of southern war-settlement and maritime recovery. It did not invent civilization. It joined older civilizations through law, road, conquest, citizenship, archive, and a state cult broad enough to absorb local gods into the Star Pantheon.
 
 ## Before the Empire
+
+The Atherian story begins before its cities. Southern war-settlement leagues separated from the post-Glass people, seized and repaired inhabited sites, and mixed through conquest, slavery, alliance, adoption, marriage and local defeat. Later sea-kings, fortified ports, mercenary leagues and founder houses connected several recovery horizons without becoming one migration people or one state.
 
 The earliest Atherian cities occupied defensible hills and river crossings around the future Caleran basin. Their builders reused pre-Atherian walls and waterworks, creating the first of the archaeological overlaps still visible in modern Thalmyria. Competition for grain, copper, coastal access, and pilgrimage traffic produced leagues that could cooperate against raiders and then turn on one another when danger passed.
 
 The **Celestial Compact** joined twelve leading cities under a common star calendar, arbitration law, and military levy. Caleran became the league's archive and meeting place because its river, harbor, and roads made it difficult to bypass.
+
+“Atherian” consequently changes basis across history: war-settlement enrollment, heroic-maritime allegiance, shared city civilization, and finally republican or imperial citizenship. These are cumulative inheritances, not one biologically unchanged people. Adoption, manumission, military grant, civic admission and provincial incorporation can all make Atherians.
 
 ## Republic and Expansion
 

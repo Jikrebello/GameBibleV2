@@ -16,12 +16,13 @@ tags: []
 ## Orphaned Reassembly and First Hearths
 
 - **c. 2300-1900 BR:** subject villages, fugitives, local revolt communities and survivors of collapsing Giant client states enter, remain within or reconnect across the southern forests, coasts and mountain corridors. They do not descend principally from the Glass Ark.
+- **c. 2050-1900 BR:** separate proto-Atherian war-settlements reach occupied southern gates, river corridors and coasts. Their relations with different Folk communities include massacre, slavery, hostage exchange, land seizure, alliance, trade, intermarriage, and the destruction or absorption of forts.
 - **c. 1900-1400 BR:** hearth-law, winter stores, first ringworks, grove boundaries, and formal Grobi watches appear.
 - **c. 1400-800 BR:** river leagues, hillfort confederacies, coastal kindreds, and old-rite Enaidfae networks become regional powers.
 
 ## Atherian Centuries
 
-- **c. 800-350 BR:** Atherian city-states trade, recruit, and campaign in the northern Folk lands.
+- **c. 800-350 BR:** Atherian city-states renew and greatly enlarge older contact through trade, recruitment, colonization and campaigns in the northern Folk lands.
 - **c. 350 BR onward:** imperial roads and forts penetrate the marches. Some clans become federates and auxiliaries; some strongholds fall; others retain treaty autonomy.
 - **0-540 AR:** converted and Atherianized Folk enter imperial institutions while old-rite territories remain beyond consistent rule. Decadence brings renewed raids, secessions, and abandoned frontier works.
 

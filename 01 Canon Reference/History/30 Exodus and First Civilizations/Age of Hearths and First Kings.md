@@ -20,7 +20,7 @@ tags: []
 ---
 # Age of Hearths and First Kings
 
-The Age of Hearths and First Kings is when scattered peoples begin building durable local worlds: villages, walls, fields, shrines, clan houses, winter stores, river towns, and hill forts.
+The Age of Hearths and First Kings is when scattered peoples begin building durable local worlds: villages, walls, fields, shrines, clan houses, winter stores, river towns, and hill forts. The northern Ark fission completes during this age rather than before it: proto-Jirahar and proto-Ahl-e-Ahd institutions become distinguishable only as different roads, wells and protector systems endure across generations.
 
 ## Social Forms
 
@@ -50,9 +50,9 @@ The Prophet's memory remains powerful, but it is no longer uniform. Local people
 
 This age produces the first recognizable ancestors of later institutions:
 
-- Atherian civic law begins as hill-fort judgement and river toll procedure.
-- Jirahar tower towns begin as fortified memory shelters and caravan courts.
-- Ahl-e-Ahd contract thought begins as water, guest, blood-price, and oath enforcement.
+- Proto-Atherian war-settlements become hill forts, ports and regional leagues; their campaign law develops toward civic judgement and river toll procedure.
+- Jirahar tower towns begin as fortified memory shelters and caravan courts after one branch of the Near-Glass continuum privileges portable adjudication and translocal registers.
+- Proto-Ahl-e-Ahd contract thought begins when defended wells, protector houses and territorial oath coalitions make water, guest, blood-price, rescue and oath enforcement locally durable.
 - Folk clan worlds bind land, ancestry, Menhir pressure, and winter obligation.
 - Sestaran harbor towns begin keeping public ledgers, route archives, and art-patronage registers.
 

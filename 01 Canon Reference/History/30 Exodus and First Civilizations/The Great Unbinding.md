@@ -40,7 +40,7 @@ The sequence below is authorial fact. Its phases overlap, and later traditions m
 7. **The breakout and pursuit:** several refugee columns and defecting communities converge toward the Great Glass Desert. Commissioned heavenly servants break the supernatural cohesion of the final pursuit without completing humanity's political work for it.
 8. **Entry into the Glass:** the ordered camp carries people, animals, seed, tools, records, law, and living crafts through a bounded survivable passage and enters the long refuge by approximately c. 2265 BR.
 9. **The orphaned world:** Giant regions fragment into many successor outcomes while the protected host remains within the Glass. Orphaned human communities begin independent reassemblies outside it.
-10. **The later threshold:** after approximately a century of refuge and people-formation, the host is commanded south. The three-generation sanctuary is not successfully established; the Prophet dies near the outward threshold around c. 2165 BR; Ark Scattering begins by c. 2160 BR.
+10. **The later threshold:** after approximately a century of refuge and people-formation, the host is commanded south. The three-generation sanctuary is not successfully established; the Prophet dies near the outward threshold around c. 2165 BR; bounded camp offices continue without inheriting his commission; the gradual first Ark fission develops in the following generations.
 
 ## Agency and Responsibility
 
@@ -94,7 +94,7 @@ No manifested saint exists before the Redeemer's work. Any white or cleansing fi
 
 ## The Human Remnant
 
-The Exodus carries the largest deliberate gathering of liberated human communities. During [[The Glass Sojourn]] that mixed host forms one people, which later divides into the proto-Jirahar, proto-Ahl-e-Ahd and proto-Atherians. It does not contain every human survivor of the Giant Age.
+The Exodus carries the largest deliberate gathering of liberated human communities. During [[The Glass Sojourn]] that mixed host forms one people. After the Prophet's death, southern war-settlement leagues separate gradually from a continuing Near-Glass camp continuum; only generations later does that northern continuum divide into proto-Jirahar and proto-Ahl-e-Ahd formations. It does not contain every human survivor of the Giant Age.
 
 The remnant is mixed, morally fallible, and gathered through response to the call and the practical joining of households rather than biological purity. It may include enslaved and free people from many horizons, defecting soldiers and officials, former collaborators who turn, and giant-blooded humans who possess complete human souls and the Image.
 

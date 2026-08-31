@@ -18,7 +18,7 @@ tags: []
 ---
 # Proto-Jirahar Tower Towns
 
-The proto-Jirahar tower towns emerge from communities that refuse to let the Exodus become merely a heroic origin myth. They preserve route, law, genealogy, lament, and prophecy as living obligations.
+The proto-Jirahar tower towns emerge after the northern fission, from one branch of the continuing Near-Glass camp continuum. These communities answer water scarcity, distance, raiding and dispersed settlement with portable courts, translocal registers and protected route shelters, refusing to let the Exodus become merely a heroic origin myth. They preserve route, law, genealogy, lament, and prophecy as living obligations.
 
 ## Why Towers
 
@@ -34,11 +34,11 @@ The visible structure is only the crown of the settlement. Cisterns, dwellings, 
 
 ## Social Pattern
 
-Proto-Jirahar life combines movement and rooted memory. Families travel by caravan, but the tower towns anchor law, archives, marriage records, food storage, ritual calendars, and judges.
+Proto-Jirahar life combines movement and rooted memory. Families travel by caravan, but the tower towns anchor law, archives, marriage records, food storage, ritual calendars, and judges. This is one later answer to the shared northern inheritance; the earliest tower builders are not a fully formed Jirahar nation carried intact out of the Glass.
 
 ## Claim to the Prophet
 
-The Jirahar preserve the strongest claim to the Great Prophet's original teaching. That does not mean every Jirahar person is holy or every later institution is pure. It means their culture is built around the conviction that forgetfulness is a form of betrayal.
+The Jirahar preserve the strongest claim to the Great Prophet's original teaching. That does not mean every Jirahar person is holy, every later institution is pure, or the Jirahar alone inherit the People of the Camp. It means their culture is built around the conviction that forgetfulness is a form of betrayal.
 
 ## Future Consequence
 

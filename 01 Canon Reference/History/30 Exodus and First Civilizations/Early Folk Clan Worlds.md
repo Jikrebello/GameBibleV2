@@ -14,7 +14,7 @@ tags: []
 ---
 # Early Folk Clan Worlds
 
-The ancestor communities of the Folk enter the southern forests after the Scattering. They do not enter a mild wilderness. Farther south means colder: taiga, frost, permafrost, dark woodland, hungry winters, old trees, dangerous local powers, and Grobi migration.
+The ancestor communities of the Folk survive, move and reconnect across the southern forests during and after the Great Unbinding. They are Orphaned peoples rather than a branch leaving the Glass. They do not inhabit a mild wilderness. Farther south means colder: taiga, frost, permafrost, dark woodland, hungry winters, old trees, dangerous local powers, and Grobi migration.
 
 ## First Institutions
 
@@ -31,6 +31,10 @@ Survival produces related institutions across otherwise separate peoples:
 ## Political Development
 
 Some communities remain small and mobile. Others form river leagues, hillfort confederacies, coastal kindreds, and early iron-producing territories. No first king creates the Folk. Similar pressures create a family of institutions without erasing local identity.
+
+## Early Proto-Atherian Contact
+
+From approximately c. 2050 BR, individual southern war-settlement leagues reach some Folk gates, rivers and coasts. They bring useful measures, weapons and records while seeking land, timber, ore, food, routes and captives. Encounters produce siege, massacre, slavery and hostage-taking as well as treaty, trade, fosterage, intermarriage and local alliance. Folk communities also destroy proto-Atherian forts, recover captives and absorb survivors. No single response belongs to all Folk.
 
 ## Faith
 

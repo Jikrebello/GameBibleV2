@@ -29,7 +29,9 @@ The Enaidfae identity arose among confederacies that retained the densest old-ri
 
 ## Atherian Contact
 
-Atherian expansion was uneven. Imperial armies destroyed some strongholds, purchased others, and recruited many Folk as scouts, cavalry, miners, and frontier auxiliaries. Roads and market towns brought iron, literacy, taxes, and opportunities. Folk houses entered imperial service; imperial veterans married locally; clan elites learned to hold both customary and written title.
+The first Atherian contact predates the empire by more than a millennium. From approximately c. 2050 BR, separate southern leagues seize some gates and valleys, bargain with some clans, exchange hostages, take captives and depend upon Folk guides, metalworkers and local enemies. Folk confederacies destroy some forts and absorb their survivors. No united Folk nation confronts one united proto-Atherian people.
+
+Later city-state and imperial expansion is a second, larger pressure. Imperial armies destroyed some strongholds, purchased others, and recruited many Folk as scouts, cavalry, miners, and frontier auxiliaries. Roads and market towns brought iron, literacy, taxes, and opportunities. Folk houses entered imperial service; imperial veterans married locally; clan elites learned to hold both customary and written title.
 
 This created no simple division between conquered and free. Some urbanized Folk became part of later Eclessian and Thalmyric border populations. Some federate clans preserved language and law inside the empire. Others withdrew beyond maintained roads and remembered Atheria chiefly through ruins, tribute stones, and ancestral grievances.
 

@@ -45,6 +45,7 @@ The current whole-history pass is held in the author-only [[Mythic and Sacred Hi
 - [[Great Saints and Sinners - Chronological Placement Review]];
 - [[Great Saints and Sinners - First Trace Promotion Review]];
 - [[Great Saints and Sinners - Primarch Source-Fidelity Hardening Review]];
+- [[The Last Houses - Ancestor Polity Seed Cluster]];
 - [[Historical Seed Card Template]].
 
 Those notes audit every age through human, folkloric, institutional, and metaphysical lanes. The Giant descent rules, Five Imperial Horizons, and Great Unbinding backbone are now controlling canon. All seventy-two developed cards have received nursery dispositions and source-fidelity rulings; the four bridge leads, twelve Praise entries, and seventeen beds below are included in the same hardening audit. The fourteen Great-Person traces and their sixteen controlling placements have a separate Primarch source-fidelity audit: nine visible wounds restored, five visible wounds retained intact, and both erased-person mysteries retained intact. Every story seed remains exploratory until separately promoted, and linking it here does not promote its names, memberships, miracles, dates, provisional polities, actor identities, or proposed Idol successions.
@@ -131,7 +132,7 @@ All titles and company names below are provisional folk handles.
 
 **Durable trace:** seven widely separated wells, cairns, towers, or ferry stones claim to be one of their stopping places, though the geography cannot form a single route.
 
-**Historical pressure:** the formation of the post-Exodus peoples and their different fragments of inherited teaching.
+**Historical pressure:** the long formation of post-Exodus peoples through the first southern fission, the later northern fission, Orphaned reassembly and local adoption of different fragments of inherited teaching. The travelers neither cause those processes nor become the biological founders of their peoples.
 
 **Loose growth:** the company may be composite; one traveler may have returned; and later singers may have counted spouses, hosts, dead companions, or unrelated founders among an “original seven.” Their apparent failure to return becomes the beginning of several homes without making them the biological founders of seven peoples.
 
@@ -281,39 +282,9 @@ These can be planted around any company without fixing its whole plot.
 - **The reusable relic:** an object associated with the company has a mundane original purpose and only later becomes politically or spiritually charged.
 - **The company name that came later:** companions rarely call themselves what history calls them.
 
-## Great-Power Mythic Beds
-
-These twelve beds sit beside the seventeen human-company beds rather than replacing or enlarging their signature-company budget. They ask what Idols, Menhir, Patrons, Sinners, damned rulers, devil offices, Abyssal wounds, angels, and manifested saints were doing beyond the human foreground. Their complete interfaces and source-fidelity rulings are held in [[Great-Power Mythic Ecology and Planting Matrix]]. All remain `nursery-unreviewed`.
-
-### First War and Giant Antiquity
-
-- **The War of Broken Standards:** abandoned First-War allegiances continue fighting through empty banners, Commission Husks, Unhoused Witnesses, Idol Masks, and Menhir courts. Its durable trace is battlefield matter that still recruits explorers into armies whose commanders no longer exist.
-- **The Sevenfold Feast War:** the seven Idol Hungers repeatedly raid and reclassify the Giant world's sacrifice, kingship, appetite, marriage, grievance, wealth, and abandoned duty. Its durable trace is a cult complex whose seven underlayers answer different vices without establishing a Regnant succession.
-- **The Hunt of the Escaped Courts:** genuine Giant Continuants, copied ancestors, abandoned dependants, High Hunt beings, Idol proxies, and emerging Patrons pursue one another through the Egg White after the Unbinding. Its durable traces are wandering palace caravans, carcass thrones, false ancestors, and foreclosed refuge routes; Nythalum remains physically lunar.
-
-### Scattering through Stars
-
-- **The War of Unfinished Seasons:** Menhir pressures collide while closing the Giant world's artificial recurrence systems. Its durable trace is regional weather and funerary law that later cultures mistake for a moral war between good and evil seasons.
-- **The War of the Last Map:** damned dominions and devil-office systems fight to keep Hell mappable while using Abyssal wounds to erase rivals. This is the setting's nearest Blood-War-scale ecology, but neither side is good, the Abyss has no demon nation, and soul-road forces intervene only against unlawful interception.
-- **The Crown-Market of Shadows:** Idol Masks and Patron claimants trade victory, pedigree, treasury, vengeance, beauty, fertility, and erasure around mortal coronations. Its durable traces are incompatible crown signatures and royal offices still bidding for bodies they cannot lawfully possess.
-
-### Redeemer through Long Frontier
-
-- **The Siege of the Martyrs' Names:** Sinner networks, damned counterfeits, Idol Masks, Patrons, relic brokers, angels of witness, and occasionally genuine manifested saints contest graves, feast rolls, icons, and public memory. The saint remains one redeemed soul and needs no perfect invented Passion.
-- **The War of the Closed Doors:** temple closure simultaneously exposes fraud, interrupts Idol feeding, violates some real Menhir pacts, displaces workers, releases offices, and creates an anchor market. Its durable traces are mixed sanctuaries whose doors enforce obligations neither later side remembers honestly.
-- **The Long Rent War:** Patrons fight across the frontier's Egg White correspondences through route denial, debt assumption, proxy seizure, memory rent, and refuge foreclosure. Its durable traces are doors with rival owners, displaced Driftkin communities, and debts whose supposed creditor is a copied Giant ancestor.
-
-### Split through Present
-
-- **The War for the Common Saints:** hostile powers try to make saints shared by both churches prove exclusive ownership. Its durable traces are genuine corrections preserved in hostile icon traditions, multiple real saints later conflated under one name, and Patron contracts hidden beneath devotional titles.
-- **The Ossuary Crown Dispute:** an Egg White intelligence formed from plague wreckage is mistaken for the collective survival or resurrection of the dead. Its durable traces are a salvage crown speaking in copied voices and custody disputes requiring separation of remains, residue, bound souls, and the new person's own rights.
-- **The Proof That Attracted Three Heavens:** one existing Held Proof draws an Idol claimant, a Patron claimant, and a Sinner or devil-office claimant, each holding one truth and one ownership lie. This is a Forward-Rule starting pressure only; “three heavens” is frightened folklore, not cosmology.
-
-These beds produce ancient grudges and present encounters without making every storm, apparition, war, plague, or political change the visible edge of one hidden cosmic conspiracy.
-
 ## First Patron Trace Planting
 
-These six light roots are the first Patron-realm material promoted from the comparative research nursery into the Garden. Their selection and withheld layers are controlled by [[Patron Realm Garden Promotion Review]]. They deepen the twelve great-power beds without adding a thirteenth umbrella war or fixing six complete Astral kingdoms.
+These six light roots are the first Patron-realm material promoted from the comparative research nursery into the Garden. Their selection and withheld layers are controlled by [[Patron Realm Garden Promotion Review]]. They can interact with the twelve research-only great-power umbrellas in [[Great-Power Mythic Ecology and Planting Matrix]] without adding a thirteenth umbrella war or fixing six complete Astral kingdoms.
 
 The provisional realm, owner, ruler, route, population, institution and event behind each trace remain outside the Garden. Only the carrier, pressure and moral wound below have been planted.
 
@@ -554,6 +525,86 @@ The provisional people, names, exact localities, complete lives, soul-states, ma
 **Identity and promotion boundary:** no Ashen-Wings Saint, experimental route, manifestation, Ansgar identity or universal breachward order is promoted.
 
 These fourteen traces are mutually independent. Repeated concern with founders, institutions and correction reflects the review's thematic purpose rather than a lost college, shared campaign or secret lineage. None authenticates the provisional active histories from which it was harvested.
+
+## First Ancestor-Polity Seed Cluster
+
+These six roots translate the strongest functions of Aerenal into World Egg metaphysics. Their complete source, continuity and collision rulings are held in [[The Last Houses - Ancestor Polity Seed Cluster]]. They form one provisional cultural ecology rather than six unrelated traces, but they do not add a signature company, a new Menhir, a collective human afterlife or a canon civilization.
+
+The people, state, exact far-distant region, language, dates, Houses, rulers, Patron owners, internal routes, martyrs and present political outcome remain open. There has been **no verified contact by 1360 AR**: no trade, migration, embassy, missionary movement, relic traffic, mapped route or intelligible report connects this cluster to the currently detailed world. Its durable traces exist locally inside the unknown civilization, not in core-world archives. The actual human dead remain judged `human-soul` persons beyond civic custody. Every speaking body, ancestor-persona, office, Mask, Patron claimant and alleged manifestation requires a separate classification.
+
+### Orphaned Reassembly — The Three Testimonies of the Last Houses
+
+**Humble aperture:** abandoned mortuary workers use body registers, household testimony and civic consequence records to distribute food, identify children and settle property after a secondary Giant court collapses.
+
+**Durable trace:** important people receive three deliberately non-harmonized death records: the person's witnessed account, the household's adversarial testimony and the city's account of what the life cost or provided.
+
+**Historical pressure:** Orphaned Reassembly, recovery of Giant infrastructure and the transformation of burial fraternities into deed-, adoption- and kin-based civic Houses.
+
+**Loose growth:** living rulers may govern beneath an alleged ancestral court, but every living decree retains a living author. Houses preserve extraordinary institutional memory while forcing poor districts to maintain elite tombs, manufacturing respectable ancestry and making expulsion from lineage a form of civic dispossession.
+
+**Identity and promotion boundary:** no Commonwealth, House, founder, region, government or Giant predecessor is promoted. The three records preserve evidence and disagreement; they neither construct nor recall a human soul. This is not an Ark branch or the secret origin of Nsizwa ancestry.
+
+### The Still Cypress Vaults
+
+**Humble aperture:** embalmers discover that prepared bodies remain materially stable in certain living root-vaults only while adjoining return plots are allowed to decompose freely.
+
+**Durable trace:** paired wood samples decay at radically different rates inside an intact vault arrangement, neglected bodies resume ordinary decay and petitions record fields seized for return plots.
+
+**Historical pressure:** the survival of bodies and evidence after the Giant collapse, followed by unequal competition for mortuary land.
+
+**Loose growth:** wealthy Houses preserve founders by appropriating farmland, moving poor graves into accelerated-decay ground and killing people who enter reserved groves during famine. The apparent bargain may reflect a local Menhir court-law, place-mind or jurisdiction, while human embalming performs most of the work.
+
+**Identity and promotion boundary:** **Still Cypress** is a provisional local handle, not a new Menhir. Parentage under Sylvorn, Nevaura, Morvalis or a conjunction remains open. The effect preserves matter and perhaps residue, never the human soul, moral approval or sainthood.
+
+### The Court Judgement with the Same Mistake
+
+**Humble aperture:** living Houses deposit duplicate testimony in an Egg White refuge, then ask its keepers to resolve an inheritance dispute after the Material archive burns.
+
+**Durable trace:** several supposedly omniscient ancestral judgements repeat the same rare scribal error found in one concealed Material exemplar; access contracts price conversations with named “ancestors” as archive services.
+
+**Historical pressure:** the growth of mortuary government, Patron anchor politics and the conversion of archive custody into claimed ancestral sovereignty.
+
+**Loose growth:** the Court Beyond the Cypress may contain anchor-owning Patrons, proxies, constructs, residue-born inhabitants, copies and other separately classified actors. It can offer impressive long counsel while auctioning access, excluding dissenting Houses and dispossessing families through records their enemies curated. Pride or Envy Masks can exploit the praise architecture without founding the entire court.
+
+**Identity and promotion boundary:** no Court, anchor, owner, route or ancestor is authenticated. The Court is not a council of human souls, the Ossuary Crown, Nihil's Table or an escaped Giant palace. A genuine saint could act only under a bounded commission and could not become its permanent member.
+
+### The Burned Genealogies of the Unclosed Line
+
+**Humble aperture:** physicians and mourners try to keep dying witnesses present long enough to finish testimony and expose false ancestor speakers.
+
+**Durable trace:** interrupted families reappear under victorious House names, mass cremation pits lie beneath official memorial gardens and condemned technical terms survive in orthodox embalming manuals.
+
+**Historical pressure:** fear of ancestor impersonation, political demand for indisputable continuity and a mortuary school crossing from bodily preservation into soul captivity.
+
+**Loose growth:** some experiments genuinely bind human souls inside failing bodies; others leave residue, empty simulations or hostile occupants. The ruling Houses destroy dangerous prisons but also kill surrendered practitioners, innocent dependants and children, burn exculpatory bodies and appropriate useful techniques. Necessary resistance does not make the collective punishment righteous.
+
+**Identity and promotion boundary:** no school, massacre, Patron, Idol bargain, retained victim or war is fixed. The seed is not Ansharan vampirism, the Pale Hand, a universal Undertow origin or proof that every preserved speaker contains a soul.
+
+### The Five-Seal Grave Warrants
+
+**Humble aperture:** burial recovery crews need a procedure for distinguishing preserved matter, ordinary residue, a trapped soul, an imposed office, a Patron claimant and a predatory occupant.
+
+**Durable trace:** graves carry five-part warrants, while four-seal graves mark cases whose final classification remained disputed; foreign households retain restitution claims for bodies destroyed during campaigns.
+
+**Historical pressure:** reconstruction after mortuary civil violence and the expansion of a protective investigative practice into state power.
+
+**Loose growth:** the Keepers of the Last Door can release bound souls and end predatory continuities. They can also execute custodians without adequate testing, burn foreign cemeteries, suppress authentic records and classify rival customs as crimes. Destroyed evidence makes some victories impossible to verify.
+
+**Identity and promotion boundary:** no order, founder, international jurisdiction or current faction is promoted. The Keepers are living humans, not saints, angels, breachward descendants or Threshold Wardens; their warrants cannot compel Heaven.
+
+### The Armour Made for Many Bodies
+
+**Humble aperture:** mobile frontier households without central ancestor vaults train living heirs to complete the unfinished duties of dead defenders.
+
+**Durable trace:** heroic armour has been altered repeatedly for bodies of different size and sex; two living claimants possess equally valid training records; contracts distinguish inherited duty from inherited guilt.
+
+**Historical pressure:** rivalry between corpse-centered Houses and mobile communities preserving heroes through performed office.
+
+**Loose growth:** a mantle begins as disciplined training and public obligation. Repetition can accumulate residue, a legend-persona, an infrastructure office or an opportunity for an Idol Mask, but custodians may coerce heirs to surrender names, marriages and livelihoods or repeat inherited feuds and atrocities.
+
+**Identity and promotion boundary:** no mantle, hero, House, supernatural response or legal settlement is fixed. Performance never transfers or merges human souls and is not Nsizwa Izivukwa, reincarnation, Giant succession or Idol Regnancy.
+
+The six roots can later remain one civilization, become neighboring traditions or separate during review. Their common source grammar does not establish a common founder, secret metaphysical system or correct public theology. Opening contact with the known world is a future project rather than a concealed fact already present in 1360 AR.
 
 ## Promotion Test
 

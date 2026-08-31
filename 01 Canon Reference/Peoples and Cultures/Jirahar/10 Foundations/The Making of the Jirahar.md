@@ -13,11 +13,11 @@ tags: []
 ---
 # The Making of the Jirahar
 
-The Jirahar are descendants of one Scattering people transformed by settlement, destruction, return, trade, conversion, intermarriage within law, and repeated exile.
+The Jirahar descend principally from one later branch of the Near-Glass camp continuum, transformed by settlement, destruction, return, trade, conversion, intermarriage within law, and repeated exile. Their ancestors remained in common northern life with the ancestors of the Ahdari for generations after the southern proto-Atherian departure.
 
 ## Early Tower People
 
-The first tower communities joined former caravan judges, herders, scribes, metalworkers, water engineers, and families responsible for sacred stores. Qiryath became the greatest court without erasing regional practice.
+The first tower communities joined caravan judges, herders, scribes, metalworkers, water engineers, route custodians and families responsible for sacred stores. Portable adjudication and translocal registers became one answer to wells and roads no single wall could lawfully own. Qiryath became the greatest court without erasing regional practice.
 
 ## Arqeshite Exiles and Returners
 

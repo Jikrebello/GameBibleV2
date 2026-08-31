@@ -34,7 +34,7 @@ The Glass predates the Prophet, his plagues, and the Giants' attempts to approac
 
 The ordered camp becomes a dry ark: people, animals, seed, tools, medicine, records, law and living crafts survive through both high-sign provision and ordinary material labor. Anchor camps become long occupations rather than momentary way-stations. Common worship, law, rationing, service, language, intermarriage and burial form the refugees into one people over approximately a century.
 
-The sojourn does not explain what the Glass is or make its miracles repeatable. Its three Ark-derived successor traditions remember the common inheritance differently:
+The sojourn does not explain what the Glass is or make its miracles repeatable. The later Ark-derived traditions remember the common inheritance differently, although they do not separate simultaneously at the outward threshold:
 
 - the Jirahar remember commandments, names, routes, and failed obedience;
 - the Ahl-e-Ahd remember water, oath, provision, and covenant;
@@ -48,7 +48,7 @@ By the end of the sojourn, the Prophet is the last living human with direct memo
 
 ## Inherited Wound
 
-The host is freed and genuinely formed before it fractures. Common law, institutions and memory mature in the Glass, but the people cannot carry that unity securely into land, succession and possession after the Prophet's death. The three Ark-derived families inherit both deliverance and fracture; other peoples remember the event through Orphaned or later Braided histories.
+The host is freed and genuinely formed before it fractures. Common law, institutions and memory mature in the Glass, but the people cannot carry that unity securely into land, succession and possession after the Prophet's death. Southern war-settlement leagues separate first; the continuing Near-Glass population divides generations later into proto-Jirahar and proto-Ahl-e-Ahd formations. All three later inherit both deliverance and fracture; other peoples remember the event through Orphaned or later Braided histories.
 
 Human communities outside the principal host are not rejected humanity. Some revolt after the central columns pass, remain to preserve a failing city, survive in isolated regions, or enter separate successor histories. Later cultures may claim exclusive descent from the Exodus, but no one surviving genealogy contains the whole end of the Giant Age.
 

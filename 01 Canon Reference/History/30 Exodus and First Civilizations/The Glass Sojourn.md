@@ -21,13 +21,13 @@ tags:
 ---
 # The Glass Sojourn
 
-The **Glass Sojourn**, approximately c. 2265–2165 BR, is the long refuge in which the mixed human remnant carried by the Glass Ark became one people before dividing into the proto-Jirahar, proto-Ahl-e-Ahd and proto-Atherians. The date range is traditional and approximate; the exact number of years, camps and people remains unknown.
+The **Glass Sojourn**, approximately c. 2265–2165 BR, is the long refuge in which the mixed human remnant carried by the Glass Ark became one people. After the Prophet's death, that people first separates gradually into southern war-settlement leagues and a continuing Near-Glass camp continuum; the latter divides generations later into the ancestors of the Jirahar and proto-Ahl-e-Ahd. The date range is traditional and approximate; the exact number of years, camps and people remains unknown.
 
 ## Controlling Ruling
 
 The Lord deliberately sends the principal remnant into the [[Great Glass Desert]] to shelter it from the continuing collapse of the Giant world. The Great Prophet leads and governs under commission but does not create the passage, provision or protection.
 
-The Glass refuge is not the later failed sanctuary. It successfully preserves and forms the host. After the long sojourn, the people are commanded to leave and establish a southern sanctuary capable of holding their common life for three generations. The Prophet dies at or near the outward threshold around c. 2165 BR before that sanctuary is securely established. The southward movement then divides.
+The Glass refuge is not the later failed sanctuary. It successfully preserves and forms the host. After the long sojourn, the people are commanded to leave and establish a southern sanctuary capable of holding their common life for three generations. The Prophet dies at or near the outward threshold around c. 2165 BR before that sanctuary is securely established. The sanctuary fails gradually as bounded camp offices contest movement, land, punishment, provision and command; no office inherits the Prophet's commission.
 
 ## Giant Non-Settlement
 
@@ -88,11 +88,14 @@ His death therefore ends both a leadership and a mode of historical knowledge. T
 
 The Glass is refuge and school, not a permanent homeland. The already-formed people leaves after the Prophet's death and fails to establish the commanded southern sanctuary in a stable common form.
 
-- **Proto-Jirahar** principally carry commandment, names, portable courts, burial obligation, road memory and expectation.
-- **Proto-Ahl-e-Ahd** principally carry oath, water allotment, guest protection, witness, restitution and enforceable obligation.
-- **Proto-Atherians** principally carry crafts, measures, military service, archives, public works and civic deliberation.
+Between approximately c. 2130 and 2050 BR, southern companies organized around captains, craftsmen, survey, captured works and permanent allotment separate gradually from the camps remaining near the Glass roads. Those southern leagues become proto-Atherian through settlement, conquest and mixture; they principally carry crafts, measures, military service, archives, public works and civic deliberation.
 
-None inherits the whole witness, and none possesses superior human nature through Ark descent.
+The continuing **Near-Glass camp continuum** is an authorial label, not the name of a forgotten nation and not another prophetic office. Between approximately c. 1950 and 1750 BR, water, distance, marriage, trade, raiding and sustained Tarkhan contact divide it into two later institutional formations:
+
+- **Proto-Jirahar** principally carry commandment, names, portable courts, burial obligation, road memory and expectation.
+- **Proto-Ahl-e-Ahd** principally carry oath, water allotment, guest protection, witness, restitution and enforceable obligation attached increasingly to defended wells and territorial protectors.
+
+Neither fission occurs in one council, battle or migration. None of the three later traditions inherits the whole witness, and none possesses superior human nature through Ark descent.
 
 Meanwhile, human communities outside the Ark survive through independent **Orphaned Reassemblies**. Folk, Ättar, Tarkhan and Nsizwa are principally Orphaned peoples. Sestaran harbor populations, Vesari and later Eclessians are **Braided peoples** formed through later mixtures of Ark-derived, Orphaned and other local populations.
 

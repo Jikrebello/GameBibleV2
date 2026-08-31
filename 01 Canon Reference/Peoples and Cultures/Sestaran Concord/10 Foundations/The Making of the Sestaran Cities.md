@@ -17,9 +17,9 @@ Sestara did not begin as one people or break from Atheria in one revolution. The
 
 ## Before Atheria
 
-Across the late Scattering and early Hearth ages, local Orphaned survivors, Ark-derived migrants, island households, river communities, refugees, captives and traders joined differently at each harbor and road junction. Fiorenzia grew where river roads entered fertile highlands. Sermora began as rival island harbors and pilot communities. Vardessa grew around seasonal fairs at the Three Roads Basin. The Black Spire predates all surviving records; Vorthara accumulated refugees, specialists, and forbidden workshops around a structure no empire fully understood.
+Across the late Scattering and early Hearth ages, local Orphaned survivors, southern war-settlers, other Ark-derived migrants, island households, river communities, refugees, captives and traders joined differently at each harbor and road junction. Some quarters began by invitation or negotiated trade; others began through armed occupation, grain seizure, slavery, expulsion or refugee pressure. Fiorenzia grew where river roads entered fertile highlands. Sermora began as rival island harbors and pilot communities. Vardessa grew around seasonal fairs at the Three Roads Basin. The Black Spire predates all surviving records; Vorthara accumulated refugees, specialists, and forbidden workshops around a structure no empire fully understood.
 
-No single founding migration created all the cities, and modern **Sestaran** identity is chiefly civic and diplomatic rather than proof of one ancient ancestry.
+No single founding migration created all the cities, and no one proto-Atherian league founded Sestara. Modern **Sestaran** identity is chiefly civic and diplomatic rather than proof of one ancient ancestry.
 
 ## Atherian Rule
 

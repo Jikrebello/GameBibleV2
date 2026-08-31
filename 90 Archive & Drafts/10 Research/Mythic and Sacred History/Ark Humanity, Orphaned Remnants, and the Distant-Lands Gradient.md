@@ -43,6 +43,9 @@ tags:
 ---
 # Ark Humanity, Orphaned Remnants, and the Distant-Lands Gradient
 
+> [!note] Sequence superseded — 2026-08-31
+> The Ark/Orphaned/Braided classification in this dossier remains controlling. Its older shorthand of a direct three-way post-Glass division is retained as research history but has been superseded by [[The Two Fissions - Canon Promotion Review]]: the southern proto-Atherian fission occurs first, and the Near-Glass continuum divides generations later.
+
 ## Research Question
 
 Can the world's human geography be divided between:
@@ -386,6 +389,9 @@ Only then select stories. The first batch should include:
 This gives the Scattering human breadth without making every people a child of the same caravan or every distant land a renamed Xen'drik.
 
 ## Promotion Boundary
+
+> [!note] Subsequent sequence ruling — 2026-08-31
+> This dossier's Ark, Orphaned and Braided classifications remain controlling. Its earlier shorthand in which the post-Glass people divided directly into three crystallisations has been superseded by [[The Two Fissions and the Atherian Long Formation]] and [[The Two Fissions - Canon Promotion Review]]: southern war-settlement leagues separate first; the continuing Near-Glass camp continuum divides generations later into proto-Jirahar and proto-Ahl-e-Ahd formations. The older wording remains here as research provenance rather than current sequence canon.
 
 The ancestry classifications and long-sojourn structure have entered canon. This dossier still does not:
 

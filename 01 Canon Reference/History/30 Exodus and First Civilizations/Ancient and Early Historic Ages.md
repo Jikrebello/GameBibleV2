@@ -27,18 +27,18 @@ This note bridges [[Prehistory Overview]] and the [[Atherian Imperial Age]]. It 
 
 1. [[Age of Chains]]: the Five Imperial Horizons and many lesser Giant polities enslave humanity and teach the world its first great lessons in tyranny, monumentality, forbidden science, and false divinity.
 2. [[Age of Exodus]]: the [[The Great Unbinding|Great Unbinding]] breaks Giant rule through converging judgement, revolt, civil war, and systemic collapse; the Great Prophet leads the principal liberated remnant into the [[Great Glass Desert]], while other human communities survive elsewhere. During [[The Glass Sojourn]], the mixed Ark host becomes one people.
-3. [[Age of Scattering]]: after the Prophet's death, the Glass people divide into three Ark-derived families; Orphaned communities continue independent reassembly; later contact produces Braided peoples.
-4. [[Age of Hearths and First Kings]]: villages, hill forts, river towns, ancestor laws, early Menhir pacts, priest-kings, and local cults emerge.
+3. [[Age of Scattering]]: after the Prophet's death, southern war-settlement leagues separate first from a continuing Near-Glass population; Orphaned communities continue independent reassembly; conquest and contact begin Braided histories.
+4. [[Age of Hearths and First Kings]]: the later northern fission produces proto-Jirahar and proto-Ahl-e-Ahd formations while villages, hill forts, river towns, ancestor laws, early Menhir pacts, priest-kings, and local cults become durable.
 5. [[Age of City-States]]: trade, writing, archives, walls, towers, ports, oasis courts, and elemental engineering create the first urban powers.
 6. [[Age of Stars]]: Atherian city-states consolidate around star cults, civic law, road-building, archives, astronomy, and imperial destiny.
 7. [[Atherian Imperial Age]]: the later Atherian/Redeemer/conversion/fall pipeline begins.
 
 ## Cultural Evolution Threads
 
-- **Atherians:** post-Exodus peoples who abandon, distort, or civilize the Prophet's teaching into star cults, civic law, archives, roads, and imperial synthesis.
-- **Jirahar:** communities with the strongest claim to preserving the Great Prophet's original teaching through caravans, tower towns, law, memory, and prophecy.
+- **Atherians:** the first Ark-derived fission, initially southern war-settlement leagues whose mixed conquest and maritime recovery networks later become city civilization, star cult, republic and empire.
+- **Jirahar:** one later branch of the Near-Glass continuum, with the strongest claim to preserving the Great Prophet's original teaching through portable courts, caravans, tower towns, law, memory, and prophecy.
 - **Arqeshites:** eastern river-city peoples who create an early mortal empire of canals, estates, deportation, and royal sacred power before being absorbed by the expanding Atherian world.
-- **Ahl-e-Ahd:** desert oath and water-right tribes whose covenant memory hardens into contract law, obligation, and later cosmic contract doctrine.
+- **Ahl-e-Ahd:** later Covenant peoples whose Ahdari core emerges from the northern fission through defended wells, oath coalitions and mixture with older desert populations; covenant memory later hardens into contract law and cosmic contract doctrine.
 - **Folk and Ättar:** related Orphaned southern cold-frontier populations that develop into distinct peoples. Folk institutions center on clan territory and local courts; settled Ättar halls later accept Mother Moon's firstborn pact during the [[War of the Empty Halls]].
 - **Tarkhan and Nsizwa:** independent Orphaned peoples whose ancestors survive and reassemble outside the Ark in different regions and under different pressures.
 - **Sestara:** later Braided harbor and archive-city populations that survive by monetizing memory, art, finance, ships, legal skill, and secrets; no single ancient Sestaran people exits the Glass.

@@ -17,7 +17,7 @@ The Covenant was made by roads, conversion, conquest, marriage, resettlement, mi
 
 ## The Ahdari Foundation
 
-The [[The Ahdari|Ahdari]] descend from desert oath, well, and caravan peoples. Their guest-law and water covenants supplied Mujalib with the social grammar from which Al-Ahdiya grew. Early caliphs spread their literary language and legal forms far beyond Ahdari ancestry.
+The [[The Ahdari|Ahdari]] descend from the later northern fission of the Near-Glass camp continuum as it joined and competed with older desert and Tarkhan communities. Defended wells, protector coalitions, guest-law, rescue debt and water covenants supplied Mujalib with the social grammar from which Al-Ahdiya grew. Early caliphs spread their literary language and legal forms far beyond Ahdari ancestry; neither the Ahdari nor the later Covenant exclusively inherits the Prophet's commission.
 
 ## Older Settled Peoples
 
@@ -38,4 +38,3 @@ A person may be Qahuri by family, Ahl-e-Ahd by faith and law, Qahirid by politic
 - [[The Ahl-e-Ahd Overview]]
 - [[Proto-Ahl-e-Ahd Desert Tribes]]
 - [[Historical Spine of the Covenant]]
-

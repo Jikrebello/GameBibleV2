@@ -34,6 +34,9 @@ tags:
 ---
 # The Glass Sojourn — Refuge, Ethnogenesis, and the Last Witness
 
+> [!note] Sequence superseded — 2026-08-31
+> This dossier remains the research basis for the long Sojourn and formation of one Glass people. Its older shorthand of three direct successor crystallisations is retained as provenance but has been superseded by [[The Two Fissions - Canon Promotion Review]].
+
 > **Promotion state:** the recommended long-sojourn ruling was approved and promoted into [[The Glass Sojourn]], [[The Great Unbinding]], [[Age of Exodus]], [[Great Glass Desert]], [[Age of Scattering]] and the controlling historical spine. This dossier retains the research, alternatives and retcon audit; the canon notes control.
 
 ## Research Question
@@ -313,6 +316,9 @@ No single relic proves the full reconstruction. A credible 1360 conclusion requi
 | **Braided Ethnogenesis** | later contacts and mixtures produce Vesari, Sestaran populations, Eclessians and other composite peoples at different dates |
 
 # IX. Promoted Authorial Ruling
+
+> [!note] Subsequent sequence ruling — 2026-08-31
+> Points 7 and the older “Ark Scattering” row below preserve the first promotion's research history but no longer control the order of ethnogenesis. [[The Two Fissions - Canon Promotion Review]] now fixes a first southern war-settlement fission followed generations later by the northern proto-Jirahar/proto-Ahl-e-Ahd fission. The long Sojourn, one-people formation, Orphaned classifications and Braided classifications remain unchanged.
 
 The approved retcon fixes the following:
 

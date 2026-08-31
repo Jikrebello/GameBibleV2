@@ -18,7 +18,7 @@ tags: []
 ---
 # Proto-Ahl-e-Ahd Desert Tribes
 
-The proto-Ahl-e-Ahd begin as desert oath, well, and caravan peoples. Their earliest law is not abstract philosophy; it is survival discipline.
+The proto-Ahl-e-Ahd core emerges during the later northern fission, when part of the Near-Glass camp continuum joins and competes with older desert and Tarkhan communities around defended wells, oath coalitions and caravan protection. Their earliest law is not abstract philosophy; it is survival discipline. They are not an immediate third branch formed at the outward threshold, and they are not yet the whole later Ahl-e-Ahd civilization.
 
 ## Desert Institutions
 
@@ -37,7 +37,7 @@ Their early world revolves around:
 
 ## Covenant Memory
 
-The Exodus teaches them that survival depends on promise. A promise made over water, shade, blood, bread, or sanctuary becomes more than social convenience. It becomes the grammar of reality.
+The common Glass inheritance teaches that survival depends on promise, provision and accountable witness. Northern scarcity makes those principles territorial: a promise made over water, shade, blood, bread, rescue or sanctuary becomes more than social convenience. It becomes the grammar of reality.
 
 ## Drift Toward Contract Doctrine
 
@@ -50,7 +50,7 @@ Over generations, covenant memory hardens into a total metaphysical imagination:
 
 ## Future Consequence
 
-The later Ahl-e-Ahd contract civilization grows from these desert roots. Its greatness and danger both come from treating obligation as the deepest layer of reality.
+The later Ahl-e-Ahd contract civilization grows from these roots and from the subsequent conversion, conquest, marriage and incorporation of Ahdari, Iqashari, Qahuri, Qazmari, Zanthiri, Velian and other populations. Its greatness and danger both come from treating obligation as the deepest layer of reality.
 
 ## Navigation
 

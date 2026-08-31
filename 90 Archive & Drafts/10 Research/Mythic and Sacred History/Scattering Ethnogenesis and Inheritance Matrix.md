@@ -1,6 +1,6 @@
 ---
 type: research
-status: draft
+status: completed
 canon_level: exploratory
 visibility: author-only
 era:
@@ -27,7 +27,6 @@ culture:
 related_factions: []
 appears_in: []
 needs:
-  - promote the reviewed skeleton only after explicit author approval
   - keep all twelve nursery hooks outside canon unless separately selected
 tags:
   - research
@@ -37,12 +36,12 @@ tags:
 ---
 # Scattering Ethnogenesis and Inheritance Matrix
 
-> [!warning] Promotion ledger, not canon
-> This matrix records the implications of [[The Two Fissions and the Atherian Long Formation]]. It identifies later canon edits but makes none. Current Canon Reference notes remain controlling until a separate promotion decision.
+> [!warning] Promotion provenance
+> This matrix records the implications and edit boundary of [[The Two Fissions and the Atherian Long Formation]]. The reviewed demographic skeleton entered controlling canon through [[The Two Fissions - Canon Promotion Review]]. Research-only names, detailed reconstructions and all twelve nursery hooks remain outside canon.
 
 ## Review Outcome
 
-[[The Two Fissions - Collision and Disposition Review]] passes every macro ruling. Six nursery hooks are retained and six pass with incorporated revisions. The historical model remains promotion-locked: review establishes internal fit, not canon status.
+[[The Two Fissions - Collision and Disposition Review]] passes every macro ruling. Six nursery hooks are retained and six pass with incorporated revisions. The eight macro rulings have now been promoted; review of the twelve hooks establishes internal fit but grants them no Garden or canon status.
 
 ## 1. Classification Rules
 
@@ -140,11 +139,11 @@ Vesari formation occurs in a separate eastern river world. Ark-descended migrant
 | **Atherian city–Atherian city** | trade, colonies, prestige, grain, sacred leadership, military security | the same, under rival civic institutions | league, synoecism, civil war, colonization, mercenary intervention | shared culture implies political unity |
 | **Caleran republic–provincial peoples** | tax, troops, roads, land, cult recognition, strategic depth | status, protection, market access, office, preserved local privilege, resistance | conquest, municipal bargain, enslavement, citizenship, elite collaboration, revolt, mixed provincial identity | Romanization is either total erasure or wholly voluntary adoption |
 
-## 8. Canon Collision and Retcon Ledger
+## 8. Canon Promotion Edit Ledger
 
 ### Direct controlling collisions
 
-| Canon note | Current state | Required change after approval | Promotion effect |
+| Canon note | Former state | Applied change | Promotion effect |
 |---|---|---|---|
 | [[The Glass Sojourn]] | opening and departure sections anticipate three direct successor formations | state that the first division produces southern leagues and a continuing Near-Glass population; mention the later northern fission without overloading the Sojourn note | revise |
 | [[Age of Exodus]] | refers to three successor traditions and three Ark-derived families | replace with one immediate southern fission and two later northern traditions; preserve one people formed before departure | revise |
@@ -158,7 +157,7 @@ Vesari formation occurs in a separate eastern river world. Ark-descended migrant
 
 ### Culture-history collisions and additions
 
-| Canon note | Current state | Required change after approval | Promotion effect |
+| Canon note | Former state | Applied change | Promotion effect |
 |---|---|---|---|
 | [[Proto-Jirahar Tower Towns]] | begins with an already distinct proto-Jirahar community | add the Near-Glass common period and show tower institutions as one later answer to the northern fission | revise |
 | [[The Making of the Jirahar]] | calls the Jirahar descendants of one unspecified Scattering people | identify that source as one branch of the Near-Glass continuum; preserve later conversion, return, and diaspora complexity | revise |
@@ -183,11 +182,11 @@ The following require no structural retcon: [[Great Glass Desert]], [[The Making
 
 ### Research-provenance updates after promotion
 
-The earlier research dossiers [[Ark Humanity, Orphaned Remnants, and the Distant-Lands Gradient]] and [[The Glass Sojourn - Refuge, Ethnogenesis, and the Last Witness]] must not be silently rewritten as though they always contained the two-stage model. On promotion, append a dated supersession note and link to this matrix. Preserve their original three-fission reasoning as research history.
+The earlier research dossiers [[Ark Humanity, Orphaned Remnants, and the Distant-Lands Gradient]] and [[The Glass Sojourn - Refuge, Ethnogenesis, and the Last Witness]] were not silently rewritten as though they always contained the two-stage model. Each now carries a dated supersession note linking to this matrix while preserving its original three-fission reasoning as research history.
 
-## 9. Promotion Sequence
+## 9. Applied Promotion Sequence
 
-If the two-fission model is approved, promote in this order:
+The approved two-fission model was promoted in this order:
 
 1. chronology and historical spine;
 2. Glass Sojourn, Exodus, Great Unbinding, and Scattering summaries;
@@ -196,7 +195,7 @@ If the two-fission model is approved, promote in this order:
 5. early Folk, Ättar, Tarkhan-contact, and Sestaran material;
 6. successor-boundary clarifications for Thalmyrics, Eclessians, Sestarans, and Vesari;
 7. research MOC supersession notes;
-8. only separately approved nursery hooks.
+8. no nursery hooks; those remain subject to separate selection.
 
 Do not promote all twelve hooks automatically with the demographic skeleton.
 

@@ -1,6 +1,6 @@
 ---
 type: research
-status: draft
+status: completed
 canon_level: exploratory
 visibility: author-only
 era:
@@ -30,8 +30,7 @@ culture:
 related_factions: []
 appears_in: []
 needs:
-  - conduct a separate canon-promotion decision for the reviewed demographic skeleton
-  - consider individual hook promotion only after the skeleton is canonical
+  - consider individual hook promotion only through a separate selection review
 tags:
   - research
   - scattering
@@ -41,8 +40,8 @@ tags:
 ---
 # The Two Fissions and the Atherian Long Formation
 
-> [!warning] Author-only research
-> This dossier replaces no canon by itself. It tests a gradual two-stage fission, an earlier and harder proto-Atherian expansion, and a layered Atherian ethnogenesis. Canon changes require the separate promotion review recorded in [[Scattering Ethnogenesis and Inheritance Matrix]].
+> [!warning] Author-only research and promotion provenance
+> This dossier supplied the reviewed demographic skeleton promoted through [[The Two Fissions - Canon Promotion Review]]. The controlling result now appears in Canon Reference. Personal names, exact routes, complete biographies and all twelve nursery hooks remain exploratory.
 
 ## Research Question
 
@@ -65,9 +64,9 @@ Folk, Ättar, Tarkhan, and Nsizwa remain independent **Orphaned** peoples. Sesta
 
 ## Review Outcome
 
-[[The Two Fissions - Collision and Disposition Review]] retains the non-inheritable commission, two-stage fission, Near-Glass authorial label, hard mixed southern conquest, later northern ethnogenesis, four Atherian identity layers, and successor boundaries. It incorporates one macro correction: the heroic-maritime period creates several overlapping recovery networks and several regional breakdowns, not one setting-wide Bronze Age or single collapse. The demographic skeleton is reviewed but remains noncanonical.
+[[The Two Fissions - Collision and Disposition Review]] retains the non-inheritable commission, two-stage fission, Near-Glass authorial label, hard mixed southern conquest, later northern ethnogenesis, four Atherian identity layers, and successor boundaries. It incorporates one macro correction: the heroic-maritime period creates several overlapping recovery networks and several regional breakdowns, not one setting-wide Bronze Age or single collapse. The reviewed demographic skeleton entered controlling canon on 2026-08-31 through [[The Two Fissions - Canon Promotion Review]].
 
-## Proposed Controlling Rulings
+## Promoted Controlling Rulings
 
 ### 1. The Prophet leaves no universal successor
 
@@ -257,7 +256,7 @@ Roman provincial history supplies a second grammar: violent conquest followed by
 
 **Consequence:** Atheria becomes a layered civic civilization; Jirahar and Ahdari traditions retain rival parts of a shared northern inheritance; Folk, Ättar, Tarkhan, Sestaran, Vesari, Thalmyric, and Eclessian histories preserve different mixtures of resistance, absorption, imitation, and survival.
 
-## Authorially Fixed for This Research Pass
+## Promoted Authorial Ruling
 
 - the Prophet has no universal human successor;
 - the first fission is the gradual separation of southern war-settlement leagues from a Near-Glass continuum;

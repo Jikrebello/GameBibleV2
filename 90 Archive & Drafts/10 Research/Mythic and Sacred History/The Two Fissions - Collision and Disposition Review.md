@@ -1,6 +1,6 @@
 ---
 type: review
-status: draft
+status: completed
 canon_level: exploratory
 visibility: author-only
 era:
@@ -27,7 +27,6 @@ culture:
 related_factions: []
 appears_in: []
 needs:
-  - conduct a separate canon-promotion pass only after author approval
   - leave all twelve hooks outside canon unless individually selected later
 tags:
   - research
@@ -239,6 +238,9 @@ Joshua and Judges remain author-facing moral and narrative grammars. Nothing in 
 ## Promotion Lock
 
 This review passes the demographic skeleton for a later canon-promotion decision. It does not itself authorize that promotion. The twelve hooks remain nursery material even if the skeleton is promoted; each requires a later individual selection before entering the Historical Seed Garden or a culture history.
+
+> [!note] Subsequent promotion — 2026-08-31
+> The author subsequently approved the demographic skeleton, which entered controlling canon through [[The Two Fissions - Canon Promotion Review]]. This did not promote any of the twelve hooks, their actors, locations, objects or disputed events.
 
 ## Navigation
 

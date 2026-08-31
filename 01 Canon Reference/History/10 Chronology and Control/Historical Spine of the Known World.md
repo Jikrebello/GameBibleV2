@@ -29,7 +29,9 @@ This note is the causal backbone of the setting. It explains how the present con
 
 ## 3. Age of Scattering
 
-[[Age of Scattering]] contains three overlapping processes. The one Glass people divides into proto-Atherians, proto-Jirahar and proto-Ahl-e-Ahd. Folk, Ättar, Tarkhan and Nsizwa develop through independent Orphaned reassemblies among communities that survived outside the Ark. Sestaran harbor populations and Vesari emerge later as Braided peoples; later Eclessians braid Atherian provincial, Folk, Markish, Vesari and other regional layers.
+[[Age of Scattering]] contains three overlapping processes. First, southern war-settlement leagues separate gradually from a continuing Near-Glass camp continuum and become proto-Atherian through settlement, conquest and mixture. Generations later, water, distance, marriage, trade, raiding and reciprocal Tarkhan contact divide the Near-Glass continuum into proto-Jirahar and proto-Ahl-e-Ahd formations. Meanwhile Folk, Ättar, Tarkhan and Nsizwa develop through independent Orphaned reassemblies among communities that survived outside the Ark. Sestaran harbor populations and Vesari emerge later as Braided peoples; later Eclessians braid Atherian provincial, Folk, Markish, Vesari and other regional layers.
+
+Proto-Atherian expansion enters inhabited country. It produces forts, roads and connected recovery networks through local knowledge and labor, but also massacre, slavery, hostage-taking, displacement and land seizure. Folk clans destroy or absorb some forts; harbor communities bargain, resist or braid with others. No victory inherits the Prophet's commission or proves divine title.
 
 In the northern dry belt, Tarkhan communities develop western camel-and-well circuits and eastern hunting and herding circuits long before Atheria falls. Covenant seizure of the Nine Wells in 558 AR creates a frontier wound; the Atherian collapse later supplies the horses of the First Catch without creating Tarkhan civilization from nothing.
 
@@ -45,7 +47,7 @@ In the southern ranges, established Ättar halls face the [[War of the Empty Hal
 
 ## 5. Age of City-States
 
-[[Age of City-States]] creates the first urban worlds: Atherian civic rivals, Sestaran ports, Jirahar tower towns, Ahl-e-Ahd oasis polities, roads, archives, walls, war engines, and early elemental scripting.
+[[Age of City-States]] creates the first urban worlds: Atherian civic rivals, Sestaran ports, Jirahar tower towns, Ahdari and related proto-Ahl-e-Ahd oasis polities, roads, archives, walls, war engines, and early elemental scripting.
 
 **Inherited wound:** cities preserve memory, but they also create debt, class, legal violence, and appetite for empire.
 
@@ -59,7 +61,7 @@ The eastern [[First Qiryath and the Arqeshite Exile|Arqeshite River Empire]] des
 
 ## 7. Atherian Unity and the Star Pantheon
 
-The old Atherian Empire creates roads, cities, law, archives, imperial identity, and continental memory. Its Star Pantheon gives the empire a cosmic civic order.
+The Atherian city world and republic create roads, cities, law, archives and a civic identity capable of admitting outsiders on unequal terms. The old Atherian Empire centralizes and enlarges that inheritance into provincial government and continental memory. Its Star Pantheon gives the empire a cosmic civic order.
 
 **Inherited wound:** everyone wants Atheria's legitimacy, roads, ruins, and archives.
 

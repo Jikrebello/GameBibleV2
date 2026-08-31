@@ -20,7 +20,7 @@ related_factions:
   - Sinners
 appears_in: []
 needs:
-  - review all twelve beds before any historical promotion
+  - review the twelve Menhir court and jurisdiction leads against the reviewed umbrella layer
   - select named local recensions only after cultural dossiers exist
   - create individual dossiers before naming any Severed Exalt, fallen angel, greater saint, or sovereign Patron
 tags:
@@ -38,7 +38,13 @@ The first historical garden chiefly asks what ordinary humans did while history 
 
 These conflicts are not a second creation story or a secret master chronology. Most do not cause the human age beside which they are planted. They create distant thunder, strange alliances, inherited enemies, relic ecologies, impossible refugees, contradictory cult histories, and powers with old reasons to recognize—or hate—one another in 1360 AR.
 
-All twelve beds are author-only, exploratory, and `nursery-unreviewed`. Their titles, dates, participants, outcomes, and cultural recensions remain provisional.
+All twelve beds are author-only and exploratory. The joint collision review retained four and incorporated revisions into eight. That review did not promote a conflict, name its principal actors, or turn an umbrella title into authorial proof of one continuous war. Titles, exact dates, local participants, outcomes, and cultural recensions remain provisional.
+
+## Review State
+
+[[Great-Power Mythic Ecology - Collision and Disposition Review]] is now the controlling review ledger. It establishes that these are twelve distinct conflict ecologies, not twelve fully narrated wars and not parts of one cosmic conspiracy. A local episode may belong to an ecology without sharing the event, participants, evidence, relic, office, institution, route, or consequence of another episode under the same heading.
+
+The reviewed total is four `retain`, eight incorporated `revise`, zero `defer`, and zero `reject`. The former duplicate companion summaries have been removed from [[The Historical Seed Garden]] so the twelve umbrellas remain in the author-only research nursery. Independently promoted Patron and Great-Person traces remain untouched. This review adds no Garden trace and confers no canon status.
 
 ## Governing Theological Rule
 
@@ -131,41 +137,41 @@ At mass death, damaged thresholds, and intercepted soul routes, several powers m
 ### GP-I-01 — The War of Broken Standards
 
 - **Era and scale:** after the Great Rebellion and forced Yolk Exiles; recurrent fighting in unclaimed Shadow routes, later touching Giant-age ruins.
-- **Principal actors:** Broken Standards, Commission Husks, Unhoused Witnesses, early Idol Masks, Menhir court detachments, and rare named fallen spirits only where separately established.
+- **Principal actors:** mindless Broken Standards, limited-agency Commission Husks, full-agency Unhoused Witnesses, early Idol Masks, Menhir court detachments, and a rare named fallen spirit only if its unique dossier separately establishes presence.
 - **Source grammar:** Revelation 12; Hesiodic divine-generation war; *Cath Maige Tuired*; TES office and identity afterlife.
 - **Authorial substrate:** abandoned allegiance-patterns continue sorting the battlefield after their armies have gone. Idol Masks hunt commission remnants that expose their Throne's betrayed good. Menhir courts recover pathways or natural functions once joined to their sovereignty. Unhoused Witnesses sell true fragments while ensuring that no claimant reconstructs the whole account.
-- **Hard edge:** manifestations are torn apart, bound into obsolete commands, forced to attack former allies, or consumed as anchor material. These bodies are not surviving angels, but their suffering and agency must still be classified individually.
+- **Hard edge:** manifestations are torn apart, bound into obsolete commands, forced to attack former allies, or consumed as anchor material. Damage to a mindless Standard is not suffering; a Husk has only the agency its pattern permits; an Unhoused Witness can suffer and choose culpably. None is a surviving angel.
 - **Human aperture:** later Giant courts mine a broken front for weapons and mistake Commission Husks for captive gods. Human slaves learn that lowering a Standard can end a compulsory battle which defeating its followers only restarts.
-- **1360 AR trace:** banners that divide any expedition into hostile camps; a Husk that recognizes an unnamed saint as the bearer of a missing office; witness tokens recording the First War from no human viewpoint.
+- **1360 AR trace:** banners that divide any expedition into hostile camps; a Husk that misclassifies the shape of an unnamed saint's present commission as its missing bearer; witness tokens recording one First-War scene from no human viewpoint. The saint neither inherits nor completes the old office.
 - **Open facts:** battlefield, participants, which commission is exposed, and whether any named fallen angel was present.
 - **Protected boundaries:** do not provide a complete Great Rebellion chronology, identify every Menhir or Idol origin, or turn remnants into soul fragments.
-- **Planting status:** `nursery-unreviewed`.
+- **Planting status:** `reviewed-revise`; continuity and saint-office corrections incorporated.
 
 ### GP-I-02 — The Sevenfold Feast War
 
 - **Era and scale:** deep Giant imperial history through the Closing Courts; a succession of Shadowland proxy wars around Giant sacrifice, conquest, praise, appetite, dynastic marriage, hoarding, and enforced idleness.
-- **Principal actors:** dependent Masks and occasional Archmasks of all seven Idol Thrones; Giant cult offices; counterfeit ancestral patrons; no promoted Regnant succession.
+- **Principal actors:** dependent Masks and occasional Archmasks serving different Idol Thrones across different local conflicts; Giant cult offices; counterfeit ancestral patrons; no promoted Regnant succession. No local war is required to contain all seven Hungers.
 - **Source grammar:** Wisdom 13–15; Hesiodic and Purāṇic divine-war composites; the Great Game's structural rivalry; TES Mask and office accretion.
-- **Authorial substrate:** no Idol wishes another to monopolize a civilization's vice architecture. Each Hunger repeatedly captures the consequence of another's work: Wrath supplies prisoners, Pride assigns rank, Greed prices bodies, Gluttony consumes them, Lust converts kinship into access, Envy rewrites inheritance, and Sloth prevents repair.
+- **Authorial substrate:** “Sevenfold Feast War” is a later umbrella for successive proxy conflicts, not one campaign or one Giant pantheon. Across the aggregate record, no Idol wishes another to monopolize a civilization's vice architecture: Wrath supplies prisoners, Pride assigns rank, Greed prices bodies, Gluttony consumes them, Lust converts kinship into access, Envy rewrites inheritance, and Sloth prevents repair. Any one rite may involve only one or two of those captures.
 - **Hard edge:** captive sacrifice, dynastic rape, famine feasts, mutilation, kin murder, and abandoned populations remain the real substance of the network. The Masks do not create those human choices, but cultivate and contest them.
 - **Human aperture:** Giant priests believe they are negotiating one pantheon. In reality, the same altar changes Idol routes several times while retaining its public genealogy.
 - **1360 AR trace:** one cult complex with seven incompatible underlayers; weapons that answer a different vice than their inscriptions; a feast liturgy whose missing verse changes which Mask receives the offering.
-- **Open facts:** whether one autonomous Archmask survived, which Giant horizon hosted the decisive feast, and whether any apparent consumed god was a Mask, office, or counterfeit ancestor.
+- **Open facts:** whether one autonomous Archmask survived a selected local conflict, which Giant horizons produced the major recensions, and whether any apparent consumed god was a Mask, office, or counterfeit ancestor.
 - **Protected boundaries:** no true succession, no single Idol cause of Giant civilization, and no culture-wide inherited guilt.
-- **Planting status:** `nursery-unreviewed`.
+- **Planting status:** `reviewed-revise`; seven-way simultaneity and totalizing pantheon language removed.
 
 ### GP-I-03 — The Hunt of the Escaped Courts
 
 - **Era and scale:** collapse of the Giant world and the first centuries after the Unbinding; Egg White routes used by fleeing Giant courts and their dependants.
-- **Principal actors:** genuine Giant Continuants, counterfeit ancestor-patterns, early anchor-owning Patrons, High Hunt court-beings, route predators, Ossuary Minds in formation, and Idol proxies following stolen feeding architecture.
+- **Principal actors:** genuine Giant Continuants, counterfeit ancestor-patterns, early anchor-owning Patrons, High Hunt court-beings, route predators, separately classified Great Drift beings where evidenced, and Idol proxies following stolen feeding architecture.
 - **Source grammar:** Exodus 14; European Wild Hunt families; Aesir–Vanir hostage and settlement grammar; the Titan and Giant flight material already fixed for the World Egg.
 - **Authorial substrate:** some Giant courts flee bodily, some send copies, some move only their offices, and some lie about escaping. Hunters pursue different quarry for incompatible reasons: Menhir law seeks a violated natural claim; Idols seek lost anchors and worship systems; Patrons seek mass and tenants; abandoned dependants seek the ruler who took their refuge with it.
 - **Hard edge:** refuges are foreclosed mid-crossing, dependants are cut loose as ballast, proxy children and copied ancestors are sacrificed to confuse pursuit, and whole caravan-demiplanes fray when rulers withdraw upkeep.
 - **Human aperture:** a few human households enter the Egg White as servants, hostages, agents, or abandoned tenants without becoming Giant continuities or losing their souls.
 - **1360 AR trace:** wandering palace caravans, carcass thrones, an ancestor who remembers the wrong childhood, and a hunt-horn that opens only toward the court it once pursued.
-- **Open facts:** the one genuine Giant escape selected for later dossier, the hunter's exact Menhir jurisdiction, and the fate of every human tenant.
+- **Open facts:** which reviewed local escape receives a full dossier, each hunter's exact jurisdiction, and the fate of every human tenant.
 - **Protected boundaries:** Nythalum's imperial Ascension remains physically lunar; no Hunt explains the Glass or collects every escaped Giant.
-- **Planting status:** `nursery-unreviewed`.
+- **Planting status:** `reviewed-revise`; early Ossuary presumption removed and local escape identities separated.
 - **Developed reviewed episode:** [[First Unknown Histories - Six Recoverable Lore Capsules#UH-01 — The Caravan That Cast Off Its Wards]]; separated from adjacent nursery roots in [[First Unknown Histories - Collision and Disposition Review#UH-01 — Separate Decoy-Caravan Crime]].
 
 ## Block II — Exodus, Scattering, First Kings, City-States, and Stars
@@ -181,7 +187,7 @@ At mass death, damaged thresholds, and intercepted soul routes, several powers m
 - **1360 AR trace:** a valley where four funerary calendars overlap; weather weapons that still call a wrong season; a Menhir feast at which no prayer may call the defeated pressure wicked.
 - **Open facts:** number of conjunctions, regional recensions, and whether any human hero crossed more than one.
 - **Protected boundaries:** natural catastrophe is not divine moral judgement; no Menhir replaces the Lord's providence or becomes a saint.
-- **Planting status:** `nursery-unreviewed`.
+- **Planting status:** `reviewed-retain`; later compression of separate conjunctions is already explicit.
 
 ### GP-II-02 — The War of the Last Map
 
@@ -191,24 +197,24 @@ At mass death, damaged thresholds, and intercepted soul routes, several powers m
 - **Authorial substrate:** Hell's dominions require stable refusal, named prisoners, enforceable roads, and repeatable offices. Abyssal wounds dissolve the distinctions those tyrannies need. Map-lords contain wounds to preserve dominion, then direct them into rival territory; every such weapon opens another contradiction.
 - **Hard edge:** damned bearers are forced into devil mantles, prisoners are mutilated into boundary markers, dominions disappear from causal memory, and summoned offices carry the war into mortal prisons and battlefields. No soul is annihilated, but injury and captivity remain real.
 - **Human aperture:** summoners believe they are choosing the disciplined side against monsters or the liberating side against jailers. Both offers conceal the human cost that sustains the front.
-- **1360 AR trace:** infernal maps whose borders are made from named refusals; veterans manifesting offices from wars they never fought in life; a sealed wound that both a devil marshal and a saintly threshold commission refuse to let the other control.
+- **1360 AR trace:** infernal maps whose borders are made from named refusals; damned persons appointed after death to offices from wars they never fought while alive; a sealed wound coveted by a devil marshal while a separately commissioned saint or angel protects named prisoners or soul passage without taking custody of Hell's frontier.
 - **Open facts:** no single beginning, capital, commander, or final front is fixed; individual dominions require dossiers.
 - **Protected boundaries:** neither side is good; Abyssal wounds are not a people; the Adversary does not become a dark emperor; heavenly forces do not defend Hell's tyranny.
-- **Planting status:** `nursery-unreviewed`.
+- **Planting status:** `reviewed-revise`; postmortem office and bounded heavenly intervention made explicit.
 - **Developed reviewed episode:** [[First Unknown Histories - Six Recoverable Lore Capsules#UH-03 — The Prisoners Who Became a Border]]; bounded as one mortal aperture in [[First Unknown Histories - Collision and Disposition Review#UH-03 — One Mortal Aperture into a Larger War]].
 
 ### GP-II-03 — The Crown-Market of Shadows
 
-- **Era and scale:** First Kings through the Age of Stars; recurring Shadow market appearing near contested coronations and extinct dynasties.
+- **Era and scale:** first documented from First Kings through the Age of Stars, with later recurrences and imitations near contested coronations and extinct dynasties.
 - **Principal actors:** Pride, Envy, Greed, Wrath, and Lust Masks; royal office-personas; dead ruler residue; Giant ancestor claimants; occasional Patrons leasing proof or ancestry.
 - **Source grammar:** 1 Kingdoms/1 Samuel 8–31; Wisdom 14; Greek and Norse contested kingship; TES mantling and role pressure.
-- **Authorial substrate:** Masks do not merely sponsor candidates. They trade elements of kingship—victory, pedigree, beauty, vengeance, treasury, fertility, acclamation, and the right to erase a predecessor—then fight over which element defines the crown.
+- **Authorial substrate:** “Crown-Market” is a later scholarly umbrella, not proof of one continuous demiplane. In its local recensions, Masks do not merely sponsor candidates. They trade elements of kingship—victory, pedigree, beauty, vengeance, treasury, fertility, acclamation, and the right to erase a predecessor—then fight over which element defines the crown. Later courts may copy the rite without inheriting any ancient market's continuity.
 - **Hard edge:** claimants murder kin, seize spouses, destroy archives, sell dependants, and execute defeated households to satisfy the purchased definition. The market exploits those acts but cannot manufacture a human soul or make coercion legitimate.
 - **Human aperture:** a ruler may refuse one offer and still accept another. A court can expose the market while remaining guilty of the murders by which it sought entry.
 - **1360 AR trace:** crowns with incompatible Mask signatures; coronation clauses that name no human beneficiary; an extinct royal persona still bidding for a body it cannot lawfully possess.
-- **Open facts:** whether the market is one recurring demiplane, several copied rites, or a family of Mask courts.
+- **Open facts:** whether any two recensions share an actual route or only a copied rite, and which royal office-personas possess agency in their own right.
 - **Protected boundaries:** no crown creates kingship, no Mask becomes the human ruler, and no transaction proves Regnant succession.
-- **Planting status:** `nursery-unreviewed`.
+- **Planting status:** `reviewed-revise`; the title now governs a family of local recensions rather than a presumed single institution.
 
 ## Block III — Atherian Glory, Redeemer, Conversion, and Long Frontier
 
@@ -223,7 +229,7 @@ At mass death, damaged thresholds, and intercepted soul routes, several powers m
 - **1360 AR trace:** rival feast rolls, several active objects under one name, a saint who appears in none of the expected forms, and one counterfeit still demanding punishment of descendants.
 - **Open facts:** selected martyr, locality, genuine manifestation, and which later Life preserves the earthly person most accurately.
 - **Protected boundaries:** devotion does not create a saint; destroying a counterfeit does not injure the redeemed soul; no martyrdom mechanically produces holiness.
-- **Planting status:** `nursery-unreviewed`.
+- **Planting status:** `reviewed-retain`; distributed identity conflict and saintly limits already hold.
 
 ### GP-III-02 — The War of the Closed Doors
 
@@ -231,25 +237,25 @@ At mass death, damaged thresholds, and intercepted soul routes, several powers m
 - **Principal actors:** displaced Menhir court-beings, dependent Idol Masks, expelled temple offices, Patron claimants buying relic mass, Sinner restorers, church investigators, and occasional saintly or angelic commissions protecting persons rather than property blocs.
 - **Source grammar:** 4 Kingdoms/2 Kings 23; Bel and the Dragon; Letter of Jeremiah; Acts 19; *Cath Maige Tuired*'s contested sovereignty and maiming grammar.
 - **Authorial substrate:** closing a temple can end fraud, interrupt an Idol feeder, violate a real Menhir compact, displace innocent workers, release a bound office, and expose valuable anchor material simultaneously. Powers compete over what the closed door used to hold and who inherits its obligations.
-- **Hard edge:** custodians are killed, sanctuaries smashed, converts and holdouts coerced, relics looted, retaliatory mobs burn churches and older shrines, and displaced court-beings take bodies when old pacts are broken carelessly.
+- **Hard edge:** custodians are killed, sanctuaries smashed, converts and holdouts coerced, relics looted, and retaliatory mobs burn churches and older shrines. Displaced court-beings may assume court-made manifestations, bargain for proxies, coerce hosts, or ride altered creatures when old pacts are broken carelessly; any occupied human remains a distinct soul whose agency and injuries require a separate ruling.
 - **Human aperture:** the Children of the Closed Temple and related investigators encounter a war already in progress whose sides do not align neatly with old faith and new faith.
 - **1360 AR trace:** doors that admit only former enemies acting together; a church crypt built around a still-valid river compact; Idol Masks using the memory of murdered custodians as proof of their own innocence.
 - **Open facts:** exact sanctuary, which compact was lawful, whether a reputed saint ever appeared, and final custody of the dangerous objects.
 - **Protected boundaries:** real Menhir response does not vindicate idolatry; real Idol presence does not excuse collective punishment; miracles prove only their commission.
-- **Planting status:** `nursery-unreviewed`.
+- **Planting status:** `reviewed-revise`; body-taking language and local closure identities clarified.
 
 ### GP-III-03 — The Long Rent War
 
 - **Era and scale:** 612–884 AR Long Frontier; Egg White routes paralleling frontier roads, wells, translation houses, and caravan jurisdictions.
 - **Principal actors:** Anchor-Lords, Giant Continuants, Driftkin refuges, crafted route systems, Ossuary Minds, stranded Menhir courtiers and Idol Masks, human institutions, and the Creditor's agents where already permitted by canon.
 - **Source grammar:** Tobit's journey; Daniel 10's delayed messenger; Aesir–Vanir exchange and hostage settlement; dangerous hospitality; modern planar-trade-war structure.
-- **Authorial substrate:** no single empire controls the frontier's Astral correspondences. Patrons fight over safe arrival, translation, water-memory, storage, and return tethers by buying one another's debts, stealing Current Shepherds, moving anchor reefs, and making rival refuge upkeep impossible.
+- **Authorial substrate:** no single empire controls the frontier's Astral correspondences. “Long Rent War” is the later juristic name for many overlapping foreclosures, route contests and refuge crises, not one command or continuous front. Patrons fight over safe arrival, translation, water-memory, storage, and return tethers by buying one another's debts, stealing Current Shepherds, moving anchor reefs, and making rival refuge upkeep impossible.
 - **Hard edge:** default strands travelers, collapses homes, repossesses leased bodies or memories, separates families across routes, and forces refugees into service. Clear contracts can still distribute lethal risk to people who never signed them.
 - **Human aperture:** physicians, interpreters, jurists, keel-hands, and caravan guards become valuable because Material witness can settle distinctions Astral proxies deliberately blur.
 - **1360 AR trace:** a border inn with doors owned by rival patrons; Driftkin communities remembering a human court's betrayal; an inherited route debt whose supposed original creditor is a copied Giant ancestor.
-- **Open facts:** the central route, parties, relation to the Creditor, and whether one fair Patron survives into the present.
+- **Open facts:** whether any two major recensions share a creditor, route, or underlying default; any relation to the Creditor; and whether one fair Patron survives into the present.
 - **Protected boundaries:** Patron is a role, not a race; the war does not explain the Long Frontier as a whole; no contract owns judgement or a human soul.
-- **Planting status:** `nursery-unreviewed`.
+- **Planting status:** `reviewed-revise`; one-war and one-route implications removed.
 
 ## Block IV — Fall, Split, Plague, Reformation, and Present
 
@@ -264,21 +270,21 @@ At mass death, damaged thresholds, and intercepted soul routes, several powers m
 - **1360 AR trace:** mutually hostile icons sharing one unforgeable correction; rival relics both authentic but belonging to different people with the same name; a Patron manifestation whose contract language survives under a saint's title.
 - **Open facts:** saint, churches' later rulings, which appearances were genuine, and whether reconciliation of the records is possible.
 - **Protected boundaries:** one saint remains one soul; neither church is an Idol; a saint cannot be summoned or made partisan by custody.
-- **Planting status:** `nursery-unreviewed`.
+- **Planting status:** `reviewed-retain`; shared-saint identity and bounded commission are already distinct.
 - **Developed reviewed episode:** [[First Unknown Histories - Six Recoverable Lore Capsules#UH-06 — The Saint Who Guarded the Enemy Gate]]; separated from the Two Ferries in [[First Unknown Histories - Collision and Disposition Review#UH-06 — Inland Military Saint, Not the Two Ferries]].
 
 ### GP-IV-02 — The Ossuary Crown Dispute
 
 - **Era and scale:** Grey Sweat and Black Wind; one Egg White ossuary belt receiving wrecked plague refuges, copied memories, abandoned route offices, and disputed remains.
-- **Principal actors:** a maturing Ossuary Mind, funeral and archive Patrons, Gluttony and Envy proxies, damned name-strippers, Driftkin salvagers, human institutions, and a threshold saint or angel only if bound souls or unlawful interception establish a commission.
+- **Principal actors:** one mature Ossuary Mind, funeral and archive Patrons, Gluttony and Envy proxies, damned name-strippers, Driftkin salvagers, human institutions, and a threshold saint or angel only if bound souls or unlawful interception establish a commission.
 - **Source grammar:** Tobit 1–2; 2 Maccabees' burial and martyr memory; Ezekiel 37 as restoration imagery that must not become necromantic method; TES composite-identity grammar.
-- **Authorial substrate:** the Ossuary Mind is a new Astral person assembled from wreckage, not the collective dead. Several powers nevertheless try to crown it as the voice, owner, or resurrection of the plague dead. It may accept the title for protection while knowing the claim is false.
+- **Authorial substrate:** by the time of the dispute, the Ossuary Mind is a mature, full-agency `astral-pattern` person assembled from wreckage, not the collective dead. Earlier accretion did not itself contain a person before coherent agency emerged. Several powers nevertheless try to crown it as the voice, owner, or resurrection of the plague dead. It may accept the title for protection while knowing the claim is false.
 - **Hard edge:** decomposing bodies, abandoned kin, mass graves, stolen remains, executed carriers, coerced memory extraction, and trapped souls where separately evidenced remain real. The Mind's accurate voices can retraumatize survivors and falsely condemn descendants.
 - **Human aperture:** burial crews and descendants must distinguish sacred remains, ordinary remains, residue, copied testimony, bound souls, and the new Mind's own rights.
 - **1360 AR trace:** a salvage crown speaking in thousands of voices; a plague register that changes when returned to Material ground; competing churches and Patrons each holding genuine but incomplete custody claims.
-- **Open facts:** whether full agency has emerged, whether any soul is trapped, which remains must be returned, and whether destroying the crown would murder a new person.
+- **Open facts:** whether the salvage crown is the Mind's coherence core or only one manifestation, whether any soul is separately trapped, which remains must be returned, and whether destroying the crown would kill the Mind.
 - **Protected boundaries:** no collective human soul, no automatic resurrection, no explanation of the Quiet Ninth, and no saint manufactured from plague memory.
-- **Planting status:** `nursery-unreviewed`.
+- **Planting status:** `reviewed-revise`; maturity, agency, personhood and crown-body uncertainty separated.
 
 ### GP-IV-03 — The Proof That Attracted Three Heavens
 
@@ -291,7 +297,7 @@ At mass death, damaged thresholds, and intercepted soul routes, several powers m
 - **1360 AR trace:** the starting object and three incompatible petitions; all consequences remain forward-facing.
 - **Open facts:** proof, city, claimants, manifestation status, companions, choices, casualties, and outcome.
 - **Protected boundaries:** the Forward Rule; no ninth Held Proof; no secret master plot; no guaranteed saintly manifestation; no claimant gains final authority over judgement.
-- **Planting status:** `nursery-unreviewed`.
+- **Planting status:** `reviewed-retain`; it remains a Forward-Rule pressure around one existing proof.
 
 # Concrete Cause, Effect, and Discovery
 
@@ -301,7 +307,7 @@ The titles above describe conflict ecologies, not explanations. The following ta
 |---|---|---|---|---|
 | GP-I-01 — Broken Standards | an expedition enters the operating range of an abandoned command-banner | the banner assigns bodies to old sides and issues a repeated order; lowering, obscuring, or disconnecting the command mark ends that order locally | companions turn on one another, speak obsolete commands, stop when the mark is broken, and remember different portions afterward | compare banner damage, command vocabulary, bodily injuries, and sites where lowering one specific mark ended recruitment |
 | GP-I-02 — Sevenfold Feast | a Giant institution performs sacrifice, marriage, punishment, praise, hoarding, feasting, or enforced idleness through a stable public rite | a Mask redirects the rite's symbols, proxies, offerings, or promised reward so that its own Hunger receives access; another Mask tries to seize the same consequence | an altar begins accepting a different offering, a weapon answers a vice unlike its inscription, or the same victims are reclassified by successive cult offices | stratigraphy, missing verses, offering residue, office records, proxy behavior, and tests that change only one ritual condition at a time |
-| GP-I-03 — Escaped Courts | a Giant court moves an anchor and cannot carry or maintain all dependants | rulers transfer mass, close a gate, cut off a district, offer copies as decoys, or sell tenants for passage; hunters follow the violated claim, stolen anchor, or fleeing court | roads end at severed foundations, a district loses gravity or shelter, copied ancestors give incompatible memories, and survivors name who closed the gate | tenant petitions, anchor scars, route debris, continuity tests, household rolls, and comparison between the court's protected and abandoned wards |
+| GP-I-03 — Escaped Courts | a Giant court moves an anchor and cannot carry or maintain all dependants | rulers transfer mass, close a gate, cut off a district, offer copies as decoys, or sell tenants for passage; hunters follow the violated claim, stolen anchor, or fleeing court | roads end at severed foundations, a district loses gravity or shelter, copied ancestors give incompatible memories, and survivors name who closed the gate | use petition and anchor evidence for an abandonment case, or decoy itineraries, route carcasses and conflicting ancestor-patterns for a pursuit fraud; no carrier from one local episode identifies another |
 | GP-II-01 — Unfinished Seasons | a Giant recurrence engine continues running after the court that scheduled it has collapsed | a Menhir pressure completes, preserves, intensifies, or opposes the engine's unfinished process according to its natural jurisdiction | frost preserves bodies but kills crops, a plague garden blooms out of season, or one valley alternates incompatible seasonal effects at a fixed work site | locate the damaged engine, establish its old schedule, compare growth rings and burial layers, and identify which human duty actually stops one recurrence |
 | GP-II-02 — Last Map | a map-lord captures or opens an Abyssal contradiction near a rival boundary | its officers force bearers to carry the wound into a named road, prison, or district; the wound erases distinctions the dominion needs, so new markers and prisoners are installed to contain it | maps cease matching travelled distance, prisoners become living boundary points, records lose causal order, and new fortifications reproduce around the gap | compare independent maps, prisoner bodies, office mandates, route failures, and the historical contradiction whose closure weakens the wound |
 | GP-II-03 — Crown-Market | a coronation, disputed inheritance, or public royal image creates an office that several powers can use | human claimants perform bargains, confiscations, marriages, executions, praise rites, or erasures; Masks and Patrons offer a bounded advantage through those chosen acts | the same crown or title produces different responses under different rites, victories generate incompatible supernatural debts, and erased heirs persist in records or counterclaims | reconstruct the human bargain, office procedure, victims, offered benefit, later debt, and response tests; resemblance alone is insufficient |
@@ -309,7 +315,7 @@ The titles above describe conflict ecologies, not explanations. The following ta
 | GP-III-02 — Closed Doors | authorities close or destroy a sanctuary whose rites simultaneously feed, bind, defraud, employ, or fulfill different obligations | custodians, converts, looters, court-beings, Masks, Patrons, and investigators each seize or abandon a particular object, office, worker, compact, or anchor | one fraud stops, one Mask loses access, one river or place compact fails, workers are dispossessed, and a released office continues issuing obsolete commands | inventory the pre-closure functions separately, identify who performed each, test surviving objects, record casualties, and observe which response ends when its actual obligation is repaired |
 | GP-III-03 — Long Rent | one Patron buys a debt, steals an upkeep worker, redirects a current, or withdraws an anchor share from a rival refuge | the owner enforces the acquired term or stops the labor, mass, memory, water, translation, or route service keeping the place stable | doors change destination, homes collapse or lose habitable law, travelers are stranded, and refugees must work for the new owner to regain exit | contracts, witness standing, upkeep ledgers, route tests, displaced households, and proof that the claimed creditor is a person, copy, office, or fraud |
 | GP-IV-01 — Common Saints | divided institutions demand that a shared saint validate seizure, war, jurisdiction, or exclusive custody | counterfeits and Patrons answer the politically useful request; a true saint, only if commissioned, acts at the bounded person or place actually entrusted | spectacular partisan signs conflict, while the least useful apparition may protect prisoners, graves, travelers, or enemies and rebuke reprisals | separate earthly biography, relic custody, contract language, icon changes, victims, manifestation limits, and corrections preserved by hostile traditions |
-| GP-IV-02 — Ossuary Crown | plague refuges, remains, copied memories, and abandoned offices accumulate around one stable Astral anchor | salvage patterns combine into a new speaking intelligence; other powers crown it, extract voices, assign ownership, or claim it is the collective dead | the Crown gives accurate but contextless voices, registers change on return to Material ground, and remains respond differently from any trapped soul separately found | distinguish physical remains, residue, copied testimony, bound souls, office responses, and evidence that the new intelligence makes choices not contained in the wreckage |
+| GP-IV-02 — Ossuary Crown | plague refuges, remains, copied memories, and abandoned offices accumulate around one stable Astral anchor | the accretion matures into a new full-agency Astral person; other powers crown it, extract voices, assign ownership, or claim it is the collective dead | the Crown gives accurate but contextless voices, registers change on return to Material ground, and remains respond differently from any trapped soul separately found | distinguish physical remains, residue, copied testimony, bound souls, office responses, and evidence that the mature Mind makes choices not contained in the wreckage |
 | GP-IV-03 — Three Heavens | one existing Held Proof works under a bounded condition and attracts three incompatible ownership claims | each claimant states one testable truth about provenance, custody, or behavior and adds one false inference that grants itself control | the object continues its narrow response while petitions predict incompatible wider meanings; changing one condition falsifies at least one claim | reproduce the bounded effect, trace custody, interview victims and witnesses separately, test each ownership inference, and leave every post-1360 decision open |
 
 These chains do not settle the open facts. They specify what must have happened for a claim to count as a historical event rather than a mystical label.
@@ -366,6 +372,7 @@ These chains do not settle the open facts. They specify what must have happened 
 ## Navigation
 
 - [[Mythic and Sacred History Research MOC]]
+- [[Great-Power Mythic Ecology - Collision and Disposition Review]]
 - [[Human Coherence and Discoverability Pass]]
 - [[Whole-History Mythic Planting Programme]]
 - [[The Historical Seed Garden]]

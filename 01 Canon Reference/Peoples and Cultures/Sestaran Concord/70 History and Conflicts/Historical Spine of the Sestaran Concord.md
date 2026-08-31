@@ -15,7 +15,7 @@ tags: []
 
 ## Braided Harbor Peoples and City Worlds
 
-Across the late Scattering and Hearth ages, local Orphaned communities, Ark-derived migrants, island pilots, refugees, captives, river traders and inland fair populations braid differently at each site. Harbor communities, river markets, island stations, inland fairs and mountain refuges develop independently. Fiorenzia, Sermora and Vardessa become cities before Atherian conquest; no single ancient Sestaran people precedes them.
+Across the late Scattering and Hearth ages, local Orphaned communities, southern war-settlers, other Ark-derived migrants, island pilots, refugees, captives, river traders and inland fair populations braid differently at each site. Early contact includes negotiated quarters and shared defense as well as armed occupation, grain seizure, slave markets and expulsions. Harbor communities, river markets, island stations, inland fairs and mountain refuges develop independently. Fiorenzia, Sermora and Vardessa become cities before later Atherian state conquest; no single ancient Sestaran people or proto-Atherian colony precedes them all.
 
 ## Atherian Incorporation
 

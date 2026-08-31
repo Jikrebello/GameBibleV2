@@ -13,7 +13,7 @@ tags: []
 ---
 # The Making of the Eclessians
 
-There is no such thing as "an Eclessian" in the same sense that there is an Ättar or a Jirahar. Eclessians are a **Braided people** produced through layered ethnogenesis: substrates, settlers, provincial populations and conquerors historically fused by a shared Church inheritance. Atherian-derived and Folk populations provide the largest recurrent strands, while Markish, Vesari and other regional histories make the braid different in every realm. Every realm's character, naming register and grudges follow from those layers.
+There is no such thing as "an Eclessian" in the same sense that there is an Ättar or a Jirahar. Eclessians are a **Braided people** produced through layered ethnogenesis: substrates, settlers, provincial populations and conquerors historically fused by a shared Church inheritance. Atherian-derived and Folk populations provide the largest recurrent strands, while Markish, Vesari and other regional histories make the braid different in every realm. Every realm's character, naming register and grudges follow from those layers. Creator-facing Greek and Latin registers describe different inherited institutions and historical textures; they do not identify ancient eastern and western Atherian races.
 
 ## The Layers
 

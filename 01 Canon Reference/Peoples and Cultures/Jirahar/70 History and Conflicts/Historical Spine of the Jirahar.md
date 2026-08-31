@@ -15,7 +15,9 @@ tags: []
 
 ## Exodus and Scattering
 
-The Great Prophet breaks Giant rule, leads humanity across the Glass, and dies near the end of the crossing. The proto-Jirahar preserve camp law, route memory, and the Scrolls.
+The Great Prophet's movement becomes the center of the Great Unbinding and leads the principal liberated remnant into the Glass. Approximately a century of refuge forms one people. The Prophet dies at the outward threshold around c. 2165 BR; no human office inherits his universal commission.
+
+After the southern war-settlement leagues depart, the ancestors of the Jirahar remain within the Near-Glass camp continuum. Between approximately c. 1950 and 1750 BR, water, distance, marriage, trade, raiding and reciprocal Tarkhan contact produce the proto-Jirahar emphasis on portable courts, route memory, burial obligation and the Scrolls. They do not emerge as a complete people at the end of the crossing.
 
 ## First Qiryath
 
