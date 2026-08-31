@@ -13,7 +13,7 @@ tags: []
 ---
 # The Making of the Eclessians
 
-There is no such thing as "an Eclessian" in the same sense that there is an Ättar or a Jirahar. Eclessia is a **layered ethnogenesis**: substrates, settlers, provincial populations, and conquerors historically fused by a shared Church inheritance. Every realm's character, naming register, and grudges follow from the layers that formed it.
+There is no such thing as "an Eclessian" in the same sense that there is an Ättar or a Jirahar. Eclessians are a **Braided people** produced through layered ethnogenesis: substrates, settlers, provincial populations and conquerors historically fused by a shared Church inheritance. Atherian-derived and Folk populations provide the largest recurrent strands, while Markish, Vesari and other regional histories make the braid different in every realm. Every realm's character, naming register and grudges follow from those layers.
 
 ## The Layers
 
@@ -23,7 +23,7 @@ There is no such thing as "an Eclessian" in the same sense that there is an Ätt
 
 **2. The Folk substrate.** The forest, river, and hill peoples whom the empire ruled unevenly: clan-land, hearth-law, seers, grove boundaries, federate soldiers, and old river-names. Many became Atherianized provincial populations and later Eclessians; others retained independent clan identity. Enaidfae names the old-rite confederacies among the living Folk, not the ancestry of every Eclessian with southern roots. See [[The Making of the Folk]].
 
-**3. The Vesari — a separate people of the Scattering.** Not Folk: their own exodus fragment, river-plain settlers of the far east, with princedoms, public moots, and bright gods of storm and hearth. The converted Vesari princedoms became **Virelia's substrate**; Orzova, Strazgorod, Helvgrad, and Radomir are Vesari names, and their princely-moot customs became the sabre-right elective tradition.
+**3. The Vesari — a Braided river people.** Not simply Folk and not their own Exodus fragment: Vesari identity formed when far-eastern river remnants, later Ark-derived migrants and absorbed local communities joined through settlement, war, marriage, moot-law and bright cults of storm and hearth. Their princedoms became **Virelia's substrate**; Orzova, Strazgorod, Helvgrad, and Radomir are Vesari names, and their princely-moot customs became the sabre-right elective tradition.
 
 **4. The Markish stock.** Born in the imperial age from garrison settlers and Folk intermarriage along the military frontier, they are a hard-handed, clan-proud, castle-building synthesis. Their naming register includes Korrheim, Brauvalis, Grenzburg, Adalmar, Reinhardt, and Weyn. Adalmar the Great was Markish, and the marches remember that Eclessia's greatest dynasty came from its roughest stock.
 

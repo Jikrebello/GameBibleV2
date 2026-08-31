@@ -13,7 +13,7 @@ tags: []
 ---
 # Historical Spine of the Ättar
 
-- **c. 2100-1900 BR - Southern settlement.** Related Folk and Ättar ancestors enter the cold forests, coasts, and valleys. The coastal and pastoral hall-world begins to separate from inland clan systems.
+- **c. 2300-1900 BR - Orphaned southern reassembly.** Related Folk and Ättar ancestors survive outside the Glass Ark and reconnect across cold forests, coasts and valleys after Giant rule collapses. The coastal and pastoral hall-world begins to separate from inland clan systems during the later part of this interval.
 - **c. 1900-1650 BR - First great halls.** Shipbuilding, drove routes, compensation assemblies, regional totem names, and seasonal Grobi musters become durable institutions.
 - **c. 1600 BR - [[War of the Empty Halls]].** A prolonged Grobi offensive destroys several southern settlements. Four ruling coalitions accept Mother Moon's firstborn bargain and become the ancestral pact lines.
 - **c. 1400-350 BR - Hall kingdoms.** Jarldoms, sea-kings, iron centers, and fortified winter territories rise and fall. Atherian traders and armies reach selected coasts without conquering the whole region.

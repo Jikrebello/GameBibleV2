@@ -26,8 +26,8 @@ This note bridges [[Prehistory Overview]] and the [[Atherian Imperial Age]]. It 
 ## Era Ladder
 
 1. [[Age of Chains]]: the Five Imperial Horizons and many lesser Giant polities enslave humanity and teach the world its first great lessons in tyranny, monumentality, forbidden science, and false divinity.
-2. [[Age of Exodus]]: the [[The Great Unbinding|Great Unbinding]] breaks Giant rule through converging judgement, revolt, civil war, and systemic collapse; the Great Prophet leads the principal liberated remnant across the [[Great Glass Desert]], while other human communities survive elsewhere.
-3. [[Age of Scattering]]: the freed peoples split, carrying fragments of the Prophet's teaching into different lands and survival strategies.
+2. [[Age of Exodus]]: the [[The Great Unbinding|Great Unbinding]] breaks Giant rule through converging judgement, revolt, civil war, and systemic collapse; the Great Prophet leads the principal liberated remnant into the [[Great Glass Desert]], while other human communities survive elsewhere. During [[The Glass Sojourn]], the mixed Ark host becomes one people.
+3. [[Age of Scattering]]: after the Prophet's death, the Glass people divide into three Ark-derived families; Orphaned communities continue independent reassembly; later contact produces Braided peoples.
 4. [[Age of Hearths and First Kings]]: villages, hill forts, river towns, ancestor laws, early Menhir pacts, priest-kings, and local cults emerge.
 5. [[Age of City-States]]: trade, writing, archives, walls, towers, ports, oasis courts, and elemental engineering create the first urban powers.
 6. [[Age of Stars]]: Atherian city-states consolidate around star cults, civic law, road-building, archives, astronomy, and imperial destiny.
@@ -39,10 +39,10 @@ This note bridges [[Prehistory Overview]] and the [[Atherian Imperial Age]]. It 
 - **Jirahar:** communities with the strongest claim to preserving the Great Prophet's original teaching through caravans, tower towns, law, memory, and prophecy.
 - **Arqeshites:** eastern river-city peoples who create an early mortal empire of canals, estates, deportation, and royal sacred power before being absorbed by the expanding Atherian world.
 - **Ahl-e-Ahd:** desert oath and water-right tribes whose covenant memory hardens into contract law, obligation, and later cosmic contract doctrine.
-- **Folk and Ättar:** related southern cold-frontier populations that develop into distinct peoples. Folk institutions center on clan territory and local courts; settled Ättar halls later accept Mother Moon's firstborn pact during the [[War of the Empty Halls]].
-- **Sestara:** harbor and archive-city cultures that survive by monetizing memory, art, finance, ships, legal skill, and secrets.
-- **Vesari:** Slavic-coded river-plain settlers of the far east, a separate Scattering people; their converted princedoms become Virelia's substrate (see [[The Making of the Eclessians]]).
-- **Tarkhan, Nsizwa, and others:** independent heirs of the Scattering, not late cultural add-ons.
+- **Folk and Ättar:** related Orphaned southern cold-frontier populations that develop into distinct peoples. Folk institutions center on clan territory and local courts; settled Ättar halls later accept Mother Moon's firstborn pact during the [[War of the Empty Halls]].
+- **Tarkhan and Nsizwa:** independent Orphaned peoples whose ancestors survive and reassemble outside the Ark in different regions and under different pressures.
+- **Sestara:** later Braided harbor and archive-city populations that survive by monetizing memory, art, finance, ships, legal skill, and secrets; no single ancient Sestaran people exits the Glass.
+- **Vesari:** a later Braided river-plain people of the far east, formed from local remnant populations and arriving Ark-derived groups; their converted princedoms become Virelia's substrate (see [[The Making of the Eclessians]]).
 
 ## Geography Lock
 

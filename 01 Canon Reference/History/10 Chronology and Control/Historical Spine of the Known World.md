@@ -23,17 +23,17 @@ This note is the causal backbone of the setting. It explains how the present con
 
 ## 2. Age of Exodus
 
-[[Age of Exodus]] begins when the Great Prophet's movement becomes the center of the [[The Great Unbinding|Great Unbinding]] and leads the principal liberated remnant across the [[Great Glass Desert]]. Other human communities survive outside that host. Liberation is real, but the Prophet's death and the failed sanctuary leave the principal ancestral convergence of the Scattering freed before it is fully formed.
+[[Age of Exodus]] begins when the Great Prophet's movement becomes the center of the [[The Great Unbinding|Great Unbinding]] and leads the principal liberated remnant into the [[Great Glass Desert]]. Other human communities survive outside that host. During [[The Glass Sojourn]], approximately a century of provision, law, labor, worship, language, marriage and burial forms the mixed Ark host into one people. The Prophet dies at the outward threshold as the last direct witness to the Giant world; the later southern sanctuary fails.
 
-**Inherited wound:** every later culture inherits deliverance, disobedience, contested memory, and the question of what was lost when unity shattered.
+**Inherited wound:** a real unity formed under deliverance cannot survive land, succession and possession. Ark descendants inherit its divided witness; Orphaned peoples inherit the fallen world it escaped.
 
 ## 3. Age of Scattering
 
-[[Age of Scattering]] turns one exodus into many peoples: proto-Atherians, Jirahar, proto-Ahl-e-Ahd, southern ancestors of the Folk and Ättar, the Vesari river-folk of the east, Sestaran harbor peoples, Tarkhan, Nsizwa, and others.
+[[Age of Scattering]] contains three overlapping processes. The one Glass people divides into proto-Atherians, proto-Jirahar and proto-Ahl-e-Ahd. Folk, Ättar, Tarkhan and Nsizwa develop through independent Orphaned reassemblies among communities that survived outside the Ark. Sestaran harbor populations and Vesari emerge later as Braided peoples; later Eclessians braid Atherian provincial, Folk, Markish, Vesari and other regional layers.
 
 In the northern dry belt, Tarkhan communities develop western camel-and-well circuits and eastern hunting and herding circuits long before Atheria falls. Covenant seizure of the Nine Wells in 558 AR creates a frontier wound; the Atherian collapse later supplies the horses of the First Catch without creating Tarkhan civilization from nothing.
 
-**Inherited wound:** no people keeps the whole Exodus intact, but every people can claim some fragment of it.
+**Inherited wound:** no Ark-derived people keeps the whole Exodus intact, no Orphaned people escapes the wreckage of Giant rule, and later Braided peoples inherit several memories that cannot be made seamless.
 
 ## 4. Age of Hearths and First Kings
 

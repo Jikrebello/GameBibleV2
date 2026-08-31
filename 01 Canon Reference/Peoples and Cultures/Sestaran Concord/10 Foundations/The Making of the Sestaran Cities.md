@@ -13,11 +13,13 @@ tags: []
 ---
 # The Making of the Sestaran Cities
 
-Sestara did not begin as one people or break from Atheria in one revolution. Its cities have different ages, languages, charters, and memories of empire.
+Sestara did not begin as one people or break from Atheria in one revolution. The harbor populations are **Braided peoples**, not a separate branch of the Glass Ark. Their cities have different ages, ancestral mixtures, languages, charters and memories of empire.
 
 ## Before Atheria
 
-Fiorenzia grew where river roads entered fertile highlands. Sermora began as rival island harbors and pilot communities. Vardessa grew around seasonal fairs at the Three Roads Basin. The Black Spire predates all surviving records; Vorthara accumulated refugees, specialists, and forbidden workshops around a structure no empire fully understood.
+Across the late Scattering and early Hearth ages, local Orphaned survivors, Ark-derived migrants, island households, river communities, refugees, captives and traders joined differently at each harbor and road junction. Fiorenzia grew where river roads entered fertile highlands. Sermora began as rival island harbors and pilot communities. Vardessa grew around seasonal fairs at the Three Roads Basin. The Black Spire predates all surviving records; Vorthara accumulated refugees, specialists, and forbidden workshops around a structure no empire fully understood.
+
+No single founding migration created all the cities, and modern **Sestaran** identity is chiefly civic and diplomatic rather than proof of one ancient ancestry.
 
 ## Atherian Rule
 
@@ -41,4 +43,3 @@ Shared notarial habits, trade speech, Old-Church inheritance, mercenary institut
 
 - [[Historical Spine of the Sestaran Concord]]
 - [[Sestaran Citizenship and Office Register]]
-

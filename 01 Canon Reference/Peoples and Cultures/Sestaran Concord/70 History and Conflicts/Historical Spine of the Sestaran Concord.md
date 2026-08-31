@@ -13,9 +13,9 @@ tags: []
 ---
 # Historical Spine of the Sestaran Concord
 
-## Harbor Peoples and City Worlds
+## Braided Harbor Peoples and City Worlds
 
-After the Scattering, harbor communities, river markets, island pilots, inland fairs, and mountain refuges develop independently. Fiorenzia, Sermora, and Vardessa become cities before Atherian conquest.
+Across the late Scattering and Hearth ages, local Orphaned communities, Ark-derived migrants, island pilots, refugees, captives, river traders and inland fair populations braid differently at each site. Harbor communities, river markets, island stations, inland fairs and mountain refuges develop independently. Fiorenzia, Sermora and Vardessa become cities before Atherian conquest; no single ancient Sestaran people precedes them.
 
 ## Atherian Incorporation
 

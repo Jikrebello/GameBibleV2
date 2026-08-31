@@ -168,7 +168,7 @@ The remnant is preserved for a future it has not earned by collective innocence.
 
 ## The Great Unbinding in Eight Movements and a Prologue
 
-The Age of Exodus spans c. 2300–2260 BR. These movements overlap and should not be reduced to eight equal years or eight canonical plagues.
+The Great Unbinding spans approximately c. 2300–2260 BR inside the longer c. 2300–2160 BR Age of Exodus. These movements overlap and should not be reduced to eight equal years or eight canonical plagues. [[The Glass Sojourn]] controls the following century of refuge and people-formation.
 
 ### Prologue. The Closing-Court Crisis — before c. 2300 BR
 
@@ -335,11 +335,11 @@ The lands behind the host do not become one empty ruin field. They fragment into
 
 This is why later northern ruins can contain live machines, sealed courts, copied rulers, human graves, autonomous client archives, hungry Masks, and contradictory successor claims without one answer applying to all of them.
 
-### 8. The Intended Landing and Failed Sanctuary
+### 8. The Glass Refuge and Later Failed Sanctuary
 
 The Noahic story does not end when the Ark survives the water. It ends with disembarkation, worship, covenant, cultivation, and the danger that the preserved family remains human and fallible.
 
-The World Egg already possesses its transformed equivalent: a sanctuary intended to hold the liberated host for three generations before final settlement. The sanctuary could plausibly have enabled the host to:
+The World Egg now separates two stages. The **Glass refuge** is commanded and substantially successful: over approximately c. 2265–2165 BR it enables the host to:
 
 - treat plague and war trauma;
 - compile camp rulings without making every emergency measure eternal;
@@ -350,11 +350,11 @@ The World Egg already possesses its transformed equivalent: a sanctuary intended
 - prevent the first armed faction from claiming the whole liberated inheritance;
 - permit the moving ark to become a formed people before it became many nations.
 
-The sanctuary was not successfully established. The Prophet dies near the threshold around c. 2265 BR and the Scattering begins by c. 2260 BR.
+After that long formation, a distinct **southern sanctuary** is intended to hold the liberated people together for three generations during settlement. It is not successfully established. The Prophet dies near the outward threshold around c. 2165 BR as the last living direct witness to the Giant world, and Ark Scattering begins by c. 2160 BR.
 
 The command and the failed landing may be fixed without simplifying the Prophet's death. Traditions can continue to dispute refusal, murder, exhaustion, panic, rival counsel, divine judgement, or mystery. No present seed should casually settle the responsibility.
 
-The historical consequence is clear even if guilt is not: humanity survives before it has completed the institutions needed to live together after survival.
+The historical consequence is clear even if guilt is not: the Ark host forms a real common people and mature institutions in refuge, but that unity does not survive land, succession and possession after the Prophet's death.
 
 ## Imperial Plague and Collapse Matrix
 
@@ -453,9 +453,9 @@ The same event should produce several incomplete but meaningful recensions:
 
 - **Proto-Jirahar memory:** names, commands, camps, burial registers, road songs, warning sequences, the Prophet's disputed failure, and which rulings truly descend from the road.
 - **Proto-Ahl-e-Ahd memory:** water, bread, shade, rescue debt, hospitality, witness, release, and the rule that survival goods cannot be owned without obligation.
-- **Early Folk memory:** coldward departure, rearward hearths, dangerous roadside powers, local guides, animal preservation, and refusal to trade freedom for an easy protector.
+- **Early Folk memory:** principally Orphaned memory of local Giant collapse, coldward survival, rearward hearths, dangerous powers and refusal to trade freedom for easy protection; later Ark contact may add borrowed road material.
 - **Proto-Atherian memory:** liberation increasingly translated into heroic civic victory, engineering, and the overthrow of tyrants, with the harder camp obligations softened.
-- **Sestaran memory:** incompatible lists, stores, ship and cart manifests, translated testimony, and the political question of who preserved which archive.
+- **Later Sestaran memory:** Braided harbor traditions combine inherited Ark lists, local survivor records, ship and cart manifests, translated testimony and political argument over who preserved which archive.
 - **Giant and successor memory:** natural disaster, treason, lower-caste revolt, failed cycle, foreign sabotage, unjust heavenly invasion, necessary evacuation, or the final proof that the dynasty was betrayed by impure heirs.
 - **Vampire memory:** Anshara's separate collapse, self-serving claims of prior liberation, and accusations that humans abandoned the courts before the Drinking Wars.
 - **Nythalum memory:** technical failure, berth treason, labor desertion, launch sabotage, or proof that the terrestrial population was never worthy of Ascension.
@@ -464,7 +464,7 @@ No culture owns the entire Exodus, and no later people's possession of one genui
 
 ## Authorial Knowledge, Open Questions, and Hard Boundaries
 
-### Recommended authorial facts
+### Promoted authorial facts
 
 - The Great Prophet's commission and principal signs were genuine.
 - The plagues were one cause within a multi-causal collapse, not retrospective metaphor alone.
@@ -473,9 +473,10 @@ No culture owns the entire Exodus, and no later people's possession of one genui
 - Giant civil wars were real and arose from responsible choices under exposed pressure.
 - A bounded heavenly intervention preserved the withdrawal and judged selected apex structures.
 - The Glass predated everything in the event.
-- The crossing impressed real threshold corridors and anchor camps.
+- The entry and approximately century-long sojourn impressed real threshold corridors and occupied anchor camps.
 - Miraculous provision and ordinary material competence were both necessary.
-- The intended sanctuary failed; the Prophet died near the threshold; the people scattered.
+- The mixed host became one people in the Glass.
+- The later southern sanctuary failed; the Prophet died near the outward threshold as the last living direct witness to the Giant world; the people scattered.
 - The Giant lands experienced many outcomes rather than one disappearance.
 
 ### Facts to leave open until the next pass
@@ -489,7 +490,7 @@ No culture owns the entire Exodus, and no later people's possession of one genui
 - which later culture preserves the closest version of each provision miracle;
 - whether a single Last Pursuit occurred or several rearward battles became one story;
 - the immediate human successor states north of the Glass;
-- the precise extent to which independent survivors later rejoined Scattering peoples.
+- the precise extent to which independent survivors later joined Ark-derived, Orphaned or Braided peoples.
 
 ### Hard boundaries
 
@@ -510,9 +511,9 @@ No culture owns the entire Exodus, and no later people's possession of one genui
 
 ## Handoff into Historical Planting
 
-The causal backbone is approved and the joint Late-Chains–Exodus nursery review is complete. The implementation now resides across [[The Great Unbinding]], [[Giant Descent and Creaturely Continuity]], and [[Whole-History Planting Matrix - Blocks I and II#Late-Chains–Exodus Bridge Crosswalk|the bridge crosswalk]]:
+The causal backbone, long-sojourn retcon and joint Late-Chains–Exodus nursery review are complete. The controlling implementation now resides across [[The Great Unbinding]], [[The Glass Sojourn]], [[Giant Descent and Creaturely Continuity]], and [[Whole-History Planting Matrix - Blocks I and II#Late-Chains–Exodus Bridge Crosswalk|the bridge crosswalk]]:
 
-1. Giant ancestry, continuity, Five-Horizon, and representative-remnant language are controlling canon.
+1. Giant ancestry, continuity, Five-Horizon, representative-remnant and century-long Glass-formation language are controlling canon.
 2. Broad plague functions are fixed while names, number, and exact sequence remain recension-level.
 3. Five unnamed actor slots—bound, escaped, counterfeit, lunar, and repentant—are classified but not biographically promoted.
 4. Eight nursery polities carry pressure, institution, collapse outcome, and 1360 AR trace.

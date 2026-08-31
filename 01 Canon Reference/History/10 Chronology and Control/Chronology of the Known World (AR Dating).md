@@ -28,8 +28,9 @@ The civilized world dates from the execution and resurrection of Isfir the Redee
 
 - **The Deep Past (undatable):** Creation, the Great Rebellion, the fall of humanity, and the yolk exiles. The future Menhir and Idols deserted the defeated Adversary and culpably chose fusion. After the Menhir became morally blind Faewild sovereignties, the [[The Faewild Schism]] broke historical Trium and produced the recurring blocs later called the Circles. All of this predates the Giant imperial ages; in-world sources compress it into the Mono-Myth.
 - **c. 3400–2300 BR — Age of Chains.** The Five Imperial Horizons and a many-state Giant political world enslave humanity.
-- **c. 2300–2260 BR — Age of Exodus and Great Unbinding.** Prophetic signs, human revolts, Giant civil wars, bounded heavenly severance, and imperial collapse converge; the Great Prophet leads the principal liberated remnant across the Great Glass Desert and dies near the failed sanctuary threshold (c. 2265 BR).
-- **c. 2260–1900 BR — Age of Scattering.** The exodus fractures into the ancestor-peoples. ✶ Somewhere in these centuries falls the **Year of Standing Stars**, which every calendar patches differently.
+- **c. 2300–2260 BR — The Great Unbinding.** Prophetic signs, human revolts, Giant civil wars, bounded heavenly severance, and imperial collapse converge; the Great Prophet leads the principal liberated remnant into the Great Glass Desert.
+- **c. 2265–2165 BR — [[The Glass Sojourn]].** The Lord shelters and sustains the mixed Ark host while the Giant world collapses outside. Approximately a century of common law, worship, labor, language, marriage and burial forms one people. The Prophet dies near the outward threshold around c. 2165 BR as the last living direct witness to the Giant world.
+- **c. 2160–1900 BR — Age of Scattering and Orphaned Reassembly.** The Glass people divide into proto-Atherian, proto-Jirahar and proto-Ahl-e-Ahd families; Folk, Ättar, Tarkhan and Nsizwa continue independent reassemblies outside the Ark; later contacts begin the Braided histories of other peoples. ✶ Somewhere in these centuries falls the **Year of Standing Stars**, which every calendar patches differently.
 
 ## Early Historic Ages
 

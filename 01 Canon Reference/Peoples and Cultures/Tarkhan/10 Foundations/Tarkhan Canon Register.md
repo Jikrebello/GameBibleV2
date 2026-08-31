@@ -25,7 +25,7 @@ This register controls authorial facts about the Tarkhan. Authority descends thr
 
 ## Fixed History
 
-- The Tarkhan descend from northern dry-belt peoples of the Scattering.
+- The Tarkhan are principally an Orphaned people descended from northern dry-belt communities that survived the Giant collapse outside the Glass Ark.
 - Tarkhan ancestors dug the [[Nine Wells of Tergai]]. Covenant forces seized them violently in 558 AR. The later voluntary-submission account is false.
 - The First Catch occurs from 905 to 920 AR. Grey Sister begins the sacred remount genealogy.
 - Qarayel unites the banners in 1261, dominates the Black Wind Years from 1265 to 1300, dies in 1303, and is followed by the Partition in 1304.

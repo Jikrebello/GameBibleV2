@@ -25,7 +25,7 @@ Route knowledge is divided so capture of one guide does not expose a whole chain
 
 ## Way-Gates
 
-The Exodus impressed stable threshold corridors into the world. Great towers stand at surviving anchor camps. Their gates follow those routes without paying Astral rent or borrowing a patron's stability.
+The Exodus entry and long [[The Glass Sojourn|Glass Sojourn]] impressed stable threshold corridors into the world. Great towers stand at surviving anchor camps, some of which were occupied for years or generations. Their gates follow those routes without paying Astral rent or borrowing a patron's stability.
 
 A gate can transfer a complete caravan, including wagons, animals, households, and cargo, from one intact anchor to another. It cannot open to an arbitrary road, moving ship, market, battlefield, or settlement without an anchor.
 

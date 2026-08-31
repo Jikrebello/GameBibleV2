@@ -44,7 +44,7 @@ Their corrected roles preserve the regional traditions without making every mode
 
 ## The Choosing of Virelia, 1061 AR
 
-The Vesari princedoms were not a late Eclessian colony. They were an older Scattering people with their own towns, moots, and rites. Prince Radomir I chose the Sanctum for dynastic alliance and western arms despite his envoys' powerful encounter with Veridun. This created Virelia's durable contradiction: a western hierarchy above eastern-flavored popular piety.
+The Vesari princedoms were not a late Eclessian colony. They were an older Braided river people with their own towns, moots and rites, formed from remnant populations, arriving Ark-derived groups and later local unions. Prince Radomir I chose the Sanctum for dynastic alliance and western arms despite his envoys' powerful encounter with Veridun. This created Virelia's durable contradiction: a western hierarchy above eastern-flavored popular piety.
 
 ## The Crown in Trust, 1104 AR
 

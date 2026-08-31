@@ -18,6 +18,7 @@ This register controls authorial facts about the Ättar. Authority descends thro
 ## Fixed Identity
 
 - The Ättar are a distinct cousin people of the Folk, not a Folk tribe.
+- Folk and Ättar ancestors are principally Orphaned southern populations that survived outside the Glass Ark; neither people is a direct Ark branch.
 - The four totems are great regional kindreds containing many rival halls.
 - No permanent sovereign rules all Ättar. A chief-king is an acclaimed war leader, not a crowned national monarch.
 - Totem and moon-blood pass through an acknowledged father. Social adoption can place a child within a hall, but it cannot manufacture full pact inheritance.

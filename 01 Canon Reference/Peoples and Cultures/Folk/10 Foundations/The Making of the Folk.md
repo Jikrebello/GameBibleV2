@@ -13,7 +13,7 @@ tags: []
 ---
 # The Making of the Folk
 
-The Folk did not descend from one lost kingdom. They formed from Scattering communities that entered the southern forests in separate migrations and learned similar answers to cold, distance, Grobi pressure, and the dangerous agency of place.
+The Folk did not descend from the Glass Ark or one lost kingdom. They formed principally from **Orphaned** communities that survived the Giant collapse outside the Prophet's host, entered or remained within the southern forests through separate movements, and learned similar answers to cold, distance, Grobi pressure, and the dangerous agency of place. Later Ark-descended migrants were absorbed without becoming the origin of the people.
 
 ## First Hearths
 
@@ -48,4 +48,3 @@ Present Folk identity therefore includes old-rite clans, Chapel-Folk, mixed marc
 - [[Historical Spine of the Folk]]
 - [[Early Folk Clan Worlds]]
 - [[The Folk Overview]]
-

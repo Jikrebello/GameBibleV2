@@ -13,9 +13,9 @@ tags: []
 ---
 # Historical Spine of the Folk
 
-## Scattering and First Hearths
+## Orphaned Reassembly and First Hearths
 
-- **c. 2260-1900 BR:** ancestor communities enter the southern forests, coasts, and mountain corridors.
+- **c. 2300-1900 BR:** subject villages, fugitives, local revolt communities and survivors of collapsing Giant client states enter, remain within or reconnect across the southern forests, coasts and mountain corridors. They do not descend principally from the Glass Ark.
 - **c. 1900-1400 BR:** hearth-law, winter stores, first ringworks, grove boundaries, and formal Grobi watches appear.
 - **c. 1400-800 BR:** river leagues, hillfort confederacies, coastal kindreds, and old-rite Enaidfae networks become regional powers.
 
@@ -43,4 +43,3 @@ By 1360 AR, the Eclessian frontier remains a gradient. Parish law, clan jurisdic
 - [[The Making of the Folk]]
 - [[The Folk of the Frontier and the Wolfsmere Lineage]]
 - [[Frost-Road and the Winter War]]
-

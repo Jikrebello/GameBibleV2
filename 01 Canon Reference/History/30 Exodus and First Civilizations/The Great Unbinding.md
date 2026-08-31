@@ -23,7 +23,7 @@ tags:
 
 The **Great Unbinding** is the authorial name for the converging judgements, revolts, civil wars, failures, and acts of preservation that ended the Age of Chains. Later cultures divide it into different plague cycles, wars, departures, and miracles. Their disagreements do not reduce the event to metaphor or make every recension equally complete.
 
-> **Controlling ruling:** the Great Prophet announced and led; the plagues severed systems of bondage; enslaved peoples rebelled; Giant houses consumed one another; the Lord's commissioned servants bound what mortals could not safely defeat; and an ordered migrating host carried the principal human remnant through the ancient Glass while the old political world finished falling behind it.
+> **Controlling ruling:** the Great Prophet announced and led; the plagues severed systems of bondage; enslaved peoples rebelled; Giant houses consumed one another; the Lord's commissioned servants bound what mortals could not safely defeat; and an ordered migrating host entered the ancient Glass while the old political world finished falling behind it. The longer refuge and formation of that host are controlled by [[The Glass Sojourn]].
 
 No single hero, plague, battle, rebellion, natural disaster, or imperial flight caused the whole collapse.
 
@@ -38,8 +38,9 @@ The sequence below is authorial fact. Its phases overlap, and later traditions m
 5. **The wars of the Closing Courts:** scarcity, exposed betrayal, rival succession, incompatible marriage claims, and competition for escape routes drive Giant houses into responsible civil war.
 6. **The commission of severance:** one Phoenix, supported by specialized angelic choirs and Host servants, contains selected apex threats that mortal liberation cannot safely overcome.
 7. **The breakout and pursuit:** several refugee columns and defecting communities converge toward the Great Glass Desert. Commissioned heavenly servants break the supernatural cohesion of the final pursuit without completing humanity's political work for it.
-8. **The Glass crossing:** the ordered camp carries people, animals, seed, tools, records, law, and living crafts through a bounded survivable passage.
-9. **The orphaned world and failed sanctuary:** Giant regions fragment into many successor outcomes. The commanded sanctuary for three generations is not successfully established; the Prophet dies near its threshold around 2265 BR; the Scattering begins.
+8. **Entry into the Glass:** the ordered camp carries people, animals, seed, tools, records, law, and living crafts through a bounded survivable passage and enters the long refuge by approximately c. 2265 BR.
+9. **The orphaned world:** Giant regions fragment into many successor outcomes while the protected host remains within the Glass. Orphaned human communities begin independent reassemblies outside it.
+10. **The later threshold:** after approximately a century of refuge and people-formation, the host is commanded south. The three-generation sanctuary is not successfully established; the Prophet dies near the outward threshold around c. 2165 BR; Ark Scattering begins by c. 2160 BR.
 
 ## Agency and Responsibility
 
@@ -93,7 +94,7 @@ No manifested saint exists before the Redeemer's work. Any white or cleansing fi
 
 ## The Human Remnant
 
-The Exodus carries the largest deliberate gathering of liberated human communities and forms the principal ancestral convergence of the later Scattering. It does not contain every human survivor of the Giant Age.
+The Exodus carries the largest deliberate gathering of liberated human communities. During [[The Glass Sojourn]] that mixed host forms one people, which later divides into the proto-Jirahar, proto-Ahl-e-Ahd and proto-Atherians. It does not contain every human survivor of the Giant Age.
 
 The remnant is mixed, morally fallible, and gathered through response to the call and the practical joining of households rather than biological purity. It may include enslaved and free people from many horizons, defecting soldiers and officials, former collaborators who turn, and giant-blooded humans who possess complete human souls and the Image.
 
@@ -103,9 +104,9 @@ A nonhuman Giant may defect, repent morally, or receive temporal mercy. It does 
 
 ## The Glass Ark
 
-The Great Glass Desert predates the plagues, the Prophet, and the Giants' recorded interest in approaching it. Nothing in the Great Unbinding created the Glass or reveals its origin, nature, or purpose.
+The Great Glass Desert predates the plagues, the Prophet, and the Giants' recorded attempts to approach it. Nothing in the Great Unbinding created the Glass or reveals its origin, nature, or purpose. Giant powers left marginal surveys and failed incursions but never established a permanent deep-Glass road, tax district, dynastic estate or self-sustaining city.
 
-The miracle is narrower: a survivable road is given where no imperial road, army, map, or calculation had established one. The passage impresses real threshold corridors and anchor camps later underlying the Prophet's Roads and lawful Way-Gates.
+The miracle is narrower: a survivable road and long refuge are given where no imperial road, army, map, or calculation had established them. The passage and sojourn impress real threshold corridors and anchor camps later underlying the Prophet's Roads and lawful Way-Gates.
 
 The ark is the ordered migrating host rather than one ship. Survival requires both high-sign provision and material competence:
 
@@ -114,7 +115,7 @@ The ark is the ordered migrating host rather than one ship. Survival requires bo
 - judges, quartermasters, scouts, translators, physicians, midwives, cooks, herders, undertakers, sanitation workers, guards, and rearward carriers;
 - bounded provision of food, water, shade, orientation, endurance, and protection at otherwise impossible stages.
 
-The signs end with their commission. They cannot be converted into a modern Glass industry or a repeatable route independent of the original passage.
+The signs continue only as required by the sojourn's commission and end when that commission ends. They cannot be converted into a modern Glass industry or a repeatable route independent of the original passage.
 
 ## The Orphaned World
 
@@ -132,9 +133,9 @@ The following remain deliberately unresolved:
 - the identities and locations of the bound Titan-Firstborn;
 - the complete roster of Giant rulers who repented, defected, escaped, or survived;
 - whether the Last Pursuit was one battle or several later compressed together;
-- the remnant's exact population, camp count, and journey duration;
+- the remnant's exact population, camp count, and sojourn duration;
 - responsibility for the Prophet's failure and death;
-- which independent human survivors later rejoined Scattering peoples.
+- which independent human survivors later joined Ark-derived, Orphaned or Braided peoples.
 
 No account may use this event to explain the Glass, the Year of Standing Stars, the Bird-Marked Sites, Anshara's final sovereign or supreme escape, or a concealed Nythalum Egg White Ascension.
 
@@ -142,6 +143,7 @@ No account may use this event to explain the Glass, the Year of Standing Stars, 
 
 - [[Age of Chains]]
 - [[Age of Exodus]]
+- [[The Glass Sojourn]]
 - [[Great Glass Desert]]
 - [[Giant Descent and Creaturely Continuity]]
 - [[Phoenixes]]

@@ -13,9 +13,9 @@ tags: []
 ---
 # Historical Spine of the Tarkhan
 
-## Scattering and the Dry Belt
+## Orphaned Reassembly in the Dry Belt
 
-Tarkhan ancestors settle the northern desert, seasonal lake country, and eastern grasslands. Western clans develop camels, well law, caravan brokerage, and mobile pastoralism. Eastern communities combine hunting, small herds, and foot-mobile migration.
+Tarkhan ancestors descend principally from dry-belt subject communities, fugitives, client-state survivors and mobile groups left outside the Glass Ark. They survive and reassemble across the northern desert, seasonal lake country and eastern grasslands. Western clans develop camels, well law, caravan brokerage and mobile pastoralism. Eastern communities combine hunting, small herds and foot-mobile migration. Later arrivals are absorbed, but the people is not a fourth branch of the Prophet's camp.
 
 ## The Nine Wells, 558 AR
 

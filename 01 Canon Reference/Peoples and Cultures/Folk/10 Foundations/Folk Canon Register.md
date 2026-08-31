@@ -43,7 +43,7 @@ The four principal customary territories are the Green March Kindreds, Rootbound
 
 ## Locked Historical Chain
 
-The Folk descend from southern Scattering communities; developed pre-Atherian clan worlds and confederacies; experienced uneven conquest, alliance, and assimilation under Atheria; recovered autonomy after the Fall; and suffered Eclessian expansion during the Folk Wars of 982-1008 AR. The Drowning at Wolfsmere occurred in 993 AR. Weylan Oath-Bent accepted baptism around 1005 AR.
+The Folk are principally an Orphaned people descended from southern communities that survived the Giant collapse outside the Glass Ark. Those survivors reassembled into pre-Atherian clan worlds and confederacies; experienced uneven conquest, alliance, and assimilation under Atheria; recovered autonomy after the Fall; and suffered Eclessian expansion during the Folk Wars of 982-1008 AR. The Drowning at Wolfsmere occurred in 993 AR. Weylan Oath-Bent accepted baptism around 1005 AR.
 
 ## Language Boundary
 

@@ -17,6 +17,14 @@ The **Nsizwa** are a proud and powerful people, deeply connected to their **ance
 
 ---
 
+## **Origins in the Orphaned World**
+
+The Nsizwa are principally an **Orphaned people**, not a branch of the Glass Ark. Their ancestors survived the fall of Giant rule in the far southwestern lands through fortified plateaus, mobile cattle communities, burial refuges, war bands and the preservation of names and bodies amid collapsing states. Several survivor populations later joined into the people remembered by the earliest praise cycles.
+
+This origin does not authenticate every claim of ancestor-return. The orphaned centuries explain why bodies, praise-names, tomb offices and war memory became central; [[Izivukwa Continuity]] still governs whether any manifestation is a human soul, residue, office or constructed pattern.
+
+---
+
 ## **I. [[Geography and Homeland]]**
 
 - **Location:** The Nsizwa inhabit the **rugged savannas, escarpments, and highland plateaus** of the **far southwestern continent**.

@@ -25,7 +25,7 @@ The southern-hemisphere rule governs their distribution: deeper southern populat
 
 ## Eclessians
 
-Eclessian populations formed through Atherian provincial settlers, converted and Atherianized Folk, Markish and Latinate regional societies, Vesari in Virelia, later migrations, and local frontier peoples. Southern Eclessian realms retain stronger Folk ancestry and cultural substrate without becoming less Eclessian.
+Eclessians are a later **Braided people**. Their populations formed through Atherian provincial settlers, converted and Atherianized Folk, Markish and Latinate regional societies, Vesari in Virelia, later migrations, and local frontier peoples. Southern Eclessian realms retain stronger Folk ancestry and cultural substrate without becoming less Eclessian.
 
 ## Thalmyrics and Saltborn
 
@@ -37,7 +37,7 @@ Ahl-e-Ahd is an imperial-confessional identity shared by Ahdari, Iqashari, Qahur
 
 ## Other Peoples
 
-Jirahar identity follows communal descent and conversion law rather than appearance. The Tarkhan are one internally diverse people whose Well-Tarkhan and Grass-Tarkhan identities follow ecology and mobility rather than ancestry. Nsizwa, Sestaran city populations, Velians, and the populations of former Atheria likewise contain substantial internal diversity governed by their own culture dossiers.
+Jirahar identity follows communal descent and conversion law rather than appearance. Folk, Ättar, Tarkhan and Nsizwa are principally **Orphaned peoples**, each formed from different human communities that survived outside the Glass Ark. The Tarkhan are one internally diverse people whose Well-Tarkhan and Grass-Tarkhan identities follow ecology and mobility rather than ancestry. Sestaran harbor populations and Vesari are later **Braided peoples**; Sestaran, Vesari, Velian and former Atherian populations contain substantial internal diversity governed by their own culture dossiers.
 
 ## Use Rule
 
