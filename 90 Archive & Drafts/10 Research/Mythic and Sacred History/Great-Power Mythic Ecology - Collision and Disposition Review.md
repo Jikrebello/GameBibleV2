@@ -21,6 +21,8 @@ related_factions:
 appears_in: []
 needs:
   - conduct a separate historical placement pass for no more than six reviewed Menhir nurseries
+  - decide whether any of the six reviewed infernal placements deserves a light Garden trace
+  - review the remaining constructed Shell and Idol realm families
   - choose named local recensions only after their cultural and regional dossiers exist
   - require an individual dossier before naming any fallen angel, Greater Saint, sovereign Patron, or autonomous Archmask
 tags:
@@ -203,12 +205,17 @@ All eight revisions are incorporated into [[Great-Power Mythic Ecology and Plant
 
 [[Menhir Courts, Jurisdictions, and High Hunts Review]] has now tested all twelve Menhir leads against these boundaries. It retains seven and incorporates five revisions without placement or promotion. Its later historical pass may use GP-II-01 as an umbrella test, GP-III-02 for broken-compact collisions and GP-I-03 only where a specific natural claim follows an escaped court. It cannot populate those beds through one Faewild pantheon, court hierarchy or universal Menhir war.
 
-The next unreviewed comparative family is the infernal-dominion shelf: twelve mapped kingdoms, office coalitions, mercenary systems and Abyssal fronts that must remain local episodes within the War of the Last Map.
+[[Infernal Dominions and Black-Coil Archfiends Review]] tested all twelve infernal leads against GP-II-02. [[Infernal Dominions and Black-Coil Archfiends - Collision Selection and Historical Placement Review]] then uses four corrected figures and exactly six dominion/front roots. Its six apertures remain separate: a Late-Chains custody prison, a Star-age quota ascent, an Underground client city, a Conversion-era counter-contract war, a Long-Frontier wound arsenal and one Fall-era Last-Door assault. [[Black-Coil Archfiends - Source Signature and Full Ecology Review]] subsequently activates the remaining fourteen figures without inserting them into those events. Hell remains a cold black Earth-and-Water reality; every authentic fire-and-brimstone manifestation belongs to Wrath. No local containment makes an infernal tyrant necessary to creation.
+
+The next unreviewed comparative family is the constructed Shell-polity shelf. Its eight leads must preserve the Shell's sterile nonperson ecology and classify every refugee, ruler and constructed inhabitant separately.
 
 ## Navigation
 
 - [[Great-Power Mythic Ecology and Planting Matrix]]
 - [[Menhir Courts, Jurisdictions, and High Hunts Review]]
+- [[Infernal Dominions and Black-Coil Archfiends Review]]
+- [[Infernal Dominions and Black-Coil Archfiends - Collision Selection and Historical Placement Review]]
+- [[Black-Coil Archfiends - Source Signature and Full Ecology Review]]
 - [[Comparative Realms, Courts, and Sacred Warfare Atlas]]
 - [[First Unknown Histories - Collision and Disposition Review]]
 - [[Saint and Breachward Historical Placement Pass]]

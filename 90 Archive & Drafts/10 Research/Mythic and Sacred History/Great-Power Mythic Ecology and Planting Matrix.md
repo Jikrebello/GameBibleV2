@@ -21,7 +21,8 @@ related_factions:
 appears_in: []
 needs:
   - conduct a separate historical placement pass for no more than six reviewed Menhir nurseries
-  - review the remaining Idol, Shell, and infernal realm leads
+  - decide whether any of the six reviewed infernal placements deserves a light Garden trace
+  - review the remaining Idol and Shell realm leads
   - select named local recensions only after cultural dossiers exist
   - create individual dossiers before naming any Severed Exalt, fallen angel, greater saint, or sovereign Patron
 tags:
@@ -39,7 +40,7 @@ The first historical garden chiefly asks what ordinary humans did while history 
 
 These conflicts are not a second creation story or a secret master chronology. Most do not cause the human age beside which they are planted. They create distant thunder, strange alliances, inherited enemies, relic ecologies, impossible refugees, contradictory cult histories, and powers with old reasons to recognize—or hate—one another in 1360 AR.
 
-All twelve beds are author-only and exploratory. The joint collision review retained four and incorporated revisions into eight. That review did not promote a conflict, name its principal actors, or turn an umbrella title into authorial proof of one continuous war. Titles, exact dates, local participants, outcomes, and cultural recensions remain provisional.
+All twelve beds are author-only and exploratory. The joint collision review retained four and incorporated revisions into eight. That review did not promote a conflict, name its principal actors, or turn an umbrella title into authorial proof of one continuous war. The later infernal placement review gives six local roots provisional date bands and four actor handles without converting GP-II-02 into one continuous conflict. Titles, exact dates, local participants, outcomes, and cultural recensions remain provisional.
 
 ## Review State
 
@@ -203,6 +204,9 @@ At mass death, damaged thresholds, and intercepted soul routes, several powers m
 - **Protected boundaries:** neither side is good; Abyssal wounds are not a people; the Adversary does not become a dark emperor; heavenly forces do not defend Hell's tyranny.
 - **Planting status:** `reviewed-revise`; postmortem office and bounded heavenly intervention made explicit.
 - **Developed reviewed episode:** [[First Unknown Histories - Six Recoverable Lore Capsules#UH-03 — The Prisoners Who Became a Border]]; bounded as one mortal aperture in [[First Unknown Histories - Collision and Disposition Review#UH-03 — One Mortal Aperture into a Larger War]].
+- **First infernal placement shelf:** [[Infernal Dominions and Black-Coil Archfiends - Collision Selection and Historical Placement Review]] supplies six independent apertures and four selected actors without turning them into one front, hierarchy or historical cause.
+- **Full active actor shelf:** [[Black-Coil Archfiends - Source Signature and Full Ecology Review]] keeps all eighteen source signatures legible and ecology-active while leaving fourteen undated and promotion-locked.
+- **Canonical causal and continuity ruling:** [[The War of the Last Map]] fixes why the conflict perpetuates, while [[The Two-Mouthed Deep]] promotes AF-R10 as the fourth True Dragon without converting the Queen of the Open Scar or any damned ruler into a dragon.
 
 ### GP-II-03 — The Crown-Market of Shadows
 
@@ -374,6 +378,8 @@ These chains do not settle the open facts. They specify what must have happened 
 
 - [[Mythic and Sacred History Research MOC]]
 - [[Great-Power Mythic Ecology - Collision and Disposition Review]]
+- [[Infernal Dominions and Black-Coil Archfiends - Collision Selection and Historical Placement Review]]
+- [[Black-Coil Archfiends - Source Signature and Full Ecology Review]]
 - [[Human Coherence and Discoverability Pass]]
 - [[Whole-History Mythic Planting Programme]]
 - [[The Historical Seed Garden]]

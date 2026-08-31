@@ -26,6 +26,8 @@ related_magic: [soul routing, black mud, counterfeit revelation]
 
 These damned forms turn authority and revelation into instruments of completed refusal. They remain human souls. Their rank reflects the number of living systems that still repeat their rejection, not a stable infernal nobility.
 
+A person who chose a counter-church, leftward campaign, or systematic mortal ministry of refusal may also be described historically as a **Greater Sinner**. That term records the human vocation and culpability; Crowned Refuser and Hollow Prophet describe possible post-judgement forms. Neither term creates a new soul species. A Greater Sinner may bear several devil offices and be called an archdevil politically while the soul, offices, bodies, regalia, cults, and dominion remain separate.
+
 ## Crowned Refusers
 
 Crowned Refusers are rulers, patriarchs, judges, commanders, and household tyrants who treated office as ownership of other persons and refused every authority above their own will.
@@ -67,4 +69,6 @@ Regional names include drowned king, empty crown, black bishop, hollow prophet, 
 - [[Hell and Abyss MOC]]
 - [[The Adversary]]
 - [[The Vestibule of Weighing]]
+- [[Saints, Sinners, Druids and Hollows]]
+- [[The War of the Last Map]]
 - [[Bestiary MOC]]

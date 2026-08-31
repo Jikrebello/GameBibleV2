@@ -21,7 +21,8 @@ related_factions:
   - Sinners
 appears_in: []
 needs:
-  - review the remaining thirty research leads after the saint, Patron, and Menhir families
+  - review the remaining eighteen realm leads after the saint, Patron, Menhir, and infernal families
+  - decide whether the six reviewed infernal placements deserve light Garden traces
   - commission culture-specific Isles dossiers before assigning local recensions
   - classify every proposed Shell refugee people by continuity and origin
   - create individual dossiers before naming a greater saint, greater angel, Severed Exalt, Archmask, or infernal map-lord
@@ -337,6 +338,8 @@ The setting should preserve three different hostile modes without importing thre
 
 Mapped Hell supplies hierarchy, mandate, contract, prison, army, jurisdiction, quotas, infernal promotion, and rival damned courts. Devil remains an `infrastructure-office`; its bearer retains separate continuity.
 
+Hell's own metaphysical environment is cold black Earth and Water: mire, silt, flooded depth, burial pressure, drowning and crushing enclosure. Authentic fire and brimstone belong only to Wrath. A burning “Hell” therefore records a Wrath Mask or Archmask intrusion, a later conflation, or ordinary Material fire—not native infernal substance.
+
 ### Predatory evil
 
 The Depths can support selfish mercenary powers, soul predators, ransom fleets, scavenger cities, hired armies, plague-brokers, and beings who prefer profit or consumption to either law or unmaking. These need individual provenance: damned human, Depth fauna, Patron, office-bearer, or another established continuity. They are not one neutral-evil race.
@@ -351,18 +354,43 @@ Pathfinder’s literal destruction or consumption of souls is non-transferable. 
 
 | ID | Separate lead | Core pressure and hard edge | Source root | Status |
 |---|---|---|---|---|
-| HL-R01 | **The Quota Kingdom** | A damned ruler measures offices by prisoners, breaches closed, labor extracted, and rivals condemned. Promotions require real torture, betrayal, and increased captivity; paperwork does not soften the violence. | D&D infernal hierarchy | `research-lead` |
-| HL-R02 | **The First Mire Front** | A mapped dominion becomes the principal bulwark against one Abyssal wound and uses that necessity to justify permanent martial law, conscription, hostage execution, and expansion. | Avernus/Blood War | `research-lead` |
-| HL-R03 | **The Black Companies** | Mercenary Depth armies sell service to damned rulers, Patrons, Sinners, and occasionally desperate mortals. They change sides when payment or survival changes and leave civilians to reprisal. | yugoloths | `research-lead` |
-| HL-R04 | **The Hunger That Wants No Throne** | A predatory Depth power seeks to make life, memory, and relationship unusable rather than rule them. It spreads famine, plague, despair, and self-destruction but cannot annihilate souls. | Pathfinder Abaddon, transformed | `research-lead` |
-| HL-R05 | **The Infernal Client City** | A city of damned humans retains laws, families of chosen allegiance, markets, and local memory under devil-office protection. Its people are judged souls, not a fiend species, and its ruler may be loved by some subjects. | Hell-city and client-state grammar | `research-lead` |
-| HL-R06 | **The Prison That Employs Its Captives** | Custody offices preserve prisoners because their pain, skill, memory, or testimony powers the dominion. Breaking the prison without a route plan can strand or further mutilate the souls it holds. | devil contracts; Chain Keepers | `research-lead` |
-| HL-R07 | **The Counter-Contract War** | Rival Ash Advocate systems fight by invalidating each other’s standing, stealing witnesses, redefining collateral, and transferring mandates. Every abstract victory changes who is imprisoned, tortured, or exposed. | infernal lawyer grammar | `research-lead` |
-| HL-R08 | **The Revolt of the Mantled** | Bearers from several continuities coordinate rebellion against their offices. Some are innocent captives, some eager torturers seeking promotion, and some mindless constructs; removing a mantle does not make one moral people. | World Egg devil-office ontology | `research-lead` |
-| HL-R09 | **The Wound-Harvesters** | A dominion breeds or preserves limited Abyssal contradictions as weapons, then directs them at rivals. The wounds erase roads, identities, bodies, and causality beyond their handlers’ control. | Blood War escalation; Abyss ontology | `research-lead` |
-| HL-R10 | **The War of the Damned Kings** | Several human rulers continue earthly dynastic feuds in Hell, now armed with dominions and offices. Their subjects include victims, former soldiers, and people with no loyalty to the old quarrel. | underworld kingdoms; D&D archdevil politics | `research-lead` |
-| HL-R11 | **The Undertow Privateers** | Soul-route predators raid infernal and heavenly approaches, ransom captured persons, sell names, and serve whichever claimant grants passage. Loyal soul-road forces oppose interception without defending Hell’s rulers. | Styx traffic; Undertow canon | `research-lead` |
-| HL-R12 | **The Last-Door Crusade** | A saint and angelic host hold a damaged soul-route while mortal investigators close the Material cause and damned powers attack from custody works. The saint’s force is terrible but ends with the commission. | WotR frontier; Orthodox military intercession | `research-lead` |
+| HL-R01 | **The Quota Kingdom** | A damned ruler measures offices by prisoners, breaches closed, labor extracted, and rivals condemned. Crown, body, offices and human soul remain distinct. | D&D infernal hierarchy | `reviewed-retain; placement-selected` |
+| HL-R02R | **The Claimed First Front** | One dominion contains a bounded wound, calls itself creation's necessary first bulwark and uses that propaganda to justify martial law, conscription, hostage execution and expansion. | Avernus/Blood War | `reviewed-revise` |
+| HL-R03 | **The Black Companies** | Unrelated mercenary forces sell service, change sides and abandon civilians; every company receives an actual provenance rather than becoming a yugoloth species. | yugoloths | `reviewed-retain` |
+| HL-R04R | **The Hunger That Refuses Rule** | A future actor seeks to make life and relationship unusable; placement must select damned soul, Archmask, Patron or wound without importing daemons or soul-annihilation. | Pathfinder Abaddon, transformed | `reviewed-revise` |
+| HL-R05 | **The Infernal Client City** | Damned humans retain laws, households, markets and local memory under office protection without becoming a reproducing infernal ethnicity. | Hell-city and client-state grammar | `reviewed-retain; placement-selected` |
+| HL-R06 | **The Prison That Employs Its Captives** | Custody offices preserve prisoners because their pain, skill, memory or testimony powers the work; rescue without a route can deepen the injury. | devil contracts; Chain Keepers | `reviewed-retain; placement-selected` |
+| HL-R07 | **The Counter-Contract War** | Rival Ash Advocate systems steal witnesses and transfer mandates; every abstract victory changes who is imprisoned, tortured, executed or exposed. | infernal lawyer grammar | `reviewed-retain; placement-selected` |
+| HL-R08R | **The Mutiny of Broken Mantles** | Innocent bearers, willing torturers and nonpersons cooperate temporarily against offices without becoming one oppressed mantle-people or receiving automatic absolution. | World Egg devil-office ontology | `reviewed-revise` |
+| HL-R09R | **The Wound Arsenal** | A dominion preserves, divides, feeds and redirects Abyssal contradictions as weapons but cannot breed wounds or manufacture hellfire. | Blood War escalation; Abyss ontology | `reviewed-revise; placement-selected` |
+| HL-R10 | **The War of the Damned Kings** | Human rulers continue earthly feuds through dominions and offices while their former subjects and living descendants inherit consequences rather than guilt. | underworld kingdoms; D&D archdevil politics | `reviewed-retain` |
+| HL-R11R | **The Privateers of the Undertow** | Unrelated captains raid soul-routes, ransom names and change allegiance; every captain, vessel and predator retains separate continuity. | Styx traffic; Undertow canon | `reviewed-revise` |
+| HL-R12 | **The Last-Door Crusade** | A bounded saintly and angelic action holds one damaged route while mortals rescue captives; no saint conquers Hell or validates a rival ruler. | WotR frontier; Orthodox military intercession | `reviewed-retain; placement-selected` |
+
+## Black-Coil archfiend actor nursery
+
+[[Infernal Dominions and Black-Coil Archfiends Review]] adds eighteen separate actor leads behind the reviewed political ecologies. `Black-Coil` is shared visual grammar rather than species, rank or ancestry. [[Infernal Dominions and Black-Coil Archfiends - Collision Selection and Historical Placement Review]] gives four corrected actors and six dominion roots independent historical apertures. [[Black-Coil Archfiends - Source Signature and Full Ecology Review]] then restores the one-to-one source key and activates the remaining fourteen figures without forcing them into dated history.
+
+| ID | Provisional actor | Creator classification | Primary source grammar | Status |
+|---|---|---|---|---|
+| AF-R01 | **Auditor of the Last Quota** | damned `human-soul` map-lord plus Crown office | Asmodeus | `selected-revise` |
+| AF-R02 | **Apostate of the Drowned Standard** | unique fallen `created-spirit` with fixed withdrawal commission and refusal | Zariel | `ecology-active-revise` |
+| AF-R03 | **Furnace General of the Red Lease** | Wrath Archmask intruding into Hell | Pathfinder Moloch | `ecology-active-retain` |
+| AF-R04 | **Iron Listener** | damned `human-soul` fortress ruler plus offices | Dispater | `ecology-active-retain` |
+| AF-R05 | **King Beneath the Cold Plug** | bound damned `human-soul` plus projection office | Levistus; Eberron prison fragments | `ecology-active-revise` |
+| AF-R06 | **Coin-Scaled Worm** | Greed Archmask leasing infernal markets | Mammon | `ecology-active-revise` |
+| AF-R07 | **Lady of the Mire Keys** | damned `human-soul` prison ruler plus offices | Glasya; Queens of Night political scale | `selected-revise` |
+| AF-R08 | **Serpent of the Drowned Archive** | damned `human-soul` scholar-map-lord | Pathfinder Geryon | `ecology-active-retain` |
+| AF-R09 | **Surgeon of the Wound Arsenal** | damned `human-soul` investigator plus stolen offices | Mephistopheles without hellfire | `selected-revise` |
+| AF-R10 | **Two-Mouthed Deep** | fourth True Dragon; the Double Gate's impossible-obedience wound retains a Hell-side contradiction basin | Demogorgon; Typhon scale | `ecology-active-revise; canon-classified` |
+| AF-R11 | **King of Unburied Hosts** | damned `human-soul` Hollow Prophet plus residue works | Orcus | `ecology-active-retain` |
+| AF-R12 | **Carrion Huntress** | Gluttony Archmask using a bounded Wrath route | Yeenoghu | `ecology-active-revise` |
+| AF-R13 | **Horned Cartographer** | damned `human-soul` map-lord plus route office | Baphomet | `ecology-active-retain` |
+| AF-R14 | **Spore Empress of the Last Granary** | Gluttony Archmask | Zuggtmoy | `ecology-active-revise` |
+| AF-R15 | **False Prince Behind the Rescue** | Envy Archmask | Fraz-Urb'luu | `ecology-active-revise` |
+| AF-R16 | **Queen of the Open Scar** | sovereign Hell-side `abyssal-wound`; explicitly not a True Dragon | Deskari | `ecology-active-revise` |
+| AF-R17 | **Oathbreaker in the Choice-Lock** | damned `human-soul` map-lord with conditional release | Eberron Overlords | `ecology-active-revise` |
+| AF-R18 | **Exile Behind the Borrowed Temple** | Pride Archmask with constructed war-broods | Dragonlance's exiled-sovereign campaign grammar | `selected-revise` |
 
 # VII. Additional Mythic City and Kingdom Grammars
 
@@ -399,17 +427,17 @@ The earlier twelve beds should now be understood as **umbrella conflicts**, not 
 | Anchor and Rent Wars | twelve Patron city, route, archive, migration, realm-drag, dead-city, mobile-fortress, and proxy conflicts |
 | Last-Door Battles | twelve saintly and threshold-order roles, including dark breach specialists who are not saints |
 | Elemental background | eight constructed Shell polities while preserving sterile plane-quadrants and nonperson elemental patterns |
-| War of the Last Map | twelve infernal dominions, mercenary systems, office wars, wound fronts, damned cities, and soul-route campaigns |
+| War of the Last Map | twelve reviewed infernal dominions plus eighteen separate Black-Coil ruler, Archmask, fallen-spirit and wound-sovereign actor nurseries |
 
-The atlas therefore adds **sixty-six separate research leads** without declaring sixty-six events. Later work may discard half and still leave a much larger garden than the first great-power pass.
+The atlas contains **sixty-six separate realm, court, polity and campaign leads** without declaring sixty-six events. The infernal review adds a second shelf of **eighteen ecology-active actor leads** behind those realm pressures. Four actors and six dominions possess provisional historical placements; the other fourteen are active but undated. Actor and polity remain non-identical and nothing is promoted.
 
 ## Recommended next research sequence
 
 1. **Saintly offices and boundary orders — reviewed:** twelve leads developed in [[Saints, Threshold Orders, and Heavenly Campaigns Review]].
 2. **Egg White city and Patron atlas expansion — reviewed:** twelve leads developed in [[Patron Realms and Egg White City Politics Review]].
 3. **Menhir regional court dossiers — reviewed:** twelve leads developed in [[Menhir Courts, Jurisdictions, and High Hunts Review]] without a universal Seelie/Unseelie chart.
-4. **Infernal dominion atlas — next family:** split the War of the Last Map into mapped kingdoms, office coalitions, mercenary companies, and named wound fronts.
-5. **Shell refugee-polity study:** settle possible merfolk, triton, Giant, Driftkin, and altered-human continuities before naming cities.
+4. **Infernal dominion and archfiend atlas — reviewed, source-sharpened and first-placed:** twelve dominions reviewed, all eighteen actors ecology-activated, four actors historically selected and six dominions placed through the linked infernal reviews.
+5. **Shell refugee-polity study — next family:** settle possible merfolk, triton, Giant, Driftkin, and altered-human continuities before naming cities.
 6. **Idol heartland political atlas:** map forts, courts, harvest corridors, Sediment sites, and Archmask territories while keeping true succession deferred.
 
 # IX. Validation
@@ -425,6 +453,8 @@ The atlas therefore adds **sixty-six separate research leads** without declaring
 - [x] The Elemental Shell remains sterile; every city is a constructed littoral and every resident has a separate origin and continuity.
 - [x] The original dead City of Brass and the later fantasy metropolis remain separate source plants.
 - [x] Hell supports tyranny, selfish predation, mercenary war, and Abyssal unmaking without importing three fiend species or soul annihilation.
+- [x] All twelve infernal dominion leads completed review; all eighteen actors are ecology-active with five retain and thirteen revise dispositions; four actors and six dominions possess provisional historical placements while fourteen remain active but undated.
+- [x] Hell remains cold black Earth-and-Water oppression; all authentic fire and brimstone belongs exclusively to Wrath.
 - [x] Humans may be tools, tenants, prey, champions, hostages, witnesses, or incidental casualties without secretly causing every nonhuman war.
 - [x] Source hard edges remain visible: abduction, child theft, slavery, torture, execution, sacrifice, corpse use, massacre, starvation, madness, damnation, and destroyed cities are not replaced by harmless bureaucracy where load-bearing.
 - [x] Living traditions remain named and restricted rather than mined into generic exotic otherworlds.
@@ -434,6 +464,8 @@ The atlas therefore adds **sixty-six separate research leads** without declaring
 
 - [[Mythic and Sacred History Research MOC]]
 - [[Great-Power Mythic Ecology and Planting Matrix]]
+- [[Infernal Dominions and Black-Coil Archfiends - Collision Selection and Historical Placement Review]]
+- [[Black-Coil Archfiends - Source Signature and Full Ecology Review]]
 - [[Orthodox New Testament and Early Saints Lens]]
 - [[The Egg White Primer]]
 - [[Demiplane Atlas]]

@@ -164,6 +164,14 @@ Sinners lead:
 
 They are not unified, but they can coordinate when a Saint becomes too dangerous.
 
+### Greater Sinners after judgement
+
+`Sinner` names a chosen human vocation and allegiance, not a supernatural species. If a Sinner dies damned, the person remains one judged `human-soul`. Damnation does not turn that soul into an Idol Mask, Abyssal wound, Patron, fallen spirit, or native infernal creature.
+
+A damned Greater Sinner may nevertheless become a [[Crowned Refusers and Hollow Prophets|Crowned Refuser or Hollow Prophet]], bear one or more devil offices, rule a mapped dominion, command cults, or manifest through constructed bodies. `Archdevil` can describe the resulting political power. The soul, office, body, court, relic, copied persona, and public legend remain separately classified even when they use one name.
+
+Living and damned Sinners provide the principal human strategic layer between Material history and the hostile ecologies. They can found counter-churches, open routes, write contracts, construct prisons, cultivate Idol feeding systems, or maintain the anchors of an Abyssal wound. They may serve, bargain with, or betray an Archmask without becoming one. A Sinner's crime may help create a true dragon, but that dragon is a new `abyssal-wound` continuity rather than the sinner's transformed soul.
+
 ---
 
 ## 3) Reframing the “Cold War” as Competing Pastoral Projects
@@ -256,3 +264,4 @@ Hollows are the most common “street-level” adversary for Saints because they
 - [[Canon Index]]
 - [[Manifested Saints Overview]]
 - [[True Angels Overview]]
+- [[The War of the Last Map]]

@@ -57,6 +57,12 @@ Likewise, no Material coronation, sacrifice, or destroyed image can replace an I
 
 Each Idol has a recognizable heartland, but none has a fixed continental border. Mortal history changes routes. A war can draw Wrath's marches across Greed's vaults; a famine can let Gluttony's banquet occupy Sloth's still country; public acclaim can open Pride's palace inside Envy's replacement halls. The seven raid one another's harvests, poach cults, and weaponize rival forms.
 
+## Foreign Courts in Hell
+
+An Archmask can lease an infernal road, occupy a mapped dominion, bargain with a damned ruler, or maintain a court beside an Abyssal front. It remains an `idol-pattern` person rooted in one guilty Throne. Hell does not create it, damn it, convert it into a devil, or supply a second sovereignty.
+
+These foreign courts enter the [[The War of the Last Map|War of the Last Map]] to harvest particular conduct rather than to defend either side. Wrath can lease disciplined fronts; Greed can collateralize escape and custody; Gluttony can turn famine and corpses into communion; Envy can counterfeit rescue and command; Pride can claim the war's authorship. Their rivalries follow feeding interests and never require seven balanced armies.
+
 ## Defeat Grammar
 
 Killing a manifestation is useful but rarely sufficient. Permanent local defeat requires three acts:
@@ -69,7 +75,7 @@ White Flame can expose false identity and restore coherent boundaries, but it do
 
 ## Boundaries with Other Powers
 
-- Hell is cold, wet, pressure-heavy refusal ecology. Mortal fire-and-brimstone folklore mostly borrows from [[Wrath|Wrath's Red Marches]].
+- Hell is a cold, black, wet, pressure-heavy Earth-and-Water refusal ecology. Metaphysical fire and brimstone belong exclusively to [[Wrath|Wrath's Red Marches]]. Any fiery “Hell” records a Wrath overlap, a later cultural conflation, ordinary Material combustion, or separately classified Shell physics—never native infernal substance.
 - Veradia retains infection, parasites, spring proliferation, and invasive life. Morvalis retains bodily death, decomposition, grave stillness, and ecological return.
 - The Adversary and Idols may exploit the same mortal failure, but they have different ends.
 - Patrons rent stability; they are not Shadowland species and need not be evil.

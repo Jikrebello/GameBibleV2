@@ -23,6 +23,8 @@ The approach appears where the Water and Earth aspects of the Shell meet leftwar
 
 This geometry explains the aesthetic. It does not make ordinary mud, water, burial, or underground life evil.
 
+Hell has no native metaphysical fire, brimstone, burning river, furnace ecology, or hellfire substance. Those images belong to [[Wrath|Wrath's Red Marches]]. A fiery infernal report indicates Wrath overlap, later cultural conflation, ordinary Material combustion, or separately classified Shell physics; the fire is never evidence of Hell's own nature.
+
 ### 2. The Mapped Mire
 
 Hell's dominant navigable ecology is a black-mud mire containing refusing human souls, manifested damnations, native Depth fauna, imposed works, and temporary dominions. Distances, routes, and landmarks can be mapped at great cost.
@@ -40,6 +42,14 @@ Damned rulers, devil mantles, patrons, and other powers build local prisons, cou
 Beyond mapped Hell lies the Abyss. It is not another province but anti-place: collapsed causality, severed relation, impossible depth, and wounds in creation. Hell can be mapped. The Abyss can only be approached through what it has already damaged.
 
 Abyssal beings use `continuity: abyssal-wound`. Their body recurs until the contradiction permitting it is closed.
+
+## The War of the Last Map
+
+Mapped-Hell dominions require distinctions the Abyss destroys: named prisoners, stable borders, repeatable offices, enforceable contracts, roads with destinations, and causes with recognizable effects. Damned map-lords and devil-office systems therefore fight Abyssal wounds to keep Hell usable as a dominion. They also bind, measure, divide, and direct those wounds into rival territories. Every such weapon opens or enlarges another contradiction.
+
+The war persists because containment is not healing. Closing a wound normally requires truth, restitution, relinquished standing, released captives, and refusal of the lie that opened it. Infernal rulers prefer an endless campaign to remedies that would dismantle their own claims. Hell consequently manufactures the conditions it mobilizes against.
+
+The war has no single beginning, capital, commander, or final front. Abyssal wounds are not a people and share no government. Idol Archmasks, Patron brokers, Greater Sinners, fallen spirits, and native Depth fauna participate opportunistically without becoming two universal camps. Heavenly forces intervene only where a commission protects actual persons, testimony, or soul passage; they do not defend Hell's map-lords as the lesser evil.
 
 ## Human Souls
 
@@ -68,6 +78,7 @@ White Flame can reveal provenance, protect a human soul, repel a manifestation, 
 ## Navigation
 
 - [[Hell and Abyss MOC]]
+- [[The War of the Last Map]]
 - [[The Image, Soul, and Creaturely Continuity]]
 - [[The Vestibule of Weighing]]
 - [[The Adversary]]
