@@ -27,8 +27,8 @@ culture:
 related_factions: []
 appears_in: []
 needs:
-  - assign retain, revise, defer, or reject to the proposed two-stage fission
-  - promote only after explicit review
+  - promote the reviewed skeleton only after explicit author approval
+  - keep all twelve nursery hooks outside canon unless separately selected
 tags:
   - research
   - collision-audit
@@ -39,6 +39,10 @@ tags:
 
 > [!warning] Promotion ledger, not canon
 > This matrix records the implications of [[The Two Fissions and the Atherian Long Formation]]. It identifies later canon edits but makes none. Current Canon Reference notes remain controlling until a separate promotion decision.
+
+## Review Outcome
+
+[[The Two Fissions - Collision and Disposition Review]] passes every macro ruling. Six nursery hooks are retained and six pass with incorporated revisions. The historical model remains promotion-locked: review establishes internal fit, not canon status.
 
 ## 1. Classification Rules
 
@@ -162,7 +166,7 @@ Vesari formation occurs in a separate eastern river world. Ark-descended migrant
 | [[Proto-Ahl-e-Ahd Desert Tribes]] | begins with already distinct desert oath peoples | root them in the later northern fission and subsequent joining with older desert populations; preserve later contract drift | revise |
 | [[The Making of the Covenant Peoples]] | Ahdari foundation is compatible but lacks the shared northern ancestry | add Near-Glass inheritance to the Ahdari layer while keeping Iqashari, Qahuri, Qazmari, Zanthiri, and Velian histories distinct | revise lightly |
 | [[The First Atherian City-States]] | begins at urban settlements without the preceding conquest phase | add war-settlement and heroic-maritime foundations, mixed populations, slavery, and rewritten founder myths | revise |
-| [[The Rise of the Atherian Empire Overview]] | correctly begins among older cities and preserves violent republican expansion | add the earlier recovery horizon and four-stage Atherian identity; keep Caleran, the Compact, Republic, Thalion, and imperial sequence intact | revise lightly |
+| [[The Rise of the Atherian Empire Overview]] | correctly begins among older cities and preserves violent republican expansion | add the earlier recovery horizons and four-stage Atherian identity; keep Caleran, the Compact, Republic, Thalion, and imperial sequence intact | revise lightly |
 | [[The Making of the Folk]] | treats Atherian contact principally through later imperial expansion | add c. 2050 BR onward contact with separate proto-Atherian leagues while preserving pre-Atherian confederacies and later imperial conquest as a second, larger phase | revise |
 | [[Historical Spine of the Folk]] | begins Atherian trade and campaigns c. 800 BR | add an early war-settler contact horizon distinct from the c. 800–350 city-state horizon and imperial frontier | revise |
 | [[Early Folk Clan Worlds]] | compatible Orphaned formation without early southern contact | add selective forts, refugees, hostages, trade, resistance, and absorbed proto-Atherian populations; no unified Folk response | revise lightly |

@@ -26,7 +26,7 @@ culture:
 related_factions: []
 appears_in: []
 needs:
-  - review each hook as retain, revise, defer, or reject
+  - keep every hook promotion-locked until separately selected after canon promotion
 tags:
   - research
   - historical-seeds
@@ -45,7 +45,8 @@ tags:
 - **Hardness:** name conquest, massacre, slavery, hostage-taking, coerced marriage, starvation, execution, dispossession, and betrayal where they cause the history; do not add unrelated cruelty for atmosphere.
 - **Theological boundary:** no Atherian conquest is divinely commissioned. No victory, relic, road, office, dream, or later saintly association can retroactively authorize it.
 - **Ancestry boundary:** Orphaned peoples act, ally, betray, conquer, bargain, and preserve knowledge. They are not scenery awaiting Ark descendants.
-- **Promotion status:** every hook begins `nursery-unreviewed`.
+- **Review outcome:** [[The Two Fissions - Collision and Disposition Review]] records six `retain` and six incorporated `revise` rulings.
+- **Promotion status:** every hook remains `nursery-unreviewed`; review does not promote it.
 
 ---
 
@@ -59,20 +60,22 @@ tags:
 - **Hard edge:** people are killed by fellow members of the delivered community during a struggle over succession symbolism. Their deaths do not produce a new revelation or make the empty seat miraculous.
 - **Historical distortion:** Jirahar traditions remember a lawful refusal to crown a successor; Atherian traditions remember soldiers preventing an archival coup; Ahdari traditions remember elders hiding responsibility behind an empty chair.
 - **1360 AR trace:** many Jirahar hearings, some old Ahdari water courts, and a few Thalmyric memorial councils preserve an empty place whose orientation differs by tradition. No example can prove possession of the original seat.
-- **Collision ruling:** distinct from the Closed Companion roll and later saintly empty shrines. This concerns post-Prophet civil authority only.
+- **Collision ruling:** distinct from the Closed Companion roll, later saintly empty shrines, Pride's supernatural empty chairs, and crowned infernal refusal forms. The seat performs no act and answers nobody; this concerns post-Prophet civil authority only.
+- **Review disposition:** `retain` — the ordinary, nonresponsive seat and bounded civil crisis are already distinct.
 - **Promotion status:** `nursery-unreviewed`.
 
 ## TF-02 — The Five Staffs of the Last Camp
 
 - **Placement:** c. 2150–2110 BR; the Vacant Commission and earliest fission.
-- **Humble aperture:** five working staffs or seals identify the people responsible for route defense, judgement, testimony, provision, and household muster. The exact number and forms remain provisional.
+- **Humble aperture:** later mnemonic traditions use five working staffs or seals for route defense, judgement, testimony, provision, and household muster. Authorially the crisis involves several changing offices whose exact count and insignia are unknown.
 - **Causal chain:** bounded offices continue after the Prophet's death → drought and a failed harvest make the remaining stores insufficient for every proposed settlement → the military office requisitions grain for a southern expedition before the provision accounts are heard → dependants in two rear camps receive too little and die → judges condemn the seizure but cannot recover the consumed grain → southern companies refuse removal of the commander while northern households refuse further levy → the dispute turns a temporary expedition into a durable political departure.
 - **Source grammar:** Exodus 18 and Numbers 11 on delegated authority; 1 Kingdoms 8 on rulers taking children, fields, harvest, and service in the name of security.
 - **Culpable actors:** the military officeholders who sign the premature requisition and the expedition council which protects them after the resulting deaths are known.
 - **Hard edge:** the decision kills people through hunger. The commander may have believed the expedition necessary, but necessity does not erase the dead or make review meaningless.
-- **Historical distortion:** later versions make all five officers saints, traitors, tribal founders, or literal ancestors. Authorially they are offices occupied by changing people during a multi-year crisis.
+- **Historical distortion:** later versions normalize the offices into exactly five and make their holders saints, traitors, tribal founders, or literal ancestors. Authorially the mnemonic compresses changing offices and people across a multi-year crisis.
 - **1360 AR trace:** five-part emergency warrants survive in unrelated Atherian municipal and northern caravan traditions, but no set uses identical titles. An obsolete clause requires provision accounts to be heard before a military store becomes inheritable land.
-- **Collision ruling:** does not create five tribes, five successor nations, or a permanent constitutional college. It deepens the non-inheritable-office ruling.
+- **Collision ruling:** does not create five tribes, five successor nations, five metaphysical powers, or a permanent constitutional college. No surviving five-part warrant proves the original number. It deepens the non-inheritable-office ruling.
+- **Review disposition:** `revise` — the exact five are now fixed only as later mnemonic compression, not authorial constitutional fact.
 - **Promotion status:** `nursery-unreviewed`.
 
 ## TF-03 — The First Southern Gate
@@ -86,6 +89,7 @@ tags:
 - **Historical distortion:** Atherian civic legend makes the insider a princess marrying a founder; Folk memory makes the insider an enslaved child whose entire family was killed afterward; authorial truth fixes the bargain and betrayal but leaves identity and later fate open.
 - **1360 AR trace:** the oldest wall has a repaired gate predating the official foundation layer; burial pits and two incompatible allotment systems survive beneath later streets.
 - **Collision ruling:** not the Peace Feast at Nine Hearths and not the founding of every Atherian city. It is one early conquest pattern.
+- **Review disposition:** `retain` — its gate betrayal, conquest allotments, mixed local conspiracy, and urban archaeology remain distinct from the Peace Feast's admission massacre.
 - **Promotion status:** `nursery-unreviewed`.
 
 ## TF-04 — The Hostage Children of Oak and Glass
@@ -98,7 +102,8 @@ tags:
 - **Hard edge:** children are political security, one former hostage is judicially murdered, and retaliatory killing reaches people who did not order the first crime. Later mixed descent does not redeem those acts.
 - **Historical distortion:** Atherian genealogies call the fosterlings willing students; Folk praise songs call every one of them abducted; surviving age and ration entries show both exchanged noble children and people taken under duress.
 - **1360 AR trace:** several frontier courts require “oak and measure” witnesses before a protected hostage, ward, or diplomatic child can be punished or moved.
-- **Collision ruling:** not the ancestry of all Markish or Eclessian border populations. It supplies one old legal residue.
+- **Collision ruling:** not the ancestry of all Markish or Eclessian border populations and not the existing Praise entry about the hostage who teaches two courts the names of enemy children. TF-04 has no paired naming feast or singular teaching hostage; its carriers are an early fort-clan execution record and a dual-witness punishment rule.
+- **Review disposition:** `revise` — the event, date, participants, evidence, and legal consequence are now expressly separated from the existing hostage-and-naming Praise tradition.
 - **Promotion status:** `nursery-unreviewed`.
 
 ## TF-05 — The Harbor Founded Twice
@@ -112,11 +117,12 @@ tags:
 - **Historical distortion:** one civic calendar begins with the convoy's landing and another with destruction of the punitive fleet. Later diplomats reconcile them as a ceremonial double founding while omitting who was sold.
 - **1360 AR trace:** two foundation days, two incompatible quay alignments, and an old customs exemption for families whose ancestors “owned water before the wall.”
 - **Collision ruling:** one provisional harbor only. It cannot become the origin of all seven Sestaran cities or a shared Sestaran ethnicity.
+- **Review disposition:** `retain` — the seasonal quarter, grain-store occupation, punitive fleet, and double civic calendar give this harbor a distinct historical function.
 - **Promotion status:** `nursery-unreviewed`.
 
 ## TF-06 — The Furnace League
 
-- **Placement:** c. 1950–1750 BR; southern recovery horizon.
+- **Placement:** c. 1950–1750 BR; one Material southern recovery network.
 - **Humble aperture:** local miners and smiths possess ore, fuel, and furnace knowledge; Ark-descended measurers and caravan organizers possess standard weights, apprenticeship registers, and military customers.
 - **Causal chain:** isolated workshops cannot maintain dependable long-distance supply → several settlements adopt a shared measure and protection agreement → standardized tools and weapons increase harvest, trade, and military reach → rulers convert labor dues into hereditary mine service, buy captives, and punish smiths who sell outside the league → rival Atherian and Folk powers arm themselves from the same furnaces → war destroys charcoal country and grain routes → specialized settlements collapse because they no longer produce enough food to survive without exchange.
 - **Source grammar:** 1 Kingdoms 8 on concentrated power taking labor and produce; ancient metallurgical-network and heroic arms-trade grammars supply the comparative structure.
@@ -124,7 +130,8 @@ tags:
 - **Hard edge:** prosperity rests partly on enslaved and hereditary labor; the same standardized production which supports recovery increases the scale of war; route collapse starves families who never chose the wars.
 - **Historical distortion:** Atherians claim their measures created metalwork; local traditions claim the strangers merely stole a complete native system. Authorially the network requires both bodies of knowledge.
 - **1360 AR trace:** matching tool weights occur across politically unrelated ruins; mine cemeteries show foreign and local burial practices; one later Folk smith taboo prohibits marking a weapon and a grain measure with the same sign.
-- **Collision ruling:** does not create a literal Bronze Age, invent iron, or cause the whole transition to city-states.
+- **Collision ruling:** wholly Material and human. It shares no Titan fragment, city, guild, ruler, ruin, heat source, route, Patron, Shell platform, or descendant population with the Seven Furnace Cities of Orqad, the Refuge at the Living Furnace, or the Living Brass Refuge. It does not create a literal Bronze Age, invent iron, or cause the whole transition to city-states.
+- **Review disposition:** `revise` — the Material setting, ordinary heat source, independent population, and limited regional breakdown are now explicit.
 - **Promotion status:** `nursery-unreviewed`.
 
 ## TF-07 — The Well of Three Laws
@@ -137,7 +144,8 @@ tags:
 - **Hard edge:** deliberate closure results in deaths; retaliation kills people beyond the responsible guards. The later legal settlement cannot make the victims' families reconciled.
 - **Historical distortion:** Jirahar tradition credits a travelling judge; Ahdari tradition credits sworn well guardians; Tarkhan tradition says both copied a seasonal distinction already known locally.
 - **1360 AR trace:** three-part well rights survive in some Jirahar caravan rulings, Ahdari water instruments, and Tarkhan oral settlements with different priority orders.
-- **Collision ruling:** does not explain the Nine Wells of Tergai or validate later Covenant seizure of them.
+- **Collision ruling:** one ancient seasonal well and one three-part access ruling. It is not the Nine Wells of Tergai, the well repaired by the Four Who Brought Water, the Hundred-Wells district, or a source of universal Covenant water law. No company or later Saint participates.
+- **Review disposition:** `revise` — the locality, period, actors, legal question, evidence, and consequence are now separated from all later well histories.
 - **Promotion status:** `nursery-unreviewed`.
 
 ## TF-08 — The Court That Walked and the Wall That Stayed
@@ -151,6 +159,7 @@ tags:
 - **Historical distortion:** Jirahar accounts say the court walked rather than judge stolen property; Ahdari accounts say the wall stayed when the judges abandoned the captured. Both omit their own armed seizure.
 - **1360 AR trace:** paired legal formulas distinguish a court's right to depart from a protector's duty to remain. Ruined walls and caravan graves point to one region, but the precise site remains open.
 - **Collision ruling:** not the founding of First Qiryath and not the origin of every Ahdari protector house.
+- **Review disposition:** `retain` — one confiscation and kin-fight dramatize the northern institutional divergence without founding either later people.
 - **Promotion status:** `nursery-unreviewed`.
 
 ## TF-09 — The Bride of the Dry Road
@@ -164,6 +173,7 @@ tags:
 - **Historical distortion:** Ahdari versions make her an oath-mother; Jirahar versions make her a register keeper; Tarkhan versions make her a route ancestress who defeated scribes with their own words. None preserves a secure personal name.
 - **1360 AR trace:** several dry-road communities recognize a woman's right to leave an alliance while retaining custody of dependants if the host household kills her acknowledged peace-kin.
 - **Collision ruling:** not a single mother of Jirahar, Ahdari, or Tarkhan peoples. The later law may be borrowed independently from the story.
+- **Review disposition:** `retain` — the woman's constrained marriage, refusal, loss, departure, and bounded custody rule remain personal rather than ethnogenic shorthand.
 - **Promotion status:** `nursery-unreviewed`.
 
 ## TF-10 — The Hall That Faced the Grobi
@@ -177,32 +187,35 @@ tags:
 - **Historical distortion:** Ättar songs say the hall alone understood the south; Folk laments say it used Grobi fear to keep ships and warriors out of a costly kin war.
 - **1360 AR trace:** some Ättar winter musters still state that the south-facing watch overrides foreign feud service; neighboring Folk songs name the same clause “the closed shield.”
 - **Collision ruling:** does not cause the entire Folk–Ättar divergence and does not explain or replace the c. 1600 BR War of the Empty Halls or Mother Moon's bargain.
+- **Review disposition:** `retain` — the local conflict establishes one institutional preference while leaving the larger divergence and later supernatural pact untouched.
 - **Promotion status:** `nursery-unreviewed`.
 
 ## TF-11 — The Oar-King Without a Country
 
 - **Placement:** c. 1750–1500 BR; heroic-maritime Atherian recovery.
 - **Humble aperture:** an enslaved rower, refugee, outlaw, or dispossessed mercenary gains command after officers abandon or lose a damaged ship.
-- **Causal chain:** the crew is left without lawful pay, food, or safe harbor → the future ruler leads a mutiny or emergency seizure → victories attract refugees, criminals, specialists, and defeated soldiers → the fleet captures a harbor and makes its temporary commander king → the new ruler protects followers but raids neighboring coasts, sells captives, dispossesses local families, and kills a loyal rival who questions permanent kingship → the harbor becomes a city whose freedom song and slave market descend from the same founder.
+- **Causal chain:** the crew is left without lawful pay, food, or safe harbor → the future ruler leads a mutiny or emergency seizure → victories attract refugees, criminals, specialists, and defeated soldiers without turning them into a permanent named company → the fleet captures one already inhabited harbor and makes its temporary commander king → the new ruler protects followers but raids neighboring coasts, sells captives, dispossesses local families, and kills a loyal rival who questions permanent kingship → one later harbor polity claims the ruler as a founder while archaeology preserves an older settlement beneath the conquest layer.
 - **Source grammar:** David's outlaw-to-king movement in 1 Kingdoms 22 through 2 Kingdoms 5, Mediterranean sea-king and colonial-founder traditions, and the broader humble-adventurer-to-ruler grammar.
 - **Culpable actors:** the future ruler who orders raids, captive sales, dispossession, and the rival's murder, plus officers and buyers who turn those commands into a durable market.
 - **Hard edge:** humble suffering does not prevent later murder, enslavement, and abuse of office. Founding a durable city does not absolve the ruler's victims.
 - **Historical distortion:** civic epics remember liberation from cruel officers; hostile ports remember piracy and captive sales; royal lists omit the murdered rival or turn the death into single combat.
-- **1360 AR trace:** an annual ceremonial oar is carried before a civic magistrate while an unofficial dockside lament names people sold during the foundation generation.
-- **Collision ruling:** not Aurelius Thalion, not the founder of Caleran, and not one ancestor of all Atherian sea-kings.
+- **1360 AR trace:** an annual ceremonial oar is carried before one local civic magistrate while an unofficial dockside lament names people sold during the conquest generation. The object need not be original.
+- **Collision ruling:** not the Crownless Company, one of its members, or a second principal First-Kings company; it has no cooking ring, divided-body summons, near-extermination cycle, or burden-before-crown institution. It is also not Aurelius Thalion, the founder of Caleran, or one ancestor of all Atherian sea-kings.
+- **Review disposition:** `revise` — the figure is narrowed to one disputed harbor founder, the following is denied company status, and the city is recognized as older than the conquest.
 - **Promotion status:** `nursery-unreviewed`.
 
 ## TF-12 — The City That Conquered Its Ancestors
 
-- **Placement:** c. 650–400 BR; late City-States through the Celestial Compact.
-- **Humble aperture:** municipal archivists, shrine custodians, translators, and stonecutters are ordered to reconcile the incompatible founders of cities newly subordinated to Caleran's league.
-- **Causal chain:** Caleran needs older cities to accept a common calendar, levy, and arbitration system → conquest and political pressure deliver their archives and cult objects into Caleran custody → officials identify defeated founders with Caleran ancestral offices, alter dates, and recut inscriptions → custodians who resist are imprisoned or executed and some sanctuaries are confiscated → the twelve cities become legible as one ancient order → later citizens mistake an administrative synthesis made after conquest for a shared foundation existing from the beginning.
-- **Source grammar:** Samuel/Kingdoms and Chronicles as competing political histories; Roman appropriation, municipal refoundation, civic cult, and imperial translation supply the comparative grammar.
+- **Placement:** c. 550–400 BR; after the twelve historically real cities have entered the Celestial Compact and during its coercive consolidation toward a republic.
+- **Humble aperture:** municipal archivists, shrine custodians, translators, and stonecutters are ordered to reconcile the incompatible founders of cities already joined to Caleran's league.
+- **Causal chain:** the Compact already exists, but Caleran wants precedence inside its calendar, levy, and arbitration system → internal war and political pressure deliver several member archives and cult objects into Caleran custody → officials identify distinct founders with a standard sequence of Compact offices, alter dates, and recut inscriptions → custodians who resist are imprisoned or executed and some sanctuaries are confiscated → the real twelve-city league is given a false single ancestral order centered on Caleran → later citizens mistake a coercive constitutional synthesis for the Compact's original foundation.
+- **Source grammar:** Kingdoms and 1–2 Paralipomena (Chronicles) as competing political histories; Roman appropriation, municipal refoundation, civic cult, and imperial translation supply the comparative grammar.
 - **Culpable actors:** Caleran magistrates who order the falsification and confiscations, archivists who knowingly execute them, and officials who imprison or kill resisting custodians.
 - **Hard edge:** historical synthesis follows military coercion, includes killing and sanctuary seizure, and deprives defeated cities of control over their dead. The resulting common institutions may work without making the fabrication innocent.
-- **Historical distortion:** republican history claims Caleran restored the original twelvefold order. Local copies preserve different founder genders, kinships, dates, and enemies beneath later corrections.
+- **Historical distortion:** republican history claims Caleran restored the original twelvefold order. Local copies preserve different founder genders, kinships, dates, and enemies beneath later corrections. Those differences do not show that the member cities or Compact were invented.
 - **1360 AR trace:** restored civic portraits and palimpsest inscriptions show older founders recut with Caleran staffs, stars, and magistrate titles; one common feast contains twelve mutually incompatible local hymns.
-- **Collision ruling:** does not change the Celestial Compact's existence, Aurelius Thalion's later victory, or the protected Year of Standing Stars. It tests how Caleran manufactures antiquity.
+- **Collision ruling:** the twelve cities and their Compact remain historically real and initially multipolar. This episode concerns a later Caleran archival centralization, not the Compact's creation, the Erasure of Orthea, Aurelius Thalion's victory, or the Year of Standing Stars. No person or atrocity is removed from causal reality.
+- **Review disposition:** `revise` — the event moves after the Compact's formation and falsifies Caleran precedence rather than inventing the league or its cities.
 - **Promotion status:** `nursery-unreviewed`.
 
 ---
@@ -222,6 +235,7 @@ tags:
 ## Batch Validation
 
 - [x] Exactly twelve hooks are present.
+- [x] Exactly twelve dispositions are present: six `retain`, six incorporated `revise`, zero `defer`, and zero `reject`.
 - [x] Every hook has a plain cause, decision, mechanism, effect, cost, and consequence.
 - [x] Every hook names its hard edge directly without voyeuristic detail.
 - [x] No atrocity is excused by later mixture, prosperity, victory, or institutional usefulness.

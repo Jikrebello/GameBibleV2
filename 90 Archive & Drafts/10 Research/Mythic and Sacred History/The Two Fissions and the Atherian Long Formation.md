@@ -30,8 +30,8 @@ culture:
 related_factions: []
 appears_in: []
 needs:
-  - review the two-stage fission before canon promotion
-  - select or reject the twelve linked nursery hooks separately
+  - conduct a separate canon-promotion decision for the reviewed demographic skeleton
+  - consider individual hook promotion only after the skeleton is canonical
 tags:
   - research
   - scattering
@@ -62,6 +62,10 @@ One Glass People
 ```
 
 Folk, Ättar, Tarkhan, and Nsizwa remain independent **Orphaned** peoples. Sestaran harbor populations, Vesari, and later Eclessians remain **Braided** peoples. The diagram shows institutional descent, not pure bloodlines.
+
+## Review Outcome
+
+[[The Two Fissions - Collision and Disposition Review]] retains the non-inheritable commission, two-stage fission, Near-Glass authorial label, hard mixed southern conquest, later northern ethnogenesis, four Atherian identity layers, and successor boundaries. It incorporates one macro correction: the heroic-maritime period creates several overlapping recovery networks and several regional breakdowns, not one setting-wide Bronze Age or single collapse. The demographic skeleton is reviewed but remains noncanonical.
 
 ## Proposed Controlling Rulings
 
@@ -127,6 +131,8 @@ These layers are cumulative but not identical. A person may become Atherian by a
 
 The Prophet dies at or near the outward threshold after the Glass people have already become one people. He is the final living human with direct memory of the Giant world. The loss removes both the commissioned leader and the only witness capable of correcting every inherited account from personal experience.
 
+The first camps beyond the threshold are the attempted common southern sanctuary already required by [[The Glass Sojourn]]. Its failure is gradual: shared hearings, stores, marriages, graves, and defenses continue after the Prophet's death even as offices cease to agree about movement, land, and command. The later first fission explains how that common sanctuary fails; it does not add a second failed sanctuary or reduce the failure to one riot.
+
 The practical problem arrives immediately. The refuge was sustained for a bounded purpose; provision cannot be converted into a permanent entitlement, and the people must establish ordinary agriculture, roads, workshops, defenses, and civil government outside the deep Glass. Several camp offices have authority to perform parts of that work, but their mandates overlap once movement becomes settlement.
 
 Commanders argue that hostile country requires unified obedience. Judges answer that emergency command cannot decide ownership and punishment without review. Keepers of testimony insist that the last received instructions must govern. Provisioners control the seed, herds, tools, and ration registers without which any route will fail. Household elders refuse to surrender dependants to projects they did not approve. The conflict is constitutional before it becomes ethnic.
@@ -167,13 +173,13 @@ At shared wells, three kinds of claim repeatedly collide:
 
 Portable judges can settle one caravan dispute but struggle to defend a well for decades. Fortified oath-houses can protect water but convert emergency guardianship into inherited lordship. Raids make both systems harsher. Marriage makes clean separation impossible. The later Jirahar and Ahdari solutions emerge through repeated cases, retaliations, migrations, and institutional choices rather than one doctrinal council.
 
-## Phase V — The Heroic Maritime Recovery, c. 1900–1400 BR
+## Phase V — The Heroic Maritime Recoveries, c. 1900–1400 BR
 
 The proto-Atherian south becomes a network of sea-kings, fortified colonies, mercenary leagues, captive markets, shrine towns, and competing founder houses. This is the setting's Greek heroic and mixed maritime-migration grammar, not a claim that one historical “Sea People” founded Atheria.
 
-Ark measures, preserved apprenticeship, military organization, and record fragments help reconnect mines, forests, workshops, harbors, and grain basins after the Giant collapse. Local ore knowledge, ships, seasonal winds, roads, and labor make the network possible. The Atherians therefore catalyze a **post-Giant recovery horizon**; they do not invent metalwork, navigation, urban life, or civilization in empty country.
+Ark measures, preserved apprenticeship, military organization, and record fragments help reconnect mines, forests, workshops, harbors, and grain basins after the Giant collapse. Local ore knowledge, ships, seasonal winds, roads, and labor make those networks possible. The Atherians therefore catalyze several connected **post-Giant recovery horizons**; they do not invent metalwork, navigation, urban life, or civilization in empty country.
 
-The same network spreads destruction. Rulers demand timber, ore, slaves, tribute, and dependable grain. Mercenaries change sides. Settlers capture ports. Rival fleets burn warehouses that feed inland populations. Standard weapons circulate beyond the leagues that manufactured them. When several routes fail together, dependent settlements starve or abandon specialized works.
+The same networks spread destruction. Rulers demand timber, ore, slaves, tribute, and dependable grain. Mercenaries change sides. Settlers capture ports. Rival fleets burn warehouses that feed inland populations. Standard weapons circulate beyond the leagues that manufactured them. When several routes fail together, dependent settlements starve or abandon specialized works. Different regions break at different times; no single Atherian war or migration produces one universal post-Giant collapse.
 
 Heroic poems later place one founder at the beginning of each city. Archaeology should instead reveal older walls, mixed cemeteries, interrupted local occupation, several rebuilding horizons, and names in more than one linguistic family.
 
