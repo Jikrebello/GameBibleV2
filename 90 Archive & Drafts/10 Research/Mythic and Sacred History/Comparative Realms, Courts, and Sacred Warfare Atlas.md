@@ -21,7 +21,7 @@ related_factions:
   - Sinners
 appears_in: []
 needs:
-  - review the remaining forty-two research leads after the saint and Patron families
+  - review the remaining thirty research leads after the saint, Patron, and Menhir families
   - commission culture-specific Isles dossiers before assigning local recensions
   - classify every proposed Shell refugee people by continuity and origin
   - create individual dossiers before naming a greater saint, greater angel, Severed Exalt, Archmask, or infernal map-lord
@@ -156,18 +156,18 @@ Lovecraft’s racialized descriptions and equations of human difference with deg
 
 | ID | Separate lead | Core pressure and hard edge | Source root | Status |
 |---|---|---|---|---|
-| MN-R01 | **The Mounds of Several Kings** | Multiple local courts under one Menhir jurisdiction compete over entrances, tenants, cattle, craft, and prestige. Their wars include maiming, hostage exchange, crop failure, abduction, and broken settlements. | Irish supernatural polity | `research-lead` |
-| MN-R02 | **The Court That Lost the Surface** | A defeated court retains legal control of subterranean routes after losing Material land. It demands toll, fosterage, or seasonal access from later human occupants without recognizing their moral claims. | Irish síd settlement grammar | `research-lead` |
-| MN-R03 | **The Seven Who Returned from Annwfn** | A raid on a guarded Otherworld fortress wins a real tool but destroys most of the company. The inhabitants are not demons and the raiders are not automatically righteous. | *Preiddeu Annwfn* | `research-lead` |
-| MN-R04 | **The Revolving Fortress** | A stronghold is reachable only when several natural pressures align. Its rotation is law, not machinery, and failed entry can strand, drown, age, or transform an expedition. | Caer Sidi; Dreamlands approach | `research-lead` |
-| MN-R05 | **The Elfland Tithe** | A court owes bodies or service to another jurisdiction and uses abducted mortals as payment. Rescue can save one captive while condemning another unless the underlying obligation is broken. | Scottish Elfland and tithe ballads | `research-lead` |
-| MN-R06 | **The Night-Riders of the Seely Wights** | Mortal practitioners enter trance processions and serve a court whose healings, thefts, warnings, and violence cannot be reduced to good fairies. Earthly authorities later torture or execute alleged participants. | Scottish seely-wight evidence | `research-lead` |
-| MN-R07 | **The Spriggan Treasury War** | Treasure-guardian courts defend barrows and ruins against humans, rival courts, and Patrons seeking anchor mass. Child theft, crop blight, burial violation, and lethal retaliation remain possible. | Cornish spriggans | `research-lead` |
-| MN-R08 | **The Compact of the Knockers** | Mine-dwelling beings warn, mislead, work, demand portions, and punish disrespect around one geological jurisdiction. A mining state weaponizes the compact and kills workers who refuse its risks. | Cornish knockers | `research-lead` |
-| MN-R09 | **The Two Buccas of One Coast** | Contrary coastal manifestations may be rival courtiers, changing modes of one place-mind, or two cultural readings of a larger sea law. Storm, drowning, failed fishing, and coerced offerings are real outcomes. | Cornish Bucca traditions | `research-lead` |
-| MN-R10 | **The High Hunt of the Stolen Season** | A Hunt crosses several courts because one seasonal law refuses to release what it preserved. Riders take the living, dead, and not-quite-born according to jurisdiction rather than guilt. | Wild Hunt; Menhir phase-lock | `research-lead` |
-| MN-R11 | **The Mountain the Court Abandoned** | Lesser court persons flee an old holy mountain when the deeper Menhir pressure becomes active. Humans mistake the refugees for gods and the inaccessible summit for their royal capital. | “The Other Gods”; mountain taboo | `research-lead` |
-| MN-R12 | **The Sleeping Law Beneath the Court** | A court has built custom and rank around a dormant Great Coherence or Sleeping Wrong it wrongly calls its ancestor. When it stirs, it computes through the court without recognizing kinship or bargains. | Lovecraftian cosmic scale; Great Coherences | `research-lead` |
+| MN-R01 | **The Mounds of Several Kings** | Multiple local courts under one Menhir jurisdiction compete over entrances, tenants, cattle, craft, and prestige. Their wars include maiming, hostage exchange, crop failure, abduction, and broken settlements. | Irish supernatural polity | `reviewed-retain` |
+| MN-R02 | **The Court That Lost the Surface** | A defeated court retains control of particular subterranean routes after losing Material land. It demands toll, fosterage, or seasonal access without gaining moral title over later human occupants. | Irish síd settlement grammar | `reviewed-retain` |
+| MN-R03 | **The Raid That Returned One Tool** | A culpable raid on a guarded Otherworld stronghold wins one bounded court tool but kills, captures, drowns, or transforms most of the raiders. The defenders are not demons and the prize does not make the raid righteous. | *Preiddeu Annwfn* | `reviewed-revise` |
+| MN-R04 | **The Revolving Fortress** | A stronghold is reachable only when several natural pressures align. Its rotation is law, not machinery, and failed entry can strand, drown, age, or transform an expedition. | Caer Sidi; Dreamlands approach | `reviewed-retain` |
+| MN-R05 | **The Elfland Tithe** | A court owes embodied service to one specified jurisdiction and uses abducted mortals as substitutes. Rescue can save one captive while condemning another unless the obligation itself is broken. | Scottish Elfland and tithe ballads | `reviewed-retain` |
+| MN-R06 | **The Night Procession and the Accused** | Some mortals bodily or dream-linkedly serve a dangerous court procession; later authorities torture and execute actual participants, confused witnesses and false accused. Human souls never divide or ride free of their bodies. | Scottish seely-wight and trial evidence | `reviewed-revise` |
+| MN-R07 | **The Barrow-Treasury War** | Treasure guardians defend one barrow or ruin against grave robbers, rival courtiers and Patron agents. Burial violation, maiming, collapse and lethal retaliation remain without importing unrelated child-theft or crop-blight motifs. | Cornish spriggans | `reviewed-revise` |
+| MN-R08 | **The Compact of the Knockers** | Mine beings and Stone-Voice responses warn, mislead, work and demand portions around one geological jurisdiction. A mining state weaponizes the compact and kills workers who refuse its risks. | Cornish knockers | `reviewed-retain` |
+| MN-R09 | **The Two Buccas of One Coast** | Contrary coastal manifestations may be rival court persons, changing modes of one place-mind, or two cultural readings of a larger sea law. Storm, drowning, failed fishing and coerced offerings remain real. | Cornish Bucca traditions | `reviewed-retain` |
+| MN-R10 | **The High Hunt of the Withheld Season** | A declared Hunt crosses several courts because one seasonal law refuses release. Riders seize living people, corpses, pregnant bodies, animals, eggs and seed by jurisdiction, never unborn souls or future persons. | Wild Hunt; Menhir phase-lock | `reviewed-revise` |
+| MN-R11 | **The Mountain the Court Abandoned** | Lesser court persons flee an old holy mountain when a deeper intelligent Menhir pressure becomes active. Humans mistake the refugees for gods and the inaccessible summit for their royal capital. | “The Other Gods”; mountain taboo | `reviewed-retain` |
+| MN-R12 | **The Court Above the Unanswering Engine** | A court mistakes the repeated outputs of one dormant Great Coherence for ancestral will. When it stirs, the nonperson Shell computation corrects through court sites without recognizing kinship, rank or bargain. | Lovecraftian cosmic scale; Great Coherences | `reviewed-revise` |
 
 # III. Patrons and the Egg White: Dreamlands Meets Oblivion
 
@@ -405,10 +405,10 @@ The atlas therefore adds **sixty-six separate research leads** without declaring
 
 ## Recommended next research sequence
 
-1. **Saintly offices and boundary orders:** easiest to integrate because controlling canon already supports local, mission, war, threshold, wonder-working, and greater saints.
-2. **Egg White city and Patron atlas expansion:** the existing fourteen demiplanes provide a strong chassis for distinct realms and rivalries.
-3. **Menhir regional court dossiers:** begin with Irish, Welsh, Scottish, and Cornish material separately; do not start from a universal Seelie/Unseelie chart.
-4. **Infernal dominion atlas:** split the War of the Last Map into mapped kingdoms, office coalitions, mercenary companies, and named wound fronts.
+1. **Saintly offices and boundary orders — reviewed:** twelve leads developed in [[Saints, Threshold Orders, and Heavenly Campaigns Review]].
+2. **Egg White city and Patron atlas expansion — reviewed:** twelve leads developed in [[Patron Realms and Egg White City Politics Review]].
+3. **Menhir regional court dossiers — reviewed:** twelve leads developed in [[Menhir Courts, Jurisdictions, and High Hunts Review]] without a universal Seelie/Unseelie chart.
+4. **Infernal dominion atlas — next family:** split the War of the Last Map into mapped kingdoms, office coalitions, mercenary companies, and named wound fronts.
 5. **Shell refugee-polity study:** settle possible merfolk, triton, Giant, Driftkin, and altered-human continuities before naming cities.
 6. **Idol heartland political atlas:** map forts, courts, harvest corridors, Sediment sites, and Archmask territories while keeping true succession deferred.
 
@@ -420,6 +420,7 @@ The atlas therefore adds **sixty-six separate research leads** without declaring
 - [x] Blackfire-like breach specialists belong to living Sinner, warlock, or Patron structures rather than being relabeled saints.
 - [x] Idols receive Great Game politics, realm identity, champions, projected hosts, and cultural multiplicity without becoming belief-created gods.
 - [x] Menhir range from intimate fairy-court encounter to incomprehensible natural sovereignty without becoming mindless; mindless cosmic computation is routed elsewhere.
+- [x] All twelve Menhir leads have completed review in [[Menhir Courts, Jurisdictions, and High Hunts Review]] with seven retain and five revise dispositions and no placement or promotion.
 - [x] Patrons receive Dreamlands and Daedric realm grammar while every place still has anchor, law, upkeep, tether, owner, inhabitants, and failure state.
 - [x] The Elemental Shell remains sterile; every city is a constructed littoral and every resident has a separate origin and continuity.
 - [x] The original dead City of Brass and the later fantasy metropolis remain separate source plants.

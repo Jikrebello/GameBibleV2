@@ -20,7 +20,7 @@ related_factions:
   - Sinners
 appears_in: []
 needs:
-  - review the twelve Menhir court and jurisdiction leads against these umbrella boundaries
+  - conduct a separate historical placement pass for no more than six reviewed Menhir nurseries
   - choose named local recensions only after their cultural and regional dossiers exist
   - require an individual dossier before naming any fallen angel, Greater Saint, sovereign Patron, or autonomous Archmask
 tags:
@@ -96,7 +96,7 @@ The Petitions of the Cut-Loose Wards and UH-01 now remain separate local crimes.
 
 This bed already contains the required correction: several regional Menhir conjunctions were later compressed into one moralized divine war. The actual pressure begins when abandoned Giant recurrence machinery keeps a season, plague garden, famine cycle or death office running without its old court. A Menhir completes, intensifies, preserves or opposes that process according to natural jurisdiction, not the guilt of the victims.
 
-The next Menhir-family review may localize individual conjunctions, but it cannot assume that Veradia, Solrath, Morvalis, Nevaura or any other Menhir all met in one council or war. Mortal plague, starvation, exposure and landscape loss remain explicit.
+The reviewed Menhir family may later localize individual conjunctions, but no placement may assume that Veradia, Solrath, Morvalis, Nevaura or any other Menhir all met in one council or war. Mortal plague, starvation, exposure and landscape loss remain explicit.
 
 **Final disposition:** `retain`.
 
@@ -201,11 +201,14 @@ All eight revisions are incorporated into [[Great-Power Mythic Ecology and Plant
 
 ## Next Interface
 
-The next distinct package is the twelve-lead Menhir court and jurisdiction review in [[Comparative Realms, Courts, and Sacred Warfare Atlas]]. It should use GP-II-01 as an umbrella test, GP-III-02 for broken-compact collisions and GP-I-03 only where a specific natural claim follows an escaped court. It must not populate these three beds by assuming one Faewild pantheon, one court hierarchy or one universal Menhir war.
+[[Menhir Courts, Jurisdictions, and High Hunts Review]] has now tested all twelve Menhir leads against these boundaries. It retains seven and incorporates five revisions without placement or promotion. Its later historical pass may use GP-II-01 as an umbrella test, GP-III-02 for broken-compact collisions and GP-I-03 only where a specific natural claim follows an escaped court. It cannot populate those beds through one Faewild pantheon, court hierarchy or universal Menhir war.
+
+The next unreviewed comparative family is the infernal-dominion shelf: twelve mapped kingdoms, office coalitions, mercenary systems and Abyssal fronts that must remain local episodes within the War of the Last Map.
 
 ## Navigation
 
 - [[Great-Power Mythic Ecology and Planting Matrix]]
+- [[Menhir Courts, Jurisdictions, and High Hunts Review]]
 - [[Comparative Realms, Courts, and Sacred Warfare Atlas]]
 - [[First Unknown Histories - Collision and Disposition Review]]
 - [[Saint and Breachward Historical Placement Pass]]

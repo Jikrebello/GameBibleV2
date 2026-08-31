@@ -20,7 +20,8 @@ related_factions:
   - Sinners
 appears_in: []
 needs:
-  - review the twelve Menhir court and jurisdiction leads against the reviewed umbrella layer
+  - conduct a separate historical placement pass for no more than six reviewed Menhir nurseries
+  - review the remaining Idol, Shell, and infernal realm leads
   - select named local recensions only after cultural dossiers exist
   - create individual dossiers before naming any Severed Exalt, fallen angel, greater saint, or sovereign Patron
 tags:
