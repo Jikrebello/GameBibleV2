@@ -15,8 +15,7 @@ related_factions:
   - Thalmyric Church
 appears_in: []
 needs:
-  - conduct a chronological collision review of the twelve earth-first placements
-  - decide which reviewed placements deserve one light Historical Seed Garden trace
+  - keep the selected figures, localities, cults and complete biographies provisional after trace promotion
   - leave the sixteen deferred leads unplaced until a specific historical pressure requires them
 tags:
   - research
@@ -173,7 +172,7 @@ This review does not assign dates or biographies. The following are preferred pr
 
 Each placed figure receives one principal commission, no more than two personal relationships, at least three evidence carriers, one 1360 AR trace and a statement of what remains unknowable. Saints require a complete earthly biography before any active commission is accepted. Angels require a commission history rather than a mortal becoming.
 
-That interface is now implemented in [[First Heavenly Constellation - Earth-First Historical Placement Pass]]. The twelve remain exploratory and await chronological review; the placement dossier does not revise the dispositions recorded here or promote any trace.
+That interface is implemented in [[First Heavenly Constellation - Earth-First Historical Placement Pass]]. [[First Heavenly Constellation - Chronological Placement Review]] passes all twelve with five `retain` and seven incorporated `revise` dispositions. [[First Heavenly Constellation - First Trace Promotion Review]] promotes one light trace from each while withholding every complete identity, biography and commission. The source-selection dispositions recorded here remain unchanged.
 
 # VI. Promotion and Counterfeit Boundaries
 
@@ -211,6 +210,8 @@ That interface is now implemented in [[First Heavenly Constellation - Earth-Firs
 - [[Comparative Celestials and Heavenly Translation Atlas]]
 - [[Orthodox Biblical Angels and Heavenly Powers Atlas]]
 - [[First Heavenly Constellation - Earth-First Historical Placement Pass]]
+- [[First Heavenly Constellation - Chronological Placement Review]]
+- [[First Heavenly Constellation - First Trace Promotion Review]]
 - [[Saints, Threshold Orders, and Heavenly Campaigns Review]]
 - [[Heavenly Orders Overview]]
 - [[Heavenly Commission and Manifestation]]

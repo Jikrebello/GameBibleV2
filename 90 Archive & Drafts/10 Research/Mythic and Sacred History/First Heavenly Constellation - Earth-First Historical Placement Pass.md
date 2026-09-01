@@ -22,9 +22,8 @@ related_factions:
   - Sinners
 appears_in: []
 needs:
-  - review all twelve placements chronologically before any trace promotion
-  - choose final localities and cultural recensions only after regional collision review
-  - promote at most one light trace per retained placement in a later dedicated pass
+  - keep final localities and cultural recensions open until regional dossiers require them
+  - promote no complete person, institution, relic or active campaign through the light trace layer
   - leave all personal names, feast names, relic identities, institutional descendants and present claimants provisional
 tags:
   - research
@@ -52,7 +51,7 @@ The pass places:
 - one localized High-Noon judgement;
 - one ordinary personal-guardian case close enough to the present to remain legally active.
 
-Nothing here enters canon, the authoritative chronology, the named-figure register, a church synaxarion or [[The Historical Seed Garden]]. Every handle and locality remains provisional. The historical event must remain useful even if a later church misidentified the angel, denied the Saint, fabricated a relic or attached the wrong supernatural name.
+Nothing here enters canon, the authoritative chronology, the named-figure register or a church synaxarion. [[First Heavenly Constellation - Chronological Placement Review]] subsequently passes all twelve placements after incorporating seven revisions, and [[First Heavenly Constellation - First Trace Promotion Review]] harvests only one light trace from each into [[The Historical Seed Garden]]. Every handle and locality remains provisional. The history must remain useful even if a later church misidentified the angel, denied the Saint, fabricated a relic or attached the wrong supernatural name.
 
 ## Placement Rules
 
@@ -68,18 +67,18 @@ Nothing here enters canon, the authoritative chronology, the named-figure regist
 
 | Lead | Provisional date | Historical aperture | Classification | Principal active work | Placement status |
 |---|---:|---|---|---|---|
-| OBA-N07 — Wheels at the Withdrawing Glory | c. 610–570 BR | a Star-age refuge gate converted into a purge register | high-order Witness/Warden choir | withdraw one consecrated civic protection after its charge is inverted | `placed — review pending` |
-| HC-N10 — Voice Beside the Binding | c. 244–267 AR; later correction c. 404 AR | an Underground prison-binding fed by erased prisoners | Greater Saint | correct one counterfeit voice and preserve one containment without merging with it | `placed — review pending` |
-| OBA-N02 — Finder of the Cast-Out | c. 304–323 AR | a coerced household pregnancy and inheritance expulsion | Mercy-Herald Angel | preserve an expelled woman and child and truthfully name the household crime | `placed — review pending` |
-| OBA-N06 — Coal-Bearer at the False Choir | c. 382–391 AR | a conversion choir concealing denunciation, torture and execution | Witness Angel | cleanse one culpable witness into truthful confession and expose five murders | `placed — review pending` |
-| HC-N03 — Pilgrim Beneath Seven Small Wings | c. 626–641 AR | an early-frontier hostage campaign against a barred pass | Greater Angel plus seven Attendants | advise one mortal campaign and protect specified captives without commanding the army | `placed — review pending` |
-| HC-N05 — Golden Last-Watch | c. 653–668 AR | a negotiated evacuation whose commanders abandon dependants | Warden Angel | guard the moving rear until the named dependants cross | `placed — review pending` |
-| OBA-N08 — Prince Delayed at Three Borders | c. 692–706 AR | a dispersed people’s prisoners moved through three supernatural jurisdictions | Greater Guardian Angel | contest three separately classified obstructions until one captive roll reaches hearing | `placed — review pending` |
-| HC-N11 — Martyr of the Voluntary Wall | c. 744–752 AR; later correction c. 811 AR | a lethal city defence mixing volunteers and coerced labor | Greater Saint | rebuke one successor institution’s reuse of emergency conscription | `placed — review pending` |
-| HC-N13 — Saint of Five Remembered Wings | c. 781–826 AR; later intervention c. 907 AR | an abused infernal client-heir’s vengeance, confession and restitution | Greater Saint | break one hereditary infernal custody claim over surviving children | `placed — review pending` |
-| HC-N08 — Taken Trumpet | c. 910–913 AR | an occupied mountain prison and a suppressed failed rescue | Greater Host/Herald Angel | announce one protected surrender and resist forced false proclamation | `placed — review pending` |
-| OBA-N04 — Angel at the Threshing Floor | c. 1171–1173 AR | a ruler’s coercive census followed by a localized mortality | Greater Judgement Angel | execute and visibly terminate one bounded judgement commission | `placed — review pending` |
-| OBA-N11 — Guardian Who Could Not Prevent the Grave | c. 1327–1331 AR; disputed custody active in 1360 | an assurance debtor’s neglected death and postmortem identity fraud | personal Guardian Angel | preserve the guarded person’s true identity without preventing death or deciding judgement | `placed — review pending` |
+| OBA-N07 — Wheels at the Withdrawing Glory | c. 610–570 BR | a Star-age refuge gate converted into a purge register | high-order Witness/Warden choir | withdraw one consecrated civic protection after its charge is inverted | `reviewed-revise` |
+| HC-N10 — Voice Beside the Binding | c. 244–267 AR; later correction c. 404 AR | an Underground prison-binding fed by erased prisoners | Greater Saint | correct one counterfeit voice and preserve one containment without merging with it | `reviewed-revise` |
+| OBA-N02 — Finder of the Cast-Out | c. 304–323 AR | a coerced household pregnancy and inheritance expulsion | Mercy-Herald Angel | preserve an expelled woman and child and truthfully name the household crime | `reviewed-retain` |
+| OBA-N06 — Coal-Bearer at the False Choir | c. 382–391 AR | a conversion choir concealing denunciation, torture and execution | Witness Angel | cleanse one culpable witness into truthful confession and expose five murders | `reviewed-retain` |
+| HC-N03 — Pilgrim Beneath Seven Small Wings | c. 626–641 AR | an early-frontier hostage campaign against a barred pass | Greater Angel plus seven Attendants | advise one mortal campaign and protect specified captives without commanding the army | `reviewed-revise` |
+| HC-N05 — Golden Last-Watch | c. 653–668 AR | a negotiated evacuation whose commanders abandon dependants | Warden Angel | guard the moving rear until the named dependants cross | `reviewed-retain` |
+| OBA-N08 — Prince Delayed at Three Borders | c. 692–706 AR | a dispersed people’s prisoners moved through three supernatural jurisdictions | Greater Guardian Angel | contest three separately classified obstructions until one captive roll reaches hearing | `reviewed-revise` |
+| HC-N11 — Martyr of the Voluntary Wall | c. 744–752 AR; later correction c. 811 AR | a lethal city defence mixing volunteers and coerced labor | Greater Saint | rebuke one successor institution’s reuse of emergency conscription | `reviewed-retain` |
+| HC-N13 — Saint of Five Remembered Wings | c. 781–826 AR; later intervention c. 907 AR | an abused infernal client-heir’s vengeance, confession and restitution | Greater Saint | break one hereditary infernal custody claim over surviving children | `reviewed-revise` |
+| HC-N08 — Taken Trumpet | c. 910–913 AR | an occupied mountain prison and a suppressed failed rescue | Greater Host/Herald Angel | announce one protected surrender and resist forced false proclamation | `reviewed-retain` |
+| OBA-N04 — Angel at the Threshing Floor | c. 1171–1173 AR | a ruler’s coercive census followed by a localized mortality | Greater Judgement Angel | execute and visibly terminate one bounded judgement commission | `reviewed-revise` |
+| OBA-N11 — Guardian Who Could Not Prevent the Grave | c. 1327–1331 AR; disputed custody active in 1360 | an assurance debtor’s neglected death and postmortem identity fraud | personal Guardian Angel | preserve the guarded person’s true identity without preventing death or deciding judgement | `reviewed-revise` |
 
 # I. Age of Stars
 
@@ -93,22 +92,23 @@ Magistrates closed the inner gate, separated mixed households, executed several 
 
 ### Heavenly intervention
 
-The Lord commissioned one high-order choir, later remembered as intersecting white-gold wheels nested inside migrating pinions, to withdraw a particular protection from the refuge covenant the city had inverted. The choir passed through five gate stations in a witnessed order. Lamps extinguished without smoke, the protected register became ordinary parchment, and the pressure that had previously prevented hostile breach ceased. The choir did not attack the city or assist the besiegers. The subsequent siege, executions and exile remained human acts, and the invaders were not thereby declared righteous.
+The Lord commissioned one high-order choir, later remembered as intersecting white-gold wheels nested inside migrating pinions, to withdraw a particular protection from the refuge covenant the city had inverted. The choir passed through the gate stations in a witnessed order, but surviving recensions disagree about their number. Lamps extinguished without smoke, the protected register became ordinary parchment, and the pressure that had previously prevented hostile breach ceased. The choir did not attack the city or assist the besiegers. The subsequent siege, executions and exile remained human acts, and the invaders were not thereby declared righteous.
 
-The commission ended when the protection was withdrawn and the surviving truthful copy of the covenant was carried out. Later engineers reproduced the five-stage gate sequence and achieved only mechanical closures. Star priests claimed the wheels were salvaged Nythalum machinery; later churches claimed the city had been their own before the Redeemer. Neither claim follows from the event.
+The commission ended when the protection was withdrawn and the surviving truthful copy of the covenant was carried out. Later cities adapted the contradictory station accounts into an ordered **unhousing rubric** for declaring that a former sanctuary no longer carries its old public charge. Engineers who reproduce the architecture achieve only mechanical closures. Star priests claimed the wheels were salvaged Nythalum machinery; later churches claimed the city had been their own before the Redeemer. Neither claim follows from the event.
 
 ### Causal and evidentiary interface
 
 - **Cause → decision → mechanism → effect → cost → consequence:** famine and military fear → magistrates weaponize the refuge register → guards segregate, execute and expel registered households → the commissioned choir withdraws the covenant’s bounded protection → the city loses people first to purge and then to siege → later civic law distinguishes consecration from mere possession of a gate.
 - **Commission:** preserve and, if the covenant is deliberately inverted, withdraw protection from one created civic good; carry out one truthful register. It cannot judge every citizen, open the city to an enemy, found a later church or become the city’s resident guardian.
 - **Hard edge / source fidelity:** Ezekiel’s departure of glory and siege imagery supply visible withdrawal, execution and exile. The atrocity occurs before the withdrawal and is not softened into administrative misuse.
-- **Evidence carriers:** five differently scorched gate sockets; a grain-and-execution tablet copied by an enemy clerk; the expelled households’ covenant recension; a siege layer beginning after the purge; incompatible wheel diagrams in engineering and liturgical manuscripts.
-- **1360 AR trace:** unrelated cities still use a five-stage public deconsecration procedure before converting a sanctuary gate to military or commercial use. Most users do not know its origin.
+- **Evidence carriers:** differently scorched gate sockets whose count varies by surviving plan; a grain-and-execution tablet copied by an enemy clerk; the expelled households’ covenant recension; a siege layer beginning after the purge; incompatible wheel diagrams in engineering and liturgical manuscripts.
+- **1360 AR trace:** unrelated cities still use an ordered public unhousing rubric before converting a sanctuary gate to military or commercial use. Its steps differ by city, and most users do not know the disputed origin.
 - **Competing interpretations:** abandoned star machine, high-order angelic withdrawal, sabotage by expelled clerks, divine approval of the besiegers, or several sieges compressed into one civic lament.
 - **Authorially fixed:** the city murdered and expelled people protected by its own covenant; a real loyal choir withdrew one bounded protection; the enemy was not commissioned by that act.
 - **Open:** city, households, number killed, choir’s received title, covenant’s original consecration, fate of the carried register and whether any current gate descends institutionally from it.
 - **Collision boundary:** not the Great Unbinding, Nythalum Ascension, Erasure of Orthea, War of the Closed Doors or a permanent guardian-city. No protected Weird is explained.
-- **Promotion gate:** a later Garden trace may use the five-stage procedure or a carried covenant phrase, never the complete city, siege or choir identity.
+- **Promotion gate:** the Garden may use the variable unhousing rubric or a carried covenant phrase, never the complete city, siege or choir identity.
+- **Review disposition:** `revise` — remove the fixed five-stage procedure so it cannot collide with the Rule of Five Closures; retain the ordered withdrawal, purge, siege and technical misreading.
 
 # II. Underground and Conversion
 
@@ -134,9 +134,10 @@ Around 404 AR, custodians of a new reliquary began issuing commands in the dead 
 - **1360 AR trace:** an annual reading places the betrayed worker’s name before the martyr’s provisional title. One church preserves the order; another reverses it.
 - **Competing interpretations:** murderer turned useful informant, penitent martyr, prison cult invention, bound ghost, Mask ventriloquism or genuine later Saintly correction.
 - **Authorially fixed:** the clerk betrayed one person under torture, repented before death, made restitution without obtaining forgiveness, died preserving others and did not merge with any supernatural mechanism.
-- **Open:** gender, city, baptismal history, final judgement until promotion, recognition as a Saint, number evacuated, exact Mask, relic custody and present authenticity claims.
+- **Open:** gender, city, baptismal history, public recognition, number evacuated, exact Mask, relic custody and present authenticity claims. Within this nursery lead, reception as a redeemed Saint after judgement is fixed; no mortal institution proves it.
 - **Collision boundary:** not the Saint of the Two Ferries, Three-Lock Prison Road, Witness at the Red Passage or one of the Redeemer’s Companions.
-- **Promotion gate:** no trace may prove the voice, relic or sainthood; the safest later root is the victim-first reading order.
+- **Promotion gate:** no trace may prove the voice, relic or sainthood; the safest root is the rule that the betrayed victim’s name precedes the martyr’s title.
+- **Review disposition:** `revise` — retain the earthly guilt and later correction, but make the victim-before-title rule the trace so it cannot collapse into the Red Door name-reading or another prison-road custom.
 
 ## OBA-N02 — Finder of the Cast-Out
 
@@ -158,6 +159,7 @@ The child was near death when an angel appeared in the vestment of a pale ground
 - **Open:** household, region, names, later freedom, child’s adulthood, baptism, final judgements, angel’s title and whether the cistern is the one now claimed by any institution.
 - **Collision boundary:** not a founding mother of a people, a wilderness Menhir, a saintly midwife network or a general emancipation miracle.
 - **Promotion gate:** the hospital clause or one survivor legal formula may later enter the Garden; the alleged cistern and complete household genealogy may not.
+- **Review disposition:** `retain` — the event is chronologically sound, materially recoverable and distinct from a national mother, miraculous spring or saintly midwife cycle.
 
 ## OBA-N06 — Coal-Bearer at the False Choir
 
@@ -179,6 +181,7 @@ At the new sanctuary’s dedication, the informing singer broke off before the a
 - **Open:** city, singer, precise temple cult, later repentance, final judgement, victims’ faiths, body recoveries and whether the singer was killed in prison.
 - **Collision boundary:** not Susanna’s courtroom grammar, the Coal of any Phoenix, the False Lady, Children of the Closed Temple or a general judgement upon Conversion.
 - **Promotion gate:** a silent hymn measure may be promoted later; no coal relic or institutional innocence may be inferred.
+- **Review disposition:** `retain` — preserve the singer’s freely chosen confession, bodily cleansing, five executed victims and the silence that prevents institutional self-absolution.
 
 # III. Long Frontier
 
@@ -186,27 +189,28 @@ At the new sanctuary’s dedication, the informing singer broke off before the a
 
 ### Historical aperture
 
-In the first decades of the Long Frontier, a border governor refused to release hostages taken during the preceding war and sealed the only winter pass through a half-abandoned Giant signal fort. A hostile created spirit from the primordial rebellion had long used the fort’s command aperture to turn surrender signals into binding declarations. The governor knowingly exploited the effect while insisting that the prisoners’ continued detention preserved peace.
+In the first decades of the Long Frontier, a border governor refused to release hostages taken during the preceding war and sealed the only winter pass through a half-abandoned Giant toll fortress. A dependent Pride Mask inhabited the fort’s hostage standard and tally stone. It turned a captive’s safe-conduct oath into acknowledgement that the governor owned the captive’s movement, labor and descendants. The governor knowingly exploited the claim while insisting that continued detention preserved peace.
 
-A mixed relief force of soldiers, relatives, porters and hired engineers met an apparently foolish old traveller accompanied by seven small birds. The traveller identified which signals were false, opened three tactical choices and named the captives who must not be treated as expendable. He did not choose the commander, promise victory or disclose the enemy’s whole disposition. The mortal commander selected a night assault after the traveller refused to endorse any option. The assault broke the signal aperture and freed many prisoners, but a premature fire killed captives in one tower and soldiers executed several surrendering guards in revenge.
+A mixed relief force of soldiers, relatives, porters and hired engineers met an apparently foolish old traveller accompanied by seven small birds. The traveller exposed the ownership clause hidden in the safe conducts, opened three tactical choices and named the captives who must not be treated as expendable. He did not choose the commander, promise victory or disclose the enemy’s whole disposition. The mortal commander selected a night assault after the traveller refused to endorse any option. The assault shattered the tally stone and freed many prisoners, but a premature fire killed captives in one tower and soldiers executed several surrendering guards in revenge.
 
 ### Heavenly intervention
 
-The old traveller was the bounded vestment of one Greater Angel; the seven birds were seven distinct Attendant angels, not detachable parts of him. Their commission was to expose the false signals, protect specified vulnerable captives where possible and oppose the one fallen spirit’s appointed refusal. They did not command the assault. The Greater Angel confronted the fallen gate-captain only long enough for the human force to break the Material apparatus; the commission ended when the surviving named prisoners crossed the pass.
+The old traveller was the bounded vestment of one Greater Angel; the seven birds were seven distinct Attendant angels, not detachable parts of him. Their commission was to expose the false oath, protect specified vulnerable captives where possible and oppose the dependent Mask’s use of the standard. They did not command the assault. The Greater Angel prevented the Mask from transferring its claim into the escaping households only long enough for the human force to break the Material tally; the commission ended when the surviving named prisoners crossed the pass.
 
 ### Causal and evidentiary interface
 
-- **Cause → decision → mechanism → effect → cost → consequence:** a governor retains hostages behind a corrupted signal fort → a relief coalition chooses armed entry after receiving bounded counsel → humans break the apparatus while angels contest its false command → prisoners cross → captives, guards and rescuers die through mortal tactical choices → later military cults call every choice the Pilgrim’s command.
-- **Commission:** give truthful but incomplete counsel, expose false signals, protect named captives and oppose one primordial rebel at one pass. No government, strategy, resurrection or permanent patronage follows.
+- **Cause → decision → mechanism → effect → cost → consequence:** a governor uses a Giant tally to treat safe conduct as inherited ownership → a relief coalition chooses armed entry after receiving bounded counsel → humans break the tally while angels prevent the dependent Mask transferring its claim → prisoners cross → captives, guards and rescuers die through mortal tactical choices → later military cults call every choice the Pilgrim’s command.
+- **Commission:** give truthful but incomplete counsel, expose one false ownership oath, protect named captives and oppose one dependent Pride Mask at one pass. No government, strategy, resurrection or permanent patronage follows.
 - **Hard edge / source fidelity:** the Bahamut–Fizban grammar retains disguised overwhelming power, indirect intervention and dangerous mortal freedom. The traveller’s advice does not remove siege killing, revenge execution or a commander’s culpable choice.
-- **Evidence carriers:** three contradictory campaign diaries agreeing on the old traveller; a prisoner roll with seven separate bird marks; the tower burn layer and captive remains; signal plates that reverse meaning under one known sequence; later military homilies that erase the rejected options.
+- **Evidence carriers:** three contradictory campaign diaries agreeing on the old traveller; a prisoner roll with seven separate bird marks; the tower burn layer and captive remains; broken tally pieces preserving the hidden ownership clause; later military homilies that erase the rejected options.
 - **1360 AR trace:** frontier officers still call an unendorsed set of tactical choices “the pilgrim’s table.” The phrase is useful precisely because command responsibility remains with the chooser.
 - **Competing interpretations:** Greater Angel, disguised Saint, spy network using trained birds, Patron strategist, collective battlefield apparition or pious excuse invented by the commander.
-- **Authorially fixed:** one Greater Angel and seven Attendants acted; the commander remained free; the assault caused preventable deaths; the hostile spirit was a primordial rebel, not a newly fallen angel.
-- **Open:** pass, governor, commander, casualty count, names of the eight angels, fate of the fallen gate-captain and authenticity of every later traveller sighting.
+- **Authorially fixed:** one Greater Angel and seven Attendants acted; the commander remained free; the assault caused preventable deaths; the hostile power was a dependent Pride Mask, not an angel or Patron.
+- **Open:** pass, governor, commander, casualty count, names of the eight angels, later history of the dependent Mask and authenticity of every later traveller sighting.
 - **Relationships:** no personal link to another selected celestial is fixed. Later comparison with OBA-N08 is scholarly, not evidence of a shared campaign.
 - **Collision boundary:** not the Rule of Five Closures, Three-Lock Prison Road, War of the Last Map as a whole or a heavenly Great Crusade.
 - **Promotion gate:** the command phrase or prisoner bird-marks may later become a light trace; the angelic identities and campaign theology may not.
+- **Review disposition:** `revise` — replace the corrupted signal fort and fallen gate-captain with a Giant hostage tally and dependent Pride Mask, separating this campaign from the Taken Trumpet’s signal-house captivity.
 
 ## HC-N05 — Golden Last-Watch
 
@@ -222,13 +226,14 @@ When one cart crew turned back, a Warden Angel appeared at the rear as a tall ho
 - **Commission:** protect the people named on one dependant roll until they cross the agreed boundary. It cannot revise the treaty, punish every commander, guarantee survival or become guardian of all refugees.
 - **Hard edge / source fidelity:** Arqueros-style threshold defence and evacuation grammar retains lethal abandonment, named dependants and human rearguard death. Angelic aid does not replace carrying bodies or fighting pursuers.
 - **Evidence carriers:** the treaty’s omitted classes; the amended dependant roll; cart axle repairs made with surrendered spearheads; burial pits along the drainage cuts; hostile scouting reports describing failed range estimates.
-- **1360 AR trace:** some caravan courts require evacuation treaties to append a “last-watch roll” naming dependants who cannot be excluded by military convenience.
+- **1360 AR trace:** some caravan courts require evacuation treaties to append a **dependants’ annex** naming people who cannot be excluded by military convenience.
 - **Competing interpretations:** Warden Angel, golden Menhir bird, atmospheric mirage, soldiers’ collective oath, later refugee saint or legal fiction created to shame commanders.
 - **Authorially fixed:** abandonment was deliberate; people died before the return; one loyal Warden received a bounded moving charge; humans performed the rescue and paid most of its cost.
 - **Open:** town, belligerents, numbers, commander’s later trial, named households, angelic title and whether any current last-watch practice descends directly.
 - **Relationships:** none fixed with another constellation figure.
 - **Collision boundary:** not the Long Watch, Saint of the Two Ferries, Choir at the Eastern Road, Pilgrim’s hostage campaign or a permanent refugee-road protection.
-- **Promotion gate:** the appended roll custom may later enter the Garden without an authenticated angel or founding company.
+- **Promotion gate:** the dependants’ annex may enter the Garden without an authenticated angel or founding company.
+- **Review disposition:** `retain` — the moving rear-guard, deliberate abandonment and human carrying work remain distinct from the Long Watch and other route guardians.
 
 ## OBA-N08 — Prince Delayed at Three Borders
 
@@ -238,7 +243,7 @@ One dispersed minority of artisans, drovers and translators lived under three Lo
 
 The people possessed a real Greater Guardian commissioned toward them and the created goods carried through their households: language, burial names, mutual ransom and truthful guest testimony. The guardian’s intervention was delayed by three different supernatural obstructions. One was a dependent Envy Mask cultivated by officials who profited from divided kin. One was a Patron route-magistrate enforcing a valid passage claim against the wrong guarantor with lethal indifference. One was a fallen angel bearing a captured border office and refusing delivery of testimony. None was a rival national angel, and the Patron was not a devil merely because its law was severe.
 
-The Greater Guardian contested each obstruction under a separate limit. Human advocates still bribed clerks, carried copies, recovered bodies and forced one court to receive the complete captive roll. The surviving prisoners were released only after that hearing. The commission ended there; it did not establish an ethnic state, permanent immunity or innocence of everyone in the community.
+The Greater Guardian contested each obstruction under a separate limit. Before the first court, it made the duplicated petitions display their different human makers so advocates could establish which copy preceded the Envy Mask’s alterations. At the second border, it exposed the actual guarantor named in the Patron docket, allowing human petitioners to tender the lawful dispute without accepting the prisoners as collateral. At the third, it broke the captured office’s seal over one messenger’s mouth so the testimony could be delivered. Human advocates still bribed clerks, carried copies, recovered bodies and forced one court to receive the complete captive roll. The surviving prisoners were released only after that hearing. The commission ended there; it did not establish an ethnic state, permanent immunity or innocence of everyone in the community.
 
 ### Causal and evidentiary interface
 
@@ -253,6 +258,7 @@ The Greater Guardian contested each obstruction under a separate limit. Human ad
 - **Relationships:** no contact with the Pilgrim, Last-Watch or another selected angel is fixed.
 - **Collision boundary:** not a Menhir cultural court, national election, Long Rent War in total, permanent guardian dynasty or the Great Unbinding’s remnant protection.
 - **Promotion gate:** the three-carrier captive rule may be promoted without naming the people or authenticating an apparition.
+- **Review disposition:** `revise` — retain the three separately classified delays but state the mechanism by which each was overcome; supernatural opposition no longer substitutes for a causal chain.
 
 ## HC-N11 — Martyr of the Voluntary Wall
 
@@ -276,10 +282,11 @@ In c. 811 AR, a successor confraternity used the old emergency law to seize mino
 - **1360 AR trace:** descendants still demand that public memorials name the compulsory stations separately. The city pays a reduced orphan levy whose original purpose is politically contested.
 - **Competing interpretations:** flawless savior, necessary tyrant, repentant martyr, fabricated worker rebellion, Saint who legalized sacrifice or later apparition invented to defeat a building faction.
 - **Authorially fixed:** the commander personally used coercion and personally died at the wall; repentance preceded death; the dead did not all consent; the later commission corrected rather than ratified the institution.
-- **Open:** city, gender, exact number, final judgement until promotion, recognition, compensation, cause of the structural failure and authenticity of relic claims.
+- **Open:** city, gender, exact number, public recognition, compensation, cause of the structural failure and authenticity of relic claims. Within this nursery lead, reception as a redeemed Saint after judgement is fixed; coerced deaths do not become voluntary through that ruling.
 - **Relationships:** none fixed with the other two selected Greater Saints.
 - **Collision boundary:** not the Founder Who Corrected the Order, Warden of the Last Redoubt, Four Who Brought Water or one of the Redeemer’s Companions.
 - **Promotion gate:** only the two-roll memorial dispute or orphan levy may later enter the Garden; the complete Saint biography remains locked.
+- **Review disposition:** `retain` — the separate consent rolls, personal command guilt, repentance before death and bounded later correction already distinguish the figure from nearby founder-corrector and redoubt histories.
 
 ## HC-N13 — Saint of Five Remembered Wings
 
@@ -300,13 +307,14 @@ During the early Fall, an infernal claimant attempted to collect surviving child
 - **Commission:** defend named children, testify to continuity and oppose one current office-bearer while mortals dismantle the clause. It grants no continuing dynasty, vengeance campaign or family patronage.
 - **Hard edge / source fidelity:** Ragathiel’s abused infernal parentage and vengeful defender grammar is translated through human continuity. Abuse, mutilation, personally chosen kin-killing, repentance and victims who refuse reconciliation remain intact.
 - **Evidence carriers:** client-house custody ledgers; the five scars recorded by opposing physicians; surrender witnesses and victim petitions; manumission and restitution charters; the later child-claim compact and its broken seals.
-- **1360 AR trace:** paired commemorations survive: one feast of released children and one victims’ black-cloth reading of the surrendered dead. Neither is allowed to cancel the other in the oldest recension.
+- **1360 AR trace:** several custody courts preserve the clause **“No wound inherits the child.”** It bars blood, mutilation, household office and a parent’s compact from transferring ownership of a child’s soul or person.
 - **Competing interpretations:** infernal bastard made holy by violence, repentant murderer, political fabrication, angel mistaken for a Saint, dynasty founder, victim of slander or continuing secret ruler.
 - **Authorially fixed:** abuse did not remove freedom; the heir murdered surrendered people; repentance preceded death; sainthood, if retained, follows judgement and never converts vengeance into holiness.
-- **Open:** house, region, gender, exact relations killed, final recognition, form of restitution, later claimant, surviving children and authenticity of all five-wing relics.
+- **Open:** house, region, gender, exact relations killed, public recognition, form of restitution, later claimant, surviving children and authenticity of all five-wing relics. Within this nursery lead, reception as a redeemed Saint after judgement is fixed; victims remain free to refuse reconciliation.
 - **Relationships:** no common campaign with the Wall Martyr or Voice Beside the Binding is fixed.
 - **Collision boundary:** not Caedros, the Ashen-Wings Saint, a Giant bloodline, an Idol child or a redeemable devil.
-- **Promotion gate:** the paired feast structure may later enter the Garden; no five-part relic collection or hereditary Saint-order may be created.
+- **Promotion gate:** the no-inherited-custody clause may enter the Garden; no paired feast, five-part relic collection or hereditary Saint-order may be created.
+- **Review disposition:** `revise` — replace the paired feast with a custody clause so the trace no longer duplicates the Ashen-Wings liberation feast and victims’ reading.
 
 # IV. Fall, High Noon and the Near Present
 
@@ -331,6 +339,7 @@ The Herald entered because the protected surrender could not otherwise be heard.
 - **Relationships:** no personal rivalry with an archfiend or another selected angel is fixed in this pass.
 - **Collision boundary:** not the Battle of the Shattered Engines, Thirty Sisters, Veil over Veridun, Glass General or the cause of the Reconquest.
 - **Promotion gate:** the coerced-message signal rule may later be promoted; the battle, angel and fragments remain unproven.
+- **Review disposition:** `retain` — after the Pilgrim revision, this is the constellation’s sole signal-house history; local defeat, mutilated manifestation and suppressed rescue remain coherent without angelic fall.
 
 ## OBA-N04 — Angel at the Threshing Floor
 
@@ -338,7 +347,7 @@ The Herald entered because the protected surrender could not otherwise be heard.
 
 Between the Thalmyric golden age and Qarath, a tributary river principality ordered a census whose concealed purpose was to seize dependants for road labor, identify taxable refugees and select hostages from politically doubtful households. The ruler had been warned that the enumeration exceeded the law but proceeded because a complete register would strengthen a claim to royal independence. Clerks and soldiers broke houses, dragged people to counting stations and killed resisters.
 
-A sudden localized mortality followed. It was not the Grey Sweat: its geography, season, symptoms and documentary vocabulary differ, and it ended more than half a century before the great plague. A Greater Judgement Angel became visible above the road from the counting stations, appearing as a dark, immense raptor outline filled with white fire. People died in farms, barracks and noble houses. The ruler first blamed foreigners, then confessed the unlawful purpose, released surviving hostages, destroyed the seizure schedule and came barefoot to an ordinary threshing yard owned by a household already bereaved by the census.
+A sudden localized mortality followed. It was not the Grey Sweat: its geography, season, symptoms and documentary vocabulary differ, and it ended more than half a century before the great plague. Death advanced along the census couriers’ roads: count-households and nearby barracks developed the same rapid fever and breath failure within hours of each sealed schedule arriving. A Greater Judgement Angel became visible above the road’s leading edge, appearing as a dark, immense raptor outline filled with white fire. The mortality killed clerks, soldiers, nobles, laborers and children; its justice cannot be reduced to a list of individually proven crimes. The ruler first blamed foreigners, then confessed the unlawful purpose, released surviving hostages, destroyed the seizure schedule and came barefoot to an ordinary threshing yard owned by a household already bereaved by the census.
 
 The Angel stopped there when the Lord’s bounded commission ended. The threshing floor was not magical, and the ruler’s confession did not purchase the end. Later royal Lives present the ruler as having heroically saved the people; victim records insist that the admission came only after mass death. Both can agree on the visible stopping place without settling why that particular moment was appointed.
 
@@ -355,6 +364,7 @@ The Angel stopped there when the Lord’s bounded commission ended. The threshin
 - **Relationships:** none fixed with another selected celestial or Saint.
 - **Collision boundary:** not the Quiet Ninth, Grey Sweat, Census Chronicles, Caedros III’s reign as a whole or a Phoenix commission.
 - **Promotion gate:** the census-purpose rule may later enter the Garden; the ruler, plague identity and site remain withheld.
+- **Review disposition:** `revise` — specify the mortality’s witnessed advance along the courier network while leaving its natural mechanism open and its divine justice irreducible to a human guilt ledger.
 
 ## OBA-N11 — Guardian Who Could Not Prevent the Grave
 
@@ -372,13 +382,14 @@ The bodies were eventually identified through ordinary records and testimony. Th
 - **Commission:** personal guardianship of one baptized human person, culminating in protection of truthful identity against fraud. It does not guarantee health, acquittal, visible comfort, salvation or posthumous immunity from lawful claims.
 - **Hard edge / source fidelity:** guardian-angel and grave-custody tradition is tested by real guilt, hunger, riot death, imprisonment, neglect and corpse fraud. The guardian’s reality is not measured by whether suffering or death occurred.
 - **Evidence carriers:** baptism and warehouse registers; victim restitution accounts; workhouse medical warnings; two corpse tags and washer testimony; the broker’s assurance claim; a bounded contract test which changes when the authenticated name is used.
-- **1360 AR trace / access point:** the corrected identity is the central precedent in a current assurance hearing. The hearing can establish fraud and bounded contract behavior without proving the winged witness was an angel.
+- **1360 AR trace / access point:** the **Double-Tag Docket** preserves the corrected identity and is the central precedent in a current assurance hearing. The hearing can establish fraud and bounded contract behavior without proving the winged witness was an angel.
 - **Competing interpretations:** personal Guardian, hospital saint, guilt dream, trained bird, clerk’s cover story, infernal interference against a rival office or compassionate fabrication by the washer.
 - **Authorially fixed:** the tallyman harmed people and later attempted partial restitution; the workhouse culpably neglected him; a real personal Guardian protected his identity without preventing death or deciding judgement.
 - **Open:** city, names, sincerity of repentance, final judgement, degree of broker knowledge, fate of the other debtor, angel’s identity and outcome of the 1360 hearing under the Forward Rule.
 - **Relationships:** none fixed with another selected celestial.
 - **Collision boundary:** not the Boatman, Ossuary Crown, Quiet Ninth, Keeper of the Contested Body, a repeatable soul-road escort or proof that baptism prevents infernal litigation.
-- **Promotion gate:** no Garden promotion until the present hearing is reviewed; any later trace must preserve the tallyman’s guilt and the Guardian’s narrow act.
+- **Promotion gate:** only the already documented Double-Tag Docket may enter the Garden; the 1360 hearing, tallyman’s judgement and winged witness remain under the Forward Rule.
+- **Review disposition:** `revise` — promote the existing docket only as a starting hook; do not predetermine the current contract ruling or authenticate its angelic interpretation.
 
 # V. Relationship and Collision Matrix
 
@@ -401,22 +412,22 @@ No cross-constellation personal rivalry or friendship is required in the first p
 
 # VI. First-Pass Trace Shelf
 
-These are candidate traces only. None is promoted by this dossier.
+These are the candidate traces evaluated by [[First Heavenly Constellation - First Trace Promotion Review]]. All twelve pass at light level; their complete histories remain withheld.
 
 | Lead | Candidate 1360 trace | What it can establish without supernatural authentication |
 |---|---|---|
-| OBA-N07 | five-stage public deconsecration procedure | some cities distinguish a sacred charge from ownership of its building |
-| HC-N10 | victim-first memorial reading | one martyr tradition preserved the founder’s prior culpability |
-| OBA-N02 | hospital non-expulsion clause | a survivor tradition changed inheritance and refuge practice |
-| OBA-N06 | silent measure containing five victim names | a dedication hymn was altered after concealed executions |
+| OBA-N07 | variable public unhousing rubric | some cities distinguish a sacred charge from ownership of its building |
+| HC-N10 | the name before the title | one martyr tradition preserved the founder’s prior culpability |
+| OBA-N02 | no-new-heir non-expulsion clause | a survivor tradition changed inheritance and refuge practice |
+| OBA-N06 | five-name rest in a dedication hymn | a dedication hymn was altered after concealed executions |
 | HC-N03 | “pilgrim’s table” command doctrine | unendorsed options do not transfer responsibility from the chooser |
-| HC-N05 | last-watch dependant roll | evacuation law once expanded beyond military and taxable persons |
+| HC-N05 | dependants’ annex | evacuation law once expanded beyond military and taxable persons |
 | OBA-N08 | three-carrier captive register | distributed evidence answered cross-border disappearance |
-| HC-N11 | separate volunteer and compulsory rolls | later memory falsely merged unequal forms of consent |
-| HC-N13 | paired liberation feast and victims’ reading | repentance and restitution did not erase personally committed murder |
-| HC-N08 | coerced-message signal rule | surrender law responded to one historically falsified proclamation |
-| OBA-N04 | census-purpose limitation | rulers once used enumeration for concealed seizure |
-| OBA-N11 | corrected-name assurance precedent | an attempted corpse-identity fraud occurred and affected contract behavior |
+| HC-N11 | separate free and compulsory death rolls | later memory falsely merged unequal forms of consent |
+| HC-N13 | “No wound inherits the child” | blood, scars and household office do not own a human person |
+| HC-N08 | protected-name signal rule | surrender law responded to one historically falsified proclamation |
+| OBA-N04 | the floor beyond the count | rulers once used enumeration for concealed seizure |
+| OBA-N11 | the Double-Tag Docket | an attempted corpse-identity fraud occurred and affected contract behavior |
 
 # VII. Validation
 
@@ -426,18 +437,21 @@ These are candidate traces only. None is promoted by this dossier.
 - [x] The three Saints possess earthly lives with personal culpability, repentance before death where required, irreversible victims and a separate later commission.
 - [x] The nine angelic cases possess commission histories rather than mortal becoming stories.
 - [x] No loyal angel falls, repents from a fall, reproduces, merges with an office or becomes summonable.
-- [x] No fallen angel repents; the one fallen gate-captain remains a primordial rebel.
+- [x] No fallen angel repents; the Pilgrim’s revised antagonist is a dependent Pride Mask rather than another fallen-spirit war captain.
 - [x] Sexual exploitation, torture, execution, siege death, coerced labor, mutilation, plague, neglect and command guilt remain direct where load-bearing.
 - [x] Every placement provides at least three evidence carriers and one candidate 1360 trace.
 - [x] Every placement works as human history even if later supernatural identity claims are disputed.
 - [x] No intervention validates an entire ruler, army, church, nation or culture.
 - [x] No new Phoenix, universal celestial war, protected Weird explanation or present-day outcome is created.
-- [x] No chronology, Garden, named-figure register, culture history or order note is changed.
+- [x] Chronological review yields five `retain`, seven incorporated `revise`, zero `defer` and zero `reject`.
+- [x] A separate promotion review adds exactly twelve light traces without promoting a complete person, apparition, relic, institution or campaign.
 
 ## Navigation
 
 - [[Mythic and Sacred History Research MOC]]
 - [[Orthodox Heavenly Canon Reconciliation and Combined Celestial Collision Review]]
+- [[First Heavenly Constellation - Chronological Placement Review]]
+- [[First Heavenly Constellation - First Trace Promotion Review]]
 - [[Comparative Celestials and Heavenly Translation Atlas]]
 - [[Orthodox Biblical Angels and Heavenly Powers Atlas]]
 - [[Saint and Breachward Historical Placement Pass]]

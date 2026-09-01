@@ -19,7 +19,7 @@ appears_in: []
 needs:
   - decide whether the couatl-derived binding operation deserves a Phoenix candidate distinct from the Great Unbinding Phoenix
   - settle the possible costs borne by loyal created spirits in long supernatural bindings
-  - review the historical placements of the twelve leads selected by the combined Orthodox collision review
+  - keep the reviewed placements and promoted traces distinct from the sixteen deferred leads
   - treat fallen-radiant sources through primordial rebels, Sinners, Idols, Patrons, or counterfeits rather than later angelic falls
 tags:
   - research
@@ -38,7 +38,7 @@ This dossier reviews high-order celestials, good-aligned divine figures, heralds
 
 Nothing here is canon, named history, a fixed heavenly person, or a promoted Garden seed. The source figures remain source figures. Provisional World Egg handles describe separate nursery possibilities; their final first-pass dispositions are recorded in [[Orthodox Heavenly Canon Reconciliation and Combined Celestial Collision Review]].
 
-The twelve selected handles now possess provisional earth-first apertures in [[First Heavenly Constellation - Earth-First Historical Placement Pass]]. Those placements remain review-locked and do not promote the source atlas into history or canon.
+The twelve selected handles possess provisional earth-first apertures in [[First Heavenly Constellation - Earth-First Historical Placement Pass]]. [[First Heavenly Constellation - Chronological Placement Review]] passes them with incorporated corrections, and [[First Heavenly Constellation - First Trace Promotion Review]] harvests only their lightest independent traces. Neither step promotes this source atlas, a complete figure or a commission into canon.
 
 The principal conclusion is:
 

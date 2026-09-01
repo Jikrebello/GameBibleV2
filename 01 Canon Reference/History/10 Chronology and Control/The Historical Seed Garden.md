@@ -45,10 +45,12 @@ The current whole-history pass is held in the author-only [[Mythic and Sacred Hi
 - [[Great Saints and Sinners - Chronological Placement Review]];
 - [[Great Saints and Sinners - First Trace Promotion Review]];
 - [[Great Saints and Sinners - Primarch Source-Fidelity Hardening Review]];
+- [[First Heavenly Constellation - Chronological Placement Review]];
+- [[First Heavenly Constellation - First Trace Promotion Review]];
 - [[The Last Houses - Ancestor Polity Seed Cluster]];
 - [[Historical Seed Card Template]].
 
-Those notes audit every age through human, folkloric, institutional, and metaphysical lanes. The Giant descent rules, Five Imperial Horizons, and Great Unbinding backbone are now controlling canon. All seventy-two developed cards have received nursery dispositions and source-fidelity rulings; the four bridge leads, twelve Praise entries, and seventeen beds below are included in the same hardening audit. The fourteen Great-Person traces and their sixteen controlling placements have a separate Primarch source-fidelity audit: nine visible wounds restored, five visible wounds retained intact, and both erased-person mysteries retained intact. Every story seed remains exploratory until separately promoted, and linking it here does not promote its names, memberships, miracles, dates, provisional polities, actor identities, or proposed Idol successions.
+Those notes audit every age through human, folkloric, institutional, and metaphysical lanes. The Giant descent rules, Five Imperial Horizons, and Great Unbinding backbone are now controlling canon. All seventy-two developed cards have received nursery dispositions and source-fidelity rulings; the four bridge leads, twelve Praise entries, and seventeen beds below are included in the same hardening audit. The fourteen Great-Person traces and their sixteen controlling placements have a separate Primarch source-fidelity audit: nine visible wounds restored, five visible wounds retained intact, and both erased-person mysteries retained intact. The twelve heavenly traces below have likewise passed an earth-first chronological review: five placements retained and seven revised before light harvest. Every story seed remains exploratory until separately promoted, and linking it here does not promote its names, memberships, miracles, dates, provisional polities, actor identities, or proposed Idol successions.
 
 Promotion should begin with light traces—sayings, customs, roads, graves, relics, and disputed texts—before fixing heroes, institutions, companies, or sovereign convulsions. The seventeen beds below remain the nursery's stable framework; approved cards should deepen them before creating duplicate signature companies.
 
@@ -526,6 +528,158 @@ The provisional people, names, exact localities, complete lives, soul-states, ma
 
 These fourteen traces are mutually independent. Repeated concern with founders, institutions and correction reflects the review's thematic purpose rather than a lost college, shared campaign or secret lineage. None authenticates the provisional active histories from which it was harvested.
 
+## First Heavenly Trace Planting
+
+These twelve light roots are promoted from the reviewed first heavenly constellation. Their selection, corrections and withheld layers are controlled by [[First Heavenly Constellation - Chronological Placement Review]] and [[First Heavenly Constellation - First Trace Promotion Review]]. They form a **heavenly trace layer**, not twelve new signature-company beds, an in-world celestial roster, a church synaxarion, a heavenly council or one supernatural campaign.
+
+The provisional people, angels, Saints, choir, names, exact localities, complete biographies, manifestations, commissions, relics, enemies and institutional heirs remain outside the Garden. A trace may support belief in heavenly intervention without authenticating it. The event remains usable through its human evidence if every later supernatural attribution is false.
+
+### Age of Stars — The Public Unhousing Rubric
+
+**Humble aperture:** civic clerks, refuge workers and protected households need a public way to distinguish ownership of a former sanctuary from continuation of its old charge.
+
+**Durable trace:** several cities use an ordered unhousing procedure before converting refuge or sanctuary gates to military, punitive or commercial use. The surviving rubrics disagree about the number and order of stations.
+
+**Historical pressure:** one Star-age city turned a refuge register into a purge list, murdered and expelled protected households and later endured siege after a reported withdrawal of protection.
+
+**Loose growth:** the rubric may descend from the expelled households, civic reformers, engineers or several merged traditions. It can expose a false claim that possessing a gate preserves its consecration without proving that an invader was righteous.
+
+**Identity and promotion boundary:** no city, covenant, choir, gate machine, wheel apparition or carried register is authenticated. The rubric is not the Rule of Five Closures, Nythalum technology or evidence of a permanent city guardian.
+
+### Underground — The Name Before the Title
+
+**Humble aperture:** a victim household agrees to preserve a penitent martyr’s memory only if the person killed through the martyr’s earlier betrayal is not made subordinate to the heroic ending.
+
+**Durable trace:** one memorial recension reads the betrayed worker’s name before the provisional martyr title.
+
+**Historical pressure:** fatal informing under torture, repentance, restitution without demanded forgiveness, Underground imprisonment, death during evacuation and later counterfeit use of a martyr’s voice.
+
+**Loose growth:** rival churches reverse the order, omit one name or claim the rule belongs to another prison. The ordering remains a useful confession even if no later Saint ever manifested.
+
+**Identity and promotion boundary:** no clerk, victim, prison, Mask, binding, reliquary, voice or sainthood is promoted. This is not the Red Door Names, Three-Lock Prison Road or Saint of the Two Ferries.
+
+### Legalization — The No-New-Heir Clause
+
+**Humble aperture:** refuge houses need to stop powerful households withdrawing shelter when a preferred heir makes an earlier dependant inconvenient.
+
+**Durable trace:** hospital and refuge charters preserve the rule that a change of heir does not end an existing duty of shelter.
+
+**Historical pressure:** coerced sexual access to an enslaved woman, beating, dynastic use, expulsion with her child, riders preventing return and survival through ordinary water and human transport.
+
+**Loose growth:** later institutions sanitize the mother into a charitable widow or make the clause a founder’s spontaneous mercy. The rule can protect people who share no ancestry or faith with the first survivor.
+
+**Identity and promotion boundary:** no mother, child, couple, estate, cistern, caravan or Angel is promoted. It founds no nation, saintly midwife order or miraculous spring cult.
+
+### Conversion — The Five-Name Rest
+
+**Humble aperture:** singers inheriting a dedication hymn discover that its triumphant verse no longer fits its meter unless five suppressed names are restored.
+
+**Durable trace:** a silent measure in which some choirs read five executed names while others preserve silence.
+
+**Historical pressure:** a singer’s profitable informing, torture and execution of five custodians, denied bodies, confiscated office and a later confession that did not absolve the guild.
+
+**Loose growth:** the victims may include converts, old-cult custodians and politically inconvenient rivals. Reading the names does not vindicate every former rite; silence cannot be converted solely into honor for the penitent informer.
+
+**Identity and promotion boundary:** no singer, guild, temple, Angel, coal or relic is promoted. The rest is not Phoenix fire, a Susanna court or a general condemnation of imperial conversion.
+
+### Long Frontier — The Pilgrim’s Table
+
+**Humble aperture:** commanders receiving several viable choices from an adviser, omen or holy claimant need a rule stating who remains responsible for the option chosen.
+
+**Durable trace:** frontier schools call truthful but unendorsed alternatives **the Pilgrim’s table** and refuse to transfer culpability from commander to counsellor.
+
+**Historical pressure:** hostages held through a Giant ownership tally, a chosen night assault, captives killed in a tower fire and surrendering guards executed in revenge.
+
+**Loose growth:** some traditions add an old traveller and seven birds; others teach the doctrine without any supernatural story. Military cults repeatedly try to turn offered options into commanded strategy.
+
+**Identity and promotion boundary:** no Pilgrim, attendants, pass, Giant tally, Pride Mask or campaign is promoted. This is not a signal code, heavenly war council or universal angelic strategy.
+
+### Long Frontier — The Dependants’ Annex
+
+**Humble aperture:** evacuation negotiators discover that soldier and taxpayer lists omit the people least able to survive a retreat.
+
+**Durable trace:** some withdrawal agreements append a separate list of wounded people, servants, debtors, mixed families, children under competing claims and other dependants.
+
+**Historical pressure:** commanders deliberately abandoning omitted people, deaths before rescuers returned, a cart crew’s refusal, human rearguard casualties and a reported bounded Warden intervention.
+
+**Loose growth:** the annex may be copied into caravan, siege, plague or ship law. Its practical force does not depend on proving why hostile range-finding failed during the remembered crossing.
+
+**Identity and promotion boundary:** no town, commander, cart company, ford or Warden is promoted. The custom does not found the Long Watch or place every refugee road under permanent protection.
+
+### Long Frontier — The Three-Carrier Register
+
+**Humble aperture:** families trying to recover prisoners held across several jurisdictions cannot allow one court or archive to control every copy of the captive roll.
+
+**Durable trace:** some diaspora and ransom courts require three unrelated human carriers to transport independently witnessed copies.
+
+**Historical pressure:** distributed imprisonment, torture, exposure, disease, falsified petitions, lethal route law and a hearing reached only after some captives had died.
+
+**Loose growth:** later communities disagree whether the three-carrier practice answered supernatural delay, ordinary censorship or both. The rule protects testimony without making every captive or community innocent of unrelated crimes.
+
+**Identity and promotion boundary:** no people, state, Guardian, Envy Mask, Patron, fallen office or national election is promoted. This is not the Three Testimonies of the Last Houses or Three-Lock Prison Road.
+
+### Long Frontier — The Two Death Rolls
+
+**Humble aperture:** surviving households refuse a city’s claim that everyone who died at one defensive wall freely volunteered.
+
+**Durable trace:** separate rolls name those who stayed freely and those stationed under debt, imprisonment, foreign status or emergency threat.
+
+**Historical pressure:** personal command guilt, earlier beatings and lethal punishment, a necessary evacuation, coerced and voluntary deaths, orphaned households and later institutional misuse of the sacrifice.
+
+**Loose growth:** the rolls may undercount coercion, add later political martyrs or belong to a different wall than the famous one. Their distinction remains necessary even if the commander was never a Saint.
+
+**Identity and promotion boundary:** no city, commander, siege, confraternity or manifestation is promoted. The rolls authorize no mass-sacrifice rite and do not belong to the Warden of the Last Redoubt.
+
+### Long Frontier — No Wound Inherits the Child
+
+**Humble aperture:** custody courts face houses claiming that blood, mutilation or an inherited office gives them ownership of a child.
+
+**Durable trace:** several legal recensions preserve the clause **“No wound inherits the child.”**
+
+**Historical pressure:** dynastic child abuse, five remembered scars, servants executed for aiding escape, a returning heir’s personal murder of surrendered kin, repentance, incomplete restitution and later resistance to infernal custody.
+
+**Loose growth:** the rule can defeat abusive custody without dissolving ordinary kinship, support or inheritance. Victims may use it while refusing veneration of the alleged penitent founder.
+
+**Identity and promotion boundary:** no heir, dynasty, infernal office, Saint, five-wing manifestation or child group is promoted. The clause is not a hereditary holy mantle or an angel–human blood rule.
+
+### Fall and Reconquest — The Protected-Name Signal
+
+**Humble aperture:** prisoners and negotiators need surrender terms to identify protected people before victors convert the message into a property claim.
+
+**Durable trace:** military signal law names protected persons before property clauses; a broken three-note call marks suspected coerced authorship.
+
+**Historical pressure:** an occupied mountain prison, confiscatory surrender, a trapped and mutilated manifestation, dead rescuers, executed witnesses and suppression by occupiers and rebels alike.
+
+**Loose growth:** the signal may originate in an ordinary failed rescue, a Herald story or several merged capitulations. Its legal use does not authenticate metal fragments or a “fallen trumpet.”
+
+**Identity and promotion boundary:** no governor, prison, Angel, ward or relic is promoted. The trace is not the Pilgrim’s tally, Shattered Engines or proof that the Reconquest was uniformly commissioned.
+
+### High Noon — The Floor Beyond the Count
+
+**Humble aperture:** households and jurists need to stop a lawful census being quietly reused for hostage, labor and property seizure.
+
+**Durable trace:** some codes require every count to state its purpose and demand a new public act before reuse; the boundary is called **the floor beyond the count**.
+
+**Historical pressure:** house-breaking, killed resisters, a ruler’s concealed seizure schedule and a localized mortality that killed clerks, soldiers, nobles, laborers and children before stopping at an ordinary threshing yard.
+
+**Loose growth:** the phrase may restrain tax, conscription or plague registers without condemning enumeration itself. Surviving accounts can agree on the dead and disagree about divine judgement.
+
+**Identity and promotion boundary:** no principality, ruler, Angel, disease mechanism or threshing site is promoted. The event does not cause or explain the Grey Sweat, Quiet Ninth or Census Chronicles and is not the Clerk’s Ending.
+
+### Reformation and Present — The Double-Tag Docket
+
+**Humble aperture:** an assurance court must decide what follows when two debtor corpses were deliberately assigned one another’s identity tags.
+
+**Durable trace:** the open docket contains the exchanged tags, corrected baptismal and workhouse evidence, witness testimony and a contract response that changes when the authenticated name is used.
+
+**Historical pressure:** warehouse fraud that harmed poor households and contributed to a death, incomplete restitution, workhouse neglect, corpse-identity fraud and an interested broker attempting to transfer liability to dependants.
+
+**Loose growth:** investigators can prove the swap without agreeing whether a small winged witness was a Guardian, dream, fraud or other intervention. The dead man’s genuine guilt and the institution’s later crime can both remain true.
+
+**Identity and promotion boundary:** no tallyman, Guardian, washer, broker, other debtor, final judgement or assurance verdict is promoted. Under the Forward Rule, every ruling, remedy and supernatural response after the 1360 opening remains unfixed.
+
+These twelve traces are mutually independent. Their shared concern with bounded commissions, truthful records and institutional misuse reflects the selection filter rather than a lost celestial college, common apparition cycle or heavenly bureaucracy visible to mortals.
+
 ## First Ancestor-Polity Seed Cluster
 
 These six roots translate the strongest functions of Aerenal into World Egg metaphysics. Their complete source, continuity and collision rulings are held in [[The Last Houses - Ancestor Polity Seed Cluster]]. They form one provisional cultural ecology rather than six unrelated traces, but they do not add a signature company, a new Menhir, a collective human afterlife or a canon civilization.
@@ -630,6 +784,8 @@ Before moving a seed into canon, answer:
 - [[Whole-History Planting Matrix - Blocks I and II]]
 - [[Great-Power Mythic Ecology and Planting Matrix]]
 - [[Patron Realm Garden Promotion Review]]
+- [[First Heavenly Constellation - Chronological Placement Review]]
+- [[First Heavenly Constellation - First Trace Promotion Review]]
 - [[Folk Heroes and Legendary Adventurers]]
 - [[The Weird of History — The Unexplained Register]]
 - [[The Divergence Pass — Torque Register]]

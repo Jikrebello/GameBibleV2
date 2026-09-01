@@ -16,7 +16,7 @@ related_factions:
   - Thalmyric Church
 appears_in: []
 needs:
-  - review the historical placements of the twelve leads selected by the combined Orthodox collision review
+  - keep reviewed placements and promoted traces subordinate to the controlling biblical commission rules
   - test personal, people-facing and consecrated-place guardian commissions through separate histories
 tags:
   - research
@@ -35,7 +35,7 @@ This dossier gives the World Egg's heavenly ecology the biblical and Eastern Ort
 
 Nothing here creates a canonical angel, changes the heavenly bestiary, alters the Great Unbinding, or promotes a Garden seed. The biblical figures remain biblical figures. Provisional World Egg handles are separate nursery leads, not disguised copies or declarations that the same angel exists in both histories.
 
-The selected biblical handles now have provisional earth-first apertures in [[First Heavenly Constellation - Earth-First Historical Placement Pass]]. The source studies remain distinct from those World Egg histories, and both layers remain exploratory pending review.
+The selected biblical handles have provisional earth-first apertures in [[First Heavenly Constellation - Earth-First Historical Placement Pass]]. [[First Heavenly Constellation - Chronological Placement Review]] passes them after collision corrections, and [[First Heavenly Constellation - First Trace Promotion Review]] promotes only independent customs, laws and records. The source studies remain distinct from those World Egg histories, and every layer remains exploratory.
 
 The governing result is:
 
