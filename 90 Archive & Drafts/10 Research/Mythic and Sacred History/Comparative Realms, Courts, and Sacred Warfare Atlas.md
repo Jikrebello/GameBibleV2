@@ -21,12 +21,12 @@ related_factions:
   - Sinners
 appears_in: []
 needs:
-  - review the remaining eighteen realm leads after the saint, Patron, Menhir, and infernal families
+  - decide through a separate review whether any of the four placed Idol episodes deserves a light Garden trace
   - decide whether the six reviewed infernal placements deserve light Garden traces
   - commission culture-specific Isles dossiers before assigning local recensions
   - classify every proposed Shell refugee people by continuity and origin
   - create individual dossiers before naming a greater saint, greater angel, Severed Exalt, Archmask, or infernal map-lord
-  - expand the twelve great-power beds only after this source atlas is reviewed
+  - expand umbrella beds only through separately reviewed historical placements rather than by importing whole source families
 tags:
   - research
   - comparative-mythology
@@ -102,16 +102,18 @@ Sources: [Warhammer Great Game](https://www.warhammer-community.com/en-gb/articl
 
 | ID | Separate lead | Core pressure and hard edge | Source root | Status |
 |---|---|---|---|---|
-| ID-R01 | **The War of Stolen Victories** | Wrath wins a war, Pride captures its monuments, Greed buys the prisoners, and Envy rewrites who was betrayed. Veterans and captives are not abstractions; each transfer creates murder, slavery, dispossession, and renewed feud. | Warhammer Great Game; Greek division of honours | `research-lead` |
-| ID-R02 | **The Parliament of Masks** | Several dependent Masks of one Throne argue over which cultural expression best feeds the Hunger. The debate is conducted through rival cults, assassinations, coerced marriages, destroyed shrines, and manipulated courts rather than a harmless divine symposium. | TES cultural identities; Warhammer rival hosts | `research-lead` |
-| ID-R03 | **The Archmask Protectorate** | An Archmask rebels against its Regnant and genuinely protects a conquered district because living tenants provide independence. Its rule remains coercive, predatory, and self-interested; rebellion is not redemption. | Daedric client realms; Be’lakor grammar | `research-lead` |
-| ID-R04 | **The Champion of Four Doors** | One nonhuman claimant accepts incompatible gifts from four Hungers and uses each against the others. Every gift creates a victim class and an obligation that the claimant eventually cannot satisfy. | multi-patron champion grammar | `research-lead` |
-| ID-R05 | **The Feast-Raid Corridors** | Gluttony Masks invade rival heartlands through funerals, victory banquets, famine stores, sacrificial kitchens, and corpse economies. Some routes are literal landscapes; others are institutions repeatedly choosing whom not to feed. | Warhammer domain war; Wisdom 13–15 | `research-lead` |
-| ID-R06 | **The Counterfeit Martyr Campaign** | Envy and Pride field competing saint-like Masks under the same murdered person’s name. The real torture, recantation, execution, corpse theft, and surviving family remain central; supernatural fraud does not invent the victims. | Orthodox martyr reception; TES mantle | `research-lead` |
-| ID-R07 | **The Siege of the Appetite Border** | Two heartlands overlap until inhabitants cannot tell whether they are being invited, consumed, admired, possessed, or replaced. Captives are used as living boundary markers and cult communities change hands without consent. | Chaos realm overlap; Shadowland moving heartlands | `research-lead` |
-| ID-R08 | **The Cult-Colony Wars** | Rival Masks establish Material dominion overlays inside the same empire and use human law, guilds, armies, households, and temples as colonial infrastructure. The people involved retain full guilt and victimhood; they are not puppets. | Chaos cult networks; TES mortal agents | `research-lead` |
-| ID-R09 | **The Sediment Rebellion** | Discarded biographies, absorbed cult memories, and a defeated former identity begin speaking together against the current Regnant. Their accurate memories do not prove that the resulting voice is the old person or morally innocent. | TES identity accretion; Idol Sediment | `research-lead` |
-| ID-R10 | **The Regent Who Ate Its Biography** | A ruling Mask destroys every earlier account of itself to prevent a rival from using those memories as an anchor. Priests, archivists, witnesses, families, and whole settlements are killed or displaced in the purge. | mantle control; damnatio memoriae grammar | `research-lead` |
+| ID-R01 | **The War of Stolen Victories** | Wrath wins a war, Pride captures its monuments, Greed buys the prisoners, and Envy rewrites who was betrayed. Veterans and captives are not abstractions; each transfer creates murder, slavery, dispossession, and renewed feud. | Warhammer Great Game; Greek division of honours | `reviewed-retain` |
+| ID-R02R | **The Parliament of Borrowed Faces** | Several dependent Masks of one Throne compete through human cult and court architectures; “parliament” is a later scholarly label, not a council of independent gods. Assassinations, coerced marriages, destroyed shrines and manipulated courts remain. | TES cultural identities; Warhammer rival hosts | `reviewed-revise` |
+| ID-R03 | **The Archmask Protectorate** | An Archmask rebels against its Regnant and genuinely protects a conquered district because living tenants provide independence. Its rule remains coercive, predatory, and self-interested; rebellion is not redemption. | Daedric client realms; Be’lakor grammar | `reviewed-retain` |
+| ID-R04R | **The Champion of Four Doors** | One Archmask rooted in one Hunger accepts three incompatible foreign gifts and uses each against the others. The gifts never combine sovereignties; each creates a victim class and an obligation the claimant eventually cannot satisfy. | multi-patron champion grammar | `reviewed-revise` |
+| ID-R05 | **The Feast-Raid Corridors** | Gluttony Masks invade rival heartlands through funerals, victory banquets, famine stores, sacrificial kitchens, and corpse economies. Some routes are literal landscapes; others are institutions repeatedly choosing whom not to feed. | Warhammer domain war; Wisdom 13–15 | `reviewed-retain` |
+| ID-R06R | **The Campaign of the Borrowed Martyr** | Envy and Pride field competing dependent Masks under the same murdered person’s name. The soul, body, received Life, relic claims and any genuine Saintly commission remain separate; torture, execution, corpse theft and surviving family remain central. | Orthodox martyr reception; TES mantle | `reviewed-revise` |
+| ID-R07R | **The Siege of Invitation and Consumption** | Lust and Gluttony overlays contest one district through coerced belonging and consumable supply. Captives are used as living boundary markers, but captors’ and beneficiaries’ choices—not victims’ coerced speech—supply the harvest. | Chaos realm overlap; Shadowland moving heartlands | `reviewed-revise` |
+| ID-R08 | **The Cult-Colony Wars** | Rival Masks establish Material dominion overlays inside the same empire and use human law, guilds, armies, households, and temples as colonial infrastructure. The people involved retain full guilt and victimhood; they are not puppets. | Chaos cult networks; TES mortal agents | `reviewed-retain` |
+| ID-R09R | **The Insurrection of the Buried Faces** | Stored memories, discarded biographies, dependent outputs and any autonomous claimant are classified separately. Accurate memories do not prove that a speaking face is a former Regnant or morally innocent. | TES identity accretion; Idol Sediment | `reviewed-revise` |
+| ID-R10R | **The Archmask That Ate Its Biography** | One autonomous Archmask destroys its earlier cultural anchors to prevent rival use. Priests, archivists, witnesses, families and settlements are killed or displaced, but the purge changes local manifestation rather than the Throne’s guilt or continuity. | mantle control; damnatio memoriae grammar | `reviewed-revise` |
+
+The first placement pass selects ID-R01 as ID-P01, ID-R04R as ID-P02R, ID-R06R as ID-P03 and ID-R10R as ID-P04R. [[First Idol Constellation - Collision and Disposition Review]] retains ID-P01 and ID-P03 and incorporates revisions into ID-P02R and ID-P04R. ID-R02R, ID-R03, ID-R05, ID-R07R, ID-R08 and ID-R09R remain reviewed but undated and unplaced.
 
 # II. Menhir: From Fairy Courts to Inhuman Natural Sovereignty
 
@@ -311,14 +313,16 @@ The Shell itself remains sterile and mechanical. A recognizable city can exist o
 
 | ID | Separate lead | Core pressure and hard edge | Source root | Status |
 |---|---|---|---|---|
-| EL-R01 | **The Living Brass Refuge** | A refugee and industrial metropolis survives on a Fire littoral by monopolizing forge-charge and protection. Its rulers use debt labor, slaves, condemned prisoners, and expendable workers to absorb lethal failure. | D&D/Pathfinder City of Brass | `research-lead` |
-| EL-R02 | **The Dead Brass Warning-City** | A magnificent failed platform preserves sealed beings, automata, inscriptions, corpses, and fatal treasure wards. The story is about mortality and greed, not a living genie market. | *Arabian Nights* City of Brass | `research-lead` |
-| EL-R03 | **The Coral Court in Pressure Brine** | A Water-littoral kingdom controls tide-like gates and pressure routes. Hospitality can displace time; political marriage, hostage exchange, drowning, and surface succession disputes connect it to Material coasts. | Ryūgū; Poseidon’s sea house | `research-lead` |
-| EL-R04 | **The City on the Moving Shell** | A mobile Water platform carries refugees, markets, farms, and rival clans. Killing or redirecting the titanic biological or constructed carrier can save one coast and destroy a nation. | Alohmab’s moving-shell city | `research-lead` |
-| EL-R05 | **The Fleet of Surrendered Directions** | Air-littoral refugees live in vessels held together by stormglass, route song, and surrendered memories of home. A Patron offers stability in exchange for permanent control of arrival. | cloud cities; Breathwaste | `research-lead` |
-| EL-R06 | **The Weight-Seed Kingdom** | An Earth platform begins as a mine and becomes an enclosed state. Collapse, forced labor, burial alive, inheritance of work debt, and conflict with land-Menhir courts shape its politics. | elemental earth city grammar | `research-lead` |
-| EL-R07 | **The Seam Marches** | Smoke, magma, frost, mud, lightning, ash, or crystal littorals form contested border states between easier adjacent quadrants. Every war risks breaking the shared conductor and killing both populations. | para-elemental and mixed-plane grammar | `research-lead` |
-| EL-R08 | **The Fourteen-Anchor Free Port** | One present anchor secretly supports a mixed refugee quarter whose existence would change international control of Shell extraction. Exposing it may end forced concealment or invite annexation and industrial war. | World Egg anchor canon | `research-lead` |
+| EL-R01 | **The Living Brass Refuge** | A stranded legacy Fire littoral supports a refugee-industrial metropolis through cooling, biological imports and lethal maintenance labor without becoming a fifteenth active anchor. | D&D/Pathfinder City of Brass | `reviewed-revise` |
+| EL-R02 | **The Dead Brass Warning-City** | A failed platform preserves separately classified sealed persons, automata, inscriptions, corpses and fatal wards. It remains a mortality-and-greed expedition rather than a dead district of the living city. | *Arabian Nights* City of Brass | `reviewed-retain` |
+| EL-R03 | **The Coral Court in Pressure Brine** | An arrived mixed population governs Water pressure gates and datum-based duration. Marriage, hostage exchange, drowning and delayed return connect it to Material succession. | Ryūgū; Hesiodic sea house | `reviewed-revise` |
+| EL-R04 | **The City on the Moving Shell** | One unique non-sapient Material leviathan carries a mobile Water littoral. The city wounds and controls its living datum while other coasts may need the route diverted. | Alohmab’s moving-shell city | `reviewed-revise` |
+| EL-R05 | **The Fleet of Surrendered Directions** | Material vessels form an Air-littoral refugee fleet. Stormglass holds copied or coercively extracted route memory while an Astral Anchor-Lord monopolizes safe arrival. | cloud cities; Breathwaste | `reviewed-revise` |
+| EL-R06 | **The Weight-Seed Kingdom** | A stranded Earth mine becomes an enclosed state sustained by air, void and biological imports. Forced labor, burial alive and inherited work debt become constitutional power. | elemental earth city grammar | `reviewed-retain` |
+| EL-R07 | **The Seam Marches** | Separately founded Water–Air platforms share one conductor and maintenance march. War over pressure brine and stormglass can freeze, suffocate or scatter both populations. | para-elemental and mixed-plane grammar | `reviewed-revise` |
+| EL-R08 | **The Fourteen-Anchor Free Port** | A concealed refugee quarter occupies unused volume on the Shell side of one existing active anchor. Discovery could trigger audit, recognition, annexation or lethal purge across the fourteen-anchor system. | World Egg anchor canon | `reviewed-revise` |
+
+The full family review is recorded in [[Constructed Shell Littorals and Refuge Polities Review]]. It fixes the littoral infrastructure stack, four permitted platform conditions, resident continuity register and owner–operator–government distinctions. Two leads are retained and six revised; none is historically placed or promoted.
 
 # VI. Hell, the Depths, and the Abyss: More Than One Evil Ecology
 
@@ -429,7 +433,7 @@ The earlier twelve beds should now be understood as **umbrella conflicts**, not 
 | Elemental background | eight constructed Shell polities while preserving sterile plane-quadrants and nonperson elemental patterns |
 | War of the Last Map | twelve reviewed infernal dominions plus eighteen separate Black-Coil ruler, Archmask, fallen-spirit and wound-sovereign actor nurseries |
 
-The atlas contains **sixty-six separate realm, court, polity and campaign leads** without declaring sixty-six events. The infernal review adds a second shelf of **eighteen ecology-active actor leads** behind those realm pressures. Four actors and six dominions possess provisional historical placements; the other fourteen are active but undated. Actor and polity remain non-identical and nothing is promoted.
+The atlas contains **sixty-six separate realm, court, polity and campaign leads** without declaring sixty-six events. All six comparative families have now completed their first review. The infernal review adds a second shelf of **eighteen ecology-active actor leads** behind those realm pressures. Four actors and six dominions possess provisional historical placements; the other fourteen are active but undated. Actor and polity remain non-identical and nothing is promoted.
 
 ## Recommended next research sequence
 
@@ -437,8 +441,9 @@ The atlas contains **sixty-six separate realm, court, polity and campaign leads*
 2. **Egg White city and Patron atlas expansion — reviewed:** twelve leads developed in [[Patron Realms and Egg White City Politics Review]].
 3. **Menhir regional court dossiers — reviewed:** twelve leads developed in [[Menhir Courts, Jurisdictions, and High Hunts Review]] without a universal Seelie/Unseelie chart.
 4. **Infernal dominion and archfiend atlas — reviewed, source-sharpened and first-placed:** twelve dominions reviewed, all eighteen actors ecology-activated, four actors historically selected and six dominions placed through the linked infernal reviews.
-5. **Shell refugee-polity study — next family:** settle possible merfolk, triton, Giant, Driftkin, and altered-human continuities before naming cities.
-6. **Idol heartland political atlas:** map forts, courts, harvest corridors, Sediment sites, and Archmask territories while keeping true succession deferred.
+5. **Shell refugee-polity study — reviewed:** eight leads developed in [[Constructed Shell Littorals and Refuge Polities Review]] with explicit infrastructure and continuity.
+6. **Idol heartland political atlas — reviewed and first-placed:** ten leads developed in [[Idol Heartlands, Masks, and Hunger Wars Review]]; four selected through [[First Idol Constellation - Historical Placement Matrix]] and collision-reviewed without succession or promotion.
+7. **Next comparative step:** compare the placed greater-power constellations against Garden density before selecting any further light traces.
 
 # IX. Validation
 
@@ -447,10 +452,12 @@ The atlas contains **sixty-six separate realm, court, polity and campaign leads*
 - [x] Saints can be forceful, military, frightening, corrective, biographically difficult, and directly manifest without becoming summonable demigods.
 - [x] Blackfire-like breach specialists belong to living Sinner, warlock, or Patron structures rather than being relabeled saints.
 - [x] Idols receive Great Game politics, realm identity, champions, projected hosts, and cultural multiplicity without becoming belief-created gods.
+- [x] All ten Idol leads have completed review in [[Idol Heartlands, Masks, and Hunger Wars Review]] with four retain and six revise dispositions; feeding, Mask rivalry and Sediment now have explicit mechanisms and no succession is promoted.
+- [x] Four Idol leads now possess independent provisional historical placements in [[First Idol Constellation - Historical Placement Matrix]]; two are retained and two revised, while all remain Garden-locked and succession-neutral.
 - [x] Menhir range from intimate fairy-court encounter to incomprehensible natural sovereignty without becoming mindless; mindless cosmic computation is routed elsewhere.
 - [x] All twelve Menhir leads have completed review in [[Menhir Courts, Jurisdictions, and High Hunts Review]] with seven retain and five revise dispositions and no placement or promotion.
 - [x] Patrons receive Dreamlands and Daedric realm grammar while every place still has anchor, law, upkeep, tether, owner, inhabitants, and failure state.
-- [x] The Elemental Shell remains sterile; every city is a constructed littoral and every resident has a separate origin and continuity.
+- [x] The Elemental Shell remains sterile; [[Constructed Shell Littorals and Refuge Polities Review]] gives all eight cities and refuges explicit infrastructure and resident classifications, with two retain and six revise dispositions and no placement or promotion.
 - [x] The original dead City of Brass and the later fantasy metropolis remain separate source plants.
 - [x] Hell supports tyranny, selfish predation, mercenary war, and Abyssal unmaking without importing three fiend species or soul annihilation.
 - [x] All twelve infernal dominion leads completed review; all eighteen actors are ecology-active with five retain and thirteen revise dispositions; four actors and six dominions possess provisional historical placements while fourteen remain active but undated.
@@ -474,5 +481,9 @@ The atlas contains **sixty-six separate realm, court, polity and campaign leads*
 - [[Idol Thrones, Regnants, and Cultural Masks]]
 - [[Wonder, War, and Threshold Saints]]
 - [[Host and Greater Angels]]
+- [[Constructed Shell Littorals and Refuge Polities Review]]
+- [[Idol Heartlands, Masks, and Hunger Wars Review]]
+- [[First Idol Constellation - Historical Placement Matrix]]
+- [[First Idol Constellation - Collision and Disposition Review]]
 - [[Elemental Shell and the Four Planes]]
 - [[Hell, Depth, and the Abyss]]

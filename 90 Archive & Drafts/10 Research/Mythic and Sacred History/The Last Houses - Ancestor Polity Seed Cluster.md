@@ -18,10 +18,9 @@ related_factions:
 appears_in: []
 needs:
   - assign an exact far-distant region only after the distant-lands geography pass
-  - review all six seeds for retain, revise, defer, or reject
-  - determine the Still Cypress court-law's controlling Menhir sovereignty without creating a new Menhir
-  - classify every later Court speaker separately before use
-  - choose whether the Unclosed Line purge belongs to one city, one league, or a wider civil war
+  - determine the Still Cypress court-law's controlling existing Menhir sovereignty or conjunction only after distant geography is fixed
+  - classify every later Court speaker separately before any identity claim is used
+  - conduct a separate first-contact review before connecting this cluster to the known world
 tags:
   - research
   - historical-seeds
@@ -99,7 +98,8 @@ The cluster can grow from Orphaned Reassembly into a durable civilization withou
 - **1360 AR traces:** three mutually inconsistent death records; noble Houses with provable adoption from laborers or foreigners; tomb endowments larger than living hospitals; and a legal rule that no preserved ancestor can cast a living vote.
 - **Collision ruling:** separate from Ark-derived peoples and from Nsizwa clan, praise-song and Izivukwa institutions. No Last House founded, trained or secretly survives through an Nsizwa tomb.
 - **Open:** proper name, region, language, date, Giant predecessor, form of the two seats, religion, degree of isolation and whether a unified commonwealth ever exists.
-- **Status:** `nursery-unreviewed`.
+- **Review disposition:** `retain` — the three records perform a distinct civic and mortuary function without claiming custody of the dead.
+- **Status:** `garden-reviewed-retain`.
 
 ## LH-02 — The Still Cypress Vaults
 
@@ -107,15 +107,16 @@ The cluster can grow from Orphaned Reassembly into a durable civilization withou
 - **Humble origin:** embalmers discover that a particular root-vault preserves prepared tissue only while an adjoining tract is allowed to decompose without interruption.
 - **Historical pressure:** survival of evidence after Giant collapse and later competition for mortuary land.
 - **Primary grammar:** Aerenal's place-bounded preservation; Menhir natural law; Biblical grave custody without confusing a body with the immortal person.
-- **World Egg torque:** **the Still Cypress** is a provisional human name for a local Menhir `court-law`, place-mind or jurisdiction—not a new Menhir sovereignty. Its controlling relationship to Sylvorn, Nevaura, Morvalis or a conjunction remains open. Human embalming performs most of the physical work.
+- **World Egg torque:** **the Still Cypress** is a provisional human name for a local Menhir `court-law`, place-mind or jurisdiction—not a new Menhir sovereignty. Its controlling relationship to Sylvorn, Nevaura, Morvalis or a conjunction remains deliberately unresolved until the distant-land geography pass can establish which existing sovereignty actually reaches the site. Human embalming performs most of the physical work.
 - **Mechanism in plain language:** workers prepare a body, seal it among living roots and maintain a paired return plot. Breakdown slows inside the vault while fallen wood, offerings and other organic matter in the return plot break down unusually quickly. Ending the maintenance allows ordinary decay to resume.
 - **Hard edge:** Houses appropriate farmland for return plots, move poor graves into accelerated-decay ground and preserve elite bodies at the cost of soil, labor and the evidence carried by unfavored corpses. During famine, guards kill families entering reserved groves for food or burial.
 - **Source-fidelity ruling:** received source: Aerenal's Irian-bound preservation ecology; borrowed element: exceptional preservation that weakens away from one place; original hard edge: the source element itself is principally geographical and nonviolent, while privileged access creates political inequality; current state: `intact`; restoration: none; historical layer: authorial natural law with competing Menhir cult explanations. The land seizure and killings arise from the World Egg polity's decisions rather than being attributed to Eberron.
 - **Limit:** the vault preserves matter and sometimes residue. It does not preserve a soul, confer intelligence, make a corpse holy or establish moral approval by a Menhir.
 - **1360 AR traces:** paired wood samples age at radically different rates only inside an intact vault arrangement; neglected elite bodies begin decaying; and petitions identify fields taken for mortuary return plots.
-- **Collision ruling:** not Nevaura's universal winter law, Morvalis's soul-road, the salt archive of Nihil or proof of a new Menhir. Promotion requires a separate Menhir-sovereignty ruling.
+- **Collision ruling:** not Nevaura's universal winter law, Morvalis's soul-road, the salt archive of Nihil or proof of a new Menhir. The Garden may retain the observable preservation relation while every claim about its controlling sovereignty remains promotion-locked.
 - **Open:** landscape, climate, botanical form, controlling sovereignty, original discoverers, extent and whether every city can reproduce the effect.
-- **Status:** `nursery-unreviewed`.
+- **Review disposition:** `revise` — retain the place-bounded material effect while explicitly gating its controlling existing Menhir or conjunction to the later geography pass.
+- **Status:** `garden-reviewed-revise`.
 
 ## LH-03 — The Court Beyond the Cypress
 
@@ -123,7 +124,7 @@ The cluster can grow from Orphaned Reassembly into a durable civilization withou
 - **Humble origin:** living Houses ask an Egg White refuge to preserve duplicate testimony during wars and fires. The refuge gradually claims authority to interpret the people whose records it stores.
 - **Historical pressure:** expansion of mortuary government, Egg White anchor politics and the conversion of archive custody into political sovereignty.
 - **Primary grammar:** the Undying Court's long counsel and geographically limited reach; TES-like otherworld courts; World Egg Patron rent and proxy politics.
-- **World Egg torque:** the Court is a real Egg White polity but not a court of human souls. Its anchor owners, speaking proxies, archive simulations, residue-born inhabitants and possible Giant or human continuants require separate classifications. No single category is assumed to govern the entire city.
+- **World Egg torque:** the Court is a real Egg White polity but not a court of human souls. Its anchor owners, speaking proxies, archive simulations, residue-born inhabitants and possible Giant or human continuants require separate classifications. No single category is assumed to govern the entire city, and no statement by “the Court” may be used historically until the particular speaker, carrier and continuity behind that statement have been classified.
 - **Mechanism in plain language:** Material agents copy records and repeated legal performances into anchored correspondences. Court speakers compare this material, pay informants and run archive-patterns, allowing them to produce impressive answers. Their knowledge fails or repeats errors where the transmitted record fails.
 - **Hard edge:** the Court auctions privileged access to ancestral personae, withholds routes from Houses that challenge its opinions and encourages living elites to preserve the versions of history most useful to stable rent. Families are dispossessed after Court judgements based on records their enemies curated.
 - **Source-fidelity ruling:** received source: the Undying Court's long counsel, collective power and place-bounded influence; borrowed element: an ancestral authority working through living agents and thinking beyond ordinary lifetimes; original hard edge: the living accept durable rule from a selected ancestral elite and become instruments of projects they cannot fully inspect; current state: `intact`; restoration: none; historical layer: authorial Patron politics concealed beneath received ancestral theology.
@@ -132,7 +133,8 @@ The cluster can grow from Orphaned Reassembly into a durable civilization withou
 - **1360 AR traces:** Court judgements repeating rare scribal errors found in concealed Material exemplars; conflicting ancestor-patterns making mutually exclusive claims; and contracts in which access to a “grandmother” is priced as an archive service.
 - **Collision ruling:** not the plague-born Ossuary Crown, a wandering escaped Giant court, the Court of the Martyrs' Names or the Table of the Last Name. It shares the Long Rent War ecology without becoming its capital.
 - **Open:** city, anchor, owners, inhabitants, routes, present government, degree of deception and whether any speaker has ever been the bodily continuant it claims to be.
-- **Status:** `nursery-unreviewed`.
+- **Review disposition:** `revise` — preserve the Egg White polity while requiring case-by-case classification of every speaker and refusing to treat the Court as one species, person or continuity.
+- **Status:** `garden-reviewed-revise`.
 
 ## LH-04 — The Unclosed Line
 
@@ -141,13 +143,14 @@ The cluster can grow from Orphaned Reassembly into a durable civilization withou
 - **Historical pressure:** fear of manipulated ancestry and the political advantage of possessing an indisputably living founder.
 - **Primary grammar:** Aerenal's rival necromantic school and destruction of a bloodline; Saul's unlawful demand for the dead, false immortality and the World Egg's soul-route predation systems.
 - **World Egg torque:** the school crosses from preservation into actual captivity. Its methods can produce `bound-human-soul` or `retained-human-soul` cases through infernal custody, Idol bargains, living descendant anchors and stolen funerary machinery. Other results are residue, occupants or empty simulations rather than successful retention.
-- **Hard edge:** some victims remain conscious in dead or failing bodies. Others depart while a copy or hostile occupant speaks through the corpse. When the ruling Houses suppress the school, their forces kill practitioners, surrendered dependants and children, burn bodies needed as evidence, redistribute survivors and graft useful techniques onto victorious lineages. Necessary destruction of soul prisons becomes collective punishment and political theft.
+- **Hard edge:** some victims remain conscious in dead or failing bodies. Others depart while a copy or hostile occupant speaks through the corpse. When the ruling Houses of one city and its dependent wards suppress the school, their forces kill practitioners, surrendered dependants and children, burn bodies needed as evidence, redistribute survivors and graft useful techniques onto victorious lineages. Necessary destruction of soul prisons becomes collective punishment and political theft.
 - **Source-fidelity ruling:** received source: the Aerenal–Vol mortuary schism and destruction of the rival line; borrowed element: competing immortality methods followed by state eradication of the defeated tradition; original hard edge: extermination of a lineage and suppression of its continuity practice; current state: `intact`; restoration: none; historical layer: authorial atrocity divided among victorious orthodoxy, survivor memory and erased technical records.
-- **Plain causal chain:** Court impersonations create demand for certain continuity → the school offers bodily retention → experiments imprison some souls and replace others with convincing false speakers → victims and rival Houses expose the work → the government destroys laboratories but massacres whole households and falsifies the settlement → later orthodoxy inherits both real safeguards and stolen methods.
+- **Plain causal chain:** Court impersonations create demand for certain continuity → one city's school offers bodily retention → experiments imprison some souls and replace others with convincing false speakers → victims and rival Houses expose the work → the city government and forces from its dependent wards destroy laboratories but massacre whole households and falsify the settlement → refugees carry fragments outward while later orthodoxy inherits both real safeguards and stolen methods.
 - **1360 AR traces:** interrupted genealogies reappearing under victorious House names; mass cremation pits beneath official gardens; sealed bodies with incompatible response layers; and technical vocabulary shared by condemned texts and orthodox embalming manuals.
 - **Collision ruling:** not Ansharan vampirism, the Pale Hand, an Undertow invention, the Vol name or a secret origin for every retained soul. Each case requires its own route and continuity audit.
-- **Open:** name, scope, guilt of founders, exact mechanism, number of actual bound souls, identity of patrons, survivors and whether the purge ended the practice.
-- **Status:** `nursery-unreviewed`.
+- **Open:** city and ward names, guilt of founders, exact mechanism, number of actual bound souls, identity of patrons, survivors and whether the city-scale purge ended the practice locally.
+- **Review disposition:** `revise` — limit the purge to one city and its dependent wards; refugees and stolen techniques may travel, but the event is not a league-wide purge or general civil war.
+- **Status:** `garden-reviewed-revise`.
 
 ## LH-05 — The Keepers of the Last Door
 
@@ -162,7 +165,8 @@ The cluster can grow from Orphaned Reassembly into a durable civilization withou
 - **1360 AR traces:** contradictory five-seal warrants; graves bearing four seals because the final classification was disputed; and foreign restitution claims for bodies destroyed during Keeper campaigns.
 - **Collision ruling:** independent of existing breachward orders, the impersonal Threshold Warden office, Nsizwa Spirit-Keepers and Vortharan corpse industries. Similar work does not establish descent or shared authority.
 - **Open:** founder, creed, state relation, current factions, geographic reach, actual successes, atrocities and whether a reform movement still exists.
-- **Status:** `nursery-unreviewed`.
+- **Review disposition:** `retain` — the living forensic order remains distinct from breachward and heavenly offices while retaining both rescue and institutional crime.
+- **Status:** `garden-reviewed-retain`.
 
 ## LH-06 — The Mantle Houses
 
@@ -177,7 +181,8 @@ The cluster can grow from Orphaned Reassembly into a durable civilization withou
 - **1360 AR traces:** armour repeatedly altered for bodies of different size and sex; two living claimants with equally valid training records; contracts distinguishing inherited duty from inherited guilt; and an outlawed rite in which a performer abandons a birth name.
 - **Collision ruling:** not Nsizwa Izivukwa, reincarnation, Giant Regnant succession, Idol mantling or proof that legend creates souls. It may interact with [[Names of the Menhir, Masks of the Idols]] only after a specific Mask is established.
 - **Open:** whether the Mantle Houses are exiles, rivals, frontier branches or a later reform; number of mantles; named heroes; supernatural cases; wars and present legal standing.
-- **Status:** `nursery-unreviewed`.
+- **Review disposition:** `retain` — the living-office and performed-legend grammar remains useful without transferring, merging or manufacturing souls.
+- **Status:** `garden-reviewed-retain`.
 
 ## Collision Register
 
@@ -208,6 +213,8 @@ It also does not plant a hidden past contact with any known culture. Similar cus
 
 The six roots may later remain one cultural ecology, separate into neighbouring societies or be partially rejected. Their shared source grammar does not require shared final identity.
 
+[[Historical Seed Garden - Coherence and Balance Review]] subsequently records three `retain` and three incorporated `revise` dispositions. The Still Cypress effect remains observable while its controlling existing Menhir or conjunction stays unresolved; every Court speaker requires separate classification; and the Unclosed Line purge is bounded to one city and its dependent wards rather than a league or civilization-wide war. No root was removed.
+
 ## Validation
 
 - [x] Human souls remain distinct from bodies, residue, constructs, offices, legend-personas, Masks and Patron-role bearers.
@@ -216,6 +223,7 @@ The six roots may later remain one cultural ecology, separate into neighbouring 
 - [x] The Still Cypress is a provisional local jurisdiction, not a promoted Menhir sovereignty.
 - [x] The Court Beyond the Cypress has separately classified owners, speakers, inhabitants and archive systems.
 - [x] The Unclosed Line includes actual soul-route violation and the ruling Houses' massacre without making every experiment successful.
+- [x] The Unclosed Line purge is bounded to one city and its dependent wards; refugees and stolen techniques may travel without turning it into a general civil war.
 - [x] The Keepers can perform necessary work and commit institutional crimes without either fact erasing the other.
 - [x] Mantles never transfer, merge or create human souls.
 - [x] The cluster remains separate from Nsizwa, Nihil, the Ossuary Crown, escaped Giant courts and existing breachward institutions.

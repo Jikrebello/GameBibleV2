@@ -20,9 +20,9 @@ related_factions:
   - Sinners
 appears_in: []
 needs:
-  - conduct a separate historical placement pass for no more than six reviewed Menhir nurseries
   - decide whether any of the six reviewed infernal placements deserves a light Garden trace
-  - review the remaining constructed Shell and Idol realm families
+  - decide whether any of the four collision-reviewed Idol placements deserves a light Garden trace
+  - select no more than four reviewed constructed Shell roots for a later historical placement pass
   - choose named local recensions only after their cultural and regional dossiers exist
   - require an individual dossier before naming any fallen angel, Greater Saint, sovereign Patron, or autonomous Archmask
 tags:
@@ -207,7 +207,11 @@ All eight revisions are incorporated into [[Great-Power Mythic Ecology and Plant
 
 [[Infernal Dominions and Black-Coil Archfiends Review]] tested all twelve infernal leads against GP-II-02. [[Infernal Dominions and Black-Coil Archfiends - Collision Selection and Historical Placement Review]] then uses four corrected figures and exactly six dominion/front roots. Its six apertures remain separate: a Late-Chains custody prison, a Star-age quota ascent, an Underground client city, a Conversion-era counter-contract war, a Long-Frontier wound arsenal and one Fall-era Last-Door assault. [[Black-Coil Archfiends - Source Signature and Full Ecology Review]] subsequently activates the remaining fourteen figures without inserting them into those events. Hell remains a cold black Earth-and-Water reality; every authentic fire-and-brimstone manifestation belongs to Wrath. No local containment makes an infernal tyrant necessary to creation.
 
-The next unreviewed comparative family is the constructed Shell-polity shelf. Its eight leads must preserve the Shell's sterile nonperson ecology and classify every refugee, ruler and constructed inhabitant separately.
+[[Constructed Shell Littorals and Refuge Polities Review]] completes the constructed Shell-polity shelf. It reviews all eight leads, retaining two and incorporating six revisions. Every city requires a Material datum, Astral ballast, lattice, habitable envelope, biological supply, dump channel, return relation and maintenance population. No pure Shell pattern becomes a person, no polity creates a fifteenth active anchor and no lead is historically placed or promoted.
+
+[[Idol Heartlands, Masks, and Hunger Wars Review]] now completes the final ten-lead comparative family. It retains four and incorporates six revisions. The review turns “feeding on belief” into a causal sequence of good, chosen distortion, repeatable human architecture, Mask route, bounded dominion effect and parasitic return. It separates dependent Masks, autonomous Archmasks, Regnants, heterogeneous Sediment, legend-patterns and human souls; narrows the appetite border to Lust and Gluttony; and treats every apparent accession as Mask turnover unless a dedicated succession dossier proves otherwise. The family review itself places or promotes no lead and counts none against the recorded-history succession ceiling.
+
+[[First Idol Constellation - Historical Placement Matrix]] then places four independent episodes: a late-Chains Sarrakai river war whose consequences are taken by four dependent Masks; a City-State Envy Archmask using three foreign leases; an Underground execution later counterfeited by Pride and Envy; and a post-Split Pride Archmask purging its older biography. [[First Idol Constellation - Collision and Disposition Review]] retains two and revises two. The four share no actor, route, cult, institution or succession. None enters the Garden or spends a Regnant-succession slot.
 
 ## Navigation
 
@@ -216,6 +220,10 @@ The next unreviewed comparative family is the constructed Shell-polity shelf. It
 - [[Infernal Dominions and Black-Coil Archfiends Review]]
 - [[Infernal Dominions and Black-Coil Archfiends - Collision Selection and Historical Placement Review]]
 - [[Black-Coil Archfiends - Source Signature and Full Ecology Review]]
+- [[Constructed Shell Littorals and Refuge Polities Review]]
+- [[Idol Heartlands, Masks, and Hunger Wars Review]]
+- [[First Idol Constellation - Historical Placement Matrix]]
+- [[First Idol Constellation - Collision and Disposition Review]]
 - [[Comparative Realms, Courts, and Sacred Warfare Atlas]]
 - [[First Unknown Histories - Collision and Disposition Review]]
 - [[Saint and Breachward Historical Placement Pass]]

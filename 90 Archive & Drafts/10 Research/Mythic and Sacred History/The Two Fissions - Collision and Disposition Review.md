@@ -27,7 +27,8 @@ culture:
 related_factions: []
 appears_in: []
 needs:
-  - leave all twelve hooks outside canon unless individually selected later
+  - leave all twelve complete hooks outside canon
+  - retain the six unselected hooks in the nursery until their regional passes
 tags:
   - research
   - scattering
@@ -241,6 +242,9 @@ This review passes the demographic skeleton for a later canon-promotion decision
 
 > [!note] Subsequent promotion — 2026-08-31
 > The author subsequently approved the demographic skeleton, which entered controlling canon through [[The Two Fissions - Canon Promotion Review]]. This did not promote any of the twelve hooks, their actors, locations, objects or disputed events.
+
+> [!note] Subsequent light harvest
+> [[Early-History Trace Promotion Review]] later planted one light trace from TF-01, TF-03, TF-05, TF-08, TF-09 and TF-10 in [[The Historical Seed Garden]]. The other six hooks remain in the nursery, and no complete hook or named actor entered canon.
 
 ## Navigation
 

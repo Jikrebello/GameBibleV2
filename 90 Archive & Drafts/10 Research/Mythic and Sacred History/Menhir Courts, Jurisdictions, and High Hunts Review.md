@@ -13,11 +13,11 @@ related_factions:
   - The Menhir
 appears_in: []
 needs:
-  - choose no more than six nurseries for the first historical placement pass
-  - assign region, culture, primary Menhir pressure and local actor continuities before placement
+  - review the six historically placed episodes separately before any light-trace promotion
+  - keep the remaining six leads unplaced until a later regional need justifies them
   - create a creature or unique-person dossier before adding any new reusable court form
   - settle the authorial identity model behind MN-R09 before promotion
-  - return to the named Irish, Welsh, Scottish or Cornish source layer before any local recension is promoted
+  - preserve named regional source attribution for every placed or promoted recension
 tags:
   - research
   - menhir
@@ -32,7 +32,7 @@ tags:
 
 This is the third family review arising from [[Comparative Realms, Courts, and Sacred Warfare Atlas]]. It develops the twelve `MN-R` leads without turning the Faewild into one fairy empire, treating court titles as proof of literal monarchy, or making the Menhir into mindless outer gods.
 
-Nothing here is canon, named history, a new creature family, a fixed cultural recension, or a promoted Garden seed. The review establishes seven `retain` and five incorporated `revise` dispositions. All twelve remain unnamed, undated, unplaced and promotion-locked.
+Nothing here is canon, named history, a new creature family or a promoted Garden seed. The review establishes seven `retain` and five incorporated `revise` dispositions. [[First Menhir Constellation - Historical Placement Matrix]] subsequently gives six leads provisional historical soil, and [[First Menhir Constellation - Collision and Disposition Review]] passes three as `retain` and three with incorporated `revise` rulings. The other six remain undated and unplaced; all twelve remain promotion-locked.
 
 The governing result is simple:
 
@@ -324,18 +324,20 @@ Physical descent and Faewild adjacency must be mapped separately. A tunnel may e
 | [[Great-Power Mythic Ecology and Planting Matrix#GP-II-01 — The War of Unfinished Seasons|War of Unfinished Seasons]] | MN-R10R can become one local seasonal Hunt; MN-R01 or MN-R04 may preserve regional consequences | no single nursery gathers all seasonal Menhir or explains the umbrella |
 | [[Great-Power Mythic Ecology and Planting Matrix#GP-III-02 — The War of the Closed Doors|War of the Closed Doors]] | MN-R02, MN-R05, MN-R06R or MN-R08 can supply one broken compact or displaced court ecology | closure does not make the old cult true, the court morally right or the new authorities innocent |
 
-# VI. First Historical Placement Priorities
+# VI. First Historical Placement Result
 
-The first placement pass should select no more than six roots. These are slots, not assignments:
+The first pass selects exactly six roots and gives each one an independent provisional placement in [[First Menhir Constellation - Historical Placement Matrix]]:
 
-1. **Giant occupation or late Chains:** one local court dispossessed or reorganized by Giant extraction, without making the Giants founders of Faewild law.
-2. **Scattering or early Hearths:** one seasonal Hunt or mound settlement producing local survival custom rather than a second Exodus.
-3. **City-States or Stars:** one guarded-fortress raid or alignment stronghold whose survivors leave a disputed tool, route or legal claim.
-4. **Underground or Conversion centuries:** one tithe, procession or broken compact later distorted by courts, prosecutions or conversion polemic.
-5. **Long Frontier through High Noon:** one mine, barrow or coast case where state extraction and court law make each other more dangerous.
-6. **Remote or presently uncontacted country:** either the abandoned mountain court or the court above the Great Coherence, preserving the setting's scale beyond the known political world.
+| Historical slot | Selected root | Placement result |
+|---|---|---|
+| Giant occupation or late Chains | MN-R02 — Court That Lost the Surface | one Giant extraction estate in the later Brauvalis–Green March country, c. 2320–2260 BR |
+| Scattering or early Hearths | MN-R10R — High Hunt of the Withheld Season | Tidewood–Gale-Crown watershed, c. 1850–1725 BR; Norwegian Oskoreia attribution |
+| City-States or Stars | MN-R03R — Raid That Returned One Tool | pre-imperial Arkenan–Saronikan island corridor, c. 1120–980 BR |
+| Underground or Conversion | MN-R05 — Elfland Tithe | western Kedravan coast, c. 230–310 AR; rival court as creditor |
+| Long Frontier through High Noon | MN-R08 — Compact of the Knockers | one Aversian high mine, c. 1110–1170 AR |
+| Remote or presently uncontacted | MN-R11 — Mountain the Court Abandoned | far-southern uncontacted highlands, locally correlated to c. 1080–1160 AR |
 
-No placement should introduce a universal Faewild king, court war, Seelie/Unseelie alignment, new Menhir, hidden First Circle, Giant-created court species or common Menhir church.
+[[First Menhir Constellation - Collision and Disposition Review]] records three `retain` and three incorporated `revise` outcomes. No placement introduces a universal Faewild king, court war, Seelie/Unseelie alignment, new Menhir, hidden First Circle, Giant-created court species or common Menhir church. None enters canon or the Historical Seed Garden.
 
 # VII. Promotion Gates
 
@@ -373,7 +375,7 @@ Before any reviewed lead becomes a historical seed:
 - [x] Great Coherence and Sleeping Wrong have been separated; the selected Coherence remains a nonperson Shell pattern.
 - [x] MN-R11 preserves intelligent Menhir scale mismatch and remains distinct from MN-R12R.
 - [x] No lead duplicates an existing Folk court, subterranean polity, Patron realm or umbrella conflict.
-- [x] No new Menhir, creature form, Weird explanation, historical event, Garden trace or present outcome is promoted.
+- [x] This family review promoted no new Menhir, creature form, Weird explanation, historical event, Garden trace or present outcome; the six later placements remain separate, exploratory and Garden-locked.
 
 ## Navigation
 
@@ -389,4 +391,6 @@ Before any reviewed lead becomes a historical seed:
 - [[Hunt Hounds and Hunt Riders]]
 - [[Great Coherences]]
 - [[The Country Beneath the Rains - First Subterranean Region Chassis]]
+- [[First Menhir Constellation - Historical Placement Matrix]]
+- [[First Menhir Constellation - Collision and Disposition Review]]
 - [[Mythic and Sacred History Research MOC]]

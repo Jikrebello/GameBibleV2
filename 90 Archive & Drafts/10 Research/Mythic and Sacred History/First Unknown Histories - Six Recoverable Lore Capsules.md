@@ -22,7 +22,8 @@ related_factions: []
 appears_in: []
 needs:
   - select names and locations only after chronological review
-  - conduct a separate light-trace promotion review after author approval
+  - retain UH-04 for a later Shell-interface pass
+  - retain UH-06 for the later saint-density review
 tags:
   - research
   - mythic-history
@@ -33,7 +34,7 @@ tags:
 # First Unknown Histories — Six Recoverable Lore Capsules
 
 > [!warning] Nursery material
-> These six histories are author-only exploratory truth. They do not enter chronology, canon, or [[The Historical Seed Garden]] until separately reviewed and promoted. Titles, personal names, exact locations, and surviving institutions remain provisional.
+> These six histories remain author-only exploratory truth and do not enter chronology or canon. [[Early-History Trace Promotion Review]] has planted one light trace from UH-01, UH-02, UH-03 and UH-05 in [[The Historical Seed Garden]] while withholding UH-04 and UH-06. No complete capsule, title, personal name, exact location or surviving institution is promoted.
 
 ## Purpose and Reading Rule
 
@@ -54,6 +55,7 @@ The capsules are deliberately independent. They are not six chapters of one secr
 
 - **Identity boundary:** this is not the court, petition tradition, population, ruin, ballast register, or present claim behind the [[The Historical Seed Garden#Late Chains — Petitions of the Cut-Loose Wards|Petitions of the Cut-Loose Wards]]. It concerns a different Giant court whose distinctive crime was using copied ancestors and three false evacuation processions to redirect pursuit. No document, claimant, route stone, or descendant is shared between the two roots.
 - **Review disposition:** `revise` — preserve the escape, abandonment, copied ancestors, Hunt misdirection, gate killings, and recoverable court lie while replacing the Cut-Loose Wards' petition-and-ballast carriers with decoy itineraries, route carcasses, pursuit records, and counterfeit ancestry.
+- **Garden trace status:** `promoted` through [[Early-History Trace Promotion Review]]; the full capsule, actors and routes remain unpromoted.
 
 ## What Actually Happened
 
@@ -114,6 +116,7 @@ The abandoned people did not become one hidden nation. Some joined Exodus column
 
 - **Identity boundary:** this is an independent Scattering settlement and not an episode of the Crownless Company, Seven Who Took the Wrong Road, or any already planted founder genealogy. Its visible Genesis 34 inheritance remains source grammar rather than shared identity.
 - **Review disposition:** `retain` — its refugee famine, guest-law assault, noncovenantal disarmament machinery, mixed survivor community, maternal legal reforms, and archaeological recovery change the required axes while preserving the source's rape, deceit, massacre, plunder, and coerced kinship.
+- **Garden trace status:** `promoted` through [[Early-History Trace Promotion Review]]; the full capsule, identities and settlement remain unpromoted.
 
 ## What Actually Happened
 
@@ -174,6 +177,7 @@ No supernatural power caused the crime or punishment. A later local Mask cultiva
 
 - **Identity boundary:** this is one bounded mortal summoning disaster around c. 830–790 BR, crossing the late City-State and early Star-age boundary. It is not the origin, decisive front, or final battle of the [[Great-Power Mythic Ecology and Planting Matrix#GP-II-02 — The War of the Last Map|War of the Last Map]], and it shares no prisoners, map, fortification, or office-bearer with another planted infernal history.
 - **Review disposition:** `retain` — preserve the coerced boundary system, two hostile dominions, prisoner revolt, collapsed route, and forensic road test while making bearer, office, command token, body, and soul explicit.
+- **Garden trace status:** `promoted` through [[Early-History Trace Promotion Review]]; the full capsule and infernal actors remain unpromoted.
 
 ## What Actually Happened
 
@@ -232,6 +236,7 @@ The act contained one weaponized wound by depriving it of the human chain throug
 
 - **Identity boundary:** this failed single-generation furnace platform is not EL-R01, the **Living Brass Refuge**, and shares no owner, population, government, anchor, route, industry, or present settlement with that still-unplaced research lead. One is a small destroyed refuge-workshop; the other remains available as a living cosmopolitan Fire-littoral metropolis.
 - **Review disposition:** `revise` — preserve real rescue, hereditary furnace slavery, revolt, gate violence, continuity classification, and the emergency-door test while reducing the polity from a metropolis to a failed fortified platform and closing any implication of shared survival with EL-R01.
+- **Garden trace status:** `withheld` by [[Early-History Trace Promotion Review]] because furnace refuge and maintenance-slavery carriers are already dense; the capsule remains available for a later Shell-interface pass.
 
 ## What Actually Happened
 
@@ -292,6 +297,7 @@ Returnees concealed the full history for incompatible reasons. Frontier rulers d
 
 - **Identity boundary:** this is not the [[The Historical Seed Garden#Fall and Reconquest — The Unreturned Ledger|Unreturned Ledger]], its refugee treasury, its clerks, its service-credit tradition, or any parcel associated with the Deed in the Bread Jar. It is an unrelated Material town, municipal water-court register, mass execution, and title-tablet fraud. Resembling legal problems do not imply documentary descent.
 - **Review disposition:** `revise` — preserve the mixed occupation society, executions, winter expulsions, destroyed register, backdated grants, and present forensic lawsuit while fixing the episode as a separate municipal crime with no Patron, Egg White treasury, carried property ledger, or protected household deed.
+- **Garden trace status:** `promoted` through [[Early-History Trace Promotion Review]]; the full capsule, town and present judgement remain unpromoted.
 
 ## What Actually Happened
 
@@ -352,6 +358,7 @@ The event does not make the Reconquest illegitimate or its opponents innocent. I
 
 - **Identity boundary:** this landlocked fortress episode is not SB-P04, the **Saint of the Two Ferries**, and shares no saint, city, ferry, river, hospice, relic, icon, cult, witness family, or manifestation with that retained placement. It is a separate use of the broader common-saint and wrong-gate grammars at an inland military prison.
 - **Review disposition:** `revise` — preserve partisan invocation, Patron and Mask counterfeits, executions, desecration, bounded rescue, and forensic gate response while replacing the paired ferry cities with one mountain fortress, rival military cults, a different saint, prison architecture, and an arsenal hearing.
+- **Garden trace status:** `withheld` by [[Early-History Trace Promotion Review]] because saint, prison and gate carriers are already dense; the capsule remains available for the later saint-density review.
 
 ## What Actually Happened
 

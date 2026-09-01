@@ -48,9 +48,11 @@ The current whole-history pass is held in the author-only [[Mythic and Sacred Hi
 - [[First Heavenly Constellation - Chronological Placement Review]];
 - [[First Heavenly Constellation - First Trace Promotion Review]];
 - [[The Last Houses - Ancestor Polity Seed Cluster]];
+- [[Historical Seed Garden - Coherence and Balance Review]];
+- [[Early-History Trace Promotion Review]];
 - [[Historical Seed Card Template]].
 
-Those notes audit every age through human, folkloric, institutional, and metaphysical lanes. The Giant descent rules, Five Imperial Horizons, and Great Unbinding backbone are now controlling canon. All seventy-two developed cards have received nursery dispositions and source-fidelity rulings; the four bridge leads, twelve Praise entries, and seventeen beds below are included in the same hardening audit. The fourteen Great-Person traces and their sixteen controlling placements have a separate Primarch source-fidelity audit: nine visible wounds restored, five visible wounds retained intact, and both erased-person mysteries retained intact. The twelve heavenly traces below have likewise passed an earth-first chronological review: five placements retained and seven revised before light harvest. Every story seed remains exploratory until separately promoted, and linking it here does not promote its names, memberships, miracles, dates, provisional polities, actor identities, or proposed Idol successions.
+Those notes audit every age through human, folkloric, institutional, and metaphysical lanes. The Giant descent rules, Five Imperial Horizons, and Great Unbinding backbone are now controlling canon. All seventy-two developed cards have received nursery dispositions and source-fidelity rulings; the four bridge leads, twelve Praise entries, and seventeen beds below are included in the same hardening audit. The fourteen Great-Person traces and their sixteen controlling placements have a separate Primarch source-fidelity audit: nine visible wounds restored, five visible wounds retained intact, and both erased-person mysteries retained intact. The twelve heavenly traces below have likewise passed an earth-first chronological review: five placements retained and seven revised before light harvest. [[Historical Seed Garden - Coherence and Balance Review]] then reviewed all fifty-five previously planted roots, retaining fifty-two and revising three in place; [[Early-History Trace Promotion Review]] added ten light roots, bringing the present Garden to sixty-five. Every story seed remains exploratory until separately promoted, and linking it here does not promote its names, memberships, miracles, dates, provisional polities, actor identities, or proposed Idol successions.
 
 Promotion should begin with light traces—sayings, customs, roads, graves, relics, and disputed texts—before fixing heroes, institutions, companies, or sovereign convulsions. The seventeen beds below remain the nursery's stable framework; approved cards should deepen them before creating duplicate signature companies.
 
@@ -708,7 +710,7 @@ The people, state, exact far-distant region, language, dates, Houses, rulers, Pa
 
 **Loose growth:** wealthy Houses preserve founders by appropriating farmland, moving poor graves into accelerated-decay ground and killing people who enter reserved groves during famine. The apparent bargain may reflect a local Menhir court-law, place-mind or jurisdiction, while human embalming performs most of the work.
 
-**Identity and promotion boundary:** **Still Cypress** is a provisional local handle, not a new Menhir. Parentage under Sylvorn, Nevaura, Morvalis or a conjunction remains open. The effect preserves matter and perhaps residue, never the human soul, moral approval or sainthood.
+**Identity and promotion boundary:** **Still Cypress** is a provisional local handle, not a new Menhir. Its controlling existing sovereignty or conjunction remains explicitly unresolved until the distant-land geography pass establishes which known Menhir law reaches the site. The effect preserves matter and perhaps residue, never the human soul, moral approval or sainthood.
 
 ### The Court Judgement with the Same Mistake
 
@@ -718,7 +720,7 @@ The people, state, exact far-distant region, language, dates, Houses, rulers, Pa
 
 **Historical pressure:** the growth of mortuary government, Patron anchor politics and the conversion of archive custody into claimed ancestral sovereignty.
 
-**Loose growth:** the Court Beyond the Cypress may contain anchor-owning Patrons, proxies, constructs, residue-born inhabitants, copies and other separately classified actors. It can offer impressive long counsel while auctioning access, excluding dissenting Houses and dispossessing families through records their enemies curated. Pride or Envy Masks can exploit the praise architecture without founding the entire court.
+**Loose growth:** the Court Beyond the Cypress may contain anchor-owning Patrons, proxies, constructs, residue-born inhabitants, copies and other separately classified actors. It can offer impressive long counsel while auctioning access, excluding dissenting Houses and dispossessing families through records their enemies curated. Pride or Envy Masks can exploit the praise architecture without founding the entire court. Every statement attributed to “the Court” requires the particular speaker, carrier and continuity to be classified before use.
 
 **Identity and promotion boundary:** no Court, anchor, owner, route or ancestor is authenticated. The Court is not a council of human souls, the Ossuary Crown, Nihil's Table or an escaped Giant palace. A genuine saint could act only under a bounded commission and could not become its permanent member.
 
@@ -728,11 +730,11 @@ The people, state, exact far-distant region, language, dates, Houses, rulers, Pa
 
 **Durable trace:** interrupted families reappear under victorious House names, mass cremation pits lie beneath official memorial gardens and condemned technical terms survive in orthodox embalming manuals.
 
-**Historical pressure:** fear of ancestor impersonation, political demand for indisputable continuity and a mortuary school crossing from bodily preservation into soul captivity.
+**Historical pressure:** fear of ancestor impersonation, political demand for indisputable continuity and one city's mortuary school crossing from bodily preservation into soul captivity.
 
-**Loose growth:** some experiments genuinely bind human souls inside failing bodies; others leave residue, empty simulations or hostile occupants. The ruling Houses destroy dangerous prisons but also kill surrendered practitioners, innocent dependants and children, burn exculpatory bodies and appropriate useful techniques. Necessary resistance does not make the collective punishment righteous.
+**Loose growth:** some experiments genuinely bind human souls inside failing bodies; others leave residue, empty simulations or hostile occupants. The ruling Houses of one city and its dependent wards destroy dangerous prisons but also kill surrendered practitioners, innocent dependants and children, burn exculpatory bodies and appropriate useful techniques. Refugees and stolen methods can travel farther; the purge itself is neither league-wide nor a general civil war. Necessary resistance does not make the collective punishment righteous.
 
-**Identity and promotion boundary:** no school, massacre, Patron, Idol bargain, retained victim or war is fixed. The seed is not Ansharan vampirism, the Pale Hand, a universal Undertow origin or proof that every preserved speaker contains a soul.
+**Identity and promotion boundary:** no city, school name, victim roster, Patron, Idol bargain or retained person is promoted. The bounded city-scale purge is not Ansharan vampirism, the Pale Hand, a universal Undertow origin, a civilization-wide war or proof that every preserved speaker contains a soul.
 
 ### The Five-Seal Grave Warrants
 
@@ -759,6 +761,132 @@ The people, state, exact far-distant region, language, dates, Houses, rulers, Pa
 **Identity and promotion boundary:** no mantle, hero, House, supernatural response or legal settlement is fixed. Performance never transfers or merges human souls and is not Nsizwa Izivukwa, reincarnation, Giant succession or Idol Regnancy.
 
 The six roots can later remain one civilization, become neighboring traditions or separate during review. Their common source grammar does not establish a common founder, secret metaphysical system or correct public theology. Opening contact with the known world is a future project rather than a concealed fact already present in 1360 AR.
+
+## First Early-History Trace Harvest
+
+These ten roots are the curated harvest authorized by [[Early-History Trace Promotion Review]] after the complete fifty-five-root audit in [[Historical Seed Garden - Coherence and Balance Review]]. Six come from the reviewed Two-Fissions hooks and four from the reviewed Unknown Histories. They strengthen the comparatively sparse Late Chains, post-Prophet, Scattering, early Hearths, City-State/Star and Reconquest bands without adding a signature company or importing a complete lore capsule.
+
+The provisional people, names, exact sites, borders, descendant claims, supernatural identities and present judgements remain outside the Garden. The trace layer is exploratory. It does not alter chronology or confer canon status.
+
+### Exodus Aftermath — The Empty Seat at the Outward Threshold
+
+**Humble aperture:** workers responsible for carrying and repairing the Prophet's ordinary judgement seat discover after his death that every surviving office wants the chair placed beside its own speaker.
+
+**Durable trace:** old Jirahar hearings, some Ahdari water courts and a few Thalmyric memorial councils preserve an empty place, but its orientation differs among the traditions and no example can establish possession of the original chair.
+
+**Historical pressure:** the Prophet leaves no universal successor. A commander turns custody of the seat into a succession claim, guards kill unarmed petitioners during the struggle and later councils preserve emptiness rather than allowing one bounded camp office to inherit his commission.
+
+**Loose growth:** the seat may have been dismantled, hidden, carried south or destroyed. Jirahar, Atherian and Ahdari traditions retain interested explanations of the deaths. The custom can restrain succession claims even if none of the surviving empty places descends directly from the first hearing.
+
+**Identity and promotion boundary:** no successor, commander, judge, original chair, office supremacy or divine endorsement is promoted. The chair performs no act and answers nobody. It is not the Closed Companion roll, the empty table-place Beneath the Bowl, the Empty Place at the Route Hearing, a saintly empty shrine or one of Pride's responsive empty chairs.
+
+### Early Scattering — The First Southern Gate
+
+**Humble aperture:** a servant, hostage or junior gate-keeper inside an inhabited southern stronghold bargains with an approaching proto-Atherian league against the house presently ruling the crossing.
+
+**Durable trace:** an oldest repaired gate predates the official foundation layer, while burial pits and two incompatible conquest-allotment systems survive beneath later streets.
+
+**Historical pressure:** southern war-settlers need grain and a defensible crossing. Commanders accept an insider's bargain, then permit soldiers to murder resisters, divide captives, enslave households and seize land before giving the local allies only part of what was promised.
+
+**Loose growth:** the previous rulers may also have been oppressive, but that does not turn the capture into bloodless liberation. Later versions make the insider a founder's bride or an enslaved child betrayed by both sides; the identity and fate remain open.
+
+**Identity and promotion boundary:** this is one early foothold, not the foundation of every Atherian city and not the Peace Feast at Nine Hearths. No conquest allotment proves first ownership, no Ark ancestry excuses the killings and no proto-Atherian campaign receives divine commission.
+
+### Late Scattering and Early Hearths — The Harbor Founded Twice
+
+**Humble aperture:** local pilots, net-makers and warehouse households share a storm harbor with refugee boat crews and a damaged proto-Atherian convoy that cannot continue without repair and food.
+
+**Durable trace:** the harbor keeps two public foundation days, two incompatible quay alignments and an old exemption for families said to have “owned water before the wall.”
+
+**Historical pressure:** elders grant the newcomers a seasonal quarter, but settler officers fortify it and weaponize the grain store. Resisters are killed, sold or driven inland; other households join the market; local pilots later help destroy a punitive fleet sent by the settlers' parent league.
+
+**Loose growth:** occupation and liberation become competing first foundations of one mixed city. Later ceremony can reconcile the calendars while omitting who was enslaved, and later families can possess genuine braided inheritance without either side's heroic account becoming complete.
+
+**Identity and promotion boundary:** the provisional harbor is one future Sestaran contact zone, not the origin of all seven Sestaran cities, one Sestaran ethnicity or a pure descendant people. No founder, parent league, local clan, captive household or exact site is promoted.
+
+### Northern Fission — The Court That Walked and the Wall That Stayed
+
+**Humble aperture:** two related communities sharing judges, marriages, graves and winter stores must decide how to rebuild after raiders burn an open settlement and carry off dependants.
+
+**Durable trace:** paired public formulae distinguish a court's right to depart from a protector's duty to remain, while a ruined wall and caravan graves point toward one still-unfixed region.
+
+**Historical pressure:** wall-builders demand labour, property registration and an inherited protector household. A travelling court accepts temporary defence but refuses permanent jurisdiction over absent caravans; protectors confiscate those families' stores and bar their return; kin fight and kill one another at the gate.
+
+**Loose growth:** survivors continue sharing marriages and burial obligations while their courts, calendars and loyalties diverge. Jirahar and Ahdari memories each preserve the other side's failure more clearly than their own armed seizure.
+
+**Identity and promotion boundary:** one confiscation and kin-fight illuminate the later northern fission without founding either people. No first Jirahar court, Ahdari protector house, universal calendar or First Qiryath origin is promoted.
+
+### Near-Glass and Tarkhan Border — The Bride of the Dry Road
+
+**Humble aperture:** a woman from a Near-Glass office-holding family enters a constrained peace marriage with a Tarkhan route household after both sides exchange captives.
+
+**Durable trace:** several dry-road communities still enact a public departure procedure allowing a woman to leave an alliance with dependants when the host household has killed her acknowledged peace-kin.
+
+**Historical pressure:** caravan seizure and well retaliation drive leaders to arrange marriage, fosterage and hostage exchange. Her husband's kin later demand that she surrender protected fugitives; she refuses; armed relatives kill her brother, held elsewhere as security; she dissolves the alliance under its own terms and leads dependants away.
+
+**Loose growth:** Ahdari, Jirahar and Tarkhan traditions recast her as oath-mother, register keeper or route ancestress. None preserves a secure name. The later custom may descend directly, have been borrowed or have absorbed several comparable departures.
+
+**Identity and promotion boundary:** the marriage's public necessity does not make it voluntary or benevolent. The woman is not the mother of the Jirahar, Ahl-e-Ahd or Tarkhan peoples, and no present community gains exclusive ancestry, sanctity or ownership from the rule.
+
+### Folk–Ättar Divergence — The Hall That Faced the Grobi
+
+**Humble aperture:** a southern hall related to inland Folk must choose between answering a northern feud against proto-Atherian settlers and maintaining the winter watch against a real Grobi movement.
+
+**Durable trace:** some Ättar winter musters state that the south-facing watch overrides foreign feud service, while neighbouring Folk laments call the same clause **the closed shield**.
+
+**Historical pressure:** the hall refuses the northern muster and forms a permanent defence compact. Northern cousins lose people and burial land while waiting for aid; the compact saves southern valleys but accepts the likely abandonment of relatives; its halls, ships, stores and warrior followings develop differently from inland institutions.
+
+**Loose growth:** neither choice was secretly easy. Ättar songs say the hall alone understood the southern danger; Folk songs say its rulers used Grobi fear to keep strength out of a costly but legitimate kin war.
+
+**Identity and promotion boundary:** this local failure of one obligation while meeting another does not cause the complete Folk–Ättar divergence, explain the Grobi, replace the War of the Empty Halls or establish Mother Moon's later bargain.
+
+### Late Chains — The Caravan That Cast Off Its Wards
+
+**Humble aperture:** itinerary clerks assign households to three simultaneous evacuation processions while palace engineers quietly transfer the wards' true directions and anchor plates into a protected Giant estate.
+
+**Durable trace:** two false procession-anchor carcasses, Hunt-scored route stones, incompatible copied ancestor-patterns, three mutually exclusive itineraries and a bridge hinge cut from the palace side can be brought together in one 1360 AR classification hearing.
+
+**Historical pressure:** a lesser Giant court secures bodily Egg White escape by protecting its ruling estates, stripping human districts and expendable Giant kin, killing tenants at the inner gate and releasing copied ancestors under stolen banners to misdirect both pursuers and a High Hunt. One false procession draws destruction onto an innocent refugee column.
+
+**Loose growth:** the moving caravan may still contain its original ruler, an heir or an office wearing the old face. The abandoned people join several later populations or die rather than becoming one secret nation. Arranging each recovered stone sequence can briefly open a different dead procession-march without revealing the genuine palace route.
+
+**Identity and promotion boundary:** this is not the court, people, petition, ballast list, ruin or descendant claim behind the Petitions of the Cut-Loose Wards. Genuine Giants retain `giant-continuity`; every human retains `human-soul`; copied ancestors remain `constructed-pattern` decoys and are not the persons whose faces or memories they imitate. The root explains neither the Glass nor a Bird-Marked Site.
+
+### Scattering — The Peace Feast at Nine Hearths
+
+**Humble aperture:** starving refugees seek grain and admission from a nine-household settlement after its ruling son sexually assaults a refugee woman protected as a guest and then demands marriage as settlement.
+
+**Durable trace:** beneath the old feast court lies a concealed killing layer containing bodies with fresh hearth cuts; bronze “wedding tokens” fit the excavated communal weapon racks; the granary seal later becomes a bridal emblem; maternal challenge rights survive in local inheritance law.
+
+**Historical pressure:** the woman's kin publicly accept a hearth-mark admission rite, use it to disarm the settlement and attack during the feast. They kill the guilty and uninvolved together, seize grain, land, children and tools, and distribute surviving women and children as dependants, servants or coerced spouses.
+
+**Loose growth:** descendants of attackers and captives become one mixed community and build separate testimony and maternal inheritance protections inside the consequences of the crime. Later rulers turn the assault into elopement, the massacre into plague and seized grain into a bridal gift. The woman's name and later fate remain unrecoverable.
+
+**Identity and promotion boundary:** the assault does not justify collective massacre, and the massacre does not impose hereditary guilt. This is not the Crownless Company, Seven Who Took the Wrong Road or a national founder genealogy. No supernatural power causes the crime, and the seed does not explain the Year of Standing Stars.
+
+### City-States into Stars — The Prisoners Who Became a Border
+
+**Humble aperture:** late City-State summoners seeking military intelligence supply debtors, war captives and condemned prisoners to an infernal map-lord that promises a controlled defensive road.
+
+**Durable trace:** quarrying beneath a Star-age city exposes branded remains, detachable station plates fixed to the wrong bodies, a broken central index and a forty-pace road segment whose travelled distance repeats when a recovered named plate is attached to a test sled.
+
+**Historical pressure:** the map-lord uses human bodies as fixed coordinates while directing an Abyssal contradiction toward a rival infernal jurisdiction; the rival mutilates captured markers rather than freeing them. Prisoners discover that the road obeys engraved station names, exchange the plates, confuse both garrisons and collapse the local summoning house at the cost of many prisoners and rescuers.
+
+**Loose growth:** the revolt contains one weaponized wound without healing the Abyss or ending any wider infernal conflict. Manuals call the prisoners unreliable components, city histories call them volunteers and prison songs turn exchanged plates into exchanged identities.
+
+**Identity and promotion boundary:** every prisoner remains a `human-soul` person. A copied road-name is a command token, the map mantle is a devil `infrastructure-office` and its damned human bearer remains a distinct soul. The episode is neither the beginning nor final battle of the War of the Last Map and does not explain the Year of Standing Stars.
+
+### Fall and Reconquest — The Returners' Second Sack
+
+**Humble aperture:** occupation-era water workers, hospital staff and mixed households keep one surrendered town functioning while refugees preserve real claims to property they were forced to abandon.
+
+**Durable trace:** a mass grave outside the hospital wall, repairs predating reconquest grants and deeper occupation-era impressions beneath backdated title tablets independently expose the break in official ownership.
+
+**Historical pressure:** a returning army retakes the town, refuses individual hearings and executes murderous collaborators, coerced stewards, rescuers and occupation-born families together. Commanders burn the water-court register, expel dependants during winter and issue false titles to soldiers and supporters.
+
+**Loose growth:** refugee losses, occupation crimes, civic service and fraudulent restoration claims remain simultaneously real. A current hospital expansion and water-right lawsuit can establish the executions and rewriting without deciding every prisoner's guilt or the equitable present distribution of property.
+
+**Identity and promotion boundary:** this is a wholly Material municipal crime, not the Unreturned Ledger, its Patron treasury, the Deed in the Bread Jar or a transferred household parcel. One second sack neither invalidates the wider Reconquest, makes every occupier innocent nor assigns hereditary guilt to returning families. No present property judgement is fixed.
 
 ## Promotion Test
 

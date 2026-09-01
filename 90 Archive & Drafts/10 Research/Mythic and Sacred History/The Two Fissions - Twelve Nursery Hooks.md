@@ -26,7 +26,7 @@ culture:
 related_factions: []
 appears_in: []
 needs:
-  - keep every hook promotion-locked until separately selected after canon promotion
+  - retain TF-02, TF-04, TF-06, TF-07, TF-11 and TF-12 in the nursery until their later regional passes
 tags:
   - research
   - historical-seeds
@@ -36,7 +36,7 @@ tags:
 # The Two Fissions — Twelve Nursery Hooks
 
 > [!warning] Light nursery material
-> These hooks test the human-scale consequences of [[The Two Fissions and the Atherian Long Formation]]. They possess no fixed personal names, precise locations, complete biographies, or canon status. Approval of the demographic model does not approve any hook.
+> These hooks test the human-scale consequences of [[The Two Fissions and the Atherian Long Formation]]. They possess no fixed personal names, precise locations, complete biographies, or canon status. Approval of the demographic model did not approve any hook; [[Early-History Trace Promotion Review]] later selected one light Garden trace from six of them without promoting the complete events.
 
 ## Batch Controls
 
@@ -46,7 +46,7 @@ tags:
 - **Theological boundary:** no Atherian conquest is divinely commissioned. No victory, relic, road, office, dream, or later saintly association can retroactively authorize it.
 - **Ancestry boundary:** Orphaned peoples act, ally, betray, conquer, bargain, and preserve knowledge. They are not scenery awaiting Ark descendants.
 - **Review outcome:** [[The Two Fissions - Collision and Disposition Review]] records six `retain` and six incorporated `revise` rulings.
-- **Promotion status:** every hook remains `nursery-unreviewed`; review does not promote it.
+- **Promotion status:** TF-01, TF-03, TF-05, TF-08, TF-09 and TF-10 have one light trace each in the Garden through [[Early-History Trace Promotion Review]]. The other six remain `nursery-unreviewed`. No complete hook is canonical.
 
 ---
 
@@ -62,7 +62,7 @@ tags:
 - **1360 AR trace:** many Jirahar hearings, some old Ahdari water courts, and a few Thalmyric memorial councils preserve an empty place whose orientation differs by tradition. No example can prove possession of the original seat.
 - **Collision ruling:** distinct from the Closed Companion roll, later saintly empty shrines, Pride's supernatural empty chairs, and crowned infernal refusal forms. The seat performs no act and answers nobody; this concerns post-Prophet civil authority only.
 - **Review disposition:** `retain` — the ordinary, nonresponsive seat and bounded civil crisis are already distinct.
-- **Promotion status:** `nursery-unreviewed`.
+- **Promotion status:** `garden-trace-promoted` through [[Early-History Trace Promotion Review]]; the complete event remains exploratory.
 
 ## TF-02 — The Five Staffs of the Last Camp
 
@@ -90,7 +90,7 @@ tags:
 - **1360 AR trace:** the oldest wall has a repaired gate predating the official foundation layer; burial pits and two incompatible allotment systems survive beneath later streets.
 - **Collision ruling:** not the Peace Feast at Nine Hearths and not the founding of every Atherian city. It is one early conquest pattern.
 - **Review disposition:** `retain` — its gate betrayal, conquest allotments, mixed local conspiracy, and urban archaeology remain distinct from the Peace Feast's admission massacre.
-- **Promotion status:** `nursery-unreviewed`.
+- **Promotion status:** `garden-trace-promoted` through [[Early-History Trace Promotion Review]]; the complete event remains exploratory.
 
 ## TF-04 — The Hostage Children of Oak and Glass
 
@@ -118,7 +118,7 @@ tags:
 - **1360 AR trace:** two foundation days, two incompatible quay alignments, and an old customs exemption for families whose ancestors “owned water before the wall.”
 - **Collision ruling:** one provisional harbor only. It cannot become the origin of all seven Sestaran cities or a shared Sestaran ethnicity.
 - **Review disposition:** `retain` — the seasonal quarter, grain-store occupation, punitive fleet, and double civic calendar give this harbor a distinct historical function.
-- **Promotion status:** `nursery-unreviewed`.
+- **Promotion status:** `garden-trace-promoted` through [[Early-History Trace Promotion Review]]; the complete event remains exploratory.
 
 ## TF-06 — The Furnace League
 
@@ -160,7 +160,7 @@ tags:
 - **1360 AR trace:** paired legal formulas distinguish a court's right to depart from a protector's duty to remain. Ruined walls and caravan graves point to one region, but the precise site remains open.
 - **Collision ruling:** not the founding of First Qiryath and not the origin of every Ahdari protector house.
 - **Review disposition:** `retain` — one confiscation and kin-fight dramatize the northern institutional divergence without founding either later people.
-- **Promotion status:** `nursery-unreviewed`.
+- **Promotion status:** `garden-trace-promoted` through [[Early-History Trace Promotion Review]]; the complete event remains exploratory.
 
 ## TF-09 — The Bride of the Dry Road
 
@@ -174,7 +174,7 @@ tags:
 - **1360 AR trace:** several dry-road communities recognize a woman's right to leave an alliance while retaining custody of dependants if the host household kills her acknowledged peace-kin.
 - **Collision ruling:** not a single mother of Jirahar, Ahdari, or Tarkhan peoples. The later law may be borrowed independently from the story.
 - **Review disposition:** `retain` — the woman's constrained marriage, refusal, loss, departure, and bounded custody rule remain personal rather than ethnogenic shorthand.
-- **Promotion status:** `nursery-unreviewed`.
+- **Promotion status:** `garden-trace-promoted` through [[Early-History Trace Promotion Review]]; the complete event remains exploratory.
 
 ## TF-10 — The Hall That Faced the Grobi
 
@@ -188,7 +188,7 @@ tags:
 - **1360 AR trace:** some Ättar winter musters still state that the south-facing watch overrides foreign feud service; neighboring Folk songs name the same clause “the closed shield.”
 - **Collision ruling:** does not cause the entire Folk–Ättar divergence and does not explain or replace the c. 1600 BR War of the Empty Halls or Mother Moon's bargain.
 - **Review disposition:** `retain` — the local conflict establishes one institutional preference while leaving the larger divergence and later supernatural pact untouched.
-- **Promotion status:** `nursery-unreviewed`.
+- **Promotion status:** `garden-trace-promoted` through [[Early-History Trace Promotion Review]]; the complete event remains exploratory.
 
 ## TF-11 — The Oar-King Without a Country
 

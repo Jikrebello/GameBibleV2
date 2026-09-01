@@ -13,7 +13,8 @@ culture: []
 related_factions: []
 appears_in: []
 needs:
-  - conduct a separate light-trace promotion review only after author approval
+  - retain UH-04 for a later Shell-interface pass
+  - retain UH-06 for the later saint-density review
 tags:
   - research
   - mythic-history
@@ -25,6 +26,9 @@ tags:
 
 > [!warning] Review scope
 > This review separates the six capsules from earlier nursery roots, incorporates the required revisions, and records dispositions. It does not promote a trace, name a historical person or polity, amend chronology, or change [[The Historical Seed Garden]].
+
+> [!note] Subsequent light harvest
+> [[Early-History Trace Promotion Review]] later planted one light trace from UH-01, UH-02, UH-03 and UH-05 in [[The Historical Seed Garden]]. UH-04 and UH-06 remain full unpromoted capsules. No complete history, actor, polity, route or present judgement entered canon.
 
 ## Review Question
 
