@@ -165,6 +165,7 @@ These references define ontology and places; they add no creature forms.
 - [[True Angels Overview]]
 - [[Attendant and Herald Angels]]
 - [[Warden, Mercy, and Witness Angels]]
+- [[Guardian Angels and Consecrated Commissions]]
 - [[Host and Greater Angels]]
 - [[Phoenixes]]
 

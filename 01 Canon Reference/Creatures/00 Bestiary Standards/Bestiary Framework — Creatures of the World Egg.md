@@ -35,7 +35,7 @@ This is the authoritative **Bestiary Canon Register**. It controls how creature 
 | `30 Shadowlands and Idols` | seven Idol ecologies, altered lineages, fear forms, and wild Shadow | 42 entries |
 | `40 Astral Drift and Patrons` | Drift ecologies, route parasites, and rented stability | 18 entries |
 | `50 Elemental Shell` | Shell patterns, seams, leakspawn, and bindings | 18 entries |
-| `60 Heaven and Soul-Road` | created angels, manifested saints, and soul-road offices | 16 entries |
+| `60 Heaven and Soul-Road` | created angels, manifested saints, and soul-road offices | 17 entries |
 | `70 Hell and Abyss` | damned transformations, Depth fauna, and refusal wounds | 24 entries |
 | `80 Ancient and Crafted Legacies` | constructs, fleshworks, and dead-imperial remnants | 28 entries |
 | `90 Cross-Cutting Conditions` | modifiers that alter creatures from another family | 12 entries |
@@ -47,7 +47,7 @@ The target is approximately 200 registry entries represented through 45–60 fam
 | Wave | Locked coverage |
 |---|---:|
 | Material and Residue | 34 forms |
-| Heaven and Soul-Road | 16 profiles |
+| Heaven and Soul-Road | 17 profiles |
 | Faewild and Menhir | 30 forms |
 | Hell and Abyss | 25 forms |
 | Elemental Shell | 18 forms |

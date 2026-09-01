@@ -48,7 +48,7 @@ Each greater angel is unique. Functional titles describe them better than specie
 - **Signs:** a whole region briefly shares one orientation; hidden supernatural powers reveal their allegiance; lesser commissions align without coercion; natural light and White Flame become distinguishable from every imitation.
 - **Threat pattern:** reshape the terms of a cosmic battle, close a great breach, defeat an apex created enemy, carry a message that reorders history, or hold a frontier while mortals complete the act entrusted to them.
 - **Limits:** still created, still commissioned, and not omniscient. A greater angel cannot replace the Lord, create souls, annul human freedom, or declare personal desire to be divine command.
-- **Defeat and fall:** breaking a Material body remains possible at extreme cost. A greater angel can fall through chosen refusal; such an event is an epochal betrayal, not combat corruption.
+- **Defeat and allegiance:** breaking a Material body remains possible at extreme cost. A loyal greater angel cannot fall after the primordial choice. An apparent later betrayal indicates counterfeit identity, hostile substitution, false history, or a primordial rebel only now revealing its allegiance.
 
 This wave establishes the family without inventing unattached named greater angels. A singular dossier should be created only when history or an adventure requires the individual.
 

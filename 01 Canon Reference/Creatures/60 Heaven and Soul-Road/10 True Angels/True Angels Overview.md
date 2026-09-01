@@ -19,11 +19,11 @@ True angels are spirits created by the Lord for heavenly service. They are not h
 
 True angels possess intelligence, affection, memory, identity, and full moral agency without bearing a routable human soul. They do not reproduce into a biological population. Lesser offices recur as recognizable **choirs** because similar commissions produce similar forms; each member remains an individual. Greater angels and phoenixes are singular beings.
 
-Angels may fall through chosen refusal. Loyal angels encountered under heavenly commission are genuinely good, but goodness is allegiance and action rather than an automatic species trait.
+The angelic host made its decisive creaturely choice during the primordial rebellion. Loyal angels are freely confirmed in good and cannot subsequently fall; fallen angels cannot repent after their primordial refusal. This does not turn loyalty into species instinct. It is the fulfilled freedom of persons who know and adhere to the good they chose.
 
 ## Form
 
-Each choir has a stable core anatomy. True angelic forms are often avian but need not resemble winged humans: nested wings, eyes set in pinions, wheel-like flight, feathered flame, raptor masks, many-jointed silhouettes, or voices carried by moving air are common.
+Each choir has a stable manifestation signature. True angelic forms are often avian but need not resemble winged humans: nested wings, eyes set in pinions, wheel-like flight, feathered flame, raptor masks, many-jointed silhouettes, or voices carried by moving air are common. These signs truthfully express the bodiless created person under Material conditions; they are not biological anatomy.
 
 Witnesses receive a cultural vestment around that core. Armor, robes, gendered voice, musical scale, tools, and familiar animal references may change. The commission, stable signs, and underlying being do not.
 
@@ -42,7 +42,7 @@ Angels are not automatically senior to [[Manifested Saints Overview|saints]]. A 
 
 ## Worship and Petition
 
-True angels reject worship. Mortals may ask the Lord for aid and may address a known servant while it is present, but cannot summon or bind heavenly service. A being that accepts worship, sells its appearance, or submits to a repeatable command rite fails the ordinary test of a loyal angel.
+True angels reject worship. Mortals may ask the Lord for aid and may petition known angels or the heavenly hosts for intercession whether or not a servant is visibly present. No prayer, icon, relic, name, feast, fast, rite, contract, or bloodline can summon, bind, purchase, inherit, or assign heavenly service. A being that accepts worship, sells its appearance, or submits to a repeatable command rite fails the ordinary test of a loyal angel.
 
 ## Defeat
 
@@ -52,5 +52,6 @@ Breaking a Material commission-body forces withdrawal or ends that local action.
 
 - [[Heavenly Orders Overview]]
 - [[Heavenly Commission and Manifestation]]
+- [[Guardian Angels and Consecrated Commissions]]
 - [[The Image, Soul, and Creaturely Continuity]]
 - [[Heaven and Soul-Road MOC]]

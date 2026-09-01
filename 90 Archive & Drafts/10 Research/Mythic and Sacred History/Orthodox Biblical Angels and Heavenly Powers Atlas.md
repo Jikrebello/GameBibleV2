@@ -16,11 +16,8 @@ related_factions:
   - Thalmyric Church
 appears_in: []
 needs:
-  - decide whether loyal post-rebellion angels remain capable of falling or are confirmed in good
-  - decide whether fallen angels can ever repent, rather than leaving the question open by default
-  - reconcile Orthodox petition to angels with the narrower current True Angels wording
-  - decide whether personal, national, and consecrated-place guardian commissions enter canon
-  - collision-review the fourteen biblical heavenly leads before historical placement
+  - review the historical placements of the twelve leads selected by the combined Orthodox collision review
+  - test personal, people-facing and consecrated-place guardian commissions through separate histories
 tags:
   - research
   - scripture
@@ -38,6 +35,8 @@ This dossier gives the World Egg's heavenly ecology the biblical and Eastern Ort
 
 Nothing here creates a canonical angel, changes the heavenly bestiary, alters the Great Unbinding, or promotes a Garden seed. The biblical figures remain biblical figures. Provisional World Egg handles are separate nursery leads, not disguised copies or declarations that the same angel exists in both histories.
 
+The selected biblical handles now have provisional earth-first apertures in [[First Heavenly Constellation - Earth-First Historical Placement Pass]]. The source studies remain distinct from those World Egg histories, and both layers remain exploratory pending review.
+
 The governing result is:
 
 > Biblical angels are not a bright counterpart to demons, a reusable species ladder, or a source of morally infallible super-heroes. They are created personal powers whose terrifying action is intelligible only through the Lord's command. Their messages, mercies, delays, refusals, battles, rescues and mass judgements prove the particular commission performed—not the permanent righteousness of the human ruler, army, city or institution that witnessed it.
@@ -49,7 +48,7 @@ This pass produces:
 - no new Phoenix candidate;
 - one reinforcement of the Great Unbinding Phoenix's judgement-and-mercy grammar;
 - a nine-rank vocabulary crosswalk which does not replace the existing service profiles;
-- four major canon questions which must close before promotion.
+- four major canon questions, now closed by the combined reconciliation review.
 
 # I. Authority and Source Layers
 
@@ -543,32 +542,27 @@ These are source-shaped research leads. They are not canonical angels, biblical 
 
 Shared Scripture is not evidence that two World Egg events are identical. It is recurring moral and supernatural grammar.
 
-# VIII. Canon Collision Ledger
+# VIII. Canon Reconciliation Result
 
-## OC-01 — Can a loyal angel still fall?
+## OC-01 — Loyal angels are confirmed in good
 
-- **Current canon:** [[True Angels Overview]], [[Heavenly Orders Overview]] and [[Phoenixes]] say loyal angels retain full moral agency and remain capable of future refusal in principle.
 - **Orthodox pressure:** the received patristic account normally treats the primordial angelic choice as decisive. Saint John of Damascus says the fall is to angels what death is to humans and denies repentance after that fall; broader Orthodox synthesis commonly regards the holy angels as confirmed in good.
-- **Recommended ruling:** `open — retcon candidate`. Preserve created freedom and the real primordial fall, but consider changing active loyal angels from `can still fall` to `freely confirmed in good`. New hostile radiant figures would then be primordial rebels, counterfeits, Idols, Menhir, Patrons, Masks or Sinners rather than newly fallen loyal angels.
-- **Why it matters:** HC-S07's Zariel translation and every future `fallen during history` story depend on the current looser rule.
+- **Settled ruling:** the loyal host freely chose the Lord during the primordial rebellion and is confirmed in good. Active loyal angels cannot later fall. New hostile radiant figures must be primordial rebels, counterfeits, Idols, Menhir, Patrons, Masks or Sinners.
 
-## OC-02 — Can a fallen angel repent?
+## OC-02 — Fallen angels cannot repent
 
-- **Current canon:** [[Fallen Angels and Broken Commissions]] leaves reconciliation possible for a named case.
 - **Orthodox pressure:** the dominant Damascene formulation denies repentance after the angelic fall.
-- **Recommended ruling:** `open — retcon candidate`. Do not plant a repentant fallen angel until this is decided. A false repentance, strategic defection, broken devil office, rescued human Sinner or liberated bound angel can tell many of the same stories without contradicting the stricter rule.
+- **Settled ruling:** a fallen angel cannot repent or return to Heaven. False repentance, strategic defection, a broken devil office, a rescued human Sinner or liberation of a wrongly bound loyal angel can provide adjacent stories without changing the primordial rebel's judgement.
 
-## OC-03 — May mortals petition angels who are not visibly present?
+## OC-03 — Mortals may petition angels
 
-- **Current canon:** commission and manifestation notes allow prayer generally, while [[True Angels Overview]] appears to narrow direct address to a known servant while present.
 - **Orthodox pressure:** established Orthodox worship directly petitions archangels, bodiless powers and guardian angels while rejecting their worship as gods.
-- **Recommended ruling:** `revise canon wording later`. Permit petition and requested intercession; retain the absolute prohibition on summoning, binding, purchasing, inheriting or compelling a response.
+- **Settled ruling:** petition and requested intercession are permitted whether or not the angel is visibly present. Summoning, binding, purchasing, inheriting and compelling remain impossible.
 
-## OC-04 — Do guardian commissions enter the setting?
+## OC-04 — Guardian commissions exist
 
-- **Current canon:** angelic protection exists, but personal, national and consecrated-place guardians are not systematically established.
 - **Orthodox pressure:** Scripture and received tradition support all three.
-- **Recommended ruling:** `research first`. Begin with one personal guardian, one people-facing guardian and one consecrated-place guardian as separate cases. Test how commission begins and ends, what happens across apostasy or conquest, and why guardianship does not eliminate tragedy.
+- **Settled ruling:** personal, people-facing, consecrated-place and mission-facing guardianships exist under [[Guardian Angels and Consecrated Commissions]]. They do not create ownership, national innocence or guaranteed rescue.
 
 ## Settled non-collisions
 
@@ -593,7 +587,7 @@ Before any biblical heavenly lead is placed:
 7. prevent national guardianship from becoming racial election or permanent approval of a state;
 8. prevent liturgical rank language from becoming species or power-level determinism;
 9. keep the Redeemer, Incarnation, Resurrection, Theotokos and Angel of Great Counsel unique;
-10. do not place a newly fallen or repentant angel before OC-01 and OC-02 close;
+10. do not plant a newly fallen loyal angel or a repentant primordial rebel;
 11. require at least two independent evidence classes for an unknown historical manifestation;
 12. apply the Forward Rule to every 1360 AR appearance, relic response or institutional claim.
 
@@ -611,12 +605,13 @@ Before any biblical heavenly lead is placed:
 - [x] A guarded person, people, city or church receives no automatic moral innocence.
 - [x] No angel owns wind, water, fire, land, a nation, a soul or a saint.
 - [x] Prayer and veneration remain distinct from worship, summoning and compulsion.
-- [x] The potential contradiction over post-rebellion angelic falling and repentance is exposed rather than silently harmonized.
-- [x] No existing canon note, chronology entry, named figure or Historical Seed Garden bed changes through this dossier.
+- [x] Post-rebellion angelic falling and fallen-angel repentance are now prohibited by the completed reconciliation review.
+- [x] This source atlas itself changes no chronology entry, named figure or Historical Seed Garden bed.
 
 ## Navigation
 
 - [[Mythic and Sacred History Research MOC]]
+- [[Orthodox Heavenly Canon Reconciliation and Combined Celestial Collision Review]]
 - [[Comparative Celestials and Heavenly Translation Atlas]]
 - [[Orthodox Old Testament Lens]]
 - [[Orthodox New Testament and Early Saints Lens]]

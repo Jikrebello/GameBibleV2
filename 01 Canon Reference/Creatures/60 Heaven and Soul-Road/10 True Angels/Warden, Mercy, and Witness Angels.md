@@ -80,4 +80,5 @@ Wardens are often mistaken for proof that a claimant is righteous; they may prot
 - [[White Flame Doctrine]]
 - [[Soul-Road Guides and Separators]]
 - [[Heavenly Commission and Manifestation]]
+- [[Guardian Angels and Consecrated Commissions]]
 - [[Bestiary MOC]]

@@ -377,6 +377,7 @@ The next comparative family is **Patron realms and Egg White city politics**.
 - [[Comparative Realms, Courts, and Sacred Warfare Atlas]]
 - [[Comparative Celestials and Heavenly Translation Atlas]]
 - [[Orthodox Biblical Angels and Heavenly Powers Atlas]]
+- [[Orthodox Heavenly Canon Reconciliation and Combined Celestial Collision Review]]
 - [[Orthodox New Testament and Early Saints Lens]]
 - [[Great-Power Mythic Ecology and Planting Matrix]]
 - [[Manifested Saints Overview]]

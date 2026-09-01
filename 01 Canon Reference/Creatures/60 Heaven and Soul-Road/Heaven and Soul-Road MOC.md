@@ -16,7 +16,7 @@ tags: []
 ## Doctrine and Use
 
 - [[Heavenly Orders Overview]] - true angels, manifested saints, road mechanisms, scale, and authority.
-- [[Heavenly Commission and Manifestation]] - petition, commission-bodies, rank, falling, and encounter rules.
+- [[Heavenly Commission and Manifestation]] - petition, commission-bodies, rank, the primordial choice, and encounter rules.
 - [[The Image, Soul, and Creaturely Continuity]] - controlling ontology.
 - [[The Vestibule of Weighing]] - passage, judgement, and the lawful shore.
 
@@ -25,6 +25,7 @@ tags: []
 - [[True Angels Overview]]
 - [[Attendant and Herald Angels]]
 - [[Warden, Mercy, and Witness Angels]]
+- [[Guardian Angels and Consecrated Commissions]]
 - [[Host and Greater Angels]]
 - [[Phoenixes]]
 

@@ -60,7 +60,7 @@ Attendants are called **little witnesses**, **house lamps**, **near wings**, or 
 
 ## Recognition and Failure
 
-An attendant or herald refuses worship and mortal ownership. A “herald” that revises salvation, sells protection, demands secrecy from all testing, or accepts a binding contract is more likely a patron or counterfeit. Angels can fall, but an actual act of refusal ends the heavenly commission; it does not turn the same commission into a malicious one.
+An attendant or herald refuses worship and mortal ownership. A “herald” that revises salvation, sells protection, demands secrecy from all testing, or accepts a binding contract is more likely a patron or counterfeit. The loyal host is confirmed in good: an actual angelic commission cannot turn malicious, and an apparition which claims to be a newly corrupted herald is lying about its identity or history.
 
 ## Story Hooks
 
@@ -74,5 +74,6 @@ An attendant or herald refuses worship and mortal ownership. A “herald” that
 
 - [[True Angels Overview]]
 - [[Heavenly Commission and Manifestation]]
+- [[Guardian Angels and Consecrated Commissions]]
 - [[Borrowed Saints]]
 - [[Bestiary MOC]]

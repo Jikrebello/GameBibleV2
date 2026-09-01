@@ -17,11 +17,10 @@ related_factions:
   - Sinners
 appears_in: []
 needs:
-  - collision-review the first heavenly nursery against existing saints, angels, campaigns, and promoted traces
   - decide whether the couatl-derived binding operation deserves a Phoenix candidate distinct from the Great Unbinding Phoenix
   - settle the possible costs borne by loyal created spirits in long supernatural bindings
-  - select no more than a small first choir-and-saint batch for historical placement
-  - develop fallen radiant figures only in a separate fallen-spirit or infernal review
+  - review the historical placements of the twelve leads selected by the combined Orthodox collision review
+  - treat fallen-radiant sources through primordial rebels, Sinners, Idols, Patrons, or counterfeits rather than later angelic falls
 tags:
   - research
   - angels
@@ -37,7 +36,9 @@ tags:
 
 This dossier reviews high-order celestials, good-aligned divine figures, heralds, martyrs, champions, and fallen radiant powers from Forgotten Realms and older D&D planar lore, Eberron, Dragonlance, and Pathfinder. It asks which narrative functions can enter the World Egg's heavenly ecology without creating additional gods, confusing mortals with angels, importing alignment as moral proof, or turning light and wings into automatic evidence of holiness.
 
-Nothing here is canon, named history, a fixed heavenly person, or a promoted Garden seed. The source figures remain source figures. Provisional World Egg handles describe separate nursery possibilities and may be retained, revised, deferred, or rejected in a later collision review.
+Nothing here is canon, named history, a fixed heavenly person, or a promoted Garden seed. The source figures remain source figures. Provisional World Egg handles describe separate nursery possibilities; their final first-pass dispositions are recorded in [[Orthodox Heavenly Canon Reconciliation and Combined Celestial Collision Review]].
+
+The twelve selected handles now possess provisional earth-first apertures in [[First Heavenly Constellation - Earth-First Historical Placement Pass]]. Those placements remain review-locked and do not promote the source atlas into history or canon.
 
 The principal conclusion is:
 
@@ -101,7 +102,7 @@ Outer colours may vary by vestment—gold, blue, crimson, black-green, silver, v
 | Dragonlance | current D&D Beyond setting summaries plus classic source material for figures not developed in the present setting book | Paladine and Bahamut are treated as one shared D&D figure where current multiverse material makes that identification |
 | Pathfinder | Paizo publications, Paizo blogs, and current remastered Archives of Nethys entries, especially *Lost Omens: Divine Mysteries* | legacy alignment labels are descriptive source history rather than World Egg moral classification |
 
-The source study does not copy complete plots, names, institutions, sacred symbols, or setting cosmologies. Each retained lead still requires World Egg culture, geography, historical pressure, collision review, evidence, and a distinct consequence.
+The source study does not copy complete plots, names, institutions, sacred symbols, or setting cosmologies. Each selected lead still requires World Egg culture, geography, historical pressure, placement review, evidence, and a distinct consequence.
 
 # III. Forgotten Realms and Shared D&D Material
 
@@ -174,7 +175,7 @@ The source study does not copy complete plots, names, institutions, sacred symbo
 - **Source:** [source-indexed Zariel profile](https://forgottenrealms.fandom.com/wiki/Zariel).
 - **Borrowed element:** zeal against an actual evil becoming refusal of commission, autonomous warfare, tyranny, and eventual infernal office.
 - **Original hard edge:** chosen descent, ruined followers, soul-fuelled fortresses, mutilation, and the conversion of rescue-war into domination.
-- **World Egg ruling:** a legitimate fallen-angel grammar. No corruption spell or infernal blood forces the fall; the created spirit knowingly refuses limit and later takes an infernal office. Any possible repentance requires a separate theological ruling and cannot be assumed from source branching.
+- **World Egg ruling:** the source's later fall cannot be reproduced by a loyal World Egg angel. Its usable grammar becomes a primordial rebel whose later descent into an infernal office reveals and intensifies the original refusal, or a human Sinner whose choices occur within mortal time. No corruption spell or infernal blood forces either history, and a fallen angel cannot repent.
 - **Disposition:** `reject` from Heaven; route to fallen-spirit and Hell research.
 
 # IV. Eberron
@@ -572,13 +573,15 @@ HC-S16, Huma Dragonbane, reinforces [[Saints, Threshold Orders, and Heavenly Cam
 
 No nursery figure receives a date, proper name, culture, feast, relic, institution, campaign, Garden trace, or canonical status in this pass.
 
-The first later collision review should consider only:
+The combined review is complete in [[Orthodox Heavenly Canon Reconciliation and Combined Celestial Collision Review]]. It selects twelve leads from the twenty-eight comparative and biblical candidates while leaving sixteen deferred. From this atlas it selects:
 
-1. HC-N01 and HC-N02 together as one possible Phoenix-and-choir operation;
-2. HC-N03, HC-N04, HC-N05, HC-N06, HC-N07, HC-N08, and HC-N09 as independent angelic leads;
-3. HC-N10, HC-N11, HC-N12, HC-N13, and HC-N14 as independent human biographies;
-4. Huma only as a source-fidelity addition to ST-R04;
-5. Lathander, Zariel, Radiant Idols, and Sarenrae only as exclusions and future fallen-spirit interfaces.
+1. HC-N03, HC-N05 and revised HC-N08 as independent angelic leads;
+2. HC-N10, revised HC-N11 and revised HC-N13 as independent Greater-Saint leads;
+3. Huma only as a source-fidelity addition to ST-R04;
+4. HC-N01, HC-N02, HC-N04, HC-N06, HC-N07, HC-N09, HC-N12 and HC-N14 as deferred research;
+5. Lathander, Zariel, Radiant Idols and Sarenrae only as exclusions and hostile-ecology interfaces.
+
+None is historically placed or promoted through that selection.
 
 # IX. Validation
 
@@ -586,9 +589,10 @@ The first later collision review should consider only:
 - [x] Source deities contribute functions rather than additional divine sovereignties.
 - [x] Mortal ascendants remain `human-soul` persons and become Saints, never angels.
 - [x] Angels remain individual `created-spirit` persons and do not reproduce, merge, or inherit predecessor identity.
+- [x] Loyal angels are freely confirmed in good after the primordial choice; fallen angels cannot repent.
 - [x] No Saint or angel can be summoned, compelled, purchased, inherited, or manufactured by office or relic.
 - [x] White Flame is neither elemental fire nor a pooled celestial substance.
-- [x] Avian, light, fire, and air imagery follows existing heavenly anatomy without granting natural sovereignty.
+- [x] Avian, light, fire, and air imagery follows existing manifestation signatures without granting biological or natural sovereignty.
 - [x] The couatl-derived operation does not duplicate or explain the Great Unbinding Phoenix.
 - [x] Huma deepens rather than duplicates the Human Captain of the Host.
 - [x] The Celestial Hebdomad supplies separated commission grammars rather than a new heavenly government.
@@ -602,6 +606,7 @@ The first later collision review should consider only:
 ## Navigation
 
 - [[Mythic and Sacred History Research MOC]]
+- [[Orthodox Heavenly Canon Reconciliation and Combined Celestial Collision Review]]
 - [[Orthodox Biblical Angels and Heavenly Powers Atlas]]
 - [[Comparative Realms, Courts, and Sacred Warfare Atlas]]
 - [[Saints, Threshold Orders, and Heavenly Campaigns Review]]

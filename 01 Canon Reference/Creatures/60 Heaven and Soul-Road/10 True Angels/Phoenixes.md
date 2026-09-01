@@ -71,7 +71,7 @@ A phoenix cannot be summoned, harvested, bred, or reduced to a repeatable resurr
 
 Breaking a Material phoenix-body requires apex force or severing the manifestation path. The created spirit survives ordinary defeat, but the interrupted purification may fail catastrophically. Permanent destruction requires a unique cosmic circumstance and cannot be inferred from possessing “phoenix ash.”
 
-Phoenixes are true angels and therefore capable of refusal in principle. No active fallen phoenix is canonized in this wave.
+Phoenixes belong to the loyal host and are freely confirmed in good. A destructive bird which develops appetite, accepts worship, exceeds its commission by private choice, or claims to be a newly fallen Phoenix is not a loyal Phoenix: it is misidentified, counterfeit, or a primordial rebel wearing related imagery.
 
 ## Materials and Counterfeits
 

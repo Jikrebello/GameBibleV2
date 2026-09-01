@@ -23,7 +23,7 @@ Angels can command other angels within an assigned host. Angels do not command s
 
 ## Petition, Not Summoning
 
-Prayer, liturgy, relics, icons, hymns, fasting, charity, confession, and repaired rites may prepare people and places to receive aid. They cannot compel an appearance. Repeatable “angel summoning” is either false advertising, a patron compact, a bound created spirit, or a dangerous attempt to imitate Heaven's signs.
+Prayer, liturgy, relics, icons, hymns, fasting, charity, confession, and repaired rites may prepare people and places to receive aid. Mortals may petition the Lord, saints, known angels, and the heavenly hosts for intercession. Petition does not assign a commission or compel an appearance. Repeatable “angel summoning” is either false advertising, a patron compact, a bound created spirit, or a dangerous attempt to imitate Heaven's signs.
 
 An answered petition may produce no visible servant. Providence, courage, truthful evidence, a delayed enemy, a mortal healer, or the sudden failure of corruption can fulfill the mercy without spectacle.
 
@@ -31,7 +31,7 @@ An answered petition may produce no visible servant. Providence, courage, truthf
 
 True angels and manifested saints normally enter Material conditions through temporary bodies shaped for the work. The form is real enough to touch, suffer, fight, carry, and be resisted. It is not the servant's entire continuity.
 
-- True angelic bodies reveal a stable strange anatomy beneath cultural vestment: avian geometry, many eyes, wheels or rings of motion, impossible scale, clean flame, or living wind.
+- True angelic bodies reveal a stable spiritual signature beneath cultural vestment: avian geometry, many eyes, wheels or rings of motion, impossible scale, clean flame, or living wind. This is a truthful Material manifestation, not biological anatomy or angelic reproduction.
 - Saintly bodies preserve the person's human face, voice, wounds, clothing tradition, and testimony, translated so witnesses can recognize them. Avian marks may express heavenly service without erasing humanity.
 - Road mechanisms manifest only the form required by a bounded function.
 
@@ -63,9 +63,11 @@ True servants do not:
 - flatter an institution into confusing its victory with divine approval;
 - submit to a mortal binding as proof of holiness.
 
-## Falling
+## The Primordial Choice
 
-True angels retain full moral agency. A fall is an intelligible act of refusal in which the angel abandons a commission or allegiance. It does not occur because a spell “corrupts” angelic blood. A fallen angel remains a created spirit but no longer belongs to Heaven's active orders.
+True angels retain full moral agency. The loyal host's decisive allegiance during the primordial rebellion is freely confirmed in good, so an active heavenly servant cannot later fall, become corrupted, or turn a valid commission malicious. A radiant power which does so is a counterfeit, a Patron or Idol manifestation, a bound or copied pattern, or a fallen created spirit whose refusal already belongs to the primordial crisis.
+
+A fallen angel remains `created-spirit` but does not repent after the angelic fall. Breaking a devil office, prison, imposed body, true-name handle, or counterfeit identity can change how that spirit acts locally without restoring it to Heaven.
 
 Redeemed saints cannot fall after judgement and fulfilled communion. Their signs can be forged, relics can be abused, and mortal accounts can lie; the saint is not thereby turned against the Lord.
 
@@ -76,6 +78,7 @@ Heavenly servants may aid, test, warn, bar passage, demand release of a bound so
 ## Navigation
 
 - [[Heavenly Orders Overview]]
+- [[Guardian Angels and Consecrated Commissions]]
 - [[True Angels Overview]]
 - [[Manifested Saints Overview]]
 - [[The Great Unbinding]]

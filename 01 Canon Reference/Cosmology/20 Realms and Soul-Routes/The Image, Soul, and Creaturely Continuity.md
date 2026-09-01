@@ -134,9 +134,10 @@ This distinction is controlled by [[The Great Rebellion and the Yolk Exiles]] an
 
 Heavenly service includes more than one kind of continuity.
 
-- **True angels** are created heavenly spirits with `continuity: created-spirit`. They possess stable identities and full agency. Loyal angels act by the Lord's commission. They can choose refusal and fall.
+- **True angels** are created heavenly spirits with `continuity: created-spirit`. They possess stable identities and full agency. Their decisive creaturely choice belongs to the primordial rebellion: the loyal host is freely confirmed in good and cannot later fall, while fallen angels cannot repent after their refusal.
 - **Manifested saints** are redeemed human souls with `continuity: human-soul`. They retain recognizable earthly and cultural identity and cannot fall after final communion.
 - **[[The Boatman]]** is a unique true angel commissioned as psychopomp and custodian of the soul-road. He routes and protects; he does not judge independently of the Lord.
+- **[[Guardian Angels and Consecrated Commissions|Guardian angels]]** are true angels under personal, people-facing, place-facing, or mission-facing commissions. Guardianship creates no soul bond, ownership, ancestry, or automatic righteousness.
 - **Road mechanisms** are impersonal `infrastructure-office` manifestations used when passage is endangered.
 
 Authority follows divine commission rather than origin or raw power. Mortals may petition for aid but cannot summon, bind, or mechanically deploy an angel or saint. Destroying a heavenly manifestation ends its present commission-body, not the spirit or redeemed soul.

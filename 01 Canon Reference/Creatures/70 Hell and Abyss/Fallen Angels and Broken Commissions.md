@@ -13,16 +13,17 @@ tags: [core-canon]
 ---
 # Fallen Angels and Broken Commissions
 
-True angels are created spirits with full agency. A loyal angel serves through the Lord's commission. A fallen angel is a particular created spirit that knowingly chose refusal against its commission and the good it understood.
+True angels are created spirits with full agency. During the primordial rebellion each made a decisive creaturely choice. The loyal host is freely confirmed in good. A fallen angel is a particular created spirit whose knowing refusal belongs to that primordial crisis and which is fixed in that refusal.
 
 ## Locked Rulings
 
-- Falling is a moral act, not infection, corruption damage, inherited biology, or a new species.
+- The angelic fall was a moral act in the primordial rebellion, not infection, corruption damage, inherited biology, later battlefield defeat, or a new species.
 - A fallen angel retains `continuity: created-spirit`.
+- A loyal angel cannot fall after the primordial choice, and a fallen angel cannot repent after its fall.
 - No generic fallen-angel rank ladder, nation, breeding population, or reusable encounter family exists.
 - Avian, fiery, beautiful, or terrible anatomy does not identify loyalty by itself.
 - A devil mantle may constrain a fallen angel only if a particular case establishes how the office gained a true-name handle. The mantle would not change angelic continuity.
-- This wave establishes no routine restoration path. Reconciliation, further judgement, or permanent defeat must be decided for the named individual and cannot be produced by a spell or inherited procedure.
+- No reconciliation or restoration path exists for a fallen angel. Further restraint, exposure, defeat or final judgement remains possible, but no spell, office, sympathy, severed mantle or inherited procedure restores the primordial rebel to Heaven.
 
 ## The Yolk Exiles Are the Historical Exception
 
@@ -32,7 +33,7 @@ Every other fallen angel remains a named created-spirit individual. A mask, Comm
 
 ## Required Individual Dossier
 
-Every future fallen angel must receive a named character or unique-creature dossier establishing:
+Every future named fallen angel must receive a character or unique-creature dossier establishing:
 
 1. its original commission and the created good entrusted to it;
 2. the exact chosen refusal;
@@ -40,7 +41,7 @@ Every future fallen angel must receive a named character or unique-creature doss
 4. its present manifestation and anchor;
 5. what powers remain from the original commission;
 6. what breaking the manifestation does and does not accomplish;
-7. whether any further judgement or reconciliation is possible in that unique case.
+7. what further restraint, exposure, defeat or judgement remains possible without implying repentance.
 
 Fallen angels do not contribute a form to the Hell catalogue. They remain exceptional persons, not bestiary stock.
 
