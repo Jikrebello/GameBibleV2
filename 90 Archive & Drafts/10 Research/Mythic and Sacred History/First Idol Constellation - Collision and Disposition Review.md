@@ -19,7 +19,7 @@ related_factions:
   - The Idols
 appears_in: []
 needs:
-  - conduct a separate trace-promotion review only if regional development preserves all four non-identity rulings
+  - keep ID-P02R and ID-P04R withheld until regional history and individual Archmask dossiers justify reconsideration
   - keep every name, precise site, Archmask identity and present route provisional
   - do not promote any apparent succession claim through these histories
 tags:
@@ -41,9 +41,11 @@ The result is:
 - two incorporated `revise`: ID-P02R and ID-P04R;
 - zero `defer`;
 - zero `reject`;
-- four historically placed but Garden-locked Idol episodes;
+- four historically placed Idol episodes whose complete histories remain Garden-locked;
 - no edit to canon, chronology, culture histories or [[The Historical Seed Garden]];
 - no use of the recorded-history Regnant-succession allowance.
+
+[[Greater-Power Garden Balance and Trace Promotion Review]] later promotes only **The Victory Recut Four Times** from ID-P01 and **The Grave Prepared for No Relic** from ID-P03. ID-P02R and ID-P04R remain withheld rather than rejected.
 
 # I. Collision Register
 
@@ -81,7 +83,7 @@ Dynastic Giants retain `giant-continuity`. Giant-blooded humans, enslaved worker
 
 ### Disposition
 
-`retain` — the episode provides a concrete Giant-age Hunger war while keeping its four routes and human crimes distinct. Promotion remains locked.
+`retain` — the episode provides a concrete Giant-age Hunger war while keeping its four routes and human crimes distinct. Only **The Victory Recut Four Times** later enters the Garden as a light trace; the complete episode stays locked.
 
 ## ID-P02R — The Champion of Four Doors
 
@@ -136,7 +138,7 @@ The human soul is judged once and remains whole. A genuine later Saintly interce
 
 ### Disposition
 
-`retain` — source layers, two Mask tests and commission limits keep the episode useful without declaring or debunking a Saint. Promotion remains locked.
+`retain` — source layers, two Mask tests and commission limits keep the episode useful without declaring or debunking a Saint. Only **The Grave Prepared for No Relic** later enters the Garden as a light trace; the complete episode stays locked.
 
 ## ID-P04R — The Archmask That Ate Its Biography
 
@@ -198,9 +200,9 @@ Each central event requires at least two independent evidence classes:
 
 No Mask, vision, relic, archive or family tradition knows the complete history. The bounded tests identify mechanisms, never whole biographies or final judgements.
 
-# IV. Promotion Locks
+# IV. Promotion Results and Continuing Locks
 
-The four placements remain outside the Garden. A later trace review must:
+The four complete placements remain outside the Garden. The later trace review applied these tests:
 
 1. prefer one material, bodily, customary or architectural carrier per placement;
 2. keep the trace useful if the proposed Mask identity is wrong;
@@ -208,6 +210,8 @@ The four placements remain outside the Garden. A later trace review must:
 4. preserve massacre, slavery, torture, corpse theft, execution, child killing, purge and dispossession where causal;
 5. compare density against the existing sixty-five Garden roots;
 6. promote no more than a small subset merely because all four placements passed.
+
+It promotes two bounded traces and withholds the other two. No complete event, person, Archmask, church claim, relic, route or succession theory enters the Garden.
 
 # V. Validation
 
@@ -224,11 +228,12 @@ The four placements remain outside the Garden. A later trace review must:
 - [x] Human perpetrators remain responsible for war crimes, slavery, torture, execution, body trafficking and purge.
 - [x] No culture, church or people is assigned wholesale to one Idol.
 - [x] No protected Weird, Giant capital, Companion, succession or present outcome is explained.
-- [x] No placement enters canon, chronology or the Historical Seed Garden.
+- [x] No complete placement enters canon, chronology or the Historical Seed Garden; only two bounded light traces enter the Garden through the later balance review.
 
 ## Navigation
 
 - [[First Idol Constellation - Historical Placement Matrix]]
+- [[Greater-Power Garden Balance and Trace Promotion Review]]
 - [[Idol Heartlands, Masks, and Hunger Wars Review]]
 - [[Comparative Realms, Courts, and Sacred Warfare Atlas]]
 - [[Great-Power Mythic Ecology - Collision and Disposition Review]]

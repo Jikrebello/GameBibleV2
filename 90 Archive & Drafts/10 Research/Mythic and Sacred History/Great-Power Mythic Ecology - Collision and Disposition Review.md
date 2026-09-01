@@ -20,8 +20,7 @@ related_factions:
   - Sinners
 appears_in: []
 needs:
-  - decide whether any of the six reviewed infernal placements deserves a light Garden trace
-  - decide whether any of the four collision-reviewed Idol placements deserves a light Garden trace
+  - keep eleven withheld Infernal, Menhir and Idol placements unpromoted until later regional or carrier needs justify reconsideration
   - select no more than four reviewed constructed Shell roots for a later historical placement pass
   - choose named local recensions only after their cultural and regional dossiers exist
   - require an individual dossier before naming any fallen angel, Greater Saint, sovereign Patron, or autonomous Archmask
@@ -211,7 +210,9 @@ All eight revisions are incorporated into [[Great-Power Mythic Ecology and Plant
 
 [[Idol Heartlands, Masks, and Hunger Wars Review]] now completes the final ten-lead comparative family. It retains four and incorporates six revisions. The review turns “feeding on belief” into a causal sequence of good, chosen distortion, repeatable human architecture, Mask route, bounded dominion effect and parasitic return. It separates dependent Masks, autonomous Archmasks, Regnants, heterogeneous Sediment, legend-patterns and human souls; narrows the appetite border to Lust and Gluttony; and treats every apparent accession as Mask turnover unless a dedicated succession dossier proves otherwise. The family review itself places or promotes no lead and counts none against the recorded-history succession ceiling.
 
-[[First Idol Constellation - Historical Placement Matrix]] then places four independent episodes: a late-Chains Sarrakai river war whose consequences are taken by four dependent Masks; a City-State Envy Archmask using three foreign leases; an Underground execution later counterfeited by Pride and Envy; and a post-Split Pride Archmask purging its older biography. [[First Idol Constellation - Collision and Disposition Review]] retains two and revises two. The four share no actor, route, cult, institution or succession. None enters the Garden or spends a Regnant-succession slot.
+[[First Idol Constellation - Historical Placement Matrix]] then places four independent episodes: a late-Chains Sarrakai river war whose consequences are taken by four dependent Masks; a City-State Envy Archmask using three foreign leases; an Underground execution later counterfeited by Pride and Envy; and a post-Split Pride Archmask purging its older biography. [[First Idol Constellation - Collision and Disposition Review]] retains two and revises two. The four share no actor, route, cult, institution or succession. No complete placement enters the Garden or spends a Regnant-succession slot.
+
+[[Greater-Power Garden Balance and Trace Promotion Review]] subsequently compares sixteen placed Infernal, Menhir and Idol episodes against the sixty-five-root Garden. It promotes five bounded apertures—one Infernal, two Menhir and two Idol—and withholds eleven without rejection. The complete courts, dominions, Archmasks, saints, rulers, routes and biographies remain unpromoted, and the Garden rises to seventy roots without adding Long-Frontier material.
 
 ## Navigation
 
@@ -224,6 +225,7 @@ All eight revisions are incorporated into [[Great-Power Mythic Ecology and Plant
 - [[Idol Heartlands, Masks, and Hunger Wars Review]]
 - [[First Idol Constellation - Historical Placement Matrix]]
 - [[First Idol Constellation - Collision and Disposition Review]]
+- [[Greater-Power Garden Balance and Trace Promotion Review]]
 - [[Comparative Realms, Courts, and Sacred Warfare Atlas]]
 - [[First Unknown Histories - Collision and Disposition Review]]
 - [[Saint and Breachward Historical Placement Pass]]

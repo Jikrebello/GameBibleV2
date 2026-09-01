@@ -23,7 +23,7 @@ related_factions:
   - Sinners
 appears_in: []
 needs:
-  - decide whether any of the six placements deserves one light Historical Seed Garden trace
+  - keep IP-02 through IP-06 withheld until a later regional or carrier need justifies reconsideration
   - select mortal names and exact Material localities only after the relevant culture dossiers are checked
   - create individual actor dossiers before promoting any of the four selected figures
   - keep the fourteen ecology-active but undated actors separate from the six first historical placements
@@ -370,18 +370,18 @@ Persistence makes these figures available for later active history without prede
 
 # VII. 1360 AR Trace Review
 
-This pass does not promote Garden traces, but each placement already possesses a light candidate that remains useful even if later supernatural interpretations are wrong:
+This placement pass did not itself promote Garden traces, but each placement supplied a light candidate useful even if later supernatural interpretations are wrong. [[Greater-Power Garden Balance and Trace Promotion Review]] subsequently compared all six with the sixty-five-root Garden. It promoted only IP-01's mortuary refusal and withheld IP-02 through IP-06 without rejecting their histories.
 
-| Placement | Possible later trace | What it cannot prove |
-|---|---|---|
-| IP-01 | “not for the lower roster” in one burial formula | a soul remains imprisoned, or the route is open |
-| IP-02 | the seventh-receipt clause | the Auditor wrote every later version or still collects it |
-| IP-03 | the rule against closing a second door to free the first prisoner | the Lady authored the humane rule or owns every pardon key |
-| IP-04 | two incompatible exception precedents | either infernal court's doctrine is morally or metaphysically valid |
-| IP-05 | a medically useful divided instrument | the Surgeon is its maker, saint, victim or current owner |
-| IP-06 | a captive-carrying duty at one sealed door | a saint can be summoned or the Exile is returning |
+| Placement | Candidate trace | Later trace ruling | What it cannot prove |
+|---|---|---|---|
+| IP-01 | “not for the lower roster” in one burial formula | `promoted-light-trace` as **The Lower Roster Refusal** | a soul remains imprisoned, or the route is open |
+| IP-02 | the seventh-receipt clause | `withhold` | the Auditor wrote every later version or still collects it |
+| IP-03 | the rule against closing a second door to free the first prisoner | `withhold` | the Lady authored the humane rule or owns every pardon key |
+| IP-04 | two incompatible exception precedents | `withhold` | either infernal court's doctrine is morally or metaphysically valid |
+| IP-05 | a medically useful divided instrument | `withhold` | the Surgeon is its maker, saint, victim or current owner |
+| IP-06 | a captive-carrying duty at one sealed door | `withhold` | a saint can be summoned or the Exile is returning |
 
-A separate promotion review must choose, revise or reject these traces. None enters the Garden automatically because it appears here.
+The later review promotes only the light IP-01 aperture. It does not promote the complete prison, ruler, route, episode or biography. The five withheld candidates remain available for later reconsideration.
 
 # VIII. Validation
 
@@ -409,6 +409,7 @@ A separate promotion review must choose, revise or reject these traces. None ent
 - [[Comparative Realms, Courts, and Sacred Warfare Atlas]]
 - [[Great-Power Mythic Ecology and Planting Matrix]]
 - [[Great-Power Mythic Ecology - Collision and Disposition Review]]
+- [[Greater-Power Garden Balance and Trace Promotion Review]]
 - [[Hell, Depth, and the Abyss]]
 - [[Fallen Angels and Broken Commissions]]
 - [[True Dragons]]

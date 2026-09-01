@@ -50,9 +50,10 @@ The current whole-history pass is held in the author-only [[Mythic and Sacred Hi
 - [[The Last Houses - Ancestor Polity Seed Cluster]];
 - [[Historical Seed Garden - Coherence and Balance Review]];
 - [[Early-History Trace Promotion Review]];
+- [[Greater-Power Garden Balance and Trace Promotion Review]];
 - [[Historical Seed Card Template]].
 
-Those notes audit every age through human, folkloric, institutional, and metaphysical lanes. The Giant descent rules, Five Imperial Horizons, and Great Unbinding backbone are now controlling canon. All seventy-two developed cards have received nursery dispositions and source-fidelity rulings; the four bridge leads, twelve Praise entries, and seventeen beds below are included in the same hardening audit. The fourteen Great-Person traces and their sixteen controlling placements have a separate Primarch source-fidelity audit: nine visible wounds restored, five visible wounds retained intact, and both erased-person mysteries retained intact. The twelve heavenly traces below have likewise passed an earth-first chronological review: five placements retained and seven revised before light harvest. [[Historical Seed Garden - Coherence and Balance Review]] then reviewed all fifty-five previously planted roots, retaining fifty-two and revising three in place; [[Early-History Trace Promotion Review]] added ten light roots, bringing the present Garden to sixty-five. Every story seed remains exploratory until separately promoted, and linking it here does not promote its names, memberships, miracles, dates, provisional polities, actor identities, or proposed Idol successions.
+Those notes audit every age through human, folkloric, institutional, and metaphysical lanes. The Giant descent rules, Five Imperial Horizons, and Great Unbinding backbone are now controlling canon. All seventy-two developed cards have received nursery dispositions and source-fidelity rulings; the four bridge leads, twelve Praise entries, and seventeen beds below are included in the same hardening audit. The fourteen Great-Person traces and their sixteen controlling placements have a separate Primarch source-fidelity audit: nine visible wounds restored, five visible wounds retained intact, and both erased-person mysteries retained intact. The twelve heavenly traces below have likewise passed an earth-first chronological review: five placements retained and seven revised before light harvest. [[Historical Seed Garden - Coherence and Balance Review]] reviewed the fifty-five roots then planted, retaining fifty-two and revising three in place; [[Early-History Trace Promotion Review]] added ten light roots, bringing the Garden to sixty-five. [[Greater-Power Garden Balance and Trace Promotion Review]] then audited sixteen historically placed Infernal, Menhir and Idol episodes against that balance. It withheld eleven and added five light traces, bringing the present Garden to seventy. Every story seed remains exploratory until separately promoted, and linking it here does not promote its names, memberships, miracles, dates, provisional polities, actor identities, or proposed Idol successions.
 
 Promotion should begin with light traces—sayings, customs, roads, graves, relics, and disputed texts—before fixing heroes, institutions, companies, or sovereign convulsions. The seventeen beds below remain the nursery's stable framework; approved cards should deepen them before creating duplicate signature companies.
 
@@ -887,6 +888,72 @@ The provisional people, names, exact sites, borders, descendant claims, supernat
 **Loose growth:** refugee losses, occupation crimes, civic service and fraudulent restoration claims remain simultaneously real. A current hospital expansion and water-right lawsuit can establish the executions and rewriting without deciding every prisoner's guilt or the equitable present distribution of property.
 
 **Identity and promotion boundary:** this is a wholly Material municipal crime, not the Unreturned Ledger, its Patron treasury, the Deed in the Bread Jar or a transferred household parcel. One second sack neither invalidates the wider Reconquest, makes every occupier innocent nor assigns hereditary guilt to returning families. No present property judgement is fixed.
+
+## First Greater-Power Trace Harvest
+
+These five roots are the curated harvest authorized by [[Greater-Power Garden Balance and Trace Promotion Review]] after all sixteen historically placed but unpromoted Infernal, Menhir and Idol episodes were compared with the sixty-five-root Garden. One Infernal, two Menhir and two Idol traces add missing pressures and carriers. Eleven other episodes remain intact in their placement dossiers but unpromoted.
+
+The trace layer does not promote a complete court, dominion, Archmask, saint, infernal ruler, Menhir conjunction, route, relic or biography. No addition falls in the already dense Long Frontier.
+
+### Late Chains — The Lower Roster Refusal
+
+**Humble aperture:** burial workers must close a dead specialist's ordinary duties while Giant officials continue issuing work in that person's name.
+
+**Durable trace:** a dispersed mortuary formula adds “not for the lower roster” after the complete name. One pressure-marked tablet tradition separately distinguishes speaker, copied skill and held witness; no surviving fraternity knows the entire procedure.
+
+**Historical pressure:** a lesser Giant court used Infernal custody to hold dead specialists unlawfully and install copied habits in new workers. Burial fraternities attacked the system. Captives were tortured or killed, and some remained behind when a service stair was sealed.
+
+**Loose growth:** the phrase may have spread through genuine survivors, copied manuals or later mortuary caution. Speaking an omitted full name at one unlocated stair may release only that old duty-chain, but no present site or response is promoted.
+
+**Identity and promotion boundary:** the formula proves neither that a soul remains nor that an Infernal route is still open. Human soul, copied skill, coercive office, recorded name and manifestation remain distinct. The trace is not Nythalum identity work, Titan recurrence, [[First Unknown Histories - Six Recoverable Lore Capsules#UH-03 — The Prisoners Who Became a Border|the Prisoners Who Became a Border]] or resurrection.
+
+### Scattering and Early Hearths — The Marks of Necessary Release
+
+**Humble aperture:** corpse-washers, seed-keepers and stable hands must declare that an emergency winter preservation has ended and ordinary burial, planting and breeding may resume.
+
+**Durable trace:** release marks survive on lintels, a quarry-sign appears on burial cloth and winter harnesses for nonbreeding animals carry a related cut. They mark necessary release, not a general ward against supernatural beings.
+
+**Historical pressure:** rulers prolonged a preservation compact beyond its terms. A temporary High Hunt took living people, corpses, seed grain, necessary food and pregnant animals until the blocked seasonal route reopened. Starvation, abduction, killing and spoiled release followed.
+
+**Loose growth:** related Folk and Ättar traditions disagree over who first withheld the season and who reopened it. Present custom may combine several later winters with the first crisis.
+
+**Identity and promotion boundary:** no hall, declaration, Rider, Hound, captive, route or Menhir conjunction is promoted. Corpse, seed, egg, pregnancy and animal continuity never imply a quarry of unborn or departed human souls. The trace is not the Hunt of the Escaped Courts, Mother Moon's bargain or a permanent Wild Hunt.
+
+### High Noon — The Middle Knock Is Never Permission
+
+**Humble aperture:** miners must distinguish ordinary rock noise, structural warning, a court speaker and an official signal before entering an unstable working.
+
+**Durable trace:** an Aversian three-part warning rhythm survives beside portion niches and one reserved load-bearing rib. In the oldest work custom, the middle answer is never permission to proceed.
+
+**Historical pressure:** Shield-House officials converted a bounded compact into production law, counterfeited answers, forced prisoners and strikers into lethal workings and executed workers as supposed court-defaulters. Collapse, gas and sealed refuge galleries killed those whom the warnings did not save.
+
+**Loose growth:** genuine court guidance, reflexive Stone-Voice responses, practical engineering and at least one courtier's deception can all have contributed to the surviving rhythm. Later mines use it without agreeing which layer they hear.
+
+**Identity and promotion boundary:** no mine, Shield House, court person, Knocker species, Menhir title or present ownership is promoted. A real warning proves neither moral judgement nor court title. The trace is not the Country Beneath the Rains or a hidden mine nation.
+
+### Late Chains — The Victory Recut Four Times
+
+**Humble aperture:** canal workers and water judges must settle title to a repaired channel after war has destroyed the earlier boundary stones.
+
+**Durable trace:** one levee relief preserves four recut phases, with prisoner sale-tags fitted beneath later title plaques. Some boat households omit the triumph verse and instead read the names of those who surrendered.
+
+**Historical pressure:** seizure of water became hereditary war. Surrendered people were murdered, allies were erased, families and water rights were sold, and rulers redirected the displaced population's grievance toward new enemies. Wrath, Pride, Greed and Envy may have captured different consequences of the war, but the stone does not identify any Mask.
+
+**Loose growth:** later accounts compress several campaigns into one victory. The number of crowns, the identities of any Masks, the survivor communities and the duration of the four overlays remain open.
+
+**Identity and promotion boundary:** no Mask, Idol, dynasty, river crown, casualty total or current property judgement is promoted. The trace does not establish the Sevenfold Feast War, the origin of the Red Tally or Under-Ledger, Ishkatar's fall or a Regnant succession.
+
+### Underground and Legalization — The Grave Prepared for No Relic
+
+**Humble aperture:** a quarry family prepares a grave for an executed relative while officials and rival cults traffic incompatible claims about the body.
+
+**Durable trace:** the prepared grave was never used. A quarry icon platform and a later road sanctuary have incompatible foundations, while hostile Lives agree only on a prison rota, a torture date and the condemned person's kin.
+
+**Historical pressure:** an obscure human being was tortured, ambiguously recanted and was executed; the body was denied to the family. Later Pride- and Envy-shaped cults fought to monopolize the death, coerced relatives, opened graves and killed pilgrims or custodians who challenged their claims.
+
+**Loose growth:** the person may have been a martyr, confessor, recanter, ordinary victim or a Saint who later received a bounded commission. The body's fate remains open, and both cult systems may preserve mixtures of fact and fraud.
+
+**Identity and promotion boundary:** the human soul, body, prepared grave, Lives, claimed relics, dependent Masks and any authentic Saintly manifestation remain separate. No sainthood, damnation, recantation, relic, church claim or Mask identity is promoted. This is not Bruckmoor, the Red Passage, Forty Flames, the enemy gate or a lost Companion.
 
 ## Promotion Test
 

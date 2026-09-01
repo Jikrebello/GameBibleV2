@@ -20,7 +20,7 @@ related_factions:
   - The Devoted
 appears_in: []
 needs:
-  - decide through a separate review whether any of the four placed leads deserves a light Garden trace
+  - keep ID-P02R and ID-P04R withheld until regional history and individual Archmask dossiers justify reconsideration
   - choose cultures and local recensions only after their regional dossiers can carry the consequences
   - create an individual dossier before naming, canonizing or reusing any autonomous Archmask, former Regnant, divided regnancy or accession claimant
   - audit the Garden again before promoting any Idol trace
@@ -42,7 +42,7 @@ This is the sixth and final family review arising from [[Comparative Realms, Cou
 
 Nothing here is canon, dated history, a named Archmask, a true Regnant succession or a promoted Garden seed. Four leads are retained and six receive incorporated revisions. The revisions chiefly replace vague “belief feeding,” unclassified divine personalities and apparent succession with concrete institutions, separately classified actors and observable consequences.
 
-[[First Idol Constellation - Historical Placement Matrix]] subsequently gives four of these leads provisional soil: a Late-Chains river war, a City-State Archmask claimant, an Underground-to-Legalization counterfeit-martyr conflict and a post-Split biography purge. [[First Idol Constellation - Collision and Disposition Review]] retains two and incorporates revisions into two. All four remain unnamed in canon, succession-neutral and Garden-locked. The other six leads remain reviewed but undated and unplaced.
+[[First Idol Constellation - Historical Placement Matrix]] subsequently gives four of these leads provisional soil: a Late-Chains river war, a City-State Archmask claimant, an Underground-to-Legalization counterfeit-martyr conflict and a post-Split biography purge. [[First Idol Constellation - Collision and Disposition Review]] retains two and incorporates revisions into two. [[Greater-Power Garden Balance and Trace Promotion Review]] later promotes one light trace from the river war and one from the counterfeit-martyr conflict while withholding the two major autonomous-Archmask histories. All four complete histories remain unnamed in canon, succession-neutral and Garden-locked. The other six leads remain reviewed but undated and unplaced.
 
 The controlling result is:
 
@@ -352,6 +352,7 @@ Before any lead receives historical placement or a Garden trace:
 - [[Comparative Realms, Courts, and Sacred Warfare Atlas]]
 - [[First Idol Constellation - Historical Placement Matrix]]
 - [[First Idol Constellation - Collision and Disposition Review]]
+- [[Greater-Power Garden Balance and Trace Promotion Review]]
 - [[Great-Power Mythic Ecology and Planting Matrix]]
 - [[Great-Power Mythic Ecology - Collision and Disposition Review]]
 - [[Idol Thrones, Regnants, and Cultural Masks]]

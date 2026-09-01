@@ -22,8 +22,8 @@ related_factions:
   - The Menhir
 appears_in: []
 needs:
-  - conduct a separate light-trace promotion review only if the constellation remains useful after regional development
-  - keep all six placements out of canon and the Historical Seed Garden until separately approved
+  - keep MN-P01, MN-P03R, MN-P04R and MN-P06 withheld until their regional dossiers justify reconsideration
+  - keep all six complete placements out of canon and the Historical Seed Garden
 tags:
   - research
   - menhir
@@ -43,8 +43,10 @@ The result is:
 - three incorporated `revise`: MN-P02R, MN-P03R and MN-P04R;
 - zero `defer`;
 - zero `reject`;
-- six historically placed but Garden-locked Menhir episodes;
+- six historically placed Menhir episodes whose complete histories remain Garden-locked;
 - no edit to the authoritative chronology, culture histories or [[The Historical Seed Garden]].
+
+[[Greater-Power Garden Balance and Trace Promotion Review]] later promotes only **The Marks of Necessary Release** from MN-P02R and **The Middle Knock Is Never Permission** from MN-P05. MN-P01, MN-P03R, MN-P04R and MN-P06 remain withheld rather than rejected.
 
 Shared source grammar is treated as a recurring pressure, never proof that two entries are the same event, court, route, object, population or ruler.
 
@@ -110,7 +112,7 @@ Riders with moral agency remain culpable for substituting innocents. Hounds foll
 
 ### Disposition
 
-`revise` — incorporate the named Norwegian recension, the exact phase-lock and embodied-quarry firewall. The result remains one local High Hunt and stays Garden-locked.
+`revise` — incorporate the named Norwegian recension, the exact phase-lock and embodied-quarry firewall. The result remains one local High Hunt. Only **The Marks of Necessary Release** later enters the Garden as a light trace; the complete episode stays locked.
 
 ## MN-P03R — Raid That Returned One Tool
 
@@ -187,7 +189,7 @@ The state cannot make dead workers contractual defaulters or transfer its safety
 
 ### Disposition
 
-`retain` — the placement produces a coherent local mine history while preserving actor distinctions and refusing a new species. Promotion remains locked.
+`retain` — the placement produces a coherent local mine history while preserving actor distinctions and refusing a new species. Only **The Middle Knock Is Never Permission** later enters the Garden as a light trace; the complete episode stays locked.
 
 ## MN-P06 — Mountain the Court Abandoned
 
@@ -215,9 +217,9 @@ The altitude deaths have physical mechanisms: loss of breathable corridors, fixe
 
 `retain` — the placement gives the distant world a strong nonhuman history while preserving local human sovereignty and the no-contact boundary. Promotion remains locked.
 
-# III. Promotion Locks
+# III. Promotion Results and Continuing Locks
 
-No episode is eligible for Garden promotion merely because its historical placement now works. A later review must select light traces independently and answer the following:
+No episode was eligible for Garden promotion merely because its historical placement worked. The later balance review selected two light traces independently. The following decisions remain withheld for every complete placement:
 
 | Placement | Outstanding promotion decisions |
 |---|---|
@@ -228,7 +230,7 @@ No episode is eligible for Garden promotion merely because its historical placem
 | MN-P05 | mine, Shield House, court interpreters, strike, dead, restitution and present operational status |
 | MN-P06 | distant geography, local cultures, court refugees, summit survivors and any future first-contact aperture |
 
-Promotion must remain trace-first. No future Garden entry may authenticate a ruler, court continuity, relic, tool, source interpretation or complete biography by itself.
+Promotion remains trace-first. MN-P02R and MN-P05 contribute only bounded customs; the other four contribute nothing to the Garden yet. No future Garden entry may authenticate a ruler, court continuity, relic, tool, source interpretation or complete biography by itself.
 
 # IV. Validation
 
@@ -245,7 +247,7 @@ Promotion must remain trace-first. No future Garden entry may authenticate a rul
 - [x] Source hardness and irreversible costs remain explicit.
 - [x] The remote highland societies remain uncontacted by the known world in 1360.
 - [x] No Weird, umbrella conflict, chronology event or culture origin is explained.
-- [x] No placement enters canon or the Historical Seed Garden.
+- [x] No complete placement enters canon or the Historical Seed Garden; only two bounded light traces enter the Garden through the later balance review.
 
 ## Navigation
 
@@ -253,6 +255,7 @@ Promotion must remain trace-first. No future Garden entry may authenticate a rul
 - [[Menhir Courts, Jurisdictions, and High Hunts Review]]
 - [[Comparative Realms, Courts, and Sacred Warfare Atlas]]
 - [[Great-Power Mythic Ecology - Collision and Disposition Review]]
+- [[Greater-Power Garden Balance and Trace Promotion Review]]
 - [[Great-Power Mythic Ecology and Planting Matrix]]
 - [[The Historical Seed Garden]]
 - [[Mythic and Sacred History Research MOC]]

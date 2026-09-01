@@ -29,9 +29,9 @@ related_factions:
 appears_in: []
 needs:
   - keep all names, exact sites, dynasties and present owners provisional
-  - conduct a separate light-trace promotion review only if the four histories survive regional development
+  - keep ID-P02R and ID-P04R withheld until regional history and individual Archmask dossiers justify reconsideration
   - create an individual dossier before naming either autonomous Archmask
-  - keep all four histories outside canon, chronology and the Historical Seed Garden
+  - keep all four complete histories outside canon, chronology and the Historical Seed Garden
 tags:
   - research
   - idols
@@ -45,6 +45,8 @@ tags:
 ## Purpose and Status
 
 This pass gives four reviewed nurseries from [[Idol Heartlands, Masks, and Hunger Wars Review]] provisional historical soil. It selects one episode in each chronological block while leaving six reviewed Idol leads unplaced.
+
+[[Greater-Power Garden Balance and Trace Promotion Review]] later promotes only **The Victory Recut Four Times** from ID-P01 and **The Grave Prepared for No Relic** from ID-P03. ID-P02R and ID-P04R remain withheld. The light traces do not promote any complete history, Archmask, Mask identity, dynasty, cult, relic, route or succession claim.
 
 The four are not stages of one Great Game, appearances of one Archmask, evidence of a seven-Throne council or a hidden cause of human history. Each has different people, institutions, Masks, evidence and consequences. Recurring Hunger grammar explains resemblance without establishing shared identity.
 
@@ -129,7 +131,7 @@ In 1360, Ishkatari antiquarians may treat the episode as proof of a lawful dynas
 - **Authorially fixed for the nursery:** a real water crime began the conflict; rulers expanded it; four separate Hunger architectures captured its aftermath; massacre, slavery, dispossession and feud occurred.
 - **Open:** crowns, dynasties, precise river, full casualty scale, local Mask names, duration, surviving communities and present route activity.
 - **Identity boundary:** not the entire [[Great-Power Mythic Ecology and Planting Matrix#GP-I-02 — The Sevenfold Feast War|Sevenfold Feast War]], the origin of the Red Tally or Under-Ledger, Ishkatar's fall, Avarix's immediate family history or a true Idol succession.
-- **Placement disposition:** `retain`. Garden promotion remains locked.
+- **Placement disposition:** `retain`. The later balance review promotes only **The Victory Recut Four Times** as a light trace; the complete placement remains locked.
 
 ## ID-P02R — The Champion of Four Doors
 
@@ -257,7 +259,7 @@ In 1360, one church may treat the figure as a local confessor, another as a doub
 - **Authorially fixed for the nursery:** one human was tortured and executed; the body was denied and contested; Pride and Envy later maintained separate dependent Masks; human authorities and cult operators committed later violence.
 - **Open:** name, sex, exact charge, truth and wording of recantation, final judgement, body location, surviving kin, genuine miracles, institutions and present cult remnants.
 - **Identity boundary:** not [[Borrowed Saints]] as a single recurring person, Bruckmoor, GS-01's Red Passage, UH-06's enemy gate, the Forty Flames, a lost Companion, the whole Siege of the Martyrs' Names or proof for either church.
-- **Placement disposition:** `retain`. The earth-first history, separate cult mechanisms and saintly commission lock are sufficient. Garden promotion remains locked.
+- **Placement disposition:** `retain`. The earth-first history, separate cult mechanisms and saintly commission lock are sufficient. The later balance review promotes only **The Grave Prepared for No Relic** as a light trace; the complete placement remains locked.
 
 ## ID-P04R — The Archmask That Ate Its Biography
 
@@ -335,18 +337,18 @@ In 1360, Virelian chroniclers may call the purge necessary resistance to pagan s
 
 No person, Mask, Archmask, object, cult, route, office, polity or evidence carrier crosses between the four.
 
-# IV. Promotion Locks
+# IV. Promotion Results and Continuing Locks
 
-No placement is eligible for a Garden trace merely because its historical fit now works. A later review must choose each trace independently and prefer material or customary evidence that remains useful when supernatural interpretation is false.
+No placement was eligible for a Garden trace merely because its historical fit worked. The later balance review chose two traces independently and preferred material or customary evidence that remains useful when supernatural interpretation is false.
 
-| Placement | Withheld decisions before any trace promotion |
+| Placement | Decisions still withheld after light-trace review |
 |---|---|
 | ID-P01 | river crowns, dynasty, site, Mask handles, casualty scale, descendant communities and present overlay status |
 | ID-P02R | city, siege, original Envy victim, Claimant name, cult league, surviving gate and Archmask fate |
 | ID-P03 | executed person, recantation truth, judgement, body, churches, genuine commission and present cult custody |
 | ID-P04R | city, prince, Protector, former biography, victim houses, Elder Face fate and surviving gate |
 
-A future trace may suggest a Mask conflict but may not authenticate an Idol, Regnant, Archmask, Saint, relic, victim identity or complete history by itself.
+The two promoted traces may suggest Mask conflict but do not authenticate an Idol, Regnant, Archmask, Saint, relic, victim identity or complete history. The other two placements remain wholly unpromoted.
 
 # V. Validation
 
@@ -363,12 +365,13 @@ A future trace may suggest a Mask conflict but may not authenticate an Idol, Reg
 - [x] Human perpetrators choose the massacre, slavery, torture, execution, corpse theft, purge and dispossession; Idol pressure never erases their guilt.
 - [x] No episode establishes a Regnant succession, divided regnancy, interregnum or culture-wide Idol ownership.
 - [x] No event causes an age, explains a Weird, creates a new signature company or predetermines 1360.
-- [x] Nothing enters canon, the authoritative chronology, a culture history or the Historical Seed Garden.
+- [x] No complete placement enters canon, the authoritative chronology, a culture history or the Historical Seed Garden; only two bounded light traces enter the Garden through the later balance review.
 
 ## Navigation
 
 - [[Idol Heartlands, Masks, and Hunger Wars Review]]
 - [[First Idol Constellation - Collision and Disposition Review]]
+- [[Greater-Power Garden Balance and Trace Promotion Review]]
 - [[Comparative Realms, Courts, and Sacred Warfare Atlas]]
 - [[Great-Power Mythic Ecology and Planting Matrix]]
 - [[Idol Thrones, Regnants, and Cultural Masks]]

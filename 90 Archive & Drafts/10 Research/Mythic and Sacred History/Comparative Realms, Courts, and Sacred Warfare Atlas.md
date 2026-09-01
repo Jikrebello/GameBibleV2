@@ -21,8 +21,8 @@ related_factions:
   - Sinners
 appears_in: []
 needs:
-  - decide through a separate review whether any of the four placed Idol episodes deserves a light Garden trace
-  - decide whether the six reviewed infernal placements deserve light Garden traces
+  - keep eleven withheld Infernal, Menhir and Idol placements unpromoted until later regional or carrier needs justify reconsideration
+  - select no more than four reviewed constructed Shell roots for a historical placement pass
   - commission culture-specific Isles dossiers before assigning local recensions
   - classify every proposed Shell refugee people by continuity and origin
   - create individual dossiers before naming a greater saint, greater angel, Severed Exalt, Archmask, or infernal map-lord
@@ -433,7 +433,7 @@ The earlier twelve beds should now be understood as **umbrella conflicts**, not 
 | Elemental background | eight constructed Shell polities while preserving sterile plane-quadrants and nonperson elemental patterns |
 | War of the Last Map | twelve reviewed infernal dominions plus eighteen separate Black-Coil ruler, Archmask, fallen-spirit and wound-sovereign actor nurseries |
 
-The atlas contains **sixty-six separate realm, court, polity and campaign leads** without declaring sixty-six events. All six comparative families have now completed their first review. The infernal review adds a second shelf of **eighteen ecology-active actor leads** behind those realm pressures. Four actors and six dominions possess provisional historical placements; the other fourteen are active but undated. Actor and polity remain non-identical and nothing is promoted.
+The atlas contains **sixty-six separate realm, court, polity and campaign leads** without declaring sixty-six events. All six comparative families have now completed their first review. The infernal review adds a second shelf of **eighteen ecology-active actor leads** behind those realm pressures. Four actors and six dominions possess provisional historical placements; the other fourteen are active but undated. Actor and polity remain non-identical. A later balance review promotes only five trace-level apertures from the placed greater-power constellations; it promotes no complete actor or polity.
 
 ## Recommended next research sequence
 
@@ -443,7 +443,8 @@ The atlas contains **sixty-six separate realm, court, polity and campaign leads*
 4. **Infernal dominion and archfiend atlas — reviewed, source-sharpened and first-placed:** twelve dominions reviewed, all eighteen actors ecology-activated, four actors historically selected and six dominions placed through the linked infernal reviews.
 5. **Shell refugee-polity study — reviewed:** eight leads developed in [[Constructed Shell Littorals and Refuge Polities Review]] with explicit infrastructure and continuity.
 6. **Idol heartland political atlas — reviewed and first-placed:** ten leads developed in [[Idol Heartlands, Masks, and Hunger Wars Review]]; four selected through [[First Idol Constellation - Historical Placement Matrix]] and collision-reviewed without succession or promotion.
-7. **Next comparative step:** compare the placed greater-power constellations against Garden density before selecting any further light traces.
+7. **Greater-power Garden balance — complete:** [[Greater-Power Garden Balance and Trace Promotion Review]] audits sixteen placed Infernal, Menhir and Idol episodes, promotes five light traces and withholds eleven.
+8. **Next comparative step:** select no more than four reviewed constructed Shell roots for historical placement before considering any Shell trace.
 
 # IX. Validation
 
@@ -453,7 +454,7 @@ The atlas contains **sixty-six separate realm, court, polity and campaign leads*
 - [x] Blackfire-like breach specialists belong to living Sinner, warlock, or Patron structures rather than being relabeled saints.
 - [x] Idols receive Great Game politics, realm identity, champions, projected hosts, and cultural multiplicity without becoming belief-created gods.
 - [x] All ten Idol leads have completed review in [[Idol Heartlands, Masks, and Hunger Wars Review]] with four retain and six revise dispositions; feeding, Mask rivalry and Sediment now have explicit mechanisms and no succession is promoted.
-- [x] Four Idol leads now possess independent provisional historical placements in [[First Idol Constellation - Historical Placement Matrix]]; two are retained and two revised, while all remain Garden-locked and succession-neutral.
+- [x] Four Idol leads possess independent provisional historical placements; two bounded traces are promoted later, while all four complete histories remain Garden-locked and succession-neutral.
 - [x] Menhir range from intimate fairy-court encounter to incomprehensible natural sovereignty without becoming mindless; mindless cosmic computation is routed elsewhere.
 - [x] All twelve Menhir leads have completed review in [[Menhir Courts, Jurisdictions, and High Hunts Review]] with seven retain and five revise dispositions and no placement or promotion.
 - [x] Patrons receive Dreamlands and Daedric realm grammar while every place still has anchor, law, upkeep, tether, owner, inhabitants, and failure state.
@@ -485,5 +486,6 @@ The atlas contains **sixty-six separate realm, court, polity and campaign leads*
 - [[Idol Heartlands, Masks, and Hunger Wars Review]]
 - [[First Idol Constellation - Historical Placement Matrix]]
 - [[First Idol Constellation - Collision and Disposition Review]]
+- [[Greater-Power Garden Balance and Trace Promotion Review]]
 - [[Elemental Shell and the Four Planes]]
 - [[Hell, Depth, and the Abyss]]

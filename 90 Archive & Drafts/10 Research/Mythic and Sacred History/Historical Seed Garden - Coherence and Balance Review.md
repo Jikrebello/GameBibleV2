@@ -13,7 +13,7 @@ culture: []
 related_factions: []
 appears_in: []
 needs:
-  - repeat the carrier-balance audit after the next greater-power promotion batch
+  - use the later Greater-Power Garden Balance and Trace Promotion Review as the controlling post-sixty-five carrier audit
   - test every regional attribution before canon promotion
 tags:
   - research
@@ -147,6 +147,7 @@ The review therefore tests eight things for every root:
 
 - [[The Historical Seed Garden]]
 - [[Early-History Trace Promotion Review]]
+- [[Greater-Power Garden Balance and Trace Promotion Review]]
 - [[The Two Fissions - Collision and Disposition Review]]
 - [[First Unknown Histories - Collision and Disposition Review]]
 - [[The Last Houses - Ancestor Polity Seed Cluster]]

@@ -34,7 +34,7 @@ related_factions:
   - The Menhir
 appears_in: []
 needs:
-  - review separately before promoting any light trace into the Historical Seed Garden
+  - keep MN-P01, MN-P03R, MN-P04R and MN-P06 withheld until their regional dossiers justify reconsideration
   - keep all personal names, exact sites and present owners provisional
   - develop the distant southern geography before first contact or regional canon promotion
   - create a unique-person or creature dossier before reusing any local court form as a species
@@ -50,6 +50,8 @@ tags:
 ## Purpose and Status
 
 This pass gives six reviewed nurseries from [[Menhir Courts, Jurisdictions, and High Hunts Review]] provisional historical soil. It places one episode in each of six chronological and geographic apertures without promoting the episodes into canon or [[The Historical Seed Garden]].
+
+[[Greater-Power Garden Balance and Trace Promotion Review]] later promotes one light trace from MN-P02R and one from MN-P05. The other four placements remain intact but withheld. Neither promoted trace authenticates a court, Menhir conjunction, route, ruler, species, object or complete episode.
 
 The six are not chapters of one Faewild war, members of one court system, expressions of one hidden fairy nation or successive appearances of the same rulers. Similar thresholds, bargains and seasonal consequences recur because the same Menhir laws can become legible in unrelated places. Repetition never establishes shared identity.
 
@@ -205,7 +207,7 @@ Folk accounts praise the hall that opened its stores; Ättar-related songs accus
 - **Authorially fixed for the nursery:** one temporary Hunt occurred; preservation had once been necessary; rulers culpably prolonged it; embodied people, animals, corpses, seed and food were seized; no human soul was quarry as a soul.
 - **Open:** halls, exact winter, declaration, riders, number and identity of victims, refused substitution, final release and which later custom is closest to the operative rule.
 - **Identity boundary:** not [[Great-Power Mythic Ecology and Planting Matrix#GP-I-03 — The Hunt of the Escaped Courts|the Hunt of the Escaped Courts]], not the whole War of Unfinished Seasons, not Mother Moon's bargain and not a permanent Wild Hunt.
-- **Review disposition:** `revise`. The regional Oskoreia attribution, Nevaura–Morvalis phase-lock and exclusion of dead-soul identity are incorporated. Garden promotion remains locked.
+- **Review disposition:** `revise`. The regional Oskoreia attribution, Nevaura–Morvalis phase-lock and exclusion of dead-soul identity are incorporated. The later balance review promotes only **The Marks of Necessary Release** as a light trace; the complete placement remains locked.
 
 ## MN-P03R — The Raid That Returned One Tool
 
@@ -392,7 +394,7 @@ Modern engineers may accept the load evidence but deny sapient courtiers; worker
 - **Authorially fixed for the nursery:** warning responses were real and mixed in agency; officials weaponized the compact; forced labor, execution and lethal collapse occurred; one sapient court actor also chose lethal deception.
 - **Open:** mine, officials, interpreters, court persons, casualty total, strike, surviving seam, present operation and restitution.
 - **Identity boundary:** not a Knocker species, the Ash-Well Crown, the Country Beneath the Rains, a Giltling host, Tangle-Gremlins or a hidden underground nation.
-- **Review disposition:** `retain`. The Aversian placement and separated mine ecology satisfy the review gates. Garden promotion remains locked.
+- **Review disposition:** `retain`. The Aversian placement and separated mine ecology satisfy the review gates. The later balance review promotes only **The Middle Knock Is Never Permission** as a light trace; the complete placement remains locked.
 
 ## MN-P06 — The Mountain the Court Abandoned
 
@@ -498,12 +500,13 @@ These traces exist in 1360 but are not available to Thalmyric, Eclessian, Ahdari
 - [x] No new Menhir, reusable creature species, universal Faewild monarchy or permanent High Hunt is created.
 - [x] Human souls remain distinct from court-law continuities, roles, manifestations, residues and objects.
 - [x] Review totals are three `retain`, three incorporated `revise`, zero `defer` and zero `reject`.
-- [x] No placement enters canon, the authoritative chronology, a culture history or the Historical Seed Garden.
+- [x] No complete placement enters canon, the authoritative chronology, a culture history or the Historical Seed Garden; only two bounded light traces enter the Garden through the later balance review.
 
 ## Navigation
 
 - [[Menhir Courts, Jurisdictions, and High Hunts Review]]
 - [[First Menhir Constellation - Collision and Disposition Review]]
+- [[Greater-Power Garden Balance and Trace Promotion Review]]
 - [[Comparative Realms, Courts, and Sacred Warfare Atlas]]
 - [[Great-Power Mythic Ecology and Planting Matrix]]
 - [[Menhir Sovereignty and Bargain]]
