@@ -625,6 +625,7 @@ Originality threshold:
 ## Navigation
 
 - [[Orthodox Old Testament Lens]]
+- [[Orthodox Biblical Angels and Heavenly Powers Atlas]]
 - [[Whole-History Mythic Planting Programme]]
 - [[Mythic and Sacred History Research MOC]]
 - [[Whole-History Planting Matrix - Blocks III and IV]]

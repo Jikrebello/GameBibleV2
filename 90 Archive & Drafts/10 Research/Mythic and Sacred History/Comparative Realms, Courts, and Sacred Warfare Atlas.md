@@ -467,6 +467,7 @@ The atlas contains **sixty-six separate realm, court, polity and campaign leads*
 - [[Infernal Dominions and Black-Coil Archfiends - Collision Selection and Historical Placement Review]]
 - [[Black-Coil Archfiends - Source Signature and Full Ecology Review]]
 - [[Orthodox New Testament and Early Saints Lens]]
+- [[Comparative Celestials and Heavenly Translation Atlas]]
 - [[The Egg White Primer]]
 - [[Demiplane Atlas]]
 - [[Menhir Sovereignty and Bargain]]

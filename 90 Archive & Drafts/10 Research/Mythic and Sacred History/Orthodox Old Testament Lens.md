@@ -690,6 +690,7 @@ Source-fidelity threshold:
 ## Navigation
 
 - [[Whole-History Mythic Planting Programme]]
+- [[Orthodox Biblical Angels and Heavenly Powers Atlas]]
 - [[Mythic and Sacred History Research MOC]]
 - [[The Historical Seed Garden]]
 - [[Historical Spine of the Known World]]
