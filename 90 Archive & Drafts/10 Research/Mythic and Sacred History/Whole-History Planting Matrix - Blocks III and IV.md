@@ -51,16 +51,16 @@ The transformation formula is:
 
 | Historical band | Existing carrier | Density ruling | Primary additions |
 |---|---|---|---|
-| Atherian Republic and Glory | [[The Historical Seed Garden#Atherian Age of Glory — The Low Door Companions|Low Door Companions]] | High capacity; institutions dense, people sparse | provincial ascents, narrow relic tests, rival chronicles, imperial persona-Masks |
-| Redeemer generation | [[The Historical Seed Garden#The Redeemer and Underground Centuries — The Empty-Purse Road|Empty-Purse Road]] | Protected; named sacred cast already dense | ordinary guides, failed followers, soldiers, households, burial workers |
+| Atherian Republic and Glory | [[The Historical Seed Garden#^garden-g09|Companions Who Entered by the Low Door]] | High capacity; institutions dense, people sparse | provincial ascents, narrow relic tests, rival chronicles, imperial persona-Masks |
+| Redeemer generation | [[The Historical Seed Garden#^garden-g10|Road of the Empty Purse]] | Protected; named sacred cast already dense | ordinary guides, failed followers, soldiers, households, burial workers |
 | Underground Centuries | Empty-Purse Road | Medium sideways capacity | illegal burials, clerks, recanters, regional survivors |
-| Legalization, conversion, decadence | [[The Historical Seed Garden#Conversion and Decadence — The Children of the Closed Temple|Children of the Closed Temple]] | Medium to high | temple workers, differentiating empty images from powers, penitent ruler/persona split |
-| Covenant rise and Long Frontier | [[The Historical Seed Garden#Covenant Rise and the Long Frontier — The Four Who Brought Water|Four Who Brought Water]] | Very high after 612 AR | jurist-adventurers, physicians, translators, mixed households, performed routes |
-| Fall and mountain founding | [[The Historical Seed Garden#The Fall of Atheria — The Thirty-First Crew|Thirty-First Crew]] and [[The Historical Seed Garden#Mountain Rebellion and Reconquest — The Six at the Cinder Inn|Six at the Cinder Inn]] | Already well planted | refugee traces, occupation claims, divergent companion ends |
-| Reconquest and Great Split | Six at Cinder Inn and [[The Historical Seed Garden#Two Crowns and the Great Split — The Last Common Road|Last Common Road]] | Low headline capacity | property, friendship, rival chronicles, Mask rivalry |
+| Legalization, conversion, decadence | [[The Historical Seed Garden#^garden-g11|Children of the Closed Temple]] | Medium to high | temple workers, differentiating empty images from powers, penitent ruler/persona split |
+| Covenant rise and Long Frontier | [[The Historical Seed Garden#^garden-g12|Four Who Brought Water]] | Very high after 612 AR | jurist-adventurers, physicians, translators, mixed households, performed routes |
+| Fall and mountain founding | [[The Historical Seed Garden#^garden-g13|Thirty-First Crew]] and [[The Historical Seed Garden#^garden-g14|Six at the Cinder Inn]] | Already well planted | refugee traces, occupation claims, divergent companion ends |
+| Reconquest and Great Split | Six at Cinder Inn and [[The Historical Seed Garden#^garden-g15|Last Common Road]] | Low headline capacity | property, friendship, rival chronicles, Mask rivalry |
 | High Noon to Qarath | none | Highest unoccupied later capacity | one new ascending company and several human-scale traces |
-| Grey Sweat and Black Wind | [[The Historical Seed Garden#High Noon and Grey Sweat — The Forty-First Ferry|Forty-First Ferry]] | Low to medium | burial, physicians, contradictory plague memories, regional micro-heroes |
-| Reformation and present | [[The Historical Seed Garden#Reformation and the Age of Held Proofs — The Company with No Charter|Company with No Charter]] | Protected; current cast already dense | narrow forensic hooks attached to existing proofs |
+| Grey Sweat and Black Wind | [[The Historical Seed Garden#^garden-g16|Forty-First Ferry]] | Low to medium | burial, physicians, contradictory plague memories, regional micro-heroes |
+| Reformation and present | [[The Historical Seed Garden#^garden-g17|Company with No Charter]] | Protected; current cast already dense | narrow forensic hooks attached to existing proofs |
 
 # Block III — Atherian Glory, Redeemer, Conversion, Decadence, and Long Frontier
 

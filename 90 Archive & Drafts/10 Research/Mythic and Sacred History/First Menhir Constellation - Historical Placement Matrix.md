@@ -266,7 +266,7 @@ Thalmyric antiquarians may call the tool the beginning of imperial navigation; i
 
 - **Authorially fixed for the nursery:** a populated stronghold was raided; the useful sounding-weight was stolen; defenders died; most raiders did not return; the raid's benefit does not make it righteous.
 - **Open:** sea-king, port, stronghold, negotiations, participants, exact casualties, prisoners, present tool and whether any restitution could safely occur.
-- **Identity boundary:** not Seven Who Took the Wrong Road, [[The Historical Seed Garden#Scattering — The Harbor Founded Twice|the Harbor Founded Twice]], a mobile Patron city or the Revolving Fortress.
+- **Identity boundary:** not Seven Who Took the Wrong Road, [[The Historical Seed Garden#^garden-g58|the Harbour Founded Twice]], a mobile Patron city or the Revolving Fortress.
 - **Review disposition:** `revise`. The guarded prize, function, region and loss mechanism are fixed for placement while every person and exact site remains provisional. Garden promotion remains locked.
 
 ## MN-P04R — The Elfland Tithe

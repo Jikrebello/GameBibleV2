@@ -53,7 +53,7 @@ The capsules are deliberately independent. They are not six chapters of one secr
 
 # UH-01 — The Caravan That Cast Off Its Wards
 
-- **Identity boundary:** this is not the court, petition tradition, population, ruin, ballast register, or present claim behind the [[The Historical Seed Garden#Late Chains — Petitions of the Cut-Loose Wards|Petitions of the Cut-Loose Wards]]. It concerns a different Giant court whose distinctive crime was using copied ancestors and three false evacuation processions to redirect pursuit. No document, claimant, route stone, or descendant is shared between the two roots.
+- **Identity boundary:** this is not the court, population, ruin or present claim behind [[The Historical Seed Garden#^garden-g18|the Falling Wards]]. It concerns a different Giant court whose distinctive crime was using copied ancestors and three false evacuation processions to redirect pursuit. No claimant, route stone or descendant is shared between the two roots.
 - **Review disposition:** `revise` — preserve the escape, abandonment, copied ancestors, Hunt misdirection, gate killings, and recoverable court lie while replacing the Cut-Loose Wards' petition-and-ballast carriers with decoy itineraries, route carcasses, pursuit records, and counterfeit ancestry.
 - **Garden trace status:** `promoted` through [[Early-History Trace Promotion Review]]; the full capsule, actors and routes remain unpromoted.
 
@@ -295,7 +295,7 @@ Returnees concealed the full history for incompatible reasons. Frontier rulers d
 
 # UH-05 — The Returners' Second Sack
 
-- **Identity boundary:** this is not the [[The Historical Seed Garden#Fall and Reconquest — The Unreturned Ledger|Unreturned Ledger]], its refugee treasury, its clerks, its service-credit tradition, or any parcel associated with the Deed in the Bread Jar. It is an unrelated Material town, municipal water-court register, mass execution, and title-tablet fraud. Resembling legal problems do not imply documentary descent.
+- **Identity boundary:** this is not [[The Historical Seed Garden#^garden-g21|the House That Could Not Be Returned]], its refugee treasury, its stewards, or any parcel associated with the Deed in the Bread Jar. It is an unrelated Material town, municipal water-court register, mass execution and title-tablet fraud. Resembling legal problems do not imply documentary descent.
 - **Review disposition:** `revise` — preserve the mixed occupation society, executions, winter expulsions, destroyed register, backdated grants, and present forensic lawsuit while fixing the episode as a separate municipal crime with no Patron, Egg White treasury, carried property ledger, or protected household deed.
 - **Garden trace status:** `promoted` through [[Early-History Trace Promotion Review]]; the full capsule, town and present judgement remain unpromoted.
 

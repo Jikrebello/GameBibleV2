@@ -92,7 +92,7 @@ His surrounding company is as important as his ascent:
 
 Psalm 151 sharpens the beginning: the small shepherd and musician overlooked among impressive brothers defeats the giant with the enemy's own weapon.
 
-**World Egg use:** distribute the grammar among several companies rather than creating one David reskin. [[The Historical Seed Garden#Hearths and First Kings — The Crownless Company|The Crownless Company]], [[The Historical Seed Garden#Atherian Age of Glory — The Low Door Companions|The Low Door Companions]], and [[The Historical Seed Garden#Mountain Rebellion and Reconquest — The Six at the Cinder Inn|The Six at the Cinder Inn]] can each inherit different parts of the pattern.
+**World Egg use:** distribute the grammar among several companies rather than creating one David reskin. [[The Historical Seed Garden#^garden-g05|The Iron Ring before the Crown]], [[The Historical Seed Garden#^garden-g09|The Companions Who Entered by the Low Door]], and [[The Historical Seed Garden#^garden-g14|The Six at the Cinder Inn]] can each inherit different parts of the pattern.
 
 ### 2. Judges as local heroic cycles
 
@@ -360,7 +360,7 @@ Do not use Genesis to explain every people, identify every Giant with the biblic
 
 **Primary lenses:** Joseph; Exodus 1–4; Daniel; Tobit; Judith; Susanna; Bel; 3 Maccabees.
 
-Plant around [[The Historical Seed Garden#Deep Giant Time — The People Beneath the Bowl|The People Beneath the Bowl]] and [[The Historical Seed Garden#Late Age of Chains — The Company of the Broken Measure|The Company of the Broken Measure]]:
+Plant around [[The Historical Seed Garden#^garden-g01|The People Beneath the Bowl]] and [[The Historical Seed Garden#^garden-g02|The Company of the Broken Measure]]:
 
 - a captive granary clerk who saves thousands during famine while strengthening the Giant estate system;
 - four slave youths trained as court interpreters, engineers, physicians, or archivists;
@@ -374,7 +374,7 @@ Plant around [[The Historical Seed Garden#Deep Giant Time — The People Beneath
 
 **Primary lenses:** Exodus, Numbers, and Deuteronomy, especially their secondary actors.
 
-Plant around [[The Historical Seed Garden#Exodus — The Last Cart|The Last Cart]]:
+Plant around [[The Historical Seed Garden#^garden-g03|The Last Cart]]:
 
 - the women and household workers who made liberation possible before the Prophet's public call;
 - portable-sanctuary artisans whose descendants preserve incompatible fragments of one sacred design;
@@ -390,7 +390,7 @@ Do not create another Great Prophet.
 
 **Primary lenses:** Abraham and Jacob's households; Ruth; Tobit; Baruch; the Apocalypse of Ezra.
 
-Plant around [[The Historical Seed Garden#Age of Scattering — The Seven Who Took the Wrong Road|The Seven Who Took the Wrong Road]]:
+Plant around [[The Historical Seed Garden#^garden-g04|The Seven Who Stopped Seeking Home]]:
 
 - a widowed or foreign outsider preserving a teaching the prestigious lineage loses;
 - a debt-recovery journey involving a disguised heavenly companion;
@@ -403,7 +403,7 @@ Plant around [[The Historical Seed Garden#Age of Scattering — The Seven Who To
 
 **Primary lenses:** Judges; Ruth; Samuel; David; Psalm 151; Wisdom 14.
 
-Plant around [[The Historical Seed Garden#Hearths and First Kings — The Crownless Company|The Crownless Company]] and [[The Historical Seed Garden#Hearths, Forests, and Early Menhir Pacts — The Wolf and the Lantern|The Wolf and the Lantern]]:
+Plant around [[The Historical Seed Garden#^garden-g05|The Iron Ring before the Crown]] and [[The Historical Seed Garden#^garden-g06|The Wolf, the Lantern and the House That Heard Them Laugh]]:
 
 - the future ruler beginning as singer, cook, hostage, cattle thief, or overlooked child;
 - the rival heir becoming a beloved friend;
@@ -417,7 +417,7 @@ Plant around [[The Historical Seed Garden#Hearths and First Kings — The Crownl
 
 **Primary lenses:** Solomon and the divided kingdom; Naboth; prophetic companies; Nehemiah; Greek 1 Esdras; Susanna; Ecclesiastes 9.
 
-Plant around [[The Historical Seed Garden#Age of City-States — The Bent-Key Fellowship|The Bent-Key Fellowship]]:
+Plant around [[The Historical Seed Garden#^garden-g07|The Key Bent in a Murderer's Hand]]:
 
 - junior guards winning a court wager and spending their reward on restoration;
 - a poor engineer or strategist saving a city and disappearing from its monument;
@@ -431,7 +431,7 @@ Plant around [[The Historical Seed Garden#Age of City-States — The Bent-Key Fe
 
 **Primary lenses:** Solomon's synthesis and forced labor; Joseph; Daniel; Esther; Wisdom's address to rulers.
 
-Plant around [[The Historical Seed Garden#Age of Stars — The Road Without Milestones|The Road Without Milestones]]:
+Plant around [[The Historical Seed Garden#^garden-g08|The Road That Refused Its Last Stone]]:
 
 - a star-wise ruler uniting roads, astronomy, archives, and law through labor that recreates Chains;
 - a provincial captive rising through dream, cipher, or Giant-system knowledge;
@@ -443,7 +443,7 @@ Plant around [[The Historical Seed Garden#Age of Stars — The Road Without Mile
 
 **Primary lenses:** Davidic empire; Daniel at successive courts; Elijah; Micaiah; Ark narratives; Kings and Chronicles.
 
-Plant around [[The Historical Seed Garden#Atherian Age of Glory — The Low Door Companions|The Low Door Companions]]:
+Plant around [[The Historical Seed Garden#^garden-g09|The Companions Who Entered by the Low Door]]:
 
 - provincial auxiliaries, actors, debtors, and clerks rising into the imperial board;
 - an honest but difficult augur opposing hundreds of institutionally approved prophets;
@@ -471,7 +471,7 @@ Do not turn Jirahar suffering into inherited guilt or a one-to-one reskin of Jew
 
 **Primary lenses:** Daniel's youths; Tobit; Judith; Esther; Jeremiah's scribes; 2–4 Maccabees.
 
-Plant around [[The Historical Seed Garden#The Redeemer and Underground Centuries — The Empty-Purse Road|The Empty-Purse Road]]:
+Plant around [[The Historical Seed Garden#^garden-g10|The Road of the Empty Purse]]:
 
 - martyr households remembered as a company rather than isolated deaths;
 - burial and relic-recovery networks;
@@ -486,7 +486,7 @@ These are antecedent grammars, never rival Redeemers.
 
 **Primary lenses:** Josiah; Jehu; Hezekiah; Manasseh; the later Maccabean political order; Letter of Jeremiah.
 
-Plant around [[The Historical Seed Garden#Conversion and Decadence — The Children of the Closed Temple|The Children of the Closed Temple]]:
+Plant around [[The Historical Seed Garden#^garden-g11|The Children of the Closed Temple]]:
 
 - a sincere reformer recovering a suppressed text but mistaking rediscovery for permanent renewal;
 - a purge destroying real Idol infrastructure, harmless inheritance, and old Menhir pacts together;
@@ -498,7 +498,7 @@ Plant around [[The Historical Seed Garden#Conversion and Decadence — The Child
 
 **Primary lenses:** Joseph; Daniel; Esther; Tobit; Ruth; Naaman; the Gibeonite oath.
 
-Plant around [[The Historical Seed Garden#Covenant Rise and the Long Frontier — The Four Who Brought Water|The Four Who Brought Water]]:
+Plant around [[The Historical Seed Garden#^garden-g12|The Four Who Brought Water]]:
 
 - captives rising inside the system that conquered them;
 - a treaty obtained through deception remaining binding;
@@ -511,7 +511,7 @@ Plant around [[The Historical Seed Garden#Covenant Rise and the Long Frontier �
 
 **Primary lenses:** Jeremiah's siege; Baruch; Lamentations; the Apocalypse of Ezra; Judith; Nehemiah; Maccabees; David's fugitives.
 
-Plant around [[The Historical Seed Garden#The Fall of Atheria — The Thirty-First Crew|The Thirty-First Crew]] and [[The Historical Seed Garden#Mountain Rebellion and Reconquest — The Six at the Cinder Inn|The Six at the Cinder Inn]]:
+Plant around [[The Historical Seed Garden#^garden-g13|The Thirty-First Crew]] and [[The Historical Seed Garden#^garden-g14|The Six at the Cinder Inn]]:
 
 - refugees preserving a single deed, vessel list, or family register that becomes explosive during return;
 - a grieving woman associated with the ruined city and later disputed as saint, apparition, personification, Mask, or political invention;
@@ -524,7 +524,7 @@ Plant around [[The Historical Seed Garden#The Fall of Atheria — The Thirty-Fir
 
 **Primary lenses:** Rehoboam and Jeroboam; rival sanctuaries; Kings and Chronicles; Micaiah.
 
-Plant around [[The Historical Seed Garden#Two Crowns and the Great Split — The Last Common Road|The Last Common Road]]:
+Plant around [[The Historical Seed Garden#^garden-g15|The Last Common Road]]:
 
 - one fellowship claimed as ancestral by both churches;
 - a common relic behaving differently in two jurisdictions without proving either institution wholly correct;
@@ -537,7 +537,7 @@ Plant around [[The Historical Seed Garden#Two Crowns and the Great Split — The
 
 **Primary lenses:** Tobit's burial piety; 2 Maccabees' prayer for the dead; Sirach on physicians; Job; the royal census and plague preserved differently in Samuel and Chronicles.
 
-Plant around [[The Historical Seed Garden#High Noon and Grey Sweat — The Forty-First Ferry|The Forty-First Ferry]]:
+Plant around [[The Historical Seed Garden#^garden-g16|The Forty-First Ferry]]:
 
 - burial workers, physicians, clergy, ferrymen, and thieves becoming an accidental plague company;
 - a census or assurance register blamed for disaster while chronicles disagree about the deeper cause;
@@ -550,7 +550,7 @@ Plant around [[The Historical Seed Garden#High Noon and Grey Sweat — The Forty
 
 **Primary lenses:** Susanna; Bel; the Ark; Gideon's signs; Micaiah; Wisdom's idol analysis; Ecclesiastes' forgotten savior.
 
-Plant around [[The Historical Seed Garden#Reformation and the Age of Held Proofs — The Company with No Charter|The Company with No Charter]]:
+Plant around [[The Historical Seed Garden#^garden-g17|The Company with No Charter]]:
 
 - investigators separating witnesses instead of accepting a communal miracle story;
 - a financial audit exposing priestly fraud and a genuine Mask simultaneously;

@@ -9,15 +9,31 @@ culture: []
 related_factions: []
 appears_in: []
 needs:
-  - retain, revise, defer, or reject in its chronological block review
+  - complete the story-facing myth capsule before canon review
 tags:
   - historical-seed
   - mythic-history
 ---
-# {{title}}
+# Authorial Control Card — {{title}}
 
 > [!warning] Nursery material
-> This card is exploratory. It does not enter chronology or canon until it passes block review and is explicitly promoted.
+> This is the technical companion to [[Myth Capsule Template]]. It is exploratory and does not enter chronology or canon until a separate harvest explicitly promotes a bounded element.
+
+## Narrative Control
+
+- **Stable Garden ID:**
+- **Old title / source IDs:**
+- **Indispensable story core:**
+- **Present jargon, stasis, or carrier problem:**
+- **Connected beats:** three to six events joined by cause, revelation, alteration, or reinterpretation
+- **Starting state:**
+- **Changed state:** situation / relationship / knowledge / power / meaning
+- **Primary momentum engine:** pursuit or desire / jeopardy / opposition / mystery / known-ending anticipation / developing relationship / accumulating life / shifting loyalty or power / reinterpreting revelation
+- **Primary significance anchor:** personal loss / family or friendship / identity / symbolic meaning / moral or theological importance / comic or intellectual value / unrealised life / beloved object, place, or custom / guilt that cannot be undone
+- **Primary remainder:** what gains its present meaning through the tale
+- **Nearest narrative-engine collision:**
+- **Narrative disposition:** `retain-and-revoice` / `recast` / `relocate` / `merge` / `retire-to-reserve`
+- **Canon readiness:** `trace-ready` / `needs-regional-anchor` / `needs-event-development` / `protected-reserve`
 
 ## Identity and Placement
 
