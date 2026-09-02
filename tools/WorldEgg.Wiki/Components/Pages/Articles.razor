@@ -1,0 +1,24 @@
+@page "/articles"
+@implements IDisposable
+@inject LibraryIndex Index
+<PageTitle>Articles A–Z — The World Egg</PageTitle>
+<div class="eyebrow">The complete library</div><h1>Articles A–Z</h1>
+<p class="page-intro">Every article, including drafts and templates. Accented names sort with their unaccented letter; source paths distinguish duplicate titles.</p>
+<nav class="alphabet" aria-label="Alphabetical index"><a href="/articles" aria-current="@(string.IsNullOrEmpty(Letter) ? "page" : null)">All</a>@foreach (var letter in Letters) { <a href="@("/articles?letter=" + Uri.EscapeDataString(letter))" aria-current="@(letter == Letter ? "page" : null)">@letter</a> }</nav>
+<p class="quiet">@Matches.Length articles</p>
+<div class="article-list compact">@foreach (var document in Matches.Skip((CurrentPage - 1) * 50).Take(50)) { <section><h2><a href="@LinkResolver.PageUrl(document.Id)">@document.Title</a></h2><DocumentLabels Document="document" /><div class="file-path">@document.Id</div></section> }</div>
+<nav class="pagination" aria-label="Article index pages">@if (CurrentPage > 1) { <a href="@Url(CurrentPage - 1)">← Previous</a> }<span>Page @CurrentPage of @Pages</span>@if (CurrentPage < Pages) { <a href="@Url(CurrentPage + 1)">Next →</a> }</nav>
+@code {
+    [SupplyParameterFromQuery] public string? Letter { get; set; }
+    [SupplyParameterFromQuery] public int Page { get; set; } = 1;
+    private WikiDocument[] All => Index.Current.Entries.Select(e => e.Document).OrderBy(d => VaultCatalogue.Fold(d.Title)).ThenBy(d => d.Id).ToArray();
+    private string[] Letters => All.Select(d => Initial(d.Title)).Distinct().Order().ToArray();
+    private WikiDocument[] Matches => All.Where(d => string.IsNullOrEmpty(Letter) || Initial(d.Title) == Letter.ToUpperInvariant()).ToArray();
+    private int Pages => Math.Max(1, (Matches.Length + 49) / 50);
+    private int CurrentPage => Math.Clamp(Page, 1, Pages);
+    private static string Initial(string title) { var folded = VaultCatalogue.Fold(title.Trim()); return folded.Length > 0 && char.IsLetter(folded[0]) ? char.ToUpperInvariant(folded[0]).ToString() : "#"; }
+    private string Url(int page) => "/articles?letter=" + Uri.EscapeDataString(Letter ?? "") + "&page=" + page;
+    protected override void OnInitialized() => Index.Changed += Updated;
+    private void Updated() => _ = InvokeAsync(StateHasChanged);
+    public void Dispose() => Index.Changed -= Updated;
+}

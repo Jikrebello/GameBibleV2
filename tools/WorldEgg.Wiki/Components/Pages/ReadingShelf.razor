@@ -1,0 +1,34 @@
+@page "/reading-list"
+@implements IDisposable
+@inject ReadingLibrary Reading
+@inject VaultCatalogue Catalogue
+<PageTitle>Your reading shelf — The World Egg</PageTitle>
+<div class="eyebrow">Kept in this browser</div><h1>Your reading shelf</h1>
+<p class="page-intro">Pages to return to, and the trail of your recent reading. Nothing here changes the vault.</p>
+@if (!Reading.Initialized) { <p role="status">Opening your saved pages…</p> }
+else
+{
+    @if (!Reading.Current.StorageAvailable) { <MudAlert Severity="Severity.Warning">Browser storage is unavailable. This shelf may not survive a reload.</MudAlert> }
+    <nav class="facet-tabs" aria-label="Reading shelf"><a href="/reading-list" aria-current="@(Recent ? null : "page")">Bookmarks (@Reading.Current.Bookmarks.Length)</a><a href="/reading-list?view=recent" aria-current="@(Recent ? "page" : null)">Recent pages (@Reading.Current.Recent.Length)</a></nav>
+    @if (Recent && Entries.Length > 0) { <MudButton OnClick="Reading.ClearRecentAsync" Size="Size.Small">Clear recent pages</MudButton> }
+    @if (Entries.Length == 0) { <p>@(Recent ? "Your recent reading will appear here after you open an article." : "Use Bookmark beside an article’s title to keep it here.")</p> }
+    <div class="article-list reading-shelf">@foreach (var saved in Entries)
+    {
+        var document = Catalogue.Current.Documents.GetValueOrDefault(saved.Id);
+        <section @key="saved.Id"><div class="shelf-entry"><div>
+            @if (document is not null) { <h2><a href="@LinkResolver.PageUrl(document.Id)">@document.Title</a></h2><DocumentLabels Document="document" /> }
+            else { <h2>@saved.Title</h2><p class="quiet">This file has moved or been removed. It has not been matched to another source automatically. <a href="@("/find?q=" + Uri.EscapeDataString(saved.Title))">Look for it by title</a></p> }
+            <div class="file-path">@saved.Id</div>
+        </div>@if (!Recent) { <MudIconButton Icon="@Icons.Material.Outlined.BookmarkRemove" OnClick="() => Reading.RemoveBookmarkAsync(saved.Id)" aria-label="@("Remove bookmark: " + saved.Title)" /> }</div></section>
+    }</div>
+    <p class="quiet">Up to 100 bookmarks and 40 recent articles are kept here. Clearing this site’s browser data also clears the shelf and reading preferences.</p>
+}
+@code {
+    [SupplyParameterFromQuery] public string? View { get; set; }
+    private bool Recent => View == "recent";
+    private SavedReading[] Entries => Recent ? Reading.Current.Recent : Reading.Current.Bookmarks;
+    protected override void OnInitialized() { Reading.Changed += Updated; Catalogue.Changed += Updated; }
+    protected override async Task OnAfterRenderAsync(bool firstRender) { if (firstRender) { await Reading.InitializeAsync(); StateHasChanged(); } }
+    private void Updated() => _ = InvokeAsync(StateHasChanged);
+    public void Dispose() { Reading.Changed -= Updated; Catalogue.Changed -= Updated; }
+}

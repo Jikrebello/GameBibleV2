@@ -1,0 +1,24 @@
+@inject ReadingLibrary Reading
+<!DOCTYPE html>
+<html lang="en" data-reading-key="@Reading.StorageKey">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <base href="/" />
+    <meta name="description" content="The World Egg: a private encyclopedia of peoples, places, histories and the stories they leave behind." />
+    <link rel="stylesheet" href="_content/MudBlazor/MudBlazor.min.css" />
+    <link rel="stylesheet" href="wiki.css" />
+    <link rel="stylesheet" href="reading.css" />
+    <HeadOutlet @rendermode="InteractiveServer" />
+</head>
+<body>
+    <Routes @rendermode="InteractiveServer" />
+    <div id="blazor-error-ui">The reader lost its connection. Your source files are safe. <a href="" class="reload">Reload the reader</a><a class="dismiss" aria-label="Dismiss">×</a></div>
+    <script src="_content/MudBlazor/MudBlazor.min.js"></script>
+    <script src="vendor/mermaid.min.js"></script>
+    <script src="wiki.js"></script>
+    <script src="reading-core.js"></script>
+    <script src="reading.js"></script>
+    <script src="_framework/blazor.web.js"></script>
+</body>
+</html>

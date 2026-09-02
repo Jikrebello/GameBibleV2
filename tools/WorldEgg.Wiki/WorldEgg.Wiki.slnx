@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="WorldEgg.Wiki.csproj" />
+  <Project Path="tests/WorldEgg.Wiki.Tests.csproj" />
+</Solution>

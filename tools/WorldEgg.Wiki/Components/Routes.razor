@@ -1,0 +1,13 @@
+<Router AppAssembly="typeof(Program).Assembly">
+    <Found Context="routeData">
+        <RouteView RouteData="routeData" DefaultLayout="typeof(MainLayout)" />
+        <FocusOnNavigate RouteData="routeData" Selector="h1" />
+    </Found>
+    <NotFound>
+        <LayoutView Layout="typeof(MainLayout)">
+            <h1>That doorway is missing</h1>
+            <p>This is not a reader page. The vault has not been changed.</p>
+            <a href="/browse">Browse the library</a>
+        </LayoutView>
+    </NotFound>
+</Router>

@@ -1,0 +1,40 @@
+@page "/find"
+@implements IDisposable
+@inject LibraryIndex Index
+@inject NavigationManager Navigation
+<PageTitle>Search — The World Egg</PageTitle>
+<div class="eyebrow">Across the whole library</div><h1>Search the World Egg</h1>
+<p class="page-intro">Titles, aliases, headings and full article text. Archives, research and templates are included unless you choose a filter.</p>
+<form class="search-form" @onsubmit="Apply" @onsubmit:preventDefault>
+    <MudTextField T="string" @bind-Value="_query" Immediate="true" Label="Words or an exact phrase in quotation marks" Variant="Variant.Outlined" />
+    <div class="search-filters">@foreach (var field in LibraryIndex.FilterFields) { <label>@Label(field)<select aria-label="@Label(field)" @bind="_filters[field]"><option value="">All</option>@foreach (var value in Index.Facet(field)) { <option value="@value">@value</option> }</select></label> }</div>
+    <div class="search-actions"><MudButton ButtonType="ButtonType.Submit" Variant="Variant.Filled" Color="Color.Primary">Search</MudButton><a href="/find">Clear search and filters</a><a href="/articles">Browse A–Z</a></div>
+</form>
+<p role="status" class="result-count">@_results.Total articles@(!string.IsNullOrWhiteSpace(Q) ? " for “" + Q + "”" : "") · page @_results.Page of @Pages</p>
+<div class="article-list">@foreach (var hit in _results.Hits) { <section><h2><a href="@LinkResolver.PageUrl(hit.Document.Id)">@hit.Document.Title</a></h2><DocumentLabels Document="hit.Document" /><p class="search-snippet">@hit.Snippet</p><div class="file-path">@hit.Document.Id</div></section> }</div>
+@if (_results.Total == 0) { <p>No articles matched. Try fewer words or remove a filter. Filters match the metadata actually present in the source.</p> }
+<nav class="pagination" aria-label="Search pages">@if (_results.Page > 1) { <a href="@Url(_results.Page - 1)">← Previous</a> }<span>Page @_results.Page of @Pages</span>@if (_results.Page < Pages) { <a href="@Url(_results.Page + 1)">Next →</a> }</nav>
+@code {
+    [SupplyParameterFromQuery] public string? Q { get; set; }
+    [SupplyParameterFromQuery] public string? Area { get; set; }
+    [SupplyParameterFromQuery] public string? Type { get; set; }
+    [SupplyParameterFromQuery] public string? Status { get; set; }
+    [SupplyParameterFromQuery] public string? Era { get; set; }
+    [SupplyParameterFromQuery] public string? Region { get; set; }
+    [SupplyParameterFromQuery] public string? Culture { get; set; }
+    [SupplyParameterFromQuery] public int Page { get; set; } = 1;
+    private string _query = "";
+    private Dictionary<string, string> _filters = LibraryIndex.FilterFields.ToDictionary(f => f, _ => "");
+    private SearchPage _results = new([], 0, 1, 25, 0);
+    private Dictionary<string, string> Active => new() { ["area"] = Area ?? "", ["type"] = Type ?? "", ["status"] = Status ?? "", ["era"] = Era ?? "", ["region"] = Region ?? "", ["culture"] = Culture ?? "" };
+    private int Pages => Math.Max(1, (_results.Total + _results.PageSize - 1) / _results.PageSize);
+    private static string Label(string field) => field == "area" ? "Source area" : char.ToUpperInvariant(field[0]) + field[1..];
+    protected override void OnInitialized() => Index.Changed += Updated;
+    protected override void OnParametersSet() { _query = Q ?? ""; _filters = Active; Search(); }
+    private void Search() => _results = Index.Search(Q, Active, Page);
+    private void Apply() => Navigation.NavigateTo(BuildUrl(_query, _filters, 1));
+    private string Url(int page) => BuildUrl(Q ?? "", Active, page);
+    public static string BuildUrl(string query, IReadOnlyDictionary<string, string> filters, int page = 1) => "/find?" + string.Join("&", filters.Where(f => f.Value.Length > 0).Append(new("q", query)).Append(new("page", page.ToString())).Select(p => Uri.EscapeDataString(p.Key) + "=" + Uri.EscapeDataString(p.Value)));
+    private void Updated() => _ = InvokeAsync(() => { Search(); StateHasChanged(); });
+    public void Dispose() => Index.Changed -= Updated;
+}

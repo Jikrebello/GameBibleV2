@@ -1,0 +1,69 @@
+@implements IDisposable
+@inject BaseLibrary Bases
+@inject VaultCatalogue Catalogue
+
+<section class="base-table" aria-label="@System.IO.Path.GetFileNameWithoutExtension(Id)">
+    <header class="collection-heading">
+        <div><span class="eyebrow">Read-only collection</span><h2><a href="@LinkResolver.BaseUrl(Id)">@System.IO.Path.GetFileNameWithoutExtension(Id)</a></h2></div>
+        @if (_result.Definition.Views.Length > 0)
+        {
+            <label>View <select aria-label="Collection view" value="@_view" @onchange="ChangeView">@foreach (var view in _result.Definition.Views) { <option value="@view.Name">@view.Name</option> }</select></label>
+        }
+    </header>
+    @foreach (var warning in _result.Warnings) { <MudAlert Severity="Severity.Warning">@warning No unfiltered fallback is shown; the source file is unchanged.</MudAlert> }
+    @if (_result.View is { } active && _result.Warnings.Length == 0)
+    {
+        <div class="table-caption"><span>@_rows.Length files · @active.Name</span>@if (_sort is not null) { <MudButton Size="Size.Small" OnClick="ResetSort">Restore source order</MudButton> }<span class="quiet">Changes here affect only this view.</span></div>
+        @foreach (var group in VisibleGroups())
+        {
+            @if (active.Group is not null) { <h3 class="table-group">@_result.Definition.Label(active.Group.Property): @group.Label</h3> }
+            <div class="table-scroll" tabindex="0" aria-label="Scrollable collection table">
+                <MudTable T="BaseRow" Items="group.Rows" Dense="true" Hover="true" Breakpoint="Breakpoint.None" Elevation="0">
+                    <HeaderContent>@foreach (var column in active.Columns) { <MudTh style="@ColumnWidth(column)" aria-sort="@SortDescription(column)"><button class="table-sort" @onclick="() => Sort(column)">@_result.Definition.Label(column) @SortMark(column)</button></MudTh> }</HeaderContent>
+                    <RowTemplate Context="row">@foreach (var column in active.Columns) { <MudTd style="@ColumnWidth(column)">@if (column is "file.name" or "file.path" or "file.basename") { <a href="@FileUrl(row.Id)">@row.Cells.GetValueOrDefault(column, BaseValue.Null)</a> } else { <CollectionValue Value="row.Cells.GetValueOrDefault(column, BaseValue.Null)" SourceId="@row.Id" /> }</MudTd> }</RowTemplate>
+                    <NoRecordsContent><p>No files match this view’s rules.</p></NoRecordsContent>
+                </MudTable>
+            </div>
+        }
+        <div class="pagination" aria-label="Collection pages"><MudButton Disabled="@(_page <= 1)" OnClick="Previous">Previous</MudButton><span>Page @_page of @PageCount</span><MudButton Disabled="@(_page >= PageCount)" OnClick="Next">Next</MudButton></div>
+    }
+    <div class="file-path">@Id</div>
+    <p class="print-source">Collection excerpt: the selected view and currently displayed page, not every matching file.</p>
+</section>
+
+@code {
+    [Parameter, EditorRequired] public string Id { get; set; } = "";
+    [Parameter] public string? View { get; set; }
+    private BaseTableResult _result = new(new("", BaseExpression.True, new Dictionary<string, BaseExpression>(), new Dictionary<string, string>(), [], []), null, [], []);
+    private BaseRow[] _rows = [];
+    private string? _view;
+    private string? _loaded;
+    private string? _requestedView;
+    private BaseSort? _sort;
+    private int _page = 1;
+    private const int PageSize = 25;
+    private int PageCount => Math.Max(1, (_rows.Length + PageSize - 1) / PageSize);
+    protected override void OnInitialized() => Catalogue.Changed += Updated;
+    protected override void OnParametersSet() { if (_loaded != Id || _requestedView != View) { _loaded = Id; _requestedView = View; _view = View; _sort = null; _page = 1; Load(); } }
+    private void Load() { _result = Bases.Read(Id, _view); _view = _result.View?.Name ?? _view; _rows = _sort is null ? _result.Rows : BaseLibrary.SortRows(_result.Rows, [_sort], _result.View?.Group); _page = Math.Clamp(_page, 1, PageCount); }
+    private void ChangeView(ChangeEventArgs args) { _view = args.Value?.ToString(); _sort = null; _page = 1; Load(); }
+    private void Sort(string column) { _sort = new(column, _sort?.Property == column && !_sort.Descending); _page = 1; Load(); }
+    private void ResetSort() { _sort = null; _page = 1; Load(); }
+    private void Previous() => _page = Math.Max(1, _page - 1);
+    private void Next() => _page = Math.Min(PageCount, _page + 1);
+    private string SortMark(string column) => _sort?.Property == column ? (_sort.Descending ? "↓" : "↑") : "";
+    private string SortDescription(string column) => _sort?.Property == column ? (_sort.Descending ? "descending" : "ascending") : "none";
+    private string? ColumnWidth(string column) { var widths = _result.View?.Widths; var width = widths?.GetValueOrDefault(column) ?? 0; if (width == 0) width = widths?.GetValueOrDefault("note." + column) ?? 0; return width == 0 ? null : $"min-width:{width}px;width:{width}px"; }
+    private IEnumerable<(string Label, BaseRow[] Rows)> VisibleGroups()
+    {
+        var page = _rows.Skip((_page - 1) * PageSize).Take(PageSize).ToArray();
+        if (_result.View?.Group is null || page.Length == 0) return [("", page)];
+        // Preserve typed group identity rather than merging a scalar with an identically printed list.
+        var groups = new List<(string Label, BaseRow[] Rows)>(); var start = 0;
+        for (var i = 1; i <= page.Length; i++) if (i == page.Length || !page[i].Group.Same(page[start].Group)) { groups.Add((page[start].Group.ToString(), page[start..i])); start = i; }
+        return groups;
+    }
+    public static string FileUrl(string id) => id.EndsWith(".md", StringComparison.OrdinalIgnoreCase) ? LinkResolver.PageUrl(id) : id.EndsWith(".base", StringComparison.OrdinalIgnoreCase) ? LinkResolver.BaseUrl(id) : LinkResolver.AssetUrl(id);
+    private void Updated() => _ = InvokeAsync(() => { Load(); StateHasChanged(); });
+    public void Dispose() => Catalogue.Changed -= Updated;
+}

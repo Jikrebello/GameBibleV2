@@ -1,0 +1,29 @@
+@page "/maintenance"
+@implements IDisposable
+@inject LibraryIndex Index
+@inject NavigationManager Navigation
+<PageTitle>Reader maintenance — The World Egg</PageTitle>
+<div class="eyebrow">Read-only diagnostics</div><h1>Reader maintenance</h1>
+<p class="page-intro">Source problems and compatibility limits are reported here, never repaired automatically. Ambiguous links create no relationship until their destination is explicit.</p>
+<p class="quiet">@Index.Current.Catalogue.Documents.Count articles · @Index.Current.Catalogue.Bases.Count collections · current derived index built in @Index.Current.BuildMilliseconds.ToString("N0") ms · snapshot @Index.Current.Catalogue.Version</p>
+<nav class="facet-tabs" aria-label="Issue kinds"><a href="/maintenance">All notices</a>@foreach (var group in Index.Current.Issues.GroupBy(i => i.Kind)) { <a href="@("/maintenance?kind=" + Uri.EscapeDataString(group.Key))">@group.Key (@group.Count())</a> }</nav>
+<form class="diagnostic-filter" @onsubmit="Filter" @onsubmit:preventDefault><label>Source path contains <input @bind="_source" /></label><MudButton ButtonType="ButtonType.Submit">Filter</MudButton></form>
+<p role="status">@Matches.Length notices</p>
+<div class="diagnostic-list">@foreach (var issue in Matches.Skip((CurrentPage - 1) * 50).Take(50)) { <section><h2>@issue.Kind</h2>@if (issue.Source.Length > 0) { <a href="@BaseTable.FileUrl(issue.Source)">@issue.Source</a> }<p>@issue.Target</p><p class="quiet">@issue.Detail</p>@if (issue.Kind is "ambiguous" or "missing") { <a href="@("/resolve?target=" + Uri.EscapeDataString(issue.Target) + "&from=" + Uri.EscapeDataString(issue.Source))">Inspect reference</a> }</section> }</div>
+@if (Matches.Length == 0) { <p>No notices match this selection.</p> }
+<nav class="pagination" aria-label="Diagnostic pages">@if (CurrentPage > 1) { <a href="@Url(CurrentPage - 1)">← Previous</a> }<span>Page @CurrentPage of @Pages</span>@if (CurrentPage < Pages) { <a href="@Url(CurrentPage + 1)">Next →</a> }</nav>
+@code {
+    [SupplyParameterFromQuery] public string? Kind { get; set; }
+    [SupplyParameterFromQuery] public string? Source { get; set; }
+    [SupplyParameterFromQuery] public int Page { get; set; } = 1;
+    private string _source = "";
+    private LibraryIssue[] Matches => Index.Current.Issues.Where(i => (string.IsNullOrEmpty(Kind) || i.Kind == Kind) && (string.IsNullOrEmpty(Source) || i.Source.Contains(Source, StringComparison.OrdinalIgnoreCase))).ToArray();
+    private int Pages => Math.Max(1, (Matches.Length + 49) / 50);
+    private int CurrentPage => Math.Clamp(Page, 1, Pages);
+    protected override void OnParametersSet() => _source = Source ?? "";
+    private void Filter() => Navigation.NavigateTo("/maintenance?kind=" + Uri.EscapeDataString(Kind ?? "") + "&source=" + Uri.EscapeDataString(_source));
+    private string Url(int page) => "/maintenance?kind=" + Uri.EscapeDataString(Kind ?? "") + "&source=" + Uri.EscapeDataString(Source ?? "") + "&page=" + page;
+    protected override void OnInitialized() => Index.Changed += Updated;
+    private void Updated() => _ = InvokeAsync(StateHasChanged);
+    public void Dispose() => Index.Changed -= Updated;
+}

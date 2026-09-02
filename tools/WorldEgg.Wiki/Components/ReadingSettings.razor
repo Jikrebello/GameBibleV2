@@ -1,0 +1,26 @@
+@implements IDisposable
+@inject ReadingLibrary Reading
+<details class="reading-settings">
+    <summary aria-label="Reading settings"><MudIcon Icon="@Icons.Material.Outlined.Tune" Size="Size.Small" /><span>Reading</span></summary>
+    <div class="settings-panel" role="group" aria-label="Reading preferences">
+        <h2>Make yourself comfortable</h2>
+        <label>Theme<select value="@Preferences.Theme" @onchange="Theme"><option value="system">Follow device</option><option value="light">Warm paper</option><option value="dark">Night reading</option></select></label>
+        <label>Article text <span>@Preferences.TextSize px</span><input aria-label="Article text size" type="range" min="16" max="24" step="1" value="@Preferences.TextSize" @onchange="ChangeSize" /></label>
+        <label>Reading width<select value="@Preferences.Width" @onchange="Width"><option value="narrow">Narrow</option><option value="standard">Standard</option><option value="wide">Wide</option></select></label>
+        <label class="check-setting"><input type="checkbox" checked="@Preferences.RestorePosition" @onchange="Restore" /> Resume articles where I left off</label>
+        <label class="check-setting"><input type="checkbox" checked="@Preferences.Previews" @onchange="Previews" /> Preview links when I pause on them</label>
+        <p class="quiet">Saved in this browser only. Your source files never change.</p>
+        @if (!Reading.Current.StorageAvailable) { <p role="status" class="storage-warning">Browser storage is unavailable. Changes work for this visit but may not survive a reload.</p> }
+    </div>
+</details>
+@code {
+    private ReadingPreferences Preferences => Reading.Current.Preferences;
+    private Task Theme(ChangeEventArgs e) => Reading.SetPreferencesAsync(Preferences with { Theme = e.Value?.ToString() ?? "system" });
+    private Task Width(ChangeEventArgs e) => Reading.SetPreferencesAsync(Preferences with { Width = e.Value?.ToString() ?? "standard" });
+    private Task ChangeSize(ChangeEventArgs e) => Reading.SetPreferencesAsync(Preferences with { TextSize = int.TryParse(e.Value?.ToString(), out var size) ? size : 18 });
+    private Task Restore(ChangeEventArgs e) => Reading.SetPreferencesAsync(Preferences with { RestorePosition = e.Value is true });
+    private Task Previews(ChangeEventArgs e) => Reading.SetPreferencesAsync(Preferences with { Previews = e.Value is true });
+    protected override void OnInitialized() => Reading.Changed += Updated;
+    private void Updated() => _ = InvokeAsync(StateHasChanged);
+    public void Dispose() => Reading.Changed -= Updated;
+}

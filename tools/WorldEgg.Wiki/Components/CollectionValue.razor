@@ -1,0 +1,29 @@
+@inject LinkResolver Links
+@if (Value.Raw is BaseValue[] list)
+{
+    @for (var i = 0; i < list.Length; i++) { if (i > 0) { <span>, </span> } <CollectionValue Value="list[i]" SourceId="@SourceId" /> }
+}
+else if (Value.Raw is string text)
+{
+    @foreach (var part in Parts(text))
+    {
+        if (part.Target is null) { @part.Text }
+        else { var result = Links.Resolve(part.Target, SourceId); if (result.State == LinkState.Blocked) { <span title="Blocked link">@part.Text</span> } else { <a class="@(result.State == LinkState.Ambiguous ? "ambiguous-link" : result.State == LinkState.Missing ? "missing-link" : "")" href="@Links.Href(result, SourceId)">@part.Text</a> } }
+    }
+}
+else { @Value }
+@code {
+    [Parameter, EditorRequired] public BaseValue Value { get; set; } = BaseValue.Null;
+    [Parameter, EditorRequired] public string SourceId { get; set; } = "";
+    private static IEnumerable<(string Text, string? Target)> Parts(string text)
+    {
+        var start = 0;
+        foreach (System.Text.RegularExpressions.Match match in System.Text.RegularExpressions.Regex.Matches(text, @"\[\[([^\]|]+)(?:\|([^\]]+))?\]\]"))
+        {
+            if (start < match.Index) yield return (text[start..match.Index], null);
+            yield return (match.Groups[2].Success ? match.Groups[2].Value : match.Groups[1].Value, match.Groups[1].Value);
+            start = match.Index + match.Length;
+        }
+        if (start < text.Length) yield return (text[start..], null);
+    }
+}

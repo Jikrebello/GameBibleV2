@@ -1,0 +1,31 @@
+@page "/"
+<PageTitle>The World Egg — Encyclopedia</PageTitle>
+<div class="home-page">
+    <div class="eyebrow">The private author edition</div>
+    <h1>A world, and everything it remembers.</h1>
+    <p class="home-intro">Peoples and kingdoms. Saints and old hungers. The lives, ruins and stories that make the World Egg.</p>
+    <section class="opening-shelf" aria-label="Begin reading">
+        <div><div class="eyebrow">Begin with history</div><h2><a href="@LinkResolver.PageUrl("01 Canon Reference/History/World Historical Atlas MOC.md")">The World Historical Atlas</a></h2><p>From the first rebellions to the inherited world of 1360. Follow an age, a people or a tale into the rest of the library.</p></div>
+        <div class="shelf-links"><a href="@LinkResolver.PageUrl("01 Canon Reference/History/Timeline MOC.md")">Through the ages <span aria-hidden="true">→</span></a><a href="@LinkResolver.PageUrl("01 Canon Reference/History/80 Myths and Legendary Histories/Myths and Legendary Histories MOC.md")">Myths still told <span aria-hidden="true">→</span></a><a href="@LinkResolver.PageUrl("00 Start Here/Canon Index.md")">The setting index <span aria-hidden="true">→</span></a></div>
+    </section>
+    <h2 class="section-heading">Explore the encyclopedia</h2>
+    <div class="topic-grid">
+        @foreach (var topic in Topics)
+        {
+            <section class="topic"><h3><a href="@topic.Url">@topic.Title</a></h3><p>@topic.Description</p></section>
+        }
+    </div>
+    <aside class="edition-note"><strong>One library, several kinds of truth.</strong> Canon, remembered history, received myth and exploratory research remain distinct. Source labels describe the original files; appearing here does not promote a draft into canon.</aside>
+</div>
+@code {
+    private static readonly (string Title, string Description, string Url)[] Topics = [
+        ("Peoples & cultures", "Origins, migrations, kinships and the making of civilizations.", LinkResolver.PageUrl("01 Canon Reference/Peoples and Cultures/Cultures MOC.md")),
+        ("Cosmology & powers", "The World Egg, its realms, and those who dwell beyond the familiar.", LinkResolver.PageUrl("01 Canon Reference/Cosmology/Cosmology MOC.md")),
+        ("Places & landscapes", "Countries, cities, routes and the wounds left in the earth.", "/browse?folder=01%20Canon%20Reference%2FGeography"),
+        ("Creatures & old beings", "A bestiary of the living world and its stranger neighbours.", LinkResolver.PageUrl("01 Canon Reference/Creatures/Bestiary MOC.md")),
+        ("Playable settings", "Grenzburg, Caleran, their inhabitants and unfolding conflicts.", "/browse?folder=02%20Playable%20Settings"),
+        ("Stories & voices", "Accounts, traditions and texts written from within the world.", "/browse?folder=03%20Stories%20%26%20In-World%20Texts"),
+        ("Research & archives", "The source studies, revised possibilities and earlier versions.", "/browse?folder=90%20Archive%20%26%20Drafts"),
+        ("The complete library", "Every content folder, including authoring templates.", "/browse")
+    ];
+}

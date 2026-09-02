@@ -1,0 +1,18 @@
+@page "/resolve"
+@inject LinkResolver Resolver
+@inject VaultCatalogue Catalogue
+<PageTitle>Choose a source — The World Egg</PageTitle>
+<h1>@(Result.State == LinkState.Ambiguous ? "Which source did you mean?" : Result.State == LinkState.Found ? "Open the source" : "This reference needs attention")</h1>
+<p class="page-intro">@Target</p>
+@if (Result.State == LinkState.Ambiguous) { <p>Several files share this name. The reader will not silently choose between current lore and an older version.</p> }
+@if (Result.State is LinkState.Found or LinkState.Ambiguous)
+{
+    <div class="article-list">@foreach (var id in Result.Candidates) { <section><h2><a href="@Resolver.Href(new(LinkState.Found, Target ?? "", Result.Fragment, [id]), From ?? "")">@(Catalogue.Current.Documents.GetValueOrDefault(id)?.Title ?? System.IO.Path.GetFileName(id))</a></h2>@if (Catalogue.Current.Documents.TryGetValue(id, out var document)) { <DocumentLabels Document="document" /> }<div class="file-path">@id</div></section> }</div>
+}
+else { <p>@(Result.State == LinkState.Blocked ? "This target is outside the approved vault content or uses an unsafe link scheme." : "No matching source was found. The original reference has been preserved; no placeholder file has been created.")</p> }
+@if (Catalogue.Current.Documents.ContainsKey(From ?? "")) { <p><a href="@LinkResolver.PageUrl(From!)">← Return to the referring article</a></p> }
+@code {
+    [SupplyParameterFromQuery] public string? Target { get; set; }
+    [SupplyParameterFromQuery] public string? From { get; set; }
+    private LinkResult Result => Resolver.Resolve(Target ?? "", From ?? "");
+}

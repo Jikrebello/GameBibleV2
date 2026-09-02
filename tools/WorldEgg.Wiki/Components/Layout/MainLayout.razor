@@ -1,0 +1,91 @@
+@inherits LayoutComponentBase
+@implements IAsyncDisposable
+@inject IJSRuntime JS
+@inject NavigationManager Navigation
+@inject ReadingLibrary Reading
+
+<MudThemeProvider Theme="_theme" IsDarkMode="_dark" />
+<MudPopoverProvider />
+<MudDialogProvider />
+<MudSnackbarProvider />
+<div class="site-shell" data-theme="@(_dark ? "dark" : "light")" data-width="@Reading.Current.Preferences.Width" data-nav="@(Reading.Current.Preferences.NavigationCollapsed ? "collapsed" : "expanded")" style="@("--prose-size:" + Reading.Current.Preferences.TextSize + "px")">
+    <a class="skip-link" href="#main-content">Skip to article</a>
+    <header class="masthead">
+        <div class="brand-line">
+            <MudIconButton Icon="@Icons.Material.Filled.Menu" OnClick="ToggleMenu" aria-label="Toggle library navigation" aria-expanded="@_menuOpen.ToString().ToLowerInvariant()" aria-controls="library-navigation" Class="menu-toggle" />
+            <MudIconButton Icon="@Icons.Material.Filled.MenuOpen" OnClick="ToggleDesktopNavigation" aria-label="Collapse or expand library navigation" aria-expanded="@((!Reading.Current.Preferences.NavigationCollapsed).ToString().ToLowerInvariant())" aria-controls="library-navigation" Class="desktop-menu-toggle" />
+            <a class="brand" href="/"><span class="brand-name">The World Egg</span><span class="brand-caption">A living encyclopedia</span></a>
+        </div>
+        <form class="quick-find" @onsubmit="Find" @onsubmit:preventDefault>
+            <MudTextField T="string" @bind-Value="_query" Immediate="true" Placeholder="Search the library…  Ctrl K" Variant="Variant.Outlined" Margin="Margin.Dense" Adornment="Adornment.Start" AdornmentIcon="@Icons.Material.Filled.Search" aria-label="Search titles, aliases and article text" />
+            <MudButton ButtonType="ButtonType.Submit" Variant="Variant.Text">Find</MudButton>
+        </form>
+        <ReadingSettings />
+        <MudIconButton Icon="@(_dark ? Icons.Material.Filled.LightMode : Icons.Material.Filled.DarkMode)" OnClick="ToggleTheme" aria-label="Toggle light and dark theme" />
+    </header>
+    <div class="workspace">
+        <nav id="library-navigation" class="library-nav @(_menuOpen ? "is-open" : "")" aria-label="Library">
+            <a class="nav-home" href="/">Encyclopedia</a>
+            <p class="nav-label">Explore the world</p>
+            <a href="@LinkResolver.PageUrl("01 Canon Reference/History/World Historical Atlas MOC.md")">History &amp; legends</a>
+            <a href="@LinkResolver.PageUrl("01 Canon Reference/Peoples and Cultures/Cultures MOC.md")">Peoples &amp; cultures</a>
+            <a href="@LinkResolver.PageUrl("01 Canon Reference/Cosmology/Cosmology MOC.md")">Cosmology</a>
+            <a href="/browse?folder=01%20Canon%20Reference%2FGeography">Places &amp; geography</a>
+            <a href="@LinkResolver.PageUrl("01 Canon Reference/Creatures/Bestiary MOC.md")">Creatures &amp; powers</a>
+            <a href="/browse?folder=02%20Playable%20Settings">Playable settings</a>
+            <a href="/browse?folder=03%20Stories%20%26%20In-World%20Texts">Stories &amp; voices</a>
+            <p class="nav-label">Across the whole vault</p>
+            <a href="/browse?folder=90%20Archive%20%26%20Drafts">Research &amp; archives</a>
+            <a href="/browse?folder=99%20Templates">Templates</a>
+            <a href="/browse">All folders</a>
+            <a href="/find">Full-text search</a>
+            <a href="/articles">Articles A–Z</a>
+            <a href="/collections">Collections</a>
+            <a href="/reading-list">Your reading shelf</a>
+            <a href="/maintenance">Reader maintenance</a>
+            <div class="nav-note">Private author edition<br />Read here. Write in the vault.</div>
+        </nav>
+        <main id="main-content" class="main-content" tabindex="-1">
+            <ErrorBoundary @key="Navigation.Uri">
+                <ChildContent>@Body</ChildContent>
+                <ErrorContent><h1>This page could not be displayed</h1><p>The reader encountered a problem. Your source files are unchanged.</p><a href="/browse">Return to the library</a></ErrorContent>
+            </ErrorBoundary>
+        </main>
+    </div>
+    <LinkPreview />
+    <ImageViewer />
+    <footer class="site-footer">The World Egg · Private author library <span>Original Markdown. No publishing copy.</span></footer>
+</div>
+
+@code {
+    private bool _dark;
+    private bool _menuOpen;
+    private string _query = "";
+    private bool _preferencesChanged = true;
+    private DotNetObjectReference<MainLayout>? _reference;
+    private readonly MudTheme _theme = CreateTheme();
+    private static MudTheme CreateTheme()
+    {
+        var theme = new MudTheme
+        {
+            PaletteLight = new PaletteLight { Primary = "#79603a", Background = "#f7f4ed", Surface = "#fffcf6", TextPrimary = "#292b29", TextSecondary = "#66665e", LinesDefault = "#ded8ca" },
+            PaletteDark = new PaletteDark { Primary = "#d1b57e", Background = "#1c2021", Surface = "#242829", TextPrimary = "#e9e3d7", TextSecondary = "#b9b5a9", LinesDefault = "#414541" }
+        };
+        theme.Typography.Default.FontFamily = ["Segoe UI", "Arial", "sans-serif"];
+        return theme;
+    }
+    protected override void OnInitialized() { Reading.Changed += PreferencesChanged; Navigation.LocationChanged += Navigated; }
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        if (firstRender) { _reference = DotNetObjectReference.Create(this); await JS.InvokeVoidAsync("worldEgg.reading.attach", _reference); await Reading.InitializeAsync(); }
+        if (_preferencesChanged) { _preferencesChanged = false; var dark = await JS.InvokeAsync<bool>("worldEgg.reading.apply", Reading.Current.Preferences, Reading.StorageKey); if (_dark != dark) { _dark = dark; StateHasChanged(); } }
+    }
+    private void ToggleMenu() => _menuOpen = !_menuOpen;
+    private Task ToggleDesktopNavigation() => Reading.SetPreferencesAsync(Reading.Current.Preferences with { NavigationCollapsed = !Reading.Current.Preferences.NavigationCollapsed });
+    private Task ToggleTheme() => Reading.SetPreferencesAsync(Reading.Current.Preferences with { Theme = _dark ? "light" : "dark" });
+    [JSInvokable] public Task SetEffectiveDark(bool dark) => InvokeAsync(() => { _dark = dark; StateHasChanged(); });
+    private void PreferencesChanged() => _ = InvokeAsync(() => { _preferencesChanged = true; StateHasChanged(); });
+    private void Navigated(object? sender, LocationChangedEventArgs e) => _ = InvokeAsync(() => { _menuOpen = false; StateHasChanged(); });
+    private void Find() { if (!string.IsNullOrWhiteSpace(_query)) Navigation.NavigateTo("/find?q=" + Uri.EscapeDataString(_query)); }
+    public async ValueTask DisposeAsync() { Reading.Changed -= PreferencesChanged; Navigation.LocationChanged -= Navigated; if (_reference is null) return; try { await JS.InvokeVoidAsync("worldEgg.reading.detach"); } catch (JSDisconnectedException) { } _reference.Dispose(); }
+}

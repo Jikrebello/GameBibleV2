@@ -1,0 +1,31 @@
+@implements IAsyncDisposable
+@inject ArticlePreviews Previews
+@inject ReadingLibrary Reading
+@inject IJSRuntime JS
+@if (_preview is { } preview)
+{
+    <aside id="article-preview" class="article-preview" role="region" aria-label="Article preview">
+        <div class="preview-caption"><span class="eyebrow">From the source</span><button type="button" @onclick="Close" aria-label="Dismiss article preview">×</button></div>
+        <h2><a href="@preview.Href">@preview.Document.Title</a></h2>
+        <DocumentLabels Document="preview.Document" />
+        @if (preview.Section is not null) { <h3>@preview.Section</h3> }
+        <p class="preview-excerpt">@preview.Excerpt</p>
+        <a href="@preview.Href">Read this passage →</a>
+        <div class="file-path">@preview.Document.Id</div>
+    </aside>
+}
+@code {
+    private ArticlePreview? _preview;
+    private DotNetObjectReference<LinkPreview>? _reference;
+    private long _generation;
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        if (firstRender) { _reference = DotNetObjectReference.Create(this); await JS.InvokeVoidAsync("worldEgg.previews.attach", _reference); }
+        if (_preview is not null) await JS.InvokeVoidAsync("worldEgg.previews.position");
+    }
+    [JSInvokable] public Task ShowPreview(string id, string fragment, long generation) => InvokeAsync(() =>
+    { if (generation < _generation) return; _generation = generation; _preview = Reading.Current.Preferences.Previews ? Previews.Get(id, fragment) : null; StateHasChanged(); });
+    [JSInvokable] public Task HidePreview(long generation) => InvokeAsync(() => { if (generation < _generation) return; _generation = generation; _preview = null; StateHasChanged(); });
+    private async Task Close() { _preview = null; await JS.InvokeVoidAsync("worldEgg.previews.dismiss"); }
+    public async ValueTask DisposeAsync() { if (_reference is null) return; try { await JS.InvokeVoidAsync("worldEgg.previews.detach"); } catch (JSDisconnectedException) { } _reference.Dispose(); }
+}

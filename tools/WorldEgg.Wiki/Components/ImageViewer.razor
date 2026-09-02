@@ -1,0 +1,40 @@
+@implements IAsyncDisposable
+@inject VaultCatalogue Catalogue
+@inject IJSRuntime JS
+<dialog id="image-viewer" class="image-viewer" aria-labelledby="image-viewer-title">
+    <header><h2 id="image-viewer-title">@(_id is null ? "Image viewer" : System.IO.Path.GetFileNameWithoutExtension(_id))</h2><MudIconButton Icon="@Icons.Material.Filled.Close" OnClick="CloseImage" aria-label="Close image viewer" /></header>
+    <div class="image-toolbar" role="toolbar" aria-label="Image controls">
+        <MudButton OnClick="() => Zoom(1.25)" aria-label="Zoom in">Zoom +</MudButton><MudButton OnClick="() => Zoom(0.8)" aria-label="Zoom out">Zoom −</MudButton>
+        <MudButton OnClick="Fit">Fit</MudButton><MudButton OnClick="Actual">Actual size</MudButton>
+        <MudIconButton Icon="@Icons.Material.Filled.ArrowBack" OnClick="() => Pan(60, 0)" aria-label="Pan left" /><MudIconButton Icon="@Icons.Material.Filled.ArrowForward" OnClick="() => Pan(-60, 0)" aria-label="Pan right" />
+        <MudIconButton Icon="@Icons.Material.Filled.ArrowUpward" OnClick="() => Pan(0, 60)" aria-label="Pan up" /><MudIconButton Icon="@Icons.Material.Filled.ArrowDownward" OnClick="() => Pan(0, -60)" aria-label="Pan down" />
+        <output id="image-zoom" aria-live="polite"></output>
+    </div>
+    <div id="image-viewport" class="image-viewport" tabindex="0" role="group" aria-label="Image canvas. Drag to pan; use arrow keys to move, plus and minus to zoom, and zero to fit.">
+        @if (_id is not null) { <img id="enlarged-image" src="@LinkResolver.AssetUrl(_id)" alt="@_alt" draggable="false" /> }
+        <p id="image-error" hidden>That image could not be loaded. It may have moved or been deleted.</p>
+    </div>
+    <footer><span>Drag to pan · + / − to zoom · 0 to fit · Esc to close</span>@if (_id is not null) { <a href="@LinkResolver.AssetUrl(_id)" target="_blank" rel="noopener">Open original ↗</a> }</footer>
+</dialog>
+@code {
+    private string? _id;
+    private string _alt = "";
+    private bool _open;
+    private DotNetObjectReference<ImageViewer>? _reference;
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        if (firstRender) { _reference = DotNetObjectReference.Create(this); await JS.InvokeVoidAsync("worldEgg.images.attach", _reference); }
+        if (_open) { _open = false; await JS.InvokeVoidAsync("worldEgg.images.open"); }
+    }
+    [JSInvokable] public Task ShowImage(string id, string alt) => InvokeAsync(() =>
+    {
+        if (!Catalogue.Current.Assets.Contains(id) || !new[] { ".png", ".jpg", ".jpeg", ".webp", ".gif", ".svg" }.Contains(System.IO.Path.GetExtension(id).ToLowerInvariant())) return;
+        _id = id; _alt = alt; _open = true; StateHasChanged();
+    });
+    [JSInvokable] public async Task CloseImage() { await JS.InvokeVoidAsync("worldEgg.images.close"); _id = null; StateHasChanged(); }
+    private Task Zoom(double factor) => JS.InvokeVoidAsync("worldEgg.images.zoom", factor).AsTask();
+    private Task Pan(double x, double y) => JS.InvokeVoidAsync("worldEgg.images.pan", x, y).AsTask();
+    private Task Fit() => JS.InvokeVoidAsync("worldEgg.images.fit").AsTask();
+    private Task Actual() => JS.InvokeVoidAsync("worldEgg.images.actual").AsTask();
+    public async ValueTask DisposeAsync() { if (_reference is null) return; try { await JS.InvokeVoidAsync("worldEgg.images.detach"); } catch (JSDisconnectedException) { } _reference.Dispose(); }
+}

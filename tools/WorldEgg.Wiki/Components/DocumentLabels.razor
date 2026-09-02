@@ -1,0 +1,8 @@
+<div class="document-labels">
+    <span class="source-label">@Document.Area</span>
+    @if (Document.Archived) { <span class="archive-label">Archive / draft location</span> }
+    @if (Document.Field("status") is { Length: > 0 } status) { <span>Status in source: @status</span> }
+    @if (Document.Field("canon_level") is { Length: > 0 } canon) { <span>@canon</span> }
+    @if (Document.Field("visibility") is { Length: > 0 } visibility) { <span>@visibility</span> }
+</div>
+@code { [Parameter, EditorRequired] public WikiDocument Document { get; set; } = default!; }

@@ -1,0 +1,21 @@
+@page "/collections"
+@implements IDisposable
+@inject LibraryIndex Index
+<PageTitle>Collections — The World Egg</PageTitle>
+<div class="eyebrow">Ways into the library</div><h1>Collections</h1>
+<p class="page-intro">Browse the collections already maintained in the vault, or follow a value from its metadata. A label groups sources; it does not settle their authority.</p>
+<h2>Saved Base collections</h2>
+<ul class="collection-index">@foreach (var id in Index.Current.Catalogue.Bases.Keys.Order()) { <li><a href="@LinkResolver.BaseUrl(id)">@System.IO.Path.GetFileNameWithoutExtension(id)</a><span class="file-path">@id</span></li> }</ul>
+<h2>Explore by metadata</h2>
+<nav class="facet-tabs" aria-label="Collection dimensions">@foreach (var field in LibraryIndex.FilterFields) { <a href="@("/collections?by=" + field)" aria-current="@(Field == field ? "page" : null)">@(field == "area" ? "Source area" : field)</a> }</nav>
+<ul class="facet-list">@foreach (var value in Index.Facet(Field)) { <li><a href="@Find.BuildUrl("", new Dictionary<string, string> { [Field] = value })">@value</a><span>@Index.Current.Entries.Count(e => LibraryIndex.Values(e.Document, Field).Contains(value, StringComparer.OrdinalIgnoreCase))</span></li> }</ul>
+<p class="quiet">Articles without this metadata remain available in search and the alphabetical index; the reader does not guess their classification.</p>
+<h2>Existing indexes</h2>
+<ul>@foreach (var entry in Index.Current.Entries.Where(e => e.Document.Field("type") == "index" || e.Document.Title.EndsWith(" MOC", StringComparison.OrdinalIgnoreCase)).OrderBy(e => e.Document.Title)) { <li><a href="@LinkResolver.PageUrl(entry.Document.Id)">@entry.Document.Title</a><span class="file-path">@entry.Document.Area</span></li> }</ul>
+@code {
+    [SupplyParameterFromQuery] public string? By { get; set; }
+    private string Field => LibraryIndex.FilterFields.Contains(By) ? By! : "type";
+    protected override void OnInitialized() => Index.Changed += Updated;
+    private void Updated() => _ = InvokeAsync(StateHasChanged);
+    public void Dispose() => Index.Changed -= Updated;
+}

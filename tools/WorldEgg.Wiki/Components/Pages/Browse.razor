@@ -1,0 +1,21 @@
+@page "/browse"
+@implements IDisposable
+@inject VaultCatalogue Catalogue
+<PageTitle>@Title — The World Egg</PageTitle>
+<div class="eyebrow">Across the whole vault</div><h1>@Title</h1>
+@if (!string.IsNullOrEmpty(Folder)) { <p><a href="@ParentUrl">← Up one folder</a></p> }
+<p class="page-intro">Original folders and articles. Research, drafts and templates are included alongside settled lore.</p>
+<div class="folder-list">@foreach (var directory in Directories) { <a href="@("/browse?folder=" + Uri.EscapeDataString(directory))"><span aria-hidden="true">▱</span> @directory.Split('/').Last()</a> }</div>
+<div class="article-list">@foreach (var document in Documents) { <section><h2><a href="@LinkResolver.PageUrl(document.Id)">@document.Title</a></h2><DocumentLabels Document="document" /><div class="file-path">@document.Id</div></section> }</div>
+@if (!Directories.Any() && !Documents.Any()) { <p>No articles in this folder. It may contain only attachments, or it may have moved.</p> }
+@code {
+    [SupplyParameterFromQuery] public string? Folder { get; set; }
+    private string Prefix => string.IsNullOrWhiteSpace(Folder) ? "" : Folder.TrimEnd('/') + "/";
+    private string Title => string.IsNullOrWhiteSpace(Folder) ? "The complete library" : Folder.Split('/').Last();
+    private string ParentUrl => string.IsNullOrEmpty(Folder) || !Folder.Contains('/') ? "/browse" : "/browse?folder=" + Uri.EscapeDataString(Folder[..Folder.LastIndexOf('/')]);
+    private IEnumerable<string> Directories => Catalogue.Current.Documents.Keys.Concat(Catalogue.Current.Assets).Where(p => p.StartsWith(Prefix, StringComparison.OrdinalIgnoreCase)).Select(p => p[Prefix.Length..]).Where(p => p.Contains('/')).Select(p => Prefix + p[..p.IndexOf('/')]).Distinct(StringComparer.OrdinalIgnoreCase).Order();
+    private IEnumerable<WikiDocument> Documents => Catalogue.Current.Documents.Values.Where(d => d.Folder.Equals(Folder ?? "", StringComparison.OrdinalIgnoreCase)).OrderBy(d => d.Title);
+    protected override void OnInitialized() => Catalogue.Changed += Updated;
+    private void Updated() => _ = InvokeAsync(StateHasChanged);
+    public void Dispose() => Catalogue.Changed -= Updated;
+}

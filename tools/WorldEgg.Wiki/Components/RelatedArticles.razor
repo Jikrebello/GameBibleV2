@@ -1,0 +1,20 @@
+@implements IDisposable
+@inject LibraryIndex Index
+<section class="related-articles" aria-label="Article relationships">
+    <details><summary>Linked articles (@Outgoing.Length) · Backlinks (@Incoming.Length)</summary>
+        <p class="quiet">These are explicit, resolved links in the source—not inferred relationships or claims of authority.</p>
+        <div class="related-columns"><div><h2>From this article</h2>@List(Outgoing)</div><div><h2>Articles linking here</h2>@List(Incoming)</div></div>
+        @if (Notices > 0) { <p><a href="@("/maintenance?source=" + Uri.EscapeDataString(Id))">@Notices unresolved or unsupported references</a> are listed separately.</p> }
+    </details>
+</section>
+@code {
+    [Parameter, EditorRequired] public string Id { get; set; } = "";
+    private WikiDocument[] Outgoing => Documents(Index.Current.Outgoing.GetValueOrDefault(Id, []));
+    private WikiDocument[] Incoming => Documents(Index.Current.Incoming.GetValueOrDefault(Id, []));
+    private int Notices => Index.Current.Issues.Count(i => i.Source == Id);
+    private WikiDocument[] Documents(string[] ids) => ids.Select(id => Index.Current.Catalogue.Documents.GetValueOrDefault(id)).OfType<WikiDocument>().OrderBy(d => VaultCatalogue.Fold(d.Title)).ToArray();
+    private RenderFragment List(WikiDocument[] documents) => @<ul>@foreach (var document in documents) { <li><a href="@LinkResolver.PageUrl(document.Id)">@document.Title</a><span class="file-path">@document.Area</span></li> }@if (documents.Length == 0) { <li class="quiet">No resolved article links.</li> }</ul>;
+    protected override void OnInitialized() => Index.Changed += Updated;
+    private void Updated() => _ = InvokeAsync(StateHasChanged);
+    public void Dispose() => Index.Changed -= Updated;
+}

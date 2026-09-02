@@ -8,3 +8,11 @@
 *.temp
 Thumbs.db
 .DS_Store
+
+# Local World Egg reader: generated output only
+tools/WorldEgg.Wiki/**/bin/
+tools/WorldEgg.Wiki/**/obj/
+tools/WorldEgg.Wiki/**/TestResults/
+tools/WorldEgg.Wiki/App_Data/
+tools/WorldEgg.Wiki/node_modules/
+tools/WorldEgg.Wiki/.vs/

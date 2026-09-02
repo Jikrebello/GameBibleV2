@@ -1,0 +1,88 @@
+@page "/wiki"
+@implements IDisposable
+@inject VaultCatalogue Catalogue
+@inject ArticleRenderer Renderer
+@inject VaultPaths Paths
+@inject IJSRuntime JS
+@inject ReadingLibrary Reading
+
+@if (_document is null)
+{
+    <PageTitle>Article not found — The World Egg</PageTitle>
+    <h1>Article not found</h1><p>This file may have moved, been removed, or be outside the reader’s content folders.</p><code>@Path</code><p><a href="/browse">Browse the library</a></p>
+}
+else
+{
+    <PageTitle>@_document.Title — The World Egg</PageTitle>
+    <nav class="breadcrumbs" aria-label="Breadcrumb"><a href="/">Encyclopedia</a>@foreach (var crumb in Breadcrumbs(_document.Folder)) { <span aria-hidden="true">/</span><a href="@crumb.Url">@crumb.Label</a> }</nav>
+    <header class="article-header"><h1>@_document.Title</h1><DocumentLabels Document="_document" /></header>
+    @if (_changed)
+    {
+        <div class="change-notice" role="status">The vault has changed. Your reading position has been left alone. <MudButton OnClick="Reload" Size="Size.Small" Variant="Variant.Outlined">Load latest version</MudButton></div>
+    }
+    @if (_document.Error is not null) { <MudAlert Severity="Severity.Warning">@_document.Error</MudAlert> }
+    <div class="article-actions"><div class="reader-actions">
+        <MudButton Size="Size.Small" StartIcon="@(Reading.IsBookmarked(_document.Id) ? Icons.Material.Filled.Bookmark : Icons.Material.Outlined.BookmarkBorder)" OnClick="Bookmark" aria-pressed="@Reading.IsBookmarked(_document.Id).ToString().ToLowerInvariant()">@(Reading.IsBookmarked(_document.Id) ? "Bookmarked" : "Bookmark")</MudButton>
+        <MudButton Size="Size.Small" OnClick="CopySource">Copy source path</MudButton><MudButton Size="Size.Small" OnClick="Print">Print</MudButton>
+        <a class="source-action" href="@ObsidianUrl(_document.Id)">Open in Obsidian ↗</a>
+        @if (_copyMessage is not null) { <span role="status" class="quiet">@_copyMessage</span> }
+        @if (Reading.Notice is not null) { <span role="status" class="quiet">@Reading.Notice</span> }
+    </div><details class="metadata"><summary>About this source</summary><dl><dt>File</dt><dd>@_document.Id</dd>@foreach (var field in _document.Metadata.OrderBy(x => x.Key)) { <dt>@field.Key</dt><dd>@string.Join(", ", field.Value)</dd> }</dl></details></div>
+    <p class="print-source">Source: @_document.Id</p>
+    <div class="reading-layout">
+        <article class="article-prose" data-document-id="@_document.Id" @key="_articleKey"><ArticleBody Html="@(_rendered?.Html ?? "")" /></article>
+        @if (_rendered?.Headings.Length > 0)
+        {
+            <aside class="article-toc" aria-label="Article contents"><details open><summary>On this page</summary><nav>@foreach (var heading in _rendered.Headings) { <a class="toc-level-@heading.Level" href="@(LinkResolver.PageUrl(_document.Id) + "#" + Uri.EscapeDataString(heading.Id))">@heading.Text</a> }</nav></details></aside>
+        }
+    </div>
+    @if (_rendered?.Issues.Length > 0) { <details class="reading-notes"><summary>Reading notes (@_rendered.Issues.Length)</summary><p>These are source-link or compatibility notices, not changes to the lore.</p><ul>@foreach (var issue in _rendered.Issues.Distinct().Take(50)) { <li>@issue.Kind: @issue.Target</li> }</ul></details> }
+    <RelatedArticles Id="@_document.Id" />
+}
+
+@code {
+    [SupplyParameterFromQuery(Name = "path")] public string? Path { get; set; }
+    private WikiDocument? _document;
+    private RenderedArticle? _rendered;
+    private bool _changed;
+    private bool _initializeArticle;
+    private bool _resetScroll;
+    private int _articleKey;
+    private string? _loadedPath;
+    private string? _copyMessage;
+    protected override void OnInitialized() { Catalogue.Changed += VaultChanged; Reading.Changed += PreferencesChanged; }
+    protected override void OnParametersSet()
+    {
+        if (_loadedPath != Path || _document is null) { _loadedPath = Path; Load(true); }
+    }
+    private void Load(bool reset)
+    {
+        _document = Path is null ? null : Catalogue.Current.Documents.GetValueOrDefault(Path);
+        _rendered = _document is null ? null : Renderer.Render(_document);
+        _changed = false; _initializeArticle = true; _resetScroll = reset; _articleKey++;
+        _copyMessage = null;
+    }
+    private void Reload() => Load(false);
+    private void VaultChanged() => _ = InvokeAsync(() => { _changed = true; StateHasChanged(); });
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        if (_initializeArticle)
+        {
+            _initializeArticle = false; var document = _document; var reset = _resetScroll;
+            await Reading.InitializeAsync();
+            if (document is not null) await Reading.VisitAsync(document);
+            if (_document?.Id == document?.Id) await JS.InvokeVoidAsync("worldEgg.articleReady", reset, document?.Id, Reading.Current.Preferences, Reading.StorageKey);
+        }
+    }
+    private Task Bookmark() => _document is null ? Task.CompletedTask : Reading.ToggleBookmarkAsync(_document);
+    private async Task CopySource() { if (_document is not null) _copyMessage = await JS.InvokeAsync<bool>("worldEgg.reading.copy", _document.Id) ? "Source path copied." : "Could not copy automatically. The path is in About this source."; }
+    private Task Print() => JS.InvokeVoidAsync("worldEgg.reading.print").AsTask();
+    private void PreferencesChanged() => _ = InvokeAsync(StateHasChanged);
+    private string ObsidianUrl(string id) => "obsidian://open?vault=" + Uri.EscapeDataString(Paths.Name) + "&file=" + Uri.EscapeDataString(id);
+    private static IEnumerable<(string Label, string Url)> Breadcrumbs(string folder)
+    {
+        var current = "";
+        foreach (var segment in folder.Split('/')) { current = current.Length == 0 ? segment : current + "/" + segment; yield return (segment, "/browse?folder=" + Uri.EscapeDataString(current)); }
+    }
+    public void Dispose() { Catalogue.Changed -= VaultChanged; Reading.Changed -= PreferencesChanged; }
+}

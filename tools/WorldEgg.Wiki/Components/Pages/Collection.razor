@@ -1,0 +1,10 @@
+@page "/base"
+<PageTitle>Collection — The World Egg</PageTitle>
+<nav class="breadcrumbs"><a href="/collections">Collections</a><span>/</span><span>@System.IO.Path.GetFileNameWithoutExtension(Path)</span></nav>
+<h1>@System.IO.Path.GetFileNameWithoutExtension(Path)</h1>
+<p class="page-intro">The original Base’s named views, filters, columns and ordering. Nothing here edits its definition or the files it describes.</p>
+<BaseTable Id="@(Path ?? "")" View="@View" />
+@code {
+    [SupplyParameterFromQuery] public string? Path { get; set; }
+    [SupplyParameterFromQuery] public string? View { get; set; }
+}
