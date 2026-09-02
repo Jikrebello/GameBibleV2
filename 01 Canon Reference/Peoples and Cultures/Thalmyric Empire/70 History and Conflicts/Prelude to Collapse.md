@@ -37,6 +37,6 @@ Corvenas ordered public rites and partial mobilization without choosing one stra
 
 ## Navigation
 
-- [[The Invasion and the Fall]]
+- [[01 Canon Reference/History/60 Fall and Successor Empires/The Invasion and the Fall.md|The Invasion and the Fall]]
 - [[The Atherian Empire Overview]]
 - [[Chronology of the Known World (AR Dating)]]

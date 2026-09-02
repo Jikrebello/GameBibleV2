@@ -41,7 +41,7 @@ Wolfsmere is a leftward thin-space wound containing traumatic residue, trapped f
 
 ## Navigation
 
-- [[The Folk of the Frontier and the Wolfsmere Lineage]]
+- [[01 Canon Reference/Peoples and Cultures/Folk/30 Society and Daily Life/The Folk of the Frontier and the Wolfsmere Lineage.md|The Folk of the Frontier and the Wolfsmere Lineage]]
 - [[Thin Spaces]]
 - [[Courts of the Folk Lands]]
 

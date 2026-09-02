@@ -36,5 +36,5 @@ The coronation oath promised return, justice, protection of the Church, and rest
 
 - [[The Refuge and the Rise of Veridun]]
 - [[The War of the Burning Banners]]
-- [[The Imperial Throne of Veridun]]
+- [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/60 Realms and Peoples/Kingdom of Veridun/The Imperial Throne of Veridun.md|The Imperial Throne of Veridun]]
 - [[The Long Reconquest (908-1052 AR)]]

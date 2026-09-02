@@ -41,7 +41,7 @@ Ashplume is three things at once, and the party rarely sees all three at first:
 
 - a **prize gauntlet**, as advertised on the handbills;
 - a **talent audition**, scried and broadcast so Marlo can scout whoever wins;
-- a **body-farm**, because the [[The Pale Hand]]'s sub-floor mortgage grants title to everyone who dies below the floor.
+- a **body-farm**, because the [[01 Canon Reference/Peoples and Cultures/Sestaran Concord/60 Realms and Peoples/Citadel of Vorthara/The Pale Hand.md|The Pale Hand]]'s sub-floor mortgage grants title to everyone who dies below the floor.
 
 The hazards are engineered for spectacle, not defense. The vent does not want to kill efficiently; it wants to kill *well*, on camera, in a way that sells.
 
@@ -73,4 +73,4 @@ Ashplume can become a suppressed and re-leased vent, an impounded evidence site 
 - [[The Trophy-Arms]]
 - [[Cinder-Bound]]
 - [[Vault-Claimed]]
-- [[The Citadel of Vorthara Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Sestaran Concord/60 Realms and Peoples/Citadel of Vorthara/The Citadel of Vorthara Overview.md|The Citadel of Vorthara Overview]]

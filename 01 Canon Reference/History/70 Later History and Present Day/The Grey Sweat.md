@@ -43,6 +43,6 @@ Eclessian families still speak of events as before or after the Sweat. Wage labo
 
 - [[Timeline MOC]]
 - [[Chronology of the Known World (AR Dating)]]
-- [[Lives of Eclessia — The Common Spine]]
+- [[01 Canon Reference/Peoples and Cultures/Eclessia/30 Society and Daily Life/Life Paths/Lives of Eclessia — The Common Spine.md|Lives of Eclessia — The Common Spine]]
 - [[The Korrheim Accord]]
 - [[Freeflame Reformation]]

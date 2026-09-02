@@ -43,7 +43,7 @@ Blockade-running, harbor archaeology, naval courts, drowned infrastructure, smug
 
 ## Navigation
 
-- [[The Saltborn Coast Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/60 Realms and Peoples/The Saltborn Coast Overview.md|The Saltborn Coast Overview]]
 - [[The Military Province of Arkena Overview]]
 - [[Thalmyric Armies and the Long Frontier]]
-- [[Thalmyric Empire Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/Thalmyric Empire Overview.md|Thalmyric Empire Overview]]

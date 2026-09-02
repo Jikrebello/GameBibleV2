@@ -221,7 +221,7 @@ Beginning [[The Deep Muster Main Quest|The Deep Muster]] closes the repair windo
 - [[Bernard Field Familiarity and Relationships]]
 - [[Bernard Compulsion and Accountability System]]
 - [[Bernard Long Watch Greatsword Package]]
-- [[Thalmyric Military Orders#Order of the Long Watch|Order of the Long Watch]]
+- [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/50 Economy and Warfare/Thalmyric Military Orders.md#Order of the Long Watch|Order of the Long Watch]]
 - [[Longlake Country]]
 - [[Grenzburg Worldspace Location Register#Longlake Country|Lake Road Cairn and Cairnside Shelter]]
 - [[The Open Hospice]]

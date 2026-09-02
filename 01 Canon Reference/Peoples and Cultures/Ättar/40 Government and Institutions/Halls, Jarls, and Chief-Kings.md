@@ -37,5 +37,5 @@ The custom deters some abuses while rewarding violence and ambitious accusation.
 
 ## Navigation
 
-- [[Ättar Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Ättar/Ättar Overview.md|Ättar Overview]]
 - [[Berserker Rage and Iron-Skin Paint]]

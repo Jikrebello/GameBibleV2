@@ -45,7 +45,7 @@ The vault under the Sanctum (Unburnt Psalter, Vessing file, Crown of Embers) as 
 
 ## Navigation
 
-- [[Eclessia Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Eclessia/Eclessia Overview.md|Eclessia Overview]]
 - [[Lives of Eclessia — The Common Spine]]
-- [[The Kingdom of Aurelia Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Eclessia/60 Realms and Peoples/Kingdom of Aurelia/The Kingdom of Aurelia Overview.md|The Kingdom of Aurelia Overview]]
 - [[Present-Day Courts and Crowns (1360 AR)]]

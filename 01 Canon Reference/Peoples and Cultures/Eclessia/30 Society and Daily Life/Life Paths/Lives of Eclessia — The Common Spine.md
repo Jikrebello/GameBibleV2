@@ -13,7 +13,7 @@ tags: []
 ---
 # Lives of Eclessia — The Common Spine
 
-The Eclessian companion to [[Lives of Thalmyria — Seven Roads from Cradle to Grave]] — but where Thalmyria's roads run the same everywhere, Eclessia's split by territory, so this file holds only what is truly shared, and six territory files carry the differences: [[Lives of Aurelia]], [[Lives of Veridancia]], [[Lives of Virelia]], [[Lives of Ironvale]], [[Lives of Korrheim and Brauvalis]], [[Lives of Caldria and the Sylvan Marches]]. (Grenzburg's lives live in its own playable-setting docs.)
+The Eclessian companion to [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/30 Society and Daily Life/Lives of Thalmyria — Seven Roads from Cradle to Grave.md|Lives of Thalmyria — Seven Roads from Cradle to Grave]] — but where Thalmyria's roads run the same everywhere, Eclessia's split by territory, so this file holds only what is truly shared, and six territory files carry the differences: [[Lives of Aurelia]], [[Lives of Veridancia]], [[Lives of Virelia]], [[Lives of Ironvale]], [[Lives of Korrheim and Brauvalis]], [[Lives of Caldria and the Sylvan Marches]]. (Grenzburg's lives live in its own playable-setting docs.)
 
 ## The Shared Waypoints
 
@@ -25,7 +25,7 @@ Since the Korrheim Accord (1343), **every Eclessian road forks at "whose rite?"*
 
 ## The Grey Sweat (c. 1232–1247) — the wound under everything
 
-Four generations ago [[The Grey Sweat]] walked Eclessia, taking perhaps a third of the eastern territories and a fifth of the west in fifteen years of waves. Its living consequences include:
+Four generations ago [[01 Canon Reference/History/70 Later History and Present Day/The Grey Sweat.md|The Grey Sweat]] walked Eclessia, taking perhaps a third of the eastern territories and a fifth of the west in fifteen years of waves. Its living consequences include:
 
 - **The labor split.** In the Markish and Latinate west, scarce hands bid up their own price: serfdom dissolved into tenantry and copyhold, towns swelled, wages were born. In Virelia, the sabre-right nobility answered the same scarcity the other way — binding the survivors to the land — and the **second serfdom** has hardened every generation since (see [[Lives of Virelia]]).
 - **The piety turn.** The Sweat birthed the **Ash-Walker processions** — penitents scourging town to town to turn the fever — and when the fever passed, the movement's orphans went two ways: some into the quietism that became the Apathetics' recruiting soil, some into the desperate shrine-hunger the **Weeping Courts** learned to farm. Bruckmoor (1243) fed on Sweat-grief; the relic courts have never forgotten it.
@@ -51,7 +51,7 @@ Place any Eclessian NPC by three coordinates before anything else: **territory, 
 
 ## Navigation
 
-- [[Eclessia Overview]]
-- [[Eclessian Daily Life and the Year of the Flame]]
-- [[The Making of the Eclessians]]
-- [[Lives of Thalmyria — Seven Roads from Cradle to Grave]]
+- [[01 Canon Reference/Peoples and Cultures/Eclessia/Eclessia Overview.md|Eclessia Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Eclessia/30 Society and Daily Life/Eclessian Daily Life and the Year of the Flame.md|Eclessian Daily Life and the Year of the Flame]]
+- [[01 Canon Reference/Peoples and Cultures/Eclessia/10 Foundations/The Making of the Eclessians.md|The Making of the Eclessians]]
+- [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/30 Society and Daily Life/Lives of Thalmyria — Seven Roads from Cradle to Grave.md|Lives of Thalmyria — Seven Roads from Cradle to Grave]]

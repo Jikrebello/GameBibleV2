@@ -118,6 +118,6 @@ Sermora has the most visible current tradition because canal acoustics, fleet co
 - [[Warlock Rune Magic]]
 - [[Elemental Shell and the Four Planes]]
 - [[Magic Systems Overview]]
-- [[The Sermoran Republic Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Sestaran Concord/60 Realms and Peoples/Sermoran Republic/The Sermoran Republic Overview.md|The Sermoran Republic Overview]]
 - [[Ilyana Veshkar]]
 

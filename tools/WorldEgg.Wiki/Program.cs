@@ -66,4 +66,6 @@ if (args.Contains("--audit"))
     return;
 }
 await app.RunAsync();
-public partial class Program { }
+
+public partial class Program
+{ }

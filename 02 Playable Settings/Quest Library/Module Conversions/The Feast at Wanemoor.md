@@ -56,7 +56,7 @@ The investigation leads to an abandoned farm used by the cult. The party crosses
 
 ## Exact World Egg Placement
 
-[[Merewick]] lies in the reed fens of [[Wanemoor District]], eastern [[The Duchy of Brauvalis Overview|Brauvalis]]. The maintained Reedway is half a day from [[Wanenbruck]] in dry weather but can become a two-day boat route after flood. Weak parish visitation and difficult travel explain the village's isolation without turning it into an ungoverned foreign culture.
+[[Merewick]] lies in the reed fens of [[Wanemoor District]], eastern [[01 Canon Reference/Peoples and Cultures/Eclessia/60 Realms and Peoples/Duchy of Brauvalis/The Duchy of Brauvalis Overview.md|Brauvalis]]. The maintained Reedway is half a day from [[Wanenbruck]] in dry weather but can become a two-day boat route after flood. Weak parish visitation and difficult travel explain the village's isolation without turning it into an ungoverned foreign culture.
 
 The adventure occurs during Reaping Week, roughly three weeks before Souls-month. Brother Matthias reached Merewick six weeks earlier and sent one report: the chapel poor-box was full although the district harvest had failed and named households were hungry. The inner cult seized him before his second message left. He remains alive because Reeve Gerwin intends to make him the principal offering at the Reed-Crown Feast.
 
@@ -90,7 +90,7 @@ The Reed Mother is a fixed local **Gut-Maw Mask of Gluttony**. It is not a Menhi
 
 - [[Eclessian Canon Register]]
 - [[Wanemoor District]]
-- [[The Duchy of Brauvalis Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Eclessia/60 Realms and Peoples/Duchy of Brauvalis/The Duchy of Brauvalis Overview.md|The Duchy of Brauvalis Overview]]
 - [[Gluttony]]
 - [[Gluttony Masks and Feast-Beasts]]
 - [[Idol Manifestation and Feeding]]

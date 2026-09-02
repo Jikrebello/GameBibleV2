@@ -64,7 +64,7 @@ Book-running, university disputation, relic forensics, court scandals, false exa
 
 ## Navigation
 
-- [[Lives of Veridancia]]
+- [[01 Canon Reference/Peoples and Cultures/Eclessia/30 Society and Daily Life/Life Paths/Lives of Veridancia.md|Lives of Veridancia]]
 - [[Freeflame Reformation]]
-- [[Eclessian Church Architecture]]
-- [[Eclessia Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Eclessia/20 Faith and Worldview/Eclessian Church Architecture.md|Eclessian Church Architecture]]
+- [[01 Canon Reference/Peoples and Cultures/Eclessia/Eclessia Overview.md|Eclessia Overview]]

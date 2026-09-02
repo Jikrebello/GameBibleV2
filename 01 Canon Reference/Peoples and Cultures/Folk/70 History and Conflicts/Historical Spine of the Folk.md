@@ -38,11 +38,17 @@ tags: []
 
 By 1360 AR, the Eclessian frontier remains a gradient. Parish law, clan jurisdiction, ducal charters, and court bargains overlap. The old-rite clans dispute land with settlers and extraction companies; Chapel-Folk dispute whether the Church accepts them without erasing them; every faction needs cooperation when the Grobi move north.
 
+## Tidewood's Regional History
+
+[[History of the Tidewood Coast]] follows one coastal neighbourhood from Orphaned survival to 1360. Its Three Beaches never become a capital for all the Folk. The capture of an Atherian dry fleet around 1260 BR, Orven Blackkeel's divided inheritance, the Gannet Head catastrophe of 710–712 AR, Edris's rescue in 1002 and the Beam War of 1287–1291 belong to particular households and shores.
+
+The region receives news and repercussions of Wolfsmere; it does not replace the Green March as the massacre's setting. Its release-cut customs inherit the earlier Tidewood–Gale-Crown story without moving the Hunt to a harbour.
+
 ## Navigation
 
 - [[Chronology of the Known World (AR Dating)]]
 - [[The Making of the Folk]]
-- [[The Folk of the Frontier and the Wolfsmere Lineage]]
+- [[01 Canon Reference/Peoples and Cultures/Folk/30 Society and Daily Life/The Folk of the Frontier and the Wolfsmere Lineage.md|The Folk of the Frontier and the Wolfsmere Lineage]]
 - [[Frost-Road and the Winter War]]
 
 ## Historical Atlas — wider inheritance

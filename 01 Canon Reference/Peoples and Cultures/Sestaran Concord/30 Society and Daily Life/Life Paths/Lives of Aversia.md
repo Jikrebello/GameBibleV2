@@ -37,7 +37,7 @@ A company returns from an Eclessian contract paid in land-deeds nobody can locat
 
 ## Navigation
 
-- [[The Sestaran Concord Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Sestaran Concord/The Sestaran Concord Overview.md|The Sestaran Concord Overview]]
 - [[Lives of the Concord — The Common Spine]]
-- [[The Principality of Aversia Overview]]
-- [[House of Soran Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Sestaran Concord/60 Realms and Peoples/Principality of Aversia/The Principality of Aversia Overview.md|The Principality of Aversia Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Sestaran Concord/60 Realms and Peoples/Principality of Aversia/House of Soran Overview.md|House of Soran Overview]]

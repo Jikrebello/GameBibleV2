@@ -12,7 +12,9 @@ public sealed class VaultCatalogue(VaultPaths paths, ILogger<VaultCatalogue> log
     private readonly Channel<bool> _changes = Channel.CreateBounded<bool>(new BoundedChannelOptions(1) { FullMode = BoundedChannelFullMode.DropWrite });
     private FileSystemWatcher? _watcher;
     public CatalogueSnapshot Current => Volatile.Read(ref _current);
+
     public event Action? Changed;
+
     public double LastRefreshMilliseconds { get; private set; }
 
     public async Task RefreshAsync(CancellationToken cancellationToken = default)

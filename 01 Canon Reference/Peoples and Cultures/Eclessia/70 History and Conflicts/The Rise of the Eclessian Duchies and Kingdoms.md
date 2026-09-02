@@ -59,7 +59,7 @@ The Grey Sweat, Freeflame Reformation, and Korrheim Accord later changed these r
 ## Navigation
 
 - [[Eclessia During the Invasion]]
-- [[The Consolidation of the Eclessian Church]]
-- [[The Making of the Eclessians]]
-- [[The Grey Sweat]]
-- [[Eclessia Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Eclessia/20 Faith and Worldview/The Consolidation of the Eclessian Church.md|The Consolidation of the Eclessian Church]]
+- [[01 Canon Reference/Peoples and Cultures/Eclessia/10 Foundations/The Making of the Eclessians.md|The Making of the Eclessians]]
+- [[01 Canon Reference/History/70 Later History and Present Day/The Grey Sweat.md|The Grey Sweat]]
+- [[01 Canon Reference/Peoples and Cultures/Eclessia/Eclessia Overview.md|Eclessia Overview]]

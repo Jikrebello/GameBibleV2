@@ -18,11 +18,11 @@ tags: [module-conversion, game-ready]
 
 ## Adventure at a Glance
 
-**Premise:** A traveling carnival arrives at the logging town of [[Ferren Hollow]] for the [[Folk Daily Life and the Thirteen Moons|Bright-Fire]] fair. It is a genuine delight - and it is a [[Sylvorn]]-court instrument, staffed by the [[The Cloven]] of an offering grove that the [[The Frontier Industry Lords|Timber-Cartel]]'s crews burned. They have come to force recognition of the wrong and exact a dangerous ecological price.
+**Premise:** A traveling carnival arrives at the logging town of [[Ferren Hollow]] for the [[01 Canon Reference/Peoples and Cultures/Folk/30 Society and Daily Life/Folk Daily Life and the Thirteen Moons.md|Bright-Fire]] fair. It is a genuine delight - and it is a [[01 Canon Reference/Cosmology/30 Menhir/20 Third Circle/Sylvorn.md|Sylvorn]]-court instrument, staffed by the [[The Cloven]] of an offering grove that the [[The Frontier Industry Lords|Timber-Cartel]]'s crews burned. They have come to force recognition of the wrong and exact a dangerous ecological price.
 
 **Beginning:** Three days of real festival. The attractions delight by day; the chill is a little wrong; the performers are a little too graceful. The party enters as fairgoers and becomes the only people asking why the carnival feels like a countdown.
 
-**Middle:** The party learns two truths in sequence. First, Karl's crews committed a real wrong and Sisrin's collection is targeted at the people responsible, but her chosen coin of years, names, and warmth is not made just by [[Sylvorn]]'s law. Second, a colder thing has gotten inside the collection: [[The Rime Rider]], an ancient winter-hunt predator that fastens itself to aggrieved land, has widened the claim and means to take the whole town instead of the guilty few.
+**Middle:** The party learns two truths in sequence. First, Karl's crews committed a real wrong and Sisrin's collection is targeted at the people responsible, but her chosen coin of years, names, and warmth is not made just by [[01 Canon Reference/Cosmology/30 Menhir/20 Third Circle/Sylvorn.md|Sylvorn]]'s law. Second, a colder thing has gotten inside the collection: [[The Rime Rider]], an ancient winter-hunt predator that fastens itself to aggrieved land, has widened the claim and means to take the whole town instead of the guilty few.
 
 **End:** On the third night, after the Bright-Fire bonfires and the fireworks, the attractions turn. Each daytime delight becomes its lethal shadow. The party can fight through the gauntlet, remove the Rider, compel confession and concrete repair, persuade Sisrin to accept non-personal restitution, or combine those paths. Stopping the Rider does not heal the grove, and appeasing the grove does not by itself stop the Rider.
 
@@ -41,7 +41,7 @@ tags: [module-conversion, game-ready]
 
 ## Moral and Metaphysical Ruling
 
-The burning is a real wrong and the grove-debt is a real metaphysical pressure. Karl destroyed an offering grove to hit a quota, endangered the border, and concealed the act. Under [[Sylvorn]]'s law the land remembers and seeks equivalence. That response proves an injury occurred; it does not prove that taking years, names, or warmth is a just punishment.
+The burning is a real wrong and the grove-debt is a real metaphysical pressure. Karl destroyed an offering grove to hit a quota, endangered the border, and concealed the act. Under [[01 Canon Reference/Cosmology/30 Menhir/20 Third Circle/Sylvorn.md|Sylvorn]]'s law the land remembers and seeks equivalence. That response proves an injury occurred; it does not prove that taking years, names, or warmth is a just punishment.
 
 The Rime Rider's intervention is a separate and greater crime. It did not suffer the loss. It attached itself to the grievance because grief taken by force from a whole town yields more than any bounded settlement. Turning the grove's response into a massacre is chosen predation.
 
@@ -55,7 +55,7 @@ The cleanest solution is not a receipt but a four-part reckoning: confession, ma
 
 Last spring, to make a quota Holger Strun had quietly promised a southern buyer, "Clear-Cut" Karl's Firebrands burned a tract the Season-Cutters had always left standing: an offering grove on the Folk border, one of the groves Old Tomas's crews leave uncut and pay into each Bright-Fire. Karl burned it because burning is faster than felling and because a Folk reprisal would let him demand more guards and more logging rights — the same play he always runs.
 
-The grove did not simply die. Under [[Sylvorn]]'s law a grove that old is a node of territorial memory, and its law survived its trees. It gathered itself into [[Sisrin the Alder-Maid]] - the grove wearing a face - and announced a collection in the shared venue of a festival. Sisrin took over a real traveling carnival, staffed it with the grove's [[The Cloven]], and brought it to Ferren Hollow for Bright-Fire. Her intended collection targeted the actual crews rather than the town: frighten them, take specific years, names, and warmth, and leave when the grove recognized equivalence. It was bounded, but morally cruel. Sisrin can be persuaded to accept confession, labor, goods, restored land, and renewed offering instead.
+The grove did not simply die. Under [[01 Canon Reference/Cosmology/30 Menhir/20 Third Circle/Sylvorn.md|Sylvorn]]'s law a grove that old is a node of territorial memory, and its law survived its trees. It gathered itself into [[Sisrin the Alder-Maid]] - the grove wearing a face - and announced a collection in the shared venue of a festival. Sisrin took over a real traveling carnival, staffed it with the grove's [[The Cloven]], and brought it to Ferren Hollow for Bright-Fire. Her intended collection targeted the actual crews rather than the town: frighten them, take specific years, names, and warmth, and leave when the grove recognized equivalence. It was bounded, but morally cruel. Sisrin can be persuaded to accept confession, labor, goods, restored land, and renewed offering instead.
 
 Then the grievance was noticed by something that feeds through them. [[The Rime Rider]] is an old Faewild winter-hunter exiled from seasonal retinues, wearing the mask of the year's winter half, when territorial-memory claims press hardest. The Rider approached Sisrin as an ally of the wronged and offered to *guarantee* the collection. What it actually did was fasten itself to the grievance and widen its coin: reclassify the target from "the crews who burned the grove" to "the town that ate the profit," and set the third-night bonfires as the moment the whole of Ferren Hollow is harvested.
 
@@ -75,7 +75,7 @@ Sisrin knows the collection has been corrupted and cannot easily undo it, becaus
 
 ## The Cloven, the Cartel, and the Rime Rider
 
-The [[The Cloven]] are [[Sylvorn]]'s forest-fey - fauns, thorn-maids, grove-spirits, and beautiful hazards that arise where the land-law runs hot. They possess agency, although their place-law makes some choices easier to imagine than others. Under Sisrin they are a court retinue wearing a carnival. Under the Rider's cold, some become [[The Rimebound]], courtiers whose ordinary restraints have been overtaken.
+The [[The Cloven]] are [[01 Canon Reference/Cosmology/30 Menhir/20 Third Circle/Sylvorn.md|Sylvorn]]'s forest-fey - fauns, thorn-maids, grove-spirits, and beautiful hazards that arise where the land-law runs hot. They possess agency, although their place-law makes some choices easier to imagine than others. Under Sisrin they are a court retinue wearing a carnival. Under the Rider's cold, some become [[The Rimebound]], courtiers whose ordinary restraints have been overtaken.
 
 The [[The Frontier Industry Lords|Timber-Cartel]] is canon Grenzburg: Holger Strun's shadow-government of the axe, split between Old Tomas's sustainable Season-Cutters, "Clear-Cut" Karl's provocateur Firebrands, and Strun himself, who funds Karl in secret and chastises him in public. The burned grove is the exact wrong the cartel's structure is built to produce and deny.
 
@@ -267,8 +267,8 @@ The grove-debt is not cured by force alone. It ends when the territorial memory 
 - [[The Cloven]]
 - [[The Rimebound]]
 - [[Menhir Sovereignty and Bargain]]
-- [[Sylvorn]]
+- [[01 Canon Reference/Cosmology/30 Menhir/20 Third Circle/Sylvorn.md|Sylvorn]]
 - [[Frontier Industry Chains]]
-- [[Folk Daily Life and the Thirteen Moons]]
+- [[01 Canon Reference/Peoples and Cultures/Folk/30 Society and Daily Life/Folk Daily Life and the Thirteen Moons.md|Folk Daily Life and the Thirteen Moons]]
 - [[Thin Spaces]]
 - [[Quest Tier Doctrine]]

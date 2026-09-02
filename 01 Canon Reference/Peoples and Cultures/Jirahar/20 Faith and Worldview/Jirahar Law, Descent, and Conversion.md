@@ -38,5 +38,5 @@ Courts may impose restitution, loss of communal office, exclusion from rites, or
 ## Navigation
 
 - [[The Path of the Chosen Jiraharin Religion]]
-- [[Social and Political Structure]]
+- [[01 Canon Reference/Peoples and Cultures/Jirahar/30 Society and Daily Life/Social and Political Structure.md|Social and Political Structure]]
 - [[Four Ways of Jirahar Life]]

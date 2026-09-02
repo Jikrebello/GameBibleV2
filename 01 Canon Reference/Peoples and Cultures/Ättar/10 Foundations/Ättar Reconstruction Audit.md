@@ -54,6 +54,6 @@ The superseded source cluster is indexed by [[Ättar - 2026-07 Pre-Reconstructio
 
 ## Navigation
 
-- [[Ättar Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Ättar/Ättar Overview.md|Ättar Overview]]
 - [[Current Focus Board]]
 - [[Canon Index]]

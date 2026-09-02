@@ -44,6 +44,6 @@ High-Fire moots settle boundaries, announce marriages, recognize war service, pr
 ## Navigation
 
 - [[The Folk Overview]]
-- [[Folk Daily Life and the Thirteen Moons]]
+- [[01 Canon Reference/Peoples and Cultures/Folk/30 Society and Daily Life/Folk Daily Life and the Thirteen Moons.md|Folk Daily Life and the Thirteen Moons]]
 - [[Frost-Road and the Winter War]]
 

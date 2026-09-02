@@ -482,6 +482,6 @@ Othmar leaves with Hannes's echo bound to an object or living pattern. The echo 
 - [[The Korrheim Accord]]
 - [[Freeflame Reformation]]
 - [[Thin Spaces]]
-- [[The Confederation of Korrheim Overview]]
-- [[The Duchy of Brauvalis Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Eclessia/60 Realms and Peoples/Confederation of Korrheim/The Confederation of Korrheim Overview.md|The Confederation of Korrheim Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Eclessia/60 Realms and Peoples/Duchy of Brauvalis/The Duchy of Brauvalis Overview.md|The Duchy of Brauvalis Overview]]
 - [[Quest Tier Doctrine]]

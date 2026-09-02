@@ -125,7 +125,7 @@ Three preparations and the marked heart-oak unlock [[A Drake in Winter]]. Beginn
 
 ## Navigation
 
-- [[Emerald Drakes]]
+- [[01 Canon Reference/Creatures/20 Faewild and Menhir/10 Drakes/Emerald Drakes.md|Emerald Drakes]]
 - [[Emerald Drake Range]]
 - [[A Drake in Winter]]
 - [[ACT II WINTER'S TEETH]]

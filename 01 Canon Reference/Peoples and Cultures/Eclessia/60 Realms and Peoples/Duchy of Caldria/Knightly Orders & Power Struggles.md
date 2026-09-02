@@ -25,7 +25,7 @@ tags: []
 
 **Lance of Dornheim** trains scouts, messengers, and mobile frontier companies. It contains the highest proportion of tolerated Freeflame soldiers.
 
-These are Caldrian orders and do not replace the Eclessia-wide institutions in [[Eclessian Military Orders]].
+These are Caldrian orders and do not replace the Eclessia-wide institutions in [[01 Canon Reference/Peoples and Cultures/Eclessia/50 Economy and Warfare/Eclessian Military Orders.md|Eclessian Military Orders]].
 
 ## Preserved Campaigns
 
@@ -44,6 +44,6 @@ Alric IV wants a unified ducal command, licensed warlock corps, and artillery in
 ## Navigation
 
 - [[The Duchy of Caldria Overview]]
-- [[Eclessian Military Orders]]
-- [[Military and Warfare Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Eclessia/50 Economy and Warfare/Eclessian Military Orders.md|Eclessian Military Orders]]
+- [[01 Canon Reference/Peoples and Cultures/Eclessia/50 Economy and Warfare/Military and Warfare Overview.md|Military and Warfare Overview]]
 

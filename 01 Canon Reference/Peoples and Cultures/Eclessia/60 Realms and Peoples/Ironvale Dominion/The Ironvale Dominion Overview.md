@@ -61,8 +61,8 @@ Industrial espionage, labor organization, forbidden relics in foundry foundation
 ## Navigation
 
 - [[Conflicts and Underground Movements]]
-- [[Lives of Ironvale]]
+- [[01 Canon Reference/Peoples and Cultures/Eclessia/30 Society and Daily Life/Life Paths/Lives of Ironvale.md|Lives of Ironvale]]
 - [[Freeflame Reformation]]
 - [[Shell Anchors and Extraction]]
 - [[Ironbound Frames]]
-- [[Eclessia Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Eclessia/Eclessia Overview.md|Eclessia Overview]]

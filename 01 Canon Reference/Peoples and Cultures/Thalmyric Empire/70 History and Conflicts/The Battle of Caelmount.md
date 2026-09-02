@@ -39,6 +39,6 @@ Caelmount gave Caedros the legitimacy to command beyond his own league. It also 
 
 ## Navigation
 
-- [[The Refuge and the Rise of Veridun]]
-- [[The Coronation at Virelos]]
+- [[01 Canon Reference/History/60 Fall and Successor Empires/The Refuge and the Rise of Veridun.md|The Refuge and the Rise of Veridun]]
+- [[01 Canon Reference/History/60 Fall and Successor Empires/The Coronation at Virelos.md|The Coronation at Virelos]]
 - [[The Long Reconquest (908-1052 AR)]]

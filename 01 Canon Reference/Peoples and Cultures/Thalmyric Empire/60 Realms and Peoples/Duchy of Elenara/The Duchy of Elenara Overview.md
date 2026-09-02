@@ -46,4 +46,4 @@ Monastery mysteries, vineyard inheritance, ghost villages, forged charters, buri
 - [[Thalmyric Economy and the Old Heartland]]
 - [[The Layers Beneath Thalmyria]]
 - [[The Long Reconquest (908-1052 AR)]]
-- [[Thalmyric Empire Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/Thalmyric Empire Overview.md|Thalmyric Empire Overview]]

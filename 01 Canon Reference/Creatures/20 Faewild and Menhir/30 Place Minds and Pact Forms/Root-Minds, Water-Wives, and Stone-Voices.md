@@ -85,7 +85,7 @@ Green mothers, grove minds, water-wives, well daughters, river brides, stone-voi
 
 - [[Faewild and Menhir MOC]]
 - [[Oathwood Wardens]]
-- [[Sylvorn]]
-- [[Thalassor]]
+- [[01 Canon Reference/Cosmology/30 Menhir/20 Third Circle/Sylvorn.md|Sylvorn]]
+- [[01 Canon Reference/Cosmology/30 Menhir/20 Third Circle/Thalassor.md|Thalassor]]
 - [[Thin Spaces]]
 - [[Bestiary MOC]]

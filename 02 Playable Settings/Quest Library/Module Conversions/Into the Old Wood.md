@@ -20,7 +20,7 @@ tags: [module-conversion, game-ready]
 ---
 # Into the Old Wood
 
-**Source:** TC1 *Into the Haunted Forest* | **Tier:** R starter | **Region:** [[The Sylvan Marches Overview|Sylvan Marches]] | **Band:** level 1 analog
+**Source:** TC1 *Into the Haunted Forest* | **Tier:** R starter | **Region:** [[01 Canon Reference/Peoples and Cultures/Eclessia/60 Realms and Peoples/Sylvan Marches/The Sylvan Marches Overview.md|Sylvan Marches]] | **Band:** level 1 analog
 
 ## Original Adventure: Spark Notes
 

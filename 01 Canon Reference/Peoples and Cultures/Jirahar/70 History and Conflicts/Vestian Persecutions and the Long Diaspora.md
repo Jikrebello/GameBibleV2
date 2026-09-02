@@ -33,6 +33,6 @@ Church cultures remember the Jirahar through Isfir, suspicion, and collective bl
 
 ## Navigation
 
-- [[Eclessia During the Invasion]]
+- [[01 Canon Reference/Peoples and Cultures/Eclessia/70 History and Conflicts/Eclessia During the Invasion.md|Eclessia During the Invasion]]
 - [[Jirahar and the Wider World]]
 - [[Reliability Register]]

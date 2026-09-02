@@ -53,5 +53,5 @@ Under the most restorative branch, Lucan becomes a constrained but legitimate fr
 
 - [[Into the Old Wood — Full Adventure]]
 - [[Into the Old Wood]]
-- [[The Sylvan Marches Overview]]
-- [[Folk Daily Life and the Thirteen Moons]]
+- [[01 Canon Reference/Peoples and Cultures/Eclessia/60 Realms and Peoples/Sylvan Marches/The Sylvan Marches Overview.md|The Sylvan Marches Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Folk/30 Society and Daily Life/Folk Daily Life and the Thirteen Moons.md|Folk Daily Life and the Thirteen Moons]]

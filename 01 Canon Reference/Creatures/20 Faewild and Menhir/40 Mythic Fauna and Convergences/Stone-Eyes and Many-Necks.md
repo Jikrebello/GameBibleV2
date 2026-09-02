@@ -66,7 +66,7 @@ Names include stone-eye, cockatrice, quarry basilisk, still-gaze, many-neck, ree
 ## Navigation
 
 - [[Faewild and Menhir MOC]]
-- [[Hecatara]]
-- [[Typhonius]]
+- [[01 Canon Reference/Cosmology/30 Menhir/10 Second Circle/Hecatara.md|Hecatara]]
+- [[01 Canon Reference/Cosmology/30 Menhir/10 Second Circle/Typhonius.md|Typhonius]]
 - [[Elemental Manifestations Overview]]
 - [[Bestiary MOC]]

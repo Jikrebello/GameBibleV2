@@ -49,5 +49,5 @@ Place a character by city, legal status, livelihood, household or faction, faith
 
 ## Navigation
 
-- [[The Sestaran Concord Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Sestaran Concord/The Sestaran Concord Overview.md|The Sestaran Concord Overview]]
 - [[Sestaran Citizenship and Office Register]]

@@ -131,7 +131,7 @@ The blueprint uses a great weapon, heavy armour, interposition, treatment suppor
 - [[Bernard Valeon]]
 - [[Bernard Companion Campaign]]
 - [[Paladin]]
-- [[The Holy Fire]]
+- [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/20 Faith and Worldview/The Holy Fire.md|The Holy Fire]]
 - [[White Flame Doctrine]]
 - [[Bernard Field Familiarity and Relationships]]
 - [[Custom Vocation Workshop]]

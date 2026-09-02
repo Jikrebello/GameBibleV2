@@ -84,7 +84,7 @@ Way-Weaver, crossroad wife, key sister, road norn, fork speaker, and the one who
 ## Navigation
 
 - [[Faewild and Menhir MOC]]
-- [[Hecatara]]
+- [[01 Canon Reference/Cosmology/30 Menhir/10 Second Circle/Hecatara.md|Hecatara]]
 - [[Contract Magic and True Names]]
 - [[Zafir ibn Samad]]
 - [[Bestiary MOC]]

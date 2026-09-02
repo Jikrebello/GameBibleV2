@@ -23,5 +23,5 @@ Present tensions concern pasture enclosure, raider demands for supplies, foreign
 
 ## Navigation
 
-- [[Ättar Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Ättar/Ättar Overview.md|Ättar Overview]]
 - [[Winter War and the Grobi Frontier]]

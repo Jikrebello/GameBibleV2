@@ -32,8 +32,8 @@ The Faewild is creation under concentrated natural and mythic law. Its beings ar
 ## Menhir Navigation
 
 - [[The Second Circle]]: Father Sun, Mother Moon, Astaroth, Lyraxis, Orionis, Hecatara, Typhonius, and Arachnara.
-- [[The Three-Bodied God Overview]]: Sylvorn, Thalassor, Zephyraxis, and temporary Trium.
-- [[The Horsemen Overview]]: Solrath, Nevaura, Morvalis, and Veradia.
+- [[01 Canon Reference/Cosmology/30 Menhir/20 Third Circle/The Three-Bodied God Overview.md|The Three-Bodied God Overview]]: Sylvorn, Thalassor, Zephyraxis, and temporary Trium.
+- [[01 Canon Reference/Cosmology/30 Menhir/30 Fourth Circle/The Horsemen Overview.md|The Horsemen Overview]]: Solrath, Nevaura, Morvalis, and Veradia.
 - [[Relationships within the Menhir]]: portfolio convergences and pressure conflicts.
 - [[The Mythology of The Menhir]]: disputed Atherian source account.
 - [[Lesser Beings]]: distinction between sovereign, court, place-mind, fauna, and mortal pact lineage.

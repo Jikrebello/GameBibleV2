@@ -49,7 +49,7 @@ The Covenant occupation imposed genuine predation, slavery, forced contract, and
 
 ## Navigation
 
-- [[Thalmyric Empire Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/Thalmyric Empire Overview.md|Thalmyric Empire Overview]]
 - [[The Making of the Thalmyrics]]
 - [[Thalmyric Heartland - Cities, Ruins, and the Empty Interior]]
-- [[Faith and the Thalmyric Church Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/20 Faith and Worldview/Faith and the Thalmyric Church Overview.md|Faith and the Thalmyric Church Overview]]

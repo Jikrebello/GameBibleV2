@@ -40,5 +40,5 @@ Espionage, water disputes, insurgency, prisoner exchange, contract release, divi
 
 - [[Velian Culture Overview]]
 - [[The Velian Church]]
-- [[Emirate of Zanthir Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Ahl-e-Ahd/60 Realms and Peoples/Emirate of Zanthir/Emirate of Zanthir Overview.md|Emirate of Zanthir Overview]]
 - [[Zanthir and the Unfinished Reconquest]]

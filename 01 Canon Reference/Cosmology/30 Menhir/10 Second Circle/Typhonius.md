@@ -72,5 +72,5 @@ Typhonius cannot restore a routed soul, guarantee the old identity, or make coer
 - [[Stone-Eyes and Many-Necks]]
 - [[Menhir Sovereignty and Bargain]]
 - [[Lyraxis]]
-- [[Morvalis]]
+- [[01 Canon Reference/Cosmology/30 Menhir/30 Fourth Circle/Morvalis.md|Morvalis]]
 - [[The Faewild Schism]]

@@ -58,5 +58,5 @@ Her desired outcome is a bounded accident finding, rescued workers returned to r
 
 - [[No Word from Claim Seventeen — Full Adventure]]
 - [[Claim Seventeen]]
-- [[Lives of Castara]]
-- [[The Free City of Castara Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Sestaran Concord/30 Society and Daily Life/Life Paths/Lives of Castara.md|Lives of Castara]]
+- [[01 Canon Reference/Peoples and Cultures/Sestaran Concord/60 Realms and Peoples/Free City of Castara/The Free City of Castara Overview.md|The Free City of Castara Overview]]

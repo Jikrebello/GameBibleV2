@@ -19,7 +19,7 @@ Historical reading: [[Distant Lands and Otherworld Histories]], within the [[Wor
 
 - **10 Foundations:** [[The World Egg Cosmology]], [[The Great Rebellion and the Yolk Exiles]], [[Who’s Who in the Cosmology]], [[Names of the Menhir, Masks of the Idols]], and [[The Lord and Redeemer]].
 - **20 Realms and Soul-Routes:** [[Material Realm Overview]], [[Elemental Shell and the Four Planes]], the Astral Plane, [[The Vestibule of Weighing]], and [[Hell, Depth, and the Abyss]].
-- **30 Menhir:** [[Menhir Sovereignty and Bargain]], [[The Faewild Schism]], [[The Second Circle]], [[The Three-Bodied God Overview]], [[The Horsemen Overview]], [[Lesser Beings]], and the relationships between them.
+- **30 Menhir:** [[Menhir Sovereignty and Bargain]], [[The Faewild Schism]], [[The Second Circle]], [[01 Canon Reference/Cosmology/30 Menhir/20 Third Circle/The Three-Bodied God Overview.md|The Three-Bodied God Overview]], [[01 Canon Reference/Cosmology/30 Menhir/30 Fourth Circle/The Horsemen Overview.md|The Horsemen Overview]], [[Lesser Beings]], and the relationships between them.
 - **40 Idols and Adversary:** [[The Idols Overview]], [[Idol Manifestation and Feeding]], its seven powers, and [[The Adversary]].
 
 ## Start Here
@@ -66,8 +66,8 @@ Historical reading: [[Distant Lands and Otherworld Histories]], within the [[Wor
 - [[Relationships within the Menhir]]
 - [[The Mythology of The Menhir]] - disputed Atherian source text, not authorial genealogy.
 - [[The Second Circle]]
-- [[The Three-Bodied God Overview]]
-- [[The Horsemen Overview]]
+- [[01 Canon Reference/Cosmology/30 Menhir/20 Third Circle/The Three-Bodied God Overview.md|The Three-Bodied God Overview]]
+- [[01 Canon Reference/Cosmology/30 Menhir/30 Fourth Circle/The Horsemen Overview.md|The Horsemen Overview]]
 - [[Lesser Beings]]
 - [[Courts of the Folk Lands]]
 - [[Faewild and Menhir MOC]]

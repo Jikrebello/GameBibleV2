@@ -24,7 +24,7 @@ tags: [module-conversion, game-ready]
 
 **Middle:** Three branches, each a broadcast showpiece leading to one arm: the boiling-mud crossing to the dark vault where a [[Vault-Claimed]] champion keeps [[The Trophy-Arms|Cairn]]; the sunken glass bubble in the geothermal pool where a Fleshweaver crab keeps [[The Trophy-Arms|Ovation]]; and the stepped menagerie climb to the fleshwarped champion Gorreth, who is being eaten alive by [[The Trophy-Arms|Forfeit]]. The arms are prizes and liabilities at once.
 
-**End:** Completion is a job offer. The Vaunt congratulates the winners and pitches a partnership. At the same moment the [[The Pale Hand]] under-factor [[Odalie Vench]] files her claim: the Pale Hand holds the mortgage on Ashplume and title to everyone who died below, including the last several teams. The party can take the arms, decline the offer, expose the audition, free or refuse the harvest, and settle the arms' liability histories — but custody, reputation, and debt each resolve on their own terms.
+**End:** Completion is a job offer. The Vaunt congratulates the winners and pitches a partnership. At the same moment the [[01 Canon Reference/Peoples and Cultures/Sestaran Concord/60 Realms and Peoples/Citadel of Vorthara/The Pale Hand.md|The Pale Hand]] under-factor [[Odalie Vench]] files her claim: the Pale Hand holds the mortgage on Ashplume and title to everyone who died below, including the last several teams. The party can take the arms, decline the offer, expose the audition, free or refuse the harvest, and settle the arms' liability histories — but custody, reputation, and debt each resolve on their own terms.
 
 **Tier:** F/W. A faction-ladder audition wrapped around a Witcher-grade knot discovered late — the prize you were hired to fetch is the bait in someone's recruitment drive, and the floor beneath it belongs to necromancers.
 
@@ -59,7 +59,7 @@ Marlo needed a new stable and a headline to launch it. So he engineered both at 
 
 He does not care whether the arms are recovered. He cares who recovers them, and how. Every run is scried and broadcast; every contestant is being scouted. The party is not raiding a lair. They are the finalists in an audition, and the prize for winning is that the Vaunt asks them to sign.
 
-What Marlo underpriced was the floor. To fund construction cheaply he took a development loan from the [[The Pale Hand]], secured against the vent itself — and the Pale Hand's standard sub-floor clause grants it title to any body that dies below the mortgaged level. Several teams have already run the gauntlet and not come out. Their bodies did not vanish. Under-factor [[Odalie Vench]] raised them as [[Vault-Claimed]] guards and set-pieces, folding the labor cost of the dungeon into the mortgage. Marlo's audition is now staffed by its own failed applicants, and the moment anyone declares victory, Vench's claim files against everyone who fell to make that victory possible — the party included, if they fall.
+What Marlo underpriced was the floor. To fund construction cheaply he took a development loan from the [[01 Canon Reference/Peoples and Cultures/Sestaran Concord/60 Realms and Peoples/Citadel of Vorthara/The Pale Hand.md|The Pale Hand]], secured against the vent itself — and the Pale Hand's standard sub-floor clause grants it title to any body that dies below the mortgaged level. Several teams have already run the gauntlet and not come out. Their bodies did not vanish. Under-factor [[Odalie Vench]] raised them as [[Vault-Claimed]] guards and set-pieces, folding the labor cost of the dungeon into the mortgage. Marlo's audition is now staffed by its own failed applicants, and the moment anyone declares victory, Vench's claim files against everyone who fell to make that victory possible — the party included, if they fall.
 
 ## Principal Cast
 
@@ -81,7 +81,7 @@ Ashplume is governed by a compact among the Vaunt's stable, the Pale Hand lender
 
 The [[Corsin Marlo|Vaunt's operation]] is not yet an institution — it is one impresario, a stage-crew, a broker's lapsed license, and a scried gauntlet. That is exactly its danger and its appeal: Marlo is building the stable out of whoever wins, and a party that signs becomes the founding act of a rising arena house with real money behind it.
 
-The [[The Pale Hand]] is the canon necromantic faction of Vorthara, taboo but indispensable, its Black-Mud craft tied to the Adversary and its Reapers a fixture of the arenas. Here the Pale Hand is not raiding anyone. It simply lent money and wrote a clause, and the clause is doing the raiding for it. Vench is a mid-rank factor turning a construction loan into a body-farm, and she would genuinely prefer the party sign, win, and leave quietly so the harvest can continue.
+The [[01 Canon Reference/Peoples and Cultures/Sestaran Concord/60 Realms and Peoples/Citadel of Vorthara/The Pale Hand.md|The Pale Hand]] is the canon necromantic faction of Vorthara, taboo but indispensable, its Black-Mud craft tied to the Adversary and its Reapers a fixture of the arenas. Here the Pale Hand is not raiding anyone. It simply lent money and wrote a clause, and the clause is doing the raiding for it. Vench is a mid-rank factor turning a construction loan into a body-farm, and she would genuinely prefer the party sign, win, and leave quietly so the harvest can continue.
 
 ## Adventure States
 
@@ -324,7 +324,7 @@ The party takes the victory-eater and keeps it. Someone starts winning, and cann
 - [[The Trophy-Arms]]
 - [[Cinder-Bound]]
 - [[Vault-Claimed]]
-- [[The Pale Hand]]
-- [[The Citadel of Vorthara Overview]]
-- [[Lives of Vorthara]]
+- [[01 Canon Reference/Peoples and Cultures/Sestaran Concord/60 Realms and Peoples/Citadel of Vorthara/The Pale Hand.md|The Pale Hand]]
+- [[01 Canon Reference/Peoples and Cultures/Sestaran Concord/60 Realms and Peoples/Citadel of Vorthara/The Citadel of Vorthara Overview.md|The Citadel of Vorthara Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Sestaran Concord/30 Society and Daily Life/Life Paths/Lives of Vorthara.md|Lives of Vorthara]]
 - [[Quest Tier Doctrine]]

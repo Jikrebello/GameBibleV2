@@ -41,7 +41,7 @@ A canton company comes home *converted* (whole, together, mid-contract) and the 
 
 ## Navigation
 
-- [[Eclessia Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Eclessia/Eclessia Overview.md|Eclessia Overview]]
 - [[Lives of Eclessia — The Common Spine]]
-- [[The Confederation of Korrheim Overview]]
-- [[The Duchy of Brauvalis Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Eclessia/60 Realms and Peoples/Confederation of Korrheim/The Confederation of Korrheim Overview.md|The Confederation of Korrheim Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Eclessia/60 Realms and Peoples/Duchy of Brauvalis/The Duchy of Brauvalis Overview.md|The Duchy of Brauvalis Overview]]

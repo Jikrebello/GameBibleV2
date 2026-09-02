@@ -41,7 +41,7 @@ A grey-coat column refuses to march on a feast-day, in perfect discipline, holdi
 
 ## Navigation
 
-- [[The Sestaran Concord Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Sestaran Concord/The Sestaran Concord Overview.md|The Sestaran Concord Overview]]
 - [[Lives of the Concord — The Common Spine]]
-- [[The Grand Duchy of Fiorenzia Overview]]
-- [[Medori Bank]]
+- [[01 Canon Reference/Peoples and Cultures/Sestaran Concord/60 Realms and Peoples/Grand Duchy of Fiorenzia/The Grand Duchy of Fiorenzia Overview.md|The Grand Duchy of Fiorenzia Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Sestaran Concord/60 Realms and Peoples/Grand Duchy of Fiorenzia/Medori Bank.md|Medori Bank]]

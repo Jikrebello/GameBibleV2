@@ -57,7 +57,7 @@ Plague-title litigation, forbidden printing, relic trials, clerical espionage, p
 ## Navigation
 
 - [[Figures of Power]]
-- [[Lives of Aurelia]]
-- [[Eclessian Church Overview]]
-- [[Eclessia Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Eclessia/30 Society and Daily Life/Life Paths/Lives of Aurelia.md|Lives of Aurelia]]
+- [[01 Canon Reference/Peoples and Cultures/Eclessia/20 Faith and Worldview/Eclessian Church Overview.md|Eclessian Church Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Eclessia/Eclessia Overview.md|Eclessia Overview]]
 

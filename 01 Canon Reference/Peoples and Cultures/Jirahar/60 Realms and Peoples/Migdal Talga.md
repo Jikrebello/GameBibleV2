@@ -49,4 +49,4 @@ The current charter protects internal law but gives the host crown an ambiguous 
 
 - [[The Talga Folios]]
 - [[Grenzburg MOC]]
-- [[Eclessia Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Eclessia/Eclessia Overview.md|Eclessia Overview]]

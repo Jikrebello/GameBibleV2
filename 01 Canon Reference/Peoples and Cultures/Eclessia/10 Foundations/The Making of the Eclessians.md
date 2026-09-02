@@ -27,7 +27,7 @@ There is no such thing as "an Eclessian" in the same sense that there is an Ätt
 
 **4. The Markish stock.** Born in the imperial age from garrison settlers and Folk intermarriage along the military frontier, they are a hard-handed, clan-proud, castle-building synthesis. Their naming register includes Korrheim, Brauvalis, Grenzburg, Adalmar, Reinhardt, and Weyn. Adalmar the Great was Markish, and the marches remember that Eclessia's greatest dynasty came from its roughest stock.
 
-**5. The raided coasts (no settled Ättar creole).** The Ättar raiding age fell in the Age of Decadence (c. 400–540 AR) and never wholly ended, and Eclessia's southern shore has always watched the horizon in hard winters. But Eclessia is the far side of the continent from the principal Ättar sea-road; its coasts were *raided*, not *settled*, and never grew a distinct raid-then-settle people. The baptized Ättar coast-creole — the **[[The Saltborn Coast Overview|Saltborn]]** — formed instead on western Kedrava, where the keels repeatedly landed and stayed.
+**5. The raided coasts (no settled Ättar creole).** The Ättar raiding age fell in the Age of Decadence (c. 400–540 AR) and never wholly ended, and Eclessia's southern shore has always watched the horizon in hard winters. But Eclessia is the far side of the continent from the principal Ättar sea-road; its coasts were *raided*, not *settled*, and never grew a distinct raid-then-settle people. The baptized Ättar coast-creole — the **[[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/60 Realms and Peoples/The Saltborn Coast Overview.md|Saltborn]]** — formed instead on western Kedrava, where the keels repeatedly landed and stayed.
 
 **6. The Thalmyric edge.** Along the western border: refugee waves from the Fall (905), schism-exiles moving both directions since 1015, and border parishes that swap rites depending on who last held the valley.
 
@@ -36,7 +36,7 @@ There is no such thing as "an Eclessian" in the same sense that there is an Ätt
 - **Aurelia, Veridancia:** Latinate core — old provincial civilization, church power, scholastic culture.
 - **Virelia:** Vesari substrate under a Latinate-Markish crown veneer; elective, cavalry-proud, east-facing.
 - **Korrheim, Brauvalis, Ironvale, Grenzburg's duchy:** Markish — guild towns, cantons, marcher lords, the Reformation's cradle (Ansgar was a marches friar; the register is his).
-- **The southern coasts:** a raided, Folk-fringed frontier — watchtowers and beacon-levies, not a settled sea-people (the Ättar coast-creole is Thalmyric; see [[The Saltborn Coast Overview]]).
+- **The southern coasts:** a raided, Folk-fringed frontier — watchtowers and beacon-levies, not a settled sea-people (the Ättar coast-creole is Thalmyric; see [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/60 Realms and Peoples/The Saltborn Coast Overview.md|The Saltborn Coast Overview]]).
 - **The Sylvan Marches:** Folk substrate remains institutionally visible, with old-rite Enaidfae and Chapel-Folk communities only intermittently governed from the settled east.
 
 ## The Choosing at Strazgorod (1061 AR)
@@ -56,9 +56,9 @@ Ethnic layering is Eclessia's political physics: Markish reform against Latinate
 
 ## Navigation
 
-- [[Eclessia Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Eclessia/Eclessia Overview.md|Eclessia Overview]]
 - [[Eclessia Cultural Thesis]]
 - [[Ethnic Groups Overview]]
-- [[The Folk of the Frontier and the Wolfsmere Lineage]]
+- [[01 Canon Reference/Peoples and Cultures/Folk/30 Society and Daily Life/The Folk of the Frontier and the Wolfsmere Lineage.md|The Folk of the Frontier and the Wolfsmere Lineage]]
 - [[The Folk Overview]]
 - [[Named Figures of the Known World]]

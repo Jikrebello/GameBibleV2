@@ -23,6 +23,6 @@ The [[The Velian Church|Velian Church]] is their principal native communion, but
 
 ## Navigation
 
-- [[The Velian States Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Velian/60 Realms and Peoples/Velian States/The Velian States Overview.md|The Velian States Overview]]
 - [[The Velian Church]]
 - [[The People of the Lamp]]

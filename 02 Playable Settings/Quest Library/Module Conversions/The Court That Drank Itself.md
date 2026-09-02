@@ -127,7 +127,7 @@ This adventure requires no clue, artifact, cast member, faction, or outcome from
 - [[Many-Handed Tribute Wardens]]
 - [[Wax-Bound Courtiers]]
 - [[The Qahuri]]
-- [[The Jirahar Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Jirahar/The Jirahar Overview.md|The Jirahar Overview]]
 - [[Gazetteer of the Known World]]
 - [[Setting Commandments]]
 

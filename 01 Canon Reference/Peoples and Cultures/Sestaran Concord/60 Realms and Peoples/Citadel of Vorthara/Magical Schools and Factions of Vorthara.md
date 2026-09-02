@@ -34,4 +34,4 @@ Not every practice is lawful within every ward. “Vorthara permits it” usuall
 ## Navigation
 
 - [[The Citadel of Vorthara Overview]]
-- [[Lives of Vorthara]]
+- [[01 Canon Reference/Peoples and Cultures/Sestaran Concord/30 Society and Daily Life/Life Paths/Lives of Vorthara.md|Lives of Vorthara]]

@@ -29,5 +29,5 @@ Moon-Seers identify signs and advise restraint. Their testimony can justify a be
 
 ## Navigation
 
-- [[Ättar Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Ättar/Ättar Overview.md|Ättar Overview]]
 - [[The Path of the Skinwalker]]

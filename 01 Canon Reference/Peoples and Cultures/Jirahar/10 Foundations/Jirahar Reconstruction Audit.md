@@ -48,7 +48,7 @@ Every remaining active match outside the rules above was reviewed and retained b
 
 ## Authority Ruling
 
-Authority descends through [[Chronology of the Known World (AR Dating)]], [[Historical Spine of the Jirahar]], [[Jirahar Canon Register]], [[The Jirahar Overview]], and the specialist law, tower, and social authorities. Adventures and in-world sources yield when they conflict unless the disagreement is explicitly preserved as testimony.
+Authority descends through [[Chronology of the Known World (AR Dating)]], [[Historical Spine of the Jirahar]], [[Jirahar Canon Register]], [[01 Canon Reference/Peoples and Cultures/Jirahar/The Jirahar Overview.md|The Jirahar Overview]], and the specialist law, tower, and social authorities. Adventures and in-world sources yield when they conflict unless the disagreement is explicitly preserved as testimony.
 
 ## Archive
 
@@ -56,6 +56,6 @@ The source snapshot is documented by [[Jirahar - 2026-07 Pre-Reconstruction Arch
 
 ## Navigation
 
-- [[The Jirahar Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Jirahar/The Jirahar Overview.md|The Jirahar Overview]]
 - [[Canon Index]]
 - [[Current Focus Board]]

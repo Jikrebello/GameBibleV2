@@ -124,8 +124,8 @@ The bone-field is centuries of drake-dead settling their law into the vale — n
 
 - **Stacked seasons:** patches of vale where two seasons hold at once — frost and bloom in one meadow — because the field's timekeeping is slipping. Passable, disorienting, occasionally dangerous.
 - **The circling game:** deer and goats walking perfect circles, birds wheeling one way; a sign of law running without a keeper, and a warning of what happens to people who linger too long.
-- **Leaking moon-law:** by night, a century-dead silver drake's moon-law bleeds up — unnatural moonlight, stillness the [[Silver Drakes|silver court]] is known for, and a pull toward sleep or wandering that a careful party resists and a careless one does not.
-- **The sun-scald:** near the great gold drake's half-harvested body, the days run hot and bright with leaked sun-law, per [[Gold Drakes|the gold court]] — heat-shimmer, glare, hoarding-madness in anyone who pockets a loose gem.
+- **Leaking moon-law:** by night, a century-dead silver drake's moon-law bleeds up — unnatural moonlight, stillness the [[01 Canon Reference/Creatures/20 Faewild and Menhir/10 Drakes/Silver Drakes.md|silver court]] is known for, and a pull toward sleep or wandering that a careful party resists and a careless one does not.
+- **The sun-scald:** near the great gold drake's half-harvested body, the days run hot and bright with leaked sun-law, per [[01 Canon Reference/Creatures/20 Faewild and Menhir/10 Drakes/Gold Drakes.md|the gold court]] — heat-shimmer, glare, hoarding-madness in anyone who pockets a loose gem.
 
 ### The Gemfallen
 
@@ -244,7 +244,7 @@ Kyra is not fixed by rescue. Her best outcome is a vocation she can hold with he
 - [[The Gemfallen]]
 - [[The Vharo Concession]]
 - [[Drakes Overview]]
-- [[Thalmyric Empire Overview]]
-- [[Thalmyric Military Orders]]
+- [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/Thalmyric Empire Overview.md|Thalmyric Empire Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/50 Economy and Warfare/Thalmyric Military Orders.md|Thalmyric Military Orders]]
 - [[The Concord of Weights]]
 - [[Quest Tier Doctrine]]

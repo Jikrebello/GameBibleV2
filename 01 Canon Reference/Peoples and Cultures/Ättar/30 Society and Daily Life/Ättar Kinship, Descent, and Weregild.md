@@ -37,5 +37,5 @@ Weregild limits feuds but does not make the hierarchy just. Refusal, inability t
 
 ## Navigation
 
-- [[Ättar Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Ättar/Ättar Overview.md|Ättar Overview]]
 - [[Halls, Jarls, and Chief-Kings]]

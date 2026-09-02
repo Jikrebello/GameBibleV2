@@ -57,7 +57,7 @@ Merewick supports flood rescues, winter relief, missing ferries, disputed peat f
 ## Navigation
 
 - [[Wanemoor District]]
-- [[The Duchy of Brauvalis Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Eclessia/60 Realms and Peoples/Duchy of Brauvalis/The Duchy of Brauvalis Overview.md|The Duchy of Brauvalis Overview]]
 - [[Gazetteer of the Known World]]
 - [[The Reed-Crown Feast]]
 - [[The Feast at Wanemoor — Full Adventure]]

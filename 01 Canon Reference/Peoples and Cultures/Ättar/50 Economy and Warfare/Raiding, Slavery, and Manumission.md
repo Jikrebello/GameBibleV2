@@ -31,5 +31,5 @@ Foreign markets buy and sell Ättar as well. Captured raiders appear as oarsmen,
 
 ## Navigation
 
-- [[Ättar Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Ättar/Ättar Overview.md|Ättar Overview]]
 - [[Ättar and the Wider World]]

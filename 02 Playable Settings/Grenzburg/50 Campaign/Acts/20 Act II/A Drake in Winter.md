@@ -130,6 +130,6 @@ Completion reopens Southwood in a dangerous changed winter state, enables the se
 
 - [[The Emerald Trail]]
 - [[Emerald Law-Gem Custody Matrix]]
-- [[Emerald Drakes]]
+- [[01 Canon Reference/Creatures/20 Faewild and Menhir/10 Drakes/Emerald Drakes.md|Emerald Drakes]]
 - [[Break the Southern Horn]]
 - [[Main Campaign MOC]]

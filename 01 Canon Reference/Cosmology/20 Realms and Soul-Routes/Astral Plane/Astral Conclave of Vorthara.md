@@ -21,9 +21,9 @@ It is a recurring market compact assembled during alignments between the Black S
 
 No faction controls the whole market.
 
-- [[Collegium of Doors]] proves routes, contains arrivals, and certifies exits.
-- [[The Nightveil Coven]] identifies Shadow counterfeits, residue, and impersonation risks.
-- [[The Ironbound Guild]] supplies non-conscious frames, proof boxes, and mass-handling equipment.
+- [[01 Canon Reference/Peoples and Cultures/Sestaran Concord/60 Realms and Peoples/Citadel of Vorthara/Collegium of Doors.md|Collegium of Doors]] proves routes, contains arrivals, and certifies exits.
+- [[01 Canon Reference/Peoples and Cultures/Sestaran Concord/60 Realms and Peoples/Citadel of Vorthara/The Nightveil Coven.md|The Nightveil Coven]] identifies Shadow counterfeits, residue, and impersonation risks.
+- [[01 Canon Reference/Peoples and Cultures/Sestaran Concord/60 Realms and Peoples/Citadel of Vorthara/The Ironbound Guild.md|The Ironbound Guild]] supplies non-conscious frames, proof boxes, and mass-handling equipment.
 - independent brokers provide translation, surety, names, and clients.
 - the Wardens of the Crown Road protect the physical ascent without legislating inside the Annex.
 
@@ -76,8 +76,8 @@ The Conclave makes Vorthara the setting's most practical interface with patrons 
 
 ## Navigation
 
-- [[The Citadel of Vorthara Overview]]
-- [[Collegium of Doors]]
+- [[01 Canon Reference/Peoples and Cultures/Sestaran Concord/60 Realms and Peoples/Citadel of Vorthara/The Citadel of Vorthara Overview.md|The Citadel of Vorthara Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Sestaran Concord/60 Realms and Peoples/Citadel of Vorthara/Collegium of Doors.md|Collegium of Doors]]
 - [[Patrons]]
 - [[Taxonomy of Egg White Patrons]]
 - [[Demiplane Atlas]]

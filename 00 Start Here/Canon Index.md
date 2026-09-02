@@ -41,16 +41,16 @@ Use this as the main doorway into the world bible.
 - [[Grenzburg Game Constitution]]
 - [[Grenzburg Campaign Spine]]
 - [[Quest and Content Architecture]]
-- [[The Grey Sweat]]
+- [[01 Canon Reference/History/70 Later History and Present Day/The Grey Sweat.md|The Grey Sweat]]
 - [[The Korrheim Accord]]
 - [[Freeflame Reformation]]
-- [[The Ahl-e-Ahd Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Ahl-e-Ahd/The Ahl-e-Ahd Overview.md|The Ahl-e-Ahd Overview]]
 - [[Ahl-e-Ahd Canon Register]]
 - [[Velian Culture Overview]]
-- [[The Sestaran Concord Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Sestaran Concord/The Sestaran Concord Overview.md|The Sestaran Concord Overview]]
 - [[Sestaran Canon Register]]
 - [[The Seven-Seal Defensive Muster]]
-- [[The Jirahar Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Jirahar/The Jirahar Overview.md|The Jirahar Overview]]
 - [[Jirahar Canon Register]]
 - [[Historical Spine of the Jirahar]]
 - [[Needs Work]]
@@ -69,4 +69,4 @@ Use this as the main doorway into the world bible.
 
 ## Archive and Provenance
 
-- [[Archive Index]]
+- [[90 Archive & Drafts/Archive Index.md|Archive Index]]

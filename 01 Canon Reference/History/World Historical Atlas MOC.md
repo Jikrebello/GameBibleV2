@@ -50,6 +50,10 @@ A village can really preserve a broken tool and sing about a murdered founder wi
 - [[Additional Mortal Lives and Frontier Traditions]] — household stories, local heroes, artisans, coercive rulers and recovered reserve material.
 - [[Present-Day Courts and Crowns (1360 AR)]] and [[Present-Day Political Board]] — what that inheritance has become, without deciding what happens next.
 
+## A Coast Across the Ages
+
+[[History of the Tidewood Coast]] follows the same shore communities from the Giant collapse to 1360. Begin at [[Tidewood Coast]], then visit [[Brackenmouth]], [[Rookstrand]] and [[Keldscar and Gannet Head]]. Their history connects household work, changing fleets, captivity, rescue, sea powers and a disputed timber trade. [[Sails, Fish and Winter Fire]] and [[The Boat Too Fine for Water]] show what people do and tell between the better-known catastrophes.
+
 ## Tales that outlived their tellers
 
 [[Myths and Legendary Histories MOC]] contains all seventy-five localized Garden traditions. Their remainders include games, meals, scarred ground, clothing, tools, ruined buildings and customs. The tale explains why the remainder matters; it is not merely evidence waiting for an adventurer.
@@ -92,3 +96,4 @@ Every earlier history article is linked beneath its principal age. The [[World H
 
 The Atlas fixes historical events and their consequences at useful scales. A title or a date range can be authoritative even when a person's private name or a settlement's exact coordinates are still undecided.
 
+The [[Dependable Navigation - Review and Repair Ledger]] records the reader-era link cleanup. [[Tidewood Historical Development - Authorial Review]] records the regional depth example's historical additions, source boundaries and supernatural distinctions.

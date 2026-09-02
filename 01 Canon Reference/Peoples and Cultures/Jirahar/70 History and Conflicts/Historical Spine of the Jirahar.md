@@ -55,7 +55,7 @@ Five living great towers remain. Qiryath is empty by law. High Keeper Zerahiah h
 
 - [[Chronology of the Known World (AR Dating)]]
 - [[The Making of the Jirahar]]
-- [[Tower Towns and the Prophet's Roads]]
+- [[01 Canon Reference/Peoples and Cultures/Jirahar/60 Realms and Peoples/Tower Towns and the Prophet's Roads.md|Tower Towns and the Prophet's Roads]]
 
 ## Historical Atlas — wider inheritance
 

@@ -18,7 +18,7 @@ Odalie Vench is a Pale Hand **under-factor** — a lending-and-collections offic
 
 ## The Clause
 
-The [[The Pale Hand]] lent [[Corsin Marlo]] the money to reopen and rebuild Ashplume, secured against the vent. The Pale Hand's standard **sub-floor clause** grants it title to any body that dies below the mortgaged level. It is a clean, legal, and monstrous instrument, written to catch desperate ventures at the moment they cost someone their life.
+The [[01 Canon Reference/Peoples and Cultures/Sestaran Concord/60 Realms and Peoples/Citadel of Vorthara/The Pale Hand.md|The Pale Hand]] lent [[Corsin Marlo]] the money to reopen and rebuild Ashplume, secured against the vent. The Pale Hand's standard **sub-floor clause** grants it title to any body that dies below the mortgaged level. It is a clean, legal, and monstrous instrument, written to catch desperate ventures at the moment they cost someone their life.
 
 Vench administers dozens of such loans across the geothermal district. Ashplume is her best-performing note, because it was built to kill contestants and then broadcast the killing as sport, and every fallen team pays the loan in bodies.
 
@@ -58,4 +58,4 @@ Vench can become a discredited factor pulled back to Vorthara for review, a last
 - [[Corsin Marlo]]
 - [[Vault-Claimed]]
 - [[The Ashplume Vault]]
-- [[The Pale Hand]]
+- [[01 Canon Reference/Peoples and Cultures/Sestaran Concord/60 Realms and Peoples/Citadel of Vorthara/The Pale Hand.md|The Pale Hand]]

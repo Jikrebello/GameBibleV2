@@ -26,13 +26,13 @@ That real good exists beside grave corruption. Conquest contracts, inherited ser
 
 ## Faith and the Fourth Seal
 
-[[Al-Ahdiya Overview|Al-Ahdiya]] teaches that creation rests upon the Great Covenant revealed to Mujalib by Malak al-Ahd. [[The Disputed Fourth Seal]] divides the faithful between the majority [[The Witnessed Seal|Witnessed Seal]] and the minority [[The Sealed Blood|Sealed Blood]]. Iqashar and Al-Qahur follow the Witnessed Seal; Qazmarid is the great Sealed-Blood counter-caliphate; Zanthir is predominantly Witnessed but plural.
+[[01 Canon Reference/Peoples and Cultures/Ahl-e-Ahd/20 Faith and Worldview/Al-Ahdiya Overview.md|Al-Ahdiya]] teaches that creation rests upon the Great Covenant revealed to Mujalib by Malak al-Ahd. [[The Disputed Fourth Seal]] divides the faithful between the majority [[The Witnessed Seal|Witnessed Seal]] and the minority [[The Sealed Blood|Sealed Blood]]. Iqashar and Al-Qahur follow the Witnessed Seal; Qazmarid is the great Sealed-Blood counter-caliphate; Zanthir is predominantly Witnessed but plural.
 
 Recognized communities devoted to the Redeemer are called [[The People of the Lamp]]. Their protection is real, unequal, and vulnerable to political abuse.
 
 ## States and Power
 
-[[Ahl-e-Ahd Caliphates|The Covenant Political Order]] indexes the present states. [[The Qahirid Suzerainty and Iqashar]] controls the imperial center. [[Al-Qahur and the Sacred Basin]] supplies grain, pilgrimage, and sacred legitimacy. [[Qazmarid and the Sealed Blood]] rejects Qahirid universal rule. [[Emirate of Zanthir Overview|Zanthir]] survives by commerce, mixed law, and divided tribute. [[The Velian States Overview|The Velian States]] remain a contested client belt rather than empty unrecovered land.
+[[01 Canon Reference/Peoples and Cultures/Ahl-e-Ahd/40 Government and Institutions/Ahl-e-Ahd Caliphates.md|The Covenant Political Order]] indexes the present states. [[The Qahirid Suzerainty and Iqashar]] controls the imperial center. [[Al-Qahur and the Sacred Basin]] supplies grain, pilgrimage, and sacred legitimacy. [[Qazmarid and the Sealed Blood]] rejects Qahirid universal rule. [[01 Canon Reference/Peoples and Cultures/Ahl-e-Ahd/60 Realms and Peoples/Emirate of Zanthir/Emirate of Zanthir Overview.md|Zanthir]] survives by commerce, mixed law, and divided tribute. [[01 Canon Reference/Peoples and Cultures/Velian/60 Realms and Peoples/Velian States/The Velian States Overview.md|The Velian States]] remain a contested client belt rather than empty unrecovered land.
 
 ## Life, Work, and War
 

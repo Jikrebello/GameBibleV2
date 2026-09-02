@@ -74,7 +74,7 @@ Headmaster **Toff Ornelos** knows that his supposedly immortal ancestor still co
 
 ## Exact World Egg Placement
 
-**The conversion:** Vorthara's schools hold **Breach-Week**, a sanctioned trial in which crews breach staged defenses for prizes, licenses, sponsorships, and recruitment. The hosting [[Collegium of Doors]] possesses an adaptive ward-engine that has learned from every contestant ever sent through it. Failed challengers were not simply killed: their magical patterns and memories remain trapped inside the engine's folded annex. This year the party becomes the first crew capable of reaching the intelligence at its center, [[The Examiner]].
+**The conversion:** Vorthara's schools hold **Breach-Week**, a sanctioned trial in which crews breach staged defenses for prizes, licenses, sponsorships, and recruitment. The hosting [[01 Canon Reference/Peoples and Cultures/Sestaran Concord/60 Realms and Peoples/Citadel of Vorthara/Collegium of Doors.md|Collegium of Doors]] possesses an adaptive ward-engine that has learned from every contestant ever sent through it. Failed challengers were not simply killed: their magical patterns and memories remain trapped inside the engine's folded annex. This year the party becomes the first crew capable of reaching the intelligence at its center, [[The Examiner]].
 
 **The torque:** Vorthara built a test that improves by consuming failure and mistook increasing lethality for proof of excellence. Breaking the Examiner can free its captives, but every defense it has stored will lose containment at once. The final problem is not who signs for the damage; it is whether the party saves the people outside, the people trapped within, the institution that enabled it, or only themselves.
 
@@ -83,7 +83,7 @@ Headmaster **Toff Ornelos** knows that his supposedly immortal ancestor still co
 ## Translation
 
 - [[Breach-Week — Full Adventure]]
-- [[Collegium of Doors]]
+- [[01 Canon Reference/Peoples and Cultures/Sestaran Concord/60 Realms and Peoples/Citadel of Vorthara/Collegium of Doors.md|Collegium of Doors]]
 - [[Rector Ilyra Sorn]]
 - [[Arcanist Odran Vale]]
 - [[The Examiner]]
@@ -99,7 +99,7 @@ Headmaster **Toff Ornelos** knows that his supposedly immortal ancestor still co
 ## Controlling Canon
 
 - [[Sestaran Canon Register]]
-- [[The Citadel of Vorthara Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Sestaran Concord/60 Realms and Peoples/Citadel of Vorthara/The Citadel of Vorthara Overview.md|The Citadel of Vorthara Overview]]
 
 ## Blocking Needs
 

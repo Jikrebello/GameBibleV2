@@ -34,7 +34,7 @@ tags: [module-conversion, game-ready]
 
 - **Who:** the player crew; heir Lucan Harrowfen; his cousin Sabine Harrowfen; Eydis Grey-Withy; ranger Ansel Reed; the Briar Lances; and the memory of Alda Grey-Withy.
 - **What:** recover Waybrand, the Rain Cup, and the Stag Seal before the Harrowfen moot, then decide whether their return proves ownership or restitution.
-- **Where:** Harrowfen in the [[The Sylvan Marches Overview|Sylvan Marches]], the Last Lantern, the Old Hart Road, Coldwater Mill, and Hartrest Lodge inside the Old Wood.
+- **Where:** Harrowfen in the [[01 Canon Reference/Peoples and Cultures/Eclessia/60 Realms and Peoples/Sylvan Marches/The Sylvan Marches Overview.md|Sylvan Marches]], the Last Lantern, the Old Hart Road, Coldwater Mill, and Hartrest Lodge inside the Old Wood.
 - **Why the party acts:** Lucan offers honest pay and standing in the Marches; the Rangers need neutral outsiders; Eydis asks the party to make the truth unavoidable; or the crew needs a first commission that does not require military service.
 - **Why the danger exists:** Othmar Harrowfen swore a witnessed compact for his survival and later broke every term. The Old Wood is a [[Thin Spaces|Faewild thin space]] whose territorial memory still enforces the forfeit.
 - **How it escalates:** the competing crews disturb the sites, the wood begins assigning them the old participants' roles, and Lucan learns that receiving the relics will bind him to restitution his estate can barely afford.
@@ -322,8 +322,8 @@ A player character accepts the compact in place of either heir. The wood grants 
 - [[Lord Lucan Harrowfen]]
 - [[The Briar Lances]]
 - [[Oathwood Wardens]]
-- [[The Sylvan Marches Overview]]
-- [[Folk Daily Life and the Thirteen Moons]]
-- [[Sylvorn]]
+- [[01 Canon Reference/Peoples and Cultures/Eclessia/60 Realms and Peoples/Sylvan Marches/The Sylvan Marches Overview.md|The Sylvan Marches Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Folk/30 Society and Daily Life/Folk Daily Life and the Thirteen Moons.md|Folk Daily Life and the Thirteen Moons]]
+- [[01 Canon Reference/Cosmology/30 Menhir/20 Third Circle/Sylvorn.md|Sylvorn]]
 - [[Thin Spaces]]
 - [[Quest Tier Doctrine]]

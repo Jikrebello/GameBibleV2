@@ -66,7 +66,7 @@ Regional names include sky-lion, cliff griffon, horse-eagle, white crown, moon-m
 ## Navigation
 
 - [[Faewild and Menhir MOC]]
-- [[Orionis]]
-- [[Zephyraxis]]
+- [[01 Canon Reference/Cosmology/30 Menhir/10 Second Circle/Orionis.md|Orionis]]
+- [[01 Canon Reference/Cosmology/30 Menhir/20 Third Circle/Zephyraxis.md|Zephyraxis]]
 - [[Drakes Overview]]
 - [[Bestiary MOC]]

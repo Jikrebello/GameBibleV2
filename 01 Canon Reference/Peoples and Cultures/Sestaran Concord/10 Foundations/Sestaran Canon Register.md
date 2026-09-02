@@ -51,5 +51,5 @@ Direct historical and game-setting comparisons belong only in [[Real-History Con
 
 ## Navigation
 
-- [[The Sestaran Concord Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Sestaran Concord/The Sestaran Concord Overview.md|The Sestaran Concord Overview]]
 - [[Sestaran Reconstruction Audit]]

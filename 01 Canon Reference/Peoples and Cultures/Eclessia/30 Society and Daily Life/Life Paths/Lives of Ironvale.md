@@ -45,6 +45,6 @@ A deep gallery breaks into worked stone nobody dug; the exiled bishop announces 
 
 ## Navigation
 
-- [[Eclessia Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Eclessia/Eclessia Overview.md|Eclessia Overview]]
 - [[Lives of Eclessia — The Common Spine]]
-- [[The Ironvale Dominion Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Eclessia/60 Realms and Peoples/Ironvale Dominion/The Ironvale Dominion Overview.md|The Ironvale Dominion Overview]]

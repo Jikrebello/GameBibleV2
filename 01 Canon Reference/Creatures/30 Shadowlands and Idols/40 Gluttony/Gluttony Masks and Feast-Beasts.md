@@ -70,7 +70,7 @@ Banquet Tyrants are autonomous Archmasks that present as monumental hosts: many-
 
 ## Boundary with Natural Decay
 
-Feast-beasts can exploit rot, infestation, or plague, but they do not cause those ecologies by default. [[Veradia]] governs infection and proliferating life; [[Morvalis]] governs bodily death and decomposition; Material hunger remains a physical condition before it becomes an Idol architecture.
+Feast-beasts can exploit rot, infestation, or plague, but they do not cause those ecologies by default. [[01 Canon Reference/Cosmology/30 Menhir/30 Fourth Circle/Veradia.md|Veradia]] governs infection and proliferating life; [[01 Canon Reference/Cosmology/30 Menhir/30 Fourth Circle/Morvalis.md|Morvalis]] governs bodily death and decomposition; Material hunger remains a physical condition before it becomes an Idol architecture.
 
 ## Navigation
 

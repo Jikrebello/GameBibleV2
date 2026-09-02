@@ -49,4 +49,4 @@ The Hold may be resealed, memorialized, reclaimed as a watch, or left under loca
 - [[Wolfsmere Woods]]
 - [[Moss-Crown Mootground]]
 - [[The Reed Court of Wolfsmere]]
-- [[The Folk of the Frontier and the Wolfsmere Lineage]]
+- [[01 Canon Reference/Peoples and Cultures/Folk/30 Society and Daily Life/The Folk of the Frontier and the Wolfsmere Lineage.md|The Folk of the Frontier and the Wolfsmere Lineage]]

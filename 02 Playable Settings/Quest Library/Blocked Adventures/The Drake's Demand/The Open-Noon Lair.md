@@ -79,5 +79,5 @@ Extracting it for immediate sale, weapons, or private research risks fire, terri
 - [[The Meridian Mirror]]
 - [[Abbey of the Vigilant Bell]]
 - [[Crypt of Dame Sabine]]
-- [[Gold Drakes]]
+- [[01 Canon Reference/Creatures/20 Faewild and Menhir/10 Drakes/Gold Drakes.md|Gold Drakes]]
 

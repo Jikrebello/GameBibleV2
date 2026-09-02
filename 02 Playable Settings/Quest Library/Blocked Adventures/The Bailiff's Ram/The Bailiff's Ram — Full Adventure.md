@@ -82,7 +82,7 @@ By then Nera had expanded the system. Debtors unable to pay were offered collect
 
 ### Canon Authority Ruling
 
-The House is an independent Vortharan school descended from the Fleshweaver tradition described in [[The Fleshweavers and The Red Covenant]]. Its recovery officers enforce House covenants, lodge rules, and reciprocal agreements with a few neighboring schools. Nera Voss is the House's bailiff, not a municipal officer, and her writ has no automatic force outside those relationships.
+The House is an independent Vortharan school descended from the Fleshweaver tradition described in [[01 Canon Reference/Peoples and Cultures/Sestaran Concord/60 Realms and Peoples/Citadel of Vorthara/The Fleshweavers and The Red Covenant.md|The Fleshweavers and The Red Covenant]]. Its recovery officers enforce House covenants, lodge rules, and reciprocal agreements with a few neighboring schools. Nera Voss is the House's bailiff, not a municipal officer, and her writ has no automatic force outside those relationships.
 
 The [[House of Mutable Form]] is a minor Vortharan teaching-house specializing in reversible bodies for dangerous labor, surgery, performance, infiltration, and arena use. It is licensed, profitable, academically serious, and morally compromised.
 
@@ -426,7 +426,7 @@ The party returns everything quietly in exchange for full restoration and paymen
 - [[Reversion Crook]]
 - [[Collateral Beasts]]
 - [[Form-Ruins]]
-- [[Lives of Vorthara]]
-- [[The Citadel of Vorthara Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Sestaran Concord/30 Society and Daily Life/Life Paths/Lives of Vorthara.md|Lives of Vorthara]]
+- [[01 Canon Reference/Peoples and Cultures/Sestaran Concord/60 Realms and Peoples/Citadel of Vorthara/The Citadel of Vorthara Overview.md|The Citadel of Vorthara Overview]]
 - [[Contract Magic and True Names]]
 - [[Quest Tier Doctrine]]

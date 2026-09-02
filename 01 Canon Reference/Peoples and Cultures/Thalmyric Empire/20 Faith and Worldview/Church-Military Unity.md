@@ -50,7 +50,7 @@ The Church can turn military necessity into permanent spiritual emergency. The a
 ## Navigation
 
 - [[Thalmyric Armies and the Long Frontier]]
-- [[Thalmyric Military Orders]]
+- [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/50 Economy and Warfare/Thalmyric Military Orders.md|Thalmyric Military Orders]]
 - [[The Holy Fire]]
 - [[The Long Reconquest (908-1052 AR)]]
 - [[Warlock Rune Magic]]

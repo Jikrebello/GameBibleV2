@@ -125,5 +125,5 @@ Shinebright remains a prisoner in his own garden for two years. When Noke leaves
 ## Controlling Canon
 
 - [[Sestaran Canon Register]]
-- [[The Citadel of Vorthara Overview]]
-- [[The Fleshweavers and The Red Covenant]]
+- [[01 Canon Reference/Peoples and Cultures/Sestaran Concord/60 Realms and Peoples/Citadel of Vorthara/The Citadel of Vorthara Overview.md|The Citadel of Vorthara Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Sestaran Concord/60 Realms and Peoples/Citadel of Vorthara/The Fleshweavers and The Red Covenant.md|The Fleshweavers and The Red Covenant]]

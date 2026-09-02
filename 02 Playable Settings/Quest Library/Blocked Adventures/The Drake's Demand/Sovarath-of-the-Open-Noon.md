@@ -14,7 +14,7 @@ tags: [module-conversion, game-ready, unique-antagonist]
 ---
 # Sovarath-of-the-Open-Noon
 
-Sovarath is a rare sapient elder [[Gold Drakes|gold drake]] and the principal antagonist of [[The Drake's Demand — Full Adventure]]. It is the same animal [[Dame Sabine Heller]] grievously wounded beneath the future site of [[Hellerbruck]] in 1117 AR.
+Sovarath is a rare sapient elder [[01 Canon Reference/Creatures/20 Faewild and Menhir/10 Drakes/Gold Drakes.md|gold drake]] and the principal antagonist of [[The Drake's Demand — Full Adventure]]. It is the same animal [[Dame Sabine Heller]] grievously wounded beneath the future site of [[Hellerbruck]] in 1117 AR.
 
 ## From Animal to Elder
 
@@ -71,7 +71,7 @@ If killed, its law-gem must be stabilized within the nesting court. Immediate ha
 - [[The Drake's Demand — Full Adventure]]
 - [[The Open-Noon Lair]]
 - [[The Meridian Mirror]]
-- [[Gold Drakes]]
+- [[01 Canon Reference/Creatures/20 Faewild and Menhir/10 Drakes/Gold Drakes.md|Gold Drakes]]
 - [[Drakes Overview]]
-- [[Father Sun]]
+- [[01 Canon Reference/Cosmology/30 Menhir/10 Second Circle/Father Sun.md|Father Sun]]
 

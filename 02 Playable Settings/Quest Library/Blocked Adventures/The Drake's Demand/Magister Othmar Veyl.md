@@ -52,4 +52,4 @@ Using his knowledge does not require defending his conduct. Compensation to his 
 - [[House of Veyl]]
 - [[The Meridian Mirror]]
 - [[Sovarath-of-the-Open-Noon]]
-- [[Gold Drakes]]
+- [[01 Canon Reference/Creatures/20 Faewild and Menhir/10 Drakes/Gold Drakes.md|Gold Drakes]]

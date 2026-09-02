@@ -55,5 +55,5 @@ Rika expects respect, direct speech, and safe conduct for wounded. She can be bo
 - [[The Accord's Hollow Keep — Full Adventure]]
 - [[Hollow Keep]]
 - [[Magistra Sabine Krail]]
-- [[The Confederation of Korrheim Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Eclessia/60 Realms and Peoples/Confederation of Korrheim/The Confederation of Korrheim Overview.md|The Confederation of Korrheim Overview]]
 

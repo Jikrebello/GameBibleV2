@@ -46,4 +46,4 @@ Fortress trials, border patrols, disputed villages, military archaeology, prison
 - [[Kalzaret, Bastion of the Returning Road]]
 - [[Thalmyric Armies and the Long Frontier]]
 - [[Zanthir and the Unfinished Reconquest]]
-- [[Thalmyric Empire Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/Thalmyric Empire Overview.md|Thalmyric Empire Overview]]

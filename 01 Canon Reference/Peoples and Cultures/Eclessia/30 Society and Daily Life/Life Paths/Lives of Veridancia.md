@@ -45,6 +45,6 @@ A night-run pamphlet traced to the Lantern's own press; a seminarian's crisis mi
 
 ## Navigation
 
-- [[Eclessia Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Eclessia/Eclessia Overview.md|Eclessia Overview]]
 - [[Lives of Eclessia — The Common Spine]]
-- [[The Duchy of Veridancia Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Eclessia/60 Realms and Peoples/Duchy of Veridancia/The Duchy of Veridancia Overview.md|The Duchy of Veridancia Overview]]

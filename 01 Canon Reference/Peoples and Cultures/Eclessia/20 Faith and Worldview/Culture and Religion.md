@@ -31,7 +31,7 @@ Reformed culture prizes literacy, household catechism, sober craft, and public m
 
 ## A Shared but Divided Year
 
-Both confessions keep the major story of the Redeemer. They disagree over saints' days, fasts, relic processions, and who may bless the public flame. Mixed towns commonly preserve one market calendar and two sacred explanations. The practical details appear in [[Eclessian Daily Life and the Year of the Flame]].
+Both confessions keep the major story of the Redeemer. They disagree over saints' days, fasts, relic processions, and who may bless the public flame. Mixed towns commonly preserve one market calendar and two sacred explanations. The practical details appear in [[01 Canon Reference/Peoples and Cultures/Eclessia/30 Society and Daily Life/Eclessian Daily Life and the Year of the Flame.md|Eclessian Daily Life and the Year of the Flame]].
 
 The Grey Sweat left additional observances: bells for unregistered dead, parish walls of missing names, and Ash-Walker roads on which no household willingly builds.
 
@@ -55,6 +55,6 @@ Old-Church patrons commission glass, images, reliquaries, organs, and sacred the
 - [[Eclessian Church Overview]]
 - [[Eclessian Church Architecture]]
 - [[Freeflame Reformation]]
-- [[Lives of Eclessia — The Common Spine]]
-- [[Eclessia Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Eclessia/30 Society and Daily Life/Life Paths/Lives of Eclessia — The Common Spine.md|Lives of Eclessia — The Common Spine]]
+- [[01 Canon Reference/Peoples and Cultures/Eclessia/Eclessia Overview.md|Eclessia Overview]]
 

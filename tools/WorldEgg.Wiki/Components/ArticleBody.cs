@@ -12,6 +12,7 @@ public sealed class ArticleBody : ComponentBase
     [Parameter] public string Html { get; set; } = "";
     private string? _loaded;
     private INode[] _nodes = [];
+
     protected override void OnParametersSet()
     {
         if (_loaded == Html) return;
@@ -28,11 +29,13 @@ public sealed class ArticleBody : ComponentBase
             }
         }
     }
+
     protected override void BuildRenderTree(RenderTreeBuilder builder)
     {
         var budget = 30;
         foreach (var node in _nodes) Render(builder, node, ref budget);
     }
+
     private static void Render(RenderTreeBuilder builder, INode node, ref int budget)
     {
         builder.OpenRegion(0);

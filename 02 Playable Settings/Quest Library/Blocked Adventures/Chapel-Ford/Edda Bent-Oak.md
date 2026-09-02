@@ -40,5 +40,5 @@ Edda begins by asking for discretion. Evidence and the party's conduct determine
 
 - [[Chapel-Ford — Full Adventure]]
 - [[Marta Veyr]]
-- [[The Folk of the Frontier and the Wolfsmere Lineage]]
+- [[01 Canon Reference/Peoples and Cultures/Folk/30 Society and Daily Life/The Folk of the Frontier and the Wolfsmere Lineage.md|The Folk of the Frontier and the Wolfsmere Lineage]]
 

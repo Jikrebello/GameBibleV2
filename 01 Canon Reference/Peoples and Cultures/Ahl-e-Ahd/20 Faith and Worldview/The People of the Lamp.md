@@ -37,5 +37,5 @@ Jirahar communities are governed through tower, Road, Sea, Turning, guest, and s
 ## Navigation
 
 - [[Velian Culture Overview]]
-- [[The Velian States Overview]]
-- [[Emirate of Zanthir Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Velian/60 Realms and Peoples/Velian States/The Velian States Overview.md|The Velian States Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Ahl-e-Ahd/60 Realms and Peoples/Emirate of Zanthir/Emirate of Zanthir Overview.md|Emirate of Zanthir Overview]]

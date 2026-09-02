@@ -39,5 +39,5 @@ By 949 AR, the highland roads and supply depots could support a major descent to
 
 - [[The Coronation at Virelos]]
 - [[The Reclamation of Caleran]]
-- [[Structure of the Empire Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/40 Government and Institutions/Structure of the Empire Overview.md|Structure of the Empire Overview]]
 - [[The Long Reconquest (908-1052 AR)]]

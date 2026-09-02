@@ -78,5 +78,5 @@ Regional names include horned host, ribbon court, last dancers, satyrs, midsumme
 - [[Faewild and Menhir MOC]]
 - [[The Cloven]]
 - [[The Bright-Fire Carnival — Full Adventure]]
-- [[Lyraxis]]
+- [[01 Canon Reference/Cosmology/30 Menhir/10 Second Circle/Lyraxis.md|Lyraxis]]
 - [[Bestiary MOC]]

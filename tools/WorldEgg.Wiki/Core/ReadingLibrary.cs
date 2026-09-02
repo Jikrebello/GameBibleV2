@@ -31,8 +31,11 @@ public sealed class ReadingLibrary(IJSRuntime js, VaultPaths paths)
     public ReadingSnapshot Current { get; private set; } = new();
     public bool Initialized { get; private set; }
     public string? Notice { get; private set; }
+
     public event Action? Changed;
+
     public bool IsBookmarked(string id) => Current.Bookmarks.Any(b => b.Id.Equals(id, StringComparison.OrdinalIgnoreCase));
+
     public async Task InitializeAsync()
     {
         await _gate.WaitAsync();
@@ -46,19 +49,28 @@ public sealed class ReadingLibrary(IJSRuntime js, VaultPaths paths)
         finally { _gate.Release(); }
         Changed?.Invoke();
     }
+
     public Task SetPreferencesAsync(ReadingPreferences preferences) => Change(s => s with { Preferences = preferences.Normalize() });
+
     public async Task ToggleBookmarkAsync(WikiDocument document)
     {
         await InitializeAsync();
         if (!IsBookmarked(document.Id) && Current.Bookmarks.Length >= 100) { Notice = "This browser shelf holds 100 bookmarks. Remove one before adding another."; Changed?.Invoke(); return; }
         Notice = null;
-        await Change(s => s with { Bookmarks = s.Bookmarks.Any(b => b.Id.Equals(document.Id, StringComparison.OrdinalIgnoreCase))
+        await Change(s => s with
+        {
+            Bookmarks = s.Bookmarks.Any(b => b.Id.Equals(document.Id, StringComparison.OrdinalIgnoreCase))
             ? s.Bookmarks.Where(b => !b.Id.Equals(document.Id, StringComparison.OrdinalIgnoreCase)).ToArray()
-            : new[] { new SavedReading(document.Id, document.Title, DateTime.UtcNow) }.Concat(s.Bookmarks).ToArray() });
+            : new[] { new SavedReading(document.Id, document.Title, DateTime.UtcNow) }.Concat(s.Bookmarks).ToArray()
+        });
     }
+
     public Task RemoveBookmarkAsync(string id) => Change(s => s with { Bookmarks = s.Bookmarks.Where(b => !b.Id.Equals(id, StringComparison.OrdinalIgnoreCase)).ToArray() });
+
     public Task VisitAsync(WikiDocument document) => Change(s => s with { Recent = new[] { new SavedReading(document.Id, document.Title, DateTime.UtcNow) }.Concat(s.Recent.Where(b => !b.Id.Equals(document.Id, StringComparison.OrdinalIgnoreCase))).Take(40).ToArray() });
+
     public Task ClearRecentAsync() => Change(s => s with { Recent = [] });
+
     private async Task Change(Func<ReadingSnapshot, ReadingSnapshot> change)
     {
         await InitializeAsync(); await _gate.WaitAsync();
@@ -71,5 +83,6 @@ public sealed class ReadingLibrary(IJSRuntime js, VaultPaths paths)
         finally { _gate.Release(); }
         Changed?.Invoke();
     }
+
     private SavedReading[] Clean(SavedReading[]? entries, int limit) => (entries ?? []).Where(b => b is not null && b.Id is { Length: > 0 and <= 1024 } && b.Title is { Length: > 0 and <= 400 } && b.Id.EndsWith(".md", StringComparison.OrdinalIgnoreCase) && paths.SafeFullPath(b.Id) is not null).DistinctBy(b => b.Id, StringComparer.OrdinalIgnoreCase).Take(limit).ToArray();
 }

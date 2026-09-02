@@ -44,7 +44,7 @@ Patriarchal politics, pilgrimage, contested excavation, old-city crime, impounde
 ## Navigation
 
 - [[The Kingdom of Veridun Overview]]
-- [[The Patriarchate of Veridun]]
-- [[The Reclamation of Caleran]]
+- [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/20 Faith and Worldview/The Patriarchate of Veridun.md|The Patriarchate of Veridun]]
+- [[01 Canon Reference/History/60 Fall and Successor Empires/The Reclamation of Caleran.md|The Reclamation of Caleran]]
 - [[The Layers Beneath Thalmyria]]
 - [[Thalmyric Heartland - Cities, Ruins, and the Empty Interior]]

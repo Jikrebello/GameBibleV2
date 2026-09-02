@@ -33,5 +33,5 @@ Berserkers are sworn champions of individual halls rather than an independent ca
 
 ## Navigation
 
-- [[Ättar Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Ättar/Ättar Overview.md|Ättar Overview]]
 - [[Halls, Jarls, and Chief-Kings]]

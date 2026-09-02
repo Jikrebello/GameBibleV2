@@ -34,4 +34,4 @@ Wealth buys better witnesses, advocates, and escape clauses. Poor households dep
 ## Navigation
 
 - [[Status, Slavery, and Manumission in the Covenant]]
-- [[The Ahl-e-Ahd Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Ahl-e-Ahd/The Ahl-e-Ahd Overview.md|The Ahl-e-Ahd Overview]]

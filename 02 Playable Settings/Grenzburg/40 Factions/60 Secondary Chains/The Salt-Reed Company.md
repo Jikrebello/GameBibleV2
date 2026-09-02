@@ -55,5 +55,5 @@ The strongest settlement does not automatically reunite the Salt-Reed Company. I
 - [[Ilyana Companion Campaign]]
 - [[The Gilded Wake Season]]
 - [[Harmonic Shellcraft]]
-- [[The Sermoran Republic Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Sestaran Concord/60 Realms and Peoples/Sermoran Republic/The Sermoran Republic Overview.md|The Sermoran Republic Overview]]
 

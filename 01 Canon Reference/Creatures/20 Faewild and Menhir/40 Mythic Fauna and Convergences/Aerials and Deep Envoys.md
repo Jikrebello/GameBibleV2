@@ -73,7 +73,7 @@ Regional names include sky wrack, gale folk, wind riders, deep envoys, trench ke
 ## Navigation
 
 - [[Faewild and Menhir MOC]]
-- [[The Three-Bodied God Overview]]
-- [[Thalassor]]
-- [[Zephyraxis]]
+- [[01 Canon Reference/Cosmology/30 Menhir/20 Third Circle/The Three-Bodied God Overview.md|The Three-Bodied God Overview]]
+- [[01 Canon Reference/Cosmology/30 Menhir/20 Third Circle/Thalassor.md|Thalassor]]
+- [[01 Canon Reference/Cosmology/30 Menhir/20 Third Circle/Zephyraxis.md|Zephyraxis]]
 - [[Bestiary MOC]]

@@ -73,6 +73,6 @@ Tangle-Gremlin, mill-knot, rigging mite, bell imp, gear brat, and the second mec
 ## Navigation
 
 - [[Faewild and Menhir MOC]]
-- [[Lyraxis]]
+- [[01 Canon Reference/Cosmology/30 Menhir/10 Second Circle/Lyraxis.md|Lyraxis]]
 - [[Warlock Rune Magic]]
 - [[Bestiary MOC]]

@@ -43,6 +43,6 @@ The Velian Church preserves Isfir's Jirahar speech in worship. That intimacy mak
 
 ## Navigation
 
-- [[Relations with Other Religions]]
+- [[01 Canon Reference/Peoples and Cultures/Jirahar/20 Faith and Worldview/Relations with Other Religions.md|Relations with Other Religions]]
 - [[Sestara and the Wider World]]
-- [[The Ahl-e-Ahd Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Ahl-e-Ahd/The Ahl-e-Ahd Overview.md|The Ahl-e-Ahd Overview]]

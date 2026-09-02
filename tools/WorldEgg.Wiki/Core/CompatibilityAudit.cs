@@ -52,6 +52,8 @@ public static class CompatibilityAudit
         };
         return await Task.FromResult(JsonSerializer.Serialize(report, new JsonSerializerOptions { WriteIndented = true }));
     }
+
     private static Dictionary<string, string> Fingerprints(VaultPaths paths) => paths.EnumerateFiles().ToDictionary(f => paths.ToId(f)!, f => Convert.ToHexString(SHA256.HashData(File.ReadAllBytes(f))), StringComparer.OrdinalIgnoreCase);
+
     private sealed record AuditPage(string Id, string? MetadataWarning, RenderIssue[] Issues, string? Fatal);
 }

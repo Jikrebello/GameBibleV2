@@ -64,7 +64,7 @@ The Spire's unknown function, faction procurement, missing bodies, Black Spire l
 
 ## Navigation
 
-- [[Lives of Vorthara]]
+- [[01 Canon Reference/Peoples and Cultures/Sestaran Concord/30 Society and Daily Life/Life Paths/Lives of Vorthara.md|Lives of Vorthara]]
 - [[Magical Schools and Factions of Vorthara]]
 - [[Shell Anchors and Extraction]]
 - [[Ironbound Frames]]

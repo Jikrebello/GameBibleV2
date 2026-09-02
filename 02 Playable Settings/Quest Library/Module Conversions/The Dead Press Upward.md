@@ -68,9 +68,9 @@ Lucimar may survive or escape, preserving an intelligent recurring antagonist in
 
 ## Exact World Egg Placement
 
-The adventure takes place in **1360 AR**, during Souls-month after first frost. [[Wanemoor District]] lies in eastern [[The Duchy of Brauvalis Overview|Brauvalis]], where wooded iron hills descend into the Merewick reed fens.
+The adventure takes place in **1360 AR**, during Souls-month after first frost. [[Wanemoor District]] lies in eastern [[01 Canon Reference/Peoples and Cultures/Eclessia/60 Realms and Peoples/Duchy of Brauvalis/The Duchy of Brauvalis Overview.md|Brauvalis]], where wooded iron hills descend into the Merewick reed fens.
 
-Wanenbruck is a saw and mining town of roughly 1,700 people. Its cemetery and the Last Lamp ridge stand above a local corpse-road called the Maw-Road, a damaged western feeder in the wider Fever Deeps ecology rather than a stable road to a ghoul capital. The abbey sealed that passage in 1028 AR and later expanded its galleries during [[The Grey Sweat]].
+Wanenbruck is a saw and mining town of roughly 1,700 people. Its cemetery and the Last Lamp ridge stand above a local corpse-road called the Maw-Road, a damaged western feeder in the wider Fever Deeps ecology rather than a stable road to a ghoul capital. The abbey sealed that passage in 1028 AR and later expanded its galleries during [[01 Canon Reference/History/70 Later History and Present Day/The Grey Sweat.md|The Grey Sweat]].
 
 Bruch Mine knowingly crossed the protected burial boundary. Edrik used the concealed trespass to reach and break the Seal. [[The Wane-Warren]] then entered the plague galleries while Edrik drove ordinary residue dead upward through the cemetery.
 
@@ -104,8 +104,8 @@ Mine-Mistress [[Helene Bruch]] is guilty of concealment, burial trespass, and fa
 ## Controlling Canon
 
 - [[Wanemoor District]]
-- [[The Duchy of Brauvalis Overview]]
-- [[Eclessian Daily Life and the Year of the Flame]]
+- [[01 Canon Reference/Peoples and Cultures/Eclessia/60 Realms and Peoples/Duchy of Brauvalis/The Duchy of Brauvalis Overview.md|The Duchy of Brauvalis Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Eclessia/30 Society and Daily Life/Eclessian Daily Life and the Year of the Flame.md|Eclessian Daily Life and the Year of the Flame]]
 - [[The Mundane Layer — Residue, Vermin, and the Delver Trade]]
 - [[Ghouls]]
 - [[Underworld, Underways, and Corpse-Roads]]

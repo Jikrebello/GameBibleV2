@@ -69,7 +69,7 @@ The House combines flesh-pattern craft, artifact engineering, identity indexing,
 ## Navigation
 
 - [[The Bailiff's Ram — Full Adventure]]
-- [[Lives of Vorthara]]
-- [[The Citadel of Vorthara Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Sestaran Concord/30 Society and Daily Life/Life Paths/Lives of Vorthara.md|Lives of Vorthara]]
+- [[01 Canon Reference/Peoples and Cultures/Sestaran Concord/60 Realms and Peoples/Citadel of Vorthara/The Citadel of Vorthara Overview.md|The Citadel of Vorthara Overview]]
 - [[Reversion Crook]]
 - [[Collateral Beasts]]

@@ -48,5 +48,5 @@ Folk communities have real land claims and internal laws. They are not morally i
 
 - [[The Sylvan Marches Overview]]
 - [[Relics, Forbidden Knowledge, and Hidden Horrors]]
-- [[The Folk of the Frontier and the Wolfsmere Lineage]]
+- [[01 Canon Reference/Peoples and Cultures/Folk/30 Society and Daily Life/The Folk of the Frontier and the Wolfsmere Lineage.md|The Folk of the Frontier and the Wolfsmere Lineage]]
 - [[Southern Cold Belt and Grobi Frontier]]

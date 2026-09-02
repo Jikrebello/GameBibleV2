@@ -15,7 +15,7 @@ tags: [module-conversion, game-ready]
 
 ## Role
 
-Ilyra is the present rector of the [[Collegium of Doors]] and public host of Breach-Week. She is an accomplished spatial mage, an effective teacher, and a poor custodian of inherited danger.
+Ilyra is the present rector of the [[01 Canon Reference/Peoples and Cultures/Sestaran Concord/60 Realms and Peoples/Citadel of Vorthara/Collegium of Doors.md|Collegium of Doors]] and public host of Breach-Week. She is an accomplished spatial mage, an effective teacher, and a poor custodian of inherited danger.
 
 ## What She Wants
 
@@ -43,4 +43,4 @@ Ilyra should remain useful after exposure. She understands the Hall's geometry, 
 
 - [[Breach-Week — Full Adventure]]
 - [[Arcanist Odran Vale]]
-- [[Collegium of Doors]]
+- [[01 Canon Reference/Peoples and Cultures/Sestaran Concord/60 Realms and Peoples/Citadel of Vorthara/Collegium of Doors.md|Collegium of Doors]]

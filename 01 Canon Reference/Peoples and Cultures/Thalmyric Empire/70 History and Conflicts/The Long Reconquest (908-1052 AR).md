@@ -33,7 +33,7 @@ The Covenant army's defeat at [[The Battle of the Shattered Engines (907 AR)]] h
 
 ## Crown and Burning Banners, 922-949 AR
 
-Caedros was crowned at Virelos in 922. The [[The War of the Burning Banners|War of the Burning Banners]] brought independent refuge armies, monastery leagues, and noble claimants under one crown. The result was not administrative unity but a shared command, tax, and return policy.
+Caedros was crowned at Virelos in 922. The [[01 Canon Reference/History/60 Fall and Successor Empires/The War of the Burning Banners.md|War of the Burning Banners]] brought independent refuge armies, monastery leagues, and noble claimants under one crown. The result was not administrative unity but a shared command, tax, and return policy.
 
 ## The Caleran Campaign, 950-962 AR
 
@@ -57,14 +57,14 @@ Four generations of flight and return concentrated population around walls, mark
 
 ## Navigation
 
-- [[The Invasion and the Fall]]
-- [[The Refuge and the Rise of Veridun]]
+- [[01 Canon Reference/History/60 Fall and Successor Empires/The Invasion and the Fall.md|The Invasion and the Fall]]
+- [[01 Canon Reference/History/60 Fall and Successor Empires/The Refuge and the Rise of Veridun.md|The Refuge and the Rise of Veridun]]
 - [[The Battle of Caelmount]]
 - [[The Battle of the Shattered Engines (907 AR)]]
-- [[The Coronation at Virelos]]
-- [[The War of the Burning Banners]]
-- [[The Reclamation of Caleran]]
-- [[The Founding Flame]]
+- [[01 Canon Reference/History/60 Fall and Successor Empires/The Coronation at Virelos.md|The Coronation at Virelos]]
+- [[01 Canon Reference/History/60 Fall and Successor Empires/The War of the Burning Banners.md|The War of the Burning Banners]]
+- [[01 Canon Reference/History/60 Fall and Successor Empires/The Reclamation of Caleran.md|The Reclamation of Caleran]]
+- [[01 Canon Reference/History/60 Fall and Successor Empires/The Founding Flame.md|The Founding Flame]]
 - [[Chronology of the Known World (AR Dating)]]
 - [[Covenant Siege Golems]]
 - [[Shell Anchors and Extraction]]

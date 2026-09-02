@@ -71,7 +71,7 @@ The greatest gold dragon in the world has died, and his kin want to know why. To
 - The guardians attacking villages become the vale's **destabilizing law** spilling into imperial country: seasons stacking wrong, game walking in circles, a dead silver drake's moon-law leaking into local nights — and the **[[The Gemfallen|Gemfallen]]**, drake-dead animating without a keeper.
 - The wardens must be **Thalmyric**, not Folk — there are no Folk here. They become an ancient ascetic hermitage, the **[[The Drakesfall Vale|Cyrian Skete]]**, that has kept the vale since Atherian times, half-suspect to the Patriarchate for tending a Faewild site and tolerated because it contains one.
 - The usurper becomes a **[[The Vharo Concession|Vorthara-backed harvesting concession]]** working under a legal grant a frontier **military governor** of Vlastrava sold — rights he arguably held, which is the whole problem.
-- The great dead dragon becomes a great old **[[Gold Drakes|gold drake]]** that came to the vale to die as drakes do, and was harvested fresh — the act that tipped the field and got the wardens killed.
+- The great dead dragon becomes a great old **[[01 Canon Reference/Creatures/20 Faewild and Menhir/10 Drakes/Gold Drakes.md|gold drake]]** that came to the vale to die as drakes do, and was harvested fresh — the act that tipped the field and got the wardens killed.
 - The stakes become setting-priced: **heart-gems in bulk** are a **[[The Concord of Weights|Concord-of-Weights]]**-grade prize, so the powers that want the vale emptied are economic, patient, and legally armored.
 
 ## Exact World Egg Placement

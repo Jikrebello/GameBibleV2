@@ -41,6 +41,6 @@ Golden Book resentment, Severin's memory, debts that never amortize, tenant vola
 ## Navigation
 
 - [[Medori family Overview]]
-- [[Lives of Fiorenzia]]
-- [[The Sestaran Concord Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Sestaran Concord/30 Society and Daily Life/Life Paths/Lives of Fiorenzia.md|Lives of Fiorenzia]]
+- [[01 Canon Reference/Peoples and Cultures/Sestaran Concord/The Sestaran Concord Overview.md|The Sestaran Concord Overview]]
 

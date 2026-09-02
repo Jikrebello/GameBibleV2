@@ -76,6 +76,6 @@ These animals die when killed and leave no soul-road event. A dangerous individu
 ## Navigation
 
 - [[The Mundane Layer — Residue, Vermin, and the Delver Trade]]
-- [[The Saltborn Coast Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/60 Realms and Peoples/The Saltborn Coast Overview.md|The Saltborn Coast Overview]]
 - [[The Maritime Kingdom of Saronika Overview]]
 - [[Bestiary MOC]]

@@ -21,8 +21,8 @@ The Covenant is a hierarchy of unequal sovereignties, not four equal caliphates.
 | [[The Qahirid Suzerainty and Iqashar|Iqashar]] | Sultan-Caliph Marzuq III | Witnessed Seal | Imperial center claiming universal authority |
 | [[Al-Qahur and the Sacred Basin|Al-Qahur]] | Caliph Uwais and Sword-Regent Nadir ibn Haraz | Witnessed Seal | Sacred vassal; military-household government |
 | [[Qazmarid and the Sealed Blood|Qazmarid]] | Caliph-Wasi Zahran | Sealed Blood | Independent counter-caliphate |
-| [[Emirate of Zanthir Overview|Zanthir]] | Emir Badis al-Zanthiri | Witnessed majority | Autonomous tributary and frontier broker |
-| [[The Velian States Overview|Velian States]] | Client princes, councils, bishops, and commanders | Mixed | Disputed client belt without one sovereign |
+| [[01 Canon Reference/Peoples and Cultures/Ahl-e-Ahd/60 Realms and Peoples/Emirate of Zanthir/Emirate of Zanthir Overview.md|Zanthir]] | Emir Badis al-Zanthiri | Witnessed majority | Autonomous tributary and frontier broker |
+| [[01 Canon Reference/Peoples and Cultures/Velian/60 Realms and Peoples/Velian States/The Velian States Overview.md|Velian States]] | Client princes, councils, bishops, and commanders | Mixed | Disputed client belt without one sovereign |
 
 Iqashar appoints governors, confirms titles, demands troops and revenue, and controls the strongest diplomatic service. Its reach weakens with distance, local charters, military households, communal compacts, and the cost of moving armies between wells.
 

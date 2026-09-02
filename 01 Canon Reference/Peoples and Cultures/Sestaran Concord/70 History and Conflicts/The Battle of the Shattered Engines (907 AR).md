@@ -35,8 +35,8 @@ The battle demonstrated that the peninsula's specialists could defeat an empire 
 
 ## Navigation
 
-- [[The Citadel of Vorthara Overview]]
-- [[The Invasion and the Fall]]
-- [[The Battle of Caelmount]]
+- [[01 Canon Reference/Peoples and Cultures/Sestaran Concord/60 Realms and Peoples/Citadel of Vorthara/The Citadel of Vorthara Overview.md|The Citadel of Vorthara Overview]]
+- [[01 Canon Reference/History/60 Fall and Successor Empires/The Invasion and the Fall.md|The Invasion and the Fall]]
+- [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/70 History and Conflicts/The Battle of Caelmount.md|The Battle of Caelmount]]
 - [[The Seven-Seal Defensive Muster]]
 - [[Covenant Siege Golems]]

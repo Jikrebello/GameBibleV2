@@ -368,6 +368,6 @@ Stopping the rising does not automatically decide the living cases.
 - [[Underworld, Underways, and Corpse-Roads]]
 - [[Warrens of Woe]]
 - [[The Mundane Layer — Residue, Vermin, and the Delver Trade]]
-- [[Eclessian Daily Life and the Year of the Flame]]
+- [[01 Canon Reference/Peoples and Cultures/Eclessia/30 Society and Daily Life/Eclessian Daily Life and the Year of the Flame.md|Eclessian Daily Life and the Year of the Flame]]
 - [[Soul Routing and the Vestibule]]
 - [[00 Conversion Index|Adventure Conversion Index]]

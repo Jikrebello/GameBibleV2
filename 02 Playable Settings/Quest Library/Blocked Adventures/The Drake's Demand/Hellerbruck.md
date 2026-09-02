@@ -14,7 +14,7 @@ tags: [game-ready]
 ---
 # Hellerbruck
 
-Hellerbruck is a prosperous market and craft town on the central River Weiss in [[The Duchy of Brauvalis Overview|Brauvalis]]. A stone bridge, brewery quay, limestone quarry, pottery yards, and bell foundry support about 2,400 permanent residents. Several hundred bargemen, quarry hands, apprentices, and buyers join them during the autumn auction season.
+Hellerbruck is a prosperous market and craft town on the central River Weiss in [[01 Canon Reference/Peoples and Cultures/Eclessia/60 Realms and Peoples/Duchy of Brauvalis/The Duchy of Brauvalis Overview.md|Brauvalis]]. A stone bridge, brewery quay, limestone quarry, pottery yards, and bell foundry support about 2,400 permanent residents. Several hundred bargemen, quarry hands, apprentices, and buyers join them during the autumn auction season.
 
 The town grew around the ruined ridge-fort of [[Dame Sabine Heller]], remembered publicly as the drake-slayer who opened the river crossing in 1117 AR. Its charter distributes obligations among twelve founding households and institutions rather than reserving them to nobles alone. Bridge wardens, shrine custodians, brewers, potters, bargemen, quarry households, healers, bell founders, landholders, and the Heller family all hold inherited duties.
 
@@ -50,7 +50,7 @@ Hellerbruck supports craft rivalries, mixed-confession town politics, quarry acc
 
 ## Navigation
 
-- [[The Duchy of Brauvalis Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Eclessia/60 Realms and Peoples/Duchy of Brauvalis/The Duchy of Brauvalis Overview.md|The Duchy of Brauvalis Overview]]
 - [[Gazetteer of the Known World]]
 - [[The Drake's Demand — Full Adventure]]
 - [[Baroness Margarethe Heller]]

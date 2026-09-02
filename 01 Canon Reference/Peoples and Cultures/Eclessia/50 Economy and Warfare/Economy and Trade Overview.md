@@ -58,8 +58,8 @@ Useful conflicts include a plague title with three lawful owners, a monastery co
 
 ## Navigation
 
-- [[Eclessia Overview]]
-- [[The Grey Sweat]]
+- [[01 Canon Reference/Peoples and Cultures/Eclessia/Eclessia Overview.md|Eclessia Overview]]
+- [[01 Canon Reference/History/70 Later History and Present Day/The Grey Sweat.md|The Grey Sweat]]
 - [[Freeflame Reformation]]
 - [[The Korrheim Accord]]
 - [[Military and Warfare Overview]]

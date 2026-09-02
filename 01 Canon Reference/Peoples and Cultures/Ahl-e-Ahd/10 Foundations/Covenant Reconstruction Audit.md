@@ -204,5 +204,5 @@ This register records the disposition of every other active note matching the Co
 ## Navigation
 
 - [[Ahl-e-Ahd Canon Register]]
-- [[The Ahl-e-Ahd Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Ahl-e-Ahd/The Ahl-e-Ahd Overview.md|The Ahl-e-Ahd Overview]]
 - [[Historical Spine of the Covenant]]

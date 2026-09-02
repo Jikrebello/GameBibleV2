@@ -13,7 +13,7 @@ tags: []
 ---
 # Eclessian Daily Life and the Year of the Flame
 
-Commandment 8's second half: how Eclessians actually eat, marry, mourn, sing, and lie to each other. Regional registers follow [[The Making of the Eclessians]]; confessional practice follows the Reformation settlement.
+Commandment 8's second half: how Eclessians actually eat, marry, mourn, sing, and lie to each other. Regional registers follow [[01 Canon Reference/Peoples and Cultures/Eclessia/10 Foundations/The Making of the Eclessians.md|The Making of the Eclessians]]; confessional practice follows the Reformation settlement.
 
 ## The Year of the Flame (the twelve liturgical months)
 
@@ -36,7 +36,7 @@ The Church's calendar overlays the old Atherian civic grid: twelve months, a sev
 
 ## Food (by register)
 
-**Markish marches** (Grenzburg country): rye and barley bread, pot-oats, pork and preserved cabbage, river fish, mushroom-hunting as near-religion; beer is food, brewed dark; the autumn slaughter-sausage (*wanewurst*) hangs in every rafter. **Latinate south:** wheat bread, oil, wine, orchard fruit, cheese pride bordering on heraldry; the Sanctum's kitchens set fashions the marches mock and copy. **Vesari east:** buckwheat, beets, smoked lake-fish, honey-spirits, dumplings whose regional variants have started duels. **Southern coasts:** herring in twenty forms, salt-cod, and stockfish Lent-fare the whole coast pretends to enjoy (the mead-wedding, sea-totem culture belongs to the Thalmyric [[The Saltborn Coast Overview|Saltborn]], not here). Fast-days shape all of it: the Church's meatless calendar built Eclessia's fish trade, and the Medori hold shares in Lent.
+**Markish marches** (Grenzburg country): rye and barley bread, pot-oats, pork and preserved cabbage, river fish, mushroom-hunting as near-religion; beer is food, brewed dark; the autumn slaughter-sausage (*wanewurst*) hangs in every rafter. **Latinate south:** wheat bread, oil, wine, orchard fruit, cheese pride bordering on heraldry; the Sanctum's kitchens set fashions the marches mock and copy. **Vesari east:** buckwheat, beets, smoked lake-fish, honey-spirits, dumplings whose regional variants have started duels. **Southern coasts:** herring in twenty forms, salt-cod, and stockfish Lent-fare the whole coast pretends to enjoy (the mead-wedding, sea-totem culture belongs to the Thalmyric [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/60 Realms and Peoples/The Saltborn Coast Overview.md|Saltborn]], not here). Fast-days shape all of it: the Church's meatless calendar built Eclessia's fish trade, and the Medori hold shares in Lent.
 
 ## Weddings
 
@@ -76,11 +76,11 @@ All of it compressed and sharpened: Wanefall slaughter decides who winters insid
 
 ## Navigation
 
-- [[Eclessia Overview]]
-- [[Lives of Eclessia — The Common Spine]] (the role-by-role, territory-by-territory pass)
+- [[01 Canon Reference/Peoples and Cultures/Eclessia/Eclessia Overview.md|Eclessia Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Eclessia/30 Society and Daily Life/Life Paths/Lives of Eclessia — The Common Spine.md|Lives of Eclessia — The Common Spine]] (the role-by-role, territory-by-territory pass)
 
-- [[Eclessia Cultural Thesis]]
-- [[The Making of the Eclessians]]
+- [[01 Canon Reference/Peoples and Cultures/Eclessia/10 Foundations/Eclessia Cultural Thesis.md|Eclessia Cultural Thesis]]
+- [[01 Canon Reference/Peoples and Cultures/Eclessia/10 Foundations/The Making of the Eclessians.md|The Making of the Eclessians]]
 - [[The Twelve Companions of the Redeemer]]
-- [[Folk Daily Life and the Thirteen Moons]]
+- [[01 Canon Reference/Peoples and Cultures/Folk/30 Society and Daily Life/Folk Daily Life and the Thirteen Moons.md|Folk Daily Life and the Thirteen Moons]]
 - [[Grenzburg Regional Geography]]

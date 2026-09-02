@@ -49,4 +49,4 @@ Qiryath becomes the greatest early tower, is destroyed by Arqesh in 742 BR, rebu
 - [[Timeline MOC]]
 - [[Age of Exodus]]
 - [[Age of Scattering]]
-- [[The Jirahar Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Jirahar/The Jirahar Overview.md|The Jirahar Overview]]

@@ -42,7 +42,9 @@ public sealed class BaseContext(string id, WikiDocument? document, IReadOnlyDict
     private readonly HashSet<string> _evaluating = new(StringComparer.Ordinal);
     private readonly Dictionary<string, BaseValue> _computed = new(StringComparer.Ordinal);
     public string Id { get; } = id;
+
     public bool InFolder(string folder) => Id.StartsWith(folder.Trim('/') + "/", StringComparison.OrdinalIgnoreCase);
+
     public BaseValue Get(string property)
     {
         if (property.StartsWith("formula.", StringComparison.Ordinal))
@@ -55,8 +57,11 @@ public sealed class BaseContext(string id, WikiDocument? document, IReadOnlyDict
         }
         if (property.StartsWith("file.", StringComparison.Ordinal)) return property switch
         {
-            "file.name" => new(Path.GetFileName(Id)), "file.basename" => new(Path.GetFileNameWithoutExtension(Id)),
-            "file.path" => new(Id), "file.folder" => new(Id.Contains('/') ? Id[..Id.LastIndexOf('/')] : ""), "file.ext" => new(Path.GetExtension(Id).TrimStart('.')),
+            "file.name" => new(Path.GetFileName(Id)),
+            "file.basename" => new(Path.GetFileNameWithoutExtension(Id)),
+            "file.path" => new(Id),
+            "file.folder" => new(Id.Contains('/') ? Id[..Id.LastIndexOf('/')] : ""),
+            "file.ext" => new(Path.GetExtension(Id).TrimStart('.')),
             _ => throw new FormatException("Unsupported file property: " + property)
         };
         return document?.Values.GetValueOrDefault(property.StartsWith("note.", StringComparison.Ordinal) ? property[5..] : property) ?? BaseValue.Null;
@@ -100,11 +105,13 @@ public sealed record BaseExpression(Func<BaseContext, BaseValue> Evaluate, strin
         private void Need(string token) { if (!Take(token)) throw Error(); }
         private Func<BaseContext, BaseValue> Or()
         {
-            var left = And(); while (Take("||")) { var a = left; var b = And(); left = c => new(a(c).Truth || b(c).Truth); } return left;
+            var left = And(); while (Take("||")) { var a = left; var b = And(); left = c => new(a(c).Truth || b(c).Truth); }
+            return left;
         }
         private Func<BaseContext, BaseValue> And()
         {
-            var left = Compare(); while (Take("&&")) { var a = left; var b = Compare(); left = c => new(a(c).Truth && b(c).Truth); } return left;
+            var left = Compare(); while (Take("&&")) { var a = left; var b = Compare(); left = c => new(a(c).Truth && b(c).Truth); }
+            return left;
         }
         private Func<BaseContext, BaseValue> Compare()
         {
@@ -112,8 +119,11 @@ public sealed record BaseExpression(Func<BaseContext, BaseValue> Evaluate, strin
             foreach (var op in new[] { "==", "!=", ">=", "<=", ">", "<" })
                 if (Take(op))
                 {
-                    var right = Unary(); return c => { var a = left(c); var b = right(c); return new(op switch
-                    { "==" => a.Same(b), "!=" => !a.Same(b), ">" => Ordered(a, b) && a.CompareTo(b) > 0, "<" => Ordered(a, b) && a.CompareTo(b) < 0, ">=" => Ordered(a, b) && a.CompareTo(b) >= 0, _ => Ordered(a, b) && a.CompareTo(b) <= 0 }); };
+                    var right = Unary(); return c =>
+                    {
+                        var a = left(c); var b = right(c); return new(op switch
+                        { "==" => a.Same(b), "!=" => !a.Same(b), ">" => Ordered(a, b) && a.CompareTo(b) > 0, "<" => Ordered(a, b) && a.CompareTo(b) < 0, ">=" => Ordered(a, b) && a.CompareTo(b) >= 0, _ => Ordered(a, b) && a.CompareTo(b) <= 0 });
+                    };
                 }
             return left;
         }

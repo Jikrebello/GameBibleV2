@@ -27,7 +27,7 @@ Their strength is clear jurisdiction and a developed law of arms. Their danger i
 
 ## Thalmyric Traditions
 
-Thalmyric religious soldiers serve through the [[Thalmyric Military Orders]], provincial armies, monastery guards, and temporary penitential vows. Prayer ropes, icons, vigils, and anointing accompany service, but physical fire is not presumed sacred. The Returning Standard tradition stresses recovery and lawful return; the Long Watch defends exposed communities; the Iron Martyrs care for wounded veterans and guard authenticated relics.
+Thalmyric religious soldiers serve through the [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/50 Economy and Warfare/Thalmyric Military Orders.md|Thalmyric Military Orders]], provincial armies, monastery guards, and temporary penitential vows. Prayer ropes, icons, vigils, and anointing accompany service, but physical fire is not presumed sacred. The Returning Standard tradition stresses recovery and lawful return; the Long Watch defends exposed communities; the Iron Martyrs care for wounded veterans and guard authenticated relics.
 
 Their strength is endurance, communal discipline, and integration with frontier life. Their danger is treating military suffering as proof of divine approval or confusing warlock Shell-fire with the White Flame.
 
@@ -45,7 +45,7 @@ The two traditions can recognize courage, valid baptism, and sincere service in 
 
 ## Navigation
 
-- [[Thalmyric Empire Overview]]
-- [[Faith and the Thalmyric Church Overview]]
-- [[Eclessia Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/Thalmyric Empire Overview.md|Thalmyric Empire Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/20 Faith and Worldview/Faith and the Thalmyric Church Overview.md|Faith and the Thalmyric Church Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Eclessia/Eclessia Overview.md|Eclessia Overview]]
 - [[White Flame Doctrine]]

@@ -46,6 +46,6 @@ Grenzburg remains formally within the old-Church settlement, but frontier villag
 - [[Timeline MOC]]
 - [[Freeflame Reformation]]
 - [[Present-Day Courts and Crowns (1360 AR)]]
-- [[Eclessia Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Eclessia/Eclessia Overview.md|Eclessia Overview]]
 - [[Chronology of the Known World (AR Dating)]]
 

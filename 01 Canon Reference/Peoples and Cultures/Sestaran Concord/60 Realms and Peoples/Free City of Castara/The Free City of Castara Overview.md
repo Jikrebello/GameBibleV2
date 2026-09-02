@@ -42,7 +42,7 @@ Founding families versus new fortunes, expedition fraud, Ash Horde extraction on
 
 ## Navigation
 
-- [[Lives of Castara]]
+- [[01 Canon Reference/Peoples and Cultures/Sestaran Concord/30 Society and Daily Life/Life Paths/Lives of Castara.md|Lives of Castara]]
 - [[The Weird of History — The Unexplained Register]]
 - [[The Seven-Seal Defensive Muster]]
 - [[Castaran Long Road]]

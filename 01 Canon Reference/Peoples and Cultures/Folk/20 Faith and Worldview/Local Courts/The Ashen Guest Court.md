@@ -43,5 +43,5 @@ The court includes Lyraxis courtiers, road patrons, Shades, identity-traffickers
 
 - [[Courts of the Folk Lands]]
 - [[Green March Kindreds]]
-- [[Folk Daily Life and the Thirteen Moons]]
+- [[01 Canon Reference/Peoples and Cultures/Folk/30 Society and Daily Life/Folk Daily Life and the Thirteen Moons.md|Folk Daily Life and the Thirteen Moons]]
 

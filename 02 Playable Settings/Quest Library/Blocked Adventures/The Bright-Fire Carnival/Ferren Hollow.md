@@ -57,5 +57,5 @@ Ferren Hollow can become a town that paid and made a real Folk-border peace, a t
 - [[The Rime Rider]]
 - [[The Grove-Debt]]
 - [[Frontier Industry Chains]]
-- [[The Sylvan Marches Overview]]
-- [[Folk Daily Life and the Thirteen Moons]]
+- [[01 Canon Reference/Peoples and Cultures/Eclessia/60 Realms and Peoples/Sylvan Marches/The Sylvan Marches Overview.md|The Sylvan Marches Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Folk/30 Society and Daily Life/Folk Daily Life and the Thirteen Moons.md|Folk Daily Life and the Thirteen Moons]]

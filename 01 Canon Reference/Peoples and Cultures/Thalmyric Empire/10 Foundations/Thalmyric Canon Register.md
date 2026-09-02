@@ -19,7 +19,7 @@ This is the creator-facing control sheet for Thalmyria. Authority descends throu
 
 ## Three Sacred Cities
 
-- **Veridun** is the living imperial capital, refuge-city, coronation cathedral, and seat of [[Emperor Caedros IV Aetherion]]. The Great Lamp and Virelian Lamp remain there.
+- **Veridun** is the living imperial capital, refuge-city, coronation cathedral, and seat of [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/60 Realms and Peoples/Kingdom of Veridun/Emperor Caedros IV Aetherion.md|Emperor Caedros IV Aetherion]]. The Great Lamp and Virelian Lamp remain there.
 - **Caleran** is the recovered Atherian capital, site of the Redeemer's execution, Pillar of Concordance, Eternal Ember, and present seat of Patriarch Sophron.
 - **Virelos** is the mountain rebellion's cradle and the coronation city of the Aetherion line.
 
@@ -27,7 +27,7 @@ The title **Patriarch of Veridun** survives from the exile years. The Patriarcha
 
 ## Fixed Historical Chain
 
-Caleran falls in 905; Veridun survives the Veil in 906; the Mountain Rebellion runs 908-921; [[The Battle of Caelmount|Caelmount]] in 917 proves the resistance can win; Caedros I is crowned in 922; the Burning Banners unify the refuges in 922-949; Caleran is recovered in 957; Caedros II completes the first coastal campaigns by 962; and [[The Long Reconquest (908-1052 AR)|the Long Reconquest]] continues province by province until Theodosia's Rekindling in 1052.
+Caleran falls in 905; Veridun survives the Veil in 906; the Mountain Rebellion runs 908-921; [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/70 History and Conflicts/The Battle of Caelmount.md|Caelmount]] in 917 proves the resistance can win; Caedros I is crowned in 922; the Burning Banners unify the refuges in 922-949; Caleran is recovered in 957; Caedros II completes the first coastal campaigns by 962; and [[The Long Reconquest (908-1052 AR)|the Long Reconquest]] continues province by province until Theodosia's Rekindling in 1052.
 
 The Velian States and Zanthir remain outside secure imperial rule. Later defeats at Qarath's Well and the post-1214 civil wars deepen the older demographic wound without creating it.
 
@@ -57,7 +57,7 @@ Thalmyria lies west-central. The Covenant presses from the north and northwest; 
 
 ## Navigation
 
-- [[Thalmyric Empire Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/Thalmyric Empire Overview.md|Thalmyric Empire Overview]]
 - [[The Making of the Thalmyrics]]
 - [[The Long Reconquest (908-1052 AR)]]
 - [[Thalmyric Heartland - Cities, Ruins, and the Empty Interior]]

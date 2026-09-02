@@ -70,7 +70,7 @@ These references use compatible general relationships, valid events, or delibera
 
 ## New Cross-Vault Authorities
 
-[[Current Focus Board]], [[Geography Atlas]], [[Names of the Menhir, Masks of the Idols]], [[Bestiary MOC]], [[The Free City of Castara Overview]], and [[The Principality of Aversia Overview]] now state relationships that were absent from the original search inventory.
+[[Current Focus Board]], [[Geography Atlas]], [[Names of the Menhir, Masks of the Idols]], [[Bestiary MOC]], [[01 Canon Reference/Peoples and Cultures/Sestaran Concord/60 Realms and Peoples/Free City of Castara/The Free City of Castara Overview.md|The Free City of Castara Overview]], and [[01 Canon Reference/Peoples and Cultures/Sestaran Concord/60 Realms and Peoples/Principality of Aversia/The Principality of Aversia Overview.md|The Principality of Aversia Overview]] now state relationships that were absent from the original search inventory.
 
 ## Archive and Authority
 

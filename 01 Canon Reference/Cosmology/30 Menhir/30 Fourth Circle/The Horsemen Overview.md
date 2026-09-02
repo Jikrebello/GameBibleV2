@@ -46,5 +46,5 @@ The four pressures recur in sequence without forming a council or covenant. One 
 - [[The Faewild Schism]]
 - [[Relationships within the Menhir]]
 - [[The Second Circle]]
-- [[The Three-Bodied God Overview]]
+- [[01 Canon Reference/Cosmology/30 Menhir/20 Third Circle/The Three-Bodied God Overview.md|The Three-Bodied God Overview]]
 - [[Faewild and Menhir MOC]]

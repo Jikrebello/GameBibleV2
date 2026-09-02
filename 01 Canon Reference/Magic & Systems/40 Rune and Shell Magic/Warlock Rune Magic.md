@@ -108,4 +108,4 @@ Warlock traditions naturally produce:
 
 - [[Magic & Metaphysics MOC]]
 - [[Lancewright]]
-- [[The Crucible]]
+- [[01 Canon Reference/Peoples and Cultures/Sestaran Concord/60 Realms and Peoples/Citadel of Vorthara/The Crucible.md|The Crucible]]

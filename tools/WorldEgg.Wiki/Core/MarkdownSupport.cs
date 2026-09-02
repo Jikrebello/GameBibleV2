@@ -1,6 +1,3 @@
-using System.Runtime.CompilerServices;
-using System.Text;
-using System.Text.RegularExpressions;
 using Markdig;
 using Markdig.Extensions.AutoIdentifiers;
 using Markdig.Helpers;
@@ -9,10 +6,14 @@ using Markdig.Renderers;
 using Markdig.Renderers.Html;
 using Markdig.Syntax;
 using Markdig.Syntax.Inlines;
+using System.Runtime.CompilerServices;
+using System.Text;
+using System.Text.RegularExpressions;
 
 namespace WorldEgg.Wiki.Core;
 
 public sealed record ArticleHeading(string Id, string Text, int Level);
+
 public sealed class WikiInline(string target, string label, bool embed) : LeafInline
 {
     public string Target { get; } = target;
@@ -23,6 +24,7 @@ public sealed class WikiInline(string target, string label, bool embed) : LeafIn
 public sealed class WikiInlineParser : InlineParser
 {
     public WikiInlineParser() => OpeningCharacters = ['[', '!'];
+
     public override bool Match(InlineProcessor processor, ref StringSlice slice)
     {
         var text = slice.Text;
@@ -47,7 +49,9 @@ public sealed class WikiInlineParser : InlineParser
 internal sealed class WikiExtension : IMarkdownExtension
 {
     public void Setup(MarkdownPipelineBuilder pipeline) => pipeline.InlineParsers.Insert(0, new WikiInlineParser());
-    public void Setup(MarkdownPipeline pipeline, IMarkdownRenderer renderer) { }
+
+    public void Setup(MarkdownPipeline pipeline, IMarkdownRenderer renderer)
+    { }
 }
 
 public static class MarkdownSupport
@@ -55,14 +59,18 @@ public static class MarkdownSupport
     private static readonly ConditionalWeakTable<WikiDocument, ArticleHeading[]> HeadingCache = new();
     private static readonly ConditionalWeakTable<WikiDocument, HashSet<string>> AnchorCache = new();
     public static readonly MarkdownPipeline Pipeline = BuildPipeline();
+
     private static MarkdownPipeline BuildPipeline()
     {
         var builder = new MarkdownPipelineBuilder().UsePipeTables().UseFootnotes().UseAutoIdentifiers(AutoIdentifierOptions.GitHub).UseTaskLists().UseEmphasisExtras().UseGenericAttributes().UseAutoLinks();
         builder.Extensions.Add(new WikiExtension());
         return builder.Build();
     }
+
     public static MarkdownDocument Parse(string body) => Markdown.Parse(body, Pipeline);
+
     public static ArticleHeading[] GetHeadings(WikiDocument document) => HeadingCache.GetValue(document, d => Headings(Parse(d.Body)));
+
     public static HashSet<string> GetAnchors(WikiDocument document) => AnchorCache.GetValue(document, d =>
     {
         var parsed = Parse(d.Body);
@@ -70,7 +78,9 @@ public static class MarkdownSupport
         foreach (var heading in Headings(parsed)) { ids.Add(heading.Id); ids.Add(heading.Text); }
         return ids;
     });
+
     public static ArticleHeading[] Headings(MarkdownDocument document) => document.Descendants<HeadingBlock>().Select(h => new ArticleHeading(h.GetAttributes().Id ?? "", HeadingText(h), h.Level)).ToArray();
+
     public static string HeadingText(HeadingBlock heading) => Plain(heading.Inline).Trim();
 
     public static string Plain(ContainerInline? container)

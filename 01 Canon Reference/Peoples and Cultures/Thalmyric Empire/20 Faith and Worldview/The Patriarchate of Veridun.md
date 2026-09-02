@@ -48,7 +48,7 @@ Three separate visionary houses report an image of a lamp carried out of a burni
 ## Navigation
 
 - [[Faith and the Thalmyric Church Overview]]
-- [[The Court of Veridun (1360 AR)]]
+- [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/60 Realms and Peoples/Kingdom of Veridun/The Court of Veridun (1360 AR).md|The Court of Veridun (1360 AR)]]
 - [[The Holy Fire]]
 - [[The Great Split — Two Crowns, One Fire]]
 - [[Caleran and the Eternal Ember]]

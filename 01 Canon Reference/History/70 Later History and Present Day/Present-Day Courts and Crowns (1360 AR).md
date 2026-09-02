@@ -34,13 +34,13 @@ The authoritative register of who rules where in 1360 AR. Companion to [[Present
 
 **Caldria** — **Grand Duke Alric IV von Caldria**, staunchly old Church and pushing military modernization against his zealot old guard. **Veridancia** — **Duke Adrien III de Veridancia**, balancing Church obligation, Lantern seminaries, and merchant money. **Brauvalis** — **Duke Reinhardt von Brauvalis**, old Church but bruised by its conflicts, his settlement one succession from changing. **Korrheim** — the **Council of Heldenheim**, formed from rotating canton representatives and still scarred by the Falkendorf Rebellion. **The Sylvan Marches** — **High Warden Elias Dreymann**, alongside frontier lords such as **Baroness Katarina Wolfsden**, governs territory that is nominally old Church, heavily shaped by Folk inheritance, and difficult to rule. Old-rite Enaidfae and Chapel-Folk communities retain distinct claims. **Grenzburg** is officially Sanctum-loyal, with Folk practice beneath public observance and Freeflame preachers among the winter labor camps.
 
-**Marker of the age:** in Markish reform country the register runs Ansgar's way; in the Latinate territories the Sanctum holds; Virelia's folk piety remains eastern in texture beneath a Sanctum-aligned crown. See [[The Making of the Eclessians]].
+**Marker of the age:** in Markish reform country the register runs Ansgar's way; in the Latinate territories the Sanctum holds; Virelia's folk piety remains eastern in texture beneath a Sanctum-aligned crown. See [[01 Canon Reference/Peoples and Cultures/Eclessia/10 Foundations/The Making of the Eclessians.md|The Making of the Eclessians]].
 
 ## Thalmyria
 
 ### The Imperial Throne
 
-**Emperor Caedros IV Aetherion** rules in Veridun, claiming the Nikandran restoration line: Ash-Blood, past sixty, widowed, silent. His chancellery and the three-way succession are detailed in [[The Court of Veridun (1360 AR)]].
+**Emperor Caedros IV Aetherion** rules in Veridun, claiming the Nikandran restoration line: Ash-Blood, past sixty, widowed, silent. His chancellery and the three-way succession are detailed in [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/60 Realms and Peoples/Kingdom of Veridun/The Court of Veridun (1360 AR).md|The Court of Veridun (1360 AR)]].
 
 ### The Patriarchate
 

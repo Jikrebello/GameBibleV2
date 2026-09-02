@@ -14,7 +14,7 @@ tags: [module-conversion, game-ready, mechanic]
 ---
 # The Grove-Debt
 
-The grove-debt is the frontier name for the response produced when someone destroys a grove under [[Sylvorn]]'s law without performing the repair its territorial memory expects. It is a real metaphysical pressure, not a legal judgement and not proof that every price demanded in its name is just. The Folk and the Season-Cutters maintain customs that usually prevent it; the Timber-Cartel's Firebrands ignored those customs until the land answered.
+The grove-debt is the frontier name for the response produced when someone destroys a grove under [[01 Canon Reference/Cosmology/30 Menhir/20 Third Circle/Sylvorn.md|Sylvorn]]'s law without performing the repair its territorial memory expects. It is a real metaphysical pressure, not a legal judgement and not proof that every price demanded in its name is just. The Folk and the Season-Cutters maintain customs that usually prevent it; the Timber-Cartel's Firebrands ignored those customs until the land answered.
 
 ## Where It Comes From
 
@@ -72,7 +72,7 @@ The grove-debt is portable: any grove taken without restraint, any frontier prof
 - [[Sisrin the Alder-Maid]]
 - [[The Rime Rider]]
 - [[The Cloven]]
-- [[Sylvorn]]
+- [[01 Canon Reference/Cosmology/30 Menhir/20 Third Circle/Sylvorn.md|Sylvorn]]
 - [[Menhir Sovereignty and Bargain]]
 - [[Frontier Industry Chains]]
-- [[Folk Daily Life and the Thirteen Moons]]
+- [[01 Canon Reference/Peoples and Cultures/Folk/30 Society and Daily Life/Folk Daily Life and the Thirteen Moons.md|Folk Daily Life and the Thirteen Moons]]

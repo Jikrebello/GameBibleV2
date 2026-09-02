@@ -35,8 +35,8 @@ A Virelian magnate's catchers arrive at a Marches village with legal paper and a
 
 ## Navigation
 
-- [[Eclessia Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Eclessia/Eclessia Overview.md|Eclessia Overview]]
 - [[Lives of Eclessia — The Common Spine]]
-- [[The Duchy of Caldria Overview]]
-- [[The Sylvan Marches Overview]]
-- [[The Folk of the Frontier and the Wolfsmere Lineage]]
+- [[01 Canon Reference/Peoples and Cultures/Eclessia/60 Realms and Peoples/Duchy of Caldria/The Duchy of Caldria Overview.md|The Duchy of Caldria Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Eclessia/60 Realms and Peoples/Sylvan Marches/The Sylvan Marches Overview.md|The Sylvan Marches Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Folk/30 Society and Daily Life/The Folk of the Frontier and the Wolfsmere Lineage.md|The Folk of the Frontier and the Wolfsmere Lineage]]

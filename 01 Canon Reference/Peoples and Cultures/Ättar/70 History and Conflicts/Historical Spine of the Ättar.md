@@ -24,9 +24,13 @@ tags: []
 - **1052-1360 AR - Divided sea.** Privateering, slavery, foreign mercenary service, Church conversion, and winter Grobi pressure deepen differences among the four kindreds.
 - **1360 AR - Present day.** No chief-king commands all ranges. Grey-Wolf halls demand a larger winter muster while Lion-Mane fleets prefer profitable foreign service.
 
+## The Tidewood Neighbours
+
+[[History of the Tidewood Coast]] records continuing marriage, craft and seafaring ties with related Folk communities. Keldscar's fosterage ties, Rookstrand's mixed crews and the betrayal of Hadrun and Tova by [[Orven Blackkeel]] are local coastal history, not the origins of the four Ättar pact-kindreds. The Three Beaches are not an Ättar range or a new Saltborn homeland.
+
 ## Navigation
 
-- [[Ättar Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Ättar/Ättar Overview.md|Ättar Overview]]
 - [[War of the Empty Halls]]
 
 ## Historical Atlas — wider inheritance

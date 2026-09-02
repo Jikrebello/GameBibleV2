@@ -127,9 +127,9 @@ A Thalmyric character becomes clearest when placed at one of the road's decision
 
 ## Navigation
 
-- [[Thalmyric Empire Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/Thalmyric Empire Overview.md|Thalmyric Empire Overview]]
 - [[Thalmyric Daily Life and the Burning Year]]
-- [[Thalmyria Cultural Thesis]]
-- [[The Court of Veridun (1360 AR)]]
+- [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/10 Foundations/Thalmyria Cultural Thesis.md|Thalmyria Cultural Thesis]]
+- [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/60 Realms and Peoples/Kingdom of Veridun/The Court of Veridun (1360 AR).md|The Court of Veridun (1360 AR)]]
 - [[Grenzburg Numbers and Constraints]]
 - [[Material Realm Overview]]

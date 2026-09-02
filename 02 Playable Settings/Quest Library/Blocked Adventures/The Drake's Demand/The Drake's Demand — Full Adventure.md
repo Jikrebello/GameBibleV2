@@ -47,7 +47,7 @@ Hellerbruck, its founding history, Sovarath, Othmar's murder, the Giltlings, the
 
 No outcome is canon. Public references should describe Dame Sabine as the town's drake-slaying founder and the upper quarry as disputed old ground without asserting whether Sovarath dies, escapes, rules, or remains dormant. This adventure is independent of [[The Dead Press Upward — Full Adventure]], [[The Feast at Wanemoor]], and other Brauvalian campaigns.
 
-Sovarath is a gold drake, not a true dragon. Its rare elder sapience does not make ordinary drakes speaking peoples, patrons, or lesser Abyssal dragons. See [[Drakes Overview]] and [[Gold Drakes]].
+Sovarath is a gold drake, not a true dragon. Its rare elder sapience does not make ordinary drakes speaking peoples, patrons, or lesser Abyssal dragons. See [[Drakes Overview]] and [[01 Canon Reference/Creatures/20 Faewild and Menhir/10 Drakes/Gold Drakes.md|Gold Drakes]].
 
 ## Moral Ruling
 
@@ -501,5 +501,5 @@ Groups can combine Sessions 3-4, 5-6, or 8-9 for an eight-session campaign. Long
 - [[The Meridian Mirror]]
 - [[Giltlings]]
 - [[The Bright-Tail Host]]
-- [[Gold Drakes]]
-- [[The Duchy of Brauvalis Overview]]
+- [[01 Canon Reference/Creatures/20 Faewild and Menhir/10 Drakes/Gold Drakes.md|Gold Drakes]]
+- [[01 Canon Reference/Peoples and Cultures/Eclessia/60 Realms and Peoples/Duchy of Brauvalis/The Duchy of Brauvalis Overview.md|The Duchy of Brauvalis Overview]]

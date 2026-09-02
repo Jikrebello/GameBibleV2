@@ -48,5 +48,5 @@ Halmenth wants naval inspection rights in the lower docks, while fleet captains 
 ## Navigation
 
 - [[Four Ways of Jirahar Life]]
-- [[The Sermoran Republic Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Sestaran Concord/60 Realms and Peoples/Sermoran Republic/The Sermoran Republic Overview.md|The Sermoran Republic Overview]]
 - [[Faiths of the Seven Cities]]

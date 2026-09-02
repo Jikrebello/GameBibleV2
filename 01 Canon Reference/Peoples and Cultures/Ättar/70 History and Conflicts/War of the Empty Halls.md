@@ -23,5 +23,5 @@ The war did not create four states. Its coalitions became the great kindreds wit
 
 ## Navigation
 
-- [[Ättar Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Ättar/Ättar Overview.md|Ättar Overview]]
 - [[Mother Moon's Bargain]]

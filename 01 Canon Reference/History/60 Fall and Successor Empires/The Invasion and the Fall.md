@@ -42,7 +42,7 @@ Covenant government secured ports, aqueducts, roads, archives, and productive es
 
 ## Navigation
 
-- [[Prelude to Collapse]]
+- [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/70 History and Conflicts/Prelude to Collapse.md|Prelude to Collapse]]
 - [[The Refuge and the Rise of Veridun]]
 - [[The Long Reconquest (908-1052 AR)]]
 - [[Chronology of the Known World (AR Dating)]]

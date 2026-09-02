@@ -28,6 +28,6 @@ The Green Ward visibly grows emerald glass, root-like tracery, and ordered patch
 ## Navigation
 
 - [[A Drake in Winter]]
-- [[Emerald Drakes]]
+- [[01 Canon Reference/Creatures/20 Faewild and Menhir/10 Drakes/Emerald Drakes.md|Emerald Drakes]]
 - [[The Dead March]]
 - [[Main Campaign MOC]]

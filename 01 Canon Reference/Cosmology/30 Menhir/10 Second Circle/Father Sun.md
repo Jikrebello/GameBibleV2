@@ -76,5 +76,5 @@ Father Sun cannot reveal spiritual guilt, forgive sin, judge testimony, or make 
 - [[Solar Sons]]
 - [[Menhir Sovereignty and Bargain]]
 - [[The Faewild Schism]]
-- [[Gold Drakes]]
+- [[01 Canon Reference/Creatures/20 Faewild and Menhir/10 Drakes/Gold Drakes.md|Gold Drakes]]
 - [[Relationships within the Menhir]]

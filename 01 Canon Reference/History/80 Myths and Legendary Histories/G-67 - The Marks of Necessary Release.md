@@ -56,6 +56,8 @@ Names, precise sites and competing supernatural claims may remain uncertain with
 
 ## Read onward
 
+- [[History of the Tidewood Coast]] — later coastal households inherit the release cuts; the original catastrophe remains in the watershed.
+
 - [[Early Folk Clan Worlds]]
 - [[Southern Cold Belt and Grobi Frontier]]
 - [[River Leagues and Sea-Kings of the Early World]]

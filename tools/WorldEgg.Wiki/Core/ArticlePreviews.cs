@@ -3,6 +3,7 @@ using Markdig.Syntax;
 namespace WorldEgg.Wiki.Core;
 
 public sealed record ArticlePreview(WikiDocument Document, string Excerpt, string Href, string? Section);
+
 public sealed class ArticlePreviews(VaultCatalogue catalogue)
 {
     public ArticlePreview? Get(string id, string? fragment)

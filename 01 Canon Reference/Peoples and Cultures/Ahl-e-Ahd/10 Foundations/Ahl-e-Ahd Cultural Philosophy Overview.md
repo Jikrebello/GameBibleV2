@@ -35,6 +35,6 @@ Rulers are legitimate only while they discharge named obligations: defending roa
 
 ## Navigation
 
-- [[The Ahl-e-Ahd Overview]]
-- [[Al-Ahdiya Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Ahl-e-Ahd/The Ahl-e-Ahd Overview.md|The Ahl-e-Ahd Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Ahl-e-Ahd/20 Faith and Worldview/Al-Ahdiya Overview.md|Al-Ahdiya Overview]]
 - [[Contract Magic and True Names]]

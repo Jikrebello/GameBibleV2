@@ -63,7 +63,7 @@ Cavora supports road-peace disputes, caravan mysteries, worker and claim rivalri
 ## Navigation
 
 - [[Castaran Long Road]]
-- [[The Free City of Castara Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Sestaran Concord/60 Realms and Peoples/Free City of Castara/The Free City of Castara Overview.md|The Free City of Castara Overview]]
 - [[Ash Horde]]
 - [[Grass-Tarkhan]]
 - [[Gazetteer of the Known World]]

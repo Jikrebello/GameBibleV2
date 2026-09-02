@@ -51,7 +51,7 @@ The emperor appoints ministers, commands armies, confirms governors, and enforce
 ## Navigation
 
 - [[The Court of Veridun (1360 AR)]]
-- [[Structure of the Empire Overview]]
-- [[The Patriarchate of Veridun]]
-- [[The Coronation at Virelos]]
-- [[Thalmyric Empire Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/40 Government and Institutions/Structure of the Empire Overview.md|Structure of the Empire Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/20 Faith and Worldview/The Patriarchate of Veridun.md|The Patriarchate of Veridun]]
+- [[01 Canon Reference/History/60 Fall and Successor Empires/The Coronation at Virelos.md|The Coronation at Virelos]]
+- [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/Thalmyric Empire Overview.md|Thalmyric Empire Overview]]

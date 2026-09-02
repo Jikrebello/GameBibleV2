@@ -72,6 +72,6 @@ The Duke's year and the Folk's year grind against each other at every point abov
 ## Navigation
 
 - [[The Folk of the Frontier and the Wolfsmere Lineage]]
-- [[The Making of the Eclessians]]
-- [[Eclessian Daily Life and the Year of the Flame]]
+- [[01 Canon Reference/Peoples and Cultures/Eclessia/10 Foundations/The Making of the Eclessians.md|The Making of the Eclessians]]
+- [[01 Canon Reference/Peoples and Cultures/Eclessia/30 Society and Daily Life/Eclessian Daily Life and the Year of the Flame.md|Eclessian Daily Life and the Year of the Flame]]
 - [[The Folk Overview]]

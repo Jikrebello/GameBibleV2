@@ -65,8 +65,8 @@ Evidence in Harthwatch points onward to a privateer cache in [[The Chimera Cache
 
 - [[Eclessian Canon Register]]
 - [[The Korrheim Accord]]
-- [[The Duchy of Brauvalis Overview]]
-- [[Lives of Korrheim and Brauvalis]]
+- [[01 Canon Reference/Peoples and Cultures/Eclessia/60 Realms and Peoples/Duchy of Brauvalis/The Duchy of Brauvalis Overview.md|The Duchy of Brauvalis Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Eclessia/30 Society and Daily Life/Life Paths/Lives of Korrheim and Brauvalis.md|Lives of Korrheim and Brauvalis]]
 
 ## Research Basis
 

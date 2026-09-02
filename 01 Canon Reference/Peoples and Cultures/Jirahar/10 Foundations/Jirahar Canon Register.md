@@ -18,7 +18,7 @@ tags: []
 1. [[Chronology of the Known World (AR Dating)]]
 2. [[Historical Spine of the Jirahar]]
 3. this register
-4. [[The Jirahar Overview]]
+4. [[01 Canon Reference/Peoples and Cultures/Jirahar/The Jirahar Overview.md|The Jirahar Overview]]
 5. faith, law, society, tower, and economy authorities
 6. adventures and in-world testimony
 

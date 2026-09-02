@@ -47,5 +47,5 @@ Pilgrims cross the same roads, scholars exchange texts, and both Churches oppose
 
 - [[The Great Split — Two Crowns, One Fire]]
 - [[Faith and the Thalmyric Church Overview]]
-- [[Eclessian Church Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Eclessia/20 Faith and Worldview/Eclessian Church Overview.md|Eclessian Church Overview]]
 - [[The Making of Saints]]

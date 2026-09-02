@@ -67,7 +67,7 @@ Solrath cannot establish a just war, rightful victor, or honorable target. Count
 ## Navigation
 
 - [[The Horsemen Overview]]
-- [[Father Sun]]
-- [[Astaroth]]
+- [[01 Canon Reference/Cosmology/30 Menhir/10 Second Circle/Father Sun.md|Father Sun]]
+- [[01 Canon Reference/Cosmology/30 Menhir/10 Second Circle/Astaroth.md|Astaroth]]
 - [[Menhir Sovereignty and Bargain]]
 - [[The Faewild Schism]]

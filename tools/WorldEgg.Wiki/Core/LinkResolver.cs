@@ -1,9 +1,11 @@
-using System.Text.RegularExpressions;
 using System.Runtime.CompilerServices;
+using System.Text.RegularExpressions;
 
 namespace WorldEgg.Wiki.Core;
 
-public enum LinkState { Found, Missing, Ambiguous, Blocked, External }
+public enum LinkState
+{ Found, Missing, Ambiguous, Blocked, External }
+
 public sealed record LinkResult(LinkState State, string Target, string Fragment, string[] Candidates)
 {
     public string? Id => State == LinkState.Found ? Candidates[0] : null;
@@ -13,6 +15,7 @@ public sealed class LinkResolver(VaultPaths paths, VaultCatalogue catalogue)
 {
     private sealed record Lookup(Dictionary<string, string[]> Files, Dictionary<string, string[]> Aliases);
     private readonly ConditionalWeakTable<CatalogueSnapshot, Lookup> _lookups = new();
+
     public LinkResult Resolve(string target, string sourceId, CatalogueSnapshot? snapshot = null)
     {
         var current = snapshot ?? catalogue.Current;
@@ -74,6 +77,8 @@ public sealed class LinkResolver(VaultPaths paths, VaultCatalogue catalogue)
     }
 
     public static string PageUrl(string id) => "/wiki?path=" + Uri.EscapeDataString(id);
+
     public static string AssetUrl(string id) => "/asset?path=" + Uri.EscapeDataString(id);
+
     public static string BaseUrl(string id) => "/base?path=" + Uri.EscapeDataString(id);
 }

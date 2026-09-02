@@ -52,4 +52,4 @@ After settlement, coastal hall society and the [[War of the Empty Halls]] produc
 - [[Historical Spine of the Folk]]
 - [[Southern Cold Belt and Grobi Frontier]]
 - [[The Folk Overview]]
-- [[Ättar Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Ättar/Ättar Overview.md|Ättar Overview]]

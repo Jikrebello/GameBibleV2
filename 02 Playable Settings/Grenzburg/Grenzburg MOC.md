@@ -123,7 +123,7 @@ The base-game atlas contains Grenzburg city and seven exterior regions. [[Birchc
 
 - [[Grobi Overview]] controls the wider people and moral-agency ruling.
 - [[The Grobi|The Grobi in Grenzburg]] controls band-specific campaign use; Grobi are not a joinable global faction.
-- [[Emerald Drakes]] controls the mandatory winter hunt as an animal encounter.
+- [[01 Canon Reference/Creatures/20 Faewild and Menhir/10 Drakes/Emerald Drakes.md|Emerald Drakes]] controls the mandatory winter hunt as an animal encounter.
 - [[Residue Dead Overview]] controls corpse residue and the rule that souls have routed onward.
 - [[Qianglong Caste Recurrences]] controls Giant legacy forms used by the Muster.
 - [[The Unending Muster]] controls the historical and metaphysical source of Act III.

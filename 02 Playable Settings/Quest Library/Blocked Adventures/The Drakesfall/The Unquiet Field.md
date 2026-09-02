@@ -28,8 +28,8 @@ The leaked law takes the color and character of its court:
 
 - **Stacked seasons:** the field's timekeeping slips, and two seasons hold at once in one meadow — frost and bloom together — because succession-law is running without a keeper.
 - **The circling game:** deer, goats, and birds move in perfect circles and wheels; territorial and migration law looping with nothing to point it forward. People who linger risk joining the circle.
-- **Leaking moon-law:** by night, a century-dead [[Silver Drakes|silver drake]]'s law bleeds up — unnatural moonlight, the silver court's uncanny stillness, and a pull toward sleep and wandering. This is what reaches the villages first.
-- **Sun-scald:** near the half-harvested [[Gold Drakes|gold drake]], the days run hot and bright with leaked sun-law — glare, heat-shimmer, and the gold court's hoarding-madness in anyone who pockets a loose gem.
+- **Leaking moon-law:** by night, a century-dead [[01 Canon Reference/Creatures/20 Faewild and Menhir/10 Drakes/Silver Drakes.md|silver drake]]'s law bleeds up — unnatural moonlight, the silver court's uncanny stillness, and a pull toward sleep and wandering. This is what reaches the villages first.
+- **Sun-scald:** near the half-harvested [[01 Canon Reference/Creatures/20 Faewild and Menhir/10 Drakes/Gold Drakes.md|gold drake]], the days run hot and bright with leaked sun-law — glare, heat-shimmer, and the gold court's hoarding-madness in anyone who pockets a loose gem.
 
 ## Field Strain
 
@@ -67,5 +67,5 @@ The Unquiet Field is portable to any tended Faewild law-place whose keepers are 
 - [[The Gemfallen]]
 - [[Kyra Vael]]
 - [[Drakes Overview]]
-- [[Silver Drakes]]
-- [[Gold Drakes]]
+- [[01 Canon Reference/Creatures/20 Faewild and Menhir/10 Drakes/Silver Drakes.md|Silver Drakes]]
+- [[01 Canon Reference/Creatures/20 Faewild and Menhir/10 Drakes/Gold Drakes.md|Gold Drakes]]

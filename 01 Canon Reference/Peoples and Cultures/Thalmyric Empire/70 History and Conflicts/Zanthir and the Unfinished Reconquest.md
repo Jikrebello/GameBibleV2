@@ -37,7 +37,7 @@ Liberating captives, ending name custody, and defending threatened communities a
 
 ## Navigation
 
-- [[Emirate of Zanthir Overview]]
-- [[The Velian States Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Ahl-e-Ahd/60 Realms and Peoples/Emirate of Zanthir/Emirate of Zanthir Overview.md|Emirate of Zanthir Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Velian/60 Realms and Peoples/Velian States/The Velian States Overview.md|The Velian States Overview]]
 - [[Thalmyric Armies and the Long Frontier]]
-- [[The Reconquest and Conflict with the Ahl-e-Ahd Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/70 History and Conflicts/Reconquest and Ahl-e-Ahd Frontier/The Reconquest and Conflict with the Ahl-e-Ahd Overview.md|The Reconquest and Conflict with the Ahl-e-Ahd Overview]]

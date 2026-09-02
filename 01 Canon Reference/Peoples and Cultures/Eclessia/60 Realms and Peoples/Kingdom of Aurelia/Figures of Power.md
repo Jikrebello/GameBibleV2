@@ -46,6 +46,6 @@ Vrenne wants the Unburnt Psalter contained permanently. Braxford wants it tested
 ## Navigation
 
 - [[The Kingdom of Aurelia Overview]]
-- [[Eclessian Church Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Eclessia/20 Faith and Worldview/Eclessian Church Overview.md|Eclessian Church Overview]]
 - [[Named Figures of the Known World]]
 

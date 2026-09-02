@@ -51,6 +51,6 @@ Burning a suspect is not a metaphysical test. Coerced confession is unreliable, 
 
 - [[Eclessian Church Overview]]
 - [[Freeflame Reformation]]
-- [[The Grey Sweat]]
+- [[01 Canon Reference/History/70 Later History and Present Day/The Grey Sweat.md|The Grey Sweat]]
 - [[The Atlas of the Left Hand]]
 - [[White Flame Doctrine]]

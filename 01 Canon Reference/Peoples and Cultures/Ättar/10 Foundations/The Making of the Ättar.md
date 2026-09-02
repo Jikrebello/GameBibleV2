@@ -23,7 +23,7 @@ The Lion, Ox, Bear, and Wolf names began as broad regional affiliations. They be
 
 ## Contact and Expansion
 
-Isolated proto-Atherian ships, refugees and war-settlers reached some southern coasts through Folk and maritime routes long before formal city-state contact. They were traded with, robbed, absorbed or driven off and did not create Ättar hall society. Atherian rule later reached some harbors and tribute routes but never reduced the ranges to ordinary provinces. Ättar served as auxiliaries, raided imperial shipping, traded furs and iron, and learned new ship and metal techniques. During the Age of Decadence, sea-kings pushed farther north and west. Their settlement on Kedrava's coast helped create the [[The Saltborn Coast Overview|Saltborn]].
+Isolated proto-Atherian ships, refugees and war-settlers reached some southern coasts through Folk and maritime routes long before formal city-state contact. They were traded with, robbed, absorbed or driven off and did not create Ättar hall society. Atherian rule later reached some harbors and tribute routes but never reduced the ranges to ordinary provinces. Ättar served as auxiliaries, raided imperial shipping, traded furs and iron, and learned new ship and metal techniques. During the Age of Decadence, sea-kings pushed farther north and west. Their settlement on Kedrava's coast helped create the [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/60 Realms and Peoples/The Saltborn Coast Overview.md|Saltborn]].
 
 ## A Living Mixed People
 
@@ -31,5 +31,5 @@ Centuries of raiding, slavery, marriage, fosterage, adoption, and mercenary serv
 
 ## Navigation
 
-- [[Ättar Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Ättar/Ättar Overview.md|Ättar Overview]]
 - [[Historical Spine of the Ättar]]

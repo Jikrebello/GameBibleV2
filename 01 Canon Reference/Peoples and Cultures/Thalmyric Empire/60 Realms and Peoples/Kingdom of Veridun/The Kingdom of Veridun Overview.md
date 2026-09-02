@@ -56,4 +56,4 @@ Court intrigue, sacred archaeology, city underlayers, return law, imperial cerem
 - [[The Court of Veridun (1360 AR)]]
 - [[Caleran and the Eternal Ember]]
 - [[The Imperial Throne of Veridun]]
-- [[Thalmyric Empire Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/Thalmyric Empire Overview.md|Thalmyric Empire Overview]]

@@ -79,5 +79,5 @@ Violence committed in an assigned form remains morally relevant, but coercion, c
 - [[House of Mutable Form]]
 - [[Reversion Crook]]
 - [[Form-Ruins]]
-- [[Lives of Vorthara]]
+- [[01 Canon Reference/Peoples and Cultures/Sestaran Concord/30 Society and Daily Life/Life Paths/Lives of Vorthara.md|Lives of Vorthara]]
 

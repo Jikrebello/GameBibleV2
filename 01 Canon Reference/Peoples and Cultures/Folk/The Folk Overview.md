@@ -16,9 +16,11 @@ tags: ["core-canon"]
 
 Historical reading: [[Historical Spine of the Folk]], within the [[World Historical Atlas MOC]].
 
+For a continuous regional history, follow [[History of the Tidewood Coast]] through its harbours, boatworkers, rival kindreds and dangerous shore powers.
+
 The **Folk** are the many clan peoples of the southern forests, mountain ranges, cold coasts, and Eclessian marches. They share ancestral roots, hearth-law, winter obligations, and a wary knowledge of the courts beyond ordinary life, but they are not a nation. A person is Moss-Crown, Grey-Withy, Tidewood, Gale-Crown, or Bent Oak before they are Folk.
 
-**Fäskogarfolk** is an archaic scholarly name for the ancestor population from which the Folk and the [[Ättar Overview|Ättar]] developed. **Old Blood** is a proud ceremonial expression. Neither implies one government or one religion.
+**Fäskogarfolk** is an archaic scholarly name for the ancestor population from which the Folk and the [[01 Canon Reference/Peoples and Cultures/Ättar/Ättar Overview.md|Ättar]] developed. **Old Blood** is a proud ceremonial expression. Neither implies one government or one religion.
 
 ## What Holds Them Together
 
@@ -61,11 +63,11 @@ The [[Chapel-Folk]] are both Folk and genuinely Redeemer-faithful. They preserve
 - [[The Making of the Folk]]
 - [[Historical Spine of the Folk]]
 - [[Folk Clans, Confederacies, and Feud-Law]]
-- [[Folk Daily Life and the Thirteen Moons]]
+- [[01 Canon Reference/Peoples and Cultures/Folk/30 Society and Daily Life/Folk Daily Life and the Thirteen Moons.md|Folk Daily Life and the Thirteen Moons]]
 - [[Enaidfae Old-Rite Confederacies]]
 - [[Folk Economy and Technology]]
 - [[Folk Architecture and Settlement]]
 - [[Frost-Road and the Winter War]]
 - [[Folk and the Wider World]]
-- [[Ättar Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Ättar/Ättar Overview.md|Ättar Overview]]
 - [[Cultures MOC]]

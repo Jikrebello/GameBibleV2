@@ -44,7 +44,7 @@ The **Heart-Oak Root Vault** is the final lair chamber beneath a damaged heart-o
 
 ## Encounter Families
 
-[[Emerald Drakes]], ordinary predators, displaced prey, dangerous plants, weather, falls, wounded terrain, and opportunistic human hunters. Not every encounter belongs to the Drake.
+[[01 Canon Reference/Creatures/20 Faewild and Menhir/10 Drakes/Emerald Drakes.md|Emerald Drakes]], ordinary predators, displaced prey, dangerous plants, weather, falls, wounded terrain, and opportunistic human hunters. Not every encounter belongs to the Drake.
 
 ## Persistence
 
@@ -59,4 +59,4 @@ The Emerald Drake is slain in the critical path. The range remains explorable af
 - [[ACT II WINTER'S TEETH]]
 - [[The Emerald Trail]]
 - [[A Drake in Winter]]
-- [[Emerald Drakes]]
+- [[01 Canon Reference/Creatures/20 Faewild and Menhir/10 Drakes/Emerald Drakes.md|Emerald Drakes]]

@@ -19,7 +19,7 @@ It was not a second moral rebellion. The new sovereignties could choose, compete
 
 ## Trium Before the Schism
 
-The office-holders and cohorts now called [[Sylvorn]], [[Thalassor]], and [[Zephyraxis]] entered the Faewild together. Land, sea, and sky initially fused into a stable three-centered sovereignty known as **Trium**.
+The office-holders and cohorts now called [[01 Canon Reference/Cosmology/30 Menhir/20 Third Circle/Sylvorn.md|Sylvorn]], [[01 Canon Reference/Cosmology/30 Menhir/20 Third Circle/Thalassor.md|Thalassor]], and [[01 Canon Reference/Cosmology/30 Menhir/20 Third Circle/Zephyraxis.md|Zephyraxis]] entered the Faewild together. Land, sea, and sky initially fused into a stable three-centered sovereignty known as **Trium**.
 
 Trium could coordinate root, watershed, current, atmosphere, migration, coast, weather, and pressure as one world-system. That integration was powerful enough to make the rest of the Faewild subordinate. Routes closed into one topology. Seasons became functions of a single engine. Courts, animals, and local laws were assigned places they had not chosen.
 
@@ -29,14 +29,14 @@ Trium did not understand this as tyranny. It understood total integration as com
 
 The other Menhir resisted because Trium's order left too little room for their own domains.
 
-- [[Father Sun]] and [[Mother Moon]] refused to let exposure and cycle become mere outputs of land-sea-sky administration.
-- [[Hecatara]] opened routes that Trium's topology had declared impossible.
-- [[Lyraxis]] multiplied forms and exceptions faster than the world-body could classify them.
-- [[Typhonius]] forced incompatible ecologies into stable recombinations.
-- [[Arachnara]] severed and rewove the distributed networks through which Trium coordinated distant regions.
-- [[Astaroth]] concentrated collision at the union's structural joins.
-- [[Orionis]] hunted every weak boundary those collisions exposed.
-- [[Solrath]], [[Nevaura]], [[Morvalis]], and [[Veradia]] drove seasonal extremes beyond the smooth cycle Trium attempted to enforce.
+- [[01 Canon Reference/Cosmology/30 Menhir/10 Second Circle/Father Sun.md|Father Sun]] and [[01 Canon Reference/Cosmology/30 Menhir/10 Second Circle/Mother Moon.md|Mother Moon]] refused to let exposure and cycle become mere outputs of land-sea-sky administration.
+- [[01 Canon Reference/Cosmology/30 Menhir/10 Second Circle/Hecatara.md|Hecatara]] opened routes that Trium's topology had declared impossible.
+- [[01 Canon Reference/Cosmology/30 Menhir/10 Second Circle/Lyraxis.md|Lyraxis]] multiplied forms and exceptions faster than the world-body could classify them.
+- [[01 Canon Reference/Cosmology/30 Menhir/10 Second Circle/Typhonius.md|Typhonius]] forced incompatible ecologies into stable recombinations.
+- [[01 Canon Reference/Cosmology/30 Menhir/10 Second Circle/Arachnara.md|Arachnara]] severed and rewove the distributed networks through which Trium coordinated distant regions.
+- [[01 Canon Reference/Cosmology/30 Menhir/10 Second Circle/Astaroth.md|Astaroth]] concentrated collision at the union's structural joins.
+- [[01 Canon Reference/Cosmology/30 Menhir/10 Second Circle/Orionis.md|Orionis]] hunted every weak boundary those collisions exposed.
+- [[01 Canon Reference/Cosmology/30 Menhir/30 Fourth Circle/Solrath.md|Solrath]], [[01 Canon Reference/Cosmology/30 Menhir/30 Fourth Circle/Nevaura.md|Nevaura]], [[01 Canon Reference/Cosmology/30 Menhir/30 Fourth Circle/Morvalis.md|Morvalis]], and [[01 Canon Reference/Cosmology/30 Menhir/30 Fourth Circle/Veradia.md|Veradia]] drove seasonal extremes beyond the smooth cycle Trium attempted to enforce.
 
 These acts resembled conspiracy, alliance, and betrayal when later told as a family epic. Authorially, they were the coordinated and opportunistic behavior of sovereignties protecting their own expression.
 
@@ -78,8 +78,8 @@ The missing “First Circle” belongs to Atherian theology. Imperial priests im
 
 - [[The Great Rebellion and the Yolk Exiles]]
 - [[Menhir Sovereignty and Bargain]]
-- [[Trium]]
-- [[The Three-Bodied God Overview]]
+- [[01 Canon Reference/Cosmology/30 Menhir/20 Third Circle/Trium.md|Trium]]
+- [[01 Canon Reference/Cosmology/30 Menhir/20 Third Circle/The Three-Bodied God Overview.md|The Three-Bodied God Overview]]
 - [[Relationships within the Menhir]]
 - [[The Mythology of The Menhir]]
 - [[Timeline MOC]]

@@ -71,9 +71,9 @@ Along the schism border the two daily lives interleave: valleys that crown their
 
 ## Navigation
 
-- [[Thalmyric Empire Overview]]
-- [[Thalmyria Cultural Thesis]]
-- [[Faith and the Thalmyric Church Overview]]
-- [[Eclessian Daily Life and the Year of the Flame]]
-- [[Folk Daily Life and the Thirteen Moons]]
+- [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/Thalmyric Empire Overview.md|Thalmyric Empire Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/10 Foundations/Thalmyria Cultural Thesis.md|Thalmyria Cultural Thesis]]
+- [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/20 Faith and Worldview/Faith and the Thalmyric Church Overview.md|Faith and the Thalmyric Church Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Eclessia/30 Society and Daily Life/Eclessian Daily Life and the Year of the Flame.md|Eclessian Daily Life and the Year of the Flame]]
+- [[01 Canon Reference/Peoples and Cultures/Folk/30 Society and Daily Life/Folk Daily Life and the Thirteen Moons.md|Folk Daily Life and the Thirteen Moons]]
 - [[Amaryah the Fire-Bearer]]

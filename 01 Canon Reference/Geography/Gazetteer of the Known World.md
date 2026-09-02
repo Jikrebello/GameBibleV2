@@ -34,7 +34,7 @@ Mountainous heart of the old empire. **Caleran** on the northwestern lowland coa
 
 The core population follows fortified cities, functioning aqueducts, ports, monasteries, and maintained imperial roads. Between them lie abandoned terraces, thinly settled valleys, occupation ghost towns, and ruins from every Atherian and post-Atherian period. The Long Reconquest reached Caleran in 957 but continued through the core provinces until 1052; its settlement corridors remain visible in veteran towns and fortified roads. See [[Thalmyric Heartland - Cities, Ruins, and the Empty Interior]] and [[The Layers Beneath Thalmyria]].
 
-The empire's **western and southwestern outer coast in Kedrava is the Saltborn homeland**. **Halmenth**, at the western mouth of the Celion, is its chief port and Saint Naris's drowning-place. Six miles west of the estuary, [[Celion Light Station]] stands on the reef-islet called Saint Naris's Tooth and marks the safe passage through the outer Teeth. Centuries of Ättar sea-raiding, settlement, baptism, and naval service transformed the Atherian-Kedravan coast population into the [[The Saltborn Coast Overview|Saltborn]]. **Soligrad** and the fishing towns associated with the Thirty Sisters line the same maritime rim. Saronika and Caleran contain later Saltborn naval districts but are not the culture's homeland.
+The empire's **western and southwestern outer coast in Kedrava is the Saltborn homeland**. **Halmenth**, at the western mouth of the Celion, is its chief port and Saint Naris's drowning-place. Six miles west of the estuary, [[Celion Light Station]] stands on the reef-islet called Saint Naris's Tooth and marks the safe passage through the outer Teeth. Centuries of Ättar sea-raiding, settlement, baptism, and naval service transformed the Atherian-Kedravan coast population into the [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/60 Realms and Peoples/The Saltborn Coast Overview.md|Saltborn]]. **Soligrad** and the fishing towns associated with the Thirty Sisters line the same maritime rim. Saronika and Caleran contain later Saltborn naval districts but are not the culture's homeland.
 
 ### The Covenant (Ahl-e-Ahd) — north and northwest
 
@@ -62,7 +62,7 @@ Beyond the western edge of the base-game atlas, [[Birchcross]] is a Chapel-Folk 
 
 The grey forest world below the settled realms contains four overlapping customary regions rather than one country. The **Green March Kindreds** meet Eclessia and Grenzburg; the **Rootbound Heartwood** occupies the deep south-central forest; the **Gale-Crown Ranges** hold eastern mountain woods and Grobi-facing passes; and the **Tidewood Coast** follows the cold ocean-facing forest. Old-rite Enaidfae confederacies are strongest in the latter three but remain culturally Folk.
 
-The distinct **Ättar ranges** lie to the southwest. Their western sea-road reaches Kedrava directly, and centuries of raid-then-settle history produced the [[The Saltborn Coast Overview|Saltborn]]. The four customary ranges are the Lion-Mane Coast, Hornwall Valleys, Bearshield Holds, and Grey-Wolf Range; each contains many rival halls rather than one government. Beyond the Folk country lie the **Grobi Wastes** of the far southeast, whose winter migration corridors aim toward Grenzburg's latitude.
+The distinct **Ättar ranges** lie to the southwest. Their western sea-road reaches Kedrava directly, and centuries of raid-then-settle history produced the [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/60 Realms and Peoples/The Saltborn Coast Overview.md|Saltborn]]. The four customary ranges are the Lion-Mane Coast, Hornwall Valleys, Bearshield Holds, and Grey-Wolf Range; each contains many rival halls rather than one government. Beyond the Folk country lie the **Grobi Wastes** of the far southeast, whose winter migration corridors aim toward Grenzburg's latitude.
 
 ### The Tarkhan Lands — the northern dry belt
 
@@ -75,7 +75,7 @@ Twelve road-days west of Castara, [[Cavora]] occupies a bounded roadholding gran
 - **The Great Glass Desert** — the shimmering north-center of the continent, the Exodus crossing; beyond it, the lost Giant lands of the northern hemisphere.
 - **The Nsizwa Continent** — a separate island-continent in the far southwest ocean: temperate highlands, Mzalu's Hold, the Izivukwa shrines. Reached by a hard month's sail from the Ättar coasts or Qazmarid; the Nsizwa prefer it hard. **[Per placement decision: their own landmass, not the Qazmarid continent.]**
 - **The Emerald Expanse (the New World)** — the northern hemisphere across the Boiling Sea, where the Giant empires died; every Castaran expedition is also an excavation of the Age of Chains, whether it knows it or not.
-- **The Jirahar** hold no continuous territory: five living deep tower-citadels and the ruined Empty City. [[Migdal Qesheth]] stands near Zanthir, [[Migdal Dahava]] in the Velian belt, [[Migdal Yamma]] on the western Kedravan sea-road near Halmenth, [[Migdal Melach]] on the Iqashar-Tarkhan road, [[Migdal Talga]] in the cold Eclessian marches near Grenzburg, and [[Qiryath Reqa]] in the eastern Eclessian riverlands. Physical routes, local Underways, and fixed Way-Gates connect them. See [[Tower Towns and the Prophet's Roads]].
+- **The Jirahar** hold no continuous territory: five living deep tower-citadels and the ruined Empty City. [[Migdal Qesheth]] stands near Zanthir, [[Migdal Dahava]] in the Velian belt, [[Migdal Yamma]] on the western Kedravan sea-road near Halmenth, [[Migdal Melach]] on the Iqashar-Tarkhan road, [[Migdal Talga]] in the cold Eclessian marches near Grenzburg, and [[Qiryath Reqa]] in the eastern Eclessian riverlands. Physical routes, local Underways, and fixed Way-Gates connect them. See [[01 Canon Reference/Peoples and Cultures/Jirahar/60 Realms and Peoples/Tower Towns and the Prophet's Roads.md|Tower Towns and the Prophet's Roads]].
 
 ## Border Logic (why the lines sit where they sit)
 
@@ -89,5 +89,5 @@ Pilgrimage roads and the Via Celestis drawn as routes; thin-space and Shell-scar
 
 - [[Geography Atlas]]
 - [[Present-Day Courts and Crowns (1360 AR)]]
-- [[The Making of the Eclessians]]
+- [[01 Canon Reference/Peoples and Cultures/Eclessia/10 Foundations/The Making of the Eclessians.md|The Making of the Eclessians]]
 - [[Chronology of the Known World (AR Dating)]]

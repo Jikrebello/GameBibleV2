@@ -52,5 +52,5 @@ His sword **Ashreaver** hangs above the imperial throne at Veridun. It has not b
 
 - [[The Court of Veridun (1360 AR)]]
 - [[The Imperial Throne of Veridun]]
-- [[Thalmyric Empire Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/Thalmyric Empire Overview.md|Thalmyric Empire Overview]]
 - [[Zanthir and the Unfinished Reconquest]]

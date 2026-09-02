@@ -53,6 +53,6 @@ The consolidation preserved learning, sacramental life, and law through politica
 ## Navigation
 
 - [[Eclessian Church Overview]]
-- [[Eclessia During the Invasion]]
-- [[The Rise of the Eclessian Duchies and Kingdoms]]
+- [[01 Canon Reference/Peoples and Cultures/Eclessia/70 History and Conflicts/Eclessia During the Invasion.md|Eclessia During the Invasion]]
+- [[01 Canon Reference/Peoples and Cultures/Eclessia/70 History and Conflicts/The Rise of the Eclessian Duchies and Kingdoms.md|The Rise of the Eclessian Duchies and Kingdoms]]
 - [[Chronology of the Known World (AR Dating)]]

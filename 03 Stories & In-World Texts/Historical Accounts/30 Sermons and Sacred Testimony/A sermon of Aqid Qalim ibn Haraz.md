@@ -109,6 +109,6 @@ Let every signature be sealed in glory.
 
 ## Navigation
 
-- [[Al-Ahdiya Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Ahl-e-Ahd/20 Faith and Worldview/Al-Ahdiya Overview.md|Al-Ahdiya Overview]]
 - [[Historical Spine of the Covenant]]
-- [[The Invasion and the Fall]]
+- [[01 Canon Reference/History/60 Fall and Successor Empires/The Invasion and the Fall.md|The Invasion and the Fall]]

@@ -47,7 +47,7 @@ A runaway's letter read aloud by the one literate serf, and what it starts; a hu
 
 ## Navigation
 
-- [[Eclessia Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Eclessia/Eclessia Overview.md|Eclessia Overview]]
 - [[Lives of Eclessia — The Common Spine]]
-- [[The Kingdom of Virelia Overview]]
-- [[The Making of the Eclessians]]
+- [[01 Canon Reference/Peoples and Cultures/Eclessia/60 Realms and Peoples/Kingdom of Virelia/The Kingdom of Virelia Overview.md|The Kingdom of Virelia Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Eclessia/10 Foundations/The Making of the Eclessians.md|The Making of the Eclessians]]

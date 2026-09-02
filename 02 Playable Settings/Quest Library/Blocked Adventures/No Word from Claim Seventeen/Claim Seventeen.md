@@ -61,4 +61,4 @@ The local annex bears a bird-shaped inspection glyph matching the old chart symb
 - [[The Curator Below]]
 - [[Hushwrights]]
 - [[Mnemonic Lichen]]
-- [[Lives of Castara]]
+- [[01 Canon Reference/Peoples and Cultures/Sestaran Concord/30 Society and Daily Life/Life Paths/Lives of Castara.md|Lives of Castara]]

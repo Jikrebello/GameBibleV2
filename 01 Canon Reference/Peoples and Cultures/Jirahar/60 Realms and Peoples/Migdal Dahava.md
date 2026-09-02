@@ -47,6 +47,6 @@ Two Velian princes claim authority to confirm the tower's charter, while a Medor
 
 ## Navigation
 
-- [[Jirahar Economy and Trade]]
-- [[The Velian States Overview]]
-- [[Medori Bank]]
+- [[01 Canon Reference/Peoples and Cultures/Jirahar/30 Society and Daily Life/Jirahar Economy and Trade.md|Jirahar Economy and Trade]]
+- [[01 Canon Reference/Peoples and Cultures/Velian/60 Realms and Peoples/Velian States/The Velian States Overview.md|The Velian States Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Sestaran Concord/60 Realms and Peoples/Grand Duchy of Fiorenzia/Medori Bank.md|Medori Bank]]

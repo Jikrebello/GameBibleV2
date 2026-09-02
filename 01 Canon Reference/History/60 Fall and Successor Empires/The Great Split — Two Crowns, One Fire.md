@@ -58,7 +58,7 @@ The Freeflame movement rejects both custody claims outright: the Flame kindles w
 - [[Named Figures of the Known World]]
 - [[Real-History Concordance]]
 - [[White Flame Doctrine]]
-- [[Theological Schism with Eclessia]]
+- [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/20 Faith and Worldview/Theological Schism with Eclessia.md|Theological Schism with Eclessia]]
 
 ## Atlas narrative
 

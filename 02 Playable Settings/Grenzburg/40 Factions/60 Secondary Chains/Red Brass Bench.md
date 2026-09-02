@@ -16,7 +16,7 @@ tags: [game-ready]
 
 ## Scope
 
-The Red Brass Bench is one Vortharan arena branch within [[The Crucible]]. It trains Lancewrights, certifies fittings, arranges public bouts, and controls a profitable chain of coaches, proof-brokers, bookmakers, and touring champions.
+The Red Brass Bench is one Vortharan arena branch within [[01 Canon Reference/Peoples and Cultures/Sestaran Concord/60 Realms and Peoples/Citadel of Vorthara/The Crucible.md|The Crucible]]. It trains Lancewrights, certifies fittings, arranges public bouts, and controls a profitable chain of coaches, proof-brokers, bookmakers, and touring champions.
 
 It is not the whole Crucible. Other benches oppose its methods, compete with it, or genuinely believe that filed limits are part of mastery.
 
@@ -86,7 +86,7 @@ No state condemns every Crucible school or Vortharan arena practice.
 - [[Lio Varcen]]
 - [[Maro Vezan]]
 - [[Seraf Pellan]]
-- [[The Crucible]]
+- [[01 Canon Reference/Peoples and Cultures/Sestaran Concord/60 Realms and Peoples/Citadel of Vorthara/The Crucible.md|The Crucible]]
 - [[Lancewright]]
 - [[Factions Overview]]
 

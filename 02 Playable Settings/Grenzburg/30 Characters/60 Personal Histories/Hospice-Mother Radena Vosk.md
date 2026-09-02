@@ -52,5 +52,5 @@ Radena can confirm Bernard's upbringing, the prayer rope's origin, and Long Watc
 - [[Bernard Valeon]]
 - [[Hospice of the Lantern Road]]
 - [[The Froststep Evacuation]]
-- [[Thalmyric Military Orders]]
+- [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/50 Economy and Warfare/Thalmyric Military Orders.md|Thalmyric Military Orders]]
 - [[Companions MOC]]

@@ -61,9 +61,9 @@ Poisoned festival casks, abbey debt, guild elections, concealed congregations, m
 ## Navigation
 
 - [[Conflicts and Cultural Struggles]]
-- [[Lives of Korrheim and Brauvalis]]
+- [[01 Canon Reference/Peoples and Cultures/Eclessia/30 Society and Daily Life/Life Paths/Lives of Korrheim and Brauvalis.md|Lives of Korrheim and Brauvalis]]
 - [[Wanemoor District]]
 - [[Merewick]]
 - [[Hellerbruck]]
-- [[Economy and Trade Overview]]
-- [[Eclessia Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Eclessia/50 Economy and Warfare/Economy and Trade Overview.md|Economy and Trade Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Eclessia/Eclessia Overview.md|Eclessia Overview]]

@@ -17,7 +17,9 @@ public sealed class BaseLibrary(VaultCatalogue catalogue)
 {
     private readonly ConditionalWeakTable<BaseSource, BaseDefinition> _definitions = new();
     private readonly ConditionalWeakTable<CatalogueSnapshot, ConcurrentDictionary<string, BaseTableResult>> _tables = new();
+
     public BaseDefinition Definition(BaseSource source) => _definitions.GetValue(source, Parse);
+
     public BaseTableResult Read(string id, string? viewName = null, CatalogueSnapshot? snapshot = null)
     {
         var current = snapshot ?? catalogue.Current;
@@ -27,6 +29,7 @@ public sealed class BaseLibrary(VaultCatalogue catalogue)
         var key = id + "\n" + (view?.Name ?? viewName);
         return _tables.GetValue(current, _ => new()).GetOrAdd(key, _ => Evaluate(definition, view, current));
     }
+
     public static BaseRow[] SortRows(IEnumerable<BaseRow> rows, BaseSort[] sorts, BaseSort? group)
     {
         var instructions = group is null ? sorts : new[] { group }.Concat(sorts).ToArray();
@@ -41,6 +44,7 @@ public sealed class BaseLibrary(VaultCatalogue catalogue)
             return StringComparer.OrdinalIgnoreCase.Compare(a.Id, b.Id);
         })).ToArray();
     }
+
     private static BaseTableResult Evaluate(BaseDefinition definition, BaseView? view, CatalogueSnapshot snapshot)
     {
         var warnings = definition.Warnings.Concat(view?.Warnings ?? []).ToList();
@@ -65,6 +69,7 @@ public sealed class BaseLibrary(VaultCatalogue catalogue)
         catch (Exception ex) when (ex is FormatException or OverflowException or ArgumentException)
         { return new(definition, view, [], ["This view cannot be evaluated safely: " + ex.Message]); }
     }
+
     private static BaseDefinition Parse(BaseSource source)
     {
         var filters = BaseExpression.True;
@@ -121,6 +126,7 @@ public sealed class BaseLibrary(VaultCatalogue catalogue)
         { warnings.Add("Unsupported or malformed collection: " + ex.Message); }
         return new(source.Id, filters, formulas, labels, views.ToArray(), warnings.ToArray());
     }
+
     private static void CheckCycle(string name, IReadOnlyDictionary<string, BaseExpression> formulas, HashSet<string> ancestors)
     {
         if (ancestors.Count >= 64) throw new FormatException("Formula dependencies exceed the reader’s 64-level limit.");
@@ -128,15 +134,21 @@ public sealed class BaseLibrary(VaultCatalogue catalogue)
         foreach (var reference in formulas[name].References.Where(r => r.StartsWith("formula.", StringComparison.Ordinal))) CheckCycle(reference[8..], formulas, ancestors);
         ancestors.Remove(name);
     }
+
     private static void ValidateReferences(IEnumerable<string> references, IReadOnlyDictionary<string, BaseExpression> formulas)
     {
         foreach (var reference in references) { BaseExpression.ValidateProperty(reference); if (reference.StartsWith("formula.", StringComparison.Ordinal) && !formulas.ContainsKey(reference[8..])) throw new FormatException("Unknown formula: " + reference); }
     }
+
     private static BaseSort ParseSort(YamlNode node)
     { var map = Mapping(node); CheckKeys(map, "sort/group", "property", "direction"); var property = Scalar(Get(map, "property") ?? throw new FormatException("Missing sort property.")); var direction = Get(map, "direction")?.ToString() ?? "ASC"; if (direction is not ("ASC" or "DESC")) throw new FormatException("Unsupported sort direction: " + direction); return new(property, direction == "DESC"); }
+
     private static void CheckKeys(YamlMappingNode map, string context, params string[] allowed)
     { foreach (var key in map.Children.Keys.Select(n => n.ToString())) if (!allowed.Contains(key)) throw new FormatException("Unsupported " + context + " option: " + key); }
+
     private static YamlNode? Get(YamlMappingNode map, string key) => map.Children.TryGetValue(new YamlScalarNode(key), out var value) ? value : null;
+
     private static YamlMappingNode Mapping(YamlNode node) => node as YamlMappingNode ?? throw new FormatException("Expected a mapping.");
+
     private static string Scalar(YamlNode node) => node is YamlScalarNode scalar ? scalar.Value ?? "" : throw new FormatException("Expected a scalar.");
 }

@@ -58,5 +58,5 @@ The deeper south is colder. Taiga, frozen rivers, permafrost, and short growing 
 - [[Warlock Rune Magic]]
 - [[Southern Cold Belt and Grobi Frontier]]
 - [[Economy and Trade Overview]]
-- [[Eclessia Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Eclessia/Eclessia Overview.md|Eclessia Overview]]
 

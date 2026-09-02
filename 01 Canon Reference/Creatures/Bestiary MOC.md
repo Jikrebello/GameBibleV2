@@ -70,12 +70,12 @@ tags: []
 ### Drakes
 
 - [[Drakes Overview]]
-- [[Bronze Drakes]]
-- [[Emerald Drakes]]
-- [[Gold Drakes]]
-- [[Ruby Drakes]]
-- [[Sapphire Drakes]]
-- [[Silver Drakes]]
+- [[01 Canon Reference/Creatures/20 Faewild and Menhir/10 Drakes/Bronze Drakes.md|Bronze Drakes]]
+- [[01 Canon Reference/Creatures/20 Faewild and Menhir/10 Drakes/Emerald Drakes.md|Emerald Drakes]]
+- [[01 Canon Reference/Creatures/20 Faewild and Menhir/10 Drakes/Gold Drakes.md|Gold Drakes]]
+- [[01 Canon Reference/Creatures/20 Faewild and Menhir/10 Drakes/Ruby Drakes.md|Ruby Drakes]]
+- [[01 Canon Reference/Creatures/20 Faewild and Menhir/10 Drakes/Sapphire Drakes.md|Sapphire Drakes]]
+- [[01 Canon Reference/Creatures/20 Faewild and Menhir/10 Drakes/Silver Drakes.md|Silver Drakes]]
 - [[The Gemfallen]]
 
 ### Court Beings

@@ -17,13 +17,13 @@ Thalmyria was founded across five generations. It began as flight, became a moun
 
 ## The Founding Sequence
 
-1. [[The Invasion and the Fall]]: Caleran falls in 905 and the imperial government collapses.
-2. [[The Refuge and the Rise of Veridun]]: Veridun survives, receives the displaced institutions, and organizes resistance.
+1. [[01 Canon Reference/History/60 Fall and Successor Empires/The Invasion and the Fall.md|The Invasion and the Fall]]: Caleran falls in 905 and the imperial government collapses.
+2. [[01 Canon Reference/History/60 Fall and Successor Empires/The Refuge and the Rise of Veridun.md|The Refuge and the Rise of Veridun]]: Veridun survives, receives the displaced institutions, and organizes resistance.
 3. [[The Battle of Caelmount]]: the Valley Ambush of 917 proves the resistance can defeat a field army.
-4. [[The Coronation at Virelos]]: Caedros I receives the crown in 922.
-5. [[The War of the Burning Banners]]: refuge leagues unite between 922 and 949.
-6. [[The Reclamation of Caleran]]: the sacred capital returns in 957; Caedros I dies at the Pillar.
-7. [[The Founding Flame]]: four generations of return law, provincial warfare, resettlement, and religious conflict continue until 1052.
+4. [[01 Canon Reference/History/60 Fall and Successor Empires/The Coronation at Virelos.md|The Coronation at Virelos]]: Caedros I receives the crown in 922.
+5. [[01 Canon Reference/History/60 Fall and Successor Empires/The War of the Burning Banners.md|The War of the Burning Banners]]: refuge leagues unite between 922 and 949.
+6. [[01 Canon Reference/History/60 Fall and Successor Empires/The Reclamation of Caleran.md|The Reclamation of Caleran]]: the sacred capital returns in 957; Caedros I dies at the Pillar.
+7. [[01 Canon Reference/History/60 Fall and Successor Empires/The Founding Flame.md|The Founding Flame]]: four generations of return law, provincial warfare, resettlement, and religious conflict continue until 1052.
 
 ## What Was Founded
 
@@ -39,5 +39,5 @@ The Velian States and Zanthir remained beyond secure rule. Their absence made Re
 
 - [[The Long Reconquest (908-1052 AR)]]
 - [[Thalmyric Canon Register]]
-- [[Thalmyric Empire Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/Thalmyric Empire Overview.md|Thalmyric Empire Overview]]
 - [[Chronology of the Known World (AR Dating)]]

@@ -48,7 +48,7 @@ Eclessia can be genuinely holy and genuinely corrupt. Its danger is not that tru
 
 ## Navigation
 
-- [[Eclessia Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Eclessia/Eclessia Overview.md|Eclessia Overview]]
 - [[The Making of the Eclessians]]
-- [[Eclessian Church Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Eclessia/20 Faith and Worldview/Eclessian Church Overview.md|Eclessian Church Overview]]
 - [[Freeflame Reformation]]

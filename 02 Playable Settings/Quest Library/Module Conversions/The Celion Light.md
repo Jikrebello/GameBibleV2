@@ -93,7 +93,7 @@ This adventure and [[Murder at Lantern Fair — Full Adventure]] use the same ci
 ## Controlling Canon
 
 - [[Thalmyric Canon Register]]
-- [[The Saltborn Coast Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/60 Realms and Peoples/The Saltborn Coast Overview.md|The Saltborn Coast Overview]]
 - [[Principality of Kedrava Overview]]
 - [[The Qazmari]]
 - [[Qazmarid and the Sealed Blood]]

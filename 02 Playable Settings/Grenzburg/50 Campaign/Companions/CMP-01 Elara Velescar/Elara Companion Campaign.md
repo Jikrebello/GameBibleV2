@@ -159,7 +159,11 @@ Once the player tracks or materially engages the campaign, accountable direction
 
 **The Scarred Mounds:** a winter aftermath can compensate injured workers, recover names, and move direction one step through material repair. It cannot undo injuries or restore the chamber. Fault Proven and the Delver-Duelist parts move to a changed field examination rather than disappearing solely through inattention.
 
+^scarred-mounds-reentry
+
 **Cabinet After Snow:** a spring aftermath permits repudiation of the restoration offer and recovery of partial evidence. It cannot restore lost relief or reopen romance and bond. The Act II transition warning states this closure exactly.
+
+^cabinet-after-snow
 
 Missing Act III fixes a settlement only if the player tracked Elara into a declared course and then declined the hearing. An untracked Elara reaches summer as a capable, unresolved colleague. [[The First Honest Find]] reflects the relevant state without inventing relinquishment or restoration.
 

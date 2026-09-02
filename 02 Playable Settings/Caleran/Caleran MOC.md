@@ -76,7 +76,7 @@ Caleran is the World Egg setting's great-city sandbox: the recovered sacred capi
 ## Canon Anchors
 
 - [[Caleran and the Eternal Ember]]
-- [[The Patriarchate of Veridun]]
+- [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/20 Faith and Worldview/The Patriarchate of Veridun.md|The Patriarchate of Veridun]]
 - [[The Layers Beneath Thalmyria]]
-- [[The Reclamation of Caleran]]
+- [[01 Canon Reference/History/60 Fall and Successor Empires/The Reclamation of Caleran.md|The Reclamation of Caleran]]
 - [[The Atlas of the Left Hand]]

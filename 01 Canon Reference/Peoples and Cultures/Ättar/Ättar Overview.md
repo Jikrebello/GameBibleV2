@@ -16,7 +16,7 @@ tags: []
 
 Historical reading: [[Historical Spine of the Ättar]], within the [[World Historical Atlas MOC]].
 
-The **Ättar** are a southern maritime people of rival halls, raiding fleets, fortified valleys, moon-bound rulers, and annual war against the Grobi. They share language, law, four great totem-kindreds, and the ancient bargain with [[Mother Moon]], but they have no universal king, state, or common foreign policy.
+The **Ättar** are a southern maritime people of rival halls, raiding fleets, fortified valleys, moon-bound rulers, and annual war against the Grobi. They share language, law, four great totem-kindreds, and the ancient bargain with [[01 Canon Reference/Cosmology/30 Menhir/10 Second Circle/Mother Moon.md|Mother Moon]], but they have no universal king, state, or common foreign policy.
 
 An Ättar normally belongs first to a household and hall, then to a regional kindred. The four kindreds are not nations: [[Lion-Mane Coast]], [[Hornwall Valleys]], [[Bearshield Holds]], and [[Grey-Wolf Range]] each contain feuding halls, jarldoms, free farmers, dependants, freed families, and thralls.
 
@@ -28,7 +28,7 @@ Hospitality, oath-keeping, compensation, fosterage, public courage, and loyalty 
 
 ## Moon-Right
 
-Every old-rite hall chief must be a [[The Path of the Skinwalker|skinwalker]] able to assume the hybrid shape of his kindred. The authority began in the [[War of the Empty Halls]], when the first ruling lines accepted [[Mother Moon's Bargain]]. Each line owes one firstborn child per generation. A changeling is left in the child's place; at adolescence it departs and the original child returns as a [[Borrowed Children and Moon-Seers|Moon-Seer]].
+Every old-rite hall chief must be a [[01 Canon Reference/Peoples and Cultures/Ättar/20 Faith and Worldview/The Path of the Skinwalker.md|skinwalker]] able to assume the hybrid shape of his kindred. The authority began in the [[War of the Empty Halls]], when the first ruling lines accepted [[Mother Moon's Bargain]]. Each line owes one firstborn child per generation. A changeling is left in the child's place; at adolescence it departs and the original child returns as a [[Borrowed Children and Moon-Seers|Moon-Seer]].
 
 Skinwalkers do not lose a memory whenever they transform. [[Moontouched]] decline comes from age, excessive shifting, and remaining too long in hybrid form. It is feared, dangerous, and preventable rather than inevitable.
 
@@ -49,6 +49,6 @@ Mother Moon is a real Menhir and her bargain is exact, powerful, and morally inh
 - [[Historical Spine of the Ättar]]
 - [[Ättar Kinship, Descent, and Weregild]]
 - [[Mother Moon's Bargain]]
-- [[The Monomyth According to the Ättar]]
+- [[01 Canon Reference/Peoples and Cultures/Ättar/20 Faith and Worldview/The Monomyth According to the Ättar.md|The Monomyth According to the Ättar]]
 - [[Winter War and the Grobi Frontier]]
 - [[Ättar and the Wider World]]

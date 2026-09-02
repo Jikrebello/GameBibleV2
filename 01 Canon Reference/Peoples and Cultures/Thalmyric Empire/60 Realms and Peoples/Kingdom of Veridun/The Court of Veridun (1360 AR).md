@@ -25,7 +25,7 @@ The imperial court at Veridun governs through a professional chancellery, provin
 - **Grand Chancellor Prokopia** is the empire's chief civil minister and the practical center of daily government. Risen from the war widows' guilds, she keeps the treasury, provincial accounts, and the emperor's calendar. The court says that the emperor commands the army, the Patriarch commands the Church, and Prokopia commands Tuesday.
 - **The Master of Lamps** is palace prefect and marshal of the annual Rekindling relay. The one night when the empire is symbolically united is also a night of unusual logistical vulnerability.
 - **The Keeper of Ashreaver** alone may hand the emperor his suspended sword. By precedent, the Keeper is the last ceremonial voice before a declared imperial war. The current Keeper is a Zehrim veteran who has once refused the hand-off pending a lawful war council.
-- **The Ash Guard** is the emperor's axe-bearing household guard, recruited chiefly from baptized Ättar oath-families and [[The Saltborn Coast Overview|Saltborn]] coastfolk. They swear to the person of the crowned emperor rather than to a court faction. Commander **Hallvard Whale-Tooth** is one of the few people who can make Caedros laugh.
+- **The Ash Guard** is the emperor's axe-bearing household guard, recruited chiefly from baptized Ättar oath-families and [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/60 Realms and Peoples/The Saltborn Coast Overview.md|Saltborn]] coastfolk. They swear to the person of the crowned emperor rather than to a court faction. Commander **Hallvard Whale-Tooth** is one of the few people who can make Caedros laugh.
 - **The Sea-Marshal and provincial commanders** divide between limited frontier defense and renewed conquest. Prokopia's arithmetic and the emperor's hesitation currently restrain them.
 
 ## The Succession
@@ -58,8 +58,8 @@ A disputed monastic vision of **a lamp carried out of a burning archive** has be
 
 ## Navigation
 
-- [[Thalmyric Empire Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/Thalmyric Empire Overview.md|Thalmyric Empire Overview]]
 - [[The Imperial Throne of Veridun]]
 - [[The Kingdom of Veridun Overview]]
 - [[Present-Day Courts and Crowns (1360 AR)]]
-- [[The Patriarchate of Veridun]]
+- [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/20 Faith and Worldview/The Patriarchate of Veridun.md|The Patriarchate of Veridun]]

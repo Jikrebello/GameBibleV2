@@ -21,7 +21,7 @@ Nythalum's ruling houses were already ancient Giant lineages before the mature l
 
 The island held crystal cities, tropical forests, deep harbors, and the capital **Lunarasyl**. Monumental spires served at once as cities, launch vehicles, memory foundries, and public proof that the rulers could escape creaturely limits.
 
-Nythalum revered **Lyraxis**, associated with inspiration and transformative craft, and [[Mother Moon|Lunara]], whose Menhir law governs cycle, tide, instinct, and mutable form. Later rulers claimed immediate descent from Lyraxis, Lunara, or both. Those genealogies were false or imprecise compressions of much older Giant ancestry, patronage, captured court-law, bodily engineering, and celestial imitation; they do not establish either named power as the direct parent of every Nythalum dynasty. The rulers mistook Lunara's law of mutable form for permission to abolish death and identity's limits.
+Nythalum revered **Lyraxis**, associated with inspiration and transformative craft, and [[01 Canon Reference/Cosmology/30 Menhir/10 Second Circle/Mother Moon.md|Lunara]], whose Menhir law governs cycle, tide, instinct, and mutable form. Later rulers claimed immediate descent from Lyraxis, Lunara, or both. Those genealogies were false or imprecise compressions of much older Giant ancestry, patronage, captured court-law, bodily engineering, and celestial imitation; they do not establish either named power as the direct parent of every Nythalum dynasty. The rulers mistook Lunara's law of mutable form for permission to abolish death and identity's limits.
 
 ## The Continuity Error
 

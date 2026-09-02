@@ -17,7 +17,7 @@ The canal-republic: a navy pretending to be a market, a spy service pretending t
 
 ## The Arsenal Hand and the Canal-Folk
 
-Sermora's portside works the **Arsenal** — the fortified state shipyard whose assembly-sheds can frame a war-galley in weeks. Its workers are oath-bound, well paid, and forbidden to sell protected methods abroad. Around it work caulkers, rope-makers, chandlers, pilots who know the lagoon's false channels, and canal-boat families who see most of the city without necessarily knowing which passenger reports to the [[The Sermoran Republic Overview|Veiled Office]].
+Sermora's portside works the **Arsenal** — the fortified state shipyard whose assembly-sheds can frame a war-galley in weeks. Its workers are oath-bound, well paid, and forbidden to sell protected methods abroad. Around it work caulkers, rope-makers, chandlers, pilots who know the lagoon's false channels, and canal-boat families who see most of the city without necessarily knowing which passenger reports to the [[01 Canon Reference/Peoples and Cultures/Sestaran Concord/60 Realms and Peoples/Sermoran Republic/The Sermoran Republic Overview.md|Veiled Office]].
 
 ## The Privateer (the licensed road)
 
@@ -47,6 +47,6 @@ A prize-court case where the captured manifest names a Ten member's house; a sal
 
 ## Navigation
 
-- [[The Sestaran Concord Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Sestaran Concord/The Sestaran Concord Overview.md|The Sestaran Concord Overview]]
 - [[Lives of the Concord — The Common Spine]]
-- [[The Sermoran Republic Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Sestaran Concord/60 Realms and Peoples/Sermoran Republic/The Sermoran Republic Overview.md|The Sermoran Republic Overview]]

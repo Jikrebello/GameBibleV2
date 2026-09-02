@@ -44,5 +44,5 @@ The distinction failed emotionally for Bernard long before it failed institution
 - [[Bernard Valeon]]
 - [[Hospice-Mother Radena Vosk]]
 - [[The Froststep Evacuation]]
-- [[Thalmyric Military Orders]]
+- [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/50 Economy and Warfare/Thalmyric Military Orders.md|Thalmyric Military Orders]]
 - [[Principality of Kedrava Overview]]

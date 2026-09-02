@@ -37,6 +37,6 @@ A returned colonist speaks fluent court-Atherian he never learned; the Universit
 
 ## Navigation
 
-- [[The Sestaran Concord Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Sestaran Concord/The Sestaran Concord Overview.md|The Sestaran Concord Overview]]
 - [[Lives of the Concord — The Common Spine]]
-- [[The Free City of Castara Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Sestaran Concord/60 Realms and Peoples/Free City of Castara/The Free City of Castara Overview.md|The Free City of Castara Overview]]

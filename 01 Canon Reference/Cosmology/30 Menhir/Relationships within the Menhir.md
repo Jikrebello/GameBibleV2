@@ -30,13 +30,13 @@ Menhir are intelligent but morally blind natural sovereignties. Their relationsh
 
 ## World Bodies
 
-[[Sylvorn]], [[Thalassor]], and [[Zephyraxis]] once operated as permanent Trium. After [[The Faewild Schism]], they became independent sovereignties whose boundaries meet at coast, watershed, storm, erosion, and migration.
+[[01 Canon Reference/Cosmology/30 Menhir/20 Third Circle/Sylvorn.md|Sylvorn]], [[01 Canon Reference/Cosmology/30 Menhir/20 Third Circle/Thalassor.md|Thalassor]], and [[01 Canon Reference/Cosmology/30 Menhir/20 Third Circle/Zephyraxis.md|Zephyraxis]] once operated as permanent Trium. After [[The Faewild Schism]], they became independent sovereignties whose boundaries meet at coast, watershed, storm, erosion, and migration.
 
-When all three phase-lock, [[Trium]] temporarily reappears as a world-scale operating state. This is not reconciliation, resurrection, or a council decision.
+When all three phase-lock, [[01 Canon Reference/Cosmology/30 Menhir/20 Third Circle/Trium.md|Trium]] temporarily reappears as a world-scale operating state. This is not reconciliation, resurrection, or a council decision.
 
 ## Seasonal Pressures
 
-- [[Veradia]] proliferates; [[Solrath]] intensifies; [[Morvalis]] closes; [[Nevaura]] preserves through scarcity.
+- [[01 Canon Reference/Cosmology/30 Menhir/30 Fourth Circle/Veradia.md|Veradia]] proliferates; [[01 Canon Reference/Cosmology/30 Menhir/30 Fourth Circle/Solrath.md|Solrath]] intensifies; [[01 Canon Reference/Cosmology/30 Menhir/30 Fourth Circle/Morvalis.md|Morvalis]] closes; [[01 Canon Reference/Cosmology/30 Menhir/30 Fourth Circle/Nevaura.md|Nevaura]] preserves through scarcity.
 - Their sequence is recurrent but not peaceful. Out-of-season intrusion produces plague-blooms, killing heat, premature decay, or lethal frost.
 - War, famine, death, and pestilence are human catastrophe names. None of the four judges who deserves the consequence.
 
@@ -51,8 +51,8 @@ Invoking a competing pressure can limit a local manifestation. Moon-cycle may te
 ## Navigation
 
 - [[The Second Circle]]
-- [[The Three-Bodied God Overview]]
-- [[The Horsemen Overview]]
+- [[01 Canon Reference/Cosmology/30 Menhir/20 Third Circle/The Three-Bodied God Overview.md|The Three-Bodied God Overview]]
+- [[01 Canon Reference/Cosmology/30 Menhir/30 Fourth Circle/The Horsemen Overview.md|The Horsemen Overview]]
 - [[Menhir Sovereignty and Bargain]]
 - [[The Faewild Schism]]
 - [[Faewild and Menhir MOC]]

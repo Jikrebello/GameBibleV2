@@ -46,5 +46,5 @@ A strike infiltrated by saboteurs, an unsafe script blamed on labor, an old-Chur
 - [[The Ironvale Dominion Overview]]
 - [[Warlock Rune Magic]]
 - [[Freeflame Reformation]]
-- [[Economy and Trade Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Eclessia/50 Economy and Warfare/Economy and Trade Overview.md|Economy and Trade Overview]]
 

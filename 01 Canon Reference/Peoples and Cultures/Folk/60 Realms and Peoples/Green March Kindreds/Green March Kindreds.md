@@ -61,7 +61,7 @@ The region receives refugees and Grobi bands displaced from deeper southern corr
 ## Navigation
 
 - [[Four-Hearth Compact]]
-- [[The Folk of the Frontier and the Wolfsmere Lineage]]
+- [[01 Canon Reference/Peoples and Cultures/Folk/30 Society and Daily Life/The Folk of the Frontier and the Wolfsmere Lineage.md|The Folk of the Frontier and the Wolfsmere Lineage]]
 - [[Birchcross]]
 - [[The First Writ — Full Adventure]]
 - [[Grenzburg Regional Geography]]

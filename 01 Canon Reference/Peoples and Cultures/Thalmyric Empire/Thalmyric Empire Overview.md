@@ -21,11 +21,11 @@ Thalmyria is the west-central heartland and most direct surviving heir of old At
 
 Thalmyrics commonly say that law, letters, theology, civilized war, and proper cooking all began in their heartland. The boast rests on real continuity, but stretches it into ownership of achievements shared with many peoples. Thalmyria's central question is whether inheritance creates a duty of stewardship or a license to rule.
 
-[[Thalmyria Cultural Thesis]] states this identity plainly. [[The Making of the Thalmyrics]] explains the peoples who formed it, while [[Cultural Identity and Rivalry]] shows how that identity changes by class and region.
+[[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/10 Foundations/Thalmyria Cultural Thesis.md|Thalmyria Cultural Thesis]] states this identity plainly. [[The Making of the Thalmyrics]] explains the peoples who formed it, while [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/10 Foundations/Cultural Identity and Rivalry.md|Cultural Identity and Rivalry]] shows how that identity changes by class and region.
 
 ## Two Capitals and a Coronation City
 
-- **Veridun** is the living imperial capital, seat of [[Emperor Caedros IV Aetherion]], the court, and the coronation cathedral containing the Great Lamp and Virelian Lamp.
+- **Veridun** is the living imperial capital, seat of [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/60 Realms and Peoples/Kingdom of Veridun/Emperor Caedros IV Aetherion.md|Emperor Caedros IV Aetherion]], the court, and the coronation cathedral containing the Great Lamp and Virelian Lamp.
 - **Caleran** is recovered Atheria's sacred old capital, the Redeemer site, home of the Eternal Ember, and present seat of the Patriarchate.
 - **Virelos** is the mountain cradle of the rebellion and the city where Caedros I was crowned in 922 AR.
 
@@ -33,7 +33,7 @@ The Patriarch retains the title **Patriarch of Veridun**, inherited from the ref
 
 ## Fall and Return
 
-Caleran fell in 905 AR. Refugees, clergy, provincial soldiers, and mountain communities survived behind the Veil over Veridun and began the [[The Long Reconquest (908-1052 AR)|Long Reconquest]]. Caleran was recovered in 957 AR, but the war continued province by province until the Rekindling of 1052 marked recovery of the core heartland. The [[The Velian States Overview|Velian States]] and [[Zanthir and the Unfinished Reconquest|Zanthir frontier]] remain outside secure imperial control.
+Caleran fell in 905 AR. Refugees, clergy, provincial soldiers, and mountain communities survived behind the Veil over Veridun and began the [[The Long Reconquest (908-1052 AR)|Long Reconquest]]. Caleran was recovered in 957 AR, but the war continued province by province until the Rekindling of 1052 marked recovery of the core heartland. The [[01 Canon Reference/Peoples and Cultures/Velian/60 Realms and Peoples/Velian States/The Velian States Overview.md|Velian States]] and [[Zanthir and the Unfinished Reconquest|Zanthir frontier]] remain outside secure imperial control.
 
 This history produced both liberation and new wrongs. Return armies freed people from predatory covenant rule, but also displaced families, rewarded military clients, bound laborers, and judged mixed communities through the needs of war.
 
@@ -41,27 +41,27 @@ This history produced both liberation and new wrongs. Return armies freed people
 
 The Thalmyric Church is contemplative, sacramental, and icon-rich. It teaches that suffering may discipline the self but cannot purchase salvation; pain sought for its own sake is vanity or heresy. The White Flame restores, reveals, and sanctifies. It is not elemental fire, and warlock Shell-fire is not holy.
 
-- [[Faith and the Thalmyric Church Overview]]
-- [[The Holy Fire]]
-- [[The Patriarchate of Veridun]]
+- [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/20 Faith and Worldview/Faith and the Thalmyric Church Overview.md|Faith and the Thalmyric Church Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/20 Faith and Worldview/The Holy Fire.md|The Holy Fire]]
+- [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/20 Faith and Worldview/The Patriarchate of Veridun.md|The Patriarchate of Veridun]]
 - [[Icons, Churches, and Sacred Space]]
-- [[Mysticism and Asceticism]]
-- [[Saints and Relics]]
+- [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/20 Faith and Worldview/Mysticism and Asceticism.md|Mysticism and Asceticism]]
+- [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/20 Faith and Worldview/Saints and Relics.md|Saints and Relics]]
 
 ## Empire and Court
 
-[[Structure of the Empire Overview]] explains the emperor, chancellery, provincial governments, military districts, hereditary realms, city privileges, and Holy Synod. [[The Court of Veridun (1360 AR)]] records the present government and succession crisis; [[The Imperial Throne of Veridun]] explains the crown's legal and ceremonial foundations.
+[[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/40 Government and Institutions/Structure of the Empire Overview.md|Structure of the Empire Overview]] explains the emperor, chancellery, provincial governments, military districts, hereditary realms, city privileges, and Holy Synod. [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/60 Realms and Peoples/Kingdom of Veridun/The Court of Veridun (1360 AR).md|The Court of Veridun (1360 AR)]] records the present government and succession crisis; [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/60 Realms and Peoples/Kingdom of Veridun/The Imperial Throne of Veridun.md|The Imperial Throne of Veridun]] explains the crown's legal and ceremonial foundations.
 
 ## Realms and Frontiers
 
-- [[The Kingdom of Veridun Overview]] and [[Caleran and the Eternal Ember]]
+- [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/60 Realms and Peoples/Kingdom of Veridun/The Kingdom of Veridun Overview.md|The Kingdom of Veridun Overview]] and [[Caleran and the Eternal Ember]]
 - [[The Maritime Kingdom of Saronika Overview]]
 - [[The Kingdom of Vlastrava Overview]]
 - [[The Duchy of Elenara Overview]]
 - [[The Military Province of Arkena Overview]]
 - [[Principality of Kedrava Overview]]
-- [[The Saltborn Coast Overview]]
-- [[The Velian States Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/60 Realms and Peoples/The Saltborn Coast Overview.md|The Saltborn Coast Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Velian/60 Realms and Peoples/Velian States/The Velian States Overview.md|The Velian States Overview]]
 - [[Zanthir and the Unfinished Reconquest]]
 
 ## The Old Heartland
@@ -71,16 +71,16 @@ Most Thalmyrics live in or near fortified cities, market towns, monasteries, and
 - [[Thalmyric Heartland - Cities, Ruins, and the Empty Interior]]
 - [[The Layers Beneath Thalmyria]]
 - [[Thalmyric Economy and the Old Heartland]]
-- [[Thalmyric Daily Life and the Burning Year]]
-- [[Lives of Thalmyria — Seven Roads from Cradle to Grave]]
+- [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/30 Society and Daily Life/Thalmyric Daily Life and the Burning Year.md|Thalmyric Daily Life and the Burning Year]]
+- [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/30 Society and Daily Life/Lives of Thalmyria — Seven Roads from Cradle to Grave.md|Lives of Thalmyria — Seven Roads from Cradle to Grave]]
 
 ## War and the Present Crisis
 
-[[Thalmyric Armies and the Long Frontier]] and [[Thalmyric Military Orders]] describe the forces defending a long, expensive border. In 1360 AR, Thalmyria faces an unresolved succession, Sestaran debt, depopulated districts, antiquities crime, exhausted veterans, and pressure to resume a total war for Zanthir.
+[[Thalmyric Armies and the Long Frontier]] and [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/50 Economy and Warfare/Thalmyric Military Orders.md|Thalmyric Military Orders]] describe the forces defending a long, expensive border. In 1360 AR, Thalmyria faces an unresolved succession, Sestaran debt, depopulated districts, antiquities crime, exhausted veterans, and pressure to resume a total war for Zanthir.
 
 Three permanent Shell anchors survive as guarded strategic inheritances: **Virelos Wind Stair**, **Kedravan Frost Gate**, and **Arkenan Basalt Draw**. Their stormglass, cold-pressure work, forge-charge, and weight-seed support signals, mountain logistics, fleets, fortification, and counter-siege engineering. Monastic and provincial witnesses oversee use without pretending elemental force is holy.
 
-[[Challenges and Future Tensions]] collects the active story fronts.
+[[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/70 History and Conflicts/Challenges and Future Tensions.md|Challenges and Future Tensions]] collects the active story fronts.
 
 ## Jirahar Relations
 

@@ -29,13 +29,13 @@ Thalmyric armies broke contract engines, reopened churches, restored some dispos
 
 ## The Present Frontier
 
-The old Reconquest is over as a continuous imperial campaign. The frontier war is not. Raids, proxy forces, prisoner exchanges, covert patronage, and disputes over shrines and waterworks continue across the [[The Velian States Overview|Velian States]]. [[Zanthir and the Unfinished Reconquest]] is the great unresolved political symbol: homeland to its inhabitants, occupied province to Thalmyric militants, and strategic frontier to the Covenant.
+The old Reconquest is over as a continuous imperial campaign. The frontier war is not. Raids, proxy forces, prisoner exchanges, covert patronage, and disputes over shrines and waterworks continue across the [[01 Canon Reference/Peoples and Cultures/Velian/60 Realms and Peoples/Velian States/The Velian States Overview.md|Velian States]]. [[Zanthir and the Unfinished Reconquest]] is the great unresolved political symbol: homeland to its inhabitants, occupied province to Thalmyric militants, and strategic frontier to the Covenant.
 
 ## Faith and War
 
 The Church may bless defense, liberation, and the protection of the oppressed. It does not teach that conquest itself sanctifies an army or that suffering purchases salvation. Campaign rites call soldiers to repentance, restraint, burial of the dead, and protection of noncombatants. Militants who preach “burn to be redeemed” stand outside mainstream doctrine even when powerful patrons shelter them.
 
-The Returning Standard tradition is represented within [[Thalmyric Military Orders]], alongside the defensive Long Watch and the hospital-centered Iron Martyrs. Warlock Shell-fire remains categorically distinct from the White Flame.
+The Returning Standard tradition is represented within [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/50 Economy and Warfare/Thalmyric Military Orders.md|Thalmyric Military Orders]], alongside the defensive Long Watch and the hospital-centered Iron Martyrs. Warlock Shell-fire remains categorically distinct from the White Flame.
 
 ## Story Uses
 
@@ -47,8 +47,8 @@ The Returning Standard tradition is represented within [[Thalmyric Military Orde
 
 ## Navigation
 
-- [[Thalmyric Empire Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/Thalmyric Empire Overview.md|Thalmyric Empire Overview]]
 - [[The Long Reconquest (908-1052 AR)]]
-- [[The Velian States Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Velian/60 Realms and Peoples/Velian States/The Velian States Overview.md|The Velian States Overview]]
 - [[Zanthir and the Unfinished Reconquest]]
-- [[The Ahl-e-Ahd Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Ahl-e-Ahd/The Ahl-e-Ahd Overview.md|The Ahl-e-Ahd Overview]]

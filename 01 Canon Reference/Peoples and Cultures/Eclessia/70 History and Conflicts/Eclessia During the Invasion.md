@@ -47,7 +47,7 @@ Between 908 and 975 AR, emergency lordships hardened into principalities. None c
 ## Navigation
 
 - [[The Rise of the Eclessian Duchies and Kingdoms]]
-- [[The Consolidation of the Eclessian Church]]
+- [[01 Canon Reference/Peoples and Cultures/Eclessia/20 Faith and Worldview/The Consolidation of the Eclessian Church.md|The Consolidation of the Eclessian Church]]
 - [[Chronology of the Known World (AR Dating)]]
-- [[Eclessia Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Eclessia/Eclessia Overview.md|Eclessia Overview]]
 - [[The Battle of the Shattered Engines (907 AR)]]

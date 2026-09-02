@@ -75,7 +75,7 @@ High Hunt, wild hunt, winter riders, antler host, sky chase, moon hounds, ash cu
 ## Navigation
 
 - [[Faewild and Menhir MOC]]
-- [[Orionis]]
-- [[The Horsemen Overview]]
+- [[01 Canon Reference/Cosmology/30 Menhir/10 Second Circle/Orionis.md|Orionis]]
+- [[01 Canon Reference/Cosmology/30 Menhir/30 Fourth Circle/The Horsemen Overview.md|The Horsemen Overview]]
 - [[Courts of the Folk Lands]]
 - [[Bestiary MOC]]

@@ -37,11 +37,11 @@ Seven independent city-states joined only for external defence. Fiorenzia wants 
 
 ### Ahl-e-Ahd
 
-The Covenant is a layered imperial-confessional civilization rather than one ethnicity. The Qahirid court at Iqashar wants enforceable order, strategic depth, tribute, name custody, and control of roads and military households. Al-Qahur supplies sacred legitimacy and grain while its military houses resist direct rule. Qazmarid's Sealed-Blood counter-caliphate rejects Qahirid authority. Zanthir and the Velian States turn the Thalmyric frontier into a contest over living mixed societies rather than empty lost provinces. See [[The Ahl-e-Ahd Overview]] and [[Ahl-e-Ahd Caliphates]].
+The Covenant is a layered imperial-confessional civilization rather than one ethnicity. The Qahirid court at Iqashar wants enforceable order, strategic depth, tribute, name custody, and control of roads and military households. Al-Qahur supplies sacred legitimacy and grain while its military houses resist direct rule. Qazmarid's Sealed-Blood counter-caliphate rejects Qahirid authority. Zanthir and the Velian States turn the Thalmyric frontier into a contest over living mixed societies rather than empty lost provinces. See [[01 Canon Reference/Peoples and Cultures/Ahl-e-Ahd/The Ahl-e-Ahd Overview.md|The Ahl-e-Ahd Overview]] and [[01 Canon Reference/Peoples and Cultures/Ahl-e-Ahd/40 Government and Institutions/Ahl-e-Ahd Caliphates.md|Ahl-e-Ahd Caliphates]].
 
 ### Jirahar
 
-Five living towers, the Empty City, host quarters, and mobile companies share law without a sovereign. High Keeper Zerahiah wants continuity, cautious gate custody, and protection from another false claimant. Restorationists want Qiryath secured; Dominion zealots want preparation for future judgement; ordinary towers and companies want viable charters, safe routes, and room to remain distinct. See [[The Jirahar Overview]].
+Five living towers, the Empty City, host quarters, and mobile companies share law without a sovereign. High Keeper Zerahiah wants continuity, cautious gate custody, and protection from another false claimant. Restorationists want Qiryath secured; Dominion zealots want preparation for future judgement; ordinary towers and companies want viable charters, safe routes, and room to remain distinct. See [[01 Canon Reference/Peoples and Cultures/Jirahar/The Jirahar Overview.md|The Jirahar Overview]].
 
 ### The Folk
 
@@ -49,7 +49,7 @@ No common ruler speaks for the Folk. Green March clans contest settlement and Ch
 
 ### The Ättar
 
-No permanent king unites the four great kindreds. Lion-Mane jarls want profitable sea service and access to Kedrava; Grey-Wolf halls demand a stronger Grobi muster; Hornwall halls control food and drove routes; Bearshield holds control iron and Paint-Keeper circuits. Every old-rite chief rules through a skinwalker pact purchased with a firstborn exchange, while baptized halls reject moon-right and seek recognition without abandoning Ättar identity. See [[Ättar Overview]].
+No permanent king unites the four great kindreds. Lion-Mane jarls want profitable sea service and access to Kedrava; Grey-Wolf halls demand a stronger Grobi muster; Hornwall halls control food and drove routes; Bearshield holds control iron and Paint-Keeper circuits. Every old-rite chief rules through a skinwalker pact purchased with a firstborn exchange, while baptized halls reject moon-right and seek recognition without abandoning Ättar identity. See [[01 Canon Reference/Peoples and Cultures/Ättar/Ättar Overview.md|Ättar Overview]].
 
 ## Recurring Board Questions
 

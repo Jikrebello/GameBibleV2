@@ -40,6 +40,6 @@ Velian guides, translators, physicians, archives, divided families, disputed chu
 ## Navigation
 
 - [[Velian Culture Overview]]
-- [[The Velian States Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Velian/60 Realms and Peoples/Velian States/The Velian States Overview.md|The Velian States Overview]]
 - [[The People of the Lamp]]
 - [[The Disputed Fourth Seal]]

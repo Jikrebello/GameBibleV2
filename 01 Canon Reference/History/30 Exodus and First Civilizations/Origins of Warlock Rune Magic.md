@@ -74,4 +74,4 @@ By the time warlocks become recognizable as battlefield specialists, the world h
 - [[Warlock Rune Magic]]
 - [[Magic Systems Overview]]
 - [[Age of City-States]]
-- [[The Crucible]]
+- [[01 Canon Reference/Peoples and Cultures/Sestaran Concord/60 Realms and Peoples/Citadel of Vorthara/The Crucible.md|The Crucible]]

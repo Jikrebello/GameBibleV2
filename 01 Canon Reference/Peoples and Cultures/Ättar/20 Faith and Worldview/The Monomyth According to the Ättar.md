@@ -24,5 +24,5 @@ The source is therefore useful evidence for later Ättar kingship and self-justi
 
 ## Navigation
 
-- [[Ättar Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Ättar/Ättar Overview.md|Ättar Overview]]
 - [[Reliability Register]]

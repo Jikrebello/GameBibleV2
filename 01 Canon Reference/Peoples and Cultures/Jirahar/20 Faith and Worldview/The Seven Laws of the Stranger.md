@@ -36,5 +36,5 @@ Dominion zealots reject those restraints and are consequently among the people m
 ## Navigation
 
 - [[Mesakha Traditions]]
-- [[The Jirahar and the Future]]
+- [[01 Canon Reference/Peoples and Cultures/Jirahar/10 Foundations/The Jirahar and the Future.md|The Jirahar and the Future]]
 - [[Jirahar Canon Register]]

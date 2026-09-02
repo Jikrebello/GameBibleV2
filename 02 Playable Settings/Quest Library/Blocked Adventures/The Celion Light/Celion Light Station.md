@@ -70,6 +70,6 @@ The station can emerge intact, damaged, or blind. Replacing ordinary shutters an
 - [[Black Fig Cove]]
 - [[The Celion Sun-Glass]]
 - [[Chief Keeper Milena Shore-Wake]]
-- [[The Saltborn Coast Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/60 Realms and Peoples/The Saltborn Coast Overview.md|The Saltborn Coast Overview]]
 - [[Gazetteer of the Known World]]
 

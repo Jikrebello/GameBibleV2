@@ -14,7 +14,7 @@ tags: [module-conversion, game-ready, transformed-person, undead]
 ---
 # Vault-Claimed
 
-The Vault-Claimed are people who died running a mortgaged Vortharan venture and were raised, under a [[The Pale Hand]] sub-floor clause, as guards and set-pieces of the very place that killed them. The term is a collections word, not a species. It appears on Pale Hand registers beside a name, a form, and a debt. In [[The Bragging Vault]] they are the guards, dark-vault champions, and menagerie fixtures the party fights — every one of them a contestant from a team that went into [[The Ashplume Vault|Ashplume]] before them and did not come out.
+The Vault-Claimed are people who died running a mortgaged Vortharan venture and were raised, under a [[01 Canon Reference/Peoples and Cultures/Sestaran Concord/60 Realms and Peoples/Citadel of Vorthara/The Pale Hand.md|The Pale Hand]] sub-floor clause, as guards and set-pieces of the very place that killed them. The term is a collections word, not a species. It appears on Pale Hand registers beside a name, a form, and a debt. In [[The Bragging Vault]] they are the guards, dark-vault champions, and menagerie fixtures the party fights — every one of them a contestant from a team that went into [[The Ashplume Vault|Ashplume]] before them and did not come out.
 
 They are undead by the Pale Hand's ordinary craft, raised through Black Mud rite. What makes them their own entry is not the necromancy — Vorthara is full of that — but the *instrument*: they are dead who became collateral by dying below a floor someone else had mortgaged.
 
@@ -67,5 +67,5 @@ Vorthara treats a sub-floor claim as clean because it is enforceable. Critics �
 - [[The Bragging Vault — Full Adventure]]
 - [[Odalie Vench]]
 - [[The Ashplume Vault]]
-- [[The Pale Hand]]
+- [[01 Canon Reference/Peoples and Cultures/Sestaran Concord/60 Realms and Peoples/Citadel of Vorthara/The Pale Hand.md|The Pale Hand]]
 - [[Ghouls]]

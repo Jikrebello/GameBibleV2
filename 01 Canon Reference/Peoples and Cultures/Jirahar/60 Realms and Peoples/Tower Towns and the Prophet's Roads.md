@@ -47,6 +47,6 @@ Qesheth is first in sacred dignity, not a sovereign capital. Each tower maintain
 
 ## Navigation
 
-- [[The Jirahar Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Jirahar/The Jirahar Overview.md|The Jirahar Overview]]
 - [[Four Ways of Jirahar Life]]
 - [[Gazetteer of the Known World]]

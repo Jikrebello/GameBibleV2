@@ -53,6 +53,6 @@ The Reform Wars turned abbeys into hospitals, guild halls, arsenals, schools, no
 
 - [[Culture and Religion]]
 - [[Eclessian Church Overview]]
-- [[The Grey Sweat]]
+- [[01 Canon Reference/History/70 Later History and Present Day/The Grey Sweat.md|The Grey Sweat]]
 - [[Freeflame Reformation]]
 

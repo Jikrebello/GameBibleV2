@@ -13,7 +13,7 @@ tags: []
 ---
 # Ättar Canon Register
 
-This register controls authorial facts about the Ättar. Authority descends through [[Chronology of the Known World (AR Dating)]], [[Gazetteer of the Known World]], this register, [[Ättar Overview]], and then specialist dossiers.
+This register controls authorial facts about the Ättar. Authority descends through [[Chronology of the Known World (AR Dating)]], [[Gazetteer of the Known World]], this register, [[01 Canon Reference/Peoples and Cultures/Ättar/Ättar Overview.md|Ättar Overview]], and then specialist dossiers.
 
 ## Fixed Identity
 
@@ -54,5 +54,5 @@ The Great Prophet is not authorially the First Skinwalker. Per-transformation me
 
 ## Navigation
 
-- [[Ättar Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Ättar/Ättar Overview.md|Ättar Overview]]
 - [[Ättar Reconstruction Audit]]

@@ -93,7 +93,7 @@ Last spring, Clear-Cut Karl's crew burned an offering grove to meet a quota. [[S
 
 - [[Folk Canon Register]]
 - [[Grenzburg MOC]]
-- [[Folk Daily Life and the Thirteen Moons]]
+- [[01 Canon Reference/Peoples and Cultures/Folk/30 Society and Daily Life/Folk Daily Life and the Thirteen Moons.md|Folk Daily Life and the Thirteen Moons]]
 - [[Gazetteer of the Known World]]
 - [[Menhir Sovereignty and Bargain]]
 

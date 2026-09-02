@@ -46,4 +46,4 @@ Korrheim companies may serve old-Church or Freeflame rulers but cannot lawfully 
 
 - [[The Confederation of Korrheim Overview]]
 - [[The Korrheim Accord]]
-- [[Military and Warfare Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Eclessia/50 Economy and Warfare/Military and Warfare Overview.md|Military and Warfare Overview]]

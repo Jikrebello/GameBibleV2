@@ -49,7 +49,7 @@ The Roll of the Drowned as a living quest-calendar (something goes wrong at name
 
 - [[The Folk Overview]]
 - [[The Reed Court of Wolfsmere]]
-- [[The Making of the Eclessians]]
+- [[01 Canon Reference/Peoples and Cultures/Eclessia/10 Foundations/The Making of the Eclessians.md|The Making of the Eclessians]]
 - [[Named Figures of the Known World]]
 - [[Four-Hearth Compact]]
 - [[Thin Spaces]]

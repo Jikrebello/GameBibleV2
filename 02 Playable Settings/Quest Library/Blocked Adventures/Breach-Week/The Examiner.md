@@ -94,4 +94,4 @@ The final encounter should answer repeated player habits rather than merely incr
 - [[Breach-Week — Full Adventure]]
 - [[Arcanist Odran Vale]]
 - [[Ward-Eaters]]
-- [[Collegium of Doors]]
+- [[01 Canon Reference/Peoples and Cultures/Sestaran Concord/60 Realms and Peoples/Citadel of Vorthara/Collegium of Doors.md|Collegium of Doors]]

@@ -68,8 +68,8 @@ The Ash Guard is not a Church order. It is the emperor's household guard, recrui
 ## Navigation
 
 - [[Thalmyric Armies and the Long Frontier]]
-- [[Church-Military Unity]]
-- [[The Court of Veridun (1360 AR)]]
+- [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/20 Faith and Worldview/Church-Military Unity.md|Church-Military Unity]]
+- [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/60 Realms and Peoples/Kingdom of Veridun/The Court of Veridun (1360 AR).md|The Court of Veridun (1360 AR)]]
 - [[The Layers Beneath Thalmyria]]
 - [[Hospice of the Lantern Road]]
 - [[Bernard Valeon]]

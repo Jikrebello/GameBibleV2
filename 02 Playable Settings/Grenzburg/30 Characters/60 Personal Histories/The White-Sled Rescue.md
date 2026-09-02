@@ -66,6 +66,6 @@ No hidden saboteur, supernatural force, corrupt survivor, or homeland enemy caus
 
 - [[Ylva Winter-Track]]
 - [[Ylva Companion Campaign]]
-- [[Medori Bank]]
+- [[01 Canon Reference/Peoples and Cultures/Sestaran Concord/60 Realms and Peoples/Grand Duchy of Fiorenzia/Medori Bank.md|Medori Bank]]
 - [[Blackjack Corps]]
 - [[Ylva Field Familiarity and Relationships]]

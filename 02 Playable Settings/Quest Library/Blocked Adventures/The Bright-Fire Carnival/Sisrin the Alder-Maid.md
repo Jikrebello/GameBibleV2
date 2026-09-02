@@ -14,7 +14,7 @@ tags: [module-conversion, game-ready]
 ---
 # Sisrin the Alder-Maid
 
-Sisrin the Alder-Maid is the surviving law of a burned offering grove, gathered into a face - a [[The Cloven|Cloven]] mistress of [[Sylvorn]]'s land-court and the ringmistress of the carnival in [[The Bright-Fire Carnival]]. She is not the adventure's principal villain, but she is a full moral agent. The grove was genuinely wronged; her chosen remedy must still be judged on its own merits.
+Sisrin the Alder-Maid is the surviving law of a burned offering grove, gathered into a face - a [[The Cloven|Cloven]] mistress of [[01 Canon Reference/Cosmology/30 Menhir/20 Third Circle/Sylvorn.md|Sylvorn]]'s land-court and the ringmistress of the carnival in [[The Bright-Fire Carnival]]. She is not the adventure's principal villain, but she is a full moral agent. The grove was genuinely wronged; her chosen remedy must still be judged on its own merits.
 
 ## What She Is
 
@@ -58,5 +58,5 @@ Sisrin can become a reconciled claimant who withdraws after concrete repair, a s
 - [[The Rime Rider]]
 - [[The Grove-Debt]]
 - [[The Cloven]]
-- [[Sylvorn]]
+- [[01 Canon Reference/Cosmology/30 Menhir/20 Third Circle/Sylvorn.md|Sylvorn]]
 - [[Menhir Sovereignty and Bargain]]

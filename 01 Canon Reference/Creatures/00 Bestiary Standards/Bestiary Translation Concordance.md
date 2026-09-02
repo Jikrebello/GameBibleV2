@@ -157,7 +157,7 @@ This is the creator-only crosswalk for the supplied Pathfinder monster taxonomy.
 | Source archetype | Result | World Egg destination |
 |---|---|---|
 | Hill, stone, frost, fire, cloud, and storm giants | `exclude` | Giants are organized by Titanic descent, categorical continuity, and the Five Imperial Horizons' many dynasties and lesser states, not imported elemental species |
-| Ogres and ogrekin | `existing` | [[Ogres]] as Grobi stages; unrelated large humanoids receive separate provenance |
+| Ogres and ogrekin | `existing` | [[01 Canon Reference/Creatures/30 Shadowlands and Idols/20 Wrath/10 Grobi/Ogres.md|Ogres]] as Grobi stages; unrelated large humanoids receive separate provenance |
 | Trolls | `new-family` | [[Trolls]] as rare stable fifth-stage Grobi |
 | Cyclopes | `merge` | A named Giant caste, engineered servant, or unique ruin population |
 | Ettins and multi-headed giants | `merge` | Giant fleshwork or Grobi terminal aberration, not a people |

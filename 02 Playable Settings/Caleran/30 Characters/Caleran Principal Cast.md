@@ -27,7 +27,7 @@ tags: [game-ready]
 | [[Ilarion Vale]] | occult investigator | haunted evidence and research |
 | [[Nadezhda of the Quiet Steps]] | abbess and hospital patron | discernment, charity, anti-Idol work |
 
-Patriarch Sophron remains the city's highest spiritual figure through [[The Patriarchate of Veridun]], but these twelve characters form the recurring playable cast around him.
+Patriarch Sophron remains the city's highest spiritual figure through [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/20 Faith and Worldview/The Patriarchate of Veridun.md|The Patriarchate of Veridun]], but these twelve characters form the recurring playable cast around him.
 
 ## Navigation
 

@@ -90,6 +90,6 @@ Giltling, bright-tail, sun-warren folk, mirror-tail, ochre hand, and warm-crack 
 
 - [[Bestiary MOC]]
 - [[Drakes Overview]]
-- [[Gold Drakes]]
+- [[01 Canon Reference/Creatures/20 Faewild and Menhir/10 Drakes/Gold Drakes.md|Gold Drakes]]
 - [[The Bright-Tail Host]]
 - [[The Drake's Demand — Full Adventure]]

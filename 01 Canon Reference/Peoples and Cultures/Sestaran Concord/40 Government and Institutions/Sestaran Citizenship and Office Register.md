@@ -29,5 +29,5 @@ Naturalization is possible everywhere except Vorthara, but difficult enough to p
 
 ## Navigation
 
-- [[Lives of the Concord — The Common Spine]]
-- [[The Sestaran Concord Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Sestaran Concord/30 Society and Daily Life/Life Paths/Lives of the Concord — The Common Spine.md|Lives of the Concord — The Common Spine]]
+- [[01 Canon Reference/Peoples and Cultures/Sestaran Concord/The Sestaran Concord Overview.md|The Sestaran Concord Overview]]

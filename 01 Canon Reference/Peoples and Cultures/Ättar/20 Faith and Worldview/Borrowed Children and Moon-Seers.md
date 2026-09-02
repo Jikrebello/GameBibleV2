@@ -31,5 +31,5 @@ When a Moon-Seer dies or becomes unable to serve, the next returned child inheri
 
 ## Navigation
 
-- [[Ättar Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Ättar/Ättar Overview.md|Ättar Overview]]
 - [[Mother Moon's Bargain]]

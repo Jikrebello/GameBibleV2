@@ -25,7 +25,7 @@ related_magic: [Menhir law]
 ---
 # The Cloven
 
-The Cloven are [[Sylvorn]]'s forest-fey — fauns, satyrs, thorn-maids, grove-spirits, and beautiful hazards that arise wherever the Faewild's land-law runs hot. They are not a bred species and they do not worship anything; they are what an ecosystem looks like when it is given social tools and a face. In [[The Bright-Fire Carnival]] they staff the carnival as the collection retinue of [[Sisrin the Alder-Maid]], gathered out of a grove that was burned.
+The Cloven are [[01 Canon Reference/Cosmology/30 Menhir/20 Third Circle/Sylvorn.md|Sylvorn]]'s forest-fey — fauns, satyrs, thorn-maids, grove-spirits, and beautiful hazards that arise wherever the Faewild's land-law runs hot. They are not a bred species and they do not worship anything; they are what an ecosystem looks like when it is given social tools and a face. In [[The Bright-Fire Carnival]] they staff the carnival as the collection retinue of [[Sisrin the Alder-Maid]], gathered out of a grove that was burned.
 
 This dossier collects the Cloven as a bestiary family, since they recur wherever the Sylvan Marches meets Faewild edges and are as likely to be encountered as debtors, hosts, and tricksters as enemies.
 
@@ -96,5 +96,5 @@ Antler, bark-skin, revel reed, thorn milk, and seed tokens may retain one local 
 - [[The Bright-Fire Carnival — Full Adventure]]
 - [[Sisrin the Alder-Maid]]
 - [[The Rimebound]]
-- [[Sylvorn]]
-- [[Folk Daily Life and the Thirteen Moons]]
+- [[01 Canon Reference/Cosmology/30 Menhir/20 Third Circle/Sylvorn.md|Sylvorn]]
+- [[01 Canon Reference/Peoples and Cultures/Folk/30 Society and Daily Life/Folk Daily Life and the Thirteen Moons.md|Folk Daily Life and the Thirteen Moons]]

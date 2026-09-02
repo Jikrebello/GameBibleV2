@@ -38,5 +38,5 @@ Skinwalking ends when a hall sincerely renounces the pact. Existing chiefs may r
 
 ## Navigation
 
-- [[Ättar Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Ättar/Ättar Overview.md|Ättar Overview]]
 - [[Moontouched]]

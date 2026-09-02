@@ -46,4 +46,4 @@ Academic rivalries, island courts, submerged ruins, naval signaling, old observa
 - [[The Maritime Kingdom of Saronika Overview]]
 - [[The Layers Beneath Thalmyria]]
 - [[Thalmyric Armies and the Long Frontier]]
-- [[Thalmyric Empire Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/Thalmyric Empire Overview.md|Thalmyric Empire Overview]]

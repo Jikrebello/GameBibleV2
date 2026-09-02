@@ -23,5 +23,5 @@ Present tensions include mine-thrall revolts, poisoned berserker veterans, rival
 
 ## Navigation
 
-- [[Ättar Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Ättar/Ättar Overview.md|Ättar Overview]]
 - [[Berserker Rage and Iron-Skin Paint]]

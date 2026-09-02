@@ -88,7 +88,7 @@ Temperament records expressive style, not moral quality. Female protagonists may
 
 The latest twelve authored signals form a rolling ledger. Ordinary expressive dialogue contributes one signal; consequential authored action contributes two; accepting a creation leaning contributes three opening signals. A primary requires four signals and a two-signal lead. A secondary requires three. Ties, sparse evidence, and deliberate mixtures use the fully authored grey profile.
 
-Temperament remains fluid with inertia through Act II and locks when [[Ghor at the Gate]] completes. After [[The First Summer Road]], the repeatable [[Player Temperament and Chemistry#Draught of Second Nature|Draught of Second Nature]] resets only future temperament reactions and reopens the quiz or direct selection. It never changes virtues, memories, approval, relationships, or completed outcomes.
+Temperament remains fluid with inertia through Act II and locks when [[Ghor at the Gate]] completes. After [[The First Summer Road]], the repeatable [[02 Playable Settings/Grenzburg/10 Production Bible/20 Player Systems/10 Character Framework/Player Temperament and Chemistry.md#Postgame Reset|Draught of Second Nature]] resets only future temperament reactions and reopens the quiz or direct selection. It never changes virtues, memories, approval, relationships, or completed outcomes.
 
 Temperament changes chemistry, disclosures, arguments, jokes, and occasional methods. It never removes a critical route, grants automatic approval, determines romance or sworn-bond access, or decides whether a moral action is right.
 

@@ -55,4 +55,4 @@ Sisk can become a professional who cut his losses and left, a defendant in a Chu
 - [[The Vharo Concession]]
 - [[The Unquiet Field]]
 - [[Kyra Vael]]
-- [[The Citadel of Vorthara Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Sestaran Concord/60 Realms and Peoples/Citadel of Vorthara/The Citadel of Vorthara Overview.md|The Citadel of Vorthara Overview]]

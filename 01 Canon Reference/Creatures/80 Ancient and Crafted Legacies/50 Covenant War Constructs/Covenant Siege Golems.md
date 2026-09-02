@@ -74,7 +74,7 @@ This is a reduced but active strategic arm, not a vanished wonder.
 
 - [[Ancient and Crafted Legacies MOC]]
 - [[Covenant Armies and the Tarkhan Frontier]]
-- [[The Invasion and the Fall]]
+- [[01 Canon Reference/History/60 Fall and Successor Empires/The Invasion and the Fall.md|The Invasion and the Fall]]
 - [[The Battle of the Shattered Engines (907 AR)]]
 - [[The Long Reconquest (908-1052 AR)]]
 - [[The Image, Soul, and Creaturely Continuity]]

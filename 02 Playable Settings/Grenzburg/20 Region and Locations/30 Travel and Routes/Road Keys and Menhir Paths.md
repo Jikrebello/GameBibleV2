@@ -64,7 +64,7 @@ Damaged endpoint marks, counterfeit keys, concealed passengers, an unacknowledge
 
 ## Navigation
 
-- [[Hecatara]]
+- [[01 Canon Reference/Cosmology/30 Menhir/10 Second Circle/Hecatara.md|Hecatara]]
 - [[Way-Weavers]]
 - [[Menhir Sovereignty and Bargain]]
 - [[Grenzburg Travel and Road-Key Network]]

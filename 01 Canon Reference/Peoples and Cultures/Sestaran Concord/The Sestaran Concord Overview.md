@@ -24,11 +24,11 @@ The cities answer uncertainty through leverage: archives, patronage, ships, cred
 
 ## The Seven Seals
 
-- [[The Grand Duchy of Fiorenzia Overview]]: highland duchy, art, scholarship, vineyards, and Medori finance.
-- [[The Sermoran Republic Overview]]: canal metropolis, fortified islands, privateers, fleets, and intelligence.
-- [[The Principality of Aversia Overview]]: mines, foundries, fortresses, engineers, and contract-captains.
-- [[The Citadel of Vorthara Overview]]: anarchic mountain refuge, faction wards, dangerous research, and the Black Spire.
-- [[The Free City of Castara Overview]]: detached Boiling Sea gateway, shipyards, migration, and colonial ambition.
+- [[01 Canon Reference/Peoples and Cultures/Sestaran Concord/60 Realms and Peoples/Grand Duchy of Fiorenzia/The Grand Duchy of Fiorenzia Overview.md|The Grand Duchy of Fiorenzia Overview]]: highland duchy, art, scholarship, vineyards, and Medori finance.
+- [[01 Canon Reference/Peoples and Cultures/Sestaran Concord/60 Realms and Peoples/Sermoran Republic/The Sermoran Republic Overview.md|The Sermoran Republic Overview]]: canal metropolis, fortified islands, privateers, fleets, and intelligence.
+- [[01 Canon Reference/Peoples and Cultures/Sestaran Concord/60 Realms and Peoples/Principality of Aversia/The Principality of Aversia Overview.md|The Principality of Aversia Overview]]: mines, foundries, fortresses, engineers, and contract-captains.
+- [[01 Canon Reference/Peoples and Cultures/Sestaran Concord/60 Realms and Peoples/Citadel of Vorthara/The Citadel of Vorthara Overview.md|The Citadel of Vorthara Overview]]: anarchic mountain refuge, faction wards, dangerous research, and the Black Spire.
+- [[01 Canon Reference/Peoples and Cultures/Sestaran Concord/60 Realms and Peoples/Free City of Castara/The Free City of Castara Overview.md|The Free City of Castara Overview]]: detached Boiling Sea gateway, shipyards, migration, and colonial ambition.
 - [[The Free Port of Orsena]]: neutral harbor, prisoner exchange, foreign quarters, and disciplined scarcity.
 - [[The Free City of Vardessa]]: landlocked fairs, crafts, horse markets, roads, and the neutral muster hall.
 
@@ -36,7 +36,7 @@ Their only binding institution is the [[The Seven-Seal Defensive Muster]]. An ex
 
 ## Citizenship and Daily Life
 
-Political membership is narrow and city-specific. Residents, laborers, migrants, sailors, servants, and foreigners outnumber citizens in every member. See [[Sestaran Citizenship and Office Register]] and [[Lives of the Concord — The Common Spine]].
+Political membership is narrow and city-specific. Residents, laborers, migrants, sailors, servants, and foreigners outnumber citizens in every member. See [[Sestaran Citizenship and Office Register]] and [[01 Canon Reference/Peoples and Cultures/Sestaran Concord/30 Society and Daily Life/Life Paths/Lives of the Concord — The Common Spine.md|Lives of the Concord — The Common Spine]].
 
 ## History and Neighbours
 

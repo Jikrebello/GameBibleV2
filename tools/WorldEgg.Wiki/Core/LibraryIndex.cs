@@ -1,8 +1,8 @@
+using Markdig.Syntax;
+using Markdig.Syntax.Inlines;
 using System.Diagnostics;
 using System.Runtime.CompilerServices;
 using System.Text.RegularExpressions;
-using Markdig.Syntax;
-using Markdig.Syntax.Inlines;
 
 namespace WorldEgg.Wiki.Core;
 
@@ -22,9 +22,12 @@ public sealed class LibraryIndex : IDisposable
     private readonly object _gate = new();
     private readonly ConditionalWeakTable<WikiDocument, LibraryEntry> _entries = new();
     private LibrarySnapshot? _snapshot;
+
     public event Action? Changed;
+
     public LibraryIndex(VaultCatalogue catalogue, LinkResolver links, BaseLibrary bases)
     { _catalogue = catalogue; _links = links; _bases = bases; catalogue.Changed += Updated; }
+
     public LibrarySnapshot Current
     {
         get
@@ -37,7 +40,10 @@ public sealed class LibraryIndex : IDisposable
             }
         }
     }
-    private void Updated() { _ = Current; Changed?.Invoke(); }
+
+    private void Updated()
+    { _ = Current; Changed?.Invoke(); }
+
     public void Dispose() => _catalogue.Changed -= Updated;
 
     private LibrarySnapshot Build(CatalogueSnapshot catalogue)
@@ -79,6 +85,7 @@ public sealed class LibraryIndex : IDisposable
         timer.Stop();
         return new(catalogue, entries, terms.ToDictionary(p => p.Key, p => p.Value.ToArray()), outgoing.ToDictionary(p => p.Key, p => p.Value.Order().ToArray(), StringComparer.OrdinalIgnoreCase), incoming.ToDictionary(p => p.Key, p => p.Value.Order().ToArray(), StringComparer.OrdinalIgnoreCase), issues.Distinct().OrderBy(i => i.Kind).ThenBy(i => i.Source).ToArray(), timer.Elapsed.TotalMilliseconds);
     }
+
     private static LibraryEntry Extract(WikiDocument document)
     {
         var ast = MarkdownSupport.Parse(document.Body);
@@ -92,6 +99,7 @@ public sealed class LibraryIndex : IDisposable
         var folded = VaultCatalogue.Fold(text);
         return new(document, text, folded, names, headings, Tokens(string.Join(' ', names) + " " + headings + " " + folded).Distinct().ToArray(), targets, unsupported);
     }
+
     private static LibraryEntry SafeExtract(WikiDocument document)
     {
         try { return Extract(document); }
@@ -101,9 +109,13 @@ public sealed class LibraryIndex : IDisposable
             return new(document, text, folded, names, "", Tokens(folded + " " + string.Join(' ', names)).Distinct().ToArray(), [], ["Article indexing failed; searchable source text is retained. " + ex.Message]);
         }
     }
+
     public static IEnumerable<string> Tokens(string value) => Regex.Matches(value, @"[\p{L}\p{N}]+").Select(m => m.Value);
+
     public string[] Facet(string field) => Current.Entries.SelectMany(e => Values(e.Document, field)).Where(v => !string.IsNullOrWhiteSpace(v)).Distinct(StringComparer.OrdinalIgnoreCase).OrderBy(VaultCatalogue.Fold).ToArray();
+
     public static string[] Values(WikiDocument document, string field) => field == "area" ? [document.Area] : document.Metadata.GetValueOrDefault(field, []);
+
     public static bool Matches(WikiDocument document, IReadOnlyDictionary<string, string>? filters) => filters is null || filters.All(f => string.IsNullOrWhiteSpace(f.Value) || Values(document, f.Key).Any(v => VaultCatalogue.Fold(v) == VaultCatalogue.Fold(f.Value)));
 
     public SearchPage Search(string? query, IReadOnlyDictionary<string, string>? filters = null, int page = 1, int pageSize = 25)
@@ -127,6 +139,7 @@ public sealed class LibraryIndex : IDisposable
         var hits = found.Skip((page - 1) * pageSize).Take(pageSize).Select(x => new SearchHit(x.Entry.Document, Snippet(x.Entry, words), x.Score)).ToArray();
         return new(hits, found.Length, page, pageSize, timer.Elapsed.TotalMilliseconds);
     }
+
     private static int Score(LibraryEntry entry, string q, string[] words)
     {
         if (q.Length == 0) return 0;
@@ -134,6 +147,7 @@ public sealed class LibraryIndex : IDisposable
         var heading = entry.Headings.Contains(q, StringComparison.Ordinal) ? 1500 : 0;
         return name + heading + Math.Min(400, words.Sum(w => entry.FoldedText.Contains(w, StringComparison.Ordinal) ? 10 : 0) + (entry.FoldedText.Contains(q, StringComparison.Ordinal) ? 100 : 0));
     }
+
     private static string Snippet(LibraryEntry entry, string[] words)
     {
         var position = words.Select(w => entry.FoldedText.IndexOf(w, StringComparison.Ordinal)).Where(i => i >= 0).DefaultIfEmpty(0).Min();

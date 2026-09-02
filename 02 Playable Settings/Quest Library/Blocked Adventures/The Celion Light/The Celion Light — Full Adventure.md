@@ -398,6 +398,6 @@ No ending is the authorial continuation. The station's seizure and the people in
 - [[Captain Ivana Whale-Mark]]
 - [[The Black-Cord Company]]
 - [[The Celion Sun-Glass]]
-- [[The Saltborn Coast Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/60 Realms and Peoples/The Saltborn Coast Overview.md|The Saltborn Coast Overview]]
 - [[The Qazmari]]
 - [[Quest Tier Doctrine]]

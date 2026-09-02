@@ -55,4 +55,4 @@ Monster hunts, materials, barrow delving, warlock investigation, Folk boundaries
 - [[Emerald Drake Range]]
 - [[Barrow of the First Chieftain]]
 - [[Seven Mounds]]
-- [[Emerald Drakes]]
+- [[01 Canon Reference/Creatures/20 Faewild and Menhir/10 Drakes/Emerald Drakes.md|Emerald Drakes]]

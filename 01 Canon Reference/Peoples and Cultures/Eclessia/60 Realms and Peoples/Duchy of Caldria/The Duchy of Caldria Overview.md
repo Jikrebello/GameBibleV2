@@ -57,6 +57,6 @@ Order rivalries, fortress commands, relic custody, mixed-confession companies, w
 ## Navigation
 
 - [[Knightly Orders & Power Struggles]]
-- [[Lives of Caldria and the Sylvan Marches]]
-- [[Military and Warfare Overview]]
-- [[Eclessia Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Eclessia/30 Society and Daily Life/Life Paths/Lives of Caldria and the Sylvan Marches.md|Lives of Caldria and the Sylvan Marches]]
+- [[01 Canon Reference/Peoples and Cultures/Eclessia/50 Economy and Warfare/Military and Warfare Overview.md|Military and Warfare Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Eclessia/Eclessia Overview.md|Eclessia Overview]]

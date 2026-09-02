@@ -23,5 +23,5 @@ Present tensions center on an unusually broad Grobi movement, abandoned outer ha
 
 ## Navigation
 
-- [[Ättar Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Ättar/Ättar Overview.md|Ättar Overview]]
 - [[Winter War and the Grobi Frontier]]

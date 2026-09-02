@@ -77,5 +77,5 @@ No survivor, band member, road rival, or Korrheim official enters the base-game 
 
 - [[Dismas Raben]] · [[Dismas Companion Campaign]]
 - [[Sella Etten]] · [[The Name on the Charge]]
-- [[Claims-Factor Marco Bellandi]] · [[Medori Bank]]
+- [[Claims-Factor Marco Bellandi]] · [[01 Canon Reference/Peoples and Cultures/Sestaran Concord/60 Realms and Peoples/Grand Duchy of Fiorenzia/Medori Bank.md|Medori Bank]]
 - [[Dismas Rewrite Spec]]

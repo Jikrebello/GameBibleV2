@@ -18,13 +18,13 @@ tags: [module-conversion, game-ready]
 
 ## Adventure at a Glance
 
-**Premise:** The party enters [[The Citadel of Vorthara Overview|Vorthara's]] most celebrated ward-breaking competition and discovers that its final defense is a non-conscious adaptive engine fed by extracted contestant patterns while living failures remain bodily suspended inside it.
+**Premise:** The party enters [[01 Canon Reference/Peoples and Cultures/Sestaran Concord/60 Realms and Peoples/Citadel of Vorthara/The Citadel of Vorthara Overview.md|Vorthara's]] most celebrated ward-breaking competition and discovers that its final defense is a non-conscious adaptive engine fed by extracted contestant patterns while living failures remain bodily suspended inside it.
 
 **Beginning:** [[Rector Ilyra Sorn]] recruits the party as outside challengers. A ward accident proves that something inside the final hall is already reaching beyond containment.
 
 **Middle:** The party competes across seven school trials, collects four seal-flames, and enters the final hall. Instead of reaching its interior, they are drawn into a folded annex containing generations of trapped contestants and the truth about [[Arcanist Odran Vale]].
 
-**End:** The party confronts [[The Examiner]], chooses what to preserve or destroy, escapes during a campus-wide discharge of stored defenses, and determines whether the [[Collegium of Doors]] is reformed, destroyed, or allowed to hide what happened.
+**End:** The party confronts [[The Examiner]], chooses what to preserve or destroy, escapes during a campus-wide discharge of stored defenses, and determines whether the [[01 Canon Reference/Peoples and Cultures/Sestaran Concord/60 Realms and Peoples/Citadel of Vorthara/Collegium of Doors.md|Collegium of Doors]] is reformed, destroyed, or allowed to hide what happened.
 
 **Tier:** F/W marquee adventure. It works as a high-level set piece, but its structure can be scaled down because danger comes from specialized defenses rather than world-ending power.
 
@@ -43,7 +43,7 @@ tags: [module-conversion, game-ready]
 
 ### Canon Authority Ruling
 
-Breach-Week is the [[Collegium of Doors]]' festival, not a Vortharan civic examination. Participating schools form a temporary conclave to recognize results and keep rival wards from interfering. Its prizes, seals of competence, archive access, and discipline bind only institutions that accepted the conclave. Vorthara gains no universal licensing office or citywide magical government from this adventure.
+Breach-Week is the [[01 Canon Reference/Peoples and Cultures/Sestaran Concord/60 Realms and Peoples/Citadel of Vorthara/Collegium of Doors.md|Collegium of Doors]]' festival, not a Vortharan civic examination. Participating schools form a temporary conclave to recognize results and keep rival wards from interfering. Its prizes, seals of competence, archive access, and discipline bind only institutions that accepted the conclave. Vorthara gains no universal licensing office or citywide magical government from this adventure.
 
 One hundred and fifty-seven years ago, ward-theorist [[Arcanist Odran Vale]] built an experimental defense beneath the Collegium's Hall of Proof. He used black-spire crystal to make a **mnemonic lattice** capable of observing an intrusion, preserving the intruder's magical pattern, and redesigning itself against that pattern.
 
@@ -281,7 +281,7 @@ The Examiner escapes inside a copied champion. The festival appears to have prod
 ## Navigation
 
 - [[Breach-Week]]
-- [[Collegium of Doors]]
+- [[01 Canon Reference/Peoples and Cultures/Sestaran Concord/60 Realms and Peoples/Citadel of Vorthara/Collegium of Doors.md|Collegium of Doors]]
 - [[Rector Ilyra Sorn]]
 - [[Arcanist Odran Vale]]
 - [[Quest Tier Doctrine]]

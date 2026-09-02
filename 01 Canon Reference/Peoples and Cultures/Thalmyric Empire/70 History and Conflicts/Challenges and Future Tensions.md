@@ -53,8 +53,8 @@ Mixed occupation-descended communities remain vulnerable to purist politics. The
 
 ## Navigation
 
-- [[Thalmyric Empire Overview]]
-- [[The Court of Veridun (1360 AR)]]
+- [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/Thalmyric Empire Overview.md|Thalmyric Empire Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/60 Realms and Peoples/Kingdom of Veridun/The Court of Veridun (1360 AR).md|The Court of Veridun (1360 AR)]]
 - [[Thalmyric Heartland - Cities, Ruins, and the Empty Interior]]
 - [[Thalmyric Economy and the Old Heartland]]
 - [[Zanthir and the Unfinished Reconquest]]

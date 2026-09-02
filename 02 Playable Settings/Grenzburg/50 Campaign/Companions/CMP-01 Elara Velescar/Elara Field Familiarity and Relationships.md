@@ -137,7 +137,7 @@ Declining preserves friendship and the complete companion campaign.
 
 Before the explicit signal, Elara's praise, wagers, stylish attention, and shared danger are not flirting. There is no jealousy, sexual teasing, or romance-coded party banter.
 
-If [[The Patron's Cabinet]] resolves autonomously, `elara_relationship_closed` becomes true. [[Elara Companion Campaign#Cabinet After Snow|Cabinet After Snow]] may repair morality and friendship but never reopens romance or sworn bond. The tracked transition warning names this consequence before confirmation.
+If [[The Patron's Cabinet]] resolves autonomously, `elara_relationship_closed` becomes true. [[02 Playable Settings/Grenzburg/50 Campaign/Companions/CMP-01 Elara Velescar/Elara Companion Campaign.md#^cabinet-after-snow|Cabinet After Snow]] may repair morality and friendship but never reopens romance or sworn bond. The tracked transition warning names this consequence before confirmation.
 
 ## Relationship Episodes
 

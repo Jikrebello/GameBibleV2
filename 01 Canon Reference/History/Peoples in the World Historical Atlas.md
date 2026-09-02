@@ -29,7 +29,8 @@ Ancestry, language, religious inheritance, imperial citizenship and present poli
 
 The Vesari remain a distinct later Braided formation within the wider regional accounts rather than an ancient Atherian bloodline. The Last Houses and the deep peoples are additional distant histories, not hidden origins for the eleven known-world cultural shelves.
 
+[[History of the Tidewood Coast]] is the first extended regional reading route: coastal Folk history across the ages, linked to particular harbours, households, voyages and neighbouring Ättar lives.
+
 - [[Ethnic Groups Overview|Peoples and Ancestry Register]]
 - [[Distant Lands and Otherworld Histories]]
 - [[World Historical Atlas MOC]]
-

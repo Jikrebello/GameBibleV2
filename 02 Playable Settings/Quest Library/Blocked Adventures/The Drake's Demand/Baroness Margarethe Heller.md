@@ -47,5 +47,5 @@ She may die, resign, flee, submit, or lead the town through the attack. No outco
 - [[Hellerbruck]]
 - [[Dame Sabine Heller]]
 - [[Crypt of Dame Sabine]]
-- [[The Duchy of Brauvalis Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Eclessia/60 Realms and Peoples/Duchy of Brauvalis/The Duchy of Brauvalis Overview.md|The Duchy of Brauvalis Overview]]
 

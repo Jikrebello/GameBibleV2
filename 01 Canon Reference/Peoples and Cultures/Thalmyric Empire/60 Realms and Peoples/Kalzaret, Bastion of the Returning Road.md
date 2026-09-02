@@ -38,4 +38,4 @@ Prisoner exchange, truce-market murder, active contracts, tunnel exploration, di
 - [[The Kingdom of Vlastrava Overview]]
 - [[Zanthir and the Unfinished Reconquest]]
 - [[The Layers Beneath Thalmyria]]
-- [[Thalmyric Military Orders|Order of the Long Watch]]
+- [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/50 Economy and Warfare/Thalmyric Military Orders.md|Order of the Long Watch]]

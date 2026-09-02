@@ -52,5 +52,5 @@ Churches often sit above pagan temples, martyr prisons, occupation courts, and o
 - [[Faith and the Thalmyric Church Overview]]
 - [[The Layers Beneath Thalmyria]]
 - [[Saints and Relics]]
-- [[Thalmyric Daily Life and the Burning Year]]
+- [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/30 Society and Daily Life/Thalmyric Daily Life and the Burning Year.md|Thalmyric Daily Life and the Burning Year]]
 

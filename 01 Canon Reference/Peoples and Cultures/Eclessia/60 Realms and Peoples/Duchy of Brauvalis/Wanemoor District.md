@@ -44,7 +44,7 @@ Old-Church parishes predominate, but Wanenbruck and several timber settlements c
 
 Grave-watchers call the imagined source of every deep scratch and fevered corpse-road **the Fever Deeps**. Parish warnings disagree about whether it is a city, a punishment, or merely a name for bad ground. Public authorities possess no reliable map and discourage anyone from treating the stories as a road guide.
 
-Wanemoor suffered badly during [[The Grey Sweat]]. Abbey infirmaries became burial stations and pauper galleries took strangers whose home parishes had failed. These interments remain a living legal and spiritual obligation, not abandoned property.
+Wanemoor suffered badly during [[01 Canon Reference/History/70 Later History and Present Day/The Grey Sweat.md|The Grey Sweat]]. Abbey infirmaries became burial stations and pauper galleries took strangers whose home parishes had failed. These interments remain a living legal and spiritual obligation, not abandoned property.
 
 ## Economy
 
@@ -68,4 +68,4 @@ The district can also support mine collapses, confessional relief disputes, miss
 - [[Merewick]]
 - [[The Feast at Wanemoor — Full Adventure]]
 - [[Gazetteer of the Known World]]
-- [[Eclessia Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Eclessia/Eclessia Overview.md|Eclessia Overview]]

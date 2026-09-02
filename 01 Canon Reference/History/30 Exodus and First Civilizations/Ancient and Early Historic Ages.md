@@ -42,7 +42,7 @@ This note bridges [[Prehistory Overview]] and the [[Atherian Imperial Age]]. It 
 - **Folk and Ättar:** related Orphaned southern cold-frontier populations that develop into distinct peoples. Folk institutions center on clan territory and local courts; settled Ättar halls later accept Mother Moon's firstborn pact during the [[War of the Empty Halls]].
 - **Tarkhan and Nsizwa:** independent Orphaned peoples whose ancestors survive and reassemble outside the Ark in different regions and under different pressures.
 - **Sestara:** later Braided harbor and archive-city populations that survive by monetizing memory, art, finance, ships, legal skill, and secrets; no single ancient Sestaran people exits the Glass.
-- **Vesari:** a later Braided river-plain people of the far east, formed from local remnant populations and arriving Ark-derived groups; their converted princedoms become Virelia's substrate (see [[The Making of the Eclessians]]).
+- **Vesari:** a later Braided river-plain people of the far east, formed from local remnant populations and arriving Ark-derived groups; their converted princedoms become Virelia's substrate (see [[01 Canon Reference/Peoples and Cultures/Eclessia/10 Foundations/The Making of the Eclessians.md|The Making of the Eclessians]]).
 
 ## Geography Lock
 

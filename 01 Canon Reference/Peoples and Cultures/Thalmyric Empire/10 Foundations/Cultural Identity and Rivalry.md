@@ -52,6 +52,6 @@ Regional food ranges from oil, fish, greens, wine, and filled breads in the old 
 
 ## Navigation
 
-- [[Thalmyric Empire Overview]]
-- [[Thalmyric Daily Life and the Burning Year]]
+- [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/Thalmyric Empire Overview.md|Thalmyric Empire Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/30 Society and Daily Life/Thalmyric Daily Life and the Burning Year.md|Thalmyric Daily Life and the Burning Year]]
 - [[The Making of the Thalmyrics]]

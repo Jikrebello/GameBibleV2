@@ -51,5 +51,5 @@ Ivana can become a recurring coastal patron, navigator, transport ally, or witne
 - [[Celion Light Station]]
 - [[Chief Keeper Milena Shore-Wake]]
 - [[Black Fig Cove]]
-- [[The Saltborn Coast Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/60 Realms and Peoples/The Saltborn Coast Overview.md|The Saltborn Coast Overview]]
 

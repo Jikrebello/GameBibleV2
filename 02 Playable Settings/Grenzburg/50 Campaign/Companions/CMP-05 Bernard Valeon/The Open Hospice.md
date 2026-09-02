@@ -70,7 +70,7 @@ player_archetype_hooks: []
 
 Bernard's Act III finale asks whether his new accountability survives a crisis large enough to make concealment feel prudent again. The player and Bernard establish a mixed hospice during the Unending Muster, secure its supply routes, maintain a witnessed inventory, move patients, and hold it against residue soldiers.
 
-The moral outcome is separate from Bernard's destination. A resolved Bernard may return to the [[Thalmyric Military Orders#Order of the Long Watch|Order of the Long Watch]], remain to establish [[Open Lamp Hospice]], or travel as a hospitaller beside a committed female romantic partner. None of those destinations alone proves his reform.
+The moral outcome is separate from Bernard's destination. A resolved Bernard may return to the [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/50 Economy and Warfare/Thalmyric Military Orders.md#Order of the Long Watch|Order of the Long Watch]], remain to establish [[Open Lamp Hospice]], or travel as a hospitaller beside a committed female romantic partner. None of those destinations alone proves his reform.
 
 The closed quest uses the player and Bernard only. Grenzburg carers, patients, porters, guards, and faction-provided helpers are temporary NPCs outside the companion limit. Petra, Matej, and Radena remain remote.
 

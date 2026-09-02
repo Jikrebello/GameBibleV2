@@ -204,13 +204,13 @@ These sixty-seven pre-existing history pages each have one principal destination
 | [[The Temple That Would Not Burn]] | [[The Conversion of the Empire]] |
 | [[The Twelve Companions of the Redeemer]] | [[The Age of the Redeemer]] |
 | [[The Velian Church]] | [[The Long Frontier and the First Unsealing]] |
-| [[The Coronation at Virelos]] | [[The Great Split — Two Crowns, One Fire]] |
-| [[The Founding Flame]] | [[The Fall and the Long Reconquest]] |
+| [[01 Canon Reference/History/60 Fall and Successor Empires/The Coronation at Virelos.md|The Coronation at Virelos]] | [[The Great Split — Two Crowns, One Fire]] |
+| [[01 Canon Reference/History/60 Fall and Successor Empires/The Founding Flame.md|The Founding Flame]] | [[The Fall and the Long Reconquest]] |
 | [[The Great Split — Two Crowns, One Fire]] | [[The Great Split — Two Crowns, One Fire]] |
-| [[The Invasion and the Fall]] | [[The Fall and the Long Reconquest]] |
-| [[The Reclamation of Caleran]] | [[The Fall and the Long Reconquest]] |
-| [[The Refuge and the Rise of Veridun]] | [[The Fall and the Long Reconquest]] |
-| [[The War of the Burning Banners]] | [[The Fall and the Long Reconquest]] |
+| [[01 Canon Reference/History/60 Fall and Successor Empires/The Invasion and the Fall.md|The Invasion and the Fall]] | [[The Fall and the Long Reconquest]] |
+| [[01 Canon Reference/History/60 Fall and Successor Empires/The Reclamation of Caleran.md|The Reclamation of Caleran]] | [[The Fall and the Long Reconquest]] |
+| [[01 Canon Reference/History/60 Fall and Successor Empires/The Refuge and the Rise of Veridun.md|The Refuge and the Rise of Veridun]] | [[The Fall and the Long Reconquest]] |
+| [[01 Canon Reference/History/60 Fall and Successor Empires/The War of the Burning Banners.md|The War of the Burning Banners]] | [[The Fall and the Long Reconquest]] |
 | [[Freeflame Reformation]] | [[The Age of Held Proofs]] |
 | [[Present-Day Courts and Crowns (1360 AR)]] | [[The Age of Held Proofs]] |
 | [[Present-Day Political Board]] | [[The Age of Held Proofs]] |
@@ -218,7 +218,7 @@ These sixty-seven pre-existing history pages each have one principal destination
 | [[The Disputed Fourth Seal]] | [[The Long Frontier and the First Unsealing]] |
 | [[The Fourth Seal - Authorial Truth]] | [[The Long Frontier and the First Unsealing]] |
 | [[The Grey Sweat - Authorial Truth]] | [[High Noon and the Qarath Disaster]] |
-| [[The Grey Sweat]] | [[High Noon and the Qarath Disaster]] |
+| [[01 Canon Reference/History/70 Later History and Present Day/The Grey Sweat.md|The Grey Sweat]] | [[High Noon and the Qarath Disaster]] |
 | [[The Korrheim Accord]] | [[The Age of Held Proofs]] |
 
 ## Research-dossier destinations
@@ -827,6 +827,12 @@ The four previously unused Primarch grammars become four separate local mortal t
 - All twenty Primarch source studies remain in [[Primarch Function Atlas and World Egg Translation]]. Their eighteen named grammars produce the fourteen Great exemplars and four local mortal traditions. II and XI remain absence studies feeding ER-01 and ER-02, not invented source personalities.
 - Comparative source catalogues inherit their reviewed family descendants. A game city, deity or saint used only for comparison is not an extra World Egg lead.
 - Ark/Orphaned/Braided classification, the Two Fissions and Atherian civic development remain the already-promoted demographic backbone. The eleven culture histories are linked from [[Peoples in the World Historical Atlas]].
+
+## Tidewood regional depth example
+
+The first post-Atlas regional expansion is [[History of the Tidewood Coast]], entered through [[Tidewood Coast]]. [[Tidewood Historical Development - Authorial Review]] records its established local events, named people and settlements, specific Court of Salt and Teeth encounters and continuity limits. It enriches the Folk and neighbouring Ättar histories without replacing the eleven culture shelves or their earlier source destinations. G-67 remains in its established watershed; its later coastal customs receive context, not a second origin.
+
+The new boat-launch tale is regional canon outside the fixed 75-root Garden inventory. No Garden ID, Great Saint or Sinner slot, protected Weird or future event is added. The original build counts below remain a historical baseline, not a limit on subsequent regional articles. [[Dependable Navigation - Review and Repair Ledger]] records the independent link-target cleanup.
 
 ## Canon boundaries after integration
 

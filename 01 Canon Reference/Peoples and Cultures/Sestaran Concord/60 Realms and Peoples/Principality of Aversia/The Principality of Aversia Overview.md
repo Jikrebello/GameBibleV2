@@ -41,6 +41,6 @@ Soran absolutism, Shield House resentment, unsafe mines, foreign clients, Medori
 ## Navigation
 
 - [[House of Soran Overview]]
-- [[Lives of Aversia]]
+- [[01 Canon Reference/Peoples and Cultures/Sestaran Concord/30 Society and Daily Life/Life Paths/Lives of Aversia.md|Lives of Aversia]]
 - [[Sestaran Forces and Private War]]
 - [[Castaran Long Road]]

@@ -43,5 +43,5 @@ Iqashar and Al-Qahur are Witnessed-Seal. Qazmarid is Sealed-Blood. Zanthir is Wi
 ## Navigation
 
 - [[The Bir Qassim Safe-Conduct — Annotated]]
-- [[Al-Ahdiya Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Ahl-e-Ahd/20 Faith and Worldview/Al-Ahdiya Overview.md|Al-Ahdiya Overview]]
 - [[Present-Day Courts and Crowns (1360 AR)]]

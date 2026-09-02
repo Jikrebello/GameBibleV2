@@ -49,7 +49,7 @@ A Thalmyric recognizes the Patriarchate, the Aetherion continuity, the Burning Y
 
 ## Navigation
 
-- [[Thalmyric Empire Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/Thalmyric Empire Overview.md|Thalmyric Empire Overview]]
 - [[Cultural Identity and Rivalry]]
-- [[Thalmyric Daily Life and the Burning Year]]
+- [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/30 Society and Daily Life/Thalmyric Daily Life and the Burning Year.md|Thalmyric Daily Life and the Burning Year]]
 - [[Thalmyric Heartland - Cities, Ruins, and the Empty Interior]]

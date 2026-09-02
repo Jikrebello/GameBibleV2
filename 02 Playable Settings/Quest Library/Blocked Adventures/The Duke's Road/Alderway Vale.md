@@ -23,7 +23,7 @@ tags: [game-ready]
 ---
 # Alderway Vale
 
-Alderway Vale is a forested western corridor north of [[The Folk of the Frontier and the Wolfsmere Lineage|Wolfsmere]] and west-northwest of Grenzburg. The vale climbs from wet alder bottoms and fisheries toward a broken northern ridge, then opens onto old roads leading toward Dornwatch and the Brauvalian supply network. Duke Alaric has begun a relief road through it, but the project remains unfinished in 1360 AR.
+Alderway Vale is a forested western corridor north of [[01 Canon Reference/Peoples and Cultures/Folk/30 Society and Daily Life/The Folk of the Frontier and the Wolfsmere Lineage.md|Wolfsmere]] and west-northwest of Grenzburg. The vale climbs from wet alder bottoms and fisheries toward a broken northern ridge, then opens onto old roads leading toward Dornwatch and the Brauvalian supply network. Duke Alaric has begun a relief road through it, but the project remains unfinished in 1360 AR.
 
 ## The Land
 

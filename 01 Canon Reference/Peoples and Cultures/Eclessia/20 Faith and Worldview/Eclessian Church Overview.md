@@ -23,7 +23,7 @@ The Church is not spiritually empty. Its sacraments work, its saints can be test
 
 - **Lord Primarch Alistair III** governs from Aurelium through the Primarchal chancery and the High Council.
 - **Bishops** supervise dioceses, ordain priests, judge clerical discipline, and negotiate constantly with territorial rulers after the [[The Korrheim Accord|Korrheim Accord]].
-- **Relic courts** test claims of sainthood, apparitions, and sanctified objects. Their modern procedure descends from the Bruckmoor scandal during [[The Grey Sweat]].
+- **Relic courts** test claims of sainthood, apparitions, and sanctified objects. Their modern procedure descends from the Bruckmoor scandal during [[01 Canon Reference/History/70 Later History and Present Day/The Grey Sweat.md|The Grey Sweat]].
 - **Parish priests** keep the registers by which Eclessians prove birth, marriage, burial, legitimacy, and title.
 - **Monastic houses** maintain worship, hospitals, libraries, estates, and specialist crafts. Their property and exemptions remain central confessional disputes.
 - **The Order of the Lantern** trains clergy, investigates false sanctity, conducts missions, and supplies the Counter-Reform's quiet intelligence.
@@ -56,7 +56,7 @@ The Accord grants no individual liberty. Old-Church households in Ironvale, Free
 
 ## Navigation
 
-- [[Eclessia Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Eclessia/Eclessia Overview.md|Eclessia Overview]]
 - [[The Consolidation of the Eclessian Church]]
 - [[Culture and Religion]]
 - [[Eclessian Church Architecture]]

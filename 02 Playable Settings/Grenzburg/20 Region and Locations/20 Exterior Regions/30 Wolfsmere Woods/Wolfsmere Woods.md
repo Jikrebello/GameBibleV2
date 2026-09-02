@@ -54,7 +54,7 @@ Folk standing, route access, rare medicines, hunts, memorial rites, local-court 
 ## Navigation
 
 - [[Grenzburg Exterior Regions Overview]]
-- [[The Folk of the Frontier and the Wolfsmere Lineage]]
+- [[01 Canon Reference/Peoples and Cultures/Folk/30 Society and Daily Life/The Folk of the Frontier and the Wolfsmere Lineage.md|The Folk of the Frontier and the Wolfsmere Lineage]]
 - [[Moss-Crown Mootground]]
 - [[Bellless Hold]]
 - [[Grenzburg Travel and Road-Key Network]]

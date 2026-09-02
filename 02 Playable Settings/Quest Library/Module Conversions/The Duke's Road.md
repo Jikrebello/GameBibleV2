@@ -63,7 +63,7 @@ The final result reflects more than the last battle. The expedition's survival a
 - the original survey and expedition conflicts become the disagreement between Hanne, [[Master Surveyor Oskar Pell]], and the [[Alder-Crossing Clan]].
 - the original lizardfolk diplomacy becomes negotiation with one named Green March kindred; it does not imply universal Folk authority.
 - dark roseblood sprites become [[Blood-Briar Guests]], specifically the murderous host called [[The Red Garland]].
-- flame drakes become pain-collared [[Ruby Drakes]].
+- flame drakes become pain-collared [[01 Canon Reference/Creatures/20 Faewild and Menhir/10 Drakes/Ruby Drakes.md|Ruby Drakes]].
 - Vardak becomes rogue siege-warlock [[Magister Caspar Rauk]].
 - the mountain fortress becomes [[Cinder Crown]].
 - the Seed of Fire becomes [[The Cinder Seed]], a delayed Shell-fire script beneath Fort Alderwatch.
@@ -71,7 +71,7 @@ The final result reflects more than the last battle. The expedition's survival a
 
 ## Exact World Egg Placement
 
-[[Alderway Vale]] lies west-northwest of Grenzburg and north of [[The Folk of the Frontier and the Wolfsmere Lineage|Wolfsmere]]. The unfinished corridor points toward Dornwatch and the Brauvalian supply network. It gives Grenzburg a plausible second supply direction without becoming part of the main campaign's mandatory seasonal sequence.
+[[Alderway Vale]] lies west-northwest of Grenzburg and north of [[01 Canon Reference/Peoples and Cultures/Folk/30 Society and Daily Life/The Folk of the Frontier and the Wolfsmere Lineage.md|Wolfsmere]]. The unfinished corridor points toward Dornwatch and the Brauvalian supply network. It gives Grenzburg a plausible second supply direction without becoming part of the main campaign's mandatory seasonal sequence.
 
 The [[Alder-Crossing Clan]] holds local crossing, fishery, refuge, and sanctuary rights. It speaks only for its territory. Its claim to [[Still-Hearth Glen]] is valid, but neither the clan nor the land authorizes the Red Garland's murders.
 
@@ -111,7 +111,7 @@ The module's starting situation is canon. No player-selected route, road complet
 - [[Blood-Briar Guests]]
 - [[Cinder Crown]]
 - [[The Cinder Seed]]
-- [[Ruby Drakes]]
+- [[01 Canon Reference/Creatures/20 Faewild and Menhir/10 Drakes/Ruby Drakes.md|Ruby Drakes]]
 
 ## Controlling Canon
 

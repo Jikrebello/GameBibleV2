@@ -1,12 +1,11 @@
-using System.Net;
-using System.Text.RegularExpressions;
+using AngleSharp.Dom;
 using Ganss.Xss;
 using Markdig.Renderers;
 using Markdig.Renderers.Html;
-using Markdig.Renderers.Html.Inlines;
 using Markdig.Syntax;
 using Markdig.Syntax.Inlines;
-using AngleSharp.Dom;
+using System.Net;
+using System.Text.RegularExpressions;
 
 namespace WorldEgg.Wiki.Core;
 
@@ -41,6 +40,7 @@ public sealed class ArticleRenderer(VaultCatalogue catalogue, LinkResolver links
         public readonly List<RenderIssue> Issues = [];
         private int _embedNumber;
         private int _embedBudget = 30;
+
         public static string E(string? value) => WebUtility.HtmlEncode(value ?? "");
 
         public string Render(WikiDocument source, string fragment, HashSet<string> ancestors, bool embedded)
@@ -119,7 +119,9 @@ public sealed class ArticleRenderer(VaultCatalogue catalogue, LinkResolver links
                 Issues.Add(new("missing-anchor", result.Target));
         }
 
-        private static bool WithinLink(Inline node) { for (var parent = node.Parent; parent is not null; parent = parent.Parent) if (parent is LinkInline) return true; return false; }
+        private static bool WithinLink(Inline node)
+        { for (var parent = node.Parent; parent is not null; parent = parent.Parent) if (parent is LinkInline) return true; return false; }
+
         public string Image(LinkResult result, string alt, string title, bool enlarge = true)
         {
             if (result.Id is not { } id) return Notice("missing", "Image is unavailable or ambiguous: " + result.Target);

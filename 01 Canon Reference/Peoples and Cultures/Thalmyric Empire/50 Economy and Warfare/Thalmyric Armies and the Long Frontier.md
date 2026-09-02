@@ -52,9 +52,9 @@ The present frontier is armed peace, raids, prisoner exchange, truce fairs, espi
 ## Navigation
 
 - [[Thalmyric Military Orders]]
-- [[Church-Military Unity]]
+- [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/20 Faith and Worldview/Church-Military Unity.md|Church-Military Unity]]
 - [[Warlock Rune Magic]]
 - [[Shell Anchors and Extraction]]
 - [[Covenant Siege Golems]]
 - [[Zanthir and the Unfinished Reconquest]]
-- [[The Reconquest and Conflict with the Ahl-e-Ahd Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/70 History and Conflicts/Reconquest and Ahl-e-Ahd Frontier/The Reconquest and Conflict with the Ahl-e-Ahd Overview.md|The Reconquest and Conflict with the Ahl-e-Ahd Overview]]

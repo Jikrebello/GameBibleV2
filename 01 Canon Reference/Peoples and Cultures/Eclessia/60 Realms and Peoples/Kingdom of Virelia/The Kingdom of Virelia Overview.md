@@ -55,6 +55,6 @@ Election intrigue, runaway recovery, forged lineage, river piracy, confessional 
 ## Navigation
 
 - [[Politics, Warfare, and Religious Influence in Virelia]]
-- [[Lives of Virelia]]
-- [[The Making of the Eclessians]]
-- [[Eclessia Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Eclessia/30 Society and Daily Life/Life Paths/Lives of Virelia.md|Lives of Virelia]]
+- [[01 Canon Reference/Peoples and Cultures/Eclessia/10 Foundations/The Making of the Eclessians.md|The Making of the Eclessians]]
+- [[01 Canon Reference/Peoples and Cultures/Eclessia/Eclessia Overview.md|Eclessia Overview]]

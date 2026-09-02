@@ -18,7 +18,7 @@ No single office governs every part of Caleran. Jurisdiction depends on the pers
 
 | Authority | Leader | Governs | Cannot safely claim |
 |---|---|---|---|
-| Patriarchate and Holy Synod | [[The Patriarchate of Veridun|Patriarch Sophron]] | doctrine, clergy, sacraments, relic authentication, consecrated burial | ordinary taxation, civic law, imperial arms |
+| Patriarchate and Holy Synod | [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/20 Faith and Worldview/The Patriarchate of Veridun.md|Patriarch Sophron]] | doctrine, clergy, sacraments, relic authentication, consecrated burial | ordinary taxation, civic law, imperial arms |
 | Imperial Prefecture | [[Helena Kallistrate]] | crown property, security, state archives, fortifications, treason, military antiquities | doctrine, city privileges without hearing |
 | Council of the Old City | [[Theon Vardas]] | streets, markets, civic courts, fire response, district representation | imperial succession, Church discipline |
 | Court of Five Lamps | [[Kyrillos of the Five Lamps]] | relic trials, disputed miracles, sacred custody | automatic ownership of every old object |

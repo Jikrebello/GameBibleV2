@@ -57,7 +57,7 @@ Treaty arbitration, mercenary recruitment, fortress espionage, mixed-confession 
 ## Navigation
 
 - [[Legends, Feuds, and Military History]]
-- [[Lives of Korrheim and Brauvalis]]
+- [[01 Canon Reference/Peoples and Cultures/Eclessia/30 Society and Daily Life/Life Paths/Lives of Korrheim and Brauvalis.md|Lives of Korrheim and Brauvalis]]
 - [[The Korrheim Accord]]
-- [[Eclessia Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Eclessia/Eclessia Overview.md|Eclessia Overview]]
 

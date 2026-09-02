@@ -55,4 +55,4 @@ Old-rite zealots may treat Chapel-Folk as oath-breakers. Eclessian settlers may 
 - [[Folk Daily Life and the Thirteen Moons]]
 - [[Birchcross]]
 - [[The First Writ — Full Adventure]]
-- [[The Consolidation of the Eclessian Church]]
+- [[01 Canon Reference/Peoples and Cultures/Eclessia/20 Faith and Worldview/The Consolidation of the Eclessian Church.md|The Consolidation of the Eclessian Church]]

@@ -50,4 +50,4 @@ Matej's reports establish the fair original inquiry without allowing him to adju
 - [[The Froststep Evacuation]]
 - [[Embers Without Excuse]]
 - [[The Open Hospice]]
-- [[Thalmyric Military Orders]]
+- [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/50 Economy and Warfare/Thalmyric Military Orders.md|Thalmyric Military Orders]]

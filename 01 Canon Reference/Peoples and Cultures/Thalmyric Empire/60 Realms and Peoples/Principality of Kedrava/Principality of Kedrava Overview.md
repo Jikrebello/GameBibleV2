@@ -15,7 +15,7 @@ tags: []
 ---
 # Principality of Kedrava Overview
 
-Kedrava is the southern mountain and western outer-coast principality of Aestrin, the Kedra monastery-port, and Grael Beacon. It preserves the strongest village memory of refuge and resistance. Its colder highlands, pine valleys, peasant militias, agrarian monasteries, and [[The Saltborn Coast Overview|Saltborn maritime rim]] stand apart from the monumental imperial core.
+Kedrava is the southern mountain and western outer-coast principality of Aestrin, the Kedra monastery-port, and Grael Beacon. It preserves the strongest village memory of refuge and resistance. Its colder highlands, pine valleys, peasant militias, agrarian monasteries, and [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/60 Realms and Peoples/The Saltborn Coast Overview.md|Saltborn maritime rim]] stand apart from the monumental imperial core.
 
 ## Historical Formation
 
@@ -43,6 +43,6 @@ Mountain assemblies, refuge tunnels, cold pilgrimages, coastal beacons, village 
 
 ## Navigation
 
-- [[The Refuge and the Rise of Veridun]]
+- [[01 Canon Reference/History/60 Fall and Successor Empires/The Refuge and the Rise of Veridun.md|The Refuge and the Rise of Veridun]]
 - [[Thalmyric Heartland - Cities, Ruins, and the Empty Interior]]
-- [[Thalmyric Empire Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/Thalmyric Empire Overview.md|Thalmyric Empire Overview]]

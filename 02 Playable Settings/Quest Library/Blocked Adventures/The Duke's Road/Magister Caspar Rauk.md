@@ -46,6 +46,6 @@ He may offer to finish the road under his protection. The offer is materially po
 - [[Cinder Crown]]
 - [[The Cinder Seed]]
 - [[The Red Garland]]
-- [[Ruby Drakes]]
+- [[01 Canon Reference/Creatures/20 Faewild and Menhir/10 Drakes/Ruby Drakes.md|Ruby Drakes]]
 - [[Warlock Rune Magic]]
 

@@ -120,7 +120,7 @@ Once unlocked and mastered, Paladin contributes great weapons, heavy armour, int
 
 - [[Bernard Valeon]]
 - [[Bernard Companion Campaign]]
-- [[Thalmyric Military Orders#Order of the Long Watch|Order of the Long Watch]]
+- [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/50 Economy and Warfare/Thalmyric Military Orders.md#Order of the Long Watch|Order of the Long Watch]]
 - [[Bernard Long Watch Greatsword Package]]
 - [[Embers Without Excuse]]
 - [[The Open Hospice]]

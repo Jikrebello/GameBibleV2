@@ -88,7 +88,7 @@ Orsino Vellaro hires [[The Broken Stakes]] to seize the route plate and pays [[T
 ## Controlling Canon
 
 - [[Castaran Long Road]]
-- [[The Free City of Castara Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Sestaran Concord/60 Realms and Peoples/Free City of Castara/The Free City of Castara Overview.md|The Free City of Castara Overview]]
 - [[Ash Horde]]
 - [[Grass-Tarkhan]]
 - [[Warlock Rune Magic]]

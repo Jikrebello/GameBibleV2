@@ -27,7 +27,7 @@ Across the western strait, the [[The Qazmari|Qazmari]] retained highland, fortre
 
 ## Frontier Peoples
 
-The [[The Zanthiri|Zanthiri]] formed after the First Unsealing from Banu Mizan soldiers, local converts, Velians, coastal households, freed people, and merchants. Their identity is neither simply conqueror nor conquered. The [[The Velian States Overview|Velians]] remain an Atherian-descended people with their own Redeemer communion and six centuries of life under mixed rule.
+The [[The Zanthiri|Zanthiri]] formed after the First Unsealing from Banu Mizan soldiers, local converts, Velians, coastal households, freed people, and merchants. Their identity is neither simply conqueror nor conquered. The [[01 Canon Reference/Peoples and Cultures/Velian/60 Realms and Peoples/Velian States/The Velian States Overview.md|Velians]] remain an Atherian-descended people with their own Redeemer communion and six centuries of life under mixed rule.
 
 ## Layered Belonging
 
@@ -35,6 +35,6 @@ A person may be Qahuri by family, Ahl-e-Ahd by faith and law, Qahirid by politic
 
 ## Navigation
 
-- [[The Ahl-e-Ahd Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Ahl-e-Ahd/The Ahl-e-Ahd Overview.md|The Ahl-e-Ahd Overview]]
 - [[Proto-Ahl-e-Ahd Desert Tribes]]
 - [[Historical Spine of the Covenant]]

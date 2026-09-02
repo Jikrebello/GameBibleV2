@@ -21,6 +21,6 @@ Imperial ideologues call them unreliable; Thalmyric militants call them collabor
 
 ## Navigation
 
-- [[Emirate of Zanthir Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Ahl-e-Ahd/60 Realms and Peoples/Emirate of Zanthir/Emirate of Zanthir Overview.md|Emirate of Zanthir Overview]]
 - [[The People of the Lamp]]
 

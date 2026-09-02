@@ -48,5 +48,5 @@ Zanthiri officials want emergency access written into the next charter renewal. 
 ## Navigation
 
 - [[Tower Towns and the Prophet's Roads]]
-- [[Emirate of Zanthir Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Ahl-e-Ahd/60 Realms and Peoples/Emirate of Zanthir/Emirate of Zanthir Overview.md|Emirate of Zanthir Overview]]
 - [[Mesakha Traditions]]

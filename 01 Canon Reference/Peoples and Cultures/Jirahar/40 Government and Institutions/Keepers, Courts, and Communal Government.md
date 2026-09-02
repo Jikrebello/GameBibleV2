@@ -39,6 +39,6 @@ There is no universal supreme court. Difficult rulings circulate as She'eltha am
 
 ## Navigation
 
-- [[Social and Political Structure]]
+- [[01 Canon Reference/Peoples and Cultures/Jirahar/30 Society and Daily Life/Social and Political Structure.md|Social and Political Structure]]
 - [[Jirahar Law, Descent, and Conversion]]
 - [[Prophet's Roads and the Underways]]

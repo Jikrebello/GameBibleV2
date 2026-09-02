@@ -47,6 +47,6 @@ Al-Ahdiya contains sincere worshippers, honest judges, charity, sanctuary, and r
 
 ## Navigation
 
-- [[The Ahl-e-Ahd Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Ahl-e-Ahd/The Ahl-e-Ahd Overview.md|The Ahl-e-Ahd Overview]]
 - [[The Disputed Fourth Seal]]
 - [[The People of the Lamp]]

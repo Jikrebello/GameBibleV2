@@ -46,7 +46,7 @@ Character appearance should arise from family, region, class, labor, diet, age, 
 ## Navigation
 
 - [[Cultures MOC]]
-- [[The Making of the Eclessians]]
+- [[01 Canon Reference/Peoples and Cultures/Eclessia/10 Foundations/The Making of the Eclessians.md|The Making of the Eclessians]]
 - [[The Making of the Folk]]
 - [[The Making of the Covenant Peoples]]
 - [[The Making of the Thalmyrics]]

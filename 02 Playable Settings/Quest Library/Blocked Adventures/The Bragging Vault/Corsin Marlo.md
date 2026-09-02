@@ -30,7 +30,7 @@ He does not care whether the arms are recovered. He cares who recovers them, and
 
 ## The Thing He Underpriced
 
-To build cheaply, Marlo took a development loan from the [[The Pale Hand]] secured against the vent — and the standard sub-floor clause grants the lender title to anyone who dies below the mortgaged level. Teams have run the gauntlet and not come out. Their bodies did not vanish; under-factor [[Odalie Vench]] raised them into the vault's own guards. Marlo's audition is now staffed by its failed applicants, and he is behind on the loan.
+To build cheaply, Marlo took a development loan from the [[01 Canon Reference/Peoples and Cultures/Sestaran Concord/60 Realms and Peoples/Citadel of Vorthara/The Pale Hand.md|The Pale Hand]] secured against the vent — and the standard sub-floor clause grants the lender title to anyone who dies below the mortgaged level. Teams have run the gauntlet and not come out. Their bodies did not vanish; under-factor [[Odalie Vench]] raised them into the vault's own guards. Marlo's audition is now staffed by its failed applicants, and he is behind on the loan.
 
 He tells himself the harvest is Vench's business and the deaths are the risk anyone accepts by entering. He knows better, and the moment Vench files her claim in front of his patrons, everyone will know he knew.
 
@@ -65,4 +65,4 @@ Marlo can become a rising rival impresario, a scandal-survivor rebuilding smalle
 - [[Odalie Vench]]
 - [[The Ashplume Vault]]
 - [[The Trophy-Arms]]
-- [[The Pale Hand]]
+- [[01 Canon Reference/Peoples and Cultures/Sestaran Concord/60 Realms and Peoples/Citadel of Vorthara/The Pale Hand.md|The Pale Hand]]

@@ -480,6 +480,6 @@ A player character or Marta accepts control of the annex. Workers can leave and 
 - [[Mnemonic Lichen]]
 - [[The Lost Civilization of Nythalum]]
 - [[The Weird of History — The Unexplained Register]]
-- [[Lives of Castara]]
-- [[The Free City of Castara Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Sestaran Concord/30 Society and Daily Life/Life Paths/Lives of Castara.md|Lives of Castara]]
+- [[01 Canon Reference/Peoples and Cultures/Sestaran Concord/60 Realms and Peoples/Free City of Castara/The Free City of Castara Overview.md|The Free City of Castara Overview]]
 - [[Quest Tier Doctrine]]

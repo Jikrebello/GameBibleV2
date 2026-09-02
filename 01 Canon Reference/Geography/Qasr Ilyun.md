@@ -53,5 +53,5 @@ Glass scouts sometimes call an unnamed eastern ruin **the Hollow City**, while J
 - [[Gazetteer of the Known World]]
 - [[Al-Qahur and the Sacred Basin]]
 - [[The Qahuri]]
-- [[The Jirahar Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Jirahar/The Jirahar Overview.md|The Jirahar Overview]]
 - [[Great Glass Desert]]

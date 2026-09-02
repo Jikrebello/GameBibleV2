@@ -27,7 +27,7 @@ related_magic: [Menhir law, place pacts]
 
 Oathwood Wardens form where a witnessed promise, a violent breach, and a Faewild-thin landscape remain pressed together for years. Roots and worked timber grow around a human persona echo until the land can physically repeat the compact's last demand. The witness's human soul has ordinarily routed onward; resemblance is not survival.
 
-They are not incarnations of a Menhir and not proof that every Folk account is correct. They are territorial memory made animate under [[Sylvorn|Sylvorn's land-law]]. A Warden may preserve accurate evidence of an old claim while enforcing it without mercy, proportion, or understanding of changed circumstances. Human judgement must decide whether the claim was just; the Warden cannot.
+They are not incarnations of a Menhir and not proof that every Folk account is correct. They are territorial memory made animate under [[01 Canon Reference/Cosmology/30 Menhir/20 Third Circle/Sylvorn.md|Sylvorn's land-law]]. A Warden may preserve accurate evidence of an old claim while enforcing it without mercy, proportion, or understanding of changed circumstances. Human judgement must decide whether the claim was just; the Warden cannot.
 
 ## Formation
 
@@ -100,6 +100,6 @@ Oathwood Warden, witness tree, root bailiff, promise grove, board saint, compact
 
 - [[Bestiary MOC]]
 - [[Into the Old Wood — Full Adventure]]
-- [[Sylvorn]]
+- [[01 Canon Reference/Cosmology/30 Menhir/20 Third Circle/Sylvorn.md|Sylvorn]]
 - [[Thin Spaces]]
-- [[Folk Daily Life and the Thirteen Moons]]
+- [[01 Canon Reference/Peoples and Cultures/Folk/30 Society and Daily Life/Folk Daily Life and the Thirteen Moons.md|Folk Daily Life and the Thirteen Moons]]

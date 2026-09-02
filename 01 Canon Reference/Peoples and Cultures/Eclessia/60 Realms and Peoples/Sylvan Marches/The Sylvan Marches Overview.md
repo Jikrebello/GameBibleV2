@@ -57,8 +57,8 @@ Missing settlements, winter convoys, disputed land, Grobi diplomacy, drake hunts
 
 - [[Legends, Ruins, and Conflicts]]
 - [[Relics, Forbidden Knowledge, and Hidden Horrors]]
-- [[Lives of Caldria and the Sylvan Marches]]
+- [[01 Canon Reference/Peoples and Cultures/Eclessia/30 Society and Daily Life/Life Paths/Lives of Caldria and the Sylvan Marches.md|Lives of Caldria and the Sylvan Marches]]
 - [[Southern Cold Belt and Grobi Frontier]]
 - [[Green March Kindreds]]
 - [[Chapel-Folk]]
-- [[Eclessia Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Eclessia/Eclessia Overview.md|Eclessia Overview]]

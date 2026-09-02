@@ -143,7 +143,7 @@ The scene records `elara_without_powder_scene`.
 
 ## Winter Transformation
 
-If Act I resolved autonomously, Elara remains willing to race after [[Elara Companion Campaign#The Scarred Mounds|The Scarred Mounds]] or once winter city access stabilizes. The course uses swept snow, frozen gutters, and interior galleries. The conversation acknowledges what happened without turning the race into punishment.
+If Act I resolved autonomously, Elara remains willing to race after [[02 Playable Settings/Grenzburg/50 Campaign/Companions/CMP-01 Elara Velescar/Elara Companion Campaign.md#^scarred-mounds-reentry|The Scarred Mounds]] or once winter city access stabilizes. The course uses swept snow, frozen gutters, and interior galleries. The conversation acknowledges what happened without turning the race into punishment.
 
 ## Rewards
 

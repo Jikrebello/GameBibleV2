@@ -37,6 +37,6 @@ The capture of Virelos gave the rebellion a defensible assembly and coronation c
 ## Navigation
 
 - [[The Invasion and the Fall]]
-- [[The Battle of Caelmount]]
+- [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/70 History and Conflicts/The Battle of Caelmount.md|The Battle of Caelmount]]
 - [[The Coronation at Virelos]]
 - [[The Long Reconquest (908-1052 AR)]]

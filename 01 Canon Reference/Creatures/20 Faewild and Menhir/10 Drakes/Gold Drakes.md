@@ -25,7 +25,7 @@ related_magic: [Menhir law]
 ---
 # Gold Drakes
 
-Gold drakes are the sun-cliff lineage associated with [[Father Sun]], heat shimmer, exposure, ordered glare, and hoarded reflective metal. Their scales resemble sacred gold, but the resemblance is court livery rather than holiness. A gold drake may be beautiful, ecologically important, dangerous, or—in the rare elder case—morally accountable without becoming a divine messenger.
+Gold drakes are the sun-cliff lineage associated with [[01 Canon Reference/Cosmology/30 Menhir/10 Second Circle/Father Sun.md|Father Sun]], heat shimmer, exposure, ordered glare, and hoarded reflective metal. Their scales resemble sacred gold, but the resemblance is court livery rather than holiness. A gold drake may be beautiful, ecologically important, dangerous, or—in the rare elder case—morally accountable without becoming a divine messenger.
 
 ## Range and Signs
 
@@ -129,5 +129,5 @@ Gold drake, sun-cliff hunter, noon-back, gilt jaw, mirror hoarder, and bright co
 - [[Drakes Overview]]
 - [[Sovarath-of-the-Open-Noon]]
 - [[Giltlings]]
-- [[Father Sun]]
+- [[01 Canon Reference/Cosmology/30 Menhir/10 Second Circle/Father Sun.md|Father Sun]]
 - [[The Drake's Demand — Full Adventure]]

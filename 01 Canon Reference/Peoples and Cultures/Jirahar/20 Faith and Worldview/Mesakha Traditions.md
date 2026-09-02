@@ -38,5 +38,5 @@ Meshalem the Twice-Turned proclaimed himself in 1288 AR. Communities sold proper
 ## Navigation
 
 - [[Qiryath Reqa]]
-- [[The Jirahar and the Future]]
+- [[01 Canon Reference/Peoples and Cultures/Jirahar/10 Foundations/The Jirahar and the Future.md|The Jirahar and the Future]]
 - [[Named Figures of the Known World]]

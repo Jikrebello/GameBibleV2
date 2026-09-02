@@ -25,5 +25,5 @@ Folk and Ättar regularly cooperate against major movements while feuding over p
 
 ## Navigation
 
-- [[Ättar Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Ättar/Ättar Overview.md|Ättar Overview]]
 - [[Grey-Wolf Range]]

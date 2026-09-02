@@ -24,7 +24,7 @@ The house never became rich. It buried strangers, road dead, mine laborers, plag
 
 ## Grey Sweat Galleries
 
-During [[The Grey Sweat]], the abbey received hundreds of dead from Wanenbruck and surrounding hamlets. New wall niches and communal galleries were cut quickly but recorded carefully. Known names were pressed into clay tablets. Fifty-three unidentified dead were represented by blank plaques and commended together rather than treated as unowned.
+During [[01 Canon Reference/History/70 Later History and Present Day/The Grey Sweat.md|The Grey Sweat]], the abbey received hundreds of dead from Wanenbruck and surrounding hamlets. New wall niches and communal galleries were cut quickly but recorded carefully. Known names were pressed into clay tablets. Fifty-three unidentified dead were represented by blank plaques and commended together rather than treated as unowned.
 
 The plague overwhelmed the house. Later debts, the Reformation, and declining numbers ended its independent office. The abbey was formally dissolved, but burial custody passed to Wanenbruck's sextons. Its ground never became ordinary leasehold.
 

@@ -59,4 +59,4 @@ Abandoned aqueduct branches, war taxation, veteran land demands, Medori debt, re
 - [[Thalmyric Heartland - Cities, Ruins, and the Empty Interior]]
 - [[The Layers Beneath Thalmyria]]
 - [[Thalmyric Armies and the Long Frontier]]
-- [[Structure of the Empire Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/40 Government and Institutions/Structure of the Empire Overview.md|Structure of the Empire Overview]]

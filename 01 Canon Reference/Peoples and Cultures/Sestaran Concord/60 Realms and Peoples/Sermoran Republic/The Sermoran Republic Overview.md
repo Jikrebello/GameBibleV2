@@ -42,7 +42,7 @@ Castaran routes threaten old trade, Ättar raiding blurs into licensed service, 
 
 ## Navigation
 
-- [[Lives of Sermora]]
+- [[01 Canon Reference/Peoples and Cultures/Sestaran Concord/30 Society and Daily Life/Life Paths/Lives of Sermora.md|Lives of Sermora]]
 - [[Harmonic Shellcraft]]
 - [[The Salt-Reed Company]]
 - [[Sestara and the Wider World]]

@@ -37,11 +37,15 @@ This rule matters for every map and timeline:
 
 - do not default to northern-hemisphere climate assumptions;
 - southern campaigns must account for winter roads, frozen rivers, stores, and short campaigning seasons;
-- the [[The Folk Overview|Folk]] and [[Ättar Overview|Ättar]] are southern cold-frontier peoples, shaped by forests, frost, permafrost, clan law, Menhir pacts, and Grobi pressure;
+- the [[The Folk Overview|Folk]] and [[01 Canon Reference/Peoples and Cultures/Ättar/Ättar Overview.md|Ättar]] are southern cold-frontier peoples, shaped by forests, frost, permafrost, clan law, Menhir pacts, and Grobi pressure;
 - the [[Grobi Overview|Grobi]] frontier belongs strongly to the deep south: winter migration, forest war, frozen passes, hunger, raids, and survival corridors;
 - Grenzburg and other frontier regions should make cold, debt, land claims, Grobi movement, and metaphysical ruins collide physically on the map.
 
 Use [[Southern Cold Belt and Grobi Frontier]] as the governing note for this climate logic.
+
+## Tidewood's Local Shore
+
+[[Brackenmouth]], [[Rookstrand]] and [[Keldscar and Gannet Head|Keldscar]] are one connected harbour neighbourhood within the existing Tidewood Coast. Their local river mouth, hauling beach and exposed headland give the [[History of the Tidewood Coast|regional history]] physical homes without redrawing the F4 region. Their exact coordinates and travel distances are not fixed; a storm can interrupt the short coastal journeys between them.
 
 ## Required Map Layers
 

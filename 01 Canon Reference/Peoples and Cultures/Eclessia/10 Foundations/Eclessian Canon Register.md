@@ -19,7 +19,7 @@ This is the creator-facing control sheet for Eclessia. When active notes disagre
 
 ## Fixed Historical Chain
 
-The Fall of Caleran (905) creates the eastern emergency; the Third Crusade (906-908) stops the advance at Caldria; Adalmar unites the eastern kingdoms (975-1019); the Great Split (1015) makes their western Christian inheritance institutionally separate from Thalmyria; Drossfeld (1049) creates the successor lines; the Choosing (1061) binds Virelia to the Sanctum; the Crown of Embers enters Church trust (1104); [[The Grey Sweat]] (1232-1247) transforms labor, law, and religious confidence; [[Freeflame Reformation]] (1297 onward) breaks the Church monopoly; and [[The Korrheim Accord]] (1343) freezes territorial confession without granting individual liberty.
+The Fall of Caleran (905) creates the eastern emergency; the Third Crusade (906-908) stops the advance at Caldria; Adalmar unites the eastern kingdoms (975-1019); the Great Split (1015) makes their western Christian inheritance institutionally separate from Thalmyria; Drossfeld (1049) creates the successor lines; the Choosing (1061) binds Virelia to the Sanctum; the Crown of Embers enters Church trust (1104); [[01 Canon Reference/History/70 Later History and Present Day/The Grey Sweat.md|The Grey Sweat]] (1232-1247) transforms labor, law, and religious confidence; [[Freeflame Reformation]] (1297 onward) breaks the Church monopoly; and [[The Korrheim Accord]] (1343) freezes territorial confession without granting individual liberty.
 
 ## Regional Control Matrix
 
@@ -44,7 +44,7 @@ Eclessia lies east of Thalmyria. Its Western-Christian cultural inheritance is n
 
 ## Navigation
 
-- [[Eclessia Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Eclessia/Eclessia Overview.md|Eclessia Overview]]
 - [[The Grey Sweat - Authorial Truth]]
 - [[Named Figures of the Known World]]
 - [[Real-History Concordance]]

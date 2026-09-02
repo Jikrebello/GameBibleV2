@@ -44,5 +44,5 @@ Present conflicts include foreign pressure, citizen exclusion, water sabotage, s
 
 - [[Lives of Orsena]]
 - [[Sestara and the Wider World]]
-- [[The Citadel of Vorthara Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Sestaran Concord/60 Realms and Peoples/Citadel of Vorthara/The Citadel of Vorthara Overview.md|The Citadel of Vorthara Overview]]
 

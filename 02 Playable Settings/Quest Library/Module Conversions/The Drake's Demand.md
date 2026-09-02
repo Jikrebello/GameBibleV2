@@ -62,7 +62,7 @@ The heroes ultimately enter the lair and confront the green dragon impersonating
 
 ## Exact World Egg Placement
 
-Hellerbruck lies on the River Weiss in central [[The Duchy of Brauvalis Overview|Brauvalis]], away from eastern [[Wanemoor District]]. Its confessional compromise, guild economy, river traffic, brewing, ceramics, quarrying, and bell-founding make the demanded objects part of ordinary public life rather than interchangeable fantasy treasure.
+Hellerbruck lies on the River Weiss in central [[01 Canon Reference/Peoples and Cultures/Eclessia/60 Realms and Peoples/Duchy of Brauvalis/The Duchy of Brauvalis Overview.md|Brauvalis]], away from eastern [[Wanemoor District]]. Its confessional compromise, guild economy, river traffic, brewing, ceramics, quarrying, and bell-founding make the demanded objects part of ordinary public life rather than interchangeable fantasy treasure.
 
 The town occupies an old gold-drake nesting court. Sabine wounded Sovarath in 1117 AR and found it apparently dead beneath a cave fall. Sovarath recovered in distant sun-cliffs. Centuries of heart-gem memory eventually produced the rare elder threshold: language, self-awareness, and moral responsibility without transforming it into a true dragon or patron.
 
@@ -81,10 +81,10 @@ The controlling implementation is [[The Drake's Demand — Full Adventure]].
 ## Controlling Canon
 
 - [[Eclessian Canon Register]]
-- [[The Duchy of Brauvalis Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Eclessia/60 Realms and Peoples/Duchy of Brauvalis/The Duchy of Brauvalis Overview.md|The Duchy of Brauvalis Overview]]
 - [[Drakes Overview]]
-- [[Gold Drakes]]
-- [[Father Sun]]
+- [[01 Canon Reference/Creatures/20 Faewild and Menhir/10 Drakes/Gold Drakes.md|Gold Drakes]]
+- [[01 Canon Reference/Cosmology/30 Menhir/10 Second Circle/Father Sun.md|Father Sun]]
 - [[The Meridian Mirror]]
 - [[Giltlings]]
 

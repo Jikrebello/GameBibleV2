@@ -33,5 +33,5 @@ Skalds preserve genealogy, compensation judgements, voyages, insults, and losses
 
 ## Navigation
 
-- [[Ättar Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Ättar/Ättar Overview.md|Ättar Overview]]
 - [[Raiding, Slavery, and Manumission]]

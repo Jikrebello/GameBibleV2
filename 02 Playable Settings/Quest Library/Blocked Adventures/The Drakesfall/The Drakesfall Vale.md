@@ -35,8 +35,8 @@ The vale floor is the bone-field: centuries of drake-dead settling their law int
 
 ## Notable Features
 
-- **The Great Gold Drake:** a generations-old [[Gold Drakes|gold drake]] that came to the vale to die and was cracked open fresh by the concession; its half-harvested heart is the richest prize and the worst hazard, and the keystone of any quieting.
-- **The Silver Grave:** a century-dead [[Silver Drakes|silver drake]] whose moon-law now bleeds up into the nights, the source of the unnatural moonlight and wandering-sleep down the passes.
+- **The Great Gold Drake:** a generations-old [[01 Canon Reference/Creatures/20 Faewild and Menhir/10 Drakes/Gold Drakes.md|gold drake]] that came to the vale to die and was cracked open fresh by the concession; its half-harvested heart is the richest prize and the worst hazard, and the keystone of any quieting.
+- **The Silver Grave:** a century-dead [[01 Canon Reference/Creatures/20 Faewild and Menhir/10 Drakes/Silver Drakes.md|silver drake]] whose moon-law now bleeds up into the nights, the source of the unnatural moonlight and wandering-sleep down the passes.
 - **The Chapel-Cave:** where the Skete keeps its greater keeping-offices; broken open in the sack, and the place the field must be quieted from.
 - **The Warden Road:** the single road up the passes from Kalzaret, along which the wardens died and the wagons came.
 

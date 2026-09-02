@@ -24,7 +24,7 @@ tags: [module-conversion, game-ready]
 
 **Middle:** The party operates freely across [[Alderway Vale]]: rescuing workers, repairing the camp's own failures, clearing ordinary dangers, finding stone and timber, dealing with bandits, meeting the Alder-Crossing moot, and deciding which road line receives the company's finite labor. Each success improves progress, the fort, local standing, or the resources available for a harder route.
 
-**Turn:** Rune-collared [[Ruby Drakes]] attack Fort Alderwatch. Their collar plates, signal bearings, and a captured Garland token reveal that rogue siege-warlock [[Magister Caspar Rauk]] has been using the vale as a proving ground. He activates [[The Cinder Seed]] beneath the fort and retreats to [[Cinder Crown]].
+**Turn:** Rune-collared [[01 Canon Reference/Creatures/20 Faewild and Menhir/10 Drakes/Ruby Drakes.md|Ruby Drakes]] attack Fort Alderwatch. Their collar plates, signal bearings, and a captured Garland token reveal that rogue siege-warlock [[Magister Caspar Rauk]] has been using the vale as a proving ground. He activates [[The Cinder Seed]] beneath the fort and retreats to [[Cinder Crown]].
 
 **End:** The party crosses the northern mountain approaches, breaches Rauk's redoubt, and stops or survives the Seed. The road that emerges depends on what was built, whose help was earned, and what remains after the assault. No ending is the authorial continuation.
 
@@ -485,6 +485,6 @@ No ending is canonical. Rauk may be dead, imprisoned, fugitive, or briefly recog
 - [[Blood-Briar Guests]]
 - [[Cinder Crown]]
 - [[The Cinder Seed]]
-- [[Ruby Drakes]]
+- [[01 Canon Reference/Creatures/20 Faewild and Menhir/10 Drakes/Ruby Drakes.md|Ruby Drakes]]
 - [[Grenzburg MOC]]
 - [[Quest Tier Doctrine]]

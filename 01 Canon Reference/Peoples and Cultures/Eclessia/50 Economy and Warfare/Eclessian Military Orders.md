@@ -47,7 +47,7 @@ Recognized Freeflame realms do not admit an armed clerical order merely because 
 
 ## Navigation
 
-- [[Eclessian Church Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Eclessia/20 Faith and Worldview/Eclessian Church Overview.md|Eclessian Church Overview]]
 - [[Military and Warfare Overview]]
-- [[Knightly Orders & Power Struggles]]
+- [[01 Canon Reference/Peoples and Cultures/Eclessia/60 Realms and Peoples/Duchy of Caldria/Knightly Orders & Power Struggles.md|Knightly Orders & Power Struggles]]
 - [[Freeflame Reformation]]

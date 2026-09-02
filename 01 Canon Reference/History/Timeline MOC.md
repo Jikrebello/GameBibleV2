@@ -36,8 +36,8 @@ tags: []
 - [[The Atherian Empire – Age of Glory]]
 - [[The Age of the Redeemer]]
 - [[The Conversion of the Empire]]
-- [[The Founding of the Thalmyric Empire]]
-- [[Prelude to Collapse]]
+- [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/70 History and Conflicts/The Founding of the Thalmyric Empire.md|The Founding of the Thalmyric Empire]]
+- [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/70 History and Conflicts/Prelude to Collapse.md|Prelude to Collapse]]
 
 ## Cosmic Prehistory
 
@@ -79,15 +79,15 @@ tags: []
 - [[The Rise of the Redeemer]]
 - [[Present-Day Political Board]]
 - [[Present-Day Courts and Crowns (1360 AR)]]
-- [[The Grey Sweat]]
+- [[01 Canon Reference/History/70 Later History and Present Day/The Grey Sweat.md|The Grey Sweat]]
 - [[The Korrheim Accord]]
 - [[Freeflame Reformation]]
 
 ## Fall and Restoration Events
 
-- [[The Invasion and the Fall]]
-- [[The Founding Flame]]
-- [[The Coronation at Virelos]]
-- [[The War of the Burning Banners]]
-- [[The Refuge and the Rise of Veridun]]
-- [[The Reclamation of Caleran]]
+- [[01 Canon Reference/History/60 Fall and Successor Empires/The Invasion and the Fall.md|The Invasion and the Fall]]
+- [[01 Canon Reference/History/60 Fall and Successor Empires/The Founding Flame.md|The Founding Flame]]
+- [[01 Canon Reference/History/60 Fall and Successor Empires/The Coronation at Virelos.md|The Coronation at Virelos]]
+- [[01 Canon Reference/History/60 Fall and Successor Empires/The War of the Burning Banners.md|The War of the Burning Banners]]
+- [[01 Canon Reference/History/60 Fall and Successor Empires/The Refuge and the Rise of Veridun.md|The Refuge and the Rise of Veridun]]
+- [[01 Canon Reference/History/60 Fall and Successor Empires/The Reclamation of Caleran.md|The Reclamation of Caleran]]

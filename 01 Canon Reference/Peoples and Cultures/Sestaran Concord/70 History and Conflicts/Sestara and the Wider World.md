@@ -39,7 +39,7 @@ Both empires borrow money, buy arms, hire ships, contest church jurisdiction, an
 
 ## Navigation
 
-- [[The Sestaran Concord Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Sestaran Concord/The Sestaran Concord Overview.md|The Sestaran Concord Overview]]
 - [[The Seven-Seal Defensive Muster]]
 - [[The Tarkhan Tribes Overview]]
-- [[Tower Towns and the Prophet's Roads]]
+- [[01 Canon Reference/Peoples and Cultures/Jirahar/60 Realms and Peoples/Tower Towns and the Prophet's Roads.md|Tower Towns and the Prophet's Roads]]

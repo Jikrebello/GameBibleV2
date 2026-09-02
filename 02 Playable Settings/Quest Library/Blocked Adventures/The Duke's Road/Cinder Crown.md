@@ -38,6 +38,6 @@ The redoubt is a machine as much as a dungeon. Cooling the cistern, freeing drak
 - [[The Duke's Road — Full Adventure]]
 - [[Magister Caspar Rauk]]
 - [[The Cinder Seed]]
-- [[Ruby Drakes]]
+- [[01 Canon Reference/Creatures/20 Faewild and Menhir/10 Drakes/Ruby Drakes.md|Ruby Drakes]]
 - [[Alderway Vale]]
 

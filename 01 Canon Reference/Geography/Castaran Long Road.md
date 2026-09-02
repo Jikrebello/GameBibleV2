@@ -52,8 +52,8 @@ Cavora illustrates the road's limits. Its civic officers govern inside the bound
 ## Navigation
 
 - [[Ash Horde]]
-- [[The Free City of Castara Overview|The Free City of Castara]]
+- [[01 Canon Reference/Peoples and Cultures/Sestaran Concord/60 Realms and Peoples/Free City of Castara/The Free City of Castara Overview.md|The Free City of Castara]]
 - [[The Free City of Vardessa]]
-- [[The Principality of Aversia Overview|The Principality of Aversia]]
+- [[01 Canon Reference/Peoples and Cultures/Sestaran Concord/60 Realms and Peoples/Principality of Aversia/The Principality of Aversia Overview.md|The Principality of Aversia]]
 - [[Cavora]]
 - [[The Echo Seam — Full Adventure]]

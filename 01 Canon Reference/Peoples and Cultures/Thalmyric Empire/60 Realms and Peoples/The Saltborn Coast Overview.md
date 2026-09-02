@@ -62,10 +62,10 @@ Saltborn crews are central to Kedrava's coast defence and serve throughout the i
 
 ## Navigation
 
-- [[Ättar Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Ättar/Ättar Overview.md|Ättar Overview]]
 - [[Principality of Kedrava Overview]]
-- [[Thalmyric Empire Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/Thalmyric Empire Overview.md|Thalmyric Empire Overview]]
 - [[Gazetteer of the Known World]]
-- [[Saints and Relics]]
+- [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/20 Faith and Worldview/Saints and Relics.md|Saints and Relics]]
 - [[Celion Light Station]]
 - [[The Celion Light — Full Adventure]]

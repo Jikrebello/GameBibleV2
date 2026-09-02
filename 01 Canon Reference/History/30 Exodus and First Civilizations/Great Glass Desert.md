@@ -31,8 +31,8 @@ The passage and long occupations impress real threshold corridors and anchor cam
 
 ## Cultural Memory
 
-- [[The Jirahar Overview]] remember routes, commandments, camps, and the Prophet's failure or martyrdom.
-- [[The Ahl-e-Ahd Overview]] remember water, oath, hospitality, provision, and covenant.
+- [[01 Canon Reference/Peoples and Cultures/Jirahar/The Jirahar Overview.md|The Jirahar Overview]] remember routes, commandments, camps, and the Prophet's failure or martyrdom.
+- [[01 Canon Reference/Peoples and Cultures/Ahl-e-Ahd/The Ahl-e-Ahd Overview.md|The Ahl-e-Ahd Overview]] remember water, oath, hospitality, provision, and covenant.
 - [[The Atherian Empire Overview]] later turns the crossing into heroic civic myth more than binding law.
 - Folk, Ättar, Tarkhan and Nsizwa traditions principally remember the orphaned Giant world; any Glass material reaches them through later contact, adoption or mixed descent.
 
