@@ -24,6 +24,9 @@ tags:
 ---
 # Historical Seed Garden — Coherence and Balance Review
 
+> [!info] Atlas integration
+> Current canonical destination: [[World Historical Atlas - Integration and Coverage Ledger]]. This dossier retains its research history; former holds and promotion gates are superseded only where the [[World Historical Atlas - Integration and Coverage Ledger]] records an explicit outcome. Preliminary or rejected variants do not override their corrected descendants.
+
 > [!warning] Review scope
 > This is an author-only audit of the fifty-five roots already planted in [[The Historical Seed Garden]] before the first early-history harvest. It does not make a root canonical, remove a root, promote a complete person or institution, amend chronology or resolve a protected Weird.
 

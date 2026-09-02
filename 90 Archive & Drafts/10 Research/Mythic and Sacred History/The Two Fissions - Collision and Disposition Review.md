@@ -38,6 +38,9 @@ tags:
 ---
 # The Two Fissions — Collision and Disposition Review
 
+> [!info] Atlas integration
+> Current canonical destination: [[Peoples in the World Historical Atlas]]. This dossier retains its research history; former holds and promotion gates are superseded only where the [[World Historical Atlas - Integration and Coverage Ledger]] records an explicit outcome. Preliminary or rejected variants do not override their corrected descendants.
+
 > [!warning] Review scope
 > This review tests [[The Two Fissions and the Atherian Long Formation]], [[Scattering Ethnogenesis and Inheritance Matrix]], and all twelve hooks in [[The Two Fissions - Twelve Nursery Hooks]]. It incorporates corrections and records dispositions. It does not amend chronology, revise a Canon Reference note, add a Garden bed, name a founder, or promote any event.
 

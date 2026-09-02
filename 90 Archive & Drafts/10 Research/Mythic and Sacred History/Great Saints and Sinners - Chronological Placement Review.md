@@ -34,6 +34,9 @@ tags:
 ---
 # Great Saints and Sinners — Chronological Placement Review
 
+> [!info] Atlas integration
+> Current canonical destination: [[Great Saints and Sinners - Lives and Afterlives]]. This dossier retains its research history; former holds and promotion gates are superseded only where the [[World Historical Atlas - Integration and Coverage Ledger]] records an explicit outcome. Preliminary or rejected variants do not override their corrected descendants.
+
 ## Review Scope
 
 This ledger reviews the fourteen visible placements and two erased-person mysteries in [[Great Saints and Sinners - Historical Placement and Relationship Matrix]]. Review proceeds earth-first. A mortal life must possess a coherent cause, decision, cost and historical residue before its later Saintly commission or Sinner project is admitted.

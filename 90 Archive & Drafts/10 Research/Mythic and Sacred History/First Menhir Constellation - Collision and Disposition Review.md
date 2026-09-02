@@ -33,6 +33,9 @@ tags:
 ---
 # First Menhir Constellation — Collision and Disposition Review
 
+> [!info] Atlas integration
+> Current canonical destination: [[Menhir Courts through the Ages]]. This dossier retains its research history; former holds and promotion gates are superseded only where the [[World Historical Atlas - Integration and Coverage Ledger]] records an explicit outcome. Preliminary or rejected variants do not override their corrected descendants.
+
 ## Purpose and Result
 
 This ledger reviews the six provisional histories in [[First Menhir Constellation - Historical Placement Matrix]] against their source nurseries, neighboring historical roots, existing courts, cultural histories and metaphysical boundaries.

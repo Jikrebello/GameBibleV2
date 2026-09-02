@@ -26,6 +26,9 @@ tags:
 ---
 # Orthodox Old Testament Lens
 
+> [!info] Atlas integration
+> Current canonical destination: [[Additional Mortal Lives and Frontier Traditions]]. This dossier retains its research history; former holds and promotion gates are superseded only where the [[World Historical Atlas - Integration and Coverage Ledger]] records an explicit outcome. Preliminary or rejected variants do not override their corrected descendants.
+
 ## Status and Purpose
 
 This is an author-only exploratory lens, not a second sacred history and not a catalogue of events already true in the World Egg.

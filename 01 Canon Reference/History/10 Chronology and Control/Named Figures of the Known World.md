@@ -73,7 +73,7 @@ The people behind the [[Chronology of the Known World (AR Dating)]]. Each entry 
 
 **Ioan of Velia, "the Lamplit"** (c. 950–1024 AR) — The great defender of the vessels, writing safely from Banu Mizan territory where the emperor's writ could not reach — a Thalmyric monk under Covenant protection, which everyone found embarrassing. His *Three Orations on the Housed Fire* argue the position that eventually won: the Flame is uncreated, but *consents* to dwell in what sanctity prepares — "the Redeemer had a body; the Fire may have a lamp."
 
-**Empress-Regent Anthe** (regency 1011–1019 AR) — Restored the lamps at the **Council of the Thousand Lamps** (1013) on behalf of the child emperor Leovar IV. It was during her regency, with a "lamp-breaking heretic's widow ruling for an infant," that the Eclessian Primarchy found its excuse to crown Adalmar — making her regency the hinge of the Two Emperors problem.
+**Empress-Regent Anthe** (regency 1011–1019 AR) — Restored the lamps at the **Council of the Thousand Lamps** (1013) on behalf of the child emperor Leovar IV. Later Eclessian apologetics backdated her regency into their justification for Adalmar's coronation in 1002. She actually governed in 1011–1019; the earlier coronation and this later regency are distinct events.
 
 **Empress Theodosia the Kindler** (r. 1049–1071 AR) — Ended the **Second Breaking** (1029–1052) and instituted the **Feast of the Rekindling** (1052), still Thalmyria's greatest liturgical day: every lamp in the empire lit from one flame carried on foot from Caleran.
 
@@ -85,7 +85,7 @@ The people behind the [[Chronology of the Known World (AR Dating)]]. Each entry 
 
 ## Eclessia
 
-**Adalmar the Great** (r. 975–1019 AR; crowned Emperor of the Atherians 1002) — King of the eastern marches who united the post-fall kingdoms by marriage, law, and thirty years of war. His **Folk Wars** (982–1008) forcibly converted the southern borderlands; at the **Drowning at Wolfsmere** (993) he had four thousand captive oath-keepers and clan-seers drowned in their own sacred lake for relapsing. (Authorial note: a mass soul-route atrocity at a sacred site — Wolfsmere should be a standing leftward thin space, "the Lake That Remembers," and a live Grenzburg-adjacent hook. The Folk have not forgotten in 350 years.) In 1002, with Veridun ruled by "a lamp-breaker's widow and her infant," **Lord Primarch Silvane II** crowned him Emperor of the Atherians in the Sanctum Divinitatis. He accepted the crown — the chronicle's famous line, that he *"knelt surprised,"* is believed by no historian in or out of world. Eclessia's greatest hero and its deepest sin, in one man.
+**Adalmar the Great** (r. 975–1019 AR; crowned Emperor of the Atherians 1002) — King of the eastern marches who united the post-fall kingdoms by marriage, law, and thirty years of war. His **Folk Wars** (982–1008) forcibly converted the southern borderlands; at the **Drowning at Wolfsmere** (993) he had four thousand captive oath-keepers and clan-seers drowned in their own sacred lake for relapsing. (Authorial note: a mass soul-route atrocity at a sacred site — Wolfsmere should be a standing leftward thin space, "the Lake That Remembers," and a live Grenzburg-adjacent hook. The Folk have not forgotten in 350 years.) In 1002, amid Leovar III's First Breaking, **Lord Primarch Silvane II** crowned him Emperor of the Atherians in the Sanctum Divinitatis. He accepted the crown — the chronicle's famous line, that he *"knelt surprised,"* is believed by no historian in or out of world. Eclessia's greatest hero and its deepest sin, in one man.
 
 **Weylan Oath-Bent** (c. 950-1012 AR) - The Folk war-leader who fought Adalmar for twenty years, disappeared after Wolfsmere, and accepted baptism with his surviving clans around 1005 AR. To Eclessia, a trophy convert; to the Folk, "the Bent Oak," spoken with pity, contempt, and unbearable understanding in equal measure. Whether his baptism was submission, strategy, sincerity, or all three remains disputed among his descendants and rivals.
 
@@ -151,3 +151,27 @@ The people behind the [[Chronology of the Known World (AR Dating)]]. Each entry 
 - [[Chronology of the Known World (AR Dating)]]
 - [[Real-History Concordance]]
 - [[The Great Split — Two Crowns, One Fire]]
+
+
+## Atlas lives known principally by epithets
+
+The following fourteen people now have separate historical articles. Epithets identify persons without prematurely fixing every private name. Their lives are not one fellowship, and their afterlives are authorial knowledge rather than universal public belief.
+
+| Person | Earthly period | History |
+|---|---|---|
+| Witness at the Red Passage | c. 180–226 AR | [[GS-01 - Witness at the Red Passage]] |
+| Preacher of the Second Gospel | c. 330–382 AR | [[GS-02 - Preacher of the Second Gospel]] |
+| Hunter of the Shutwood | c. 708–781 AR | [[GS-03 - Hunter of the Shutwood]] |
+| Mason of the Ninth Bastion | c. 646–716 AR | [[GS-04 - Mason of the Ninth Bastion]] |
+| Smith Who Broke His Hands | c. 729–792 AR | [[GS-05 - Smith Who Broke His Hands]] |
+| Chain-Bearer of Sarrat | c. 670–727 AR | [[GS-06 - Chain-Bearer of Sarrat]] |
+| Clerk of a Hundred Wells | c. 641–708 AR | [[GS-07 - Clerk of a Hundred Wells]] |
+| Bitter Reaper | c. 676–735 AR | [[GS-08 - Bitter Reaper]] |
+| Reader Behind the Sealed Door | c. 714–779 AR | [[GS-09 - Reader Behind the Sealed Door]] |
+| Smith of the Refuge Bell | c. 721–804 AR | [[GS-10 - Smith of the Refuge Bell]] |
+| General of the Glass Court | c. 910–951 AR | [[GS-11 - General of the Glass Court]] |
+| Warden of the Last Redoubt | c. 915–965 AR | [[GS-12 - Warden of the Last Redoubt]] |
+| Judge Beneath the Black Eaves | c. 1018–1080 AR | [[GS-13 - Judge Beneath the Black Eaves]] |
+| Saint of Ashen Wings | c. 1087–1146 AR | [[GS-14 - Saint of Ashen Wings]] |
+
+[[Great Saints and Sinners - Lives and Afterlives]] records later activity and limited rivalries. The Roadless Rider, Winter Executioner, Beloved Standard and Two Envoys remain local received traditions in [[Additional Mortal Lives and Frontier Traditions]], not four more authenticated Saints or Sinners. The erased people retain their limits in [[Protected Questions of the Historical Atlas]].

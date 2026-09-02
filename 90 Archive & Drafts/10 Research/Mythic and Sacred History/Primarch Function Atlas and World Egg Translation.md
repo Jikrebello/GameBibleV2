@@ -27,6 +27,9 @@ tags:
 ---
 # Primarch Function Atlas and World Egg Translation
 
+> [!info] Atlas integration
+> Current canonical destination: [[Great Saints and Sinners - Lives and Afterlives]]. This dossier retains its research history; former holds and promotion gates are superseded only where the [[World Historical Atlas - Integration and Coverage Ledger]] records an explicit outcome. Preliminary or rejected variants do not override their corrected descendants.
+
 ## Purpose and Date
 
 This author-only atlas records the narrative function of all twenty Warhammer 40,000 Primarch designations as checked on **30 August 2026**. It distinguishes published setting fact from deliberately unresolved material and fan inference, then asks what each grammar can contribute to the World Egg without importing a race of demigods, a divine family, a twenty-person brotherhood, or a Horus-Heresy equivalent.

@@ -22,6 +22,9 @@ tags:
 ---
 # Human Coherence and Discoverability Pass
 
+> [!info] Atlas integration
+> Current canonical destination: [[World Historical Atlas - Integration and Coverage Ledger]]. This dossier retains its research history; former holds and promotion gates are superseded only where the [[World Historical Atlas - Integration and Coverage Ledger]] records an explicit outcome. Preliminary or rejected variants do not override their corrected descendants.
+
 ## Purpose
 
 This pass asks whether a reader can explain each planted event as a sequence of causes and consequences without relying upon evocative but empty metaphysical language.

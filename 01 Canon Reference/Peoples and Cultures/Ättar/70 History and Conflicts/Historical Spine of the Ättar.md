@@ -28,3 +28,20 @@ tags: []
 
 - [[Ättar Overview]]
 - [[War of the Empty Halls]]
+
+## Historical Atlas — wider inheritance
+
+The Ättar are an Orphaned people related to the Folk through older Fäskogarfolk populations. Their halls formed through independent survival after the Giant collapse, not through a lost Ark column. The southern cold belt made winter stores and defence against Grobi especially consequential. Several halls could speak related languages while making opposed choices about kin-feud and watch duty.
+
+The War of the Empty Halls around 1600 BR struck already-established societies. Mother Moon's firstborn bargain created the four pact-kindreds; it did not create the human soul or prove every later hall's violence righteous. Raiding, slavery, fosterage, marriage and baptism subsequently changed populations without reducing culture to appearance or blood purity.
+
+Sea contact helped form the much later Saltborn on the western Kedravan coast. Local Menhir traditions include dangerous release, fosterage and contrary obligations, not one universal fairy government. The winter stories are placed southward where the established geography requires cold, even when an older nursery accidentally called them northern.
+
+## Stories and neighbouring histories
+
+- [[G-61 - The Hall That Faced the Grobi|The Hall That Faced the Grobi]]
+- [[G-67 - The Marks of Necessary Release|The Marks of Necessary Release]]
+- [[G-75 - The Empty Oar of the Winter Tithe|The Empty Oar of the Winter Tithe]]
+- [[G-06 - The Wolf, the Lantern and the House That Heard Them Laugh|The Wolf, the Lantern and the House That Heard Them Laugh]]
+- [[World Historical Atlas MOC]]
+- [[Peoples in the World Historical Atlas]]

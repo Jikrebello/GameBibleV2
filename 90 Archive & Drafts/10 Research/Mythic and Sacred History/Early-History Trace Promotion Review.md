@@ -37,6 +37,9 @@ tags:
 ---
 # Early-History Trace Promotion Review
 
+> [!info] Atlas integration
+> Current canonical destination: [[World Historical Atlas - Integration and Coverage Ledger]]. This dossier retains its research history; former holds and promotion gates are superseded only where the [[World Historical Atlas - Integration and Coverage Ledger]] records an explicit outcome. Preliminary or rejected variants do not override their corrected descendants.
+
 ## Promotion Ruling
 
 [[Historical Seed Garden - Coherence and Balance Review]] passes all fifty-five existing roots: fifty-two retained and three Last Houses roots revised in place. None is removed. The Garden's principal chronological imbalance is now explicit: the Long Frontier is rich, while the human aftermath of the Prophet, the two fissions, early proto-Atherian settlement, Folk–Ättar divergence and the City-State/Star boundary remain comparatively sparse.

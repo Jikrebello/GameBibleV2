@@ -37,6 +37,9 @@ tags:
 ---
 # Patron Realm Historical Placement Pass
 
+> [!info] Atlas integration
+> Current canonical destination: [[Patron Cities and the Long Rent Histories]]. This dossier retains its research history; former holds and promotion gates are superseded only where the [[World Historical Atlas - Integration and Coverage Ledger]] records an explicit outcome. Preliminary or rejected variants do not override their corrected descendants.
+
 ## Purpose and Status
 
 This pass gives six reviewed Patron-realm nurseries from [[Patron Realms and Egg White City Politics Review]] preferred historical soil. It does **not** make their names, dates, owners, routes, events, or present conditions canon. Each placement now has exactly one `retain`, `revise`, `defer`, or `reject` disposition; promotion remains a later and separate decision.

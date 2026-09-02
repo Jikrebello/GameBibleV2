@@ -40,6 +40,9 @@ tags:
 ---
 # The Two Fissions and the Atherian Long Formation
 
+> [!info] Atlas integration
+> Current canonical destination: [[Peoples in the World Historical Atlas]]. This dossier retains its research history; former holds and promotion gates are superseded only where the [[World Historical Atlas - Integration and Coverage Ledger]] records an explicit outcome. Preliminary or rejected variants do not override their corrected descendants.
+
 > [!warning] Author-only research and promotion provenance
 > This dossier supplied the reviewed demographic skeleton promoted through [[The Two Fissions - Canon Promotion Review]]. The controlling result now appears in Canon Reference. Personal names, exact routes, complete biographies and all twelve nursery hooks remain exploratory.
 

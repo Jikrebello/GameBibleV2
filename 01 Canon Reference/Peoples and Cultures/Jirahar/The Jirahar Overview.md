@@ -13,6 +13,8 @@ tags: []
 ---
 # The Jirahar Overview
 
+Historical reading: [[Historical Spine of the Jirahar]], within the [[World Historical Atlas MOC]].
+
 The **Jirahar** are an ancient covenant people whose memory reaches to the [[Great Glass Desert]] and the Great Prophet. They belong neither to one kingdom nor to one way of life. Five living tower-citadels, innumerable host-city quarters, land caravans, ocean fleets, and river-changing companies remain one people through the Orakha, maternal descent, conversion, shared courts, pilgrimage, and the circuit of the Keepers.
 
 They do not understand dispersion as cultural incompleteness. A tower household may become a road company after confiscation; sailors may settle beneath a tower; a Turning Company may winter for years in a foreign quarter. Separation from host cultures is deliberate: local citizenship does not cancel Jirahar marriage, burial, worship, schooling, food practice, charity, or law.

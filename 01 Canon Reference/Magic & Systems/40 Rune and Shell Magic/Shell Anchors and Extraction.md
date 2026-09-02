@@ -75,6 +75,10 @@ Extraction is a morally neutral technique. Failure is not automatic punishment f
 - converting a civilian anchor into an indiscriminate weapon;
 - abandoning a platform while its ecology can still propagate.
 
+## Hidden occupation — authorial history
+
+During the 1320s–1340s, abandoned delvers and fugitive households extended unused maintenance chambers on the Shell side of Blackwall Compression Yard. Their concealed quarter survives by diverting capacity from that existing installation. Its separate Astral emergency tether is not a fifteenth Material anchor. The operators' discovery, the households' survival and any future intervention remain unresolved in 1360. See [[Constructed Shell Settlements#The hidden quarter at Blackwall]].
+
 ## Navigation
 
 - [[Elemental Shell and the Four Planes]]

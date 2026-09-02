@@ -39,6 +39,9 @@ tags:
 ---
 # Infernal Dominions and Black-Coil Archfiends — Collision, Selection, and Historical Placement Review
 
+> [!info] Atlas integration
+> Current canonical destination: [[Infernal Kings and the Wars of the Depth]]. This dossier retains its research history; former holds and promotion gates are superseded only where the [[World Historical Atlas - Integration and Coverage Ledger]] records an explicit outcome. Preliminary or rejected variants do not override their corrected descendants.
+
 ## Purpose and Result
 
 This companion to [[Infernal Dominions and Black-Coil Archfiends Review]] tests all eighteen `AF-R` actor leads against existing Saints, Sinners, Idols, Patrons, True Dragons, devil offices, great-power beds and human history. It then selects a deliberately small first constellation and gives six reviewed dominion roots provisional historical apertures.

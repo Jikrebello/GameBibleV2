@@ -28,6 +28,9 @@ tags:
 ---
 # Whole-History Planting Matrix — Blocks III and IV
 
+> [!info] Atlas integration
+> Current canonical destination: [[Myths and Legendary Histories MOC]]. This dossier retains its research history; former holds and promotion gates are superseded only where the [[World Historical Atlas - Integration and Coverage Ledger]] records an explicit outcome. Preliminary or rejected variants do not override their corrected descendants.
+
 This is a **staged exploratory nursery**, not chronology and not public canon. It covers the Atherian Imperial Age through 1360 AR. Every seed must be marked `retain`, `revise`, `defer`, or `reject` before promotion into [[The Historical Seed Garden]].
 
 ## Operating Rules

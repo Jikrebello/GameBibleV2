@@ -14,6 +14,8 @@ tags: ["core-canon"]
 ---
 # The Folk Overview
 
+Historical reading: [[Historical Spine of the Folk]], within the [[World Historical Atlas MOC]].
+
 The **Folk** are the many clan peoples of the southern forests, mountain ranges, cold coasts, and Eclessian marches. They share ancestral roots, hearth-law, winter obligations, and a wary knowledge of the courts beyond ordinary life, but they are not a nation. A person is Moss-Crown, Grey-Withy, Tidewood, Gale-Crown, or Bent Oak before they are Folk.
 
 **Fäskogarfolk** is an archaic scholarly name for the ancestor population from which the Folk and the [[Ättar Overview|Ättar]] developed. **Old Blood** is a proud ceremonial expression. Neither implies one government or one religion.

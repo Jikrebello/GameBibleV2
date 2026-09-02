@@ -33,6 +33,9 @@ tags:
 ---
 # Comparative Underdarks, Hollow Worlds, and Chthonic Realms Atlas
 
+> [!info] Atlas integration
+> Current canonical destination: [[The Country Beneath the Rains - Peoples and History]]. This dossier retains its research history; former holds and promotion gates are superseded only where the [[World Historical Atlas - Integration and Coverage Ledger]] records an explicit outcome. Preliminary or rejected variants do not override their corrected descendants.
+
 > [!warning] Research, not a new cosmology
 > This atlas compares subterranean setting grammars. It does not establish a World Egg Underdark, alter [[Underworld, Underways, and Corpse-Roads]], place a new people, connect the Last Houses to the known world, or make physical depth a route to Hell.
 

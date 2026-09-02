@@ -83,3 +83,61 @@ The Council of Halmenth in 411 AR belongs to the doctrinal aftermath, not the co
 - [[Chronology of the Known World (AR Dating)]]
 - [[Named Figures of the Known World]]
 - [[The Rise of the Redeemer]]
+
+## Atlas narrative
+
+The following account distinguishes established history from the received stories named within it.
+
+## Freedom to worship, power to compel
+
+Cassian's victory at the Stone Bridge of Velos in 292 AR legalized the faith. The surviving bridge sign is bounded: it does not make every act of his reign righteous or resolve the scandal of his deathbed baptism. Legalization returned rooms, property and public confidence to communities accustomed to hiding. It also made membership politically useful.
+
+Astrion's restoration of the stars in 348–351 interrupted that transformation. Vestian's reign, 377–395, made faith compulsory in 380, dissolved augur colleges and attacked surviving Jirahar institutions. Temples were smashed, custodians killed, property confiscated and conformity enforced. Retaliatory mobs committed their own murders. Sacred language did not cleanse those acts.
+
+## Workers of the old temples
+
+A sanctuary was an employer as well as a cult center. Its singers, cooks, guards, prostitutes, metalworkers, cleaners and dependants did not cease to exist when the altar was broken. Some converted sincerely, some continued old rites, and some sold knowledge to new patrons. [[G-11 - The Children of the Closed Temple|The Children of the Closed Temple]] remembers this dispersed population rather than a neat victory of one priesthood over another.
+
+Old objects caused different problems. Some images were empty frauds; others had fed genuine Masks. Destruction of a statue could expose theft without ending the appetite which had used it. Authentic relics were no less dangerous to people who treated them as imperial equipment. Their response proved only the thing actually done.
+
+## Repentance without erasure
+
+The Penitent Governor tradition concerns a ruler who authorized torture, judicial murder, forced conversion, confiscation and a purification policy which killed his own child or heir. The death did not make his earlier victims less important. His repentance was real; laws, injured families and a predatory likeness of his public identity remained afterward.
+
+This is separate from the [[GS-02 - Preacher of the Second Gospel|Preacher of the Second Gospel]]. That figure began with genuine charitable work, was justly removed from teaching and then chose hostile revelation. Captive sacrifice, a child possession trial and the murder of a former companion were personally authorized acts, not cruelties supplied only by later followers.
+
+## Burial, song and fracture
+
+Persecution had left misidentified bodies and composite Lives. Legalization made their recovery possible and gave rival institutions reasons to claim them. The Red-Passage Witness's own history included abandoned prisoners and concealment of killings before later service, martyrdom and repentance. Commemoration sometimes repeated the old guilt by murdering alleged informers.
+
+Singers inherited temple melodies while suppressing the names of executed custodians. The custom of keeping a silence for five remembers an absence inside a successful choir. Coastal fishers meanwhile told of [[G-75 - The Empty Oar of the Winter Tithe|the Winter Tithe]], a court bargain in which rescuing one person left another vulnerable until the obligation itself was confronted. Later polemic falsely made every captive a martyr or a pagan fiction.
+
+## Toward the frontier
+
+The empire after Conversion was neither spiritually complete nor simply the old pantheon under new names. New monasteries, hospitals, schools and household practices mattered. So did the transfer of coercive power into Christian language. The Council of Halmenth in 411 and the exile of Nasriel's communion created a further divide, forming part of the later Velian world.
+
+The following centuries lead to [[The Long Frontier and the First Unsealing]], where faith, imperial citizenship, everyday cooperation and violence no longer follow one border.
+
+## Atlas navigation
+
+- [[World Historical Atlas MOC]]
+- [[Myths and Legendary Histories MOC]]
+
+## Historical articles in this age
+
+- [[Codex of The Era of Blood and Ash]]
+- [[Saintmaker’s Forge]]
+- [[The Fireless Trial]]
+- [[The Temple That Would Not Burn]]
+
+## Local tales and surviving memories
+
+- [[G-11 - The Children of the Closed Temple|The Children of the Closed Temple]]
+- [[G-25 - The Ragged Gospel in the Hospital Apron|The Ragged Gospel in the Hospital Apron]]
+- [[G-40 - The Shelter That Outlived Its Heir|The Shelter That Outlived Its Heir]]
+- [[G-41 - The Silence Kept for Five|The Silence Kept for Five]]
+- [[G-75 - The Empty Oar of the Winter Tithe|The Empty Oar of the Winter Tithe]]
+
+Smaller local histories and restored reserve leads: [[Additional Mortal Lives and Frontier Traditions]].
+
+Lives with independent later histories: [[Great Saints and Sinners - Lives and Afterlives]].

@@ -26,6 +26,9 @@ tags:
 ---
 # Great Saints and Sinners — First Trace Promotion Review
 
+> [!info] Atlas integration
+> Current canonical destination: [[World Historical Atlas - Integration and Coverage Ledger]]. This dossier retains its research history; former holds and promotion gates are superseded only where the [[World Historical Atlas - Integration and Coverage Ledger]] records an explicit outcome. Preliminary or rejected variants do not override their corrected descendants.
+
 ## Promotion Ruling
 
 The earth-first review in [[Great Saints and Sinners - Chronological Placement Review]] passes all fourteen visible exemplars: seven retained and seven revised with their corrections incorporated. This pass promotes exactly one light trace from each into [[The Historical Seed Garden]].

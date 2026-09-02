@@ -13,6 +13,8 @@ tags: []
 ---
 # Elemental Shell MOC
 
+Historical reading: [[Constructed Shell Settlements]], within the [[World Historical Atlas MOC]].
+
 ## Foundations
 
 - [[Elemental Shell and the Four Planes]]

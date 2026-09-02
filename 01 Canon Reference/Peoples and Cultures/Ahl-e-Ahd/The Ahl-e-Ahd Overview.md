@@ -14,6 +14,8 @@ tags: []
 ---
 # The Ahl-e-Ahd Overview
 
+Historical reading: [[Historical Spine of the Covenant]], within the [[World Historical Atlas MOC]].
+
 The **Ahl-e-Ahd**, or People of the Covenant, are not one ancestry. The name describes a civilization held together by Al-Ahdiya, Covenant law, the literary Ahdari tongue, interdependent roads and courts, and the long reach of Iqashar. Its peoples include [[The Ahdari]], [[The Iqashari]], [[The Qahuri]], [[The Qazmari]], and [[The Zanthiri]]. Velians, Jirahar, Tarkhan, and foreign communities also live beneath Covenant rule without ceasing to be themselves.
 
 ## Answer to Reality

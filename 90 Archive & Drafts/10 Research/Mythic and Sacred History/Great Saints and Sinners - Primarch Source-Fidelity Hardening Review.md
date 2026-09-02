@@ -36,6 +36,9 @@ tags:
 ---
 # Great Saints and Sinners — Primarch Source-Fidelity Hardening Review
 
+> [!info] Atlas integration
+> Current canonical destination: [[Great Saints and Sinners - Lives and Afterlives]]. This dossier retains its research history; former holds and promotion gates are superseded only where the [[World Historical Atlas - Integration and Coverage Ledger]] records an explicit outcome. Preliminary or rejected variants do not override their corrected descendants.
+
 ## Controlling Ruling
 
 This pass tests the fourteen visible exemplars and two erased-person mysteries against the particular Primarch function each borrowed. It restores the source's load-bearing guilt, bodily consequence, betrayal or institutional corruption where the World Egg translation had shifted responsibility onto unnamed followers or softened an atrocity into an administrative error.

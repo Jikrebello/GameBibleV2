@@ -30,6 +30,9 @@ tags:
 ---
 # Orthodox New Testament and Early Saints Lens
 
+> [!info] Atlas integration
+> Current canonical destination: [[Heavenly Campaigns and the Human Dead]]. This dossier retains its research history; former holds and promotion gates are superseded only where the [[World Historical Atlas - Integration and Coverage Ledger]] records an explicit outcome. Preliminary or rejected variants do not override their corrected descendants.
+
 ## Status and Purpose
 
 This is an author-only exploratory lens. It does not add another apostle, rewrite the Redeemer's life, canonize a historical seed, or turn an Orthodox saint's Life into a one-to-one World Egg biography.

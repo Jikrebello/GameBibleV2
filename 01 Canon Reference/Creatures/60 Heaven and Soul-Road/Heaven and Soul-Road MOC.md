@@ -13,6 +13,8 @@ tags: []
 ---
 # Heaven and Soul-Road MOC
 
+Historical reading: [[Heavenly Campaigns and the Human Dead]], within the [[World Historical Atlas MOC]].
+
 ## Doctrine and Use
 
 - [[Heavenly Orders Overview]] - true angels, manifested saints, road mechanisms, scale, and authority.

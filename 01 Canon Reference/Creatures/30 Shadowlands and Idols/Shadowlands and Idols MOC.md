@@ -13,6 +13,8 @@ tags: []
 ---
 # Shadowlands and Idols MOC
 
+Historical reading: [[Idol Kingdoms and the Hunger Wars]], within the [[World Historical Atlas MOC]].
+
 This is the controlling register for exactly **42 genuine Shadowlands forms**. Indexes and overviews do not contribute catalogue coverage.
 
 ## Governing References

@@ -14,6 +14,8 @@ tags: []
 ---
 # The Sestaran Concord Overview
 
+Historical reading: [[Historical Spine of the Sestaran Concord]], within the [[World Historical Atlas MOC]].
+
 The Sestaran Concord is a defensive league of seven independent city-states. It is not a country. Its members share no ruler, treasury, law, church, foreign policy, or enclosing border. A Fiorenzian or Sermoran may accept **Sestaran** abroad while insisting at home that the word describes an emergency arrangement, not a people.
 
 ## Answer to Reality

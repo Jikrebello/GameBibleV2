@@ -31,6 +31,9 @@ tags:
 ---
 # First Heavenly Constellation - First Trace Promotion Review
 
+> [!info] Atlas integration
+> Current canonical destination: [[World Historical Atlas - Integration and Coverage Ledger]]. This dossier retains its research history; former holds and promotion gates are superseded only where the [[World Historical Atlas - Integration and Coverage Ledger]] records an explicit outcome. Preliminary or rejected variants do not override their corrected descendants.
+
 ## Promotion Ruling
 
 [[First Heavenly Constellation - Chronological Placement Review]] passes all twelve selected placements: five retained and seven revised with their corrections incorporated. Every placement possesses one trace that is distinct from the existing Garden and remains useful without authenticating a Saint, angel, miracle, relic or church claim. This pass therefore promotes exactly twelve light roots into [[The Historical Seed Garden]].

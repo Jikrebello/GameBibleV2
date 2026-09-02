@@ -36,6 +36,9 @@ tags:
 ---
 # Greater-Power Garden Balance and Trace Promotion Review
 
+> [!info] Atlas integration
+> Current canonical destination: [[World Historical Atlas - Integration and Coverage Ledger]]. This dossier retains its research history; former holds and promotion gates are superseded only where the [[World Historical Atlas - Integration and Coverage Ledger]] records an explicit outcome. Preliminary or rejected variants do not override their corrected descendants.
+
 ## Purpose and Result
 
 This review compares all sixteen historically placed but unpromoted Infernal, Menhir and Idol episodes against the sixty-five existing roots in [[The Historical Seed Garden]]. It asks whether each candidate adds a new historical pressure and evidence carrier without authenticating a complete supernatural person, realm, court, relic or biography.

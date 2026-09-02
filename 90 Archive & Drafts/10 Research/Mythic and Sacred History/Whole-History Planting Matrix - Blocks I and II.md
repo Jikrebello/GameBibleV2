@@ -32,6 +32,9 @@ tags:
 ---
 # Whole-History Planting Matrix — Blocks I and II
 
+> [!info] Atlas integration
+> Current canonical destination: [[Myths and Legendary Histories MOC]]. This dossier retains its research history; former holds and promotion gates are superseded only where the [[World Historical Atlas - Integration and Coverage Ledger]] records an explicit outcome. Preliminary or rejected variants do not override their corrected descendants.
+
 > [!warning] Exploratory nursery
 > Nothing in this document is canon. Existing canon and existing beds from [[The Historical Seed Garden]] are identified explicitly; all new names, memberships, miracles, Mask histories, and explanations remain provisional. Every developed card now carries exactly one nursery disposition: `retain`, `revise`, `defer`, or `reject`. Lighter leads and the Praise roll remain outside the developed-card review count until expanded.
 

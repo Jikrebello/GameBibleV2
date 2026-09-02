@@ -36,6 +36,9 @@ tags:
 ---
 # Great Saints and Sinners — Historical Placement and Relationship Matrix
 
+> [!info] Atlas integration
+> Current canonical destination: [[Great Saints and Sinners - Lives and Afterlives]]. This dossier retains its research history; former holds and promotion gates are superseded only where the [[World Historical Atlas - Integration and Coverage Ledger]] records an explicit outcome. Preliminary or rejected variants do not override their corrected descendants.
+
 ## Controlling Ruling
 
 These fourteen figures are independent human lives. They are not one fellowship, species, holy dynasty, apostolic college, war council or complete list of history's greatest persons. Eight overlap during the Long Frontier because that period places unusual pressure upon law, conquest, translation, refuge and supernatural borders. They never form a permanent body and never divide into two universal camps.

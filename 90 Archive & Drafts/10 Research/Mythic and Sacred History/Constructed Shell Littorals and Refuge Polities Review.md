@@ -34,6 +34,9 @@ tags:
 ---
 # Constructed Shell Littorals and Refuge Polities Review
 
+> [!info] Atlas integration
+> Current canonical destination: [[Constructed Shell Settlements]]. This dossier retains its research history; former holds and promotion gates are superseded only where the [[World Historical Atlas - Integration and Coverage Ledger]] records an explicit outcome. Preliminary or rejected variants do not override their corrected descendants.
+
 ## Purpose and Result
 
 This is the fifth great-power family review arising from [[Comparative Realms, Courts, and Sacred Warfare Atlas]]. It expands all eight `EL-R` research leads without turning the Elemental Shell into a set of inhabited fantasy planes or silently creating a fifteenth active anchor.

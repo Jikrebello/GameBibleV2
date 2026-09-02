@@ -37,6 +37,9 @@ tags:
 ---
 # Comparative Realms, Courts, and Sacred Warfare Atlas
 
+> [!info] Atlas integration
+> Current canonical destination: [[Distant Lands and Otherworld Histories]]. This dossier retains its research history; former holds and promotion gates are superseded only where the [[World Historical Atlas - Integration and Coverage Ledger]] records an explicit outcome. Preliminary or rejected variants do not override their corrected descendants.
+
 ## Purpose
 
 This is the broad source-atlas pass requested after the first [[Great-Power Mythic Ecology and Planting Matrix]]. That matrix proved the framework but compressed too many possible kingdoms, courts, dominions, wars, commissions, and refuge states into twelve representative beds.

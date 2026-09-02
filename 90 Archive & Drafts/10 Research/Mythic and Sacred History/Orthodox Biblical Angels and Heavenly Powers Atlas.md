@@ -29,6 +29,9 @@ tags:
 ---
 # Orthodox Biblical Angels and Heavenly Powers Atlas
 
+> [!info] Atlas integration
+> Current canonical destination: [[Heavenly Campaigns and the Human Dead]]. This dossier retains its research history; former holds and promotion gates are superseded only where the [[World Historical Atlas - Integration and Coverage Ledger]] records an explicit outcome. Preliminary or rejected variants do not override their corrected descendants.
+
 ## Purpose and Status
 
 This dossier gives the World Egg's heavenly ecology the biblical and Eastern Orthodox pass that the comparative fantasy atlas cannot supply. It distinguishes what the Orthodox biblical canon actually narrates, what later Orthodox theological synthesis teaches, what liturgy and iconography express, and what remains pious or regional tradition.

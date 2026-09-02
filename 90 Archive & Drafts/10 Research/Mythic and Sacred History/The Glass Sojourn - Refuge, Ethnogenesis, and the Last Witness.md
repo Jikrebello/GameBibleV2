@@ -34,6 +34,9 @@ tags:
 ---
 # The Glass Sojourn — Refuge, Ethnogenesis, and the Last Witness
 
+> [!info] Atlas integration
+> Current canonical destination: [[The Glass Sojourn]]. This dossier retains its research history; former holds and promotion gates are superseded only where the [[World Historical Atlas - Integration and Coverage Ledger]] records an explicit outcome. Preliminary or rejected variants do not override their corrected descendants.
+
 > [!note] Sequence superseded — 2026-08-31
 > This dossier remains the research basis for the long Sojourn and formation of one Glass people. Its older shorthand of three direct successor crystallisations is retained as provenance but has been superseded by [[The Two Fissions - Canon Promotion Review]].
 

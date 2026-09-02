@@ -23,6 +23,9 @@ tags:
 ---
 # Whole-History Mythic Planting Programme
 
+> [!info] Atlas integration
+> Current canonical destination: [[World Historical Atlas - Integration and Coverage Ledger]]. This dossier retains its research history; former holds and promotion gates are superseded only where the [[World Historical Atlas - Integration and Coverage Ledger]] records an explicit outcome. Preliminary or rejected variants do not override their corrected descendants.
+
 This is the control note for the first author-only planting pass from Creation through 1360 AR. It records what has been built, what remains provisional, and what may move into the nursery. It is not a chronology and does not canonize a seed by listing it.
 
 ## Governing Lens and Interfaces

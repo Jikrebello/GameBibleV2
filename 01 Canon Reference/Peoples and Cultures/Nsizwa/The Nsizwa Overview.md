@@ -13,6 +13,8 @@ tags: []
 ---
 ### _"We walk with the past so that the future may endure."_
 
+Historical reading: [[Historical Atlas of the Nsizwa]], within the [[World Historical Atlas MOC]].
+
 The **Nsizwa** are a proud and powerful people, deeply connected to their **ancestors, spirits, and the legacy of war**. Rooted in a fusion of **Zulu, West African, Sahelian, and Nubian influences**, they are a civilization of **warriors, mystics, and master tacticians**, blending mortal skill with supernatural power. Their defining rites produce **ancestor-shaped apparitions, spectral war-hosts, and the Izivukwa—preserved champions whose bodies awaken when a bounded duty calls**. Nsizwa teaching identifies these presences with the honored dead; other traditions dispute whether any given manifestation is the ancestor's soul, a residue, or a tomb-bound office.
 
 ---

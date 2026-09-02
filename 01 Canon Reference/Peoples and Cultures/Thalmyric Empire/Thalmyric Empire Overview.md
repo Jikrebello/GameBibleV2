@@ -13,6 +13,8 @@ tags: []
 ---
 # Thalmyric Empire Overview
 
+Historical reading: [[Historical Atlas of Thalmyria]], within the [[World Historical Atlas MOC]].
+
 Thalmyria is the west-central heartland and most direct surviving heir of old Atheria. Its people live among working aqueducts, buried roads, martyr crypts, occupation ruins, Reconquest forts, and fields that still yield coins and weapons from forgotten wars. The empire is old, urban, learned, proud, and materially diminished: a civilization that recovered its sacred center without recovering all the land, population, or wealth that once sustained it.
 
 ## The Thalmyric Claim

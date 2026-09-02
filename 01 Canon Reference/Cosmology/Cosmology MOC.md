@@ -13,6 +13,8 @@ tags: []
 ---
 # Cosmology MOC
 
+Historical reading: [[Distant Lands and Otherworld Histories]], within the [[World Historical Atlas MOC]].
+
 ## Physical Library
 
 - **10 Foundations:** [[The World Egg Cosmology]], [[The Great Rebellion and the Yolk Exiles]], [[Who’s Who in the Cosmology]], [[Names of the Menhir, Masks of the Idols]], and [[The Lord and Redeemer]].

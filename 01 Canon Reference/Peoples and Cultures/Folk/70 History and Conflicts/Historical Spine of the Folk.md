@@ -44,3 +44,22 @@ By 1360 AR, the Eclessian frontier remains a gradient. Parish law, clan jurisdic
 - [[The Making of the Folk]]
 - [[The Folk of the Frontier and the Wolfsmere Lineage]]
 - [[Frost-Road and the Winter War]]
+
+## Historical Atlas — wider inheritance
+
+The Folk descend principally from Orphaned communities which rebuilt forests, fields and clan worlds outside the Glass. They were never one nation waiting for a southern invader. Atherian war-settlers encountered rival clans, surviving remnant towns and households with their own ideas of inheritance and place.
+
+Conquest could destroy a fort, take hostages, produce a mixed harbour or redirect a clan's marriage network. Ark-derived settlers brought a particular witness and useful crafts, not civilization to empty land. Folk societies themselves practised raiding, captivity and exclusion; autonomy did not make every custom just.
+
+Menhir courts remained dangerous neighbours. Their gifts and exact prices shaped local hunting, fosterage, mining and seasonal customs without supplying a moral law. Conversion later produced Chapel-Folk as well as resistance, while Enaidfae remained an old-rite identity rather than a separate human biology. Shared ancestry with the Ättar did not erase the historical divergence caused by geography, enemies and political choices.
+
+## Stories and neighbouring histories
+
+- [[G-06 - The Wolf, the Lantern and the House That Heard Them Laugh|The Wolf, the Lantern and the House That Heard Them Laugh]]
+- [[G-57 - The Gate Opened during Supper|The Gate Opened during Supper]]
+- [[G-58 - The Harbour Founded Twice|The Harbour Founded Twice]]
+- [[G-61 - The Hall That Faced the Grobi|The Hall That Faced the Grobi]]
+- [[G-67 - The Marks of Necessary Release|The Marks of Necessary Release]]
+- [[G-72 - The Hostage Children of Oak and Glass|The Hostage Children of Oak and Glass]]
+- [[World Historical Atlas MOC]]
+- [[Peoples in the World Historical Atlas]]

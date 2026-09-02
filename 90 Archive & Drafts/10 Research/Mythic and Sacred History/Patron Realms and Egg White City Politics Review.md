@@ -32,6 +32,9 @@ tags:
 ---
 # Patron Realms and Egg White City Politics Review
 
+> [!info] Atlas integration
+> Current canonical destination: [[Patron Cities and the Long Rent Histories]]. This dossier retains its research history; former holds and promotion gates are superseded only where the [[World Historical Atlas - Integration and Coverage Ledger]] records an explicit outcome. Preliminary or rejected variants do not override their corrected descendants.
+
 ## Purpose and Status
 
 This is the second family review arising from [[Comparative Realms, Courts, and Sacred Warfare Atlas]]. It takes the twelve `PT-R` leads and turns them into political nurseries rather than a list of attractive planar locations.

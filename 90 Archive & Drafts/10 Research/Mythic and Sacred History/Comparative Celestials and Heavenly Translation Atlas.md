@@ -32,6 +32,9 @@ tags:
 ---
 # Comparative Celestials and Heavenly Translation Atlas
 
+> [!info] Atlas integration
+> Current canonical destination: [[Heavenly Campaigns and the Human Dead]]. This dossier retains its research history; former holds and promotion gates are superseded only where the [[World Historical Atlas - Integration and Coverage Ledger]] records an explicit outcome. Preliminary or rejected variants do not override their corrected descendants.
+
 ## Purpose and Status
 
 This dossier reviews high-order celestials, good-aligned divine figures, heralds, martyrs, champions, and fallen radiant powers from Forgotten Realms and older D&D planar lore, Eberron, Dragonlance, and Pathfinder. It asks which narrative functions can enter the World Egg's heavenly ecology without creating additional gods, confusing mortals with angels, importing alignment as moral proof, or turning light and wings into automatic evidence of holiness.

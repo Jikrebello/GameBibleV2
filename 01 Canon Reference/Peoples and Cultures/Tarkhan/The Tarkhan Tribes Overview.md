@@ -14,6 +14,8 @@ tags: []
 ---
 # The Tarkhan Tribes Overview
 
+Historical reading: [[Historical Spine of the Tarkhan]], within the [[World Historical Atlas MOC]].
+
 The **Tarkhan** are one northern nomadic civilization spread across the dry belt between the Covenant, Eclessia, and the detached Sestaran territories. They share related speech, clan law, guest-right, word-price, sky rites, and the memory of [[Qarayel and the Black Wind]], but possess no common state.
 
 Two ways of life answer different ground. The [[Well-Tarkhan]] of the western desert move between ancestral wells with camels, sheep, goats, and mixed remounts. The [[Grass-Tarkhan]] of the northeast follow horse pasture and, in some regions, the migratory [[Great-Horns]]. Families, clans, and banners cross this division; neither is a separate ancestry.

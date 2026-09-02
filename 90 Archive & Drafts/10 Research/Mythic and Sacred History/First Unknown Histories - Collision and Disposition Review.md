@@ -24,6 +24,9 @@ tags:
 ---
 # First Unknown Histories — Collision and Disposition Review
 
+> [!info] Atlas integration
+> Current canonical destination: [[Unknown Histories - Authorial Accounts]]. This dossier retains its research history; former holds and promotion gates are superseded only where the [[World Historical Atlas - Integration and Coverage Ledger]] records an explicit outcome. Preliminary or rejected variants do not override their corrected descendants.
+
 > [!warning] Review scope
 > This review separates the six capsules from earlier nursery roots, incorporates the required revisions, and records dispositions. It does not promote a trace, name a historical person or polity, amend chronology, or change [[The Historical Seed Garden]].
 

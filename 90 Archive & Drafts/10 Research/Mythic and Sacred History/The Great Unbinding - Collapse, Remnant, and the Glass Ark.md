@@ -44,6 +44,9 @@ tags:
 ---
 # The Great Unbinding — Collapse, Remnant, and the Glass Ark
 
+> [!info] Atlas integration
+> Current canonical destination: [[The Great Unbinding]]. This dossier retains its research history; former holds and promotion gates are superseded only where the [[World Historical Atlas - Integration and Coverage Ledger]] records an explicit outcome. Preliminary or rejected variants do not override their corrected descendants.
+
 ## Status
 
 This dossier records the research and comparative reasoning behind the authorial causal backbone for the end of Giant rule, the Great Prophet's liberation, the preservation of a human remnant, the crossing of the Great Glass Desert, and the fate of the lands left behind.

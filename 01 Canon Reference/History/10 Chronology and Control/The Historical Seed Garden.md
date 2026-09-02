@@ -23,6 +23,9 @@ tags:
 ---
 # The Historical Seed Garden
 
+> [!info] Atlas harvest
+> All seventy-five traditions now have localized articles in [[Myths and Legendary Histories MOC]]. Those articles—not this exploratory nursery—state what has entered canon. A tradition and its surviving custom may be real while its heroic or supernatural explanation remains disputed. [[World Historical Atlas - Integration and Coverage Ledger]] records the individual destinations and protected limits.
+
 This is a garden of possible histories, not a second chronology. Nothing becomes true merely because it is told here. Each root is a story strong enough to leave a song, scar, joke, feast, ruin or dangerous habit behind; the exact names, dates and supernatural explanations remain open unless a canonical note says otherwise.
 
 The Garden now leads with the tale. Source comparisons, metaphysical classifications, collision rulings and canon-readiness are held separately in [[Historical Seed Garden - Mythic Voice, Variety, and Localisation Review]].
@@ -63,6 +66,8 @@ The first household, the child's fate and any connection among distant versions 
 
 ^garden-g01
 
+*Atlas article:* [[G-01 - The People Beneath the Bowl|The People Beneath the Bowl]].
+
 ## G-02 — The Company of the Broken Measure
 
 *Where it is told:* in the Glassward marches and among peoples descended from Late-Chains estate slaves.
@@ -97,6 +102,8 @@ The company, estate and sequence of labours remain provisional. The contradictio
 
 ^garden-g02
 
+*Atlas article:* [[G-02 - The Company of the Broken Measure|The Company of the Broken Measure]].
+
 ## G-03 — The Last Cart
 
 *Where it is told:* throughout the Ark-descended cultures as a tale of the Great Exodus across the Glass.
@@ -128,6 +135,8 @@ A damaged wheel-shaped loaf is broken at departures and winter funerals. The fir
 The drivers, passengers and surviving child remain unnamed. No wheel, loaf or road miracle can be repeated on command.
 
 ^garden-g03
+
+*Atlas article:* [[G-03 - The Last Cart|The Last Cart]].
 
 ## G-18 — The Falling Wards
 
@@ -165,6 +174,8 @@ The escaped court, its present whereabouts and its eventual Patron relationships
 
 ^garden-g18
 
+*Atlas article:* [[G-18 - The Falling Wards|The Falling Wards]].
+
 ## G-62 — The Three False Processions
 
 *Formerly: The Caravan That Cast Off Its Wards.*
@@ -200,6 +211,8 @@ Three routes contain palace hinges, royal cloth and ancestor-patterns that canno
 The original ruler and caravan remain lost. No copy is a human soul, but each separately established personhood and culpability must still be judged rather than assumed.
 
 ^garden-g62
+
+*Atlas article:* [[G-62 - The Three False Processions|The Three False Processions]].
 
 ## G-66 — Not for the Lower Roster
 
@@ -237,6 +250,8 @@ No formula proves that a soul is imprisoned or that an infernal route remains op
 
 ^garden-g66
 
+*Atlas article:* [[G-66 - Not for the Lower Roster|Not for the Lower Roster]].
+
 ## G-69 — The Four Faces of One Victory
 
 *Formerly: The Victory Recut Four Times.*
@@ -272,6 +287,8 @@ The levee relief still bears four depths of carving. During the boat song, one v
 The crowns, local Masks, casualty totals and modern property claims remain unsettled. The tale establishes no Idol succession.
 
 ^garden-g69
+
+*Atlas article:* [[G-69 - The Four Faces of One Victory|The Four Faces of One Victory]].
 
 # II. Scattering, Hearths, First Kings, City-States and Stars
 
@@ -311,6 +328,8 @@ The number seven may compress several lost parties. No single genealogy founds e
 
 ^garden-g04
 
+*Atlas article:* [[G-04 - The Seven Who Stopped Seeking Home|The Seven Who Stopped Seeking Home]].
+
 ## G-05 — The Iron Ring before the Crown
 
 *Formerly: The Crownless Company.*
@@ -346,6 +365,8 @@ Several coronations carry a black iron ring ahead of the crown. Someone strikes 
 The company's membership and first kingdom remain provisional. The ring is not the Giant-age collar, though later regalia may mingle their metal.
 
 ^garden-g05
+
+*Atlas article:* [[G-05 - The Iron Ring before the Crown|The Iron Ring before the Crown]].
 
 ## G-06 — The Wolf, the Lantern and the House That Heard Them Laugh
 
@@ -385,6 +406,8 @@ The pair may compress several wandering duos. The house expressed one local Menh
 
 ^garden-g06
 
+*Atlas article:* [[G-06 - The Wolf, the Lantern and the House That Heard Them Laugh|The Wolf, the Lantern and the House That Heard Them Laugh]].
+
 ## G-07 — The Key Bent in a Murderer's Hand
 
 *Formerly: The Bent-Key Fellowship.*
@@ -420,6 +443,8 @@ At some amnesties people heat keys, bend them and throw them into a common brazi
 The city, final ruler and membership remain provisional. No relic or augury proves the fellowship righteous in every act.
 
 ^garden-g07
+
+*Atlas article:* [[G-07 - The Key Bent in a Murderer's Hand|The Key Bent in a Murderer's Hand]].
 
 ## G-08 — The Road That Refused Its Last Stone
 
@@ -457,6 +482,8 @@ No single surveyor made the whole road, and one refusal did not defeat imperial 
 
 ^garden-g08
 
+*Atlas article:* [[G-08 - The Road That Refused Its Last Stone|The Road That Refused Its Last Stone]].
+
 ## G-19 — The Hearth Carried Twice
 
 *Formerly: The Second-Hearth Clause.*
@@ -492,6 +519,8 @@ Two coals are exchanged at some weddings and adoptions. If one goes out, both ho
 The city's site and any Patron involvement remain provisional. The custom establishes no universal law of citizenship.
 
 ^garden-g19
+
+*Atlas article:* [[G-19 - The Hearth Carried Twice|The Hearth Carried Twice]].
 
 ## G-56 — The Empty Seat Facing Outward
 
@@ -529,6 +558,8 @@ No original chair is authenticated. The death began a succession crisis but did 
 
 ^garden-g56
 
+*Atlas article:* [[G-56 - The Empty Seat Facing Outward|The Empty Seat Facing Outward]].
+
 ## G-57 — The Gate Opened during Supper
 
 *Formerly: The First Southern Gate.*
@@ -564,6 +595,8 @@ An old repaired gate contains rows of handprints beneath later stone. At the pri
 The gate's exact region, captain and host polity remain nursery material. It was one conquest among many, not the origin of all Atheria.
 
 ^garden-g57
+
+*Atlas article:* [[G-57 - The Gate Opened during Supper|The Gate Opened during Supper]].
 
 ## G-58 — The Harbour Founded Twice
 
@@ -601,6 +634,8 @@ The bay, peoples and number of boats remain provisional. This is one Braided har
 
 ^garden-g58
 
+*Atlas article:* [[G-58 - The Harbour Founded Twice|The Harbour Founded Twice]].
+
 ## G-59 — The Walking Court and the Wall That Stayed
 
 *Formerly: The Court That Walked and the Wall That Stayed.*
@@ -636,6 +671,8 @@ Some funerals still use both a staff laid toward the road and a stone set toward
 The attackers' identity and the precise camp remain unsettled. This episode reveals the logic of a long fission; it did not create two peoples in a single winter.
 
 ^garden-g59
+
+*Atlas article:* [[G-59 - The Walking Court and the Wall That Stayed|The Walking Court and the Wall That Stayed]].
 
 ## G-60 — The Bride of the Dry Road
 
@@ -673,6 +710,8 @@ Her name, route and descendants remain open. The tale does not establish a unive
 
 ^garden-g60
 
+*Atlas article:* [[G-60 - The Bride of the Dry Road|The Bride of the Dry Road]].
+
 ## G-61 — The Hall That Faced the Grobi
 
 *Formerly: The Hall That Faced the Grobi.*
@@ -708,6 +747,8 @@ Old winter halls keep one smoke hole or roof beam pointed toward the most likely
 The clans and attack remain locally placed but unnamed. Grobi pressure contributed to divergence; it did not single-handedly create the Ättar.
 
 ^garden-g61
+
+*Atlas article:* [[G-61 - The Hall That Faced the Grobi|The Hall That Faced the Grobi]].
 
 ## G-63 — The Peace Feast at Nine Hearths
 
@@ -745,6 +786,8 @@ The woman's later fate and the motives of every participant cannot be recovered.
 
 ^garden-g63
 
+*Atlas article:* [[G-63 - The Peace Feast at Nine Hearths|The Peace Feast at Nine Hearths]].
+
 ## G-64 — The Prisoners Who Became a Border
 
 *Formerly: The Prisoners Who Became a Border.*
@@ -781,6 +824,8 @@ The damned soul, its office and later copies are not the same being. The episode
 
 ^garden-g64
 
+*Atlas article:* [[G-64 - The Prisoners Who Became a Border|The Prisoners Who Became a Border]].
+
 ## G-67 — The Marks of Necessary Release
 
 *Formerly: Marks of Necessary Release.*
@@ -816,6 +861,8 @@ Release cuts appear on harness, burial cloth and barn lintels before midwinter s
 No mark commands a Menhir or guarantees safety. The Hunt was temporary and local, not the Hunt of the Escaped Courts or the whole War of Unfinished Seasons.
 
 ^garden-g67
+
+*Atlas article:* [[G-67 - The Marks of Necessary Release|The Marks of Necessary Release]].
 
 # III. Atheria, the Redeemer, Conversion and the Long Frontier
 
@@ -855,6 +902,8 @@ Names, campaigns and later judgements remain open. They were neither one sacred 
 
 ^garden-g09
 
+*Atlas article:* [[G-09 - The Companions Who Entered by the Low Door|The Companions Who Entered by the Low Door]].
+
 ## G-10 — The Road of the Empty Purse
 
 *Formerly: Empty-Purse Road.*
@@ -890,6 +939,8 @@ An empty purse hangs beside certain pilgrim doors. A guest is received before it
 No mark guarantees sanctuary, and no purse authenticates a Saint, relic or apostolic succession. The road touched the Redeemer generation but added no Companion.
 
 ^garden-g10
+
+*Atlas article:* [[G-10 - The Road of the Empty Purse|The Road of the Empty Purse]].
 
 ## G-11 — The Children of the Closed Temple
 
@@ -927,6 +978,8 @@ The bird's nature, the drum's survival and the companions' final faiths remain o
 
 ^garden-g11
 
+*Atlas article:* [[G-11 - The Children of the Closed Temple|The Children of the Closed Temple]].
+
 ## G-12 — The Four Who Brought Water
 
 *Formerly: Four Who Brought Water.*
@@ -962,6 +1015,8 @@ Four mismatched cups are lowered together into a dry well before repair begins. 
 The original cups and town are unknown. This was not the source of all frontier well law, and no miracle excuses the later blood-price.
 
 ^garden-g12
+
+*Atlas article:* [[G-12 - The Four Who Brought Water|The Four Who Brought Water]].
 
 ## G-20 — The Tongue Seal of the Kidnapped
 
@@ -999,6 +1054,8 @@ The Patron's identity and the woman's fate remain open. The seal never changed h
 
 ^garden-g20
 
+*Atlas article:* [[G-20 - The Tongue Seal of the Kidnapped|The Tongue Seal of the Kidnapped]].
+
 ## G-24 — The Red Door and the Names Left Behind
 
 *Formerly: Red Door Names; the Red-Passage Witness trace.*
@@ -1034,6 +1091,8 @@ An unhinged red door is carried flat once a year while both groups of names are 
 The witness's final judgement and any later manifestation remain unproved. The door authenticates no relic and summons nobody.
 
 ^garden-g24
+
+*Atlas article:* [[G-24 - The Red Door and the Names Left Behind|The Red Door and the Names Left Behind]].
 
 ## G-25 — The Ragged Gospel in the Hospital Apron
 
@@ -1071,6 +1130,8 @@ The preacher's name, death and final judgement remain open. No fragment is canon
 
 ^garden-g25
 
+*Atlas article:* [[G-25 - The Ragged Gospel in the Hospital Apron|The Ragged Gospel in the Hospital Apron]].
+
 ## G-26 — The Empty Stool of the Slain Scout
 
 *Formerly: the Shutwood Hunter trace.*
@@ -1106,6 +1167,8 @@ Route hearings and founder feasts keep an empty stool with a cut bootlace across
 No later act settles forgiveness or sainthood. The road is useful whether or not every supernatural story about its founder is false.
 
 ^garden-g26
+
+*Atlas article:* [[G-26 - The Empty Stool of the Slain Scout|The Empty Stool of the Slain Scout]].
 
 ## G-27 — The Ninth Room of the Bastions
 
@@ -1143,6 +1206,8 @@ The founder's later fate, the device and the speaking survivor remain open. The 
 
 ^garden-g27
 
+*Atlas article:* [[G-27 - The Ninth Room of the Bastions|The Ninth Room of the Bastions]].
+
 ## G-28 — The Gauntlets Broken at the Hearth
 
 *Formerly: Rival Broken-Gauntlet Relics.*
@@ -1178,6 +1243,8 @@ Forge hearths hang two broken gauntlets apart. When the stop bell sounds, the yo
 No gauntlet authenticates the smith, a Saint or a later manifestation. His final judgement and the truth of his active-history legends remain open.
 
 ^garden-g28
+
+*Atlas article:* [[G-28 - The Gauntlets Broken at the Hearth|The Gauntlets Broken at the Hearth]].
 
 ## G-29 — The Missing Link of the Chain-Bearer
 
@@ -1215,6 +1282,8 @@ The true link, grave and later supernatural activity remain unknown. No complete
 
 ^garden-g29
 
+*Atlas article:* [[G-29 - The Missing Link of the Chain-Bearer|The Missing Link of the Chain-Bearer]].
+
 ## G-30 — The Clerk Who Would Not Stop
 
 *Formerly: “The Clerk's Ending.”*
@@ -1250,6 +1319,8 @@ At the first new moon after an emergency, officials must snap a counting candle 
 The procedure can be abused and proves no constitutional inheritance. The clerk's sainthood, damnation and final choice remain open.
 
 ^garden-g30
+
+*Atlas article:* [[G-30 - The Clerk Who Would Not Stop|The Clerk Who Would Not Stop]].
 
 ## G-31 — The Bitter Cup of the Reaper
 
@@ -1287,6 +1358,8 @@ The original cup and physician's final fate are unknown. The medicine neither pr
 
 ^garden-g31
 
+*Atlas article:* [[G-31 - The Bitter Cup of the Reaper|The Bitter Cup of the Reaper]].
+
 ## G-32 — The Letters That Must Not Be Opened
 
 *Formerly: Sealed-Door Warnings.*
@@ -1322,6 +1395,8 @@ Sealed letters hang in open cages along several abandoned routes. Wind may touch
 The sender, route and present danger remain unfixed. No archive is complete, and opening a surviving packet is a future choice rather than predetermined history.
 
 ^garden-g32
+
+*Atlas article:* [[G-32 - The Letters That Must Not Be Opened|The Letters That Must Not Be Opened]].
 
 ## G-33 — The Tools That Remember a Duty
 
@@ -1359,6 +1434,8 @@ The smith's final judgement and any active manifestation remain open. Later copi
 
 ^garden-g33
 
+*Atlas article:* [[G-33 - The Tools That Remember a Duty|The Tools That Remember a Duty]].
+
 ## G-38 — The Houses Unhoused before the Gate Turns
 
 *Formerly: Public Unhousing Rubric.*
@@ -1394,6 +1471,8 @@ Before a disgraced sanctuary can be reused, roof tiles are carried out in public
 No permanent gate guardian is established. The reported intervention proves neither the city's righteousness nor the enemy's.
 
 ^garden-g38
+
+*Atlas article:* [[G-38 - The Houses Unhoused before the Gate Turns|The Houses Unhoused before the Gate Turns]].
 
 ## G-39 — First the Betrayed, Then the Witness
 
@@ -1431,6 +1510,8 @@ The deacon's final communion and any dream remain matters for later review. The 
 
 ^garden-g39
 
+*Atlas article:* [[G-39 - First the Betrayed, Then the Witness|First the Betrayed, Then the Witness]].
+
 ## G-40 — The Shelter That Outlived Its Heir
 
 *Formerly: No-New-Heir Clause.*
@@ -1466,6 +1547,8 @@ A water jar is passed from an outgoing keeper to the next. If no keeper is worth
 The family, property and child's descendants remain open. No bloodline inherits holiness, office or angelic protection.
 
 ^garden-g40
+
+*Atlas article:* [[G-40 - The Shelter That Outlived Its Heir|The Shelter That Outlived Its Heir]].
 
 ## G-41 — The Silence Kept for Five
 
@@ -1503,6 +1586,8 @@ The objects, the singer's final judgement and the custodians' beliefs remain ope
 
 ^garden-g41
 
+*Atlas article:* [[G-41 - The Silence Kept for Five|The Silence Kept for Five]].
+
 ## G-42 — The Supper of the Unchosen Roads
 
 *Formerly: Pilgrim's Table.*
@@ -1538,6 +1623,8 @@ Seven pieces of bread are laid at a command supper. One is blackened, and the ch
 The traveller's nature and the best military choice remain open. Counsel transfers neither guilt nor authority.
 
 ^garden-g42
+
+*Atlas article:* [[G-42 - The Supper of the Unchosen Roads|The Supper of the Unchosen Roads]].
 
 ## G-43 — The Cart That Turned Back
 
@@ -1575,6 +1662,8 @@ The crew's names and later punishments remain provisional. This is a later milit
 
 ^garden-g43
 
+*Atlas article:* [[G-43 - The Cart That Turned Back|The Cart That Turned Back]].
+
 ## G-44 — Three Roads for One Cry
 
 *Formerly: Three-Carrier Register.*
@@ -1610,6 +1699,8 @@ Three runners exchange red, grey and white cords at roadside fires. None knows t
 The prison and surviving children's later lives remain open. Three carriers corroborate a plea but do not create infallible testimony.
 
 ^garden-g44
+
+*Atlas article:* [[G-44 - Three Roads for One Cry|Three Roads for One Cry]].
 
 ## G-45 — The Two Songs at the Wall
 
@@ -1647,6 +1738,8 @@ The exact casualty count and supernatural claims around the relief remain open. 
 
 ^garden-g45
 
+*Atlas article:* [[G-45 - The Two Songs at the Wall|The Two Songs at the Wall]].
+
 ## G-46 — The Child Who Owed No Wound
 
 *Formerly: No Wound Inherits the Child.*
@@ -1682,6 +1775,8 @@ A scar-covering cloak is offered to any child leaving a violent house. It is ret
 Names, dynasty and later lives remain open. A wound, office, legendary persona and human soul remain distinct.
 
 ^garden-g46
+
+*Atlas article:* [[G-46 - The Child Who Owed No Wound|The Child Who Owed No Wound]].
 
 # IV. Fall, Reconquest, Split, High Noon, Reformation and Present
 
@@ -1721,6 +1816,8 @@ The crew's membership and relation to the Thirty Sisters remain unresolved. The 
 
 ^garden-g13
 
+*Atlas article:* [[G-13 - The Thirty-First Crew|The Thirty-First Crew]].
+
 ## G-14 — The Six at the Cinder Inn
 
 *Formerly: Six at the Cinder Inn.*
@@ -1756,6 +1853,8 @@ Six chipped bowls circle an inn hearth. Each local performance fills them with d
 Names, final fates, sainthood, damnation and any later survival in Egg White remain open. They were not one sacred roll and did not cause the whole Reconquest.
 
 ^garden-g14
+
+*Atlas article:* [[G-14 - The Six at the Cinder Inn|The Six at the Cinder Inn]].
 
 ## G-15 — The Last Common Road
 
@@ -1793,6 +1892,8 @@ The victim's identity and the friends' final reconciliation remain unsettled. Th
 
 ^garden-g15
 
+*Atlas article:* [[G-15 - The Last Common Road|The Last Common Road]].
+
 ## G-16 — The Forty-First Ferry
 
 *Formerly: Forty-First Ferry.*
@@ -1828,6 +1929,8 @@ Small blackened boat nails are pressed into funeral candles. Most are later copi
 The original boat, saintly claims and plague cause remain unsettled. The Quiet Ninth is not explained.
 
 ^garden-g16
+
+*Atlas article:* [[G-16 - The Forty-First Ferry|The Forty-First Ferry]].
 
 ## G-17 — The Company with No Charter
 
@@ -1865,6 +1968,8 @@ Every member, choice, fate and post-1360 outcome remains governed by the Forward
 
 ^garden-g17
 
+*Atlas article:* [[G-17 - The Company with No Charter|The Company with No Charter]].
+
 ## G-21 — The House That Could Not Be Returned
 
 *Formerly: The Unreturned Ledger.*
@@ -1900,6 +2005,8 @@ An old key is passed around the well before disputed houses change hands. Every 
 The house and claimants remain provisional. The tale does not decide all Reconquest titles or make every returner guilty and every steward innocent.
 
 ^garden-g21
+
+*Atlas article:* [[G-21 - The House That Could Not Be Returned|The House That Could Not Be Returned]].
 
 ## G-22 — The Three Nights While Years Passed
 
@@ -1937,6 +2044,8 @@ The orchard, keeper and time ratio remain unresolved. It was not a collective af
 
 ^garden-g22
 
+*Atlas article:* [[G-22 - The Three Nights While Years Passed|The Three Nights While Years Passed]].
+
 ## G-23 — The Citizen Who Gave Away a Name
 
 *Formerly: Nameless-Citizen Petition.*
@@ -1972,6 +2081,8 @@ An old coat shows blank human shapes on its medals whenever rain darkens the clo
 Every choice after 1360 remains open. The bargain grants civic obscurity, not soul erasure, and the false keeper's nature is unproved.
 
 ^garden-g23
+
+*Atlas article:* [[G-23 - The Citizen Who Gave Away a Name|The Citizen Who Gave Away a Name]].
 
 ## G-34 — The Faces Beneath the Victors
 
@@ -2009,6 +2120,8 @@ The signature's supernatural meaning and the general's later judgement remain op
 
 ^garden-g34
 
+*Atlas article:* [[G-34 - The Faces Beneath the Victors|The Faces Beneath the Victors]].
+
 ## G-35 — The Child's Cord at the Redoubt
 
 *Formerly: the Last-Redoubt Warden trace.*
@@ -2044,6 +2157,8 @@ Evacuation walls contain a knotted child's cord or its measured copy. Drills beg
 No hand relic or cord proves sainthood. The child, fort and warden's final fate remain provisional.
 
 ^garden-g35
+
+*Atlas article:* [[G-35 - The Child's Cord at the Redoubt|The Child's Cord at the Redoubt]].
 
 ## G-36 — The Black Eaves and the Uncommitted Crime
 
@@ -2081,6 +2196,8 @@ No forecast transfers guilt, compels its fulfilment or proves a Mask. The presen
 
 ^garden-g36
 
+*Atlas article:* [[G-36 - The Black Eaves and the Uncommitted Crime|The Black Eaves and the Uncommitted Crime]].
+
 ## G-37 — The Feast Followed by Ashen Names
 
 *Formerly: the paired feast of the Ashen-Wings Saint.*
@@ -2116,6 +2233,8 @@ Bright liberation bread is eaten publicly. The next morning, black bread made wi
 The commander's judgement, saintly identity and later manifestation remain open. No victim's alteration changes the person's human soul.
 
 ^garden-g37
+
+*Atlas article:* [[G-37 - The Feast Followed by Ashen Names|The Feast Followed by Ashen Names]].
 
 ## G-47 — Three Notes before the Spoils
 
@@ -2153,6 +2272,8 @@ No angelic commission or righteous Reconquest is established. The original horn,
 
 ^garden-g47
 
+*Atlas article:* [[G-47 - Three Notes before the Spoils|Three Notes before the Spoils]].
+
 ## G-48 — The Threshing Floor beyond the Count
 
 *Formerly: Floor Beyond the Count.*
@@ -2188,6 +2309,8 @@ After communal threshing, one circle of grain is left uncounted and distributed 
 The stopping agency and ruler's repentance remain unsettled. The tale does not explain the Grey Sweat or establish a reusable heavenly instrument.
 
 ^garden-g48
+
+*Atlas article:* [[G-48 - The Threshing Floor beyond the Count|The Threshing Floor beyond the Count]].
 
 ## G-49 — The Two Tags on One Dead Man
 
@@ -2225,6 +2348,8 @@ The present remedy and all post-1360 outcomes remain open. No supernatural guard
 
 ^garden-g49
 
+*Atlas article:* [[G-49 - The Two Tags on One Dead Man|The Two Tags on One Dead Man]].
+
 ## G-65 — The Returners' Second Sack
 
 *Formerly: The Returners' Second Sack.*
@@ -2260,6 +2385,8 @@ The hospital wall contains stones with two household marks, one scraped from the
 The town, army and final title settlement remain open. The episode neither invalidates the wider Reconquest nor creates hereditary guilt.
 
 ^garden-g65
+
+*Atlas article:* [[G-65 - The Returners' Second Sack|The Returners' Second Sack]].
 
 ## G-68 — The Three Knocks under the Mountain
 
@@ -2297,6 +2424,8 @@ No reusable Knocker species or hidden mine nation is created. Natural response, 
 
 ^garden-g68
 
+*Atlas article:* [[G-68 - The Three Knocks under the Mountain|The Three Knocks under the Mountain]].
+
 ## G-70 — The Empty Grave and the Two False Shrines
 
 *Formerly: Empty Grave Archive.*
@@ -2332,6 +2461,8 @@ A carefully lined empty grave receives uncarved stones. Any inscribed offering i
 The prisoner's last words, final judgement and body remain unknown. No shrine, image, Mask, office or relic is authenticated.
 
 ^garden-g70
+
+*Atlas article:* [[G-70 - The Empty Grave and the Two False Shrines|The Empty Grave and the Two False Shrines]].
 
 # V. Far-Distant and Otherworld Histories
 
@@ -2371,6 +2502,8 @@ The polity and Houses remain beyond known-world contact. The performances judge 
 
 ^garden-g50
 
+*Atlas article:* [[G-50 - The Three Deaths of Every Great House|The Three Deaths of Every Great House]].
+
 ## G-51 — The Cypress That Would Not Rot
 
 *Formerly: Still Cypress Vaults.*
@@ -2406,6 +2539,8 @@ Funeral roofs use paired cypress boards. One is fragrant; the other is allowed t
 No new Menhir is created, and no wood preserves a human soul. The local pressure and exact valley remain unresolved pending distant geography.
 
 ^garden-g51
+
+*Atlas article:* [[G-51 - The Cypress That Would Not Rot|The Cypress That Would Not Rot]].
 
 ## G-52 — The Ancestors Who Shared a Spelling Error
 
@@ -2443,6 +2578,8 @@ Each speaker must be judged on its own nature. The Court is not a collective hum
 
 ^garden-g52
 
+*Atlas article:* [[G-52 - The Ancestors Who Shared a Spelling Error|The Ancestors Who Shared a Spelling Error]].
+
 ## G-53 — The Fire of the Unclosed Line
 
 *Formerly: Unclosed Line.*
@@ -2478,6 +2615,8 @@ White-ash tattoos obscure old embalming signs. During mourning, wearers reveal o
 The purge was limited to one city and wards. It was not the Pale Hand, vampire origin or a civilisation-wide war; each person's identity and manner of survival remain separate.
 
 ^garden-g53
+
+*Atlas article:* [[G-53 - The Fire of the Unclosed Line|The Fire of the Unclosed Line]].
 
 ## G-54 — The Four Seals for the Uncertain Dead
 
@@ -2515,6 +2654,8 @@ No test is infallible. The order's names, present size and encountered beings re
 
 ^garden-g54
 
+*Atlas article:* [[G-54 - The Four Seals for the Uncertain Dead|The Four Seals for the Uncertain Dead]].
+
 ## G-55 — The Armour Worn by Strangers
 
 *Formerly: Mantle Houses.*
@@ -2550,6 +2691,8 @@ Visibly resized armour is danced by several living claimants. No performer wears
 No soul, saintly commission or metaphysical mantle transfers through the armour. The distant households and present bearers remain outside known-world contact.
 
 ^garden-g55
+
+*Atlas article:* [[G-55 - The Armour Worn by Strangers|The Armour Worn by Strangers]].
 
 # VI. Reclaimed from the Reserve
 
@@ -2587,6 +2730,8 @@ Five is mnemonic compression, not a fixed ancient constitution. No staff inherit
 
 ^garden-g71
 
+*Atlas article:* [[G-71 - The Five Staffs and the Empty Granary|The Five Staffs and the Empty Granary]].
+
 ## G-72 — The Hostage Children of Oak and Glass
 
 *Where it is told:* on one proto-Atherian–Folk border where fort households and an old great clan traded children to hold a truce.
@@ -2620,6 +2765,8 @@ Oak and green glass beads are tied together at hostage exchanges and border fost
 The fort, clan and children's later lives remain open. This was one border truce, not the source of all Folk–Atherian mixture.
 
 ^garden-g72
+
+*Atlas article:* [[G-72 - The Hostage Children of Oak and Glass|The Hostage Children of Oak and Glass]].
 
 ## G-73 — The Oar-King without a Country
 
@@ -2655,6 +2802,8 @@ The ruler, harbour and authentic oar remain provisional. He was not Aurelius Tha
 
 ^garden-g73
 
+*Atlas article:* [[G-73 - The Oar-King without a Country|The Oar-King without a Country]].
+
 ## G-74 — The Raid That Returned One Tool
 
 *Where it is told:* in a pre-imperial Arkenan–Saronikan island corridor and in court-side families descended from captured raiders.
@@ -2688,6 +2837,8 @@ A disputed sounding-weight answers one current sequence near one reef. Its wear 
 The tool, sea-king, stronghold and restitution remain unsettled. It grants no general sea mastery and commands neither Hecatara nor Thalassor.
 
 ^garden-g74
+
+*Atlas article:* [[G-74 - The Raid That Returned One Tool|The Raid That Returned One Tool]].
 
 ## G-75 — The Empty Oar of the Winter Tithe
 
@@ -2724,6 +2875,8 @@ Winter boats carry one deliberately empty rowing place. Nobody may be named as i
 The courts, family and road's present state remain open. The creditor is not Hell, the servants keep complete human souls, and rescue summons no Saint.
 
 ^garden-g75
+
+*Atlas article:* [[G-75 - The Empty Oar of the Winter Tithe|The Empty Oar of the Winter Tithe]].
 
 # How to Use the Garden
 

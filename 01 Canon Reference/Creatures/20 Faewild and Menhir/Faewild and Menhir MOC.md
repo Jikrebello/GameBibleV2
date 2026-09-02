@@ -13,6 +13,8 @@ tags: [core-canon]
 ---
 # Faewild and Menhir MOC
 
+Historical reading: [[Menhir Courts through the Ages]], within the [[World Historical Atlas MOC]].
+
 The Faewild is creation under concentrated natural and mythic law. Its beings are not automatically benevolent, corrupt, or divine. Menhir are intelligent but morally blind sovereignties; their courts are ecologies and observed affiliations rather than universal governments.
 
 ## Governing Rules

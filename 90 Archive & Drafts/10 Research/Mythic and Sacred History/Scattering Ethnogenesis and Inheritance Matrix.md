@@ -36,6 +36,9 @@ tags:
 ---
 # Scattering Ethnogenesis and Inheritance Matrix
 
+> [!info] Atlas integration
+> Current canonical destination: [[Peoples in the World Historical Atlas]]. This dossier retains its research history; former holds and promotion gates are superseded only where the [[World Historical Atlas - Integration and Coverage Ledger]] records an explicit outcome. Preliminary or rejected variants do not override their corrected descendants.
+
 > [!warning] Promotion provenance
 > This matrix records the implications and edit boundary of [[The Two Fissions and the Atherian Long Formation]]. The reviewed demographic skeleton entered controlling canon through [[The Two Fissions - Canon Promotion Review]]. Research-only names, detailed reconstructions and all twelve nursery hooks remain outside canon.
 

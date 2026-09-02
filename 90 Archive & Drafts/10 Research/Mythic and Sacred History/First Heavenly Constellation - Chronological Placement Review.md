@@ -34,6 +34,9 @@ tags:
 ---
 # First Heavenly Constellation - Chronological Placement Review
 
+> [!info] Atlas integration
+> Current canonical destination: [[Heavenly Campaigns and the Human Dead]]. This dossier retains its research history; former holds and promotion gates are superseded only where the [[World Historical Atlas - Integration and Coverage Ledger]] records an explicit outcome. Preliminary or rejected variants do not override their corrected descendants.
+
 ## Review Scope
 
 This ledger reviews all twelve placements in [[First Heavenly Constellation - Earth-First Historical Placement Pass]] before any Garden harvest. Each event must remain coherent as human history, preserve its source wound, fit the established chronology and maintain the categorical distinctions among `human-soul`, `created-spirit`, Saintly manifestation, angelic commission-body, Idol Mask, Patron, infernal office, relic, residue and institutional procedure.

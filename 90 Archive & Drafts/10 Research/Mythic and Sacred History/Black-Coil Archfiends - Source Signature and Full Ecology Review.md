@@ -37,6 +37,9 @@ tags:
 ---
 # Black-Coil Archfiends — Source Signature and Full Ecology Review
 
+> [!info] Atlas integration
+> Current canonical destination: [[Infernal Kings and the Wars of the Depth]]. This dossier retains its research history; former holds and promotion gates are superseded only where the [[World Historical Atlas - Integration and Coverage Ledger]] records an explicit outcome. Preliminary or rejected variants do not override their corrected descendants.
+
 ## Purpose and Result
 
 This review answers two problems left by [[Infernal Dominions and Black-Coil Archfiends - Collision Selection and Historical Placement Review]]:

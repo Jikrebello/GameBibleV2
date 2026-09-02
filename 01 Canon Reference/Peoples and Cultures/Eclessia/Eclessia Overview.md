@@ -15,6 +15,8 @@ tags: []
 ---
 # Eclessia Overview
 
+Historical reading: [[Historical Atlas of Eclessia]], within the [[World Historical Atlas MOC]].
+
 Eclessia is the eastern, church-bound inheritance of Atheria: a family of kingdoms, duchies, free cities, and frontier marches sharing one religious ancestry while disputing who may speak for it. Its institutional character is expressed through cathedral authority, parish life, relic courts, reform movements, feudal law, and competing crowns.
 
 ## Cultural Thesis

@@ -48,3 +48,19 @@ Boiling Sea routes transform Castara. It joins as the seventh seal in 1332 in ex
 - [[Chronology of the Known World (AR Dating)]]
 - [[The Seven-Seal Defensive Muster]]
 - [[The Making of the Sestaran Cities]]
+
+## Historical Atlas — wider inheritance
+
+Sestaran harbour populations are Braided peoples, not an ancient Atherian bloodline. Coastal refuge, occupation, commerce, intermarriage and locally defeated conquests produced different ports. The tradition of a harbour founded twice belongs to one such community and is not the literal origin of every city.
+
+Atherian influence left institutions and techniques without ending harbour independence or difference. The defensive compact of 908–909 joined distinct powers under the pressure of invasion. Vorthara's external seal did not place its domestic life under the same oversight. Later banking, craft and maritime expansion strengthened the cities without giving them uniform government.
+
+The Medori rise, Golden Book admission in 1238 and merchant-humanist flowering followed plague-era changes. Castara's routes and seventh seal in 1332 widened contact, profit and danger. Financial sophistication could support hospitals, armies and slavery at once. Mining, shipbuilding and household labour belong in this history as fully as credit.
+
+## Stories and neighbouring histories
+
+- [[G-58 - The Harbour Founded Twice|The Harbour Founded Twice]]
+- [[G-68 - The Three Knocks under the Mountain|The Three Knocks under the Mountain]]
+- [[G-49 - The Two Tags on One Dead Man|The Two Tags on One Dead Man]]
+- [[World Historical Atlas MOC]]
+- [[Peoples in the World Historical Atlas]]

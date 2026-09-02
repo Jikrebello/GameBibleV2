@@ -56,3 +56,21 @@ Five living great towers remain. Qiryath is empty by law. High Keeper Zerahiah h
 - [[Chronology of the Known World (AR Dating)]]
 - [[The Making of the Jirahar]]
 - [[Tower Towns and the Prophet's Roads]]
+
+## Historical Atlas — wider inheritance
+
+The Jirahar inherit the One Glass People's formation and the later Near-Glass fission, not an isolated original tribe which walked out already finished. Portable courts, route memory and translocal households acquired strength through water scarcity, distance and relations with neighbouring Tarkhan and Ahdari communities.
+
+Tower towns and Qiryath added urban and sanctuary histories to that mobile inheritance. The First Destruction in 742 BR, exile under Arqesh and later return preceded Atherian unification. The Second Qiryath's destruction in 70 AR and Vestian's persecutions in 377–395 caused different displacements and cannot be collapsed into one timeless exile.
+
+Communal descent and conversion law preserved identity across host societies. During the Long Frontier, translation, medicine, trade and household learning created several forms of public life; none defines every Jirahar person. Theological disagreement after the Redeemer never authorizes hereditary guilt. Their tales of strangers, family promises and unrecoverable homes belong beside the imperial histories which usually see only revolt and exile.
+
+## Stories and neighbouring histories
+
+- [[G-56 - The Empty Seat Facing Outward|The Empty Seat Facing Outward]]
+- [[G-59 - The Walking Court and the Wall That Stayed|The Walking Court and the Wall That Stayed]]
+- [[G-60 - The Bride of the Dry Road|The Bride of the Dry Road]]
+- [[G-04 - The Seven Who Stopped Seeking Home|The Seven Who Stopped Seeking Home]]
+- [[G-44 - Three Roads for One Cry|Three Roads for One Cry]]
+- [[World Historical Atlas MOC]]
+- [[Peoples in the World Historical Atlas]]

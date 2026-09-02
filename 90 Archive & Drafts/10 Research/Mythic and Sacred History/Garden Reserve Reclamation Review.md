@@ -23,6 +23,9 @@ tags:
 ---
 # Garden Reserve Reclamation Review
 
+> [!info] Atlas integration
+> Current canonical destination: [[World Historical Atlas - Integration and Coverage Ledger]]. This dossier retains its research history; former holds and promotion gates are superseded only where the [[World Historical Atlas - Integration and Coverage Ledger]] records an explicit outcome. Preliminary or rejected variants do not override their corrected descendants.
+
 > [!warning] Authorial reserve ledger
 > This review accounts for the principal reviewed-but-unselected nursery material after the narrative rebuild of [[The Historical Seed Garden]]. It changes no chronology, culture canon, protected Weird or post-1360 outcome.
 

@@ -43,6 +43,9 @@ tags:
 ---
 # Ark Humanity, Orphaned Remnants, and the Distant-Lands Gradient
 
+> [!info] Atlas integration
+> Current canonical destination: [[Peoples in the World Historical Atlas]]. This dossier retains its research history; former holds and promotion gates are superseded only where the [[World Historical Atlas - Integration and Coverage Ledger]] records an explicit outcome. Preliminary or rejected variants do not override their corrected descendants.
+
 > [!note] Sequence superseded — 2026-08-31
 > The Ark/Orphaned/Braided classification in this dossier remains controlling. Its older shorthand of a direct three-way post-Glass division is retained as research history but has been superseded by [[The Two Fissions - Canon Promotion Review]]: the southern proto-Atherian fission occurs first, and the Near-Glass continuum divides generations later.
 

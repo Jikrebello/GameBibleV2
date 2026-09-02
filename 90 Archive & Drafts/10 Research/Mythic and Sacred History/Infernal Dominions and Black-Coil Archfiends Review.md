@@ -36,6 +36,9 @@ tags:
 ---
 # Infernal Dominions and Black-Coil Archfiends Review
 
+> [!info] Atlas integration
+> Current canonical destination: [[Infernal Kings and the Wars of the Depth]]. This dossier retains its research history; former holds and promotion gates are superseded only where the [[World Historical Atlas - Integration and Coverage Ledger]] records an explicit outcome. Preliminary or rejected variants do not override their corrected descendants.
+
 ## Purpose and Status
 
 This is the fourth family review arising from [[Comparative Realms, Courts, and Sacred Warfare Atlas]]. It develops all twelve `HL-R` dominion leads and adds eighteen separate `AF-R` actor nurseries drawn from classic archdevil, demon-lord, bound-overlord and exiled-dark-sovereign grammars.

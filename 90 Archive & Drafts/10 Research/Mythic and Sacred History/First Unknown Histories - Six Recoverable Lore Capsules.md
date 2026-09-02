@@ -33,6 +33,9 @@ tags:
 ---
 # First Unknown Histories — Six Recoverable Lore Capsules
 
+> [!info] Atlas integration
+> Current canonical destination: [[Unknown Histories - Authorial Accounts]]. This dossier retains its research history; former holds and promotion gates are superseded only where the [[World Historical Atlas - Integration and Coverage Ledger]] records an explicit outcome. Preliminary or rejected variants do not override their corrected descendants.
+
 > [!warning] Nursery material
 > These six histories remain author-only exploratory truth and do not enter chronology or canon. [[Early-History Trace Promotion Review]] has planted one light trace from UH-01, UH-02, UH-03 and UH-05 in [[The Historical Seed Garden]] while withholding UH-04 and UH-06. No complete capsule, title, personal name, exact location or surviving institution is promoted.
 

@@ -62,3 +62,52 @@ Human communities outside the principal host are not rejected humanity. Some rev
 - [[Age of Scattering]]
 - [[Proto-Jirahar Tower Towns]]
 - [[Proto-Ahl-e-Ahd Desert Tribes]]
+
+## Atlas narrative
+
+The following account distinguishes established history from the received stories named within it.
+
+## Deliverance amid collapse
+
+The Exodus was the greatest deliberate convergence of liberated humanity, not the only place where humans survived. The Prophet gathered people from several imperial horizons while revolts, client defections, plagues and Giant civil wars disrupted the roads behind them. Families arrived with incompatible languages and skills. Some brought tools; some carried only children; others refused the gathering and defended the water systems on which their towns depended.
+
+The plagues exposed and broke particular systems. They did not abolish nature or give the Prophet a reusable weapon against every enemy. One Phoenix bore a regional judgement-and-restoration commission, supported by specialized heavenly servants. Selected Titan returns and pursuit systems were severed or bound. Anshara received no direct prophetic plague, and Nythalum's catastrophe remained a physical attempt to reach the Moon.
+
+## The refuge the Giants could not keep
+
+The Glass already existed. Giants had failed to settle it permanently. The Lord led the host into that feared country so that the collapse outside would not destroy it. Passage required preparation: carts, water skins, medicine, craft knowledge, camps and hard choices about what could be carried. Provision and signs met needs that these preparations could not meet; they did not make tired feet, mourning or childbirth disappear.
+
+[[G-03 - The Last Cart|The Last Cart]] is the best-known domestic image of the crossing. Its tellings disagree about the passengers and the axle, but agree that deliverance was not measured by how many useful workers reached the next camp. The oldest departure meals still break a wheel-shaped loaf for those least able to travel.
+
+## A people made in the Glass
+
+During approximately a century, c. 2265–2165 BR, the camp world became more than an emergency coalition. Children learned a common speech. Marriages joined former enemy subjects. Repeated worship, shared work, disputes, burial and the memory of provision formed one Glass People. Skilled households taught the next generation how to mend tools whose makers had remained outside. Old distinctions survived, but ceased to be sufficient descriptions of belonging.
+
+The Prophet lived long enough to become the last direct witness to the Giant world. Those around him knew it through his testimony, elders who died before him, surviving objects and family accounts. His death therefore removed both a leader and the last living bridge to a world nobody else could personally remember.
+
+## Outside the Ark
+
+The Orphaned peoples were not simply people who had missed the proper migration. Some survived behind defended walls; others retreated into forests, plateaus, coasts or underground routes. They preserved different fragments of Giant knowledge and lost others. Monsters, poisoned works and predatory survivors made recovery uneven. In some places an irrigated town persisted; a short journey away, people made stone tools beside an engine they could neither repair nor safely dismantle.
+
+The later Folk, Ättar, Tarkhan and Nsizwa arose principally from these separate reassemblies. They were never lesser fractions of a human soul. Ark descent preserved a particular witness and communal formation, not a monopoly on human dignity, skill or every possible kind of civilization.
+
+## Departure without a successor
+
+The Prophet left no inheritable commission. Camp commanders, judges, provisioners, archivists and household elders retained useful duties, but none became a second Prophet. The attempted common sanctuary after departure failed through successive disagreements over land, movement, stores, punishment and command. [[Age of Scattering]] begins in that failure and the world's geographical pressures, not in one meeting that divided three finished nations.
+
+## Atlas navigation
+
+- [[World Historical Atlas MOC]]
+- [[Myths and Legendary Histories MOC]]
+
+## Historical articles in this age
+
+- [[Great Glass Desert]]
+- [[The Glass Sojourn]]
+- [[The Great Unbinding]]
+
+## Local tales and surviving memories
+
+- [[G-03 - The Last Cart|The Last Cart]]
+
+Smaller local histories and restored reserve leads: [[Additional Mortal Lives and Frontier Traditions]].

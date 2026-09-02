@@ -25,6 +25,9 @@ tags:
 ---
 # Mythic and Sacred History Research MOC
 
+> [!info] Whole-world Atlas
+> [[World Historical Atlas MOC]] is now the readable canonical history entrance. All seventy-five Garden traditions have localized articles; the era portals and parallel histories cover the revised corpus. [[World Historical Atlas - Integration and Coverage Ledger]] records all 315 source identifiers and the final outcomes for 204 distinct reserve entries. Older queue lists below are the history of the research programme, not a renewed requirement to wait for campaign demand.
+
 ## Purpose
 
 This author-only workspace holds comparative research and provisional historical planting material. Its purpose is to give every age a reservoir of human-scale stories, sacred memories, folk heroes, companies, relics, contested chronicles, unexplained traces, and conflicts among created powers without prematurely fixing complete biographies or a secret cosmic master chronology.

@@ -36,6 +36,9 @@ tags:
 ---
 # Idol Heartlands, Masks, and Hunger Wars Review
 
+> [!info] Atlas integration
+> Current canonical destination: [[Idol Kingdoms and the Hunger Wars]]. This dossier retains its research history; former holds and promotion gates are superseded only where the [[World Historical Atlas - Integration and Coverage Ledger]] records an explicit outcome. Preliminary or rejected variants do not override their corrected descendants.
+
 ## Purpose and Status
 
 This is the sixth and final family review arising from [[Comparative Realms, Courts, and Sacred Warfare Atlas]]. It develops all ten `ID-R` leads into usable political and historical nurseries without turning the seven Idols into emotion-created gods, equal cosmic nations or one council of evil divinities.

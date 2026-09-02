@@ -28,6 +28,9 @@ tags:
 ---
 # Menhir Courts, Jurisdictions, and High Hunts Review
 
+> [!info] Atlas integration
+> Current canonical destination: [[Menhir Courts through the Ages]]. This dossier retains its research history; former holds and promotion gates are superseded only where the [[World Historical Atlas - Integration and Coverage Ledger]] records an explicit outcome. Preliminary or rejected variants do not override their corrected descendants.
+
 ## Purpose and Status
 
 This is the third family review arising from [[Comparative Realms, Courts, and Sacred Warfare Atlas]]. It develops the twelve `MN-R` leads without turning the Faewild into one fairy empire, treating court titles as proof of literal monarchy, or making the Menhir into mindless outer gods.

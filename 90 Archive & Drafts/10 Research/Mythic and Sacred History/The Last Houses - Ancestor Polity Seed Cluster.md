@@ -32,6 +32,9 @@ tags:
 ---
 # The Last Houses — Ancestor Polity Seed Cluster
 
+> [!info] Atlas integration
+> Current canonical destination: [[The Last Houses and the Cypress Commonwealth]]. This dossier retains its research history; former holds and promotion gates are superseded only where the [[World Historical Atlas - Integration and Coverage Ledger]] records an explicit outcome. Preliminary or rejected variants do not override their corrected descendants.
+
 > [!warning] Nursery material
 > This cluster is an author-only World Egg translation of selected Aerenal functions. It is not a canon culture, mapped state, fixed history, or declaration that human institutions can preserve, recall, employ, or govern human souls.
 

@@ -20,6 +20,9 @@ tags:
 ---
 # Source-Fidelity and Mythic Hardening Ledger
 
+> [!info] Atlas integration
+> Current canonical destination: [[World Historical Atlas - Integration and Coverage Ledger]]. This dossier retains its research history; former holds and promotion gates are superseded only where the [[World Historical Atlas - Integration and Coverage Ledger]] records an explicit outcome. Preliminary or rejected variants do not override their corrected descendants.
+
 This is the controlling parity audit for the original whole-history human nursery. It does not canonize a card, name a participant, promote a succession, or override a card's `retain`, `revise`, or `defer` disposition. The twelve subsequently planted nonhuman and great-power beds receive their single rulings in [[Great-Power Mythic Ecology and Planting Matrix#Source-Fidelity Rulings]] rather than being duplicated here.
 
 ## Ruling

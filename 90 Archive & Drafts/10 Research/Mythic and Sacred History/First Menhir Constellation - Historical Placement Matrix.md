@@ -47,6 +47,9 @@ tags:
 ---
 # First Menhir Constellation — Historical Placement Matrix
 
+> [!info] Atlas integration
+> Current canonical destination: [[Menhir Courts through the Ages]]. This dossier retains its research history; former holds and promotion gates are superseded only where the [[World Historical Atlas - Integration and Coverage Ledger]] records an explicit outcome. Preliminary or rejected variants do not override their corrected descendants.
+
 ## Purpose and Status
 
 This pass gives six reviewed nurseries from [[Menhir Courts, Jurisdictions, and High Hunts Review]] provisional historical soil. It places one episode in each of six chronological and geographic apertures without promoting the episodes into canon or [[The Historical Seed Garden]].

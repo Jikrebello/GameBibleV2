@@ -38,6 +38,9 @@ tags:
 ---
 # Saints, Threshold Orders, and Heavenly Campaigns Review
 
+> [!info] Atlas integration
+> Current canonical destination: [[Heavenly Campaigns and the Human Dead]]. This dossier retains its research history; former holds and promotion gates are superseded only where the [[World Historical Atlas - Integration and Coverage Ledger]] records an explicit outcome. Preliminary or rejected variants do not override their corrected descendants.
+
 ## Purpose and Status
 
 This is the first family review arising from [[Comparative Realms, Courts, and Sacred Warfare Atlas]]. It takes the twelve `ST-R` research leads and determines which are worth retaining, which require revision, and how they can enter history without confusing living institutions, redeemed saints, true angels, impersonal soul-road offices, relic effects, and hostile counterfeits.

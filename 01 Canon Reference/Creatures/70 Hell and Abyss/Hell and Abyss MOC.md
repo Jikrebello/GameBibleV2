@@ -13,6 +13,8 @@ tags: [core-canon]
 ---
 # Hell and Abyss MOC
 
+Historical reading: [[Infernal Kings and the Wars of the Depth]], within the [[World Historical Atlas MOC]].
+
 Hell is the mapped destination and ecology of completed refusal. The Abyss lies beyond it as anti-place and causal injury. `Fiend` remains a useful creator term, but no single ancestry, empire, or chain of command unites the beings catalogued here.
 
 ## Doctrine and Topology

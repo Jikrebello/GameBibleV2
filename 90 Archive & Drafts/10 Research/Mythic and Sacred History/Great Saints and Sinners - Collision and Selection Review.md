@@ -34,6 +34,9 @@ tags:
 ---
 # Great Saints and Sinners — Collision and Selection Review
 
+> [!info] Atlas integration
+> Current canonical destination: [[Great Saints and Sinners - Lives and Afterlives]]. This dossier retains its research history; former holds and promotion gates are superseded only where the [[World Historical Atlas - Integration and Coverage Ledger]] records an explicit outcome. Preliminary or rejected variants do not override their corrected descendants.
+
 ## Review Ruling
 
 The Primarch material is useful as a library of **eighteen distinct figure grammars and two distinct absence grammars**. It is not useful as a literal roster, divine family, fixed set of factions, universal rebellion, or equal division between good and evil.

@@ -14,7 +14,7 @@ tags: []
 ---
 # Chronology of the Known World (AR Dating)
 
-This is the authoritative AR chronology. [[Named Figures of the Known World]] provides the biographical register, while [[Real-History Concordance]] holds creator-facing historical analogues. The Great Split occurred 345 years before the present day.
+This is the authoritative AR chronology. [[World Historical Atlas MOC]] expands its periods into connected histories, peoples, local traditions and otherworld sequences. [[Named Figures of the Known World]] provides the biographical register, while [[Real-History Concordance]] holds creator-facing historical analogues. The Great Split occurred 345 years before the present day.
 
 ## The Dating System
 
@@ -77,7 +77,9 @@ The civilized world dates from the execution and resurrection of Isfir the Redee
 - **601 AR — Emirate of Zanthir established.** **c. 610 AR — the Velian States** installed under the **Banu Mizan**.
 - **612 AR — The Long Frontier Peace begins.**
 
-## The Long Frontier (612–900 AR)
+## The Long Frontier and Renewed War (612–905 AR)
+
+The Long Frontier proper is 612–884 AR; the later entries describe the renewed war which ends in the Fall.
 
 - **612–870 AR — Coexistence and friction.** The Banu Mizan golden age: translation houses, water-courts, libraries. **Rab Yequtiel of Zanthir** (c. 748–831) writes the *Guide for the Wandering*.
 - **874–878 AR — Second Crusade.** The attempt on the Velian States collapses.
@@ -162,3 +164,10 @@ Fall to coronation: 17 years. Caedros I dies at 62 in the assault he insisted on
 - [[The Great Split — Two Crowns, One Fire]]
 - [[Real-History Concordance]]
 - [[Timeline MOC]]
+
+
+## Local histories beneath the dated spine
+
+The Atlas adds local events at the scale of settlements, households and campaigns without moving the controlling dates above. [[River Leagues and Sea-Kings of the Early World]], [[Towns and Wars of the Long Frontier]] and [[High Noon Provinces and the Qarath Aftermath]] develop the principal thin periods. [[Distant Lands and Otherworld Histories]] uses relative sequences where no AR correspondence is established.
+
+The seventy-five [[Myths and Legendary Histories MOC|localized traditions]] are not seventy-five new datable historical certainties. Their articles distinguish real inherited practices from disputed stories. Six [[Unknown Histories - Authorial Accounts|hidden events]] have separate authorial accounts. None explains a protected Weird or changes a post-1360 outcome.

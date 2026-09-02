@@ -59,3 +59,53 @@ The Freeflame movement rejects both custody claims outright: the Flame kindles w
 - [[Real-History Concordance]]
 - [[White Flame Doctrine]]
 - [[Theological Schism with Eclessia]]
+
+## Atlas narrative
+
+The following account distinguishes established history from the received stories named within it.
+
+## A division lived before and after 1015
+
+The Great Split has a fixed public date, but its causes and consequences span generations. Adalmar's consolidation, the two imperial claims, the Lamp Controversy, jurisdiction over churches and genuine theological disputes changed relationships long before the anathemas. Families could share a feast and disagree about the bishop whose name should be spoken over it.
+
+The existing Kindling Question controls the dispute. Older Procession shorthand must not replace it. Neither church's case can be dismissed as one missed message, a private insult or a conspiracy which a single adventuring company might have prevented.
+
+## Crowns, lamps and households
+
+Adalmar's coronation in 1002 made the Two Emperors problem unavoidable. Leovar III's First Breaking attacked made vessels of the Fire; Anthe's restoration at the Council of the Thousand Lamps in 1013 reversed it. The Second Breaking of 1029–1052 ended under Theodosia the Kindler. These reversals affected craftsmen, servants, congregations and families who had kept or destroyed images at a ruler's command.
+
+After 1015, shrines were seized, clergy imprisoned, worshippers beaten and corpses or relics desecrated. Mob killing occurred among communities which had previously travelled together. [[G-15 - The Last Common Road|The Last Common Road]] keeps the broken friendship rather than proposing that friendship alone could have settled the theology.
+
+## The common dead
+
+Both churches inherited Saints who had lived before their division. Neither could compel those persons to validate a military seizure. In one landlocked frontier fortress a genuine pre-Split Saint protected prisoners from both sides while useful partisan wonders came from a Patron and an Idol Mask. Both hierarchies suppressed inconvenient testimony. That event is distinct from the Saint of the Two Ferries and does not explain the Bells of the Split.
+
+The War for the Common Saints names recurrent conflicts over these inheritances, not one coordinated supernatural war. A commission at a prison proves the rescue actually given. It does not award every disputed see to the rescuers' preferred church.
+
+## New political identities
+
+The partition of Adalmarid lands and later struggles did not leave an empty east waiting for a new unifier. Kingdoms and duchies developed their own loyalties. In 1061, the Vesari choosing at Strazgorod joined dynastic advantage to religious allegiance: the crown accepted the Sanctum while much popular devotion retained an eastern flavour.
+
+The Judge Beneath the Black Eaves arose in towns wounded by the Split. Predictive punishment turned fear of tomorrow into torture and murder today. The later prohibition against conviction for “the future fact” has force because of those bodies, not because its wording is elegant.
+
+## An unfinished inheritance
+
+When the Crown of Embers passed into trust in 1104, reunion remained a political and religious ambition without one accepted ruler. The age led into [[High Noon and the Qarath Disaster]], not an immediate stable settlement. Two churches retained genuine arguments, remembered wrongs and compromised institutions. The faithful on either side could not inherit innocence simply by inheriting a rite.
+
+## Atlas navigation
+
+- [[World Historical Atlas MOC]]
+- [[Myths and Legendary Histories MOC]]
+
+## Historical articles in this age
+
+- [[The Coronation at Virelos]]
+
+## Local tales and surviving memories
+
+- [[G-15 - The Last Common Road|The Last Common Road]]
+- [[G-36 - The Black Eaves and the Uncommitted Crime|The Black Eaves and the Uncommitted Crime]]
+
+Smaller local histories and restored reserve leads: [[Additional Mortal Lives and Frontier Traditions]].
+
+Lives with independent later histories: [[Great Saints and Sinners - Lives and Afterlives]].

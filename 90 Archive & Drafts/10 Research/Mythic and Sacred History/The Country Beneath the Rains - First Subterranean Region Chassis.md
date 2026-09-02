@@ -38,6 +38,9 @@ tags:
 ---
 # The Country Beneath the Rains — First Subterranean Region Chassis
 
+> [!info] Atlas integration
+> Current canonical destination: [[The Country Beneath the Rains - Peoples and History]]. This dossier retains its research history; former holds and promotion gates are superseded only where the [[World Historical Atlas - Integration and Coverage Ledger]] records an explicit outcome. Preliminary or rejected variants do not override their corrected descendants.
+
 > [!warning] Provisional expansion region
 > **The Country Beneath the Rains** is an authorial working name for the first full subterranean-region test. It does not create a canon continent, map site, culture, Giant polity, Menhir, Patron or present-day first contact. Its names, dimensions and actors remain provisional.
 

@@ -31,6 +31,9 @@ tags:
 ---
 # First Idol Constellation — Collision and Disposition Review
 
+> [!info] Atlas integration
+> Current canonical destination: [[Idol Kingdoms and the Hunger Wars]]. This dossier retains its research history; former holds and promotion gates are superseded only where the [[World Historical Atlas - Integration and Coverage Ledger]] records an explicit outcome. Preliminary or rejected variants do not override their corrected descendants.
+
 ## Purpose and Result
 
 This ledger reviews the four provisional histories in [[First Idol Constellation - Historical Placement Matrix]] against their source nurseries, historical neighbors, existing Mask ecologies, erased-person mysteries and succession boundaries.

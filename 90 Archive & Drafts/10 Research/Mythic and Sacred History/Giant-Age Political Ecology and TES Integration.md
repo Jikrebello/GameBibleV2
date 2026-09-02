@@ -35,6 +35,9 @@ tags:
 ---
 # Giant-Age Political Ecology and TES Integration
 
+> [!info] Atlas integration
+> Current canonical destination: [[Lesser Crowns of the Giant Age]]. This dossier retains its research history; former holds and promotion gates are superseded only where the [[World Historical Atlas - Integration and Coverage Ledger]] records an explicit outcome. Preliminary or rejected variants do not override their corrected descendants.
+
 ## Status and Controlling Proposal
 
 This is an author-only expansion bed. The Giant descent rules, Five Imperial Horizons, many-state political model, categorical continuities, Nythalum lunar boundary, and five broad imperial genealogies have been promoted into controlling canon. The provisional polities, working chronology, rulers, borders, actor identities, and specific Egg White outcomes in this dossier remain exploratory. Nothing here settles a protected Weird, identifies Anshara's final sovereign or capital, or assigns a new polity as the ancestor of a later people.

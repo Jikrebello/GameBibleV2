@@ -13,6 +13,8 @@ tags: []
 ---
 # Timeline MOC
 
+[[World Historical Atlas MOC]] is the expanded readable history of the world. This page remains the compact chronology entrance; the Atlas adds era portals, culture histories, legendary cycles and distant or otherworld histories.
+
 ## Physical Library
 
 - **10 Chronology and Control:** master chronology, historical spine, named figures, and author-only concordance.
@@ -22,6 +24,9 @@ tags: []
 - **50 Redeemer and Conversion:** the Redeemer, companions, persecution, and conversion.
 - **60 Fall and Successor Empires:** invasion, collapse, restoration, and the Great Split.
 - **70 Later History and Present Day:** plague, reform, confessional settlement, rulers, and current political pressures.
+
+- **80 Myths and Legendary Histories:** seventy-five localized traditions, Great Saints and Sinners, heavenly episodes and authorial unknown histories.
+- **90 Distant and Otherworld Histories:** parallel histories of courts, cities, distant peoples, lunar survivors and constructed refuges.
 
 ## Main Timeline
 

@@ -28,6 +28,9 @@ tags:
 ---
 # Orthodox Heavenly Canon Reconciliation and Combined Celestial Collision Review
 
+> [!info] Atlas integration
+> Current canonical destination: [[Heavenly Campaigns and the Human Dead]]. This dossier retains its research history; former holds and promotion gates are superseded only where the [[World Historical Atlas - Integration and Coverage Ledger]] records an explicit outcome. Preliminary or rejected variants do not override their corrected descendants.
+
 ## Purpose and Result
 
 This review closes the controlling Orthodox angelology questions, then collision-tests all fourteen leads from [[Comparative Celestials and Heavenly Translation Atlas]] and all fourteen leads from [[Orthodox Biblical Angels and Heavenly Powers Atlas]] as one nursery.

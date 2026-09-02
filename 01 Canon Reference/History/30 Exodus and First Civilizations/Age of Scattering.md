@@ -94,3 +94,64 @@ Every human culture descends from people who survived the end of Giant rule, but
 - [[Age of Hearths and First Kings]]
 - [[Early Folk Clan Worlds]]
 - [[The First Atherian City-States]]
+
+## Atlas narrative
+
+The following account distinguishes established history from the received stories named within it.
+
+## One people, several directions
+
+Scattering was a long separation of households which continued to trade, marry and quarrel. After c. 2165 BR, no office could make the whole Glass People move together. A commander could defend a camp but could not inherit the Prophet's voice. A keeper of the old routes could preserve testimony but could not feed every settlement. Arguments about fidelity became arguments about where children would live through the next season.
+
+The tradition of [[G-71 - The Five Staffs and the Empty Granary|the Five Staffs]] remembers an expedition taking grain before the rear camps' dependants had been counted. Children died while officials disputed whether the expedition had exceeded its power. The story explains why emergency authority became feared; it does not establish five permanent offices for every Ark descendant.
+
+## The southern departure
+
+Between c. 2130 and 2050 BR, captains, craftsmen and displaced households increasingly chose permanent settlements south of the Glass. They wanted fields, captured infrastructure and defensible crossings. Their relatives nearer the refuge preferred portable institutions and familiar routes. Neither side left all at once. Southern settlers still sent marriage partners and gifts north; camp families used forts they claimed to distrust.
+
+The Southern Seizures, c. 2050–1900 BR, entered inhabited land. Forts were taken through battle, betrayal and negotiated admission. Victors massacred defenders, enslaved families and seized cultivated land. Hosts also defeated settlers, took their children as hostages, adopted useful strangers or married into new ruling houses. Some settlements vanished after one generation. Others became genuinely mixed towns whose descendants could not separate conquest from belonging.
+
+[[G-57 - The Gate Opened during Supper|The Gate Opened during Supper]], [[G-58 - The Harbour Founded Twice|The Harbour Founded Twice]] and [[G-72 - The Hostage Children of Oak and Glass|the Hostage Children]] preserve different parts of this experience. They are not three names for one founding event.
+
+## The later northern fission
+
+The Near-Glass continuum endured after the southern departure. Its later division, c. 1950–1750 BR, grew from water scarcity, distance and sustained contact with active Tarkhan societies. Some communities invested in travelling judgement, remembered routes and households able to cross political boundaries. Others invested in wells, walls, territorial oaths and restitution that could be enforced without moving away.
+
+These tendencies contributed to proto-Jirahar and proto-Ahl-e-Ahd formation. They were not hereditary temperaments or the decisions of two founding brothers. [[G-59 - The Walking Court and the Wall That Stayed|The Walking Court and the Wall That Stayed]] remembers relatives making opposite choices during a raid: each saved some people and failed others. The surviving funeral custom lays one staff along the road and one stone facing the danger.
+
+## The world beyond those divisions
+
+Folk clan worlds and the emerging Ättar halls were independently rebuilding southern landscapes. Tarkhan well communities and hunters were remaking dry-country routes. Nsizwa ancestors joined plateau, cattle and burial communities in the far southwest. These histories did not wait for Atherians to arrive.
+
+Braided peoples emerged through later mixture rather than an original third or fourth Ark branch. Harbour populations which eventually entered the Sestaran world, the Vesari and later Eclessians inherited several lines of experience. Language, political citizenship, worship and ancestry often changed at different speeds.
+
+## Memory after separation
+
+Founding marriages made slaughter easier to forget. [[G-63 - The Peace Feast at Nine Hearths|Nine Hearths]] preserves the darker reverse: an assault upon a refugee woman, deceptive admission, collective killing and enslavement later remembered as a peaceful union. No community inherits collective guilt merely by descending from its survivors. But its laws and wealth may still inherit the consequences.
+
+The Year of Standing Stars belongs somewhere within these overlapping centuries. No marriage, migration or new interpretation of the fissions explains it.
+
+## Atlas navigation
+
+- [[World Historical Atlas MOC]]
+- [[Myths and Legendary Histories MOC]]
+
+## Historical articles in this age
+
+- [[Ancient and Early Historic Ages]]
+- [[Proto-Ahl-e-Ahd Desert Tribes]]
+
+## Local tales and surviving memories
+
+- [[G-04 - The Seven Who Stopped Seeking Home|The Seven Who Stopped Seeking Home]]
+- [[G-19 - The Hearth Carried Twice|The Hearth Carried Twice]]
+- [[G-56 - The Empty Seat Facing Outward|The Empty Seat Facing Outward]]
+- [[G-57 - The Gate Opened during Supper|The Gate Opened during Supper]]
+- [[G-58 - The Harbour Founded Twice|The Harbour Founded Twice]]
+- [[G-59 - The Walking Court and the Wall That Stayed|The Walking Court and the Wall That Stayed]]
+- [[G-60 - The Bride of the Dry Road|The Bride of the Dry Road]]
+- [[G-63 - The Peace Feast at Nine Hearths|The Peace Feast at Nine Hearths]]
+- [[G-71 - The Five Staffs and the Empty Granary|The Five Staffs and the Empty Granary]]
+- [[G-72 - The Hostage Children of Oak and Glass|The Hostage Children of Oak and Glass]]
+
+Smaller local histories and restored reserve leads: [[Additional Mortal Lives and Frontier Traditions]].

@@ -48,3 +48,21 @@ The Tarkhan divide into four hordes. Qahirid rulers recover influence through Gu
 - [[Chronology of the Known World (AR Dating)]]
 - [[The Making of the Covenant Peoples]]
 - [[The Disputed Fourth Seal]]
+
+## Historical Atlas — wider inheritance
+
+The Covenant peoples did not emerge as an immediate third branch at the Prophet's death. Their Ahdari predecessors formed during the later northern fission, when defended wells, territorial oaths and enforceable restitution offered an alternative to more mobile Near-Glass institutions. Tarkhan neighbours traded, married, raided and negotiated on their own behalf.
+
+Mujalib's revelation in 541 AR transformed that inheritance rather than inventing water society from nothing. Conquest, Al-Qahur's foundation and the First Unsealing made an imperial-confessional identity capable of admitting several peoples. The Nine Wells seizure in 558 remained a violent act even when later historians called it consent. The Long Frontier allowed translation, irrigation and mixed households to flourish alongside captivity, ransom and legal coercion.
+
+The Qahirid resurgence and Fall of Caleran enlarged the empire; later prosperity under Suhrab did not prevent fragmentation. In 1360, Qahuri, Iqashari, Qazmari, Ahdari, Zanthiri and other communities do not share one ancestry or one uncontested ruler. The Creditor's authorial secret does not make all believers knowing accomplices.
+
+## Stories and neighbouring histories
+
+- [[G-59 - The Walking Court and the Wall That Stayed|The Walking Court and the Wall That Stayed]]
+- [[G-60 - The Bride of the Dry Road|The Bride of the Dry Road]]
+- [[G-12 - The Four Who Brought Water|The Four Who Brought Water]]
+- [[G-30 - The Clerk Who Would Not Stop|The Clerk Who Would Not Stop]]
+- [[G-31 - The Bitter Cup of the Reaper|The Bitter Cup of the Reaper]]
+- [[World Historical Atlas MOC]]
+- [[Peoples in the World Historical Atlas]]

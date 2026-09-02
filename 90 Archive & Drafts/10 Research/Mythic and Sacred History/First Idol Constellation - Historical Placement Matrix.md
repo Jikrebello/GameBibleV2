@@ -42,6 +42,9 @@ tags:
 ---
 # First Idol Constellation — Historical Placement Matrix
 
+> [!info] Atlas integration
+> Current canonical destination: [[Idol Kingdoms and the Hunger Wars]]. This dossier retains its research history; former holds and promotion gates are superseded only where the [[World Historical Atlas - Integration and Coverage Ledger]] records an explicit outcome. Preliminary or rejected variants do not override their corrected descendants.
+
 ## Purpose and Status
 
 This pass gives four reviewed nurseries from [[Idol Heartlands, Masks, and Hunger Wars Review]] provisional historical soil. It selects one episode in each chronological block while leaving six reviewed Idol leads unplaced.

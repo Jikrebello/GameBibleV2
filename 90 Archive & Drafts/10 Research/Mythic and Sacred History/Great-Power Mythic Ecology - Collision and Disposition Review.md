@@ -33,6 +33,9 @@ tags:
 ---
 # Great-Power Mythic Ecology — Collision and Disposition Review
 
+> [!info] Atlas integration
+> Current canonical destination: [[Distant Lands and Otherworld Histories]]. This dossier retains its research history; former holds and promotion gates are superseded only where the [[World Historical Atlas - Integration and Coverage Ledger]] records an explicit outcome. Preliminary or rejected variants do not override their corrected descendants.
+
 ## Scope
 
 This review tests the twelve great-power beds together before any further nonhuman history is planted. It asks whether each title describes a useful recurring conflict ecology, whether dependent historical episodes remain separate, whether every actor retains the correct continuity, and whether the bed still works without becoming one hidden war behind human history.

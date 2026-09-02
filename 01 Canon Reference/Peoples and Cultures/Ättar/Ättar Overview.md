@@ -14,6 +14,8 @@ tags: []
 ---
 # Ättar Overview
 
+Historical reading: [[Historical Spine of the Ättar]], within the [[World Historical Atlas MOC]].
+
 The **Ättar** are a southern maritime people of rival halls, raiding fleets, fortified valleys, moon-bound rulers, and annual war against the Grobi. They share language, law, four great totem-kindreds, and the ancient bargain with [[Mother Moon]], but they have no universal king, state, or common foreign policy.
 
 An Ättar normally belongs first to a household and hall, then to a regional kindred. The four kindreds are not nations: [[Lion-Mane Coast]], [[Hornwall Valleys]], [[Bearshield Holds]], and [[Grey-Wolf Range]] each contain feuding halls, jarldoms, free farmers, dependants, freed families, and thralls.

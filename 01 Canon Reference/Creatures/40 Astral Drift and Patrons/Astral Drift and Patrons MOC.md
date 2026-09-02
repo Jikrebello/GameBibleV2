@@ -13,6 +13,8 @@ tags: []
 ---
 # Astral Drift and Patrons MOC
 
+Historical reading: [[Patron Cities and the Long Rent Histories]], within the [[World Historical Atlas MOC]].
+
 This is the controlling register for exactly **18 genuine Astral forms**. Patrons, demiplanes, cities, and indexes do not contribute creature coverage.
 
 ## Governing References
