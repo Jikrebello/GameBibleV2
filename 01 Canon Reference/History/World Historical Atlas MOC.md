@@ -13,54 +13,58 @@ tags: [world-historical-atlas]
 ---
 # World Historical Atlas
 
-This is the connected history of the World Egg: the fall of the Giant world, the making of human peoples, their kingdoms and empires, and the histories of powers beyond ordinary human sight. Begin with an age, a people or a tale and follow its surviving relationships.
+The World Historical Atlas follows the history of the World Egg from Creation to 1360 AR. Its articles describe the Giant empires, the formation of human peoples, the growth and decline of states, and the histories of powers beyond the ordinary human world. Regional accounts connect these larger changes with households, settlements, work, religious practice and remembered lives.
 
-[[Timeline MOC]] remains the compact chronological entrance. [[Chronology of the Known World (AR Dating)]] remains the controlling dated spine. The Atlas expands those histories; it does not introduce a second calendar.
+Readers can begin with a period, a people, a place or a tale. [[Timeline MOC]] provides the compact chronological route, and [[Chronology of the Known World (AR Dating)]] supplies the dated sequence used throughout the Atlas.
 
-## How to read the histories
+## Historical accounts and remembered traditions
 
-**What happened** is established authorial history. **What people remember** is reliable but incomplete, shaped by culture and survival. **Stories told** are real traditions whose literal events may be disputed. **What remains unknown** is genuinely unanswered, sometimes protected from an authorial explanation.
+The articles distinguish four kinds of account. **What happened** is established authorial history. **What people remember** is reliable but partial knowledge shaped by surviving witnesses and cultural memory. **Stories told** are traditions whose existence is established, although their events may be disputed. **What remains unknown** identifies unanswered questions, including protected mysteries.
 
-A village can really preserve a broken tool and sing about a murdered founder without its tool being a genuine relic or every verse being true. Where the truth would spoil a living mystery, an explicitly author-only account carries it separately. Knowledge available to the author is never automatically knowledge available in 1360.
+A community may preserve both an object and a story about it while disagreeing about their relationship. A broken tool can have a well-attested local history and an uncertain claim to sanctity. The articles retain these differences where they matter to understanding the subject. Author-only accounts hold information unavailable to people living in 1360.
 
 ## Through the ages
-- [[Creation and the First Rebellions]] — The creation boundaries, primordial rebellion and later contradictory memories.
-- [[Age of Chains]] — Giant dynasties, lesser kingdoms, captive households and the first resistance.
-- [[Age of Exodus]] — Collapse, pursuit, the protected Glass refuge and the making of one people.
-- [[Age of Scattering]] — Successive departures, disputed leadership and two gradual fissions.
-- [[Age of Hearths and First Kings]] — Local kings, related but independent peoples, sea-kings and dangerous hospitality.
-- [[Age of City-States]] — Rival ports, tower towns, leagues, conquest and civic invention.
-- [[Age of Stars]] — Imperial measurement, synthesis, exile, restoration and the cost of roads.
-- [[Atherian Imperial Age]] — Caleran government, incorporation, provincial ambitions and the Age of Glory.
-- [[The Age of the Redeemer]] — The Redeemer, closed Companion roll, persecution and ordinary surviving households.
-- [[The Conversion of the Empire]] — Legalization, temple destruction, real repentance and harms it could not undo.
-- [[The Long Frontier and the First Unsealing]] — Covenant expansion, border societies, ordinary coexistence and renewed warfare.
-- [[The Fall and the Long Reconquest]] — Invasion, refugees, mountain resistance and restoration across generations.
-- [[The Great Split — Two Crowns, One Fire]] — Two crowns, divided churches and friends who could not save their common world.
-- [[High Noon and the Qarath Disaster]] — The imperial apex, Qarath, local decline and the plague years.
-- [[The Age of Held Proofs]] — Reformation, the Accord and the unresolved inheritances of 1360.
-- [[Distant Lands and Otherworld Histories]] — Locally dated and otherworld sequences which do not revolve around the empires.
 
-## People, power and ordinary inheritance
+- [[Creation and the First Rebellions]] — Creation, primordial rebellion and the later traditions through which peoples remember them.
+- [[Age of Chains]] — Giant dynasties, lesser kingdoms, captive households and resistance.
+- [[Age of Exodus]] — The collapse of Giant rule, pursuit, the Glass refuge and the formation of one people.
+- [[Age of Scattering]] — Disputed leadership, successive departures and two gradual fissions.
+- [[Age of Hearths and First Kings]] — Local rulers, related but independent peoples, maritime societies and household traditions.
+- [[Age of City-States]] — Ports, tower towns, leagues, conquest and civic development.
+- [[Age of Stars]] — Atherian synthesis, roads, exile, restoration and the expansion of public institutions.
+- [[Atherian Imperial Age]] — Caleran, provincial society and the Age of Glory.
+- [[The Age of the Redeemer]] — The Redeemer, his Companions, persecution and the communities that survived it.
+- [[The Conversion of the Empire]] — Legalization, compulsory conversion, temple destruction and religious change.
+- [[The Long Frontier and the First Unsealing]] — Covenant expansion, border societies, shared work and renewed warfare.
+- [[The Fall and the Long Reconquest]] — Invasion, refugees, mountain resistance and the recovery of provinces across generations.
+- [[The Great Split — Two Crowns, One Fire]] — The division of crowns and churches, and its consequences for connected communities.
+- [[High Noon and the Qarath Disaster]] — Imperial strength, military disaster, decline and the plague years.
+- [[The Age of Held Proofs]] — Reformation, the Accord and the inherited circumstances of 1360.
+- [[Distant Lands and Otherworld Histories]] — Distant local chronologies and the sequences of realms beyond the Material world.
 
-- [[Peoples in the World Historical Atlas]] — the eleven culture histories; Ark-derived, Orphaned and Braided inheritances.
-- [[Lesser Crowns of the Giant Age]] — eighteen secondary polities within the Five Imperial Horizons.
-- [[Named Figures of the Known World]] — established rulers, teachers, commanders and historical epithets.
-- [[Great Saints and Sinners - Lives and Afterlives]] — fourteen independent mortal lives and their later activities.
-- [[Additional Mortal Lives and Frontier Traditions]] — household stories, local heroes, artisans, coercive rulers and recovered reserve material.
-- [[Present-Day Courts and Crowns (1360 AR)]] and [[Present-Day Political Board]] — what that inheritance has become, without deciding what happens next.
+## Peoples, rulers and ordinary lives
+
+[[Peoples in the World Historical Atlas]] introduces the eleven cultural histories. Their formation includes Ark-derived peoples, Orphaned survivors of the Giant collapse and later Braided populations. These descriptions concern historical ancestry; citizenship, religion and present political allegiance have their own histories.
+
+The [[Lesser Crowns of the Giant Age]] places eighteen secondary polities within the Five Imperial Horizons. [[Named Figures of the Known World]] introduces established rulers, teachers and commanders. [[Great Saints and Sinners - Lives and Afterlives]] follows fourteen independent mortal lives and their later activity, while [[Additional Mortal Lives and Frontier Traditions]] gathers local heroes, artisans, households and other remembered figures.
+
+For the political circumstances inherited by the present generation, read [[Present-Day Courts and Crowns (1360 AR)]] and [[Present-Day Political Board]].
 
 ## A Coast Across the Ages
 
-[[History of the Tidewood Coast]] follows the same shore communities from the Giant collapse to 1360. Begin at [[Tidewood Coast]], then visit [[Brackenmouth]], [[Rookstrand]] and [[Keldscar and Gannet Head]]. Their history connects household work, changing fleets, captivity, rescue, sea powers and a disputed timber trade. [[Sails, Fish and Winter Fire]] and [[The Boat Too Fine for Water]] show what people do and tell between the better-known catastrophes.
+[[History of the Tidewood Coast]] follows shore communities from the Giant collapse to 1360. Begin with [[Tidewood Coast]], then visit [[Brackenmouth]], [[Rookstrand]] and [[Keldscar and Gannet Head]]. Their histories connect boatbuilding, fishing, household rivalry, captivity, rescue and encounters with dangerous sea powers.
+
+[[Sails, Fish and Winter Fire]] describes the work and seasonal pleasures of the coast. [[The Boat Too Fine for Water]] preserves a comic tale and the launch customs associated with it. Together these articles show how a regional history continues through periods between the great wars.
 
 ## Tales that outlived their tellers
 
-[[Myths and Legendary Histories MOC]] contains all seventy-five localized Garden traditions. Their remainders include games, meals, scarred ground, clothing, tools, ruined buildings and customs. The tale explains why the remainder matters; it is not merely evidence waiting for an adventurer.
+[[Myths and Legendary Histories MOC]] gathers seventy-five localised traditions. Games, meals, clothing, damaged landscapes, tools and ruined buildings carry meanings acquired through their stories. Each article identifies the communities that tell the tale and distinguishes established remains from disputed interpretations.
 
-[[The Historical Seed Garden]] remains the exploratory nursery. Its original IDs and aliases are preserved. Canonical authority belongs to the individual Atlas article, not to every possibility ever written in the nursery.
+[[The Historical Seed Garden]] preserves the exploratory versions, their original identifiers and their aliases. The individual Atlas articles state which parts of those traditions have entered the canonical account.
 
 ## Beyond ordinary kingdoms
+
+The greater powers and the societies around them have distinct histories of rule, migration, rivalry and disaster:
 
 - [[Menhir Courts through the Ages]]
 - [[Idol Kingdoms and the Hunger Wars]]
@@ -72,15 +76,16 @@ A village can really preserve a broken tool and sing about a murdered founder wi
 - [[The Last Houses and the Cypress Commonwealth]]
 - [[The Country Beneath the Rains - Peoples and History]]
 
-These societies and powers have different ambitions. Their wars are not one secret cosmic campaign. The Last Houses and distant mountain people have local histories without contact with the core setting. Nythalum's escape was physical and lunar. Shell settlements are constructed refuges, never native elemental nations.
+The Last Houses and the distant mountain people have histories unknown to the core setting. Nythalum's escape carried a surviving Giant society physically towards the moon. Shell settlements shelter inhabitants who arrived in constructed refuges within elemental surroundings. These differences determine how their histories relate to the ordinary calendar.
 
 ## Unknown history — author-only shelf
 
-[[Unknown Histories - Authorial Accounts]] holds six separate recoverable events: false evacuation processions, a murderous founding feast, living prisoners made into a border, a failed furnace refuge, a town's fraudulent restoration, and an intercession at an enemy fortress. No living witness knows a complete capsule.
+[[Unknown Histories - Authorial Accounts]] contains six recoverable histories: false evacuation processions, a murderous founding feast, prisoners made into a living border, a failed furnace refuge, fraudulent restoration in a conquered town and an intercession at an enemy fortress. Surviving witnesses and evidence preserve different parts of each event.
 
-The [[The Grey Sweat - Authorial Truth|Grey Sweat]] and [[The Fourth Seal - Authorial Truth|Fourth Seal]] retain their existing separate addenda. [[Protected Questions of the Historical Atlas]] distinguishes unresolved identities, sovereign changes and future events from ordinary history that can now be written.
+The [[The Grey Sweat - Authorial Truth|Grey Sweat]] and [[The Fourth Seal - Authorial Truth|Fourth Seal]] have separate authorial addenda. [[Protected Questions of the Historical Atlas]] records the identities, sovereign changes, mysteries and future events that remain unresolved.
 
 ## Reference shelf
+
 - [[Folk Heroes and Legendary Adventurers]]
 - [[Timeline MOC]]
 - [[Chronology of the Known World (AR Dating)]]
@@ -92,8 +97,8 @@ The [[The Grey Sweat - Authorial Truth|Grey Sweat]] and [[The Fourth Seal - Auth
 
 ## Complete library and authorial controls
 
-Every earlier history article is linked beneath its principal age. The [[World Historical Atlas - Integration and Coverage Ledger]] records that mapping, all seventy-five Garden destinations, the reviewed research identifiers, reserve outcomes and the source-precedence rules. Superseded drafts remain available as drafts; they cannot overrule their corrected descendants.
+The [[World Historical Atlas - Integration and Coverage Ledger]] records the destinations of earlier history articles, all seventy-five Garden traditions, reviewed research and former reserve material. It also preserves the precedence of corrected sources.
 
-The Atlas fixes historical events and their consequences at useful scales. A title or a date range can be authoritative even when a person's private name or a settlement's exact coordinates are still undecided.
+The [[World Encyclopedia - Revision and Expansion Programme]] schedules the continued development of the library, with a complete article and research inventory. The [[World Egg Encyclopedia - Editorial Style Guide]] records the approved standard for its prose.
 
-The [[Dependable Navigation - Review and Repair Ledger]] records the reader-era link cleanup. [[Tidewood Historical Development - Authorial Review]] records the regional depth example's historical additions, source boundaries and supernatural distinctions.
+The [[Dependable Navigation - Review and Repair Ledger]] documents the link repairs. [[Tidewood Historical Development - Authorial Review]] records the historical additions and authorial distinctions behind the completed regional example.

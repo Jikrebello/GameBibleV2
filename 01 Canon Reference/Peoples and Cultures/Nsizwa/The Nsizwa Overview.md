@@ -11,174 +11,72 @@ appears_in: []
 needs: []
 tags: []
 ---
-### _"We walk with the past so that the future may endure."_
+# The Nsizwa Overview
 
-Historical reading: [[Historical Atlas of the Nsizwa]], within the [[World Historical Atlas MOC]].
+The Nsizwa are a people of the far southwestern savannas, escarpments and highland plateaus, governed from the fortified capital of Mzalu's Hold. Cattle, farming, metalwork and regional trade support a society in which military service and the remembrance of the dead carry considerable authority. Their Spirit-Keepers preserve bodies, praise-names and rites associated with ancestors, including the awakening of the champions known as Izivukwa.
 
-The **Nsizwa** are a proud and powerful people, deeply connected to their **ancestors, spirits, and the legacy of war**. Rooted in a fusion of **Zulu, West African, Sahelian, and Nubian influences**, they are a civilization of **warriors, mystics, and master tacticians**, blending mortal skill with supernatural power. Their defining rites produce **ancestor-shaped apparitions, spectral war-hosts, and the Izivukwa—preserved champions whose bodies awaken when a bounded duty calls**. Nsizwa teaching identifies these presences with the honored dead; other traditions dispute whether any given manifestation is the ancestor's soul, a residue, or a tomb-bound office.
+Ancestor-shaped apparitions and awakened bodies are observable features of Nsizwa life. The Nsizwa generally identify these presences with their honoured dead. The identity of a particular apparition remains disputed, even where witnesses agree about what it did.
 
----
+## Origins and historical formation
 
-## **Origins in the Orphaned World**
+Nsizwa ancestors survived the collapse of Giant rule in their own southwestern lands. Fortified plateaus, mobile cattle communities, burial refuges and war bands sustained several populations through the failure of older states and infrastructure. They belong to the Orphaned peoples who endured outside the Glass refuge.
 
-The Nsizwa are principally an **Orphaned people**, not a branch of the Glass Ark. Their ancestors survived the fall of Giant rule in the far southwestern lands through fortified plateaus, mobile cattle communities, burial refuges, war bands and the preservation of names and bodies amid collapsing states. Several survivor populations later joined into the people remembered by the earliest praise cycles.
+The earliest praise cycles remember the joining of these survivor communities. Mzalu's legendary unification belongs to this history. Defence, cattle, craft and the preservation of ancestral remains subsequently became foundations of a durable regional order.
 
-This origin does not authenticate every claim of ancestor-return. The orphaned centuries explain why bodies, praise-names, tomb offices and war memory became central; [[Izivukwa Continuity]] still governs whether any manifestation is a human soul, residue, office or constructed pattern.
+War-regiments, Horn-Captains and Spirit-Keepers connected royal government with military service and remembrance. Their authority also imposed demands on households and provoked disputes over who could speak for the dead. The [[Historical Atlas of the Nsizwa]] follows this formation while distinguishing the received accounts of particular ancestral figures.
 
----
+## Land and settlement
 
-## **I. [[Geography and Homeland]]**
+The highland savannas provide pasture and hunting grounds. Escarpments, gorges and mountain passes offer defensible sites, while the Mfula River supports fishing, cultivation and irrigation. Wet and dry seasons organise work: rains replenish pasture and bring festivals and marriages, whereas diminishing dry-season water increases competition and the danger of cattle raids.
 
-- **Location:** The Nsizwa inhabit the **rugged savannas, escarpments, and highland plateaus** of the **far southwestern continent**.
-- **Climate:** A temperate and warm region, divided into **wet and dry seasons**. The wet season brings **fertility and abundance**, while the dry season is harsh, requiring **careful management of resources**.
-- **Major Settlements:**
-    - **Mzalu’s Hold** – The **capital**, built atop a fortified plateau, with **ancestral shrines, warrior barracks, and a grand throne-temple**.
-    - **The Tomb of the Silent Legion** – A sacred burial site where **the ten greatest generals** of Nsizwa history rest, awaiting their next call to battle.
-    - **The Fire Keepers’ Ascent** – A **mountaintop temple** where the eldest Spirit-Keeper sages are entombed, only rising in times of dire spiritual crisis.
+Fortified villages occupy cliffs and plateaus, reached by paths, stairs and bridges. Mzalu's Hold stands above the surrounding savanna behind walls and steep approaches. Its warrior, ancestral and artisan districts contain forges, training grounds, shrines, tombs, markets and the War-King's throne-temple.
 
----
+The Tomb of the Silent Legion, in the Valley of Echoes, holds the preserved bodies of ten generals honoured as the greatest in Nsizwa history. Warriors visit to train, meditate and seek guidance. The Fire Keepers' Ascent is a mountain centre of spiritual learning and entombment; tradition associates its elders' awakenings with grave spiritual danger.
 
-## **II. [[Society and Structure]]**
+Beyond the settled valleys lie the Great Salt Flats. Nsizwa tales describe disgraced dead wandering there, and the flats are feared for their mirages and hostile travellers. [[Geography and Homeland]] explains these regional differences.
 
-### **1. The War-King**
+## Government and service
 
-- The **War-King (Yempi's crown)** is the **ruler, warlord, and spiritual leader** of the Nsizwa.
-- This title is **hereditary**, but only those deemed **worthy by the ancestors** can claim it.
-- The **War-King is a warrior first and king second**, leading from the front in battle and expected to **commune with the spirits of past rulers**.
+The War-King holds hereditary authority, known as Yempi's crown. Eligibility alone is insufficient in Nsizwa understanding: the ancestors must recognise the claimant's worth. The ruler is expected to lead in battle and seek counsel through the remembered kings.
 
-### **2. The Horn-Captains (Noble Class)**
+Horn-Captains serve as advisers, commanders and regional governors. Their standing rests on service, loyalty and recognised judgement. They collect tribute and bring warriors into the royal military order.
 
-- **Advisors, generals, and governors** chosen for their **bravery, loyalty, and wisdom**.
-- They oversee regions of the kingdom, collect tribute, and lead **warriors into battle**.
+Men train from youth among the Spear-Sworn and serve in organised war-regiments. The elite Storm-Sworn bear sacred tattoos and storm-forged spears dedicated to ancestral names. Spirit-Keepers work as religious teachers, healers and interpreters of omens. The preservation and awakening of Izivukwa is among their most important duties.
 
-### **3. The Spear-Sworn (Warrior Class)**
+Farmers, herders, craftspeople and traders sustain these institutions. Cattle measure wealth and enter marriage exchanges, trade and sacrifice. Weapon-making, pottery, beadwork and carved talismans provide both useful goods and objects through which names and blessings are remembered.
 
-- Every Nsizwa man **trains as a warrior** from a young age, making the entire society battle-ready.
-- Warriors are grouped into **regiments (war-regiments)** and trained in **tactical formations**.
-- Their elite warriors, the **Storm-Sworn**, are marked with sacred tattoos and wield **storm-forged spears** dedicated to ancestral names and believed to carry their guidance.
+## Ancestral religion
 
-### **4. The Spirit-Keepers (Mystics and Healers)**
+Nsizwa worship centres on ancestors believed to watch over the living through dreams, omens and visions. Spirit-Keepers interpret these experiences and conduct rites intended to obtain counsel or protection.
 
-- **The spiritual leaders and keepers of ancestral knowledge**.
-- They perform **ancestral rites, interpret omens, and mediate apparitions** in times of need.
-- Their most sacred duty is the **preservation of the Izivukwa**—mummified ancestors who can be awakened for great battles.
+The Izivukwa, or Deathless Guardians, are preserved warriors and sages whose bodies awaken for a particular duty. They may show remembered skills, gestures, judgement and speech, then return to dormancy when the task is fulfilled or the means of awakening fails. Destroying a body and its wrappings beyond repair can leave its tomb permanently unable to answer. The lament that an ancestor has been “lost forever” expresses that loss; the human soul is not annihilated with the remains.
 
-### **5. The Common-Folk**
+Izulwane, the great eagle spirits called Sky Riders, bring omens and are invoked as guides of the dead. Nsizwa teaching describes them carrying fallen warriors towards the Peace Below. Accounts of their precise role in that passage differ.
 
-- Farmers, craftsmen, traders, and artisans.
-- **Cattle are central to Nsizwa culture**, serving as wealth, food, and sacrificial offerings.
-- Skilled in **weapon-making, pottery, beadwork**, and carving **inkatho talismans** that preserve praise-names, blessings, and traces associated with past warriors.
+These beliefs affect government and personal relationships as well as warfare. An apparition speaking under an ancestor's name can influence a household or ruler, while disagreement about its identity may leave its advice contested.
 
----
+## Warfare
 
-## **III. [[Religion and Spirituality]]**
+The inkandu, a short thrusting spear, is used in close combat. The Bull Horn Formation coordinates an encircling advance: the horns envelop, the chest attacks and the loins reinforce. Disciplined movement and command support the supernatural practices accompanying battle.
 
-### **1. The Ancestral Faith**
+Spirit-Keepers conduct rites that produce ancestor-shaped warriors in flashes of blue light. Fighters also drink umhlwazi, a battle-trance draught through which they hear voices identified as ancestral. These experiences sustain the belief that earlier generations stand beside the living.
 
-- The Nsizwa **worship their ancestors** rather than deities.
-- Nsizwa teaching holds that the honored dead **watch over the living**, guiding them through dreams, omens, and visions.
-- The **Spirit-Keepers act as intermediaries**, testing dreams and manifestations for ancestral wisdom and protection.
+In severe danger, awakened Izivukwa bring the remembered skills and force of preserved champions into the fighting. Their appearance can terrify an enemy. Praise traditions celebrate them as embodiments of an unbroken military inheritance, although the origins of individual appearances remain a separate question.
 
-### **2. The Izivukwa – The Deathless Guardians**
+## Festivals, craft and exchange
 
-- The greatest warriors and sages of the Nsizwa are **ritually mummified**, their bodies preserved in sacred shrines.
-- Through **ancestral awakening rituals**, these bodies can **rise**, displaying remembered skills, gestures, and sometimes speech.
-- Each **isivukwa** is awakened for **a specific purpose**, and once it is fulfilled, the guardian returns to dormancy.
-- If the body and its wrappings are **destroyed beyond repair**, that tomb can no longer answer. Nsizwa lament calls this being “lost forever,” but no human soul is thereby annihilated.
+At the Night of a Thousand Fires, warriors recount battles and Spirit-Keepers seek omens in the flames. Apparitions are sufficiently common that disagreement centres on whom the witnesses have seen. The festival gives public form to stories otherwise preserved within households and regiments.
 
-### **3. The Izulwane (Sky Riders)**
+The Bloodless Hunt tests a young warrior's ability to stalk and capture a great beast bare-handed. Duels of the Honored Dead place disputes under ancestral witness: fighters invoke their lineages, and dreams, voices or brief manifestations may accompany the contest. The winner is regarded locally as favoured by the spirits.
 
-- Great eagle spirits who, in Nsizwa teaching, carry fallen warriors toward the Peace Below.
-- They bring omens to the living and are invoked as guides of the dead; their actual relation to the soul-road is not publicly settled.
+Trade carries cattle, weapons, hides, ivory, beadwork and talismans between neighbouring societies. The Ukukhanya river cities exchange gold, copper, beads and other goods with the Nsizwa, while diplomatic marriages accompany a history of rivalry. The Haze-Marked Raiders attack villages, caravans and herds from the salt-country approaches. The Black-Tooth Clans, formed from Nsizwa deserters, exiles and ambitious commanders, hire out their military skills and raid former kin. Captured Black-Tooth warriors are executed and their names removed from ancestral remembrance.
 
----
+## Remembered figures and the present kingdom
 
-## **IV. [[Warfare and Military Tactics]]**
+Mzalu the First War-King is remembered as the unifier of the Nsizwa. Tradition places his preserved body in the Ivory Sepulcher, awaiting a final war. Mahlezi the Spirit-Tamer is credited with binding storm spirits into weapons and weaving the first sacred Izivukwa wrappings. Received accounts say that Mzikhona the Unyielding answered five calls over five centuries and was never defeated.
 
-### **1. The Inkandu and the Bull Horn Formation**
+These figures remain important to a kingdom whose wealth, defence and religious authority depend on both living work and inherited memory. In 1360 the Nsizwa maintain neighbouring trade and diplomacy while guarding the bodies and rites of the Izivukwa from outsiders. Seasonal shortages, cattle raids, political demands and disputes over ancestral authority continue to affect households and rulers.
 
-- **Primary Weapon:** The **Inkandu**, a short thrusting spear used for rapid close combat.
-- **Battle Tactic:** The **Bull Horn Formation**, where warriors surround the enemy in three waves—the horns enveloping, the chest charging, and the loins reinforcing.
+## Further reading
 
-### **2. The Living Storm**
-
-- **Ancestor-Shaped War-Hosts:** Before battle, the **Spirit-Keepers perform rituals** that produce spectral warriors in flashes of blue light. Nsizwa fighters call them their fallen kin; witnesses cannot settle every figure's continuity.
-- **Battle-Trance Rituals:** Warriors drink **umhlwazi**, a spiritual concoction, entering a trance in which they hear voices they identify as **their ancestors**.
-
-### **3. The Izivukwa War Hosts**
-
-- When the battle is dire, the **Izivukwa rise**.
-- These **mummified warriors** act as **unstoppable behemoths**, wielding weapons infused with **ancestral might**.
-- Their mere presence **terrifies enemies**, as they are seen as **the unbreakable hand of history itself**.
-
----
-
-## **V. [[Culture and Traditions]]**
-
-### **1. The Night of a Thousand Fires**
-
-- A grand festival where warriors **recount their greatest battles**, and **Spirit-Keepers seek omens in the flames**.
-- It is believed that on this night, the **ancestors walk freely among the living**; apparitions are common enough that the dispute concerns identity, not whether anything appears.
-
-### **2. The Bloodless Hunt**
-
-- A **rite of passage** for young warriors, where they must **stalk and capture a great beast** with their bare hands.
-- This symbolizes **control over one’s instincts** and proves their **worthiness as a hunter and warrior**.
-
-### **3. Duels of the Honored Dead**
-
-- Disputes are settled through **combat under ancestral witness**—both fighters invoke their lineages, and dreams, voices, or short-lived manifestations may guide their hands.
-- The winner is seen as **chosen by the spirits**.
-
----
-
-## **VI. [[Nsizwa Economy and Trade]]**
-
-### **1. Cattle as Wealth**
-
-- Cattle are **the primary measure of wealth**.
-- Used in **marriage, trade, and religious offerings**.
-
-### **2. Craftsmanship and Trade**
-
-- Nsizwa warriors are famed for their **finely crafted spears and shields**.
-- They trade **inkatho talismans, ivory, rare hides, and enchanted weaponry**.
-
-### **3. Foreign Relations**
-
-- They engage in **cultural exchanges** with neighboring civilizations but remain **wary of outsiders**.
-- The **Izivukwa are never to be traded or revealed to outsiders**, as their power is **sacred**.
-
----
-
-## **VII. [[Key Figures and Legends]]**
-
-### **1. Mzalu the First War-King**
-
-- The **legendary ruler** who united the Nsizwa.
-- **His Izivukwa still rests within the Ivory Sepulcher**, waiting for the final war.
-
-### **2. Spirit-Keeper Mahlezi – The Spirit-Tamer**
-
-- A **mythical Spirit-Keeper** who bound **storm spirits** into weapons.
-- Said to have **woven the first sacred wrappings of the Izivukwa**.
-
-### **3. Mzikhona the Unyielding**
-
-- An **Izivukwa warrior** who was called **five times over five centuries**, each time leading his people to victory.
-- He has never been defeated in battle.
-
----
-
-## **VIII. Final Summary**
-
-The Nsizwa are **a warrior civilization in which the past remains materially active**. Their warriors march with ancestor-shaped signs and hosts, and in times of need they **awaken preserved champions**, the **Izivukwa**, to turn the tides of war. Whether a given presence is the honored soul, organized residue, or inherited office remains a live religious question; the duties, memories, and consequences are real either way. Their culture binds the living to the dead through **honor, mysticism, history, and disciplined remembrance**.
-
-## Naming Register (locked)
-
-**Hybrid rule:** offices and institutions carry English function-names — **the War-King** (founder: **Mzalu the First War-King**; capital: **Mzalu's Hold**), **Horn-Captains** (nobles), **Spirit-Keepers** (mystics), **the Spear-Sworn** (warrior class), **the Storm-Sworn** (elites), **the Honored Dead** (ancestors), **war-regiments**, **war-host**. Sacred untranslatables are coined proper nouns keeping Nguni phonotactics (i-/izi-/ama-/um- prefixes, open syllables, no clicks): **the izivukwa** (sing. isivukwa — the Deathless), **the inkandu** (the short thrusting spear, named for the sound it makes leaving a body), **the Izulwane** (Sky-Riders), **izinkatho** (spirit-talismans), **umhlwazi** (the battle-trance draught). Forbidden verbatim: real Zulu institutional and religious terms.
-
-## Navigation
-
-- [[Izivukwa Continuity]]
-- [[Cultures MOC]]
+Read the [[Historical Atlas of the Nsizwa]] for formation, then [[Geography and Homeland]] and [[Society and Structure]] for the settled kingdom. [[Religion and Spirituality]], [[Culture and Traditions]] and [[Key Figures and Legends]] develop its received accounts. [[Nsizwa Economy and Trade]], [[Warfare and Military Tactics]] and [[Neighboring Peoples of the Nsizwa]] explain its regional connections.

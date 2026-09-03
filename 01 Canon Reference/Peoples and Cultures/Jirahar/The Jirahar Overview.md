@@ -13,44 +13,54 @@ tags: []
 ---
 # The Jirahar Overview
 
-Historical reading: [[Historical Spine of the Jirahar]], within the [[World Historical Atlas MOC]].
+The Jirahar are an ancient people whose communities extend across tower-citadels, foreign cities, inland roads, rivers and seas. They trace their sacred history to the Great Prophet and the refuge in the [[Great Glass Desert]]. Maternal descent, conversion, the Orakha tradition, shared learning and the journeys of the Keepers connect communities living under many rulers.
 
-The **Jirahar** are an ancient covenant people whose memory reaches to the [[Great Glass Desert]] and the Great Prophet. They belong neither to one kingdom nor to one way of life. Five living tower-citadels, innumerable host-city quarters, land caravans, ocean fleets, and river-changing companies remain one people through the Orakha, maternal descent, conversion, shared courts, pilgrimage, and the circuit of the Keepers.
+Five living tower-citadels form important centres of this dispersed world. Beyond them are host-city quarters, travelling households and permanent shipboard communities. Families can move between these ways of life through marriage, apprenticeship, opportunity or forced departure. Their schools, food practices, worship and burial customs help sustain communal belonging across those changes.
 
-They do not understand dispersion as cultural incompleteness. A tower household may become a road company after confiscation; sailors may settle beneath a tower; a Turning Company may winter for years in a foreign quarter. Separation from host cultures is deliberate: local citizenship does not cancel Jirahar marriage, burial, worship, schooling, food practice, charity, or law.
+## Formation and dispersion
 
-## Sacred History
+Jirahar ancestors belonged to the One Glass People formed during the refuge after Giant rule. Following the southern departures, the communities remaining near the desert divided gradually. The ancestors of the Jirahar developed portable courts, route memory and forms of custodianship that could serve households living far apart. The [[01 Canon Reference/Peoples and Cultures/Jirahar/10 Foundations/Origins and Sacred History.md|account of their origins]] places this development within the Scattering.
 
-[[01 Canon Reference/Peoples and Cultures/Jirahar/10 Foundations/Origins and Sacred History.md|Origins and Sacred History]] and [[Historical Spine of the Jirahar]] control the sequence from the Exodus through two destructions of Qiryath. The [[First Qiryath and the Arqeshite Exile|First Qiryath]] fell in 742 BR. The Second was destroyed in 70 AR after the [[Great Tower Revolt and the Second Destruction|Great Tower Revolt]]. [[Vestian Persecutions and the Long Diaspora|Vestian's persecutions]] later broke most surviving eastern towers.
+Qiryath became central to their later history and hopes of restoration. The [[First Qiryath and the Arqeshite Exile|First Qiryath]] fell in 742 BR. A second foundation was destroyed in 70 AR during the [[Great Tower Revolt and the Second Destruction|Great Tower Revolt]]. Vestian's persecutions later broke most surviving eastern towers. Flight, confiscation and resettlement repeatedly changed the distribution of communities.
 
-## Faith and Law
+Dispersion also acquired durable institutions of its own. A family established in a foreign quarter could retain ties to a tower, join a road company or send relatives into a fleet. Host citizenship existed alongside Jirahar marriage, schooling, charity and communal obligations. The [[Historical Spine of the Jirahar]] follows this history through 1360.
 
-[[01 Canon Reference/Peoples and Cultures/Jirahar/20 Faith and Worldview/The Path of the Chosen Jiraharin Religion.md|The Path of the Chosen]] preserves the Scrolls through written law, [[Jirahar Law, Descent, and Conversion|household practice]], and the immense argumentative tradition of the Peshara. [[The Seven Laws of the Stranger]] describe what mainstream jurists believe the restored order will demand of other peoples. [[Mesakha Traditions]] records the fierce disagreement over restoration, judgement, and the Awaited One.
+## The Four Ways
 
-The Jirahar reject Isfir's claim while remembering him as a son of their people. [[Jirahar Memory of Isfir]] distinguishes the guilt of the elders who pressed Atheria for his death from the false inherited guilt later assigned to every Jirahar.
+The [[Four Ways of Jirahar Life|Four Ways]] describe forms of communal life into which people may move.
 
-## Four Ways
+**Tower Houses** maintain the citadels and affiliated urban quarters. Their deep halls contain workshops, schools, cisterns, stables, burial galleries and places of refuge. The visible spires rise above much larger underground settlements. Tower households benefit from concentrated institutions, although crowding, hierarchy and imported food make them dependent on wider relationships.
 
-[[Four Ways of Jirahar Life]] describes the non-hereditary orders of Tower Houses, Road Companies, Sea Fleets, and Turning Companies. Their work is detailed in [[01 Canon Reference/Peoples and Cultures/Jirahar/30 Society and Daily Life/Jirahar Economy and Trade.md|Jirahar Economy and Trade]] and their protection customs in [[Jirahar Defence and Caravan Law]].
+**Road Companies** travel with wagons, animals, tents, shrines, classrooms and workshops. They carry goods and messages, repair wheels and metalwork, practise medicine, perform and take seasonal employment. Their routes serve small markets as well as great trading centres.
 
-## Towers and Roads
+**Sea Fleets** are enduring shipboard communities. Family vessels travel in mutual-aid flotillas, carrying artisans, fishers, navigators, pilgrims and cargo. Migdal Yamma is their principal winter anchorage.
 
-The towers are larger below ground than above. Their visible spires guard deep halls, cisterns, workshops, schools, stables, burial galleries, refuges, scroll vaults, and Way-Gates. [[01 Canon Reference/Peoples and Cultures/Jirahar/60 Realms and Peoples/Tower Towns and the Prophet's Roads.md|Tower Towns and the Prophet's Roads]] indexes the five living towers and [[Qiryath Reqa]], while [[Prophet's Roads and the Underways]] distinguishes threshold travel from engineered tunnels and hidden physical routes.
+**Turning Companies** move between roads and rivers. Their wagon bodies and household fittings can be loaded onto prepared barges; river yards allow the change between the two. Knowledge of flood seasons, towpaths, ferries and slips is central to their work.
 
-At [[Qasr Ilyun]], Jirahar road companies maintain memorial paths, expedition records, and rescue obligations alongside Qahuri courts and scouts. Their presence gives them standing for their own people and records, not authority over the town or every desert ruin.
+A Great Trek combines several Ways when persecution, famine, failed protection or pilgrimage moves whole communities together. Such journeys can preserve households and skills while leaving homes and possessions behind.
 
-Road memorials also warn of **the City After the Last Name**, where a traveler's record may arrive before the traveler and return without them. Keepers teach the story as a burial warning, not a route: no living tower recognizes a road to such a city.
+## Faith, descent and learning
 
-## The Wider World
+[[01 Canon Reference/Peoples and Cultures/Jirahar/20 Faith and Worldview/The Path of the Chosen Jiraharin Religion.md|The Path of the Chosen]] preserves the Scrolls through worship, household practice and an extensive tradition of interpretation. The Peshara records sustained argument about law and its application. [[Jirahar Law, Descent, and Conversion]] explains how maternal descent and conversion establish membership and how communities recognise marriage and family obligations.
 
-[[Jirahar and the Wider World]] controls relations with Eclessia, Thalmyria, the Covenant, Sestara, Tarkhan, Folk, Ättar, and Velians. Host law ranges from protected autonomy to confiscation and expulsion. No foreign state fully trusts a people capable of leaving with its records, skills, and households intact.
+The [[The Seven Laws of the Stranger|Seven Laws of the Stranger]] express what mainstream jurists believe a restored order will require of other peoples. [[Mesakha Traditions]] describes disagreements over judgement, restoration and the Awaited One. These questions connect sacred expectation with sharply different understandings of the present.
 
-## Naming Register
+The Jirahar reject Isfir's claim to be the Redeemer while remembering him as a son of their people. His mother tongue and family history remain part of their inheritance. The elders who pressed Atherian authorities for his death bore responsibility for their actions; later persecution assigned that guilt to descendants and unrelated communities. [[Jirahar Memory of Isfir]] examines the distinction and the memories surrounding it.
 
-The Jirahar tongue is the archaic branch of the desert language family and the mother tongue of Isfir. It uses **d'-** genitives, endings in **-a / -atha / -in**, and **bar** or **bath** patronymics. Controlled terms include **Mesakha**, **Orakha**, **Orakh Bekhirin**, the three **Sifra**, **Peshara**, **She'eltha**, **Aggadatha**, **Mishletha**, **Millin Setharin**, and **Qiryath Reqa**. Direct real-world communal and liturgical terms remain creator-only comparisons.
+## Livelihoods and travel
 
-## Navigation
+Jirahar occupations include fishing, textiles, dyeing, salvage, translation, copying, book repair, animal dealing, navigation, medicine and seasonal harvest work. Road and river companies also provide transport where larger merchants have little reason to operate. Household means vary widely.
 
-- [[Cultures MOC]]
-- [[Gazetteer of the Known World]]
-- [[Present-Day Courts and Crowns (1360 AR)]]
+Restrictions on landholding, guild entry and public office led some communities into credit, brokerage, remittance and insurance. Migdal Dahava became an important centre of clearing and lending. Recognised courts can authenticate a house's letters elsewhere, but payment still depends on that house's reserves and reputation. Medori firms compete with Dahava while also employing Jirahar correspondents.
+
+Way-Gates permit travel between fixed tower anchors. Preparation, Keeper control and the receiving community's agreement restrict their use. Ordinary roads and vessels serve the much larger number of places beyond those anchors. [[Prophet's Roads and the Underways]] distinguishes these threshold passages from physical tunnels and concealed routes.
+
+## Relations in 1360
+
+Foreign protection ranges from recognised communal autonomy to confinement, confiscation and expulsion. Local rulers value particular skills and revenues while fearing departure or doubting loyalties. Relations also differ within host societies: scholars, neighbours, clergy, officials and merchants have their own reasons for cooperation or hostility.
+
+At [[Qasr Ilyun]], Jirahar road companies maintain memorial paths, expedition records and rescue obligations alongside Qahuri courts and scouts. Road memorials also tell of the City After the Last Name, where a traveller's record arrives ahead of them and returns alone. Keepers teach this as a burial warning. No living tower recognises a route to the city.
+
+## Further reading
+
+Begin with the [[Historical Spine of the Jirahar]] and [[Four Ways of Jirahar Life]]. [[01 Canon Reference/Peoples and Cultures/Jirahar/60 Realms and Peoples/Tower Towns and the Prophet's Roads.md|Tower Towns and the Prophet's Roads]] introduces the five living towers and [[Qiryath Reqa]]. [[01 Canon Reference/Peoples and Cultures/Jirahar/30 Society and Daily Life/Jirahar Economy and Trade.md|Jirahar Economy and Trade]], [[Jirahar Defence and Caravan Law]] and [[Jirahar and the Wider World]] explain their working relationships with neighbouring peoples.

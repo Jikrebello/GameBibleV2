@@ -14,41 +14,52 @@ tags: []
 ---
 # Ättar Overview
 
-Historical reading: [[Historical Spine of the Ättar]], within the [[World Historical Atlas MOC]].
+The Ättar are a people of the southern cold belt whose societies centre on great halls, fortified valleys and maritime households. They share a language, forms of law, four totem-kindreds and an inherited relationship with [[01 Canon Reference/Cosmology/30 Menhir/10 Second Circle/Mother Moon.md|Mother Moon]]. Regional halls and jarldoms maintain their own alliances, feuds and foreign policies.
 
-The **Ättar** are a southern maritime people of rival halls, raiding fleets, fortified valleys, moon-bound rulers, and annual war against the Grobi. They share language, law, four great totem-kindreds, and the ancient bargain with [[01 Canon Reference/Cosmology/30 Menhir/10 Second Circle/Mother Moon.md|Mother Moon]], but they have no universal king, state, or common foreign policy.
+An Ättar usually belongs first to a household and hall, then to a wider kindred. The [[Lion-Mane Coast]], [[Hornwall Valleys]], [[Bearshield Holds]] and [[Grey-Wolf Range]] each contain rival communities of free farmers, dependants, freed families and thralls. Seasonal voyages connect these societies with foreign ports, while Grobi warfare places recurring demands on the people who remain at home.
 
-An Ättar normally belongs first to a household and hall, then to a regional kindred. The four kindreds are not nations: [[Lion-Mane Coast]], [[Hornwall Valleys]], [[Bearshield Holds]], and [[Grey-Wolf Range]] each contain feuding halls, jarldoms, free farmers, dependants, freed families, and thralls.
+## Formation and the Moon bargain
 
-## The Hall World
+Ättar ancestors survived the collapse of Giant rule outside the Glass refuge. They were related to the populations from which the Folk developed. Geography, hall politics and the demands of defence gradually gave their descendants a distinct form of society.
 
-The great hall is court, granary, feast-house, barracks, sanctuary, and archive. Male assemblies choose chiefs from eligible paternal pact lines. Great-hall jarls gather lesser halls by gifts, marriage, tribute, and victory; temporary chief-kings arise for major wars and usually lose their following when the emergency ends. See [[Halls, Jarls, and Chief-Kings]].
+The [[War of the Empty Halls]] marked a decisive change in authority. The first ruling lines accepted [[Mother Moon's Bargain]], obtaining the power to assume their kindred's hybrid shape. The bargain made hereditary descent a source of bodily power and bound the rulers' households to a repeated surrender of children.
 
-Hospitality, oath-keeping, compensation, fosterage, public courage, and loyalty to one's hall are serious goods. So are poetry, seamanship, craftsmanship, and the duty to shelter kin in winter. These virtues coexist with feud, slave-taking, sexual coercion, raiding, and a political order that purchases supernatural authority with children.
+Each pact line owes one firstborn child per generation. A changeling takes the child's place; at adolescence it leaves, and the original child returns as a [[Borrowed Children and Moon-Seers|Moon-Seer]]. These returns connect the hall's religious life with the absence and altered upbringing of particular children. The [[Historical Spine of the Ättar]] places the bargain within the wider history of settlement, war and conversion.
 
-## Moon-Right
+## The hall and its rulers
 
-Every old-rite hall chief must be a [[01 Canon Reference/Peoples and Cultures/Ättar/20 Faith and Worldview/The Path of the Skinwalker.md|skinwalker]] able to assume the hybrid shape of his kindred. The authority began in the [[War of the Empty Halls]], when the first ruling lines accepted [[Mother Moon's Bargain]]. Each line owes one firstborn child per generation. A changeling is left in the child's place; at adolescence it departs and the original child returns as a [[Borrowed Children and Moon-Seers|Moon-Seer]].
+A great hall combines assembly place, granary, feast-house, barracks, sanctuary and store of communal memory. Its ability to feed and protect people makes it a centre of power. Lesser households gather around a successful hall through gifts, marriage, tribute, defence and inherited obligation.
 
-Skinwalkers do not lose a memory whenever they transform. [[Moontouched]] decline comes from age, excessive shifting, and remaining too long in hybrid form. It is feared, dangerous, and preventable rather than inevitable.
+Male assemblies choose chiefs from eligible paternal pact lines. An old-rite chief must be a [[01 Canon Reference/Peoples and Cultures/Ättar/20 Faith and Worldview/The Path of the Skinwalker.md|skinwalker]], capable of taking the hybrid form of his kindred. Jarls gather lesser halls into larger followings. Major wars can produce chief-kings whose authority depends on the continued support of the halls that raised them.
 
-## Rage and the Keel
+Public courage, hospitality, oath-keeping and compensation are important measures of standing. Fosterage and marriage connect households; loyalty includes the duty to shelter kin through winter. Feud, slave-taking and sexual coercion also shape relationships of power. Captives and thralls contribute labour while having fewer means of refusing a ruler's demands.
 
-Moon-blood also permits the emergency rage cultivated by [[Berserker Rage and Iron-Skin Paint|berserkers]]. Their toxic painted armor makes them one of the few mortal forces able to challenge a transformed chief.
+## Work and the hall year
 
-To **take the keel** is to leave home for a season of raiding, trade, exploration, mercenary service, or escort work. Some crews return with honest profit, some with plunder and captives, and many do both. The people who remain sustain farms, herds, fisheries, looms, forges, ships, law, and winter stores. See [[Ättar Ships, Economy, and Daily Life]] and [[Raiding, Slavery, and Manumission]].
+Ättar economies combine cold-grain farming, livestock, fishing, whaling, forestry, charcoal, ironworking, weaving and shipbuilding. These activities support the fleets and fill the stores that make winter residence possible.
 
-## Faith and Conversion
+Spring is a season of ship, fence and roof repairs. Summer brings voyages, distant pasture, construction and markets. In autumn crews return, shares are distributed, quarrels are heard and supplies are stored. Winter concentrates workshops, healing, feasting and military refuge within the hall.
 
-Mother Moon is a real Menhir and her bargain is exact, powerful, and morally inhuman. She is not a loving tribal goddess. [[Baptized Ättar Halls]] renounce the exchange and lose future skinwalker renewal while retaining language, kinship, inherited moon-scars, and often a weakened rage.
+Skalds preserve voyages, genealogies, insults and losses. Their songs can sustain a household's reputation or provoke a feud through a disputed claim. Braids and long hair carry family and campaign meanings; bronze, silver and gold torcs recall gifts and loyalties. Cutting an oath-torc or shaving a captive inflicts a recognised humiliation.
 
-## Navigation
+Coastal halls group boathouses, smokehouses and granaries behind protected approaches. Inland builders use turf insulation, attached livestock space, beacon ridges and concealed stores. Chiefly doors and high seats accommodate a transformed ruler. [[Ättar Ships, Economy, and Daily Life]] describes these arrangements in greater detail.
 
-- [[Ättar Canon Register]]
-- [[The Making of the Ättar]]
-- [[Historical Spine of the Ättar]]
-- [[Ättar Kinship, Descent, and Weregild]]
-- [[Mother Moon's Bargain]]
-- [[01 Canon Reference/Peoples and Cultures/Ättar/20 Faith and Worldview/The Monomyth According to the Ättar.md|The Monomyth According to the Ättar]]
-- [[Winter War and the Grobi Frontier]]
-- [[Ättar and the Wider World]]
+## Voyages and winter war
+
+To take the keel is to join a seasonal voyage. Crews trade, raid, escort, explore, hunt whales and undertake mercenary or privateering service. A single voyage may involve both commerce and the seizure of captives. Reputation abroad consequently depends on a crew's particular acts and alliances.
+
+Grobi pressure varies across the hall country. Exposed communities require sustained defence, and related Folk communities send help along the Frost-Road. Moon-blood also permits the emergency rage cultivated by berserkers. Their toxic iron-skin paint enables them to challenge dangers that ordinary warriors could rarely withstand, including a transformed chief.
+
+The power of the ruling lines has limits. [[Moontouched]] decline results from age, excessive shifting and prolonged hybrid form. It can be avoided; transformation does not exact a separate memory at every use. The fear of decline nevertheless affects succession and the judgement of a ruler's fitness.
+
+## Faith and conversion
+
+Mother Moon is a real power whose bargain has bodily consequences. Her demands place children and ruling households within obligations that take little account of human attachment. Old-rite halls continue the exchange as the basis of their rulers' authority.
+
+[[Baptized Ättar Halls]] renounce it upon conversion to the Redeemer's faith. They lose future skinwalker renewal while retaining language, kinship and inherited moon-scars; a weakened rage often survives. Conversion therefore changes the future of a ruling line as well as its worship.
+
+In 1360 the hall world includes old-rite and baptised communities, rival jarls, seasonal crews and households supporting the Grobi frontier. Trade and service connect them to the Folk, Thalmyria and Sestara, while religion and the status of captive people divide neighbours and relatives.
+
+## Further reading
+
+Begin with [[The Making of the Ättar]] and the [[Historical Spine of the Ättar]]. [[Halls, Jarls, and Chief-Kings]] and [[Ättar Kinship, Descent, and Weregild]] explain authority and kinship. [[Raiding, Slavery, and Manumission]], [[Winter War and the Grobi Frontier]] and [[Ättar and the Wider World]] follow the consequences of warfare and foreign contact.

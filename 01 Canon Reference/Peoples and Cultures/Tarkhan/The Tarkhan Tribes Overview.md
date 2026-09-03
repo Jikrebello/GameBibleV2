@@ -14,47 +14,55 @@ tags: []
 ---
 # The Tarkhan Tribes Overview
 
-Historical reading: [[Historical Spine of the Tarkhan]], within the [[World Historical Atlas MOC]].
+The Tarkhan are a northern nomadic civilisation occupying the dry belt between the Covenant, Eclessia and the detached Sestaran territories. Related speech, clan law, guest-right and sky observance connect their peoples across desert and grassland. Household and clan ties remain durable through the rise and dissolution of larger military coalitions.
 
-The **Tarkhan** are one northern nomadic civilization spread across the dry belt between the Covenant, Eclessia, and the detached Sestaran territories. They share related speech, clan law, guest-right, word-price, sky rites, and the memory of [[Qarayel and the Black Wind]], but possess no common state.
+Western [[Well-Tarkhan]] travel between ancestral wells with camels, sheep, goats and mixed remounts. Northeastern [[Grass-Tarkhan]] follow horse pasture and, in some districts, the migratory [[Great-Horns]]. Families and banners pass between these ways of life. The distinction reflects the ground, animals and routes on which a community depends.
 
-Two ways of life answer different ground. The [[Well-Tarkhan]] of the western desert move between ancestral wells with camels, sheep, goats, and mixed remounts. The [[Grass-Tarkhan]] of the northeast follow horse pasture and, in some regions, the migratory [[Great-Horns]]. Families, clans, and banners cross this division; neither is a separate ancestry.
+## Early history and the Black Wind
 
-## The Four Hordes
+Tarkhan ancestors survived the Giant collapse as Orphaned societies. Their wells, movements and conflicts were established features of the north when the peoples of the Glass refuge began to disperse. Sustained Tarkhan contact helped shape the later division between Jirahar and Ahl-e-Ahd communities.
 
-Qarayel's empire broke in 1304 AR into four regional coalitions rather than four nations:
+The [[Nine Wells of Tergai]] remain a particularly bitter point of contact. Tarkhan ancestors dug the Nine Mother-Wells. Covenant armies seized them in 558 AR and subsequently taught that the inhabitants had submitted willingly. Graves, forts and competing pilgrimages preserve the consequences of dispossession.
 
-- [[White Horde]] under **Khan Batuqai** controls the northwestern grass and desert fringe. Its raids and slave-taking are Iqashar's immediate northern danger.
-- [[Iron Horde]] under **Khan Tegrul** faces Iqashar and Mazrakan. Its contracted companies are becoming embedded in Covenant frontier government.
-- [[Moon Horde]] under **Khatun-regent Sorqai** keeps the central sacred circuit, the [[Four Hordes of the Partition|Nine-Mane Standard]], and the strictest old sky observance.
-- [[Ash Horde]] under **Khan Chilgir** dominates the northeastern road country and sells Castara the annual [[Castaran Long Road|Ash Road Peace]].
+Western camel husbandry long preceded the eastern [[First Catch and Grey Sister|First Catch of 905–920 AR]], when clans captured remount herds scattered by Atheria's fall. The sacred mare Grey Sister began the hymn-blessed lines that changed grassland warfare. Their inherited blessing has since weakened.
 
-No full kurultai can be called without the Nine-Mane Standard. Sorqai holds it as regent and custodian; her exceptional authority does not erase the male law of khanship and formal war command.
+Qarayel united the Tarkhan in 1261. The campaigns remembered as the [[Qarayel and the Black Wind|Black Wind]] carried their power far beyond earlier limits. After his death in 1303, the empire divided into four hordes in 1304. His burial remains unknown.
 
-## Sacred Memory
+## Households and movement
 
-The western Tarkhan used camels and governed wells long before eastern clans captured the scattered Atherian remount herds in the [[First Catch and Grey Sister|First Catch, 905-920 AR]]. The sacred mare **Grey Sister** began the fading hymn-blessed lines that transformed grassland warfare.
+A camp gathers related households around tents, carts, animals, stored food and a shared watch. Pasture and water determine when it must move. Well clans calculate journeys by water days; grass clans consider pasture recovery, foaling and herd movement. Remaining too long can damage the grazing needed in another season.
 
-At the [[Nine Wells of Tergai]], Tarkhan memory and Covenant pilgrimage collide. Tarkhan ancestors dug the Nine Mother-Wells. Covenant armies seized them in 558 AR, then taught that their inhabitants had submitted willingly. The forts, graves, water rights, and competing pilgrimages keep the old dispossession politically alive.
+Women commonly control tents, preserved food, textiles, milk production, household possessions and substantial herd shares. Men dominate formal raiding and war command. Herding, riding, trading, repairs and animal care involve both. Marriage joins routes and herd interests as well as families. Fosterage can create affection and kinship, train a future leader or hold a child as security for an agreement.
 
-## Law and the Open Country
+Free clan members have assembly voice and recognised compensation rights. Clients and dependants exchange service for protection. Captives, slaves and unacknowledged slave-born children lack the same standing. Adoption and manumission can change a person's status through public recognition and obligation.
 
-Tarkhan rule begins at the household fire. Clan assemblies recognize banner-lords and khans who can protect pasture, reward followers, settle prices, and survive failure. An oath states its **word-price** when sworn. Three days of honest guest-right bind host and guest; deliberate betrayal at the fire can justify lifelong pursuit.
+## Food, dress and craft
 
-These are serious goods, as are loyalty, courage, horsemanship, falconry, adaptation, and generous hospitality. They coexist with violent extraction, slave-taking, inherited unfreedom, and rulers who turn scarcity into power. See [[Word-Price, Guest-Right, and Clan Law]] and [[Raiding, Slavery, Ransom, and Adoption]].
+Milk, curds, hard cheese, preserved meat, grain, onions, roots and purchased fruit sustain most households. Fermented drinks accompany ordinary meals and hospitality. During severe travel, blood may be taken from a living herd animal. Some northeastern communities preserve meat and fat from Great-Horn hunts.
 
-## Sky and Falcon
+Homes and clothing suit the journey. Well-Tarkhan use camel-hair cloth, felt, reed matting, shade structures and leather water gear. Grass-Tarkhan favour wool, wheeled frames, drying racks and windbreaks. Coats, belts, embroidery, metal fittings and inherited ornaments identify households, marriages, mourning and service.
 
-Tarkhan tradition names the high order **Kokh, the Blue Eternal** and treats sun, moon, wind, storm, and hunt as its household. Wind-speakers mediate those powers; they do not command them. A few practice [[Falconry and Sky-Riding]], sharing perception with a bonded falcon through lesser courtiers of Orionis while their own bodies remain helpless.
+Felt-making, weaving, leatherwork, saddle construction, bow-making, horn carving and cart repair are valued skills. Falconry requires specialist hoods, jesses, perches and weather cases. A household's ability to feed guests is also a source of standing; poorer hosts may borrow provisions to meet that obligation.
 
-## Navigation
+## Law, leadership and the four hordes
 
-- [[Tarkhan Canon Register]]
-- [[The Making of the Tarkhan]]
-- [[Historical Spine of the Tarkhan]]
-- [[Four Hordes of the Partition]]
-- [[Sky Faith and the Blue Eternal]]
-- [[Tarkhan Camps, Households, and Daily Life]]
-- [[Tarkhan Dress, Food, and Portable Craft]]
-- [[Tarkhan Warfare and the Open Country]]
-- [[Tarkhan and the Wider World]]
+Assemblies recognise banner-lords and khans who can protect pasture, reward followers and settle disputes. An oath states its word-price—the compensation due for breaking it. Three days of honest guest-right bind host and guest. Deliberate betrayal at the household fire can lead to lifelong pursuit.
+
+Larger coalitions depend on such relationships, military success and the distribution of wealth. In 1360 the four hordes have distinct positions:
+
+- The [[White Horde]], under Khan Batuqai, controls the northwestern grass and desert fringe. Its raids and slave-taking threaten Iqashar.
+- The [[Iron Horde]], under Khan Tegrul, faces Iqashar and Mazrakan. Contracted Tarkhan companies are becoming established within Covenant frontier government.
+- The [[Moon Horde]], under Khatun-regent Sorqai, maintains the central sacred circuit and the strictest old sky observance.
+- The [[Ash Horde]], under Khan Chilgir, dominates the northeastern road country and sells Castara the annual [[Castaran Long Road|Ash Road Peace]].
+
+Sorqai holds the Nine-Mane Standard as regent and custodian. Its presence is required for a full kurultai, the great assembly of the wider polity. Her exceptional position coexists with the customary male authority over khanship and formal war command.
+
+## Sky faith and the wider world
+
+Tarkhan tradition names the high order Kokh, the Blue Eternal, and describes sun, moon, wind, storm and hunt as its household. Wind-speakers mediate relationships with these powers. A few practise [[Falconry and Sky-Riding]], sharing a bonded falcon's perception through lesser courtiers of Orionis. During the experience their own bodies remain helpless.
+
+Trade, service, migration and warfare continually change relations with settled neighbours. Covenant employers value Tarkhan soldiers while defending against other Tarkhan raiders. Castara depends on an annual peace for its road commerce. Pilgrims at Tergai encounter incompatible memories of the same wells. These relationships belong to particular clans and rulers, and can change when a banner loses followers or a household chooses another route.
+
+## Further reading
+
+The [[Historical Spine of the Tarkhan]] and [[The Making of the Tarkhan]] explain their formation. [[Tarkhan Camps, Households, and Daily Life]] and [[Tarkhan Dress, Food, and Portable Craft]] describe ordinary work. [[Four Hordes of the Partition]], [[Sky Faith and the Blue Eternal]] and [[Tarkhan and the Wider World]] introduce the principal political and religious connections.

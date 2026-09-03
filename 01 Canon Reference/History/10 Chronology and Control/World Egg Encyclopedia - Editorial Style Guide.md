@@ -87,3 +87,9 @@ Compare revisions with the working files captured at the start, including uncomm
 Preserve filenames, aliases and stable block anchors. Retain heading destinations or update affected references when sections move. Check frontmatter, wikilinks and rendered articles; rerun the Atlas validator and whole-vault compatibility report.
 
 A successful article lets a new reader identify the subject, understand how it worked and follow what changed without depending on the authorial ledger.
+
+## Library rollout
+
+The [[World Encyclopedia - Revision and Expansion Programme]] applies this standard across the canonical library. Its [[World Encyclopedia - Article and Research Inventory|article and research inventory]] assigns every existing article and mapped lead a delivery destination. The first delivery revises the Atlas entrance and eleven culture overviews; historical expansion follows the scheduled packages after that review.
+
+The [[World Historical Atlas - Integration and Coverage Ledger#Encyclopedia entrance editorial review|entrance editorial review]] records the factual reconciliations separately from changes of prose. The approved Tidewood package remains the preserved worked example.

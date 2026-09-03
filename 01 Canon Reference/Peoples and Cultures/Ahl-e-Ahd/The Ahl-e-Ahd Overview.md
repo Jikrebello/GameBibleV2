@@ -14,53 +14,48 @@ tags: []
 ---
 # The Ahl-e-Ahd Overview
 
-Historical reading: [[Historical Spine of the Covenant]], within the [[World Historical Atlas MOC]].
+The Ahl-e-Ahd, or People of the Covenant, are the peoples of a civilisation connected by Al-Ahdiya, the literary Ahdari language, shared legal traditions and a network of roads, markets and places of pilgrimage. Its principal populations are the [[The Ahdari|Ahdari]], [[The Iqashari|Iqashari]], [[The Qahuri|Qahuri]], [[The Qazmari|Qazmari]] and [[The Zanthiri|Zanthiri]]. Their countries range from desert routes and defended wells to grain-producing river lands, imperial cities and maritime trading districts.
 
-The **Ahl-e-Ahd**, or People of the Covenant, are not one ancestry. The name describes a civilization held together by Al-Ahdiya, Covenant law, the literary Ahdari tongue, interdependent roads and courts, and the long reach of Iqashar. Its peoples include [[The Ahdari]], [[The Iqashari]], [[The Qahuri]], [[The Qazmari]], and [[The Zanthiri]]. Velians, Jirahar, Tarkhan, and foreign communities also live beneath Covenant rule without ceasing to be themselves.
+The name embraces several ancestries and political allegiances. Velians, Jirahar, Tarkhan and foreign communities also live under Covenant rulers, maintaining their own forms of belonging. A person's ruler, religion and people may therefore be described in different terms.
 
-## Answer to Reality
+## Formation and historical reach
 
-The Covenant answers chaos through enforceable obligation. Water shares, inheritance, marriage, apprenticeship, sanctuary, trade, and office all depend upon witnessed instruments. A competent jurist can restrain a governor, protect an orphan's estate, or secure a freed person's name.
+The older Ahdari foundations developed among descendants of the Glass refuge. After the first southern departures, the communities near the desert gradually divided under the pressures of distance, water supply and Tarkhan contact. Defended wells, guest-law and territorial oath-coalitions became important to the ancestors of the Ahl-e-Ahd. Related Jirahar communities placed greater emphasis on portable courts and custodianship across dispersed settlements.
 
-That real good exists beside grave corruption. Conquest contracts, inherited servitude, name custody, bound spirits, coerced military service, and loophole justice turn persons into collateral. Covenant law can restrain appetite while giving exploitation permanent form.
+These institutions were already old when Mujalib began his preaching in 541 AR. His revelation and subsequent unification gave them a new religious and political reach. Expansion during the First Unsealing brought cities, cultivated districts and communities of several faiths under Covenant rule. The [[Historical Spine of the Covenant]] follows that expansion, the Long Frontier and later rival states.
 
-## Faith and the Fourth Seal
+Conquest imposed tribute, servitude and military obligations, while roads and protected markets connected distant producers. The present civilisation grew through both processes. [[The Making of the Covenant Peoples]] distinguishes its regional formations and the populations incorporated at different times.
 
-[[01 Canon Reference/Peoples and Cultures/Ahl-e-Ahd/20 Faith and Worldview/Al-Ahdiya Overview.md|Al-Ahdiya]] teaches that creation rests upon the Great Covenant revealed to Mujalib by Malak al-Ahd. [[The Disputed Fourth Seal]] divides the faithful between the majority [[The Witnessed Seal|Witnessed Seal]] and the minority [[The Sealed Blood|Sealed Blood]]. Iqashar and Al-Qahur follow the Witnessed Seal; Qazmarid is the great Sealed-Blood counter-caliphate; Zanthir is predominantly Witnessed but plural.
+## Countries and government
 
-Recognized communities devoted to the Redeemer are called [[The People of the Lamp]]. Their protection is real, unequal, and vulnerable to political abuse.
+Iqashar is the imperial centre of the [[The Qahirid Suzerainty and Iqashar|Qahirid Suzerainty]]. Its court claims an authority challenged by other Covenant rulers. [[Al-Qahur and the Sacred Basin|Al-Qahur]] supplies grain and receives pilgrims whose journeys reinforce its sacred importance. [[Qazmarid and the Sealed Blood|Qazmarid]] sustains a rival caliphate, while [[01 Canon Reference/Peoples and Cultures/Ahl-e-Ahd/60 Realms and Peoples/Emirate of Zanthir/Emirate of Zanthir Overview.md|Zanthir]] relies on commerce, mixed communities and divided tribute to preserve its position.
 
-## States and Power
+Authority reaches households through governors, jurists, cultivators' water councils, neighbourhood sureties and commercial associations. Witnessed agreements govern inheritance, marriage, apprenticeship, rent and office. An effective jurist may restrain a governor, protect an orphan's property or secure a freed person's standing.
 
-[[01 Canon Reference/Peoples and Cultures/Ahl-e-Ahd/40 Government and Institutions/Ahl-e-Ahd Caliphates.md|The Covenant Political Order]] indexes the present states. [[The Qahirid Suzerainty and Iqashar]] controls the imperial center. [[Al-Qahur and the Sacred Basin]] supplies grain, pilgrimage, and sacred legitimacy. [[Qazmarid and the Sealed Blood]] rejects Qahirid universal rule. [[01 Canon Reference/Peoples and Cultures/Ahl-e-Ahd/60 Realms and Peoples/Emirate of Zanthir/Emirate of Zanthir Overview.md|Zanthir]] survives by commerce, mixed law, and divided tribute. [[01 Canon Reference/Peoples and Cultures/Velian/60 Realms and Peoples/Velian States/The Velian States Overview.md|The Velian States]] remain a contested client belt rather than empty unrecovered land.
+Access to these protections depends heavily on means and influence. Wealth buys advocates and dependable witnesses. Conquest agreements and inherited servitude can instead make exploitation durable, while coerced military service and the custody of names restrict people's freedom to leave. The [[01 Canon Reference/Peoples and Cultures/Ahl-e-Ahd/40 Government and Institutions/Ahl-e-Ahd Caliphates.md|Covenant political order]] describes the differences between the present states.
 
-## Life, Work, and War
+## Households and ordinary life
 
-- [[Households and Daily Life in the Covenant]]
-- [[Status, Slavery, and Manumission in the Covenant]]
-- [[Covenant Economy and the Caravan World]]
-- [[Covenant Armies and the Tarkhan Frontier]]
-- [[Mazrakan, Market of the Nine Measures]]
-- [[Qasr Ilyun]]
+A household may include several generations, apprentices, servants, freed dependants and business partners. Marriage agreements specify residence, support, property and the care of children. Their practical emphasis varies: route shares matter to Ahdari families, professional alliances to Iqashari households, land and irrigation to Qahuri cultivators, shrine ties to Qazmaris and mixed legal traditions to Zanthiris.
 
-The Qahirid military heartland operates four permanent Shell anchors: the Iqashar Chain Furnace, Well of Seven Pressures, Ruzbeh Weight House, and Nine Winds Arsenal. Their outputs sustain foundries, waterworks, roads, breach ramps, signals, and [[Covenant Siege Golems]]. Extraction itself is a technique; coerced labor, hidden casualty rates, soulbinding, and the use of captured Depth beasts make particular Qahirid programs culpable.
+Children learn recitation and sums, including the importance of understanding a document before signing it. Craftspeople organise through guild agreements, travellers through caravan associations and farmers through water councils. Most people encounter Covenant law in these everyday arrangements.
 
-## History
+Food follows local production. Desert travellers eat flatbread and herd products; Al-Qahur supplies grain, fish, dates and lentils; orchard foods and seafood are prominent around Qazmarid and Zanthir. Night markets, poetry, wrestling, horse and camel fairs, pilgrim feasts, weddings and funerals bring households into public life. The Mourning of the Wells preserves a more solemn communal memory. [[Households and Daily Life in the Covenant]] develops these differences.
 
-The Covenant arose from ancient desert oath and water institutions, not fully formed from Mujalib's revelation. Its causal history is controlled by [[Historical Spine of the Covenant]] and its identities by [[The Making of the Covenant Peoples]].
+## Trade, engineering and war
 
-## Sestaran Relations
+Caravan houses connect inland fairs with ports and agricultural districts. [[Mazrakan, Market of the Nine Measures]] brings merchants, jurists, travellers and foreign factors together; [[Qasr Ilyun]] supports desert journeys, scouting and rescue. Sestaran ships and fairs extend these routes. Sermoran and Orsenan carriers move Covenant goods, Vardessa receives caravan houses, and Fiorenzian scholars study Covenant law. Aversian weapons travel through licensed trade and smuggling alike.
 
-Sermoran and Orsenan ships carry Covenant goods; Vardessan fairs receive caravan houses; Mazrakan hosts Sestaran factors; Fiorenzian scholars study contract law; and Aversian arms cross licensed and forbidden routes. The Medori are legally and publicly Fiorenzian, while rumors about foreign legal inheritances remain unproved. See [[Sestara and the Wider World]].
+Four permanent Shell anchors support Qahirid military production: the Iqashar Chain Furnace, Well of Seven Pressures, Ruzbeh Weight House and Nine Winds Arsenal. These maintained points of access to elemental forces supply foundries, waterworks, roads, breach ramps, signals and [[Covenant Siege Golems]]. Particular programmes depend on coerced labour, concealed deaths, soulbinding and captured Depth beasts. Their output has made the conditions of production a matter of military as well as religious importance.
 
-## Jirahar Relations
+## Religion and neighbouring communities
 
-Jirahar communities live under negotiated Covenant protections, taxes, and courts without becoming an Ahl-e-Ahd ethnicity. Shared Scattering memories and resident jurists influenced early legal scholarship; they did not found the Covenant peoples. [[Migdal Qesheth]] and [[Migdal Melach]] are major frontier institutions, while Mazrakan brings trade, debate, surveillance, and conversion pressure together. See [[Jirahar and the Wider World]].
+[[01 Canon Reference/Peoples and Cultures/Ahl-e-Ahd/20 Faith and Worldview/Al-Ahdiya Overview.md|Al-Ahdiya]] teaches that creation rests upon the Great Covenant revealed to Mujalib by Malak al-Ahd. The interpretation of [[The Disputed Fourth Seal]] divides the majority [[The Witnessed Seal|Witnessed Seal]] from the minority [[The Sealed Blood|Sealed Blood]]. Iqashar and Al-Qahur follow the former; Qazmarid is the principal Sealed-Blood power. Zanthir is predominantly Witnessed but religiously plural.
 
-## Navigation
+Recognised Redeemer-faithful communities are known as [[The People of the Lamp]]. Their protections include worship and communal institutions, together with restrictions and unequal treatment. The [[01 Canon Reference/Peoples and Cultures/Velian/60 Realms and Peoples/Velian States/The Velian States Overview.md|Velian States]] retain substantial local institutions under competing claimants.
 
-- [[Cultures MOC]]
-- [[Gazetteer of the Known World]]
-- [[Present-Day Courts and Crowns (1360 AR)]]
-- [[Covenant Siege Golems]]
-- [[Shell Anchors and Extraction]]
+Jirahar residents negotiate their own protections, taxes and courts. [[Migdal Qesheth]] and [[Migdal Melach]] are important frontier centres. Shared Scattering memories and resident Jirahar scholars influenced early legal discussion, while the Covenant peoples developed their own institutions. In 1360 these connections sustain trade and scholarship alongside surveillance, conversion pressure and military rivalry.
+
+## Further reading
+
+For the sequence of events, read the [[Historical Spine of the Covenant]], followed by [[The Making of the Covenant Peoples]]. [[Covenant Economy and the Caravan World]] and [[Status, Slavery, and Manumission in the Covenant]] explain work and status. [[Covenant Armies and the Tarkhan Frontier]], [[Sestara and the Wider World]] and [[Jirahar and the Wider World]] place the civilisation among its neighbours. Current rulers are listed in [[Present-Day Courts and Crowns (1360 AR)]].
