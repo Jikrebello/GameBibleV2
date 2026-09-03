@@ -13,41 +13,43 @@ tags: [tidewood-history]
 ---
 # Kindreds of the Three Beaches
 
-The **Three Beaches** is the customary name for the connected shore communities of [[Brackenmouth]], [[Rookstrand]] and [[Keldscar and Gannet Head|Keldscar]]. Their early league dates to about 1470 BR, but no institution has governed them continuously since then. Shared sailings, winter shelter and marriages repeatedly draw them together; disagreements repeatedly dissolve their common action.
+The **Three Beaches** are the connected communities of [[Brackenmouth]], [[Rookstrand]] and [[Keldscar and Gannet Head|Keldscar]] on the Tidewood Coast. Three prominent kindreds—the **Reedwake**, **Tarred Hand** and **Keld kin**—have developed around their provisioning, shipbuilding and pilotage. Marriage, shared voyages and winter shelter sustain relationships between the shores.
 
-Three familiar kindred names dominate the neighbourhood. None describes a pure lineage extending intact from the Giant Age. Each includes birth kin, adoptees, clients and households admitted after migration or calamity. A person may live on another kindred's beach without ceasing to belong to the first.
+A league is conventionally dated to about 1470 BR. Cooperation has been intermittent, with feuds sometimes suspending common expeditions for years. Each undertaking requires boats, stores and labour from participating households. Kindred membership includes relatives by birth, adoptees, clients and families admitted after migration or calamity. Members may live on another kindred's beach while retaining their earlier affiliation.
 
 ## Reedwake: the households that feed the boats
 
-Reedwake families grew around Brackenmouth's estuary fishing, smokehouses and upper storehouses. Their name refers to reeds left bent after a boat has passed through shallow water. In ceremonial accounts the founding household always opens its stores during a hard winter. In less flattering accounts it first lends food, then takes a share in the borrower's boat.
+Reedwake families grew around Brackenmouth's estuary fishery, smokehouses and upper storehouses. Their name refers to reeds left bent by a boat passing through shallow water. Ceremonial accounts describe a founding household opening its stores during a severe winter. Other accounts emphasise food lent in exchange for a share in a borrower's boat.
 
-The kindred's actual history contains both. Stores kept neighbours alive, but prosperous families acquired leverage over crews that could not afford another winter without credit. Some Reedwake households helped [[Maelin Ropeburn]] cut supplies to the Atherian compound; some later resisted releasing captives who worked their own drying yards. In the [[The Beam War|Beam War]], Reedwake timber sellers and Reedwake fishers fought on opposing sides.
+Both practices contributed to Reedwake influence. Stores sustained neighbours through shortages, while lending increased prosperous families' control over crews with few reserves. Some Reedwake households helped [[Maelin Ropeburn]] interrupt supplies to the Atherian compound. Others resisted freeing captives employed in their own drying yards after the revolt. During the [[The Beam War|Beam War]], timber sellers and fishers belonging to the kindred fought on opposing sides.
 
-**Mera Brinecoat** is the principal Speaker in 1360. She was raised in a household that prepared fish for inland exchange and became known for bringing cargo home when a wealthier owner had given it up for lost. Older families respect her competence but do not consider her their hereditary ruler. Her current difficulty is plain: foreign buyers offer the grain her supporters want in exchange for timber some of those supporters have no right to cut.
+**Mera Brinecoat**, the principal Speaker in 1360, was raised in a household preparing fish for inland exchange. Her reputation grew after she brought home cargo a wealthier owner had abandoned as lost. Older families respect this competence while retaining their own authority over household resources. Mera's supporters want grain offered by foreign buyers, but the required timber extends into holdings beyond their permission to cut.
 
 ## The Tarred Hand: kin made at the yards
 
-The Tarred Hand formed after the [[Taking of the Dry Fleet]] around 1260 BR. Local boatwrights, freed compound labourers and surviving foreign residents joined households rather than depart. Hands blackened by pitch became their visible sign. The gesture used at a new apprentice's first completed repair is still a tarred palm laid against a plain board.
+The Tarred Hand formed around Rookstrand's yards after the [[Taking of the Dry Fleet]] around 1260 BR. Local boatwrights, freed compound labourers and surviving foreign residents joined households and remained on the shore. Pitch-blackened hands became the kindred's sign. An apprentice's first completed repair is still marked by a tarred palm pressed against a plain board.
 
-The kindred's skill made admission valuable. It also let established masters exclude rivals. Some families proudly remember adopting strangers and then oppose a living stranger's claim to become a master. The supposed descent of every yard from Maelin is a late simplification; several founders were people she freed, employed or failed to protect, not her children.
+Skills made membership desirable and gave established masters influence over admission to work. Families that remember welcoming strangers may nevertheless oppose a newcomer seeking recognition as a master. Later genealogies simplified these mixed beginnings by making every yard descend from Maelin. Several founding households instead began with people she freed, employed or failed to protect.
 
-[[Orven Blackkeel]] belonged to this working world without making all Tarred Hand households responsible for his slave sales. **Haldren**, their leading yard Speaker in 1360, descends from a different house. His authority depends on work shared among masters and on younger workers believing there will be a place for them when they finish learning. Overseas orders promise that work. They may also make the yards dependent on buyers who do not care whether Tidewood has winter boats of its own.
+[[Orven Blackkeel]] belonged to this working community and recruited support for his voyages there. Individual households differed in their participation and response to his captive sales. **Haldren**, the leading yard Speaker in 1360, comes from another house. His position depends on cooperation between masters and the expectation among younger workers that training will lead to employment.
+
+Overseas orders promise to sustain that work. They also commit time and timber to buyers whose demands may compete with the repair and replacement of Tidewood's own winter boats. This gives current negotiations an importance extending beyond the income of a single yard.
 
 ## The Keld kin: shelter at the exposed shore
 
-Keld families maintain boat shelters, lookout places and the difficult approaches around Gannet Head. Their Ättar relatives bring marriage ties and access to other crews, but no foreign jarl can command every Keld boat. A pilot's expertise is learned by accompanying older pilots, then making difficult decisions without them.
+The Keld kin maintain winter shelters, lookouts and the difficult approaches near Gannet Head. Marriage and fosterage connect them with Ättar families and provide access to crews on other coasts. Individual households retain their boats and make their own commitments. Pilotage is learned through accompanying experienced workers before taking responsibility for difficult passages.
 
-The betrayal of Hadrun and his adult daughter Tova in 514 remains a household wound. Tova's children grew up ashore without her. Their descendants preserve net patterns attributed to her workshop and a song that refuses to give the captives an invented happy ending. These are inheritances of work and loss, not proof that a particular modern net passed through Tova's hands.
+The sale of Hadrun and his adult daughter Tova in 514 remains important in Keld memory. Tova's children grew up ashore after their mother's departure. Their descendants preserve net patterns attributed to her workshop and a song ending with the captives' removal. These transmitted designs and verses have survived through later work and performance; the fate of the people taken away remains unknown.
 
-**Yarra Keld**, pilot and War-Keeper in 1360, has brought boats out of two failed shelterings and therefore distrusts speeches about courage delivered from dry rooms. She wants repairs before another escort season. Some younger pilots accuse her of keeping profitable routes for her own household; some older relatives would rather risk a ship than accept more Reedwake provisions on credit.
+**Yarra Keld**, a pilot and War-Keeper in 1360, has brought boats out of two failed shelterings. That experience informs her demand for repairs before another escort season. Younger pilots accuse her of reserving profitable routes for her own household, while some older relatives would accept greater risks at sea rather than borrow further Reedwake provisions.
 
-## Gathering without becoming one people
+## Gatherings and common action
 
-The three shores gather when a voyage needs more boats than one can provide, when a winter danger exceeds one harbour's stores, or when feuding has made daily work impossible. Their Speakers bargain; their War-Keepers judge what can be defended; their seers may disagree about which offerings are dangerous. Religious agreement is not required for every rescue.
+The shores gather when a voyage needs a larger fleet, when winter danger exceeds a harbour's resources, or when feuding has disrupted ordinary work. Speakers negotiate contributions, War-Keepers assess the available defence, and seers advise on offerings. Such cooperation can proceed among households with different religious practices.
 
-A common feast does not erase those divisions. The first bowl passes among guests, songs praise or insult absent captains, and a visitor may be asked to judge a disputed joke rather than a boundary. Children learn which adults are related by discovering who may mock whom without starting a fight.
+Feasts provide occasions for maintaining these relationships. The first bowl passes among guests; singers praise or insult absent captains, and visitors may be invited to judge a disputed joke. Children learn degrees of kinship through the familiarity with which adults address and mock one another.
 
-The Three Beaches can sustain a fleet for a particular purpose. They cannot speak for all [[Tidewood Coast|Tidewood]], all the Folk or the powers approached at their shores.
+The reach of a common decision depends on the households participating in it. The Three Beaches can furnish a fleet for a particular undertaking, while other Tidewood communities retain their own voyages, gatherings and religious relationships.
 
 - [[History of the Tidewood Coast]]
 - [[Folk Clans, Confederacies, and Feud-Law]]

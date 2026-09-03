@@ -98,4 +98,88 @@ The 75 Garden roots and their canonical destinations are unchanged. The new comi
 
 Read [[Tidewood Coast]] → [[History of the Tidewood Coast]] → [[Rookstrand]] → [[Maelin Ropeburn]] → [[The Summer Without Wrecks]] → [[Sails, Fish and Winter Fire]] → [[The Boat Too Fine for Water]].
 
-This route tests whether a reader can remember particular people and places, follow why their lives changed, and experience a different tone between a revolt, a coastal horror, household work and a comic tale. The wider regional programme waits for the author's assessment of this example's richness and voice, not for a campaign to require the next region.
+This route tests whether a reader can remember particular people and places, follow why their lives changed, and experience a different tone between a revolt, a coastal horror, household work and a comic tale. The author's subsequent approval of the encyclopaedic revision is recorded below and closes the editorial-standard review for this worked example.
+
+## Encyclopaedic voice revision — 3 September 2026
+
+[[World Egg Encyclopedia - Editorial Style Guide]] records the Britannica research, its limits and the house rules applied to this package. The revision covers the fourteen Tidewood-folder articles, the regional history and the Court of Salt and Teeth. It changes presentation, not historical authority. The file contents captured at the start of the pass are the factual baseline; the working tree was clean at that point, at commit `c287a41`.
+
+Introductions now identify subjects and explain their place in coastal history. Paragraphs develop the relationships between shelter, food, materials, work and authority. Corrective contrasts and repeated moral endings have been removed where they supplied only the narrator's habitual manner. Substantive refusals, failures and missing lives remain. The full text under **The tale** in *The Boat Too Fine for Water* is unchanged.
+
+### Sixteen-article editorial checklist
+
+Each row records a completed contextual editorial and fact review. Automated verification is reported separately below; it does not establish literary quality or replace comparison with the baseline.
+
+| Article | Editorial treatment | Facts and distinctions checked |
+|---|---|---|
+| [[Tidewood Coast]] | Expanded independent overview; explained offices, regional livelihoods and current disputes | Orphaned ancestry, regional scale, Three Beaches limits, uneven Grobi pressure, sea debts and open 1360 conflicts |
+| [[Brackenmouth]] | Connected estuary shelter, provisioning, the loft and current timber negotiations | Flood retreat, reused masonry, divided holdings, Edris's cloth, renewed stock, Broken Slide and Mera |
+| [[Rookstrand]] | Explained hauling work, repair practices and overseas orders | Captive deaths, executions, Burnt Sleeping Ground, mixed Tarred Hand origins, Orven's victims and Haldren |
+| [[Keldscar and Gannet Head]] | Oriented the two approaches and developed pilotage and household connections | Separate inlet, Ättar ties, Hadrun and Tova, displaced survivors, 1002 crossing and uncertain present lights |
+| [[Kindreds of the Three Beaches]] | Explained membership, resources, bargaining and gatherings | Intermittent league, non-biological membership, distinct Speakers, Yarra's two shelter failures and transmitted net patterns |
+| [[Maelin Ropeburn]] | Developed captivity, employment, revolt and subsequent craft work | c. 1290–1230 BR, hauling injury, complicity, execution order, burned captives, bereaved woman's refusal and continuing slavery |
+| [[Orven Blackkeel]] | Connected early command, patronage, slave sales and competing songs | 471–519 AR, 514 sale, Tova's skills and children, captain defections, widow's refusal and lost winter provision |
+| [[Brenna Half-Sail]] | Introduced the working life around the landing and its aftermath | 671–736 AR, household benefit, rigging recognition, Teren's death, displaced children, unestablished religious claims and renewed float |
+| [[Edris Sailmaker]] | Explained cloth repair, teaching, religious relationships and communal stock | 961–1038 AR, Wolfsmere news, living 1002 passengers, surrendered material and unreconciled neighbour |
+| [[Taking of the Dry Fleet]] | Developed the route from invitation to revolt and the resulting yards | c. 1260 BR, Aulon, withheld rollers and carts, executions, locked shed, worker release and rebuilding |
+| [[The Summer Without Wrecks]] | Clarified dependence, coercion, investigation, landing and dispersal | 710–712 AR, false lights, murdered survivors, drowned sacrifice, Iven's death, Teren, escaped wreckers and food refusal |
+| [[The Beam War]] | Explained advances, water damage, changing alliances and settlement | 1287–1291 AR, Valdren's purchasing role, knowingly dangerous sabotage, beatings, occupied-storehouse burning and surviving debts |
+| [[Sails, Fish and Winter Fire]] | Developed household work and seasonal customs as a continuous account | Food and fuel constraints, varied tools, cloth triage, local moon reckoning, four festivals, races, launch humour and winter boasts |
+| [[The Boat Too Fine for Water]] | Revised introduction, launch explanation and variant commentary | Full tale unchanged; first attestation, ordinary custom and unestablished historical protagonist retained |
+| [[History of the Tidewood Coast]] | Reworked the chronological account with fuller causal transitions | All established periods, local participants, independent Folk–Ättar histories, separate Wolfsmere and inland Hunt, open present |
+| [[The Court of Salt and Teeth]] | Introduced the collective tradition and separated its remembered encounters | Existing restricted visibility, signs and offerings, bodily alteration, separate Net-Mother pool, Guest and Ferryman, uncertain seals |
+
+### Controls relocated from reader prose
+
+The following boundaries retain their original force. They are consolidated here so that the articles can explain their subjects without repeatedly interrupting the account with design exclusions.
+
+- Tidewood and the Three Beaches establish no new kingdom, surveyed province or coast-wide hereditary command. Local gathering does not speak for every inlet, the whole Folk or the powers encountered at the shore. The Orphaned ancestry and all geographic boundaries above remain controlling.
+- Maelin's injury is bodily, not a magical brand. Her employment does not establish a lifelong secret rebellion. Her customary handprint proves neither an authentic relic nor inherited rule. The capture is not a general expulsion of Atherians. The burned labourers died through confinement and the attack, not a necessary supernatural sacrifice.
+- Orven establishes no Blackkeel order, inherited command or posthumous return. Neither his gifts nor his enemies' victory establishes moral innocence. Haldren belongs to another house. Hadrun and Tova's fate remains unknown.
+- Brenna's warning came from recognised rigging, not a vision. She did not command every rescuer, destroy Tidewood's sea sovereignty or become mistress of the sea. Her renewed float is not her authenticated possession and cannot promise rescue from drowning. A narrative description of aid remains distinct from a sainthood ruling.
+- Edris's living passengers were not resurrected dead. The Ferryman acquired neither shore ownership nor their descendants. The Common Loft is not a cult entitled to future passengers. Its contents are renewed working material, not proven original or speaking relics. Edris receives no new commission, sainthood or judgement through the rewrite; Chapel-Folk's regard remains a historical practice.
+- The Court's appearances remain separately classified in the table above. Thalassor-aligned ecologies, Patron exchanges and dependent hunger Masks can receive related folk names. Some exchanges end at their agreed price; others sustain recurring predation. Net-Mother bargains offer no general promise of safety or return of drowned relatives. Their description fixes no additional death or encounter.
+- The Guest's destruction was local and leaves Gluttony's Throne intact. No inherited guilt attaches to children of participating households. Refusing a compulsory catch is a costly custom, not a protective charm.
+- Objects and ruins—including the Burnt Sleeping Ground, the loft, the renewed float and nets carrying Tova's attributed designs—retain their historical associations without authenticating every surviving piece. A donated panel's allocation is a practical decision, not a judgement on a passenger's human worth.
+- The launch patch and shared bowl create no compulsory sea tithe. The comic boatwright establishes no magical vessel, sea bargain or lost king. The tale's performance and custom remain canon at the existing stories-told level.
+- Valdren remains a purchasing house trading elsewhere after withdrawal, not a fallen national dynasty. No 1360 dispute receives an outcome. All pre-existing continuity, commission, collision and protected-mystery rulings remain unchanged.
+
+### Relocated campaign prompts
+
+These were formerly **Story Uses** in the overview and Court article. They remain unactivated possibilities, not additional events in regional canon.
+
+From the Tidewood overview:
+
+- A rescued crew is legally claimed by the same court that wrecked it.
+- A false beacon threatens war between a Tidewood league and Ättar clan.
+- A winter Grobi host appears on an estuary believed impassable.
+
+From the Court account:
+
+- A harbour's miraculous catch ends whenever no ship is lost.
+- A returned boat name belongs to a living captain.
+- A shore-right dispute awakens every wreck claimed by the village.
+
+### Representative voice changes
+
+**Direct definition.** The overview previously began its political explanation with “Tidewood is a region, not a kingdom.” It now opens the section with: “Authority rests with fishing clans, ship households, estuary leagues and coastal hillforts.” The following sentences explain the Speakers, War-Keepers and resources involved.
+
+**Fuller explanation.** Brackenmouth's “The loft is not perpetually generous” has become an explanation of management: “Sailmakers consider whether an owner has neglected a vessel, whether a borrowed panel is likely to return and which repairs are most urgent.” The surrounding account connects those choices to gifts, marked repairs and the continuing replacement of materials.
+
+**Authorial interruptions.** The former ending of Edris's biography listed the absence of a commission, sainthood and authentic speaking relic. Its reader-facing conclusion now describes how Chapel-Folk remember her and how sailmakers invoke her work. Those metaphysical limits remain explicit in this control document.
+
+### Voice-pass verification
+
+- All sixteen reader-facing articles were revised. Frontmatter, including aliases and visibility, is identical to the captured baseline in all seventeen pre-existing files, including this control note. The earlier control text remains unchanged, and the full comic retelling is identical after line-ending normalisation.
+- The contextual review checked the events and relationships listed above. A supplementary corpus check found no introduced or lost three- or four-digit date tokens and retained all twenty-two checked principal names and named remainders. These token checks supplement, rather than prove, factual agreement.
+- All eighteen Atlas validation checks pass, with no malformed frontmatter, broken links or unreachable history articles. The new style guide is reachable through this existing Atlas-linked control note.
+- The whole-vault compatibility report indexes **1,819 articles and 139 attachments**, with **zero fatal reader errors**, **zero non-archive diagnostics** and **zero source changes during its audit of 1,958 files**. The additional article is the author-only style guide.
+- The full set of existing index diagnostics matches the pre-pass baseline exactly: 267 ambiguous references, 28 missing references, four missing anchors and 48 metadata warnings, all in archives. The sorted diagnostic-record SHA-256 remains `4EC5C1F3D80DF35BDBFEF5747CE4AA4A0529B994EDA1502AA5916F87F8CE31FD`.
+- All sixteen live wiki article routes return HTTP 200 without unresolved-reference chooser links. The overview response contains the revised text. These are HTTP checks, not automated browser or visual inspection.
+- The two retitled headings, the removed Story Uses sections and the relocated Authorial Truth section had no inbound heading references. Other headings, filenames, aliases and stable anchors were preserved. `git diff --check` passes. No archive, application code, unrelated lore or runtime configuration was edited.
+
+The review route is [[Tidewood Coast]] → [[Brackenmouth]] → [[History of the Tidewood Coast]] → [[Maelin Ropeburn]] → [[The Summer Without Wrecks]] → [[The Boat Too Fine for Water]].
+
+### Author's approval — 3 September 2026
+
+The author approved the revised Tidewood package as the standard for subsequent encyclopedia work, praising its clearer reading and the removal of formulaic narration. [[World Egg Encyclopedia - Editorial Style Guide]] now governs new reader-facing articles and revisions across the encyclopedia. The Tidewood voice review is complete. Wider corpus revision and regional expansion remain work to be undertaken; this approval records their editorial standard, not their completion.

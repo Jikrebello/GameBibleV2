@@ -13,33 +13,35 @@ tags: [tidewood-history]
 ---
 # Taking of the Dry Fleet
 
-The **Taking of the Dry Fleet**, around 1260 BR, ended an Atherian sea-house's armed occupation of a working compound at [[Rookstrand]]. Its name comes from the ships captured above the tide. It was a local revolt with consequences for the neighbouring shore, not a war that expelled every Atherian from Tidewood.
+The **Taking of the Dry Fleet** was a revolt at [[Rookstrand]] around 1260 BR that ended an Atherian sea-house's occupation of a working compound. The attackers captured vessels hauled above the tide by preventing their launch and entering through a workshop approach. These ships gave the event its name and supplied equipment for the subsequent development of the local yards.
+
+[[Maelin Ropeburn]], a returned captive employed by the sea-house, helped coordinate the rising. Its participants included compound workers, suppliers and shore households with different interests in removing the occupiers. The capture freed surviving labourers and enabled wider trade, while executions and deaths in a burning sleeping shed left lasting divisions among the victors and those they had released.
 
 ## Guests become collectors
 
-The sea-house had first been admitted to winter at Rookstrand in return for help against raiders. Its growing compound required food, wood and skilled repairs. Captain **Aulon of the Red Sail** treated missed deliveries as defiance. Armed collectors confiscated boats and held workers' children until families met the demands.
+The sea-house had originally received permission to winter at Rookstrand in return for assistance against raiders. Its compound gradually required larger supplies of food, timber and skilled work. Captain **Aulon of the Red Sail** treated missed deliveries as defiance. His collectors confiscated boats and held workers' children until families met their demands.
 
-Local opponents did not all want the same outcome. Some wished to remove the collectors and keep the trade. Some wanted their kin released. Some expected to inherit the foreign stores. [[Maelin Ropeburn]], who had worked in the compound after returning from captivity, brought together workers who knew its daily routines and households able to interrupt its supplies.
+Opposition developed around these demands, although participants sought different outcomes. Some wanted to preserve foreign trade while removing the collectors. Others sought the release of relatives or expected a share of the sea-house's stores. Maelin linked workers familiar with the compound's routines to households able to interrupt the supplies on which it depended.
 
 ## The ships that could not reach the water
 
-The attack was timed for Aulon's absence with the principal sailing crews. Workers removed key rollers from beneath the beached ships. Estuary suppliers withheld the carts that might have replaced them. When fighting began, men sent to launch the remaining vessels found their escape too heavy to move.
+The attack was timed for the absence of Aulon and the principal sailing crews. Workers removed important rollers from beneath the beached ships, and estuary suppliers withheld the carts that could have replaced them. The remaining defenders therefore faced attackers on land with vessels too heavy to launch.
 
-An opened work entrance let the attackers through before the gate defenders understood the scale of the rising. The compound fell in pieces: a storehouse here, a yard there, men trying to carry private chests through other people's fighting. Aulon returned offshore but would not beach his surviving ships into a hostile yard. He withdrew without rescuing the retainers who had surrendered.
+An opened work entrance allowed the attackers inside before the gate defenders understood the extent of the rising. Fighting spread through separate stores and yards, with men attempting to carry private chests out through occupied ground. Aulon returned offshore but declined to beach his surviving ships at the hostile landing. He withdrew, leaving surrendered retainers in the attackers' hands.
 
-Maelin ordered those retainers killed. During the attack a fire spread into a locked sleeping shed containing captive labourers. Rescuers opened part of the building; others inside died. Their deaths were not a later punishment inflicted by the sea or a necessary sacrifice to make the victory work. They were a consequence of the attack and the conditions in which the sea-house had confined its workers.
+Maelin ordered those retainers killed because she feared their assistance to a returning force. During the attack, fire reached a locked sleeping shed containing captive labourers. Rescuers opened part of the building, but other occupants died before they could escape. Their confinement and the failure to reach them in time made the shed one of the revolt's principal sites of loss.
 
 ## A shore with ships and too little food
 
-Captured vessels and tools gave the victors new power. They also required maintenance the victors could not immediately provide. Some hulls were stripped so others could sail. Freed workers demanded food, places to live and the means to leave. Allies who had counted on dividing every inhabitant as spoil quarrelled with Maelin over releasing them.
+The captured vessels required more maintenance than the victors could immediately provide. Some hulls were stripped to make others seaworthy. Released workers also needed food, housing and passage away from the coast. Allies who had expected to divide every inhabitant as spoil quarrelled with Maelin over her insistence on freeing the compound's surviving labourers.
 
-The eventual mixture of local builders, freed workers and foreign residents helped form the Tarred Hand. Their ships enabled wider exchange, employment and raiding. The burned sleeping ground remained an awkward place within that prosperity.
+Local builders, freed workers and foreign residents subsequently formed households around the yards. Their mixed community helped establish the Tarred Hand kindred. Captured equipment increased their ability to undertake exchange, paid service and raiding, bringing new employment and wealth to the neighbouring shore.
 
 ## Remembering the taking
 
-At Rookstrand, the common heroic telling ends when the dry ships cannot be launched. Families descended from the confined workers continue through the burning shed and the quarrels afterward. The difference is sometimes audible in a single performance: a singer pauses where one audience expects applause and another expects the next verse.
+Rookstrand's heroic telling commonly ends with the defenders unable to launch the dry ships. Descendants of confined workers preserve longer versions that continue through the shed fire and the disputes over release. Performers must therefore negotiate different expectations within the same audience: the moment that calls for applause in one household may precede the central loss remembered by another.
 
-The old compound has been rebuilt repeatedly. Avoidance of permanent houses on the **Burnt Sleeping Ground** preserves a communal memory; it does not identify every surviving fragment as an object from the taking. The story and its changed coastline of work matter more than possession of one victorious weapon.
+Much of the compound has been rebuilt. The **Burnt Sleeping Ground** remains free of permanent houses, preserving the community's association of that strip with the deaths. Repeated use of the site makes the origins of individual fragments uncertain. The enduring custom and the continued work of the yards carry different parts of the event's memory.
 
 - [[Maelin Ropeburn]]
 - [[Rookstrand]]

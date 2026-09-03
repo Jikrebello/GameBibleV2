@@ -13,31 +13,33 @@ tags: [tidewood-history, historical-figure]
 ---
 # Edris Sailmaker
 
-**Edris Sailmaker** lived at [[Brackenmouth]] and worked around the Three Beaches between the Fall and the later Reconquest. Her most durable inheritance is the shared sail loft maintained by subsequent households. She is remembered for a supernatural rescue, but much of her influence came from teaching people to repair cloth without depending on her.
+**Edris Sailmaker** (961–1038 AR) was a Brackenmouth craftswoman known for repairing worn sailcloth, teaching householders to maintain their own gear and assisting a winter evacuation near Keldscar. Her loss of working cloth during that crossing in 1002 prompted neighbours to contribute replacement material. Continued gifts developed into the **Common Loft**, a stock of cloth and fittings used for repairs and rescues.
+
+Edris worked around the Three Beaches during the Reconquest, when disrupted trade made new materials difficult to obtain. Her skill in reusing unevenly worn cloth extended the working lives of sails and helped households keep their boats in service.
 
 ## A craft carried between households
 
-Born in 961, Edris learned from relatives repairing the mismatched canvas and woven sailcloth brought home by crews that could not buy new material. She became especially good at joining worn panels so that a weak edge did not carry the main strain. Her work was recognizable without a written signature.
+Edris learned from relatives repairing the mismatched canvas and woven sailcloth brought home by crews. She became particularly skilled at joining panels so that the weakest edge would carry less strain. Sailmakers could recognise the arrangement of her work without a written signature.
 
-Marriage to a Keld boatworker took her repeatedly to the exposed shore. She kept ties to Brackenmouth's stores and taught repairs in both places. The pupils included widows, young sailors and owners who had previously considered sewing someone else's work. Her sharpest remembered insults concern men who trusted their lives to knots but considered a needle beneath them.
+Marriage to a Keld boatworker took her regularly between the exposed shore and [[Brackenmouth]]'s stores. She taught in both places. Widows, young sailors and boatowners learned repairs from her, including owners who had previously regarded sewing as work to leave to others. Remembered jokes and insults attributed to Edris frequently concern men willing to trust their lives to knots while considering a needle beneath them.
 
-She belonged to a Redeemer-faithful household. Old-rite neighbours continued working with her, though some refused her family's baptismal meals. Reports of the 993 Wolfsmere massacre made those disagreements harder. Edris did not claim that the killers' religion excused them, nor did her neighbours become harmless because they distrusted the Church. They still had boats to repair before winter.
+Her household followed the Redeemer faith. Old-rite neighbours continued working with her, although some refused the family's baptismal meals. News of the Wolfsmere massacre in 993 deepened local distrust of the Church and sharpened these disagreements. Edris continued repairing boats with those neighbours as they prepared for winter.
 
 ## The cloth that did not come back
 
-In 1002, ice and driven water trapped households beyond Keldscar's ordinary landing. A being called the **Drowned Ferryman** offered a passage that their boats could not otherwise make. Edris surrendered her stored sailcloth in exchange for transporting the trapped people and herself.
+In 1002, ice and driven water trapped households beyond Keldscar's ordinary landing. The being remembered as the **Drowned Ferryman** offered a passage their boats could not otherwise make. Edris surrendered her stored sailcloth in exchange for transporting herself and the trapped people, who emerged alive at a sheltered landing.
 
-The passage carried living passengers. It did not raise drowned relatives, settle ownership of the shore or grant the Ferryman their future children. Those larger claims belong to later threats and stories. The cloth was taken; the people emerged at the sheltered landing.
+The household account identifies the price as valuable working material. Later stories and threats enlarged the exchange into claims over drowned relatives, shore ownership or future children. These differing versions contributed to disagreement about the Ferryman and about what the crossing had required.
 
-Among them was a former neighbour who had refused Edris's household shelter during an earlier quarrel. Later exemplary tales make them embrace. The household account remembers a colder ending: Edris helped the family ashore and sent food, but did not invite them into her own room. Rescue restored a life, not the lost friendship.
+The passengers included a former neighbour who had denied Edris's family shelter during an earlier quarrel. Exemplary tales describe a reconciliation. In the household account, Edris helped the family ashore and sent food but did not invite them into her room. Their subsequent lives remained separate.
 
 ## Building a stock that one workshop could not supply
 
-The price left Edris with little material for the next trading season. Neighbours gave usable scraps and damaged sails. She repaired what she could and made the remaining stock available for urgent work. Contributions became a recurring practice because the arrangement helped boats return to their owners.
+The loss left Edris with little cloth for the next trading season. Neighbours supplied usable scraps and damaged sails, which she repaired or held for urgent work. Contributions continued because a shared stock helped more crews restore their boats.
 
-The Common Loft's later rules and building are not all hers. They changed as households argued over neglect, need and repayment. Her contribution was the example of material given for use, combined with the skill to make it useful. A pile of rotten cloth would have honoured nobody.
+Later households changed the building and the arrangements for borrowing as disputes arose over neglect, need and repayment. The Common Loft thus grew through successive decisions made by its users. Edris's part in its development combined a willingness to make material available with the skill to restore it to service.
 
-Edris died in 1038. No commission, sainthood or authentic speaking relic is established for her. Chapel-Folk may venerate her memory as an exemplary neighbour without possessing an authoritative answer about her judgement. The ordinary value of the loft survives that uncertainty.
+She died in 1038. Chapel-Folk remember her as an exemplary neighbour, and the loft continues to connect that memory with practical assistance. Sailmakers assessing an old panel still invoke her work when deciding how much useful cloth can be recovered.
 
 - [[Brackenmouth]]
 - [[Sails, Fish and Winter Fire]]

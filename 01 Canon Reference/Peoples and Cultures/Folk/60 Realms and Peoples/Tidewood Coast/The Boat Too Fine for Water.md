@@ -14,7 +14,7 @@ tags: [tidewood-history, received-tradition]
 ---
 # The Boat Too Fine for Water
 
-This comic tale is told around [[Rookstrand]]'s yards and at launches elsewhere in the Three Beaches. Its earliest composition and original teller are unknown. The telling and the plain patch worn at a new boat's launch are established customs; the master in the story is not an identified historical founder.
+**The Boat Too Fine for Water** is a comic tale performed around [[Rookstrand]]'s yards and at boat launches elsewhere in the Three Beaches. It concerns a craftsman's reluctance to use his finished vessel and accompanies the custom of displaying a plain patch on a new boat. The tale is attested by the late imperial centuries, although its original teller, date of composition and any historical model for the master remain unknown.
 
 ## The tale
 
@@ -42,15 +42,15 @@ The master agreed. He spent the winter teaching his apprentices how to mend it.
 
 ## At the launch
 
-A new Rookstrand boat wears a plain patch or scrap tied where the crowd can see it. Children ask whether it is a boat or a house. The owner must answer before the hauling begins. A beautiful vessel is not mocked for being beautiful; the mockery falls on refusing the life for which it was made.
+A new Rookstrand boat wears a plain patch or scrap where the crowd can see it. Children ask whether it is a boat or a house, and the owner must answer before hauling begins. This exchange recalls the apprentice's question in the tale and directs the teasing towards the owner's willingness to put the vessel to use.
 
-The custom is especially welcome to crews whose gear has never been new enough to admire. A patched sail may carry people farther than a rich owner's untouched one. It still has to be competently repaired.
+Crews accustomed to worn equipment particularly enjoy the custom's recognition of a sound repair. The story gives the first damage to new work a place within its useful life. At Brackenmouth's Common Loft, children also perform it with a bench as the boat and an adult playing the sea.
 
 ## Other tellings
 
 In an Ättar version, the owner is a boastful young jarl and the least honoured member of his crew supplies the patch. Rookstrand masters prefer the workshop version because the apprentices get the final practical victory. Children often add a crab that has been living under the hull for three years and must be paid to leave.
 
-No version establishes a sea bargain, a magical boat or a lost king. The tale gives the first scar on useful work a kinder meaning.
+The workshop, household and crew versions draw on familiar relationships between skilled workers and the people who depend on them. Their changes allow the same story to be told at a master's launch, a communal gathering or a children's performance.
 
 - [[Sails, Fish and Winter Fire]]
 - [[Rookstrand]]

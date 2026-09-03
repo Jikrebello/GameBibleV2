@@ -13,35 +13,37 @@ tags: [tidewood-history]
 ---
 # Rookstrand
 
-**Rookstrand** is a broad hauling beach where the forest rises behind a belt of workshops and boat shelters. It lacks [[Brackenmouth]]'s protected estuary. Its advantage is room: a damaged trading hull can be brought above the tide, emptied and opened without blocking every other boat. Crews waiting for repairs sleep in hired rooms, workshops or tents among the upper rollers.
+**Rookstrand** is a shipbuilding settlement on a broad hauling beach within the [[Tidewood Coast]]'s Three Beaches neighbourhood. The forest rises behind its workshops and boat shelters. Its open shore provides enough room to bring damaged trading hulls above the tide, unload them and undertake extensive repairs while leaving space for other vessels. Crews waiting for work to be completed lodge in hired rooms, workshops or tents among the upper rollers.
 
-The sound of the settlement is work on wood. A visitor hears wedges before seeing the yards, then adzes, arguments about a bent frame and the abrupt silence when someone realizes a rope has begun to part. Boatwrights teach children to move around a loaded hauling line before teaching them to carry tools.
+Exposure makes the handling of boats especially important. Wedges and adzes can be heard through the yards, where frames are opened, timbers fitted and hauling lines placed under heavy strain. Children learn how to move safely around a loaded line before they are trusted to carry tools. The settlement relies on [[Brackenmouth]] for much of its provisioning and on Keldscar's pilots for guidance along the more dangerous approaches.
 
 ## The fenced beach
 
-In the heroic-maritime age, an Atherian sea-house converted a winter berth into a guarded compound. Local families had first invited it to help against raiders. Its successors demanded timber and labour, confined captives and took children as security for delivery. [[Maelin Ropeburn]] worked inside it before helping organize the [[Taking of the Dry Fleet]] around 1260 BR.
+During the heroic-maritime age, an Atherian sea-house obtained a winter berth at Rookstrand by helping local families against raiders. It subsequently developed a guarded compound above the working beach. Demands for timber and labour increased, captives were confined there, and workers' children were taken as security for deliveries.
 
-The compound stood above the working beach, not over the whole modern settlement. Its capture freed the landing from that sea-house, but fire killed captives in a locked shed and surrendered retainers were executed. Later generations built over much of the site. A low strip traditionally called **the Burnt Sleeping Ground** remains free of permanent houses. Temporary fishing racks stand there in summer; the avoidance does not prove that every surviving ember or bone belongs to the attack.
+[[Maelin Ropeburn]], a returned captive employed in the compound, helped organise the [[Taking of the Dry Fleet]] around 1260 BR. The attack removed the sea-house's control of the landing and captured ships above the tide. Maelin ordered surrendered retainers executed, and captives died when fire reached a locked sleeping shed during the seizure.
 
-Freed labourers and established yard households formed the working kindred called the [[Kindreds of the Three Beaches|Tarred Hand]]. Some brought relatives from abroad; others married locally. Their children inherited craft and belonging through households that did not share one biological founder.
+Later building covered much of the compound. A low strip known as the **Burnt Sleeping Ground** is still kept free of permanent houses, although temporary fish racks occupy it in summer. The custom preserves the memory of the sleeping shed within a site altered by centuries of use. The age and origin of individual fragments found there remain uncertain.
+
+Freed labourers, established boatwrights and surviving foreign residents joined households around the yards, forming the working kindred called the [[Kindreds of the Three Beaches|Tarred Hand]]. Some brought relatives from overseas and others married locally. These households transmitted craft skills and membership to their children, giving the kindred several distinct lines of descent.
 
 ## Ships that can come home
 
-Rookstrand yards became known for boats that could be repaired far from the yard. Builders used a limited range of replaceable working parts, left access where repairs were likely and preferred a sound patched sail to an impressive one that could not be mended locally. These habits developed over many generations of wrecks and returns.
+Rookstrand's reputation developed around vessels that could be repaired away from their home yard. By about 620 BR, local builders were known for cargo boats with replaceable working parts and access to places likely to require attention. Sound, repairable sails were valued for the same reason. These practices emerged gradually as crews returned with damaged ships and builders learned which arrangements had survived the voyage.
 
-The result was not one standard vessel imposed on the coast. Cargo boats, fishing craft and fighting ships demanded different compromises. Some Ättar buyers disliked a heavy hull until it survived a grounding. Some Rookstrand masters copied foreign innovations while insisting they had always worked that way. The jokes told about them are part of [[Sails, Fish and Winter Fire|coastal working life]].
+Cargo boats, fishing craft and fighting ships required different combinations of weight, strength and manoeuvrability. Some Ättar buyers initially disliked heavier hulls and revised their opinion after a grounding. Rookstrand masters also adopted foreign methods, occasionally insisting that a newly copied joint had always belonged to their own tradition. Such claims furnish familiar jokes in [[Sails, Fish and Winter Fire|coastal working life]].
 
 ## The Blackkeel inheritance
 
-[[Orven Blackkeel]] learned repairs here before becoming a successful raiding captain. His gifts helped households buy iron and grain; his slave sales and betrayal of an allied pilot divided the Three Beaches. After his death in 519, his family lost access to recovered cargo and some of his dependants starved.
+[[Orven Blackkeel]] began as a repair worker at Rookstrand before becoming a successful raiding captain. His wages and gifts brought iron and grain into local households. He also sold captives, including an allied pilot and his adult daughter, and the resulting quarrel divided the Three Beaches. After Orven died in 519, his enemies withheld recovered cargo from his family; some of his dependants subsequently starved.
 
-The settlement never agreed to stop singing about him. In one song he is the captain who pays before counting his own share. In another a returned apprentice finds that the generous captain has sold someone the apprentice called uncle. Sailors sometimes sing both in the same night, to the annoyance of owners who would prefer a single comfortable ancestor.
+Songs preserve the different relationships that had sustained his career. One praises the captain who paid a crew before counting his own share. Another describes a returned apprentice discovering that the generous captain had sold someone the apprentice called uncle. Both may be sung during the same gathering. Families attached to his provision of food and families affected by his sales continue to encounter each other's recollections.
 
 ## The yards today
 
-In 1360, **Haldren of the Tarred Hand** speaks for several major yards, not for every worker. He has promised ships to foreign buyers and needs long timber whose supply is disputed at Brackenmouth. Small masters fear that refusing the orders will cost them a year's living; others fear accepting advances will let one man dictate their work.
+**Haldren of the Tarred Hand** represents several major yards in 1360. He has promised vessels to foreign buyers and requires long timbers whose supply is disputed at Brackenmouth. Small masters disagree over the orders: some depend on them for the year's income, while others fear that advances will give Haldren excessive influence over their work.
 
-New craft are launched with a deliberately plain patch stitched to the sail or tied to a fitting. Children shout advice at the master as the boat moves. The custom belongs to [[The Boat Too Fine for Water]], not to a sea spirit's compulsory tithe. Even a solemn launch generally ends in laughter when the shore crowd has to scramble out of the way.
+Launching a new vessel is a public occasion. A plain patch is stitched to its sail or tied to a fitting, and children call advice to the master while the hull moves down the beach. The custom accompanies [[The Boat Too Fine for Water]], a comic tale about a craftsman reluctant to use his finished boat. The crowd's hurried retreat from the moving vessel often provides the final amusement of the ceremony.
 
 - [[History of the Tidewood Coast]]
 - [[Taking of the Dry Fleet]]

@@ -13,29 +13,31 @@ tags: [tidewood-history, historical-figure]
 ---
 # Maelin Ropeburn
 
-**Maelin Ropeburn** was a returned captive and boatworker who helped end one Atherian sea-house's occupation of [[Rookstrand]]. She lived approximately 1290–1230 BR. Later Tarred Hand households made her the first of their ancestors, although their actual founders included people unrelated to her and families that had opposed her.
+**Maelin Ropeburn** (c. 1290–1230 BR) was a Tidewood boatworker and returned captive who helped organise the revolt against an Atherian sea-house at [[Rookstrand]]. Her knowledge of its ships and working routines contributed to the [[Taking of the Dry Fleet]] around 1260 BR. She subsequently helped make the captured equipment usable and secured the freedom of the compound's surviving labourers.
+
+Later Tarred Hand genealogies placed Maelin at the beginning of the kindred's history. Its founders included several unrelated households, including families that had opposed her, but her association with the seizure and the yards gave her a prominent place in their collective memory.
 
 ## A useful captive
 
-Maelin was taken from the coastal neighbourhood while young and put to work on ships. Her epithet came from a hauling injury, not a magical brand. Captivity taught her the speech, rigging and habits of the sea-house whose crews visited Tidewood. She returned through an exchange and found that those skills earned more than the work available to most of her relatives.
+Maelin was taken from the coastal neighbourhood while young and put to work aboard ships. A hauling injury gave her the epithet Ropeburn and left damage that troubled her later in life. During captivity she learned the sea-house's speech, rigging and shipboard routines. She returned through an exchange, bringing skills that earned more than the work available to many of her relatives.
 
-She accepted employment in the Atherian compound at Rookstrand. She interpreted demands, found skilled workers and helped repair hulls. Several later accusations against her are plausible precisely because she had made the compound function. The familiar story that she spent every moment of her employment secretly planning rebellion is not established history.
+At the Atherian compound she interpreted demands, found skilled workers and assisted with hull repairs. This employment made her part of the organisation that maintained the sea-house's position on the coast. Later accusations against her draw on that service. Praise traditions instead describe a captive secretly preparing rebellion throughout her employment; the surviving account establishes her participation in the compound's work before it records her opposition.
 
 ## The attack and its price
 
-When Captain Aulon's collectors began taking workers' children as security for timber deliveries, Maelin joined opponents inside and outside the compound. Knowledge acquired through serving the sea-house made the [[Taking of the Dry Fleet]] possible. Removed launching rollers and a working entrance mattered more than defeating Aulon's crews in open water.
+Captain Aulon's collectors began holding workers' children as security for timber deliveries. Maelin then joined opponents inside and outside the compound, connecting boatworkers with households able to interrupt supplies. The attack used this practical knowledge: launching rollers were removed, replacement carts withheld and a working entrance opened while the main sailing crews were absent.
 
-After the compound fell, Maelin ordered surrendered retainers killed because she feared they would guide a returning force. The captives trapped in the burning sleeping shed died during the same attack. She had helped plan the seizure but had not arranged a way to open every building before the fire spread. Later praise songs usually remember the freed labourers first and the burned shed last, if at all.
+After the compound fell, Maelin ordered surrendered retainers killed because she feared they would guide a returning force. Fire also reached a locked sleeping shed during the attack, killing captive labourers. Although she had helped plan the seizure, arrangements had failed to provide access to every building before the flames spread.
 
-The surviving workers did not all become her grateful followers. Some accepted places in the yards. Others insisted on leaving, taking tools or payments with them. A woman whose household had died in the shed refused to join Maelin's table even after accepting passage for surviving relatives. The oldest Rookstrand tradition preserves that refusal without claiming a final reconciliation.
+The deaths affected her relationship with the people released from the compound. Some accepted places in the yards; others demanded passage away, taking tools or payments with them. One woman whose household had died in the shed accepted passage for surviving relatives but refused a place at Maelin's table. The oldest Rookstrand tradition preserves this refusal. Later praise songs concentrate on the freed workers and often shorten or omit the account of the burning.
 
 ## What she built afterward
 
-Maelin spent much of her later life making captured equipment usable and arguing over the freedom of the workers who would use it. She secured the release of the compound's surviving labourers. She did not abolish slavery across Tidewood, and participating households continued holding captives outside the old compound.
+Much of Maelin's later work concerned the vessels and equipment taken during the revolt. Captured ships required repair, materials and trained crews. By making that equipment usable, the yards gained greater independence from visiting sea-houses and could undertake voyages under local direction.
 
-The yards became less dependent on visiting sea-houses. That was her lasting achievement: people could repair and operate vessels whose masters had previously commanded them. It also equipped the next generation to take captives of its own.
+Disputes over the workers continued after the fighting. Maelin secured the release of the compound's surviving labourers, while some of her allies retained captives in their own households. The growth of local shipping subsequently supported trade and employment as well as further captive-taking.
 
-She died ashore around 1230 BR after years of declining strength in her injured arm. The exact grave is uncertain. A tarred handprint at an apprentice's first completed repair commemorates the working world associated with her, not an authenticated relic or an inherited right to rule.
+Maelin died ashore around 1230 BR after years of declining strength in her injured arm. Her exact grave is uncertain. At an apprentice's first completed repair, a tarred palm laid against a plain board commemorates the working kindred associated with her. The custom also recalls the diverse households through which the yards' skills passed to later generations.
 
 - [[Rookstrand]]
 - [[Kindreds of the Three Beaches]]

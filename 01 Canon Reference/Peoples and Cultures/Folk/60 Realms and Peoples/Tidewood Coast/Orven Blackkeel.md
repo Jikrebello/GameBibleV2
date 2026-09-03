@@ -13,35 +13,37 @@ tags: [tidewood-history, historical-figure]
 ---
 # Orven Blackkeel
 
-**Orven Blackkeel** was a Rookstrand boatworker who became a successful captain during the late imperial raiding age. His crews remembered reliable pay and winter provisions. The households he betrayed remembered people who did not return. Both reputations survived his death in 519 AR.
+**Orven Blackkeel** (471–519 AR) was a Rookstrand repair worker and raiding captain whose voyages brought grain, iron and wages to households around the Three Beaches. His fleets combined Tidewood and Ättar crews for particular expeditions. Raiding, ransom and the sale of captives financed their returns.
+
+Orven's reputation divided after he sold the allied pilot Hadrun and his adult daughter Tova in 514. The sale cost him captains and access to Keldscar's pilotage. He died five years later in an attack by estranged members of his fleet. Songs praising his provision for crews survive alongside accounts preserved by families affected by his slave sales.
 
 ## Learning where a ship will fail
 
-Born in 471, Orven first travelled as a repair worker. He learned which damage a captain would conceal to keep sailing and which man would still take a rope when the weather turned. His early command came after a hired vessel's owner lost the confidence of its crew. He brought it back damaged but afloat, then secured enough support to captain subsequent voyages.
+Orven began travelling as a repair worker. This gave him experience of damage concealed by captains anxious to continue a voyage and of the crew members on whom a vessel could depend in bad weather. His first command came when the owner of a hired ship lost the crew's confidence. Orven brought the vessel home damaged but afloat and obtained support for further voyages.
 
-His fleets were temporary associations of Tidewood and Ättar crews, not a united coastal navy. Orven shared profitable information, paid promptly and bought winter food before purchasing ornaments for himself. He could spend lavishly on another crew's rescue because he expected those sailors to remember it when he next needed ships.
+He maintained alliances by sharing useful information, paying promptly and purchasing winter food before ornaments for himself. Expenditure on another crew's rescue could secure support for a later expedition. These relationships allowed him to assemble fleets from otherwise separate households and captains.
 
-He raided settlements as well as ships. Captives were sold for labour, ransom or resale. Some of the grain welcomed by hungry households at [[Rookstrand]] had been bought with those sales. Orven also ransomed Tidewood people held abroad. His distinction was between those he considered his people and those he could profitably sell, not between freedom and slavery.
+His crews attacked settlements as well as ships. Captives were held for ransom or sold for labour and resale, and proceeds from those sales paid for some of the grain welcomed at [[Rookstrand]]. Orven also ransomed Tidewood people held abroad. His decisions favoured those he regarded as belonging to his own circle and exposed others to profitable sale.
 
 ## Hadrun and Tova
 
-In 514 an allied crew brought in the Ättar pilot **Hadrun** and his adult daughter **Tova**, taken while serving on a vessel claimed as enemy property. Hadrun had been fostered at [[Keldscar and Gannet Head|Keldscar]] and had piloted Orven before. Tova maintained nets and sail repairs; her children remained with relatives ashore.
+In 514, an allied crew brought in **Hadrun** and **Tova**, captured while serving on a vessel claimed as enemy property. Hadrun was an Ättar pilot fostered at [[Keldscar and Gannet Head|Keldscar]] who had previously guided Orven's ships. Tova, his adult daughter, worked on nets and sails. Her children remained ashore with relatives.
 
-Keld households raised a ransom. Orven accepted a higher foreign offer for the two skilled captives together. They were sold away despite the prior relationship. Tova's work mattered to the sale: she was valued by the buyer as a useful captive, not merely as leverage over her father.
+Keld households raised a ransom, but Orven accepted a higher foreign offer for the two skilled captives together. Tova's expertise increased her value to the buyer. The sale therefore removed two useful workers from a community that had supported Orven's voyages and left Tova's children without their mother.
 
-Several captains withdrew. Others accepted their shares and later claimed they had been powerless to prevent the sale. Keldscar refused Orven its inner approach. The break cost pilots money and endangered ordinary crews associated with his fleet. Families argued over whether he should be isolated or drawn back into obligations he might still honour.
+Several captains withdrew from the fleet. Others accepted shares of the sale and later claimed they had lacked the power to prevent it. Keldscar refused Orven guidance through the inner approach. This boycott also reduced pilots' earnings and endangered ordinary crews associated with his ships, dividing families over whether isolation or renewed obligations offered the better response.
 
 ## The last repair
 
-In 519 the captains estranged from Orven caught him waiting for repairs off Tidewood. The attack burned his ship. He drowned after jumping from the stern, and his enemies recovered cargo they refused to share with his household.
+In 519, estranged captains found Orven awaiting repairs off Tidewood. His ship burned during their attack, and he drowned after jumping from the stern. The victors recovered cargo and withheld it from his household.
 
-The result was not a clean liberation of the coast. Some attackers had sold captives on earlier voyages. Orven's dependants lost a provider; several households went hungry the following winter. His widow did not accept gifts from the captains who later tried to turn the killing into a common feast.
+Some of the attackers had sold captives during earlier voyages. Their victory changed the distribution of wealth and support around the coast without ending that trade. Orven's dependants lost their source of provisions, and several households went hungry the following winter. His widow refused gifts from captains who subsequently tried to commemorate the killing with a common feast.
 
 ## Two songs
 
-Rookstrand's boast-song gives Orven the first place at a crew's table because he paid sailors before counting his own wealth. Keldscar answers with a quieter song about the empty place left by Tova, whose children continued living there. The latter does not supply a miraculous escape from captivity. Their later fate remains unknown.
+Rookstrand's boast-song gives Orven the first place at a crew's table because he paid sailors before counting his own wealth. Keldscar's answering song recalls the empty place left by Tova and the children who grew up there after her sale. The later fate of both captives remains unknown.
 
-At shared gatherings a singer's choice can still start an argument. There is no Blackkeel order, no inherited command over the Three Beaches and no established posthumous return. What persists is an uncomfortable question within a real affection: what was a generous captain buying, and whom did his generosity exclude?
+The choice of song can still provoke disagreement at a shared gathering. Each recalls a particular relationship with the captain: employment and winter provision in one, fosterage, work and betrayal in the other. Their continued performance has preserved the division in his reputation long after his fleets dispersed.
 
 - [[Kindreds of the Three Beaches]]
 - [[History of the Tidewood Coast]]

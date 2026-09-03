@@ -13,39 +13,39 @@ tags: [tidewood-history]
 ---
 # Brackenmouth
 
-**Brackenmouth** stands on successive shingle ridges beside the mouth of the Bracken Water. Its boats use the sheltered estuary; its dwellings keep above the lowest flood ground. Approaching crews see racks, roof smoke and drying sails before they see a substantial hall. At low tide the mud exposes the footings of a Giant loading wall, too broad for the landing that replaced it.
+**Brackenmouth** is a fishing and trading settlement at the mouth of the Bracken Water on the [[Tidewood Coast]]. Its sheltered estuary, smokehouses and access to inland exchange make it an important source of provisions for neighbouring crews. Dwellings occupy successive shingle ridges above the lowest flood ground, while racks, roof smoke and drying sails line the approach. At low tide, the footings of a Giant loading wall remain visible beside the smaller landing that replaced it.
 
-It is one of the [[Kindreds of the Three Beaches|Three Beaches]], linked by coastal sailing to [[Rookstrand]] and [[Keldscar and Gannet Head|Keldscar]]. The names describe a working neighbourhood within the larger [[Tidewood Coast]], not surveyed provinces. In good conditions small craft can move between its harbours without an open-sea expedition. Bad weather can isolate them for days; the forest paths are longer than their apparent separation suggests.
+Brackenmouth belongs to the **Three Beaches**, a group of communities linked by coastal sailing to [[Rookstrand]] and [[Keldscar and Gannet Head|Keldscar]]. Small craft can travel between them in good conditions without making an open-sea expedition. Storms can interrupt this movement for days. The longer forest paths provide a slower connection, making the exchange of food, repairs and pilotage particularly dependent on the weather.
 
 ## A settlement beside the ruin
 
-After the Giant collapse, survivors initially occupied the loading wall's service sheds. They abandoned the lowest buildings when backed-up floodwater trapped people inside. The ridge settlement grew from that retreat. Old masonry entered hearths, steps and retaining banks, while the broken lower wall became a place to tie boats in ordinary weather.
+After the Giant collapse, survivors occupied service sheds beside the old loading wall. Blocked drainage caused floodwater to back into these buildings, trapping people in the lowest structures. The surviving households moved onto higher gravel ridges and dismantled parts of the wall to improve the drainage. The position of the later village reflects this retreat from the abandoned works.
 
-The village's continuity is therefore not a claim that its present households descend from the Giant estate's owners. Its shore has held fugitives, fishers, visiting crews, clients and adopted strangers. Occupation is ancient; particular genealogies are shorter and disputed.
+Old masonry was reused in hearths, steps and retaining banks. The broken lower wall continued to serve as a place to tie boats in ordinary weather. Over succeeding generations, fugitives, fishers, visiting crews, clients and adopted strangers settled among the existing households. Although occupation of the shore is ancient, the particular genealogies now claimed by its families are shorter and frequently disputed.
 
-Brackenmouth's first durable advantage was food. Estuary fishing, smokehouses and access to inland exchange let its households provision builders at Rookstrand and pilots at Keldscar. Wealthier Reedwake families acquired stores and dependants. In lean years a borrower might lose a boat's share to the household that had kept the family fed.
+Estuary fishing, smokehouses and inland exchange gave Brackenmouth a durable advantage. Its stores supplied Rookstrand's builders and Keldscar's pilots, whose work in turn supported local shipping. Wealthier Reedwake families acquired stores and dependants through this exchange. Food lent during a lean year could eventually bring a creditor a share in the borrower's boat, increasing the influence of households able to maintain winter reserves.
 
 ## The sail loft
 
-The **Common Loft** occupies a rebuilt upper storehouse. It holds donated sail panels, lines and fittings that can be borrowed for repairs and rescues. Its customary beginning is [[Edris Sailmaker]]'s loss of her working cloth in the Keldscar evacuation of 1002. Neighbours replaced what they could; later households continued giving usable material.
+The **Common Loft** is a communal stock of donated sail panels, lines and fittings, kept in a rebuilt upper storehouse. Materials can be borrowed for repairs and rescues. Its customary origin lies in [[Edris Sailmaker]]'s surrender of her working sailcloth during the Keldscar evacuation of 1002. Neighbours replaced part of her lost stock, and subsequent gifts made it possible to continue assisting other crews.
 
-The loft is not perpetually generous. Someone must decide whether an owner has merely neglected a boat, whether a borrowed panel will return and which craft needs help first. Sailmakers mark repairs with different stitches so a donor can recognize old work without reclaiming it in the middle of a rescue. The building and its contents have been replaced many times. No visitor is shown a guaranteed piece of Edris's original sail.
+The management of the loft involves recurring decisions about need and the condition of boats. Sailmakers consider whether an owner has neglected a vessel, whether a borrowed panel is likely to return and which repairs are most urgent. They mark their work with different stitches, allowing donors to recognise earlier contributions without interrupting their use. Both the building and its contents have been renewed many times; the cloth in use is a continuing supply assembled by later households.
 
-Children gather beneath it when wet weather prevents outdoor games. The coast's tale of [[The Boat Too Fine for Water|the overproud boatbuilder]] is often performed with a bench for the boat and a reluctant adult for the sea.
+Children gather beneath the loft when rain prevents outdoor games. Performances of [[The Boat Too Fine for Water]] often use a bench as the vessel and a reluctant adult as the sea. The association of the tale with this working building reflects the importance of repair and practical use in Brackenmouth's customs.
 
 ## The Broken Slide
 
-Above the settlement lies the abandoned timber chute called the **Broken Slide**. The [[The Beam War|Beam War]] left it after an enlarged hauling cut damaged the fishery and several years of fighting made the route unworkable. Its lowest supports stand in wet ground among younger trees. Higher members have rotted or been stolen for repairs.
+The **Broken Slide** is an abandoned timber chute above the settlement, left after the [[The Beam War|Beam War of 1287–1291]]. An enlarged hauling cut had damaged the fishery, and several years of fighting made the route unworkable. Its lower supports remain in wet ground among younger trees. Higher members have rotted or been taken for repairs.
 
-It is not a monument to an agreed victory. Sellers' descendants remember dead timber workers; fishing families remember the storehouse burned around its occupants. Some families remember both. No new cutting party passes the site without being asked whose permission it carries.
+Different households associate the structure with different losses. Descendants of the timber sellers recall workers killed by released logs; fishing families recall the storehouse burned around its occupants. Intermarriage has preserved both memories within some families. These recollections remain relevant when new cutting parties seek access to the surrounding ground and are questioned about whose permission they carry.
 
 ## Brackenmouth in 1360
 
-**Mera Brinecoat**, Speaker of the largest Reedwake gathering, keeps her household near the upper landing. Her power comes from food stores, relationships and the willingness of other households to send their boats. She can negotiate a purchase; she cannot sell an absent family's grove.
+**Mera Brinecoat**, Speaker of the largest Reedwake gathering, keeps her household near the upper landing. Food stores, family connections and the willingness of other households to provide boats sustain her authority. She negotiates purchases on behalf of her supporters, while individual families retain control of their own groves.
 
-The settlement includes old-rite offering places and a small Redeemer chapel used by fishing and craft households. Funerals pass the same landing, sometimes with different songs. A shared storm can fill both buildings with wet neighbours who resume their quarrels as soon as their children are warm.
+The settlement contains old-rite offering places and a small Redeemer chapel used by fishing and craft households. Funeral parties pass the same landing with different songs. Storms bring neighbours into shared shelter, where the immediate care of children and wet crews often takes precedence over disputes that resume afterwards.
 
-Current timber offers promise winter grain and improved tools. They also require more trees than Mera's own supporters can supply. She has not resolved that contradiction, and the town's history supplies arguments to both her allies and opponents.
+Current timber offers promise grain and improved tools in return for more trees than Mera's supporters can supply from their own holdings. This places the prospect of better winter provisions alongside the question of access to neighbouring woods. The experience of the Beam War supplies arguments for households seeking the trade and for those resisting further cutting.
 
 - [[History of the Tidewood Coast]]
 - [[Sails, Fish and Winter Fire]]
