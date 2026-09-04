@@ -105,6 +105,9 @@ The period's end is not the end of cities. The [[Age of Stars]] names a later At
 
 ## Historical articles in this age
 
+- [[Caleran - Foundation and Royal Households]] — an estuary coalition, successive kings and the loss of royal authority.
+- [[The Common Sky and the Formation of Astratheon]] — maritime and inland worship brought into a shared royal settlement before the Compact.
+- [[Arkenan and Saronikan Cities before the Empire]] — island production, grain voyages, teachers and local civic institutions.
 - [[Proto-Jirahar Tower Towns]]
 - [[The First Atherian City-States]]
 - [[The Refusal at Kelarion]]

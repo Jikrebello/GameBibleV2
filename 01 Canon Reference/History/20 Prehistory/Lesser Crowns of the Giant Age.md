@@ -17,6 +17,14 @@ tags: [world-historical-atlas]
 
 A smaller crown might change overlord, marry into another house and preserve its own people. The following accounts establish those political histories without declaring every later ancestral voice genuine.
 
+## Arsuvan, the Aurin kingdom
+
+[[Arsuvan - The Giant Kingdom of the Aurin|Arsuvan]] joined river agriculture, upland metal production, workshops and maritime exchange in the Aurin basin. Iskaren and Velketh rulers governed through inherited Giant power, military households and human labour. Their palace at Sarven maintained observation terraces and ceremonies which presented the royal houses as celestial descendants.
+
+The kingdom disintegrated during the Great Unbinding. Arveth's seizure of seed grain provoked resistance; Lethra's crews carried families and stores away by night. Arveth died during the subsequent fighting, and rival claimants damaged the palace before unified government ceased. The related Enathi, Serathi and Vardeni developed among its human survivors and neighbouring remnants. Their Orphaned history remained distinct from the Glass migration.
+
+Arsuvan is an additional regional kingdom alongside the eighteen secondary polities originally gathered in this register. Its remote Giant ancestries are classified in [[Caleran Foundations - Authorial History]]. Kharad, the Copper Stair kingdoms and Ulmaris retain independent histories and are connected here only through indirect exchange and knowledge.
+
 ## Kharad, the Bronze Meridian
 
 A seven-generation road empire founded by the marriage of an Ishkatari serpent claimant and a Qianglong cadet, then enlarged by capturing an Ansharan processional corridor. Recognized as a peer only at its height; treated as a rebel province before and after.
@@ -135,4 +143,3 @@ A repentant Giant defector at a Glassward crossing received temporal mercy after
 - [[The Great Unbinding]]
 - [[Nythalum after the Ascension]]
 - [[Patron Cities and the Long Rent Histories]]
-

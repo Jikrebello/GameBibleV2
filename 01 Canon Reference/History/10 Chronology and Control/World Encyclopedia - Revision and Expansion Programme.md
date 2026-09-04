@@ -18,6 +18,14 @@ This programme applies the approved Tidewood editorial standard to the whole can
 
 The first delivery is limited to the programme, its complete inventory, and twelve revised entrances. **Package 2 begins only after the entrance review.** Later packages are scheduled obligations of the encyclopedia, independent of campaign demand.
 
+## Delivery progress
+
+The entrance review and Caleran Foundations research review have been approved. **Package 2B is completed for review** through Atheria's formation, royal cities and republican developments preceding Thalion. [[Atherian Formation and Republic - Delivery Review]] records the canonical integrations, regional additions and checks; [[Caleran Foundations - Authorial History]] preserves private facts behind the public accounts.
+
+Package 2 now has three recorded portions: **2A**, the approved author-only foundation study; **2B**, its integration and wider formation-to-republic history; and **2C**, Thalion's unification and the Age of Glory, which remains the next unstarted portion. The all-era [[Historical Atlas of Atheria]] connects them. Package 3 retains the later empire and Long Frontier.
+
+The original Package 1 scope and handoff below remain the historical record of that delivery. Its stop instruction does not reopen the already completed entrance review.
+
 ## Inventory and authority
 
 [[World Encyclopedia - Article and Research Inventory]] assigns every canonical Markdown article one primary package and related packages where its history crosses subjects. It also carries forward all seventy-five Garden destinations, fifty-seven mapped research dossiers, 315 reviewed identifiers and 204 distinct reserve records from the [[World Historical Atlas - Integration and Coverage Ledger]]. These are overlapping editorial records, not counts of separate events.

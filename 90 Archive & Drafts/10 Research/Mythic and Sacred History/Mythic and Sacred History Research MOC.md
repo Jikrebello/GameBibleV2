@@ -53,6 +53,13 @@ A seed must change at least three major axes from any single source: culture and
 
 Changing those axes may never remove the borrowed element's causal atrocity, principal culpability, or irreversible price. The standard is severity parity: preserve the load-bearing moral wound, but do not import unrelated cruelties from other cited sources or increase violence merely for atmosphere.
 
+## Caleran foundations — author-only development
+
+**Integration update, 4 September 2026:** the user approved the foundations and authorised Package 2B. [[01 Canon Reference/History/10 Chronology and Control/Atherian Formation and Republic - Delivery Review.md|The canonical delivery review]] records their integrated destinations and the new eastern histories. [[01 Canon Reference/Peoples and Cultures/Atherian Empire/70 History and Conflicts/Historical Atlas of Atheria.md|The Atherian Atlas]] is the reading entrance. The two original dossiers below retain their proposal wording as source history; the approved private facts now reside in [[01 Canon Reference/History/10 Chronology and Control/Caleran Foundations - Authorial History.md|the canonical authorial account]].
+
+- [[90 Archive & Drafts/10 Research/Mythic and Sacred History/Caleran Foundations - Giants, Inland Peoples and Royal Beginnings.md|Caleran Foundations — Giants, Inland Peoples and Royal Beginnings]] develops Arsuvan and three related Orphaned peoples of the Aurin country, the wolf-fostered human founders, successive royal households, the Common Sky religious settlement and the republican conditions preceding Thalion. It includes a complete received foundation tale. All new material awaits review.
+- [[90 Archive & Drafts/10 Research/Mythic and Sacred History/Caleran Foundations - Sources, Collisions and Canon Review.md|Caleran Foundations — Sources, Collisions and Canon Review]] distinguishes archaeological and literary comparisons, TES in-world accounts and World Egg inventions; records chronology, ancestry, supernatural identities, source hardness and proposed integration destinations. Package 2's subdivision is proposed here without changing the canonical programme. No canon, Garden, campaign or application changes accompany these dossiers.
+
 ## Research Dossiers
 
 - [[Whole-History Mythic Planting Programme]] — programme dashboard, succession cap, trace rule, review sequence, and promotion lock.

@@ -113,6 +113,8 @@ These localized traditions give earlier short leads a place in the world. Their 
 ## The Furnace League
 
 **Heroic-maritime recovery; c. 1800–1450 BR.** Material smith towns pooled ore, charcoal and convoy defence. Captive labour helped their furnaces prosper. When a ruler diverted food to an expansion fleet, workers broke the levy but lost two towns in reprisal. This was an ordinary industrial league, not Orqad's Titan furnaces, a Shell refuge or the deep Ash-Well Crown.
+
+The league's work connected mining households, charcoal districts and harbours whose buyers could be far from the furnaces. Diverting food therefore damaged more than a single workplace. Families sent workers elsewhere, and fugitives carried techniques into settlements that had formerly depended on the league. Its memory belongs within [[Southern Settlement and Maritime Atheria]], while the identities of its ruler and ruined towns remain separate from the new eastern port histories.
 ^atlas-tf-06
 
 ## The Well of Three Laws
@@ -123,6 +125,8 @@ These localized traditions give earlier short leads a place in the world. Their 
 ## The City That Conquered Its Ancestors
 
 **Age of Stars; Caleran republican formation.** A civic regime absorbed older founder houses, then backdated their consent to make conquest resemble reunion. One family retained a banquet vessel depicting the defeated hostages. Its survival exposed invented precedence without disproving every later benefit of citizenship.
+
+The remembered changes belong after the formation of the actual twelve-city Compact. Officials recast older founders with Caleran symbols and titles, suppressed contradictory ceremonies and imprisoned or killed resisting custodians. Local accounts preserved different kinships and sequences beneath that public arrangement. [[The Celestial Compact and the Caleran Republic]] supplies the broader history of incorporation and competing civic memories; the vessel's particular ancestry remains a claim within this tradition.
 ^atlas-tf-12
 
 ## The Keeper of Borrowed Grain

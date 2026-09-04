@@ -138,6 +138,8 @@ The Year of Standing Stars belongs somewhere within these overlapping centuries.
 
 ## Historical articles in this age
 
+- [[Southern Settlement and Maritime Atheria]] — the southern departure, occupied settlement country and the relationships from which maritime societies grew.
+- [[Peoples of the Ancient Aurin]] — related Orphaned river, hill-city and upland societies encountered by southern settlers.
 - [[Ancient and Early Historic Ages]]
 - [[Proto-Ahl-e-Ahd Desert Tribes]]
 

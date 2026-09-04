@@ -17,46 +17,39 @@ tags: []
 ---
 # The First Atherian City-States
 
-The first Atherian city-states are the late result of centuries of southern war-settlement, mixed conquest, maritime recovery and local rebuilding. They become too organized, too literate, and too ambitious to remain forts, founder-house ports or regional leagues.
+The first Atherian city-states developed from river settlements, hill towns and maritime communities between about 1400 and 800 BR. Their governments organised defence, water, food storage and public worship for populations whose work extended beyond one ruling household. They inherited centuries of southern settlement, conquest, exchange and local rebuilding.
 
 ## Before the Cities
 
-Between approximately c. 2130 and 2050 BR, southern leagues separate gradually from the Near-Glass camps. During and especially after that fission, they occupy river crossings, hills, coasts and reusable works in inhabited country. Their expansion includes massacre, slavery, hostage-taking, expulsion and land seizure, together with treaty, defection, adoption, intermarriage and the destruction or absorption of failed Atherian forts. No conquest is divinely commissioned.
+Between approximately 2130 and 2050 BR, southern leagues separated gradually from the communities nearer the Glass. They settled at crossings, on hills and along coasts already inhabited by Orphaned peoples. Expansion included massacre, slavery, hostage-taking, expulsion and land seizure, alongside treaties, adoption, intermarriage and local victories over settler forts. No conquest carried the Prophet's commission.
 
-Between approximately c. 1900 and 1400 BR, competing sea-kings, fortified ports, mercenary leagues, captive markets and founder houses connect several post-Giant recovery horizons. Ark measures and apprenticeship aid that recovery, but local pilots, smiths, farmers, healers and laborers make it possible. Different networks fail at different times through war, extraction and broken supply; there is no one Atherian-caused collapse.
+Between about 1900 and 1400 BR, ship households and armed fleets connected food producers, workshops and markets. Local pilots, farmers, smiths and healers sustained those relationships alongside practices inherited from the Glass People. Warfare, extraction and broken supply damaged different networks at different times. [[Southern Settlement and Maritime Atheria]] follows their formation and uneven survival.
 
 ## Origin Pattern
 
-City-states grow from river towns, hill forts, coastal markets, road shrines, mixed colonies and ruin-facing settlements. Many occupy older walls and cemeteries. Their founder stories carry fragments of the Great Prophet's liberation memory but increasingly conceal conquered populations, coerced labor and several rebuildings beneath one heroic name.
+Cities grew where people could maintain supplies and defend a settlement through successive seasons. Many occupied older walls and cemeteries. A defensible height might protect the population during a raid while a landing below supplied its workshops. Maintaining both required cooperation among households with different resources.
+
+In the Aurin country, Caleran's estuary settlements depended on [[Peoples of the Ancient Aurin|river, hill-city and upland societies]]. The [[Arkenan and Saronikan Cities before the Empire|eastern island cities]] relied more heavily on cisterns, terraces and maritime food supply. These different conditions shaped public work and the influence of suppliers.
+
+Founder stories often condensed several rebuildings into one heroic act. Their genealogies could conceal conquered inhabitants and captive labour. Caleran's own foundation joined existing settlements under a new political centre; it did not identify the makers of every earlier wall beneath the city.
 
 ## Institutions
 
-Early Atherian cities develop:
+Councils and magistrates acquired responsibilities for grain, water, defence and common spaces. Their authority depended on people able to provide labour and materials. Prominent families maintained influence through property, military followers and the sponsorship of festivals. In some cities royal households continued to govern alongside such councils.
 
-- citizen rolls and public archives,
-- star temples and observatories,
-- magistrates and courts,
-- road-building crews,
-- legionary militias,
-- grain offices,
-- patron families,
-- ruin colleges,
-- public games,
-- standard measures and coinage.
+Citizen records and public archives preserved admissions, agreements and obligations. Shared measures and coinage helped exchange, while their enforcement created advantages for people controlling markets. Road crews and civic militias supported travel and military action. Captives and subject communities supplied much of the work required by larger projects.
+
+Temples and observatories attracted teachers and pupils. Colleges concerned with older ruins studied inherited works, and public games supported performers and craft. These activities gave urban life attractions beyond protection and employment. They also furnished opportunities for sponsors to turn wealth into public standing.
 
 ## Spiritual Drift
 
-The Atherians are not simple pagans from the beginning. Their drift is gradual:
+Religious change developed over generations. The Lord became a distant creator in some accounts, while the Prophet's memory was recast as the story of a liberator favoured by the stars. Observations inherited from Giant courts became part of a recovered human wisdom. Civic rites incorporated practices associated with Menhir and with Idol remnants, often misunderstanding the powers involved.
 
-- the Lord becomes distant creator-language;
-- the Prophet becomes liberator-hero rather than living warning;
-- Giant astronomy is purified into star wisdom;
-- Menhir and Idol remnants are folded into civic rites;
-- law becomes a substitute for repentance.
+[[The Common Sky and the Formation of Astratheon]] describes the later royal settlement at Caleran. Other cities retained their own forms of worship, teachers and stories. Public confidence in correct ceremony and civic order could encourage rulers to treat institutional success as proof of righteousness, leaving little room for acknowledgement of their own wrongs.
 
 ## Future Consequence
 
-These cities make the [[Age of Stars]] possible. “Atherian” has already changed from war-settlement membership to heroic-maritime allegiance and then civic identity; the later republic and empire will make it citizenship, service and law. Imperial Atheria inherits the cities' roads, archives, rivalry, star cults, and confidence that civilization itself proves divine favor.
+These cities supplied the institutions and rivalries of the [[Age of Stars]]. The [[The Celestial Compact and the Caleran Republic|Celestial Compact and subsequent republic]] joined part of this world and extended its forms of incorporation. Atherian identity increasingly described civic membership, service and shared public practice. The empire later inherited its cities' roads, records, religious institutions and claims that their achievements demonstrated divine favour.
 
 ## Navigation
 

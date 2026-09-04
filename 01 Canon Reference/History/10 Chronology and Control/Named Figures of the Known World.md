@@ -17,6 +17,16 @@ The people behind the [[Chronology of the Known World (AR Dating)]]. Each entry 
 
 **Map ruling:** Eclessia sits east of Thalmyria in the mirrored map logic; older western-province phrasing should be read as superseded unless it refers to a local western subregion inside Eclessia.
 
+## Atherian foundations and the republic
+
+[[Avren and Caleth]] (c. 1150–1090 BR) led the estuary coalition associated with Caleran's foundation. Avren killed Caleth during a dispute over command and provisions. Their mother Meral, Caleth's wife Sareth and the surviving children preserved relationships and memories which the reigning household could not control. [[Caleran Foundations - Authorial History]] records Ravessa's actual fosterage and its limited purpose.
+
+[[Ilaron and Tarsenna]] (c. 1000–950 BR) joined maritime resources and Serathi religious learning in a later royal generation. Their Common Sky settlement established shared public ceremonies while preserving rival interests and practices. Both were responsible for the captive sacrifice at a campaign celebration. Their daughter Ilessa maintained festival resources through subsequent royal disputes.
+
+[[Caleran - Foundation and Royal Households]] also places Esvan's waterfront works and Senavar's coercive supply policy in the generations between foundation and Compact. [[Arsuvan - The Giant Kingdom of the Aurin|Arsuvan]] introduces the earlier Giant rulers Veskar, Tarvessa and Arveth, and Lethra's human boat rescue during the kingdom's collapse.
+
+[[Arkenan and Saronikan Cities before the Empire]] introduces Kassilon's loss of command after Erenost's grain seizure, Doreva's grain ventures at Pyrassa and Mesthra's observational teaching at Irenai. They belong to independent eastern histories, without a shared royal genealogy or later supernatural office.
+
 ## The Age of the Redeemer
 
 **Lord-Scribe Ezrahel bar Qoreth** (fl. 0 AR) — Head of the Jirahar Council of Scribes at Isfir's trial. Not a cartoon: he sincerely believed Isfir would bring imperial fire down on every tower town, and chose one man's death over a people's. He was right about the fire and wrong about everything else — the pogroms came anyway, a century later, in the converted empire's name. Jirahar tradition never mentions him; Church tradition never stops.

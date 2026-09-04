@@ -908,6 +908,21 @@ Package 1 results:
 
 The handoff stops for review before Package 2. No application code, canonical chronology, regional history, archive, campaign, fiction or approved Tidewood article is modified. No commit or push is included.
 
+## Package 2B — Atherian formation and republic
+
+The user approved the Caleran foundation dossier and authorised integration and wider development on 4 September 2026. [[Atherian Formation and Republic - Delivery Review]] records seventeen new canonical articles, targeted changes to existing histories and the independent validation. [[Historical Atlas of Atheria]] is the connected reading entrance.
+
+The original seventy-five Garden destinations, 315 identifiers and 204 reserve records remain unchanged. [[The Wolf's Two Sons]] is a separately added received tradition outside the Garden numbering. The two Caleran research dossiers join the mapped corpus through the destinations below; the fifty-seven-row original source register remains the record of the earlier Atlas build.
+
+| Newly approved source | Canonical descendants | Authority |
+|---|---|---|
+| [[90 Archive & Drafts/10 Research/Mythic and Sacred History/Caleran Foundations - Giants, Inland Peoples and Royal Beginnings.md|Caleran Foundations — historical account]] | [[Arsuvan - The Giant Kingdom of the Aurin]], [[Peoples of the Ancient Aurin]], [[Caleran - Foundation and Royal Households]], [[Ilaron and Tarsenna]], [[The Common Sky and the Formation of Astratheon]], [[The Wolf's Two Sons]] and their linked articles | Ordinary history and consequences established; received variants and private facts separated. |
+| [[90 Archive & Drafts/10 Research/Mythic and Sacred History/Caleran Foundations - Sources, Collisions and Canon Review.md|Caleran Foundations — source and collision review]] | [[Caleran Foundations - Authorial History]]; [[Atherian Formation and Republic - Delivery Review]] | Approved identities, source distinctions and hard boundaries become canonical controls. |
+
+The new Erenost, Pyrassa and Irenai histories develop existing eastern cities through ordinary events and people. They do not reidentify the Oar-King, the raiders of the sounding-weight, Caleran's founders or a protected supernatural actor. The furnace and civic-ancestor traditions are deepened at their existing anchored host.
+
+Package 2C remains responsible for Thalion's seizure, unification and imperial depth through 0 AR. Package 3 retains the later empire and Long Frontier. The approved Tidewood package, campaigns, fiction, Garden source text and application files are unchanged.
+
 ## Canon boundaries after integration
 
 Human souls, Giant continuities, autonomous Masks, dependent Masks, offices, copies, residues and Patron relationships remain distinct. A Giant can receive temporal mercy but not a manufactured human soul. Nythalum remains physically lunar. The Shell remains sterile outside constructed environments.

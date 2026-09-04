@@ -13,6 +13,8 @@ tags: [world-historical-atlas]
 ---
 # River Leagues and Sea-Kings of the Early World
 
+The early human world contained river powers, production leagues and maritime households with independent histories. [[Southern Settlement and Maritime Atheria]] develops the southern networks, while [[Arkenan and Saronikan Cities before the Empire]] follows named eastern ports. [[Peoples of the Ancient Aurin]] describes one regional Orphaned inheritance beside these movements. The northern, Folk and Ättar histories below retain their own causes and institutions.
+
 ## More than an Atherian prelude
 
 By the early Hearths, people who had never entered the Glass were already cultivating, building, raiding and rebuilding. The Ark descendants brought shared practices out of the refuge, not civilization into an empty land. The southern leagues joined a world of older paths, surviving engineered sites and rival Orphaned communities.
@@ -52,4 +54,3 @@ The Celestial Compact and republican growth drew on this long history of rival c
 - [[Age of Stars]]
 - [[Additional Mortal Lives and Frontier Traditions]]
 - [[Peoples in the World Historical Atlas]]
-

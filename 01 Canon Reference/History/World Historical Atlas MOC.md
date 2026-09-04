@@ -46,7 +46,7 @@ A community may preserve both an object and a story about it while disagreeing a
 
 [[Peoples in the World Historical Atlas]] introduces the eleven cultural histories. Their formation includes Ark-derived peoples, Orphaned survivors of the Giant collapse and later Braided populations. These descriptions concern historical ancestry; citizenship, religion and present political allegiance have their own histories.
 
-The [[Lesser Crowns of the Giant Age]] places eighteen secondary polities within the Five Imperial Horizons. [[Named Figures of the Known World]] introduces established rulers, teachers and commanders. [[Great Saints and Sinners - Lives and Afterlives]] follows fourteen independent mortal lives and their later activity, while [[Additional Mortal Lives and Frontier Traditions]] gathers local heroes, artisans, households and other remembered figures.
+The [[Lesser Crowns of the Giant Age]] introduces the original eighteen secondary polities and the Aurin kingdom of [[Arsuvan - The Giant Kingdom of the Aurin|Arsuvan]], within the many-state world of the Five Imperial Horizons. [[Named Figures of the Known World]] introduces established rulers, teachers and commanders. [[Great Saints and Sinners - Lives and Afterlives]] follows fourteen independent mortal lives and their later activity, while [[Additional Mortal Lives and Frontier Traditions]] gathers local heroes, artisans, households and other remembered figures.
 
 For the political circumstances inherited by the present generation, read [[Present-Day Courts and Crowns (1360 AR)]] and [[Present-Day Political Board]].
 
@@ -56,9 +56,15 @@ For the political circumstances inherited by the present generation, read [[Pres
 
 [[Sails, Fish and Winter Fire]] describes the work and seasonal pleasures of the coast. [[The Boat Too Fine for Water]] preserves a comic tale and the launch customs associated with it. Together these articles show how a regional history continues through periods between the great wars.
 
+## Atheria before the empire
+
+[[Historical Atlas of Atheria]] connects the southern departure, maritime societies, royal cities and republican world. Follow [[Southern Settlement and Maritime Atheria]] into the [[Peoples of the Ancient Aurin|Aurin societies]], then read [[Caleran - Foundation and Royal Households]] and [[The Common Sky and the Formation of Astratheon]].
+
+[[Arkenan and Saronikan Cities before the Empire]] provides an eastern counterpart through port households, grain voyages and teaching. [[The Celestial Compact and the Caleran Republic]] follows public institutions through service, land and provincial wealth to the eve of Thalion. [[Food, Work and Citizenship in Republican Atheria]] describes the households sustaining that world.
+
 ## Tales that outlived their tellers
 
-[[Myths and Legendary Histories MOC]] gathers seventy-five localised traditions. Games, meals, clothing, damaged landscapes, tools and ruined buildings carry meanings acquired through their stories. Each article identifies the communities that tell the tale and distinguishes established remains from disputed interpretations.
+[[Myths and Legendary Histories MOC]] gathers the seventy-five localised Garden traditions and additional received histories, including [[The Wolf's Two Sons]]. Games, meals, clothing, damaged landscapes, tools and ruined buildings carry meanings acquired through their stories. Each article identifies the communities that tell the tale and distinguishes established remains from disputed interpretations.
 
 [[The Historical Seed Garden]] preserves the exploratory versions, their original identifiers and their aliases. The individual Atlas articles state which parts of those traditions have entered the canonical account.
 
@@ -102,3 +108,5 @@ The [[World Historical Atlas - Integration and Coverage Ledger]] records the des
 The [[World Encyclopedia - Revision and Expansion Programme]] schedules the continued development of the library, with a complete article and research inventory. The [[World Egg Encyclopedia - Editorial Style Guide]] records the approved standard for its prose.
 
 The [[Dependable Navigation - Review and Repair Ledger]] documents the link repairs. [[Tidewood Historical Development - Authorial Review]] records the historical additions and authorial distinctions behind the completed regional example.
+
+[[Atherian Formation and Republic - Delivery Review]] records Package 2B's integration and regional expansion. [[Caleran Foundations - Authorial History]] preserves the private facts behind the founders, Giant ancestries and religious identifications.

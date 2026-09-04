@@ -19,6 +19,8 @@ Arkena is an eastern archipelago of old Atherian city foundations, academies, ci
 
 ## Historical Formation
 
+[[Arkenan and Saronikan Cities before the Empire]] follows the older island settlements, their grain supplies, workshops and teaching traditions. Those cities developed alongside Caleran before imperial government. Their ancient institutions form one layer beneath the province's later military administration.
+
 Several island cities survived occupation through tribute and negotiated autonomy. Others became naval garrisons or refugee stations. Reconquest restored imperial authority without erasing councils older than the Aetherion crown.
 
 ## Government

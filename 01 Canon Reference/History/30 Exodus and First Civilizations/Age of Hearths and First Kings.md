@@ -92,6 +92,8 @@ Folk and Ättar shared older Orphaned ancestry without forming one nation. Fores
 
 ## Sea-kings and linked recoveries
 
+The Aurin's river towns and the eastern Thalassian harbours formed distinct parts of this development. [[Southern Settlement and Maritime Atheria]] follows ship households and their suppliers; [[Arkenan and Saronikan Cities before the Empire]] describes Erenost's grain seizure and the later civic histories of the islands. Caleran's wolf-founders belong to the following city-state period, after these maritime relationships had already developed.
+
 Southern war-settlers became maritime societies through shipbuilding, captured harbours and local pilotage. Mercenaries, raiders, refugees and traders used the same vessels. An island king might buy copper honestly in one port and sell captives in the next. The resulting networks restored crafts and food supplies while making distant households vulnerable to one fleet's defeat.
 
 [[G-73 - The Oar-King without a Country|The Oar-King]] embodies the danger of ascent: a slave saves abandoned rowers, gains a following, takes a harbour and murders the friend who remembers their first promise. His city is a real achievement in its tellers' world; its greatness cannot acquit him.

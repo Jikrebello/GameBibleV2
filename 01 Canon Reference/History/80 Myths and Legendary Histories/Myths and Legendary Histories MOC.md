@@ -52,6 +52,7 @@ These are the world's received stories, not seventy-five certificates that every
 
 ## Age of City-States
 
+- [[The Wolf's Two Sons]] — Caleran's founding family, a wolf's purpose and the murder between brothers; an additional received tradition outside the seventy-five Garden IDs.
 - [[G-07 - The Key Bent in a Murderer's Hand|The Key Bent in a Murderer's Hand]] — Atherian coastal city-state belt; c. 1400–800 BR; City-States.
 - [[G-74 - The Raid That Returned One Tool|The Raid That Returned One Tool]] — Arkenan–Saronikan island corridor; c. 1120–980 BR.
 

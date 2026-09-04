@@ -35,6 +35,8 @@ The Atherians do not invent civilization from nothing. They synthesize older fra
 
 The Star Pantheon gives Atherian cities a cosmic language for hierarchy, duty, beauty, fate, and conquest. It lets local city cults be absorbed without requiring every region to abandon its own heroes and ancestors at once.
 
+Caleran's [[The Common Sky and the Formation of Astratheon|Common Sky settlement]] had begun this city's shared royal ceremonies around 1000–950 BR. The Age of Stars brought further civic compilation and republican patronage. Its later attempts to arrange local founders and powers into a single order did not originate every cult or repeat the royal couple's settlement unchanged.
+
 ## Imperial Destiny
 
 By the end of this age, Atherian cities increasingly believe they are not merely surviving the world after the Giants. They believe they are meant to organize it.
@@ -94,6 +96,8 @@ The transition leads to [[Atherian Imperial Age]] and Aurelius Thalion's later r
 
 ## Historical articles in this age
 
+- [[The Celestial Compact and the Caleran Republic]] — twelve-city cooperation, developing republican government and the pressures preceding Thalion.
+- [[Food, Work and Citizenship in Republican Atheria]] — production, service, civic belonging and ordinary pleasures.
 - [[The Arqeshite River Empire]]
 - [[The Erasure of Orthea]]
 

@@ -13,13 +13,15 @@ tags: []
 ---
 # The Rise of the Atherian Empire Overview
 
-Atheria became a city civilization among old hill cities, river settlements, ports, and sacred leagues in the region now forming Thalmyria's core, after a much earlier history of southern war-settlement and maritime recovery. It did not invent civilization. It joined older civilizations through law, road, conquest, citizenship, archive, and a state cult broad enough to absorb local gods into the Star Pantheon.
+Atheria developed among hill cities, river settlements, ports and religious communities in the region now forming Thalmyria's core. Centuries of southern settlement and maritime exchange preceded its republican and imperial governments. Roads, conquest, citizenship and shared public worship connected societies with different origins and unequal access to power.
 
 ## Before the Empire
 
 The Atherian story begins before its cities. Southern war-settlement leagues separated from the post-Glass people, seized and repaired inhabited sites, and mixed through conquest, slavery, alliance, adoption, marriage and local defeat. Later sea-kings, fortified ports, mercenary leagues and founder houses connected several recovery horizons without becoming one migration people or one state.
 
-The earliest Atherian cities occupied defensible hills and river crossings around the future Caleran basin. Their builders reused pre-Atherian walls and waterworks, creating the first of the archaeological overlaps still visible in modern Thalmyria. Competition for grain, copper, coastal access, and pilgrimage traffic produced leagues that could cooperate against raiders and then turn on one another when danger passed.
+Early Atherian cities occupied defensible hills and river crossings around the Caleran basin and developed along other coasts. In the Aurin country, the Enathi, Serathi and Vardeni brought independent post-Giant histories into contact with maritime settlers. Builders reused older walls and waterworks, producing archaeological layers still visible in modern Thalmyria. Competition for grain, metal, coastal access and religious traffic encouraged both cooperation and warfare.
+
+[[Caleran - Foundation and Royal Households]] follows the estuary through the founding brothers, later river kings and the Common Sky religious settlement. [[Arkenan and Saronikan Cities before the Empire]] describes a separate eastern maritime centre, whose food supply, workshops and civic traditions developed alongside Caleran's.
 
 The **Celestial Compact** joined twelve leading cities under a common star calendar, arbitration law, and military levy. Caleran became the league's archive and meeting place because its river, harbor, and roads made it difficult to bypass.
 
@@ -28,6 +30,8 @@ The **Celestial Compact** joined twelve leading cities under a common star calen
 ## Republic and Expansion
 
 The Compact hardened into a republic governed by assemblies, a senate of property-holding houses, and annually chosen magistrates. The republic built roads to move armies, cadastral archives to tax conquered land, aqueducts to support larger cities, and colonies to secure routes. Citizenship expanded unevenly: allies could earn rights, subject communities could be taxed without them, and enslaved labor supported estates and public works.
+
+[[The Celestial Compact and the Caleran Republic]] explains these institutions through their household and material foundations, including Nerava's supply dispute and the later appropriation of older civic founders. [[Food, Work and Citizenship in Republican Atheria]] follows the lives shaped by service, trade and unequal admission.
 
 Atherian wars reached the Sestaran harbors, eastern future Eclessian provinces, northern desert approaches, and southern forest marches. Expansion spread law and infrastructure while destroying local polities, transferring populations, and turning regional cults into subordinate faces of the stars.
 
