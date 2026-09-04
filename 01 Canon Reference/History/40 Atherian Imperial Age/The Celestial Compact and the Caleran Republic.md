@@ -60,9 +60,23 @@ Some veterans returned to prosperous households; others found debts and damaged 
 
 The ordinary benefits of expansion remained substantial. More dependable transport enlarged markets for tools, food and cloth. Apprentices moved between workshops. Families celebrated admission to civic bodies and contributed to buildings in which they took pride. These experiences helped sustain loyalty while disputes over burdens and rights continued.
 
+## The maritime rival and the Gateway Wars
+
+The [[The Gateway Republic|Gateway Republic]] controlled a cultivated maritime country at the approaches of later Qabir and Zanthir. Its leading port had developed among proto-Ahdari migrants and older shore communities, with civic institutions and dependent towns of its own. Centuries of trade and local rivalry preceded the wars through which Caleran became committed to its defeat.
+
+The [[The Gateway Wars|Gateway Wars]], approximately 650–520 BR, began over an inner-sea port and spread through fleets, garrisons and allied communities. Caleran's position at the Aurin mouth required landward supply links and cooperating Arkenan and Saronikan harbours. Victory depended on crews, repair workers, transport households and cultivators well beyond the city that directed the war.
+
+After the first defeat, the gateway government survived a revolt over unpaid service and rural collection. A military household rebuilt its resources abroad and later invaded Caleran's allied country. It won major battles but failed to replace Caleran's alliances with a durable coalition. Atherian attacks on its overseas resources and homeland eventually forced withdrawal and restricted its republic's military independence.
+
+The recovered rival remained a subject of senatorial disagreement. Opposition to its capital's child-sacrificing establishment became a major cause of the final war, alongside concerns about security, trade and renewed resistance. Internal opponents and threatened families assisted intervention. The final siege, around 525–520 BR, released children and destroyed the sacrificial institution; Atherian soldiers also murdered, raped and enslaved inhabitants. The capital was razed and heavily salted while lesser towns accepting the settlement escaped its planned destruction.
+
+Those [[The Spared Towns and the Queen's Country|spared towns]] supported later royal recovery. Caleran acquired greater access, revenue and military prestige. The campaigns also enlarged debts, extended service and increased commanders' influence among the people dependent on their rewards.
+
 ## The Nerava supply dispute
 
 During the middle republican centuries, roughly 650–500 BR, repeated transport levies provoked resistance around Nerava. Boats and carts returning from a long campaign were requisitioned again before families had repaired equipment or recovered the cost of the first service. Prominent houses secured relief for their own property while smaller suppliers faced seizure.
+
+The Gateway Wars contributed to these demands through the movement of supplies towards inner-sea fleets and garrisons. Nerava's grievance also concerned how the burden was shared at home. The same military requirement fell differently on a household with influential patrons and one unable to obtain an exemption.
 
 Crews refused to embark and work stopped at several loading places. Military suppliers pressed for enforcement; households argued that another departure would leave farms and workshops unable to meet their own needs. A partial settlement reduced some demands and gave established river associations a more durable role in negotiating service.
 
@@ -84,7 +98,9 @@ Commanders distributed spoils, supported soldiers' families and promised future 
 
 By the final republican decades, supporters of competing commanders contested settlement grants, offices and the interpretation of public honours. Violence damaged the institutions meant to adjudicate those disputes. Cities sought protection from particular military households, and civic leaders increasingly needed armed support to secure decisions at home.
 
-These conditions prepared the way for Aurelius Thalion around 350 BR. His seizure of Caleran and subsequent unification begin the imperial history. The republican account ends with a political order whose enduring institutions had become unable to restrain its strongest patrons.
+[[The Last Generations of the Caleran Republic]] follows these conditions through land reform, allied resistance and military intervention at Caleran. Casvilar's southern conquests and Ostar's failed northern expedition altered the balance among commanders. Casvilar defeated Veyr and concentrated power in his own hands before his assassination in 370 BR.
+
+[[The Wars of the Atherian Succession]] traces the continuing struggle through divided commands, confiscation and the eastern royal alliance. Aurelius Thalion emerged supreme around 350 BR. His seizure of Caleran and settlement of appointments, taxation and military pay established imperial government through institutions inherited from the republic.
 
 - [[Food, Work and Citizenship in Republican Atheria]]
 - [[Arkenan and Saronikan Cities before the Empire]]

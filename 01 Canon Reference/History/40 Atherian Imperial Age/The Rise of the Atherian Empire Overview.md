@@ -37,7 +37,11 @@ Atherian wars reached the Sestaran harbors, eastern future Eclessian provinces, 
 
 ## From Republic to Empire
 
-Land concentration, military patronage, provincial wealth, and rivalry among victorious commanders broke the republican settlement. A sequence of civil wars ended when **Aurelius Thalion** seized Caleran, retained republican offices in ceremonial form, and made his command hereditary in practice.
+Land concentration, military patronage and provincial wealth strengthened commanders whose followers expected rewards beyond the end of a public appointment. [[The Last Generations of the Caleran Republic]] follows these pressures through the partnership of Teren Casvilar, Marovan Veyr and Lethren Ostar. Casvilar's southern conquests enlarged his resources; civil war then brought him to power at Caleran. His assassination in 370 BR left armies, grants and debts without an agreed government.
+
+[[The Wars of the Atherian Succession]] began with competing claims to that inheritance. Casvilar's designated heir, [[Aurelius Thalion]], eventually shared a public government with Darion Velsar and Seluc Varroth. Proscriptions, veteran settlement and renewed war changed the distribution of their commands. Velsar's alliance with Queen Samyra Nerethan supplied a powerful eastern base, while Thalion secured the resources and fleets needed to defeat it.
+
+The conquest of Sarqen and Thalion's final seizure of Caleran around 350 BR concentrated supreme command in his household. Republican offices continued with civic and ceremonial duties. The settlement established the government from which hereditary imperial rule developed.
 
 Thalion's reforms created a standing army, centralized provincial appointments, regularized taxation, and elevated Astaroth's priesthood as guardian of imperial destiny. Successors expanded the imperial household, court schools, archive ministries, and public cult that later generations would remember as timeless Atherian tradition.
 

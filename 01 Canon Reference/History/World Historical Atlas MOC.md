@@ -62,7 +62,14 @@ For the political circumstances inherited by the present generation, read [[Pres
 
 [[Arkenan and Saronikan Cities before the Empire]] provides an eastern counterpart through port households, grain voyages and teaching. [[The Celestial Compact and the Caleran Republic]] follows public institutions through service, land and provincial wealth to the eve of Thalion. [[Food, Work and Citizenship in Republican Atheria]] describes the households sustaining that world.
 
+[[Palace Survivors and the Southern Heroic Age]] follows independent recovery after the Giant collapse. [[The Siege and the Returnings]] gives that world a connected heroic history, from High Harbour's fall to supernatural pursuit, changed households and settlement on another shore.
+
+For the overseas republic, read [[The Gateway Republic]] and [[The Gateway Wars]]. Their history connects food-producing towns, naval service, rival commanders and opposition to child sacrifice with the destruction of the capital. [[The Spared Towns and the Queen's Country]] follows the survivors into a later kingdom.
+
+For the founding generation, begin with [[The Last Generations of the Caleran Republic]] and [[The Southern Campaigns of Teren Casvilar]]. [[The House of Nerethan]] follows the queen's country across five generations; [[The Wars of the Atherian Succession]] connects changing commands and household alliances to Thalion's settlement around 350 BR. [[Households of the Imperial Founding]] introduces the women, children and surviving communities within that history.
+
 ## Tales that outlived their tellers
+
 
 [[Myths and Legendary Histories MOC]] gathers the seventy-five localised Garden traditions and additional received histories, including [[The Wolf's Two Sons]]. Games, meals, clothing, damaged landscapes, tools and ruined buildings carry meanings acquired through their stories. Each article identifies the communities that tell the tale and distinguishes established remains from disputed interpretations.
 
@@ -110,3 +117,5 @@ The [[World Encyclopedia - Revision and Expansion Programme]] schedules the cont
 The [[Dependable Navigation - Review and Repair Ledger]] documents the link repairs. [[Tidewood Historical Development - Authorial Review]] records the historical additions and authorial distinctions behind the completed regional example.
 
 [[Atherian Formation and Republic - Delivery Review]] records Package 2B's integration and regional expansion. [[Caleran Foundations - Authorial History]] preserves the private facts behind the founders, Giant ancestries and religious identifications.
+
+[[Atherian Palace and Maritime Histories - Integration Review]] records the heroic and republican additions. [[Imperial Founding - Authorial History and Integration Review]] records the subsequent selection of Thalion as heir and founder, the incoming Nerethan dynasty, the named founding generation and its consistency checks.

@@ -347,3 +347,9 @@ The baseline, repeatable comparison helper and generated validation report are r
 ## Suggested reading route
 
 Read the main account in order: **Arsuvan and its royal houses → Three peoples after the Giants → The wolf and the founding siblings → The Wolf's Two Sons → Ilaron and Tarsenna → The Common Sky settlement → The Celestial Compact and republican development**. Then use this review's chronology, identity tables and proposed destinations to assess what should become canon.
+
+## Supplement — palace aftermath and republican maritime wars
+
+The later [[90 Archive & Drafts/10 Research/Mythic and Sacred History/Palaces, Sea Migrations and the Long Fall - Mycenaean Research and World Egg Comparison.md|palace research]] develops the long aftermath of the Great Unbinding while preserving Arsuvan’s disintegration around 2260 BR, Arveth’s death, Lethra’s actions and the formation of the One Glass People. New surviving rulers belong to detached houses or other strongholds. The Caleran founders, Common Sky settlement and twelve-city Compact keep their existing histories.
+
+[[90 Archive & Drafts/10 Research/Mythic and Sacred History/Atheria before the Imperial Founding - Palace Remnants, Maritime Rivals and the Queen's Inheritance.md|The Atherian comparison]] proposes maritime wars within c. 650–500 BR and a royal country developing from the defeated rival’s homeland. It assigns the proposed additions to existing historical destinations and records their collision boundaries. These are supplementary proposals; this review’s earlier findings and delivery-specific validation totals remain preserved. No canonical rollout programme or historical article is revised in this research pass.

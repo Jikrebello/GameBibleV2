@@ -68,8 +68,9 @@ By about 2260 BR, unified royal government had ceased. The river settlements div
 
 Human households preserved agricultural knowledge, boatbuilding and workshop practices after royal control ended. The ruined palace terraces supplied building material as well as memories of forced labour. Later Star worship reused parts of the astronomical tradition while changing the stories told about its discovery and ownership.
 
+[[Palace Survivors and the Southern Heroic Age]] follows the wider aftermath, in which detached ruling houses elsewhere retained smaller strongholds while human communities rebuilt. Arsuvan's united kingdom had ended. The High Harbour dynasty encountered by later maritime settlers belonged to a separate surviving house on another coast.
+
 - [[Peoples of the Ancient Aurin]]
 - [[Sarven, Nerava, Thesra and Olveth]]
 - [[The Common Sky and the Formation of Astratheon]]
 - [[01 Canon Reference/History/20 Prehistory/Lesser Crowns of the Giant Age.md|Lesser Crowns of the Giant Age]]
-

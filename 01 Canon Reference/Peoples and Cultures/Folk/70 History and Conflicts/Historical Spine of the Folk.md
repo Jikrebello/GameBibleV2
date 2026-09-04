@@ -23,6 +23,7 @@ tags: []
 ## Atherian Centuries
 
 - **c. 800-350 BR:** Atherian city-states renew and greatly enlarge older contact through trade, recruitment, colonization and campaigns in the northern Folk lands.
+- **c. 390–379 BR:** [[The Southern Campaigns of Teren Casvilar]] draw separate river and forest coalitions into conquest and resistance. Morveth seeks support for local crossings; Drenoc leads the defence at Kellovar, which falls in 383. Velcara survives captivity and returns to rebuild storage through her maternal connections. The mutilations at Darneth in 380 leave enduring burdens in local households. These events belong to northern Folk approaches, independently of Tidewood's older dry-fleet story and the much later massacre at Wolfsmere.
 - **c. 350 BR onward:** imperial roads and forts penetrate the marches. Some clans become federates and auxiliaries; some strongholds fall; others retain treaty autonomy.
 - **0-540 AR:** converted and Atherianized Folk enter imperial institutions while old-rite territories remain beyond consistent rule. Decadence brings renewed raids, secessions, and abandoned frontier works.
 

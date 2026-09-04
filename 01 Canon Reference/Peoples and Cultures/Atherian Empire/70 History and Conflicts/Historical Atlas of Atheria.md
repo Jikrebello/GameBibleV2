@@ -27,6 +27,8 @@ Southern leagues left the communities nearer the Glass over several generations.
 
 [[Southern Settlement and Maritime Atheria]] follows these departures into inhabited country. The first substantial Atherian arrivals in the Aurin basin encountered the [[Peoples of the Ancient Aurin|Enathi, Serathi and Vardeni]]. Their ancestors had survived the fall of [[Arsuvan - The Giant Kingdom of the Aurin|Arsuvan]], a regional Giant kingdom with a palace economy, agricultural estates and upland connections.
 
+[[Palace Survivors and the Southern Heroic Age]] places these arrivals within the long aftermath of the Unbinding. Some detached Giant houses still controlled strongholds and captive labour. At High Harbour, approximately 1980–1960 BR, a mixed coalition brought down one such court. [[The Siege and the Returnings]] follows the war, the powers that intervened and the surviving households' journeys through the following generation.
+
 ## Maritime societies, c. 1900–1400 BR
 
 Ship-owning houses connected timber, metal, grain and captive labour across distant shores. A successful fleet required food and repairs ashore as well as skill at sea. Harbour families could use that dependence to restrain a commander or find themselves subjected to military seizure.
@@ -45,9 +47,21 @@ The twelve-city Celestial Compact coordinated a calendar, arbitration and milita
 
 [[The Celestial Compact and the Caleran Republic]] follows the relationship between these institutions and the land, military service and provincial wealth on which they depended. [[Food, Work and Citizenship in Republican Atheria]] describes the households whose work sustained them. By the final republican decades, powerful commanders could maintain loyalties which outlasted their public offices and resist the institutions intended to restrain them.
 
+## The overseas republic and the spared towns
+
+The [[The Gateway Republic|Gateway Republic]] grew in the country of the later Qabir–Zanthir gateway from proto-Ahdari migrants and older coastal communities. Its cultivated districts, ships and dependent towns supported a powerful maritime state. The [[The Gateway Wars|wars with Caleran]], around 650–520 BR, began over ports, continued through an invasion aimed at breaking Atherian alliances and ended with the destruction of the rival capital.
+
+Ending the capital's child sacrifices was a major cause of the final intervention. Internal opponents and threatened families helped the Atherians break the institution. The victory also brought massacre, rape, enslavement and the deliberate salting of the razed city. Lesser towns were spared planned destruction and retained the households, food production and ports from which [[The Spared Towns and the Queen's Country|a later royal country]] developed.
+
+These wars increased Caleran's dependence on inner-sea allies and suppliers while enlarging the rewards available to commanders. Across the sea, Nerethan of Delkos married Hadrima of Esharat in 497 BR, joining an incoming military command to a spared-town family. Their descendants obtained hereditary recognition and enlarged Sarqen, the port earlier called Second Harbour. [[The House of Nerethan]] follows that country into the reign of [[Samyra Nerethan]].
+
 ## Empire and later history
 
-Aurelius Thalion's seizure of Caleran around 350 BR began the transition to hereditary imperial command. The existing [[01 Canon Reference/History/40 Atherian Imperial Age/The Rise of the Atherian Empire Overview.md|account of imperial rise]] and [[01 Canon Reference/History/40 Atherian Imperial Age/The Atherian Empire – Age of Glory.md|Age of Glory]] describe the next period.
+[[The Last Generations of the Caleran Republic]] follows land disputes, unequal citizenship and the careers of Marovan Veyr, Lethren Ostar and Teren Casvilar. [[The Southern Campaigns of Teren Casvilar|Casvilar's conquests]], principally in 390–379 BR, brought wealth and captives to Atherian households while defeating organised resistance among inhabited forest districts. His victory over Veyr gave him personal supremacy at Caleran; his assassination in 370 opened another struggle over armies and inheritance.
+
+[[The Wars of the Atherian Succession]] traces the public government of Thalion, Velsar and Varroth, its changing territorial responsibilities and the final war involving Samyra's kingdom. [[Aurelius Thalion]] established supreme command around 350 BR after the conquest of Sarqen. His settlement brought continuing military pay and central provincial appointments while preserving many rewards of confiscation. [[Households of the Imperial Founding]] describes the marriages, friendships and surviving children affected by these decisions.
+
+The [[01 Canon Reference/History/40 Atherian Imperial Age/The Rise of the Atherian Empire Overview.md|account of imperial rise]] connects the foundation to the institutions of the [[01 Canon Reference/History/40 Atherian Imperial Age/The Atherian Empire – Age of Glory.md|Age of Glory]].
 
 The Redeemer entered this imperial world. Persecution, Conversion, regional decay, frontier accommodation and the Fall changed its political and religious inheritance. Thalmyrics and Eclessians later claimed that inheritance through different histories, not as two ancient biological branches. Atherian ruins therefore belong to many present peoples, including those conquered by the builders.
 

@@ -28,11 +28,19 @@ Those moving south brought shared measures, apprenticeship practices and experie
 
 The southern leagues encountered settlements descended from people who had survived Giant rule locally. River villages maintained fields and boats; hill towns controlled workshops and routes; separate Folk clans occupied forests and farmland. Some inhabitants had preserved considerable knowledge of old works. Others had abandoned sites they could no longer supply or defend.
 
+Detached Giant houses also survived in fortified estates and useful harbours. Their reduced possessions depended on human food, labour and craft, and some continued to take captives from neighbouring settlements. [[Palace Survivors and the Southern Heroic Age]] follows the generations between the Unbinding and these later encounters. The settlers arrived after a century of independent recovery outside the Glass, with its own remembered leaders and losses.
+
 Settler forts acquired food through different arrangements. A household might provide grain in exchange for protection against a rival, then find that the garrison demanded the same quantity after a poor harvest. Captains seized land, enslaved inhabitants and took children as hostages. Their opponents destroyed some forts, absorbed survivors or used incoming fighters in local quarrels. Marriages and adoption brought newcomers into established households alongside these more violent forms of incorporation.
 
 At the Aurin mouth, defended landings placed shipping households in contact with the [[Peoples of the Ancient Aurin|Enathi, Serathi and Vardeni]]. These peoples had developed after the collapse of [[Arsuvan - The Giant Kingdom of the Aurin|Arsuvan]]. Enathi river knowledge, Serathi craft and upland supplies helped support the newcomers. The same relationships became sources of resentment when temporary military requirements turned into permanent ownership.
 
 The traditions of [[01 Canon Reference/History/80 Myths and Legendary Histories/G-57 - The Gate Opened during Supper.md|the First Southern Gate]] and [[01 Canon Reference/History/80 Myths and Legendary Histories/G-72 - The Hostage Children of Oak and Glass.md|the Oak-and-Glass hostages]] belong to this wider settlement world. Their different places and participants preserve particular encounters rather than one common founding event.
+
+## High Harbour and the returnings, c. 1980–1930 BR
+
+On the Arkenan–Saronikan approaches, a coalition of established shore communities and incoming maritime households besieged High Harbour, a stronghold retained by a detached Giant dynasty. Seized ships, captive relatives and demands for grain brought the allies together. Their commanders then quarrelled over supplies and captives, while local sea and wind powers intervened in the fighting.
+
+[[The Siege and the Returnings]] follows the fall of the stronghold and the voyages afterwards. The Giant ruler died, but the victors broke promises, murdered inhabitants and carried people into slavery. Returning captains faced pursuit and altered households. A shipmistress who had failed to recover her husband helped other captives escape and joined an inhabited shore community where the survivors built a new vessel together. These different outcomes gave later maritime tellers histories of rescue and settlement alongside the celebrated siege.
 
 ## A ship-owning household
 
@@ -67,6 +75,8 @@ Inland teachers contributed observations and sacred explanations inherited from 
 ## From maritime households to cities
 
 Between about 1600 and 1400 BR, several exchange networks weakened through warfare, extraction and broken supply. A defeated fleet could leave distant workshops unpaid and demand grain from a harbour already short of food. Some landings were abandoned; others survived by replacing patrons or broadening cooperation among resident families.
+
+These failures belonged to maritime societies that had developed for generations after the Giant collapse. Particular decisions, including Kassilon's seizure of Erenost's food stores, damaged relationships on which those communities had come to depend. The earlier fall of palace government and the later disruptions have separate participants and consequences.
 
 Settlements with dependable water, cultivated hinterlands and useful anchorages could sustain larger populations. Households invested in quays, store buildings, walls and public spaces which outlasted individual voyages. Councils acquired responsibilities for work that one family could no longer undertake alone. These developments prepared the urban world described in [[The First Atherian City-States]].
 

@@ -26,6 +26,12 @@ Naverion and Erenost grew as shore markets with access to food, labour and repai
 
 Early residents included descendants of local Orphaned survivors and maritime settlers. Some households preserved older fishing and agricultural practices while adopting Atherian speech. Others acquired land through armed occupation. Craftspeople, freed captives and marriage partners moved between ports, making civic affiliation an increasingly important distinction within mixed populations.
 
+## The earlier heroic coast
+
+The maritime communities inherited memories of the smaller Giant powers surviving the Unbinding. [[The Siege and the Returnings|High Harbour's siege and the returnings]], around 1980–1930 BR, belonged to their approaches before the city world described here had developed. A mixed coalition destroyed the stronghold, and its subsequent voyages produced stories of supernatural pursuit, changed bodies, captivity and settlement among strangers.
+
+Later island and shore tellers preserved different accounts of the victors. Some honoured captains; others followed the shipmistress and escaped captives. The cycle's tide mistress, wind envoy and mailed apparition acquired familiar divine names in later songs. Those traditions entered the maritime religious world alongside local practices and older Orphaned memories.
+
 ## The Erenost grain seizure
 
 Around 1550–1500 BR, Erenost supplied an armed fleet commanded by **Kassilon**, a captain supported by several ship-owning households. He had secured profitable escorts and defended vessels against raiders. When his patrons prepared a larger campaign, they treated the harbour's stored food as an advance on the expected spoils.
@@ -69,6 +75,8 @@ The city's name and the king's identity remain uncertain. Neither Kassilon, Dore
 Caleran's religious and political arrangements circulated through travellers, marriages and commercial agreements. Island communities could adopt a festival reckoning without joining a particular military league. The twelve-city Compact's existence therefore did not make every Atherian-speaking port a member. Later republican expansion produced additional and unequal relationships with coastal cities.
 
 Some harbours supplied ships or paid for protection while preserving local councils. Others lost the ability to determine their own military contributions after defeat. Republican patrons invested in cargo and workshops, and island families sought citizenship or useful marriage connections. Naval service carried men farther from home, increasing both earnings and the danger that a household would lose its principal worker.
+
+The [[The Gateway Wars|Gateway Wars]], approximately 650–520 BR, made those obligations more demanding. Inner-sea ports supplied the fleets and repair facilities through which Caleran fought its maritime rival. Repeated losses required replacement crews and equipment. Allied cities could use that dependence to negotiate, although relief secured by prominent shipowners did not necessarily reach the workers or families serving beneath them.
 
 By the later republican centuries, the island world was closely involved in competition among commanders. A port's support might depend on an exemption from requisition or a promise to repair harbour works. Rival commanders could divide merchants from crews and one prominent family from another. Civic institutions survived within these disputes and became part of the world inherited by the empire.
 

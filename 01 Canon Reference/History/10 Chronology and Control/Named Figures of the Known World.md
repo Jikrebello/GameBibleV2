@@ -27,7 +27,18 @@ The people behind the [[Chronology of the Known World (AR Dating)]]. Each entry 
 
 [[Arkenan and Saronikan Cities before the Empire]] introduces Kassilon's loss of command after Erenost's grain seizure, Doreva's grain ventures at Pyrassa and Mesthra's observational teaching at Irenai. They belong to independent eastern histories, without a shared royal genealogy or later supernatural office.
 
+## The imperial-founding generation
+
+[[Teren Casvilar]] (425–370 BR) conquered southern districts, defeated republican rivals and governed through personal supremacy. His assassination began the succession wars. [[Marovan Veyr]] (435–373), his former partner and principal rival, left eastern clients and a maritime following inherited by his son Ardel. [[Lethren Ostar]] (442–381) financed the partnership, crucified defeated rebels in 399 and died during the failed northern expedition at Rethmar.
+
+[[Aurelius Thalion]] (born 390 BR) was Casvilar's nephew and designated heir. His supremacy around 350 begins imperial rule; his death and later succession are outside this founding package. [[Darion Velsar]] (408–350) supplied much of the coalition's eastern military strength before becoming Thalion's rival. [[Seluc Varroth]] (born 414) lost his military command in 355 while retaining the office of First Celebrant of the Common Sky. [[Istran Melvo]] (born 391) organised the fleets which defeated the sea-heir and the royal coalition.
+
+[[Samyra Nerethan]] (392–350) ruled from Sarqen. [[The House of Nerethan]] fixes the incoming commander Nerethan, Hadrima of Esharat, Arenes, Tavren and Olymes as the preceding royal generations. Samyra's sister Merath was executed in 358, her son Amesar in 350; Talven and Lethia survived in Evara Thalion's custody.
+
+[[Households of the Imperial Founding]] records Lysara's support for her son, Calvena's marriage to Veyr and death in childbirth, Miretha Ardel's resistance at Darsil, and Evara's and Ilvara's distinct household work. The same account preserves the roles of the assassins Deceran Tolm, Mavren Seneth and Corial Draven, the betrayed speaker Belisar Venn and the southern organiser Velcara. Drenoc and Morveth belong to independent Folk coalitions; Kharuz and Tavisha to the northern well resistance. None is a member of an existing signature company.
+
 ## The Age of the Redeemer
+
 
 **Lord-Scribe Ezrahel bar Qoreth** (fl. 0 AR) — Head of the Jirahar Council of Scribes at Isfir's trial. Not a cartoon: he sincerely believed Isfir would bring imperial fire down on every tower town, and chose one man's death over a people's. He was right about the fire and wrong about everything else — the pogroms came anyway, a century later, in the converted empire's name. Jirahar tradition never mentions him; Church tradition never stops.
 

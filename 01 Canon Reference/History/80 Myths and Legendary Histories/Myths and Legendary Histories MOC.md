@@ -31,6 +31,7 @@ These are the world's received stories, not seventy-five certificates that every
 
 ## Age of Scattering
 
+- [[The Siege and the Returnings]] — High Harbour's war and the separate homecomings, c. 1980–1930 BR; an additional heroic cycle outside the Garden numbering.
 - [[G-04 - The Seven Who Stopped Seeking Home|The Seven Who Stopped Seeking Home]] — southern dispersal corridors and Near-Glass borderlands; c. 2165–1750 BR; overlapping Scattering and early Hearths.
 - [[G-19 - The Hearth Carried Twice|The Hearth Carried Twice]] — an independent refugee hearth on an Egg White adjacency; c. 2165–1750 BR; overlapping Scattering and early Hearths.
 - [[G-56 - The Empty Seat Facing Outward|The Empty Seat Facing Outward]] — outward threshold of the Glass; c. 2165–2130 BR.

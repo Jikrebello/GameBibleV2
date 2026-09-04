@@ -61,7 +61,7 @@ The eastern [[First Qiryath and the Arqeshite Exile|Arqeshite River Empire]] des
 
 ## 7. Atherian Unity and the Star Pantheon
 
-The Atherian city world and republic create roads, cities, law, archives and a civic identity capable of admitting outsiders on unequal terms. The old Atherian Empire centralizes and enlarges that inheritance into provincial government and continental memory. Its Star Pantheon gives the empire a cosmic civic order.
+The Atherian city world and republic create roads, cities, law, archives and a civic identity capable of admitting outsiders on unequal terms. Provincial wealth and unequal service strengthen personal military followings. [[Teren Casvilar]] gains supremacy through conquest and civil war; his assassination in 370 BR leaves rival claims to armies and rewards. [[The Wars of the Atherian Succession]] passes through a three-command government and renewed conflict before [[Aurelius Thalion]] establishes imperial supremacy around 350 BR. The empire centralises that inheritance into provincial government and continental memory, using the Star Pantheon to present its authority as cosmic civic order.
 
 **Inherited wound:** everyone wants Atheria's legitimacy, roads, ruins, and archives.
 

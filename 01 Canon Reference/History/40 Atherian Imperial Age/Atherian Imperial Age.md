@@ -48,7 +48,7 @@ The following account distinguishes established history from the received storie
 
 ## Empire from an older world
 
-The unification around 350 BR gathered centuries of Atherian settlement, maritime rivalry, cities and republican experiment. Aurelius Thalion belongs to that later achievement. He did not lead the first departure from the Glass, invent the coastal cities or make imperial subjects one bloodline.
+The unification around 350 BR gathered centuries of Atherian settlement, maritime rivalry, cities and republican experiment. [[Teren Casvilar]] had conquered southern districts and defeated republican rivals before his assassination in 370 BR. His nephew [[Aurelius Thalion]] emerged from the subsequent divided commands and civil wars to establish continuing imperial government. [[The Wars of the Atherian Succession]] follows that founding generation through the conquest of Sarqen and the settlement at Caleran.
 
 Imperial government enlarged a system which could admit outsiders while keeping them unequal. Service, language, citizenship, landholding and ancestry overlapped without becoming identical. A provincial family could supply officers for three generations and still be called foreign in the capital. Another could acquire civic standing through military settlement and lose its farm when a later governor changed the levy.
 
@@ -83,6 +83,11 @@ Modern Thalmyrics and Eclessians do not correspond to two ancient biological hal
 
 ## Historical articles in this age
 
+- [[The Last Generations of the Caleran Republic]]
+- [[The Southern Campaigns of Teren Casvilar]]
+- [[The House of Nerethan]]
+- [[The Wars of the Atherian Succession]]
+- [[Households of the Imperial Founding]]
 - [[The Atherian Empire – Age of Glory]]
 - [[The Rise of the Atherian Empire Overview]]
 

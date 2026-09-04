@@ -97,6 +97,8 @@ The transition leads to [[Atherian Imperial Age]] and Aurelius Thalion's later r
 ## Historical articles in this age
 
 - [[The Celestial Compact and the Caleran Republic]] — twelve-city cooperation, developing republican government and the pressures preceding Thalion.
+- [[The Gateway Republic]] and [[The Gateway Wars]] — the maritime rival, alliance-breaking invasion and final destruction of the sacrificial capital, c. 650–520 BR.
+- [[The Spared Towns and the Queen's Country]] — the surviving communities and royal recovery after the wars.
 - [[Food, Work and Citizenship in Republican Atheria]] — production, service, civic belonging and ordinary pleasures.
 - [[The Arqeshite River Empire]]
 - [[The Erasure of Orthea]]

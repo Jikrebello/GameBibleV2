@@ -20,9 +20,11 @@ The first delivery is limited to the programme, its complete inventory, and twel
 
 ## Delivery progress
 
-The entrance review and Caleran Foundations research review have been approved. **Package 2B is completed for review** through Atheria's formation, royal cities and republican developments preceding Thalion. [[Atherian Formation and Republic - Delivery Review]] records the canonical integrations, regional additions and checks; [[Caleran Foundations - Authorial History]] preserves private facts behind the public accounts.
+The entrance review, Caleran Foundations research and **Package 2B** have been approved. [[Atherian Formation and Republic - Delivery Review]] records the original canonical integrations and regional development through the republic; [[Caleran Foundations - Authorial History]] preserves private facts behind the public accounts.
 
-Package 2 now has three recorded portions: **2A**, the approved author-only foundation study; **2B**, its integration and wider formation-to-republic history; and **2C**, Thalion's unification and the Age of Glory, which remains the next unstarted portion. The all-era [[Historical Atlas of Atheria]] connects them. Package 3 retains the later empire and Long Frontier.
+The subsequent palace and maritime research supplied five further readable histories and a private [[Atherian Palace and Maritime Histories - Integration Review|integration review]]. They establish the long palace aftermath, High Harbour's heroic cycle, the Gateway Republic and wars, and royal recovery among the spared towns. The imperial-founding pass has now selected Thalion as the Augustus-like founder and an incoming maritime dynasty joined to a spared-town family. [[Imperial Founding - Authorial History and Integration Review]] records fourteen further articles, the named founding generation and its integration through 350 BR.
+
+Package 2 has three recorded portions: **2A**, the approved author-only foundation study; **2B**, its integration and wider formation-to-republic history, including the palace and maritime supplement; and **2C**, Thalion's unification and the Age of Glory. **The founding portion of 2C is complete through the settlement around 350 BR. The wider Age of Glory, 350 BR–0 AR, is the next delivery.** The all-era [[Historical Atlas of Atheria]] connects them. Package 3 retains the later empire and Long Frontier.
 
 The original Package 1 scope and handoff below remain the historical record of that delivery. Its stop instruction does not reopen the already completed entrance review.
 

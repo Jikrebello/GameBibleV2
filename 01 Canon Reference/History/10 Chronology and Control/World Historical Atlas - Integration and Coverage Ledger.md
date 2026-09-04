@@ -923,7 +923,34 @@ The new Erenost, Pyrassa and Irenai histories develop existing eastern cities th
 
 Package 2C remains responsible for Thalion's seizure, unification and imperial depth through 0 AR. Package 3 retains the later empire and Long Frontier. The approved Tidewood package, campaigns, fiction, Garden source text and application files are unchanged.
 
+## Palace and maritime supplement to Package 2B
+
+After approval of the expanded research, the author authorised integration of its principal events on 4 September 2026. [[Atherian Palace and Maritime Histories - Integration Review]] records the promoted scope, exact supernatural identities, source fidelity, collisions and validation. These six additional canonical articles leave the original Garden, identifier, reserve and source-register totals as historical records of their earlier builds.
+
+| Research source | Canonical destinations | Selection |
+|---|---|---|
+| [[90 Archive & Drafts/10 Research/Mythic and Sacred History/Palaces, Sea Migrations and the Long Fall - Mycenaean Research and World Egg Comparison.md|Palace and heroic research]] | [[Palace Survivors and the Southern Heroic Age]]; [[The Siege and the Returnings]] | Long aftermath and principal siege/return cycle integrated; three shorter encounter outlines unpromoted |
+| [[90 Archive & Drafts/10 Research/Mythic and Sacred History/Carthage and the Making of Rome's Overseas Republic - Peoples, Punic Wars and Destruction.md|Carthage research]] | [[The Gateway Republic]]; [[The Gateway Wars]] | Structural and historical comparison; the fictional sacrifice motive, salting and capital-only destruction remain explicitly differentiated from Roman evidence |
+| [[90 Archive & Drafts/10 Research/Mythic and Sacred History/Atheria before the Imperial Founding - Palace Remnants, Maritime Rivals and the Queen's Inheritance.md|Approved Atherian comparison]] | [[The Spared Towns and the Queen's Country]] and all the destinations above; [[Atherian Palace and Maritime Histories - Integration Review]] | Qabir–Zanthir broad geography, event sequence and common royal inheritance integrated. Neither dynasty nor Thalion alternative selected |
+
+The dated chronology gains approximate regional events without moving the Glass Sojourn, fissions, Common Sky, Compact or existing Thalion date. Existing Atherian articles supply navigation and context; the modern Zanthir overview receives an ancient-history reading link without a changed origin. The new heroic cycle has no Garden identifier. Orthea remains separate despite approximate contemporaneity with the final gateway siege.
+
+## Package 2C — the imperial founding
+
+The authorised canon pass selects Thalion as the Augustus-like heir and founder and the incoming royal-house route joined to spared-town ancestry. [[Imperial Founding - Authorial History and Integration Review]] records fourteen new canonical articles and the connected sequence through 350 BR. The wider Age of Glory remains a separate delivery.
+
+| Newly incorporated research | Canonical destinations | Decision |
+|---|---|---|
+| [[The Roman Republic's Last Generations - Conquest, Civil War and Imperial Settlement]] | [[The Last Generations of the Caleran Republic]], [[The Southern Campaigns of Teren Casvilar]], [[The Wars of the Atherian Succession]] | Historical structures transformed into separate Atherian events; Roman claims remain qualified in research |
+| [[Caesar's World - People, Households and Rivalries]] | [[Teren Casvilar]], [[Aurelius Thalion]], [[Marovan Veyr]], [[Lethren Ostar]], [[Darion Velsar]], [[Samyra Nerethan]], [[Seluc Varroth]], [[Istran Melvo]], [[Households of the Imperial Founding]] | Separate functions and household agency; no automatic one-to-one counterpart for every researched person |
+| [[Atheria's Imperial Founding - Alternative Histories and Canon Review]] | [[The House of Nerethan]], all founding histories above, [[Imperial Founding - Authorial History and Integration Review]] | Alternative A and Route M selected; other branches remain research |
+
+The earlier palace/maritime table records its then-open decisions. The new selection now controls the queen's genealogy, named generation and founding sequence. Sarqen is the surviving Second Harbour, separate from the ruined capital. The named-figure register, chronology, Atherian entrances and relevant Folk and Tarkhan histories agree with that distinction.
+
+These fourteen additions increase the canonical library from 786 to 800 articles. The original 57-source register, 75 Garden destinations, 315 identifiers and 204 reserve records remain intact; the later Caleran, palace/maritime and imperial supplements extend their coverage without changing those original counts. No Garden or application files change.
+
 ## Canon boundaries after integration
+
 
 Human souls, Giant continuities, autonomous Masks, dependent Masks, offices, copies, residues and Patron relationships remain distinct. A Giant can receive temporal mercy but not a manufactured human soul. Nythalum remains physically lunar. The Shell remains sterile outside constructed environments.
 

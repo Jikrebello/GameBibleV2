@@ -45,7 +45,12 @@ The Atherian city-states are the poleis: civic rivalry, leagues, tyrants, coloni
 
 Unification ends the city-state age (c. 350 BR); the Age of Glory is the Pax Romana. **Aurelius Thalion** is the fixed founder: land concentration, military patronage, provincial wealth, and rival commanders broke the republic; Thalion won the civil wars, seized Caleran, retained republican offices as ceremonial forms, and made supreme command hereditary in practice. The roads, laws, and archives every successor now fights over were built by the republic and centralized by the imperial settlement.
 
+The imperial-founding pass selects Thalion as the **Augustus-like founder**. Teren Casvilar carries the Caesar-like conquest and assassination; Marovan Veyr, Lethren Ostar, Darion Velsar, Samyra Nerethan, Seluc Varroth and Istran Melvo preserve separately identifiable Pompey, Crassus, Antony, Cleopatra, Lepidus and Agrippa grammars. The earlier informal partnership and later public three-command government remain different arrangements. [[Imperial Founding - Authorial History and Integration Review]] records the transformations and precise canonical sequence.
+
+The queen's dynasty follows the selected incoming-house route: Nerethan of Delkos joins Hadrima of Esharat's spared-town family. Sarqen is a surviving lesser port enlarged over generations, distinct from the destroyed sacrificial capital. Northern war uses defended water, camels and foot-mobile resistance; southern conquest encounters separate Folk coalitions. Neither landscape is a relocated Roman province.
+
 ### Iron-Age Europe and the Imperial Frontier → The Folk
+
 
 The Folk draw structural inspiration from the clan, tribal, hillfort, federate, and successor societies encountered beyond and within the Roman frontier: Gaulish confederacies, Gothic war-leadership, Germanic halls, and the Brittonic, Welsh, Cornish, Scottish, and Irish persistence of local law and identity. This produces a political spectrum rather than one generic tribe. Some communities use stone, bronze, and scarce bloomery iron; others field mature iron-working confederacies, fortified towns, treaty systems, and armies capable of negotiating with empires.
 

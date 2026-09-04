@@ -34,11 +34,13 @@ The civilized world dates from the execution and resurrection of Isfir the Redee
 - **c. 2165–2130 BR — The Vacant Commission.** The Prophet leaves no universal successor. Bounded camp offices continue while the attempted common southern sanctuary fails through disputes over movement, land, stores, punishment and command.
 - **c. 2130–2050 BR — The First Fission.** Southern war-settlement leagues separate gradually from a continuing Near-Glass camp continuum. Families, offices and trade remain entangled across the division.
 - **c. 2050–1900 BR — The Southern Seizures.** Proto-Atherian forts, river settlements and ports expand through massacre, slavery, hostages, displacement, treaty, adoption, intermarriage and local resistance. Several connected recovery networks form and break at different times; there is no single Atherian migration or universal collapse.
+- **c. 1980–1930 BR — [[The Siege and the Returnings]].** A mixed maritime coalition destroys High Harbour's surviving Giant court, approximately 1980–1960 BR. The sack, supernatural pursuit, changed households and separate return journeys continue into the following generation.
 - **c. 1950–1750 BR — The Northern Fission.** Overlapping the late Scattering and early Hearths, water, distance, marriage, raid, trade and reciprocal Tarkhan contact divide the Near-Glass continuum into proto-Jirahar and proto-Ahl-e-Ahd formations.
 
 ## Early Historic Ages
 
 - **c. 1900–1400 BR — Age of Hearths and First Kings.**
+- **c. 1700–850 BR — Formation of [[The Gateway Republic]].** Successive proto-Ahdari migrations join established shore communities in the country of the later Qabir–Zanthir gateway; an unequal maritime civic association develops over subsequent generations.
 - **c. 1600 BR — [[War of the Empty Halls]].** A great Grobi offensive nearly destroys the settled Ättar ranges. Four ruling coalitions accept Mother Moon's firstborn bargain, creating the enduring Lion, Ox, Bear, and Wolf pact-kindreds.
 - **c. 1400–800 BR — Age of City-States.**
 - **c. 1160 BR — [[The Refusal at Kelarion]].** Harbor rulers deny refuge during a killing storm; [[The Shoreless King]] manifests and is sealed beneath the drowned breakwaters.
@@ -46,11 +48,30 @@ The civilized world dates from the execution and resurrection of Isfir the Redee
 - **c. 690 BR — Fall of Arqesh.** Return to Qiryath begins under the changing eastern leagues.
 - **c. 660 BR — Consecration of the Second Qiryath.**
 - **c. 800–350 BR — Age of Stars.** Atherian synthesis.
+- **c. 650–625 BR — First of [[The Gateway Wars]].** Rival intervention at inner-sea ports draws Caleran into sustained naval commitments; its allies and inland suppliers bear repeated losses and levies.
+- **c. 625–605 BR — Gateway revolt and military recovery.** A payment-and-subject revolt, approximately 625–619 BR, ends through brutal reprisals. Caleran seizes an exposed anchorage; a gateway military household subsequently rebuilds overseas resources.
+- **c. 600–580 BR — The alliance-breaking invasion.** The gateway commander defeats Atherian armies but fails to replace Caleran's alliance network. Attacks on his overseas base and homeland force withdrawal and restricted independence.
+- **c. 580–525 BR — Gateway recovery and sacrificial demands.** Renewed wealth, border conflict and intensifying child sacrifice produce an intervention coalition with strategic and genuine religious motives.
+- **c. 525–520 BR — Destruction of the gateway capital.** Atherian forces end the sacrificial institution and rescue children, while committing murder, rape and enslavement during the sack. The capital is razed and heavily salted; lesser towns accepting the settlement retain their communities.
+- **c. 520–400 BR — [[The Spared Towns and the Queen's Country|Royal recovery among the spared towns]].** Surviving cultivation and ports support rebuilding. Nerethan of Delkos arrives in 499, marries Hadrima of Esharat in 497, and establishes the household from which Arenes obtains hereditary recognition in 457. Sarqen, the enlarged Second Harbour, becomes the royal seat.
 - **c. 520 BR — [[The Erasure of Orthea]].** A city league attempts to remove an atrocity and its witnesses from causal record; [[The Unwritten Worm]] manifests and is sealed beneath the archive-valley.
 
+## The last republican generations
+
+- **c. 495–448 BR — [[The Last Generations of the Caleran Republic|Land, citizenship and military intervention]].** Eshren Damar's land proposals end in his murder in 491; allied resistance in 468–461 brings unequal admission; Vespen Harod seizes Caleran in 448 and confiscates opponents' property.
+- **c. 414–397 BR — Marovan Veyr's eastern commands.** Port settlements and provincial clients establish the older commander's following.
+- **c. 396–391 BR — The first partnership.** Casvilar, Veyr and Ostar cooperate through existing offices and personal relationships, without a collective public commission.
+- **c. 390–379 BR — [[The Southern Campaigns of Teren Casvilar]].** Conquest, alliance, enslavement and organised resistance reshape particular northern Folk districts. Kellovar falls in 383; surrendered fighters are mutilated at Darneth in 380.
+- **381 BR — [[Lethren Ostar#The disaster at Rethmar|The northern expedition fails]].** Defended wells and attacks on supply destroy Ostar's army. Pel dies before his father; captivity and ransom follow.
+- **376–373 BR — The first civil war.** Casvilar occupies Caleran, defeats Veyr near Velos and intervenes in the gateway succession after Veyr's murder in 373. Samyra's restoration is secured by 372.
+- **370 BR — Casvilar's assassination.** His designated heir Thalion, senior commander Velsar and surviving opponents contest his military and political inheritance.
+- **367 BR — The public three-command government.** Thalion, Velsar and Varroth receive exceptional governing powers; proscriptions and confiscations finance their coalition.
+- **363–359 BR — Victory and renewed division.** Republican armies fall at Darsil in 363; veteran settlement provokes a rebellion suppressed in 361. Evara's marriage to Velsar in 359 supports temporary cooperation.
+- **355–354 BR — Maritime victory and eastern royal claims.** Melvo defeats Ardel Veyr; Varroth loses military power. Velsar recognises Samyra's wider dynastic claims, increasing conflict with Thalion.
+- **353–350 BR — [[The Wars of the Atherian Succession|The final succession war]].** The royal fleet is defeated outside Sarqen in 352. Thalion annexes the kingdom in 350; Velsar and Samyra die, Amesar is executed and the younger royal children enter Evara's custody.
 ## The Atherian Imperial Age
 
-- **c. 350 BR — Unification of Atheria.**
+- **c. 350 BR — Unification of Atheria.** [[Aurelius Thalion]] secures Caleran and concentrates supreme command, standing military pay, provincial appointments and taxation in the imperial settlement.
 - **c. 350 BR–0 — Age of Glory.**
 
 ## The Age of the Redeemer

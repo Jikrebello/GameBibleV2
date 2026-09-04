@@ -138,6 +138,8 @@ The Year of Standing Stars belongs somewhere within these overlapping centuries.
 
 ## Historical articles in this age
 
+- [[Palace Survivors and the Southern Heroic Age]] — independent recovery, surviving Giant houses and the later settler encounters.
+- [[The Siege and the Returnings]] — High Harbour and the maritime households whose war and homecomings fall around 1980–1930 BR.
 - [[Southern Settlement and Maritime Atheria]] — the southern departure, occupied settlement country and the relationships from which maritime societies grew.
 - [[Peoples of the Ancient Aurin]] — related Orphaned river, hill-city and upland societies encountered by southern settlers.
 - [[Ancient and Early Historic Ages]]

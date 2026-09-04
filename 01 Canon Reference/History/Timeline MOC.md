@@ -34,6 +34,8 @@ tags: []
 - [[Ancient and Early Historic Ages]]
 - [[Chronology of the Known World (AR Dating)]]
 - [[The Atherian Empire – Age of Glory]]
+- [[The Last Generations of the Caleran Republic]]
+- [[The Wars of the Atherian Succession]]
 - [[The Age of the Redeemer]]
 - [[The Conversion of the Empire]]
 - [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/70 History and Conflicts/The Founding of the Thalmyric Empire.md|The Founding of the Thalmyric Empire]]
@@ -70,6 +72,8 @@ tags: []
 ## Historical Lenses
 
 - [[Prehistory Overview]]
+- [[Palace Survivors and the Southern Heroic Age]] and [[The Siege and the Returnings]]
+- [[The Gateway Wars]] and [[The Spared Towns and the Queen's Country]]
 - [[The Historical Seed Garden]] - author-only exploratory nursery for legendary companies and unfinished human trajectories across all eras.
 - [[The Empire of Qianglong]]
 - [[The Unending Muster]]

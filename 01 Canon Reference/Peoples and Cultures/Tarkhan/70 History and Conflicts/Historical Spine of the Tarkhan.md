@@ -17,6 +17,10 @@ tags: []
 
 Tarkhan ancestors descend principally from dry-belt subject communities, fugitives, client-state survivors and mobile groups left outside the Glass Ark. They survive and reassemble across the northern desert, seasonal lake country and eastern grasslands. Western clans develop camels, well law, caravan brokerage and mobile pastoralism. Eastern communities combine hunting, small herds and foot-mobile migration. Later arrivals are absorbed, but the people is not a fourth branch of the Prophet's camp.
 
+## The defence of Rethmar, 381 BR
+
+[[Lethren Ostar#The disaster at Rethmar|Ostar's northern expedition]] threatened western well communities near the approaches later associated with Mazrakan. Kharuz of the Stone Wells organised resistance, while the water keeper Tavisha helped move supplies beyond the army's reach. Camel transport, foot archers and defended water enabled local forces to defeat separated Atherian columns. Captivity and ransom followed. The coalition belonged to the older well-country societies, centuries before the First Catch and the later partition into four hordes.
+
 ## The Nine Wells, 558 AR
 
 During Mujalib's unification, Covenant forces capture the [[Nine Wells of Tergai]]. Fighting, expulsion, and imposed access instruments replace Tarkhan seasonal tenure. Later Covenant histories rename the seizure the First Submission and describe it as voluntary. White-Horde reclamation and Iron-Horde service both grow from this unresolved wound.

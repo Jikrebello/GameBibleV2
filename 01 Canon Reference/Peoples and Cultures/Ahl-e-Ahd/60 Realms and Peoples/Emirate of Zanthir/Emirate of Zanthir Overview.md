@@ -42,6 +42,7 @@ Diplomacy, patronage, translation, mixed courts, slave liberation, water infrast
 
 ## Navigation
 
+- [[The Gateway Republic]], [[The Gateway Wars]] and [[The Spared Towns and the Queen's Country]] — ancient societies in the wider gateway country, many centuries before the emirate's formation.
 - [[Velian Culture Overview]]
 - [[01 Canon Reference/Peoples and Cultures/Velian/60 Realms and Peoples/Velian States/The Velian States Overview.md|The Velian States Overview]]
 - [[Zanthir and the Unfinished Reconquest]]

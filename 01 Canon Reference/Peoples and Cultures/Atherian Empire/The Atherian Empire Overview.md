@@ -31,7 +31,9 @@ Caleran's royal households emerged from the coalition of [[Avren and Caleth]]. L
 
 The Compact developed into a republic with assemblies, a senate of property-holding houses and annually chosen magistrates. Expansion brought roads, colonies and aqueducts, supported by taxes and enslaved labour. Allies gained rights on unequal terms; other subject communities paid taxes without receiving equivalent citizenship.
 
-Land concentration, provincial wealth and competition among commanders contributed to civil war. Around 350 BR, Aurelius Thalion seized Caleran and made his command hereditary in practice, while retaining republican offices in ceremonial form. [[The Rise of the Atherian Empire Overview|The rise of the empire]] explains this transition; the [[Historical Atlas of Atheria]] connects it with earlier settlement and later imperial history.
+Land concentration, provincial wealth and competition among commanders contributed to civil war. [[Teren Casvilar]] extended Atherian power through southern conquest and defeated republican rivals before his assassination in 370 BR. His heir [[Aurelius Thalion]] then contested authority with senior commanders, shared a public government of three and emerged from renewed war as supreme ruler around 350 BR. [[The Wars of the Atherian Succession]] follows that struggle, including the role of Queen Samyra's gateway kingdom. Republican offices continued under a settlement that established the basis of hereditary imperial command.
+
+[[The Rise of the Atherian Empire Overview|The rise of the empire]] explains the institutional transition; the [[Historical Atlas of Atheria]] connects it with earlier settlement and later imperial history.
 
 ## Government and provincial society
 

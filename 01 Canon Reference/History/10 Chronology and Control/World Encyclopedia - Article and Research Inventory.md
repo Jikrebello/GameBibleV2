@@ -18,7 +18,7 @@ Companion to [[01 Canon Reference/History/10 Chronology and Control/World Encycl
 
 Every canonical Markdown article has one primary package. Related packages are cross-reading obligations, not duplicate assignments. The research tables preserve the integration ledger’s decisions verbatim; their overlapping control records are not additional historical events. Entries marked protected remain protected when their package is delivered. Grafts develop their linked host.
 
-Coverage: **780 current canonical articles; 75 Garden destinations; 57 original mapped source dossiers plus two Caleran foundation dossiers; 315 reviewed identifiers; 204 distinct reserve records.** The seventeen Package 2B additions and the two newly integrated sources are recorded separately below; the original identifier and reserve registers are preserved.
+Coverage: **800 current canonical articles; 75 Garden destinations; 57 original mapped source dossiers plus two Caleran foundation dossiers, three palace/maritime dossiers and three imperial-founding dossiers; 315 reviewed identifiers; 204 distinct reserve records.** The seventeen original Package 2B additions, six palace/maritime additions and fourteen imperial-founding additions are recorded separately below; the original identifier and reserve registers are preserved.
 
 Source precedence: controlling canon → final collision ruling → source-fidelity hardening → human-coherence ruling → approved narrative voice. The integration ledger identifies the incorporated version. Comparative studies without a selected descendant supply reference only.
 
@@ -855,6 +855,38 @@ These seventeen additions have primary delivery 2. The dated delivery review is 
 | [[90 Archive & Drafts/10 Research/Mythic and Sacred History/Caleran Foundations - Giants, Inland Peoples and Royal Beginnings.md|Caleran Foundations — historical dossier]] | [[01 Canon Reference/Peoples and Cultures/Atherian Empire/70 History and Conflicts/Historical Atlas of Atheria.md|Atherian Atlas]] and the seventeen additions above | 2B; public history, received tale and private truth have separate destinations. |
 | [[90 Archive & Drafts/10 Research/Mythic and Sacred History/Caleran Foundations - Sources, Collisions and Canon Review.md|Caleran Foundations — source review]] | [[01 Canon Reference/History/10 Chronology and Control/Caleran Foundations - Authorial History.md|Canonical authorial account]]; [[01 Canon Reference/History/10 Chronology and Control/Atherian Formation and Republic - Delivery Review.md|delivery review]] | 2B; corrected sources and identity rulings incorporated; original research remains unchanged. |
 
+### Palace and maritime additions to Package 2B
+
+| Current article / established destination | Required work | Primary package | Related packages | Controlling sources / incorporated revisions | Dependency or boundary |
+|---|---|---|---|---|---|
+| [[01 Canon Reference/History/30 Exodus and First Civilizations/Palace Survivors and the Southern Heroic Age.md|Palace Survivors and the Southern Heroic Age]] | Integrated historical expansion; preserve approved voice | 2 | 8 | [[Atherian Palace and Maritime Histories - Integration Review]] | Three shorter encounter outlines remain research |
+| [[01 Canon Reference/History/80 Myths and Legendary Histories/The Siege and the Returnings.md|The Siege and the Returnings]] | Integrated heroic history and received variants | 2 | 8 | [[Atherian Palace and Maritime Histories - Integration Review]] | Exact names/sites open; no sovereignty wounded, dead soul returned or Garden renumbering |
+| [[01 Canon Reference/History/40 Atherian Imperial Age/The Gateway Republic.md|The Gateway Republic]] | Integrated social and political history | 2 | 6 | [[Atherian Palace and Maritime Histories - Integration Review]] | Ancient mixed society; no modern Covenant institutions |
+| [[01 Canon Reference/History/40 Atherian Imperial Age/The Gateway Wars.md|The Gateway Wars]] | Integrated republican war history | 2 | 6 | [[Atherian Palace and Maritime Histories - Integration Review]] | Approximate sequence; full commander roster and precise campaign sites open |
+| [[01 Canon Reference/History/40 Atherian Imperial Age/The Spared Towns and the Queen's Country.md|The Spared Towns and the Queen's Country]] | Integrated reconstruction and selected Nerethan inheritance | 2 | 3, 6 | [[Atherian Palace and Maritime Histories - Integration Review]]; [[Imperial Founding - Authorial History and Integration Review]] | Sarqen remains separate from the destroyed capital; wider imperial development follows |
+| [[01 Canon Reference/History/10 Chronology and Control/Atherian Palace and Maritime Histories - Integration Review.md|Atherian Palace and Maritime Histories - Integration Review]] | Preserve canonical controls and review record | 2 | 6, 8 | Approved palace, Punic and Atherian comparison dossiers | Alternatives remain research until separately chosen |
+
+The three palace research dossiers have their selected destinations in the [[World Historical Atlas - Integration and Coverage Ledger#Palace and maritime supplement to Package 2B|palace and maritime integration table]]. The subsequent imperial-founding supplement selects Thalion as heir and founder and the incoming Nerethan dynasty. Its source destinations appear in [[World Historical Atlas - Integration and Coverage Ledger#Package 2C — the imperial founding|the Package 2C integration table]].
+
+### Imperial-founding additions to Package 2C
+
+| Current article / established destination | Required work | Primary package | Related packages | Controlling sources / incorporated revisions | Dependency or boundary |
+|---|---|---|---|---|---|
+| [[01 Canon Reference/History/40 Atherian Imperial Age/The Last Generations of the Caleran Republic.md|The Last Generations of the Caleran Republic]] | Canonical founding delivery complete; preserve approved prose and distinctions | 2 | 3, 5, 6, 8 | [[Imperial Founding - Authorial History and Integration Review]] | Foundation through 350 BR; later lives and wider Glory remain scheduled |
+| [[01 Canon Reference/History/40 Atherian Imperial Age/The Southern Campaigns of Teren Casvilar.md|The Southern Campaigns of Teren Casvilar]] | Canonical founding delivery complete; preserve approved prose and distinctions | 2 | 3, 5, 6, 8 | [[Imperial Founding - Authorial History and Integration Review]] | Foundation through 350 BR; later lives and wider Glory remain scheduled |
+| [[01 Canon Reference/History/40 Atherian Imperial Age/The House of Nerethan.md|The House of Nerethan]] | Canonical founding delivery complete; preserve approved prose and distinctions | 2 | 3, 5, 6, 8 | [[Imperial Founding - Authorial History and Integration Review]] | Foundation through 350 BR; later lives and wider Glory remain scheduled |
+| [[01 Canon Reference/History/40 Atherian Imperial Age/The Wars of the Atherian Succession.md|The Wars of the Atherian Succession]] | Canonical founding delivery complete; preserve approved prose and distinctions | 2 | 3, 5, 6, 8 | [[Imperial Founding - Authorial History and Integration Review]] | Foundation through 350 BR; later lives and wider Glory remain scheduled |
+| [[01 Canon Reference/History/40 Atherian Imperial Age/Teren Casvilar.md|Teren Casvilar]] | Canonical founding delivery complete; preserve approved prose and distinctions | 2 | 3, 5, 6, 8 | [[Imperial Founding - Authorial History and Integration Review]] | Foundation through 350 BR; later lives and wider Glory remain scheduled |
+| [[01 Canon Reference/History/40 Atherian Imperial Age/Aurelius Thalion.md|Aurelius Thalion]] | Canonical founding delivery complete; preserve approved prose and distinctions | 2 | 3, 5, 6, 8 | [[Imperial Founding - Authorial History and Integration Review]] | Foundation through 350 BR; later lives and wider Glory remain scheduled |
+| [[01 Canon Reference/History/40 Atherian Imperial Age/Marovan Veyr.md|Marovan Veyr]] | Canonical founding delivery complete; preserve approved prose and distinctions | 2 | 3, 5, 6, 8 | [[Imperial Founding - Authorial History and Integration Review]] | Foundation through 350 BR; later lives and wider Glory remain scheduled |
+| [[01 Canon Reference/History/40 Atherian Imperial Age/Lethren Ostar.md|Lethren Ostar]] | Canonical founding delivery complete; preserve approved prose and distinctions | 2 | 3, 5, 6, 8 | [[Imperial Founding - Authorial History and Integration Review]] | Foundation through 350 BR; later lives and wider Glory remain scheduled |
+| [[01 Canon Reference/History/40 Atherian Imperial Age/Darion Velsar.md|Darion Velsar]] | Canonical founding delivery complete; preserve approved prose and distinctions | 2 | 3, 5, 6, 8 | [[Imperial Founding - Authorial History and Integration Review]] | Foundation through 350 BR; later lives and wider Glory remain scheduled |
+| [[01 Canon Reference/History/40 Atherian Imperial Age/Samyra Nerethan.md|Samyra Nerethan]] | Canonical founding delivery complete; preserve approved prose and distinctions | 2 | 3, 5, 6, 8 | [[Imperial Founding - Authorial History and Integration Review]] | Foundation through 350 BR; later lives and wider Glory remain scheduled |
+| [[01 Canon Reference/History/40 Atherian Imperial Age/Seluc Varroth.md|Seluc Varroth]] | Canonical founding delivery complete; preserve approved prose and distinctions | 2 | 3, 5, 6, 8 | [[Imperial Founding - Authorial History and Integration Review]] | Foundation through 350 BR; later lives and wider Glory remain scheduled |
+| [[01 Canon Reference/History/40 Atherian Imperial Age/Istran Melvo.md|Istran Melvo]] | Canonical founding delivery complete; preserve approved prose and distinctions | 2 | 3, 5, 6, 8 | [[Imperial Founding - Authorial History and Integration Review]] | Foundation through 350 BR; later lives and wider Glory remain scheduled |
+| [[01 Canon Reference/History/40 Atherian Imperial Age/Households of the Imperial Founding.md|Households of the Imperial Founding]] | Canonical founding delivery complete; preserve approved prose and distinctions | 2 | 3, 5, 6, 8 | [[Imperial Founding - Authorial History and Integration Review]] | Foundation through 350 BR; later lives and wider Glory remain scheduled |
+| [[01 Canon Reference/History/10 Chronology and Control/Imperial Founding - Authorial History and Integration Review.md|Imperial Founding - Authorial History and Integration Review]] | Canonical founding delivery complete; preserve approved prose and distinctions | 2 | 3, 5, 6, 8 | [[Imperial Founding - Authorial History and Integration Review]] | Foundation through 350 BR; later lives and wider Glory remain scheduled |
+
 ## Seventy-five Garden destinations
 
 | ID | Established article | Primary package | Related packages | Date / sequence; region; bearer | Authority retained |
@@ -1537,7 +1569,7 @@ All other source comparisons linked by the research MOC retain reference status 
 | Package | Primary article assignments |
 |---|---|
 | 1 | 17 |
-| 2 | 70 |
+| 2 | 90 |
 | 3 | 52 |
 | 4 | 167 |
 | 5 | 65 |
@@ -1546,4 +1578,4 @@ All other source comparisons linked by the research MOC retain reference status 
 | 8 | 242 |
 | 9 | 70 |
 
-Inventory regenerated from [[01 Canon Reference/History/10 Chronology and Control/World Historical Atlas - Integration and Coverage Ledger.md|World Historical Atlas - Integration and Coverage Ledger]]. Run the inventory command after adding a canonical article so the schedule remains complete.
+Inventory initially generated from [[01 Canon Reference/History/10 Chronology and Control/World Historical Atlas - Integration and Coverage Ledger.md|World Historical Atlas - Integration and Coverage Ledger]] and extended by the recorded Package 2B additions. Preserve those incorporated supplements when regenerating; the current schedule covers each canonical article once.

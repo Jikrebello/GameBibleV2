@@ -17,6 +17,8 @@ The Atherian Age of Glory was the long period in which imperial law, armies, arc
 
 ## Government
 
+[[Aurelius Thalion]] established imperial supremacy around 350 BR after [[The Wars of the Atherian Succession]]. The settlement followed Casvilar's assassination, a government of three commanders and the conquest of Samyra Nerethan's kingdom. Continuing army pay, central appointments and regular taxation gave the new government a more dependable basis than the competing commands it replaced.
+
 The emperor was presented as the stars' chosen mediator and guardian of terrestrial order. Provincial governors combined civil and military authority but depended on treasury officials, municipal councils, and temple estates. The old senate retained control over portions of infrastructure, citizenship, and commercial law while losing meaningful command of the army.
 
 A professional bureaucracy maintained census rolls, property surveys, water rights, courts, road stations, and grain distribution. Modern Thalmyric and Eclessian law still cites surviving Atherian registers, sometimes to resolve a dispute and sometimes to resurrect one.
