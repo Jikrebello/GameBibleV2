@@ -39,10 +39,6 @@ Aurelium's underworld is *paperwork with teeth*: relic-fraud ateliers (bone-carv
 
 Highest ambient in Eclessia: Aurelium sees authenticated miracles the way capitals see royalty — occasionally, at a distance, with queues. The city's people are therefore the world's most *discerning* faithful: they believe absolutely and are impressed by nothing, and the phrase "an Aurelium shrug" means exactly that everywhere else.
 
-## Hooks
-
-The vault under the Sanctum (Unburnt Psalter, Vessing file, Crown of Embers) as the world's most consequential room; a Registry clerk who has found an uncatalogued entry-shadow with no named owner; the choir-school child whose voice makes hymn-lamps behave.
-
 ## Navigation
 
 - [[01 Canon Reference/Peoples and Cultures/Eclessia/Eclessia Overview.md|Eclessia Overview]]

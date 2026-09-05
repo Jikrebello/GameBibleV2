@@ -59,14 +59,6 @@ Most martial residue has limited agency inside a role. It can choose a tactic or
 
 Empty knight, last captain, banner-dead, gate mind, old wall, and iron watch are common terms. “Graveknight” is creator shorthand only when the being is residue rather than a held soul, vampire, or Giant office-dead.
 
-## Story Hooks
-
-- a fort's wall-warden recognizes the enemy's modern descendants as its lawful garrison;
-- a champion can be defeated only by proving that its last command was forged;
-- salvagers remove the banner-anchor and cause the residue to occupy their wagon;
-- an army wants to reactivate a guardian whose old recognition rules include civilians as enemies;
-- a soulbound prisoner hides among ordinary martial residue and is nearly destroyed with it.
-
 ## Navigation
 
 - [[Residue Dead Overview]]

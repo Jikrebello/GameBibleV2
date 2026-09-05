@@ -29,10 +29,6 @@ The Atherian road lies beneath the main street. Occupation cisterns still supply
 
 Soldiers want stronger walls; merchants want a longer truce; return families want property; occupation-descended households want recognition; war parties want an incident. The town survives because no single faction receives everything.
 
-## Story Uses
-
-Prisoner exchange, truce-market murder, active contracts, tunnel exploration, disputed houses, border intelligence, missing patrols, and a siege both empires publicly deny preparing.
-
 ## Navigation
 
 - [[The Kingdom of Vlastrava Overview]]

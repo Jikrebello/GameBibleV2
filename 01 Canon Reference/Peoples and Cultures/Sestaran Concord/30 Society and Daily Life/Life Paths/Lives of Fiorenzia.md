@@ -35,10 +35,6 @@ Patronage is the ladder: workshop apprenticeship, guild mastery, then the compet
 
 The bishop is always a great family's second son and usually a competent administrator (the see is a rung, not a calling, and the city prefers it that way — *called* bishops make bonfires). Parish clergy run rich confraternities — the lay brotherhoods that do the actual charity, bury the poor, and march magnificently. The nobility IS the money, aged: Medori satellites, marriage-brokered, Diadem-courted (the Left Hand's beautiful invitations do well here). The signature crime is **forgery** — art, attribution, letters of credit, provenance; the guild of appraisers is the real police, and the best forgers are failed masters, which everyone finds almost unbearably poignant.
 
-## Hooks
-
-A grey-coat column refuses to march on a feast-day, in perfect discipline, holding its paper in the air; the inner-books offer made to a factor the party knows; Severin's confiscated drawer resurfaces at auction, uncatalogued.
-
 ## Navigation
 
 - [[01 Canon Reference/Peoples and Cultures/Sestaran Concord/The Sestaran Concord Overview.md|The Sestaran Concord Overview]]

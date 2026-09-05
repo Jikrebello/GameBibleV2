@@ -83,14 +83,6 @@ At the [[Palace of the Last Audience]], Wax-Bound Courtiers maintain waiting hal
 
 Using any of these materials risks extending the court's recognition beyond its tomb. A museum, laboratory, or private collection can become a new household if enough connected pieces are assembled.
 
-## Quest Uses
-
-1. A supposedly empty Ansharan exhibit begins assigning museum staff to ancient offices.
-2. A recovered Courtier asks the party to find their personal name before the wax fully hardens.
-3. A vampire patron wants an office-seal capable of commanding a rival bloodline.
-4. A warlock discovers that throne-wax can hold a rune script in human memory rather than on a surface.
-5. A court beast follows a stolen seal across the desert, ignoring everyone except its accidental new master.
-
 ## Navigation
 
 - [[Ancient and Crafted Legacies MOC]]

@@ -13,7 +13,7 @@ tags: []
 ---
 # The Jirahar and the Future
 
-Jirahar communities agree that exile will end and the Mesakha will restore right judgement. They disagree about nearly every verb in that sentence.
+Jirahar communities expect exile to end through the coming of the Mesakha, the restoration of Qiryath and the renewal of right judgement. Their schools disagree over whether gathering means political return, repaired relationship or both, and over the authority a restored court would possess among other peoples. The failure of Meshalem the Twice-Turned has made the examination of claimants as important as hope for the promised future.
 
 ## Keeper Orthodoxy
 

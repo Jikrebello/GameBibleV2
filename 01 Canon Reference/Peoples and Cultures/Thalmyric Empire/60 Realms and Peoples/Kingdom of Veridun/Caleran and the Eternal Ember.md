@@ -37,10 +37,6 @@ Every building project risks opening an older city. Known underlayers include hi
 
 The city's ordinary ruins contain masonry, records, graves, broken tools, and residue. Intact relics and functioning ancient systems remain exceptional.
 
-## Story Uses
-
-Patriarchal politics, pilgrimage, contested excavation, old-city crime, impounded sacred objects, active contracts, urban collapse, and evidence capable of changing the accepted history of Atheria.
-
 ## Navigation
 
 - [[The Kingdom of Veridun Overview]]

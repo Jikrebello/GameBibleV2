@@ -13,6 +13,8 @@ tags: []
 ---
 # Folk and the Wider World
 
+The Folk lands are connected to the wider world by rivers, coastal routes, markets, migration and war. Their neighbours encounter them as trading leagues, mercenary companies, rural kindreds, converted congregations and independent frontier powers. No single relationship governs the whole country: Eclessian settlement, Sestaran commerce, Jirahar road-work, Tarkhan movement and Ättar kinship each create different alliances and injuries, while the long struggle with the Grobi places unusual demands on the northern and eastern clans.
+
 ## Eclessia
 
 Eclessian kingdoms are settler, market, employer, missionary, and enemy at once. The old Church contains both coercive mission traditions and saints who defended Folk converts from cultural erasure. Freeflame preaching attracts some Chapel-Folk because it weakens distant hierarchy, while its reforming princes can be as hungry for land as any old-Church lord.

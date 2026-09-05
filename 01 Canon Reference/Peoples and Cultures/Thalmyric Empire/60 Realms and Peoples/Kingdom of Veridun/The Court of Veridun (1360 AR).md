@@ -48,14 +48,6 @@ A disputed monastic vision of **a lamp carried out of a burning archive** has be
 - Sestaran creditors press the treasury while antiquities smugglers sell the empire's buried inheritance abroad.
 - Provincial rulers support whichever succession preserves the privileges they already possess.
 
-## Story Use
-
-- a slow succession campaign in which every Thalmyric NPC has a preferred future;
-- the Keeper of Ashreaver's assent or refusal as a war-and-peace fulcrum;
-- an Ash Guard oath-family caught between service to Caedros and a provincial grievance;
-- a disputed antiquities claim connecting a court patron to a buried Atherian state archive;
-- the emperor appearing without ceremony wherever a wall, hospital, or frontier petition demands attention.
-
 ## Navigation
 
 - [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/Thalmyric Empire Overview.md|Thalmyric Empire Overview]]

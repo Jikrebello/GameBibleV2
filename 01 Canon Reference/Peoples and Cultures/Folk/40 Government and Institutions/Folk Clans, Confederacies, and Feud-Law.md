@@ -13,6 +13,8 @@ tags: []
 ---
 # Folk Clans, Confederacies, and Feud-Law
 
+Folk government begins with the clan, a community of kin, adoptees, clients and sworn households responsible for a territory and for one another's conduct. Clans govern through several offices whose authority depends on the matter at hand, and they join larger tribes, leagues or confederacies when defence and exchange require it. Feud-law regulates injury, compensation and vengeance between these communities; it also identifies acts, such as killing under hospitality or burning a refuge hall, that place an offender outside lawful protection.
+
 ## The Clan
 
 A clan is a body of kin, clients, adoptees, dependants, and sworn households responsible for named territory and one another's conduct. Descent matters, but fosterage, marriage, oath, and long service can create real kinship.
@@ -46,4 +48,3 @@ High-Fire moots settle boundaries, announce marriages, recognize war service, pr
 - [[The Folk Overview]]
 - [[01 Canon Reference/Peoples and Cultures/Folk/30 Society and Daily Life/Folk Daily Life and the Thirteen Moons.md|Folk Daily Life and the Thirteen Moons]]
 - [[Frost-Road and the Winter War]]
-

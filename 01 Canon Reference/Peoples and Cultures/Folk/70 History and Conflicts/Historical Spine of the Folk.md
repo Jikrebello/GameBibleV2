@@ -13,6 +13,8 @@ tags: []
 ---
 # Historical Spine of the Folk
 
+The Folk are related Orphaned peoples whose communities reassembled across the southern forests, river valleys, coasts and mountain approaches after the Giant collapse. Their history developed through independent hearths, clans and regional leagues, followed by long contact with Atherian settlers, Menhir courts, Grobi migrations and the successor states of Eclessia. In 1360 their lands still contain old-rite Enaidfae, converted Chapel-Folk and communities whose loyalties cross political and religious boundaries.
+
 ## Orphaned Reassembly and First Hearths
 
 - **c. 2300-1900 BR:** subject villages, fugitives, local revolt communities and survivors of collapsing Giant client states enter, remain within or reconnect across the southern forests, coasts and mountain corridors. They do not descend principally from the Glass Ark.

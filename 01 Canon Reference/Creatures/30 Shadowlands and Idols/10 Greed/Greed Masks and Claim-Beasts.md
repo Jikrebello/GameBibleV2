@@ -40,7 +40,6 @@ Claim-Mites are coin-sized Shadow fauna with ivory shells, key-shaped legs, and 
 - **Weakness and permanent defeat:** open the hoard to its proper use or settle the true custody under witnesses, then burn or wash away every mite-mark. Killing the insects while the withheld good remains creates a new brood.
 - **Materials:** intact shells hold one temporary claim-mark and are used by honest investigators as tracers. Under-Ledger agents prize live colonies for sabotage.
 - **Regional names:** tally lice, key-ants, miser's teeth, and little claimers.
-- **Story uses:** trace a hidden warehouse; complicate a legitimate inheritance; expose relief supplies diverted by a respected official.
 
 ## Hoardlings
 
@@ -53,7 +52,6 @@ Hoardlings are Masks assembled from the things a hoard prevents others from usin
 - **Weakness and permanent defeat:** identify the goods whose denied use anchors the Mask, return or lawfully distribute them, and break the keeper-token. Random looting disperses the body but strengthens Greed's claim.
 - **Materials:** keeper-tokens preserve provenance without proving ownership. Their testimony is useful but metaphysically biased.
 - **Regional names:** brass keepers, vault children, tool saints, and sealed cousins.
-- **Story uses:** guard medicine during a plague; reveal a museum's stolen foundation; become an apparently helpful guide through an occupied mine.
 
 ## Gilded Claimants
 
@@ -66,7 +64,6 @@ Gilded Claimants are autonomous Archmasks that appear as tall, beautifully dress
 - **Weakness and permanent defeat:** expose the chain by which custody became domination, restore named people and goods, secure truthful witness from at least one beneficiary, and destroy the central claim-medium while the Archmask is embodied. A Claimant driven away without restitution re-enters through its oldest unchallenged asset.
 - **Materials:** claim-gold remembers every hand that accepted benefit from the regime. It is powerful evidence and a dangerous relic.
 - **Regional names:** gilt lords, asset kings, last buyers, and the owners beneath.
-- **Story uses:** rule a company town more effectively than its human founders; purchase the battlefield dead from both armies; offer refugees perfect safety as inheritable property.
 
 ## Faction Use and Response
 

@@ -37,7 +37,6 @@ Flat, translucent shapes that swim through missing information and widen it into
 - **Threat pattern:** erase route knowledge, hide predators inside absences, and fold around a victim until companions cannot describe where the person stands.
 - **Weakness and permanent defeat:** restore the omitted fact from independent evidence and pin the Ray inside a fully described boundary. Bodies dissolve into clear film.
 - **Materials:** lacuna film can conceal one written line until the film dries.
-- **Story uses:** locate a censored archive; hide refugees in a dangerous gap; consume the only return instruction from a demiplane.
 
 ## Anchor Leeches
 
@@ -48,7 +47,6 @@ Heavy black-gold organisms that attach to relics, names, buildings, and people w
 - **Threat pattern:** drain protections, leap to the strongest carried relic, and burst into a cloud of false weights when struck.
 - **Weakness and permanent defeat:** isolate the true anchor, provide a sacrificial inert ballast, then destroy the colony away from a tether.
 - **Materials:** leech pearls indicate how much stability was consumed but cannot replace it.
-- **Story uses:** threaten a refugee realm; expose a concealed saint relic; serve as deliberate sabotage at a patron market.
 
 ## Mnemonic Kites
 
@@ -59,7 +57,6 @@ Winged ribbon forms that feed on memories shed during Astral travel.
 - **Threat pattern:** peel rehearsed memory from a target, replay it as decoy terrain, and lure travelers toward places associated with loss.
 - **Weakness and permanent defeat:** stop rehearsal, establish present sensory anchors, and cut the Kite's tail-knot. Captured memories can be returned imperfectly.
 - **Materials:** tail knots contain compressed scenes but no soul or personal identity.
-- **Story uses:** retrieve a lost route from a migration memory; confront false evidence built from a true scene; choose which memories stabilize a dying traveler.
 
 ## Causality Crabs
 
@@ -70,7 +67,6 @@ Many-legged patterns with shells displaying effects before causes occur.
 - **Threat pattern:** exchange cause and consequence locally, make a defense trigger its own threat, and retreat into the event that attracted them.
 - **Weakness and permanent defeat:** establish a simple witnessed sequence, remove recursive triggers, and break the shell only after the predicted effect has been prevented.
 - **Materials:** shell plates preserve one cause-effect pair and are useful in forensic demonstrations.
-- **Story uses:** reveal sabotage before it happens; infest an orrery that stores unrealized days; make a rescue consequence appear before anyone knows who is trapped.
 
 ## Glass-Spawn Shoals
 
@@ -81,7 +77,6 @@ Schools of knife-like translucent forms condensed from divine debris, broken dem
 - **Threat pattern:** strip coatings from tethers, flow through narrow seams, reflect hostile magic unpredictably, and form larger hunting shapes under pressure.
 - **Weakness and permanent defeat:** draw the shoal into a low-entropy basin, ground it with dull mass, and fuse or crush the shards.
 - **Materials:** sorted spawn glass is valuable for wards and route lenses.
-- **Story uses:** mine a dangerous shoal; protect a repair crew; discover that a patron breeds them to weaken competitors.
 
 ## Vow-Wasps
 
@@ -92,7 +87,6 @@ Insect-like patterns whose hives are made from repeated promises and whose sting
 - **Threat pattern:** sting targets with a remembered commitment, build barriers from contradictory vows, and swarm anyone attempting to revise a structural promise.
 - **Weakness and permanent defeat:** distinguish the valid obligation from the phrase, release or fulfill it through the proper witnesses, then dissolve the comb. Casual oath-breaking feeds the hive.
 - **Materials:** vow-comb can stabilize one bounded promise but does not make an unjust promise morally valid.
-- **Story uses:** preserve a collapsing bridge through an old work oath; trap a ruler inside campaign rhetoric; recover the true wording of a founding promise.
 
 ## Regional Names
 

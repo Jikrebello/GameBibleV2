@@ -44,12 +44,6 @@ A new Guest buds from a thorn-heart where a broken welcome is repeatedly reenact
 - thorn tunnels through scrub that close behind large pursuers;
 - birds repeating a traveler's private words in the wrong voice.
 
-## Encounter Use
-
-Blood-Briar Guests attack from concealment with splinter arrows, poisoned thorns, trip roots, and false cries for help. They isolate stragglers, drive prey across a claimed threshold, then retreat into cover. Fire clears their concealment but can turn a roadside fight into a forest disaster. Running water, honestly offered shelter, and a witnessed release from hospitality weaken their threshold tricks without making them harmless.
-
-A defeated Guest may leave a hard red thorn-heart. Folk seers can identify the court, host, or violated threshold reflected in it. Warlocks grind these hearts into unstable reagents for scripts involving pursuit, pain, or bramble growth. Possession is restricted in most Green March markets because the material readily carries the malice of its taking.
-
 ## Weaknesses and Permanent Defeat
 
 Truthfully naming the offered shelter, refusing benefit before crossing, witnessed release from hospitality, running water, and separation from the thorn-heart weaken a Guest's threshold powers. Fire destroys concealment but may spread the court wound through ash and displaced seed.
@@ -63,13 +57,6 @@ The Red Garland of Alderway is a named murderous band, not the species as a whol
 ## Regional Names
 
 Blood-Briar Guest, red guest, thorn lodger, hedge host, welcome-cutter, and briar cousin. `Roseblood sprite` appears in foreign delver manuals but is not a native Folk classification.
-
-## Quest Hooks
-
-- A roadside shelter offers flawless hospitality but never permits a guest to leave before dawn.
-- A thorn-heart contains the voice of a missing treaty witness.
-- A harmless briar patch is burned as a precaution, breaking a different court's boundary.
-- Someone stages Blood-Briar signs to turn soldiers against a local clan.
 
 ## Navigation
 

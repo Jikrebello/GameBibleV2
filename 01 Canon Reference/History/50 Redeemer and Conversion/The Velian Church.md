@@ -33,10 +33,6 @@ Velian clergy may marry. Churches are whitewashed and image-free, lit by a singl
 
 Several hundred thousand adherents live principally under Emir Badis and the client-state compacts. Their status as [[The People of the Lamp|People of the Lamp]] gives enforceable protection without equality. Qazmarid is harsher; Thalmyric and Eclessian missions compete for congregations; political collapse in Zanthir could destroy the church's institutional heartland.
 
-## Story Use
-
-Velian guides, translators, physicians, archives, divided families, disputed churches, and communal courts make the church indispensable on the frontier. Any campaign of conquest or liberation must decide whether living Velians matter more than ancestral claims.
-
 ## Navigation
 
 - [[Velian Culture Overview]]

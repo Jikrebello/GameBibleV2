@@ -13,7 +13,7 @@ tags: []
 ---
 # Sestaran Forces and Private War
 
-The cities do not maintain a shared army. They combine citizen forces sufficient to hold walls with specialists hired for campaigning.
+The seven Sestaran cities defend themselves through separate militias, fleets, regular companies and hired specialists. They possess no shared standing army outside the forces assembled for the Seven-Seal Defensive Muster. This arrangement protects local control and supports a large market in military labour, while allowing member cities to fight one another through mercenaries, seizures, sabotage and limited sieges.
 
 ## Forces by Seal
 
@@ -35,4 +35,3 @@ Professional force can reduce uncontrolled levies and preserve skilled soldiers.
 
 - [[The Seven-Seal Defensive Muster]]
 - [[Economy of the Seven Cities]]
-

@@ -13,7 +13,7 @@ tags: []
 ---
 # The Nightveil Coven
 
-The Nightveil Coven studies perception, concealment, fear, Shadowlands overlays, thin reflections, and the disciplined interpretation of residue.
+The Nightveil Coven is a Vortharan network of teaching houses concerned with perception, concealment, fear and the interpretation of supernatural residue. Its practitioners investigate Shades, thin reflections and Shadowlands intrusions under controlled conditions, and sell secrecy and intelligence to clients throughout the city. Their work depends upon distinguishing observation from an illusion deliberately planted to be discovered.
 
 ## Shadow Work
 

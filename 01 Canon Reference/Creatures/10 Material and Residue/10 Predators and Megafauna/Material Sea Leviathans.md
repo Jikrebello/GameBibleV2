@@ -65,14 +65,6 @@ Sea serpents favor warmer northern and western routes. Great cephalopods dominat
 
 These animals die when killed and leave no soul-road event. A dangerous individual can be hunted, driven, or avoided. Killing an entire breeding population for route convenience remains ecological vandalism even though the animals possess no moral agency.
 
-## Story Hooks
-
-- a charted islet carries an expedition camp away overnight;
-- a sea serpent breeding cove lies inside a privateer's only safe pursuit route;
-- a great cephalopod collects bells from wrecks and has taken one that must be recovered intact;
-- insurers conceal a seasonal migration to keep premiums low;
-- a supernatural attack is blamed on a leviathan whose actual behavior proves someone staged the wreck.
-
 ## Navigation
 
 - [[The Mundane Layer — Residue, Vermin, and the Delver Trade]]

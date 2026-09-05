@@ -13,6 +13,8 @@ tags: []
 ---
 # Historical Spine of the Sestaran Concord
 
+The Sestaran Concord is a league of seven maritime cities whose Braided populations arose through local survival, migration, Atherian settlement, commerce, captivity and intermarriage. Its members developed separate civic histories before joining for mutual defence after the Fall of Caleran. Rival banking houses, shipyards, archives, mercenary companies and sea routes sustain the prosperous but politically divided Concord of 1360.
+
 ## Braided Harbor Peoples and City Worlds
 
 Across the late Scattering and Hearth ages, local Orphaned communities, southern war-settlers, other Ark-derived migrants, island pilots, refugees, captives, river traders and inland fair populations braid differently at each site. Early contact includes negotiated quarters and shared defense as well as armed occupation, grain seizure, slave markets and expulsions. Harbor communities, river markets, island stations, inland fairs and mountain refuges develop independently. Fiorenzia, Sermora and Vardessa become cities before later Atherian state conquest; no single ancient Sestaran people or proto-Atherian colony precedes them all.
@@ -20,6 +22,8 @@ Across the late Scattering and Hearth ages, local Orphaned communities, southern
 ## Atherian Incorporation
 
 Atherian expansion conquers or charters the peninsula. Aversia and Orsena are imperial foundations; Vorthara remains incompletely contained. Roads, citizenship, archives, and conversion bind the region to the empire while preserving local councils useful to imperial rule.
+
+During the [[Historical Atlas of the Atherian Age of Glory|Age of Glory]], harbour governments occupy a changing range from direct provincial rule to treaty alliance and commercial privilege. Fleets require their pilots, shipyards and stores. Municipal families use that need to preserve local authority, while imperial commanders compel crews and timber when negotiation fails. These distinct arrangements contribute to the later independence of the cities.
 
 ## Drift, c. 400-540 AR
 

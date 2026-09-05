@@ -35,13 +35,6 @@ Iqashar needs Iron mobility but fears the companies becoming a military estate a
 
 Tegrul's strategic opportunity is institutional capture: settle armed households, inherit unpaid posts, marry frontier elites, and turn emergency powers into custom. His danger is becoming dependent on a Qahirid court that can withhold pay or take his heirs as honored hostages.
 
-## Story Uses
-
-- a frontier governor dies and his Iron deputy refuses to surrender the seal;
-- an unpaid company invokes Tarkhan word-price against Iqashar;
-- a convert's burial starts a jurisdiction dispute between Aqid and wind-speaker;
-- expose a contract designed to make temporary pasture an inheritable military estate.
-
 ## Navigation
 
 - [[Covenant Armies and the Tarkhan Frontier]]

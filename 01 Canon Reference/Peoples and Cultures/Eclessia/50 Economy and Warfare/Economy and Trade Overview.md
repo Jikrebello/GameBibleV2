@@ -52,10 +52,6 @@ Medori credit sits behind rulers, bishops, contractors, and grain exporters. It 
 
 The Veridancian wine and Brauvalian ale dispute is a century of tariffs, naming rights, adulteration trials, and sabotage rather than one continuous war. Caldria's war contractors repeatedly demand a larger share of Church and princely taxation. Ironvale and Virelia depend on each other for metal and food while condemning each other's labor systems.
 
-## Story Uses
-
-Useful conflicts include a plague title with three lawful owners, a monastery converted into a hospital, smuggled Freeflame books hidden in wine casks, Virelian runaways claimed under the Accord, counterfeit assurance certificates, and a Medori loan whose collateral is a parish's future tithe.
-
 ## Navigation
 
 - [[01 Canon Reference/Peoples and Cultures/Eclessia/Eclessia Overview.md|Eclessia Overview]]
@@ -63,4 +59,3 @@ Useful conflicts include a plague title with three lawful owners, a monastery co
 - [[Freeflame Reformation]]
 - [[The Korrheim Accord]]
 - [[Military and Warfare Overview]]
-

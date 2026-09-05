@@ -39,7 +39,6 @@ Fire bodies gather where a release-script, furnace anchor, or repeating battlefi
 - **Permanent defeat:** close the seam, erase the release-script, ground forge-charge into a prepared heat sink, or dismantle the furnace frame.
 - **Materials:** vitrified shell-dust, heat-tempered conductor wire, and recoverable forge-charge if contained before collapse.
 - **Regional names:** *forge-walkers* in Vorthara, *red obediences* in Ironvale, and *lamp-devils* among frightened Eclessian soldiers.
-- **Story uses:** clear an abandoned foundry without destroying its stores; follow a fire body back to a concealed military draw; choose between venting one through a settlement or losing a strategic furnace.
 
 ## Water Bodies
 
@@ -52,7 +51,6 @@ Water bodies are mobile pressure relations, often almost invisible until they ga
 - **Permanent defeat:** equalize pressure, break the circulation loop, salt and drain the frame, or close the controlling intake.
 - **Materials:** pressure brine, cold-stable seals, mineral films, and rare flow-glass deposited at long-lived boundaries.
 - **Regional names:** *walking tides*, *well-hands*, and the Saltborn *water-without-sea*.
-- **Story uses:** rescue workers trapped behind a living pressure front; recover an intact brine vessel from a drowned platform; prove that a supposed river curse is industrial sabotage.
 
 ## Air Bodies
 
@@ -65,7 +63,6 @@ Air bodies are bounded motion and charge. Their visible shape is dust, condensat
 - **Permanent defeat:** detune the resonant frame, provide a broad pressure outlet, ground accumulated charge, or collapse the air-path geometry.
 - **Materials:** stormglass splinters, charge-wire, resonance reeds, and exceptionally pure acoustic crystal.
 - **Regional names:** *bell-walkers*, *breath thieves*, and *empty riders*.
-- **Story uses:** cross a signal tower whose own messages have become hostile; use a captured air body to carry an emergency warning; discover that an apparent haunting maps a hidden ventilation route.
 
 ## Earth Bodies
 
@@ -78,7 +75,6 @@ Earth bodies are moving relations of mass, compression, and structure. They may 
 - **Permanent defeat:** distribute its load, remove the weight-seed, break the compression relation, or lead it into an unframed bed of loose earth.
 - **Materials:** weight-seed, pressure-tempered stone, load runes, and compacted mineral nodules useful to engineers.
 - **Regional names:** *road shoulders*, *stone obediences*, and *buried fists*.
-- **Story uses:** stabilize a collapsing mine while finding the script that woke it; lure one into raising a temporary fortress; stop smugglers transporting a dormant body inside quarried blocks.
 
 ## Shared Field Rule
 

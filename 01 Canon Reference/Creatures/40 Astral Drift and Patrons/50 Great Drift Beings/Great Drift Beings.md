@@ -38,7 +38,6 @@ Proto-Sovereigns are emerging regime minds formed when one anchor, law, and main
 - **Threat pattern:** rewrites access, recruits operators as organs, redirects rent, and treats every inhabitant as part of a stability equation.
 - **Weakness and permanent defeat:** identify whether true agency has emerged, separate maintenance functions, distribute the anchor load, and break the recursive law without collapsing dependents.
 - **Materials:** sovereignty nodes can found a new realm but may resume the old preference.
-- **Story uses:** decide whether a city's infrastructure has become a person; prevent a patron from forcing maturation; negotiate with a realm that values residents only as upkeep.
 
 ## Sleeping Wrongs
 
@@ -50,7 +49,6 @@ Sleeping Wrongs are vast stable impossibilities that persist because a contradic
 - **Threat pattern:** imposes its contradiction on nearby places, borrows travelers as missing variables, and awakens when novel action breaks the stabilizing loop.
 - **Weakness and permanent defeat:** state the contradiction, determine what currently pays for dormancy, and either resolve it or build a new bounded loop. Violence against the visible body often counts as novelty and accelerates waking.
 - **Materials:** wrong-stone permits one impossible local effect while transferring the contradiction elsewhere.
-- **Story uses:** rescue people whose routine keeps a catastrophe asleep; use a Wrong to reach an otherwise impossible destination; confront a cult trying to wake one as proof reality is false.
 
 ## Ossuary Minds
 
@@ -62,7 +60,6 @@ Ossuary Minds arise when wreckage, remains, copied memories, dead demiplanes, an
 - **Threat pattern:** embodies through wreckage, predicts behavior from accumulated records, separates people into remembered components, and offers accurate voices of the dead without containing their souls.
 - **Weakness and permanent defeat:** identify the coherence core, separate any genuinely trapped soul or bound person, disrupt the accretion model, and destroy or disperse all return caches. Treating every voice as the original dead grants leverage.
 - **Materials:** ossuary indexes preserve immense evidence but mingle observation, copy, and inference.
-- **Story uses:** ask a new intelligence to return culturally sacred remains; expose a murder through the Mind's assembled evidence; discover that a city powers its archive with an unwilling Ossuary Mind.
 
 ## Regional Names
 

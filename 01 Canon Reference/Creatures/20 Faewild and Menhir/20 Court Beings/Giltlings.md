@@ -50,15 +50,6 @@ They are morally responsible people, not vermin driven by alignment. Individual 
 - food taken in regular portions rather than indiscriminate spoilage;
 - quick reflected flashes where no human-sized observer could stand.
 
-## Encounter Use
-
-- **Scouts:** watch from warm vents, signal through reflections, and withdraw through prepared gaps.
-- **Thieves:** target records, bells, polished instruments, and small mechanisms rather than random valuables.
-- **Loyalists:** use glare powder, trip-lines, smoke, and captive court-fauna to defend a stronger patron.
-- **Defectors:** exchange routes and intelligence for protection, safe withdrawal, or restitution terms.
-
-Giltlings prefer ambush, obstruction, and escape. Cornered adults can be dangerous in groups, but a host rarely fights to extinction unless an elder has convinced it that no outside mercy exists.
-
 ## Weaknesses and Permanent Defeat
 
 Giltlings are small living people rather than recurring manifestations. Matte coverings, smoke, cold flooding, blocked warm-air passages, and removal of prepared reflection lines defeat their usual tactical advantages. Food, safety, amnesty, and proof that a patron cannot protect them may break a host's willingness to fight.
@@ -78,13 +69,6 @@ Giltling tools are clever small-scale craft, not magical treasure by default. Th
 ## Regional Names
 
 Giltling, bright-tail, sun-warren folk, mirror-tail, ochre hand, and warm-crack people. Host names are normally more important to Giltlings than the broad human family label.
-
-## Story Hooks
-
-- a host living inside a bell tower is blamed for thefts actually committed by a guild apprentice;
-- an abandoned gold court contains Giltling descendants who preserve a warning no human historian believed;
-- a noble offers bounty for a host because its tunnels expose an illegal quarry rather than any creature attack;
-- two hosts dispute whether service to a newly speaking elder is sacred recognition or the beginning of slavery.
 
 ## Navigation
 

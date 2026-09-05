@@ -13,6 +13,8 @@ tags: []
 ---
 # Origins and Sacred History
 
+Jirahar sacred history begins with the Great Prophet's liberation of enslaved humanity and the passage through the Great Glass Desert. The Jirahar descend from one branch of the Glass people, particularly the households that preserved camp judgements, burial names, road songs and the Scrolls after the Prophet's death. Their later history of towers, exile and travel gave these inherited duties a distinctive form, while leaving room for enduring disputes over what the earliest teaching required.
+
 ## The Great Prophet
 
 Jirahar tradition does not speak the Great Prophet's personal name in ordinary discourse. Titles that translate as **the Caller**, **the Road-Breaker**, and **the Bearer of the First Scroll** preserve different moments of his ministry. The older Ahl-e-Ahd-styled name sometimes found in foreign chronicles is not Jirahar usage.

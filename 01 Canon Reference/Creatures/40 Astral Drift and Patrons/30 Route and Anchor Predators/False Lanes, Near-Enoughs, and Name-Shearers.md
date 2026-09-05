@@ -39,7 +39,6 @@ False Lanes are predatory paths that imitate a known current and survive by bein
 - **Weakness and permanent defeat:** compare two independent route methods, stop moving when the Lane rewards confidence, trace its first divergence, and sever the dead tether it inhabits. Merely turning around may become another branch.
 - **Materials:** lane skin stores a single reliable correspondence after the predator is closed.
 - **Regional names:** sweet roads, easy currents, homeward lies, and the nearly straight.
-- **Story uses:** hijack a rescue route; lead smugglers somewhere safer but owned; reveal that a famous shortcut has been feeding on missing pilgrims.
 
 ## Near-Enoughs
 
@@ -52,7 +51,6 @@ Near-Enoughs are destination mimics that build a place from what arriving travel
 - **Weakness and permanent defeat:** introduce an independently verified detail no traveler expected, refuse to repair the copy, locate the blank space behind its most accurate room, and collapse the imitation from there.
 - **Materials:** near-stuff can make a temporary prop perfectly convincing to one named witness.
 - **Regional names:** almost homes, kind arrivals, second inns, and close-enoughs.
-- **Story uses:** shelter refugees who know it is false but have nowhere safer; copy a city from a spy's biased expectations; convince a party they completed an expedition before they reached its destination.
 
 ## Name-Shearers
 
@@ -65,7 +63,6 @@ Name-Shearers are long, jointed route predators with scissor-like heads and bodi
 - **Weakness and permanent defeat:** establish a name through living witnesses and embodied memory rather than a single document, trap the Shearer between two valid forms of address, and break its jaw while returning the severed attachments.
 - **Materials:** address joints can reconnect one object to a known destination. They cannot create a true name or human soul.
 - **Regional names:** name scissors, address wolves, uncallers, and route shearers.
-- **Story uses:** strip a diplomat of every title but not memory; attack a soul-route without annihilating its travelers; expose a patron who has registered hundreds of servants under one collateral name.
 
 ## Soul Boundary
 

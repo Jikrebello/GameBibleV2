@@ -13,6 +13,8 @@ tags: []
 ---
 # First Qiryath and the Arqeshite Exile
 
+The first destruction of Qiryath occurred in 742 BR, when the Arqeshite River Empire conquered the city after its rulers refused royal worship and the surrender of priestly hostages. Arqesh broke the upper tower, stripped the sanctuary and deported much of the city's learned and skilled population. The exile dispersed Jirahar law and scholarship among the eastern river cities and prepared the forms of communal life through which Qiryath could later be rebuilt without recovering its former sovereignty.
+
 ## The Arqeshite River Empire
 
 Arqesh was an early mortal empire of levees, walled river capitals, deportation armies, court astronomers, and royal estates in the eastern lands later absorbed by Atheria. It conquered through water control as much as battle: a rebellious city could lose canals before it lost walls.

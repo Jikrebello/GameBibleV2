@@ -39,12 +39,6 @@ The gate specializes in emergency redistribution of households and portable rese
 
 Two Velian princes claim authority to confirm the tower's charter, while a Medori-backed road project could make Dahava richer and strategically dependent.
 
-## Story Uses
-
-- mutually valid registers assign the same inheritance twice;
-- a rescue fund has financed a fraudulent captivity;
-- a gate evacuation would collapse a host principality's credit.
-
 ## Navigation
 
 - [[01 Canon Reference/Peoples and Cultures/Jirahar/30 Society and Daily Life/Jirahar Economy and Trade.md|Jirahar Economy and Trade]]

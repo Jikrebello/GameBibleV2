@@ -35,13 +35,6 @@ Castara calls the annual payment an escort compact. Aversia calls it tribute whi
 
 The Ash Road Peace depends on payment, Chilgir's distribution, and the obedience of named banners. A missed installment ends collective protection. Unauthorized raids test whether Chilgir can enforce restitution without appearing to serve Castara.
 
-## Story Uses
-
-- recover a protected caravan before the payment deadline;
-- identify which creditor bought Chilgir's future road share;
-- arbitrate a great-horn migration through a fortified depot;
-- hunt raiders using Ash marks to sabotage the peace.
-
 ## Navigation
 
 - [[Castaran Long Road]]

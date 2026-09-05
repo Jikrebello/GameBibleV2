@@ -13,11 +13,11 @@ tags: []
 ---
 # Names of the Menhir, Masks of the Idols
 
-**Authorial truth:** naming drift reflects real encounters interpreted through culture, but it does not work identically for both groups. A Menhir has one enduring organizing personality interpreted through many court-titles and cultural readings. An Idol has one enduring guilty Throne, a potentially mutable Regnant, and many simultaneous active Masks. [[The Great Rebellion and the Yolk Exiles]] controls origin; [[Idol Thrones, Regnants, and Cultural Masks]] controls Idol identity and succession. A cultural genealogy may preserve genuine remote Titanic ancestry, patronage, or relationship while remaining wrong about immediate, pure, or exclusive divine parentage; [[Giant Descent and Creaturely Continuity]] controls those births.
+The names given to the Menhir and Idols differ across cultures because human traditions interpret distinct kinds of encounter. A Menhir possesses one enduring organising personality known through many court titles and cultural readings. An Idol possesses one enduring guilty Throne, a potentially mutable Regnant and many simultaneous Masks. Cultural genealogies may preserve memories of remote Titanic ancestry, patronage or relationship while giving an inaccurate account of immediate and exclusive divine parentage.
 
-## Rule for the Vault
+## Names Used in This Encyclopedia
 
-Authorial spine documents use plain creator names such as Father Sun, Mother Moon, Wrath, Greed, Faewild, and Shadowlands. Cultural and in-world documents should use the names their witnesses know. A mask is not automatically an error, but it never overrules the creator-facing concordance.
+General reference articles use plain names such as Father Sun, Mother Moon, Wrath, Greed, Faewild and Shadowlands. Cultural articles and received texts use the names known to their witnesses. A local title can describe a genuine encounter without supplying a complete account of the power behind it.
 
 ## The Menhir
 
@@ -52,7 +52,7 @@ Fauna, Masks, and Archmasks are separated in [[Idol Manifestation and Feeding]].
 ## Archaic Terms
 
 - **The Dreamlands** is an old scholarly name for the Shadowlands. It remains valid in pre-Split source texts and deprecated in creator-facing prose because “dream” understates predation.
-- **God**, **goddess**, **child**, **spouse**, and **sibling** are acceptable in in-world religion. Authorial prose treats them as interpretations unless a controlling note establishes an actual relationship.
+- **God**, **goddess**, **child**, **spouse**, and **sibling** belong to the religious vocabulary of many cultures. The encyclopedia treats them as interpretations unless an actual relationship has been established.
 
 ## Navigation
 

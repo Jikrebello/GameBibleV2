@@ -13,6 +13,8 @@ tags: []
 ---
 # Vestian Persecutions and the Long Diaspora
 
+The Vestian persecutions of 377–395 AR turned intermittent hostility towards the Jirahar into an imperial programme of restriction, confiscation, expulsion and destruction. Court officials and churchmen used the guilt of Qiryath's ancient council to accuse an entire people, while debtors and neighbouring landholders profited from the seizures. Most surviving eastern towers were destroyed or taken, and the refugees enlarged the road, sea and host-city communities that became the foundation of the long Jirahar diaspora.
+
 ## Before Vestian
 
 The destruction of 70 AR had already scattered the people. During the Underground Centuries, Jirahar and Redeemer congregations sometimes sheltered one another and sometimes denounced one another. Local violence existed, but imperial policy remained inconsistent.

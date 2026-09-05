@@ -40,7 +40,6 @@ Feastlings are hand-sized Shadow fauna resembling knuckled hands with lamprey mo
 - **Weakness and permanent defeat:** distribute the hoarded nourishment to its intended recipients, clean the feast site without preserving trophies, and destroy the first serving dish. Starving the swarm while guests remain excluded creates cannibal broods.
 - **Materials:** dried palms retain flavor without nutrition and are used in illicit appetite tonics.
 - **Regional names:** table hands, crumb mouths, little hosts, and plate-biters.
-- **Story uses:** prepare a noble feast whose missing servant is the final course; infest an army ration train; lead investigators from a luxury market to a hidden famine store.
 
 ## Gut-Maws
 
@@ -53,7 +52,6 @@ Gut-Maws are large Masks whose bodies are traveling digestive chambers wrapped i
 - **Weakness and permanent defeat:** identify what appetite the Maw embodies, cut its supply and invitation routes, recover named remains or stolen qualities, then break the organ-object at its center. Physical killing leaves the organ able to grow another body.
 - **Materials:** stomach pearls contain compressed traces of consumed skills or memories. Using one transfers fragments without restoring the victim.
 - **Regional names:** walking kitchens, belly houses, feast boars, and the second table.
-- **Story uses:** consume a town's ability to preserve food rather than its stores; serve a cult as both temple and execution site; hold the only surviving memories of an erased craft.
 
 ## Banquet Tyrants
 
@@ -66,7 +64,6 @@ Banquet Tyrants are autonomous Archmasks that present as monumental hosts: many-
 - **Weakness and permanent defeat:** feed those systematically denied, end the supply chain that treats persons as courses, restore names and burial where possible, and destroy the host-seat while a shared meal is completed without hierarchy of worth. Mere fasting leaves the court's victims hungry and its architecture intact.
 - **Materials:** a host-bone records every supplier and victim in the last feast cycle, making it invaluable evidence.
 - **Regional names:** great hosts, belly kings, table fathers, and the never-sated.
-- **Story uses:** end a siege by feeding defenders from the besiegers' future harvests; rule an addiction network through genuine hospitality; invite heroes to save one village by choosing another as the winter course.
 
 ## Boundary with Natural Decay
 

@@ -13,6 +13,8 @@ tags: []
 ---
 # Covenant Armies and the Tarkhan Frontier
 
+Covenant military power rests on palace troops, provincial levies, hereditary military households, engineers and contracted auxiliaries. Its most demanding theatre is the Tarkhan frontier, a shifting belt of wells, pasture and fortified approaches where settled armies meet mobile societies with older claims to the land and water. The struggle has shaped the empire's armies, great engines and laws of surrender, while drawing Tarkhan clans into alternating relations of employment, alliance, tribute and war.
+
 ## Forces
 
 - The Ahdanite Guard provides elite infantry, cavalry, engineers, palace security, and officers raised through coerced military service.

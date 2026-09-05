@@ -25,11 +25,13 @@ related_magic: [blood liens, White Flame, soul routing]
 ---
 # Vampire Origins
 
+Human vampirism originated in Anshara, where Giant houses used blood craft to preserve life, impose obedience and hold a human soul inside a body that should have died. The mortal bloodlines surviving in 1360 descend from people transformed for service, punishment, intimacy, succession or experiment during the last centuries of the Giant court. Every vampire therefore remains the original morally responsible human person under an inherited blood lien.
+
 ## The Ansharan Source
 
 Vampirism began in the Imperial Court of Anshara. Its Vampire Giants cultivated blood-memory, bodily continuity, and coercive life-binding under the influence of [[Pride|the Sovereign]]. They were not Pride's offspring, and no Idol created a new soul-bearing lineage. Their embodied Giant continuity and their blood craft predated the mortal bloodlines that survive today.
 
-Ansharan court theology presented Giant blood as proof of divine right. Authorially, it was a predatory technology and inherited bodily condition: it could preserve memory, impose obedience, transfer vitality, and hold a recipient's human soul inside a body that should have died. Pride strengthened the hierarchy and fed upon its chosen domination, but the Giants built and maintained the system themselves.
+Ansharan court theology presented Giant blood as proof of divine right. The blood craft was a predatory technology and an inherited bodily condition: it could preserve memory, impose obedience, transfer vitality and hold a recipient's human soul inside a body that should have died. Pride strengthened the hierarchy and fed upon its chosen domination, while the Giants built and maintained the system themselves.
 
 ## The First Human Vampires
 
@@ -53,9 +55,9 @@ These are blood inheritances rather than moral destinies or separate peoples. In
 
 ## The Drinking Wars
 
-Anshara did not end in one outside conquest. Mortal vampire houses rebelled, Giant courts drank rivals and their own servants, and competing bloodlines tried to inherit the hierarchy that had made them. [[The Fall of Anshara]] controls the full authorial history; public tradition establishes only that the empire consumed itself and the final sovereign's fate remains unknown.
+Anshara ended through rebellion and consumption from within. Mortal vampire houses rose against their masters, Giant courts drank rivals and their own servants, and competing bloodlines tried to inherit the hierarchy that had made them. [[The Fall of Anshara]] gives the fuller history. Surviving public traditions agree that the empire consumed itself, while the fate of its final sovereign remains unknown.
 
-The Drinking Wars spread mortal vampires beyond Anshara while destroying most reliable knowledge of the first transformations. Later houses often call their inheritance a gift, curse, sacrament, disease, or noble blood. None of those claims changes its authorial continuity.
+The Drinking Wars spread mortal vampires beyond Anshara while destroying most reliable knowledge of the first transformations. Later houses describe their inheritance as a gift, curse, sacrament, disease or noble blood. These interpretations do not alter the continued presence of the original human soul.
 
 ## Death and Release
 

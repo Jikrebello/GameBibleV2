@@ -59,13 +59,6 @@ Weathered scale resists salt and damp, making it valuable for instrument cases, 
 
 Southern cold-estuary animals are dark, broad-plated, and often called **saltbacks**. Warmer northern delta populations are narrower and more reed-colored. Other names include bronze drake, reed-crown, ferry-breaker, greenplate, and marsh bronze.
 
-## Story Hooks
-
-- A new embankment has shifted a nesting channel into the only safe ferry route.
-- Poachers steal an egg and the pursuing drake follows their scent into a pilgrim town.
-- A bronze drake is keeping a residue-fed marsh predator out of occupied wetlands.
-- A drained estuary exposes an old clutch beneath an Atherian road.
-
 ## Navigation
 
 - [[Bestiary MOC]]

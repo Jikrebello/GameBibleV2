@@ -39,12 +39,6 @@ Talga's gate remains reliable when surface passes close, making it a strategic t
 
 The current charter protects internal law but gives the host crown an ambiguous emergency clause. Both sides know a winter siege will test it.
 
-## Story Uses
-
-- a Folio mystery exposes a forged charter clause;
-- a stranded army asks to be admitted as refugees;
-- something has begun walking the geothermal Underways from outside the mapped stone.
-
 ## Navigation
 
 - [[The Talga Folios]]

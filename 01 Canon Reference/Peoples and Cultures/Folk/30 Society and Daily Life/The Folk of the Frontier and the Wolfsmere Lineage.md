@@ -41,10 +41,6 @@ At the **Drowning at Wolfsmere (993 AR)**, Adalmar's soldiers drowned four thous
 - **The Freeflame** fascinates and unsettles the clans: preachers with no hierarchy, no relics, and no bells — some clans hear them gladly ("a fire with no landlord — that we know"), and the Sanctum has noticed with alarm.
 - **The seers' verdict** on all of it, given by a Grey-Withy speaker and repeated everywhere: *"Three hearths quarrel over one fire, and none of them asked the wood."*
 
-## Story Use
-
-The Roll of the Drowned as a living quest-calendar (something goes wrong at name two-thousand-and-something); Lakekeeper succession crises; the Bent Oak dilemma at every conversion plotline; Owl-Mark secret-keeping versus Church relic-hunters seeking Elsin's grave; and the standing Grenzburg question of what happens to the lake's sleep if the frontier's wars reach the water.
-
 ## Navigation
 
 - [[The Folk Overview]]

@@ -13,6 +13,8 @@ tags: []
 ---
 # Jirahar Memory of Isfir
 
+Jirahar memory of Isfir preserves a painful distinction between a particular historical crime and the hereditary accusation later built from it. Lord-Scribe Ezrahel bar Qoreth and a majority of Qiryath's senior council pressed Atherian authorities to execute Isfir, whom they regarded as a dangerous false claimant. Most Jirahar schools reject his identity as the Mesakha and Redeemer, yet they mourn his death, dispute the legacy of his followers and refuse the claim that the council's guilt passed to an entire people.
+
 ## The Historical Guilt
 
 Lord-Scribe Ezrahel bar Qoreth and a controlling majority of Qiryath's senior council judged Isfir a dangerous false claimant and knowingly pressed Atherian authorities for his death. They sought an imperial sentence they lacked power to carry out themselves. Atherian judges condemned him; Atherian soldiers killed him.
@@ -33,7 +35,7 @@ After the Resurrection, sacrifice continued at Qiryath but its authenticated sig
 
 ## Collective Blame
 
-Church polemic turned a named council's real act into hereditary guilt. Later rulers used that accusation to cancel debts, seize property, dissolve charters, and sanctify violence. Reliable authorial history must name the responsible institution without repeating the persecutors' claim.
+Church polemic turned the act of a named council into hereditary guilt. Later rulers used that accusation to cancel debts, seize property, dissolve charters and sanctify violence. The responsibility belongs to the institution and people who sought Isfir's death; it did not pass through blood to later Jirahar communities.
 
 ## Navigation
 

@@ -37,14 +37,6 @@ The Church may bless defense, liberation, and the protection of the oppressed. I
 
 The Returning Standard tradition is represented within [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/50 Economy and Warfare/Thalmyric Military Orders.md|Thalmyric Military Orders]], alongside the defensive Long Watch and the hospital-centered Iron Martyrs. Warlock Shell-fire remains categorically distinct from the White Flame.
 
-## Story Uses
-
-- a village with three valid property histories and only enough land for two;
-- a liberated contract laborer whose descendants are threatened by an older title;
-- a frontier commander concealing a raid to force renewed war;
-- a mixed shrine where saint-veneration and occupation-era practice cannot be cleanly separated;
-- prisoners whose release would expose the profitable peace maintained by both sides.
-
 ## Navigation
 
 - [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/Thalmyric Empire Overview.md|Thalmyric Empire Overview]]

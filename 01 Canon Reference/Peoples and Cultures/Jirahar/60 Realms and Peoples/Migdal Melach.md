@@ -39,12 +39,6 @@ Melach's chamber has the widest caravan approach. Its gate bench is nevertheless
 
 Qahirid governors demand manifests while rival Tarkhan claimants dispute who may collect the old price. Enforcing either claim could break the other peace.
 
-## Story Uses
-
-- two Hordes present valid words for the same passage payment;
-- a refugee caravan contains armed agents hidden among genuine families;
-- the well galleries reveal deliberate poisoning from inside the tower.
-
 ## Navigation
 
 - [[Covenant Armies and the Tarkhan Frontier]]

@@ -38,7 +38,7 @@ No active Pale-Skin settlement or Hollow-King operation is part of Grenzburg's m
 
 ## Cosmological Placement
 
-Their exact corruption remains intentionally unresolved in-world, but authorial use should keep three pressures visible:
+The cause and extent of their corruption remain uncertain. Three influences are evident in the surviving encounters:
 
 - **Material ancestry:** they were once a real subterranean/barrow-building people, not demons by default.
 - **Shadowlands pressure:** their society has been thinned by hunger, secrecy, identity loss, and predatory memory architecture.
@@ -105,14 +105,6 @@ A Pale-Skin lair should feel like a court buried under a grave:
 ## Faction Use
 
 Local rulers usually want a discovery contained without admitting that settlement rests above an older polity. Churches dispute whether a Hollow-King is undead, Idol-corrupt, or a crafted continuity. Delvers and financiers want barrow glass and engines. Nearby customary peoples may preserve taboos that outsiders misread as superstition. These pressures should be assigned to the actual culture and institutions of the chosen region rather than copied wholesale from Grenzburg.
-
-## Hooks
-
-- A captured raider begs not to be returned below because "the pale court counts us."
-- A Hollow-King offers to close a migration corridor if given names from a city's death records.
-- A missing surveyor returns with perfect maps and no shadow.
-- A local taboo against one barrow door proves to record an older containment boundary.
-- Two Hollow-Kings claim the same dead court and produce incompatible memories as proof.
 
 ## Navigation
 

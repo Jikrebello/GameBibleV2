@@ -39,10 +39,6 @@ Organized crime does poorly (the Syndicate polices its own; the guilds audit; th
 
 Low and industrial: Shell-scar seams the deep miners map and avoid, hymn-lamps in the pit-head chapels that the whole shift watches like a canary (they gutter before firedamp — no one knows why and no one goes down when they do), and the Knot itself — touched once, at oath-taking, by every miner in the Dominion, and warmer than iron should be.
 
-## Hooks
-
-A deep gallery breaks into worked stone nobody dug; the exiled bishop announces a pastoral *visit*; a Red Anvil formula surfaces in a Covenant siege-train, and the trail runs through a chapel deacon.
-
 ## Navigation
 
 - [[01 Canon Reference/Peoples and Cultures/Eclessia/Eclessia Overview.md|Eclessia Overview]]

@@ -59,13 +59,6 @@ Sapphire scale is valued for cold-water gear and resonant instrument work. A hea
 
 Deep southern lake animals are pale and heavy-bodied; highland river animals carry darker bands and longer steering fins. Names include sapphire drake, bell-taker, blue current, drowned-chain, lake sapphire, and spring-jaw.
 
-## Story Hooks
-
-- A monastery bell rings from the bottom of a lake each time the drake hunts.
-- A reservoir expansion joins two territories and brings rival adults into one town's water supply.
-- Divers seek a drowned archive inside a nesting cave.
-- A ferryman's old route remains safe because of an offering nobody remembers making.
-
 ## Navigation
 
 - [[Bestiary MOC]]

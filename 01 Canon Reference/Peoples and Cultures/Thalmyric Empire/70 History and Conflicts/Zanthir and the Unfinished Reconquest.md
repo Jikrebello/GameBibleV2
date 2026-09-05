@@ -15,7 +15,7 @@ tags: []
 ---
 # Zanthir and the Unfinished Reconquest
 
-Thalmyric law calls Zanthir and the Velian belt unrecovered imperial land. This is a claim of succession, not a description of present sovereignty.
+Thalmyric law describes Zanthir and the Velian belt as imperial lands awaiting recovery. Six centuries of Covenant and local rule have meanwhile produced living Velian and Zanthiri societies with their own institutions, property and political aims. The difference between inherited claim and present sovereignty makes this frontier the most likely theatre of a renewed war between Thalmyria and the Covenant.
 
 ## The Imperial Case
 

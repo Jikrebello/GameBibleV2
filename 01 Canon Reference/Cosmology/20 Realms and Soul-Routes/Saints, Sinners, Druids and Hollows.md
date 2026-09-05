@@ -13,255 +13,63 @@ tags: []
 ---
 # Saints, Sinners, Druids and Hollows
 
-## Scope
+Saints, Sinners, Druids and Hollows are human beings whose lives have been shaped by different allegiances and supernatural relationships. Their powers may resemble one another at a distance, especially when they heal, curse, command spirits or alter a place. Their origins and ends remain distinct. Saints grow through communion with the Lord; Sinners choose and organise refusal; Druids cultivate bargains with Menhir ecologies; Hollows surrender parts of life and society to the appetites of the Idols.
 
-This note primarily concerns **living saints** and mortal religious actors. A living saint remains a human person on the Material soul-road. A [[Manifested Saints Overview|manifested saint]] is that redeemed human soul serving after judgement under a heavenly commission. True angels are a separate order of created spirits. Church recognition can be prudent or mistaken; it does not create either earthly sanctity or posthumous authority.
+## Saints in Earthly History
 
-## 1) Saints as the Church’s Apex Offices in the World
+A living saint remains a mortal human being. Sanctity appears through a life of communion, repentance, witness and service, sometimes accompanied by miracles. Public recognition can preserve the memory of such a life, but a council or popular cult cannot create sanctity by decree.
 
-### What a Saint is (functionally)
+The work of living saints commonly joins three activities. They proclaim the Redeemer's teaching; form communities through worship, discipline, charity and learning; and defend people against predatory powers. The balance differs from one life to another. A hospital founder, a desert ascetic and a commander protecting refugees may all become saints without sharing temperament, office or method.
 
-A living Saint is a mortal whose life has been shaped into **rightward coherence** by the White Flame and whose sanctification becomes **public ecclesial force**: they are not merely “holy individuals,” they are **mission-bearing nodes** of the Redeemer’s church in history.
+The Eclessian and Thalmyric churches inherited different emphases after the Great Split. Eclessian traditions give particular weight to organised missions, hospitals, teaching orders, relic custody and formal inquiries into miracles. Thalmyric traditions give greater prominence to contemplative prayer, monastic eldership, icons, holy places and the inward discipline known as watchfulness. Both traditions also contain the other's forms, and neither possesses a monopoly upon sanctity.
 
-Their work has three lanes, always present in some ratio:
+Saints may appear in war. Some have led evacuations, defended walls, confronted cult armies or accompanied angelic hosts under a specific charge. Their authority remains tied to the people and purpose entrusted to them. Military success proves neither holiness nor the righteousness of every allied cause.
 
-1. **Proclamation:** expanding the church’s reach (conversion, teaching, confession, catechesis).
+## Manifested Saints
 
-2. **Formation:** strengthening the church’s body (discipline, liturgy, charity, unity).
+Death, judgement and final communion precede any true posthumous manifestation. A manifested saint is the same redeemed human person acting through a body fitted to a heavenly commission. The person has not become an angel, Menhir, Idol Mask or inheritable office.
 
-3. **Contestation:** defending souls against rival claims (Idols, Menhir, patrons, Sinners, thin-space predation).
+A saint in final communion cannot fall. Mortal rites cannot summon, bind or pass down the saint as institutional property. Prayer may receive an answer, a relic may become the occasion of an intercession and an icon may mark the place of a genuine meeting; each event establishes only its own commission. Counterfeits remain common because churches, rulers and cults all benefit from claims of saintly approval.
 
+Manifested saints have defended prisons, roads, cities, graves and passages of the dead. Others have corrected institutions founded in their names or refused to support armies that expected them. Their earthly character remains recognisable, although the manifestation may also bear wind, wings, bright scars or White Flame associated with the particular work.
 
-### The Two Major Saint Traditions
+## Sinners and Counter-Churches
 
-These are not “two churches” so much as **two canonical ways** within the single body.
+A Sinner is a human being who knowingly gives a life to refusal and makes that refusal fruitful in other people. Trauma, coercion and temptation may shape the path, yet the decisive choices remain personal. Sinners recruit, teach, initiate and preserve their practices because corruption also requires institutions.
 
-#### A) The Eclessian Line: _Juridical, Relic, and Missionary Emphasis_
+Some Sinners serve the Adversary directly and treat exile from the Lord as an injustice to be avenged. Others use infernal offices, contracts and prisons as instruments of wealth or rule without devotional loyalty. Heresiarchs establish rival revelations and sacraments, often beginning with a real grievance or partial truth before demanding obedience to themselves.
 
-- **Charism:** order, clarity, law, institutional continuity, evangelization-by-structure.
+These movements compete as readily as they cooperate. One cult may open an Abyssal wound while another sells protection from it; an Idol-aligned faction may betray an infernal ruler when a different harvest promises more. Temporary alliances usually form against a saint, church or civic settlement that threatens several feeding systems at once.
 
-- **Saint-patterns:** founders of orders, itinerant missionaries, miracle-workers tied to relics, inquisitors (in the strict sense of truth-seeking), hospital saints, exorcists.
+A damned Sinner remains one judged human soul. The person may bear a devil office, rule an infernal dominion, command constructed bodies or become known as an archdevil. Soul, office, body, court, relic, copied persona and legend remain separate even when later witnesses use one name for all of them. A Sinner can assist the birth of a true dragon through great crime, but the dragon possesses its own continuity as an Abyssal wound.
 
-- **Signature mechanics in-world:**
-    
-    - relic custodianship as portable rightward anchors,
-    
-    - formal canonization-like recognition,
-    
-    - doctrinal courts, oaths, and “seal rites” as standard practice.
-    
+## Druids and Verdant Traditions
 
-This lane naturally produces **saints who build systems** that outlast them.
+“Druid” is the common imperial name for human specialists who live by sustained relationships with Menhir powers, Faewild courts and local laws of land or season. Many such peoples use other names. Verdant traditions preserve hunting boundaries, river bargains, sacred groves, seasonal roads and the obligations attached to them.
 
-#### B) The Thalmyric Line: _Mystical, Liturgical, and Ascetic Emphasis_
+A Druid remains human. The practice may grant knowledge, bodily alteration or authority within a particular place, while every bargain carries its own terms. Menhir powers express created natural law and possess no general concern for human flourishing. A bargain that preserves a forest may starve a village; a river wife may protect a ferry and demand a fosterling.
 
-- **Charism:** illumination, inner purification, contemplative prayer, cosmic liturgy, spiritual warfare as ascetic practice.
-    
-- **Saint-patterns:** desert ascetics, icon-bearers, wonder-workers, monastic elders, “fools” whose sanctity manifests as paradox, guardians of sacred springs and ancient places.
-    
-- **Signature mechanics in-world:**
-    
-    - prayer-as-coherence refinement,
-    
-    - iconography that functions as stability geometry,
-    
-    - “watchfulness” traditions for thin spaces and haunting.
-    
+Druids often oppose Idol cults whose feeding damages the land. They may also resist churches, roads or settlements that break an old compact. Cooperation depends upon the immediate relationship. Shared opposition to an Idol does not turn a Menhir court into a benevolent power or make its human servants part of the Church.
 
-This lane naturally produces **saints who become living thresholds**—people whose very presence corrects distortion.
+## Hollows
 
-### Saints in overt conflict
+Hollows are human practitioners and communities shaped by sustained participation in an Idol's appetite. They build the habits, ceremonies and institutions through which a Mask feeds: prestige without correction, violence without limit, possession without use, appetite without satiety, intimacy without consent, rivalry without gratitude or rest without return.
 
-In a world with paladins and summoners, Saints are the **senior leadership layer**:
+Some Hollows know the identity of the power they serve. Others inherit a household custom, court ceremony, charitable institution or guild discipline whose predatory purpose has been concealed. The strongest systems make ordinary people carry the cost while a small circle receives status, pleasure or apparent protection.
 
-- they rally the faithful,
+Hollows frequently work beside Sinners because both profit from damaged communities. Their allegiances differ. A Sinner may seek an infernal kingdom governed by contract and refusal; an Idol Mask seeks nourishment and continued expression. Either side will abandon the other when those purposes diverge.
 
-- sanctify campaigns,
+## Rival Forms of Care and Rule
 
-- dismantle rival cult infrastructure,
+The struggle among these vocations is often visible in ordinary institutions before it reaches a battlefield. Saints establish parishes, monasteries, schools, hospitals and routes of refuge. Sinners create counter-churches, debt cults, false sacraments and disciplined missions. Druids maintain places through local compact. Hollows organise communities around the needs of an appetite.
 
-- and conduct public signs that _force the metaphysical question into the open_.
-
-
-They are credible as battlefield commanders and credible as shepherds because they are both.
-
----
-
-## 2) Sinners as a Fractured Counter-Church Ecosystem
-
-### What a Sinner is (functionally)
-
-A Sinner is a mortal who has **chosen alignment with refusal**—not always with identical ideology, but with a shared vector: separation from the Lord and opposition to the Redeemer’s church.
-
-Where Saints emerge from a single body, Sinners emerge from **cracks, splinters, and parasitic alternatives**. “Evil” is plural; refusal is opportunistic; corruption is adaptive.
-
-### Why Sinners still have “churches”
-
-Even fragmented evil requires:
-
-- recruitment,
-
-- initiation,
-
-- discipline,
-
-- myth,
-
-- sacraments (dark analogues),
-
-- and transmission of technique.
-
-
-So Sinners organize into many **counter-church forms**, each with its own doctrine, but all competing for the same prize: **souls and social reality**.
-
-### Three high-level Sinner “families” (useful taxonomy)
-
-You can keep this broad so you can generate many cults underneath it.
-
-#### A) **Abyssal Loyalists** (direct Adversary-aligned)
-
-- believe the Adversary’s exile is temporary or unjust,
-
-- work toward opening leftward conditions in the world,
-
-- seek to make refusal feel like liberation.
-
-
-#### B) **Instrumentalists** (Adversary-adjacent, not devotional)
-
-- treat the Adversary’s ecosystem as a power source,
-
-- run debt economies, contract capture, and “salvation for sale” schemes,
-
-- see souls as assets and communities as supply.
-
-
-#### C) **Heresarchs** (anti-church innovators)
-
-- arise as charismatic founders of alternative paths,
-
-- reject the Redeemer’s claim to singular truth,
-
-- create rival sacraments, rival judgments, rival “purifications.”
-
-
-These are the ones most likely to mimic the church’s form while inverting its telos.
-
-### Sinners in open conflict
-
-Sinners lead:
-
-- militant cult-hosts,
-
-- corruption campaigns,
-
-- demon-pacts as recruitment funnels,
-
-- false miracle economies,
-
-- and propaganda-theologies designed to fracture the church into local wars.
-
-
-They are not unified, but they can coordinate when a Saint becomes too dangerous.
-
-### Greater Sinners after judgement
-
-`Sinner` names a chosen human vocation and allegiance, not a supernatural species. If a Sinner dies damned, the person remains one judged `human-soul`. Damnation does not turn that soul into an Idol Mask, Abyssal wound, Patron, fallen spirit, or native infernal creature.
-
-A damned Greater Sinner may nevertheless become a [[Crowned Refusers and Hollow Prophets|Crowned Refuser or Hollow Prophet]], bear one or more devil offices, rule a mapped dominion, command cults, or manifest through constructed bodies. `Archdevil` can describe the resulting political power. The soul, office, body, court, relic, copied persona, and public legend remain separately classified even when they use one name.
-
-Living and damned Sinners provide the principal human strategic layer between Material history and the hostile ecologies. They can found counter-churches, open routes, write contracts, construct prisons, cultivate Idol feeding systems, or maintain the anchors of an Abyssal wound. They may serve, bargain with, or betray an Archmask without becoming one. A Sinner's crime may help create a true dragon, but that dragon is a new `abyssal-wound` continuity rather than the sinner's transformed soul.
-
----
-
-## 3) Reframing the “Cold War” as Competing Pastoral Projects
-
-Keep the earlier line—**the war is over routing**—but present it as a _means_, not the _mission_.
-
-### Saints: the pastoral project
-
-- build parishes, monasteries, shrines, hospitals, pilgrim routes, schools, confraternities;
-
-- create stable moral ecology so fewer people become vulnerable to Idol hunger or patron debt;
-
-- treat thin spaces as **symptoms** of a world awaiting restoration—guard them, heal them, don’t exploit them.
-
-
-### Sinners: the counter-pastoral project
-
-- seed despair, factionalism, coercive “salvation,” and debt-cults;
-
-- normalize predation as natural law;
-
-- create social and metaphysical conditions where leftward drift feels inevitable.
-
-
-The metaphysical conflict remains constant, but now it reads as **evangelism versus anti-evangelism**, not merely covert operations.
-
----
-
-## 4) Where Menhir- and Idol-aligned fit under this new emphasis
-
-Your earlier concept still works: **Verdants** (Menhir-attuned) and **Hollows** (Idol-attuned) are typically _local_ and _weaker_ than Saints/Sinners.
-
-Now, position them as:
-
-- **competitor pastoral ecosystems** that often collide with the church (and with Sinner cults), but not always as existential enemies.
-
-
-### Verdants (Faewild-attuned)
-
-They build and defend **natural pacts**—taboos, sacred groves, hunting oaths, river bargains. They may:
-
-- oppose Sinners and Idols when vice-poison threatens the living land,
-
-- oppose Saints when the church’s expansion “sterilizes” mythic ecologies or breaks old pacts.
-
-
-Verdants aren’t “evil”; they’re a rival spiritual ecology with different ends.
-
-### Hollows (Shadowlands-attuned)
-
-They build **vice-infrastructures** that keep Idols fed. They may:
-
-- cooperate with Sinners when the incentives align (corruption is compatible),
-
-- betray Sinners when Idols demand a different harvest,
-
-- operate entirely outside Adversary ideology, treating him as irrelevant.
-
-
-Hollows are the most common “street-level” adversary for Saints because they are endemic.
-
----
-
-## 5) Practical worldbuilding outputs that fall cleanly out of this
-
-### Saints will have:
-
-- **canonized lineages** and recognized miracle types,
-
-- relic networks and custody disputes,
-
-- internal tensions (Western vs Eastern emphases) without schism,
-
-- militant orders and contemplative orders that disagree on method but share the same Lord.
-
-
-### Sinners will have:
-
-- competing cult “denominations,” each claiming a different liberation story,
-
-- constant schisms, coups, and doctrinal drift,
-
-- occasional “ecumenical” coordination when threatened,
-
-- a higher prevalence of patron bargains and Egg White rent economies as institutional scaffolding.
+Each tradition therefore offers an account of protection, belonging and human purpose. Their practical achievements can be real. A predatory cult may feed the poor in order to own their gratitude; a Menhir bargain may preserve a harvest while claiming the dead; an honest church may fail through cowardice or corruption. The origin, terms and consequences of the relationship reveal more than its immediate usefulness.
 
 ## Navigation
 
 - [[Cosmology MOC]]
-- [[Canon Index]]
+- [[The Lord and Redeemer]]
 - [[Manifested Saints Overview]]
 - [[True Angels Overview]]
 - [[The War of the Last Map]]
+- [[Idol Thrones, Regnants, and Cultural Masks]]

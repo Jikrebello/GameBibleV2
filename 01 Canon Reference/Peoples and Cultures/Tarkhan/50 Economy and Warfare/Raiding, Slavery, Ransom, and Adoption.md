@@ -36,13 +36,6 @@ Free Tarkhan cannot lawfully be sold by their own clan, but debt, disputed ances
 
 White-Horde raids create the largest current captive flow into northern Covenant markets. Iron officers increasingly use registered military service to regularize bondage. Ash raids target roads and isolated settlements, while their formal peace with Castara requires the return of named protected travelers.
 
-## Story Uses
-
-- a ransomed guide discovers that her child was adopted but she remains owned;
-- a clan denies selling a free rival under a false captive-name;
-- an Ash escort must recover travelers taken by a banner outside the peace;
-- a great horse gift offered as manumission was stolen from Grey Sister's line.
-
 ## Navigation
 
 - [[Word-Price, Guest-Right, and Clan Law]]

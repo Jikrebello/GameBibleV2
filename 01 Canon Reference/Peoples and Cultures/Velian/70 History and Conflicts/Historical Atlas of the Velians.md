@@ -13,6 +13,8 @@ tags: [world-historical-atlas]
 ---
 # Historical Atlas of the Velians
 
+The Velians are northern border peoples whose communities developed from Atherian provincial life, the condemned communion of Nasriel and later protection under Banu Mizan rulers. Their history joins towns, congregations, farms, schools and translated learning across a frontier repeatedly claimed by larger empires. The surviving Velian States of 1360 preserve this inheritance through several governments and local churches rather than a single kingdom.
+
 ## Historical Atlas — wider inheritance
 
 Velian identity formed from an Atherian-descended border world reshaped by the condemnation of Nasriel's communion in 411, northern refuge and later Banu Mizan protection. It is neither an unaltered imperial remnant nor merely a confession applied to people who otherwise remain Thalmyric.
@@ -31,4 +33,3 @@ The failed Second Crusade and later imperial reconquests made Velians objects of
 - [[G-44 - Three Roads for One Cry|Three Roads for One Cry]]
 - [[World Historical Atlas MOC]]
 - [[Peoples in the World Historical Atlas]]
-

@@ -63,13 +63,6 @@ Gremlin wire holds a temporary sympathetic link between two moving objects. Engi
 
 Tangle-Gremlin, mill-knot, rigging mite, bell imp, gear brat, and the second mechanic.
 
-## Story Hooks
-
-- A siege engine's failures are blamed on treason, but a Gremlin is linking it to the commander's ceremonial clock.
-- A mill-knot offers to keep grain moving if the village lets another mill fail.
-- A new warlock script contains a moving flaw because a Gremlin nested in the copying press.
-- Shipboard Gremlins connect the bilge pumps to the signal lanterns before a night crossing.
-
 ## Navigation
 
 - [[Faewild and Menhir MOC]]

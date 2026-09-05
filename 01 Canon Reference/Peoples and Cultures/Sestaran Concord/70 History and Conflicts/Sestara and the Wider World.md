@@ -13,6 +13,8 @@ tags: []
 ---
 # Sestara and the Wider World
 
+The Sestaran Concord occupies the ports and overland approaches through which many of the known world's peoples trade, borrow, hire soldiers and recover captives. Its member cities pursue these relationships separately, using their own fleets, fairs, banks and foreign quarters. The Concord's wealth depends upon preserving access among rivals, but the same commerce carries arms, exploitative concessions, enslaved people and political debts across its borders.
+
 ## Jirahar
 
 Migdal Dahava competes with Medori credit while clearing obligations the Bank cannot safely hold. Migdal Yamma and the Sea Fleets work through Sermoran shipping. Orsena and Vardessa maintain protected Jirahar quarters whose sanctuary, food law, schools, and burial rights predate many citizen houses; Turning Companies use their river yards and fairs. Cities value Jirahar routes and repeatedly resent the independence that makes them useful.

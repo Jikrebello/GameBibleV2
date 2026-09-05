@@ -31,9 +31,9 @@ Grey Sister is honored as the mare who accepted the First Catch, not as a goddes
 
 Iron-Horde converts interpret Al-Ahdiya through word-price, witness, and mounted service. Small Redeemer missions survive by hospitality and medicine. Jirahar teachers are respected for portable law and disciplined memory. Conversion changes allegiance and ritual; it does not erase Tarkhan ancestry or clan obligation.
 
-## Authorial Truth
+## Powers Associated with Kokh
 
-Kokh is a composite Tarkhan interpretation of several sky-aligned Menhir powers. Its practical observations often work, but no single loving tribal god stands behind the whole system.
+Kokh brings several sky-aligned Menhir powers into one Tarkhan religious household. Their distinct relationships with sun, moon, wind, storm and the hunt account for the practical force of many observations preserved by wind-speakers. The Blue Eternal does not correspond to a single personal ruler of the sky.
 
 ## Navigation
 

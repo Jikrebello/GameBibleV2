@@ -13,30 +13,29 @@ tags: []
 ---
 # The Undertow
 
-**Soul-route predation. Not an Idol network, not the Adversary's church: the counter-Boatman.** The most secret entry in the atlas, and the one the churches would jointly mobilize against within a season of proof.
+The Undertow is a clandestine network that diverts human souls from the lawful road through the Vestibule. It serves frightened souls seeking escape from judgement, supernatural powers that require captured persons and Patrons collecting soul-liens. The network belongs neither to an Idol nor to the Adversary's church. Its direct attack upon the Boatman's commission would unite the great churches if sufficient proof became public.
 
 ## What It Is
 
-The official road runs death → Vestibule → Weighing → onward, guarded by the Boatman's office. The Undertow is the **smuggling network that runs souls off that road** — leftward, wetward, down. Its clients: the terrified (souls certain the Weighing will go badly, sold "asylum" from judgment), the predatory (leftward powers, necromantic infrastructure, and Hell's own intake, which pays in permissions), and the collectors (patrons who take soul-liens as rent — the Undertow handles repossession). Its methods live in death's paperwork: corrupted burial rites with one syllable altered, name-bindings sprung at the moment of death, mass-death events *positioned* (a battlefield is a bulk shipment), and the drowning-road — water deaths run nearest the leftward gate's element, which is why the Undertow's oldest routes are wet.
+The lawful road carries the dead to the Vestibule, the Weighing and the state that follows judgement under the protection of the Boatman's office. Undertow agents draw souls leftward through wet and downward routes before that passage is complete. They sell supposed asylum to people afraid of judgement, supply necromantic works and infernal powers, and repossess souls pledged as rent to Patrons.
+
+Their methods corrupt the practices surrounding death. A syllable may be altered in a burial rite, a name-binding may close at the moment of death or a battle may be arranged where a route can receive many souls at once. Drowning lies especially close to the elemental direction exploited by the network, and its oldest known routes pass through wells, reed beds and open water.
 
 ## The Voice Under the Mere (spine-secret)
 
-Both peoples' funeral keens carry the same ancient warning — *"heed no voice but One" / "heed no voice from under the mere"* — and neither will discuss it. The warning concerns the Undertow's recruiters. The dead in transit are hailed from reed beds, wells, and crossing water by voices offering asylum from the audit. The keens are counter-smuggling doctrine so old both cultures have forgotten it is doctrine. Wolfsmere is the connection's live wire: four thousand souls drowned at a sacred site, held asleep by the Lakekeepers, and the Undertow has wanted that cargo for three hundred and fifty years. The Lakekeepers are outbidding it annually, and the price is rising; they have never told anyone what they pay.
+Funeral keens among two otherwise separate peoples preserve the warnings “heed no voice but One” and “heed no voice from under the mere”. Both refer to recruiters who call to the newly dead from reed beds, wells and crossing water with promises of refuge from judgement. The origins of the songs have been forgotten, but their instructions still obstruct the oldest smuggling routes.
+
+Wolfsmere remains the network's greatest known objective. Four thousand people drowned at a sacred site and are held asleep by the Lakekeepers. The Undertow has sought them for three hundred and fifty years. The Lakekeepers make an annual payment to prevent their seizure, and the rising price has never been disclosed.
 
 ## Structure and Signs
 
-**Wreckers** (rite-corruptors embedded as sextons, chirurgeons, battlefield priests), **Ferrymen-in-Shadow** (the transit operators; what they are is disputed — some were human), **the Pilots** (route-masters; the Boatman's office is aware of exactly four in history and has closed accounts on three). Signs: burial rites that feel *almost* right to attending clergy; the drowned lingering in patterns; hymns going flat at gravesides; and the Vestibule-side tell only saints perceive — arrivals that stop arriving from one parish.
+**Wreckers** corrupt rites while serving as sextons, chirurgeons or battlefield priests. **Ferrymen-in-Shadow** operate the routes; their natures differ, and some were once human. **Pilots** direct the larger network. The Boatman's office has identified four Pilots in recorded history and destroyed the operations of three.
+
+The network can be detected through burial rites that seem almost correct, drowned remains that linger in repeated patterns and hymns that fail at gravesides. Saints acting near the Vestibule may perceive the decisive sign: the dead from one parish cease arriving.
 
 ## Relations
 
-Everyone's contractor, no one's friend: Hell pays in permissions, patrons in rent shares, and the Creditor files them under acceptable-loss vendors. The Boatman's office is their eternal adversary. The Boatman is not merely a ferryman but a guardian of the lawful shore.
-
-## Hooks
-
-- Grenzburg's siege-winter mass graves can attract a Wrecker or Undertow cell as an optional regional side threat. Such predation is independent of the Grobi siege and Deep Muster and has no Pale-Skin connection.
-- A parish's dead stop arriving (the saint's tell) — the investigation must move at the speed of funerals.
-- Caleran's ossuary roads: one-by-one body discrepancies conceal a Wrecker and a separate Fleshweaver procurement chain that has become its temporary partner.
-- The Lakekeepers' annual price comes due, and this year Thorn-Seer Mael cannot pay it alone. What the lake's keeper asks of the party is never named in advance. It never is.
+Infernal powers pay the Undertow with permissions, while Patrons offer shares of collected rent. The Creditor treats its agents as expendable contractors. The Boatman's office is their enduring adversary and guards the lawful shore against every attempted diversion.
 
 ## Navigation
 

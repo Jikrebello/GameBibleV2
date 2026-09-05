@@ -40,7 +40,6 @@ An Acclaim Swarm is a flock of hand-sized glass throats, jeweled eyelids, and br
 - **Weakness and permanent defeat:** restore correct attribution publicly, separate office from occupant, and shatter the nesting object while witnesses name the overlooked contributors. Mockery and humiliation merely reverse the swarm's attention.
 - **Materials:** acclaim glass replays the loudest praise it consumed and can expose staged crowds or coerced testimony.
 - **Regional names:** praise flies, mirror birds, bright mouths, and court starlings.
-- **Story uses:** make an incompetent commander irresistible; reveal whose labor a saintly reputation concealed; migrate from a deposed tyrant to the hero who defeated him.
 
 ## Mirror Heralds
 
@@ -53,7 +52,6 @@ Mirror Heralds are Masks with polished faces and ceremonial bodies assembled fro
 - **Weakness and permanent defeat:** establish the office's true jurisdiction, restore erased witnesses, obtain correction from someone the office must hear, and break the ceremonial reflection anchor. Killing the office-holder does not end the Herald.
 - **Materials:** a face shard shows which details it added to a witness's memory. It cannot reveal what truly happened without other evidence.
 - **Regional names:** silver heralds, rank mirrors, bright confessors, and the second chamberlain.
-- **Story uses:** validate two mutually exclusive heirs; preserve a beloved ruler's authority after death; turn a church inquiry into proof of the accused prelate's sanctity.
 
 ## Throne-Born
 
@@ -66,7 +64,6 @@ Throne-Born are autonomous Archmasks that arise already seated in an office they
 - **Weakness and permanent defeat:** expose the true source and limits of authority, restore diminished persons, let rightful office accept correction, and destroy or vacate the throne without creating a new object of self-worship. A mere coup feeds succession back into the same ecology.
 - **Materials:** throne dust reveals every person treated as invisible support for the regime.
 - **Regional names:** unmade kings, first judges, crown ghosts, and the seated ones.
-- **Story uses:** stabilize a collapsing state more effectively than its lawful rulers; offer a church perfect unity around a counterfeit office; survive deposition by making the revolutionaries define themselves through its throne.
 
 ## Relation to Vampires
 

@@ -50,14 +50,9 @@ Korrheim fields pike formations, crossbow companies, engineers, mountain riders,
 - Engineers and smaller communes demanding broader representation.
 - Foreign rulers testing the Accord through deniable contracts.
 
-## Story Uses
-
-Treaty arbitration, mercenary recruitment, fortress espionage, mixed-confession murder, disputed service articles, and votes decided by delegates whose home canton has changed its instructions.
-
 ## Navigation
 
 - [[Legends, Feuds, and Military History]]
 - [[01 Canon Reference/Peoples and Cultures/Eclessia/30 Society and Daily Life/Life Paths/Lives of Korrheim and Brauvalis.md|Lives of Korrheim and Brauvalis]]
 - [[The Korrheim Accord]]
 - [[01 Canon Reference/Peoples and Cultures/Eclessia/Eclessia Overview.md|Eclessia Overview]]
-

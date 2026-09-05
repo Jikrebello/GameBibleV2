@@ -35,6 +35,8 @@ Land concentration, provincial wealth and competition among commanders contribut
 
 [[The Rise of the Atherian Empire Overview|The rise of the empire]] explains the institutional transition; the [[Historical Atlas of Atheria]] connects it with earlier settlement and later imperial history.
 
+[[Historical Atlas of the Atherian Age of Glory]] follows the empire from Thalion's later reign through the House of Thalion, the Four Eagles crisis, the Veloran and Serrat dynasties and the Othran household reigning at 0 AR. Its companion articles explain provincial cities, armies, food, trade, slavery, education and the imperial Star cult.
+
 ## Government and provincial society
 
 During the Age of Glory, emperors presented themselves as mediators chosen by the stars. Governors, known as Exarchs, administered provinces through relationships with treasury officials, municipal councils and temple estates. The old senate retained responsibilities in infrastructure, citizenship and commerce after losing effective command of the army.

@@ -66,17 +66,6 @@ Key pressures:
 
 For the Folk, frontier clans bear the direct obligation while people from safer regions travel to the fighting as a path to honor, followers, marriage standing, and eligibility for office. Winter service includes stores, transport, refuge, healing, and scouting as well as battle.
 
-## Game and Story Use
-
-The cold belt should generate concrete problems:
-
-- a pass opens early and Grobi arrive before harvest;
-- a Menhir pact forbids cutting the only usable winter road;
-- a clan refuses Church protection because it would require surrendering ancestor graves;
-- a bank finances grain stores and then claims land after famine;
-- a warlock foundry overdraws Shell fire to keep a frontier city alive;
-- a buried Giant ruin thaws from permafrost.
-
 ## Navigation
 
 - [[Timeline MOC]]

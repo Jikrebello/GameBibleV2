@@ -40,7 +40,7 @@ The Church distinguishes relics from imperial trophies, Atherian antiquities, ba
 
 ## The Saint-Emperor Problem
 
-Thalmyria holds that Caedros I was received by the Flame. Eclessia rejects the evidence because no body, relic anchor, or independent test remains. His hymns kindle according to the righteousness of the singer, not institutional allegiance, though neither Church knows that authorial truth.
+Thalmyria holds that Caedros I was received by the Flame. Eclessia rejects the evidence because no body, relic anchor or independent test remains. His hymns kindle according to the righteousness of the singer rather than institutional allegiance, although neither Church has recognised that principle.
 
 ## False Kindling
 

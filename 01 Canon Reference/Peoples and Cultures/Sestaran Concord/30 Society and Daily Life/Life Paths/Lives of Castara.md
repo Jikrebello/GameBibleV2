@@ -31,10 +31,6 @@ The new elite (canon): expedition-financiers whose fortunes are three voyages ol
 
 Religion is departure-shaped: the **Blessing of Fleets**, chapels-of-departure along the quays (Naris everywhere; Dorn for the landward roads), and a frontier clergy that has quietly adopted the missioner's flexibility about what colonists bring back in their nightmares. The soldiery is naval and private — Prince-funded escort squadrons, University marines for the survey ships, and the wall-militia that watches the pirate isles' weather. Crime is claim-shaped: jumped stakes, salted finds, forged assay-marks, artifact-smuggling past the University registry (the good stuff moves in fish-barrels, which every inspector knows and some retire on), and the crimps who sign drunks onto crossings they never agreed to — the Gold Rush's oldest and ugliest trade.
 
-## Hooks
-
-A returned colonist speaks fluent court-Atherian he never learned; the University's locked vault requests — by name — an appraiser the party knows; an old-family salon offers to fund the expedition nobody sane would, to the site their grandfather's charts marked with a bird.
-
 ## Navigation
 
 - [[01 Canon Reference/Peoples and Cultures/Sestaran Concord/The Sestaran Concord Overview.md|The Sestaran Concord Overview]]

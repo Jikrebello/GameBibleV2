@@ -13,25 +13,21 @@ tags: []
 ---
 # The Red Tally
 
-**Wrath's mortal network. Masks: the Fury, Furor** (per the register) — but the Tally's own name for its patron is **the Accountant of Blood.**
+The Red Tally is a network of feud brokers, killers and record keepers serving Wrath through the preservation of grievance. Its members call their patron the **Accountant of Blood**; other traditions identify the relevant Masks as the Fury or Furor. The organisation prospers where families, armies or confessions are willing to inherit an injury and pass it forward with interest.
 
 ## Doctrine and Method
 
-Where the Grobi are Wrath's ancient *harvest*, the Red Tally is its modern *brokerage*. The doctrine is bookkeeping: every wrong is a debt, every debt accrues, and forgiveness is fraud — the Tally exists to keep the ledgers that mercy would burn. Its cells are **feud-brokers**: they document grievances (real ones — the Tally never invents a wrong, that is the Rival's trade), preserve them across generations, price them, and at the chosen moment *present the bill*. A Tally-kept feud never dies of old age; the heirs are found, the account transferred, the interest explained. Their sacrament is **the Reading of the Tally** — an annual recitation of unavenged wrongs that is, the Church notes with horror, a precise dark mirror of both the Roll of the Drowned and the Rite of the Empty Seat: one people keeps a lake, one keeps a seat, and the Tally keeps *receivables*.
+The Tally treats every wrong as a debt that grows until violence pays it. Its cells usually begin with a genuine grievance. They document the injury, trace the families involved, transfer the obligation to heirs and wait for a moment when retaliation will produce the greatest conflict. Forgiveness is condemned as the destruction of a valid account.
+
+The annual **Reading of the Tally** recites injuries that remain unavenged. Church authorities compare the rite with memorial traditions such as the Roll of the Drowned and the Rite of the Empty Seat, whose forms it deliberately corrupts. A community is taught to remember its dead through the obligation to create more of them.
 
 ## Structure and Signs
 
-**Tallymen** (grievance-notaries), **Collectors** (duelists and ambush-priests who execute mature accounts), **the Red Auditors** (regional masters who decide when an account has ripened — timing rage for maximum yield is the whole art). Signs: feuds reigniting on anniversaries with documentary precision; duel-cults inside armies (the Aversian officer schools have a Tally problem tangled with their Militis problem); vendetta testimony that is *accurate* — the Tally's honesty is its horror.
+**Tallymen** preserve and transfer grievances. **Collectors** are duelists and ambush priests who carry out mature accounts. **Red Auditors** decide when a retaliation will yield the widest violence. Their work can be recognised in feuds that resume on exact anniversaries, duel cults within armies and vendetta testimony whose factual accuracy conceals the decision to make descendants answer for the dead.
 
 ## Relations
 
-Wrath's battlefields feed the Idol either way, so the Tally cooperates smoothly with war: free companies, succession crises, the Reformation's confessional hatreds. They regard the Grobi with professional envy (a species-wide account, self-collecting) and the Church's confession-and-absolution apparatus as organized book-burning — the Sacrament of Reconciliation is, to a Tallyman, arson in the archives.
-
-## Hooks
-
-- The Korrheim Accord's cold peace is a Tally paradise: every unfought confessional war is accruing. A Red Auditor has ruled the Brauvalis succession account *ripe*.
-- A Grenzburg Folk feud the Duke thought settled resurfaces with dates, names, and a written tally no clan admits keeping.
-- A Collector refuses a mature account for the first time in her life — and comes to the party for protection, carrying the ledger.
+Free companies, succession crises and confessional wars give the Tally opportunities to connect private injury with public violence. Its members regard the Grobi as a self-perpetuating harvest for Wrath and treat sacramental reconciliation as the unlawful destruction of a debt. These convictions make priests hearing confessions and families attempting negotiated peace particular targets.
 
 ## Shadowlands Interface
 

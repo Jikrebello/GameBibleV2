@@ -37,6 +37,18 @@ The people behind the [[Chronology of the Known World (AR Dating)]]. Each entry 
 
 [[Households of the Imperial Founding]] records Lysara's support for her son, Calvena's marriage to Veyr and death in childbirth, Miretha Ardel's resistance at Darsil, and Evara's and Ilvara's distinct household work. The same account preserves the roles of the assassins Deceran Tolm, Mavren Seneth and Corial Draven, the betrayed speaker Belisar Venn and the southern organiser Velcara. Drenoc and Morveth belong to independent Folk coalitions; Kharuz and Tavisha to the northern well resistance. None is a member of an existing signature company.
 
+## The Age of Glory
+
+[[The House of Thalion]] — **Meren I** (r. 318–286 BR), son of Evara and Velsar and adopted heir of Thalion; **Cassara I** (r. 286–263), the first woman to exercise imperial command in her own name; and **Olarion** (r. 263–247), whose purges and sudden death caused the [[The Year of Four Eagles|Four Eagles crisis]].
+
+[[The House of Veloran]] — **Samor I** (r. 246–229 BR), the river commander who won the succession war; **Tessa I** (r. 229–203), patron of municipal works who returned the Crown of Olveth; **Orent I** (r. 203–174), conqueror of the Arcelon corridor; and **Mariel I** (r. 174–151), patron of schools and the ruler whose death without a named heir ended the house.
+
+[[The Last Dynasties of the Age of Glory]] — **Elian Serrat** (r. 151–126 BR), provincial commander and negotiated successor; **Lethara I** (r. 126–101), who authorised famine relief and the resulting crown estates; **Cassen I** (r. 101–76); **Velen I** (r. 76–61); **Doran I** (r. 61–42); **Othran I** (r. 42–24); and **Othran II** (r. from 24 BR), emperor at the Redeemer boundary.
+
+**Neriah bar Sorek** (fl. 119–113 BR) — the [[The Keeper of Borrowed Grain|Jirahar administrator of the Raveth famine]]. His grain system saved towns, transferred defaulting farms to the imperial household and made their former owners dependent labourers.
+
+[[The Companions Who Entered by the Low Door - Imperial History|The Low Door Companions]] (fl. c. 96–54 BR) — Sena Varris, Oren Tal, Brana Keth, Thessa Qor, Miro Fen and Helon Var rose from service work after saving a magistrate. Their later advancement involved hostages, an unlawful raid and betrayal of a family refuge. Helon was executed after freeing condemned hostage children.
+
 ## The Age of the Redeemer
 
 

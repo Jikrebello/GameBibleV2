@@ -43,12 +43,6 @@ The gate chamber lies beneath the Second Tower ruin. It has not opened since 70 
 
 Pilgrim numbers are rising after reports of warmth beneath the gate stair. Eclessian clergy want an investigation; Jirahar custodians suspect staged prophecy or an attempt to void the charter.
 
-## Story Uses
-
-- evidence from the 70 AR siege contradicts both Church and Keeper histories;
-- a collapsed chamber contains living descendants' disputed records;
-- the gate answers one half of a matched key and remains silent to the other.
-
 ## Navigation
 
 - [[First Qiryath and the Arqeshite Exile]]

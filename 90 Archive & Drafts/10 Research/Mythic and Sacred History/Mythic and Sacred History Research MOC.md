@@ -68,7 +68,9 @@ These three author-only studies examine the late Roman Republic and preserve two
 - [[90 Archive & Drafts/10 Research/Mythic and Sacred History/Caesar's World - People, Households and Rivalries.md|Caesar’s World — People, Households and Rivalries]] studies the seven principal figures separately, alongside their families, political associates, naval commanders and provincial opponents.
 - [[90 Archive & Drafts/10 Research/Mythic and Sacred History/Atheria's Imperial Founding - Alternative Histories and Canon Review.md|Atheria’s Imperial Founding — Alternative Histories and Canon Review]] preserves both comparisons with an explicit selection notice. Qabir–Zanthir remains the royal region; the selected dynasty is developed in [[The House of Nerethan]].
 
-The [[90 Archive & Drafts/10 Research/Mythic and Sacred History/Atheria's Imperial Founding - Alternative Histories and Canon Review.md#12. Pre-promotion alignment after the Gateway integration|pre-promotion alignment]] is retained as the recommendation record. Its selected results are now readable in [[The Last Generations of the Caleran Republic]], [[The Southern Campaigns of Teren Casvilar]], [[The Wars of the Atherian Succession]] and the linked biographies. The next imperial delivery develops the wider Age of Glory, 350 BR–0 AR.
+The [[90 Archive & Drafts/10 Research/Mythic and Sacred History/Atheria's Imperial Founding - Alternative Histories and Canon Review.md#12. Pre-promotion alignment after the Gateway integration|pre-promotion alignment]] is retained as the recommendation record. Its selected results are readable in [[The Last Generations of the Caleran Republic]], [[The Southern Campaigns of Teren Casvilar]], [[The Wars of the Atherian Succession]] and the linked biographies.
+
+The wider imperial delivery is now integrated through [[Historical Atlas of the Atherian Age of Glory]]. [[Age of Glory - Authorial History and Integration Review]] records the dynastic sequence, provincial society and canonical destinations of B3-01 through B3-05. Package 2C now ends at 0 AR; the Redeemer and later imperial history remain Package 3.
 
 ## Palace aftermath and the overseas republic
 

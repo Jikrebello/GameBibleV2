@@ -52,15 +52,6 @@ Wanemoor exports timber, charcoal, rough iron, peat, reeds, lamp oil, river fish
 
 Guild burial funds and parish poor boxes matter as much as wages. A household that loses a worker can lose food, rent, and burial security in the same month. That pressure explains concealment and compromise without making violations inevitable or excusable.
 
-## Adventure Use
-
-Wanemoor supports two independent adventures:
-
-- [[The Dead Press Upward — Full Adventure]] begins in Wanenbruck and the Last Lamp ridge. Its crisis concerns violated plague burials, an opened ghoul road, and a mortal necromancer.
-- [[The Feast at Wanemoor — Full Adventure]] begins at Merewick. Its crisis concerns an isolated village, concealed sacrifice, and [[The Reed Mother]]. It does not depend upon Wanenbruck's outcome.
-
-The district can also support mine collapses, confessional relief disputes, missing timber crews, winter hunger, fen smuggling, and ducal investigations whose danger is entirely human.
-
 ## Navigation
 
 - [[The Duchy of Brauvalis Overview]]

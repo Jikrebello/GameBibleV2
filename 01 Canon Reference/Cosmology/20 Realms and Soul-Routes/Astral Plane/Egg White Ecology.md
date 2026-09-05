@@ -13,7 +13,7 @@ tags: []
 ---
 # Egg White Ecology
 
-This reference routes ecological questions to the completed Astral bestiary. It contributes no catalogue coverage.
+The Egg White supports an ecology of mobile life, patterned predators, accountable Astral persons and constructed servants. Mass and stable routes form its principal habitats, while Patron rents create relationships ranging from protection and employment to parasitism. This article describes those ecological pressures and directs individual forms to the Astral bestiary.
 
 ## Living and Patterned Continuities
 

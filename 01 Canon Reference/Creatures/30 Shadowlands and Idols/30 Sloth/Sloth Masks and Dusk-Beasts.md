@@ -27,7 +27,7 @@ manifestation_class: [fauna, mask, archmask]
 ---
 # Sloth Masks and Dusk-Beasts
 
-Sloth's ecology does not simply make people sleepy. It makes consequence feel safely distant and necessary action feel like an unreasonable demand.
+Sloth's ecology grows around neglected duties, empty routines and institutions that have mistaken the absence of disturbance for peace. Drowse-Leeches consume urgency, Hush-Walkers preserve work after its purpose has disappeared, and Dusk Colossi arise from the accumulated abdication of whole settlements or offices. Their influence makes consequence feel distant and necessary action seem like an unreasonable demand.
 
 ## Drowse-Leeches
 
@@ -40,7 +40,6 @@ Drowse-Leeches are soft, translucent Shadow fauna that hang in the air like stri
 - **Weakness and permanent defeat:** complete or consciously reassign the duty, name the consequence aloud, and expose the brood to dawn or White Flame while its host acts. Killing a leech without addressing the duty hatches its stored delay into several young.
 - **Materials:** dried leech-skin can preserve sleep during a crisis but also dull the first warning after waking.
 - **Regional names:** later-worms, soft bells, dusk ribbons, and duty drinkers.
-- **Story uses:** disable a fortress without infiltrators; hide a murder behind universal postponement; tempt exhausted heroes with genuinely needed rest that has no waking term.
 
 ## Hush-Walkers
 
@@ -53,7 +52,6 @@ Hush-Walkers are Masks shaped like quiet workers whose faces are smooth except f
 - **Weakness and permanent defeat:** identify the office's actual purpose, put a living bearer in authority, complete the neglected work, and break the schedule-object that lets performance replace duty. Destroying the building merely moves the routine to the evacuation camp.
 - **Materials:** the tiny face-door can replay every decision passed away within the institution.
 - **Regional names:** quiet clerks, closed servants, dusk ushers, and the always-present.
-- **Story uses:** run a hospital that no longer feeds patients; maintain an abandoned prison whose inmates still obey the bell; help a corrupt official by ensuring every complaint is processed perfectly and answered never.
 
 ## Dusk Colossi
 
@@ -66,7 +64,6 @@ Dusk Colossi are autonomous Archmasks built from the accumulated abdication of a
 - **Weakness and permanent defeat:** restore the institution's essential duty through several independent bearers, permit honest rest without surrender, wake those used as ballast, and strike the Colossus while the founding task is being completed. Mere noise or forced wakefulness feeds its claim that action is cruelty.
 - **Materials:** dusk stone can quiet pain or panic for minutes; prolonged use erodes initiative.
 - **Regional names:** still giants, sleeping ministries, evening fathers, and the unrisen.
-- **Story uses:** protect refugees so completely that none may leave to aid their kin; embody a kingdom's refusal to answer invasion; offer peace to a traumatized town at the price of abandoning every missing person.
 
 ## Navigation
 

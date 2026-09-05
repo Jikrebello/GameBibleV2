@@ -13,7 +13,7 @@ tags: []
 ---
 # Lives of the Concord - The Common Spine
 
-There is no single Sestaran life. The shared pattern is movement between cities whose rights do not travel with the person.
+The inhabitants of the Sestaran Concord belong first to particular cities, wards, households, guilds and ships. Movement among the seven cities gives their lives a shared pattern because citizenship, occupation and legal protection change at each boundary. Farmers, artisans, sailors, soldiers, factors and foreign residents consequently experience the Concord through the rights they possess in one place and must renegotiate in another.
 
 ## City Before Concord
 
@@ -42,10 +42,6 @@ The Redeemer's feasts, saints of road and sea, guild patrons, civic victories, f
 - [[Lives of Castara]]
 - [[Lives of Orsena]]
 - [[Lives of Vardessa]]
-
-## Design Rule
-
-Place a character by city, legal status, livelihood, household or faction, faith, and the right they possess in one jurisdiction but lose in another. Solvency matters, but it is not the only human relationship.
 
 ## Navigation
 

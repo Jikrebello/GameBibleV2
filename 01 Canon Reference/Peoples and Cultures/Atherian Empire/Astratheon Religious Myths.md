@@ -13,7 +13,7 @@ tags: []
 ---
 # Reliability Note
 
-These are Atherian sacred stories and cultural evidence, not literal authorial history. In particular, the myths of Thanatos accepting bargains, lending souls, cursing rivals, or belonging to the Star Children are imperial stories about [[The Boatman]], whose actual commission permits none of those acts.
+These Atherian sacred stories preserve cultural memory rather than a literal history of the powers they describe. The myths of Thanatos accepting bargains, lending souls, cursing rivals or belonging to the Star Children are imperial traditions concerning [[The Boatman]], whose actual commission permits none of those acts.
 
 ### **1. The Rivalry of Astaroth and Orionis: The Hunt for the Blood Moon Stag**
 One of the most famous tales in the Astratheon canon is the bitter rivalry between **Astaroth**, god of war and chaos, and **Orionis**, the god of the hunt and wilderness. Their enmity culminated in the fabled **Hunt for the Blood Moon Stag**, a creature of immense power that could only be hunted during a rare celestial alignment, when **Lunara** bathed the earth in her blood-red moonlight.

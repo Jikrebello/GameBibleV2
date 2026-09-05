@@ -13,29 +13,25 @@ tags: []
 ---
 # The Devoted
 
-**Lust's network. Mask: the Beloved** — not appetite but counterfeit love: devotion-capture.
+The Devoted are cult households and personal followings shaped by the Beloved, a Mask of Lust that counterfeits faithful love. Their leaders offer intimate recognition and belonging, then make those gifts conditional upon isolation from every competing bond. The network is especially dangerous during the rescue of its members, who often defend the person controlling them.
 
 ## Doctrine and Method
 
-The Beloved offers exactly what the Flame offers — to be perfectly known and perfectly loved — minus the freedom. Its network builds **adoration architectures**: charismatic "living saints" whose followers' love becomes a leash; cult households where belonging is dosed like a drug and withdrawal enforced by orchestrated coldness; obsession spirals engineered person by person (the Beloved's cells keep *files* — what each mark longs to be seen as, and precisely how to see them that way). The end-state devotee is unmistakable: someone who has traded every other bond for one, and defends the trade with the ferocity of a drowning grip. **Its victims are its wall** — raiding a Devoted house means fighting people who beg you to stop rescuing them, which is why Inquisition doctrine rates the Devoted the worst extraction work in the canon.
+The Beloved promises perfect knowledge and perfect love while removing the freedom that gives either meaning. Charismatic “living saints” gather followers whose affection becomes a means of control. Within cult households, handlers alternate warmth with orchestrated coldness and record the identity each recruit most longs to possess in another person's eyes. This attention is then withdrawn whenever the recruit maintains an outside friendship, loyalty or family tie.
+
+A fully dependent devotee has exchanged many relationships for one controlling attachment and may resist rescue with desperate violence. Eclessian inquisitors consequently regard entry into a Devoted household as one of their most difficult forms of extraction. The people inside remain victims and moral agents; their participation in defending the household does not make the coercion unreal.
 
 ## Structure
 
-**The Adored** (the charismatic centers — some cynical operators, most sincerely convinced of their own light, which the Beloved much prefers); **Handlers** (who manage each Adored's court and administer the coldness); **Matchmakers** (the outreach arm — they find the lonely, and the world manufactures the lonely at scale). Above them, a circle the files call **the First Loved**, about whom interrogations produce only weeping.
+The **Adored** stand at the centre of each following. Some are deliberate frauds, although most have come to believe in their own sanctity. **Handlers** regulate access and punishment around them, and **Matchmakers** identify lonely or socially displaced recruits. Captured records also mention a circle called **the First Loved**. Interrogations have established little about its membership or authority.
 
 ## Signs
 
-A community's affections all bending toward one person; language shifting from "we believe" to "they know me"; estrangements in clusters (the Sacrament here is implicit: the Adored's love is proven by what you cut off for it); and the diagnostic the discernment-tradition trusts — **jealousy in the doctrine.** Real sanctity survives the devotee loving others. The Beloved's counterfeits never do.
+Signs include the concentration of a community's affection upon one person, a shift in speech from shared belief to personal recognition and several estrangements occurring together. Devoted teaching treats each abandoned relationship as proof of the Adored's love. Discernment traditions therefore look for jealousy within the doctrine: a holy teacher can endure the disciple's love for others, while a counterfeit demands its removal.
 
 ## Relations
 
-The Making of Saints protocols exist half because of them: an Adored with genuine fed power passes casual inspection, and the Four Marks have been counterfeited on Devoted skin twice in the relic courts' records. The Weeping Courts subcontract to them; the Hollow Flame's Closed Hand sacrament and the Beloved's cut-off rituals are so similar the Inquisition keeps a joint file, which both networks find insulting.
-
-## Hooks
-
-- A Freeflame congregation's tested elder is an Adored — and passing every test, because the righteousness is real and the harvesting is happening anyway, one layer down.
-- A noble house's heir has stopped answering letters; the ransom demanded is not money but *attendance*.
-- In the Grenzburg labor camps, someone is being called "the little saint of the timberline" — and Prelate Caestus's inquiry has just been lovingly, comprehensively stonewalled by four hundred witnesses.
+The Devoted helped shape formal investigations of sainthood because an Adored sustained by genuine supernatural power can survive casual inspection. Eclessian relic courts record two attempts to counterfeit the Four Marks on Devoted bodies. The Weeping Courts sometimes employ their handlers, and inquisitors compare their severing rites with the Hollow Flame's Sacrament of the Closed Hand despite the hostility between the two movements.
 
 ## Shadowlands Interface
 

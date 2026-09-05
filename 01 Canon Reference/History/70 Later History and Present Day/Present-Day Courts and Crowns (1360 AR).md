@@ -14,7 +14,7 @@ tags: []
 ---
 # Present-Day Courts and Crowns (1360 AR)
 
-The authoritative register of who rules where in 1360 AR. Companion to [[Present-Day Political Board]] and [[Named Figures of the Known World]].
+The courts and crowns of 1360 AR govern a world divided among successor empires, confessional states, city republics, mobile coalitions and dispersed communal institutions. This survey identifies the principal rulers and the governments through which their authority operates. [[Present-Day Political Board]] explains their immediate conflicts, while [[Named Figures of the Known World]] provides the wider register of living and historical people.
 
 ## Eclessia
 

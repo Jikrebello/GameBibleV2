@@ -23,7 +23,7 @@ He could be generous under guest-right and ruthless outside it. Captive sale, pu
 
 ## Death and Grave
 
-Qarayel died in 1303, undefeated and without an accepted successor. Burial riders concealed the grave and did not return. A thousand horses confused the ground. The Moon Horde forbids the search because discovery would become a claim to universal rule; the actual site remains unresolved authorial history.
+Qarayel died in 1303, undefeated and without an accepted successor. Burial riders concealed the grave and did not return, while a thousand horses confused the ground. The Moon Horde forbids the search because discovery would become a claim to universal rule. The grave has never been located.
 
 ## Legacy
 

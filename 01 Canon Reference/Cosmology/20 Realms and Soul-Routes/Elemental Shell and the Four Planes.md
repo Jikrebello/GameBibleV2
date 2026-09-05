@@ -84,7 +84,7 @@ Anchored platforms recover four strategic products:
 - **stormglass:** charge, vibration, and signal held in prepared glass or wire;
 - **weight-seed:** compressed structure used in rapid fortification, mining, foundations, and armor work.
 
-Extraction is not authorially sinful or inherently damaging. It is a technique. Forced labor, unsafe overdraw, concealment, indiscriminate weapons, and exposing civilians to failure remain morally answerable human choices.
+Extraction is a technique rather than a moral power in itself. Its human uses include forced labour, unsafe overdraw, concealed failures and indiscriminate weapons, for which the people and institutions directing it remain responsible.
 
 ## Navigation
 

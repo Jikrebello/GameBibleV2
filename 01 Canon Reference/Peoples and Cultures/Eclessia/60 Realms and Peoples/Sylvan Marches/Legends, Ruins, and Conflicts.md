@@ -15,6 +15,8 @@ tags: []
 ---
 # Legends, Ruins, and Conflicts
 
+The Sylvan Marches contain the remains of several distinct settlements, wars and supernatural encounters. Atherian works stand beside Folk memorial grounds, sealed magical installations and fortresses built by later Eclessian rulers. Competition for these places has drawn marcher towns, ranger companies, Folk communities and relic hunters into recurring conflict. Their ruins preserve useful knowledge and continuing dangers, while local legends often combine structures separated by many centuries.
+
 ## The Ruin Register
 
 Marcher tradition once attributed every ruin to one forgotten civilization. The surviving evidence distinguishes several layers:

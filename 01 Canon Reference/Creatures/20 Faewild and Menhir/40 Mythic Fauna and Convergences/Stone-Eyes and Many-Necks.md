@@ -25,7 +25,7 @@ related_magic: [Menhir law, alchemy]
 ---
 # Stone-Eyes and Many-Necks
 
-These predators demonstrate two different Menhir pressures carried by biological life: form fixed too rigidly and form multiplied faster than injury can contain it.
+Stone-Eyes and Many-Necks are biological predators altered by two different combinations of Menhir pressure. Stone-Eyes force living tissue towards mineral stillness in dry uplands and quarries. Many-Necks inhabit warm rivers and wetlands, where severe injury causes their bodies to branch and grow new feeding heads. Both reproduce as animals and die when their central bodies are destroyed.
 
 ## Stone-Eyes
 
@@ -54,14 +54,6 @@ Shell-fire variants are conditions applied to a Many-Neck, not a separate Faewil
 Stone-Eye glands supply controlled calcifying reagents. Many-Neck bud flesh supports dangerous regeneration research. Both trades are heavily regulated where authorities possess the capacity to regulate them.
 
 Names include stone-eye, cockatrice, quarry basilisk, still-gaze, many-neck, reed hydra, delta crown, and seven-mouth.
-
-## Story Hooks
-
-- A quarry crew sells statues as art before learning they are recent victims.
-- A Many-Neck grows beneath a warm city drain where repeated culling only increases its heads.
-- A healer needs a Stone-Eye gland before a noble's calcification becomes irreversible.
-- Warlocks deliberately Shell-scar a captive Many-Neck for siege use.
-- A village protects a juvenile Stone-Eye because its territory suppresses a worse burrower.
 
 ## Navigation
 

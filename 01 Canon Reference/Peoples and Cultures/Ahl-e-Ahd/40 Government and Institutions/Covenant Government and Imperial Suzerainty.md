@@ -13,6 +13,8 @@ tags: []
 ---
 # Covenant Government and Imperial Suzerainty
 
+The Covenant is governed through an imperial court whose commands pass through provincial rulers, military households, jurist colleges, municipal councils and local compacts. Sultan-Caliph Marzuq III possesses the highest recognised authority in 1360 AR, but his power depends upon institutions that collect revenue, maintain water and roads, supply armies and translate decrees into local practice. Covenant government consequently combines a strong claim to universal suzerainty with extensive negotiation among offices, communities and hereditary interests.
+
 ## The Sublime Threshold
 
 Sultan-Caliph Marzuq III claims to stand at the threshold between sacred law and temporal government. Decrees require his seal, treasury registration, and competent witnesses. In practice the palace household, Guard, jurist colleges, provincial patrons, and tax contractors negotiate every command.
@@ -38,4 +40,3 @@ The Qahirids avoid a new seal dispute through brutal clarity: one prince succeed
 
 - [[The Qahirid Suzerainty and Iqashar]]
 - [[Ahl-e-Ahd Caliphates]]
-

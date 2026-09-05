@@ -16,6 +16,8 @@ tags: []
 > _"They were called not because they were worthy, but because they were willing."_  
 > —_Commentaries of Jareth, Book I_
 
+The Companions were the thirteen people called to accompany Isfir during his earthly ministry. Ischar the Silvered betrayed him and was struck from the roll; the survivors left his seat empty and appointed no replacement. The remaining twelve became central to the earliest Redeemer communities, although their commissions, travels and deaths later acquired different meanings in Eclessian and Thalmyric tradition.
+
 ## The Roll
 
 The Redeemer called **thirteen** to walk with him. One — **Ischar the Silvered** — sold him and was struck from the roll; the survivors refused ever to fill his seat. So the faithful, superstitious of both numbers, count neither twelve nor thirteen: liturgically they are simply **the Companions**, and the struck seat is kept empty at every commemorative table (**the Rite of the Empty Seat**, at which Ischar's name is spoken once a year, so that it can be refused again).

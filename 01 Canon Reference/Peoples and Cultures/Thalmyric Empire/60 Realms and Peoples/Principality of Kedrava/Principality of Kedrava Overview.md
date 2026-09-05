@@ -37,10 +37,6 @@ Refuge monasteries preserve plain timber churches, painted interiors, granary ca
 
 Central taxation, depopulation, monastery privilege, Saltborn service rights, militia independence, Ättar raiding, and resentment that Veridun celebrates Kedravan sacrifice while investing elsewhere.
 
-## Story Uses
-
-Mountain assemblies, refuge tunnels, cold pilgrimages, coastal beacons, village feuds, monastery granaries, and evidence that a celebrated imperial victory belonged to local fighters.
-
 ## Navigation
 
 - [[01 Canon Reference/History/60 Fall and Successor Empires/The Refuge and the Rise of Veridun.md|The Refuge and the Rise of Veridun]]

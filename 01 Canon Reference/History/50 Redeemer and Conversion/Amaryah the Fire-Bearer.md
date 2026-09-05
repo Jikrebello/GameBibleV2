@@ -55,10 +55,6 @@ Honored, not invoked. She is "the first of the kindled and the pattern of every 
 
 The condemned remnant, surviving under Covenant contract in Zanthir and the old Velian cities. They honor her deeply — as the mother of the man the Fire crowned. Their standing provocations: married clergy, no images at all, and above all their liturgy — prayed to this day **in the Jirahar dialect the Redeemer himself spoke**, while both great churches worship in imperial Atherian. The despised heretics pray in his mother-tongue, and know it, and mention it.
 
-## Story Use
-
-The Vessing ruling as a live political bomb; Bruckmoor-style counterfeit apparitions as investigation quests; the Veil of Veridun contested by Eclessian polemicists ("mass delusion of a starving city"); Velian Church communities as tolerated-yet-despised minorities in Covenant and frontier settings; the Solana–Amaryah–Calira ember chain as relic-heist material of the highest order.
-
 ## Navigation
 
 - [[Timeline MOC]]

@@ -13,7 +13,7 @@ tags: []
 ---
 # The Holy Fire
 
-This note records Thalmyric doctrine and practice concerning the White Flame. The authorial source of truth remains [[White Flame Doctrine]].
+This article describes Thalmyric doctrine and practice concerning the White Flame. [[White Flame Doctrine]] gives the broader account of the Flame's nature and limits.
 
 ## Thalmyric Teaching
 

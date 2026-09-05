@@ -72,7 +72,14 @@ The civilized world dates from the execution and resurrection of Isfir the Redee
 ## The Atherian Imperial Age
 
 - **c. 350 BR — Unification of Atheria.** [[Aurelius Thalion]] secures Caleran and concentrates supreme command, standing military pay, provincial appointments and taxation in the imperial settlement.
-- **c. 350 BR–0 — Age of Glory.**
+- **350–318 BR — [[The Later Reign of Aurelius Thalion]].** Demobilisation, provincial appointments, regular assessments and adoption of Meren turn the founding victory into a continuing government.
+- **318–247 BR — [[The House of Thalion]].** Meren I and Cassara I consolidate the empire; Olarion's purges and sudden death end the house.
+- **247–246 BR — [[The Year of Four Eagles]].** Four claimants fight through the capital, river army, eastern fleet and western military districts. Samor Veloran prevails.
+- **246–151 BR — [[The House of Veloran]].** Provincial rulers develop municipal government, roads and the eastern settlement. The Crown of Olveth responds in 219; the Arcelon campaign and road follow c. 190–182.
+- **151–61 BR — Serrat dynasty.** Provincial citizenship expands. The Raveth famine of 119–113 preserves towns while transferring farms and labour to the imperial estate. The Low Door Companions rise c. 96–54.
+- **61–24 BR — Doran and Othran I.** Military restoration and court marriage establish the last pre-Redeemer house. Isfir is born in 33 BR.
+- **24 BR–0 — Othran II to the Redeemer boundary.** The empire remains politically intact; its response to the Redeemer continues in the following age.
+- **c. 350 BR–0 — [[Historical Atlas of the Atherian Age of Glory|Age of Glory]].**
 
 ## The Age of the Redeemer
 

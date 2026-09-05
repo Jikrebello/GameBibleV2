@@ -46,7 +46,7 @@ These contacts begin early harbor braids and several connected post-Giant recove
 
 ### Northern Fission, c. 1950–1750 BR
 
-The continuing **Near-Glass camp continuum** is an authorial label, not a lost nation. Water scarcity, distance, marriage, trade, raiding and reciprocal contact with older desert communities and Orphaned Tarkhan make one camp system increasingly unworkable.
+Historians use **Near-Glass camp continuum** for the related camps that remained close to the desert after the southern separation. It was never the name of a lost nation. Water scarcity, distance, marriage, trade, raiding and reciprocal contact with older desert communities and Orphaned Tarkhan gradually made one camp system unworkable.
 
 - **Proto-Jirahar** develop portable courts, translocal registers, protected burial obligation, route memory and later tower towns whose legitimacy does not depend upon owning all surrounding land.
 - **Proto-Ahl-e-Ahd** develop defended wells, territorial oath-coalitions, guest-law, blood-price, rescue debt and public enforcement. Older desert and Tarkhan people join these communities without becoming Ark-derived by that fact.

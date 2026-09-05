@@ -54,10 +54,6 @@ The Blackened Guard protects the state; the Ironclad Siege Corps operates bombar
 - Old ducal loyalists, displaced Church interests, and foreign financiers seek leverage.
 - Reformist certainty risks reproducing the coercion it overthrew.
 
-## Story Uses
-
-Industrial espionage, labor organization, forbidden relics in foundry foundations, weapon smuggling, Freeflame trials, Bank coercion, and ducal restoration plots.
-
 ## Navigation
 
 - [[Conflicts and Underground Movements]]

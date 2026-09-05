@@ -13,7 +13,7 @@ tags: []
 ---
 # Social and Political Structure
 
-The Jirahar possess common law and institutions without a common sovereign.
+The Jirahar possess common law and institutions without a common sovereign. Households provide the first setting for worship, descent, education and care; travelling companies and protected urban quarters govern shared work; tower councils maintain settled communities. Keepers and the High Keeper coordinate learning and difficult rulings across these bodies, but none can command the diaspora as a state.
 
 ## Household
 

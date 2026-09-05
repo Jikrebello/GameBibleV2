@@ -60,14 +60,6 @@ Ash road-builders try to steer migrations away from depots. Moon wind-speakers a
 
 Grass-Tarkhan speakers distinguish broad-horn cows, black-brow bulls, and long-road herds by age and migration. Castaran traders shorten all of them to **great-horns**; southern caravaners use **walking walls** for a herd in motion.
 
-## Story Uses
-
-- a depot has blocked the only safe calving route;
-- a herd moves weeks early because something follows it;
-- rival clans claim the same legal first strike;
-- a stampede threatens an annual peace gathering;
-- diseased animals reach a horse pasture before scouts recognize the signs.
-
 ## Navigation
 
 - [[Grass-Tarkhan]]

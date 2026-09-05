@@ -66,14 +66,6 @@ Silver, consecration, and White Flame can disrupt manifested residue, but observ
 
 Cold guest, stone widow, bench-cry, old tenant, after-house, and wake voice are local names. “Ghost” remains an everyday word covering residue, bound souls, counterfeits, and things witnesses never understood.
 
-## Story Hooks
-
-- a barrow-shade guards a boundary no current map records;
-- a Keener at a trial strengthens whenever the true beneficiary lies;
-- a house echo treats a visiting child as the missing heir;
-- a family recognizes private memories and assumes the soul has returned;
-- releasing a haunting destroys the only surviving testimony to a public crime.
-
 ## Navigation
 
 - [[Residue Dead Overview]]

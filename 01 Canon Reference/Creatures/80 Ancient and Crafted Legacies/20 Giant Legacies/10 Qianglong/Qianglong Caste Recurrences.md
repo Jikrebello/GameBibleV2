@@ -36,7 +36,6 @@ Armored reconstructions assembled around preserved combat sequences and residue 
 - **Tactics and failure:** they identify rank, isolate the strongest apparent opponent, copy successful maneuvers, and rotate damaged limbs with stored replacements. Conflicting victory conditions can lock them into repeating duels.
 - **Permanent defeat and materials:** destroy the posture archive, command dais, and replacement vault together. Salvage includes adaptive armor joints, Giant weapon measures, and residue plates unsafe for human use.
 - **Regional names:** *vault kings*, *dead champions*, *the drilling bronze*.
-- **Story uses:** survive a vault that promotes victors into its next opposing rank; recover a campaign map from a champion's posture archive; stop a war college from installing a recurrence core in human armor.
 
 ## Famine Stewards
 
@@ -46,7 +45,6 @@ Granary engines built to preserve the imperial order by classifying bodies, labo
 - **Tactics and failure:** they seal stores, divert water, mark “surplus” people, release preservative gases, and animate loading frames. Damaged classification produces lethal abundance in one chamber and starvation in another.
 - **Permanent defeat and materials:** replace or erase the caste table, break its distributed measures, and manually equalize the stores. Salvage includes self-balancing scales, seed vaults, and preservation salts.
 - **Regional names:** *hunger judges*, *granary mouths*, *the thin stewards*.
-- **Story uses:** rescue a settlement admitted only as stored labor; decide whether to destroy a functioning famine vault whose rules kill outsiders; trace modern forged ration marks to a reopened steward.
 
 ## Mortuary Recurrents
 
@@ -56,7 +54,6 @@ Administrative bodies printed from funerary records whenever a Qianglong office 
 - **Tactics and failure:** they invoke doors, corpse stores, servitor castes, and legal traps before fighting directly. Destroyed bodies are reprinted while the office matrix remains.
 - **Permanent defeat and materials:** close the office, destroy all matrices and reserve bodies, or rewrite its jurisdiction beyond any valid subject. Salvage includes archive ceramics, seal-bones, and reliable fragments of Giant administration.
 - **Regional names:** *clay mandarins*, *office dead*, *second officials*.
-- **Story uses:** question several contradictory copies about one massacre; prevent a scholar from being classified as the next office body; close a mortuary system without losing the only route through a buried city.
 
 ## Plague-Gardeners
 
@@ -66,7 +63,6 @@ Purpose-grown organisms that cultivate disease ecologies as medicine, population
 - **Tactics and failure:** they release carrier swarms, graft diseased tissue, retreat through living vents, and alter local immunity. Injury can trigger indiscriminate spore release.
 - **Permanent defeat and materials:** sterilize brood matrices, destroy seed tissues, and quarantine every carrier cycle. Carefully handled glands yield antitoxins, graft tissue, and dangerous research cultures.
 - **Regional names:** *fever shepherds*, *garden surgeons*, *green masks*.
-- **Story uses:** extract an antidote without waking the broader garden; stop a modern ruler cultivating caste plague; decide whether a suffering surviving Gardener can be sedated and studied rather than burned alive.
 
 ## Moral Ruling
 

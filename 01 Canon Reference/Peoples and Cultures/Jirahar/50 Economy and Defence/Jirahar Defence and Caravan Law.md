@@ -13,7 +13,7 @@ tags: []
 ---
 # Jirahar Defence and Caravan Law
 
-The Jirahar maintain no common army. Defence belongs to towers, companies, chartered watches, hired escorts, and negotiated protection.
+Jirahar communities defend themselves through tower watches, travelling companies, hired escorts and negotiated protection from host powers. The diaspora maintains no common army, and military authority expands only for a particular journey or emergency. Caravan law therefore defines who commands during danger, what may be requisitioned and how officers must answer for abandoned people, property and violence once safety has been restored.
 
 ## Convoy Law
 

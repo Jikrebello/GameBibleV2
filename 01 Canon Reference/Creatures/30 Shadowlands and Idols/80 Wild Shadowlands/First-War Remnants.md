@@ -40,7 +40,6 @@ Broken Standards are moving banners, weapons, insignia, and command calls whose 
 - **Weakness and permanent defeat:** identify the dead commission or betrayal it repeats, lower rather than capture the Standard, separate followers from its mark, and unmake the central insignia at a place belonging to neither army.
 - **Materials:** standard thread can reveal old routes of the rebellion but tries to classify every bearer.
 - **Regional names:** first banners, side-makers, war cloth, and empty colors.
-- **Story uses:** turn a ruin expedition into two compulsory armies; reveal an ancient route into an Idol heartland; attach itself to a modern crusade whose symbols resemble the lost host.
 
 ## Commission Husks
 
@@ -53,7 +52,6 @@ Commission Husks are discarded manifestation-bodies from orders that entered the
 - **Weakness and permanent defeat:** reconstruct the bounded commission, fulfill or formally terminate it under truthful witness, then dismantle the empty body. Treating the Husk as a fallen angel lets its function recruit an apparent personality.
 - **Materials:** commission splinters can stabilize one matching task but are dangerous when used outside its original limit.
 - **Regional names:** empty angels, wing shells, old offices, and command skins.
-- **Story uses:** guard refugees dead since creation; mistake a modern saint for its missing bearer; preserve the only reliable account of an Idol's original commission.
 
 ## Unhoused Witnesses
 
@@ -66,7 +64,6 @@ Unhoused Witnesses are autonomous Shadow persons formed from native beings and m
 - **Weakness and permanent defeat:** each Witness requires an individual anchor and chosen purpose. A culpable Witness can be defeated by exposing the testimony it falsified, ending the refuge or route that sustains it, and confronting it as an autonomous person rather than a relic.
 - **Materials:** witness tokens preserve one scene from a nonhuman viewpoint but cannot supply a complete cosmology.
 - **Regional names:** houseless ones, old witnesses, camp-between, and those-without-a-face.
-- **Story uses:** guide mortals through an Idol war for a dangerous price; expose a church cosmology as partly wrong without vindicating the Idols; protect a refugee court while sacrificing outsiders to keep it hidden.
 
 ## Navigation
 

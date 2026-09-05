@@ -13,7 +13,7 @@ tags: []
 ---
 # The Making of the Covenant Peoples
 
-The Covenant was made by roads, conversion, conquest, marriage, resettlement, military service, and shared courts. It did not descend from one tribe unchanged.
+The peoples of the Covenant formed through roads, conversion, conquest, marriage, resettlement, military service and the spread of shared courts. Ahdari traditions supplied much of the early religious and legal vocabulary, while Iqashari, Qahuri, Qazmari, Zanthiri, Velian and other societies retained distinct ancestries and regional institutions. Ahl-e-Ahd identity consequently describes a wide religious and civilisational allegiance rather than descent from one ancient tribe.
 
 ## The Ahdari Foundation
 

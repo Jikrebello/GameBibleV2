@@ -62,13 +62,6 @@ Teeth, scar tissue, and the small first-stage gland can identify diet, host rela
 
 Folk frontier speech uses **brush-Grobi**; Ättar hunters say **small-stage**; some Eclessian soldiers use **tunnelers** regardless of actual role. Goblin is the common creator and trade name.
 
-## Story Uses
-
-- Goblin scouts map a winter road for an orc leader while quietly preparing a route of escape.
-- A food cache lets a nuisance band begin changing stage faster than frontier estimates allow.
-- A survivor thought dead follows the party to recover a captured clutch-mate.
-- Deliberately poisoned refuse turns a defensive measure into an atrocity and a wider contamination crisis.
-
 ## Navigation
 
 - [[Bestiary MOC]]

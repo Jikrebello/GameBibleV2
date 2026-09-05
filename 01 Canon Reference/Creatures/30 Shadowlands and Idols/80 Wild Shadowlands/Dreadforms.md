@@ -40,7 +40,6 @@ Isolation Stalkers are long-limbed, soundless predators visible only when no oth
 - **Weakness and permanent defeat:** establish reciprocal sight or call-and-response, mark the missing person's route, and corner the Stalker where two witnesses can describe it simultaneously. Killing it alone leaves no proof and permits recurrence.
 - **Materials:** a dried eye-film shows the last place where someone was unnoticed.
 - **Regional names:** no-one beasts, behind-men, lone shadows, and second sleepers.
-- **Story uses:** stalk a hermit who chose solitude without wrongdoing; turn a rescue into a witness puzzle; infest a prison where solitary confinement is ordinary policy.
 
 ## Helplessness Choirs
 
@@ -53,7 +52,6 @@ Helplessness Choirs are Masks formed from many mouths suspended in a dark membra
 - **Weakness and permanent defeat:** perform one materially effective rescue or protective act, name its limits honestly, recover the first ignored warning, and break the acoustic anchor. Empty encouragement cannot overcome a Choir built from real failure.
 - **Materials:** throat membranes preserve suppressed warnings and can provide testimony after careful separation.
 - **Regional names:** no-help choirs, mourning walls, surrender songs, and many mouths.
-- **Story uses:** conceal survivors beneath a disaster by convincing rescuers the collapse is final; haunt a city after a failed uprising; force heroes to choose one achievable rescue instead of promising everyone.
 
 ## Rejection Mimes
 
@@ -66,7 +64,6 @@ Rejection Mimes are autonomous Shadow persons that take the form an observer bel
 - **Weakness and permanent defeat:** establish a truthful boundary with a real route for appeal or mercy, expose the staged rejection, restore the person used as exemplar, and deny the Mime both indiscriminate welcome and indiscriminate exclusion.
 - **Materials:** mime-skin records every identity the local community considered inherently unworthy.
 - **Regional names:** shut-door saints, unwelcome guests, last applicants, and threshold mockers.
-- **Story uses:** exploit a town facing genuine infiltration; impersonate a persecuted person to provoke backlash; offer an exile belonging only if they become another community's gatekeeper.
 
 ## Navigation
 

@@ -15,7 +15,7 @@ tags: []
 ---
 # The War of the Burning Banners
 
-The Burning Banners were the wars and settlements by which independent refuge armies accepted Aetherion command before the Caleran campaign.
+The War of the Burning Banners was the series of campaigns and negotiated settlements through which the refuge armies of the Thalmyric highlands accepted Aetherion command between 922 and 949 AR. Their leaders controlled separate valleys, monasteries, roads and military households, and differed over whether reconquest or local independence should guide them. Caedros combined force, marriage, hostages and promises of restored land to create the army that later descended upon Caleran.
 
 ## The Banner Leagues
 

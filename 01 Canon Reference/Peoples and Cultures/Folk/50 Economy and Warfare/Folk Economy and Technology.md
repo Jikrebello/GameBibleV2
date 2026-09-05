@@ -13,7 +13,7 @@ tags: []
 ---
 # Folk Economy and Technology
 
-There is no single Folk technological level. Access follows ore, charcoal, roads, political scale, trade, and local taboo.
+Folk economies range from remote forest households using stone, bone and limited iron to fortified leagues capable of producing mail, mills, wagons and substantial earthworks. Access to ore, charcoal, roads and foreign trade shapes this variation, as do local prohibitions upon particular places and materials. Sophisticated carpentry, preservation, textiles and landscape management appear at every level of metal production.
 
 ## Regional Gradient
 
@@ -40,4 +40,3 @@ The Folk have no universal serf class, but inequality is real. Cattle-poor house
 - [[Folk Architecture and Settlement]]
 - [[Folk and the Wider World]]
 - [[The Folk Overview]]
-

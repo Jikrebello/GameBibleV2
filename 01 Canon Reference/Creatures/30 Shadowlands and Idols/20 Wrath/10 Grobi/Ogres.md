@@ -64,13 +64,6 @@ Ogre tendon, hide, dense bone, and fourth-stage gland tissue have siege, surgica
 
 Folk settlements use **gate-Grobi**; Ättar warbands say **heavy-stage**; Eclessian soldiers use **ogre** and **wall-breaker** interchangeably.
 
-## Story Uses
-
-- A war-chief spends an ogre's body as a disposable ram and provokes a succession struggle.
-- A starving ogre remembers a winter corridor the current host has never seen.
-- Human officers propose forced labor with a captive whose intelligence they publicly deny.
-- A presumed ogre siege is actually a warband trying to stop its heavy stage from becoming a troll.
-
 ## Navigation
 
 - [[Bestiary MOC]]

@@ -65,7 +65,7 @@ These are the world's received stories, not seventy-five certificates that every
 
 ## Atherian Imperial Age
 
-- [[G-09 - The Companions Who Entered by the Low Door|The Companions Who Entered by the Low Door]] — provincial Atherian garrisons; c. 350–33 BR; Age of Glory.
+- [[G-09 - The Companions Who Entered by the Low Door|The Companions Who Entered by the Low Door]] — provincial Atherian garrisons; c. 350–33 BR; Age of Glory. [[The Companions Who Entered by the Low Door - Imperial History|The historical account]] places the principal company at Lacaris, c. 96–54 BR.
 
 ## The Age of the Redeemer
 

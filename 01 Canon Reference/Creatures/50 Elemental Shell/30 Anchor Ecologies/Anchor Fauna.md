@@ -34,7 +34,6 @@ Anchor fauna are recurring Shell patterns selected by industrial conditions. The
 - **Tactics and failure:** swarms consume forge-charge, leap across hot tools, and vent stolen heat when crushed. An untreated colony can ignite an entire maintenance gallery.
 - **Permanent defeat and materials:** cool and strip the affected line, change the exhaust cadence, and remove every heat-bead. Collected beads serve as emergency igniters and forge assays.
 - **Regional names:** *red lice*, *furnace ticks*, *sparkseed*.
-- **Story uses:** purge a colony during a timed shutdown; discover sabotage hidden behind a genuine infestation; harvest enough live beads to relight a stranded platform.
 
 ## Pressure Eels
 
@@ -42,7 +41,6 @@ Anchor fauna are recurring Shell patterns selected by industrial conditions. The
 - **Tactics and failure:** they burst from seals, coil around limbs, force fluid through armor gaps, and flee toward the highest pressure reserve. Killing one carelessly can rupture the pipe that frames it.
 - **Permanent defeat and materials:** isolate the loop, equalize it, flush mineral residue, and repair its timing valve. Their films make pressure-sensitive seals and leak tracers.
 - **Regional names:** *pipe snakes*, *well whips*, *blue cords*.
-- **Story uses:** clear a flooded intake without losing its stored brine; trail an eel to an illegal branch line; carry a captured pattern as a living pressure gauge during a delve.
 
 ## Storm Kites
 
@@ -50,7 +48,6 @@ Anchor fauna are recurring Shell patterns selected by industrial conditions. The
 - **Tactics and failure:** they ride overhead charge, cut exposed wire, steal signal pulses, and dive through metal ranks as arcs. A grounded kite can discharge through every linked conductor.
 - **Permanent defeat and materials:** detune its signal loop, ground the charge outside the platform, and replace the resonant vane that reseeds it. Intact remnants yield storm-thread and signal foil.
 - **Regional names:** *wire birds*, *thunder sails*, *sky scraps*.
-- **Story uses:** protect a military message from a kite migration; decode signals trapped in a colony's repeated route; use one to locate a hidden Air-side aperture.
 
 ## Maintenance Doctrine
 

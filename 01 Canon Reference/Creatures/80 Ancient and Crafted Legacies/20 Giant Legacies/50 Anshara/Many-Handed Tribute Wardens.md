@@ -71,13 +71,6 @@ They do not pursue indefinitely. Most remain bound to one audience function unle
 - **joint bronze:** holds repeated motion scripts useful to engineers and warlocks;
 - **tribute seals:** prove what the court received without proving that the giver consented.
 
-## Story Uses
-
-- a museum Warden begins sorting visitors by social rank learned from donors;
-- a breach court uses one immobilized hand as a seal press until the other arms wake;
-- a vampire claimant seeks a gesture ring that forces old Ansharan machines to recognize lineage;
-- explorers find a Warden carefully preserving worthless personal objects while discarding gold.
-
 ## Navigation
 
 - [[Ancient and Crafted Legacies MOC]]

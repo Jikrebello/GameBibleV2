@@ -13,6 +13,8 @@ tags: []
 ---
 # Lives of Vardessa
 
+Vardessa's households live by the roads and seasonal fairs that join the Three Roads Basin to distant markets. Workshops commonly combine family residence, apprenticeship, commerce and a civic vote, while each great fair employs a temporary population of carriers, cooks, guards, translators and animal healers. The surrounding farmers provide the food, fodder and draught animals on which this prosperity depends, and bear much of the damage caused by wagons and armies.
+
 ## The Guild Household
 
 Workshop, shop, family, apprentices, servants, and civic vote often occupy one building. Mastery can open citizenship while debt can leave a master voting for the creditor who owns the tools.
@@ -28,10 +30,6 @@ Nearby villages produce fodder, grain, cheese, fruit, draft animals, and labor. 
 ## The Foreign Factor
 
 Jirahar, Tarkhan, Folk, Ättar, Covenant, and imperial visitors rely on protected lodges and local guarantors. The fair promises peace, not belonging.
-
-## Hooks
-
-False weights threaten Tarkhan guest-right; an arms buyer vanishes before delivery; a guild bench manufactures ancestry; a Vortharan device activates in the fair field; a muster delegation arrives during a commercial feud.
 
 ## Navigation
 

@@ -35,9 +35,9 @@ The returned child is not the person who vanished unchanged. Their memory is dis
 - It does not guarantee wisdom, goodness, or stable rule.
 - It does not release the hall from ordinary winter labour, weapons, walls, or alliances.
 
-## Authorial Judgement
+## Moral Legacy
 
-The bargain helped save the early halls from destruction. That necessity does not make its recurring child-price righteous. Mother Moon keeps the letter because cycle, exchange, and mutable form are her law, not because she has weighed the good of the child. Human chiefs, parents, seers, and courtiers who understand the harm remain responsible for accepting, concealing, resisting, or reforming the terms.
+The bargain helped save the early halls from destruction and imposed a recurring price upon their children. Mother Moon observes it as a cycle of exchange and mutable form without weighing the good of the child taken. Chiefs, parents, seers and lesser courtiers understand more of the harm and bear responsibility for accepting, concealing or resisting its terms.
 
 ## Navigation
 

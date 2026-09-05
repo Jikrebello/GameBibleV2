@@ -36,7 +36,6 @@ Depth-Core engines imprison a captured native beast from mapped Hell inside a ru
 - **Tactics and failure:** pain commands drive charges, climbing, digging, and heat-seeking attacks. A broken name-cage may release the wounded Depth beast into the battlefield.
 - **Permanent defeat and materials:** disable movement, separate command lattice from core, then contain or kill the released beast. Destroy the foundry's capture relation to prevent replacement. Salvage includes fortress plate, command chains, and dangerous Depth tissue.
 - **Regional names:** *demon golems*, *pit engines*, *chained beasts*.
-- **Story uses:** stop an engine without releasing its core inside a city; follow a feeding convoy to the last active foundry; choose whether a gravely wounded Depth beast can be contained rather than tortured for intelligence.
 
 ## Slave-Soul Siege Golems
 
@@ -46,7 +45,6 @@ Slave-Soul engines bind a genuine human soul. The victim is ritually executed du
 - **Tactics and failure:** the lattice forces the prisoner to aim, move, remember routes, and recognize human deception. Cracking the cage may produce contradictory movement as the captive resists.
 - **Permanent defeat and materials:** immobilize the frame, sever the command layer, and open the name-cage through White Flame, true-name work, or careful physical unbinding. Release sends the soul onward toward judgement; it does not restore the dead body. Salvage excludes the cage, which must be destroyed or sanctified.
 - **Regional names:** *name engines*, *martyr irons* in Thalmyric speech, *speaking golems* among Covenant troops.
-- **Story uses:** learn that an enemy engine contains a missing relative; free the captive during battle without letting the chassis fall on civilians; expose a supposedly dormant frame still holding its executed bearer.
 
 ## Surrender Engines
 
@@ -56,7 +54,6 @@ Surrender Engines are pure strategic constructs built to break organized resista
 - **Tactics and failure:** they model morale, select symbolic targets, broadcast counterfeit orders, and command lesser frames. Damaged models may repeat an obsolete ultimatum while continuing bombardment.
 - **Permanent defeat and materials:** isolate observation, corrupt its campaign model, destroy the strategic core and all field mirrors, or capture the command key. Salvage includes survey engines, signal arrays, and siege tables.
 - **Regional names:** *mercy towers*, *kneeling engines*, *the speaking walls*.
-- **Story uses:** hold a city together while an engine fabricates surrender orders; feed it false political data to redirect a siege; recover proof that a general knowingly followed its target recommendations.
 
 ## Historical Register
 

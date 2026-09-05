@@ -27,10 +27,6 @@ Noxal is the moment brightness ceases to dominate and scent, concealment, and no
 
 Somnira expresses sleep, hibernation, bodily downshift, and waiting through an unfavorable cycle. Pale motes gather in sheltered places. A bargain may preserve life through stillness while remaining indifferent to what is lost during absence.
 
-## Use in Play
-
-These roles carry bounded lunar authority. They can mark a cycle, administer an inherited exchange, or test whether a petitioner accepts change. Defeating a bearer ends the local manifestation, not the role or Mother Moon.
-
 ## Navigation
 
 - [[Mother Moon]]

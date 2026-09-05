@@ -65,14 +65,6 @@ Oath scales preserve one prohibition. The oath-organ can anchor a vast ward or c
 
 Names include Oathwyrm, linnorm, curse-wyrm, pass father, coast coil, and hall-serpent.
 
-## Story Hooks
-
-- An Oathwyrm protects a refugee road whose founding people no longer exist.
-- A king claims the Wyrm recognizes his dynasty, but its compact names an office rather than a bloodline.
-- Slayers kill a Wyrm and release its inherited curse across every village that used the pass.
-- A dying Oathwyrm seeks someone willing to assume a just duty it no longer trusts itself to enforce.
-- An apparent true-dragon cult is actually preserving the anchor of an Oathwyrm's boundary.
-
 ## Navigation
 
 - [[Faewild and Menhir MOC]]

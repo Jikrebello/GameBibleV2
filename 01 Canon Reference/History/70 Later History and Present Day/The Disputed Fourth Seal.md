@@ -13,7 +13,7 @@ tags: []
 ---
 # The Disputed Fourth Seal
 
-The Covenant's defining internal division began as a succession dispute from which centuries of theology grew.
+The Disputed Fourth Seal is the succession crisis that divided the Covenant after the death of the third Rightly-Sealed Caliph. Rival instruments named General Uthar ibn Qays and Husan ibn Raiq, Mujalib's grandson, as the lawful heir. Uthar secured the caliphate, while Husan and his household were killed after accepting safe conduct to arbitration. Their deaths at Bir Qassim gave a dynastic dispute its enduring theological and communal force.
 
 ## The Two Instruments
 

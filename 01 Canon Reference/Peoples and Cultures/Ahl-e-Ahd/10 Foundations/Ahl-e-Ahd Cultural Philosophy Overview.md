@@ -13,6 +13,8 @@ tags: []
 ---
 # Ahl-e-Ahd Cultural Philosophy Overview
 
+Ahl-e-Ahd philosophy begins with the conviction that creation has an intelligible order and that human beings answer for the obligations they accept within it. This outlook joins theology to practical disciplines such as law, grammar, history and mathematics. It has produced careful protections for witnesses, debtors and communities, together with elaborate means by which rulers and creditors can turn obligation into dependence. The argument between just order and predatory exactness runs through Covenant ethics, government and worship.
+
 ## Reality and Knowledge
 
 Covenant thinkers understand creation as ordered obligation. Names establish identity, witnesses establish proof, and rightful authority accepts limits it can state. Jurisprudence, grammar, history, mathematics, and memory are sacred disciplines because imprecision can destroy lives.

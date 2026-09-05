@@ -21,7 +21,7 @@ The Thalmyric Church is the contemplative, icon-bearing, sacramental Church of t
 
 Thalmyria calls the White Flame the **Holy Fire** or **Living Fire**. It is not ordinary flame, Shell-fire, or a magical fuel. It restores creation, reveals corruption, sanctifies persons and places, and answers righteousness rather than political command.
 
-Thalmyric doctrine teaches the Fire is uncreated and consents to dwell in a person, hymn, icon, relic, or lamp prepared by sanctity. This is an in-world theological account; authorial limits are established in [[White Flame Doctrine]].
+Thalmyric doctrine teaches that the Fire is uncreated and consents to dwell in a person, hymn, icon, relic or lamp prepared by sanctity. [[White Flame Doctrine]] describes the actual limits of these manifestations and the tests by which they may be distinguished from counterfeits.
 
 ## Worship
 

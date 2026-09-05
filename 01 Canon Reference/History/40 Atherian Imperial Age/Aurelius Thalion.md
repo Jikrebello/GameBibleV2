@@ -3,7 +3,7 @@ type: person
 status: canon
 canon_level: local
 visibility: public
-era: ["390–350 BR; later life beyond this account"]
+era: ["390–318 BR"]
 region: [Caleran, Aurin, Eastern Atherian routes, Sarqen]
 culture: [Atherian]
 related_factions: []
@@ -14,7 +14,7 @@ tags: [world-historical-atlas, imperial-founding]
 ---
 # Aurelius Thalion
 
-Aurelius Thalion, born in 390 BR, founded the Atherian Empire around 350 BR after two decades of succession wars. He inherited Teren Casvilar's public claim, overcame senior commanders and brought the army, provincial appointments and taxation under a continuing central authority. The Age of Glory begins with his settlement.
+Aurelius Thalion (390–318 BR) founded the Atherian Empire around 350 BR after two decades of succession wars. He inherited Teren Casvilar's public claim, overcame senior commanders and brought the army, provincial appointments and taxation under a continuing central authority. The Age of Glory begins with his settlement.
 
 ## Household and early prospects
 
@@ -50,6 +50,12 @@ The senate retained civic and ceremonial work while losing effective control of 
 
 Trade and cultivation benefited as competing military levies diminished. The settlement also protected fortunes acquired through confiscation and left expelled families dependent on decisions made by the victors. These conditions formed the opening of imperial government and shaped the society which later celebrated Thalion as its founder.
 
+## Later reign and death
+
+[[The Later Reign of Aurelius Thalion]] follows the demobilisation, provincial settlement and family decisions of his final decades. His son Caelor died in 324 BR after injuries received during a building inspection. Thalion adopted his nephew Meren, son of Evara and Velsar, as successor.
+
+Thalion died after prolonged illness in 318 BR. The army and senate had already recognised Meren, allowing the first imperial succession to proceed without open civil war. Later bodily-ascent stories are unsupported; his complete human soul remained distinct from imperial office, portrait cult and the later dependent Pride Mask.
+
 ## Further reading
 
 - [[The Wars of the Atherian Succession]]
@@ -57,4 +63,5 @@ Trade and cultivation benefited as competing military levies diminished. The set
 - [[Households of the Imperial Founding]]
 - [[The Rise of the Atherian Empire Overview]]
 - [[The Atherian Empire – Age of Glory]]
-
+- [[The Later Reign of Aurelius Thalion]]
+- [[The House of Thalion]]

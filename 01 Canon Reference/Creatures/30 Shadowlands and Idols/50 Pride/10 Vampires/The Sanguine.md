@@ -62,12 +62,6 @@ Properly secured Sanguine instruments can diagnose blood curses and inherited po
 
 Eclessian records use **chalice-bloods**; Thalmyric hunters say **red cantors**; Sestaran physicians call them **cup-keepers** when discretion is required. Sanguine is the creator-facing bloodline name.
 
-## Story Uses
-
-- A beloved physician saves plague victims by quietly draining prisoners selected by a magistrate.
-- A lineage vessel contains the only sensory record of a murder and the means for its vampire witness to return.
-- A family asks the party to stop an unwanted transformation before shared blood binds every relative into the rite.
-
 ## Navigation
 
 - [[Bestiary MOC]]

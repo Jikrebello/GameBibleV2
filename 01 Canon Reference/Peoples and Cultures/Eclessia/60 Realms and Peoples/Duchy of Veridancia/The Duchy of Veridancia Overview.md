@@ -58,10 +58,6 @@ Veridancia hires troops and contributes trained officers rather than maintaining
 - Rivalry between noble courts, municipal law, and university privilege.
 - The continuing wine-and-ale tariff struggle with Brauvalis.
 
-## Story Uses
-
-Book-running, university disputation, relic forensics, court scandals, false examination places, inheritance trials, and missions whose investigators begin to agree with the people they examine.
-
 ## Navigation
 
 - [[01 Canon Reference/Peoples and Cultures/Eclessia/30 Society and Daily Life/Life Paths/Lives of Veridancia.md|Lives of Veridancia]]

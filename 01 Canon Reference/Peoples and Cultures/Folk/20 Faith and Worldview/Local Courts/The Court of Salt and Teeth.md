@@ -13,6 +13,8 @@ tags: []
 ---
 # The Court of Salt and Teeth
 
+The Court of Salt and Teeth is the Tidewood name for a group of dangerous shore powers encountered where cold forest, tidal water and winter sailing meet. Its stories govern the treatment of wreckage, drowned bodies, unusual catches and bargains made for passage. Coastal households speak of a single court, although the encounters attributed to it involve several beings and produce different obligations.
+
 ## Folk Account
 
 The **Court of Salt and Teeth** is the collective name used in Tidewood traditions for powers encountered where the winter forest meets the sea. Accounts commonly name the Net-Mother, the White Seal, the Drowned Ferryman and the Guest with Shark Teeth. Fish, wreckage, weather, passage and bodily alteration figure among their gifts and demands.

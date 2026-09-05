@@ -58,14 +58,6 @@ Warm northern caves support the fastest succession. Central fens and temperate r
 
 Walking bloom, grave flower, cave breath, widow dust, and seed-dead describe local symptoms rather than formal species. Calling a seed-thrall “undead” is understandable folk usage but metaphysically inaccurate.
 
-## Story Hooks
-
-- thawing Grobi corpses seed a southern winter hall;
-- two mines accuse one another of sabotage while sharing the same underground mycelium;
-- a seed-thrall walks home because warmth and humidity, not memory, draw it there;
-- healers need a living sample before the next fruiting cycle;
-- a colony demonstrates genuine memory, exposing an engineered organism hidden beneath natural infection.
-
 ## Navigation
 
 - [[The Image, Soul, and Creaturely Continuity]]

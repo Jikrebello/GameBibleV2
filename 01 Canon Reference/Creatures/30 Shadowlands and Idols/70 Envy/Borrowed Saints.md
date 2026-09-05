@@ -26,6 +26,8 @@ manifestation_class: mask
 ---
 # Borrowed Saints
 
+Borrowed Saints are Idol-fed apparitions created from staged miracles, copied sacred imagery and stolen testimony. A human fraud supplies the first performance; sustained devotion and Envy give the image enough stability to answer independently. These counterfeits gather around false shrines and grief cults, where they offer recognition, apparent healing and revelations drawn from memories their operators have harvested.
+
 ## Classification
 
 Idol-fed Shadowlands counterfeits formed from sustained false apparition work. They are most commonly cultivated by [[The Weeping Courts]].
@@ -77,13 +79,6 @@ End the staged testimony network, return stolen memories and letters, preserve t
 ## Regional Names
 
 Eclessian investigators use **borrowed saint**; Thalmyric clergy say **weeping counterfeit**; Sestaran stage-workers call an early form an **answering image**. None of these names grants the Mask saintly continuity.
-
-## Story Uses
-
-- A village apparition whose miracles become real only after investigators expose the original fraud.
-- Rival pilgrimage sites accusing each other while one hidden Court feeds from the comparison.
-- A genuine shrine infiltrated by a counterfeit image copying its saint.
-- A living witness asking the party to kill them before the shrine completes the overwrite.
 
 ## Navigation
 

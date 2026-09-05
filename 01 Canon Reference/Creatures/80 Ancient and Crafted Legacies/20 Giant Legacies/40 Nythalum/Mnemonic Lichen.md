@@ -46,7 +46,7 @@ Severe exposure copies personal memory faster than the mind can retain it. The v
 
 A coherent copied person forms a **memory knot** within a crystal branch. It is not automatically a complete soul or duplicate person. Most knots are partial: a childhood room, professional skill, fear, song, or final hour.
 
-Some Claim Seventeen knots contain enough recorded memory to help restore identity to their still-living source. Others may be the only surviving record of a dead worker. No knot is the copied person or a human soul, however complete its testimony appears. The University dispute over whether knots should be treated as remains, testimony, or artifacts begins with this adventure; the authorial ruling is settled.
+Some Claim Seventeen knots contain enough recorded memory to help restore identity to their still-living source. Others may be the only surviving record of a dead worker. No knot is the copied person or a human soul, however complete its testimony appears. The events at Claim Seventeen have forced University scholars to decide whether particular knots should be handled as remains, testimony or artefacts.
 
 ## Glassback Carriers
 
@@ -79,14 +79,6 @@ The flash causes disorientation and short-term memory loss rather than ordinary 
 - **Carrier plate:** dampens or amplifies mnemonic resonance depending on orientation.
 
 These materials could transform medicine, testimony, training, espionage, and identity theft. Their value is why quarantine will be politically difficult.
-
-## Quest Uses
-
-1. A returned miner remembers a murder committed before their birth.
-2. An heir claims a crystal knot is their dead parent and demands inheritance recognition.
-3. A war college uses memory flakes to train soldiers and produces identical trauma responses.
-4. A confessor discovers that a lichen sample repeats secrets from everyone who handled it.
-5. Glassback carriers escape a University case and begin nesting in Castara's speaking-tube network.
 
 ## Navigation
 

@@ -13,6 +13,8 @@ tags: []
 ---
 # Historical Spine of the Covenant
 
+The Covenant is a religious and political civilisation formed among Ahdari and neighbouring peoples after Mujalib's revelation in 541 AR. Its history grew from much older societies of defended wells, canals, markets, guest-law and witnessed agreement, and later encompassed conquest, schism, translation, imperial government and frontier exchange. In 1360 the Qahirid state remains its largest power, alongside independent Qazmari, Zanthiri, Iqashari and other communities with distinct ancestry and interests.
+
 ## Before Mujalib
 
 After the Exodus, proto-Ahdari peoples preserve water-right, guest-law, blood-price, sanctuary, and witnessed oath. Iqashari towns and Qahuri basin communities develop their own courts, canals, markets, and shrine traditions. Contract doctrine grows from these institutions rather than replacing an empty desert.
@@ -55,7 +57,7 @@ The Covenant peoples did not emerge as an immediate third branch at the Prophet'
 
 Mujalib's revelation in 541 AR transformed that inheritance rather than inventing water society from nothing. Conquest, Al-Qahur's foundation and the First Unsealing made an imperial-confessional identity capable of admitting several peoples. The Nine Wells seizure in 558 remained a violent act even when later historians called it consent. The Long Frontier allowed translation, irrigation and mixed households to flourish alongside captivity, ransom and legal coercion.
 
-The Qahirid resurgence and Fall of Caleran enlarged the empire; later prosperity under Suhrab did not prevent fragmentation. In 1360, Qahuri, Iqashari, Qazmari, Ahdari, Zanthiri and other communities do not share one ancestry or one uncontested ruler. The Creditor's authorial secret does not make all believers knowing accomplices.
+The Qahirid resurgence and Fall of Caleran enlarged the empire; later prosperity under Suhrab did not prevent fragmentation. In 1360, Qahuri, Iqashari, Qazmari, Ahdari, Zanthiri and other communities possess different ancestries and recognise no uncontested ruler. The hidden role of the Creditor was unknown to ordinary believers and cannot make them knowing accomplices.
 
 ## Stories and neighbouring histories
 

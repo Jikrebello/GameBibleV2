@@ -35,13 +35,6 @@ Iqashar treats White raids as its immediate northern military danger. Mazrakan b
 
 Batuqai must choose between a great campaign at the Nine Wells, a succession bid after Sorqai's death, or restraint long enough to let Iron settlement discredit Tegrul. Land-poor splinters raid without permission and force him to accept blame or surrender authority.
 
-## Story Uses
-
-- ransom captives before a pilgrimage column reaches the wells;
-- expose an Iron officer arming an unauthorized White splinter;
-- escort a Grey Sister foal offered to settle a well feud;
-- decide whether a reclaimed grave proves tenure or has been staged.
-
 ## Navigation
 
 - [[Nine Wells of Tergai]]

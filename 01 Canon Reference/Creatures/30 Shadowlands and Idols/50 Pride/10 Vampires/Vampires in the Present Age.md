@@ -59,14 +59,6 @@ A household's debts consolidating quietly toward one distant creditor; servants 
 
 Vampire ash is potent, illegal, and theologically dangerous because it is the remains of a body that held a genuine human soul. Heart's-blood taken at destruction is valuable to both the Sanguine and the Fleshweavers. Ansharan grave-goods and court regalia preserve rare evidence of the fifth empire. Most important, a captured vampire is a **human soul that can still, in principle, be released to the proper route**. Exorcism-restoration is the hardest mercy in the hunter's manual, the Church's official preference, and almost never what happens in a torch-lit cellar.
 
-## Story Hooks
-
-- A reformed duchy's Freeflame elders keep dying of natural causes at unnatural rates; the Eclipsis are pruning the one church they cannot fool.
-- The Medori quietly ask for outside help auditing a centuries-old instrument whose beneficiary has never once missed a collection — and never once appeared in daylight.
-- A Sanguine priest defects, offering the Memory of Anshara to Vorthara — and every bloodline, the Church, and the Red Covenant converge on one caravan.
-- A Militis "hard tradition" duel-cult surfaces in an army the party needs intact, mid-campaign.
-- A dying vampire *asks* for the Vestibule — and the party must keep a repentant six-century soul alive long enough to reach consecrated rites while everything it ever wronged tries to prevent the release.
-
 ## Navigation
 
 - [[Bestiary MOC]]

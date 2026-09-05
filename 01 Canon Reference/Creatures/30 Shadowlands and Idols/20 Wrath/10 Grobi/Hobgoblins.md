@@ -62,13 +62,6 @@ Second-stage glands, ash-mark fetishes, drums, and ration tallies reveal a host'
 
 Folk defenders use **shield-Grobi**; Ättar war speech uses **drum-stage**; frontier companies say **line-raiders**. Hobgoblin remains the widespread trade classification.
 
-## Story Uses
-
-- A quartermaster, not the war-chief, is the real reason a migration remains organized.
-- Rival drum doctrines reveal two warbands competing inside one apparent host.
-- A hobgoblin commander offers a corridor truce while secretly rationing toward orc growth.
-- Destroying the wrong food store hands control to the faction most willing to cannibalize captives.
-
 ## Navigation
 
 - [[Bestiary MOC]]

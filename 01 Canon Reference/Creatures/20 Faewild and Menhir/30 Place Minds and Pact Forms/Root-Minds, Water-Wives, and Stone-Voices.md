@@ -73,14 +73,6 @@ Living root-script, wife-water, and voice-stone remain aligned to their place. R
 
 Green mothers, grove minds, water-wives, well daughters, river brides, stone-voices, cliff fathers, speaking seams, dryads, and naiads.
 
-## Story Hooks
-
-- A Water-Wife floods an illegal mill but traps the tenant families who did not build it.
-- A Stone-Voice knows why a fortress wall will fail and demands that its sealed foundation be exposed.
-- Two Root-Minds contest an abandoned battlefield through incompatible successions.
-- A town has mistaken an ordinary spring for a person while ignoring the real Water-Wife in its sewer channel.
-- A quarry can remain open only if one lucrative stratum is never cut.
-
 ## Navigation
 
 - [[Faewild and Menhir MOC]]

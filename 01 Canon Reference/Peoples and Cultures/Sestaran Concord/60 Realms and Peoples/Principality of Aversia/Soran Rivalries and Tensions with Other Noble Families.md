@@ -13,6 +13,8 @@ tags: []
 ---
 # Soran Rivalries and Other Houses
 
+House Soran's authority in Aversia is contested by exiled dynasties, Fiorenzian aristocrats, creditors and civic coalitions. The Verati and Carvonius retain descendants and clients whose claims revive whenever confiscated property or lost records reappear. The Bellaris and Medori exercise influence through commerce and credit, while guild masters can obstruct ducal government through labour, franchise and control of supplies.
+
 ## Verati Remnants
 
 House Verati once controlled major steelworks and civic offices. Its senior line was destroyed in the civil war, but exiles, maternal descendants, and former clients survive. Some want restoration; others use the name to organize opposition to Soran emergency powers.
@@ -32,13 +34,6 @@ Medori credit finances mines, roads, and contracts; Aversian steel protects Fior
 ## Civic Rivals
 
 Guild masters and service citizens are not noble houses but can defeat ducal policy through labor, franchise, and supply. The Sorans' most consequential rival may therefore be a temporary civic coalition rather than an exiled bloodline.
-
-## Story Uses
-
-- A newly found marriage roll supports two incompatible Carvonius claims.
-- Bellaris money reaches a lawful opposition bench and a violent exile cell through the same intermediary.
-- A foreign contract would save an Aversian mine while placing one of Aurelia's companies beyond her practical control.
-- Octavia possesses proof that a famous Verati survivor is an impostor whose movement has developed genuine grievances.
 
 ## Navigation
 

@@ -13,6 +13,8 @@ tags: []
 ---
 # Lives of Orsena
 
+Life in Orsena is organised around the water, labour and negotiation required to sustain a free port with little dependable hinterland. Cistern workers keep the city alive; pilots and repair crews govern the movement of ships; brokers exchange prisoners and messages across hostile borders. Foreign quarters preserve their own worship and communal life, although families may remain outside the Harbor Book after generations of residence.
+
 ## The Cistern Household
 
 Water clerks, masons, carriers, cleaners, and inspectors hold a city without reliable hinterland. A cistern failure outranks most political scandals because thirst arrives before an embassy can answer.
@@ -29,12 +31,7 @@ Foreign communities maintain worship, food, burial, education, and mediation und
 
 Ransom agents, translators, physicians, confessors, and witnesses move prisoners and messages between enemies. Their work can save lives or return people to bondage under immaculate procedure.
 
-## Hooks
-
-A cistern is salted before a summit; two powers claim the same exchanged prisoner; a foreign quarter hides refugees beyond its charter; a Harbor Book lineage proves younger than the family it excludes.
-
 ## Navigation
 
 - [[The Free Port of Orsena]]
 - [[Lives of the Concord — The Common Spine]]
-

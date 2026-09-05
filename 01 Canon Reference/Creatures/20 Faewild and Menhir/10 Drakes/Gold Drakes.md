@@ -115,14 +115,6 @@ Extraction from a living drake is fatal or mutilating. After a necessary kill, c
 
 Gold drake, sun-cliff hunter, noon-back, gilt jaw, mirror hoarder, and bright court beast. A speaking elder normally takes or receives an individual name in addition to these lineage terms.
 
-## Game Hooks
-
-- A church bell contains aligned midden metal and calls a drake every clear noon.
-- Quarry workers expose clutch stone after the old animal has migrated, and three factions claim the site.
-- A supposed saint-sign is a drake territory whose glare reveals physical evidence but cannot judge its meaning.
-- A gold law-gem stabilizes a hospital kiln while slowly stripping shade and sleep from the surrounding ward.
-- A speaking elder offers a limited peace whose material terms are reasonable and whose human terms are evil.
-
 ## Navigation
 
 - [[Bestiary MOC]]

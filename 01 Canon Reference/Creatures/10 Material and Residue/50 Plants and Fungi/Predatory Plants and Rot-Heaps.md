@@ -68,14 +68,6 @@ Gardeners cultivate small strains, militaries test seed on roads, and criminals 
 
 Hang-vine, widow cord, sweet pit, reed maw, walking compost, and warm midden are common names. The term **shambling mound** remains creator shorthand rather than a universal in-world category.
 
-## Story Hooks
-
-- a flood carries pitcher-maw seed into a refugee camp;
-- a rot-heap contains undamaged evidence from several disappearances;
-- military seed stock is stolen before anyone learns which strain it contains;
-- villagers defend a strangler colony because its fiber keeps their bridge standing;
-- an apparent natural plant answers questions, revealing that the encounter has crossed into Menhir law.
-
 ## Navigation
 
 - [[The Mundane Layer — Residue, Vermin, and the Delver Trade]]

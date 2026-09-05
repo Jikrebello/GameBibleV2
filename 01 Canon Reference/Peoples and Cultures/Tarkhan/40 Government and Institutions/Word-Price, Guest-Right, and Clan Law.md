@@ -13,7 +13,7 @@ tags: []
 ---
 # Word-Price, Guest-Right, and Clan Law
 
-Tarkhan law travels through witnesses, genealogy, remembered settlement, and declared consequence. It is not lawlessness, but it does not depend on permanent courts.
+Tarkhan law is carried through witnesses, genealogy, remembered settlements and the public declaration of consequences. Clan assemblies recognise marriages, successions and pasture rights, while an oath's word-price establishes the compensation owed for breach. These practices travel with camps and coalitions and therefore require no permanent court building, although accepted judges and assemblies remain essential to their force.
 
 ## Word-Price
 

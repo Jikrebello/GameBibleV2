@@ -62,14 +62,6 @@ Aerial condensate briefly stores pressure. Deep Envoy tools, pressure membranes,
 
 Regional names include sky wrack, gale folk, wind riders, deep envoys, trench keepers, blackwater people, and the inaccurate collective term Deep Ones.
 
-## Story Hooks
-
-- An Aerial carries the final words of a lost expedition but releases them only at the storm's destination.
-- A Deep Envoy work group repairs a pressure anchor beneath a harbor whose pilots think they are preparing an invasion.
-- Wreckers imitate trench lights and provoke retaliation against the wrong coast.
-- A stable Aerial demands that a mountain pass remain open during a fatal winter storm.
-- Two unrelated Deep Envoy communities are treated as one enemy after a single predatory raid.
-
 ## Navigation
 
 - [[Faewild and Menhir MOC]]

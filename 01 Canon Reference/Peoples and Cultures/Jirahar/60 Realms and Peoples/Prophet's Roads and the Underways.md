@@ -13,6 +13,8 @@ tags: []
 ---
 # Prophet's Roads and the Underways
 
+The Prophet's Roads are the ordinary routes, protected passages and rare threshold corridors by which Jirahar communities remain connected across the known world. Most journeys follow roads, rivers and sea lanes maintained through labour and agreements with local powers. Concealed Underways help travellers cross dangerous districts, while Way-Gates at a few ancient Glass anchor camps permit complete caravans to pass between fixed points under strict communal custody.
+
 ## Physical Roads
 
 Most Jirahar movement is ordinary and difficult. Road Companies use passes, ferries, caravan tracks, seasonal pasture, market roads, and negotiated camps. Sea Fleets follow currents and harbor law. Turning Companies connect watersheds by road and prepared river yards.

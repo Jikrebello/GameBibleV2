@@ -15,6 +15,8 @@ tags: []
 
 The Atherian Age of Glory was the long period in which imperial law, armies, archives, roads, ports, and the Star Pantheon held most of the known world's central belt within one political system. Later Thalmyric writers describe it as ordered abundance. Subject peoples remembered the taxes, land seizures, forced settlements, and religious hierarchy that paid for the marble.
 
+[[Historical Atlas of the Atherian Age of Glory]] provides the complete sequence from Thalion's settlement to 0 AR. The period included three long dynastic arrangements, a brief war among four claimants and two later court houses. Changes of ruler altered provincial relationships without dissolving the empire after every succession.
+
 ## Government
 
 [[Aurelius Thalion]] established imperial supremacy around 350 BR after [[The Wars of the Atherian Succession]]. The settlement followed Casvilar's assassination, a government of three commanders and the conquest of Samyra Nerethan's kingdom. Continuing army pay, central appointments and regular taxation gave the new government a more dependable basis than the competing commands it replaced.
@@ -22,6 +24,8 @@ The Atherian Age of Glory was the long period in which imperial law, armies, arc
 The emperor was presented as the stars' chosen mediator and guardian of terrestrial order. Provincial governors combined civil and military authority but depended on treasury officials, municipal councils, and temple estates. The old senate retained control over portions of infrastructure, citizenship, and commercial law while losing meaningful command of the army.
 
 A professional bureaucracy maintained census rolls, property surveys, water rights, courts, road stations, and grain distribution. Modern Thalmyric and Eclessian law still cites surviving Atherian registers, sometimes to resolve a dispute and sometimes to resurrect one.
+
+The [[The House of Thalion|first imperial house]] ruled until 247 BR. [[The Year of Four Eagles]] brought the provincial commander Samor Veloran to power; his descendants governed through 151. The Serrat rulers and later Othran household carried the empire to the Redeemer's lifetime. [[Provinces and Municipal Life in Imperial Atheria]] explains the cities and local officers through whom each house governed.
 
 ## Religion
 
@@ -60,3 +64,8 @@ In the Thalmyric heartland, imperial stone remains part of ordinary life. Houses
 - [[The Layers Beneath Thalmyria]]
 - [[Origins of Warlock Rune Magic]]
 - [[Historical Spine of the Known World]]
+- [[Historical Atlas of the Atherian Age of Glory]]
+- [[The Imperial Army and the Frontiers]]
+- [[Food, Trade and Enslavement in Imperial Atheria]]
+- [[Schools, Arts and Imperial Magic]]
+- [[Star Religion and the Imperial Cult]]

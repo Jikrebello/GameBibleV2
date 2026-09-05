@@ -42,15 +42,8 @@ Grobi migration cuts through eastern forest corridors. Heartwood scouts excel at
 - displaced clans seek new territory after repeated Grobi winters;
 - an Idol mask may be teaching that every boundary requires blood.
 
-## Story Uses
-
-- A licensed logging camp discovers that its chartered forest is a concealed refuge district.
-- A famine judgement names a politically convenient sacrifice.
-- Two courts claim the same abandoned settlement through different precedents.
-
 ## Navigation
 
 - [[Enaidfae Old-Rite Confederacies]]
 - [[Folk Architecture and Settlement]]
 - [[The Folk Overview]]
-

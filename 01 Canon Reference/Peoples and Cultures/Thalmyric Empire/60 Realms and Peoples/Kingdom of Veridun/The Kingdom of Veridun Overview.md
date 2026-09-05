@@ -47,10 +47,6 @@ The imperial court, Holy Synod, monasteries, and local cults possess overlapping
 - Archaeological claims beneath occupied neighborhoods.
 - Rural districts demanding investment from cities built on their taxes.
 
-## Story Uses
-
-Court intrigue, sacred archaeology, city underlayers, return law, imperial ceremonies, relic disputes, aqueduct failures, and succession conspiracies.
-
 ## Navigation
 
 - [[The Court of Veridun (1360 AR)]]

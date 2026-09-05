@@ -55,14 +55,6 @@ Wing spars, horn, hide, milk, and court-marked bone are valuable. Sustainable sh
 
 Regional names include sky-lion, cliff griffon, horse-eagle, white crown, moon-mare, king's hart, winged courser, and bright-horn.
 
-## Story Hooks
-
-- A courier corps needs one Sky-Lion egg returned before its parents begin hunting road traffic.
-- A Crown-Beast migration crosses a newly fortified border and both armies interpret it as an omen.
-- Poachers kill a white hart that was keeping a thin-space path closed.
-- A supposed sacred mount is an ordinary animal painted to resemble a Crown-Beast.
-- A starving village can survive only by hunting a court-marked herd whose route sustains the forest.
-
 ## Navigation
 
 - [[Faewild and Menhir MOC]]

@@ -13,6 +13,8 @@ tags: []
 ---
 # Relations with Other Religions
 
+Jirahar communities live among peoples whose worship differs from their own, and their relations with neighbouring faiths range from practical cooperation to persecution. The sharpest division concerns Isfir, whom the Redeemer churches worship and the Jirahar do not accept as the Mesakha. Shared Scattering traditions also connect them to Al-Ahdiya, while commerce and migration bring them into regular contact with Folk place-practices, surviving Star cults and Patron bargains.
+
 ## Redeemer Churches
 
 The Jirahar reject Isfir's divine and Mesakha claims. Eclessian and Thalmyric churches proclaim him the Redeemer. Relations range from protected debate and shared charity to coercion and inherited blame. The old-Church, Freeflame, Thalmyric, and Velian communions must not be treated as one institution.

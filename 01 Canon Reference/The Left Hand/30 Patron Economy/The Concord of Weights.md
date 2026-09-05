@@ -13,25 +13,19 @@ tags: []
 ---
 # The Concord of Weights
 
-**The patron rent cartel.** Its members are not appetite-engines like the Idols; they are deliberate predators who convert dependence into permanent ownership and call the result fair exchange.
+The Concord of Weights is a cartel of powerful Egg White Patrons that regulates the trade in anchors and stability. Its members are deliberate persons who turn dependence into ownership through agreements they regard as fair exchange. The Creditor is the senior signatory and principal author of the compact.
 
 ## What It Is
 
-The Egg White's great anchor-holders discovered long ago what all cartels discover: competition wastes mass. The Concord of Weights is their standing compact — perhaps thirty signatory patrons of the first and second magnitude — fixing the terms of the stability trade: standard rent-scales, non-poaching of anchored debtors, arbitration of anchor-disputes, and the **Weighmoot**, the periodic conclave (held in a demiplane that exists only during the session) where the terms are re-sealed. [[The Creditor]] is its senior signatory and drafted its founding instrument, which every other member has spent centuries failing to loophole.
+Perhaps thirty Patrons of the first and second magnitude belong to the Concord. Its compact establishes common rent scales, forbids the poaching of anchored debtors and provides arbitration for disputes over anchors. Members periodically renew these terms at the **Weighmoot**, held in a demiplane that exists only for the duration of the meeting. [[The Creditor]] drafted the founding instrument, whose terms have resisted centuries of attempted evasion by the other signatories.
 
 ## The Mortal Interface
 
-Patrons cannot easily project into the yolks; the Concord's material-world brokerage runs through cutouts: **the Pale Hand of Vorthara**, its chief mortal brokerage for pact origination, anchor-scouting, and debt-service collection; the Sestaran instability markets; and licensed pact-scriveners in every major port. A mortal who signs a patron pact through proper channels is, whether they know it or not, transacting on Concord paper under Concord arbitration. The terms are predatory but honored, and there is an appeals process. Its procedural fairness makes the system durable; it does not make the ownership of dependent souls good.
+Because Patrons project into the yolks with difficulty, the Concord depends upon mortal brokers. The **Pale Hand of Vorthara** arranges pacts, searches for anchors and collects debts; Sestaran markets price instability; licensed pact-scriveners operate in every major port. Many clients enter Concord arbitration without knowing the larger institution behind their agreement. The terms are usually honoured and an appeal procedure exists, but this regularity chiefly makes permanent dependence easier to maintain.
 
 ## Signs and Politics
 
-Warlock pacts across rival patrons showing identical clause-structures; debt-collections that arrive with paperwork instead of violence; the Pale Hand knowing things about a client's collateral that the client never disclosed. Internal politics: the Creditor's seniority is resented; a bloc of younger patrons (the file calls them **the Unweighed**) wants the Covenant market opened to general competition, which the Creditor's founding instrument forbids — the cartel's slow-burning succession crisis, and the likeliest crack for mortals to ever exploit.
-
-## Hooks
-
-- A Grenzburg artifact-license dispute turns out to be a Concord arbitration in miniature: two patrons claim the Barrow's engine-field as anchor-collateral, and the human factions are proxies who don't know it.
-- A warlock's patron is repossessed — the anchor sold at a Weighmoot — and every pact-holder's power now answers to a new landlord with new terms.
-- The Unweighed approach the party's warlock with the Astral equivalent of a hostile-takeover prospectus.
+The Concord becomes visible through identical clauses in pacts made with rival Patrons, formal debt collection across distant jurisdictions and the Pale Hand's knowledge of collateral a client never disclosed. The Creditor's seniority is resented. A group of younger Patrons called **the Unweighed** seeks to open the Covenant market to general competition in defiance of the founding instrument, creating the deepest current division among the signatories.
 
 ## Navigation
 

@@ -11,7 +11,9 @@ appears_in: []
 needs: []
 tags: []
 ---
-##  _The Temple That Would Not Burn_
+# The Temple That Would Not Burn
+
+The Temple That Would Not Burn is a Conversion-era tradition concerning a damaged star temple at Cyrian which local believers had adapted for clandestine Redeemer worship. Imperial officers repeatedly tried to destroy the building by fire. The structure survived, while soldiers and guards died during the attempts. Eclessian, Thalmyric and surviving imperial accounts disagree about the cause and meaning of the event.
 
 > _“They lit the flame. But the flame refused them.”_  
 > —Inscription carved into the last standing wall of the Temple at Cyrian

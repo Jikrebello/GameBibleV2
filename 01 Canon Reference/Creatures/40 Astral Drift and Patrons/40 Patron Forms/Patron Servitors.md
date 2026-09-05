@@ -39,7 +39,6 @@ Tether Hounds are low, many-legged Astral fauna bred or condensed to follow a re
 - **Weakness and permanent defeat:** distinguish the valid tether from imposed ownership, ground or lawfully sever it, then defeat the hound away from the owner's current. Cutting every tether blindly may strand innocent dependents.
 - **Materials:** tether whiskers identify the direction and emotional character of an owner relationship.
 - **Regional names:** rent hounds, cord dogs, claim runners, and home-pullers.
-- **Story uses:** recover a lost refugee; hunt a pact-breaker through several realms; reveal that an apparent rescue is actually repossession.
 
 ## Proxy Bodies
 
@@ -52,7 +51,6 @@ Proxy Bodies are temporary Material or demiplane forms through which an anchor-o
 - **Weakness and permanent defeat:** identify the tether, isolate the local mass, sever communication, and dismantle the body. This ends the manifestation, not the owner. If the owner is a human soul, construct, Drift person, or other continuity, its dossier governs further defeat.
 - **Materials:** proxy matter retains the last instruction and can prove who exercised control if examined before it frays.
 - **Regional names:** borrowed bodies, far hands, lease faces, and speaking suits.
-- **Story uses:** let a patron attend its own trial; conceal a human operator behind an inhuman body; rescue a Proxy believed to be an enslaved person without mistaking performance for consciousness.
 
 ## Current Shepherds
 
@@ -65,7 +63,6 @@ Current Shepherds are sapient native Astral persons adapted to tending lanes, se
 - **Weakness and permanent defeat:** ordinary bodily defeat disperses the person unless a patron retains a return pattern. Counter the route tools, not an assumed elemental affinity. Negotiation depends on the Shepherd's own obligations and choices.
 - **Materials:** current crooks and route veils are personal equipment, not biological harvest.
 - **Regional names:** lane shepherds, current hands, veil pilots, and road tenders.
-- **Story uses:** guide refugees while secretly serving the realm pursuing them; strike against a patron's unsafe route quotas; demand that adventurers help cull dangerous Protons before opening passage.
 
 ## Navigation
 

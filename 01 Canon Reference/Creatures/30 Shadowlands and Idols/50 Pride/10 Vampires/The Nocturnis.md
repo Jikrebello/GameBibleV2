@@ -62,12 +62,6 @@ Nocturnis blood can preserve a brief sensory record but contaminates it with the
 
 Eclessian hunters call them **veil-bloods**; Thalmyric chronicles use **the unreflected**; Sestaran intelligence books say **quiet kin**. Nocturnis is the creator-facing bloodline name.
 
-## Story Uses
-
-- An investigator discovers that the city's best informant has been editing every faction's evidence.
-- A witness-cache can prove a massacre, but opening it also gives the dead vampire a route back.
-- A Nocturnis cell offers accurate warning of an invasion in exchange for one person being erased from the record.
-
 ## Navigation
 
 - [[Bestiary MOC]]

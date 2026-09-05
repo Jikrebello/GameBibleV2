@@ -75,14 +75,6 @@ Necromancers value corpse residue because it is abundant and does not require ca
 
 Bone-men, mud-dead, pressers, wreck-walkers, dry guard, and pauper heap are common local terms. Creator-facing classification should use the form and anchor rather than assuming every moving corpse is a zombie or a trapped spirit.
 
-## Story Hooks
-
-- rattle-bones defend the wrong side of a wall because the gate moved centuries later;
-- corpse-walkers repeat an evacuation route that leads to an unknown shelter;
-- drowned walkers answer a bell rung by living smugglers;
-- a corpse heap contains evidence from crimes committed decades apart;
-- a family demands exorcism while the actual solution is ordinary identification and burial.
-
 ## Navigation
 
 - [[Residue Dead Overview]]

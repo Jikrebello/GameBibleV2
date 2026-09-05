@@ -41,13 +41,6 @@ Public maps end these roads where dependable water and patrols end. Rumors of de
 
 Glass scouts sometimes call an unnamed eastern ruin **the Hollow City**, while Jirahar memorial companies warn of **the City After the Last Name**. Stories agree only that stolen names, opened graves, and a city beneath a salt mirror belong together. No dependable route, distance, or surviving witness confirms that the two names describe one place.
 
-## Story Uses
-
-- a breach hearing must decide whether an object can safely remain in private hands;
-- a returned pack animal is the only evidence that an expedition found anything;
-- two route records disagree because a glass storm moved an entire landmark;
-- a military household wants a site reopened before memorial witnesses finish recording its dead.
-
 ## Navigation
 
 - [[Gazetteer of the Known World]]

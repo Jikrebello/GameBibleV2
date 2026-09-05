@@ -15,7 +15,7 @@ tags: []
 ---
 # Thalmyric Armies and the Long Frontier
 
-Thalmyria's military is a layered institution descended from refuge militias, provincial legions, return colonies, noble households, naval districts, and Church orders.
+The Thalmyric military combines provincial levies, imperial regulars, noble households, naval districts, licensed warlocks and several Church orders. Its structure grew from the refuge militias and return colonies of the Long Reconquest, leaving local forces closely tied to land and imperial troops dependent upon coin, roads and veteran settlement. The long frontier with the Covenant remains its principal strategic concern in 1360 AR.
 
 ## Provincial Levies
 

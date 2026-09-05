@@ -54,10 +54,6 @@ Brauvalis maintains ducal cavalry, guild militias, river guards, and fortified a
 - The Black Keg network moves untaxed drink, medicine, pamphlets, and fugitives.
 - Veridancian wine interests challenge Brauvalian naming and tariff privileges.
 
-## Story Uses
-
-Poisoned festival casks, abbey debt, guild elections, concealed congregations, medical relics, inheritance fights, and smuggling routes whose cargo changes with the buyer.
-
 ## Navigation
 
 - [[Conflicts and Cultural Struggles]]

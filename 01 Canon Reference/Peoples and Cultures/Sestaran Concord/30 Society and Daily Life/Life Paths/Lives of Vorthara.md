@@ -37,10 +37,6 @@ The Flesh Pits (canon) run two rosters: the **made** (Fleshweaver constructs and
 
 The interdict means no bishop: chapels cluster *outside* the walls along Lamplighters' Gate, served by clergy officially ministering to travellers. Vorthara has no nobility recognized across the city. School masters, faction heads, ward patrons, gang elders, arena owners, and road wardens each possess authority only where others will enforce it. Crime is jurisdiction-shaped: reagent theft, script piracy, grave goods, body procurement, unlicensed casting inside a protected ward, and selling what leaks before reporting it.
 
-## Hooks
-
-A leak day that doesn't end; a bone-cart man breaks guild silence to the party, once, in five words; the arena's newest champion doesn't sleep, and her endorsements have started appearing in districts she's never visited.
-
 ## Navigation
 
 - [[01 Canon Reference/Peoples and Cultures/Sestaran Concord/The Sestaran Concord Overview.md|The Sestaran Concord Overview]]

@@ -50,14 +50,9 @@ Aurelia relies on noble clients, order houses, urban guards, and contracted forc
 - Keep Virelian grain and Medori credit flowing without becoming their dependent.
 - Prevent the Unburnt Psalter from receiving a test neither confession can control.
 
-## Story Uses
-
-Plague-title litigation, forbidden printing, relic trials, clerical espionage, pilgrimage crime, disputed sainthood, and succession schemes around the Crown of Embers.
-
 ## Navigation
 
 - [[Figures of Power]]
 - [[01 Canon Reference/Peoples and Cultures/Eclessia/30 Society and Daily Life/Life Paths/Lives of Aurelia.md|Lives of Aurelia]]
 - [[01 Canon Reference/Peoples and Cultures/Eclessia/20 Faith and Worldview/Eclessian Church Overview.md|Eclessian Church Overview]]
 - [[01 Canon Reference/Peoples and Cultures/Eclessia/Eclessia Overview.md|Eclessia Overview]]
-

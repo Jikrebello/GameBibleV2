@@ -45,7 +45,6 @@ Local saints return to a people, parish, monastery, household, battlefield, or t
 
 **Conduct:** local saints speak plainly and remain concerned with persons rather than their own cult. They do not demand new worship, enrich custodians, or contradict the Lord for the sake of local custom.
 
-**Story uses:** a disputed apparition; protection during an evacuation; correction of a false relic trade; testimony that exposes a concealed crime; a final charge to repair an earthly injustice.
 
 ## Mission Saints
 
@@ -55,7 +54,6 @@ Mission saints are commissioned beyond the communities that knew them. They acco
 
 **Conduct:** mission saints invite and testify. They do not compel belief through domination. Their presence may be formidable, but its purpose is service under truth rather than conquest of attention.
 
-**Story uses:** guiding refugees through a closed pass; reaching a sincere outsider before corrupt clergy do; carrying a warning between separated churches; protecting a translator or healer; revealing that a supposed holy mission has abandoned its charge.
 
 ## Continuity, Defeat, and Remains
 

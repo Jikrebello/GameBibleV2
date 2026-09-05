@@ -39,12 +39,6 @@ The gate lies above the tide chambers. It cannot connect to ships at sea. Fleet 
 
 Halmenth wants naval inspection rights in the lower docks, while fleet captains fear that one foreign search will become permanent control.
 
-## Story Uses
-
-- a lost fleet's names arrive in a sealed gate wagon without survivors;
-- a Sermoran privateer claims sanctuary with stolen Jirahar passengers aboard;
-- dredging exposes a pre-Atherian chamber beneath the tidal works.
-
 ## Navigation
 
 - [[Four Ways of Jirahar Life]]

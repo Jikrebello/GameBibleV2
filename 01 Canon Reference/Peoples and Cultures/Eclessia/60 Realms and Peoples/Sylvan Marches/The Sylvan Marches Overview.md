@@ -49,10 +49,6 @@ Grobi warbands enter along hunger corridors; their leaders and motives differ, b
 - Relic salvagers waking systems they mistake for treasure.
 - Church and Freeflame agents turning frontier necessity into confessional competition.
 
-## Story Uses
-
-Missing settlements, winter convoys, disputed land, Grobi diplomacy, drake hunts, haunted battlefields, false relics, Menhir obligations, and ruins whose history implicates living families.
-
 ## Navigation
 
 - [[Legends, Ruins, and Conflicts]]

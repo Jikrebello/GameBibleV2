@@ -3,126 +3,75 @@ type: event
 status: canon
 canon_level: local
 visibility: public
-era: []
-region: []
-culture: []
-related_factions: []
+era: ["1-291 AR", "Underground Centuries"]
+region: ["Atherian Empire", "Via Celestis"]
+culture: ["Atherian", "Redeemer Church"]
+related_factions: ["Redeemer Congregations", "Atherian Imperial Authorities"]
 appears_in: []
 needs: []
+aliases: ["Ember Routes"]
 tags: []
 ---
-> _“We do not fight with swords. We carry flame beneath the skin.”_  
-> —Attributed to an anonymous courier known only as “Ashvein”
+# The Ember Underground
 
-### **Era**:
+The Ember Underground is the collective name given to the households, burial fraternities, couriers and local congregations that moved people and sacred material through the Atherian Empire during the Underground Centuries, 1–291 AR. These networks shared roads and occasional signs but possessed no common leader or permanent command. Their work preserved children, letters, Gospel passages and relics through successive persecutions, while betrayal, mistaken identification and local vengeance cost many lives.
 
-~435–470 AE, during the darkest period of Redeemer persecution under the late Star-Crowned Emperors.
+> _“We carry flame beneath the skin.”_  
+> —attributed to the courier called Ashvein
 
----
+## Origins and Extent
 
-### **Overview**
+The destruction of Qiryath and the spread of Redeemer communities placed refugees and converts along the great Atherian roads. The Via Celestis became the principal long-distance route because imperial traffic offered concealment, lodging and reliable stages. Smaller paths ran through workshop quarters, cemeteries, river ports and households belonging to servants inside the imperial elite.
 
-The **Ember Underground** was not a single organization, but rather a **mycelial resistance**—a vast, self-organizing movement of faithful believers who worked in secrecy to protect the teachings, relics, and children of the Redeemer during the **Era of Blood and Ash**.
+No document establishes a single foundation. “The Ember Underground” first appears in later histories that joined numerous local memories under one image. A courier might know two safe houses and the bearer who introduced them, while remaining ignorant of a larger route. Bishops, wealthy converts and burial associations sometimes supplied money, but none controlled the whole movement.
 
-They moved across the empire’s arterial roadways—especially the **Via Celestis**—using hidden paths, forgotten ruins, and the very bones of Atherian infrastructure to create a **network of sanctified defiance**. In doing so, they preserved the foundation of what would become the future Church.
+## Couriers and Recognition
 
-The movement’s name derived from the belief that every courier carried an ember of the **Holy Flame**, not just metaphorically but **in soul and purpose**—a flickering spark awaiting the moment it could ignite faith anew.
+Networks identified trusted travellers through fragments of Redeemer parables burned into driftwood, bark or worn coins. A crescent mark placed above a doorway became common in several central provinces; gentle heat made some versions visible. The phrase “I carry the ember in silence” appears in later route manuals and may have belonged to only one chain.
 
----
+These protections failed as often as they succeeded. Imperial investigators copied marks, planted informers and followed children thought too young to recognise pursuit. Some cells executed suspected infiltrators under the name “ash-breathers”. Surviving testimony shows that innocent travellers also died under suspicion, a fact omitted from many later martyr cycles.
 
-### **Historical Record and Legacy**
+## What the Networks Carried
 
-The Ember Underground appears in:
+Couriers concealed Gospel passages in the bindings of law books, seams of clothing and undersides of household vessels. Oral teaching allowed children to retain prayers and narratives when written possession carried a death sentence. Believing households placed children with distant kin, sympathetic servants or monasteries, sometimes preserving their lives at the cost of a permanent separation from parents.
 
-- The **Thalmyric Flame Epistles**, where it's revered as proof of the Holy Flame’s indestructibility.
-- The **Eclessian Martyr Codices**, detailing the names and fates of hundreds of Ember operatives.
-- **Imperial Purity Records**, which label it a “web of heretical smugglers, oathbreakers, and memory-thieves.”
+Relics travelled by similar means. Several Lives claim that bearers shaved fragments from the Redeemer's nails and swallowed them during searches. Churches dispute these accounts because the provenance of the fragments is weak and the act destroyed the evidence it claimed to protect. Better-attested cargo included the belongings of local martyrs, lists of prisoners and cloth taken from burial.
 
-No single person ever led the Underground. It survived precisely because it was **leaderless, borderless, and bottomless**.
+## Arrest, Torture and Survival
 
----
+Imperial enforcement varied by reign and province. Quiet decades allowed congregations to acquire workshops and burial plots; a new governor or public panic could expose the same community within weeks. Arrested couriers were tortured for names and routes. Some remained silent, some recanted, and some informed on companions or rival cells.
 
-### **Structure and Symbolism**
+Later commemoration often turned every dead courier into a steadfast martyr and every survivor into a heroic keeper of secrets. Contemporary letters preserve a harsher history. Families refused to receive recanters, congregations killed alleged informers and wealthy patrons sometimes bought safety by surrendering servants. The Underground endured through courage, ordinary competence and repeated failure rather than perfect unity.
 
-####  **Cell Structure**
+## Remembered Places
 
-- Each Ember “cell” knew only two others—one above, one below. This ensured **no arrest could unravel the entire chain**.
-- Identity confirmation was visual, not verbal: using **burn marks** on driftwood, leaf-bark, or etched coins. These were not random symbols but fragments of **Redeemer parables**, decipherable only by the faithful.
+### The Tomb-Roads of Ramasca
 
-####  **Ember Marks**
+The catacombs beneath Ramasca had been built for families of the old faith. After a severe purge, tomb custodians opened unused chambers to fugitives and hid texts among funerary goods. Soldiers sealed several passages while people remained inside, killing families and custodians together. Barefoot pilgrims still report psalm-like echoes, though the surviving chambers also carry the sounds of water and unstable stone.
 
-- Hidden sanctuaries were marked by a **crescent burn** over the doorframe—visible only in firelight or by passing a heated iron near the wood.
-- Entry required the whispered phrase:
-    
-    > _“I carry the ember in silence.”_  
-    > Those who gave the wrong phrase were marked as “ash-breathers”—a code for infiltrators—and never seen again.
-    
+### The Lantern Cradle
 
-####  **Methods of Preservation**
+A disused observatory in the Veridancian hills became a station for news of arrests and deaths. Its coloured lanterns represented named martyrs and missing passages of scripture. Later hymns claim that some burned without wick or oil. The lost Lantern Gospel was kept there before a raid dispersed its custodians; no surviving copy can be securely identified.
 
-- Fragments of the **Gospel of Fire** were hidden in the **bindings of imperial law books**, the **seams of robes**, or even engraved on **the undersides of plates** used in noble households.
-- **Children of believers** were smuggled to distant monasteries or raised in coded oral traditions designed to pass doctrine without paper.
-- **Relics**, especially fragments of the Redeemer’s nails, were shaved down into slivers and **swallowed in moments of danger**—the faithful believing they would be reborn with the flame inside them.
+### The Ashway Bridge
 
----
+Hollow spaces inside the supports of a scorched bridge near Halmenth served as meeting rooms. Couriers approached carrying a coal in a spoon. A coal extinguished before the crossing warned that wind, rain or movement on the bridge made the meeting unsafe; later tradition described this practical test as the Flame refusing entry.
 
-### **Sites of Sacred Memory**
+Monks now cross the bridge barefoot during the Feast of Chains and carry coals in memory of the couriers. The ceremony honours people who used ordinary judgement under danger. It does not claim that every successful crossing was miraculous.
 
-> _“These places no longer burn. Now they remember.”_  
-> —_The Emberway Psalm_, verse 11
+## Memory in the Later Churches
 
----
+Thalmyric tapestries often represent the Underground as veins of fire beneath imperial cities. Eclessian glass commonly uses a web of lamps, with broken lines for betrayed cells. “Carrying the ember” entered both traditions as a phrase for preserving faith without public protection.
 
-####  _The Tomb-Roads of Ramasca_
+The movement helped the Church survive long enough to emerge after legalization with trained teachers, burial institutions, routes of communication and a memory of resistance. Those strengths also created later disputes. Families argued over relics, bishops claimed descent from networks they had never governed and former informers attempted restitution to communities that did not wish to forgive them.
 
-- Beneath the shattered city of Ramasca lay a network of **ancient catacombs**, originally built to house the nobility of the Old Faith.
-- When the city fell to imperial purges, the faithful repurposed its tunnels to **house gospel fragments, relics, and fleeing families**.
-- Tomb-guardians became priests in secret, and many were **buried alive** with sacred scripture to preserve them forever.
-- In modern Thalmyric mysticism, these catacombs are said to still echo with **psalms of the dead**, heard only by those who walk barefoot in silence.
-
----
-
-####  _The Lantern Cradle_
-
-- Once a **Star Pantheon observatory**, now a ruined watchtower deep in the Veridancian hills.
-- Every window of the Cradle was fitted with a **colored lantern**, each representing a martyred saint or lost gospel verse.
-- Only when word of a new martyr reached the Cradle would a new lantern be lit.
-- According to surviving hymns, some lanterns **burn without wick or oil**, fueled solely by “**faith unburied**.”
-- The **Lantern Gospel**, a now-lost scroll said to contain the original hymn of Isfir’s death, was once kept in the Cradle’s highest spire before it was raided.
-
----
-
-####  _The Ashway Bridge_
-
-- A stone bridge crossing a deep ravine near Halmenth, scorched black during an imperial purge.
-- The faithful repurposed the bridge’s **support arches**, building **narrow, hollow passageways** beneath the span to use as meeting points.
-- Tradition held that each believer approaching the bridge carried a **lit coal in a spoon**—if the ember went out before crossing, the meeting was canceled. “The Flame had denied them.”
-- Ashway Bridge is still visible today. Redeemer monks cross it barefoot every year during the **Feast of Chains**, carrying coals as part of the **March of Embers**.
-
----
-
-### **Cultural Memory and Legacy**
-
-- The Ember Underground is often depicted in **tapestries and stained glass** as a **spiderweb of fire**, threading beneath imperial cities like veins beneath skin.
-- The phrase **“carrying the ember”** became synonymous with enduring faith during oppression.
-- In modern Eclessian theology, the Underground is seen as the **lungs of the faith**—they did not speak or fight, but **breathed the flame forward** so others could one day sing and build in peace.
-
----
-
-### **Scholarly Commentary**
-
-> _“The flame spread not in war, but in whispers. And in those whispers, the stars fell.”_  
-> —**Archivist Rennel Virelos**, _Memoirs of the Rebirth_, 2nd Century
-
-> _“There was no army, no throne, no bishop. And yet they moved like wind across the continent. This was not a rebellion. It was resurrection.”_  
-> —**High Theologian Cendri of Aurelia**, _Epistles of the Flame-Walkers_
-
-> _“In the Ember, we see the shape of the future church—silent, fragmented, yet burning with unquenchable unity.”_  
-> —**Brother Cassivar**, Thalmyric Ascetic Scholar, _Fire Beneath the Skin_
-
+The Underground's historical importance lies in thousands of limited relationships: a servant opening one gate, a driver hiding one child or a frightened prisoner giving up one address. No single organisation saved the Church. The connected labour of many fallible people carried its life across three centuries.
 
 ## Navigation
 
+- [[The Age of the Redeemer]]
+- [[The Conversion of the Empire]]
+- [[The Fireless Trial]]
+- [[G-10 - The Road of the Empty Purse]]
+- [[G-24 - The Red Door and the Names Left Behind]]
 - [[Timeline MOC]]
-- [[Canon Index]]
-

@@ -14,7 +14,7 @@ tags: [world-historical-atlas, editorial-control]
 ---
 # World Encyclopedia — Revision and Expansion Programme
 
-This programme applies the approved Tidewood editorial standard to the whole canonical encyclopedia and schedules its further historical development. The [[World Egg Encyclopedia - Editorial Style Guide]] governs the prose. The [[World Historical Atlas MOC]] remains the reading entrance; the compact [[Timeline MOC]] and [[Chronology of the Known World (AR Dating)]] retain their existing functions.
+This programme applies the approved Tidewood editorial standard to the whole canonical encyclopedia and schedules its further historical development. The [[World Egg Encyclopedia - Editorial Style Guide]] governs the prose and article forms. The [[World Egg Encyclopedia - Standards and Corpus Quality Audit]] supplies the library-wide baseline and editorial gates. The [[World Historical Atlas MOC]] remains the reading entrance; the compact [[Timeline MOC]] and [[Chronology of the Known World (AR Dating)]] retain their existing functions.
 
 The first delivery is limited to the programme, its complete inventory, and twelve revised entrances. **Package 2 begins only after the entrance review.** Later packages are scheduled obligations of the encyclopedia, independent of campaign demand.
 
@@ -24,7 +24,7 @@ The entrance review, Caleran Foundations research and **Package 2B** have been a
 
 The subsequent palace and maritime research supplied five further readable histories and a private [[Atherian Palace and Maritime Histories - Integration Review|integration review]]. They establish the long palace aftermath, High Harbour's heroic cycle, the Gateway Republic and wars, and royal recovery among the spared towns. The imperial-founding pass has now selected Thalion as the Augustus-like founder and an incoming maritime dynasty joined to a spared-town family. [[Imperial Founding - Authorial History and Integration Review]] records fourteen further articles, the named founding generation and its integration through 350 BR.
 
-Package 2 has three recorded portions: **2A**, the approved author-only foundation study; **2B**, its integration and wider formation-to-republic history, including the palace and maritime supplement; and **2C**, Thalion's unification and the Age of Glory. **The founding portion of 2C is complete through the settlement around 350 BR. The wider Age of Glory, 350 BR–0 AR, is the next delivery.** The all-era [[Historical Atlas of Atheria]] connects them. Package 3 retains the later empire and Long Frontier.
+Package 2 has three recorded portions: **2A**, the approved author-only foundation study; **2B**, its integration and wider formation-to-republic history, including the palace and maritime supplement; and **2C**, Thalion's unification and the Age of Glory. **Package 2C is complete through 0 AR.** [[Historical Atlas of the Atherian Age of Glory]] supplies the connected imperial account, and [[Age of Glory - Authorial History and Integration Review]] records its controls. The all-era [[Historical Atlas of Atheria]] connects the three portions. Package 3 retains the Redeemer, later empire and Long Frontier.
 
 The original Package 1 scope and handoff below remain the historical record of that delivery. Its stop instruction does not reopen the already completed entrance review.
 
@@ -34,7 +34,7 @@ The original Package 1 scope and handoff below remain the historical record of t
 
 The article schedule distinguishes voice revision, historical expansion, both, and preservation. Its assignments describe the work to be undertaken. They do not claim that the entire library has already received the close reading completed for Tidewood. Existing frontmatter needs are recorded against their individual articles. A missing map layer, price series or regional history has a delivery home; it is not silently treated as finished.
 
-The starting library contained 761 canonical articles. The programme and its companion inventory extend that library to 763. All eleven cultural shelves, the historical figures, the seventy-five canonical myth articles, independent supernatural histories and the supporting reference shelves are included. Archives, campaigns, fiction, templates and received texts remain unchanged in Package 1. Received tales embedded in canonical articles keep their narrative voice; later editorial work may revise their introductions and commentary.
+The starting library contained 761 canonical articles. Completed entrance and Atherian packages, together with the first library-quality audit, have extended it to 818. All eleven cultural shelves, the historical figures, the seventy-five canonical myth articles, independent supernatural histories and the supporting reference shelves are included. Archives, campaigns, fiction, templates and received texts remain outside the canonical article count. Received tales embedded in canonical articles keep their narrative voice; later editorial work may revise their introductions and commentary.
 
 The source order remains:
 
@@ -78,6 +78,8 @@ Package 1 improves all eleven introductions. Their later depth ownership remains
 
 ## Package 2 — the next delivery
 
+Package 2 is now complete; the heading is retained as the programme's original delivery label.
+
 ### Scope and existing destinations
 
 The [[Historical Atlas of Atheria]] will remain the connecting account for the full Atherian past. Early depth writing expands [[Age of Scattering]], [[Age of Hearths and First Kings]], [[The First Atherian City-States]], [[Age of City-States]], [[Age of Stars]], [[The Rise of the Atherian Empire Overview]], [[Atherian Imperial Age]] and [[The Atherian Empire – Age of Glory]] where each article already owns the subject. Their functions must remain distinct: an era portal introduces a wider world, while a focused article explains a particular development.
@@ -117,6 +119,13 @@ Voice revision preserves existing facts and received uncertainty. Historical exp
 Reader articles identify their subject promptly, explain unfamiliar practices and develop relationships in connected paragraphs. They include affection, humour, achievement and pleasure as well as hardship. Slavery, rape, torture, murder, sacrifice and dispossession remain plainly named wherever established and relevant. Institutional culpability is described through actions; repeated concluding verdicts are unnecessary.
 
 Actor identity, source comparisons, campaign prompts, collision rulings and future restrictions belong in authorial controls. Cultural disagreement, missing information and competing memories belong in the reader account where they help explain the subject. Relocating a control never cancels it.
+
+Every remaining package also passes the four gates established by the corpus audit:
+
+1. Every reader-facing article touched by the package receives a self-contained lead.
+2. Campaign prompts, encounter instructions and technical classifications move out of reader prose.
+3. Parent articles retain substantive summaries of their child articles, and both accounts agree.
+4. A separate article must justify its existence through distinct history, function, relationships or consequences; otherwise its material is merged or moved to the appropriate control or game-use shelf.
 
 Human souls remain distinct from Giant persons, offices, Masks, residues, copies and Patron roles. Saints and angels act under commission. No delivery creates an unapproved Idol succession, explains a protected Weird or decides events after 1360. The encyclopedia does not compress independent greater-power conflicts into a universal hidden war.
 

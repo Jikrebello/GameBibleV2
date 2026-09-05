@@ -40,7 +40,6 @@ Comparison Leeches are thin green-black Shadow fauna with two faces: one resembl
 - **Weakness and permanent defeat:** identify the imposed comparison, name the real injustice separately, acknowledge the rival's good without surrendering the host's dignity, and destroy the paired reflection. Empty reassurance does not remove the leech.
 - **Materials:** preserved twin faces reveal the comparison selected by whoever seeded the infestation.
 - **Regional names:** green measures, spite tongues, twin worms, and praise drinkers.
-- **Story uses:** sabotage an academy through one falsified ranking; reveal a patron deliberately setting apprentices against each other; make a just grievance harder to pursue without scapegoating.
 
 ## Replacement Doubles
 
@@ -53,7 +52,6 @@ Replacement Doubles are Masks grown to occupy a role, relationship, reputation, 
 - **Weakness and permanent defeat:** restore the original's name and truthful history without hiding real faults, expose the edited witness chain, and destroy the copied anchor in both Material and overlay. Killing the Double in secret confirms the replacement story.
 - **Materials:** copy-skin records every trait witnesses demanded the original lose.
 - **Regional names:** better siblings, second heirs, green twins, and the always-there.
-- **Story uses:** replace a cruel parent with a gentler fraud; erase a marginalized inventor through an ideal public successor; infiltrate a monastery by becoming the saint everyone wishes its founder had been.
 
 ## Stolen-Fate Lords
 
@@ -66,7 +64,6 @@ Stolen-Fate Lords are autonomous Archmasks that govern counterfactual lives. The
 - **Weakness and permanent defeat:** repair the real injustice without validating an invented victim, restore erased people and records, accept losses that cannot be transferred, and close the counterfactual anchor through truthful collective witness.
 - **Materials:** fate keys open one route toward a life someone desired, but never guarantee return and always identify a person that route would displace.
 - **Regional names:** green lords, might-have kings, orchard judges, and inheritance thieves.
-- **Story uses:** offer a conquered people a history in which the conquerors' civilians never lived; restore a dead heir by displacing a living child from memory; tempt heroes with a version of their victory in which no sacrifice occurred.
 
 ## Relation to Borrowed Saints
 

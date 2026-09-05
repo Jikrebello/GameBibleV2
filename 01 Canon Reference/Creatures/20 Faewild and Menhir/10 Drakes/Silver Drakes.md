@@ -61,13 +61,6 @@ Silver scale can be worked into reflective ward-surfaces and cold-resistant fitt
 
 Deep-southern animals are large, frost-dulled, and associated with permafrost roads. More northerly highland populations are brighter and follow seasonal snow rather than permanent cold. Names include silver drake, moon-ridge, stillback, pass ghost, frost mirror, and pale walker.
 
-## Story Hooks
-
-- A border patrol vanishes only on moonless nights, which should be the safest time.
-- An Ättar guide refuses to cross a ridge after soldiers kill a nesting adult.
-- A silver heart-gem has made a mountain prison silent enough to hide an escape.
-- A lost caravan stands frozen but alive inside a court-still valley.
-
 ## Navigation
 
 - [[Bestiary MOC]]

@@ -21,7 +21,7 @@ Most animated corpses contain no routed person. Scripts, residue, imposed impuls
 
 ## Black Mud
 
-The Hand's black medium preserves tissue and makes bodies receptive to imposed motion. Authorially, its worst supplies connect to Undertow predation and stolen funerary material. Users disagree whether the substance comes from one source or whether “Black Mud” names several preparations sold under a useful terror.
+The Hand's black medium preserves tissue and makes bodies receptive to imposed motion. Its worst supplies are connected to Undertow predation and stolen funerary material. Users disagree whether the substance comes from one source or whether “Black Mud” names several preparations sold under a useful terror.
 
 ## Higher Undeath
 
@@ -36,4 +36,3 @@ The Pale Hand controls mortuaries, sealed workshops, corpse contracts, and labor
 - [[Soul Routing and the Vestibule]]
 - [[The Undertow]]
 - [[The Citadel of Vorthara Overview]]
-

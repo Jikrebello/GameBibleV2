@@ -15,6 +15,8 @@ tags: []
 ---
 # Conflicts and Cultural Struggles
 
+Brauvalis has been shaped since the Grey Sweat by contests among ducal officers, monasteries, guilds and rival confessions. Brewing, cloth-making and medicine provide livelihoods throughout the duchy, but their guilds also maintain burial funds, congregations and armed retainers. Disputes over tithes, exemptions and trade therefore carry religious and political weight. Duke Reinhardt's present settlement has restrained open conflict without removing the interests that produced it.
+
 ## Guild Rivalries
 
 The **Brewers' League** represents town producers; the **Amber Brotherhood** protects monastic and licensed houses. Clothiers and potters dispute fuel, river frontage, and tariff preference. Herbalists contest Church alchemists over who may certify plague medicines and relic-adjacent remedies.
@@ -48,4 +50,3 @@ Duke Reinhardt's compromise depends on personal authority. Abbeys fear secular a
 - [[The Duchy of Brauvalis Overview]]
 - [[01 Canon Reference/Peoples and Cultures/Eclessia/30 Society and Daily Life/Life Paths/Lives of Korrheim and Brauvalis.md|Lives of Korrheim and Brauvalis]]
 - [[01 Canon Reference/Peoples and Cultures/Eclessia/50 Economy and Warfare/Economy and Trade Overview.md|Economy and Trade Overview]]
-

@@ -28,6 +28,8 @@ tags:
 ---
 # Whole-History Planting Matrix — Blocks III and IV
 
+> **Subsequent integration:** The Glory-era leads B3-01 through B3-05 now have canonical historical destinations recorded in [[Age of Glory - Authorial History and Integration Review]]. Their cards below remain the research and disposition record. Later open-placement language describes the nursery stage and cannot override the canonical locations, actors or continuity rulings.
+
 > [!info] Atlas integration
 > Current canonical destination: [[Myths and Legendary Histories MOC]]. This dossier retains its research history; former holds and promotion gates are superseded only where the [[World Historical Atlas - Integration and Coverage Ledger]] records an explicit outcome. Preliminary or rejected variants do not override their corrected descendants.
 

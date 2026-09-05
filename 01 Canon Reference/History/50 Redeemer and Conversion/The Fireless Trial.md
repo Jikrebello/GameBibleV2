@@ -3,169 +3,71 @@ type: event
 status: canon
 canon_level: local
 visibility: public
-era: []
-region: []
-culture: []
-related_factions: []
-appears_in: []
+era: ["Underground Centuries"]
+region: ["Caleran", "Atherian Empire"]
+culture: ["Atherian", "Redeemer Church"]
+related_factions: ["Atherian Senate", "White Flame Monks"]
+appears_in: ["Caleran"]
 needs: []
+aliases: ["Trial of Velmion Arcasta", "The Star-Forgetting"]
 tags: []
 ---
-##  _The Fireless Trial_
+# The Fireless Trial
+
+The Fireless Trial was the prosecution of Senator Velmion Arcasta in Caleran during the middle of the Underground Centuries. Arcasta was a former priest of Lyraxis, a respected jurist and the owner of an estate used to shelter Redeemer congregations and prohibited texts. The Senate designed his trial as a public humiliation. His refusal to recant, answer his accusers or produce the miracle expected by his supporters gave the proceedings their enduring name.
 
 > _“He said nothing. And yet we heard everything.”_  
-> —Excerpt from the _Testament of Dust_, recovered from the Archives of Caleran
+> —the _Testament of Dust_
 
-### **Date**:
+## Velmion Arcasta
 
-~455 AE, midway through the Era of Blood and Ash
+Velmion belonged to a senatorial family with connections to the old priesthood and had written on archaic civic procedure before his conversion. His household concealed worshippers, children separated from arrested parents and portions of the Gospel of Fire. Servants carried texts between the estate and burial fraternities in Caleran; at least two were tortured after officials discovered the route.
 
-### **Location**:
+When an imperial inquiry reached his household, Velmion refused an offered escape. He invoked an old right of senatorial trial before the full assembly. The claim was legally sound and politically useful to the prosecution, which wanted the city to watch a prominent convert submit to the Star Pantheon.
 
-The **Grand Forum of Caleran**, capital of the Atherian Empire, heart of celestial law, and seat of the Imperial Senate.
+## Proceedings in the Grand Forum
 
----
+The Senate Dome was opened so that the stars could be called as witnesses. Velmion entered in a plain white robe marked at the hem by a burned handprint. Prosecutors charged him with treason, impiety and the concealment of proscribed believers. They read passages from his private journal, including the sentence, _“In the Flame I feel clarity. In the stars, I find only shadows.”_
 
-### **Overview**
+Velmion remained silent through hours of testimony and mockery. Some later accounts describe the silence as a legal strategy; the oldest Redeemer versions connect it with his refusal to name the people he had sheltered. When a scribe placed parchment before him, he wrote only: _“The stars speak in riddles. The Flame speaks plain.”_
 
-The **Trial of Senator Velmion Arcasta** stands as one of the most pivotal events in early Redeemer history—not for what was said, but for what was not.
+Several believers in the crowd expected the White Flame to descend. No flame appeared. Velmion made no prophecy, his chains did not break and the Senate completed its sentence without interruption. This absence became central to the story. He accepted the possibility that faithful witness might receive no public vindication.
 
-A former **priest of Lyraxis** and **prominent legal scholar**, Velmion was discovered to be **harboring Redeemer believers**, sheltering banned texts, and offering sanctuary in his estate. But rather than flee, he **invoked an archaic legal clause** granting him the right to a **trial before the full Senate**—a spectacle not seen since the early days of the Republic.
+## Sentence and Imprisonment
 
-He attended in **plain white robes**, offering no defense, speaking no words.
+The Senate found him guilty. Officials feared that a public execution would create a martyr's procession, so they imposed what the record calls “containment beneath the sight of heaven.” A star-forged bit was fixed across Velmion's mouth, cutting him when he attempted to drink. He was confined in a pit beneath the Temple of Typhonius, where rotating mirrors carried narrow shafts of starlight into the cell.
 
-The trial was intended as a **ritual humiliation**—a warning to the faithful.
+The names of the gaolers and the length of the imprisonment are uncertain. Temple accounts cease recording food after the prefect sealed the lower chamber. Redeemer tradition holds that Velmion died there; no body was publicly returned to his family.
 
-Instead, it became **canonized as a sacred turning point** in the moral collapse of the old Empire.
+Pilgrims began visiting the temple floor within days. Some tapped prayers on the stone and reported an answering knock. Guards beat and arrested those who refused to leave. The practice survived the closure of the pit and turned an intended place of disappearance into one of Caleran's early sites of sacred memory.
 
----
+## Later Signs and Disputed Accounts
 
-### **The Charges**
+The earliest record establishes the silent trial, the muzzle and the imprisonment. Claims of sunlight breaking through an overcast sky, warm chains and posthumous answers to prayer enter later Lives. Eclessian historians generally accept a bounded intercession at the prison; Thalmyric writers give greater weight to the silence itself. Old imperial accounts call the episode the Star-Forgetting and describe Velmion as a senator broken by religious grief.
 
-> _“He has abandoned the heavens and now sings to fire. He turns his face from the stars and shelters the damned.”_  
-> —Prosecutorial opening statement, _Scrolls of Judicial Purity_, Vol. XII
+The site beneath the former temple is now known as Velmion's Vault. The Thalmyric Church keeps the chamber sealed and preserves part of a star-metal bit as a relic. Eclessian custodians dispute both the fragment's provenance and the claim that the sealed chamber contains his remains.
 
-The Senate accused Velmion of:
+## White Flame Monks
 
-- **Treason**: For undermining the divine authority of the Emperor and the Star Pantheon.
-- **Heresy**: For rejecting star-sanctioned rituals and declaring allegiance to the Redeemer.
-- **Sheltering the Faithless**: For protecting flamebearers, monks, and so-called “children of the ember.”
+Communities devoted to silence and disciplined witness later adopted Velmion as their patron. They wear small pendants shaped like the muzzle and take a Vow of Muzzling during particular seasons of prayer. Their custom allows one final spoken word at death; the word is preserved as testimony and never treated as new doctrine.
 
-Public recitation of his **private journal** was used to further scandalize:
-
-> _“In the flame I feel clarity. In the stars, I find only shadows.”_
-
----
-
-### **The Trial Itself**
-
-Witnesses record the scene in vivid detail:
-
-- Velmion entered **unshackled**, head uncovered.
-- His robes bore a **single burn mark**, a **handprint at the hem**—interpreted later as the Redeemer’s touch.
-- He stood alone beneath the Senate Dome, which had been ritually unroofed to allow **starlight to “bear witness”**.
-- Throughout hours of testimony, mockery, and theological indictment, **he remained silent**.
-
-The only thing he wrote, when offered parchment by the scribes, was:
-
-> _“The stars speak in riddles. The Flame speaks plain.”_
-
-He did not meet the eyes of his accusers—only stared upward at the overcast sky.
-
----
-
-### **The Verdict and Sentence**
-
-Unable to provoke remorse or response, the Senate delivered a unanimous guilty verdict. But rather than execution—fearing martyrdom—they imposed **“a punishment of containment”**.
-
-Velmion was:
-
-- **Muzzled with a star-forged bit**: a symbol of silencing not only the tongue, but the soul.
-- **Imprisoned beneath the Temple of Typhonius**, god of catastrophe, decay, and judgment.
-- Confined to a subterranean pit lit by **rotating starlight mirrors**, ensuring the heavens forever watched him.
-
-The sentence was meant to mock the Redeemer’s death: not public and fiery, but **lonely, cold, and eternal**.
-
----
-
-### **The Aftermath**
-
-> _“The stars broke before the man did.”_  
-> —Anonymous inscription, carved into a bench in the Senate Forum years later
-
-The sentence backfired.
-
-Within days, **rumors spread**:
-
-- That Velmion's **chains glowed faintly**, warm to the touch.
-- That a **shaft of sunlight broke through the clouds** as he was taken from the Forum—despite overcast skies.
-- That **prayers whispered near the temple floor** were met with soft knocking sounds below.
-
-The Imperial Prefect ordered the pit sealed.  
-But **pilgrims came anyway**.  
-**Flamebearers wept upon the stone.**
-
-By the end of the century, the site was regarded as **one of the sacred thresholds**—where the empire tried to snuff a saint, and failed.
-
----
-
-### **Doctrinal Legacy**
-
-####  _The White Flame Doctrine_
-
-Velmion’s silence became the foundation for the **White Flame Monks**, an ascetic sect dedicated to:
-
-- Silent devotion
-- Passive resistance
-- Emotional discipline through spiritual fire
-
-They take a **Vow of Muzzling**, wearing star-metal pendants shaped like bits around their necks. On their deathbed, each monk is allowed to speak one final word—considered **sacred prophecy**.
-
----
-
-####  _The Feast of the Silent Flame_
-
-Celebrated in Eclessia on the **27th of Duskfall**, this day commemorates Velmion’s sentencing.
-
-- No speaking is permitted from dawn until dusk.
-- Monks chant hymns written entirely in **gesture and light**, using **lantern choreography**.
-- The final hymn is always:
-
-> _“He answered them with ash.”_
-
----
-
-####  _The Trial Hymns_
-
-Composed anonymously in the decades following the event, the _Trial Hymns_ became some of the earliest poetic scripture of the Redeemer Church.
-
-Selected verses:
+The Feast of the Silent Flame is observed in parts of Eclessia on the twenty-seventh of Duskfall. Worshippers keep silence from dawn until dusk, and monastic houses perform hymns through gesture and lantern light. The anonymous Trial Hymns supplied several of the feast's oldest lines:
 
 > _“The sky held its breath.”_  
-> _“He said nothing. And yet they trembled.”_  
 > _“Let the stars watch. We do not fear their gaze.”_
 
-They are still used as **formal rebuttals** in theological debates and **inscriptions** on cathedral doors.
+Velmion founded no order during his lifetime. The monks' claim of descent expresses spiritual inheritance rather than an unbroken institution from his prison.
 
----
+## Historical Importance
 
-### **Scholarly Interpretation**
+The trial became influential because it denied both the Senate and the crowd the spectacle they wanted. Imperial officials displayed their power to isolate and mutilate a dissident. Redeemer witnesses saw a man protect others without receiving rescue. Later churches used the episode in arguments about martyrdom, miracles and the danger of demanding visible proof from Heaven.
 
-- **Eclessian Historians** view the trial as the moment the Empire **condemned itself**—a final demonstration that the old order was blind to the soul.
-- **Thalmyric Mystics** argue that Velmion’s silence was the **voice of the Flame itself**, and that he **died not in prison, but ascended through quiet suffering**.
-- **Imperial Loyalist Histories** refer to the trial only as “The Star-Forgetting,” and insist that Velmion was mad with celestial grief—his silence not holy, but broken.
-
----
-
-> _“We do not light fires to be seen. We light them to see.”_  
-> —**Velmion’s Paradox**, a meditation recited by White Flame Monks at dusk
-
----
-
-
+Velmion's silence did not save the tortured servants or close the prison beneath Typhonius. Their suffering remains part of the account preserved by the oldest Caleran commemorations, which read the household names before the senator's own.
 
 ## Navigation
 
+- [[The Conversion of the Empire]]
+- [[The Ember Underground]]
+- [[Codex of The Era of Blood and Ash]]
+- [[White Flame Doctrine]]
 - [[Timeline MOC]]
-- [[Canon Index]]
-

@@ -39,12 +39,6 @@ Qesheth holds the best documented active gate and acts as the principal routing 
 
 Zanthiri officials want emergency access written into the next charter renewal. The gate bench insists that host protection purchases no right of passage.
 
-## Story Uses
-
-- a destination scroll arrives before the caravan that carried it;
-- a claimant passes every textual test but refuses Qiryath;
-- the emir's threatened district can be evacuated only by conceding precedent over the gate.
-
 ## Navigation
 
 - [[Tower Towns and the Prophet's Roads]]

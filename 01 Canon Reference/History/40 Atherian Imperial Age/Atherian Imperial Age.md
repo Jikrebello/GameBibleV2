@@ -17,7 +17,7 @@ tags: []
 ---
 # Atherian Imperial Age
 
-The Atherian Imperial Age is the period when the Atherian city-state synthesis becomes continental empire.
+The Atherian Imperial Age extends from Aurelius Thalion's settlement around 350 BR through the Fall of Caleran in 905 AR. During these centuries a civilisation formed among maritime settlers, inland cities and the Caleran republic became a continental empire, adopted the Redeemer's Church and divided under the pressures of conversion, provincial power and frontier war. Its roads, cities, laws, churches and ruined public works became the principal inheritance contested by Thalmyria, Eclessia and their neighbours.
 
 ## What It Inherits
 
@@ -39,6 +39,17 @@ Its oldest and densest infrastructure accumulated in the land now forming Thalmy
 
 - [[Timeline MOC]]
 - [[The Atherian Empire – Age of Glory]]
+- [[Historical Atlas of the Atherian Age of Glory]]
+- [[The House of Thalion]]
+- [[The Year of Four Eagles]]
+- [[The House of Veloran]]
+- [[The Last Dynasties of the Age of Glory]]
+- [[Provinces and Municipal Life in Imperial Atheria]]
+- [[The Imperial Army and the Frontiers]]
+- [[Food, Trade and Enslavement in Imperial Atheria]]
+- [[Schools, Arts and Imperial Magic]]
+- [[Star Religion and the Imperial Cult]]
+- [[The Companions Who Entered by the Low Door - Imperial History]]
 - [[The Rise of the Atherian Empire Overview]]
 - [[Historical Spine of the Known World]]
 

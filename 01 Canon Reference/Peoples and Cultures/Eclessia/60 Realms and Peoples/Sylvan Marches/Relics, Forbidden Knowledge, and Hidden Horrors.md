@@ -43,10 +43,6 @@ The Hollowborn vault contains route maps, seal keys, and keeper testimony. It is
 
 **Maw That Whispers:** a Left Hand breach offering erasure of guilt in exchange for the memories that make restitution possible.
 
-## Use in Stories
-
-Each danger should present signs, a discoverable history, a cost for use, and at least one solution other than possession or destruction. Relic hunters, Lantern investigators, Folk keepers, Freeflame icon-breakers, and Medori buyers will value the same object for incompatible reasons.
-
 ## Navigation
 
 - [[The Sylvan Marches Overview]]

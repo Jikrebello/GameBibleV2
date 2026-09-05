@@ -35,13 +35,6 @@ Every Horde needs the Standard, so every foreign court watches Sorqai. The Coven
 
 Sorqai is old and has not named a successor with equal acceptance. Custody of the Standard, the grave prohibition, and the limits of regency may split the coalition before any khan can call a lawful kurultai.
 
-## Story Uses
-
-- guard a sky-rider whose falcon saw an impossible camp;
-- prove a claimant forged one mane of the Standard;
-- stop a grave expedition without revealing why its map is convincing;
-- carry Sorqai's ruling through territory whose khan rejects her jurisdiction.
-
 ## Navigation
 
 - [[Sky Faith and the Blue Eternal]]

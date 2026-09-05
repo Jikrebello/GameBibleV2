@@ -61,7 +61,11 @@ These wars increased Caleran's dependence on inner-sea allies and suppliers whil
 
 [[The Wars of the Atherian Succession]] traces the public government of Thalion, Velsar and Varroth, its changing territorial responsibilities and the final war involving Samyra's kingdom. [[Aurelius Thalion]] established supreme command around 350 BR after the conquest of Sarqen. His settlement brought continuing military pay and central provincial appointments while preserving many rewards of confiscation. [[Households of the Imperial Founding]] describes the marriages, friendships and surviving children affected by these decisions.
 
-The [[01 Canon Reference/History/40 Atherian Imperial Age/The Rise of the Atherian Empire Overview.md|account of imperial rise]] connects the foundation to the institutions of the [[01 Canon Reference/History/40 Atherian Imperial Age/The Atherian Empire – Age of Glory.md|Age of Glory]].
+The [[01 Canon Reference/History/40 Atherian Imperial Age/The Rise of the Atherian Empire Overview.md|account of imperial rise]] connects the foundation to the institutions of the [[01 Canon Reference/History/40 Atherian Imperial Age/The Atherian Empire – Age of Glory.md|Age of Glory]]. [[Historical Atlas of the Atherian Age of Glory]] follows the complete sequence through 0 AR.
+
+Thalion ruled until 318 BR and adopted Meren, the son of Evara and Velsar, as successor. The House of Thalion ended in 247; the resulting [[The Year of Four Eagles|succession war]] brought the provincial Veloran house to power. The later Serrat and Othran rulers carried the empire to the Redeemer's lifetime.
+
+Provincial cities, professional armies and continuing transport allowed the government to survive changes of dynasty. [[Provinces and Municipal Life in Imperial Atheria]] explains this structure. [[Food, Trade and Enslavement in Imperial Atheria]] and [[Schools, Arts and Imperial Magic]] follow the work, coercion, knowledge and pleasures sustained within it.
 
 The Redeemer entered this imperial world. Persecution, Conversion, regional decay, frontier accommodation and the Fall changed its political and religious inheritance. Thalmyrics and Eclessians later claimed that inheritance through different histories, not as two ancient biological branches. Atherian ruins therefore belong to many present peoples, including those conquered by the builders.
 

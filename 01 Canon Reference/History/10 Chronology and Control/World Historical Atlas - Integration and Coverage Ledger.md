@@ -949,6 +949,22 @@ The earlier palace/maritime table records its then-open decisions. The new selec
 
 These fourteen additions increase the canonical library from 786 to 800 articles. The original 57-source register, 75 Garden destinations, 315 identifiers and 204 reserve records remain intact; the later Caleran, palace/maritime and imperial supplements extend their coverage without changing those original counts. No Garden or application files change.
 
+## Package 2C — the Age of Glory
+
+The authorised continuation completes the imperial history from 350 BR to 0 AR. [[Historical Atlas of the Atherian Age of Glory]] is the readable entrance; [[Age of Glory - Authorial History and Integration Review]] records chronology, actor identity, regional placement, source fidelity and collision boundaries.
+
+| Incorporated material | Canonical destinations | Authority |
+|---|---|---|
+| Thalion's established settlement and the Roman-imperial structural grammar | Later Thalion, House of Thalion, Four Eagles, House of Veloran and later dynasties | Ordinary rulers, deaths, wars and succession fixed through 0 AR; later lives remain Package 3 |
+| B3-01 and G-09 | [[The Companions Who Entered by the Low Door - Imperial History]]; existing received tale unchanged | Underlying company and culpability fixed; cultural variations preserved |
+| B3-02 | [[The Keeper of Borrowed Grain]] | Raveth relief, confiscation and debt servitude fixed |
+| B3-03 | [[The Crown of Olveth]] | Shelter object's bounded response fixed; no saintly or Menhir identity |
+| B3-04 | [[Star Religion and the Imperial Cult]] | Dependent Pride Mask formation fixed; human souls and offices remain separate |
+| B3-05 | [[The Two Roads of Arcelon]] | Campaign massacre, forced labour and paired practical memory fixed; G-08 remains separate |
+| Established Atherian social and magic references | Provincial, military, economic, learning and religious articles | Connected explanatory history; no new geography beyond broad placed relationships |
+
+The sixteen additions increase the canonical library from 800 to 816 articles. Original Garden, identifier and reserve counts remain unchanged. Package 2C is complete through the Redeemer boundary. No Garden, campaign or application file changes.
+
 ## Canon boundaries after integration
 
 

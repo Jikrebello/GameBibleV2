@@ -51,10 +51,6 @@ A bloodline shapes appetite, gifts, preferred anchors, and recurring social role
 - Neither bloodline, age, repentance, nor destruction guarantees the soul's final judgement.
 - Blood-memory and residue are not permission to speak for routed dead.
 
-## Use in Stories
-
-Vampires work best when the bloodline clarifies the kind of pressure an adventure explores. A Regalis plot should concern hierarchy and dependence; a Nocturnis plot, secrecy and evidence; a Sanguine plot, bodies and inherited obligation; an Eclipsis plot, identity and testimony; a Militis plot, protection and command. Their shared origin need not make every story about Pride or Anshara.
-
 ## Navigation
 
 - [[Bestiary MOC]]

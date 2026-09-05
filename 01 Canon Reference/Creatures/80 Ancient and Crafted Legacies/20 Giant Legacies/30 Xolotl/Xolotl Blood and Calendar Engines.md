@@ -34,7 +34,6 @@ Xolotl treated sacrifice as stored civic time. Its machines linked blood, sunlig
 - **Tactics and failure:** they focus reflected heat, mark intruders with blood scent, and move only while connected to a lit channel. A cracked mirror scatters indiscriminate cutting light.
 - **Permanent defeat and materials:** eclipse the receiving lens, drain its blood conductor, and break the buried command mirror. Salvage includes sun-black glass, heat mirrors, and blood-resistant channel stone.
 - **Regional names:** *noon guards*, *black suns*, *gold-shadow men*.
-- **Story uses:** cross a court by reconstructing its procession; redirect a Warden against a modern sacrificial rite; recover a solar lens before grave robbers wake the whole terrace.
 
 ## Heart-Bearers
 
@@ -44,7 +43,6 @@ Living burden organisms grown to carry warm blood, graft organs, and rhythmic co
 - **Tactics and failure:** they charge through narrow ritual lanes, spray clotting cords, shield vital vats, and follow familiar drum patterns. Panic causes catastrophic dumping or trampling.
 - **Permanent defeat and materials:** sedate and detach a surviving bearer, or destroy its brood organ and every heart-key that regrows it. Salvage includes surgical grafts, clotting resin, and living pumps.
 - **Regional names:** *temple hearts*, *red burdeners*, *drum beasts*.
-- **Story uses:** free a surviving animal from an active temple; keep one alive long enough to operate a sealed lift; stop fleshweavers breeding a human-compatible replacement line.
 
 ## Calendar Engines
 
@@ -52,7 +50,6 @@ Living burden organisms grown to carry warm blood, graft organs, and rhythmic co
 - **Tactics and failure:** they change gravity of ritual schedules rather than brawl, activating guardians, sealing routes, aging stores, or delaying mechanisms until a named hour. A damaged engine can repeat one lethal day locally.
 - **Permanent defeat and materials:** reconcile its astronomical reference, stop the blood clock, and remove all correction tablets. Salvage includes precise star tables, season gears, and red-gold conductors.
 - **Regional names:** *day eaters*, *stone calendars*, *the waiting suns*.
-- **Story uses:** race a predicted reactivation; use an engine's records to date the Exodus; choose whether to restart an irrigation cycle that also demands sacrificial input.
 
 ## Navigation
 

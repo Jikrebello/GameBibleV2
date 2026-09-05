@@ -41,10 +41,6 @@ The patrician road begins with galley-shares before marriage and marriages negot
 
 The Church glitters here — feast-processions by barge, a Patriarch-of-Sermora title the Sanctum regrets granting — and weighs little; the sailors' real religion is Naris and the sea's manners. Crime is a licensing gradient: smuggling is commerce that skipped a stamp, piracy is privateering that missed a date, and the only unforgivable civic sin is *freelancing intelligence* — selling to outsiders what the Ten consider theirs. For that, the lagoon has depths.
 
-## Hooks
-
-A prize-court case where the captured manifest names a Ten member's house; a salon-keeper's unmade entries subpoenaed by three powers at once; the year the ring comes back — hooked from the deep in a fishing net, and the whole city trying to decide what the sea is saying.
-
 ## Navigation
 
 - [[01 Canon Reference/Peoples and Cultures/Sestaran Concord/The Sestaran Concord Overview.md|The Sestaran Concord Overview]]

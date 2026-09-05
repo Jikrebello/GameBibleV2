@@ -50,10 +50,6 @@ Caldria combines heavy cavalry, disciplined infantry, engineers, fortified passe
 - Competition with Ironvale for weapons and engineers.
 - A frontier culture tempted to turn permanent readiness into permanent war.
 
-## Story Uses
-
-Order rivalries, fortress commands, relic custody, mixed-confession companies, warlock accidents, veteran settlements, and border incidents engineered to break the Accord.
-
 ## Navigation
 
 - [[Knightly Orders & Power Struggles]]

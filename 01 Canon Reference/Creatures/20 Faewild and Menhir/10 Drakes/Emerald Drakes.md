@@ -64,13 +64,6 @@ In Grenzburg, the Duke needs the animal killed because it is taking supply colum
 
 Emerald drake, green silence, heart-oak hunter, moss lord, pollen-cat, and root emerald. Folk communities usually name a territorial animal for its valley or oldest tree rather than treating the lineage name as sufficient.
 
-## Story Hooks
-
-- The winter hunt (Act II): track and kill the Drake that has made Grenzburg's supply routes part of its territory, then confront the ecological disorder left behind.
-- A pollen-sleep circle swallows a tax convoy; everyone wakes but the Ledger-Master's strongbox is gone — the drake didn't take it, but who used its border as a tool?
-- A Sylvorn-pact druid arrives to *re-seat* a slain drake's law before the forest forgets it, and needs the heart-gem back from whoever looted it.
-- An egg in a noble's menagerie starts re-ordering the game in his park; the court it belongs to has begun collecting the debt.
-
 ## Navigation
 
 - [[Bestiary MOC]]

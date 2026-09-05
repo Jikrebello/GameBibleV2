@@ -13,6 +13,8 @@ tags: []
 ---
 # Keepers, Courts, and Communal Government
 
+Jirahar government is distributed among household courts, travelling company benches, tower councils, trained Keepers and the separate custodians of Way-Gates. These institutions developed to govern a dispersed people without a single territorial state or universal supreme court. Their authority rests on learning, communal acceptance and agreements with host powers, and difficult decisions gain wider force as other courts study and adopt them.
+
 ## Local Courts
 
 Every tower, recognized quarter, and sufficiently large travelling company maintains a court. Small companies combine judges or submit difficult cases to the next tower circuit. Courts hear marriage, conversion, inheritance, contract, discipline, charity, and disputes voluntarily submitted by outsiders.

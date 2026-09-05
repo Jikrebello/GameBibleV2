@@ -15,7 +15,7 @@ tags: []
 ---
 # Mysticism and Heresy
 
-Eclessia distinguishes sanctity, disputed revelation, confessional dissent, political sedition, and supernatural predation. Officials often collapse those categories for convenience; this note does not.
+Eclessian religious law distinguishes recognised sanctity, disputed revelation, confessional dissent, political sedition, fraud and supernatural predation. The differences determine who investigates a claim and whether the response should be pastoral, judicial or military. Officials have often confused them for political convenience, with consequences ranging from the protection of false apparitions to the torture and execution of innocent dissenters.
 
 ## Recognized Sanctity
 

@@ -41,10 +41,6 @@ Estate theft is discipline, not law; real crime lives on the rivers (grain-barge
 
 Higher than the west's: steppe-edge thin places, the Tarkhan wind-omens crossing the border with the horse-trades, and the eastern piety's older furniture — a Virelian serf's grandmother knows charms the Inquisition would call by other names, and the priest has decided not to hear them.
 
-## Hooks
-
-A runaway's letter read aloud by the one literate serf, and what it starts; a hussar's debt sold to a collector nobody sane would choose; the district noble moot where the eastern candidate's men arrive with steppe horses and new money; the Unwritten camp that has started keeping a register — of the lords.
-
 ## Navigation
 
 - [[01 Canon Reference/Peoples and Cultures/Eclessia/Eclessia Overview.md|Eclessia Overview]]

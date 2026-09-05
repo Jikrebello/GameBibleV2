@@ -96,14 +96,6 @@ They are victims, not a new species. Personal names, familiar sensory cues, rest
 
 Salvaged Hushwright parts may attempt to return to one another or tidy the workshop where they are stored.
 
-## Quest Uses
-
-1. A University archive becomes perfectly ordered while staff lose their names.
-2. A ship repaired with white joint-metal changes its cargo plan every night.
-3. An echo-held worker returns to Castara and continues a shift from a mine that no longer exists.
-4. A Merchant Prince wants an inspection mask to discipline a construct workforce.
-5. A ruin crew learns that leaving one room untidy is the only way to know when a Hushwright is nearby.
-
 ## Navigation
 
 - [[Ancient and Crafted Legacies MOC]]

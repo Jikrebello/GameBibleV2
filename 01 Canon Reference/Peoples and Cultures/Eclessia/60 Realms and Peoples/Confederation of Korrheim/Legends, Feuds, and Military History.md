@@ -15,6 +15,8 @@ tags: []
 ---
 # Legends, Feuds, and Military History
 
+Korrheim's military history is the history of armed cantons whose captains, workshops and communal estates repeatedly defended their independence while competing among themselves. The Confederation celebrates commanders who held mountain passes and organised winter companies, yet its records also preserve unpaid soldiers, plundered villages and private feuds conducted under public contracts. These memories continue to shape recruitment, fortress government and the uneasy limits placed on confessional warfare after the Accord.
+
 ## Captains Remembered
 
 Sir Brandt Falkenwald, "the Immovable Bastion," made defensive patience a Korrheim virtue at Sturmgard Pass. Klara Ostvald, the Stormbearer, organized winter riders and is claimed by rival confessions. Ulrich Dornhelm, the Iron Wolf, built a captain-family that now threatens civic balance. Father Gregor the War-Priest served mixed companies and wrote the burial articles later copied into the Accord.

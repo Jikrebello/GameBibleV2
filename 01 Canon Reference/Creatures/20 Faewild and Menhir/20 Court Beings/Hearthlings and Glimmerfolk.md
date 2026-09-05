@@ -59,14 +59,6 @@ Hearth-tokens and glimmer scales retain a weak tendency toward order or misdirec
 
 Regional names include ashkin, little keepers, lamp-folk, lane sparks, hedge stars, brownies, sprites, and pixies.
 
-## Story Hooks
-
-- A Hearthling stops serving an inn because the owner has concealed a servant's death beneath the floor.
-- Glimmerfolk guide refugees safely but erase the route from every adult who travels it.
-- A magistrate prosecutes a household for theft after its Hearthling moves evidence into public view.
-- A false lamp-line leads tax collectors toward a sanctuary village.
-- Two families claim the same hearth-token during an inheritance dispute.
-
 ## Navigation
 
 - [[Faewild and Menhir MOC]]

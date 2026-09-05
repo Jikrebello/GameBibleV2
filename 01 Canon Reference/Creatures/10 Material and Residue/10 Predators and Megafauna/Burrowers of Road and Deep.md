@@ -72,14 +72,6 @@ Deep worms are the rare apex of the family: immense blind tunnelers that follow 
 
 Road-borers favor warmer northern soils and irrigated country. Stonebacks range across central uplands and dry northern roads. Frostmaws belong to southern taiga and permafrost. Deep worms can occur beneath any old mountain chain. This distribution follows the world's southern-hemisphere climate rather than an imported northern model.
 
-## Story Hooks
-
-- road repairs conceal a road-borer colony because the contractor wants one more payment;
-- a stoneback follows an army's marching rhythm toward a refugee column;
-- a frostmaw has learned that heated watchtowers mean winter food;
-- miners strike a deep-worm nursery and mistake the eggs for valuable stone;
-- a town can save its road only by diverting a burrower toward someone else's fields.
-
 ## Navigation
 
 - [[The Mundane Layer — Residue, Vermin, and the Delver Trade]]

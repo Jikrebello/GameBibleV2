@@ -73,13 +73,6 @@ Troll stage-glands are coveted by Vortharan fleshworkers and military alchemists
 
 Ättar accounts use **last-stage** and **the hunger that stands**; Folk frontier speech favors **winter-eater**; Eclessian bestiaries retain **troll**. Named specimens acquire local titles but do not form a separate lineage.
 
-## Story Uses
-
-- A winter migration is not advancing; it is fleeing a troll that has learned to follow supply roads.
-- A fort's miracle salve is diluted troll extract, and healed soldiers are developing stage-glands.
-- Two warbands offer humans a temporary hunt pact because neither can survive the apex feeding ground.
-- A burned troll leaves one viable organ beneath a mass grave just before spring thaw.
-
 ## Navigation
 
 - [[Grobi Overview]]

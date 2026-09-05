@@ -101,14 +101,6 @@ Burning, complete dismemberment followed by consecrated disposal, or destruction
 
 Wanemoor grave-watch uses **Grave-Runner**; Eclessian soldiers say **corpse-hound**; Thalmyric miners use **four-foot dead**. An elder that regains speech may receive a personal title, but remains the same family unless its continuity changes.
 
-## Story Uses
-
-- a runner pack follows the same road at the same hour each night because the bodies once worked that route;
-- a living bite victim must be reached before the fever completes its course;
-- handlers use runners to steal only recently buried members of one family;
-- a speaking elder claims to preserve a victim's memory but demonstrates only residue fragments;
-- runners escaping a closed warren lead grave-watch to an unknown secondary route.
-
 ## Navigation
 
 - [[Bestiary MOC]]

@@ -32,10 +32,6 @@ The Velian Church is the principal native communion. Thalmyric-rite parishes sur
 
 Bondage, conversion pressure, resistance taxation, collaboration accusations, mixed marriage, water rights, Jirahar protection, Thalmyric ancestral claims, and the possibility that liberation merely changes the external master.
 
-## Story Uses
-
-Espionage, water disputes, insurgency, prisoner exchange, contract release, divided families, old churches, rival rites, and cities that must be saved without preserving the predatory structures holding them together.
-
 ## Navigation
 
 - [[Velian Culture Overview]]

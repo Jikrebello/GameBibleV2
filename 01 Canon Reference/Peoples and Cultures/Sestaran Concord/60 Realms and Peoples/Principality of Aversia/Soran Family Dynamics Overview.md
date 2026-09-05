@@ -13,6 +13,8 @@ tags: []
 ---
 # Soran Family Dynamics
 
+House Soran governs Aversia through a family whose members command soldiers, negotiate foreign contracts and maintain the principality's relations with civic institutions. Duke Marcus depends upon Aurelia's military judgement, Valerius's company network, Octavia's intelligence work and Lady Elena's influence among established houses and guilds. Their loyalty to the dynasty is strong, but they disagree over expenditure, secrecy, succession and the danger of allowing foreign patrons to finance Aversian power.
+
 ## Marcus and Aurelia
 
 Marcus trusts Aurelia's loyalty and judgment but resists her preference for permanent readiness. She believes the duke sometimes treats military supply as a bargaining token when a frontier cannot wait for a favorable price.

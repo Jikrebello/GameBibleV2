@@ -13,6 +13,8 @@ tags: []
 ---
 # Tarkhan and the Wider World
 
+Tarkhan societies connect the grasslands and dry belt to surrounding empires through seasonal movement, warfare, trade and military service. Wells and declared passage prices govern their most important frontiers, while horses, camels, hides, escorts and captives move through Covenant and Sestaran markets. Abroad, Tarkhan people appear under many conditions—as clan envoys, hired cavalry, caravan guards, traders, slaves and exiles—and no single Horde speaks for them all.
+
 ## Covenant
 
 The [[Nine Wells of Tergai]] make the frontier sacred, economic, and unresolved. White-Horde raids are the immediate threat to Iqashar; Iron-Horde companies are the slower danger because their armed households are entering frontier administration. Mazrakan trades animals, hides, escorts, captives, and intelligence while claiming neutrality at its gates.

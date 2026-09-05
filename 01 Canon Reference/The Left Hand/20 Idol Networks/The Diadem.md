@@ -13,25 +13,21 @@ tags: []
 ---
 # The Diadem
 
-**Pride's mortal network. Mask: the Sovereign** (per the register — the same patron as the vampire bloodlines, which embarrasses everyone involved).
+The Diadem is a network of exclusive lodges devoted to the perfection and perpetuation of powerful individuals. It belongs to Pride's mortal ecology and is cultivated through the Sovereign, the same Mask associated with the oldest vampire bloodlines. Its patrons include nobles, wealthy officials and people whose public reputation has become inseparable from their sense of self.
 
 ## Doctrine and Method
 
-The Diadem teaches self-apotheosis by refinement: the self as the only crown worth forging. Its lodges — always exclusive, always by unrefusable invitation — offer the great a mirror-path of "perfections": of lineage (genealogy-forging and marriage-eugenics), of body (the Fleshweavers of Vorthara have Diadem clients), of legacy (monuments, archives edited in one's favor — Diadem money is behind a surprising fraction of archive warfare), and at the summit, of *permanence*. That last rung is the trap and the point: the lodge's masters teach that death is a design flaw the sufficiently perfected may decline — and the Sovereign's oldest solution to that request is standing right there in the family portraits. **The Diadem is, functionally, the vampire bloodlines' unwitting recruitment funnel**, and the Regalis regard it as one regards an embarrassing fan club that occasionally produces excellent candidates.
+The lodges describe the self as the only crown worthy of deliberate refinement. Admission comes through an invitation that powerful candidates are expected to accept. Successive disciplines promise the perfection of lineage through altered genealogies and controlled marriage, of the body through practitioners such as the Fleshweavers of Vorthara, and of legacy through monuments and rewritten archives.
+
+The final promise is permanence. Lodge masters teach that a sufficiently perfected person can decline death, and the Sovereign directs some candidates towards the bloodlines whose portraits appear to prove the claim. The Diadem has consequently become an unwitting source of recruits for old vampire houses, particularly the Regalis, which value its wealthy and thoroughly prepared members.
 
 ## Structure and Signs
 
-**Mirrors** (sponsors who cultivate prospects), **Lapidaries** (lodge-masters, "cutters of the rough"), and **the Crowned Silence** (the inner circle, whose surviving mortal membership cannot be established). Signs: nobles whose self-regard hardens into something with *architecture*; portrait galleries reorganized to imply descent that archives contradict; the tell the Church confessors know — **the sin that stops confessing**, because acknowledgment of fault has become ontologically impossible for the subject.
+**Mirrors** sponsor and cultivate prospective members. **Lapidaries**, who call themselves cutters of the rough, govern individual lodges. The **Crowned Silence** is said to form an inner circle, although its living membership has not been established. Diadem influence appears in portrait galleries rearranged to imply a false descent, in private building programmes devoted to one person's memory and in penitents who have gradually lost the ability to acknowledge fault.
 
 ## Relations
 
-Vampires above (funnel), Fleshweavers beside (contractors), the Under-Ledger below (someone finances perfection). The White Flame is their allergen — coherence audits the self they've built and finds the seams — so Diadem houses are quietly, elegantly, persistently anti-clerical in the tasteful way that never quite becomes heresy.
-
-## Hooks
-
-- A Sestaran patron's commissioned family history contradicts the Sanctum's archives; the archivist who noticed is now professionally ruined, in three moves, by no one.
-- A Lapidary offers a companion the lodge's mirror-reading of their life — and it is accurate, flattering, and engineered to be unforgettable.
-- An aging Grenzburg baron (Hochfeld?) has stopped confessing and started building a mausoleum with no door.
+Vampire houses receive suitable candidates from the lodges, Fleshweavers provide bodily alterations and the Under-Ledger finances expensive programmes of refinement. White Flame exposes the difference between a person and the reputation constructed around that person. Diadem patrons therefore support cultivated forms of anticlerical influence while generally avoiding an open profession of heresy.
 
 ## Shadowlands Interface
 

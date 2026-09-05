@@ -29,10 +29,6 @@ The Marches are Eclessian in law and only intermittently so in practice. **Who c
 
 **The strange-dose: HIGH.** This is the one Eclessian territory where the thin world is a neighbor rather than a rumor — Folk seers on market days, wells that answer, the Nine-Springs' healing circuit, barrow-fields everyone routes around, and the settled dead not always settling. Marchers develop the frontier theology: precise etiquette, few questions, salt in the doorway, and a working relationship with two or three kinds of truth.
 
-## Hooks
-
-A Virelian magnate's catchers arrive at a Marches village with legal paper and armed men, and the runaway they've come for is now the blacksmith, the deacon, and the militia captain; a Caldrian preceptor requests wardens' help tracking something that crossed *out* of the quiet border; Blackbriar's bounty-board posts a name that belongs to a saint's day.
-
 ## Navigation
 
 - [[01 Canon Reference/Peoples and Cultures/Eclessia/Eclessia Overview.md|Eclessia Overview]]

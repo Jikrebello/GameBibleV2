@@ -50,13 +50,9 @@ The First Circle never returned. Imperial theologians arranged the surviving pow
 
 The empire taught that proper rite kept these powers balanced beneath civic law. Local temples disagreed over whether the war was tragedy, necessary rebellion, or the first proof that dominion belongs to whoever can hold it.
 
-## Authorial Concordance
+## Historical Correspondences
 
-- The Great War remembers the real [[The Faewild Schism|Faewild Schism]].
-- Trium's permanent fracture is real; literal divine parentage is not.
-- The Circles describe observed ecological blocs, not a celestial government.
-- Thanatos is an imperial misclassification of [[The Boatman]].
-- “Balance beneath civic law” is Atherian political theology, not cosmological fact.
+The Great War preserves a cultural memory of the [[The Faewild Schism|Faewild Schism]], and Trium's fracture describes a real separation. The genealogies surrounding that memory do not record literal parentage. The Circles arrange observed relationships among powers into an imperial hierarchy, while the doctrine of balance beneath civic law expresses Atherian political theology. Thanatos entered the later Circle through the imperial misclassification of [[The Boatman]].
 
 ## Navigation
 

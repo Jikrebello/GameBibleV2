@@ -81,14 +81,6 @@ The Alderway attacks demonstrate applied cruelty and warlock skill, not a natura
 
 Ruby drake, furnace wing, slag-back, cinder jaw, red scavenger, and battle ember. Southern cold-belt communities often distinguish vent-dwellers from migratory battlefield animals, while warmer northern foundry towns rarely make the distinction.
 
-## Game Hooks
-
-- A settlement wants the drake killed, but the creature is suppressing something worse.
-- A faction wants a live egg for prestige, weaponry, or ritual leverage.
-- The drake's lair sits on an old road, relic site, or thin-space wound.
-- Local folklore misidentifies the drake as a saint sign, Menhir omen, or Idol punishment.
-- A drake repeatedly attacks one watchtower because a hidden script beacon has been built into its roof.
-
 ## Navigation
 
 - [[Bestiary MOC]]

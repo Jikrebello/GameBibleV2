@@ -62,12 +62,6 @@ Militis bone plates, blood-hardened leather, and weapons can retain command impu
 
 Eclessian hunters call them **banner-bloods**; Thalmyric soldiers say **red lances**; frontier speech uses **night wardens**. Militis is the creator-facing bloodline name.
 
-## Story Uses
-
-- An immortal garrison protects a pass but no longer permits the valley it serves to govern itself.
-- A broken standard is rebuilding its commander from the blood of wounded soldiers.
-- A Militis asks the party to rescue the mortal troops whose obedience sustains its own return.
-
 ## Navigation
 
 - [[Bestiary MOC]]

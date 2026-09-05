@@ -50,10 +50,6 @@ The known world is southern-hemisphere oriented. South means colder, harsher, mo
 
 Use [[Southern Cold Belt and Grobi Frontier]] as the governing note for the deep southern cold belt, the Ättar/Folk frontier, and Grobi migration logic.
 
-## Story Use
-
-Every modern culture should inherit at least one institution, taboo, myth, or wound from these ages. Atheria should feel like a late synthesis of older human experiments, not the beginning of history.
-
 ## Navigation
 
 - [[Historical Spine of the Known World]]

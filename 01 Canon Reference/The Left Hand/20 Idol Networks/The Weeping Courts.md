@@ -13,31 +13,25 @@ tags: []
 ---
 # The Weeping Courts
 
-**Envy's network. Mask: the Rival** — the voice that says *that should be yours.*
+The Weeping Courts are a network of counterfeit shrines, false visionaries and manipulated relic cults serving Envy through the Rival. They work among communities that believe divine favour has passed them by and provide wonders shaped to deepen that grievance. Some of their miracles are theatrical frauds; others draw real power from the Mask feeding upon the worshippers.
 
 ## Doctrine and Method
 
-The Weeping Courts do not fight the Church; they **counterfeit it**. Their insight is Envy's own: grace, like wealth, is unevenly distributed — and the overlooked will pay anything for their share. So the Courts manufacture supply: false apparitions, weeping images, rigged relics, miracle-rumors seeded along pilgrimage roads, "saints" for the villages the real calendar forgot. Every counterfeit shrine is a **feeding architecture**: the desperate devotion it harvests flows to the Rival, and the worshippers' envy of the *truly* blessed — carefully cultivated by comparison ("Sarnwell got a real spring; what did YOU get?") — flows twice.
+The Courts imitate the familiar institutions of sainthood and pilgrimage. They arrange false apparitions, weeping images, altered relics and rumours of miracles for villages that feel absent from the recognised calendar. A shrine then encourages pilgrims to compare its honours with those of a wealthier or more famous place. Devotion and resentment together sustain the Rival.
 
-**Bruckmoor (1243 AR) was theirs** — the forty-year false apparition the Inquisition burned and salted, and the relic courts' founding trauma. **Their internal documents claim Vessing (1352) is also theirs.** That claim remains unconfirmed: it may be a boast, an infiltration of a true apparition, or the truth. The Sanctum's paralysis over Vessing is exactly the kind of institutional wound the Rival feeds on either way.
+The forty-year false apparition exposed at Bruckmoor in 1243 AR belonged to this network. The Inquisition burned and salted the site, and the failure became a formative case for the relic courts. Captured documents also claim responsibility for the apparition at Vessing in 1352. That assertion may record a complete fraud, the infiltration of a genuine event or an empty boast. Continued uncertainty has already damaged confidence in the Sanctum's judgement.
 
 ## Structure
 
-Organized like what they parody: **Sextons** (site-keepers), **Weepers** (miracle-performers — some fraudulent, some genuinely fed power, the second kind never told the difference), **Postulants** (talent scouts who find aggrieved visionary-candidates), and the **Grieving Chairs** — the regional masters, each keeping a ledger of wrongs their region's faithful believe heaven owes them.
+The Courts borrow the structure of the institutions they imitate. **Sextons** maintain sites, **Weepers** perform miracles and **Postulants** recruit aggrieved candidates for visionary roles. Some Weepers use fraud while others have received power from the Rival, and local organisers do not necessarily tell them which is true. Regional masters known as the **Grieving Chairs** preserve accounts of the blessings each community believes Heaven owes it.
 
 ## Signs
 
-Miracles that answer *comparison* rather than need ("she was healed, and her sister-in-law was NOT"); shrines whose pilgrims leave more bitter than they came; relic-court authentications failing in patterned ways; a local visionary whose messages always name who has been unjust to her village.
+Characteristic signs include miracles framed through the exclusion of someone else, pilgrims who leave a shrine more bitter than they arrived and visionary messages that continually identify those who have slighted the favoured village. Repeated failures in relic authentication may show that a Court has entered the clerical process around a site.
 
 ## Relations
 
-The relic courts and the Order of the Lantern are their professional enemies; the Freeflame is their nightmare (congregations that expect *no* miracles cannot be sold counterfeits); the vampire Eclipsis sometimes rent their infrastructure and find the workmanship excellent, the theology gauche.
-
-## Hooks
-
-- The Vessing children: one of the three has started receiving *letters* from a "spiritual director" no one has met.
-- A Weeper defects, claiming her miracles came true for three years before she learned who was answering — and now she cannot make them stop.
-- A Grenzburg winter-shrine springs up at the Great Funnel gate: the Lady of the Gate, who "sees those the Duke turns away." Attendance is enormous. The Bishop wants it burned; the Castellan notes it is the only thing keeping the camps calm.
+Relic courts and the Order of the Lantern are the network's principal enemies. Freeflame congregations are difficult targets because their public worship demands no authenticated miracle. Members of the Eclipsis bloodline sometimes hire Court agents to manipulate appearances and reputations without adopting their theology.
 
 ## Shadowlands Interface
 

@@ -37,10 +37,6 @@ Monasteries preserve icons, seed, occupation testimony, and records that can ove
 
 Archive access, monastery taxation, cityward migration, ruin ownership, noble debt, and whether empty estates should go to veterans, return claimants, or current tenants.
 
-## Story Uses
-
-Monastery mysteries, vineyard inheritance, ghost villages, forged charters, buried archives, relic assessment, and city politics driven by rural families.
-
 ## Navigation
 
 - [[Thalmyric Economy and the Old Heartland]]

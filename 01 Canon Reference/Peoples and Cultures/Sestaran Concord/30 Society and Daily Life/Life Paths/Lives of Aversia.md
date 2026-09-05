@@ -31,10 +31,6 @@ The commercial roads: the Soran export network's agents (embargo-running is a li
 
 The House of Soran's orbit (canon: family dynamics, rivalries) defines nobility: cadet lines seeded through the officer schools, marriage as armament policy. The church here is chaplaincy writ large — company chaplains are the principality's real parish system, hearing the confessions of men between contracts, and the Aversian funeral rite grew out of the companies: the dead man's contract is read aloud, *fulfilled*, and burned. Crime is craft-adjacent: pattern-theft, proof-stamp forgery (the guild hunts this with company muscle), and the gutter-end of the arms trade — sales the licenses pretend not to see, which is where the Red Tally and worse do their shopping.
 
-## Hooks
-
-A company returns from an Eclessian contract paid in land-deeds nobody can locate; a proof-master's stamp starts appearing on steel he never tested; the third-kind contract arrives at the party's captain's tent, sealed with nothing.
-
 ## Navigation
 
 - [[01 Canon Reference/Peoples and Cultures/Sestaran Concord/The Sestaran Concord Overview.md|The Sestaran Concord Overview]]

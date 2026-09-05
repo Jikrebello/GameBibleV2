@@ -13,7 +13,7 @@ tags: []
 ---
 # Folk Architecture and Settlement
 
-Folk settlements are built for cold, communal work, feud defense, and the possibility of a Grobi winter.
+Folk settlements are built for cold, communal work, feud defence and the possibility of a Grobi winter. Longhouses combine dwelling, workshop, court and refuge beneath one roof, while wells, granaries and livestock yards are arranged to survive siege and fire. The form varies across the forests, ranges and coasts, but each region joins household life to prepared routes of warning and retreat.
 
 ## Longhouses
 
@@ -43,4 +43,3 @@ Folk communities reuse Atherian roads, watchtowers, culverts, and foundations wh
 - [[Frost-Road and the Winter War]]
 - [[Folk Economy and Technology]]
 - [[The Folk Overview]]
-

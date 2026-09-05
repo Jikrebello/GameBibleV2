@@ -64,12 +64,6 @@ Mane shadow can preserve a dream for later examination. Hoof glass reveals which
 
 Dusk horses, later-steeds, black roaders, surrender mares, and dream cavalry are common names. The church term nightmare covers several unrelated dream predators, so field signs remain decisive.
 
-## Story Uses
-
-- A garrison dreams vividly of victory while every winter preparation remains undone.
-- A penitent former rider seeks help destroying a bridle that returns to each new ambition.
-- A Nightmare carries a missing child between the dreams of adults who all assumed someone else was searching.
-
 ## Navigation
 
 - [[Sloth]]

@@ -69,7 +69,7 @@ The synthesis was attractive because it worked. Travellers could move farther, m
 
 [[G-08 - The Road That Refused Its Last Stone|The Road That Refused Its Last Stone]] follows a useful craft into complicity. The surveyor solves a boundary quarrel; officials extend the marks; forced labour and conquest follow; withholding the last stone cannot close the completed road. Burned settlements and dead labourers remain part of the account.
 
-Along another inland corridor, a summoning operation placed mortal prisoners at the boundaries of an infernal map. The map-lord opened a local wound in distance to erase a rival's territory. Both sides then needed enslaved bodies to hold their contradictory routes. The prisoners destroyed the marks sustaining the fortifications. Their revolt contained a local disaster; it neither healed the Abyss nor saved the whole world. [[Unknown Histories - Authorial Accounts]] preserves what happened, while [[G-64 - The Prisoners Who Became a Border|the public tale]] preserves its nightmare.
+Along another inland corridor, a summoning operation placed mortal prisoners at the boundaries of an infernal map. The map-lord opened a local wound in distance to erase a rival's territory. Both sides then needed enslaved bodies to hold their contradictory routes. The prisoners destroyed the marks sustaining the fortifications and contained the local disaster. The Abyssal wound remained. [[Unknown Histories - Authorial Accounts]] gives the surviving reconstruction, while [[G-64 - The Prisoners Who Became a Border|the public tale]] preserves its nightmare.
 
 ## Eastern exile and return
 

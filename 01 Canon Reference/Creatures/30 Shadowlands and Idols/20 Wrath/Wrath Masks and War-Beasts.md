@@ -40,7 +40,6 @@ Feud-Hounds are lean furnace-ribbed predators with hide like burned leather and 
 - **Weakness and permanent defeat:** narrow the guilt to actual perpetrators, remove uninvolved people from the feud's public language, and destroy or retire the trophy carrying the transfer. A slain pack reforms if children are still taught the same target.
 - **Materials:** cooled teeth can track the original incident rather than its later retellings. Carrying one too long makes every resemblance feel evidentiary.
 - **Regional names:** ash dogs, vendetta hounds, red coursers, and kin-biters.
-- **Story uses:** reveal a feud's concealed first victim; hunt a peace delegation because both sides call it treason; force soldiers to protect enemy civilians from their own grievance.
 
 ## Red Reckoners
 
@@ -53,7 +52,6 @@ Red Reckoners are Masks in scorched armor whose bodies contain rotating tally wh
 - **Weakness and permanent defeat:** recover independent testimony, separate perpetrators from categories, answer punishable crimes through bounded justice, and erase only the false extensions while preserving truthful names of the dead. Burning the entire record lets the Mask claim erasure as a new injury.
 - **Materials:** a stopped tally wheel can distinguish a fact witnessed by the form from a claim merely repeated to it.
 - **Regional names:** red clerks, wound counters, pyre notaries, and book-armored men.
-- **Story uses:** manipulate a just uprising toward massacre; serve both armies without either knowing; offer flawless evidence that becomes false only at the level of collective guilt.
 
 ## Pyre-Crowned
 
@@ -66,7 +64,6 @@ Pyre-Crowned are autonomous Archmasks resembling immense war leaders crowned by 
 - **Weakness and permanent defeat:** preserve legitimate defense while rejecting the Archmask's unlimited target, resolve or truthfully delimit the founding injury, cut every banner from its claimed community, and extinguish the crown in a place protected without vengeance.
 - **Materials:** crown ash can expose whom a speech secretly designated expendable. It is also an addictive battle stimulant.
 - **Regional names:** furnace kings, banner saints, war fathers, and crown-burners.
-- **Story uses:** rescue a frontier through effective command and then prohibit peace; turn a martyr's funeral into a mobile dominion; force rivals to cooperate without pretending their original dispute was unreal.
 
 ## Relation to Grobi
 

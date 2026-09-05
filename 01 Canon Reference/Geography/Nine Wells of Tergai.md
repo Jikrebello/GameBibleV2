@@ -24,11 +24,11 @@ The Tarkhan call them the **Nine Mother-Wells**. Western ancestors dug and maint
 
 Covenant pilgrimage calls them the **Wells of First Submission**. Official accounts say dry-belt clans willingly submitted to Mujalib's law and received ordered access to water. Pilgrims visit witness stones, fortified shrines, and a ceremonial surrender court.
 
-## Authorial Truth
+## Conquest of the Wells
 
-In 558 AR, Covenant forces seized the wells violently. Defenders were killed, expelled, bound into imposed access agreements, or absorbed under military rule. The voluntary-submission tradition is a later political theology, not a balanced alternate account.
+In 558 AR, Covenant forces seized the wells by violence. Defenders were killed, expelled, bound into imposed access agreements or absorbed under military rule. The tradition of voluntary submission arose later as a political theology of the conquest.
 
-This wrong does not make every present pilgrim or frontier civilian personally guilty. It does make current Qahirid sovereignty historically dependent on dispossession.
+Present Qahirid sovereignty at Tergai consequently rests upon an old dispossession. Pilgrims and frontier families inherited very different relationships to that history, and many arrived long after the conquest.
 
 ## Present Geography
 
@@ -37,14 +37,6 @@ This wrong does not make every present pilgrim or frontier civilian personally g
 - White-Horde banners conduct reclamation raids and attack pilgrimage supply.
 - Tarkhan graves and seasonal pasture lie inside areas administered as Covenant security zones.
 - Mazrakan factors profit from both pilgrimage and frontier war.
-
-## Story Uses
-
-- authenticate a grave field before a fort expansion destroys it;
-- keep pilgrims alive without endorsing the official history;
-- expose an Iron contract converting temporary guard service into hereditary control;
-- negotiate drought access while White raiders hold one draw tower;
-- determine whether a witness stone predates the conquest or was recut.
 
 ## Navigation
 

@@ -13,7 +13,7 @@ tags: []
 ---
 # Gale-Crown Ranges
 
-The Gale-Crown Ranges are eastern mountain woods, exposed uplands, iron valleys, and passes through which Grobi pressure and foreign trade both move.
+The Gale-Crown Ranges form the eastern mountain country of the Folk lands, comprising wooded slopes, exposed uplands, iron valleys and passes used by Grobi warbands and foreign merchants alike. Shepherd clans, mining kindreds and hillfort confederacies govern its settlements. Iron working, tolls and military service support greater concentrations of wealth and armed power than are found in many neighbouring Folk regions.
 
 ## People and Government
 
@@ -43,12 +43,6 @@ The oldest cairn-keepers warn of **the Under-Cairns**, frozen halls said to open
 - war-kings retain followers after their emergency authority ends;
 - mines breach old cairns and court boundaries;
 - Eclessian and Sestaran buyers compete for iron and mercenaries.
-
-## Story Uses
-
-- A war-king refuses to surrender his winter command.
-- A newly opened mine has made every storm follow its ore wagons.
-- Two forts threaten war while a Grobi column approaches their shared pass.
 
 ## Navigation
 

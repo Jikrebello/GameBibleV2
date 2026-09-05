@@ -44,13 +44,6 @@ These rights do not give the clan authority to murder road workers, rob traveler
 
 The clan did not authorize [[The Red Garland]] and does not accept its killings as defence of the vale. Some frightened households nevertheless hide from ducal patrols, knowing officials may treat any Folk absence as evidence of conspiracy. The clan's willingness to assist the road depends on whether the road company distinguishes witnesses from predators and rights from obstruction.
 
-## Story Uses
-
-- A Crossing-Speaker must prove that a compact binds households that voted against it.
-- Refuge law protects someone whom Grenzburg law wants arrested.
-- A new bridge improves winter travel but destroys a spawning channel unless redesigned.
-- A road murder is blamed on the clan because the true attacker copied one of its warnings.
-
 ## Navigation
 
 - [[Green March Kindreds]]
@@ -58,4 +51,3 @@ The clan did not authorize [[The Red Garland]] and does not accept its killings 
 - [[Still-Hearth Glen]]
 - [[The Folk Overview]]
 - [[The Duke's Road — Full Adventure]]
-

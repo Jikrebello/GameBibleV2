@@ -13,6 +13,8 @@ tags: []
 ---
 # The Storm-Cairn Court
 
+The Storm-Cairn Court is encountered along the exposed passes and thunder paths of the Gale-Crown Ranges. Its courtiers challenge travellers to races, boasts, riddles and dangerous errands, rewarding courage with favourable winds, sure footing or lightning-marked weapons. The same gifts encourage public displays whose demands grow with every victory, until reputation becomes an obligation the recipient can no longer escape.
+
 ## Folk Account
 
 The Storm-Cairn Court gathers where exposed passes, burial cairns, and thunder paths coincide. Its masks challenge travelers to boast, race, answer riddles, or carry impossible messages. The court admires nerve and punishes anyone who mistakes applause for affection.
@@ -29,18 +31,11 @@ Never make a boast in shelter, refuse a challenge after naming your witnesses, o
 
 The court may grant favorable wind, courage, impossible balance, warning thunder, or one lightning-marked weapon. Gifts encourage escalating display. A petitioner who asks never to fear may lose the ability to recognize danger.
 
-## Authorial Truth
+## Powers within the Court
 
-Zephyraxis-aligned courtiers and weather organisms dominate the court. Pride masks cultivate heroic reputation until identity depends upon public triumph.
-
-## Story Uses
-
-- A war-king cannot surrender authority because the court owns his victory-name.
-- A safe pass opens only to someone willing to confess cowardice publicly.
-- Lightning-marked ore is causing every forged blade to demand a challenge.
+Zephyraxis-aligned courtiers and weather organisms dominate the court. Pride Masks enter through contests of reputation and cultivate the need for public triumph until a champion can no longer imagine an honourable life without victory.
 
 ## Navigation
 
 - [[Courts of the Folk Lands]]
 - [[Gale-Crown Ranges]]
-

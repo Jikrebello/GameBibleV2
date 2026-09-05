@@ -36,10 +36,6 @@ The passage and long occupations impress real threshold corridors and anchor cam
 - [[The Atherian Empire Overview]] later turns the crossing into heroic civic myth more than binding law.
 - Folk, Ättar, Tarkhan and Nsizwa traditions principally remember the orphaned Giant world; any Glass material reaches them through later contact, adoption or mixed descent.
 
-## Story Use
-
-The Great Glass Desert should remain a place of pilgrimage, forbidden ruins, lost camps, miracle-sites, false relics, caravan testimony, and arguments over what the Prophet was commanded to do. No Giant war, plague, Nythalum launch, heavenly fire, or human rite created it. No present route proves that the ancient miracle has become a reusable technique.
-
 ## Navigation
 
 - [[Timeline MOC]]

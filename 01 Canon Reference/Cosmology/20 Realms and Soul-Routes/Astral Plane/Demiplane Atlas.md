@@ -41,7 +41,6 @@ Extradimensional containers are object-anchored micro-demiplanes. A sound tether
 - **Inhabitants:** mortal scholars, Proxy Bodies, index automata, and visitors held as missing references.
 - **Exports:** provenance, lost records, memory copies, and routes to forgotten collections.
 - **Failure state:** the Index expels unreferenced matter while its bound owner finally routes; incomplete references manifest as Lacuna Rays.
-- **Story uses:** release the Indexer without erasing an archive; recover a censored genealogy; decide what living reference must replace a rescued prisoner.
 
 ### Orrery of Unspent Days
 
@@ -54,7 +53,6 @@ Extradimensional containers are object-anchored micro-demiplanes. A sound tether
 - **Inhabitants:** researchers, rehearsal copies, Causality Crabs, and staff responsible for ending abandoned simulations.
 - **Exports:** tactical rehearsal, evidence about branching consequence, and carefully bounded delayed effects.
 - **Failure state:** rehearsals become competing returns, each claiming to be the action actually taken.
-- **Story uses:** prepare for a lethal assault; prove that a supposed prophecy is only one rehearsal; rescue a copy whose memories make it plead to become the final version.
 
 ## Artifact Interiors
 
@@ -69,7 +67,6 @@ Extradimensional containers are object-anchored micro-demiplanes. A sound tether
 - **Inhabitants:** stranded visitors, room-bound fauna, old custodial patterns, and creatures admitted by earlier draws.
 - **Exports:** impossible adjacency, temporary shortcuts, and artifact fragments that can reassign one door.
 - **Failure state:** damaged cards or faces strand rooms as separate pockets or eject them unpredictably into Material buildings.
-- **Story uses:** map a changing dungeon; retrieve one missing face before a neighborhood inherits its room; discover a stranded community that regards shuffling as apocalypse.
 
 ### Midnight Glass
 
@@ -82,7 +79,6 @@ Extradimensional containers are object-anchored micro-demiplanes. A sound tether
 - **Inhabitants:** reflection doubles, lost travelers, memory fauna, and whatever a future adventure establishes behind the central pane.
 - **Exports:** covert access, reflected evidence, and glass capable of holding one route.
 - **Failure state:** original and reflection exchange jurisdictions, leaving Material rooms trapped behind their own images.
-- **Story uses:** infiltrate an inaccessible site; rescue a person whose Double returned first; determine whether a speaking reflection is soul, residue, copy, or predator.
 
 ## Patron Micro-Kingdoms
 
@@ -97,7 +93,6 @@ Extradimensional containers are object-anchored micro-demiplanes. A sound tether
 - **Inhabitants:** patrons, proxies, brokers, collateral keepers, observers, and coerced dependents.
 - **Exports:** valuation, inter-patron arbitration, anchor shares, and dangerous debt instruments.
 - **Failure state:** posted weights return to owners and every unresolved claim seeks the nearest available bearer.
-- **Story uses:** expose a false valuation; free a person treated as posted mass; settle a dispute without validating the predatory [[The Concord of Weights|Concord]] members using the Moot.
 
 ### Hearth Without Weather
 
@@ -110,7 +105,6 @@ Extradimensional containers are object-anchored micro-demiplanes. A sound tether
 - **Inhabitants:** Driftkin families, Material refugees, Current Shepherds, and carefully managed Protons.
 - **Exports:** shelter, acclimatization, route recovery, and training in personal ballast.
 - **Failure state:** concealed overpopulation or unequal fuel allocation admits the excluded weather all at once.
-- **Story uses:** negotiate admission during a mass flight; expose a council hiding capacity; preserve the hearth while relocating a refuge that has outgrown it.
 
 ## Anchor-Lord Palaces
 
@@ -125,7 +119,6 @@ Extradimensional containers are object-anchored micro-demiplanes. A sound tether
 - **Inhabitants:** household servitors, guests, asylum seekers, and Current Shepherds.
 - **Exports:** sanctuary, return passage, mediation, and cups carrying one bounded invitation.
 - **Failure state:** if the Host coerces a guest or a guest seizes the cup, the House breaks into inaccessible dining rooms.
-- **Story uses:** protect a criminal entitled to guest safety; recover the cup without violating sanctuary; test whether the Host's celebrated fairness survives scarcity.
 
 ### Palace Under Folded Wind
 
@@ -138,7 +131,6 @@ Extradimensional containers are object-anchored micro-demiplanes. A sound tether
 - **Inhabitants:** route courtiers, petitioners, Tether Hounds, and travelers unable to remember a direction home.
 - **Exports:** rapid transit, redirected weather-like currents, and access to otherwise disconnected anchors.
 - **Failure state:** every stored direction opens simultaneously and tears the palace into moving corridors.
-- **Story uses:** purchase a route with a politically dangerous map; free travelers whose directions were taken; stop the Prince from closing a refugee path to preserve a profitable one.
 
 ## Refuge Realms
 
@@ -153,7 +145,6 @@ Extradimensional containers are object-anchored micro-demiplanes. A sound tether
 - **Inhabitants:** Driftkin families, adopted Material refugees, route scouts, and symbiotic Protons.
 - **Exports:** escort, mobile shelter, current charts, and living ballast craft.
 - **Failure state:** a missing or stationary hall makes the remaining geometry fold inward and duplicate residents by route role.
-- **Story uses:** recover a stolen hall; adjudicate leadership without freezing the procession; escort it through a patron blockade.
 
 ### Chalkhaven Recursion
 
@@ -166,7 +157,6 @@ Extradimensional containers are object-anchored micro-demiplanes. A sound tether
 - **Inhabitants:** Driftkin households, teachers, Material guests, and lost copies created by failed redrawings.
 - **Exports:** resilient refuge design, memory mapping, and temporary recursive shelters.
 - **Failure state:** rote copying produces a perfect empty Haven while living residents become errors outside its walls.
-- **Story uses:** restore experiential memory after plague; decide what to do with a copied district; protect children who know routes adults have forgotten.
 
 ## Institutional Realms
 
@@ -181,7 +171,6 @@ Extradimensional containers are object-anchored micro-demiplanes. A sound tether
 - **Inhabitants:** traders, patrons, proxies, Driftkin, proof crews, and temporary visitors.
 - **Exports:** patron brokerage, route certification, demiplane services, and cross-realm intelligence.
 - **Failure state:** undeclared mass or broken host cooperation causes routes to overlap and assigns visitors to the wrong owners or exits.
-- **Story uses:** conduct a patron negotiation; survive a market closure; expose a host faction using registration to seize competitors.
 
 ### Far Cabinet of Castara
 
@@ -194,7 +183,6 @@ Extradimensional containers are object-anchored micro-demiplanes. A sound tether
 - **Inhabitants:** researchers, quarantined expeditions, specimens, ward systems, and occasional stowaways.
 - **Exports:** controlled storage, quarantine, remote field stations, and verified samples.
 - **Failure state:** catalog disagreement causes drawers to open into the wrong expedition sites or classify people as specimens.
-- **Story uses:** rescue a team filed under deceased; stop a specimen transfer; uncover a custodian falsifying provenance for political reasons.
 
 ## Failed Realms
 
@@ -209,7 +197,6 @@ Extradimensional containers are object-anchored micro-demiplanes. A sound tether
 - **Inhabitants:** stranded people, Near-Enough rooms, scavengers, and possible descendants of earlier arrivals.
 - **Exports:** doorless architecture, lost household records, and clues to erased routes.
 - **Failure state:** a false door may attach the whole House to an occupied Material building and overwrite its exits.
-- **Story uses:** find a missing expedition; choose which claimed home receives the House; distinguish a true trapped community from destination mimics.
 
 ### Unfinished Shore
 
@@ -222,7 +209,6 @@ Extradimensional containers are object-anchored micro-demiplanes. A sound tether
 - **Inhabitants:** stranded refugees, provisional bodies, memory fauna, and settlements at incompatible shorelines.
 - **Exports:** adaptive shelter matter, recovered homeland memories, and water-like Drift storage.
 - **Failure state:** competing descriptions split the shore into mutually exclusive refuges and eject anyone not represented.
-- **Story uses:** complete a refuge without erasing cultural differences; recover a founder's true plan from copied voices; stop a patron from buying the destination-stones as undeveloped land.
 
 ## Navigation
 

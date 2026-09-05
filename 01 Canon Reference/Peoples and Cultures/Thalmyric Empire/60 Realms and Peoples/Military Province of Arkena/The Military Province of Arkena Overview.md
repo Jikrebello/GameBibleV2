@@ -39,10 +39,6 @@ Academies occupy converted Star observatories and early Church schools. Island b
 
 Council autonomy, Saronikan rivalry, imperial requisition, academic heresy cases, artifact export, and the military governor's emergency powers.
 
-## Story Uses
-
-Academic rivalries, island courts, submerged ruins, naval signaling, old observatories, council politics, and discoveries that challenge imperial accounts of Atherian philosophy.
-
 ## Navigation
 
 - [[The Maritime Kingdom of Saronika Overview]]

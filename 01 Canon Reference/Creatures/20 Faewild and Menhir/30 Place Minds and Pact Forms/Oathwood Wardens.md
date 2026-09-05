@@ -88,14 +88,6 @@ These materials are valuable to Folk seers, Marcher arbiters, Church investigato
 
 Oathwood Warden, witness tree, root bailiff, promise grove, board saint, compact wood, and the house that remembers. These labels describe local manifestations rather than one speaking institution.
 
-## Quest Uses
-
-1. A guest-house begins trapping descendants of a family that committed an old hearth-law murder.
-2. A road Warden blocks refugees because the ancient compact names only two clans that no longer exist.
-3. A frontier lord wants a Warden destroyed before surveyors discover what boundary it remembers.
-4. A Church mission asks for help releasing a genuine victim without validating a Menhir cult built around the site.
-5. A Folk speaker offers to become a counter-oath guarantor, but doing so would give one clan permanent control of shared land.
-
 ## Navigation
 
 - [[Bestiary MOC]]

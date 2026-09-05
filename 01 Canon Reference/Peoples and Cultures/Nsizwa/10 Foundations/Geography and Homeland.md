@@ -13,6 +13,8 @@ tags: []
 ---
 # **I. Geography and Homeland of the Nsizwa**
 
+The Nsizwa homeland occupies a broad region of high savanna, escarpments and fertile river valleys in the southwestern continent. Cattle grazing and cultivation depend upon the passage between wet and dry seasons, while cliffs and mountain approaches shelter fortified settlements. The Mfula River sustains the principal valleys, and the salt flats beyond them form a dangerous margin associated with exile, mirage and the unburied dead.
+
 ## **1. The Land of the Eternal Warriors**
 
 The Nsizwa homeland is a vast and **rugged expanse of highland savannas, towering escarpments, and fertile river valleys**, stretching across the **southwestern continent**. The region is both **beautiful and treacherous**, shaped by the **harsh cycle of the seasons, the wisdom of its ancestors, and the blood of countless battles**.

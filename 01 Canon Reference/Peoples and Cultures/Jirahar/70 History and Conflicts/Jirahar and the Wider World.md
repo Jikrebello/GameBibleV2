@@ -13,6 +13,8 @@ tags: []
 ---
 # Jirahar and the Wider World
 
+The Jirahar diaspora extends through kingdoms, empires, ports and overland routes whose rulers grant very different degrees of protection. Its communities trade, study, serve and worship among neighbouring peoples while maintaining their own courts, schools, food practices and burial grounds. Relations with the wider world are shaped by the memory of Qiryath, disagreement over Isfir, the economic value of Jirahar networks and the practical dependence of travelling communities on foreign roads and harbours.
+
 ## Eclessia
 
 Eclessian realms contain Qiryath, old persecution sites, protected quarters, and recurring collective-blame polemic. Old-Church and Freeflame jurisdictions differ sharply. Talga depends on marcher charters that can become bargaining weapons during winter or war.

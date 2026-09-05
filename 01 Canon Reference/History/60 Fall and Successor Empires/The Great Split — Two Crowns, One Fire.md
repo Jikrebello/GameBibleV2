@@ -13,7 +13,7 @@ tags: []
 ---
 # The Great Split — Two Crowns, One Fire
 
-The Great Split is the schism of 1015 AR between the Eclessian Church and the Patriarchate of Veridun. It is primarily a war over inheritance and fealty; doctrine is the weapon each side forged for it.
+The Great Split was the schism formalised in 1015 AR between the Eclessian Church and the Patriarchate of Veridun. It arose from rival claims to Atherian inheritance, ecclesiastical authority and custody of the White Flame. The anathemas fixed a division that had already entered royal succession, worship and daily life, and the resulting churches remain separate in 1360.
 
 ## The Political Core: Who Inherits Atheria
 
@@ -37,7 +37,11 @@ Each side's proofs genuinely work, and each side's theology delegitimizes the ot
 
 **The test case is Caedros I.** Thalmyria canonized its founder on theophany: the witnessed descent, the body taken, hymns that kindle in battle. Eclessia's relic courts reject the canonization on protocol: no relic anchor, no independent witnesses, no submissible evidence — an empire canonizing its founding is heraldry, not sanctity. Empirically, the field results are maddening: the Saint-Emperor's hymns kindle for some reciters and not for others, in no pattern either hierarchy can produce on demand.
 
-**Behind the curtain (authorial ruling):** the hymns kindle **according to the righteousness and purpose of the one reciting them** — the Flame answers the sanctity of the singer, not the authorship of the hymn or the authority of the institution that minted it. This means both churches' custody theologies are wrong in the same direction: Veridun's theophany and Eclessia's protocol are each partial readings of a Fire that audits *hearts*, case by case. The bitter irony, known to no one in-world: the published theology closest to the truth is Ferro's Freeflame formula — "the Lord's Fire keeps no landlord" — proclaimed by the one movement both hierarchies agree is heresy. (This also quietly explains Eclessia's hymn-mint: ordinary clergy channel saint-authored hymns *reliably* only insofar as ordination, confession, and discipline actually produce ordinary righteousness — the protocol works when it makes people holy, and fails exactly when it becomes a fee schedule.)
+## Why the Hymns Kindle
+
+The hymns kindle according to the righteousness and purpose of the person reciting them. Their operation depends neither upon authorship nor upon the authority of the institution that issued the text. Eclessian discipline can therefore make the hymns reliable when it genuinely forms holy clergy, while corruption turns the same procedure into an empty form. Thalmyric theophany likewise witnesses a real presence without giving the imperial church possession of it.
+
+Neither church knows this principle in full. Ferro's Freeflame saying that “the Lord's Fire keeps no landlord” comes closest to it, although both older hierarchies condemn his movement. The irregular response of Caedros's hymns consequently remains a source of controversy rather than a public solution to the Kindling Question.
 
 ## The Rupture, 1015 AR
 

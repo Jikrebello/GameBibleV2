@@ -26,7 +26,7 @@ The Prophet does not merely defeat tyrants. He exposes them. Giant kings who cal
 
 The Prophet announces, interprets, intercedes, prepares, and leads. He is not the metaphysical source of the plagues and cannot deploy Heaven as a personal army. Giant rulers remain responsible for the wars they choose, while human liberation depends upon the work of households, scouts, burial fraternities, artisans, soldiers, officials, and subject communities as well as the Prophet at their head.
 
-Four Imperial Horizons are broken directly in liberation memory. Anshara destroys itself concurrently in the Drinking Wars and receives no authorially fixed prophetic plague cycle.
+Liberation traditions remember the direct breaking of four Imperial Horizons. Anshara destroyed itself concurrently in the Drinking Wars and received no prophetic plague cycle from the Great Prophet.
 
 ## The Glass Refuge
 

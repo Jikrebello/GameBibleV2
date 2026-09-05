@@ -43,14 +43,9 @@ Caleran reuses Atherian forums, converted temples, occupation courts, Reconquest
 
 An empty village can have several living claimants: a return family, an occupation-descended household, a monastery holding an emergency charter, a veteran line, and the Crown. Rural decline cannot be reversed merely by ordering people home because no authority agrees where home legally is.
 
-## Story Use
-
-Use the heartland for excavation beneath occupied houses, inheritance disputes around ghost villages, restored aqueduct journeys, illegal quarrying, veteran colonies, monastery archives, and urban districts whose residents still identify with a village none has seen.
-
 ## Navigation
 
 - [[The Layers Beneath Thalmyria]]
 - [[The Long Reconquest (908-1052 AR)]]
 - [[Thalmyric Economy and the Old Heartland]]
 - [[Gazetteer of the Known World]]
-

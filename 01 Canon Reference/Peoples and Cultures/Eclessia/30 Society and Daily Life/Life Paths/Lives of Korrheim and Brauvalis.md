@@ -35,10 +35,6 @@ The duchy runs on beer the way Ironvale runs on coal: monastic breweries anchor 
 
 Modest: a wonder-crucifix here, a hymn-lamp there, and the seam's specialty — **competing miracles**, where both confessions' shrines answer the same drought, and the pamphlet war afterward does more damage than the drought did.
 
-## Hooks
-
-A canton company comes home *converted* (whole, together, mid-contract) and the council must decide what that means; the Grand Tapping barrel runs red — prank, omen, or Weeping Courts theater; the ducal physician is offered three retainers in one week and recognizes none of the hands.
-
 ## Navigation
 
 - [[01 Canon Reference/Peoples and Cultures/Eclessia/Eclessia Overview.md|Eclessia Overview]]

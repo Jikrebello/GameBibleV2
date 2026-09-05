@@ -33,13 +33,9 @@ The Material Realm sits at the stable center of multiple pressures:
 - **Shell pressure:** elemental force can be drawn, scripted, ruptured, or weaponized by warlocks and other engineered systems.
 - **Heaven/Hell pressure:** soul-routing, sainthood, refusal, judgement, corruption, and restoration make mortal choices spiritually consequential.
 
-## Authorial Rule
+## Human Scale
 
-The Material Realm should be written first as a grounded human world. The strange should feel more powerful because ordinary life is real enough to be damaged by it.
-
-## Story Use
-
-When a supernatural event happens, ask what it does to food, inheritance, law, marriage, roads, armies, taxes, burial, worship, and memory. If it does not disturb ordinary life somehow, it is probably too weightless.
+Life in the Material Realm remains grounded in human needs even where supernatural powers are active. A failed harvest, disputed inheritance, damaged road or unburied body can carry more immediate consequence than the distant intentions of a greater power. Supernatural events become historically important through the changes they make to such ordinary conditions.
 
 ## Navigation
 

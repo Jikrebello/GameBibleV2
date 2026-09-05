@@ -36,10 +36,6 @@ Irrigation, caravan trade, shipping, spices, translation houses, contract archiv
 
 Badis delays conquest through tribute, hostages, foreign patrons, and protected communities whose presence makes invasion morally and politically costly. Thalmyric liberation plans, Qahirid annexation, local anti-bondage movements, and Velian demands for firmer autonomy pull in different directions.
 
-## Story Uses
-
-Diplomacy, patronage, translation, mixed courts, slave liberation, water infrastructure, confessional protection, espionage, and preventing rival empires from turning a living society into a symbol.
-
 ## Navigation
 
 - [[The Gateway Republic]], [[The Gateway Wars]] and [[The Spared Towns and the Queen's Country]] — ancient societies in the wider gateway country, many centuries before the emirate's formation.

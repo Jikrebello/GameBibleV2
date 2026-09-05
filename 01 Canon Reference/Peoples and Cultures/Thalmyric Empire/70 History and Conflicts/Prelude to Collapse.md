@@ -13,7 +13,7 @@ tags: []
 ---
 # Prelude to Collapse
 
-The Atherian Empire entered its final decades with functioning cities, ancient prestige, and a government increasingly unable to convert information into action.
+The Atherian Empire entered its final decades between 885 and 905 AR with functioning cities, ancient prestige and a government increasingly unable to convert information into action. Provincial commands had divided, tax registers overstated recoverable wealth and court factions concealed the weakness of depots and armies. At the same time, Qahir ibn Ruzbeh rebuilt Covenant logistics, intelligence and siege production for the campaign that would bring down Caleran.
 
 ## Corvenas III and the Ash Hall
 

@@ -41,14 +41,6 @@ Castara needs a land link to Concord markets. Aversia wants secure ore, tools, a
 
 Cavora illustrates the road's limits. Its civic officers govern inside the boundary stones. Grey-Rein witnesses retain authority over the grant and adjacent land. Quarrying, new wells, fields, forts, or permanent roads beyond the declared holding require another agreement rather than unilateral Castaran registration.
 
-## Story Uses
-
-- an installment vanishes before the renewal fire;
-- a caravan claims protection after leaving its registered route;
-- an Aversian depot blocks a great-horn migration;
-- raiders use Ash marks to provoke a Castaran military response;
-- a road survey reveals a grave, old camp, or thin-space landmark.
-
 ## Navigation
 
 - [[Ash Horde]]

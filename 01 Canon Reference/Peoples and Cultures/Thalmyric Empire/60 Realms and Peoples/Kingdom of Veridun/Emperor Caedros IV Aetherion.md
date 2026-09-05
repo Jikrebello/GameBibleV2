@@ -41,13 +41,6 @@ Caedros is patient with engineers, veterans, and village petitioners, but impati
 
 His sword **Ashreaver** hangs above the imperial throne at Veridun. It has not been drawn since his coronation.
 
-## Story Use
-
-- a revered commander forced to decide whether his life's unfinished war should become his children's inheritance;
-- an emperor who appears unannounced at a failing wall or neglected hospital;
-- a succession struggle in which every candidate embodies a different answer to imperial continuity;
-- petitioners from mixed frontier communities invoking Caedros's own amnesty laws against his generals.
-
 ## Navigation
 
 - [[The Court of Veridun (1360 AR)]]

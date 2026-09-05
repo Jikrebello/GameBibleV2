@@ -13,6 +13,8 @@ tags: []
 ---
 # Geography Atlas
 
+The known world extends across a southern-hemisphere arrangement of warm northern drylands, temperate imperial heartlands and increasingly cold southern forests, mountains and seas. Roads, rivers, harbours, wells and winter passes shape the reach of every state described in the encyclopedia. This atlas introduces those relationships and connects them to the more detailed [[Gazetteer of the Known World]].
+
 ## Purpose
 
 This atlas ties cultures, wars, trade routes, settlement patterns, and playable regions to the physical world.
@@ -47,34 +49,15 @@ Use [[Southern Cold Belt and Grobi Frontier]] as the governing note for this cli
 
 [[Brackenmouth]], [[Rookstrand]] and [[Keldscar and Gannet Head|Keldscar]] are one connected harbour neighbourhood within the existing Tidewood Coast. Their local river mouth, hauling beach and exposed headland give the [[History of the Tidewood Coast|regional history]] physical homes without redrawing the F4 region. Their exact coordinates and travel distances are not fixed; a storm can interrupt the short coastal journeys between them.
 
-## Required Map Layers
-
-- **Strategic Shell industry:** mark the public industrial zones around Vorthara's four draws, Ironvale's three works, the Qahirid four-anchor complex, and Thalmyria's three inherited gates. Exact threshold entrances and access geometry remain author-only in [[Shell Anchors and Extraction]].
-
-- Mark capitals, holy cities, pilgrimage roads, trade routes, mountain passes, frontier duchies, Velian States, Zanthir, Mazrakan, and Grenzburg.
-- Playable-region detail for Grenzburg, Caleran, Vorthara, Fiorenzia, Aversia, Orsena, Vardessa, Caldria, and the Velian States.
-- Physical routes for each major war, migration, and population transfer.
-- Dashed TH1-TH4 ranges for the White, Iron, Moon, and Ash Hordes, plus the [[Nine Wells of Tergai]] and [[Castaran Long Road]].
-
 ## Thalmyric Heartland Logic
 
 Thalmyria occupies the most infrastructure-dense portion of old Atheria. Veridun, Caleran, Virelos, and the regional capitals concentrate population because their walls, water, markets, hospitals, and roads survived or were repeatedly rebuilt. Beyond these corridors lie shrinking villages, abandoned terraces, occupation ghost towns, Reconquest forts, and broken branches of larger Atherian systems.
 
 The heartland's maps must distinguish six archaeological layers described in [[The Layers Beneath Thalmyria]]. Ordinary debris is common; intact dungeons and functioning systems are rare. Borders and roads should show how the [[The Long Reconquest (908-1052 AR)|Long Reconquest]] moved from the mountain refuge toward Caleran and then province by province, leaving the Velian and Zanthir frontier unresolved.
 
-## Causal Geography Rules
+## Further reading
 
-- **Borders must have reasons:** mountains, rivers, roads, old imperial forts, trade chokepoints, holy sites, contract jurisdictions, or thin-space hazards.
-- **Wars must have corridors:** armies need passes, ports, roads, granaries, siege routes, and safe wintering ground.
-- **Magic leaves terrain:** Shell leaks, warlock overdraw, saintly relic sites, Idol-haunted cities, Menhir pact forests, and patron anchors should affect settlement patterns.
-- **Pilgrimage and trade should overlap:** holy roads are also markets, spy routes, relic routes, and military supply lines.
-- **Frontiers should be metaphysical as well as political:** Grenzburg matters because it sits where law, debt, winter, Folk claims, Grobi migration, artifact extraction, and buried power all collide.
-
-## Priority Map Layers
-
-- Political borders and disputed claims.
-- Major roads, passes, ports, rivers, and winter routes.
-- Holy cities, relic sites, pilgrimage roads, and martyr places.
-- Known thin spaces, Shell-leak zones, Menhir territories, and Idol-corrupted sites.
-- Warlock colleges, siege-magic foundries, contract courts, archive cities, and banking centers.
-- The [[Southern Cold Belt and Grobi Frontier]]: taiga zones, permafrost, Grobi migration corridors, winter passes, clan territories, and cold-frontier forts.
+- [[Gazetteer of the Known World]]
+- [[Southern Cold Belt and Grobi Frontier]]
+- [[The Layers Beneath Thalmyria]]
+- [[World Historical Atlas MOC]]

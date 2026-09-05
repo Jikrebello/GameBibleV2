@@ -13,6 +13,8 @@ tags: []
 ---
 # Historical Spine of the Tarkhan
 
+The Tarkhan are Orphaned peoples of the northern dry belt and eastern grasslands. Western camel-and-well societies and eastern hunting and herding communities developed long before the capture of Atherian horses transformed regional warfare after 905 AR. Their history includes contested wells, caravan brokerage, Qarayel's Black Wind and the later division into four great Horde coalitions, each of which follows its own leadership and routes in 1360.
+
 ## Orphaned Reassembly in the Dry Belt
 
 Tarkhan ancestors descend principally from dry-belt subject communities, fugitives, client-state survivors and mobile groups left outside the Glass Ark. They survive and reassemble across the northern desert, seasonal lake country and eastern grasslands. Western clans develop camels, well law, caravan brokerage and mobile pastoralism. Eastern communities combine hunting, small herds and foot-mobile migration. Later arrivals are absorbed, but the people is not a fourth branch of the Prophet's camp.

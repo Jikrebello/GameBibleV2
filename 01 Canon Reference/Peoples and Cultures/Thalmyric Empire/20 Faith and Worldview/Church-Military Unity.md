@@ -15,7 +15,7 @@ tags: []
 ---
 # Church-Military Unity
 
-Thalmyria's Church and army share history, chaplaincy, saints, hospitals, frontier land, and the memory of survival. They are not one institution.
+The Thalmyric Church and imperial army developed together during the refuge years and Long Reconquest. They share chaplaincies, saints, hospitals, frontier lands and a public memory of survival, while remaining institutions with different forms of authority. The Crown commands soldiers; the Church provides sacramental care, moral teaching and discernment, and can grant or refuse its blessing to a campaign.
 
 ## Lawful Cooperation
 

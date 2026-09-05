@@ -68,13 +68,6 @@ Breaking a manifestation ends its current intervention but cannot destroy the re
 
 Wonder-working saints are called **oil saints**, **healing elders**, or **bearers of the clean flame**. War and threshold service produces titles such as **banner saint**, **wall intercessor**, **hospice keeper**, and **saint at the last door**. Armies and churches may invoke those titles sincerely or propagandistically; the commission's conduct, not the banner, establishes what appeared.
 
-## Story Uses
-
-- Decide whether an overwhelming battlefield apparition is truly saintly or a counterfeit.
-- Complete the practical work made possible by a narrowly bounded miracle.
-- Protect a threshold saint's mortal witnesses while the route is repaired.
-- Confront leaders who invoke a war saint while violating the people under that saint's protection.
-
 ## Navigation
 
 - [[Manifested Saints Overview]]

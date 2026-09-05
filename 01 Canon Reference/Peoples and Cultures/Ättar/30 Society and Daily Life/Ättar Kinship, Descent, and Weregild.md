@@ -13,6 +13,8 @@ tags: []
 ---
 # Ättar Kinship, Descent, and Weregild
 
+Ättar society joins paternal pact descent to the practical authority of households, fosterage and marriage. Public naming admits children to a hall and identifies the kin responsible for their protection, property and offences. Weregild places a price upon many injuries in order to restrain feud, but the amount follows a person's rank and freedom; the system therefore preserves hierarchy even when it prevents further killing.
+
 ## Hall and Descent
 
 The acknowledged father transmits totem, pact lineage, and ordinary hall membership. A child of an Ättar father and foreign mother can be fully Ättar after public naming, though moon-blood and rage are often weaker or unreliable. A child of an Ättar woman and foreign father belongs to the mother's household but requires adoption and naming by an Ättar paternal line to enter a totem kindred.

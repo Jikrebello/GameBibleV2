@@ -40,7 +40,6 @@ Invitation Moths are palm-sized creatures with velvet wings patterned like doors
 - **Weakness and permanent defeat:** state the actual invitation and its limits before witnesses, remove coerced access, and cleanse the threshold from both sides. Killing moths while leaving the coercive relationship intact produces a darker brood.
 - **Materials:** wing powder can reveal whose voice or welcome the swarm copied. Using it as a charm is an act of coercive magic.
 - **Regional names:** welcome wings, threshold roses, lover's letters, and soft knockers.
-- **Story uses:** admit an assassin through a family memory; expose a patron's coerced salon; tempt isolated travelers with a real refuge whose welcome has been stolen.
 
 ## Desire Doubles
 
@@ -53,7 +52,6 @@ Desire Doubles are Masks that embody a desired role rather than simply copying a
 - **Weakness and permanent defeat:** locate and free or relinquish the anchoring person or role, establish consent and independent testimony, mourn what cannot be possessed, and destroy the fantasy-token. Proving the Double imperfect is not enough if the beneficiary still prefers control to truth.
 - **Materials:** a discarded face membrane shows different features to each viewer and can diagnose the expectation used in a cult.
 - **Regional names:** wished-for ones, sweet replacements, heart mirrors, and borrowed beloveds.
-- **Story uses:** replace a genuinely abusive spouse with a kinder counterfeit; manipulate a grieving parent without imitating the dead child's soul; serve a political leader as the perfectly grateful people.
 
 ## Adoration Hosts
 
@@ -66,7 +64,6 @@ Adoration Hosts are autonomous Archmasks that construct communities of compulsor
 - **Weakness and permanent defeat:** create a genuinely safe path to refuse and leave, restore outside relationships, expose coerced access without humiliating ordinary desire, and sever the Host's central invitation while at least one former beneficiary freely rejects it.
 - **Materials:** host-silk preserves an emotion exchanged in its presence but cannot prove that the exchange was consensual.
 - **Regional names:** beloved courts, wedding saints, many-hearted hosts, and the always-near.
-- **Story uses:** rescue people who sincerely prefer the cult to their former loneliness; prevent a peace marriage from becoming a city-wide Host; confront a sanctuary that heals trauma by making every survivor emotionally available to all.
 
 ## Navigation
 

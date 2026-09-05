@@ -70,14 +70,6 @@ Miners, tanners, sewer crews, alchemists, and delvers all cultivate or extermina
 
 Carrion soap, glass water, rust hunger, bone-wash, cistern veil, and miner's orange are common trade names. Scholars group them for convenience; locals care which substance stops the one in front of them.
 
-## Story Hooks
-
-- a city cistern is unusually clean because a clear slime has consumed the missing inspectors;
-- an iron-eater infestation disables a gate before a human assault;
-- a licensed bone-cleaning colony escapes into an ossuary;
-- mine owners fake a rich seam with concentrated ooze nodules;
-- a strange slime resists every natural countermeasure, proving it belongs to another origin family.
-
 ## Navigation
 
 - [[The Mundane Layer — Residue, Vermin, and the Delver Trade]]

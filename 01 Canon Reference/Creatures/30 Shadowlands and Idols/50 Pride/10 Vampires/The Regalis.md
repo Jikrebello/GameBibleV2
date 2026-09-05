@@ -64,12 +64,6 @@ Regalis blood can expose kinship, command marks, and false succession when handl
 
 Eclessian hunters say **crown-bloods**; Thalmyric accounts use **red voivodes**; Sestaran dossiers prefer **first-house vampires**. Regalis is the creator-facing bloodline name.
 
-## Story Uses
-
-- A generous patron's relief household proves to be a machine for acquiring permanent dependents.
-- Two heirs need proof that their ancestor's coronet is rebuilding the ruler they buried.
-- A town can repudiate its protector only after surviving the retaliation of mortal retainers who sincerely prefer the old order.
-
 ## Navigation
 
 - [[Bestiary MOC]]

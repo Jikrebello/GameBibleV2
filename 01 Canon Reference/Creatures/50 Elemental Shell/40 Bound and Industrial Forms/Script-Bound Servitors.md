@@ -51,14 +51,6 @@ Common failures include task drift, boundary erosion, misidentified operators, s
 
 Recoverable parts include compact conductors, stable response plates, charge cells, pressure bladders, and workshop signatures. Names include *scriptlings*, *work hands*, *little obediences*, *forge familiars*, and *bound tools*.
 
-## Story Uses
-
-- a lost servitor guides rescuers by repeating the route of its dead crew;
-- a stolen command mark turns household tools into an infiltration network;
-- an expedition must repair its guide without mistaking simulation for reliable judgement;
-- a damaged brace-servitor keeps a mine open but classifies trapped workers as excess load;
-- a harmless companion carries evidence its owner never knew it recorded.
-
 ## Navigation
 
 - [[Elemental Shell MOC]]

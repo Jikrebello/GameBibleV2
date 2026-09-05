@@ -66,12 +66,6 @@ Palace matter, route favors, shelter rights, and reality edits are valuable. An 
 
 Genie, cup lord, wind prince, palace mind, anchor sovereign, and white king are local umbrellas. None identifies ancestry or moral character.
 
-## Story Uses
-
-- A fair Anchor-Lord cannot shelter more refugees without evicting a violent but lawfully admitted client.
-- A palace tyrant's death would collapse the only stable route between two communities.
-- Rival Lords ask mortals to adjudicate a border because Material witness provides density neither can manufacture.
-
 ## Canon Exemplars
 
 [[Demiplane Atlas#House of the Returning Cup|House of the Returning Cup]] and [[Demiplane Atlas#Palace Under Folded Wind|Palace Under Folded Wind]] are recorded inside the [[Demiplane Atlas]]. Their owners remain individual and do not establish a genie state.

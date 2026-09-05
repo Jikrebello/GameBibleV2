@@ -13,6 +13,8 @@ tags: []
 ---
 # The Age of the Redeemer
 
+The Age of the Redeemer encompasses the life of Isfir, his public ministry from approximately 3 BR to 0 AR, his execution by Atherian authority and his resurrection on the third night. These events transformed the human soul-road and established the central truth around which later churches, empires and persecutions developed. The age also includes the immediate political and religious consequences among the Jirahar and within imperial Caleran.
+
 ## Jirahar Birth
 
 Isfir is born in 33 BR to a Jirahar household connected to the eastern tower and caravan world. He is raised in the Scrolls, Peshara argument, craft, pilgrimage, and the memory of two exiles.

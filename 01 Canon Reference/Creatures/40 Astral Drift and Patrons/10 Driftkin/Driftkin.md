@@ -78,12 +78,6 @@ True-silt, route knots, and personal ballast are intimate remains, not neutral s
 
 Driftkin is the broad creator term. Egg-born, route folk, silt people, pale travelers, and unmoored are local names, some insulting.
 
-## Story Uses
-
-- A refugee procession needs a Material sanctuary before its children's shared anchor fails.
-- A navigator accused of selling a route has been copied; neither version can prove which body departed first.
-- A patron offers to restore a dead Driftkin companion as a perfect pattern and insists that memory makes the copy the same person.
-
 ## Navigation
 
 - [[The Image, Soul, and Creaturely Continuity]]

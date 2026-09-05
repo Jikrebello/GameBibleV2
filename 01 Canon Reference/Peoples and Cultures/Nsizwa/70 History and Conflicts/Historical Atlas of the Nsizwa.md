@@ -13,6 +13,8 @@ tags: [world-historical-atlas]
 ---
 # Historical Atlas of the Nsizwa
 
+The Nsizwa are Orphaned peoples of the distant southwestern plateaus whose ancestors survived the Giant collapse through cattle communities, burial refuges and war bands. Their later societies joined cultivation, seasonal pasture, metalwork and regional trade to a powerful mortuary tradition centred on preserved bodies and praise. Mzalu's legendary unification and the institutions of the Horn-Captains and Spirit-Keepers remain central to Nsizwa accounts of their past.
+
 ## Historical Atlas — wider inheritance
 
 Nsizwa ancestors survived Giant collapse through southwestern plateaus, cattle communities, burial refuges and war bands. Their Orphaned reassembly preserved bodies and praise while other parts of the old infrastructure failed. Mzalu's legendary unification therefore belongs to the joining of several survivor populations, not a secret Ark migration.
@@ -26,4 +28,3 @@ Their regional power has ordinary foundations: farming, seasonal pasture, platea
 
 - [[World Historical Atlas MOC]]
 - [[Peoples in the World Historical Atlas]]
-

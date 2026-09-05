@@ -13,7 +13,7 @@ tags: []
 ---
 # Historical Spine of the Known World
 
-This note is the causal backbone of the setting. It explains how the present conflict-board emerged from inherited wounds rather than disconnected lore.
+The known world's history extends from Giant dominion and the Great Unbinding through the Glass migration, the formation of later peoples, Atherian rule and the successor states of 1360 AR. This survey follows the principal changes that connect those ages. Each period created institutions, memories and injuries inherited by the next, giving the present political and religious order a history longer than any surviving state.
 
 ## 1. Age of Chains
 
@@ -61,7 +61,9 @@ The eastern [[First Qiryath and the Arqeshite Exile|Arqeshite River Empire]] des
 
 ## 7. Atherian Unity and the Star Pantheon
 
-The Atherian city world and republic create roads, cities, law, archives and a civic identity capable of admitting outsiders on unequal terms. Provincial wealth and unequal service strengthen personal military followings. [[Teren Casvilar]] gains supremacy through conquest and civil war; his assassination in 370 BR leaves rival claims to armies and rewards. [[The Wars of the Atherian Succession]] passes through a three-command government and renewed conflict before [[Aurelius Thalion]] establishes imperial supremacy around 350 BR. The empire centralises that inheritance into provincial government and continental memory, using the Star Pantheon to present its authority as cosmic civic order.
+The Atherian city world and republic create roads, cities, law, archives and a civic identity capable of admitting outsiders on unequal terms. Provincial wealth and unequal service strengthen personal military followings. [[Teren Casvilar]] gains supremacy through conquest and civil war; his assassination in 370 BR leaves rival claims to armies and rewards. [[The Wars of the Atherian Succession]] passes through a three-command government and renewed conflict before [[Aurelius Thalion]] establishes imperial supremacy around 350 BR.
+
+[[Historical Atlas of the Atherian Age of Glory]] follows successive houses, a short four-claimant civil war and provincial expansion to 0 AR. Cities and professional armies allow the empire to outlive individual dynasties. The Star Pantheon presents that authority as cosmic civic order, while standardised ruler worship forms the dependent Pride Mask called the Emperor after the Emperor.
 
 **Inherited wound:** everyone wants Atheria's legitimacy, roads, ruins, and archives.
 

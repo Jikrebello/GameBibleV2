@@ -60,14 +60,6 @@ Venom supports medicine, hunting poisons, and assassination. Wing leather is lig
 - **sun-spear** on northern desert escarpments;
 - **wyvern** in creator-facing and Eclessian military reference.
 
-## Story Hooks
-
-- a new road cuts directly below the only surviving nest in a mountain district;
-- an alchemist pays for live venom while concealing that the antidote is untested;
-- a wyvern carries an expedition satchel to its ledge with the rest of the body;
-- soldiers blame a wyvern for carefully selected attacks committed by a human rider;
-- fleeing animals reveal a landslide before the threatened village believes the scouts.
-
 ## Navigation
 
 - [[The Mundane Layer — Residue, Vermin, and the Delver Trade]]

@@ -13,9 +13,7 @@ tags: []
 ---
 # The Making of Saints
 
-How the two great churches (and the third movement) recognize sanctity — the lived difference between them, downstream of the Kindling Question. Companion to [[White Flame Doctrine]] and the five-test protocol in the [[World Egg Setting Primer]].
-
-**Authorial distinction:** churches recognize, commemorate, and sometimes misidentify saints; they do not manufacture them. A living saint remains a human person in the Material Realm. A [[Manifested Saints Overview|manifested saint]] is a redeemed human soul sent from Heaven after judgement. Manifested saints are not true angels and cannot be mechanically summoned through relics, hymns, or canonization procedure.
+The Eclessian and Thalmyric churches recognise sanctity through different institutions, while the Freeflame movement rejects formal canonisation. These practices shape feast days, relic cults, pilgrimage and the public memory of holy lives. They can identify a saint or mistake one; they cannot create sainthood. A living saint remains a human person in the Material Realm, and a [[Manifested Saints Overview|manifested saint]] is a redeemed human soul sent from Heaven after judgement. Relics, hymns and canonisation procedures cannot compel such a manifestation.
 
 ## Eclessia: Canonization (the Juridical Way)
 
@@ -37,15 +35,11 @@ The classic Thalmyric saint is not a charismatic but a **wonder-working elder** 
 
 Ferro's congregations recognize **tested elders** in this life and leave the next to the Lord: no canonization, no invocation, no relic cults — *"the only register is the Book of Life, and we do not hold the pen."* The saints of the old rolls are honored as exemplars, quoted like scripture, and never prayed *to*. In practice, Freeflame communities keep unofficial memory-days for Ansgar and Menos with an intensity that looks remarkably like everything they abolished, and their opponents say so.
 
-## Behind the Curtain
+## Limits of Recognition
 
-Per the authorial ruling in [[The Great Split — Two Crowns, One Fire]]: the Flame answers **the righteousness and purpose of the person**, not the institution's process. Both systems therefore "work" exactly insofar as they actually find or form holy people — the West's tests genuinely filter fraud when honestly run, the East's elders genuinely discern when genuinely humble — and both fail identically when they become machinery for something else. Neither knows this. Each reads the other's failures as proof of its own method.
+The Flame answers the righteousness and purpose of a person rather than the prestige of an institution. Honest Eclessian inquiry can expose fraud, and humble Thalmyric discernment can recognise holiness. Both fail when political advantage, wealth or pride governs the process. Neither church possesses this explanation in full, and each commonly treats the other's failures as evidence for its own method.
 
-A true posthumous manifestation confirms that the redeemed person has received a particular commission; it does not validate every claim made by the person's earthly admirers. Counterfeit apparitions, persona echoes, patron imitations, and [[Borrowed Saints]] remain possible even around genuine relics.
-
-## Game Use
-
-Canonization causes as long-arc political quests (the Reformer's cause, the Saint-Emperor's cause, a Grenzburg local's cause); Four-Marks claimants as investigation seeds (real, fraudulent, or fed by something); elder-discernment as the East's answer to every "is this vision true?" plot; and the permanent asymmetry that a saint canonized on one side of the border is a case file on the other.
+A true posthumous manifestation confirms the particular commission under which the redeemed person has appeared. It gives no general approval to every claim made by that person's earthly admirers. Counterfeit apparitions, persona echoes, Patron imitations and [[Borrowed Saints]] may appear even around genuine relics.
 
 ## Navigation
 

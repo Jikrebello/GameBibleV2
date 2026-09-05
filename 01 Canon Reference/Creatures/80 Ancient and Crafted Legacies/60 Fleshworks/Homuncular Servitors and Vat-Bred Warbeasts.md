@@ -36,7 +36,6 @@ Small purpose-grown organisms serve as surgical assistants, scent readers, toxin
 - **Tactics and failure:** frightened servitors hide, signal, inject sedative, or protect a bonded routine. Neglect causes hunger, malformed growth, disease, and defensive behavior.
 - **Permanent defeat and materials:** they are mortal animals. A breeding line ends only when brood tissue and design stock are destroyed. Ethical handling favors capture or euthanasia where practical. Their glands and graft tissues have medical value.
 - **Regional names:** *little hands*, *vatlings*, *surgeon's birds*, *flesh familiars*.
-- **Story uses:** rescue abandoned clinic servitors before disease spreads; identify a murderer through a toxin sampler's tissue; expose a guild breeding humanlike pain responses for easier training.
 
 ## Vat-Bred Warbeasts
 
@@ -46,7 +45,6 @@ Large engineered animals combine selected natural stock, reinforced grafts, and 
 - **Tactics and failure:** they exploit designed roles such as wall climbing, scent pursuit, armored charge, chemical spray, or pack coordination. Broken conditioning produces panic and indiscriminate escape rather than villainous intent.
 - **Permanent defeat and materials:** individual beasts are mortal; permanent removal requires closing the brood vats and destroying viable design stock. Armor grafts, antitoxins, and veterinary techniques can be salvaged without commercializing suffering tissue.
 - **Regional names:** *war vats*, *house beasts*, *mutable hounds*, *siege flesh*.
-- **Story uses:** free a coerced handler and redirect a trained pack; stop a legal working line being converted into pain-driven weapons; hunt a breeding matron before feral offspring establish locally.
 
 ## Moral Boundary
 

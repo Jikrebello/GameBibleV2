@@ -14,6 +14,8 @@ tags: [game-ready]
 ---
 # Collegium of Doors
 
+The Collegium of Doors is Vorthara's specialist school for wardcraft, counter-magic and the design of spaces intended to contain hostile forces. Its graduates protect vaults, summoning chambers and siege works throughout the city, and its annual Breach-Week trials make it one of Vorthara's best-known schools among the public. Beneath this practical reputation lies an inherited mnemonic ward whose sealed chambers and original purpose are understood only in fragments.
+
 ## Function
 
 The Collegium is Vorthara's specialist school of wardcraft, counter-magic, controlled summoning spaces, and hostile architecture. It is smaller than the Crucible and lacks the Ironbound Guild's industrial reach, but nearly every major school hires its graduates to design containment rooms and test defenses.
@@ -42,10 +44,6 @@ The Collegium values elegant failures almost as highly as successful defenses. T
 ## Hidden Foundation
 
 [[Arcanist Odran Vale]] built an adaptive mnemonic ward beneath the Hall of Proof. Most faculty know only that the deepest systems are inherited and inaccessible. Rectors know entrants are redirected into a sealed annex, but the truth of [[The Examiner]] and its trapped contestants has been lost behind deliberate omissions.
-
-## Adventure Use
-
-The faction can survive [[Breach-Week — Full Adventure]] as a reformed public-safety institution, be dissolved among rival schools, preserve the sealed Annex, or become the vessel of a new Examiner steward.
 
 ## Navigation
 

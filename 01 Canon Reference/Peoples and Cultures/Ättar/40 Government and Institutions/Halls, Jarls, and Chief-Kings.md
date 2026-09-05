@@ -13,6 +13,8 @@ tags: []
 ---
 # Halls, Jarls, and Chief-Kings
 
+Ättar government is built from households and halls whose leaders acquire wider authority through wealth, kinship, protection and success in war. A jarl commands a great hall and its dependants; several jarls may acclaim a chief-king for a major campaign or a prosperous age of raiding. Such power must be renewed through food, gifts, judgement and victory, and remains vulnerable to assembly rejection or the violent challenge of a sworn berserker.
+
 ## Levels of Authority
 
 - **Household:** the basic unit of property, labor, kin obligation, and vengeance.

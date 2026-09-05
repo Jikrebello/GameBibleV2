@@ -13,25 +13,21 @@ tags: []
 ---
 # The Apathetics
 
-The Slumberer's heresy, jointly condemned by both great churches: Sloth's network, and the gentlest thing in this atlas, which is what makes it dangerous.
+The Apathetics are a network of Stillhouses and itinerant comforters associated with Sloth and the Slumberer. They offer exhausted people relief from work, penance and public causes, then cultivate the repeated abandonment of duty, truth and relationship. Both great churches condemn the movement, although many of its local wardens sincerely believe that they are maintaining hospices for people whom other institutions have spent.
 
 ## Doctrine
 
-Not laziness: **surrender marketed as peace**. The Apathetics teach that the war for souls is real and unwinnable, that every exertion — prayer, reform, crusade, even sin — only feeds one hungry power or another, and that the sole unexploitable act is *rest*. "The Fire and the Idols quarrel over the wick. Be the unlit candle; be sweet wax; be still." Their gatherings (**Stillhouses**) offer what no church does: permission to stop. No tithe, no fast, no penance, no cause. The doctrine's terminus is the Grey Rest, a lifetime of practiced abdication in which the person repeatedly chooses not to answer truth, duty, or relation. Sloth feeds during life and prepares refusal; it cannot erase agency, fade a soul into non-personhood, or bypass judgement at the Vestibule.
+The Apathetics describe the struggle for souls as unwinnable. Prayer, reform, crusade and sin are all said to feed a power seeking possession of the self; rest alone is presented as beyond exploitation. Stillhouses therefore demand no tithe, fast, penance or public cause. Their customary image is an unlit candle left as sweet wax while the Fire and the Idols quarrel over its wick.
+
+Long residence prepares a follower for the **Grey Rest**, a life of practised abdication in which the person repeatedly declines to answer truth, duty or relationship. Sloth feeds upon these choices and encourages final refusal. It cannot erase human agency, dissolve a soul into non-personhood or evade judgement at the Vestibule.
 
 ## Structure and Signs
 
-Barely any: hosts called **Wardens of the Quiet**, itinerant comforters called **Lullers**. Signs: postponement as a local culture (plans, repairs, marriages, all "after winter"); attendance decaying everywhere at once; the young talking like the exhausted old; Nightmare-crossings clustering near Stillhouses, where the mounts favor sloth-soaked ground.
+Stillhouses are maintained by **Wardens of the Quiet**, while travelling comforters called **Lullers** find new residents. The movement leaves little central administration. Its influence appears when a community begins postponing repairs, marriages and preparations indefinitely, or when young people adopt the speech and resignation of the exhausted old. Nightmare crossings also gather near established Stillhouses, whose habits provide favourable ground for them.
 
 ## Methods and Relations
 
-They recruit the burned-out: veterans, plague survivors, failed reformers, over-worked clergy — the Reformation's wars gave them a generation of customers. Uniquely, they are *nonviolent and mostly sincere*; many Wardens genuinely believe they are running hospices for the soul. The Slumberer prefers it that way. Every other network despises them as unfarmable; the Hollow Flame keeps trying to radicalize Stillhouses and keeps failing (radicalization requires effort).
-
-## Hooks
-
-- A Grenzburg ration-riot simply... doesn't happen; the Duke is relieved until the Castellan notices *why* — a Stillhouse opened by the granary, and hungry people who no longer mind.
-- A beloved veteran captain resigns into the Quiet mid-siege; his men start following.
-- An Ember-Visionary's trance reports the same image the Apathetics paint on their walls — and the very calm old nun sent to investigate does not come back different, which is somehow worse: she comes back *sure*.
+Veterans, plague survivors, failed reformers and overworked clergy provide most recruits. The Reformation wars have therefore given the movement its largest constituency in generations. Most Wardens are nonviolent and sincere, a condition that makes their care more persuasive and suits the Slumberer's purposes. Other Idol networks obtain little from residents who cease wanting or competing. Hollow Flame preachers have repeatedly failed to turn Stillhouses towards militant refusal.
 
 ## Shadowlands Interface
 

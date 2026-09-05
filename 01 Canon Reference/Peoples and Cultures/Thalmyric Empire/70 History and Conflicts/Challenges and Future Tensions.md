@@ -42,15 +42,6 @@ The Holy Synod and emperor require one another but dispute appointments, militar
 
 Mixed occupation-descended communities remain vulnerable to purist politics. The state must decide whether loyalty, law, ancestry, or suffering defines belonging. Every answer protects someone and exposes someone else.
 
-## Campaign Fronts
-
-- **Succession:** a court appointment becomes the first irreversible alignment.
-- **Frontier:** a manufactured atrocity could force the Zanthir war.
-- **Interior:** reopening one abandoned district requires choosing whose old claims survive.
-- **Antiquities:** a buried census contradicts the property order of an entire province.
-- **Debt:** a Sestaran rescue package demands control of a recovered imperial harbor.
-- **Church:** an authentic miracle is claimed by a movement preaching a false theology of pain.
-
 ## Navigation
 
 - [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/Thalmyric Empire Overview.md|Thalmyric Empire Overview]]

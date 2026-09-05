@@ -14,7 +14,7 @@ tags: []
 ---
 # Al-Qahur and the Sacred Basin
 
-Al-Qahur is the Covenant's sacred and agricultural heart: a river-and-oasis basin whose waterworks, grain, and pilgrimage sustain lands far beyond its borders.
+Al-Qahur is the Covenant's sacred and agricultural heart, a river-and-oasis basin whose waterworks, grain and pilgrimage sustain lands far beyond its borders. Caliph Uwais guards its holy sites and the Fourth Seal, while Sword-Regent Nadir ibn Haraz and the military households exercise most daily political power. Their dependence upon Qahuri cultivators and canal councils gives village institutions influence beneath an unequal estate system.
 
 ## Sacred Authority
 

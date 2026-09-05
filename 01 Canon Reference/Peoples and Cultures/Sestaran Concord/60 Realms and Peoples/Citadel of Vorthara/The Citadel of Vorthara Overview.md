@@ -40,13 +40,13 @@ In 907 Vortharan warlocks helped Caldria destroy the Covenant siege train at [[T
 - [[The Pale Hand]] works with corpses, residue, and undeath under the limits of soul routing.
 - [[The Crafters’ Union and The Elixirium]] manufacture instruments, equipment, medicines, and dangerous enhancements.
 
-Arachnara appears in cult testimony as an Idol mask associated with appetite, vermin, multiplication, and dissolved identity. She is not an authorially confirmed goddess.
+Arachnara appears in cult testimony as an Idol Mask associated with appetite, vermin, multiplication and dissolved identity. The evidence establishes no separate goddess behind that name.
 
 ### The Four Draws
 
 Vorthara operates four permanent Shell anchors: the Crucible Mouth, Floodglass Intake, Bellspire Draw, and Crown-Road Weight Gate. Together they supply forge-charge, pressure brine, stormglass, and weight-seed to rival wards. No faction owns all four, and the Spire Truce treats sabotage capable of cascading between them as an attack on the whole ascent.
 
-Their output underwrites warlock training, dangerous industry, export instruments, and the city's claim to technical preeminence. Exact access geometry remains compartmentalized even among Vortharans. [[Shell Anchors and Extraction]] holds the authorial register.
+Their output supports warlock training, dangerous industry, exported instruments and the city's claim to technical pre-eminence. The exact geometry of access remains compartmentalised even among Vortharans. [[Shell Anchors and Extraction]] records the sites and their hidden occupation history.
 
 ### The Astral Conclave
 

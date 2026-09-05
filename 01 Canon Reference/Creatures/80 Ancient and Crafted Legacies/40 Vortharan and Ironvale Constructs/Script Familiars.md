@@ -51,14 +51,6 @@ Memory saturation, ambiguous pronouns, corrupted owner lists, and repeated emerg
 
 Valuable parts include classification plates, miniature joints, voice reeds, optical records, and ownership seals. Names include *script pets*, *brass companions*, *workshop imps*, and *little masters*.
 
-## Story Uses
-
-- a murdered scholar's familiar reenacts routes but cannot explain motive;
-- two copied familiars both appear to grieve an owner while carrying different evidence;
-- a damaged guide keeps leading an expedition toward a platform that no longer exists;
-- thieves replace an owner seal and turn a trusted assistant into a spy;
-- a child risks their life for a beloved familiar, forcing adults to respect the attachment without declaring the machine a person.
-
 ## Navigation
 
 - [[Ancient and Crafted Legacies MOC]]

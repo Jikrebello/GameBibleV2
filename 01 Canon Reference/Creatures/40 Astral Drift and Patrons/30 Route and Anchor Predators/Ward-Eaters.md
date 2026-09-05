@@ -25,6 +25,8 @@ astral_niche: anchor-predator
 ---
 # Ward-Eaters
 
+Ward-Eaters are small Astral predators that feed upon rejected instructions shed by overlapping magical defences. They are especially common in Vorthara's black-spire districts, where dense networks of seals and counter-seals provide a rich habitat. Their feeding strips away locks and protective barriers and may open a route for larger dangers, although the animals possess no understanding of what follows them.
+
 ## Classification
 
 Small native Astral predators that condense where layered wards shed rejected instructions into the Drift. Vorthara's black-spire districts provide an unusually rich habitat, but the species is not a construct and does not belong only to that city.
@@ -68,13 +70,6 @@ Fresh belly-glass can reveal the last ward consumed and is valuable to proof-eng
 ## Regional Names
 
 Vortharan crews use **Ward-Eater**; Castaran expedition records prefer **seal-gnawer**; Driftkin route-keepers say **edge-biter**. The names describe the same anchor predator.
-
-## Story Uses
-
-- Evidence that an allegedly isolated ward system is projecting beyond its site.
-- A vermin job where conventional magical defenses worsen the infestation.
-- Deliberate release by thieves before a vault breach.
-- A tracking tool: feed one a sample seal and follow it toward matching architecture.
 
 ## Navigation
 

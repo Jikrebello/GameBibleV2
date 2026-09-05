@@ -39,10 +39,6 @@ Book-running is the signature trade: banned Freeflame texts north, banned Vetti 
 
 Moderate and *institutional*: the duchy's wonders are certified, printed, and distributed — a Veridancian meets the strange in an approved woodcut before ever meeting it in a field, which shapes a piety more literate and less raw than the marches'.
 
-## Hooks
-
-A night-run pamphlet traced to the Lantern's own press; a seminarian's crisis mid-mission in Folk country; the Silk Duchess's factor found with an Under-Ledger second book.
-
 ## Navigation
 
 - [[01 Canon Reference/Peoples and Cultures/Eclessia/Eclessia Overview.md|Eclessia Overview]]

@@ -68,6 +68,12 @@ For the overseas republic, read [[The Gateway Republic]] and [[The Gateway Wars]
 
 For the founding generation, begin with [[The Last Generations of the Caleran Republic]] and [[The Southern Campaigns of Teren Casvilar]]. [[The House of Nerethan]] follows the queen's country across five generations; [[The Wars of the Atherian Succession]] connects changing commands and household alliances to Thalion's settlement around 350 BR. [[Households of the Imperial Founding]] introduces the women, children and surviving communities within that history.
 
+## Imperial Atheria
+
+[[Historical Atlas of the Atherian Age of Glory]] follows the empire from Thalion's settlement to the Redeemer boundary. The political route continues through [[The Later Reign of Aurelius Thalion]], [[The House of Thalion]], [[The Year of Four Eagles]], [[The House of Veloran]] and [[The Last Dynasties of the Age of Glory]].
+
+For society within those centuries, read [[Provinces and Municipal Life in Imperial Atheria]], [[The Imperial Army and the Frontiers]], [[Food, Trade and Enslavement in Imperial Atheria]], [[Schools, Arts and Imperial Magic]] and [[Star Religion and the Imperial Cult]]. The [[The Keeper of Borrowed Grain|Raveth famine]], [[The Crown of Olveth]], [[The Two Roads of Arcelon]] and [[The Companions Who Entered by the Low Door - Imperial History|Low Door Companions]] connect those institutions to particular lives and places.
+
 ## Tales that outlived their tellers
 
 
@@ -112,10 +118,10 @@ The [[The Grey Sweat - Authorial Truth|Grey Sweat]] and [[The Fourth Seal - Auth
 
 The [[World Historical Atlas - Integration and Coverage Ledger]] records the destinations of earlier history articles, all seventy-five Garden traditions, reviewed research and former reserve material. It also preserves the precedence of corrected sources.
 
-The [[World Encyclopedia - Revision and Expansion Programme]] schedules the continued development of the library, with a complete article and research inventory. The [[World Egg Encyclopedia - Editorial Style Guide]] records the approved standard for its prose.
+The [[World Encyclopedia - Revision and Expansion Programme]] schedules the continued development of the library, with a complete article and research inventory. The [[World Egg Encyclopedia - Editorial Style Guide]] records the approved standard for its prose and article forms. The [[World Egg Encyclopedia - Standards and Corpus Quality Audit]] measures the present library against that standard and assigns the remaining editorial work to Packages 3–9.
 
-The [[Dependable Navigation - Review and Repair Ledger]] documents the link repairs. [[Tidewood Historical Development - Authorial Review]] records the historical additions and authorial distinctions behind the completed regional example.
+The [[Dependable Navigation - Review and Repair Ledger]] documents the link repairs. [[Reader-Facing Campaign Material - Authorial Control]] preserves campaign and story prompts removed from encyclopaedia articles during the corpus-wide voice review. [[Tidewood Historical Development - Authorial Review]] records the historical additions and authorial distinctions behind the completed regional example.
 
 [[Atherian Formation and Republic - Delivery Review]] records Package 2B's integration and regional expansion. [[Caleran Foundations - Authorial History]] preserves the private facts behind the founders, Giant ancestries and religious identifications.
 
-[[Atherian Palace and Maritime Histories - Integration Review]] records the heroic and republican additions. [[Imperial Founding - Authorial History and Integration Review]] records the subsequent selection of Thalion as heir and founder, the incoming Nerethan dynasty, the named founding generation and its consistency checks.
+[[Atherian Palace and Maritime Histories - Integration Review]] records the heroic and republican additions. [[Imperial Founding - Authorial History and Integration Review]] records the subsequent selection of Thalion as heir and founder, the incoming Nerethan dynasty, the named founding generation and its consistency checks. [[Age of Glory - Authorial History and Integration Review]] records the dynastic, social and supernatural history through 0 AR.

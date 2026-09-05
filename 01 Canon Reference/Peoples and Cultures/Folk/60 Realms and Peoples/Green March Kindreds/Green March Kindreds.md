@@ -52,12 +52,6 @@ The region receives refugees and Grobi bands displaced from deeper southern corr
 - [[Birchcross]] - a Chapel-Folk mill and refuge hamlet on the road between Grenzburg and Lakewatch.
 - [[Fraternity of the First Shelter]] - a historical mixed frontier brotherhood whose refuge and Writ remain in Birchcross memory.
 
-## Story Uses
-
-- A written road concession erases three seasonal clan rights.
-- A winter host must choose which feuding refuge hall receives food.
-- A Chapel-Folk priest and old-rite seer agree on a danger for incompatible reasons.
-
 ## Navigation
 
 - [[Four-Hearth Compact]]

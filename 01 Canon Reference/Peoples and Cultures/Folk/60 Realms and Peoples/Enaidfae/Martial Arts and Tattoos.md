@@ -13,7 +13,7 @@ tags: []
 ---
 # Enaidfae Martial Arts and Tattoos
 
-Enaidfae martial societies organize training through the three environments that dominate southern life. These are practical fighting traditions first and spiritual disciplines second.
+Enaidfae martial societies organise training around the coastal, forest and mountain environments in which their communities live. Tide forms prepare people for decks and surf, root forms for close country and long watches, and gale forms for slopes, climbing and poor visibility. Tattooing records the kinship, service and injuries associated with these disciplines; a small number of marks also carry dangerous court bargains.
 
 ## Tide Forms
 
@@ -42,4 +42,3 @@ An unearned mark is oath fraud. Capturing or copying another society's pattern c
 - [[Enaidfae Old-Rite Confederacies]]
 - [[Folk Faith and Appeasement]]
 - [[Frost-Road and the Winter War]]
-

@@ -15,6 +15,8 @@ tags: []
 ---
 # Politics, Warfare, and Religious Influence in Virelia
 
+Virelia is an elective kingdom whose magnates, officers, clergy and provincial delegates choose a ruler when the throne falls vacant. King Gregor IV Radomir still reigns in 1360 AR, but age and the absence of a declared heir have made the eventual succession the centre of court politics. Rival houses connect their claims to grain, river commerce, frontier defence and confessional allegiance, while the kingdom's tenants and unregistered communities possess little influence over the choice.
+
 ## The Council of Sabres
 
 The Council elects a king after death, abdication, or lawful deposition; it does not hold routine elections. King Gregor IV Radomir still reigns. Current maneuvering concerns the eventual succession and the confessional settlement that will follow it.
@@ -52,4 +54,3 @@ The Unwritten are runaway camps, raiders, guides, and occasional auxiliaries out
 - [[01 Canon Reference/Peoples and Cultures/Eclessia/30 Society and Daily Life/Life Paths/Lives of Virelia.md|Lives of Virelia]]
 - [[The Korrheim Accord]]
 - [[01 Canon Reference/Peoples and Cultures/Eclessia/10 Foundations/The Making of the Eclessians.md|The Making of the Eclessians]]
-

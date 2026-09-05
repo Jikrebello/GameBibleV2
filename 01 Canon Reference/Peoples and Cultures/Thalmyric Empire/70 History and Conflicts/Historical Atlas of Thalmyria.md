@@ -13,6 +13,8 @@ tags: [world-historical-atlas]
 ---
 # Historical Atlas of Thalmyria
 
+Thalmyria is the southern successor empire formed by Atherian heartland survivors, mountain refugees, occupation-born families and the armies of the Long Reconquest. Its history centres on the recovery of Caleran, the creation of a new imperial house and later rivalry with Eclessia and the Ahl-e-Ahd. The empire of 1360 governs the oldest concentration of Atherian infrastructure while carrying unresolved memories of occupation, religious division and the violence of restoration.
+
 ## Historical Atlas — wider inheritance
 
 Thalmyrics inherit Atherian heartland and maritime traditions through refugees, provincial survivors, occupation-born populations and Reconquest settlers. They are not simply the eastern half of an ancient pure people. Mountain refuge and the founding wars made a new imperial identity from these layers.
@@ -34,4 +36,3 @@ The Split, the Breakings, Caedros III's High Noon and Qarath produced further la
 - [[G-75 - The Empty Oar of the Winter Tithe|The Empty Oar of the Winter Tithe]]
 - [[World Historical Atlas MOC]]
 - [[Peoples in the World Historical Atlas]]
-

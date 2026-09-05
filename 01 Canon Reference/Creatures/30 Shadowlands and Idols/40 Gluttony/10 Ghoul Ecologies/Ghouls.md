@@ -142,15 +142,6 @@ Necromancers seek ghoul-fever and memory-bearing tissue. Criminals use corpse di
 
 Eclessian records use **ghoul** and **grave-eater**. Thalmyric villages use **name-chewer** for lineages stealing records. Jirahar speech distinguishes **corpse-hungry** from ordinary residue dead. These names describe overlapping ecologies rather than separate species.
 
-## Story Hooks
-
-- a warren steals registers rather than bodies because it is selecting descendants;
-- a living infection cluster must be treated while frightened neighbors demand executions;
-- a town accepted a corpse-tithe bargain and now calls collaboration necessity;
-- grave-runners retrieve books and maps for a city preparing a surface expedition;
-- three contradictory maps each become correct during a different Feast-shadow overlap;
-- restoring a burial route will expose the institution that secretly supplied it with bodies.
-
 ## Navigation
 
 - [[Bestiary MOC]]

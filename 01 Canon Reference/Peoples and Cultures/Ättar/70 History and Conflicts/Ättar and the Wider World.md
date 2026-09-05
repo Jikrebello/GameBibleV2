@@ -13,6 +13,8 @@ tags: []
 ---
 # Ättar and the Wider World
 
+Ättar seafaring carries the halls of the southern cold belt into contact with Folk neighbours, Thalmyric coasts, Sestaran cities and more distant markets. Trade, raiding, ransom, settlement and mercenary service frequently occur along the same routes. These encounters have produced mixed coastal peoples such as the Saltborn, enduring alliances against Grobi movements and a wide traffic in captives for which Ättar and foreign buyers share responsibility.
+
 ## Folk and Grobi
 
 The Folk are related neighbors, rivals, trading partners, spouses, and winter allies. Tidewood anchorage, timber, pasture, and old insults produce frequent conflict. Major Grobi movements force cooperation, especially between Grey-Wolf scouts and Gale-Crown or Tidewood warbands.

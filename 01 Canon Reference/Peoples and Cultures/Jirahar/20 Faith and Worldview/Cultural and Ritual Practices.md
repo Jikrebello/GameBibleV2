@@ -13,6 +13,8 @@ tags: []
 ---
 # Cultural and Ritual Practices
 
+Jirahar religious practice orders the ordinary passages of a household's life: waking and rest, food, marriage, birth, travel and burial. Its forms developed among communities that often lived on roads, aboard ships or in protected quarters under foreign rule. Prayer and study therefore accompany practical disciplines such as preparing food from uncertain markets, recording descent and carrying the dead towards recognised ground.
+
 ## Daily Time
 
 Households mark waking, the first meal, sunset, and sleep with short prayers and readings. Road and ship communities adjust communal hours to safe travel without pretending danger cancels obligation. Washing prepares for prayer when water is available; dust, cloth, or delayed washing have established road rulings.

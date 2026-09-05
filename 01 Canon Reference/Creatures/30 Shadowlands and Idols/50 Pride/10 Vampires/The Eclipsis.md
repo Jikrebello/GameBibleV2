@@ -62,12 +62,6 @@ Eclipsis mirror-silver can reveal imposed personas when properly cleansed. Masks
 
 Eclessian pamphlets say **veil-bloods**; Thalmyric confessors use **the borrowed faces**; Sestaran files call them **mirror kin**. Eclipsis is the creator-facing bloodline name.
 
-## Story Uses
-
-- The town remembers a dead noble as merciful although every account book records predation.
-- A vampire hides refugees from a purge but demands that one witness's identity be surrendered to maintain the veil.
-- Breaking a portrait-anchor will reveal a household and expose innocent dependents alongside their predator.
-
 ## Navigation
 
 - [[Bestiary MOC]]

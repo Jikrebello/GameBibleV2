@@ -37,10 +37,6 @@ Frontier churches keep ossuaries, return banners, and occupation testimony. Athe
 
 Veteran land, return claims, officer impunity, civilian exhaustion, mixed ancestry, warlock licensing, and pressure for a new crusade.
 
-## Story Uses
-
-Fortress trials, border patrols, disputed villages, military archaeology, prisoner exchange, veteran politics, and orders that must choose between lawful defense and holy vengeance.
-
 ## Navigation
 
 - [[Kalzaret, Bastion of the Returning Road]]

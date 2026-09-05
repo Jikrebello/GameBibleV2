@@ -39,10 +39,6 @@ Lighthouse chapels, drowned basilicas, saint shrines, Atherian quays, occupation
 
 Naval debt, Sestaran influence, contraband antiquities, migrant service privileges, Arkenan jurisdiction, and whether a Zanthir war would destroy the trade that funds it.
 
-## Story Uses
-
-Blockade-running, harbor archaeology, naval courts, drowned infrastructure, smuggling, shipyard espionage, and mixed crews whose loyalties cross imperial borders.
-
 ## Navigation
 
 - [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/60 Realms and Peoples/The Saltborn Coast Overview.md|The Saltborn Coast Overview]]

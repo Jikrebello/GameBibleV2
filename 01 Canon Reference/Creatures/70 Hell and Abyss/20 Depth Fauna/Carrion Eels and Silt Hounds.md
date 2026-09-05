@@ -52,14 +52,6 @@ Eel armor resists contaminated water. Hound scent nodules can track one coherent
 
 Names include carrion eel, black lamprey, grave eel, silt hound, mire dog, and blind pursuer.
 
-## Story Hooks
-
-- Silt Hounds track a vampire because its retained soul is more coherent than the residue around it.
-- Carrion Eels enter a flooded crypt through a thin space and begin consuming evidence.
-- A jailer breeds Hounds, then loses control when the office binding breaks.
-- Hunters mistake an animal pack for morally culpable demons and ignore the binder directing them.
-- A Hound scent nodule points toward a living person everyone believes died.
-
 ## Navigation
 
 - [[Hell and Abyss MOC]]

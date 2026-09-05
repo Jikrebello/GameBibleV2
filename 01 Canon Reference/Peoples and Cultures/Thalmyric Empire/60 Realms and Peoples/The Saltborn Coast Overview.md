@@ -52,14 +52,6 @@ Soligrad's waters carry formation-bells linked to the Thirty Sisters and drowned
 
 Saltborn crews are central to Kedrava's coast defence and serve throughout the imperial navy. Baptized Ättar oath-families and Saltborn households also supply the Ash Guard, binding themselves to the crowned emperor rather than inland court factions.
 
-## Story Uses
-
-- a western port divided between monastery privilege, naval levy, and old hall law;
-- a family accused of renewing the child-price after generations of baptism;
-- a Thirty Sisters bell heard by children who have never been to sea;
-- an Ättar raider claiming kin-right in a Saltborn inheritance;
-- [[The Celion Light — Full Adventure|a Naris lighthouse]] whose spiritual purpose cannot be separated from its practical one.
-
 ## Navigation
 
 - [[01 Canon Reference/Peoples and Cultures/Ättar/Ättar Overview.md|Ättar Overview]]

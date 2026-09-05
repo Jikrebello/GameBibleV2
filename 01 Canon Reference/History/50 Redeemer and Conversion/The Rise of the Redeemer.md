@@ -13,6 +13,8 @@ tags: []
 ---
 # The Rise of the Redeemer
 
+The Rise of the Redeemer follows Isfir from his upbringing in the Jirahar tower and caravan world to his ministry, entry into Caleran and execution at the Pillar of Concordance in 0 AR. His teaching drew workers, soldiers, women, debtors, scholars and foreigners while dividing established religious and imperial authorities. His resurrection supplies the historical and theological centre of the calendar.
+
 ## Early Life
 
 Isfir grows within the Jirahar world of tower courts, road households, pilgrimage, craft, and scriptural dispute. His family is respectable without being princely. Later genealogies exaggerate or suppress his connection to famous houses according to theology.

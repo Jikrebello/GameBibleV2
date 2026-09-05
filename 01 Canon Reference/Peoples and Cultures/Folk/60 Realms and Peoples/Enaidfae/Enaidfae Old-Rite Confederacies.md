@@ -24,7 +24,7 @@ Enaidfae communities are strongest in the Rootbound Heartwood, Gale-Crown Ranges
 
 Old source texts organize the world through land, sea, and sky and identify these pressures with Sylvorn, Thalassor, and Zephyraxis. Practicing seers rarely address those great powers directly. They negotiate with local courts whose masks and customs overlap those domains.
 
-The belief that Trium is one benevolent three-bodied god is a disputed theological synthesis. Authorial cosmology treats Trium as a dangerous convergence condition, not a patron who chose the Enaidfae.
+The belief that Trium is one benevolent three-bodied god is a disputed theological synthesis. Trium is a dangerous convergence of three sovereignties rather than a Patron who chose the Enaidfae.
 
 ## Confederacy Life
 

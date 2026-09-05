@@ -72,14 +72,6 @@ A dead drake often begins a conflict over custody before its body cools.
 - court-specific materials sorted within a midden;
 - local seers refusing to name a particular ridge, ford, cave, or grove.
 
-## Story Hooks
-
-- A settlement needs a drake killed, but its law suppresses a worse thin-space hazard.
-- A faction wants a living egg and attracts the attention of the court from which it came.
-- A carried law-gem slowly enforces its tendency upon a company or town.
-- A supposed dragon-slayer's trophy is a drake gem, while evidence of a true dragon appears where the drake formerly held the land.
-- An ancient drake has begun using language. Determining whether this is genuine elder sapience or an outside intelligence becomes morally urgent.
-
 ## Navigation
 
 - [[Bestiary MOC]]

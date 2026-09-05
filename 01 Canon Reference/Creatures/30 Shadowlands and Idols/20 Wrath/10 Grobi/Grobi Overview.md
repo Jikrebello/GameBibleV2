@@ -31,7 +31,7 @@ The five stage dossiers, rather than this overview, carry catalogue coverage: [[
 
 #### Origins of Transformation
 - **The First Rewriting:** The first Grobi bodies were made when [[Wrath]] rewrote a human population through hunger, violence, and accelerated adaptation. The victims' human souls separated from the altered bodies and routed toward judgement. The new biological pattern continued and reproduced.
-- **Modern Continuity:** Modern Grobi are born without routable human souls. They possess memory, intelligence, culture, suffering, and differing degrees of moral agency, but no Grobi arrives at [[The Vestibule of Weighing]] after death. [[The Image, Soul, and Creaturely Continuity]] controls this authorial ruling.
+- **Modern Continuity:** Modern Grobi are born without routable human souls. They possess memory, intelligence, culture, suffering, and differing degrees of moral agency, but no Grobi arrives at [[The Vestibule of Weighing]] after death. [[The Image, Soul, and Creaturely Continuity]] gives the full account of their creaturely continuity.
   
 - **Environmental Influence**: Living in areas suffused with The Fury's essence—battlefields, sites of massacres, or ancient cursed grounds—accelerated their transformation, adapting their bodies and minds to embody aspects of wrath.
 

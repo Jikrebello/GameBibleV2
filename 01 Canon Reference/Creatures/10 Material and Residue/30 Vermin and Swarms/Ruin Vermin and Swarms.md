@@ -61,14 +61,6 @@ All three families reproduce quickly after war, plague, flood, or a sealed chamb
 
 Names are occupational rather than cultural: bone-rats, ledger spiders, bell beetles, red crypt-rats, sail-cellar spiders, and plague clickers. The same common name may cover unrelated local species.
 
-## Story Hooks
-
-- rats emerge carrying cloth from a chamber absent from every plan;
-- a spider colony's broken web proves someone entered after the official sealing;
-- corpse beetles date a hidden death later than the court's testimony;
-- a bounty campaign poisons the district cistern;
-- vermin flee an apparently safe tunnel before a deeper danger arrives.
-
 ## Navigation
 
 - [[The Mundane Layer — Residue, Vermin, and the Delver Trade]]

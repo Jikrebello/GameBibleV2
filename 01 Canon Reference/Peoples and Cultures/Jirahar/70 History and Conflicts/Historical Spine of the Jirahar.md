@@ -13,6 +13,8 @@ tags: []
 ---
 # Historical Spine of the Jirahar
 
+The Jirahar are a dispersed Ark-derived people whose history connects the One Glass People, the Near-Glass fission, the tower cities of Qiryath and repeated eras of exile. Portable courts, sacred learning, trade and communal descent allowed Jirahar communities to endure the destructions of 742 BR and 70 AR and the Vestian persecutions of 377–395. Five great towers and numerous smaller communities remain active across the world in 1360.
+
 ## Exodus and Scattering
 
 The Great Prophet's movement becomes the center of the Great Unbinding and leads the principal liberated remnant into the Glass. Approximately a century of refuge forms one people. The Prophet dies at the outward threshold around c. 2165 BR; no human office inherits his universal commission.
@@ -30,6 +32,8 @@ In 742 BR the [[First Qiryath and the Arqeshite Exile|Arqeshite River Empire des
 ## Atherian Accommodation
 
 Atheria absorbs the eastern riverlands. Qiryath retains internal courts and sacrifice through negotiated privilege. Jirahar communities spread along imperial roads, ports, and administrative centers.
+
+The Age of Glory creates varied diaspora relationships with imperial towns and offices. [[The Keeper of Borrowed Grain|Neriah bar Sorek]] directs relief during the Raveth famine of 119–113 BR. His policy saves towns while transferring land and labour to the imperial estate. Later praise and anti-Jirahar accusation both distort responsibility shared with Empress Lethara and Atherian officials.
 
 ## Isfir and the Silence
 

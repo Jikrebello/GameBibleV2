@@ -27,10 +27,6 @@ Zenithra is the role of noon: exposure, shortened shadows, heat pressure, and th
 
 Solcarion is the role of solar overflow: auroral veils at wrong latitudes, washed-out shadows, metallic water, and heat that exceeds ordinary season. The role often appears when a bargain has asked Father Sun for abundance without naming an upper limit.
 
-## Use in Play
-
-A role can serve as omen, messenger, encounter phase, or court office. Defeating its bearer ends the local manifestation, not the role or Father Sun. Bargains follow the controlling solar dossier.
-
 ## Navigation
 
 - [[Father Sun]]

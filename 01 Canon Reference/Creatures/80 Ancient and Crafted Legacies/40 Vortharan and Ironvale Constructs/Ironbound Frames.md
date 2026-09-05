@@ -36,7 +36,6 @@ No pure Ironbound is a person. Learning, speech, self-protection, and expressive
 - **Tactics and failure:** they brace, carry, clear, and defend the work object with improvised force. A corrupted noun can make a frame treat workers as cargo or debris.
 - **Permanent defeat and materials:** invoke shutdown, remove its task cylinder, and drain any Shell cell. Salvage includes standard joints, load sensors, and repairable chassis.
 - **Regional names:** *iron hands*, *yardmen*, *load saints* in worker slang.
-- **Story uses:** rescue people misclassified during a mine collapse; protect laborers while reprogramming a dangerous frame; trace stolen guild cylinders through the jobs they repeat.
 
 ## Ward Frames
 
@@ -44,7 +43,6 @@ No pure Ironbound is a person. Learning, speech, self-protection, and expressive
 - **Tactics and failure:** they hold choke points, mark targets, interlock shields, and summon neighboring frames. Lost revocation lists can leave a dead tyrant's enemies forbidden for generations.
 - **Permanent defeat and materials:** supply valid authority, sever the boundary circuit, or destroy command and copy plates. Salvage includes recognition lenses, ward nails, and hardened shells.
 - **Regional names:** *gate irons*, *black sentries*, *standing writs*.
-- **Story uses:** prove a neighborhood's right to pass its own guard; infiltrate a vault by reconstructing a lost shift change; stop a faction installing military recognition in civic wards.
 
 ## War Frames
 
@@ -52,7 +50,6 @@ No pure Ironbound is a person. Learning, speech, self-protection, and expressive
 - **Tactics and failure:** they coordinate lanes, absorb fire, breach structures, and pursue objective geometry without fear. Damaged identification can turn retreat routes into hostile corridors.
 - **Permanent defeat and materials:** isolate command signal, exhaust charge, break mobility, then destroy the strategic instruction core. Salvage includes armor ceramic, targeting lenses, and controlled charge cells.
 - **Regional names:** *iron soldiers*, *wall breakers*, *foundry cohorts*.
-- **Story uses:** halt an arsenal printing frames from an obsolete war order; capture one intact to defend civilians; expose commanders concealing a friendly-fire classification defect.
 
 ## Use and Responsibility
 

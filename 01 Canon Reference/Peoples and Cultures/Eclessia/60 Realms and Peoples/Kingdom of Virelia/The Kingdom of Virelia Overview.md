@@ -48,10 +48,6 @@ Winged lancers provide noble shock cavalry; estate levies and hired riders susta
 - The eastern candidate at every election revives the possibility of alignment with Veridun.
 - Freeflame preaching spreads fastest among the Unwritten, where territorial confession has little meaning.
 
-## Story Uses
-
-Election intrigue, runaway recovery, forged lineage, river piracy, confessional cavalry companies, estate revolt, and the Virelian Lamp in Veridun.
-
 ## Navigation
 
 - [[Politics, Warfare, and Religious Influence in Virelia]]

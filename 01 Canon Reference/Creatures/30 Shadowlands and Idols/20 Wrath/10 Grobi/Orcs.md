@@ -62,13 +62,6 @@ Third-stage glands, dense bone, and layered scar tissue are sought by military a
 
 Folk chronicles call them **war-Grobi**; Ättar hunters use **third-stage** or **host-breaker**; Eclessian frontier rolls commonly retain **orc**.
 
-## Story Uses
-
-- A hobgoblin strategist is about to become an orc and reorder every alliance in the host.
-- A born-stage champion resents the grown war-chief whose authority came from skill.
-- Frontier commanders must decide whether to strike the herd, the ration train, or the challenge gathering.
-- An orc offers useful intelligence against an ogre claimant while planning to inherit its stores.
-
 ## Navigation
 
 - [[Bestiary MOC]]

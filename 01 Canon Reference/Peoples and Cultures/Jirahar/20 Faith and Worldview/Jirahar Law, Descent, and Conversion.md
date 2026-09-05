@@ -13,6 +13,8 @@ tags: []
 ---
 # Jirahar Law, Descent, and Conversion
 
+Jirahar communal law defines how a person enters the covenant by birth or conversion and how that membership affects marriage, inheritance, worship and public responsibility. Maternal descent provides the ordinary rule, while adoption, disputed parentage and sincere conversion are governed by developed legal traditions. These laws have helped dispersed communities preserve a common life, although old families have repeatedly used lineage and records to resist the equality formally granted to converts.
+
 ## Birth
 
 A child born to a Jirahar mother belongs to the covenant and must be entered in a maternal register. A child of a Jirahar father and an outsider mother requires formal reception, normally with the mother's consent and instruction. Abandonment, rape, missing records, adoption, and disputed maternity have extensive case law rather than one automatic answer.

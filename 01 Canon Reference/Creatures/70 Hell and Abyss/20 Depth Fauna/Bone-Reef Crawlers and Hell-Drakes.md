@@ -24,7 +24,7 @@ related_magic: [black mud, thin spaces]
 ---
 # Bone-Reef Crawlers and Hell-Drakes
 
-These are larger native animals of Hell's mapped ecology. Neither is related to Menhir drakes or true dragons.
+Bone-Reef Crawlers and Hell-Drakes are large animals native to the mapped mires, bone banks and flooded caverns of Hell. Crawlers are armoured scavengers that build reefs from discarded remains; Hell-Drakes are solitary, eel-bodied predators adapted to hunt through black mud. Both reproduce as animals and die bodily, and neither belongs to the Menhir drakes or the true Dragons.
 
 ## Bone-Reef Crawlers
 
@@ -51,14 +51,6 @@ Hell-Drake is the common creator name for long-bodied Depth predators with vesti
 Crawler shell carries contamination but makes excellent layered armor after cleansing. Hell-Drake jaw plates and sensory pits are prized by trackers and black-mud alchemists.
 
 Names include bone reef, ossuary crab, midden crawler, mire-wing, pit wyrm, carrion coil, and Hell-Drake.
-
-## Story Hooks
-
-- A treasure mound is a brooding Crawler colony whose attached bones include vital evidence.
-- A captured Hell-Drake escapes when the devil office controlling it is broken.
-- Miners breach a warm egg bank beneath a leftward shrine.
-- A cult presents a Hell-Drake as proof that a sealed true dragon has returned.
-- Cleansing Crawler shell reveals that some bones came from a recent Material massacre.
 
 ## Navigation
 

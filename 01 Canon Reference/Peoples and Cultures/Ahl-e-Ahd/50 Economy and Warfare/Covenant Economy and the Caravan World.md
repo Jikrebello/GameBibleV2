@@ -13,7 +13,7 @@ tags: []
 ---
 # Covenant Economy and the Caravan World
 
-The Covenant economy joins river grain, oasis cultivation, herding, maritime trade, workshops, pilgrimage, military estates, and caravan roads.
+The Covenant economy joins river grain, oasis cultivation, herding, maritime trade, workshops, pilgrimage, military estates and caravan roads. Its regions supply one another across long distances: the northern frontier provides animals and overland transport, the sacred basin provides food and estate revenue, and the cities provide finance, arms and manufactured goods. Control of wells, canals, fodder and guarded routes therefore matters as much as possession of coin or legal authority.
 
 ## Regional Roles
 

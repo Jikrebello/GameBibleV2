@@ -15,6 +15,8 @@ tags: []
 ---
 # Knightly Orders & Power Struggles
 
+Caldria's four chartered knightly orders grew from different frontiers, campaigns and forms of service. Their fortresses and estates give them enduring influence over ducal warfare, while their disagreements divide the military aristocracy by confession, profession and regional interest. Grand Duke Alric IV has attempted to bring them under a common command at a time when artillery, warlock corps and the Korrheim Accord are changing the purposes for which such orders were founded.
+
 ## Chartered Orders
 
 **Order of the Silver Cross** holds old Third Crusade fortresses and considers itself the duchy's doctrinal shield. It resists secular inspection of its relic armories.
@@ -46,4 +48,3 @@ Alric IV wants a unified ducal command, licensed warlock corps, and artillery in
 - [[The Duchy of Caldria Overview]]
 - [[01 Canon Reference/Peoples and Cultures/Eclessia/50 Economy and Warfare/Eclessian Military Orders.md|Eclessian Military Orders]]
 - [[01 Canon Reference/Peoples and Cultures/Eclessia/50 Economy and Warfare/Military and Warfare Overview.md|Military and Warfare Overview]]
-

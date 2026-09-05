@@ -24,7 +24,7 @@ related_magic: [black mud, soul routing]
 ---
 # Mire Larvae and Vow-Leeches
 
-These are living Depth animals. They possess no human souls, do not embody damned persons, and do not participate in an infernal moral hierarchy.
+Mire Larvae and Vow-Leeches are living animals of the Depth, found in black-mud shallows, corpse banks and places where repeated oaths have placed bodies under strain. Larvae consume carrion and unstable residue; Vow-Leeches feed upon the residue of sustained intention. Neither contains a human soul or embodies a damned person, and both can be destroyed by ordinary bodily means.
 
 ## Mire Larvae
 
@@ -51,14 +51,6 @@ Vow-Leeches are flat dark parasites attracted to the repeated bodily and metaphy
 Larval fat stabilizes some black-mud samples at severe contamination risk. Dried Vow-Leeches can reveal which clause or promise fed them, but contract magicians also use them to sabotage resolve.
 
 Names include mire grub, bog maggot, refusal fly, vow-leech, promise sucker, and oath worm.
-
-## Story Hooks
-
-- Soldiers appear cowardly because Vow-Leeches infest the room where they renew service.
-- Mire Larvae consume a corpse before investigators can distinguish murder from manifestation.
-- A healer removes the parasites but refuses to conceal the coerced oath that attracted them.
-- Smugglers cultivate Vow-Leeches to weaken prison guards during one repeated duty.
-- A false exorcist claims every larva contains a damned child.
 
 ## Navigation
 

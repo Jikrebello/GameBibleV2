@@ -65,14 +65,6 @@ Masks retain one borrowed mannerism. Revel strings can hold a rhythm without a m
 
 Regional names include horned host, ribbon court, last dancers, satyrs, midsummer company, and the guests after midnight.
 
-## Story Hooks
-
-- A wedding cannot end because one murdered guest has been omitted from every toast.
-- A Revel Host offers exhausted soldiers one perfect night and intends to keep them until spring.
-- A town's annual feast repeats the same scandal because its closing bell was stolen.
-- A Host asks the party to stop human revelers whose cruelty is contaminating its law.
-- An invitation names a dead companion in their own handwriting.
-
 ## Navigation
 
 - [[Faewild and Menhir MOC]]

@@ -35,14 +35,6 @@ Their strength is endurance, communal discipline, and integration with frontier 
 
 The two traditions can recognize courage, valid baptism, and sincere service in one another while disputing authority and doctrine. Joint action is easiest against an obvious supernatural evil and hardest where land, relic, or jurisdiction is at stake. A western knight may consider a Thalmyric command too entangled with bishops and empire; a Thalmyric veteran may consider a western order too dependent on charters issued by divided princes.
 
-## Story Uses
-
-- a joint escort whose two commanders disagree over which authority can alter the route;
-- a miracle attributed to a soldier whom neither hierarchy wants to claim;
-- an atrocity concealed behind the assumption that holy insignia proves innocence;
-- a relic recovered by one confession from land claimed by the other;
-- two sincere warriors discovering that their superiors need the dispute more than they do.
-
 ## Navigation
 
 - [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/Thalmyric Empire Overview.md|Thalmyric Empire Overview]]

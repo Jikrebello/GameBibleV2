@@ -64,14 +64,6 @@ Hound teeth keep scent; Rider masks hold one quarry-sign; hunt horns can open a 
 
 High Hunt, wild hunt, winter riders, antler host, sky chase, moon hounds, ash curs, and the riders behind weather.
 
-## Story Hooks
-
-- A Hunt names a genuine murderer who is hiding among innocent refugees.
-- A false quarry-sign turns a seasonal Hunt into an assassination weapon.
-- One Rider refuses an unlawful substitution and asks mortals to prove the declaration corrupt.
-- A slain Hound's tooth continues pointing toward someone the party believed innocent.
-- A town can close its gates to the Hunt only by surrendering an ancient right of refuge.
-
 ## Navigation
 
 - [[Faewild and Menhir MOC]]
