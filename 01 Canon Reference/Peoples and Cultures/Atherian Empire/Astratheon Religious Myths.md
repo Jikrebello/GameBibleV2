@@ -3,166 +3,111 @@ type: culture
 status: canon
 canon_level: local
 visibility: public
-era: []
-region: ["Atherian Heartland"]
+era: ["Atherian Civilisation"]
+region: ["Atherian Heartland", "Atherian Empire"]
 culture: ["Atherian"]
-related_factions: []
+related_factions: ["Star Priesthoods"]
 appears_in: []
 needs: []
+aliases: ["Tales of the Star Children", "Astratheon Myths"]
 tags: []
 ---
-# Reliability Note
+# Astratheon Religious Myths
 
-These Atherian sacred stories preserve cultural memory rather than a literal history of the powers they describe. The myths of Thanatos accepting bargains, lending souls, cursing rivals or belonging to the Star Children are imperial traditions concerning [[The Boatman]], whose actual commission permits none of those acts.
+Astratheon myths gave human motives and family relationships to the powers gathered beneath the Common Sky. They were performed at festivals, quoted in schools and adapted by cities whose local cults disagreed about the same Star Child. The collection below preserves ten widely circulated stories from the late republican and imperial periods.
 
-### **1. The Rivalry of Astaroth and Orionis: The Hunt for the Blood Moon Stag**
-One of the most famous tales in the Astratheon canon is the bitter rivalry between **Astaroth**, god of war and chaos, and **Orionis**, the god of the hunt and wilderness. Their enmity culminated in the fabled **Hunt for the Blood Moon Stag**, a creature of immense power that could only be hunted during a rare celestial alignment, when **Lunara** bathed the earth in her blood-red moonlight.
+The tales describe Astaroth, Lyraxis, Hecatara, Orionis, Typhonius and Arachnara according to Atherian religion. Their kinships and divine titles belong to that tradition. Thanatos is the clearest error: the stories concern [[The Boatman]], whose true commission permits no bargaining over souls. Some events may preserve encounters with Menhir courts or Idol Masks, while others are civic fiction. Similar imagery provides no proof that every telling records the same manifestation.
 
-As the story goes, the Blood Moon Stag was a sacred beast created by **Typhonius** and guarded by **Arachnara**, destined to bring ruin to any who tried to capture it. When the red moon rose, Astaroth and Orionis both set out to claim the Stag for themselves.
+## The Hunt for the Blood-Moon Stag
 
-- **Astaroth** saw the hunt as a chance to prove his dominance and spread chaos across the lands. He relished the opportunity to incite fear and conflict among the hunters and the beasts of the wilderness, sending waves of terror through the mortal realm with the flicker of his red star in the sky.
-- **Orionis**, on the other hand, sought the Stag as the ultimate challenge, an emblem of his mastery over all things wild and untamed. For Orionis, this hunt was not about spreading chaos but asserting his dominance over nature itself.
+When Lunara coloured the moon red, a stag of immense size left Arachnara's covered forest. Typhonius had shaped it, and old law promised disaster to anyone who claimed its hide. Astaroth entered the hunt to display his mastery over fear. Orionis pursued the animal as the greatest quarry ever placed beneath the sky.
 
-The two gods pursued the Stag relentlessly, causing great destruction in their wake. Mortals who dared to follow the hunt were caught in the crossfire as forests burned and rivers boiled from the gods' power. Orionis, with his unmatched tracking abilities, found the Stag first, but just as he drew his bow, Astaroth descended upon him like a storm, challenging him to a duel for the prize.
+Their followers burned woodland, boiled a river crossing and killed hunters who refused to yield the trail. Orionis reached the stag first. Before his arrow flew, Astaroth descended like a storm and challenged him. Their fighting tore a dark opening across the sky. Arachnara drew the stag through that opening, leaving both hunters with an empty field and a country damaged by their contest.
 
-The battle between the gods was so fierce that the sky itself was torn open, and the stars trembled. Ultimately, neither god claimed the Stag, as it vanished into the shadows of **Arachnara’s webs**, never to be seen again. The conflict, however, left a lasting scar on the land, and to this day, the Blood Moon Stag is said to roam the hidden places of the world, forever pursued but never caught.
+Military performances made Astaroth the more terrible figure; hunting fraternities praised Orionis for finding the quarry. Rural tellers remembered the lost forest and asked why either power deserved the animal. The tale gave the Blood-Moon Hunt its procession of antlers and broken swords. Certain hidden places still claim that the stag passes through them during a red moon, pursued by riders who cannot agree what victory would mean.
 
----
+## Lyraxis and the Eternal Echo
 
-### **2. Lyraxis and the Trick of the Eternal Echo**
-In the time before mortals had music and song, the world was a quiet and solemn place, filled only with the sounds of nature. **Lyraxis**, the god of music, trickery, and inspiration, found this silence unbearable. Always seeking to stir up mischief and creativity, Lyraxis descended to the mortal world in disguise as a humble bard, carrying their enchanted harp made of starlight.
+Eldara's king prohibited public music because songs carried mockery farther than proclamations. Lyraxis entered the city as a poor bard and offered a composition that would preserve the king's name for ever. The promise pleased him, and he allowed one performance before the assembled court.
 
-In the city of **Eldara**, ruled by a tyrant king who banned all forms of entertainment, Lyraxis took it upon themselves to free the people from the oppressive silence. Knowing the king was deaf to beauty and immune to charm, Lyraxis devised a plan. They approached the king’s court and offered to perform a new song, promising that it would bring eternal glory to his name.
+At the final note, every wall repeated the king's name. He heard it in fountains, market cries and the closing of doors. His attempts to silence the city made the echo louder. Guards smashed instruments, cut out the tongues of two satirists and arrested children for singing while they worked. The population rose when the king ordered the market bells melted. He died in the palace stair, still hearing his name from the crowd outside.
 
-Intrigued, the king allowed the bard to play. As Lyraxis strummed the harp, a melody so enchanting filled the court that even the tyrant king was moved. But as the final note was struck, Lyraxis cast a spell upon the king, turning his own name into an eternal echo that could never be silenced.
+Musicians remember the story as the liberation of song. Political writers point to the dead satirists and the bard's pleasure in a punishment whose effects he did not control. Performers still dedicate their first note to Lyraxis, while cautious guilds add a second dedication to those who must live with an artist's cleverness.
 
-As the days passed, the king could hear nothing but his own name echoing through his mind, driving him to madness. In desperation, he tried to silence all noise in the city, but the more he tried, the louder the echo grew. Eventually, the people of Eldara, liberated by the chaos caused by the king’s madness, overthrew him and filled the city with music and song.
+## Hecatara at the Shadowed Crossing
 
-Lyraxis, laughing at the chaos they had caused, left the city and returned to the stars, leaving behind the gift of music for mortals to enjoy. To this day, musicians and tricksters invoke Lyraxis before performing, hoping to capture even a fraction of the god’s brilliance and charm.
+Thanatos once entrusted Hecatara with a crossing used by the newly dead. She guarded its three approaches and learned the names carried through each gate. Knowledge awakened desire. She attempted to seize the passage and determine which souls could continue.
 
----
+Thanatos discovered the attempt and confined her to the crossroads. She could influence people approaching a decisive choice while remaining barred from the country of the dead. Travellers thereafter brought torches and keys, asking for a clear road and fearing that her answer might serve an older grievance.
 
-### **3. The Betrayal of Hecatara and the Curse of the Crossroads**
-One of the darker tales in the Astratheon religion involves **Hecatara**, the goddess of magic and crossroads, and her infamous betrayal of **Thanatos**, the god of death and passage. The two deities were once close allies, working together to guide the souls of the dead to their final destinations. However, their relationship soured when Hecatara, seeking greater power over fate and magic, betrayed Thanatos in an effort to control the underworld for herself.
+This myth supported Hecataran shrines at road junctions and Thanatos priesthoods that claimed authority over burial. Its central bargain is theologically false: the Boatman never transferred custody of the dead. The story nevertheless captures an Atherian fear that a trusted guide might turn necessary knowledge into ownership. Funeral teachers used it to warn families against practitioners who promised to redirect a soul.
 
-The story tells of how **Thanatos** once entrusted Hecatara with the power to guard a secret passage to the underworld, a place known as the **Shadowed Crossing**, where souls waited to have their fates decided. Hecatara, however, was not content with mere guardianship. She wished to control the passage of souls and wield the power of life and death.
+## Zharok and the Sorrow of Arachnara
 
-In a fateful moment, Hecatara stood at the crossroads between life and death and cast a spell to seize the power of the underworld. But **Thanatos**, ever watchful, saw through her treachery. In his quiet, merciless way, he cursed the crossroads where Hecatara made her move, binding her to it forever.
+Typhonius tired of joining familiar bodies and resolved to create a beast without precedent. Arachnara warned that no web could contain a creature made only to exceed its maker's control. He continued, drawing famine, storm, venom and the strength of buried animals into one living form.
 
-From that day forward, Hecatara was forced to remain at the crossroads, unable to enter the underworld or fully return to the realm of the living. She could only influence the fates of those who stood at the intersection of life-changing choices. Mortals who seek her guidance must visit her at the crossroads, offering torches and keys, hoping that she will grant them wisdom rather than deceive them.
+Zharok emerged hungry and crossed the surrounding country, consuming farms, herds and several of Typhonius's own servants. Arachnara spread a web across the sky while Orionis drove the beast towards it, Hecatara closed the branching roads and Astaroth struck its limbs. They bound Zharok above the world, where its movement was said to cause destructive conjunctions.
 
-This story is often told as a warning to those who seek power through treachery. Hecatara’s curse serves as a reminder that fate cannot be manipulated without consequence, and even the most powerful gods are subject to the laws of the cosmos.
+Temple drama treated the binding as a rare cooperation among the Star Children. Breeding houses used the tale to honour restraint after earlier experiments had maimed workers and animals. Some provincial versions deny that Arachnara felt sorrow; she preserves the monster because its continuing terror strengthens her worship. No known creature has been established as the literal Zharok.
 
----
+## The Dance of Life and Death
 
-### **4. The Birth of Monsters: Typhonius and the Sorrow of Arachnara**
-In the early days of creation, **Typhonius**, god of monsters and catastrophes, roamed the wilderness, creating fearsome creatures to test the resilience of mortals and gods alike. **Arachnara**, his sister and mate, delighted in these creations, using her webs to spread fear and disease through the mortal world.
+Lyraxis complained that the road of the dead possessed no music. They offered Thanatos a song for every passenger in exchange for the return of a few souls whose unfinished art might amuse the living. Thanatos accepted, and each dead person thereafter carried a melody shaped by the life just ended.
 
-However, one day, Typhonius grew bored of merely creating monstrous hybrids from existing creatures. He wanted to craft something new, something that had never been seen before—a monster of such power and terror that even the gods would tremble. He began to experiment with combining the darkest aspects of nature, infusing his creation with the destructive power of the elements.
+The agreement soon produced grief. Returned singers remembered too little of their families, and living admirers treated their broken words as revelation. In several versions, Thanatos ends the bargain after one borrowed child fails to recognise her mother. Lyraxis keeps the songs and claims that memory, rather than the person, was always the intended gift.
 
-As Typhonius toiled in his lair, Arachnara grew anxious. She warned him that this creation would be too powerful, that it would upset the balance of the world and bring ruin to all. But Typhonius, blinded by his ambition, ignored her.
+Funeral musicians used the tale to explain the personal laments composed for the dead. Mystery cults cited it when selling brief contact with admired ancestors. The actual Boatman lends no human soul to a god of inspiration. A surviving song may carry memory, love or residue without becoming the person it recalls.
 
-When the creature—**Zharok**, the first of the world-ending beasts—was finally born, it unleashed a wave of destruction so great that even Typhonius could not control it. Zharok consumed everything in its path, leaving a trail of devastation across the land. In her sorrow and fear, Arachnara wept, her tears forming webs that spread across the sky, catching the stars.
+## Thanatos and the Prince of Thieves
 
-Realizing his folly, Typhonius sought the help of his siblings to stop the beast. Together with **Orionis**, **Astaroth**, and **Hecatara**, he finally managed to trap Zharok within one of Arachnara’s celestial webs. The creature was sealed away, but the damage was done.
+Silas, prince of Aurelion and the most celebrated thief of his age, feared the death that wealth could not bribe. He reached the River of Shadows and offered Thanatos a beautiful woman from his court as a bride. In return, he demanded passage into eternal life.
 
-Arachnara, heartbroken by her mate’s arrogance, retreated into the shadows, vowing never to interfere in Typhonius’s creations again. Typhonius, for his part, continued to create monsters, but none would ever match the destructive power of Zharok. The tale of Zharok’s birth and Arachnara’s sorrow is often told to remind mortals and gods alike of the dangers of unchecked ambition.
+The Boatman of the tale accepted on the condition that the woman come freely. Silas selected a dependant whose family owed him protection and expected obedience. She refused before the appointed witnesses. Silas struck her and attempted to force her into the boat, breaking the terms he had proposed.
 
----
+Thanatos condemned him to wander the margins of life and death while Astaroth's raven exposed every hiding place. The woman disappears from court versions after her refusal; several household recensions give her a name, an inheritance and a later life among the ferrymen. The tale was quoted against coerced marriage even though its picture of a bargaining Boatman was false.
 
-### **5. The Pact Between Thanatos and Lyraxis: The Dance of Life and Death**
-In a rare tale of cooperation between two Star Children, **Thanatos** and **Lyraxis** once struck a deal that would forever bind the concepts of life and death in an eternal dance.
+## The Contest at Silanthium
 
-The story begins with Lyraxis, who, in one of their mischievous moods, decided that death was too final and dreary. They wanted to introduce more chaos and unpredictability into the mortal world, blurring the line between life and death. So, Lyraxis approached **Thanatos** with an offer: in exchange for a bit of leeway with the souls of the dead, Lyraxis would offer Thanatos a gift that no one else could—**music to guide the souls on their journey**.
+Silanthium held a festival for Lyraxis in which musicians and makers competed through the night. Hecatara appeared at the edge of the crowd and challenged the Muse to reveal whether inspiration or choice governed creation. She opened a crossroads beneath the festival while Lyraxis played faster.
 
-Intrigued, Thanatos agreed to the pact. From that moment on, every soul that passed into the underworld would be accompanied by a song, a melody that represented their life. Some songs
-were mournful and slow, while others were wild and chaotic. This music, crafted by Lyraxis, would serve as a reminder that life and death were not opposites but part of the same dance.
+Every participant saw two possible works: one disciplined and difficult, the other immediate and intoxicating. Some produced masterpieces. Others destroyed earlier work, attacked rivals or followed imagined roads out of the city. The contest ended at dawn with missing citizens, several deaths and art whose technique could never be reproduced.
 
-In return, Thanatos allowed Lyraxis to “borrow” a few souls from time to time, bringing them back into the world for brief moments of inspiration, mischief, or chaos. These souls, though dead, would return with Lyraxis’s touch, often creating unpredictable changes in the mortal world.
+Artists remembered a night of impossible achievement; bereaved households called it the Mad Festival. Later civic performances gave the two powers equal honours and read the names of those who failed to return. The story made creative brilliance costly without declaring madness sacred.
 
-The **Dance of Life and Death** became a symbol of the delicate balance between the two forces. Mortals who seek the favor of both gods often pray to them in tandem, invoking the music of life to ease their passage into death and hoping that Lyraxis will grant them one final chance to create something before the end.
+## Astaroth and the Faithful General
 
----
-### 6. The Bargain of Thanatos and the Prince of Thieves**
+Marius won repeated victories after dedicating weapons and captives to Astaroth. Success persuaded him that military skill had made sacrifice unnecessary. When the red star appeared above his camp, he dismissed the omen and marched.
 
-In the city of **Aurelion**, there lived a prince renowned for his cunning and charm, known simply as **Silas the Shadow**. Silas was not only a prince by birth but also the greatest thief in the land. He believed that no treasure was beyond his reach and no boundary could contain him. However, Silas feared death more than anything, for despite his wealth and skill, he knew he could not escape his mortal fate.
+Fear and contradictory orders broke his formation. A broken sword appeared in his hand, and in a rage he killed soldiers trying to rally around him. The enemy completed the defeat. Astaroth came as a raven and condemned Marius to carry strife wherever he sought shelter.
 
-One night, as Silas stared into the dark sky, he saw the **Constellation of Thanatos** shining brightly. Desperate to cheat death, he devised a plan to confront the **Psychopomp of Souls** and bargain for his life.
+Imperial commanders used the story to demand proper observance before battle. Critics told it differently: Astaroth accepted years of worship, then destroyed faithful soldiers because one general withheld tribute. The myth's lasting force lies in Marius killing his own men. Later service and ritual purification never return them to their families.
 
-Silas ventured into the wilderness, following ancient rites to call upon **Thanatos**. After days of wandering, he found himself at the **River of Shadows**, the boundary between life and death. There, **Thanatos** appeared, cloaked in darkness, steering a ghostly boat across the river.
+## Arachnara and the Lost Weavers of Verethis
 
-Silas knelt and made his offer: a bride, the most beautiful woman in the kingdom, in exchange for Thanatos ensuring that Silas would be taken not to the underworld, but to the realm of eternal life. Intrigued, **Thanatos** agreed—but warned that the price of deceit was eternal wandering if the bride was not given willingly.
+Verethis was famous for tapestries whose patterns concealed signs of Arachnara. When a rival city hired mercenaries to burn it, the weavers begged their patron for concealment. Spiders covered roads and walls until the attackers saw only an empty forest.
 
-True to his nature, Silas tried to trick **Thanatos**, offering a woman from his court who he thought was easily manipulated. Yet, when the appointed day came, the woman refused, seeing through Silas’ deception. Enraged by the broken pact, **Thanatos** cursed Silas. The thief was bound to wander the edges of the living and the dead, never to rest, as the **Raven of Astaroth** circled him eternally.
+The city survived the raid and vanished from ordinary geography. Its inhabitants continued weaving within Arachnara's shadow, unable to leave without giving another person their place in the pattern. Visitors who found the city returned with exquisite cloth, gaps in memory and the sense that someone else had followed them home.
 
-**Moral**: The myth serves as a warning that while **Thanatos** may be swayed by offerings, deception can lead to eternal punishment. It also solidifies Thanatos' role as a fair but unyielding guide of souls.
+Weavers invoked the tale when hiding craft knowledge from conquerors. Families of missing apprentices heard a darker warning about protection that becomes possession. Several ruins claim to be Verethis, and no evidence securely identifies the city or proves that it remains inhabited.
 
----
+## Orionis and the Starving Village
 
-### **7. The Dance of Lyraxis and Hecatara**
+A hunting village traditionally gave Orionis the first animal of the winter chase. During a famine, its people kept the whole kill. A vast stag appeared soon afterwards, and the remaining hunters followed it in hope of meat.
 
-Once, there was a great festival held in the city of **Silanthium**, where artists and musicians gathered to honor **Lyraxis**, the god of music and trickery. It was said that if the music played during this festival pleased Lyraxis, he would descend from the stars and join the revelry.
+The animal drew them beyond familiar ground. Ravines, cold and hidden traps killed the company one by one. The last hunter reached the stag and saw Orionis wearing its shape. The power transformed him into quarry and condemned the pursuit to continue across the winter sky. With most hunters dead, the village failed before spring.
 
-The festival was a chaotic and beautiful affair, with laughter, music, and art filling the streets. As the night wore on, the constellations shifted, and the **Blue Star of Lyraxis** began to pulse in the sky. True to legend, Lyraxis descended, his ethereal form weaving through the crowd. He brought with him an instrument made of starlight, and his music enchanted everyone present.
+Temple tellers described punishment for stolen tribute. Many rural versions accuse Orionis of demanding food from starving children and call the stag a predator's deceit. The first portion of some communal hunts is still set aside for strangers, widows and households that lost providers. The custom turns an old divine claim into provision for the people endangered by it.
 
-However, the festival’s joy attracted the attention of **Hecatara**, goddess of magic and crossroads. Drawn to the celebration’s energy, she appeared as a figure cloaked in shadow, her three faces watching from the edge of the crowd. Hecatara, intrigued by the chaotic magic Lyraxis conjured through his music, challenged him to a contest.
+## Place in Atherian Culture
 
-She conjured a crossroads beneath the festival, where mortals would be forced to choose between paths of creation and destruction. With her key, she unlocked the hidden potential within the festivalgoers, but for every burst of inspiration, there came a wave of madness. Lyraxis, delighted by the challenge, played faster, heightening the chaos as the mortals danced upon the edge of creativity and ruin.
+These myths supplied familiar characters rather than a fixed creed. Comedy could mock Lyraxis while a guild sought inspiration from the same power. A general could dedicate victory to Astaroth and hear Marius's story quoted against him. Rural and household versions frequently preserved the victims whom court performances reduced to scenery.
 
-For hours, they dueled, weaving magic and music together until the lines between reality and illusion blurred. Some mortals were driven to brilliance, creating art so beautiful it was said to rival the gods; others were driven mad, lost in the labyrinth of their own minds.
-
-In the end, neither won. Lyraxis and Hecatara, pleased with the destruction and creation they had wrought together, left the festival in the same whirlwind they arrived, leaving mortals to piece together what was real and what was illusion.
-
-**Moral**: This myth highlights the dangerous allure of both **Lyraxis’** creativity and **Hecatara’s** dark magic. Mortals who seek their favor must tread carefully, for their gifts can bring both brilliance and madness.
-
----
-
-### **8. Astaroth's Vengeance on the Faithful General**
-
-In the early days of the **Atherian Empire**, there was a general named **Marius**, a devout man who followed the will of the gods with unwavering faith. He had won many battles, always ensuring that proper sacrifices were made to **Astaroth**, the god of war and strife. In time, Marius grew arrogant, believing that he had mastered war itself and that he no longer needed to offer sacrifices to the capricious god.
-
-When **Astaroth** saw that Marius had ceased his offerings, he grew enraged. That night, the **Flickering Red Star** appeared in the sky, and a raven flew into Marius’ camp, cawing ominously. His soldiers grew fearful, but Marius dismissed the omen, confident in his strategy.
-
-The next day, as Marius led his troops into battle, everything went wrong. His soldiers were struck with terror and confusion, their formations crumbling as if guided by an unseen hand. The enemy, bolstered by the chaos, overwhelmed Marius’ forces. As Marius tried to rally his men, the **Broken Sword of Astaroth** appeared in his hand, unbidden. In a fit of madness, he turned the blade on his own soldiers, slaughtering them in a berserk rage.
-
-The battle ended in complete ruin. Marius, now broken and disgraced, wandered the battlefield, alone. **Astaroth** appeared to him in the form of a raven, cawing mockingly. As punishment for his arrogance, **Astaroth** cursed Marius to wander the earth, a doomed warrior fated to incite strife and conflict wherever he went.
-
-**Moral**: The myth emphasizes the necessity of respecting the gods, especially the fickle and destructive **Astaroth**. Mortals who grow arrogant or dismiss the gods’ power are doomed to suffer.
-
----
-
-### **9. The Weaving of Arachnara and the Lost City**
-
-In the cold northern forests, a city named **Verethis** once stood, prosperous and renowned for its beautiful tapestries. The people of Verethis were known for their skill in weaving, but they were also secret worshipers of **Arachnara**, the goddess of shadows and vermin. To honor their dark mistress, they wove intricate webs into their tapestries, embedding hidden symbols of the **Spider Goddess**.
-
-One day, a rival city sought to destroy Verethis out of jealousy, hiring mercenaries to raid the city and burn it to the ground. As the soldiers approached, the weavers of Verethis pleaded to **Arachnara** for protection. In answer, she sent forth a great swarm of spiders that wove webs around the city, hiding it from view.
-
-When the raiders arrived, they found nothing but an empty, desolate forest. They searched for days, but the city was gone, swallowed by **Arachnara’s** magic. The people of Verethis had been spared—but at a cost. The goddess had woven them into her web, binding their fate to her own.
-
-Now, the city of **Verethis** exists in shadow, hidden from the world. The weavers who live there continue to create their tapestries, but they are said to be half-mad, constantly weaving the threads of fate itself. It is rumored that those who seek Verethis can still find it, but only if they are willing to risk becoming part of **Arachnara’s** eternal web.
-
-**Moral**: The myth of **Arachnara** warns of the cost of seeking the favor of dark powers. While her protection can be powerful, it often comes with a price that binds mortals to her sinister will.
-
----
-
-### **10. The Hunt of Orionis and the Starving Village**
-
-In the far reaches of the wilderness, a small village had long relied on the blessings of **Orionis**, the god of the hunt, for their survival. Each year, they would hold a sacred hunt, offering the first catch of the season to **Orionis**. However, one harsh winter, the village was on the verge of starvation, and the villagers decided to keep the spoils of the hunt for themselves, believing they needed it more than the god.
-
-That night, the **Constellation of Orionis** appeared brighter than ever, but instead of a blessing, it brought a curse. A great stag, larger than any the villagers had ever seen, appeared at the edge of the village. It stood in the snow, watching them with glowing eyes. Starving and desperate, the villagers saw it as a gift and set out to hunt the beast.
-
-As they pursued the stag, it led them deeper into the forest, farther from the safety of the village. One by one, the hunters fell prey to the wilds, as the stag led them into hidden traps and treacherous terrain. In the end, only one hunter remained, and when he finally caught up to the stag, it turned into **Orionis** himself, looming over the terrified man.
-
-"You sought to cheat the hunt," **Orionis** said, his voice like the wind through the trees. "Now the hunt will never end."
-
-The hunter was transformed into a stag, cursed to be hunted for eternity. The village, having lost its hunters, fell into ruin, and the forest reclaimed it. To this day, it is said that on certain nights, the **Hunter’s Constellation** can be seen chasing the **Stag**, a reminder that no mortal can escape the wild justice of **Orionis**.
-
-**Moral**: The myth of **Orionis** serves as a reminder of the respect owed to the gods and the natural order. Those who seek to cheat the cycle of the hunt will be punished, often becoming prey themselves.
-
-
+After conversion, preachers reused many tales as warnings about created powers and false worship. Humanists valued them as literature, and local communities retained customs whose old divine explanation had faded. Their survival reveals the range of Atherian religious life: fear, pleasure, political instruction, craft memory and criticism all found expression beneath the same Common Sky.
 
 ## Navigation
 
-- [[The Atherian Empire Overview]]
-- [[Canon Index]]
-- [[Canon Index]]
+- [[Overview of the Astratheon Religion]]
+- [[Atherian Astrology System]]
+- [[The Monomyth According to the Atherians]]
+- [[The Common Sky and the Formation of Astratheon]]
+- [[The Boatman]]

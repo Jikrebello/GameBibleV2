@@ -108,7 +108,7 @@ These changes reduce reader-facing pages with no introduction from 57 to 37 and 
 
 The first value-ordered corpus pass subsequently supplied a stand-alone introduction to every remaining reader-facing article that lacked one. The count of such articles therefore fell from 57 at baseline to zero; 253 articles still have introductions shorter than forty words and require qualitative review within their subject packages. A short introduction may be sufficient for a narrowly bounded article, so length alone does not determine failure.
 
-The same pass removed 148 explicitly labelled campaign, quest, encounter, story-use, game-use and design-rule sections from reader-facing articles. Their wording is preserved in [[Reader-Facing Campaign Material - Authorial Control]], with a link to each source article. No proposed story became history through relocation. Reader-facing articles now contain no section under the audited campaign-use and hook headings.
+The same pass removed 172 explicitly labelled campaign, quest, encounter, story-use, game-use and design-rule sections and fields from encyclopaedia articles. Their wording is preserved in [[Reader-Facing Campaign Material - Authorial Control]], with a link to each source article. No proposed story became history through relocation. Encyclopaedia articles now contain no section or field under the audited campaign-use and hook labels.
 
 ## Required package gates
 
