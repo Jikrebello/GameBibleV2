@@ -3,136 +3,101 @@ type: culture
 status: canon
 canon_level: local
 visibility: public
-era: []
-region: ["Nsizwa Homeland"]
-culture: ["Nsizwa"]
-related_factions: []
+era: ["Present Day"]
+region: ["Nsizwa Continent", "Mfula River", "Great Salt Flats"]
+culture: ["Nsizwa", "Ukukhanya", "Haze-Marked", "Black-Tooth"]
+related_factions: ["Ukukhanya Confederacy", "Haze-Marked Raiders", "Black-Tooth Clans"]
 appears_in: []
 needs: []
+aliases: ["Nsizwa Neighbours"]
 tags: []
 ---
-The Nsizwa are not alone in their corner of the world. While they stand as a mighty warrior kingdom bound by tradition and their ancestors, their lands are surrounded by **powerful city-states, nomadic warbands, and exiled mercenaries**, each with their own history, ambitions, and conflicts with the Nsizwa. These neighboring groups serve as both **allies and adversaries**, shaping the political, economic, and military landscape of the region.
+# Neighbouring Peoples of the Nsizwa
 
----
+The Nsizwa share their island-continent with the river cities of the Ukukhanya Confederacy, Haze-Marked communities beyond the salt flats and Black-Tooth warbands descended from Nsizwa exiles and deserters. Commerce, intermarriage, mercenary service and cattle raiding connect these societies despite long histories of mutual contempt. Their rivalries shape the kingdom's access to metal, foreign ships and the principal roads across the dry country.
 
-## **A. The Ukukhanya Confederacy – The Eastern River Lords**
+## The Ukukhanya Confederacy
 
-_"Prosperity flows like the river, but so does ambition."_
+The Ukukhanya Confederacy is a league of riverine city-states along the eastern Mfula. Its wealth comes from river transport, cultivated banks, metal exchange and control of the places where inland goods meet foreign shipping. Markets, temples, workshops and royal compounds make its cities markedly different from the fortified cattle centres of the Nsizwa plateau.
 
-### **1. Overview**
+### Government and Cities
 
-The **Ukukhanya Confederacy** is a **coalition of riverine city-states** situated along the **great Mfula River**, east of the Nsizwa lands. Unlike the Nsizwa, who are **highland warriors**, the Ukukhanya are a **seafaring and merchant culture**, thriving on **trade, diplomacy, and control over river commerce**. Their cities are **bustling with markets, temples, and palaces**, ruled by an alliance of **merchant-kings and priestly scholars**.
+Each member city is led by a Mkhululi, usually translated as Liberator-King. The office is elective for life, although rich families dominate candidacy and can preserve influence through marriage and debt. Generals, priests and merchants join these rulers in the Great Assembly of Elders.
 
-### **2. Society and Structure**
+The assembly meets at Ekuphakameni, the largest river city. It negotiates common defence, tolls and disputes that threaten navigation. Member cities frequently ignore its decisions when local profit outweighs the danger of division.
 
-- **Governance:**
-    
-    - The Ukukhanya are ruled by the **Great Assembly of Elders**, a **council of merchant-kings, generals, and high priests** who manage trade, diplomacy, and war efforts.
-    - Each city-state is ruled by a **Mkhululi (Liberator-King)**, elected for life but often influenced by the most powerful noble families.
-    - The Great Assembly meets in **Ekuphakameni**, the grandest of their river-cities, to settle disputes and make laws.
-- **Culture and Traditions:**
-    
-    - **Deeply religious**, the Ukukhanya worship **Nyoni-Yelanga, the Sun Bird**, a **solar deity** associated with prosperity, knowledge, and the cycle of trade.
-    - They practice **elaborate river-rites**, believing that the **Mfula River is sacred**, carrying the souls of the righteous to paradise.
-    - Artisans craft **intricate gold and gemstone jewelry**, while scribes maintain the region’s most advanced **written records**, chronicling treaties, lineages, and history.
-- **Military:**
-    
-    - The Ukukhanya rely on **elite spear battalions** known as the **Amashinga**, warriors clad in **bronze-plated armor** who fight in disciplined phalanxes.
-    - Their **navy of war-canoes** dominates the rivers, launching **lightning-fast raids on enemy settlements** and **cutting off trade routes** during conflicts.
-    - Unlike the Nsizwa, who revere **spirits and ancestors**, the Ukukhanya’s **priest-scholars wield sun-magic**, channeling the **blessings of Nyoni-Yelanga** in battle.
+Written records give Ukukhanya governments a long institutional memory. Scribes preserve treaties, lineages, cargoes and temple property. Nsizwa praise-singers regard some of this record keeping as a useful discipline and some as an attempt to turn relationships into debts controlled by the city.
 
-### **3. Relations with the Nsizwa**
+### Religion and Learning
 
-- **Trade Partners & Rivals:**
-    
-    - The Nsizwa **trade cattle, weapons, and fine leathers** with the Ukukhanya in exchange for **gold, copper, sacred beads, and rare herbs**.
-    - However, the two peoples have a **long history of border conflicts**, with **Ukukhanya traders often accused of exploiting Nsizwa resources**.
-- **Diplomatic Marriages & Betrayals:**
-    
-    - To **maintain peace**, Nsizwa and Ukukhanya rulers have arranged **diplomatic marriages**, but **tensions remain high**, as both sides suspect the other of seeking dominance.
-    - Some Ukukhanya merchant-kings have **secretly backed rebel Nsizwa factions**, hoping to **destabilize the kingdom and gain control over strategic trade routes**.
+Ukukhanya worship centres upon Nyoni-Yelanga, the Sun Bird, associated with prosperity, knowledge and the movement of wealth. River rites describe the Mfula as a road by which the righteous dead travel towards paradise. Priest-scholars study light, seasons, medicine and the timing of river floods.
 
----
+Sun magic appears in battle and public ceremony. Its manifestations include concentrated heat, revealing light and signals cast across water. Outsiders disagree over whether Nyoni-Yelanga names one power, a received divine image or several forms gathered by the priesthood.
 
-## **B. The Haze-Marked Raiders – The Desert Scourge**
+### Armed Power
 
-_"We are the storm that devours the unwary."_
+The Amashinga are disciplined spear battalions equipped with bronze-plated armour. War-canoes move troops quickly, attack riverside settlements and interrupt trade. The league's effectiveness depends upon crews, porters and agricultural communities as much as its celebrated soldiers.
 
-### **1. Overview**
+Competition among cities can weaken a joint campaign. A Mkhululi who withholds boats or grain may preserve a rival long enough to improve his own position.
 
-Beyond the **Salt Flats**, in the heart of the **great burning wastes**, roam the **Haze-Marked Raiders**, a lawless band of **nomadic warbands and exiled outcasts**. They are **remnants of fallen tribes, mercenaries, and cursed warriors**, united by a **shared belief in chaos, vengeance, and survival at all costs**. They are known for their **brutality, ghostly war-paint, and unpredictable raids** against both the Nsizwa and the Ukukhanya.
+### Relations with the Nsizwa
 
-### **2. Society and Beliefs**
+The Nsizwa exchange cattle, leather and weapons for Ukukhanya gold, copper, beads and medicines. Market settlements along the upper river contain mixed households and interpreters who spend parts of the year in both societies.
 
-- **Worship of the Flame and Dust:**
-    
-    - The Haze-Marked do not follow kings or ancestors; instead, they **worship the primal forces of fire and the desert**.
-    - They revere **Nzinga-Mwando, the Ash Serpent**, a mythical being of **fire, death, and endless hunger**.
-    - Every warrior undergoes the **Rite of the Embered Path**, where they **walk across burning coals** to prove their devotion.
-- **Loose Tribal Structure:**
-    
-    - The raiders are divided into **clans**, each ruled by a **Warlord-Priest** who claims to **channel the voice of the Ash Serpent**.
-    - Alliances between these clans are **temporary**, shifting as stronger leaders rise and weaker ones fall.
-    - The **Blackened Maw**, a monstrous walled fortress carved into the side of a dried-up riverbed, serves as their **only permanent stronghold**.
-- **Warriors and Tactics:**
-    
-    - Their warriors are **fanatical berserkers**, who **paint their faces white** and **coat their weapons in venom**, believing themselves to be **avengers of the dishonored dead**.
-    - Their battle style is **erratic and unpredictable**, using **smoke bombs, fire assaults, and psychological warfare**.
-    - They field **trained war-beasts**, including **hyenas, desert panthers, and fire-blooded horses**, bred for speed and endurance.
+Border disputes concern grazing, tolls and control of crossings. Each side accuses the other of bad faith: Ukukhanya merchants complain of confiscation by captains, while Nsizwa households describe manipulated measures and debt. Diplomatic marriages have ended several wars and created later succession disputes when descendants claimed standing in both polities.
 
-### **3. Relations with the Nsizwa**
+Some merchant-kings have financed rival Nsizwa captains to gain favourable routes. Nsizwa rulers have answered by raiding a sponsor's dependent settlements. These interventions rarely remain as limited as their planners intended.
 
-- **Enemies & Occasional Mercenaries:**
-    - The Nsizwa and the Haze-Marked are **natural enemies**, as the raiders frequently **attack caravans, villages, and cattle herds**.
-    - However, **some Nsizwa exiles have joined their ranks**, becoming **mercenaries** or **war-leaders within the chaos**.
-    - The **Nsizwa consider the Haze-Marked to be cursed**, believing that **Nzinga-Mwando corrupts their souls**, making them **enemies of both the living and the ancestors**.
+## The Haze-Marked
 
----
+The Haze-Marked live beyond and along the Great Salt Flats. They include mobile clans, descendants of displaced settlements, mercenaries and people exiled from several neighbouring societies. Nsizwa sources call them raiders as a single category, although some communities rely more upon salt, animals and guiding caravans than warfare.
 
-## **C. The Black-Tooth Clans – The Southern Warlords**
+### Clans and the Blackened Maw
 
-_"Once we were bound by honor. Now we are bound by gold."_
+Each mobile clan follows a Warlord-Priest whose standing depends upon fighting skill, ritual reputation and the ability to bring followers through the dry season. Alliances change when a leader fails to secure water or distribute plunder. The Blackened Maw, built into a dried riverbed, is their principal permanent stronghold and market.
 
-### **1. Overview**
+The fortress allows warbands to repair weapons, exchange captives and store supplies. Control of its wells carries greater authority than any claim to rule all Haze-Marked people.
 
-The **Black-Tooth Clans** are a **collection of rogue Nsizwa warbands**, once **sworn to the kingdom**, but now **mercenaries and raiders-for-hire**. Formed from **exiled warriors, deserters, and ambitious generals**, they have abandoned the **ancestral traditions**, choosing instead **a life of bloodshed and coin**.
+### The Ash Serpent
 
-### **2. Leadership and Culture**
+Haze-Marked rites honour Nzinga-Mwando, the Ash Serpent of fire, death and hunger. Initiates walk across coals during the Embered Path and paint their faces white as the dishonoured dead. Some claim that the Serpent gives those dead a means of vengeance.
 
-- **Warrior Brotherhoods:**
-    
-    - The clans operate as **bands of war-chiefs and their personal retinues**, each led by a **Khalani (Warlord-General)**.
-    - These warriors still follow **some Nsizwa customs**, but they have **forsaken the ancestral spirits**, believing **only strength and strategy determine fate**.
-- **The Blood-Vow:**
-    
-    - Every new member must take the **Blood-Vow**, an **oath of loyalty to their warband**.
-    - They tattoo their **foreheads with black ink**, marking themselves as **warriors beyond the reach of ancestors**.
-- **Elite Mercenaries:**
-    
-    - They are highly sought after by **foreign kings and warlords**, known for their **discipline, tactical brilliance, and complete ruthlessness**.
-    - They specialize in **ambush warfare, sabotage, and prolonged sieges**, making them dangerous **enemies of the Nsizwa**.
+Its priests use smoke, poison and fire in war. Nsizwa Spirit-Keepers treat the cult as corrupting and connect some manifestations with Wrath. The identity of every Ash Serpent appearance remains uncertain, and the ritual tradition does not make the Haze-Marked one supernatural lineage.
 
-### **3. Relations with the Nsizwa**
+### Raiding and Service
 
-- **Treated as Traitors:**
-    
-    - To the Nsizwa, the Black-Tooth are **worse than any enemy**, as they have **turned against their own kin**.
-    - Any captured Black-Tooth warrior is **executed on sight**, their name erased from the ancestral records.
-- **A Growing Threat:**
-    
-    - Some Black-Tooth leaders dream of **returning to the Nsizwa lands**—not as exiles, but as **conquerors**.
-    - If they were to **unite under one warlord**, they could **challenge the War-King’s rule**, plunging the region into **civil war**.
+Haze-Marked bands attack cattle herds, river traffic and isolated villages. Fast animals, knowledge of the flats and concealed water stores allow them to vanish before a larger army arrives. War-beasts include trained hyenas, desert panthers and horses bred for endurance.
 
----
+Some clans hire themselves as guides or mercenaries. Nsizwa chiefs have employed them against rivals and then denounced their methods after poisoned wells or attacks upon noncombatants. Nsizwa exiles can also rise within Haze-Marked society, carrying tactics and family knowledge back against their former homes.
 
-## **Conclusion**
+## The Black-Tooth Clans
 
-The lands surrounding the Nsizwa are filled with **friends, foes, and opportunists**, each with their own ambitions. The **Ukukhanya Confederacy offers trade and diplomacy but holds its own secret ambitions**, the **Haze-Marked Raiders bring chaos and destruction**, and the **Black-Tooth Clans are a lurking shadow of treachery**. The Nsizwa must **remain strong, lest these forces tear them apart from all sides**.
+The Black-Tooth Clans descend chiefly from Nsizwa regiments that deserted, were exiled or followed commanders who rejected the War-King. They preserve much Nsizwa drill and military language while denying the ancestral obligations attached to royal service.
 
+### Organisation and Identity
+
+A Khalani commands each warband through a personal retinue. Members take the Blood-Vow and tattoo their foreheads with black pigment, declaring themselves beyond the judgement of the ancestral institutions that expelled them. They continue to use Nsizwa weapons, songs and tactical formations because exile did not erase their upbringing.
+
+Foreign rulers value Black-Tooth companies for ambush, sabotage and siege work. Payment comes through cattle, metal, coin, captives or rights in conquered land. Their discipline distinguishes them from temporary raiding bands and makes a large contract force a serious regional power.
+
+### Relations with the Kingdom
+
+Nsizwa law treats Black-Tooth fighters as traitors. Captured members are executed, and their names are removed from public ancestral recitation. Families may continue remembering them privately, creating conflict between royal punishment and household obligation.
+
+Black-Tooth commanders raid villages and caravans, hire themselves to Ukukhanya factions and shelter political exiles. Several have declared an intention to return as conquerors. Their continuing division among rival Khalani has prevented a unified invasion.
+
+The clans remain close enough to Nsizwa society to understand its weaknesses. They know seasonal routes, succession grievances and the duties attached to famous tombs. The kingdom's hatred reflects the danger of that knowledge as much as the rejection of ancestral authority.
+
+## A Connected Region
+
+None of these relationships is fixed as permanent friendship or war. A drought can turn a river city into a grain supplier, a Haze-Marked guide into an indispensable ally and a Black-Tooth company into the only force available to protect a caravan. The same dependence produces resentment once the immediate danger passes.
+
+Mixed households and border communities live within these pressures every year. They translate, trade and marry across distinctions that rulers invoke more sharply during conflict. Their lives keep the region connected even when public histories describe self-sufficient peoples surrounded by enemies.
 
 ## Navigation
 
 - [[The Nsizwa Overview]]
-- [[Canon Index]]
-- [[Canon Index]]
-
+- [[Geography and Homeland|Nsizwa Geography and Homeland]]
+- [[Nsizwa Economy and Trade]]
+- [[Warfare and Military Tactics]]
+- [[Historical Atlas of the Nsizwa]]

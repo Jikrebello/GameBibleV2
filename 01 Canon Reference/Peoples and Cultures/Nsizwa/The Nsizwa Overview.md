@@ -69,7 +69,7 @@ At the Night of a Thousand Fires, warriors recount battles and Spirit-Keepers se
 
 The Bloodless Hunt tests a young warrior's ability to stalk and capture a great beast bare-handed. Duels of the Honored Dead place disputes under ancestral witness: fighters invoke their lineages, and dreams, voices or brief manifestations may accompany the contest. The winner is regarded locally as favoured by the spirits.
 
-Trade carries cattle, weapons, hides, ivory, beadwork and talismans between neighbouring societies. The Ukukhanya river cities exchange gold, copper, beads and other goods with the Nsizwa, while diplomatic marriages accompany a history of rivalry. The Haze-Marked Raiders attack villages, caravans and herds from the salt-country approaches. The Black-Tooth Clans, formed from Nsizwa deserters, exiles and ambitious commanders, hire out their military skills and raid former kin. Captured Black-Tooth warriors are executed and their names removed from ancestral remembrance.
+Trade carries cattle, weapons, hides, ivory, beadwork and talismans between neighbouring societies. The Ukukhanya river cities exchange gold, copper, beads and other goods with the Nsizwa, while diplomatic marriages accompany a history of rivalry. Haze-Marked warbands attack villages, caravans and herds from the salt-country approaches, although other clans trade salt or serve as guides. The Black-Tooth Clans, formed from Nsizwa deserters, exiles and ambitious commanders, hire out their military skills and raid former kin. Captured Black-Tooth warriors face execution and removal from public ancestral remembrance; their families often preserve the forbidden names in private.
 
 ## Remembered figures and the present kingdom
 

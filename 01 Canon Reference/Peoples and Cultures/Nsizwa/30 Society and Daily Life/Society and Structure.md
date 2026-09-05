@@ -3,147 +3,94 @@ type: culture
 status: canon
 canon_level: local
 visibility: public
-era: []
+era: ["Present Day"]
 region: ["Nsizwa Homeland"]
 culture: ["Nsizwa"]
-related_factions: []
+related_factions: ["War-King", "Horn-Captains", "Spirit-Keepers"]
 appears_in: []
 needs: []
+aliases: ["Nsizwa Society and Government"]
 tags: []
 ---
-_"A kingdom is only as strong as its people, and the people are only as strong as their ancestors."_
+# Nsizwa Society and Structure
 
-The Nsizwa society is a **rigidly structured yet dynamic warrior culture**, where **ancestral guidance, martial excellence, and spiritual power** shape every aspect of life. Though deeply hierarchical, this structure is not purely based on **birthright**—to rule, lead, or even be considered a warrior, **one must prove themselves worthy** in the eyes of their ancestors, their peers, and the land itself.
+Nsizwa society is organised through households, cattle wealth, territorial strongholds, military regiments and institutions devoted to ancestral memory. The War-King governs from Mzalu's Hold with the support of Horn-Captains and Spirit-Keepers. Royal authority is hereditary, yet every reign depends upon military competence, household alliances and signs interpreted as ancestral recognition.
 
----
+Martial honour possesses unusual public importance. It does not sustain the kingdom by itself. Herders, cultivators, smiths, traders, healers, singers and builders provide the food, wealth and memory upon which the regiments depend.
 
-## **1. The War-King**
+## The War-King
 
-_"A king who does not bleed with his warriors is no king at all."_
+The War-King holds Yempi's crown and serves as commander, judge and principal patron of the ancestral rites. A ruler is expected to lead during serious war, mediate among powerful captains and preside over the festivals through which the kingdom remembers its dead.
 
-### **A. The Role of the War-King (Yempi's crown)**
+Succession normally remains within the royal line. On a ruler's death, Spirit-Keepers ask the dead king and earlier sovereigns to recognise the proposed heir through dream, omen, apparition or response from a tomb. Such signs influence politics because households and captains already possess interests in the result. A disputed omen may begin a coup as readily as it prevents one.
 
-The **War-King** is not just a ruler, but is treated as a **living conduit between ancestral memory and the people**. He is both **a warlord and a spiritual figure**, responsible for:
+The traditional Trial of the War Spirit has three parts. The claimant stands before an awakened guardian or royal tomb, commands a warband in actual danger and submits to a period of ancestral consultation. The trial can expose weakness, but a strong claimant with enough military support may seize power despite an adverse reading. Later praise-songs then argue whether victory itself revealed the judgement.
 
-- **Leading the army in battle**, proving that he is still fit to rule.
-- **Maintaining the favor of the ancestors**, as they guide him through dreams, omens, and Spirit-Keeper-led rituals.
-- **Settling disputes among the Horn-Captains (noble class)** to ensure the kingdom remains unified.
-- **Presiding over the great seasonal festivals**, particularly those dedicated to the summoning of the Izivukwa.
+## Mzalu's Hold and the Uhlanga Throne
 
-### **B. Ascension to Kingship**
+The War-King rules from Mzalu's Hold, a fortified settlement above the savanna. The Uhlanga Throne is carved from a single elephant tusk and inlaid with obsidian and gold. Those seated upon it report a low resonance associated with the voices of previous kings.
 
-- The title of War-King is **hereditary**, passed down within the **royal bloodline**, but a weak successor can be **challenged and replaced** if they fail to prove their worth.
-- Upon the death of a king, the Spirit-Keepers perform a rite asking the dead ruler and earlier kings to **judge the successor through dream, omen, apparition, or tomb response**. Whether the dead king's own soul speaks is not assumed from the sign. If the ancestors are held to reject the claimant, **omens and misfortunes follow**, often leading to a **coup by the Horn-Captains or warrior factions**.
-- Every new king must undertake the **Trial of the War Spirit**, where they must:
-    1. **Face the Judgment of the Izivukwa**, proving they are worthy of ruling.
-    2. **Lead a warband into battle**, proving their martial skill.
-    3. **Commune with the ancestral spirits**, demonstrating wisdom and spiritual awareness.
+Royal audiences join government with performance. Petitioners approach through courtyards displaying captured standards and the names of households that supplied labour to the walls. Praise-singers recount the ruler's ancestry before business begins, including remembered failures that carry obligations towards particular communities.
 
-### **C. The Sacred Throne of the War-King**
+The throne is treated as an ancestral object rather than a source of kingship. A claimant cannot become War-King merely by sitting upon it, although possession of Mzalu's Hold gives any succession faction a formidable practical advantage.
 
-- The War-King rules from **Mzalu’s Hold**, seated upon the **Uhlanga Throne**, an **ancient war-seat carved from a single, massive elephant tusk**, inlaid with **obsidian and gold**.
-- The throne is said to **hum with power**, resonating with the voices of past kings, who whisper guidance—or warnings—to the ruler.
+## Horn-Captains
 
----
+Horn-Captains are senior commanders, governors and counsellors. Some inherit cattle, followers and strongholds; others rise through military service, diplomacy or effective administration. Families can therefore accumulate power across generations without possessing an unconditional right to office.
 
-## **2. The Horn-Captains (The Noble Class)**
+The Indlovu, or Grand Warlord, commands beneath the War-King during major campaigns. High Horn-Captains govern important districts and fortresses. Regimental captains supervise training, supply and local defence. The ranks overlap in practice, particularly when a wealthy governor maintains a large personal following.
 
-_"To guide a kingdom is to bear the weight of a thousand ancestors."_
+Every captain swears the Oath of the Blood Moon to the crown and the ancestors. Treason can bring execution, exile and removal from public remembrance. War-songs threaten offenders with having their names bound into eternal service beside the Izivukwa. Some tomb traditions may have attempted such bindings. Spirit-Keepers dispute their legitimacy, and any genuine imprisonment of a human soul is an abomination.
 
-The **Horn-Captains** are the **king's council of warriors, generals, and governors**, drawn from the **most proven warriors and advisors**. Unlike traditional nobility, **Horn-Captains are not simply born into power—they must earn it through battle, leadership, and diplomacy.**
+## Regiments and the Spear-Sworn
 
-### **A. Roles and Responsibilities**
+Military training begins early for boys expected to enter the regiments. Childhood instruction combines running, shield work, herding, discipline and the histories of local formations. Formal initiation usually occurs around the sixteenth year, followed by service within a war-regiment.
 
-Each Horn-Captains serves as:
+The Spear-Sworn are adults who have completed the recognised trials and accepted regimental obligations. Their units defend settlements, accompany cattle movements, raid enemies and supply labour during emergencies. Regiments also provide companionship, marriage connections and a public identity beyond the household.
 
-- **A Regional Governor:** Overseeing a province or stronghold within the kingdom.
-- **A General of the war-regiment (Warrior Regiments):** Leading their warriors into battle, ensuring discipline and strategy.
-- **A Diplomat or Lawmaker:** Settling disputes, negotiating with outsiders, and ensuring the **ancestral laws** are upheld.
+Several elite traditions carry special prestige. Storm-Sworn fighters use sacred tattoos and storm-forged spears. The Ghost-Wolves specialise in concealment, scouting and assassination. Makoma riders conduct mounted reconnaissance and shock attacks. Their achievements depend upon armourers, healers, animal handlers and provisioners whose names receive less space in royal song.
 
-### **B. Ranks within the Horn-Captains**
+Continuous warfare places heavy demands on households. A celebrated campaign may remove labour during planting, consume cattle needed for marriage exchanges and leave widows or injured veterans dependent upon kin. Arguments about royal levies therefore form part of ordinary politics.
 
-There are different tiers of Horn-Captains, with the highest-ranked ones being almost equal in power to the War-King himself.
+## Spirit-Keepers
 
-1. **The Indlovu (The Grand Warlord):** The highest-ranking general, often second-in-command to the War-King in war.
-2. **The Horn-Captains Ezikhulu (High Lords):** Senior war-leaders governing key cities and territories.
-3. **The Amabutho Horn-Captains (Warband Captains):** Leaders of specific warrior regiments, responsible for training and battle formations.
+Spirit-Keepers serve as healers, herbalists, funerary specialists and interpreters of ancestral manifestations. Their apprenticeship includes medicine, preservation, praise genealogies, ritual language and the practical dangers of awakened tombs.
 
-### **C. The Oath of the Horn-Captains**
+They prepare umhlwazi in several forms. Ordinary mixtures treat pain, infection, fever or exhaustion; stronger preparations support trance and battle discipline. The reputation of spiritual medicine sometimes allows an incompetent or ambitious Keeper to hide a failed treatment, and communities judge healers through observed results as well as ritual standing.
 
-- Every Horn-Captains swears the **Oath of the Blood Moon**, pledging loyalty to the War-King and to the ancestors.
-- Betraying this oath results in **execution, exile, or—if the crime is grave enough—a sentence that binds the traitor's name and funerary office to serve the Izivukwa.** War-songs threaten literal eternal soulbinding; Spirit-Keepers dispute that reading, and Redeemer-trained examiners condemn any true human soulbinding as an abomination.
+The Mfundisi Wezithunzi, or Master of Shadows, holds senior responsibility for the royal tombs. This Keeper alone may enter the Tomb of the Silent Legion without another witness. The privilege protects dangerous knowledge while concentrating power in one office.
 
----
+## Households, Cattle and Dependants
 
-## **3. The Spear-Sworn (The Warrior Class)**
+The household is the basic unit of production, inheritance and ancestral obligation. Its members may include close kin, spouses, foster children, clients, servants and captives. Position depends upon age, relationship, wealth and the circumstances by which a person entered the group.
 
-_"A warrior does not fight alone. He fights with the spirits of the thousand warriors before him."_
+Cattle supply milk, meat, hides, traction and a visible measure of wealth. They pass through bridewealth, compensation, diplomacy and sacrifice. Royal and captainly herds can support large followings, while drought or raiding rapidly reduces a household's political security.
 
-The Nsizwa are a **martial society**, where **every man is trained in war**, and those who prove exceptional become part of the **Spear-Sworn**, the **elite warrior class**.
+A person's value is never reducible to herd ownership in formal teaching, but wealthy men routinely use cattle to convert material success into marriage alliances and public honour. Poor households answer through mutual herding, craft specialisation and claims upon kin.
 
-### **A. Warrior Training & Regiments (war-regiments)**
+## Craft, Trade and Work
 
-- Boys begin training at the age of **six**, learning **combat, tactics, and ancestor veneration**.
-- At **16, they undergo the Warrior’s Initiation**, proving themselves in the **Trial of the Hunt**, where they must **track and defeat a great beast with only a spear and shield**.
-- Those who succeed **join an war-regiment regiment**, where they receive **formal training in formations, skirmishing, and melee combat**.
+Smiths produce spears, tools and fittings for fortifications. Beadworkers encode affiliation and remembered events in jewellery. Potters, leatherworkers and carvers make household goods as well as objects used at tombs and festivals. Skilled work can give a family influence independent of military office.
 
-### **B. The Elite Regiments**
+Markets bring cattle products, grain, metalwork, ivory, medicines and foreign goods into the fortified settlements. Traders maintain relationships with the Ukukhanya river cities and other neighbouring peoples. Long-distance exchange also carries religious objects and new techniques whose adoption can become a dispute over ancestral custom.
 
-1. **The Storm-Sworn (Storm-Bearers):** The finest warriors, bearing **storm-forged spears** blessed by the Spirit-Keepers.
-2. **The War-hostsi (Ghost-Wolves):** Stealth warriors who **fight in the shadows**, often used as assassins or ambushers.
-3. **The Makoma Riders:** The **Nsizwa cavalry**, trained in **shock charges and mounted spear combat**.
+## Imbongi and Public Memory
 
----
+Imbongi are praise-singers, poets and public historians. They learn genealogies, battle accounts, family claims and the formal language used before rulers. Their performances can legitimate an heir or revive an accusation that an influential household hoped had disappeared.
 
-## **4. The Spirit-Keepers (Mystics, Healers, and Ancestral Mediators)**
+A respected singer praises through accuracy rather than flattery. Comic verses and accounts of failure make a person's achievements credible. This gives the profession a measure of protection, though rulers and captains have imprisoned or killed singers whose memories threatened them.
 
-_"The ancestors whisper, but only the worthy can listen."_
+## Rank, Merit and Inherited Power
 
-The **Spirit-Keepers** are the **spiritual backbone of the Nsizwa**, acting as **healers, oracles, keepers of tomb-anchors, and mediators of ancestral manifestations**.
+Nsizwa political language praises proven worth. Birth still determines access to cattle, training, patronage and famous ancestors. A poor warrior may rise through service, yet a captain's child begins with advantages unavailable to most households.
 
-### **A. Their Role in Society**
-
-- **Keepers of Ancestral Rites:** They test dreams and apparitions, preserve names and relics, and perform the rites that awaken Izivukwa under bounded duties.
-- **Healers and Herbalists:** They use **umhlwazi (herbal medicine and spiritual infusions)** to heal the wounded and sick.
-- **Interpreters of Omens:** They **read the stars, the winds, and the bones** to foresee the kingdom’s fate.
-
-### **B. The High Spirit-Keeper**
-
-- The **greatest Spirit-Keepers** is the **Mfundisi Wezithunzi (Master of Shadows)**, chosen by the **spirits themselves**.
-- They are the only one allowed to **enter the Tomb of the Silent Legion alone**, communing directly with the **slumbering Izivukwa**.
-
----
-
-## **5. The Common-Folk (The Common People)**
-
-_"A kingdom without its people is no kingdom at all."_
-
-The **Common-Folk** form the backbone of the Nsizwa civilization. They are the **farmers, craftsmen, traders, and artisans**, who ensure the **survival and prosperity** of the kingdom.
-
-### **A. The Importance of Cattle**
-
-- Cattle are **sacred**, representing **wealth, status, and divine favor**.
-- A man's **worth is measured by his herds**, and great warriors are often **rewarded with cattle** rather than gold.
-- Cattle are used in **marriage negotiations, sacrifices to the ancestors, and diplomacy**.
-
-### **B. Skilled Artisans and Craftsmen**
-
-- **Blacksmiths** forge **legendary spears, shields, and armor**.
-- **Beadworkers** craft **ritual jewelry**, embedding them with **inkatho talismans** to grant **luck, strength, or protection**.
-- **Potters and carvers** create **sacred totems**, used in ancestral rituals and war ceremonies.
-
-### **C. The Griots and Storytellers**
-
-- The **imbongi (praise-singers)** are the **oral historians of the Nsizwa**, keeping the past alive through **songs, poetry, and dance**.
-- They recount **great battles, ancestral lessons, and omens**, ensuring **wisdom is never forgotten**.
-
----
-
-## **Final Thoughts: The Living Legacy**
-
-The Nsizwa **live as warriors, rulers, mystics, and keepers of ancestral wisdom**, bound together by **duty, honor, and the spirits of their ancestors**. Each person, from the **War-King to the humblest farmer**, plays a role in **preserving their legacy**, ensuring that **when they pass, they too will join the ranks of the honored dead.**
+Ancestral recognition can restrain hereditary rule by giving opponents a language with which to challenge an unfit heir. It can also conceal factional ambition beneath a sacred claim. Nsizwa institutions endure through this tension between inherited responsibility and the demand that authority be demonstrated in public.
 
 ## Navigation
 
 - [[The Nsizwa Overview]]
-- [[Canon Index]]
+- [[Religion and Spirituality]]
+- [[Culture and Traditions]]
+- [[Nsizwa Economy and Trade]]
+- [[Warfare and Military Tactics]]
+- [[Key Figures and Legends]]
