@@ -13,7 +13,7 @@ tags: [game-ready]
 ---
 # Demiplane Atlas
 
-A demiplane is a bounded made place with an **anchor**, **governing law**, **upkeep cycle**, and **return tether**. This atlas records fourteen substantial examples without fixing future adventure outcomes.
+A demiplane is a bounded made place with an **anchor**, **governing law**, **upkeep cycle**, and **return tether**. This atlas records fourteen substantial contemporary examples without fixing future adventure outcomes. Three ancient Qahuri houses appear as historical case studies; their present reachability remains unresolved.
 
 ## Operating Rules
 
@@ -29,6 +29,16 @@ A demiplane is a bounded made place with an **anchor**, **governing law**, **upk
 Extradimensional containers are object-anchored micro-demiplanes. A sound tether ejects contents into the nearest stable space when deliberately closed. A damaged or destroyed tether may instead lose contents to Drift. Placing one pocket inside another makes both return tethers oscillate; warning signs include duplicated weight, delayed retrieval, inward shadows, and objects returning to the wrong container.
 
 ## Mortal-Made Realms
+
+### Historical Second Houses of Qahur
+
+The [[The White Measure and the Second Houses|White Measure]] created corpse-anchored demiplanes for founders who completed its funerary rite. Three are historically established:
+
+- **Court of Unspent Lamps:** Meresha of Isethar's idealised flood-season town. Oil placed in unlit Material lamps sustained her attention. Its owner was Meresha's complete bound human soul; Hesenu entered as a separately captive human soul.
+- **House of the Returning Cargo:** Khaseret of Qemaret's funerary harbour, joined to ships, stores and rooms in which she retained a material share. Its services included storage and route knowledge; its agents pursued claims unrecognised by later owners.
+- **Copper Orchard:** Tamekha Rasen's clinics, ordered store courts and copper-leaved trees. Repairs in the demiplane consumed Material grain and metal, contributing to the Tenaret workers' stoppage of 903 BR.
+
+The House of Nemeret the Pure was a failed imitation. Nemeret's soul departed; an estate-office answered in his manner until a dependent Greed Mask learned to inhabit it. None of the four cases establishes which houses remain reachable in 1360.
 
 ### Quiet Index
 

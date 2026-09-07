@@ -64,7 +64,11 @@ For the political circumstances inherited by the present generation, read [[Pres
 
 [[Palace Survivors and the Southern Heroic Age]] follows independent recovery after the Giant collapse. [[The Siege and the Returnings]] gives that world a connected heroic history, from High Harbour's fall to supernatural pursuit, changed households and settlement on another shore.
 
-For the overseas republic, read [[The Gateway Republic]] and [[The Gateway Wars]]. Their history connects food-producing towns, naval service, rival commanders and opposition to child sacrifice with the destruction of the capital. [[The Spared Towns and the Queen's Country]] follows the survivors into a later kingdom.
+For the overseas republic, read [[The Gateway Republic]] and [[The Gateway Wars]]. Their history connects food-producing towns, naval service, rival commanders and opposition to child sacrifice with the destruction of the capital. [[The Spared Towns and the Queen's Country|The Spared Towns and the Kingdom of Sarqen]] follows the survivors into a royal state centred on the surviving harbours.
+
+The neighbouring Sacred Basin possessed an independent history. [[Ancient Qahur and the Twin-Reed Crowns]] follows its Orphaned river communities from Ishkatar's collapse through successive native and foreign dynasties to the divided crowns of 350 BR. [[Life in the Ancient Sacred Basin]] describes its canals, towns, workshops, households and pleasures. [[The White Measure and the Second Houses]] follows the mortuary discipline by which several wealthy Qahuri founders bound their souls to embalmed bodies and became Egg White Patrons. [[Qahur and the Gateway before Atheria|Qahur and the Gateway, c. 2165–350 BR]] connects the two civilisations through food, roads, marriage, refuge and war.
+
+For the end of the Gateway Republic, [[The Three Collections and the Fall of Qarzeth]] follows Ilya of Qarzeth, Sapha of Esharat, the Caleran debate and the destruction of the child-taking capital. The article preserves the distinction between the rescue of children and the murders, rape and enslavement committed by the victorious army.
 
 For the founding generation, begin with [[The Last Generations of the Caleran Republic]] and [[The Southern Campaigns of Teren Casvilar]]. [[The House of Nerethan]] follows the queen's country across five generations; [[The Wars of the Atherian Succession]] connects changing commands and household alliances to Thalion's settlement around 350 BR. [[Households of the Imperial Founding]] introduces the women, children and surviving communities within that history.
 
@@ -123,5 +127,7 @@ The [[World Encyclopedia - Revision and Expansion Programme]] schedules the cont
 The [[Dependable Navigation - Review and Repair Ledger]] documents the link repairs. [[Reader-Facing Campaign Material - Authorial Control]] preserves campaign and story prompts removed from encyclopaedia articles during the corpus-wide voice review. [[Tidewood Historical Development - Authorial Review]] records the historical additions and authorial distinctions behind the completed regional example.
 
 [[Atherian Formation and Republic - Delivery Review]] records Package 2B's integration and regional expansion. [[Caleran Foundations - Authorial History]] preserves the private facts behind the founders, Giant ancestries and religious identifications.
+
+[[Package A - Sacred Basin and Gateway Canon Integration Review]] records the promotion of ancient Qahur, the named Gateway history and the White Measure. Its open questions include the ancient river's proper name, exact borders, the total number of successful Second Houses and which of their Patrons remain reachable in 1360.
 
 [[Atherian Palace and Maritime Histories - Integration Review]] records the heroic and republican additions. [[Imperial Founding - Authorial History and Integration Review]] records the subsequent selection of Thalion as heir and founder, the incoming Nerethan dynasty, the named founding generation and its consistency checks. [[Age of Glory - Authorial History and Integration Review]] records the dynastic, social and supernatural history through 0 AR.

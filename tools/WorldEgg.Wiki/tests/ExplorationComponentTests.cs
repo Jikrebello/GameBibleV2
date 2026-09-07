@@ -15,7 +15,7 @@ public sealed class ExplorationComponentTests
     {
         var context = new BunitContext(); context.JSInterop.Mode = JSRuntimeMode.Loose;
         context.Services.AddMudServices(); context.Services.AddSingleton(vault.Catalogue); context.Services.AddSingleton(vault.Links); context.Services.AddSingleton(vault.Paths); context.Services.AddSingleton(vault.Renderer); context.Services.AddSingleton<BaseLibrary>(); context.Services.AddSingleton<LibraryIndex>();
-        context.Services.AddScoped<ReadingLibrary>(); context.Services.AddSingleton<ArticlePreviews>();
+        context.Services.AddScoped<ReadingLibrary>(); context.Services.AddSingleton<ArticlePreviews>(); context.Services.AddSingleton(new ReviewCommentStore(System.IO.Path.Combine(vault.Root, "review-comments.json"), vault.Catalogue));
         context.Services.GetRequiredService<NavigationManager>().NavigateTo(route); return context;
     }
     [Fact] public async Task Collection_has_named_views_pagination_numeric_sort_and_live_refresh_without_writes()

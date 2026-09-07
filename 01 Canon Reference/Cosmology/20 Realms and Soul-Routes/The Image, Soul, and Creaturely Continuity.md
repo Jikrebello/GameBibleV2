@@ -64,6 +64,8 @@ Driftkin may be intelligent, moral, loyal, cruel, and culturally sophisticated. 
 
 A human soul may also be deliberately bound into a construct, relic, office, or corpse. Such a being uses `continuity: bound-human-soul`. Binding does not create a soul; it imprisons one that already exists.
 
+The Qahuri [[The White Measure and the Second Houses|White Measure]] is an established corpse-binding tradition. Its successful founders remain complete human souls held through embalmed bodies and private Egg White estates. Their ability to act as Patrons changes neither their species nor their final dependence upon judgement. Destroying a true soul-cage resumes the soul-road; destroying an imitation exposes only the office, residue or Mask which occupied it.
+
 Human soulbinding is objectively evil even when the intended victim requests it. Breaking a true name-cage or equivalent binding releases the soul toward judgement; it does not recreate the dead body or guarantee earthly restoration.
 
 ## Crafted Patterns and Genuine Bearers

@@ -3,7 +3,7 @@ type: reference
 status: canon
 canon_level: core
 visibility: author-only
-era: ["541-1360 AR", "Present Day"]
+era: ["c. 2300 BR-1360 AR", "Present Day"]
 region: ["The Covenant", "Ahl-e-Ahd"]
 culture: ["Ahl-e-Ahd", "Ahdari", "Iqashari", "Qahuri", "Qazmari", "Zanthiri", "Velian"]
 related_factions: ["The Creditor", "Qahirid Suzerainty", "Caliphate of Qazmarid"]
@@ -39,6 +39,8 @@ This register controls authorial facts when Covenant notes disagree.
 
 **Ahl-e-Ahd** is an imperial-confessional identity, not a single ancestry. Ahdari, Iqashari, Qahuri, Qazmari, Zanthiri, and Velian remain meaningful identities in 1360 AR. Tarkhan and Jirahar are neighbors and diasporas, not constituent Covenant peoples.
 
+The ancient Qahuri are principally Orphaned descendants of Sacred Basin communities which survived Ishkatar's collapse. They did not descend from the Glass host. The Gateway people were a Braided ancient population formed from older shore communities, proto-Ahdari migrants, maritime settlers, captives and freed households. The House of Nerethan inherited a junior Qahuri maternal connection through Tazirun Zaheret, Lemara, Hesara and Hadrima; that relationship conveyed no claim over Qahur.
+
 ## Locked Geography
 
 Iqashar lies in the far north at the Tarkhan approaches. Al-Qahur occupies the fertile basin south of it. Qazmarid lies across the western strait. Zanthir and the Velian belt lie southeast toward the Thalassian and Thalmyric frontier. South grows colder.
@@ -49,6 +51,8 @@ The [[Nine Wells of Tergai]] are ancestral Well-Tarkhan works seized by Covenant
 
 The Creditor wears the mask of Malak al-Ahd and profits from Covenant rent architecture. Its interference kept the Fourth Seal dispute permanently unresolved but does not establish which succession instrument began genuine. Sincere belief, honest judgement, and lawful protection remain possible inside the corrupted system.
 
+The [[The White Measure and the Second Houses|White Measure]] predates the Covenant. A successful rite binds one complete human soul to its embalmed body and a small Egg White estate; founders able to lease access, protection or power act as Patrons. This delays the Boatman's road and final judgement without destroying or dividing the soul. Failed rites may leave infrastructure offices or copied roles, and dependent Greed Masks may parasitise those remains. The present reachability of Meresha, Khaseret, Tamekha and other Second-House Patrons is unresolved.
+
 ## Language Boundary
 
 Ottoman, Mamluk, Sunni, Shia, Muslim, Christian, Qadira, Kelesh, and Katapesh are author-facing comparisons only. Active canon uses Covenant, Witnessed Seal, Sealed Blood, Redeemer-faithful, and People of the Lamp.
@@ -56,4 +60,7 @@ Ottoman, Mamluk, Sunni, Shia, Muslim, Christian, Qadira, Kelesh, and Katapesh ar
 ## Navigation
 
 - [[01 Canon Reference/Peoples and Cultures/Ahl-e-Ahd/The Ahl-e-Ahd Overview.md|The Ahl-e-Ahd Overview]]
+- [[Ancient Qahur and the Twin-Reed Crowns]]
+- [[Qahur and the Gateway before Atheria]]
+- [[Package A - Sacred Basin and Gateway Canon Integration Review]]
 - [[Real-History Concordance]]

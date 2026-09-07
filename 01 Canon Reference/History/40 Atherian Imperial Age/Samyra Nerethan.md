@@ -14,11 +14,11 @@ tags: [world-historical-atlas, imperial-founding]
 ---
 # Samyra Nerethan
 
-Samyra Nerethan (392–350 BR) was the last independent queen of the gateway kingdom centred on Sarqen. She restored her position during a contested succession, maintained the country's importance to Atherian armies and pursued royal claims through alliances with Teren Casvilar and Darion Velsar. Thalion's conquest ended her dynasty's rule.
+**Samyra Nerethan** (392–350 BR) ruled the gateway kingdom of Sarqen during the wars that ended the Caleran republic. She recovered the throne after a contested succession, maintained the country's value to Atherian armies and pursued wider royal claims through alliances with Teren Casvilar and Darion Velsar. Her defeat by Aurelius Thalion in 350 BR ended the kingdom's independence.
 
 ## A country of surviving towns
 
-Samyra belonged to the fifth generation of the House of Nerethan. Its founder had arrived from Delkos as an Atherian harbour commander and married Hadrima of Esharat in 497 BR. Their descendants obtained hereditary recognition and governed a country whose lesser towns had survived the destruction of its former republican capital.
+Samyra belonged to the fifth generation of the House of Nerethan. Its founder had arrived from Delkos as an Atherian harbour commander and married Hadrima of Esharat in 497 BR. Hadrima's maternal grandmother Lemara had married the junior Qahuri prince Tazirun Zaheret around 548 BR. Samyra therefore inherited Sacred Basin kin and ceremonial customs through the women of Esharat, although this ancestry conferred no claim to a Qahuri crown. The Nerethan descendants obtained hereditary recognition and governed a country whose lesser towns had survived the destruction of its former republican capital.
 
 Sarqen, the enlarged Second Harbour, was the royal seat. Food came from cultivated districts, storage towns and longer commercial connections. The kingdom's resources depended on maintaining relations with people who remembered their communities' survival before the dynasty arose.
 
@@ -59,7 +59,7 @@ Samyra's dynasty ended while Sarqen remained a working port. Later royal memorie
 ## Further reading
 
 - [[The House of Nerethan]]
-- [[The Spared Towns and the Queen's Country]]
+- [[The Spared Towns and the Queen's Country|The Spared Towns and the Kingdom of Sarqen]]
+- [[Qahur and the Gateway before Atheria|Qahur and the Gateway, c. 2165–350 BR]]
 - [[The Wars of the Atherian Succession]]
 - [[Households of the Imperial Founding]]
-

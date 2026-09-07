@@ -23,7 +23,7 @@ public sealed class HttpAndComponentTests
         await using var vault = new FixtureVault(); await vault.Seed();
         await using var factory = new WebApplicationFactory<Program>().WithWebHostBuilder(b => b.UseContentRoot(AppRoot()).UseEnvironment("Production").UseSetting("Wiki:VaultRoot", vault.Root));
         using var client = factory.CreateClient();
-        foreach (var route in new[] { "/", "/browse", "/find?q=attar", "/reading-list", LinkResolver.PageUrl(FixtureVault.Source), "/resolve?target=Shared&from=" + Uri.EscapeDataString(FixtureVault.Source), "/health", "/wiki.css", "/wiki.js", "/reading.css", "/reading-core.js", "/reading.js", "/vendor/mermaid.min.js", "/_content/MudBlazor/MudBlazor.min.css", "/_content/MudBlazor/MudBlazor.min.js", "/_framework/blazor.web.js" })
+        foreach (var route in new[] { "/", "/browse", "/find?q=attar", "/reading-list", "/reviews", LinkResolver.PageUrl(FixtureVault.Source), "/resolve?target=Shared&from=" + Uri.EscapeDataString(FixtureVault.Source), "/health", "/wiki.css", "/wiki.js", "/reading.css", "/reading-core.js", "/reading.js", "/review-comments.js", "/vendor/mermaid.min.js", "/_content/MudBlazor/MudBlazor.min.css", "/_content/MudBlazor/MudBlazor.min.js", "/_framework/blazor.web.js" })
         {
             var response = await client.GetAsync(route); Assert.True(response.IsSuccessStatusCode, route + ": " + response.StatusCode);
         }
@@ -53,7 +53,7 @@ public sealed class HttpAndComponentTests
         using var context = new BunitContext();
         context.Services.AddSingleton(vault.Catalogue); context.Services.AddSingleton(vault.Renderer); context.Services.AddSingleton(vault.Paths);
         context.Services.AddSingleton(vault.Links); context.Services.AddSingleton<BaseLibrary>(); context.Services.AddSingleton<LibraryIndex>();
-        context.Services.AddScoped<ReadingLibrary>(); context.Services.AddSingleton<ArticlePreviews>();
+        context.Services.AddScoped<ReadingLibrary>(); context.Services.AddSingleton<ArticlePreviews>(); context.Services.AddSingleton(new ReviewCommentStore(System.IO.Path.Combine(vault.Root, "review-comments.json"), vault.Catalogue));
         context.Services.AddMudServices(); context.JSInterop.Mode = JSRuntimeMode.Loose;
         context.Services.GetRequiredService<Microsoft.AspNetCore.Components.NavigationManager>().NavigateTo(LinkResolver.PageUrl(FixtureVault.Source));
         var rendered = context.Render<Read>();

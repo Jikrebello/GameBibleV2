@@ -40,6 +40,14 @@ If package references change, run the restore command again before the launcher.
 - A change notice appears when the vault changes. Choose **Load latest version** to refresh an open article; automatic indexing does not replace text underneath you.
 - **Open in Obsidian** hands the original article to the installed Obsidian application.
 
+## Review comments
+
+Select words, a sentence or a paragraph in any article and choose **Comment** beside the selection. The reader keeps the exact quoted text, its surrounding context and its position in the article, then displays the passage with a persistent highlight. **Review notes** opens that article’s comment drawer; clicking a highlight opens its attached note.
+
+**Review comments** in the left navigation opens the whole-vault inbox. Comments can be resolved, reopened or deleted there and beside the article. **Copy open review brief** produces a compact list of source paths, selected passages and requested changes. You can also ask Codex to read the open review comments directly and apply them to the Markdown.
+
+Comments are stored locally in the ignored file `App_Data/review-comments.json`. They do not alter, annotate or duplicate the source Markdown, and they are unavailable on another computer unless that local file is copied. If an article changes, quote and context matching attempts to restore each highlight; the drawer labels comments made against an older source revision. A moved or removed source remains in the inbox under its recorded path rather than being silently reassigned.
+
 ## Supported in this pass
 
 Markdown prose, tables, footnotes, callouts, wikilinks and aliases, relative Markdown links, vault-local absolute links, heading links, stable Obsidian block IDs, local images/SVG maps/PDF links, Mermaid diagrams, and note/heading/block embeds. Embeds stop at cycles, four nested documents or a per-article budget of thirty expansions. Missing sections and unsupported attachments are reported explicitly.
@@ -102,6 +110,8 @@ When the launcher-owned Release reader is running, use `dotnet test tests/WorldE
 11. Change the Reading settings, bookmark an article, and reload. Check the saved shelf and optional position restoration.
 12. Pause on or keyboard-focus an article link; dismiss its preview with Escape. Enlarge a map, try the arrow/zoom controls, then close it.
 13. Open print preview for a long article and a dense table. Repeat the reading route in a narrow window.
+
+14. Select a sentence in an article, attach a review comment, reload the page and open the highlighted note. Visit **Review comments**, copy the open review brief, resolve the note and check it under **Show resolved comments**.
 
 All three planned passes are implemented. Browser editing, public/player-safe publishing, accounts, AI-generated summaries and automatic lore corrections remain outside this reader.
 

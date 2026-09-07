@@ -17,6 +17,7 @@ public sealed class ReadingComponentTests
         var context = new BunitContext(); context.JSInterop.Mode = JSRuntimeMode.Loose;
         context.Services.AddMudServices(); context.Services.AddSingleton(vault.Catalogue); context.Services.AddSingleton(vault.Links); context.Services.AddSingleton(vault.Paths); context.Services.AddSingleton(vault.Renderer);
         context.Services.AddSingleton<BaseLibrary>(); context.Services.AddSingleton<LibraryIndex>(); context.Services.AddScoped<ReadingLibrary>(); context.Services.AddSingleton<ArticlePreviews>();
+        context.Services.AddSingleton(new ReviewCommentStore(System.IO.Path.Combine(vault.Root, "review-comments.json"), vault.Catalogue));
         context.JSInterop.Setup<ReadingSnapshot?>("worldEgg.reading.load", _ => true).SetResult(saved ?? new());
         context.JSInterop.Setup<bool>("worldEgg.reading.save", _ => true).SetResult(true);
         context.Services.GetRequiredService<NavigationManager>().NavigateTo(route); return context;
@@ -99,6 +100,34 @@ public sealed class ReadingComponentTests
         component.FindAll("button").Single(b => b.TextContent.Trim() == "Copy source path").Click(); component.WaitForAssertion(() => Assert.Contains("Source path copied.", component.Markup));
         component.FindAll("button").Single(b => b.TextContent.Trim() == "Print").Click(); Assert.Single(context.JSInterop.Invocations["worldEgg.reading.print"]);
         Assert.Contains(id, component.Find(".print-source").TextContent);
+    }
+    [Fact] public async Task Selected_prose_can_receive_a_persistent_comment_without_changing_markdown()
+    {
+        await using var vault = new FixtureVault(); await vault.Seed(); var sourcePath = System.IO.Path.Combine(vault.Root, FixtureVault.Source); var before = File.ReadAllBytes(sourcePath);
+        using var context = Context(vault, LinkResolver.PageUrl(FixtureVault.Source)); var component = context.Render<Read>();
+        await component.InvokeAsync(() => component.Instance.SelectionChanged(new ReviewSelection
+        {
+            ExactText = "ordinary beginning", SelectedText = "ordinary beginning", Prefix = "An ", Suffix = ".", StartOffset = 3, EndOffset = 21, X = 40, Y = 50
+        }));
+        component.FindAll("button").Single(x => x.TextContent.Trim() == "Comment").Click();
+        component.Find("textarea").Input("Explain who made this decision and what it cost.");
+        component.FindAll("button").Single(x => x.TextContent.Trim() == "Add comment").Click();
+        component.WaitForAssertion(() => Assert.Contains("Explain who made this decision", component.Markup));
+        var stored = await context.Services.GetRequiredService<ReviewCommentStore>().ListAsync(FixtureVault.Source, false);
+        Assert.Single(stored); Assert.Equal("ordinary beginning", stored[0].Anchor.SelectedText); Assert.Equal(before, File.ReadAllBytes(sourcePath));
+        Assert.Contains("worldEgg.annotations.attach", context.JSInterop.Invocations.Select(x => x.Identifier));
+    }
+
+    [Fact] public async Task Review_inbox_groups_notes_and_links_back_to_their_exact_article_comment()
+    {
+        await using var vault = new FixtureVault(); await vault.Seed(); using var context = Context(vault, "/reviews");
+        var store = context.Services.GetRequiredService<ReviewCommentStore>();
+        var note = await store.AddAsync(FixtureVault.Source, new("ordinary beginning", "ordinary beginning", "An ", ".", 3, 21), "Give this paragraph a clearer opening.");
+        var component = context.Render<Reviews>();
+        Assert.Contains("Give this paragraph a clearer opening.", component.Markup);
+        Assert.Contains("review=" + note.Id, component.Find("a.review-open-article").GetAttribute("href"));
+        component.FindAll("button").Single(x => x.TextContent.Trim() == "Resolve").Click();
+        component.WaitForAssertion(() => Assert.Contains("There are no open review comments", component.Markup));
     }
     [Fact] public async Task Block_previews_do_not_include_later_paragraphs_or_invent_a_missing_passage()
     {

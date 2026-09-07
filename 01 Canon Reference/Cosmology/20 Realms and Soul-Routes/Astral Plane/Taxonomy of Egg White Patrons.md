@@ -33,6 +33,8 @@ Creator language may call these liches, deathless, or undying leaseholders. Each
 
 Human self-binding remains objectively evil even when voluntary. Breaking a true binding resumes the soul-road.
 
+The [[The White Measure and the Second Houses|White Measure]] supplies the best-attested ancient family of `bound-human-soul` Patrons. Meresha, Khaseret and Tamekha each preserved one complete human soul through an embalmed body and a private Egg White estate. Their inhabitants require separate classification: Hesenu remained a captive human soul, while copied servants and estate offices were never transformed into people by resemblance alone. Nemeret's failed house shows the opposite case, in which the human soul departed and a dependent Greed Mask later occupied the surviving office.
+
 ## Drift-Rewritten Owners
 
 [[Driftkin]] individuals, processions, and refuges may lease routes or shelter. They have no routable human souls but may possess full moral agency. Their communities are not automatically patrons and do not form one Astral nation.

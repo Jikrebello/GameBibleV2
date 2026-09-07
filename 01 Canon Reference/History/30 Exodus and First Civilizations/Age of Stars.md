@@ -18,52 +18,15 @@ tags: []
 ---
 # Age of Stars
 
-The Age of Stars is the late pre-imperial Atherian age. It begins when rival Atherian city-states turn star cults, civic law, archives, roads, and military discipline into a shared civilizational project.
+The **Age of Stars**, approximately 800–350 BR, is the period in which rival Atherian cities developed a shared language of civic law, astronomy, roads, military service and public religion. The name comes from the star cults that supplied common festivals, divine genealogies and symbols of office. Older city loyalties remained powerful, but rulers and travellers could increasingly describe the Atherian world as one civilisation.
 
-## Atherian Synthesis
+The synthesis drew upon Giant astronomy, memories of the Exodus, local civic law and the experience of maritime exchange. Caleran's [[The Common Sky and the Formation of Astratheon|Common Sky settlement]] had already joined maritime and inland worship in royal ceremony around 1000–950 BR. Republican patrons expanded this settlement by funding shared festivals, arranging local founders within the Family of Stars and translating civic calendars into a common reckoning.
 
-The Atherians do not invent civilization from nothing. They synthesize older fragments:
+## Making a civilisation out of rivals
 
-- Giant astronomy without open Giant worship;
-- Exodus memory without full obedience to the Prophet;
-- city law hardened into civic identity;
-- archive culture turned into legitimacy;
-- roads and ports turned into military destiny;
-- star rites turned into public order.
+Older cities retained their own founders, rivalries and ceremonies throughout the Age of Stars. Scholars fitted some of those founders into kinship stories, placed formerly incompatible gods within a pantheon and translated local calendars into larger reckonings.
 
-## Star Pantheon Formation
-
-The Star Pantheon gives Atherian cities a cosmic language for hierarchy, duty, beauty, fate, and conquest. It lets local city cults be absorbed without requiring every region to abandon its own heroes and ancestors at once.
-
-Caleran's [[The Common Sky and the Formation of Astratheon|Common Sky settlement]] had begun this city's shared royal ceremonies around 1000–950 BR. The Age of Stars brought further civic compilation and republican patronage. Its later attempts to arrange local founders and powers into a single order did not originate every cult or repeat the royal couple's settlement unchanged.
-
-## Imperial Destiny
-
-By the end of this age, Atherian cities increasingly believe they are not merely surviving the world after the Giants. They believe they are meant to organize it.
-
-## Inherited Wound
-
-Atheria's genius is also its temptation: it can preserve law, beauty, infrastructure, and memory while converting spiritual loss into civic grandeur.
-
-Several late Star annals preserve traces of a campaign whose district, commanders, and road cannot be placed together. Public historians treat the gaps as censorship or copy error. The complete event remains author-only.
-
-## Navigation
-
-- [[Timeline MOC]]
-- [[Age of City-States]]
-- [[The First Atherian City-States]]
-- [[Historical Spine of the Known World]]
-- [[The Atherian Empire – Age of Glory]]
-
-## Atlas narrative
-
-The following account distinguishes established history from the received stories named within it.
-
-## Making a civilization out of rivals
-
-The Age of Stars, c. 800–350 BR, was the period in which Atherian civic worlds increasingly recognized a common language of roads, law, astronomy, military service and public beauty. It did not erase older cities. Their rival founders were fitted into kinship stories; their incompatible gods became members of a pantheon; their local calendars were translated into larger reckonings.
-
-The synthesis was attractive because it worked. Travellers could move farther, merchants compare measures and rulers recruit beyond one household. It was also coercive. Standard measures became quotas. Surveys marked settlements for removal. A road that carried food one year carried a punitive column the next.
+The synthesis brought practical advantages. Travellers could move farther, merchants compare measures and rulers recruit beyond one household. The same systems also enlarged state coercion. Standard measures became quotas, surveys marked settlements for removal and roads built to carry food also carried punitive columns.
 
 ## The cost of the measured world
 
@@ -79,15 +42,15 @@ Restoration did not restore every dead person or every lost field. Returnees fou
 
 ## Stars, rulers and false ancestors
 
-Scholars gave older powers coherent family histories, and rulers used those histories to naturalize civic hierarchy. The manufactured Family of Stars forced some households to change festival obligations and suppressed tales of divine-generation mutilation beneath elegant images. Old conflicts were not made gentle because their new statues were beautiful.
+Scholars gave older powers coherent family histories, and rulers used those histories to naturalise civic hierarchy. The manufactured Family of Stars forced some households to change festival obligations. Elegant public images concealed older accounts of divine-generation mutilation, imprisonment and war.
 
 Some legends genuinely preserve local manifestations; others join unrelated events. None proves that the stars commissioned an empire. Nor does a functioning relic authorize every person who carries it. In one cycle a profaned sacred object killed its handler while refusing the conquest for which the ruler wanted to use it.
 
 ## Toward unification
 
-The Caleran republic's institutions emerged from one part of this city world. Citizenship became increasingly civic and conditional rather than a claim to pure descent. Roads, colonies and provincial service allowed unequal incorporation on a scale older war-settlement houses could not manage.
+The Caleran republic's institutions emerged from one part of this city world. Citizenship became a civic status acquired through descent, grant, service and incorporation. Roads, colonies and provincial service allowed Caleran to absorb communities on a scale beyond the older war-settlement houses, although rights remained unequal.
 
-The transition leads to [[Atherian Imperial Age]] and Aurelius Thalion's later role. It does not make him founder of every preceding Atherian civilization. [[The Erasure of Orthea]] remains its own catastrophe; the map-prison episode and the manufactured pantheon do not explain the Unwritten Worm.
+By 350 BR, the Caleran republic possessed extensive roads, overseas territories, veteran clients and commanders whose wealth depended upon provincial war. These institutions supplied the power used by Aurelius Thalion during the founding of the [[Atherian Imperial Age]]. The older cities and eastern states retained histories extending far beyond Caleran's authority.
 
 ## Atlas navigation
 
@@ -97,8 +60,10 @@ The transition leads to [[Atherian Imperial Age]] and Aurelius Thalion's later r
 ## Historical articles in this age
 
 - [[The Celestial Compact and the Caleran Republic]] — twelve-city cooperation, developing republican government and the pressures preceding Thalion.
-- [[The Gateway Republic]] and [[The Gateway Wars]] — the maritime rival, alliance-breaking invasion and final destruction of the sacrificial capital, c. 650–520 BR.
-- [[The Spared Towns and the Queen's Country]] — the surviving communities and royal recovery after the wars.
+- [[The Gateway Republic]] and [[The Gateway Wars]] — Qarzeth's maritime association, the Ordan commands, alliance-breaking invasion and final destruction of the sacrificial capital, c. 650–520 BR.
+- [[The Three Collections and the Fall of Qarzeth]] — the child-taking institution, local resistance, Caleran debate and destruction of the capital.
+- [[The Spared Towns and the Queen's Country|The Spared Towns and the Kingdom of Sarqen]] — the surviving communities and royal recovery after the wars.
+- [[Ancient Qahur and the Twin-Reed Crowns]] and [[Qahur and the Gateway before Atheria|Qahur and the Gateway, c. 2165–350 BR]] — the neighbouring river crowns, High-Road pressure and their relationship with the Gateway country.
 - [[Food, Work and Citizenship in Republican Atheria]] — production, service, civic belonging and ordinary pleasures.
 - [[The Arqeshite River Empire]]
 - [[The Erasure of Orthea]]

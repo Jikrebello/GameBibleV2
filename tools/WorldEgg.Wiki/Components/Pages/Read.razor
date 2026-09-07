@@ -1,10 +1,11 @@
 @page "/wiki"
-@implements IDisposable
+@implements IAsyncDisposable
 @inject VaultCatalogue Catalogue
 @inject ArticleRenderer Renderer
 @inject VaultPaths Paths
 @inject IJSRuntime JS
 @inject ReadingLibrary Reading
+@inject ReviewCommentStore Reviews
 
 @if (_document is null)
 {
@@ -23,6 +24,7 @@ else
     @if (_document.Error is not null) { <MudAlert Severity="Severity.Warning">@_document.Error</MudAlert> }
     <div class="article-actions"><div class="reader-actions">
         <MudButton Size="Size.Small" StartIcon="@(Reading.IsBookmarked(_document.Id) ? Icons.Material.Filled.Bookmark : Icons.Material.Outlined.BookmarkBorder)" OnClick="Bookmark" aria-pressed="@Reading.IsBookmarked(_document.Id).ToString().ToLowerInvariant()">@(Reading.IsBookmarked(_document.Id) ? "Bookmarked" : "Bookmark")</MudButton>
+        <MudButton Size="Size.Small" StartIcon="@Icons.Material.Outlined.RateReview" OnClick="ToggleReviews" aria-expanded="@_reviewOpen.ToString().ToLowerInvariant()" aria-controls="review-panel">Review notes @(_comments.Count(x => !x.Resolved) > 0 ? $"({_comments.Count(x => !x.Resolved)})" : "")</MudButton>
         <MudButton Size="Size.Small" OnClick="CopySource">Copy source path</MudButton><MudButton Size="Size.Small" OnClick="Print">Print</MudButton>
         <a class="source-action" href="@ObsidianUrl(_document.Id)">Open in Obsidian ↗</a>
         @if (_copyMessage is not null) { <span role="status" class="quiet">@_copyMessage</span> }
@@ -36,12 +38,65 @@ else
             <aside class="article-toc" aria-label="Article contents"><details open><summary>On this page</summary><nav>@foreach (var heading in _rendered.Headings) { <a class="toc-level-@heading.Level" href="@(LinkResolver.PageUrl(_document.Id) + "#" + Uri.EscapeDataString(heading.Id))">@heading.Text</a> }</nav></details></aside>
         }
     </div>
+    @if (_selection is not null && !_composerOpen)
+    {
+        <button type="button" class="selection-comment-button" style="left:@(_selection.X.ToString(System.Globalization.CultureInfo.InvariantCulture))px;top:@(_selection.Y.ToString(System.Globalization.CultureInfo.InvariantCulture))px" @onclick="BeginComment">Comment</button>
+    }
+    @if (_reviewOpen)
+    {
+    <aside id="review-panel" class="review-panel is-open" aria-label="Article review comments">
+        <header>
+            <div><p class="eyebrow">Editorial review</p><h2>Comments</h2></div>
+            <MudIconButton Icon="@Icons.Material.Filled.Close" OnClick="CloseReviews" aria-label="Close review comments" />
+        </header>
+        <p class="review-intro">Select words or paragraphs in the article to attach a note. Comments stay in the local review inbox and never alter the Markdown.</p>
+        @if (_composerOpen && _selection is not null)
+        {
+            <section class="review-composer" aria-label="New review comment">
+                <blockquote>@Quote(_selection.SelectedText)</blockquote>
+                <MudTextField T="string" @bind-Value="_draft" Label="Your comment" Variant="Variant.Outlined" Lines="5" AutoFocus="true" Immediate="true" Counter="12000" MaxLength="12000" />
+                @if (_reviewError is not null) { <p class="review-error" role="alert">@_reviewError</p> }
+                <div class="review-card-actions"><MudButton OnClick="SaveComment" Variant="Variant.Filled" Color="Color.Primary" Disabled="@string.IsNullOrWhiteSpace(_draft)">Add comment</MudButton><MudButton OnClick="CancelComment">Cancel</MudButton></div>
+            </section>
+        }
+        <div class="review-filter"><label><input type="checkbox" @bind="_showResolved" /> Show resolved</label><a href="/reviews">Open review inbox</a></div>
+        @if (!_comments.Any(x => _showResolved || !x.Resolved))
+        {
+            <p class="review-empty">There are no @(_showResolved ? "" : "open ")comments on this article.</p>
+        }
+        else
+        {
+            <div class="review-cards">
+            @foreach (var comment in _comments.Where(x => _showResolved || !x.Resolved))
+            {
+                <section class="review-card @(comment.Resolved ? "is-resolved" : "") @(_focusedComment == comment.Id ? "is-focused" : "")" data-review-card="@comment.Id">
+                    <blockquote>@Quote(comment.Anchor.SelectedText)</blockquote>
+                    <p class="review-comment-text">@comment.Comment</p>
+                    <p class="review-card-meta">@comment.CreatedUtc.ToLocalTime().ToString("d MMM yyyy, HH:mm")@if (_document.ModifiedUtc > comment.SourceModifiedUtc.AddSeconds(1)) { <span> · source edited since note</span> }</p>
+                    <div class="review-card-actions">
+                        <MudButton Size="Size.Small" OnClick="() => SetResolved(comment, !comment.Resolved)">@(comment.Resolved ? "Reopen" : "Resolve")</MudButton>
+                        @if (_deleteCandidate == comment.Id)
+                        {
+                            <MudButton Size="Size.Small" Color="Color.Error" OnClick="() => DeleteComment(comment)">Delete note</MudButton><MudButton Size="Size.Small" OnClick="CancelDelete">Cancel</MudButton>
+                        }
+                        else
+                        {
+                            <MudButton Size="Size.Small" OnClick="() => ConfirmDelete(comment)">Delete</MudButton>
+                        }
+                    </div>
+                </section>
+            }
+            </div>
+        }
+    </aside>
+    }
     @if (_rendered?.Issues.Length > 0) { <details class="reading-notes"><summary>Reading notes (@_rendered.Issues.Length)</summary><p>These are source-link or compatibility notices, not changes to the lore.</p><ul>@foreach (var issue in _rendered.Issues.Distinct().Take(50)) { <li>@issue.Kind: @issue.Target</li> }</ul></details> }
     <RelatedArticles Id="@_document.Id" />
 }
 
 @code {
     [SupplyParameterFromQuery(Name = "path")] public string? Path { get; set; }
+    [SupplyParameterFromQuery(Name = "review")] public string? Review { get; set; }
     private WikiDocument? _document;
     private RenderedArticle? _rendered;
     private bool _changed;
@@ -50,17 +105,32 @@ else
     private int _articleKey;
     private string? _loadedPath;
     private string? _copyMessage;
+    private ReviewComment[] _comments = [];
+    private ReviewSelection? _selection;
+    private DotNetObjectReference<Read>? _annotationReference;
+    private bool _reviewOpen;
+    private bool _composerOpen;
+    private bool _showResolved;
+    private bool _refreshAnnotations;
+    private string _draft = "";
+    private string? _reviewError;
+    private Guid? _focusedComment;
+    private Guid? _deleteCandidate;
     protected override void OnInitialized() { Catalogue.Changed += VaultChanged; Reading.Changed += PreferencesChanged; }
-    protected override void OnParametersSet()
+    protected override async Task OnParametersSetAsync()
     {
-        if (_loadedPath != Path || _document is null) { _loadedPath = Path; Load(true); }
+        if (_loadedPath != Path || _document is null)
+        {
+            _loadedPath = Path; Load(true); await LoadComments();
+            if (Guid.TryParse(Review, out var focused) && _comments.Any(x => x.Id == focused)) { _focusedComment = focused; _reviewOpen = true; }
+        }
     }
     private void Load(bool reset)
     {
         _document = Path is null ? null : Catalogue.Current.Documents.GetValueOrDefault(Path);
         _rendered = _document is null ? null : Renderer.Render(_document);
         _changed = false; _initializeArticle = true; _resetScroll = reset; _articleKey++;
-        _copyMessage = null;
+        _copyMessage = null; _selection = null; _composerOpen = false; _focusedComment = null; _deleteCandidate = null;
     }
     private void Reload() => Load(false);
     private void VaultChanged() => _ = InvokeAsync(() => { _changed = true; StateHasChanged(); });
@@ -72,11 +142,46 @@ else
             await Reading.InitializeAsync();
             if (document is not null) await Reading.VisitAsync(document);
             if (_document?.Id == document?.Id) await JS.InvokeVoidAsync("worldEgg.articleReady", reset, document?.Id, Reading.Current.Preferences, Reading.StorageKey);
+            if (document is not null)
+            {
+                _refreshAnnotations = false;
+                _annotationReference ??= DotNetObjectReference.Create(this);
+                await JS.InvokeVoidAsync("worldEgg.annotations.attach", _annotationReference, document.Id, _comments);
+                if (_focusedComment is not null) await JS.InvokeVoidAsync("worldEgg.annotations.focusComment", _focusedComment.Value.ToString());
+            }
         }
+        else if (_refreshAnnotations) { _refreshAnnotations = false; await JS.InvokeVoidAsync("worldEgg.annotations.refresh", (object)_comments); }
     }
     private Task Bookmark() => _document is null ? Task.CompletedTask : Reading.ToggleBookmarkAsync(_document);
     private async Task CopySource() { if (_document is not null) _copyMessage = await JS.InvokeAsync<bool>("worldEgg.reading.copy", _document.Id) ? "Source path copied." : "Could not copy automatically. The path is in About this source."; }
     private Task Print() => JS.InvokeVoidAsync("worldEgg.reading.print").AsTask();
+    private async Task LoadComments() { _comments = _document is null ? [] : await Reviews.ListAsync(_document.Id); _refreshAnnotations = true; }
+    private void ToggleReviews() { _reviewOpen = !_reviewOpen; _reviewError = null; }
+    private void CloseReviews() { _reviewOpen = false; _composerOpen = false; _reviewError = null; _deleteCandidate = null; }
+    private void BeginComment() { if (_selection is null) return; _reviewOpen = true; _composerOpen = true; _draft = ""; _reviewError = null; }
+    private async Task CancelComment() { _composerOpen = false; _draft = ""; _reviewError = null; await JS.InvokeVoidAsync("worldEgg.annotations.clearSelection"); }
+    private async Task SaveComment()
+    {
+        if (_document is null || _selection is null || string.IsNullOrWhiteSpace(_draft)) return;
+        try
+        {
+            await Reviews.AddAsync(_document.Id, _selection.ToAnchor(), _draft);
+            _composerOpen = false; _draft = ""; _reviewError = null; await LoadComments(); await JS.InvokeVoidAsync("worldEgg.annotations.clearSelection");
+        }
+        catch (Exception ex) when (ex is ArgumentException or InvalidOperationException or IOException) { _reviewError = ex.Message; }
+    }
+    private async Task SetResolved(ReviewComment comment, bool resolved) { await Reviews.SetResolvedAsync(comment.Id, resolved); _focusedComment = null; await LoadComments(); }
+    private void ConfirmDelete(ReviewComment comment) => _deleteCandidate = comment.Id;
+    private void CancelDelete() => _deleteCandidate = null;
+    private async Task DeleteComment(ReviewComment comment) { await Reviews.DeleteAsync(comment.Id); _deleteCandidate = null; _focusedComment = null; await LoadComments(); }
+    [JSInvokable] public Task SelectionChanged(ReviewSelection? selection) => InvokeAsync(() => { _selection = selection; if (selection is null && !_composerOpen) _reviewError = null; StateHasChanged(); });
+    [JSInvokable] public async Task OpenReviewComment(string id)
+    {
+        if (!Guid.TryParse(id, out var parsed)) return;
+        _focusedComment = parsed; _reviewOpen = true; StateHasChanged();
+        await Task.Yield(); await JS.InvokeVoidAsync("worldEgg.annotations.focusComment", id);
+    }
+    private static string Quote(string text) => text.Length <= 420 ? text : text[..417] + "…";
     private void PreferencesChanged() => _ = InvokeAsync(StateHasChanged);
     private string ObsidianUrl(string id) => "obsidian://open?vault=" + Uri.EscapeDataString(Paths.Name) + "&file=" + Uri.EscapeDataString(id);
     private static IEnumerable<(string Label, string Url)> Breadcrumbs(string folder)
@@ -84,5 +189,13 @@ else
         var current = "";
         foreach (var segment in folder.Split('/')) { current = current.Length == 0 ? segment : current + "/" + segment; yield return (segment, "/browse?folder=" + Uri.EscapeDataString(current)); }
     }
-    public void Dispose() { Catalogue.Changed -= VaultChanged; Reading.Changed -= PreferencesChanged; }
+    public async ValueTask DisposeAsync()
+    {
+        Catalogue.Changed -= VaultChanged; Reading.Changed -= PreferencesChanged;
+        if (_annotationReference is not null)
+        {
+            try { await JS.InvokeVoidAsync("worldEgg.annotations.detach"); } catch (JSDisconnectedException) { }
+        }
+        _annotationReference?.Dispose();
+    }
 }

@@ -88,6 +88,27 @@ The republic's broad location and the common spared-town history are now integra
 
 [[Atherian Palace and Maritime Histories - Integration Review]] records the authorised selection. Read [[Palace Survivors and the Southern Heroic Age]] and [[The Siege and the Returnings]], followed by [[The Gateway Republic]], [[The Gateway Wars]] and [[The Spared Towns and the Queen's Country]]. The Qabir–Zanthir broad location, long aftermath, siege cycle, republican wars and common royal inheritance are integrated. The queen's precise dynasty and both Thalion alternatives remain open. Earlier proposal wording and validation totals in the research describe their own deliveries, not the current canon status of every possible branch.
 
+## Ancient World histories — shared programme and Package A
+
+The [[Ancient World Development Programme]] schedules connected regional histories from the Great Unbinding to Atherian unification. The [[Ancient World Synchronisation Ledger]] keeps their periods, ancestry, trade, warfare and relational geography on one shared calendar while the present map remains provisional.
+
+Package A was approved and promoted to canon on 7 September 2026. [[Package A - Sacred Basin and Gateway Canon Integration Review]] records the fixed history, identity rulings and deliberately open matters. The following files remain the source and development shelf behind the canonical articles:
+
+- [[Historical Atlas of Ancient Qahur]] follows the Sacred Basin from the Years of Loose Water through the Senareth, Yasharet, Aramen and Zaheret houses, the Single Radiance crisis, foreign intervention and the divided balance of 350 BR.
+- [[Sacred Basin Houses, Cities and Ordinary Life]] develops Tenaret, Qemaret, Sakhret, Aseret and Isethar alongside cultivation, craft, labour, family life and recurring historical figures.
+- [[Historical Atlas of the Gateway Country]] gives Qarzeth and its country a connected history from mixed coastal settlement through the Republic, three wars, destruction, spared towns and the Kingdom of Sarqen.
+- [[The Gateway Republic - Country, Government and Households]] explains civic office, dependent towns, households, work, military composition and religion.
+- [[The Three Gateway Wars and the Rope Camp Revolt]] provides the named campaigns, commanders, supplies, resistance and consequences of c. 650–520 BR.
+- [[The Child Collections and the Destruction of Qarzeth]] follows the sacrificial establishment, its internal opponents, Caleran debate, rescue, sack and salting without obscuring either the children killed or the conquerors' crimes.
+- [[The Spared Towns and the Nerethan Settlement]] connects the 520 BR destruction to the existing Nerethan dynasty through Esharat, Sarqen and Hadrima's proposed junior Qahuri maternal line.
+- [[Qahur and the Gateway - River, Sea and Dynastic Relations]] establishes material exchange, divided wartime interests and the limits of later royal claims.
+- [[Package A - Sources, Collisions and Canon Review]] records sources, incorporated additions, non-identity rulings and alternatives considered before promotion.
+
+### Qahuri mortuary-economy follow-up
+
+- [[Druma and the Prophecies of Kalistrade - Wealth, Necropolis and the Qahuri Dead]] studies Pathfinder's Kalistocratic wealth discipline and concealed funerary purpose. Its accepted translation is the **White Measure**: a human Qahuri movement descended from Ishkatari tomb practice without sharing Giant continuity. A successful rite binds the founder's complete human soul to the embalmed necropolis, opens a private Egg White demiplane and permits the founder to act as an extradimensional Patron. Failed and parasitised tombs may instead contain speaking offices, copied roles or Greed Masks.
+- [[The White Measure and the Second Houses of Ancient Qahur]] develops Meresha's Court of Unspent Lamps, Khaseret's House of the Returning Cargo, Tamekha's Copper Orchard, Hesenu's captivity and Nemeret's counterfeit house. The public history is now [[The White Measure and the Second Houses]].
+
 ## Northern and eastern antiquity — research before Package 6
 
 These sixteen author-only studies prepare an equal-depth history for the proto-Jirahar, proto-Ahdari, Tarkhan, Qahuri, Arqeshite, eastern-highland and Gateway worlds from the Glass refuge through the later Tarkhan Horse Centuries. They leave the Two Fissions and existing Gateway canon intact while proposing a regional **Breaking of the Bronze Roads**, c. 1450–1325 BR. This is a collapse of exchange, palaces and political trust several centuries after the Great Unbinding, not a second universal Giant fall.

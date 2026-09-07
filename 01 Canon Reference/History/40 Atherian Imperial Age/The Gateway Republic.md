@@ -14,21 +14,21 @@ tags: [world-historical-atlas, atherian-formation, maritime-republic]
 ---
 # The Gateway Republic
 
-The Gateway Republic was a maritime state in the country of the later Qabir–Zanthir gateway. Its principal port connected cultivated districts and desert approaches with Thalassian shipping. A council of influential households, civic magistrates and a citizen assembly governed an association of ports and inland communities whose obligations varied considerably. Its wars with the Caleran republic, approximately 650–520 BR, contributed to Atheria's growth as an overseas power and ended with the destruction of the gateway capital.
+The **Gateway Republic** is the conventional name for the maritime state centred on **Qarzeth** between approximately 1200 and 520 BR. Qarzeth connected cultivated districts and desert approaches with Thalassian shipping. Two elected Harbour Judges, several Council Houses and an assembly of recognised citizens governed an unequal association of ports and inland communities. The republic's wars with Caleran, approximately 650–520 BR, ended with the destruction of its capital.
 
-The country's population survived in lesser towns, agricultural districts and communities formed by refugees. Those survivors provided the foundations of [[The Spared Towns and the Queen's Country|the later royal country]]. Their history continued through a substantial change in government and in their relationship with Atheria.
+The country's population survived in lesser towns, agricultural districts and communities formed by refugees. These settlements reorganised their food supply, harbours and defence after the capital fell, and eventually accepted a royal government centred on Sarqen.
 
 ## Formation of the coastal people
 
-The republic's society developed after the northern fission that separated the emerging Jirahar and Ahl-e-Ahd traditions. Between about 1700 and 1200 BR, households from the proto-Ahdari world repeatedly moved into established shore settlements. They brought practices of defended wells, guest protection and restitution. Local families contributed cultivation, knowledge of the coast and older religious traditions. Further maritime immigrants and freed captives joined them over subsequent generations.
+The republic's society developed among the peoples of the western well country and the inner coast after the northern fission. Between about 1700 and 1200 BR, proto-Ahdari households repeatedly moved into established shore settlements. They brought practices of defended wells, guest protection and restitution. Local families contributed cultivation, knowledge of the coast and older religious traditions. Further maritime immigrants and freed captives joined them over subsequent generations.
 
 Water and food made the landings valuable to travellers. Households cultivated nearby ground, maintained storage and supplied vessels moving along the inner sea. Families able to finance a voyage or repair a landing acquired influence among people whose work depended on those facilities. The wealthiest owned agricultural land as well as shares in ships.
 
-A mixed coastal society emerged through residence, work and marriage. Descent from the Near-Glass peoples remained one part of its history. Language, religious practice and civic standing changed through the relationships made on the coast. This development preceded Mujalib's revelation by many centuries; the modern Covenant and the emirate of Zanthir belong to later periods.
+A mixed coastal society emerged through residence, work and marriage. Descent from the Near-Glass peoples formed one strand of its ancestry. Language, religious practice and civic standing developed through relationships made on the coast, particularly between ship households, cultivated districts and the communities that maintained the desert roads.
 
 ## Capital and dependent towns
 
-Between about 1200 and 850 BR, the principal harbour became the centre of an unequal association. Its prominence rested on storage, shipping and the ability of its leading households to maintain fleets and garrisons. Dependent communities included cultivated districts supplying food, smaller ports providing crews and towns which retained their own elders and cults.
+Between about 1200 and 850 BR, Qarzeth became the centre of an unequal association. Its prominence rested on storage, shipping and the ability of its leading households to maintain fleets and garrisons. **Sarqen** and **Hazreth** supplied pilots and repair yards; **Esharat** and **Belqara** controlled cultivated ground and overland carriage; **Tammur** and **Oresh** guarded distant commercial positions; and **Hadrath** remained an allied border kingdom with interests of its own. These communities retained different elders, cults and privileges even when Qarzeth claimed authority over them.
 
 Some joined through agreements promising protection or access to markets. Others lost independence after defeat. Their duties consequently differed. A harbour with experienced pilots could bargain over service, while an agricultural district held by a garrison faced demands enforced by soldiers. The capital's prosperity depended on contributions from inhabitants whose influence over its decisions was limited.
 
@@ -36,11 +36,11 @@ The cultivated hinterland gave this maritime state resources beyond the earnings
 
 ## Civic government and command
 
-Elected civic heads managed public business alongside a council of established households and an assembly of recognised citizens. Campaign commands were appointed separately. Military leaders therefore needed civic resources while acquiring followers and clients whose loyalty could extend beyond a particular appointment.
+The two Harbour Judges managed public business alongside the Council Houses and the assembly. Campaign commands were appointed separately. Military leaders therefore needed civic resources while acquiring followers and clients whose loyalty could extend beyond a particular appointment.
 
 Prominent houses held influence through property, credit, kinship and religious patronage. Their members could finance shipping, provide stores or support a candidate for command. Assembly participation gave recognised citizens a public role, although poorer inhabitants, enslaved people and dependent communities had much less control over decisions affecting them.
 
-These institutions changed under military pressure. Defeat could make a council unable to pay the forces it had raised. A successful commander might obtain authority to collect revenue abroad and develop a following increasingly difficult to replace. The [[The Gateway Wars|payment revolt and later overseas command]] exposed both weaknesses during the republic's struggle with Caleran.
+These institutions changed under military pressure. Defeat could make the council unable to pay the forces it had raised. A successful commander might obtain authority to collect revenue abroad and develop a following increasingly difficult to replace. The [[The Gateway Wars|payment revolt and the commands of Meleq and Zamaret Ordan]] exposed both weaknesses during the republic's struggle with Caleran.
 
 ## Households and work
 
@@ -54,11 +54,11 @@ War disrupted these relationships on both sides of the sea. Returning crews expe
 
 The republic's worship drew together shore traditions, remembered desert practices and images inherited from older societies. Local communities retained different ceremonies even as the capital's public festivals attracted wider participation.
 
-One powerful establishment worshipped a bronze-faced ancestral provider and sacrificed children for the preservation of the city. Some leading families surrendered their own children, believing the deaths would protect their households. Others purchased children or used captives as substitutes. Officials extended the demands to dependent communities, where refusal could expose an entire household to punishment.
+One powerful establishment worshipped the **Bronze-Faced Provider**, a dependent Mask of Gluttony presented as an ancestral guardian. Its priesthood sacrificed children for the preservation of the city. Some leading families surrendered their own children, believing the deaths would protect their households. Others purchased children or used captives as substitutes. Officials extended the demands to dependent communities, where refusal could expose an entire household to punishment.
 
 The sacrifices were killings of living children. The provider's appearances encouraged further offerings by promising security that could always require another death. Priests organised the rites, officials supplied victims and civic patrons protected the establishment. Opposition also existed within the republic. Families hid children with relatives, temple workers fled with accounts of what they had witnessed, and some towns resisted collection parties.
 
-During the final decades, that opposition acquired an important place in relations with Atheria. People escaping the demands sought protection beyond the capital's reach. Their testimony and assistance contributed to the coalition which eventually destroyed the sacrificial establishment. Its history belongs to particular institutions and choices within the gateway society; the people of the spared towns preserved their own accounts of resistance and rescue.
+During the final decades, that opposition acquired an important place in relations with Atheria. **Ilya of Qarzeth**, a sanctuary store-worker, carried a damaged list of imprisoned children to Esharat. There the midwife **Sapha** organised carriers and farming households into a rescue route. Collectors killed Sapha's husband and took her daughter Neral, who was sacrificed in Qarzeth. Their testimony and practical knowledge contributed to the coalition which eventually destroyed the establishment. The people of the spared towns preserved their own accounts of resistance and rescue.
 
 ## Relations with Atheria
 
@@ -66,11 +66,12 @@ From about 850 BR, the gateway and the Atherian maritime cities alternated betwe
 
 The resulting wars required ships and supplies on a scale neither side could sustain without imposing heavy demands. After the first defeat, a payment revolt nearly destroyed the gateway government. A military household rebuilt its resources abroad and later invaded Caleran's allied country. The failure of that invasion left the republic with restricted military independence, followed by renewed cultivation and trade.
 
-The final war combined opposition to child sacrifice with rivalry over security, wealth and territory. In approximately 525–520 BR, Atherian forces besieged the capital, broke its sacrificial institutions and then burned, razed and heavily salted the city. They murdered and enslaved inhabitants during the sack. Lesser towns accepting the settlement escaped the capital's planned destruction and became the centres through which the country recovered.
+The final war combined opposition to child sacrifice with rivalry over security, wealth and territory. The Caleran speaker **Orsen Valeor** demanded the city's destruction; **Mera Castren** argued for compulsory closure of the sanctuary under inspection. In approximately 525–520 BR, Atherian forces besieged Qarzeth, broke its sacrificial institutions and then burned, razed and heavily salted the central city. They murdered, raped and enslaved inhabitants during the sack. Lesser towns accepting the settlement escaped Qarzeth's planned destruction and became the centres through which the country recovered.
 
 ## Further reading
 
 - [[The Gateway Wars]]
-- [[The Spared Towns and the Queen's Country]]
+- [[The Three Collections and the Fall of Qarzeth]]
+- [[The Spared Towns and the Queen's Country|The Spared Towns and the Kingdom of Sarqen]]
+- [[Qahur and the Gateway before Atheria|Qahur and the Gateway, c. 2165–350 BR]]
 - [[The Celestial Compact and the Caleran Republic]]
-- [[01 Canon Reference/Peoples and Cultures/Ahl-e-Ahd/60 Realms and Peoples/Emirate of Zanthir/Emirate of Zanthir Overview.md|The much later emirate of Zanthir]]

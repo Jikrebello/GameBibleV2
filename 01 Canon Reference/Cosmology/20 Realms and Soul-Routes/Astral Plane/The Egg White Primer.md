@@ -111,6 +111,8 @@ Lich is creator shorthand, not a continuity. Every apparent deathless person mus
 
 Memory, speech, and an anchored body never prove that a human soul remains. Human self-binding is objectively evil even when it produces an effective Astral patron.
 
+Ancient Qahur's [[The White Measure and the Second Houses|Second Houses]] are established examples. A successful rite caught one complete human soul at bodily death, bound it to an embalmed corpse and stabilised a small estate in the Egg White. The founder became a Patron only when that estate could lease shelter, storage, information or access. Failed houses sometimes preserved an office or attracted an Idol Mask after the human soul had already departed.
+
 ## Boundaries
 
 - Anchor-Lords are not elementals or genie nations.
@@ -128,4 +130,3 @@ Memory, speech, and an anchored body never prove that a human soul remains. Huma
 - [[Patrons and Astral Rent]]
 - [[Thin Spaces]]
 - [[Cosmology MOC]]
-

@@ -14,7 +14,7 @@ tags: [world-historical-atlas, imperial-founding]
 ---
 # The House of Nerethan
 
-The House of Nerethan ruled the gateway country from Sarqen, the enlarged port earlier histories call Second Harbour. Its founder came from the maritime Atherian city of Delkos and married into a family from Esharat, one of the towns spared when the former republican capital was destroyed. The dynasty's authority developed through that partnership, Atherian appointments and the recovery of cultivated land and shipping. Its last independent ruler was [[Samyra Nerethan]].
+The **House of Nerethan** ruled the Gateway country from Sarqen between 457 and 350 BR. Its founder descended from a Delkosi harbour commander and Hadrima of Esharat, whose family belonged to one of the towns spared when Qarzeth was destroyed. Their partnership joined Atherian military patronage to local land, shipping and kinship. The dynasty's last independent ruler was [[Samyra Nerethan]].
 
 The royal family inherited a country already changed by [[The Gateway Wars]]. The capital's sacrificial establishment had been destroyed, while lesser towns retained working wells, farms and ports. Refugees and returning captives joined communities whose households had their own claims to survival and resistance. Royal power had to be established among them.
 
@@ -22,7 +22,9 @@ The royal family inherited a country already changed by [[The Gateway Wars]]. Th
 
 Nerethan of Delkos was born around 525 BR and arrived as an Atherian harbour commander in 499 BR. His appointment concerned coastal defence, military provisions and the supervision of dependent towns. Officers and specialists accompanied him, but local pilots, cultivators and transport households provided the means to remain.
 
-Hadrima's family held cultivated land and a share in the storage and carrying trade of Esharat. The town lay inland from the coastal landings, close enough for its produce to reach them by cart and pack animal. Its households had sheltered children fleeing the old capital's collectors and had supplied passage during the final intervention. Some relatives prospered after the war; others lost people or property to the victorious army.
+Hadrima's family held cultivated land and a share in the storage and carrying trade of Esharat. The town lay inland from the coastal landings, close enough for its produce to reach them by cart and pack animal. Its households had sheltered children fleeing Qarzeth's collectors and had supplied passage during the final intervention. Some relatives prospered after the war; others lost people or property to the victorious army.
+
+Hadrima's mother **Hesara** had participated in the concealment of children during the Years of Three Collections. Hesara was the daughter of **Lemara of Esharat** and **Prince Tazirun Zaheret**, a younger son of a Qahuri royal house who settled in the Gateway country around 548 BR. The marriage connected Esharat to Sacred Basin kin and burial traditions without transferring a Qahuri crown. Later Nerethans used the relationship to strengthen their ceremonial standing; Qahuri genealogists continued to regard Tazirun as a prince who had left the Twin-Reed succession.
 
 Nerethan and Hadrima married in 497 BR. She brought credit, kinship and knowledge of local obligations to the governing household. She also resisted his officers' attempts to assign recovered fields to their own dependants. A settlement protected several cultivated holdings while confirming grants elsewhere. Compulsory repair work continued, and households with weaker patrons obtained less protection.
 
@@ -46,7 +48,9 @@ The next ruler, Olymes, succeeded in 408 BR. He cultivated eastern Atherian comm
 
 | Generation | Place in the dynasty |
 |---|---|
-| Nerethan of Delkos and Hadrima of Esharat | Incoming command joined to a spared-town family; marriage in 497 BR |
+| Lemara of Esharat and Tazirun Zaheret | Hadrima's maternal grandparents; Gateway carrying household joined to a junior Qahuri prince around 548 BR |
+| Hesara of Esharat | Their daughter; helped conceal children from Qarzeth's collectors; mother of Hadrima |
+| Nerethan of Delkos and Hadrima of Esharat | Incoming command joined to a spared-town and Qahuri-connected family; marriage in 497 BR |
 | Arenes, their son | Hereditary rule recognised in 457 BR |
 | Tavren, son of Arenes | Succeeded in 434 BR |
 | Olymes, son of Tavren | Succeeded in 408 BR; died in 375 BR |
@@ -77,8 +81,9 @@ The crown ended while the country remained inhabited. Royal dependants, port wor
 
 ## Further reading
 
-- [[The Spared Towns and the Queen's Country]]
+- [[The Spared Towns and the Queen's Country|The Spared Towns and the Kingdom of Sarqen]]
+- [[Qahur and the Gateway before Atheria|Qahur and the Gateway, c. 2165–350 BR]]
+- [[Ancient Qahur and the Twin-Reed Crowns]]
 - [[Samyra Nerethan]]
 - [[The Wars of the Atherian Succession]]
 - [[Households of the Imperial Founding]]
-

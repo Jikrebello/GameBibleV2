@@ -92,6 +92,16 @@ The deep tower-citadels borrow the useful fantasy image of a visible stronghold 
 
 **Recontextualization rule:** name the specific elders guilty in Isfir's death while rejecting hereditary guilt. Separate real financial institutions from ethnic conspiracy. Keep all direct historical and fantasy comparisons here; public prose uses Jirahar institutions.
 
+### Egypt, Carthage and Druma → Ancient Qahur and the Gateway country
+
+Ancient Qahur draws its long river chronology from several periods of Egyptian history: regional crowns and reunification, mixed Delta dynasties, violent southern restoration, temple estates, royal mortuary building, an exclusive solar experiment and repeated foreign rule. These elements are redistributed across the Sacred Basin's Orphaned communities and their relationship with Ishkatar's fallen riverworks. No historical Egyptian dynasty or deity appears as an in-world identity.
+
+The Gateway Republic draws its maritime economy, mixed recruitment, civic government and wars with Caleran from Phoenician and Carthaginian history, including the Punic Wars and the Mercenary War. Qarzeth's child sacrifice is historically real within the setting and strengthened by a dependent Gluttony Mask. The institution has named local opponents. Caleran destroys the central city while sparing lesser towns, then commits murder, rape and enslavement during the sack. This preserves both the moral urgency of ending sacrifice and the conqueror's culpability.
+
+The [[The White Measure and the Second Houses|White Measure]] takes its structural premise from Pathfinder's Druma and the Prophecies of Kalistrade: disciplined accumulation, bodily restraint, splendid mortuary preparation and concealed transformation after death. World Egg metaphysics changes the result. Successful founders retain their complete human souls, bind them unlawfully to embalmed bodies and create small Egg White demiplanes. They may act as Patrons through those estates. Failed rites can leave constructed offices or attract Greed Masks. Wealth therefore builds a prison and jurisdiction rather than purchasing heaven.
+
+**Recontextualisation rule:** public canon uses Qahuri dynasties, Gateway institutions and White Measure houses. Egyptian, Carthaginian, Punic, Druman and Kalistocratic labels remain author-facing comparisons.
+
 ### Islam → The Ahl-e-Ahd
 
 Mujalib is the Muhammad figure (541 AR = 610 AD); the tribal unification is the Rashidun consolidation; Wave One is the Arab conquests; the Velian States are al-Andalus complete with a Cordoba-style golden age where Atherian learning survives in the conqueror's custody; the Ahdanite Guard is the devshirme/janissary system (already canon: slave-child levies); the Qahurid Resurgence is the Ottoman rise; the Fall of Caleran is 1453.

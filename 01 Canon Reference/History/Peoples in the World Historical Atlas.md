@@ -15,7 +15,7 @@ tags: [world-historical-atlas]
 
 Ancestry, language, religious inheritance, imperial citizenship and present political identity do not change at the same speed. Ark-derived peoples inherit the One Glass People's formation; Orphaned peoples formed principally outside that refuge; Braided peoples arose through later joining. These are histories, not degrees of the human soul.
 
-- [[Historical Spine of the Covenant]] — Ahl-e-Ahd.
+- [[Historical Spine of the Covenant]] — Ahl-e-Ahd; its older Qahuri and Gateway foundations are developed in [[Ancient Qahur and the Twin-Reed Crowns]] and [[Qahur and the Gateway before Atheria|Qahur and the Gateway, c. 2165–350 BR]].
 - [[Historical Atlas of Atheria]] — Atherian Empire.
 - [[Historical Spine of the Ättar]] — Ättar.
 - [[Historical Atlas of Eclessia]] — Eclessia.

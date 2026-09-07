@@ -22,6 +22,7 @@ builder.Services.AddSingleton<ArticleRenderer>();
 builder.Services.AddSingleton<BaseLibrary>();
 builder.Services.AddSingleton<LibraryIndex>();
 builder.Services.AddSingleton<ArticlePreviews>();
+builder.Services.AddSingleton(p => new ReviewCommentStore(Path.Combine(builder.Environment.ContentRootPath, "App_Data", "review-comments.json"), p.GetRequiredService<VaultCatalogue>()));
 builder.Services.AddScoped<ReadingLibrary>();
 var app = builder.Build();
 app.Use(async (context, next) =>

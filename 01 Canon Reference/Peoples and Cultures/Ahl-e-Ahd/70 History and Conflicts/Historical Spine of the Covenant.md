@@ -17,11 +17,13 @@ The Covenant is a religious and political civilisation formed among Ahdari and n
 
 ## Before Mujalib
 
-After the Exodus, proto-Ahdari peoples preserve water-right, guest-law, blood-price, sanctuary, and witnessed oath. Iqashari towns and Qahuri basin communities develop their own courts, canals, markets, and shrine traditions. Contract doctrine grows from these institutions rather than replacing an empty desert.
+After the Exodus, proto-Ahdari peoples preserved water-right, guest-law, blood-price, sanctuary and witnessed oath. They developed in the Near-Glass and western well country through relationships with independent Orphaned societies. The Qahuri of the Sacred Basin belonged to one of those older populations. They rebuilt riverworks after Ishkatar's fall and passed through the [[Ancient Qahur and the Twin-Reed Crowns|Senareth, Yasharet, Aramen and later Twin-Reed ages]].
+
+Qahuri kings, temple households, canal councils and craft towns had already created a populous river civilisation by the time of Mujalib. Their [[The White Measure and the Second Houses|White Measure]] also produced a small class of bound human dead who acted as Egg White Patrons. Iqashari towns followed their own development. Mujalib preached among settled societies with long memories of water, exchange and government.
 
 ## Revelation and Unification, 541-567 AR
 
-Mujalib receives the revelation of Malak al-Ahd in 541 AR. Alliances, preaching, arbitration, war, and the Covenant of the 4,444 unite Ahdari clans and settled allies. Al-Qahur becomes the sacred center.
+Mujalib receives the revelation of Malak al-Ahd in 541 AR. Alliances, preaching, arbitration, war and the Covenant of the 4,444 unite Ahdari clans and settled allies. Al-Qahur becomes the sacred centre.
 
 ## First Unsealing and Schism, 568-612 AR
 
@@ -49,6 +51,8 @@ The Tarkhan divide into four hordes. Qahirid rulers recover influence through Gu
 
 - [[Chronology of the Known World (AR Dating)]]
 - [[The Making of the Covenant Peoples]]
+- [[Ancient Qahur and the Twin-Reed Crowns]]
+- [[Qahur and the Gateway before Atheria|Qahur and the Gateway, c. 2165–350 BR]]
 - [[The Disputed Fourth Seal]]
 
 ## Historical Atlas — wider inheritance

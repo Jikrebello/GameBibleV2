@@ -62,13 +62,13 @@ test('existing theme preference migrates without replacing an existing reading p
 test('print stylesheet removes application controls and keeps source and article material', () => {
     const css = fs.readFileSync(path.join(__dirname,'../wwwroot/reading.css'),'utf8'); const print = css.slice(css.indexOf('@media print'));
     for (const selector of ['.masthead','.library-nav','.article-actions','.article-preview','.image-viewer','.section-permalink']) assert.ok(print.includes(selector));
-    assert.match(print,/display:none!important/); assert.match(print,/\.print-source\{display:block/); assert.match(print,/\.article-prose\{font-size:11pt/); assert.match(css,/@media\(prefers-reduced-motion:reduce\)/);
+    assert.match(print,/display\s*:\s*none\s*!important/); assert.match(print,/\.print-source\s*\{[\s\S]*?display\s*:\s*block/); assert.match(print,/\.article-prose\s*\{[\s\S]*?font-size\s*:\s*11pt/); assert.match(css,/@media\s*\(prefers-reduced-motion\s*:\s*reduce\)/);
 });
 test('body, muted text and link palette meet normal-text contrast in both themes', () => {
     function luminance(hex) { const rgb=hex.match(/[a-f0-9]{2}/gi).map(x=>parseInt(x,16)/255).map(x=>x<=.04045?x/12.92:((x+.055)/1.055)**2.4);return rgb[0]*.2126+rgb[1]*.7152+rgb[2]*.0722; }
     const css = fs.readFileSync(path.join(__dirname,'../wwwroot/wiki.css'),'utf8');
-    for (const marker of ['.site-shell{--paper:', '.site-shell[data-theme=dark]{--paper:']) {
-        const start=css.indexOf(marker); const rule=css.slice(start,css.indexOf('}',start)); const color=name=>rule.match(new RegExp('--'+name+':(#[0-9a-f]+)'))[1];
-        for (const name of ['ink','muted','link','accent']) { const a=luminance(color(name)); const b=luminance(color('paper')); assert.ok((Math.max(a,b)+.05)/(Math.min(a,b)+.05)>=4.5,marker+name); }
+    for (const selector of ['.site-shell', '.site-shell[data-theme=dark]']) {
+        const match=css.match(new RegExp(selector.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')+'\\s*\\{([\\s\\S]*?)\\}')); assert.ok(match,selector); const rule=match[1]; const color=name=>rule.match(new RegExp('--'+name+'\\s*:\\s*(#[0-9a-f]+)'))[1];
+        for (const name of ['ink','muted','link','accent']) { const a=luminance(color(name)); const b=luminance(color('paper')); assert.ok((Math.max(a,b)+.05)/(Math.min(a,b)+.05)>=4.5,selector+name); }
     }
 });

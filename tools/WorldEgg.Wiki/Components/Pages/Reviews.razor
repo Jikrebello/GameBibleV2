@@ -1,0 +1,126 @@
+@page "/reviews"
+@implements IDisposable
+@inject ReviewCommentStore ReviewStore
+@inject VaultCatalogue Catalogue
+@inject IJSRuntime JS
+
+<PageTitle>Review comments — The World Egg</PageTitle>
+<div class="eyebrow">Local editorial workspace</div>
+<h1>Review comments</h1>
+<p class="page-intro">Every note attached to encyclopedia prose appears here. Open an article to see the passage in place, or copy the open notes as a compact editing brief.</p>
+
+<div class="review-inbox-tools">
+    <label><input type="checkbox" @bind="_showResolved" /> Show resolved comments</label>
+    <MudButton Size="Size.Small" Variant="Variant.Outlined" OnClick="CopyBrief" Disabled="@(!VisibleComments.Any())">Copy open review brief</MudButton>
+    @if (_copyMessage is not null) { <span class="quiet" role="status">@_copyMessage</span> }
+</div>
+
+@if (!_loaded)
+{
+    <p role="status">Opening the review inbox…</p>
+}
+else if (!VisibleComments.Any())
+{
+    <section class="review-inbox-empty">
+        <h2>@(_showResolved ? "There are no review comments yet" : "There are no open review comments")</h2>
+        <p>Select a passage while reading any article, choose <strong>Comment</strong>, and write the change you want. The note will remain attached to that passage until you resolve or delete it.</p>
+    </section>
+}
+else
+{
+    <div class="review-inbox">
+    @foreach (var group in VisibleComments.GroupBy(x => x.ArticleId, StringComparer.OrdinalIgnoreCase))
+    {
+        var article = Catalogue.Current.Documents.GetValueOrDefault(group.Key);
+        var title = article?.Title ?? group.First().ArticleTitle;
+        <section class="review-inbox-article" @key="group.Key">
+            <header>
+                <div>
+                    <h2>@title</h2>
+                    <div class="file-path">@group.Key</div>
+                </div>
+                @if (article is not null)
+                {
+                    <a class="review-open-article" href="@(ReviewUrl(article.Id, group.First().Id))">Open article</a>
+                }
+                else
+                {
+                    <span class="quiet">Source moved or removed</span>
+                }
+            </header>
+            @foreach (var comment in group)
+            {
+                <article class="review-card @(comment.Resolved ? "is-resolved" : "")" @key="comment.Id">
+                    <blockquote>@Quote(comment.Anchor.SelectedText)</blockquote>
+                    <p class="review-comment-text">@comment.Comment</p>
+                    <p class="review-card-meta">@comment.CreatedUtc.ToLocalTime().ToString("d MMM yyyy, HH:mm")@if (article is not null && article.ModifiedUtc > comment.SourceModifiedUtc.AddSeconds(1)) { <span> · source edited since note</span> }</p>
+                    <div class="review-card-actions">
+                        @if (article is not null) { <a href="@(ReviewUrl(article.Id, comment.Id))">Show in article</a> }
+                        <MudButton Size="Size.Small" OnClick="() => SetResolved(comment, !comment.Resolved)">@(comment.Resolved ? "Reopen" : "Resolve")</MudButton>
+                        @if (_deleteCandidate == comment.Id)
+                        {
+                            <MudButton Size="Size.Small" Color="Color.Error" OnClick="() => DeleteComment(comment)">Delete note</MudButton>
+                            <MudButton Size="Size.Small" OnClick="CancelDelete">Cancel</MudButton>
+                        }
+                        else
+                        {
+                            <MudButton Size="Size.Small" OnClick="() => ConfirmDelete(comment)">Delete</MudButton>
+                        }
+                    </div>
+                </article>
+            }
+        </section>
+    }
+    </div>
+}
+
+<p class="quiet review-storage-note">Review comments are private to this local wiki and are stored in <code>tools/WorldEgg.Wiki/App_Data/review-comments.json</code>. They do not alter the Markdown.</p>
+
+@code {
+    private ReviewComment[] _comments = [];
+    private bool _loaded;
+    private bool _showResolved;
+    private Guid? _deleteCandidate;
+    private string? _copyMessage;
+    private IEnumerable<ReviewComment> VisibleComments => _comments.Where(x => _showResolved || !x.Resolved);
+
+    protected override async Task OnInitializedAsync()
+    {
+        Catalogue.Changed += CatalogueChanged;
+        await Load();
+    }
+
+    private async Task Load()
+    {
+        _comments = await ReviewStore.ListAsync();
+        _loaded = true;
+    }
+
+    private async Task SetResolved(ReviewComment comment, bool resolved) { await ReviewStore.SetResolvedAsync(comment.Id, resolved); _deleteCandidate = null; await Load(); }
+    private void ConfirmDelete(ReviewComment comment) => _deleteCandidate = comment.Id;
+    private void CancelDelete() => _deleteCandidate = null;
+    private async Task DeleteComment(ReviewComment comment) { await ReviewStore.DeleteAsync(comment.Id); _deleteCandidate = null; await Load(); }
+
+    private async Task CopyBrief()
+    {
+        var lines = new List<string> { "# Open World Egg review comments", "" };
+        foreach (var group in _comments.Where(x => !x.Resolved).GroupBy(x => x.ArticleId, StringComparer.OrdinalIgnoreCase))
+        {
+            lines.Add($"## {group.First().ArticleTitle}");
+            lines.Add($"Source: `{group.Key}`");
+            lines.Add("");
+            foreach (var comment in group)
+            {
+                lines.Add($"- Selected: “{comment.Anchor.SelectedText.Replace("\r", " ").Replace("\n", " ")}”");
+                lines.Add($"  Comment: {comment.Comment.Replace("\r", " ").Replace("\n", " ")}");
+            }
+            lines.Add("");
+        }
+        _copyMessage = await JS.InvokeAsync<bool>("worldEgg.reading.copy", string.Join(Environment.NewLine, lines)) ? "Open comments copied." : "Could not copy automatically.";
+    }
+
+    private void CatalogueChanged() => _ = InvokeAsync(StateHasChanged);
+    private static string ReviewUrl(string id, Guid comment) => LinkResolver.PageUrl(id) + "&review=" + Uri.EscapeDataString(comment.ToString());
+    private static string Quote(string text) => text.Length <= 420 ? text : text[..417] + "…";
+    public void Dispose() => Catalogue.Changed -= CatalogueChanged;
+}

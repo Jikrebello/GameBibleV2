@@ -27,6 +27,18 @@ The people behind the [[Chronology of the Known World (AR Dating)]]. Each entry 
 
 [[Arkenan and Saronikan Cities before the Empire]] introduces Kassilon's loss of command after Erenost's grain seizure, Doreva's grain ventures at Pyrassa and Mesthra's observational teaching at Irenai. They belong to independent eastern histories, without a shared royal genealogy or later supernatural office.
 
+## Ancient Qahur and the Gateway country
+
+[[Ancient Qahur and the Twin-Reed Crowns]] — **Neshara Senareth** began the First Long Crown around 1880 BR; **Talmera of Isethar** preserved an independent upper-river crown during the first division; and **Khevar II** reunited the basin in 1412 through war, marriage and the execution of rival claimants. **Talzara Yasharet** founded the mixed Delta dynasty at Qemaret around 1248. **Aramen of Sakhret** destroyed that crown in 1076 and established the great southern restoration. **Ithren III** imposed the exclusive Single Radiance cult; **Queen Zaheret** restored the older temples after his death while inheriting the victims, confiscations and damaged households of his purges.
+
+[[The White Measure and the Second Houses]] — **Meresha of Isethar** (d. c. 1439 BR) developed the White Measure and became the first well-attested Second-House Patron. Her freed scribe **Hesenu** entered the Court of Unspent Lamps as a captive human soul. **Khaseret of Qemaret** (d. 1126) opened the House of the Returning Cargo, which protected some refugees and refused others according to inherited debt. **Tamekha Rasen** (d. 916) built the Copper Orchard through medicine, royal contracts and experiments upon prisoners; demands from her dead estate helped provoke the Tenaret stoppage of 903. **Nemeret the Pure** failed to preserve his soul. A dependent Greed Mask later learned to speak through the estate-office built around his memory.
+
+[[The Gateway Wars]] — Harbour Judge **Qelmar Suthar** and the Atherian commander **Aster Vey** widened the Tammur intervention into the first war. **Damen** carried the failed Rope Camp negotiation; **Yasra of Belqara** represented the cultivated districts during the revolt. **Meleq Ordan** restored Qarzeth with aid from **King Harzun of Hadrath** and married Harzun's daughter **Sapha**. His successor **Zamaret Ordan** launched the alliance-breaking invasion, opposed by the Atherian commanders **Celor Marath** and **Dema Varin**.
+
+[[The Three Collections and the Fall of Qarzeth]] — **Ilya of Qarzeth** carried evidence of the child prisons to Esharat. The midwife **Sapha of Esharat**, unrelated to the Hadrathi princess, organised a rescue route; collectors killed her husband and sacrificed their daughter **Neral**. The Caleran advocate **Orsen Valeor** demanded Qarzeth's destruction, while **Mera Castren** proposed enforced closure and inspection before the final policy was chosen.
+
+[[Qahur and the Gateway before Atheria]] — **Prince Tazirun Zaheret**, a younger Qahuri son, married **Lemara of Esharat** around 548 BR. Their daughter **Hesara** helped conceal children during the collections and became Hadrima's mother. This maternal relationship brought Qahuri kin and ceremony into the later Nerethan household without conveying rule over the Sacred Basin.
+
 ## The imperial-founding generation
 
 [[Teren Casvilar]] (425–370 BR) conquered southern districts, defeated republican rivals and governed through personal supremacy. His assassination began the succession wars. [[Marovan Veyr]] (435–373), his former partner and principal rival, left eastern clients and a maritime following inherited by his son Ardel. [[Lethren Ostar]] (442–381) financed the partnership, crucified defeated rebels in 399 and died during the failed northern expedition at Rethmar.

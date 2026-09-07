@@ -965,6 +965,20 @@ The authorised continuation completes the imperial history from 350 BR to 0 AR. 
 
 The sixteen additions increase the canonical library from 800 to 816 articles. Original Garden, identifier and reserve counts remain unchanged. Package 2C is complete through the Redeemer boundary. No Garden, campaign or application file changes.
 
+## Ancient World Package A — Sacred Basin and Gateway country
+
+The author approved Package A for canon integration on 7 September 2026. [[Package A - Sacred Basin and Gateway Canon Integration Review]] records the exact promotion boundary. The delivery establishes the ancient Qahuri dynastic sequence, named Gateway communities and actors, the relationship between the two countries, the Qarzeth child collections and the White Measure's successful Second-House Patrons.
+
+| Reviewed development source | Canonical destination | Authority |
+|---|---|---|
+| [[Historical Atlas of Ancient Qahur]] and [[Sacred Basin Houses, Cities and Ordinary Life]] | [[Ancient Qahur and the Twin-Reed Crowns]]; [[Life in the Ancient Sacred Basin]] | Ordinary dynasties, cities, labour, warfare and cultural consequences fixed from c. 2300 to 350 BR |
+| [[Historical Atlas of the Gateway Country]], [[The Gateway Republic - Country, Government and Households]] and [[The Three Gateway Wars and the Rope Camp Revolt]] | [[The Gateway Republic]]; [[The Gateway Wars]] | Qarzeth, dependent towns, civic offices, commanders and war sequence fixed |
+| [[The Child Collections and the Destruction of Qarzeth]] | [[The Three Collections and the Fall of Qarzeth]] | Public child sacrifice, local resistance, Caleran debate, rescue, sack and limited salting fixed |
+| [[The Spared Towns and the Nerethan Settlement]] and [[Qahur and the Gateway - River, Sea and Dynastic Relations]] | [[The Spared Towns and the Queen's Country]]; [[The House of Nerethan]]; [[Qahur and the Gateway before Atheria]] | Spared-town recovery and Tazirun–Lemara–Hesara–Hadrima maternal line fixed; no Qahuri crown conveyed |
+| [[The White Measure and the Second Houses of Ancient Qahur]] and [[Druma and the Prophecies of Kalistrade - Wealth, Necropolis and the Qahuri Dead]] | [[The White Measure and the Second Houses]] | Successful founders are bound human souls with corpse-anchored Egg White demiplanes and possible Patron relationships; failures and Masks remain distinct |
+
+Exact coastlines, the ancient river's proper name, the complete number of Second Houses and the present reachability of their Patrons remain open. Package B will name the High-Road power. The current map, Garden, campaigns and wiki application are unchanged.
+
 ## Canon boundaries after integration
 
 

@@ -76,6 +76,8 @@ Links supplement the lead. They never carry its missing definition. Avoid beginn
 ## Sentence and paragraph review
 
 - Replace habitual corrective contrasts with direct descriptions of what a subject does and how it works.
+- Use tense according to function. A lead normally identifies the article's subject in the present tense; dated actions and completed reigns use the simple past; continuing customs and surviving remains use the present. Avoid forcing an entire historical article into either the past tense or the dramatic present.
+- Describe an ancient society in the names, relationships and political conditions of its own period. Later peoples and institutions belong in a concluding legacy section only when that inheritance materially clarifies the subject. Do not define an ancient culture chiefly as the precursor of a familiar modern one.
 - Preserve substantive negatives: refused ransom, failed rescue, absent records and a person who never returned.
 - Expand compressed labels where established facts explain their meaning. An account of provisioning, repairs and pilotage is more useful than unexplained “overlapping shore-rights”.
 - Review rhetorical questions, repeated three-part lists, one-sentence moral endings and conspicuously balanced aphorisms. They may belong to a song, joke or speaker; avoid making them the narrator's recurring manner.
