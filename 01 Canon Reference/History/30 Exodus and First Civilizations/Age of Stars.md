@@ -40,6 +40,12 @@ In 742 BR, the Arqeshite River Empire destroyed the First Qiryath and deported l
 
 Restoration did not restore every dead person or every lost field. Returnees found neighbours who had survived by accommodation and households whose claims depended on later rulers. The memory of exile therefore contains gratitude, accusation and arguments over what return should mean. Atherian histories which present the east merely as territory awaiting unification miss this entire sequence.
 
+## Ortheia and the eastern conquest
+
+Valeron II of Ortheia imposed a royal hegemony upon several Compact cities between about 735 and 706 BR. His son [[Eryndor III and the Ortheian Eastern Conquest|Eryndor III]] secured that authority by destroying Olyssar, then crossed the eastern inner sea in 702. The campaign joined Arezan Tiravan's Vashari rising against Arqesh and the revolts already spreading through the canal provinces. Their armies captured Arqesh in 690 BR.
+
+Eryndor died at the conquered capital in 684. The [[Wars of the Inheritance]] killed the nominal royal heirs and divided his army among Vashar, Ortheia, Delkos, selected Qahuri crowns and farther eastern states. Caleran recovered its assemblies and fleets from the weakening Ortheian command. The city entered the Gateway Wars with officers, ships and eastern relationships inherited from that recovery.
+
 ## Stars, rulers and false ancestors
 
 Scholars gave older powers coherent family histories, and rulers used those histories to naturalise civic hierarchy. The manufactured Family of Stars forced some households to change festival obligations. Elegant public images concealed older accounts of divine-generation mutilation, imprisonment and war.
@@ -60,10 +66,12 @@ By 350 BR, the Caleran republic possessed extensive roads, overseas territories,
 ## Historical articles in this age
 
 - [[The Celestial Compact and the Caleran Republic]] — twelve-city cooperation, developing republican government and the pressures preceding Thalion.
+- [[Eryndor III and the Ortheian Eastern Conquest]] and [[Wars of the Inheritance]] — the upland hegemony, fall of Arqesh and eastern Successor states.
+- [[Vashar and the Crown of Roads and Dawns]] and [[The Eastern Sea Wars]] — the independent eastern empire and its later conflict with Atherian leagues.
 - [[The Gateway Republic]] and [[The Gateway Wars]] — Qarzeth's maritime association, the Ordan commands, alliance-breaking invasion and final destruction of the sacrificial capital, c. 650–520 BR.
 - [[The Three Collections and the Fall of Qarzeth]] — the child-taking institution, local resistance, Caleran debate and destruction of the capital.
 - [[The Spared Towns and the Queen's Country|The Spared Towns and the Kingdom of Sarqen]] — the surviving communities and royal recovery after the wars.
-- [[Ancient Qahur and the Twin-Reed Crowns]] and [[Qahur and the Gateway before Atheria|Qahur and the Gateway, c. 2165–350 BR]] — the neighbouring river crowns, High-Road pressure and their relationship with the Gateway country.
+- [[Ancient Qahur and the Twin-Reed Crowns]] and [[Qahur and the Gateway before Atheria|Qahur and the Gateway, c. 2165–350 BR]] — the neighbouring river crowns, Vasharan pressure and their relationship with the Gateway country.
 - [[Food, Work and Citizenship in Republican Atheria]] — production, service, civic belonging and ordinary pleasures.
 - [[The Arqeshite River Empire]]
 - [[The Erasure of Orthea]]

@@ -72,6 +72,15 @@ The [[90 Archive & Drafts/10 Research/Mythic and Sacred History/Atheria's Imperi
 
 The wider imperial delivery is now integrated through [[Historical Atlas of the Atherian Age of Glory]]. [[Age of Glory - Authorial History and Integration Review]] records the dynastic sequence, provincial society and canonical destinations of B3-01 through B3-05. Package 2C now ends at 0 AR; the Redeemer and later imperial history remain Package 3.
 
+### Macedonian conquest and the missing Successor age
+
+Four linked author-only studies develop an Alexander-shaped ruler who remains separate from the Caesar-like Casvilar and Augustus-like Thalion:
+
+- [[Alexander the Great - Conquest, Kingship, Succession and Legend]] studies Philip's Macedonian settlement, Alexander's accession and campaigns, the destruction and enslavement of resisting cities, the mixed royal court, the army's refusal, the king's death, the Successor kingdoms and the later Alexander Romance.
+- [[The Upland Conqueror - Atherian Placement and Canon Impact Review]] compares four chronological placements and selects **Eryndor III of Ortheia** for c. 706–684 BR. Eryndor and Arezan become the two principal external leaders in Arqesh's fall; his death produces a Successor age connecting the Compact to the Gateway Wars. The approved result appears in [[Eryndor III and the Ortheian Eastern Conquest]].
+- [[The Alexander Romance - Sky, Sea, Speaking Trees and the Limits of Conquest]] traces the flying journey, undersea descent, speaking trees, Water of Life, enclosed nations, eastern queens and philosophical rebukes across Greek, Egyptian, Syriac, Armenian, Persian, Arabic, Jewish and European receptions. It recommends seven separate historical kernels within the existing c. 697–685 BR campaigns while preserving the cultures' incompatible romances.
+- [[After Alexander - Ptolemaic Egypt, Samyra and the Successor Inheritance]] distinguishes Cleopatra's Macedonian Greek dynasty from the Egyptian country it ruled and applies that structure to the World Egg. The selected route gives Serevan's Delkos a maritime Successor kingdom whose later officer culture reaches Sarqen through Nerethan, while Hadrima supplies Esharati and junior Qahuri inheritance. Qahur remains an independent ancient river civilisation rather than becoming a Ptolemaic copy.
+
 ## Palace aftermath and the overseas republic
 
 The palace and Punic research fills the interval before the imperial-founding comparison. It preserves the Glass chronology and studies the long survival of old ruling houses, independent Orphaned recovery and later mixed settlement. Its principal selected histories now have canonical destinations; alternative dynasties, imperial architectures and unselected episode outlines remain research.
@@ -88,7 +97,7 @@ The republic's broad location and the common spared-town history are now integra
 
 [[Atherian Palace and Maritime Histories - Integration Review]] records the authorised selection. Read [[Palace Survivors and the Southern Heroic Age]] and [[The Siege and the Returnings]], followed by [[The Gateway Republic]], [[The Gateway Wars]] and [[The Spared Towns and the Queen's Country]]. The Qabir–Zanthir broad location, long aftermath, siege cycle, republican wars and common royal inheritance are integrated. The queen's precise dynasty and both Thalion alternatives remain open. Earlier proposal wording and validation totals in the research describe their own deliveries, not the current canon status of every possible branch.
 
-## Ancient World histories — shared programme and Package A
+## Ancient World histories — shared programme and Packages A–B
 
 The [[Ancient World Development Programme]] schedules connected regional histories from the Great Unbinding to Atherian unification. The [[Ancient World Synchronisation Ledger]] keeps their periods, ancestry, trade, warfare and relational geography on one shared calendar while the present map remains provisional.
 
@@ -104,8 +113,19 @@ Package A was approved and promoted to canon on 7 September 2026. [[Package A - 
 - [[Qahur and the Gateway - River, Sea and Dynastic Relations]] establishes material exchange, divided wartime interests and the limits of later royal claims.
 - [[Package A - Sources, Collisions and Canon Review]] records sources, incorporated additions, non-identity rulings and alternatives considered before promotion.
 
+Package B completed its author-only development, newcomer-readability, reconciliation and canon passes in September 2026. It gave the old High-Road placeholder the Vashari and Vasharan identities, developed Qiryath and Arqesh through named households and joined their histories to Eryndor's conquest, the Successor age and an eastern conflict which begins after the Gateway Wars:
+
+- [[Package B - Qiryath and Eastern Empires/Historical Atlas of Qiryath before Atheria|Historical Atlas of Qiryath before Atheria]] follows the road houses, Bronze Roads, protector generations, First Qiryath, the siege and exile, and the formation of Second Qiryath.
+- [[Package B - Qiryath and Eastern Empires/Arqesh - River Cities, Kings and Deportation|Arqesh — River Cities, Kings and Deportation]] develops the Ubar canal cities, House Ubar, mortal imperial government, royal display and the conquest of 742 BR.
+- [[Package B - Qiryath and Eastern Empires/The Eastern Highlands and the Vasharan Empire|The Eastern Highlands and the Vasharan Empire]] developed Vashar, House Tiravan, the Crown of Roads and Dawns and the kings later accepted into canon through 350 BR.
+- [[Package B - Qiryath and Eastern Empires/Road, Tower, River and Highland Life|Road, Tower, River and Highland Life]] describes households, food, labour, language, learning, worship and death across the connected region.
+- [[Package B - Qiryath and Eastern Empires/The Eastern Sea Wars and the Balance of 350 BR|The Eastern Sea Wars and the Balance of 350 BR]] places the Tasar revolt and Xarun's invasion in 514–491 BR, after Qarzeth's fall, and preserves Marovan Veyr's later commands.
+- [[Package B - Qiryath and Eastern Empires/Package B - Sources, Collisions and Canon Review|Package B — Sources, Collisions and Canon Review]] records the source transformations, complete chronology, identity rulings, collision review and proposed canon destinations.
+- [[Package B - Qiryath and Eastern Empires/Package B - Final Reconciliation and Canon Readiness Review|Package B — Final Reconciliation and Canon Readiness Review]] selected the names and relationships, reconciled Qahur's earlier succession crisis, fixed the two-command fall of Arqesh and divided Eryndor's inheritance among four principal rulers. [[Package B - Qiryath and Eastern Empires Canon Integration Review]] records the completed promotion and canonical destinations.
+
 ### Qahuri mortuary-economy follow-up
 
+- [[Akhenaten Nefertiti and Tutankhamun - The Amarna Court and Qahur's Single Radiance]] deepens Ithren III's existing crisis through the Amarna royal household, the labour and art of Aseret, a powerful queen, a child restorer, a disputed co-ruler and the later manufacture of the Faceless Interval. It keeps Ishkatar's Giant-Egypt inheritance separate from human Qahur and leaves every proposed addition outside canon pending review.
 - [[Druma and the Prophecies of Kalistrade - Wealth, Necropolis and the Qahuri Dead]] studies Pathfinder's Kalistocratic wealth discipline and concealed funerary purpose. Its accepted translation is the **White Measure**: a human Qahuri movement descended from Ishkatari tomb practice without sharing Giant continuity. A successful rite binds the founder's complete human soul to the embalmed necropolis, opens a private Egg White demiplane and permits the founder to act as an extradimensional Patron. Failed and parasitised tombs may instead contain speaking offices, copied roles or Greed Masks.
 - [[The White Measure and the Second Houses of Ancient Qahur]] develops Meresha's Court of Unspent Lamps, Khaseret's House of the Returning Cargo, Tamekha's Copper Orchard, Hesenu's captivity and Nemeret's counterfeit house. The public history is now [[The White Measure and the Second Houses]].
 

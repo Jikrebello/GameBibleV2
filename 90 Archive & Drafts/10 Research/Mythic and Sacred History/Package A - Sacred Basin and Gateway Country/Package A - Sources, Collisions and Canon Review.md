@@ -81,6 +81,10 @@ Polybius, Livy, Appian, Aristotle and archaeological evidence remain unequal sou
 | Roman destruction of Carthage | capital-only annihilation, actual organised salting and survival of the lesser towns |
 | Ptolemaic royal country | Nerethan kingdom develops after destruction through local towns, Atherian command and a junior Qahuri marriage |
 
+### Post-promotion Single Radiance development
+
+[[Akhenaten Nefertiti and Tutankhamun - The Amarna Court and Qahur's Single Radiance]] returns to the Amarna comparison after Package A's canon promotion. It proposes a royal household around Ithren III, distinguishes a young heir's partial restoration from Zaheret's later erasure, develops the labour and domestic life of Aseret and names the resulting gap in official succession the **Faceless Interval**. Its queen, heir, widow, disputed co-ruler and foreign-prince episode remain exploratory. The original Package A ruling continues to control canon until those additions receive a separate review and promotion.
+
 ## Proposed geography
 
 ### Sacred Basin

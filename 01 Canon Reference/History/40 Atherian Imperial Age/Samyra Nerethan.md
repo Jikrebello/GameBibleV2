@@ -18,9 +18,11 @@ tags: [world-historical-atlas, imperial-founding]
 
 ## A country of surviving towns
 
-Samyra belonged to the fifth generation of the House of Nerethan. Its founder had arrived from Delkos as an Atherian harbour commander and married Hadrima of Esharat in 497 BR. Hadrima's maternal grandmother Lemara had married the junior Qahuri prince Tazirun Zaheret around 548 BR. Samyra therefore inherited Sacred Basin kin and ceremonial customs through the women of Esharat, although this ancestry conferred no claim to a Qahuri crown. The Nerethan descendants obtained hereditary recognition and governed a country whose lesser towns had survived the destruction of its former republican capital.
+Samyra belonged to the fifth generation of the House of Nerethan. Its founder had arrived from Delkos as an Atherian harbour commander and married Hadrima of Esharat in 497 BR. His family carried the naval and royal culture of the eastern Successor states. Hadrima's maternal grandmother Lemara had married the junior Qahuri prince Tazirun Zaheret around 548 BR. Samyra therefore inherited Sacred Basin kin and ceremonial customs through the women of Esharat, although this ancestry conferred no claim to a Qahuri crown. The Nerethan descendants obtained hereditary recognition and governed a country whose lesser towns had survived the destruction of its former republican capital.
 
 Sarqen, the enlarged Second Harbour, was the royal seat. Food came from cultivated districts, storage towns and longer commercial connections. The kingdom's resources depended on maintaining relations with people who remembered their communities' survival before the dynasty arose.
+
+Samyra used the Atherian court speech of her dynasty, the languages of the Gateway towns and a Qahuri ritual register learned through her maternal household. At Sarqen she appeared in harbour and spared-town regalia; before Qahuri embassies she used the forms of her mother's river kin; in Atherian diplomacy she presented the military inheritance of Delkos. These practices allowed her to speak directly to groups whom earlier rulers had addressed through interpreters.
 
 Samyra learned to receive petitioners and envoys in several of the languages used in the country. She could address a town's concerns without depending entirely on a court interpreter. Festivals, household visits and the distribution of assistance helped sustain those relationships.
 

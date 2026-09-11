@@ -23,11 +23,11 @@ After the southern war-settlement leagues depart, the ancestors of the Jirahar r
 
 ## First Qiryath
 
-Between c. 1400 and 800 BR, seasonal courts become tower towns. Qiryath develops into the principal sanctuary and legal center.
+Between c. 1400 and 800 BR, seasonal courts became tower towns. Qiryath developed into the principal sanctuary and legal centre after centuries of road-house life, local judges and protector households. [[01 Canon Reference/Peoples and Cultures/Jirahar/70 History and Conflicts/Historical Atlas of Qiryath before Atheria.md]] follows these communities from Mareh bat Sivan's three camps through the Bronze Roads and First Qiryath.
 
 ## Arqeshite Destruction and Exile
 
-In 742 BR the [[First Qiryath and the Arqeshite Exile|Arqeshite River Empire destroys Qiryath]], deports leading households, and scatters sacred vessels. Arqesh falls c. 690 BR. Return begins, and the Second Qiryath is consecrated c. 660 BR.
+In 742 BR the [[First Qiryath and the Arqeshite Exile|Arqeshite River Empire destroyed Qiryath]], deported leading households and scattered sacred vessels. Arqesh fell in 690 to provincial revolt and the separate armies of Arezan Tiravan and Eryndor III. Arezan's Decree of Roads and Houses permitted return after Eryndor's death in 684. The Second Qiryath was consecrated around 660 under Vasharan supremacy.
 
 ## Atherian Accommodation
 

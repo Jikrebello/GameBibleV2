@@ -100,9 +100,11 @@ Restoration brought further violence. Officials of the Radiance were executed, t
 
 ## Foreign kings and local restorations, c. 800–520 BR
 
-No later house securely held the whole Basin. Qemaret, Tenaret and Sakhret supported rival crowns, temple estates commanded retainers and foreign rulers intervened in succession disputes. Arqeshite armies occupied eastern approaches during the eighth century BR. They repaired a neglected canal, deported skilled households and executed rebels after a failed rising.
+No later house securely held the whole Basin. Qemaret, Tenaret and Sakhret supported rival crowns, temple estates commanded retainers and foreign rulers intervened in succession disputes. Arqeshite armies already held eastern road stations when the Single Radiance court collapsed. In 814 BR, Queen Narethi asked Merod II Ubar to send a royal son whom she could marry beside the Twin-Reed throne. The prince Ashkur was murdered before reaching the Basin. Merod used his death to intensify an existing expansion, occupying eastern canal towns and transferring land to military supporters between 811 and 802 BR.
 
-Arqesh's fall around 690 BR allowed local claimants to return. The eastern **High-Road kings** then imposed supremacy through garrisons, tribute and support for selected crowns. Their governors retained basin officials because water management could not be improvised. They demanded grain, horses, soldiers and road labour in return.
+Eryndor III of Ortheia entered divided Qahur in 695 BR while campaigning against Arqesh. One crown recognised him with a local royal title and admitted him to an oracle; another supported Arqesh; a third waited upon the military outcome. The river grain, boats and guides supplied by his Qahuri allies made the final campaign possible. The limited sign associated with his oracle journey became the foundation of later claims that he possessed Qahuri or celestial parentage.
+
+Eryndor's death in 684 placed selected crown towns under Neresh of Qemaret, a Qahuri-born officer who used garrisons and military marriage to claim part of the inheritance. Native temple, canal and royal houses expelled or absorbed his followers over the following generations. The eastern [[Vashar and the Crown of Roads and Dawns|Vasharan kings]] imposed a more durable supremacy through garrisons, tribute and support for selected crowns. Their governors retained Basin officials because water management could not be improvised. They demanded grain, horses, soldiers and road labour in return.
 
 The **House of Zaheret** intermittently held Tenaret. Lesser Reed kings controlled Qemaret's lower shipping, while Sakhret commanders governed the southern road through marriage with pastoral and mining houses. Their courts competed through temples, funerals and construction as well as war.
 
@@ -120,13 +122,13 @@ The relationship supplied kinship, knowledge and prestige. Esharat and the House
 
 ## The Basin in 350 BR
 
-At the time of Thalion's rise, Qahur contained three principal crowns and numerous temple and canal jurisdictions. Tenaret possessed the most prestigious Twin-Reed genealogy. Qemaret controlled lower-river shipping. Sakhret held the southern road and much of the army. High-Road agents collected tribute and backed competing claimants, while Caleran's annexation of Sarqen gave Atherian officials influence over the coastal approaches.
+At the time of Thalion's rise, Qahur contained three principal crowns and numerous temple and canal jurisdictions. Tenaret possessed the most prestigious Twin-Reed genealogy. Qemaret controlled lower-river shipping. Sakhret held the southern road and much of the army. Vasharan agents collected tribute and backed competing claimants, while Caleran's annexation of Sarqen gave Atherian officials influence over the coastal approaches.
 
 The country remained wealthy enough to attract intervention and divided enough to resist simple conquest. Its rulers could assemble infantry, river craft and chariot forces. Moving those forces beyond the cultivated corridor required foreign wells and pack transport. Local councils could delay supply by withholding labour or disputing water schedules. Temples commanded estates, medical knowledge, skilled work and popular loyalty.
 
 The White Measure survived as a wealthy minority discipline and an initiatory secret. Meresha, Khaseret and Tamekha were believed to remain active through their Second Houses. Nemeret's accessible tomb offered a convincing counterfeit. Ancient observers could establish that some mummies spoke and that some funerary objects granted power. They could not identify the continuity behind every response.
 
-In 350 BR, the Basin remained an ancient, populous and divided country. Its towns, canals, royal ceremonies and mortuary estates already carried more than nineteen centuries of human history. Caleran officers on the coast and High-Road agents in the east could influence individual crowns, but neither power commanded the river as a whole.
+In 350 BR, the Basin remained an ancient, populous and divided country. Its towns, canals, royal ceremonies and mortuary estates already carried more than nineteen centuries of human history. Caleran officers on the coast and Vasharan agents in the east could influence individual crowns, but neither power commanded the river as a whole.
 
 ## Chronology
 
@@ -143,15 +145,19 @@ In 350 BR, the Basin remained an ancient, populous and divided country. Its town
 | c. 1076–858 BR | Aramen empire and great necropolises |
 | 916–903 BR | Tamekha opens the Copper Orchard; its demands help cause the workers' stoppage |
 | c. 842–814 BR | Single Radiance and Zaheret restoration |
-| c. 800–520 BR | regional crowns under Arqeshite and High-Road pressure |
+| c. 800–520 BR | regional crowns under Arqeshite and Vasharan pressure |
+| 695–684 BR | Eryndor's Qahuri title, oracle journey and eastern campaign |
+| 684–c. 650 BR | Neresh of Qemaret holds selected crowns during the Wars of the Inheritance |
 | c. 560–500 BR | Zaheret–Esharat marriage and Gateway refugees |
-| c. 500–350 BR | three principal crowns face High-Road and Atherian influence |
+| c. 500–350 BR | three principal crowns face Vasharan and Atherian influence |
 
 ## Further reading
 
 - [[Life in the Ancient Sacred Basin]]
 - [[The White Measure and the Second Houses]]
 - [[Qahur and the Gateway before Atheria|Qahur and the Gateway, c. 2165–350 BR]]
+- [[Eryndor III and the Ortheian Eastern Conquest]]
+- [[Wars of the Inheritance]]
 - [[The Qahuri]]
 - [[The Serpent Kingdom of Ishkatar]]
 - [[The Gateway Republic]]

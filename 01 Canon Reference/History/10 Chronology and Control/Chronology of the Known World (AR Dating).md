@@ -49,17 +49,23 @@ The civilized world dates from the execution and resurrection of Isfir the Redee
 - **c. 1248–1076 BR — Yasharet rule in Qahur.** Talzara Yasharet establishes a mixed Delta dynasty at Qemaret. The period enlarges lower-river trade and White Measure houses; Khaseret opens the House of the Returning Cargo in 1126.
 - **c. 1076–858 BR — Aramen restoration and Qahuri empire.** Aramen of Sakhret destroys the Yasharet crown and reunites the basin through violent southern restoration. Tomb estates, campaigns and specialised craft towns reach their greatest scale. Tamekha Rasen's dead estate helps provoke the Tenaret tomb-workers' stoppage in 903.
 - **c. 842–814 BR — The Single Radiance.** Ithren III suppresses competing cults and mortuary houses in favour of an exclusive royal sun cult. Queen Zaheret restores the older temples after his death; the political and bodily cost of the purges survives the restoration.
+- **c. 836–798 BR — Merod II and the eastern Qahuri intervention.** Arqeshite expansion follows the grain and caravan roads. The murder of Prince Ashkur in 814 gives Merod a dynastic grievance for the occupation of Qahuri approaches already under way.
 - **c. 1160 BR — [[The Refusal at Kelarion]].** Harbor rulers deny refuge during a killing storm; [[The Shoreless King]] manifests and is sealed beneath the drowned breakwaters.
-- **742 BR — First Destruction of Qiryath.** The Arqeshite River Empire sacks the first Jirahar sanctuary-city and deports its leading households.
-- **c. 690 BR — Fall of Arqesh.** Return to Qiryath begins under the changing eastern leagues.
-- **c. 660 BR — Consecration of the Second Qiryath.**
 - **c. 800–350 BR — Age of Stars.** Atherian synthesis.
+- **c. 735–706 BR — Valeron II's Ortheian hegemony.** The upland king reorganises military service and compels several cities of the Celestial Compact to support a common eastern campaign.
+- **706–684 BR — [[Eryndor III and the Ortheian Eastern Conquest|Eryndor III of Ortheia]].** Eryndor destroys Olyssar, crosses the eastern sea and joins Arezan Tiravan against Arqesh. His campaigns include the siege of Terys, divided reception in Qahur and an army refusal on the farther roads.
+- **742 BR — First Destruction of Qiryath.** Neshkar II's Arqeshite army sacks the Jirahar sanctuary-city and deports its leading households.
+- **690 BR — Fall of Arqesh.** Arezan's Vashari coalition, Eryndor's army, rebel governors, Nemeru crews and forced workers converge upon the Ubar capital.
+- **684–c. 650 BR — [[Wars of the Inheritance]].** Eryndor's death divides the conquests among Arezan, Demeran Kavos, Serevan of Delkos, Neresh of Qemaret and farther eastern commanders. The nominal heirs are murdered.
+- **684 BR — Decree of Roads and Houses.** Arezan permits selected deported communities and sacred objects to return under Vasharan supremacy.
+- **c. 660 BR — Consecration of the Second Qiryath.** The rebuilt sanctuary opens while the inheritance wars continue.
 - **c. 650–625 BR — First of [[The Gateway Wars]].** Conflict at Tammur draws Harbour Judge Qelmar Suthar and the Atherian commander Aster Vey into sustained naval war; allied ports and inland suppliers bear repeated losses and levies.
 - **c. 625–605 BR — Rope Camp revolt and Ordan recovery.** A payment-and-subject revolt, approximately 625–619 BR, ends through brutal reprisals. Meleq Ordan restores Qarzeth with help from Hadrath, marries the princess Sapha and rebuilds overseas resources around Oresh.
 - **c. 600–580 BR — Zamaret Ordan's alliance-breaking invasion.** Zamaret defeats Atherian armies but fails to replace Caleran's alliance network. Celor Marath's delaying campaign and attacks on the overseas base and homeland force withdrawal and restricted independence.
 - **c. 580–525 BR — Qarzeth's recovery and sacrificial demands.** Renewed wealth, border conflict and the [[The Three Collections and the Fall of Qarzeth|Years of Three Collections]] produce a coalition shaped by child rescue, fear, profit and the desire to destroy a recovered rival.
 - **c. 525–520 BR — Destruction of Qarzeth.** Atherian forces end the sacrificial institution and rescue children, while committing murder, rape and enslavement during the sack. The central city is razed and heavily salted; Esharat, Belqara, Hazreth, Sarqen and other communities accepting the settlement retain their people and working land.
 - **c. 520–400 BR — [[The Spared Towns and the Queen's Country|Royal recovery among the spared towns]].** Surviving cultivation and ports support rebuilding. Nerethan of Delkos arrives in 499, marries Hadrima of Esharat in 497, and establishes the household from which Arenes obtains hereditary recognition in 457. Sarqen, the enlarged Second Harbour, becomes the royal seat.
+- **514–491 BR — [[The Eastern Sea Wars]].** Tasar's revolt draws Atherian fleets into war with Xarun I of Vashar. Vasharan armies retake the coast, but defeat at the Narrows of Ilyessa ends their attempt to impose lasting rule upon the Atherian leagues.
 - **c. 520 BR — [[The Erasure of Orthea]].** A city league attempts to remove an atrocity and its witnesses from causal record; [[The Unwritten Worm]] manifests and is sealed beneath the archive-valley.
 
 ## The last republican generations

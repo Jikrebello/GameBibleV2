@@ -54,6 +54,9 @@
         const anchor = selectionAnchor();
         reference?.invokeMethodAsync('SelectionChanged', anchor).catch(() => {});
     }
+    function isReviewControl(target) {
+        return target instanceof Element && target.closest('.selection-comment-button,.review-panel') !== null;
+    }
     function clearMarks() {
         if (!root) return;
         for (const mark of root.querySelectorAll('mark[data-review-comment]')) mark.replaceWith(document.createTextNode(mark.textContent || ''));
@@ -107,10 +110,11 @@
             if (!root) return;
             apply(comments); abort = new AbortController(); const signal = abort.signal;
             document.addEventListener('pointerup', event => {
-                if (event.target instanceof Element && event.target.closest('.selection-comment-button,.review-panel')) return;
+                if (isReviewControl(event.target)) return;
                 setTimeout(notifySelection, 0);
             }, { signal });
             document.addEventListener('keyup', event => {
+                if (isReviewControl(event.target)) return;
                 if (event.key.startsWith('Arrow') || event.key === 'Shift') setTimeout(notifySelection, 0);
             }, { signal });
             root.addEventListener('click', event => {

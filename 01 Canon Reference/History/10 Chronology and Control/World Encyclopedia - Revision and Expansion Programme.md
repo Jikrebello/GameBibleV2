@@ -26,7 +26,7 @@ The subsequent palace and maritime research supplied five further readable histo
 
 Package 2 has three recorded portions: **2A**, the approved author-only foundation study; **2B**, its integration and wider formation-to-republic history, including the palace and maritime supplement; and **2C**, Thalion's unification and the Age of Glory. **Package 2C is complete through 0 AR.** [[Historical Atlas of the Atherian Age of Glory]] supplies the connected imperial account, and [[Age of Glory - Authorial History and Integration Review]] records its controls. The all-era [[Historical Atlas of Atheria]] connects the three portions. Package 3 retains the Redeemer, later empire and Long Frontier.
 
-The separate [[Ancient World Development Programme]] now has its first completed canon delivery. Package A establishes ancient Qahur, the named Gateway country and the White Measure through [[Package A - Sacred Basin and Gateway Canon Integration Review]]. Package B, Qiryath and the Eastern Empires, is the next unfinished ancient-world package.
+The separate [[Ancient World Development Programme]] now has two completed canon deliveries. Package A establishes ancient Qahur, the named Gateway country and the White Measure through [[Package A - Sacred Basin and Gateway Canon Integration Review]]. Package B establishes Qiryath, Arqesh, Vashar, Ortheia, the Successor kingdoms and the Eastern Sea Wars through [[Package B - Qiryath and Eastern Empires Canon Integration Review]]. Package C, the wells, open country and Vathra, is the next unfinished ancient-world package.
 
 The original Package 1 scope and handoff below remain the historical record of that delivery. Its stop instruction does not reopen the already completed entrance review.
 

@@ -39,6 +39,12 @@ This is also the first of four changing Atherian identities: war-settlement memb
 
 The Atherian city-states are the poleis: civic rivalry, leagues, tyrants, colonization, philosophy as civic technology. The Age of Stars is the classical-Hellenistic synthesis — astronomy, archives, law — that Rome inherited and militarized. The Star Pantheon forms here.
 
+### Macedon and the Successors → Ortheia, Eryndor and the eastern kingdoms
+
+Valeron II and Eryndor III supply the Macedonian political grammar omitted from the earlier city-state-to-Rome sequence. Valeron creates a professional royal instrument and compels a league; Eryndor inherits it, destroys a rebellious city, crosses the eastern sea and joins Arezan Tiravan against Arqesh. The war preserves independent Vashari, Arqeshite, Qahuri and Jirahar agency rather than turning the east into an empty field for one conqueror.
+
+Eryndor's early death produces Vasharan, Ortheian, Delkosi, Qahuri and farther-eastern Successor states. Delkos, not Qahur, carries the strongest Ptolemaic court grammar. House Nerethan descends from a later Delkosi officer family and joins that inheritance to Esharati and junior Qahuri kin. Eryndor's later romances draw from the Alexander tradition across Greek, Syriac, Persian, Arabic, Hebrew and European literature; their historical kernels remain separate incidents whose cultural retellings contradict one another.
+
 **The TES move (Lorkhan/Shor dynamic):** the Star Pantheon is, behind the curtain, **Menhir worship misread**. The "High Augur of Astaroth" already implies it: Astaroth, Father Sun, Mother Moon and the rest are Second Circle Menhir whom the Atherians theologized into a civic pantheon — the same beings the Folk know by other names and opposite moral readings. Atherians worshipped Solzareth/Father Sun as ordering providence; the Ättar know the same being as the pitiless arithmetic of daylight. Same entity, two theologies, both partially right — that is your elf/human Lorkhan split, done with Menhir instead of a dead god. This is authorial canon.
 
 ### Rome → The Atherian Empire

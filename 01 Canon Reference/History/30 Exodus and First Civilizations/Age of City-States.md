@@ -23,7 +23,7 @@ tags: []
 
 The **Age of City-States**, approximately 1400–800 BR, is the first widely urban period after the Exodus. Walls, markets, towers, ports, granaries and public shrines concentrated people and specialised work. City governments maintained roads and water, supported professional soldiers and recorded obligations that had once depended upon household memory. These institutions protected larger populations while giving rulers new means to collect debt, labour and tribute.
 
-The period had several regional centres. Atherian cities developed civic law, star observatories and formal roads. Jirahar tower towns served as places of teaching, caravan exchange and refuge. Arqeshite river cities joined levees, royal estates and deportation armies into an early mortal empire. Western oasis polities fortified wells and guest protection. Central-sea harbours grew through migration, intermarriage, shipbuilding and mercenary service, while Folk and Ättar settlements pursued their own histories along the southern forests and cold coasts.
+The period had several regional centres. Atherian cities developed civic law, star observatories and formal roads. [[01 Canon Reference/Peoples and Cultures/Jirahar/70 History and Conflicts/Historical Atlas of Qiryath before Atheria.md|Jirahar tower towns]] served as places of teaching, caravan exchange and refuge. [[01 Canon Reference/History/30 Exodus and First Civilizations/Arqesh - River Cities, Kings and Deportation.md|Arqeshite river cities]] joined levees, royal estates and deportation armies into an early mortal empire. Western oasis polities fortified wells and guest protection. Central-sea harbours grew through migration, intermarriage, shipbuilding and mercenary service, while Folk and Ättar settlements pursued their own histories along the southern forests and cold coasts.
 
 ## Walls change the scale
 
@@ -51,7 +51,7 @@ City wealth made the Idols' cultural faces more elaborate. A royal image could a
 
 City walls were repeatedly dismantled into younger houses. Founding myths outlived the languages of their first tellers. Amnesty fires, bent keys, foreign quarter feasts and compulsory silences preserve disputes which official civic genealogies conceal.
 
-Cities continued to develop after 800 BR. In the west, the [[Age of Stars]] names an Atherian synthesis of civic and religious traditions. Eastern powers followed separate courses: the Arqeshite river empire reached its height and destroyed the First Qiryath in 742 BR, during the same centuries in which Caleran enlarged its compact.
+Cities continued to develop after 800 BR. In the west, the [[Age of Stars]] names an Atherian synthesis of civic and religious traditions. Eastern powers followed separate courses: the Arqeshite river empire reached its height and destroyed the First Qiryath in 742 BR, while [[Vashar and the Crown of Roads and Dawns|Vashari highland houses]] and Ortheian kings contested the roads beyond it.
 
 ## Atlas navigation
 

@@ -977,7 +977,7 @@ The author approved Package A for canon integration on 7 September 2026. [[Packa
 | [[The Spared Towns and the Nerethan Settlement]] and [[Qahur and the Gateway - River, Sea and Dynastic Relations]] | [[The Spared Towns and the Queen's Country]]; [[The House of Nerethan]]; [[Qahur and the Gateway before Atheria]] | Spared-town recovery and Tazirun–Lemara–Hesara–Hadrima maternal line fixed; no Qahuri crown conveyed |
 | [[The White Measure and the Second Houses of Ancient Qahur]] and [[Druma and the Prophecies of Kalistrade - Wealth, Necropolis and the Qahuri Dead]] | [[The White Measure and the Second Houses]] | Successful founders are bound human souls with corpse-anchored Egg White demiplanes and possible Patron relationships; failures and Masks remain distinct |
 
-Exact coastlines, the ancient river's proper name, the complete number of Second Houses and the present reachability of their Patrons remain open. Package B will name the High-Road power. The current map, Garden, campaigns and wiki application are unchanged.
+Exact coastlines, the ancient river's proper name, the complete number of Second Houses and the present reachability of their Patrons remain open. Package B names the former High-Road placeholder as Vashar and House Tiravan. The current map, Garden, campaigns and wiki application are unchanged.
 
 ## Canon boundaries after integration
 

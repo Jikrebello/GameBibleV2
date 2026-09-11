@@ -14,13 +14,13 @@ tags: [world-historical-atlas, imperial-founding]
 ---
 # The House of Nerethan
 
-The **House of Nerethan** ruled the Gateway country from Sarqen between 457 and 350 BR. Its founder descended from a Delkosi harbour commander and Hadrima of Esharat, whose family belonged to one of the towns spared when Qarzeth was destroyed. Their partnership joined Atherian military patronage to local land, shipping and kinship. The dynasty's last independent ruler was [[Samyra Nerethan]].
+The **House of Nerethan** ruled the Gateway country from Sarqen between 457 and 350 BR. Its founder belonged to a Delkosi officer house descended from the maritime kingdoms created after Eryndor III's death. He married Hadrima of Esharat, whose family belonged to one of the towns spared when Qarzeth was destroyed. Their partnership joined Atherian military patronage and Successor naval culture to local land, shipping and kinship. The dynasty's last independent ruler was [[Samyra Nerethan]].
 
 The royal family inherited a country already changed by [[The Gateway Wars]]. The capital's sacrificial establishment had been destroyed, while lesser towns retained working wells, farms and ports. Refugees and returning captives joined communities whose households had their own claims to survival and resistance. Royal power had to be established among them.
 
 ## Nerethan and Hadrima
 
-Nerethan of Delkos was born around 525 BR and arrived as an Atherian harbour commander in 499 BR. His appointment concerned coastal defence, military provisions and the supervision of dependent towns. Officers and specialists accompanied him, but local pilots, cultivators and transport households provided the means to remain.
+Nerethan of Delkos was born around 525 BR and arrived as an Atherian harbour commander in 499 BR. His family belonged to the later officer houses of Delkos, where Serevan's former Successor kingdom had left a mixed naval and royal tradition. Nerethan inherited military titles, drill and patronage from that history without belonging to Serevan's royal bloodline. His appointment concerned coastal defence, military provisions and the supervision of dependent towns. Officers and specialists accompanied him, but local pilots, cultivators and transport households provided the means to remain.
 
 Hadrima's family held cultivated land and a share in the storage and carrying trade of Esharat. The town lay inland from the coastal landings, close enough for its produce to reach them by cart and pack animal. Its households had sheltered children fleeing Qarzeth's collectors and had supplied passage during the final intervention. Some relatives prospered after the war; others lost people or property to the victorious army.
 
@@ -59,6 +59,8 @@ The next ruler, Olymes, succeeded in 408 BR. He cultivated eastern Atherian comm
 
 ## Religious and household inheritance
 
+The court used Delkosi coin standards, military titles and royal ceremony alongside Esharati harbour customs and Qahuri funerary forms. These practices changed through five generations in the Gateway country. They gave the dynasty several languages of rule and exposed it to conflicting demands from soldiers, spared-town households and foreign allies.
+
 The dynasty supported town cults and ceremonies that had survived the capital's destruction. Royal festivals commemorated rescued children and the communities that had sheltered them. Families also mourned people killed or enslaved during the Atherian sack. A single public occasion could therefore bring together gratitude towards the intervention and anger at its conduct.
 
 The rulers sought standing within maritime religious traditions as well as the customs of the gateway towns. Court display used inherited royal imagery and stories of protection. None established an unbroken Giant dynasty. The family's known descent was human, through households formed long after the Giant kingdoms had fallen.
@@ -85,5 +87,6 @@ The crown ended while the country remained inhabited. Royal dependants, port wor
 - [[Qahur and the Gateway before Atheria|Qahur and the Gateway, c. 2165–350 BR]]
 - [[Ancient Qahur and the Twin-Reed Crowns]]
 - [[Samyra Nerethan]]
+- [[Wars of the Inheritance]]
 - [[The Wars of the Atherian Succession]]
 - [[Households of the Imperial Founding]]

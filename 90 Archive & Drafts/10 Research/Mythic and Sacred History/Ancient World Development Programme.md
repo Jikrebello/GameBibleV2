@@ -8,7 +8,7 @@ region: [known world, distant worlds]
 culture: [Qahuri, Gateway peoples, Jirahar, Proto-Ahdari, Tarkhan, Folk, Ättar, Sestaran precursors, Nsizwa]
 related_factions: []
 appears_in: []
-needs: ["complete Packages B–G after each preceding review"]
+needs: ["complete Packages C–G after each preceding review"]
 aliases: [Ancient World Histories Programme]
 tags: [research, ancient-history, development-programme, world-historical-atlas]
 ---
@@ -59,9 +59,11 @@ Development status: **approved and promoted to canon, 7 September 2026**. Begin 
 
 ### Package B — Qiryath and the Eastern Empires
 
-This package develops the road houses, tower circuits, protector houses, First Qiryath, Arqeshite conquest, deportation, local survival, High-Road restoration and eastern wars through 350 BR. It must name the eastern-highland people and the High-Road royal house before their actions in Qahur or the Atherian east can become canon.
+This package develops the road houses, tower circuits, protector houses, First Qiryath, Arqeshite conquest, deportation, local survival, Vasharan restoration and eastern wars through 350 BR. The promoted history names the eastern-highland people **Vashari**, their country **Vashar**, their imperial state the **Crown of Roads and Dawns**, and their ruling dynasty **House Tiravan**.
 
 Dependencies: Package A's Qahuri eastern frontier; the canonical dates 742, c. 690 and c. 660 BR; the later Peshara development remains outside this ancient package.
+
+Development status: **approved and promoted to canon, 11 September 2026**. Begin with [[01 Canon Reference/Peoples and Cultures/Jirahar/70 History and Conflicts/Historical Atlas of Qiryath before Atheria.md]], [[01 Canon Reference/History/30 Exodus and First Civilizations/Arqesh - River Cities, Kings and Deportation.md]] and [[Vashar and the Crown of Roads and Dawns]], then read [[Eryndor III and the Ortheian Eastern Conquest]], [[Wars of the Inheritance]] and [[The Eastern Sea Wars]]. [[Package B - Qiryath and Eastern Empires Canon Integration Review]] records the final boundaries and source history.
 
 ### Package C — Wells, Open Country and Vathra
 
@@ -115,4 +117,4 @@ Each delivery checks the following:
 
 ## Current review gate
 
-Package A has completed both development and canon delivery. Its ordinary names, events, relationships and metaphysical rulings are fixed through [[Package A - Sacred Basin and Gateway Canon Integration Review]]. Exact coastlines, the ancient river's proper name, the full number and present reachability of Second-House Patrons, High-Road identities reserved for Package B and protected mysteries remain open. The Historical Seed Garden, campaign material, application code and present map were not altered by the promotion.
+Packages A and B have completed both development and canon delivery. Package C, Wells, Open Country and Vathra, is the next scheduled ancient-world package. Exact coastlines, the full number and present reachability of Second-House Patrons, protected mysteries and the later fate of Vashar remain open. The Historical Seed Garden, campaign material, application code and present map were not altered by the Package B promotion.

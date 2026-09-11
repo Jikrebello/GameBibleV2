@@ -13,7 +13,7 @@ tags: []
 ---
 # The Arqeshite River Empire
 
-Arqesh was an early mortal empire in the eastern riverlands later divided among Eclessian provinces. It rose before Atherian unification and proved that human rulers could reproduce Giant methods through administration, water control, deportation, and sacred kingship.
+Arqesh was an early mortal empire of the Ubar riverlands, a country later divided among eastern successor states and Eclessian provinces. House Ubar joined canal cities, estates and subject peoples through water control, deportation and sacred kingship between the tenth and seventh centuries BR. The empire destroyed First Qiryath in 742 BR and fell in 690 BR to provincial revolt and the converging campaigns of Arezan Tiravan and Eryndor III of Ortheia.
 
 ## River Rule
 
@@ -27,9 +27,13 @@ Farmers, canal laborers, soldiers, merchants, scribes, deported artisans, and te
 
 Qiryath refused the royal image and hostage demand. Arqesh destroyed the city in 742 BR, looted its sanctuary, and deported leading Jirahar households. Exile made Arqeshite cities important sites of Peshara development even while the empire remained an oppressor.
 
-## Fall, c. 690 BR
+## Fall, 706–690 BR
 
-Succession war, provincial revolt, failed flood regimes, and pressure from expanding Atherian leagues broke the empire. Return decrees restored deported communities and sanctuaries partly to weaken remaining royal governors. Second Qiryath was consecrated c. 660 BR.
+The death of Belatar II divided House Ubar between Kassur III at Arqesh and Mardun Ubar at Durqesh. Rival claimants opened and blocked canals serving one another's supporters. Soldiers seized seed grain and roof timber, while Nemeru withheld boats and Qahuri rulers expelled isolated garrisons.
+
+Arezan Tiravan united Vashari highland houses and rebellious governors from the east. Eryndor III crossed the inner sea with the Ortheian army, Compact levies, siege engineers and allied ships. The two kings made an alliance in 694 BR without merging their commands. Forced workers opened gates, Nemeru crews crossed closed channels and provincial communities withheld the supplies upon which House Ubar depended. Arqesh surrendered after street fighting in 690. Both victorious armies killed inhabitants and plundered districts.
+
+Eryndor died in 684 BR. Arezan's Decree of Roads and Houses permitted selected deported peoples to return while bringing their restored communities under Vasharan rule. Second Qiryath was consecrated around 660 during the resulting Wars of the Inheritance.
 
 ## Legacy
 
@@ -38,5 +42,8 @@ Eastern Eclessia inherits Arqeshite canal beds, buried brick palaces, deportatio
 ## Navigation
 
 - [[First Qiryath and the Arqeshite Exile]]
+- [[01 Canon Reference/History/30 Exodus and First Civilizations/Arqesh - River Cities, Kings and Deportation.md]]
+- [[Eryndor III and the Ortheian Eastern Conquest]]
+- [[Vashar and the Crown of Roads and Dawns]]
 - [[Age of City-States]]
 - [[Ancient and Early Historic Ages]]

@@ -74,6 +74,10 @@ The city's name and the king's identity remain uncertain. Neither Kassilon, Dore
 
 Caleran's religious and political arrangements circulated through travellers, marriages and commercial agreements. Island communities could adopt a festival reckoning without joining a particular military league. The twelve-city Compact's existence therefore did not make every Atherian-speaking port a member. Later republican expansion produced additional and unequal relationships with coastal cities.
 
+Valeron II's Ortheian hegemony reached selected ports through ship assessments, garrisons and alliances with leading households. Eryndor III drew vessels, crews and money from this eastern maritime world for the invasion of Arqesh. Delkos became especially important after the conqueror's death in 684, when his fleet commander Serevan diverted the royal funeral there and established a Successor kingdom among the islands and eastern harbours.
+
+Serevan's court joined Atherian military practice to Arqeshite, Vashari and local maritime traditions. Later wars reduced the kingdom, while its officer houses, coin standards and naval titles spread through other ports. One such Delkosi house produced Nerethan, the commander who arrived in the Gateway country in 499 BR.
+
 Some harbours supplied ships or paid for protection while preserving local councils. Others lost the ability to determine their own military contributions after defeat. Republican patrons invested in cargo and workshops, and island families sought citizenship or useful marriage connections. Naval service carried men farther from home, increasing both earnings and the danger that a household would lose its principal worker.
 
 The [[The Gateway Wars|Gateway Wars]], approximately 650–520 BR, made those obligations more demanding. Inner-sea ports supplied the fleets and repair facilities through which Caleran fought its maritime rival. Repeated losses required replacement crews and equipment. Allied cities could use that dependence to negotiate, although relief secured by prominent shipowners did not necessarily reach the workers or families serving beneath them.
@@ -87,4 +91,6 @@ Ancient quays, cisterns, workshops and observatories were repeatedly adapted. Im
 - [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/60 Realms and Peoples/Military Province of Arkena/The Military Province of Arkena Overview.md|Arkena in 1360]]
 - [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/60 Realms and Peoples/Maritime Kingdom of Saronika/The Maritime Kingdom of Saronika Overview.md|Saronika in 1360]]
 - [[The Celestial Compact and the Caleran Republic]]
+- [[Eryndor III and the Ortheian Eastern Conquest]]
+- [[Wars of the Inheritance]]
 - [[Food, Work and Citizenship in Republican Atheria]]

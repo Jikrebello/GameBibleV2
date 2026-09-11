@@ -51,11 +51,13 @@ In the southern ranges, established Ättar halls face the [[War of the Empty Hal
 
 **Inherited wound:** cities preserve memory, but they also create debt, class, legal violence, and appetite for empire.
 
-The eastern [[First Qiryath and the Arqeshite Exile|Arqeshite River Empire]] destroys the First Qiryath in 742 BR. Its fall permits return and the Second Qiryath, adding conquest, deportation, and restoration to Jirahar identity centuries before Atheria unifies.
+The eastern [[First Qiryath and the Arqeshite Exile|Arqeshite River Empire]] destroys the First Qiryath in 742 BR. House Ubar then falls in 690 through succession war, provincial revolt and the converging armies of [[Eryndor III and the Ortheian Eastern Conquest|Eryndor III]] and Arezan Tiravan. Arezan's restoration decree permits the Second Qiryath to arise under Vasharan supremacy, adding conquest, deportation and contested return to Jirahar identity centuries before Atheria unifies.
 
 ## 6. Age of Stars and Atherian Synthesis
 
 [[Age of Stars]] is the late pre-imperial Atherian synthesis. Star cults, civic law, archives, roads, astronomy, and military discipline turn rival cities into a civilization that believes it is destined to organize the world.
+
+Ortheia briefly subjects much of the city world to royal command. Eryndor III carries its armies across the eastern sea and helps destroy Arqesh, but his death in 684 breaks the conquests among rival Successors. Caleran recovers the Celestial Compact from the western regent and becomes an overseas republic during the Gateway Wars. Vashar, Delkos, Qahur and the eastern ports develop through independent successor histories.
 
 **Inherited wound:** Atheria turns older fragments into law and beauty, but also converts spiritual loss into civic grandeur.
 

@@ -60,6 +60,16 @@ Some veterans returned to prosperous households; others found debts and damaged 
 
 The ordinary benefits of expansion remained substantial. More dependable transport enlarged markets for tools, food and cloth. Apprentices moved between workshops. Families celebrated admission to civic bodies and contributed to buildings in which they took pride. These experiences helped sustain loyalty while disputes over burdens and rights continued.
 
+## The Ortheian hegemony and Caleran's recovery
+
+The upland king Valeron II extended Ortheian power over several Compact cities between about 735 and 706 BR. He used marriage, hostage education, military pressure and a permanent infantry core to organise a common eastern campaign. Caleran supplied ships, grain and money while its assembly tried to preserve authority over appointments and taxation.
+
+Valeron's assassination brought his son Eryndor III to the throne. Olyssar rejected the succession, and Eryndor destroyed the city in 704 BR. The remaining members then contributed to his eastern invasion under different degrees of compulsion. Their soldiers and ships helped defeat Arqesh, while eastern revenue and royal ceremony changed the officers who returned.
+
+Eryndor's death in 684 divided his conquests. Demeran Kavos held Ortheia and the western army, but could not retain the former hegemony. Caleran admitted exiles and unpaid sailors, acquired ships from commanders unable to maintain them and restored meetings of the Compact. Land and revenue seized during the royal period remained in new hands. The recovered republic therefore combined renewed civic government with property and military networks created under the kings.
+
+Delkos, Vashar and other Successor states remained active across the eastern sea. Their officers, coins, naval methods and dynastic practices entered Caleran life before the Gateway Wars.
+
 ## The maritime rival and the Gateway Wars
 
 The [[The Gateway Republic|Gateway Republic]] controlled a cultivated maritime country at the approaches of later Qabir and Zanthir. Its leading port had developed among proto-Ahdari migrants and older shore communities, with civic institutions and dependent towns of its own. Centuries of trade and local rivalry preceded the wars through which Caleran became committed to its defeat.

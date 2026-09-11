@@ -70,6 +70,16 @@ The neighbouring Sacred Basin possessed an independent history. [[Ancient Qahur 
 
 For the end of the Gateway Republic, [[The Three Collections and the Fall of Qarzeth]] follows Ilya of Qarzeth, Sapha of Esharat, the Caleran debate and the destruction of the child-taking capital. The article preserves the distinction between the rescue of children and the murders, rape and enslavement committed by the victorious army.
 
+## Qiryath and the eastern empires
+
+[[01 Canon Reference/Peoples and Cultures/Jirahar/70 History and Conflicts/Historical Atlas of Qiryath before Atheria.md]] follows the Jirahar from the road-house centuries through local judges, First Qiryath, deportation and return. [[01 Canon Reference/History/30 Exodus and First Civilizations/Arqesh - River Cities, Kings and Deportation.md]] describes the Ubar canal cities, House Ubar and the empire which destroyed Qiryath in 742 BR.
+
+[[01 Canon Reference/History/30 Exodus and First Civilizations/Road, Tower, River and Highland Life.md]] describes the households, food, work, debt, marriage, burial and ordinary recreation of the connected eastern countries.
+
+[[Vashar and the Crown of Roads and Dawns]] follows Arezan Tiravan's coalition and the highland empire which inherited much of the Ubar basin. The adjoining Atherian history begins with [[Ortheia and the Upland Kings|Ortheian]] rule over the Celestial Compact and [[Eryndor III and the Ortheian Eastern Conquest|Eryndor III's]] campaign across the eastern sea. The [[Wars of the Inheritance]] divide his conquests among Vashar, Ortheia, Delkos, selected Qahuri crowns and farther eastern states. [[The Eastern Sea Wars]] carries the relationship between Vashar and the recovered Caleran republic to the settlement of 350 BR.
+
+The received adventures of the Far-Road King are gathered in [[The Five Limits of Eryndor]]. Its undersea bell, Sky-Lion ascent, speaking grove, sealed pass and failed search for restorative water arose from separate incidents within the campaign. Their cultural versions disagree about what the king learned and who paid for his curiosity.
+
 For the founding generation, begin with [[The Last Generations of the Caleran Republic]] and [[The Southern Campaigns of Teren Casvilar]]. [[The House of Nerethan]] follows the queen's country across five generations; [[The Wars of the Atherian Succession]] connects changing commands and household alliances to Thalion's settlement around 350 BR. [[Households of the Imperial Founding]] introduces the women, children and surviving communities within that history.
 
 ## Imperial Atheria
@@ -129,5 +139,7 @@ The [[Dependable Navigation - Review and Repair Ledger]] documents the link repa
 [[Atherian Formation and Republic - Delivery Review]] records Package 2B's integration and regional expansion. [[Caleran Foundations - Authorial History]] preserves the private facts behind the founders, Giant ancestries and religious identifications.
 
 [[Package A - Sacred Basin and Gateway Canon Integration Review]] records the promotion of ancient Qahur, the named Gateway history and the White Measure. Its open questions include the ancient river's proper name, exact borders, the total number of successful Second Houses and which of their Patrons remain reachable in 1360.
+
+[[Package B - Qiryath and Eastern Empires Canon Integration Review]] records the promotion of the Jirahar road-house history, Arqesh, Vashar, Ortheia, Eryndor's eastern conquest, the Successor kingdoms and the Eastern Sea Wars.
 
 [[Atherian Palace and Maritime Histories - Integration Review]] records the heroic and republican additions. [[Imperial Founding - Authorial History and Integration Review]] records the subsequent selection of Thalion as heir and founder, the incoming Nerethan dynasty, the named founding generation and its consistency checks. [[Age of Glory - Authorial History and Integration Review]] records the dynastic, social and supernatural history through 0 AR.

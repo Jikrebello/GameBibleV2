@@ -37,6 +37,8 @@ Tarkhan communities were participants rather than weather pressing against the c
 
 The Jirahar tower world developed its own settlements and sacred disputes. Arqesh's rise cannot be reduced to an obstacle on Atheria's road. Levees supported an empire of royal estates and deportation; the sack of Qiryath in 742 BR joined those systems to a wound remembered far beyond Arqesh's fall. Returned households argued with those who had remained. Restoration did not recreate the first city unchanged.
 
+Arqesh fell to a war fought from several directions. Arezan Tiravan united Vashari highland houses and rebellious provinces, while Eryndor III brought an Ortheian army and allied Atherian fleet across the inner sea. Canal crews, forced workers and provincial governors acted for their own survival and grievances. The Successor states formed after Eryndor's death preserved the river cities, Vashari roads, Delkosi fleets and Qahuri crowns as independent centres of power.
+
 ## Folk and Ättar choices
 
 Folk clans traded and fought separately. A treaty with one hall did not bind the next valley, and the marriage which ended one feud could begin another. Local kings first needed enough grain and dependants to feed a following through winter. Later conquerors confused the absence of a common king with the absence of politics.
@@ -52,5 +54,8 @@ The Celestial Compact and republican growth drew on this long history of rival c
 - [[Age of Hearths and First Kings]]
 - [[Age of City-States]]
 - [[Age of Stars]]
+- [[01 Canon Reference/History/30 Exodus and First Civilizations/Arqesh - River Cities, Kings and Deportation.md]]
+- [[Vashar and the Crown of Roads and Dawns]]
+- [[Eryndor III and the Ortheian Eastern Conquest]]
 - [[Additional Mortal Lives and Frontier Traditions]]
 - [[Peoples in the World Historical Atlas]]

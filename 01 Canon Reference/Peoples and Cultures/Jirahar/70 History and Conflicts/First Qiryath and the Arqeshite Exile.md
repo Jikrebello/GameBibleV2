@@ -29,9 +29,11 @@ Road companies carried surviving scrolls away. Rural households remained around 
 
 Deported Jirahar served as scribes, metalworkers, canal engineers, musicians, traders, and court dependants. Some prospered without forgetting captivity. The Peshara's first great exile collections date from disputes over worship, food, marriage, and law far from Qiryath.
 
-## Return, c. 690-660 BR
+## Return, 690–660 BR
 
-Arqesh collapsed through succession war, provincial revolt, failed floods, and pressure from the expanding Atherian leagues. A return decree restored the sanctuary site without recreating the old kingdom. Returners, stayers, and road families contested property and authority for a generation. The Second Qiryath was consecrated c. 660 BR.
+Arqesh fell in 690 BR after House Ubar's succession war brought provincial revolts, failed water government and two foreign campaigns into the same struggle. Arezan Tiravan's Vashari coalition held the eastern roads and rebellious provinces. Eryndor III of Ortheia brought the principal siege army and allied fleet from the west. Nemeru crews and forced workers within the empire helped the attackers enter the capital.
+
+After Eryndor died in 684, Arezan issued the Decree of Roads and Houses. It restored the sanctuary site and permitted selected deported households and sacred objects to return, while requiring property registration, road service and acceptance of Vasharan supremacy. Returners, stayers and road families contested fields, appointments and membership throughout the Wars of the Inheritance. The Second Qiryath was consecrated around 660 without recreating the former kingdom.
 
 ## Legacy
 
@@ -40,5 +42,7 @@ The first exile established a permanent principle: the Path can be kept without 
 ## Navigation
 
 - [[Historical Spine of the Jirahar]]
+- [[01 Canon Reference/Peoples and Cultures/Jirahar/70 History and Conflicts/Historical Atlas of Qiryath before Atheria.md]]
+- [[Vashar and the Crown of Roads and Dawns]]
 - [[Qiryath Reqa]]
 - [[Age of Stars]]

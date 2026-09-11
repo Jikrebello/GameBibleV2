@@ -47,6 +47,10 @@ The twelve-city Celestial Compact coordinated a calendar, arbitration and milita
 
 [[The Celestial Compact and the Caleran Republic]] follows the relationship between these institutions and the land, military service and provincial wealth on which they depended. [[Food, Work and Citizenship in Republican Atheria]] describes the households whose work sustained them. By the final republican decades, powerful commanders could maintain loyalties which outlasted their public offices and resist the institutions intended to restrain them.
 
+Between about 735 and 684 BR, the upland kingdom of Ortheia imposed a changing hegemony upon much of the city world. Valeron II organised the army and league inherited by [[Eryndor III and the Ortheian Eastern Conquest|Eryndor III]]. Eryndor destroyed the rebellious city of Olyssar, crossed the eastern sea and joined Arezan Tiravan in the defeat of Arqesh. His death produced the [[Wars of the Inheritance]], whose rival courts reshaped Vashar, Delkos, Qahur and the eastern ports.
+
+Caleran recovered the Compact from Eryndor's western regent. It received displaced officers, unpaid crews and eastern connections while retaining land and revenue acquired during royal rule. The republic which fought the Gateway Wars grew from this recovery rather than from an uninterrupted line of civic independence.
+
 ## The overseas republic and the spared towns
 
 The [[The Gateway Republic|Gateway Republic]] grew in the country of the later Qabir–Zanthir gateway from proto-Ahdari migrants and older coastal communities. Its cultivated districts, ships and dependent towns supported a powerful maritime state. The [[The Gateway Wars|wars with Caleran]], around 650–520 BR, began over ports, continued through an invasion aimed at breaking Atherian alliances and ended with the destruction of the rival capital.

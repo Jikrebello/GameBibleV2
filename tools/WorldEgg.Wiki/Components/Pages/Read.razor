@@ -174,7 +174,16 @@ else
     private void ConfirmDelete(ReviewComment comment) => _deleteCandidate = comment.Id;
     private void CancelDelete() => _deleteCandidate = null;
     private async Task DeleteComment(ReviewComment comment) { await Reviews.DeleteAsync(comment.Id); _deleteCandidate = null; _focusedComment = null; await LoadComments(); }
-    [JSInvokable] public Task SelectionChanged(ReviewSelection? selection) => InvokeAsync(() => { _selection = selection; if (selection is null && !_composerOpen) _reviewError = null; StateHasChanged(); });
+    [JSInvokable] public Task SelectionChanged(ReviewSelection? selection) => InvokeAsync(() =>
+    {
+        // The comment remains attached to the passage which opened the composer.
+        // Keyboard activity inside the editor must not replace that anchor with the
+        // browser's collapsed textarea selection.
+        if (_composerOpen) return;
+        _selection = selection;
+        if (selection is null) _reviewError = null;
+        StateHasChanged();
+    });
     [JSInvokable] public async Task OpenReviewComment(string id)
     {
         if (!Guid.TryParse(id, out var parsed)) return;

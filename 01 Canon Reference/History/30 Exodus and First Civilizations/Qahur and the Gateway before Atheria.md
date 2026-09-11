@@ -46,9 +46,17 @@ The Bronze-Faced Provider acquired Qahuri titles in lists compiled during the fi
 
 Qahur never entered the wars as a united state. Rival crowns sold grain, hired soldiers and received envoys from both republics. Qemaret merchants profited from Qarzeth's need. Tenaret temples ransomed captives taken by Atherian fleets. Sakhret officers served abroad and returned with foreign households as well as money and injuries.
 
-During Zamaret Ordan's invasion, one basin crown allowed recruitment while another supplied Caleran through intermediaries. High-Road supervisors taxed both arrangements. These divided interests prevented either belligerent from treating Qahur as a dependable ally.
+During Zamaret Ordan's invasion, one Basin crown allowed recruitment while another supplied Caleran through intermediaries. Vasharan supervisors taxed both arrangements. These divided interests prevented either belligerent from treating Qahur as a dependable ally.
 
 Qarzeth's destruction sent refugees and enslaved people into basin markets. Some Qahuri families sheltered survivors; others purchased them. Accounts praising ransom existed beside evidence of sale.
+
+## The Successor sea
+
+Eryndor III's conquest and death altered the maritime world before the Gateway Wars. His fleet commander Serevan established a royal court at Delkos after 684 BR. The court joined Atherian military speech with Arqeshite administration, Vashari officers and the skills of island and harbour households. Successive rulers lost much of Serevan's territory, but Delkosi ships and officer families remained active across the eastern sea.
+
+Selected Qahuri crowns received foreign garrisons and military marriages during the same succession. These settlements introduced new coin forms and military colonies without replacing the Basin's temple, canal and royal houses. Qahuri funerary work, astronomy and court ceremony travelled towards Delkos through artisans, wives, captives and priests.
+
+The later House of Nerethan descended from one of the Delkosi officer families formed within this Successor world. This inheritance explains the naval titles and court practices brought to Sarqen. It gave Nerethan no descent from Eryndor or Serevan and no claim to rule Qahur.
 
 ## Lemara, Tazirun and Hesara
 
@@ -58,7 +66,7 @@ Their daughter **Hesara** inherited kin in both countries. She concealed childre
 
 The relationship grounded later Nerethan ceremony and royal prestige. It conveyed no claim to rule the Sacred Basin. Tenaret recognised kinship when useful and rejected Sarqen's broader genealogical claims.
 
-By 350 BR, Caleran controlled Sarqen while High-Road kings still influenced divided Qahuri crowns. The roads between them carried diplomacy, spies, pilgrims, merchants and limited war into the first imperial generations.
+By 350 BR, Caleran controlled Sarqen while Vasharan kings still influenced divided Qahuri crowns. The roads between them carried diplomacy, spies, pilgrims, merchants and limited war into the first imperial generations.
 
 ## Further reading
 
@@ -67,3 +75,5 @@ By 350 BR, Caleran controlled Sarqen while High-Road kings still influenced divi
 - [[The Gateway Wars]]
 - [[The Spared Towns and the Queen's Country|The Spared Towns and the Kingdom of Sarqen]]
 - [[The House of Nerethan]]
+- [[Wars of the Inheritance]]
+- [[The Eastern Sea Wars]]

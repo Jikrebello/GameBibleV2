@@ -47,7 +47,7 @@ The visible titles **Qahur and the Gateway, c. 2165–350 BR** and **The Spared 
 
 The Sacred Basin's population is principally Orphaned and its river is separate from Ishkatar's lost Serpent's Spine. Tenaret, Qemaret, Sakhret, Isethar and Aseret are established ancient towns located through their relationships to river, roads and cultivated districts.
 
-The canonical dynastic spine comprises the Senareth first crown, the first Twin-Reed division, Khevar II's violent reunification, the mixed Yasharet dynasty, Aramen's conquest and empire, Ithren III's Single Radiance and Zaheret's restoration. Arqeshite and High-Road interventions remain fixed at the degree currently named. Package B controls the future naming and internal history of the High-Road Empire.
+The canonical dynastic spine comprises the Senareth first crown, the first Twin-Reed division, Khevar II's violent reunification, the mixed Yasharet dynasty, Aramen's conquest and empire, Ithren III's Single Radiance and Zaheret's restoration. Arqeshite and Vasharan interventions are now named and synchronised through [[Package B - Qiryath and Eastern Empires Canon Integration Review]].
 
 The workers' stoppage of 903 BR follows withheld grain, assault by soldiers and the spread of action to boat crews. The Copper Orchard's demand for funerary material is one established cause of the diversion.
 
@@ -81,7 +81,7 @@ Qahur remains separate from Ishkatar. Qarzeth remains separate from Sarqen. The 
 
 - the proper ancient name of the Qahuri river;
 - exact borders, coordinates and travel times;
-- the named High-Road dynasty and internal imperial history;
+- the later history of Vashar after the ancient-world package;
 - every reign between the fixed Qahuri turning points;
 - the complete number and membership of Second Houses;
 - which Qahuri Patrons remain accessible in 1360;

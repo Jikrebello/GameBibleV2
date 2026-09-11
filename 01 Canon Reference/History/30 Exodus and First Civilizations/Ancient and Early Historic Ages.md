@@ -37,7 +37,9 @@ This note bridges [[Prehistory Overview]] and the [[Atherian Imperial Age]]. It 
 
 - **Atherians:** the first Ark-derived fission, initially southern war-settlement leagues whose mixed conquest and maritime recovery networks later become city civilization, star cult, republic and empire.
 - **Jirahar:** one later branch of the Near-Glass continuum, with the strongest claim to preserving the Great Prophet's original teaching through portable courts, caravans, tower towns, law, memory, and prophecy.
-- **Arqeshites:** eastern river-city peoples who create an early mortal empire of canals, estates, deportation, and royal sacred power before being absorbed by the expanding Atherian world.
+- **Arqeshites:** eastern river-city peoples who create an early mortal empire of canals, estates, deportation and royal sacred power. Their cities survive the fall of House Ubar within Vasharan and later eastern societies.
+- **Vashari:** Orphaned highland peoples joined by House Tiravan into the Crown of Roads and Dawns after Arqesh's fall. Vashar remains an independent imperial peer when Atheria unifies.
+- **Ortheians and Delkosi:** Atherian-speaking upland and maritime societies shaped by Eryndor's conquest and the Wars of the Inheritance. Their royal and naval traditions influence the recovered Caleran republic and the later House of Nerethan.
 - **Ahl-e-Ahd:** later Covenant peoples whose Ahdari core emerges from the northern fission through defended wells, oath coalitions and mixture with older desert populations; covenant memory later hardens into contract law and cosmic contract doctrine.
 - **Folk and Ättar:** related Orphaned southern cold-frontier populations that develop into distinct peoples. Folk institutions center on clan territory and local courts; settled Ättar halls later accept Mother Moon's firstborn pact during the [[War of the Empty Halls]].
 - **Tarkhan and Nsizwa:** independent Orphaned peoples whose ancestors survive and reassemble outside the Ark in different regions and under different pressures.
@@ -57,3 +59,8 @@ Use [[Southern Cold Belt and Grobi Frontier]] as the governing note for the deep
 - [[Geography Atlas]]
 - [[Origins of Warlock Rune Magic]]
 - [[The Arqeshite River Empire]]
+- [[01 Canon Reference/Peoples and Cultures/Jirahar/70 History and Conflicts/Historical Atlas of Qiryath before Atheria.md]]
+- [[Vashar and the Crown of Roads and Dawns]]
+- [[Eryndor III and the Ortheian Eastern Conquest]]
+- [[Wars of the Inheritance]]
+- [[The Eastern Sea Wars]]

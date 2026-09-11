@@ -118,6 +118,31 @@ public sealed class ReadingComponentTests
         Assert.Contains("worldEgg.annotations.attach", context.JSInterop.Invocations.Select(x => x.Identifier));
     }
 
+    [Fact] public async Task Comment_composer_keeps_its_anchor_and_multiline_draft_when_browser_selection_clears()
+    {
+        await using var vault = new FixtureVault(); await vault.Seed();
+        using var context = Context(vault, LinkResolver.PageUrl(FixtureVault.Source)); var component = context.Render<Read>();
+        await component.InvokeAsync(() => component.Instance.SelectionChanged(new ReviewSelection
+        {
+            ExactText = "ordinary beginning", SelectedText = "ordinary beginning", Prefix = "An ", Suffix = ".", StartOffset = 3, EndOffset = 21, X = 40, Y = 50
+        }));
+        component.FindAll("button").Single(x => x.TextContent.Trim() == "Comment").Click();
+        component.Find("textarea").Input("Clarify the first sentence.\nThen explain the consequence.");
+
+        await component.InvokeAsync(() => component.Instance.SelectionChanged(null));
+
+        component.WaitForAssertion(() =>
+        {
+            Assert.Single(component.FindAll(".review-composer"));
+            Assert.Equal("Clarify the first sentence.\nThen explain the consequence.", component.Find("textarea").GetAttribute("value"));
+        });
+        component.FindAll("button").Single(x => x.TextContent.Trim() == "Add comment").Click();
+        var stored = await context.Services.GetRequiredService<ReviewCommentStore>().ListAsync(FixtureVault.Source, false);
+        Assert.Single(stored);
+        Assert.Equal("Clarify the first sentence.\nThen explain the consequence.", stored[0].Comment);
+        Assert.Equal("ordinary beginning", stored[0].Anchor.SelectedText);
+    }
+
     [Fact] public async Task Review_inbox_groups_notes_and_links_back_to_their_exact_article_comment()
     {
         await using var vault = new FixtureVault(); await vault.Seed(); using var context = Context(vault, "/reviews");

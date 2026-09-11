@@ -11,253 +11,79 @@ appears_in: []
 needs: []
 tags: []
 ---
-# Bestiary MOC
+# Creatures and Old Beings
 
-## Control Desk
+The World Egg contains ordinary animals, altered predators, living peoples, dead residues, court beings, elemental patterns, infernal transformations and machines left by vanished civilisations. Resemblance does not establish common origin. A drake, a true Dragon and an Atherian war engine may all appear monstrous while belonging to entirely different histories and kinds of life.
 
-- [[Bestiary Framework — Creatures of the World Egg|Bestiary Canon Register]] - taxonomy, controlled properties, rank, and dossier rules.
-- [[The Image, Soul, and Creaturely Continuity]] - authorial ruling for the Image, human souls, residue, Grobi, Driftkin, vampires, and other continuities.
-- [[Bestiary Translation Concordance]] - complete creator-only crosswalk from the supplied Pathfinder checklist.
-- [[The Mundane Layer — Residue, Vermin, and the Delver Trade]] - encounter pyramid and ordinary delver ecology.
-- [[Creature Conditions and Templates]] - cross-cutting modifiers rather than false species.
-- ![[Bestiary Registry.base]]
+The bestiary is therefore organised principally by provenance: where a being comes from and what sustains it. Each section below leads to a complete family index. Creature dossiers then explain form, range, behaviour, intelligence, social relationships and the consequences of encounter.
 
-## Physical Library
+## Begin here
 
-- **10 Material and Residue:** ordinary biology, megafauna, vermin, plants, fungi, oozes, and residue dead.
-- **20 Faewild and Menhir:** court-law, place minds, noble beasts, small folk, and drakes.
-- **30 Shadowlands and Idols:** Grobi, vampires, ghouls, Nightmares, and vice-grown counterfeits.
-- **40 Astral Drift and Patrons:** Driftkin, Protons, route predators, and rent-bound servitors.
-- **50 Elemental Shell:** primal patterns, seams, leakspawn, and bound manifestations.
-- **60 Heaven and Soul-Road:** created angels, manifested saints, the Boatman, and bounded route mechanisms.
-- **70 Hell and Abyss:** damned transformations, Depth fauna, imposed mantles, and wounds.
-- **80 Ancient and Crafted Legacies:** dead-imperial remnants, constructs, fleshworks, and engines.
-- **90 Cross-Cutting Conditions:** modifiers that preserve the subject's primary origin.
+- [[01 Canon Reference/Creatures/10 Material and Residue/The Mundane Layer — Residue, Vermin, and the Delver Trade.md|The Mundane Layer]] — ordinary danger, animals, vermin, decay and the ecology of delving.
+- [[01 Canon Reference/Creatures/00 Bestiary Standards/Bestiary Framework — Creatures of the World Egg.md|Bestiary Framework]] — how the catalogue distinguishes creatures, peoples, manifestations and unique beings.
+- [[01 Canon Reference/Cosmology/20 Realms and Soul-Routes/The Image, Soul, and Creaturely Continuity.md|Soul and creaturely continuity]] — the distinction between human souls, bodies, residues, offices and constructed patterns.
+- [[01 Canon Reference/Creatures/90 Cross-Cutting Conditions/Creature Conditions and Templates.md|Creature conditions]] — transformations and afflictions that modify a being without creating a false species.
 
-## 10 Material and Residue
+## Material creatures and the residue dead
 
-- [[The Mundane Layer — Residue, Vermin, and the Delver Trade]]
-- [[Residue Dead Overview]]
+Material life includes familiar animals, oversized predators, sea leviathans, parasitic fungi, dangerous plants and natural oozes. These organisms eat, reproduce, migrate and die within ordinary physical ecology, even when magic or ancient damage has altered their scale.
 
-### Predators and Megafauna
+Residue dead are bodily, emotional or magical continuities left after a human soul has travelled onward. A corpse that moves, a place that repeats a death or a ward carrying a dead champion's habits is not automatically the surviving person.
 
-- [[Great-Horns]]
-- [[Harridans]]
-- [[Predators and Oversized Fauna]]
-- [[Wyverns]]
-- [[Burrowers of Road and Deep]]
-- [[Material Sea Leviathans]]
+**Principal articles:** [[01 Canon Reference/Creatures/10 Material and Residue/The Mundane Layer — Residue, Vermin, and the Delver Trade.md|Material ecology]] · [[Predators and Oversized Fauna]] · [[Material Sea Leviathans]] · [[Fungal Colonies and Parasitic Succession]] · [[01 Canon Reference/Creatures/10 Material and Residue/20 Residue Dead/Residue Dead Overview.md|Residue Dead]]
 
-### Vermin, Decay, Plants, and Fungi
+## Faewild beings and Menhir courts
 
-- [[Ruin Vermin and Swarms]]
-- [[Natural Oozes and Slimes]]
-- [[Predatory Plants and Rot-Heaps]]
-- [[Fungal Colonies and Parasitic Succession]]
+Faewild life develops under concentrated natural and mythic law. Its inhabitants include biological court fauna, place-minds, sapient court persons and bounded expressions of a Menhir's sovereignty. They vary in agency and cannot be treated as one species or one political nation.
 
-### Residue Dead
+Drakes are living Faewild beasts associated with particular ecologies and colours. Other court beings bargain, hunt, foster, deceive or defend places according to their own natures and relationships.
 
-- [[Corpse Residue]]
-- [[Anchored Hauntings]]
-- [[Self-Anchored Dead]]
-- [[Bound Champions and Ward-Residue]]
-- [[Hollow Sentries]]
+**Principal articles:** [[01 Canon Reference/Creatures/20 Faewild and Menhir/Faewild and Menhir MOC.md|Faewild and Menhir index]] · [[01 Canon Reference/Creatures/20 Faewild and Menhir/10 Drakes/Drakes Overview.md|Drakes]] · [[Root-Minds, Water-Wives, and Stone-Voices]] · [[Hearthlings and Glimmerfolk]] · [[Hags and Counterfeit Kin]]
 
-## 20 Faewild and Menhir
+## Shadowlands creatures and Idol ecologies
 
-- [[Faewild and Menhir MOC]]
+The Shadowlands contain beings shaped by the seven predatory economies of the Idols. Some are peoples with moral agency, including the Grobi; others are Masks, beasts, copied forms or landscapes of appetite. A creature's association with an Idol establishes neither identical guilt nor a shared chain of command.
 
-### Drakes
+**Principal articles:** [[01 Canon Reference/Creatures/30 Shadowlands and Idols/Shadowlands and Idols MOC.md|Shadowlands and Idols index]] · [[01 Canon Reference/Cosmology/40 Idols and Adversary/Idols/The Idols Overview.md|The seven Idols]] · [[Grobi Overview]] · [[Ghouls]] · [[Nightmares]] · [[Vampires in the Present Age]]
 
-- [[Drakes Overview]]
-- [[01 Canon Reference/Creatures/20 Faewild and Menhir/10 Drakes/Bronze Drakes.md|Bronze Drakes]]
-- [[01 Canon Reference/Creatures/20 Faewild and Menhir/10 Drakes/Emerald Drakes.md|Emerald Drakes]]
-- [[01 Canon Reference/Creatures/20 Faewild and Menhir/10 Drakes/Gold Drakes.md|Gold Drakes]]
-- [[01 Canon Reference/Creatures/20 Faewild and Menhir/10 Drakes/Ruby Drakes.md|Ruby Drakes]]
-- [[01 Canon Reference/Creatures/20 Faewild and Menhir/10 Drakes/Sapphire Drakes.md|Sapphire Drakes]]
-- [[01 Canon Reference/Creatures/20 Faewild and Menhir/10 Drakes/Silver Drakes.md|Silver Drakes]]
-- [[The Gemfallen]]
+## Egg White beings and Patron households
 
-### Court Beings
+The Astral Drift alters bodies, routes and identities that remain too long without a stable anchor. Driftkin and other inhabitants survive through different adaptations. Patron servants may be persons, constructed patterns or creatures bound into the maintenance of a city or demiplane.
 
-- [[Blood-Briar Guests]]
-- [[Giltlings]]
-- [[The Cloven]]
-- [[Hearthlings and Glimmerfolk]]
-- [[Tangle-Gremlins]]
-- [[Revel Hosts]]
-- [[Hags and Counterfeit Kin]]
+**Principal articles:** [[01 Canon Reference/Creatures/40 Astral Drift and Patrons/Astral Drift and Patrons MOC.md|Astral Drift and Patrons index]] · [[Driftkin]] · [[Protons of the Drift]] · [[Patron Servitors]] · [[Anchor-Lords]] · [[Great Drift Beings]]
 
-### Places, Fauna, and Hunts
+## Elemental manifestations
 
-- [[Oathwood Wardens]]
-- [[Root-Minds, Water-Wives, and Stone-Voices]]
-- [[Aerials and Deep Envoys]]
-- [[Sky-Lions and Crown-Beasts]]
-- [[Stone-Eyes and Many-Necks]]
-- [[Oathwyrms]]
-- [[Hunt Hounds and Hunt Riders]]
-- [[Way-Weavers]]
+The Elemental Shell produces primal and mixed manifestations of Water, Earth, Air and Fire. These forms are states and patterns rather than a native elemental civilisation. Anchor fauna and script-bound servitors arise around constructed refuges and extraction systems.
 
-## 30 Shadowlands and Idols
+**Principal articles:** [[01 Canon Reference/Creatures/50 Elemental Shell/Elemental Shell MOC.md|Elemental Shell index]] · [[01 Canon Reference/Creatures/50 Elemental Shell/Elemental Manifestations Overview.md|Elemental manifestations]] · [[Primal Shell Manifestations]] · [[Seam and Mixed-Script Manifestations]] · [[Script-Bound Servitors]]
 
-- [[Shadowlands and Idols MOC]] - exact register for 42 forms.
-- [[The Idols Overview]]
-- [[Idol Manifestation and Feeding]]
+## Angels, saints and soul-road beings
 
-### Seven Idol Ecologies
+True angels are created persons whose present actions remain governed by commission. Manifested saints are redeemed human persons who return under bounded commissions after death and judgement. The soul-road also contains functionaries and mechanisms serving the passage of the dead.
 
-- **Greed:** [[Greed Masks and Claim-Beasts]]
-- **Wrath:** [[Wrath Masks and War-Beasts]] and [[Grobi Overview]]
-- **Sloth:** [[Sloth Masks and Dusk-Beasts]] and [[Nightmares]]
-- **Gluttony:** [[Gluttony Masks and Feast-Beasts]], [[Ghouls]], and [[Grave-Runners]]
-- **Pride:** [[Pride Masks and Court-Beasts]], [[Vampires in the Present Age]], and [[Bloodlines Overview]]
-- **Lust:** [[Lust Masks and Invitation-Beasts]]
-- **Envy:** [[Envy Masks and Replacement-Beasts]] and [[Borrowed Saints]]
+**Principal articles:** [[01 Canon Reference/Creatures/60 Heaven and Soul-Road/Heaven and Soul-Road MOC.md|Heaven and Soul-Road index]] · [[01 Canon Reference/Creatures/60 Heaven and Soul-Road/10 True Angels/True Angels Overview.md|True angels]] · [[01 Canon Reference/Creatures/60 Heaven and Soul-Road/20 Manifested Saints/Manifested Saints Overview.md|Manifested saints]] · [[Soul-Road Functionaries]] · [[The Boatman]] · [[Phoenixes]]
 
-### Ghoul Geography
+## Hell, the Depth and the Abyss
 
-- [[Underworld, Underways, and Corpse-Roads]]
-- [[Necropolis of Nihil]]
-- [[Warrens of Woe]]
-- [[Dusk Barrows]]
+Infernal beings have several provenances. They include damned human souls, imposed offices and mantles, Depth fauna, rare fallen angels and creatures produced by Abyssal wounds. These categories can ally, prey upon one another or wage war without forming a single infernal species or empire.
 
-These references define ontology and places; they add no creature forms.
+True Dragons are sovereign horrors of the Abyssal ecology. Their nature differs from Faewild drakes, Hell-drakes and the serpent imagery used by several mortal cultures.
 
-### Wild Shadowlands
+**Principal articles:** [[01 Canon Reference/Creatures/70 Hell and Abyss/Hell and Abyss MOC.md|Hell and Abyss index]] · [[01 Canon Reference/Creatures/70 Hell and Abyss/Hell and Abyssal Beings Overview.md|Infernal beings]] · [[True Dragons]] · [[The Shoreless King]] · [[The Unwritten Worm]] · [[The General Below]]
 
-- [[Dreadforms]]
-- [[First-War Remnants]]
-- [[Before-Shapes]]
+## Ancient and crafted legacies
 
-## 40 Astral Drift and Patrons
+Giant recurrence systems, Nythalum frames, Atherian ward engines, golems, homuncular servants and other crafted beings survive the civilisations that made them. Their animating principles determine whether a form is a machine, a copied pattern, a bodily continuant, a residue or a prison containing another person.
 
-- [[Astral Drift and Patrons MOC]] - exact register for 18 forms.
-- [[The Egg White Primer]]
-- [[Demiplane Atlas]]
-- [[Driftkin]]
-- [[Protons of the Drift]]
-- [[Ward-Eaters]]
-- [[False Lanes, Near-Enoughs, and Name-Shearers]]
-- [[Patron Servitors]]
-- [[Anchor-Lords]]
-- [[Great Drift Beings]]
+**Principal articles:** [[01 Canon Reference/Creatures/80 Ancient and Crafted Legacies/Ancient and Crafted Legacies MOC.md|Ancient and Crafted Legacies index]] · [[Constructs by Animating Principle]] · [[Qianglong Caste Recurrences]] · [[Xolotl Blood and Calendar Engines]] · [[Return Frames]] · [[Atherian Ward and Trial Engines]]
 
-## 50 Elemental Shell
+## Unique creatures and adventure examples
 
-- [[Elemental Shell MOC]]
-- [[Elemental Manifestations Overview]]
-- [[Primal Shell Manifestations]]
-- [[Seam and Mixed-Script Manifestations]]
-- [[Anchor Fauna]]
-- [[Cinder-Bound]]
-- [[Script-Bound Servitors]]
-- [[Great Coherences]]
+[[The Examiner]] is the unique construct created for Breach-Week. [[The Reed Mother]] is a particular Gluttony manifestation in Merewick. Their existence does not add reusable species to the wider catalogue. [[The Echo Seam — Full Adventure]] and [[The First Writ — Full Adventure]] show how ordinary hazards, residue and ancient mechanisms can appear together without sharing one origin.
 
-## 60 Heaven and Soul-Road
+## Complete catalogue and authorial controls
 
-- [[Heaven and Soul-Road MOC]]
-- [[Heavenly Orders Overview]]
-- [[Heavenly Commission and Manifestation]]
+![[Bestiary Registry.base]]
 
-### True Angels
-
-- [[True Angels Overview]]
-- [[Attendant and Herald Angels]]
-- [[Warden, Mercy, and Witness Angels]]
-- [[Guardian Angels and Consecrated Commissions]]
-- [[Host and Greater Angels]]
-- [[Phoenixes]]
-
-### Manifested Saints
-
-- [[Manifested Saints Overview]]
-- [[Local and Mission Saints]]
-- [[Wonder, War, and Threshold Saints]]
-- [[Greater Saints]]
-
-### Soul-Road
-
-- [[Soul-Road Functionaries]]
-- [[The Boatman]]
-- [[Soul-Road Guides and Separators]]
-- [[Soul-Hunters and Threshold Wardens]]
-
-## 70 Hell and Abyss
-
-- [[Hell and Abyss MOC]]
-- [[Hell and Abyssal Beings Overview]]
-- [[Hell, Depth, and the Abyss]]
-- [[Fallen Angels and Broken Commissions]]
-
-### Damned and Depth Fauna
-
-- [[Mirebound and Grudge-Bearers]]
-- [[Crowned Refusers and Hollow Prophets]]
-- [[Flensed Devotees]]
-- [[Mire Larvae and Vow-Leeches]]
-- [[Carrion Eels and Silt Hounds]]
-- [[Bone-Reef Crawlers and Hell-Drakes]]
-
-### Mantles and Soul Predators
-
-- [[Whisper-Mantles and Ash Advocates]]
-- [[Chain Keepers and Mire Marshals]]
-- [[Shore-Lures and Soul-Hooks]]
-- [[Name-Strippers]]
-
-### Abyssal Wounds
-
-- [[Black-Mud Spawn and Wound-Worms]]
-- [[Occlusion Beasts and Null-Maws]]
-- [[True Dragons]]
-- [[The Shoreless King]]
-- [[The Unwritten Worm]]
-- [[The General Below]]
-
-## 80 Ancient and Crafted Legacies
-
-- [[Ancient and Crafted Legacies MOC]]
-- [[Constructs by Animating Principle]]
-- [[Pale-Skins and Hollow-Kings]]
-- [[Qianglong Caste Recurrences]]
-- [[Xolotl Blood and Calendar Engines]]
-- [[Hushwrights]]
-- [[Mnemonic Lichen]]
-- [[Return Frames]]
-- [[Lunar Menagerie]]
-- [[Many-Handed Tribute Wardens]]
-- [[Wax-Bound Courtiers]]
-- [[Estate Dead]]
-- [[Gilded Wardens]]
-- [[Atherian Ward and Trial Engines]]
-- [[Ironbound Frames]]
-- [[Script Familiars]]
-- [[Homuncular Servitors and Vat-Bred Warbeasts]]
-- [[Covenant Siege Golems]]
-- [[The Examiner]]
-
-## 90 Cross-Cutting Conditions
-
-- [[Creature Conditions and Templates]]
-- Local examples: [[Collateral Beasts]], [[Form-Ruins]], [[Vault-Claimed]], and [[The Rimebound]].
-
-## Unique Adventure Creatures
-
-- [[The Examiner]] - unique Breach-Week construct; physically owned by its adventure while remaining visible in the registry.
-- [[The Reed Mother]] - unique Merewick Gut-Maw manifestation of an existing Gluttony form; it adds no reusable family or form to the 42-form register.
-
-## Adventure Encounter Sets
-
-- [[The Echo Seam — Full Adventure]] - mundane road violence and natural mine hazards escalating into residue, Atherian ward engines, and non-conscious Crystal Forms.
-- [[The First Writ — Full Adventure]] - human deserters and readable physical hazards, with optional corpse residue and an Atherian road warden after the rescue.
-
-## Expansion Order
-
-1. **Complete:** Material and Residue + Heaven and Soul-Road.
-2. **Complete:** Faewild and Menhir + Hell and Abyss.
-3. **Complete:** Ancient and Crafted Legacies + Elemental Shell.
-4. **Complete:** Shadowlands and Idols + Astral Drift and Patrons.
-5. **Next:** cross-cutting conditions, regional names, and adventure-demand closure.
-
-Each wave should add only the families its focused plan can place, distinguish, and make useful.
+The bestiary shelf is divided into **10 Material and Residue**, **20 Faewild and Menhir**, **30 Shadowlands and Idols**, **40 Astral Drift and Patrons**, **50 Elemental Shell**, **60 Heaven and Soul-Road**, **70 Hell and Abyss**, **80 Ancient and Crafted Legacies**, and **90 Cross-Cutting Conditions**. The [[01 Canon Reference/Creatures/00 Bestiary Standards/Bestiary Framework — Creatures of the World Egg.md|Bestiary Canon Register]] controls catalogue membership and prevents indexes, places and local manifestations from being counted as additional creature forms.
