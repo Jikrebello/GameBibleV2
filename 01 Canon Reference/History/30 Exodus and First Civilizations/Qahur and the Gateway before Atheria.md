@@ -18,6 +18,8 @@ The relationship between **ancient Qahur and the Gateway country** joined the Sa
 
 The two populations had separate origins. Qahuri communities were principally Orphaned survivors of the Giant collapse. Gateway society formed through older coastal inhabitants, proto-Ahdari migrants, maritime settlers, captives and freed people. Centuries of work, marriage and war created shared families and practices, while each country retained its own language, institutions and political life.
 
+Qahuri identity crossed the competing crowns of Tenaret, Qemaret and Sakhret. Gateway ancestry crossed the boundaries of its ports. Qarzethi described the civic population of the dominant republic; Esharati and Sarqeni described other town populations; Hadrathi described a related border people. The destruction of a capital changed government without erasing these distinctions.
+
 ## Grain, salt and transport
 
 Qahuri grain, dates, linen and preserved fish travelled towards the coast by river, cart and pack train. Gateway salt, imported timber, metal and ship-borne luxuries moved towards the Basin. A Qemaret merchant might hire Esharat carriers, store goods at Sarqen and ship them through Qarzeth.
@@ -74,6 +76,9 @@ By 350 BR, Caleran controlled Sarqen while Vasharan kings still influenced divid
 - [[The Gateway Republic]]
 - [[The Gateway Wars]]
 - [[The Spared Towns and the Queen's Country|The Spared Towns and the Kingdom of Sarqen]]
+- [[The Three Regions of Ancient Qahur]]
+- [[Gateway Peoples, Qarzeth and the Spared Towns]]
+- [[The Hadrathi Border People]]
 - [[The House of Nerethan]]
 - [[Wars of the Inheritance]]
 - [[The Eastern Sea Wars]]

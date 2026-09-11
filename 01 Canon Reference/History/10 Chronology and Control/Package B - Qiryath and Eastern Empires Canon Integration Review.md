@@ -101,3 +101,7 @@ Eryndor remains separate from Teren Casvilar and Aurelius Thalion. Arezan remain
 - [[The Alexander Romance - Sky, Sea, Speaking Trees and the Limits of Conquest]]
 - [[After Alexander - Ptolemaic Egypt, Samyra and the Successor Inheritance]]
 - [[Akhenaten Nefertiti and Tutankhamun - The Amarna Court and Qahur's Single Radiance]]
+
+## Subsequent identity integration
+
+[[Ancient Peoples before Atherian Unification - Canon Integration Review]] subsequently distinguished Jirahar, Qiryathi, river-exile, Ubar canal, Arqeshite, Vashari, Vasharan, Ortheian, Delkosi, Tasarian, Ilyessan and Aveshi identities through 350 BR. It changes no Package B event, dynasty or supernatural ruling.

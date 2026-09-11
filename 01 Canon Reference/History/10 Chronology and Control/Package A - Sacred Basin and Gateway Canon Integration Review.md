@@ -96,3 +96,7 @@ Qahur remains separate from Ishkatar. Qarzeth remains separate from Sarqen. The 
 - [[90 Archive & Drafts/10 Research/Mythic and Sacred History/Package A - Sacred Basin and Gateway Country/Historical Atlas of the Gateway Country.md|research atlas of the Gateway country]]
 - [[90 Archive & Drafts/10 Research/Mythic and Sacred History/Package A - Sacred Basin and Gateway Country/The White Measure and the Second Houses of Ancient Qahur.md|White Measure development account]]
 - [[Druma and the Prophecies of Kalistrade - Wealth, Necropolis and the Qahuri Dead]]
+
+## Subsequent identity integration
+
+[[Ancient Peoples before Atherian Unification - Canon Integration Review]] subsequently distinguished Qahuri, Twin-Reed regional, Gateway, Qarzethi, Esharati, Spared Town, Sarqeni and Hadrathi identities through 350 BR. It changes no Package A event, dynasty or supernatural ruling.

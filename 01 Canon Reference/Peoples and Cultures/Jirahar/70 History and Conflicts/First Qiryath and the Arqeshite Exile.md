@@ -41,6 +41,8 @@ The first exile established a permanent principle: the Path can be kept without 
 
 ## Navigation
 
+- [[Jirahar of Road, Tower, Exile and Return]]
+- [[Ubar Canal Peoples and the Arqeshites]]
 - [[Historical Spine of the Jirahar]]
 - [[01 Canon Reference/Peoples and Cultures/Jirahar/70 History and Conflicts/Historical Atlas of Qiryath before Atheria.md]]
 - [[Vashar and the Crown of Roads and Dawns]]

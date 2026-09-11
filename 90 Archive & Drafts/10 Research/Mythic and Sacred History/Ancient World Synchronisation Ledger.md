@@ -39,10 +39,23 @@ This ledger keeps the regional histories on one calendar while allowing them to 
 | Proto-Ahdari | Ark-derived, later mixed | emerge in the later northern fission around wells, territorial coalitions and guest protection |
 | Qahuri basin populations | principally Orphaned, with later migrants and conquerors | neither descendants of Ishkatar's rulers nor a lost branch of the Glass migration |
 | Gateway peoples | Braided ancient coastal population | older shore communities, proto-Ahdari migrants, captives, freed people and maritime settlers |
+| Enathi, Serathi and Vardeni | related Orphaned Aurin peoples | retain distinct local belonging within the expanding Atherian cultural and civic world |
+| Arkenan and Saronikan communities | several Braided and Atherianised port populations | use city identities in the ancient period; regional labels remain geographic conveniences |
+| Arqeshites and Ubar canal peoples | Orphaned river populations; Arqeshite civic-imperial culture | House Ubar's subjects do not share one ancestry and Arqeshite identity survives its dynasty |
+| Vashari and Vasharan subjects | Orphaned highland people; multi-people imperial subjecthood | Vashari is ethnic-cultural and Vasharan is political-imperial |
+| Ortheians and Delkosi | Atherian-speaking upland people; Braided successor culture | neither identity conveys Caleran citizenship |
 | Tarkhan | Orphaned | shaped by Vathra's collapse without inheriting Giant continuity or a universal royal line |
 | Folk and Ättar | related Orphaned populations | develop regionally; no single ancestral Folk kingdom |
 | Sestaran precursors | several Orphaned and early Braided communities | the Concord and Sestaran identity belong to later history |
 | Nsizwa | Orphaned | independent survival and development on their own landmass |
+
+## Ancient identity integration
+
+The Atherian, Package A and Package B identity histories through 350 BR were promoted on **11 September 2026**. [[Peoples before Atherian Unification]] is the public index, and [[Ancient Peoples before Atherian Unification - Canon Integration Review]] records all twenty-five profile destinations.
+
+The integration fixes the distinction between Atherian culture and Caleran citizenship; Qahuri civilisation and Twin-Reed allegiance; Gateway ancestry and Qarzethi or Sarqeni civic identity; Jirahar peoplehood and Qiryathi attachment; Arqeshite culture and Ubar dynastic rule; Vashari ancestry and Vasharan subjecthood; and Atherian-speaking Ortheia and Caleran political membership.
+
+Package C retains wider proto-Ahdari and Tarkhan self-understanding. Package D retains Folk and Ättar self-understanding. Their absence from the twenty-five-profile register is a scope boundary rather than an unresolved identity ruling.
 
 ## Package A synchronisation register
 

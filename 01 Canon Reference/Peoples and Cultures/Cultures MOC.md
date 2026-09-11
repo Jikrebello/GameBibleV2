@@ -23,6 +23,7 @@ This page provides a direct entrance to each principal culture. The [[01 Canon R
 - [[01 Canon Reference/History/Peoples in the World Historical Atlas.md|Peoples through History]] — a chronological route from Giant rule and the Glass refuge to the societies of 1360 AR.
 - [[01 Canon Reference/History/70 Later History and Present Day/Present-Day Courts and Crowns (1360 AR).md|Courts and Crowns in 1360 AR]] — the rulers, states and political relationships of the present world.
 - [[01 Canon Reference/History/World Historical Atlas MOC.md|World Historical Atlas]] — the complete historical entrance, including distant and otherworld histories.
+- [[01 Canon Reference/History/30 Exodus and First Civilizations/Peoples before Atherian Unification/Peoples before Atherian Unification.md|Peoples before Atherian Unification]] — ancient identities, civic populations and imperial subjects from the Unbinding to 350 BR.
 
 ## Living peoples and societies
 
@@ -94,6 +95,8 @@ The Atherian Empire was the central imperial civilisation of the known world. It
 
 **Principal articles:** [[01 Canon Reference/Peoples and Cultures/Atherian Empire/The Atherian Empire Overview.md|Overview]] · [[01 Canon Reference/Peoples and Cultures/Atherian Empire/70 History and Conflicts/Historical Atlas of Atheria.md|History]] · [[01 Canon Reference/History/30 Exodus and First Civilizations/The First Atherian City-States.md|First city-states]] · [[01 Canon Reference/History/40 Atherian Imperial Age/The Rise of the Atherian Empire Overview.md|Rise of the empire]]
 
+**Ancient peoples:** [[01 Canon Reference/History/30 Exodus and First Civilizations/Peoples before Atherian Unification/Southern Leagues, Maritime Atherians and Republican Belonging.md|Southern leagues, maritime Atherians and republican belonging]] · [[01 Canon Reference/Peoples and Cultures/Atherian Empire/10 Foundations/Peoples of the Ancient Aurin.md|Peoples of the ancient Aurin]] · [[01 Canon Reference/History/30 Exodus and First Civilizations/Peoples before Atherian Unification/Arkenan and Saronikan Communities before 350 BR.md|Arkenan and Saronikan communities]]
+
 ## Peoples through history
 
 The chronological history begins with the human communities subjected to Giant rule and those which survived its collapse outside the Glass refuge. The Great Prophet's followers became one people during their refuge in the desert. After his death, successive migrations and two gradual fissions contributed to Atherian, Jirahar and proto-Ahdari histories, while Orphaned societies continued to develop in their own lands.
@@ -101,6 +104,8 @@ The chronological history begins with the human communities subjected to Giant r
 Later conquest and migration produced new civic and cultural identities. Atherian citizenship joined people of many ancestries; the Fall and Long Reconquest transformed the imperial provinces; and the Covenant, Thalmyric, Eclessian, Sestaran and Velian worlds emerged through different combinations of inheritance and political change.
 
 Follow the complete sequence in [[01 Canon Reference/History/Peoples in the World Historical Atlas.md|Peoples through History]]. The broad periods are collected in [[01 Canon Reference/History/30 Exodus and First Civilizations/Ancient and Early Historic Ages.md|Ancient and Early Historic Ages]], [[01 Canon Reference/History/40 Atherian Imperial Age/Atherian Imperial Age.md|the Atherian Imperial Age]], [[01 Canon Reference/History/50 Redeemer and Conversion/The Age of the Redeemer.md|the Age of the Redeemer]], [[01 Canon Reference/History/60 Fall and Successor Empires/The Fall and the Long Reconquest.md|the Fall and Long Reconquest]] and [[01 Canon Reference/History/70 Later History and Present Day/The Age of Held Proofs.md|the Age of Held Proofs]].
+
+The dedicated [[01 Canon Reference/History/30 Exodus and First Civilizations/Peoples before Atherian Unification/Peoples before Atherian Unification.md|ancient peoples directory]] distinguishes the populations, cities and political identities established by 350 BR.
 
 ## Present states and regional entrances
 

@@ -19,6 +19,8 @@ The history of Atheria extends from the southern departure of Ark-derived househ
 
 Atherian identity changed through southern settlement, maritime allegiance, city membership and republican or imperial citizenship. Its populations included descendants of the Glass People, earlier inhabitants, adopted household members, freed captives and people incorporated by conquest. The first expansion encountered occupied fields, working harbours and societies with their own experience of the Giant collapse.
 
+[[Southern Leagues, Maritime Atherians and Republican Belonging]] follows these changes in membership to 350 BR. It distinguishes Atherian language and culture from citizenship in a particular city and from political standing under the Caleran republic.
+
 Massacre, slavery, hostage-taking and land seizure accompanied treaties, intermarriage and local defeats of settler forts. Later membership could create genuine belonging while preserving unequal rights. These different experiences remain important to the histories of the empire's successors.
 
 ## Southern separation and settlement, c. 2130–1900 BR
@@ -34,6 +36,8 @@ Southern leagues left the communities nearer the Glass over several generations.
 Ship-owning houses connected timber, metal, grain and captive labour across distant shores. A successful fleet required food and repairs ashore as well as skill at sea. Harbour families could use that dependence to restrain a commander or find themselves subjected to military seizure.
 
 The Aurin supplied one group of these relationships. [[Arkenan and Saronikan Cities before the Empire]] describes another, centred on the eastern islands and Thalassian harbours. Erenost's grain seizure, Pyrassa's organised voyages and Irenai's teaching traditions arose from their own regional circumstances. These communities developed alongside Caleran rather than receiving every institution from it.
+
+[[Arkenan and Saronikan Communities before 350 BR]] describes the civic populations which sustained those ports and the mixed households produced by settlement, captivity, manumission and military service.
 
 ## Cities and royal households, c. 1400–800 BR
 
@@ -76,6 +80,8 @@ The Redeemer entered this imperial world. Persecution, Conversion, regional deca
 ## People and places of the early history
 
 - [[Enathi]], [[Serathi]] and [[Vardeni]] — the related Aurin peoples and their different societies.
+- [[Southern Leagues, Maritime Atherians and Republican Belonging]] — the changing meanings of Atherian identity before unification.
+- [[Arkenan and Saronikan Communities before 350 BR]] — the eastern Atherian-speaking port populations.
 - [[Sarven, Nerava, Thesra and Olveth]] — the palace centre, river landing, hill city and upland settlement.
 - [[Avren and Caleth]] — the founding coalition and its fatal division.
 - [[Ilaron and Tarsenna]] — the later ruling couple and their public religious settlement.

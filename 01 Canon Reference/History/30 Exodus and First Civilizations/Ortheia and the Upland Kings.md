@@ -70,6 +70,8 @@ By 350 BR, Ortheia occupied a position between the Caleran state and Vashar's ea
 
 ## Further reading
 
+- [[Ortheians and Delkosi]]
+- [[Arkenan and Saronikan Communities before 350 BR]]
 - [[Eryndor III and the Ortheian Eastern Conquest]]
 - [[The Celestial Compact and the Caleran Republic]]
 - [[Wars of the Inheritance]]

@@ -26,6 +26,8 @@ Water and food made the landings valuable to travellers. Households cultivated n
 
 A mixed coastal society emerged through residence, work and marriage. Descent from the Near-Glass peoples formed one strand of its ancestry. Language, religious practice and civic standing developed through relationships made on the coast, particularly between ship households, cultivated districts and the communities that maintained the desert roads.
 
+This durable mixture formed the ancient Gateway people. It did not make every inhabitant a Qarzethi citizen. Esharati, Sarqeni, Belqaran, Hazrethi and Hadrathi communities retained their own membership and political relationships beneath the republic's power.
+
 ## Capital and dependent towns
 
 Between about 1200 and 850 BR, Qarzeth became the centre of an unequal association. Its prominence rested on storage, shipping and the ability of its leading households to maintain fleets and garrisons. **Sarqen** and **Hazreth** supplied pilots and repair yards; **Esharat** and **Belqara** controlled cultivated ground and overland carriage; **Tammur** and **Oresh** guarded distant commercial positions; and **Hadrath** remained an allied border kingdom with interests of its own. These communities retained different elders, cults and privileges even when Qarzeth claimed authority over them.
@@ -69,6 +71,9 @@ The resulting wars required ships and supplies on a scale neither side could sus
 The final war combined opposition to child sacrifice with rivalry over security, wealth and territory. The Caleran speaker **Orsen Valeor** demanded the city's destruction; **Mera Castren** argued for compulsory closure of the sanctuary under inspection. In approximately 525–520 BR, Atherian forces besieged Qarzeth, broke its sacrificial institutions and then burned, razed and heavily salted the central city. They murdered, raped and enslaved inhabitants during the sack. Lesser towns accepting the settlement escaped Qarzeth's planned destruction and became the centres through which the country recovered.
 
 ## Further reading
+
+- [[Gateway Peoples, Qarzeth and the Spared Towns]]
+- [[The Hadrathi Border People]]
 
 - [[The Gateway Wars]]
 - [[The Three Collections and the Fall of Qarzeth]]

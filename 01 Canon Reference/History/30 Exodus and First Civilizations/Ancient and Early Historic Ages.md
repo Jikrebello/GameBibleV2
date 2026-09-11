@@ -23,6 +23,8 @@ tags: []
 
 This note bridges [[Prehistory Overview]] and the [[Atherian Imperial Age]]. It exists to make civilization feel earned: humanity does not move directly from Giant slavery to continental empire. It passes through exile, settlement, first kings, city-states, sacred experiments, war, memory, and failed obedience.
 
+The peoplehood, civic membership and imperial subjecthood of the period are indexed in [[Peoples before Atherian Unification]].
+
 ## Era Ladder
 
 1. [[Age of Chains]]: the Five Imperial Horizons and many lesser Giant polities enslave humanity and teach the world its first great lessons in tyranny, monumentality, forbidden science, and false divinity.
@@ -64,3 +66,4 @@ Use [[Southern Cold Belt and Grobi Frontier]] as the governing note for the deep
 - [[Eryndor III and the Ortheian Eastern Conquest]]
 - [[Wars of the Inheritance]]
 - [[The Eastern Sea Wars]]
+- [[Peoples before Atherian Unification]]

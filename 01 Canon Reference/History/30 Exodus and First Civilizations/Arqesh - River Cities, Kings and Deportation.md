@@ -168,6 +168,9 @@ Arqeshite inhabitants maintained difficult waterworks, preserved older learning,
 
 ## Read with
 
+- [[Ubar Canal Peoples and the Arqeshites]]
+- [[Jirahar of Road, Tower, Exile and Return]]
+- [[Vashari and the Subjects of Vashar]]
 - [[The Arqeshite River Empire]]
 - [[First Qiryath and the Arqeshite Exile]]
 - [[01 Canon Reference/Peoples and Cultures/Jirahar/70 History and Conflicts/Historical Atlas of Qiryath before Atheria.md]]

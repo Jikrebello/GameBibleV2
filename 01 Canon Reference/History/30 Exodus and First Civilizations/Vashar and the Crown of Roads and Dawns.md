@@ -192,6 +192,9 @@ The **Champion and the Unrecognised Son** belongs to a later western great house
 
 ## Read with
 
+- [[Vashari and the Subjects of Vashar]]
+- [[Ubar Canal Peoples and the Arqeshites]]
+- [[Tasarian, Ilyessan and Aveshi Coastal Peoples]]
 - [[01 Canon Reference/Peoples and Cultures/Jirahar/70 History and Conflicts/Historical Atlas of Qiryath before Atheria.md]]
 - [[01 Canon Reference/History/30 Exodus and First Civilizations/Arqesh - River Cities, Kings and Deportation.md]]
 - [[The Eastern Sea Wars]]

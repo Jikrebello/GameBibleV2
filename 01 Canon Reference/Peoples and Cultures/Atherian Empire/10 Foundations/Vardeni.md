@@ -28,9 +28,13 @@ Religious practices concerned the safety of animals, the fertility of particular
 
 Vardeni migration into the lower country occurred through employment, marriage, hunger and military service. Lowland rulers recruited upland soldiers and pack drivers, then tried to keep their families dependent upon royal wages. Valley communities also sheltered people fleeing those rulers. Over time, the same routes carried ambitious young fighters outward and displaced families back into the hills.
 
-## Atherian incorporation
+## Belonging and Atherian incorporation
 
-Atherian settlement brought additional markets, armed patrons and competing claims to land. Households entered the resulting civic world through unequal arrangements. Some retained property and acquired influence; others lost freedom or moved to relatives beyond a conqueror's reach. Successive generations combined local practices with Atherian speech and public worship. Their later descendants belonged to several communities rather than one surviving ancient political body.
+**Vardeni** covered related valley and upland communities. People also named their valley, household and seasonal range. Kinship established most belonging, while marriage and admission to a settlement brought displaced families into shared pasture and winter stores. An agreement about land and animals could matter as much as distant ancestry when a household sought a place in a new valley.
+
+Atherian commanders recruited Vardeni soldiers, drivers and metalworkers. Wages and grants allowed some families to acquire lowland property. Other rulers held recruits' relatives dependent upon military stores or sent captives into mines and estates. An upland name could therefore remain important to a household serving a Caleran magistrate or living in an Atherian ward.
+
+By 350 BR Vardeni communities ranged from relatively autonomous valleys to families deeply involved in republican military and commercial life. Atherian speech and Common Sky worship could accompany Vardeni kinship, pasture rights and religious practice without converting Orphaned ancestry into Glass descent.
 
 ## Read onward
 
@@ -38,4 +42,4 @@ Atherian settlement brought additional markets, armed patrons and competing clai
 - [[Sarven, Nerava, Thesra and Olveth]]
 - [[Southern Settlement and Maritime Atheria]]
 - [[The Common Sky and the Formation of Astratheon]]
-
+- [[Southern Leagues, Maritime Atherians and Republican Belonging]]

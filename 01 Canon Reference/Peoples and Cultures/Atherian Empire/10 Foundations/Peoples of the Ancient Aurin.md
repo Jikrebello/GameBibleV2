@@ -24,7 +24,7 @@ The [[Enathi]] cultivated lowland fields and maintained the boats and landings t
 
 The three peoples shared related speech, many domestic practices and memories of Giant rule. River grain sustained upland settlements; upland metal and animals supported the river economy; hill-city workshops and markets linked both. Marriages moved knowledge along these routes. Religious differences usually followed a particular town, teacher or powerful house more closely than a clean boundary between peoples.
 
-Their descendants would enter Atherian society under unequal circumstances. Some became citizens, landowners or temple patrons. Others were enslaved, dispossessed or driven into less accessible country. Many retained local affiliations alongside an Atherian language or civic identity. Their contribution to later heartland society cannot be reduced to a single conquered population disappearing into its conquerors.
+Their descendants entered Atherian society under unequal circumstances. Some became citizens, landowners or temple patrons. Others were enslaved, dispossessed or driven into less accessible country. Many retained local affiliations alongside Atherian language or civic identity. By 350 BR the three peoples formed an enduring part of the heartland population; conquest had not reduced them to a vanished predecessor culture.
 
 ## Settlement and later identity
 
@@ -40,4 +40,4 @@ The spread of Atherian speech and civic institutions changed public identities o
 - [[Vardeni]]
 - [[Southern Settlement and Maritime Atheria]]
 - [[Historical Atlas of Atheria]]
-
+- [[Southern Leagues, Maritime Atherians and Republican Belonging]]

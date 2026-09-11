@@ -142,6 +142,7 @@ The Year of Standing Stars belongs somewhere within these overlapping centuries.
 - [[The Siege and the Returnings]] — High Harbour and the maritime households whose war and homecomings fall around 1980–1930 BR.
 - [[Southern Settlement and Maritime Atheria]] — the southern departure, occupied settlement country and the relationships from which maritime societies grew.
 - [[Peoples of the Ancient Aurin]] — related Orphaned river, hill-city and upland societies encountered by southern settlers.
+- [[Peoples before Atherian Unification]] — the complete ancient identity route to 350 BR.
 - [[Ancient and Early Historic Ages]]
 - [[Proto-Ahl-e-Ahd Desert Tribes]]
 

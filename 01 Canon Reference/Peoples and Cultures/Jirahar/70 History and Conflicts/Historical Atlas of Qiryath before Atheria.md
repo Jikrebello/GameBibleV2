@@ -201,6 +201,9 @@ These traditions belong to different centuries and districts. Their continued pe
 ## Read with
 
 - [[Historical Spine of the Jirahar]]
+- [[Jirahar of Road, Tower, Exile and Return]]
+- [[Ubar Canal Peoples and the Arqeshites]]
+- [[Vashari and the Subjects of Vashar]]
 - [[Proto-Jirahar Tower Towns]]
 - [[First Qiryath and the Arqeshite Exile]]
 - [[The Making of the Jirahar]]

@@ -15,6 +15,14 @@ tags: []
 
 This note controls broad ancestry relationships without assigning cultures one fixed appearance. Centuries of migration, conquest, conversion, fosterage, slavery, marriage, and trade make physical traits overlap throughout the known world.
 
+## Ancient identities at 350 BR
+
+Ancient peoplehood did not coincide automatically with language, citizenship, religion or political allegiance. By 350 BR **Atherian** could describe a language and culture, citizenship in an Atherian city or membership in the Caleran republic. Enathi, Serathi and Vardeni families could hold Caleran citizenship while retaining their Orphaned ancestry and local belonging. Ortheians spoke an Atherian language under an independent crown.
+
+The **Qahuri** formed a principally Orphaned river civilisation whose identity crossed the divisions of the Twin-Reed crowns. The **Gateway peoples** formed a Braided coastal population; Qarzethi and Sarqeni named civic and political affiliations within that broader country. The **Jirahar** remained a dispersed Ark-derived and later mixed people through road, tower, river and city communities. **Arqeshite** named a civic and imperial culture rather than every subject of House Ubar. **Vashari** named a highland people, while **Vasharan** described the multi-people empire of the Crown of Roads and Dawns.
+
+The full period register is [[01 Canon Reference/History/30 Exodus and First Civilizations/Peoples before Atherian Unification/Peoples before Atherian Unification.md|Peoples before Atherian Unification]].
+
 ## Folk and Ättar
 
 The archaic Fäskogarfolk population contributed to both the living Folk and the distinct Ättar culture. The Folk include many regional populations rather than one ancestry. Enaidfae is an old-rite Folk identity, not a biological subdivision. Chapel-Folk remain ethnically and culturally Folk after conversion.
@@ -51,3 +59,4 @@ Character appearance should arise from family, region, class, labor, diet, age, 
 - [[The Making of the Covenant Peoples]]
 - [[The Making of the Thalmyrics]]
 - [[The Making of the Tarkhan]]
+- [[01 Canon Reference/History/30 Exodus and First Civilizations/Peoples before Atherian Unification/Peoples before Atherian Unification.md|Peoples before Atherian Unification]]

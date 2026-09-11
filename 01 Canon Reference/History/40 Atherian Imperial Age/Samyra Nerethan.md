@@ -24,6 +24,8 @@ Sarqen, the enlarged Second Harbour, was the royal seat. Food came from cultivat
 
 Samyra used the Atherian court speech of her dynasty, the languages of the Gateway towns and a Qahuri ritual register learned through her maternal household. At Sarqen she appeared in harbour and spared-town regalia; before Qahuri embassies she used the forms of her mother's river kin; in Atherian diplomacy she presented the military inheritance of Delkos. These practices allowed her to speak directly to groups whom earlier rulers had addressed through interpreters.
 
+These inheritances remained distinct. Gateway described the old Braided population of the coast. Hadrima's Esharati kin belonged to one of its surviving towns. Tazirun supplied a junior Qahuri connection without conveying a Basin crown. The Nerethans' Delkosi culture came from an eastern fleet and court assembled after Eryndor's conquests, not from descent from Eryndor himself. Samyra could draw political authority from all four relationships without combining them into one ancestry.
+
 Samyra learned to receive petitioners and envoys in several of the languages used in the country. She could address a town's concerns without depending entirely on a court interpreter. Festivals, household visits and the distribution of assistance helped sustain those relationships.
 
 ## Exclusion and return
@@ -65,3 +67,5 @@ Samyra's dynasty ended while Sarqen remained a working port. Later royal memorie
 - [[Qahur and the Gateway before Atheria|Qahur and the Gateway, c. 2165–350 BR]]
 - [[The Wars of the Atherian Succession]]
 - [[Households of the Imperial Founding]]
+- [[Gateway Peoples, Qarzeth and the Spared Towns]]
+- [[Ortheians and Delkosi]]

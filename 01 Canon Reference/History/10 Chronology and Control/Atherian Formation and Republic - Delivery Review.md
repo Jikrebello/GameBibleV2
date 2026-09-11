@@ -130,3 +130,7 @@ The baseline-relative scope above excludes the two research dossiers already pre
 Reading route: **Historical Atlas of Atheria → Southern Settlement and Maritime Atheria → Peoples of the Ancient Aurin → Caleran's royal households → Ilaron and Tarsenna → Arkenan and Saronikan Cities → Celestial Compact and republic**. The Wolf's Two Sons and the ordinary-life article provide contrasting readings.
 
 Package 2B closes for review here. Package 2C, imperial-depth writing, commits and pushes are not included.
+
+## Subsequent identity integration
+
+[[Ancient Peoples before Atherian Unification - Canon Integration Review]] subsequently fixed the changing meanings of Atherian identity through 350 BR and expanded the Enathi, Serathi, Vardeni, Arkenan and Saronikan population histories. It changes no event or date recorded in this delivery review.

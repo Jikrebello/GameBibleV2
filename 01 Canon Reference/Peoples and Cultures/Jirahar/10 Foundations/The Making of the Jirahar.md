@@ -17,11 +17,17 @@ The Jirahar descend principally from one later branch of the Near-Glass camp con
 
 ## Early Tower People
 
-The first tower communities joined caravan judges, herders, scribes, metalworkers, water engineers, route custodians and families responsible for sacred stores. Portable adjudication and translocal registers became one answer to wells and roads no single wall could lawfully own. Qiryath became the greatest court without erasing regional practice.
+The first tower communities joined caravan judges, herders, scribes, metalworkers, water engineers, route custodians and families responsible for sacred stores. Early people commonly named a household, occupation, road or tower. **Jirahar** became a broad communal name as these houses recognised shared worship, obligations and rules of admission across the routes.
+
+A road house contained related and adopted households responsible for a stage of travel, common stores and duties towards guests. Belonging came through acknowledged descent or through public conversion and admission. Marriage and adoption connected routes. Enslaved people could live and work inside these communities without acquiring free standing through labour alone. No judge, keeper or provisioner inherited the Prophet's commission.
+
+Portable adjudication became one answer to wells and roads which no single wall controlled. Qiryath became the greatest city and sanctuary without erasing regional practice. **Qiryathi** described a civic or memorial relationship with that city, not the ancestry of every Jirahar.
 
 ## Arqeshite Exiles and Returners
 
-The first destruction divided those deported into Arqeshite cities, those who remained around the ruin, those who fled by river or road, and those who returned generations later. Arqeshite language, masonry, instruments, and legal forms entered Jirahar life without replacing the Orakha.
+The first destruction divided those deported into Arqeshite cities, those who remained around the ruin, those who fled by river or road, and those who returned generations later. Arqeshite language, masonry, instruments and administrative forms entered Jirahar life without replacing the Orakha.
+
+An exile could serve as an Arqeshite-speaking scribe, musician, soldier or water official while remaining part of a Jirahar household. A descendant could also leave communal life and enter a river-city house. Neither result followed automatically from deportation. Many river families remained where exile had placed them after Second Qiryath was consecrated.
 
 ## Atherian Jirahar
 
@@ -44,3 +50,5 @@ A person may be Qesheth-born, a Dahavan advocate, a Yamma sailor, a Talga road-w
 - [[Jirahar Law, Descent, and Conversion]]
 - [[Four Ways of Jirahar Life]]
 - [[Historical Spine of the Jirahar]]
+- [[Jirahar of Road, Tower, Exile and Return]]
+- [[Ubar Canal Peoples and the Arqeshites]]

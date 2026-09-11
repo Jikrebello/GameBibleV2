@@ -200,6 +200,10 @@ Vasharan inscriptions record the road commands and royal victories while omittin
 
 ## Read with
 
+- [[Tasarian, Ilyessan and Aveshi Coastal Peoples]]
+- [[Ortheians and Delkosi]]
+- [[Vashari and the Subjects of Vashar]]
+- [[Arkenan and Saronikan Communities before 350 BR]]
 - [[Vashar and the Crown of Roads and Dawns]]
 - [[01 Canon Reference/Peoples and Cultures/Jirahar/70 History and Conflicts/Historical Atlas of Qiryath before Atheria.md]]
 - [[01 Canon Reference/History/30 Exodus and First Civilizations/Arqesh - River Cities, Kings and Deportation.md]]

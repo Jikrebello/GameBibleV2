@@ -46,6 +46,8 @@ A community may preserve both an object and a story about it while disagreeing a
 
 [[Peoples in the World Historical Atlas]] introduces the eleven cultural histories. Their formation includes Ark-derived peoples, Orphaned survivors of the Giant collapse and later Braided populations. These descriptions concern historical ancestry; citizenship, religion and present political allegiance have their own histories.
 
+[[01 Canon Reference/History/30 Exodus and First Civilizations/Peoples before Atherian Unification/Peoples before Atherian Unification.md|Peoples before Atherian Unification]] gives the detailed ancient register to 350 BR. It follows the names and membership practices used by Atherian, Qahuri, Gateway, Jirahar, Arqeshite, Vashari and eastern communities before later national and confessional identities existed.
+
 The [[Lesser Crowns of the Giant Age]] introduces the original eighteen secondary polities and the Aurin kingdom of [[Arsuvan - The Giant Kingdom of the Aurin|Arsuvan]], within the many-state world of the Five Imperial Horizons. [[Named Figures of the Known World]] introduces established rulers, teachers and commanders. [[Great Saints and Sinners - Lives and Afterlives]] follows fourteen independent mortal lives and their later activity, while [[Additional Mortal Lives and Frontier Traditions]] gathers local heroes, artisans, households and other remembered figures.
 
 For the political circumstances inherited by the present generation, read [[Present-Day Courts and Crowns (1360 AR)]] and [[Present-Day Political Board]].
@@ -60,6 +62,8 @@ For the political circumstances inherited by the present generation, read [[Pres
 
 [[Historical Atlas of Atheria]] connects the southern departure, maritime societies, royal cities and republican world. Follow [[Southern Settlement and Maritime Atheria]] into the [[Peoples of the Ancient Aurin|Aurin societies]], then read [[Caleran - Foundation and Royal Households]] and [[The Common Sky and the Formation of Astratheon]].
 
+[[Southern Leagues, Maritime Atherians and Republican Belonging]] explains how Atherian changed from a broad maritime-cultural name into a civic and political designation. [[Arkenan and Saronikan Communities before 350 BR]] follows the eastern ports whose Atherian speech did not give Caleran automatic authority.
+
 [[Arkenan and Saronikan Cities before the Empire]] provides an eastern counterpart through port households, grain voyages and teaching. [[The Celestial Compact and the Caleran Republic]] follows public institutions through service, land and provincial wealth to the eve of Thalion. [[Food, Work and Citizenship in Republican Atheria]] describes the households sustaining that world.
 
 [[Palace Survivors and the Southern Heroic Age]] follows independent recovery after the Giant collapse. [[The Siege and the Returnings]] gives that world a connected heroic history, from High Harbour's fall to supernatural pursuit, changed households and settlement on another shore.
@@ -68,6 +72,8 @@ For the overseas republic, read [[The Gateway Republic]] and [[The Gateway Wars]
 
 The neighbouring Sacred Basin possessed an independent history. [[Ancient Qahur and the Twin-Reed Crowns]] follows its Orphaned river communities from Ishkatar's collapse through successive native and foreign dynasties to the divided crowns of 350 BR. [[Life in the Ancient Sacred Basin]] describes its canals, towns, workshops, households and pleasures. [[The White Measure and the Second Houses]] follows the mortuary discipline by which several wealthy Qahuri founders bound their souls to embalmed bodies and became Egg White Patrons. [[Qahur and the Gateway before Atheria|Qahur and the Gateway, c. 2165–350 BR]] connects the two civilisations through food, roads, marriage, refuge and war.
 
+The population history is gathered in [[The Three Regions of Ancient Qahur]], [[Gateway Peoples, Qarzeth and the Spared Towns]] and [[The Hadrathi Border People]]. These articles distinguish Qahuri identity from crown allegiance and Gateway ancestry from the civic claims of Qarzeth or Sarqen.
+
 For the end of the Gateway Republic, [[The Three Collections and the Fall of Qarzeth]] follows Ilya of Qarzeth, Sapha of Esharat, the Caleran debate and the destruction of the child-taking capital. The article preserves the distinction between the rescue of children and the murders, rape and enslavement committed by the victorious army.
 
 ## Qiryath and the eastern empires
@@ -75,6 +81,8 @@ For the end of the Gateway Republic, [[The Three Collections and the Fall of Qar
 [[01 Canon Reference/Peoples and Cultures/Jirahar/70 History and Conflicts/Historical Atlas of Qiryath before Atheria.md]] follows the Jirahar from the road-house centuries through local judges, First Qiryath, deportation and return. [[01 Canon Reference/History/30 Exodus and First Civilizations/Arqesh - River Cities, Kings and Deportation.md]] describes the Ubar canal cities, House Ubar and the empire which destroyed Qiryath in 742 BR.
 
 [[01 Canon Reference/History/30 Exodus and First Civilizations/Road, Tower, River and Highland Life.md]] describes the households, food, work, debt, marriage, burial and ordinary recreation of the connected eastern countries.
+
+The historical peoples route continues through [[Jirahar of Road, Tower, Exile and Return]], [[Ubar Canal Peoples and the Arqeshites]], [[Vashari and the Subjects of Vashar]], [[Ortheians and Delkosi]] and [[Tasarian, Ilyessan and Aveshi Coastal Peoples]].
 
 [[Vashar and the Crown of Roads and Dawns]] follows Arezan Tiravan's coalition and the highland empire which inherited much of the Ubar basin. The adjoining Atherian history begins with [[Ortheia and the Upland Kings|Ortheian]] rule over the Celestial Compact and [[Eryndor III and the Ortheian Eastern Conquest|Eryndor III's]] campaign across the eastern sea. The [[Wars of the Inheritance]] divide his conquests among Vashar, Ortheia, Delkos, selected Qahuri crowns and farther eastern states. [[The Eastern Sea Wars]] carries the relationship between Vashar and the recovered Caleran republic to the settlement of 350 BR.
 
@@ -141,5 +149,7 @@ The [[Dependable Navigation - Review and Repair Ledger]] documents the link repa
 [[Package A - Sacred Basin and Gateway Canon Integration Review]] records the promotion of ancient Qahur, the named Gateway history and the White Measure. Its open questions include the ancient river's proper name, exact borders, the total number of successful Second Houses and which of their Patrons remain reachable in 1360.
 
 [[Package B - Qiryath and Eastern Empires Canon Integration Review]] records the promotion of the Jirahar road-house history, Arqesh, Vashar, Ortheia, Eryndor's eastern conquest, the Successor kingdoms and the Eastern Sea Wars.
+
+[[Ancient Peoples before Atherian Unification - Canon Integration Review]] records the synchronised identity integration across Atherian, Package A and Package B history.
 
 [[Atherian Palace and Maritime Histories - Integration Review]] records the heroic and republican additions. [[Imperial Founding - Authorial History and Integration Review]] records the subsequent selection of Thalion as heir and founder, the incoming Nerethan dynasty, the named founding generation and its consistency checks. [[Age of Glory - Authorial History and Integration Review]] records the dynastic, social and supernatural history through 0 AR.

@@ -153,6 +153,8 @@ In 350 BR, the Basin remained an ancient, populous and divided country. Its town
 
 ## Further reading
 
+- [[The Three Regions of Ancient Qahur]]
+- [[Gateway Peoples, Qarzeth and the Spared Towns]]
 - [[Life in the Ancient Sacred Basin]]
 - [[The White Measure and the Second Houses]]
 - [[Qahur and the Gateway before Atheria|Qahur and the Gateway, c. 2165–350 BR]]

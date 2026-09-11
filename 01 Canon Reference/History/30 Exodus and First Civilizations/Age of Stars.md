@@ -73,6 +73,7 @@ By 350 BR, the Caleran republic possessed extensive roads, overseas territories,
 - [[The Spared Towns and the Queen's Country|The Spared Towns and the Kingdom of Sarqen]] — the surviving communities and royal recovery after the wars.
 - [[Ancient Qahur and the Twin-Reed Crowns]] and [[Qahur and the Gateway before Atheria|Qahur and the Gateway, c. 2165–350 BR]] — the neighbouring river crowns, Vasharan pressure and their relationship with the Gateway country.
 - [[Food, Work and Citizenship in Republican Atheria]] — production, service, civic belonging and ordinary pleasures.
+- [[Peoples before Atherian Unification]] — synchronised population and identity history through 350 BR.
 - [[The Arqeshite River Empire]]
 - [[The Erasure of Orthea]]
 

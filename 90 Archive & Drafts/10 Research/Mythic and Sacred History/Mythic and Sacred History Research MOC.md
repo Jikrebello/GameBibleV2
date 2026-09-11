@@ -123,6 +123,18 @@ Package B completed its author-only development, newcomer-readability, reconcili
 - [[Package B - Qiryath and Eastern Empires/Package B - Sources, Collisions and Canon Review|Package B — Sources, Collisions and Canon Review]] records the source transformations, complete chronology, identity rulings, collision review and proposed canon destinations.
 - [[Package B - Qiryath and Eastern Empires/Package B - Final Reconciliation and Canon Readiness Review|Package B — Final Reconciliation and Canon Readiness Review]] selected the names and relationships, reconciled Qahur's earlier succession crisis, fixed the two-command fall of Arqesh and divided Eryndor's inheritance among four principal rulers. [[Package B - Qiryath and Eastern Empires Canon Integration Review]] records the completed promotion and canonical destinations.
 
+### Ancient peoples and cultures before 350 BR
+
+The completed author-only identity pass reconciles Atherian, Package A and Package B populations in one study. It distinguishes peoples, regional cultures, cities, empires, dynasties and legal statuses and describes belonging through the names available in each period:
+
+- [[Ancient Peoples before Empire - Synchronised Historical Ethnography]] supplies the connected account from the Unbinding to the political balance of 350 BR.
+- [[Atherian Peoples - From the Southern Leagues to the Caleran Republic]] follows the outward leagues, maritime Atherians, Aurin peoples, city identities and Caleran citizenship.
+- [[Qahuri and Gateway Peoples before the Covenant]] separates Qahuri and Twin-Reed belonging from Gateway, Qarzethi, Esharati, spared-town, Sarqeni and Hadrathi identities.
+- [[Jirahar, Arqeshite, Vashari and Eastern Peoples before Atheria]] distinguishes road and tower Jirahar, Qiryathi, river exiles, Ubar peoples, Arqeshites, Vashari, Vasharan subjects, Ortheians, Delkosi and eastern coastal cities.
+- [[Ancient Peoples - Self-Names, Belonging and Canon Reconciliation Matrix]] records twenty-five profile dispositions, canon collisions, later-package locks and proposed article destinations.
+
+All twenty-five profiles were promoted through [[Ancient Peoples before Atherian Unification - Canon Integration Review]] and are available from [[Peoples before Atherian Unification]]. Package C retains wider proto-Ahdari and Tarkhan development; Package D retains Folk and Ättar self-understanding.
+
 ### Qahuri mortuary-economy follow-up
 
 - [[Akhenaten Nefertiti and Tutankhamun - The Amarna Court and Qahur's Single Radiance]] deepens Ithren III's existing crisis through the Amarna royal household, the labour and art of Aseret, a powerful queen, a child restorer, a disputed co-ruler and the later manufacture of the Faceless Interval. It keeps Ishkatar's Giant-Egypt inheritance separate from human Qahur and leaves every proposed addition outside canon pending review.

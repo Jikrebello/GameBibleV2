@@ -23,6 +23,8 @@ Arqeshite kings joined walled capitals, levees, canals, royal estates, and templ
 
 Farmers, canal laborers, soldiers, merchants, scribes, deported artisans, and temple households sustained the empire. Its courts preserved valuable water and commercial law while treating subject populations as movable state resources.
 
+Arqeshite first described the civic population of Arqesh and then widened to include an imperial language, administrative education and court culture. Nemeru, Khalbar and Durqesh retained their own civic populations under House Ubar. A provincial subject or deported worker did not acquire Arqeshite ancestry through imperial rule.
+
 ## First Qiryath
 
 Qiryath refused the royal image and hostage demand. Arqesh destroyed the city in 742 BR, looted its sanctuary, and deported leading Jirahar households. Exile made Arqeshite cities important sites of Peshara development even while the empire remained an oppressor.
@@ -47,3 +49,4 @@ Eastern Eclessia inherits Arqeshite canal beds, buried brick palaces, deportatio
 - [[Vashar and the Crown of Roads and Dawns]]
 - [[Age of City-States]]
 - [[Ancient and Early Historic Ages]]
+- [[Ubar Canal Peoples and the Arqeshites]]

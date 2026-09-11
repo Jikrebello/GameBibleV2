@@ -28,9 +28,13 @@ Banquets were occasions for music, courtship and political display. Hosts prized
 
 Hill-city rulers accumulated land and dependants, sometimes through purchase and marriage, sometimes through seizure. Their tombs enlarged as poorer households became indebted to them. Rival houses maintained armed followers and occasionally destroyed one another's workshops. The resulting refugees carried skills into neighbouring communities, including those which had originally competed against their patrons.
 
-## Atherian incorporation
+## Belonging and Atherian incorporation
 
-Atherian settlement brought additional markets, armed patrons and competing claims to land. Households entered the resulting civic world through unequal arrangements. Some retained property and acquired influence; others lost freedom or moved to relatives beyond a conqueror's reach. Successive generations combined local practices with Atherian speech and public worship. Their later descendants belonged to several communities rather than one surviving ancient political body.
+**Serathi** described the related people of the hill-city districts. Public identity also attached to a town and ancestor house. A person could be born, married or adopted into an acknowledged house, apprenticed to its work or attached as a dependant. These positions were unequal. Enslaved people sustained workshops and tomb estates without acquiring the freedom or inheritance enjoyed by household kin.
+
+Atherian rulers valued Serathi craft, religious learning and marriage connections. Some houses entered the Common Sky settlement and Caleran citizenship while retaining their tombs and teaching lineages. Others lost workshops and land or withdrew to towns beyond republican control. Serathi spouses, artisans and teachers carried local practices into Atherian cities even when civic genealogies omitted their origin.
+
+By 350 BR Serathi identity remained active in several hill towns and within Atherian civic communities. Thesra held unusual prestige but possessed no authority to define every Serathi household.
 
 ## Read onward
 
@@ -38,4 +42,4 @@ Atherian settlement brought additional markets, armed patrons and competing clai
 - [[Sarven, Nerava, Thesra and Olveth]]
 - [[Southern Settlement and Maritime Atheria]]
 - [[The Common Sky and the Formation of Astratheon]]
-
+- [[Southern Leagues, Maritime Atherians and Republican Belonging]]

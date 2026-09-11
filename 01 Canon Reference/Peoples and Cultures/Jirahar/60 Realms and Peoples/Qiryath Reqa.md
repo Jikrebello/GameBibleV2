@@ -16,6 +16,8 @@ tags: []
 
 **Qiryath Reqa**, the Empty City, contains the remains of both sacred tower cities. It stands in Eclessian territory under a perpetual charter that permits Jirahar custody and pilgrimage while forbidding reconstruction before the Mesakha.
 
+Qiryathi identity once included residents, neighbourhoods and sanctuary households of the living city. It also survived among people deported from First Qiryath and among families returning to build the second city. Qiryath remained one centre within a dispersed Jirahar people rather than the source of every Jirahar community.
+
 ## Archaeological Layers
 
 - early caravan court and First Tower foundations;
@@ -48,3 +50,4 @@ Pilgrim numbers are rising after reports of warmth beneath the gate stair. Ecles
 - [[First Qiryath and the Arqeshite Exile]]
 - [[Great Tower Revolt and the Second Destruction]]
 - [[Mesakha Traditions]]
+- [[Jirahar of Road, Tower, Exile and Return]]

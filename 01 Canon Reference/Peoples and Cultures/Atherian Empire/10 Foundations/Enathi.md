@@ -28,9 +28,13 @@ The Enathi honoured ancestors within households and carried offerings to places 
 
 Enathi communities fought one another over channels, moorings and fields. Captives could be held as servants or sold. At the same time, adoption and marriage allowed outsiders to enter households and learn occupations. These practices gave later maritime newcomers several ways into river society, with markedly different consequences for settlers who arrived as guests, employers, soldiers or owners of conquered land.
 
-## Atherian incorporation
+## Belonging and Atherian incorporation
 
-Atherian settlement brought additional markets, armed patrons and competing claims to land. Households entered the resulting civic world through unequal arrangements. Some retained property and acquired influence; others lost freedom or moved to relatives beyond a conqueror's reach. Successive generations combined local practices with Atherian speech and public worship. Their later descendants belonged to several communities rather than one surviving ancient political body.
+**Enathi** was a regional name shared by related river communities. People also named a landing, village and household. Free belonging rested on acknowledged kin, marriage, adoption and acceptance within a river community. Work on a channel brought neighbours into common obligation, but labour alone did not admit an enslaved person to the rights of the households which owned the fields. Manumission, marriage and public recognition could secure those rights for a freed family and its descendants.
+
+Atherian settlement brought additional markets, armed patrons and competing claims to land. Some Enathi households allied with a fort against local rivals. Some retained property and entered the new city councils. Others lost land and freedom or moved to relatives beyond a conqueror's reach. A boat family could adopt Atherian speech for commerce and later receive Caleran citizenship while maintaining Enathi marriages, river offerings and ancestor meals.
+
+By 350 BR Enathi identity remained active in lowland districts inside and beyond Caleran rule. It described an Orphaned river people, not an independent kingdom. Republican grants sometimes recognised the Atherian civic standing of an Enathi family while ignoring the older local title from which its property had come.
 
 ## Read onward
 
@@ -38,4 +42,4 @@ Atherian settlement brought additional markets, armed patrons and competing clai
 - [[Sarven, Nerava, Thesra and Olveth]]
 - [[Southern Settlement and Maritime Atheria]]
 - [[The Common Sky and the Formation of Astratheon]]
-
+- [[Southern Leagues, Maritime Atherians and Republican Belonging]]
