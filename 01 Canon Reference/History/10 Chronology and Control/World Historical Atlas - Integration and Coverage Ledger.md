@@ -979,6 +979,23 @@ The author approved Package A for canon integration on 7 September 2026. [[Packa
 
 Exact coastlines, the ancient river's proper name, the complete number of Second Houses and the present reachability of their Patrons remain open. Package B names the former High-Road placeholder as Vashar and House Tiravan. The current map, Garden, campaigns and wiki application are unchanged.
 
+## Ancient World Package C — Vathra and the northern ground
+
+The author approved Package C for canon integration on 12 September 2026. [[Package C - Wells, Open Country and Vathra Canon Integration Review]] records the exact promotion boundary.
+
+| Research source | Canonical destination | Incorporated result |
+|---|---|---|
+| [[Historical Atlas of Vathra and the Northern Ground before Atheria]] | [[Historical Atlas of Vathra and the Northern Ground]] | connected regional history from the last Giant century to 350 BR |
+| [[Vathra - Crown-Cities, Houses and the Great Unyoking]] | [[Vathra and the Great Unyoking]] | crown-cities, Giant houses, flight system, War of Altitude and human revolt |
+| [[The Grounded Tarkhan - Wells, Grasslands and First Kings]] | [[The Tarkhan before the Horse Hordes]] | ancient Orphaned formation, pre-horse transport, wells, assemblies, clients and Rethmar |
+| [[The Ahdari before the Covenant - Camps, Markets and Well Countries]] | [[The Ahdari before the Covenant]] | ancient peoplehood, wells, camel roads, markets, hospitality, raiding and plural religion |
+| [[Vathra in the Upper Air - Sky Giants, Flying Cities and the Grounding of the Tarkhan]] | Vathra articles and authorial review | Material flight model and city-by-city collapse |
+| [[From Sky Roads to Horse Banners - Hunnic Turkic Mongol Arabian and Apache Comparisons for Package C]] | Tarkhan and Ahdari histories | separate camel-and-cart antiquity from the post-905 horse revolution |
+
+The integration adds Vathra to the lesser Giant crowns without changing the Five Imperial Horizons. It fixes the Great Unyoking as one regional history within the Great Unbinding. Ancient Tarkhan and ancient Ahdari remain distinct peoples with overlapping Narashi houses, markets and winter gatherings. Rethmar remains separate from Tergai.
+
+Sairat's reported returns, Molqara's present course, Yazuran's destination, the First Road-Mother's name and fate, Kelvara's actor-slot identity and all protected Weirds remain unresolved. No Garden root was added; G-59's anachronistic rider was corrected to a camel scout. Campaigns, the application and the map are unchanged.
+
 ## Canon boundaries after integration
 
 

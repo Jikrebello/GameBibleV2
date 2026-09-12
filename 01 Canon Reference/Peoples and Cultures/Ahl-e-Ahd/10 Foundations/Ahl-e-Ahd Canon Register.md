@@ -37,9 +37,11 @@ This register controls authorial facts when Covenant notes disagree.
 
 ## Locked Peoples
 
-**Ahl-e-Ahd** is an imperial-confessional identity, not a single ancestry. Ahdari, Iqashari, Qahuri, Qazmari, Zanthiri, and Velian remain meaningful identities in 1360 AR. Tarkhan and Jirahar are neighbors and diasporas, not constituent Covenant peoples.
+**Ahl-e-Ahd** is an imperial-confessional identity containing several ancestries. The Ahdari supplied its founding language and a large Glass-descended core. Ahdari communities had already braided with Narashi, Tarkhan, Jirahar, oasis, Qahuri, Gateway and other populations in different regions before and during Covenant expansion. Ahdari, Iqashari, Qahuri, Qazmari, Zanthiri and Velian remain meaningful identities in 1360 AR. Tarkhan and Jirahar remain distinct peoples, although individuals and communities from both can enter Al-Ahdiya, serve Covenant states and identify as Ahl-e-Ahd in the confessional or imperial sense.
 
-The ancient Qahuri are principally Orphaned descendants of Sacred Basin communities which survived Ishkatar's collapse. They did not descend from the Glass host. The Gateway people were a Braided ancient population formed from older shore communities, proto-Ahdari migrants, maritime settlers, captives and freed households. The House of Nerethan inherited a junior Qahuri maternal connection through Tazirun Zaheret, Lemara, Hesara and Hadrima; that relationship conveyed no claim over Qahur.
+The ancient Ahdari formed in the western well country between approximately 1950 and 1400 BR. They were a durable people long before Mujalib. Their protected wells, markets, camel roads, hospitality, raiding and plural cults belong to pre-Covenant history. No ancient office inherited the Great Prophet's commission.
+
+The ancient Qahuri are principally Orphaned descendants of Sacred Basin communities which survived Ishkatar's collapse. They did not descend from the Glass host. The Gateway people were a Braided ancient population formed from older shore communities, Ahdari migrants, maritime settlers, captives and freed households. The House of Nerethan inherited a junior Qahuri maternal connection through Tazirun Zaheret, Lemara, Hesara and Hadrima; that relationship conveyed no claim over Qahur.
 
 ## Locked Geography
 
@@ -62,5 +64,8 @@ Ottoman, Mamluk, Sunni, Shia, Muslim, Christian, Qadira, Kelesh, and Katapesh ar
 - [[01 Canon Reference/Peoples and Cultures/Ahl-e-Ahd/The Ahl-e-Ahd Overview.md|The Ahl-e-Ahd Overview]]
 - [[Ancient Qahur and the Twin-Reed Crowns]]
 - [[Qahur and the Gateway before Atheria]]
+- [[The Ahdari before the Covenant]]
+- [[Historical Atlas of Vathra and the Northern Ground]]
+- [[Package C - Wells, Open Country and Vathra Canon Integration Review]]
 - [[Package A - Sacred Basin and Gateway Canon Integration Review]]
 - [[Real-History Concordance]]

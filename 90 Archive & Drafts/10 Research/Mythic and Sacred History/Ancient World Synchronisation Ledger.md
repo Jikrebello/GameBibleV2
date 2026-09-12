@@ -24,10 +24,12 @@ This ledger keeps the regional histories on one calendar while allowing them to 
 |---:|---|---|---|---|---|---|---|
 | c. 2300–2165 BR | Unbinding; Glass refuge | Ishkatari client works fail; independent river communities recover | older shore villages survive separate Giant and client collapses | One Glass People; Orphaned Ubar and Vashari communities survive independently | Vathra falls during Great Unyoking | Giant estates fail unevenly among Orphaned survivors | independent Giant collapses and local survivals |
 | c. 2165–1900 BR | Prophet dies; southern separation begins | loose-water generations; canal and burial associations | coast receives occasional Near-Glass migrants | Near-Glass continuum forms road camps; independent Ubar towns and Vashari hearth domains develop | Orphaned herding, hunting and well societies | halls, shore households and forest communities consolidate | local relative sequences only |
-| c. 1900–1400 BR | southern war-settlers; heroic-maritime world | first basin crowns; early divisions | proto-Ahdari migration and mixed ports | northern fission; mature road houses connect tower, Ubar and upland societies | well coalitions and post-Vathran circuits | regional Folk worlds and early Ättar divergence | independent reassembly |
+| c. 1900–1400 BR | southern war-settlers; heroic-maritime world | first basin crowns; early divisions | Ahdari migration and mixed ports | northern fission; mature road houses connect tower, Ubar and upland societies | Tarkhan wells and post-Vathran circuits; Ahdari well communities | regional Folk worlds and early Ättar divergence | independent reassembly |
 | c. 1450–800 BR | city-states and Compact formation | Twin-Reed division, reunification, Delta house and southern restoration | port league becomes maritime republic | Bronze Roads fail; protector houses and First Qiryath rise; Arqesh and House Tiravan grow | caravan and open-country coalitions | regional trade and Atherian contact | package-specific sequences |
 | c. 800–520 BR | Ortheian hegemony, Eryndor's eastern conquest, successor states, Caleran recovery and Gateway Wars | imperial contraction, Single Radiance crisis, Arqeshite intervention, Eryndor's visit and limited successor garrisons | Qarzeth's wars, payment revolt, child collections and destruction in a sea shaped by Delkosi successors | Arqesh destroys First Qiryath in 742; Arezan and Eryndor take Arqesh in 690; Second Qiryath c. 660; Vasharan road empire forms | coalitions participate in Arqesh's fall and regional wars | Atherian settlement and resistance continue | no invented core-world contact |
-| c. 520–350 BR | last Republic; Thalion's rise | several crowns under unequal Vasharan influence | spared towns; Sarqen; Nerethan kings; Samyra | Tasar revolt and eastern sea wars; Vasharan client struggle; Orvaz II retains the eastern empire at 350 | pre-horse Tarkhan and proto-Ahdari client kingdoms | independent and allied southern societies | independent sovereignties |
+| c. 520–350 BR | last Republic; Thalion's rise | several crowns under unequal Vasharan influence | spared towns; Sarqen; Nerethan kings; Samyra | Tasar revolt and eastern sea wars; Vasharan client struggle; Orvaz II retains the eastern empire at 350 | pre-horse Tarkhan and ancient Ahdari client kingdoms | independent and allied southern societies | independent sovereignties |
+
+The Package C history in the **Wells and open country** column was approved and promoted on 12 September 2026.
 
 ## Population and ancestry register
 
@@ -36,7 +38,7 @@ This ledger keeps the regional histories on one calendar while allowing them to 
 | One Glass People | Ark-derived | forms within the Glass refuge before the southern and northern fissions |
 | Proto-Atherians | Ark-derived, later extensively mixed | emerge from southern Glass-descended war-settlement leagues among inhabited lands |
 | Proto-Jirahar | Ark-derived, later mixed | emerge gradually from the Near-Glass continuum, road houses and tower communities |
-| Proto-Ahdari | Ark-derived, later mixed | emerge in the later northern fission around wells, territorial coalitions and guest protection |
+| Ancient Ahdari | principally Ark-derived, durably mixed | emerge in the later northern fission around wells, territorial coalitions and guest protection while incorporating older Orphaned populations |
 | Qahuri basin populations | principally Orphaned, with later migrants and conquerors | neither descendants of Ishkatar's rulers nor a lost branch of the Glass migration |
 | Gateway peoples | Braided ancient coastal population | older shore communities, proto-Ahdari migrants, captives, freed people and maritime settlers |
 | Enathi, Serathi and Vardeni | related Orphaned Aurin peoples | retain distinct local belonging within the expanding Atherian cultural and civic world |
@@ -55,7 +57,27 @@ The Atherian, Package A and Package B identity histories through 350 BR were pro
 
 The integration fixes the distinction between Atherian culture and Caleran citizenship; Qahuri civilisation and Twin-Reed allegiance; Gateway ancestry and Qarzethi or Sarqeni civic identity; Jirahar peoplehood and Qiryathi attachment; Arqeshite culture and Ubar dynastic rule; Vashari ancestry and Vasharan subjecthood; and Atherian-speaking Ortheia and Caleran political membership.
 
-Package C retains wider proto-Ahdari and Tarkhan self-understanding. Package D retains Folk and Ättar self-understanding. Their absence from the twenty-five-profile register is a scope boundary rather than an unresolved identity ruling.
+Package C now supplies the wider ancient Ahdari and Tarkhan self-understanding. [[Package C - Wells, Open Country and Vathra Canon Integration Review]] records its public destinations and protected matters. Package D retains Folk and Ättar self-understanding.
+
+## Package C development register
+
+| Date | Vathra and fallen works | Ancient Tarkhan | Ancient Ahdari | External relationship | Status |
+|---:|---|---|---|---|---|
+| before c. 2450 BR | early rising estates develop above a large human ground economy | Vathran subjects and independent Orphaned communities maintain wells, herds and routes | — | Vathra trades with Giant Horizons, Narash and Copper Stair powers | canon |
+| c. 2450–2300 BR | Urzavad, Kel-Orun, Dazhur and lesser cities form an aerial confederation | Tergai, Elkari, Taleri and Narashi populations occupy different parts of its ground world | — | royal horses remain concentrated; camels dispersed among human households | canon |
+| c. 2300–2260 BR | Ozhur and Varakesh fight the War of Altitude; Great Unyoking; Urzavad falls, Kel-Orun descends and Dazhur casts off a ward | human workers and subject camps revolt; reprisals and famine follow | — | wider Unbinding breaks neighbouring systems; regional human action remains decisive | canon |
+| c. 2260–2050 BR | grounded structures are quarried and inhabited; surviving Giant enclaves fall unevenly | herds, wells, craft towns and foster networks reassemble | Near-Glass camp continuum remains separate | old royal horse stocks disappear while camel knowledge survives | canon |
+| c. 2050–1750 BR | sky ruins become material and legendary inheritances | Orphaned neighbours trade, raid and intermarry with Near-Glass people | defended-water communities separate gradually from travelling Jirahar institutions | Glassward, Narashi and northern relationships shape the fission | canon |
+| c. 1900–1450 BR | isolated anchors and cloth fragments retain limited effects | Tergai wells, Elkari assemblies, Taleri craft and limited chariot houses | camel roads, markets, wells and common obligations support Ahdari peoplehood | Qahur, eastern cities and Bronze Roads supply grain and metal | canon |
+| c. 1450–1325 BR | no common Vathran system returns | Daram Ford crisis ends Boran's chariot concentration | drought and payment failure weaken protectors and marginal wells | wider Breaking of the Bronze Roads | canon |
+| c. 1325–800 BR | fallen-city material supports local settlements | broad Tarkhan name spreads beside local memberships | broad Ahdari name spreads across related roads and wells; Saqara massacre redirects traffic towards Mazar | shorter trade, Qahuri clients and eastern service replace palace exchange | canon |
+| c. 1100 BR | — | northern routes continue independently | Kor Ashal sacrifices a debtor child; maternal resistance and abandoned traffic ruin the cult centre | event remains local and does not define dry-country religion | canon |
+| c. 900–690 BR | ruins supply craft and political claims | Savan Uruz and Demer Khol draw mixed northern followings; Yalun and Marat join the anti-Arqesh coalition for different aims | camel houses, markets and captives participate in client courts | Arqeshite payment, Qahuri rivalry and Vasharan settlement reshape selected roads | canon |
+| c. 690–520 BR | possible distant city traditions remain unresolved | local assemblies and client remnants deal with Vasharan roads | caravan houses and markets gain independence after Arqesh | Vashar influences routes without ruling the whole interior | canon; distant city fates unresolved |
+| 381 BR | — | Kharuz of the Stone Wells leads resistance at Rethmar | Tavisha controls stores, water and captive triage | Lethren Ostar's army is defeated through failed water and divided columns | canon |
+| 350 BR | ruins, grounded craft towns and unresolved sky traditions | plural pre-horse well and grassland societies | plural pre-Covenant well, market, camp and urban communities | Vashar, Qahur and Caleran influence particular routes without northern unity | canon |
+
+Package C's source transformations are recorded in [[Vathra and the Northern Peoples - Sources, Collisions and Canon Review]]. Its promoted boundaries are controlled by [[Package C - Wells, Open Country and Vathra Canon Integration Review]].
 
 ## Package A synchronisation register
 

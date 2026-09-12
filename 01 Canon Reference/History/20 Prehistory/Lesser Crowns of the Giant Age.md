@@ -37,11 +37,13 @@ Two peer God-Kin houses with incompatible blood laws fight to exhaustion, exchan
 
 The shared instrument works only when two lawful rulers voice opposed advice before reaching judgement. Later cults disagree over which house conquered the other; escaped ancestors may still share one hostile Egg White anchor.
 
-## Vathra, the Walking Court
+## Vathra and the Crown-Cities
 
-A mobile confederated empire whose Giant court, herds, workshops, shrines, and archive travel seasonally. Extracts tribute from frontier kingdoms and supplies cavalry, beasts, brides, and mercenaries to several horizons.
+[[Vathra and the Great Unyoking|Vathra]] was a confederated Giant crown whose principal cities moved physically through the Material sky. Urzavad, Kel-Orun, Dazhur, Sairat, Molqara and Yazuran carried palaces, workshops, gardens, prisons and dependent neighbourhoods. Their seasonal circuit allowed concentrated force to appear above country incapable of supporting a permanent royal court.
 
-It leaves few monumental ruins, so settled empires call it barbarous and later historians underestimate it. Its road mounds, oath-spears, and foster lineages cross otherwise unrelated genealogies.
+Human settlements supplied nearly all food, water, fibre, timber, animals and ordinary labour. The cities flew through crafted lift bodies, Zephyraxis pressure mantles, Hecatara route anchors and ground crews who operated the system. Royal cavalry and chariot horses remained concentrated among Giant and client houses, while human camel networks sustained the roads beneath them.
+
+The War of Altitude and the [[Vathra and the Great Unyoking|Great Unyoking]] broke the crown between c. 2300 and 2260 BR. Urzavad fell, Kel-Orun was deliberately grounded and Dazhur escaped after discarding a dependent ward. Sairat, Molqara and Yazuran passed beyond reliable Material history. Their current state remains unresolved.
 
 ## The Ulmaris Sea-Crown
 

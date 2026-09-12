@@ -16,7 +16,7 @@ tags: [world-historical-atlas, atherian-formation, royal-country]
 
 The **Kingdom of Sarqen** developed among the communities spared when Atherian forces destroyed Qarzeth in approximately 525–520 BR. Farms, minor ports and inland towns preserved much of the Gateway country's population and productive work. Their first league organised food, ransom and road protection; over the following generations, the enlarged harbour of Sarqen and the House of Nerethan established a royal government over the surviving towns.
 
-The kingdom's inhabitants included descendants of older shore populations, proto-Ahdari migrants, refugees, freed captives and subsequent maritime settlers. Each community entered the new government with its own experience of the war and its own claim upon the work of reconstruction. By Samyra Nerethan's reign, these settlements had sustained a royal country for more than a century.
+The kingdom's inhabitants included descendants of older shore populations, Ahdari migrants, refugees, freed captives and subsequent maritime settlers. Each community entered the new government with its own experience of the war and its own claim upon the work of reconstruction. By Samyra Nerethan's reign, these settlements had sustained a royal country for more than a century.
 
 ## What survived the war
 

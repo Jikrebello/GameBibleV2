@@ -23,7 +23,7 @@ tags: []
 
 The **Age of City-States**, approximately 1400–800 BR, is the first widely urban period after the Exodus. Walls, markets, towers, ports, granaries and public shrines concentrated people and specialised work. City governments maintained roads and water, supported professional soldiers and recorded obligations that had once depended upon household memory. These institutions protected larger populations while giving rulers new means to collect debt, labour and tribute.
 
-The period had several regional centres. Atherian cities developed civic law, star observatories and formal roads. [[01 Canon Reference/Peoples and Cultures/Jirahar/70 History and Conflicts/Historical Atlas of Qiryath before Atheria.md|Jirahar tower towns]] served as places of teaching, caravan exchange and refuge. [[01 Canon Reference/History/30 Exodus and First Civilizations/Arqesh - River Cities, Kings and Deportation.md|Arqeshite river cities]] joined levees, royal estates and deportation armies into an early mortal empire. Western oasis polities fortified wells and guest protection. Central-sea harbours grew through migration, intermarriage, shipbuilding and mercenary service, while Folk and Ättar settlements pursued their own histories along the southern forests and cold coasts.
+The period had several regional centres. Atherian cities developed civic law, star observatories and formal roads. [[01 Canon Reference/Peoples and Cultures/Jirahar/70 History and Conflicts/Historical Atlas of Qiryath before Atheria.md|Jirahar tower towns]] served as places of teaching, caravan exchange and refuge. [[01 Canon Reference/History/30 Exodus and First Civilizations/Arqesh - River Cities, Kings and Deportation.md|Arqeshite river cities]] joined levees, royal estates and deportation armies into an early mortal empire. Ahdari markets and defended waters connected the Near-Glass roads with Qahur and the western coast. Tarkhan wells, camel circuits, grass communities and Vathran craft towns occupied the northern ground. Central-sea harbours grew through migration, intermarriage, shipbuilding and mercenary service, while Folk and Ättar settlements pursued their own histories along the southern forests and cold coasts.
 
 ## Walls change the scale
 
@@ -69,6 +69,9 @@ Cities continued to develop after 800 BR. In the west, the [[Age of Stars]] name
 - [[Ancient Qahur and the Twin-Reed Crowns]] — Yasharet trade, Aramen conquest, the mortuary economy and the Single Radiance crisis.
 - [[Qahur and the Gateway before Atheria|Qahur and the Gateway, c. 2165–350 BR]] — roads, shipping, diplomacy and migration between the river crowns and the coast.
 - [[Peoples before Atherian Unification]] — peoples, city populations and forms of belonging across the period.
+- [[The Ahdari before the Covenant]] — wells, camel roads, markets, hospitality, raiding and religious plurality before Al-Ahdiya.
+- [[The Tarkhan before the Horse Hordes]] — northern settlement, assemblies and foreign client courts before mounted pastoral warfare.
+- [[Historical Atlas of Vathra and the Northern Ground]] — the longer northern sequence from Vathra's fall to 350 BR.
 
 ## Local tales and surviving memories
 

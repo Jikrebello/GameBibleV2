@@ -20,7 +20,7 @@ The country's population survived in lesser towns, agricultural districts and co
 
 ## Formation of the coastal people
 
-The republic's society developed among the peoples of the western well country and the inner coast after the northern fission. Between about 1700 and 1200 BR, proto-Ahdari households repeatedly moved into established shore settlements. They brought practices of defended wells, guest protection and restitution. Local families contributed cultivation, knowledge of the coast and older religious traditions. Further maritime immigrants and freed captives joined them over subsequent generations.
+The republic's society developed among the peoples of the western well country and the inner coast after the northern fission. Between about 1700 and 1200 BR, Ahdari households repeatedly moved into established shore settlements. They brought practices of defended wells, guest protection and restitution. Local families contributed cultivation, knowledge of the coast and older religious traditions. Further maritime immigrants and freed captives joined them over subsequent generations.
 
 Water and food made the landings valuable to travellers. Households cultivated nearby ground, maintained storage and supplied vessels moving along the inner sea. Families able to finance a voyage or repair a landing acquired influence among people whose work depended on those facilities. The wealthiest owned agricultural land as well as shares in ships.
 

@@ -72,7 +72,7 @@ Delkos, Vashar and other Successor states remained active across the eastern sea
 
 ## The maritime rival and the Gateway Wars
 
-The [[The Gateway Republic|Gateway Republic]] controlled a cultivated maritime country at the approaches of later Qabir and Zanthir. Its leading port had developed among proto-Ahdari migrants and older shore communities, with civic institutions and dependent towns of its own. Centuries of trade and local rivalry preceded the wars through which Caleran became committed to its defeat.
+The [[The Gateway Republic|Gateway Republic]] controlled a cultivated maritime country at the approaches of later Qabir and Zanthir. Its leading port had developed among Ahdari migrants and older shore communities, with civic institutions and dependent towns of its own. Centuries of trade and local rivalry preceded the wars through which Caleran became committed to its defeat.
 
 The [[The Gateway Wars|Gateway Wars]], approximately 650–520 BR, began over an inner-sea port and spread through fleets, garrisons and allied communities. Caleran's position at the Aurin mouth required landward supply links and cooperating Arkenan and Saronikan harbours. Victory depended on crews, repair workers, transport households and cultivators well beyond the city that directed the war.
 

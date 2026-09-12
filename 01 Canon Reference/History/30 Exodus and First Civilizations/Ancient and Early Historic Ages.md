@@ -30,7 +30,7 @@ The peoplehood, civic membership and imperial subjecthood of the period are inde
 1. [[Age of Chains]]: the Five Imperial Horizons and many lesser Giant polities enslave humanity and teach the world its first great lessons in tyranny, monumentality, forbidden science, and false divinity.
 2. [[Age of Exodus]]: the [[The Great Unbinding|Great Unbinding]] breaks Giant rule through converging judgement, revolt, civil war, and systemic collapse; the Great Prophet leads the principal liberated remnant into the [[Great Glass Desert]], while other human communities survive elsewhere. During [[The Glass Sojourn]], the mixed Ark host becomes one people.
 3. [[Age of Scattering]]: after the Prophet's death, southern war-settlement leagues separate first from a continuing Near-Glass population; Orphaned communities continue independent reassembly; conquest and contact begin Braided histories.
-4. [[Age of Hearths and First Kings]]: the later northern fission produces proto-Jirahar and proto-Ahl-e-Ahd formations while villages, hill forts, river towns, ancestor laws, early Menhir pacts, priest-kings, and local cults become durable.
+4. [[Age of Hearths and First Kings]]: the later northern fission produces early Jirahar and Ahdari formations while villages, hill forts, river towns, defended wells, ancestor laws, early Menhir pacts, priest-kings and local cults become durable.
 5. [[Age of City-States]]: trade, writing, archives, walls, towers, ports, oasis courts, and elemental engineering create the first urban powers.
 6. [[Age of Stars]]: Atherian city-states consolidate around star cults, civic law, road-building, archives, astronomy, and imperial destiny.
 7. [[Atherian Imperial Age]]: the later Atherian/Redeemer/conversion/fall pipeline begins.
@@ -42,9 +42,9 @@ The peoplehood, civic membership and imperial subjecthood of the period are inde
 - **Arqeshites:** eastern river-city peoples who create an early mortal empire of canals, estates, deportation and royal sacred power. Their cities survive the fall of House Ubar within Vasharan and later eastern societies.
 - **Vashari:** Orphaned highland peoples joined by House Tiravan into the Crown of Roads and Dawns after Arqesh's fall. Vashar remains an independent imperial peer when Atheria unifies.
 - **Ortheians and Delkosi:** Atherian-speaking upland and maritime societies shaped by Eryndor's conquest and the Wars of the Inheritance. Their royal and naval traditions influence the recovered Caleran republic and the later House of Nerethan.
-- **Ahl-e-Ahd:** later Covenant peoples whose Ahdari core emerges from the northern fission through defended wells, oath coalitions and mixture with older desert populations; covenant memory later hardens into contract law and cosmic contract doctrine.
+- **Ahdari:** a Glass-descended well-country people formed through the northern fission and durable incorporation of older Orphaned populations. Their defended waters, camel roads, hospitality and oath customs long predate the Covenant.
 - **Folk and Ättar:** related Orphaned southern cold-frontier populations that develop into distinct peoples. Folk institutions center on clan territory and local courts; settled Ättar halls later accept Mother Moon's firstborn pact during the [[War of the Empty Halls]].
-- **Tarkhan and Nsizwa:** independent Orphaned peoples whose ancestors survive and reassemble outside the Ark in different regions and under different pressures.
+- **Tarkhan and Nsizwa:** independent Orphaned peoples whose ancestors survive and reassemble outside the Ark in different regions and under different pressures. Tarkhan history begins among the human subjects and neighbours of Vathra, whose flying crown-cities fell during the Great Unbinding.
 - **Sestara:** later Braided harbor and archive-city populations that survive by monetizing memory, art, finance, ships, legal skill, and secrets; no single ancient Sestaran people exits the Glass.
 - **Vesari:** a later Braided river-plain people of the far east, formed from local remnant populations and arriving Ark-derived groups; their converted princedoms become Virelia's substrate (see [[01 Canon Reference/Peoples and Cultures/Eclessia/10 Foundations/The Making of the Eclessians.md|The Making of the Eclessians]]).
 
@@ -63,6 +63,10 @@ Use [[Southern Cold Belt and Grobi Frontier]] as the governing note for the deep
 - [[The Arqeshite River Empire]]
 - [[01 Canon Reference/Peoples and Cultures/Jirahar/70 History and Conflicts/Historical Atlas of Qiryath before Atheria.md]]
 - [[Vashar and the Crown of Roads and Dawns]]
+- [[Historical Atlas of Vathra and the Northern Ground]]
+- [[Vathra and the Great Unyoking]]
+- [[The Tarkhan before the Horse Hordes]]
+- [[The Ahdari before the Covenant]]
 - [[Eryndor III and the Ortheian Eastern Conquest]]
 - [[Wars of the Inheritance]]
 - [[The Eastern Sea Wars]]

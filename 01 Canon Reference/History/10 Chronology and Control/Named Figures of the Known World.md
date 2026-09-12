@@ -55,6 +55,16 @@ The people behind the [[Chronology of the Known World (AR Dating)]]. Each entry 
 
 [[The Eastern Sea Wars]] — **Liora of Tasar** led the harbour revolt of 514 BR after a Vasharan governor attempted to impose a magistrate and enlarge naval service. **Xarun I Tiravan** retook the city, executed its leaders and sold or deported inhabitants before launching the great western invasion of 497. Liora's fate remains disputed.
 
+## Vathra and the northern ground
+
+[[Vathra and the Great Unyoking]] — **Ozhur IV of Urzavad** attempted to preserve Vathran supremacy through the Closing Ascent. His cousin **Varakesh of Dazhur** began the War of Altitude and discarded dependants while claiming to reform the kingdom. The Dynastic Giant **Kelvara** first served Ozhur, then used her knowledge of the descent grounds to help human communities ground Kel-Orun. Her assistance saved thousands and did not undo her earlier participation in captive transfers.
+
+**Seyra Vatan** organised tether crews; **Dorun of the Draw-Gangs** joined mine and cistern workers; **Meya of Narash** brought camel houses and western wells into the Great Unyoking. Meya had previously supplied Vathra with captives taken in local wars. Their constituencies cooperated without becoming one permanent company or state.
+
+[[The Tarkhan before the Horse Hordes]] — **Boran Tall-Hand** concentrated scarce chariot horses and forced food from neighbouring camps before his defeat at Daram Ford. The foster cousins **Savan Uruz** and **Demer Khol** founded rival foreign-backed client courts; Savan's soldiers killed him when Arqeshite payment failed, and former captives defeated Demer. **Yalun of the White Camel** and **Marat Two-Bows** joined the coalition against Arqesh for different purposes and treated captives differently after victory.
+
+[[The Ahdari before the Covenant]] — **Harun Savel** violated the disarmed market at Saqara around 1280 BR and caused the trade which supported it to move to Mazar. At Rethmar in 381 BR, the water keeper **Tavisha** removed stores from Ostar's expected route while **Kharuz of the Stone Wells** commanded camel scouts and foot archers. Their coalition dispersed after defeating the Atherian army.
+
 ## The imperial-founding generation
 
 [[Teren Casvilar]] (425–370 BR) conquered southern districts, defeated republican rivals and governed through personal supremacy. His assassination began the succession wars. [[Marovan Veyr]] (435–373), his former partner and principal rival, left eastern clients and a maritime following inherited by his son Ardel. [[Lethren Ostar]] (442–381) financed the partnership, crucified defeated rebels in 399 and died during the failed northern expedition at Rethmar.

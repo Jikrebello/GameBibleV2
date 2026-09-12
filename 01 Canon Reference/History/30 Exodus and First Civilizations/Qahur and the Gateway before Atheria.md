@@ -16,7 +16,7 @@ tags: [world-historical-atlas, qahur, gateway, trade, diplomacy]
 
 The relationship between **ancient Qahur and the Gateway country** joined the Sacred Basin to the inner Thalassian Sea between approximately 2165 and 350 BR. Qahur's river economy supported temple estates and repeated traditions of kingship. The Gateway coast possessed several ports, a cultivated hinterland and direct access to maritime exchange. Dry roads, coastal shipping and families with kin in both countries connected their histories.
 
-The two populations had separate origins. Qahuri communities were principally Orphaned survivors of the Giant collapse. Gateway society formed through older coastal inhabitants, proto-Ahdari migrants, maritime settlers, captives and freed people. Centuries of work, marriage and war created shared families and practices, while each country retained its own language, institutions and political life.
+The two populations had separate origins. Qahuri communities were principally Orphaned survivors of the Giant collapse. Gateway society formed through older coastal inhabitants, Ahdari migrants, maritime settlers, captives and freed people. Centuries of work, marriage and war created shared families and practices, while each country retained its own language, institutions and political life.
 
 Qahuri identity crossed the competing crowns of Tenaret, Qemaret and Sakhret. Gateway ancestry crossed the boundaries of its ports. Qarzethi described the civic population of the dominant republic; Esharati and Sarqeni described other town populations; Hadrathi described a related border people. The destruction of a capital changed government without erasing these distinctions.
 

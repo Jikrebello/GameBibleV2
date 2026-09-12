@@ -57,7 +57,7 @@ Caleran recovered the Compact from Eryndor's western regent. It received displac
 
 ## The overseas republic and the spared towns
 
-The [[The Gateway Republic|Gateway Republic]] grew in the country of the later Qabir–Zanthir gateway from proto-Ahdari migrants and older coastal communities. Its cultivated districts, ships and dependent towns supported a powerful maritime state. The [[The Gateway Wars|wars with Caleran]], around 650–520 BR, began over ports, continued through an invasion aimed at breaking Atherian alliances and ended with the destruction of the rival capital.
+The [[The Gateway Republic|Gateway Republic]] grew in the country of the later Qabir–Zanthir gateway from Ahdari migrants and older coastal communities. Its cultivated districts, ships and dependent towns supported a powerful maritime state. The [[The Gateway Wars|wars with Caleran]], around 650–520 BR, began over ports, continued through an invasion aimed at breaking Atherian alliances and ended with the destruction of the rival capital.
 
 Ending the capital's child sacrifices was a major cause of the final intervention. Internal opponents and threatened families helped the Atherians break the institution. The victory also brought massacre, rape, enslavement and the deliberate salting of the razed city. Lesser towns were spared planned destruction and retained the households, food production and ports from which [[The Spared Towns and the Queen's Country|a later royal country]] developed.
 

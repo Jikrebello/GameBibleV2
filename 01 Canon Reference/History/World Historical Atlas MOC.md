@@ -88,6 +88,12 @@ The historical peoples route continues through [[Jirahar of Road, Tower, Exile a
 
 The received adventures of the Far-Road King are gathered in [[The Five Limits of Eryndor]]. Its undersea bell, Sky-Lion ascent, speaking grove, sealed pass and failed search for restorative water arose from separate incidents within the campaign. Their cultural versions disagree about what the king learned and who paid for his curiosity.
 
+## Vathra and the northern ground
+
+[[Historical Atlas of Vathra and the Northern Ground]] follows the northern dry belt from the last Giant century to the balance of 350 BR. Its opening history, [[Vathra and the Great Unyoking]], describes the flying crown-cities, the War of Altitude and the human revolt which broke their ground system.
+
+The human histories continue through [[The Tarkhan before the Horse Hordes]] and [[The Ahdari before the Covenant]]. The first follows Orphaned well workers, camel keepers, grass families and craftspeople before the mounted Horse Centuries. The second follows the Glass-descended and Braided communities of the western wells before Al-Ahdiya. Their shared winter gathering at Rethmar connects this northern history to [[Lethren Ostar|Ostar's]] failed expedition in 381 BR.
+
 For the founding generation, begin with [[The Last Generations of the Caleran Republic]] and [[The Southern Campaigns of Teren Casvilar]]. [[The House of Nerethan]] follows the queen's country across five generations; [[The Wars of the Atherian Succession]] connects changing commands and household alliances to Thalion's settlement around 350 BR. [[Households of the Imperial Founding]] introduces the women, children and surviving communities within that history.
 
 ## Imperial Atheria
@@ -149,6 +155,8 @@ The [[Dependable Navigation - Review and Repair Ledger]] documents the link repa
 [[Package A - Sacred Basin and Gateway Canon Integration Review]] records the promotion of ancient Qahur, the named Gateway history and the White Measure. Its open questions include the ancient river's proper name, exact borders, the total number of successful Second Houses and which of their Patrons remain reachable in 1360.
 
 [[Package B - Qiryath and Eastern Empires Canon Integration Review]] records the promotion of the Jirahar road-house history, Arqesh, Vashar, Ortheia, Eryndor's eastern conquest, the Successor kingdoms and the Eastern Sea Wars.
+
+[[Package C - Wells, Open Country and Vathra Canon Integration Review]] records the promotion of Vathra, the Great Unyoking, the ancient Tarkhan and Ahdari histories and the defence of Rethmar.
 
 [[Ancient Peoples before Atherian Unification - Canon Integration Review]] records the synchronised identity integration across Atherian, Package A and Package B history.
 

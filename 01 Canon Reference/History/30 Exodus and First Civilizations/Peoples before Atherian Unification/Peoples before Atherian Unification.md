@@ -4,9 +4,9 @@ status: canon
 canon_level: core
 visibility: public
 era: ["c. 2300–350 BR"]
-region: [Atherian world, Sacred Basin, Gateway country, Qiryath, eastern empires]
-culture: [Atherian, Qahuri, Gateway peoples, Jirahar, Arqeshite, Vashari, Ortheian, Delkosi]
-related_factions: [Caleran Republic, Twin-Reed Crowns, Gateway Republic, Arqeshite River Empire, Vasharan Empire]
+region: [Atherian world, Sacred Basin, Gateway country, Qiryath, eastern empires, Northern Dry Belt, Western Well Country]
+culture: [Atherian, Qahuri, Gateway peoples, Jirahar, Arqeshite, Vashari, Ortheian, Delkosi, Ancient Ahdari, Ancient Tarkhan]
+related_factions: [Caleran Republic, Twin-Reed Crowns, Gateway Republic, Arqeshite River Empire, Vasharan Empire, Vathra]
 appears_in: []
 needs: []
 aliases: [Ancient Peoples before Empire, Historical Peoples to 350 BR]
@@ -45,6 +45,14 @@ Qahuri identity crossed the boundaries of crowns and foreign occupations. Gatewa
 
 The eastern world contained peoples, cities and imperial systems with different boundaries. A Jirahar exile could serve an Arqeshite office without acquiring Arqeshite ancestry. An Arqeshite could survive the fall of House Ubar. A non-Vashari city could form part of the Vasharan Empire. An Ortheian could speak Atherian while remaining a political enemy of Caleran.
 
+## Wells and the northern ground
+
+- [[The Ahdari before the Covenant]] follows the Glass-descended camp communities and older well-country populations whose common protection, camel routes and markets formed the ancient Ahdari.
+- [[The Tarkhan before the Horse Hordes]] follows the Orphaned descendants of Vathran subjects and neighbouring northern communities through wells, tether towns, grass circuits and early foreign clients.
+- [[Historical Atlas of Vathra and the Northern Ground]] places both peoples within the longer history of the flying Giant kingdom, the Great Unyoking and the political balance of 350 BR.
+
+Ahdari identity was older than Al-Ahdiya and belonged to a people rather than a confession. Tarkhan identity joined western and eastern societies through fosterage, assemblies and related speech before horses transformed the grasslands. Narashi caravan houses and the mixed winter gathering at Rethmar crossed the boundary between the two histories without making them one ancestry.
+
 ## How belonging was recognised
 
 Ancient communities used descent, marriage, adoption, residence, conversion, manumission, civic grant and service in different combinations. Enslaved people could live within a society while being denied its rights. Freed families might acquire local belonging over generations. Imperial grants could confer land or citizenship while leaving older kinship intact. Public recognition mattered because it governed burial, marriage, inheritance, military duty and access to common stores.
@@ -61,3 +69,4 @@ The broad ancestry terms used by this encyclopaedia describe population historie
 - [[01 Canon Reference/Peoples and Cultures/Jirahar/70 History and Conflicts/Historical Atlas of Qiryath before Atheria.md|Historical Atlas of Qiryath before Atheria]]
 - [[Qahur and the Gateway before Atheria]]
 - [[The Eastern Sea Wars]]
+- [[Historical Atlas of Vathra and the Northern Ground]]

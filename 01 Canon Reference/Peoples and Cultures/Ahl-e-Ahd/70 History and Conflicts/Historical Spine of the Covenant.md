@@ -17,7 +17,7 @@ The Covenant is a religious and political civilisation formed among Ahdari and n
 
 ## Before Mujalib
 
-After the Exodus, proto-Ahdari peoples preserved water-right, guest-law, blood-price, sanctuary and witnessed oath. They developed in the Near-Glass and western well country through relationships with independent Orphaned societies. The Qahuri of the Sacred Basin belonged to one of those older populations. They rebuilt riverworks after Ishkatar's fall and passed through the [[Ancient Qahur and the Twin-Reed Crowns|Senareth, Yasharet, Aramen and later Twin-Reed ages]].
+After the Exodus, ancient Ahdari communities preserved water-right, guest protection, blood-price, sanctuary and witnessed oath. They developed in the Near-Glass and western well country through relationships with independent Orphaned societies. The Qahuri of the Sacred Basin belonged to one of those older populations. They rebuilt riverworks after Ishkatar's fall and passed through the [[Ancient Qahur and the Twin-Reed Crowns|Senareth, Yasharet, Aramen and later Twin-Reed ages]].
 
 Qahuri kings, temple households, canal councils and craft towns had already created a populous river civilisation by the time of Mujalib. Their [[The White Measure and the Second Houses|White Measure]] also produced a small class of bound human dead who acted as Egg White Patrons. Iqashari towns followed their own development. Mujalib preached among settled societies with long memories of water, exchange and government.
 

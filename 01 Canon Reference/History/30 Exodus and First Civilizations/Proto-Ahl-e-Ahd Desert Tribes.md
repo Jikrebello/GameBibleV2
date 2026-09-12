@@ -16,9 +16,11 @@ appears_in: []
 needs: []
 tags: []
 ---
-# Proto-Ahl-e-Ahd Desert Tribes
+# The Early Ahdari Well Country
 
-The proto-Ahl-e-Ahd core emerges during the later northern fission, when part of the Near-Glass camp continuum joins and competes with older desert and Tarkhan communities around defended wells, oath coalitions and caravan protection. Their earliest law is not abstract philosophy; it is survival discipline. They are not an immediate third branch formed at the outward threshold, and they are not yet the whole later Ahl-e-Ahd civilization.
+Historians once described the early Ahdari simply as **proto-Ahl-e-Ahd desert tribes**. The term conceals a varied ancient society. Between about 1950 and 1400 BR, part of the Near-Glass camp continuum joined and competed with older well keepers, Narashi caravan houses and Tarkhan neighbours. Defended water, oath coalitions, guest protection and camel transport gave these communities a shared public life.
+
+The name **Ahdari** became a broad self-name during the Bronze-Road centuries. Ahdari peoplehood preceded the Covenant by many centuries. It did not yet include the Qahuri, Iqashari, Qazmari, Zanthiri and other populations joined by Al-Ahdiya after 541 AR.
 
 ## Desert Institutions
 
@@ -35,27 +37,29 @@ Their early world revolves around:
 - sacred hospitality,
 - revenge limits.
 
-## Covenant Memory
+## Inherited teaching
 
-The common Glass inheritance teaches that survival depends on promise, provision and accountable witness. Northern scarcity makes those principles territorial: a promise made over water, shade, blood, bread, rescue or sanctuary becomes more than social convenience. It becomes the grammar of reality.
+Glass-descended households remembered that survival depended upon promise, provision and accountable witness. In the well country, these teachings governed water, shade, blood, bread, rescue and sanctuary. Name-Keeping households preserved prayers to the Lord and refused images; other Ahdari followed local high-place rites, household standards or particular Patron bargains.
 
-## Drift Toward Contract Doctrine
+## Later contract doctrine
 
-Over generations, covenant memory hardens into a total metaphysical imagination:
+Over many centuries, some Ahdari thinkers extended familiar obligations into a metaphysical account of creation:
 
 - if oaths bind humans, perhaps law binds spirits;
 - if names establish obligation, perhaps true names establish control;
 - if water-rights prevent death, cosmic contracts may prevent chaos;
 - if witness makes a promise enforceable, celestial witness may make a contract absolute.
 
-## Future Consequence
+## Historical inheritance
 
-The later Ahl-e-Ahd contract civilization grows from these roots and from the subsequent conversion, conquest, marriage and incorporation of Ahdari, Iqashari, Qahuri, Qazmari, Zanthiri, Velian and other populations. Its greatness and danger both come from treating obligation as the deepest layer of reality.
+After Mujalib's preaching, Ahdari language and institutions helped shape the Covenant. The later Ahl-e-Ahd civilisation also incorporated Iqashari, Qahuri, Qazmari, Zanthiri and other populations with independent ancestries. Ancient Ahdari history remains one foundation of that civilisation rather than its complete past.
 
 ## Navigation
 
 - [[Timeline MOC]]
 - [[Age of Exodus]]
 - [[Age of Scattering]]
+- [[The Ahdari before the Covenant]]
+- [[Historical Atlas of Vathra and the Northern Ground]]
 - [[Contract Magic and True Names]]
 - [[01 Canon Reference/Peoples and Cultures/Ahl-e-Ahd/The Ahl-e-Ahd Overview.md|The Ahl-e-Ahd Overview]]

@@ -69,6 +69,8 @@ Development status: **approved and promoted to canon, 11 September 2026**. Begin
 
 This package follows Vathra, the Great Unyoking, western wells, eastern herding and hunting societies, Narash, Glassward trade and the loss of Giant horse infrastructure. It establishes proto-Ahdari and Tarkhan relations with Qahur, Arqesh and Qiryath while keeping the Tarkhan Orphaned and the early Ahdari world pre-Covenant.
 
+Development status: **approved and promoted to canon, 12 September 2026**. Begin with [[Historical Atlas of Vathra and the Northern Ground]], then read [[Vathra and the Great Unyoking]], [[The Tarkhan before the Horse Hordes]] and [[The Ahdari before the Covenant]]. [[Package C - Wells, Open Country and Vathra Canon Integration Review]] records the final boundaries and source history.
+
 Dependencies: named routes from Packages A and B; the First Catch remains after 905 AR and cannot be anticipated as ancient horse mastery.
 
 ### Package D — Folk, Ättar and the Southern Cold World
@@ -117,4 +119,4 @@ Each delivery checks the following:
 
 ## Current review gate
 
-Packages A and B have completed both development and canon delivery. Package C, Wells, Open Country and Vathra, is the next scheduled ancient-world package. Exact coastlines, the full number and present reachability of Second-House Patrons, protected mysteries and the later fate of Vashar remain open. The Historical Seed Garden, campaign material, application code and present map were not altered by the Package B promotion.
+Packages A, B and C have completed both development and canon delivery. Package D, Folk, Ättar and the Southern Cold World, is the next unfinished ancient-world package. Exact coastlines, the full number and present reachability of Second-House Patrons, the later state of three Vathran crown-cities, protected mysteries and the later fate of Vashar remain open. Package C added no Garden root; it corrected G-59's anachronistic mounted rider to a camel scout. Campaign material, application code and the present map were not altered.

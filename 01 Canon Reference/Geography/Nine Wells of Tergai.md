@@ -18,7 +18,9 @@ The **Nine Wells of Tergai** form a broken chain of deep water, seasonal pasture
 
 ## Tarkhan Memory
 
-The Tarkhan call them the **Nine Mother-Wells**. Western ancestors dug and maintained them before Al-Ahdiya. Seasonal rights belonged to clans through labor, burial, hospitality, and remembered use. Grey Sister drank at the central well generations after the First Catch, joining western water memory to eastern horse memory.
+The Tarkhan call them the **Nine Mother-Wells**. Between approximately 1900 and 1650 BR, Tergai houses deepened older sources and linked them with cisterns, ramps and repair yards. Former Vathran tether workers supplied lifting knowledge; neighbouring camps brought labour, animals and food. Ahdari caravans also used the chain and buried relatives beside several waters, while Tarkhan tenure remained central to its maintenance.
+
+Seasonal rights belonged to houses through labour, burial, hospitality and remembered use. Grey Sister drank at the central well generations after the First Catch, joining western water memory to eastern horse memory.
 
 ## Covenant Memory
 
@@ -44,3 +46,6 @@ Present Qahirid sovereignty at Tergai consequently rests upon an old dispossessi
 - [[Covenant Armies and the Tarkhan Frontier]]
 - [[Mazrakan, Market of the Nine Measures]]
 - [[Historical Spine of the Tarkhan]]
+- [[The Tarkhan before the Horse Hordes]]
+- [[The Ahdari before the Covenant]]
+- [[Historical Atlas of Vathra and the Northern Ground]]

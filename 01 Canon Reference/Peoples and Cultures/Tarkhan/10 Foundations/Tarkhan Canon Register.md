@@ -25,8 +25,12 @@ This register controls authorial facts about the Tarkhan. Authority descends thr
 
 ## Fixed History
 
-- The Tarkhan are principally an Orphaned people descended from northern dry-belt communities that survived the Giant collapse outside the Glass Ark.
-- Tarkhan ancestors dug the [[Nine Wells of Tergai]]. Covenant forces seized them violently in 558 AR. The later voluntary-submission account is false.
+- The Tarkhan are principally an Orphaned people descended from northern communities that survived under, beside and against [[Vathra and the Great Unyoking|Vathra]] outside the Glass Ark.
+- Vathra was a lesser Giant crown whose flying Material cities collapsed during the Great Unyoking. It was not a sixth Imperial Horizon and was not Nythalum.
+- Tergai well houses, Elkari grass families, Taleri tether towns and Narashi caravan houses contributed to ancient Tarkhan formation. Their common name developed during the Hearth-Crown centuries.
+- Ancient Tarkhan society used camels, carts, sledges and walking herds. A few chariot and riding horses survived among elite households without producing the mounted civilisation of the Horse Centuries.
+- Tarkhan ancestors deepened and maintained the [[Nine Wells of Tergai]]. Covenant forces seized them violently in 558 AR. The later voluntary-submission account is false.
+- Kharuz of the Stone Wells and the Ahdari water keeper Tavisha defeated Lethren Ostar at Rethmar in 381 BR. Rethmar was a mixed winter gathering rather than a Tarkhan capital or another name for Tergai.
 - The First Catch occurs from 905 to 920 AR. Grey Sister begins the sacred remount genealogy.
 - Qarayel unites the banners in 1261, dominates the Black Wind Years from 1265 to 1300, dies in 1303, and is followed by the Partition in 1304.
 - The first Ash Road Peace is concluded in 1334 after an attack on Castara's new inland route.
@@ -55,9 +59,12 @@ This register controls authorial facts about the Tarkhan. Authority descends thr
 
 ## Superseded Claims
 
-The old claim that Tarkhan civilization was wholly foot-mobile before 905 is obsolete. Grass hunting does not define every northeastern clan. The Moon Horde does not establish general female khanship. Falcon-trance is not unrestricted animal possession. Direct historical comparison labels are creator-only.
+The old claim that Tarkhan civilisation was wholly foot-mobile before 905 is obsolete: camels, carts and sledges were fundamental, while rare horses served chariot and elite households. Any claim that ancient Tarkhan were already a mass mounted people is equally obsolete. Grass hunting does not define every northeastern clan. The Moon Horde does not establish general female khanship. Falcon-trance is not unrestricted animal possession. Direct historical comparison labels are creator-only.
 
 ## Navigation
 
 - [[The Tarkhan Tribes Overview]]
+- [[The Tarkhan before the Horse Hordes]]
+- [[Historical Atlas of Vathra and the Northern Ground]]
+- [[Package C - Wells, Open Country and Vathra Canon Integration Review]]
 - [[Tarkhan Reconstruction Audit]]

@@ -65,4 +65,4 @@ Trade, service, migration and warfare continually change relations with settled 
 
 ## Further reading
 
-The [[Historical Spine of the Tarkhan]] and [[The Making of the Tarkhan]] explain their formation. [[Tarkhan Camps, Households, and Daily Life]] and [[Tarkhan Dress, Food, and Portable Craft]] describe ordinary work. [[Four Hordes of the Partition]], [[Sky Faith and the Blue Eternal]] and [[Tarkhan and the Wider World]] introduce the principal political and religious connections.
+[[Historical Atlas of Vathra and the Northern Ground]] begins with the Giant crown whose fall shaped the northern country. [[The Tarkhan before the Horse Hordes]] follows the ancient well, camel, craft-town and grassland societies through 350 BR. The [[Historical Spine of the Tarkhan]] and [[The Making of the Tarkhan]] continue that formation into the Horse Centuries. [[Tarkhan Camps, Households, and Daily Life]] and [[Tarkhan Dress, Food, and Portable Craft]] describe ordinary work. [[Four Hordes of the Partition]], [[Sky Faith and the Blue Eternal]] and [[Tarkhan and the Wider World]] introduce the principal political and religious connections.

@@ -26,7 +26,7 @@ It is told among northern descendants of the Near-Glass camps, especially Jiraha
 
 ## The tale
 
-When Tarkhan riders were reported beyond the salt flats, the judges of one camp lifted their staffs. Their fathers had survived by moving before danger closed, carrying names, measures and judgements from fire to fire. They ordered the tents struck before sunset.
+When Tarkhan camel scouts were reported beyond the salt flats, the judges of one camp lifted their staffs. Their fathers had survived by moving before danger closed, carrying names, measures and judgements from fire to fire. They ordered the tents struck before sunset.
 
 The keeper of the new mud wall refused. Snowmelt had filled the well, women had planted barley inside the enclosure, and the fever house could not be moved without killing its patients. The keeper accused the judges of loving the road more than the people. The eldest judge answered that a wall teaches frightened people to mistake possession for safety.
 

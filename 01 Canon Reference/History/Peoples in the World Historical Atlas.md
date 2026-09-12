@@ -31,7 +31,7 @@ The followers gathered by the Great Prophet escaped into the Glass. Numerous oth
 
 The desert refuge turned captives from different Giant dominions into the One Glass People. Shared provision, worship, labour and the Prophet's teaching gave them a common life over generations. The Prophet left no inheritable commission. After his death, disputes over leadership and renewed contact with the world beyond the desert contributed to gradual separation.
 
-Southern war-settlement leagues became the ancestors of the Atherian world. Communities remaining nearer the Glass later divided under the pressures of water, distance, travel and Tarkhan contact. Portable courts and route memory became important to the Jirahar, while defended wells, territorial coalitions and guest-law contributed to proto-Ahdari society. Families and institutions remained connected across these divisions for generations.
+Southern war-settlement leagues became the ancestors of the Atherian world. Communities remaining nearer the Glass later divided under the pressures of water, distance, travel and Tarkhan contact. Portable courts and route memory became important to the Jirahar, while defended wells, territorial coalitions and guest protection contributed to ancient Ahdari society. Families and institutions remained connected across these divisions for generations.
 
 The ancient sources did not use the retrospective terms *proto-Atherian*, *proto-Jirahar* and *proto-Ahdari*. Southern migrants named captains, camps, occupations and destinations. Near-Glass communities named roads, towers, wells and households. Broader people names acquired meaning as these local groups formed durable relationships.
 
@@ -41,7 +41,9 @@ The ancient sources did not use the retrospective terms *proto-Atherian*, *proto
 
 Between c. 1900 and 800 BR, rebuilding produced halls, defended wells, tower circuits, cultivated river states, ports and maritime leagues. Orphaned societies developed without waiting for the Glass descendants. Settlers entered inhabited lands and established themselves through alliance, trade, marriage, slavery and war.
 
-The Folk formed through many southern clan worlds rather than a single ancestral kingdom. Related Ättar societies concentrated greater authority in halls while sustained Grobi warfare changed their institutions. Tarkhan communities maintained northern wells and seasonal routes. Jirahar tower societies joined settled centres with travelling households. In the south, Atherian maritime cultures grew through their encounters with the Enathi, Serathi, Vardeni and the survivors of Giant palace kingdoms.
+The Folk formed through many southern clan worlds rather than a single ancestral kingdom. Related Ättar societies concentrated greater authority in halls while sustained Grobi warfare changed their institutions. Tarkhan communities rebuilt the northern ground after Vathra's flying cities fell, maintaining deep wells, camel roads, craft towns and seasonal grass routes. Ahdari communities joined western waters through markets and shared protection. Jirahar tower societies connected settled centres with travelling households. In the south, Atherian maritime cultures grew through their encounters with the Enathi, Serathi, Vardeni and the survivors of Giant palace kingdoms.
+
+**Read:** [[Historical Atlas of Vathra and the Northern Ground]] · [[Vathra and the Great Unyoking]] · [[The Tarkhan before the Horse Hordes]] · [[The Ahdari before the Covenant]]
 
 The eastern river and highland peoples also formed independent states. House Ubar joined the Ubar canal cities into Arqesh, while House Tiravan emerged among the Vashari highlands. The Jirahar built Qiryath between these powers and the Near-Glass roads. Ortheian kings later imposed a temporary hegemony upon Atherian cities, and Eryndor III's eastern conquest created Successor kingdoms without absorbing these peoples into one ancestry.
 
@@ -83,7 +85,7 @@ The Great Split divided the Thalmyric and Eclessian churches. Sestaran cities pr
 - [[01 Canon Reference/Peoples and Cultures/Jirahar/70 History and Conflicts/Historical Spine of the Jirahar.md|Jirahar]] — the Glass inheritance, tower societies, exile, repeated destruction and dispersed communal life.
 - [[01 Canon Reference/Peoples and Cultures/Nsizwa/70 History and Conflicts/Historical Atlas of the Nsizwa.md|Nsizwa]] — far southwestern survival, political reassembly and the institutions of cattle, service and remembrance.
 - [[01 Canon Reference/Peoples and Cultures/Sestaran Concord/70 History and Conflicts/Historical Spine of the Sestaran Concord.md|Sestara]] — independent port histories, Atherian inheritances and the formation of the seven-city league.
-- [[01 Canon Reference/Peoples and Cultures/Tarkhan/70 History and Conflicts/Historical Spine of the Tarkhan.md|Tarkhan]] — northern Orphaned societies, wells and grasslands, the First Catch, Qarayel and the four hordes.
+- [[01 Canon Reference/Peoples and Cultures/Tarkhan/70 History and Conflicts/Historical Spine of the Tarkhan.md|Tarkhan]] — Vathran collapse, northern Orphaned societies, wells and grasslands, the First Catch, Qarayel and the four hordes.
 - [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/70 History and Conflicts/Historical Atlas of Thalmyria.md|Thalmyria]] — imperial survival, mountain refuge, Reconquest, the Great Split and later decline.
 - [[01 Canon Reference/Peoples and Cultures/Velian/70 History and Conflicts/Historical Atlas of the Velians.md|Velians]] — desert-margin congregations, Covenant rule, border society and the independent Velian states.
 

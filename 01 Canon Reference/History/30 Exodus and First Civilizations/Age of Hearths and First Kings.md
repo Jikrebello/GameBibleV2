@@ -25,6 +25,8 @@ The **Age of Hearths and First Kings**, approximately 1900–1400 BR, marks the 
 
 The northern fission continued throughout these centuries. Proto-Jirahar communities developed portable courts and custodianship across dispersed settlements. The peoples of the western well country built defended markets, guest-law and territorial oath-coalitions. Neither tradition arose at one council or from a single founder.
 
+Farther north and east, Tarkhan communities deepened the Nine Wells of Tergai, maintained camel roads and moved cattle and sheep through seasonal grass. Taleri craft towns worked around grounded Vathran ruins. The broad Tarkhan name came to connect these western and eastern populations through fosterage, assembly and related speech, although no king governed them all.
+
 ## The first durable homes
 
 Between c. 1900 and 1400 BR, settlement made new kinds of power possible. A household could store grain for a second winter, improve a field it expected to inherit and bury its dead beside a hall rather than on a road. Those achievements also made it easier for a chief to demand labour, a creditor to seize a family and a war band to return regularly for tribute.
@@ -71,6 +73,10 @@ One Menhir court sheltered a household guilty of murder because that household h
 - [[Ancient Qahur and the Twin-Reed Crowns]]
 - [[Life in the Ancient Sacred Basin]]
 - [[The White Measure and the Second Houses]]
+- [[Historical Atlas of Vathra and the Northern Ground]]
+- [[The Tarkhan before the Horse Hordes]]
+- [[The Ahdari before the Covenant]]
+- [[Nine Wells of Tergai]]
 
 ## Local tales and surviving memories
 

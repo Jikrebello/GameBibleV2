@@ -31,7 +31,7 @@ This page provides a direct entrance to each principal culture. The [[01 Canon R
 
 The Ahl-e-Ahd, or People of the Covenant, comprise a civilisation joined by Al-Ahdiya, literary Ahdari, shared legal traditions and a network of roads, markets and places of pilgrimage. Ahdari, Iqashari, Qahuri, Qazmari and Zanthiri populations retain distinct countries and ancestries within this wider religious and political world.
 
-**Principal articles:** [[01 Canon Reference/Peoples and Cultures/Ahl-e-Ahd/The Ahl-e-Ahd Overview.md|Overview]] · [[01 Canon Reference/Peoples and Cultures/Ahl-e-Ahd/10 Foundations/The Making of the Covenant Peoples.md|Historical formation]] · [[01 Canon Reference/Peoples and Cultures/Ahl-e-Ahd/70 History and Conflicts/Historical Spine of the Covenant.md|History]]
+**Principal articles:** [[01 Canon Reference/Peoples and Cultures/Ahl-e-Ahd/The Ahl-e-Ahd Overview.md|Overview]] · [[The Ahdari before the Covenant|Ancient Ahdari]] · [[01 Canon Reference/Peoples and Cultures/Ahl-e-Ahd/10 Foundations/The Making of the Covenant Peoples.md|Historical formation]] · [[01 Canon Reference/Peoples and Cultures/Ahl-e-Ahd/70 History and Conflicts/Historical Spine of the Covenant.md|History]]
 
 ### Ättar
 
@@ -73,7 +73,7 @@ The Sestaran Concord joins seven independent city-states for defence while leavi
 
 The Tarkhan are a northern nomadic civilisation extending across desert wells and northeastern grasslands. Clan law, guest-right, related speech and sky observance connect communities whose movements depend on different animals, water systems and seasonal routes.
 
-**Principal articles:** [[01 Canon Reference/Peoples and Cultures/Tarkhan/The Tarkhan Tribes Overview.md|Overview]] · [[01 Canon Reference/Peoples and Cultures/Tarkhan/10 Foundations/The Making of the Tarkhan.md|Historical formation]] · [[01 Canon Reference/Peoples and Cultures/Tarkhan/70 History and Conflicts/Historical Spine of the Tarkhan.md|History]] · [[Well-Tarkhan|Well-Tarkhan]] · [[Grass-Tarkhan|Grass-Tarkhan]] · [[Four Hordes of the Partition|The four hordes]]
+**Principal articles:** [[01 Canon Reference/Peoples and Cultures/Tarkhan/The Tarkhan Tribes Overview.md|Overview]] · [[The Tarkhan before the Horse Hordes|Ancient history]] · [[01 Canon Reference/Peoples and Cultures/Tarkhan/10 Foundations/The Making of the Tarkhan.md|Historical formation]] · [[01 Canon Reference/Peoples and Cultures/Tarkhan/70 History and Conflicts/Historical Spine of the Tarkhan.md|History]] · [[Well-Tarkhan|Well-Tarkhan]] · [[Grass-Tarkhan|Grass-Tarkhan]] · [[Four Hordes of the Partition|The four hordes]]
 
 ### Thalmyrics
 
@@ -99,13 +99,15 @@ The Atherian Empire was the central imperial civilisation of the known world. It
 
 ## Peoples through history
 
-The chronological history begins with the human communities subjected to Giant rule and those which survived its collapse outside the Glass refuge. The Great Prophet's followers became one people during their refuge in the desert. After his death, successive migrations and two gradual fissions contributed to Atherian, Jirahar and proto-Ahdari histories, while Orphaned societies continued to develop in their own lands.
+The chronological history begins with the human communities subjected to Giant rule and those which survived its collapse outside the Glass refuge. The Great Prophet's followers became one people during their refuge in the desert. After his death, successive migrations and two gradual fissions contributed to Atherian, Jirahar and ancient Ahdari histories, while Orphaned societies continued to develop in their own lands.
 
 Later conquest and migration produced new civic and cultural identities. Atherian citizenship joined people of many ancestries; the Fall and Long Reconquest transformed the imperial provinces; and the Covenant, Thalmyric, Eclessian, Sestaran and Velian worlds emerged through different combinations of inheritance and political change.
 
 Follow the complete sequence in [[01 Canon Reference/History/Peoples in the World Historical Atlas.md|Peoples through History]]. The broad periods are collected in [[01 Canon Reference/History/30 Exodus and First Civilizations/Ancient and Early Historic Ages.md|Ancient and Early Historic Ages]], [[01 Canon Reference/History/40 Atherian Imperial Age/Atherian Imperial Age.md|the Atherian Imperial Age]], [[01 Canon Reference/History/50 Redeemer and Conversion/The Age of the Redeemer.md|the Age of the Redeemer]], [[01 Canon Reference/History/60 Fall and Successor Empires/The Fall and the Long Reconquest.md|the Fall and Long Reconquest]] and [[01 Canon Reference/History/70 Later History and Present Day/The Age of Held Proofs.md|the Age of Held Proofs]].
 
 The dedicated [[01 Canon Reference/History/30 Exodus and First Civilizations/Peoples before Atherian Unification/Peoples before Atherian Unification.md|ancient peoples directory]] distinguishes the populations, cities and political identities established by 350 BR.
+
+The northern ancient route begins with [[Historical Atlas of Vathra and the Northern Ground]], then continues through [[The Tarkhan before the Horse Hordes]] and [[The Ahdari before the Covenant]].
 
 ## Present states and regional entrances
 

@@ -58,6 +58,8 @@ The Caleran republic's institutions emerged from one part of this city world. Ci
 
 By 350 BR, the Caleran republic possessed extensive roads, overseas territories, veteran clients and commanders whose wealth depended upon provincial war. These institutions supplied the power used by Aurelius Thalion during the founding of the [[Atherian Imperial Age]]. The older cities and eastern states retained histories extending far beyond Caleran's authority.
 
+The northern well country remained beyond Caleran's control. Arqeshite and Qahuri rulers had sponsored competing Tarkhan and Ahdari clients, while their garrisons demanded guides, animals and hostages. The client courts disintegrated after Arqesh's fall. In 381 BR, Kharuz of the Stone Wells and the Ahdari water keeper Tavisha defeated [[Lethren Ostar]] at Rethmar by dividing his columns and removing the water he expected to seize. Their coalition dispersed after the victory.
+
 ## Atlas navigation
 
 - [[World Historical Atlas MOC]]
@@ -76,6 +78,10 @@ By 350 BR, the Caleran republic possessed extensive roads, overseas territories,
 - [[Peoples before Atherian Unification]] — synchronised population and identity history through 350 BR.
 - [[The Arqeshite River Empire]]
 - [[The Erasure of Orthea]]
+- [[Historical Atlas of Vathra and the Northern Ground]]
+- [[The Tarkhan before the Horse Hordes]]
+- [[The Ahdari before the Covenant]]
+- [[Lethren Ostar#The disaster at Rethmar|The defence of Rethmar]]
 
 ## Local tales and surviving memories
 

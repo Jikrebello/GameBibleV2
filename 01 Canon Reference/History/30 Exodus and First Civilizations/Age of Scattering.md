@@ -49,7 +49,7 @@ These contacts begin early harbor braids and several connected post-Giant recove
 Historians use **Near-Glass camp continuum** for the related camps that remained close to the desert after the southern separation. It was never the name of a lost nation. Water scarcity, distance, marriage, trade, raiding and reciprocal contact with older desert communities and Orphaned Tarkhan gradually made one camp system unworkable.
 
 - **Proto-Jirahar** develop portable courts, translocal registers, protected burial obligation, route memory and later tower towns whose legitimacy does not depend upon owning all surrounding land.
-- **Proto-Ahl-e-Ahd** develop defended wells, territorial oath-coalitions, guest-law, blood-price, rescue debt and public enforcement. Older desert and Tarkhan people join these communities without becoming Ark-derived by that fact.
+- **Early Ahdari communities** develop defended wells, territorial coalitions, guest protection, blood-price, rescue debt and public enforcement. Older desert and Tarkhan people join them without becoming Ark-derived by that fact. The broad Ahdari name becomes common during the later Bronze-Road centuries.
 
 The two later northern formations share real ancestry without either possessing the whole Prophet's inheritance. The northern fission begins late in the formal Scattering and completes during the [[Age of Hearths and First Kings]].
 
@@ -58,6 +58,8 @@ The two later northern formations share real ancestry without either possessing 
 Folk, Ättar, Tarkhan and Nsizwa are principally descended from communities that survive the Giant collapse outside the Ark. Their ancestors include subject villages, local revolts, failing client states, slave-soldier bands, hidden enclaves, mountain and forest refugees, island survivors and people born later among Giant ruins.
 
 Their histories of liberation are local and uneven. Some know the Prophet only as rumor, foreign law, adopted story or not at all. They are neither rejected humanity nor a single related remnant people.
+
+In the northern dry belt, the flying Giant kingdom of [[Vathra and the Great Unyoking|Vathra]] broke apart during the Unbinding. Giant civil war destroyed its command system while human tether crews, camel keepers, soldiers and captives seized wells and landing grounds. Some crown-cities crashed; others were grounded, cast loose or carried beyond human pursuit. The human survivors rebuilt among wells, seasonal lakes and eastern grasslands. Their communities became the principal ancestors of the Tarkhan.
 
 ## Braided Peoples
 
@@ -145,6 +147,8 @@ The Year of Standing Stars belongs somewhere within these overlapping centuries.
 - [[Peoples before Atherian Unification]] — the complete ancient identity route to 350 BR.
 - [[Ancient and Early Historic Ages]]
 - [[Proto-Ahl-e-Ahd Desert Tribes]]
+- [[Historical Atlas of Vathra and the Northern Ground]]
+- [[Vathra and the Great Unyoking]]
 
 ## Local tales and surviving memories
 
