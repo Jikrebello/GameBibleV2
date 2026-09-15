@@ -25,11 +25,13 @@ The full period register is [[01 Canon Reference/History/30 Exodus and First Civ
 
 ## Folk and Ättar
 
-The archaic Fäskogarfolk population contributed to both the living Folk and the distinct Ättar culture. The Folk include many regional populations rather than one ancestry. Enaidfae is an old-rite Folk identity, not a biological subdivision. Chapel-Folk remain ethnically and culturally Folk after conversion.
+The reconstructed Fäskogarfolk speech-and-custom continuum belongs to the connected southern populations from which the living Folk and the distinct Ättar culture developed. It was not one population, state or pure ancestral nation. The Folk include many regional populations rather than one ancestry. Enaidfae is an old-rite Folk identity, not a biological subdivision. Chapel-Folk remain ethnically and culturally Folk after conversion.
 
-Ättar totem and moon-blood follow an acknowledged paternal line. Children of foreign mothers may be fully Ättar through their father's hall while inheriting weaker rage; appearance does not determine pact strength. Centuries of captive-taking, marriage, fosterage, and adoption make every range internally mixed despite chiefly claims of pure descent.
+Lesser Giant and giant-blooded refugees from [[Nhaldur and the First Rewriting|Nhaldur]] entered parts of the shared southern population before the Folk and Ättar had fully diverged. Most later descendants were human and possessed complete human souls; rare true Giant births retained Giant creaturely continuity. This inheritance could affect bodies and magical aptitudes without defining either people.
 
-The southern-hemisphere rule governs their distribution: deeper southern populations inhabit colder country. Hair, skin, eye color, stature, and build vary by family and region and do not determine clan, court, or confession.
+Ättar totem and moon-blood follow an acknowledged paternal line created by [[Mother Moon's Bargain]]. Children of foreign mothers may be fully Ättar through their father's hall while inheriting weaker rage; appearance does not determine pact strength. Centuries of captive-taking, marriage, fosterage and adoption make every range internally mixed despite chiefly claims of pure descent.
+
+The southern-hemisphere rule governs their distribution: deeper southern populations inhabit colder country. Hair, skin, eye colour, stature and build vary by family and region and do not determine clan, court or confession.
 
 ## Eclessians
 
@@ -39,17 +41,17 @@ Eclessians are a later **Braided people**. Their populations formed through Athe
 
 Thalmyrics descend from Atherian heartlanders, refuge populations, provincial peoples, occupation-era communities, and Reconquest settlers. The Saltborn are a western Kedravan Thalmyric/Ättar people produced by centuries of raid, settlement, war, baptism, and intermarriage.
 
-## Covenant Peoples
+## Covenant peoples
 
 Ahl-e-Ahd is an imperial-confessional identity shared by Ahdari, Iqashari, Qahuri, Qazmari, Zanthiri, converts, and mixed communities. It is not one ancestry.
 
-## Other Peoples
+## Other peoples
 
 Jirahar identity follows communal descent and conversion law rather than appearance. Folk, Ättar, Tarkhan and Nsizwa are principally **Orphaned peoples**, each formed from different human communities that survived outside the Glass Ark. The Tarkhan are one internally diverse people whose Well-Tarkhan and Grass-Tarkhan identities follow ecology and mobility rather than ancestry. Sestaran harbor populations and Vesari are later **Braided peoples**; Sestaran, Vesari, Velian and former Atherian populations contain substantial internal diversity governed by their own culture dossiers.
 
-## Use Rule
+## Use rule
 
-Character appearance should arise from family, region, class, labor, diet, age, and personal history. Avoid treating a political culture as a fixed body type or a mixed population as a predictable visual average.
+Character appearance should arise from family, region, class, labour, diet, age and personal history. A political culture does not supply one fixed body type, and a mixed population does not produce one predictable visual average.
 
 ## Navigation
 
@@ -59,4 +61,5 @@ Character appearance should arise from family, region, class, labor, diet, age, 
 - [[The Making of the Covenant Peoples]]
 - [[The Making of the Thalmyrics]]
 - [[The Making of the Tarkhan]]
+- [[Historical Atlas of the Southern Cold World]]
 - [[01 Canon Reference/History/30 Exodus and First Civilizations/Peoples before Atherian Unification/Peoples before Atherian Unification.md|Peoples before Atherian Unification]]

@@ -18,7 +18,7 @@ for (const p of files) {
 const changed = execFileSync('git', ['-c', 'core.safecrlf=false', 'diff', '--name-only', '-z'], {encoding:'utf8'}).split('\0').filter(Boolean).map(slash);
 const added = execFileSync('git', ['ls-files', '--others', '--exclude-standard', '-z'], {encoding:'utf8'}).split('\0').filter(Boolean).map(slash);
 const touched = [...new Set([...changed, ...added])].filter(p=>p.endsWith('.md'));
-const links = s => [...s.matchAll(/\[\[([^\]\n]+)\]\]/g)].map(m=>m[1].split('|')[0].trim());
+const links = s => [...s.matchAll(/\[\[([^\]\n]+)\]\]/g)].map(m=>m[1].split(/\\?\|/)[0].trim());
 const cache = new Map();
 const body = p => {if(!cache.has(p))cache.set(p,read(p)); return cache.get(p);};
 const quote = String.fromCharCode(96);

@@ -16,6 +16,8 @@ aliases: ["The Company of the Broken Measure"]
 ---
 # The Company of the Broken Measure
 
+The **Company of the Broken Measure** is a Late-Chains liberation tradition told among descendants of human households once bound to Giant estates. Its received story joins a small household escape to the much longer punishment cycle of a Giant-blooded strongman. The two histories involved different people; their combination allowed later performers to ask whether freeing captives could repair the guilt of an earlier murder.
+
 > **Stories told.** The local telling and the material or customary remainder below are established. A claimed original object, miraculous response, famous identity or supernatural explanation is not authenticated merely by this article.
 
 ## Historical setting
@@ -23,6 +25,12 @@ aliases: ["The Company of the Broken Measure"]
 **c. 2400–2260 BR; Late Chains and Unbinding.** former Giant estates and Glassward approaches. This tradition belongs to [[Age of Chains]]; its cultural bearers are slave-descendant communities.
 
 It is told in the Glassward marches and among peoples descended from Late-Chains estate slaves. Its survival does not make every singer's version a complete account of the event.
+
+## Historical basis
+
+The first history concerned one estate whose rules assigned reduced food to workers too sick to meet the labour tally while denying medicine to anyone on that reduced ration. Six members of an enslaved household exploited contradictions among the steward's orders to hide and remove a feverish kitchen girl. They escaped without the aid of the strongman celebrated in the later cycle.
+
+The second history concerned a Giant-blooded human whose unusual strength drew him into a series of punitive labours after he killed people he loved. He later broke a measuring rod during an attack on an estate and helped some captives escape. Surviving accounts do not establish his name, his complete labours or a connection to the six household rescuers. Three claimed fragments of the rod remain unauthenticated.
 
 ## The tale
 
@@ -57,6 +65,7 @@ Names, precise sites and competing supernatural claims may remain uncertain with
 ## Read onward
 
 - [[Lesser Crowns of the Giant Age]]
+- [[The Great Unbinding]]
 
 - [[Age of Chains]]
 - [[Myths and Legendary Histories MOC]]

@@ -15,9 +15,9 @@ tags: []
 ---
 # Eclessia Overview
 
-Eclessia is the eastern inheritance of the Atherian world: a group of kingdoms, duchies, free cities and frontier marches lying east of Thalmyria. Its peoples share the historical influence of the Eclessian Church, while their governments, languages of daily life and local customs reflect different mixtures of provincial, Folk, Markish and Vesari ancestry.
+Eclessia is the eastern inheritance of the [[01 Canon Reference/Peoples and Cultures/Atherian Empire/The Atherian Empire Overview.md|Atherian world]]: a group of kingdoms, duchies, free cities and frontier marches lying east of [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/Thalmyric Empire Overview.md|Thalmyria]]. Its peoples share the historical influence of the [[01 Canon Reference/Peoples and Cultures/Eclessia/20 Faith and Worldview/Eclessian Church Overview.md|Eclessian Church]], while their governments, languages of daily life and local customs reflect different mixtures of provincial, Folk, Markish and Vesari ancestry.
 
-Cathedrals, parish churches, monasteries, universities and guilds remain prominent institutions. Their authority is now divided by the Freeflame Reformation and the territorial settlement of the Korrheim Accord. Religious allegiance consequently affects households, travel and government throughout the region.
+Cathedrals, parish churches, monasteries, universities and guilds remain prominent institutions. Their authority is now divided by the [[Freeflame Reformation]] and the territorial settlement of the [[The Korrheim Accord|Korrheim Accord]]. Religious allegiance consequently affects households, travel and government throughout the region.
 
 ## Historical formation
 
@@ -71,4 +71,7 @@ The Accord provides a political settlement without ending religious conflict. Pr
 
 ## Further reading
 
-Start with the [[Historical Atlas of Eclessia]] and [[01 Canon Reference/Peoples and Cultures/Eclessia/10 Foundations/The Making of the Eclessians.md|The Making of the Eclessians]], then choose a regional account above. [[01 Canon Reference/Peoples and Cultures/Eclessia/30 Society and Daily Life/Life Paths/Lives of Eclessia — The Common Spine.md|Lives of Eclessia — The Common Spine]] follows individual life stages. The [[Freeflame Reformation]], [[The Korrheim Accord]] and [[Present-Day Courts and Crowns (1360 AR)]] explain the present political setting.
+- **History and regions:** Begin with the [[Historical Atlas of Eclessia]] and [[01 Canon Reference/Peoples and Cultures/Eclessia/10 Foundations/The Making of the Eclessians.md|The Making of the Eclessians]], then choose one of the regional accounts above.
+- **Ordinary life:** [[01 Canon Reference/Peoples and Cultures/Eclessia/30 Society and Daily Life/Life Paths/Lives of Eclessia — The Common Spine.md|Lives of Eclessia — The Common Spine]] follows people through the principal stages of life.
+- **The present:** The [[Freeflame Reformation]], [[The Korrheim Accord]] and [[Present-Day Courts and Crowns (1360 AR)]] explain the current religious and political settlement.
+- **Compare cultures:** Return to [[Cultures MOC|Peoples and Cultures]] for the other principal societies of the known world.

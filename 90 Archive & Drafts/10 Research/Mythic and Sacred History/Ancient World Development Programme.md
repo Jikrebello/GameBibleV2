@@ -8,7 +8,7 @@ region: [known world, distant worlds]
 culture: [Qahuri, Gateway peoples, Jirahar, Proto-Ahdari, Tarkhan, Folk, Ättar, Sestaran precursors, Nsizwa]
 related_factions: []
 appears_in: []
-needs: ["complete Packages C–G after each preceding review"]
+needs: ["complete Packages E–G after each preceding review"]
 aliases: [Ancient World Histories Programme]
 tags: [research, ancient-history, development-programme, world-historical-atlas]
 ---
@@ -79,6 +79,8 @@ This package develops the southern Orphaned populations, regional Folk worlds, h
 
 Dependencies: Atherian settlement chronology; Package E's maritime routes; existing Menhir placements.
 
+Development status: **approved and promoted to canon, 13 September 2026**. Begin with [[Historical Atlas of the Southern Cold World]], then read [[Nhaldur and the First Rewriting]], [[The Folk before Atheria]], [[The Ättar before the Great Keel-Taking]], [[The Deep Voice]] and [[Grobi History and Pack Life]]. [[Package D - Folk Ättar and Southern Cold World Canon Integration Review]] records the final boundaries, including the deliberate Grobi moral-agency retcon. The earlier drafts and [[Package D - Southern Cold World Sources Collisions and Authorial Review|comment-response review]] remain the source history.
+
 ### Package E — Harbours, Islands and Braided Precursors
 
 This package develops the old island and coastal survivors among whom proto-Atherian and Gateway settlers made new communities. It follows shipbuilding, grain, metals, piracy, mercenary work, port government, mixed religious life and participation in the Gateway and Atherian wars. Sestaran, Vesari and Eclessian identities remain later Braided formations.
@@ -119,4 +121,4 @@ Each delivery checks the following:
 
 ## Current review gate
 
-Packages A, B and C have completed both development and canon delivery. Package D, Folk, Ättar and the Southern Cold World, is the next unfinished ancient-world package. Exact coastlines, the full number and present reachability of Second-House Patrons, the later state of three Vathran crown-cities, protected mysteries and the later fate of Vashar remain open. Package C added no Garden root; it corrected G-59's anachronistic mounted rider to a camel scout. Campaign material, application code and the present map were not altered.
+Packages A, B, C and D have completed both development and canon delivery. Package E, Harbours, Islands and Braided Precursors, is the next undeveloped package. Package D deliberately supersedes the older bestiary claim of full Grobi moral agency: Grobi retain intelligence, suffering, memory and tactical choice but possess no human moral conscience. Exact coastlines, the full number and present reachability of Second-House Patrons, the later state of three Vathran crown-cities, protected mysteries and the later fate of Vashar remain open. Package C added no Garden root; it corrected G-59's anachronistic mounted rider to a camel scout. Package D also adds no Garden root. Campaign source, application code and the present map were not altered.

@@ -16,7 +16,7 @@ tags: [world-historical-atlas, atherian-formation]
 
 The **Vardeni** inhabited mountain valleys, pastures and mining districts connected to the Aurin by a series of approaches. Some households moved animals seasonally while keeping permanent farms in lower valleys. Others worked mines, made charcoal, traded pack animals or supplied the food on which those occupations depended. Olveth became a meeting place for these different groups.
 
-They emerged from Orphaned communities after the collapse of [[Arsuvan - The Giant Kingdom of the Aurin|Arsuvan]]. Their development belonged to a related regional world shared with the other [[Peoples of the Ancient Aurin|Aurin peoples]].
+They emerged from Orphaned communities after the collapse of [[Arsuvan - The Giant Kingdom of the Aurin|Arsuvan]]. Their development belonged to a related regional world shared with the other [[Peoples of the Ancient Aurin|Aurin peoples]]. Vardeni households also shared older southern kinship, work vocabulary and marriage routes with Kreseni communities beyond the north-eastern approaches. The two histories had separated before mature Atherian state formation; Kreseni remained within the eastern Folk continuum.
 
 ## Households, work and authority
 

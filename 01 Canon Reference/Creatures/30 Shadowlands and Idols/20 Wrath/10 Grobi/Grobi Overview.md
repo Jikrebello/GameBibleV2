@@ -3,18 +3,18 @@ type: reference
 status: canon
 canon_level: local
 visibility: restricted
-era: []
-region: ["Southern Cold Belt", "Grobi Frontier"]
-culture: []
-related_factions: []
-appears_in: ["Grenzburg"]
+era: [Great Unbinding, Scattering, Present Day]
+region: [Southern Cold Belt, Grobi Frontier]
+culture: [Grobi]
+related_factions: [Narrow-Bowl Hearths, Ash-Marrow Hearths, Nine-Drum Host]
+appears_in: [Grenzburg]
 needs: []
-aliases: ["Overview"]
-tags: []
+aliases: [Overview]
+tags: [grobi, wrath, creature-history]
 origin_layer: shadowlands
 continuity: wrath-rewritten-life
 intelligence: sapient
-moral_agency: full
+moral_agency: none
 encounter_tier: aligned
 rank: [nuisance, standard, specialist, elite, apex]
 creature_family: Grobi
@@ -22,102 +22,86 @@ catalogued_forms: []
 habitats: [southern cold belt, taiga, permafrost, migration corridors]
 encounter_roles: [raider, skirmisher, siege, predator]
 related_magic: [Idol influence]
+idol_affinity: wrath
+manifestation_class: []
 ---
 # Grobi Overview
 
-The Grobi are a self-sustaining lineage of Wrath-rewritten life whose bodies move through five food-driven stages. They share biological ancestry with humanity, but they are not metaphysically human. Their adaptive physiology, seasonal migration, and warband economies make them an ecological and military pressure across the southern cold belt.
+The **Grobi** are an intelligent, self-sustaining lineage of Wrath-rewritten life. Their bodies move through five food-driven stages, from goblin to troll. They reproduce, raise young, speak, remember, make tools and organise packs, but they possess neither the Image nor a human moral conscience. Wrath shaped their creaturely ends around domination, fighting and consumption.
 
-The five stage dossiers, rather than this overview, carry catalogue coverage: [[Goblins]], [[Hobgoblins]], [[Orcs]], [[Ogres]], and [[Trolls]].
+Grobi inhabit the taiga, permafrost and ruined Giant roads of the southern cold belt. Warbands move north each winter as food fails in the deep south. Their seasonal attacks have shaped Folk and Ättar stores, fortifications, warning systems and military obligations for more than two thousand years.
 
-#### Origins of Transformation
-- **The First Rewriting:** The first Grobi bodies were made when [[Wrath]] rewrote a human population through hunger, violence, and accelerated adaptation. The victims' human souls separated from the altered bodies and routed toward judgement. The new biological pattern continued and reproduced.
-- **Modern Continuity:** Modern Grobi are born without routable human souls. They possess memory, intelligence, culture, suffering, and differing degrees of moral agency, but no Grobi arrives at [[The Vestibule of Weighing]] after death. [[The Image, Soul, and Creaturely Continuity]] gives the full account of their creaturely continuity.
-  
-- **Environmental Influence**: Living in areas suffused with The Fury's essence—battlefields, sites of massacres, or ancient cursed grounds—accelerated their transformation, adapting their bodies and minds to embody aspects of wrath.
+## Origin at Kharvos
 
-#### [[Goblins]]
-- **Basic Characteristics:** Small, agile, and resilient, goblins are the most basic form of Grobi. They are roughly the size of human children and are known for their hardiness and rapid breeding.
-- **Survival Tactics:** Goblins can consume almost anything for sustenance, including decaying matter. They are opportunistic, preferring ambushes and overwhelming numbers in combat.
-- **Metabolism and Regeneration:** Goblins have a remarkable ability to regenerate from severe injuries quickly, thanks to their efficient metabolism.
-- **Transformation:** With sufficient food, goblins can grow into hobgoblins. If a grown hobgoblin cannot maintain its food intake, it reverts to its goblin form.
+The first Grobi arose during the fall of [[Nhaldur and the First Rewriting|Nhaldur]] in approximately 2284 BR. A dependent Red Reckoner guided the Kharvos workshops towards a body-changing military programme. Wrath intended to fill the power vacuum left by the collapsing Giant states with an army able to reproduce and feed itself through conquest.
 
-#### [[Hobgoblins]]
-- **Development:** Hobgoblins are either born as full-fledged members of their kind or are goblins that have grown due to abundant food. They match humans in size and intellect.
-- **Culture and Warfare:** Hobgoblin society is militaristic, focusing on foraging and hunting for sustenance. Warbands use practical weapons, coordinated tactics, drum rites, ash marks, and appetite-fed fetish magic.
-- **Role in Grobi Warbands:** They form the backbone of Grobi armies, supplemented by goblins and stronger Grobi like orcs and ogres.
-- **Advancement to Orc:** Successful Hobgoblin war leaders may become orcs if they can secure enough food.
+Crown Gaoler Urdazar Vorzhal confined 2,014 human captives in the lower barracks. Deprivation, forced combat and the failure of the ration system prepared the bodies. Wrath then performed the categorical act called the **First Rewriting**. The captives' human souls separated and entered the proper judgement road. Furor tore down and rebuilt the vacated flesh as a new biological continuity governed by appetite, stage growth and regeneration.
 
-#### [[Orcs]]
-- **Emergence:** Orcs arise in successful Hobgoblin groups, requiring substantial food intake. They are significantly larger and stronger than humans.
-- **Abilities:** Capable of overpowering multiple human adversaries, orcs are formidable in battle.
-- **Intellect and Leadership:** While natural-born orcs focus on fighting and eating, those transformed from hobgoblins often lead warbands due to their strategic capabilities.
+Modern Grobi descend from that first population. They are not the human victims continued in another shape, and humans do not become Grobi through starvation, captivity, adoption, blood or diet. [[The Image, Soul, and Creaturely Continuity]] records the authorial distinction.
 
-#### [[Ogres]]
-- **Size and Strength:** Ogres are gigantic, towering up to three or four meters tall, with a correspondingly massive weight.
-- **Intellectual Decline:** At this stage, Grobi sacrifice intelligence for size and strength, becoming driven primarily by their need to consume vast amounts of food.
-- **Fifth-Stage Crisis:** Most ogres die, starve, or collapse before further growth stabilizes. The rare survivors become [[Trolls]], regenerative apex predators whose hunger exceeds ordinary warband society.
+## Intelligence and predatory nature
 
-### Cultural and Societal Impact
-- **Threat to Human Settlements:** The Grobi are a constant threat to human communities, particularly small towns and villages, which can be completely consumed by a Grobi attack.
-- **Dynamic Growth:** The unique ability of Grobi to grow and advance into more formidable forms with sufficient food intake makes them an escalating threat in warfare.
-- **Myth and Fear:** The Grobi are subjects of human myth and fear, often portrayed as an unstoppable force that grows stronger with each victory.
+Grobi learn, plan, suffer, remember injuries and form strong attachments within a pack. They choose leaders, routes, victims, bargains and methods of attack. These tactical choices do not include a moral apprehension of mercy, justice or another creature's dignity as goods. A Grobi may delay violence, preserve a subordinate or honour a temporary arrangement when doing so protects food, breeding strength, reputation or dominance.
 
-### Core Ecology
-Grobi success compounds. Food creates larger stages; larger stages win access to more food; successful raids therefore alter the next season's threat profile. Scarcity reverses many lower transformations, fractures command, and drives migration. This makes granaries, winter corridors, carcass fields, and herd movements as important as battlefield victories.
+Pack loyalty resembles the attachment of a social predator. It can be intense and durable while remaining bounded by hierarchy, appetite and survival. A weak chief may be abandoned or eaten. A rival's young may be raised as subordinate Grobi because they add future strength. Human captives remain prey.
 
-### The Grobi: A Seasonal Scourge
+## The five stages
 
-#### Spring and Summer: The Time of Expansion
-- **Growth**: With the thawing of the frozen tundra and the abundance of the warmer months, the Grobi experience a period of rapid growth and expansion. Food is plentiful, allowing goblins to grow into hobgoblins, and in turn, some into orcs and ogres. The Grobi hoards swell in number, bolstered by births and transformations.
-  
-- **Expansion**: Driven by their burgeoning numbers and the instinctual push from The Fury to claim and conquer, Grobi warbands venture further from their homelands. They explore, raid, and sometimes establish outposts in the lush territories that border their icy realms.
+All five forms belong to one biological lineage. Food changes the body without creating a new species or caste.
 
-#### Autumn: The Prelude to Desperation
-- **Preparation**: As the days shorten and the chill returns, the Grobi begin to feel the pressure of the approaching scarcity. This time is marked by frenzied activity: hoarding food, skirmishing with neighboring factions for resources, and consolidating power within their ranks.
-  
-- **Decline Begins**: The weakest among the Grobi, unable to secure enough sustenance, start to revert to their lesser forms. The social hierarchy becomes more pronounced as the struggle for resources intensifies.
+| Stage | Ordinary scale and function |
+|---|---|
+| [[Goblins]] | Adult first-stage Grobi match human children of roughly ten or twelve in size and strength. They forage, scout, set traps, use poison and survive poor seasons. |
+| [[Hobgoblins]] | Human-sized organisers, hunters and fighters maintain watches, drum signals, ration divisions and crude repair. |
+| [[Orcs]] | Seven-to-nine-foot war leaders and breach fighters possess at least the strength of five human men. |
+| [[Ogres]] | Fourth-stage bodies break gates, haul supplies and dominate close fighting at enormous metabolic cost. |
+| [[Trolls]] | Rare stable fifth-stage predators survive catastrophic injury through extreme regeneration and consume more than an ordinary host can sustain. |
 
-#### Winter: The Descent into Survival
-- **Migration and Invasion**: As the frozen tundra reclaims their homeland, the Grobi are forced to migrate northwards into human lands. This migration is a desperate quest for survival, driving the Grobi to raid human settlements aggressively.
-  
-- **Conflict with Humanity**: Winter becomes a season of vigilance and defense for the human settlements on the borderlands. The cold months bring not only the harshness of winter but also the threat of Grobi warbands, hungry and relentless.
+Most Grobi children mature first as goblins. Some inherit a stable higher-stage floor. Sustained surplus permits growth; scarcity weakens acquired stages and may force reversion. Regeneration consumes stored tissue and food, so a starved Grobi heals poorly.
 
-- **Implosion**: The lack of resources during the harsh winter months leads to internal strife within the Grobi ranks. Fights over food and power are common, and the hoard's size drastically decreases due to infighting, starvation, and clashes with humans.
+## Packs, hearths and command
 
-### Cultural and Mythological Impact
+A Grobi **hearth** is a breeding and food-defence pack. Related breeders, young, subordinate hunters and stronger protectors share one fire while they can defend it. Several hearths may occupy one camp and submit to a dominance council. Public naming marks a young Grobi as an investment worth feeding, training and avenging.
 
-- **A Cycle of Fear and Resilience**: The seasonal movements of the Grobi become deeply ingrained in the lore and culture of the borderland communities. Winter preparations include fortifying defenses and stockpiling resources, not just for the cold, but in anticipation of the Grobi raids.
+Command follows control of food and demonstrated strength. Hobgoblins organise routes and stores. Orcs usually dominate warbands. Ogres and trolls can seize command when their bodies remain supportable, though their appetite makes long administration difficult. Challenge, assassination, desertion and cannibalism continually alter the hierarchy.
 
-- **Legends and Strategies**: Over generations, humans develop strategies, legends, and even festivals around the Grobi's seasonal threat. Heroes and battles are commemorated, and strategies for repelling the Grobi are passed down through stories and military training.
+Grobi religion interprets successful predation through Wrath. Ash-Marrow packs feed the largest fighters first and treat growth through victory as proof of favour. Narrow-Bowl packs reserve an Eighth Share for breeders and young so that a chief cannot consume the future strength of the pack. Both traditions serve the same predatory nature.
 
-- **A Dance with Nature**: For the Grobi, their life cycle tied to the seasons becomes a sacred rhythm, a testament to their resilience and adaptability. Their shamans and leaders interpret the changes in the seasons as signs and omens, guiding their movements and strategies in a perpetual dance with the forces of nature.
+## Craft and communication
 
-This seasonal dynamic gives human defenders enough predictability to plan without making the danger simple. Hunger and Wrath exert real pressure, but do not absolve Grobi who possess the agency to choose massacre, restraint, betrayal, or cooperation. The annual cycle makes them part of the world's natural and supernatural ecology without reducing them to either mindless monsters or misunderstood humans.
+Grobi technology is materially poor beside the human societies they attack. Their weapons and tools are heavy, ugly and roughly finished, made from wood, bone, hide, scavenged metal and poorly welded iron. Orc strength makes crude arms lethal. Goblins compensate for small bodies with traps, poison, ambush and repeated attacks from concealment.
 
----
+Craft is learnt rather than inherited. A pack can lose the ability to repair captured iron when its smith dies. Drums, ash marks, ration cuts, scars and repeated camp names carry orders and history. Different routes developed distinct dialects after the first generations at Kharvos.
 
-## Canon Links and Rulings (enforcement pass)
+## Captives and temporary bargains
 
-**The Fury = the Idol of Wrath** — see [[Names of the Menhir, Masks of the Idols]]. The first Grobi bodies were humans re-authored by an Idol; their human souls separated at that first rewriting. The resulting soulless biological continuity became a true-breeding lineage. This is why Grobi mass violence feeds something during life and why battlefields against them tend to thin.
+Grobi attacks on human settlements are feeding events. Fighters consume people and animals during the assault, strip stores and preserve captives as meat for the march. A prisoner may be forced to guide, translate or complete an immediate task before slaughter. Grobi do not maintain humans as permanent household slaves or adopt them into the lineage.
 
-### The Pale-Skins Are Not Grobi
+Temporary bargains occur when restraint promises a larger meal or protects a pack from a stronger enemy. The White Pot truce at Kharvos permits guarded barter until the marked vessels are overturned. Participants exchange stolen goods, rough iron, salt, livestock, route information and prisoners intended as food. The truce creates a predictable pause rather than friendship.
 
-Canon ruling: pale deep-dwellers and their Hollow-King ruler-caste are **a separate ancient species**, the sunken remnant of pre-human barrow-builders. See [[Pale-Skins and Hollow-Kings]]. Some Grobi bands in other regions may fear, trade with, raid, or be manipulated by them, but this is not part of Grenzburg's main campaign and never defines Grobi origin or behavior.
+## The winter war
 
-## Game-Ready Layer
+Spring, summer and autumn allow surviving packs to breed, feed and enlarge their stages. Winter closes southern forage and drives the resulting warbands towards human herds, villages and granaries. Most hosts break after one or two raids or turn upon themselves when food fails.
 
-**Signs of Grobi presence:** stripped carcasses down to cracked marrow-bone; middens that include leather, bark, and bone (they eat *everything*); trail-widths that tell you the largest walker's stage; smoke discipline in autumn (organized band) versus none (starving splinter); drums only when they intend to be heard.
+The [[War of the Empty Halls]] grew from this annual pattern. Gharuk Eight-Bowls united nine drum companies and tried to establish a permanent Warm Road through the Ättar halls. His own orc guard ate him alive when injury and shrinking exposed weakness. The defeat scattered the host without ending the winter cycle. [[Grobi History and Pack Life]] follows the longer history.
 
-**Tactics by stage:** goblin swarms harass, exhaust, and lead pursuers onto worse ground; hobgoblin bands fight with real doctrine, shields, drum rites, and appetite-fed hexes; a transformed-orc leader means ambush, feint, and target selection (granaries before walls); ogres are living siege engines pointed by cleverer hunger; trolls breach whatever the other stages cannot. Destroying a food supply can make a band shrink, scatter, or cannibalize itself. That fact creates real military choices without making starvation of captives or noncombatants morally weightless.
+## Death and remains
 
-**Loot and materials:** hides and sinew (hard-wearing, low-status), hobgoblin war fetishes (hedge-occult market, Church contraband), orc-teeth (Folk trophy-currency), and stage-gland extracts — the alchemical scandal: preparations from Grobi metamorphic organs interest the Fleshweavers of Vorthara for exactly the reasons the Church bans them.
+A Grobi dies when injury irreversibly ends the living pattern. No Grobi soul enters the Vestibule, and Wrath does not resurrect the individual. Surviving stage-glands can organise a brief recovery if fed tissue remains nearby, which is why frontier burial practice destroys or separates them.
 
-**Faction use:** the Duke needs migration forecasts; the Bank insures against raid seasons and profits either way; the Folk trade Grobi intelligence for recognition and organize the [[Frost-Road and the Winter War|Frost-Road]]; Vorthara buys specimens; and the churches publicly dispute Grobi baptism, burial, culpability, and the existence of a routable soul. That mortal debate remains active even though the creator-level answer is settled.
+Grobi remains have alchemical value. Stage-gland extracts can accelerate clotting, growth and tissue repair while causing fever, appetite distortion or uncontrolled consumption of the subject's own body. Frontier authorities and churches regulate or prohibit the trade.
 
-**Hooks:** a winter matron offers a corridor-truce the Duke cannot afford and cannot refuse; a starving splinter band converts at a Chapel-Folk mission and no one — Church, Folk, or Grobi — knows what that means; a Fleshweaver caravan is buying live goblins and the price is going *up*; the drums stop entirely, which has never once been good news.
+## Human knowledge
+
+Human communities know Grobi intelligence through war, captivity and temporary exchange. Their religious interpretations vary. Some priests attempt baptism or moral instruction; others classify Grobi as beasts, demons or transformed humans. The authorial ruling is narrower: Grobi are living, intelligent and capable of suffering, but their continuity contains no human soul or moral conscience.
 
 ## Navigation
 
-- [[Bestiary MOC]]
+- [[Grobi History and Pack Life]]
+- [[Nhaldur and the First Rewriting]]
+- [[The Image, Soul, and Creaturely Continuity]]
+- [[Wrath]]
 - [[Frost-Road and the Winter War]]
+- [[Winter War and the Grobi Frontier]]
 - [[Southern Cold Belt and Grobi Frontier]]
+- [[Bestiary MOC]]

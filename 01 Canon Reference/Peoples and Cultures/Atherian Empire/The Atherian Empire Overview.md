@@ -13,13 +13,13 @@ tags: []
 ---
 # The Atherian Empire Overview
 
-The Atherian Empire was the great imperial civilisation of the central known world, with its capital at Caleran in the region now forming the Thalmyric heartland. Its power extended east into the lands of Eclessia, around the Thalassian Sea, towards the northern desert approaches and into the southern forest marches. Roads, aqueducts, provincial institutions and urban remains continue to shape those countries in 1360 AR.
+The Atherian Empire was the great imperial civilisation of the central known world, with its capital at Caleran in the region now forming the [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/Thalmyric Empire Overview.md|Thalmyric heartland]]. Its power extended east into the lands of [[01 Canon Reference/Peoples and Cultures/Eclessia/Eclessia Overview.md|Eclessia]], around the Thalassian Sea, towards the northern desert approaches and into the southern forest marches. Roads, aqueducts, provincial institutions and urban remains continue to shape those countries in 1360 AR.
 
 Atherian society developed over many centuries, from southern war-settlers and maritime communities through rival city-states, a republic and hereditary empire. Citizenship eventually joined populations of different ancestry within a common political system. The empire also became the setting of the Redeemer's ministry, the persecutions of his followers and the later adoption of their faith.
 
-![](attachments/2024-09-09_15-43-53_3735.png)
+![Reference portrait of an Atherian man wearing a blue-green wrapped tunic before dressed stonework](attachments/2024-09-09_15-43-53_3735.png)
 
-![](attachments/2024-09-09_15-46-58_8163.png)
+![Reference portrait of an Atherian woman wearing red and gold formal dress](attachments/2024-09-09_15-46-58_8163.png)
 
 ## Formation and expansion
 
@@ -35,7 +35,7 @@ Land concentration, provincial wealth and competition among commanders contribut
 
 [[The Rise of the Atherian Empire Overview|The rise of the empire]] explains the institutional transition; the [[Historical Atlas of Atheria]] connects it with earlier settlement and later imperial history.
 
-[[Historical Atlas of the Atherian Age of Glory]] follows the empire from Thalion's later reign through the House of Thalion, the Four Eagles crisis, the Veloran and Serrat dynasties and the Othran household reigning at 0 AR. Its companion articles explain provincial cities, armies, food, trade, slavery, education and the imperial Star cult.
+[[Historical Atlas of the Atherian Age of Glory]] follows the empire from Thalion's later reign through [[The House of Thalion]], the Four Eagles crisis, the Veloran and Serrat dynasties and the Othran household reigning at 0 AR. Its companion articles explain provincial cities, armies, food, trade, slavery, education and the imperial Star cult.
 
 ## Government and provincial society
 
@@ -53,19 +53,19 @@ Mosaics, sculpture and reliefs represented battles, local histories and religiou
 
 Warlock colleges developed older scripts into regulated forms of military and engineering magic. Their work supported construction, signalling, firefighting, siegecraft and controlled use of elemental forces. Some sealed laboratories remain functional, although centuries of rebuilding and looting have destroyed or opened most accessible sites.
 
-## The Star Pantheon
+## Religion and the Star Pantheon
 
-Before conversion, the Astratheon religion organised civic cults around stars and constellations. Priests interpreted eclipses, comets and other celestial appearances as signs affecting rulers and communities. Temples served as treasuries, employers, schools and centres of public ritual.
+Before conversion, the [[Overview of the Astratheon Religion|Astratheon religion]] organised civic cults around stars and constellations. Priests interpreted eclipses, comets and other celestial appearances as signs affecting rulers and communities. Temples served as treasuries, employers, schools and centres of public ritual.
 
 Imperial worship brought older regional powers into a celestial hierarchy. Most of the named powers were Menhir understood through Atherian astronomy and local cult traditions. The figure called Thanatos arose from a different misunderstanding: priests incorporated signs of [[The Boatman]] into tales about theft and bargaining for passage after death.
 
 ### Astaroth
 
-The Warrior was associated with war, chaos and fear. Soldiers offered broken weapons, and battlefield temples displayed trophies and the bones of enemies. Imperial religion also connected Astaroth with conquest and public order; Thalion strengthened the priesthood's political importance.
+[[01 Canon Reference/Cosmology/30 Menhir/10 Second Circle/Astaroth.md|Astaroth]], the Warrior, was associated with war, chaos and fear. Soldiers offered broken weapons, and battlefield temples displayed trophies and the bones of enemies. Imperial religion also connected Astaroth with conquest and public order; Thalion strengthened the priesthood's political importance.
 
 ### Lyraxis
 
-The Muse presided in Atherian belief over music, trickery and inspiration. Festivals brought masked revellers and musicians into public life, while temples also functioned as theatres and places of performance.
+[[01 Canon Reference/Cosmology/30 Menhir/10 Second Circle/Lyraxis.md|Lyraxis]], the Muse, presided in Atherian belief over music, trickery and inspiration. Festivals brought masked revellers and musicians into public life, while temples also functioned as theatres and places of performance.
 
 ### Thanatos
 
@@ -73,19 +73,19 @@ The cult of Thanatos addressed passage, mourning and theft. Mourners and thieves
 
 ### Orionis
 
-The Hunter was honoured through hunts, tracking and the mastery of wilderness. Priests trained initiates in survival, and forest or mountain temples received pelts, antlers and trophies.
+[[01 Canon Reference/Cosmology/30 Menhir/10 Second Circle/Orionis.md|Orionis]], the Hunter, was honoured through hunts, tracking and the mastery of wilderness. Priests trained initiates in survival, and forest or mountain temples received pelts, antlers and trophies.
 
 ### Hecatara
 
-The Witch was associated with sorcery, crossroads and consequential decisions. Remote shrines and crossroads altars attracted practitioners seeking guidance or power, and held enchanted objects and ritual implements.
+[[01 Canon Reference/Cosmology/30 Menhir/10 Second Circle/Hecatara.md|Hecatara]], the Witch, was associated with sorcery, crossroads and consequential decisions. Remote shrines and crossroads altars attracted practitioners seeking guidance or power, and held enchanted objects and ritual implements.
 
 ### Typhonius
 
-The Beast was feared in connection with catastrophe, monsters and unusual births. Temples near volcanoes and other dangerous places preserved remains of calamities. Some followers attempted to create monsters; others sought protection from them.
+[[01 Canon Reference/Cosmology/30 Menhir/10 Second Circle/Typhonius.md|Typhonius]], the Beast, was feared in connection with catastrophe, monsters and unusual births. Temples near volcanoes and other dangerous places preserved remains of calamities. Some followers attempted to create monsters; others sought protection from them.
 
 ### Arachnara
 
-The Weaver's cult dealt with vermin, shadows and infestation. Underground and forest shrines used webs, bones and the forms of spiders and rats. Worship intensified when disease or infestation threatened a community.
+[[01 Canon Reference/Cosmology/30 Menhir/10 Second Circle/Arachnara.md|Arachnara]], the Weaver, was associated with vermin, shadows and infestation. Underground and forest shrines used webs, bones and the forms of spiders and rats. Worship intensified when disease or infestation threatened a community.
 
 ## Conversion, fall and later inheritance
 
@@ -99,4 +99,7 @@ In 1360, reused stone, buried roads, coins, temples beneath churches and partial
 
 ## Further reading
 
-Begin with the [[Historical Atlas of Atheria]], then [[The First Atherian City-States]], [[The Rise of the Atherian Empire Overview]] and [[The Atherian Empire – Age of Glory]]. The [[Atherian Imperial Age]] supplies the wider chronological route. [[The Layers Beneath Thalmyria]] follows the material remains into the present.
+- **The chronological route:** Begin with the [[Historical Atlas of Atheria]], then [[The First Atherian City-States]], [[The Rise of the Atherian Empire Overview]] and [[The Atherian Empire – Age of Glory]].
+- **The wider period:** The [[Atherian Imperial Age]] places the empire among contemporary peoples and events.
+- **Surviving remains:** [[The Layers Beneath Thalmyria]] follows Atherian roads, buildings and buried material into the present.
+- **Compare cultures:** Return to [[Cultures MOC|Peoples and Cultures]] for the living successor societies and other principal peoples of the known world.

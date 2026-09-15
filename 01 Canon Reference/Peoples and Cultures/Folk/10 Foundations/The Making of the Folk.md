@@ -13,17 +13,19 @@ tags: []
 ---
 # The Making of the Folk
 
-The Folk did not descend from the Glass Ark or one lost kingdom. They formed principally from **Orphaned** communities that survived the Giant collapse outside the Prophet's host, entered or remained within the southern forests through separate movements, and learned similar answers to cold, distance, Grobi pressure, and the dangerous agency of place. Later Ark-descended migrants were absorbed without becoming the origin of the people.
+The Folk formed principally from **Orphaned** communities which survived the Giant collapse outside the Prophet's host. They entered or remained within the southern forests through separate movements and developed related answers to cold, distance, Grobi pressure and the dangerous agency of place. Later Ark-descended migrants joined them without becoming the origin of the people.
+
+Nhaldur added another strand. Lesser Giant and giant-blooded prisoners escaped into the southern countries during the Great Unbinding. Physical strength, endurance and inherited magical aptitude allowed some to establish warbands or seize halls. Marriage, concubinage, captivity and ordinary household formation spread their ancestry. Most later descendants were fully human; a rare true Giant birth retained Giant continuity. The mixture reinforced traits already present among cold-country populations without turning the Folk into a Giant people.
 
 ## First Hearths
 
-Early communities organized around winter halls, remembered burial country, hunting circuits, and common stores. Hearth-law began as survival law: no guest could be expelled into killing cold after receiving salt; no household could hide grain while the hall starved; and no chief could surrender a spring, grove, or burial ridge without communal witness.
+Early communities organised around winter halls, remembered burial country, hunting circuits, and common stores. Hearth-law began as survival law: no guest could be expelled into killing cold after receiving salt; no household could hide grain while the hall starved; and no chief could surrender a spring, grove, or burial ridge without communal witness.
 
 Their first pacts were local. One valley learned the price of safe lambing; another the name not spoken before a storm; another where a lake accepted iron and where it did not. Similar institutions emerged without producing one religion or crown.
 
 ## Confederacies Before Atheria
 
-River fisheries, iron deposits, drove roads, and winter defense created societies larger than clans. Hillfort confederacies could muster thousands, maintain craft quarters, collect passage dues, and negotiate with neighboring cities. Other peoples remained mobile or deliberately small because their court bargains, pasture cycles, or poor soils punished concentration.
+River fisheries, iron deposits, drove roads, and winter defence created societies larger than clans. Hillfort confederacies could muster thousands, maintain craft quarters, collect passage dues, and negotiate with neighbouring cities. Other peoples remained mobile or deliberately small because their court bargains, pasture cycles, or poor soils punished concentration.
 
 The Enaidfae identity arose among confederacies that retained the densest old-rite networks. It never described every southern clan and never constituted a separate ancestry.
 
@@ -47,6 +49,7 @@ Present Folk identity therefore includes old-rite clans, Chapel-Folk, mixed marc
 
 ## Navigation
 
+- [[The Folk before Atheria]]
 - [[Historical Spine of the Folk]]
 - [[Early Folk Clan Worlds]]
 - [[The Folk Overview]]

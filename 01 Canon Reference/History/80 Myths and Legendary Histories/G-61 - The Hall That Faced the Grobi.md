@@ -42,11 +42,11 @@ It makes cultural divergence grow from a choice in which every path contained re
 
 ## How tellers differ
 
-Ättar songs say the Grobi scouts planted the antler summons to empty the north. Folk songs call that a later excuse. Grobi tales, where known, make the captured children the ancestors of a clever border clan.
+Ättar songs say the Grobi scouts planted the antler summons to empty the north. Folk songs call that a later excuse. Some border tellers name a particular Grobi pack as the inventor of the ruse, but no Grobi genealogy can make the captured children its ancestors: humans do not enter Grobi continuity through capture.
 
 ## What remains
 
-Old winter halls keep one smoke hole or roof beam pointed toward the most likely approach of danger, even when every other wall follows the sun.
+Old winter halls keep one smoke hole or roof beam pointed towards the most likely approach of danger, even when every other wall follows the sun.
 
 ## History and belief
 
@@ -58,6 +58,9 @@ Names, precise sites and competing supernatural claims may remain uncertain with
 
 - [[Early Folk Clan Worlds]]
 - [[Southern Cold Belt and Grobi Frontier]]
+- [[Historical Atlas of the Southern Cold World]]
+- [[Grobi History and Pack Life]]
+- [[War of the Empty Halls]]
 - [[River Leagues and Sea-Kings of the Early World]]
 
 - [[Age of Hearths and First Kings]]

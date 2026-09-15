@@ -13,9 +13,9 @@ tags: []
 ---
 # Historical Spine of the Ättar
 
-- **c. 2300-1900 BR - Orphaned southern reassembly.** Related Folk and Ättar ancestors survive outside the Glass Ark and reconnect across cold forests, coasts and valleys after Giant rule collapses. The coastal and pastoral hall-world begins to separate from inland clan systems during the later part of this interval. Isolated proto-Atherian ships, refugees and war-settlers appear on some routes without founding the people or controlling the divergence.
-- **c. 1900-1650 BR - First great halls.** Shipbuilding, drove routes, compensation assemblies, regional totem names, and seasonal Grobi musters become durable institutions.
-- **c. 1600 BR - [[War of the Empty Halls]].** A prolonged Grobi offensive destroys several southern settlements. Four ruling coalitions accept Mother Moon's firstborn bargain and become the ancestral pact lines.
+- **c. 2300-1900 BR - Orphaned southern reassembly.** Related Folk and Ättar ancestors survive outside the Glass Ark and reconnect across cold forests, coasts and valleys after Giant rule collapses. Lesser Giant and giant-blooded refugees from Nhaldur join some populations. The coastal and pastoral hall-world begins to separate from inland clan systems. Isolated proto-Atherian ships, refugees and war-settlers appear on some routes without founding the people or controlling the divergence.
+- **c. 1900-1650 BR - First great halls.** Shipbuilding, drove routes, compensation assemblies, annual All-Things, regional totem names and seasonal Grobi musters become durable institutions.
+- **c. 1608-1596 BR - [[War of the Empty Halls]].** Gharuk Eight-Bowls unites the Nine-Drum Host and attempts to seize a permanent Warm Road through the hall country. Urzha betrays his ration route after he consumes her leaders and brood. Four ruling coalitions accept Mother Moon's two-part bargain; Gharuk's own orcs eat him alive after the host loses its food road.
 - **c. 1400-350 BR - Hall kingdoms.** Jarldoms, sea-kings, iron centers, and fortified winter territories rise and fall. Atherian traders and armies reach selected coasts without conquering the whole region.
 - **350 BR-400 AR - Imperial contact.** Some halls serve Atheria, some pay tribute, and others raid it. Ship, coin, and iron technologies circulate in both directions.
 - **c. 400-540 AR - Great keel-taking.** Imperial weakness produces the largest Ättar raiding age. Crews strike Thalmyric, Sestaran, and distant coasts; settlement on western Kedrava creates the Saltborn substrate.
@@ -31,13 +31,14 @@ tags: []
 ## Navigation
 
 - [[01 Canon Reference/Peoples and Cultures/Ättar/Ättar Overview.md|Ättar Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Ättar/70 History and Conflicts/The Ättar before the Great Keel-Taking.md|The Ättar before the Great Keel-Taking]]
 - [[War of the Empty Halls]]
 
 ## Historical Atlas — wider inheritance
 
 The Ättar are an Orphaned people related to the Folk through older Fäskogarfolk populations. Their halls formed through independent survival after the Giant collapse, not through a lost Ark column. The southern cold belt made winter stores and defence against Grobi especially consequential. Several halls could speak related languages while making opposed choices about kin-feud and watch duty.
 
-The War of the Empty Halls around 1600 BR struck already-established societies. Mother Moon's firstborn bargain created the four pact-kindreds; it did not create the human soul or prove every later hall's violence righteous. Raiding, slavery, fosterage, marriage and baptism subsequently changed populations without reducing culture to appearance or blood purity.
+The War of the Empty Halls from c. 1608 to 1596 BR struck already-established societies. Mother Moon's bargain created four paternal lines of hybrid chiefs and spread the lesser rage inheritance through the people sworn beneath them. It did not create the human soul or prove every later hall's violence righteous. Raiding, slavery, fosterage, marriage and baptism subsequently changed populations without reducing culture to appearance or blood purity.
 
 Sea contact helped form the much later Saltborn on the western Kedravan coast. Local Menhir traditions include dangerous release, fosterage and contrary obligations, not one universal fairy government. The winter stories are placed southward where the established geography requires cold, even when an older nursery accidentally called them northern.
 

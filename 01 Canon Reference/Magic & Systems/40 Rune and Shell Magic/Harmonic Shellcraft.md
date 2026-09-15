@@ -104,6 +104,8 @@ Harmonic traditions arise around:
 
 Sermora has the most visible current tradition because canal acoustics, fleet coordination, privateering, processions, salons, and signal law reward portable ensembles. Other cultures possess related hymn, horn, drum, and bell arts without sharing Sermoran institutions.
 
+The older eastern Folk art called [[The Deep Voice]] belongs to the same broad Air-and-Earth field but is not an early Sermoran school. Its masters join meaningful speech, trained breath, bodily stance and a known place; some workings use chambers or horns, while others require no prepared instrument. Deep-Voiced lineages, the Quiet Measure and modern harmonic companies therefore retain separate histories, institutions and technical vocabularies.
+
 ## Moral Risks
 
 - An audience is not the same thing as consent.
@@ -118,6 +120,6 @@ Sermora has the most visible current tradition because canal acoustics, fleet co
 - [[Warlock Rune Magic]]
 - [[Elemental Shell and the Four Planes]]
 - [[Magic Systems Overview]]
+- [[The Deep Voice]]
 - [[01 Canon Reference/Peoples and Cultures/Sestaran Concord/60 Realms and Peoples/Sermoran Republic/The Sermoran Republic Overview.md|The Sermoran Republic Overview]]
 - [[Ilyana Veshkar]]
-

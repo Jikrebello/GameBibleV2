@@ -35,20 +35,20 @@ At ordinary human death:
 
 1. The body remains in the Material Realm.
 2. Memory and emotional residue may cling to body, place, object, or witness.
-3. The human soul departs toward the Vestibule.
-4. Residue may later animate or become organized without recalling the routed soul.
+3. The human soul departs towards the Vestibule.
+4. Residue may later animate or become organised without recalling the routed soul.
 
 An apparition that remembers a dead person is not automatically that person. The decisive questions are what continuity animates it, whether the human soul is still present, and what permanently ends the condition.
 
 ## Grobi
 
-The first Grobi were human beings physically rewritten by [[Wrath]]. The transformation severed the victims' human souls from the altered bodies, and those souls continued toward judgement. The Wrath-shaped biological pattern then reproduced on its own.
+The first Grobi arose at Kharvos during the fall of [[Nhaldur and the First Rewriting|Nhaldur]]. A Red Reckoner guided a Giant military programme towards the conditions Wrath required. Furor then acted directly: the 2,014 victims' human souls separated and continued towards judgement, while Wrath tore down and rebuilt the vacated flesh as a new biological continuity. The Grobi pattern thereafter reproduced on its own.
 
-Modern Grobi are born without the Image and without routable human souls. Their bodies retain biological kinship with humanity, but they are no longer human in the metaphysical sense. At death, a Grobi leaves a body, memory residue, and a Wrath-rewritten living pattern. No Grobi person arrives at the Vestibule.
+Modern Grobi are born without the Image and without routable human souls. Their bodies retain biological kinship with humanity, but they are not human in the metaphysical sense. At death, a Grobi leaves a body, memory residue and a Wrath-rewritten living pattern. No Grobi individual arrives at the Vestibule.
 
-Wrath feeds upon Grobi violence, appetite, hierarchy, and social production during life. It does not receive a routed Grobi soul afterward. Grobi intelligence and social complexity remain real, and many Grobi can make meaningful choices. Neither fact makes them human or gives them human eschatological status.
+Wrath feeds upon Grobi violence, appetite, hierarchy and social production during life. It does not receive a routed Grobi soul afterwards. Grobi intelligence, suffering and social complexity remain real. They make tactical choices among leaders, routes, victims, bargains and methods of attack, but their continuity contains no human moral conscience. Domination, fighting and consumption are the creaturely ends around which Wrath constructed their life.
 
-Church arguments over Grobi conversion, baptism, culpability, and burial remain valid in-world conflicts because mortals do not possess this authorial view.
+Church arguments over Grobi conversion, baptism, culpability and burial remain valid in-world conflicts because mortals do not possess this authorial view. A baptismal attempt cannot create the Image, a routable soul or a moral nature in Grobi continuity.
 
 ## Driftkin
 
@@ -60,13 +60,13 @@ Driftkin may be intelligent, moral, loyal, cruel, and culturally sophisticated. 
 
 ## Human Souls Held from the Road
 
-[[Vampire Origins|Vampires]] remain human in the most horrifying possible sense: a genuine human soul is retained inside a body and blood-lineage that prevents ordinary routing. Their Giant-derived blood lien preserves identity while bending appetite, inheritance, and sovereignty toward predation. Destroying or releasing a vampire therefore concerns a real human soul, not merely residue or copied memory.
+[[Vampire Origins|Vampires]] remain human in the most horrifying possible sense: a genuine human soul is retained inside a body and blood-lineage that prevents ordinary routing. Their Giant-derived blood lien preserves identity while bending appetite, inheritance, and sovereignty towards predation. Destroying or releasing a vampire therefore concerns a real human soul, not merely residue or copied memory.
 
 A human soul may also be deliberately bound into a construct, relic, office, or corpse. Such a being uses `continuity: bound-human-soul`. Binding does not create a soul; it imprisons one that already exists.
 
 The Qahuri [[The White Measure and the Second Houses|White Measure]] is an established corpse-binding tradition. Its successful founders remain complete human souls held through embalmed bodies and private Egg White estates. Their ability to act as Patrons changes neither their species nor their final dependence upon judgement. Destroying a true soul-cage resumes the soul-road; destroying an imitation exposes only the office, residue or Mask which occupied it.
 
-Human soulbinding is objectively evil even when the intended victim requests it. Breaking a true name-cage or equivalent binding releases the soul toward judgement; it does not recreate the dead body or guarantee earthly restoration.
+Human soulbinding is objectively evil even when the intended victim requests it. Breaking a true name-cage or equivalent binding releases the soul towards judgement; it does not recreate the dead body or guarantee earthly restoration.
 
 ## Crafted Patterns and Genuine Bearers
 
@@ -83,7 +83,7 @@ Qianglong caste recurrences, Ishkatar title reconstructions, Xolotl blood memori
 
 ## Residue-Born Minds
 
-Ordinary animated corpses and many apparitions are driven by residue after the original soul has departed. Mature [[Ghouls]] are residue-born intelligences organized through body, appetite, memory, and chosen predation. A ghoul may resemble or remember the dead human from whose remains it arose, but that human soul has already routed.
+Ordinary animated corpses and many apparitions are driven by residue after the original soul has departed. Mature [[Ghouls]] are residue-born intelligences organised through body, appetite, memory, and chosen predation. A ghoul may resemble or remember the dead human from whose remains it arose, but that human soul has already routed.
 
 Destroying a residue-being does not destroy a human soul. It can still be morally urgent because the new intelligence may harm the living, desecrate the dead, or attack the soul-road.
 

@@ -35,7 +35,7 @@ The Atherian city world formed one part of this wider change. Jirahar tower town
 
 Civic belonging could be inherited, purchased through service or denied to families resident for generations. Cities needed outsiders and feared giving them a share. Foreign workers repaired fountains which could later be used to accuse them of poisoning the water. In one harbour tradition an interpreter proved that a supposed confession described a broken pump; the discovery saved several workers but could not undo the execution already performed.
 
-The [[G-07 - The Key Bent in a Murderer's Hand|Bent-Key cycle]] begins in bodily danger: elders sexually coerce a woman and frame her for a capital crime; fugitives steal evidence; a companion personally kills and beheads a besieging commander. The city's new right of appeal then becomes a protection that can also be invoked against the guilty people who helped to save it.
+The [[G-07 - The Key Bent in a Murderer's Hand|Bent-Key crisis]] at Verion began when two elders sexually coerced a married woman and framed her for a capital crime. A debt thief proposed separate questioning as cover for an archive robbery and exposed their contradictory testimony. Clay tablets accidentally preserved by the archive fire connected the accusation to creditor and shipping houses, which hired mercenaries to restore their judges, debtor sales and grain privileges. A resident foreign widow killed and beheaded the commander after he murdered her spouse; a guilty locksmith later bent the archive key rather than surrender the records to the soldier whose emergency command became a dynasty. The woman they saved refused office and left Verion, although a later empty witness-seat placed her permanently outside its court.
 
 ## The sea and the stolen sounding-weight
 
@@ -72,6 +72,10 @@ Cities continued to develop after 800 BR. In the west, the [[Age of Stars]] name
 - [[The Ahdari before the Covenant]] — wells, camel roads, markets, hospitality, raiding and religious plurality before Al-Ahdiya.
 - [[The Tarkhan before the Horse Hordes]] — northern settlement, assemblies and foreign client courts before mounted pastoral warfare.
 - [[Historical Atlas of Vathra and the Northern Ground]] — the longer northern sequence from Vathra's fall to 350 BR.
+- [[Historical Atlas of the Southern Cold World]] — the longer southern sequence from Nhaldur's fall to 350 BR.
+- [[The Folk before Atheria]] — river leagues, forest assemblies, upland gords and unequal contact with Atherian cities.
+- [[01 Canon Reference/Peoples and Cultures/Ättar/70 History and Conflicts/The Ättar before the Great Keel-Taking.md|The Ättar before the Great Keel-Taking]] — halls, All-Things, the Moon bargain, Grobi war and the early sea-kings.
+- [[The Deep Voice]] — the older eastern resonance art, its masters and the Quiet Measure.
 
 ## Local tales and surviving memories
 

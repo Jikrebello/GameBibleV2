@@ -43,12 +43,12 @@ Feud-Hounds are lean furnace-ribbed predators with hide like burned leather and 
 
 ## Red Reckoners
 
-Red Reckoners are Masks in scorched armor whose bodies contain rotating tally wheels, stretched skin ledgers, or cords of knotted sinew. They arrive as quartermasters, heralds, casualty clerks, or witnesses offering to make sure no wrong is forgotten.
+Red Reckoners are Masks in scorched armour whose bodies contain rotating tally wheels, stretched skin ledgers, or cords of knotted sinew. They arrive as quartermasters, heralds, casualty clerks, or witnesses offering to make sure no wrong is forgotten.
 
 - **Origin and agency:** cunning Mask with limited agency, dependent on a grievance register or repeated public recitation.
 - **Ecology:** a Reckoner expands categories. One murderer becomes a company, then a town, then a language. Every retaliation is entered as proof of the enemy's nature.
 - **Signs:** casualty lists acquire future names, witnesses use identical phrasing, surrender terms gain hereditary penalties, and memorial bells ring before a death.
-- **Threat pattern:** marks targets for Feud-Hounds, redirects friendly attacks toward newly listed enemies, turns injuries into temporary strength, and re-embodies from any uncrossed name.
+- **Threat pattern:** marks targets for Feud-Hounds, redirects friendly attacks towards newly listed enemies, turns injuries into temporary strength, and re-embodies from any uncrossed name.
 - **Weakness and permanent defeat:** recover independent testimony, separate perpetrators from categories, answer punishable crimes through bounded justice, and erase only the false extensions while preserving truthful names of the dead. Burning the entire record lets the Mask claim erasure as a new injury.
 - **Materials:** a stopped tally wheel can distinguish a fact witnessed by the form from a claim merely repeated to it.
 - **Regional names:** red clerks, wound counters, pyre notaries, and book-armored men.
@@ -61,13 +61,13 @@ Pyre-Crowned are autonomous Archmasks resembling immense war leaders crowned by 
 - **Ecology:** it needs a constituency that experiences identity through conflict. It builds courts from veterans, frightened civilians, Red Reckoners, and enemies kept alive solely to renew the war.
 - **Signs:** weapons seem lighter near public speeches, maps lose civilian places, fire burns only symbols at first, and veterans dream of battles they never fought.
 - **Threat pattern:** commands any combatant who accepts its framing, ignites defensive works, turns surrender into frenzy, and returns from its crown while one banner remains tied to an unresolved grievance.
-- **Weakness and permanent defeat:** preserve legitimate defense while rejecting the Archmask's unlimited target, resolve or truthfully delimit the founding injury, cut every banner from its claimed community, and extinguish the crown in a place protected without vengeance.
+- **Weakness and permanent defeat:** preserve legitimate defence while rejecting the Archmask's unlimited target, resolve or truthfully delimit the founding injury, cut every banner from its claimed community, and extinguish the crown in a place protected without vengeance.
 - **Materials:** crown ash can expose whom a speech secretly designated expendable. It is also an addictive battle stimulant.
 - **Regional names:** furnace kings, banner saints, war fathers, and crown-burners.
 
 ## Relation to Grobi
 
-Grobi are living Wrath-rewritten descendants, not Feud-Hounds in human shape and not masks. A Pyre-Crowned may command a Grobi host through appetite and reputation, but Grobi politics, survival, and internal choice remain their own.
+Grobi are living Wrath-rewritten descendants, not Feud-Hounds in human shape and not Masks. A Pyre-Crowned may command a Grobi host through appetite and demonstrated strength, but no species-wide mind governs Grobi packs. Their leaders and tactical choices remain local expressions of the predatory nature Wrath gave the lineage.
 
 ## Navigation
 

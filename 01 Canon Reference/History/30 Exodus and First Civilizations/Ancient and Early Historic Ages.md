@@ -43,7 +43,8 @@ The peoplehood, civic membership and imperial subjecthood of the period are inde
 - **Vashari:** Orphaned highland peoples joined by House Tiravan into the Crown of Roads and Dawns after Arqesh's fall. Vashar remains an independent imperial peer when Atheria unifies.
 - **Ortheians and Delkosi:** Atherian-speaking upland and maritime societies shaped by Eryndor's conquest and the Wars of the Inheritance. Their royal and naval traditions influence the recovered Caleran republic and the later House of Nerethan.
 - **Ahdari:** a Glass-descended well-country people formed through the northern fission and durable incorporation of older Orphaned populations. Their defended waters, camel roads, hospitality and oath customs long predate the Covenant.
-- **Folk and Ättar:** related Orphaned southern cold-frontier populations that develop into distinct peoples. Folk institutions center on clan territory and local courts; settled Ättar halls later accept Mother Moon's firstborn pact during the [[War of the Empty Halls]].
+- **Folk and Ättar:** related Orphaned southern cold-frontier populations joined by lesser Giant and giant-blooded refugees from Nhaldur. Folk institutions centre on clan territory, local courts and regional All-Things; settled Ättar halls later accept Mother Moon's two-part bargain during the [[War of the Empty Halls]].
+- **Grobi:** intelligent nonmoral predators created when Wrath rewrote 2,014 captives at Kharvos. Their five food-driven stages and annual winter hosts shape the southern frontier.
 - **Tarkhan and Nsizwa:** independent Orphaned peoples whose ancestors survive and reassemble outside the Ark in different regions and under different pressures. Tarkhan history begins among the human subjects and neighbours of Vathra, whose flying crown-cities fell during the Great Unbinding.
 - **Sestara:** later Braided harbor and archive-city populations that survive by monetizing memory, art, finance, ships, legal skill, and secrets; no single ancient Sestaran people exits the Glass.
 - **Vesari:** a later Braided river-plain people of the far east, formed from local remnant populations and arriving Ark-derived groups; their converted princedoms become Virelia's substrate (see [[01 Canon Reference/Peoples and Cultures/Eclessia/10 Foundations/The Making of the Eclessians.md|The Making of the Eclessians]]).
@@ -64,6 +65,11 @@ Use [[Southern Cold Belt and Grobi Frontier]] as the governing note for the deep
 - [[01 Canon Reference/Peoples and Cultures/Jirahar/70 History and Conflicts/Historical Atlas of Qiryath before Atheria.md]]
 - [[Vashar and the Crown of Roads and Dawns]]
 - [[Historical Atlas of Vathra and the Northern Ground]]
+- [[Historical Atlas of the Southern Cold World]]
+- [[Nhaldur and the First Rewriting]]
+- [[The Folk before Atheria]]
+- [[01 Canon Reference/Peoples and Cultures/Ättar/70 History and Conflicts/The Ättar before the Great Keel-Taking.md|The Ättar before the Great Keel-Taking]]
+- [[Grobi History and Pack Life]]
 - [[Vathra and the Great Unyoking]]
 - [[The Tarkhan before the Horse Hordes]]
 - [[The Ahdari before the Covenant]]

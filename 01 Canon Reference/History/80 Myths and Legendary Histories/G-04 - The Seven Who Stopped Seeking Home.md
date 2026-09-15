@@ -16,6 +16,8 @@ aliases: ["The Seven Who Stopped Seeking Home"]
 ---
 # The Seven Who Stopped Seeking Home
 
+**The Seven Who Stopped Seeking Home** is a Scattering cycle about people who ceased travelling with the Prophet's descendants and made lives elsewhere. The Seven are symbolic travellers assembled from many unrelated departures. Their stories preserve several reasons for separation, including apostasy, fear, exhaustion, marriage, error and the discovery that a temporary refuge had become a home.
+
 > **Stories told.** The local telling and the material or customary remainder below are established. A claimed original object, miraculous response, famous identity or supernatural explanation is not authenticated merely by this article.
 
 ## Historical setting
@@ -23,6 +25,12 @@ aliases: ["The Seven Who Stopped Seeking Home"]
 **c. 2165–1750 BR; overlapping Scattering and early Hearths.** southern dispersal corridors and Near-Glass borderlands. This tradition belongs to [[Age of Scattering]]; its cultural bearers are Ark-derived and neighbouring Orphaned communities.
 
 It is told across southern Scattering routes by communities that claim one of the travellers as a founder. Its survival does not make every singer's version a complete account of the event.
+
+## Historical basis
+
+Households and small travelling parties left, lost or abandoned the Ark-derived migrations at different times during the Exodus, Scattering and early Hearths. Some rejected the Lord's guidance or returned to old cult loyalties. Others lost the route, remained with spouses and hosts, adopted children who could not be moved, or chose a viable settlement after years of travel. Survivors entered many existing communities and contributed ancestry and custom without founding a single hidden people.
+
+Later performers gathered these departures into seven travellers and one impossible itinerary. No physical route joins all the claimed wells, cairns and ferries, and no surviving genealogy can identify which historical party entered which later culture. Descendants inherit neither the guilt of an apostate ancestor nor automatic estrangement from the Lord.
 
 ## The tale
 

@@ -14,7 +14,7 @@ tags: []
 ---
 # The Sestaran Concord Overview
 
-The Sestaran Concord is a defensive league of seven independent city-states connected by trade, finance, specialised craft and a shared concern for their survival. Its members include highland and mountain territories, island harbours, inland fairs and the distant Boiling Sea port of Castara. Their only binding common institution is the Seven-Seal Defensive Muster.
+The Sestaran Concord is a defensive league of seven independent city-states connected by trade, finance, specialised craft and a shared concern for their survival. Its members include highland and mountain territories, island harbours, inland fairs and the distant Boiling Sea port of Castara. Their only binding common institution is the [[The Seven-Seal Defensive Muster|Seven-Seal Defensive Muster]].
 
 Each member maintains its own ruler or government, citizenship, law and religious arrangements. “Sestaran” is useful as a collective name abroad, while local identities remain more important at home. The league's populations formed from several waves of settlement and mixture; common membership gives them a diplomatic relationship rather than a single ancestry.
 
@@ -72,4 +72,7 @@ Older members retain their own rivalries and priorities. Their common defence ha
 
 ## Further reading
 
-The [[Historical Spine of the Sestaran Concord]] gives the chronological account, and [[The Making of the Sestaran Cities]] explains their different foundations. Follow the individual city articles above, then [[Sestaran Citizenship and Office Register]], [[Faiths of the Seven Cities]] and [[Sestara and the Wider World]] for comparisons across the league.
+- **History and formation:** Begin with the [[Historical Spine of the Sestaran Concord]] and [[The Making of the Sestaran Cities]].
+- **The seven members:** Follow the individual city articles above, or compare political membership through the [[Sestaran Citizenship and Office Register]].
+- **Faith and neighbours:** [[Faiths of the Seven Cities]] and [[Sestara and the Wider World]] explain the differences within the league and its external relationships.
+- **Compare cultures:** Return to [[Cultures MOC|Peoples and Cultures]] for the other principal societies of the known world.

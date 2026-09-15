@@ -16,17 +16,27 @@ aliases: ["The Road That Refused Its Last Stone"]
 ---
 # The Road That Refused Its Last Stone
 
+**The Road That Refused Its Last Stone** is a workers' tradition attached to the unfinished milestone of the Aurin trunk road, the principal land corridor running from Caleran through Enathi, Serathi and Vardeni country. The tale gives one repentant surveyor responsibility for refusing the stone; the historical refusal belonged to a mixed labour gang whose members withheld the road's dedication after building it under coercion.
+
 > **Stories told.** The local telling and the material or customary remainder below are established. A claimed original object, miraculous response, famous identity or supernatural explanation is not authenticated merely by this article.
 
 ## Historical setting
 
 **c. 800–350 BR; Age of Stars.** Atherian roads and city leagues. This tradition belongs to [[Age of Stars]]; its cultural bearers are Atherian workers and later provincial inheritors.
 
-It is told along the imperial corridors first measured during the Age of Stars. Its survival does not make every singer's version a complete account of the event.
+It is told along the Aurin road and the later corridors built from it. Its survival does not make every singer's version a complete account of the event.
+
+## Historical basis
+
+The Aurin trunk road absorbed older local paths rather than beginning as a single imperial design. Compact, Ortheian and later republican governments successively straightened, paved and militarised it for trade, assessment, official messages and troop movement. Unequal civic standing allowed those works to be supplied by labour levies, confiscated land and punitive enforcement.
+
+The last prepared milestone was left undedicated by a gang of coerced Enathi, Serathi, Vardeni and Atherian debt workers. Their precise agreement is lost, but they withheld the inscription together. Later neglect, reuse and changing systems of distance left other stretches without their original stones. The cairns now found beside the road are practical waymarks maintained by travellers, although later songs also treat them as memorials.
+
+The lone surveyor, the paving of the dead beneath the road and the children who repeatedly defeated officials with false milestones are moral compressions. Graves and settlements were harmed by the road works, but no evidence makes every paving stone a grave or one official responsible for the corridor's whole history.
 
 ## The tale
 
-A young surveyor settled a feud by placing three stones where two villages claimed the same grazing ground. The judgement held through a winter, and an imperial governor hired the surveyor to do the same elsewhere. Soon the measuring cord went ahead of soldiers.
+A young surveyor settled a feud by placing three stones where two villages claimed the same grazing ground. The judgement held through a winter, and a governor hired the surveyor to do the same elsewhere. Soon the measuring cord went ahead of soldiers.
 
 Lines drawn to end quarrels became routes for forced labour. Villages were moved because a road required a straight approach. Workers died hauling stone through heat. Settlements that removed the markers were burned, and their graves became fill beneath the paving. The surveyor protested each extension and accepted the next commission anyway, arguing that somebody gentler must hold the cord.
 
@@ -46,7 +56,7 @@ Imperial engineers call the gap an unfinished triumph. Road people say the surve
 
 ## What remains
 
-For nearly two hundred leagues the ancient road bears no official milestones, only children's cairns that no census keeps.
+One surviving milestone was prepared but never dedicated. Elsewhere the road's stones were moved, reused or replaced as rulers changed their points of measurement. Travellers still maintain cairns where official distances cannot be trusted.
 
 ## History and belief
 
@@ -57,6 +67,7 @@ Names, precise sites and competing supernatural claims may remain uncertain with
 ## Read onward
 
 - [[Historical Atlas of Atheria]]
+- [[Peoples of the Ancient Aurin]]
 - [[Historical Spine of the Jirahar]]
 
 - [[Age of Stars]]

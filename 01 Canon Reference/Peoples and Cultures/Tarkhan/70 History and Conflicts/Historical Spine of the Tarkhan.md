@@ -62,8 +62,7 @@ Qarayel's 1261 unification and the Black Wind years changed the wider world's co
 ## Stories and neighbouring histories
 
 - [[G-59 - The Walking Court and the Wall That Stayed|The Walking Court and the Wall That Stayed]]
-- [[G-60 - The Bride of the Dry Road|The Bride of the Dry Road]]
-- [[G-72 - The Hostage Children of Oak and Glass|The Hostage Children of Oak and Glass]]
+- [[G-60 - The Bride of the Dry Road|The Son-in-Law and the Stolen Gods]]
 - [[Historical Atlas of Vathra and the Northern Ground]]
 - [[Vathra and the Great Unyoking]]
 - [[The Tarkhan before the Horse Hordes]]

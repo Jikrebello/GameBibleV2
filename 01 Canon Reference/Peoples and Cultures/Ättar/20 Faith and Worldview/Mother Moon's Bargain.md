@@ -13,7 +13,15 @@ tags: []
 ---
 # Mother Moon's Bargain
 
-The Ättar pact is a direct covenant with [[01 Canon Reference/Cosmology/30 Menhir/10 Second Circle/Mother Moon.md|Mother Moon]], concluded at an ancient lunar thin place and administered in later generations by lesser courtiers sometimes called the **Pale Household** or **Moon Court**. It cannot be recreated as a routine rite. The pact grants old-rite chiefs a single hybrid form and places inherited rage in their paternal lines. It does not prove that Mother Moon loves the Ättar or that the exchange is just. Moon recognizes the pact as an exact cycle of taking and return; she cannot comprehend the child's dignity as a moral claim against that cycle.
+The Ättar pact is a direct covenant with [[01 Canon Reference/Cosmology/30 Menhir/10 Second Circle/Mother Moon.md|Mother Moon]], concluded during the [[War of the Empty Halls]] and administered by lesser courtiers called the **Pale Household** or **Moon Court**. It cannot be recreated as a routine rite. The bargain gave hybrid bodies to four named chiefs and their paternal office lines, while a lesser rage entered the wider population sworn beneath their standards. The price binds each old-rite ruling line to the repeated surrender of a firstborn child.
+
+Mother Moon recognises the pact as an exact cycle of transformation, taking and return. She cannot comprehend the child's dignity as a moral claim against that cycle.
+
+## The first petition
+
+Savar of Red Shoal, Torvek of Hornwall, Brennar of Stoneden and Eldran of Grey Pass reached a lunar thin place while Gharuk Eight-Bowls was consuming the northern halls. They asked for the beasts of their standards to enter their bodies and for fury to enter the people sworn beneath them.
+
+The Pale Household answered the wording rather than an unspoken intention. Savar received the Lion form, Torvek the Ox, Brennar the Bear and Eldran the Wolf. Each form passed through the named chief's paternal line as a qualification for office. The broader oath population received no hybrid body. It received the lesser bodily rage which later spread through descent and intermarriage.
 
 ## Renewal
 
@@ -25,7 +33,7 @@ Once in each generation, the Court claims the pact-heir's first living child. Ci
 
 The taking usually occurs during the first sleep beneath open moonlight. A changeling of the Pale Household remains in the child's place and grows at a human pace. At adolescence it becomes restless, dreams of roads no mortal can follow, and eventually departs. The original child then returns at the same apparent age.
 
-The returned child is not the person who vanished unchanged. Their memory is discontinuous, their senses answer lunar cycles, and they understand portions of the Court's etiquette. Hall law declares them free and inviolable regardless of their mother's former status.
+The original returns with the same human soul and at the apparent age reached by the changeling. Court time does not preserve an uninterrupted human childhood: memory is discontinuous, the returned child's senses answer lunar cycles and portions of the Court's etiquette have become familiar. Hall law declares the child free and inviolable regardless of the mother's former status.
 
 ## What the Pact Does Not Do
 

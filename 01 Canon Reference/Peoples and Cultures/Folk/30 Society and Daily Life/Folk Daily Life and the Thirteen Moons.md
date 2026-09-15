@@ -21,7 +21,7 @@ The Folk year is **thirteen moons**, each named for what it demands (Hunger Moon
 
 - **Bright-Fire** (spring): cattle driven between two bonfires; courting season opens; the moon-count's new tally-sticks are cut. Falls irritatingly near the Church's Greenveil processions, and the borderland's young people attend both for the same reasons young people ever attend anything.
 - **High-Fire** (midsummer): the clan-moots; treaties sworn and feuds priced; games, horse-trades, and the seers' weather-court for the year ahead.
-- **Last-Fire** (harvest): debts of meat and grain settled; the marriage-fires (see below); the night the Grey-Withy publish, by song, who owes whom.
+- **Last-Fire** (harvest): debts of meat and grain settled; the marriage-fires (see below); the night the Grey-Withy publish, by song, who owes whom. Chiefs and free men also travel to their regional All-Thing before the Grobi war season.
 - **The Quiet Fire** (winter's mouth): the ancestor-night, when hearths burn low, doors stand open one hour for the dead, and — on the Wolfsmere shore — the **Roll of the Drowned** begins: four thousand names, one breath each, three nights. Church writers who call the Quiet Fire "the Folk's Souls-month" are nearer right than either people likes.
 
 **Two clocks, one border:** every market-day, muster, and truce along the frontier is scheduled twice — a Church date and a moon-count — and the mismatch is a standing negotiation. Grenzburg's treaty-fairs fall "third Lord's Day of Harvestmonth *or* the full of the Barley Moon, whichever the river allows," a formula that has prevented and started roughly equal numbers of skirmishes.
@@ -40,7 +40,7 @@ Made at Last-Fire by **handfasting across the flame**: a year-and-a-day compact,
 
 ## Death
 
-The Folk do not bury in Church ground and the reason is a wound, not a doctrine: *ground can be taken* (Wolfsmere proved what happens to the dead when it is). The dead are given to **cairn, hollow oak, or river-boat** by clan custom; names go into the Speaker's memory-chain, recited backward at the Quiet Fire ("we walk with the past" — the far-southern peoples would recognize the instinct). A Folk deathbed asks for water, not a lamp: *"the road is wet where we go"* — a line the Church's missioners find leftward-alarming, the seers decline to explain, and the Lakekeepers alone could gloss.
+The Folk do not bury in Church ground and the reason is a wound, not a doctrine: *ground can be taken* (Wolfsmere proved what happens to the dead when it is). The dead are given to **cairn, hollow oak, or river-boat** by clan custom; names go into the Speaker's memory-chain, recited backward at the Quiet Fire ("we walk with the past" — the far-southern peoples would recognise the instinct). A Folk deathbed asks for water, not a lamp: *"the road is wet where we go"* — a line the Church's missioners find leftward-alarming, the seers decline to explain, and the Lakekeepers alone could gloss.
 
 **The keen (sung once, at the cairn, then never again for that name):**
 > *Go by the roots and not by the road, / the trees know your name, the stones take your load;*

@@ -17,9 +17,9 @@ The Folk are related Orphaned peoples whose communities reassembled across the s
 
 ## Orphaned Reassembly and First Hearths
 
-- **c. 2300-1900 BR:** subject villages, fugitives, local revolt communities and survivors of collapsing Giant client states enter, remain within or reconnect across the southern forests, coasts and mountain corridors. They do not descend principally from the Glass Ark.
+- **c. 2300-1900 BR:** subject villages, fugitives, local revolt communities and survivors of collapsing Giant client states enter, remain within or reconnect across the southern forests, coasts and mountain corridors. Escaped lesser Giants and giant-blooded prisoners from Nhaldur contribute war leaders and ancestry without making the Folk a Giant people.
 - **c. 2050-1900 BR:** separate proto-Atherian war-settlements reach occupied southern gates, river corridors and coasts. Their relations with different Folk communities include massacre, slavery, hostage exchange, land seizure, alliance, trade, intermarriage, and the destruction or absorption of forts.
-- **c. 1900-1400 BR:** hearth-law, winter stores, first ringworks, grove boundaries, and formal Grobi watches appear.
+- **c. 1900-1400 BR:** Belathi, Hartheni and Odrani identities become legible; hearth-law, annual All-Things, winter stores, ringworks, grove boundaries and formal Grobi watches become durable.
 - **c. 1400-800 BR:** river leagues, hillfort confederacies, coastal kindreds, and old-rite Enaidfae networks become regional powers.
 
 ## Atherian Centuries
@@ -31,7 +31,7 @@ The Folk are related Orphaned peoples whose communities reassembled across the s
 
 ## Fall and Successor Frontiers
 
-- **905 AR onward:** the Fall removes the last common imperial frontier command. Clans reclaim settlements and roads but lose dependable grain relief and coordinated winter defense.
+- **905 AR onward:** the Fall removes the last common imperial frontier command. Clans reclaim settlements and roads but lose dependable grain relief and coordinated winter defence.
 - **975-982 AR:** Adalmar's eastern consolidation turns the southern border into a program of settlement, baptism, and crown title.
 - **982-1008 AR:** the **Folk Wars** combine invasion, rebellion, clan civil war, negotiated submission, and missionary expansion.
 - **993 AR:** the **Drowning at Wolfsmere** kills four thousand captive oath-keepers and seers. The lake becomes a standing leftward thin space.
@@ -50,6 +50,7 @@ The region receives news and repercussions of Wolfsmere; it does not replace the
 ## Navigation
 
 - [[Chronology of the Known World (AR Dating)]]
+- [[The Folk before Atheria]]
 - [[The Making of the Folk]]
 - [[01 Canon Reference/Peoples and Cultures/Folk/30 Society and Daily Life/The Folk of the Frontier and the Wolfsmere Lineage.md|The Folk of the Frontier and the Wolfsmere Lineage]]
 - [[Frost-Road and the Winter War]]
@@ -60,10 +61,11 @@ The Folk descend principally from Orphaned communities which rebuilt forests, fi
 
 Conquest could destroy a fort, take hostages, produce a mixed harbour or redirect a clan's marriage network. Ark-derived settlers brought a particular witness and useful crafts, not civilization to empty land. Folk societies themselves practised raiding, captivity and exclusion; autonomy did not make every custom just.
 
-Menhir courts remained dangerous neighbours. Their gifts and exact prices shaped local hunting, fosterage, mining and seasonal customs without supplying a moral law. Conversion later produced Chapel-Folk as well as resistance, while Enaidfae remained an old-rite identity rather than a separate human biology. Shared ancestry with the Ättar did not erase the historical divergence caused by geography, enemies and political choices.
+Menhir courts remained dangerous neighbours. Their gifts and exact prices shaped local hunting, fosterage, mining and seasonal customs without supplying a moral law. Conversion later produced Chapel-Folk as well as resistance, while Enaidfae remained an old-rite identity rather than a separate human biology. Shared ancestry and the annual All-Thing tradition did not erase the historical divergence from the Ättar caused by geography, enemies and political choices.
 
 ## Stories and neighbouring histories
 
+- [[G-05 - The Iron Ring before the Crown|The Iron Ring before the Crown]]
 - [[G-06 - The Wolf, the Lantern and the House That Heard Them Laugh|The Wolf, the Lantern and the House That Heard Them Laugh]]
 - [[G-57 - The Gate Opened during Supper|The Gate Opened during Supper]]
 - [[G-58 - The Harbour Founded Twice|The Harbour Founded Twice]]

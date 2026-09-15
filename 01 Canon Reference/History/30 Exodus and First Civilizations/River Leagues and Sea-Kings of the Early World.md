@@ -23,15 +23,17 @@ The early Atherian sea-world was held together by timber, oars, stored food and 
 
 ## Three kinds of southern power
 
-**The river-gate houses**, c. 2050–1700 BR, controlled crossings before they controlled broad territory. Proto-Atherian captains took a gate with the help of local enemies of its ruler, then seized the allies' fields when garrison rations failed. Some inhabitants escaped into Folk kin networks; others married soldiers, served the new household or lived as slaves. A later city's claim to first possession concealed these successive occupants. The First Southern Gate tradition belongs to this political world without founding every gate house.
+**The river-gate houses**, c. 2050–1700 BR, controlled crossings before they controlled broad territory. Several proto-Atherian settler and auxiliary bands accepted hospitality before seizing their hosts' gates. Some inhabitants escaped into Folk kin networks; others married soldiers, served the new household or lived as slaves. The Gate Opened during Supper compresses these separate betrayals and the later shared-meal peace into one foundation tale. Its marked gate belongs to one site and cannot identify every hand impressed during several periods of repair.
 
 **The furnace leagues**, c. 1800–1450 BR, joined wholly Material ore basins to charcoal districts and ports. Craft households preserved techniques taken from Giant workshops while depending on local miners who knew which galleries could still be worked. Assemblies limited the power of individual furnace masters but protected collective ownership of captives. When a coastal buyer stopped accepting ore, masters cut rations before reducing production. The resulting flight of workers spread useful techniques and left several furnaces cold. Industrial recovery could enlarge slavery as well as material knowledge.
 
-**The harbour federations**, c. 1750–1100 BR, depended on navigation and agreements between resident families. An oar-king might arrive with a powerful fleet but lack food and repair timber ashore. Existing harbour houses could make the ruler marry, pay, leave hostages or abandon the claim. The Oar-King cycle remembers both ascent from slavery and the murder of a loyal rival. Ports later connected to Sestara inherited some of these populations, but no ancient federation was already the Sestaran Concord.
+**The harbour federations**, c. 1750–1100 BR, depended on navigation and agreements between resident families. One damaged convoy converted seasonal refuge at an ancestral Sermoran harbour into occupation; a mixed coastal coalition later defeated the convoy's parent league and reopened the water. Elsewhere, the Oar-King rose from a chained ship's bench council, conquered a harbour, arranged a loyal rival's death and retained most gains even after a prophet compelled confession and partial restitution. Ports later connected to Sestara inherited some of these populations, but no ancient federation was already the Sestaran Concord.
 
 ## The northern continuities
 
 Near the Glass, portable courts and defended wells remained intertwined long after tellers began describing separate peoples. A Jirahar custodian might depend on an Ahdari household's reservoir; a territorial oath-coalition might require an itinerant judge to settle an internal blood-feud. Their institutions diverged because food, distance and force made different promises practicable.
+
+A route-wise son-in-law's departure from a Tarkhan-facing coalition belongs to these exchanges without founding any later people. His two marriages, protected fugitives and the favourite wife's theft of her father's cult images produced a household succession dispute whose later tellings often overstate its ethnic importance.
 
 Tarkhan communities were participants rather than weather pressing against the camps. Well keepers sold access, camel-route families chose escorts, and raiding coalitions competed with households dependent on regular trade. A failed ransom could close a route for a generation. Marriage and guest-law could reopen it without turning an Orphaned population into an Ark branch. The later horse culture followed the First Catch, not these early caravan histories.
 
@@ -49,7 +51,7 @@ In the southern cold belt, Grobi pressure made refuge, stores and mutual defence
 
 By the City-State and Star ages, Atherian belonging increasingly depended upon service and civic admission. The same cities which used mixed labour carved genealogies presenting their citizens as descendants of pure founder houses. A Caleran member city's recutting of its founder monument killed resisting custodians; the public festival thereafter praised ancestors whose descendants it had dispossessed.
 
-The Celestial Compact and republican growth drew on this long history of rival citizenships. Roads and common measures helped soldiers, merchants and administrators, but also made forced labour easier to demand. The transition to empire incorporated different communities rather than completing one ancient biological family.
+The Celestial Compact and republican growth drew on this long history of rival citizenships. The Aurin trunk road joined older paths across Enathi, Serathi and Vardeni country; successive states extended it through coerced labour and unequal civic power. One mixed labour gang withheld the last prepared dedication, though later song gives the act to a lone repentant surveyor. The transition to empire incorporated different communities rather than completing one ancient biological family.
 
 - [[Age of Hearths and First Kings]]
 - [[Age of City-States]]

@@ -13,7 +13,7 @@ tags: []
 ---
 # Thalmyric Empire Overview
 
-The Thalmyric Empire occupies the west-central heartland of old Atheria. Its cities, cultivated valleys and maritime regions preserve the greatest concentration of Atherian public works, learning and sacred sites. The present imperial capital is Veridun; Caleran, recovered during the Long Reconquest, remains the old capital and a principal centre of worship associated with the Redeemer.
+The Thalmyric Empire occupies the west-central heartland of the [[01 Canon Reference/Peoples and Cultures/Atherian Empire/The Atherian Empire Overview.md|old Atherian Empire]]. Its cities, cultivated valleys and maritime regions preserve the greatest concentration of Atherian public works, learning and sacred sites. The present imperial capital is [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/60 Realms and Peoples/Kingdom of Veridun/The Kingdom of Veridun Overview.md|Veridun]]; [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/60 Realms and Peoples/Kingdom of Veridun/Caleran and the Eternal Ember.md|Caleran]], recovered during the Long Reconquest, remains the old capital and a principal centre of worship associated with the Redeemer.
 
 Thalmyric society grew through the survival of imperial provinces, invasion, refuge and the recovery of lost lands. Its people inhabit working aqueduct systems and rebuilt towns alongside abandoned terraces, occupation ruins and roads leading towards vanished settlements. The empire's resources have contracted considerably from those of its predecessor.
 
@@ -65,7 +65,7 @@ The Church teaches that discipline may turn a person towards repentance, while p
 
 Thalmyria venerates a Jirahar Redeemer. Jirahar pilgrims and scholars travel through its sacred geography, bringing their own language, family memory and interpretation of Isfir. Imperial accounts of the elders involved in his death have also contributed to hostility towards later communities. [[Jirahar Memory of Isfir]] and [[Jirahar and the Wider World]] explain these relations.
 
-## The empire in 1360
+## The Thalmyric Empire in 1360
 
 Caedros IV's court faces an unresolved succession, Sestaran debt, exhausted veterans and pressure for renewed war over Zanthir. Abandoned waterworks, depopulated districts and contested land hinder agricultural recovery. The [[01 Canon Reference/Peoples and Cultures/Velian/60 Realms and Peoples/Velian States/The Velian States Overview.md|Velian States]] retain their own populations and institutions beyond the imperial claim.
 
@@ -75,4 +75,7 @@ The [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/60 Realms and Peo
 
 ## Further reading
 
-Start with the [[Historical Atlas of Thalmyria]], then [[Caleran and the Eternal Ember]] and [[Thalmyric Heartland - Cities, Ruins, and the Empty Interior]]. [[Thalmyric Economy and the Old Heartland]] explains production and debt. [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/30 Society and Daily Life/Thalmyric Daily Life and the Burning Year.md|Thalmyric Daily Life and the Burning Year]] and [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/20 Faith and Worldview/Faith and the Thalmyric Church Overview.md|Faith and the Thalmyric Church]] introduce daily observance. [[Zanthir and the Unfinished Reconquest]] follows the principal unresolved frontier.
+- **History and heartland:** Begin with the [[Historical Atlas of Thalmyria]], then [[Caleran and the Eternal Ember]] and [[Thalmyric Heartland - Cities, Ruins, and the Empty Interior]].
+- **Work and ordinary life:** [[Thalmyric Economy and the Old Heartland]] explains production and debt, while [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/30 Society and Daily Life/Thalmyric Daily Life and the Burning Year.md|Thalmyric Daily Life and the Burning Year]] follows household and seasonal life.
+- **Faith and frontier:** [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/20 Faith and Worldview/Faith and the Thalmyric Church Overview.md|Faith and the Thalmyric Church]] introduces religious institutions; [[Zanthir and the Unfinished Reconquest]] follows the principal unresolved frontier.
+- **Compare cultures:** Return to [[Cultures MOC|Peoples and Cultures]] for the other principal societies of the known world.

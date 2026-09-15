@@ -66,7 +66,8 @@ The Qahirid resurgence and Fall of Caleran enlarged the empire; later prosperity
 ## Stories and neighbouring histories
 
 - [[G-59 - The Walking Court and the Wall That Stayed|The Walking Court and the Wall That Stayed]]
-- [[G-60 - The Bride of the Dry Road|The Bride of the Dry Road]]
+- [[G-60 - The Bride of the Dry Road|The Son-in-Law and the Stolen Gods]]
+- [[G-71 - The Five Staffs and the Empty Granary|The Five Staffs and the Empty Granary]]
 - [[G-12 - The Four Who Brought Water|The Four Who Brought Water]]
 - [[G-30 - The Clerk Who Would Not Stop|The Clerk Who Would Not Stop]]
 - [[G-31 - The Bitter Cup of the Reaper|The Bitter Cup of the Reaper]]

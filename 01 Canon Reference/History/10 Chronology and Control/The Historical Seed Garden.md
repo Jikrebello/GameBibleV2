@@ -25,6 +25,8 @@ tags:
 
 > [!info] Atlas harvest
 > All seventy-five traditions now have localized articles in [[Myths and Legendary Histories MOC]]. Those articles—not this exploratory nursery—state what has entered canon. A tradition and its surviving custom may be real while its heroic or supernatural explanation remains disputed. [[World Historical Atlas - Integration and Coverage Ledger]] records the individual destinations and protected limits.
+>
+> The pre-350 BR roots reviewed through G-73 received their canon harvest on 15 September 2026. The authorial decisions are preserved in [[Historical Seed Garden - Full Canon Harvest Review]]; the linked Atlas articles remain controlling wherever an older nursery telling differs.
 
 This is a garden of possible histories, not a second chronology. Nothing becomes true merely because it is told here. Each root is a story strong enough to leave a song, scar, joke, feast, ruin or dangerous habit behind; the exact names, dates and supernatural explanations remain open unless a canonical note says otherwise.
 
@@ -674,11 +676,13 @@ The attackers' identity and the precise camp remain unsettled. This episode reve
 
 *Atlas article:* [[G-59 - The Walking Court and the Wall That Stayed|The Walking Court and the Wall That Stayed]].
 
-## G-60 — The Bride of the Dry Road
+## G-60 — The Son-in-Law and the Stolen Gods
 
-*Formerly: The Bride of the Dry Road.*
+*Formerly and in later inversion: The Bride of the Dry Road.*
 
 *Where it is told:* along Near-Glass caravan routes and in mixed maternal communities formed beside Tarkhan-facing country.
+
+*Canon harvest note:* the tale below is retained as the later red-veil inversion. [[G-60 - The Bride of the Dry Road|The Son-in-Law and the Stolen Gods]] gives the controlling historical household, marriages, stolen cult images and succession dispute.
 
 ### The tale
 
@@ -710,7 +714,7 @@ Her name, route and descendants remain open. The tale does not establish a unive
 
 ^garden-g60
 
-*Atlas article:* [[G-60 - The Bride of the Dry Road|The Bride of the Dry Road]].
+*Atlas article:* [[G-60 - The Bride of the Dry Road|The Son-in-Law and the Stolen Gods]].
 
 ## G-61 — The Hall That Faced the Grobi
 

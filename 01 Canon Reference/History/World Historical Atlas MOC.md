@@ -94,6 +94,14 @@ The received adventures of the Far-Road King are gathered in [[The Five Limits o
 
 The human histories continue through [[The Tarkhan before the Horse Hordes]] and [[The Ahdari before the Covenant]]. The first follows Orphaned well workers, camel keepers, grass families and craftspeople before the mounted Horse Centuries. The second follows the Glass-descended and Braided communities of the western wells before Al-Ahdiya. Their shared winter gathering at Rethmar connects this northern history to [[Lethren Ostar|Ostar's]] failed expedition in 381 BR.
 
+## The southern cold world
+
+[[Historical Atlas of the Southern Cold World]] follows the cold coasts, river valleys, forests, ranges and far-southern marches from the last Giant centuries to 350 BR. [[Nhaldur and the First Rewriting]] gives the authorial history of the penal crownland, the War of Open Keys and Wrath's creation of the first Grobi at Kharvos.
+
+The human histories continue through [[The Folk before Atheria]] and [[01 Canon Reference/Peoples and Cultures/Ättar/70 History and Conflicts/The Ättar before the Great Keel-Taking.md|The Ättar before the Great Keel-Taking]]. They follow related Orphaned populations whose local communities also received lesser Giant and giant-blooded refugees. Folk river leagues, forest assemblies and upland gords remained politically plural. Ättar halls faced the annual Grobi winter frontier, the [[War of the Empty Halls]] and [[Mother Moon's Bargain|Mother Moon's two-part bargain]] before the later great keel-taking.
+
+[[The Deep Voice]] records an older eastern resonance tradition and the catastrophic war that produced the Quiet Measure. [[Grobi History and Pack Life]] follows the predator lineage's breeding hearths, food-driven bodily stages, drum codes, winter hosts and relations with neighbouring human societies.
+
 For the founding generation, begin with [[The Last Generations of the Caleran Republic]] and [[The Southern Campaigns of Teren Casvilar]]. [[The House of Nerethan]] follows the queen's country across five generations; [[The Wars of the Atherian Succession]] connects changing commands and household alliances to Thalion's settlement around 350 BR. [[Households of the Imperial Founding]] introduces the women, children and surviving communities within that history.
 
 ## Imperial Atheria

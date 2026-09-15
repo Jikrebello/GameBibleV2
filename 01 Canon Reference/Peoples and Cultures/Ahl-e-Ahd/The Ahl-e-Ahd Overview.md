@@ -14,9 +14,9 @@ tags: []
 ---
 # The Ahl-e-Ahd Overview
 
-The Ahl-e-Ahd, or People of the Covenant, are the peoples of a civilisation connected by Al-Ahdiya, the literary Ahdari language, shared legal traditions and a network of roads, markets and places of pilgrimage. Its principal populations are the [[The Ahdari|Ahdari]], [[The Iqashari|Iqashari]], [[The Qahuri|Qahuri]], [[The Qazmari|Qazmari]] and [[The Zanthiri|Zanthiri]]. Their countries range from desert routes and defended wells to grain-producing river lands, imperial cities and maritime trading districts.
+The Ahl-e-Ahd, or People of the Covenant, are the peoples of a civilisation connected by [[01 Canon Reference/Peoples and Cultures/Ahl-e-Ahd/20 Faith and Worldview/Al-Ahdiya Overview.md|Al-Ahdiya]], the literary Ahdari language, shared legal traditions and a network of roads, markets and places of pilgrimage. Its principal populations are the [[The Ahdari|Ahdari]], [[The Iqashari|Iqashari]], [[The Qahuri|Qahuri]], [[The Qazmari|Qazmari]] and [[The Zanthiri|Zanthiri]]. Their countries range from desert routes and defended wells to grain-producing river lands, imperial cities and maritime trading districts.
 
-The name embraces several ancestries and political allegiances. Velians, Jirahar, Tarkhan and foreign communities also live under Covenant rulers, maintaining their own forms of belonging. A person's ruler, religion and people may therefore be described in different terms.
+The name embraces several ancestries and political allegiances. [[01 Canon Reference/Peoples and Cultures/Velian/Velian Culture Overview.md|Velians]], [[01 Canon Reference/Peoples and Cultures/Jirahar/The Jirahar Overview.md|Jirahar]], [[01 Canon Reference/Peoples and Cultures/Tarkhan/The Tarkhan Tribes Overview.md|Tarkhan]] and foreign communities also live under Covenant rulers, maintaining their own forms of belonging. A person's ruler, religion and people may therefore be described in different terms.
 
 ## Formation and historical reach
 
@@ -50,7 +50,7 @@ Caravan houses connect inland fairs with ports and agricultural districts. [[Maz
 
 Four permanent Shell anchors support Qahirid military production: the Iqashar Chain Furnace, Well of Seven Pressures, Ruzbeh Weight House and Nine Winds Arsenal. These maintained points of access to elemental forces supply foundries, waterworks, roads, breach ramps, signals and [[Covenant Siege Golems]]. Particular programmes depend on coerced labour, concealed deaths, soulbinding and captured Depth beasts. Their output has made the conditions of production a matter of military as well as religious importance.
 
-## Religion and neighbouring communities
+## Religion, neighbouring communities and the Covenant in 1360
 
 [[01 Canon Reference/Peoples and Cultures/Ahl-e-Ahd/20 Faith and Worldview/Al-Ahdiya Overview.md|Al-Ahdiya]] teaches that creation rests upon the Great Covenant revealed to Mujalib by Malak al-Ahd. The interpretation of [[The Disputed Fourth Seal]] divides the majority [[The Witnessed Seal|Witnessed Seal]] from the minority [[The Sealed Blood|Sealed Blood]]. Iqashar and Al-Qahur follow the former; Qazmarid is the principal Sealed-Blood power. Zanthir is predominantly Witnessed but religiously plural.
 
@@ -60,4 +60,7 @@ Jirahar residents negotiate their own protections, taxes and courts. [[Migdal Qe
 
 ## Further reading
 
-For the ancient foundations, read [[The Ahdari before the Covenant]], [[Ancient Qahur and the Twin-Reed Crowns]], [[Qahur and the Gateway before Atheria|Qahur and the Gateway, c. 2165–350 BR]] and [[The Gateway Republic]]. [[Historical Atlas of Vathra and the Northern Ground]] explains the older northern world shared with the Tarkhan. The later sequence continues through the [[Historical Spine of the Covenant]] and [[The Making of the Covenant Peoples]]. [[Covenant Economy and the Caravan World]] and [[Status, Slavery, and Manumission in the Covenant]] explain work and status. [[Covenant Armies and the Tarkhan Frontier]], [[Sestara and the Wider World]] and [[Jirahar and the Wider World]] place the civilisation among its neighbours. Current rulers are listed in [[Present-Day Courts and Crowns (1360 AR)]].
+- **History:** Begin with [[The Ahdari before the Covenant]], [[Ancient Qahur and the Twin-Reed Crowns]], [[Qahur and the Gateway before Atheria|Qahur and the Gateway, c. 2165–350 BR]] or [[The Gateway Republic]]. [[Historical Atlas of Vathra and the Northern Ground]] explains the older northern world, while the [[Historical Spine of the Covenant]] and [[The Making of the Covenant Peoples]] continue the route into the Covenant civilisation.
+- **Life and institutions:** [[Covenant Economy and the Caravan World]] and [[Status, Slavery, and Manumission in the Covenant]] explain work, exchange and legal status.
+- **Neighbours and the present:** Continue with [[Covenant Armies and the Tarkhan Frontier]], [[Sestara and the Wider World]], [[Jirahar and the Wider World]] and [[Present-Day Courts and Crowns (1360 AR)]].
+- **Compare cultures:** Return to [[Cultures MOC|Peoples and Cultures]] for the other principal societies of the known world.

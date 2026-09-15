@@ -77,7 +77,7 @@ The plagues exposed and broke particular systems. They did not abolish nature or
 
 The Glass already existed. Giants had failed to settle it permanently. The Lord led the host into that feared country so that the collapse outside would not destroy it. Passage required preparation: carts, water skins, medicine, craft knowledge, camps and hard choices about what could be carried. Provision and signs met needs that these preparations could not meet; they did not make tired feet, mourning or childbirth disappear.
 
-[[G-03 - The Last Cart|The Last Cart]] is the best-known domestic image of the crossing. Its tellings disagree about the passengers and the axle, but agree that deliverance was not measured by how many useful workers reached the next camp. The oldest departure meals still break a wheel-shaped loaf for those least able to travel.
+[[G-03 - The Last Cart|The Last Cart]] remembers an old-cult faction within the Exodus host. During a crisis its members restored forms of worship inherited from the Giant courts, refused the Prophet's condemnation and remained behind when the protected movement resumed. Their camp and last wagon disappeared in the Glass. No survivor is known, although later tellers disagree about the responsibility of children and dependants carried into the separation by their households. The wheel-shaped loaf used in some departure rites now accompanies a warning that frailty and apostasy are not the same thing.
 
 ## A people made in the Glass
 

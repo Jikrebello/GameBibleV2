@@ -16,35 +16,43 @@ aliases: ["The Last Cart"]
 ---
 # The Last Cart
 
+**The Last Cart** is an Exodus tradition about an old-cult faction which separated from the Prophet's people in the [[Great Glass Desert]]. Its members attempted to restore forms of worship inherited from the Giant courts and refused to continue under the Lord's guidance. Their abandoned final wagon became the central image through which later Ark-descended communities remembered apostasy, fear and the danger of claiming an imperial power as deliverer.
+
 > **Stories told.** The local telling and the material or customary remainder below are established. A claimed original object, miraculous response, famous identity or supernatural explanation is not authenticated merely by this article.
 
 ## Historical setting
 
 **c. 2300–2165 BR; Exodus and Glass Sojourn.** Great Glass Desert crossing camps. This tradition belongs to [[Age of Exodus]]; its cultural bearers are the One Glass People and later Ark descendants.
 
-It is told throughout the Ark-descended cultures as a tale of the Great Exodus across the Glass. Its survival does not make every singer's version a complete account of the event.
+It is told throughout the Ark-descended cultures as a tale of the Great Exodus across the Glass. The underlying separation is historical, while the surviving songs disagree about the faction's leaders, the image it raised and the fate of individual followers.
+
+## Historical basis
+
+Some households within the Exodus host retained loyalties to the cults and protections of the Giant world. During a crisis on the Glass they joined a public restoration of those rites, attributing survival to an image and to powers formerly worshipped by their masters. The act resembled a return to bondage as well as a religious revolt.
+
+The faction refused the Prophet's condemnation and was separated from the main host. When the protected movement resumed, its people remained behind with their wagons and ritual property. Their camp disappeared in the Glass after losing the providential protection granted to the Prophet's people. No survivor is known. Later claims that a particular culture descends from the Last Cart remain unverified, and the absence of survivors does not prove that every individual died in the same place or manner.
 
 ## The tale
 
-The final cart carried nobody important. It held an old woman who could no longer walk, two fevered children, a potter with crushed hands, a pregnant stranger and the bodies of three people whose families would not leave them to the Giant carrion works. When its axle split, the rearguard captain ordered the drivers to abandon everything that could not move before the pursuing dust reached them.
+When the Prophet's people crossed the Glass, several households still kept the rites of the courts that had enslaved them. In a season of fear they brought out ornaments, fragments and remembered signs, raised an image in the old manner and proclaimed that a visible power should lead them back to ordered land.
 
-The drivers threw down their own chests first. They burned spare tent poles into a crooked axle, poured drinking water over the heated wheel rim and cut ceremonial cloth into bandages. When the repair failed, they broke the cart apart and made litters. One soldier surrendered his shield to carry the potter. A provisioner emptied the Prophet's own ration sack and found only enough food because several families quietly added what they had hidden.
+The Prophet condemned the rite and called the people to break it. Some returned to the host. Others guarded the image, restored its offerings and accused the Prophet of leading their children towards death. They were set apart from the common camp after refusing to surrender it.
 
-The high signs answered only where human effort reached an impossible bottleneck. Shade fell for an hour where no cloud existed. A dry skin gave one last cup. Neither wonder prevented the pursuit from taking people at the rear. The old woman died within sight of the next camp. One child survived; the other did not. The carters returned with fewer people than they had sworn to bring, but more than the tally had judged worth saving.
+When the host moved, one wagon remained at the rear. Tellers make it the cart that carried the image, the old priests or the property of every household that chose the former gods. Its drivers watched the protected column diminish across the Glass and expected their own power to provide a road.
 
-At the next muster, the provisioners asked how many had arrived. The cart leader answered by placing the dead child's shoe on the counting board. From then on, the rear was counted before the front, though the custom was often ignored when flight became frightening.
+No road appeared. Heat and reflected light erased the tracks between the camps. The Last Cart was seen once as a black shape beneath the white sky and did not reach the next water. Songs disagree over whether its people turned against one another, tried too late to follow or waited beside an image which never answered.
 
 ## Why it is remembered
 
-It asks who belongs inside a remnant when speed, fear and arithmetic say otherwise. Its significance lies in particular unwanted people, not in claiming the cart saved the Exodus.
+The tradition places religious apostasy inside the Exodus generation rather than among distant enemies. Later teachers also distinguish deliberate restoration of the old cults from exhaustion, illness or becoming lost: weakness did not by itself make a traveller one of the Last Cart.
 
 ## How tellers differ
 
-Jirahar versions remember the names carried with the bodies. Ahdari tellers praise the shared water. Southern songs argue that the pregnant stranger became their ancestor.
+Some tellers portray every follower as a willing apostate. Others remember children, dependants and frightened adults carried into the separation by household authority. Several communities claim that a penitent escaped before the camp vanished, but no genealogy establishes such descent.
 
 ## What remains
 
-A damaged wheel-shaped loaf is broken at departures and winter funerals. The first portion goes to someone unable to repay the gift.
+A damaged wheel-shaped loaf is still broken in some departure rites. The custom is accompanied by warnings not to confuse a person who cannot travel with one who has chosen a rival master.
 
 ## History and belief
 
@@ -56,6 +64,7 @@ Names, precise sites and competing supernatural claims may remain uncertain with
 
 - [[The Glass Sojourn]]
 - [[Great Glass Desert]]
+- [[The Great Unbinding]]
 
 - [[Age of Exodus]]
 - [[Myths and Legendary Histories MOC]]

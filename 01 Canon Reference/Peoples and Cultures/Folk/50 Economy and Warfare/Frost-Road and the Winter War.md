@@ -31,7 +31,7 @@ The institution attracts courageous defenders, ambitious second children, exiles
 
 Winter truce suspends many inter-clan feuds within threatened country. Loot taken from Grobi is divided among the fighter, host, bereaved households, and store fund. Orc teeth are accepted as proof of service in some regions but not as proof that every killing was lawful.
 
-Grobi who surrender remain dangerous captives, not vermin outside moral consideration. Some clans ransom, exchange, employ, or kill them; Chapel-Folk missions sometimes attempt conversion. No policy is universal.
+Grobi which surrender remain intelligent and dangerous captives. Folk law governs what humans may do to them because cruelty, reckless release and broken truce degrade the people committing those acts. Clans kill, exchange, confine or force short labour from captives; Chapel-Folk missions have attempted instruction or baptism without changing Grobi nature. No policy is universal.
 
 ## Strategic Consequence
 
@@ -43,4 +43,3 @@ The winter war prevents easy Folk unification. Frontier hosts create temporary l
 - [[Grobi Overview]]
 - [[Folk Architecture and Settlement]]
 - [[The Folk Overview]]
-

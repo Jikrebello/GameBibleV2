@@ -13,7 +13,7 @@ tags: []
 origin_layer: shadowlands
 continuity: wrath-rewritten-life
 intelligence: sapient
-moral_agency: full
+moral_agency: none
 encounter_tier: aligned
 rank: [elite]
 creature_family: Grobi
@@ -26,17 +26,17 @@ manifestation_class: []
 ---
 # Orcs
 
-Orcs are the third Grobi stage. Their food demand usually appears only in successful warbands capable of taking herds, stores, and defended settlements. A grown orc is commonly half a meter or more taller than a human and carries several times the useful fighting mass of a hobgoblin.
+Orcs are the third Grobi stage. Their food demand usually appears only in successful warbands capable of taking herds, stores and defended settlements. A grown orc stands roughly seven to nine feet tall and possesses at least the strength of five human men.
 
 ## Ecology and Lifecycle
 
 Most orcs grow from veteran hobgoblins who already possess tactical memory and social authority. Acquired orcs can revert when deprived of the food needed to sustain the stage, though the process is dangerous and politically humiliating. Rare born-stage orcs have an inherited third-stage floor and cannot safely shrink below it.
 
-An orc that controls enough continuous surplus may begin the unstable growth toward [[Ogres|ogre]]. This makes food command inseparable from political command.
+An orc that controls enough continuous surplus may begin the unstable growth towards [[Ogres|ogre]]. This makes food command inseparable from political command.
 
 ## Warband Role
 
-Orcs act as war-chiefs, champions, breach leaders, executioners, and mobile reserves. Physical power alone does not guarantee leadership. A grown orc with hobgoblin experience is usually more dangerous than a larger born-stage rival because it understands logistics, fear, and when not to fight.
+Orcs act as war-chiefs, champions, breach leaders, executioners and mobile reserves. Physical power alone does not guarantee leadership. A grown orc with hobgoblin experience is usually more dangerous than a larger born-stage rival because it understands logistics, fear and the tactical value of refusing a poor fight.
 
 ## Signs
 

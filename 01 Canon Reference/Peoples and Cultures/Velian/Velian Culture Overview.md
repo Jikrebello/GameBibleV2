@@ -13,7 +13,7 @@ tags: []
 ---
 # Velian Culture Overview
 
-The Velians are an Atherian-descended people of the desert-margin towns, river districts and cultivated estates of the [[01 Canon Reference/Peoples and Cultures/Velian/60 Realms and Peoples/Velian States/The Velian States Overview.md|Velian States]] and Zanthir. Their communities took shape around a distinctive communion of the Redeemer's faith, and developed through six centuries of life between Covenant rulers and the Atherian and Thalmyric empires. Town, congregation, craft and family memory remain important sources of belonging.
+The Velians are descended from communities of the [[01 Canon Reference/Peoples and Cultures/Atherian Empire/The Atherian Empire Overview.md|Atherian Empire]] established in the desert-margin towns, river districts and cultivated estates of the [[01 Canon Reference/Peoples and Cultures/Velian/60 Realms and Peoples/Velian States/The Velian States Overview.md|Velian States]] and [[01 Canon Reference/Peoples and Cultures/Ahl-e-Ahd/60 Realms and Peoples/Emirate of Zanthir/Emirate of Zanthir Overview.md|Zanthir]]. Their communities took shape around the distinctive communion now called the [[01 Canon Reference/History/50 Redeemer and Conversion/The Velian Church.md|Velian Church]], and developed through six centuries of life between [[01 Canon Reference/Peoples and Cultures/Ahl-e-Ahd/The Ahl-e-Ahd Overview.md|Covenant]] rulers and the Atherian and [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/Thalmyric Empire Overview.md|Thalmyric]] empires. Town, congregation, craft and family memory remain important sources of belonging.
 
 Their present country contains churches, irrigation works, vineyards, orchards, forts and several kinds of local government. Its towns connect societies that use different languages and worship in different ways. Velian physicians, translators and copyists have consequently held an important place in frontier life.
 
@@ -49,4 +49,7 @@ In 1360, Emir Badis and the client-state compacts protect much of the Church's i
 
 ## Further reading
 
-Begin with the [[Historical Atlas of the Velians]] for their formation, then follow [[01 Canon Reference/Peoples and Cultures/Velian/60 Realms and Peoples/Velian States/The Velian States Overview.md|the Velian States]] for present government. [[The Velian Church]] explains the doctrinal dispute and worship; [[The People of the Lamp]] describes the protections under which many congregations live.
+- **History:** Begin with the [[Historical Atlas of the Velians]] for the formation of the people and their frontier communities.
+- **Government and place:** Continue with [[01 Canon Reference/Peoples and Cultures/Velian/60 Realms and Peoples/Velian States/The Velian States Overview.md|the Velian States]] for the present political landscape.
+- **Faith and legal status:** [[The Velian Church]] explains doctrine and worship, while [[The People of the Lamp]] describes the protections and inequalities under which many congregations live.
+- **Compare cultures:** Return to [[Cultures MOC|Peoples and Cultures]] for the other principal societies of the known world.

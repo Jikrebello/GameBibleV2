@@ -3,8 +3,8 @@ type: legend
 status: canon
 canon_level: local
 visibility: public
-era: ["c. 1400–800 BR; City-States"]
-region: ["Atherian coastal city-state belt"]
+era: ["c. 1000 BR; Age of City-States"]
+region: ["Verion, an eastern Atherian assembly port"]
 culture: ["early Atherian civic and maritime communities"]
 related_factions: []
 appears_in: []
@@ -12,53 +12,54 @@ needs: []
 tags: [world-historical-atlas, received-tradition]
 garden_id: G-07
 authority_layer: stories-told
-aliases: ["The Key Bent in a Murderer's Hand"]
+aliases: ["The Key Bent in a Murderer's Hand", "The Bent-Key Fellowship"]
 ---
 # The Key Bent in a Murderer's Hand
 
-> **Stories told.** The local telling and the material or customary remainder below are established. A claimed original object, miraculous response, famous identity or supernatural explanation is not authenticated merely by this article.
+**The Key Bent in a Murderer's Hand** is Verion's remembered account of the unlikely conspirators who exposed a false sexual accusation, robbed the civic archive and defended the city from the mercenaries hired to restore its corrupt creditors. It combines a legal precedent with an uneasy foundation story: its celebrated locksmith had killed an archive guard, and the victorious soldier founded the dynasty which later made the fellowship respectable.
+
+> **Stories told.** The event and its principal participants are established, but speeches, names and later ceremonial scenes vary between civic, legal and popular tellings.
 
 ## Historical setting
 
-**c. 1400–800 BR; City-States.** Atherian coastal city-state belt. This tradition belongs to [[Age of City-States]]; its cultural bearers are early Atherian civic and maritime communities.
+**c. 1000 BR; Age of City-States.** Verion was an eastern Atherian assembly port whose creditor and shipping houses dominated its judges, grain stores and debtor sales. Its principal civic records were kept on clay tablets.
 
-It is told in the heroic city-state belt before Atherian political synthesis. Its survival does not make every singer's version a complete account of the event.
+## Historical basis
+
+Two elders falsely accused a married woman after she refused their sexual demands. A debt thief proposed questioning them separately, intending to distract the archive staff while he stole the tablets that threatened his sister's children. Their contradictory answers instead exposed the accusation. Evidence found during the theft connected the accusers to seized houses, bought judges and diverted military grain.
+
+The archive robbery brought together the thief, the accused woman's servant, a disgraced soldier, a locksmith, a market singer and a foreign-born merchant widow. The locksmith killed an archive guard. A fire destroyed some tablets but fired others hard enough to preserve evidence the conspirators meant to erase. The exposed houses then hired a foreign mercenary commander, promising him grain, confiscated homes, debtor sales and harbour privileges if he restored their control.
+
+The widow had lived in Verion for years. Her spouse was killed resisting the conspirators' grain seizure. She suggested a political and household alliance to gain a private invitation from the commander, relying on his lechery to make him presume an offer she had not made. After he drank and dismissed his guards, she killed him in his sleep with his ceremonial sword and carried away his head.
+
+The city survived the siege. The falsely accused woman refused office and left Verion. The soldier's emergency command became hereditary rule, and his dynasty suppressed the fellowship's criminal beginnings. The locksmith later heated and bent the archive key rather than give the new ruler uncontested control of the records; the title remembers that the hand which refused tyranny was also guilty of murder.
 
 ## The tale
 
-Two elders demanded sex from a married woman and, when she refused, accused her of adultery before a city eager to execute her. A debt thief heard the men's stories differ over the tree beneath which the supposed crime occurred. He cared less for justice than for the tablet locked in the same archive—the record that would sell his sister's children.
+Verion's singers say the thief entered the hearing only to clear a path to the archive. He asked each elder beneath which tree the offence had occurred. Their answers disagreed, and the woman lived long enough for the fellowship to steal the records behind the accusation.
 
-He gathered an unlikely fellowship: the condemned woman's servant, a disgraced soldier, a locksmith, a market singer and a foreign widow who had entered the enemy camp under a false promise. Their first aim was theft. Their discoveries linked the false accusation to a network of seized houses, bought judges and military grain.
+The clay archive burned during the rising. Some debts vanished in smoke; other tablets hardened in the heat and named the houses which had purchased judges and stolen grain. Those houses returned behind foreign spears. The widow crossed their lines dressed for a private supper, let the commander mistake appetite for agreement, and returned before dawn with his head and sword.
 
-The woman lived because the elders were questioned apart. The city did not become clean. Riots followed. The foreign widow deceived the besieging commander, killed him with her own hand and returned carrying his head. The fellowship opened prisons, burned some debt tablets and preserved others so that powerful thieves could still be named.
+The fellowship opened the prisons and the soldier organised the walls. When victory made him ruler, he asked for the archive key. The locksmith put it in the brazier, bent it before the assembly and confessed that a key held by a murderer should not decide who owned the city.
 
-After victory, the locksmith bent the archive key rather than hand it to a new ruler. One companion wanted an amnesty. Another wanted executions. A third used the restored city to begin a dynasty that later removed the original theft from every public account.
-
-The falsely accused woman declined every office they offered. She chose instead to sit outside the rebuilt hearing hall, where anyone summoned inside could see a living person who had survived respectable men's desire, lies and intended execution.
+Later generations placed an empty witness-seat outside the hearing hall and said the accused woman had remained there to advise every defendant. Older accounts preserve the harder ending: she refused Verion's honours and departed.
 
 ## Why it is remembered
 
-It joins bodily danger, criminal courage and political ambiguity. The woman is not merely a reason for men to become heroes: her refusal and testimony change the city before their weapons do.
+The tradition joins separated-witness procedure to a warning about civic rescue by compromised people. It credits the accused woman's refusal and testimony without pretending that her survival purified Verion or that victory absolved the fellowship.
 
 ## How tellers differ
 
-Legal schools praise separated questioning. Soldier songs praise the widow's killing. Thieves insist the key was bent because no straight key should open a crooked city.
+Legal schools centre the contradictory testimony. Soldier songs centre the siege and the widow's killing. Dynastic histories call the conspirators lawful patriots; thieves insist the bent key proves that a crooked city cannot be kept by any straight succession.
 
 ## What remains
 
-At some amnesties people heat keys, bend them and throw them into a common brazier.
-
-## History and belief
-
-The practice, landscape or physical object described here has a place in the present world. Statements that it is the original relic, that a voice is the original dead person, or that a victory proves divine approval belong to the tradition unless a separate history establishes them.
-
-Names, precise sites and competing supernatural claims may remain uncertain without making the tradition placeless.
+Verion's later courts kept witnesses apart before comparing testimony. At some amnesties, people heat keys, bend them and cast them into a common brazier. The empty witness-seat commemorates the exiled woman; it is not evidence that she stayed in the city.
 
 ## Read onward
 
-- [[Historical Atlas of Atheria]]
-- [[The First Atherian City-States]]
-
 - [[Age of City-States]]
+- [[River Leagues and Sea-Kings of the Early World]]
+- [[Historical Atlas of Atheria]]
 - [[Myths and Legendary Histories MOC]]
 - [[World Historical Atlas MOC]]

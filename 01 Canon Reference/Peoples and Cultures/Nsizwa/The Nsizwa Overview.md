@@ -13,7 +13,7 @@ tags: []
 ---
 # The Nsizwa Overview
 
-The Nsizwa are a people of the far southwestern savannas, escarpments and highland plateaus, governed from the fortified capital of Mzalu's Hold. Cattle, farming, metalwork and regional trade support a society in which military service and the remembrance of the dead carry considerable authority. Their Spirit-Keepers preserve bodies, praise-names and rites associated with ancestors, including the awakening of the champions known as Izivukwa.
+The Nsizwa are a people of the [[Geography and Homeland|far southwestern savannas, escarpments and highland plateaux]], governed from the fortified capital of Mzalu's Hold. Cattle, farming, metalwork and regional trade support a society in which military service and the remembrance of the dead carry considerable authority. Their [[Religion and Spirituality|Spirit-Keepers]] preserve bodies, praise-names and rites associated with ancestors, including the awakening of the champions known as [[Izivukwa Continuity|Izivukwa]].
 
 Ancestor-shaped apparitions and awakened bodies are observable features of Nsizwa life. The Nsizwa generally identify these presences with their honoured dead. The identity of a particular apparition remains disputed, even where witnesses agree about what it did.
 
@@ -39,7 +39,7 @@ Beyond the settled valleys lie the Great Salt Flats. Nsizwa tales describe disgr
 
 The War-King holds hereditary authority, known as Yempi's crown. Eligibility alone is insufficient in Nsizwa understanding: the ancestors must recognise the claimant's worth. The ruler is expected to lead in battle and seek counsel through the remembered kings.
 
-Horn-Captains serve as advisers, commanders and regional governors. Their standing rests on service, loyalty and recognised judgement. They collect tribute and bring warriors into the royal military order.
+[[Society and Structure|Horn-Captains]] serve as advisers, commanders and regional governors. Their standing rests on service, loyalty and recognised judgement. They collect tribute and bring warriors into the royal military order.
 
 Men train from youth among the Spear-Sworn and serve in organised war-regiments. The elite Storm-Sworn bear sacred tattoos and storm-forged spears dedicated to ancestral names. Spirit-Keepers work as religious teachers, healers and interpreters of omens. The preservation and awakening of Izivukwa is among their most important duties.
 
@@ -65,11 +65,11 @@ In severe danger, awakened Izivukwa bring the remembered skills and force of pre
 
 ## Festivals, craft and exchange
 
-At the Night of a Thousand Fires, warriors recount battles and Spirit-Keepers seek omens in the flames. Apparitions are sufficiently common that disagreement centres on whom the witnesses have seen. The festival gives public form to stories otherwise preserved within households and regiments.
+At the [[Culture and Traditions|Night of a Thousand Fires]], warriors recount battles and Spirit-Keepers seek omens in the flames. Apparitions are sufficiently common that disagreement centres on whom the witnesses have seen. The festival gives public form to stories otherwise preserved within households and regiments.
 
 The Bloodless Hunt tests a young warrior's ability to stalk and capture a great beast bare-handed. Duels of the Honored Dead place disputes under ancestral witness: fighters invoke their lineages, and dreams, voices or brief manifestations may accompany the contest. The winner is regarded locally as favoured by the spirits.
 
-Trade carries cattle, weapons, hides, ivory, beadwork and talismans between neighbouring societies. The Ukukhanya river cities exchange gold, copper, beads and other goods with the Nsizwa, while diplomatic marriages accompany a history of rivalry. Haze-Marked warbands attack villages, caravans and herds from the salt-country approaches, although other clans trade salt or serve as guides. The Black-Tooth Clans, formed from Nsizwa deserters, exiles and ambitious commanders, hire out their military skills and raid former kin. Captured Black-Tooth warriors face execution and removal from public ancestral remembrance; their families often preserve the forbidden names in private.
+Trade carries cattle, weapons, hides, ivory, beadwork and talismans between neighbouring societies. The [[Neighboring Peoples of the Nsizwa|Ukukhanya river cities]] exchange gold, copper, beads and other goods with the Nsizwa, while diplomatic marriages accompany a history of rivalry. Haze-Marked warbands attack villages, caravans and herds from the salt-country approaches, although other clans trade salt or serve as guides. The Black-Tooth Clans, formed from Nsizwa deserters, exiles and ambitious commanders, hire out their military skills and raid former kin. Captured Black-Tooth warriors face execution and removal from public ancestral remembrance; their families often preserve the forbidden names in private.
 
 ## Remembered figures and the present kingdom
 
@@ -79,4 +79,7 @@ These figures remain important to a kingdom whose wealth, defence and religious 
 
 ## Further reading
 
-Read the [[Historical Atlas of the Nsizwa]] for formation, then [[Geography and Homeland]] and [[Society and Structure]] for the settled kingdom. [[Religion and Spirituality]], [[Culture and Traditions]] and [[Key Figures and Legends]] develop its received accounts. [[Nsizwa Economy and Trade]], [[Warfare and Military Tactics]] and [[Neighboring Peoples of the Nsizwa]] explain its regional connections.
+- **History and homeland:** Begin with the [[Historical Atlas of the Nsizwa]], then [[Geography and Homeland]] and [[Society and Structure]] for the settled kingdom.
+- **Faith and memory:** [[Religion and Spirituality]], [[Izivukwa Continuity]], [[Culture and Traditions]] and [[Key Figures and Legends]] distinguish observed manifestations from Nsizwa interpretations and received accounts.
+- **Work, warfare and neighbours:** [[Nsizwa Economy and Trade]], [[Warfare and Military Tactics]] and [[Neighboring Peoples of the Nsizwa]] explain the kingdom's material and regional relationships.
+- **Compare cultures:** Return to [[Cultures MOC|Peoples and Cultures]] for the other principal societies of the known world.

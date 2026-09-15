@@ -86,7 +86,7 @@ Most subjects encountered the empire through hunger, childbirth, work and burial
 
 In Cloudstep districts, a decree to kill selected human infants was enforced unevenly but lethally. Midwives substituted birth marks and moved mothers through service houses. Some children survived; others were murdered, and captured attendants were tortured or executed. In Urum-facing mortuary towns, burial thieves recovered bodies before reclamation crews stripped or processed them. Their opposition was not merely a disagreement about funeral etiquette: seizure deprived families of the dead, while punishment added the thieves' bodies to the same works.
 
-The traditions of [[G-01 - The People Beneath the Bowl|the People Beneath the Bowl]] and [[G-02 - The Company of the Broken Measure|the Broken Measure]] belong to this world. Similar tricks spread without a secret continental organization. One estate's blind spot was not the master key to Giant dominion.
+The traditions of [[G-01 - The People Beneath the Bowl|the People Beneath the Bowl]] and [[G-02 - The Company of the Broken Measure|the Broken Measure]] belong to this world. The Broken Measure cycle combines two histories: six enslaved household workers exploited one estate's contradictory ration rules to rescue a sick kitchen girl, while a different Giant-blooded human undertook punitive labours after killing people he loved and later broke a measuring rod during an estate liberation. Similar tricks spread without a secret continental organisation. One estate's blind spot was not the master key to Giant dominion, and the strongman's later service did not cancel the murder which preceded it.
 
 ## Crowns that outlived their founders
 

@@ -13,7 +13,7 @@ tags: []
 origin_layer: shadowlands
 continuity: wrath-rewritten-life
 intelligence: cunning
-moral_agency: limited
+moral_agency: none
 encounter_tier: aligned
 rank: [apex]
 creature_family: Grobi
@@ -26,11 +26,11 @@ manifestation_class: []
 ---
 # Ogres
 
-Ogres are the fourth Grobi stage: bodies built for siege, hauling, and survival through injuries that would stop smaller stages. Their scale imposes an enormous food demand and narrows attention toward immediate bodily needs, but does not erase memory, cunning, recognition, or all moral agency.
+Ogres are the fourth Grobi stage: bodies built for siege, hauling and survival through injuries that would stop smaller stages. Their scale imposes an enormous food demand and narrows attention towards immediate bodily needs without erasing memory, cunning or recognition.
 
 ## Ecology and Lifecycle
 
-Most ogres grow from orcs at the center of exceptionally successful raiding economies. Few warbands can sustain more than one for long. Starvation strips fat, slows regeneration, and may force an acquired ogre back toward orc scale. A catastrophic injury or further surplus can instead begin the unstable fifth-stage crisis that usually kills the body and rarely produces a [[Trolls|troll]].
+Most ogres grow from orcs at the centre of exceptionally successful raiding economies. Few warbands can sustain more than one for long. Starvation strips fat, slows regeneration, and may force an acquired ogre back towards orc scale. A catastrophic injury or further surplus can instead begin the unstable fifth-stage crisis that usually kills the body and rarely produces a [[Trolls|troll]].
 
 ## Warband Role
 
@@ -48,9 +48,9 @@ Ogres break gates, move timber and stone, carry winter stores, anchor shield lin
 
 Ogres use mass, reach, thrown debris, and whatever the warband places in their hands. They are vulnerable to heat stress, difficult terrain, isolation from food, and tactics that force repeated changes of direction. Their regeneration consumes reserves quickly; a long fight can be safer than a short attempt to trade blows.
 
-## Society and Agency
+## Pack role and behaviour
 
-Warbands may treat ogres as kin, symbols, weapons, or captives. An ogre can obey, bargain, remember insult, protect a dependent, or choose predation. Hunger constrains those choices without making them meaningless.
+Warbands treat ogres as dominant pack members, symbols, weapons or captives. An ogre can obey, bargain, remember insult and protect Grobi whose survival maintains its own food and authority. Its choices remain organised around hunger, dominance and predation.
 
 ## Weakness and Permanent Defeat
 

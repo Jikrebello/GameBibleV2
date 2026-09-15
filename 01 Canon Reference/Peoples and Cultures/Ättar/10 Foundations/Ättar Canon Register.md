@@ -19,21 +19,24 @@ This register controls authorial facts about the Ättar. Authority descends thro
 
 - The Ättar are a distinct cousin people of the Folk, not a Folk tribe.
 - Folk and Ättar ancestors are principally Orphaned southern populations that survived outside the Glass Ark; neither people is a direct Ark branch.
+- Lesser Giant and giant-blooded prisoners from Nhaldur entered the shared southern population. Most later descendants were human; rare true Giant births retained Giant continuity.
 - The four totems are great regional kindreds containing many rival halls.
 - No permanent sovereign rules all Ättar. A chief-king is an acclaimed war leader, not a crowned national monarch.
 - Totem and moon-blood pass through an acknowledged father. Social adoption can place a child within a hall, but it cannot manufacture full pact inheritance.
 - Male institutions control chiefship, raiding, sworn war service, and formal berserker training. Women control household property, inheritance memory, healing, fosterage, and most prophecy. Returned Moon-Seers stand outside this division.
+- Connected hall districts hold annual All-Things at which chiefs and free men hear cross-district cases, witness succession and decide winter levies. No gathering rules all Ättar.
 
 ## Fixed Metaphysics
 
 - Mother Moon is the true patron; her lesser Moon Court administers the pact.
 - The bargain begins in the [[War of the Empty Halls]] around 1600 BR, not during the Exodus.
-- Every old-rite hall chief must demonstrate one hybrid form at installation.
+- The first petition named four chiefs and asked for beasts in their bodies and fury in the people sworn beneath them. The Court made the hybrid form hereditary in those paternal office lines and spread lesser rage through the wider oath population.
+- Every old-rite hall chief descended from a pact line must demonstrate one hybrid form at installation.
 - Each ruling line owes the pact-heir's first living child once per generation, regardless of the child's civil status.
 - The changeling departs and the taken child returns at adolescence. The returned child becomes the hall's Moon-Seer and is inviolably free.
 - Skinwalkers have human and hybrid forms only. They do not become ordinary or giant animals.
 - Transforming does not consume memories. Moontouched decline follows prolonged or excessive hybrid use and is neither immediate nor inevitable.
-- Berserker rage is a related inherited pact-effect, not a new magic family. Iron-skin paint is toxic alchemy activated by rage.
+- Berserker rage is the lesser inherited pact-effect carried through the broader Ättar population, not a new magic family. Iron-skin paint is toxic alchemy activated by rage.
 
 ## Fixed Law and Moral Rule
 
@@ -55,4 +58,5 @@ The Great Prophet is not authorially the First Skinwalker. Per-transformation me
 ## Navigation
 
 - [[01 Canon Reference/Peoples and Cultures/Ättar/Ättar Overview.md|Ättar Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Ättar/70 History and Conflicts/The Ättar before the Great Keel-Taking.md|The Ättar before the Great Keel-Taking]]
 - [[Ättar Reconstruction Audit]]

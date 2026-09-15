@@ -79,16 +79,16 @@ All seventy-five legacy IDs remain in the nursery with their stable blocks. No G
 | G-66 | [[G-66 - Not for the Lower Roster]] | c. 2400–2260 BR; Late Chains and Unbinding | Urum-facing mortuary estates | slave-descendant communities | [[Age of Chains]] | stories told; remainder exists; claims distinguished in article |
 | G-69 | [[G-69 - The Four Faces of One Victory]] | c. 2400–2260 BR; Late Chains and Unbinding | Sarrakai canal country | slave-descendant communities | [[Age of Chains]] | stories told; remainder exists; claims distinguished in article |
 | G-04 | [[G-04 - The Seven Who Stopped Seeking Home]] | c. 2165–1750 BR; overlapping Scattering and early Hearths | southern dispersal corridors and Near-Glass borderlands | Ark-derived and neighbouring Orphaned communities | [[Age of Scattering]] | stories told; remainder exists; claims distinguished in article |
-| G-05 | [[G-05 - The Iron Ring before the Crown]] | c. 1900–1400 BR; Hearths and First Kings | southern hearthlands | Folk, related Ättar and early Atherian tellers | [[Age of Hearths and First Kings]] | stories told; remainder exists; claims distinguished in article |
+| G-05 | [[G-05 - The Iron Ring before the Crown]] | c. 1900–1400 BR; Hearths and First Kings | Hartheni middle forests | Hartheni and neighbouring Folk communities | [[Age of Hearths and First Kings]] | stories told; historical basis and later accretions distinguished in article |
 | G-06 | [[G-06 - The Wolf, the Lantern and the House That Heard Them Laugh]] | c. 1900–1400 BR; Hearths and First Kings | Folk forest margins adjoining proto-Atherian roads | Folk, related Ättar and early Atherian tellers | [[Age of Hearths and First Kings]] | stories told; remainder exists; claims distinguished in article |
-| G-07 | [[G-07 - The Key Bent in a Murderer's Hand]] | c. 1400–800 BR; City-States | Atherian coastal city-state belt | early Atherian civic and maritime communities | [[Age of City-States]] | stories told; remainder exists; claims distinguished in article |
-| G-08 | [[G-08 - The Road That Refused Its Last Stone]] | c. 800–350 BR; Age of Stars | Atherian roads and city leagues | Atherian workers and later provincial inheritors | [[Age of Stars]] | stories told; remainder exists; claims distinguished in article |
+| G-07 | [[G-07 - The Key Bent in a Murderer's Hand]] | c. 1000 BR; City-States | Verion, an eastern Atherian assembly port | early Atherian civic and maritime communities | [[Age of City-States]] | one historical crisis; later civic and dynastic retellings distinguished in article |
+| G-08 | [[G-08 - The Road That Refused Its Last Stone]] | c. 800–350 BR; Age of Stars | Aurin trunk road from Caleran through Enathi, Serathi and Vardeni country | Atherian and Aurin road workers | [[Age of Stars]] | historical labour refusal distinguished from lone-surveyor compression |
 | G-19 | [[G-19 - The Hearth Carried Twice]] | c. 2165–1750 BR; overlapping Scattering and early Hearths | an independent refugee hearth on an Egg White adjacency | Ark-derived and neighbouring Orphaned communities | [[Age of Scattering]] | stories told; remainder exists; claims distinguished in article |
 | G-56 | [[G-56 - The Empty Seat Facing Outward]] | c. 2165–2130 BR | outward threshold of the Glass | Ark-derived and neighbouring Orphaned communities | [[Age of Scattering]] | stories told; remainder exists; claims distinguished in article |
 | G-57 | [[G-57 - The Gate Opened during Supper]] | c. 2050–1900 BR | proto-Atherian river-gate settlement belt | Ark-derived and neighbouring Orphaned communities | [[Age of Scattering]] | stories told; remainder exists; claims distinguished in article |
-| G-58 | [[G-58 - The Harbour Founded Twice]] | c. 2165–1750 BR; overlapping Scattering and early Hearths | coast later connected to the Sestaran harbour world | one Braided harbour population, not all Sestarans | [[Age of Scattering]] | stories told; remainder exists; claims distinguished in article |
+| G-58 | [[G-58 - The Harbour Founded Twice]] | c. 2165–1750 BR; overlapping Scattering and early Hearths | an ancestral harbour of Sermora | one Braided harbour population, not all Sestarans | [[Age of Scattering]] | occupying landing and liberation established; conciliatory compression distinguished in article |
 | G-59 | [[G-59 - The Walking Court and the Wall That Stayed]] | c. 1950–1750 BR | Tarkhan-facing Near-Glass wells | Ark-derived and neighbouring Orphaned communities | [[Age of Scattering]] | stories told; remainder exists; claims distinguished in article |
-| G-60 | [[G-60 - The Bride of the Dry Road]] | c. 1950–1750 BR | Near-Glass caravan and well-country | Ark-derived and neighbouring Orphaned communities | [[Age of Scattering]] | stories told; remainder exists; claims distinguished in article |
+| G-60 | [[G-60 - The Bride of the Dry Road|The Son-in-Law and the Stolen Gods]] | c. 1950–1750 BR | Near-Glass caravan and Tarkhan-facing well-country | Ark-derived and neighbouring Orphaned communities | [[Age of Scattering]] | one mixed household; later red-veil inversion distinguished in article |
 | G-61 | [[G-61 - The Hall That Faced the Grobi]] | c. 1900–1650 BR, before the War of the Empty Halls | southern cold belt and Grobi-facing uplands | Folk, related Ättar and early Atherian tellers | [[Age of Hearths and First Kings]] | stories told; remainder exists; claims distinguished in article |
 | G-63 | [[G-63 - The Peace Feast at Nine Hearths]] | c. 2165–1750 BR; overlapping Scattering and early Hearths | one southern Scattering refuge basin, separate from the first gate and harbour | Ark-derived and neighbouring Orphaned communities | [[Age of Scattering]] | stories told; remainder exists; claims distinguished in article |
 | G-64 | [[G-64 - The Prisoners Who Became a Border]] | late City-States into early Stars; c. 900–700 BR | one inland summoning corridor, not Orthea | Atherian workers and later provincial inheritors | [[Age of Stars]] | stories told; remainder exists; claims distinguished in article |
@@ -596,7 +596,7 @@ There are 315 source identifiers, including superseded identifier forms, placeme
 | TF-06 | The Furnace League | I–II | `integrate` | [[Additional Mortal Lives and Frontier Traditions#^atlas-tf-06]] | stories told; localized past and inherited practice |
 | TF-07 | The Well of Three Laws | I–II | `integrate` | [[Additional Mortal Lives and Frontier Traditions#^atlas-tf-07]] | stories told; localized past and inherited practice |
 | TF-08 | The Court That Walked and the Wall That Stayed | I–II | `graft` | [[G-59 - The Walking Court and the Wall That Stayed]] | stories told; tradition and remainder established |
-| TF-09 | The Bride of the Dry Road | I–II | `graft` | [[G-60 - The Bride of the Dry Road]] | stories told; tradition and remainder established |
+| TF-09 | The Son-in-Law and the Stolen Gods | I–II | `graft` | [[G-60 - The Bride of the Dry Road|The Son-in-Law and the Stolen Gods]] | historical household established; red-veil bride retained as later inversion |
 | TF-10 | The Hall That Faced the Grobi | I–II | `graft` | [[G-61 - The Hall That Faced the Grobi]] | stories told; tradition and remainder established |
 | TF-11 | The Oar-King Without a Country | I–II | `graft` | [[G-73 - The Oar-King without a Country]] | stories told; tradition and remainder established |
 | TF-12 | The City That Conquered Its Ancestors | I–II | `integrate` | [[Additional Mortal Lives and Frontier Traditions#^atlas-tf-12]] | stories told; localized past and inherited practice |
@@ -995,6 +995,39 @@ The author approved Package C for canon integration on 12 September 2026. [[Pack
 The integration adds Vathra to the lesser Giant crowns without changing the Five Imperial Horizons. It fixes the Great Unyoking as one regional history within the Great Unbinding. Ancient Tarkhan and ancient Ahdari remain distinct peoples with overlapping Narashi houses, markets and winter gatherings. Rethmar remains separate from Tergai.
 
 Sairat's reported returns, Molqara's present course, Yazuran's destination, the First Road-Mother's name and fate, Kelvara's actor-slot identity and all protected Weirds remain unresolved. No Garden root was added; G-59's anachronistic rider was corrected to a camel scout. Campaigns, the application and the map are unchanged.
+
+## Ancient World Package D — Folk, Ättar and the southern cold world
+
+The author approved Package D for canon integration on 13 September 2026. [[Package D - Folk Ättar and Southern Cold World Canon Integration Review]] records the promoted history, access boundaries, metaphysical distinctions and deliberate Grobi agency retcon.
+
+| Research source | Canonical destination | Incorporated result |
+|---|---|---|
+| [[Historical Atlas of the Southern Cold World before Atheria]] | [[Historical Atlas of the Southern Cold World]] | connected regional history from Nhaldur's last century to the plural southern world of 350 BR |
+| [[Nhaldur - The Penal Crownland and the First Rewriting]] | [[Nhaldur and the First Rewriting]] | penal crownland, Key Houses, six principal rings, War of Open Keys and Wrath's categorical creation of Grobi |
+| [[The Folk before Atheria - Rivers Forests and Upland Gords]] | [[The Folk before Atheria]] | Orphaned and Nhalduran mixture, regional peoples, All-Things, leagues, gords, work, wars and Atherian contact |
+| [[90 Archive & Drafts/10 Research/Mythic and Sacred History/The Ättar before the Great Keel-Taking.md|The Ättar before the Great Keel-Taking]] | [[01 Canon Reference/Peoples and Cultures/Ättar/70 History and Conflicts/The Ättar before the Great Keel-Taking.md|The Ättar before the Great Keel-Taking]] and [[War of the Empty Halls]] | hall formation, Nine-Drum campaign, Moon bargain, civil consequences and early sea-kings |
+| [[The Deep Voice - Masters Wars and the Quiet Measure]] | [[The Deep Voice]] | Veyrun resonance, schools, three masters, Seven Gords, Dramovar and the Quiet Measure |
+| [[Grobi before Atheria - Hearths Hosts and Winter Roads]] | [[Grobi History and Pack Life]], [[Grobi Overview]] and the five stage articles | one food-driven lineage, live birth, pack institutions, annual hosts, intelligence without human moral conscience and human captivity as predation |
+| [[Package D - Southern Cold World Sources Collisions and Authorial Review]] | [[Package D - Folk Ättar and Southern Cold World Canon Integration Review]] | approved names, collision rulings, source history, protected matters and promotion boundaries |
+
+Nhaldur is a lesser Giant crownland rather than a new Imperial Horizon. Its fall is one regional history within the Great Unbinding. Folk and Ättar remain principally Orphaned, with later lesser Giant and giant-blooded mixture that never forms a pure race or biological caste. Vardeni and Kreseni retain old kinship without merging. Tidewood, G-61 and the later Great Keel-Taking retain their established places.
+
+The First Rewriting now controls every Grobi account. Wrath directly rebuilt the vacated bodies of 2,014 human captives after their souls entered judgement. Grobi descendants possess intelligence, suffering, language, planning and pack attachment but no Image, human soul or moral conscience. The integration supersedes older descriptions of full Grobi moral agency while preserving human responsibility for human warfare, captivity and reprisal.
+
+Exact coastlines, the Package E island network, the condition of the deepest Nhalduran ruins, complete lineages, protected Weirds and post-1360 outcomes remain open. Package D adds no Garden root and changes no map or wiki application file.
+
+## Pre-350 BR Garden canon harvest
+
+The author approved the developed pre-350 BR Garden roots for canon promotion on 15 September 2026. [[Historical Seed Garden - Full Canon Harvest Review]] records the answers and protected boundaries. G-02 through G-08, G-56 through G-60 and G-71 through G-73 now distinguish their historical bases from received-tale accretions in public Atlas articles; G-01 remains unresolved.
+
+| Public tradition | Authorial event | Civilisation or era destination | Withheld or protected detail |
+|---|---|---|---|
+| G-02–G-04 | estate rescue and separate guilty strongman; abandoned old-cult faction; many unrelated stopped journeys | [[Age of Chains]], [[Age of Exodus]], [[Age of Scattering]] | exact names; total extinction of the Last Cart faction; genealogies of the symbolic Seven |
+| G-05–G-08 | Hartheni warband kingdom; Wolf and Lantern's historical encounter; Verion crisis; Aurin road-gang refusal | [[Age of Hearths and First Kings]], [[Age of City-States]], [[Age of Stars]] | later trial forms and speeches; exact Old Mother genealogy; claimed relics and milestones |
+| G-56–G-60 | commissioned outward scout; hospitality betrayals; ancestral Sermoran harbour occupation and liberation; existing walking-court crisis; son-in-law household and stolen cult images | [[Age of Scattering]], [[Southern Settlement and Maritime Atheria]] | prophetic succession; ethnic immunity under guest-law; person-like indwelling or speech of the stolen images |
+| G-71–G-73 | repeated grain policy and unenforced judgement; Folk–fort fosterage crisis; Oar-King's rise, crimes, rebuke and partial repentance | [[Age of Scattering]], [[Age of Hearths and First Kings]], [[River Leagues and Sea-Kings of the Early World]] | exact speeches and names; authentic bead or oar relics; moral vindication through success or repentance |
+
+The pass stops at 350 BR. It makes no ruling on G-10 or any later-period root.
 
 ## Canon boundaries after integration
 

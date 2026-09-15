@@ -30,7 +30,7 @@ The synthesis brought practical advantages. Travellers could move farther, merch
 
 ## The cost of the measured world
 
-[[G-08 - The Road That Refused Its Last Stone|The Road That Refused Its Last Stone]] follows a useful craft into complicity. The surveyor solves a boundary quarrel; officials extend the marks; forced labour and conquest follow; withholding the last stone cannot close the completed road. Burned settlements and dead labourers remain part of the account.
+The Aurin trunk road absorbed older local paths between Caleran, Enathi, Serathi and Vardeni country. Compact, Ortheian and republican governments successively extended and militarised it for commerce, assessment, messages and troops, using unequal civic standing to impose labour and seize land. [[G-08 - The Road That Refused Its Last Stone|The Road That Refused Its Last Stone]] remembers one mixed gang of coerced Aurin workers and Atherian debt labourers withholding the dedication from a prepared milestone. The repentant surveyor, child-built false milestones and graves beneath every paving stone are later moral compressions of wider harm.
 
 Along another inland corridor, a summoning operation placed mortal prisoners at the boundaries of an infernal map. The map-lord opened a local wound in distance to erase a rival's territory. Both sides then needed enslaved bodies to hold their contradictory routes. The prisoners destroyed the marks sustaining the fortifications and contained the local disaster. The Abyssal wound remained. [[Unknown Histories - Authorial Accounts]] gives the surviving reconstruction, while [[G-64 - The Prisoners Who Became a Border|the public tale]] preserves its nightmare.
 
@@ -52,7 +52,7 @@ Scholars gave older powers coherent family histories, and rulers used those hist
 
 Some legends genuinely preserve local manifestations; others join unrelated events. None proves that the stars commissioned an empire. Nor does a functioning relic authorize every person who carries it. In one cycle a profaned sacred object killed its handler while refusing the conquest for which the ruler wanted to use it.
 
-## Toward unification
+## Towards unification
 
 The Caleran republic's institutions emerged from one part of this city world. Citizenship became a civic status acquired through descent, grant, service and incorporation. Roads, colonies and provincial service allowed Caleran to absorb communities on a scale beyond the older war-settlement houses, although rights remained unequal.
 
@@ -81,6 +81,9 @@ The northern well country remained beyond Caleran's control. Arqeshite and Qahur
 - [[Historical Atlas of Vathra and the Northern Ground]]
 - [[The Tarkhan before the Horse Hordes]]
 - [[The Ahdari before the Covenant]]
+- [[Historical Atlas of the Southern Cold World]]
+- [[The Folk before Atheria]]
+- [[01 Canon Reference/Peoples and Cultures/Ättar/70 History and Conflicts/The Ättar before the Great Keel-Taking.md|The Ättar before the Great Keel-Taking]]
 - [[Lethren Ostar#The disaster at Rethmar|The defence of Rethmar]]
 
 ## Local tales and surviving memories

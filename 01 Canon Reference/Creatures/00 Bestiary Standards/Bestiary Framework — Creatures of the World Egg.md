@@ -119,7 +119,7 @@ A family may contain several ranks. `rank` records the dossier's most useful ban
 
 ## Family Rulings Already Locked
 
-- [[Grobi Overview|Grobi]] are Wrath-rewritten life, not humans with damaged souls. Trolls are the rare stable fifth stage.
+- [[Grobi Overview|Grobi]] are intelligent Wrath-rewritten life without human souls or moral conscience. Domination, fighting and consumption define their creaturely ends. Trolls are the rare stable fifth stage.
 - [[The Idols Overview|Idols]] and Menhir are transformed `yolk-sovereignty`, not ordinary angels, gods, or reusable fallen-angel species.
 - [[Idol Manifestation and Feeding]] separates Shadow fauna, dependent Masks, and culpable Archmasks. Full Idols never enter Material reality.
 - [[Shadowlands and Idols MOC]] controls exactly forty-two forms, including wild ecologies independent of the seven.

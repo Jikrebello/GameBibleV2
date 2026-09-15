@@ -13,7 +13,7 @@ tags: []
 ---
 # Winter War and the Grobi Frontier
 
-Each winter pushes Grobi bands and hosts north and west from the deep cold belt. Grey-Wolf halls receive the first pressure, but every kindred owes some combination of ships, scouts, food, refuge space, healers, iron, or fighters.
+Each winter brings a new Grobi war season. Packs which survived the previous cold breed and feed through spring, summer and autumn. Goblins grow towards hobgoblin and orc stages, while the richest hosts maintain ogres. The enlarged warbands move north and west when the deep cold belt can no longer feed them. Grey-Wolf halls receive the first pressure, but every kindred owes some combination of ships, scouts, food, refuge space, healers, iron or fighters.
 
 Halls that do not take the keel often devote their strongest season to this war. Lion-Mane crews patrol frozen coasts and estuaries; Hornwall halls move cattle and wagons; Bearshield warriors hold forest forts; Grey-Wolf scouts maintain beacons and migration intelligence.
 

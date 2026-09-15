@@ -31,6 +31,12 @@ The male free assembly chooses among eligible paternal pact lines. Wealth and an
 
 Women do not vote in the ordinary war assembly, but household property, stored food, marriage alliances, genealogical testimony, and ritual approval give senior women substantial practical power.
 
+## The annual All-Thing
+
+Once after harvest, chiefs and free men from a connected group of hall districts meet in open ground. The All-Thing hears disputes which local assemblies cannot settle, witnesses succession, declares outlawry and decides the common Grobi watch. A chief cannot bind an absent hall unless its recognised men entrusted a speaker to attend.
+
+Women, thralls and dependants affected by a judgement normally speak through a free man. Senior female household heads can exert considerable pressure through property, genealogy and control of stores, but this practical influence does not give them an equal formal right of speech.
+
 ## The Berserker Challenge
 
 A sworn hall berserker may challenge a chief for cowardice, tyranny, oath-breaking, or moon-loss. The accusation must be public and witnessed. Seers and household elders may testify, but the contest decides hall-right. A chief who refuses loses ritual legitimacy; a challenger who fails is dead, outlawed, or permanently dishonored.

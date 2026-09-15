@@ -13,7 +13,7 @@ tags: []
 origin_layer: shadowlands
 continuity: wrath-rewritten-life
 intelligence: cunning
-moral_agency: limited
+moral_agency: none
 encounter_tier: aligned
 rank: [apex]
 creature_family: Grobi
@@ -40,16 +40,16 @@ Troll formation requires all of the following:
 - prolonged exposure to Wrath-saturated battlefields, massacre grounds, or warband worship;
 - enough dominance to consume rivals before the growth crisis reverses.
 
-Most candidates die, split into malformed tissue, or starve back toward ogre form. A successful troll no longer readily reverts. Its regenerative organs consume its own reserves, nearby flesh, and sometimes living prey even while the creature appears dormant.
+Most candidates die, split into malformed tissue, or starve back towards ogre form. A successful troll no longer readily reverts. Its regenerative organs consume its own reserves, nearby flesh, and sometimes living prey even while the creature appears dormant.
 
-## Intelligence and Agency
+## Intelligence and appetite
 
-Trolls preserve cunning, recognition, territorial memory, and a brutal ability to learn from failed hunts. Their enormous metabolic burden narrows attention toward food, pain, dominance, and the destruction of threats. Some retain fragments of a former orc leader's tactics or speech. None becomes mindless merely by reaching the fifth stage, but most have less practical freedom than a hobgoblin or orc.
+Trolls preserve cunning, recognition, territorial memory and a brutal ability to learn from failed hunts. Their enormous metabolic burden concentrates attention upon food, pain, dominance and the destruction of threats. Some retain fragments of a former orc leader's tactics or speech. They remain intelligent predators without moral agency and possess less tactical freedom than hobgoblins or orcs.
 
 ## Signs
 
 - prey stripped of fat and marrow before muscle;
-- severed Grobi flesh trying to crawl toward the largest surviving mass;
+- severed Grobi flesh trying to crawl towards the largest surviving mass;
 - deep prints accompanied by handholds torn into frozen ground;
 - trees pushed over and chewed where bark carries salt or fungus;
 - warbands abandoning full stores without fighting;

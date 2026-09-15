@@ -13,7 +13,7 @@ tags: []
 origin_layer: shadowlands
 continuity: wrath-rewritten-life
 intelligence: sapient
-moral_agency: full
+moral_agency: none
 encounter_tier: aligned
 rank: [standard, specialist]
 creature_family: Grobi
@@ -26,17 +26,17 @@ manifestation_class: []
 ---
 # Hobgoblins
 
-Hobgoblins are the second Grobi stage, either born at that baseline or grown from goblins through sustained surplus. They commonly match an adult human in size and practical intelligence. Most durable warbands depend upon them for organization.
+Hobgoblins are the second Grobi stage, either born at that baseline or grown from goblins through sustained surplus. They commonly match an adult human in size and practical intelligence. Most durable warbands depend upon them for organisation.
 
 ## Ecology and Lifecycle
 
-A grown hobgoblin must continue eating above goblin maintenance or gradually revert. A born-stage hobgoblin can starve and weaken but does not safely become a goblin. Further surplus, repeated violence, and command of food can drive the body toward [[Orcs|orc]] scale.
+A grown hobgoblin must continue eating above goblin maintenance or gradually revert. A born-stage hobgoblin can starve and weaken but does not safely become a goblin. Further surplus, repeated violence, and command of food can drive the body towards [[Orcs|orc]] scale.
 
 ## Warband Society
 
 Hobgoblins establish watches, shield ranks, supply divisions, hunting routes, camp law, captive handling, and the distribution of food between stages. They use drums, ash marks, trophy records, and appetite-fed fetishes to coordinate groups that would otherwise fragment.
 
-Their society is militarized because force controls food, but warbands still contain factions: migration planners, raiders, breeders, ritualists, beast handlers, and followers trying to survive a leader's growth ambitions. A hobgoblin can choose restraint or cooperation; such choices remain unstable where Wrath rewards violence and successful violence produces larger bodies.
+Their society is militarised because force controls food, but warbands still contain factions: migration planners, raiders, breeders, ritualists, beast handlers and followers trying to survive a leader's growth ambitions. Hobgoblins can delay attack, maintain a truce or coordinate with outsiders when the arrangement protects food, breeding strength or a route. Such calculation does not give them a moral regard for prey.
 
 ## Signs
 

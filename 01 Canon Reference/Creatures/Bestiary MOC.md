@@ -42,7 +42,7 @@ Drakes are living Faewild beasts associated with particular ecologies and colour
 
 ## Shadowlands creatures and Idol ecologies
 
-The Shadowlands contain beings shaped by the seven predatory economies of the Idols. Some are peoples with moral agency, including the Grobi; others are Masks, beasts, copied forms or landscapes of appetite. A creature's association with an Idol establishes neither identical guilt nor a shared chain of command.
+The Shadowlands contain beings shaped by the seven predatory economies of the Idols. Some are peoples with moral agency. The Grobi are intelligent, suffering, nonmoral predators; others are Masks, beasts, copied forms or landscapes of appetite. A creature's association with an Idol establishes neither identical agency nor a shared chain of command.
 
 **Principal articles:** [[01 Canon Reference/Creatures/30 Shadowlands and Idols/Shadowlands and Idols MOC.md|Shadowlands and Idols index]] · [[01 Canon Reference/Cosmology/40 Idols and Adversary/Idols/The Idols Overview.md|The seven Idols]] · [[Grobi Overview]] · [[Ghouls]] · [[Nightmares]] · [[Vampires in the Present Age]]
 

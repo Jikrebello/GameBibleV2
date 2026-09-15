@@ -36,7 +36,7 @@ The Prophet leaves commanders, judges, archivists, provisioners and household el
 
 Southern captains, craftsmen, surveyors, specialists and younger household coalitions pursue permanent settlement, repaired Giant infrastructure and offensive security. Camps remaining nearer the Glass maintain seasonal roads, graves, registers and older stations. Families, judges, workshops and trade continue to cross the growing divide for generations; no meeting or battle creates it.
 
-The southern leagues become recognizably **proto-Atherian** through the movement itself. Their inherited measures, records, crafts and military organization aid survival but grant no divine title to occupied land.
+The southern leagues become recognisably **proto-Atherian** through the movement itself. Their inherited measures, records, crafts and military organisation aid survival but grant no divine title to occupied land.
 
 ### Southern Seizures, c. 2050–1900 BR
 
@@ -60,6 +60,8 @@ Folk, Ättar, Tarkhan and Nsizwa are principally descended from communities that
 Their histories of liberation are local and uneven. Some know the Prophet only as rumor, foreign law, adopted story or not at all. They are neither rejected humanity nor a single related remnant people.
 
 In the northern dry belt, the flying Giant kingdom of [[Vathra and the Great Unyoking|Vathra]] broke apart during the Unbinding. Giant civil war destroyed its command system while human tether crews, camel keepers, soldiers and captives seized wells and landing grounds. Some crown-cities crashed; others were grounded, cast loose or carried beyond human pursuit. The human survivors rebuilt among wells, seasonal lakes and eastern grasslands. Their communities became the principal ancestors of the Tarkhan.
+
+In the southern cold world, [[Nhaldur and the First Rewriting|Nhaldur's]] prison roads and ring-fortresses fell separately during the War of Open Keys. Human captives, lesser Giants and giant-blooded families escaped into older coastal, forest, river and upland communities. These mixtures contributed to the later Folk and Ättar without creating a single successor kingdom. At Kharvos, Wrath directly rewrote 2,014 captives into the first Grobi. Their descendants formed a separate living lineage rather than another branch of the released human population.
 
 ## Braided Peoples
 
@@ -105,7 +107,11 @@ The following account distinguishes established history from the received storie
 
 Scattering was a long separation of households which continued to trade, marry and quarrel. After c. 2165 BR, no office could make the whole Glass People move together. A commander could defend a camp but could not inherit the Prophet's voice. A keeper of the old routes could preserve testimony but could not feed every settlement. Arguments about fidelity became arguments about where children would live through the next season.
 
-The tradition of [[G-71 - The Five Staffs and the Empty Granary|the Five Staffs]] remembers an expedition taking grain before the rear camps' dependants had been counted. Children died while officials disputed whether the expedition had exceeded its power. The story explains why emergency authority became feared; it does not establish five permanent offices for every Ark descendant.
+Before his death, the Prophet commissioned a scout-captain to reconnoitre the inhabited lands beyond the Glass and guide the first safe movement. His repeated circuits—scouting, escorting and returning—helped establish the mobile discipline later inherited by Jirahar road companies and courts. [[G-56 - The Empty Seat Facing Outward|The Empty Seat Facing Outward]] remembers the dispute over this narrow mandate; the captain held no revelation, universal government or right to succeed the Prophet.
+
+The tradition of [[G-71 - The Five Staffs and the Empty Granary|the Five Staffs]] remembers a rival commander taking grain before the rear camps' dependants had been counted. The first expedition succeeded, and its council repeated the levy while reclassifying the stores as seed, marching provision and settlement allotments. Two poorly connected camps suffered the clearest famine deaths. A judge ruled the policy unlawful and ordered removal and restitution, but the southern council refused both. Three historical staff-bearers became five in later song.
+
+Movement also ended for reasons which no common council controlled. [[G-04 - The Seven Who Stopped Seeking Home|The Seven Who Stopped Seeking Home]] combines many unrelated parties which abandoned, lost or ceased following the migrating camps. Some returned to old worship; others remained through marriage, exhaustion, fear, error or attachment to a new home. Their survivors entered several existing communities. The symbolic Seven founded no single people, and later descent claims cannot identify their separate paths.
 
 ## The southern departure
 
@@ -113,13 +119,15 @@ Between c. 2130 and 2050 BR, captains, craftsmen and displaced households increa
 
 The Southern Seizures, c. 2050–1900 BR, entered inhabited land. Forts were taken through battle, betrayal and negotiated admission. Victors massacred defenders, enslaved families and seized cultivated land. Hosts also defeated settlers, took their children as hostages, adopted useful strangers or married into new ruling houses. Some settlements vanished after one generation. Others became genuinely mixed towns whose descendants could not separate conquest from belonging.
 
-[[G-57 - The Gate Opened during Supper|The Gate Opened during Supper]], [[G-58 - The Harbour Founded Twice|The Harbour Founded Twice]] and [[G-72 - The Hostage Children of Oak and Glass|the Hostage Children]] preserve different parts of this experience. They are not three names for one founding event.
+[[G-57 - The Gate Opened during Supper|The Gate Opened during Supper]] compresses several settler betrayals under guest-right and the later shared-meal peace intended to prevent them. [[G-58 - The Harbour Founded Twice|The Harbour Founded Twice]] distinguishes an ancestral Sermoran harbour's occupying first settlement from the mixed coastal victory which won its independence. [[G-72 - The Hostage Children of Oak and Glass|The Hostage Children]] remembers captives regularised as fosterlings, the execution of a fort-born man made Folk by marriage and adulthood rites, an unauthorised reprisal and the fosterling evacuation which saved children from both sides. These are separate histories.
 
 ## The later northern fission
 
 The Near-Glass continuum endured after the southern departure. Its later division, c. 1950–1750 BR, grew from water scarcity, distance and sustained contact with active Tarkhan societies. Some communities invested in travelling judgement, remembered routes and households able to cross political boundaries. Others invested in wells, walls, territorial oaths and restitution that could be enforced without moving away.
 
 These tendencies contributed to proto-Jirahar and proto-Ahl-e-Ahd formation. They were not hereditary temperaments or the decisions of two founding brothers. [[G-59 - The Walking Court and the Wall That Stayed|The Walking Court and the Wall That Stayed]] remembers relatives making opposite choices during a raid: each saved some people and failed others. The surviving funeral custom lays one staff along the road and one stone facing the danger.
+
+[[G-60 - The Bride of the Dry Road|The Son-in-Law and the Stolen Gods]] belongs to the same Near-Glass contact world without founding either later people. Its route-wise son-in-law left an exploitative Tarkhan-facing coalition with two wives, dependants, protected fugitives and allotted stock. His favourite wife secretly carried away her father's cult images; their later discovery turned religious fear and marital favouritism into a succession dispute within one travelling household.
 
 ## The world beyond those divisions
 
@@ -149,6 +157,10 @@ The Year of Standing Stars belongs somewhere within these overlapping centuries.
 - [[Proto-Ahl-e-Ahd Desert Tribes]]
 - [[Historical Atlas of Vathra and the Northern Ground]]
 - [[Vathra and the Great Unyoking]]
+- [[Historical Atlas of the Southern Cold World]]
+- [[Nhaldur and the First Rewriting]]
+- [[The Folk before Atheria]]
+- [[01 Canon Reference/Peoples and Cultures/Ättar/70 History and Conflicts/The Ättar before the Great Keel-Taking.md|The Ättar before the Great Keel-Taking]]
 
 ## Local tales and surviving memories
 
@@ -158,7 +170,7 @@ The Year of Standing Stars belongs somewhere within these overlapping centuries.
 - [[G-57 - The Gate Opened during Supper|The Gate Opened during Supper]]
 - [[G-58 - The Harbour Founded Twice|The Harbour Founded Twice]]
 - [[G-59 - The Walking Court and the Wall That Stayed|The Walking Court and the Wall That Stayed]]
-- [[G-60 - The Bride of the Dry Road|The Bride of the Dry Road]]
+- [[G-60 - The Bride of the Dry Road|The Son-in-Law and the Stolen Gods]]
 - [[G-63 - The Peace Feast at Nine Hearths|The Peace Feast at Nine Hearths]]
 - [[G-71 - The Five Staffs and the Empty Granary|The Five Staffs and the Empty Granary]]
 - [[G-72 - The Hostage Children of Oak and Glass|The Hostage Children of Oak and Glass]]

@@ -13,11 +13,13 @@ tags: []
 ---
 # The Making of the Ättar
 
-The Ättar and the Folk descend from related southern populations of the [[Age of Scattering]], but developed into separate peoples. Coastal migration, cold-water sailing, hall-centered property, paternal totem descent, and repeated Grobi wars drew the Ättar ranges away from the river leagues and place-courts that shaped the Folk.
+The Ättar and the Folk descend from related southern populations of the [[Age of Scattering]], but developed into separate peoples. Coastal migration, cold-water sailing, hall-centred property, paternal totem descent and repeated Grobi wars drew the Ättar ranges away from the river leagues and place-courts that shaped the Folk.
+
+Lesser Giant and giant-blooded prisoners escaping Nhaldur entered the shared ancestral population. Some became warband leaders because their bodies gave them an advantage after the old states collapsed. Marriage, concubinage and captivity spread their ancestry. Most later descendants were human and possessed complete human souls; rare true Giant births retained Giant continuity.
 
 ## From Hearths to Halls
 
-Early settlements clustered around protected coves, inland pasture valleys, iron-bearing forests, and northeastern taiga routes. Winter storage favored large halls; sea travel favored portable wealth and warrior followings; feud and compensation law let settlements survive without a permanent state.
+Early settlements clustered around protected coves, inland pasture valleys, iron-bearing forests and north-eastern taiga routes. Winter storage favoured large halls; sea travel favoured portable wealth and warrior followings; feud and compensation law let settlements survive without a permanent state. Regional All-Things allowed chiefs and free men from several hall districts to settle disputes and agree a winter watch without creating a national assembly.
 
 The Lion, Ox, Bear, and Wolf names began as broad regional affiliations. They became supernatural kindreds only after the [[War of the Empty Halls]], when four ruling coalitions accepted different expressions of the same lunar bargain.
 
@@ -32,4 +34,5 @@ Centuries of raiding, slavery, marriage, fosterage, adoption, and mercenary serv
 ## Navigation
 
 - [[01 Canon Reference/Peoples and Cultures/Ättar/Ättar Overview.md|Ättar Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Ättar/70 History and Conflicts/The Ättar before the Great Keel-Taking.md|The Ättar before the Great Keel-Taking]]
 - [[Historical Spine of the Ättar]]

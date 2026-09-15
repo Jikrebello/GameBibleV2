@@ -27,9 +27,9 @@ Arsuvan is an additional regional kingdom alongside the eighteen secondary polit
 
 ## Kharad, the Bronze Meridian
 
-A seven-generation road empire founded by the marriage of an Ishkatari serpent claimant and a Qianglong cadet, then enlarged by capturing an Ansharan processional corridor. Recognized as a peer only at its height; treated as a rebel province before and after.
+A seven-generation road empire founded by the marriage of an Ishkatari serpent claimant and a Qianglong cadet, then enlarged by capturing an Ansharan processional corridor. Recognised as a peer only at its height; treated as a rebel province before and after.
 
-Successive rulers wear one Meridian office and are later compressed into the “King of Three Fathers.” Bronze route rods still recognize bounded road authority while disproving the official biological genealogy.
+Successive rulers wear one Meridian office and are later compressed into the “King of Three Fathers.” Bronze route rods still recognise bounded road authority while disproving the official biological genealogy.
 
 ## Sarr-Vey, the Twin Diadem
 
@@ -44,6 +44,14 @@ The shared instrument works only when two lawful rulers voice opposed advice bef
 Human settlements supplied nearly all food, water, fibre, timber, animals and ordinary labour. The cities flew through crafted lift bodies, Zephyraxis pressure mantles, Hecatara route anchors and ground crews who operated the system. Royal cavalry and chariot horses remained concentrated among Giant and client houses, while human camel networks sustained the roads beneath them.
 
 The War of Altitude and the [[Vathra and the Great Unyoking|Great Unyoking]] broke the crown between c. 2300 and 2260 BR. Urzavad fell, Kel-Orun was deliberately grounded and Dazhur escaped after discarding a dependent ward. Sairat, Molqara and Yazuran passed beyond reliable Material history. Their current state remains unresolved.
+
+## Nhaldur, the Penal Crownland
+
+[[Nhaldur and the First Rewriting|Nhaldur]] was a shared southern penal crownland used by all Five Imperial Horizons and by numerous lesser Giant crowns. Southern cold-country states supplied much of its ordinary prison population. Six principal ring-fortresses governed scores of mines, labour camps, road towers, hostage houses and harbour compounds.
+
+The five Key Houses were themselves hereditary exile dynasties. Their members served foreign courts as gaolers while remaining prisoners who could not lawfully return home. Some were genuine Dynastic Giants; others were giant-blooded humans. Human prisoners, workers and older local inhabitants formed the majority population.
+
+The War of Open Keys destroyed the common system between approximately 2292 and 2264 BR. During that collapse, a Red Reckoner guided Kharvos's military workshops towards Wrath's plan for a self-reproducing army. Wrath directly performed the First Rewriting upon 2,014 human captives in c. 2284 BR. The human souls continued towards judgement; the altered bodies became the first Grobi biological continuity.
 
 ## The Ulmaris Sea-Crown
 
@@ -67,7 +75,7 @@ Every stair preserves layers of tax marks in different imperial scripts. One kin
 
 A neutral industrial league built around seven separated pieces of a dismembered Titan-Firstborn whose living body-heat powers the furnaces. Arms every great horizon and survives by making any conqueror fear that rivals will receive the other six cities.
 
-The league's real constitution keeps the Titan divided. A royal attempt to collect four fragments begins a reconstitution crisis; later weapons may still turn toward the missing body pieces.
+The league's real constitution keeps the Titan divided. A royal attempt to collect four fragments begins a reconstitution crisis; later weapons may still turn towards the missing body pieces.
 
 ## The Glassward Crownlets
 
@@ -101,7 +109,7 @@ Their rejected calendars preserve eclipses and rebellions the imperial count era
 
 ## The Moon Harbors of Caelene
 
-Mainland and island treaty ports that feed Nythalum's launch economy while remaining locally ruled. Nythalum promises berths, technical education, and survival quotas in exchange for material and labor.
+Mainland and island treaty ports that feed Nythalum's launch economy while remaining locally ruled. Nythalum promises berths, technical education, and survival quotas in exchange for material and labour.
 
 When the core retracts the berths, some harbors revolt, seize unfinished Nythalum vessels, or attempt doomed launches with stolen plans and defecting Nythalum engineers. They never possess an independent lunar programme. Every route, wreck, receiving frame, and surviving claim remains physical and moonward, never an Egg White current.
 

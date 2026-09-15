@@ -47,7 +47,7 @@ The **Pale Household** includes [[Midnight Daughters]], tide minds, moon-marked 
 ## Bargain Grammar
 
 - **Permitted gifts:** one controlled transformation, safe passage through a cycle, tide access, migratory knowledge, hibernation, or inherited bodily adaptation.
-- **Recognized prices:** a fixed habit, one phase of service, a name used only at one moon, a changed descendant, or surrender of something that must not remain permanent.
+- **Recognised prices:** a fixed habit, one phase of service, a name used only at one moon, a changed descendant, or surrender of something that must not remain permanent.
 - **Taboo:** demanding that a cyclic gift become permanent, denying a promised return, or refusing a phase after taking its benefit.
 - **Failure:** the recipient becomes unstable between forms, repeats an unwanted season, or is claimed whenever the relevant cycle returns.
 
@@ -55,7 +55,7 @@ Most dealings pass through [[Midnight Daughters]], the Pale Household, tide mind
 
 ## Mother Moon's Bargain
 
-[[Mother Moon's Bargain]] is a real Ättar covenant: hybrid authority and inherited rage in exchange for one firstborn child from each old-rite ruling line per generation. Lunara administers the exchange exactly and cannot understand why exact consent by an ancestor fails to justify taking a later child.
+[[Mother Moon's Bargain]] is a real Ättar covenant. Four named chiefs asked for beasts in their bodies and fury in the people sworn beneath them. The Pale Household made the hybrid forms hereditary in the chiefs' paternal office lines and spread lesser rage through the wider oath population. Each old-rite ruling line owes one firstborn child per generation. Lunara administers the exchange exactly and cannot understand why an ancestor's consent fails to justify taking a later child.
 
 The agreement is therefore morally evil by the Lord's order and by the child's human dignity, even though Mother Moon does not choose it as an act of malice. Living human rulers remain responsible for continuing, resisting, or renouncing it.
 

@@ -21,7 +21,7 @@ To **take the keel** is to join a seasonal voyage. A crew may raid, trade, escor
 
 ## The Hall Year
 
-Spring repairs ships, fences, fields, and roof turf. Summer favors voyages, distant pasture, construction, and markets. Autumn brings crews home, settles shares, judges quarrels, and fills stores. Winter turns halls into crowded workshops, feast-houses, courts, hospitals, and military refuges.
+Spring repairs ships, fences, fields and roof turf. Summer favours voyages, distant pasture, construction and markets. Autumn brings crews home, settles shares, fills stores and sends chiefs and free men to the annual All-Thing. Winter turns halls into crowded workshops, feast-houses, courts, hospitals and military refuges.
 
 Long hair and braids carry family and campaign meanings. Bronze, silver, and gold torcs display gifts received and loyalties owed. Cutting an oath-torc or shaving a captive can be a legal humiliation rather than fashion.
 

@@ -37,6 +37,8 @@ The age contained cattle kingdoms, hill forts, river villages, island ports and 
 
 Cattle defenders acquired followers because they could keep raiders away. Followers fed them; captains settled quarrels; successful captains demanded obedience after the danger had passed. [[G-05 - The Iron Ring before the Crown|The Iron Ring before the Crown]] remembers an outlaw company implicated in rape's aftermath, massacre, the seizure of women and the creation of a coercive kingdom. Coronation songs celebrate the ruler who emerged from the company, while household laments preserve the names of women seized and families killed during his ascent.
 
+Road traditions kept a different limit upon ambitious men. [[G-06 - The Wolf, the Lantern and the House That Heard Them Laugh|Wolf and Lantern]] were pursued for wrongs committed against several households when the Old Mother granted shelter but not release. Their later three-trial cycle is comic, yet it preserves the reciprocal danger of guest-right, bargains and insulting a power whose apparent frailty concealed deep occult authority.
+
 Other traditions are smaller. A hunting household survived a Menhir-hosted winter by respecting one prohibition, then lost a child when the hunter mistook correct hospitality for permission to take more. A former slave's collar was later carried before a crown: the court called it an honour until a household lament preserved the sale and execution beneath the ceremony. These stories made limits memorable when kings preferred smooth genealogies.
 
 ## Cousins facing different enemies
@@ -53,7 +55,7 @@ Farther north, Orphaned river communities restored the Sacred Basin after Ishkat
 
 Southern war-settlers became maritime societies through shipbuilding, captured harbours and local pilotage. Mercenaries, raiders, refugees and traders used the same vessels. An island king might buy copper honestly in one port and sell captives in the next. The resulting networks restored crafts and food supplies while making distant households vulnerable to one fleet's defeat.
 
-[[G-73 - The Oar-King without a Country|The Oar-King]] follows a slave who saves abandoned rowers, gains a following, takes a harbour and murders the friend who remembers their first promise. Royal songs celebrate the harbour he founded. The rowers' versions continue through the friend's funeral and the division of the first crew.
+[[G-73 - The Oar-King without a Country|The Oar-King]] follows a Folk coastal captive who saves abandoned rowers, gains a following, conquers an inhabited harbour and arranges the disguised murder of the fellow rower who opposes his kingship. A prophet exposes both crimes. The king confesses, frees captives still under his control and ends future human-sale payment, but retains the crown and most allotments. A succession war after his death ends hereditary rule and produces the harbour's civic magistracy.
 
 ## Seasons and powers
 
@@ -70,6 +72,11 @@ One Menhir court sheltered a household guilty of murder because that household h
 
 - [[Early Folk Clan Worlds]]
 - [[Southern Cold Belt and Grobi Frontier]]
+- [[Historical Atlas of the Southern Cold World]]
+- [[The Folk before Atheria]]
+- [[01 Canon Reference/Peoples and Cultures/Ättar/70 History and Conflicts/The Ättar before the Great Keel-Taking.md|The Ättar before the Great Keel-Taking]]
+- [[War of the Empty Halls]]
+- [[Grobi History and Pack Life]]
 - [[Ancient Qahur and the Twin-Reed Crowns]]
 - [[Life in the Ancient Sacred Basin]]
 - [[The White Measure and the Second Houses]]

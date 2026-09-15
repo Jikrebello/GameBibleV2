@@ -36,16 +36,16 @@ These are the world's received stories, not seventy-five certificates that every
 - [[G-19 - The Hearth Carried Twice|The Hearth Carried Twice]] — an independent refugee hearth on an Egg White adjacency; c. 2165–1750 BR; overlapping Scattering and early Hearths.
 - [[G-56 - The Empty Seat Facing Outward|The Empty Seat Facing Outward]] — outward threshold of the Glass; c. 2165–2130 BR.
 - [[G-57 - The Gate Opened during Supper|The Gate Opened during Supper]] — proto-Atherian river-gate settlement belt; c. 2050–1900 BR.
-- [[G-58 - The Harbour Founded Twice|The Harbour Founded Twice]] — coast later connected to the Sestaran harbour world; c. 2165–1750 BR; overlapping Scattering and early Hearths.
+- [[G-58 - The Harbour Founded Twice|The Harbour Founded Twice]] — an ancestral harbour of Sermora; c. 2165–1750 BR; overlapping Scattering and early Hearths.
 - [[G-59 - The Walking Court and the Wall That Stayed|The Walking Court and the Wall That Stayed]] — Tarkhan-facing Near-Glass wells; c. 1950–1750 BR.
-- [[G-60 - The Bride of the Dry Road|The Bride of the Dry Road]] — Near-Glass caravan and well-country; c. 1950–1750 BR.
+- [[G-60 - The Bride of the Dry Road|The Son-in-Law and the Stolen Gods]] — Near-Glass caravan and Tarkhan-facing well-country; c. 1950–1750 BR.
 - [[G-63 - The Peace Feast at Nine Hearths|The Peace Feast at Nine Hearths]] — one southern Scattering refuge basin, separate from the first gate and harbour; c. 2165–1750 BR; overlapping Scattering and early Hearths.
 - [[G-71 - The Five Staffs and the Empty Granary|The Five Staffs and the Empty Granary]] — southern dispersal corridors and Near-Glass borderlands; c. 2150–2110 BR.
 - [[G-72 - The Hostage Children of Oak and Glass|The Hostage Children of Oak and Glass]] — one Folk–proto-Atherian fortified border; c. 2020–1920 BR.
 
 ## Age of Hearths and First Kings
 
-- [[G-05 - The Iron Ring before the Crown|The Iron Ring before the Crown]] — southern hearthlands; c. 1900–1400 BR; Hearths and First Kings.
+- [[G-05 - The Iron Ring before the Crown|The Iron Ring before the Crown]] — Hartheni middle forests; c. 1900–1400 BR; Hearths and First Kings.
 - [[G-06 - The Wolf, the Lantern and the House That Heard Them Laugh|The Wolf, the Lantern and the House That Heard Them Laugh]] — Folk forest margins adjoining proto-Atherian roads; c. 1900–1400 BR; Hearths and First Kings.
 - [[G-61 - The Hall That Faced the Grobi|The Hall That Faced the Grobi]] — southern cold belt and Grobi-facing uplands; c. 1900–1650 BR, before the War of the Empty Halls.
 - [[G-67 - The Marks of Necessary Release|The Marks of Necessary Release]] — Tidewood–Gale-Crown watershed; c. 1850–1725 BR.
@@ -54,12 +54,12 @@ These are the world's received stories, not seventy-five certificates that every
 ## Age of City-States
 
 - [[The Wolf's Two Sons]] — Caleran's founding family, a wolf's purpose and the murder between brothers; an additional received tradition outside the seventy-five Garden IDs.
-- [[G-07 - The Key Bent in a Murderer's Hand|The Key Bent in a Murderer's Hand]] — Atherian coastal city-state belt; c. 1400–800 BR; City-States.
+- [[G-07 - The Key Bent in a Murderer's Hand|The Key Bent in a Murderer's Hand]] — Verion, an eastern Atherian assembly port; c. 1000 BR.
 - [[G-74 - The Raid That Returned One Tool|The Raid That Returned One Tool]] — Arkenan–Saronikan island corridor; c. 1120–980 BR.
 
 ## Age of Stars
 
-- [[G-08 - The Road That Refused Its Last Stone|The Road That Refused Its Last Stone]] — Atherian roads and city leagues; c. 800–350 BR; Age of Stars.
+- [[G-08 - The Road That Refused Its Last Stone|The Road That Refused Its Last Stone]] — the Aurin trunk road from Caleran through Enathi, Serathi and Vardeni country; c. 800–350 BR.
 - [[G-64 - The Prisoners Who Became a Border|The Prisoners Who Became a Border]] — one inland summoning corridor, not Orthea; late City-States into early Stars; c. 900–700 BR.
 - [[G-38 - The Houses Unhoused before the Gate Turns|The Houses Unhoused before the Gate Turns]] — Atherian roads and city leagues; c. 800–350 BR; Age of Stars.
 

@@ -33,6 +33,24 @@ Each section names its original article and preserves the removed wording. Furth
 > - diseased animals reach a horse pasture before scouts recognize the signs.
 >
 
+## Grobi Overview
+
+**Original article:** [[01 Canon Reference/Creatures/30 Shadowlands and Idols/20 Wrath/10 Grobi/Grobi Overview|Grobi Overview]]
+
+**Original heading:** `Game-Ready Layer`
+
+> [!note]- Preserved and reconciled source text
+>
+> **Signs:** stripped carcasses, cracked marrow-bone, middens containing leather and bark, tracks revealing the largest stage, disciplined autumn smoke and drums used only when a host intends to be heard.
+>
+> **Tactics:** goblins exhaust pursuers and lead them onto prepared ground; hobgoblins coordinate shields, drums and appetite-fed fetishes; orcs select granaries before walls; ogres and trolls breach whatever the smaller stages cannot. Destroying food can make a band shrink, scatter or consume itself.
+>
+> **Materials:** hides, sinew, war fetishes, teeth used as trophies and stage-gland extracts sought by Vortharan fleshworkers.
+>
+> **Faction use:** frontier rulers require migration forecasts; financiers insure against raid seasons; Folk hosts exchange route intelligence; Vorthara purchases specimens; churches debate baptism, burial and culpability despite the authorial ruling that Grobi possess no human soul or moral conscience.
+>
+> **Story uses:** a pack offers a corridor truce while preparing to consume a stronger rival; Chapel-Folk mistake learned ritual behaviour for conversion; a fleshworker caravan raises the price of living goblins; or the drums cease because the packs are fleeing a greater predator.
+
 ## Goblins
 
 **Original article:** [[01 Canon Reference/Creatures/30 Shadowlands and Idols/20 Wrath/10 Grobi/Goblins|Goblins]]

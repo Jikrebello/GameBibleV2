@@ -14,7 +14,7 @@ tags: []
 ---
 # The Tarkhan Tribes Overview
 
-The Tarkhan are a northern nomadic civilisation occupying the dry belt between the Covenant, Eclessia and the detached Sestaran territories. Related speech, clan law, guest-right and sky observance connect their peoples across desert and grassland. Household and clan ties remain durable through the rise and dissolution of larger military coalitions.
+The Tarkhan are a northern nomadic civilisation occupying the dry belt between the [[01 Canon Reference/Peoples and Cultures/Ahl-e-Ahd/The Ahl-e-Ahd Overview.md|Covenant]], [[01 Canon Reference/Peoples and Cultures/Eclessia/Eclessia Overview.md|Eclessia]] and the detached [[01 Canon Reference/Peoples and Cultures/Sestaran Concord/The Sestaran Concord Overview.md|Sestaran territories]]. Related speech, clan law, guest-right and sky observance connect their peoples across desert and grassland. Household and clan ties remain durable through the rise and dissolution of larger military coalitions.
 
 Western [[Well-Tarkhan]] travel between ancestral wells with camels, sheep, goats and mixed remounts. Northeastern [[Grass-Tarkhan]] follow horse pasture and, in some districts, the migratory [[Great-Horns]]. Families and banners pass between these ways of life. The distinction reflects the ground, animals and routes on which a community depends.
 
@@ -44,7 +44,7 @@ Homes and clothing suit the journey. Well-Tarkhan use camel-hair cloth, felt, re
 
 Felt-making, weaving, leatherwork, saddle construction, bow-making, horn carving and cart repair are valued skills. Falconry requires specialist hoods, jesses, perches and weather cases. A household's ability to feed guests is also a source of standing; poorer hosts may borrow provisions to meet that obligation.
 
-## Law, leadership and the four hordes
+## Law, leadership and the four hordes in 1360
 
 Assemblies recognise banner-lords and khans who can protect pasture, reward followers and settle disputes. An oath states its word-price—the compensation due for breaking it. Three days of honest guest-right bind host and guest. Deliberate betrayal at the household fire can lead to lifelong pursuit.
 
@@ -59,10 +59,14 @@ Sorqai holds the Nine-Mane Standard as regent and custodian. Its presence is req
 
 ## Sky faith and the wider world
 
-Tarkhan tradition names the high order Kokh, the Blue Eternal, and describes sun, moon, wind, storm and hunt as its household. Wind-speakers mediate relationships with these powers. A few practise [[Falconry and Sky-Riding]], sharing a bonded falcon's perception through lesser courtiers of Orionis. During the experience their own bodies remain helpless.
+Tarkhan tradition names the high order Kokh, the Blue Eternal, and describes sun, moon, wind, storm and hunt as its household. Wind-speakers mediate relationships with these powers. A few practise [[Falconry and Sky-Riding]], sharing a bonded falcon's perception through lesser courtiers of [[01 Canon Reference/Cosmology/30 Menhir/10 Second Circle/Orionis.md|Orionis]]. During the experience their own bodies remain helpless.
 
 Trade, service, migration and warfare continually change relations with settled neighbours. Covenant employers value Tarkhan soldiers while defending against other Tarkhan raiders. Castara depends on an annual peace for its road commerce. Pilgrims at Tergai encounter incompatible memories of the same wells. These relationships belong to particular clans and rulers, and can change when a banner loses followers or a household chooses another route.
 
 ## Further reading
 
-[[Historical Atlas of Vathra and the Northern Ground]] begins with the Giant crown whose fall shaped the northern country. [[The Tarkhan before the Horse Hordes]] follows the ancient well, camel, craft-town and grassland societies through 350 BR. The [[Historical Spine of the Tarkhan]] and [[The Making of the Tarkhan]] continue that formation into the Horse Centuries. [[Tarkhan Camps, Households, and Daily Life]] and [[Tarkhan Dress, Food, and Portable Craft]] describe ordinary work. [[Four Hordes of the Partition]], [[Sky Faith and the Blue Eternal]] and [[Tarkhan and the Wider World]] introduce the principal political and religious connections.
+- **Ancient history:** Begin with the [[Historical Atlas of Vathra and the Northern Ground]] and [[The Tarkhan before the Horse Hordes]].
+- **Later formation:** The [[Historical Spine of the Tarkhan]] and [[The Making of the Tarkhan]] continue the account into the Horse Centuries and the present hordes.
+- **Ordinary life:** [[Tarkhan Camps, Households, and Daily Life]] and [[Tarkhan Dress, Food, and Portable Craft]] describe travel, work and household organisation.
+- **Politics, faith and neighbours:** [[Four Hordes of the Partition]], [[Sky Faith and the Blue Eternal]] and [[Tarkhan and the Wider World]] introduce the principal connections.
+- **Compare cultures:** Return to [[Cultures MOC|Peoples and Cultures]] for the other principal societies of the known world.

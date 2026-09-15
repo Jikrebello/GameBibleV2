@@ -20,7 +20,7 @@ The audit was completed on 5 September 2026 after the Tidewood, culture-entrance
 
 ## Research basis
 
-Britannica's published account of its editorial process emphasises specialist authorship, verification against reputable sources, copy-editing, information architecture, continuous review and transparent identification of sources and revisions. Its public description does not provide an internal sentence-level stylebook. The World Egg therefore uses those practices as an editorial workflow and uses the observed explanatory manner of reference articles as a prose model. [Britannica Education, “How We Work”](https://britannicaeducation.com/about-us/), consulted 5 September 2026.
+Britannica's published account of its editorial process emphasises specialist authorship, verification, copy-editing, information architecture and continuing reader feedback. Its public description does not provide an internal sentence-level stylebook. The World Egg therefore uses those practices as an editorial workflow and uses the observed explanatory manner of reference articles as a prose model. [Britannica Education, “Editorial Process”](https://britannicaeducation.com/wp-content/uploads/2018/08/Editorial-Process-Infographic.pdf), consulted 13 September 2026.
 
 Wikipedia contributes openly documented standards for a much larger linked encyclopedia. Its useful practices include self-contained leads, proportional emphasis, summary-style parent and child articles, restrained linking, subject-specific layouts and a distinction between canonical publication and editorial maturity. Its neutrality, verifiability and original-research policies require adaptation for an invented world. [Wikipedia, “Core content policies”](https://en.wikipedia.org/wiki/Wikipedia:Core_content_policies); [“Manual of Style/Lead section”](https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Lead_section); [“Summary style”](https://en.wikipedia.org/wiki/Wikipedia:Summary_style); [“Writing better articles”](https://en.wikipedia.org/wiki/Wikipedia:Writing_better_articles), consulted 5 September 2026.
 
@@ -124,3 +124,34 @@ Package 3 owns the Redeemer and later Atherian event portals. Packages 4–7 own
 ## Reassessment
 
 The library receives another measured audit after Package 4 and a final audit during Package 9. The next assessment should report both the whole-library score and the number of articles at each maturity level. A rising average cannot conceal a remaining score-1 or score-2 reader page.
+
+## Navigation and article-size reassessment — 13 September 2026
+
+The post-Package D baseline scan counted **859** articles in `01 Canon Reference`: 475 public, 97 restricted, five secret and 282 author-only. The navigation and gateway work added two authorial controls and corrected the culture entrance from author-only to public. The current total is **861** articles: 476 public, 97 restricted, five secret and 283 author-only. The public shelf contains 88 articles above 1,000 words, 19 above 2,000 words and nine above 3,000 words. None exceeds 6,000 words. The largest files in the full canonical shelf are predominantly authorial inventories, ledgers and controls rather than continuous reader prose.
+
+Length alone therefore does not justify dividing any current reader article. The long southern, Ättar, Folk, Jirahar and eastern histories each cover one coherent subject, use substantial sectioning and already lead into child articles. Splitting remains appropriate only when an article contains independently useful subjects with stable boundaries; editorial controls may remain long when one continuous register is necessary.
+
+The raw link survey found no canonical article without an outgoing link. It identified 37 public articles of at least 400 words with fewer than four outgoing links. This threshold is a review signal, not a quota: a narrow creature or tale may be complete with three links, while an overview can remain difficult even with dozens. Proper names, unfamiliar terms and relationships receive links when they help an unfamiliar reader understand the passage; repeated and low-information links are avoided.
+
+The principal usability defect lay in the entrance sequence. The website home reached the culture map easily, but the culture map exposed 73 links without clearly distinguishing a first article from a specialist one and ended with shelf instructions intended for authors. The correction introduced [[00 Start Here/World Egg Reader Guide.md|A Reader's Guide to the World Egg]], made it the visible **Start here** route on the home page and site navigation, and revised [[Cultures MOC|Peoples and Cultures]] around a progressive sequence:
+
+1. whole-world orientation;
+2. one overview for a chosen people;
+3. formation, ordinary life or historical depth;
+4. ancient regional routes and present states.
+
+Authorial filing rules and controlling registers now sit in [[Peoples and Cultures - Authorial Navigation]]. The culture entrance retains substantive descriptions rather than becoming a link list, but each group now has an explicit **Start with** article and a smaller set of **Then follow** choices. The ancient section includes both the northern route and the post-Package D southern route.
+
+The same pass linked named subjects at their first explanatory use in the Atherian, Folk, Jirahar and Tarkhan overviews, including the Astratheon powers, House of Thalion, Tidewood settlements and major Jirahar towers. The [[01 Canon Reference/Peoples and Cultures/Ethnic Groups Overview.md|Peoples and Ancestry Register]] now agrees with Package D: Fäskogarfolk is a reconstructed speech-and-custom continuum rather than a single population or state, while lesser Giant and giant-blooded Nhalduran refugees form one strand in the shared southern ancestry.
+
+The reader's compatibility audit now reports canonical visibility, word-length bands, the longest reader articles, weak-link candidates and articles without canonical backlinks. These measurements make navigation and article-size review repeatable instead of depending on impression.
+
+## Peoples and Cultures gateway pilot — 13 September 2026
+
+The follow-up pilot reviewed the eleven overview articles reached from the culture entrance. All eleven retain self-contained leads, substantive summaries and coherent article boundaries; their body lengths range from approximately 850 to 1,525 words. No page required splitting or merging. Each now ends with purpose-labelled routes for history, ordinary life or institutions, faith or neighbours and comparison with other cultures.
+
+Important first-use links were strengthened in the Ahl-e-Ahd, Eclessian, Nsizwa, Tarkhan, Thalmyric, Velian and Atherian entrances. Present-day headings now identify 1360 where the older wording obscured the article's current account. The Atherian illustrations received descriptive alternative text. A vault-wide anchor search found no incoming links to the replaced headings.
+
+The detailed scope, per-article measurements and maturity decisions are recorded in the [[01 Canon Reference/Peoples and Cultures/Peoples and Cultures - Gateway Article Editorial Review.md|Peoples and Cultures Gateway Article Editorial Review]]. All eleven gateways are rated **4 — strong**. They do not receive score 5 until a later source-by-source factual review, illustration review and child-article consistency pass justifies that designation.
+
+The entrance's historical section was subsequently expanded from Atheria alone to ten extinct political worlds. Giant-age kingdoms and crownlands are separated from early human cities and empires, while ancient histories belonging to still-living peoples remain attached to their culture entries and longer regional routes.

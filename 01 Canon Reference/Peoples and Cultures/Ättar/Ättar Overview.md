@@ -16,13 +16,13 @@ tags: []
 
 The Ättar are a people of the southern cold belt whose societies centre on great halls, fortified valleys and maritime households. They share a language, forms of law, four totem-kindreds and an inherited relationship with [[01 Canon Reference/Cosmology/30 Menhir/10 Second Circle/Mother Moon.md|Mother Moon]]. Regional halls and jarldoms maintain their own alliances, feuds and foreign policies.
 
-An Ättar usually belongs first to a household and hall, then to a wider kindred. The [[Lion-Mane Coast]], [[Hornwall Valleys]], [[Bearshield Holds]] and [[Grey-Wolf Range]] each contain rival communities of free farmers, dependants, freed families and thralls. Seasonal voyages connect these societies with foreign ports, while Grobi warfare places recurring demands on the people who remain at home.
+An Ättar usually belongs first to a household and hall, then to a wider kindred. The [[Lion-Mane Coast]], [[Hornwall Valleys]], [[Bearshield Holds]] and [[Grey-Wolf Range]] each contain rival communities of free farmers, dependants, freed families and thralls. Seasonal voyages connect these societies with foreign ports, while [[01 Canon Reference/Creatures/30 Shadowlands and Idols/20 Wrath/10 Grobi/Grobi Overview.md|Grobi]] warfare places recurring demands on the people who remain at home.
 
 ## Formation and the Moon bargain
 
-Ättar ancestors survived the collapse of Giant rule outside the Glass refuge. They were related to the populations from which the Folk developed. Geography, hall politics and the demands of defence gradually gave their descendants a distinct form of society.
+Ättar ancestors survived the collapse of Giant rule outside the Glass refuge. They were related to the populations from which the Folk developed. Refugees from Nhaldur included lesser Giants and giant-blooded humans whose descendants spread unusual strength, hardiness and magical aptitude through some southern lines. Most descendants were fully human; rare true Giant births retained Giant continuity. Geography, hall politics and the demands of defence gradually gave the Ättar a distinct society.
 
-The [[War of the Empty Halls]] marked a decisive change in authority. The first ruling lines accepted [[Mother Moon's Bargain]], obtaining the power to assume their kindred's hybrid shape. The bargain made hereditary descent a source of bodily power and bound the rulers' households to a repeated surrender of children.
+The [[War of the Empty Halls]] marked a decisive change in authority. Savar, Torvek, Brennar and Eldran asked Mother Moon for beasts in their bodies and fury in the people sworn beneath them. [[Mother Moon's Bargain]] made the hybrid shapes hereditary in their paternal office lines and spread lesser rage through the wider oath population. It also bound the rulers' households to a repeated surrender of children.
 
 Each pact line owes one firstborn child per generation. A changeling takes the child's place; at adolescence it leaves, and the original child returns as a [[Borrowed Children and Moon-Seers|Moon-Seer]]. These returns connect the hall's religious life with the absence and altered upbringing of particular children. The [[Historical Spine of the Ättar]] places the bargain within the wider history of settlement, war and conversion.
 
@@ -32,7 +32,7 @@ A great hall combines assembly place, granary, feast-house, barracks, sanctuary 
 
 Male assemblies choose chiefs from eligible paternal pact lines. An old-rite chief must be a [[01 Canon Reference/Peoples and Cultures/Ättar/20 Faith and Worldview/The Path of the Skinwalker.md|skinwalker]], capable of taking the hybrid form of his kindred. Jarls gather lesser halls into larger followings. Major wars can produce chief-kings whose authority depends on the continued support of the halls that raised them.
 
-Public courage, hospitality, oath-keeping and compensation are important measures of standing. Fosterage and marriage connect households; loyalty includes the duty to shelter kin through winter. Feud, slave-taking and sexual coercion also shape relationships of power. Captives and thralls contribute labour while having fewer means of refusing a ruler's demands.
+Public courage, hospitality, oath-keeping and compensation are important measures of standing. Fosterage and marriage connect households; loyalty includes the duty to shelter kin through winter. Once each year, chiefs and free men attend a regional All-Thing to hear disputes crossing several hall districts, witness succession and agree the winter watch. Feud, slave-taking and sexual coercion also shape relationships of power. Captives and thralls contribute labour while having fewer means of refusing a ruler's demands.
 
 ## Work and the hall year
 
@@ -52,7 +52,7 @@ Grobi pressure varies across the hall country. Exposed communities require susta
 
 The power of the ruling lines has limits. [[Moontouched]] decline results from age, excessive shifting and prolonged hybrid form. It can be avoided; transformation does not exact a separate memory at every use. The fear of decline nevertheless affects succession and the judgement of a ruler's fitness.
 
-## Faith and conversion
+## Faith, conversion and the Ättar in 1360
 
 Mother Moon is a real power whose bargain has bodily consequences. Her demands place children and ruling households within obligations that take little account of human attachment. Old-rite halls continue the exchange as the basis of their rulers' authority.
 
@@ -62,4 +62,7 @@ In 1360 the hall world includes old-rite and baptised communities, rival jarls, 
 
 ## Further reading
 
-Begin with [[The Making of the Ättar]] and the [[Historical Spine of the Ättar]]. [[Halls, Jarls, and Chief-Kings]] and [[Ättar Kinship, Descent, and Weregild]] explain authority and kinship. [[Raiding, Slavery, and Manumission]], [[Winter War and the Grobi Frontier]] and [[Ättar and the Wider World]] follow the consequences of warfare and foreign contact.
+- **History:** Begin with [[01 Canon Reference/Peoples and Cultures/Ättar/70 History and Conflicts/The Ättar before the Great Keel-Taking.md|The Ättar before the Great Keel-Taking]], [[The Making of the Ättar]] and the [[Historical Spine of the Ättar]].
+- **Life and institutions:** [[Halls, Jarls, and Chief-Kings]] and [[Ättar Kinship, Descent, and Weregild]] explain authority, household membership and law.
+- **War and neighbours:** [[Raiding, Slavery, and Manumission]], [[Winter War and the Grobi Frontier]] and [[Ättar and the Wider World]] follow the consequences of warfare and foreign contact.
+- **Compare cultures:** Return to [[Cultures MOC|Peoples and Cultures]] for the other principal societies of the known world.

@@ -14,7 +14,7 @@ tags: []
 ---
 # Early Folk Clan Worlds
 
-The ancestor communities of the Folk survive, move and reconnect across the southern forests during and after the Great Unbinding. They are Orphaned peoples rather than a branch leaving the Glass. They do not inhabit a mild wilderness. Farther south means colder: taiga, frost, permafrost, dark woodland, hungry winters, old trees, dangerous local powers, and Grobi migration.
+The ancestor communities of the Folk survived, moved and reconnected across the southern forests during and after the Great Unbinding. They were principally Orphaned peoples rather than a branch leaving the Glass. Lesser Giant and giant-blooded prisoners escaping Nhaldur joined some communities, spreading physical and magical traits through later human descendants. Their country was taiga, frost, permafrost, dark woodland, hungry winters, old trees, dangerous local powers and Grobi migration.
 
 ## First Institutions
 
@@ -26,6 +26,7 @@ Survival produces related institutions across otherwise separate peoples:
 - seasonal hunting, fishing, and pasture circuits;
 - beacon and Grobi-watch duty;
 - compensation for kin violence;
+- annual All-Things joining several local assemblies;
 - remembered bargains with place-bound powers.
 
 ## Political Development
@@ -49,6 +50,7 @@ After settlement, coastal hall society and the [[War of the Empty Halls]] produc
 ## Navigation
 
 - [[The Making of the Folk]]
+- [[The Folk before Atheria]]
 - [[Historical Spine of the Folk]]
 - [[Southern Cold Belt and Grobi Frontier]]
 - [[The Folk Overview]]

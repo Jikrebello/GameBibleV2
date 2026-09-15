@@ -27,11 +27,11 @@ This register controls authorial facts when active Folk notes disagree.
 
 ## Locked Identity
 
-The Folk are a living umbrella civilization, not a state or a vanished ancestor people. Most identify first by clan, region, or confederacy. Fäskogarfolk is an archaic term for the ancestral population shared by the Folk and Ättar. Enaidfae identifies old-rite Folk confederacies, especially in the Heartwood, Gale-Crown, and Tidewood regions. Ättar are a distinct cousin culture.
+The Folk are a living umbrella civilisation, not a state or a vanished ancestor people. Most identify first by clan, region or confederacy. Fäskogarfolk is a scholarly reconstruction of the related ancient speech and custom from which the Folk and Ättar developed; it was never one pure ancestry or state. Enaidfae identifies old-rite Folk confederacies, especially in the Heartwood, Gale-Crown and Tidewood regions. Ättar are a distinct cousin culture.
 
 ## Locked Political Rule
 
-No universal Folk sovereign, priesthood, court, or assembly exists. Political forms range from hearth-clans to fortified confederacies and temporary war-kings. Speaker, War-Keeper, and Seer are widespread offices, not departments of a common government.
+No universal Folk sovereign, priesthood, court or assembly exists. Political forms range from hearth-clans to fortified confederacies and temporary war-kings. Speaker, War-Keeper and Seer are widespread offices, not departments of a common government. Connected districts hold annual All-Things for chiefs and free men, but each gathering binds only its own participating jurisdictions.
 
 ## Locked Spiritual Rule
 
@@ -43,7 +43,7 @@ The four principal customary territories are the Green March Kindreds, Rootbound
 
 ## Locked Historical Chain
 
-The Folk are principally an Orphaned people descended from southern communities that survived the Giant collapse outside the Glass Ark. Those survivors reassembled into pre-Atherian clan worlds and confederacies; experienced uneven conquest, alliance, and assimilation under Atheria; recovered autonomy after the Fall; and suffered Eclessian expansion during the Folk Wars of 982-1008 AR. The Drowning at Wolfsmere occurred in 993 AR. Weylan Oath-Bent accepted baptism around 1005 AR.
+The Folk are principally an Orphaned people descended from southern communities which survived the Giant collapse outside the Glass Ark. Lesser Giant and giant-blooded prisoners from Nhaldur entered some of those populations during the Great Unbinding. Most later descendants were human and retained complete human souls; rare true Giant births retained Giant continuity. Those communities reassembled into the Belathi, Hartheni, Odrani and related pre-Atherian worlds; experienced uneven conquest, alliance and assimilation under Atheria; recovered autonomy after the Fall; and suffered Eclessian expansion during the Folk Wars of 982-1008 AR. The Drowning at Wolfsmere occurred in 993 AR. Weylan Oath-Bent accepted baptism around 1005 AR.
 
 ## Language Boundary
 
@@ -52,5 +52,6 @@ Direct real-world and fantasy comparisons belong only in [[Real-History Concorda
 ## Navigation
 
 - [[The Folk Overview]]
+- [[The Folk before Atheria]]
 - [[Folk Reconstruction Audit]]
 - [[Folk Reconstruction Migration Manifest]]

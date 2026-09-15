@@ -33,11 +33,11 @@ The sequence below is authorial fact. Its phases overlap, and later traditions m
 
 1. **The Closing-Court crisis:** diluted dynasties, disputed successions, rebellious clients, failed continuity works, refugee movement, and preparations for escape weaken the Giant order before the Prophet's public campaign.
 2. **The cry and warning:** the Lord answers enslavement, murder, predatory generation, and violated creation. The Prophet is commissioned both to demand release and to prepare a remnant.
-3. **The plagues of unbinding:** bounded signs expose and disable the systems through which Giant courts claim ownership of created goods, human bodies, names, labor, death, and political necessity.
+3. **The plagues of unbinding:** bounded signs expose and disable the systems through which Giant courts claim ownership of created goods, human bodies, names, labour, death, and political necessity.
 4. **Revolt and defection:** enslaved households, burial fraternities, subject cities, client rulers, soldiers, and lesser courts act upon the openings. Some obey one warning without becoming righteous in every other matter.
 5. **The wars of the Closing Courts:** scarcity, exposed betrayal, rival succession, incompatible marriage claims, and competition for escape routes drive Giant houses into responsible civil war.
 6. **The commission of severance:** one Phoenix, supported by specialized angelic choirs and Host servants, contains selected apex threats that mortal liberation cannot safely overcome.
-7. **The breakout and pursuit:** several refugee columns and defecting communities converge toward the Great Glass Desert. Commissioned heavenly servants break the supernatural cohesion of the final pursuit without completing humanity's political work for it.
+7. **The breakout and pursuit:** several refugee columns and defecting communities converge towards the Great Glass Desert. Commissioned heavenly servants break the supernatural cohesion of the final pursuit without completing humanity's political work for it.
 8. **Entry into the Glass:** the ordered camp carries people, animals, seed, tools, records, law, and living crafts through a bounded survivable passage and enters the long refuge by approximately c. 2265 BR.
 9. **The orphaned world:** Giant regions fragment into many successor outcomes while the protected host remains within the Glass. Orphaned human communities begin independent reassemblies outside it.
 10. **The later threshold:** after approximately a century of refuge and people-formation, the host is commanded south. The three-generation sanctuary is not successfully established; the Prophet dies near the outward threshold around c. 2165 BR; bounded camp offices continue without inheriting his commission; the gradual first Ark fission develops in the following generations.
@@ -61,10 +61,12 @@ The number, names, and exact order of individual signs remain open. The followin
 | **Qianglong** | caste measure, coerced specialization, recurrence administration, and the political appropriation of the Four Horsemen's domains | the War of the Four Horsemen and retreat into recurrence vaults |
 | **Ishkatar** | ownership of river, tomb, body, estate, debt, and dynastic title | slave revolt, Giant succession war, and the Giant ritual that dries the Serpent's Spine |
 | **Xolotl** | captive supply, sacrificial calendar, false cosmic necessity, and the Blood Sun's feeding architecture | civil war over dwindling sacrifice and the Blood Sun catastrophe |
-| **Nythalum** | identity-copy, labor and berth allocation, continuity claims, and launch logistics | the rushed physical lunar launch, destruction of the island, and a small number of genuine Moon survivors |
+| **Nythalum** | identity-copy, labour and berth allocation, continuity claims, and launch logistics | the rushed physical lunar launch, destruction of the island, and a small number of genuine Moon survivors |
 | **Anshara** | no direct prophetic plague cycle is authorially assigned | human uprising, mortal-vampire secession, and the parallel Drinking Wars in which the courts consume themselves |
 
 The same created condition may become judgement to an oppressor and provision to the oppressed without a Menhir choosing a moral side. Menhir remain morally blind sovereignties; Idols remain culpable predators whose Thrones survive the loss of particular Masks and feeding systems.
+
+The lesser crownland of [[Nhaldur and the First Rewriting|Nhaldur]] collapsed through the War of Open Keys, human revolt and the failure of its prison roads. A Red Reckoner exploited the crisis on Wrath's behalf. Furor directly rewrote 2,014 captives at Kharvos into the first Grobi, intending a self-reproducing Material army for the military vacuum left by the Giant collapse. This regional catastrophe neither caused the wider Unbinding nor converted every prisoner in Nhaldur.
 
 ## The Phoenix Commission
 
@@ -119,7 +121,7 @@ The signs continue only as required by the sojourn's commission and end when tha
 
 ## The Orphaned World
 
-The lands behind the host do not become one empty ruin field. Their outcomes include human successor cities, collapsing infrastructure, isolated survivors, dead or diminished Giant houses, sealed Titan fragments, genuine Egg White flights, folded refuges, failed escapes, counterfeit ancestors, Idol Masks feeding upon the catastrophe, and physical Nythalum survivors on the Moon.
+The lands behind the host do not become one empty ruin field. Their outcomes include human successor cities, collapsing infrastructure, isolated survivors, dead or diminished Giant houses, sealed Titan fragments, genuine Egg White flights, folded refuges, failed escapes, counterfeit ancestors, Idol Masks feeding upon the catastrophe and physical Nythalum survivors on the Moon. Nhalduran refugees carried Giant ancestry, prison craft and Veyrun command speech into the southern cold world, while Grobi packs spread along the ruined roads as a separate lineage.
 
 A Giant who crosses bodily into the Egg White remains the same `giant-continuity`; a Patron identity describes its anchor relationship rather than a new species or soul. An office, Reconstruction, blood-memory, residue, legend-persona, or Idol Mask claiming a dead ruler is not automatically that ruler. [[Giant Descent and Creaturely Continuity]] controls these distinctions.
 
@@ -144,6 +146,8 @@ No account may use this event to explain the Glass, the Year of Standing Stars, 
 - [[Age of Chains]]
 - [[Age of Exodus]]
 - [[The Glass Sojourn]]
+- [[Nhaldur and the First Rewriting]]
+- [[Historical Atlas of the Southern Cold World]]
 - [[Great Glass Desert]]
 - [[Giant Descent and Creaturely Continuity]]
 - [[Phoenixes]]

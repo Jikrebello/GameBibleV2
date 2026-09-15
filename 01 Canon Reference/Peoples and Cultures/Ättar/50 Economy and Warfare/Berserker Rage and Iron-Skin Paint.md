@@ -13,7 +13,7 @@ tags: []
 ---
 # Berserker Rage and Iron-Skin Paint
 
-Rage is the lesser inheritance of [[Mother Moon's Bargain]]. Strongly moon-blooded Ättar of either sex can trigger it in extremity, but formal berserker training and office are male customs.
+Rage is the lesser inheritance of [[Mother Moon's Bargain]]. The original petition placed it in the people sworn beneath the four chiefs, and later intermarriage spread it beyond the paternal skinwalker lines. Strongly moon-blooded Ättar of either sex can trigger it in extremity, but formal berserker training and office are male customs.
 
 ## The Rage
 

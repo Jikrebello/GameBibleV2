@@ -33,7 +33,7 @@ The [[Four Ways of Jirahar Life|Four Ways]] describe forms of communal life into
 
 **Road Companies** travel with wagons, animals, tents, shrines, classrooms and workshops. They carry goods and messages, repair wheels and metalwork, practise medicine, perform and take seasonal employment. Their routes serve small markets as well as great trading centres.
 
-**Sea Fleets** are enduring shipboard communities. Family vessels travel in mutual-aid flotillas, carrying artisans, fishers, navigators, pilgrims and cargo. Migdal Yamma is their principal winter anchorage.
+**Sea Fleets** are enduring shipboard communities. Family vessels travel in mutual-aid flotillas, carrying artisans, fishers, navigators, pilgrims and cargo. [[Migdal Yamma]] is their principal winter anchorage.
 
 **Turning Companies** move between roads and rivers. Their wagon bodies and household fittings can be loaded onto prepared barges; river yards allow the change between the two. Knowledge of flood seasons, towpaths, ferries and slips is central to their work.
 
@@ -51,7 +51,7 @@ The Jirahar reject Isfir's claim to be the Redeemer while remembering him as a s
 
 Jirahar occupations include fishing, textiles, dyeing, salvage, translation, copying, book repair, animal dealing, navigation, medicine and seasonal harvest work. Road and river companies also provide transport where larger merchants have little reason to operate. Household means vary widely.
 
-Restrictions on landholding, guild entry and public office led some communities into credit, brokerage, remittance and insurance. Migdal Dahava became an important centre of clearing and lending. Recognised courts can authenticate a house's letters elsewhere, but payment still depends on that house's reserves and reputation. Medori firms compete with Dahava while also employing Jirahar correspondents.
+Restrictions on landholding, guild entry and public office led some communities into credit, brokerage, remittance and insurance. [[Migdal Dahava]] became an important centre of clearing and lending. Recognised courts can authenticate a house's letters elsewhere, but payment still depends on that house's reserves and reputation. [[01 Canon Reference/Peoples and Cultures/Sestaran Concord/60 Realms and Peoples/Grand Duchy of Fiorenzia/Medori Bank.md|Medori firms]] compete with Dahava while also employing Jirahar correspondents.
 
 Way-Gates permit travel between fixed tower anchors. Preparation, Keeper control and the receiving community's agreement restrict their use. Ordinary roads and vessels serve the much larger number of places beyond those anchors. [[Prophet's Roads and the Underways]] distinguishes these threshold passages from physical tunnels and concealed routes.
 
@@ -63,4 +63,7 @@ At [[Qasr Ilyun]], Jirahar road companies maintain memorial paths, expedition re
 
 ## Further reading
 
-Begin with the [[Historical Spine of the Jirahar]] and [[01 Canon Reference/Peoples and Cultures/Jirahar/70 History and Conflicts/Historical Atlas of Qiryath before Atheria.md]]. [[Four Ways of Jirahar Life]] and [[01 Canon Reference/Peoples and Cultures/Jirahar/60 Realms and Peoples/Tower Towns and the Prophet's Roads.md|Tower Towns and the Prophet's Roads]] introduce the living forms of communal life, the five great towers and [[Qiryath Reqa]]. [[01 Canon Reference/Peoples and Cultures/Jirahar/30 Society and Daily Life/Jirahar Economy and Trade.md|Jirahar Economy and Trade]], [[Jirahar Defence and Caravan Law]] and [[Jirahar and the Wider World]] explain their working relationships with neighbouring peoples.
+- **History:** Begin with the [[Historical Spine of the Jirahar]] and [[01 Canon Reference/Peoples and Cultures/Jirahar/70 History and Conflicts/Historical Atlas of Qiryath before Atheria.md|Historical Atlas of Qiryath before Atheria]].
+- **Ways of life:** [[Four Ways of Jirahar Life]] and [[01 Canon Reference/Peoples and Cultures/Jirahar/60 Realms and Peoples/Tower Towns and the Prophet's Roads.md|Tower Towns and the Prophet's Roads]] introduce the living forms of communal life, the five great towers and [[Qiryath Reqa]].
+- **Work and neighbours:** [[01 Canon Reference/Peoples and Cultures/Jirahar/30 Society and Daily Life/Jirahar Economy and Trade.md|Jirahar Economy and Trade]], [[Jirahar Defence and Caravan Law]] and [[Jirahar and the Wider World]] explain the practical relationships that sustain dispersed communities.
+- **Compare cultures:** Return to [[Cultures MOC|Peoples and Cultures]] for the other principal societies of the known world.

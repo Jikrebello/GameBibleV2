@@ -22,14 +22,14 @@ This ledger keeps the regional histories on one calendar while allowing them to 
 
 | Dates | Atherian spine | Sacred Basin | Gateway country | Qiryath and east | Wells and open country | Southern cold world | Distant worlds |
 |---:|---|---|---|---|---|---|---|
-| c. 2300–2165 BR | Unbinding; Glass refuge | Ishkatari client works fail; independent river communities recover | older shore villages survive separate Giant and client collapses | One Glass People; Orphaned Ubar and Vashari communities survive independently | Vathra falls during Great Unyoking | Giant estates fail unevenly among Orphaned survivors | independent Giant collapses and local survivals |
-| c. 2165–1900 BR | Prophet dies; southern separation begins | loose-water generations; canal and burial associations | coast receives occasional Near-Glass migrants | Near-Glass continuum forms road camps; independent Ubar towns and Vashari hearth domains develop | Orphaned herding, hunting and well societies | halls, shore households and forest communities consolidate | local relative sequences only |
-| c. 1900–1400 BR | southern war-settlers; heroic-maritime world | first basin crowns; early divisions | Ahdari migration and mixed ports | northern fission; mature road houses connect tower, Ubar and upland societies | Tarkhan wells and post-Vathran circuits; Ahdari well communities | regional Folk worlds and early Ättar divergence | independent reassembly |
-| c. 1450–800 BR | city-states and Compact formation | Twin-Reed division, reunification, Delta house and southern restoration | port league becomes maritime republic | Bronze Roads fail; protector houses and First Qiryath rise; Arqesh and House Tiravan grow | caravan and open-country coalitions | regional trade and Atherian contact | package-specific sequences |
-| c. 800–520 BR | Ortheian hegemony, Eryndor's eastern conquest, successor states, Caleran recovery and Gateway Wars | imperial contraction, Single Radiance crisis, Arqeshite intervention, Eryndor's visit and limited successor garrisons | Qarzeth's wars, payment revolt, child collections and destruction in a sea shaped by Delkosi successors | Arqesh destroys First Qiryath in 742; Arezan and Eryndor take Arqesh in 690; Second Qiryath c. 660; Vasharan road empire forms | coalitions participate in Arqesh's fall and regional wars | Atherian settlement and resistance continue | no invented core-world contact |
-| c. 520–350 BR | last Republic; Thalion's rise | several crowns under unequal Vasharan influence | spared towns; Sarqen; Nerethan kings; Samyra | Tasar revolt and eastern sea wars; Vasharan client struggle; Orvaz II retains the eastern empire at 350 | pre-horse Tarkhan and ancient Ahdari client kingdoms | independent and allied southern societies | independent sovereignties |
+| c. 2300–2165 BR | Unbinding; Glass refuge | Ishkatari client works fail; independent river communities recover | older shore villages survive separate Giant and client collapses | One Glass People; Orphaned Ubar and Vashari communities survive independently | Vathra falls during Great Unyoking | Nhaldur's War of Open Keys; a Red Reckoner prepares c. 2284 First Rewriting for Wrath; fortress and satellite-prison collapse; human and Grobi dispersal | independent Giant collapses and local survivals |
+| c. 2165–1900 BR | Prophet dies; southern separation begins | loose-water generations; canal and burial associations | coast receives occasional Near-Glass migrants | Near-Glass continuum forms road camps; independent Ubar towns and Vashari hearth domains develop | Orphaned herding, hunting and well societies | first Grobi breeding hearths; southern recovery; lesser Giant and giant-blooded refugees enter Folk and Ättar ancestors; proto-Atherian encounters begin | local relative sequences only |
+| c. 1900–1400 BR | southern war-settlers; heroic-maritime world | first basin crowns; early divisions | Ahdari migration and mixed ports | northern fission; mature road houses connect tower, Ubar and upland societies | Tarkhan wells and post-Vathran circuits; Ahdari well communities | great halls, gords and annual All-Things; c. 1608–1596 Empty Halls war grows from recurring winter Grobi hosts; lunar pact follows | independent reassembly |
+| c. 1450–800 BR | city-states and Compact formation | Twin-Reed division, reunification, Delta house and southern restoration | port league becomes maritime republic | Bronze Roads fail; protector houses and First Qiryath rise; Arqesh and House Tiravan grow | caravan and open-country coalitions | Belathi, Hartheni and Odrani growth; Seven Gords; Dramovar and fringe Quiet Measure order; early Ättar sea-kings; predatory Grobi exchanges and hosts | package-specific sequences |
+| c. 800–520 BR | Ortheian hegemony, Eryndor's eastern conquest, successor states, Caleran recovery and Gateway Wars | imperial contraction, Single Radiance crisis, Arqeshite intervention, Eryndor's visit and limited successor garrisons | Qarzeth's wars, payment revolt, child collections and destruction in a sea shaped by Delkosi successors | Arqesh destroys First Qiryath in 742; Arezan and Eryndor take Arqesh in 690; Second Qiryath c. 660; Vasharan road empire forms | coalitions participate in Arqesh's fall and regional wars | Atherian trade, recruitment and settlement expand along selected northern Folk and maritime approaches | no invented core-world contact |
+| c. 520–350 BR | last Republic; Thalion's rise | several crowns under unequal Vasharan influence | spared towns; Sarqen; Nerethan kings; Samyra | Tasar revolt and eastern sea wars; Vasharan client struggle; Orvaz II retains the eastern empire at 350 | pre-horse Tarkhan and ancient Ahdari client kingdoms | Casvilar's c. 390–379 conquests remain local; garrisons, allied and resistant Folk, eastern gords, Ättar halls and Grobi packs coexist | independent sovereignties |
 
-The Package C history in the **Wells and open country** column was approved and promoted on 12 September 2026.
+The Package C history in the **Wells and open country** column was approved and promoted on 12 September 2026. The named Package D history in the **Southern cold world** column was approved and promoted on 13 September 2026.
 
 ## Population and ancestry register
 
@@ -47,7 +47,8 @@ The Package C history in the **Wells and open country** column was approved and 
 | Vashari and Vasharan subjects | Orphaned highland people; multi-people imperial subjecthood | Vashari is ethnic-cultural and Vasharan is political-imperial |
 | Ortheians and Delkosi | Atherian-speaking upland people; Braided successor culture | neither identity conveys Caleran citizenship |
 | Tarkhan | Orphaned | shaped by Vathra's collapse without inheriting Giant continuity or a universal royal line |
-| Folk and Ättar | related Orphaned populations | develop regionally; no single ancestral Folk kingdom |
+| Folk and Ättar | related Orphaned populations with later lesser Giant and giant-blooded human mixture | develop regionally; Giant traits spread irregularly chiefly through human descendants, while rare true Giant births retain Giant continuity; no single ancestral Folk kingdom or biological caste |
+| Grobi | `wrath-rewritten-life`; biological ancestry from the First Rewriting, no routable human souls | one true-breeding lineage with five food-driven bodily stages, intelligence and suffering but no human moral conscience; the Package D integration supersedes older full-agency descriptions |
 | Sestaran precursors | several Orphaned and early Braided communities | the Concord and Sestaran identity belong to later history |
 | Nsizwa | Orphaned | independent survival and development on their own landmass |
 
@@ -57,7 +58,7 @@ The Atherian, Package A and Package B identity histories through 350 BR were pro
 
 The integration fixes the distinction between Atherian culture and Caleran citizenship; Qahuri civilisation and Twin-Reed allegiance; Gateway ancestry and Qarzethi or Sarqeni civic identity; Jirahar peoplehood and Qiryathi attachment; Arqeshite culture and Ubar dynastic rule; Vashari ancestry and Vasharan subjecthood; and Atherian-speaking Ortheia and Caleran political membership.
 
-Package C now supplies the wider ancient Ahdari and Tarkhan self-understanding. [[Package C - Wells, Open Country and Vathra Canon Integration Review]] records its public destinations and protected matters. Package D retains Folk and Ättar self-understanding.
+Package C supplies the wider ancient Ahdari and Tarkhan self-understanding. [[Package C - Wells, Open Country and Vathra Canon Integration Review]] records its public destinations and protected matters. Package D supplies the Folk and Ättar formation histories; [[Package D - Folk Ättar and Southern Cold World Canon Integration Review]] records their destinations and boundaries.
 
 ## Package C development register
 
@@ -125,6 +126,25 @@ The following register records the approved Package B history promoted on 11 Sep
 | 414–397 BR | road households work through contested ports | — | Vasharan governors bargain with Marovan Veyr's clients | later Atherian commands grow from older coastal rivalries | canon |
 | 376–350 BR | Qiryath remains within the Vasharan sphere | Arqesh and Ubar remain Vasharan provinces | Orvaz II gives limited aid during Caleran wars and preserves his state | Thalion begins imperial government beside an eastern peer | canon |
 
+## Package D development register
+
+The following sequence was submitted as the Package D authorial proposal on 12 September, revised from the author's open comments and promoted through the separate canon integration on 13 September 2026.
+
+| Date | Nhaldur and Grobi | Folk constellations | Ättar and Deep Voice | External relationship | Status |
+|---:|---|---|---|---|---|
+| before c. 2450 BR | polar concession grows into Nhaldur's six-ring and satellite-prison system | older southern coast, forest and valley populations remain outside or beneath its reach | far-cold households and eastern workers predate the later named traditions | the Five Horizons and numerous lesser southern Giant crowns use the crownland | canon |
+| c. 2450–2300 BR | imprisoned Key Houses govern Ossar, Molkar, Suldren, Avarn, Veyrun, Kharvos and scores of dependent sites | captive and free southern households supply fish, grain, fuel, mining and routes | Veyrun callers operate Giant speaking relays and pressure galleries | Nhaldur trades iron, stormglass, prisoners and technical work | canon |
+| c. 2292–2264 BR | War of Open Keys; Red Reckoner directs Kharvos regimen; Wrath rewrites 2,014 captives in c. 2284; rings fall separately | Vaska, Ilyen, Sorna and other humans revolt; Giant and giant-blooded prisoners escape | Veyrun callers open the eastern road and carry work speech into the uplands | wider Unbinding creates the military vacuum Wrath intends Grobi to fill | canon |
+| c. 2264–2050 BR | first Grobi births, Narrow-Bowl and Ash-Marrow breeding hearths, Kharvos refuge | refugees and inherited Giant traits enter older communities across coasts, forests and rivers | eastern work speech becomes local teaching | no single southern successor inherits Nhaldur | canon |
+| c. 2050–1900 BR | independent Grobi bands and hearths spread through winter routes | proto-Atherian forts meet Caerethi, Rauven, Odrani and other occupied country | far-cold halls enlarge; early Voice schools form | Gate Measured Twice ends one proto-Atherian fort without expelling every settler | canon |
+| c. 1900–1650 BR | annual winter Grobi hosts, predatory exchanges and dominance politics develop | Belathi, Hartheni, Odrani, Kreseni and associated local peoples become recognisable | great halls, All-Things, animal standards, compensation and Voice lineages mature | regional contact and intermarriage continue | canon |
+| c. 1608–1596 BR | Gharuk and Varka lead Nine-Drum Host; Urzha betrays him after he eats her brood; Gharuk's own orcs consume him when the food road fails | Folk neighbours supply some routes and refuge without joining the pact | four chiefs accept the two-part Moon bargain; Hedra opposes the changeling price and controls common stores | War of Empty Halls remains centred on far-cold ranges | canon |
+| c. 1550–1400 BR | Eighth Share arguments and recurring winter routes spread | Brael, forest assemblies and eastern gords enlarge | four pact-kindreds and Moon-Seer exchange consolidate | Tidewood retains separate local development | canon |
+| c. 1400–800 BR | Kharvos White Pot exchange and rival host customs | Three Fosters and Three Crossings wars; shorter trade survives Bronze Road failures | Seven Gords c. 1184–1161; Dramovar 1018; fringe Zephyraxis druids c. 1008; heroic halls and early sea-kings | western, eastern, Ättar and future Package E routes overlap without common rule | canon |
+| c. 800–520 BR | Grobi predation, barter and gland traffic meet expanding states | Atherian trade, service and colonies alter northern Folk districts | Ättar foreign service and Deep-Voiced auxiliaries increase | no Atherian government controls the entire cold south | canon |
+| c. 390–379 BR | Grobi exploit some damaged stores and military roads | Morveth allies; Drenoc resists; Kellovar falls 383; Darneth fighters mutilated 380; Velcara returns | 385 coast voyage gains hostages and gifts but no Ättar province | canonical Casvilar sequence controls every new placement | canon |
+| 350 BR | rival Kharvos packs and annual winter hosts | Belathi towns, Hartheni assemblies, Rauven clients and resisters, Odrani gords and Kreseni pass communities | rival Ättar jarldoms, Deep Voice schools and fringe Quiet Measure druids | Thalion inherits routes, clients and incomplete conquest | canon |
+
 ## Material relationships
 
 ### Food and water
@@ -167,6 +187,24 @@ Arqesh and Vashar use enslaved captives, debt-bound households, conscripted vill
 
 Qiryath's worship, Arqeshite royal display and Daryam's teaching of Right Order remain separate traditions. The Crowned Countenance and Witness of Dawn are dependent Pride Masks exploiting different royal systems. Tended fires and royal images do not contain human souls. Astaroth's military correspondences among Atherians neither merge him with those Masks nor approve conquest.
 
+## Package D material relationships
+
+### Food, heat and bodily scale
+
+Nhaldur requires imported grain, local fish, sheltered agriculture and geothermal heat. Loss of those systems drives the War of Open Keys. Later Folk and Ättar households depend upon mixed production and winter storage. Grobi food supply directly changes individual stages and host scale. Packs bulk through spring, summer and autumn, then converge northward when winter closes southern forage. A large successful army consumes the material basis of its own continued strength unless it preserves a route and brood share.
+
+### Roads, rivers and coasts
+
+Belathi rivers and Dovren–Morlach coasts connect western cattle, salt and metal. Hartheni crossings and wetland paths join the middle forest while limiting invading supply. Odrani rivers connect Varena, Kreseni passes and Vezhari shores. Ättar boats and Grobi winter roads cross these systems without putting them under one government. Package E retains the full island and inner-sea network.
+
+### Labour, captivity and households
+
+Nhaldur turns prisoners and inherited dependants into a skilled labour population; its privileged Key Houses are also hereditary prisoners. Folk and Ättar later use slavery, captive service, ransom, adoption, fosterage and manumission under different laws. Grobi do not admit humans to pack membership and keep captives only as food or for an immediate task before slaughter. Human and Grobi continuity never changes through captivity. Work by cooks, pilots, miners, smiths, store keepers and child carers remains part of human and Ättar outcomes; crude Grobi roles serve predation and breeding strength.
+
+### Extraordinary traditions
+
+Deep Voice acts through learned Air-and-Earth resonance, meaningful speech, body and known place. Far calls relay intelligible words through tested chambers, horns or air paths; weather turning is a separate redirection of local wind or precipitation. Sarvek's Quiet Measure is a fringe high-mountain order devoted to Zephyraxis. The tradition remains distinct from Mother Moon's Ättar covenant and from local Wrath feeding effects among Grobi. Menhir, Mask, Patron, residue and human interpretation must be distinguished at each named cult centre or chamber.
+
 ## Cross-package dependencies
 
 | Item | Controlling future package | Present treatment |
@@ -177,6 +215,11 @@ Qiryath's worship, Arqeshite royal display and Daryam's teaching of Right Order 
 | Atherian port allies in the Gateway Wars | E plus existing Atherian canon | preserve current Arkenan and Saronikan relationships |
 | Qahuri southern neighbours | C or F according to final geography | use cataract and desert approaches without assigning modern borders |
 | Nerethan rule and Samyra | existing canon | Package A supplies older local and Qahuri context only |
+| Belathi outer-coast and island routes | Package E | Package D establishes southern participants and cargo without naming every braided precursor or fixing the sea map |
+| Kreseni and Vardeni kinship | Packages C and D | old southern contact and intermarriage; no merger, replacement or single border-caused fission |
+| Casvilar's southern conquests | existing imperial-founding canon plus Package D | retain Morveth, Drenoc, Velcara, Kellovar, Darneth and the 385 coast-voyage limits |
+| Grobi continuity, stage biology and agency | Package D canon delivery | First Rewriting, one five-stage lineage, Wrath authorship and intelligent predation without human moral conscience are fixed; older full-agency descriptions are superseded |
+| Deep Voice and Harmonic Shellcraft | Package D canon delivery plus later magic development | related elemental resonance; separate institutions and techniques |
 
 ## Map notes for later revision
 
@@ -186,10 +229,15 @@ Qiryath's worship, Arqeshite royal display and Daryam's teaching of Right Order 
 - Mark Qarzeth and Sarqen as separate sites. Qarzeth occupies a defensible principal harbour with nearby cultivated land; Sarqen lies at a smaller sheltered landing that can enlarge after Qarzeth's destruction.
 - Place Esharat inland from Sarqen on a cart and pack route to cultivated country and the basin approaches.
 - Preserve the ruined capital's salted district as local terrain. It does not sterilise the whole gateway country.
+- Place Nhaldur beyond the principal inhabited southern ranges near the polar country; show it, if at all, as a ruin cluster rather than a modern border.
+- Relate Avarn to outer cold-water routes, Veyrun to eastern upland approaches and Kharvos to the largest ancient Grobi route-and-market zone.
+- Treat Belathi, Hartheni and Odrani as overlapping historical constellations rather than surveyed territorial blocks.
+- Keep the Rauven-facing northern districts affected by Casvilar separate from Brael, Tidewood, the deep Hartheni interior and the eastern gords.
+- Preserve the Ättar range order already used by the current map; Package D adds history, not coordinates.
 
 These are cartographic suggestions. They do not revise the current map.
 
-## Protected and unresolved matters
+## Protected matters and promotion boundaries
 
 - Ishkatar's lost river and the Sacred Basin's living river remain separate.
 - The fate of individual Titan-Firstborn and Giant rulers remains governed by existing continuity rules.
@@ -197,4 +245,10 @@ These are cartographic suggestions. They do not revise the current map.
 - The Gluttony Mask's condition after the destruction of its Qarzeth feeding architecture remains unknown.
 - No Qahuri flood response proves a king righteous or a dynasty divinely chosen.
 - No Gateway or Nerethan ancestry carries inherited guilt for child sacrifice.
+- The precise deep state and present accessibility of Molkar and Kharvos remain unassigned.
+- Suroth's answering power is not identified through cult description alone.
+- Deep Voice neither commands Menhir nor restores human souls. Package D fixes the named ancient workings while later magic development retains their technical limits.
+- Grobi live birth, born-tall higher-stage floors and the five food-driven stages are canon at the degree recorded in [[Grobi Overview]] and [[Grobi History and Pack Life]].
+- The Package D integration resolves the former Grobi agency conflict in favour of intelligent predation without human moral conscience. Older full-agency descriptions are superseded.
+- Package D creates no post-350 conquest, no post-1360 outcome and no Package E maritime ethnogenesis.
 - Post-1360 outcomes, protected Weirds and true Idol succession remain untouched.

@@ -13,7 +13,7 @@ tags: []
 origin_layer: shadowlands
 continuity: wrath-rewritten-life
 intelligence: sapient
-moral_agency: full
+moral_agency: none
 encounter_tier: aligned
 rank: [nuisance, standard]
 creature_family: Grobi
@@ -26,13 +26,13 @@ manifestation_class: []
 ---
 # Goblins
 
-Goblins are the first and least food-intensive Grobi stage. A mature goblin is roughly the height of a prepubescent human child and usually weighs less. Small size is a metabolic strategy, not childhood: goblins can plan, speak, remember obligations, feel fear, and make choices.
+Goblins are the first and least food-intensive Grobi stage. A mature goblin is roughly the size and strength of a human child of ten or twelve. Small size is a metabolic strategy rather than childhood: goblins can plan, speak, remember obligations, feel fear and select among routes, victims and tactics.
 
 ## Ecology and Lifecycle
 
 Goblins can metabolize spoiled flesh, roots, bark, insects, leather, and refuse that cannot sustain larger stages. Rapid reproduction and low maintenance make them the stage most likely to survive a failed migration. Extreme scarcity produces cannibalism, dispersal, or deliberate reversion by grown hobgoblins.
 
-Sustained surplus causes an acquired goblin body to grow toward [[Hobgoblins|hobgoblin]] scale. If the surplus disappears, the body consumes stored mass and may revert. A Grobi born with a stable higher-stage baseline does not safely revert below that inherited floor.
+Sustained surplus causes an acquired goblin body to grow towards [[Hobgoblins|hobgoblin]] scale. If the surplus disappears, the body consumes stored mass and may revert. A Grobi born with a stable higher-stage baseline does not safely revert below that inherited floor.
 
 ## Signs
 
@@ -44,11 +44,11 @@ Sustained surplus causes an acquired goblin body to grow toward [[Hobgoblins|hob
 
 ## Threat Pattern
 
-Goblins prefer concealment, traps, pursuit, and numerical advantage because direct contests waste food and bodies. Their regeneration converts stored tissue into emergency repair; it is rapid but not free. A starving goblin heals poorly, while a well-fed one may survive a wound a human observer considered fatal.
+Goblins prefer concealment, traps, poison, repeated hit-and-run attacks and numerical advantage because direct contests against grown humans waste food and bodies. Their regeneration converts stored tissue into emergency repair; it is rapid but not free. A starving goblin heals poorly, while a well-fed one may survive a wound a human observer considered fatal.
 
-## Society and Agency
+## Pack role and behaviour
 
-Warbands use goblins as scouts, foragers, tunnelers, handlers, and expendable screens. That exploitation does not make every goblin innocent, and fear does not make cowardice their fixed nature. Individuals can show loyalty, cruelty, restraint, calculation, and spite within the pressure imposed by Wrath and hunger.
+Warbands use goblins as scouts, foragers, tunnelers, handlers and expendable screens. Goblins attach themselves to clutch-mates and successful protectors, conceal food from stronger stages and abandon leaders which can no longer feed them. Their calculations serve survival, dominance and consumption rather than moral restraint.
 
 ## Weakness and Permanent Defeat
 
@@ -56,7 +56,7 @@ Goblins regenerate only while they retain food, blood, and functioning stage tis
 
 ## Materials and Remains
 
-Teeth, scar tissue, and the small first-stage gland can identify diet, host relation, and recent growth pressure. Alchemists sometimes use gland extract to force rapid tissue repair, but dosage easily causes fever, appetite, and uncontrolled growth. The remains carry no human soul and are not therefore morally ownerless; desecration can still violate law, truce, or ordinary decency.
+Teeth, scar tissue and the small first-stage gland can identify diet, host relation and recent growth pressure. Alchemists sometimes use gland extract to force rapid tissue repair, but dosage easily causes fever, appetite and uncontrolled growth. Frontier law may still govern the treatment of remains because health, truce and human conduct do not depend upon the dead creature possessing a soul.
 
 ## Regional Names
 

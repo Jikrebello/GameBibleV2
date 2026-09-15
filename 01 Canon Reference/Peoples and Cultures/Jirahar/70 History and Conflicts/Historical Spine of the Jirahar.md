@@ -72,8 +72,9 @@ Communal descent and conversion law preserved identity across host societies. Du
 ## Stories and neighbouring histories
 
 - [[G-56 - The Empty Seat Facing Outward|The Empty Seat Facing Outward]]
+- [[G-71 - The Five Staffs and the Empty Granary|The Five Staffs and the Empty Granary]]
 - [[G-59 - The Walking Court and the Wall That Stayed|The Walking Court and the Wall That Stayed]]
-- [[G-60 - The Bride of the Dry Road|The Bride of the Dry Road]]
+- [[G-60 - The Bride of the Dry Road|The Son-in-Law and the Stolen Gods]]
 - [[G-04 - The Seven Who Stopped Seeking Home|The Seven Who Stopped Seeking Home]]
 - [[G-44 - Three Roads for One Cry|Three Roads for One Cry]]
 - [[World Historical Atlas MOC]]

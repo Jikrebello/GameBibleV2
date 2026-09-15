@@ -5,8 +5,8 @@
     <h1>A world, and everything it remembers.</h1>
     <p class="home-intro">Peoples and kingdoms. Saints and old hungers. The lives, ruins and stories that make the World Egg.</p>
     <section class="opening-shelf" aria-label="Begin reading">
-        <div><div class="eyebrow">Begin with history</div><h2><a href="@LinkResolver.PageUrl("01 Canon Reference/History/World Historical Atlas MOC.md")">The World Historical Atlas</a></h2><p>From the first rebellions to the inherited world of 1360. Follow an age, a people or a tale into the rest of the library.</p></div>
-        <div class="shelf-links"><a href="@LinkResolver.PageUrl("01 Canon Reference/History/Timeline MOC.md")">Through the ages <span aria-hidden="true">→</span></a><a href="@LinkResolver.PageUrl("01 Canon Reference/History/80 Myths and Legendary Histories/Myths and Legendary Histories MOC.md")">Myths still told <span aria-hidden="true">→</span></a><a href="@LinkResolver.PageUrl("00 Start Here/Canon Index.md")">The setting index <span aria-hidden="true">→</span></a></div>
+        <div><div class="eyebrow">New to the encyclopedia?</div><h2><a href="@LinkResolver.PageUrl("00 Start Here/World Egg Reader Guide.md")">A reader's guide to the World Egg</a></h2><p>Meet the world in a short, ordered route, then choose a people, place, period or question to follow more deeply.</p></div>
+        <div class="shelf-links"><a href="@LinkResolver.PageUrl("01 Canon Reference/Peoples and Cultures/Cultures MOC.md")">Meet the peoples <span aria-hidden="true">→</span></a><a href="@LinkResolver.PageUrl("01 Canon Reference/Geography/Geography Atlas.md")">See where they live <span aria-hidden="true">→</span></a><a href="@LinkResolver.PageUrl("01 Canon Reference/History/World Historical Atlas MOC.md")">Follow world history <span aria-hidden="true">→</span></a></div>
     </section>
     <h2 class="section-heading">Explore the encyclopedia</h2>
     <div class="topic-grid">
@@ -19,6 +19,7 @@
 </div>
 @code {
     private static readonly (string Title, string Description, string Url)[] Topics = [
+        ("History & legends", "A connected route from the first rebellions to the inherited world of 1360.", LinkResolver.PageUrl("01 Canon Reference/History/World Historical Atlas MOC.md")),
         ("Peoples & cultures", "Origins, migrations, kinships and the making of civilizations.", LinkResolver.PageUrl("01 Canon Reference/Peoples and Cultures/Cultures MOC.md")),
         ("Cosmology & powers", "The World Egg, its realms, and those who dwell beyond the familiar.", LinkResolver.PageUrl("01 Canon Reference/Cosmology/Cosmology MOC.md")),
         ("Places & landscapes", "Countries, cities, routes and the wounds left in the earth.", LinkResolver.PageUrl("01 Canon Reference/Geography/Geography Atlas.md")),

@@ -18,13 +18,13 @@ tags: [core-canon]
 
 ## Original Commission and Corruption
 
-The order that became Furor was commissioned to stand between violence and the vulnerable, to restrain force, and to carry just anger toward protection. It rebelled by claiming the sword's power as its own good. After fusing with the Shadowlands, every defended boundary became a front and every remembered wound became permission for a wider war.
+The order that became Furor was commissioned to stand between violence and the vulnerable, to restrain force, and to carry just anger towards protection. It rebelled by claiming the sword's power as its own good. After fusing with the Shadowlands, every defended boundary became a front and every remembered wound became permission for a wider war.
 
 ## Dominion: The Red Marches
 
 The Red Marches are a moving war-country of furnace skies, ash trenches, burned halls, trophy roads, and battlefields that grow new enemies from every victory. Fire expresses Wrath's appetite for escalation and public destruction. It is not Hell, which remains a cold, wet, pressure-heavy refusal ecology.
 
-Roads in the Marches lead toward the person a traveler most wants to punish. The dead rise as accusations, weapons remember previous wielders, and fortifications migrate overnight so that no peace can become stable.
+Roads in the Marches lead towards the person a traveller most wants to punish. The dead rise as accusations, weapons remember previous wielders, and fortifications migrate overnight so that no peace can become stable.
 
 ## Feeding and Mortal Network
 
@@ -35,7 +35,7 @@ Furor feeds on blood feud, massacre, humiliation answered through collective pun
 - [[Wrath Masks and War-Beasts|Feud-Hounds]] track transferable grievance.
 - [[Wrath Masks and War-Beasts|Red Reckoners]] turn injury into expanding lists of legitimate targets.
 - [[Wrath Masks and War-Beasts|Pyre-Crowned]] are autonomous warlords of escalation.
-- [[Grobi Overview|Grobi]] are Wrath's principal self-reproducing Material harvest: intelligent, soulless, Wrath-rewritten life rather than masks or damned souls.
+- [[Grobi Overview|Grobi]] are Wrath's principal self-reproducing Material harvest: intelligent, soulless and nonmoral Wrath-rewritten life rather than masks or damned souls. Wrath created them directly at Kharvos to exploit the military vacuum left by the Giant collapse.
 
 ## Manifestation
 
@@ -47,7 +47,7 @@ Wrath hates Greed's restraint of useful destruction, Pride's demand for sole glo
 
 ## Counter-Countenance
 
-**The Sheathed Sword** reveals whom force may rightly protect and where retaliation has ceased to be defense. It does not demand passivity, deny justice, or prevent a necessary blow.
+**The Sheathed Sword** reveals whom force may rightly protect and where retaliation has ceased to be defence. It does not demand passivity, deny justice, or prevent a necessary blow.
 
 ## Weakness and Permanent Defeat
 
