@@ -13,9 +13,7 @@ tags: [world-historical-atlas]
 ---
 # The Fall and the Long Reconquest
 
-## Atlas narrative
-
-The following account distinguishes established history from the received stories named within it.
+The Fall and the Long Reconquest runs from Caleran's capture by Idris al-Fattah in 905 AR through the reconquest's completion in 1052. Its central change is the loss and gradual, incomplete recovery of the imperial capital: fifty-two years of occupation reshape the population that returning rulers then have to govern, and the reconquest restores Atherian government province by province rather than in one clean reversal. The age matters because the mixed loyalties, unresolved claims and rival successor courts it leaves behind feed directly into the later schism of [[The Great Split — Two Crowns, One Fire|the Great Split]].
 
 ## The fall was inhabited
 
@@ -48,6 +46,8 @@ Mountain forts, abandoned villages, rebuilt harbours and mixed cemeteries make t
 The reconquered empire remained incomplete. Zanthir and the Velian States stayed outside imperial rule. Meanwhile eastern crowns made their own claims to Atherian inheritance. [[The Great Split — Two Crowns, One Fire]] grew within that world while the Reconquest was still unfinished.
 
 ## Atlas navigation
+
+**Previous:** [[The Long Frontier and the First Unsealing]] · **Atlas:** [[The Ages of the World]] · **Next:** [[The Great Split — Two Crowns, One Fire]]
 
 - [[World Historical Atlas MOC]]
 - [[Myths and Legendary Histories MOC]]

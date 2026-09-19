@@ -15,39 +15,7 @@ tags: []
 
 The Age of the Redeemer encompasses the life of Isfir, his public ministry from approximately 3 BR to 0 AR, his execution by Atherian authority and his resurrection on the third night. These events transformed the human soul-road and established the central truth around which later churches, empires and persecutions developed. The age also includes the immediate political and religious consequences among the Jirahar and within imperial Caleran.
 
-## Jirahar Birth
-
-Isfir is born in 33 BR to a Jirahar household connected to the eastern tower and caravan world. He is raised in the Scrolls, Peshara argument, craft, pilgrimage, and the memory of two exiles.
-
-## Ministry, 3 BR-0 AR
-
-Isfir proclaims the Lord's kingdom, heals, casts out corrupting powers, condemns Star worship, and challenges both imperial domination and legal authorities who use correct forms without mercy. He does not teach that law or the Jirahar covenant were meaningless; he claims their fulfilment and exposes their misuse.
-
-His followers include Jirahar and people of other nations. His Mesakha and divine claims divide Jirahar courts. Some follow him, some reject him lawfully, and a controlling council faction decides he is dangerous enough to deliver to imperial power.
-
-## Trial and Binding, 0 AR
-
-Lord-Scribe Ezrahel bar Qoreth and a majority of participating senior elders press Atherian authorities for execution. They intend his death while lacking power to impose it themselves. High Augur Severan and the imperial court choose the sentence. Atherian soldiers bind Isfir to the Pillar of Concordance at Caleran.
-
-The elders' guilt is real and specific. The later claim that it passes through Jirahar blood is false.
-
-## Resurrection and Flame
-
-On the third night Isfir rises, appears to his followers, and sends them into the nations. The White Flame authenticates his person and mission. At Qiryath, sacrificial rites continue but the recognized sign of divine acceptance never returns.
-
-## Revolt and Destruction
-
-The silence deepens existing tensions. In 66 AR revolt begins against Atherian rule. Qiryath is destroyed in 70 AR and the final fortress falls in 73. The disaster ends sacrifice and transforms Jirahar institutions without ending the people.
-
-## Navigation
-
-- [[The Rise of the Redeemer]]
-- [[Jirahar Memory of Isfir]]
-- [[Great Tower Revolt and the Second Destruction]]
-
-## Atlas narrative
-
-The following account distinguishes established history from the received stories named within it.
+Isfir is born in 33 BR to a Jirahar household connected to the eastern tower and caravan world, raised in the Scrolls, Peshara argument, craft, pilgrimage and the memory of two exiles. His ministry, c. 3 BR–0 AR, proclaims the Lord's kingdom, heals, casts out corrupting powers, condemns Star worship and challenges both imperial domination and legal authorities who use correct forms without mercy; he does not teach that law or the Jirahar covenant were meaningless, but claims their fulfilment and exposes their misuse. His followers include Jirahar and people of other nations, and his Mesakha and divine claims divide Jirahar courts: some follow him, some reject him lawfully, and a controlling council faction decides he is dangerous enough to deliver to imperial power. Lord-Scribe Ezrahel bar Qoreth and a majority of participating senior elders press Atherian authorities for execution, intending his death while lacking power to impose it themselves; High Augur Severan and the imperial court choose the sentence, and Atherian soldiers bind Isfir to the Pillar of Concordance at Caleran — the elders' guilt is real and specific, but the later claim that it passes through Jirahar blood is false. On the third night Isfir rises, appears to his followers and sends them into the nations; the White Flame authenticates his person and mission, and at Qiryath sacrificial rites continue but the recognized sign of divine acceptance never returns. The silence deepens existing tensions: revolt against Atherian rule begins in 66 AR, Qiryath is destroyed in 70 AR and the final fortress falls in 73, a disaster that ends sacrifice and transforms Jirahar institutions without ending the people.
 
 ## A life inside imperial history
 
@@ -81,8 +49,12 @@ The received traditions gathered under this portal therefore remain readable bes
 
 ## Atlas navigation
 
+**Previous:** [[Atherian Imperial Age]] · **Atlas:** [[The Ages of the World]] · **Next:** [[The Conversion of the Empire]]
+
 - [[World Historical Atlas MOC]]
 - [[Myths and Legendary Histories MOC]]
+- [[Jirahar Memory of Isfir]]
+- [[Great Tower Revolt and the Second Destruction]]
 
 ## Historical articles in this age
 

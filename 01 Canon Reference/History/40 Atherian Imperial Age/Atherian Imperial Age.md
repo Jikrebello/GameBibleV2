@@ -35,28 +35,6 @@ Atheria creates the imperial board that later cultures fight over: roads, provin
 
 Its oldest and densest infrastructure accumulated in the land now forming Thalmyria. The modern heartland is therefore not merely a successor state's territory but a vertical record of pre-Atherian cities, republican expansion, imperial monumental growth, conversion, occupation, and return. See [[The Layers Beneath Thalmyria]].
 
-## Navigation
-
-- [[Timeline MOC]]
-- [[The Atherian Empire – Age of Glory]]
-- [[Historical Atlas of the Atherian Age of Glory]]
-- [[The House of Thalion]]
-- [[The Year of Four Eagles]]
-- [[The House of Veloran]]
-- [[The Last Dynasties of the Age of Glory]]
-- [[Provinces and Municipal Life in Imperial Atheria]]
-- [[The Imperial Army and the Frontiers]]
-- [[Food, Trade and Enslavement in Imperial Atheria]]
-- [[Schools, Arts and Imperial Magic]]
-- [[Star Religion and the Imperial Cult]]
-- [[The Companions Who Entered by the Low Door - Imperial History]]
-- [[The Rise of the Atherian Empire Overview]]
-- [[Historical Spine of the Known World]]
-
-## Atlas narrative
-
-The following account distinguishes established history from the received stories named within it.
-
 ## Empire from an older world
 
 The unification around 350 BR gathered centuries of Atherian settlement, maritime rivalry, cities and republican experiment. [[Teren Casvilar]] had conquered southern districts and defeated republican rivals before his assassination in 370 BR. His nephew [[Aurelius Thalion]] emerged from the subsequent divided commands and civil wars to establish continuing imperial government. [[The Wars of the Atherian Succession]] follows that founding generation through the conquest of Sarqen and the settlement at Caleran.
@@ -89,8 +67,24 @@ Modern Thalmyrics and Eclessians do not correspond to two ancient biological hal
 
 ## Atlas navigation
 
+**Previous:** [[Age of Stars]] · **Atlas:** [[The Ages of the World]] · **Next:** [[The Age of the Redeemer]]
+
 - [[World Historical Atlas MOC]]
 - [[Myths and Legendary Histories MOC]]
+- [[Timeline MOC]]
+- [[Historical Atlas of the Atherian Age of Glory]]
+- [[The House of Thalion]]
+- [[The Year of Four Eagles]]
+- [[The House of Veloran]]
+- [[The Last Dynasties of the Age of Glory]]
+- [[Provinces and Municipal Life in Imperial Atheria]]
+- [[The Imperial Army and the Frontiers]]
+- [[Food, Trade and Enslavement in Imperial Atheria]]
+- [[Schools, Arts and Imperial Magic]]
+- [[Star Religion and the Imperial Cult]]
+- [[The Companions Who Entered by the Low Door - Imperial History]]
+- [[The Rise of the Atherian Empire Overview]]
+- [[Historical Spine of the Known World]]
 
 ## Historical articles in this age
 

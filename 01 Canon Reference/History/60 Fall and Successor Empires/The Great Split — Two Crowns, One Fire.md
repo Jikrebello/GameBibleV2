@@ -55,19 +55,6 @@ Dual sainthood registries (a border parish's patron may be a saint on one side o
 
 The Freeflame movement rejects both custody claims outright: the Flame kindles wherever sanctity gathers and *keeps no landlord* — no theophanic dynasty, no protocol monopoly. This is why, two generations into the Reformation, the two old churches privately hate the Freeflame worse than each other: Veridun and the Sanctum disagree about who holds the Fire, but they agree completely that *someone* must.
 
-## Navigation
-
-- [[Timeline MOC]]
-- [[Chronology of the Known World (AR Dating)]]
-- [[Named Figures of the Known World]]
-- [[Real-History Concordance]]
-- [[White Flame Doctrine]]
-- [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/20 Faith and Worldview/Theological Schism with Eclessia.md|Theological Schism with Eclessia]]
-
-## Atlas narrative
-
-The following account distinguishes established history from the received stories named within it.
-
 ## A division lived before and after 1015
 
 The Great Split has a fixed public date, but its causes and consequences span generations. Adalmar's consolidation, the two imperial claims, the Lamp Controversy, jurisdiction over churches and genuine theological disputes changed relationships long before the anathemas. Families could share a feast and disagree about the bishop whose name should be spoken over it.
@@ -98,8 +85,16 @@ When the Crown of Embers passed into trust in 1104, reunion remained a political
 
 ## Atlas navigation
 
+**Previous:** [[The Fall and the Long Reconquest]] · **Atlas:** [[The Ages of the World]] · **Next:** [[High Noon and the Qarath Disaster]]
+
 - [[World Historical Atlas MOC]]
 - [[Myths and Legendary Histories MOC]]
+- [[Timeline MOC]]
+- [[Chronology of the Known World (AR Dating)]]
+- [[Named Figures of the Known World]]
+- [[Real-History Concordance]]
+- [[White Flame Doctrine]]
+- [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/20 Faith and Worldview/Theological Schism with Eclessia.md|Theological Schism with Eclessia]]
 
 ## Historical articles in this age
 

@@ -77,23 +77,6 @@ By Vestian's death in 395 AR, the empire was officially Redeemer-faithful. It wa
 
 The Council of Halmenth in 411 AR belongs to the doctrinal aftermath, not the conversion chronology itself.
 
-## Navigation
-
-- [[Timeline MOC]]
-- [[Chronology of the Known World (AR Dating)]]
-- [[Named Figures of the Known World]]
-- [[The Rise of the Redeemer]]
-
-## Atlas narrative
-
-The following account distinguishes established history from the received stories named within it.
-
-## Freedom to worship, power to compel
-
-Cassian's victory at the Stone Bridge of Velos in 292 AR legalized the faith. The surviving bridge sign is bounded: it does not make every act of his reign righteous or resolve the scandal of his deathbed baptism. Legalization returned rooms, property and public confidence to communities accustomed to hiding. It also made membership politically useful.
-
-Astrion's restoration of the stars in 348–351 interrupted that transformation. Vestian's reign, 377–395, made faith compulsory in 380, dissolved augur colleges and attacked surviving Jirahar institutions. Temples were smashed, custodians killed, property confiscated and conformity enforced. Retaliatory mobs committed their own murders. Sacred language did not cleanse those acts.
-
 ## Workers of the old temples
 
 A sanctuary was an employer as well as a cult center. Its singers, cooks, guards, prostitutes, metalworkers, cleaners and dependants did not cease to exist when the altar was broken. Some converted sincerely, some continued old rites, and some sold knowledge to new patrons. [[G-11 - The Children of the Closed Temple|The Children of the Closed Temple]] remembers this dispersed population rather than a neat victory of one priesthood over another.
@@ -120,8 +103,14 @@ The following centuries lead to [[The Long Frontier and the First Unsealing]], w
 
 ## Atlas navigation
 
+**Previous:** [[The Age of the Redeemer]] · **Atlas:** [[The Ages of the World]] · **Next:** [[The Long Frontier and the First Unsealing]]
+
 - [[World Historical Atlas MOC]]
 - [[Myths and Legendary Histories MOC]]
+- [[Timeline MOC]]
+- [[Chronology of the Known World (AR Dating)]]
+- [[Named Figures of the Known World]]
+- [[The Rise of the Redeemer]]
 
 ## Historical articles in this age
 

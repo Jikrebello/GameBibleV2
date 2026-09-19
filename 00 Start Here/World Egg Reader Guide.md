@@ -27,7 +27,7 @@ Read these four entrances in order for the shortest coherent orientation:
 3. [[01 Canon Reference/Geography/Geography Atlas.md|Places and Geography]] — the regions, routes and landscapes in which those societies live.
 4. [[01 Canon Reference/History/70 Later History and Present Day/Present-Day Courts and Crowns (1360 AR).md|Courts and Crowns in 1360 AR]] — the present rulers, states and political relationships.
 
-For the complete chronological route, continue into the [[01 Canon Reference/History/World Historical Atlas MOC.md|World Historical Atlas]].
+For the complete chronological route, begin with [[01 Canon Reference/History/The Ages of the World.md|The Ages of the World]], which leads into the full [[01 Canon Reference/History/World Historical Atlas MOC.md|World Historical Atlas]].
 
 ## Before reading about a people
 
@@ -40,12 +40,12 @@ Culture overview articles are written as first stops. Each one introduces histor
 | If you want to understand… | Begin with… | Then continue with… |
 |---|---|---|
 | Peoples and everyday societies | [[01 Canon Reference/Peoples and Cultures/Cultures MOC.md|Peoples and Cultures]] | The overview for one people, followed by its formation or history article |
-| The sequence of world history | [[01 Canon Reference/History/World Historical Atlas MOC.md|World Historical Atlas]] | [[01 Canon Reference/History/Timeline MOC.md|Timeline]] or one period atlas |
+| The sequence of world history | [[01 Canon Reference/History/The Ages of the World.md|The Ages of the World]] | [[01 Canon Reference/History/World Historical Atlas MOC.md|World Historical Atlas]], [[01 Canon Reference/History/Timeline MOC.md|Timeline]] or one period atlas |
 | Countries, cities and landscapes | [[01 Canon Reference/Geography/Geography Atlas.md|Places and Geography]] | A regional atlas or polity overview |
 | Realms, powers and the soul-road | [[01 Canon Reference/Cosmology/Cosmology MOC.md|Cosmology and Powers]] | [[01 Canon Reference/Cosmology/20 Realms and Soul-Routes/Material Realm Overview.md|Material Realm Overview]] |
 | Creatures and supernatural beings | [[01 Canon Reference/Creatures/Bestiary MOC.md|Creatures and Old Beings]] | The relevant realm or creature family |
 | Magic and its institutions | [[01 Canon Reference/Magic & Systems/Magic & Metaphysics MOC.md|Magic and Metaphysics]] | The tradition, institution or practice named in an article |
-| Received stories and disputed memory | [[03 Stories & In-World Texts/Stories and Voices MOC.md|Stories and Voices]] | [[01 Canon Reference/History/80 Myths and Legendary Histories/Myths and Legendary Histories MOC.md|Myths and Legendary Histories]] |
+| Received stories and disputed memory | [[03 Stories & In-World Texts/Stories and Voices MOC.md|Stories and Voices]] | [[01 Canon Reference/History/80 Myths and Legendary Histories/Legendary Histories.md|Legendary Histories]], which leads into the full [[01 Canon Reference/History/80 Myths and Legendary Histories/Myths and Legendary Histories MOC.md|Myths and Legendary Histories]] catalogue |
 | Places prepared for play | [[02 Playable Settings/Playable Settings MOC.md|Playable Settings]] | A setting overview, then its people, places and active conflicts |
 
 ## How deep to read

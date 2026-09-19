@@ -90,19 +90,6 @@ The Scattering produces:
 
 Every human culture descends from people who survived the end of Giant rule, but not every culture descends from the Glass Ark. Direct inheritance, adopted liberation memory and later Braided ancestry must not be collapsed into one claim. No people carries survival without contradiction, sin or loss.
 
-## Navigation
-
-- [[Timeline MOC]]
-- [[Age of Exodus]]
-- [[The Glass Sojourn]]
-- [[Age of Hearths and First Kings]]
-- [[Early Folk Clan Worlds]]
-- [[The First Atherian City-States]]
-
-## Atlas narrative
-
-The following account distinguishes established history from the received stories named within it.
-
 ## One people, several directions
 
 Scattering was a long separation of households which continued to trade, marry and quarrel. After c. 2165 BR, no office could make the whole Glass People move together. A commander could defend a camp but could not inherit the Prophet's voice. A keeper of the old routes could preserve testimony but could not feed every settlement. Arguments about fidelity became arguments about where children would live through the next season.
@@ -143,8 +130,13 @@ The Year of Standing Stars belongs somewhere within these overlapping centuries.
 
 ## Atlas navigation
 
+**Previous:** [[Age of Exodus]] · **Atlas:** [[The Ages of the World]] · **Next:** [[Age of Hearths and First Kings]]
+
 - [[World Historical Atlas MOC]]
 - [[Myths and Legendary Histories MOC]]
+- [[Timeline MOC]]
+- [[Early Folk Clan Worlds]]
+- [[The First Atherian City-States]]
 
 ## Historical articles in this age
 

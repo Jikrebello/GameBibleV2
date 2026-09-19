@@ -13,9 +13,7 @@ tags: [world-historical-atlas]
 ---
 # Creation and the First Rebellions
 
-## Atlas narrative
-
-The following account distinguishes established history from the received stories named within it.
+Creation and the First Rebellions sits before any human calendar. It establishes how the Lord's uncreated authority differs from the creaturely power later claimed by Giants, Menhir and Idols, and how the rebellion and fusion behind that difference produced the Faewild Schism. It matters because every later empire that claims divine authority — beginning with the Giant horizons of [[Age of Chains]] — is repeating a category error this age already exposes, not making a new discovery.
 
 ## Before kingdoms
 
@@ -42,6 +40,8 @@ The later world inherits different kinds of danger. A Menhir correspondence may 
 These distinctions shape [[Age of Chains]], when supernatural ancestry becomes a political weapon. The corresponding otherworld histories are told in [[Menhir Courts through the Ages]], [[Idol Kingdoms and the Hunger Wars]] and [[Heavenly Campaigns and the Human Dead]]. The Glass and Bird-Marked Sites remain unexplained; none is assigned to this sequence as a convenient missing piece.
 
 ## Atlas navigation
+
+**Atlas:** [[The Ages of the World]] · **Next:** [[Age of Chains]]
 
 - [[World Historical Atlas MOC]]
 - [[Myths and Legendary Histories MOC]]

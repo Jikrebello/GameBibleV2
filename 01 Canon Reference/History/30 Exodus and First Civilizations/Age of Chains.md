@@ -17,7 +17,7 @@ tags: []
 ---
 # Age of Chains
 
-The Age of Chains is the era of Giant dominion. Humanity lives under empires that claim divine authority through size, terror, ancient science, Menhir power, Idol corruption, and celestial inheritance.
+The Age of Chains is the era of Giant dominion: roughly a thousand years ending with the Prophet's movement around 2300 BR. Humanity lives under empires that claim divine authority through size, terror, ancient science, Menhir power, Idol corruption, and celestial inheritance.
 
 ## Shape of the Age
 
@@ -61,19 +61,6 @@ Many later cultures define themselves by how they remember the Chains:
 
 The world learns that power can impersonate divinity. Every later empire is judged against the Giant shadow, especially when it builds monuments, rewrites memory, or demands obedience in sacred language.
 
-## Navigation
-
-- [[Timeline MOC]]
-- [[Age of Exodus]]
-- [[The Great Unbinding]]
-- [[Giant Descent and Creaturely Continuity]]
-- [[Prehistory Overview]]
-- [[Mono-Myth Overview]]
-
-## Atlas narrative
-
-The following account distinguishes established history from the received stories named within it.
-
 ## A thousand years of inhabited empires
 
 The Chains were not a single prison and did not have five fixed borders. Qianglong, Ishkatar, Xolotl, Nythalum and Anshara were the largest imperial traditions remembered afterward. Beneath them lay river crowns, mountain kingdoms, marriage states, temple cities, nomadic courts and captive towns. A family might pay tribute to one horizon, marry into another and be conquered by a third without its tenants ever leaving their fields.
@@ -102,8 +89,13 @@ The Prophet's movement entered this crisis; it did not secretly create every fau
 
 ## Atlas navigation
 
+**Previous:** [[Creation and the First Rebellions]] · **Atlas:** [[The Ages of the World]] · **Next:** [[Age of Exodus]]
+
 - [[World Historical Atlas MOC]]
 - [[Myths and Legendary Histories MOC]]
+- [[Timeline MOC]]
+- [[Prehistory Overview]]
+- [[Mono-Myth Overview]]
 
 ## Historical articles in this age
 

@@ -13,9 +13,7 @@ tags: [world-historical-atlas]
 ---
 # The Long Frontier and the First Unsealing
 
-## Atlas narrative
-
-The following account distinguishes established history from the received stories named within it.
+The Long Frontier runs from the empire's weakening after c. 400 AR through the Covenant's rise and roughly three centuries of uneasy coexistence, ending as renewed war opens the way to Caleran's fall in 905 AR. Its central change is religious and political: a Covenant civilization forms in the south and east while a divided, weakened Atherian world adjusts to a permanent neighbour it can no longer simply reconquer. The frontier this produces is not a clean line of battle but a shared, mixed world of translation, trade, marriage and periodic war — the ordinary conditions later inherited by Thalmyria, Eclessia and the Covenant states alike.
 
 ## Decadence before the new frontier
 
@@ -52,6 +50,8 @@ These stories belong to different communities. They do not prove a single invisi
 The failed Second Crusade of 874–878 exposed military weakness and hardened rival claims. Qahir ibn Ruzbeh's resurgence, c. 885–905, rebuilt levies and siege-golem foundries. It belongs to the transition out of the long peace, culminating in [[The Fall and the Long Reconquest]]. The frontier's achievements survived unevenly through that catastrophe; neither golden-age nostalgia nor a story of uninterrupted oppression is sufficient.
 
 ## Atlas navigation
+
+**Previous:** [[The Conversion of the Empire]] · **Atlas:** [[The Ages of the World]] · **Next:** [[The Fall and the Long Reconquest]]
 
 - [[World Historical Atlas MOC]]
 - [[Myths and Legendary Histories MOC]]

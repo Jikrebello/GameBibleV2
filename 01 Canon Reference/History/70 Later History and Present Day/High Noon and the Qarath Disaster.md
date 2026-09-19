@@ -13,9 +13,7 @@ tags: [world-historical-atlas]
 ---
 # High Noon and the Qarath Disaster
 
-## Atlas narrative
-
-The following account distinguishes established history from the received stories named within it.
+High Noon and the Qarath Disaster runs from 1104 to roughly 1290: a century of apparent Thalmyric strength and prosperity, broken first by Markellos's capture and self-inflicted blinding at Qarath's Well in 1214, and then by the Grey Sweat plague of 1232–1247. Its central change is the collapse of the confidence that the restored post-Reconquest order could simply last — military success, mining wealth and courtly display turn out to rest on debts, wounds and mortality the age cannot pay down. What survives is battered rather than broken, and it hands that unresolved inheritance forward into [[The Age of Held Proofs]].
 
 ## The prosperous century
 
@@ -48,6 +46,8 @@ The Medori century and Sestara's flowering developed amid recovery, debt and cha
 The era therefore leaves altered fields, mountain wounds, abandoned wards, rival feasts and the unpaid costs of victory. It leads into [[The Age of Held Proofs]], where reform and institutions attempt to govern inheritances they cannot make innocent.
 
 ## Atlas navigation
+
+**Previous:** [[The Great Split — Two Crowns, One Fire]] · **Atlas:** [[The Ages of the World]] · **Next:** [[The Age of Held Proofs]]
 
 - [[World Historical Atlas MOC]]
 - [[Myths and Legendary Histories MOC]]

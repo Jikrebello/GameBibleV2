@@ -55,6 +55,8 @@ Cities continued to develop after 800 BR. In the west, the [[Age of Stars]] name
 
 ## Atlas navigation
 
+**Previous:** [[Age of Hearths and First Kings]] · **Atlas:** [[The Ages of the World]] · **Next:** [[Age of Stars]]
+
 - [[World Historical Atlas MOC]]
 - [[Myths and Legendary Histories MOC]]
 

@@ -38,16 +38,6 @@ Every faction's strategy in 1360 is legible as **proof-management**: acquiring r
 
 When plotting anything set in the present: identify which held proof the story walks toward, and remember that **every power in the room is more afraid of certainty than of the enemy.** That fear is the setting's signature, and no Earth history can supply it — which is the point.
 
-## Navigation
-
-- [[The Divergence Pass — Torque Register]]
-- [[Present-Day Political Board]]
-- [[The Atlas of the Left Hand]]
-
-## Atlas narrative
-
-The following account distinguishes established history from the received stories named within it.
-
 ## Reform after catastrophe
 
 The Reformation began in 1297 when Ansgar of Brenholt challenged the assurance trade. Its context included real abuses, fiscal need, fear for the dead and a Church which had developed increasingly elaborate claims about access to sacred aid. Doctor Lucian Ferro gave the movement an enduring ecclesiology; Duke Rainald's protection made that thought politically consequential.
@@ -80,8 +70,12 @@ The Forward Rule holds at 1360. The historical wiki describes the pressures, peo
 
 ## Atlas navigation
 
+**Previous:** [[High Noon and the Qarath Disaster]] · **Atlas:** [[The Ages of the World]] · **Present day:** [[Present-Day Courts and Crowns (1360 AR)]]
+
 - [[World Historical Atlas MOC]]
 - [[Myths and Legendary Histories MOC]]
+- [[The Divergence Pass — Torque Register]]
+- [[The Atlas of the Left Hand]]
 
 ## Historical articles in this age
 

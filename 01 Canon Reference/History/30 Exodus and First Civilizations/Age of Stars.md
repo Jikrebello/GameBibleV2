@@ -62,6 +62,8 @@ The northern well country remained beyond Caleran's control. Arqeshite and Qahur
 
 ## Atlas navigation
 
+**Previous:** [[Age of City-States]] · **Atlas:** [[The Ages of the World]] · **Next:** [[Atherian Imperial Age]]
+
 - [[World Historical Atlas MOC]]
 - [[Myths and Legendary Histories MOC]]
 

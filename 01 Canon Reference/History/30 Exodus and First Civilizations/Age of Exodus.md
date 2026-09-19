@@ -52,21 +52,6 @@ The host is freed and genuinely formed before it fractures. Common law, institut
 
 Human communities outside the principal host are not rejected humanity. Some revolt after the central columns pass, remain to preserve a failing city, survive in isolated regions, or enter separate successor histories. Later cultures may claim exclusive descent from the Exodus, but no one surviving genealogy contains the whole end of the Giant Age.
 
-## Navigation
-
-- [[Timeline MOC]]
-- [[Age of Chains]]
-- [[The Great Unbinding]]
-- [[The Glass Sojourn]]
-- [[Great Glass Desert]]
-- [[Age of Scattering]]
-- [[Proto-Jirahar Tower Towns]]
-- [[Proto-Ahl-e-Ahd Desert Tribes]]
-
-## Atlas narrative
-
-The following account distinguishes established history from the received stories named within it.
-
 ## Deliverance amid collapse
 
 The Exodus was the greatest deliberate convergence of liberated humanity, not the only place where humans survived. The Prophet gathered people from several imperial horizons while revolts, client defections, plagues and Giant civil wars disrupted the roads behind them. Families arrived with incompatible languages and skills. Some brought tools; some carried only children; others refused the gathering and defended the water systems on which their towns depended.
@@ -97,8 +82,13 @@ The Prophet left no inheritable commission. Camp commanders, judges, provisioner
 
 ## Atlas navigation
 
+**Previous:** [[Age of Chains]] · **Atlas:** [[The Ages of the World]] · **Next:** [[Age of Scattering]]
+
 - [[World Historical Atlas MOC]]
 - [[Myths and Legendary Histories MOC]]
+- [[Timeline MOC]]
+- [[Proto-Jirahar Tower Towns]]
+- [[Proto-Ahl-e-Ahd Desert Tribes]]
 
 ## Historical articles in this age
 
