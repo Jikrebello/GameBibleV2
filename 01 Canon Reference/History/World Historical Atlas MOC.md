@@ -137,7 +137,7 @@ The Last Houses and the distant mountain people have histories unknown to the co
 
 [[Unknown Histories - Authorial Accounts]] contains six recoverable histories: false evacuation processions, a murderous founding feast, prisoners made into a living border, a failed furnace refuge, fraudulent restoration in a conquered town and an intercession at an enemy fortress. Surviving witnesses and evidence preserve different parts of each event.
 
-The [[The Grey Sweat - Authorial Truth|Grey Sweat]] and [[The Fourth Seal - Authorial Truth|Fourth Seal]] have separate authorial addenda. [[Protected Questions of the Historical Atlas]] records the identities, sovereign changes, mysteries and future events that remain unresolved.
+The [[The Grey Sweat - Authorial Truth|Grey Sweat]] and [[The Fourth Seal - Authorial Truth|Fourth Seal]] have separate authorial addenda. [[The Age of Held Proofs - Authorial Control]] preserves the private proof-management model behind the public present-age history. [[Protected Questions of the Historical Atlas]] records the identities, sovereign changes, mysteries and future events that remain unresolved.
 
 ## Reference shelf
 

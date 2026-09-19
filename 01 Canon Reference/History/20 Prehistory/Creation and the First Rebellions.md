@@ -2,7 +2,7 @@
 type: history
 status: canon
 canon_level: core
-visibility: author-only
+visibility: public
 era: [Deep Past]
 region: [World Egg]
 culture: []
@@ -43,8 +43,7 @@ These distinctions shape [[Age of Chains]], when supernatural ancestry becomes a
 
 **Atlas:** [[The Ages of the World]] · **Next:** [[Age of Chains]]
 
-- [[World Historical Atlas MOC]]
-- [[Myths and Legendary Histories MOC]]
+- [[Legendary Histories]]
 
 ## Historical articles in this age
 
@@ -53,4 +52,4 @@ These distinctions shape [[Age of Chains]], when supernatural ancestry becomes a
 
 ## Local tales and surviving memories
 
-The first-world boundaries do not require a complete mortal epic. Later tellings are indexed in [[Myths and Legendary Histories MOC]].
+The first-world boundaries do not require a complete mortal epic. Later tellings are introduced through [[Legendary Histories]].

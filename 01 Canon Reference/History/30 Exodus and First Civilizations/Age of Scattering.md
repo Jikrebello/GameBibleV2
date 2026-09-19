@@ -132,9 +132,7 @@ The Year of Standing Stars belongs somewhere within these overlapping centuries.
 
 **Previous:** [[Age of Exodus]] · **Atlas:** [[The Ages of the World]] · **Next:** [[Age of Hearths and First Kings]]
 
-- [[World Historical Atlas MOC]]
-- [[Myths and Legendary Histories MOC]]
-- [[Timeline MOC]]
+- [[Legendary Histories]]
 - [[Early Folk Clan Worlds]]
 - [[The First Atherian City-States]]
 

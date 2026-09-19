@@ -69,9 +69,7 @@ Modern Thalmyrics and Eclessians do not correspond to two ancient biological hal
 
 **Previous:** [[Age of Stars]] · **Atlas:** [[The Ages of the World]] · **Next:** [[The Age of the Redeemer]]
 
-- [[World Historical Atlas MOC]]
-- [[Myths and Legendary Histories MOC]]
-- [[Timeline MOC]]
+- [[Legendary Histories]]
 - [[Historical Atlas of the Atherian Age of Glory]]
 - [[The House of Thalion]]
 - [[The Year of Four Eagles]]

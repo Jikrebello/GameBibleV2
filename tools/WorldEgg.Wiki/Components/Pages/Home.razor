@@ -6,7 +6,7 @@
     <p class="home-intro">Peoples and kingdoms. Saints and old hungers. The lives, ruins and stories that make the World Egg.</p>
     <section class="opening-shelf" aria-label="Begin reading">
         <div><div class="eyebrow">New to the encyclopedia?</div><h2><a href="@LinkResolver.PageUrl("00 Start Here/World Egg Reader Guide.md")">A reader's guide to the World Egg</a></h2><p>Meet the world in a short, ordered route, then choose a people, place, period or question to follow more deeply.</p></div>
-        <div class="shelf-links"><a href="@LinkResolver.PageUrl("01 Canon Reference/Peoples and Cultures/Cultures MOC.md")">Meet the peoples <span aria-hidden="true">→</span></a><a href="@LinkResolver.PageUrl("01 Canon Reference/Geography/Geography Atlas.md")">See where they live <span aria-hidden="true">→</span></a><a href="@LinkResolver.PageUrl("01 Canon Reference/History/World Historical Atlas MOC.md")">Follow world history <span aria-hidden="true">→</span></a></div>
+        <div class="shelf-links"><a href="@LinkResolver.PageUrl("01 Canon Reference/Peoples and Cultures/Cultures MOC.md")">Meet the peoples <span aria-hidden="true">→</span></a><a href="@LinkResolver.PageUrl("01 Canon Reference/Geography/Geography Atlas.md")">See where they live <span aria-hidden="true">→</span></a><a href="@LinkResolver.PageUrl("01 Canon Reference/History/The Ages of the World.md")">Follow world history <span aria-hidden="true">→</span></a></div>
     </section>
     <h2 class="section-heading">Explore the encyclopedia</h2>
     <div class="topic-grid">
@@ -19,13 +19,13 @@
 </div>
 @code {
     private static readonly (string Title, string Description, string Url)[] Topics = [
-        ("History & legends", "A connected route from the first rebellions to the inherited world of 1360.", LinkResolver.PageUrl("01 Canon Reference/History/World Historical Atlas MOC.md")),
+        ("History & legends", "A connected route from the first rebellions to the inherited world of 1360.", LinkResolver.PageUrl("01 Canon Reference/History/The Ages of the World.md")),
         ("Peoples & cultures", "Origins, migrations, kinships and the making of civilizations.", LinkResolver.PageUrl("01 Canon Reference/Peoples and Cultures/Cultures MOC.md")),
         ("Cosmology & powers", "The World Egg, its realms, and those who dwell beyond the familiar.", LinkResolver.PageUrl("01 Canon Reference/Cosmology/Cosmology MOC.md")),
         ("Places & landscapes", "Countries, cities, routes and the wounds left in the earth.", LinkResolver.PageUrl("01 Canon Reference/Geography/Geography Atlas.md")),
         ("Creatures & old beings", "A bestiary of the living world and its stranger neighbours.", LinkResolver.PageUrl("01 Canon Reference/Creatures/Bestiary MOC.md")),
         ("Playable settings", "Grenzburg, Caleran, their inhabitants and unfolding conflicts.", LinkResolver.PageUrl("02 Playable Settings/Playable Settings MOC.md")),
-        ("Stories & voices", "Accounts, traditions and texts written from within the world.", LinkResolver.PageUrl("03 Stories & In-World Texts/Stories and Voices MOC.md")),
+        ("Stories & voices", "Accounts, traditions and disputed memories carried within the world.", LinkResolver.PageUrl("01 Canon Reference/History/80 Myths and Legendary Histories/Legendary Histories.md")),
         ("Research & archives", "The source studies, revised possibilities and earlier versions.", "/browse?folder=90%20Archive%20%26%20Drafts"),
         ("The complete library", "Every content folder, including authoring templates.", "/browse")
     ];

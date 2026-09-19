@@ -87,9 +87,7 @@ When the Crown of Embers passed into trust in 1104, reunion remained a political
 
 **Previous:** [[The Fall and the Long Reconquest]] · **Atlas:** [[The Ages of the World]] · **Next:** [[High Noon and the Qarath Disaster]]
 
-- [[World Historical Atlas MOC]]
-- [[Myths and Legendary Histories MOC]]
-- [[Timeline MOC]]
+- [[Legendary Histories]]
 - [[Chronology of the Known World (AR Dating)]]
 - [[Named Figures of the Known World]]
 - [[Real-History Concordance]]

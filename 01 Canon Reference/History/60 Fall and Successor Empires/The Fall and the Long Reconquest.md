@@ -2,7 +2,7 @@
 type: history
 status: canon
 canon_level: core
-visibility: author-only
+visibility: public
 era: ["905–1052 AR"]
 region: [Known World]
 culture: []
@@ -49,8 +49,7 @@ The reconquered empire remained incomplete. Zanthir and the Velian States stayed
 
 **Previous:** [[The Long Frontier and the First Unsealing]] · **Atlas:** [[The Ages of the World]] · **Next:** [[The Great Split — Two Crowns, One Fire]]
 
-- [[World Historical Atlas MOC]]
-- [[Myths and Legendary Histories MOC]]
+- [[Legendary Histories]]
 
 ## Historical articles in this age
 

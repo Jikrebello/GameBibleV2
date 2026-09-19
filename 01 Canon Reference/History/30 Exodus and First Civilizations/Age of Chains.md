@@ -91,9 +91,7 @@ The Prophet's movement entered this crisis; it did not secretly create every fau
 
 **Previous:** [[Creation and the First Rebellions]] · **Atlas:** [[The Ages of the World]] · **Next:** [[Age of Exodus]]
 
-- [[World Historical Atlas MOC]]
-- [[Myths and Legendary Histories MOC]]
-- [[Timeline MOC]]
+- [[Legendary Histories]]
 - [[Prehistory Overview]]
 - [[Mono-Myth Overview]]
 

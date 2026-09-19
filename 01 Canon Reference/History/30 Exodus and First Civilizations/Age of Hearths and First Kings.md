@@ -67,8 +67,7 @@ One Menhir court sheltered a household guilty of murder because that household h
 
 **Previous:** [[Age of Scattering]] · **Atlas:** [[The Ages of the World]] · **Next:** [[Age of City-States]]
 
-- [[World Historical Atlas MOC]]
-- [[Myths and Legendary Histories MOC]]
+- [[Legendary Histories]]
 
 ## Historical articles in this age
 

@@ -2,7 +2,7 @@
 type: history
 status: canon
 canon_level: core
-visibility: author-only
+visibility: public
 era: ["400–905 AR"]
 region: [Known World]
 culture: []
@@ -53,8 +53,7 @@ The failed Second Crusade of 874–878 exposed military weakness and hardened ri
 
 **Previous:** [[The Conversion of the Empire]] · **Atlas:** [[The Ages of the World]] · **Next:** [[The Fall and the Long Reconquest]]
 
-- [[World Historical Atlas MOC]]
-- [[Myths and Legendary Histories MOC]]
+- [[Legendary Histories]]
 
 ## Historical articles in this age
 

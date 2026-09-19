@@ -84,9 +84,7 @@ The Prophet left no inheritable commission. Camp commanders, judges, provisioner
 
 **Previous:** [[Age of Chains]] · **Atlas:** [[The Ages of the World]] · **Next:** [[Age of Scattering]]
 
-- [[World Historical Atlas MOC]]
-- [[Myths and Legendary Histories MOC]]
-- [[Timeline MOC]]
+- [[Legendary Histories]]
 - [[Proto-Jirahar Tower Towns]]
 - [[Proto-Ahl-e-Ahd Desert Tribes]]
 

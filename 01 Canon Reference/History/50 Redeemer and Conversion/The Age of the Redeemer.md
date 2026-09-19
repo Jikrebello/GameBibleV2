@@ -15,17 +15,17 @@ tags: []
 
 The Age of the Redeemer encompasses the life of Isfir, his public ministry from approximately 3 BR to 0 AR, his execution by Atherian authority and his resurrection on the third night. These events transformed the human soul-road and established the central truth around which later churches, empires and persecutions developed. The age also includes the immediate political and religious consequences among the Jirahar and within imperial Caleran.
 
-Isfir is born in 33 BR to a Jirahar household connected to the eastern tower and caravan world, raised in the Scrolls, Peshara argument, craft, pilgrimage and the memory of two exiles. His ministry, c. 3 BR–0 AR, proclaims the Lord's kingdom, heals, casts out corrupting powers, condemns Star worship and challenges both imperial domination and legal authorities who use correct forms without mercy; he does not teach that law or the Jirahar covenant were meaningless, but claims their fulfilment and exposes their misuse. His followers include Jirahar and people of other nations, and his Mesakha and divine claims divide Jirahar courts: some follow him, some reject him lawfully, and a controlling council faction decides he is dangerous enough to deliver to imperial power. Lord-Scribe Ezrahel bar Qoreth and a majority of participating senior elders press Atherian authorities for execution, intending his death while lacking power to impose it themselves; High Augur Severan and the imperial court choose the sentence, and Atherian soldiers bind Isfir to the Pillar of Concordance at Caleran — the elders' guilt is real and specific, but the later claim that it passes through Jirahar blood is false. On the third night Isfir rises, appears to his followers and sends them into the nations; the White Flame authenticates his person and mission, and at Qiryath sacrificial rites continue but the recognized sign of divine acceptance never returns. The silence deepens existing tensions: revolt against Atherian rule begins in 66 AR, Qiryath is destroyed in 70 AR and the final fortress falls in 73, a disaster that ends sacrifice and transforms Jirahar institutions without ending the people.
-
 ## A life inside imperial history
 
-Isfir was born in 33 BR in the Jirahar tower-town world of the eastern provinces. His ministry, c. 3 BR–0, entered an empire already full of roads, armies, rival sacred claims and people whose lives were constrained by debt, descent and public reputation. He was not a wandering solution added after imperial history; his teaching confronted the way that world understood authority.
+Isfir was born in 33 BR to a Jirahar household in the tower-town and caravan world of the eastern provinces. He was raised in the Scrolls, Peshara argument, craft, pilgrimage and the memory of two exiles. His ministry, c. 3 BR–0 AR, entered an empire already full of roads, armies, rival sacred claims and people whose lives were constrained by debt, descent and public reputation. He proclaimed the Lord's kingdom, healed, cast out corrupting powers, condemned Star worship and challenged both imperial domination and legal authorities who used correct forms without mercy. He did not teach that law or the Jirahar covenant were meaningless, but claimed their fulfilment and exposed their misuse. His followers included Jirahar and people of other nations, while his Mesakha and divine claims divided Jirahar courts.
 
 The called Companions remain the established company: thirteen called, one struck, with their own fixed histories. The later conversion of Aquilan, the martyrdoms and the Dormition of Amaryah do not open a vacancy for another central apostle. Lesser guides, soldiers, criminals, householders and failed followers can nevertheless enter the history without crowding that company.
 
 ## The Binding and its consequences
 
-The trial and execution at Caleran, the third-night fire, resurrection and gift of the Holy Flame stand at the center of the calendar. Their truth is not contingent on the later empire's success. Nor did every institution which subsequently invoked the Flame inherit the Redeemer's authority.
+Some Jirahar followed Isfir, some rejected him lawfully and a controlling council faction decided he was dangerous enough to deliver to imperial power. Lord-Scribe Ezrahel bar Qoreth and a majority of participating senior elders pressed Atherian authorities for execution, intending his death while lacking power to impose it themselves. High Augur Severan and the imperial court chose the sentence, and Atherian soldiers bound Isfir to the Pillar of Concordance at Caleran. The elders' guilt was real and specific, but the later claim that it passed through Jirahar blood is false.
+
+On the third night Isfir rose, appeared to his followers and sent them into the nations. The White Flame authenticated his person and mission. The trial, execution, third-night fire, resurrection and gift of the Holy Flame stand at the center of the calendar; their truth is not contingent on the later empire's success. Nor did every institution which subsequently invoked the Flame inherit the Redeemer's authority.
 
 The Silence of Acceptance at Qiryath followed the Resurrection. Sacrifice continued, but its former authenticated sign did not return. Later imperial violence against Jirahar communities cannot be justified by converting this theological event into hereditary guilt. Individuals made choices; whole descendants were not sentenced by ancestry.
 
@@ -51,8 +51,7 @@ The received traditions gathered under this portal therefore remain readable bes
 
 **Previous:** [[Atherian Imperial Age]] · **Atlas:** [[The Ages of the World]] · **Next:** [[The Conversion of the Empire]]
 
-- [[World Historical Atlas MOC]]
-- [[Myths and Legendary Histories MOC]]
+- [[Legendary Histories]]
 - [[Jirahar Memory of Isfir]]
 - [[Great Tower Revolt and the Second Destruction]]
 

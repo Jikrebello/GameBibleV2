@@ -2,7 +2,7 @@
 type: history
 status: canon
 canon_level: core
-visibility: author-only
+visibility: public
 era: ["1104–1290 AR"]
 region: [Known World]
 culture: []
@@ -49,8 +49,7 @@ The era therefore leaves altered fields, mountain wounds, abandoned wards, rival
 
 **Previous:** [[The Great Split — Two Crowns, One Fire]] · **Atlas:** [[The Ages of the World]] · **Next:** [[The Age of Held Proofs]]
 
-- [[World Historical Atlas MOC]]
-- [[Myths and Legendary Histories MOC]]
+- [[Legendary Histories]]
 
 ## Historical articles in this age
 

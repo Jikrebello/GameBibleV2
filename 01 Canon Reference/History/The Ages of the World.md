@@ -13,9 +13,9 @@ tags: [world-historical-atlas, reader-guide]
 ---
 # The Ages of the World
 
-The present year is 1360 AR. Everything before it is organised into fifteen ages, from Creation to the reforms of the current generation, each covering a shared change in how people lived, ruled and believed. Reading them in order is the fastest way to understand how the world got here.
+The present year is 1360 AR. Everything before it is organised into fifteen historical frames, from Creation to the reforms of the current generation, each covering a shared change in how people lived, ruled and believed. They form an ordered reading route, but they are not fifteen mutually exclusive date boxes: broad eras contain narrower transformations, and periods of migration, conversion or war can overlap at their edges.
 
-Each age article distinguishes four kinds of account: **what happened** (established history), **what people remember** (reliable but partial), **stories told** (traditions whose existence is certain even where their events are disputed) and **what remains unknown**. An age's own article states which parts of its history fall into each category — this index just tells you where to start and where to go next.
+The encyclopedia distinguishes four kinds of account: **what happened** (established history), **what people remember** (reliable but partial), **stories told** (traditions whose existence is certain even where their events are disputed) and **what remains unknown**. The age articles use that distinction throughout their historical narrative, while linked legendary histories mark disputed traditions and surviving evidence explicitly. This index tells you where to start and where to go next.
 
 ## The fifteen ages
 
@@ -35,11 +35,11 @@ Each age article distinguishes four kinds of account: **what happened** (establi
 14. [[High Noon and the Qarath Disaster]] — 1104–1290 AR. Imperial strength, military disaster, decline and the plague years.
 15. [[The Age of Held Proofs]] — 1297–1360 AR. Reformation, the Accord and the inherited circumstances of the present day.
 
-Every age article ends with a labeled **Previous / Atlas / Next** line, so you can read straight through in order, or jump back to this page at any point.
+Every age article ends with a labelled route back to this index and onward to the next period, or from the final age into the present day.
 
 ## Going deeper
 
-This page only orients you. For the complete catalogue — every supporting regional atlas, the dated chronology, the full population and ruler registers, and the seventy-five Garden traditions indexed by period — continue into the [[World Historical Atlas MOC|World Historical Atlas]].
+This page only orients you. Each age article ends with supporting regional histories, accounts of ordinary life and the received traditions associated with that period.
 
 For the world's received stories and disputed memories specifically, begin with [[Legendary Histories]].
 

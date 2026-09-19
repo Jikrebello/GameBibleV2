@@ -13,7 +13,7 @@ tags: [world-historical-atlas, reader-guide, received-tradition]
 ---
 # Legendary Histories
 
-Alongside the established chronology in [[The Ages of the World]], the world carries seventy-five and more **Garden traditions**: stories that particular communities tell about their own past. Their existence, their tellers and whatever physical or customary remainder survives them are established facts. What the stories claim happened inside them — a miracle, a founder's identity, a god's intervention — is a separate question, and each article keeps the two apart.
+Alongside the established chronology in [[The Ages of the World]], the world carries seventy-five **Garden traditions** and additional received histories: stories that particular communities tell about their own past. Their existence, their tellers and whatever physical or customary remainder survives them are established facts. What the stories claim happened inside them — a miracle, a founder's identity, a god's intervention — is a separate question, and each article keeps the two apart.
 
 That distinction is marked by an **authority layer**. Most legends on this shelf carry the layer **stories told**: the telling is certain, its events are not automatically so. An article will say plainly where tellers disagree, what physical or customary evidence remains, and what stays permanently uncertain — a name, a site, a cause of death. None of that uncertainty makes the tradition placeless or the community that keeps it unreliable; it just means a sung version and a verified history are different kinds of document.
 
@@ -30,4 +30,4 @@ From there, four more traditions spread across the ages show the range of what t
 
 ## The complete shelf
 
-The full index of all seventy-five Garden traditions and additional received histories, organised by age, is in the [[Myths and Legendary Histories MOC|Myths and Legendary Histories]] catalogue.
+To browse further, choose a period in [[The Ages of the World]]. Every age article ends with a **Local tales and surviving memories** section that gathers its Garden traditions and additional received histories without mixing them into the established chronology.

@@ -105,9 +105,7 @@ The following centuries lead to [[The Long Frontier and the First Unsealing]], w
 
 **Previous:** [[The Age of the Redeemer]] · **Atlas:** [[The Ages of the World]] · **Next:** [[The Long Frontier and the First Unsealing]]
 
-- [[World Historical Atlas MOC]]
-- [[Myths and Legendary Histories MOC]]
-- [[Timeline MOC]]
+- [[Legendary Histories]]
 - [[Chronology of the Known World (AR Dating)]]
 - [[Named Figures of the Known World]]
 - [[The Rise of the Redeemer]]
