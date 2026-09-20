@@ -3,10 +3,10 @@ type: legend
 status: canon
 canon_level: local
 visibility: public
-era: ["c. 350–33 BR; Age of Glory"]
-region: ["provincial Atherian garrisons"]
-culture: ["provincial service households"]
-related_factions: []
+era: ["c. 96–54 BR; Age of Glory"]
+region: [Lacaris, Eastern Atherian provinces]
+culture: [Provincial Atherian, Service households]
+related_factions: [Atherian Empire]
 appears_in: []
 needs: []
 tags: [world-historical-atlas, received-tradition]
@@ -20,9 +20,15 @@ aliases: ["The Companions Who Entered by the Low Door"]
 
 ## Historical setting
 
-**c. 350–33 BR; Age of Glory.** provincial Atherian garrisons. This tradition belongs to [[Atherian Imperial Age]]; its cultural bearers are provincial service households.
+**c. 96–54 BR; Age of Glory.** The tradition arose in Lacaris and the eastern Atherian provinces. It belongs to the [[Atherian Imperial Age]] and was preserved especially among provincial service households.
 
 It is told in Atherian provincial towns whose ancestors entered imperial service from kitchens, stables, prisons and hostage houses. Its survival does not make every singer's version a complete account of the event.
+
+## Historical basis
+
+Provincial records establish that six servants saved Magistrate Temar Avol during the Lacaris riot around 96 BR and subsequently entered imperial service. The same record preserves their names, later offices, involvement in unlawful killings and hostage-taking, the betrayal of a family refuge, and Helon Var's execution. Their careers can be followed into the middle of the first century BR.
+
+The surviving evidence does not establish every private motive, conversation or emotional reconciliation found in later songs. Versions containing five or seven companions are later regional reshaping of a historically attested company of six. For the evidence and the companions' individual careers, see [[The Companions Who Entered by the Low Door - Imperial History|the imperial history of the Low Door Companions]].
 
 ## The tale
 
@@ -42,7 +48,7 @@ It offers social ascent without pretending gifted outsiders remain innocent once
 
 ## How tellers differ
 
-Imperial versions count five companions and make the dead cousins enemy agents. Hostage-country songs count seven, adding a child who never forgave them. No version agrees which companion first ordered an unlawful killing.
+The historical company numbered six. Some later imperial versions reduce them to five and make the dead cousins enemy agents. Hostage-country songs count seven, adding a child who never forgave them. No surviving telling reliably identifies which companion first ordered an unlawful killing.
 
 ## What remains
 
@@ -57,7 +63,7 @@ Names, precise sites and competing supernatural claims may remain uncertain with
 ## Read onward
 
 - [[Historical Atlas of Atheria]]
-
 - [[Atherian Imperial Age]]
-- [[Myths and Legendary Histories MOC]]
-- [[World Historical Atlas MOC]]
+- [[The Companions Who Entered by the Low Door - Imperial History|The Low Door Companions in imperial history]]
+- [[Legendary Histories]]
+- [[The Ages of the World]]

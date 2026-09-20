@@ -8,7 +8,7 @@ region: [known world, distant worlds]
 culture: [Qahuri, Gateway peoples, Jirahar, Proto-Ahdari, Tarkhan, Folk, Ättar, Sestaran precursors, Nsizwa]
 related_factions: []
 appears_in: []
-needs: ["complete Packages E–G after each preceding review"]
+needs: ["review Package E comparative research before development; complete Packages E–G after each preceding review"]
 aliases: [Ancient World Histories Programme]
 tags: [research, ancient-history, development-programme, world-historical-atlas]
 ---
@@ -87,6 +87,8 @@ This package develops the old island and coastal survivors among whom proto-Athe
 
 Dependencies: Packages A and D; existing Arkenan and Saronikan geography; the later Concord is excluded from the ancient account.
 
+Research status: **comparative programme complete; awaiting author selection before development**. Begin with [[Package E - Harbours Islands and Braided Precursors/Package E - Research Programme and Source Register|Package E — Research Programme and Source Register]], then read the three regional island dossiers, [[Package E - Harbours Islands and Braided Precursors/Ancient Maritime Systems - Ports Trade Labour and Piracy|Ancient Maritime Systems]], [[Package E - Harbours Islands and Braided Precursors/Varisia and Vorthara - City Models and Collision Review|Varisia and Vorthara]], and [[Package E - Harbours Islands and Braided Precursors/Package E - Comparative Synthesis and Canon Readiness Questions|the comparative synthesis]]. [[Package E - Harbours Islands and Braided Precursors/Merchant Republics and Island Afterlives|Merchant Republics and Island Afterlives]] and [[Package E - Harbours Islands and Braided Precursors/Corsair States Mediterranean Piracy and Tortuga|Corsair States, Mediterranean Piracy and Tortuga]] are deliberately separate later-history comparisons. No Package E name, map, people, event or chronology has been proposed or promoted.
+
 ### Package F — Nsizwa and Distant Orphaned Worlds
 
 This package follows the collapse of Giant power on the Nsizwa landmass, local survival, political reassembly, Izivukwa traditions, burial, kinship, technology and regional sovereignties. External contact remains limited to what established history supports. The Last Houses and other uncontacted peoples receive relative histories without invented contact with the core world.
@@ -121,4 +123,4 @@ Each delivery checks the following:
 
 ## Current review gate
 
-Packages A, B, C and D have completed both development and canon delivery. Package E, Harbours, Islands and Braided Precursors, is the next undeveloped package. Package D deliberately supersedes the older bestiary claim of full Grobi moral agency: Grobi retain intelligence, suffering, memory and tactical choice but possess no human moral conscience. Exact coastlines, the full number and present reachability of Second-House Patrons, the later state of three Vathran crown-cities, protected mysteries and the later fate of Vashar remain open. Package C added no Garden root; it corrected G-59's anachronistic mounted rider to a camel scout. Package D also adds no Garden root. Campaign source, application code and the present map were not altered.
+Packages A, B, C and D have completed both development and canon delivery. Package E's author-only comparative research is complete and awaiting author selection; Package E itself remains undeveloped and no canon promotion has begun. Package D deliberately supersedes the older bestiary claim of full Grobi moral agency: Grobi retain intelligence, suffering, memory and tactical choice but possess no human moral conscience. Exact coastlines, the full number and present reachability of Second-House Patrons, the later state of three Vathran crown-cities, protected mysteries and the later fate of Vashar remain open. Package C added no Garden root; it corrected G-59's anachronistic mounted rider to a camel scout. Package D also adds no Garden root. The Package E research adds no Garden root and changes no canonical article, campaign source, application code or present map.
