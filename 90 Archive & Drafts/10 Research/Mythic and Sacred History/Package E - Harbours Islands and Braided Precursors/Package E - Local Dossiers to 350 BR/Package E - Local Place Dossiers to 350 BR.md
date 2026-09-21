@@ -16,6 +16,8 @@ tags: [research, package-e, local-dossiers, pre-350-br]
 > [!warning] Author-only, not a map or canon gazetteer
 > These are short place-level extracts from [[Package E - First Historical Draft to 350 BR]] and its [[Package E - Comparative Synthesis and Canon Readiness Questions|Elmaric/Vortharan]] and [[Atlantis Azlant Absalom and the Drowned-City Problem|drowned-city]] decision registers. **All descriptions stop at 350 BR.** Descriptive titles are working labels, not newly approved toponyms. A later city, kingdom or ward name identifies a geographic relationship only; it does not backdate that institution. Selected direction and unresolved placements are marked within each page.
 
+[[Package E - Pre-Canon Editorial Rulings]] records the selected naming, relative-placement, public-knowledge and Vortharan precinct rules. Seravon, Ilamar, Caelovar and Marelith are **provisional author-only names** until approved in the canon pass; dossier filenames remain descriptive for now.
+
 ## Significant islands and island-sites
 
 - [[Package E - Elmarai Isles to 350 BR]] — core archipelago, local polities and the future Saronikan connection.

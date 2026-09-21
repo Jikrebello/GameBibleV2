@@ -16,6 +16,8 @@ tags: [research, package-e, atlantis, azlant, absalom, nythalum, drowned-cities]
 > [!warning] Research boundary
 > This is an author-only comparison and decision register, not a canon article. Its selected drowned-city and wandering-city history now feeds [[Package E - First Historical Draft to 350 BR]], which remains under review. No new canon city, civilisation, catastrophe, map, chronology or surviving people has been promoted. Its purpose is to add a drowned inner-sea history **without duplicating Nythalum** or importing another setting's metaphysics.
 
+[[Package E - Pre-Canon Editorial Rulings]] provisionally labels the drowned predecessor **Caelovar**, the later mobile city **Marelith**, and the 355 BR wreck **Black Reef**. These are author-only working names until the canon pass approves them; the three places or forms remain distinct.
+
 ## Authorial decision register
 
 ### Decision 1 — Core form
@@ -357,7 +359,7 @@ The selected history now has the following bounded form:
 
 ### Remaining work before promotion
 
-- establish separate names for the predecessor polity, moving successor and Black Reef tradition;
+- approve or revise the provisional Caelovar and Marelith names and the descriptive Black Reef common name; do not conflate their different histories;
 - place the original drowned site, ordinary central circuit, 355 BR central anchorages and Black Reef's eastward route against existing mapped geography;
 - choose a narrower foundation date within the current 1000–900 BR range;
 - integrate this one-battle ruling with the existing Ardel/Melvo chronology and identify which Atherian, Thalassorian, creature and regional overview pages require additions;

@@ -41,6 +41,7 @@ The programme separates two chronological uses:
 12. [[Package E - First Historical Draft to 350 BR]] — first integrated author-only narrative and collision ledger, to be reviewed before any canonical split or promotion.
 13. [[Package E - Local Place Dossiers to 350 BR]] — sixteen short author-only island-site, archipelago-area and Vortharan neighbourhood resources drawn from the selected history; working labels, not canon geography or wards.
 14. [[Package E - Sestaran City Origins and Imperial Handoff 350 BR to 0 AR]] — author-only forward boundary for the different origins of the seven eventual Concord members; not a 350 BR–0 AR historical narrative.
+15. [[Package E - Pre-Canon Editorial Rulings]] — selected naming, geographic, visibility and Vortharan precinct policies; all new proper names remain provisional until the canon pass.
 
 ## Case selection
 
@@ -168,6 +169,7 @@ The regional dossiers add case-specific sources. These works and projects govern
 | First author-only historical draft through 350 BR | Complete; 355 BR one-battle ruling selected, awaiting further author review |
 | Local island-site, archipelago-area and Vortharan neighbourhood dossiers through 350 BR | Sixteen short first-pass author-only resources drafted; individual island names, maps and ward boundaries await review |
 | Sestaran city origins and imperial handoff | Author-only forward boundary drafted; city-by-city foundation order and pre-0 AR completion remain open |
+| Pre-canon editorial choices | Naming scope, provisional essential names, public-knowledge tiers and Vorthara precinct policy recorded; names and map labels still require approval at promotion |
 | Canon changes or promotions | None |
 
 The comparative corpus and subsequent authorial selections support [[Package E - First Historical Draft to 350 BR]] and [[Package E - Local Place Dossiers to 350 BR]]. The 355 BR Melvo/Ardel relationship has an author-selected one-battle resolution; the next action is review of the local places, names, exact geography and public-knowledge boundaries, **not** automatic canon promotion.
