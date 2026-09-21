@@ -1,6 +1,6 @@
 ---
 type: research
-status: awaiting-review
+status: in-review
 canon_level: exploratory
 visibility: author-only
 era: ["comparative research; World Egg boundary through 350 BR"]
@@ -8,13 +8,13 @@ region: [Arkenan coasts, Saronikan coasts, islands, Vorthara]
 culture: [Sestaran precursors, Vesari precursors, Eclessian precursors]
 related_factions: []
 appears_in: []
-needs: [author selection of structures, Package E development, separate canon review]
+needs: [first historical draft review, collision rulings, separate canon review]
 tags: [research, package-e, synthesis, canon-readiness, collisions]
 ---
 # Package E — Comparative Synthesis and Canon-Readiness Questions
 
 > [!warning] Stop point
-> This dossier completes research. It proposes no names, maps, peoples, wars or chronology events. Package E development begins only after the author chooses among the questions below.
+> This author-only dossier began as comparative research and now records the author's selections. Those selections feed [[Package E - First Historical Draft to 350 BR]]. The draft remains exploratory and no Package E history, map or article has been promoted to canon.
 
 ## Authorial decision register
 
@@ -408,7 +408,7 @@ Enforcement is decentralised and contingent. Refuge households, neighbours, arme
 
 **Locked during author review:** an outside owner's claim has no recognised force inside Vorthara, but arrival does not guarantee lasting freedom. A fugitive can become bound by a new pact, coerced patronage, debt, kidnapping or local enslavement; the absence of extradition is not a citywide ban on internal bondage. The consequences of entering a particular neighbourhood depend heavily on whose protection, labour demands and rules operate there.
 
-This makes Vorthara sharply district-based. Some adjoining refuge clusters shelter fugitives and actively oppose slave-taking; others profit from captives or coerced service. They may fight, bargain, buy people out or retaliate across a street without either side speaking for the whole city. At 350 BR most such clusters are households, followings and neighbourhood practices rather than the **full set** of named modern factions; the Pale Hand's death-working quarter is the selected early exception. Later districts can preserve or reshape those conflicts without copying Kaer Maga's exact wards or Freemen.
+This makes Vorthara sharply district-based. Some refuge clusters shelter fugitives and actively oppose slave-taking; other households and traders profit from captives or coerced service. They may fight, bargain, buy people out or retaliate across local boundaries without either side speaking for the whole city. At 350 BR most such clusters are households, followings and neighbourhood practices rather than the **full set** of named modern factions; the Pale Hand's death-working quarter is the selected early exception. Decision 71 clarifies that the conflict arises from the town's **shared refuge and trading functions**, not from one required pair of neighbouring streets. Later districts can preserve or reshape those conflicts without copying Kaer Maga's exact wards or Freemen.
 
 The comparison is supported by Paizo's classic Kaer Maga material: the abolitionist Bottoms and the city's slave markets coexist under local rather than universal civic control. Vorthara borrows the structural tension of neighbouring incompatible jurisdictions, not Pathfinder's faction names or a claim that slavery is morally neutral.
 
@@ -531,6 +531,12 @@ This is not a claim that the whole Spire is open, safe, built as a city, or unde
 **Locked during author review (A + C + B by location):** Vorthara's interior–exterior connections are **not governed by one access rule**. The approaches most used by strangers, traders and ordinary clients have **open, commonly used passages** with private rooms and premises opening off them. Other, less public specialist neighbourhoods retain a few shared main routes, while households and practitioners control side passages, workshops and chambers. Farther into more dangerous or secretive occupied areas, powerful practitioners, gangs and other local groups may guard entrances, demand permission or payment, and defend deeper thresholds by force or bargain.
 
 The pattern grew from use: travellers and food carriers keep commercially valuable routes open; specialist work needs bounded space; dangerous groups seek concealment and control. An **open route is not a city-owned route**, a guarded threshold is not proof of jurisdiction over the whole Spire, and none implies a 350 BR council, common police, formal ward map or the later Spire Truce. “Deeper” describes some inhabited and contested accesses, **not** a claim that the Spire's unknown full interior has been explored. The precise passage network, gates and social rights of way remain open for mapping.
+
+### Decision 71 — Refuge and slave trade collide across the same town
+
+**Locked during author review:** Vorthara's old identity as a refuge for people fleeing Giant slavery and later slaveholding societies coexists with its lack of citywide law and its value as a trading destination. Buyers and sellers of captives, coerced labour and related illicit services find customers and routes there. Refuge households and abolition-minded residents continue to shelter fugitives and resist capture. The friction follows **supply, demand and incompatible local practices in one connected city**, rather than requiring a single planned abolitionist district directly opposite a slave market. A captive trader can operate under one neighbourhood's protection while a person fleeing that trade finds shelter across a threshold; neither has a general legal claim over the whole town.
+
+This is likely **Vorthara's most combustible internal conflict** by the 350 BR boundary. Rescues, recaptures, purchases of freedom, retaliation and struggles over safe passage may escalate beyond individual households. Other factions, gangs and traders have a **limited agreement to intervene when fighting threatens business**—market access, freight, customers and usable routes. Their object is to contain disruption, **not** to abolish slavery, guarantee every fugitive's safety or settle the moral dispute. Participants and enforcement are situational; it is no city council, universal peace, or backdated version of the later Spire Truce. Whether the tension culminated in one especially large pre-350 BR confrontation, and its precise outcome, remain open.
 
 ## 1. What the research changes
 

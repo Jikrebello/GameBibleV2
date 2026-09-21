@@ -1,6 +1,6 @@
 ---
 type: research
-status: awaiting-review
+status: in-review
 canon_level: exploratory
 visibility: author-only
 era: ["comparative antiquity; World Egg boundary through 350 BR"]
@@ -8,13 +8,13 @@ region: [Atlantic myth, Mediterranean, Inner Sea, Thalassian Sea, Nythalum]
 culture: [lost civilisations, drowned cities, successor ports]
 related_factions: []
 appears_in: []
-needs: [author choice among bounded drowned-city models before Package E development]
+needs: [first historical draft review, names and exact geography, canon integration before promotion]
 tags: [research, package-e, atlantis, azlant, absalom, nythalum, drowned-cities]
 ---
 # Atlantis, Azlant, Absalom and the Drowned-City Problem
 
 > [!warning] Research boundary
-> This is an author-only comparison. It creates no World Egg city, civilisation, catastrophe, map, chronology or surviving people. Its purpose is to determine what a drowned inner-sea history could add **without duplicating Nythalum** or importing another setting's metaphysics.
+> This is an author-only comparison and decision register, not a canon article. Its selected drowned-city and wandering-city history now feeds [[Package E - First Historical Draft to 350 BR]], which remains under review. No new canon city, civilisation, catastrophe, map, chronology or surviving people has been promoted. Its purpose is to add a drowned inner-sea history **without duplicating Nythalum** or importing another setting's metaphysics.
 
 ## Authorial decision register
 
@@ -102,7 +102,7 @@ The city also became a principal meeting ground between surface peoples and loca
 
 Child-taking belonged to particular bargains and communities, not to every aquatic person. Children might be promised as the price of safe passage, seized in retaliation for broken coastal covenants, taken as wards or hostages by a tide court, or recovered from drowning only after bodily alteration into forms the sea could sustain. Some returned amphibious and estranged; some entered deep households; some were exploited or killed. Later horror tales collapsed these histories into claims that all Deep Envoys stole children for breeding. That prejudice must not erase the real crimes of individual courts, raiders or surface families who knowingly paid living children as a maritime price.
 
-The exact price accepted by the founding druid, the reefback's degree of conditioning, the city's migratory circuit and the means by which Istran Melvo's fleet finally trapped or crippled it remain open. The best chronological fit for its destruction is the existing defeat of maritime opposition in 355 BR, followed by massacre, enslavement and dispersal rather than the extinction of every community connected to the city.
+The exact price accepted by the founding druid, the reefback's degree of conditioning and the finer bounds of the city's migratory circuit remain open. Later authorial decisions select Melvo's prize-ship stratagem within his **single 355 BR battle against Ardel Veyr's maritime force**; the exact anchorage and conditions of attack remain to be placed. Destruction was followed by massacre, enslavement and dispersal rather than the extinction of every community connected to the city.
 
 ### Decision 11 — The price of motion and the lives owed to the sea
 
@@ -230,7 +230,7 @@ This arrangement joined merchant-republic law to a Tortuga-like maritime refuge 
 
 ### Decision 25 — Paid opposition to Thalion and defence of maritime independence
 
-**Locked during author review:** the wandering city entered the Atherian succession struggle through a paid alliance with interests opposed to Thalion, while also acting from strategic self-preservation. Velsar-aligned or associated coastal sponsors purchased convoy protection, raiding warrants, ships and experienced crews. The contract promised immediate profit, access to friendly stores and recognition of the city's maritime privileges.
+**Locked during author review:** the wandering city entered the Atherian succession struggle through a paid alliance with **Ardel Veyr's maritime following**, while also acting from strategic self-preservation. Ardel's network of displaced officers, refugees and island communities purchased convoy protection, raiding warrants, ships, experienced crews and use of the moving harbour. The contract promised immediate profit, access to friendly stores and recognition of the city's maritime privileges. The city retained its own captains' assembly and warrants; it was Ardel's independent ally and contractor, not a possession of his or Velsar's state.
 
 The captains' assembly also understood that a consolidated Atherian power would eventually threaten its independence. Thalion's commanders were building dependable fleets, securing grain and timber, standardising obligations and subordinating ports that had prospered amid divided authority. A mobile market that sold naval violence, sheltered contraband and recognised only its own warrants could coexist with competing states more easily than with one expanding imperial order.
 
@@ -248,7 +248,7 @@ The attack transformed the city's defining appearance. What sailors had remember
 
 The burning killed a large portion of the resident population and destroyed or scattered much of the attached fleet. Death came through flame, smoke, collapsing structures, drowning, trampling, pressure failure and subsequent exposure rather than instantaneous magical annihilation. Atherian troops could still enslave captives, seize records and recover specialists after the assault; other survivors escaped in detached vessels or entered deep water.
 
-This was not Thalassor punishing the city, nor did seawater make the flame supernatural or unstoppable. The victory required intelligence, specialised crews, favourable conditions and a means of approaching or confining the mobile target. The compound's later history, custody and influence on Atherian naval power require separate canon decisions. The precise operation that placed Melvo's fire-bearing vessels within striking distance remains open.
+This was not Thalassor punishing the city, nor did seawater make the flame supernatural or unstoppable. The victory required intelligence, specialised crews, favourable conditions and a means of approaching or confining the mobile target. The compound's later history, custody and influence on Atherian naval power require separate canon decisions. The prize-ship operation below supplies the approach; exact weather, tide and anchorage remain open.
 
 ### Decision 27 — The prize ship inside the wandering city
 
@@ -314,9 +314,9 @@ The distinction also constrained power. The city could raid, contract and trade 
 
 ### Decision 33 — Destruction during an eastern trek
 
-**Locked during author review:** the 355 BR assault occurred in eastern waters during an exceptional trek into the Atherian sphere. The city had moved east to fulfil its paid alliance, operate against Thalion's supply system and use friendly coastal provisioning relationships. It was therefore campaigning beyond its most secure central circuit when Melvo executed the prize-ship deception.
+**Locked during author review:** the 355 BR assault occurred during an exceptional trek **east of the city's ordinary central-island circuit**, in the eastern approaches of the **central Thalassian anchorages** where Ardel's main force was campaigning. The city had moved east to fulfil its paid alliance, operate against Thalion's supply system and use friendly coastal provisioning relationships. This relational placement reconciles the trek with the existing central-anchorage account; it does not fix an exact battle site or charted boundary. The city was beyond its most secure circuit when Melvo executed the prize-ship deception.
 
-The Black Reef formed where the burned city mass grounded after separating from the fleeing reefback. Its position on or near an important eastern route made it a continuing navigational hazard, salvage site, grave and visible monument to Atherian victory. Imperial narratives could point to the ruin as proof that Thalion had made the sea safe, while survivors and hostile traditions treated it as evidence of treachery and mass destruction.
+The Black Reef formed where the burned city mass grounded after separating from the fleeing reefback, on or near the eastward route from those central anchorages. It became a continuing navigational hazard, salvage site, grave and visible monument to Atherian victory. Imperial narratives could point to the ruin as proof that Thalion had made the sea safe, while survivors and hostile traditions treated it as evidence of treachery and mass destruction.
 
 The original drowned predecessor site remained within the central island world. The predecessor ruin and the Black Reef are therefore two different places: one is the ancient colonial capital lost during the Unbinding, while the other is the burned body of its mobile successor left in 355 BR. Later stories sometimes conflate them into a city that drowned twice or a black island that returns to its own grave.
 
@@ -332,6 +332,12 @@ During the mature captains' oligarchy, much of the ruling class treated the foun
 
 The final society was therefore not simply secular. It selectively disbelieved: shareholders rejected the old religion when it challenged their decisions but relied upon its inherited protections and imposed its costs upon outsiders. After the burning, devotees could interpret the catastrophe as the consequence of abandoned reverence, while the historical account attributes defeat to alliance, logistics, institutional rivalry, deception and sea-fire rather than Thalassor's judgement.
 
+### Decision 35 — One linked battle in 355 BR
+
+**Locked during author review:** Melvo's destruction of the moving city and his canonical defeat of **Ardel Veyr's main maritime force** are parts of **one linked operation**, not two large battles silently added to the same year. Ardel hired the independently governed moving city as an allied floating harbour, provisioning partner and source of contracted ships and raiders. Its flotilla and Ardel's force operated near one another in the eastern approaches of the central Thalassian anchorages; they were allies, not the same polity or an identical fleet.
+
+Melvo's staged withdrawal induced the city's captains to bring an apparent Atherian command ship inside their protected formation. Its concealed crews ignited sea-fire and assaulted the harbour from within. As the city burned and the allied formation lost its shelter and coordination, Melvo's returning fleet broke Ardel's nearby main force. Ardel escaped east and was executed in **354 BR**, as existing canon records. The city's burned urban mass separated from the reefback and grounded as the Black Reef along the eastward route. The exact anchorage, the timing of the fleet rout relative to the city's separation, and a charted reef location remain open; none is needed to posit a second 355 BR campaign.
+
 ## Canon-uplift synthesis
 
 The selected history now has the following bounded form:
@@ -344,17 +350,17 @@ The selected history now has the following bounded form:
 6. The Thalassorian covenant required perpetual movement and a living human return. The founder became the first payment, but his fate below remains permanently unresolved. His successors later converted the debt into institutional child-taking.
 7. Government passed from a sacred founder dynasty to a covenant council after famine rebels cast the ruling house into the sea, and then toward a shareholder captains' oligarchy. Citizenship and protection depended upon a legally recognised vessel or infrastructure share, with exceptional elevation controlled by the assembly.
 8. The council protected citizens by substituting captives, enslaved foreigners and condemned people for the covenant's living returns. Licensed raiding supplied cargo, ransom, labour and human tribute. This made the moving refuge a merchant republic to insiders and a pirate-slaver city to many neighbouring coasts.
-9. The city normally travelled a central island circuit but undertook exceptional long treks. In 355 BR it entered eastern waters under paid contract to Thalion's enemies and to defend its own maritime independence.
-10. Istran Melvo staged a withdrawal and left an apparent Atherian command ship as irresistible prize. Hidden assault and fire crews opened the attack from inside. The first operational Atherian sea-fire burned the pearl-white living city black.
+9. The city normally travelled a central island circuit but undertook exceptional long treks. In 355 BR **Ardel Veyr's maritime following hired it as an independent ally**. It travelled east of its ordinary circuit to the eastern approaches of the central Thalassian anchorages, seeking profit and maritime independence.
+10. In the same operation that defeated Ardel's main force, Istran Melvo staged a withdrawal and left an apparent Atherian command ship as irresistible prize. Hidden assault and fire crews opened the attack from inside. The first operational Atherian sea-fire burned the pearl-white living city black; his returning fleet broke Ardel's nearby force, and Ardel escaped east.
 11. Most inhabitants died or entered Atherian captivity. Smaller flotilla and deep-water diasporas survived without preserving the republic. Atheria retained sea-fire as a rare state secret and appropriated selected maritime and biological expertise.
-12. The burned urban mass grounded in eastern waters as the Black Reef. The maimed reefback escaped, but later Black Bearer sightings mix possible survival with storms, other animals, wrecking and folklore. The original central drowned city and the eastern Black Reef remain separate sites frequently conflated in legend.
+12. The burned urban mass grounded on an eastward route from the central anchorages as the Black Reef. The maimed reefback escaped, but later Black Bearer sightings mix possible survival with storms, other animals, wrecking and folklore. The original central drowned city and the Black Reef remain separate sites frequently conflated in legend.
 
 ### Remaining work before promotion
 
 - establish separate names for the predecessor polity, moving successor and Black Reef tradition;
-- place the original drowned site, ordinary central circuit and eastern Black Reef against existing mapped geography;
+- place the original drowned site, ordinary central circuit, 355 BR central anchorages and Black Reef's eastward route against existing mapped geography;
 - choose a narrower foundation date within the current 1000–900 BR range;
-- identify which existing chronology, Atherian, Thalassorian, creature and regional overview pages require additions;
+- integrate this one-battle ruling with the existing Ardel/Melvo chronology and identify which Atherian, Thalassorian, creature and regional overview pages require additions;
 - audit language around Menhir agency, human continuity, Deep Envoy diversity and the material reefback classification;
 - decide how much of this history is public knowledge, restricted scholarship or contested legend at the website's default date;
 - preserve 350 BR as the stopping boundary and defer the later history of sea-fire, captive descendants and Black Bearer sightings.

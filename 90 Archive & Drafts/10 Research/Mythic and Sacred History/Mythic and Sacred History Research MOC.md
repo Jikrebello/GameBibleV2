@@ -183,7 +183,11 @@ The Package D history was approved and promoted on 13 September 2026. [[Package 
 
 ### Package E — harbours, islands and braided precursors
 
-The comparative research programme is complete and awaiting author selection. It changes no canon, map, people or chronology and stops before named Package E development:
+The comparative research programme is complete. Authorial selections now support a **first historical draft through 350 BR**, still under review and wholly outside canon:
+
+- [[Package E - Harbours Islands and Braided Precursors/Package E - First Historical Draft to 350 BR|Package E — First Historical Draft to 350 BR]] connects the Elmaric island worlds, drowned predecessor and moving city, and Vorthara in one author-only chronology. The 355 BR Ardel/Melvo collision has an author-selected one-battle resolution; exact geography and canon integration remain open.
+- [[Package E - Harbours Islands and Braided Precursors/Package E - Local Dossiers to 350 BR/Package E - Local Place Dossiers to 350 BR|Package E — Local Place Dossiers to 350 BR]] opens sixteen short island-site, archipelago-area and Vortharan neighbourhood resources for review before any canon pass. Their descriptive labels are not new toponyms or a ward map.
+- [[Package E - Harbours Islands and Braided Precursors/Package E - Sestaran City Origins and Imperial Handoff 350 BR to 0 AR|Package E — Sestaran City Origins and Imperial Handoff, 350 BR to 0 AR]] reserves the distinct paths of all seven future Concord members and lists what the next imperial-era study must establish without inventing dates or backdating the Concord.
 
 - [[Package E - Harbours Islands and Braided Precursors/Package E - Research Programme and Source Register|Package E — Research Programme and Source Register]] records scope, chronology, selection, evidentiary limits, source quality and the 27 full-profile/12-capsule acceptance ledger.
 - [[Package E - Harbours Islands and Braided Precursors/Aegean and Cypriot Island Worlds|Aegean and Cypriot Island Worlds]] covers Crete, Cyprus, Euboea, Rhodes, Delos, Thera, Aegina–Salamis, Chios, Lesbos, Samos, Lemnos–Samothrace, Naxos–Paros–Milos and Corfu, with six smaller capsules.
