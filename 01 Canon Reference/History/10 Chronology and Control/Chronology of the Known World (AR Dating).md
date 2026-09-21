@@ -84,7 +84,7 @@ The civilized world dates from the execution and resurrection of Isfir the Redee
 - **370 BR — Casvilar's assassination.** His designated heir Thalion, senior commander Velsar and surviving opponents contest his military and political inheritance.
 - **367 BR — The public three-command government.** Thalion, Velsar and Varroth receive exceptional governing powers; proscriptions and confiscations finance their coalition.
 - **363–359 BR — Victory and renewed division.** Republican armies fall at Darsil in 363; veteran settlement provokes a rebellion suppressed in 361. Evara's marriage to Velsar in 359 supports temporary cooperation.
-- **355–354 BR — Maritime victory and eastern royal claims.** Melvo defeats Ardel Veyr; Varroth loses military power. Velsar recognises Samyra's wider dynastic claims, increasing conflict with Thalion.
+- **355–354 BR — Maritime victory and eastern royal claims.** In one linked 355 BR operation, Melvo destroys Ardel Veyr's independent ally [[Marelith]] and defeats Ardel's nearby main force among the central Thalassian anchorages. Ardel escapes east and is executed in 354; Varroth loses military power. Velsar recognises Samyra's wider dynastic claims, increasing conflict with Thalion.
 - **353–350 BR — [[The Wars of the Atherian Succession|The final succession war]].** The royal fleet is defeated outside Sarqen in 352. Thalion annexes the kingdom in 350; Velsar and Samyra die, Amesar is executed and the younger royal children enter Evara's custody.
 ## The Atherian Imperial Age
 

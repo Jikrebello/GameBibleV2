@@ -8,13 +8,13 @@ region: [Mediterranean, Varisia, Sestaran precursors]
 culture: [island societies, port societies, maritime republics, corsair societies]
 related_factions: []
 appears_in: []
-needs: [author review of the first historical draft before canon promotion]
+needs: [later 350 BR–0 AR development, minor-island and precise map review]
 tags: [research, package-e, islands, ports, source-register]
 ---
 # Package E — Research Programme and Source Register
 
 > [!warning] Research boundary
-> This remains an author-only comparative corpus, not canon. The later [[Package E - First Historical Draft to 350 BR]] now draws upon its research and the subsequent authorial decisions; that draft requires separate review before any promotion.
+> This remains an author-only comparative corpus, not canon. The selected pre-350 BR history has been promoted separately; [[Package E - Island and Vorthara Canon Integration Review]] records the public articles, protected controls and open geography. Later merchant-republic and piracy comparisons remain research only.
 
 ## Research question
 
@@ -38,10 +38,11 @@ The programme separates two chronological uses:
 9. [[Atlantis Azlant Absalom and the Drowned-City Problem]] — Plato's political myth, real submerged settlements, Disney's living ruin, classic Pathfinder Azlant and Absalom, Nythalum collision controls and bounded inner-sea models.
 10. [[Kaer Maga Districts and Vorthara Ward-Faction Translation Review]] — author-review matrix for all eleven Kaer Maga districts against Vorthara's existing factions and spatial needs; no canon ward names or boundaries set.
 11. [[Vorthara before 350 BR - Refuge Cults and the Dead]] — author-only staged history for Vorthara's refuge, cult and undead quarters through the 350 BR boundary, with later faction trajectories explicitly provisional.
-12. [[Package E - First Historical Draft to 350 BR]] — first integrated author-only narrative and collision ledger, to be reviewed before any canonical split or promotion.
+12. [[Package E - First Historical Draft to 350 BR]] — preserved author-only first narrative and collision ledger; selected material was promoted through the canon integration review.
 13. [[Package E - Local Place Dossiers to 350 BR]] — sixteen short author-only island-site, archipelago-area and Vortharan neighbourhood resources drawn from the selected history; working labels, not canon geography or wards.
 14. [[Package E - Sestaran City Origins and Imperial Handoff 350 BR to 0 AR]] — author-only forward boundary for the different origins of the seven eventual Concord members; not a 350 BR–0 AR historical narrative.
-15. [[Package E - Pre-Canon Editorial Rulings]] — selected naming, geographic, visibility and Vortharan precinct policies; all new proper names remain provisional until the canon pass.
+15. [[Package E - Pre-Canon Editorial Rulings]] — selected naming, geographic, visibility and Vortharan precinct policies that governed promotion.
+16. [[Package E - Island and Vorthara Canon Integration Review]] — approved public split, protected causal history, 355 BR reconciliation and remaining map questions.
 
 ## Case selection
 
@@ -166,10 +167,10 @@ The regional dossiers add case-specific sources. These works and projects govern
 | Piracy and Tortuga kept separate | Complete |
 | Atlantis, Azlant, Absalom and submerged-city adjunct | Complete; author decisions recorded in its register |
 | Package A–D and Vorthara collision review | Complete at research level |
-| First author-only historical draft through 350 BR | Complete; 355 BR one-battle ruling selected, awaiting further author review |
+| First author-only historical draft through 350 BR | Complete; approved portions promoted separately |
 | Local island-site, archipelago-area and Vortharan neighbourhood dossiers through 350 BR | Sixteen short first-pass author-only resources drafted; individual island names, maps and ward boundaries await review |
 | Sestaran city origins and imperial handoff | Author-only forward boundary drafted; city-by-city foundation order and pre-0 AR completion remain open |
-| Pre-canon editorial choices | Naming scope, provisional essential names, public-knowledge tiers and Vorthara precinct policy recorded; names and map labels still require approval at promotion |
-| Canon changes or promotions | None |
+| Pre-canon editorial choices | Essential names, relative geography, public-knowledge tiers and Vorthara precinct policy applied in promotion |
+| Canon changes or promotions | Pre-350 BR Package E public articles and authorial control promoted; see integration review |
 
-The comparative corpus and subsequent authorial selections support [[Package E - First Historical Draft to 350 BR]] and [[Package E - Local Place Dossiers to 350 BR]]. The 355 BR Melvo/Ardel relationship has an author-selected one-battle resolution; the next action is review of the local places, names, exact geography and public-knowledge boundaries, **not** automatic canon promotion.
+The comparative corpus and subsequent authorial selections support [[Package E - First Historical Draft to 350 BR]] and [[Package E - Local Place Dossiers to 350 BR]]. [[Package E - Island and Vorthara Canon Integration Review]] records what entered canon through 350 BR. Precise charts, smaller islands and the 350 BR–0 AR transition remain separate work.

@@ -18,7 +18,7 @@ Sermora is a canal metropolis and fortified island republic commanding the centr
 
 ## Formation
 
-Island harbors and pilot communities predate Atherian conquest. Atheria preserved local captains to move fleets and collect customs. During the Decadence those captains kept the revenue and built an independent Admiralty. Sermora joined the first defensive compact in 908.
+Island harbours and pilot communities predate Atherian conquest. The capital grew on [[Seravon before 350 BR|Seravon]], where related [[Elmaric Island Peoples before 350 BR|Elmaric]] communities were numerous but did not share one ancient government. Atheria preserved local captains to move fleets and collect customs. During the Decadence those captains kept the revenue and built an independent Admiralty. Sermora joined the first defensive compact in 908.
 
 ## Government and Citizenship
 

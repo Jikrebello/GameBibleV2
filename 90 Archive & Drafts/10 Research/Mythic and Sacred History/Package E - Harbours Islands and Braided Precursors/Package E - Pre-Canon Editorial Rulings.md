@@ -1,6 +1,6 @@
 ---
 type: research
-status: in-review
+status: complete
 canon_level: exploratory
 visibility: author-only
 era: ["Giant age–350 BR"]
@@ -8,13 +8,16 @@ region: [Thalassian Sea, Elmaric islands, Vorthara]
 culture: [Elmaric peoples, Vortharan precursors]
 related_factions: [Pale Hand]
 appears_in: []
-needs: [author approval of final names during canon pass, map reconciliation, final public-knowledge review]
+needs: [precise later map reconciliation]
 tags: [research, package-e, pre-canon, editorial-rulings]
 ---
 # Package E — Pre-Canon Editorial Rulings
 
 > [!warning] Selected review policy, not canon promotion
 > These are the author's pre-promotion choices for turning [[Package E - First Historical Draft to 350 BR]] and [[Package E - Local Place Dossiers to 350 BR]] into encyclopedia articles. **The four new place-names below are provisional author-only names**, not yet public canon or final map labels. The history still stops at **350 BR**. Existing chronology and geography control any later promotion.
+
+> [!note] Subsequent promotion
+> This page preserves the choices as they stood before promotion. On 21 September 2026 the author approved the canon pass, and [[Package E - Island and Vorthara Canon Integration Review]] records the adopted names, articles and still-open precise maps. “Provisional” below describes the earlier review stage, not the current status of the four public names.
 
 ## 1. Name the essential places; keep the rest relational
 

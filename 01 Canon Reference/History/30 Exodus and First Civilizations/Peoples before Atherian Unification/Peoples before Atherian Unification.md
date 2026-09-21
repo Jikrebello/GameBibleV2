@@ -26,6 +26,14 @@ This collection follows the peoples whose histories have been established from t
 
 The word **Atherian** could describe language and culture, citizenship in an Atherian city or political membership under Caleran. These uses overlapped. They did not imply one ancestry or equal public rights.
 
+## The central island peoples
+
+- [[Historical Atlas of the Elmaric Sea before 350 BR]] follows the period and its foreign relationships; [[Elmaric Island Peoples before 350 BR]] explains the related but politically separate communities whose local Orphaned roots and later migration predate the Sermoran and Saronikan states.
+- [[Elmarai Isles before 350 BR]], [[Seravon before 350 BR]] and [[Ilamar before 350 BR]] give three distinct entrances to the archipelago, populous great island and independent sanctuary.
+- [[Caelovar]] and [[Marelith]] concern two different cities: the former drowned in the Giant collapse; the latter moved on a living bearer until its destruction in 355 BR.
+
+The central Elmaric heartland met Atherian-speaking ports on its western and eastern approaches. A shared route did not make every islander Atherian, nor did Elmaric kinship give the islands one citizenship.
+
 ## Qahur and the Gateway
 
 - [[The Qahuri]] introduces the river civilisation of the Sacred Basin.

@@ -16,6 +16,8 @@ tags: []
 
 Vorthara occupies the Black Spire and surrounding ridges at the mountain knot between Thalmyria, Eclessia, and Sestara. It controls Crown Gate Pass and scattered hamlets but no broad highland province.
 
+Its [[Vorthara before 350 BR|pre-Atherian history]] began with escaped human slaves and other outsiders sheltering inside and against the Spire. By 350 BR an inhabited interior, exterior town and ridge approaches held traders, independent practitioners, the early Pale Hand and adjoining cult courts. These [[Vortharan Working Precincts before 350 BR|early working areas]] were not the fixed borders or institutions of the present wards.
+
 ## The City Without Government
 
 Vorthara has no Council of Magi, common citizenship, citywide law, or ordinary ruler. Schools, guilds, families, gangs, shrines, arenas, and neighborhood compacts control their own wards. Protection depends on membership, reputation, payment, favors, and the willingness of neighbors to enforce a boundary.

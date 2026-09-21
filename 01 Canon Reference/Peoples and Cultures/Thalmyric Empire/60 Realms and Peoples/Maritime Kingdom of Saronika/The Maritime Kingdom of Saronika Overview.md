@@ -19,7 +19,7 @@ Saronika is the eastern maritime kingdom of Naverion, Erenost, and the Elmarai I
 
 ## Historical Formation
 
-[[Arkenan and Saronikan Cities before the Empire]] describes the earlier harbour households, Erenost's grain seizure and the growth of civic cooperation. These ancient ports had separate governments; the later maritime kingdom inherited their settlements and changing relationships with the islands.
+[[Arkenan and Saronikan Cities before the Empire]] describes the earlier Atherian-speaking harbour households, Erenost's grain seizure and the growth of civic cooperation. The [[Elmarai Isles before 350 BR|Elmarai Isles]] also held older [[Elmaric Island Peoples before 350 BR|Elmaric]] communities with their own local institutions. These ancient ports and islands had separate governments; the later maritime kingdom inherited their settlements and changing relationships.
 
 Atherian harbors and island forts survived unevenly. Occupation governments held selected ports while refugee fleets and coastal communities moved between islands. The Long Reconquest recovered Saronika through blockade, negotiated surrender, and naval settlement rather than one decisive battle.
 

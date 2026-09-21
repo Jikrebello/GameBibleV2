@@ -76,6 +76,8 @@ tags: []
 - [[Eryndor III and the Ortheian Eastern Conquest]]
 - [[Wars of the Inheritance]]
 - [[The Eastern Sea Wars]]
+- [[Historical Atlas of the Elmaric Sea before 350 BR]] — central island chronology; [[Elmaric Island Peoples before 350 BR|the peoples article]] develops households, politics and livelihood.
+- [[Vorthara before 350 BR]] — refuge and working precincts at the Black Spire before Atherian rule.
 - [[01 Canon Reference/History/30 Exodus and First Civilizations/Road, Tower, River and Highland Life.md]]
 - [[The Five Limits of Eryndor]]
 - [[Historical Spine of the Jirahar]]

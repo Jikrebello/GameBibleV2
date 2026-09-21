@@ -66,6 +66,8 @@ For the political circumstances inherited by the present generation, read [[Pres
 
 [[Arkenan and Saronikan Cities before the Empire]] provides an eastern counterpart through port households, grain voyages and teaching. [[The Celestial Compact and the Caleran Republic]] follows public institutions through service, land and provincial wealth to the eve of Thalion. [[Food, Work and Citizenship in Republican Atheria]] describes the households sustaining that world.
 
+The [[Historical Atlas of the Elmaric Sea before 350 BR]] follows the central island world and its outer theatres across the ages. [[Elmaric Island Peoples before 350 BR]] develops the population, livelihood and institutions; [[Elmarai Isles before 350 BR]], [[Seravon before 350 BR]] and [[Ilamar before 350 BR]] provide local entrances. [[Caelovar]] and [[Marelith]] distinguish the drowned Giant-age colonial harbour from the later mobile city and its [[Black Reef|355 BR wreck]]. [[Vorthara before 350 BR]] follows a separate Spire refuge whose [[Vortharan Working Precincts before 350 BR|working precincts]] developed before Atherian rule.
+
 [[Palace Survivors and the Southern Heroic Age]] follows independent recovery after the Giant collapse. [[The Siege and the Returnings]] gives that world a connected heroic history, from High Harbour's fall to supernatural pursuit, changed households and settlement on another shore.
 
 For the overseas republic, read [[The Gateway Republic]] and [[The Gateway Wars]]. Their history connects food-producing towns, naval service, rival commanders and opposition to child sacrifice with the destruction of the capital. [[The Spared Towns and the Queen's Country|The Spared Towns and the Kingdom of Sarqen]] follows the survivors into a royal state centred on the surviving harbours.
@@ -165,6 +167,8 @@ The [[Dependable Navigation - Review and Repair Ledger]] documents the link repa
 [[Package B - Qiryath and Eastern Empires Canon Integration Review]] records the promotion of the Jirahar road-house history, Arqesh, Vashar, Ortheia, Eryndor's eastern conquest, the Successor kingdoms and the Eastern Sea Wars.
 
 [[Package C - Wells, Open Country and Vathra Canon Integration Review]] records the promotion of Vathra, the Great Unyoking, the ancient Tarkhan and Ahdari histories and the defence of Rethmar.
+
+[[Package E - Island and Vorthara Canon Integration Review]] records the pre-350 BR island and Spire-town promotion, including protected causes, the one 355 BR battle and geographic questions held open for later mapping.
 
 [[Ancient Peoples before Atherian Unification - Canon Integration Review]] records the synchronised identity integration across Atherian, Package A and Package B history.
 

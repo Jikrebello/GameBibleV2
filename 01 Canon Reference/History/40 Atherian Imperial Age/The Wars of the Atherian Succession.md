@@ -74,7 +74,7 @@ Marovan Veyr's son Ardel Veyr maintained a following among displaced officers, r
 
 Thalion relied on [[Istran Melvo]], a former shipyard worker and military organiser, to contest those routes. Melvo repaired vessels, trained crews and secured stores at cooperating ports. His campaign involved negotiation with residents whose harbours had already borne repeated levies. Seizure of timber and compulsory labour accompanied improvements in the fleet's ability to remain at sea.
 
-An agreement with Ardel in 357 BR recognised some possessions and promised protection for fugitives. It broke down over withheld supplies, disputed returns of property and the continued seizure of vessels. In 355 BR, Melvo defeated the sea-heir's main force among the central Thalassian anchorages. Ardel escaped east and was executed in 354 BR by one of Velsar's officers. Refugee households were dispersed; some obtained pardon, while others were sold or surrendered to old enemies.
+An agreement with Ardel in 357 BR recognised some possessions and promised protection for fugitives. It broke down over withheld supplies, disputed returns of property and the continued seizure of vessels. Ardel hired [[Marelith]], an independent mobile harbour-city, for ships and provisions; its captains kept their own government. In 355 BR, Marelith accompanied his force east of its ordinary central-island circuit. Melvo attacked the city among the central Thalassian anchorages and defeated Ardel's nearby main force in the same linked operation. Accounts describe an apparent prize ship admitted near Marelith before hidden attackers and sea-fire burned its living works. The weapon's making remained secret. The city's destruction killed or displaced many residents, and its grounded remains became the [[Black Reef]]. Ardel escaped east and was executed in 354 BR by one of Velsar's officers. Refugee households were dispersed; some obtained pardon, while others were sold or surrendered to old enemies.
 
 Varroth attempted to claim the surrendered forces and harbours during the victory. Thalion secured their allegiance through payment and promises of continued service. Varroth's troops followed, leaving him unable to enforce his demand. He relinquished military command but retained his estates and office as First Celebrant of the Common Sky.
 
@@ -121,4 +121,3 @@ For many households, peace meant the return of trade, predictable duties and few
 - [[Istran Melvo]]
 - [[Households of the Imperial Founding]]
 - [[The Last Generations of the Caleran Republic]]
-

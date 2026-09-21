@@ -34,7 +34,7 @@ Training joined rowers, sailors and fighting troops who often came from differen
 
 ## The sea-heir's defeat
 
-An agreement with Ardel in 357 BR briefly reduced conflict. Disputes about supplies, property and captured vessels renewed it. In 355 Melvo defeated the sea-heir's main force among the central Thalassian anchorages.
+An agreement with Ardel in 357 BR briefly reduced conflict. Disputes about supplies, property and captured vessels renewed it. In 355 BR Melvo destroyed Ardel's independent ally, the mobile harbour-city [[Marelith]], and defeated the sea-heir's nearby main force among the central Thalassian anchorages in one operation. Accounts differ over the prize-ship deception; the incendiary attack on the city left the [[Black Reef]] and killed or captured many residents.
 
 The victory opened routes and destroyed a refuge for displaced households. Some defeated crews were left beyond rescue as the victors concentrated on securing ships and prisoners. Captives subsequently faced pardon, sale or delivery to former enemies. Melvo's work made the campaign effective, including its coercive results.
 
@@ -53,4 +53,3 @@ At the settlement of 350, he belonged among the men whose service had made imper
 - [[The Wars of the Atherian Succession]]
 - [[Aurelius Thalion]]
 - [[Samyra Nerethan]]
-
