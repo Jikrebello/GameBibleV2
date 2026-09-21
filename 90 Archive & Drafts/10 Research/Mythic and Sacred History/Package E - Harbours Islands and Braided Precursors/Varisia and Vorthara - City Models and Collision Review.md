@@ -58,6 +58,8 @@ The prison history matters because confinement leaves infrastructure, sealed pop
 
 Kaer Maga’s districts differ in population, custom, enforcement and built environment. Power is local: gangs, guilds, temples, families, commercial groups and stranger communities can govern within neighbourhoods without one civic law becoming effective everywhere. This is not the absence of rules. It is legal pluralism enforced by reputation, force, tolls, retaliation and negotiated boundaries.
 
+The sharpest example for Vorthara is captivity. Paizo's [*City of Strangers* preview](https://paizo.com/blog/city-of-strangers) identifies the Bottoms with freed slaves pursuing abolition, while the [official book description](https://paizo.com/products/btpy8fda) presents Kaer Maga as an anarchic market where refugees and dangerous buyers coexist. The full 1E city treatment locates slave dealing in Downmarket. This is not a citywide consensus for or against slavery: neighbouring districts and factions can defend incompatible moral and economic orders. The portable structure is jurisdiction at neighbourhood scale, not the importation of the Freemen, the Bottoms, the Flesh Block or Kaer Maga's specific layout into Vorthara.
+
 ### Sanctuary and illicit destination trade
 
 The city attracts exiles, prohibited practitioners, fugitives, traders and customers seeking goods or services restricted elsewhere. Its remoteness and dangerous reputation are economic assets only because routes, markets and protectors make arrival possible. “Anything can be bought” is promotional shorthand; every transaction still has suppliers, brokers, territorial protection and risk.
@@ -135,8 +137,8 @@ Package E can ask comparable questions of existing cities without duplicating th
 These are questions only. They do not authorise answers in ancient canon.
 
 1. Which present wards or road institutions have demonstrably pre-Atherian predecessors, if any?
-2. What food and timber routes sustained the earliest known post-Unbinding settlement around the Black Spire?
-3. Did an older sanctuary, refuge custom or pass market precede Atherian quarantine, or is that a later civic myth?
+2. How did the continually inhabited refuge communities around the Black Spire obtain food, fuel and building materials through the Giant age, the Unbinding and later periods?
+3. Which refuge customs or pass markets arose before Atherian quarantine, and which details are later civic myth?
 4. Which institution first enforced a narrow predecessor of the Spire Truce, and what disaster made others accept it?
 5. How did surrounding villages experience the city’s demand for carriers, fuel, food and bodies?
 6. Which practices now described as “Vortharan” actually descend from distinct Arkenan, Saronikan, Atherian or refugee traditions?

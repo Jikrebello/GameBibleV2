@@ -35,6 +35,9 @@ The programme separates two chronological uses:
 6. [[Package E - Comparative Synthesis and Canon Readiness Questions]] — portable structures, rejected shortcuts, collisions and authorial choices.
 7. [[Merchant Republics and Island Afterlives]] — Venice, Genoa, Pisa, Amalfi, Ragusa, Ancona and smaller republics.
 8. [[Corsair States Mediterranean Piracy and Tortuga]] — ancient piracy, Adriatic raiding, Malta, Barbary regencies, captivity, ransom and Caribbean comparisons.
+9. [[Atlantis Azlant Absalom and the Drowned-City Problem]] — Plato's political myth, real submerged settlements, Disney's living ruin, classic Pathfinder Azlant and Absalom, Nythalum collision controls and bounded inner-sea models.
+10. [[Kaer Maga Districts and Vorthara Ward-Faction Translation Review]] — author-review matrix for all eleven Kaer Maga districts against Vorthara's existing factions and spatial needs; no canon ward names or boundaries set.
+11. [[Vorthara before 350 BR - Refuge Cults and the Dead]] — author-only staged history for Vorthara's refuge, cult and undead quarters through the 350 BR boundary, with later faction trajectories explicitly provisional.
 
 ## Case selection
 
@@ -135,6 +138,14 @@ The regional dossiers add case-specific sources. These works and projects govern
 - James Jacobs et al., *Magnimar, City of Monuments* (Paizo, 2012).
 - James Jacobs et al., *Varisia, Birthplace of Legends* (Paizo, 2012).
 - Greg A. Vaughan, *Second Darkness: Shadow in the Sky* (Paizo, 2008), for Riddleport.
+- James Jacobs et al., *The Inner Sea World Guide* (Paizo, 2011), pp. 203 and 210–211; Wolfgang Baur et al., *Lost Kingdoms* (Paizo, 2012); and *Ruins of Azlant* Adventure Path #121–126 (Paizo, 2017–2018), for Azlant.
+- Jason Bulmahn, *Guide to Absalom* (Paizo, 2008), for Absalom's city, districts, factions and Starstone-centred civic history.
+
+### Lost cities, submerged archaeology and modern Atlantis
+
+- Plato, *Timaeus* and *Critias*, with the [Stanford philosophical overview](https://plato.stanford.edu/entries/plato-timaeus/) and Christopher Gill's [“Designer History”](https://www.cambridge.org/core/journals/journal-of-hellenic-studies/article/abs/designer-history-platos-atlantis-story-and-fourthcentury-ideology/828B7BB540EB710BF9F9D6E3840F2456).
+- Archaeological and geoarchaeological work on [Helike](https://www.cambridge.org/core/journals/radiocarbon/article/locating-archaeological-horizons-with-14c-sediment-dating-the-case-of-the-lost-city-of-helike/3B5238EC241A47487761E4ED41184F3B), [Pavlopetri](https://www.nottingham.ac.uk/csps/research/research-projects.aspx), [Thonis-Heracleion](https://ocma.web.ox.ac.uk/publications-1) and [Baiae](https://cultura.gov.it/luogo/parco-archeologico-dei-campi-flegrei-parco-archeologico-sommerso-di-baia).
+- *Atlantis: The Lost Empire* (2001) as the primary narrative object, supplemented by Disney's [production record](https://d23.com/a-to-z/atlantis-the-lost-empire-film/) and contemporary [design coverage](https://www.cgw.com/Publications/CGW/2001/Volume-24-Issue-7-July-2001-/Staying-Tooned.aspx).
 
 ## Acceptance ledger
 
@@ -149,6 +160,7 @@ The regional dossiers add case-specific sources. These works and projects govern
 | Classic 1E Varisia comparison, Kaer Maga deepest | Complete |
 | Merchant republics kept separate | Complete |
 | Piracy and Tortuga kept separate | Complete |
+| Atlantis, Azlant, Absalom and submerged-city adjunct | Complete; awaiting author selection |
 | Package A–D and Vorthara collision review | Complete at research level |
 | Canon changes or promotions | None |
 
