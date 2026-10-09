@@ -94,4 +94,6 @@ The real Roman record offers **mechanisms**, not an event schedule. Hispania too
 4. Which Sestaran city foundations and charters belong before 0 AR? The [[Package E - Harbours Islands and Braided Precursors/Package E - Sestaran City Origins and Imperial Handoff 350 BR to 0 AR|Sestaran handoff]] reserves these as open.
 5. In the **0–540 AR** post-Redeemer programme, what causes the principal wars with Vashar and how do the Underground Centuries, Conversion and c. 400–540 weakening change their character? Do not assign these wars to a convenient reign before the later-period audit.
 
-The next pass should turn the selected route into one synchronized chronology of campaigns, treaties, taxes, roads, fleets, local resistance and provincial afterlives. It should not promote this options note as canon.
+The selected route is now being developed through [[The First Imperial House - Proposed Character Biographies|proposed biographies of Thalion, Meren, Cassara and Olarion]], with additions and sources recorded in [[The First Imperial House - Sources and Development Review|their development review]]. This first delivery remains author-only and awaits review.
+
+The regional sequence should turn the selected route and reviewed character histories into one synchronized chronology of campaigns, treaties, taxes, roads, fleets, local resistance and provincial afterlives. Neither the options note nor the proposed biographies constitutes canon promotion.
