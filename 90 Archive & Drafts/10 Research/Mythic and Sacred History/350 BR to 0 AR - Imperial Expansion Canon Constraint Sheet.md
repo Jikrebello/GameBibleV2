@@ -14,6 +14,8 @@ tags: [research, author-only, age-of-glory, imperial-expansion, chronology-contr
 ---
 # 350 BR to 0 AR — Imperial Expansion Canon Constraint Sheet
 
+The Caleran venue in this sheet records the earlier canon baseline. The creator adopted Second Qiryath on 13 November 2026. [[The Rise of the Redeemer]] controls the current venue and jurisdiction, and [[Caleran and the Eternal Ember]] controls the later flame custody.
+
 > [!warning] Author-only working sheet
 > This is the first audit and endpoint proposal for the empire-wide expansion pass. **Fixed canon**, **creator direction**, and **proposed working targets** are identified separately. No campaign, annexation date, provincial border or new imperial maximum is canonised by this note.
 

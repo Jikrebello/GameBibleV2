@@ -4,7 +4,7 @@ status: canon
 canon_level: core
 visibility: public
 era: ["Age of the Redeemer"]
-region: ["Atherian Empire", "Caleran", "Qiryath Reqa"]
+region: ["Atherian Empire", "Second Qiryath", "Caleran"]
 culture: ["Atherian", "Jirahar"]
 related_factions: ["Star Pantheon", "Qiryath Council", "Followers of the Redeemer"]
 appears_in: ["Caleran"]
@@ -13,7 +13,7 @@ tags: []
 ---
 # The Age of the Redeemer
 
-The Age of the Redeemer encompasses the life of Isfir, his public ministry from approximately 3 BR to 0 AR, his execution by Atherian authority and his resurrection on the third night. These events transformed the human soul-road and established the central truth around which later churches, empires and persecutions developed. The age also includes the immediate political and religious consequences among the Jirahar and within imperial Caleran.
+The Age of the Redeemer encompasses the life of Isfir, his public ministry from approximately 3 BR to 0 AR, his execution at Second Qiryath by Atherian authority and his bodily Resurrection on the third day. These events transformed the human soul-road and established the central truth around which later churches, empires and persecutions developed. The age follows the first assemblies through the fall of Second Qiryath and the last fortress of the Great Tower Revolt.
 
 ## A life inside imperial history
 
@@ -23,9 +23,11 @@ The called Companions remain the established company: thirteen called, one struc
 
 ## The Binding and its consequences
 
-Some Jirahar followed Isfir, some rejected him lawfully and a controlling council faction decided he was dangerous enough to deliver to imperial power. Lord-Scribe Ezrahel bar Qoreth and a majority of participating senior elders pressed Atherian authorities for execution, intending his death while lacking power to impose it themselves. High Augur Severan and the imperial court chose the sentence, and Atherian soldiers bound Isfir to the Pillar of Concordance at Caleran. The elders' guilt was real and specific, but the later claim that it passed through Jirahar blood is false.
+At Second Qiryath, Lord-Scribe Ezrahel bar Qoreth and a majority of the participating senior elders brought Isfir to the Atherian governor on a charge of rival kingship. The governor held the power to pass a capital sentence. High Augur Severan urged public punishment, and imperial soldiers bound and nailed Isfir to a timber outside the city. An elder who challenged the testimony claimed his body. He was buried before the Resting Day. [[The Rise of the Redeemer]] gives the sequence of the trial and burial.
 
-On the third night Isfir rose, appeared to his followers and sent them into the nations. The White Flame authenticated his person and mission. The trial, execution, third-night fire, resurrection and gift of the Holy Flame stand at the center of the calendar; their truth is not contingent on the later empire's success. Nor did every institution which subsequently invoked the Flame inherit the Redeemer's authority.
+On the third morning, Solana and other women found the tomb empty. The risen Isfir appeared to his followers, showed them his wounds and ate with them. After the Ascension, the gathered community received the Holy Flame in Qiryath. Teaching, prayer, shared meals and care for people in need sustained the first congregation. Its people carried the proclamation through the households and roads they already knew.
+
+The first assembly chose servers from settled and travelling households after its relief lists missed widows. As the faith spread to ports and provincial towns, a meeting at Qiryath recognized baptism as sufficient for admission without requiring entry into the Jirahar covenant. The ruling shaped mixed congregations whose members still differed over food and the obligations of a common table. [[The First Church - From Qiryath to the Tower Revolt|The First Church]]
 
 The Silence of Acceptance at Qiryath followed the Resurrection. Sacrifice continued, but its former authenticated sign did not return. Later imperial violence against Jirahar communities cannot be justified by converting this theological event into hereditary guilt. Individuals made choices; whole descendants were not sentenced by ancestry.
 
@@ -37,9 +39,11 @@ Food, illness, childbirth and the care of the dead supplied the daily work behin
 
 ## Revolt and Underground
 
-The Great Tower Revolt of 66–73 AR brought initial victories, factional conflict and siege. The Second Qiryath fell in 70 AR; the last fortress in 73. Communities already dispersed across the empire were joined by new refugees. Burial, teaching and household continuity became more portable because the sanctuary could no longer protect them.
+The Great Tower Revolt of 66–73 AR brought initial victories, factional conflict and siege. Second Qiryath fell in 70 AR and the last fortress in 73. Atheria ended Qiryath's charter government and put the city under direct provincial rule. Many displaced Jirahar found refuge beyond imperial jurisdiction. Some of Qiryath's believers went with them, and others found homes among congregations already established within the empire.
 
 The Underground Centuries, 1–291 AR, were not one uninterrupted intensity of persecution. Local officials, emperors and mobs acted differently. Some congregations flourished long enough to acquire property before losing it. Others survived through service households and burial fraternities. Their local histories feed the [[Great Saints and Sinners - Lives and Afterlives|Lives and Afterlives]] without creating a second apostolic generation.
+
+In the generations after Qiryath, municipal recovery, wars with Vashar, southern border treaties and the rising at Sarqen reshaped the empire around these congregations. [[Atheria between Qiryath and Cassian - Emperors Wars and Revolts|Atheria between Qiryath and Cassian]]
 
 ## What the age leaves
 
@@ -60,6 +64,8 @@ The received traditions gathered under this portal therefore remain readable bes
 - [[Amaryah the Fire-Bearer]]
 - [[The Apostle’s Bones]]
 - [[The Ember Underground]]
+- [[The Church after Qiryath - From Exile to Legalization|The Church after Qiryath]]
+- [[The First Church - From Qiryath to the Tower Revolt|The First Church]]
 - [[The Forty Flames]]
 - [[The Rise of the Redeemer]]
 - [[The Twelve Companions of the Redeemer]]

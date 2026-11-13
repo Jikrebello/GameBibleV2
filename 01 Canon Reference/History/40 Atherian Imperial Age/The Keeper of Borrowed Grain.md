@@ -26,7 +26,7 @@ Several seasons of poor water and crop disease emptied local reserves. Estate ma
 
 ## Relief
 
-Empress Lethara appointed Neriah after two earlier commissioners failed to coordinate river transport. He purchased grain from other provinces, requisitioned vessels and opened military stores. Local women who knew which households had disappeared helped revise distribution lists. Bakers changed the mixtures used for public loaves so available grain would last.
+Emperor Elian II appointed Neriah after two earlier commissioners failed to coordinate river transport. He purchased grain from other provinces, requisitioned vessels and opened military stores. Local women who knew which households had disappeared helped revise distribution lists. Bakers changed the mixtures used for public loaves so available grain would last.
 
 Neriah required a countersignature from local witnesses before a store release, reducing diversion by officials. Deliveries still favoured towns on navigable routes. People died in isolated districts before pack caravans reached them, and soldiers killed a crowd attempting to force entry into one store.
 
@@ -34,17 +34,17 @@ Relief grain and seed were issued as recoverable obligations. When households co
 
 ## The decision to continue
 
-The first emergency conversion preserved fields from immediate sale to private speculators. Neriah then advised Lethara to continue the policy across the affected province. He believed a unified estate could repair channels, distribute seed and secure future supply.
+The first emergency conversion preserved fields from immediate sale to private speculators. Neriah then advised Elian to continue the policy across the affected province. He believed a unified estate could repair channels, distribute seed and secure future supply.
 
 The imperial estates recovered, and several towns survived. Families lost the right to decide what to plant, where their children would work and when they could leave. Debt servitude acquired the stability of public administration.
 
-Neriah resigned after the worst harvests had passed. He left copies of both the release accounts and the land transfers with his community. Later imperial officials removed many local countersignatures when presenting the policy as the empress's generosity.
+Neriah resigned after the worst harvests had passed. He left copies of both the release accounts and the land transfers with his community. Later imperial officials removed many local countersignatures when presenting the policy as the emperor's generosity.
 
 ## Memory
 
 Raveth families called a measure taken in desperation “the Keeper's loan”. The phrase could express gratitude for help or warn that assistance would claim the recipient's future. Neriah's own household preserved prayers for those who died before the grain arrived and the names of farms transferred under his seal.
 
-Imperial histories praised his intelligence. Hostile accounts accused the Jirahar of planning the acquisition, despite Lethara's approval and the benefits received by Atherian estate managers. Both accounts obscured the households whose lives and dependence followed from the same policy.
+Imperial histories praised his intelligence. Hostile accounts accused the Jirahar of planning the acquisition, obscuring Elian's approval and the benefits received by Atherian estate managers. Both accounts gave little attention to the households whose lives and dependence followed from the same policy.
 
 ## Further reading
 

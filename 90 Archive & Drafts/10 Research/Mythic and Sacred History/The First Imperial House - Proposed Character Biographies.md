@@ -16,7 +16,7 @@ tags: [research, author-only, imperial-expansion, biography, first-imperial-hous
 
 Thalion and his first three successors governed Atheria from 350 to 247 BR. Across their reigns, the military settlement of the founding generation became a larger empire sustained by provincial farms, towns, roads and fleets. Their family history followed the same transformation: people who remembered defeated relatives and precarious claims gave way to rulers brought up inside a court whose authority appeared permanent.
 
-These four connected biographies develop the opening century of the selected southern expansion route. The naval network supports every reign. Southern communities retain their own interests, and the territorial gains leave substantial further expansion for the Veloran and later houses.
+These four reigns develop the opening century of the selected southern expansion route. The naval network supports every reign. Southern communities retain their own interests, and the territorial gains leave substantial further expansion for the Veloran and later houses.
 
 > [!important] Proposed history for author review
 > This draft combines established canon with new characterisation, people and events. All additions remain proposals. The companion [[The First Imperial House - Sources and Development Review|development review]] identifies the fixed anchors, inventions, historical inspiration and remaining geographic questions. Narrative confidence here does not promote an addition to canon.
@@ -95,17 +95,17 @@ Meren retained Tavren, whose officers and local allies were difficult to replace
 
 The following advances, around 303–296 BR, were slower and more durable. Garrisoned towns acquired assessed agricultural districts, regular markets and officials able to hear revenue disputes. Selected northern Belathi districts entered separate agreements or suffered conquest where their leaders opposed the new toll and supply arrangements. The territorial result included farms, woodland rights and working communities across several connected districts. Independent assemblies and rulers remained beyond the expanding provincial belt.
 
-### Cassara's apprenticeship
+### Cassara and the succession
 
 Meren's later government increasingly depended upon municipal officers who could maintain the resources his campaigns had acquired. Cassara worked in the Aurin stores during the final years of his reign and represented him during illness. He valued her accuracy and persistence, although she could make an audience uncomfortable by asking how a celebrated military achievement would be maintained through winter.
 
-He named her successor and confirmed the appointments of commanders who accepted her authority. Provincial festivals and public vows placed the succession within the religious life of the dynasty. Cassara's sex made her accession unprecedented in the imperial office; her years of visible work gave officers and town officials practical reasons to recognise her.
+Meren chose Cassara's husband Valeran Soreth as his successor. Valeran had managed harbour supply and held a military command. Meren adopted him, confirmed the appointments of commanders who recognised the settlement and presented him at the dynasty's public rites. The adoption gave Valeran a place within the imperial house. His service gave the ports and officers grounds to accept him.
 
 Meren died in 286, aged seventy-two. The government he left could extract revenue from a larger southern territory than the one he had inherited. Its roads, stores and local arrangements varied greatly in quality. Cassara had spent enough time among their accounts to know where the next failures were likely to occur.
 
-## Cassara I
+## Valeran I and Cassara
 
-Cassara I (proposed birth c. 310 BR; empress 286–263 BR) was Meren's daughter and the first woman to hold the imperial command in her own name. Her government enlarged water storage, harbour granaries and provincial roads. These works helped Atheria occupy and govern a broader southern territory, while their demands upon land and labour produced conflicts which Cassara's own decisions sometimes intensified.
+Valeran I (emperor 286–263 BR) inherited the ports, stores and military agreements he had helped administer. He took particular interest in the moment when a vessel arrived but its cargo still needed guards, carts and working roads. Cassara (proposed birth c. 310 BR), his wife and Meren's daughter, understood where shortages appeared first in the Aurin accounts. Their household drew officials, engineers and town petitioners into the same audiences. Valeran's government enlarged water storage, harbour granaries and roads, and imposed the labour assessments that made those works possible.
 
 ### Learning to govern
 
@@ -113,11 +113,11 @@ Cassara grew up during Meren's southern campaigns. Household conversations broug
 
 She liked explanations that could be demonstrated. A watercourse, loaded cart or damaged retaining wall gave her something against which to test an official's assurance. She could spend an afternoon listening to a craftsperson and later lose patience with a councillor who described customary rights without quantities or boundaries. People who knew her learnt to bring both a petition and a practical account of what its acceptance would require.
 
-Her proposed husband, Valeran Soreth, belonged to a family experienced in harbour administration. He was comfortable among shipping households whose cooperation depended upon reputation and personal introductions. Their son Olarion was born around 283 BR, three years after her accession. Valeran encouraged the child's fascination with moving toys and visiting performers. Cassara shared some of that interest, especially when a mechanism revealed an ingenious solution to a practical problem.
+Valeran belonged to a family experienced in harbour administration. He was comfortable among shipping households whose cooperation depended upon reputation and personal introductions. Their son Olarion was born around 283 BR, three years into Valeran's reign. Valeran encouraged the child's fascination with moving toys and visiting performers. Cassara shared some of that interest, especially when a mechanism revealed an ingenious solution to a practical problem.
 
 ### Roads and occupied country
 
-From approximately 285 to 276 BR, Cassara directed money and labour towards the districts acquired or brought under firmer control during Meren's reign. Raised approaches, bridges, granaries and repaired river landings allowed garrisons to remain supplied for longer periods. Town councils undertook specified works in return for clearer assessments and the confirmation of market privileges.
+From approximately 285 to 276 BR, Valeran assigned money and labour to districts acquired or brought under firmer control during Meren's reign. Cassara followed the store reports and travelled with engineers. Raised approaches, bridges, granaries and repaired river landings allowed garrisons to remain supplied for longer periods. Town councils undertook specified works in return for clearer assessments and the confirmation of market privileges.
 
 The programme also enabled further advances. Commanders could reach cultivated districts beyond the earlier supply limit, and neighbouring leaders faced a choice between negotiating obligations and meeting troops that could remain after harvest. Some local households sought provincial status because an imperial judgement offered protection against a powerful neighbour. Others lost the ability to withdraw a seasonal contribution once it had become an annual assessment.
 
@@ -125,7 +125,7 @@ Cassara supported administrative work in newly governed towns and brought provin
 
 ### The quarry revolt
 
-In 274 BR, managers extended compulsory quarry service through the harvest to maintain an aqueduct programme. Workers refused to continue. Troops killed strikers, and families were expelled from housing attached to the works. Cassara dismissed two managers but upheld the compulsory programme and completed the aqueduct.
+In 274 BR, managers extended compulsory quarry service through the harvest to maintain an aqueduct programme. Workers refused to continue. Troops killed strikers, and families were expelled from housing attached to the works. Cassara pressed for the removal of two managers. Valeran dismissed them, upheld compulsory service and ordered the aqueduct completed. The households expelled from the works still had to find shelter and bring in what remained of their harvest.
 
 Her response followed a judgement she was willing to defend: the works served towns whose water supply could not be postponed indefinitely, and abandoning the assessment would encourage resistance elsewhere. She approved closer supervision of work schedules and treated the managers' conduct as a punishable failure within a necessary system. The affected households had already lost relatives, housing and part of their harvest. Replacing managers did not restore those losses.
 
@@ -133,9 +133,9 @@ The decision exposed a limit to her celebrated accessibility. She listened caref
 
 ### Harbours and the court
 
-Around 272–266 BR, Maerdis, the head of a Dovren shipping household, negotiated a group of repair and transport agreements with Cassara's officers. Her partners wanted predictable payment, access to protected markets and clear limits upon the seizure of working boats. The government wanted crews and vessels available when southern campaigns required them.
+Around 272–266 BR, Maerdis, the head of a Dovren shipping household, negotiated repair and transport agreements with Valeran's officers. Her partners wanted predictable payment, access to protected markets and clear limits upon the seizure of working boats. The government wanted crews and vessels available when southern campaigns required them.
 
-The resulting agreements secured particular services and landings. Authority over neighbouring farms remained a separate matter. When officers tried to extend a harbour obligation to those farms, Maerdis supported the landholders' objection: involuntary inland levies threatened the markets that supplied her crews. Cassara accepted the limit where the transport agreement remained useful and demanded new terms where commanders sought a permanent base.
+The resulting agreements secured particular services and landings. When officers tried to extend a harbour obligation to neighbouring farms, Maerdis supported the landholders' objection. Involuntary levies threatened the markets that supplied her crews. Valeran accepted the limit where the transport agreement remained useful. A commander seeking a permanent base had to obtain a separate agreement or fight for it.
 
 Her patronage gave musicians, astronomers and comic performers opportunities at court. She enjoyed skilled imitation, including performances in which officials' elaborate explanations became the joke. Astronomers connected observation, calendars and the dynasty's public religious ceremonies. Cassara regarded orderly worship and useful knowledge as compatible parts of imperial government.
 
@@ -145,7 +145,7 @@ She died in 263, leaving her son a larger and better connected empire. Provincia
 
 ## Olarion
 
-Olarion (proposed birth c. 283 BR; emperor 263–247 BR) inherited the throne from Cassara at about twenty. His court supported ingenious crafts and elaborate entertainments, while executions, confiscations and denunciations made political service increasingly dangerous. By his death, several military and provincial networks could support rival claims to the government his family had enlarged.
+Olarion (proposed birth c. 283 BR; emperor 263–247 BR) inherited the throne from his father Valeran at about twenty. The army recognised an heir whose parents connected harbour service and the founding house. His court supported ingenious crafts and elaborate entertainments, while executions, confiscations and denunciations made political service increasingly dangerous. By his death, several military and provincial networks could support rival claims to the government his family had enlarged.
 
 ### Growing up in an accomplished court
 

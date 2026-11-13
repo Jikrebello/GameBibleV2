@@ -30,6 +30,8 @@ The Veiled Office directs foreign intelligence and state secrecy. The **Night Oa
 
 Canal folk, arsenal hands, sailors, pilots, courtesans, craftsmen, servants, captives, foreigners, and resident merchant communities outnumber enfranchised houses. Public faith centers on Saint Naris, ship blessings, confraternities, and harbor processions.
 
+By the third century AR, Sermora was a regional see. Congregations associated with Virella and Aquilan supported interpreters and sent letters of introduction with seafarers. The ties between its churches and other harbours survived changes in political control. [[The Church after Qiryath - From Exile to Legalization]]
+
 Sermoran reed companies join theatre, procession, civic warning, ship signal, and [[Harmonic Shellcraft|harmonic field work]]. Some are private ensembles, some serve fleets or salons, and some travel between Concord cities. Instruments, authored parts, wages, and the right to refuse remain individual claims even where a company owns a booking name or common repertoire.
 
 ## Economy and Defence

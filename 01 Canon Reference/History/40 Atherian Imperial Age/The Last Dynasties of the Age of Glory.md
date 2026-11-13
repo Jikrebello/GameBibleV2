@@ -18,19 +18,19 @@ The last century and a half before the Redeemer was governed by the Serrat dynas
 
 ## The Serrat accession
 
-Elian Serrat had commanded an eastern army and came from a family admitted to Atherian citizenship through provincial service. After Mariel I died without a named heir in 151 BR, he negotiated recognition with the senate, palace officials and the principal armies. He married a relative of the Veloran house and retained its municipal advisers.
+Elian Serrat had commanded an eastern army and came from a family admitted to Atherian citizenship through provincial service. After Orent II died without a named heir in 151 BR, Elian negotiated recognition with the senate, palace officials and the principal armies. He married a relative of the Veloran house and retained its municipal advisers.
 
 Elian I ruled from 151 to 126. He expanded citizenship among officers, teachers and municipal families able to meet public obligations. Larger numbers of people could enter imperial institutions, while poorer residents of the same towns remained excluded from the most valuable privileges.
 
-His daughter Lethara I succeeded in 126. She had administered estates and food contracts and understood how dependent Caleran was upon river provinces. When harvests failed in Raveth, she appointed Neriah bar Sorek to organise imperial intervention.
+His son Elian II succeeded in 126 after serving in the eastern administration. Lethara, his sister, had administered family estates and food contracts. When harvests failed in Raveth, she brought accounts from its estate stewards to the court. Elian appointed Neriah bar Sorek to organise imperial intervention.
 
 ## Famine and dependence
 
 The Raveth famine of 119–113 BR threatened towns and military stations. Grain imported under Neriah's direction prevented mass starvation in several centres. Imperial stores issued seed and food against claims upon land and future labour.
 
-Lethara confirmed the conversion of unpaid obligations into imperial ownership. Former landholders remained as dependent cultivators or left for towns and military service. The policy stabilised food production and created a vast crown estate. [[The Keeper of Borrowed Grain]] explains why families could remember rescue and dispossession through the same official.
+Elian confirmed the conversion of unpaid obligations into imperial ownership on Neriah's advice. The household's estate officers, including those responsible to Lethara, gained new lands to manage. Former landholders remained as dependent cultivators or left for towns and military service. The policy stabilised food production and created a vast crown estate. [[The Keeper of Borrowed Grain]] explains why families could remember rescue and dispossession through the same official.
 
-Lethara died in 101. Her son Cassen I inherited the crown estates and the officials managing them. His reign, 101–76, was marked by prosperous central cities, new baths and theatres, and recurring resistance among agricultural dependants.
+Elian II died in 101. Cassen I, Lethara's son and Elian's adopted heir, inherited the crown estates and the officials managing them. His reign, 101–76, was marked by prosperous central cities, new baths and theatres, and recurring resistance among agricultural dependants.
 
 ## The end of the Serrats
 
@@ -48,7 +48,7 @@ His daughter Mira married Othran, an officer from an eastern provincial house. O
 
 Othran II succeeded his father in 24 BR. His reign inherited functioning roads, a professional army, varied municipal cultures and a religious establishment confident in its right to speak for cosmic order. It also inherited rural dependence, enslaved labour and eastern tensions surrounding the Jirahar tower communities.
 
-Isfir was born in 33 BR during Othran I's reign. By the time of the ministry, Othran II was an established emperor with no personal interest in a dispute beginning among provincial teachers. His officials and the High Augur at Caleran would eventually make that dispute an imperial execution.
+Isfir was born in 33 BR during Othran I's reign. By the time of the ministry, Othran II was an established emperor. The governor's court at Second Qiryath turned a dispute over the sanctuary and Isfir's claims into an imperial capital case. Othran received the account through his provincial officials after the sentence.
 
 ## The threshold of another age
 

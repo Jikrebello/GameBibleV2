@@ -77,13 +77,15 @@ Isfir the Redeemer appears inside imperial history, not outside it. His ministry
 
 ## 9. Conversion and Persecution
 
+The succession after Qiryath's fall produced four reigns remembered for municipal repair and regular pay. Later civil wars, provincial commands and the struggle to supply the armies made Cassian's victory possible. His settlement restored property through provincial courts and gave the four sees a way to hear disputes across provinces. The treasury's grants gave the emperor influence over which congregations could afford to build and serve publicly. [[Atheria between Qiryath and Cassian - Emperors Wars and Revolts|Atheria between Qiryath and Cassian]] · [[Cassian and the Four Sees - The Settlement of 292 to 316 AR|Cassian and the Four Sees]]
+
 The Redeemer's faith overtakes the Star Pantheon. Martyrs become saints. The empire baptizes itself into a new order, but conversion also produces coercion, persecution, archive rewriting, and violence against rejected or inconvenient communities.
 
 **Inherited wound:** sanctity and institutional power become intertwined from the beginning.
 
 ## 10. Jirahar Destructions and Exile
 
-The Second Qiryath falls to Atheria in 70 AR after the Great Tower Revolt. Vestian's 377–395 AR persecutions later destroy or confiscate most remaining eastern towers. Survival becomes inseparable from memory, law, mobile households, host charters, and prophecy.
+Second Qiryath falls to Atheria in 70 AR during the Great Tower Revolt. Its charter government ends and imperial officers govern the surviving settlement directly. Many displaced Jirahar seek shelter with older communities beyond direct Atherian rule. Vestian's 377–395 AR persecutions later destroy or confiscate most remaining eastern towers. Survival depends on households, law, records and the terms communities can negotiate with their hosts.
 
 **Inherited wound:** the Jirahar remember the Church as persecutor, while Church cultures remember the Jirahar through suspicion, prophecy anxiety, and inherited guilt.
 

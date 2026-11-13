@@ -28,9 +28,9 @@ tags: []
 - 690 BR: Arqesh falls to internal revolt and the separate commands of Arezan Tiravan and Eryndor III.
 - 684 BR: the Decree of Roads and Houses permits selected return under Vasharan supremacy.
 - c. 660 BR: the Second Qiryath is consecrated during the Wars of the Inheritance.
-- 0 AR: Isfir rises; sacrificial rites continue but the authenticated sign of acceptance never returns.
+- 0 AR: the Atherian governor orders Isfir's execution at Second Qiryath. Isfir rises on the third day. Sacrificial rites continue, and the authenticated sign of acceptance never returns.
 - 66-73 AR: the Great Tower Revolt.
-- 70 AR: Atheria destroys the Second Qiryath.
+- 70 AR: Atheria destroys the Second Qiryath sanctuary, ends its charter government and places the city under direct provincial rule. Many displaced Jirahar seek refuge beyond imperial jurisdiction.
 - 73 AR: the last rebel fortress falls.
 - 377-395 AR: Vestian turns older prejudice into imperial policy and destroys or confiscates most surviving eastern towers.
 - 1288-1303 AR: the Meshalem catastrophe produces present-day caution toward claimants.

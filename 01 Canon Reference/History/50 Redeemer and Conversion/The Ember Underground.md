@@ -21,7 +21,7 @@ The Ember Underground is the collective name given to the households, burial fra
 
 ## Origins and Extent
 
-The destruction of Qiryath and the spread of Redeemer communities placed refugees and converts along the great Atherian roads. The Via Celestis became the principal long-distance route because imperial traffic offered concealment, lodging and reliable stages. Smaller paths ran through workshop quarters, cemeteries, river ports and households belonging to servants inside the imperial elite.
+[[The First Church - From Qiryath to the Tower Revolt|The first congregation]] formed in Second Qiryath after the Resurrection. Pilgrims, travelling households and Companions carried its teaching and practices along existing roads and river routes. Local persecution gave some of those connections a second purpose as places to hide or pass news of arrests. The destruction of Qiryath in 70 AR sent displaced believers along routes which had already sustained congregations for decades. Some accompanied Jirahar families seeking safety beyond Atherian rule. Those who stayed inside the empire found shelter among older assemblies. The Via Celestis became the principal long-distance route because imperial traffic offered concealment, lodging and reliable stages. Smaller paths ran through workshop quarters, cemeteries, river ports and households belonging to servants inside the imperial elite.
 
 No document establishes a single foundation. “The Ember Underground” first appears in later histories that joined numerous local memories under one image. A courier might know two safe houses and the bearer who introduced them, while remaining ignorant of a larger route. Bishops, wealthy converts and burial associations sometimes supplied money, but none controlled the whole movement.
 
@@ -40,6 +40,8 @@ Relics travelled by similar means. Several Lives claim that bearers shaved fragm
 ## Arrest, Torture and Survival
 
 Imperial enforcement varied by reign and province. Quiet decades allowed congregations to acquire workshops and burial plots; a new governor or public panic could expose the same community within weeks. Arrested couriers were tortured for names and routes. Some remained silent, some recanted, and some informed on companions or rival cells.
+
+Tervan Marcellan's Edict of Public Sacrifice in 249 AR exposed people through town registers and required certificates. During the civil war of 288–291 AR, the court instead used known meeting places, officers and books to identify assemblies. Households that had divided responsibility for copies, relief and burial could recover after a raid more readily than those that relied on one host. [[The Church after Qiryath - From Exile to Legalization]]
 
 Later commemoration often turned every dead courier into a steadfast martyr and every survivor into a heroic keeper of secrets. Contemporary letters preserve a harsher history. Families refused to receive recanters, congregations killed alleged informers and wealthy patrons sometimes bought safety by surrendering servants. The Underground endured through courage, ordinary competence and repeated failure rather than perfect unity.
 

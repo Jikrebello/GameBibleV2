@@ -17,7 +17,7 @@ These seventy locations are the first recurring stage set for Caleran. Promote a
 ## Ember Forum
 
 - **Cathedral of the Eternal Ember:** Patriarchal seat built through converted imperial halls around the Ember's guarded precinct.
-- **Pillar of Concordance:** the Redeemer's execution site and Caedros I's death-place, open only under layered sacred security.
+- **Pillar of Concordance:** an Atherian judgement monument in the forum where Jareth was martyred and Caedros I later died, open only under layered sacred security.
 - **Court of Five Lamps:** tribunal chambers, testing chapels, laboratories, and sealed relic stores.
 - **House of Pilgrim Measures:** assigns hostels, routes processions, tracks capacity, and mediates pilgrim disputes.
 - **Impounded Ledger Gallery:** displays occupation custody records, including the meticulous account of the Ember.

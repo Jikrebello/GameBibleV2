@@ -19,7 +19,7 @@ The Patriarchate of Veridun is the supreme ecclesiastical authority of the Thalm
 
 ## Two Seats of Memory
 
-During occupation, the Patriarchate governed from Veridun and developed the institutions that sustained the mountain resistance. After Caleran's recovery, the Patriarch returned to the Redeemer site and Eternal Ember.
+During occupation, the Patriarchate governed from Veridun and developed the institutions that sustained the mountain resistance. After Caleran's recovery, the Patriarch returned to the martyrs' precinct and the Cathedral of the Eternal Ember.
 
 Veridun retains the Great Lamp, Virelian Lamp, coronation cathedral, and major synodal archives. The Church therefore possesses a Patriarchal seat at Caleran and an indispensable second center at Veridun.
 

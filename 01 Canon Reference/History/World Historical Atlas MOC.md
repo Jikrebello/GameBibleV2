@@ -110,6 +110,14 @@ For the founding generation, begin with [[The Last Generations of the Caleran Re
 
 [[Historical Atlas of the Atherian Age of Glory]] follows the empire from Thalion's settlement to the Redeemer boundary. The political route continues through [[The Later Reign of Aurelius Thalion]], [[The House of Thalion]], [[The Year of Four Eagles]], [[The House of Veloran]] and [[The Last Dynasties of the Age of Glory]].
 
+[[The First Church - From Qiryath to the Tower Revolt|The First Church]] follows the apostolic generation. [[The Church after Qiryath - From Exile to Legalization|The Church after Qiryath]] follows the regional sees, Tervan Marcellan's Edict of Public Sacrifice and Cassian's legalization in 292 AR.
+
+[[Atheria between Qiryath and Cassian - Emperors Wars and Revolts|Atheria between Qiryath and Cassian]] follows imperial succession, provincial wars, the Sarqen rising and the civil war. [[Cassian and the Four Sees - The Settlement of 292 to 316 AR|Cassian and the Four Sees]] follows the restitution orders, the 297 hearing at Halmenth and the emperor's patronage through 316 AR.
+
+[[The Forty Flames]] follows the Ironvale rising and furnace deaths of 290 AR and the public observance that grew after legalization. [[The Reign of Sevrin]] follows the settlement with Adran, the southern treaties and Astrion's rise to the throne in 348 AR.
+
+[[Astrion and the Road to Vestian - 348 to 377 AR|Astrion and the Road to Vestian]] follows the restoration of the Stars, the failed desert expedition, and the rulers who governed before Vestian took power in 377 AR.
+
 For society within those centuries, read [[Provinces and Municipal Life in Imperial Atheria]], [[The Imperial Army and the Frontiers]], [[Food, Trade and Enslavement in Imperial Atheria]], [[Schools, Arts and Imperial Magic]] and [[Star Religion and the Imperial Cult]]. The [[The Keeper of Borrowed Grain|Raveth famine]], [[The Crown of Olveth]], [[The Two Roads of Arcelon]] and [[The Companions Who Entered by the Low Door - Imperial History|Low Door Companions]] connect those institutions to particular lives and places.
 
 ## Tales that outlived their tellers

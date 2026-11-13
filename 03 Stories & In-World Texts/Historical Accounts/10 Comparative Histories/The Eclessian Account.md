@@ -27,7 +27,7 @@ The lands now called **Eclessia** were once the **eastern frontier** of the grea
 
 He was born not to lords, nor priests, but among the **Jirahar caravans**, people scorned and misunderstood by both empire and tribes. And it was through **Isfir the Redeemer** that the heavens were split open and the **Holy Flame** cast into the world.
 
-His message—of love, of sacrifice, of the _burning away of false idols_—spread quickly through the rural peoples of the east. We, the forgotten, became His first followers. When He was brought in chains to **Caleran** and crucified by those who wielded both imperial scepter and Jiraharin law, it was the east that wept. It was here, in **our soil**, that faith grew like fire in dry grass.
+His message—of love, of sacrifice, of the _burning away of false idols_—spread quickly through the rural peoples of the east. We, the forgotten, became His first followers. When the elders delivered Him to the governor at **Qiryath**, and imperial soldiers raised Him above the river road, it was the east that wept. It was here, in **our soil**, that faith grew like fire in dry grass.
 
 ---
 

@@ -16,6 +16,8 @@ tags: []
 
 The Eclessian Church did not appear fully formed after the Fall. It developed across two centuries as eastern bishops, monasteries, rulers, and refugee institutions turned emergency independence into a permanent claim.
 
+Aurelium's work as a centre of teaching and record-keeping began in the Underground Centuries. Its early see trained readers and exchanged copies of testimony with provincial congregations. That history gave the later Sanctum an institutional inheritance to draw on when the eastern dioceses lost contact with Caleran. [[The Church after Qiryath - From Exile to Legalization]]
+
 ## The Eastern Emergency, 905-974 AR
 
 The Fall of Caleran in 905 AR severed the eastern provinces from imperial command. The Third Crusade halted the Qahirid advance at Caldria, while bishops, fortified abbeys, town councils, and marcher lords organized food, defense, burial, and refugee settlement.

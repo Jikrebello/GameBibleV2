@@ -30,7 +30,7 @@ tags:
 
 - The Redeemer’s teachings begin to spread throughout the Atherian provinces, moving from the east and going into the west. He performs miracles, casts out demons and gathers followers, challenging the established religious order. The Atherian authorities view him as a threat, and tension grows between the Redeemer’s followers and the imperial government.
 
-- The Redeemer is brought to the capital of the Atherian Empire Caleran (modern-day **Thalmyria**), where he is executed by a coalition of Atherian officials and Jirahar priests. Three days later, he miraculously returns from the dead, solidifying the faith of his followers and spreading the belief that he is the **incarnation of the Lord** with his ascension leaving behind the **Holy Flame** in his stead for his followers.
+- At **Second Qiryath**, Lord-Scribe Ezrahel's elders deliver the Redeemer to the Atherian governor, who has him executed outside the city. He rises on the third day, solidifying the faith of his followers and spreading the belief that he is the **incarnation of the Lord**. After his Ascension, the gathered community receives the **Holy Flame** at Qiryath.
 
 - A long period of imperial persecution. Countless saints and martyrs.
 

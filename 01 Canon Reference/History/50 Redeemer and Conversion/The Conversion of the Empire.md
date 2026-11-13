@@ -22,20 +22,26 @@ The Atherian Empire did not convert in one baptism, battle, or decree. Its imper
 
 Redeemer communities were illegal or precariously tolerated for nearly three centuries. Enforcement varied by emperor, governor, city, and crisis: quiet decades let households, workshops, burial societies, and local clergy take root; purges destroyed congregations and made martyrs whose memory travelled farther than official proclamations.
 
-The deaths of the Companions and later witnesses did not create a single centralized underground. They produced linked local traditions, contested relics, hidden texts, and bishops whose authority depended as much on endurance as appointment.
+After the Companions' deaths, local congregations preserved testimony, relief and burial work through networks of hosts and teachers. Caleran, Aurelium, Halmenth and Sermora became the principal regional sees by the third century. Tervan Marcellan's Edict of Public Sacrifice in 249 AR introduced a general requirement for witnessed offerings. His successor suspended it in 253. During the civil war in 288–291, the court holding Caleran targeted meeting places, books and officers. [[The Church after Qiryath - From Exile to Legalization]]
+
+The empire's succession wars, fighting with Vashar and the southern Folk, and the rising of enslaved workers in Sarqen explain how the provincial commands and ports gained leverage over Caleran. [[Atheria between Qiryath and Cassian - Emperors Wars and Revolts|Atheria between Qiryath and Cassian]]
 
 - **[[The Ember Underground]]:** believers move people, letters, and relics along the Via Celestis while informers map the same routes.
 - **[[The Fireless Trial]]:** a Redeemer-faithful senator refuses both recantation and the theatrical miracle his supporters expect.
 - **[[The Temple That Would Not Burn]]:** a hidden shrine inside a Star temple survives three attempts at destruction, leaving officials to argue whether the sign belongs to the place, the martyrs, or the new faith.
-- **[[The Forty Flames]]:** enslaved believers break their chains during a purge and become saints after a three-day rising ends in massacre.
+- **[[The Forty Flames]]:** In winter 290 AR, a three-day rising at the Ironvale Ashforges ends in assault and reprisals. Forty prisoners are then confined for three nights in an unlit furnace. Witnesses see a flame on the dead when the chamber opens.
 
 ## Cassian's Legalization (292–316 AR)
 
 In 292 AR the usurper **Cassian** marched on Caleran during civil war. At the Stone Bridge of Velos he saw the White Flame stand upon the Aurin and heard, _“By this Flame, hold.”_ He won under its sign and legalized the Redeemer's faith. The river at the bridge has not frozen since.
 
-Legalization was not compulsory conversion. Cassian funded basilicas while retaining useful augur colleges, rewarded bishops while preserving imperial cult offices, and remained a ruthless ruler. He executed his eldest son and his empress on unpublished treason evidence. Only on his deathbed in 316 did he accept baptism, creating the unresolved **Cassian Wager**: whether one final absolution answered an unrepented reign.
+Cassian authorized open assemblies and ended the orders against meeting places and books. In 293 he directed governors to return confiscated communal property to the local body that had held it. Buyers who had acted in good faith could petition the treasury for repayment. Governors weighed household title against evidence of permanent gifts and could preserve access to graves on private land. The order operated alongside the older settlement at Qiryath, where the garrison, tribute and seizure of sanctuary land remained in force.
 
-The conversion therefore begins with a real vision that does not make its recipient good. Court patronage makes the faith safer, wealthier, more organized, and newly vulnerable to ambition.
+Cassian accepted a witnessed service oath from soldiers who objected to an offering, retained the augur colleges and renewed grain contracts with Star estates. He restored southern market treaties, renewed Elmaric convoy contracts and secured a prisoner exchange with Vashar. In 297 he called the four sees to hear a disputed congregation's claim at Halmenth. Bishops judged communion and eligibility for church office. Governors enforced property rulings, and the treasury could favour one congregation through its grants. [[Cassian and the Four Sees - The Settlement of 292 to 316 AR|Cassian and the Four Sees]]
+
+Cassian granted Caleran's former Celestial Forum precinct to the local congregation and paid for a basilica. Keepers from Veridun Minor brought a daughter flame from Amaryah's household lamp. Public worship brought the capital's commemoration of Jareth and its other martyrs together with the household tradition from Qiryath. The sanctuary flame became the Eternal Ember. [[Caleran and the Eternal Ember]]
+
+Cassian executed his eldest son and empress on unpublished treason evidence. He accepted baptism on his deathbed in 316. The deaths reopened the question of who would command his armies, and the baptism gave rise to the **Cassian Wager**, the unresolved dispute over whether a final absolution answered his reign.
 
 ## Contested Coexistence (292–348 AR)
 
@@ -43,17 +49,21 @@ For more than half a century, stars and Flame shared the empire unevenly. Old te
 
 This is the generation in which a persecuted Church learns administration. Martyrs still live, but their successors now argue about courts, schools, basilicas, military chaplains, and whether imperial favor is providence or a subtler trial.
 
+In 316 AR, Cassian's younger son **Sevrin** secured Caleran and confirmed his cousin **Adran** in the eastern command in return for recognition. Sevrin kept the restitution judgements, the witnessed service oath and the grain contracts with Star estates. His intended heir died c. 343. Adran's son Astrion gained command of the northern desert approaches and succeeded Sevrin in 348 with the backing of officers whose pay and households depended on the frontier command. [[The Reign of Sevrin]]
+
 ## Astrion's Restoration (348–351 AR)
 
-**Astrion the Apostate**, Cassian's great-nephew, was raised by Flame-tutors and fell in love with the old stars through archives earlier zealots had failed to burn. He reopened temples, restored privileges, and staged a public verification demanding that the stars answer as the Flame answered. They answered once. The augurs' record of that night was later sealed.
+**Astrion the Apostate**, Cassian's great-nephew, restored temple stipends and required publicly paid teachers of the classics to honour the Star rites. Redeemer worship and Cassian's restitution judgements remained lawful. Astrion authorised survey work at Qiryath after Jirahar petitions for access, water and relief from tribute. A wall collapse stopped the work. In 350 his augurs staged a public test at Caleran. The Red Star answered once by exposing a weakness in the loaded support of an imperial standard. The augurs' account eventually reached the Sanctum and was sealed.
 
-Astrion's restoration was learned, relatively tolerant, brief, and inseparable from imperial power. He died at thirty-four on a desert campaign, struck by a spear no witness saw thrown. The Church remembers his reported last words—_“You have won, Carpenter”_—as surrender; Sestaran humanists remember them as tragedy.
+After a quarrel over requisitions, Astrion took a punitive column beyond the northern depot line. Local defenders closed secondary wells and removed animals. He died at thirty-four on the retreat, struck by a spear no witness saw thrown. The Church remembers his reported last words, _“You have won, Carpenter,”_ as surrender. Sestaran humanists remember them as tragedy. [[Astrion and the Road to Vestian - 348 to 377 AR|Astrion and the Road to Vestian]]
 
 ## Restored Favor without Uniformity (351–377 AR)
 
-Astrion's successors reversed his restoration and returned the Redeemer's Church to imperial favor, but they did not immediately make belief compulsory. Star temples closed in some cities and retained estates in others. Bishops gained court influence, military chaplaincies, and jurisdiction while still disagreeing over how much coercion the faith could survive without becoming another imperial cult.
+**Savel Orren** (351–352) obtained water and safe passage for the retreating army by giving up two forts and recognising local terms for trade. He restored stipends to recognised congregations and reopened public teaching to Redeemer teachers. He died on the journey back.
 
-By Vestian's accession the Redeemer's faith dominated the court and many cities, yet household practice, rural temples, philosophical schools, and old aristocratic networks remained mixed. The empire had changed allegiance before it had achieved uniformity.
+**Corlan Aster** and his brother **Lucar** governed from 352 with separate commands and field treasuries under one imperial government. Lucar defeated a challenge from Astrion's kin and ruled alone after Corlan's death in 375. The court increasingly decided which bishops could draw public revenue. Star temples still held estates in some districts.
+
+In 376, officers diverted provisions and sold dependants from among Folk households admitted over the southern fort line. Armed resistance spread. Lucar died when his army broke near Kellovar in 377. **Vestian** kept the inner depots open, paid the surviving units and secured recognition from Caleran. [[Astrion and the Road to Vestian - 348 to 377 AR|Astrion and the Road to Vestian]]
 
 ## Vestian and Compulsory Faith (377–395 AR)
 

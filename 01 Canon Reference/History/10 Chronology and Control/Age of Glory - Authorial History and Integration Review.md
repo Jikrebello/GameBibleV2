@@ -42,22 +42,22 @@ G-09 remains the received tale and local custom. Its new historical companion fi
 |---|---|---|
 | 350–318 BR | Aurelius Thalion | Demobilisation, professional units, central appointments, provincial assessments and selected Meren succession |
 | 318–286 | Meren I | Confirmation of settlement, charters and provincial racing circuit |
-| 286–263 | Cassara I | Waterworks, roads, provincial travel, quarry repression |
+| 286–263 | Valeran I | Meren's adopted son and son-in-law. Waterworks, roads, provincial travel and quarry repression |
 | 263–247 | Olarion | Court extravagance, purges, confiscation and food violence |
 | 247–246 | Four Eagles | Mott, Daran Thalion, Halven and Veloran fight through overlapping resources |
 | 246–229 | Samor I | New military house, executions and divided commands |
-| 229–203 | Tessa I | Municipal works and Crown of Olveth episode |
+| 229–203 | Aren I | Samor's adopted son and son-in-law. Municipal works and Crown of Olveth episode |
 | 203–174 | Orent I | Eastern campaigns and Arcelon road |
-| 174–151 | Mariel I | Municipal peace, scholarship and no settled heir |
+| 174–151 | Orent II | Municipal peace, scholarship and no settled heir |
 | 151–126 | Elian Serrat | Provincial accession and widened citizenship |
-| 126–101 | Lethara I | Raveth famine, crown estates and dependency |
+| 126–101 | Elian II | Raveth famine, crown estates and dependency |
 | 101–76 | Cassen I | Urban prosperity and agricultural resistance |
 | 76–61 | Velen I | Palace rule, spectacles, Low Door ascent and murder |
 | 61–42 | Doran I | Military restoration and southern veteran settlement |
 | 42–24 | Othran I | Eastern household, provincial residence and birth of Isfir in 33 |
 | 24 BR–0 AR | Othran II at the boundary | Established imperial government encounters the Redeemer movement; later reign deferred to Package 3 |
 
-Thalion dies naturally in 318 after naming Meren. Meren is the human son of Evara and Velsar and becomes Thalion's political son through adoption. Cassara's rule establishes that imperial command can pass to a woman. The Four Eagles are an actual short civil war, not four permanent successor states.
+Thalion dies naturally in 318 after naming Meren. Meren is the human son of Evara and Velsar and becomes Thalion's political son through adoption. From 350 BR to 0 AR, imperial command passes among men. Adoption can carry a claim through a daughter's household or bring in a proven commander. Cassara, Tessa, Mariel and Lethara exercise influence through stores, correspondence, patronage and estates. The Four Eagles fight a short civil war over one imperial command.
 
 All birth, reign and relationship intervals fit ordinary human lifespans. Later emperors claim continuity with Thalion without possessing his body, soul or a supernatural hereditary substance.
 
@@ -73,7 +73,7 @@ The empire's southern edge meets varied Folk societies through forts, treaties, 
 
 The age's stability depends on continuing military pay, municipal collection, road and harbour maintenance, cultivated estates and transport. A ruler's order reaches a village through governors, councils, suppliers and armed enforcement. New articles explain the work rather than treating administration as an abstract virtue.
 
-Public works provide water, movement and employment. They also consume stone, timber, money and labour. Cassara's quarry repression and Arcelon's dead workers retain the price within the historical account. Military protection creates markets and exposes neighbouring communities to requisition and land seizure.
+Public works provide water, movement and employment. They also consume stone, timber, money and labour. The quarry killings under Valeran and Arcelon's dead workers retain the price within the historical account. Military protection creates markets and exposes neighbouring communities to requisition and land seizure.
 
 The Raveth sequence remains plain: failed water and disease reduce harvests; continued shipment empties reserves; Neriah imports grain and issues relief; repayment failures transfer land; public estates retain former owners as dependent labour. Survival and dispossession follow from the same mechanism.
 
@@ -93,7 +93,7 @@ Slavery, family separation, executions, confiscation, hostage-taking, massacre, 
 
 The Low Door history fixes responsibility among upwardly mobile protagonists. Thessa reveals the refuge, all six accept the official lie, and Helon is executed for releasing hostage children. Their poverty and service origins neither excuse later decisions nor become a reason to deny their achievement.
 
-Neriah and Lethara retain separate responsibility. He recommends continuation of the estate system; she authorises it and the imperial household benefits. Later prejudice against Jirahar communities cannot transfer their choices into collective ethnic guilt.
+Neriah recommends continuing the estate system, Elian II authorises it, and the imperial household benefits. Lethara and other estate managers take on the resulting lands. Each actor's responsibility follows their own choices. Later accusations against the Jirahar turn a specific imperial policy into an ethnic charge.
 
 ## Collision and protected boundaries
 

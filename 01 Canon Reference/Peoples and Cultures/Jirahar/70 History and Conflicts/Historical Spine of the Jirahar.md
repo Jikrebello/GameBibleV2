@@ -33,7 +33,7 @@ In 742 BR the [[First Qiryath and the Arqeshite Exile|Arqeshite River Empire des
 
 Atheria absorbs the eastern riverlands. Qiryath retains internal courts and sacrifice through negotiated privilege. Jirahar communities spread along imperial roads, ports, and administrative centers.
 
-The Age of Glory creates varied diaspora relationships with imperial towns and offices. [[The Keeper of Borrowed Grain|Neriah bar Sorek]] directs relief during the Raveth famine of 119–113 BR. His policy saves towns while transferring land and labour to the imperial estate. Later praise and anti-Jirahar accusation both distort responsibility shared with Empress Lethara and Atherian officials.
+The Age of Glory creates varied diaspora relationships with imperial towns and offices. [[The Keeper of Borrowed Grain|Neriah bar Sorek]] directs relief during the Raveth famine of 119–113 BR. His policy saves towns while transferring land and labour to the imperial estate. Later praise and anti-Jirahar accusation both distort responsibility shared with Emperor Elian II and Atherian officials.
 
 ## Isfir and the Silence
 
@@ -41,7 +41,7 @@ Isfir is born Jirahar. In 0 AR a controlling council faction led by Ezrahel bar 
 
 ## Great Tower Revolt
 
-In 66 AR revolt follows taxation, sacrilege, factional violence, and imperial misrule. Initial victories give way to civil division and siege. Atheria destroys Qiryath in 70 AR and the final fortress in 73. See [[Great Tower Revolt and the Second Destruction]].
+In 66 AR revolt follows the seizure of sanctuary funds and killings by the garrison. Initial victories give way to civil division and siege. Atheria destroys the sanctuary in 70 AR and takes the final fortress in 73. The city loses its charter and passes under direct provincial rule. Many displaced Jirahar seek refuge across the Vasharan frontier or among independent dry-margin communities. Older diaspora households help them establish courts, secure burial grounds and resume their trades. [[Great Tower Revolt and the Second Destruction]]
 
 ## Long Diaspora
 

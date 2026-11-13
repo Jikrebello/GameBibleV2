@@ -4,7 +4,7 @@ status: canon
 canon_level: core
 visibility: public
 era: ["Age of the Redeemer"]
-region: ["Atherian Empire"]
+region: ["Atherian Empire", "Second Qiryath"]
 culture: ["Jirahar", "Atherian"]
 related_factions: ["Followers of the Redeemer", "Qiryath Council", "Star Pantheon"]
 appears_in: ["Caleran"]
@@ -13,7 +13,7 @@ tags: []
 ---
 # The Rise of the Redeemer
 
-The Rise of the Redeemer follows Isfir from his upbringing in the Jirahar tower and caravan world to his ministry, entry into Caleran and execution at the Pillar of Concordance in 0 AR. His teaching drew workers, soldiers, women, debtors, scholars and foreigners while dividing established religious and imperial authorities. His resurrection supplies the historical and theological centre of the calendar.
+Isfir the Redeemer was a Jirahar teacher and healer whom Atherian soldiers executed outside Second Qiryath in 0 AR. His teaching drew workers, soldiers, women, debtors, scholars and foreigners. After the Resting Day, women who had seen him buried found his tomb empty. He rose bodily, appeared to his followers and commissioned them to carry his teaching to the nations. His death and Resurrection mark the beginning of the AR calendar.
 
 ## Early Life
 
@@ -29,16 +29,37 @@ He also affirms obligations that his later followers sometimes erase. His confli
 
 Workers, soldiers, women, debtors, scholars, foreigners, and Jirahar households join him. Atherian officials fear unrest and theological sedition. Some Jirahar elders fear a false claimant, imperial retaliation, and the collapse of their authority. Those fears are not identical, and opposition never encompasses the whole people.
 
-## Caleran
+## The pilgrimage to Second Qiryath
 
-Isfir enters Caleran during the Festival of Convergence. Ezrahel bar Qoreth's council faction presses the imperial court to remove him. High Augur Severan turns the request into an imperial spectacle at the Pillar of Concordance.
+Isfir came to Second Qiryath for the pilgrimage commemorating the Great Unbinding. Some pilgrims welcomed him as the promised Mesakha. At the sanctuary he overturned tables where agents charged unauthorized fees on animals brought for sacrifice, and taught from the Scrolls in the public court. Jirahar teachers challenged his claims there. Lord-Scribe Ezrahel bar Qoreth feared the gathering would bring imperial soldiers into the sanctuary and jeopardize the towers' protections.
+
+Isfir spent his last evening in a household guest room with the Companions. He gave thanks over bread and a cup, spoke of his life given for others and charged them to remember him when they ate together. He went to pray outside the crowded courts. Ischar the Silvered sold the route to Ezrahel's officers and identified Isfir in the dark. Isfir stopped a Companion from resisting the arrest.
+
+## The hearings and the Binding
+
+Qiryath's provincial charter protected its sacrifice, communal courts and burial jurisdiction. The Atherian governor could impose capital sentences for offences against imperial rule. The sanctuary archive and provincial chancery each kept the terms of referral. The governor had come to hear cases during the pilgrimage, when claimants from the surrounding towns were already in Qiryath. High Augur Severan of Astaroth accompanied his party and advised on public rites.
+
+Ezrahel questioned Isfir during the night. At first light a group of senior elders heard the charge that Isfir falsely claimed the authority of the Mesakha. Their witnesses disagreed about what he had said concerning the sanctuary, and one elder challenged the testimony. Ezrahel's majority referred the case to the governor as a charge of rival kingship and a threat to public order.
+
+The governor had reports of a crowd and a dispute, with no report of an armed rising or attack on his soldiers. Isfir acknowledged a kingship from the Lord and said that his followers would have fought for him if his authority depended on arms. Ezrahel's faction threatened to complain to Caleran if the governor released him. Severan pressed for a public punishment. The governor ordered the execution to secure the elders' cooperation and demonstrate control while the pilgrims were still in the city. Othran II received the provincial account after the sentence.
+
+Atherian soldiers bound and nailed Isfir to an upright with a crosspiece outside Qiryath on the river road. The notice named his claim to kingship. Amaryah, Calira, Solana and other women witnessed his death. Isfir entrusted his mother and Calira to each other's care. After an officer confirmed his death, the elder who had challenged the testimony petitioned for the body. The governor released it under the charter. Burial workers washed and wrapped Isfir, and the elder laid him in a nearby rock-cut family tomb before the Resting Day began at dusk. Solana and another woman saw where he was laid.
+
+## The third day and the first assembly
+
+Solana and the other women returned with spices after the Resting Day. They found the stone moved and the burial linen inside the empty tomb. A heavenly messenger told them that Isfir had risen. Solana lingered as the others started back. She mistook a man on the path for someone who worked among the graves until he spoke her name. Later, Isfir stood among the Companions, showed them his wounds and ate with them. The Third-Night Fire is the liturgical name for the vigil and reports of white light before dawn. The hour of the Resurrection is unknown.
+
+After a period of appearances and instruction, Isfir ascended. The Companions remained in Qiryath. At a later feast the Holy Flame came upon the gathered community, and pilgrims heard the proclamation in their own languages. The congregation continued in teaching, prayer, shared bread and provision for people in need. Solana later carried a coal from its gathering house to Amaryah's hearth at Veridun Minor.
 
 ## Legacy
 
-The Resurrection establishes the Redeemer's objective truth. Jirahar rejection remains a genuine theological error; the crimes later committed against Jirahar communities remain crimes. The two facts do not cancel one another.
+The Resurrection restored the human soul-road. Qiryath continued to offer sacrifices, and the former sign of acceptance ceased. The silence acquired different meanings among Jirahar schools and the churches. Responsibility for Isfir's death belonged to the officials and elders who sought and imposed the sentence. Later rulers used collective accusations to justify seizures and persecution.
+
+The destruction of Second Qiryath in 70 AR cut off access to the burial slope and dispersed the households that knew the approach. In 1360 AR pilgrims can visit the ruined city under its charter, while the precise tomb remains unauthenticated.
 
 ## Navigation
 
 - [[The Age of the Redeemer]]
 - [[Jirahar Memory of Isfir]]
+- [[Qiryath Reqa]]
 - [[Caleran and the Eternal Ember]]

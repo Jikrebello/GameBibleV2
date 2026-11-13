@@ -26,7 +26,7 @@ The city fell after a combined siege, negotiated surrenders, and revolt within o
 
 Veridun paid the invoice in full. The payment acknowledged neither ownership nor gratitude; it acknowledged that the occupation had preserved what it could not extinguish.
 
-Caedros I entered the sacred forum and died at the Pillar of Concordance as the White Flame descended. No body remained. Thalmyria glorified him within a decade; Eclessian relic courts reject the proof.
+Caedros I entered the martyrs' precinct in the former imperial forum and died at the Pillar of Concordance. Witnesses reported that the White Flame descended. No body remained. Thalmyria glorified him within a decade. Eclessian relic courts reject the evidence for his canonization.
 
 ## Completion, 957-962 AR
 

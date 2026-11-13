@@ -17,7 +17,9 @@ The Vestian persecutions of 377–395 AR turned intermittent hostility towards t
 
 ## Before Vestian
 
-The destruction of 70 AR had already scattered the people. During the Underground Centuries, Jirahar and Redeemer congregations sometimes sheltered one another and sometimes denounced one another. Local violence existed, but imperial policy remained inconsistent.
+The destruction of 70 AR had ended Qiryath's charter government and driven many displaced families beyond direct Atherian rule. Older diaspora communities received them. Other Jirahar remained in imperial towns, surviving towers and the diminished settlement at Qiryath. During the Underground Centuries, Jirahar and Redeemer congregations sometimes sheltered one another and sometimes denounced one another. Local violence existed, and imperial policy remained inconsistent.
+
+Under Astrion, Jirahar petitioners sought access to the sanctuary precinct and graves, repairs to the cisterns and relief from tribute. A wall collapsed during the survey works of 349–350 AR, and the garrison closed the site. The petitions and claims for wages survived in the provincial records that Vestian later inherited. [[Astrion and the Road to Vestian - 348 to 377 AR|Astrion and the Road to Vestian]]
 
 ## From Riot to Policy
 

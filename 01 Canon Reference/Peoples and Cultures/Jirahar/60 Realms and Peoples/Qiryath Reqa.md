@@ -23,8 +23,9 @@ Qiryathi identity once included residents, neighbourhoods and sanctuary househol
 - early caravan court and First Tower foundations;
 - Arqeshite siege cuts, destruction fill, and deportation records;
 - Second Tower courts, expanded sanctuary, cisterns, schools, and dwellings;
-- 70 AR siege works, burn layers, collapsed galleries, and imperial occupation;
-- diminished post-destruction settlement;
+- 70 AR siege works, sanctuary burn layers, collapsed galleries, and garrison works;
+- diminished settlement under direct Atherian administration after the annulment of the old charter;
+- survey and clearance works authorised by Astrion in 349–350 AR and abandoned after a wall collapse;
 - Vestian clearance, sealed entrances, and later pilgrim paths.
 
 The city was always larger below ground than above. Most deep halls are collapsed, flooded, sealed, or legally forbidden. Excavation is both archaeology and sacrilege.
@@ -32,6 +33,10 @@ The city was always larger below ground than above. Most deep halls are collapse
 ## The Sanctuary
 
 Sacrifice continued from the Second Tower's consecration until 70 AR. After Isfir's resurrection, ritual fire and procedure continued but the authenticated sign of divine acceptance never returned.
+
+## The burial slope
+
+Isfir was executed beside the river road and buried outside Second Qiryath. The destruction of 70 AR cut off access to the slope and dispersed households that knew the approach. Redeemer pilgrims come to the ruined city in memory of the Resurrection. The original chamber has no authenticated location in 1360 AR. Pilgrims use paths maintained by the Jirahar custodians under the Empty Charter. [[The Rise of the Redeemer]]
 
 ## Custody
 

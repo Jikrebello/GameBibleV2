@@ -15,6 +15,8 @@ tags: [handoff, age-of-glory, atherian-empire, ancient-world, author-only]
 ---
 # 350 BR to 0 AR — Imperial Expansion New Chat Handoff
 
+**13 November 2026 update.** The revised emperor list is in [[Age of Glory - Authorial History and Integration Review]]. [[From Thalion to Isfir - Imperial Expansion and the Redeemer]] contains the current regional and Redeemer draft. The handoff below records the September starting position and source route.
+
 ## Purpose and correction
 
 This note transfers the next history task to a new chat. Packages A–E now establish the world through **350 BR**. The next pass must explain how the Atherian Empire expands from that starting position to the world in which Isfir the Redeemer dies and rises in **0 AR**, while keeping the much later present-day successor geography in view.
@@ -23,7 +25,7 @@ An earlier answer wrongly treated the [[Package E - Harbours Islands and Braided
 
 ## What is already canon
 
-The [[01 Canon Reference/History/40 Atherian Imperial Age/Historical Atlas of the Atherian Age of Glory.md|Age of Glory atlas]] and [[01 Canon Reference/History/10 Chronology and Control/Age of Glory - Authorial History and Integration Review.md|Age of Glory integration review]] already establish **350 BR–0 AR** as a canon imperial period. They provide the dynastic sequence, provincial government, army, economy, public star religion and several local events. Do not replace that sequence or invent a rival emperor list. What remains thin is the connected political and geographic account of *which regions were conquered when, on what terms, and with what local consequences*.
+The [[01 Canon Reference/History/40 Atherian Imperial Age/Historical Atlas of the Atherian Age of Glory.md|Age of Glory atlas]] and [[01 Canon Reference/History/10 Chronology and Control/Age of Glory - Authorial History and Integration Review.md|Age of Glory integration review]] establish **350 BR–0 AR** as a canon imperial period. They provide the current dynastic sequence, provincial government, army, economy, public Star religion and several local events. The connected political and geographic account still needs to establish which regions were conquered when, on what terms, and with what local consequences.
 
 Established imperial sequence: Thalion 350–318 BR; House of Thalion to 247 BR; Four Eagles 247–246 BR; Veloran house 246–151 BR; Serrat and later houses 151–0 AR; Othran II has reigned since 24 BR and is emperor at the Redeemer boundary. Isfir is born in 33 BR. His death and resurrection define 0 AR. The Redeemer's faith is **not** the empire's public religion at that boundary; that conversion belongs to later history.
 

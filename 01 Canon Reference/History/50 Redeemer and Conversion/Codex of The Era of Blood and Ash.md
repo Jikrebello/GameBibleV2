@@ -52,7 +52,7 @@ _Compiled by the Monastic Office of Historical Sanctity, Ecclesia Aurelia (Revis
 - **Date of Martyrdom**: ~460 AE
 - **Cause**: Died peacefully after protecting a sacred ember
 - **Legacy**: Her death marked the first recognition of “natural sainthood”
-- **Relics**: Lantern of Solana still burns at Veridancian Cathedral—**never extinguished**
+- **Relics**: The Veridancian Cathedral venerates a lantern under Solana's name and claims its flame has never gone out. The vessel venerated as Solana's firepot is kept at Caleran. The Veridancian lantern's connection to her remains unverified. [[Caleran and the Eternal Ember]]
 
 ---
 

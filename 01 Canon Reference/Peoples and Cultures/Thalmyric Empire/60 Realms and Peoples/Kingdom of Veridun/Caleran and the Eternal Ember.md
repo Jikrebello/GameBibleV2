@@ -13,7 +13,7 @@ tags: []
 ---
 # Caleran and the Eternal Ember
 
-Caleran is the old capital of Atheria, the site of the Redeemer's execution and resurrection signs, the Pillar of Concordance, the Eternal Ember, and the present seat of the Patriarch of Veridun.
+Caleran is the old capital of Atheria and the present seat of the Patriarch of Veridun. Its sacred precinct grew around the memory of the early martyrs and the Eternal Ember, a sanctuary flame kindled from the lamp of Amaryah's household at Veridun Minor.
 
 ## The Recovered City
 
@@ -25,7 +25,17 @@ Present-day Caleran has approximately 350,000 permanent residents. Major pilgrim
 
 ## The Eternal Ember
 
-The Ember remained lit throughout occupation under Covenant guard and property law. It is neither ordinary fuel nor an object the Patriarch can command. Its continuity anchors Thalmyric memory while the occupation invoice prevents a simple triumphalist story.
+After the gift of the Holy Flame at Second Qiryath, Solana took a live coal from the first congregation's hearth to Veridun Minor. Amaryah lit her lamp from it. Her house gave travellers shelter and food, and Calira died defending it in 29 AR. Neighbouring households took turns tending the lamp after Amaryah's death. Each keeper lit a fresh wick from the old one before taking it away.
+
+After Cassian legalized the faith in 292 AR, the congregation at Caleran could publicly commemorate Jareth, who died in the Celestial Forum in 41 AR, and the other martyrs of the capital. Cassian granted the former forum precinct to the congregation and paid for a basilica. Keepers from Veridun Minor brought a daughter flame and the vessel venerated as Solana's jar, while the household lamp remained at Veridun Minor. The Caleran flame became known as the Eternal Ember. [[Amaryah the Fire-Bearer]] · [[The Twelve Companions of the Redeemer]] · [[Cassian and the Four Sees - The Settlement of 292 to 316 AR|Cassian and the Four Sees]]
+
+The Ember is a tended flame with a continuous line of kindling. Its keepers supply fuel and replace wicks. The White Flame can act through the relic by commission. Custody gives the Patriarch responsibility for the lamp and its worship, while the divine gift remains free.
+
+Idris impounded the Ember in 905 AR. Covenant guards and keepers preserved it under property law and recorded their charges for fuel and custody. The lamp was burning when Caleran was recovered in 957 AR. Veridun paid their invoice.
+
+## The Pillar of Concordance
+
+Atherian officers once read judgements at the Pillar in the Celestial Forum. The church kept the monument within the converted precinct, where pilgrims remember the officials who condemned the first witnesses and the people who died there. Caedros I died at the Pillar during the recovery of Caleran. Thalmyric witnesses reported that the White Flame descended on him. Eclessian relic courts continue to dispute the evidence for his canonization.
 
 ## The Patriarchal Seat
 

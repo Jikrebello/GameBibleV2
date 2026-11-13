@@ -13,7 +13,15 @@ tags: []
 ---
 # Current Focus Board
 
-## First Creative Priority
+## Current Historical Priority
+
+Develop Atheria from the imperial settlement in 350 BR through the age of the Redeemer and imperial conversion. [[Age of Glory - Authorial History and Integration Review]] records the revised succession. [[From Thalion to Isfir - Imperial Expansion and the Redeemer]] develops the southern provinces, the maritime network, the eastern and Qahuri settlements, and the Gospel-based sequence for Isfir. [[World Egg - Inherited Places and Institutions Review]] traces the setting's strongest inheritances and the gaps to address as the history moves into the early churches. Grenzburg production is deferred while this history is developed.
+
+[[The Rise of the Redeemer]] follows the trial and Resurrection at Second Qiryath. [[The First Church - From Qiryath to the Tower Revolt|The First Church]] and [[Great Tower Revolt and the Second Destruction]] establish the first congregations, the sanctuary's fall and the exile. [[The Church after Qiryath - From Exile to Legalization]] is canon through 292 AR. It establishes the four principal sees and Tervan's public sacrifice order. [[The Conversion of the Empire]] continues from Cassian's legalization.
+
+[[Atheria between Qiryath and Cassian - Emperors Wars and Revolts|Atheria between Qiryath and Cassian]], [[Cassian and the Four Sees - The Settlement of 292 to 316 AR|Cassian and the Four Sees]], [[The Forty Flames]], [[The Reign of Sevrin]] and [[Astrion and the Road to Vestian - 348 to 377 AR|Astrion and the Road to Vestian]] are canon. The current proposal is [[Vestian - Compulsory Faith and the Long Diaspora|Vestian's reign, the compulsory faith decree and the persecution of the Jirahar]]. [[Saints after Legalization - Eastern Orthodox Sources and Atherian Practice|The saints research]] develops public commemoration, relics and miracles after legalization.
+
+## First Game
 
 Build Grenzburg into the setting's first complete video game. The seasonal campaign moves the world, the blank-slate debtor preserves player authorship, and eight professional Blackjack colleagues offer substantial personal campaigns when the player chooses sustained involvement. The twenty-one main chapters and eighty-eight-piece companion architecture remain locked. All eighty-eight companion pieces are production-blocked, grounded, dialogue-approved, and remote-claim compliant, with [[Lio Varcen]] as the sole named arrival exception. Caleran remains the great-city sandbox, but it is not the active implementation priority.
 
@@ -40,7 +48,7 @@ Build Grenzburg into the setting's first complete video game. The seasonal campa
 - **Ättar structure:** [[Ättar Canon Register]] controls the four great kindreds, hall government, Mother Moon's firstborn bargain, skinwalker chiefs, Moon-Seers, berserker challenge, slavery, and winter war. [[Ättar Reconstruction Audit]] records the cross-vault pass.
 - **Tarkhan structure:** [[Tarkhan Canon Register]] controls Well-Tarkhan and Grass-Tarkhan life, the four Hordes, the stolen Nine Wells, the Castaran road peace, and the limits of falcon sky-riding. [[Tarkhan Reconstruction Audit]] records the cross-vault pass.
 
-## Next Three Workstreams
+## Grenzburg Workstreams for Later
 
 1. **Identity and living-world allocation:** distribute culture, background, vocation, and selective temperament hooks across authored content.
 2. **Regional encounter decks:** build district and wilderness decks with quiet intervals, bounded persistence, and seasonal changes.

@@ -27,7 +27,7 @@ Two later figures stand beside the roll without being of it: **Amaryah the Fire-
 ## The Two Primacies
 
 - **The Commission of the Pen (Eclessia).** The Redeemer's charge to Jareth: *"Write. What you bind in ink shall be bound in memory until I return."* The Sanctum's Primarchy claims descent from this commission — text, record, protocol, canon.
-- **The Ember Succession (Veridun).** From the Pillar: *"Daughter, behold your guardian. Guardian, behold my mother."* The Patriarchate claims descent through **Amaryah's hearth at Veridun Minor** — its lamp lit from the ember Solana carried out of Caleran, guarded to the death by Calira, and burning still as the mother-flame of the Eternal Ember. **Solana carried it, Amaryah kept it, Calira died for it.**
+- **The Ember Succession (Veridun).** At the Binding outside Qiryath, Isfir entrusted Amaryah and Calira to each other's care. The Patriarchate traces its succession through **Amaryah's hearth at Veridun Minor**, where she lit her lamp with a coal Solana brought from the first assembly's hearth. Calira died defending the house. After legalization, the keepers brought a daughter flame to Caleran, where it became the Eternal Ember.
 
 The pen and the hearth. The Great Split was already sitting at the Redeemer's table.
 
@@ -48,7 +48,7 @@ A blind imperial scribe and forger who received partial sight from Isfir and spe
 
 ### 2. Saint Calira of the Broken Blade — *the Guardian* (d. 29 AR)
 
-Legionnaire and noble exile, healed by Isfir, entrusted with Amaryah from the Pillar itself. She brought the Mother south through the Purge and **died defending the first shrine — Amaryah's hearth at Veridun Minor** — holding a doorway against a Purge cohort with a sword that had snapped at the crossguard. The **Broken Blade** hangs in the Cathedral of the Eternal Ember.
+Legionnaire and noble exile, healed by Isfir and entrusted with Amaryah at the Binding outside Qiryath. She accompanied Amaryah to Veridun Minor and **died defending her hearth in 29 AR**, holding the doorway against soldiers in a local raid with a sword that had snapped at the crossguard. The **Broken Blade** hangs in the Cathedral of the Eternal Ember.
 
 - **Thalmyria:** the great martyr of the Ember Succession and a patron of the **[[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/50 Economy and Warfare/Thalmyric Military Orders.md|Order of the Returning Standard]]**. By her own recorded wish there are no icons of her face: *"Look at the hearth, not at me."* Her feast is an all-night standing vigil.
 - **Eclessia:** honored crusader-saint; invoked by soldiers' widows and bodyguards; Eclessian art ignores her wish and paints her constantly, which Thalmyric polemicists never tire of noting.
@@ -111,7 +111,7 @@ The slave of Ironvale's golem-forges, freed by Isfir, who carried the message ba
 
 ### 11. Saint Solana of the Last Ember — *the Lamplighter* (d. 63 AR)
 
-The baker's daughter who witnessed the Binding as a girl and carried a single ember from the altar in a sealed jar — the ember that lit Amaryah's hearth-lamp at Veridun Minor, and through it every Holy Flame since. She outlived the entire roll — the second sense of "Last Ember" — and **died in her sleep surrounded by pilgrims; her body did not decay for seven days**.
+The baker's daughter who witnessed the Binding outside Qiryath, saw where Isfir was buried and returned with the women who found the tomb empty. She recognized the risen Isfir when he spoke her name. After the gift of the Holy Flame, she carried a live coal from the first assembly's hearth to Veridun Minor in a covered clay firepot. Amaryah lit her lamp from it. Solana outlived the rest of the roll and **died in her sleep surrounded by pilgrims**. Her body did not decay for seven days.
 
 - **Thalmyria:** patroness of lamplighters, hearths, and the Rekindling rites; her jar is enshrined at Caleran.
 - **Eclessia:** patroness of bakers, of daughters, and of small faithful acts with large consequences — the favorite saint of Eclessian children, who receive "Solana jars" (a candle in a clay pot) on her feast.
@@ -129,7 +129,7 @@ The astrologer-priest who came to disprove Isfir and wept at his feet by the arg
 
 ### Ischar the Silvered — *the Struck Name* (d. 0 AR)
 
-The Companion who sold the Redeemer's night-route to the augurs for a purse of silver, and hanged himself in the Festival crowds before the third day. The silver was refused by temple and treasury alike and is said to circulate still: **"Ischar's coin"** — money no one will admit to owning; thirty coins that always come back. His name appears on no liturgical roll and is spoken aloud only at the Rite of the Empty Seat.
+The Companion who sold the Redeemer's night route to Ezrahel's officers for a purse of silver and identified him for the arrest party. He hanged himself at Qiryath before the third day. The silver was refused by sanctuary and treasury alike. Later stories call it **Ischar's coin**, thirty coins that always come back. His name appears on no liturgical roll and is spoken aloud only at the Rite of the Empty Seat.
 
 ---
 
@@ -137,7 +137,7 @@ The Companion who sold the Redeemer's night-route to the augurs for a purse of s
 
 ### Saint Aquilan the Turned — *the Apostle to the Nations* (d. c. 45 AR)
 
-Born **Sha'il bar Qoreth** — a Jirahar of the scribal aristocracy, kinsman to the Lord-Scribe Ezrahel bar Qoreth who handed Isfir to the augurs, trained under the great Keeper Gamliel the Patient, and holding Atherian citizenship through his family's imperial service. As **"Aquilan the Hound,"** his court-name, he was the Purge's most relentless prosecutor — a man hunting the new faith *on the Scrolls' own authority*, to protect the Path from what he judged a soul-devouring error.
+Born **Sha'il bar Qoreth**, he was a Jirahar of the scribal aristocracy and a kinsman of Lord-Scribe Ezrahel bar Qoreth, who handed Isfir to the governor. He trained under the Keeper Gamliel the Patient and held Atherian citizenship through his family's imperial service. As **Aquilan the Hound**, he pursued the first assemblies before the Great Purge, using warrants to protect the Path from what he believed was a destructive error.
 
 On the road to Virelos, carrying warrants, he was struck blind by "the noon behind the noon" and heard: *"Hound, whose scent do you follow?"* Baptized three days later by the congregation he had come to arrest, his sight returned with the water. He never met the living Isfir — his commission came by Flame alone — and he spent the rest of his life carrying the faith **out of the Jirahar world and into the nations**: Atherian cities, Sestaran ports, Folk borderlands. His **Epistles** argue that the Path's law is fulfilled, not abolished, in the Redeemer — the single most consequential theological claim in history, and the hinge on which everything the Jirahar suffered afterward would swing. His citizenship spared him the fire: **beheaded at Caleran**, the same season as Tyros.
 

@@ -18,7 +18,7 @@ This is the authoritative AR chronology. [[World Historical Atlas MOC]] expands 
 
 ## The Dating System
 
-The civilized world dates from the execution and resurrection of Isfir the Redeemer at Caleran: **AR ("After the Redeemer")**; years before are **BR**. The calendar is Church property, which is itself politics. Rival reckonings: the Jirahar count from the Great Prophet's death; the Ahl-e-Ahd from Mujalib's revelation (their Year 1 = 541 AR); Atherian old-style from the Unification (c. 350 BR); the Folk in king-lists and winters.
+The common calendar dates from the execution and Resurrection of Isfir the Redeemer at Second Qiryath. **AR** means “After the Redeemer”. Earlier years are **BR**. The churches maintain the calendar. The Jirahar count from the Great Prophet's death, the Ahl-e-Ahd from Mujalib's revelation (541 AR), and Atherian old-style reckoning from the Unification around 350 BR. Folk traditions reckon by kings and winters.
 
 **Present day: 1360 AR.**
 
@@ -90,7 +90,7 @@ The civilized world dates from the execution and resurrection of Isfir the Redee
 
 - **c. 350 BR — Unification of Atheria.** [[Aurelius Thalion]] secures Caleran and concentrates supreme command, standing military pay, provincial appointments and taxation in the imperial settlement.
 - **350–318 BR — [[The Later Reign of Aurelius Thalion]].** Demobilisation, provincial appointments, regular assessments and adoption of Meren turn the founding victory into a continuing government.
-- **318–247 BR — [[The House of Thalion]].** Meren I and Cassara I consolidate the empire; Olarion's purges and sudden death end the house.
+- **318–247 BR — [[The House of Thalion]].** Meren I and his adopted successor Valeran I consolidate the empire. Olarion's purges and sudden death end the house.
 - **247–246 BR — [[The Year of Four Eagles]].** Four claimants fight through the capital, river army, eastern fleet and western military districts. Samor Veloran prevails.
 - **246–151 BR — [[The House of Veloran]].** Provincial rulers develop municipal government, roads and the eastern settlement. The Crown of Olveth responds in 219; the Arcelon campaign and road follow c. 190–182.
 - **151–61 BR — Serrat dynasty.** Provincial citizenship expands. The Raveth famine of 119–113 preserves towns while transferring farms and labour to the imperial estate. The Low Door Companions rise c. 96–54.
@@ -102,12 +102,24 @@ The civilized world dates from the execution and resurrection of Isfir the Redee
 
 - **33 BR — Birth of Isfir** in a Jirahar tower town, eastern provinces.
 - **3 BR–0 — The Ministry.** The Companions: thirteen called, one struck (see [[The Twelve Companions of the Redeemer]]). **c. 15 AR — the conversion of Saint Aquilan the Turned** (born Sha'il bar Qoreth) on the road to Virelos. **c. 29–52 AR — the Companions' martyrdoms**, the Great Purge falling c. 36–45. **c. 55 AR — the Dormition of Amaryah the Fire-Bearer** at Veridun Minor (see [[Amaryah the Fire-Bearer]]).
-- **0 AR — The Binding at Caleran.** Trial under High Augur Severan of Astaroth and Lord-Scribe Ezrahel bar Qoreth; execution on the Pillar of Concordance; the third-night fire; the Holy Flame.
+- **0 AR — The Binding and Resurrection at Second Qiryath.** Ezrahel's faction refers the case to the Atherian governor, who orders execution outside the city. Isfir is buried before the Resting Day. Solana and other women find the tomb empty on the third morning. The appearances, Ascension and gift of the Holy Flame follow. See [[The Rise of the Redeemer]].
 - **0 AR — The Silence of Acceptance.** Jirahar sacrifice continues at Qiryath, but its authenticated sign of divine acceptance never returns after the Resurrection.
-- **66–73 AR — The Great Tower Revolt.** Initial Jirahar victories give way to factional division and Atherian siege. The Second Qiryath is destroyed in 70 AR; the final rebel fortress falls in 73 AR.
-- **1–291 AR — The Underground Centuries.** The Forty Flames; the Ember Underground; the Fireless Trial; the Temple That Would Not Burn.
-- **292 AR — The Vision at the Stone Bridge of Velos.** The usurper **Cassian** sees the White Flame ("By this Flame, hold"), wins the civil war, legalizes the faith — and the Aurin at that bridge has never frozen since. Reigns to 316; baptized on his deathbed: **the Cassian Wager**, a scandal without resolution.
-- **348–351 AR — The Apostate Interlude.** **Astrion the Apostate** restores the stars, dies on desert campaign — "You have won, Carpenter."
+- **66–73 AR — [[Great Tower Revolt and the Second Destruction|The Great Tower Revolt]].** Atheria destroys the sanctuary at Second Qiryath in 70 AR, abolishes the city's charter government and installs a permanent garrison. The final rebel fortress falls in 73 AR. Many displaced Jirahar seek refuge outside direct Atherian rule.
+- **78–171 AR — [[Atheria between Qiryath and Cassian - Emperors Wars and Revolts|Four reigns of municipal recovery]].** Tavian Dascen wins the succession war in 78. Daven Talar fights Vashar c. 98–107. Rovan Caelis secures shorter supply lines and southern market treaties. Neral Vardun campaigns against some southern Folk coalitions c. 154–166 and brings his son Marek into command.
+- **171–c. 193 AR — Marek Vessan, civil war and the Sarqen rising.** Marek's guards kill him in 185. Rival provincial commands compete for control. Enslaved workers seize grain stores and interrupt shipping at Sarqen c. 189–192.
+- **c. 222–233 AR — Second major war with Vashar in the Redeemer age.** The armies contest eastern road stations and tolls. Atheria transfers troops south to meet attacks there. A negotiated evacuation and exchange of captives end the campaign.
+- **1–291 AR — The Underground Centuries.** The Ember Underground, the Fireless Trial and the Temple That Would Not Burn.
+- **By the third century AR — Four principal regional sees.** Caleran coordinates relief and access to the capital, Aurelium trains readers and copies testimony, Halmenth serves the river and outer coast, and Sermora links the Elmaric ports. [[The Church after Qiryath - From Exile to Legalization]]
+- **249–253 AR — The Edict of Public Sacrifice.** Emperor Tervan Marcellan requires witnessed offerings and written certificates across the empire in 249. Enforcement is strongest through 251. His successor suspends the general requirement in 253.
+- **253–288 AR — Provincial commands and court restoration.** Regional armies retain revenue for their own pay. From c. 275 the court reclaims taxes and appointments by negotiation, campaigns and reassignment of commands.
+- **288–291 AR — The closing prosecutions.** During the civil war, the court holding Caleran orders the seizure of meeting places and books and arrests recognized church officers. Provincial enforcement varies.
+- **Winter 290 AR — [[The Forty Flames]].** Troops retake Ironvale's Ashforges after three days of rising. Forty prisoners refuse to renounce the Redeemer and die after three nights confined in an unlit furnace. A flame appears on the dead when it is opened. The common burial tally records thirty-nine, as one family buries its dead privately.
+- **292 AR — The Vision at the Stone Bridge of Velos and Legalization.** **Cassian** sees the White Flame, wins the civil war, permits open worship and hears claims for confiscated meeting places and burial grounds. The Aurin at the bridge has never frozen since. He reigns to 316 and receives baptism on his deathbed, the subject of the **Cassian Wager**.
+- **293–316 AR — [[Cassian and the Four Sees - The Settlement of 292 to 316 AR|Cassian's settlement]].** The 293 instruction orders restitution of confiscated communal property. The four sees hear the Halmenth dispute in 297. Cassian grants the former Celestial Forum to Caleran's congregation, and a daughter flame from Veridun Minor becomes the Eternal Ember during his reign.
+- **316–348 AR — [[The Reign of Sevrin]].** Cassian's younger son takes power after agreeing terms with the eastern command under his cousin Adran. Sevrin confirms restitution, keeps the Star estates' supply contracts and protects southern frontier markets. After his intended heir dies c. 343, Adran's son Astrion rises through the northern command and succeeds him in 348.
+- **348–351 AR — [[Astrion and the Road to Vestian - 348 to 377 AR|Astrion's restoration]].** Astrion restores temple stipends, puts a religious condition on public teaching and authorises a survey at Qiryath. In 350 the Stars answer his public test once. In 351 he dies during the northern retreat. His reported last words remain disputed.
+- **351–352 AR — Savel Orren.** The guard commander obtains passage and water in exchange for two road forts and local trading rights. He restores church stipends and dies on the journey back.
+- **352–377 AR — The Aster brothers.** Corlan and Lucar share government. Corlan dies in 375. Abuses against Folk households admitted across the fort line lead to war in 376. Lucar dies near Kellovar in 377, and Vestian secures the depots, the surviving army and recognition from Caleran.
 - **377–395 AR — Emperor Vestian the Pious.** Faith made compulsory (380); augur colleges dissolved; sanctity welded to state power.
 - **377–395 AR — The Vestian Persecutions.** Existing diaspora communities absorb a second great displacement as remaining eastern towers are razed or confiscated and Qiryath is placed under its perpetual empty charter.
 

@@ -4,7 +4,7 @@ status: canon
 canon_level: core
 visibility: public
 era: ["Age of the Redeemer", "Present Day"]
-region: ["Jirahar Diaspora", "Caleran"]
+region: ["Jirahar Diaspora", "Second Qiryath"]
 culture: ["Jirahar"]
 related_factions: ["Qiryath Council", "Church of the Redeemer"]
 appears_in: ["Caleran"]
@@ -17,7 +17,7 @@ Jirahar memory of Isfir preserves a painful distinction between a particular his
 
 ## The Historical Guilt
 
-Lord-Scribe Ezrahel bar Qoreth and a controlling majority of Qiryath's senior council judged Isfir a dangerous false claimant and knowingly pressed Atherian authorities for his death. They sought an imperial sentence they lacked power to carry out themselves. Atherian judges condemned him; Atherian soldiers killed him.
+Lord-Scribe Ezrahel bar Qoreth and a majority of the participating senior elders at Second Qiryath judged Isfir a dangerous false claimant and knowingly pressed the visiting Atherian governor for his death. An elder challenged the testimony and later secured his body for burial. The governor condemned Isfir, and Atherian soldiers killed him outside the city.
 
 Jirahar legal memory does not absolve those elders. It disputes the later claim that their guilt passes through blood to every Jirahar.
 

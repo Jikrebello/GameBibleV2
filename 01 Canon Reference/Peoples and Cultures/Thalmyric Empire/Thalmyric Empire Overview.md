@@ -31,7 +31,7 @@ The Great Split separated the Thalmyric and Eclessian churches in 1015. Later im
 
 Veridun is the seat of [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/60 Realms and Peoples/Kingdom of Veridun/Emperor Caedros IV Aetherion.md|Emperor Caedros IV Aetherion]] and the living imperial court. Its coronation cathedral holds the Great Lamp and the Virelian Lamp.
 
-Caleran contains the Eternal Ember and the principal Redeemer sites. The Patriarch and Holy Synod now sit there, although the title Patriarch of Veridun preserves the memory of the refuge years. Its churches, hospitals, pilgrimage and antiquities trade draw people into the old capital.
+Caleran contains the Eternal Ember and the precinct where the capital commemorates its early martyrs. The Patriarch and Holy Synod now sit there, although the title Patriarch of Veridun preserves the memory of the refuge years. Its churches, hospitals, pilgrimage and antiquities trade draw people into the old capital.
 
 Virelos is the mountain cradle of the rebellion and the site of Caedros I's coronation. Its forts and routes belong to a different part of the recovery history from the great coastal and river cities.
 

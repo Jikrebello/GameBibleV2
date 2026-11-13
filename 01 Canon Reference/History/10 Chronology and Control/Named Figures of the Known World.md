@@ -77,11 +77,11 @@ The people behind the [[Chronology of the Known World (AR Dating)]]. Each entry 
 
 ## The Age of Glory
 
-[[The House of Thalion]] — **Meren I** (r. 318–286 BR), son of Evara and Velsar and adopted heir of Thalion; **Cassara I** (r. 286–263), the first woman to exercise imperial command in her own name; and **Olarion** (r. 263–247), whose purges and sudden death caused the [[The Year of Four Eagles|Four Eagles crisis]].
+[[The House of Thalion]] — **Meren I** (r. 318–286 BR), son of Evara and Velsar and adopted heir of Thalion. **Valeran I** (r. 286–263), Meren's adopted son and the husband of Cassara, expanded the roads, stores and waterworks. **Olarion** (r. 263–247), their son, left the court divided by purges and died suddenly, precipitating the [[The Year of Four Eagles|Four Eagles crisis]].
 
-[[The House of Veloran]] — **Samor I** (r. 246–229 BR), the river commander who won the succession war; **Tessa I** (r. 229–203), patron of municipal works who returned the Crown of Olveth; **Orent I** (r. 203–174), conqueror of the Arcelon corridor; and **Mariel I** (r. 174–151), patron of schools and the ruler whose death without a named heir ended the house.
+[[The House of Veloran]] — **Samor I** (r. 246–229 BR) won the succession war. **Aren I** (r. 229–203), his adopted son and Tessa's husband, built municipal works and returned the Crown of Olveth. **Orent I** (r. 203–174) took the Arcelon corridor. **Orent II** (r. 174–151) presided over municipal peace and died without a named heir.
 
-[[The Last Dynasties of the Age of Glory]] — **Elian Serrat** (r. 151–126 BR), provincial commander and negotiated successor; **Lethara I** (r. 126–101), who authorised famine relief and the resulting crown estates; **Cassen I** (r. 101–76); **Velen I** (r. 76–61); **Doran I** (r. 61–42); **Othran I** (r. 42–24); and **Othran II** (r. from 24 BR), emperor at the Redeemer boundary.
+[[The Last Dynasties of the Age of Glory]] — **Elian I Serrat** (r. 151–126 BR) won a negotiated succession. **Elian II** (r. 126–101) authorised famine relief and the resulting crown estates, which passed to his adopted heir **Cassen I** (r. 101–76). **Velen I** (r. 76–61) fell to his guards. **Doran I** (r. 61–42) took power, and his son-in-law **Othran I** (r. 42–24) succeeded him. **Othran II** (r. from 24 BR) was emperor at the Redeemer boundary.
 
 **Neriah bar Sorek** (fl. 119–113 BR) — the [[The Keeper of Borrowed Grain|Jirahar administrator of the Raveth famine]]. His grain system saved towns, transferred defaulting farms to the imperial household and made their former owners dependent labourers.
 
@@ -90,23 +90,41 @@ The people behind the [[Chronology of the Known World (AR Dating)]]. Each entry 
 ## The Age of the Redeemer
 
 
-**Lord-Scribe Ezrahel bar Qoreth** (fl. 0 AR) — Head of the Jirahar Council of Scribes at Isfir's trial. Not a cartoon: he sincerely believed Isfir would bring imperial fire down on every tower town, and chose one man's death over a people's. He was right about the fire and wrong about everything else — the pogroms came anyway, a century later, in the converted empire's name. Jirahar tradition never mentions him; Church tradition never stops.
+**Lord-Scribe Ezrahel bar Qoreth** (fl. 0 AR) led the senior elders who referred Isfir to the Atherian governor at Second Qiryath. He feared imperial retaliation against the sanctuary and the other towers. He sought a capital sentence over the objections of an elder who challenged the testimony. Jirahar and Redeemer accounts preserve different judgements of his decision. [[Jirahar Memory of Isfir]]
 
-**High Augur Severan of Astaroth** (fl. 0 AR) — Presided over the execution; the man who said "Let the stars see him." In-world his augural record survives in fragments: his last recorded reading, three days after the execution, is a single line — *the stars did not answer*. Sestaran humanists pay fortunes for alleged pages of the Severan Fragments.
+**High Augur Severan of Astaroth** (fl. 0 AR) accompanied the provincial governor to Second Qiryath and urged a public punishment. The governor passed the sentence. Severan's last recorded augural reading, three days after the execution, says the stars did not answer. Sestaran humanists pay fortunes for alleged pages of the Severan Fragments.
 
 **The Companions** — thirteen called, one struck (full roll, deaths, and patronages in [[The Twelve Companions of the Redeemer]]). **Ischar the Silvered** — sold him and was struck; the seat is kept empty at every commemorative table, and his refused silver ("Ischar's coin," money no one will admit to owning) circulates still: thirty coins that always come back. The two primacies descend from this table: Eclessia claims the **Commission of the Pen** through **Saint Jareth of the Bound Eye**; Veridun claims the **Ember Succession** through **Amaryah's hearth** at Veridun Minor — Solana carried the ember, Amaryah kept it, Calira died for it.
 
 **Amaryah the Fire-Bearer** (d. c. 55 AR) — the faith's great theological dispute (see [[Amaryah the Fire-Bearer]]): Fire-Bearer or Man-Bearer (the Ephesus fight, settled at Halmenth 411 AR — whose losers survive as the [[The Velian Church|Velian Church]] under Covenant contract); Dormition (East) against defined Unkindled Conception and bodily Rising (West); honored-not-invoked (Freeflame); and a pending apparition case at Vessing (1352 AR) the Sanctum dares not rule on.
 
-**Saint Aquilan the Turned** (d. c. 45 AR) — of Jirahar blood and training. Born **Sha'il bar Qoreth**, kinsman of the Lord-Scribe who condemned Isfir, Keeper-trained, Atherian citizen; as "Aquilan the Hound" the Purge's fiercest prosecutor, struck blind on the Virelos road and baptized by the congregation he came to arrest. Apostle to the nations; his **Epistles** ("fulfilled, not abolished") are the hinge of supersession and thus of four centuries of pogroms he never saw. The Freeflame quote his seatless commission against both hierarchies; the Jirahar keep the exact and unforgiving formula: *"The carpenter we mourn. The scribe we cannot forgive."*
+**Saint Aquilan the Turned** (d. c. 45 AR) — of Jirahar blood and training. Born **Sha'il bar Qoreth**, kinsman of the Lord-Scribe who referred Isfir to the governor, Keeper-trained, Atherian citizen; as "Aquilan the Hound" a prosecutor of the early assemblies before the Great Purge, struck blind on the Virelos road and baptized by the congregation he came to arrest. Apostle to the nations; his **Epistles** ("fulfilled, not abolished") are the hinge of supersession and thus of four centuries of pogroms he never saw. The Freeflame quote his seatless commission against both hierarchies; the Jirahar keep the exact and unforgiving formula: *"The carpenter we mourn. The scribe we cannot forgive."*
 
 ## The Conversion Era
 
-**Emperor Cassian the Baptized** (r. 288–316 AR) — A frontier usurper marching on the capital in civil war who saw the White Flame stand on the water at the **Stone Bridge of Velos** (292 AR) and heard: *By this Flame, hold.* He won, legalized the faith, showered it with basilicas — and remained entirely himself: he executed his eldest son and his empress on treason evidence he never published, kept the augur colleges open as long as they were useful, and accepted baptism only on his deathbed, reasoning (the chroniclers say) that a single unrepented reign should be answered with a single perfect absolution. The authorial spine knows: the vision was real. The man barely changed. That gap is the era's whole theme.
+| Emperor | Reign | Principal developments |
+|---|---|---|
+| **Tavian Dascen** | 78–91 AR | Wins the succession war, pays arrears, confirms town charters and keeps Qiryath under direct rule. Adopts Daven. |
+| **Daven Talar** | 91–119 AR | Campaigns against Vashar and obtains toll and passage concessions. Names his nephew Rovan heir. |
+| **Rovan Caelis** | 119–147 AR | Shortens the eastern supply lines, funds public works and makes southern market treaties. Adopts Neral. |
+| **Neral Vardun** | 147–171 AR | Holds allied districts during the southern wars and gives his son Marek military command. |
+| **Marek Vessan** | 171–185 AR | Inherits his father's command network, sells appointments and seizes assets to pay the army. His murder by his guards opens a succession struggle. |
 
-**Astrion the Apostate** (r. 348–351 AR) — Cassian's great-nephew, a scholar raised by Flame-tutors who fell in love with the old stars through the archives they'd failed to burn. His restoration was elegant, tolerant, doomed, and brief: he died at thirty-four on a punitive campaign against the northern desert tribes, killed by a spear no one saw thrown. His last words — *"You have won, Carpenter"* — are quoted by the Church as triumph and by Sestaran humanists as tragedy. The Star Pantheon's last emperor; the humanists' favorite ghost.
+[[Atheria between Qiryath and Cassian - Emperors Wars and Revolts|Atheria between Qiryath and Cassian]] follows these reigns and the provincial wars.
 
-**Emperor Vestian the Pious** (r. 377–395 AR) — Made the faith compulsory, dissolved the augur colleges, stripped the star-temples, and — inherited wound — welded sanctity to state power so thoroughly that no one since has been able to imagine one without the other. Also the emperor under whom the Jirahar persecutions turned from riot to policy.
+**Emperor Tervan Marcellan** (r. 244–253 AR) rose through the provincial commands. After mutinies and failures to supply the garrisons, he issued the **Edict of Public Sacrifice** in 249. Local commissioners witnessed offerings to the Stars and certified compliance. The order widened persecution from cases against individual congregations to a test imposed across directly governed provinces. His successor suspended it in 253. [[The Church after Qiryath - From Exile to Legalization]]
+
+**Emperor Cassian the Baptized** (r. 288–316 AR) saw the White Flame at the **Stone Bridge of Velos** in 292, won the civil war and legalized the Redeemer's faith. He restored confiscated communal property, convened the four sees at Halmenth and funded basilicas while retaining the augur colleges. He executed his eldest son and his empress on unpublished treason evidence. His deathbed baptism gave rise to the Cassian Wager. The vision was real. The grounds for the executions and the outcome of the Wager remain unresolved. [[Cassian and the Four Sees - The Settlement of 292 to 316 AR|Cassian and the Four Sees]]
+
+**Emperor Sevrin** (r. 316–348 AR), Cassian's younger son, commanded the southern reserve and gained recognition by guaranteeing the eastern command's pay and revenue. He confirmed restitution and renewed market treaties with southern Folk communities. His intended heir died c. 343. **Adran**, Cassian's nephew, accepted command in the east under Sevrin. Adran's son Astrion succeeded Sevrin. [[The Reign of Sevrin]]
+
+**Astrion the Apostate** (r. 348–351 AR), Adran's son and Cassian's great-nephew, was raised by Flame tutors and studied the old Stars through the eastern archives. He commanded the northern desert approaches before his accession. He restored privileges to the Star cults, then died at thirty-four on a punitive campaign against northern desert communities, struck by a spear no witness saw thrown. The Church quotes his reported last words, *"You have won, Carpenter,"* as surrender. Sestaran humanists remember them as tragedy. [[The Reign of Sevrin]] · [[The Conversion of the Empire]]
+
+**Savel Orren** (r. 351–352 AR) was acclaimed during Astrion's retreat. He gave up two road forts for water and safe passage, restored church stipends and died on his return.
+
+**Corlan Aster** (r. 352–375 AR) and **Lucar Aster** (r. 352–377 AR) shared one imperial government and held separate commands. Corlan supplied the southern defences. Lucar defeated a claimant from Astrion's family, became sole emperor in 375 and died near Kellovar after abuses against admitted Folk households led to war. [[Astrion and the Road to Vestian - 348 to 377 AR|Astrion and the Road to Vestian]]
+
+**Emperor Vestian the Pious** (r. 377–395 AR) held the inner depots after Lucar's defeat, paid the surviving units and gained recognition from Caleran. He made the faith compulsory in 380, dissolved the augur colleges and stripped or converted Star temples. Under him the persecution of the Jirahar turned from riot to imperial policy.
 
 ## The Covenant
 
@@ -120,7 +138,7 @@ The people behind the [[Chronology of the Known World (AR Dating)]]. Each entry 
 
 **Qahir ibn Ruzbeh** (c. 855–902 AR) — Founder of the Qahirid dynasty; rebuilt the war machine around mass Ahdanite levies and siege-golem foundries.
 
-**Sultan-Caliph Idris al-Fattah, "the Unsealer of Gates"** (r. 898–931 AR) — Took Caleran in 905 at twenty-six. Refused to sack the Redeemer's execution site, instead sealing the Celestial Forum under glass as "evidence held for the final audit" — an act of contract-piety that reads as either reverence or blasphemy depending on who's telling it, and which preserved the Pillar of Concordance intact for the Thalmyric reconquest to find.
+**Sultan-Caliph Idris al-Fattah, "the Unsealer of Gates"** (r. 898–931 AR) took Caleran in 905 at twenty-six. He sealed the martyrs' precinct in the Celestial Forum under glass as “evidence held for the final audit” and impounded the Eternal Ember. His guards preserved the Ember and the Pillar of Concordance until the Thalmyric recovery.
 
 **Sultan-Caliph Suhrab the Lawbinder** (r. 1190–1243 AR) — The apex. Codified the **Ledger of Ledgers**, harmonizing every provincial contract code; won the **Battle of Qarath's Well** (1214) and took an emperor captive. Died old, having executed his most gifted son on the Guard's evidence — the dynasty has been living off his capital ever since.
 

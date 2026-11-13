@@ -28,7 +28,7 @@ Thalion's son Caelor died before him. The emperor chose his nephew Meren, son of
 
 ## The House of Thalion, 318–247 BR
 
-[[The House of Thalion]] governed through Meren I, Cassara I and Olarion. Meren continued demobilisation and confirmed the position of towns that had supplied the founding coalition. Cassara enlarged waterworks, harbour stores and road stations while becoming the first woman to exercise the imperial command in her own name.
+[[The House of Thalion]] governed through Meren I, Valeran I and Olarion. Meren continued demobilisation and confirmed the position of towns that had supplied the founding coalition. His daughter Cassara supervised the Aurin stores. Her husband Valeran, whom Meren adopted and presented to the army, enlarged waterworks, harbour stores and road stations during his reign.
 
 The dynasty's government gradually acquired a ceremonial shape. An accession required army recognition, public confirmation at Caleran and the principal rites of the Common Sky and Astaroth. The separate ceremonies sometimes supported different candidates and gave powerful households several ways to contest a ruler.
 
@@ -36,11 +36,11 @@ Olarion used accusations, confiscation and execution against relatives and offic
 
 ## The Veloran settlement, 246–151 BR
 
-[[The House of Veloran]] arose from a river-army household outside the old Caleran aristocracy. Samor I rewarded soldiers and punished cities that had supported his rivals. His daughter Tessa made those emergency arrangements more durable through roads, town charters and a clearer provincial treasury.
+[[The House of Veloran]] arose from a river-army household outside the old Caleran aristocracy. Samor I rewarded soldiers and punished cities that had supported his rivals. His adopted successor Aren I made those emergency arrangements more durable through roads, town charters and a clearer provincial treasury. Aren's marriage to Tessa Veloran joined the new ruling family to the old through his descent from the House of Thalion.
 
-Under Tessa, the [[The Crown of Olveth|Crown of Olveth]] killed a general who tried to make a recognised shelter object into a victory trophy. Its return became one of the age's best-known demonstrations of a supernatural response whose meaning extended only to the purpose of that object. The event conferred no virtue upon the emperor.
+Under Aren I, the [[The Crown of Olveth|Crown of Olveth]] killed a general who tried to make a recognised shelter object into a victory trophy. Its return became one of the age's best-known demonstrations of a supernatural response whose meaning extended only to the purpose of that object. The event conferred no virtue upon the emperor.
 
-Orent I pursued eastern campaigns and reorganised the roads behind them. [[The Two Roads of Arcelon]] preserves the victory account beside the work songs of people whose settlement was burned and whose labourers died building the route. Mariel I inherited the resulting revenues and presided over several comparatively peaceful decades of municipal building, travel and scholarship.
+Orent I pursued eastern campaigns and reorganised the roads behind them. [[The Two Roads of Arcelon]] preserves the victory account beside the work songs of people whose settlement was burned and whose labourers died building the route. His son Orent II inherited the resulting revenues and presided over several comparatively peaceful decades of municipal building, travel and scholarship.
 
 ## Later dynasties, 151 BR–0 AR
 
@@ -50,7 +50,7 @@ During the Raveth famine of 119–113 BR, the administrator Neriah bar Sorek org
 
 The [[The Companions Who Entered by the Low Door - Imperial History|Low Door Companions]] rose during the last Serrat generations from service work into military and provincial office. Their abilities allowed people of modest origin to enter imperial government. Hostage-taking, an unlawful raid and the betrayal of a refuge accompanied their ascent.
 
-A succession of later court houses preserved the empire through alliances with armies and provinces. Doran I restored authority after Velen Serrat's murder in 61 BR. Othran I succeeded through marriage and military support in 42 BR. His son Othran II became emperor in 24 BR and was still reigning when the Redeemer was executed at Caleran. His court possessed no knowledge that it stood at the end of a historical period.
+A succession of later court houses preserved the empire through alliances with armies and provinces. Doran I restored authority after Velen Serrat's murder in 61 BR. Othran I succeeded through marriage and military support in 42 BR. His son Othran II became emperor in 24 BR and was still reigning when the provincial governor ordered the Redeemer's execution at Second Qiryath. The case reached the capital through provincial reports.
 
 ## Provinces and frontiers
 

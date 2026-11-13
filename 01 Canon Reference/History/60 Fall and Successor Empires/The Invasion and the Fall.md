@@ -26,7 +26,7 @@ Qahir ibn Ruzbeh rebuilt the Covenant war machine between roughly 885 and 902 AR
 
 Idris advanced through the northwestern approaches and seaward supply line. Caleran's walls remained formidable, but its field armies had been dispersed, unpaid, or committed to rival commands. The capital fell in 905 AR.
 
-Idris did not destroy the Pillar of Concordance or Eternal Ember. He sealed the sacred forum as evidence and declared the Ember impounded property under guard. The act preserved the sites while making their custody an occupation claim.
+Idris sealed the martyrs' precinct in the Celestial Forum as evidence and declared the Eternal Ember impounded property under guard. His officers preserved the Pillar of Concordance and assigned keepers to the lamp. Their custody became an occupation claim.
 
 ## Collapse and Flight
 

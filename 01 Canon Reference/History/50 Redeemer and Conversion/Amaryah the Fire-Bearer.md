@@ -19,9 +19,9 @@ The Mother of the Redeemer — the most venerated woman in the world's history, 
 
 Amaryah bath Yoreth, a Jirahar carpenter's wife of an eastern tower town: poor, devout, unlettered, of a lineage the genealogy-scrolls trace (with suspicious tidiness, scholars note) back to the Great Prophet's own house. The traditions agree on little else about her early life and everything about her character: she treasured, she endured, she did not explain.
 
-At the Binding, she stood at the foot of the Pillar of Concordance for three days. Tradition holds the Redeemer's only words from the monolith spoken to individuals were spoken to her and to Saint Calira standing beside her: *"Daughter, behold your guardian. Guardian, behold my mother."*
+Amaryah stood with Saint Calira at the Binding outside Second Qiryath and remained until Isfir's death. Tradition remembers the words by which he entrusted them to one another. They mourned through the Resting Day after his burial.
 
-After the Ascension, Calira took her south into the mountain country, away from the Purge. Her hearth at **Veridun Minor** became the first shrine of the faith — the lamp on her table lit from the ember Saint Solana carried out of Caleran in a sealed jar. That chain — **Solana carried it, Amaryah kept it, Calira died for it** — is the physical pedigree of the mother-flame now burning in the Cathedral of the Eternal Ember, and the root of the Patriarchate's **Ember Succession**.
+After the Ascension and the gift of the Holy Flame at Qiryath, Calira accompanied Amaryah to **Veridun Minor**. Solana carried a coal from the congregation's hearth in a covered clay firepot. Amaryah used it to light her lamp, and her house became a shrine and refuge. Calira died defending it in 29 AR. Local households took turns tending the lamp, and after legalization a daughter flame was carried to Caleran. This custody is the root of the Patriarchate's **Ember Succession**. [[Caleran and the Eternal Ember]]
 
 ## The Dormition
 

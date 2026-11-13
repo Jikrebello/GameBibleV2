@@ -40,7 +40,7 @@ Food prices rose sharply at Caleran. Mott authorised searches for hoarded grain 
 
 Veloran entered the capital after promising the guard its arrears. Mott was killed by soldiers while attempting to reach sanctuary. Samor punished some of the killers and rewarded their unit, actions serving different needs within the same week.
 
-In 246, the senate and principal commands recognised Samor I. He buried the four claimants with unequal honours and married his daughter Tessa to a surviving member of the old imperial household. Towns that had supplied him received charters and tax relief; those associated with his rivals supplied settlements for soldiers.
+In 246, the senate and principal commands recognised Samor I. He gave his three dead rivals unequal funeral honours. He married his daughter Tessa to Aren Cassar, a surviving member of the old imperial household. Towns that had supplied him received charters and tax relief; those associated with his rivals supplied settlements for soldiers.
 
 ## Later memory
 

@@ -144,6 +144,10 @@ During the Caleran conflict between Casvilar and Veyr, Orvaz supplied money, pac
 
 Thalion's rise after 370 BR confronted Orvaz with a more coherent Atherian government. In the settlement of 350 BR, Thalion secures the Atherian-speaking ports and several western clients. Orvaz retains Avesh, the Ubar riverlands and the Vashari core. The agreement leaves two large states facing one another across the coastal marches, with neither able to dictate terms throughout the eastern sea.
 
+## Wars with imperial Atheria
+
+Vashar remained independent at the time of the Redeemer. Under Daven Talar, Atherian armies advanced toward Avesh in the war of c. 98–107 AR. Vasharan forces recovered the exposed posts, and an agreement over tolls and passage ended the campaign. In the war of c. 222–233 AR, Vasharan commanders seized road stations and encouraged border towns to direct tolls east. Both crowns accepted a negotiated evacuation and exchange of captives. During Cassian's reign, the eastern towns again arranged prisoner exchanges and safe conduct for trade along designated routes. Vashar retained its highland core and the Ubar through these wars. [[Atheria between Qiryath and Cassian - Emperors Wars and Revolts|Atheria between Qiryath and Cassian]]
+
 ## Government and society
 
 The Great King ruled through the royal household, great Vashari houses, appointed road commanders, local rulers, temple estates and city assemblies. Authority varied by province. Arqesh required canal officials. Qiryath retained communal courts. Coastal cities defended civic privileges. Highland estates relied upon personal allegiance and mounted service.

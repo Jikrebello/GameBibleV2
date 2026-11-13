@@ -20,7 +20,7 @@ This is the creator-facing control sheet for Thalmyria. Authority descends throu
 ## Three Sacred Cities
 
 - **Veridun** is the living imperial capital, refuge-city, coronation cathedral, and seat of [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/60 Realms and Peoples/Kingdom of Veridun/Emperor Caedros IV Aetherion.md|Emperor Caedros IV Aetherion]]. The Great Lamp and Virelian Lamp remain there.
-- **Caleran** is the recovered Atherian capital, site of the Redeemer's execution, Pillar of Concordance, Eternal Ember, and present seat of Patriarch Sophron.
+- **Caleran** is the recovered Atherian capital, site of Jareth's martyrdom, the Pillar of Concordance and the Eternal Ember, and present seat of Patriarch Sophron. The Ember was kindled from Amaryah's lamp at Veridun Minor. The Redeemer's execution and Resurrection took place at Second Qiryath.
 - **Virelos** is the mountain rebellion's cradle and the coronation city of the Aetherion line.
 
 The title **Patriarch of Veridun** survives from the exile years. The Patriarchate returned to Caleran after the Reconquest without surrendering the title that legitimized the refuge Church.

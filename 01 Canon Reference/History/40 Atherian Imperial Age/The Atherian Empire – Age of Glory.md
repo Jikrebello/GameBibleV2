@@ -23,6 +23,8 @@ The Atherian Age of Glory was the long period in which imperial law, armies, arc
 
 The emperor was presented as the stars' chosen mediator and guardian of terrestrial order. Provincial governors combined civil and military authority but depended on treasury officials, municipal councils, and temple estates. The old senate retained control over portions of infrastructure, citizenship, and commercial law while losing meaningful command of the army.
 
+The supreme command in this period passed among men through descent, adoption, or military victory followed by recognition at Caleran. Marriage could bind a candidate to the ruling household, and women of that household administered estates, arranged marriages, managed correspondence and directed patronage. The emperor still needed the support of the army, public recognition and the rites of accession. Olarion's death showed how far these sources of authority could diverge.
+
 A professional bureaucracy maintained census rolls, property surveys, water rights, courts, road stations, and grain distribution. Modern Thalmyric and Eclessian law still cites surviving Atherian registers, sometimes to resolve a dispute and sometimes to resurrect one.
 
 The [[The House of Thalion|first imperial house]] ruled until 247 BR. [[The Year of Four Eagles]] brought the provincial commander Samor Veloran to power; his descendants governed through 151. The Serrat rulers and later Othran household carried the empire to the Redeemer's lifetime. [[Provinces and Municipal Life in Imperial Atheria]] explains the cities and local officers through whom each house governed.

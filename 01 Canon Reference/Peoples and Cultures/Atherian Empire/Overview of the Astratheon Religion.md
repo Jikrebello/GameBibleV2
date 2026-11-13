@@ -70,7 +70,7 @@ Each cult maintained its own priests, property and rites. The Astral Keepers stu
 
 ## Conversion and Survival
 
-Redeemer communities condemned sacrifice, celestial fatalism and the worship of created powers. Astratheon remained publicly dominant through the Underground Centuries, then shared imperial patronage after legalization in 292 AR. Vestian's compulsory settlement of 380 closed or converted many temples, dissolved augur colleges and exposed priests and dependants to confiscation, violence and forced conformity.
+Redeemer communities condemned sacrifice, celestial fatalism and the worship of created powers. Astratheon remained publicly dominant through the Underground Centuries, then shared imperial patronage after legalization in 292 AR. Astrion restored temple stipends, funded hospitality and required publicly paid teachers of the classics to honour Star rites. His successors restored church stipends and left some Star estates in local hands. Vestian's compulsory settlement of 380 closed or converted many temples, dissolved augur colleges and exposed priests and dependants to confiscation, violence and forced conformity. [[Astrion and the Road to Vestian - 348 to 377 AR|Astrion and the Road to Vestian]]
 
 The religion survived in household customs, rural shrines, philosophical schools and civic festivals stripped of their older dedications. Eclessian, Thalmyric and Sestaran societies inherited its calendars, architecture, dramatic traditions and celestial vocabulary. A constellation may now provide the date of a feast without receiving worship, while old temple ruins continue to attract pilgrims, antiquarians and cult revivalists.
 
