@@ -18,13 +18,11 @@ aliases: ["The Hostage Children of Oak and Glass"]
 
 **The Hostage Children of Oak and Glass** is a border tradition about captives whom a proto-Atherian fort and a Folk great clan regularised as fosterlings and sureties. Its central victim was a fort-born man raised among the Folk, married and made adult under their rites, then executed by his birth community as a traitor for warning his wife's kin of an unlawful cattle seizure.
 
-> **Stories told.** The local telling and the material or customary remainder below are established. A claimed original object, miraculous response, famous identity or supernatural explanation is not authenticated merely by this article.
-
 ## Historical setting
 
-**c. 2020–1920 BR.** one Folk–proto-Atherian fortified border. This tradition belongs to [[Age of Scattering]]; its cultural bearers are Ark-derived and neighbouring Orphaned communities.
+**c. 2020–1920 BR.** One Folk–proto-Atherian fortified border. This tradition belongs to [[Age of Scattering]]; its cultural bearers are Ark-derived and neighbouring Orphaned communities.
 
-It is told on one proto-Atherian–Folk border where fort households and an old great clan traded children to hold a truce. Its survival does not make every singer's version a complete account of the event.
+It is told on one proto-Atherian–Folk border where fort households and an old great clan traded children to hold a truce.
 
 ## Historical basis
 
@@ -59,12 +57,6 @@ Fort songs say the warning endangered civilians. Folk songs say it exposed plann
 ## What remains
 
 Oak and green glass beads are tied together at later hostage exchanges and border fosterings. They commemorate the older crisis but were not its original surety tokens.
-
-## History and belief
-
-The practice, landscape or physical object described here has a place in the present world. Statements that it is the original relic, that a voice is the original dead person, or that a victory proves divine approval belong to the tradition unless a separate history establishes them.
-
-Names, precise sites and competing supernatural claims may remain uncertain without making the tradition placeless.
 
 ## Read onward
 

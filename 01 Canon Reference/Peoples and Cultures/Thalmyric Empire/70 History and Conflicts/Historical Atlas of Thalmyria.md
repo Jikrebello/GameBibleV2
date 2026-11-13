@@ -17,9 +17,9 @@ Thalmyria is the southern successor empire formed by Atherian heartland survivor
 
 ## Historical Atlas — wider inheritance
 
-Thalmyrics inherit Atherian heartland and maritime traditions through refugees, provincial survivors, occupation-born populations and Reconquest settlers. They are not simply the eastern half of an ancient pure people. Mountain refuge and the founding wars made a new imperial identity from these layers.
+Thalmyrics inherit Atherian heartland and maritime traditions through refugees, provincial survivors, occupation-born populations and Reconquest settlers. Mountain refuge and the founding wars made a new imperial identity from these layers.
 
-Caedros I's coronation in 922, the Burning Banners and recovery of Caleran in 957 are central without being the whole restoration. The Long Reconquest continued to 1052; Zanthir and the Velian States remained outside. Returning households encountered real inhabitants whose rights could not be erased merely by calling the conquest holy.
+Caedros I's coronation in 922, the Burning Banners and recovery of Caleran in 957 stood at the centre of the restoration. The Long Reconquest continued to 1052; Zanthir and the Velian States remained outside. Returning households encountered real inhabitants whose rights could not be erased merely by calling the conquest holy.
 
 The Split, the Breakings, Caedros III's High Noon and Qarath produced further layers of confidence and injury. The treatment of Markellos was a domestic crime following an external defeat. Nikandros's restoration and Caedros IV's later reign inherited that wound. In 1360, military, monastic, provincial and household loyalties remain distinct, while current grief and succession are unfinished.
 

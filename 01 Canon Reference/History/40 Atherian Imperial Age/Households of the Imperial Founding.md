@@ -60,7 +60,7 @@ The royal house began with Nerethan of Delkos and Hadrima of Esharat. Their marr
 
 The relationship could be disputed from within the family. After Olymes died in 375, Merath, Samyra and Nethar pursued competing claims. Vardek and part of the garrison supported Nethar; Samyra retained supporters at Esharat; Merath sought allies for another branch.
 
-Nethar died in the fighting of 372. Merath was executed in 358 on Velsar's order at Samyra's request. Her attendants and supporters thereafter remembered the dynasty through a loss inflicted by the reigning queen. The royal household contained both affection for children and a willingness to kill relatives whose claims threatened power.
+Nethar died in the fighting of 372. Merath was executed in 358 on Velsar's order at Samyra's request. Her attendants and supporters thereafter remembered the dynasty through a loss inflicted by the reigning queen.
 
 ## Friendship, pardon and betrayal
 
@@ -75,8 +75,6 @@ Belisar Venn's association with Thalion followed a similar course of useful coop
 At Kellovar, Velcara organised grain storage and helped sustain Drenoc's coalition against Casvilar. Her children escaped through maternal relatives. She remained, was captured and eventually returned through ransom arranged by those same connections. Her later work rebuilding storage belonged to a community that had lost people and land.
 
 Families at Darneth supported men whose hands had been cut off after surrender. Work had to be divided differently, and impoverished households absorbed lasting responsibilities. The triumph celebrated at Caleran became an enduring change in meals, labour and dependence far from the capital.
-
-These lives continued alongside the more extensively recorded marriages of rulers. The imperial founding altered who could govern, inherit and command; it also changed who prepared food for an injured relative, sheltered a child or could return to a former home.
 
 ## Further reading
 

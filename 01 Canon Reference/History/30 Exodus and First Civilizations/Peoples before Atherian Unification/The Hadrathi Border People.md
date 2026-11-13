@@ -32,7 +32,7 @@ Qarzeth treated Hadrath as a source of soldiers, pack animals and control over i
 
 During the last Gateway War, Hadrathi factions chose different sides. The destruction of Qarzeth removed a dominant creditor and employer while exposing inland roads to raiding and confiscation. Sarqen's rising kings secured alliances through marriage and military aid. Hadrathi rulers kept their local titles and customs within these alliances.
 
-By 350 BR the Hadrathi formed a recognised border people under several competing houses. Their exact political course after the Gateway Wars remained contested among the surviving dynasties. Their separate identity, road knowledge and relationships with the Spared Towns were firmly established.
+By 350 BR the Hadrathi formed a recognised border people under several competing houses. Their exact political course after the Gateway Wars remained contested among the surviving dynasties.
 
 ## Related histories
 

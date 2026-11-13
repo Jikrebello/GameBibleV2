@@ -16,13 +16,11 @@ aliases: ["The Returners' Second Sack"]
 ---
 # The Returners' Second Sack
 
-> **Stories told.** The local telling and the material or customary remainder below are established. A claimed original object, miraculous response, famous identity or supernatural explanation is not authenticated merely by this article.
-
 ## Historical setting
 
 **905–1052 AR; Fall and Long Reconquest.** Thalmyric refuge mountains and reconquered provincial towns. This tradition belongs to [[The Fall and the Long Reconquest]]; its cultural bearers are refugees, occupation-born households and returners.
 
-It is told in one provincial Reconquest town, especially by hospital families and people whose winter graves lie beyond its old boundary. Its survival does not make every singer's version a complete account of the event.
+It is told in one provincial Reconquest town, especially by hospital families and people whose winter graves lie beyond its old boundary.
 
 ## The tale
 
@@ -47,12 +45,6 @@ Claimant families say the executed men poisoned wells. Hospital descendants pres
 ## What remains
 
 The hospital wall contains stones with two household marks, one scraped from the public face and preserved toward the water channel.
-
-## History and belief
-
-The practice, landscape or physical object described here has a place in the present world. Statements that it is the original relic, that a voice is the original dead person, or that a victory proves divine approval belong to the tradition unless a separate history establishes them.
-
-Names, precise sites and competing supernatural claims may remain uncertain without making the tradition placeless.
 
 ## Read onward
 

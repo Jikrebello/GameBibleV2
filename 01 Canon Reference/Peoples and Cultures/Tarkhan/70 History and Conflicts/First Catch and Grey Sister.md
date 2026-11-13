@@ -19,14 +19,14 @@ Tarkhan memory gives the first willing capture to **Grey Sister**, a pale mare w
 
 ## Consequences
 
-- cart and foot migration becomes mounted migration within three generations;
-- mounted hunting and remount wealth reorder prestige;
-- eastern raids reach settled roads previously beyond practical range;
-- western clans import horses but retain camels for dry country;
-- horse genealogy becomes both sacred record and high finance;
-- a foal accepted as Grey Sister's blood can seal peace like a relic translation.
+- cart and foot migration became mounted migration within three generations;
+- mounted hunting and remount wealth reordered prestige;
+- eastern raids reached settled roads previously beyond practical range;
+- western clans imported horses but retained camels for dry country;
+- horse genealogy became both sacred record and high finance;
+- a foal accepted as Grey Sister's blood could seal peace like a relic translation.
 
-The First Catch does not mean the Tarkhan began in 905 or that every clan had been foot-mobile. Well-Tarkhan camel civilization was already ancient.
+By 905, Well-Tarkhan camel civilization was already ancient.
 
 ## Navigation
 

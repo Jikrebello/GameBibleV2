@@ -38,7 +38,7 @@ Olarion used accusations, confiscation and execution against relatives and offic
 
 [[The House of Veloran]] arose from a river-army household outside the old Caleran aristocracy. Samor I rewarded soldiers and punished cities that had supported his rivals. His adopted successor Aren I made those emergency arrangements more durable through roads, town charters and a clearer provincial treasury. Aren's marriage to Tessa Veloran joined the new ruling family to the old through his descent from the House of Thalion.
 
-Under Aren I, the [[The Crown of Olveth|Crown of Olveth]] killed a general who tried to make a recognised shelter object into a victory trophy. Its return became one of the age's best-known demonstrations of a supernatural response whose meaning extended only to the purpose of that object. The event conferred no virtue upon the emperor.
+Under Aren I, the [[The Crown of Olveth|Crown of Olveth]] killed a general who tried to make a recognised shelter object into a victory trophy. Its return became one of the age's best-known supernatural episodes.
 
 Orent I pursued eastern campaigns and reorganised the roads behind them. [[The Two Roads of Arcelon]] preserves the victory account beside the work songs of people whose settlement was burned and whose labourers died building the route. His son Orent II inherited the resulting revenues and presided over several comparatively peaceful decades of municipal building, travel and scholarship.
 
@@ -70,9 +70,9 @@ Enslavement remained part of the economy and the household. War supplied captive
 
 ## Religion and imperial memory
 
-[[Star Religion and the Imperial Cult]] developed the Common Sky into an imperial ceremonial system. Astaroth received precedence in rites of command; other Star Children governed festivals, occupations and local interpretations of the natural world. Thanatos remained a human misreading of the Boatman's signs.
+[[Star Religion and the Imperial Cult]] developed the Common Sky into an imperial ceremonial system. Astaroth received precedence in rites of command; other Star Children governed festivals, occupations and local interpretations of the natural world.
 
-Portraits, coins and praise formulae made successive rulers resemble one eternal imperial person. A dependent Pride Mask formed through the repeated attention given to these rites. [[Star Religion and the Imperial Cult#The Emperor after the Emperor|The Emperor after the Emperor]] describes its formation and the limits of its powers. No emperor's human soul entered it.
+Portraits, coins and praise formulae made successive rulers resemble one eternal imperial person. Temple accounts treated portraits that answered questions as proof that the stars preserved the imperial office, while sceptics exposed staged responses in several cities. [[Star Religion and the Imperial Cult#The Emperor after the Emperor|The Emperor after the Emperor]] describes these answering images.
 
 By 0 AR, imperial religion seemed inseparable from public life. Its temples employed workers, educated children and distributed food while also enforcing the celestial hierarchy of the state. The trial and execution of the Redeemer therefore occurred within institutions possessing centuries of confidence and habit.
 

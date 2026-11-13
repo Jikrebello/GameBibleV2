@@ -30,7 +30,7 @@ He reduced several emergency levies and confirmed town charters. Southern campai
 
 Cassara had supervised the Aurin stores during her father's reign. That work made her a source of information about shortages and contracts for Valeran, who had served in harbour supply and held military command. His adoption joined a family with useful ties among the ports to Meren's household. The Caleran army acclaimed him and the provincial commands received confirmation of their appointments.
 
-Valeran enlarged water storage, harbour granaries and the paved approaches to several provincial capitals. Cassara travelled with engineers and developed a reputation for asking workers to explain a problem before officials described the solution. Communities benefited from works that brought cleaner water and more reliable transport.
+Valeran enlarged water storage, harbour granaries and the paved approaches to several provincial capitals. Cassara travelled with engineers and developed a reputation for asking workers to explain a problem before officials described the solution.
 
 Construction drew labour and material from subject districts. A quarry revolt in 274 BR began after managers extended compulsory service through the harvest. Troops killed strikers and their families were expelled from housing attached to the works. Cassara pressed for the removal of two managers whose conduct endangered the supply programme. Valeran dismissed them, kept the compulsory labour assessment and ordered the aqueduct completed.
 
@@ -49,8 +49,6 @@ The emperor died suddenly in 247. Accounts variously blamed illness, poison and 
 ## Dynastic memory
 
 Later rulers retained Thalion's name within their titles and represented Meren and Valeran as peaceful continuators. Olarion became the wicked relative against whom the wisdom of the other three could be displayed. His government nevertheless used officers, tax arrangements and ceremonies built by his predecessors.
-
-The dynasty possessed ordinary human ancestry. Adoption, marriage and public recognition made Meren a political son of Thalion; each man retained his complete human soul. The later imperial cult worked through portraits and ritual patterns, while the dead rulers remained distinct human persons.
 
 ## Further reading
 

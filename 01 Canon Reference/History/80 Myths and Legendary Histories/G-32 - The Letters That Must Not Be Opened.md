@@ -16,13 +16,11 @@ aliases: ["The Letters That Must Not Be Opened"]
 ---
 # The Letters That Must Not Be Opened
 
-> **Stories told.** The local telling and the material or customary remainder below are established. A claimed original object, miraculous response, famous identity or supernatural explanation is not authenticated merely by this article.
-
 ## Historical setting
 
 **c. 714–779 AR.** Atherian–Covenant frontier districts. This tradition belongs to [[The Long Frontier and the First Unsealing]]; its cultural bearers are mixed provincial, Ahdari, Velian and Jirahar communities.
 
-It is told in late Long-Frontier monasteries and courier houses built beside roads that were once deliberately closed. Its survival does not make every singer's version a complete account of the event.
+It is told in late Long-Frontier monasteries and courier houses built beside roads that were once deliberately closed.
 
 ## The tale
 
@@ -47,12 +45,6 @@ Monastic tellers say the first predictions were a trap. Courier families insist 
 ## What remains
 
 Sealed letters hang in open cages along several abandoned routes. Wind may touch them; hands may not.
-
-## History and belief
-
-The practice, landscape or physical object described here has a place in the present world. Statements that it is the original relic, that a voice is the original dead person, or that a victory proves divine approval belong to the tradition unless a separate history establishes them.
-
-Names, precise sites and competing supernatural claims may remain uncertain without making the tradition placeless.
 
 ## Read onward
 

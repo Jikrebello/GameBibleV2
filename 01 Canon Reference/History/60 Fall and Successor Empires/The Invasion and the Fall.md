@@ -14,7 +14,7 @@ tags: []
 ---
 # The Invasion and the Fall
 
-The Fall was the destruction of unified Atherian government, not the disappearance of its people or civilization. Qahirid military reform, imperial exhaustion, failed frontier strategy, and a capital unable to distinguish ceremony from readiness made the catastrophe possible.
+The Fall was the destruction of unified Atherian government. Qahirid military reform, imperial exhaustion, failed frontier strategy, and a capital unable to distinguish ceremony from readiness made the catastrophe possible.
 
 ## The Last Court
 

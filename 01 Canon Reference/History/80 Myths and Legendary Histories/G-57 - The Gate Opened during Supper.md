@@ -18,13 +18,11 @@ aliases: ["The Gate Opened during Supper"]
 
 **The Gate Opened during Supper** is a regional foundation tradition which compresses several southern betrayals committed under guest-right into one night at a proto-Atherian river gate. Its enduring consequence is the shared-meal peace: once host and traveller publicly eat together, neither may attack, detain or secretly admit armed companions until the visit is formally ended.
 
-> **Stories told.** The local telling and the material or customary remainder below are established. A claimed original object, miraculous response, famous identity or supernatural explanation is not authenticated merely by this article.
-
 ## Historical setting
 
-**c. 2050–1900 BR.** proto-Atherian river-gate settlement belt. This tradition belongs to [[Age of Scattering]]; its cultural bearers are Ark-derived and neighbouring Orphaned communities.
+**c. 2050–1900 BR.** Proto-Atherian river-gate settlement belt. This tradition belongs to [[Age of Scattering]]; its cultural bearers are Ark-derived and neighbouring Orphaned communities.
 
-It is told in proto-Atherian war-settlement country and among descendants of the gate's earlier inhabitants. Its survival does not make every singer's version a complete account of the event.
+It is told in proto-Atherian war-settlement country and among descendants of the gate's earlier inhabitants.
 
 ## Historical basis
 
@@ -55,12 +53,6 @@ Victors say the host ruler planned betrayal first. Host-descendant songs say thi
 ## What remains
 
 An old repaired gate contains hand and finger impressions from several periods. At the private feast, diners leave their weapons outside and formally announce when guest-peace has ended.
-
-## History and belief
-
-The practice, landscape or physical object described here has a place in the present world. Statements that it is the original relic, that a voice is the original dead person, or that a victory proves divine approval belong to the tradition unless a separate history establishes them.
-
-Names, precise sites and competing supernatural claims may remain uncertain without making the tradition placeless.
 
 ## Read onward
 

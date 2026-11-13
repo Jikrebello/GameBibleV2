@@ -18,8 +18,6 @@ The **White Measure** is the name given to a Qahuri mortuary discipline that tre
 
 Successful founders remained the same human persons after bodily death. Their private realms allowed them to counsel descendants, send proxies and lease shelter, knowledge or power. This made them Patrons of the Egg White and liches in the older sense of the word: human souls deliberately held from their proper road.
 
-The final rite intercepted the soul before it reached the Boatman and postponed judgement for as long as the binding endured. When the true binding ended, the soul resumed its passage.
-
 ## Teaching and discipline
 
 House-Builders taught that uncontrolled appetite scattered a person's life. Food, touch, sex, anger, waste and careless generosity created claims through which the world divided the self. Discipline gathered the person into one design. Wealth acquired without indulgence supplied ordered substance from which the final house could be made.
@@ -42,7 +40,7 @@ A founder became a Patron once the realm could lease something beyond itself. Se
 
 ## Meresha and the Court of Unspent Lamps
 
-**Meresha of Isethar** founded the movement during the first Twin-Reed division. She belonged to a funerary-linen household and learned to trace cloth, resin and payments across hostile crowns. During the famine of 1468 BR, she financed grain boats and took workshop shares from families unable to repay her. Her stores fed labourers and enlarged her authority over them.
+**Meresha of Isethar** founded the movement during the first Twin-Reed division. She belonged to a funerary-linen household and learned to trace cloth, resin and payments across hostile crowns. During the famine of about 1468 BR, she financed grain boats and took workshop shares from families unable to repay her. Her stores fed labourers and enlarged her authority over them.
 
 Meresha studied a damaged Ishkatari receiving plate which reacted to personal names, precious metals and the arrangement of rooms around a corpse. She concluded that a disciplined human could make body and estate into one anchor. Her earliest teaching praised provision and condemned heirs who stripped tombs. Later instruction treated charity, unregulated touch and independent dependants as threats to the final house.
 
@@ -62,7 +60,7 @@ Khaseret offered merchants secure storage and knowledge of dangerous routes. She
 
 The Aramen empire gave White Measure houses access to tribute, captives and distant materials. **Tamekha Rasen**, a physician, metal contractor and royal lender, built the **Copper Orchard** outside Tenaret. Her clinics treated soldiers and labourers. Her workshops improved the mineral preparations used in successful rites and killed prisoners in concealed experiments.
 
-Tamekha died in 916 BR. Her Second House contained ordered clinics, stores and trees with copper leaves. In 903 BR, its managers diverted grain promised to tomb workers in order to cast more leaves and repair two failing rooms. The workers' stoppage forced the living estate to delay the Patron's demands.
+Tamekha died around 916 BR. Her Second House contained ordered clinics, stores and trees with copper leaves. In 903 BR, its managers diverted grain promised to tomb workers in order to cast more leaves and repair two failing rooms. The workers' stoppage forced the living estate to delay the Patron's demands.
 
 Tamekha remembered the stoppage as an attack upon her body. She withheld medical dreams from descendants of its leaders. Workshop songs celebrated hungry workers who made a dead millionaire wait.
 
@@ -80,7 +78,7 @@ The counterfeit revealed the movement's central weakness. Speech, accurate memor
 
 Second Houses required company. Spouses, lovers, scribes, musicians, physicians and servants entered the rites. Some chose to remain with people they loved. Others consented under slavery, debt, childhood dependence or fear of abandonment. Priests treated these circumstances as equivalent.
 
-Successfully bound attendants remained complete human persons. They could love the founder, resent the binding, form factions and attempt escape. Others died normally and were represented by residue or copied household roles. A beautiful Second House might therefore contain prisoners, new residue-born minds and convincing imitations of people who had gone to judgement centuries before.
+Successfully bound attendants could love the founder, resent the binding, form factions and attempt escape. Others died normally and were represented by residue or copied household roles. A beautiful Second House might therefore contain prisoners, new residue-born minds and convincing imitations of people who had gone to judgement centuries before.
 
 Some Patrons sought replacement inhabitants through marriage, employment or adoption. Others abducted descendants whose voices and gestures resembled a missing family member. The most powerful established satellite chambers through funerary objects carried into distant countries.
 
@@ -88,9 +86,7 @@ Some Patrons sought replacement inhabitants through marriage, employment or adop
 
 Second-House Patrons competed over agents, routes and the material anchoring their realms. Meresha favoured household continuity. Khaseret pursued distant correspondences and scattered cargo. Tamekha sought bodies, medical knowledge and completion of her great estate. Their rivalries never formed a unified dead kingdom.
 
-A Greed Mask benefited when separate houses accepted one standard of value and praise. Nemeret's counterfeit encouraged the Patrons to join their realms into an imagined city ruled by the greatest proprietor. This was an attempt to enlarge an Idol feeding system. It created no new Idol and no union of human souls.
-
-The House-Builders remained distinct from Ishkatar's Estate Dead and Gilded Wardens. Estate Dead were corpses moved by imposed roles after the original souls departed. Wardens were constructs. A Second-House Patron was the original self-bound human person.
+A Greed Mask benefited when separate houses accepted one standard of value and praise. Nemeret's counterfeit encouraged the Patrons to join their realms into an imagined city ruled by the greatest proprietor.
 
 ## Release and judgement
 
@@ -99,8 +95,6 @@ Destroying a proxy or one funerary object weakened a Patron without necessarily 
 When the soul-cage opened, the founder resumed the human road. Repentance was possible because the Patron remained human. It did not restore people killed to build the estate or free attendants whose bindings remained intact. A founder might sincerely regret slavery and still postpone judgement through fear.
 
 The White Measure lost public authority after the Covenant became established in the Basin. Covenant teachers condemned deliberate soulbinding and denied that wealth could govern the soul-road. Qahuri families still preserve fragments of the movement's older respectability in controlled diets, untouched burial linen, distrust of unpurposed gifts and the wish to keep property within one house for ever.
-
-The ancient existence of Meresha, Khaseret, Tamekha and Nemeret's counterfeit is established. Their accessibility and condition in 1360 remain unknown.
 
 ## Further reading
 

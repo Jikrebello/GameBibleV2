@@ -91,6 +91,9 @@ No Saint or heavenly combatant joins this pre-Redeemer conflict. Menhir interven
 
 ## The gateway cult and final war
 
+> [!note] Amended November 2026
+> The limits below on the cult's Mask and on the salting are superseded where they restrict consequence rather than identity; see the Consequence Rule in [[The Divergence Pass — Torque Register]].
+
 The ancestral provider is **one dependent Gluttony Mask**. Its bronze face, serving chambers and institutional supply of victims support a local manifestation. It encourages another offering whenever protection fails. Children are killed and bodily offerings consumed. Their complete human souls are neither eaten into the Mask nor reproduced in the image. The rite's ordinary fires create no infernal fire realm; Hell's existing elemental character is unchanged.
 
 The capital's priests, supplying officials and protective civic faction are culpable actors. Some elites offer their own children; others purchase children or use captives. Internal opponents, hiding families, escaped temple workers and defecting towns materially contribute to intervention. Ending child sacrifice is an established **major cause** of the final Atherian war, alongside strategic, commercial and territorial motives. It is not merely a retrospective pretext.
@@ -121,6 +124,9 @@ The transplantation changes geography, ancestry, political development, supernat
 Three shorter palace encounters remain unpromoted research: the abandoned landing, returning hostage and two brothers' winter. They receive no event in the dated chronology. Their next assessment belongs to the individual heroic-cast development after this integration, where they must supply a distinct local life rather than obligatory preliminaries to High Harbour. The optional gateway reformer's civilian career, additional Menhir navigation bargain and other supernatural possibilities likewise remain unselected; the approved principal histories function without them.
 
 ## Collision review
+
+> [!note] Amended November 2026
+> The ruling that the final gateway siege has no causal connection to Orthea is reopened under the Consequence Rule in [[The Divergence Pass — Torque Register]].
 
 - Arsuvan, Arveth and Lethra retain their established identities and dates. High Harbour's detached house is separate; the earliest Deep Hill City builders remain unknown.
 - Avren, Caleth, Ravessa, Ilaron and Tarsenna retain separate lives. Neither the siege nor the maritime wars create Caleran's foundation, Common Sky or twelve-city Compact.

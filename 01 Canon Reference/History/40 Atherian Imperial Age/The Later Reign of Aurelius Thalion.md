@@ -30,7 +30,7 @@ The gateway kingdom was annexed after Samyra's death. Thalion preserved Sarqen's
 
 Talven and Lethia, Samyra's young children by Darion Velsar, remained in Evara's household at Caleran. They received education appropriate to their birth and were displayed at occasions celebrating reconciliation. They were also hostages whose lives discouraged distant supporters from raising a royal restoration.
 
-Talven later accepted an imperial appointment in Sarqen. Lethia endowed a house for women and children displaced by military settlement. Their work gave surviving royal relationships a place in the new province. Sarqen remained conquered, and their brother Amesar remained dead by Thalion's order.
+Talven later accepted an imperial appointment in Sarqen. Lethia endowed a house for women and children displaced by military settlement. Sarqen remained conquered, and their brother Amesar remained dead by Thalion's order.
 
 ## The ruler's household
 
@@ -46,7 +46,7 @@ Governors now required imperial appointment and could be removed before their pe
 
 Thalion placed Astaroth's priesthood prominently in ceremonies of victory and imperial command. Seluc Varroth retained the senior Common Sky office, which prevented the new order from appearing to abolish every republican dignity. Festivals presented the ruler as the guardian of a public harmony older than his own victory.
 
-The emperor accepted titles and images linking him to celestial order. These political and religious honours magnified a living human ruler. Thalion retained an ordinary human soul, and responsibility for his victories and crimes remained human.
+The emperor accepted titles and images linking him to celestial order. These political and religious honours magnified a living human ruler.
 
 ## Death and succession
 

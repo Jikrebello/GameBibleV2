@@ -18,8 +18,6 @@ aliases: ["The Last Cart"]
 
 **The Last Cart** is an Exodus tradition about an old-cult faction which separated from the Prophet's people in the [[Great Glass Desert]]. Its members attempted to restore forms of worship inherited from the Giant courts and refused to continue under the Lord's guidance. Their abandoned final wagon became the central image through which later Ark-descended communities remembered apostasy, fear and the danger of claiming an imperial power as deliverer.
 
-> **Stories told.** The local telling and the material or customary remainder below are established. A claimed original object, miraculous response, famous identity or supernatural explanation is not authenticated merely by this article.
-
 ## Historical setting
 
 **c. 2300–2165 BR; Exodus and Glass Sojourn.** Great Glass Desert crossing camps. This tradition belongs to [[Age of Exodus]]; its cultural bearers are the One Glass People and later Ark descendants.
@@ -53,12 +51,6 @@ Some tellers portray every follower as a willing apostate. Others remember child
 ## What remains
 
 A damaged wheel-shaped loaf is still broken in some departure rites. The custom is accompanied by warnings not to confuse a person who cannot travel with one who has chosen a rival master.
-
-## History and belief
-
-The practice, landscape or physical object described here has a place in the present world. Statements that it is the original relic, that a voice is the original dead person, or that a victory proves divine approval belong to the tradition unless a separate history establishes them.
-
-Names, precise sites and competing supernatural claims may remain uncertain without making the tradition placeless.
 
 ## Read onward
 

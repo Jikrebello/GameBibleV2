@@ -16,13 +16,11 @@ aliases: ["The House That Could Not Be Returned"]
 ---
 # The House That Could Not Be Returned
 
-> **Stories told.** The local telling and the material or customary remainder below are established. A claimed original object, miraculous response, famous identity or supernatural explanation is not authenticated merely by this article.
-
 ## Historical setting
 
 **905–1052 AR; Fall and Long Reconquest.** Thalmyric refuge mountains and reconquered provincial towns. This tradition belongs to [[The Fall and the Long Reconquest]]; its cultural bearers are refugees, occupation-born households and returners.
 
-It is told in Reconquest towns where returning families, occupation-born households and keepers of public works still share streets. Its survival does not make every singer's version a complete account of the event.
+It is told in Reconquest towns where returning families, occupation-born households and keepers of public works still share streets.
 
 ## The tale
 
@@ -47,12 +45,6 @@ Returner songs call the steward an informer first and caretaker second. Well fam
 ## What remains
 
 An old key is passed around the well before disputed houses change hands. Every present resident touches it before any door is opened.
-
-## History and belief
-
-The practice, landscape or physical object described here has a place in the present world. Statements that it is the original relic, that a voice is the original dead person, or that a victory proves divine approval belong to the tradition unless a separate history establishes them.
-
-Names, precise sites and competing supernatural claims may remain uncertain without making the tradition placeless.
 
 ## Read onward
 

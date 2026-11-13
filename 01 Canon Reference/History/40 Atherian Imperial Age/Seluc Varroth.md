@@ -38,15 +38,13 @@ Istran Melvo's defeat of the sea-heir Ardel Veyr in 355 brought surrendered forc
 
 Thalion approached the troops with payment and assurances of continued service. Varroth's own followers accepted those terms, leaving him unable to enforce his claim. He surrendered military command and withdrew to the resources of his household.
 
-The episode ended without the destruction of his family. His survival depended on relinquishing a contest he could no longer sustain.
-
 ## First Celebrant of the Common Sky
 
-Varroth retained the office of First Celebrant of the Common Sky, a senior position responsible for public ceremony and the coordination of established priestly duties. Its authority belonged to Atherian religious life and remained distinct from military command.
+Varroth retained the office of First Celebrant of the Common Sky, a senior position responsible for public ceremony and the coordination of established priestly duties.
 
 The office gave him a recognised place in occasions that the new ruler wished to present as orderly continuations of public life. Varroth could appear beside men who had taken his soldiers and provinces. His precedence also limited how easily Thalion could reshape ceremony around his own household.
 
-Astaroth's elevation in imperial rites changed the balance within public religion around 350 BR. Varroth continued in office while particular ceremonies of victory and command received new emphasis. The arrangement illustrates how the imperial settlement retained offices whose holders had participated in a different distribution of power.
+Astaroth's elevation in imperial rites changed the balance within public religion around 350 BR. Varroth continued in office while particular ceremonies of victory and command received new emphasis.
 
 ## Further reading
 

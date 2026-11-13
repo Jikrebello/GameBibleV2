@@ -33,7 +33,7 @@ Refugees established or enlarged tower communities, host-city quarters, Sea Flee
 
 ## Inherited Wound
 
-Church cultures remember the Jirahar through Isfir, suspicion, and collective blame. The Jirahar remember that a persecuted faith became an imperial persecutor. Sincere repentance and genuine protection exist, but neither erases the legal and liturgical inheritance of the violence.
+Church cultures remember the Jirahar through Isfir, suspicion, and collective blame. The Jirahar remember that a persecuted faith became an imperial persecutor. Sincere repentance and genuine protection exist alongside the legal and liturgical inheritance of the violence.
 
 ## Navigation
 

@@ -16,13 +16,11 @@ aliases: ["The Marks of Necessary Release"]
 ---
 # The Marks of Necessary Release
 
-> **Stories told.** The local telling and the material or customary remainder below are established. A claimed original object, miraculous response, famous identity or supernatural explanation is not authenticated merely by this article.
-
 ## Historical setting
 
 **c. 1850–1725 BR.** Tidewood–Gale-Crown watershed. This tradition belongs to [[Age of Hearths and First Kings]]; its cultural bearers are Folk, related Ättar and early Atherian tellers.
 
-It is told among related Folk and Ättar winter communities formed during the Scattering and early Hearths. Its survival does not make every singer's version a complete account of the event.
+It is told among related Folk and Ättar winter communities formed during the Scattering and early Hearths.
 
 ## The tale
 
@@ -47,12 +45,6 @@ Folk songs make the woman a widow; Ättar songs make her the compact ruler's sis
 ## What remains
 
 Release cuts appear on harness, burial cloth and barn lintels before midwinter stores are opened or spring bodies are buried.
-
-## History and belief
-
-The practice, landscape or physical object described here has a place in the present world. Statements that it is the original relic, that a voice is the original dead person, or that a victory proves divine approval belong to the tradition unless a separate history establishes them.
-
-Names, precise sites and competing supernatural claims may remain uncertain without making the tradition placeless.
 
 ## Read onward
 

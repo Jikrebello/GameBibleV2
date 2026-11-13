@@ -16,15 +16,15 @@ tags: [world-historical-atlas, giants, vathra, great-unbinding]
 
 **Vathra** was a confederated Giant kingdom whose rulers carried their courts through the Material sky. Its crown-cities travelled above the northern dry belt during the last centuries of Giant rule. Human subjects maintained the wells, anchor towers, herds, workshops and roads that allowed those cities to move. The War of Altitude and the human-led Great Unyoking destroyed the kingdom between approximately 2300 and 2260 BR.
 
-Vathra ranked among the important lesser crowns of the Giant world. It never formed a sixth Imperial Horizon. Its rulers traded with several horizons, married into other Giant houses and supplied cavalry, beasts, captives and mercenaries to neighbouring powers.
+Vathra ranked among the important lesser crowns of the Giant world. Its rulers traded with several horizons, married into other Giant houses and supplied cavalry, beasts, captives and mercenaries to neighbouring powers.
 
 ## The First Road-Mother
 
-Vathran royal genealogy began with the **First Road-Mother**, a Titan-Firstborn conceived through a bounded manifestation of Hecatara and a human woman. Hecatara did not enter the conception in her full sovereignty. The Firstborn possessed Titan continuity rather than a human soul.
+Vathran royal genealogy began with the **First Road-Mother**, a Titan-Firstborn conceived through a manifestation of Hecatara and a human woman.
 
 The oldest accounts credited the Road-Mother with opening a seasonal sky route, moving a royal herd during famine and defeating a Giant ruler of the western wells. The first two deeds preserve recognisable route effects. Several dynasties claimed the third under incompatible names. Her personal name and final fate are unknown.
 
-Later kings turned her achievement into a doctrine of royal ownership. They taxed roads they had not built, demanded children from communities outside their protection and treated escape as theft from the crown. A route opening under its proper conditions gave them practical power; it supplied no moral title to land or people.
+Later kings turned her achievement into a doctrine of royal ownership. They taxed roads they had not built, demanded children from communities outside their protection and treated escape as theft from the crown.
 
 ## The aerial economy
 
@@ -37,13 +37,13 @@ Four systems sustained city flight.
 - **Route anchors** joined the city to marked fields, towers and mounds through Hecatara correspondences.
 - **Human operators** read weather, tied the mantles, moved ballast, loaded water and repaired the foundations.
 
-Repeated travel altered the country below. A road lengthened, a stream shifted or a familiar approach returned a traveller to the place from which they had set out. Astaroth-related structural knowledge helped builders identify stress within the lift bodies. These several supernatural relationships remained distinct.
+Repeated travel altered the country below. A road lengthened, a stream shifted or a familiar approach returned a traveller to the place from which they had set out. Astaroth-related structural knowledge helped builders identify stress within the lift bodies.
 
 Sky-carpets used the same system at a smaller scale. Courier cloths carried messengers. Tribute carpets moved goods and animals. War carpets carried raiders between platforms. Away from a prepared current, most became heavy textiles. A damaged carpet might retain its former destination and carry a rider towards a prison or ruined anchor.
 
 ## Rank and government
 
-Vathran dynasties described themselves through storm, cloud and tether ranks. These were political and magical cultures within one Giant genealogy, not separate Giant species.
+Vathran dynasties described themselves through storm, cloud and tether ranks. These were political and magical cultures within one Giant genealogy.
 
 The **storm houses** occupied the highest cities and controlled the route calendar. Their courts cultivated weather sight, long hearing and lightning craft. The **cloud houses** governed tribute, diplomacy and most commerce from lower routes. **Tether houses** controlled landing fields, wells and pasture. Some tether houses were Giant dynasties; others were giant-blooded or ordinary human families elevated through service.
 
@@ -121,9 +121,9 @@ Objects acquired new meanings. Pressure mantles became tents and burial covers. 
 
 ## Historical limits
 
-The Great Unyoking formed one regional theatre of the Great Unbinding. Its rebels did not cause the collapse of the Five Imperial Horizons, and no human leader inherited the Great Prophet's commission. A commissioned heavenly act may have bound one Titan or ended one recurrence system during the wider judgement. Human workers overthrew Vathra through their own knowledge, alliances and violence.
+The Great Unyoking formed one regional theatre of the Great Unbinding. Human workers overthrew Vathra through their own knowledge, alliances and violence.
 
-The First Road-Mother's fate remains unknown. Later sightings of Sairat, Molqara, Dazhur or Yazuran prove no surviving dynasty. Vathran flight occurred within the Material sky and had no connection to Nythalum's physical lunar programme.
+The First Road-Mother's fate remains unknown. Later sightings of Sairat, Molqara, Dazhur or Yazuran prove no surviving dynasty.
 
 ## Further reading
 

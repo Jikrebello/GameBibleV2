@@ -25,11 +25,11 @@ After the Ascension and the gift of the Holy Flame at Qiryath, Calira accompanie
 
 ## The Dormition
 
-She died — or in the universal phrase, **fell asleep** — at Veridun Minor around 55 AR, an old woman, with the surviving Companions gathered (tradition says Elsin walked out of the Folk borderlands unsummoned and arrived the same hour). On the third day her tomb was found open and empty, filled with the scent of bread and cedar. What this means is, characteristically, disputed.
+She died — or in the universal phrase, **fell asleep** — at Veridun Minor around 55 AR, an old woman, with Solana, the last living Companion, and the households of the dead Companions gathered (tradition says Elsin, three years in his secret grave, was seen walking out of the Folk borderlands unsummoned and arrived the same hour). On the third day her tomb was found open and empty, filled with the scent of bread and cedar. What this means is, characteristically, disputed.
 
 ## The Title and the Council of Halmenth (411 AR)
 
-The fight over her title is the faith's Ephesus. One party taught she was **Fire-Bearer** (*she bore the Flame itself*: the child in her womb was already the uncreated Fire's dwelling); the party of **Bishop Nasriel of Qabir** taught she was **Man-Bearer** (*she bore the vessel*: the man Isfir, whom the Fire crowned at his ministry's beginning — "the lamp was made in her; the Fire descended later"). The **Council of Halmenth (411 AR)** condemned the Man-Bearer teaching: to divide the vessel from the Fire, the council ruled, is to make the Redeemer a possessed man rather than the Flame made flesh.
+One party taught she was **Fire-Bearer** (*she bore the Flame itself*: the child in her womb was already the uncreated Fire's dwelling); the party of **Bishop Nasriel of Qabir** taught she was **Man-Bearer** (*she bore the vessel*: the man Isfir, whom the Fire crowned at his ministry's beginning — "the lamp was made in her; the Fire descended later"). The **Council of Halmenth (411 AR)** condemned the Man-Bearer teaching: to divide the vessel from the Fire, the council ruled, is to make the Redeemer a possessed man rather than the Flame made flesh.
 
 **Nasriel's communion did not die.** It fled north into the desert cities beyond imperial reach, and when the Covenant conquered those lands it survived as a sealed-contract client faith — see [[The Velian Church]]. The heretics outlived the empire that condemned them.
 
@@ -41,9 +41,9 @@ Maximal veneration, minimal definition. She is the Fire-Bearer, the Ever-Sealed,
 
 ### Eclessia: the Blessed Mother, Defined
 
-The same Fire-Bearer title, plus centuries of juridical definition. The Sanctum has dogmatized the **Unkindled Conception** (she was conceived "without ash" — untouched by the fall's soot, prepared as a pure vessel; defined 1183 AR after two centuries of scholastic war) and the **Rising of the Mother** (bodily assumption, defined 1204 AR). Eclessian piety counts prayers on **ember-bead chaplets**, crowns her images in May-analog processions, and — decisively — accepts **tested apparitions**:
+The same Fire-Bearer title, plus centuries of juridical definition. The Sanctum has dogmatized the **Unkindled Conception** (she was conceived "without ash" — untouched by the fall's soot, prepared as a pure vessel; defined 1183 AR after two centuries of scholastic war) and the **Rising of the Mother** (bodily assumption, defined 1204 AR). Eclessian piety counts prayers on **ember-bead chaplets**, crowns her images in processions, and — decisively — accepts **tested apparitions**:
 
-- **The Spring at Sarnwell (1311 AR)** — she appeared to a crippled washerwoman; the spring that opened there passes every relic-court test; the healing registry is the Church's proudest modern archive. *(Lourdes.)*
+- **The Spring at Sarnwell (1311 AR)** — she appeared to a crippled washerwoman; the spring that opened there passes every relic-court test; the healing registry is the Church's proudest modern archive.
 - **The False Lady of Bruckmoor (1243 AR)** — a weeping apparition drew forty years of pilgrimage before the Inquisition of Saint Malveris proved it an **Idol-feeding operation**: an Envy-architecture harvesting the devotion of the desperate. The site was burned and salted. Bruckmoor is why the relic courts test everything, and what Veridun cites whenever Eclessia authenticates a new field-miracle.
 - **The Lady of the Sloe-Field at Vessing (1352 AR)** — three shepherd children, a figure of banked fire, and a message no two of them report identically; one version touches the Kindling Question itself. **The Sanctum has not ruled.** Eight years of silence: confirmation would inflame Veridun and the Freeflame; condemnation would break the marches' piety; and everyone remembers Bruckmoor. The pending case sits in Alistair III's registry beside the Unburnt Psalter, his vault of things too dangerous to open.
 

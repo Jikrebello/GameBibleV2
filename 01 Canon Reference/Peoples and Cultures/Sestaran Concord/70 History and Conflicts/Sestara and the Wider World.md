@@ -37,7 +37,7 @@ Sestaran factors seek timber, amber, medicines, guides, resin, rare plants, and 
 
 ## Thalmyria and Eclessia
 
-Both empires borrow money, buy arms, hire ships, contest church jurisdiction, and fear a rival controlling the peninsula. Vorthara's role in 907 binds it to Caldrian history without making it Eclessian. Thalmyria remembers Sestaran aid, wartime profiteering, and debt in the same breath. Neither empire can conquer the Concord cheaply without driving the other cities into automatic muster.
+Both empires borrow money, buy arms, hire ships, contest church jurisdiction, and fear a rival controlling the peninsula. Vorthara's role in 907 binds it to Caldrian history. Thalmyria remembers Sestaran aid, wartime profiteering, and debt in the same breath. Neither empire can conquer the Concord cheaply without driving the other cities into automatic muster.
 
 ## Navigation
 

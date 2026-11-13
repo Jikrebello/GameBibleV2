@@ -20,9 +20,9 @@ aliases: ["The Company with No Charter"]
 
 ## Historical setting
 
-**1297–1360 AR; Reformation and unfinished present.** known-world towns and Anchor-facing harbours. This tradition belongs to [[The Age of Held Proofs]]; its cultural bearers are living townspeople and conflicting current witnesses.
+**1297–1360 AR; Reformation and unfinished present.** Known-world towns and Anchor-facing harbours. This tradition belongs to [[The Age of Held Proofs]]; its cultural bearers are living townspeople and conflicting current witnesses.
 
-It is told in 1360 AR taverns, caravan yards and neighbourhoods that have begun arguing whether the group exists at all. Its survival does not make every singer's version a complete account of the event.
+It is told in 1360 AR taverns, caravan yards and neighbourhoods that have begun arguing whether the group exists at all.
 
 ## The tale
 
@@ -49,8 +49,6 @@ Because the events are recent, versions differ by gossip rather than tradition. 
 A scorched bird cage hangs above the repaired lodging. Locals place unsigned scraps inside when they need help but do not know whom to trust.
 
 ## History and belief
-
-The practice, landscape or physical object described here has a place in the present world. Statements that it is the original relic, that a voice is the original dead person, or that a victory proves divine approval belong to the tradition unless a separate history establishes them.
 
 The tale stops at the present.
 

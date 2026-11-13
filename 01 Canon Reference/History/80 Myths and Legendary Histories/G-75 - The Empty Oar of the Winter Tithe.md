@@ -16,13 +16,11 @@ aliases: ["The Empty Oar of the Winter Tithe"]
 ---
 # The Empty Oar of the Winter Tithe
 
-> **Stories told.** The local telling and the material or customary remainder below are established. A claimed original object, miraculous response, famous identity or supernatural explanation is not authenticated merely by this article.
-
 ## Historical setting
 
-**c. 230–310 AR.** western Kedravan fishing coast before Saltborn ethnogenesis. This tradition belongs to [[The Conversion of the Empire]]; its cultural bearers are temple descendants and early Church communities.
+**c. 230–310 AR.** Western Kedravan fishing coast before Saltborn ethnogenesis. This tradition belongs to [[The Conversion of the Empire]]; its cultural bearers are temple descendants and early Church communities.
 
-It is told on one western Kedravan fishing coast from the late Underground into early Legalization. Its survival does not make every singer's version a complete account of the event.
+It is told on one western Kedravan fishing coast from the late Underground into early Legalization.
 
 ## The tale
 
@@ -47,12 +45,6 @@ Court ballads praise the compact's saved ships. Church Lives claim the fisher ac
 ## What remains
 
 Winter boats carry one deliberately empty rowing place. Nobody may be named as its substitute, and an empty oar is laid across it.
-
-## History and belief
-
-The practice, landscape or physical object described here has a place in the present world. Statements that it is the original relic, that a voice is the original dead person, or that a victory proves divine approval belong to the tradition unless a separate history establishes them.
-
-Names, precise sites and competing supernatural claims may remain uncertain without making the tradition placeless.
 
 ## Read onward
 

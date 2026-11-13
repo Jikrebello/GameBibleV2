@@ -20,9 +20,9 @@ aliases: ["The Armour Worn by Strangers"]
 
 ## Historical setting
 
-**post-Giant local generations; not securely synchronized to AR.** far-distant cypress commonwealth and its adjoining Egg White courts. This tradition belongs to [[Distant Lands and Otherworld Histories]]; its cultural bearers are the uncontacted Orphaned peoples of the Last Houses.
+**post-Giant local generations; not securely synchronized to AR.** Far-distant cypress commonwealth and its adjoining Egg White courts. This tradition belongs to [[Distant Lands and Otherworld Histories]]; its cultural bearers are the uncontacted Orphaned peoples of the Last Houses.
 
-It is told among far-distant mobile households whose defenders inherit altered armour and unfinished duties. Its survival does not make every singer's version a complete account of the event.
+It is told among far-distant mobile households whose defenders inherit altered armour and unfinished duties.
 
 ## The tale
 
@@ -49,8 +49,6 @@ Custodian epics insist one spirit continued through every wearer. Bearer songs l
 Visibly resized armour is danced by several living claimants. No performer wears the whole suit or the dead defender's face.
 
 ## History and belief
-
-The practice, landscape or physical object described here has a place in the present world. Statements that it is the original relic, that a voice is the original dead person, or that a victory proves divine approval belong to the tradition unless a separate history establishes them.
 
 The country's local generations supply the order of events; an exact AR conversion remains unknown.
 

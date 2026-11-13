@@ -56,7 +56,7 @@ The Feast of the Silent Flame is observed in parts of Eclessia on the twenty-sev
 > _“The sky held its breath.”_  
 > _“Let the stars watch. We do not fear their gaze.”_
 
-Velmion founded no order during his lifetime. The monks' claim of descent expresses spiritual inheritance rather than an unbroken institution from his prison.
+The monks claim descent from Velmion as a spiritual inheritance; he founded no order during his lifetime.
 
 ## Historical Importance
 

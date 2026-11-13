@@ -16,13 +16,11 @@ aliases: ["The Houses Unhoused before the Gate Turns"]
 ---
 # The Houses Unhoused before the Gate Turns
 
-> **Stories told.** The local telling and the material or customary remainder below are established. A claimed original object, miraculous response, famous identity or supernatural explanation is not authenticated merely by this article.
-
 ## Historical setting
 
 **c. 800–350 BR; Age of Stars.** Atherian roads and city leagues. This tradition belongs to [[Age of Stars]]; its cultural bearers are Atherian workers and later provincial inheritors.
 
-It is told in civic threshold rites whose oldest form may reach from the Age of Stars into later imperial use. Its survival does not make every singer's version a complete account of the event.
+It is told in civic threshold rites whose oldest form may reach from the Age of Stars into later imperial use.
 
 ## The tale
 
@@ -47,12 +45,6 @@ Church tellers call the brightness an angel under a brief commission. Secular ve
 ## What remains
 
 Before a disgraced sanctuary can be reused, roof tiles are carried out in public and replacement shelter must already stand.
-
-## History and belief
-
-The practice, landscape or physical object described here has a place in the present world. Statements that it is the original relic, that a voice is the original dead person, or that a victory proves divine approval belong to the tradition unless a separate history establishes them.
-
-Names, precise sites and competing supernatural claims may remain uncertain without making the tradition placeless.
 
 ## Read onward
 

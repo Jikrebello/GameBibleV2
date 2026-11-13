@@ -23,7 +23,7 @@ Arqesh was an early mortal empire of levees, walled river capitals, deportation 
 
 Qiryath refused an Arqeshite demand to place the royal image within its sanctuary and surrender hostages from its priestly houses. After a long siege, Arqesh entered the city, stripped the sanctuary, broke the upper tower, and deported judges, engineers, artisans, singers, and leading families to imperial river cities.
 
-Road companies carried surviving scrolls away. Rural households remained around the ruin. Other tower towns became independent centers rather than abandoning the Path.
+Road companies carried surviving scrolls away. Rural households remained around the ruin. Other tower towns became independent centers.
 
 ## Exile
 

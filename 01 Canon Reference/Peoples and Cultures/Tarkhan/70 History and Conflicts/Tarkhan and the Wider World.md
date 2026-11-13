@@ -13,7 +13,7 @@ tags: []
 ---
 # Tarkhan and the Wider World
 
-Tarkhan societies connect the grasslands and dry belt to surrounding empires through seasonal movement, warfare, trade and military service. Wells and declared passage prices govern their most important frontiers, while horses, camels, hides, escorts and captives move through Covenant and Sestaran markets. Abroad, Tarkhan people appear under many conditions—as clan envoys, hired cavalry, caravan guards, traders, slaves and exiles—and no single Horde speaks for them all.
+Tarkhan societies connect the grasslands and dry belt to surrounding empires through seasonal movement, warfare, trade and military service. Wells and declared passage prices govern their most important frontiers, while horses, camels, hides, escorts and captives move through Covenant and Sestaran markets. Abroad, Tarkhan people appear under many conditions—as clan envoys, hired cavalry, caravan guards, traders, slaves and exiles.
 
 ## Covenant
 
@@ -25,7 +25,7 @@ Castara buys the annual Ash Road Peace. Vardessa hosts horse fairs and protected
 
 ## Jirahar
 
-Migdal Melach and Road Companies negotiate passage through old word-law. Jirahar caravans pay declared prices, hire escorts, trade animals, and sometimes shelter defeated camps. Way-Gates cannot replace ordinary travel to markets without anchors.
+Migdal Melach and Road Companies negotiate passage through old word-law. Jirahar caravans pay declared prices, hire escorts, trade animals, and sometimes shelter defeated camps.
 
 ## Eclessia and Thalmyria
 
@@ -33,7 +33,7 @@ Eclessian eastern roads meet Ash traders, raiders, mercenaries, and displaced ca
 
 ## Folk and Ättar
 
-Folk and Tarkhan exchange animals, metal, guides, medicines, and feud stories at the edge of forest and grass. Ättar contacts bring horses, mercenary work, distant goods, and occasional slave exchange. Neither relationship creates a single stable frontier.
+Folk and Tarkhan exchange animals, metal, guides, medicines, and feud stories at the edge of forest and grass. Ättar contacts bring horses, mercenary work, distant goods, and occasional slave exchange.
 
 ## Abroad
 

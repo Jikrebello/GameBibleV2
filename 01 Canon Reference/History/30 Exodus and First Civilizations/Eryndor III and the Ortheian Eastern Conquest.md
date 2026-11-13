@@ -16,7 +16,7 @@ tags: [history, biography, ortheia, atheria, eastern-conquest]
 
 **Eryndor III of Ortheia**, commonly called the **Far-Road King**, was an upland Atherian ruler whose campaigns transformed the eastern world between 706 and 684 BR. He inherited a trained army and a disputed hegemony over the Celestial Compact from his father, Valeron II. He destroyed the city of Olyssar when it rebelled, crossed the eastern inner sea, joined Arezan Tiravan against the Arqeshite River Empire and carried his army beyond the conquered capital. His sudden death divided the territories among rival commanders and royal houses.
 
-Eryndor belongs to an earlier political world than Teren Casvilar and Aurelius Thalion. He was a hereditary king who compelled Atherian cities to serve a royal campaign. Casvilar arose from the institutions of a mature republic, while Thalion converted victory in a civil war into lasting imperial government. The failure of Eryndor's dominion taught later Caleran writers that conquest and government were separate achievements.
+The failure of Eryndor's dominion taught later Caleran writers that conquest and government were separate achievements.
 
 ## Ortheia and Valeron II
 
@@ -46,15 +46,15 @@ When Terys fell, Eryndor's army massacred inhabitants, enslaved survivors and to
 
 ## Qahur and the Tiravan alliance
 
-Eryndor entered divided Qahur in 695 BR because his army required grain, river craft and guides. The Qahuri crowns responded separately. One recognised him with a local royal title and admitted him to a renowned oracle; another supported Arqesh; a third withheld commitment until the military result became clearer. A limited phenomenon associated with Father Sun occurred during the journey, but the surviving witnesses disagreed about its form. Eryndor encouraged the claim that the sign revealed exceptional ancestry. It gave him neither divine parentage nor authority over Qahur.
+Eryndor entered divided Qahur in 695 BR because his army required grain, river craft and guides. The Qahuri crowns responded separately. One recognised him with a local royal title and admitted him to a renowned oracle; another supported Arqesh; a third withheld commitment until the military result became clearer. Witnesses associated a sign during the journey with Father Sun but disagreed about its form. Eryndor encouraged the claim that the sign revealed exceptional ancestry.
 
 In 694 BR he allied with **Arezan Tiravan**, leader of the Vashari coalition fighting Arqesh from the east. Arezan commanded highland houses, mounted troops and relationships with rebel governors and forced workers. Eryndor supplied the larger siege army, allied fleet and money. Their treaty treated them as independent kings and divided campaigning responsibilities and captured revenue between their commands.
 
-Eryndor married **Parena Tiravan**, adult daughter of Arezan's sister Mithara. Parena acted between the two courts, received Vashari officers and Arqeshite petitioners, and protected parts of her household from rival commanders. The marriage joined the alliance without removing the different ambitions of the two kings.
+Eryndor married **Parena Tiravan**, adult daughter of Arezan's sister Mithara. Parena acted between the two courts, received Vashari officers and Arqeshite petitioners, and protected parts of her household from rival commanders.
 
 Arqesh fell in 690 BR through their converging campaigns and the action of people inside the empire. Nemeru crews carried troops across a closed channel. Forced workers opened gates. Provincial governors withheld boats and food. Arezan seized eastern roads and water stations while Eryndor pressed the capital with the fleet and principal siege force. Both armies killed inhabitants and plundered districts during the capture.
 
-The last Ubar king, Kassur III, escaped. A provincial commander killed him in 688 BR and offered the body to Eryndor. Eryndor executed the killers and gave Kassur a royal burial, presenting himself as lawful successor to the king he had pursued. He retained Arqeshite secretaries and court dress, accepted eastern officers and permitted the royal Pride Mask known as the Crowned Countenance to appear around his ceremonies. The dead Ubar kings, Eryndor and the Mask remained separate persons and powers.
+The last Ubar king, Kassur III, escaped. A provincial commander killed him in 688 BR and offered the body to Eryndor. Eryndor executed the killers and gave Kassur a royal burial, presenting himself as lawful successor to the king he had pursued. He retained Arqeshite secretaries and court dress, accepted eastern officers and permitted the Crowned Countenance to appear around his ceremonies.
 
 ## The farther roads
 
@@ -64,7 +64,7 @@ Several incidents from these years became the historical core of the Far-Road ro
 
 The army refused a farther march in 685 BR. Its veterans were exhausted, dependants had died along the supply roads and eastern recruits had no wish to carry the king beyond their own countries. No sign or royal speech broke the refusal. Eryndor began the return to Arqesh.
 
-His personal rule also carried intimate bloodshed. He ordered the death of an experienced officer after the officer's son was accused of concealing a plot. During a drunken quarrel, Eryndor killed a companion who had once saved his life. His remorse changed later behaviour and court ritual; it could not restore either man.
+His personal rule also carried intimate bloodshed. He ordered the death of an experienced officer after the officer's son was accused of concealing a plot. During a drunken quarrel, Eryndor killed a companion who had once saved his life. His remorse changed later behaviour and court ritual.
 
 ## Death and inheritance
 

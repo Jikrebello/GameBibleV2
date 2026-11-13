@@ -28,7 +28,7 @@ Villages beyond the walls supplied the city's prosperity. Grain boats arrived in
 
 Qemaret occupied the channels of the lower fan. Barges unloaded into store basins connected with roads towards the gateway coast. Foreign merchants and soldiers settled there in substantial numbers and helped the Yasharet house acquire power.
 
-The city endured the massacre of 1076 BR and recovered because its canals and workshops remained indispensable. Later poetry called it either the Foreign Queen's Nest or the Gate of Plenty. Families whose ancestors survived the conquest preserved both traditions.
+The city endured the massacre of about 1076 BR and recovered because its canals and workshops remained indispensable. Later poetry called it either the Foreign Queen's Nest or the Gate of Plenty. Families whose ancestors survived the conquest preserved both traditions.
 
 Qemaret also became the commercial centre of the White Measure. Khaseret's funerary harbour joined warehouses in the city to the House of the Returning Cargo in the Egg White. Merchants used its storage and route knowledge without necessarily accepting its funerary teaching.
 
@@ -70,17 +70,15 @@ Royal inscriptions often called all these relationships service. Their practical
 
 Manumission occurred through payment, adoption, service or a patron's decision. Freed people often remained attached to an old household through work and obligation. Their descendants could rise within cities while dynastic genealogies continued calling them outsiders.
 
-The White Measure extended these relationships beyond death. Proprietors freed some servants publicly while requiring their posthumous service as the price of training, land or protection. Other attendants chose to enter a Second House with spouses, relatives or beloved employers. The final rite treated coerced and willing service as equivalent. Successful bindings preserved distinct human souls; failures left ordinary dead, residue or imposed roles.
+The White Measure extended these relationships beyond death. Proprietors freed some servants publicly while requiring their posthumous service as the price of training, land or protection. Other attendants chose to enter a Second House with spouses, relatives or beloved employers. The final rite treated coerced and willing service as equivalent.
 
 ## Religion and the dead
 
-Villages kept river, field, household and burial observances. Some flood ceremonies addressed local Menhir manifestations or place-bound court persons concerned with water, rot, boundary or fertility. A successful inundation showed that a relationship had functioned. Kings turned that response into claims of approval which the manifestation had never offered.
+Villages kept river, field, household and burial observances. Some flood ceremonies addressed local powers concerned with water, rot, boundary or fertility. Kings turned a successful inundation into claims of approval, and royal cults arranged local powers into dynastic families.
 
-Royal cults arranged local powers into dynastic families. Pride and Greed Masks exploited tomb ownership, tribute and royal claims to possess everything useful in the Basin. A dead ruler's soul remained distinct from the statue, copied persona or office maintained in the tomb.
+White Measure teaching held that its rite kept some founders from the soul-road and anchored their Second Houses in the Egg White, where they became Patrons. Many costly rites failed.
 
-The White Measure successfully held some founders from the soul-road and anchored their Second Houses in the Egg White. These founders became Patrons while remaining complete self-bound humans. Many costly rites failed, and some tombs attracted Greed Masks able to imitate the expected ancestor.
-
-The Boatman appeared under several Qahuri titles. Priests described him as a royal ferryman or servant of a local death power. He belonged to no basin temple. White Measure rites intercepted their adherents before they reached his river; they did not deceive, purchase or command him.
+The Boatman appeared under several Qahuri titles. Priests described him as a royal ferryman or servant of a local death power.
 
 ## People remembered in the Basin
 
@@ -96,7 +94,7 @@ The Boatman appeared under several Qahuri titles. Priests described him as a roy
 
 **Nehara of the Blue Hands** erased images for Ithren III and later concealed a small group she had been ordered to destroy. Restoration praise made that refusal the whole of her life. Her earlier obedience and the dead she could not save remained part of the history.
 
-**Meresha, Khaseret and Tamekha** became the best-known Second-House Patrons. Each combined useful achievement with enduring domination. Their complete histories belong to [[The White Measure and the Second Houses]].
+**Meresha, Khaseret and Tamekha** became the best-known Second-House Patrons. Their complete histories belong to [[The White Measure and the Second Houses]].
 
 ## Further reading
 

@@ -16,13 +16,11 @@ aliases: ["The Silence Kept for Five"]
 ---
 # The Silence Kept for Five
 
-> **Stories told.** The local telling and the material or customary remainder below are established. A claimed original object, miraculous response, famous identity or supernatural explanation is not authenticated merely by this article.
-
 ## Historical setting
 
-**c. 230–395 AR; Underground to Conversion.** inland provincial Atherian cities. This tradition belongs to [[The Conversion of the Empire]]; its cultural bearers are temple descendants and early Church communities.
+**c. 230–395 AR; Underground to Conversion.** Inland provincial Atherian cities. This tradition belongs to [[The Conversion of the Empire]]; its cultural bearers are temple descendants and early Church communities.
 
-It is told among Conversion-era singers, descendants of temple custodians and choirs that inherited their melodies. Its survival does not make every singer's version a complete account of the event.
+It is told among Conversion-era singers, descendants of temple custodians and choirs that inherited their melodies.
 
 ## The tale
 
@@ -47,12 +45,6 @@ Naming choirs say silence repeats erasure. Silent choirs say using the dead as l
 ## What remains
 
 Work songs and hymns pause for five beats. Some communities fill the rest with names; others stand without singing.
-
-## History and belief
-
-The practice, landscape or physical object described here has a place in the present world. Statements that it is the original relic, that a voice is the original dead person, or that a victory proves divine approval belong to the tradition unless a separate history establishes them.
-
-Names, precise sites and competing supernatural claims may remain uncertain without making the tradition placeless.
 
 ## Read onward
 

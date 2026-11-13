@@ -16,13 +16,11 @@ aliases: ["The Child's Cord at the Redoubt"]
 ---
 # The Child's Cord at the Redoubt
 
-> **Stories told.** The local telling and the material or customary remainder below are established. A claimed original object, miraculous response, famous identity or supernatural explanation is not authenticated merely by this article.
-
 ## Historical setting
 
 **c. 915–965 AR.** Thalmyric refuge mountains and reconquered provincial towns. This tradition belongs to [[The Fall and the Long Reconquest]]; its cultural bearers are refugees, occupation-born households and returners.
 
-It is told in Fall and Reconquest forts that measure evacuation routes from their smallest doors rather than their grandest gates. Its survival does not make every singer's version a complete account of the event.
+It is told in Fall and Reconquest forts that measure evacuation routes from their smallest doors rather than their grandest gates.
 
 ## The tale
 
@@ -47,12 +45,6 @@ Military versions say the warden ordered the child to measure. Mason families sa
 ## What remains
 
 Evacuation walls contain a knotted child's cord or its measured copy. Drills begin at the smallest inhabited room.
-
-## History and belief
-
-The practice, landscape or physical object described here has a place in the present world. Statements that it is the original relic, that a voice is the original dead person, or that a victory proves divine approval belong to the tradition unless a separate history establishes them.
-
-Names, precise sites and competing supernatural claims may remain uncertain without making the tradition placeless.
 
 ## Read onward
 

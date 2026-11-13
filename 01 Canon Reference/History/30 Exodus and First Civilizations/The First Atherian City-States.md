@@ -21,7 +21,7 @@ The first Atherian city-states developed from river settlements, hill towns and 
 
 ## Before the Cities
 
-Between approximately 2130 and 2050 BR, southern leagues separated gradually from the communities nearer the Glass. They settled at crossings, on hills and along coasts already inhabited by Orphaned peoples. Expansion included massacre, slavery, hostage-taking, expulsion and land seizure, alongside treaties, adoption, intermarriage and local victories over settler forts. No conquest carried the Prophet's commission.
+Between approximately 2130 and 2050 BR, southern leagues separated gradually from the communities nearer the Glass. They settled at crossings, on hills and along coasts already inhabited by Orphaned peoples. Expansion included massacre, slavery, hostage-taking, expulsion and land seizure, alongside treaties, adoption, intermarriage and local victories over settler forts.
 
 Between about 1900 and 1400 BR, ship households and armed fleets connected food producers, workshops and markets. Local pilots, farmers, smiths and healers sustained those relationships alongside practices inherited from the Glass People. Warfare, extraction and broken supply damaged different networks at different times. [[Southern Settlement and Maritime Atheria]] follows their formation and uneven survival.
 
@@ -31,7 +31,7 @@ Cities grew where people could maintain supplies and defend a settlement through
 
 In the Aurin country, Caleran's estuary settlements depended on [[Peoples of the Ancient Aurin|river, hill-city and upland societies]]. The [[Arkenan and Saronikan Cities before the Empire|eastern island cities]] relied more heavily on cisterns, terraces and maritime food supply. These different conditions shaped public work and the influence of suppliers.
 
-Founder stories often condensed several rebuildings into one heroic act. Their genealogies could conceal conquered inhabitants and captive labour. Caleran's own foundation joined existing settlements under a new political centre; it did not identify the makers of every earlier wall beneath the city.
+Founder stories often condensed several rebuildings into one heroic act. Their genealogies could conceal conquered inhabitants and captive labour. Caleran's own foundation joined existing settlements under a new political centre.
 
 ## Institutions
 
@@ -43,7 +43,7 @@ Temples and observatories attracted teachers and pupils. Colleges concerned with
 
 ## Spiritual Drift
 
-Religious change developed over generations. The Lord became a distant creator in some accounts, while the Prophet's memory was recast as the story of a liberator favoured by the stars. Observations inherited from Giant courts became part of a recovered human wisdom. Civic rites incorporated practices associated with Menhir and with Idol remnants, often misunderstanding the powers involved.
+Religious change developed over generations. The Lord became a distant creator in some accounts, while the Prophet's memory was recast as the story of a liberator favoured by the stars. Observations inherited from Giant courts became part of a recovered human wisdom. Civic rites incorporated practices inherited from Giant courts and older cults.
 
 [[The Common Sky and the Formation of Astratheon]] describes the later royal settlement at Caleran. Other cities retained their own forms of worship, teachers and stories. Public confidence in correct ceremony and civic order could encourage rulers to treat institutional success as proof of righteousness, leaving little room for acknowledgement of their own wrongs.
 

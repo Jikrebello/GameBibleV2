@@ -24,7 +24,7 @@ Gateway households combined cultivated land with access to a port, carrying hous
 
 Marriage joined these occupations and linked towns. Manumission allowed some enslaved workers to establish households, although creditors and former owners often retained claims over their labour. Local adoption brought orphans and displaced relatives into a recognised house. Town admission governed the right to own land, use common water, receive protection and bury relatives in civic ground.
 
-Religious life drew upon several inheritances. Families honoured local patrons and ancestors, carried rites associated with wells and sea roads, and received cults introduced by merchants or rulers. The Bronze-Faced Provider became influential in Qarzeth through a dependent Gluttony Mask that answered sacrificial institutions. Its cult never represented all Gateway religion.
+Religious life drew upon several inheritances. Families honoured local patrons and ancestors, carried rites associated with wells and sea roads, and received cults introduced by merchants or rulers. The cult of the Bronze-Faced Provider became influential in Qarzeth through its sacrificial institutions.
 
 ## Qarzethi citizenship
 
@@ -34,7 +34,7 @@ Citizenship passed through recognised birth and could also be conferred through 
 
 The Three Collections of the Late Council seized children from subject towns and poorer households for sacrifice. Some Qarzethi opposed the collections, hid children or helped families escape. Others supplied names, ships and guards. Caleran destruction policy grew from strategic rivalry, fear and revenge as well as outrage at the collections. The sack of Qarzeth in 520 BR killed inhabitants, enslaved survivors and destroyed the institutions through which citizenship had functioned.
 
-Qarzethi identity survived among refugees and descendants. It carried memories, household descent and blame, but no automatic claim to the lost Council's offices or property.
+Qarzethi identity survived among refugees and descendants. It carried memories, household descent and blame.
 
 ## Esharat and the spared towns
 
@@ -42,13 +42,13 @@ Qarzethi identity survived among refugees and descendants. It carried memories, 
 
 Esharat, Sarqen, Belqara and Hazreth survived the final war because their leaders surrendered, negotiated or supplied the coalition against Qarzeth. The phrase **Spared Towns** described their shared post-war condition. Each town retained its own population and interpreted the name differently. Some celebrated deliverance from the sacrificial Council; some remembered humiliation and the relatives taken by victorious troops; some insisted that local resistance had earned survival.
 
-The towns exchanged seed, ransomed captives and accepted refugees after the capital's destruction. Their cooperation formed a memorial and political relationship. It did not erase their separate populations.
+The towns exchanged seed, ransomed captives and accepted refugees after the capital's destruction. Their cooperation formed a memorial and political relationship.
 
 ## Sarqeni royal identity
 
 Sarqen gained importance as displaced traders and craftspeople rebuilt its harbour. House Nerethan drew authority from local land, refugee alliances, naval service and marriage with established Gateway families. **Sarqeni** could mean a person of the town, a subject of its crown or a participant in its court culture. These meanings widened as the rulers settled people from other surviving towns.
 
-The new kingdom inherited Gateway agriculture, maritime knowledge and religious disputes. It did not restore the Qarzethi republic. Local councils and households retained their own traditions beneath royal government. By 350 BR Sarqen possessed a prosperous court and fleet, while Esharati, Belqaran, Hazrethi and Qarzethi-descended families continued to distinguish their origins.
+The new kingdom inherited Gateway agriculture, maritime knowledge and religious disputes. Local councils and households retained their own traditions beneath royal government. By 350 BR Sarqen possessed a prosperous court and fleet, while Esharati, Belqaran, Hazrethi and Qarzethi-descended families continued to distinguish their origins.
 
 ## Related histories
 

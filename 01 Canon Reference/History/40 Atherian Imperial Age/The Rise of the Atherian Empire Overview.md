@@ -17,7 +17,7 @@ Atheria developed among hill cities, river settlements, ports and religious comm
 
 ## Before the Empire
 
-The Atherian story begins before its cities. Southern war-settlement leagues separated from the post-Glass people, seized and repaired inhabited sites, and mixed through conquest, slavery, alliance, adoption, marriage and local defeat. Later sea-kings, fortified ports, mercenary leagues and founder houses connected several recovery horizons without becoming one migration people or one state.
+The Atherian story begins before its cities. Southern war-settlement leagues separated from the post-Glass people, seized and repaired inhabited sites, and mixed through conquest, slavery, alliance, adoption, marriage and local defeat. Later sea-kings, fortified ports, mercenary leagues and founder houses connected several recovery horizons.
 
 Early Atherian cities occupied defensible hills and river crossings around the Caleran basin and developed along other coasts. In the Aurin country, the Enathi, Serathi and Vardeni brought independent post-Giant histories into contact with maritime settlers. Builders reused older walls and waterworks, producing archaeological layers still visible in modern Thalmyria. Competition for grain, metal, coastal access and religious traffic encouraged both cooperation and warfare.
 
@@ -25,7 +25,7 @@ Early Atherian cities occupied defensible hills and river crossings around the C
 
 The **Celestial Compact** joined twelve leading cities under a common star calendar, arbitration law, and military levy. Caleran became the league's archive and meeting place because its river, harbor, and roads made it difficult to bypass.
 
-“Atherian” consequently changes basis across history: war-settlement enrollment, heroic-maritime allegiance, shared city civilization, and finally republican or imperial citizenship. These are cumulative inheritances, not one biologically unchanged people. Adoption, manumission, military grant, civic admission and provincial incorporation can all make Atherians.
+“Atherian” consequently changes basis across history: war-settlement enrollment, heroic-maritime allegiance, shared city civilization, and finally republican or imperial citizenship. These are cumulative inheritances. Adoption, manumission, military grant, civic admission and provincial incorporation can all make Atherians.
 
 ## Republic and Expansion
 

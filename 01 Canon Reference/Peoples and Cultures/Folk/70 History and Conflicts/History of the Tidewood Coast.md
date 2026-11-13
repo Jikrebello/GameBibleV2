@@ -57,7 +57,7 @@ By about 620 BR, Rookstrand builders were known along this coast for cargo boats
 
 Access to these advantages was unequal. Boat-owning households gained income and influence, while families supplying unpaid sons and daughters could receive a smaller share of the returns. Skilled work nevertheless provided routes into local households for visiting sailors and craftspeople. Marriage and adoption incorporated Atherian and Ättar relatives into communities whose principal ancestry remained that of the Orphaned coastal survivors.
 
-Jirahar crews exchanged goods and route knowledge, becoming more frequent visitors as maritime networks expanded. These contacts connected local skills and markets with a wider seafaring world. The [[The Boat Too Fine for Water|tale of the overproud boatbuilder]], told around the yards, found a familiar subject in the owner who admired a vessel's ornaments while refusing to trust a patched sail. Its workshop humour circulated before favourite versions were written down.
+Jirahar crews exchanged goods and route knowledge, becoming more frequent visitors as maritime networks expanded. The [[The Boat Too Fine for Water|tale of the overproud boatbuilder]], told around the yards, found a familiar subject in the owner who admired a vessel's ornaments while refusing to trust a patched sail. Its workshop humour circulated before favourite versions were written down.
 
 ## Imperial neighbours and coastal independence, c. 350 BR–400 AR
 
@@ -115,7 +115,7 @@ The purchasing house could no longer move timber cheaply enough to sustain its a
 
 ## The coast in 1360
 
-The Three Beaches continue to trade and provide winter volunteers. **Mera Brinecoat**, a Reedwake Speaker, seeks orders that will provision the estuary while leaving the old disputed cutting ground closed. **Haldren of the Tarred Hand** requires timber for promised hulls and resents bearing the cost of Brackenmouth's quarrels. Pilot and War-Keeper **Yarra Keld** wants winter shelters repaired before committing further escorts. Each depends on households whose resources and priorities differ.
+The Three Beaches continue to trade and provide winter volunteers. **Mera Brinecoat**, a Reedwake Speaker, seeks orders that will provision the estuary while leaving the old disputed cutting ground closed. **Haldren of the Tarred Hand** requires timber for promised hulls and resents bearing the cost of Brackenmouth's quarrels. Pilot and War-Keeper **Yarra Keld** wants winter shelters repaired before committing further escorts.
 
 Chapel-Folk and old-rite families share landings, work and family connections. Others avoid discussion with seers. Restored storehouses stand beside sites abandoned by owners who never returned. Poor crews accept dangerous cargoes for needed wages, while wealthy households preserve accounts of ancestors who prospered by refusing unsuitable voyages.
 

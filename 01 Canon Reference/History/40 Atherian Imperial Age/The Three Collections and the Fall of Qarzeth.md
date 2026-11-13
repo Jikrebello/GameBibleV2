@@ -24,7 +24,7 @@ The Provider's sanctuary stood in Qarzeth's upper district. Its estates owned wo
 
 The cult taught that security required an irreplaceable return. Human sacrifice occurred at changing frequency across the Republic's history. Families offered infants in moments of fear; officials also took older captives, dependants and children purchased from poor households. Wealthy patrons sometimes surrendered their own children and sometimes bought substitutes. Soldiers enforced demands upon dependent towns.
 
-The Bronze-Faced Provider was a dependent Gluttony Mask. It appeared in smoke, dreams and periods of collective fear. Good harvests following sacrifice strengthened the cult, even where weather and ordinary labour explained the plenty. Priests shaped the doctrine, magistrates authorised collectors, patrons paid and guards held the victims. The Mask exploited their choices and promised that each finite offering would require another.
+The Bronze-Faced Provider appeared to its worshippers in smoke, dreams and periods of collective fear. Good harvests following sacrifice strengthened the cult. Priests shaped the doctrine, magistrates authorised collectors, patrons paid and guards held the victims. The Provider exploited their choices and promised that each finite offering would require another.
 
 ## Ilya and Sapha
 
@@ -58,7 +58,7 @@ Caleran's senate had decided that Qarzeth would never again become the capital o
 
 This policy devastated the urban centre and left most of the surrounding country habitable. Villages, fields and lesser towns continued under new rulers. The salting required organised transport and labour and served as a deliberate statement that Qarzeth would never again govern the Gateway country.
 
-The Gluttony Mask lost its sanctuary, public offerings and civic protection. Its Throne survived elsewhere. Fragments of the cult remained among exiles and fraudulent claimants without inheriting the authority of the Republic.
+The Provider lost its sanctuary, public offerings and civic protection. Fragments of the cult remained among exiles and fraudulent claimants.
 
 ## Survivors and memory
 

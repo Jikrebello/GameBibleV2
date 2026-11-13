@@ -56,7 +56,7 @@ War disrupted these relationships on both sides of the sea. Returning crews expe
 
 The republic's worship drew together shore traditions, remembered desert practices and images inherited from older societies. Local communities retained different ceremonies even as the capital's public festivals attracted wider participation.
 
-One powerful establishment worshipped the **Bronze-Faced Provider**, a dependent Mask of Gluttony presented as an ancestral guardian. Its priesthood sacrificed children for the preservation of the city. Some leading families surrendered their own children, believing the deaths would protect their households. Others purchased children or used captives as substitutes. Officials extended the demands to dependent communities, where refusal could expose an entire household to punishment.
+One powerful establishment worshipped the **Bronze-Faced Provider**, presented as an ancestral guardian. Its priesthood sacrificed children for the preservation of the city. Some leading families surrendered their own children, believing the deaths would protect their households. Others purchased children or used captives as substitutes. Officials extended the demands to dependent communities, where refusal could expose an entire household to punishment.
 
 The sacrifices were killings of living children. The provider's appearances encouraged further offerings by promising security that could always require another death. Priests organised the rites, officials supplied victims and civic patrons protected the establishment. Opposition also existed within the republic. Families hid children with relatives, temple workers fled with accounts of what they had witnessed, and some towns resisted collection parties.
 

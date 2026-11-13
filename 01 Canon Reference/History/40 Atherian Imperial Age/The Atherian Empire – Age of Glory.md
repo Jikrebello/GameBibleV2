@@ -15,7 +15,7 @@ tags: []
 
 The Atherian Age of Glory was the long period in which imperial law, armies, archives, roads, ports, and the Star Pantheon held most of the known world's central belt within one political system. Later Thalmyric writers describe it as ordered abundance. Subject peoples remembered the taxes, land seizures, forced settlements, and religious hierarchy that paid for the marble.
 
-[[Historical Atlas of the Atherian Age of Glory]] provides the complete sequence from Thalion's settlement to 0 AR. The period included three long dynastic arrangements, a brief war among four claimants and two later court houses. Changes of ruler altered provincial relationships without dissolving the empire after every succession.
+[[Historical Atlas of the Atherian Age of Glory]] provides the complete sequence from Thalion's settlement to 0 AR. The period included three long dynastic arrangements, a brief war among four claimants and two later court houses.
 
 ## Government
 
@@ -31,7 +31,7 @@ The [[The House of Thalion|first imperial house]] ruled until 247 BR. [[The Year
 
 ## Religion
 
-The Star Pantheon organized older cults beneath an imperial celestial hierarchy. Astaroth represented conquest and public order; Lyraxis art and civic performance; the figure called Thanatos death and passage; Arachnara illness and concealed networks; Typhonius calamity and monstrous birth. Local gods could survive as regional titles, attendants, or disputed manifestations so long as their temples acknowledged imperial primacy. Most named powers were Menhir encountered through imperial astronomy, but Thanatos was a syncretic misclassification of [[The Boatman]], not a Star Child.
+The Star Pantheon organized older cults beneath an imperial celestial hierarchy. Astaroth represented conquest and public order; Lyraxis art and civic performance; the figure called Thanatos death and passage; Arachnara illness and concealed networks; Typhonius calamity and monstrous birth. Local gods could survive as regional titles, attendants, or disputed manifestations so long as their temples acknowledged imperial primacy. Temple hymns called the principal powers Star Children, born of the light of Sun and Moon. Later imperial recensions added Thanatos, although older temple lists disagreed about his parentage, and his cult's tales of passage after death told of [[The Boatman]].
 
 Temple complexes were schools, archives, treasuries, employers, and political centers. Their observatories and ritual substructures form some of Thalmyria's most dangerous surviving ruins. Many were later converted into churches; others were sealed, dismantled, or built over after the Redeemer's conversion movement.
 
@@ -49,11 +49,11 @@ Warlock rune magic developed from older practical scripts into regulated militar
 
 ## Uneven Prosperity
 
-The age produced long-distance trade, durable infrastructure, and periods of relative peace. It also depended on frontier war, coerced labor, unequal citizenship, temple wealth, and the transfer of provincial resources to the core. Rebellions were often caused not by rejection of roads or law, but by the price exacted for them.
+The age produced long-distance trade, durable infrastructure, and periods of relative peace. It also depended on frontier war, coerced labor, unequal citizenship, temple wealth, and the transfer of provincial resources to the core. Rebellions were often caused by the price exacted for roads and law.
 
 ## The Redeemer's World
 
-By the Redeemer's lifetime, Atheria was ancient enough to mistake endurance for permanence. Its institutions could carry a new faith across continents once converted, but first they supplied the courts, roads, archives, and execution machinery used against it. Churches in modern Thalmyria therefore stand within a double inheritance: Atherian systems helped persecute the faith and later helped preserve it.
+By the Redeemer's lifetime, Atheria was ancient enough to mistake endurance for permanence. Its institutions could carry a new faith across continents once converted, but first they supplied the courts, roads, archives, and execution machinery used against it.
 
 ## Material Legacy
 

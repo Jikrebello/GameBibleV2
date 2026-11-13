@@ -20,9 +20,9 @@ aliases: ["The Citizen Who Gave Away a Name"]
 
 ## Historical setting
 
-**1297–1360 AR; Reformation and unfinished present.** known-world towns and Anchor-facing harbours. This tradition belongs to [[The Age of Held Proofs]]; its cultural bearers are living townspeople and conflicting current witnesses.
+**1297–1360 AR; Reformation and unfinished present.** Known-world towns and Anchor-facing harbours. This tradition belongs to [[The Age of Held Proofs]]; its cultural bearers are living townspeople and conflicting current witnesses.
 
-It is told as present-day harbour gossip in one Anchor-facing port where veterans have recently disappeared. Its survival does not make every singer's version a complete account of the event.
+It is told as present-day harbour gossip in one Anchor-facing port where veterans have recently disappeared.
 
 ## The tale
 
@@ -49,8 +49,6 @@ Dockworkers call the veteran a spy. His neighbours remember different family rol
 An old coat shows blank human shapes on its medals whenever rain darkens the cloth.
 
 ## History and belief
-
-The practice, landscape or physical object described here has a place in the present world. Statements that it is the original relic, that a voice is the original dead person, or that a victory proves divine approval belong to the tradition unless a separate history establishes them.
 
 The tale stops at the present.
 

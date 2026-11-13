@@ -16,13 +16,11 @@ aliases: ["The Prisoners Who Became a Border"]
 ---
 # The Prisoners Who Became a Border
 
-> **Stories told.** The local telling and the material or customary remainder below are established. A claimed original object, miraculous response, famous identity or supernatural explanation is not authenticated merely by this article.
-
 ## Historical setting
 
-**late City-States into early Stars; c. 900–700 BR.** one inland summoning corridor, not Orthea. This tradition belongs to [[Age of Stars]]; its cultural bearers are Atherian workers and later provincial inheritors.
+**late City-States into early Stars; c. 900–700 BR.** One inland summoning corridor, not Orthea. This tradition belongs to [[Age of Stars]]; its cultural bearers are Atherian workers and later provincial inheritors.
 
-It is told in one City-State and Star-age corridor where travellers still argue about the length of a road. Its survival does not make every singer's version a complete account of the event.
+It is told in one City-State and Star-age corridor where travellers still argue about the length of a road.
 
 ## The tale
 
@@ -47,12 +45,6 @@ City-State versions praise the surveyor. Prisoner-descendant songs say a child f
 ## What remains
 
 A forty-pace road repeats itself when a false name plate is tied to a sled and dragged at dusk. It never repeats in precisely the same direction.
-
-## History and belief
-
-The practice, landscape or physical object described here has a place in the present world. Statements that it is the original relic, that a voice is the original dead person, or that a victory proves divine approval belong to the tradition unless a separate history establishes them.
-
-Names, precise sites and competing supernatural claims may remain uncertain without making the tradition placeless.
 
 ## Read onward
 

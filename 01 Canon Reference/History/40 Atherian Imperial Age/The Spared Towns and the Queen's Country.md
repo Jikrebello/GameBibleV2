@@ -24,11 +24,11 @@ The [[The Gateway Wars|final settlement]] spared lesser towns that accepted its 
 
 Refugees carried skills and family relationships into these towns. They included people who had escaped before the siege and survivors later freed, ransomed or permitted to return. Many could not recover their former property. Local households absorbed relatives and strangers while dealing with shortages and competing claims to work. Their loose alliance became known as the **Spared Town League**, first as a system for food, ransom and road protection and later as a political voice against unchecked Atherian appointments.
 
-The capital's salting damaged selected ground, while the demolition of waterworks and restrictions on rebuilding kept much of the city desolate. Food production continued beyond it. The survival of cultivated land and inhabited ports made a later kingdom possible without requiring the restoration of the old capital.
+The capital's salting damaged selected ground, while the demolition of waterworks and restrictions on rebuilding kept much of the city desolate. Food production continued beyond it. The survival of cultivated land and inhabited ports made a later kingdom possible.
 
 ## A smaller harbour becomes a centre
 
-Second Harbour, later known as Sarqen, was an existing lesser port that escaped the capital's destruction. Its sheltered landing was distinct from both the ruined capital and the later city of Qabir. Its enlargement drew upon resident pilots, craftspeople, storekeepers and cultivators, joined by newcomers seeking work and security. Repair of storage and water supply accompanied renewed shipping. A harbour could attract vessels only if it could provide food, equipment and labour between voyages.
+Second Harbour, later known as Sarqen, was an existing lesser port that escaped the capital's destruction. Its enlargement drew upon resident pilots, craftspeople, storekeepers and cultivators, joined by newcomers seeking work and security. Repair of storage and water supply accompanied renewed shipping. A harbour could attract vessels only if it could provide food, equipment and labour between voyages.
 
 Recovery remained unequal. Compulsory work and preferential grants gave some households the means to enlarge their holdings while others struggled to regain a livelihood. Return from captivity could reunite relatives without restoring the property or position they had lost. The growth of trade nevertheless supported apprenticeships, marriages and households whose prospects improved through the new centre.
 
@@ -36,7 +36,7 @@ Between about 500 and 400 BR, the port acquired greater political importance wit
 
 ## Royal authority and Atherian influence
 
-Nerethan of Delkos arrived as an Atherian harbour commander in 499 BR and married Hadrima of Esharat in 497. His officer house inherited naval practice and royal titles from the Delkosi Successor kingdoms formed after Eryndor III's death. Her family controlled land and carrying interests in an inland town whose households had sheltered children during the final war. Hadrima's mother **Hesara** had helped conceal children from Qarzeth's collectors. Her maternal grandparents were **Lemara of Esharat** and **Prince Tazirun Zaheret**, a younger son of a Qahuri royal house who had entered the carrying trade around 548 BR. This connection brought funerary songs, linen customs and royal prestige into Hadrima's household; it gave neither her nor her descendants a right to rule the Sacred Basin.
+Nerethan of Delkos arrived as an Atherian harbour commander in 499 BR and married Hadrima of Esharat in 497. His officer house inherited naval practice and royal titles from the Delkosi Successor kingdoms formed after Eryndor III's death. Her family controlled land and carrying interests in an inland town whose households had sheltered children during the final war. Hadrima's mother **Hesara** had helped conceal children from Qarzeth's collectors. Her maternal grandparents were **Lemara of Esharat** and **Prince Tazirun Zaheret**, a younger son of a Qahuri royal house who had entered the carrying trade around 548 BR. This connection brought funerary songs, linen customs and royal prestige into Hadrima's household.
 
 Nerethan and Hadrima's son Arenes obtained recognition as hereditary ruler in 457. [[The House of Nerethan]] developed through later marriages, religious patronage and arrangements with the towns supplying its port. Some obligations continued earlier practices; others followed conquest and the demands of the new government.
 

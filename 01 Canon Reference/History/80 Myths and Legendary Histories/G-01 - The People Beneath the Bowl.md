@@ -16,13 +16,11 @@ aliases: ["The People Beneath the Bowl"]
 ---
 # The People Beneath the Bowl
 
-> **Stories told.** The local telling and the material or customary remainder below are established. A claimed original object, miraculous response, famous identity or supernatural explanation is not authenticated merely by this article.
-
 ## Historical setting
 
 **c. 2400–2260 BR; Late Chains and Unbinding.** Ansharan household estates and their dispersed descendants. This tradition belongs to [[Age of Chains]]; its cultural bearers are slave-descendant communities.
 
-It is told among descendants of Giant-household slaves across several former imperial horizons. Its survival does not make every singer's version a complete account of the event.
+It is told among descendants of Giant-household slaves across several former imperial horizons.
 
 ## The tale
 
@@ -45,12 +43,6 @@ Some say the first hidden child later led an Exodus column. Others insist he die
 ## What remains
 
 In the game *Beneath the Bowl*, one child hides while one place at the table remains empty. Nobody may claim the empty portion until the hidden child is found.
-
-## History and belief
-
-The practice, landscape or physical object described here has a place in the present world. Statements that it is the original relic, that a voice is the original dead person, or that a victory proves divine approval belong to the tradition unless a separate history establishes them.
-
-Names, precise sites and competing supernatural claims may remain uncertain without making the tradition placeless.
 
 ## Read onward
 

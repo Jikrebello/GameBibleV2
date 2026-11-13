@@ -126,8 +126,6 @@ This arrangement would become a model for future **relic-sharing treaties**, kno
 
 ---
 
-Let me know when you’re ready to compile these four into the **Codex of Martyr-Legends**. I can format it like a sacred scholastic index just like before.
-
 ## Navigation
 
 - [[Timeline MOC]]

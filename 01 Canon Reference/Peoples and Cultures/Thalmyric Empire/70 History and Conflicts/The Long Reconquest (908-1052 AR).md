@@ -15,7 +15,7 @@ tags: []
 ---
 # The Long Reconquest (908-1052 AR)
 
-The Long Reconquest is the 144-year struggle by which the mountain refuges became the Thalmyric Empire and recovered the core Atherian heartland. Caleran's return in 957 was its sacred midpoint, not its conclusion.
+The Long Reconquest was the 144-year struggle by which the mountain refuges became the Thalmyric Empire and recovered the core Atherian heartland. Caleran's return in 957 was its sacred midpoint.
 
 ## Flight and Occupation, 905-908 AR
 
@@ -27,13 +27,13 @@ Occupation repopulation mixed garrison households, rewarded clients, contract-bo
 
 Caedros Aetherion joined surviving soldiers, refuge councils, monasteries, village militias, and dispossessed houses. The resistance initially fought through ambush, evacuation, road denial, and the preservation of people rather than territory.
 
-The Covenant army's defeat at [[The Battle of the Shattered Engines (907 AR)]] had already ended its Eclessian advance, destroyed two of five great engines, crippled a third, and forced occupation forces to cover too many roads with too few machines. Knowledge recovered from a released human name-cage became part of the rebels' later counter-engine practice. Vorthara's intervention created an opportunity for the resistance without making the city part of the Thalmyric cause.
+The Covenant army's defeat at [[The Battle of the Shattered Engines (907 AR)]] had already ended its Eclessian advance, destroyed two of five great engines, crippled a third, and forced occupation forces to cover too many roads with too few machines. Knowledge recovered from a released human name-cage became part of the rebels' later counter-engine practice. Vorthara's intervention created an opportunity for the resistance.
 
 [[The Battle of Caelmount]] in 917 proved a Covenant field force could be defeated in the mountains. Virelos was secured in 921, giving the rebellion a defensible political center.
 
 ## Crown and Burning Banners, 922-949 AR
 
-Caedros was crowned at Virelos in 922. The [[01 Canon Reference/History/60 Fall and Successor Empires/The War of the Burning Banners.md|War of the Burning Banners]] brought independent refuge armies, monastery leagues, and noble claimants under one crown. The result was not administrative unity but a shared command, tax, and return policy.
+Caedros was crowned at Virelos in 922. The [[01 Canon Reference/History/60 Fall and Successor Empires/The War of the Burning Banners.md|War of the Burning Banners]] brought independent refuge armies, monastery leagues, and noble claimants under one crown. The result was a shared command, tax, and return policy.
 
 ## The Caleran Campaign, 950-962 AR
 
@@ -43,7 +43,7 @@ The Eternal Ember had remained lit under Covenant guard and property law. Veridu
 
 ## Province by Province, 962-1052 AR
 
-The next ninety years were fought through roads, irrigation districts, walled towns, marriage settlements, amnesties, sieges, and competing land registers. Recovery of the Virelos Wind Stair, Kedravan Frost Gate, and Arkenan Basalt Draw gave Thalmyria strategic signal, cold-pressure, forge, and fortification capacity without making ordinary armies high-magic. Many returned families found their ancestral villages inhabited by other families with legal claims of their own. Some settlements negotiated continuity; others suffered expulsion, massacre, or repeated changes of ruler.
+The next ninety years were fought through roads, irrigation districts, walled towns, marriage settlements, amnesties, sieges, and competing land registers. Recovery of the Virelos Wind Stair, Kedravan Frost Gate, and Arkenan Basalt Draw gave Thalmyria strategic signal, cold-pressure, forge, and fortification capacity. Many returned families found their ancestral villages inhabited by other families with legal claims of their own. Some settlements negotiated continuity; others suffered expulsion, massacre, or repeated changes of ruler.
 
 The First and Second Breakings weakened the return by turning imperial force inward. Empress Theodosia ended the Second Breaking and secured the surviving core road network in 1052. The Feast of the Rekindling commemorates religious restoration and the practical reconnection of the heartland.
 
@@ -53,7 +53,7 @@ The Velian States remained fragmented beneath Covenant-aligned rulers, local chu
 
 ## The Demographic Inheritance
 
-Four generations of flight and return concentrated population around walls, markets, monasteries, garrisons, and restored aqueducts. Many villages never revived. Others carried occupation-descended populations that return law refused to recognize. The modern empty interior is therefore a political landscape, not untouched wilderness.
+Four generations of flight and return concentrated population around walls, markets, monasteries, garrisons, and restored aqueducts. Many villages never revived. Others carried occupation-descended populations that return law refused to recognize. The modern empty interior is therefore a political landscape.
 
 ## Navigation
 

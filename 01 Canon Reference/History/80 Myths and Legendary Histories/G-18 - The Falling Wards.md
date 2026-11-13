@@ -16,13 +16,11 @@ aliases: ["The Falling Wards"]
 ---
 # The Falling Wards
 
-> **Stories told.** The local telling and the material or customary remainder below are established. A claimed original object, miraculous response, famous identity or supernatural explanation is not authenticated merely by this article.
-
 ## Historical setting
 
-**c. 2400–2260 BR; Late Chains and Unbinding.** one Ansharan-facing dependent court, outside the unresolved imperial capital. This tradition belongs to [[Age of Chains]]; its cultural bearers are slave-descendant communities.
+**c. 2400–2260 BR; Late Chains and Unbinding.** One Ansharan-facing dependent court, outside the unresolved imperial capital. This tradition belongs to [[Age of Chains]]; its cultural bearers are slave-descendant communities.
 
-It is told among Late-Chains descendants whose districts were abandoned during one Giant court's escape. Its survival does not make every singer's version a complete account of the event.
+It is told among Late-Chains descendants whose districts were abandoned during one Giant court's escape.
 
 ## The tale
 
@@ -47,12 +45,6 @@ Court descendants call the severing tragic arithmetic. Surface families call it 
 ## What remains
 
 Several roads end at foundations sliced smoother than glass. Children build houses from flat stones and knock down only the smallest rooms while chanting the names of spared estates.
-
-## History and belief
-
-The practice, landscape or physical object described here has a place in the present world. Statements that it is the original relic, that a voice is the original dead person, or that a victory proves divine approval belong to the tradition unless a separate history establishes them.
-
-Names, precise sites and competing supernatural claims may remain uncertain without making the tradition placeless.
 
 ## Read onward
 

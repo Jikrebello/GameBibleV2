@@ -118,7 +118,7 @@ The baker's daughter who witnessed the Binding outside Qiryath, saw where Isfir 
 
 ### 12. Saint Tyros the Doubter — *the Convert* (d. 45 AR)
 
-The astrologer-priest who came to disprove Isfir and wept at his feet by the argument's end; his defection pulled whole priestly colleges after him. **Beheaded in Caleran during the Great Purge — the last of the Companions to be martyred.**
+The astrologer-priest who came to disprove Isfir and wept at his feet by the argument's end; his defection pulled whole priestly colleges after him. **Beheaded in Caleran during the Great Purge — the last of the Companions to die in the Great Purge.**
 
 - **Thalmyria:** the **Tyrine Dialogues** (his recorded disputations) are seminary curriculum; patron of catechists and converts from the old cults.
 - **Eclessia:** patron of doubters, scholars, and apologists — invoked, a little uncomfortably, by inquisitors, and a great deal more comfortably by the people they question.
@@ -139,7 +139,7 @@ The Companion who sold the Redeemer's night route to Ezrahel's officers for a pu
 
 Born **Sha'il bar Qoreth**, he was a Jirahar of the scribal aristocracy and a kinsman of Lord-Scribe Ezrahel bar Qoreth, who handed Isfir to the governor. He trained under the Keeper Gamliel the Patient and held Atherian citizenship through his family's imperial service. As **Aquilan the Hound**, he pursued the first assemblies before the Great Purge, using warrants to protect the Path from what he believed was a destructive error.
 
-On the road to Virelos, carrying warrants, he was struck blind by "the noon behind the noon" and heard: *"Hound, whose scent do you follow?"* Baptized three days later by the congregation he had come to arrest, his sight returned with the water. He never met the living Isfir — his commission came by Flame alone — and he spent the rest of his life carrying the faith **out of the Jirahar world and into the nations**: Atherian cities, Sestaran ports, Folk borderlands. His **Epistles** argue that the Path's law is fulfilled, not abolished, in the Redeemer — the single most consequential theological claim in history, and the hinge on which everything the Jirahar suffered afterward would swing. His citizenship spared him the fire: **beheaded at Caleran**, the same season as Tyros.
+On the road to Virelos, carrying warrants, he was struck blind by "the noon behind the noon" and heard: *"Hound, whose scent do you follow?"* Baptized three days later by the congregation he had come to arrest, his sight returned with the water. He never met the living Isfir — his commission came by Flame alone — and he spent the rest of his life carrying the faith **out of the Jirahar world and into the nations**: Atherian cities, Sestaran ports, Folk borderlands. His **Epistles** argue that the Path's law is fulfilled, not abolished, in the Redeemer. His citizenship spared him the fire: **beheaded at Caleran**, the same season as Tyros.
 
 - **Both churches** rank him beside the Companions; his Epistles are their common arsenal — cited by each against the other.
 - **The Freeflame** quote him most of all: a commission by Flame, without seat, witness, or laying-on of hands — *"if the Hound needed no seat, why do you?"*

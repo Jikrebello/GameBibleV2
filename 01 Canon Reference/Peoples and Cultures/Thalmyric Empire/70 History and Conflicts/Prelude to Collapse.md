@@ -19,11 +19,11 @@ The Atherian Empire entered its final decades between 885 and 905 AR with functi
 
 Corvenas III was devout, ceremonial, and more interested in preserving the converted empire's sacred inheritance than rebuilding its army. He turned part of Caleran's palace into the Ash Hall, gathering relics, imperial trophies, and surviving objects from the suppressed Star cults.
 
-The collection was not decadence by itself. The failure lay in treating possession of the past as protection from the future.
+The failure lay in treating possession of the past as protection from the future.
 
 ## Structural Weakness
 
-Provincial forces answered competing commands. Tax registers overstated recoverable wealth. Court factions delayed mobilization because an honest muster would reveal empty depots and unpaid troops. The Second Crusade's failure in 878 had already shown the frontier could not be repaired by ceremony.
+Provincial forces answered competing commands. Court factions delayed mobilization because an honest muster would reveal empty depots and unpaid troops. The Second Crusade's failure in 878 had already shown the frontier could not be repaired by ceremony.
 
 ## The Qahirid Preparation
 

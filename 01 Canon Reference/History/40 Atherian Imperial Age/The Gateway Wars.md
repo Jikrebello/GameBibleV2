@@ -20,7 +20,7 @@ The wars made overseas commitments a permanent concern of Caleran's government. 
 
 ## The sea and the alliances
 
-Caleran stood at the mouth of the Aurin on the outer coast. Its forces reached the inner Thalassian through cooperating ports and landward supply routes. Arkenan and Saronikan communities contributed ships, pilots and repair facilities. Some were close allies; others negotiated particular services or accepted obligations after defeat. Shared Atherian culture did not give every port the same political relationship with Caleran.
+Caleran stood at the mouth of the Aurin on the outer coast. Its forces reached the inner Thalassian through cooperating ports and landward supply routes. Arkenan and Saronikan communities contributed ships, pilots and repair facilities. Some were close allies; others negotiated particular services or accepted obligations after defeat.
 
 The gateway capital commanded a cultivated country at the meeting of desert approaches and inner-sea exchange. Its government relied on ships and fortified ports, together with food and labour from dependants inland. Smaller states had interests of their own. A town seeking protection from a neighbour could invite one republic into a dispute that its inhabitants had expected to remain local.
 
@@ -72,7 +72,7 @@ Senators differed over the rival's future. Some preferred a prosperous subordina
 
 Within the capital, the sacrificial establishment increased its demands for children as promises of divine protection failed to end these pressures. Leading families sometimes offered their own children; others purchased substitutes or drew upon captive households. Dependent towns bore demands backed by civic authority.
 
-Families resisted by hiding children, moving them among relatives or seeking refuge beyond the republic's control. **Ilya of Qarzeth** copied names and holding rooms from sanctuary stores before escaping in a grain cart. **Sapha of Esharat**, a midwife unrelated to the Hadrathi princess of the same name, organised carriers and farming households into a rescue route. Collectors killed her husband and sacrificed her daughter Neral. Their testimony gave Atherian opponents of the rite practical knowledge and a constituency among the threatened communities.
+Families resisted by hiding children, moving them among relatives or seeking refuge beyond the republic's control. **Ilya of Qarzeth** copied names and holding rooms from sanctuary stores before escaping in a grain cart. **Sapha of Esharat**, a midwife, organised carriers and farming households into a rescue route. Collectors killed her husband and sacrificed her daughter Neral. Their testimony gave Atherian opponents of the rite practical knowledge and a constituency among the threatened communities.
 
 ## The decision to destroy the capital
 

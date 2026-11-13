@@ -36,7 +36,7 @@ Training joined rowers, sailors and fighting troops who often came from differen
 
 An agreement with Ardel in 357 BR briefly reduced conflict. Disputes about supplies, property and captured vessels renewed it. In 355 BR Melvo destroyed Ardel's independent ally, the mobile harbour-city [[Marelith]], and defeated the sea-heir's nearby main force among the central Thalassian anchorages in one operation. Accounts differ over the prize-ship deception; the incendiary attack on the city left the [[Black Reef]] and killed or captured many residents.
 
-The victory opened routes and destroyed a refuge for displaced households. Some defeated crews were left beyond rescue as the victors concentrated on securing ships and prisoners. Captives subsequently faced pardon, sale or delivery to former enemies. Melvo's work made the campaign effective, including its coercive results.
+The victory opened routes and destroyed a refuge for displaced households. Some defeated crews were left beyond rescue as the victors concentrated on securing ships and prisoners. Captives subsequently faced pardon, sale or delivery to former enemies.
 
 Seluc Varroth's attempt to claim the surrendered forces failed when Thalion secured their allegiance. Melvo's victory therefore altered the balance within the coalition as well as removing a maritime opponent.
 
@@ -46,7 +46,7 @@ In the final struggle against Velsar and Samyra, Melvo worked to separate the ro
 
 The fighting outside the outer anchorage in 352 BR broke part of the royal fleet. Some ships escaped and the war continued on land. Melvo's arrangements allowed Thalion to maintain pressure through the later defections and shortages.
 
-At the settlement of 350, he belonged among the men whose service had made imperial government possible. His reputation rested on vessels that could sail, stores available when promised and crews able to act together. The communities supplying those achievements remembered both employment and compulsory service.
+At the settlement of 350, he belonged among the men whose service had made imperial government possible. His reputation rested on vessels that could sail, stores available when promised and crews able to act together.
 
 ## Further reading
 

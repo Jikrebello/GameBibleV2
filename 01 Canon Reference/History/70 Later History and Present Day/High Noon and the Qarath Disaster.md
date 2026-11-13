@@ -13,19 +13,19 @@ tags: [world-historical-atlas]
 ---
 # High Noon and the Qarath Disaster
 
-High Noon and the Qarath Disaster runs from 1104 to roughly 1290: a century of apparent Thalmyric strength and prosperity, broken first by Markellos's capture and self-inflicted blinding at Qarath's Well in 1214, and then by the Grey Sweat plague of 1232–1247. Its central change is the collapse of the confidence that the restored post-Reconquest order could simply last — military success, mining wealth and courtly display turn out to rest on debts, wounds and mortality the age cannot pay down. What survives is battered rather than broken, and it hands that unresolved inheritance forward into [[The Age of Held Proofs]].
+High Noon and the Qarath Disaster runs from 1104 to roughly 1290: a century of apparent Thalmyric strength and prosperity, broken first by Markellos's capture at Qarath's Well in 1214 and his blinding by his own court on his return, and then by the Grey Sweat plague of 1232–1247. The age broke the confidence that the restored post-Reconquest order could simply last: military success, mining wealth and courtly display turned out to rest on debts, wounds and mortality it could not pay down. What survived was battered, and it handed that unresolved inheritance forward into [[The Age of Held Proofs]].
 
 ## The prosperous century
 
 After 1104, the successor world could appear strong. Thalmyria under Caedros III, 1118–1167, held its enemies, maintained fortresses and celebrated an imperial golden age. The Qahirid war of 1131–1139 ended in defeat for the Covenant. Roads, harvests, craftsmen and regional trade supported that confidence. Military success encouraged the belief that the restored order could last.
 
-Prosperity had victims close at hand. High mines required prisoners and dependent workers. In one Aversian mine, genuine warning rhythms were ignored after officials turned a local compact into a production demand. Strikers and prisoners were forced into lethal workings; alleged defaulters were executed. [[G-68 - The Three Knocks under the Mountain|The Three Knocks]] is not evidence of a hidden mine nation.
+Prosperity had victims close at hand. High mines required prisoners and dependent workers. In one Aversian mine, remembered in [[G-68 - The Three Knocks under the Mountain|The Three Knocks]], genuine warning rhythms were ignored after officials turned a local compact into a production demand. Strikers and prisoners were forced into lethal workings; alleged defaulters were executed.
 
 ## The standard and the hostages
 
-The company remembered through the Ransomed Standard served the High-Noon frontier before its fortunes broke with Qarath. It contained professionals, exiles and hostages rather than another sacred fellowship. Failed ransom meant mutilation and execution. Reprisal killed noncombatants, and members of the company participated in surrendered rivals' murder. Later disagreement about command does not erase what the men and women actually did.
+The company remembered through the Ransomed Standard served the High-Noon frontier before its fortunes broke with Qarath. It contained professionals, exiles and hostages. Failed ransom meant mutilation and execution. Reprisal killed noncombatants, and members of the company participated in surrendered rivals' murder. Later accounts disagreed about command.
 
-Elsewhere, the Woman Who Returned the Keys entered a besieging camp by deception, killed and beheaded its commander herself and returned with the head. She later surrendered the city's keys rather than turn rescue into a hereditary crown. This remains a separate local history, not a replacement for the empire's military campaigns.
+Elsewhere, the Woman Who Returned the Keys entered a besieging camp by deception, killed and beheaded its commander herself and returned with the head. She later surrendered the city's keys rather than turn rescue into a hereditary crown.
 
 ## Qarath and the wound made at home
 
@@ -37,13 +37,13 @@ Nikandros I, 1225–1263, stabilized the remainder and sought western aid withou
 
 The Grey Sweat struck in waves, c. 1232–1247. Bodies decomposed before burial; households abandoned the sick; healers triaged patients they could not all save; suspected carriers were executed. The soul-road also came under pressure. [[G-16 - The Forty-First Ferry|The Forty-First Ferry]] remembers illegal funeral work among clergy, physicians, thieves and families whom official provision failed.
 
-The False Lady of Bruckmoor exploited genuine grief. Its apparent mercy did not invent the dead whose families it fed upon. The Quiet Ninth remains unexplained. So do the other protected signs attached to this period; competing plague chronicles do not give permission to solve them.
+The False Lady of Bruckmoor exploited genuine grief. The Quiet Ninth remains unexplained.
 
 ## The world turns outward
 
 The Medori century and Sestara's flowering developed amid recovery, debt and changed labour relations. In Eclessia, some tenants gained room to bargain while Virelia's second serfdom hardened. Qarayel's unification in 1261 and the Black Wind years brought tolls, burned fairs and extraction without permanent occupation.
 
-The era therefore leaves altered fields, mountain wounds, abandoned wards, rival feasts and the unpaid costs of victory. It leads into [[The Age of Held Proofs]], where reform and institutions attempt to govern inheritances they cannot make innocent.
+The era left altered fields, mountain wounds, abandoned wards, rival feasts and the unpaid costs of victory. It led into [[The Age of Held Proofs]].
 
 ## Atlas navigation
 

@@ -150,7 +150,7 @@ Arqeshite cities maintained temple households tied to neighbourhood, craft and r
 
 Vashari households kept hearth fires and made seasonal visits to local sanctuaries. Teachings of Right Order praised truthful speech, cultivation and defence of the created world. Royal ideology turned those teachings towards obedience. Daryam critics preserved the distinction at considerable personal cost.
 
-People also made bargains outside formal institutions. A spring might be governed through a local court relationship, and a sailor might promise part of a catch to a shore power. An Idol Mask could exploit an image already used in household or royal worship. Springs, shore powers and Masks remained separate actors even when worshippers used similar language for water, fire or ancestors.
+People also made bargains outside formal institutions. A spring might be governed through a local court relationship, and a sailor might promise part of a catch to a shore power. An Idol Mask could exploit an image already used in household or royal worship.
 
 ## Death and burial
 

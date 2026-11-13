@@ -21,7 +21,7 @@ tags: []
 ---
 # Ancient and Early Historic Ages
 
-This note bridges [[Prehistory Overview]] and the [[Atherian Imperial Age]]. It exists to make civilization feel earned: humanity does not move directly from Giant slavery to continental empire. It passes through exile, settlement, first kings, city-states, sacred experiments, war, memory, and failed obedience.
+This overview bridges [[Prehistory Overview]] and the [[Atherian Imperial Age]]. Between Giant slavery and continental empire, humanity passes through exile, settlement, first kings, city-states, sacred experiments, war, memory, and failed obedience.
 
 The peoplehood, civic membership and imperial subjecthood of the period are indexed in [[Peoples before Atherian Unification]].
 
@@ -44,16 +44,16 @@ The peoplehood, civic membership and imperial subjecthood of the period are inde
 - **Ortheians and Delkosi:** Atherian-speaking upland and maritime societies shaped by Eryndor's conquest and the Wars of the Inheritance. Their royal and naval traditions influence the recovered Caleran republic and the later House of Nerethan.
 - **Ahdari:** a Glass-descended well-country people formed through the northern fission and durable incorporation of older Orphaned populations. Their defended waters, camel roads, hospitality and oath customs long predate the Covenant.
 - **Folk and Ättar:** related Orphaned southern cold-frontier populations joined by lesser Giant and giant-blooded refugees from Nhaldur. Folk institutions centre on clan territory, local courts and regional All-Things; settled Ättar halls later accept Mother Moon's two-part bargain during the [[War of the Empty Halls]].
-- **Grobi:** intelligent nonmoral predators created when Wrath rewrote 2,014 captives at Kharvos. Their five food-driven stages and annual winter hosts shape the southern frontier.
+- **Grobi:** intelligent predators descended from some two thousand captives, by the Nhalduran count, rewritten at Kharvos. Their five food-driven stages and annual winter hosts shape the southern frontier.
 - **Tarkhan and Nsizwa:** independent Orphaned peoples whose ancestors survive and reassemble outside the Ark in different regions and under different pressures. Tarkhan history begins among the human subjects and neighbours of Vathra, whose flying crown-cities fell during the Great Unbinding.
-- **Sestara:** later Braided harbor and archive-city populations that survive by monetizing memory, art, finance, ships, legal skill, and secrets; no single ancient Sestaran people exits the Glass.
+- **Sestara:** later Braided harbor and archive-city populations that survive by monetizing memory, art, finance, ships, legal skill, and secrets.
 - **Vesari:** a later Braided river-plain people of the far east, formed from local remnant populations and arriving Ark-derived groups; their converted princedoms become Virelia's substrate (see [[01 Canon Reference/Peoples and Cultures/Eclessia/10 Foundations/The Making of the Eclessians.md|The Making of the Eclessians]]).
 
 ## Geography Lock
 
-The known world is southern-hemisphere oriented. South means colder, harsher, more forested, and more permafrost-bound. The farther south a culture lives, the more its political calendar, military routes, food systems, and myths should reflect cold pressure.
+The known world is southern-hemisphere oriented. South means colder, harsher, more forested, and more permafrost-bound. The farther south a culture lives, the more cold pressure shapes its political calendar, military routes, food systems, and myths.
 
-Use [[Southern Cold Belt and Grobi Frontier]] as the governing note for the deep southern cold belt, the Ättar/Folk frontier, and Grobi migration logic.
+[[Southern Cold Belt and Grobi Frontier]] describes the deep southern cold belt, the Ättar/Folk frontier, and Grobi migration.
 
 ## Navigation
 

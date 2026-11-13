@@ -104,7 +104,7 @@ One remembered covenant joined twenty-one reins at a route stone. Seven riders w
 
 Early Tarkhan communities sacrificed sheep, goats, cattle and camels for rain, safe travel, healthy births and protection. High places retained Vathran stones and broken anchors. Some rites addressed local court persons or Menhir correspondences. Others gathered around memorials or empty cult objects.
 
-Idol Masks exploited certain traditions. Wrath fed through feud standards demanding blood beyond the original offence. Greed fed where ransom and water became occasions for owning people. Pride attached itself to dynasties claiming that their ancestors had ruled the upper sky.
+Some traditions turned predatory. Feud standards demanded blood beyond the original offence, ransom and water became occasions for owning people, and dynasties claimed that their ancestors had ruled the upper sky.
 
 The dead were buried near roads and dependable water. Grave goods included tools, animal gear, food and coloured cloth. Vathran royal funerals had killed servants and animals beside Giant rulers. Some human prestige houses continued the practice. Other communities cut the tether of a living animal at the grave, declaring that no dead chief would take the household's survival with him.
 

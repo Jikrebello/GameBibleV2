@@ -16,7 +16,7 @@ tags: [world-historical-atlas, ancient-world, ethnogenesis]
 
 The societies of the ancient inner sea understood belonging through several overlapping relationships. A person might descend from the people formed in the Glass Desert, belong to an older river or mountain population, speak the language of a maritime city, worship with a local temple household and owe service to a foreign king. None of these facts necessarily decided the others.
 
-This collection follows the peoples whose histories have been established from the Great Unbinding to **350 BR**. It ends with the balance of powers inherited by Aurelius Thalion. Names belonging to later empires and confessional societies are omitted from the ancient account unless a reader follows a link into a later period.
+This collection follows these peoples from the Great Unbinding to **350 BR**. It ends with the balance of powers inherited by Aurelius Thalion.
 
 ## Atherian-speaking worlds
 
@@ -24,7 +24,7 @@ This collection follows the peoples whose histories have been established from t
 - [[Enathi]], [[Serathi]] and [[Vardeni]] concern the three related Orphaned peoples of the Aurin basin and uplands.
 - [[Arkenan and Saronikan Communities before 350 BR]] follows the mixed ports and islands of the eastern Atherian-speaking world.
 
-The word **Atherian** could describe language and culture, citizenship in an Atherian city or political membership under Caleran. These uses overlapped. They did not imply one ancestry or equal public rights.
+The word **Atherian** could describe language and culture, citizenship in an Atherian city or political membership under Caleran. These uses overlapped.
 
 ## The central island peoples
 
@@ -32,16 +32,16 @@ The word **Atherian** could describe language and culture, citizenship in an Ath
 - [[Elmarai Isles before 350 BR]], [[Seravon before 350 BR]] and [[Ilamar before 350 BR]] give three distinct entrances to the archipelago, populous great island and independent sanctuary.
 - [[Caelovar]] and [[Marelith]] concern two different cities: the former drowned in the Giant collapse; the latter moved on a living bearer until its destruction in 355 BR.
 
-The central Elmaric heartland met Atherian-speaking ports on its western and eastern approaches. A shared route did not make every islander Atherian, nor did Elmaric kinship give the islands one citizenship.
+The central Elmaric heartland met Atherian-speaking ports on its western and eastern approaches.
 
 ## Qahur and the Gateway
 
 - [[The Qahuri]] introduces the river civilisation of the Sacred Basin.
-- [[The Three Regions of Ancient Qahur]] distinguishes Tenaret, Qemaret and Sakhret without dividing the Qahuri into separate ancestries.
+- [[The Three Regions of Ancient Qahur]] distinguishes Tenaret, Qemaret and Sakhret.
 - [[Gateway Peoples, Qarzeth and the Spared Towns]] follows the ancient Braided coast, the civic population of Qarzeth and the communities which survived its destruction.
 - [[The Hadrathi Border People]] describes a related border society whose loyalties remained distinct from those of Qarzeth and Sarqen.
 
-Qahuri identity crossed the boundaries of crowns and foreign occupations. Gateway ancestry likewise survived the fall of its dominant republic. A dynasty, capital or royal title could command these peoples without owning their descent.
+Qahuri identity crossed the boundaries of crowns and foreign occupations. Gateway ancestry likewise survived the fall of its dominant republic.
 
 ## Qiryath and the eastern empires
 
@@ -59,7 +59,7 @@ The eastern world contained peoples, cities and imperial systems with different 
 - [[The Tarkhan before the Horse Hordes]] follows the Orphaned descendants of Vathran subjects and neighbouring northern communities through wells, tether towns, grass circuits and early foreign clients.
 - [[Historical Atlas of Vathra and the Northern Ground]] places both peoples within the longer history of the flying Giant kingdom, the Great Unyoking and the political balance of 350 BR.
 
-Ahdari identity was older than Al-Ahdiya and belonged to a people rather than a confession. Tarkhan identity joined western and eastern societies through fosterage, assemblies and related speech before horses transformed the grasslands. Narashi caravan houses and the mixed winter gathering at Rethmar crossed the boundary between the two histories without making them one ancestry.
+Ahdari identity was older than Al-Ahdiya and belonged to a people. Tarkhan identity joined western and eastern societies through fosterage, assemblies and related speech before horses transformed the grasslands. Narashi caravan houses and the mixed winter gathering at Rethmar crossed the boundary between the two histories.
 
 ## How belonging was recognised
 

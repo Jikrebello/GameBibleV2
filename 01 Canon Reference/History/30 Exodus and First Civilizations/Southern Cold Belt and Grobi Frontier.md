@@ -15,7 +15,7 @@ tags: [world-historical-atlas, southern-cold-world]
 
 The **southern cold belt** is the taiga, dark woodland, permafrost country, frozen river system and storm coast at the coldward edge of the known world. Southward travel brings shorter growing seasons, deeper frost and harder winter logistics. Folk forests and river countries occupy much of the inhabited north of the belt. Ättar halls hold protected coasts, valleys and eastern ranges. Grobi packs range through the colder country beyond them and move north along recurring winter corridors.
 
-The frontier is a broad inhabited zone rather than a single border. Farms, halls, gords, forts, mines, seasonal camps and refuge roads stand among older Giant ruins. Control follows food, passable water, defended crossings and the distance at which a settlement can answer a winter warning.
+The frontier is a broad inhabited zone. Farms, halls, gords, forts, mines, seasonal camps and refuge roads stand among older Giant ruins. Control follows food, passable water, defended crossings and the distance at which a settlement can answer a winter warning.
 
 ## Land and seasons
 
@@ -27,7 +27,7 @@ Spring begins repair and planting. Summer supplies the principal season for cons
 
 Human communities inhabited the region before the fall of Giant rule. Subject villages, fishing households, mine workers, fugitives and local rebels survived the [[The Great Unbinding|Great Unbinding]] in separate places. Nhaldur, a southern Giant penal crownland, collapsed during the same crisis. Its prisoners and workers carried craft, languages and Giant ancestry into older populations.
 
-Wrath performed the First Rewriting at Kharvos in approximately 2284 BR, creating the first Grobi. The new packs spread along ruined prison roads, mines and coastal routes. Folk and Ättar institutions formed amid that pressure without descending from the Grobi or from one common kingdom. [[Historical Atlas of the Southern Cold World]] follows the region from Nhaldur to the beginning of Atherian empire.
+The First Rewriting at Kharvos, around 2280 BR, created the first Grobi. The new packs spread along ruined prison roads, mines and coastal routes. Folk and Ättar institutions formed amid that pressure. [[Historical Atlas of the Southern Cold World]] follows the region from Nhaldur to the beginning of Atherian empire.
 
 ## Folk and Ättar country
 
@@ -35,7 +35,7 @@ Folk settlements include longhouses, ringworks, gords, river landings, hidden gr
 
 Ättar power concentrated around great halls able to feed several households, protect animals and support ships. Lion, Ox, Bear and Wolf affiliations became hereditary pact-kindreds after the [[War of the Empty Halls]]. Grey-Wolf halls face the heaviest Grobi pressure, while coastal and valley halls contribute boats, cattle, grain, iron and fighters.
 
-Both peoples hold annual All-Things after harvest. Chiefs and free men hear disputes crossing local jurisdictions, witness succession and decide common winter levies. The gatherings never created one southern parliament or a permanent ruler over every clan and hall.
+Both peoples hold annual All-Things after harvest. Chiefs and free men hear disputes crossing local jurisdictions, witness succession and decide common winter levies.
 
 ## The winter frontier
 
@@ -43,7 +43,7 @@ Grobi packs breed and feed through spring, summer and autumn. Successful goblins
 
 Human defence therefore begins before first snow. Settlements repair beacons, stock refuge halls, raise granaries, mark evacuation roads and decide which crossings can be abandoned. Smiths, boat crews, cooks, healers, herders and messengers sustain the fighters. A failed warning can kill households several valleys away.
 
-The Nine-Drum Host of c. 1608–1596 BR was the greatest known attempt to turn the annual war season into permanent conquest. Its defeat preserved the Ättar hall ranges but did not end Grobi migration.
+The Nine-Drum Host of around 1600 BR was the greatest known attempt to turn the annual war season into permanent conquest. Its defeat preserved the Ättar hall ranges, but Grobi migration continued.
 
 ## Work and settlement
 

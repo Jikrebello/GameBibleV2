@@ -20,9 +20,9 @@ aliases: ["The Four Seals for the Uncertain Dead"]
 
 ## Historical setting
 
-**post-Giant local generations; not securely synchronized to AR.** far-distant cypress commonwealth and its adjoining Egg White courts. This tradition belongs to [[Distant Lands and Otherworld Histories]]; its cultural bearers are the uncontacted Orphaned peoples of the Last Houses.
+**post-Giant local generations; not securely synchronized to AR.** Far-distant cypress commonwealth and its adjoining Egg White courts. This tradition belongs to [[Distant Lands and Otherworld Histories]]; its cultural bearers are the uncontacted Orphaned peoples of the Last Houses.
 
-It is told in far-distant grave country where a human order investigates things found speaking from tombs. Its survival does not make every singer's version a complete account of the event.
+It is told in far-distant grave country where a human order investigates things found speaking from tombs.
 
 ## The tale
 
@@ -49,8 +49,6 @@ Order Lives claim the fifth seal was voluntarily surrendered. Victim families sa
 Investigated graves bear four broken clay birds and one empty hollow. A complete fifth bird is treated as a threat, not proof.
 
 ## History and belief
-
-The practice, landscape or physical object described here has a place in the present world. Statements that it is the original relic, that a voice is the original dead person, or that a victory proves divine approval belong to the tradition unless a separate history establishes them.
 
 The country's local generations supply the order of events; an exact AR conversion remains unknown.
 

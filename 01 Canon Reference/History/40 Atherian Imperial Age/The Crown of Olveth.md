@@ -20,7 +20,7 @@ The Crown of Olveth is a woven metal circlet made to mark a recognised place of 
 
 Metalworkers and household elders at Olveth made the circlet generations before the Veloran campaign. It hung above the entrance to a mountain refuge used during storms, raids and dangerous seasonal movement. People admitted beneath it had to surrender weapons and share available water until departure.
 
-The Crown responded when the shelter's duties were being kept. Its surface became warm and gave a low light visible through smoke or snow. The response belonged to the made object's continuing purpose. The Crown contained no human soul or Menhir presence.
+The Crown responded when the shelter's duties were being kept. Its surface became warm and gave a low light visible through smoke or snow.
 
 Olveth's refuge accepted imperial travellers as well as local families. Disputes arose when officers demanded precedence over people already inside. Custodians insisted that entry placed them under the same rule as everyone else.
 
@@ -43,8 +43,6 @@ Later emperors cited Aren's return of the Crown as evidence of reverence. Upland
 ## Present significance
 
 Copies of the Crown appear above hospices and mountain shelters, although none has demonstrated a response. The original's location in 1360 remains known to a small custodial community. Its members admit people in danger and keep the object away from imperial and ecclesiastical testing.
-
-A response proves only that the Crown's shelter conditions have been met. It authenticates no wider government, religion or military cause.
 
 ## Further reading
 

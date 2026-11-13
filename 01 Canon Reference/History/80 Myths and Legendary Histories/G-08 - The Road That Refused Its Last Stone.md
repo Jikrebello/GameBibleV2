@@ -18,13 +18,11 @@ aliases: ["The Road That Refused Its Last Stone"]
 
 **The Road That Refused Its Last Stone** is a workers' tradition attached to the unfinished milestone of the Aurin trunk road, the principal land corridor running from Caleran through Enathi, Serathi and Vardeni country. The tale gives one repentant surveyor responsibility for refusing the stone; the historical refusal belonged to a mixed labour gang whose members withheld the road's dedication after building it under coercion.
 
-> **Stories told.** The local telling and the material or customary remainder below are established. A claimed original object, miraculous response, famous identity or supernatural explanation is not authenticated merely by this article.
-
 ## Historical setting
 
 **c. 800–350 BR; Age of Stars.** Atherian roads and city leagues. This tradition belongs to [[Age of Stars]]; its cultural bearers are Atherian workers and later provincial inheritors.
 
-It is told along the Aurin road and the later corridors built from it. Its survival does not make every singer's version a complete account of the event.
+It is told along the Aurin road and the later corridors built from it.
 
 ## Historical basis
 
@@ -57,12 +55,6 @@ Imperial engineers call the gap an unfinished triumph. Road people say the surve
 ## What remains
 
 One surviving milestone was prepared but never dedicated. Elsewhere the road's stones were moved, reused or replaced as rulers changed their points of measurement. Travellers still maintain cairns where official distances cannot be trusted.
-
-## History and belief
-
-The practice, landscape or physical object described here has a place in the present world. Statements that it is the original relic, that a voice is the original dead person, or that a victory proves divine approval belong to the tradition unless a separate history establishes them.
-
-Names, precise sites and competing supernatural claims may remain uncertain without making the tradition placeless.
 
 ## Read onward
 

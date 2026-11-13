@@ -18,13 +18,11 @@ aliases: ["The Company of the Broken Measure"]
 
 The **Company of the Broken Measure** is a Late-Chains liberation tradition told among descendants of human households once bound to Giant estates. Its received story joins a small household escape to the much longer punishment cycle of a Giant-blooded strongman. The two histories involved different people; their combination allowed later performers to ask whether freeing captives could repair the guilt of an earlier murder.
 
-> **Stories told.** The local telling and the material or customary remainder below are established. A claimed original object, miraculous response, famous identity or supernatural explanation is not authenticated merely by this article.
-
 ## Historical setting
 
-**c. 2400–2260 BR; Late Chains and Unbinding.** former Giant estates and Glassward approaches. This tradition belongs to [[Age of Chains]]; its cultural bearers are slave-descendant communities.
+**c. 2400–2260 BR; Late Chains and Unbinding.** Former Giant estates and Glassward approaches. This tradition belongs to [[Age of Chains]]; its cultural bearers are slave-descendant communities.
 
-It is told in the Glassward marches and among peoples descended from Late-Chains estate slaves. Its survival does not make every singer's version a complete account of the event.
+It is told in the Glassward marches and among peoples descended from Late-Chains estate slaves.
 
 ## Historical basis
 
@@ -55,12 +53,6 @@ Courtly versions make the strongman a flawless liberator. Household songs give t
 ## What remains
 
 Children balance seeds on a snapped stick while chanting, “The measure broke first.” Three shrines claim pieces of the original rod.
-
-## History and belief
-
-The practice, landscape or physical object described here has a place in the present world. Statements that it is the original relic, that a voice is the original dead person, or that a victory proves divine approval belong to the tradition unless a separate history establishes them.
-
-Names, precise sites and competing supernatural claims may remain uncertain without making the tradition placeless.
 
 ## Read onward
 

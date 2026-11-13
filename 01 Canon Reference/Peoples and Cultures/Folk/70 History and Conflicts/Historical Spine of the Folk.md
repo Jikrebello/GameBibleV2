@@ -17,25 +17,25 @@ The Folk are related Orphaned peoples whose communities reassembled across the s
 
 ## Orphaned Reassembly and First Hearths
 
-- **c. 2300-1900 BR:** subject villages, fugitives, local revolt communities and survivors of collapsing Giant client states enter, remain within or reconnect across the southern forests, coasts and mountain corridors. Escaped lesser Giants and giant-blooded prisoners from Nhaldur contribute war leaders and ancestry without making the Folk a Giant people.
-- **c. 2050-1900 BR:** separate proto-Atherian war-settlements reach occupied southern gates, river corridors and coasts. Their relations with different Folk communities include massacre, slavery, hostage exchange, land seizure, alliance, trade, intermarriage, and the destruction or absorption of forts.
-- **c. 1900-1400 BR:** Belathi, Hartheni and Odrani identities become legible; hearth-law, annual All-Things, winter stores, ringworks, grove boundaries and formal Grobi watches become durable.
-- **c. 1400-800 BR:** river leagues, hillfort confederacies, coastal kindreds, and old-rite Enaidfae networks become regional powers.
+- **c. 2300-1900 BR:** subject villages, fugitives, local revolt communities and survivors of collapsing Giant client states entered, remained within or reconnected across the southern forests, coasts and mountain corridors. Escaped lesser Giants and giant-blooded prisoners from Nhaldur contributed war leaders and ancestry.
+- **c. 2050-1900 BR:** separate proto-Atherian war-settlements reached occupied southern gates, river corridors and coasts. Their relations with different Folk communities included massacre, slavery, hostage exchange, land seizure, alliance, trade, intermarriage, and the destruction or absorption of forts.
+- **c. 1900-1400 BR:** Belathi, Hartheni and Odrani identities became legible; hearth-law, annual All-Things, winter stores, ringworks, grove boundaries and formal Grobi watches became durable.
+- **c. 1400-800 BR:** river leagues, hillfort confederacies, coastal kindreds, and old-rite Enaidfae networks became regional powers.
 
 ## Atherian Centuries
 
-- **c. 800-350 BR:** Atherian city-states renew and greatly enlarge older contact through trade, recruitment, colonization and campaigns in the northern Folk lands.
-- **c. 390–379 BR:** [[The Southern Campaigns of Teren Casvilar]] draw separate river and forest coalitions into conquest and resistance. Morveth seeks support for local crossings; Drenoc leads the defence at Kellovar, which falls in 383. Velcara survives captivity and returns to rebuild storage through her maternal connections. The mutilations at Darneth in 380 leave enduring burdens in local households. These events belong to northern Folk approaches, independently of Tidewood's older dry-fleet story and the much later massacre at Wolfsmere.
-- **c. 350 BR onward:** imperial roads and forts penetrate the marches. Some clans become federates and auxiliaries; some strongholds fall; others retain treaty autonomy.
-- **0-540 AR:** converted and Atherianized Folk enter imperial institutions while old-rite territories remain beyond consistent rule. Decadence brings renewed raids, secessions, and abandoned frontier works.
+- **c. 800-350 BR:** Atherian city-states renewed and greatly enlarged older contact through trade, recruitment, colonization and campaigns in the northern Folk lands.
+- **c. 390–379 BR:** [[The Southern Campaigns of Teren Casvilar]] drew separate river and forest coalitions into conquest and resistance. Morveth sought support for local crossings; Drenoc led the defence at Kellovar, which fell in 383. Velcara survived captivity and returned to rebuild storage through her maternal connections. The mutilations at Darneth in 380 left enduring burdens in local households.
+- **c. 350 BR onward:** imperial roads and forts penetrated the marches. Some clans became federates and auxiliaries; some strongholds fell; others retained treaty autonomy.
+- **0-540 AR:** converted and Atherianized Folk entered imperial institutions while old-rite territories remained beyond consistent rule. Decadence brought renewed raids, secessions, and abandoned frontier works.
 
 ## Fall and Successor Frontiers
 
-- **905 AR onward:** the Fall removes the last common imperial frontier command. Clans reclaim settlements and roads but lose dependable grain relief and coordinated winter defence.
-- **975-982 AR:** Adalmar's eastern consolidation turns the southern border into a program of settlement, baptism, and crown title.
-- **982-1008 AR:** the **Folk Wars** combine invasion, rebellion, clan civil war, negotiated submission, and missionary expansion.
-- **993 AR:** the **Drowning at Wolfsmere** kills four thousand captive oath-keepers and seers. The lake becomes a standing leftward thin space.
-- **c. 1005 AR:** **Weylan Oath-Bent** accepts baptism. His descendants become the Bent Oak, the most prominent Chapel-Folk lineage.
+- **905 AR onward:** the Fall removed the last common imperial frontier command. Clans reclaimed settlements and roads but lost dependable grain relief and coordinated winter defence.
+- **975-982 AR:** Adalmar's eastern consolidation turned the southern border into a program of settlement, baptism, and crown title.
+- **982-1008 AR:** the **Folk Wars** combined invasion, rebellion, clan civil war, negotiated submission, and missionary expansion.
+- **993 AR:** the **Drowning at Wolfsmere** killed four thousand captive oath-keepers and seers. The lake became a standing leftward thin space.
+- **c. 1005 AR:** **Weylan Oath-Bent** accepted baptism. His descendants became the Bent Oak, the most prominent Chapel-Folk lineage.
 
 ## Present Inheritance
 
@@ -43,9 +43,7 @@ By 1360 AR, the Eclessian frontier remains a gradient. Parish law, clan jurisdic
 
 ## Tidewood's Regional History
 
-[[History of the Tidewood Coast]] follows one coastal neighbourhood from Orphaned survival to 1360. Its Three Beaches never become a capital for all the Folk. The capture of an Atherian dry fleet around 1260 BR, Orven Blackkeel's divided inheritance, the Gannet Head catastrophe of 710–712 AR, Edris's rescue in 1002 and the Beam War of 1287–1291 belong to particular households and shores.
-
-The region receives news and repercussions of Wolfsmere; it does not replace the Green March as the massacre's setting. Its release-cut customs inherit the earlier Tidewood–Gale-Crown story without moving the Hunt to a harbour.
+[[History of the Tidewood Coast]] follows one coastal neighbourhood from Orphaned survival to 1360. The capture of an Atherian dry fleet around 1260 BR, Orven Blackkeel's divided inheritance, the Gannet Head catastrophe of 710–712 AR, Edris's rescue in 1002 and the Beam War of 1287–1291 belong to particular households and shores.
 
 ## Navigation
 
@@ -57,11 +55,11 @@ The region receives news and repercussions of Wolfsmere; it does not replace the
 
 ## Historical Atlas — wider inheritance
 
-The Folk descend principally from Orphaned communities which rebuilt forests, fields and clan worlds outside the Glass. They were never one nation waiting for a southern invader. Atherian war-settlers encountered rival clans, surviving remnant towns and households with their own ideas of inheritance and place.
+The Folk descend principally from Orphaned communities which rebuilt forests, fields and clan worlds outside the Glass. Atherian war-settlers encountered rival clans, surviving remnant towns and households with their own ideas of inheritance and place.
 
-Conquest could destroy a fort, take hostages, produce a mixed harbour or redirect a clan's marriage network. Ark-derived settlers brought a particular witness and useful crafts, not civilization to empty land. Folk societies themselves practised raiding, captivity and exclusion; autonomy did not make every custom just.
+Conquest could destroy a fort, take hostages, produce a mixed harbour or redirect a clan's marriage network. Ark-derived settlers brought a particular witness and useful crafts. Folk societies themselves practised raiding, captivity and exclusion.
 
-Menhir courts remained dangerous neighbours. Their gifts and exact prices shaped local hunting, fosterage, mining and seasonal customs without supplying a moral law. Conversion later produced Chapel-Folk as well as resistance, while Enaidfae remained an old-rite identity rather than a separate human biology. Shared ancestry and the annual All-Thing tradition did not erase the historical divergence from the Ättar caused by geography, enemies and political choices.
+Menhir courts remained dangerous neighbours. Their gifts and exact prices shaped local hunting, fosterage, mining and seasonal customs. Conversion later produced Chapel-Folk as well as resistance, while Enaidfae remained an old-rite identity. The Folk and the Ättar shared ancestry and the annual All-Thing tradition, but geography, enemies and political choices made their histories diverge.
 
 ## Stories and neighbouring histories
 

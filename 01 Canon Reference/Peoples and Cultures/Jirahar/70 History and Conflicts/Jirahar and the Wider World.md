@@ -25,7 +25,7 @@ Thalmyria venerates Isfir while remembering Jirahar elders through imperial Chur
 
 ## The Covenant
 
-Covenant states recognize Jirahar communities through negotiated instruments, taxes, and courts. Protection is real and unequal. Jirahar jurists influenced early contract scholarship through residence, conversion, and shared Scattering memories; they did not create the Ahdari or the Covenant peoples. Mazrakan and Melach are major points of exchange and conversion pressure.
+Covenant states recognize Jirahar communities through negotiated instruments, taxes, and courts. Protection is real and unequal. Jirahar jurists influenced early contract scholarship through residence, conversion, and shared Scattering memories. Mazrakan and Melach are major points of exchange and conversion pressure.
 
 ## Sestara
 
@@ -33,7 +33,7 @@ Dahava competes with Medori finance. Yamma works with Sermoran shipping. Orsena 
 
 ## Tarkhan
 
-Melach's peace-price depends on old word-law with the Hordes. Jirahar caravans pay passage, hire escorts, exchange Well-Tarkhan camels and Grass-Tarkhan horses, and sometimes shelter dispossessed clans. A broken hospitality oath can close more country than a formal border. Fixed Way-Gates do not bypass markets or routes without anchors, so Tarkhan passage remains materially important.
+Melach's peace-price depends on old word-law with the Hordes. Jirahar caravans pay passage, hire escorts, exchange Well-Tarkhan camels and Grass-Tarkhan horses, and sometimes shelter dispossessed clans. A broken hospitality oath can close more country than a formal border. Way-Gates link only fixed anchors, so Tarkhan passage remains materially important.
 
 ## Folk and Ättar
 
@@ -41,7 +41,7 @@ Trade includes timber, medicines, metalwork, amber, fish, furs, whale products, 
 
 ## Velians
 
-The Velian Church preserves Isfir's Jirahar speech in worship. That intimacy makes theological disagreement sharper, not softer. Mixed towns contain Jirahar, Velian, Thalmyric-rite, and Covenant courts within the same walls.
+The Velian Church preserves Isfir's Jirahar speech in worship. That intimacy makes theological disagreement sharper. Mixed towns contain Jirahar, Velian, Thalmyric-rite, and Covenant courts within the same walls.
 
 ## Navigation
 

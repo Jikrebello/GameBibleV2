@@ -16,13 +16,11 @@ aliases: ["The Cart That Turned Back"]
 ---
 # The Cart That Turned Back
 
-> **Stories told.** The local telling and the material or customary remainder below are established. A claimed original object, miraculous response, famous identity or supernatural explanation is not authenticated merely by this article.
-
 ## Historical setting
 
 **612–884 AR; Long Frontier.** Atherian–Covenant frontier districts. This tradition belongs to [[The Long Frontier and the First Unsealing]]; its cultural bearers are mixed provincial, Ahdari, Velian and Jirahar communities.
 
-It is told in Long-Frontier retreat traditions, veteran camps and families once omitted from a military withdrawal. Its survival does not make every singer's version a complete account of the event.
+It is told in Long-Frontier retreat traditions, veteran camps and families once omitted from a military withdrawal.
 
 ## The tale
 
@@ -47,12 +45,6 @@ Veteran songs claim the captain finally joined the defence. Family songs leave h
 ## What remains
 
 Before a retreat, one cart wheel is rolled backward around the camp while dependants climb aboard first.
-
-## History and belief
-
-The practice, landscape or physical object described here has a place in the present world. Statements that it is the original relic, that a voice is the original dead person, or that a victory proves divine approval belong to the tradition unless a separate history establishes them.
-
-Names, precise sites and competing supernatural claims may remain uncertain without making the tradition placeless.
 
 ## Read onward
 

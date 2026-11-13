@@ -129,6 +129,9 @@ The public story does not reproduce ancient speeches, exact troop totals, dagger
 
 ## Actor identities and supernatural limits
 
+> [!note] Amended November 2026
+> These limits govern identity and truth. Where a ruling below limits what a supernatural power may cause, rather than what it is, the Consequence Rule in [[The Divergence Pass — Torque Register]] supersedes it.
+
 All named mortal figures in this package possess complete **human souls**. Citizenship, dynastic descent, public honours, adoption and political deification neither change that continuity nor confer sainthood. No final judgement, saintly manifestation, damned office or returning ancestor is established for this cast.
 
 The two materially effective supernatural episodes are deliberately limited:

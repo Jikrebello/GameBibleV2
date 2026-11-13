@@ -18,13 +18,11 @@ aliases: ["The Wolf, the Lantern and the House That Heard Them Laugh"]
 
 **The Wolf, the Lantern and the House That Heard Them Laugh** is a comic and frightening road cycle about two historical rogues who sought refuge with an immortal witch called the Old Mother. Wolf came from the far-cold hall populations which later contributed to the Ättar; Lantern was a Hartheni outcast. Their attempt to exploit the Mother's hospitality produced three ordeals, a dangerous visit by her Daughter to a village revel and a bargain which cost Wolf two fingers.
 
-> **Stories told.** The local telling and the material or customary remainder below are established. A claimed original object, miraculous response, famous identity or supernatural explanation is not authenticated merely by this article.
-
 ## Historical setting
 
 **c. 1900–1400 BR; Hearths and First Kings.** Folk forest margins adjoining proto-Atherian roads. This tradition belongs to [[Age of Hearths and First Kings]]; its cultural bearers are Folk, related Ättar and early Atherian tellers.
 
-It is told in early Folk forests and along the first Ark-settler roads that crossed them. Its survival does not make every singer's version a complete account of the event.
+It is told in early Folk forests and along the first Ark-settler roads that crossed them.
 
 ## Historical basis
 
@@ -61,12 +59,6 @@ Some tellers make the three ordeals a single night; others spread them across th
 ## What remains
 
 Bridges and guest houses bear a long-legged wolf beside a hooded lamp. Travellers leave food, jokes or two small carved fingers where a road enters old forest, although neither offering proves that the walking House ever used that route.
-
-## History and belief
-
-The practice, landscape or physical object described here has a place in the present world. Statements that it is the original relic, that a voice is the original dead person, or that a victory proves divine approval belong to the tradition unless a separate history establishes them.
-
-Names, precise sites and competing supernatural claims may remain uncertain without making the tradition placeless.
 
 ## Read onward
 

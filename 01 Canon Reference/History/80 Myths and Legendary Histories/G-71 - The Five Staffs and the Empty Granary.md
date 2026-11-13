@@ -18,13 +18,11 @@ aliases: ["The Five Staffs and the Empty Granary"]
 
 **The Five Staffs and the Empty Granary** remembers how one premature grain requisition became a repeated southern policy after its first expedition succeeded. Its central judgement was real but unenforced: a camp judge ruled the seizure unlawful and ordered removal and restitution, while the southern council retained the commander and refused both remedies.
 
-> **Stories told.** The local telling and the material or customary remainder below are established. A claimed original object, miraculous response, famous identity or supernatural explanation is not authenticated merely by this article.
-
 ## Historical setting
 
-**c. 2150–2110 BR.** southern dispersal corridors and Near-Glass borderlands. This tradition belongs to [[Age of Scattering]]; its cultural bearers are Ark-derived and neighbouring Orphaned communities.
+**c. 2150–2110 BR.** Southern dispersal corridors and Near-Glass borderlands. This tradition belongs to [[Age of Scattering]]; its cultural bearers are Ark-derived and neighbouring Orphaned communities.
 
-It is told in post-Prophet Glass-camp traditions, later municipal emergency rites and northern caravan satire. Its survival does not make every singer's version a complete account of the event.
+It is told in post-Prophet Glass-camp traditions, later municipal emergency rites and northern caravan satire.
 
 ## Historical basis
 
@@ -57,12 +55,6 @@ Atherian versions make the march unavoidable. Jirahar versions make the rear cam
 ## What remains
 
 Emergency staffs are laid on an empty granary floor before stored food may become military property. No tradition gives them identical names.
-
-## History and belief
-
-The practice, landscape or physical object described here has a place in the present world. Statements that it is the original relic, that a voice is the original dead person, or that a victory proves divine approval belong to the tradition unless a separate history establishes them.
-
-Names, precise sites and competing supernatural claims may remain uncertain without making the tradition placeless.
 
 ## Read onward
 

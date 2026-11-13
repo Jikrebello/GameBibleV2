@@ -17,11 +17,11 @@ The Velians are northern border peoples whose communities developed from Atheria
 
 ## Historical Atlas — wider inheritance
 
-Velian identity formed from an Atherian-descended border world reshaped by the condemnation of Nasriel's communion in 411, northern refuge and later Banu Mizan protection. It is neither an unaltered imperial remnant nor merely a confession applied to people who otherwise remain Thalmyric.
+Velian identity formed from an Atherian-descended border world reshaped by the condemnation of Nasriel's communion in 411, northern refuge and later Banu Mizan protection.
 
-By the Long Frontier, town, congregation, craft and family memory worked together. Married clergy, physicians, translators, irrigation officers and multilingual schools connected communities across political boundaries. Rural life depended on vines, grain, orchards, sheep and shared water. Cooperation did not remove coercion, ransom, slavery or unequal legal standing.
+By the Long Frontier, town, congregation, craft and family memory worked together. Married clergy, physicians, translators, irrigation officers and multilingual schools connected communities across political boundaries. Rural life depended on vines, grain, orchards, sheep and shared water. Coercion, ransom, slavery and unequal legal standing persisted alongside that cooperation.
 
-The failed Second Crusade and later imperial reconquests made Velians objects of competing claims. They nevertheless remained people with their own institutions and decisions. Zanthir and the Velian States stayed outside Thalmyric reconquest. Saints, sinners, medicine and translated warnings now have local histories here without making every frontier figure Velian or one translation school the source of all learning.
+The failed Second Crusade and later imperial reconquests made Velians objects of competing claims. Zanthir and the Velian States stayed outside Thalmyric reconquest.
 
 ## Stories and neighbouring histories
 

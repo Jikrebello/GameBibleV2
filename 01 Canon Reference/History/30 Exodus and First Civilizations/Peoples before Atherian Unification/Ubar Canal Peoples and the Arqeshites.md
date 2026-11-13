@@ -34,15 +34,15 @@ House Ubar recruited local elites, conquered specialists and deported population
 
 ## Deportees and imperial households
 
-Jirahar deportees entered the river world after the destruction of First Qiryath. Some remained under guards or masters. Others became musicians, builders, interpreters and water officials. Their children could speak Arqeshite, participate in an urban trade and continue Jirahar worship. Arqeshite belonging followed when a family left Jirahar communal life and entered a local household; deportation alone conferred no such membership.
+Jirahar deportees entered the river world after the destruction of First Qiryath. Some remained under guards or masters. Others became musicians, builders, interpreters and water officials. Their children could speak Arqeshite, participate in an urban trade and continue Jirahar worship. Arqeshite belonging followed when a family left Jirahar communal life and entered a local household.
 
 Similar choices faced captives from Qahur, Tarkhan districts and rebellious river towns. The empire contained many ancestries. Imperial membership described rule and service; Arqeshite civic culture centred on the capital and spread unevenly through the cities.
 
 ## Survival after House Ubar
 
-The coalition which took Arqesh in 690 BR destroyed the ruling house's supremacy and divided its territories. It did not empty the cities or erase the canal population. Farmers continued cultivation, officials served new governors and schools preserved administrative practice. Vasharan rulers adopted useful parts of Arqeshite government while condemning the dynasty they had defeated.
+The coalition which took Arqesh in 690 BR destroyed the ruling house's supremacy and divided its territories. Farmers continued cultivation, officials served new governors and schools preserved administrative practice. Vasharan rulers adopted useful parts of Arqeshite government while condemning the dynasty they had defeated.
 
-By 350 BR Arqeshite identity remained active as an urban and river culture. House Ubar had fallen. Its former subjects belonged to several successor governments, and the canal cities continued to distinguish themselves from both their conquerors and one another.
+By 350 BR Arqeshite identity remained active as an urban and river culture. Its former subjects belonged to several successor governments, and the canal cities continued to distinguish themselves from both their conquerors and one another.
 
 ## Related histories
 

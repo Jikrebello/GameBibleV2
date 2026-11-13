@@ -18,13 +18,11 @@ aliases: ["The Iron Ring before the Crown"]
 
 **The Iron Ring before the Crown** is a Hartheni foundation cycle about a cattle-defence company which became the ruling war-band of an early middle-forest kingdom. The company first earned authority by protecting settlements which could not defeat raiders alone. Its later leaders used a genuine guest-right murder and refused wergild to justify collective vengeance, the seizure of women and permanent kingship.
 
-> **Stories told.** The local telling and the material or customary remainder below are established. A claimed original object, miraculous response, famous identity or supernatural explanation is not authenticated merely by this article.
-
 ## Historical setting
 
 **c. 1900–1400 BR; Hearths and First Kings.** Hartheni middle forests. This tradition belongs to [[Age of Hearths and First Kings]]; its principal cultural bearers are Hartheni and neighbouring Folk communities.
 
-It is told in forest and marsh country where cattle protection, personal followings, public compensation and assembly law shaped early authority. Its survival does not make every singer's version a complete account of the event.
+It is told in forest and marsh country where cattle protection, personal followings, public compensation and assembly law shaped early authority.
 
 ## Historical basis
 
@@ -57,12 +55,6 @@ Royal versions say the iron ring represents service. Women's laments call it the
 ## What remains
 
 Several coronations carry a black iron ring ahead of the crown. Someone strikes it once before the cheering begins.
-
-## History and belief
-
-The practice, landscape or physical object described here has a place in the present world. Statements that it is the original relic, that a voice is the original dead person, or that a victory proves divine approval belong to the tradition unless a separate history establishes them.
-
-Names, precise sites and competing supernatural claims may remain uncertain without making the tradition placeless.
 
 ## Read onward
 

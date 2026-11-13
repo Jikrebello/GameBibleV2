@@ -18,13 +18,11 @@ aliases: ["The Empty Seat Facing Outward"]
 
 **The Empty Seat Facing Outward** remembers the crisis of movement and authority in the principal outward camp after scouts found the lands beyond the Glass already held by Giant-blooded powers, fortified nations and frightening kingdoms. Its empty chair belongs to later storytelling; the historical dispute concerned how the Prophet's last commissioned scout-captain should guide a people whose leaders had no right to inherit the Prophet's revelatory office.
 
-> **Stories told.** The local telling and the material or customary remainder below are established. A claimed original object, miraculous response, famous identity or supernatural explanation is not authenticated merely by this article.
-
 ## Historical setting
 
-**c. 2165–2130 BR.** outward threshold of the Glass. This tradition belongs to [[Age of Scattering]]; its cultural bearers are Ark-derived and neighbouring Orphaned communities.
+**c. 2165–2130 BR.** Outward threshold of the Glass. This tradition belongs to [[Age of Scattering]]; its cultural bearers are Ark-derived and neighbouring Orphaned communities.
 
-It is told among Jirahar, Ahdari and southern Ark-descended peoples remembering the Prophet's death. Its survival does not make every singer's version a complete account of the event.
+It is told among Jirahar, Ahdari and southern Ark-descended peoples remembering the Prophet's death.
 
 ## Historical basis
 
@@ -59,12 +57,6 @@ Jirahar seats face the remembered road. Ahdari seats face defended water. Some T
 ## What remains
 
 An empty place appears in several unrelated assemblies whenever someone claims authority no office can inherit.
-
-## History and belief
-
-The practice, landscape or physical object described here has a place in the present world. Statements that it is the original relic, that a voice is the original dead person, or that a victory proves divine approval belong to the tradition unless a separate history establishes them.
-
-Names, precise sites and competing supernatural claims may remain uncertain without making the tradition placeless.
 
 ## Read onward
 

@@ -18,7 +18,7 @@ The relationship between **ancient Qahur and the Gateway country** joined the Sa
 
 The two populations had separate origins. Qahuri communities were principally Orphaned survivors of the Giant collapse. Gateway society formed through older coastal inhabitants, Ahdari migrants, maritime settlers, captives and freed people. Centuries of work, marriage and war created shared families and practices, while each country retained its own language, institutions and political life.
 
-Qahuri identity crossed the competing crowns of Tenaret, Qemaret and Sakhret. Gateway ancestry crossed the boundaries of its ports. Qarzethi described the civic population of the dominant republic; Esharati and Sarqeni described other town populations; Hadrathi described a related border people. The destruction of a capital changed government without erasing these distinctions.
+Qahuri identity crossed the competing crowns of Tenaret, Qemaret and Sakhret. Gateway ancestry crossed the boundaries of its ports. Qarzethi described the civic population of the dominant republic; Esharati and Sarqeni described other town populations; Hadrathi described a related border people.
 
 ## Grain, salt and transport
 
@@ -26,7 +26,7 @@ Qahuri grain, dates, linen and preserved fish travelled towards the coast by riv
 
 Bad floods increased Qahuri demand for imported food and credit. Good floods allowed basin rulers to feed troops and temples beyond the river. Gateway cities used access to shipping in negotiations with inland kings, yet their fleets could not replace a failed harvest.
 
-The roads depended upon wells, animals and local guides. Storms could erase a merchant's investment at sea. No single ruler controlled the complete chain linking river field to foreign harbour.
+The roads depended upon wells, animals and local guides. Storms could erase a merchant's investment at sea.
 
 ## Qahuri garrisons on the coast
 
@@ -38,11 +38,11 @@ Gateway writers remembered occupation. Qahuri victory lists described the same p
 
 ## Religion along the roads
 
-Qahuri funerary linen, boat images and celestial emblems entered Gateway worship. Shore cults and ancestor forms travelled upriver. Priests constructed divine family trees which joined powers whose actual identities remained separate.
+Qahuri funerary linen, boat images and celestial emblems entered Gateway worship. Shore cults and ancestor forms travelled upriver. Priests constructed divine family trees which joined the powers of the two countries.
 
 White Measure merchants invested in Gateway ships and stores. Funerary objects anchored rooms belonging to Qahuri Second-House Patrons. Coastal clients valued secure storage and ancestral counsel without adopting the complete discipline. Later sale of forgotten anchor objects weakened distant necropolises and drew their Patrons towards the coast.
 
-The Bronze-Faced Provider acquired Qahuri titles in lists compiled during the final centuries of the period. The cult at Qarzeth gave this dependent Gluttony Mask its organised sacrificial form; the titles did not make it an Ishkatari god or river Menhir. The Boatman appeared in both regions under local names, although neither priesthood possessed authority over him.
+The Bronze-Faced Provider acquired Qahuri titles in lists compiled during the final centuries of the period. The cult at Qarzeth gave it its organised sacrificial form. Both regions knew the Boatman under local names.
 
 ## Divided interests in the Gateway Wars
 
@@ -58,7 +58,7 @@ Eryndor III's conquest and death altered the maritime world before the Gateway W
 
 Selected Qahuri crowns received foreign garrisons and military marriages during the same succession. These settlements introduced new coin forms and military colonies without replacing the Basin's temple, canal and royal houses. Qahuri funerary work, astronomy and court ceremony travelled towards Delkos through artisans, wives, captives and priests.
 
-The later House of Nerethan descended from one of the Delkosi officer families formed within this Successor world. This inheritance explains the naval titles and court practices brought to Sarqen. It gave Nerethan no descent from Eryndor or Serevan and no claim to rule Qahur.
+The later House of Nerethan descended from one of the Delkosi officer families formed within this Successor world. This inheritance explains the naval titles and court practices brought to Sarqen.
 
 ## Lemara, Tazirun and Hesara
 
@@ -66,7 +66,7 @@ The most durable dynastic connection began around 548 BR, when **Lemara of Eshar
 
 Their daughter **Hesara** inherited kin in both countries. She concealed children during Qarzeth's Years of Three Collections and later became Hadrima's mother. Hadrima's marriage to Nerethan of Delkos joined that inheritance to the new government at Sarqen.
 
-The relationship grounded later Nerethan ceremony and royal prestige. It conveyed no claim to rule the Sacred Basin. Tenaret recognised kinship when useful and rejected Sarqen's broader genealogical claims.
+The relationship grounded later Nerethan ceremony and royal prestige. Tenaret recognised kinship when useful and rejected Sarqen's broader genealogical claims.
 
 By 350 BR, Caleran controlled Sarqen while Vasharan kings still influenced divided Qahuri crowns. The roads between them carried diplomacy, spies, pilgrims, merchants and limited war into the first imperial generations.
 

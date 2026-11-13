@@ -25,7 +25,7 @@ Caelmount controls a narrow volcanic valley where an Atherian road crosses unsta
 
 Caedros allowed the vanguard through the pass, then used miners, shepherds, engineers, and surviving legionaries to collapse prepared road cuts behind it. Village militias attacked supply animals while the main resistance held the high terraces.
 
-No weaponized Holy Flame was used; that development belongs to the Caleran campaign. A refuge lamp remained lit through the ash storm and became the battle's symbol. Later art enlarged it into a wall of divine fire.
+A refuge lamp remained lit through the ash storm and became the battle's symbol. Later art enlarged it into a wall of divine fire.
 
 ## Cost and Reversal
 

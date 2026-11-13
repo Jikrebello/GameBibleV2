@@ -24,7 +24,7 @@ The ancestors of the Nsizwa lived outside the Glass migration. When Giant power 
 
 Conditions differed across the island-continent. Plateau herders could move animals away from a failing estate or violent successor, but drought and blocked water made flight dangerous. River settlements possessed cultivated fields and boats, while their fixed stores attracted raiders. Highland communities controlled mines, narrow passes and defensible caves. Burial refuges sheltered children, medicines and the bodies of respected dead when exposed settlements became unsafe.
 
-The old order did not vanish in one season. Detached Giant households, human clients and armed scavengers continued to demand food and labour in some districts. Elsewhere, abandoned roads and waterworks remained useful long after their rulers had gone. Survivors stripped workshops for metal, repaired channels and learned which ruins had become inhabited by predators or dangerous residues.
+Detached Giant households, human clients and armed scavengers continued to demand food and labour in some districts. Elsewhere, abandoned roads and waterworks remained useful long after their rulers had gone. Survivors stripped workshops for metal, repaired channels and learned which ruins had become inhabited by predators or dangerous residues.
 
 ## Orphaned Reassembly, c. 2165–1900 BR
 
@@ -66,9 +66,7 @@ Nsizwa tradition credits Mahlezi the Spirit-Tamer with joining funerary medicine
 
 The Children of Mahlezi developed these practices in several schools. Their work required skilled embalmers, weavers, smiths and singers as well as Spirit-Keepers. Failed preparations injured craftspeople, damaged bodies and sometimes produced guardians unable to recognise the end of their duty. Differences among the schools account for some of the variation found in surviving tombs.
 
-Royal patronage gathered important guardians near Mzalu's Hold and in the Valley of Echoes. The Silent Legion, ten preserved generals in separate stone chambers, became both a defence and a source of political authority. Control of access to such tombs could strengthen a ruler's claim or allow a Keeper to obstruct one.
-
-Nsizwa worshippers commonly understand an awakened body's speech and judgement as the return of an ancestor. The surviving evidence does not establish one explanation for every case. Preserved bodies, organised residues, inherited offices and genuine personal manifestations remain distinct possibilities. Human souls cannot be divided, manufactured or compelled into a corpse by funerary craft.
+Royal patronage gathered important guardians near Mzalu's Hold and in the Valley of Echoes. The Silent Legion, ten preserved generals in separate stone chambers, became both a defence and a source of political authority. Control of access to such tombs could strengthen a ruler's claim or allow a Keeper to obstruct one. Nsizwa worshippers commonly understand an awakened body's speech and judgement as the return of an ancestor.
 
 ## Mzikhona's Five Awakenings
 
@@ -86,7 +84,7 @@ Beyond the Great Salt Flats, Haze-Marked clans controlled wells, caravan routes 
 
 The Black-Tooth Clans formed from Nsizwa exiles, deserters and defeated military households. Their leaders preserved the Bull Horn and other regimental methods while rejecting the authority of the War-King. They offered service to neighbouring rulers, raided royal districts and sheltered people fleeing punishment. Nsizwa governments erased the names of condemned captains from public praise, but their families and new companions continued to remember them.
 
-These relationships prevented the kingdom from becoming an isolated military culture. Merchants, interpreters, mixed households and returned captives carried techniques and beliefs across every border. Hostility remained genuine, yet no boundary prevented a useful custom, weapon or marriage from acquiring a local form.
+Merchants, interpreters, mixed households and returned captives carried techniques and beliefs across every border. Hostility remained genuine, yet no boundary prevented a useful custom, weapon or marriage from acquiring a local form.
 
 ## Captivity, Trade and Royal Wealth
 
@@ -106,11 +104,9 @@ The memory of Mzalu offers rulers a model of conquest joined to settlement. Mahl
 
 ## History, Praise and Uncertainty
 
-Material remains establish the antiquity of cattle keeping, cultivation, metalwork and protected burial on the island-continent. Separate traditions also support a long history of political contact among the plateau, river and salt-flat societies. The broad formation of the Nsizwa as an Orphaned people is therefore distinct from the sacred history of the Glass descendants.
+Material remains establish the antiquity of cattle keeping, cultivation, metalwork and protected burial on the island-continent. Separate traditions also support a long history of political contact among the plateau, river and salt-flat societies.
 
 Praise-song supplies much of the personal history. Its performers preserve affection, ridicule, guilt and claims upon the powerful with an immediacy absent from lists of rulers. The form can also combine several victories, turn a defeated rival into a monster or give one founder the work of a generation. Historians compare songs from royal, household and enemy traditions before treating a detail as established.
-
-The Last Houses belong to a separate distant history. Their mortuary government developed independently, and no hidden journey or teaching lineage connects them with the Nsizwa. Similar concern for the dead does not make the two societies branches of one civilisation.
 
 ## Further Reading
 

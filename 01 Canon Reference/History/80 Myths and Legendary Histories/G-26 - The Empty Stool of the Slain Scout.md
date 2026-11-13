@@ -16,13 +16,11 @@ aliases: ["The Empty Stool of the Slain Scout"]
 ---
 # The Empty Stool of the Slain Scout
 
-> **Stories told.** The local telling and the material or customary remainder below are established. A claimed original object, miraculous response, famous identity or supernatural explanation is not authenticated merely by this article.
-
 ## Historical setting
 
 **c. 708–781 AR.** Atherian–Covenant frontier districts. This tradition belongs to [[The Long Frontier and the First Unsealing]]; its cultural bearers are mixed provincial, Ahdari, Velian and Jirahar communities.
 
-It is told in late Long-Frontier route villages along a dense woodland belt. Its survival does not make every singer's version a complete account of the event.
+It is told in late Long-Frontier route villages along a dense woodland belt.
 
 ## The tale
 
@@ -47,12 +45,6 @@ Hunter guilds say he mistook a real traitor's trail. Scout families say fear and
 ## What remains
 
 Route hearings and founder feasts keep an empty stool with a cut bootlace across its seat. Nobody may sit there, even in winter.
-
-## History and belief
-
-The practice, landscape or physical object described here has a place in the present world. Statements that it is the original relic, that a voice is the original dead person, or that a victory proves divine approval belong to the tradition unless a separate history establishes them.
-
-Names, precise sites and competing supernatural claims may remain uncertain without making the tradition placeless.
 
 ## Read onward
 

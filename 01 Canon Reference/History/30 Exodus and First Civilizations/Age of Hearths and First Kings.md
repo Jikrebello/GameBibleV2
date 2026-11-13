@@ -23,7 +23,7 @@ tags: []
 
 The **Age of Hearths and First Kings**, approximately 1900–1400 BR, marks the growth of durable local societies after the Scattering. Villages maintained fields and winter stores; river towns repaired irrigation; hill forts protected cultivated land; clan halls joined households through marriage, ancestry and defence. The first kings emerged from this local world as war captains, river patrons, oath-chiefs and protectors of food. Their authority could preserve a district through famine or turn a temporary obligation into hereditary service.
 
-The northern fission continued throughout these centuries. Proto-Jirahar communities developed portable courts and custodianship across dispersed settlements. The peoples of the western well country built defended markets, guest-law and territorial oath-coalitions. Neither tradition arose at one council or from a single founder.
+The northern fission continued throughout these centuries. Proto-Jirahar communities developed portable courts and custodianship across dispersed settlements. The peoples of the western well country built defended markets, guest-law and territorial oath-coalitions.
 
 Farther north and east, Tarkhan communities deepened the Nine Wells of Tergai, maintained camel roads and moved cattle and sheep through seasonal grass. Taleri craft towns worked around grounded Vathran ruins. The broad Tarkhan name came to connect these western and eastern populations through fosterage, assembly and related speech, although no king governed them all.
 
@@ -43,7 +43,7 @@ Other traditions are smaller. A hunting household survived a Menhir-hosted winte
 
 ## Cousins facing different enemies
 
-Folk and Ättar shared older Orphaned ancestry without forming one nation. Forest and field clans fought one another, bargained with courts and resisted new Atherian settlements. Farther into the southern cold belt, halls faced Grobi pressure that made watch duty, winter stores and collective defence increasingly decisive.
+Folk and Ättar shared older Orphaned ancestry. Forest and field clans fought one another, bargained with courts and resisted new Atherian settlements. Farther into the southern cold belt, halls faced Grobi pressure that made watch duty, winter stores and collective defence increasingly decisive.
 
 [[G-61 - The Hall That Faced the Grobi|The Hall That Faced the Grobi]] belongs before the great crisis around 1600 BR. Kin demanded aid for a feud while a threatened hall refused to strip its own walls. Relatives died without help; the feared attack still came. Later singers turned the refusal into a clean birth of a people, but the actual divergence accumulated over generations. [[War of the Empty Halls]] and Mother Moon's firstborn bargain came later and changed already-established halls.
 

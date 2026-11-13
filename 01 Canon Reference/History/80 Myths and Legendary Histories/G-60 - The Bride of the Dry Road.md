@@ -18,13 +18,11 @@ aliases: ["The Son-in-Law and the Stolen Gods", "The Bride of the Dry Road"]
 
 **The Son-in-Law and the Stolen Gods** is a Near-Glass household cycle about a route-wise man who entered a Tarkhan-facing coalition through service and marriage, escaped an exploitative father-in-law with two wives and a mixed travelling household, and unknowingly pronounced death upon the favourite wife who had stolen her father's gods. The former title, *The Bride of the Dry Road*, belongs to a later inversion which made the wife the founder of a separate maternal people.
 
-> **Stories told.** The local telling and the material or customary remainder below are established. A claimed original object, miraculous response, famous identity or supernatural explanation is not authenticated merely by this article.
-
 ## Historical setting
 
 **c. 1950–1750 BR.** Near-Glass caravan and well-country. This tradition belongs to [[Age of Scattering]]; its cultural bearers are Ark-derived and neighbouring Orphaned communities.
 
-It is told along Near-Glass caravan routes and among communities formed through marriage, refuge and negotiated departure from Tarkhan-facing coalitions. Its survival does not make every singer's version a complete account of the event.
+It is told along Near-Glass caravan routes and among communities formed through marriage, refuge and negotiated departure from Tarkhan-facing coalitions.
 
 ## Historical basis
 
@@ -59,12 +57,6 @@ Some versions call the husband a patient servant and others an ambitious hostage
 ## What remains
 
 Boundary stones associated with the tale bear paired witness marks. Several communities bury broken household idols near such boundaries, although no object has been authenticated as one of the stolen gods.
-
-## History and belief
-
-The practice, landscape or physical object described here has a place in the present world. Statements that it is the original relic, that a voice is the original dead person, or that a victory proves divine approval belong to the tradition unless a separate history establishes them.
-
-Names, precise sites and competing supernatural claims may remain uncertain without making the tradition placeless.
 
 ## Read onward
 

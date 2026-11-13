@@ -29,7 +29,7 @@ Doctor Lucian Ferro later systematized the movement as the **Order of the Open F
 
 ## Genuine Goods and Real Errors
 
-Freeflame reform exposed fraud, widened literacy, disciplined corrupt clergy, and restored responsibility to local congregations. It also enabled princes to seize Church lands, produced communities whose moral rigor becomes cruelty, and tempted believers to treat every inherited practice as corruption. The old Church contains genuine saints and valid sacraments; the reformers' indictment does not make the institution spiritually empty.
+Freeflame reform exposed fraud, widened literacy, disciplined corrupt clergy, and restored responsibility to local congregations. It also enabled princes to seize Church lands, produced communities whose moral rigor becomes cruelty, and tempted believers to treat every inherited practice as corruption.
 
 ## Counter-Reform
 

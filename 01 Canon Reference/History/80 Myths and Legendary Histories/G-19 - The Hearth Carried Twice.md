@@ -16,13 +16,11 @@ aliases: ["The Hearth Carried Twice"]
 ---
 # The Hearth Carried Twice
 
-> **Stories told.** The local telling and the material or customary remainder below are established. A claimed original object, miraculous response, famous identity or supernatural explanation is not authenticated merely by this article.
-
 ## Historical setting
 
-**c. 2165–1750 BR; overlapping Scattering and early Hearths.** an independent refugee hearth on an Egg White adjacency. This tradition belongs to [[Age of Scattering]]; its cultural bearers are Ark-derived and neighbouring Orphaned communities.
+**c. 2165–1750 BR; overlapping Scattering and early Hearths.** An independent refugee hearth on an Egg White adjacency. This tradition belongs to [[Age of Scattering]]; its cultural bearers are Ark-derived and neighbouring Orphaned communities.
 
-It is told among Scattering cities founded by refugees who later received refugees of their own. Its survival does not make every singer's version a complete account of the event.
+It is told among Scattering cities founded by refugees who later received refugees of their own.
 
 ## The tale
 
@@ -47,12 +45,6 @@ Restoration songs blame a military emergency. Diaspora versions remember deliber
 ## What remains
 
 Two coals are exchanged at some weddings and adoptions. If one goes out, both households relight it together.
-
-## History and belief
-
-The practice, landscape or physical object described here has a place in the present world. Statements that it is the original relic, that a voice is the original dead person, or that a victory proves divine approval belong to the tradition unless a separate history establishes them.
-
-Names, precise sites and competing supernatural claims may remain uncertain without making the tradition placeless.
 
 ## Read onward
 

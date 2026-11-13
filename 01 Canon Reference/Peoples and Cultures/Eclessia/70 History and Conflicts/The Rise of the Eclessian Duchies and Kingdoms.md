@@ -14,7 +14,7 @@ tags: []
 ---
 # The Rise of the Eclessian Duchies and Kingdoms
 
-The present Eclessian realms descend from Atherian provinces, post-Fall emergency lordships, Adalmar's united crown, and the later partitions of his dynasty. They did not all arise at once, and several acquired their modern form centuries after their names first appeared.
+The present Eclessian realms descend from Atherian provinces, post-Fall emergency lordships, Adalmar's united crown, and the later partitions of his dynasty. Several acquired their modern form centuries after their names first appeared.
 
 ## Adalmar's Crown, 975-1019 AR
 
@@ -34,17 +34,15 @@ Every modern border claim interprets Drossfeld differently.
 
 ## Founders Remembered Correctly
 
-Older regional chronicles preserve useful figures while exaggerating their offices:
+Older regional chronicles preserve these figures while exaggerating their offices:
 
-- **Queen-Matron Seraphyne** was Aurelia's battle-abbess and emergency protector c. 930-949 AR, not the founder of a post-Fall kingdom.
+- **Queen-Matron Seraphyne** was Aurelia's battle-abbess and emergency protector c. 930-949 AR; the chronicles make her the founder of a post-Fall kingdom.
 - **Abbess Elyenne of Verdissia** and **Rhalien Veris** built Veridancia's first post-Drossfeld ducal compact in the 1050s. Rhalien was acclaimed as war-chaplain and protector before his descendants regularized the title.
-- **Juran the Stalwart** was a Vesari elected war-prince before the Choosing, not the first king of a fully Eclessian Virelia.
-
-Their corrected roles preserve the regional traditions without making every modern realm spring fully formed from 905 AR.
+- **Juran the Stalwart** was a Vesari elected war-prince before the Choosing; the chronicles remember him as the first king of a fully Eclessian Virelia.
 
 ## The Choosing of Virelia, 1061 AR
 
-The Vesari princedoms were not a late Eclessian colony. They were an older Braided river people with their own towns, moots and rites, formed from remnant populations, arriving Ark-derived groups and later local unions. Prince Radomir I chose the Sanctum for dynastic alliance and western arms despite his envoys' powerful encounter with Veridun. This created Virelia's durable contradiction: a western hierarchy above eastern-flavored popular piety.
+The Vesari were an older Braided river people with their own towns, moots and rites, formed from remnant populations, arriving Ark-derived groups and later local unions. Prince Radomir I chose the Sanctum for dynastic alliance and western arms despite his envoys' powerful encounter with Veridun. This created Virelia's durable contradiction: a western hierarchy above eastern-flavored popular piety.
 
 ## The Crown in Trust, 1104 AR
 

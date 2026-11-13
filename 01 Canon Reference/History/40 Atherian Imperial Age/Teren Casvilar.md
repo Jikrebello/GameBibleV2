@@ -48,7 +48,7 @@ Deceran Tolm, an officer whom Casvilar trusted, helped bring him to the meeting 
 
 Casvilar had designated Thalion as his civic heir. Amesar's acknowledged royal parentage gave him a different claim, grounded in Samyra's country. Neither arrangement settled the allegiance of armies. Velsar possessed military relationships which a testament could not transfer.
 
-Later imperial honours joined Casvilar's victories to Thalion's foundation. Southern communities remembered lost fields, mutilated relatives and the siege of Kellovar. Both inheritances endured in the empire created after his death.
+Later imperial honours joined Casvilar's victories to Thalion's foundation. Southern communities remembered lost fields, mutilated relatives and the siege of Kellovar.
 
 ## Further reading
 

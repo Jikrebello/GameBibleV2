@@ -34,7 +34,7 @@ The settlement altered public life in visible ways. Processions from different n
 
 Resistance came from particular interests. Some maritime patrons objected to inland teachers deciding the order of ceremonies. A Thesran house refused to let its ancestral vessels leave the city for Caleran's festival. Several upland communities continued offerings to the Sun and land powers which the public Star story treated unfavourably or left at its edges. The couple accepted many domestic observances while using money, appointments and royal pressure to secure participation in the shared ceremonies.
 
-The reign also retained blood sacrifice. Animals were killed at public feasts, and captured enemies were sacrificed during a campaign celebration approved by both rulers. Tarsenna selected the ceremonial occasion; Ilaron supplied the prisoners from a defeated river stronghold. Their relatives remembered the killings after the festival became a celebrated beginning of civic concord. The shared religion strengthened Caleran's government while preserving practices through which it displayed and exercised power over captives.
+The reign also retained blood sacrifice. Animals were killed at public feasts, and captured enemies were sacrificed during a campaign celebration approved by both rulers. Tarsenna selected the ceremonial occasion; Ilaron supplied the prisoners from a defeated river stronghold. Their relatives remembered the killings after the festival became a celebrated beginning of civic concord.
 
 ## Household and legacy
 

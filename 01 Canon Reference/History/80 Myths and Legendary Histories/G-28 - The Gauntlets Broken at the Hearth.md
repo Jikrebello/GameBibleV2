@@ -16,13 +16,11 @@ aliases: ["The Gauntlets Broken at the Hearth"]
 ---
 # The Gauntlets Broken at the Hearth
 
-> **Stories told.** The local telling and the material or customary remainder below are established. A claimed original object, miraculous response, famous identity or supernatural explanation is not authenticated merely by this article.
-
 ## Historical setting
 
 **c. 729–792 AR.** Atherian–Covenant frontier districts. This tradition belongs to [[The Long Frontier and the First Unsealing]]; its cultural bearers are mixed provincial, Ahdari, Velian and Jirahar communities.
 
-It is told in late Long-Frontier forge towns and among households descended from one burned workshop. Its survival does not make every singer's version a complete account of the event.
+It is told in late Long-Frontier forge towns and among households descended from one burned workshop.
 
 ## The tale
 
@@ -47,12 +45,6 @@ Smith guilds praise his repentance. Burned-house descendants say restitution was
 ## What remains
 
 Forge hearths hang two broken gauntlets apart. When the stop bell sounds, the youngest qualified worker may quench the fire without permission.
-
-## History and belief
-
-The practice, landscape or physical object described here has a place in the present world. Statements that it is the original relic, that a voice is the original dead person, or that a victory proves divine approval belong to the tradition unless a separate history establishes them.
-
-Names, precise sites and competing supernatural claims may remain uncertain without making the tradition placeless.
 
 ## Read onward
 

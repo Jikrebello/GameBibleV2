@@ -27,7 +27,7 @@ In Virelia, the sabre-right nobility answered scarcity by binding survivors more
 
 The plague produced the Ash-Walker processions: penitents who traveled from town to town attempting to turn the fever through public suffering. When the mortality ended, their spiritual descendants split. Some sought silence and exhaustion in teachings that later fed [[The Apathetics]]. Others pursued increasingly desperate apparitions and relics, giving the [[The Weeping Courts|Weeping Courts]] a vast field of grief to cultivate.
 
-The false apparition at Bruckmoor was exposed in 1243 AR after feeding on that grief for decades. Its destruction became the founding trauma of Eclessia's modern relic courts.
+The false apparition at Bruckmoor was exposed in 1243 AR after feeding on that grief for more than a decade. Its destruction became the founding trauma of Eclessia's modern relic courts.
 
 ## Legal and Political Consequences
 

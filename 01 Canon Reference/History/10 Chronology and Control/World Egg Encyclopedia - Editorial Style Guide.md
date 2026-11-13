@@ -156,6 +156,22 @@ Established harms remain in readable history. Moving a design note must never re
 
 Campaign prompts, encounter instructions, collision rulings, promotion gates and future design questions do not belong in reader-facing encyclopedia prose. Preserve them in an authorial review or game-use page linked through metadata or the relevant control index. Restricted visibility may protect a secret, but it does not turn a design note into an encyclopaedia article.
 
+## Historical causation, precision and negation
+
+Added after the [[World History Causality Review - November 2026]].
+
+**Pressures before people.** Each period is first written as three or four long-running pressures (food, land, money, war, belief, a supernatural power), each with a beginning, a turning point and an outcome. Named people are added where a person changes the result. No new named minor figure enters a period whose causal account is unwritten.
+
+**One world-native cause per transition.** A change of dynasty, transfer of territory or religious turn needs a stated cause. At least one transition in every period turns on something only this cosmology could produce; see the Consequence Rule in [[The Divergence Pass — Torque Register]].
+
+**Precision budget.** Societies remember founders as legend and logistics as archaeology. Before c. 800 BR, reader articles give numbers and dates in the form a source would preserve them: a tradition's count, a king-list's disagreement, a reign placed "in the time of" a remembered ruler. Exact figures may be kept in authorial notes. Exact years are spent on turning points and on the centuries closest to 1360.
+
+**The negation rule.** Reader prose says what happened and what people believed. It states what something is *not* only when a named in-world source claims that it is. Continuity safeguards ("no single cause", "does not prove", "remains distinct", "is unrelated to") belong in authorial controls.
+
+**Open disagreement and contingency.** The narrator does not settle every disagreement, and not every disagreement takes the shape "the inscription omits, the song remembers". Some outcomes turn on a drowned heir, a lost harvest or a commander's error.
+
+**Authorial truth stays out of reader prose.** The identity of the powers behind cults, soul-continuity rulings and the answers to protected questions belong in authorial files. Reader articles show them through what in-world witnesses claimed.
+
 ## Editorial workflow and provenance
 
 Britannica describes distinct work by subject editors, fact-checkers, supervisory editors, copy editors and information architects, followed by continuing review and transparent identification of sources and revision. One author may perform several of these roles for the World Egg, but the passes remain separate. Combining them encourages elegant sentences to conceal factual invention or technically correct notes to remain unreadable.

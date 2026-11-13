@@ -16,13 +16,11 @@ aliases: ["The Three False Processions"]
 ---
 # The Three False Processions
 
-> **Stories told.** The local telling and the material or customary remainder below are established. A claimed original object, miraculous response, famous identity or supernatural explanation is not authenticated merely by this article.
-
 ## Historical setting
 
-**c. 2400–2260 BR; Late Chains and Unbinding.** a separate lesser court and its Egg White pursuit routes. This tradition belongs to [[Age of Chains]]; its cultural bearers are slave-descendant communities.
+**c. 2400–2260 BR; Late Chains and Unbinding.** A separate lesser court and its Egg White pursuit routes. This tradition belongs to [[Age of Chains]]; its cultural bearers are slave-descendant communities.
 
-It is told along ruined Late-Chains pursuit routes and in the contradictory memories of copied Giant ancestors. Its survival does not make every singer's version a complete account of the event.
+It is told along ruined Late-Chains pursuit routes and in the contradictory memories of copied Giant ancestors.
 
 ## The tale
 
@@ -47,12 +45,6 @@ Some hunters' songs claim one copy understood and chose sacrifice. Surface tradi
 ## What remains
 
 Three routes contain palace hinges, royal cloth and ancestor-patterns that cannot all describe the same childhood. The fourth itinerary has never been found.
-
-## History and belief
-
-The practice, landscape or physical object described here has a place in the present world. Statements that it is the original relic, that a voice is the original dead person, or that a victory proves divine approval belong to the tradition unless a separate history establishes them.
-
-Names, precise sites and competing supernatural claims may remain uncertain without making the tradition placeless.
 
 ## Read onward
 

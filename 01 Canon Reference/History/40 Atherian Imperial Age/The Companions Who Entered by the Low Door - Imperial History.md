@@ -42,9 +42,9 @@ At the companions' last recorded meal, only four attended. Miro set places for a
 
 ## History and legend
 
-The riot, Avol's rescue, the companions' service and Helon's execution are supported by independent provincial material. Oren's account, workshop marks and surviving household traditions also establish the refuge betrayal. No single source preserves every participant's motive.
+The riot, Avol's rescue, the companions' service and Helon's execution are supported by independent provincial material. Oren's account, workshop marks and surviving household traditions also establish the refuge betrayal.
 
-[[G-09 - The Companions Who Entered by the Low Door|The received tale]] changes names and sometimes counts five or seven companions. It gives the events a compact moral shape. The historical companions were skilled, wounded human beings who also became responsible for injuries inflicted on others.
+[[G-09 - The Companions Who Entered by the Low Door|The received tale]] changes names and sometimes counts five or seven companions. It gives the events a compact moral shape.
 
 ## Further reading
 

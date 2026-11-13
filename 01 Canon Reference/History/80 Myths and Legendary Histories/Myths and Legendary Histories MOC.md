@@ -15,6 +15,8 @@ tags: [world-historical-atlas]
 
 These are the world's received stories, not seventy-five certificates that every event happened as sung. Their communities, tellings and ordinary remainders are established; disputed identities, miracles and ultimate fates remain distinguished within each entry. Distant traditions are readable by the author without having reached the known world.
 
+Every tale below is a **story told** unless its entry says otherwise. A tale establishes its tellers, its tellings and the customs or objects that survive it. It does not by itself authenticate an original relic, a miraculous response, a famous identity, a voice that claims to be the dead, or a victory's divine approval; those belong to the tradition unless a separate history establishes them. Singers disagree, and no single version is the whole event.
+
 
 ## Age of Chains
 

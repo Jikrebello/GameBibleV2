@@ -34,7 +34,7 @@ Ostar's command increased his standing without giving him the extensive overseas
 
 ## The first partnership
 
-Ostar supplied money and political support to Casvilar while cooperating with Veyr over appointments and provincial interests. Their partnership operated through personal agreement, marriage and influence in public bodies. It held no collective governing office.
+Ostar supplied money and political support to Casvilar while cooperating with Veyr over appointments and provincial interests. Their partnership operated through personal agreement, marriage and influence in public bodies.
 
 Casvilar's southern command gave his creditor a useful ally and an increasingly independent competitor. Ostar sought a foreign victory of his own. Northern trade and the wealth moving between wells made the approaches beyond established Atherian control attractive to him.
 
@@ -44,13 +44,13 @@ His son Pel accompanied the expedition. Born in 407 BR, Pel had grown up expecti
 
 In 381 BR Ostar advanced towards Rethmar, a winter gathering where Ahdari camel circuits and Tarkhan well communities met. Permanent gardeners, smiths and water keepers lived around its reservoirs. Visiting households occupied seasonal compounds and attended its market. Ostar expected local leaders to provide water, transport and passage for further operations.
 
-Kharuz of the Stone Wells organised resistance among settlements whose livelihoods depended on controlling access to stored water. Tavisha, a keeper involved in distributing water between households and visiting caravans, helped move supplies away from the line of advance. Their followers used camels, foot archers and knowledge of the intervals between wells. These societies preceded the mounted Tarkhan formations of later centuries.
+Kharuz of the Stone Wells organised resistance among settlements whose livelihoods depended on controlling access to stored water. Tavisha, a keeper involved in distributing water between households and visiting caravans, helped move supplies away from the line of advance. Their followers used camels, foot archers and knowledge of the intervals between wells.
 
 The Atherian columns became separated while trying to secure water and bring their baggage forward. Local forces attacked exposed parties and prevented them from rejoining. Pel died before his father. Ostar's attempt to recover the army through negotiation ended in his own death amid the collapse of the command.
 
 Some soldiers escaped; others were killed or taken captive. Fever entered the northern camp before ransom could be arranged. Tavisha ordered sick captives and non-combatant water workers released with enough water to reach a southern station. Kharuz exchanged healthy officers for weapons and animals. Captives whose families sent no payment were exchanged, admitted to local households or enslaved.
 
-The coalition dispersed after securing Rethmar. Tavisha's authority governed the reservoirs, while Kharuz commanded people who had followed him to war. Neither founded a northern kingdom. The loss damaged lenders and suppliers at home as well as military households. Northern communities remembered the preservation of their wells and the relatives lost in achieving it.
+The coalition dispersed after securing Rethmar. Tavisha's authority governed the reservoirs, while Kharuz commanded people who had followed him to war. The loss damaged lenders and suppliers at home as well as military households. Northern communities remembered the preservation of their wells and the relatives lost in achieving it.
 
 ## Consequences
 

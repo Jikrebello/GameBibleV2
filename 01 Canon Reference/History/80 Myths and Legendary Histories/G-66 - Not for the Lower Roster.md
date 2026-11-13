@@ -16,13 +16,11 @@ aliases: ["Not for the Lower Roster"]
 ---
 # Not for the Lower Roster
 
-> **Stories told.** The local telling and the material or customary remainder below are established. A claimed original object, miraculous response, famous identity or supernatural explanation is not authenticated merely by this article.
-
 ## Historical setting
 
 **c. 2400–2260 BR; Late Chains and Unbinding.** Urum-facing mortuary estates. This tradition belongs to [[Age of Chains]]; its cultural bearers are slave-descendant communities.
 
-It is told among mortuary workers whose predecessors served a lesser Giant court during the Late Chains. Its survival does not make every singer's version a complete account of the event.
+It is told among mortuary workers whose predecessors served a lesser Giant court during the Late Chains.
 
 ## The tale
 
@@ -47,12 +45,6 @@ Some fraternities say a soul was rescued. Others insist the soul had already gon
 ## What remains
 
 At certain funerals, tools are laid down and struck once after the refusal is sung. Nobody agrees where the sealed stair lies.
-
-## History and belief
-
-The practice, landscape or physical object described here has a place in the present world. Statements that it is the original relic, that a voice is the original dead person, or that a victory proves divine approval belong to the tradition unless a separate history establishes them.
-
-Names, precise sites and competing supernatural claims may remain uncertain without making the tradition placeless.
 
 ## Read onward
 

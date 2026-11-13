@@ -40,7 +40,7 @@ The Holy Synod and emperor require one another but dispute appointments, militar
 
 ## Return and Belonging
 
-Mixed occupation-descended communities remain vulnerable to purist politics. The state must decide whether loyalty, law, ancestry, or suffering defines belonging. Every answer protects someone and exposes someone else.
+Mixed occupation-descended communities remain vulnerable to purist politics. The state must decide whether loyalty, law, ancestry, or suffering defines belonging.
 
 ## Navigation
 

@@ -48,13 +48,13 @@ Thalion secured the gateway revenues and returned through the eastern and highla
 
 The senate retained civic and ceremonial work while losing effective control of the army. Astaroth's priesthood acquired precedence in imperial ceremonies of victory and command. The Common Sky remained part of public religion, including offices occupied by men who had once shared Thalion's power.
 
-Trade and cultivation benefited as competing military levies diminished. The settlement also protected fortunes acquired through confiscation and left expelled families dependent on decisions made by the victors. These conditions formed the opening of imperial government and shaped the society which later celebrated Thalion as its founder.
+Trade and cultivation benefited as competing military levies diminished. The settlement also protected fortunes acquired through confiscation and left expelled families dependent on decisions made by the victors.
 
 ## Later reign and death
 
 [[The Later Reign of Aurelius Thalion]] follows the demobilisation, provincial settlement and family decisions of his final decades. His son Caelor died in 324 BR after injuries received during a building inspection. Thalion adopted his nephew Meren, son of Evara and Velsar, as successor.
 
-Thalion died after prolonged illness in 318 BR. The army and senate had already recognised Meren, allowing the first imperial succession to proceed without open civil war. Later bodily-ascent stories are unsupported; his complete human soul remained distinct from imperial office, portrait cult and the later dependent Pride Mask.
+Thalion died after prolonged illness in 318 BR. The army and senate had already recognised Meren, allowing the first imperial succession to proceed without open civil war. Later bodily-ascent stories are unsupported by contemporary testimony.
 
 ## Further reading
 

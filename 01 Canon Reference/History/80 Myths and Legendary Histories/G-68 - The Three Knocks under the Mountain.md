@@ -16,13 +16,11 @@ aliases: ["The Three Knocks under the Mountain"]
 ---
 # The Three Knocks under the Mountain
 
-> **Stories told.** The local telling and the material or customary remainder below are established. A claimed original object, miraculous response, famous identity or supernatural explanation is not authenticated merely by this article.
-
 ## Historical setting
 
-**c. 1110–1170 AR.** one Aversian high mine under Shield-House extraction. This tradition belongs to [[High Noon and the Qarath Disaster]]; its cultural bearers are Thalmyric, Eclessian and Sestaran tellers.
+**c. 1110–1170 AR.** One Aversian high mine under Shield-House extraction. This tradition belongs to [[High Noon and the Qarath Disaster]]; its cultural bearers are Thalmyric, Eclessian and Sestaran tellers.
 
-It is told in one High-Noon Aversian mining belt under Shield-House extraction. Its survival does not make every singer's version a complete account of the event.
+It is told in one High-Noon Aversian mining belt under Shield-House extraction.
 
 ## The tale
 
@@ -47,12 +45,6 @@ Court-facing families say the interpreter betrayed both peoples. Officials blame
 ## What remains
 
 Miners never answer the middle of three knocks. They leave the pale rib untouched and mark it with meal rather than blood.
-
-## History and belief
-
-The practice, landscape or physical object described here has a place in the present world. Statements that it is the original relic, that a voice is the original dead person, or that a victory proves divine approval belong to the tradition unless a separate history establishes them.
-
-Names, precise sites and competing supernatural claims may remain uncertain without making the tradition placeless.
 
 ## Read onward
 

@@ -20,7 +20,7 @@ The ancient Jirahar developed from the Near-Glass camp continuum after the south
 
 A road house consisted of related and adopted households which maintained a stage of travel, common stores and obligations towards guests and neighbouring houses. Some moved seasonally; others occupied permanent buildings beside a well, ford or pass. Tower communities combined refuge, storage, worship and signalling. A tower's authority depended on the people willing to provision and defend it.
 
-Belonging passed through acknowledged descent and could also be acquired through public conversion and admission to a household. Marriage connected roads and occupations. Adoption incorporated displaced children and adults. A convert accepted communal worship and duties before recognised witnesses. Old families often possessed influence, though descent did not create a closed biological caste.
+Belonging passed through acknowledged descent and could also be acquired through public conversion and admission to a household. Marriage connected roads and occupations. Adoption incorporated displaced children and adults. A convert accepted communal worship and duties before recognised witnesses. Old families often possessed influence.
 
 Occupational houses carried skills across the network. Judges travelled between disputes. Provisioners measured grain and protected pack animals. Scribes and name keepers recorded households separated by travel or violence. Smiths, herders, healers and water workers served several camps. Their different responsibilities prevented any single office from inheriting the Prophet's authority.
 
@@ -36,7 +36,7 @@ The Arqeshite destruction of First Qiryath in 742 BR killed inhabitants, broke t
 
 Arqesh distributed deportees among river cities, agricultural settlements, workshops, court households and canal gangs. Some skilled families received rations and limited property while remaining unable to leave. Others were sold, separated or assigned to lethal labour.
 
-Exiles learned Arqeshite language, music, masonry and water administration. They formed burial fraternities, schools and trading partnerships. Service in an Arqeshite office did not itself erase Jirahar identity. A descendant could remain within Jirahar communal life, enter an Arqeshite household or hold both relationships. These were personal and household outcomes rather than an automatic result of deportation.
+Exiles learned Arqeshite language, music, masonry and water administration. They formed burial fraternities, schools and trading partnerships. A descendant could remain within Jirahar communal life, enter an Arqeshite household or hold both relationships.
 
 ## Return and Second Qiryath
 

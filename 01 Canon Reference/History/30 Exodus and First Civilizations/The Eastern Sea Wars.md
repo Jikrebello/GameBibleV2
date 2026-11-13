@@ -32,7 +32,7 @@ The coast inherited an earlier division from the death of Eryndor III of Ortheia
 
 Their Wars of the Inheritance moved fleets and soldiers through the coast until about 650 BR. Demeran's agents eventually imprisoned and killed Parena and her child. Serevan sheltered some of her attendants and used their testimony against him. Coastal cities learned to bargain with commanders who claimed the same royal inheritance and issued incompatible grants of land, citizenship and harbour privilege.
 
-The successor kingdoms did not endure as a single political system. Their people and practices remained. Delkosi officers entered maritime republics and royal courts; Ortheian veterans held land among eastern cities; mixed ship crews carried Atherian, Qahuri, Vashari and Arqeshite techniques. The Gateway Wars began within this already connected sea. Later rulers remembered the successor age whenever they claimed that a fleet commander could preserve order after a king's death.
+The successor kingdoms' people and practices remained. Delkosi officers entered maritime republics and royal courts; Ortheian veterans held land among eastern cities; mixed ship crews carried Atherian, Qahuri, Vashari and Arqeshite techniques. The Gateway Wars began within this already connected sea. Later rulers remembered the successor age whenever they claimed that a fleet commander could preserve order after a king's death.
 
 ## The western coast during the Gateway Wars, c. 650–520 BR
 
@@ -98,7 +98,7 @@ No treaty settled the whole coast. Agreements recognised particular cities, retu
 
 ## Marovan Veyr and the eastern commands, 414–397 BR
 
-The later Atherian commander **Marovan Veyr** built his early reputation among ports whose alliances had been shaped by this older struggle. He secured winter harbours, suppressed raiding coalitions and established clients near the Vasharan sphere. His campaigns belong to the established history of the Caleran republic and remain distinct from Xarun's invasion.
+The later Atherian commander **Marovan Veyr** built his early reputation among ports whose alliances had been shaped by this older struggle. He secured winter harbours, suppressed raiding coalitions and established clients near the Vasharan sphere.
 
 Veyr's conquests ended along the coast and the routes approaching Velos. The Vashari highlands and Ubar basin remained beyond his control. Vasharan governors accepted temporary boundaries when they needed freedom to deal with rival houses inland. Some coastal rulers held Atherian civic titles and Vasharan court ranks at the same time.
 
@@ -140,13 +140,11 @@ Pilots, translators, traders, hostages and road-house travellers carry knowledge
 
 ## Supernatural pressures
 
-Human rulers decide to revolt, invade, compel allies and execute prisoners. Supernatural powers influence particular beliefs and moments without directing the campaigns.
+Dreams of ordered nations around a radiant king, which court diviners attribute to the **Witness of Dawn**, strengthen Xarun's existing conviction that submission proves truth.
 
-The dependent Pride Mask called the **Witness of Dawn** exploits Vasharan royal imagery. Dreams of ordered nations around a radiant king strengthen Xarun's existing conviction that submission proves truth. Xarun and his commanders still choose the aims, routes and punishments of the invasion.
+Atherian crews dedicate weapons and campaign rites to **Astaroth**. They hold that a correspondence can reveal how force will travel through a particular hull, bridge or formation, and commanders use such answers as practical military information.
 
-Atherian crews dedicate weapons and campaign rites to the Menhir **Astaroth**. A genuine correspondence may reveal how force will travel through a particular hull, bridge or formation. Commanders use this knowledge as practical military information; the response supplies no judgement upon the justice of their war.
-
-Coastal people tell of winds and channels answering older Menhir relationships. Victory songs claim such an answer at Ilyessa, while the surviving campaign sequence already records the pilots, divided channels and storm that shaped the battle. Whether a Menhir response also occurred remains unresolved.
+Coastal people tell of winds and channels answering older Menhir relationships. Victory songs claim such an answer at Ilyessa, while the surviving campaign sequence records the pilots, divided channels and storm that shaped the battle.
 
 ## People whose lives join the account
 
@@ -166,7 +164,7 @@ Coastal people tell of winds and channels answering older Menhir relationships. 
 
 Vasharan palace histories describe a defence of truthful order against rebellious governors and oath-breaking cities. Atherian civic histories describe free cities repelling eastern monarchy. Tasaran songs remember two liberations and three forms of requisition. Jirahar accounts follow divided households, rescued captives and the routes which armies failed to close.
 
-Vasharan inscriptions record the road commands and royal victories while omitting some surrendered leaders and punitive sales. Atherian contribution lists reveal which allied cities supplied ships under threat. Destruction layers, burial grounds, household correspondence and road-house memories preserve the losses experienced in the coastal settlements. Together these sources expose the interests and omissions behind the later public histories.
+Vasharan inscriptions record the road commands and royal victories while omitting some surrendered leaders and punitive sales. Atherian contribution lists reveal which allied cities supplied ships under threat. Destruction layers, burial grounds, household correspondence and road-house memories preserve the losses experienced in the coastal settlements.
 
 ## Chronology
 
@@ -187,16 +185,6 @@ Vasharan inscriptions record the road commands and royal victories while omittin
 | 376–373 BR | Caleran civil war weakens the older coastal network |
 | 353–350 BR | final Atherian succession war; Vasharan intervention remains limited |
 | c. 350 BR | boundary settlement leaves Vashar an independent imperial peer |
-
-## What remains uncertain
-
-- Exact coastlines, distances and modern borders.
-- Liora's death or possible exile.
-- The number and names of minor coastal cities in the League of the Eastern Oar.
-- Whether a genuine Menhir response occurred at Ilyessa.
-- The private content of Orvaz II's negotiations with Thalion.
-- The later conquest, accommodation or survival of Vasharan territory after 350 BR.
-- Exact biographies beyond the years needed for this sequence.
 
 ## Read with
 

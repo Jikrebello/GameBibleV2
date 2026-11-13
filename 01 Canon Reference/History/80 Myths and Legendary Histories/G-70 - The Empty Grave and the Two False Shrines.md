@@ -16,13 +16,11 @@ aliases: ["The Empty Grave and the Two False Shrines"]
 ---
 # The Empty Grave and the Two False Shrines
 
-> **Stories told.** The local telling and the material or customary remainder below are established. A claimed original object, miraculous response, famous identity or supernatural explanation is not authenticated merely by this article.
-
 ## Historical setting
 
-**c. 100–292 AR; Underground.** inland prison and quarry districts. This tradition belongs to [[The Age of the Redeemer]]; its cultural bearers are persecuted provincial congregations.
+**c. 100–292 AR; Underground.** Inland prison and quarry districts. This tradition belongs to [[The Age of the Redeemer]]; its cultural bearers are persecuted provincial congregations.
 
-It is told along quarry roads from the Underground into Legalization, by a family claimed by two hostile cults. Its survival does not make every singer's version a complete account of the event.
+It is told along quarry roads from the Underground into Legalization, by a family claimed by two hostile cults.
 
 ## The tale
 
@@ -47,12 +45,6 @@ One shrine says the grave emptied through ascension. The other says a rival stol
 ## What remains
 
 A carefully lined empty grave receives uncarved stones. Any inscribed offering is removed by morning.
-
-## History and belief
-
-The practice, landscape or physical object described here has a place in the present world. Statements that it is the original relic, that a voice is the original dead person, or that a victory proves divine approval belong to the tradition unless a separate history establishes them.
-
-Names, precise sites and competing supernatural claims may remain uncertain without making the tradition placeless.
 
 ## Read onward
 

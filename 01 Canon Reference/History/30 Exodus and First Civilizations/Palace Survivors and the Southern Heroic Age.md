@@ -60,7 +60,7 @@ Descriptions of monstrous rulers also vary. Some preserve encounters with genuin
 
 Between about 1900 and 1400 BR, connected harbours and production districts sustained a growing Atherian maritime world. Families who had once depended on a single landing acquired partners farther along the coast. Voyages supported shipbuilding, feasts, apprenticeships and public work. Their fortunes remained vulnerable to the decisions of powerful patrons.
 
-The disruptions around 1600–1400 BR arose within these later networks. Kassilon's seizure of Erenost's grain, around 1550–1500 BR, damaged an established system of supply and cooperation. It followed the principal Giant collapse by many generations. The history of [[Arkenan and Saronikan Cities before the Empire|the eastern cities]] traces how households responded to such failures and developed institutions that outlasted individual sea-kings.
+The disruptions around 1600–1400 BR arose within these later networks. Kassilon's seizure of Erenost's grain, in the sixteenth century BR, damaged an established system of supply and cooperation. The history of [[Arkenan and Saronikan Cities before the Empire|the eastern cities]] traces how households responded to such failures and developed institutions that outlasted individual sea-kings.
 
 ## Further reading
 

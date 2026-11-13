@@ -16,13 +16,11 @@ aliases: ["The Red Door and the Names Left Behind"]
 ---
 # The Red Door and the Names Left Behind
 
-> **Stories told.** The local telling and the material or customary remainder below are established. A claimed original object, miraculous response, famous identity or supernatural explanation is not authenticated merely by this article.
-
 ## Historical setting
 
-**c. 180–226 AR.** inland prison and quarry districts. This tradition belongs to [[The Age of the Redeemer]]; its cultural bearers are persecuted provincial congregations.
+**c. 180–226 AR.** Inland prison and quarry districts. This tradition belongs to [[The Age of the Redeemer]]; its cultural bearers are persecuted provincial congregations.
 
-It is told along Underground prison-transfer roads and at one yearly memorial whose organisers still quarrel about rescue. Its survival does not make every singer's version a complete account of the event.
+It is told along Underground prison-transfer roads and at one yearly memorial whose organisers still quarrel about rescue.
 
 ## The tale
 
@@ -47,12 +45,6 @@ Escape families read the rescued first. Prison-descendant families read the aban
 ## What remains
 
 An unhinged red door is carried flat once a year while both groups of names are read. Nobody passes through it.
-
-## History and belief
-
-The practice, landscape or physical object described here has a place in the present world. Statements that it is the original relic, that a voice is the original dead person, or that a victory proves divine approval belong to the tradition unless a separate history establishes them.
-
-Names, precise sites and competing supernatural claims may remain uncertain without making the tradition placeless.
 
 ## Read onward
 

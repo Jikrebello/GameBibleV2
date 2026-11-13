@@ -16,7 +16,7 @@ tags: [world-historical-atlas, ahdari, ancient-world, ark-derived-peoples]
 
 The **ancient Ahdari** formed in the Near-Glass and western well country between approximately 1950 and 1400 BR. Their principal ancestors belonged to the camp continuum which remained after the southern Glass-descended leagues departed. Older Orphaned well keepers, Narashi caravan houses, Tarkhan families, captives and immigrants entered the same communities over subsequent generations.
 
-Ahdari households recognised common forms of guest protection, water contribution, rescue debt, compensation and public oath. Their related dialects became the principal speech of the western camel roads. Marriage, adoption, manumission and admission at a protected well allowed outsiders to belong. This shared life made the Ahdari a durable people without requiring descent from one ancestor or obedience to one ruler.
+Ahdari households recognised common forms of guest protection, water contribution, rescue debt, compensation and public oath. Their related dialects became the principal speech of the western camel roads. Marriage, adoption, manumission and admission at a protected well allowed outsiders to belong. This shared life made the Ahdari a durable people.
 
 Al-Ahdiya and the Covenant did not yet exist. Ancient households preserved portions of the Great Prophet's teaching, forgot others and combined inherited practice with local cults. Their history therefore belongs to the pre-Covenant well country and its own political and religious world.
 
@@ -62,7 +62,7 @@ Many Ahdari lived for part or all of the year in mobile camps. One household mig
 
 A caravan joined investors, drivers, guards, guides, cooks, healers and repairers. Slaves performed much of the loading and water work in wealthy trains. Camels extended the range of travel and made western houses valuable to settled states, although a large caravan could empty a minor cistern and leave its residents unable to survive. Passage therefore depended upon negotiation, controlled herd size and payment for damage.
 
-Caravan traffic also created towns. **Mazar** began around secondary wells bypassed by prestigious routes. Merchants diverted traffic there after the massacre at Saqara. Storehouses, animal markets and repair yards followed, and Mazar's importance grew from this movement rather than from a royal foundation.
+Caravan traffic also created towns. **Mazar** began around secondary wells bypassed by prestigious routes. Merchants diverted traffic there after the massacre at Saqara. Storehouses, animal markets and repair yards followed, and Mazar's importance grew from this movement.
 
 ## Hospitality, raiding and ransom
 
@@ -86,7 +86,7 @@ Around 1280 BR, a satirist accused the protector **Harun Savel** of purchasing p
 
 They killed merchants, pilgrims, slaves, children and dependants who had no part in the insult. Survivors carried wounded relatives towards wells which lacked food and water for them, and several died on the road. Harun seized the market goods and described the massacre as a defence of honour.
 
-Caravan houses abandoned Saqara and transferred their business to Mazar. Harun's family lost the revenue it had tried to protect and divided over his succession. Later communities prohibited concealed weapons at protected markets. The law arose from the massacre and the flight which followed it.
+Caravan houses abandoned Saqara and transferred their business to Mazar. Harun's family lost the revenue it had tried to protect and divided over his succession. Later communities prohibited concealed weapons at protected markets.
 
 ## Religion before the Covenant
 
@@ -94,13 +94,13 @@ Ancient Ahdari religion contained several overlapping traditions.
 
 **Name-Keeping households** preserved prayers to the Lord, portions of the Prophet's teaching and a refusal to bow before images. Their knowledge varied. Some recited inherited words whose meaning had become obscure. Others used descent from the Glass people to claim superiority over Orphaned neighbours.
 
-**High-place rites** sought rain, safe birth, animal health and protection on the road. Worshippers sacrificed valuable animals, poured water or oil and left marked cloth. Particular rites addressed local court persons or Menhir correspondences. Their physical effects remained limited to the encounter itself and supplied no judgement upon the worshippers' claims.
+**High-place rites** sought rain, safe birth, animal health and protection on the road. Worshippers sacrificed valuable animals, poured water or oil and left marked cloth. Particular rites addressed local court persons or Menhir correspondences.
 
-**Stones and standards** carried household histories. Some were memorials or empty cult objects. Dependent Idol Masks gathered around a smaller number. Wrath fed through vengeance standards demanding blood beyond the original offence; Greed through stones at which water, ransom and debt were pledged as property; Pride through genealogical objects said to prove an untouchable line.
+**Stones and standards** carried household histories. Some were memorials or empty cult objects. Others drew darker devotion: vengeance standards demanding blood beyond the original offence, stones at which water, ransom and debt were pledged as property, and genealogical objects said to prove an untouchable line.
 
-**Patron bargains** maintained particular cisterns, warnings or paths through anchors to the Egg White. Patrons demanded goods, secrecy or service. Predatory agreements turned rescue into inherited debt. These relationships remained separate from human water custom and well government.
+**Patron bargains** maintained particular cisterns, warnings or paths through anchors to the Egg White. Patrons demanded goods, secrecy or service. Predatory agreements turned rescue into inherited debt.
 
-Neighbouring camps therefore used similar rites while addressing different powers. No priesthood or cult governed all Ahdari communities.
+No priesthood or cult governed all Ahdari communities.
 
 ## The boy beneath Ashal Stone
 
@@ -134,7 +134,7 @@ Tarkhan neighbours supplied camels, hunting knowledge, animal medicine, escorts 
 
 Qahuri crowns bought animals and transport, employed scouts and sought control of northern grain routes. Ahdari caravans carried river produce. Qahuri military houses also seized wells and settled captives.
 
-Between about 1700 and 1200 BR, Ahdari households entered established coastal settlements around the western gateway. Together with local cultivators, maritime settlers, captives and freed people, they formed the Braided coastal society described in [[Gateway Peoples, Qarzeth and the Spared Towns]]. Gateway civic history remained independent of the well country.
+Between about 1700 and 1200 BR, Ahdari households entered established coastal settlements around the western gateway. Together with local cultivators, maritime settlers, captives and freed people, they formed the Braided coastal society described in [[Gateway Peoples, Qarzeth and the Spared Towns]].
 
 Arqesh demanded scouts, hostages and route access. Its deportations placed Ahdari families in river cities and foreign artisans at northern stations. Vasharan rulers inherited parts of this network after Arqesh fell and maintained influence through clients rather than continuous occupation.
 

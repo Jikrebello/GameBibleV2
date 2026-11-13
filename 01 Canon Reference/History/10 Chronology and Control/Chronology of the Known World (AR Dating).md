@@ -44,22 +44,22 @@ The common calendar dates from the execution and Resurrection of Isfir the Redee
 - **c. 1900–1400 BR — Age of Hearths and First Kings.**
 - **c. 1900–1650 BR — Deepening of the [[Nine Wells of Tergai]].** Tergai houses, former tether workers and neighbouring camps link older sources through cisterns, ramps and repair yards. Tarkhan tenure and Ahdari use develop together without making the wells one people's exclusive creation.
 - **c. 1880–1412 BR — Senareth crowns and the first Twin-Reed age.** Neshara Senareth begins the First Long Crown; the basin divides after c. 1580, and Khevar II reunites it in 1412 through war, marriage and the execution of rival claimants.
-- **c. 1540–1439 BR — Foundation of the [[The White Measure and the Second Houses|White Measure]].** Meresha of Isethar develops the discipline and opens the Court of Unspent Lamps at her death. Her complete human soul remains bound to her body and private Egg White estate.
 - **c. 1700–850 BR — Formation of [[The Gateway Republic]].** Successive Ahdari migrations join established shore communities in the country of the later Qabir–Zanthir gateway; an unequal maritime civic association develops over subsequent generations.
 - **c. 1600 BR — [[War of the Empty Halls]].** A great Grobi offensive nearly destroys the settled Ättar ranges. Four ruling coalitions accept Mother Moon's firstborn bargain, creating the enduring Lion, Ox, Bear, and Wolf pact-kindreds.
-- **c. 1400–800 BR — Age of City-States.**
+- **c. 1540–1439 BR — Foundation of the [[The White Measure and the Second Houses|White Measure]].** Meresha of Isethar develops the discipline and opens the Court of Unspent Lamps at her death. Her complete human soul remains bound to her body and private Egg White estate.
 - **c. 1450–1325 BR — Northern Bronze-Road disruption.** Longer exchanges fail; Boran Tall-Hand's chariot seizure ends at Daram Ford; Tarkhan and Ahdari communities rely increasingly on regional markets, wells and client service.
+- **c. 1400–800 BR — Age of City-States.**
 - **c. 1280 BR — Silent Month at Saqara.** Harun Savel violates a disarmed market and massacres merchants, pilgrims, slaves and children. Traffic moves to Mazar, whose market grows from the refugees and diverted caravans.
-- **c. 1100 BR — Killing beneath Ashal Stone.** Kor Ashal's ruler sacrifices a debtor's son after failed seasons, executes the child's mother when she breaks the altar and loses the traffic upon which the oasis depends.
 - **c. 1248–1076 BR — Yasharet rule in Qahur.** Talzara Yasharet establishes a mixed Delta dynasty at Qemaret. The period enlarges lower-river trade and White Measure houses; Khaseret opens the House of the Returning Cargo in 1126.
+- **c. 1160 BR — [[The Refusal at Kelarion]].** Harbor rulers deny refuge during a killing storm; [[The Shoreless King]] manifests and is sealed beneath the drowned breakwaters.
+- **c. 1100 BR — Killing beneath Ashal Stone.** Kor Ashal's ruler sacrifices a debtor's son after failed seasons, executes the child's mother when she breaks the altar and loses the traffic upon which the oasis depends.
 - **c. 1076–858 BR — Aramen restoration and Qahuri empire.** Aramen of Sakhret destroys the Yasharet crown and reunites the basin through violent southern restoration. Tomb estates, campaigns and specialised craft towns reach their greatest scale. Tamekha Rasen's dead estate helps provoke the Tenaret tomb-workers' stoppage in 903.
 - **c. 842–814 BR — The Single Radiance.** Ithren III suppresses competing cults and mortuary houses in favour of an exclusive royal sun cult. Queen Zaheret restores the older temples after his death; the political and bodily cost of the purges survives the restoration.
 - **c. 836–798 BR — Merod II and the eastern Qahuri intervention.** Arqeshite expansion follows the grain and caravan roads. The murder of Prince Ashkur in 814 gives Merod a dynastic grievance for the occupation of Qahuri approaches already under way.
-- **c. 1160 BR — [[The Refusal at Kelarion]].** Harbor rulers deny refuge during a killing storm; [[The Shoreless King]] manifests and is sealed beneath the drowned breakwaters.
 - **c. 800–350 BR — Age of Stars.** Atherian synthesis.
+- **742 BR — First Destruction of Qiryath.** Neshkar II's Arqeshite army sacks the Jirahar sanctuary-city and deports its leading households.
 - **c. 735–706 BR — Valeron II's Ortheian hegemony.** The upland king reorganises military service and compels several cities of the Celestial Compact to support a common eastern campaign.
 - **706–684 BR — [[Eryndor III and the Ortheian Eastern Conquest|Eryndor III of Ortheia]].** Eryndor destroys Olyssar, crosses the eastern sea and joins Arezan Tiravan against Arqesh. His campaigns include the siege of Terys, divided reception in Qahur and an army refusal on the farther roads.
-- **742 BR — First Destruction of Qiryath.** Neshkar II's Arqeshite army sacks the Jirahar sanctuary-city and deports its leading households.
 - **690 BR — Fall of Arqesh.** Arezan's Vashari coalition, Eryndor's army, rebel governors, Nemeru crews and forced workers converge upon the Ubar capital.
 - **684–c. 650 BR — [[Wars of the Inheritance]].** Eryndor's death divides the conquests among Arezan, Demeran Kavos, Serevan of Delkos, Neresh of Qemaret and farther eastern commanders. The nominal heirs are murdered.
 - **684 BR — Decree of Roads and Houses.** Arezan permits selected deported communities and sacred objects to return under Vasharan supremacy.
@@ -69,9 +69,9 @@ The common calendar dates from the execution and Resurrection of Isfir the Redee
 - **c. 600–580 BR — Zamaret Ordan's alliance-breaking invasion.** Zamaret defeats Atherian armies but fails to replace Caleran's alliance network. Celor Marath's delaying campaign and attacks on the overseas base and homeland force withdrawal and restricted independence.
 - **c. 580–525 BR — Qarzeth's recovery and sacrificial demands.** Renewed wealth, border conflict and the [[The Three Collections and the Fall of Qarzeth|Years of Three Collections]] produce a coalition shaped by child rescue, fear, profit and the desire to destroy a recovered rival.
 - **c. 525–520 BR — Destruction of Qarzeth.** Atherian forces end the sacrificial institution and rescue children, while committing murder, rape and enslavement during the sack. The central city is razed and heavily salted; Esharat, Belqara, Hazreth, Sarqen and other communities accepting the settlement retain their people and working land.
+- **c. 520 BR — [[The Erasure of Orthea]].** A city league attempts to remove an atrocity and its witnesses from causal record; [[The Unwritten Worm]] manifests and is sealed beneath the archive-valley.
 - **c. 520–400 BR — [[The Spared Towns and the Queen's Country|Royal recovery among the spared towns]].** Surviving cultivation and ports support rebuilding. Nerethan of Delkos arrives in 499, marries Hadrima of Esharat in 497, and establishes the household from which Arenes obtains hereditary recognition in 457. Sarqen, the enlarged Second Harbour, becomes the royal seat.
 - **514–491 BR — [[The Eastern Sea Wars]].** Tasar's revolt draws Atherian fleets into war with Xarun I of Vashar. Vasharan armies retake the coast, but defeat at the Narrows of Ilyessa ends their attempt to impose lasting rule upon the Atherian leagues.
-- **c. 520 BR — [[The Erasure of Orthea]].** A city league attempts to remove an atrocity and its witnesses from causal record; [[The Unwritten Worm]] manifests and is sealed beneath the archive-valley.
 
 ## The last republican generations
 
@@ -101,14 +101,14 @@ The common calendar dates from the execution and Resurrection of Isfir the Redee
 ## The Age of the Redeemer
 
 - **33 BR — Birth of Isfir** in a Jirahar tower town, eastern provinces.
-- **3 BR–0 — The Ministry.** The Companions: thirteen called, one struck (see [[The Twelve Companions of the Redeemer]]). **c. 15 AR — the conversion of Saint Aquilan the Turned** (born Sha'il bar Qoreth) on the road to Virelos. **c. 29–52 AR — the Companions' martyrdoms**, the Great Purge falling c. 36–45. **c. 55 AR — the Dormition of Amaryah the Fire-Bearer** at Veridun Minor (see [[Amaryah the Fire-Bearer]]).
+- **3 BR–0 — The Ministry.** The Companions: thirteen called, one struck (see [[The Twelve Companions of the Redeemer]]). **c. 15 AR — the conversion of Saint Aquilan the Turned** (born Sha'il bar Qoreth) on the road to Virelos. **c. 29–47 AR — the Companions' martyrdoms**, the Great Purge falling c. 36–45. **c. 55 AR — the Dormition of Amaryah the Fire-Bearer** at Veridun Minor (see [[Amaryah the Fire-Bearer]]).
 - **0 AR — The Binding and Resurrection at Second Qiryath.** Ezrahel's faction refers the case to the Atherian governor, who orders execution outside the city. Isfir is buried before the Resting Day. Solana and other women find the tomb empty on the third morning. The appearances, Ascension and gift of the Holy Flame follow. See [[The Rise of the Redeemer]].
 - **0 AR — The Silence of Acceptance.** Jirahar sacrifice continues at Qiryath, but its authenticated sign of divine acceptance never returns after the Resurrection.
+- **1–291 AR — The Underground Centuries.** The Ember Underground, the Fireless Trial and the Temple That Would Not Burn.
 - **66–73 AR — [[Great Tower Revolt and the Second Destruction|The Great Tower Revolt]].** Atheria destroys the sanctuary at Second Qiryath in 70 AR, abolishes the city's charter government and installs a permanent garrison. The final rebel fortress falls in 73 AR. Many displaced Jirahar seek refuge outside direct Atherian rule.
 - **78–171 AR — [[Atheria between Qiryath and Cassian - Emperors Wars and Revolts|Four reigns of municipal recovery]].** Tavian Dascen wins the succession war in 78. Daven Talar fights Vashar c. 98–107. Rovan Caelis secures shorter supply lines and southern market treaties. Neral Vardun campaigns against some southern Folk coalitions c. 154–166 and brings his son Marek into command.
 - **171–c. 193 AR — Marek Vessan, civil war and the Sarqen rising.** Marek's guards kill him in 185. Rival provincial commands compete for control. Enslaved workers seize grain stores and interrupt shipping at Sarqen c. 189–192.
 - **c. 222–233 AR — Second major war with Vashar in the Redeemer age.** The armies contest eastern road stations and tolls. Atheria transfers troops south to meet attacks there. A negotiated evacuation and exchange of captives end the campaign.
-- **1–291 AR — The Underground Centuries.** The Ember Underground, the Fireless Trial and the Temple That Would Not Burn.
 - **By the third century AR — Four principal regional sees.** Caleran coordinates relief and access to the capital, Aurelium trains readers and copies testimony, Halmenth serves the river and outer coast, and Sermora links the Elmaric ports. [[The Church after Qiryath - From Exile to Legalization]]
 - **249–253 AR — The Edict of Public Sacrifice.** Emperor Tervan Marcellan requires witnessed offerings and written certificates across the empire in 249. Enforcement is strongest through 251. His successor suspends the general requirement in 253.
 - **253–288 AR — Provincial commands and court restoration.** Regional armies retain revenue for their own pay. From c. 275 the court reclaims taxes and appointments by negotiation, campaigns and reassignment of commands.
@@ -128,8 +128,9 @@ The common calendar dates from the execution and Resurrection of Isfir the Redee
 - **c. 400-540 AR - Age of Decadence.** Weak emperors; Ättar sea-raids and Folk frontier incursions; Sestaran drift toward independence.
 - **411 AR — The Council of Halmenth.** "Fire-Bearer" affirmed; Bishop Nasriel of Qabir's "Man-Bearer" party condemned — his communion flees north and survives as the [[The Velian Church|Velian Church]].
 - **541 AR — The Revelation of Mujalib.** Tribal unification 545–567; Al-Qahur founded; the 4,444 devils dig the oasis.
-- **572–601 AR — The Four Rightly-Sealed Caliphs.** The disputed fourth seal.
+- **558 AR — [[Nine Wells of Tergai|Seizure of the Nine Wells]].** Covenant forces violently seize ancestral Well-Tarkhan water grounds. Later tradition recasts the conquest as voluntary submission.
 - **568–612 AR — WAVE ONE: The First Unsealing.** **Qatada Sayf-al-Ahd** conquers the northern provinces.
+- **572–601 AR — The Four Rightly-Sealed Caliphs.** The disputed fourth seal.
 - **c. 594–598 AR — First Crusade (defensive).** The advance held at ruinous cost.
 - **601 AR — Emirate of Zanthir established.** **c. 610 AR — the Velian States** installed under the **Banu Mizan**.
 - **612 AR — The Long Frontier Peace begins.**
@@ -145,7 +146,7 @@ The Long Frontier proper is 612–884 AR; the later entries describe the renewed
 ## The Fall and the Thalmyric Rise
 
 - **905 AR — WAVE TWO: The Fall of Caleran.** **Sultan-Caliph Idris al-Fattah** takes the capital at twenty-six and seals the Celestial Forum under glass "for the final audit." The empire dies; refugees flee south to the volcanic mountains.
-- **558 AR — [[Nine Wells of Tergai|Seizure of the Nine Wells]].** Covenant forces violently seize ancestral Well-Tarkhan water grounds. Later tradition recasts the conquest as voluntary submission.
+- **905–957 AR — The Impounded Ember.** The occupiers find the Eternal Ember will not go out; Idris declares it property-in-dispute and guards it for fifty-two years. The Reconquest finds it burning, ledgered to the day — the most famous invoice in history, which Veridun pays in full. (See [[The Divergence Pass — Torque Register]].)
 - **c. 905–920 AR — [[First Catch and Grey Sister|The First Catch]].** The fallen empire's border studs scatter into the northeastern grass. Grass-Tarkhan hunters and herders catch them and become, within three generations, the world's finest light cavalry. Grey Sister's line begins; the older western camel culture continues.
 - **906 AR — The Veil over Veridun.** During the Qahirid advance, watchers see a woman's figure spreading a veil of pale fire above the city; the siege breaks in a night storm. Thalmyria's supreme feast of the Mother.
 - **906–908 AR — Third Crusade.** The eastward push stopped at the Duchy of Caldria.
@@ -154,7 +155,6 @@ The Long Frontier proper is 612–884 AR; the later entries describe the renewed
 - **908–921 AR — The Mountain Rebellion.** Caedros of house Aetherion; [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/70 History and Conflicts/The Battle of Caelmount.md|Caelmount/the Valley Ambush]] (917); Virelos secured (921).
 - **922 AR — The Coronation at Virelos.** **Caedros I the Unbowed**, first Thalmyric Emperor.
 - **922–949 AR — [[01 Canon Reference/History/60 Fall and Successor Empires/The War of the Burning Banners.md|The War of the Burning Banners]].** Refuge leagues, monastery armies, and return claimants are brought under one imperial command.
-- **905–957 AR — The Impounded Ember.** The occupiers find the Eternal Ember will not go out; Idris declares it property-in-dispute and guards it for fifty-two years. The Reconquest finds it burning, ledgered to the day — the most famous invoice in history, which Veridun pays in full. (See [[The Divergence Pass — Torque Register]].)
 - **950–962 AR — [[01 Canon Reference/History/60 Fall and Successor Empires/The Reclamation of Caleran.md|The Caleran campaign]].** **957 AR — Caleran retaken; Caedros I dies at the Pillar of Concordance** at the moment of victory; witnesses swear the Flame took the body. Canonized in Thalmyria within a decade; canonization rejected by Eclessia's relic courts. **Caedros II the Road-Maker** secures the immediate coast and river districts (to 962).
 - **962–1052 AR — [[The Long Reconquest (908-1052 AR)|The Long Reconquest continues]].** Province-by-province return, occupation settlements, military colonies, and competing land registers reshape the heartland. The Velian States and Zanthir remain unrecovered.
 
@@ -166,8 +166,8 @@ The Long Frontier proper is 612–884 AR; the later entries describe the renewed
 - **1002 AR — The Coronation of Adalmar.** With Veridun under "a lamp-breaker's widow and her infant" (Empress-Regent **Anthe**, 1011–1019 — regency backdated in Eclessian apologetics; the throne's disorder began earlier), **Lord Primarch Silvane II** crowns Adalmar **Emperor of the Atherians** in the Sanctum Divinitatis. The Two Emperors problem begins.
 - **1013 AR — Council of the Thousand Lamps.** Anthe restores the vessels.
 - **1015 AR — THE GREAT SPLIT.** Bonifac III demands primacy and trusteeship; Cardinal Hubald nails the anathema to the Great Lamp of Veridun with four nails; Patriarch **Makarios the Adamant** answers in kind. See [[The Great Split — Two Crowns, One Fire]].
-- **1029–1052 AR — The Second Breaking;** ended by **Empress Theodosia the Kindler**; the **Feast of the Rekindling** (1052).
 - **1019–1046 AR — Ludovar the Mild;** sons' rebellions. **1049 AR — Partition of Drossfeld:** Aldwin (→ Aurelia), Lotharic (→ Virelia), Gervin (→ the marches, fragmenting into the ancestor-duchies).
+- **1029–1052 AR — The Second Breaking;** ended by **Empress Theodosia the Kindler**; the **Feast of the Rekindling** (1052).
 - **1061 AR — The Choosing at Strazgorod.** Prince Radomir I of the Vesari tests the four faiths; his envoys weep in Veridun's Ember-Cathedral ("we knew not whether we stood on earth") — and the crown chooses the Sanctum anyway, for an Adalmarid marriage and western swords. Virelia's hierarchy goes west; its folk piety stays east-flavored forever.
 - **1102 AR — Karlmann the Idle deposed;** **1104 AR — the Crown of Embers passes into trust** at the Sanctum Divinitatis, "until the realm is worthy of one head." The reunification mandate acquires its legal object.
 
@@ -176,12 +176,12 @@ The Long Frontier proper is 612–884 AR; the later entries describe the renewed
 - **1118–1167 AR — Caedros III, "the Wall of the World."** The Thalmyric golden age; the Qahirid war of 1131–39 crushed; dies childless.
 - **1183 / 1204 AR — The definitions concerning the Mother.** The Sanctum dogmatizes the **Unkindled Conception** and the **Rising of the Mother**; Veridun rejects the Sanctum's authority to define either doctrine.
 - **1190–1243 AR — Sultan-Caliph Suhrab the Lawbinder.** The Covenant's apex; the *Ledger of Ledgers*.
-- **1243 AR — The False Lady of Bruckmoor exposed** as an Idol-feeding operation after forty years of pilgrimage — a Weeping Courts architecture that fattened on Grey Sweat grief; the site burned and salted. The relic courts' founding trauma.
 - **1214 AR — The Battle of Qarath's Well.** **Markellos the Captive** taken alive; ransomed for border military districts; blinded and deposed by his own court on return. Thalmyria's deepest self-inflicted wound.
 - **1214–1225 AR — The post-Qarath civil wars.**
 - **1225–1263 AR — Nikandros I the Restorer.** Stabilizes the rump; asks Eclessia for aid; refuses the Sanctum's price (Veridun's submission); fights on alone. Present-day Caedros IV claims this line.
 - **c. 1232–1247 AR — [[01 Canon Reference/History/70 Later History and Present Day/The Grey Sweat.md|The Grey Sweat]].** The great mortality: a third of eastern Eclessia, a fifth of its western territories, in fifteen years of waves. Tenantry expands across much of Eclessia while Virelia's second serfdom hardens; Ash-Walker penitents seed later quietism and shrine hunger. Remembered as *the years the ferry queued* — a soul-logistics catastrophe as much as a plague (see [[The Divergence Pass — Torque Register]]). ✶ Ends with the **Quiet Ninth** (1247): the Sweat stops everywhere in one week, and the Ash-Walkers disband mid-march, everywhere, unasked.
 - **c. 1235–1341 AR — The Medori century.** **Bartolo the Elder** builds the bank; the Medori purchase admission to Fiorenzia's Golden Book in 1238; **Lauro the Magnificent** builds the merchant-humanist flowering. Sestara's golden age begins c. 1250.
+- **1243 AR — The False Lady of Bruckmoor exposed** as an Idol-feeding operation after forty years of pilgrimage — a Weeping Courts architecture that fattened, in its last decade, on Grey Sweat grief; the site burned and salted. The relic courts' founding trauma.
 - **1261 AR — The Kurultai of the Long Grass.** **Qarayel, the Black Wind**, unites all Tarkhan banners under the Nine-Mane Standard.
 - **1265–1300 AR — The Black Wind Years.** Iqashar pays escort fees, the Velian fairs burn and pay, Sestara institutes the grass-toll; extraction without occupation.
 
@@ -192,7 +192,6 @@ The Long Frontier proper is 612–884 AR; the later entries describe the renewed
 - **c. 1295 AR — Caedros IV Aetherion born.** The Nikandran restoration line continues through the soldier-prince later called Ash-Blood.
 - **1297 AR — The [[Freeflame Reformation]] begins.** Ansgar of Brenholt posts the *Hundred Grievances* against the assurance trade.
 - **1303 AR — Death of Qarayel**, undefeated, unsucceeded; the secret grave. **1304 — the Partition of the Herds:** the White, Iron, Moon, and Ash Hordes divide by his children's lines.
-- **1334 AR — First Ash Road Peace.** After the previous year's attack on Castara's inland route, the city begins annual payment for declared escorts and passage across Ash-Horde country.
 - **1305 AR — The Synod of Aldersbruck.** Ansgar refuses to recant and is burned; ashes scattered in the River Weiss; **the Unburnt Psalter** vaulted and denied.
 - **1306–1329 AR — The Ashenmen Risings** in and around the Ironvale country.
 - **1311 AR — The Spring at Sarnwell.** An apparition of the Mother to a crippled washerwoman; the healing spring passes every relic-court test.
@@ -202,6 +201,7 @@ The Long Frontier proper is 612–884 AR; the later entries describe the renewed
 - **c. 1329 AR — Caedros IV crowned at Virelos.**
 - **1330–1354 AR — Lord Primarch Celestin IX;** the **Council of Veridance** (1337–1352); assurance sales abolished; the five tests codified; the **Order of the Lantern** founded by **Father Ivo the Lamed**.
 - **c. 1330s AR — Castara opens the Boiling Sea routes;** the New World rush. **1332 AR — Castara joins the Sestaran compact as the seventh seal.**
+- **1334 AR — First Ash Road Peace.** After the previous year's attack on Castara's inland route, the city begins annual payment for declared escorts and passage across Ash-Horde country.
 - **1343 AR — [[The Korrheim Accord]].** *Whose the realm, his the rite.* It excludes unaffiliated radicals, ignores the reunification mandate, and satisfies no one.
 - **1346–1349 AR — Frate Severin of Fiorenzia:** the Pyre of Masks; hanged and burned. **Nicanor Vetti's** *Mirror for Sovereigns* circulates banned (written c. 1340).
 - **1349 AR-present — Sultan-Caliph Marzuq III**, Qahirid suzerain at Iqashar. His layered empire claims Al-Qahur, is rejected by the Sealed-Blood counter-caliphate of Qazmarid, and receives contested tribute from autonomous Zanthir. Guard-brokered, stagnant, and cracked.
@@ -212,7 +212,7 @@ The Long Frontier proper is 612–884 AR; the later entries describe the renewed
 
 ## Sanity Checks
 
-Fall to coronation: 17 years. Caedros I dies at 62 in the assault he insisted on leading. The Split arrives 58 years after Caleran's recovery, 13 years after Adalmar's coronation, and 37 years before the Long Reconquest's concluding Rekindling. At present, Ansgar has been dead 55 years, Ferro 8 years, and the confessional map has been frozen by the Accord for 17 years. Wave One to Wave Two contains roughly three centuries of Velian coexistence. Adalmar's imperial crown lasts one century before deposition.
+Fall to coronation: 17 years. Caedros I dies at 72 in the assault he insisted on leading. The Split arrives 58 years after Caleran's recovery, 13 years after Adalmar's coronation, and 37 years before the Long Reconquest's concluding Rekindling. At present, Ansgar has been dead 55 years, Ferro 8 years, and the confessional map has been frozen by the Accord for 17 years. Wave One to Wave Two contains roughly three centuries of Velian coexistence. Adalmar's imperial crown lasts one century before deposition.
 
 ## Navigation
 

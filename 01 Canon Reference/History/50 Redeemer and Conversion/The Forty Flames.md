@@ -36,7 +36,7 @@ The households remembered the dead in private until legalization. Under Cassian 
 
 ### The Doctrine of the Living Burnt
 
-This tradition takes the furnace sign as an image of illumination and refinement. Later preachers of the [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/50 Economy and Warfare/Thalmyric Military Orders.md|Order of the Returning Standard]] read the deaths as a passage from witness into service. The sign is genuine, and judgements about the conduct of the rising or the sanctity of individual relics require their own evidence. [[The Making of Saints]]
+This tradition takes the furnace sign as an image of illumination and refinement. Later preachers of the [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/50 Economy and Warfare/Thalmyric Military Orders.md|Order of the Returning Standard]] read the deaths as a passage from witness into service. [[The Making of Saints]]
 
 ### Communal commemoration
 

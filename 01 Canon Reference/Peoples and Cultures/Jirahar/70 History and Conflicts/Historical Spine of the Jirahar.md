@@ -17,9 +17,9 @@ The Jirahar are a dispersed Ark-derived people whose history connects the One Gl
 
 ## Exodus and Scattering
 
-The Great Prophet's movement becomes the center of the Great Unbinding and leads the principal liberated remnant into the Glass. Approximately a century of refuge forms one people. The Prophet dies at the outward threshold around c. 2165 BR; no human office inherits his universal commission.
+The Great Prophet's movement became the center of the Great Unbinding and led the principal liberated remnant into the Glass. Approximately a century of refuge formed one people. The Prophet died at the outward threshold around c. 2165 BR; no human office inherited his universal commission.
 
-After the southern war-settlement leagues depart, the ancestors of the Jirahar remain within the Near-Glass camp continuum. Between approximately c. 1950 and 1750 BR, water, distance, marriage, trade, raiding and reciprocal Tarkhan contact produce the proto-Jirahar emphasis on portable courts, route memory, burial obligation and the Scrolls. They do not emerge as a complete people at the end of the crossing.
+After the southern war-settlement leagues departed, the ancestors of the Jirahar remained within the Near-Glass camp continuum. Between approximately c. 1950 and 1750 BR, water, distance, marriage, trade, raiding and reciprocal Tarkhan contact produced the proto-Jirahar emphasis on portable courts, route memory, burial obligation and the Scrolls.
 
 ## First Qiryath
 
@@ -31,25 +31,25 @@ In 742 BR the [[First Qiryath and the Arqeshite Exile|Arqeshite River Empire des
 
 ## Atherian Accommodation
 
-Atheria absorbs the eastern riverlands. Qiryath retains internal courts and sacrifice through negotiated privilege. Jirahar communities spread along imperial roads, ports, and administrative centers.
+Atheria absorbed the eastern riverlands. Qiryath retained internal courts and sacrifice through negotiated privilege. Jirahar communities spread along imperial roads, ports, and administrative centers.
 
-The Age of Glory creates varied diaspora relationships with imperial towns and offices. [[The Keeper of Borrowed Grain|Neriah bar Sorek]] directs relief during the Raveth famine of 119–113 BR. His policy saves towns while transferring land and labour to the imperial estate. Later praise and anti-Jirahar accusation both distort responsibility shared with Emperor Elian II and Atherian officials.
+The Age of Glory created varied diaspora relationships with imperial towns and offices. [[The Keeper of Borrowed Grain|Neriah bar Sorek]] directed relief during the Raveth famine of 119–113 BR. His policy saved towns while transferring land and labour to the imperial estate. Later praise and anti-Jirahar accusation both distorted responsibility shared with Emperor Elian II and Atherian officials.
 
 ## Isfir and the Silence
 
-Isfir is born Jirahar. In 0 AR a controlling council faction led by Ezrahel bar Qoreth presses Atheria for his execution. Atheria kills him; he rises. From that point, lawful sacrifices burn but no authenticated sign of acceptance returns.
+Isfir was born Jirahar. In 0 AR a controlling council faction led by Ezrahel bar Qoreth pressed Atheria for his execution. Atheria killed him; he rose. From that point, lawful sacrifices burned but no authenticated sign of acceptance returned.
 
 ## Great Tower Revolt
 
-In 66 AR revolt follows the seizure of sanctuary funds and killings by the garrison. Initial victories give way to civil division and siege. Atheria destroys the sanctuary in 70 AR and takes the final fortress in 73. The city loses its charter and passes under direct provincial rule. Many displaced Jirahar seek refuge across the Vasharan frontier or among independent dry-margin communities. Older diaspora households help them establish courts, secure burial grounds and resume their trades. [[Great Tower Revolt and the Second Destruction]]
+In 66 AR revolt followed the seizure of sanctuary funds and killings by the garrison. Initial victories gave way to civil division and siege. Atheria destroyed the sanctuary in 70 AR and took the final fortress in 73. The city lost its charter and passed under direct provincial rule. Many displaced Jirahar sought refuge across the Vasharan frontier or among independent dry-margin communities. Older diaspora households helped them establish courts, secure burial grounds and resume their trades. [[Great Tower Revolt and the Second Destruction]]
 
 ## Long Diaspora
 
-Surviving towers, quarters, fleets, and companies absorb captives and refugees. Imperial policy varies until [[Vestian Persecutions and the Long Diaspora|Vestian's persecutions]] destroy or confiscate most eastern towers in 377-395 AR.
+Surviving towers, quarters, fleets, and companies absorbed captives and refugees. Imperial policy varied until [[Vestian Persecutions and the Long Diaspora|Vestian's persecutions]] destroyed or confiscated most eastern towers in 377-395 AR.
 
 ## Covenant and Successor Ages
 
-Jirahar jurists, converts, and resident communities influence early desert law without founding the Ahl-e-Ahd peoples. New towers arise under Covenant, Eclessian, Thalmyric, Sestaran, and Tarkhan charters.
+Jirahar jurists, converts, and resident communities influenced early desert law. New towers arose under Covenant, Eclessian, Thalmyric, Sestaran, and Tarkhan charters.
 
 ## Present Day
 
@@ -63,11 +63,11 @@ Five living great towers remain. Qiryath is empty by law. High Keeper Zerahiah h
 
 ## Historical Atlas — wider inheritance
 
-The Jirahar inherit the One Glass People's formation and the later Near-Glass fission, not an isolated original tribe which walked out already finished. Portable courts, route memory and translocal households acquired strength through water scarcity, distance and relations with neighbouring Tarkhan and Ahdari communities.
+The Jirahar inherit the One Glass People's formation and the later Near-Glass fission. Portable courts, route memory and translocal households acquired strength through water scarcity, distance and relations with neighbouring Tarkhan and Ahdari communities.
 
-Tower towns and Qiryath added urban and sanctuary histories to that mobile inheritance. The First Destruction in 742 BR, exile under Arqesh and later return preceded Atherian unification. The Second Qiryath's destruction in 70 AR and Vestian's persecutions in 377–395 caused different displacements and cannot be collapsed into one timeless exile.
+Tower towns and Qiryath added urban and sanctuary histories to that mobile inheritance. The First Destruction in 742 BR, exile under Arqesh and later return preceded Atherian unification. The Second Qiryath's destruction in 70 AR and Vestian's persecutions in 377–395 caused different displacements.
 
-Communal descent and conversion law preserved identity across host societies. During the Long Frontier, translation, medicine, trade and household learning created several forms of public life; none defines every Jirahar person. Theological disagreement after the Redeemer never authorizes hereditary guilt. Their tales of strangers, family promises and unrecoverable homes belong beside the imperial histories which usually see only revolt and exile.
+Communal descent and conversion law preserved identity across host societies. During the Long Frontier, translation, medicine, trade and household learning created several forms of public life. Theological disagreement after the Redeemer never authorizes hereditary guilt. Their tales of strangers, family promises and unrecoverable homes belong beside the imperial histories which usually see only revolt and exile.
 
 ## Stories and neighbouring histories
 

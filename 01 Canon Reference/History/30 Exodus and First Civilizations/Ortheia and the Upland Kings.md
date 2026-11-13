@@ -66,7 +66,7 @@ Ortheia remained a strong upland monarchy after losing the Compact. Its soldiers
 
 The Far-Road cult became part of royal ceremony. Court singers celebrated the conquest, the Sky-Lion ascent and the burial of Kassur III. Families affected by Olyssar, the succession murders and the failed return preserved contrary histories. The resulting tradition could honour Eryndor's courage while refusing his claim to universal rule.
 
-By 350 BR, Ortheia occupied a position between the Caleran state and Vashar's eastern empire. Thalion inherited relationships with its kings and military houses, but no settlement made Ortheia the birthplace or natural possession of the later Empire. Its precise boundaries and royal seat remain open pending the revision of the regional map.
+By 350 BR, Ortheia occupied a position between the Caleran state and Vashar's eastern empire. Thalion inherited relationships with its kings and military houses.
 
 ## Further reading
 

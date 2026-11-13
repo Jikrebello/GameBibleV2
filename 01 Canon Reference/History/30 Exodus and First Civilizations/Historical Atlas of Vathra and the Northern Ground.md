@@ -46,7 +46,7 @@ Kel-Orun descended under the control of Seyra's pilots and the Dynastic Giant **
 
 Dazhur survived the battle in which it discarded its ward, then disappeared from dependable records within three years. Sairat entered a route after rebels destroyed its destination anchor. Molqara lost steering while part of its lift remained active. Yazuran attempted an unknown passage and left no confirmed wreck. Northern stories still claim sightings of all four cities. The stories disagree over whether they describe original structures, broken route images, copied processions or ordinary lights in difficult weather.
 
-Vathra ended because no surviving house could reconnect court, food, movement and obedience across the northern system. Individual Giants, grounded buildings, human specialists and old instruments endured. Their survival did not restore the kingdom.
+Vathra ended because no surviving house could reconnect court, food, movement and obedience across the northern system. Individual Giants, grounded buildings, human specialists and old instruments endured.
 
 ## The Grounding, c. 2260–2050 BR
 

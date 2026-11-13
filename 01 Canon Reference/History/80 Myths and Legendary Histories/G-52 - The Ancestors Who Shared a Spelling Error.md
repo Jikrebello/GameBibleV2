@@ -20,9 +20,9 @@ aliases: ["The Ancestors Who Shared a Spelling Error"]
 
 ## Historical setting
 
-**post-Giant local generations; not securely synchronized to AR.** far-distant cypress commonwealth and its adjoining Egg White courts. This tradition belongs to [[Distant Lands and Otherworld Histories]]; its cultural bearers are the uncontacted Orphaned peoples of the Last Houses.
+**post-Giant local generations; not securely synchronized to AR.** Far-distant cypress commonwealth and its adjoining Egg White courts. This tradition belongs to [[Distant Lands and Otherworld Histories]]; its cultural bearers are the uncontacted Orphaned peoples of the Last Houses.
 
-It is told in a far-distant Egg White archive polity whose families purchase counsel in the voices of their dead. Its survival does not make every singer's version a complete account of the event.
+It is told in a far-distant Egg White archive polity whose families purchase counsel in the voices of their dead.
 
 ## The tale
 
@@ -49,8 +49,6 @@ Keeper versions say the child exposed only a faulty batch. Reformers say every v
 Children ask an ancestor a household riddle whose answer was never deposited. The riddle changes with every family and is never written down.
 
 ## History and belief
-
-The practice, landscape or physical object described here has a place in the present world. Statements that it is the original relic, that a voice is the original dead person, or that a victory proves divine approval belong to the tradition unless a separate history establishes them.
 
 The country's local generations supply the order of events; an exact AR conversion remains unknown.
 

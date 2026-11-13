@@ -52,7 +52,7 @@ Orent had no surviving child and died of a sudden fever in 151 before naming an 
 
 Later histories called the Veloran period the Peace of the Open Roads. The description fits merchants, students and officials able to use those routes during its calmer decades. Frontier households, conscripted labourers and people displaced by campaigns experienced the same roads differently.
 
-The dynasty's provincial origin widened the range of families able to imagine themselves at the centre of imperial life. It also demonstrated that victory, marriage and adoption could establish a house with no descent from Thalion.
+The dynasty's provincial origin widened the range of families able to imagine themselves at the centre of imperial life.
 
 ## Further reading
 

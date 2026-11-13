@@ -60,7 +60,7 @@ The High Giant ruler died in the fighting. The ancestral figure then appeared ab
 
 Commanders broke their assurances to the households that had admitted them. Soldiers murdered inhabitants, raped captives and carried people away for sale. One officer assaulted a woman who had sheltered under the tide mistress's protection and took her aboard his vessel. Fellow victors protected him because they wanted his ships and crews to remain with them.
 
-The shipmistress carried some survivors out in small craft. Others fled inland, entered captivity or remained under the new occupiers. The fall ended the surviving Giant court's rule over the harbour. Its inhabitants then had to live with the victors and the promises they had broken.
+The shipmistress carried some survivors out in small craft. Others fled inland, entered captivity or remained under the new occupiers. The fall ended the surviving Giant court's rule over the harbour.
 
 ## The captain pursued by the tide
 
@@ -70,7 +70,7 @@ At another refuge, the captain and his men were trapped by a predatory court bei
 
 His eventual homecoming brought further violence. His household had acquired new rulers during his absence, and he killed the men contesting his return. He also ordered enslaved women hanged for assisting them. Some had obeyed under coercion. The restored house inherited a feud which continued beyond the welcome accorded to its master.
 
-Voyage songs admire his courage, endurance and resourcefulness. Accounts preserved by people harmed at his departure and return place those qualities within a less admiring history. His homecoming restored his authority over a household whose dead could not share in the restoration.
+Voyage songs admire his courage, endurance and resourcefulness. Accounts preserved by people harmed at his departure and return place those qualities within a less admiring history.
 
 ## The changing hostess
 
@@ -78,7 +78,7 @@ A different ship reached a sheltered place held by a Faewild hostess skilled in 
 
 Release came at different prices. One sailor surrendered an original bodily trait to gain permission to leave. Another stayed beside a companion who could not safely travel. The hostess offered the captain a prolonged bodily life and a place beside her. He chose to return to the people who had known him before the war and left with a diminished company.
 
-The episode is told both as a warning about dangerous hospitality and as a story of attachment. The sailor who remained occupies a larger place in some versions than the departing captain. Returning alive had become a question involving friendship, dependence and the bodies in which the survivors would have to continue their lives.
+The episode is told both as a warning about dangerous hospitality and as a story of attachment. The sailor who remained occupies a larger place in some versions than the departing captain.
 
 ## The boats that chose another shore
 
@@ -86,13 +86,13 @@ The shipmistress and several recovered captives found their expected landing occ
 
 Their first winter depended on shared food and boat repairs. People accustomed to giving orders aboard their own vessels had to negotiate work with established families. The vessel they eventually built together became the subject of a feast celebrating the new community's first shared construction.
 
-In one received telling, captive women burn the old ships to prevent being carried back into slavery. In another, the hulls are unusable and are dismantled by common agreement. Both versions lead to the building of the new vessel, but they remember very different decisions at the beginning of settlement. The surviving tradition does not establish which account of the old boats is true.
+In one received telling, captive women burn the old ships to prevent being carried back into slavery. In another, the hulls are unusable and are dismantled by common agreement. Both versions lead to the building of the new vessel, but they remember very different decisions at the beginning of settlement.
 
 ## Remembrance
 
-The cycle leaves several forms of memory: bronze shown as fragments of the god's armour, burial customs recalling the father's return, songs about rescue and the shipmistress, and the boat-building feast of the new shore. Claims about individual pieces of bronze vary. Their exhibition demonstrates the importance of the tale without identifying every object as part of the breakwater.
+The cycle leaves several forms of memory: bronze shown as fragments of the god's armour, burial customs recalling the father's return, songs about rescue and the shipmistress, and the boat-building feast of the new shore. Claims about individual pieces of bronze vary.
 
-Tellers also disagree about which of the voyagers deserve the honour given to returning heroes. A crew can preserve a captain's skill while remembering his victims; a settlement can celebrate its survival while acknowledging the violence that carried its founders there. The cycle's different endings allowed later maritime communities to recognise more than one kind of inheritance in the war.
+Tellers also disagree about which of the voyagers deserve the honour given to returning heroes.
 
 ## Further reading
 

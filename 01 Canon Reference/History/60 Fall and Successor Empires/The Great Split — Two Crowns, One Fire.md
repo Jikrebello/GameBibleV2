@@ -23,27 +23,21 @@ Both churches agree the Atherian Empire was baptized, died, and must in some sen
 
 **The Eclessian claim runs through office and trust.** The Primarchy claims the **Commission of the Pen**, the Redeemer's charge to Saint Jareth of the Bound Eye. It holds that the commission precedes imperial recognition and survives the fall of an empire. Veridun answers with the **Ember Succession**. Isfir entrusted Amaryah and Calira to each other at the Binding outside Qiryath. Solana brought a coal from the first congregation's hearth to Amaryah at Veridun Minor. Calira died defending the house. Its keepers later carried a daughter flame to Caleran, where the Patriarchate tends it. Both churches claim an apostolic inheritance through people who lived through the same events. [[The Twelve Companions of the Redeemer]] · [[Amaryah the Fire-Bearer]]
 
-Qiryath eventually lies in Eclessian territory. Jirahar custodians maintain the ruined city under the Empty Charter, and Redeemer pilgrims depend on their care of the paths. The Sanctum's legal claim to crown an emperor runs through the Primarchy. It crowned Adalmar in 1002 and took the **Crown of Embers** into trust after his line failed. In its view, the imperial title remains held until the Sanctum recognizes a rightful successor.
+Qiryath came to lie in Eclessian territory. Jirahar custodians maintain the ruined city under the Empty Charter, and Redeemer pilgrims depend on their care of the paths. The Sanctum's legal claim to crown an emperor runs through the Primarchy. It crowned Adalmar in 1002 and took the **Crown of Embers** into trust after his line failed. In its view, the imperial title remains held until the Sanctum recognizes a rightful successor.
 
 Each claim is strongest exactly where the other is weakest — Thalmyria has the blood and the ground but its crown began with a usurper general; Eclessia has the office and the artifact but no emperor and eleven quarreling realms. Neither can bend the knee without ceasing to be itself. That is why the Split has held for 345 years.
 
 ## The Doctrinal Weapon: The Kindling Question
 
-The theological content of the Split is not an abstract clause about procession. It is a concrete, testable, in-world dispute about **what the White Flame is and who may hold it** — grown directly out of Thalmyria's Lamp Controversy and Eclessia's relic-court system.
+The theological content of the Split is a concrete, testable dispute about **what the White Flame is and who may hold it** — grown directly out of Thalmyria's Lamp Controversy and Eclessia's relic-court system.
 
 **Veridun teaches the Flame is uncreated** — the Lord's own presence, not a made thing — which *consents* to dwell in what sanctity prepares (Ioan of Velia's formula: "the Redeemer had a body; the Fire may have a lamp"). Custody is therefore proven by **theophany**: the Flame demonstrably came to Caedros at the Pillar; it demonstrably rides Thalmyric war-lamps against Covenant devil-mantles and soulbound engines; it demonstrably answers ascetics on the volcanic heights. Thalmyric doctrine sharply separates this witness from ordinary Shell-fire. You do not command God. You witness Him.
 
 **Eclessia teaches the Flame as given to mortals is a created grace** — truly from the Lord, but a *gift*, entrusted to the apostolic body, and therefore governable: testable by relic courts, mintable in authorized hymns, administered under canon law like any sacrament. Custody is proven by **protocol**: the five tests of sainthood, the authentication registries, the reproducible hymn-mint. A fire that cannot be examined is precisely how forgers, Idol-feeders, and imperial propagandists operate.
 
-Each side's proofs genuinely work, and each side's theology delegitimizes the other's proofs. To Eclessia, Thalmyric "theophany" is unexaminable presumption — sanctified artillery and a self-canonized dynasty ("if the Flame is uncreated, then aiming it is either impossible or blasphemy; choose"). To Veridun, Eclessian "protocol" is a cage for God — grace turned into a currency, which the routing-assurance scandal and the Reformation later proved with interest ("you audited the Fire until it became a fee schedule"). Both accusations are partially correct, which is what makes the dispute permanent.
+Each side's proofs genuinely work, and each side's theology delegitimizes the other's proofs. To Eclessia, Thalmyric "theophany" is unexaminable presumption — sanctified artillery and a self-canonized dynasty ("if the Flame is uncreated, then aiming it is either impossible or blasphemy; choose"). To Veridun, Eclessian "protocol" is a cage for God — grace turned into a currency, which the routing-assurance scandal and the Reformation later proved with interest ("you audited the Fire until it became a fee schedule").
 
 **The test case is Caedros I.** Thalmyria canonized its founder on theophany: the witnessed descent, the body taken, hymns that kindle in battle. Eclessia's relic courts reject the canonization on protocol: no relic anchor, no independent witnesses, no submissible evidence — an empire canonizing its founding is heraldry, not sanctity. Empirically, the field results are maddening: the Saint-Emperor's hymns kindle for some reciters and not for others, in no pattern either hierarchy can produce on demand.
-
-## Why the Hymns Kindle
-
-The hymns kindle according to the righteousness and purpose of the person reciting them. Their operation depends neither upon authorship nor upon the authority of the institution that issued the text. Eclessian discipline can therefore make the hymns reliable when it genuinely forms holy clergy, while corruption turns the same procedure into an empty form. Thalmyric theophany likewise witnesses a real presence without giving the imperial church possession of it.
-
-Neither church knows this principle in full. Ferro's Freeflame saying that “the Lord's Fire keeps no landlord” comes closest to it, although both older hierarchies condemn his movement. The irregular response of Caedros's hymns consequently remains a source of controversy rather than a public solution to the Kindling Question.
 
 ## The Rupture, 1015 AR
 
@@ -61,29 +55,27 @@ The Freeflame movement rejects both custody claims outright: the Flame kindles w
 
 The Great Split has a fixed public date, but its causes and consequences span generations. Adalmar's consolidation, the two imperial claims, the Lamp Controversy, jurisdiction over churches and genuine theological disputes changed relationships long before the anathemas. Families could share a feast and disagree about the bishop whose name should be spoken over it.
 
-The existing Kindling Question controls the dispute. Older Procession shorthand must not replace it. Neither church's case can be dismissed as one missed message, a private insult or a conspiracy which a single adventuring company might have prevented.
-
 ## Crowns, lamps and households
 
 Adalmar's coronation in 1002 made the Two Emperors problem unavoidable. Leovar III's First Breaking attacked made vessels of the Fire; Anthe's restoration at the Council of the Thousand Lamps in 1013 reversed it. The Second Breaking of 1029–1052 ended under Theodosia the Kindler. These reversals affected craftsmen, servants, congregations and families who had kept or destroyed images at a ruler's command.
 
-After 1015, shrines were seized, clergy imprisoned, worshippers beaten and corpses or relics desecrated. Mob killing occurred among communities which had previously travelled together. [[G-15 - The Last Common Road|The Last Common Road]] keeps the broken friendship rather than proposing that friendship alone could have settled the theology.
+After 1015, shrines were seized, clergy imprisoned, worshippers beaten and corpses or relics desecrated. Mob killing occurred among communities which had previously travelled together. [[G-15 - The Last Common Road|The Last Common Road]] remembers one such broken friendship.
 
 ## The common dead
 
-Both churches inherited Saints who had lived before their division. Neither could compel those persons to validate a military seizure. In one landlocked frontier fortress a genuine pre-Split Saint protected prisoners from both sides while useful partisan wonders came from a Patron and an Idol Mask. Both hierarchies suppressed inconvenient testimony. That event is distinct from the Saint of the Two Ferries and does not explain the Bells of the Split.
+Both churches inherited Saints who had lived before their division. Neither could compel those persons to validate a military seizure. In one landlocked frontier fortress, witnesses from both armies described a pre-Split Saint protecting prisoners from both sides, while each army celebrated partisan wonders of its own. Both hierarchies suppressed inconvenient testimony.
 
-The War for the Common Saints names recurrent conflicts over these inheritances, not one coordinated supernatural war. A commission at a prison proves the rescue actually given. It does not award every disputed see to the rescuers' preferred church.
+The War for the Common Saints names recurrent conflicts over these inheritances.
 
 ## New political identities
 
-The partition of Adalmarid lands and later struggles did not leave an empty east waiting for a new unifier. Kingdoms and duchies developed their own loyalties. In 1061, the Vesari choosing at Strazgorod joined dynastic advantage to religious allegiance: the crown accepted the Sanctum while much popular devotion retained an eastern flavour.
+After the partition of Adalmarid lands and later struggles, kingdoms and duchies developed their own loyalties. In 1061, the Vesari choosing at Strazgorod joined dynastic advantage to religious allegiance: the crown accepted the Sanctum while much popular devotion retained an eastern flavour.
 
-The Judge Beneath the Black Eaves arose in towns wounded by the Split. Predictive punishment turned fear of tomorrow into torture and murder today. The later prohibition against conviction for “the future fact” has force because of those bodies, not because its wording is elegant.
+The Judge Beneath the Black Eaves arose in towns wounded by the Split. Predictive punishment turned fear of tomorrow into torture and murder today. The later prohibition against conviction for “the future fact” has force because of those bodies.
 
 ## An unfinished inheritance
 
-When the Crown of Embers passed into trust in 1104, reunion remained a political and religious ambition without one accepted ruler. The age led into [[High Noon and the Qarath Disaster]], not an immediate stable settlement. Two churches retained genuine arguments, remembered wrongs and compromised institutions. The faithful on either side could not inherit innocence simply by inheriting a rite.
+When the Crown of Embers passed into trust in 1104, reunion remained a political and religious ambition without one accepted ruler. The age led into [[High Noon and the Qarath Disaster]]. Two churches retained genuine arguments, remembered wrongs and compromised institutions.
 
 ## Atlas navigation
 

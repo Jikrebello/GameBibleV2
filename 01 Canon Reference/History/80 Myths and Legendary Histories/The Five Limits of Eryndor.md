@@ -34,7 +34,7 @@ The upland royal cycle says that the king saw the World Egg entire and received 
 
 A grove of Root-Minds answers questions through an interpreter. Eryndor asks whether he will conquer the remaining roads and return to Ortheia. The answer gives a place or season of death. He threatens the interpreter, cuts one tree or orders the grove burned; the sentence continues from another trunk.
 
-Arqeshite laments make the trees recite the names of destroyed cities and deported families. Vashari accounts place a queen and a company of ascetics beside the grove, where they rebuke a king who expects knowledge to obey rank. The oldest versions agree that the grove answered one question concerning the king's death. They provide no reliable account of later events or of any authority granted to him by the answer.
+Arqeshite laments make the trees recite the names of destroyed cities and deported families. Vashari accounts place a queen and a company of ascetics beside the grove, where they rebuke a king who expects knowledge to obey rank. The oldest versions agree that the grove answered one question concerning the king's death.
 
 ## The water in the dark
 
@@ -58,11 +58,11 @@ Some royal performances send Eryndor home because the spirit of Valeron calls fr
 
 Ortheian singers celebrate a daring king and omit Olyssar. Qahuri priests present mortality as the limit of every foreign title. Arqeshite laments make conquest answer to the dead. Vashari storytellers centre rulers and ascetics who cannot be impressed. Jirahar travellers give the water to an unnamed worker. Later Atherian writers turn the bell and gate into proofs of engineering genius, while dissident copies restore the forced labour and dead workers.
 
-Later Christian retellings sometimes place a saint beside the water or convert Eryndor before death. These are devotional adaptations. The pre-Redeemer king was never numbered among the saints.
+Later Redeemer-faith retellings sometimes place a saint beside the water or convert Eryndor before death. These are devotional adaptations. The pre-Redeemer king was never numbered among the saints.
 
 ## What remains
 
-The historical campaign contained an undersea bell, a Sky-Lion observation frame, a speaking grove, a local sealed pass and a failed search for restorative water. No surviving account describes all five incidents reliably. Eryndor remained a human being with a complete human soul. His body, royal office, portraits, legendary persona and the Crowned Countenance that fed upon his ceremonies possessed separate histories after his death.
+The historical campaign contained an undersea bell, a Sky-Lion observation frame, a speaking grove, a local sealed pass and a failed search for restorative water. No surviving account describes all five incidents reliably.
 
 ## Further reading
 

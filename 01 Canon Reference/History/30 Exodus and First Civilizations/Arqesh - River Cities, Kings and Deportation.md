@@ -60,7 +60,7 @@ Kassur's armies captured Nemeru after a three-year struggle. The final assault k
 
 **Merod II Ubar**, who ruled from approximately 836 to 798 BR, inherited Kassur's provincial system after two shorter reigns. His armies were already competing for the roads and cultivated approaches east of Qahur when the Single Radiance collapsed. In 814 BR, the widowed Qahuri queen Narethi asked him to send a royal son whom she could marry and raise beside the Twin-Reed throne. Merod suspected a trap, demanded a second letter and eventually sent his younger son **Ashkur Ubar** with an escort. Ashkur was killed before reaching the Sacred Basin.
 
-No surviving account identifies the killers. Merod blamed the Qahuri crown houses collectively and used the death to justify a larger intervention. Arqeshite troops occupied road stations, captured eastern canal towns and transferred fields to military supporters between 811 and 802 BR. The marriage proposal did not begin Arqeshite expansion, which had already followed grain and caravan routes. It gave the court a dead prince around whom conquest could be presented as punishment. The killing entered both Arqeshite and Qahuri royal histories, although they assigned responsibility to different houses.
+No surviving account identifies the killers. Merod blamed the Qahuri crown houses collectively and used the death to justify a larger intervention. Arqeshite troops occupied road stations, captured eastern canal towns and transferred fields to military supporters over the following decade. Ashkur's death gave the court a dead prince around whom conquest could be presented as punishment. The killing entered both Arqeshite and Qahuri royal histories, although they assigned responsibility to different houses.
 
 ## Court, households and learning
 
@@ -78,9 +78,9 @@ Every city maintained several sacred households. River gates, gardens, storms, a
 
 The imperial cult called the enthroned king the **Visible Measure of the Lands**. Reliefs showed conquered peoples carrying their characteristic goods towards a ruler larger than every other person. Provincial ceremonies required leading families to bow before a portable image and speak their city's obligations.
 
-During the later empire, these ceremonies attracted the dependent Pride Mask known as the **Crowned Countenance**. Compulsory praise and the public humiliation of subject rulers fed it. The Mask supplied flattering dreams, intensified the presence of royal ceremonies and occasionally made an image answer in the reigning king's voice. The dead kings remained separate from these manifestations.
+During the later empire, courtiers attributed flattering dreams and a heightened presence at these ceremonies to a power they called the **Crowned Countenance**. On occasion an image answered in the reigning king's voice.
 
-Several rulers exploited these responses. Others feared them and continued the ceremonies because provincial obedience depended upon the imperial cult. Elsewhere in the riverlands, similar royal or river images belonged to local Menhir relationships, ordinary natural phenomena, frauds or other Idol Masks. Their shared artistic forms reflected Arqeshite culture rather than a single power behind every cult.
+Several rulers exploited these responses. Others feared them and continued the ceremonies because provincial obedience depended upon the imperial cult.
 
 ## Expansion towards Qahur and Qiryath, c. 820–746 BR
 
@@ -118,7 +118,7 @@ Provincial revolts followed. Nemeru withheld boats. Qahuri rulers expelled isola
 
 The second great enemy came from the western sea. **Eryndor III of Ortheia**, later called the Far-Road King, had inherited an Atherian-speaking upland kingdom and a coerced hegemony over several city leagues. He crossed the eastern inner sea in 702 BR with Ortheian infantry, cavalry, Compact levies, engineers and allied ships. His first victories broke the field armies defending the coast. At **Terys**, a fortified harbour which refused him entry, his engineers joined the offshore stronghold to the mainland with a causeway. The final assault ended in massacre and enslavement.
 
-Eryndor entered divided Qahur in 695 BR. Selected crown houses supplied grain and boats in return for recognition against their rivals. He then made a treaty with Arezan. Arezan's command held the highland roads, coordinated provincial defections and attacked Durqesh and Khalbar. Eryndor's command supplied the principal siege army, fleet and treasury. Neither ruler became the other's subordinate.
+Eryndor entered divided Qahur in 695 BR. Selected crown houses supplied grain and boats in return for recognition against their rivals. He then made a treaty with Arezan. Arezan's command held the highland roads, coordinated provincial defections and attacked Durqesh and Khalbar. Eryndor's command supplied the principal siege army, fleet and treasury.
 
 The allied armies and provincial rebels killed, looted and enslaved as they advanced. At **Khalbar**, workers forced to repair Arqeshite siege engines opened a gate when a smith named **Ishara of the Soot Court** raised her scorched apron above the wall. Rebels and Vashari troops then massacred captured soldiers and the families of several officials. Vasharan coronations later carried an apron in memory of the opened gate and omitted the killings that followed it.
 
@@ -163,8 +163,6 @@ Arqesh remained a large city under its successors. Its workshops supplied the ne
 ## Historical memory
 
 Arqeshite successor families remember an age of safe canals, learned kings and protected trade. Subject accounts remember the same roads carrying deportees and siege timber. Jirahar tradition gives particular weight to 742 BR. Qahuri histories remember Ashkur's death, occupation of their eastern approaches and Eryndor's later royal visit. Ortheian biographies make Eryndor the sole destroyer of Arqesh; Vasharan inscriptions give that honour to Arezan. Canal-city accounts preserve the governors, boat crews and forced workers without whom neither invader could have entered the capital.
-
-Arqeshite inhabitants maintained difficult waterworks, preserved older learning, raised families and produced celebrated textiles, music and brick architecture. Their taxes and labour also supported armies that destroyed cities, enslaved captives and deported whole households. Successor communities inherited both the useful works and the injuries of imperial rule.
 
 ## Read with
 

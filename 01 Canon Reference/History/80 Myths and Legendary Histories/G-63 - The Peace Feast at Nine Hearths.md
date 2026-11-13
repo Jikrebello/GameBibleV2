@@ -16,13 +16,11 @@ aliases: ["The Peace Feast at Nine Hearths"]
 ---
 # The Peace Feast at Nine Hearths
 
-> **Stories told.** The local telling and the material or customary remainder below are established. A claimed original object, miraculous response, famous identity or supernatural explanation is not authenticated merely by this article.
-
 ## Historical setting
 
-**c. 2165–1750 BR; overlapping Scattering and early Hearths.** one southern Scattering refuge basin, separate from the first gate and harbour. This tradition belongs to [[Age of Scattering]]; its cultural bearers are Ark-derived and neighbouring Orphaned communities.
+**c. 2165–1750 BR; overlapping Scattering and early Hearths.** One southern Scattering refuge basin, separate from the first gate and harbour. This tradition belongs to [[Age of Scattering]]; its cultural bearers are Ark-derived and neighbouring Orphaned communities.
 
-It is told among descendants of one Scattering refuge and the settlement that received it. Its survival does not make every singer's version a complete account of the event.
+It is told among descendants of one Scattering refuge and the settlement that received it.
 
 ## The tale
 
@@ -47,12 +45,6 @@ Official marriage songs say the prince and woman loved one another. Hearth lamen
 ## What remains
 
 At wedding dances the circle stops at the ninth hearth and leaves one place empty. No bride or groom may be pulled across it.
-
-## History and belief
-
-The practice, landscape or physical object described here has a place in the present world. Statements that it is the original relic, that a voice is the original dead person, or that a victory proves divine approval belong to the tradition unless a separate history establishes them.
-
-Names, precise sites and competing supernatural claims may remain uncertain without making the tradition placeless.
 
 ## Read onward
 

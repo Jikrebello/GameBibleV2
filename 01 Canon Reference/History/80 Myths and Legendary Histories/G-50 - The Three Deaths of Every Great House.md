@@ -20,9 +20,9 @@ aliases: ["The Three Deaths of Every Great House"]
 
 ## Historical setting
 
-**post-Giant local generations; not securely synchronized to AR.** far-distant cypress commonwealth and its adjoining Egg White courts. This tradition belongs to [[Distant Lands and Otherworld Histories]]; its cultural bearers are the uncontacted Orphaned peoples of the Last Houses.
+**post-Giant local generations; not securely synchronized to AR.** Far-distant cypress commonwealth and its adjoining Egg White courts. This tradition belongs to [[Distant Lands and Otherworld Histories]]; its cultural bearers are the uncontacted Orphaned peoples of the Last Houses.
 
-It is told in a far-distant Orphaned mortuary commonwealth where great Houses rose from the care of bodies after a civilisational collapse. Its survival does not make every singer's version a complete account of the event.
+It is told in a far-distant Orphaned mortuary commonwealth where great Houses rose from the care of bodies after a civilisational collapse.
 
 ## The tale
 
@@ -49,8 +49,6 @@ House versions say the grandson invented the rite. Debtor songs say the crowd fo
 Three-mask funeral plays are performed by kin, rival and cost-bearer. Street children often steal all three masks and improvise a fourth ending.
 
 ## History and belief
-
-The practice, landscape or physical object described here has a place in the present world. Statements that it is the original relic, that a voice is the original dead person, or that a victory proves divine approval belong to the tradition unless a separate history establishes them.
 
 The country's local generations supply the order of events; an exact AR conversion remains unknown.
 

@@ -23,29 +23,29 @@ Qahuri kings, temple households, canal councils and craft towns had already crea
 
 ## Revelation and Unification, 541-567 AR
 
-Mujalib receives the revelation of Malak al-Ahd in 541 AR. Alliances, preaching, arbitration, war and the Covenant of the 4,444 unite Ahdari clans and settled allies. Al-Qahur becomes the sacred centre.
+Mujalib received the revelation of Malak al-Ahd in 541 AR. Alliances, preaching, arbitration, war and the Covenant of the 4,444 united Ahdari clans and settled allies. Al-Qahur became the sacred centre.
+
+In 558 AR, Mujalib's coalition violently seized the [[Nine Wells of Tergai]], ancestral Tarkhan ground and the northern frontier's oldest wound. Later Witnessed-Seal tradition recast the conquest as voluntary submission. Qahirid forts and pilgrimages still depend upon that false public memory.
 
 ## First Unsealing and Schism, 568-612 AR
 
-Qatada Sayf-al-Ahd leads the First Unsealing. The disputed succession of 597 and massacre at Bir Qassim in 603 divide Witnessed Seal from Sealed Blood. Zanthir is established in 601; Banu Mizan client states emerge across the Velian belt around 610.
+Qatada Sayf-al-Ahd led the First Unsealing. The disputed succession of 597 and massacre at Bir Qassim in 603 divided Witnessed Seal from Sealed Blood. Zanthir was established in 601; Banu Mizan client states emerged across the Velian belt around 610.
 
 ## Long Frontier, 612-884 AR
 
-Banu Mizan rule produces translation houses, water courts, protected Redeemer communions, trade, bondage, and mixed frontier societies. Qazmari support gives the Sealed Blood a durable territorial base. Imperial unity repeatedly fractures among dynasties and military households.
+Banu Mizan rule produced translation houses, water courts, protected Redeemer communions, trade, bondage, and mixed frontier societies. Qazmari support gave the Sealed Blood a durable territorial base. Imperial unity repeatedly fractured among dynasties and military households.
 
 ## Qahirid Resurgence and Caleran, 885-957 AR
 
-Qahir ibn Ruzbeh rebuilds central forces through Ahdanite mass levies, siege works, and provincial integration. Sultan-Caliph Idris al-Fattah takes Caleran in 905. The Thalmyric counteroffensive recovers it in 957 and continues until 1052, but Zanthir and the Velian States remain outside secure imperial control.
+Qahir ibn Ruzbeh rebuilt central forces through Ahdanite mass levies, siege works, and provincial integration. Sultan-Caliph Idris al-Fattah took Caleran in 905. The Thalmyric counteroffensive recovered it in 957 and continued until 1052, but Zanthir and the Velian States remained outside secure imperial control.
 
 ## Apex and Strain, 1052-1303 AR
 
-Competition with Thalmyria hardens the frontier. Suhrab the Lawbinder rules from 1190 to 1243 and compiles the *Ledger of Ledgers*. Qarayel's Black Wind forces Iqashar to pay the Tarkhan between 1265 and 1300, exposing the limits of settled power.
-
-The northern frontier's oldest wound predates this humiliation. In 558 AR, Mujalib's coalition violently seized the Tarkhan-built [[Nine Wells of Tergai]]. Later Witnessed-Seal tradition recast the conquest as voluntary submission. Qahirid forts and pilgrimages still depend upon that false public memory.
+Competition with Thalmyria hardened the frontier. Suhrab the Lawbinder ruled from 1190 to 1243 and compiled the *Ledger of Ledgers*. Qarayel's Black Wind forced Iqashar to pay the Tarkhan between 1265 and 1300, exposing the limits of settled power on the frontier where the seizure of the Nine Wells had begun.
 
 ## Present Settlement, 1304-1360 AR
 
-The Tarkhan divide into four hordes. Qahirid rulers recover influence through Guard politics rather than conquest. Marzuq III takes the throne in 1349. Qazmarid remains independent, Al-Qahur indispensable but internally divided, and Zanthir the expected first battlefield of the next imperial war.
+The Tarkhan divided into four hordes. Qahirid rulers recovered influence through Guard politics rather than conquest. Marzuq III took the throne in 1349. Qazmarid remains independent, Al-Qahur indispensable but internally divided, and Zanthir the expected first battlefield of the next imperial war.
 
 ## Navigation
 
@@ -57,11 +57,11 @@ The Tarkhan divide into four hordes. Qahirid rulers recover influence through Gu
 
 ## Historical Atlas — wider inheritance
 
-The Covenant peoples did not emerge as an immediate third branch at the Prophet's death. Their Ahdari predecessors formed during the later northern fission, when defended wells, territorial oaths and enforceable restitution offered an alternative to more mobile Near-Glass institutions. Tarkhan neighbours traded, married, raided and negotiated on their own behalf.
+The Ahdari predecessors of the Covenant peoples formed during the later northern fission, when defended wells, territorial oaths and enforceable restitution offered an alternative to more mobile Near-Glass institutions. Tarkhan neighbours traded, married, raided and negotiated on their own behalf.
 
-Mujalib's revelation in 541 AR transformed that inheritance rather than inventing water society from nothing. Conquest, Al-Qahur's foundation and the First Unsealing made an imperial-confessional identity capable of admitting several peoples. The Nine Wells seizure in 558 remained a violent act even when later historians called it consent. The Long Frontier allowed translation, irrigation and mixed households to flourish alongside captivity, ransom and legal coercion.
+Mujalib's revelation in 541 AR transformed that inheritance. Conquest, Al-Qahur's foundation and the First Unsealing made an imperial-confessional identity capable of admitting several peoples. The Long Frontier allowed translation, irrigation and mixed households to flourish alongside captivity, ransom and legal coercion.
 
-The Qahirid resurgence and Fall of Caleran enlarged the empire; later prosperity under Suhrab did not prevent fragmentation. In 1360, Qahuri, Iqashari, Qazmari, Ahdari, Zanthiri and other communities possess different ancestries and recognise no uncontested ruler. The hidden role of the Creditor was unknown to ordinary believers and cannot make them knowing accomplices.
+The Qahirid resurgence and Fall of Caleran enlarged the empire; later prosperity under Suhrab did not prevent fragmentation. In 1360, Qahuri, Iqashari, Qazmari, Ahdari, Zanthiri and other communities possess different ancestries and recognise no uncontested ruler.
 
 ## Stories and neighbouring histories
 

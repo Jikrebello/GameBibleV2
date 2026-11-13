@@ -70,7 +70,7 @@ Velsar attempted a northern extension of his eastern command in 358 BR. Defended
 
 ## The sea-heir and the naval organiser
 
-Marovan Veyr's son Ardel Veyr maintained a following among displaced officers, refugees and island communities. He offered shelter to people fleeing the proscriptions and took control of shipping that could support them. Merchants also faced forced payments and detention of crews. Gratitude for refuge and anger at coercion existed within the same coastal world.
+Marovan Veyr's son Ardel Veyr maintained a following among displaced officers, refugees and island communities. He offered shelter to people fleeing the proscriptions and took control of shipping that could support them. Merchants also faced forced payments and detention of crews.
 
 Thalion relied on [[Istran Melvo]], a former shipyard worker and military organiser, to contest those routes. Melvo repaired vessels, trained crews and secured stores at cooperating ports. His campaign involved negotiation with residents whose harbours had already borne repeated levies. Seizure of timber and compulsory labour accompanied improvements in the fleet's ability to remain at sea.
 

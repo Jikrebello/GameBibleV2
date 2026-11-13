@@ -14,7 +14,7 @@ tags: []
 ---
 # The Ember Underground
 
-The Ember Underground is the collective name given to the households, burial fraternities, couriers and local congregations that moved people and sacred material through the Atherian Empire during the Underground Centuries, 1–291 AR. These networks shared roads and occasional signs but possessed no common leader or permanent command. Their work preserved children, letters, Gospel passages and relics through successive persecutions, while betrayal, mistaken identification and local vengeance cost many lives.
+The Ember Underground is the collective name given to the households, burial fraternities, couriers and local congregations that moved people and sacred material through the Atherian Empire during the Underground Centuries, 1–291 AR. These networks shared roads and occasional signs. Their work preserved children, letters, Gospel passages and relics through successive persecutions, while betrayal, mistaken identification and local vengeance cost many lives.
 
 > _“We carry flame beneath the skin.”_  
 > —attributed to the courier called Ashvein
@@ -23,7 +23,7 @@ The Ember Underground is the collective name given to the households, burial fra
 
 [[The First Church - From Qiryath to the Tower Revolt|The first congregation]] formed in Second Qiryath after the Resurrection. Pilgrims, travelling households and Companions carried its teaching and practices along existing roads and river routes. Local persecution gave some of those connections a second purpose as places to hide or pass news of arrests. The destruction of Qiryath in 70 AR sent displaced believers along routes which had already sustained congregations for decades. Some accompanied Jirahar families seeking safety beyond Atherian rule. Those who stayed inside the empire found shelter among older assemblies. The Via Celestis became the principal long-distance route because imperial traffic offered concealment, lodging and reliable stages. Smaller paths ran through workshop quarters, cemeteries, river ports and households belonging to servants inside the imperial elite.
 
-No document establishes a single foundation. “The Ember Underground” first appears in later histories that joined numerous local memories under one image. A courier might know two safe houses and the bearer who introduced them, while remaining ignorant of a larger route. Bishops, wealthy converts and burial associations sometimes supplied money, but none controlled the whole movement.
+“The Ember Underground” first appears in later histories that joined numerous local memories under one image. A courier might know two safe houses and the bearer who introduced them, while remaining ignorant of a larger route. Bishops, wealthy converts and burial associations sometimes supplied money, but none controlled the whole movement.
 
 ## Couriers and Recognition
 
@@ -43,7 +43,7 @@ Imperial enforcement varied by reign and province. Quiet decades allowed congreg
 
 Tervan Marcellan's Edict of Public Sacrifice in 249 AR exposed people through town registers and required certificates. During the civil war of 288–291 AR, the court instead used known meeting places, officers and books to identify assemblies. Households that had divided responsibility for copies, relief and burial could recover after a raid more readily than those that relied on one host. [[The Church after Qiryath - From Exile to Legalization]]
 
-Later commemoration often turned every dead courier into a steadfast martyr and every survivor into a heroic keeper of secrets. Contemporary letters preserve a harsher history. Families refused to receive recanters, congregations killed alleged informers and wealthy patrons sometimes bought safety by surrendering servants. The Underground endured through courage, ordinary competence and repeated failure rather than perfect unity.
+Later commemoration often turned every dead courier into a steadfast martyr and every survivor into a heroic keeper of secrets. Contemporary letters preserve a harsher history. Families refused to receive recanters, congregations killed alleged informers and wealthy patrons sometimes bought safety by surrendering servants. The Underground endured through courage, ordinary competence and repeated failure.
 
 ## Remembered Places
 
@@ -57,9 +57,9 @@ A disused observatory in the Veridancian hills became a station for news of arre
 
 ### The Ashway Bridge
 
-Hollow spaces inside the supports of a scorched bridge near Halmenth served as meeting rooms. Couriers approached carrying a coal in a spoon. A coal extinguished before the crossing warned that wind, rain or movement on the bridge made the meeting unsafe; later tradition described this practical test as the Flame refusing entry.
+Hollow spaces inside the supports of a scorched bridge near Halmenth served as meeting rooms. Couriers approached carrying a coal in a spoon. A coal extinguished before the crossing warned that the meeting was unsafe, whether from wind, rain or movement on the bridge or, as later tradition described it, the Flame refusing entry.
 
-Monks now cross the bridge barefoot during the Feast of Chains and carry coals in memory of the couriers. The ceremony honours people who used ordinary judgement under danger. It does not claim that every successful crossing was miraculous.
+Monks now cross the bridge barefoot during the Feast of Chains and carry coals in memory of the couriers. The ceremony honours people who used ordinary judgement under danger.
 
 ## Memory in the Later Churches
 
@@ -67,7 +67,7 @@ Thalmyric tapestries often represent the Underground as veins of fire beneath im
 
 The movement helped the Church survive long enough to emerge after legalization with trained teachers, burial institutions, routes of communication and a memory of resistance. Those strengths also created later disputes. Families argued over relics, bishops claimed descent from networks they had never governed and former informers attempted restitution to communities that did not wish to forgive them.
 
-The Underground's historical importance lies in thousands of limited relationships: a servant opening one gate, a driver hiding one child or a frightened prisoner giving up one address. No single organisation saved the Church. The connected labour of many fallible people carried its life across three centuries.
+The Underground's historical importance lies in thousands of limited relationships: a servant opening one gate, a driver hiding one child or a frightened prisoner giving up one address. The connected labour of many fallible people carried its life across three centuries.
 
 ## Navigation
 

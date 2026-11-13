@@ -16,13 +16,11 @@ aliases: ["The Three Nights While Years Passed"]
 ---
 # The Three Nights While Years Passed
 
-> **Stories told.** The local telling and the material or customary remainder below are established. A claimed original object, miraculous response, famous identity or supernatural explanation is not authenticated merely by this article.
-
 ## Historical setting
 
-**1232–1247 AR with unequal elapsed time in refuge.** successor-imperial towns and provincial districts. This tradition belongs to [[High Noon and the Qarath Disaster]]; its cultural bearers are Thalmyric, Eclessian and Sestaran tellers.
+**1232–1247 AR with unequal elapsed time in refuge.** Successor-imperial towns and provincial districts. This tradition belongs to [[High Noon and the Qarath Disaster]]; its cultural bearers are Thalmyric, Eclessian and Sestaran tellers.
 
-It is told along Grey Sweat refuge routes that once touched an Egg White adjacency, by families with contradictory ages in their household memory. Its survival does not make every singer's version a complete account of the event.
+It is told along Grey Sweat refuge routes that once touched an Egg White adjacency, by families with contradictory ages in their household memory.
 
 ## The tale
 
@@ -47,12 +45,6 @@ Some call the orchard a Patron refuge; others a Menhir conjunction or fever drea
 ## What remains
 
 Farewell gifts are sealed with a white thread and may be opened only by the person who remembers giving them, never merely by an heir with the same name.
-
-## History and belief
-
-The practice, landscape or physical object described here has a place in the present world. Statements that it is the original relic, that a voice is the original dead person, or that a victory proves divine approval belong to the tradition unless a separate history establishes them.
-
-Names, precise sites and competing supernatural claims may remain uncertain without making the tradition placeless.
 
 ## Read onward
 

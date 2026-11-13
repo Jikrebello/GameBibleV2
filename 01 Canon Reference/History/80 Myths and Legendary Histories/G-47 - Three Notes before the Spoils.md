@@ -16,13 +16,11 @@ aliases: ["Three Notes before the Spoils"]
 ---
 # Three Notes before the Spoils
 
-> **Stories told.** The local telling and the material or customary remainder below are established. A claimed original object, miraculous response, famous identity or supernatural explanation is not authenticated merely by this article.
-
 ## Historical setting
 
 **905–1052 AR; Fall and Long Reconquest.** Thalmyric refuge mountains and reconquered provincial towns. This tradition belongs to [[The Fall and the Long Reconquest]]; its cultural bearers are refugees, occupation-born households and returners.
 
-It is told on Fall and Reconquest surrender fields, by horn players, camp rescuers and families once counted among captured property. Its survival does not make every singer's version a complete account of the event.
+It is told on Fall and Reconquest surrender fields, by horn players, camp rescuers and families once counted among captured property.
 
 ## The tale
 
@@ -47,12 +45,6 @@ Army chronicles call the mutilation enemy action. Street songs name the victorio
 ## What remains
 
 A cracked horn plays three incomplete notes before spoils, captured houses or evacuated beds are assigned.
-
-## History and belief
-
-The practice, landscape or physical object described here has a place in the present world. Statements that it is the original relic, that a voice is the original dead person, or that a victory proves divine approval belong to the tradition unless a separate history establishes them.
-
-Names, precise sites and competing supernatural claims may remain uncertain without making the tradition placeless.
 
 ## Read onward
 

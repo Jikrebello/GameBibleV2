@@ -18,7 +18,7 @@ The Caleran campaign of 950-962 AR recovered the old Atherian capital and opened
 
 ## The Descent
 
-Highland armies moved along repaired Atherian roads while coastal and local resistance disrupted occupation supply. Weaponized Holy Flame first appears reliably in this campaign, carried through hymns, sanctified lamps, and bearers whose moral condition made the result impossible to standardize.
+Highland armies moved along repaired Atherian roads while coastal and local resistance disrupted occupation supply. Weaponized Holy Flame first appeared reliably in this campaign, carried through hymns, sanctified lamps, and bearers, with results no one could standardize.
 
 ## Caleran, 957 AR
 

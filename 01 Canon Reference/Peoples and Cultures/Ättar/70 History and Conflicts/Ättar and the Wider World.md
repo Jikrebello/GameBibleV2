@@ -21,7 +21,7 @@ The Folk are related neighbors, rivals, trading partners, spouses, and winter al
 
 ## Thalmyria and the Saltborn
 
-Western Kedrava bears the deepest history of Ättar raid, settlement, baptism, and naval service. The [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/60 Realms and Peoples/The Saltborn Coast Overview.md|Saltborn]] are a Thalmyric people with substantial Ättar ancestry, not an Ättar colony. Baptized oath-families serve in the Ash Guard and navy while old-rite halls raid the same coast.
+Western Kedrava bears the deepest history of Ättar raid, settlement, baptism, and naval service. The [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/60 Realms and Peoples/The Saltborn Coast Overview.md|Saltborn]] are a Thalmyric people with substantial Ättar ancestry. Baptized oath-families serve in the Ash Guard and navy while old-rite halls raid the same coast.
 
 ## Sestara
 
@@ -29,7 +29,7 @@ Sermora hires Ättar privateers; Orsena brokers ransom and ship repair; Vardessa
 
 ## Covenant and Qazmarid
 
-Ättar crews raid and trade along the western strait, fight Qazmari ships, escort Covenant merchants, and sell captives into foreign markets. Captured Ättar appear in military households and flesh pits. Slaving connects the societies through shared wrongdoing, not cultural friendship.
+Ättar crews raid and trade along the western strait, fight Qazmari ships, escort Covenant merchants, and sell captives into foreign markets. Captured Ättar appear in military households and flesh pits.
 
 ## Jirahar
 

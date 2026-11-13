@@ -16,13 +16,11 @@ aliases: ["The Six at the Cinder Inn"]
 ---
 # The Six at the Cinder Inn
 
-> **Stories told.** The local telling and the material or customary remainder below are established. A claimed original object, miraculous response, famous identity or supernatural explanation is not authenticated merely by this article.
-
 ## Historical setting
 
 **905–1052 AR; Fall and Long Reconquest.** Thalmyric refuge mountains and reconquered provincial towns. This tradition belongs to [[The Fall and the Long Reconquest]]; its cultural bearers are refugees, occupation-born households and returners.
 
-It is told throughout Mountain Rebellion and Reconquest country, in mutually hostile royal, saintly, dissenter and refugee versions. Its survival does not make every singer's version a complete account of the event.
+It is told throughout Mountain Rebellion and Reconquest country, in mutually hostile royal, saintly, dissenter and refugee versions.
 
 ## The tale
 
@@ -47,12 +45,6 @@ Royal Lives separate the criminal acts from the ruler. Dissenter songs place eve
 ## What remains
 
 Six chipped bowls circle an inn hearth. Each local performance fills them with different food, and one bowl is sometimes removed before the story ends.
-
-## History and belief
-
-The practice, landscape or physical object described here has a place in the present world. Statements that it is the original relic, that a voice is the original dead person, or that a victory proves divine approval belong to the tradition unless a separate history establishes them.
-
-Names, precise sites and competing supernatural claims may remain uncertain without making the tradition placeless.
 
 ## Read onward
 

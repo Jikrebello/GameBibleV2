@@ -30,7 +30,7 @@ Most food came from households whose members combined cultivation with animal ke
 
 Enslaved labourers worked on estates, in mines, workshops and domestic households. War and punishment supplied people to markets. Sale separated parents, children and spouses. Mining and large rural gangs imposed the harshest conditions. Skilled urban workers sometimes possessed greater freedom of movement, although their labour remained an owner's property.
 
-Manumission allowed some former slaves to establish shops, marry freely and obtain civic standing for their children. Owners used it as reward and incentive. It changed individual lives while the violence sustaining the market continued.
+Manumission allowed some former slaves to establish shops, marry freely and obtain civic standing for their children. Owners used it as reward and incentive.
 
 ## Trade and craft
 
@@ -48,7 +48,7 @@ Baths provided washing, exercise, conversation and business. Festivals filled st
 
 ## The price of connection
 
-A road could bring medicine and soldiers to a threatened town. It could also remove its grain, carry captives away and let an estate owner supervise land from a distant city. Imperial prosperity joined material abundance to the power governing its movement.
+A road could bring medicine and soldiers to a threatened town. It could also remove its grain, carry captives away and let an estate owner supervise land from a distant city.
 
 Households responded through cooperation, bargaining, concealment, migration and revolt. Their work made the monuments and intellectual life of the Glory possible.
 

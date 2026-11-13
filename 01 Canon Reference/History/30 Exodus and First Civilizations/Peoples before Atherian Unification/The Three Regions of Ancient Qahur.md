@@ -42,7 +42,7 @@ The Twin-Reed ideal represented a united river under a ruler who protected both 
 
 Qahuri households crossed these political divisions through marriage, pilgrimage, boat traffic and craft. A Tenareti family could serve a Qemareti king while retaining its middle-river tombs. A Sakhreti soldier could settle in the lower fan. Temple communities recognised related practices while disputing precedence and royal patronage.
 
-By 350 BR, the three regional identities remained strong under separate crowns and Vasharan pressure. None constituted a distinct ancestry. Their rivalry belonged to the political and regional life of one broad river civilisation.
+By 350 BR, the three regional identities remained strong under separate crowns and Vasharan pressure.
 
 ## Related histories
 

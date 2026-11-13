@@ -35,7 +35,7 @@ Southern leagues left the communities nearer the Glass over several generations.
 
 Ship-owning houses connected timber, metal, grain and captive labour across distant shores. A successful fleet required food and repairs ashore as well as skill at sea. Harbour families could use that dependence to restrain a commander or find themselves subjected to military seizure.
 
-The Aurin supplied one group of these relationships. [[Arkenan and Saronikan Cities before the Empire]] describes another, centred on the eastern islands and Thalassian harbours. Erenost's grain seizure, Pyrassa's organised voyages and Irenai's teaching traditions arose from their own regional circumstances. These communities developed alongside Caleran rather than receiving every institution from it.
+The Aurin supplied one group of these relationships. [[Arkenan and Saronikan Cities before the Empire]] describes another, centred on the eastern islands and Thalassian harbours. Erenost's grain seizure, Pyrassa's organised voyages and Irenai's teaching traditions arose from their own regional circumstances. These communities developed alongside Caleran.
 
 [[Arkenan and Saronikan Communities before 350 BR]] describes the civic populations which sustained those ports and the mixed households produced by settlement, captivity, manumission and military service.
 
@@ -53,7 +53,7 @@ The twelve-city Celestial Compact coordinated a calendar, arbitration and milita
 
 Between about 735 and 684 BR, the upland kingdom of Ortheia imposed a changing hegemony upon much of the city world. Valeron II organised the army and league inherited by [[Eryndor III and the Ortheian Eastern Conquest|Eryndor III]]. Eryndor destroyed the rebellious city of Olyssar, crossed the eastern sea and joined Arezan Tiravan in the defeat of Arqesh. His death produced the [[Wars of the Inheritance]], whose rival courts reshaped Vashar, Delkos, Qahur and the eastern ports.
 
-Caleran recovered the Compact from Eryndor's western regent. It received displaced officers, unpaid crews and eastern connections while retaining land and revenue acquired during royal rule. The republic which fought the Gateway Wars grew from this recovery rather than from an uninterrupted line of civic independence.
+Caleran recovered the Compact from Eryndor's western regent. It received displaced officers, unpaid crews and eastern connections while retaining land and revenue acquired during royal rule. The republic which fought the Gateway Wars grew from this recovery.
 
 ## The overseas republic and the spared towns
 
@@ -75,7 +75,7 @@ Thalion ruled until 318 BR and adopted Meren, the son of Evara and Velsar, as su
 
 Provincial cities, professional armies and continuing transport allowed the government to survive changes of dynasty. [[Provinces and Municipal Life in Imperial Atheria]] explains this structure. [[Food, Trade and Enslavement in Imperial Atheria]] and [[Schools, Arts and Imperial Magic]] follow the work, coercion, knowledge and pleasures sustained within it.
 
-The Redeemer entered this imperial world. Persecution, Conversion, regional decay, frontier accommodation and the Fall changed its political and religious inheritance. Thalmyrics and Eclessians later claimed that inheritance through different histories, not as two ancient biological branches. Atherian ruins therefore belong to many present peoples, including those conquered by the builders.
+The Redeemer entered this imperial world. Persecution, Conversion, regional decay, frontier accommodation and the Fall changed its political and religious inheritance. Thalmyrics and Eclessians later claimed that inheritance through different histories. Atherian ruins therefore belong to many present peoples, including those conquered by the builders.
 
 ## People and places of the early history
 

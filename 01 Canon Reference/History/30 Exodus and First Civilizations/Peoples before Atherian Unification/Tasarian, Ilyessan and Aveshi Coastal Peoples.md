@@ -22,7 +22,7 @@ People called themselves **Tasarian**, **Ilyessan** or **Aveshi** according to c
 
 Marriage linked port households to pilots, inland growers and foreign traders. Civic adoption and military settlement also created new lineages. A household might speak Atherian in commerce, use a Vashari language with relatives and employ Arqeshite measures at the warehouse. This multilingual practice belonged to ordinary trade, kinship and government.
 
-Public worship belonged to each city and its neighbourhoods. Sailors carried rites between harbours, while foreign rulers endowed temples and installed royal images. A family could participate in a Vasharan ceremony for civic advantage and retain its household cult. Shared symbols and translated divine names did not merge the supernatural persons or political loyalties behind them.
+Public worship belonged to each city and its neighbourhoods. Sailors carried rites between harbours, while foreign rulers endowed temples and installed royal images. A family could participate in a Vasharan ceremony for civic advantage and retain its household cult.
 
 ## Distinct coastal cities
 
@@ -34,9 +34,9 @@ Each city developed separate festivals, rival families and political interests. 
 
 Arqeshite kings sought tribute, ships and harbour access. The Ortheian conquest and Delkosi Successor introduced military settlements and new courts. Vasharan rulers used treaties, hostages and governors to keep roads and ports open. Atherian leagues offered trade and naval assistance while demanding bases and favourable dues.
 
-Local families chose among these powers according to survival and advantage. Some acquired office within an empire. Others organised resistance or changed allegiance when a garrison could no longer be supplied. These decisions divided cities internally; no foreign rivalry alone explains their politics.
+Local families chose among these powers according to survival and advantage. Some acquired office within an empire. Others organised resistance or changed allegiance when a garrison could no longer be supplied. These decisions divided cities internally.
 
-By 350 BR Tasarian, Ilyessan and Aveshi identities remained active. Their people participated in a broadly mixed maritime world while retaining separate citizenship and memory. Foreign writers often called Atherian-speaking inhabitants Atherian or labelled all royal subjects Vasharan. Neither usage described the full local population.
+By 350 BR Tasarian, Ilyessan and Aveshi identities remained active. Foreign writers often called Atherian-speaking inhabitants Atherian or labelled all royal subjects Vasharan. Neither usage described the full local population.
 
 ## Related histories
 

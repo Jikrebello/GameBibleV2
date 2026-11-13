@@ -16,13 +16,11 @@ aliases: ["The Ragged Gospel in the Hospital Apron"]
 ---
 # The Ragged Gospel in the Hospital Apron
 
-> **Stories told.** The local telling and the material or customary remainder below are established. A claimed original object, miraculous response, famous identity or supernatural explanation is not authenticated merely by this article.
-
 ## Historical setting
 
-**c. 330–382 AR.** inland provincial Atherian cities. This tradition belongs to [[The Conversion of the Empire]]; its cultural bearers are temple descendants and early Church communities.
+**c. 330–382 AR.** Inland provincial Atherian cities. This tradition belongs to [[The Conversion of the Empire]]; its cultural bearers are temple descendants and early Church communities.
 
-It is told in Conversion-era hospital houses, among counter-church descendants and in villages that know only a medicinal recipe. Its survival does not make every singer's version a complete account of the event.
+It is told in Conversion-era hospital houses, among counter-church descendants and in villages that know only a medicinal recipe.
 
 ## The tale
 
@@ -47,12 +45,6 @@ Hospital versions credit the nurse with every good sentence. Cult versions call 
 ## What remains
 
 Old hospital aprons contain ragged recipe patches in incompatible hands. Users often know nothing of their disputed origin.
-
-## History and belief
-
-The practice, landscape or physical object described here has a place in the present world. Statements that it is the original relic, that a voice is the original dead person, or that a victory proves divine approval belong to the tradition unless a separate history establishes them.
-
-Names, precise sites and competing supernatural claims may remain uncertain without making the tradition placeless.
 
 ## Read onward
 

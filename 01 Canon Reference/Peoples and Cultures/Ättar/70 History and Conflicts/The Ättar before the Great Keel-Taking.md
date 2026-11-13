@@ -16,19 +16,19 @@ tags: [world-historical-atlas, ancient-world, attar, empty-halls, mother-moon]
 # The Ättar before the Great Keel-Taking
 
 
-The Ättar developed along the coldest coasts and protected southern valleys from populations closely related to the ancient Folk. Their society did not begin with sea-kings, four supernatural kindreds or a single migration from a lost homeland. Winter storage, boats, iron, pasture, Grobi pressure and political choices gradually made the far-cold hall world distinct. Lesser Giant and giant-blooded refugees from Nhaldur entered this population before that divergence was complete, spreading inherited strength, hardiness and magical potential without making the Ättar a Giant people.
+The Ättar developed along the coldest coasts and protected southern valleys from populations closely related to the ancient Folk. Winter storage, boats, iron, pasture, Grobi pressure and political choices gradually made the far-cold hall world distinct. Lesser Giant and giant-blooded refugees from Nhaldur entered this population before that divergence was complete, spreading inherited strength, hardiness and magical potential.
 
-This account ends in 350 BR. The **great keel-taking**, when imperial weakness after c. 400 AR opened the largest age of Ättar raiding and settlement, remains later history. Ancient voyages established the skills, routes and inequalities from which that expansion grew without making every earlier farmer a viking.
+This account ends in 350 BR. The **great keel-taking**, when imperial weakness after c. 400 AR opened the largest age of Ättar raiding and settlement, remains later history. Ancient voyages established the skills, routes and inequalities from which that expansion grew.
 
 ## Coast, valley and winter store, c. 2300–1900 BR
 
-Far-cold survivors lived around protected coves, short river valleys, forest pasture and taiga routes. Some had endured local Giant estates. Others received refugees from [[Nhaldur and the First Rewriting|Nhaldur]], including Avarn hull workers, Molkar smiths, condemned lesser Giants and giant-blooded human dynasts. Communities farther from the prison road possessed their own older histories and did not become Ättar only because refugees arrived.
+Far-cold survivors lived around protected coves, short river valleys, forest pasture and taiga routes. Some had endured local Giant estates. Others received refugees from [[Nhaldur and the First Rewriting|Nhaldur]], including Avarn hull workers, Molkar smiths, condemned lesser Giants and giant-blooded human dynasts. Communities farther from the prison road possessed their own older histories.
 
 The earliest settlements combined fishing, cold-grain cultivation, livestock, hunting and seasonal movement. Small boats followed inshore water and crossed between islands. People stored dried fish, grain, fat, roots and fodder against winter. A household with a sound roof and surplus food could shelter neighbours, demand service and survive a Grobi alarm. Repeated need enlarged some homes into halls containing assembly space, granaries, workshops and armed sleepers.
 
 Authority followed practical concentration. Store keepers decided when sealed grain could be opened. Boat owners connected several coves. Smiths repaired tools whose loss could end a harvest. War leaders organised watch and pursuit. These offices could belong to one ruling household, but no law required that they always did. Assemblies expected a chief to feast, compensate and protect because those acts demonstrated access to real resources.
 
-Captivity formed part of the economy from the beginning. Raids took labourers, spouses and children. A slave could herd, row, weave, work iron or manage a household while lacking the right to leave. Giant-blooded captives were valued and feared for bodies which could produce unusually tall or powerful descendants. Chieftains took some as concubines or married them into ruling houses; lesser Giant war leaders also seized halls of their own before most of their descendants entered the human population. Every human descendant retained a complete human soul, while a rare child born a true Giant retained Giant creaturely continuity. Manumission and adoption created routes into a hall, but later family belonging did not make the original capture voluntary.
+Captivity formed part of the economy from the beginning. Raids took labourers, spouses and children. A slave could herd, row, weave, work iron or manage a household while lacking the right to leave. Giant-blooded captives were valued and feared for bodies which could produce unusually tall or powerful descendants. Chieftains took some as concubines or married them into ruling houses; lesser Giant war leaders also seized halls of their own before most of their descendants entered the human population. Manumission and adoption created routes into a hall, but later family belonging did not make the original capture voluntary.
 
 ## The first great halls, c. 1900–1650 BR
 
@@ -45,11 +45,11 @@ Standards could be borrowed. A hall might fight beneath an Ox banner in one war 
 
 The period produced compensation assemblies, annual All-Things, seasonal musters and early sail experiments. Once after harvest, chiefs and free hall men met in open ground to hear disputes which crossed several hall districts, witness succession and decide the common Grobi watch. A chief could not bind an absent hall unless its recognised men had sent a speaker. Women, thralls and dependants affected by the judgement normally had to speak through a free man. Boat crews travelled to Folk and mixed maritime harbours, traded fish, hides, iron and amber, served foreign rulers and took captives. Most voyages remained limited by hull strength, food, weather and the need to return for harvest or winter repair.
 
-[[G-61 - The Hall That Faced the Grobi|The Hall That Faced the Grobi]] belongs to this long divergence. One hall chose to maintain a real southern watch rather than answer a northern kin obligation. The decision saved people in one district and left relatives to death or dispossession elsewhere. It did not create the Ättar, cause the War of the Empty Halls or establish Mother Moon's bargain.
+[[G-61 - The Hall That Faced the Grobi|The Hall That Faced the Grobi]] belongs to this long divergence. One hall chose to maintain a real southern watch rather than answer a northern kin obligation. The decision saved people in one district and left relatives to death or dispossession elsewhere.
 
 ## Grobi beyond the watch road
 
-Grobi packs south of the halls were already divided among breeding hearths, hunting grounds and rival war leaders. They were intelligent predators without human moral conscience. They remembered injuries, formed attachments, planned campaigns and made temporary bargains, but domination, fighting and consumption supplied the ends of their social life. Human settlements were prey. A village taken by assault was normally eaten during the victory, together with its livestock and every useful organic store. Prisoners were kept only as food for later or forced through an immediate task before slaughter.
+Grobi packs south of the halls were already divided among breeding hearths, hunting grounds and rival war leaders. They were intelligent predators. They remembered injuries, formed attachments, planned campaigns and made temporary bargains, but domination, fighting and consumption supplied the ends of their social life. Human settlements were prey. A village taken by assault was normally eaten during the victory, together with its livestock and every useful organic store. Prisoners were kept only as food for later or forced through an immediate task before slaughter.
 
 Ättar and Folk defences changed Grobi tactics. A well-scouted stronghold encouraged a band to circle towards weaker prey. A rich hall with poor watch attracted several companies. A Grobi leader might accept metal, livestock or route information in exchange for attacking someone else, but such payment bought one hunt and created no lasting alliance. Human rulers who attempted this sometimes found themselves chosen as the next source of food.
 
@@ -63,9 +63,9 @@ Three abundant summers south of the Grey-Wolf approaches produced large animal h
 
 Early freezes then killed grazing animals and trapped stored carcasses beyond broken river ice. The orc-stage commander **Gharuk Eight-Bowls** proposed a northward seizure rather than dispersal and bodily reversion. He had led successful summer raids and could claim food from nine large drum companies. His authority depended upon continuing to feed the stages which made him formidable.
 
-**Varka Red-Ladle**, a hobgoblin quartermaster from the Kharvos hearths, turned the gathering into a travelling host. She lashed rough ration sledges together, assigned scouts and crude repair crews, and placed breeding hearths behind the fighters. Human prisoners carried loads, translated warnings or opened roads until the Grobi ate them. Varka promised that the first intact hall stores would feed the young before the orc feast. She made this rule to preserve the host's future numbers, not because Grobi recognised a moral right held by the weak.
+**Varka Red-Ladle**, a hobgoblin quartermaster from the Kharvos hearths, turned the gathering into a travelling host. She lashed rough ration sledges together, assigned scouts and crude repair crews, and placed breeding hearths behind the fighters. Human prisoners carried loads, translated warnings or opened roads until the Grobi ate them. Varka promised that the first intact hall stores would feed the young before the orc feast. She made this rule to preserve the host's future numbers.
 
-Wrath speakers called the expedition the opening of a permanent **Warm Road**. Gharuk wanted the same practical result: northern halls, livestock and a line of stores that would prevent seasonal collapse. Grobi shared a predatory nature, not a single mind. Gharuk bullied, defeated and consumed rival leaders until nine drum companies acknowledged him.
+Wrath speakers called the expedition the opening of a permanent **Warm Road**. Gharuk wanted the same practical result: northern halls, livestock and a line of stores that would prevent seasonal collapse. Gharuk bullied, defeated and consumed rival leaders until nine drum companies acknowledged him.
 
 The **Narrow-Bowl Hearths** resisted incorporation because Gharuk's orcs ate from stores reserved for their young. He seized two camps, killed their leaders and placed the surviving brood in Varka's ration train. When the early freeze worsened, he began feeding those young to his ogres. **Urzha**, the strongest Narrow-Bowl survivor, withdrew with her scouts and decided to destroy Gharuk before he consumed the rest of her pack.
 
@@ -79,7 +79,7 @@ The host took **Hall Arven** with its roof, granary and livestock intact. Grobi 
 
 The title **War of the Empty Halls** first described these deserted and captured settlements. Later poetry often claimed every inhabitant died. Registers of refugees, ransoms and later marriages show that many survived elsewhere.
 
-Human reprisals were also severe. A Bear company killed Grobi traders under a temporary marker because it believed their hides concealed route messages. Lion crews sold captured Grobi and human servants through western harbours. No ordinary sale could turn a human into Grobi, and captivity could not give a Grobi human conscience or a human soul.
+Human reprisals were also severe. A Bear company killed Grobi traders under a temporary marker because it believed their hides concealed route messages. Lion crews sold captured Grobi and human servants through western harbours.
 
 ## Four coalitions
 
@@ -92,7 +92,7 @@ The surviving halls gathered at the closed road above Hornwall. Four chiefs arri
 
 **Hedra Store-Keeper** supervised the common granary. Her own hall had lost people after a chief opened a sealed store to reward fighters before dependants had received shares. She required each coalition to surrender its grain keys and record withdrawals publicly. This provision kept the gathering together through the negotiations and later battle.
 
-Urzha offered maps of the Nine-Drum ration road and the position of the surviving Narrow-Bowl young. She was selling out Gharuk. He had conquered her camps, eaten their leaders and begun feeding her brood to his ogres; destroying him would remove the predator above her and preserve what remained of her own pack. In return, Hedra and the four chiefs promised a marked corridor east and agreed not to attack Urzha's pack while it withdrew. Neither side mistook this for friendship. The hall assembly accepted because Urzha's information made an attack on Gharuk's food train possible.
+Urzha offered maps of the Nine-Drum ration road and the position of the surviving Narrow-Bowl young. She was selling out Gharuk. He had conquered her camps, eaten their leaders and begun feeding her brood to his ogres; destroying him would remove the predator above her and preserve what remained of her own pack. In return, Hedra and the four chiefs promised a marked corridor east and agreed not to attack Urzha's pack while it withdrew. The hall assembly accepted because Urzha's information made an attack on Gharuk's food train possible.
 
 ## Mother Moon's bargain
 
@@ -100,19 +100,19 @@ The four chiefs lacked the force to attack Gharuk's main companies before anothe
 
 The chiefs asked to put the beasts of their four standards into their bodies and to put the beasts' fury into every spear sworn beneath them. The courtiers divided the request into two gifts. Savar, Torvek, Brennar and Eldran were the named petitioners, so each received one monstrous hybrid form. The form attached to the chief's office and to the paternal descent by which all four halls then reckoned eligibility. It did not pass through every marriage. The broader host had been named as the spears beneath them, so the lesser rage entered every man and household formally sworn to one of the four standards. Later intermarriage spread that bodily inheritance through the wider Ättar population.
 
-In exchange, each ruling line owed the first living child of every future pact-holder. The Court would take the child during its first sleep beneath open moonlight and leave a changeling in the same bed. The substitute would grow at a human pace, then feel the pull of the Moon Court and depart at adolescence. Only then would the original child return at the same apparent age, still human-souled but marked by discontinuous memory, lunar senses and knowledge of Court etiquette. The exchange served Mother Moon's law of recurring form and return. It did not restore the stolen years or make an ancestor's assent the child's consent.
+In exchange, each ruling line owed the first living child of every future pact-holder. The Court would take the child during its first sleep beneath open moonlight and leave a changeling in the same bed. The substitute would grow at a human pace, then feel the pull of the Moon Court and depart at adolescence. Only then would the original child return at the same apparent age, marked by discontinuous memory, lunar senses and knowledge of Court etiquette. The exchange served Mother Moon's law of recurring form and return.
 
 The courtiers stated each term plainly and refused to weigh the future child's welfare against the promised cycle. Hedra opposed acceptance and demanded delay until the parents and halls carrying the future cost could speak. The chiefs argued that people would die before another All-Thing could assemble.
 
 Savar, Torvek, Brennar and Eldran accepted. Their first transformations occurred before the gathered free hall assembly. The Lion form gave Savar speed and control in a moving fight. Torvek's Ox form bore weight and broke defended ground. Brennar's Bear form combined protection and crushing strength. Eldran's Wolf form sustained pursuit and coordinated movement through winter terrain.
 
-The bargain created the first true pact lines and the hereditary basis of later skinwalker office. It did not make four species or states. It neither guaranteed good judgement nor replaced stores, weapons, ships and allies. The first children claimed under the covenant were innocent persons, not payments rendered just by the victory which followed.
+The bargain created the first true pact lines and the hereditary basis of later skinwalker office. The first children claimed under the covenant were innocent persons.
 
 ## Breaking the Warm Road, c. 1602–1596 BR
 
 The human counteroffensive attacked supply before massed strength. Wolf scouts and Urzha's guides led small companies to Varka's sledge route. Lion boats carried grain and casualties between unburnt halls, allowing defenders to remain forward longer than Gharuk expected. Ox engineers closed the drove road behind one Grobi division. Bear infantry held the narrow ground while the ration camp was attacked.
 
-The four transformed chiefs fought at separate points rather than as an invulnerable company. Savar crossed a burning hall roof to open its captured gate. Torvek overturned a barricade but was nearly killed after remaining in hybrid form too long. Brennar held Morn Gate while refugees crossed behind him. Eldran pursued the runners who carried Gharuk's reserve food order.
+The four transformed chiefs fought at separate points. Savar crossed a burning hall roof to open its captured gate. Torvek overturned a barricade but was nearly killed after remaining in hybrid form too long. Brennar held Morn Gate while refugees crossed behind him. Eldran pursued the runners who carried Gharuk's reserve food order.
 
 Varka attempted to preserve the birth-hearths and smaller stages by shortening fighter rations. Orc leaders accused her of betrayal. Gharuk opened two dependent sledges to feed his ogres before the final battle, confirming Urzha's warning. Several companies abandoned him as their leaders reverted or lost the ability to promise shares.
 
@@ -120,7 +120,7 @@ Gharuk was wounded near Hall Arven and began to lose the mass which had made his
 
 Varka withdrew with several Grobi hearths through the eastern pass after Urzha seized the surviving Narrow-Bowl brood from her sledges. Human companies allowed Urzha's first column through under Hedra's agreement. A later company attacked Grobi stragglers after the marker had been lowered. At two captured camps, victors killed wounded Grobi and young. They also enslaved human captives whom the host had kept as food, accusing them of service without distinguishing immediate coercion from willing aid.
 
-The war ended as a sequence of broken companies, surrendered camps and guarded withdrawals by c. 1596 BR. No single exterminating battle destroyed the Grobi population.
+The war ended as a sequence of broken companies, surrendered camps and guarded withdrawals. The Grobi population survived.
 
 ## Pact-hall consolidation, c. 1550–1400 BR
 
@@ -138,7 +138,7 @@ Pact halls expanded their roofs, granaries, boathouses and settlements. Jarls ga
 
 The period's best-known champion was **Varik Stone-Hand**, a distant descendant of Hedra and a non-skinwalker fighter fostered between Bear and Ox halls. Around 1280 BR, he held a granary court against the troll-stage Grobi **Orruk Long-Hunger** until villagers removed the food through a rear door. Varik killed Orruk after the troll was weakened by fire and hunger. Songs later made the feat a solitary wrestling victory and omitted the carriers.
 
-Varik became a jarl through service, marriage and the gifts won in later raids. In old age he died fighting another Grobi host after refusing a younger war keeper's retreat. His death left two foster sons, a daughter controlling the boat shares and a skinwalker nephew with assembly eligibility. The succession divided his following and exposed three lesser halls. Heroic strength had saved one store and failed to create a stable government.
+Varik became a jarl through service, marriage and the gifts won in later raids. In old age he died fighting another Grobi host after refusing a younger war keeper's retreat. His death left two foster sons, a daughter controlling the boat shares and a skinwalker nephew with assembly eligibility. The succession divided his following and exposed three lesser halls.
 
 Moon-blood rage was increasingly trained into a hall champion's office. A berserker learned to enter and leave the rage under supervision, carry compensation liability and submit to restraint after battle. Toxic iron-skin paint allowed extraordinary endurance while damaging the body. An outlaw who killed kin or neighbours in rage could not claim the honour of the office merely because songs praised cultivated terror.
 
@@ -165,13 +165,13 @@ By 350 BR, the four pact-kindreds were old institutions containing many rival ha
 
 Casvilar's 385 BR cold-coast voyage reached one shore community, obtained hostages and gifts and withdrew after weather damaged the fleet. It did not conquer a kindred or establish ordinary republican administration. Other Atherian relationships continued through merchants, auxiliaries and raids.
 
-The later great keel-taking was not yet underway. The ancient halls possessed ships, raiding institutions, slavery, overseas contacts and ambitious leaders. They also remained agrarian and dependent upon local labour, harvests, herds and winter defence. Imperial weakness after 400 AR would change the scale and opportunity of their voyages, not reveal a timeless essence which had been waiting since the Unbinding.
+The later great keel-taking was not yet underway. The ancient halls possessed ships, raiding institutions, slavery, overseas contacts and ambitious leaders. They also remained agrarian and dependent upon local labour, harvests, herds and winter defence. Imperial weakness after 400 AR would change the scale and opportunity of their voyages.
 
 ## Home, work and memory
 
 Hall life changed with the year. Spring repaired roofs, ships, fences and tools. Summer divided labour among voyage, pasture, fields and construction. Autumn brought crews home, distributed shares, filled stores and sent chiefs and free men to the annual All-Thing. There they heard disputes crossing several hall districts, witnessed successions, declared outlawry and agreed the winter Grobi watch. Winter concentrated weaving, carving, healing, smithing, feasting, education and defence.
 
-Women could control households, land, production, boat shares and political relationships while remaining excluded from formal chief selection. Free farmers held stronger claims than dependants; freed households could accumulate standing; thralls remained vulnerable to sale, forced labour and sexual coercion. A hall's warmth and poetry were real achievements sustained inside unequal societies.
+Women could control households, land, production, boat shares and political relationships while remaining excluded from formal chief selection. Free farmers held stronger claims than dependants; freed households could accumulate standing; thralls remained vulnerable to sale, forced labour and sexual coercion.
 
 Skalds remembered genealogy, law, voyages, insults and loss. Comic verse tested boasts against practical work. A captain who claimed to have defeated a storm might be asked why the sail still belonged to the person who repaired it. Games included wrestling, board play, boat races and winter contests in which teams moved a loaded sledge without spilling its ceremonial bowl.
 

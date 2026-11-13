@@ -30,7 +30,7 @@ Caedros was crowned at Virelos rather than Veridun to prevent the refuge clergy 
 
 ## The Unsettled Promise
 
-The coronation oath promised return, justice, protection of the Church, and restoration of Caleran. It did not explain how ancestral claims would be reconciled with four generations of occupation. That silence became the empire's longest legal wound.
+The coronation oath promised return, justice, protection of the Church, and restoration of Caleran. It did not explain how ancestral claims would be reconciled with occupation settlements that would endure, in some provinces, for four generations. That silence became the empire's longest legal wound.
 
 ## Navigation
 

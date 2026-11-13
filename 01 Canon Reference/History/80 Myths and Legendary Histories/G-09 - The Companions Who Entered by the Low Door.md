@@ -16,13 +16,11 @@ aliases: ["The Companions Who Entered by the Low Door"]
 ---
 # The Companions Who Entered by the Low Door
 
-> **Stories told.** The local telling and the material or customary remainder below are established. A claimed original object, miraculous response, famous identity or supernatural explanation is not authenticated merely by this article.
-
 ## Historical setting
 
 **c. 96–54 BR; Age of Glory.** The tradition arose in Lacaris and the eastern Atherian provinces. It belongs to the [[Atherian Imperial Age]] and was preserved especially among provincial service households.
 
-It is told in Atherian provincial towns whose ancestors entered imperial service from kitchens, stables, prisons and hostage houses. Its survival does not make every singer's version a complete account of the event.
+It is told in Atherian provincial towns whose ancestors entered imperial service from kitchens, stables, prisons and hostage houses.
 
 ## Historical basis
 
@@ -53,12 +51,6 @@ The historical company numbered six. Some later imperial versions reduce them to
 ## What remains
 
 Old command houses retain a deliberately low lintel. New officers must cross it carrying a child's plain bowl and cannot wear rank while stooping.
-
-## History and belief
-
-The practice, landscape or physical object described here has a place in the present world. Statements that it is the original relic, that a voice is the original dead person, or that a victory proves divine approval belong to the tradition unless a separate history establishes them.
-
-Names, precise sites and competing supernatural claims may remain uncertain without making the tradition placeless.
 
 ## Read onward
 

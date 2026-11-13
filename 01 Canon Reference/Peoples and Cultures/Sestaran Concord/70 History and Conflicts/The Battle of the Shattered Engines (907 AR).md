@@ -21,13 +21,13 @@ Caldrian troops held prepared walls and switchbacks while Vortharan factions sup
 
 The wreckage proved that “demon golem” concealed more than one technology. One shattered chassis released a dying Depth beast. The other exposed a human name-cage, allowing Vortharan and Eclessian witnesses to release the imprisoned soul. That distinction shaped every later counter-engine doctrine.
 
-The victory was neither clean nor holy. Vortharan weapons killed defenders when a counter-script propagated through the wrong ward, and several factions used the emergency to test devices later prohibited even in their own streets.
+Vortharan weapons killed defenders when a counter-script propagated through the wrong ward, and several factions used the emergency to test devices later prohibited even in their own streets.
 
 ## Consequences
 
-The Covenant advance into Eclessia ended. Its dispersed survivors and damaged siege train could not reinforce every occupation corridor. Caedros's rebels later exploited that overextension at Caelmount in 917. Shattered Engines therefore enabled the Mountain Rebellion and Long Reconquest without making Vorthara a Thalmyric ally or subject.
+The Covenant advance into Eclessia ended. Its dispersed survivors and damaged siege train could not reinforce every occupation corridor. Caedros's rebels later exploited that overextension at Caelmount in 917. Shattered Engines therefore enabled the Mountain Rebellion and Long Reconquest.
 
-Caldria remembers a crusading victory. Vorthara remembers a paid intervention that prevented imperial occupation. Thalmyric histories often reduce Vorthara to a useful prelude. All three accounts contain part of the truth.
+Caldria remembers a crusading victory. Vorthara remembers a paid intervention that prevented imperial occupation. Thalmyric histories often reduce Vorthara to a useful prelude.
 
 ## Political Legacy
 

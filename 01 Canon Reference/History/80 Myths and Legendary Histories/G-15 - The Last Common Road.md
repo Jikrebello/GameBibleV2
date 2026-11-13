@@ -16,13 +16,11 @@ aliases: ["The Last Common Road"]
 ---
 # The Last Common Road
 
-> **Stories told.** The local telling and the material or customary remainder below are established. A claimed original object, miraculous response, famous identity or supernatural explanation is not authenticated merely by this article.
-
 ## Historical setting
 
-**1015–1104 AR; Great Split and aftermath.** divided inland communities of the successor empires. This tradition belongs to [[The Great Split — Two Crowns, One Fire]]; its cultural bearers are Thalmyric and Eclessian communities.
+**1015–1104 AR; Great Split and aftermath.** Divided inland communities of the successor empires. This tradition belongs to [[The Great Split — Two Crowns, One Fire]]; its cultural bearers are Thalmyric and Eclessian communities.
 
-It is told on both sides of the Great Split, especially in towns whose graveyards, shrines or markets were divided by the new border. Its survival does not make every singer's version a complete account of the event.
+It is told on both sides of the Great Split, especially in towns whose graveyards, shrines or markets were divided by the new border.
 
 ## The tale
 
@@ -47,12 +45,6 @@ Each church says its servant opened the gate and the other struck first. Bakers 
 ## What remains
 
 A roadside oven has two mouths feeding one chamber. Pilgrims bring different doughs and cannot retrieve a loaf without standing beside the other opening.
-
-## History and belief
-
-The practice, landscape or physical object described here has a place in the present world. Statements that it is the original relic, that a voice is the original dead person, or that a victory proves divine approval belong to the tradition unless a separate history establishes them.
-
-Names, precise sites and competing supernatural claims may remain uncertain without making the tradition placeless.
 
 ## Read onward
 

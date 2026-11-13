@@ -24,7 +24,7 @@ Eryndor died at Arqesh in 684 BR. His Vashari wife, Parena Tiravan, was pregnant
 
 Arezan Tiravan controlled the eastern roads and much of the surviving Arqeshite administration. In the same year he issued the **Decree of Roads and Houses**, which allowed selected deported peoples to restore sanctuaries, retrieve approved sacred objects and return to recognised property. The decree weakened Ubar military households, reopened neglected routes and brought restored communities under Vasharan supremacy. It permitted the Jirahar return to Qiryath while leaving many Arqeshite families displaced by the conquest without a comparable restoration.
 
-The funeral became another contest. Eryndor's officers prepared to send his embalmed body west to Ortheia. **Serevan of Delkos**, commander of the allied fleet, diverted the procession to Delkos. The corpse remained there for several generations and attracted veterans, embassies and royal gifts. Later wars obscured its location. Possession of the body strengthened Serevan's claim to preserve Eryndor's court, but the corpse contained neither the king's soul nor his authority.
+The funeral became another contest. Eryndor's officers prepared to send his embalmed body west to Ortheia. **Serevan of Delkos**, commander of the allied fleet, diverted the procession to Delkos. The corpse remained there for several generations and attracted veterans, embassies and royal gifts. Later wars obscured its location. Possession of the body strengthened Serevan's claim to preserve Eryndor's court.
 
 ## Arezan and Vashar
 
@@ -46,7 +46,7 @@ Serevan governed through a mixed maritime court. His followers included Atherian
 
 The kingdom moved grain, soldiers, royal brides and diplomatic missions through the eastern sea. Its fleets fought Demeran, protected friendly ports and compelled less powerful islands to supply ships. Serevan's descendants lost territory through dynastic war, but their officer houses and naval customs survived the contraction of the royal state.
 
-Nerethan of Delkos descended from one of these later officer houses. His arrival at the Second Harbour in 499 BR brought an inherited Successor tradition into the Gateway country. The surviving genealogy traces House Nerethan through Delkosi officers and contains no blood descent from Eryndor or Serevan.
+Nerethan of Delkos descended from one of these later officer houses. His arrival at the Second Harbour in 499 BR brought an inherited Successor tradition into the Gateway country. The surviving genealogy traces House Nerethan through Delkosi officers.
 
 ## Neresh and the southern crowns
 
@@ -58,7 +58,7 @@ Neresh's successors never ruled the whole of Qahur. Crown houses expelled some g
 
 The wars ended the prospect of one eastern empire. Vashar became the strongest continuous successor and protected the rebuilding of Second Qiryath. Ortheia retained its monarchy but lost mastery of the Compact. Delkos created an enduring maritime inheritance. Qahur remained divided among native crowns strengthened or weakened by foreign marriages and garrisons.
 
-The new states also preserved the violence of their birth. Parena and the heirs were murdered. Cities were besieged, households deported and fields granted to soldiers. At the same time, new ports, workshops, libraries and mixed households developed under the Successors. By the opening of the Gateway Wars around 650 BR, sailors, coin, siege knowledge and royal claims moved through an eastern sea permanently altered by Eryndor's conquest and its failure to remain whole.
+By the opening of the Gateway Wars around 650 BR, sailors, coin, siege knowledge and royal claims moved through an eastern sea permanently altered by Eryndor's conquest and its failure to remain whole.
 
 ## Further reading
 

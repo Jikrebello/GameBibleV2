@@ -21,7 +21,7 @@ The Age of Chains is the era of Giant dominion: roughly a thousand years ending 
 
 ## Shape of the Age
 
-The Giant empires are not one nation, and the familiar five are not an exhaustive political map. **Qianglong, Ishkatar, Xolotl, Nythalum, and Anshara are the Five Imperial Horizons**: the largest surviving traditions of Giant hegemony, administration, monumental culture, and continuity engineering. Dozens of smaller Giant kingdoms, human subject cities, client crowns, cadet courts, leagues, estates, marches, and mobile confederacies existed within, between, and beyond them.
+**Qianglong, Ishkatar, Xolotl, Nythalum, and Anshara are the Five Imperial Horizons**: the largest surviving traditions of Giant hegemony, administration, monumental culture, and continuity engineering. Dozens of smaller Giant kingdoms, human subject cities, client crowns, cadet courts, leagues, estates, marches, and mobile confederacies existed within, between, and beyond them.
 
 Most later liberation histories remember only the four horizons broken directly during the Great Prophet's movement. Anshara collapsed separately but concurrently in the Drinking Wars. Each horizon taught humanity a different form of bondage:
 
@@ -29,11 +29,11 @@ Most later liberation histories remember only the four horizons broken directly 
 - **Ishkatar:** river wealth, serpent kings, sacrifice, greed, and monumental debt.
 - **Xolotl:** blood astronomy, ritual violence, volcanic power, and the Blood Sun.
 - **Nythalum:** moonward technology, body-transcendence, machine-priesthoods, and cosmic escape.
-- **Anshara:** blood made into sovereignty, rank made biological, Pride patronage, court predation, and primordial vampirism. Anshara was not broken by the Prophet's plagues; it collapsed during the parallel [[The Fall of Anshara|Drinking Wars]] and was erased from most mortal histories.
+- **Anshara:** blood made into sovereignty, rank made biological, Pride patronage, court predation, and primordial vampirism. Anshara collapsed during the parallel [[The Fall of Anshara|Drinking Wars]] and was erased from most mortal histories.
 
-The horizons expand, divide, overlap, and survive through changing dynasties. A conquered kingdom may retain its law and rulers while paying tribute to one horizon, marrying another, and using the technical system of a third. Present ruins therefore preserve political layers rather than five timeless territorial blocks.
+The horizons expand, divide, overlap, and survive through changing dynasties. A conquered kingdom may retain its law and rulers while paying tribute to one horizon, marrying another, and using the technical system of a third. Present ruins therefore preserve political layers.
 
-Ancient Titanic descent is often real, but a court's claim that its present ruler is the immediate, pure, and exclusive child of a named Menhir or Idol may still be selective genealogy, political compression, or fraud. [[Giant Descent and Creaturely Continuity]] controls parentage and personhood.
+Ancient Titanic descent is often real, but a court's claim that its present ruler is the immediate, pure, and exclusive child of a named Menhir or Idol may still be selective genealogy, political compression, or fraud. Parentage and personhood are treated in [[Giant Descent and Creaturely Continuity]].
 
 ## Human Memory
 
@@ -63,29 +63,29 @@ The world learns that power can impersonate divinity. Every later empire is judg
 
 ## A thousand years of inhabited empires
 
-The Chains were not a single prison and did not have five fixed borders. Qianglong, Ishkatar, Xolotl, Nythalum and Anshara were the largest imperial traditions remembered afterward. Beneath them lay river crowns, mountain kingdoms, marriage states, temple cities, nomadic courts and captive towns. A family might pay tribute to one horizon, marry into another and be conquered by a third without its tenants ever leaving their fields.
+Qianglong, Ishkatar, Xolotl, Nythalum and Anshara were the largest imperial traditions remembered afterward. Beneath them lay river crowns, mountain kingdoms, marriage states, temple cities, nomadic courts and captive towns. A family might pay tribute to one horizon, marry into another and be conquered by a third without its tenants ever leaving their fields.
 
-The first Titan ancestors were not simply enormous humans. Their descendants founded houses whose power could weaken across generations while remaining far beyond ordinary strength. Some later heirs were genuine Giants; others were giant-blooded humans. Courts lied about the distinction because rule rested on blood and access to ancestors. Close marriage, hostage fostering, coerced sexual access to subject women and deliberately renewed supernatural conceptions all served different dynastic strategies. No genealogy could manufacture a human soul.
+The descendants of the first Titan ancestors founded houses whose power could weaken across generations while remaining far beyond ordinary strength. Some later heirs were genuine Giants; others were giant-blooded humans. Courts lied about the distinction because rule rested on blood and access to ancestors. Close marriage, hostage fostering, coerced sexual access to subject women and deliberately renewed supernatural conceptions all served different dynastic strategies.
 
 ## Work beneath the monuments
 
 Most subjects encountered the empire through hunger, childbirth, work and burial. A canal had to be dredged before it could carry a ruler's ceremonial boat. A mountain stair consumed miners' knees. A launch tower required timber, copper, food and captives hauled from districts its court barely remembered. The great sciences were sustained by people whose names were seldom carved beside the finished work.
 
-In Cloudstep districts, a decree to kill selected human infants was enforced unevenly but lethally. Midwives substituted birth marks and moved mothers through service houses. Some children survived; others were murdered, and captured attendants were tortured or executed. In Urum-facing mortuary towns, burial thieves recovered bodies before reclamation crews stripped or processed them. Their opposition was not merely a disagreement about funeral etiquette: seizure deprived families of the dead, while punishment added the thieves' bodies to the same works.
+In Cloudstep districts, a decree to kill selected human infants was enforced unevenly but lethally. Midwives substituted birth marks and moved mothers through service houses. Some children survived; others were murdered, and captured attendants were tortured or executed. In Urum-facing mortuary towns, burial thieves recovered bodies before reclamation crews stripped or processed them. Seizure deprived families of their dead, and punishment added the thieves' bodies to the same works.
 
-The traditions of [[G-01 - The People Beneath the Bowl|the People Beneath the Bowl]] and [[G-02 - The Company of the Broken Measure|the Broken Measure]] belong to this world. The Broken Measure cycle combines two histories: six enslaved household workers exploited one estate's contradictory ration rules to rescue a sick kitchen girl, while a different Giant-blooded human undertook punitive labours after killing people he loved and later broke a measuring rod during an estate liberation. Similar tricks spread without a secret continental organisation. One estate's blind spot was not the master key to Giant dominion, and the strongman's later service did not cancel the murder which preceded it.
+The traditions of [[G-01 - The People Beneath the Bowl|the People Beneath the Bowl]] and [[G-02 - The Company of the Broken Measure|the Broken Measure]] belong to this world. The Broken Measure cycle combines two histories: six enslaved household workers exploited one estate's contradictory ration rules to rescue a sick kitchen girl, while a different Giant-blooded human undertook punitive labours after killing people he loved and later broke a measuring rod during an estate liberation. Similar tricks spread to other estates, and the family of those the strongman killed refused every gift he later offered.
 
 ## Crowns that outlived their founders
 
 [[Lesser Crowns of the Giant Age]] describes the states between the five horizons. Some old ancestors remained physically present; others survived through a particular machine or recurring rite. Copies also answered in ancestral voices. Subjects could be governed by a living Giant, by a human descendant speaking for an ancestor, or by a machine whose owner deliberately concealed that the ancestor had died.
 
-The struggle between generations was often literal. Older bodies were mutilated, imprisoned or scattered. Younger houses fought over the fragments because an authentic Titan fragment remained part of the same person. Ordinary violence could disperse that life but could not give its enemies a final death. High and Dynastic Giants, by contrast, normally died when their bodies died unless a particular survival method had actually preserved them.
+The struggle between generations was often literal. Older bodies were mutilated, imprisoned or scattered. Younger houses fought over the fragments, holding each authentic piece to be part of the ancestor's own person.
 
 ## The Closing Courts
 
 By the warning years, maintenance and inheritance were failing together. Courts demanded greater tribute to preserve fewer heirs. Nythalum restricted lunar berths. Xolotlan rulers intensified sacrificial calendars. Ishkatari houses fought over river access and tomb claims. Qianglong systems tried to make military and caste service recur beyond the lives which had once sustained them. Anshara's Drinking Wars consumed its own blood-ranked order.
 
-The Prophet's movement entered this crisis; it did not secretly create every fault within it. The result was [[The Great Unbinding]], not a clean replacement of all Giants by one human state. Some courts fled, some died, some were bound, some fragments remained, and surviving human towns made separate choices.
+The Prophet's movement entered this crisis. The result was [[The Great Unbinding]]: some courts fled, some died, some were bound, some fragments remained, and surviving human towns made separate choices.
 
 ## Atlas navigation
 

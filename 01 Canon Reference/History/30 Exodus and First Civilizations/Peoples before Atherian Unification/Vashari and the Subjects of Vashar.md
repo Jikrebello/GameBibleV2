@@ -20,7 +20,7 @@ The **Vashari** were the related Orphaned peoples of the eastern highlands. The 
 
 Vashari households occupied valleys, plateaux and passes divided into three principal regional worlds. **Kavreshi** communities controlled western approaches and maintained frequent relations with the river country. **Ruzhani** households inhabited the central crownlands from which House Tiravan drew much of its early support. **Daryami** communities lived among eastern uplands and routes leading towards the far sea.
 
-These names described regional affiliations within a broader people. They did not create separate ancestries. Vashari speech, marriage, seasonal gatherings and hearth worship connected communities whose rulers often fought one another.
+These names described regional affiliations within a broader people. Vashari speech, marriage, seasonal gatherings and hearth worship connected communities whose rulers often fought one another.
 
 A hearth domain included a leading house, recognised kin, tenants, fostered children, servants and dependants attached to its land and protection. Birth and marriage established most membership. Fosterage created personal and political ties between houses. A displaced family could be admitted through settlement and service. Tenants might share the language and customs of their patrons while possessing fewer rights to land and feud support.
 
@@ -32,7 +32,7 @@ Arezan I Tiravan united Vashari allies with Nemeru crews, rebellious Arqeshite o
 
 The Crown of Roads and Dawns recognised subjects through taxation, road service, military obligation, treaty and office. Provincial people retained local law and worship where these did not threaten royal supply or succession. Governors intervened in appointments, settled soldiers on strategic land and took hostages from doubtful houses.
 
-Imperial service produced a shared public culture. Officers used royal titles and road measures; messengers travelled through relay stations; soldiers and officials married in provincial cities. This culture was Vasharan because it belonged to the empire. It did not turn Qahuri, Jirahar, Arqeshite or coastal subjects into Vashari by ancestry.
+Imperial service produced a shared public culture. Officers used royal titles and road measures; messengers travelled through relay stations; soldiers and officials married in provincial cities. This culture was Vasharan because it belonged to the empire.
 
 ## Inequality and incorporation
 
@@ -40,7 +40,7 @@ The empire rewarded households which kept roads open and revenue moving. Provinc
 
 The same government could protect a pilgrimage road and punish the villages beside it. Vashari royal ideology described the road as a gift of ordered rule. Subjects judged that claim through the taxes, soldiers and market access they actually encountered.
 
-By 350 BR Vashari regional identities remained strong inside the ruling people. Vasharan subjecthood joined many populations to one crown without making them one ethnicity. This distinction shaped every eastern war with Atherian powers, whose commanders repeatedly tried to detach cities and client rulers from the highland king.
+By 350 BR Vashari regional identities remained strong inside the ruling people. Vasharan subjecthood joined many populations to one crown. That diversity shaped every eastern war with Atherian powers, whose commanders repeatedly tried to detach cities and client rulers from the highland king.
 
 ## Related histories
 

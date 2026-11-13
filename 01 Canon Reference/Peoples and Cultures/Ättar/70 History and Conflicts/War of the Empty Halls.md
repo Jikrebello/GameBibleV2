@@ -13,15 +13,15 @@ tags: [ancient-world, attar, grobi]
 ---
 # War of the Empty Halls
 
-The **War of the Empty Halls**, fought from approximately 1608 to 1596 BR, was the greatest ancient Grobi invasion of the Ättar hall country. Gharuk Eight-Bowls united nine drum companies to seize northern settlements and establish a permanent food road. The first defeats exposed the inability of rival halls to coordinate their stores and defences. Four coalitions eventually broke the invasion after their chiefs accepted [[Mother Moon's Bargain]] and attacked the Grobi ration system.
+The **War of the Empty Halls**, fought over several years around 1600 BR, was the greatest ancient Grobi invasion of the Ättar hall country. Gharuk Eight-Bowls united nine drum companies to seize northern settlements and establish a permanent food road. The first defeats exposed the inability of rival halls to coordinate their stores and defences. Four coalitions eventually broke the invasion after their chiefs accepted [[Mother Moon's Bargain]] and attacked the Grobi ration system.
 
-The war preserved the Ättar ranges but bound their ruling houses to the firstborn exchange. It did not end the annual Grobi war season or create one Ättar state.
+The war preserved the Ättar ranges but bound their ruling houses to the firstborn exchange, while the annual Grobi war season continued.
 
 ## The Nine-Drum Host
 
-Grobi packs breed and feed through the warmer months, then move north when winter closes the southern hunting grounds. Most hosts break after one or two raids. Three abundant summers before 1608 BR supported unusually large herds, many orcs and several ogres south of the Grey-Wolf approaches. Early freezes then killed grazing animals and trapped stored carcasses beyond broken river ice.
+Grobi packs breed and feed through the warmer months, then move north when winter closes the southern hunting grounds. Most hosts break after one or two raids. Three abundant summers before the war supported unusually large herds, many orcs and several ogres south of the Grey-Wolf approaches. Early freezes then killed grazing animals and trapped stored carcasses beyond broken river ice.
 
-**Gharuk Eight-Bowls**, an orc-stage commander, proposed conquest instead of dispersal and bodily reversion. He stood between seven and nine feet tall and possessed at least the strength of five human men. Food, breeding access and the promise of human settlements brought nine large companies under his drums. He defeated or consumed the leaders who resisted.
+**Gharuk Eight-Bowls**, an orc-stage commander, proposed conquest instead of dispersal and bodily reversion. Tradition makes him nine feet tall and stronger than five men. Food, breeding access and the promise of human settlements brought nine large companies under his drums. He defeated or consumed the leaders who resisted.
 
 The hobgoblin **Varka Red-Ladle** made the gathering mobile. She organised rough ration sledges, scouts, breeding hearths and repair crews. Human prisoners carried loads, translated warnings and opened roads until the Grobi ate them. Varka reserved part of the first captured stores for the young because their survival would preserve the host's future numbers.
 
@@ -31,7 +31,7 @@ Wrath speakers named the invasion the opening of the **Warm Road**. Gharuk sough
 
 The Narrow-Bowl Hearths resisted Gharuk after his orcs consumed stores reserved for their young. Gharuk seized two camps, ate their leaders and placed the surviving brood on Varka's sledges. When food declined, he began feeding those young to his ogres.
 
-**Urzha**, the strongest surviving Narrow-Bowl leader, withdrew with her scouts. She later sold Gharuk's ration route to the Ättar coalitions so that human fighters would destroy the stronger predator above her. The humans promised a marked eastern corridor and agreed to withhold attack while her pack escaped. Urzha preserved her own breeding strength; she did not join the human cause or become their friend.
+**Urzha**, the strongest surviving Narrow-Bowl leader, withdrew with her scouts. She later sold Gharuk's ration route to the Ättar coalitions so that human fighters would destroy the stronger predator above her. The humans promised a marked eastern corridor and agreed to withhold attack while her pack escaped. Urzha acted to preserve her own breeding strength.
 
 ## The opening defeats
 
@@ -62,7 +62,7 @@ The four chiefs still lacked the force to confront Gharuk before another hall wa
 
 The Court divided the words into two gifts. Savar received a Lion hybrid, Torvek an Ox, Brennar a Bear and Eldran a Wolf. Each monstrous form attached to the named chief's paternal office line. The wider sworn population received the lesser rage inheritance, which later intermarriage spread through the Ättar.
 
-Each ruling line owed the first living child of its future pact-holder. The Court would take the child during sleep beneath open moonlight and leave a changeling in the bed. The substitute would grow at a human pace and depart at adolescence. The original would then return at the same apparent age, still bearing a human soul but lacking an uninterrupted memory of the stolen years.
+Each ruling line owed the first living child of its future pact-holder. The Court would take the child during sleep beneath open moonlight and leave a changeling in the bed. The substitute would grow at a human pace and depart at adolescence. The original would then return at the same apparent age, without an unbroken memory of the stolen years.
 
 Hedra opposed the bargain and demanded that parents and halls carrying the future cost be heard. The chiefs argued that the Nine-Drum Host would consume more settlements before another All-Thing could assemble. They accepted the terms.
 
@@ -80,9 +80,9 @@ Varka withdrew several hearths. Urzha recovered part of her brood and escaped th
 
 ## Consequences
 
-The war ended through broken companies and guarded withdrawals by c. 1596 BR. Annual Grobi invasions continued.
+The war ended through broken companies and guarded withdrawals. Annual Grobi invasions continued.
 
-The victory made the four pact chiefs powerful and gave their coalitions lasting names. Assemblies required future old-rite chiefs to descend from an eligible paternal line, win selection by free hall men and transform publicly. The coalitions became the Lion, Ox, Bear and Wolf pact-kindreds rather than four states.
+The victory made the four pact chiefs powerful and gave their coalitions lasting names. Assemblies required future old-rite chiefs to descend from an eligible paternal line, win selection by free hall men and transform publicly. The coalitions became the Lion, Ox, Bear and Wolf pact-kindreds.
 
 The firstborn price began with the next generation. Returned children became Moon-Seers. Hedra's store rules also endured: major musters required named keepers, public withdrawal marks and protected shares for the people sustaining the fighters.
 

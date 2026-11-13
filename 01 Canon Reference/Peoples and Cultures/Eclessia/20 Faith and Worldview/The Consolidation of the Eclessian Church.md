@@ -32,7 +32,7 @@ The **Council of Aurelia in 946 AR** regularized that emergency system. It confi
 
 Adalmar the Great united the eastern kingdoms through conquest, marriage, and law. He protected the Aurellian hierarchy, used parish records to regularize taxation, and forced conversion during the Folk Wars. The Church gave his conquests a common legal and sacred language while inheriting responsibility for Wolfsmere and other coerced settlements.
 
-In 1002 AR, Lord Primarch Silvane II crowned Adalmar Emperor of the Atherians. The coronation created the Two Emperors problem: Veridun possessed the restored imperial line, while Aurelium claimed that survival, orthodoxy, and western consent allowed a second crown.
+In 1002 AR, Lord Primarch Silvane II crowned Adalmar Emperor of the Atherians. The coronation created the Two Emperors problem: Veridun possessed the restored imperial line, while Aurelium claimed that survival, orthodoxy, and eastern consent allowed a second crown.
 
 The **Doctrine of the Ember Seat** developed from this coronation and the later custody of the Crown. It holds that the Sanctum may preserve imperial and ecclesiastical legitimacy during a vacancy without itself becoming the empire. Primarchal rulers have interpreted "preserve" generously ever since.
 
@@ -40,7 +40,7 @@ The **Doctrine of the Ember Seat** developed from this coronation and the later 
 
 Lord Primarch Bonifac III demanded primacy and trusteeship over the imperial title. Cardinal Hubald of Caldria nailed the anathema to Veridun's Great Lamp; Patriarch Makarios answered in kind. The dispute concerned authority as much as ritual: who could define doctrine, crown an emperor, test relics, and speak for the universal Church.
 
-After 1015, Eclessian bishops ceased treating Veridun as a higher court. Celibate clerical discipline, the Sanctum's relic jurisdiction, and Primarchal supremacy became marks of western identity.
+After 1015, Eclessian bishops ceased treating Veridun as a higher court. Celibate clerical discipline, the Sanctum's relic jurisdiction, and Primarchal supremacy became marks of eastern identity.
 
 ## From Crown to Custody, 1019-1104 AR
 

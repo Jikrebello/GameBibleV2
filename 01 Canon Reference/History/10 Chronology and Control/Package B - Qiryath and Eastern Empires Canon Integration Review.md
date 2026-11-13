@@ -66,6 +66,9 @@ The existence of the Ortheian, Qahuri, Arqeshite, Vashari, Jirahar and Atherian 
 
 ## Identity and supernatural controls
 
+> [!note] Amended November 2026
+> These controls govern identity and truth. Where a ruling below limits what a supernatural power may cause, rather than what it is, the Consequence Rule in [[The Divergence Pass — Torque Register]] supersedes it.
+
 - Eryndor, Arezan, Parena, the Ubar kings and every other mortal actor possess complete human souls.
 - Human souls remain distinct from bodies, royal offices, portraits, legendary personae, copied images and Idol Masks.
 - The Crowned Countenance's interest in Eryndor is dependent Mask behaviour, not a transfer of guilty sovereignty.

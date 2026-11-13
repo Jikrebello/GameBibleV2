@@ -22,9 +22,9 @@ The Prophet's death left several offices with responsibility for parts of the Gl
 
 The southern departure developed over generations. Captains sought defensible crossings; craftsmen wanted workshops and customers; younger households sought fields they could pass to children. Others remained near the Glass, where familiar routes, graves and camp institutions supported a different life. Relatives continued to marry and trade across the growing separation. Their loyalties changed through repeated journeys and local commitments.
 
-The Prophet had commissioned one scout-captain to find safe routes and guide movement, not to inherit revelation or govern every camp. His companies repeatedly escorted households outward and returned. A rival commander turned the same route knowledge and fear of delay into premature grain requisitions. The first expedition's success encouraged repeated levies; famine deaths in two dependant-heavy rear camps and a judgement the southern council refused to enforce made the argument over settlement permanently moral as well as strategic.
+The Prophet had commissioned one scout-captain to find safe routes and guide movement. His companies repeatedly escorted households outward and returned. A rival commander turned the same route knowledge and fear of delay into premature grain requisitions. The first expedition's success encouraged repeated levies; famine deaths in two dependant-heavy rear camps and a judgement the southern council refused to enforce made the argument over settlement permanently moral as well as strategic.
 
-Those moving south brought shared measures, apprenticeship practices and experience of collective provisioning. Their religious inheritance included the Prophet's liberation and the years in which the Lord sustained the refuge. No surviving office inherited the Prophet's commission. Later claims that conquest fulfilled that commission grew within the settler societies themselves.
+Those moving south brought shared measures, apprenticeship practices and experience of collective provisioning. Their religious inheritance included the Prophet's liberation and the years in which the Lord sustained the refuge. Settler societies later claimed that their conquests fulfilled the Prophet's commission.
 
 ## Forts in occupied country, c. 2050–1900 BR
 
@@ -36,7 +36,7 @@ Settler forts acquired food through different arrangements. A household might pr
 
 At the Aurin mouth, defended landings placed shipping households in contact with the [[Peoples of the Ancient Aurin|Enathi, Serathi and Vardeni]]. These peoples had developed after the collapse of [[Arsuvan - The Giant Kingdom of the Aurin|Arsuvan]]. Enathi river knowledge, Serathi craft and upland supplies helped support the newcomers. The same relationships became sources of resentment when temporary military requirements turned into permanent ownership.
 
-The traditions of [[01 Canon Reference/History/80 Myths and Legendary Histories/G-57 - The Gate Opened during Supper.md|the First Southern Gate]] and [[01 Canon Reference/History/80 Myths and Legendary Histories/G-72 - The Hostage Children of Oak and Glass.md|the Oak-and-Glass hostages]] belong to this wider settlement world. The former compresses several attacks committed under hospitality into one supper and explains the later shared-meal peace. The latter preserves the unequal treatment of captive children, the fort's execution of a man whose Folk marriage and adulthood rites made his loyalty legible to both sides, and an unauthorised reprisal which elders later adopted. Their different places and participants preserve particular encounters rather than one common founding event.
+The traditions of [[01 Canon Reference/History/80 Myths and Legendary Histories/G-57 - The Gate Opened during Supper.md|the First Southern Gate]] and [[01 Canon Reference/History/80 Myths and Legendary Histories/G-72 - The Hostage Children of Oak and Glass.md|the Oak-and-Glass hostages]] belong to this wider settlement world. The former compresses several attacks committed under hospitality into one supper and explains the later shared-meal peace. The latter preserves the unequal treatment of captive children, the fort's execution of a man whose Folk marriage and adulthood rites made his loyalty legible to both sides, and an unauthorised reprisal which elders later adopted.
 
 ## High Harbour and the returnings, c. 1980–1930 BR
 
@@ -58,7 +58,7 @@ Vessels carried grain, salt, timber, metal, pottery and enslaved people. A capta
 
 Harbour houses used these needs to negotiate. They required marriage, payment or hostages before allowing a powerful fleet to remain. Some acquired protection; others discovered that an invited force had become an occupying one. At one ancestral Sermoran harbour, a damaged convoy converted a seasonal quarter into control of the grain store, repair yard and shore. Its former league later sent a fleet to restore tribute. Returned exiles, escaped captives, shore fighters and settler defectors defeated that fleet with local pilots, released captives and reopened the water. [[01 Canon Reference/History/80 Myths and Legendary Histories/G-58 - The Harbour Founded Twice.md|The Harbour Founded Twice]] preserves the landing and liberation as rival foundations.
 
-The [[01 Canon Reference/History/80 Myths and Legendary Histories/G-73 - The Oar-King without a Country.md|Oar-King cycle]] tells of a Folk coastal captive rising through the rescue of abandoned rowers, conquering the harbour which offered them only disarmament and bondage, and murdering a fellow rower who challenged his continuing authority. A prophet compelled public confession and partial restitution; the dynasty ended only after the king's death and a succession war. It remains a distinct tradition within this maritime world. Its events do not belong to Avren's later royal household or to every successful fleet commander.
+The [[01 Canon Reference/History/80 Myths and Legendary Histories/G-73 - The Oar-King without a Country.md|Oar-King cycle]] tells of a Folk coastal captive rising through the rescue of abandoned rowers, conquering the harbour which offered them only disarmament and bondage, and murdering a fellow rower who challenged his continuing authority. A prophet compelled public confession and partial restitution; the dynasty ended only after the king's death and a succession war.
 
 ## Connected production and unequal recovery
 
@@ -66,7 +66,7 @@ Furnace leagues linked ore basins to charcoal districts and harbours. Craft know
 
 The [[01 Canon Reference/History/80 Myths and Legendary Histories/Additional Mortal Lives and Frontier Traditions.md#^atlas-tf-06|Furnace League tradition]] remembers pooled production sustained partly by captive labour. A ruler diverted food towards an expansion fleet; workers resisted the levy, and two towns were lost in reprisal. The broader industrial networks also suffered commercial failures when coastal buyers stopped accepting ore. Escaping workers carried techniques elsewhere, while abandoned furnaces marked the places where exchange had broken down.
 
-Aurin producers participated through river and pack routes. Nerava transferred goods between boats and animals; Thesra supplied craft and learning; Olveth supplied metal and pack stock. Their traffic towards the north-western coast was distinct from the island networks of the eastern Thalassian. Intermediaries, overland approaches and longer coastal journeys connected these regions; the Aurin did not empty into the inner sea.
+Aurin producers participated through river and pack routes. Nerava transferred goods between boats and animals; Thesra supplied craft and learning; Olveth supplied metal and pack stock. Their traffic towards the north-western coast was distinct from the island networks of the eastern Thalassian. Intermediaries, overland approaches and longer coastal journeys connected these regions.
 
 ## Religion among travelling households
 
@@ -78,7 +78,7 @@ Inland teachers contributed observations and sacred explanations inherited from 
 
 Between about 1600 and 1400 BR, several exchange networks weakened through warfare, extraction and broken supply. A defeated fleet could leave distant workshops unpaid and demand grain from a harbour already short of food. Some landings were abandoned; others survived by replacing patrons or broadening cooperation among resident families.
 
-These failures belonged to maritime societies that had developed for generations after the Giant collapse. Particular decisions, including Kassilon's seizure of Erenost's food stores, damaged relationships on which those communities had come to depend. The earlier fall of palace government and the later disruptions have separate participants and consequences.
+These failures belonged to maritime societies that had developed for generations after the Giant collapse. Particular decisions, including Kassilon's seizure of Erenost's food stores, damaged relationships on which those communities had come to depend.
 
 Settlements with dependable water, cultivated hinterlands and useful anchorages could sustain larger populations. Households invested in quays, store buildings, walls and public spaces which outlasted individual voyages. Councils acquired responsibilities for work that one family could no longer undertake alone. These developments prepared the urban world described in [[The First Atherian City-States]].
 

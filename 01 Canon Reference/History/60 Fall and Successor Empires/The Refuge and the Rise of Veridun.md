@@ -26,7 +26,7 @@ When a Qahirid force approached Veridun, witnesses reported a woman's figure spr
 
 ## Caedros and the Mountain League
 
-Caedros Aetherion was a minor-house commander, not the heir of a lost imperial dynasty. He joined refuge councils, surviving soldiers, monasteries, village militias, and dispossessed houses into a mountain league. His legitimacy came from service, victory, and later coronation.
+Caedros Aetherion was a minor-house commander. He joined refuge councils, surviving soldiers, monasteries, village militias, and dispossessed houses into a mountain league. His legitimacy came from service, victory, and later coronation.
 
 The resistance preserved population and roads before attempting reconquest. It evacuated exposed villages, denied passes, recovered archives, and offered amnesty to occupation troops who surrendered without carrying bound contracts into the mountains.
 

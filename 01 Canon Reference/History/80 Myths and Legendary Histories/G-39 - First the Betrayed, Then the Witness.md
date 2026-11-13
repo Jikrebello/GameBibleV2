@@ -16,13 +16,11 @@ aliases: ["First the Betrayed, Then the Witness"]
 ---
 # First the Betrayed, Then the Witness
 
-> **Stories told.** The local telling and the material or customary remainder below are established. A claimed original object, miraculous response, famous identity or supernatural explanation is not authenticated merely by this article.
-
 ## Historical setting
 
-**c. 100–292 AR; Underground.** inland prison and quarry districts. This tradition belongs to [[The Age of the Redeemer]]; its cultural bearers are persecuted provincial congregations.
+**c. 100–292 AR; Underground.** Inland prison and quarry districts. This tradition belongs to [[The Age of the Redeemer]]; its cultural bearers are persecuted provincial congregations.
 
-It is told in Underground memorial households and early churches that disagree about confession after failure. Its survival does not make every singer's version a complete account of the event.
+It is told in Underground memorial households and early churches that disagree about confession after failure.
 
 ## The tale
 
@@ -47,12 +45,6 @@ One tradition names both people and calls the deacon a martyr. Another keeps onl
 ## What remains
 
 Two lamps are lit in a fixed order. The first must come from the betrayed person's household or remain dark.
-
-## History and belief
-
-The practice, landscape or physical object described here has a place in the present world. Statements that it is the original relic, that a voice is the original dead person, or that a victory proves divine approval belong to the tradition unless a separate history establishes them.
-
-Names, precise sites and competing supernatural claims may remain uncertain without making the tradition placeless.
 
 ## Read onward
 

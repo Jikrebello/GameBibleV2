@@ -20,15 +20,15 @@ The royal family inherited a country already changed by [[The Gateway Wars]]. Th
 
 ## Nerethan and Hadrima
 
-Nerethan of Delkos was born around 525 BR and arrived as an Atherian harbour commander in 499 BR. His family belonged to the later officer houses of Delkos, where Serevan's former Successor kingdom had left a mixed naval and royal tradition. Nerethan inherited military titles, drill and patronage from that history without belonging to Serevan's royal bloodline. His appointment concerned coastal defence, military provisions and the supervision of dependent towns. Officers and specialists accompanied him, but local pilots, cultivators and transport households provided the means to remain.
+Nerethan of Delkos was born around 525 BR and arrived as an Atherian harbour commander in 499 BR. His family belonged to the later officer houses of Delkos, where Serevan's former Successor kingdom had left a mixed naval and royal tradition. Nerethan inherited military titles, drill and patronage from that history. His appointment concerned coastal defence, military provisions and the supervision of dependent towns. Officers and specialists accompanied him, but local pilots, cultivators and transport households provided the means to remain.
 
 Hadrima's family held cultivated land and a share in the storage and carrying trade of Esharat. The town lay inland from the coastal landings, close enough for its produce to reach them by cart and pack animal. Its households had sheltered children fleeing Qarzeth's collectors and had supplied passage during the final intervention. Some relatives prospered after the war; others lost people or property to the victorious army.
 
-Hadrima's mother **Hesara** had participated in the concealment of children during the Years of Three Collections. Hesara was the daughter of **Lemara of Esharat** and **Prince Tazirun Zaheret**, a younger son of a Qahuri royal house who settled in the Gateway country around 548 BR. The marriage connected Esharat to Sacred Basin kin and burial traditions without transferring a Qahuri crown. Later Nerethans used the relationship to strengthen their ceremonial standing; Qahuri genealogists continued to regard Tazirun as a prince who had left the Twin-Reed succession.
+Hadrima's mother **Hesara** had participated in the concealment of children during the Years of Three Collections. Hesara was the daughter of **Lemara of Esharat** and **Prince Tazirun Zaheret**, a younger son of a Qahuri royal house who settled in the Gateway country around 548 BR. The marriage connected Esharat to Sacred Basin kin and burial traditions. Later Nerethans used the relationship to strengthen their ceremonial standing; Qahuri genealogists continued to regard Tazirun as a prince who had left the Twin-Reed succession.
 
 Nerethan and Hadrima married in 497 BR. She brought credit, kinship and knowledge of local obligations to the governing household. She also resisted his officers' attempts to assign recovered fields to their own dependants. A settlement protected several cultivated holdings while confirming grants elsewhere. Compulsory repair work continued, and households with weaker patrons obtained less protection.
 
-Their residence at Sarqen drew together maritime officers, local families and displaced craftspeople. Sarqen occupied a sheltered landing distinct from both the ruined capital and the later city of Qabir. Esharat supplied part of its food, while longer caravan and coastal connections carried additional produce and materials. The city's growth depended on maintaining these relationships between sailing seasons.
+Their residence at Sarqen drew together maritime officers, local families and displaced craftspeople. Sarqen occupied a sheltered landing. Esharat supplied part of its food, while longer caravan and coastal connections carried additional produce and materials. The city's growth depended on maintaining these relationships between sailing seasons.
 
 ## Repairs and unequal prosperity
 
@@ -61,9 +61,9 @@ The next ruler, Olymes, succeeded in 408 BR. He cultivated eastern Atherian comm
 
 The court used Delkosi coin standards, military titles and royal ceremony alongside Esharati harbour customs and Qahuri funerary forms. These practices changed through five generations in the Gateway country. They gave the dynasty several languages of rule and exposed it to conflicting demands from soldiers, spared-town households and foreign allies.
 
-The dynasty supported town cults and ceremonies that had survived the capital's destruction. Royal festivals commemorated rescued children and the communities that had sheltered them. Families also mourned people killed or enslaved during the Atherian sack. A single public occasion could therefore bring together gratitude towards the intervention and anger at its conduct.
+The dynasty supported town cults and ceremonies that had survived the capital's destruction. Royal festivals commemorated rescued children and the communities that had sheltered them. Families also mourned people killed or enslaved during the Atherian sack.
 
-The rulers sought standing within maritime religious traditions as well as the customs of the gateway towns. Court display used inherited royal imagery and stories of protection. None established an unbroken Giant dynasty. The family's known descent was human, through households formed long after the Giant kingdoms had fallen.
+The rulers sought standing within maritime religious traditions as well as the customs of the gateway towns. Court display used inherited royal imagery and stories of protection.
 
 Hadrima's position remained important to later accounts of the house. Royal speakers cited her ancestry when claiming the loyalty of Esharat and other surviving towns. Those towns could answer that their contribution preceded the crown and imposed responsibilities on its heirs.
 
@@ -73,7 +73,7 @@ Olymes's death in 375 BR brought Samyra and her younger brother Nethar into join
 
 Samyra maintained relationships with Esharat households and sought allies outside the country. The arrival and murder of [[Marovan Veyr]] in 373 BR brought [[Teren Casvilar]] into the struggle. His intervention restored her position, removed Vardek and ended Nethar's claim after the younger ruler died in the fighting.
 
-Her subsequent relationship with Casvilar produced Amesar in 372 BR. Years later, her alliance with [[Darion Velsar]] produced Talven and Lethia and a wider programme of royal claims. The capital remained at Sarqen. The old sacrificial city was a ruined part of the country over which these families argued, rather than the seat of their government.
+Her subsequent relationship with Casvilar produced Amesar in 372 BR. Years later, her alliance with [[Darion Velsar]] produced Talven and Lethia and a wider programme of royal claims. The capital remained at Sarqen. The old sacrificial city was a ruined part of the country over which these families argued.
 
 ## End of independent rule
 

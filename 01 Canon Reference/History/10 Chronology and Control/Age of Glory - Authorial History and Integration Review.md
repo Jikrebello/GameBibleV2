@@ -79,6 +79,9 @@ The Raveth sequence remains plain: failed water and disease reduce harvests; con
 
 ## Religion and supernatural identity
 
+> [!note] Amended November 2026
+> These rulings govern identity and truth. Where a ruling below limits what a supernatural power may cause, rather than what it is, the Consequence Rule in [[The Divergence Pass — Torque Register]] supersedes it.
+
 The Star Pantheon remains a human imperial interpretation of established powers. Astaroth is a Menhir sovereignty; temple theology does not make him a moral judge of conquest. Thanatos remains a misclassification of the Boatman. Other regional identifications do not merge supernatural beings.
 
 The Crown of Olveth is an `infrastructure-office` attached to one shelter purpose. It is neither alive nor a saintly relic. Its lethal response at attempted trophy use is bounded and reproducible under the established conditions. It proves no general theology.

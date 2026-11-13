@@ -46,8 +46,6 @@ In 246, the senate and principal commands recognised Samor I. He gave his three 
 
 The four eagles remained a common image for ambition feeding from one body. Plays made the claimants into recognisable types: the talkative magistrate, injured prince, proud admiral and patient soldier. Provincial accounts retained the names of people whose grain and relatives had become part of the contest.
 
-All four claimants depended on the same roads, treasuries and cities. Their inability to govern those resources together produced the war, and Veloran's victory restored a single imperial command.
-
 ## Further reading
 
 - [[The House of Thalion]]

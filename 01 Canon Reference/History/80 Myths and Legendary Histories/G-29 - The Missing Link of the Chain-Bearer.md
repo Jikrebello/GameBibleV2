@@ -16,13 +16,11 @@ aliases: ["The Missing Link of the Chain-Bearer"]
 ---
 # The Missing Link of the Chain-Bearer
 
-> **Stories told.** The local telling and the material or customary remainder below are established. A claimed original object, miraculous response, famous identity or supernatural explanation is not authenticated merely by this article.
-
 ## Historical setting
 
 **c. 670–727 AR.** Atherian–Covenant frontier districts. This tradition belongs to [[The Long Frontier and the First Unsealing]]; its cultural bearers are mixed provincial, Ahdari, Velian and Jirahar communities.
 
-It is told along early Long-Frontier slave roads and among abolitionist camps, quarry descendants and recurrence cults. Its survival does not make every singer's version a complete account of the event.
+It is told along early Long-Frontier slave roads and among abolitionist camps, quarry descendants and recurrence cults.
 
 ## The tale
 
@@ -47,12 +45,6 @@ Abolitionists say the bearer refused all permanent command. Military orders clai
 ## What remains
 
 Broken-chain pendants are forged with an open gap. Closing the gap is taboo outside recurrence cults.
-
-## History and belief
-
-The practice, landscape or physical object described here has a place in the present world. Statements that it is the original relic, that a voice is the original dead person, or that a victory proves divine approval belong to the tradition unless a separate history establishes them.
-
-Names, precise sites and competing supernatural claims may remain uncertain without making the tradition placeless.
 
 ## Read onward
 

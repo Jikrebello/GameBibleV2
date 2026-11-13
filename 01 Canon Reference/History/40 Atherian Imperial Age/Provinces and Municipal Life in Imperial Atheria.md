@@ -18,7 +18,7 @@ Atheria governed its territories through provinces and cities whose institutions
 
 ## Provincial government
 
-Thalion required governors to hold appointment from the imperial household and divided several commands that had supported independent warlords. A provincial term had no single uniform length. Effective governors depended on knowledge held by local clerks, town leaders, interpreters and transport households.
+Thalion required governors to hold appointment from the imperial household and divided several commands that had supported independent warlords. Effective governors depended on knowledge held by local clerks, town leaders, interpreters and transport households.
 
 Taxes took the form of coin, grain, animals, materials and labour according to region. Assessments made obligations more predictable than wartime seizure. A figure based on an abundant year could become ruinous after flood, fire or failed harvest. Towns petitioned for reduction through patrons and delegations.
 
@@ -45,8 +45,6 @@ Jirahar communities included tower towns, diaspora households and quarters withi
 One municipal household might include a council member, a daughter managing a workshop, an enslaved tutor, a veteran son and relatives farming outside the walls. An aqueduct improved their water. Its levy could also take animals needed for harvest.
 
 Festival days brought processions, games and meals funded by local benefactors. Children learnt songs connecting their town to the stars and emperor. Market jokes about tax collectors circulated beside serious pride in civic buildings.
-
-The empire endured because these local worlds could recognise themselves within it. It also depended on their inability to refuse every demand made in the name of the wider peace.
 
 ## Further reading
 

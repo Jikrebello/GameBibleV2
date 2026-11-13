@@ -52,7 +52,7 @@ Over many centuries, some Ahdari thinkers extended familiar obligations into a m
 
 ## Historical inheritance
 
-After Mujalib's preaching, Ahdari language and institutions helped shape the Covenant. The later Ahl-e-Ahd civilisation also incorporated Iqashari, Qahuri, Qazmari, Zanthiri and other populations with independent ancestries. Ancient Ahdari history remains one foundation of that civilisation rather than its complete past.
+After Mujalib's preaching, Ahdari language and institutions helped shape the Covenant. The later Ahl-e-Ahd civilisation also incorporated Iqashari, Qahuri, Qazmari, Zanthiri and other populations with independent ancestries. Ancient Ahdari history is one foundation of that civilisation.
 
 ## Navigation
 

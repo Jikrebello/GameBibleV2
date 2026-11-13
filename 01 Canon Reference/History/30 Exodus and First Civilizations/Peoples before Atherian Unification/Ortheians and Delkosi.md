@@ -14,11 +14,11 @@ tags: [world-historical-atlas, package-b, ortheia, delkos]
 ---
 # Ortheians and Delkosi
 
-The **Ortheians** were an Atherian-speaking upland people whose kingdom developed beyond Caleran authority. The **Delkosi** were a mixed maritime and military society formed around Delkos after the eastern conquests of Eryndor III. Their relationship demonstrates how shared language, conquest and service could connect ancient peoples without making them one civic population.
+The **Ortheians** were an Atherian-speaking upland people whose kingdom developed beyond Caleran authority. The **Delkosi** were a mixed maritime and military society formed around Delkos after the eastern conquests of Eryndor III.
 
 ## Ortheian people and kingdom
 
-Ortheian communities occupied upland towns, cultivated valleys and roads descending towards the western sea. Their Atherian speech reflected long contact with maritime settlers and neighbouring cities. Local households, royal service and town citizenship governed belonging. A common language gave Caleran no claim over Ortheian land.
+Ortheian communities occupied upland towns, cultivated valleys and roads descending towards the western sea. Their Atherian speech reflected long contact with maritime settlers and neighbouring cities. Local households, royal service and town citizenship governed belonging.
 
 Kings drew soldiers from landholding households and negotiated with town councils for supplies. Marriage joined royal kin to port families and upland leaders. Captives and dependent farmers worked estates beneath these alliances. Public festivals celebrated the crown and the roads it protected, while local shrines preserved older relationships with place.
 
@@ -34,9 +34,9 @@ The Delkosi Successor consisted chiefly of controlled routes, harbours and garri
 
 ## Position in 350 BR
 
-Ortheia remained an Atherian-speaking society with its own political history. Delkosi identity survived beyond the reduced territory of its successor court among fleet families and eastern military households. Neither community possessed Caleran citizenship merely through language or ancestry.
+Ortheia remained an Atherian-speaking society with its own political history. Delkosi identity survived beyond the reduced territory of its successor court among fleet families and eastern military households.
 
-Their ships and rival claims remained important in the Eastern Sea Wars. Caleran and Vasharan rulers both recruited Delkosi officers and sought Ortheian support. Each alliance arose from the interests of a particular king, city or military household.
+Their ships and rival claims remained important in the Eastern Sea Wars. Caleran and Vasharan rulers both recruited Delkosi officers and sought Ortheian support.
 
 ## Related histories
 

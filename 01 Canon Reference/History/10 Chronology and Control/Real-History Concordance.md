@@ -178,7 +178,7 @@ The Church's reunification mandate is now recursive comedy and tragedy at once: 
 
 ### The Present → the 1550s–1580s Cold War
 
-The board is Habsburg–Ottoman–Valois plus confessional stalemate: Thalmyria and the Ahl-e-Ahd in armed frontier peace punctuated by proxy raids (the Hungary/Mediterranean frontier); Eclessia internally tripartite and diplomatically schizophrenic; Sestara financing and informing on everyone (Venice's Ottoman trade despite holy leagues); the New World race through Castara beginning to reroute the world's wealth away from the old frontier entirely — which, given time, ruins whoever stays landlocked in old grudges. That last dynamic (Atlantic trade eclipsing the Mediterranean) is a slow-burning doom nobody on the board sees clearly, and it is excellent long-game material.
+The board is Habsburg–Ottoman–Valois plus confessional stalemate: Thalmyria and the Ahl-e-Ahd in armed frontier peace punctuated by proxy raids (the Hungary/Mediterranean frontier); Eclessia internally tripartite and diplomatically schizophrenic; Sestara financing and informing on everyone (Venice's Ottoman trade despite holy leagues); the New World race through Castara beginning to reroute the world's wealth away from the old frontier entirely — a slow pressure on every power that stays landlocked in old grudges, and excellent long-game material. Under the Forward Rule its outcome is not the Atlantic precedent: whatever the Boiling Sea routes do to the old frontier must turn on a world-native engine such as the Held Breath, patron arbitrage or a Held Proof.
 
 ## Standing Recontextualization Rules
 
@@ -187,6 +187,8 @@ The board is Habsburg–Ottoman–Valois plus confessional stalemate: Thalmyria 
 3. **Every era gets a triangle.** Good/Bad/Ugly per the Grenzburg model — and the Ugly party should always be the one whose cooperation is necessary and whose price compounds.
 4. **Both sides get a real case.** Reformation, schism, Unsealing, reconquest: each faction's position must be the one its best people would sincerely hold. Villainy lives in method and appetite, not in having the wrong theology.
 5. **Filtered analogs everywhere** (per the naming decision): one step sideways on all names; no von Bismarcks, no verbatim liturgical Arabic or Zulu after the rename pass.
+6. **Quarry, not script.** Research supplies pressures, institutions and texture, not sequence. A borrowed incident must do work beyond its source having it; incidents that survive only because the analog contains them are cut. Cite sources for texture, never one per beat. If a reader who knows the analog can predict the next beat, bend it with a world-native cause (the Consequence Rule in [[The Divergence Pass — Torque Register]]) or cut it.
+7. **Clocks never align.** AR and BR dates for analog events must not coincide with their real AD or BC years, and an analog sequence must not keep its source's spacing between events.
 
 ## Navigation
 

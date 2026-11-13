@@ -30,7 +30,7 @@ The Compact coordinated matters which its members could not reliably manage alon
 
 Leading houses and rulers negotiated these arrangements. Their commitments required food, labour, animals and equipment from people whose influence over the decision was much smaller. A city's promise of troops could leave cultivators short of workers at harvest. A household able to supply money might avoid burdens borne by one whose principal resource was its sons' service.
 
-The twelve cities were real communities with distinct political histories. Later claims that their founders had all belonged to one original Caleran order were attempts to explain or justify subsequent power. Wider Atherian cultural affiliation did not itself confer Compact membership; many ports and inland towns maintained different relationships with the association.
+The twelve cities were real communities with distinct political histories. Later claims that their founders had all belonged to one original Caleran order were attempts to explain or justify subsequent power. Many Atherian ports and inland towns maintained different relationships with the association.
 
 ## Councils, magistrates and assemblies
 
@@ -40,7 +40,7 @@ Short terms helped prevent one office-holder from occupying the position indefin
 
 Religious duties continued alongside civic ones. Public sacrifice, festival patronage and the interpretation of signs accompanied appointments and campaigns. Temples employed workers and held resources important to the city. A dispute about ceremony could therefore concern a household's livelihood or access to office as well as belief.
 
-The change from royal households to republican government took generations. Some member cities retained local dynastic authorities, and other communities joined the expanding political world on terms negotiated later. The republic's growing power did not rest on an instantaneous common constitution adopted by every Atherian settlement.
+The change from royal households to republican government took generations. Some member cities retained local dynastic authorities, and other communities joined the expanding political world on terms negotiated later.
 
 ## Citizenship and incorporation
 
@@ -96,7 +96,7 @@ The outcome varied by household. Owners recognised by the associations could cla
 
 As Caleran's precedence increased, civic officials brought the histories of member cities into a common ceremonial order. Some older founders were represented with Caleran titles and symbols. Traditions which contradicted that arrangement were suppressed. Resistance by shrine custodians could bring imprisonment or execution, and some sanctuaries lost their resources to new public patrons.
 
-The [[01 Canon Reference/History/80 Myths and Legendary Histories/Additional Mortal Lives and Frontier Traditions.md#^atlas-tf-12|City That Conquered Its Ancestors]] preserves a family vessel and accounts of altered founder images. Its history concerns later appropriation within an existing association. The twelve cities and the Compact were not created by the falsified genealogy.
+The [[01 Canon Reference/History/80 Myths and Legendary Histories/Additional Mortal Lives and Frontier Traditions.md#^atlas-tf-12|City That Conquered Its Ancestors]] preserves a family vessel and accounts of altered founder images.
 
 Such appropriations supported a wider claim that Atherian expansion restored an ancient unity. Families who had entered through conquest, slavery or unequal admission inherited a more complicated history. Some accepted the public account while preserving different stories at home.
 

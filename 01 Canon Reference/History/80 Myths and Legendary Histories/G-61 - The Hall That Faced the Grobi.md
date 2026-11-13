@@ -16,13 +16,11 @@ aliases: ["The Hall That Faced the Grobi"]
 ---
 # The Hall That Faced the Grobi
 
-> **Stories told.** The local telling and the material or customary remainder below are established. A claimed original object, miraculous response, famous identity or supernatural explanation is not authenticated merely by this article.
-
 ## Historical setting
 
-**c. 1900–1650 BR, before the War of the Empty Halls.** southern cold belt and Grobi-facing uplands. This tradition belongs to [[Age of Hearths and First Kings]]; its cultural bearers are Folk, related Ättar and early Atherian tellers.
+**c. 1900–1650 BR, before the War of the Empty Halls.** Southern cold belt and Grobi-facing uplands. This tradition belongs to [[Age of Hearths and First Kings]]; its cultural bearers are Folk, related Ättar and early Atherian tellers.
 
-It is told among related Folk and Ättar communities of the southern cold belt, where old halls face Grobi-haunted uplands. Its survival does not make every singer's version a complete account of the event.
+It is told among related Folk and Ättar communities of the southern cold belt, where old halls face Grobi-haunted uplands.
 
 ## The tale
 
@@ -47,12 +45,6 @@ It makes cultural divergence grow from a choice in which every path contained re
 ## What remains
 
 Old winter halls keep one smoke hole or roof beam pointed towards the most likely approach of danger, even when every other wall follows the sun.
-
-## History and belief
-
-The practice, landscape or physical object described here has a place in the present world. Statements that it is the original relic, that a voice is the original dead person, or that a victory proves divine approval belong to the tradition unless a separate history establishes them.
-
-Names, precise sites and competing supernatural claims may remain uncertain without making the tradition placeless.
 
 ## Read onward
 

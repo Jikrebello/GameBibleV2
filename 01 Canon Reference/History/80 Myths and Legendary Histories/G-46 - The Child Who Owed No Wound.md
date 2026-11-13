@@ -16,13 +16,11 @@ aliases: ["The Child Who Owed No Wound"]
 ---
 # The Child Who Owed No Wound
 
-> **Stories told.** The local telling and the material or customary remainder below are established. A claimed original object, miraculous response, famous identity or supernatural explanation is not authenticated merely by this article.
-
 ## Historical setting
 
 **612–884 AR; Long Frontier.** Atherian–Covenant frontier districts. This tradition belongs to [[The Long Frontier and the First Unsealing]]; its cultural bearers are mixed provincial, Ahdari, Velian and Jirahar communities.
 
-It is told among Long-Frontier dynastic escape communities and households that receive children leaving violent families. Its survival does not make every singer's version a complete account of the event.
+It is told among Long-Frontier dynastic escape communities and households that receive children leaving violent families.
 
 ## The tale
 
@@ -47,12 +45,6 @@ Dynastic versions call her the true heir who renounced power. Escape-house songs
 ## What remains
 
 A scar-covering cloak is offered to any child leaving a violent house. It is returned only if the child freely chooses.
-
-## History and belief
-
-The practice, landscape or physical object described here has a place in the present world. Statements that it is the original relic, that a voice is the original dead person, or that a victory proves divine approval belong to the tradition unless a separate history establishes them.
-
-Names, precise sites and competing supernatural claims may remain uncertain without making the tradition placeless.
 
 ## Read onward
 

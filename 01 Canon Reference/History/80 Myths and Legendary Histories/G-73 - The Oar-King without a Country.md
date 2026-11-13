@@ -18,13 +18,11 @@ aliases: ["The Oar-King without a Country"]
 
 **The Oar-King without a Country** is the rise-and-rebuke cycle of a Folk coastal captive who saved the abandoned survivors of a proto-Atherian galley, became their captain and then conquered the harbour which became his kingdom. A prophet later exposed both that conquest and the disguised murder of the fellow rower who had opposed his kingship.
 
-> **Stories told.** The local telling and the material or customary remainder below are established. A claimed original object, miraculous response, famous identity or supernatural explanation is not authenticated merely by this article.
-
 ## Historical setting
 
-**c. 1750–1500 BR.** heroic-maritime Atherian coast. This tradition belongs to [[Age of Hearths and First Kings]]; its cultural bearers are Folk, related Ättar and early Atherian tellers.
+**c. 1750–1500 BR.** Heroic-maritime Atherian coast. This tradition belongs to [[Age of Hearths and First Kings]]; its cultural bearers are Folk, related Ättar and early Atherian tellers.
 
-It is told in the heroic-maritime Atherian world, especially at one harbour that both crowns and dockworkers claim he founded. Its survival does not make every singer's version a complete account of the event.
+It is told in the heroic-maritime Atherian world, especially at one harbour that both crowns and dockworkers claim he founded.
 
 ## Historical basis
 
@@ -67,12 +65,6 @@ Civic epics make the harbour empty or tyrannical before conquest. Older-family s
 ## What remains
 
 A ceremonial oar of disputed age precedes one magistrate. Dockworkers trail it with a lament whose verses name captives rather than kings.
-
-## History and belief
-
-The practice, landscape or physical object described here has a place in the present world. Statements that it is the original relic, that a voice is the original dead person, or that a victory proves divine approval belong to the tradition unless a separate history establishes them.
-
-Names, precise sites and competing supernatural claims may remain uncertain without making the tradition placeless.
 
 ## Read onward
 

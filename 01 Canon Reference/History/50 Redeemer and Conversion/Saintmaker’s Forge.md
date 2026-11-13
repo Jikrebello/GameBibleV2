@@ -112,8 +112,6 @@ The **Thalmyric Orders** reject this, holding to the legend of the **single peni
 
 ---
 
-Ready to move on to **The Forty Flames** next? This one's got huge potential for ritual culture and memory politics.
-
 ## Navigation
 
 - [[Timeline MOC]]

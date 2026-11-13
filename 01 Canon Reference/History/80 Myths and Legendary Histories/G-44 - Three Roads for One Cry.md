@@ -16,13 +16,11 @@ aliases: ["Three Roads for One Cry"]
 ---
 # Three Roads for One Cry
 
-> **Stories told.** The local telling and the material or customary remainder below are established. A claimed original object, miraculous response, famous identity or supernatural explanation is not authenticated merely by this article.
-
 ## Historical setting
 
 **612–884 AR; Long Frontier.** Atherian–Covenant frontier districts. This tradition belongs to [[The Long Frontier and the First Unsealing]]; its cultural bearers are mixed provincial, Ahdari, Velian and Jirahar communities.
 
-It is told among Long-Frontier diaspora families, ransom routes and runners who carry news from prisons. Its survival does not make every singer's version a complete account of the event.
+It is told among Long-Frontier diaspora families, ransom routes and runners who carry news from prisons.
 
 ## The tale
 
@@ -47,12 +45,6 @@ Runner guilds say all three strangers volunteered. Prison families say the broth
 ## What remains
 
 Three runners exchange red, grey and white cords at roadside fires. None knows the whole message until the recipients assemble it.
-
-## History and belief
-
-The practice, landscape or physical object described here has a place in the present world. Statements that it is the original relic, that a voice is the original dead person, or that a victory proves divine approval belong to the tradition unless a separate history establishes them.
-
-Names, precise sites and competing supernatural claims may remain uncertain without making the tradition placeless.
 
 ## Read onward
 

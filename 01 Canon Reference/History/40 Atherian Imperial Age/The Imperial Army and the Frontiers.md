@@ -36,7 +36,7 @@ Runes supported signalling, fire control, siege work and structural testing. The
 
 The southern frontier remained a belt of forts, allied districts and independent Folk country. Some clans served as auxiliaries or federates. Others raided provincial settlements, fought each other or withdrew beyond reliable imperial reach. Annual Grobi dangers required negotiated cooperation across the imperial boundary.
 
-In the northern dry belt, armies depended on defended wells and caravan routes. Ostar's much earlier failure at Rethmar remained a lesson in the consequences of assuming water would submit to arrival. Imperial expeditions negotiated with well communities and employed camels. The eastern horse cultures of the later Tarkhan First Catch had not yet developed.
+In the northern dry belt, armies depended on defended wells and caravan routes. Ostar's much earlier failure at Rethmar remained a lesson in the consequences of assuming water would submit to arrival. Imperial expeditions negotiated with well communities and employed camels.
 
 ## Eastern and maritime commands
 
@@ -48,7 +48,7 @@ Fleets escorted transport, pursued raiders and supported coastal campaigns. Ship
 
 Victories produced captives, land and public honours. Defeat produced disabled veterans, missing relatives and debts owed for equipment or ransom. Military cemeteries beside frontier roads contain people from many provinces.
 
-Veteran settlement carried skills and savings into towns. It also displaced cultivators and gave armed newcomers authority over neighbours. The imperial army joined the world through marriages and markets as well as forts; its violence remained present within those relationships.
+Veteran settlement carried skills and savings into towns. It also displaced cultivators and gave armed newcomers authority over neighbours.
 
 ## Further reading
 

@@ -16,7 +16,7 @@ tags: []
 > _“They tried to silence the Flame. Then they tried to own it.”_
 > —later summary of the Ember Years
 
-The Atherian Empire did not convert in one baptism, battle, or decree. Its imperial conversion ran from legalization under Cassian in 292 AR through a failed restoration of the stars and compulsory faith under Vestian by 395. The Underground Centuries are its necessary prelude. Its central wound is that genuine miracles and genuine sanctity eventually became instruments of imperial coercion.
+The Atherian Empire's conversion ran from legalization under Cassian in 292 AR through a failed restoration of the stars and compulsory faith under Vestian by 395. The Underground Centuries are its necessary prelude. Over that century, miracles and sanctity that believers held to be genuine became instruments of imperial coercion.
 
 ## Prelude: The Underground Centuries (1–291 AR)
 
@@ -47,7 +47,7 @@ Cassian executed his eldest son and empress on unpublished treason evidence. He 
 
 For more than half a century, stars and Flame shared the empire unevenly. Old temples retained estates and municipal obligations. Bishops competed over confiscated property and imperial access. Mixed households kept both calendars. Local officials could protect one congregation, persecute another, and call both acts public order.
 
-This is the generation in which a persecuted Church learns administration. Martyrs still live, but their successors now argue about courts, schools, basilicas, military chaplains, and whether imperial favor is providence or a subtler trial.
+This was the generation in which a persecuted Church learned administration. Witnesses of the martyrdoms still lived, but their successors argued about courts, schools, basilicas, military chaplains, and whether imperial favor was providence or a subtler trial.
 
 In 316 AR, Cassian's younger son **Sevrin** secured Caleran and confirmed his cousin **Adran** in the eastern command in return for recognition. Sevrin kept the restitution judgements, the witnessed service oath and the grain contracts with Star estates. His intended heir died c. 343. Adran's son Astrion gained command of the northern desert approaches and succeeded Sevrin in 348 with the backing of officers whose pay and households depended on the frontier command. [[The Reign of Sevrin]]
 
@@ -67,7 +67,7 @@ In 376, officers diverted provisions and sold dependants from among Folk househo
 
 ## Vestian and Compulsory Faith (377–395 AR)
 
-**Emperor Vestian the Pious** made the Redeemer's faith compulsory in 380 AR, dissolved the augur colleges, stripped or converted Star temples, and used imperial law to enforce religious settlement. The decree completed the empire's public conversion without converting every household, frontier, archive, or private loyalty.
+**Emperor Vestian the Pious** made the Redeemer's faith compulsory in 380 AR, dissolved the augur colleges, stripped or converted Star temples, and used imperial law to enforce religious settlement. The decree completed the empire's public conversion.
 
 Vestian's reign welded sanctity to state power. Sincere bishops gained the means to end old persecutions and also the means to persecute. Court converts used heresy and temple law to settle property claims, destroy rivals, and rewrite family histories. The old augur aristocracy preserved parts of its wealth by selling archives, offices, and legitimacy to the new order.
 
@@ -75,29 +75,23 @@ Vestian's reign welded sanctity to state power. Sincere bishops gained the means
 
 The Second Qiryath had already been destroyed by Atheria in 70 AR. During the Underground Centuries, Jirahar and Redeemer communities sometimes sheltered one another and sometimes denounced one another. Under conversion-era polemic, the specific guilt of Ezrahel's council was turned into inherited accusation against an entire people.
 
-Under Vestian, riot became policy. Remaining eastern towers were razed or confiscated, Qiryath was cleared under its Empty Charter, and established road, sea, and foreign-quarter networks absorbed another great displacement. Jirahar residents and jurists later influenced Covenant scholarship, but the Ahl-e-Ahd peoples descend independently from the Scattering. Jirahar exile is not their genesis.
-
-- **Ashes of the Covenant:** a Jirahar scholar rescues household registers from a confiscated eastern tower without surrendering them to a patron bargain.
-- **The Closed Road:** a Great Trek must choose between a hostile physical pass and a distant gate bench unwilling to receive another tower's danger.
-- **The Last Bell:** a Redeemer monk tries to save a Jirahar child marked for death, and together they flee an empire turning zealot.
+Under Vestian, riot became policy. Remaining eastern towers were razed or confiscated, Qiryath was cleared under its Empty Charter, and established road, sea, and foreign-quarter networks absorbed another great displacement. Jirahar residents and jurists later influenced Covenant scholarship.
 
 ## Inheritance
 
-By Vestian's death in 395 AR, the empire was officially Redeemer-faithful. It was not spiritually uniform. Star rites survived in households, rural estates, philosophical schools, military customs, and Menhir encounters; the Church inherited imperial archives, legal habits, and the temptation to treat successful custody as ownership of the Flame.
-
-The Council of Halmenth in 411 AR belongs to the doctrinal aftermath, not the conversion chronology itself.
+By Vestian's death in 395 AR, the empire was officially Redeemer-faithful. Star rites survived in households, rural estates, philosophical schools, military customs, and Menhir encounters; the Church inherited imperial archives, legal habits, and the temptation to treat successful custody as ownership of the Flame.
 
 ## Workers of the old temples
 
-A sanctuary was an employer as well as a cult center. Its singers, cooks, guards, prostitutes, metalworkers, cleaners and dependants did not cease to exist when the altar was broken. Some converted sincerely, some continued old rites, and some sold knowledge to new patrons. [[G-11 - The Children of the Closed Temple|The Children of the Closed Temple]] remembers this dispersed population rather than a neat victory of one priesthood over another.
+A sanctuary was an employer as well as a cult center. Its singers, cooks, guards, prostitutes, metalworkers, cleaners and dependants remained when the altar was broken. Some converted sincerely, some continued old rites, and some sold knowledge to new patrons. [[G-11 - The Children of the Closed Temple|The Children of the Closed Temple]] remembers this dispersed population.
 
-Old objects caused different problems. Some images were empty frauds; others had fed genuine Masks. Destruction of a statue could expose theft without ending the appetite which had used it. Authentic relics were no less dangerous to people who treated them as imperial equipment. Their response proved only the thing actually done.
+Old objects caused different problems. Some images were judged empty frauds; others were held to have fed Masks, and destroying such a statue was said to expose theft without ending the appetite which had used it. Relics venerated as authentic were no less dangerous to people who treated them as imperial equipment.
 
 ## Repentance without erasure
 
-The Penitent Governor tradition concerns a ruler who authorized torture, judicial murder, forced conversion, confiscation and a purification policy which killed his own child or heir. The death did not make his earlier victims less important. His repentance was real; laws, injured families and a predatory likeness of his public identity remained afterward.
+The Penitent Governor tradition concerns a ruler who authorized torture, judicial murder, forced conversion, confiscation and a purification policy which killed his own child or heir. The tradition holds his repentance real; laws, injured families and a predatory likeness of his public identity remained afterward.
 
-This is separate from the [[GS-02 - Preacher of the Second Gospel|Preacher of the Second Gospel]]. That figure began with genuine charitable work, was justly removed from teaching and then chose hostile revelation. Captive sacrifice, a child possession trial and the murder of a former companion were personally authorized acts, not cruelties supplied only by later followers.
+The [[GS-02 - Preacher of the Second Gospel|Preacher of the Second Gospel]] began with charitable work, was removed from teaching and then chose hostile revelation. He personally authorized captive sacrifice, a child possession trial and the murder of a former companion.
 
 ## Burial, song and fracture
 
@@ -107,7 +101,7 @@ Singers inherited temple melodies while suppressing the names of executed custod
 
 ## Toward the frontier
 
-The empire after Conversion was neither spiritually complete nor simply the old pantheon under new names. New monasteries, hospitals, schools and household practices mattered. So did the transfer of coercive power into Christian language. The Council of Halmenth in 411 and the exile of Nasriel's communion created a further divide, forming part of the later Velian world.
+After Conversion, new monasteries, hospitals, schools and household practices mattered. So did the transfer of coercive power into the language of the Church. The Council of Halmenth in 411 and the exile of Nasriel's communion created a further divide, forming part of the later Velian world.
 
 The following centuries lead to [[The Long Frontier and the First Unsealing]], where faith, imperial citizenship, everyday cooperation and violence no longer follow one border.
 

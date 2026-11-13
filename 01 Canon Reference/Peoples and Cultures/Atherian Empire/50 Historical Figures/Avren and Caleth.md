@@ -22,7 +22,7 @@ Their mother, Meral, owned boats and belonged to an Enathi household. Their fath
 
 The foundation traditions agree that the children survived through the intervention of a grey she-wolf. The household telling calls her Ravessa and describes a human attendant, Alvessa, who fed and clothed them. Some later poems identify the wolf with Orionis; others describe an ordinary animal whose unexpected gentleness revealed the boys' destiny. Stories retaining Ravessa's speech give her a purpose of her own: she wanted allies for a conflict in a woodland country beyond the human settlements.
 
-Meral escaped captivity several years later and returned to her sons. Her reconnection with them occupies an important place in Aurin household tellings. She resumed work among her relatives and brought the boys into the river society from which their father's defeat had separated them. Their upbringing belongs to both the woodland tradition and this network of human care.
+Meral escaped captivity several years later and returned to her sons. Her reconnection with them occupies an important place in Aurin household tellings. She resumed work among her relatives and brought the boys into the river society from which their father's defeat had separated them.
 
 ## The estuary coalition
 
@@ -30,7 +30,7 @@ As young men, the brothers took different roles in opposition to the landing rul
 
 The fighting killed defenders and inhabitants caught in burning stores. Avren executed a surrendered officer whom he blamed for Damaris's death. Caleth organised repairs and helped households return to the waterfront. The coalition then connected neighbouring settlements under a common defence and a ruling household at the estuary. This became the foundation commemorated in Caleran's later civic history.
 
-The settlement occupied inhabited ground. Its houses and works depended on local builders, grain producers and earlier routes. The foundation changed political authority without marking the beginning of all settlement at the river mouth.
+The settlement occupied inhabited ground. Its houses and works depended on local builders, grain producers and earlier routes.
 
 ## The brothers' quarrel
 

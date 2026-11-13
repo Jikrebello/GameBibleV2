@@ -30,11 +30,11 @@ The Vashari encountered Arqesh through trade, warfare and hostage exchange. High
 
 The oldest Vashari political unit was the **hearth domain**. Several villages and pasture households pledged service to a fortified landholding family or an important sanctuary in return for protection, access to winter stores and representation in disputes. The domain's ruler judged water, grazing, compensation for injury and military service with an assembly of household leaders. Larger coalitions formed for war and commonly dissolved when their leaders quarrelled over spoils or marriage alliances.
 
-The sanctuary town of **Daryam** became influential during the Breaking of the Bronze Roads. Its keepers maintained a sheltered market and a fire used to light household lamps after winter. The fire was ordinary created matter, kept alive through skill and fuel. Keeping it alight through the closed season represented the community's obligation to preserve life and deal truthfully.
+The sanctuary town of **Daryam** became influential during the Breaking of the Bronze Roads. Its keepers maintained a sheltered market and a fire used to light household lamps after winter. Keeping it alight through the closed season represented the community's obligation to preserve life and deal truthfully.
 
-Teachers associated with Daryam called truthful speech, kept promises and the defence of cultivated land **the Right Order**. They called deliberate deceit and the abuse of a promise **the Lie**, treating it as human corruption rather than a second power of creation. Royal teachers later identified loyalty to the king with the Right Order. This allowed a ruler who had broken faith to condemn resistance as falsehood.
+Teachers associated with Daryam called truthful speech, kept promises and the defence of cultivated land **the Right Order**. They called deliberate deceit and the abuse of a promise **the Lie**, treating it as human corruption. Royal teachers later identified loyalty to the king with the Right Order. This allowed a ruler who had broken faith to condemn resistance as falsehood.
 
-The oldest attributed teacher is **Ashara of the Three Questions**, placed uncertainly around 1190 BR. Her surviving sayings ask whether a gift remains generous when refusal brings punishment, whether a ruler speaks truth when his messenger cannot contradict him and whether a pure fire excuses stolen fuel. No reliable tradition gives her supernatural powers. Several later sects claim her.
+The oldest attributed teacher is **Ashara of the Three Questions**, placed uncertainly around 1190 BR. Her surviving sayings ask whether a gift remains generous when refusal brings punishment, whether a ruler speaks truth when his messenger cannot contradict him and whether a pure fire excuses stolen fuel. Several later sects claim her.
 
 House Tiravan first appears among the Kavresh valley rulers around 900 BR. Its estates controlled fruit terraces, a ford and the road to Ruzhan. Marriage with pasture houses supplied cavalry. Marriages with Daryam keepers supplied religious prestige. The house alternated between service to Arqesh and resistance against it.
 
@@ -90,11 +90,11 @@ Vasharan kings adopted the language of Right Order and tended light. A royal fla
 
 Three traditions later claimed that a sacred flame had accompanied Arezan's conquest. Daryam remembered a household lamp carried on a mule. An Arqeshite relief showed a royal brazier taken from Kassur's palace. Qiryath remembered a lamp lit when the return decree was read. Later writers fused these separate objects into one travelling relic called the **Threefold Fire**.
 
-The three fires were ordinary lamps and braziers with separate histories. During Daryav's reign, an Idol Mask began to imitate the radiance of the royal ceremony. It appeared in mirrors, polished armour and dreams of a king surrounded by kneeling nations. Court diviners called it the **Witness of Dawn**. Its visions encouraged rulers to treat obedience as proof that their subjects recognised the truth.
+During Daryav's reign, a radiance like that of the royal ceremony began to appear in mirrors, polished armour and dreams of a king surrounded by kneeling nations. Court diviners called it the **Witness of Dawn**. Its visions encouraged rulers to treat obedience as proof that their subjects recognised the truth.
 
 Some priests resisted. **Mazhara of Daryam**, active under Daryav, taught that a king's lie remained a lie when carved in three languages. After she condemned the killing of surrendered rebels, the crown confiscated her family's orchards and sold their bonded workers. Mazhara remained alive and continued teaching in another household. Court histories later cited her survival as proof of royal tolerance and omitted the punishment inflicted upon her workers.
 
-Highland springs and passes sometimes answered through established Menhir relationships or the actions of individual court persons. The songs of the White-Haired Fosterling describe an enormous bird, although they disagree about its home and purpose. Its identity as a court person, a Patron visitor or a poetic addition remains unknown.
+The songs of the White-Haired Fosterling describe an enormous bird, although they disagree about its home and purpose.
 
 ## Kavran I and the western road, 625–584 BR
 
@@ -106,7 +106,7 @@ Kavran's new stations, garrisons and tax districts enlarged Vasharan authority a
 
 ## Mithara I and the repaired empire, 584–536 BR
 
-Kavran died after a short illness. His aunt **Mithara I Tiravan**, named for Arezan's sister and Parena's mother, was an experienced estate manager and provincial negotiator. She secured the throne against two adult nephews. One was blinded; the other accepted a highland command and later died during a suspicious hunt.
+Kavran died after a short illness. His niece **Mithara I Tiravan**, named for Arezan's sister and Parena's mother, was an experienced estate manager and provincial negotiator. She secured the throne against two adult cousins. One was blinded; the other accepted a highland command and later died during a suspicious hunt.
 
 Mithara renegotiated ship levies, restored estates damaged by western resistance and regularised the crown's claims over the road stations. Her treaties allowed Atherian merchants into selected ports while forbidding those cities to shelter rebels.
 
@@ -116,7 +116,7 @@ Mithara's treaties, tax agreements and marriages reduced the number of provinces
 
 ## Xarun I and the eastern sea wars, 536–486 BR
 
-**Xarun I Tiravan** inherited when the destruction of Qarzeth had released Caleran ships and commanders from the western Gateway struggle. The city of **Tasar** became the centre of revolt after Governor **Mazdan Aresh** intervened in the choice of a new harbour magistrate and increased the city's naval service. The magistrate **Liora of Tasar** sought aid from Atherian leagues in 514 BR. Atherian ships helped the rebels capture the lower city of **Avesh**, the western road-command capital, and burn its storehouses.
+**Xarun I Tiravan** inherited as Caleran gathered for its final war against Qarzeth. Within two decades the destruction of Qarzeth released Caleran ships and commanders from the western Gateway struggle. The city of **Tasar** became the centre of revolt after Governor **Mazdan Aresh** intervened in the choice of a new harbour magistrate and increased the city's naval service. The magistrate **Liora of Tasar** sought aid from Atherian leagues in 514 BR. Atherian ships helped the rebels capture the lower city of **Avesh**, the western road-command capital, and burn its storehouses.
 
 Vasharan forces recovered the coast by 508 BR. Tasar's walls were breached; leaders were executed; inhabitants were deported or enslaved. The city survived and supplied ships again within a generation. Xarun concluded that Atherian leagues would continue encouraging revolt while the coastal marches remained contested.
 
@@ -171,8 +171,6 @@ Slavery and bonded labour supported estates, mines, roads and households. War ca
 | **Tasar** | mixed coastal city whose two liberation festivals remember eastern and Atherian rule |
 | **Ilyessa** | island-and-strait district associated with the decisive naval reverse |
 
-These are relational placements. Coordinates and modern borders remain open.
-
 ## Regnal framework
 
 | Ruler | Reign | Principal development |
@@ -188,7 +186,7 @@ These are relational placements. Coordinates and modern borders remain open.
 
 ## The eastern heroic inheritance
 
-Vashari singers perform histories of great houses, flawed kings, fostered champions and wars between kin. Most surviving cycles were composed centuries after the periods they describe. They preserve family claims, local grievances and heroic memory rather than a consecutive record of reigns.
+Vashari singers perform histories of great houses, flawed kings, fostered champions and wars between kin. Most surviving cycles were composed centuries after the periods they describe. They preserve family claims, local grievances and heroic memory.
 
 The **White-Haired Fosterling** concerns **Razana Tiravan**, exposed by an upland lord who feared an Idol had marked her. A great bird-shaped being raised her beyond the pasture roads. She returned as a physician and negotiator, refused the throne offered by her repentant father and supported a rival household whose tenants she had treated during famine. The identity of the fosterer remains unresolved.
 

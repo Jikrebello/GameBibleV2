@@ -44,7 +44,7 @@ His failed northern campaign in 358 consumed troops and resources. During the re
 
 Samyra's kingdom supplied grain, vessels and credit. Velsar offered military protection and recognition of dynastic claims. Their relationship developed personal attachments alongside those purposes, and their children Talven and Lethia were born in 357 and 354.
 
-At Samyra's request, Velsar had her sister Merath seized and executed in 358. The removal of a rival strengthened the reigning household and alienated people attached to Merath's branch. Royal patronage could carry lethal consequences for relatives outside the favoured line.
+At Samyra's request, Velsar had her sister Merath seized and executed in 358. The removal of a rival strengthened the reigning household and alienated people attached to Merath's branch.
 
 The public recognition of titles for Samyra and her children in 354 gave their alliance a wider programme. Some claimed districts remained under other rulers. The ceremony nevertheless alarmed those rulers and supplied Thalion with evidence that Velsar intended a separate centre of authority.
 
@@ -56,7 +56,7 @@ The final struggle began in 353 BR. Istran Melvo restricted the royal coalition'
 
 In 350 he was wounded and faced capture. He took his own life before Sarqen's final submission. Samyra died soon afterwards. Their younger children survived in Evara's custody, sharing a household with children born during Velsar's earlier marriage.
 
-Velsar's reputation remained divided between the commander remembered by comrades and the ruler whose commitments exceeded his capacity to sustain them. The households he left behind preserved both attachments and injuries.
+Velsar's reputation remained divided between the commander remembered by comrades and the ruler whose commitments exceeded his capacity to sustain them.
 
 ## Further reading
 

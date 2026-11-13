@@ -41,11 +41,11 @@ The [[G-07 - The Key Bent in a Murderer's Hand|Bent-Key crisis]] at Verion began
 
 In the pre-imperial Arkenan–Saronikan corridor, c. 1120–980 BR, a sea-king attacked a populated court stronghold to obtain a sounding-weight which disclosed one safe reef adjacency. Defenders were killed. Most raiders drowned, were captured or suffered physical transformation. The few who returned helped a hungry harbour, then let later songs make that relief justify the raid.
 
-[[G-74 - The Raid That Returned One Tool|The Raid That Returned One Tool]] survives on both sides of the crossing. Court-side descendants remember the captives whom the victorious city forgot. The weight's usefulness establishes neither ownership nor heavenly favour. This episode is separate from [[The Refusal at Kelarion]], whose storm, denied refuge and sealed Dragon belong to their own event.
+[[G-74 - The Raid That Returned One Tool|The Raid That Returned One Tool]] survives on both sides of the crossing. Court-side descendants remember the captives whom the victorious city forgot.
 
 ## Hunger acquires new forms
 
-City wealth made the Idols' cultural faces more elaborate. A royal image could absorb the biography of a dead champion; a creditor could turn a stored hoard into claims upon families who had never seen it. In the empty-signature marriage stories, refusal brought beating, sale or coerced sexual access. Human rulers, households and enforcers maintained these arrangements, and an existing Idol fed through their conduct.
+City wealth made the Idols' cultural faces more elaborate. A royal image could absorb the biography of a dead champion; a creditor could turn a stored hoard into claims upon families who had never seen it. In the empty-signature marriage stories, refusal brought beating, sale or coerced sexual access. Human rulers, households and enforcers maintained these arrangements, and an Idol fed through their conduct.
 
 ## What lasts
 

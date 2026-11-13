@@ -34,11 +34,11 @@ The visible structure is only the crown of the settlement. Cisterns, dwellings, 
 
 ## Social Pattern
 
-Proto-Jirahar life combines movement and rooted memory. Families travel by caravan, but the tower towns anchor law, archives, marriage records, food storage, ritual calendars, and judges. This is one later answer to the shared northern inheritance; the earliest tower builders are not a fully formed Jirahar nation carried intact out of the Glass.
+Proto-Jirahar life combines movement and rooted memory. Families travel by caravan, but the tower towns anchor law, archives, marriage records, food storage, ritual calendars, and judges. This is one later answer to the shared northern inheritance.
 
 ## Claim to the Prophet
 
-The Jirahar preserve the strongest claim to the Great Prophet's original teaching. That does not mean every Jirahar person is holy, every later institution is pure, or the Jirahar alone inherit the People of the Camp. It means their culture is built around the conviction that forgetfulness is a form of betrayal.
+The Jirahar preserve the strongest claim to the Great Prophet's original teaching. Their culture is built around the conviction that forgetfulness is a form of betrayal.
 
 ## Future Consequence
 

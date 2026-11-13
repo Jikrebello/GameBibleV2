@@ -18,13 +18,11 @@ aliases: ["The Harbour Founded Twice"]
 
 **The Harbour Founded Twice** is the rival foundation tradition of an ancestral harbour of Sermora. One calendar begins with the arrival of a damaged proto-Atherian convoy which converted seasonal refuge into occupation; the other begins with the mixed coastal victory which defeated the convoy's former league and reopened the water.
 
-> **Stories told.** The local telling and the material or customary remainder below are established. A claimed original object, miraculous response, famous identity or supernatural explanation is not authenticated merely by this article.
-
 ## Historical setting
 
-**c. 2165–1750 BR; overlapping Scattering and early Hearths.** coast later connected to the Sestaran harbour world. This tradition belongs to [[Age of Scattering]]; its cultural bearers are one Braided harbour population, not all Sestarans.
+**c. 2165–1750 BR; overlapping Scattering and early Hearths.** Coast later connected to the Sestaran harbour world. This tradition belongs to [[Age of Scattering]]; its cultural bearers are one Braided harbour population, not all Sestarans.
 
-It is told around a late-Scattering coast by a Braided harbour people and by inland families who remember losing the shore. Its survival does not make every singer's version a complete account of the event.
+It is told around a late-Scattering coast by a Braided harbour people and by inland families who remember losing the shore.
 
 ## Historical basis
 
@@ -57,12 +55,6 @@ Harbour songs often place the liberation under a single Second Founder, while co
 ## What remains
 
 Boats are launched on two feast days. The first uses a single southern-patterned oar in silence. The second uses alternating planks cut in the two ancestral styles.
-
-## History and belief
-
-The practice, landscape or physical object described here has a place in the present world. Statements that it is the original relic, that a voice is the original dead person, or that a victory proves divine approval belong to the tradition unless a separate history establishes them.
-
-Names, precise sites and competing supernatural claims may remain uncertain without making the tradition placeless.
 
 ## Read onward
 

@@ -16,13 +16,11 @@ aliases: ["The Faces Beneath the Victors"]
 ---
 # The Faces Beneath the Victors
 
-> **Stories told.** The local telling and the material or customary remainder below are established. A claimed original object, miraculous response, famous identity or supernatural explanation is not authenticated merely by this article.
-
 ## Historical setting
 
 **c. 910–951 AR.** Thalmyric refuge mountains and reconquered provincial towns. This tradition belongs to [[The Fall and the Long Reconquest]]; its cultural bearers are refugees, occupation-born households and returners.
 
-It is told in Fall and Reconquest portrait halls, especially among mixed families painted out of official ancestry. Its survival does not make every singer's version a complete account of the event.
+It is told in Fall and Reconquest portrait halls, especially among mixed families painted out of official ancestry.
 
 ## The tale
 
@@ -47,12 +45,6 @@ Military Lives blame an enemy assassin. Artist guilds call the general murderer.
 ## What remains
 
 Smoke or warmth brings wounded hands and mixed households through the later paint of several victory portraits.
-
-## History and belief
-
-The practice, landscape or physical object described here has a place in the present world. Statements that it is the original relic, that a voice is the original dead person, or that a victory proves divine approval belong to the tradition unless a separate history establishes them.
-
-Names, precise sites and competing supernatural claims may remain uncertain without making the tradition placeless.
 
 ## Read onward
 

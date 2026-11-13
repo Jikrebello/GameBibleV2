@@ -50,7 +50,7 @@ The palace associated its martial ancestors with the power later worshipped as *
 
 At Sarven, the ruler's place beneath the stars became an increasingly elaborate claim to supremacy. Captured chiefs were made to kneel in the positions assigned to conquered constellations. Some were killed before assembled dependants. Court visions praised the sovereign as the measure against which every lesser being should be judged. These ceremonies left a particularly hostile memory among the river households, whose descendants continued to use the astronomical learning while destroying or covering images of the kings.
 
-Foreign connections added to the palace's knowledge. Arsuvan bought metal and specialist work through intermediaries trading towards the Copper Stair kingdoms. Caravans carried stories of Kharad's marriage politics, and sea merchants handled goods that had passed through Ulmaris. Such connections were intermittent and often indirect. Arsuvan's prosperity rested chiefly on its own basin and approaches; the other kingdoms followed separate histories.
+Foreign connections added to the palace's knowledge. Arsuvan bought metal and specialist work through intermediaries trading towards the Copper Stair kingdoms. Caravans carried stories of Kharad's marriage politics, and sea merchants handled goods that had passed through Ulmaris. Such connections were intermittent and often indirect. Arsuvan's prosperity rested chiefly on its own basin and approaches.
 
 ## The collapse during the Great Unbinding
 
@@ -60,7 +60,7 @@ The Great Unbinding broke the wider systems on which Arsuvan's rulers had learne
 
 At Nerava, a boat organiser named **Lethra** persuaded crews to move seed grain and families by night while the royal escorts slept at an upstream landing. She used concealed boats and channels known to local fishers. When the theft was discovered, Arveth's officers hanged members of two crews who had remained behind. Their relatives continued the crossings with fewer boats. The rescued seed supported the first planting after the palace lost control of the district.
 
-Arveth marched downriver to recover the stores. His opponents cut the bank beside a narrow towpath after rain had softened it, trapping the baggage carts in mud. Upland deserters and local fighters attacked the immobilised force. Arveth killed several attackers before they brought him down with heavy quarry wedges and spears. His bodily death ended his rule. The struggle continued around Sarven, where rival claimants burned storehouses and carried off skilled captives before abandoning parts of the palace.
+Arveth marched downriver to recover the stores. His opponents cut the bank beside a narrow towpath after rain had softened it, trapping the baggage carts in mud. Upland deserters and local fighters attacked the immobilised force. Arveth killed several attackers before they brought him down with heavy quarry wedges and spears. His death ended his rule. The struggle continued around Sarven, where rival claimants burned storehouses and carried off skilled captives before abandoning parts of the palace.
 
 By about 2260 BR, unified royal government had ceased. The river settlements divided surviving stores; Thesra's households fortified their approaches; upland communities reopened workings whose overseers had fled. Many people died from hunger, exposure or raids during the following years. Others recovered freedom and reunited with relatives from whom royal service had separated them. No single successor inherited the whole basin.
 
@@ -68,7 +68,7 @@ By about 2260 BR, unified royal government had ceased. The river settlements div
 
 Human households preserved agricultural knowledge, boatbuilding and workshop practices after royal control ended. The ruined palace terraces supplied building material as well as memories of forced labour. Later Star worship reused parts of the astronomical tradition while changing the stories told about its discovery and ownership.
 
-[[Palace Survivors and the Southern Heroic Age]] follows the wider aftermath, in which detached ruling houses elsewhere retained smaller strongholds while human communities rebuilt. Arsuvan's united kingdom had ended. The High Harbour dynasty encountered by later maritime settlers belonged to a separate surviving house on another coast.
+[[Palace Survivors and the Southern Heroic Age]] follows the wider aftermath, in which detached ruling houses elsewhere retained smaller strongholds while human communities rebuilt. The High Harbour dynasty encountered by later maritime settlers belonged to a separate surviving house on another coast.
 
 - [[Peoples of the Ancient Aurin]]
 - [[Sarven, Nerava, Thesra and Olveth]]
