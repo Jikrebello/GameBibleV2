@@ -27,7 +27,7 @@ Saint Malveris's inquisitors specialize in forbidden objects, fraudulent relics,
 
 ## Knights of Saint Aveline
 
-The Avelines defend the southern marches and maintain a penitential memory of earlier campaigns against the Folk. Their charter now distinguishes armed raiders, Grobi warbands, and lawful Folk sanctuaries. Chapters that ignore the distinction risk both secular prosecution and spiritual corruption.
+The Avelines defend the southern marches and maintain a penitential memory of earlier campaigns against the Folk. It dates from the midwinter of 1163, at the end of the Great Southern Purge, when riders whose breath made no smoke went through the marcher camps after the boundary groves were cut and took a whole Aveline chapter with the Folk households nearest the groves. Their charter now distinguishes armed raiders, Grobi warbands, and lawful Folk sanctuaries. Chapters that ignore the distinction risk both secular prosecution and spiritual corruption.
 
 ## Order of the Blessed Watch
 

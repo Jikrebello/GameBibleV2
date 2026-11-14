@@ -18,7 +18,7 @@ The **Castaran Long Road** is a chain of tracks, wells, depots, ferry points, an
 
 ## Ash Road Peace
 
-After a destructive attack on the growing route in 1333 AR, Castara concluded the first **Ash Road Peace** in 1334. Each year Castaran agents deliver silver, grain, tools, commercial privileges, and named gifts. In return, the Ash Horde recognizes declared caravans, supplies escorts, maintains agreed water points, and pursues banners that violate the peace.
+In 1333 AR Castaran surveyors staked wells across Ash pasture for an inland road towards Vardessa and Aversia. Every Tarkhan who heard of it thought of the Nine Wells of Tergai, and the Ash banners burned the survey camps and the caravans camped beside them. Castara concluded the first **Ash Road Peace** in 1334. Each year Castaran agents deliver silver, grain, tools, commercial privileges, and named gifts. In return, the Ash Horde recognizes declared caravans, supplies escorts, maintains agreed water points, and pursues banners that violate the peace.
 
 Castara records the payment as an escort compact. Rivals call it tribute. Both descriptions capture part of its political function.
 

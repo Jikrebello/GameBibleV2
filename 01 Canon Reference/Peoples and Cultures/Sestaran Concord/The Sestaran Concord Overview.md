@@ -66,7 +66,7 @@ Jirahar quarters preserve their own teaching, food, burial and communal institut
 
 ## The Concord in 1360
 
-The league finances, arms and transports major powers while its members compete for tolls, contracts and information. Castara's expansion has widened the field of opportunity and risk. Its annual Ash Road Peace, first agreed in 1334 after a destructive Horde attack, secures registered caravans through Tarkhan territory.
+The league finances, arms and transports major powers while its members compete for tolls, contracts and information. Castara's expansion has widened the field of opportunity and risk. Its annual Ash Road Peace, first agreed in 1334 after the Ash banners burned the camps of Castaran surveyors staking wells on their pasture, secures registered caravans through Tarkhan territory.
 
 Older members retain their own rivalries and priorities. Their common defence has survived repeated attempts to turn wartime leadership into permanent command. Commerce keeps the cities closely connected even when their governments pursue incompatible interests.
 

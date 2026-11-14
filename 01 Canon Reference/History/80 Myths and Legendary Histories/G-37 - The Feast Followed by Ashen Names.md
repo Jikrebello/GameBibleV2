@@ -20,7 +20,7 @@ aliases: ["The Feast Followed by Ashen Names"]
 
 **c. 1087–1146 AR.** Successor-imperial towns and provincial districts. This tradition belongs to [[High Noon and the Qarath Disaster]]; its cultural bearers are Thalmyric, Eclessian and Sestaran tellers.
 
-It is told in High-Noon communities liberated from one slave system and among families of people used in the liberators' experiments.
+It is told in High-Noon communities liberated from one slave system and among families of people used in the liberators' experiments, above all in the cantons of Korrheim, which date their freedom from the Oath of the Shafts in 1124.
 
 ## The tale
 

@@ -20,6 +20,10 @@ Aurelium's work as a centre of teaching and record-keeping began in the Undergro
 
 The habit that most marked the later Sanctum began under Vestian. In 381 the bishops took over the augur colleges' power to say which signs existed in law, and Aurelium received the augurs' signed account of Astrion's test of 350. When the lamps at Vestian's compulsory professions burned yellow in 385, Aurelium's readers went district by district collecting dates, witnesses and accounts of every lamp that failed and every one that kindled, sent the court its official totals, and sealed the full register. Aurelium kept every word its readers had written and shut the chest on them. Eclessian relic judges still trace their courts, and their dread of an inconclusive finding, to that sealed register of the unkindled professions. [[The Conversion of the Empire]]
 
+## Before the Fall
+
+The east had learned to govern itself long before 905. In 653 a Thalassian squall sank the fleet carrying the eastern tax grain to Caleran, and the court let the eastern bishops collect and spend the revenue at home "for one year". Nobody ever ended the year. Bishops who kept the revenue whichever way a relic test fell could afford to test honestly, and Aurelium kept the results in its **register of answered fire**: which relics answered, which never had and which clergy kindled. In 711 Bishop Simeon of Aurelium examined the Velos Standard, sent east to rally the provinces for a Caleran claimant, recorded it silent and held the eastern governors' oaths "in trust for the emperor who proves lawful". Corvenas I confirmed Aurelium's right of examination in 713. Eclessians call it **Simeon's primacy**, and the oaths it held waited three centuries for their emperor. [[Eclessia During the Invasion]]
+
 ## The Eastern Emergency, 905-974 AR
 
 The Fall of Caleran in 905 AR severed the eastern provinces from imperial command. The Third Crusade halted the Qahirid advance at Caldria, while bishops, fortified abbeys, town councils, and marcher lords organized food, defense, burial, and refugee settlement.
@@ -34,13 +38,13 @@ The **Council of Aurelia in 946 AR** regularized that emergency system. It confi
 
 Adalmar the Great united the eastern kingdoms through conquest, marriage, and law. He protected the Aurellian hierarchy, used parish records to regularize taxation, and forced conversion during the Folk Wars. The Church gave his conquests a common legal and sacred language while inheriting responsibility for Wolfsmere and other coerced settlements.
 
-In 1002 AR, Lord Primarch Silvane II crowned Adalmar Emperor of the Atherians. The coronation created the Two Emperors problem: Veridun possessed the restored imperial line, while Aurelium claimed that survival, orthodoxy, and eastern consent allowed a second crown.
+In 1001 the Sanctum's relic court examined the march banner that had kindled at Kaltfurt and credited the sign to the king. In 1002 AR, Lord Primarch Silvane II crowned Adalmar Emperor of the Atherians as the emperor who had proved lawful under the trust held since 711. The coronation created the Two Emperors problem: Veridun possessed the restored imperial line, while Aurelium claimed that survival, orthodoxy, and eastern consent allowed a second crown.
 
 The **Doctrine of the Ember Seat** developed from this coronation and the later custody of the Crown. It holds that the Sanctum may preserve imperial and ecclesiastical legitimacy during a vacancy without itself becoming the empire. Primarchal rulers have interpreted "preserve" generously ever since.
 
 ## The Great Split, 1015 AR
 
-Lord Primarch Bonifac III demanded primacy and trusteeship over the imperial title. Cardinal Hubald of Caldria nailed the anathema to Veridun's Great Lamp; Patriarch Makarios answered in kind. The dispute concerned authority as much as ritual: who could define doctrine, crown an emperor, test relics, and speak for the universal Church.
+Lord Primarch Bonifac III demanded that Veridun acknowledge Simeon's primacy, beginning with an examination of its Great Lamp, and the Sanctum's trusteeship of the imperial title. Cardinal Hubald of Caldria nailed the anathema to Veridun's Great Lamp; Patriarch Makarios answered in kind. The dispute concerned authority as much as ritual: who could define doctrine, crown an emperor, test relics, and speak for the universal Church.
 
 After 1015, Eclessian bishops ceased treating Veridun as a higher court. Celibate clerical discipline, the Sanctum's relic jurisdiction, and Primarchal supremacy became marks of eastern identity.
 
@@ -48,7 +52,7 @@ After 1015, Eclessian bishops ceased treating Veridun as a higher court. Celibat
 
 Ludovar's weak reign and the Partition of Drossfeld fractured Adalmar's political inheritance. The Church outlived each successor because its dioceses, schools, courts, and registers crossed their borders.
 
-When Karlmann the Idle was deposed in 1102, no claimant could reunite the realm. In 1104 the Crown of Embers entered the Sanctum's custody "until the realm is worthy of one head." The Church thereby became keeper of an unrealized empire without becoming its monarch.
+In the Two Winters, Ermbold the Idle refused to carry the Crown of Embers in a penitential procession through the ash, and in 1102 the other kings deposed him at Drossfeld. No claimant could reunite the realm, and the Crown went to the Sanctum while the kings argued. In 1104 they left it there in trust "until the realm is worthy of one head." The Church thereby became keeper of an unrealized empire without becoming its monarch.
 
 ## The Inheritance
 

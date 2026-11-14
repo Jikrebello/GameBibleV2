@@ -29,6 +29,10 @@ The Medori Bank is the known world's most extensive private credit network, but 
 
 The family board sets broad risk. Investment offices seek projects and sovereign clients. Correspondent houses maintain foreign access. Advocates and notaries translate instruments between legal systems. The Debt Management Office restructures, collects, sells, or enforces defaulted claims. The [[Debtors’ Corps]] performs labor, security, investigation, and dangerous recovery under debt-service contracts.
 
+## The Registers of the Dead
+
+The Bank grew out of the Grey Sweat. Bartolo Medori's house cleared the estates of the plague dead and, from 1252, carried the payments of families to the Sending Houses that sang rites for their dead. In 1296 it took the master registers of the Sanctum's Chancery of Sendings as surety for Alessior VI's debts: every assurance letter sold, every name, every House assigned to sing it. Those registers made the family's worst year. In 1345 a Sermoran pamphlet printed extracts naming Fiorenzian dead whose Sendings had been paid for and never sung, called the vault the Bank of the Dead, and brought on the expulsion of 1346. Since the Council of Veridance ordered the Great Arrears, the Order of the Lantern has bought copies of the registers sheet by sheet to sing the Sanctum's unpaid rites.
+
 ## Competing Incentives
 
 One office may finance a government while another insures its rival's cargo and a third buys discounted claims after the war. This is institutional competition, not proof that one hidden hand scripted the conflict. Stability, decisive victory, reconstruction, prolonged debt, and controlled crisis can each profit different books.

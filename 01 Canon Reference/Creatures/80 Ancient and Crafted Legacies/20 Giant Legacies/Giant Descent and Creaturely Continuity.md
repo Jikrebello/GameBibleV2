@@ -49,6 +49,8 @@ The human mother remains fully human. Consent, coercion, captivity, complicity, 
 
 **Dynastic Giants** are later bearers of `giant-continuity`. Dilution usually reduces stature, raw force, inherited law, and ease of access to ancestral structures. It may also make later Giants more adaptable than their tightly defined Titan forebears. A weak or human-sized Giant remains a Giant if its actual continuity is `giant-continuity`.
 
+Because dilution reduces ease of access, a diluted heir can keep an ancestral structure working only by feeding it more from outside: labour, captives, grain and at last bodies. This rising cost is the declared root of the Giant collapse ([[The Great Unbinding]]).
+
 ### Giant-Blooded Humans
 
 A **giant-blooded human** is a complete Image-bearing human person with `human-soul`. Such a person may be enormous, long-lived, visibly altered, capable of inherited powers, recognized by Giant instruments, or descended from a famous Titan. None of those facts makes the soul partial or converts the person into a Giant.

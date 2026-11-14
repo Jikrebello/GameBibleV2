@@ -13,7 +13,7 @@ tags: []
 ---
 # White Horde
 
-The White Horde is the richest coalition of the northwestern grass and desert fringe. It contains horse-pastoral clans, camel-breeding well clans, dispossessed families, and raiding banners united by Qarayel's eldest line.
+The White Horde is the richest coalition of the northwestern grass and desert fringe. It contains horse-pastoral clans, camel-breeding well clans, dispossessed families, and raiding banners united by Qarayel's eldest line. At the Partition of the Herds in 1304 that line took the most numerous herds and the least managed of the black colt's grace-lines, which is why White fields the largest raid host on the grass.
 
 ## Ruler and Claim
 

@@ -186,6 +186,6 @@ Thalmyria remembers the Guttering and draws the lessons of its refuge from it: t
 
 Smaller local histories and restored reserve leads: [[Additional Mortal Lives and Frontier Traditions]].
 
-Lives with independent later histories: [[Great Saints and Sinners - Lives and Afterlives]].
+Lives of the age's great saints and sinners as the chronicles tell them: [[Saints and Sinners of the Chronicles]].
 
 Further civil history: [[Towns and Wars of the Long Frontier]].

@@ -18,7 +18,7 @@ The earliest Atherian societies developed among southern leagues leaving the reg
 
 ## Leaving the common camps, c. 2130–2050 BR
 
-The Prophet's death left several offices with responsibility for parts of the Glass People. Commanders could organise defence, provisioners distribute stores and teachers preserve testimony. Disagreement arose when decisions about movement and permanent settlement required cooperation among those groups. A leader who could assemble an expedition could also take supplies needed by households remaining behind.
+The Prophet's death left several offices with responsibility for parts of the Glass People. Commanders could organise defence, provisioners distribute stores and teachers preserve testimony. Disagreement arose when decisions about movement and permanent settlement required cooperation among those groups. A leader who could assemble an expedition could also take supplies needed by households remaining behind, chiefly the seed reserve which the drought-struck rear camps were eating.
 
 The southern departure developed over generations. Captains sought defensible crossings; craftsmen wanted workshops and customers; younger households sought fields they could pass to children. Others remained near the Glass, where familiar routes, graves and camp institutions supported a different life. Relatives continued to marry and trade across the growing separation. Their loyalties changed through repeated journeys and local commitments.
 
@@ -40,7 +40,7 @@ The traditions of [[01 Canon Reference/History/80 Myths and Legendary Histories/
 
 ## High Harbour and the returnings, c. 1980–1930 BR
 
-On the Arkenan–Saronikan approaches, a coalition of established shore communities and incoming maritime households besieged High Harbour, a stronghold retained by a detached Giant dynasty. Seized ships, captive relatives and demands for grain brought the allies together. Their commanders then quarrelled over supplies and captives, while local sea and wind powers intervened in the fighting.
+On the Arkenan–Saronikan approaches, a coalition of established shore communities and incoming maritime households besieged High Harbour, a stronghold retained by a detached Giant dynasty. Its tide answered to a bargain made with a speaking image of its founder, paid with the people its collection raids took. Seized ships, captive relatives and demands for grain brought the allies together. Their commanders then quarrelled over supplies and the image, whether to take it whole or break it, while local sea and wind powers intervened in the fighting. In the end the harbour's own craftspeople broke the image in the fire.
 
 [[The Siege and the Returnings]] follows the fall of the stronghold and the voyages afterwards. The Giant ruler died, but the victors broke promises, murdered inhabitants and carried people into slavery. Returning captains faced pursuit and altered households. A shipmistress who had failed to recover her husband helped other captives escape and joined an inhabited shore community where the survivors built a new vessel together. These different outcomes gave later maritime tellers histories of rescue and settlement alongside the celebrated siege.
 
@@ -70,7 +70,7 @@ Aurin producers participated through river and pack routes. Nerava transferred g
 
 ## Religion among travelling households
 
-Religious change accompanied settlement and exchange. Families preserved the Prophet's story while giving increased attention to powers associated with particular voyages, harvests or victories. In some recitals the Lord became a distant creator. Local offerings and borrowed rites occupied more of public life, while singers recast the Prophet as a heroic liberator favoured by the stars.
+Religious change began in hunger. The southern companies left the Glass in the years the provision stopped, carrying the rear camps' saying: *"The Lord who stopped feeding us; the stars that still answer."* A people fed daily for a century could not easily tell a finished task from abandonment. Settlement and exchange carried the change further. Families preserved the Prophet's story while giving increased attention to powers associated with particular voyages, harvests or victories. In some recitals the Lord became a distant creator. Local offerings and borrowed rites occupied more of public life, while singers recast the Prophet as Astronax, a liberator favoured by the stars who had ascended rather than died.
 
 Inland teachers contributed observations and sacred explanations inherited from the Giant period. Maritime tales supplied wandering divine figures, monstrous encounters and rivalries. These interpretations circulated for centuries before the royal [[The Common Sky and the Formation of Astratheon|Common Sky settlement]] at Caleran organised a shared public cult. Other cities made their own accommodations.
 

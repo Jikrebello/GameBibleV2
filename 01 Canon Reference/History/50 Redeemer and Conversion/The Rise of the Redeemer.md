@@ -37,7 +37,7 @@ Isfir spent his last evening in a household guest room with the Companions. He g
 
 ## The hearings and the Binding
 
-Qiryath's provincial charter protected its sacrifice, communal courts and burial jurisdiction. The Atherian governor could impose capital sentences for offences against imperial rule. The sanctuary archive and provincial chancery each kept the terms of referral. The governor had come to hear cases during the pilgrimage, when claimants from the surrounding towns were already in Qiryath. High Augur Severan of Astaroth accompanied his party and advised on public rites.
+Qiryath's provincial charter, drafted by a Qoreth scribe when Atheria took the sanctuary from Vashar under the late Serrats, protected its sacrifice, communal courts and burial jurisdiction. The Atherian governor could impose capital sentences for offences against imperial rule. The sanctuary archive and provincial chancery each kept the terms of referral. The governor had come to hear cases during the pilgrimage, when claimants from the surrounding towns were already in Qiryath. High Augur Severan of Astaroth accompanied his party and advised on public rites.
 
 Ezrahel questioned Isfir during the night. At first light a group of senior elders heard the charge that Isfir falsely claimed the authority of the Mesakha. Their witnesses disagreed about what he had said concerning the sanctuary, and one elder challenged the testimony. Ezrahel's majority referred the case to the governor as a charge of rival kingship and a threat to public order.
 

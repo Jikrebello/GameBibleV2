@@ -48,6 +48,12 @@ Iqashari registers call the raiding at its height, from about 975 to 1010, **the
 
 The blessing thins with each generation, so the danger to the Covenant was greatest while the herds were young, between about 960 and 1020, and declined slowly afterwards. Tarkhan genealogy measures that decline exactly. That is why the oldest sacred lines are priced above provinces, and why buyers at Mazrakan still ask how many generations stand between a foal and Grey Sister before they ask its price.
 
+## The Thinning and the black colt
+
+Tarkhan companies on the last strong lines still rode through a Thalmyric army at Qarath's Well in 1214, but by the 1230s the wind-speakers' counts showed the high lines failing. Clans had priced dowries, debts and word-prices in sacred foals for three centuries, and the steppe calls the decades when those foals lost their worth **the Thinning**.
+
+The grace came back in a single line. In the late winter of 1249 a grey mare of Grey Sister's line dropped a black colt too weak to stand in the camp of a minor Grass-Tarkhan herd-master. **Gavrin**, a Velian farrier taken from a Covenant well-fort that the plague had emptied, knelt in the snow and sang over it the old remount hymn that Velian villages kept as a blessing for sick animals. The colt stood that night. It grew into a stallion that walked up to a bound well-warden as if it were a fencepost, and its foals did the same. The herd-master took the horse's name, Qarayel, and built the Black Wind on its sons; see [[Qarayel and the Black Wind]]. The renewed grace thins by generation as Grey Sister's did, and by 1300 the black colt's grandchildren were thinning too.
+
 ## Navigation
 
 - [[The Divergence Pass — Torque Register]]

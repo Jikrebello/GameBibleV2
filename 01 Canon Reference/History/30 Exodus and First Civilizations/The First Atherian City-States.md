@@ -37,7 +37,7 @@ Founder stories often condensed several rebuildings into one heroic act. Their g
 
 Councils and magistrates acquired responsibilities for grain, water, defence and common spaces. Their authority depended on people able to provide labour and materials. Prominent families maintained influence through property, military followers and the sponsorship of festivals. In some cities royal households continued to govern alongside such councils.
 
-Citizen records and public archives preserved admissions, agreements and obligations. Shared measures and coinage helped exchange, while their enforcement created advantages for people controlling markets. Road crews and civic militias supported travel and military action. Captives and subject communities supplied much of the work required by larger projects.
+Citizen records and public archives preserved admissions, agreements and obligations. Shared measures, stamped ingots and ring-silver helped exchange, while their enforcement created advantages for people controlling markets. Road crews and civic militias supported travel and military action. Captives and subject communities supplied much of the work required by larger projects.
 
 Temples and observatories attracted teachers and pupils. Colleges concerned with older ruins studied inherited works, and public games supported performers and craft. These activities gave urban life attractions beyond protection and employment. They also furnished opportunities for sponsors to turn wealth into public standing.
 

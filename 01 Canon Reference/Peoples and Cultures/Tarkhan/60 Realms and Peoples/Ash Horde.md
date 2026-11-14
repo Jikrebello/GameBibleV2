@@ -13,7 +13,7 @@ tags: []
 ---
 # Ash Horde
 
-The Ash Horde controls the northeastern grasslands crossed by the [[Castaran Long Road]]. It combines horse-pastoral clans, great-horn hunters, road escorts, raiding banners, and foreign mercenary companies.
+The Ash Horde controls the northeastern grasslands crossed by the [[Castaran Long Road]]. It combines horse-pastoral clans, great-horn hunters, road escorts, raiding banners, and foreign mercenary companies. At the Partition of the Herds in 1304 its line took the eastern grass, the poorest of the black colt's grace-lines and the roads, and it has lived by the roads since. In 1333 Castaran surveyors staked wells across its pasture, which every Ash rider read as the Nine Wells again, and the banners burned the survey camps; the Ash Road Peace of 1334 followed.
 
 ## Ruler and Government
 

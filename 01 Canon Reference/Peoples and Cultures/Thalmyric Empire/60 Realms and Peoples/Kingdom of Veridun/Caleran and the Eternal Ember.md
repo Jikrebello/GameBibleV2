@@ -31,7 +31,7 @@ After Cassian legalized the faith in 292 AR, the congregation at Caleran could p
 
 The Ember is a tended flame with a continuous line of kindling. Its keepers supply fuel and replace wicks. The White Flame can act through the relic by commission. Custody gives the Patriarch responsibility for the lamp and its worship, while the divine gift remains free.
 
-Idris impounded the Ember in 905 AR. Covenant guards and keepers preserved it under property law and recorded their charges for fuel and custody. The lamp was burning when Caleran was recovered in 957 AR. Veridun paid their invoice.
+Idris impounded the Ember in 905 AR. Covenant guards and keepers preserved it as a deposit held for the final audit and recorded their charges for fuel and custody. The lamp was burning when Caleran was recovered in 957 AR. Veridun paid their invoice.
 
 ### Under Covenant guard, 905–957
 
@@ -45,7 +45,7 @@ Veridun's payment in 957 discharged the deposit and released the keepers' names.
 
 ## The Pillar of Concordance
 
-Atherian officers once read judgements at the Pillar in the Celestial Forum. The church kept the monument within the converted precinct, where pilgrims remember the officials who condemned the first witnesses and the people who died there. Caedros I died at the Pillar during the recovery of Caleran. Thalmyric witnesses reported that the White Flame descended on him. Eclessian relic courts continue to dispute the evidence for his canonization.
+Atherian officers once read judgements at the Pillar in the Celestial Forum. The nails from Isfir's execution, sent to Caleran in the governor's case chest as proof of the sentence, were leaded into the Pillar by the Purge commission in the year it burned Jareth there (c. 41 AR), as a monument to a sentence carried out; Cassian's grant of the precinct (c. 300–310) carried Pillar and nails to the Church. The church kept the monument within the converted precinct, where pilgrims remember the officials who condemned the first witnesses and the people who died there. Caedros I died at the Pillar during the recovery of Caleran. Thalmyric witnesses reported that the White Flame descended on him. Eclessian relic courts continue to dispute the evidence for his canonization.
 
 ## The Patriarchal Seat
 

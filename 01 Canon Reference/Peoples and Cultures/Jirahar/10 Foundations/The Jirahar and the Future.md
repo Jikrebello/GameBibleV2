@@ -33,7 +33,7 @@ Dominion circles believe waiting has become cowardice. They stock arms, seek coe
 
 ## Hidden Words Mystics
 
-Mystics argue that gathering may describe repaired relation rather than physical concentration, that Qiryath may be both city and spiritual condition, or that the first sign of the Mesakha will be the restored acceptance of sacrifice. Their ambiguity attracts both careful contemplatives and dangerous claimants.
+Mystics argue that gathering may describe repaired relation rather than physical concentration, that Qiryath may be both city and spiritual condition, or that the first sign of the Mesakha will be the restored acceptance of sacrifice. Mystics who hold that last view cite the cool stones of c. 654 BR: the Jirahar have outlived one withholding, and they remember that it ended. Their ambiguity attracts both careful contemplatives and dangerous claimants.
 
 ## After Meshalem
 

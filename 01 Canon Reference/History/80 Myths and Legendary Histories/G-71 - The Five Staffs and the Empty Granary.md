@@ -26,7 +26,7 @@ It is told in post-Prophet Glass-camp traditions, later municipal emergency rite
 
 ## Historical basis
 
-A commander rival to the commissioned scout-captain of [[G-56 - The Empty Seat Facing Outward|The Empty Seat Facing Outward]] used the newly mapped southern routes and public fear of delay to take grain before provisioners had completed the dependant counts. The expedition survived and reached viable country. Its success protected the commander, and the council repeated the levy over several seasons while reclassifying grain as seed, marching provision and advance settlement allotments.
+A commander rival to the commissioned scout-captain of [[G-56 - The Empty Seat Facing Outward|The Empty Seat Facing Outward]] used the newly mapped southern routes and public fear of delay to take grain before provisioners had completed the dependant counts. The expedition survived and reached viable country. Its success protected the commander, and the council repeated the levy over several seasons while reclassifying grain as seed, marching provision and advance settlement allotments. In the camps' memory the grain was the seed reserve itself, carried through the Glass years in sealed jars: the rear camps were eating it to live, and the expedition needed it in the ground before the last rains. Commander and judge were both right, which is why the quarrel never closed.
 
 The policy harmed many rear settlements. Two poorly connected camps with unusually high numbers of children, old people and other dependants suffered the clearest famine deaths. Three staff-holding officers can be securely placed at the final hearing: the commander, the chief provisioner who had objected and the judge. Later tellers turned household muster and public testimony into a fourth and fifth staff.
 
@@ -50,7 +50,7 @@ It makes a succession crisis hurt through hunger rather than titles. The command
 
 ## How tellers differ
 
-Atherian versions make the march unavoidable. Jirahar versions make the rear camps the faithful remnant. Ahdari jokes add a sixth staff belonging to the cook whom every office ignored. Records support three historical staff-bearers, not the tale's fixed five.
+Atherian versions make the march unavoidable. Jirahar versions make the rear camps the faithful remnant. Ahdari jokes add a sixth staff belonging to the cook whom every office ignored. Rear-camp songs call it the seed quarrel: the commander took tomorrow's fields out of today's bowls. Records support three historical staff-bearers, not the tale's fixed five.
 
 ## What remains
 

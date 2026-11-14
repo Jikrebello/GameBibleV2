@@ -45,6 +45,8 @@ The Long Watch maintains frontier chapels, evacuation routes, scouts, signal tow
 
 Its members spend more time preventing raids and moving civilians than fighting battles. War parties distrust its negotiated relationships across the border.
 
+The Kedravan houses keep the refuge monasteries' oldest rule, made under the occupation: drink no sworn water. A well, cistern or cup offered under a bargain binds whoever drinks from it, whether or not the drinker can read the terms. The rule's great day was at Qarath's Well in 1214. The army drank from a well whose guest-peace was cut into its curb and sickened at dawn when it took up arms against its host. The Kedravan monastic contingents had refused the water, and they formed up under Nikandros and withdrew in order with every wounded man they could carry. Long Watch parties on the frontier still carry their own water and read any script on a well-curb aloud before anyone drinks.
+
 Lay knights normally take poverty and obedience while retaining the right to marry. Their arms and armour are issued, repaired, and returned through the house. Prayer ropes are common personal devotional objects, but they neither confer ordination nor mechanically command the White Flame.
 
 The Long Watch may record one openly gifted field weapon as personal rather than issued property. The member remains responsible for declaring it, maintaining the order's ordinary safety rules, and distinguishing ownership from superior privilege. This narrow rule permits Bernard's post-Grenzburg sword to remain honestly his if he seeks reinstatement.
@@ -61,7 +63,7 @@ They reject the claim that injury proves sanctity. Their rule requires veterans 
 
 ## Ash Guard
 
-The Ash Guard is not a Church order. It is the emperor's household guard, recruited from Saltborn and baptized Ättar oath-families whose loyalty is sworn to the sovereign's person.
+The Ash Guard is not a Church order. It is the emperor's household guard, recruited from Saltborn and baptized Ättar oath-families whose loyalty is sworn to the sovereign's person. The Guard claims descent from the Ättar household guard of the later Corvenid emperors, whose crews sailed for Kedrava when Caleran fell in 905; Saltborn families tell the same story, and no record proves it.
 
 ## Retired Registers
 

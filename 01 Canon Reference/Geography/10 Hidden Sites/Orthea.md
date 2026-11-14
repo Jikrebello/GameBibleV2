@@ -23,6 +23,8 @@ Orthea occupied a side valley between the old Virelos and Velos corridors. Moder
 - the Empty Street remains an unbuilt corridor marking the destroyed district;
 - the sealed interval beneath the archive contains [[The Unwritten Worm]].
 
+Orthea led the Nine-Valley League and kept the Celestial Compact's archive until c. 513 BR, when the Compact's rolls were rebuilt at Caleran. Reader prose calls it the archive valley.
+
 Orthea does not appear in the public Gazetteer. Fragmentary Atherian texts refer to a missing campaign valley but do not preserve reliable directions.
 
 ## Navigation

@@ -13,13 +13,13 @@ tags: []
 ---
 # Emperor Caedros IV Aetherion
 
-Caedros IV, called **Ash-Blood**, was born around 1295 AR into a provincial branch of House Aetherion. He became famous as a frontier commander before inheriting an empire whose bureaucracy he respects, whose court he dislikes, and whose unfinished war has shaped nearly every choice of his adult life.
+Caedros IV, called **Ash-Blood**, was born around 1295 AR into a provincial branch of House Aetherion; his grandmother was a daughter of Nikandros I the Restorer. He became famous as a frontier commander before inheriting an empire whose bureaucracy he respects, whose court he dislikes, and whose unfinished war has shaped nearly every choice of his adult life.
 
 ## Rise on the Frontier
 
 Caedros trained at the war college of **Vatrin**, then rejected an early palace commission for service in Vlastrava and the Velian marches. He shared infantry rations, learned siegecraft from provincial engineers, and acquired a reputation for inspecting walls in person. His restraint with soldiers became as important to his legend as his victories.
 
-At **Chapel-Fort Orinel** in 1318 AR, his garrison survived a night assault while seven signal braziers failed one by one. Caedros led the dawn counterattack after the final light went out. Later songs turned the smoke into a great bird of fire; the Church records only an improbable victory and several credible acts of courage.
+At **Chapel-Fort Orinel** in 1318 AR, his garrison survived a night assault by Iron-mounted riders with devil-mantled escorts, the Covenant's new night raiders, while seven signal braziers failed one by one. Caedros led the dawn counterattack after the final light went out. Later songs say the bound riders smothered the fires and turned the smoke into a great bird of fire; the Church records only an improbable victory and several credible acts of courage. A Saronikan quartermaster's ledger found a generation later records the fort's oil bought from a contractor who cut it with water.
 
 ## The Crimson Pilgrimage, 1319-1322 AR
 
@@ -27,11 +27,11 @@ After Orinel, Caedros led a three-year circuit through contested Velian district
 
 ## Zehrim, 1324-1325 AR
 
-Caedros commanded the eight-month siege of Fort Zehrim. When the garrison capitulated, he accepted the surrender and protected the prisoners under military law. He then burned the captured contract engines, oath-ledgers, and instruments of imposed covenant on the fort's desecrated altar. The blackened cathedral later built there commemorates liberation from contract bondage, not the killing of surrendered defenders.
+Caedros commanded the eight-month siege of Fort Zehrim. When the garrison capitulated, he accepted the surrender and protected the prisoners under military law. He then burned the captured contract engines, oath-ledgers, and instruments of imposed covenant on the fort's desecrated altar. The blackened cathedral later built there commemorates liberation from contract bondage, not the killing of surrendered defenders. In 1326 the Covenant's Court of Breaches ruled that the people those ledgers had bound remained bound in the registers at Iqashar; Thalmyria calls them freed.
 
 ## Emperor
 
-Caedros acceded around 1329 AR. He codified frontier amnesties, strengthened provincial audits, and tried to distinguish recoverable civilian property from assets created through covenant enslavement. These reforms won him loyalty in mixed districts and hatred from land claimants who expected victory to erase every occupation-era title.
+In 1327 the summer flux killed both sons of the old emperor Stavren the Patient within a month. In 1328 Stavren adopted the hero of Zehrim over the objections of the Caleran houses, and when Stavren died the next year Caedros was crowned at Virelos, around 1329 AR. His claim to the Restorer's line rests on that adoption and on his grandmother's blood. He codified frontier amnesties, strengthened provincial audits, and tried to distinguish recoverable civilian property from assets created through covenant enslavement. These reforms won him loyalty in mixed districts and hatred from land claimants who expected victory to erase every occupation-era title.
 
 He is now about sixty-five: physically formidable, sleep-starved, and increasingly given to long devotional silences. His wife, Empress Vasilia of Vlastrava, died in 1357. Their elder son Nikandros died on the frontier in 1358. Princess Alexane, Prince Sophios, and the possibility of adoption now divide the court.
 

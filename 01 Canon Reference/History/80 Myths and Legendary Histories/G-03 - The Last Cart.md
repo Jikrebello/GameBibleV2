@@ -40,6 +40,14 @@ When the host moved, one wagon remained at the rear. Tellers make it the cart th
 
 No road appeared. Heat and reflected light erased the tracks between the camps. The Last Cart was seen once as a black shape beneath the white sky and did not reach the next water. Songs disagree over whether its people turned against one another, tried too late to follow or waited beside an image which never answered.
 
+## The rear camps' Last Cart
+
+The rear companies, who waited inside the Glass while the forward companies walked out and the provision failed around them, sing a different Last Cart. Theirs belongs to the crossing out, and it carried nobody important: an old woman past walking, two fevered children, a potter with crushed hands, a pregnant stranger and three dead whose families would not leave them behind.
+
+When the axle split, the drivers burned their own tent poles to make another, cooled the hot rim with drinking water and tore ceremonial cloth into bandages. For an hour shade lay over the cart where there was no cloud, and an empty water skin gave one last cup. Rear-camp singers call that hour the last day the sky fed anyone. The old woman died within sight of the next camp; one child lived and the other did not. At the next muster the cart's leader answered the provisioners' count by setting the dead child's shoe on the counting board, and from then on, the song says, the rear was counted before the front. The camps kept the custom while they were calm and forgot it whenever they were frightened.
+
+[[Age of Exodus]] tells both carts side by side.
+
 ## Why it is remembered
 
 The tradition places religious apostasy inside the Exodus generation rather than among distant enemies. Later teachers also distinguish deliberate restoration of the old cults from exhaustion, illness or becoming lost: weakness did not by itself make a traveller one of the Last Cart.
@@ -50,7 +58,7 @@ Some tellers portray every follower as a willing apostate. Others remember child
 
 ## What remains
 
-A damaged wheel-shaped loaf is still broken in some departure rites. The custom is accompanied by warnings not to confuse a person who cannot travel with one who has chosen a rival master.
+A damaged wheel-shaped loaf is still broken in some departure rites. The custom is accompanied by warnings not to confuse a person who cannot travel with one who has chosen a rival master. Where the rear camps' song is sung, the loaf's first portion goes to someone who cannot repay it.
 
 ## Read onward
 

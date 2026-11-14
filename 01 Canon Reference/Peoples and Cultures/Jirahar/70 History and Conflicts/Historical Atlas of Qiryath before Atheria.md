@@ -223,6 +223,8 @@ By 350 BR, Qiryath was a populous pilgrimage and market city under Vasharan supr
 
 These traditions belong to different centuries and districts.
 
+Qiryath's passage from Vasharan to Atherian supremacy under the late Serrats is told in [[The Last Dynasties of the Age of Glory]].
+
 ## Read with
 
 - [[Historical Spine of the Jirahar]]
@@ -235,3 +237,4 @@ These traditions belong to different centuries and districts.
 - [[01 Canon Reference/History/30 Exodus and First Civilizations/Arqesh - River Cities, Kings and Deportation.md]]
 - [[The Arqeshite River Empire]]
 - [[Vashar and the Crown of Roads and Dawns]]
+- [[The Last Dynasties of the Age of Glory]]

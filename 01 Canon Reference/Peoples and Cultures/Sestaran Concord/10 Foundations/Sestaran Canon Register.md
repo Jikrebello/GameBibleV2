@@ -45,6 +45,13 @@ The Concord has no common sovereign, legislature, court, treasury, taxation, cit
 
 Vorthara occupies the mountain border knot between Thalmyria, Eclessia, and Sestara. Orsena lies at its eastern foot where the Eclessian road meets the Thalassian. Vardessa occupies the inland saddle between Fiorenzia, Vorthara, and Aversia. Sermora holds central islands; Castara is a distant detached enclave.
 
+## Historical Anchors
+
+- The Kept Doors (399 BR), sworn on one threshold by refuge households against Lethren Ostar's purchasing agents during the Spire Pursuit, are the oldest refuge oath Vortharan households still point to. They bound a few households, not the town, and the captive trade continued.
+- Caleran hired its first Sestaran Shell-fire cohorts in the succession war of 447–452 AR. In the Decadence the Sestaran cities revived charters older than the empire, Vardessa's the famous case, and sold ships and warlock contracts to the court in place of tax. A Sestaran warlock's brass fire-cup, sold to a Covenant factor at Sermora in 683, exposed the Copper Lamp.
+- The Medori fortune rests on the estates and Sendings of the Grey Sweat's dead, a Golden Book seat bought when the Sweat emptied a third of the Book, Bartolo Medori's purchase of Alessior VI's Primarchy (1281) and the Chancery of Sendings' master registers, held as surety since 1296.
+- The grass-toll of the Black Wind Years (1265–1300) turned Sestaran trade to the sea. Castara's route opened with the 1328 Breath-day crossing of the *Naris's Hand*.
+
 ## Language Boundary
 
 Direct historical and game-setting comparisons belong only in [[Real-History Concordance]]. Public canon uses setting-native institutions.

@@ -40,9 +40,11 @@ Its public colors are ash-grey, ember-red, and gold. The familiar saying, **“T
 
 - **Princess Alexane**, an experienced provincial governor supported by veterans and much of the chancellery;
 - **Prince Sophios**, a scholar in minor orders supported by old Caleran houses and church politicians;
-- **adoption**, likely of a proven commander, supported by officers who fear dynastic weakness.
+- **adoption**, likely of a proven commander, supported by officers who fear dynastic weakness: the precedent by which Caedros himself came to the throne, adopted by Stavren the Patient in 1328.
 
 Thalmyric law permits each path. Politics may not permit the losers to accept one.
+
+Since 1357 the emperor has kept silences of a day or more before the Great Lamp, and courtiers report that its flame stands still while he kneels. The Synod has not examined the reports. Courtiers call the silences kindling, grief or illness, and whoever persuades the court first may name the next ruler.
 
 ## The Crown and the Church
 

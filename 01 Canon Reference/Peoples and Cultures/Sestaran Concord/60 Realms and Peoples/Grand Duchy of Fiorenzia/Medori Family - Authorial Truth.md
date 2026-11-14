@@ -19,6 +19,10 @@ The family is not collectively loyal to Iqashar, Al-Ahdiya, or the Creditor. Mos
 
 The Bank's uncanny instruments partly derive from this inheritance and partly from what the family acquired through Alessior VI's Primarchy. The Under-Ledger has exploited Medori systems but does not secretly own the entire institution.
 
+## The Chancery Registers
+
+What the family acquired through Alessior VI's Primarchy is concrete: the master registers of the Chancery of Sendings, taken by Bartolo as surety in 1296. The family understands an unsung assurance letter as a lien, a retaining claim over a named soul's passage that a Patron, the Undertow or an infernal broker could press, and it has never sold one; the registers are leverage held, not stock traded. The Under-Ledger has tried to reach them. See [[Causality Pass - 09 The Road to 1360]] and [[The Grey Sweat - Authorial Truth]].
+
 ## Secrecy Rule
 
 Public notes may describe unusual clauses, impossible enforcement, sealed family archives, foreign rumors, and suspiciously old techniques. They must not state Covenant ancestry or identify the Creditor connection as fact.

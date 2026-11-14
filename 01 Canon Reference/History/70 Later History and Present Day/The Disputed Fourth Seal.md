@@ -40,7 +40,7 @@ The Velian cities were taken under Uthar's seal, and their pre-conquest charters
 
 [[The Witnessed Seal]] teaches that authority continues through public attestation and the community's jurists. [[The Sealed Blood]] teaches that succession continued through Ruqaiya and the Veiled Wasiyin.
 
-Both instruments reportedly survive. The Fourth Seal rests in the Vault of Names at Al-Qahur; Qazmarid claims the Counter-Instrument lies beneath the Caliph-Wasi's throne. Opening either for forensic examination would void the succession it might prove. The dispute is therefore decidable in principle and undecidable in practice.
+Both instruments reportedly survive. The Fourth Seal rests in the Vault of Names at Al-Qahur, in the Deep Vault, which since 1059 has been a separate house from the Living Register at Iqashar; Qazmarid claims the Counter-Instrument lies beneath the Caliph-Wasi's throne. Opening either for forensic examination would void the succession it might prove. The dispute is therefore decidable in principle and undecidable in practice.
 
 ## Present Day
 

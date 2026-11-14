@@ -61,6 +61,8 @@ Survivors, rival harbor crews, and defecting guards sealed the King beneath the 
 
 The seal weakens when refuge is knowingly refused, the dead are erased, and the old chain is treated as legitimate sovereign regalia.
 
+**Recorded recurrence, 466 BR.** When Pyrassa closed its chain against rebel hulls on Caleran's order, the King partly recurred under its breakwater: the harbour admitted no one, its own grain ships circled on one wave and the signals contradicted one another. Pyrassa's wardens cut their chain and the recurrence ended. The Chain Peace of 461 made refuge law for any vessel in distress and laid a copy of the Roll at Ilamar. See [[The Refusal at Kelarion#The Roll's Later Descent]].
+
 ## Permanent Defeat
 
 Destroying a body only drives the King back beneath the breakwater. Permanent victory would require preserving truthful memory, restoring practical sanctuary, destroying every cult anchor, confronting the authority that repeats Kelarion's refusal, and closing the original wound while the dragon is manifest.

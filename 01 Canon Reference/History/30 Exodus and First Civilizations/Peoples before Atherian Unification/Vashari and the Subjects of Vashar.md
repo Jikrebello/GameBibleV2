@@ -18,7 +18,7 @@ The **Vashari** were the related Orphaned peoples of the eastern highlands. The 
 
 ## The highland people
 
-Vashari households occupied valleys, plateaux and passes divided into three principal regional worlds. **Kavreshi** communities controlled western approaches and maintained frequent relations with the river country. **Ruzhani** households inhabited the central crownlands from which House Tiravan drew much of its early support. **Daryami** communities lived among eastern uplands and routes leading towards the far sea.
+Vashari households occupied valleys, plateaux and passes divided into three principal regional worlds. **Kavreshi** communities held the grain and fruit terraces of the Kavresh valley, from which House Tiravan rose, and maintained frequent relations with the river country. **Ruzhani** households held the high central pastures, bred horses and supplied the mobile aristocratic houses whose cavalry the Tiravans married into. **Daryami** communities lived among eastern uplands and routes leading towards the far sea.
 
 These names described regional affiliations within a broader people. Vashari speech, marriage, seasonal gatherings and hearth worship connected communities whose rulers often fought one another.
 

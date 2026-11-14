@@ -29,7 +29,7 @@ Hidden Words practitioners cannot command time, guarantee prophecy, summon route
 
 ## Factions
 
-Some mystics read the silence of sacrifice as judgement on Qiryath. Others call it concealment during exile. A forbidden minority suspects the silence began because the covenant reached fulfilment in Isfir; discovery of that belief can divide a household or provoke expulsion.
+Some mystics read the silence of sacrifice as judgement on Qiryath. Others call it concealment during exile. Mystics who hold that the first sign of the Mesakha will be restored acceptance cite the cool stones of c. 654 BR: the Jirahar have outlived one withholding, and they remember that it ended. A forbidden minority suspects the silence began because the covenant reached fulfilment in Isfir; discovery of that belief can divide a household or provoke expulsion.
 
 ## Navigation
 

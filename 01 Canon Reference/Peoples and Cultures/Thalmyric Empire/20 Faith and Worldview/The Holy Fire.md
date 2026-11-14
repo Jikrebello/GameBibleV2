@@ -37,11 +37,15 @@ Warlock scripts draw elemental force from the Shell. Their flame burns according
 
 A warlock cannot script the White Flame. A commander who substitutes Shell-fire while claiming a miracle commits fraud and may create a breach.
 
+Between the fifth and ninth centuries the imperial court hired Shell-fire to fill ranks its hymns no longer filled, and then to finish accession rites that failed to kindle. The Copper Lamp of 681 is the first known case; Thalmyric chroniclers call the age the Guttering.
+
 ## Weaponization
 
-The Caleran campaign produced the first documented battle manifestations. The Church permits bearers to protect people and destroy active corruption. It does not recognize a sacrament as artillery.
+Thalmyric doctrine dates the first battle manifestations it recognizes to the Caleran campaign of the 950s, when refugee war-lamps kindled against devil-mantles and soulbound engines. Older reports exist outside its records: Aurelium's register of answered fire holds the Captain of the Sacrificial Wind's rescue on the river marches about 866, which Caleran's clergy never wrote down. The Church permits bearers to protect people and destroy active corruption. It does not recognize a sacrament as artillery.
 
-Military institutions repeatedly attempt to standardize kindling. Their failures injure bearers, produce ordinary fire under holy names, or reveal that an unworthy unit possesses no command over the Fire.
+Military institutions repeatedly attempt to standardize kindling. Their failures injure bearers, produce ordinary fire under holy names, or reveal that an unworthy unit possesses no command over the Fire. The example every seminarian learns is Leovar IV's Master of Lamps, who in 1029 carried the wayhouse lamp of Pelin's Bridge to the siege of Meliton and forced it against the name-bound garrison before both armies. The fire took him, and he burned to death in front of the siege lines. The court read the burning as proof that lamps were too dangerous for private hands and sealed every lamp in the empire except the Great Lamp and the Ember in crown lamp-houses. That Impounding lasted until Theodosia's Rekindling of 1052.
+
+The district lamps of the War of the Southern Deeds (1131–1139) taught the opposite lesson. Nobody aimed them. They took the Flame on farmhouse walls while families held their doorways and granary lofts against the mercy towers, and at Kolonna in 1134 the lamp at the emperor's own saddle kindled while he carried children out of a burning granary. Eclessian examiners who came to test the district lamps afterwards found them unremarkable, because they burned only in defence.
 
 ## Discernment
 

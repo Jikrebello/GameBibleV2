@@ -18,7 +18,9 @@ The Medori are Fiorenzia's ruling ducal and banking house. Their public legitima
 
 ## Rise
 
-Bartolo Medori the Elder expanded a regional bank into an international clearing and lending house. The family used wealth, marriage, patronage, and a controversial payment to enter Fiorenzia's patriciate. Lauro the Magnificent made Medori culture fashionable enough that rivals learned to imitate the family they despised.
+**Bartolo Medori the Elder** (c. 1215–1301) expanded a regional bank into an international clearing and lending house. When the Grey Sweat emptied about a third of the houses in Fiorenzia's Golden Book, the senate sold seats to keep a quorum, and in 1238 Bartolo bought one with a genealogy rivals still call counterfeit. His house cleared the estates of the plague dead and, from 1252, carried the payments of the living to the Sending Houses that sang rites for them. In 1281 his credit bought the Primarchy for Alessior VI. When Alessior died in 1296 owing more than the Primarchal State could pay, Bartolo took the master registers of the Chancery of Sendings as surety, and the Sanctum has never redeemed them.
+
+His grandson **Lauro the Magnificent** (1289–1341) made Medori culture fashionable enough that rivals learned to imitate the family they despised. In 1345 a Sermoran pamphlet printed extracts from the registers in the Medori vault, naming Fiorenzian dead whose Sendings had been paid for and never sung, and called the vault the Bank of the Dead. The city expelled the family in 1346 and Frate Severin held it until 1349, when the Medori returned with Aversian lances.
 
 ## Present House
 

@@ -24,15 +24,15 @@ It is told among related Folk and Ättar communities of the southern cold belt, 
 
 ## The tale
 
-Two related clans held halls a week's march apart. The southern clan became trapped in a feud and sent the ancient split antler that required every cousin to come armed. The southern hall made ready to answer until its youngest herder found Grobi signs under the snow: split hoofprints around the lambing caves, stolen iron and a child's mitten pinned to a thorn.
+Two related clans held halls a week's march apart. The northern clan became trapped in a feud and sent the ancient split antler that required every cousin to come armed. The southern hall made ready to answer until its youngest herder found Grobi signs under the snow: split hoofprints around the lambing caves, stolen iron and a child's mitten pinned to a thorn.
 
-The southern captain kept the warriors home. The southern hall burned before relief came, and the survivors spat at their cousins for choosing sheep and walls over blood. Then the Grobi attacked the north. They came through the lambing caves while the warriors watched the open slope, killed children in the smoke and carried off captives before the defenders drove them away.
+The southern captain kept the warriors home. The northern hall burned before relief came, and the survivors spat at their cousins for choosing sheep and walls over blood. Then the Grobi attacked the south. They came through the lambing caves while the warriors watched the open slope, killed children in the smoke and carried off captives before the defenders drove them away.
 
-The southern survivors marched south too late for vengeance and too ruined to offer shelter. Around the ashes, one widowed aunt struck the captain with half the antler. He did not defend himself. He set the other half above a new hall facing the caves and swore that his people would never again leave the threatened house for a distant feud.
+The northern survivors marched south too late for vengeance and too ruined to offer shelter. Around the ashes, one widowed aunt struck the captain with half the antler. He did not defend himself. He set the other half above a new hall facing the caves and swore that his people would never again leave the threatened house for a distant feud.
 
-The southern kin answered that a people who chooses walls over cousins will one day have walls and no cousins. From then on, the two branches shared marriage and song more easily than command.
+The northern kin answered that a people who chooses walls over cousins will one day have walls and no cousins. From then on, the two branches shared marriage and song more easily than command.
 
-Years later, southern children sheltered in the southern hall during another raid. They were received as kin but their warriors were not given authority over the watch. Affection survived where the old political obligation did not.
+Years later, northern children sheltered in the southern hall during another raid. They were received as kin but their warriors were not given authority over the watch. Affection survived where the old political obligation did not.
 
 ## Why it is remembered
 
@@ -40,7 +40,7 @@ It makes cultural divergence grow from a choice in which every path contained re
 
 ## How tellers differ
 
-Ättar songs say the Grobi scouts planted the antler summons to empty the north. Folk songs call that a later excuse. Some border tellers name a particular Grobi pack as the inventor of the ruse, but no Grobi genealogy can make the captured children its ancestors: humans do not enter Grobi continuity through capture.
+Ättar songs say the Grobi scouts planted the antler summons to empty the southern watch. Folk songs call that a later excuse. Some border tellers name a particular Grobi pack as the inventor of the ruse, but no Grobi genealogy can make the captured children its ancestors: humans do not enter Grobi continuity through capture.
 
 ## What remains
 

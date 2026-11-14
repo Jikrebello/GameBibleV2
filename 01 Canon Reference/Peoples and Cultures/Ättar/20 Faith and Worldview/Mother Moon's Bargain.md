@@ -23,6 +23,8 @@ Savar of Red Shoal, Torvek of Hornwall, Brennar of Stoneden and Eldran of Grey P
 
 The Pale Household answered the wording rather than an unspoken intention. Savar received the Lion form, Torvek the Ox, Brennar the Bear and Eldran the Wolf. Each form passed through the named chief's paternal line as a qualification for office. The broader oath population received no hybrid body. It received the lesser bodily rage which later spread through descent and intermarriage.
 
+The exchange follows the named-petitioner rule in [[Menhir Sovereignty and Bargain]]; compare Meya of Narash's sealed wells in [[Vathra and the Great Unyoking]].
+
 ## Renewal
 
 Every old-rite hall chooses a male chief from an eligible paternal pact line. At installation he must transform publicly before the free hall assembly. A failed transformation proves that the line lacks moon-right.

@@ -40,7 +40,7 @@ Unlike the Cold-Plug King, no substitute body supplies release mass. The decisiv
 
 ### The peace not sold
 
-In a lesser successor-state feud, c. 1190–1220 AR, the Oathbreaker's agent arranged a surrender which genuinely saved a ruler's household. Once the captives were safe, it offered the ruler his enemy's defenceless children and urged him to avenge an earlier murder. The ruler had promised protection freely. Now the agent needed a free betrayal after the benefit had been received.
+In Vlastrava, around 1220, during the civil wars after Qarath, the Oathbreaker's agent arranged a surrender which genuinely saved the household of King Stanimir. Once the captives were safe, it offered the ruler his enemy's defenceless children and urged him to avenge an earlier murder. The ruler had promised protection freely. Now the agent needed a free betrayal after the benefit had been received.
 
 The ruler refused, although his own brother called that refusal disloyal and killed the mediator. The surviving children were returned under guard; one household had kept its promise while another crime remained unpunished. The choice-lock stayed closed. Later tellers wrongly made the ruler universally merciful. No future peace is predestined to repeat or reverse this failure.
 

@@ -21,7 +21,7 @@ Thalmyric sacred architecture is layered rather than stylistically uniform. A ch
 
 Icons present the Redeemer, Amaryah, companions, saints, and scriptural events as witnesses within worship. They are honored, carried, kissed, and illuminated; they are not worshiped as gods or treated as objects that compel the White Flame.
 
-The First and Second Breakings taught households to hide icons and lamps inside wells, ovens, walls, and granaries. Rediscovered caches remain common sources of local conflict.
+The First and Second Breakings taught households to hide icons and lamps inside wells, ovens, walls, and granaries. When Empress-Regent Anthe summoned the Council of the Thousand Lamps to Veridun in 1013, families carried in lamps they had kept hidden for twenty-six years, and witnesses swore that some were still burning when they were lifted out of the water. Monasteries that keep these **well-lights** venerate them; Leovarist officers said at the time that the monks had relit them on the road, and the Synod has never ruled between them. Rediscovered caches remain common sources of local conflict.
 
 ## The Church Interior
 

@@ -34,6 +34,10 @@ The Basin captains would not re-swear without land. In 938 they took estates in 
 
 In 1059 Sultan-Caliph Tamim divided the Vault of Names. Its old halls at Al-Qahur, which already held the founding instruments and the Fourth Seal, became the **Deep Vault**. The names of the dead and the surrendered names of the Unnamed Custodians came south from Iqashar to join them in a train of sealed chests that took eleven days on the Basin road, while villagers covered their wells as it passed. Al-Qahur has held the name of Iqashar's chief registrar ever since. The Basin starved in the Two Winters of 1101–1103, when the grain failed under ash-grey skies, and its farmers were saved from ruin by the Court of Breaches' grey-sky ruling that a contract which cannot be performed is suspended rather than voided.
 
+## The Sweat and the Pageless Prince, 1236–1252
+
+The Grey Sweat fell heavily on the Basin. Its witnesses died faster than the bound, the Deep Vault's registers of the dead stopped balancing against Iqashar's living ones, and the military households' fixed-term leases of 938 ran out while their sons died holding frontier forts whose oaths had lost their witnesses. In 1249 **Prince Qaydar**, a Qahirid cousin lodged in the walled garden at Al-Qahur, walked out: the register volume that held his lodged name had been burned with plague bedding, and the Court of Breaches ruled *no page, no lodging*. The Basin's military households rose for him. The Ahdanite Guard, whose officer bench had witnessed the reigning Sultan-Caliph's accession, fought for the throne it had witnessed, and the Pageless Prince was taken and killed in 1252. Since then the Cull of Brothers has used the knife, the canal councils have contested estates held on leases long expired, and every accession has been witnessed by the Guard bench at Iqashar as well as acknowledged at Al-Qahur.
+
 ## Sacred Authority
 
 Caliph Uwais, Custodian-of-the-Wells, guards the pilgrimage sites, the remembered Covenant of the 4,444, and the Vault containing the Fourth Seal. His acknowledgment gives Qahirid rulers sacred legitimacy; his silence can wound them.

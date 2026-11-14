@@ -25,7 +25,7 @@ The Emperor is neither priest nor divine. His duty is to preserve an empire devo
 
 ## The Chancellery
 
-Grand Chancellor Prokopia directs treasury, provincial accounts, appointments, correspondence, and the imperial calendar. The Master of Lamps administers the Rekindling relay and palace. Provincial courts use imperial law alongside local charters and Church jurisdiction.
+Grand Chancellor Prokopia directs treasury, provincial accounts, appointments, correspondence, and the imperial calendar. The Master of Lamps administers the Rekindling relay and palace. The office was once used to impound the empire's lamps: from 1029 to 1052 its officers sealed every lamp but the Great Lamp and the Ember in crown lamp-houses, until Theodosia remade it to run the relay that relit them all from the Ember. Provincial courts use imperial law alongside local charters and Church jurisdiction.
 
 ## The Holy Synod
 
@@ -47,7 +47,9 @@ The [[01 Canon Reference/Peoples and Cultures/Velian/60 Realms and Peoples/Velia
 
 ## Cities and Countryside
 
-Chartered cities possess courts, guilds, walls, water rights, and representation unavailable to most villages. Rural districts answer through landholders, monasteries, military tenure, and provincial assemblies. Population and authority therefore continue to move cityward.
+Chartered cities possess courts, guilds, walls, water rights, and representation unavailable to most villages. Rural districts answer through landholders, monasteries, military tenure, and provincial assemblies.
+
+Military tenure is older than the empire. Before the Fall about a dozen kindled marches held the old frontier, each under a single charter sworn in the Fire and renewed at every accession by the emperor in person, kneeling before a frontier monk on whom the Flame came; march land was held for service and paid no tax. Thalmyria's military provinces descend from those marches. Caedros III renewed the pattern after the Two Winters, settling the emptied frontier as military districts in which each holding owed a lance in war and a lamp lit from the Rekindling relay every year. Population and authority therefore continue to move cityward.
 
 ## Antiquities Jurisdiction
 

@@ -51,7 +51,7 @@ That was enough.
 
 I fought through the **Basilica Gate**, a breach where the wall had never been repaired after the first sacking. They had lined it with pikes and burning pitch, and the first three waves of our men died screaming. I thought I would, too.
 
-Then came the thunder. Not divine, not storm—but drums and hooves. Caldrian knights on the left flank, roaring down the narrow corridor like the charge of angels. Behind them, mages from **Vorthara**, cloaked in chain and shadow. I saw a spell tear a golem in half. I saw a woman bleed fire from her hands and kiss a prayer into the air before falling dead.
+Then came the thunder. Not divine, not storm—but drums and hooves. Caldrian knights on the left flank, roaring down the narrow corridor like the charge of angels. Behind them, mages from **Vorthara**, cloaked in chain and shadow. I saw a spell tear the gate's portcullis in half. I saw a woman bleed fire from her hands and kiss a prayer into the air before falling dead.
 
 We got through.
 
@@ -65,7 +65,7 @@ We found the square where they’d burned the relics. Where they’d strung the 
 
 He didn’t shout. He didn’t gloat. He walked through the city like a mourner.
 
-They say he found the sanctuary. That he drove the sword into the steps. I didn’t see that.
+They say he went into the old forum, to the Pillar, and the Flame came down on him there and left nothing but his armour and the sword on the steps. I didn’t see that.
 
 What I saw was a man covered in dust, his shoulders bent like he carried not just a blade, but every broken promise of a dead empire.
 

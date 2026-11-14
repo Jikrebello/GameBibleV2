@@ -24,7 +24,7 @@ Emperor Corvenas III ruled from Caleran's Ash Hall, an imperial palace turned re
 
 Qahir ibn Ruzbeh rebuilt the Covenant war machine between roughly 885 and 902 AR around mass levies, permanent Shell extraction, siege-golem foundries, contract logistics and disciplined frontier intelligence. It rested on a ruling he had won in 885–886: the old clause binding the 4,444 to "take nothing that is not given" bound parties, not powers, so beasts from Hell, the forfeited names of the condemned and nameless constructs could all go to war. His capture companies worked the routes into mapped Hell. His foundries hammered name-cages and fed them from a docket of breach-court death sentences. Coerced Ahdanite levies became engineers and foundry crews, and supply contracts were sealed in the Vault of Names.
 
-The engines most feared in 905 were the smallest. Lesser Surrender engines and their siege tables travelled with the breach-court train, read each district's title and offered each district its own terms. His successor Idris al-Fattah inherited five great engines: three Depth-Core frames driven by captured Hell fauna and two Slave-Soul frames holding executed human prisoners. Thalmyric soldiers called the Slave-Soul frames *martyr irons* and believed the first cages held Second Crusade prisoners whom Caleran had never ransomed, condemned under Qahir's ruling of 884. The Covenant's registers list them only as condemned.
+The engines most feared in 905 were the smallest. Lesser Surrender engines and their siege tables travelled with the breach-court train, read each district's title and offered each district its own terms. The first great Surrender Engine, a mercy tower, was finished at Iqashar only around 944. His successor Idris al-Fattah inherited five great engines: three Depth-Core frames driven by captured Hell fauna and two Slave-Soul frames holding executed human prisoners. Thalmyric soldiers called the Slave-Soul frames *martyr irons* and believed the first cages held Second Crusade prisoners whom Caleran had never ransomed, condemned under Qahir's ruling of 884. The Covenant's registers list them only as condemned.
 
 ## The Campaign, 902–905 AR
 
@@ -62,7 +62,7 @@ After Caleran, a Qahirid army attempted to force the Caldrian road into Eclessia
 
 ## Occupation
 
-Covenant government secured ports, aqueducts, roads, archives, and productive estates. Repopulation combined garrison families, clients, contract-bound locals, imported labour and transplanted subjects. These communities made occupation durable and later return legally explosive.
+Covenant government secured ports, aqueducts, roads, archives, and productive estates. Idris bound the army and the surrendered southern cities to himself by name, with his heir written in as successor-holder. The Atherian remount studs his clerks listed for seizure were driven north by their handlers, and the occupation remained an army of camels and foot. Repopulation combined garrison families, clients, contract-bound locals, imported labour and transplanted subjects. Bound survivors' names sat in local name vaults, whose custodians seldom made the release entry the law required at death. These communities made occupation durable and later return legally explosive.
 
 ## Navigation
 

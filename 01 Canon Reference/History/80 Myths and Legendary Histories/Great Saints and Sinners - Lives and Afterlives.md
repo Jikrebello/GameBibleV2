@@ -17,6 +17,8 @@ These fourteen lives are now historical entries rather than a promised future br
 
 The public traditions remain distinct from the authorial certainty of judgement. A person may be genuinely redeemed despite a guilty mortal past; a cult may still lie about that life. A Sinner may preserve considerable ability without retaining any right to rule.
 
+The reader-facing version of these lives, told as the chronicles tell them, with their wonders, consequences and in-world quarrels and without this file's judgements, is [[Saints and Sinners of the Chronicles]]. Public articles link there, never here.
+
 - [[GS-01 - Witness at the Red Passage|Witness at the Red Passage]] — c. 180–226 AR.
 - [[GS-02 - Preacher of the Second Gospel|Preacher of the Second Gospel]] — c. 330–382 AR.
 - [[GS-03 - Hunter of the Shutwood|Hunter of the Shutwood]] — c. 708–781 AR.
@@ -44,6 +46,7 @@ Two late-frontier people suffered different attacks on memory. One was erased by
 
 The four unused source comparisons are reconsidered in [[Additional Mortal Lives and Frontier Traditions]]. They do not enlarge this constellation or become a second hidden generation.
 
+- [[Saints and Sinners of the Chronicles]]
 - [[World Historical Atlas MOC]]
 - [[Heavenly Campaigns and the Human Dead]]
 - [[Infernal Kings and the Wars of the Depth]]

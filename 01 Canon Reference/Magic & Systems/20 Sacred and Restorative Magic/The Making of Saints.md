@@ -41,6 +41,8 @@ The Flame answers the righteousness and purpose of a person rather than the pres
 
 A true posthumous manifestation confirms the particular commission under which the redeemed person has appeared. It gives no general approval to every claim made by that person's earthly admirers. Counterfeit apparitions, persona echoes, Patron imitations and [[Borrowed Saints]] may appear even around genuine relics.
 
+A signed deed can settle who keeps the building while the flame or saint remains free to answer. A profession made under compulsion is incoherent and does not kindle (the Second Silence, 385). See [[Signs and Proof - Authorial Truth]].
+
 ## Navigation
 
 - [[Magic & Metaphysics MOC]]

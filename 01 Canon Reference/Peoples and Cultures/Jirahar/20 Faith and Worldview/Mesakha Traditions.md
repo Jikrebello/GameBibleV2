@@ -29,7 +29,7 @@ A claimant must demonstrate command of the Scrolls without rehearsed trickery, r
 
 ## Qiryath
 
-The Empty City's perpetual charter forbids rebuilding before recognition of the Mesakha. Pilgrims may enter marked courts, mourn, study, and remove nothing. Its silent Way-Gate is treated as the most dangerous possible sign.
+The Empty City's perpetual charter forbids rebuilding *before the Mesakha*, words Emperor Vestian wrote in his own hand c. 396 AR; Jirahar jurists gloss them as "before recognition of the Mesakha", and the charter names no one to do the recognising. Pilgrims may enter marked courts, mourn, study, and remove nothing. Its silent Way-Gate is treated as the most dangerous possible sign.
 
 ## Meshalem
 

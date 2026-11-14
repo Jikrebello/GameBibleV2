@@ -24,7 +24,7 @@ Gateway households combined cultivated land with access to a port, carrying hous
 
 Marriage joined these occupations and linked towns. Manumission allowed some enslaved workers to establish households, although creditors and former owners often retained claims over their labour. Local adoption brought orphans and displaced relatives into a recognised house. Town admission governed the right to own land, use common water, receive protection and bury relatives in civic ground.
 
-Religious life drew upon several inheritances. Families honoured local patrons and ancestors, carried rites associated with wells and sea roads, and received cults introduced by merchants or rulers. The cult of the Bronze-Faced Provider became influential in Qarzeth through its sacrificial institutions.
+Religious life drew upon several inheritances. Families honoured local patrons and ancestors, carried rites associated with wells and sea roads, and received cults introduced by merchants or rulers. The cult of the Bronze-Faced Provider became influential in Qarzeth through its sacrificial institutions. Its festivals fed the capital, and in the republic's last century its granaries filled while the dependent towns' stores emptied. After the city fell, the spared towns bound themselves with the Table Oath sworn over a shared meal at Sarqen.
 
 ## Qarzethi citizenship
 

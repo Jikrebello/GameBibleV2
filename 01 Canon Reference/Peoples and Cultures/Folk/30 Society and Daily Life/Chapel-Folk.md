@@ -17,7 +17,7 @@ The Chapel-Folk are Redeemer-faithful Folk communities. Conversion changes worsh
 
 ## The Bent Oak Precedent
 
-Weylan Oath-Bent accepted baptism around 1005 AR after resisting Adalmar's expansion. His descendants became the **Bent Oak**, the lineage invoked whenever a Folk community seeks baptism without surrendering its peoplehood. Old-rite clans use "bent oak" for honorable survival with an edge of accusation. Chapel-Folk answer that a bent oak remains alive.
+Weylan Oath-Bent accepted baptism around 1005 AR after resisting Adalmar's expansion for twenty years, and named his price: the lake. Under the **Peace of the Bent Oak** the march charters forbade any bell within hearing of Wolfsmere, any boat on its water and any iron in it, the law the Lakekeepers had already laid down. Every later Chapel-Folk bargain is measured against that one, a baptism paid for with a holy place kept. His descendants became the **Bent Oak**, the lineage invoked whenever a Folk community seeks baptism without surrendering its peoplehood. Old-rite clans use "bent oak" for honorable survival with an edge of accusation. Chapel-Folk answer that a bent oak remains alive.
 
 ## Faith and Custom
 

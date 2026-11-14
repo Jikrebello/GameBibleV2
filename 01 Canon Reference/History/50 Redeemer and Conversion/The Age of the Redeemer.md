@@ -41,7 +41,7 @@ Food, illness, childbirth and the care of the dead supplied the daily work behin
 
 The Great Tower Revolt of 66–73 AR brought initial victories, factional conflict and siege. Second Qiryath fell in 70 AR and the last fortress in 73. Atheria ended Qiryath's charter government and put the city under direct provincial rule. Many displaced Jirahar found refuge beyond imperial jurisdiction. Some of Qiryath's believers went with them, and others found homes among congregations already established within the empire.
 
-During the Underground Centuries, 1–291 AR, local officials, emperors and mobs acted differently. Some congregations flourished long enough to acquire property before losing it. Others survived through service households and burial fraternities. Magistrates who had watched lamp cults and grave cults feed on soldiers' grief saw the same signs in congregations that kept lamps at executed men's graves, and Tervan Marcellan's edict of 249 licensed every household's grave-lamps after a cult called the Kept Lamps had fed mutinies in the eastern garrisons. Their local histories survive in the [[Great Saints and Sinners - Lives and Afterlives|Lives and Afterlives]] and in [[Saints and Sinners of the Chronicles]].
+During the Underground Centuries, 1–291 AR, local officials, emperors and mobs acted differently. Some congregations flourished long enough to acquire property before losing it. Others survived through service households and burial fraternities. Magistrates who had watched lamp cults and grave cults feed on soldiers' grief saw the same signs in congregations that kept lamps at executed men's graves, and Tervan Marcellan's edict of 249 licensed every household's grave-lamps after a cult called the Kept Lamps had fed mutinies in the eastern garrisons. Their local histories survive in [[Saints and Sinners of the Chronicles]].
 
 In the generations after Qiryath, municipal recovery, wars with Vashar, southern border treaties and the rising at Sarqen reshaped the empire around these congregations. [[Atheria between Qiryath and Cassian - Emperors Wars and Revolts|Atheria between Qiryath and Cassian]]
 
@@ -77,4 +77,4 @@ The era's Lives were copied and contested long afterwards. A Saint's earthly rep
 
 Smaller local histories and restored reserve leads: [[Additional Mortal Lives and Frontier Traditions]].
 
-Lives with independent later histories: [[Great Saints and Sinners - Lives and Afterlives]].
+Lives of the age's great saints and sinners as the chronicles tell them: [[Saints and Sinners of the Chronicles]].

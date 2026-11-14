@@ -17,7 +17,7 @@ The Great Tower Revolt began in 66 AR against Atherian rule. In 70 AR the legion
 
 ## Causes
 
-After Isfir's death, the silence of sacrificial acceptance divided Qiryath. Militants claimed the sign would return when foreign rule ended. Cautious houses feared another Arqeshite ruin and tried to preserve the charter. In 66 AR the governor's officers took money from the sanctuary treasury on the pretext of arrears. When people protested, soldiers killed demonstrators near the sanctuary. Intermediaries tried to arrange payment and secure the withdrawal of troops. Militant priests stopped the offering made on behalf of the emperor, and the garrison lost its local supply and protection.
+After Isfir's death, the silence of sacrificial acceptance divided Qiryath. Militants claimed the sign would return when foreign rule ended. They cited the Trial before the Stars, when the sign had stayed silent before an Atherian governor's augur. Older houses answered that the Withholding had ended under a Vasharan king, at an offering carried by households the severe faction of that day wanted expelled. Cautious houses feared another Arqeshite ruin and tried to preserve the charter. In 66 AR the governor's officers took money from the sanctuary treasury on the pretext of arrears, under the charter's clause that made the sanctuary's dues surety for the tribute. When people protested, soldiers killed demonstrators near the sanctuary. Intermediaries tried to arrange payment and secure the withdrawal of troops. Militant priests stopped the offering made on behalf of the emperor, and the garrison lost its local supply and protection.
 
 ## Revolt, 66 AR
 

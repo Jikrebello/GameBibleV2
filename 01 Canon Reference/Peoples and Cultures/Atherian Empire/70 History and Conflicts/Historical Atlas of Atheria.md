@@ -57,7 +57,7 @@ Caleran recovered the Compact from Eryndor's western regent. It received displac
 
 ## The overseas republic and the spared towns
 
-The [[The Gateway Republic|Gateway Republic]] grew in the country of the later Qabir–Zanthir gateway from Ahdari migrants and older coastal communities. Its cultivated districts, ships and dependent towns supported a powerful maritime state. The [[The Gateway Wars|wars with Caleran]], around 650–520 BR, began over ports, continued through an invasion aimed at breaking Atherian alliances and ended with the destruction of the rival capital.
+The [[The Gateway Republic|Gateway Republic]] grew in the country of the later Qabir–Zanthir gateway from Ahdari migrants and older coastal communities. Its cultivated districts, ships and dependent towns supported a powerful maritime state. The [[The Gateway Wars|wars with Caleran]], around 660–520 BR, began over bread sold at a festival table in the market of Tammur, continued through an invasion whose gifts of grain emptied the stores of Caleran's allies and ended with the destruction of the rival capital.
 
 Ending the capital's child sacrifices was a major cause of the final intervention. Internal opponents and threatened families helped the Atherians break the institution. The victory also brought massacre, rape, enslavement and the deliberate salting of the razed city. Lesser towns were spared planned destruction and retained the households, food production and ports from which [[The Spared Towns and the Queen's Country|a later royal country]] developed.
 
@@ -65,7 +65,7 @@ These wars increased Caleran's dependence on inner-sea allies and suppliers whil
 
 ## Empire and later history
 
-[[The Last Generations of the Caleran Republic]] follows land disputes, unequal citizenship and the careers of Marovan Veyr, Lethren Ostar and Teren Casvilar. [[The Southern Campaigns of Teren Casvilar|Casvilar's conquests]], principally in 390–379 BR, brought wealth and captives to Atherian households while defeating organised resistance among inhabited forest districts. His victory over Veyr gave him personal supremacy at Caleran; his assassination in 370 opened another struggle over armies and inheritance.
+[[The Last Generations of the Caleran Republic]] follows land disputes, unequal citizenship and the careers of Marovan Veyr, Lethren Ostar and Teren Casvilar. [[The Southern Campaigns of Teren Casvilar|Casvilar's conquests]], principally in 390–379 BR, brought wealth and captives to Atherian households while defeating organised resistance among inhabited forest districts. Veyr lost the sea after the drawn battle at Velos (374) and died in sanctuary at Ilamar, leaving Casvilar personal supremacy at Caleran; his assassination in 370 opened another struggle over armies and inheritance.
 
 [[The Wars of the Atherian Succession]] traces the public government of Thalion, Velsar and Varroth, its changing territorial responsibilities and the final war involving Samyra's kingdom. [[Aurelius Thalion]] established supreme command around 350 BR after the conquest of Sarqen. His settlement brought continuing military pay and central provincial appointments while preserving many rewards of confiscation. [[Households of the Imperial Founding]] describes the marriages, friendships and surviving children affected by these decisions.
 

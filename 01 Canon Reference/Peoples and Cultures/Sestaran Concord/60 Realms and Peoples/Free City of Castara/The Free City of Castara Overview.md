@@ -18,7 +18,7 @@ Castara is a detached city-state on the northeastern Boiling Sea coast, far from
 
 ## Formation and Accession
 
-Castara's old harbor families governed through a small council while larger powers ignored it. New routes brought shipbuilders, scholars, laborers, soldiers, migrants, and expedition fortunes. Castara joined the Concord as the seventh seal in 1332 in exchange for ships, scouts, and overseas provisions.
+Castara's old harbor families governed through a small council while larger powers ignored it. From 1265 the Black Wind's grass-toll on the northern caravan routes pushed Sestaran freight onto ships, and Sestaran hulls began putting in at the salt-and-turtle port on their way along the Boiling Sea coast. In 1328 the Castaran salt-hauler *Naris's Hand*, under the pilot Ottavia Sele, was caught at sea on a Breath day, when the hurricane belt falls flat calm, and crossed to the Shattered Isles. She came back with green crystal, Expanse hardwood and the chart-case of a wrecked Viscaran ship, and with a log that disagrees with the calendar. The city's new University rebuilt the Viscaran storm-keel from the wreck's lines, and by about 1331 Castaran ships were crossing in hurricane-season windows of six to ten weeks. New routes brought shipbuilders, scholars, laborers, soldiers, migrants, and expedition fortunes. Castara joined the Concord as the seventh seal in 1332 in exchange for ships, scouts, and overseas provisions.
 
 ## Government and Citizenship
 

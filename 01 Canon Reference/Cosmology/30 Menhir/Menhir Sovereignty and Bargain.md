@@ -38,6 +38,8 @@ This condition began only after completed fusion. Joining the Great Rebellion an
 
 Creator shorthand may compare the tone to capricious folklore or “chaotic neutral.” Alignment language does not enter public canon and never overrides the precise ontology above.
 
+**The Three Silent Days (0 AR).** Every Menhir sovereignty, the Stars included, held still from the Binding to the third morning: fusion was a flight from judgement, and the Judge was among the dead. The colleges' registers record only the silence. No ruling is made on Idol Masks. [[Signs and Proof - Authorial Truth]]
+
 ## Law Is Not Justice
 
 A Menhir's claim establishes what its domain will do, not what a person morally deserves.
@@ -73,6 +75,8 @@ Every Menhir bargain must state four things:
 A Menhir cannot grant salvation, alter divine judgement, create a human soul, forgive sin, or confer moral legitimacy. It cannot reliably act outside its domain. Apparent exceptions are convergences with another Menhir, work by a court intermediary, mortal magic, or a counterfeit power exploiting the bargain.
 
 Exact performance does not imply good faith in the human sense. Menhir keep the shape of an agreement their law recognizes. Ambiguity is resolved according to domain, not the weaker party's intention.
+
+**Named petitioners.** A bargain binds the petitioner it names. Where the petitioner speaks for a line, the Boundary attaches the gift to that line as the petitioner's community reckoned descent on the day of the petition, and the gift lasts only while the line pays. A community that needs the gift therefore needs the line, and the line inherits a frozen rule of succession, since changing how it reckons descent breaks the Boundary. Meya of Narash's sealed wells (c. 2255 BR) and the Pale Household's firstborn exchange are the standard cases. Ark-derived law founded no public office on a bargain.
 
 ## Agency Below the Sovereign
 

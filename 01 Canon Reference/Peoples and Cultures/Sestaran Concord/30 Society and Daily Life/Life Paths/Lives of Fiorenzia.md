@@ -29,7 +29,7 @@ The city's proudest road: apprenticed at twelve to the counting-floors, cipher-t
 
 ## The Artist and the Humanist
 
-Patronage is the ladder: workshop apprenticeship, guild mastery, then the competition for commissions that are always also politics (a Medori altarpiece is a balance-sheet statement). The city still works in **Severin's shadow** — fourteen years since the Pyre of Masks, and every studio keeps one drawer of things it would burn first *this* time, just in case. The humanist track runs through the academies Lauro built: Vetti's heirs, careful now, teaching princes' sons rhetoric and keeping their sharpest manuscripts in cipher. The road's paradox: Fiorenzia pays genius lavishly and remembers, vividly, that it once hanged it in the square.
+Patronage is the ladder: workshop apprenticeship, guild mastery, then the competition for commissions that are always also politics (a Medori altarpiece is a balance-sheet statement). The city still works in **Severin's shadow** — fourteen years since the Pyre of Masks, which the friar lit the year after a Sermoran pamphlet named the city's unsung dead in the Medori vault, and every studio keeps one drawer of things it would burn first *this* time, just in case. The humanist track runs through the academies Lauro built: Vetti's heirs, careful now, teaching princes' sons rhetoric and keeping their sharpest manuscripts in cipher. The road's paradox: Fiorenzia pays genius lavishly and remembers, vividly, that it once hanged it in the square.
 
 ## Priest, Bishop, Noble, Criminal
 

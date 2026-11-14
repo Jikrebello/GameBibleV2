@@ -91,17 +91,11 @@ Civil war ran until 1225. Sergian's regency, the dispossessed district lords, th
 
 Two stories from the civil wars are told everywhere. In Vlastrava, around 1220, a mediator arranged a surrender that saved King Stanimir's household. Once they were safe, the mediator offered him his enemy's defenceless children and urged him to avenge a murdered kinsman. Stanimir had promised protection freely, and refused; his own brother called the refusal disloyal and killed the mediator, and the children were returned under guard. Vlastravan Lives call the mediator a devil's agent, and Vlastrava's word became the one men trusted. In a lesser city around the same time, a poor wall-worker saw that an emergency pumping order would burst the cisterns under a crowded district, and stopped it with a vent sequence nobody had taught her; the officials took the credit and withheld her wages, and engineers still cut her notch into the stone before a pressure test.
 
-**Nikandros I**, 1225–1263, was crowned at Virelos with the monasteries and Vlastrava behind him. He had brought half an army home from Qarath and was not known to kill surrendered households; later tellers made him merciful in everything, which he was not. He stabilized the remainder and sought western aid without accepting Veridun's submission as its price. His restoration succeeded sufficiently to create the line later claimed by Caedros IV, but could not restore all territory or heal every provincial loss. Victorious chronicles and roadside graves tell very different versions of this recovery.
+**Nikandros I**, 1225–1263, was crowned at Virelos with the monasteries and Vlastrava behind him. He had brought half an army home from Qarath and was not known to kill surrendered households; later tellers made him merciful in everything, which he was not. He stabilized the remainder and asked the west for soldiers. In 1227 the Sanctum named its price: the Great Lamp of Veridun, tried by the Sanctum's relic court. Nikandros refused, saying that "a lamp that is tried is a lamp that is owned", and fought on alone. A decade later the plague did what no ally would. Covenant garrisons whose oaths had lost their witnesses marched home between 1238 and 1246, and Nikandros walked through their open gates and won back about half the lost districts. His restoration created the line later claimed by Caedros IV, but it could not restore all territory or heal every provincial loss. Victorious chronicles and roadside graves tell very different versions of this recovery.
 
-## Disease after war
+## The Sweat and the Black Wind
 
-The Grey Sweat struck in waves, c. 1232–1247. Bodies decomposed before burial; households abandoned the sick; healers triaged patients they could not all save; suspected carriers were executed. The soul-road also came under pressure. [[G-16 - The Forty-First Ferry|The Forty-First Ferry]] remembers illegal funeral work among clergy, physicians, thieves and families whom official provision failed.
-
-The False Lady of Bruckmoor exploited genuine grief. The Quiet Ninth remains unexplained.
-
-## The world turns outward
-
-The Medori century and Sestara's flowering developed amid recovery, debt and changed labour relations. In Eclessia, some tenants gained room to bargain while Virelia's second serfdom hardened. Qarayel's unification in 1261 and the Black Wind years brought tolls, burned fairs and extraction without permanent occupation.
+The Grey Sweat came in waves from 1232 to 1247 and killed faster than priests could bury. [[The Grey Sweat]] tells how the dead went unsent and walked, how laity sang their own dead out in Thalmyria, how the Covenant's court benches emptied and how the fever stopped everywhere in the same week. [[G-16 - The Forty-First Ferry|The Forty-First Ferry]] remembers the illegal funeral crews who worked where official provision failed. On the steppe a captive farrier's blessing on a dying black colt renewed the old horse-grace, and from 1261 Qarayel's Black Wind burned fairs and made every settled power pay for the road ([[Qarayel and the Black Wind]]). The grass-toll pushed Sestaran trade onto the sea, and the Medori grew rich on the estates and Sendings of the plague dead ([[Historical Spine of the Sestaran Concord]]).
 
 The era left altered fields, mountain wounds, abandoned wards, rival feasts and the unpaid costs of victory. It led into [[The Age of Held Proofs]].
 
@@ -115,6 +109,7 @@ The era left altered fields, mountain wounds, abandoned wards, rival feasts and 
 
 - [[The Grey Sweat]]
 - [[High Noon Provinces and the Qarath Aftermath]]
+- [[Qarayel and the Black Wind]]
 
 ## Local tales and surviving memories
 

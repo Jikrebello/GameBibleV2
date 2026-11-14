@@ -22,11 +22,11 @@ The river city predates Atheria. Imperial rule preserved its municipal houses wh
 
 ## Government and Citizenship
 
-Duke **Gaius Medori** rules beside the patrician senate. Registered citizen households cast one vote through a recognized head of either sex. Senior office belongs to families in the Golden Book. The Medori converted financial dominance into formal ancestry by purchasing admission in 1238, a legal transaction older houses still call a counterfeit genealogy.
+Duke **Gaius Medori** rules beside the patrician senate. Registered citizen households cast one vote through a recognized head of either sex. Senior office belongs to families in the Golden Book. The Medori converted financial dominance into formal ancestry by purchasing admission in 1238, when the Grey Sweat had emptied a third of the Book and the senate sold seats to keep a quorum; older houses still call the transaction a counterfeit genealogy.
 
 ## Society and Faith
 
-The capital's artists, scholars, factors, guilds, servants, laborers, and migrants depend on contado tenants and estate workers. Old-Church worship is public, splendid, and heavily patronized. Frate Severin's rule from 1346 to 1349 proved that Fiorenzian devotion cannot be dismissed as decoration.
+The capital's artists, scholars, factors, guilds, servants, laborers, and migrants depend on contado tenants and estate workers. Old-Church worship is public, splendid, and heavily patronized. In 1345 a Sermoran pamphlet printed the names of Fiorenzian dead whose paid-for Sendings had never been sung, from the Chancery registers in the Medori vault. Frate Severin preached that the Medori held the city's dead in pawn, the city expelled the family and burned its masks and mirrors in the Pyre of Masks, and his rule from 1346 to 1349 proved that Fiorenzian devotion cannot be dismissed as decoration.
 
 ## Economy and Defence
 

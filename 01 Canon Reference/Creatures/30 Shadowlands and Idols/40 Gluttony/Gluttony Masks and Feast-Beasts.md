@@ -65,6 +65,8 @@ Banquet Tyrants are autonomous Archmasks that present as monumental hosts: many-
 - **Materials:** a host-bone records every supplier and victim in the last feast cycle, making it invaluable evidence.
 - **Regional names:** great hosts, belly kings, table fathers, and the never-sated.
 
+*Worked example, Qarzeth (526–520 BR).* A dependent Gluttony Mask with a bounded dominion overlay can be closed by the Gut-Maw order (routes cut, named remains recovered, organ-object broken) followed by a shared meal without hierarchy of worth, which here closes the overlay, not an Archmask court. Salt on the sanctuary ground sealed a defeat already complete; alone it does nothing (Vorthara, c. 505–498). See [[Atherian Palace and Maritime Histories - Integration Review]].
+
 ## Boundary with Natural Decay
 
 Feast-beasts can exploit rot, infestation, or plague, but they do not cause those ecologies by default. [[01 Canon Reference/Cosmology/30 Menhir/30 Fourth Circle/Veradia.md|Veradia]] governs infection and proliferating life; [[01 Canon Reference/Cosmology/30 Menhir/30 Fourth Circle/Morvalis.md|Morvalis]] governs bodily death and decomposition; Material hunger remains a physical condition before it becomes an Idol architecture.

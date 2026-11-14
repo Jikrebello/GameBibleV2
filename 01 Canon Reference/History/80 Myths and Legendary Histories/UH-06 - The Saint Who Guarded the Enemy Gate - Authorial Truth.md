@@ -17,7 +17,7 @@ tags: [world-historical-atlas]
 
 ## What Actually Happened
 
-**c. 1020–1060 AR; one landlocked mountain fortress between rival successor armies.** Exact coordinates and private names remain open; this local placement does not move the controlling chronology.
+**c. 1040 AR; Grauwacht, a landlocked mountain fortress of the middle march, in the war of Ludovar's sons.** Placement fixed by Causality Pass 08 (14 November 2026); reader prose in [[The Great Split — Two Crowns, One Fire]]. Exact coordinates and private names remain open; this local placement does not move the controlling chronology.
 
 In the violent decades after the Great Split, two rival armies met at a landlocked mountain fortress controlling a grain road and three winter passes. Both armies venerated the same early military saint: a former army physician remembered for refusing to certify tortured prisoners as fit for execution. The saint was not the holy person of the Two Ferries and possessed no river, ferry, or hospice cult. One army's chaplains called the saint the Physician of the Western Host; the other remembered the same person as the Keeper of Captive Soldiers. Each demanded a sign proving that its military communion alone inherited the saint's protection.
 

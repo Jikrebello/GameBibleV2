@@ -23,7 +23,7 @@ The Vathran crown had kept horses for chariots and elite couriers. Most escaped 
 
 Horse wealth spread west without displacing camels. Marriage, fosterage, trade, exile, and banner service carried customs in both directions. A clan may call itself Well-Tarkhan in one generation and Grass-Tarkhan in another if drought, war, or patronage changes its circuit.
 
-Qarayel's conquests gave outsiders the misleading idea of one steppe nation. The Partition restored the older truth: Tarkhan unity is made temporarily at fires, assemblies, and common campaigns. It is not inherited as a permanent state.
+Qarayel's Black Wind gave outsiders the misleading idea of one steppe nation. The Partition restored the older truth: Tarkhan unity is made temporarily at fires, assemblies, and common campaigns. It is not inherited as a permanent state.
 
 ## Navigation
 

@@ -23,7 +23,7 @@ The warning reaches distant authorities—and opens the path. Custodians, nearby
 
 ## Later activity
 
-Within the War of the Closed Doors, the Sinner offers perfect warnings whose receipt opens the warned-of route. A later friendship with the Refuge-Bell Smith becomes the principal conflict: the Smith once helped contain the mortal breach and later receives a commission to close one warning network without destroying legitimate scholarship.
+After the Reader's death (c. 779), within the Long Rent War (612–884), the Sinner offers perfect warnings whose receipt opens the warned-of route. A later friendship with the Refuge-Bell Smith becomes the principal conflict: the Smith once helped contain the mortal breach and later receives a commission to close one warning network without destroying legitimate scholarship.
 
 A Saint's work ends with the commission; no institution owns or summons the person. A damned Sinner's office, image, body and copied likeness are not the soul. Defeat of such a manifestation does not reverse judgement.
 

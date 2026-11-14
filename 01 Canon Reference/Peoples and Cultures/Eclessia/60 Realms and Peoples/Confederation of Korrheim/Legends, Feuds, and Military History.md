@@ -25,6 +25,7 @@ Their legends are recruitment tools. Korrheim records also preserve unpaid troop
 
 ## Feuds and Revolts
 
+- **Revolt of the Heldenberg Shafts, 1116-1124 AR:** escaped mine slaves broke the counts' winter army by the Cold Way and swore the Oath of the Shafts, founding the first cantons. Their liberator, the Saint of Ashen Wings, confessed c. 1137 what the passage had done to the prisoners sent through it; the cantons feast on the anniversary and name those victims the next morning. [[G-37 - The Feast Followed by Ashen Names|The Feast Followed by Ashen Names]]
 - **Siege Engineers' Uprising, 1330 AR:** workshop communes demanded representation after councils attempted to make emergency labor obligations hereditary.
 - **Ostvald Blood Feud:** a continuing inheritance dispute between captain branches, constrained by hostages and Council arbitration.
 - **Falkendorf Rebellion, 1340 AR:** a Freeflame-majority canton resisted an old-Church council settlement. Its near civil war made the later Accord unavoidable.

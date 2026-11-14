@@ -48,6 +48,12 @@ It failed twice. In the winter of 931, when Idris's death voided the names the h
 
 The Covenant then bought what it could not beat. It chartered Mazrakan in 1067, bought blessed lines at its horse fairs, and hired Tarkhan companies on word-price because Tarkhan riders refused to place their names in custody. Those companies stayed outside the Living Register, which made them harder to command and kept them out of imperial offices for two centuries. The blessing in the grey lines thinned with each generation, and by the 1100s the frontier was again fought with ordinary horses.
 
+## The Northern Frontier, 1190–1360
+
+Blessed stock still told at Qarath's Well in 1214, where Tarkhan companies in Covenant pay fouled the outer wells and rode through the Thalmyric army that drank. The Grey Sweat then emptied the witness benches. In the late 1230s well-forts whose garrison instruments had lost their witnesses marched home and left their bound craftsmen behind for Tarkhan raiders to take. One of them, a Velian farrier, blessed a dying black colt in 1249, and the grace came back into the grass in a single line. From 1265 to 1300 Qarayel's Black Wind rode horses that walked up to a bound well-warden as if it were a fencepost. The wells' terror depended on enemy horses panicking, so Iqashar paid escort fees until the grace thinned and the wardens held again.
+
+After the Partition of the Herds in 1304, Marzuq II hired Iron Horde companies on word-price. Their kept lines are the only horses on the frontier that will stand beside the Covenant's own devil-mantled riders and small contract engines. From about 1310 mixed Iron and Covenant companies raided Thalmyric chapel-forts on the Velian frontier by night, which brought on Orinel (1318) and the loss of Zehrim (1325). Iron captains have reached for imperial offices ever since.
+
 ## The Great Engines, 905–1190
 
 Five great engines came to Caleran in 905. Three were lost at Crown Gate in 907. The surviving Depth-Core frame walked loose through Iqashar's dyers' quarter in 931 and was later called the Elder; the surviving Slave-Soul engine was sent south by sea in 955 and lost before Caleran in 956, when Thalmyric war-lamps opened its name-cage.

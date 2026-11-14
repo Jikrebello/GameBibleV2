@@ -31,6 +31,7 @@ tags: []
 ## Main Timeline
 
 - [[Historical Spine of the Known World]]
+- [[The Ages of the World]] - the fifteen reader ages, from Creation to 1360 AR.
 - [[Ancient and Early Historic Ages]]
 - [[Chronology of the Known World (AR Dating)]]
 - [[The Atherian Empire – Age of Glory]]
@@ -38,9 +39,23 @@ tags: []
 - [[The Last Generations of the Caleran Republic]]
 - [[The Wars of the Atherian Succession]]
 - [[The Age of the Redeemer]]
-- [[The Conversion of the Empire]]
-- [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/70 History and Conflicts/The Founding of the Thalmyric Empire.md|The Founding of the Thalmyric Empire]]
+- [[The Conversion of the Empire]] - 292–398 AR.
+- [[The Long Frontier and the First Unsealing]] - 398–905 AR.
 - [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/70 History and Conflicts/Prelude to Collapse.md|Prelude to Collapse]]
+- [[The Fall and the Long Reconquest]] - 905–1052 AR.
+- [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/70 History and Conflicts/The Founding of the Thalmyric Empire.md|The Founding of the Thalmyric Empire]]
+- [[The Great Split — Two Crowns, One Fire]] - 962–1104 AR.
+- [[High Noon and the Qarath Disaster]] - 1104–1290 AR.
+- [[The Age of Held Proofs]] - 1297–1360 AR.
+
+## Reigns and Dynasties
+
+- [[The Later Reign of Aurelius Thalion]], [[The House of Thalion]], [[The Year of Four Eagles]], [[The House of Veloran]] and [[The Last Dynasties of the Age of Glory]] - 350 BR–0.
+- [[The Companions Who Entered by the Low Door - Imperial History]] - c. 96–54 BR.
+- [[Atheria between Qiryath and Cassian - Emperors Wars and Revolts]] - 70–292 AR.
+- [[Cassian and the Four Sees - The Settlement of 292 to 316 AR]], [[The Reign of Sevrin]] and [[Astrion and the Road to Vestian - 348 to 377 AR]].
+- [[Vestian Persecutions and the Long Diaspora]] - 377–398 AR.
+- [[Qarayel and the Black Wind]] - 1249–1304 AR.
 
 ## Cosmic Prehistory
 
@@ -106,6 +121,16 @@ tags: []
 - [[01 Canon Reference/History/70 Later History and Present Day/The Grey Sweat.md|The Grey Sweat]]
 - [[The Korrheim Accord]]
 - [[Freeflame Reformation]]
+- [[Saints and Sinners of the Chronicles]] - the great saints and sinners of every era and what they did to history.
+- [[The Hunger Wars]] - Idol wars from the Closing Courts to the late Long Frontier.
+
+## Authorial Control
+
+- [[The Divergence Pass — Torque Register]] and [[The Weird of History — The Unexplained Register]]
+- [[Signs and Proof - Authorial Truth]] - 0–411 AR.
+- [[The Guttering - Authorial Truth]] - 398–905 AR.
+- [[The Covenant after Caleran - Authorial Truth]] - 905–1190 AR.
+- [[The Age of Held Proofs - Authorial Control]]
 
 ## Fall and Restoration Events
 
@@ -115,3 +140,4 @@ tags: []
 - [[01 Canon Reference/History/60 Fall and Successor Empires/The War of the Burning Banners.md|The War of the Burning Banners]]
 - [[01 Canon Reference/History/60 Fall and Successor Empires/The Refuge and the Rise of Veridun.md|The Refuge and the Rise of Veridun]]
 - [[01 Canon Reference/History/60 Fall and Successor Empires/The Reclamation of Caleran.md|The Reclamation of Caleran]]
+- [[The Covenant from Idris to Suhrab (905-1190 AR)]] - the Covenant side of the Fall and the Reconquest.

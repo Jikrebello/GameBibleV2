@@ -27,9 +27,11 @@ Free belonging developed through acknowledged kin, marriage, residence, particip
 
 Foreign conquest changed rulers, taxes and military service while leaving most water communities in place. By 350 BR a person could serve a Vasharan governor, worship through a Qemareti temple and identify as Qahuri without accepting that the foreign king possessed the Twin-Reed crown.
 
+The Basin entered the Covenant through hunger. In the **Thin Floods** of 546–552 AR the river failed in five summers of seven, and the yoke-sickness killed the plough oxen from the Basin to the Atherian north. While children starved in the canal towns, the 4,444 bound offices dug the oasis and channels at Al-Qahur day and night, and grain went to the households that sealed their names into the Covenant. Qahuri villages call it **the Bread of the Bound** and remember both halves of the bargain.
+
 A wealthy minority followed [[The White Measure and the Second Houses|the White Measure]], an occult funerary discipline which allowed a few founders to bind their human souls to embalmed bodies and private Egg White estates. These dead patrons influenced commerce and burial for centuries. They remain distinct from Ishkatari Giants, estate offices, copied household roles and Idol Masks which sometimes imitated them.
 
-The military houses consider themselves guardians of Qahuri order. Many Qahuri consider them armed tenants who forgot the lease had an end.
+The military houses consider themselves guardians of Qahuri order. Many Qahuri consider them armed tenants who forgot the lease had an end. Their fixed-term leases of 938 ran out in the plague years; in 1249 they rose for the Pageless Prince and lost, and the canal councils the Sweat left holding the water have contested their estates ever since.
 
 At the basin's desert margin, Qahuri scouts, water families, garrison households, and ruin workers sustain [[Qasr Ilyun]]. Its breach court is a frontier institution, not a model for all Qahuri law.
 

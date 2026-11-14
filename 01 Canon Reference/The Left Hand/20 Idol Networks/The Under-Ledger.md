@@ -27,7 +27,7 @@ The **Silent Partners** inside the Medori operation in Grenzburg are an Under-Le
 
 ## Relations
 
-The Medori hunt them (nothing threatens a real bank like a fake one inside it); the Creditor regards them the way an ocean regards a leak — same substance, embarrassing scale; the Vault of Names has burned two Under-Ledger cells that tried collateralizing true names without a license, which tells you what the Covenant considers the actual crime.
+The Medori hunt them (nothing threatens a real bank like a fake one inside it); the Creditor regards them the way an ocean regards a leak — same substance, embarrassing scale; the Vault of Names has burned two Under-Ledger cells that tried collateralizing true names without a license, which tells you what the Covenant considers the actual crime. The first was the Iqashari lending house below the Ruzbeh Weight House that took the Custodian of the Vault's own true name in pledge in 1003 and held the Covenant army still from 1006 to 1011; when the Custodian surrendered his name into the Vault's deepest custody in 1011, the Vault's guards burned the house and its books ([[The Covenant from Idris to Suhrab (905-1190 AR)]]).
 
 ## Hooks
 

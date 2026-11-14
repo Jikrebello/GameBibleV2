@@ -19,7 +19,7 @@ Caldria is Eclessia's northwestern fortress duchy: a Latinate-Markish frontier s
 
 ## Historical Formation
 
-Caldria halted the Qahirid advance in 906-908 AR. Its emergency commanders, bishops, and orders became a permanent military aristocracy. Gervin's inheritance at Drossfeld confirmed the territory but never erased the orders' independent charters.
+Caldria halted the Qahirid advance in 906-908 AR. Its emergency commanders, bishops, and orders became a permanent military aristocracy. Gervin's inheritance at Drossfeld confirmed the territory but never erased the orders' independent charters. In 1217, while Thalmyria tore itself apart after the disaster at Qarath's Well, Caldrian marcher captains crossed the watershed and seized three rite-changing valleys that Veridun could not defend.
 
 The War of the Crimson Banner, 1288-1295, secured a disputed relic for the Church courts and its toll road for Caldria. The so-called Schism Wars of 1310-1324 were Caldria's Reform War campaigns, not a separate religious fracture.
 

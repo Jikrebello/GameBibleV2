@@ -27,7 +27,7 @@ During the [[Historical Atlas of the Atherian Age of Glory|Age of Glory]], harbo
 
 ## Drift, c. 400-540 AR
 
-As the imperial court's revenues and rites failed, provincial commands kept their own revenue, and the harbour cities kept their taxes, hired their own forces and negotiated directly with neighbours. Independence existed before anyone declared it.
+As the imperial court's revenues and rites failed, provincial commands kept their own revenue, and the harbour cities kept their taxes, hired their own forces and negotiated directly with neighbours. In the succession war of 447–452 the court first hired cohorts of Sestaran warlocks to throw Shell-fire for it, and the trade outlived the war. Under the Saldane emperors the cities dug out charters older than the empire, Vardessa's the famous case, and paid Caleran in ships and warlock contracts in place of tax. Independence existed before anyone declared it.
 
 ## Fall and Defensive Compact, 905-909 AR
 
@@ -35,7 +35,7 @@ The Fall cut imperial command and opened the peninsula to conquest. Vortharan an
 
 ## Competitive Independence, 910-1231 AR
 
-With the Covenant's northern advance broken, the six cities turned on one another. They fought private wars over tolls and river mouths, seized each other's convoys, hired troops abroad and repeatedly tested the line between rivalry and existential danger. Refugee wealth from the Fall, including the crewless ships of the Thirty Sisters, was repainted and resold for generations. Famine in the Two Winters of 1101–1103 taught the harbour cities to keep grain under seal, and Sermora's harbour chain and its rules for refugees grew out of the chain-tender of the 1100s whom the city executed and later venerated. No member succeeded in turning wartime leadership into permanent sovereignty.
+With the Covenant's northern advance broken, the six cities turned on one another. They fought private wars over tolls and river mouths, seized each other's convoys, hired troops abroad and repeatedly tested the line between rivalry and existential danger. Refugee wealth from the Fall, including the crewless ships of the Thirty Sisters, was repainted and resold for generations. Famine in the Two Winters of 1101–1103 taught the harbour cities to keep grain under seal. In 1102 Sermora closed its harbour chain against famine ships from the Eclessian coast. A foreign-born chain-tender lowered it, refugees and harbour workers died in the crush at the gap, and the city hanged him as a traitor. In 1166 a rival's fleet and hired Ättar keels besieged Sermora with a leased storm-engine, and defenders and attackers alike saw a figure in a chain-tender's apron above the harbour wall; the engine broke and the siege failed. The same figure was seen to rebuke the Sermoran soldiers who then murdered foreign residents blamed for the breach. Since then the city's harbour law lowers the chain for one foreign or refugee vessel at every feast. In Aversia's high mines, from about 1110 to 1170, miners kept a compact with the small grey people at the edge of the lamplight, the Knockers, until Shield-House officials turned it into production law, faked its warning knock and sent strikers and prisoners down to die under a cut rib. Aversian miners still never answer the middle of three knocks. No member succeeded in turning wartime leadership into permanent sovereignty.
 
 ## The Sweat and the Golden Book, 1232-1264 AR
 

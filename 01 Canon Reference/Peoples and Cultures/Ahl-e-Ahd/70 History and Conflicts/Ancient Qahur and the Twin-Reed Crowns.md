@@ -120,7 +120,7 @@ Qahuri merchants dealt with both Caleran and [[The Gateway Republic|Qarzeth]] du
 
 The last Gateway War sent refugees and enslaved people into Qemaret and Tenaret. Some had resisted Qarzeth's child collections; others had served its government. Qahuri temples received rescued children and ransomed captives. Basin merchants also purchased people enslaved during the Atherian sack.
 
-**Prince Tazirun Zaheret**, a younger son with little prospect of the Tenaret crown, entered Esharat's carrying trade during a succession dispute and married **Lemara of Esharat** around 548 BR. Their daughter **Hesara** later helped conceal children from Qarzeth's collectors and became the mother of Hadrima. Tazirun's dependants introduced burial songs, linen styles and coronation gestures later adopted by the Nerethan court.
+**Prince Tazirun Zaheret**, a younger son with little prospect of the Tenaret crown, entered Esharat's carrying trade during a succession dispute and married **Lemara of Esharat** around 548 BR. Their daughter **Hesara** later helped conceal children from Qarzeth's collectors during the siege years of 526–520 BR and became the mother of Hadrima. Tazirun's dependants introduced burial songs, linen styles and coronation gestures later adopted by the Nerethan court.
 
 The relationship supplied kinship, knowledge and prestige. Qahuri genealogists continued to dispute whether a prince settled abroad retained any place within the Twin-Reed rites.
 
@@ -156,6 +156,7 @@ The White Measure survived as a wealthy minority discipline and an initiatory se
 | c. 657 BR | the Qemaret masters testify against the voice in Eryndor's tomb |
 | c. 560–500 BR | Zaheret–Esharat marriage and Gateway refugees |
 | c. 500–350 BR | three principal crowns face Vasharan and Atherian influence |
+| c. 85 BR–0 AR | Vasharan tribute lapses during the War of the Two Dawns; Atherian grain and harbour contracts bind Qemaret's lower river, with an Atherian station at its harbour; Tenaret and Sakhret rule as crowned clients |
 
 ## Further reading
 

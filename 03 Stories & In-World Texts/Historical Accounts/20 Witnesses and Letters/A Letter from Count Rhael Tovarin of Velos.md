@@ -32,9 +32,9 @@ Let me tell you what I saw.
 
 The empire was **already dying** before they came. The Atherian Senate met less and less. Taxes rose while the grain harvests fell. Eastern provinces whispered rebellion. The faith that once united us had splintered into **ritual and rot**. The Redeemer’s image was everywhere, but His will was absent.
 
-We stood on the walls of Velos and watched **golems walk across the river**. I do not mean siege towers—I mean _walking fortresses_, shaped like beasts and bound by contracts older than the city itself. One struck the eastern gate once. Just once.
+We stood on the walls of Velos and watched **a court ride across the river**. I do not mean a herald—I mean _a court_: jurists in grey under an awning, scribes, seal-boxes, and three hundred horsemen to keep the ink dry. Their reader stopped at the eastern gate and read one sentence. Just one.
 
-It fell in less than a minute.
+Our charter had been sworn under the Stars, before an augur college that no longer existed. It fell in less than a minute.
 
 The army we raised—the one the emperor ordered—**deserted within two days**. We were told reinforcements would come from the east. They never did. We sent ravens. They did not return. Only smoke on the horizon.
 
@@ -53,7 +53,7 @@ In return:
 
 - No bloodshed.
 - No razing.
-- No devils unleashed within the walls.
+- No horsemen loosed within the walls.
 
 I had the seal in my hand, the signet ring of my house still warm on my finger. My advisors screamed. My sons wept. My wife prayed.
 
@@ -64,7 +64,7 @@ I signed.
 And here is the part that will damn me in your eyes:  
 **Velos did not burn.**
 
-The scribes arrived and redrew our contracts. The Ahl-e-Ahd established a **puppet emirate**—and I became its regent. My people lived. Trade resumed. The devils stayed at the gates, bound and leashed. We lit no pyres. We dug no mass graves.
+The scribes arrived and redrew our contracts. The Ahl-e-Ahd established a **puppet emirate**—and I became its regent. My people lived. Trade resumed. The horsemen stayed outside the gates, and the court went on to the next town. We lit no pyres. We dug no mass graves.
 
 And in the shadows of the burned world, that was something.
 
@@ -78,7 +78,7 @@ Let the zealots of **Caldria** call me coward. They were not here when the empir
 
 We survived.
 
-And perhaps one day, when the golems fall silent, and the chains of parchment are torn, we will rise again.
+And perhaps one day, when the courts fall silent, and the chains of parchment are torn, we will rise again.
 
 ---
 
@@ -86,8 +86,6 @@ And perhaps one day, when the golems fall silent, and the chains of parchment ar
 > _—Inscribed on the underside of Count Rhael’s signet ring, recovered from his tomb_
 
 ---
-
-Let me know if you want the **follow-up: the confession of the inquisitor who eventually hunted him**, or perhaps a **dialogue between him and an Ahl-e-Ahd envoy** negotiating the terms of the surrender—powerful stuff for drama or in-world storytelling.
 
 ## Navigation
 

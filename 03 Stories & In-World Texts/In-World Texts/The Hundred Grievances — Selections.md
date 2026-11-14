@@ -15,7 +15,7 @@ tags:
 ---
 # The Hundred Grievances — Selections
 
-*Scholar's apparatus: posted by Frater Ansgar of Brenholt on the chapel door at Brenholt, autumn 1297 AR, against the sale of routing assurances. Possession was a burning offense in four duchies until the Korrheim Accord; it is now merely a career-ending one in six. The original door is a Freeflame relic — an irony their theology forbids them to enjoy and their congregations enjoy anyway. Selections follow the Ironvale printing.*
+*Scholar's apparatus: posted by Frater Ansgar of Brenholt on the chapel door at Brenholt, autumn 1297 AR, against the sale of routing assurances. The posting followed Ansgar's Count, the tally he kept in his own parish of more than ten letters sold for every rite sung. Possession was a burning offense in four duchies until the Korrheim Accord; it is now merely a career-ending one in six. The original door is a Freeflame relic — an irony their theology forbids them to enjoy and their congregations enjoy anyway. Selections follow the Ironvale printing.*
 
 ---
 

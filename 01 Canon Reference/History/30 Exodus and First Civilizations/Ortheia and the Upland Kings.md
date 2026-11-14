@@ -52,6 +52,8 @@ Eryndor III secured the royal household and demanded confirmation of the eastern
 
 Olyssaran exiles settled in Caleran, island cities and foreign ports. They preserved cult objects, workshop traditions and lists of people killed or sold. Their refusal to honour Eryndor remained an important dissenting voice within the later Far-Road festivals.
 
+After Eryndor's death Caleran bought ships from his unpaid commanders, landed its own sailors on Olyssar's fields, drove off the Ortheian grantees and seated the settlement in the Compact as Olyssar (c. 680–672 BR). The exiles' lists did not win the seat back.
+
 The eastern campaign made Ortheian command familiar across the inner sea. Soldiers encountered Arqeshite water administration, Vashari cavalry, Qahuri royal ceremony and the mixed households of the eastern ports. Officers returned with wealth, captives and new ambitions. Many remained abroad in the Successor kingdoms.
 
 ## Demeran's succession

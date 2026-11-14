@@ -78,7 +78,7 @@ The ransom-shame of Markellos encourages leaders to treat negotiation as humilia
 **Sultan-Caliph Marzuq III**, ruling since 1349, is clever, indolent, and holds a throne bought through the Cull of Brothers. The real government includes:
 
 - **Sayyida Nurhan, "the Veiled Ledger"** — the Sultan-Caliph's mother, controlling the household treasury, the marriage market, and through both half the court.
-- **The Unnamed Custodian** — chief of the Vault of Names, who surrendered his own true name upon investiture; the only officer the Guard cannot bind and the court cannot blackmail.
+- **The Unnamed Custodian** — chief of the Vault of Names, who surrendered his own true name upon investiture, a custom begun in 1011, when the first Unnamed Custodian surrendered his name to free the Vault from a lending house that held it; the only officer the Guard cannot bind and the court cannot blackmail.
 - **Guard-Master Temuz** — commander of the Ahdanite Guard, king-broker, and veteran of the last frontier war, loyal to the institution of the Guard rather than any one throne.
 - **Princes Kavus and Ardavan** — the two surviving sons. The Cull awaits Marzuq's death; both princes are recruiting, and every appointment is secretly a wager on which brother survives.
 

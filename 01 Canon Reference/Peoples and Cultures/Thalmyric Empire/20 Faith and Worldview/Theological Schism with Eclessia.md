@@ -31,13 +31,19 @@ Eclessia holds the Commission of the Pen, institutional continuity, relic courts
 
 Veridun teaches that uncreated Fire consents to dwell in sanctified vessels. Eclessia teaches that grace given to mortals is governable through apostolic office and test. Both preserve real goods and both are tempted to possess what they can only serve.
 
+## Roots in the Guttering
+
+Each church traces its method to the centuries before the Fall that Thalmyric refuge chroniclers named the Guttering. Thalmyric preachers tell it from the passes. The palace's hymns stopped kindling while the frontier hermits' went on; the court called its failures "postponed", hired Shell-fire to fill its ranks and at last to finish its accession rites; and when the end came, the Fire let the capital with the most relics fall and saved the refuge with the fewest. Theophany, in their telling, is what the refuge learned.
+
+Eclessian canonists tell it from Aurelium's register of answered fire. After the eastern tax fleet sank in 653, the eastern bishops kept the revenue whichever way a relic test fell, so they could afford to test honestly. In 711 Bishop Simeon examined the Velos Standard before the people for three days and recorded it silent, and in 905 the capital that would not be examined fell to a Covenant siege train that kept its own file on Caleran's counterfeit fire. Protocol, in their telling, is what the east learned. A summary attributed to a Veridancian lecturer is repeated in both seminaries, usually to score a point: the refuge learned that the Fire comes where it will, and the east learned that a fire nobody examines is a fire somebody fakes.
+
 ## Daily Difference
 
 Thalmyric parish priests may marry; bishops arise from celibate clergy. Icons and household lamps carry stronger everyday weight. The Churches compute important feasts differently, maintain separate saint registers, and dispute marriage, baptism, and relic recognition along the border.
 
 ## The Rupture
 
-Cardinal Hubald nailed Bonifac III's anathema to Veridun's Great Lamp with four nails. Patriarch Makarios answered before the nails were cold. Neither anathema has been lifted.
+In 1015 Lord Primarch Bonifac III demanded that Veridun acknowledge Simeon's primacy by submitting its restored lamps, the Great Lamp first, to Aurelium's examination, and that it accept the Sanctum's trusteeship of the imperial title. When Makarios refused, Cardinal Hubald nailed Bonifac III's anathema to Veridun's Great Lamp with four nails. Patriarch Makarios answered before the nails were cold. Neither anathema has been lifted.
 
 ## Present Relations
 

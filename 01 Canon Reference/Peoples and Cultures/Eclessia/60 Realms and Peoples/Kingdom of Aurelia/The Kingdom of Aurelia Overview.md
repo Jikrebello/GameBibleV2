@@ -19,13 +19,13 @@ Aurelia is Eclessia's deep-southern Latinate heartland and the temporal country 
 
 ## Historical Formation
 
-Aurelia preserves the densest Atherian provincial inheritance in Eclessia. Adalmar's grandson Aldwin received its line at the Partition of Drossfeld in 1049. As the royal house weakened, the Sanctum converted coronation rights, estates, and custody of the Crown of Embers into direct temporal rule.
+Aurelia preserves the densest Atherian provincial inheritance in Eclessia. Adalmar's grandson Aldwin drew it, with Aurelium and the imperial title, from the helmet at the Partition of Drossfeld in 1049. In the Two Winters his descendant Ermbold, the last Adalring emperor, refused to carry the Crown of Embers through the ash in a penitential procession ("a hat, not a relic"), and in 1102 the other kings deposed him at Drossfeld. The crown passed into the Sanctum's trust in 1104. Aldwin's line kept the Aurelian title without the crown until its last king died in 1166, when the Primarchs took the royal estates into the same trust as the crown and began to rule Aurelia directly.
 
 ## The Grey Sweat
 
-Eastern mortality reached roughly one person in three. Cathedral estates lost tenants, parish books failed, and orphaned benefices fell into litigation. Hospitals and burial confraternities became powerful civic institutions. Bruckmoor's false apparition forced the relic courts to separate evidence, custody, and offerings.
+Eastern mortality reached roughly one person in three. Cathedral estates lost tenants, parish books failed, and orphaned benefices fell into litigation. Rival cardinals elected by plague-thinned conclaves issued incompatible burial rules until Lord Primarch Gelasin II, accepted by both, closed the Schism of the Twin Cardinals in 1242. Hospitals and burial confraternities became powerful civic institutions. Bruckmoor's false apparition forced the relic courts to separate evidence, custody, and offerings.
 
-The assurance offices nevertheless expanded after the plague. Under Alessior VI, grief became a financial base for monumental rebuilding and war.
+In 1252 Gelasin II gathered the old assurance letters into the **Chancery of Sendings**: Sending Houses were endowed to sing named rites for named dead, and families bought sealed letters promising them. Where the rites were sung, the dead stopped walking, and the trade spread on that evidence. Under Alessior VI and his Cardinal-Treasurer Silvio Quarne, grief became a financial base for monumental rebuilding and war. Letters were printed, priced by age and sold faster than any House could sing them. In 1285 an apparition of Saint Gerlind condemned the singers of Aurelium's Saint-Leon quarter, who sang the dead out for nothing, and a riot burned the quarter; Lantern investigators later traced the apparition to the Cardinal-Treasurer's office.
 
 ## Reformation and Accord
 

@@ -18,8 +18,8 @@ The Folk are related Orphaned peoples whose communities reassembled across the s
 ## Orphaned Reassembly and First Hearths
 
 - **c. 2300-1900 BR:** subject villages, fugitives, local revolt communities and survivors of collapsing Giant client states entered, remained within or reconnected across the southern forests, coasts and mountain corridors. Escaped lesser Giants and giant-blooded prisoners from Nhaldur contributed war leaders and ancestry.
-- **c. 2050-1900 BR:** separate proto-Atherian war-settlements reached occupied southern gates, river corridors and coasts. Their relations with different Folk communities included massacre, slavery, hostage exchange, land seizure, alliance, trade, intermarriage, and the destruction or absorption of forts.
-- **c. 1900-1400 BR:** Belathi, Hartheni and Odrani identities became legible; hearth-law, annual All-Things, winter stores, ringworks, grove boundaries and formal Grobi watches became durable.
+- **c. 2050-1900 BR:** separate proto-Atherian war-settlements reached occupied southern gates, river corridors and coasts. Their relations with different Folk communities included massacre, slavery, hostage exchange, land seizure, alliance, trade, intermarriage, and the destruction or absorption of forts. Forts took farming households with the fields; Folk memory calls it the time "the fed came for the farmers".
+- **c. 1900-1400 BR:** Belathi, Hartheni and Odrani identities became legible; hearth-law, annual All-Things, winter stores, ringworks, grove boundaries and formal Grobi watches became durable. The Withheld Season's High Hunt in the Tidewood–Gale-Crown watershed left release cuts as southern custom; the hall that faced the Grobi divided Folk and Ättar cousins in command. [[G-67 - The Marks of Necessary Release|The Marks of Necessary Release]] · [[G-61 - The Hall That Faced the Grobi|The Hall That Faced the Grobi]]
 - **c. 1400-800 BR:** river leagues, hillfort confederacies, coastal kindreds, and old-rite Enaidfae networks became regional powers.
 
 ## Atherian Centuries

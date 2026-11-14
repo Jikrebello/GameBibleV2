@@ -36,7 +36,7 @@ The strangest grants came from Delkos. Serevan had carried Eryndor's body there,
 
 The successor kingdoms' people and practices remained. Delkosi officers entered maritime republics and royal courts; Ortheian veterans held land among eastern cities; mixed ship crews carried Atherian, Qahuri, Vashari and Arqeshite techniques. The Gateway Wars began within this already connected sea. Later rulers remembered the successor age whenever they claimed that a fleet commander could preserve order after a king's death.
 
-## The western coast during the Gateway Wars, c. 650–520 BR
+## The western coast during the Gateway Wars, c. 660–520 BR
 
 Caleran's long war with Qarzeth shaped the later eastern conflict. The republic learned to maintain large fleets, collect naval contributions and keep distant crews supplied. Its commanders acquired clients among island cities and merchant households. Qarzeth's destruction in 520 BR released ships, veterans and political ambition into an eastern sea already disturbed by Vasharan expansion.
 
@@ -70,7 +70,7 @@ After the disaster, Xarun spent six years preparing another invasion. He built c
 
 The second invasion aimed to break the Atherian alliance system. Xarun expected frightened cities to withdraw once a royal army stood on their land. His forces included Vashari cavalry and household troops, Arqeshite engineers, Qahuri and Ubar grain carriers, coastal marines, subject fleets and hired companies. The host moved west through Avesh while the fleet carried heavy stores and siege material.
 
-The Atherian response was organised through the **League of the Eastern Oar**, an alliance of Caleran commanders, island cities and threatened ports. Eryon Telmar held the land crossings. **Nerica Aven**, a ship-owner's daughter who had commanded convoy escorts during the last Gateway war, directed the combined fleet. League membership required ships or money. Cities which tried to withdraw faced confiscation, the dismantling of walls and the installation of friendly councils.
+The Atherian response was organised through the **League of the Eastern Oar**, an alliance of Caleran commanders, island cities and threatened ports. Eryon Telmar held the land crossings. **Nerica Aven**, a ship-owner's daughter who had commanded convoy escorts during the last Gateway war, directed the combined fleet. League membership required ships or money. The League's first custom came from Kelarion's Roll of Refused Hulls, which Velathene's pilots learned with their approaches: no member harbour closed its chain against a League hull in distress. Cities which tried to withdraw faced confiscation, the dismantling of walls and the installation of friendly councils.
 
 Xarun won the early campaigns. His army burned two settlements which refused provisions and enslaved survivors from a fortified island taken after a short siege. Several cities submitted. Others supplied both sides while waiting for the outcome. Atherian accounts later presented a unanimous defence of liberty; surviving contribution lists reveal coercion, evasion and sharply unequal burdens.
 
@@ -92,7 +92,7 @@ Later tellers joined the two festivals, their rival processions and the winter s
 
 Xarun's successor **Orvaz I Tiravan** abandoned plans for a direct conquest of the principal Atherian leagues. He used money, grain, marriage and sanctuary to divide them. Exiled city rulers received houses at Avesh. Vasharan timber reached coalitions opposing Caleran leadership. Atherian commanders supported provincial rivals within the western road command.
 
-The League of the Eastern Oar survived the invasion that had brought it together. Caleran senators kept the fleet in service to protect trade and prevent another royal attack. Member cities increasingly paid ship money for decisions made at Caleran. A council that refused its assigned contribution could lose ships, walls or its chosen magistrates. The league consequently extended Atherian power over cities it had first defended.
+The League of the Eastern Oar survived the invasion that had brought it together. Caleran senators kept the fleet in service to protect trade and prevent another royal attack. Member cities increasingly paid ship money for decisions made at Caleran. A council that refused its assigned contribution could lose ships, walls or its chosen magistrates. Cities that fell behind found the League's chains raised against their hulls even in storms. In 469 Velathene and the shipless allies refused the assessment, Orvaz sent them timber and money and housed their leaders at Avesh, and the war of the closed chains ran until the Chain Peace of 461. The captains Vespen Harod named as his enemies in 466 lived out their lives at Avesh. The league consequently extended Atherian power over cities it had first defended.
 
 Vasharan road commanders used local troops and taxes to defend the empire and accumulated enough wealth to treat their commands as family possessions. In 462 BR the governor of Avesh joined three commands against Orvaz. The king offered safe conduct to divide them, then executed two surrendered leaders. **Rathava of Daryam** condemned the broken promise in the palace garden. Orvaz had Rathava's labourers brought into the garden in ropes, and Rathava unsaid his words before the court to keep them from the slave market. His students quarrelled for generations over whether he had failed the truth or kept faith with his household.
 
@@ -110,9 +110,9 @@ Jirahar road families carried messages, ransomed prisoners and moved dependants 
 
 **Tiraz III Tiravan** died in 403 BR. His son **Orvaz II** spent the first years of his reign defeating a cousin supported by eastern horse houses. The struggle restricted Vasharan action during Veyr's final eastern commands.
 
-When Teren Casvilar and Veyr went to war, Orvaz supplied money, pack animals and limited sanctuary to Veyr's clients. He withheld the central army. Veyr's defeat near Velos in 374 BR damaged the western network while leaving the empire intact. His murder in the gateway country the following year ended his personal command; former clients divided between Casvilar, local rulers and Vasharan patrons.
+When Teren Casvilar and Veyr went to war, Orvaz supplied money, pack animals and limited sanctuary to Veyr's clients. He withheld the central army. The indecisive battle near Velos in 374 BR, and the ports' refusal to pay for Veyr's ships, damaged the western network while leaving the empire intact. His flight to sanctuary at Ilamar in 373 and death there in 371 ended his personal command; former clients divided between Casvilar, local rulers and Vasharan patrons.
 
-Casvilar's assassination opened another Caleran succession struggle. Orvaz traded with several parties and delayed a commitment until Darion Velsar allied with Queen Samyra. If they prevailed, their two governments would control the southern approaches to Vasharan ports. Orvaz then supplied credit, animals, refuge and intelligence while keeping the central army near Kavresh. This limited intervention preserved his own succession and allowed him to bargain with the eventual victor.
+Casvilar's assassination opened another Caleran succession struggle. Orvaz traded with several parties and delayed a commitment until Darion Velsar allied with Queen Samyra. If they prevailed, their two governments would control the southern approaches to Vasharan ports. Orvaz then supplied credit, animals, refuge and intelligence while keeping the central army near Kavresh. In 358 Velsar's thrust into the Avesh approaches broke on Vasharan relay riders, reserves moved along the Dawn Road and early snow, strengthening Orvaz II before the settlement of 350. This limited intervention preserved his own succession and allowed him to bargain with the eventual victor.
 
 ## The balance in 350 BR
 
@@ -173,7 +173,7 @@ Vasharan inscriptions record the road commands and royal victories while omittin
 | Date | Event |
 |---:|---|
 | 684–c. 650 BR | Eryndor's death divides the eastern coast among competing successor commands |
-| c. 650–520 BR | Gateway Wars teach Caleran sustained naval mobilisation; Vasharan western stations expand |
+| c. 660–520 BR | Gateway Wars teach Caleran sustained naval mobilisation; Vasharan western stations expand |
 | 514 BR | Tasar revolts and receives Atherian aid |
 | 513 BR | rebels and Atherian forces take lower Avesh |
 | 508 BR | Xarun retakes Tasar; executions, deportation and enslavement follow |
@@ -184,7 +184,7 @@ Vasharan inscriptions record the road commands and royal victories while omittin
 | 486–431 BR | Orvaz I pursues client war and negotiated influence |
 | c. 462 BR | western road-command revolt; royal safe conduct broken |
 | 414–397 BR | Marovan Veyr builds the established Atherian eastern commands |
-| 376–373 BR | Caleran civil war weakens the older coastal network |
+| 376–371 BR | Caleran civil war weakens the older coastal network |
 | 353–350 BR | final Atherian succession war; Vasharan intervention remains limited |
 | c. 350 BR | boundary settlement leaves Vashar an independent imperial peer |
 

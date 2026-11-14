@@ -23,7 +23,7 @@ The Prophet led enslaved humanity out of the Giant empires and across the [[Grea
 
 ## The Scattering
 
-The Prophet's death did not produce a single successor nation. Peoples separated by route, marriage, ecology, and political choice. Proto-Jirahar families carried three linked responsibilities: preserve the Scrolls, maintain lawful courts while travelling, and remember the road as sacred history rather than conquest myth.
+The Prophet's death did not produce a single successor nation. Jirahar road-singers tell that death as the Slow Road: commanded "Go no faster than the last cart", he walked back to the rear camps where the bread had already stopped and died among the people the captains had outpaced. Its saying is "A name is the last thing a person owns." Peoples separated by route, marriage, ecology, and political choice. Proto-Jirahar families carried three linked responsibilities: preserve the Scrolls, maintain lawful courts while travelling, and remember the road as sacred history rather than conquest myth.
 
 Their claim to have preserved the Prophet's teaching most faithfully is stronger than that of many later cultures, but not infallible. The Peshara contains genuine memory, later rulings, survival law, factional victory, and error together.
 

@@ -29,7 +29,7 @@ Imperial citizenship, archives, roads, Old Atherian speech, and the Redeemer's f
 
 ## Separation
 
-During the Decadence, Fiorenzian estates withheld revenue, Sermoran captains kept imperial tolls, Vardessa revived its charter, Aversian commanders became local magnates, and Orsena's customs houses stopped forwarding accounts. The Fall made practical autonomy unavoidable. Their defensive league followed invasion rather than shared nationalism.
+During the Decadence, Fiorenzian estates withheld revenue, Sermoran captains kept imperial tolls, Vardessa revived a charter older than the empire, Aversian commanders became local magnates, and Orsena's customs houses stopped forwarding accounts. The cities paid Caleran in ships and contracts for Sestaran warlocks, whose Shell-fire the court had first hired in the succession war of 447–452, instead of tax. The Fall made practical autonomy unavoidable. Their defensive league followed invasion rather than shared nationalism.
 
 ## Later Members
 

@@ -19,7 +19,7 @@ Ironvale is the northern Markish foundry state where the Freeflame Reformation b
 
 ## Historical Formation
 
-Ironvale began as one of Gervin's marcher duchies. Its mines and fortified guild towns grew steadily, but the ducal house remained supreme until the fourteenth century.
+Ironvale began as one of Gervin's marcher duchies. Its mines and fortified guild towns grew steadily, but the ducal house remained supreme until the Reform Wars.
 
 ## The Grey Sweat
 
@@ -27,7 +27,7 @@ Labor scarcity allowed miners, smiths, and carriers to demand wages and movement
 
 ## Reformation and Accord
 
-Ansgar's marches preaching found its strongest armed support in Ironvale. Duke Rainald sheltered Doctor Lucian Ferro and backed heirs of the Ashenmen Risings. The Reform Wars exhausted his house in blood, debt, and legitimacy. When the line became extinct, the guild ministries assumed government and dated the Grand Ministry from that transfer.
+Ansgar's marches preaching found its strongest armed support in Ironvale. Rainald, who had watched Ansgar burn at Aldersbruck as a boy, sheltered Doctor Lucian Ferro once he became duke. In 1329 he seized the chests of every Sending House in his duchy and burned their sealed letters in Brenholt market square; the Ashenmen bands of the upper Weiss held their oath fulfilled and came down from their wagon-forts into his service. The Reform Wars that followed exhausted his house in blood, debt, and legitimacy. His last son died at Falkendorf in 1340, and Rainald died without an heir in 1341. The guild ministries assumed government and dated the Grand Ministry from that transfer.
 
 The Accord recognizes Ironvale as Freeflame territory. Old-Church households may remain only under local toleration and have no general right to public worship.
 

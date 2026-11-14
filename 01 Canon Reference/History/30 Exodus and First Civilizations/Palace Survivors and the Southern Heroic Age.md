@@ -48,13 +48,13 @@ Southern separation from the Near-Glass communities unfolded through repeated de
 
 Alliances brought some households relief from royal collection parties. Other settlers seized the land or captives they had helped recover. A victory over a Giant could therefore replace an old ruler with human occupiers. Marriage, adoption and shared work created more durable communities alongside these conquests. [[Southern Settlement and Maritime Atheria]] follows that formation in greater detail.
 
-The [[The Siege and the Returnings|siege of High Harbour]], approximately 1980–1960 BR, belonged to this later heroic world. Orphaned settlements, Glass-descended captains and mixed shore households assembled against a surviving High Giant court. Their quarrels and supernatural allies affected the war; the sack and subsequent voyages reshaped the victors' households as well as the defeated country. Its return stories preserve rescues, coercive hospitality, revenge and the choice to settle among strangers.
+The [[The Siege and the Returnings|siege of High Harbour]], approximately 1980–1960 BR, belonged to this later heroic world. Orphaned settlements, Glass-descended captains and mixed shore households assembled against a surviving High Giant court. The court's tide answered to a bargain made with a speaking image of the harbour's founder; the harbour's craftspeople broke it in the fire, and shore tellers trace the Returnings to the sea taking its due from the harbour's goods. The besiegers' quarrels and supernatural allies affected the war; the sack and subsequent voyages reshaped the victors' households as well as the defeated country. Its return stories preserve rescues, coercive hospitality, revenge and the choice to settle among strangers.
 
 ## Remembering the heroic age
 
 Later Atherian tellers fitted older heroes into maritime genealogies and city histories. Some inherited genuine memories of settler victories. Others appropriated figures already honoured by Orphaned communities. Claims that a hero belonged to the Glass migration consequently require comparison with the people and circumstances of the particular tale.
 
-Descriptions of monstrous rulers also vary. Some preserve encounters with genuine Giants; others enlarge the ancestry or bodily power of human dynasts. The death of one ruler could end a stronghold's command without ending every claim made in its name. At High Harbour, the supposed ancestral king continued to appear after the living ruler had fallen, urging the survivors to fight on.
+Descriptions of monstrous rulers also vary. Some preserve encounters with genuine Giants; others enlarge the ancestry or bodily power of human dynasts. The death of one ruler could end a stronghold's command without ending every claim made in its name. At High Harbour, the supposed ancestral king continued to appear after the living ruler had fallen, urging the survivors to fight on, until the harbour's own craftspeople broke the image through which it spoke.
 
 ## A later maritime society
 

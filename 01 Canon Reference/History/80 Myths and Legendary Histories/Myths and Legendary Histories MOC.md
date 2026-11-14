@@ -36,6 +36,7 @@ Two public surveys gather the strange and the holy across many tales and ages. E
 ## Age of Exodus
 
 - [[G-03 - The Last Cart|The Last Cart]] — Great Glass Desert crossing camps; c. 2300–2165 BR; Exodus and Glass Sojourn.
+- [[The Four Deaths of the Prophet]] — the Prophet's death at the outward threshold, c. 2165 BR, told four incompatible ways by Jirahar, Covenant, Atherian and Folk tellers; an additional received tradition outside the Garden numbering, read with [[G-03 - The Last Cart|The Last Cart]] and [[G-56 - The Empty Seat Facing Outward|The Empty Seat Facing Outward]].
 
 ## Age of Scattering
 
@@ -69,7 +70,7 @@ Two public surveys gather the strange and the holy across many tales and ages. E
 
 - [[G-08 - The Road That Refused Its Last Stone|The Road That Refused Its Last Stone]] — the Aurin trunk road from Caleran through Enathi, Serathi and Vardeni country; c. 800–350 BR.
 - [[G-64 - The Prisoners Who Became a Border|The Prisoners Who Became a Border]] — one inland summoning corridor, not Orthea; late City-States into early Stars; c. 900–700 BR.
-- [[G-38 - The Houses Unhoused before the Gate Turns|The Houses Unhoused before the Gate Turns]] — Atherian roads and city leagues; c. 800–350 BR; Age of Stars.
+- [[G-38 - The Houses Unhoused before the Gate Turns|The Houses Unhoused before the Gate Turns]] — Atherian roads and city leagues; historical core the city of the turned gate, c. 608 BR; Age of Stars.
 
 ## Atherian Imperial Age
 
@@ -84,10 +85,10 @@ Two public surveys gather the strange and the holy across many tales and ages. E
 
 ## The Conversion of the Empire
 
-- [[G-11 - The Children of the Closed Temple|The Children of the Closed Temple]] — inland provincial Atherian cities; c. 230–395 AR; Underground to Conversion.
+- [[G-11 - The Children of the Closed Temple|The Children of the Closed Temple]] — inland provincial Atherian cities; c. 230–398 AR; Underground to Conversion.
 - [[G-25 - The Ragged Gospel in the Hospital Apron|The Ragged Gospel in the Hospital Apron]] — inland provincial Atherian cities; c. 330–382 AR.
-- [[G-40 - The Shelter That Outlived Its Heir|The Shelter That Outlived Its Heir]] — inland provincial Atherian cities; c. 230–395 AR; Underground to Conversion.
-- [[G-41 - The Silence Kept for Five|The Silence Kept for Five]] — inland provincial Atherian cities; c. 230–395 AR; Underground to Conversion.
+- [[G-40 - The Shelter That Outlived Its Heir|The Shelter That Outlived Its Heir]] — inland provincial Atherian cities; c. 230–398 AR; Underground to Conversion.
+- [[G-41 - The Silence Kept for Five|The Silence Kept for Five]] — inland provincial Atherian cities; c. 230–398 AR; Underground to Conversion.
 - [[G-75 - The Empty Oar of the Winter Tithe|The Empty Oar of the Winter Tithe]] — western Kedravan fishing coast before Saltborn ethnogenesis; c. 230–310 AR.
 
 ## The Long Frontier and the First Unsealing
@@ -121,14 +122,14 @@ Two public surveys gather the strange and the holy across many tales and ages. E
 ## The Great Split — Two Crowns, One Fire
 
 - [[G-15 - The Last Common Road|The Last Common Road]] — divided inland communities of the successor empires; 1015–1104 AR; Great Split and aftermath.
-- [[G-36 - The Black Eaves and the Uncommitted Crime|The Black Eaves and the Uncommitted Crime]] — divided inland communities of the successor empires; c. 1018–1080 AR.
+- [[G-36 - The Black Eaves and the Uncommitted Crime|The Black Eaves and the Uncommitted Crime]] — Dvorna and other divided inland communities of the successor empires; c. 1018–1080 AR.
 
 ## High Noon and the Qarath Disaster
 
 - [[G-16 - The Forty-First Ferry|The Forty-First Ferry]] — successor-imperial towns and provincial districts; 1232–1247 AR.
 - [[G-22 - The Three Nights While Years Passed|The Three Nights While Years Passed]] — successor-imperial towns and provincial districts; 1232–1247 AR with unequal elapsed time in refuge.
 - [[G-37 - The Feast Followed by Ashen Names|The Feast Followed by Ashen Names]] — successor-imperial towns and provincial districts; c. 1087–1146 AR.
-- [[G-48 - The Threshing Floor beyond the Count|The Threshing Floor beyond the Count]] — successor-imperial towns and provincial districts; c. 1171–1173 AR; High Noon.
+- [[G-48 - The Threshing Floor beyond the Count|The Threshing Floor beyond the Count]] — Elenara, with the threshing floor at Kremna; c. 1171–1173 AR; High Noon.
 - [[G-68 - The Three Knocks under the Mountain|The Three Knocks under the Mountain]] — one Aversian high mine under Shield-House extraction; c. 1110–1170 AR.
 
 ## The Age of Held Proofs

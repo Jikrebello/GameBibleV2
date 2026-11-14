@@ -52,6 +52,8 @@ Crown-Beasts, contest courtiers, impact organisms, and some Hunt Riders gather a
 
 Atherian generals called Astaroth the Red Star and treated victory as divine ratification. Later soldiers preserve fragments of his testing rites without necessarily worshipping him. Engineers know quieter signs: a structure showing its failure before people enter it.
 
+Astaroth's structural answers to builders and siege engineers have been standing practice since Darneth's siege frame broke under his test (380 BR). After 326 BR Atherian wardens, rune-trained engineers with a priest of the Red Star as witness, loaded every public work until a hairline crack showed its weakest point, and broke a portion built to break, the Star's share, as the recognised price. The official who opened the work stood under it, keeping the named contestant in the field; builders' tales of officials who sent slaves to stand under in their place describe the substitution taboo and its failure clause. The rite stayed standing practice and was never a test of rulers until Astrion's demand in 350 AR. Astaroth answered Astrion's public test of legitimacy once, because it put a real load at hazard. He gave no terms for Astrion's proposed test of victory, nothing to Ilios Marrant's petition at the Dissolution (381) and nothing to the eastern command at the crossing of 384.
+
 ## Limits and Counterplay
 
 Astaroth cannot determine moral courage, lawful title, guilt, or whether a conflict should occur. Counterplay removes the load, redistributes force, refuses the false field before accepting it, substitutes proof that does not harm the vulnerable, or invokes Hecatara to route around collision.

@@ -18,7 +18,7 @@ aliases: ["The Black Eaves and the Uncommitted Crime"]
 
 ## Historical setting
 
-**c. 1018–1080 AR.** Divided inland communities of the successor empires. This tradition belongs to [[The Great Split — Two Crowns, One Fire]]; its cultural bearers are Thalmyric and Eclessian communities.
+**c. 1018–1080 AR.** Divided inland communities of the successor empires; its oldest form belongs to Dvorna, a border town where two courts sat that no longer recognised each other. This tradition belongs to [[The Great Split — Two Crowns, One Fire]]; its cultural bearers are Thalmyric and Eclessian communities.
 
 It is told in districts rebuilt after the Split where black-roofed houses became associated with illicit prediction.
 

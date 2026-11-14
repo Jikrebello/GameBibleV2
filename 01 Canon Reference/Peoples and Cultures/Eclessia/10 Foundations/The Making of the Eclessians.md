@@ -45,10 +45,10 @@ Virelia's conversion is the east's great choosing. **Prince Radomir I of Strazgo
 
 - **The Covenant** they refused: *"Their law is a marvel and a cage; they would hold our souls' names in a vault."*
 - **The Path of the Jirahar** they refused: *"A god who wanders owns no land, and we are a people of land."*
-- **In Veridun's Ember-Cathedral** the envoys wept, and gave the report every Virelian child still learns: *"We knelt in the fire-light and knew not whether we stood on earth."*
-- **And the crown chose the Sanctum anyway** — for an Adalmarid marriage, Adalmarid swords against the steppe, and a Church conveniently far away.
+- **In Veridun's Ember-Cathedral** the lamp they had carried from Strazgorod took the Flame unbidden before witnesses of both churches, and the envoys gave the report every Virelian child still learns: *"We went to see their fire, and it came to see us."*
+- **And the crown chose the Sanctum** — because Makarios the Adamant would not let the envoys' kindled lamp go home, and because the Sanctum offered Lotharic's heiress and western swords against the steppe.
 
-The twist is permanent — and it burns: the envoys' own lamp took the Flame unbidden before witnesses of both churches, and **the Virelian Lamp burns in Veridun's cathedral still**, tended as an honored hostage and formally offered home at every Virelian succession election. Virelia's **hierarchy is western; its folk piety is eastern-flavored** — icon-corners in Vesari farmhouses, standing vigils the parish priests pretend are local custom, and a village suspicion that the envoys were right and the prince was clever. Veridun has never stopped reminding Virelia of what its own envoys said. In every succession election there is a whispered "eastern candidate," and the Sanctum makes sure he never wins.
+The twist is permanent — and it burns: **the Virelian Lamp burns in Veridun's cathedral still**, tended as an honored hostage and formally offered home at every Virelian succession election. Virelia's **hierarchy is western; its folk piety is eastern-flavored** — icon-corners in Vesari farmhouses, standing vigils the parish priests pretend are local custom, and a village suspicion that the envoys were right and the prince was clever. Veridun has never stopped reminding Virelia of what its own envoys said. In every succession election there is a whispered "eastern candidate," and the Sanctum makes sure he never wins.
 
 ## Why This Matters
 

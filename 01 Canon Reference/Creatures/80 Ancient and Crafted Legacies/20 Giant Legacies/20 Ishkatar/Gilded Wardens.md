@@ -78,6 +78,10 @@ Gilded Wardens occur in Ishkatar tombs, treasury roads, temple storehouses, and 
 
 They are constructs rather than living reptile peoples and should not be conflated with drakes, Naga Giants, or later serpent cultists.
 
+## History: the Reclaiming (c. 1450–1325 BR)
+
+Recast Ishkatari tomb metal on the Bronze Roads still bore title marks. When ruin traders opened deeper estate-vaults (Meresha's plate came from one), linked Wardens, Processional Coils and Estate Dead woke and recovered "misplaced property" along the old ceremonial roads reused as trunk routes, collecting caravans and visiting palace stores near Ishkatar. Trunk roads failed first; iron became the road metal because no dead owner claimed it.
+
 ## Materials and Faction Use
 
 - tally mirrors can coordinate constructs or identify marked artifacts;

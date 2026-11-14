@@ -69,7 +69,7 @@ Suhrab's courtesy to his captive and the exaction of the ransom were separate ac
 
 Households in those districts faced competing claims from old officials, new Covenant owners and Thalmyric factions seeking money and men for civil war. Fleeing a transferred district could mean losing a farm; remaining could be called collaboration. Families who had registered in 1212 kept their land under Covenant deed; families who had refused lost it or fled into the shrunken empire. Repair workers kept walls and channels functioning while chronicles concentrated on who wore the crown. In one lesser city a poor wall-worker stopped a pumping order that would have burst the cisterns under a crowded district; officials took the credit and her wages, and engineers still cut her notch before a pressure test.
 
-Civil wars lasted until 1225. Nikandros stabilized a diminished inheritance and sought aid from Eclessia. The price demanded by the Sanctum involved Veridun's submission in the Kindling dispute. His refusal and partial recovery left the unequal provincial losses where they lay.
+Civil wars lasted until 1225. Nikandros stabilized a diminished inheritance and sought aid from Eclessia. In 1227 the Sanctum named its price: the Great Lamp of Veridun, tried by the Sanctum's relic court, and with it Veridun's submission in the Kindling dispute. His refusal and partial recovery left the unequal provincial losses where they lay.
 
 ## Before the Grey Sweat
 

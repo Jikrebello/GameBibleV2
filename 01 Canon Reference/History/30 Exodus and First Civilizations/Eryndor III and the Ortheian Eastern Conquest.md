@@ -38,6 +38,8 @@ Olyssar expected other cities to follow its revolt. Eryndor isolated it before t
 
 The destruction secured the league behind Eryndor. It also exposed the terms of his authority. Cities later celebrated the eastern war as liberation from Arqesh while omitting the Atherian city destroyed to make the campaign possible. Olyssaran descendants preserved lists of the dead and sold, and refused to honour Eryndor at festivals established after his victories.
 
+After Eryndor's death Caleran bought ships from his unpaid commanders, landed its own sailors on Olyssar's fields, drove off the Ortheian grantees and seated the settlement in the Compact as Olyssar (c. 680–672 BR). The exiles' lists did not win the seat back.
+
 ## Crossing the eastern sea
 
 Eryndor sailed in 702 BR with Ortheian infantry and cavalry, Compact contingents, siege engineers and allied ships. The cities had accepted the war mandate under different degrees of pressure. Their contribution lists remained a source of argument for generations because they showed which councils gave willingly, which delayed and which supplied troops only after royal seizure of their grain.

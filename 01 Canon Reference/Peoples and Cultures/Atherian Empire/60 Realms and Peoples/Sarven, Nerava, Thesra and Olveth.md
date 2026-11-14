@@ -24,13 +24,15 @@ Open observation terraces served the royal astronomers. Fixed sighting stones al
 
 The palace lost control of its river estates during the Great Unbinding. After Arveth's death, rival claimants burned stores and removed skilled workers. Inhabitants who remained salvaged fittings and reused service buildings. Later settlement followed the portions that could be supplied and repaired, leaving much of the great complex abandoned. Damaged sighting stones and oversized terraces survive among later work; their interpretation requires distinguishing royal construction from subsequent repairs.
 
+Sarven held a seat in the Celestial Compact, which it owed to those old sighting stones: the Compact's boundaries were sighted from them. In 488 BR the veterans of Ilyessa came to the terrace with the magistrate Eshren Damar, and the Sun answered them at noon. [[The Last Generations of the Caleran Republic]]
+
 ## Nerava
 
 Nerava developed around an inland river landing where goods could be transferred between boats and pack animals. Grain-producing villages supplied its stores, while routes towards the hill districts brought animals, timber and metalwork. Boat families acquired influence by maintaining the vessels and crews required to move these goods.
 
 During Arsuvan's collapse, [[Arsuvan - The Giant Kingdom of the Aurin#The collapse during the Great Unbinding|Lethra's night crossings]] carried families and seed away from royal seizure. The hangings of captured boatmen remained part of the local memory. The meal associated with the rescue used grain and river fish, ingredients whose availability linked the commemoration to the work of the landing.
 
-Nerava's relationship with Caleran changed as the estuary settlement grew. Royal grain facilities offered a regular market, but kings also demanded boats and crews. Senavar's seizure of vessels contributed to the coalition which broke his household's authority. Republican service later enlarged the distances over which Nerava's crews travelled. A dispute over repeated requisitions produced the supply settlement described in [[The Celestial Compact and the Caleran Republic]].
+Nerava's relationship with Caleran changed as the estuary settlement grew. Royal grain facilities offered a regular market, but kings also demanded boats and crews. Senavar's seizure of vessels contributed to the coalition which broke his household's authority. Republican service later enlarged the distances over which Nerava's crews travelled. A dispute over repeated requisitions produced the supply settlement described in [[The Celestial Compact and the Caleran Republic]]. Nerava held a Compact seat for river carriage, and by 461 BR it had become a dependent landing of Caleran.
 
 The landing remained a place where households argued about the cost of political belonging. A profitable military contract could enrich a boat owner while leaving hired crews away from their families through another planting season. River songs consequently remember voyages both as opportunities and as absences measured at home.
 
@@ -44,6 +46,8 @@ Sareth returned to Thesra with her children after Avren killed Caleth. She conti
 
 Tarsenna brought Thesran learning and family connections into her joint reign with Ilaron. Her public settlement gave inland teachers an influential place in Caleran, but Thesran houses retained disagreements about the use of their ancestral objects and ceremonies. The city's contribution to Astratheon continued through these arguments.
 
+Thesra held a Compact seat as keeper of festival order. In 606 BR Celor Marath held the approaches below the town against Zamaret Ordan, using its olive terraces and ancestor tombs as breastworks; Thesran house-books count that stand a draw Thesra paid for. Thesra refused the Oar's ship money in 469 and was admitted on unequal terms in 461. [[The Gateway Wars]]
+
 ## Olveth
 
 Olveth was a mountain-basin settlement linked to grazing land, ore workings and routes descending towards the Aurin. Seasonal herding and permanent agriculture supplied households engaged in pack breeding, charcoal production and metalworking. These occupations required different movements through the year. Pasture gatherings brought people together who had spent months in separate valleys.
@@ -51,6 +55,8 @@ Olveth was a mountain-basin settlement linked to grazing land, ore workings and 
 Velketh rulers drew animals, metal and service from this country. Their loss of authority allowed some communities to reopen workings for their own use; others fell under ambitious local families. Access to food, fuel and transport determined which workshops prospered. The ability to smelt ore was of limited use when pack routes failed or agricultural households withheld supplies.
 
 Later maritime demand enlarged markets for Olveth's animals and metal products. Lowland patrons recruited soldiers and drivers as well as buying goods. People returned with money, foreign equipment and new family connections, while some settled permanently below. These journeys contributed to Atherian influence in the uplands without making every valley part of one political society.
+
+Olveth sent metal, pack animals and soldiers to the Compact, paid the Oar's ship money in silver and sons, and rebelled in 469. In 399 BR fugitives hunted at Vorthara were sent in chains to its ore workings.
 
 ## Reading the region
 

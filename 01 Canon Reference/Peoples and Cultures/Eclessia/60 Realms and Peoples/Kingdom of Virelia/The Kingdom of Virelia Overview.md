@@ -19,11 +19,13 @@ Virelia is Eclessia's eastern grain kingdom: Vesari river plains beneath an elec
 
 ## Historical Formation
 
-Virelia descends from independent Vesari princedoms, not an Eclessian colony. At the Choosing of Strazgorod in 1061, Prince Radomir I accepted the Sanctum for an Adalmarid marriage and military alliance. The hierarchy became western while village piety retained icons, standing vigils, hearth observances, and memory of Veridun.
+Virelia descends from independent Vesari princedoms, not an Eclessian colony. At the Choosing of Strazgorod in 1061 the envoys' lamp kindled in Veridun's cathedral and Patriarch Makarios would not let it go home; Prince Radomir I accepted the Sanctum instead, with the hand of Lotharic's heiress and western swords against the steppe. Their son ruled the Vesari princedoms and Lotharic's eastern kingdom together as the first king of Virelia. The hierarchy became western while village piety retained icons, standing vigils, hearth observances, and memory of Veridun.
+
+The crown was won in blood at home. Between 1068 and 1102 Radomir II's officers purged the old Vesari hearth-houses that had contested his throne: they burned the ancestral faces painted above door lintels, renamed the houses' children and forbade one kin-name, which is still not spoken. Then the Two Winters of 1101–1103 starved the purged districts, and Radomir II's sons died of the famine-fever. In 1103 the Council of Sabres revived the old Vesari moot-right and elected a king, and it has elected every king since. Veridun offered to send the Virelian Lamp home if the eastern candidate won that first election; he lost by three sabres.
 
 ## The Grey Sweat
 
-Where labor scarcity freed tenants elsewhere, Virelian magnates imposed a second serfdom. Estate courts restricted movement, increased demesne labor, and tied grain contracts to hereditary obligation. Runaways formed river gangs, frontier communities, and the Unwritten camps beyond reliable registration.
+Where labor scarcity freed tenants elsewhere, Virelian magnates imposed a second serfdom through the **bond of the clean village**. The magnates held the patronage of most parishes; a village whose priest had died was unclean and could be sealed, and its survivors were moved onto demesne estates under bond in exchange for a priest and burial in rite. Estate courts restricted movement, increased demesne labor, and tied grain contracts to hereditary obligation. Runaways formed river gangs, frontier communities, and the Unwritten camps beyond reliable registration.
 
 ## Reformation and Accord
 

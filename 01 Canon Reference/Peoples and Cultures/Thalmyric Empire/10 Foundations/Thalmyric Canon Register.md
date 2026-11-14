@@ -19,17 +19,23 @@ This is the creator-facing control sheet for Thalmyria. Authority descends throu
 
 ## Three Sacred Cities
 
-- **Veridun** is the living imperial capital, refuge-city, coronation cathedral, and seat of [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/60 Realms and Peoples/Kingdom of Veridun/Emperor Caedros IV Aetherion.md|Emperor Caedros IV Aetherion]]. The Great Lamp and Virelian Lamp remain there.
-- **Caleran** is the recovered Atherian capital, site of Jareth's martyrdom, the Pillar of Concordance and the Eternal Ember, and present seat of Patriarch Sophron. The Ember was kindled from Amaryah's lamp at Veridun Minor. The Redeemer's execution and Resurrection took place at Second Qiryath.
+- **Veridun** is the living imperial capital, refuge-city, coronation cathedral, and seat of [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/60 Realms and Peoples/Kingdom of Veridun/Emperor Caedros IV Aetherion.md|Emperor Caedros IV Aetherion]]. The Great Lamp and Virelian Lamp remain there. Nikandros I refused the Sanctum's demand to try the Great Lamp in its relic court as the price of Eclessian soldiers (1227): "a lamp that is tried is a lamp that is owned."
+- **Caleran** is the recovered Atherian capital, site of Jareth's martyrdom, the Pillar of Concordance and the Eternal Ember, and present seat of Patriarch Sophron. The Ember was kindled from Amaryah's lamp at Veridun Minor. Idris impounded it in 905 as a deposit held for the final audit; soldiers could not put it out, its Covenant keepers guarded it and ledgered its fuel, and Veridun paid the invoice in full on the recovery of 957. Theodosia's Rekindling (1052) relit every lamp in the empire from it, so Thalmyria's whole fire "burns on a receipt". The Redeemer's execution and Resurrection took place at Second Qiryath.
 - **Virelos** is the mountain rebellion's cradle and the coronation city of the Aetherion line.
 
 The title **Patriarch of Veridun** survives from the exile years. The Patriarchate returned to Caleran after the Reconquest without surrendering the title that legitimized the refuge Church.
 
 ## Fixed Historical Chain
 
-Caleran falls in 905; Veridun survives the Veil in 906; the Mountain Rebellion runs 908-921; [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/70 History and Conflicts/The Battle of Caelmount.md|Caelmount]] in 917 proves the resistance can win; Caedros I is crowned in 922; the Burning Banners unify the refuges in 922-949; Caleran is recovered in 957; Caedros II completes the first coastal campaigns by 962; and [[The Long Reconquest (908-1052 AR)|the Long Reconquest]] continues province by province until Theodosia's Rekindling in 1052.
+Thalmyria's military provinces and soldier-tenure descend from the kindled marches of 612–905, each held under one charter-oath renewed by the emperor in person before a frontier witness on whom the Fire came. Caleran falls in 905; Veridun survives the Veil in 906; the Mountain Rebellion runs 908-921; [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/70 History and Conflicts/The Battle of Caelmount.md|Caelmount]] in 917 proves the resistance can win; Caedros I is crowned in 922; the Burning Banners unify the refuges in 922-949; Caleran is recovered in 957, when Amir Durayd surrenders it in his own name and Caedros I dies at the Pillar of Concordance; Caedros II completes the first coastal campaigns by 962; and [[The Long Reconquest (908-1052 AR)|the Long Reconquest]] takes the dozen separately sworn amirates one at a time until Theodosia's Rekindling in 1052.
 
-The Velian States and Zanthir remain outside secure imperial rule. Later defeats at Qarath's Well and the post-1214 civil wars deepen the older demographic wound without creating it.
+The restored church's lamps gutter again. Leovar III's First Breaking (from 987) breaks the war-lamps and icon-lamps and hoods the Great Lamp; Anthe restores them at the Council of the Thousand Lamps (1013); Leovar IV impounds them in crown lamp-houses after his Master of Lamps is burned to death forcing a wayhouse lamp before Meliton (1029); Theodosia relights every lamp from the Ember (1052).
+
+Caedros III settles frontier land emptied by the Two Winters as military districts owing a lance and a lamp, and wins the War of the Southern Deeds (1131–1139) when the district lamps kindle in defence of their homes. He leaves his succession to the Fire; at the Unanswered Funeral (1167) no claimant's lamp kindles and the district armies take Despina of Kolonna's kindled lamp as their warrant. At Qarath's Well (1214) Markellos's army drinks from a sworn well whose guest-peace turns the water in men who take up arms against their host; ransomed for the districts, he is blinded by his regent Sergian to "widow" the ransom, and the Court of Breaches answers that an instrument sworn to the Throne cannot widow. No emperor has signed a Covenant instrument since 1215.
+
+Nikandros I, of a Kedravan cadet branch of House Aetherion, refuses the Sanctum's test of the Great Lamp (1227) and recovers half the Qarath districts when plague-widowed Covenant garrisons march home (1238–1246); Evandros the Sower (1263–1290) and Stavren the Patient (1290–1329) follow; Caedros IV, a provincial Aetherion adopted by Stavren in 1328, is crowned c. 1329.
+
+The Velian States and Zanthir remain outside secure imperial rule. The defeat at Qarath's Well and the post-1214 civil wars deepen the older demographic wound without creating it.
 
 ## Regional Control Matrix
 

@@ -75,6 +75,22 @@ In 905 the Surrender line existed only as lesser engines and siege tables travel
 
 **Afterwards.** Every replacement engine reopens the Clause. The foundry that replaces the engines lost in 907 works under the 885–886 ruling, and the people of the Clause contest each new capture.
 
+**The great-engine ledger, 905–1190.**
+
+| Date | Great engines | Event |
+|---|---|---|
+| 905 | five (three Depth-Core, two Slave-Soul) | the Fall of Caleran |
+| 907 | two | three lost or abandoned at Crown Gate |
+| 931 | two | the surviving Depth-Core frame walks loose through Iqashar's dyers' quarter in the Widowed Seals and is afterwards called **the Elder** |
+| c. 944 | three | the first great mercy tower (Surrender Engine) finished at Iqashar by overdrawing the Chain Furnace |
+| 956 | two | the last great Slave-Soul engine, sent south by sea in 955, lost before Caleran when Thalmyric war-lamps open its name-cage |
+| c. 1000 | three | the second mercy tower |
+| 1080s | four | the third mercy tower |
+| 1131–1139 | three | one mercy tower lost in the War of the Southern Deeds |
+| 1190 | three | the Elder and two mercy towers |
+
+In 905 the Covenant had three engine yards. The Basin yard passed to Al-Qahur's military households in 938 and the forward yard in the south was lost with Caleran, so from about 960 only the Iqashar foundry builds great frames, at roughly one a generation. See [[The Covenant from Idris to Suhrab (905-1190 AR)]].
+
 In **1360 AR**, the Qahirids retain:
 
 - three operational great engines;

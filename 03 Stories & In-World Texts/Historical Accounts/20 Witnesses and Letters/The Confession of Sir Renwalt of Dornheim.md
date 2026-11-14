@@ -84,8 +84,6 @@ We did not fight for glory. We fought because the flame was fading. And we lit i
 
 ---
 
-Let me know if you'd like a **second voice from this battle**—perhaps a Vortharan warlock's cold, analytical retelling, or a squire's raw, unfiltered memory.
-
 ## Navigation
 
 - [[Canon Index]]

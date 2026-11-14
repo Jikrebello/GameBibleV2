@@ -141,7 +141,7 @@ The remembered changes belong after the formation of the actual twelve-city Comp
 
 ## The Emperor after the Emperor
 
-**Age of Glory; provincial ruler cult.** After an emperor died, officials standardized his public face and demanded the same acts of loyalty. A household which remembered his living cruelty refused the new benign image. Punishment fed the Mask that had attached to the cult; the dead emperor's human soul did not inhabit the statue.
+**Age of Glory; provincial ruler cult.** After an emperor died, officials standardized his public face and demanded the same acts of loyalty. A household which remembered his living cruelty refused the new benign image. Punishment fed the Mask that had attached to the cult; the dead emperor's human soul did not inhabit the statue. Atherian histories place one such household in the river quarter of Caleran during the grain searches of 247 BR; see [[The Year of Four Eagles]].
 ^atlas-b3-04
 
 ## The Burial Hands
@@ -181,12 +181,12 @@ The remembered changes belong after the formation of the actual twelve-city Comp
 
 ## The Lamp Answered Twice
 
-**Split-era divided town.** Two congregations received useful responses from one sacred object under different immediate needs. A custodian then tried to force a third answer as a doctrinal verdict and was burned. The earlier aid remained real without proving either church's whole case.
+**Split era; the wayhouse at Pelin's Bridge on the watershed road.** Two congregations received useful responses from one sacred object, a night lamp mended from pieces blessed under both churches, under different immediate needs: around 1020, while its host sheltered fugitives from a mob, and around 1048, under Eclessian custody, while its keepers sheltered the wounded of both armies. Between the two, in 1029, Leovar IV's Master of Lamps carried it to the siege of Meliton and tried to force an answer as a verdict before the siege lines; he was burned. The two answers remained real without proving either church's whole case. See [[The Great Split — Two Crowns, One Fire]].
 ^atlas-b4-05
 
 ## The Two Weeping Advocates
 
-**Post-Split siege country.** Families endured starvation, rape and the deaths of children before rival preachers offered signs of consolation. Two Envy Masks exploited the real grief, directing survivors toward retaliatory killing. Exposing the images did not restore the victims or make the grief foolish.
+**Post-Split border sieges, 1020s–1030s.** Families endured starvation, rape and the deaths of children before rival preachers offered signs of consolation. Two Envy Masks exploited the real grief, directing survivors toward retaliatory killing. Exposing the images did not restore the victims or make the grief foolish.
 ^atlas-b4-06
 
 ## The Ransomed Standard
@@ -196,12 +196,12 @@ The remembered changes belong after the formation of the actual twelve-city Comp
 
 ## The Woman Who Returned the Keys
 
-**High-Noon provincial siege.** A woman entered the enemy camp through calculated deception, killed and beheaded the commander herself and returned with the head. Her city survived through further fighting and losses. She later relinquished its keys rather than found a dynasty, leaving the deed neither bloodless nor a coronation story.
+**High Noon, c. 1201; a district town besieged by a Velian amir's coalition.** A woman entered the enemy camp through calculated deception, killed and beheaded the commander herself and returned with the head. Her city survived through further fighting and losses. She later relinquished its keys rather than found a dynasty, leaving the deed neither bloodless nor a coronation story.
 ^atlas-b4-08
 
 ## The Poor Engineer's Mark
 
-**Post-Qarath lesser city.** A poor wall-worker repaired a pressure failure which would have destroyed a district. Officials stole the credit and withheld the promised wages. The worker died in poverty; a repair mark on a hidden stone let descendants recover the achievement without recovering the lost life.
+**Post-Qarath lesser city, c. 1220.** A poor wall-worker repaired a pressure failure which would have destroyed a district. Officials stole the credit and withheld the promised wages. The worker died in poverty; a repair mark on a hidden stone let descendants recover the achievement without recovering the lost life.
 ^atlas-b4-09
 
 ## The Physician and the Wonder-Worker

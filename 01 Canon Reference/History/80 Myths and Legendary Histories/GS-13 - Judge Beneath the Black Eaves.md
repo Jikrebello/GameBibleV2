@@ -17,7 +17,7 @@ tags: [world-historical-atlas]
 
 ## Earthly life
 
-The future Judge begins as a roof runner carrying warrants between courts that no longer recognise one another. Genuine but incomplete visions reveal murders, riots and betrayals before they occur. The runner prevents several crimes and becomes a celebrated examiner. Gradually the Judge tortures people for acts only foreseen, displays mutilated offenders and terrorises whole households because fear appears to reduce visible crime.
+The future Judge begins as a roof runner in the border town of Dvorna, carrying warrants between two courts that no longer recognise one another. Genuine but incomplete visions reveal murders, riots and betrayals before they occur. The runner prevents several crimes and becomes a celebrated examiner. Gradually the Judge tortures people for acts only foreseen, displays mutilated offenders and terrorises whole households because fear appears to reduce visible crime.
 
 The prophecies are neither invented nor inevitable. Several atrocities occur precisely because preventive executions destroy the relationships that might have stopped them. When an assassin finally enters the Black-Eaves courthouse, the Judge orders guards to stand aside so the death can be used as proof that every prediction was fixed. Victims remain dead; the theatrical death does not turn terror into truth.
 

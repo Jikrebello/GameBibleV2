@@ -23,7 +23,7 @@ The Warden refuses celebratory promotion, records the excluded names and spends 
 
 ## Later activity
 
-One authentic Greater-Saint manifestation is permitted as an authorial possibility and fixed for this research card: during a later Long Rent episode the Warden holds a Material redoubt while civilians evacuate, expressly opening the outer ward first. The commission defeats one link in the Ninth-Bastion Mason's project by denying it the required abandonment. It does not resume command of the Reconquest or prove any imperial claimant.
+One authentic Greater-Saint manifestation is permitted as an authorial possibility and fixed for this research card: during a later siege within the War of the Last Map, after the Warden's death (c. 965), the Warden holds a Material redoubt while civilians evacuate, expressly opening the outer ward first. The commission defeats one link in the Ninth-Bastion Mason's project by denying it the required abandonment. It does not resume command of the Reconquest or prove any imperial claimant.
 
 A Saint's work ends with the commission; no institution owns or summons the person. A damned Sinner's office, image, body and copied likeness are not the soul. Defeat of such a manifestation does not reverse judgement.
 

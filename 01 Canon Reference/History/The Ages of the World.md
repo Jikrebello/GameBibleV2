@@ -20,20 +20,20 @@ The encyclopedia distinguishes four kinds of account: **what happened** (establi
 ## The fifteen ages
 
 1. [[Creation and the First Rebellions]] — Creation, primordial rebellion and the later traditions through which peoples remember them.
-2. [[Age of Chains]] — Giant dynasties, lesser kingdoms, captive households and resistance, ending c. 2300 BR.
-3. [[Age of Exodus]] — c. 2300–2160 BR. The collapse of Giant rule, pursuit, the Glass refuge and the formation of one people.
-4. [[Age of Scattering]] — c. 2165–1750 BR. Disputed leadership, successive departures and two gradual fissions.
+2. [[Age of Chains]] — Giant dynasties, lesser kingdoms, captive households and resistance. As Giant blood thins, the old works demand more captives, grain and at last children, and the age ends in hunger c. 2300 BR.
+3. [[Age of Exodus]] — c. 2300–2160 BR. The collapse of Giant rule, pursuit, the Glass refuge, the formation of one people and the provision that stops at the edge of the Glass.
+4. [[Age of Scattering]] — c. 2165–1750 BR. Disputed leadership, a quarrel over the seed the rear camps were eating, successive departures and two gradual fissions.
 5. [[Age of Hearths and First Kings]] — c. 1900–1400 BR. Local rulers, related but independent peoples, maritime societies and household traditions.
-6. [[Age of City-States]] — c. 1400–800 BR. Ports, tower towns, leagues, conquest and civic development.
-7. [[Age of Stars]] — c. 800–350 BR. Atherian synthesis, roads, exile, restoration and the expansion of public institutions.
+6. [[Age of City-States]] — c. 1400–800 BR. Ports, tower towns, leagues, a harbour drowned for refusing refuge, a city that enthroned a four-doored protector, conquest and civic development.
+7. [[Age of Stars]] — c. 800–350 BR. Atherian synthesis, roads, exile and restoration; Caleran's bread wars with Qarzeth, the Red Field and the noon shadows at Sarven.
 8. [[Atherian Imperial Age]] — 350 BR–905 AR. Caleran, provincial society and the Age of Glory.
 9. [[The Age of the Redeemer]] — c. 33 BR–73 AR. The Redeemer, his Companions, persecution and the communities that survived it.
-10. [[The Conversion of the Empire]] — 292–395 AR. Legalization, compulsory conversion, temple destruction and religious change.
-11. [[The Long Frontier and the First Unsealing]] — 400–905 AR. Covenant expansion, border societies, shared work and renewed warfare.
-12. [[The Fall and the Long Reconquest]] — 905–1052 AR. Invasion, refugees, mountain resistance and the recovery of provinces across generations.
-13. [[The Great Split — Two Crowns, One Fire]] — schism of 1015 AR. The division of crowns and churches, and its consequences for connected communities.
-14. [[High Noon and the Qarath Disaster]] — 1104–1290 AR. Imperial strength, military disaster, decline and the plague years.
-15. [[The Age of Held Proofs]] — 1297–1360 AR. Reformation, the Accord and the inherited circumstances of the present day.
+10. [[The Conversion of the Empire]] — 292–398 AR. Legalization and the river at Velos, Astrion's answered standard, the dissolution of the augur colleges, compulsory faith and the Second Silence.
+11. [[The Long Frontier and the First Unsealing]] — 398–905 AR. The palace's fire guttering while the frontier's burned, famine and the Bread of the Bound, a conquest served by courts as much as fought, a peace made by two frightened armies, and the crusade that broke it.
+12. [[The Fall and the Long Reconquest]] — 905–1052 AR. Invasion, refugees, mountain resistance, an enemy whose oaths widowed with its sovereign, and the recovery of provinces amirate by amirate.
+13. [[The Great Split — Two Crowns, One Fire]] — 962–1104 AR. Two crowns claim Atheria; the Lamp Controversy, the schism of 1015, the partition by lot and the Crown of Embers vaulted.
+14. [[High Noon and the Qarath Disaster]] — 1104–1290 AR. The Wall of the World's frontier districts, the sworn well at Qarath and a blinded emperor, the Grey Sweat and the Black Wind on the grass.
+15. [[The Age of Held Proofs]] — 1297–1360 AR. The reckoning of the assurance trade, the Reformation and the Accord sworn on the Weiss, the Black Wind's partition, the Boiling Sea crossing and the unopened proofs of the present day.
 
 Every age article ends with a labelled route back to this index and onward to the next period, or from the final age into the present day.
 

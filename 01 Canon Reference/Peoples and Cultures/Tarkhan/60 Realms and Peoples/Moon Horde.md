@@ -13,7 +13,9 @@ tags: []
 ---
 # Moon Horde
 
-The Moon Horde keeps the central migration circuit, old assembly grounds, sacred horse lines, and the **Nine-Mane Standard**. Its authority is ritual and constitutional as much as military.
+The Moon Horde keeps the central migration circuit, old assembly grounds, sacred horse lines, and the **Nine-Mane Standard**, braided at the Kurultai of the Long Grass in 1261 from the manes of the black colt's nine proven sons. At the Partition of the Herds in 1304 it took the Standard, the oldest mares and the wind-speakers who count the grace in each generation of foals. Its authority is ritual and constitutional as much as military.
+
+The Moon circuit also keeps the cairn of Gavrin the Farrier, the Velian slave whose hymn over the dying colt brought the grace back into the grass, and will not let it be opened.
 
 ## Ruler and Office
 

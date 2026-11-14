@@ -3,10 +3,10 @@ type: reference
 status: canon
 canon_level: core
 visibility: public
-era: ["c. 1300–350 BR"]
+era: ["c. 1300 BR–560 AR"]
 region: [Vashar highlands, eastern riverlands, eastern sea approaches]
 culture: [Vashari, eastern subject peoples]
-related_factions: [House Tiravan, Arqeshite River Empire, Second Qiryath, Atherian leagues]
+related_factions: [House Tiravan, Arqeshite River Empire, Second Qiryath, Atherian leagues, Atherian Empire, Ahl-e-Ahd]
 appears_in: []
 needs: []
 aliases: [High-Road Empire, Vasharan Empire]
@@ -14,7 +14,7 @@ tags: [history, vashar, house-tiravan, eastern-empires]
 ---
 # Vashar and the Crown of Roads and Dawns
 
-**Vashar** was a highland country east of the Ubar whose valleys, pasture roads and sanctuary towns were united by House Tiravan during the fall of Arqesh. Arezan I and his successors created the **Crown of Roads and Dawns**, an empire governed through royal relatives, road commanders, subject rulers and established city institutions. It protected the return to Qiryath, imposed tribute across former Arqeshite lands and remained an independent peer when Atheria unified in 350 BR.
+**Vashar** was a highland country east of the Ubar whose valleys, pasture roads and sanctuary towns were united by House Tiravan during the fall of Arqesh. Arezan I and his successors created the **Crown of Roads and Dawns**, an empire governed through royal relatives, road commanders, subject rulers and established city institutions. It protected the return to Qiryath, imposed tribute across former Arqeshite lands and remained an independent peer when Atheria unified in 350 BR. A Vasharan civil war, the War of the Two Dawns, let Atheria take Qiryath in the last century before the Redeemer, and the two crowns fought and bargained over the roads for six hundred years more. Vashar ended in 555–560 AR, when famine emptied the relay stations of the Dawn Road and Covenant jurists declared the last King at Dawn forsworn.
 
 ## Vashar and its peoples
 
@@ -54,7 +54,7 @@ Arezan and Eryndor met in 694 BR. They agreed to destroy House Ubar while retain
 
 The final campaigns included massacre and enslavement by both victorious armies. Arezan punished some killings when they deprived him of useful officials and ignored others committed by necessary allies. In 690 BR his forces seized the eastern gates and water stations of Arqesh while Eryndor's soldiers entered across a channel opened by Nemeru boat crews and forced workers. The two armies plundered districts assigned to one another after the surrender.
 
-Kassur III escaped with several sons and the portable royal images. A provincial commander murdered him in 688 BR and offered the body to Eryndor. Eryndor executed the killers and buried Kassur with royal ceremony, presenting himself as the lawful successor of the king he had pursued. Arezan retained royal children and former Ubar officers in guarded households of his own. Vashari houses had recognised Arezan as king in 704 BR, fourteen years before Arqesh fell; he reigned until 671 BR.
+Kassur III escaped with several sons and the portable royal images. A provincial commander murdered him in 688 BR and offered the body to Eryndor. Eryndor executed the killers and buried Kassur with royal ceremony, presenting himself as the lawful successor of the king he had pursued, and kept the portable images as his own regalia. Arezan retained royal children and former Ubar officers in guarded households of his own. Vashari houses had recognised Arezan as king in 704 BR, fourteen years before Arqesh fell; he reigned until 671 BR.
 
 ## The Crown of Roads and Dawns
 
@@ -68,7 +68,7 @@ In 684 BR, during the first division of Eryndor's commands, Arezan issued the **
 
 Jirahar teachers later described the return decree as an act of providence. Vasharan inscriptions claimed that the Right Order had chosen Arezan to correct the Lie of Arqesh. The Jirahar accounts praised the release and return of captive households while continuing to record the killings committed by Arezan's coalition. Vasharan court histories used the decree to support broader claims about his right to rule.
 
-The **Wars of the Inheritance**, fought from 684 to about 650 BR, divided Eryndor's conquests. Arezan held Vashar and most of the Ubar basin. **Demeran Kavos**, Eryndor's senior western general, took Ortheia and the western army. **Serevan of Delkos**, commander of the allied fleet, established a mixed court among the islands and eastern harbours. **Neresh of Qemaret**, a Qahuri-born officer, held southern garrisons and crown towns through marriage and military settlement. These rulers sometimes recognised one of Eryndor's heirs while fighting over the lands claimed in that heir's name.
+The **Wars of the Inheritance**, fought from 684 to about 650 BR, divided Eryndor's conquests. Arezan held Vashar and most of the Ubar basin. **Demeran Kavos**, Eryndor's senior western general, took Ortheia and the western army. **Serevan of Delkos**, commander of the allied fleet, established a mixed court among the islands and eastern harbours. **Neresh of Qemaret**, a Qahuri-born officer, held southern garrisons and crown towns through marriage and military settlement. These rulers sometimes recognised one of Eryndor's heirs while fighting over the lands claimed in that heir's name. Serevan had carried Eryndor's embalmed body and Kassur's images to Delkos, and within months a voice in the tomb there declared that the king still reigned and had no heir, and sealed grants that promised the same provinces twice.
 
 Demeran eventually imprisoned Parena and her child and ordered their deaths. Vasharan accounts treated the killings as proof of western treachery; Ortheian histories blamed Arezan for withholding the forces that might have rescued them. Mithara preserved Parena's attendants and arranged marriages for two surviving members of her household. Their descendants carried rival accounts of Eryndor's final days into Vashari and maritime courts.
 
@@ -142,13 +142,31 @@ In his old age, after a run of good harvests, the harvest audience at Kavresh be
 
 Tiraz died in 403 BR. His son **Orvaz II** spent the first years of his reign suppressing a cousin supported by eastern horse houses. This limited his ability to contest Veyr's settlements. He recognised several of them temporarily in exchange for Atherian withdrawal from Avesh's inland estates.
 
-During the Caleran conflict between Casvilar and Veyr, Orvaz supplied money, pack animals and limited sanctuary to Veyr's clients. He did not commit the central army. Veyr's defeat near Velos in 374 BR therefore damaged Vasharan influence without destroying the empire.
+During the Caleran conflict between Casvilar and Veyr, Orvaz supplied money, pack animals and limited sanctuary to Veyr's clients. He did not commit the central army. The indecisive battle near Velos in 374 BR, and the Oar ports' refusal to pay for Veyr's ships, therefore damaged Vasharan influence without destroying the empire. Veyr fled to sanctuary at Ilamar in 373 and died there of fever in 371.
 
-Thalion's rise after 370 BR confronted Orvaz with a more coherent Atherian government. In the settlement of 350 BR, Thalion secures the Atherian-speaking ports and several western clients. Orvaz retains Avesh, the Ubar riverlands and the Vashari core. The agreement leaves two large states facing one another across the coastal marches, with neither able to dictate terms throughout the eastern sea.
+Thalion's rise after 370 BR confronted Orvaz with a more coherent Atherian government. In 358 Darion Velsar's thrust into the Avesh approaches broke on Vasharan relay riders, reserves moved along the Dawn Road and early snow, and Orvaz came to the settlement of 350 BR the stronger for it. Under its terms Thalion secures the Atherian-speaking ports and several western clients. Orvaz retains Avesh, the Ubar riverlands and the Vashari core. The agreement leaves two large states facing one another across the coastal marches, with neither able to dictate terms throughout the eastern sea.
+
+## The Dawn Road, Raveth and the War of the Two Dawns, after 350 BR
+
+The settlement of 350 left the Dawn Road as Vashar's greatest military advantage. Its relay riders and remount stations had beaten Velsar's columns in the snow, and Atherian commanders said for two centuries that the eastern frontier belonged to whoever had the faster road. Orent I's Arcelon road, built c. 190–182 BR, was Atheria's answer. It pulled the trade of the Raveth river towns west. Those towns had paid canal duty to the Avesh command and sent men each spring to dig silt out of the flood channels. Around 160 BR their councils negotiated entry into the Atherian empire, and Avesh lost a province without a battle.
+
+Late in the reign of the Atherian emperor Cassen I (r. 101–76 BR), the Vasharan crown passed in dispute. Two Tiravan claimants held dawn audiences in the same week. The keepers of Daryam carried the royal flame to the claimant backed by the Ruzhan horse houses and left the one who held Kavresh to rise in lamplight. Daryam's preachers said the Witness of Dawn showed him nations kneeling in his mirrors, and the charge stuck. Atherian writers called the struggle the War of the Two Dawns. It lasted years. The Avesh road command chose the losing side. The victor purged it, pulled the western garrisons east to fight in Ruzhan and, needing silver, sold confirmations of offices across the western sanctuaries. Tribute from the Qahuri crowns lapsed in the same years.
+
+Qiryath was the war's costliest sale. After the sanctuary's Keeper died, a river-quarter house long in Vasharan road service bought the confirmation of his office, but the city's interim Keeper had already made the pilgrimage offering and received the sign. The tower houses called in the Atherian governor at Arcelon, who came to the next pilgrimage with an augur of the Red Star. The purchaser refused the augur's trial by sign. The interim Keeper offered, and his fire smoked like any fire. The governor ruled for him all the same, on the sanctuary's written record of the earlier sign, and a Qoreth scribe drafted the charter under which Atheria held Qiryath. Early in Velen I's reign the victor, still fighting in Ruzhan, accepted the charter by treaty in return for the **Dawn Portion**, a yearly share of Qiryath's pilgrim dues paid to Avesh. Vasharan scribes wrote "lease"; Atherian scribes wrote "cession". The families who would not serve under the charter came east by the Dawn Road and settled in tower communities under Vasharan rule. Those communities later received the refugees of 70 AR.
 
 ## Wars with imperial Atheria
 
-Vashar remained independent at the time of the Redeemer. Under Daven Talar, Atherian armies advanced toward Avesh in the war of c. 98–107 AR. Vasharan forces recovered the exposed posts, and an agreement over tolls and passage ended the campaign. In the war of c. 222–233 AR, Vasharan commanders seized road stations and encouraged border towns to direct tolls east. Both crowns accepted a negotiated evacuation and exchange of captives. During Cassian's reign, the eastern towns again arranged prisoner exchanges and safe conduct for trade along designated routes. Vashar retained its highland core and the Ubar through these wars. [[Atheria between Qiryath and Cassian - Emperors Wars and Revolts|Atheria between Qiryath and Cassian]]
+Vashar remained independent at the time of the Redeemer. The Dawn Portion ended when Atheria destroyed the sanctuary in 70 AR, and Vasharan claims to Qiryath's revenue joined the grievances behind the war of c. 98–107 AR. Under Daven Talar, Atherian armies advanced toward Avesh in that war. Vasharan forces recovered the exposed posts, and an agreement over tolls and passage ended the campaign. In the war of c. 222–233 AR, Vasharan commanders seized road stations and encouraged border towns to direct tolls east. Both crowns accepted a negotiated evacuation and exchange of captives. The Atherian eastern garrisons went unpaid for years afterwards, and in their mutinies a cult of grave-lamps that burned without oil took hold. During Cassian's reign, the eastern towns again arranged prisoner exchanges and safe conduct for trade along designated routes. When Vestian's persecutions emptied the eastern towers in the 380s and 390s, some Jirahar households reached Vashar under safe conduct, received by kin whose families had come east after 70 AR. Vashar retained its highland core and the Ubar through these wars. [[Atheria between Qiryath and Cassian - Emperors Wars and Revolts|Atheria between Qiryath and Cassian]]
+
+## The end of the Crown, 514–560 AR
+
+In 500 AR the Crown of Roads and Dawns still held the Ubar riverlands and the roads to the grain of the Sacred Basin, and its road commanders had become hereditary lords of their stations. Vashar took its toll on every bale that crossed the Ubar. The Atherian emperor **Teomar Saldane** wanted it. The **Ubar Toll War** of 514–523 was fought for relay stations, bridges and wells. Atherian columns took the western stations of the Avesh corridor and then found that their treasury could not pay to garrison them; Vashar's western commanders, beaten and unpaid, stopped answering their king. Both crowns borrowed against future tolls, and both stopped the stipends that had kept the Ahdari well-houses of the dry country as their clients. The well-country fell into feud. Wells were fouled, guest-law broke down, and caravans paid twice and arrived with half their camels.
+
+Then the rain failed. In the **Thin Floods** of 546–552 the highland snowmelt came thin and the Basin's flood failed in five summers out of seven. From 548 an ox murrain called **the yoke-sickness** spread up from the Basin through the Vasharan valleys. Plough oxen coughed, lay down in the furrows and did not rise; road mules died in their traces at the relay stations. Camels were largely spared, and the desert clans who followed Mujalib kept their mobility while the settled world lost its traction. In the Basin the bound devils of the new Covenant dug channels and an oasis at Al-Qahur through the famine, and the grain went to those who sealed their names into the Covenant.
+
+Vashar's inscriptions had repeated one promise in three languages since Arezan's day: the king keeps the roads. By 554 couriers on the Dawn Road found station after station with cold hearths, empty stalls and doors banging in the wind; the horses had been eaten and the keepers had walked home. Covenant preachers rode the empty road reading Mazhara of Daryam's old saying back to the road commanders: a king's lie remains a lie when carved in three languages. In 555 Covenant jurists declared the last King at Dawn forsworn. Road commanders and subject rulers, many unpaid since the Toll War, sealed with the Covenant on terms that kept their estates and their horses. Among them were the horse-lords of **Ruzhan**, who entered Covenant service as road and cavalry officers; three centuries later one of their houses produced Qahir ibn Ruzbeh, founder of the Qahirid dynasty. A few highland valleys fought and were reduced by 560. The last King at Dawn was pensioned at the oasis the bound devils had dug, and died there.
+
+Vashari villages and speech outlived the crown inside the Covenant. In 931 a Vashari-born engine feeder at Iqashar, Gulnar, stopped a walking engine with the words that gave the Qahirid throne its name. [[The Long Frontier and the First Unsealing]] · [[Historical Spine of the Covenant]]
 
 ## Government and society
 
@@ -184,7 +202,9 @@ Slavery and bonded labour supported estates, mines, roads and households. War ca
 | Xarun I Tiravan | 536–486 BR | coastal suppression and major western invasion |
 | Orvaz I Tiravan | 486–431 BR | diplomacy, provincial revolt and royal perjury; death at the harvest acclamation |
 | Tiraz III Tiravan | 431–403 BR | growing western-governor autonomy and Veyr's arrival |
-| Orvaz II Tiravan | 403–after 350 BR | Caleran civil wars and settlement with Thalion |
+| Orvaz II Tiravan | 403–after 350 BR | Caleran civil wars; Velsar's defeat in the Avesh approaches (358); settlement with Thalion |
+| Later Tiravans (unnamed) | after 350 BR | the War of the Two Dawns under the late Serrats; the Dawn Portion treaty early in Velen I's reign |
+| Later kings (unnamed) | to 555 AR | wars with imperial Atheria; the Ubar Toll War (514–523); the last King at Dawn declared forsworn (555) and pensioned at the oasis |
 
 ## The eastern heroic inheritance
 
@@ -203,4 +223,5 @@ The songs of **Razana Tiravan** remember a physician and negotiator of the royal
 - [[Ancient Qahur and the Twin-Reed Crowns]]
 - [[The Last Generations of the Caleran Republic]]
 - [[Wars of the Inheritance]]
-- [[The Eastern Sea Wars]]
+- [[The Last Dynasties of the Age of Glory]]
+- [[The Long Frontier and the First Unsealing]]

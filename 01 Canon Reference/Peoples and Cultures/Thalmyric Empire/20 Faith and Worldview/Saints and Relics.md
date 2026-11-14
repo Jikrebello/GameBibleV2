@@ -28,9 +28,14 @@ The process is less juridical than Eclessian canonization and no less vulnerable
 - **Amaryah the Fire-Bearer:** Mother of refuge memory and the Church's supreme model of faithful custody.
 - **Caedros I the Returning:** founder-emperor glorified after his death at the Pillar; his status remains the central dispute with Eclessia.
 - **Ioan of Velia:** defender of the vessels and theologian of the Uncreated Kindling.
-- **Theodosia the Kindler:** restorer of icons and founder of the Rekindling feast.
+- **Theodosia the Kindler:** the empress who opened the crown lamp-houses in 1052, walked the first mile of the relay from the Ember and founded the Rekindling feast.
 - **Saint Naris of Halmenth:** drowned coast saint whose cult serves sailors and families of the lost.
+- **Saint Gavrin of the Halter:** the bound farrier of the steppe camps, glorified in the 1290s, whose blessing on a dying black colt is held to have renewed the horse-grace.
 - **The Twelve Companions:** shared foundation of the faith, interpreted through Thalmyric patronage and liturgy.
+
+## Saints of the Road
+
+Some of Thalmyria's best-loved holy people have never been added to the diptychs. **Despina of Kolonna**, a district soldier's widow, came to Veridun in 1167 to pray for her three sons on the frontier and stood in the nave with a lamp of her own at Caedros III's funeral. Seven claimants held lamps at the bier and none kindled; hers took the Flame. The court suppressed the report, the district armies made it their warrant, and Despina went home and refused every summons to court. The **Widow's Lamp** is kept in Kolonna's church, and district families still carry their door-lamps to it on the anniversary. The Synod treats her cult cautiously, since it put an emperor on the throne; the districts need no synod to keep her day.
 
 ## Relics
 

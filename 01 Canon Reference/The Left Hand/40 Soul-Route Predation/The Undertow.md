@@ -25,7 +25,7 @@ Their methods corrupt the practices surrounding death. A syllable may be altered
 
 Funeral keens among two otherwise separate peoples preserve the warnings “heed no voice but One” and “heed no voice from under the mere”. Both refer to recruiters who call to the newly dead from reed beds, wells and crossing water with promises of refuge from judgement. The origins of the songs have been forgotten, but their instructions still obstruct the oldest smuggling routes.
 
-Wolfsmere remains the network's greatest known objective. Four thousand people drowned at a sacred site and are held asleep by the Lakekeepers. The Undertow has sought them for three hundred and fifty years. The Lakekeepers make an annual payment to prevent their seizure, and the rising price has never been disclosed.
+Wolfsmere remains the network's greatest known objective. Four thousand people drowned at a sacred site and are held asleep by the Lakekeepers. The Undertow has sought them for more than three and a half centuries. The Lakekeepers make an annual payment to prevent their seizure, and the rising price has never been disclosed.
 
 ## Structure and Signs
 

@@ -37,7 +37,7 @@ The border economy also includes ransom, slavery and compulsory payments. Protec
 
 The [[The Velian Church|Velian Church]] follows Nasriel's teaching that Amaryah bore the perfect human vessel, upon whom the uncreated Fire descended at the opening of the Redeemer's ministry. Thalmyric and Eclessian theologians condemn this account as a division of the Redeemer's person. Velian theologians defend it as an affirmation of the Fire's transcendence.
 
-The Catholicos of Qabir heads the Church. Its clergy may marry; its churches are whitewashed, image-free and lit by a single lamp. The liturgy preserves the Jirahar dialect associated with the Redeemer's earthly life. These practices give Velian congregations a recognisable character across political borders.
+The Catholicos of Qabir heads the Church. Its clergy may marry; its churches are whitewashed, image-free and lit by a single lamp. The liturgy preserves the Jirahar dialect associated with the Redeemer's earthly life. It came from the baptised gateway congregations of Jirahar descent that named the Second Silence of 385, when the lamps of Vestian's compulsory professions failed to kindle. These practices give Velian congregations a recognisable character across political borders.
 
 Church membership and ancestry overlap without being identical. Some members of the communion come from other peoples, and Velian families differ in observance and religious allegiance. Under Covenant rule, recognised congregations belong to [[The People of the Lamp]]. This status protects worship and communal institutions while imposing legal inferiority, levies and restrictions. Periodic persecution and changes of ruler can undermine its guarantees.
 

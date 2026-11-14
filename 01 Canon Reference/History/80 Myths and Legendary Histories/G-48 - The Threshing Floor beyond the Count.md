@@ -18,7 +18,7 @@ aliases: ["The Threshing Floor beyond the Count"]
 
 ## Historical setting
 
-**c. 1171–1173 AR; High Noon.** A tributary river principality of the successor-imperial world, in the years between the golden age of Caedros III and Qarath. This tradition belongs to [[High Noon and the Qarath Disaster]]; its cultural bearers are Thalmyric, Eclessian and Sestaran tellers.
+**c. 1171–1173 AR; High Noon.** Elenara, a tributary river principality of the successor-imperial world, in the years between the golden age of Caedros III and Qarath; the threshing floor is at Kremna. This tradition belongs to [[High Noon and the Qarath Disaster]]; its cultural bearers are Thalmyric, Eclessian and Sestaran tellers.
 
 It is told in High-Noon harvest districts where a useful census became a route for soldiers and death.
 

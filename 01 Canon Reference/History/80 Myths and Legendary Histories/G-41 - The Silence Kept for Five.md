@@ -3,7 +3,7 @@ type: legend
 status: canon
 canon_level: local
 visibility: public
-era: ["c. 230–395 AR; Underground to Conversion"]
+era: ["c. 230–398 AR; Underground to Conversion"]
 region: ["inland provincial Atherian cities"]
 culture: ["temple descendants and early Church communities"]
 related_factions: []
@@ -18,7 +18,7 @@ aliases: ["The Silence Kept for Five"]
 
 ## Historical setting
 
-**c. 230–395 AR; Underground to Conversion.** Inland provincial Atherian cities. This tradition belongs to [[The Conversion of the Empire]]; its cultural bearers are temple descendants and early Church communities.
+**c. 230–398 AR; Underground to Conversion.** Inland provincial Atherian cities. This tradition belongs to [[The Conversion of the Empire]]; its cultural bearers are temple descendants and early Church communities.
 
 It is told among Conversion-era singers, descendants of temple custodians and choirs that inherited their melodies.
 

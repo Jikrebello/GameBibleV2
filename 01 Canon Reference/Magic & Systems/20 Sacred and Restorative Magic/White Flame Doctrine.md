@@ -51,6 +51,10 @@ Mortals encounter the White Flame through:
 
 Because the White Flame is real, institutions compete to control its public meaning. Churches can preserve doctrine, test sainthood, guard relics, and protect souls. They can also forge signs, politicize sanctity, suppress inconvenient saints, or confuse institutional victory with divine approval.
 
+A genuine manifestation has the scope of its particular commission, so it cannot settle every claim made by a relic's custodians. A signed deed can settle who keeps the building; the flame or saint remains free to answer.
+
+The Guttering (398–905) is the type case: see [[The Guttering - Authorial Truth]]. Why a genuine manifestation proves its commission and nothing beyond it, why a crowded field of Shell-fire, Menhir omens and Idol counterfeits makes every wonder disputable, and why compelled professions did not kindle in 385: [[Signs and Proof - Authorial Truth]].
+
 ## Cultural Contrast
 
 - **Eclessia:** tends to approach White Flame through institution, canon law, relic courts, saints, pilgrimage, proof, and public doctrine.
@@ -61,3 +65,4 @@ Both may be genuinely connected to the Redeemer. Both may also be tempted to pos
 ## Navigation
 
 - [[Magic & Metaphysics MOC]]
+- [[Signs and Proof - Authorial Truth]]

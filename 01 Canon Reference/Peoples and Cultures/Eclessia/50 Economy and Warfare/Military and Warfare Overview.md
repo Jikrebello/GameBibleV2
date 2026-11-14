@@ -23,7 +23,7 @@ Caldria preserves the fortress and crusading tradition born in 906-908 AR. Virel
 
 ## Wars of Reform
 
-The Ashenmen Risings began as wagon-fort rebellions and became a school of confessional war. Freeflame forces used literate quartermasters, town militias, field preaching, and confiscated Church strongholds. Old-Church armies combined princely cavalry, orders, episcopal levies, and relic-bearing chaplains.
+The Ashenmen Risings (1306-1329) began as wagon-fort rebellions and became a school of confessional war. Their bands were sworn in the Weiss, the miners and farmers of Brenholt wading into the river below Aldersbruck to fight until the last false seal was burned, and in twenty-three years no band is recorded breaking that oath. Freeflame forces used literate quartermasters, town militias, field preaching, and confiscated Church strongholds. Old-Church armies combined princely cavalry, orders, episcopal levies, and relic-bearing chaplains. The Risings ended by the letter of their oath in 1329, when Duke Rainald of Ironvale burned his duchy's Sending letters in Brenholt market square and the bands came down from their wagon-forts into his service; the princes' Reform Wars followed.
 
 The fighting destroyed Ironvale's ducal house and created enduring military exiles. It also taught rulers to use doctrine as a title to land. Sincere defense of worship and cynical confiscation frequently marched under the same banner.
 
@@ -37,7 +37,7 @@ The Korrheim Accord prohibits armed conversion across recognized borders. It doe
 - **Ostermark-Ironvale Trade Wars, 1312-1320 AR:** river toll fights and foundry embargoes became a northern theater of the Reform Wars.
 - **Veridancian Succession War, 1278-1282 AR:** rival court houses contested the ducal line; the settlement strengthened the Council of Verdissia and its lay jurists.
 - **First Southern Crusade, 1060-1067 AR:** post-Drossfeld marcher expansion continuing Adalmar's Folk policy.
-- **Great Southern Purge, 1158-1163 AR:** destruction of seers and shrine settlements; remembered by the Folk as a campaign against land memory.
+- **Great Southern Purge, 1158-1163 AR:** destruction of seers and shrine settlements under a relic-court ruling that the shrines held unexamined fire; remembered by the Folk as a campaign against land memory. It ended in 1163 after the boundary groves were cut and riders without breath went through the marcher camps on three nights; an Aveline chapter was lost.
 - **March of the Redeemer's Sword, 1258-1261 AR:** failed attempt to occupy the deeper cold forest shortly after the Grey Sweat.
 
 These events survive as named campaigns, not as independent eras competing with the central chronology.

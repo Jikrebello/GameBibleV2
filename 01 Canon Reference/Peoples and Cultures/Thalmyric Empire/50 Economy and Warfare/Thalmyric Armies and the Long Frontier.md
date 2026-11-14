@@ -21,6 +21,8 @@ The Thalmyric military combines provincial levies, imperial regulars, noble hous
 
 Military tenants hold land in exchange for local service, training, and equipment. Levies defend roads, walls, and nearby districts. They are effective at home and politically difficult to deploy far away.
 
+Soldier-tenure began on the old empire's Long Frontier. Its kindled marches were each held under one charter sworn in the Fire, renewed at every accession by the emperor in person before a frontier monk, and their land was held for service and paid no tax. An emperor who would not ride to his marches could not call them out: Corvenas I won the throne in 713 by riding them, and Corvenas III's written orders could not move a march in 905. The refuge militias carried the habit through the Fall. In 1118 Caedros III settled the frontier emptied by the Two Winters as military districts, each holding owing a lance in war and a lamp by the door, and those districts won the War of the Southern Deeds, made Andrion emperor and marched to Qarath's Well. The present levies descend from them.
+
 ## Imperial Regulars
 
 Coin-paid infantry, cavalry, engineers, artillery, scouts, and supply troops serve across the empire. Veteran plots provide an exit after each seventh year and seed frontier settlements with trained households.

@@ -172,5 +172,3 @@ The following centuries lead to [[The Long Frontier and the First Unsealing]], w
 Smaller local histories and restored reserve leads: [[Additional Mortal Lives and Frontier Traditions]].
 
 Lives of the age's great saints and sinners as the chronicles tell them: [[Saints and Sinners of the Chronicles]].
-
-Lives with independent later histories: [[Great Saints and Sinners - Lives and Afterlives]].

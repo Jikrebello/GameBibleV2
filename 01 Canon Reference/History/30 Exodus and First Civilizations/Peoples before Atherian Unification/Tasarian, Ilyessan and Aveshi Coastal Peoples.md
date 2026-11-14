@@ -26,7 +26,7 @@ Public worship belonged to each city and its neighbourhoods. Sailors carried rit
 
 ## Distinct coastal cities
 
-Tasar controlled a harbour suited to fleets and long voyages. Its leading houses competed over naval contracts and access to inland grain. Ilyessa gained influence through markets, skilled interpreters and routes towards the highlands. Avesh occupied a smaller but strategically useful coast where local pilots could carry vessels through difficult waters.
+Tasar controlled a harbour suited to fleets and long voyages. Its leading houses competed over naval contracts and access to inland grain. Avesh gained influence through markets, skilled interpreters and the roads towards the highlands, and became the seat of Vashar's western road command. Ilyessa held a smaller but strategically useful coast on the Narrows, where local pilots could carry vessels through difficult waters.
 
 Each city developed separate festivals, rival families and political interests. Their councils cooperated against piracy or blockade when necessary. They also betrayed one another, seized cargo and invited foreign garrisons during civic struggles. The eastern coast functioned as a connected commercial zone divided among several states and civic populations.
 

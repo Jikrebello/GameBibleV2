@@ -26,7 +26,7 @@ The [[Nine Wells of Tergai]] remain a particularly bitter point of contact. Tark
 
 Western camel husbandry long preceded the eastern [[First Catch and Grey Sister|First Catch of 905–920 AR]], when clans captured remount herds scattered by Atheria's fall. The sacred mare Grey Sister began the hymn-blessed lines that changed grassland warfare. Their inherited blessing has since weakened.
 
-Qarayel united the Tarkhan in 1261. The campaigns remembered as the [[Qarayel and the Black Wind|Black Wind]] carried their power far beyond earlier limits. After his death in 1303, the empire divided into four hordes in 1304. His burial remains unknown.
+In 1249 a captive Velian farrier's hymn over a dying black colt of Grey Sister's line brought the old grace back into one line of horses. Qarayel, the colt's herd-master, united the Tarkhan by stud-right in 1261. The years remembered as the [[Qarayel and the Black Wind|Black Wind]] carried their power far beyond earlier limits, until the renewed grace thinned around 1300. After his death in 1303, his herds were divided by grace-line among four hordes in 1304. His burial remains unknown.
 
 ## Households and movement
 

@@ -19,7 +19,9 @@ Korrheim is a central Markish confederation of mountain cantons, free towns, for
 
 ## Historical Formation
 
-Korrheim's valleys belonged nominally to Gervin's inheritance but resisted durable princely rule. Mutual defense, toll compacts, and siege obligations hardened into a confederation. Its soldiers became valuable abroad because canton discipline survived where noble levies did not.
+Korrheim's valleys belonged nominally to Gervin's inheritance but resisted durable princely rule. The first cantons were made by slaves. The counts' silver mines in the Heldenberg were worked by convicts, Two Winters bread-rioters and the children of Folk captives, and around 1116 a slave courier led a revolt through the prison tunnels that freed several valleys. When the counts' winter army came back up the valley in 1123, he sent condemned overseers through a broken passage under the mountain called the Cold Way. Those who came back had been changed by it, and were dangerous, but through them the rebels learned the passage, came out behind the army in the snow and broke it. In 1124 the free valleys swore the **Oath of the Shafts**, the founding oath of the first cantons. Around 1137 their liberator confessed before the canton assembly what the passage had done to the prisoners and went into exile; his cult calls him the Saint of Ashen Wings. Korrheim still keeps its liberation feast with white bread, and the next morning shares black bread baked with the feast's ashes while the names of the Cold Way's victims are read.
+
+Mutual defense, toll compacts, and siege obligations hardened the cantons into a confederation. Its soldiers became valuable abroad because canton discipline survived where noble levies did not.
 
 ## The Grey Sweat
 
@@ -27,7 +29,7 @@ Communal burial, shared granaries, and valley quarantine strengthened civic oath
 
 ## Reformation and Accord
 
-Some cantons accepted Freeflame preaching; others remained old Church. Repeated attempts to impose a uniform rite nearly broke the confederation. Korrheim hosted the 1343 settlement because neither confession could dismiss its soldiers, roads, or internal example.
+Some cantons accepted Freeflame preaching; others remained old Church. Repeated attempts to impose a uniform rite nearly broke the confederation, and in 1340 the Freeflame-majority canton of Falkendorf brought it to the edge of civil war. Korrheim hosted the 1343 settlement because neither confession could dismiss its soldiers, roads, or internal example. The Accord was drafted at Heldenheim and sworn with the signatories' hands in the River Weiss; the radical congregations that refused to swear on that water, the Unsworn, were left outside it.
 
 The Accord's rule applies canton by canton. Heldenheim seats old-Church and Freeflame delegates together but does not guarantee private conscience within either jurisdiction.
 

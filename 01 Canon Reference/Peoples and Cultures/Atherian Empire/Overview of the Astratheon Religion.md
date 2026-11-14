@@ -3,7 +3,7 @@ type: culture
 status: canon
 canon_level: local
 visibility: public
-era: ["c. 1900 BR-398 AR"]
+era: ["c. 1900 BR–385 AR"]
 region: ["Atherian Heartland", "Atherian Empire"]
 culture: ["Atherian"]
 related_factions: ["Star Priesthoods", "Astral Keepers"]
@@ -72,7 +72,7 @@ Ferrymen and boat families told against these promises long before the Church di
 
 Public worship followed the civic calendar. Processions, races, dramatic contests, military dedications and night watches joined the life of temples to markets and government. Birth, adulthood, marriage, military service and death could each be marked by a rite under the appropriate constellation. Pilgrims travelled among prominent shrines and observatories, often combining devotion with trade or education.
 
-Offerings included animals, wine, grain, crafted objects, weapons, songs and treasure. Human sacrifice occurred at particular royal and military ceremonies, especially after conquest or during feared celestial alignments. Practice varied across periods and cities and was frequently contested. The Common Sky settlement itself included the killing of captives supplied by Ilaron after a river campaign.
+Offerings included animals, wine, grain, crafted objects, weapons, songs and treasure. Human sacrifice occurred at particular royal and military ceremonies, especially after conquest or during feared celestial alignments. Practice varied across periods and cities and was frequently contested. The Common Sky settlement itself included the killing of captives supplied by Ilaron after a river campaign. In 609 BR, during the second Gateway war, Caleran killed Gateway captives and hostage children on the same festival ground to give Astaroth a contestant. The rite failed, and the augurs replaced it with the Warden of the Red Field, a living commander who accepted the field in person and could not quit it while a named enemy held it. In 486 BR the senate's Licensed Sighting gave the augurs sole right to seek or record a sign over public things.
 
 ## Temples and Priesthoods
 
@@ -82,7 +82,9 @@ Each cult maintained its own priests, property and rites. The Astral Keepers stu
 
 ## Conversion and Survival
 
-Redeemer communities condemned sacrifice, celestial fatalism and the worship of created powers. Astratheon remained publicly dominant through the Underground Centuries, then shared imperial patronage after legalization in 292 AR. Astrion restored temple stipends, funded hospitality and required publicly paid teachers of the classics to honour Star rites. His successors restored church stipends and left some Star estates in local hands. Vestian's compulsory settlement of 385 closed or converted many temples, dissolved augur colleges and exposed priests and dependants to confiscation, violence and forced conformity. [[Astrion and the Road to Vestian - 348 to 377 AR|Astrion and the Road to Vestian]]
+The augur colleges kept the register of answers, and in imperial law a sign existed only once a chartered college had entered it with its witnesses and the Star that answered. The colleges sealed the three silent days that followed the Binding (0 AR), recovered their copies in the Great Purge (c. 36–45), entered Cassian's Velos sign in the crown's name (292), and handed their registers to the bishops at the Dissolution (Caleran 381, the provinces by 384).
+
+Redeemer communities condemned sacrifice, celestial fatalism and the worship of created powers. Astratheon remained publicly dominant through the Underground Centuries, then shared imperial patronage after legalization in 292 AR. Astrion restored temple stipends, funded hospitality and required publicly paid teachers of the classics to honour Star rites. His successors restored church stipends and left some Star estates in local hands. Vestian dissolved the augur colleges from 381, and his compulsory settlement of 385 closed or converted many temples and exposed priests and dependants to confiscation, violence and forced conformity. [[Astrion and the Road to Vestian - 348 to 377 AR|Astrion and the Road to Vestian]]
 
 The religion survived in household customs, rural shrines, philosophical schools and civic festivals stripped of their older dedications. Eclessian, Thalmyric and Sestaran societies inherited its calendars, architecture, dramatic traditions and celestial vocabulary. A constellation may now provide the date of a feast without receiving worship, while old temple ruins continue to attract pilgrims, antiquarians and cult revivalists.
 

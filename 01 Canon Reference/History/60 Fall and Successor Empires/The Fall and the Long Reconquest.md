@@ -107,4 +107,4 @@ The reconquered empire remained incomplete. Zanthir and the Velian States stayed
 
 Smaller local histories and restored reserve leads: [[Additional Mortal Lives and Frontier Traditions]].
 
-Lives with independent later histories: [[Great Saints and Sinners - Lives and Afterlives]] · [[Saints and Sinners of the Chronicles]].
+Lives of the age's great saints and sinners as the chronicles tell them: [[Saints and Sinners of the Chronicles]].

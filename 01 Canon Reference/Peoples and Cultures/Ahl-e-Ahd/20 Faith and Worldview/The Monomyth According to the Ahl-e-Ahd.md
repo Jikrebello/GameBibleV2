@@ -28,7 +28,7 @@ The Giants enslave humanity through blood, debt, land, appetite, and machines. C
 
 The Great Prophet bears the Divine Quill, breaks the Giant bonds, and leads the freed peoples across the Great Glass Desert. He refuses the bargains of desert powers and teaches that water, bread, sanctuary, and names cannot be taken without obligation.
 
-At the promised refuge he disobeys the Lord and is lost. The people scatter. Covenant teaching treats this as proof that even a liberator remains answerable to the order he serves.
+At the edge of the refuge, with the host's water failing, he opens an Orphaned keepers' well without their consent. The Lord holds him to his own law, "Take no water you have not answered for", and a storm takes him beside the well. The people scatter. Covenant teaching treats this as proof that even a liberator remains answerable to the order he serves. Covenant jurists call this, the Unpaid Well, their first case.
 
 ## The Peoples of the Roads
 

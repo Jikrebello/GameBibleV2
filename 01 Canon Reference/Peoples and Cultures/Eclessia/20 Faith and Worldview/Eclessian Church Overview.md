@@ -36,9 +36,9 @@ The Church also teaches that ordered office protects the faithful from private r
 
 ## The Assurance Scandal
 
-Intercession and burial rites can aid a soul. The late assurance offices converted that truth into a saleable guarantee no mortal office could make. Lord Primarch Alessior VI expanded the trade to finance war, debt, and monumental rebuilding. The failure of those promises during the Grey Sweat prepared the public to hear Ansgar's indictment.
+Intercession and burial rites can aid a soul. The old assurance letters failed their buyers during the Grey Sweat, when priests died faster than the dead could be sent. In 1252 Lord Primarch Gelasin II answered with the **Chancery of Sendings**: endowed Sending Houses sang named rites for named dead, families bought sealed letters promising them, and where the rites were sung the dead lay still. The trade spread on that evidence. Lord Primarch Alessior VI and his Cardinal-Treasurer Silvio Quarne turned it into an industry to finance war, debt, and monumental rebuilding: printed letters priced by age, blank letters with the name left open, and Saint Gerlind's face on the seal. In 1285 an apparition traced to the treasurer's office set a riot burning Aurelium's Saint-Leon quarter, whose singers sent the dead for nothing. From about 1288 letters nobody would ever sing were sold to brokers as dead paper. When Ansgar of Brenholt counted more than ten letters sold for every rite sung in his parish, the public was ready to hear his indictment.
 
-The Council of Veridance abolished assurance sales, codified relic testing, rebuilt seminary education, and founded the Lantern. Gray assurance markets survive through euphemism, private chaplaincies, and forged certificates, particularly around Aurelia.
+The Council of Veridance abolished assurance sales, ordered the Great Arrears sung for every letter sold and never performed, codified relic testing, rebuilt seminary education, and founded the Lantern to walk the haunted parishes singing names out of the old registers. Gray assurance markets survive through euphemism, private chaplaincies, and forged certificates, particularly around Aurelia.
 
 ## The Confessional Settlement
 

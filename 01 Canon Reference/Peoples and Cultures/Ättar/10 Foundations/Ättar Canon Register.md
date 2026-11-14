@@ -30,6 +30,7 @@ This register controls authorial facts about the Ättar. Authority descends thro
 
 - Mother Moon is the true patron; her lesser Moon Court administers the pact.
 - The bargain begins in the [[War of the Empty Halls]] around 1600 BR, not during the Exodus.
+- The bargain follows the named-petitioner rule of Menhir bargains: it attaches to the four chiefs' lines as their halls reckoned descent on the day of the petition, and lasts only while those lines pay. Paternal reckoning of the pact cannot change without breaking it.
 - The first petition named four chiefs and asked for beasts in their bodies and fury in the people sworn beneath them. The Court made the hybrid form hereditary in those paternal office lines and spread lesser rage through the wider oath population.
 - Every old-rite hall chief descended from a pact line must demonstrate one hybrid form at installation.
 - Each ruling line owes the pact-heir's first living child once per generation, regardless of the child's civil status.
@@ -37,6 +38,12 @@ This register controls authorial facts about the Ättar. Authority descends thro
 - Skinwalkers have human and hybrid forms only. They do not become ordinary or giant animals.
 - Transforming does not consume memories. Moontouched decline follows prolonged or excessive hybrid use and is neither immediate nor inevitable.
 - Berserker rage is the lesser inherited pact-effect carried through the broader Ättar population, not a new magic family. Iron-skin paint is toxic alchemy activated by rage.
+
+## Fixed History
+
+- Ancient Ättar law was carried by law-speakers and tally-sticks; the Empty Halls "registers" are remembered rolls recited at All-Things and checked against hall tally-sticks.
+- In the War of the Empty Halls Gharuk Eight-Bowls ate the Narrow-Bowl leaders and fed Urzha's captured brood to his ogres, which is why she sold his ration route to the Ättar coalitions.
+- Ättar sea-raids struck the Kedravan coast in the Atherian Decadence (c. 450–514 AR). From the sixth century Ättar crews filled imperial ranks the church-backed muster no longer filled, and the later Corvenid emperors kept a household guard of Ättar sworn to the emperor's person. Thalmyric tradition may claim that guard as the Ash Guard's ancestor through the crews who sailed for Kedrava in 905; canon does not fix the descent.
 
 ## Fixed Law and Moral Rule
 

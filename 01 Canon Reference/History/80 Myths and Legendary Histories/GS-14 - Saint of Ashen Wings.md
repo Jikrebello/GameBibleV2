@@ -17,9 +17,9 @@ tags: [world-historical-atlas]
 
 ## Earthly life
 
-The future Saint begins as a mine slave and covert courier. A successful revolt uses prison tunnels and wins freedom for several settlements. Facing immediate reconquest, the rebel leader authorises an experimental passage through a damaged correspondence and uses condemned prisoners as the first test party. Survivors return altered and dangerous; the leader kills some personally and conceals the experiment from the liberated settlements.
+The future Saint begins as a mine slave and covert courier in the Heldenberg silver mines. A successful revolt (from c. 1116) uses prison tunnels and wins freedom for several valleys. Facing the counts' reconquest in the winter of 1123, the rebel leader authorises an experimental passage through a damaged correspondence, the Cold Way, and uses condemned prisoners as the first test party. Survivors return altered and dangerous; the leader kills some personally and conceals the experiment from the liberated settlements.
 
-The lie protects the new polity long enough to survive but leaves families without bodies or truth. Years later the leader confesses, surrenders office and accepts exile rather than forcing victims to maintain the heroic story. In exile the former commander rescues people from similar experiments and dies closing one Material breach. Redemption does not make the original test lawful or require families to celebrate the penitent.
+The lie protects the new polity long enough to survive, and in 1124 the free valleys swear the Oath of the Shafts, the first of Korrheim's cantons, but it leaves families without bodies or truth. Around 1137 the leader confesses, surrenders office and accepts exile rather than forcing victims to maintain the heroic story. In exile the former commander rescues people from similar experiments and dies closing one Material breach. Redemption does not make the original test lawful or require families to celebrate the penitent.
 
 ## Later activity
 

@@ -23,7 +23,7 @@ The Smith eventually recognizes that the school has made injury into shame and s
 
 ## Later activity
 
-During one Closed-Door crisis, the Saint manifests before leaders of a later strength-order that has begun replacing healthy flesh and abandoning injured members. The manifestation names victims, breaks the chapter seal and protects its records, then withdraws without selecting new leaders. A later conflict with the Glass General concerns perfected replacement bodies offered as a way to erase culpability and grief.
+About a generation after the Smith's death (c. 792), in the last decades of the Long Frontier, the Saint manifests before leaders of a later strength-order that has begun replacing healthy flesh and abandoning injured members. The manifestation names victims, breaks the chapter seal and protects its records, then withdraws without selecting new leaders. A later conflict with the Glass General concerns perfected replacement bodies offered as a way to erase culpability and grief.
 
 A Saint's work ends with the commission; no institution owns or summons the person. A damned Sinner's office, image, body and copied likeness are not the soul. Defeat of such a manifestation does not reverse judgement.
 

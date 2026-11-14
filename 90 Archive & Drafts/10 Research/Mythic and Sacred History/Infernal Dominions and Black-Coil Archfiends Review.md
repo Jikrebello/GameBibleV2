@@ -585,13 +585,14 @@ Each is one autonomous person rooted in one Throne. Alliances, leases and shared
 
 ## Existing true dragons
 
-AF-R10 and AF-R16 are sovereign Hell-side `abyssal-wound` actors, but [[Black-Coil Archfiends - Source Signature and Full Ecology Review]] rules that neither is presently a True Dragon. They remain separate from:
+AF-R10 is now the fourth true dragon. The Double Gate history supplied its Material geography, founding refusal, lie and anchors, and [[The Two-Mouthed Deep]] controls its classification, as [[Black-Coil Archfiends - Source Signature and Full Ecology Review]] records. AF-R16 remains a sovereign Hell-side `abyssal-wound` actor and is not presently a True Dragon. The established true dragons are:
 
 - [[The Shoreless King|refuge deliberately made impossible]];
 - [[The Unwritten Worm|atrocity converted into enforced absence]];
-- [[The General Below|eternal conscription]].
+- [[The General Below|eternal conscription]];
+- [[The Two-Mouthed Deep|authority making obedience impossible and calling every response guilty]].
 
-Similar eel-draconic morphology is expected and proves no kinship. Neither may acquire True Dragon classification merely because a campaign needs a boss; a later reclassification would require reopening this ruling and satisfying the complete dedicated dossier gate.
+Similar eel-draconic morphology is expected and proves no kinship. AF-R16 may not acquire True Dragon classification merely because a campaign needs a boss; a later reclassification would require reopening this ruling and satisfying the complete dedicated dossier gate, as AF-R10's did.
 
 ## Giant and Enochic interface
 

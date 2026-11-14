@@ -26,7 +26,7 @@ Atheria founded Aversia as a mining and military colony securing ore and the pen
 
 ## Society and Faith
 
-Miners, charcoal burners, forge hands, engineers, factors, company families, farmers, prisoners, and migrants sustain the military economy. Old-Church chaplains serve towns and companies; soldiers argue whether a contract can make a war just or only make responsibility legible.
+Miners, charcoal burners, forge hands, engineers, factors, company families, farmers, prisoners, and migrants sustain the military economy. The high mines remember the Compact of the Knockers, kept between about 1110 and 1170 with the small grey people at the edge of the lamplight, until Shield-House officials faked its warning knock and sent strikers and prisoners into the deadliest workings; Aversian miners still never answer the middle of three knocks. Old-Church chaplains serve towns and companies; soldiers argue whether a contract can make a war just or only make responsibility legible.
 
 ## Economy and Defence
 

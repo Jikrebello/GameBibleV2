@@ -63,6 +63,8 @@ Defecting soldiers, surviving witnesses, and rival scribes reconstructed enough 
 
 The seal weakens when records are centralized and purged, witnesses are treated as enemies of order, or the Empty Street is built over.
 
+**Cause and the loose years.** Caleran's siege levies for Qarzeth (526–520 BR) provoked the district's rebellion, and the witnesses killed were Compact soldiers marching home from the siege. Before the sealing (c. 513) came the loose years: seven harvests by the Witness Stones, four by Caleran's annals. In them the Worm cut the names from the war rolls of Qarzeth's sack and from the founders' genealogies. See [[The Erasure of Orthea#The Loose Years]].
+
 ## Permanent Defeat
 
 Destroying a manifested body only returns it to the missing interval beneath Orthea. Permanent victory requires reconstructing causal truth, restoring names and places, protecting independent witnesses, destroying every occlusion anchor, and closing the wound while refusing the Worm's offer of consequence-free power.

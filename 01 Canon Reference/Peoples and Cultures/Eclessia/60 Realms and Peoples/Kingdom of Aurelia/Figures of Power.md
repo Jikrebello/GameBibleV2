@@ -34,8 +34,9 @@ tags: []
 
 ## Preserved Events
 
-- **Schism of the Twin Cardinals, 1240-1242 AR:** rival cardinals issued incompatible plague burial and succession rules. The conflict exposed how quickly emergency doctrine could become a property war and led to stronger relic-court procedure.
-- **Burning of Saint-Leon, 1285 AR:** a supposed heretical quarter was destroyed after a staged apparition and manipulated riot. The event remains a stain on Aurellian policing and a foundational Lantern case.
+- **Schism of the Twin Cardinals, 1240-1242 AR:** rival cardinals issued incompatible plague burial and succession rules until Lord Primarch Gelasin II was accepted by both. The conflict exposed how quickly emergency doctrine could become a property war and led to stronger relic-court procedure.
+- **Chancery of Sendings, 1252 AR:** Gelasin II reorganised the old assurance letters into Sending Houses that sang named rites for named dead, with the Medori carrying the payments. Under Alessior VI and his Cardinal-Treasurer Silvio Quarne (1282) the letters were printed, priced and sold faster than they could be sung; from c. 1288 the unsung ones went to brokers as "dead paper". The Medori have held the Chancery's registers as surety since 1296.
+- **Burning of Saint-Leon, 1285 AR:** a quarter whose people sang the dead out for nothing was destroyed after an apparition of Saint Gerlind condemned them and a riot followed. Lantern investigators traced the apparition to the Cardinal-Treasurer's office. The event remains a stain on Aurellian policing and a foundational Lantern case.
 - **Trade War of Orventis, 1310-1313 AR:** tariffs, excommunications, and river seizures targeted Freeflame-linked merchants during the early Reform Wars.
 - **Excommunication of Odran, 1340 AR:** Odran of Caldria, an uncle and self-declared royal claimant, rejected Primarchal command during the Reform Wars. His brief border campaign survives in older prose as the excommunication of a "king"; he never lawfully held that title.
 

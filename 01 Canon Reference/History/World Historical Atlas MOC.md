@@ -26,20 +26,20 @@ A community may preserve both an object and a story about it while disagreeing a
 ## Through the ages
 
 - [[Creation and the First Rebellions]] — Creation, primordial rebellion and the later traditions through which peoples remember them.
-- [[Age of Chains]] — Giant dynasties, lesser kingdoms, captive households and resistance.
-- [[Age of Exodus]] — The collapse of Giant rule, pursuit, the Glass refuge and the formation of one people.
-- [[Age of Scattering]] — Disputed leadership, successive departures and two gradual fissions.
-- [[Age of Hearths and First Kings]] — Local rulers, related but independent peoples, maritime societies and household traditions.
-- [[Age of City-States]] — Ports, tower towns, leagues, conquest and civic development.
-- [[Age of Stars]] — Atherian synthesis, roads, exile, restoration and the expansion of public institutions.
-- [[Atherian Imperial Age]] — Caleran, provincial society and the Age of Glory.
-- [[The Age of the Redeemer]] — The Redeemer, his Companions, persecution and the communities that survived it.
-- [[The Conversion of the Empire]] — Legalization, compulsory conversion, temple destruction and religious change.
-- [[The Long Frontier and the First Unsealing]] — Covenant expansion, border societies, shared work and renewed warfare.
-- [[The Fall and the Long Reconquest]] — Invasion, refugees, mountain resistance and the recovery of provinces across generations.
-- [[The Great Split — Two Crowns, One Fire]] — The division of crowns and churches, and its consequences for connected communities.
-- [[High Noon and the Qarath Disaster]] — Imperial strength, military disaster, decline and the plague years.
-- [[The Age of Held Proofs]] — Reformation, the Accord and the inherited circumstances of 1360.
+- [[Age of Chains]] — Giant dynasties, lesser kingdoms, captive households, resistance and the hunger in which the age ended.
+- [[Age of Exodus]] — The collapse of Giant rule, pursuit, the Glass refuge, the formation of one people and the season the bread stopped.
+- [[Age of Scattering]] — Disputed leadership, the quarrel over the seed, successive departures and two gradual fissions.
+- [[Age of Hearths and First Kings]] — Local rulers, related but independent peoples, maritime societies, household traditions and the breaking of the bronze roads.
+- [[Age of City-States]] — Ports, tower towns, leagues, a harbour drowned for refusing refuge, a city that enthroned a four-doored protector, conquest and civic development.
+- [[Age of Stars]] — Atherian synthesis, roads, exile and restoration; Caleran's bread wars with Qarzeth, the Red Field and the noon shadows at Sarven.
+- [[Atherian Imperial Age]] — Caleran, provincial society and the Age of Glory: the tested works, the speaking portrait and the Qiryath charter.
+- [[The Age of the Redeemer]] — The Redeemer, his Companions, the three silent days, persecution and the communities that survived it.
+- [[The Conversion of the Empire]] — Legalization and the river at Velos, Astrion's answered standard, the dissolution of the augur colleges, compulsory faith and the Second Silence.
+- [[The Long Frontier and the First Unsealing]] — The Guttering, the Thin Floods and the end of Vashar, conquest by breach-court, the kindled marches and the peace broken in 874.
+- [[The Fall and the Long Reconquest]] — Invasion by law and engine, refugees, mountain resistance, the Covenant's widowed oaths and the recovery of provinces across generations.
+- [[The Great Split — Two Crowns, One Fire]] — Two crowns claim Atheria; the Lamp Controversy, the schism of 1015, the partition by lot and the Crown of Embers vaulted.
+- [[High Noon and the Qarath Disaster]] — Caedros III's frontier districts, the Unanswered Funeral, Qarath's Well and the blinding, and the plague years.
+- [[The Age of Held Proofs]] — The reckoning of the assurance trade, the Reformation and the Accord sworn on the Weiss, the Black Wind's partition, the Boiling Sea crossing and the unopened proofs of 1360.
 - [[Distant Lands and Otherworld Histories]] — Distant local chronologies and the sequences of realms beyond the Material world.
 
 ## Peoples, rulers and ordinary lives
@@ -48,7 +48,7 @@ A community may preserve both an object and a story about it while disagreeing a
 
 [[01 Canon Reference/History/30 Exodus and First Civilizations/Peoples before Atherian Unification/Peoples before Atherian Unification.md|Peoples before Atherian Unification]] gives the detailed ancient register to 350 BR. It follows the names and membership practices used by Atherian, Qahuri, Gateway, Jirahar, Arqeshite, Vashari and eastern communities before later national and confessional identities existed.
 
-The [[Lesser Crowns of the Giant Age]] introduces the original eighteen secondary polities and the Aurin kingdom of [[Arsuvan - The Giant Kingdom of the Aurin|Arsuvan]], within the many-state world of the Five Imperial Horizons. [[Named Figures of the Known World]] introduces established rulers, teachers and commanders. [[Great Saints and Sinners - Lives and Afterlives]] follows fourteen independent mortal lives and their later activity, while [[Additional Mortal Lives and Frontier Traditions]] gathers local heroes, artisans, households and other remembered figures.
+The [[Lesser Crowns of the Giant Age]] introduces the original eighteen secondary polities and the Aurin kingdom of [[Arsuvan - The Giant Kingdom of the Aurin|Arsuvan]], within the many-state world of the Five Imperial Horizons. [[Named Figures of the Known World]] introduces established rulers, teachers and commanders. [[Saints and Sinners of the Chronicles]] is the public account of the holy and the damned dead whom churches, prison roads, forge towns and harbour cities remember from the Underground Centuries to 1360, and of what each did to history. [[Great Saints and Sinners - Lives and Afterlives]] follows fourteen independent mortal lives and their later activity, while [[Additional Mortal Lives and Frontier Traditions]] gathers local heroes, artisans, households and other remembered figures.
 
 For the political circumstances inherited by the present generation, read [[Present-Day Courts and Crowns (1360 AR)]] and [[Present-Day Political Board]].
 
@@ -70,13 +70,13 @@ The [[Historical Atlas of the Elmaric Sea before 350 BR]] follows the central is
 
 [[Palace Survivors and the Southern Heroic Age]] follows independent recovery after the Giant collapse. [[The Siege and the Returnings]] gives that world a connected heroic history, from High Harbour's fall to supernatural pursuit, changed households and settlement on another shore.
 
-For the overseas republic, read [[The Gateway Republic]] and [[The Gateway Wars]]. Their history connects food-producing towns, naval service, rival commanders and opposition to child sacrifice with the destruction of the capital. [[The Spared Towns and the Queen's Country|The Spared Towns and the Kingdom of Sarqen]] follows the survivors into a royal state centred on the surviving harbours.
+For the overseas republic, read [[The Gateway Republic]] and [[The Gateway Wars]]. Their history runs from the Tammur Tables and Zamaret's Bread to the Red Field and the destruction of the capital, connecting food-producing towns, naval service and opposition to child sacrifice with Caleran's own sacrifice on its festival ground. [[The Spared Towns and the Queen's Country|The Spared Towns and the Kingdom of Sarqen]] follows the survivors into a royal state centred on the surviving harbours.
 
 The neighbouring Sacred Basin possessed an independent history. [[Ancient Qahur and the Twin-Reed Crowns]] follows its Orphaned river communities from Ishkatar's collapse through successive native and foreign dynasties to the divided crowns of 350 BR. [[Life in the Ancient Sacred Basin]] describes its canals, towns, workshops, households and pleasures. [[The White Measure and the Second Houses]] follows the mortuary discipline by which several wealthy Qahuri founders bound their souls to embalmed bodies and became Egg White Patrons. [[Qahur and the Gateway before Atheria|Qahur and the Gateway, c. 2165–350 BR]] connects the two civilisations through food, roads, marriage, refuge and war.
 
 The population history is gathered in [[The Three Regions of Ancient Qahur]], [[Gateway Peoples, Qarzeth and the Spared Towns]] and [[The Hadrathi Border People]]. These articles distinguish Qahuri identity from crown allegiance and Gateway ancestry from the civic claims of Qarzeth or Sarqen.
 
-For the end of the Gateway Republic, [[The Three Collections and the Fall of Qarzeth]] follows Ilya of Qarzeth, Sapha of Esharat, the Caleran debate and the destruction of the child-taking capital. The article preserves the distinction between the rescue of children and the murders, rape and enslavement committed by the victorious army.
+For the end of the Gateway Republic, [[The Three Collections and the Fall of Qarzeth]] follows Ilya of Qarzeth, Sapha of Esharat, the Caleran debate, the destruction of the child-taking capital and the survivors' meal at Sarqen that became the Table Oath. The article preserves the distinction between the rescue of children and the murders, rape and enslavement committed by the victorious army.
 
 ## Qiryath and the eastern empires
 
@@ -86,9 +86,9 @@ For the end of the Gateway Republic, [[The Three Collections and the Fall of Qar
 
 The historical peoples route continues through [[Jirahar of Road, Tower, Exile and Return]], [[Ubar Canal Peoples and the Arqeshites]], [[Vashari and the Subjects of Vashar]], [[Ortheians and Delkosi]] and [[Tasarian, Ilyessan and Aveshi Coastal Peoples]].
 
-[[Vashar and the Crown of Roads and Dawns]] follows Arezan Tiravan's coalition and the highland empire which inherited much of the Ubar basin. The adjoining Atherian history begins with [[Ortheia and the Upland Kings|Ortheian]] rule over the Celestial Compact and [[Eryndor III and the Ortheian Eastern Conquest|Eryndor III's]] campaign across the eastern sea. The [[Wars of the Inheritance]] divide his conquests among Vashar, Ortheia, Delkos, selected Qahuri crowns and farther eastern states. [[The Eastern Sea Wars]] carries the relationship between Vashar and the recovered Caleran republic to the settlement of 350 BR.
+[[Vashar and the Crown of Roads and Dawns]] follows Arezan Tiravan's coalition and the highland empire which inherited much of the Ubar basin. The adjoining Atherian history begins with [[Ortheia and the Upland Kings|Ortheian]] rule over the Celestial Compact and [[Eryndor III and the Ortheian Eastern Conquest|Eryndor III's]] campaign across the eastern sea. The [[Wars of the Inheritance]] divide his conquests among Vashar, Ortheia, Delkos, selected Qahuri crowns and farther eastern states, after a voice in his tomb at Delkos claims that he still reigns and makes his heirs worthless. [[The Eastern Sea Wars]] carries the relationship between Vashar and the recovered Caleran republic to the settlement of 350 BR.
 
-The received adventures of the Far-Road King are gathered in [[The Five Limits of Eryndor]]. Its undersea bell, Sky-Lion ascent, speaking grove, sealed pass and failed search for restorative water arose from separate incidents within the campaign. Their cultural versions disagree about what the king learned and who paid for his curiosity.
+The received adventures of the Far-Road King are gathered in [[The Five Limits of Eryndor]]. Its undersea bell, Sky-Lion ascent, speaking grove, sealed pass and failed search for restorative water grew from separate incidents within the campaign, and Delkosi and Qahuri tellers add a sixth limit, his own death. The campaign histories keep only the people those incidents cost; the tales' cultural versions disagree about what the king learned and who paid for his curiosity.
 
 ## Vathra and the northern ground
 
@@ -110,20 +110,28 @@ For the founding generation, begin with [[The Last Generations of the Caleran Re
 
 [[Historical Atlas of the Atherian Age of Glory]] follows the empire from Thalion's settlement to the Redeemer boundary. The political route continues through [[The Later Reign of Aurelius Thalion]], [[The House of Thalion]], [[The Year of Four Eagles]], [[The House of Veloran]] and [[The Last Dynasties of the Age of Glory]].
 
-[[The First Church - From Qiryath to the Tower Revolt|The First Church]] follows the apostolic generation. [[The Church after Qiryath - From Exile to Legalization|The Church after Qiryath]] follows the regional sees, Tervan Marcellan's Edict of Public Sacrifice and Cassian's legalization in 292 AR.
+[[The First Church - From Qiryath to the Tower Revolt|The First Church]] follows the apostolic generation. [[The Church after Qiryath - From Exile to Legalization|The Church after Qiryath]] follows the regional sees, the grave-lamp mutinies behind Tervan Marcellan's Edict of Public Sacrifice and Cassian's legalization in 292 AR.
 
 [[Atheria between Qiryath and Cassian - Emperors Wars and Revolts|Atheria between Qiryath and Cassian]] follows imperial succession, provincial wars, the Sarqen rising and the civil war. [[Cassian and the Four Sees - The Settlement of 292 to 316 AR|Cassian and the Four Sees]] follows the restitution orders, the 297 hearing at Halmenth and the emperor's patronage through 316 AR.
 
-[[The Forty Flames]] follows the Ironvale rising and furnace deaths of 290 AR and the public observance that grew after legalization. [[The Reign of Sevrin]] follows the settlement with Adran, the southern treaties and Astrion's rise to the throne in 348 AR.
+[[The Forty Flames]] follows the Ironvale rising and furnace deaths of 290 AR, the sworn account of the cold furnace read in the Aurin towns in 292, and the public observance that grew after legalization. [[The Reign of Sevrin]] follows the settlement with Adran, the southern treaties and Astrion's rise to the throne in 348 AR.
 
-[[Astrion and the Road to Vestian - 348 to 377 AR|Astrion and the Road to Vestian]] follows the restoration of the Stars, the failed desert expedition, and the rulers who governed before Vestian took power in 377 AR.
+[[Astrion and the Road to Vestian - 348 to 377 AR|Astrion and the Road to Vestian]] follows the restoration of the Stars, the Red Star's single answer of 350, the failed desert expedition, the Answered Standard and the rulers who governed until the Kellovar ford and Vestian's accession in 377 AR. [[The Conversion of the Empire]] carries the story through the dissolution of the augur colleges, the compulsory Profession and the Second Silence to Halmenth in 411.
 
 For society within those centuries, read [[Provinces and Municipal Life in Imperial Atheria]], [[The Imperial Army and the Frontiers]], [[Food, Trade and Enslavement in Imperial Atheria]], [[Schools, Arts and Imperial Magic]] and [[Star Religion and the Imperial Cult]]. The [[The Keeper of Borrowed Grain|Raveth famine]], [[The Crown of Olveth]], [[The Two Roads of Arcelon]] and [[The Companions Who Entered by the Low Door - Imperial History|Low Door Companions]] connect those institutions to particular lives and places.
+
+## After the Fall: the Covenant, Thalmyria and the steppe
+
+[[The Covenant from Idris to Suhrab (905-1190 AR)]] tells the Long Reconquest from the other side: the drowned heir and the Unsworn Years, the winter the wells barked, the amir who surrendered Caleran in his own name, the Long Reach of the Tarkhan riders, the Pledged Custodian and the classical age of the Iqashar courts. Read it beside [[The Fall and the Long Reconquest]] and [[The Great Split — Two Crowns, One Fire]].
+
+[[High Noon and the Qarath Disaster]] follows the wars and wonders from 1104 to the coming of the Grey Sweat, and [[High Noon Provinces and the Qarath Aftermath]] the districts, mine customs, Sestaran credit and Covenant deeds that ordinary provinces lived under. [[Qarayel and the Black Wind]] follows the renewed horse-grace, the Tarkhan banners' thirty-five years of extraction and the Partition of the Herds that made the four Hordes of 1360.
 
 ## Tales that outlived their tellers
 
 
 [[Myths and Legendary Histories MOC]] gathers the seventy-five localised Garden traditions and additional received histories, including [[The Wolf's Two Sons]]. Games, meals, clothing, damaged landscapes, tools and ruined buildings carry meanings acquired through their stories. Each article identifies the communities that tell the tale and distinguishes established remains from disputed interpretations.
+
+Two public histories run across every age: [[Saints and Sinners of the Chronicles]], with the cults, sceptics and rival churches that dispute each life, and [[The Hunger Wars]], which follows the Idols' wars on human towns, armies, churches and households, from the canal wars of the Late Chains to the Pyre of Masks in 1346.
 
 [[The Historical Seed Garden]] preserves the exploratory versions, their original identifiers and their aliases. The individual Atlas articles state which parts of those traditions have entered the canonical account.
 
@@ -147,7 +155,7 @@ The Last Houses and the distant mountain people have histories unknown to the co
 
 [[Unknown Histories - Authorial Accounts]] contains six recoverable histories: false evacuation processions, a murderous founding feast, prisoners made into a living border, a failed furnace refuge, fraudulent restoration in a conquered town and an intercession at an enemy fortress. Surviving witnesses and evidence preserve different parts of each event.
 
-The [[The Grey Sweat - Authorial Truth|Grey Sweat]] and [[The Fourth Seal - Authorial Truth|Fourth Seal]] have separate authorial addenda. [[The Age of Held Proofs - Authorial Control]] preserves the private proof-management model behind the public present-age history. [[Protected Questions of the Historical Atlas]] records the identities, sovereign changes, mysteries and future events that remain unresolved.
+The [[The Grey Sweat - Authorial Truth|Grey Sweat]] and [[The Fourth Seal - Authorial Truth|Fourth Seal]] have separate authorial addenda. Three more hold the private truth behind whole stretches of the reader history: [[Signs and Proof - Authorial Truth]] (0–411 AR: the silent days, the augurs' registers and the Second Silence), [[The Guttering - Authorial Truth]] (398–905 AR) and [[The Covenant after Caleran - Authorial Truth]] (905–1190 AR). [[The Age of Held Proofs - Authorial Control]] preserves the private proof-management model behind the public present-age history. [[Protected Questions of the Historical Atlas]] records the identities, sovereign changes, mysteries and future events that remain unresolved.
 
 ## Reference shelf
 
@@ -163,6 +171,8 @@ The [[The Grey Sweat - Authorial Truth|Grey Sweat]] and [[The Fourth Seal - Auth
 ## Complete library and authorial controls
 
 The [[World Historical Atlas - Integration and Coverage Ledger]] records the destinations of earlier history articles, all seventy-five Garden traditions, reviewed research and former reserve material. It also preserves the precedence of corrected sources.
+
+[[Causality Pass - 00 Proposal Index]] records the November 2026 Causality Pass, which re-caused the history from the Age of Chains to 1360 under [[Causality Pass - Direction]]. Its decisions are carried in the reader articles, the [[The Divergence Pass — Torque Register|Torque Register]] and the [[Real-History Concordance]].
 
 The [[World Encyclopedia - Revision and Expansion Programme]] schedules the continued development of the library, with a complete article and research inventory. The [[World Egg Encyclopedia - Editorial Style Guide]] records the approved standard for its prose and article forms. The [[World Egg Encyclopedia - Standards and Corpus Quality Audit]] measures the present library against that standard and assigns the remaining editorial work to Packages 3–9.
 

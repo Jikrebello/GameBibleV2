@@ -28,12 +28,16 @@ This register controls authorial facts about the Tarkhan. Authority descends thr
 - The Tarkhan are principally an Orphaned people descended from northern communities that survived under, beside and against [[Vathra and the Great Unyoking|Vathra]] outside the Glass Ark.
 - Vathra was a lesser Giant crown whose flying Material cities collapsed during the Great Unyoking. It was not a sixth Imperial Horizon and was not Nythalum.
 - Tergai well houses, Elkari grass families, Taleri tether towns and Narashi caravan houses contributed to ancient Tarkhan formation. Their common name developed during the Hearth-Crown centuries.
+- Meya of Narash sealed the Hundred Wells by a Menhir bargain c. 2255 BR. The bargain binds her line as Narash reckoned descent that day, so Narashi authority runs through crown-mothers, each of whom walks the round of the wells at accession; one crown-mother's fever left the wells open to raiders for a season in the Bronze-Road drought.
+- In the Bronze-Road disruption (c. 1450–1325 BR) trunk roads failed first, Boran Tall-Hand's salvage-copper convoy ended at Daram Ford, and Tarkhan and Ahdari communities came to rely on regional markets, wells and client service.
 - Ancient Tarkhan society used camels, carts, sledges and walking herds. A few chariot and riding horses survived among elite households without producing the mounted civilisation of the Horse Centuries.
-- Tarkhan ancestors deepened and maintained the [[Nine Wells of Tergai]]. Covenant forces seized them violently in 558 AR. The later voluntary-submission account is false.
 - Kharuz of the Stone Wells and the Ahdari water keeper Tavisha defeated Lethren Ostar at Rethmar in 381 BR. Rethmar was a mixed winter gathering rather than a Tarkhan capital or another name for Tergai.
-- The First Catch occurs from 905 to 920 AR. Grey Sister begins the sacred remount genealogy.
-- Qarayel unites the banners in 1261, dominates the Black Wind Years from 1265 to 1300, dies in 1303, and is followed by the Partition in 1304.
-- The first Ash Road Peace is concluded in 1334 after an attack on Castara's new inland route.
+- Tarkhan ancestors deepened and maintained the [[Nine Wells of Tergai]]. They held them by labour, burial and use, with no sealed instrument a Covenant court could void. Covenant forces seized them violently in 558 AR, the worst year of the Thin Floods. The later voluntary-submission account is false.
+- The First Catch occurs from 905 to 920 AR. The studs were Atherian march studs whose lay brothers and handlers drove them north when Idris's clerks listed them for seizure. Grey Sister begins the sacred remount genealogy.
+- The Long Reach (951): Grass-Tarkhan riders on blessed horses break the Covenant's hound-guarded northern wells and water at Tergai, holding Iqashar's field army on the grass to 957. The raiding peaks c. 975–1010 (Iqashar's Horse War). Iqashar charters Mazrakan in 1067 to buy what it cannot beat, and Tarkhan companies serve it on word-price outside the Living Register.
+- At Qarath's Well (1214) Tarkhan companies on blessed lines foul the outer wells and ride through the Thalmyric army.
+- The Thinning of Grey Sister's grace (by the 1230s) is reversed in one line by the blessing of Gavrin the Farrier, a Velian slave farrier, on a dying black colt (1249). Qarayel, named for the stallion, unites the banners by stud-right in 1261 under the Nine-Mane Standard (the manes of the colt's nine proven sons), dominates the Black Wind Years from 1265 to 1300, loses the advantage as the grace thins, dies in 1303, and is followed by the Partition of the Herds by grace-line in 1304. The Hordes take their characters from the lines they inherit; Iron's stand beside bound things, which is why Iqashar hires them.
+- The first Ash Road Peace is concluded in 1334 after the Ash banners burn the camps of Castaran surveyors who staked wells on Ash pasture (1333).
 
 ## Fixed Faith and Magic
 
@@ -41,6 +45,7 @@ This register controls authorial facts about the Tarkhan. Authority descends thr
 - Falcon sky-riding is a pact-mediated sensory overlay through lesser courtiers of Orionis. It is not possession, bodily flight, spell projection, or soul travel.
 - A wind-speaker bonds to one falcon. Distance, weather, landscape, wards, and thin spaces limit the link; the bird keeps its own will.
 - Wind-speakers may read death residue but cannot freely recall routed souls.
+- The horse-grace is a hymn-kindling persisting in a bloodline and thinning by generation; wind-speakers may call it Kokh's gift. Its effect is steadiness before bound things: horses of a strong line do not shy from Depth beasts, bound spirits or speaking engines.
 
 ## Fixed Law and Moral Rule
 

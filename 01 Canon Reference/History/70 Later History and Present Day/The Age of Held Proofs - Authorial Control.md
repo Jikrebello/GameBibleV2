@@ -23,7 +23,9 @@ Because this cosmology is testable — sainthood has protocols, kindling has wit
 
 ## How the engine was made
 
-The habit has a history, and reader articles should tell it as history:
+The habit has a history, and reader articles should tell it as history.
+
+**The root: Tamsar and the Velian chests (611–612).** At Tamsar a breach-court's ruling failed against a march town re-sealed in the Fire, a Caleran reliquary burned yellow before both armies, and neither side gave battle. The instrument of 612, which Covenant law calls the Suspension, held every disputed charter "neither void nor in force": the first deterrence by unopened proof. The Velian cities' pre-conquest charters, locked in fireproof chests c. 610, wait on it still. See [[The Guttering - Authorial Truth]]. The habit then grew through these steps:
 
 1. **The Refusal of the Lamp (1227).** Nikandros I refused the Sanctum's price, a trial of the Great Lamp of Veridun, for Eclessian soldiers: "a lamp that is tried is a lamp that is owned." The first refusal of a test as an act of sovereignty.
 2. **Bruckmoor (1243).** A test that destroyed what it tested, rightly.

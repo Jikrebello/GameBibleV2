@@ -78,7 +78,7 @@ The Prophet died around c. 2165 BR near the outward threshold, in the season the
 
 **The Guest Who Died at the Door.** The Orphaned peoples whose fields lay south of the Glass tell it as a joke with an edge. Folk and Aurin-valley satirists say his captains killed him because he forbade them fields other people had sown. A comic version has him starve "the first winter the bread stopped, like any of us". Its saying is "Heaven's guest ate for a hundred years and starved in a week." The fault is the captains'. Folk satirists around Grenzburg still bring the Guest out in land quarrels.
 
-One line survives in all four tellings: **no one is owned.** Scholars in Caleran, in the Covenant schools and in the Jirahar courts, who agree on almost nothing else about the Prophet, cite it as the best evidence that a real teacher stands behind the four deaths. The rest they leave argued. Some traditions call the death punishment for refusing the southern sanctuary meant to shelter the people for three generations. Others call it murder, tragic exhaustion, or a mystery no nation has the right to simplify.
+One line survives in all four tellings: **no one is owned.** Scholars in Caleran, in the Covenant schools and in the Jirahar courts, who agree on almost nothing else about the Prophet, cite it as the best evidence that a real teacher stands behind the four deaths. The rest they leave argued. Some traditions call the death punishment for refusing the southern sanctuary meant to shelter the people for three generations. Others call it murder, tragic exhaustion, or a mystery no nation has the right to simplify. [[The Four Deaths of the Prophet]] gathers the four tellings.
 
 ## Outside the Ark
 
@@ -113,5 +113,6 @@ Some human communities outside the principal host revolt after the central colum
 ## Local tales and surviving memories
 
 - [[G-03 - The Last Cart|The Last Cart]]
+- [[The Four Deaths of the Prophet]]
 
 Smaller local histories and restored reserve leads: [[Additional Mortal Lives and Frontier Traditions]].

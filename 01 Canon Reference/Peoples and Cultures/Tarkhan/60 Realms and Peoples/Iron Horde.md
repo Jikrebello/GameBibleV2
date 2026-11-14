@@ -13,7 +13,7 @@ tags: []
 ---
 # Iron Horde
 
-The Iron Horde occupies the mixed horse-and-camel frontier north of Iqashar and Mazrakan. It descends from Qarayel's second line and has made contracted military service its road to wealth.
+The Iron Horde occupies the mixed horse-and-camel frontier north of Iqashar and Mazrakan. It descends from Qarayel's second line and has made contracted military service its road to wealth. At the Partition of the Herds in 1304 that line took the black colt's daughters' lines and has bred them back carefully by wind-speaker genealogy ever since. Its horses are the only ones on the frontier that will stand beside the Covenant's own bound wardens, devil-mantled riders and contract engines, and Iqashar began hiring Iron companies the same year. Iron-mounted riders carried the Covenant's night raids to the Thalmyric chapel-forts in the 1310s.
 
 ## Ruler and Government
 
