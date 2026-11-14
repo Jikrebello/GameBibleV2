@@ -28,15 +28,15 @@ Around 404 AR, custodians of a new reliquary began issuing commands in the dead 
 
 ## What people remember
 
-murderer turned useful informant, penitent martyr, prison cult invention, bound ghost, Mask ventriloquism or genuine later Saintly correction.
+Murderer turned useful informant, penitent martyr, prison cult invention, bound ghost, Mask ventriloquism or genuine later Saintly correction.
 
 ## What remains
 
-an annual reading places the betrayed worker’s name before the martyr’s provisional title. One church preserves the order; another reverses it.
+An annual reading places the betrayed worker’s name before the martyr’s provisional title. One church preserves the order; another reverses it.
 
 ## What remains unknown
 
-gender, city, baptismal history, public recognition, number evacuated, exact Mask, relic custody and present authenticity claims. Within this nursery lead, reception as a redeemed Saint after judgement is fixed; no mortal institution proves it.
+Gender, city, baptismal history, public recognition, number evacuated, exact Mask, relic custody and present authenticity claims. Within this nursery lead, reception as a redeemed Saint after judgement is fixed; no mortal institution proves it.
 
 - [[Heavenly Campaigns and the Human Dead]]
 - [[World Historical Atlas MOC]]

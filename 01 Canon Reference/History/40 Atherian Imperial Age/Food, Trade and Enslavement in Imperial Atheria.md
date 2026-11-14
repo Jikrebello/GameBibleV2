@@ -14,7 +14,7 @@ tags: [world-historical-atlas, age-of-glory]
 ---
 # Food, Trade and Enslavement in Imperial Atheria
 
-Imperial Atheria connected farms, workshops, mines and ports across the central known world. Its roads and shipping allowed large cities to draw food and materials from distant provinces. The system supported specialised crafts and substantial prosperity while exposing suppliers to decisions made far from their homes.
+Imperial Atheria connected farms, workshops, mines and ports across the central known world. Its roads and shipping allowed large cities to draw food and materials from distant provinces. A potter in Caleran could eat Sarqen grain from a bowl glazed with northern lead, and a Raveth farmer could lose his harvest to a contract signed in a city he would never see.
 
 ## Grain and the cities
 
@@ -52,7 +52,7 @@ Baths provided washing, exercise, conversation and business. Festivals filled st
 
 A road could bring medicine and soldiers to a threatened town. It could also remove its grain, carry captives away and let an estate owner supervise land from a distant city. Raveth learned both lessons from the Arcelon road: it pulled the province's trade west, and its levy took the men who had kept the flood channels clean.
 
-Households responded through cooperation, bargaining, concealment, migration and revolt. Their work made the monuments and intellectual life of the Glory possible.
+Households answered by pooling stores, haggling, hiding grain under the floor, walking away and now and then burning the estate office. Their work paid for the marble and the libraries of the Glory.
 
 ## Further reading
 

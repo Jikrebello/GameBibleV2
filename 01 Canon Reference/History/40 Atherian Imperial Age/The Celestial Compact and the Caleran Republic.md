@@ -20,17 +20,15 @@ The Celestial Compact joined twelve leading Atherian cities around 800 BR in arr
 
 The member cities inherited different histories of settlement and rule. Some had grown from river landings, others from hill towns, defended markets or coastal households. Their rulers depended on cultivators, craftspeople, transport workers and armed followers. Repeated cooperation against a danger could leave behind expectations about supplies and service which became difficult to abandon.
 
-Caleran's royal government had weakened during the struggle involving Senavar's household. Councillors, boat owners and neighbouring rulers had acquired practical experience of acting together against the crown. Rival royal supporters survived on some estates, preventing a secure replacement dynasty. Selected officers managed responsibilities which had formerly belonged to the king's household.
+When Caleran's last strong king, Senavar, seized the Nerava boats, a coalition of councillors, boat owners and neighbouring rulers forced his garrison out. His family's supporters held on to some estates, no new dynasty could settle, and chosen officers took over the work of the king's household. The councillors had learned to act together.
 
-The Compact placed this changing city within a wider association. Caleran's river mouth connected grain supplies, shipping and inland approaches. Its religious institutions could accommodate visiting delegations at familiar festivals. These advantages attracted meetings and records of agreements, gradually strengthening the city which hosted them.
+The Compact placed this changing city within a wider association. Caleran's river mouth joined grain, shipping and the inland roads, and its festival ground could already seat visiting delegations at feasts they knew. Meetings came to Caleran, and so did the records of what was agreed at them.
 
 ## What membership required
 
-The Compact coordinated matters which its members could not reliably manage alone. A shared calendar made it possible to arrange meetings and musters. Arbitration offered a means of settling disputes before they disrupted a common undertaking. Military contributions gave collective action more force than one city could usually provide.
+The Compact gave its members a shared calendar for meetings and musters, arbitration before a quarrel reached the fields, and an army larger than any one of them could raise. Leading houses made the promises; cultivators, carters and sons paid for them. A city's promise of troops could leave its farms short of reapers at harvest, and a family with silver could buy its way out of a levy that took its neighbour's boys.
 
-Leading houses and rulers negotiated these arrangements. Their commitments required food, labour, animals and equipment from people whose influence over the decision was much smaller. A city's promise of troops could leave cultivators short of workers at harvest. A household able to supply money might avoid burdens borne by one whose principal resource was its sons' service.
-
-The twelve cities were real communities with distinct political histories. Later claims that their founders had all belonged to one original Caleran order were attempts to explain or justify subsequent power. Many Atherian ports and inland towns maintained different relationships with the association.
+The twelve cities had distinct histories. Caleran's later claim that every member's founder had belonged to one original Caleran order was written after Caleran had become their master.
 
 ## The twelve seats
 
@@ -55,31 +53,23 @@ Kyrame and Delkos spoke Atherian and traded with every member, and still held no
 
 ## Councils, magistrates and assemblies
 
-Republican institutions emerged through the repeated exercise of shared responsibilities. Caleran's household council grew into a senate whose members possessed property, family standing and connections with suppliers and soldiers. Annual magistrates took charge of public tasks and commanded forces. Assemblies gave recognised citizens a part in selection and public decisions, although wealth and standing strongly affected whose proposals reached them and whose support could be sustained.
+Caleran's household council grew into a senate of men with land, lineage and friends among the suppliers and soldiers. Magistrates chosen each year ran public business and led armies. Assemblies of citizens voted, though money and standing decided which proposals reached them. A one-year term stopped one man from keeping an office; it did nothing to stop one family from filling it, year after year, through marriages, loans and old soldiers.
 
-Short terms helped prevent one office-holder from occupying the position indefinitely. They did less to limit a family that supplied successive magistrates or financed their projects. A prominent house could remain influential through marriages, loans and military relationships while the names of office-holders changed.
+Public sacrifice, festival patronage and the reading of signs went with every appointment and campaign, and the temples employed enough people that a quarrel over ceremony was also a quarrel over wages and office. Caleran's augurs kept the common calendar, and their intercalary art, built around the old year in which the stars had stood still, let them lengthen a year by a month when the signs required. The families who supplied the augurs also held the longest leases on public land, and their tenants noticed which years grew longer.
 
-Religious duties continued alongside civic ones. Public sacrifice, festival patronage and the interpretation of signs accompanied appointments and campaigns. Temples employed workers and held resources important to the city. A dispute about ceremony could therefore concern a household's livelihood or access to office as well as belief. Caleran's augurs kept the common calendar, and their intercalary art, built around the old year in which the stars had stood still, let them lengthen a year by a month when the signs required. The families who supplied the augurs also held the longest leases on public land, and their tenants noticed which years grew longer.
-
-The change from royal households to republican government took generations. Some member cities retained local dynastic authorities, and other communities joined the expanding political world on terms negotiated later.
+Some member cities kept their own kings for generations; other communities joined later on terms of their own.
 
 ## Citizenship and incorporation
 
-Republican expansion used conquest, alliance and negotiated submission. Admission to civic life varied accordingly. Some communities acquired substantial rights, while others supplied men and taxes without an equivalent voice. Individual households could gain standing through service, manumission, marriage or a public grant, leaving neighbouring families excluded despite long residence.
+Republican expansion used conquest, alliance and negotiated submission, and citizenship came in as many grades. Some towns won full rights; others sent men and taxes and had no vote. A household could rise by service, manumission, marriage or grant while the family next door, resident for a century, stayed outside. The Enathi, Serathi and Vardeni entered the citizen body beside maritime peoples and communities beyond the Aurin, and being Atherian came to mean a language, a festival year and a place on the rolls as much as a bloodline.
 
-The Enathi, Serathi and Vardeni entered these arrangements alongside maritime-derived peoples and communities beyond the Aurin. Atherian identity increasingly involved language, public practice and civic membership. Genealogies still mattered, but they competed with other ways of belonging.
-
-Roads and colonies supported this expansion. Surveyors marked routes and holdings; officials assessed produce; soldiers protected movements and enforced demands. Construction required labour drawn from citizens, subject communities and captives. A road could connect a farmer to a larger market while also carrying the force which seized his land.
-
-The [[01 Canon Reference/History/80 Myths and Legendary Histories/G-08 - The Road That Refused Its Last Stone.md|Road Without Milestones tradition]] preserves the guilt of useful work extended into forced labour and conquest. Labourers died and settlements were destroyed. The refusal to complete one final act did not undo what the completed works had already made possible.
+Roads and colonies carried the expansion. Surveyors marked routes and holdings, officials assessed produce, and soldiers enforced the demands. A road could take a farmer's barley to a larger market and bring back the column that took his land. The [[01 Canon Reference/History/80 Myths and Legendary Histories/G-08 - The Road That Refused Its Last Stone.md|Road Without Milestones tradition]] remembers the labourers who died building it, the settlements destroyed to make way for it, and the one milestone a gang of its workers refused to dedicate, which undid none of it.
 
 ## Land and military service
 
-Campaigning drew workers away from farms for longer periods. Relatives borrowed seed, hired help or accepted loans secured against land. Wealthy neighbours purchased distressed holdings and employed captives on enlarged estates. Conquest brought further land and enslaved labour into the same system.
+Long campaigns took men from the farms. Their families borrowed seed against the land, wealthy neighbours bought up the failing holdings and worked them with captives, and conquest fed more land and more captives into the same estates. A veteran might come home to a prosperous household or to debt and a ruined field, and commanders who promised land won men whose families could no longer feed them. The land promised was often already being farmed by a subject community, which paid for the soldiers' reward.
 
-Some veterans returned to prosperous households; others found debts and damaged holdings. Promises of new land gave commanders influence among men whose families could no longer support them. The proposed settlement might occupy land already cultivated by a subject community, transferring hardship from the soldiers to another population.
-
-The ordinary benefits of expansion remained substantial. More dependable transport enlarged markets for tools, food and cloth. Apprentices moved between workshops. Families celebrated admission to civic bodies and contributed to buildings in which they took pride. These experiences helped sustain loyalty while disputes over burdens and rights continued.
+Expansion also paid ordinary dividends. Better roads widened markets for tools, food and cloth; apprentices moved between workshops; families feasted when they were admitted to the citizen body and paid towards the temples and porticoes they were proud of. That pride held loyalty while the quarrels over burdens went on.
 
 ## The Ortheian hegemony and Caleran's recovery
 
@@ -117,29 +107,19 @@ Those [[The Spared Towns and the Queen's Country|spared towns]] supported later 
 
 ## The Nerava supply dispute
 
-During the middle republican centuries, roughly 660–500 BR, repeated transport levies provoked resistance around Nerava. Boats and carts returning from a long campaign were requisitioned again before families had repaired equipment or recovered the cost of the first service. Prominent houses secured relief for their own property while smaller suppliers faced seizure.
+Nerava, where the river boats met the pack trains, carried the Gateway Wars on its back. Between roughly 660 and 500 BR its boats and carts came home from one campaign to be requisitioned for the next before anyone had mended a hull or been paid for the last trip. Houses with friends in the senate got their own boats excused; smaller owners had theirs seized.
 
-The Gateway Wars contributed to these demands through the movement of supplies towards inner-sea fleets and garrisons. Nerava's grievance also concerned how the burden was shared at home. The same military requirement fell differently on a household with influential patrons and one unable to obtain an exemption.
-
-Crews refused to embark and work stopped at several loading places. Military suppliers pressed for enforcement; households argued that another departure would leave farms and workshops unable to meet their own needs. A partial settlement reduced some demands and gave established river associations a more durable role in negotiating service.
-
-The outcome varied by household. Owners recognised by the associations could claim the new arrangements, while hired workers and smaller providers remained dependent on those owners' decisions. Nerava's later songs celebrate crews returning home and accuse influential families of purchasing relief for themselves. Both themes arose from the same dispute.
+At last the crews would not embark, and loading stopped along the river. Army suppliers demanded force; boat families answered that one more season away would leave their own farms unsown. A partial settlement cut some demands and gave the established river associations a lasting voice in assigning service. Owners in the associations gained; hired boatmen and small carriers still went where the owners sent them. Nerava's songs celebrate the crews who came home and accuse the great families of buying relief for themselves.
 
 ## Recasting the founders
 
-As Caleran's precedence increased, civic officials brought the histories of member cities into a common ceremonial order. Some older founders were represented with Caleran titles and symbols. Traditions which contradicted that arrangement were suppressed. Resistance by shrine custodians could bring imprisonment or execution, and some sanctuaries lost their resources to new public patrons.
+As Caleran's precedence grew, its officials rewrote the member cities' founders into one ceremonial order, dressed older heroes in Caleran titles and suppressed the stories that disagreed. Shrine custodians who resisted were imprisoned or killed, and some sanctuaries lost their endowments to new patrons. In one member city the recutting of a founder monument cost the lives of the custodians who stood in front of it, and one family kept a banquet vessel painted with the hostages of their city's defeat, to show at home what the public festival no longer admitted.
 
-The [[01 Canon Reference/History/80 Myths and Legendary Histories/Additional Mortal Lives and Frontier Traditions.md#^atlas-tf-12|City That Conquered Its Ancestors]] preserves a family vessel and accounts of altered founder images.
-
-Such appropriations supported a wider claim that Atherian expansion restored an ancient unity. Families who had entered through conquest, slavery or unequal admission inherited a more complicated history. Some accepted the public account while preserving different stories at home.
+The result was a claim that Atherian expansion was the restoration of an ancient unity. Families who had come in through conquest, slavery or unequal admission kept other stories at home.
 
 ## Provinces and powerful commanders
 
-The republic's wars extended towards the northern desert approaches, southern forest marches, eastern lands of later Eclessia and harbours associated with the later Sestaran world. Victories opened opportunities for officials, suppliers and investors. Revenue from distant communities sustained households and political contests in Caleran.
-
-Commanders distributed spoils, supported soldiers' families and promised future rewards. Repeated service could create a loyalty lasting longer than an annual office. Senate houses invested in transport, estates and supply, then sought appointments able to protect those investments. Rivalries among such patrons drew provincial communities into metropolitan disputes.
-
-By the final republican decades, supporters of competing commanders contested settlement grants, offices and the interpretation of public honours. Violence damaged the institutions meant to adjudicate those disputes. Cities sought protection from particular military households, and civic leaders increasingly needed armed support to secure decisions at home.
+The republic's wars reached the northern desert approaches, the southern forest marches, the eastern lands of later Eclessia and harbours of the later Sestaran world. Provincial revenue paid for Caleran's households and its elections. Commanders shared out spoils, looked after soldiers' families and promised land, and a soldier who had served one general for years owed him more than he owed an annual magistrate. Senate houses invested in transport, estates and supply, then sought the commands that would protect their investments. In the republic's last decades rival commanders' followers fought over land grants, offices and honours, and civic leaders found they needed soldiers to make a decision stick.
 
 [[The Last Generations of the Caleran Republic]] follows these conditions through the noon shadows at Sarven, the closed harbour chains of the allies' war and a Warden who governed from a tent. Casvilar's southern conquests and Ostar's failed northern expedition altered the balance among commanders. Casvilar accepted the Red Field in 376, drove Veyr into sanctuary and concentrated power in his own hands before his assassination in 370 BR.
 

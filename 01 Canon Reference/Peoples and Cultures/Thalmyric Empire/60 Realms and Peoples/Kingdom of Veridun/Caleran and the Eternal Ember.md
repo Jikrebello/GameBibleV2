@@ -27,11 +27,11 @@ Present-day Caleran has approximately 350,000 permanent residents. Major pilgrim
 
 After the gift of the Holy Flame at Second Qiryath, Solana took a live coal from the first congregation's hearth to Veridun Minor. Amaryah lit her lamp from it. Her house gave travellers shelter and food, and Calira died defending it in 29 AR. Neighbouring households took turns tending the lamp after Amaryah's death. Each keeper lit a fresh wick from the old one before taking it away.
 
-After Cassian legalized the faith in 292 AR, the congregation at Caleran could publicly commemorate Jareth, who died in the Celestial Forum in 41 AR, and the other martyrs of the capital. Cassian granted the former forum precinct to the congregation and paid for a basilica. Keepers from Veridun Minor brought a daughter flame and the vessel venerated as Solana's jar, while the household lamp remained at Veridun Minor. The Caleran flame became known as the Eternal Ember. [[Amaryah the Fire-Bearer]] · [[The Twelve Companions of the Redeemer]] · [[Cassian and the Four Sees - The Settlement of 292 to 316 AR|Cassian and the Four Sees]]
+After Cassian legalised the faith in 292 AR, the congregation at Caleran could publicly commemorate Jareth, who died in the Celestial Forum in 41 AR, and the other martyrs of the capital. Cassian granted the former forum precinct to the congregation and paid for a basilica. Keepers from Veridun Minor brought a daughter flame and the vessel venerated as Solana's jar, while the household lamp remained at Veridun Minor. The Caleran flame became known as the Eternal Ember. [[Amaryah the Fire-Bearer]] · [[The Twelve Companions of the Redeemer]] · [[Cassian and the Four Sees - The Settlement of 292 to 316 AR|Cassian and the Four Sees]]
 
 The Ember is a tended flame with a continuous line of kindling. Its keepers supply fuel and replace wicks. The White Flame can act through the relic by commission. Custody gives the Patriarch responsibility for the lamp and its worship, while the divine gift remains free.
 
-Idris impounded the Ember in 905 AR. Covenant guards and keepers preserved it as a deposit held for the final audit and recorded their charges for fuel and custody. The lamp was burning when Caleran was recovered in 957 AR. Veridun paid their invoice.
+Idris impounded the Ember in 905 AR, and it burned under Covenant guard for fifty-two years.
 
 ### Under Covenant guard, 905–957
 
@@ -53,9 +53,9 @@ Patriarch Sophron and the Holy Synod govern from the Cathedral of the Eternal Em
 
 ## Below Caleran
 
-Every building project risks opening an older city. Known underlayers include hill-city walls, senate tunnels, martyr crypts, Star temples, name vaults, siege works, sealed occupation courts, and forgotten aqueduct branches. These are irregular networks rather than a single continuous underground city.
+Every building project risks opening an older city. Known underlayers include hill-city walls, senate tunnels, martyr crypts, Star temples, name vaults, siege works, sealed occupation courts, and forgotten aqueduct branches. They lie in pockets and broken runs, each dug for its own age.
 
-The city's ordinary ruins contain masonry, records, graves, broken tools, and residue. Intact relics and functioning ancient systems remain exceptional.
+Most of what diggers find is masonry, records, graves and broken tools. An intact relic or a working ancient system is a rare and dangerous find.
 
 ## Navigation
 

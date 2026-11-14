@@ -25,7 +25,7 @@ tags: []
 - **60 Fall and Successor Empires:** invasion, collapse, restoration, and the Great Split.
 - **70 Later History and Present Day:** plague, reform, confessional settlement, rulers, and current political pressures.
 
-- **80 Myths and Legendary Histories:** seventy-five localized traditions, Great Saints and Sinners, heavenly episodes and authorial unknown histories.
+- **80 Myths and Legendary Histories:** seventy-five localised traditions, Great Saints and Sinners, heavenly episodes and authorial unknown histories.
 - **90 Distant and Otherworld Histories:** parallel histories of courts, cities, distant peoples, lunar survivors and constructed refuges.
 
 ## Main Timeline
@@ -52,7 +52,7 @@ tags: []
 
 - [[The Later Reign of Aurelius Thalion]], [[The House of Thalion]], [[The Year of Four Eagles]], [[The House of Veloran]] and [[The Last Dynasties of the Age of Glory]] - 350 BR–0.
 - [[The Companions Who Entered by the Low Door - Imperial History]] - c. 96–54 BR.
-- [[Atheria between Qiryath and Cassian - Emperors Wars and Revolts]] - 70–292 AR.
+- [[Atheria between Qiryath and Cassian - Emperors Wars and Revolts]] - 65–292 AR.
 - [[Cassian and the Four Sees - The Settlement of 292 to 316 AR]], [[The Reign of Sevrin]] and [[Astrion and the Road to Vestian - 348 to 377 AR]].
 - [[Vestian Persecutions and the Long Diaspora]] - 377–398 AR.
 - [[Qarayel and the Black Wind]] - 1249–1304 AR.
@@ -122,7 +122,9 @@ tags: []
 - [[The Korrheim Accord]]
 - [[Freeflame Reformation]]
 - [[Saints and Sinners of the Chronicles]] - the great saints and sinners of every era and what they did to history.
-- [[The Hunger Wars]] - Idol wars from the Closing Courts to the late Long Frontier.
+- [[The Hunger Wars]] - Idol wars from the Closing Courts to the Pyre of Masks (1346–1349 AR).
+- [[The Four Deaths of the Prophet]] - the four incompatible tellings of the Prophet's death at the edge of the Glass, c. 2165 BR.
+- [[Towns and Wars of the Long Frontier]] - 612–884 AR, and [[High Noon Provinces and the Qarath Aftermath]] - 1104–1231 AR: local histories beneath the dated spine.
 
 ## Authorial Control
 

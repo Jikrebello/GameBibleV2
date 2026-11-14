@@ -35,15 +35,15 @@ Founder stories often condensed several rebuildings into one heroic act. Their g
 
 ## Institutions
 
-Councils and magistrates acquired responsibilities for grain, water, defence and common spaces. Their authority depended on people able to provide labour and materials. Prominent families maintained influence through property, military followers and the sponsorship of festivals. In some cities royal households continued to govern alongside such councils.
+Councils and magistrates took charge of grain, water, walls and the market square, and their orders worked only as far as the families with carts, boats and labourers agreed to carry them out. Prominent families held influence through land, armed followers and the festivals they paid for. In some cities a royal household still ruled beside the council.
 
-Citizen records and public archives preserved admissions, agreements and obligations. Shared measures, stamped ingots and ring-silver helped exchange, while their enforcement created advantages for people controlling markets. Road crews and civic militias supported travel and military action. Captives and subject communities supplied much of the work required by larger projects.
+Citizen rolls recorded who had been admitted and what each house owed. Shared measures, stamped ingots and ring-silver made trade easier and made the men who kept the weights rich. Road crews and civic militias kept routes open, and captives and subject villages did much of the heavy building.
 
-Temples and observatories attracted teachers and pupils. Colleges concerned with older ruins studied inherited works, and public games supported performers and craft. These activities gave urban life attractions beyond protection and employment. They also furnished opportunities for sponsors to turn wealth into public standing.
+Temples and observatories drew teachers and pupils. Colleges studied the Giant ruins the cities were built among, and public games brought singers, wrestlers and craftsmen to town. A family that paid for the games bought a place in the city's memory along with the applause.
 
 ## Spiritual Drift
 
-Religious change developed over generations. The Lord became a distant creator in some accounts, while the Prophet's memory was recast as the story of a liberator favoured by the stars. Observations inherited from Giant courts became part of a recovered human wisdom. Civic rites incorporated practices inherited from Giant courts and older cults.
+Religious change developed over generations. The Lord became a distant creator in some accounts, while the Prophet's memory was recast as the story of a liberator favoured by the stars. Star-tables and rites inherited from Giant courts and older cults were renamed as recovered human wisdom.
 
 [[The Common Sky and the Formation of Astratheon]] describes the later royal settlement at Caleran. Other cities retained their own forms of worship, teachers and stories. Public confidence in correct ceremony and civic order could encourage rulers to treat institutional success as proof of righteousness, leaving little room for acknowledgement of their own wrongs.
 
@@ -53,7 +53,7 @@ These cities supplied the institutions and rivalries of the [[Age of Stars]]. Th
 
 ## Navigation
 
-- [[Timeline MOC]]
+- [[The Ages of the World]]
 - [[Age of City-States]]
 - [[Age of Stars]]
 - [[The Atherian Empire Overview]]

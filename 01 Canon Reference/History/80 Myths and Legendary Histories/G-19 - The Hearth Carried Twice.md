@@ -48,10 +48,6 @@ Two coals are exchanged at some weddings and adoptions. If one goes out, both ho
 
 ## Read onward
 
-- [[Peoples in the World Historical Atlas]]
-- [[River Leagues and Sea-Kings of the Early World]]
-- [[Patron Cities and the Long Rent Histories]]
-
 - [[Age of Scattering]]
-- [[Myths and Legendary Histories MOC]]
-- [[World Historical Atlas MOC]]
+- [[Legendary Histories]]
+- [[The Ages of the World]]

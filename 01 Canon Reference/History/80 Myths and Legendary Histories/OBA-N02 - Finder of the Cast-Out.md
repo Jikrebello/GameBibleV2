@@ -24,15 +24,15 @@ The child was near death when an angel appeared in the vestment of a pale ground
 
 ## What people remember
 
-angelic rescue, lucky cistern, later abolitionist legend, saintly woman rather than angel, household slander or a disguised foundation marriage.
+Angelic rescue, lucky cistern, later abolitionist legend, saintly woman rather than angel, household slander or a disguised foundation marriage.
 
 ## What remains
 
-several hospitals retain the clause, “need does not end when inheritance changes.” Most attribute it to a charitable widow and omit the enslaved mother.
+Several hospitals retain the clause, “need does not end when inheritance changes.” Most attribute it to a charitable widow and omit the enslaved mother.
 
 ## What remains unknown
 
-household, region, names, later freedom, child’s adulthood, baptism, final judgements, angel’s title and whether the cistern is the one now claimed by any institution.
+Household, region, names, later freedom, child’s adulthood, baptism, final judgements, angel’s title and whether the cistern is the one now claimed by any institution.
 
 - [[Heavenly Campaigns and the Human Dead]]
 - [[World Historical Atlas MOC]]

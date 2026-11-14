@@ -18,7 +18,7 @@ aliases: ["The Prisoners Who Became a Border"]
 
 ## Historical setting
 
-**late City-States into early Stars; c. 900–700 BR.** One inland summoning corridor, not Orthea. This tradition belongs to [[Age of Stars]]; its cultural bearers are Atherian workers and later provincial inheritors.
+**Late City-States into early Stars; c. 900–700 BR.** One inland summoning corridor, not Orthea. This tradition belongs to [[Age of Stars]]; its cultural bearers are Atherian workers and later provincial inheritors.
 
 It is told in one City-State and Star-age corridor where travellers still argue about the length of a road.
 
@@ -50,8 +50,6 @@ A forty-pace road repeats itself when a false name plate is tied to a sled and d
 
 - [[Historical Atlas of Atheria]]
 - [[Historical Spine of the Jirahar]]
-- [[Infernal Kings and the Wars of the Depth]]
-
 - [[Age of Stars]]
-- [[Myths and Legendary Histories MOC]]
-- [[World Historical Atlas MOC]]
+- [[Legendary Histories]]
+- [[The Ages of the World]]

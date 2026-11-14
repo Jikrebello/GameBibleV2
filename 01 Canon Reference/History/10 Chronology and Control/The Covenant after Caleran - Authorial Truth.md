@@ -33,7 +33,7 @@ Author-only rulings behind the reader history in [[The Covenant from Idris to Su
 ## The Long Reach
 
 - The remount blessing is a grace on the stock line, laid by the lay brothers who kept the studs (see the march-stud interface in [[Causality Pass - 05 The Guttering, 400 to 905 AR]]). It gives steadiness before **bound things only**: Depth fauna, bound spirits, devil-office manifestations and Slave-Soul engines. It does nothing against fire, stampede or ordinary fear, and horses never needed it against pure constructs.
-- It roughly halves with each generation bred outside the purest lines. It decided wars c. 951–1020 and was negligible on most of the frontier by the 1100s, which is why Qarayel must win in 1261 by organisation.
+- It roughly halves with each generation bred outside the purest lines. It decided wars c. 951–1020 and was negligible on most of the frontier by the 1100s. It returned only in one line, through Gavrin's blessing on the black colt (1249), which is why Qarayel won in 1261 by stud-right over that colt's sons.
 - Caedros I did send envoys to the khans in 950. They reached one camp, were fed, and were ignored. The raid season of 951 had been decided already for Tarkhan reasons. The Thalmyric claim is true as to the envoys and false as to cause.
 - The Talking Hill was the first mercy tower (finished c. 944), not a second engine.
 

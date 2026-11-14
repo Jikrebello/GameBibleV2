@@ -66,9 +66,7 @@ Bridges and guest houses bear a long-legged wolf beside a hooded lamp. Traveller
 - [[Southern Cold Belt and Grobi Frontier]]
 - [[The Folk before Atheria]]
 - [[01 Canon Reference/Peoples and Cultures/Ättar/70 History and Conflicts/The Ättar before the Great Keel-Taking.md|The Ättar before the Great Keel-Taking]]
-- [[Menhir Courts through the Ages]]
-- [[River Leagues and Sea-Kings of the Early World]]
-
+- [[The Mythology of The Menhir]]
 - [[Age of Hearths and First Kings]]
-- [[Myths and Legendary Histories MOC]]
-- [[World Historical Atlas MOC]]
+- [[Legendary Histories]]
+- [[The Ages of the World]]

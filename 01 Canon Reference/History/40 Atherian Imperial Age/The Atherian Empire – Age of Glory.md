@@ -3,7 +3,7 @@ type: event
 status: canon
 canon_level: core
 visibility: public
-era: ["Atherian Imperial Age"]
+era: ["350 BR–0 AR"]
 region: ["Atheria", "Known World"]
 culture: ["Atherian"]
 related_factions: ["Atherian Empire", "Star Pantheon"]
@@ -51,11 +51,11 @@ Atherian chronicles, provincial songs and later Church writers all record a hung
 
 The chronicles say that the face began to answer. The portrait at Caleran spoke in 247 BR with no emperor alive to speak for. In the provinces, households who remembered a dead ruler's cruelty refused to honour his new, benign image and were punished for it, and the punishments themselves were said to make the image stronger. Temple accounts called the answering portraits proof that the stars preserved the imperial office. Sceptics exposed hollow statues, concealed speakers and staged responses in several cities. Some provincial traditions recognised the hunger behind the uniform face and avoided naming a deceased ruler before his image. Others addressed the portrait as the ruler himself.
 
-Samor's veil kept the Face at Caleran quiet for most of the age. It could not cover the copies. By 0 AR every governor heard cases beneath one, citizens and debtors had sworn before them in their thousands, and Raveth remembered its lost farms through the image as well as through the officials who took them. Redeemer writers later called the hungry face the Emperor after the Emperor, and argued with priests of the old cult over whether it had ever been anything but paint and priests' voices. [[Star Religion and the Imperial Cult]] describes the cult's history.
+Samor's veil kept the Face at Caleran quiet for most of the age. It could not cover the copies. By 0 AR every governor heard cases beneath one, citizens and debtors had sworn before them in their thousands, and Raveth remembered its lost farms through the image as well as through the officials who took them. Redeemer writers later called the hungry face the Emperor after the Emperor, and argued with priests of the old cult over whether it had ever been anything but paint and priests' voices. [[Overview of the Astratheon Religion]] describes the wider star religion.
 
 ## Religion
 
-The Star Pantheon organised older cults beneath an imperial celestial hierarchy. Astaroth represented conquest and public order; Lyraxis art and civic performance; the figure called Thanatos death and passage; Arachnara illness, vermin and hidden passages; Typhonius calamity and monstrous birth. Local gods could survive as regional titles, attendants or disputed manifestations so long as their temples acknowledged imperial primacy. Temple hymns called the principal powers Star Children, born of the light of Sun and Moon. The astronomers of the Astral Keepers sorted the same powers into Circles by what they did rather than whom they were born to, and the two schools quarrelled throughout the age. Later imperial recensions added Thanatos, although older temple lists disagreed about his parentage, and his cult's tales of passage after death told of [[The Boatman]].
+The Star Pantheon organised older cults beneath an imperial celestial hierarchy. Astaroth represented conquest and public order; Lyraxis art and civic performance; the figure called Thanatos death and passage; Arachnara illness, vermin and hidden passages; Typhonius calamity and monstrous birth. Local gods could survive as regional titles, attendants or disputed manifestations so long as their temples acknowledged imperial primacy. Temple hymns called the principal powers Star Children, born of the light of Sun and Moon. The astronomers of the Astral Keepers sorted the same powers into Circles by what they did rather than whom they were born to, and the two schools quarrelled throughout the age. Later imperial recensions added Thanatos, although older temple lists disagreed about his parentage, and his cult's tales of passage after death told of the Boatman.
 
 Thalion's government raised the Red Star, Astaroth, to precedence in rites of victory and command, and after 326 his priests also stood witness at the load tests of every public work. The Common Sky's Celebrants, who held the veiled Face after 247, became the Red Star priesthood's rivals at court.
 
@@ -77,7 +77,7 @@ Warlock rune magic developed from older practical scripts into regulated militar
 
 ## Uneven Prosperity
 
-The age produced long-distance trade, durable infrastructure and periods of relative peace. It also depended on frontier war, coerced labour, unequal citizenship, temple wealth and the transfer of provincial resources to the core. Rebellions were often caused by the price exacted for roads and law. The road crews of Arcelon sang one song for the victory and another for the dead under the embankment, and Raveth's villages counted farms surrendered for bread.
+Long-distance trade, durable roads and long stretches of peace were paid for with frontier war, forced labour, unequal citizenship and provincial grain shipped to the core, and the provinces rebelled over the bill more often than over the law. The road crews of Arcelon sang one song for the victory and another for the dead under the embankment, and Raveth's villages counted farms surrendered for bread.
 
 ## The Redeemer's World
 
@@ -92,13 +92,12 @@ In the Thalmyric heartland, imperial stone remains part of ordinary life. Houses
 - [[The Rise of the Atherian Empire Overview]]
 - [[Atherian Imperial Age]]
 - [[The Layers Beneath Thalmyria]]
-- [[Origins of Warlock Rune Magic]]
 - [[Historical Spine of the Known World]]
 - [[Historical Atlas of the Atherian Age of Glory]]
 - [[The Imperial Army and the Frontiers]]
 - [[Food, Trade and Enslavement in Imperial Atheria]]
 - [[Schools, Arts and Imperial Magic]]
-- [[Star Religion and the Imperial Cult]]
+- [[Overview of the Astratheon Religion]]
 - [[The Year of Four Eagles]]
 - [[The Last Dynasties of the Age of Glory]]
 - [[Saints and Sinners of the Chronicles]]

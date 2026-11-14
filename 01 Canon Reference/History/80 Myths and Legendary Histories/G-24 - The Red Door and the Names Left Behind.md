@@ -30,7 +30,7 @@ The route could not carry everyone. When the prison filled after a purge, rescue
 
 The escapees later praised the witness as a deliverer. The rescued child's mother interrupted the first celebration and read the names of people left behind, including a sister who had surrendered her place. The witness did not defend herself. She unhinged the door again, laid it flat like a bier and asked that both the rescued and abandoned be read before anybody called the night a victory.
 
-Later accounts say she died as a Saint, vanished, or returned to prison by choice. Prison tellers carry her further. In the next purge a dying prisoner swore he had seen her on the road of the dead, holding a red door open with her bad shoulder while winged clerks gathered names out of a burning roll. When a fighting brotherhood began murdering suspected informers under her banner, survivors said she stood among them in the smoke and named the gaoler she had killed as the first of their dead. The brotherhood broke apart within the year. The tale itself ends before any judgement.
+Later accounts say she died a saint, vanished, or returned to prison by choice. Prison tellers carry her further. In the next purge a dying prisoner swore he had seen her on the road of the dead, holding a red door open with her bad shoulder while winged clerks gathered names out of a burning roll. When a fighting brotherhood began murdering suspected informers under her banner, survivors said she stood among them in the smoke and named the gaoler she had killed as the first of their dead. The brotherhood broke apart within the year. The tale itself ends before any judgement.
 
 The rescued child grew old and rejected every account that made survival proof of the witness's righteousness. She taught her grandchildren the hinge trick and the abandoned names together, so practical courage and accusation would travel in the same household.
 
@@ -52,7 +52,6 @@ An unhinged red door is carried flat once a year while both groups of names are 
 - [[Historical Atlas of Thalmyria]]
 - [[Historical Atlas of Eclessia]]
 - [[Saints and Sinners of the Chronicles]]
-
 - [[The Age of the Redeemer]]
-- [[Myths and Legendary Histories MOC]]
-- [[World Historical Atlas MOC]]
+- [[Legendary Histories]]
+- [[The Ages of the World]]

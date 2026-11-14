@@ -55,7 +55,6 @@ A carefully lined empty grave receives uncarved stones. Any inscribed offering i
 - [[Historical Atlas of Eclessia]]
 - [[The Hunger Wars]]
 - [[Saints and Sinners of the Chronicles]]
-
 - [[The Age of the Redeemer]]
-- [[Myths and Legendary Histories MOC]]
-- [[World Historical Atlas MOC]]
+- [[Legendary Histories]]
+- [[The Ages of the World]]

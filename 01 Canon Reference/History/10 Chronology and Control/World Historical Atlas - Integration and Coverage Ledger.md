@@ -99,7 +99,7 @@ All seventy-five legacy IDs remain in the nursery with their stable blocks. No G
 | G-12 | [[G-12 - The Four Who Brought Water]] | 541–612 AR and the first frontier settlements | Atherian–Covenant frontier districts | mixed provincial, Ahdari, Velian and Jirahar communities | [[The Long Frontier and the First Unsealing]] | stories told; remainder exists; claims distinguished in article |
 | G-20 | [[G-20 - The Tongue Seal of the Kidnapped]] | 612–884 AR; Long Frontier | one multilingual Zanthiri-facing Patron port | mixed provincial, Ahdari, Velian and Jirahar communities | [[The Long Frontier and the First Unsealing]] | stories told; remainder exists; claims distinguished in article |
 | G-24 | [[G-24 - The Red Door and the Names Left Behind]] | c. 180–226 AR | inland prison and quarry districts | persecuted provincial congregations | [[The Age of the Redeemer]] | stories told; remainder exists; claims distinguished in article |
-| G-25 | [[G-25 - The Ragged Gospel in the Hospital Apron]] | c. 330–382 AR | inland provincial Atherian cities | temple descendants and early Church communities | [[The Conversion of the Empire]] | stories told; remainder exists; claims distinguished in article |
+| G-25 | [[G-25 - The Ragged Gospel in the Hospital Apron]] | c. 330–389 AR | inland provincial Atherian cities | temple descendants and early Church communities | [[The Conversion of the Empire]] | stories told; remainder exists; claims distinguished in article |
 | G-26 | [[G-26 - The Empty Stool of the Slain Scout]] | c. 708–781 AR | Atherian–Covenant frontier districts | mixed provincial, Ahdari, Velian and Jirahar communities | [[The Long Frontier and the First Unsealing]] | stories told; remainder exists; claims distinguished in article |
 | G-27 | [[G-27 - The Ninth Room of the Bastions]] | c. 646–716 AR | Atherian–Covenant frontier districts | mixed provincial, Ahdari, Velian and Jirahar communities | [[The Long Frontier and the First Unsealing]] | stories told; remainder exists; claims distinguished in article |
 | G-28 | [[G-28 - The Gauntlets Broken at the Hearth]] | c. 729–792 AR | Atherian–Covenant frontier districts | mixed provincial, Ahdari, Velian and Jirahar communities | [[The Long Frontier and the First Unsealing]] | stories told; remainder exists; claims distinguished in article |
@@ -1028,6 +1028,22 @@ The author approved the developed pre-350 BR Garden roots for canon promotion on
 | G-71–G-73 | repeated grain policy and unenforced judgement; Folk–fort fosterage crisis; Oar-King's rise, crimes, rebuke and partial repentance | [[Age of Scattering]], [[Age of Hearths and First Kings]], [[River Leagues and Sea-Kings of the Early World]] | exact speeches and names; authentic bead or oar relics; moral vindication through success or repentance |
 
 The pass stops at 350 BR. It makes no ruling on G-10 or any later-period root.
+
+## Causality Pass — final era review (14 November 2026)
+
+The Causality Pass ([[Causality Pass - Direction]]) rewrote the whole history, integrated it into the shared registers and closed with an era-by-era review. The era articles are now the source of truth; the Chronology, Named Figures, Historical Spine, Torque Register, Real-History Concordance and culture Canon Registers were brought into agreement with them afterwards.
+
+| Article | Location | Status | Coverage |
+|---|---|---|---|
+| [[Towns and Wars of the Long Frontier]] | History / 50 Redeemer and Conversion | now public (formerly author-only) | 612–884 AR; frontier towns, local wars and ordinary cycles beneath the dated spine |
+| [[High Noon Provinces and the Qarath Aftermath]] | History / 70 Later History and Present Day | now public | 1104–1231 AR; provinces, districts and the aftermath of Qarath's Well |
+| [[Saints and Sinners of the Chronicles]] | History / 80 Myths and Legendary Histories | new, public | c. 150–1360 AR; the public lives of the fourteen Great lives and the further saints, sinners and wonders the era articles name |
+| [[The Hunger Wars]] | History / 80 Myths and Legendary Histories | new, public | c. 2400 BR–1349 AR; Idol wars told as lived history, from the Champion of Four Doors to the Borrowed Martyr |
+| [[The Four Deaths of the Prophet]] | History / 80 Myths and Legendary Histories | new, public (stories told) | c. 2165 BR and later tellings; the four incompatible public deaths of the Great Prophet |
+| [[The Covenant from Idris to Suhrab (905-1190 AR)]] | Peoples and Cultures / Ahl-e-Ahd / 70 History and Conflicts | new, public | 905–1190 AR; the Widowed Seals, the amirates, the Pledged Custodian, the Southern Houses and Suhrab's accession |
+| [[The Traveller's Reckoning of the Known World]] | 03 Stories & In-World Texts / In-World Texts | new, public in-world source (draft, apocryphal, disputed reliability) | 1360 AR; the Sermoran chartmaker Ugo Tessarin's guide to roads, tolls, rites and debts, with a Thalmyric reader's marginal notes; not a controlling history |
+
+The pass also added ten author-only control files beside this ledger: seven Authorial Notes from Reader Articles, [[Signs and Proof - Authorial Truth]], [[The Guttering - Authorial Truth]] and [[The Covenant after Caleran - Authorial Truth]]. The new articles add no Garden root, identifier or reserve record, and they do not change the original counts above. The protected Weirds and post-1360 outcomes remain open.
 
 ## Canon boundaries after integration
 

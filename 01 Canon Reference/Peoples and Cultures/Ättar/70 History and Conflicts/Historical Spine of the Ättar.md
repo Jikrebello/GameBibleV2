@@ -16,11 +16,11 @@ tags: []
 - **c. 2300-1900 BR - Orphaned southern reassembly.** Related Folk and Ättar ancestors survived outside the Glass Ark and reconnected across cold forests, coasts and valleys after Giant rule collapsed. Lesser Giant and giant-blooded refugees from Nhaldur joined some populations. The coastal and pastoral hall-world began to separate from inland clan systems. Isolated proto-Atherian ships, refugees and war-settlers appeared on some routes.
 - **c. 1900-1650 BR - First great halls.** Shipbuilding, drove routes, compensation assemblies, annual All-Things, regional totem names and seasonal Grobi musters became durable institutions.
 - **c. 1608-1596 BR - [[War of the Empty Halls]].** Gharuk Eight-Bowls united the Nine-Drum Host and attempted to seize a permanent Warm Road through the hall country. Urzha betrayed his ration route after he ate her leaders and began feeding her brood to his ogres. Four ruling coalitions accepted Mother Moon's two-part bargain; Gharuk's own orcs ate him alive after the host lost its food road.
-- **c. 1400-350 BR - Hall kingdoms.** Jarldoms, sea-kings, iron centers, and fortified winter territories rose and fell. Atherian traders and armies reached selected coasts.
+- **c. 1400-350 BR - Hall kingdoms.** Jarldoms, sea-kings, iron centres, and fortified winter territories rose and fell. Atherian traders and armies reached selected coasts.
 - **350 BR-400 AR - Imperial contact.** Some halls served Atheria, some paid tribute, and others raided it. Ship, coin, and iron technologies circulated in both directions.
 - **c. 400-540 AR - Great keel-taking.** Imperial weakness produced the largest Ättar raiding age. Crews struck Thalmyric, Sestaran, and distant coasts; settlement on western Kedrava created the Saltborn substrate.
 - **541-905 AR - Mercenary and frontier centuries.** Halls traded and fought with Atherian successor interests, the rising Covenant, Sestaran cities, and Folk leagues.
-- **905-1052 AR - Fall and Reconquest.** Ättar crews raided, traded, and served on multiple sides. Baptized oath-families and Saltborn sailors became important to Thalmyric naval recovery.
+- **905-1052 AR - Fall and Reconquest.** Ättar crews raided, traded, and served on multiple sides. Baptised oath-families and Saltborn sailors became important to Thalmyric naval recovery.
 - **1052-1360 AR - Divided sea.** Privateering, slavery, foreign mercenary service, Church conversion, and winter Grobi pressure deepened differences among the four kindreds.
 - **1360 AR - Present day.** No chief-king commands all ranges. Grey-Wolf halls demand a larger winter muster while Lion-Mane fleets prefer profitable foreign service.
 
@@ -48,5 +48,4 @@ Sea contact helped form the much later Saltborn on the western Kedravan coast. L
 - [[G-67 - The Marks of Necessary Release|The Marks of Necessary Release]]
 - [[G-75 - The Empty Oar of the Winter Tithe|The Empty Oar of the Winter Tithe]]
 - [[G-06 - The Wolf, the Lantern and the House That Heard Them Laugh|The Wolf, the Lantern and the House That Heard Them Laugh]]
-- [[World Historical Atlas MOC]]
-- [[Peoples in the World Historical Atlas]]
+- [[The Ages of the World]]

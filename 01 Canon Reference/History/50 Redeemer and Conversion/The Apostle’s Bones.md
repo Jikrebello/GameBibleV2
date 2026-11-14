@@ -20,7 +20,7 @@ tags: []
 
 ### **Date**:
 
-The find, in the 320s AR, under Emperor Sevrin. The bishops' hearing followed within the decade. After 381 the bishops' readers re-entered the find, and after the Great Split of 1015 both churches renewed their claims.
+The find, in the 320s AR, under Emperor Sevrin. The bishops' hearing followed within the decade. After 383 the bishops' readers re-entered the find, and after the Great Split of 1015 both churches renewed their claims.
 
 ---
 
@@ -51,9 +51,9 @@ The bishops answered that a Star-priestess would not have been buried with a Red
 
 ####  **The hearing**
 
-Sevrin let the four sees hear the case on the model of Cassian's hearing at Halmenth in 297, with a crown assessor to record the civil result. The bishops found for Calira in matters of communion: the faithful might venerate the bones and keep her feast before them. The governor held to the augurs' entry in law: the remains could not be carried in public procession or moved from Veridun Minor. The bones stayed where they were found, in a sanctuary built over the old altar, and pilgrims came to them anyway.
+Sevrin let the four sees hear the case, as his father had let them hear the Halmenth quarrel in 297, and the bishops met in a chapel within sight of the ruined altar. They found for Calira in matters of communion: the faithful might venerate the bones and keep her feast before them. The governor held to the augurs' entry in law: the remains could not be carried in public procession or moved from Veridun Minor. The bones stayed where they were found, in a sanctuary built over the old altar, and pilgrims came to them anyway.
 
-In 382, after the augur colleges were dissolved and their books passed to the bishops, the bishops' readers struck the augurs' entry and entered the bones as Calira's. Old-cult families at Veridun Minor kept the augurs' version alive for generations.
+In 383, after the augur colleges were dissolved and their books passed to the bishops, the bishops' readers struck the augurs' entry and entered the bones as Calira's. Old-cult families at Veridun Minor kept the augurs' version alive for generations.
 
 ---
 
@@ -69,7 +69,7 @@ Several phenomena surrounded the bones and were used to argue for (or against) t
 
 - **The bones were warm to the touch**, even after exposure to cold.
 - A novice scribe tasked with transcribing the discovery fainted and later spoke verses in an unknown dialect—believed to be early Redeemer cant.
-- The broken hilt reportedly caused **paper to smolder** when wrapped in official imperial decrees.
+- The broken hilt reportedly caused **paper to smoulder** when wrapped in official imperial decrees.
 
 Later lore claims that, during a procession of the bones, **a drought ended** in Veridun Minor after thirty-one days of failed prayer. The governor had forbidden processions; the townspeople say they carried the bones round the inside of the sanctuary walls, which the order did not cover.
 
@@ -88,7 +88,7 @@ The quarrel revived when the churches divided in 1015.
 ####  **Thalmyric Claim**
 
 - Thalmyric clergy maintained that Calira was **spiritually Thalmyric**, citing her soldier's background and a version of her Life that sets her last stand in a mountain pass. They made her one of the earliest models for the **Order of the Vigilant Flame**.
-- They asserted the bones should be housed in **Vlastrava**, in a sanctum built to honor the Redeemer’s warriors.
+- They asserted the bones should be housed in **Vlastrava**, in a sanctum built to honour the Redeemer’s warriors.
 
 After years of conflict the two churches agreed that the bones would remain at Veridun Minor in a **neutral sanctuary**, with Thalmyric and Eclessian orders holding **joint custodianship** and alternating rites by season. The arrangement became a model for later **relic-sharing treaties**, known as **Sanctified Custody Concords**.
 
@@ -98,14 +98,14 @@ After years of conflict the two churches agreed that the bones would remain at V
 
 - Later writers count the find as a **turning point in sainthood doctrine**: from _narrative martyrdom_ to _physical sanctification_.
 - It strengthened the claim that **relics are active conduits of divine flame**.
-- It also began the long debates over the **dangers of relic fraud, relic nationalism, and relic monopoly**, and over who has the right to say whose bones are whose.
+- It also began the long debates over the **dangers of relic fraud, relics claimed for crowns, and relic monopoly**, and over who has the right to say whose bones are whose.
 
 ---
 
 ### **In Iconography**
 
-- Calira is often shown holding **a broken blade and open flame**, symbolizing her sacrifice and incomplete martyrdom.
-- The **Sanctuary of the Swordless Flame** features her likeness in armor with **no weapon**, only chains.
+- Calira is often shown holding **a broken blade and open flame**, symbolising her sacrifice and incomplete martyrdom.
+- The **Sanctuary of the Swordless Flame** features her likeness in armour with **no weapon**, only chains.
 - In Eclessian art, she lights the way for pilgrims.  
     In Thalmyric art, she **stands atop a battlefield**, defiant.
 
@@ -129,8 +129,6 @@ After years of conflict the two churches agreed that the bones would remain at V
 
 ## Navigation
 
-- [[Timeline MOC]]
-- [[Canon Index]]
 - [[The Reign of Sevrin]]
 - [[The Twelve Companions of the Redeemer]]
 - [[Amaryah the Fire-Bearer]]

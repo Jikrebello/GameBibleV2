@@ -52,7 +52,7 @@ From 1352 every great power behaves as this control describes.
 
 ## Why this is the engine
 
-Every faction's strategy in 1360 is legible as **proof-management**: acquiring rivals' proofs, protecting its own, funding permanent-almost wherever a test threatens and building deniable test conditions. Wars are dangerous not only for territory but because battlefields are uncontrolled test environments — a siege can settle a doctrine by accident.
+Every faction's strategy in 1360 is legible as **proof-management**: acquiring rivals' proofs, protecting its own, funding permanent postponement wherever a test threatens and building deniable test conditions. Wars are dangerous not only for territory but because battlefields are uncontrolled test environments — a siege can settle a doctrine by accident.
 
 This is what the Restoration Doctrine means politically: the end of days is, among other things, the day everything gets tested. Every institution that would fail its test is therefore, knowingly or not, on the Adversary's side of the schedule.
 

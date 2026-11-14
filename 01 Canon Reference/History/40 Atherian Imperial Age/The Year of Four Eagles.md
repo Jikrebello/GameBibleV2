@@ -76,6 +76,5 @@ The four eagles remained a common image for ambition feeding from one body. Play
 
 - [[The House of Thalion]]
 - [[The House of Veloran]]
-- [[Star Religion and the Imperial Cult#The Emperor after the Emperor|The Emperor after the Emperor]]
-- [[The Atherian Empire – Age of Glory#The Emperor after the Emperor|The Emperor after the Emperor in public memory]]
+- [[The Atherian Empire – Age of Glory#The Emperor after the Emperor|The Emperor after the Emperor]]
 - [[Historical Atlas of the Atherian Age of Glory]]

@@ -38,8 +38,6 @@ No supernatural power caused the crime or punishment. A later local Mask cultiva
 - **Founder law** calls the weapon surrender a precaution against plague delirium, although the bronze tokens fit weapon-rack locks rather than medical equipment.
 - **Descendant households** dispute whether maternal challenge rights honor the founding bride or protect families descended from captives.
 
-
-
 ## Discovery Interface
 
 - **Knowledge state:** `lost` and `misclassified`; no secret institution retains the whole account.

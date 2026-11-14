@@ -25,9 +25,9 @@ Spring begins repair and planting. Summer supplies the principal season for cons
 
 ## Ancient formation
 
-Human communities inhabited the region before the fall of Giant rule. Subject villages, fishing households, mine workers, fugitives and local rebels survived the [[The Great Unbinding|Great Unbinding]] in separate places. Nhaldur, a southern Giant penal crownland, collapsed during the same crisis. Its prisoners and workers carried craft, languages and Giant ancestry into older populations.
+Human communities inhabited the region before the fall of Giant rule. Subject villages, fishing households, mine workers, fugitives and local rebels survived the Great Unbinding ([[Age of Exodus]]) in separate places. Nhaldur, a southern Giant penal crownland, collapsed during the same crisis. Its prisoners and workers carried craft, languages and Giant ancestry into older populations.
 
-The First Rewriting at Kharvos, around 2280 BR, created the first Grobi. The new packs spread along ruined prison roads, mines and coastal routes. Folk and Ättar institutions formed amid that pressure. [[Historical Atlas of the Southern Cold World]] follows the region from Nhaldur to the beginning of Atherian empire.
+The First Rewriting at Kharvos, around 2284 BR, created the first Grobi. The new packs spread along ruined prison roads, mines and coastal routes. Folk and Ättar institutions formed amid that pressure. [[Historical Atlas of the Southern Cold World]] follows the region from Nhaldur to the beginning of Atherian empire.
 
 ## Folk and Ättar country
 

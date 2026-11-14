@@ -13,7 +13,7 @@ tags: [world-historical-atlas]
 ---
 # Creation and the First Rebellions
 
-Creation and the First Rebellions sits before any human calendar. It concerns how the Lord's uncreated authority differs from the creaturely power later claimed by Giants, Menhir and Idols, and how the rebellion and fusion behind that difference produced the Faewild Schism. It matters because every later empire that claims divine authority — beginning with the Giant horizons of [[Age of Chains]] — is repeating a category error this age already exposes.
+Before any human calendar there was a war in heaven, and not all of its losers went down with the Adversary. Some forced themselves into the yolk of the world and became the powers later called Menhir and Idols; their fusion and its aftermath broke the Faewild in the Schism. Every later empire that claimed divine authority, beginning with the Giant horizons of the [[Age of Chains]], mistook that creaturely power for the Lord's uncreated authority.
 
 ## Before kingdoms
 
@@ -23,9 +23,9 @@ Some of the rebels deserted the defeated Adversary and chose the Yolk. That choi
 
 ## The first divisions
 
-The Menhir's fusion bound them into the world's natural ordering while destroying their capacity to understand moral obligation. They can remember an insult, cherish a dependency and keep an exact bargain without recognizing that fulfilling it may be evil. The Idols retained that knowledge. They knowingly cultivate the human acts through which their Hungers feed.
+The Menhir's fusion bound them into the world's natural ordering while destroying their capacity to understand moral obligation. They can remember an insult, cherish a dependency and keep an exact bargain without recognising that fulfilling it may be evil. The Idols retained that knowledge. They knowingly cultivate the human acts through which their Hungers feed.
 
-After fusion, the Faewild Schism broke the historical unity associated with Trium. Its aftermath produced relationships later summarized as Circles. Courts abandoned places; others inherited duties without receiving every former inhabitant's loyalty. A scar in a mountain may therefore outlast the court which claims to have made it.
+After fusion, the Faewild Schism broke the historical unity associated with Trium. Its aftermath produced relationships later summarised as Circles. Courts abandoned places; others inherited duties without receiving every former inhabitant's loyalty. A scar in a mountain may therefore outlast the court which claims to have made it.
 
 ## What later peoples made of it
 
@@ -39,18 +39,13 @@ The war also left wreckage on the ground. Old battlefields kept their banners af
 
 The later world inherits different kinds of danger. A Menhir correspondence may make a harvest fail without punishing a sin. An Idol may answer a cruel rite precisely because the cruelty feeds it. A heavenly judgement follows a commission. A human ruler can misunderstand all three and still command an army.
 
-These distinctions shape [[Age of Chains]], when supernatural ancestry becomes a political weapon. The corresponding otherworld histories are told in [[Menhir Courts through the Ages]], [[Idol Kingdoms and the Hunger Wars]] and [[Heavenly Campaigns and the Human Dead]]. The Glass and Bird-Marked Sites remain unexplained.
+These distinctions shape [[Age of Chains]], when supernatural ancestry becomes a political weapon. The Glass and the Bird-Marked Sites remain unexplained.
 
 ## Atlas navigation
 
 **Atlas:** [[The Ages of the World]] · **Next:** [[Age of Chains]]
 
 - [[Legendary Histories]]
-
-## Historical articles in this age
-
-- [[Mono-Myth Overview]]
-- [[Prehistory Overview]]
 
 ## Local tales and surviving memories
 

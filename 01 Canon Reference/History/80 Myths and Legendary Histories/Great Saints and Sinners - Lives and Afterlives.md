@@ -20,7 +20,7 @@ The public traditions remain distinct from the authorial certainty of judgement.
 The reader-facing version of these lives, told as the chronicles tell them, with their wonders, consequences and in-world quarrels and without this file's judgements, is [[Saints and Sinners of the Chronicles]]. Public articles link there, never here.
 
 - [[GS-01 - Witness at the Red Passage|Witness at the Red Passage]] — c. 180–226 AR.
-- [[GS-02 - Preacher of the Second Gospel|Preacher of the Second Gospel]] — c. 330–382 AR.
+- [[GS-02 - Preacher of the Second Gospel|Preacher of the Second Gospel]] — c. 330–389 AR.
 - [[GS-03 - Hunter of the Shutwood|Hunter of the Shutwood]] — c. 708–781 AR.
 - [[GS-04 - Mason of the Ninth Bastion|Mason of the Ninth Bastion]] — c. 646–716 AR.
 - [[GS-05 - Smith Who Broke His Hands|Smith Who Broke His Hands]] — c. 729–792 AR.

@@ -4,7 +4,7 @@ status: canon
 canon_level: local
 reliability: apocryphal
 visibility: author-only
-era: []
+era: ["Deep Past", "c. 3400–1750 BR (in-world synthesis)"]
 region: []
 culture: []
 related_factions: []
@@ -21,7 +21,7 @@ tags:
 
 In the earliest days, when the world was still young and untouched by corruption, humanity lived in a state of grace. The Lord, a divine and incomprehensible force, had crafted them as the pinnacle of creation, destined to one day inherit the earth and guide it with wisdom and love. Humanity was given dominion over the earth, not to rule it as tyrants, but as stewards who would nurture and cultivate the land in harmony with the divine order.
 
-However, the creation of humanity ignited a deep-seated jealousy within a being known as the **Adversary**. Once a being of light and power, the Adversary could not abide the thought of lesser beings surpassing him and his kin in the Lord’s favor. This jealousy sowed the seeds of rebellion, and the Adversary, along with many other celestial beings, waged war against the Lord’s host. This became known as the **Great Rebellion in Heaven**.
+However, the creation of humanity ignited a deep-seated jealousy within a being known as the **Adversary**. Once a being of light and power, the Adversary could not abide the thought of lesser beings surpassing him and his kin in the Lord’s favour. This jealousy sowed the seeds of rebellion, and the Adversary, along with many other celestial beings, waged war against the Lord’s host. This became known as the **Great Rebellion in Heaven**.
 
 During this rebellion, the ranks of the Adversary’s followers fractured. One group, known as the **Menhir**, sought refuge in the natural forces of the world, bonding themselves to elemental powers and the primal forces of nature. Another faction, the **Idols**, turned their eyes to the newly revealed **Dreamlands**, a vast metaphysical plane where the collective subconscious of all sentient beings resided, seeking dominion over these realms.
 
@@ -33,7 +33,7 @@ The rebellion ultimately failed, with the Adversary and his followers cast down 
 
 In this fractured world, the Menhir and the Idols saw an opportunity. They bound themselves to the earth, sky, seas, and the Dreamlands, solidifying their power and cutting themselves off from the Adversary’s punishment. They procreated with humanity, producing a race of powerful hybrid beings—the **Giants**. These Giants established their own empires and ruled over the humans with divine authority, claiming themselves as the gods of the world.
 
-The **Giants** enslaved humanity, using them as labor, sacrifices, and worshipers. Each empire was distinct in its cruelty:
+The **Giants** enslaved humanity, using them as labour, sacrifices, and worshipers. Each empire was distinct in its cruelty:
 
 - **Qianglong**: The Giants of Qianglong, children of the **Four Horsemen**, ruled with terrifying discipline. They governed over cycles of war, death, famine, and pestilence, seeing themselves as custodians of the world's natural order. Their empire spanned lush valleys and sacred peaks, where they built towering fortresses and demanded absolute obedience.
 
@@ -76,7 +76,7 @@ With the Prophet’s death, the unity of the people shattered. Without their lea
 
 As the people crossed into the southern lands, they settled into distinct regions and began to form new cultures, each carrying remnants of the Prophet’s teachings but diverging in their beliefs and practices:
 
-- **The proto-Covenant peoples** divided among Ahdari caravan clans, Iqashari towns, Qahuri water communities, and western strait peoples. Their Exodus memory became oath, guest, sanctuary, and water law. In 541 AR, **Mujalib** received the revelation attributed to Malak al-Ahd and transformed those institutions into Al-Ahdiya. The Covenant of the 4,444 established Al-Qahur as its sacred center without making the later empire one ancestry.
+- **The proto-Covenant peoples** divided among Ahdari caravan clans, Iqashari towns, Qahuri water communities, and western strait peoples. Their Exodus memory became oath, guest, sanctuary, and water law. In 541 AR, **Mujalib** received the revelation attributed to Malak al-Ahd and transformed those institutions into Al-Ahdiya. The Covenant of the 4,444 established Al-Qahur as its sacred centre without making the later empire one ancestry.
 
 - **The Atherians**, though once followers of the Great Prophet, fell back into old ways, worshiping the **Idols** and **Menhir** as gods. Their descendants formed mighty city-states, driven by power and ambition, with little memory of the Lord's commandments.
 

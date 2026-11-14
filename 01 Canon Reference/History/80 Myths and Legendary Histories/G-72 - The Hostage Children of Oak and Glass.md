@@ -20,7 +20,7 @@ aliases: ["The Hostage Children of Oak and Glass"]
 
 ## Historical setting
 
-**c. 2020–1920 BR.** One Folk–proto-Atherian fortified border. This tradition belongs to [[Age of Scattering]]; its cultural bearers are Ark-derived and neighbouring Orphaned communities.
+**c. 2020–1920 BR.** One Folk–proto-Atherian fortified border. This tradition belongs to [[Age of Scattering]]; its cultural bearers are proto-Atherian fort households and one Folk great clan.
 
 It is told on one proto-Atherian–Folk border where fort households and an old great clan traded children to hold a truce.
 
@@ -48,7 +48,7 @@ Some former hostages refused the duty and moved away. Others married one another
 
 ## Why it is remembered
 
-The developing relationships among the foster children pull the tale forward. What matters is not diplomacy in the abstract, but young people used as security who acquire real loyalties their rulers cannot control.
+Listeners follow the foster children: young people used as security who grow loyalties their rulers cannot control.
 
 ## How tellers differ
 
@@ -60,11 +60,8 @@ Oak and green glass beads are tied together at later hostage exchanges and borde
 
 ## Read onward
 
-- [[Peoples in the World Historical Atlas]]
-- [[River Leagues and Sea-Kings of the Early World]]
 - [[The Folk before Atheria]]
 - [[Folk Clans, Confederacies, and Feud-Law]]
-
 - [[Age of Scattering]]
-- [[Myths and Legendary Histories MOC]]
-- [[World Historical Atlas MOC]]
+- [[Legendary Histories]]
+- [[The Ages of the World]]

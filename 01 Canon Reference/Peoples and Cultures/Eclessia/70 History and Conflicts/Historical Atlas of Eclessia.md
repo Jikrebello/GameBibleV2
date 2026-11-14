@@ -29,7 +29,7 @@ The Great Split of 1015 began with the Sanctum's demand to examine Veridun's res
 
 The High Noon that followed was Eclessia's crowded century. The Primarchs ruled Aurelia directly from 1166. Escaped mine slaves founded Korrheim's first cantons with the Oath of the Shafts in 1124. Marcher lords and the Knights of Saint Aveline waged the Great Southern Purge against Folk seers in 1158–1163 until riders without breath ended it. Around 1180 children in three duchies walked west toward Caleran, and forty never came home. The Sanctum defined the Unkindled Conception in 1183 and the Rising of the Mother in 1204, and in 1217 Caldrian captains took three Thalmyric valleys while Thalmyria fought its civil war. On the eve of the Grey Sweat in 1232 the realms were full of people and short of land.
 
-The Grey Sweat changed labour, tenancy and religious memory unevenly. Reform challenged genuine abuses and generated new persecutions. The Korrheim Accord protected selected territorial rites without settling the older schism, radical communities or reunion. In 1360, a shared civilizational identity therefore coexists with incompatible churches and rulers. Its myths remember friendships broken by institutions and poor households whose lives no settlement restored.
+The Grey Sweat of 1232–1247 killed about a third of eastern Eclessia and left the dead walking where priests had died. In the west survivors bargained for wages; in Virelia the magnates sealed priestless villages and bound their survivors to the demesne in exchange for a priest and a grave. The Sanctum sold sealed letters promising that Sending Houses would sing for the dead, and under Alessior VI it sold far more than it sang. Ansgar of Brenholt counted the letters against the rites in 1296 and was burned at Aldersbruck in 1305, and his psalter would not burn. Miners and farmers swore in the Weiss where his ashes lay and fought for twenty-three years, until Duke Rainald burned the seals; the princes' war that followed ended in 1343, when old-Church and reformed rulers put their hands in the same river and swore the Korrheim Accord. In 1360 Eclessia holds Sanctum realms, Accord-protected reformed duchies and a schism with Veridun three and a half centuries old, and its myths remember friendships broken by institutions and poor households whose lives no settlement restored.
 
 ## Stories and neighbouring histories
 
@@ -39,5 +39,4 @@ The Grey Sweat changed labour, tenancy and religious memory unevenly. Reform cha
 - [[G-16 - The Forty-First Ferry|The Forty-First Ferry]]
 - [[G-49 - The Two Tags on One Dead Man|The Two Tags on One Dead Man]]
 - [[G-65 - The Returners' Second Sack|The Returners' Second Sack]]
-- [[World Historical Atlas MOC]]
-- [[Peoples in the World Historical Atlas]]
+- [[The Ages of the World]]

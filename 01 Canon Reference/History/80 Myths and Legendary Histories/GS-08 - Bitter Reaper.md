@@ -35,7 +35,7 @@ Poison labour, killing of overseers, forced exposure, child death, medical depen
 
 Clinics divided between real medical descendants, exploitative cult hospitals and states that copied quarantine law without supernatural corruption.
 
-a bitter cordial remains medically useful in small doses and ritually abused by Reaper cults; the recipe proves neither cult nor condemnation.
+A bitter cordial remains medically useful in small doses and ritually abused by Reaper cults; the recipe proves neither cult nor condemnation.
 
 ## What people remember
 

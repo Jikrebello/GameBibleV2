@@ -15,7 +15,7 @@ tags: []
 
 The Sestaran Concord occupies the ports and overland approaches through which many of the known world's peoples trade, borrow, hire soldiers and recover captives. Its member cities pursue these relationships separately, using their own fleets, fairs, banks and foreign quarters. The Concord's wealth depends upon preserving access among rivals, but the same commerce carries arms, exploitative concessions, enslaved people and political debts across its borders.
 
-Most of the debts are recent. After the Grey Sweat, Fiorenzia's Medori cleared the estates of the plague dead and carried the payments of the living to the Sending Houses; in 1296 they took the Sanctum's assurance registers as surety for a Primarch's debts. Sermoran and Medori loans paid for Thalmyria's frontier campaigns of 1319–1325. The Black Wind's tolls pushed Sestaran trade to the sea, and in the 1330s Castara opened the only road across the Boiling Sea. In 1360 nearly every court on the board owes a Sestaran house for a war, for its dead or for passage.
+Most of the debts are recent. In and after the Grey Sweat, Fiorenzia's Medori cleared the estates of the plague dead and carried the payments of the living to the Sending Houses; in 1296 they took the Sanctum's assurance registers as surety for a Primarch's debts. Sermoran and Medori loans paid for Thalmyria's frontier campaigns of 1319–1325. The Black Wind's tolls pushed Sestaran trade to the sea, and in the 1330s Castara opened the only road across the Boiling Sea. In 1360 nearly every court on the board owes a Sestaran house for a war, for its dead or for passage.
 
 ## Jirahar
 

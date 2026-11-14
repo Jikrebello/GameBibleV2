@@ -26,11 +26,11 @@ The new road levy took the same spring labour for the Arcelon stations, and the 
 
 ## Relief
 
-Emperor Elian II appointed Neriah after two earlier commissioners failed to coordinate river transport. His sister Lethara, who administered family estates and food contracts, had brought the Raveth stewards' accounts to court. Neriah purchased grain from other provinces, requisitioned vessels and opened military stores. Local women who knew which households had disappeared helped revise distribution lists. Bakers changed the mixtures used for public loaves so available grain would last.
+Emperor Elian II appointed Neriah after two earlier commissioners failed to coordinate river transport. The emperor's sister Lethara, who administered family estates and food contracts, had brought the Raveth stewards' accounts to court. Neriah purchased grain from other provinces, requisitioned vessels and opened military stores. Local women who knew which households had disappeared helped revise distribution lists. Bakers changed the mixtures used for public loaves so available grain would last.
 
-Neriah required a countersignature from local witnesses before a store release, reducing diversion by officials. Deliveries still favoured towns on navigable routes. The boats reached the river towns first, and hill villages died waiting for the pack trains. Soldiers killed a crowd attempting to force entry into one store.
+Neriah made every store release carry the countersignature of local witnesses, which stopped officials skimming the grain. Deliveries still favoured towns on navigable routes. The boats reached the river towns first, and hill villages died waiting for the pack trains. Soldiers killed a crowd attempting to force entry into one store.
 
-Relief grain and seed were issued as recoverable obligations. When households could not repay, their land passed to the imperial domain. Animals and tools were similarly absorbed into managed estates. Former owners could remain by accepting labour duties and a share of the crop. The worst was over within three seasons, and the relief was wound down by 113.
+Relief grain and seed went out as loans. When households could not repay, their land passed to the imperial domain. Animals and tools were similarly absorbed into managed estates. Former owners could remain by accepting labour duties and a share of the crop. The worst was over within three seasons, and the relief was wound down by 113.
 
 ## The decision to continue
 
@@ -40,7 +40,7 @@ Lethara's estate officers ran the new domain. They replaced the neighbours' coun
 
 Raveth noticed the difference within a season. Where debts had been countersigned by neighbours, households argued, delayed, petitioned and kept part of their land. Where they had been sworn before the image, families walked their animals to the estate office without being asked and stood waiting at the gate. Estate officers praised the sworn villages for their piety. The villages themselves called it "the loan before the Face" and said the portrait had taken the argument out of them.
 
-The imperial estates recovered, and several towns survived. Families lost the right to decide what to plant, where their children would work and when they could leave. Debt servitude acquired the stability of public administration. Later imperial officials removed many local countersignatures when presenting the policy as the emperor's generosity.
+The imperial estates recovered, and several towns survived. Families lost the right to decide what to plant, where their children would work and when they could leave. Debt servitude became an office routine. Later imperial officials removed many local countersignatures when presenting the policy as the emperor's generosity.
 
 ## Memory
 

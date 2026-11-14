@@ -32,7 +32,7 @@ The crews descended. The weight the pale rib had carried shifted into the inhabi
 
 Workers abandoned the mine after daubing the untouched rib with meal. When it reopened, they accepted the first and third warning but refused ever to answer the middle knock. The silence became theirs, not the official's and not the courtier's.
 
-New managers tried to replace the taboo with bells. Miners kept both, knowing bells can fail and customs can be manipulated. Their caution is not romantic superstition; it is the memory of officials who once counterfeited certainty and called obedience safety. Stone still gets the final word.
+New managers tried to replace the taboo with bells. Miners kept both, knowing bells can fail and customs can be manipulated. Their caution is the memory of officials who once counterfeited certainty and called obedience safety. Stone still gets the final word.
 
 ## Why it is remembered
 
@@ -50,8 +50,7 @@ Miners never answer the middle of three knocks. They leave the pale rib untouche
 
 - [[High Noon Provinces and the Qarath Aftermath]]
 - [[Historical Spine of the Sestaran Concord]]
-- [[Menhir Courts through the Ages]]
-
+- [[The Mythology of The Menhir]]
 - [[High Noon and the Qarath Disaster]]
-- [[Myths and Legendary Histories MOC]]
-- [[World Historical Atlas MOC]]
+- [[Legendary Histories]]
+- [[The Ages of the World]]

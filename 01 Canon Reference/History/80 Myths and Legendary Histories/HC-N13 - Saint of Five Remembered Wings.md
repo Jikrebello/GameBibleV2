@@ -28,15 +28,15 @@ During the early Fall, an infernal claimant attempted to collect surviving child
 
 ## What people remember
 
-infernal bastard made holy by violence, repentant murderer, political fabrication, angel mistaken for a Saint, dynasty founder, victim of slander or continuing secret ruler.
+Infernal bastard made holy by violence, repentant murderer, political fabrication, angel mistaken for a Saint, dynasty founder, victim of slander or continuing secret ruler.
 
 ## What remains
 
-several custody courts preserve the clause **“No wound inherits the child.”** It bars blood, mutilation, household office and a parent’s compact from transferring ownership of a child’s soul or person.
+Several custody courts preserve the clause **“No wound inherits the child.”** It bars blood, mutilation, household office and a parent’s compact from transferring ownership of a child’s soul or person.
 
 ## What remains unknown
 
-house, region, gender, exact relations killed, public recognition, form of restitution, later claimant, surviving children and authenticity of all five-wing relics. Within this nursery lead, reception as a redeemed Saint after judgement is fixed; victims remain free to refuse reconciliation.
+House, region, gender, exact relations killed, public recognition, form of restitution, later claimant, surviving children and authenticity of all five-wing relics. Within this nursery lead, reception as a redeemed Saint after judgement is fixed; victims remain free to refuse reconciliation.
 
 - [[Heavenly Campaigns and the Human Dead]]
 - [[World Historical Atlas MOC]]

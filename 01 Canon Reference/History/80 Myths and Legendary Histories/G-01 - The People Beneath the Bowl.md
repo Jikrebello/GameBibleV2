@@ -46,8 +46,6 @@ In the game *Beneath the Bowl*, one child hides while one place at the table rem
 
 ## Read onward
 
-- [[Lesser Crowns of the Giant Age]]
-
 - [[Age of Chains]]
-- [[Myths and Legendary Histories MOC]]
-- [[World Historical Atlas MOC]]
+- [[Legendary Histories]]
+- [[The Ages of the World]]

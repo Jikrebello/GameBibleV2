@@ -53,7 +53,6 @@ A cracked horn plays three incomplete notes before spoils, captured houses or ev
 - [[Historical Atlas of Thalmyria]]
 - [[Historical Atlas of Eclessia]]
 - [[Saints and Sinners of the Chronicles]]
-
 - [[The Fall and the Long Reconquest]]
-- [[Myths and Legendary Histories MOC]]
-- [[World Historical Atlas MOC]]
+- [[Legendary Histories]]
+- [[The Ages of the World]]

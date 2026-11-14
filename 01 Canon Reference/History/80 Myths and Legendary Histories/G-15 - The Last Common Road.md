@@ -24,13 +24,13 @@ It is told on both sides of the Great Split, especially in towns whose graveyard
 
 ## The tale
 
-Two childhood friends maintained a road used by both crowns. One became a Eclessian abbot; the other an Thalmyric city deacon. When the Split hardened, each was ordered to surrender common shrines and exclude the other's clergy. They kept meeting at a roadside oven to exchange prisoners, letters and bodies.
+Two childhood friends maintained a road used by both crowns. One became an Eclessian abbot; the other a Thalmyric city deacon. When the Split hardened, each was ordered to surrender common shrines and exclude the other's clergy. They kept meeting at a roadside oven to exchange prisoners, letters and bodies.
 
-Partisans discovered the meetings. A Eclessian mob beat Thalmyric pilgrims and seized a shrine. Thalmyric soldiers imprisoned Eclessian monks and desecrated a grave while searching for a relic. The friends each defended their own people first and believed the other had chosen institution over friendship. At the oven they exchanged accusations instead of bread.
+Partisans discovered the meetings. An Eclessian mob beat Thalmyric pilgrims and seized a shrine. Thalmyric soldiers imprisoned Eclessian monks and desecrated a grave while searching for a relic. The friends each defended their own people first and believed the other had chosen institution over friendship. At the oven they exchanged accusations instead of bread.
 
 When fighting reached the road, one friend opened a gate for refugee families from the enemy church. His own followers called it betrayal. The other arrived too late to prevent retaliatory killings and struck his friend in grief. An arrow or thrown stone killed someone between them—versions dispute whether it was one of the friends, a child, or the guard who had started the beating.
 
-Afterward the road was divided, paved in two directions and given two names. Travellers kept using the old oven because neither route possessed another place to bake.
+Afterward the road was divided, paved in two directions and given two names. Travellers kept using the old oven because neither new road had anywhere else to bake.
 
 For years, each church accused the bakers of feeding schismatics. The bakers answered by mixing dough without asking who had milled the grain. More than one was beaten; one disappeared. The oven survived because hungry pilgrims defended it in turns while disagreeing about nearly everything preached beside it.
 
@@ -50,7 +50,6 @@ A roadside oven has two mouths feeding one chamber. Pilgrims bring different dou
 
 - [[Historical Atlas of Thalmyria]]
 - [[Historical Atlas of Eclessia]]
-
 - [[The Great Split — Two Crowns, One Fire]]
-- [[Myths and Legendary Histories MOC]]
-- [[World Historical Atlas MOC]]
+- [[Legendary Histories]]
+- [[The Ages of the World]]

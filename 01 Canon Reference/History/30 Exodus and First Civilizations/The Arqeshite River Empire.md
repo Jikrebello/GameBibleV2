@@ -21,7 +21,7 @@ Arqeshite kings joined walled capitals, levees, canals, royal estates, and templ
 
 ## Society
 
-Farmers, canal laborers, soldiers, merchants, scribes, deported artisans, and temple households sustained the empire. Its courts preserved valuable water and commercial law while treating subject populations as movable state resources.
+Farmers, canal labourers, soldiers, merchants, scribes, deported artisans, and temple households sustained the empire. Its courts preserved valuable water and commercial law while treating subject populations as movable state resources.
 
 Arqeshite first described the civic population of Arqesh and then widened to include an imperial language, administrative education and court culture. Nemeru, Khalbar and Durqesh retained their own civic populations under House Ubar.
 

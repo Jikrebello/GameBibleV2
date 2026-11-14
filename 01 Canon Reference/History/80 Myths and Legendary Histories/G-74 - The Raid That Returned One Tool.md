@@ -50,8 +50,7 @@ A disputed sounding-weight answers one current sequence near one reef. Its wear 
 
 - [[Historical Atlas of Atheria]]
 - [[The First Atherian City-States]]
-- [[Menhir Courts through the Ages]]
-
+- [[The Mythology of The Menhir]]
 - [[Age of City-States]]
-- [[Myths and Legendary Histories MOC]]
-- [[World Historical Atlas MOC]]
+- [[Legendary Histories]]
+- [[The Ages of the World]]

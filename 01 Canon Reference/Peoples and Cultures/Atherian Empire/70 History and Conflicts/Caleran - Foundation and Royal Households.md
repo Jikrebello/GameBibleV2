@@ -3,7 +3,7 @@ type: history
 status: canon
 canon_level: local
 visibility: public
-era: ["c. 1400–800 BR"]
+era: ["c. 1150–800 BR"]
 region: [Caleran, Aurin basin]
 culture: [Atherian, Enathi, Serathi, Vardeni]
 related_factions: []
@@ -24,19 +24,19 @@ Their inland neighbours included the Enathi around Nerava, Serathi hill-city hou
 
 ## The founding household
 
-[[Avren and Caleth]] established a ruling household after taking a fortified landing from the successors of the captain who had killed their father. Their supporters repaired the waterfront and joined neighbouring settlements to a common defence. Avren's fighters depended on the boat owners and suppliers organised by Caleth.
+[[Avren and Caleth]], whose drowning their father's killer had ordered and whom a grey she-wolf saved, grew up to take a fortified landing from that captain's successors by starving it of boats and grain. Avren led the fighting men; Caleth kept the boat owners and suppliers who fed them. They repaired the waterfront and joined the neighbouring settlements to a common defence.
 
-The brothers' quarrel concerned the use of those resources for an expedition remembered as a promise to their wolf fosterer. When Caleth resisted the levy, Avren killed him and dispersed his supporters. Sareth, Caleth's wife, left with their children; his mother Meral refused to endorse the accession feast. The foundation therefore left both a functioning royal centre and a surviving opposition within its own kin.
+The brothers quarrelled over an expedition into the woodland country that the household tellings remember as a promise to their wolf fosterer. Caleth refused the boats and the grain for it. At a meeting in an unfinished timber hall he ordered the stores returned to the families who had supplied them, and Avren killed him with a spear. Caleth's widow Sareth took their children home to Thesra, and their mother Meral would not come to Avren's accession feast. Caleran began with a king and a family that would not forgive him.
 
-Avren rewarded armed followers with land. Some allied families remained influential, while others lost the ability to refuse demands they had originally accepted as temporary. His descendants inherited these obligations and the need to maintain relationships with the people who supplied the estuary.
+Avren paid his fighters in land. Allied families who had accepted his demands as temporary found that they could no longer refuse them, and his heirs inherited both the obligations and the need to keep the estuary's suppliers sweet.
 
 ## Esvan and the river kings
 
 Several generations separated the founding struggle from the later religious settlement. The genealogies disagree about the number and order of lesser reigns, often attributing their works to Avren. Esvan is associated with a distinct enlargement of grain sheds and a common landing for upriver boats.
 
-The crown took a portion of cargo to maintain the waterfront and protect shipping within the settlement. Household heads met to organise labour and deliveries. Their council gained influence because the king needed their vessels, stored food and workers. A well-supplied ruler could keep a following through a bad season; one who alienated the providers risked losing it.
+The crown took a share of every cargo to keep up the waterfront. Household heads met to organise labour and deliveries, and their council mattered because the king needed their boats, stores and workers: a king with full sheds kept his following through a bad winter, and a king who quarrelled with the suppliers did not.
 
-Esvan's soldiers took captives during disputes over river approaches. Some captive households were settled beside the grain sheds, where later generations became skilled in transport and storage while remaining dependent on the crown. Royal accounts celebrated an enlarged supply system; the workers' family traditions also remembered the violence which had brought them there.
+Esvan's soldiers took captives in quarrels over the river approaches and settled some of their households beside the grain sheds. Their grandchildren became the best grain-handlers on the river and were still the crown's dependants. Royal accounts praised the new sheds; the shed families' own stories began with the raid that brought them there.
 
 Marriages carried members of Sareth's wider kin back into the city. Thesran craft households worked on royal buildings and continued their own meals and commemorations. Cooperation among later generations left room for disagreement about the founder's murder.
 
@@ -50,21 +50,17 @@ Their daughter Ilessa married into an upriver royal branch and preserved festiva
 
 ## Building and royal dependence
 
-Later kings enlarged walls, ship facilities and store buildings. Their projects used paid work, service obligations and captive labour. Wealthy houses advanced supplies and money, expecting land or offices in return. These arrangements gave the crown the means to build and gave its creditors influence over what it could undertake next.
-
-Councillors maintained direct relationships with soldiers, shipwrights and temple personnel. A royal appointment could strengthen a family whose descendants later opposed the king. Public festivals depended on contributions that several houses could threaten to withhold. The political life of the city increasingly involved negotiations among people whose resources the ruler could neither replace quickly nor seize without resistance.
+Later kings enlarged the walls, ship sheds and stores with paid work, service owed and captive labour. Wealthy houses advanced grain and silver and expected land or office back, so every royal building project left the crown more in debt to the families who would decide the next one. Councillors had their own friends among the soldiers, shipwrights and temple staff, and the festivals the kings were proud of ran on contributions several houses could threaten to withhold.
 
 ## Senavar and the withdrawal of royal government
 
-In the late ninth century BR, Senavar attempted to recover royal independence by extending levies and replacing local commanders with personal dependants. His soldiers seized boats at Nerava and imprisoned crews after a dispute over grain. Merchants in Caleran lost cargo, upriver households lost transport and councillors feared the dispersal of their own followers.
+In the late ninth century BR Senavar tried to make the crown independent again. He extended the levies and replaced local commanders with his own men, and after a quarrel over grain his soldiers seized the boats at Nerava and jailed their crews. Caleran's merchants lost cargo, upriver households lost their transport, and the councillors saw their own followings about to be broken up.
 
-A coalition of councillors, boat owners and neighbouring rulers forced the royal garrison to withdraw. Fighting and reprisals killed members of the king's household and of the coalition. Senavar's family retained supporters on some estates. Rival claimants prevented the immediate establishment of a secure replacement dynasty.
-
-Selected officers exercised the city's principal powers while neighbouring settlements continued negotiating trade and defence. Councils already practised in provisioning and public work acquired additional responsibilities. The twelve-city Celestial Compact provided a wider framework for these changing institutions around 800 BR. Republican offices developed subsequently within that framework.
+A coalition of councillors, boat owners and neighbouring rulers forced the royal garrison out. Fighting and reprisals killed members of the king's household and of the coalition. Senavar's family kept supporters on some estates, and rival claimants made sure no new dynasty could settle. Chosen officers took over the king's work, and councils long practised at provisioning and public building took on more. Around 800 BR the twelve-city Celestial Compact gave these changing institutions a wider frame, and the republic's offices grew inside it.
 
 ## The royal inheritance
 
-Grain facilities, temple endowments, waterfront work and household councils survived changes of government. Republican magistrates inherited ceremonies once performed by kings, while families adjusted their accounts of who had first built or supplied a public work. The city's royal history remained useful to supporters of inherited rank and to opponents who invoked the murder and levies of the early rulers.
+The grain sheds, temple endowments, waterfront and household councils outlived the kings. Republican magistrates inherited the kings' ceremonies, and families quietly revised their stories of who had built what. The royal past served both sides afterwards: the defenders of inherited rank, and their opponents, who remembered a founder's spear in his brother and a king's soldiers on the Nerava boats.
 
 - [[The Celestial Compact and the Caleran Republic]]
 - [[The Wolf's Two Sons]]

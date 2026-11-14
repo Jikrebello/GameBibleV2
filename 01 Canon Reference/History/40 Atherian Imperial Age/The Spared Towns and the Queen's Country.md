@@ -28,7 +28,7 @@ The capital's salting damaged selected ground, while the demolition of waterwork
 
 ## The table at the landing
 
-Some days after the sack of 520, the people the war had spared ate together at Sarqen's landing: rescued children, carriers, farmers, freed slaves, people ransomed out of the capital and a few Atherian deserters. Each brought what they had, barley bread, salt fish, dates and a little oil. No one was served by rank and no seat was kept empty. **Sapha of Esharat**, the midwife whose daughter Neral had died in the capital, set the rules and refused to preside.
+Some days after the sack of 520, the people the war had spared ate together at Sarqen's landing: rescued children, carriers, farmers, freed slaves, people ransomed out of the capital and a few Atherian deserters. Each brought what they had, barley bread, salt fish, dates and a little oil. No one was served by rank and no seat was kept empty. **Sapha of Esharat**, the midwife whose daughter Neral had died in the capital, set the rules and refused to sit at the head of the table, because the table had no head.
 
 The rules became the **Table Oath** of the Spared Town League: *no child for the table; no seat kept empty; no guest served by worth.* The towns renewed it every year at Sarqen with a meal laid the same way, on long boards with no high end. Each clause answered something the towns had seen. The Provider's priests had fed the capital on children; its festival tables had kept a place for the god; its guests had been seated by what they could give. From the first renewal, the towns read "no guest served by worth" as covering suppliants and fugitives, so that a stranger who reached the table could not be sold from it.
 
@@ -36,13 +36,13 @@ Salt from the pans of Hazreth and Sarqen stood on that table. The same salt, at 
 
 ## A smaller harbour becomes a centre
 
-Second Harbour, later known as Sarqen, was an existing lesser port that escaped the capital's destruction. Its enlargement drew upon resident pilots, craftspeople, storekeepers and cultivators, joined by newcomers seeking work and security. Repair of storage and water supply accompanied renewed shipping. A harbour could attract vessels only if it could provide food, equipment and labour between voyages.
+Second Harbour, later known as Sarqen, was a lesser port that escaped the capital's destruction. Its pilots, craftspeople, storekeepers and cultivators were joined by newcomers looking for work and safety, and they rebuilt the stores and water channels first, because ships came only to a harbour that could feed and refit them.
 
-Recovery remained unequal. Compulsory work and preferential grants gave some households the means to enlarge their holdings while others struggled to regain a livelihood. Return from captivity could reunite relatives without restoring the property or position they had lost. The growth of trade nevertheless supported apprenticeships, marriages and households whose prospects improved through the new centre.
+Recovery was unequal. Compulsory work and preferential grants let some households enlarge their holdings while others struggled to eat. A captive who came home found relatives but rarely the field or the trade. Trade still brought apprenticeships, marriages and better prospects to families who had never had them in the capital's day.
 
-Between about 500 and 400 BR, the port acquired greater political importance within a country still subject to Atherian supervision. Cultivated revenue, shipping and military protection became resources around which hereditary authority could consolidate. The surviving towns retained influential families and local institutions capable of supporting or resisting a royal household.
+Between about 500 and 400 BR the port grew into the country's centre of revenue, shipping and Atherian protection, the things around which a hereditary ruler could gather, while the surviving towns kept families and councils strong enough to make or unmake one.
 
-The seat of that household was Sarqen and never the ruined capital, for reasons the towns gave in three registers. Qarzeth's cisterns were broken and its central ground salted. A court built over the old sanctuary would have been a place kept for the Provider, and the towns' oath forbade a seat kept empty for anyone. And the oath itself had been sworn at Sarqen's landing.
+The seat of that household was Sarqen and never the ruined capital, and the towns gave three reasons. Qarzeth's cisterns were broken and its central ground salted. A court built over the old sanctuary would have been a place kept for the Provider, and the towns' oath forbade a seat kept empty for anyone. And the oath itself had been sworn at Sarqen's landing.
 
 ## Royal authority and Atherian influence
 
@@ -50,9 +50,9 @@ Nerethan of Delkos arrived as an Atherian harbour commander in 499 BR and marrie
 
 Nerethan and Hadrima's son Arenes obtained recognition as hereditary ruler in 457, but only after the town leaders made him sit at the unranked table at Sarqen, eat what was put in front of him and swear the Table Oath. His son Tavren in 434 and grandson Olymes in 408 did the same. Royal speakers liked to say the crown had inherited the oath; the towns answered that the oath had inherited the crown. [[The House of Nerethan]] developed through later marriages, religious patronage and arrangements with the towns supplying its port. Some obligations continued earlier practices; others followed conquest and the demands of the new government.
 
-Atherian authorities retained influence through garrisons, payments, military assistance and the ability to favour rival claimants. They often depended upon local rulers to maintain supplies and order. The crown, in turn, needed sufficient support at home to meet those demands without surrendering every advantage to foreign patrons.
+Atherian authorities kept their hold through garrisons, payments, military help and the ability to favour a rival claimant, but they needed the crown to keep the grain moving. The crown needed enough support at home to meet Caleran's demands without handing over everything.
 
-The resulting kingdom differed substantially from the old republic. Royal succession replaced the capital's former distribution of offices, and Second Harbour drew activity away from the ruined centre. Urban households, cultivators and foreign military families entered the new arrangements from unequal positions. Their descendants belonged to the same country while preserving different memories of how their families had acquired a place within it.
+Royal succession replaced the old capital's elected judges and council houses. Town households, cultivators and foreign military families entered the kingdom on unequal terms, and their descendants told different stories of how their families had earned a place in it.
 
 ## Samyra's inheritance
 

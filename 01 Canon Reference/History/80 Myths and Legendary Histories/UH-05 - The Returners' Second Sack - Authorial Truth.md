@@ -38,8 +38,6 @@ The event does not make the Reconquest illegitimate or its opponents innocent. I
 - **Occupation-descended families** remember every executed steward as a civic martyr, including documented informers and confiscators.
 - **Water workers** preserve the phrase *the well served the hands that kept it*, without remembering the hearing procedure from which it came.
 
-
-
 ## Discovery Interface
 
 - **Knowledge state:** `suppressed` at first, later `lost` and `misclassified`.

@@ -56,9 +56,6 @@ Children balance seeds on a snapped stick while chanting, “The measure broke f
 
 ## Read onward
 
-- [[Lesser Crowns of the Giant Age]]
-- [[The Great Unbinding]]
-
 - [[Age of Chains]]
-- [[Myths and Legendary Histories MOC]]
-- [[World Historical Atlas MOC]]
+- [[Legendary Histories]]
+- [[The Ages of the World]]

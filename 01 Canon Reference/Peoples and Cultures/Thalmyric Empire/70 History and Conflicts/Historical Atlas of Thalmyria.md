@@ -13,7 +13,7 @@ tags: [world-historical-atlas]
 ---
 # Historical Atlas of Thalmyria
 
-Thalmyria is the southern successor empire formed by Atherian heartland survivors, mountain refugees, occupation-born families and the armies of the Long Reconquest. Its history centres on the recovery of Caleran, the creation of a new imperial house and later rivalry with Eclessia and the Ahl-e-Ahd. The empire of 1360 governs the oldest concentration of Atherian infrastructure while carrying unresolved memories of occupation, religious division and the violence of restoration.
+Thalmyria is the western successor empire formed by Atherian heartland survivors, mountain refugees, occupation-born families and the armies of the Long Reconquest. Its history centres on the recovery of Caleran, the creation of a new imperial house and later rivalry with Eclessia and the Ahl-e-Ahd. The empire of 1360 governs the oldest concentration of Atherian infrastructure while carrying unresolved memories of occupation, religious division and the violence of restoration.
 
 ## Historical Atlas — wider inheritance
 
@@ -25,7 +25,7 @@ Victory put the Fire back into endowed office, and the war-lamps that had burned
 
 The Two Winters of 1101–1103 emptied the northern frontier. Caedros III resettled it as military districts, each holding owing a lance and a door-lamp lit from the Rekindling relay, and the district lamps kindled when their families held their houses against the Covenant's mercy towers in the War of the Southern Deeds (1131–1139). Caedros left his succession to the Fire; at his funeral in 1167 no claimant's lamp kindled and a district widow's did, and the district armies made their own commander emperor. A census meant to make Elenara's prince a king was stopped at a threshing floor at Kremna in 1171–1173. At Qarath's Well in 1214 Markellos's army drank from a sworn well and was routed, and the emperor who stayed with the men who drank was ransomed for the districts. The treatment of Markellos was a domestic crime following an external defeat: his regent blinded him to void the ransom, and the Covenant held the ransom binding anyway. Civil war ran until Nikandros, who had brought the Kedravan contingents home from Qarath, was crowned in 1225.
 
-Nikandros's restoration and Caedros IV's later reign inherited that wound. In 1360, military, monastic, provincial and household loyalties remain distinct, while current grief and succession are unfinished.
+Nikandros the Restorer refused in 1227 to let the Sanctum try the Great Lamp as the price of Eclessian soldiers, and a decade later won back half the lost districts when plague-stricken Covenant garrisons, their oaths left without witnesses, walked home. The Grey Sweat reached Thalmyria by sea around 1234. Where priests died, villagers sang their own dead out, and the empire came through with fewer haunted villages than Eclessia and a hardened belief that the Flame answers the singer, not the office. Evandros the Sower resettled the emptied land with Kedravan mountain families, and Stavren the Patient kept thirty years of peace on Sestaran credit. When Covenant night riders on Iron Horde horses struck the chapel-forts, a provincial Aetherion commander named Caedros held Orinel (1318), led the Crimson Pilgrimage and took Zehrim (1325). The summer flux of 1327 killed Stavren's sons, and the old emperor adopted the hero of Zehrim. In 1360 Caedros IV is widowed and has buried his elder son; his daughter, his scholar son and the adoption party divide the court; and he kneels for a day at a time before the Great Lamp while the court watches the flame.
 
 ## Stories and neighbouring histories
 
@@ -41,5 +41,4 @@ Nikandros's restoration and Caedros IV's later reign inherited that wound. In 13
 - [[G-65 - The Returners' Second Sack|The Returners' Second Sack]]
 - [[G-74 - The Raid That Returned One Tool|The Raid That Returned One Tool]]
 - [[G-75 - The Empty Oar of the Winter Tithe|The Empty Oar of the Winter Tithe]]
-- [[World Historical Atlas MOC]]
-- [[Peoples in the World Historical Atlas]]
+- [[The Ages of the World]]

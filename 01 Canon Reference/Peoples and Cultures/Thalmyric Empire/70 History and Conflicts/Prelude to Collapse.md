@@ -59,5 +59,5 @@ Corvenas ordered public rites and issued written orders for partial mobilisation
 
 - [[01 Canon Reference/History/60 Fall and Successor Empires/The Invasion and the Fall.md|The Invasion and the Fall]]
 - [[The Atherian Empire Overview]]
-- [[Chronology of the Known World (AR Dating)]]
+- [[The Fall and the Long Reconquest]]
 - [[The Long Frontier and the First Unsealing]]

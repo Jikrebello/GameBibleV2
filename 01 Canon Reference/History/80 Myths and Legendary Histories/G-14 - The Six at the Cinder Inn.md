@@ -50,7 +50,6 @@ Six chipped bowls circle an inn hearth. Each local performance fills them with d
 
 - [[Historical Atlas of Thalmyria]]
 - [[Historical Atlas of Eclessia]]
-
 - [[The Fall and the Long Reconquest]]
-- [[Myths and Legendary Histories MOC]]
-- [[World Historical Atlas MOC]]
+- [[Legendary Histories]]
+- [[The Ages of the World]]

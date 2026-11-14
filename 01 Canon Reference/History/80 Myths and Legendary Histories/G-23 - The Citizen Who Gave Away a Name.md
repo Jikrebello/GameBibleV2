@@ -16,7 +16,7 @@ aliases: ["The Citizen Who Gave Away a Name"]
 ---
 # The Citizen Who Gave Away a Name
 
-> **Stories told.** This is an unfinished 1360 tradition. Current rumours and the observable practice are established; no future discovery, victory, judgement or fate is implied.
+> **Stories told.** This tale is still happening in 1360. The rumours and the custom below are real; how it ends, nobody yet knows.
 
 ## Historical setting
 
@@ -28,7 +28,7 @@ It is told as present-day harbour gossip in one Anchor-facing port where veteran
 
 An old naval veteran noticed that men who had served on one forgotten expedition were vanishing. Officials said they had left voluntarily. The veteran recognised the same grey carriage outside three homes and learned that its servants could find a person through civic rolls, medals and the public use of a full name.
 
-He sought a false keeper who offered to hide him by taking his civic name. The bargain did not remove or divide his soul. It changed how the city's habits found him. Neighbours forgot why they knew his face. Rain washed the figures from his medals. His grandchildren remembered affection but argued whether he was uncle, father or an old family servant.
+He sought a false keeper who offered to hide him by taking his civic name. His confessor swears the bargain took nothing from his soul. It changed how the city's habits found him. Neighbours forgot why they knew his face. Rain washed the figures from his medals. His grandchildren remembered affection but argued whether he was uncle, father or an old family servant.
 
 Unseen by officials, he entered the carriage house and rescued one captive. The price followed him home: his wife opened the door and treated him kindly as a stranger. He could tell her memories, but every proof sounded stolen. When he tried to reclaim the name, the keeper demanded the rescued captive in exchange.
 
@@ -48,15 +48,8 @@ Dockworkers call the veteran a spy. His neighbours remember different family rol
 
 An old coat shows blank human shapes on its medals whenever rain darkens the cloth.
 
-## History and belief
-
-The tale stops at the present.
-
 ## Read onward
 
-- [[Present-Day Political Board]]
-- [[Patron Cities and the Long Rent Histories]]
-
 - [[The Age of Held Proofs]]
-- [[Myths and Legendary Histories MOC]]
-- [[World Historical Atlas MOC]]
+- [[Legendary Histories]]
+- [[The Ages of the World]]

@@ -3,7 +3,7 @@ type: event
 status: canon
 canon_level: core
 visibility: public
-era: ["Age of the Redeemer"]
+era: ["c. 33 BR–68 AR"]
 region: ["Atherian Empire", "Second Qiryath", "Caleran"]
 culture: ["Atherian", "Jirahar"]
 related_factions: ["Star Pantheon", "Qiryath Council", "Followers of the Redeemer"]
@@ -25,9 +25,9 @@ At Second Qiryath, Lord-Scribe Ezrahel bar Qoreth and a majority of the particip
 
 On the third morning, Solana and other women found the tomb empty. The risen Isfir appeared to his followers, showed them his wounds and ate with them. After the Ascension, the gathered community received the Holy Flame in Qiryath. Teaching, prayer, shared meals and care for people in need sustained the first congregation. Its people carried the proclamation through the households and roads they already knew.
 
-The first assembly chose servers from settled and travelling households after its relief lists missed widows. As the faith spread to ports and provincial towns, a meeting at Qiryath recognized baptism as sufficient for admission without requiring entry into the Jirahar covenant. The ruling shaped mixed congregations whose members still differed over food and the obligations of a common table. [[The First Church - From Qiryath to the Tower Revolt|The First Church]]
+The first assembly chose servers from settled and travelling households after its relief lists missed widows. As the faith spread to ports and provincial towns, a meeting at Qiryath recognised baptism as sufficient for admission without requiring entry into the Jirahar covenant. The ruling shaped mixed congregations whose members still differed over food and the obligations of a common table. [[The First Church - From Qiryath to the Tower Revolt|The First Church]]
 
-The Silence of Acceptance at Qiryath followed the Resurrection. Sacrifice continued, but its former authenticated sign did not return. Later imperial violence against Jirahar communities cannot be justified by converting this theological event into hereditary guilt. Individuals made choices; whole descendants were not sentenced by ancestry.
+The Silence of Acceptance at Qiryath followed the Resurrection. Sacrifice went on, and the smokeless fire and cool stones that had answered it since the return from exile never came back. Later persecutors turned this silence into a hereditary guilt laid on every Jirahar. The guilt belonged to the men who chose, on the council's bench and in the governor's court, and to none of their grandchildren.
 
 The empire's own augurs recorded a shorter silence. From the hour of the Binding to the third morning, no augur college anywhere recorded an answer from the Stars. Severan, who had read for the governor at Qiryath, wrote that the stars did not answer, and never read again; his college recorded that he "laid down the staff". Augury resumed on the fourth day, and the colleges sealed the three blank days in their books. When the Companion Tyros, once an astrologer-priest himself, made those days a public question, junior augurs followed him with copies of their books, and the High Augurate answered with the **Great Purge** of c. 36–45. Its commission burned Jareth, beheaded Tyros and Aquilan, and made it a crime to publish a wonder the colleges had not entered. For the next two and a half centuries congregations wrote their miracles down as weather and good sense. [[The Twelve Companions of the Redeemer]] · [[The Ember Underground]]
 
@@ -39,9 +39,9 @@ Food, illness, childbirth and the care of the dead supplied the daily work behin
 
 ## Revolt and Underground
 
-The Great Tower Revolt of 66–73 AR brought initial victories, factional conflict and siege. Second Qiryath fell in 70 AR and the last fortress in 73. Atheria ended Qiryath's charter government and put the city under direct provincial rule. Many displaced Jirahar found refuge beyond imperial jurisdiction. Some of Qiryath's believers went with them, and others found homes among congregations already established within the empire.
+The Great Tower Revolt of 61–68 AR began when the governor's officers took the sanctuary's money for arrears, soldiers killed the crowd that protested, and militants promised that the lost sign would come back once foreign rule ended. It brought initial victories, factional conflict and siege. Second Qiryath fell in 65 AR and the last fortress in 68. Atheria ended Qiryath's charter government and put the city under direct provincial rule. Many displaced Jirahar found refuge beyond imperial jurisdiction. Some of Qiryath's believers went with them, and others found homes among congregations already established within the empire.
 
-During the Underground Centuries, 1–291 AR, local officials, emperors and mobs acted differently. Some congregations flourished long enough to acquire property before losing it. Others survived through service households and burial fraternities. Magistrates who had watched lamp cults and grave cults feed on soldiers' grief saw the same signs in congregations that kept lamps at executed men's graves, and Tervan Marcellan's edict of 249 licensed every household's grave-lamps after a cult called the Kept Lamps had fed mutinies in the eastern garrisons. Their local histories survive in [[Saints and Sinners of the Chronicles]].
+During the Underground Centuries, 1–291 AR, local officials, emperors and mobs acted differently. Some congregations flourished long enough to acquire property before losing it. Others survived through service households and burial fraternities. Magistrates who had watched lamp cults and grave cults feed on soldiers' grief saw the same signs in congregations that kept lamps at executed men's graves, and Tervan Marcellan's edict of 245 licensed every household's grave-lamps after a cult called the Kept Lamps had fed mutinies in the eastern garrisons. Their local histories survive in [[Saints and Sinners of the Chronicles]].
 
 In the generations after Qiryath, municipal recovery, wars with Vashar, southern border treaties and the rising at Sarqen reshaped the empire around these congregations. [[Atheria between Qiryath and Cassian - Emperors Wars and Revolts|Atheria between Qiryath and Cassian]]
 
@@ -74,7 +74,5 @@ The era's Lives were copied and contested long afterwards. A Saint's earthly rep
 - [[G-24 - The Red Door and the Names Left Behind|The Red Door and the Names Left Behind]]
 - [[G-39 - First the Betrayed, Then the Witness|First the Betrayed, Then the Witness]]
 - [[G-70 - The Empty Grave and the Two False Shrines|The Empty Grave and the Two False Shrines]]
-
-Smaller local histories and restored reserve leads: [[Additional Mortal Lives and Frontier Traditions]].
 
 Lives of the age's great saints and sinners as the chronicles tell them: [[Saints and Sinners of the Chronicles]].

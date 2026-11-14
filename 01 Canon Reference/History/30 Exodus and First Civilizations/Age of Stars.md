@@ -20,11 +20,11 @@ tags: []
 
 The **Age of Stars**, approximately 800–350 BR, is the period in which rival Atherian cities developed a shared language of civic law, astronomy, roads, military service and public religion. The name comes from the star cults that supplied common festivals, divine genealogies and symbols of office. Older city loyalties remained powerful, but rulers and travellers could increasingly describe the Atherian world as one civilisation.
 
-The synthesis drew upon Giant astronomy, memories of the Exodus, local civic law and the experience of maritime exchange. Caleran's [[The Common Sky and the Formation of Astratheon|Common Sky settlement]] had already joined maritime and inland worship in royal ceremony around 1000–950 BR. Republican patrons expanded this settlement by funding shared festivals, arranging local founders within the Family of Stars and translating civic calendars into a common reckoning.
+The synthesis drew upon Giant astronomy, memories of the Exodus, local civic law and the experience of maritime exchange. Caleran's [[The Common Sky and the Formation of Astratheon|Common Sky settlement]] had already joined maritime and inland worship in royal ceremony around 1000–950 BR. The age opens around 800 BR, when twelve cities that already met at Caleran's festivals swore to keep its calendar, arbitrate their quarrels and muster together as the Celestial Compact. Republican patrons expanded the settlement by funding shared festivals, arranging local founders within the Family of Stars and translating civic calendars into a common reckoning.
 
 ## Making a civilisation out of rivals
 
-Older cities retained their own founders, rivalries and ceremonies throughout the Age of Stars. Scholars fitted some of those founders into kinship stories, placed formerly incompatible gods within a pantheon and translated local calendars into larger reckonings.
+Older cities kept their own founders, rivalries and ceremonies throughout the Age of Stars, while scholars married those founders into kinship stories and seated incompatible gods at one celestial table.
 
 The synthesis brought practical advantages. Travellers could move farther, merchants compare measures and rulers recruit beyond one household. The same systems also enlarged state coercion. Standard measures became quotas, surveys marked settlements for removal and roads built to carry food also carried punitive columns.
 
@@ -38,7 +38,7 @@ Along another inland corridor, prisoners' songs tell how a summoning operation p
 
 In 742 BR, the Arqeshite River Empire destroyed the First Qiryath and deported leading households. In the siege's first winter the altar's sign had already been withheld: offerings smoked and the stones stayed hot. Exile made portable teaching, skilled service and remembered kin more important. Arqesh fell around 690 BR; return followed changing political opportunity. The Second Qiryath was consecrated around 660 BR, and the royal consecration offering smoked. The sign returned around 654, under an offering carried by mixed households of the rebuilt city.
 
-Restoration did not restore every dead person or every lost field. Returnees found neighbours who had survived by accommodation and households whose claims depended on later rulers. The memory of exile therefore contains gratitude, accusation and arguments over what return should mean. Atherian histories which present the east merely as territory awaiting unification miss this entire sequence.
+Restoration did not restore every dead person or every lost field. Returnees found neighbours who had survived by accommodation and households whose claims depended on later rulers. The memory of exile therefore contains gratitude, accusation and arguments over what return should mean, arguments that Atherian histories, writing of the east as territory awaiting unification, left out.
 
 ## Ortheia and the eastern conquest
 
@@ -58,7 +58,7 @@ Caleran answered with a sacrifice. In 609, on the festival ground of the Common 
 
 The same war broke a city's covenant with Heaven, in the telling of its survivors. In the inner gulf around 608, an allied city that kept a refuge gate and a register of its guests read the register as a list of Gateway agents. Its magistrates executed registered foreigners in the square, seized their grain and drove whole households out to the besiegers, and its clerks rewrote the gate's covenant so that the dead seemed to have broken guest-law first. Survivors said the lamps of the refuge gate then went out one by one without smoke, and the register in the gatehouse turned to blank parchment. Defenders on the wall swore that white-gold wheels within wheels, ringed with moving wings, had passed from gate station to gate station in a fixed order before the light withdrew, and walls never breached in living memory were breached. The city fell within the season. Survivors carried a true copy of the covenant out through the siege lines, and later cities copied the order of the stations into a rite for unhousing a sanctuary gate. Church writers called it a heavenly withdrawal; Star priests called it a failed machine of the Giants; the city's name is disputed, and [[G-38 - The Houses Unhoused before the Gate Turns|The Houses Unhoused before the Gate Turns]] keeps the procession of roof tiles its survivors began.
 
-In the Gateway towns' telling, Qarzeth's god paid for its city's recoveries with its subject towns' food, and the Gateway Republic paid for its god with children. The [[The Three Collections and the Fall of Qarzeth|Years of Three Collections]], 548–540, brought Caleran's final war. The capital fell in 520, and the people it had spared sealed its end with a meal at Sarqen's landing at which no one was served by rank; their oath outlived both republics.
+In the Gateway towns' telling, Qarzeth's god paid for its city's recoveries with its subject towns' food, and the Gateway Republic paid for its god with children. The [[The Three Collections and the Fall of Qarzeth|Years of Three Collections]], 548–540, brought Caleran's final war. The capital fell in 520, and the towns Caleran had spared sealed its end with a meal at Sarqen's landing at which no one was served by rank; their oath outlived both republics.
 
 In the same years, Caleran's siege levies passed through a highland league of nine valleys, the league that kept the Compact's archive. One district, stripped of men and grain, killed its collectors, and the league destroyed it. Atherian annals preserve the legend of a campaign that cannot be placed and a valley left off the maps. Allied soldiers marching home from Qarzeth went into that valley and were not seen again.
 
@@ -66,21 +66,19 @@ In the same years, Caleran's siege levies passed through a highland league of ni
 
 Caleran's augurs read the sky for the republic, and in its last centuries the sky answered other people. In 488 the veterans of the eastern sea war, led by the magistrate Eshren Damar, asked the Sun at Sarven's old sighting stones to show the boundaries of the public land, and for one noon hour every shadow in the lower Aurin pointed along the old lines. The harvest of that land rotted on the stalk that autumn, Damar was killed in a bread crowd in 487, and in 486 the senate gave the augurs sole right to seek or record a sign over public things.
 
-In 466, during the allies' rebellion against the naval league's ship money, Pyrassa closed its harbour chain against rebel ships in a gale on Caleran's order. Its own grain ships were shut out with them, and sailors swore the old dragon of drowned Kelarion rose under the breakwater until Pyrassa's wardens cut the chain. The peace of 461 made refuge law for any ship in distress. The senator Vespen Harod accepted the Red Field against the rebel captains in the same winter, and because those captains lived on in Vasharan exile, he governed Caleran from a tent on the muster ground for twenty-five years and died in it, still Warden. The [[The Last Generations of the Caleran Republic|last republican generations]] inherited his tent, his confiscations and his open field.
+In 466, during the allies' rebellion against the naval league's ship money, Pyrassa closed its harbour chain against rebel ships in a gale on Caleran's order. Its own grain ships were shut out with them, and sailors swore the old dragon of drowned Kelarion rose under the breakwater until Pyrassa's wardens cut the chain. That winter the senator Vespen Harod accepted the Red Field against the rebel captains. The peace of 461 made refuge law for any ship in distress, but the captains Harod had named lived on in Vasharan exile, so he governed Caleran from a tent on the muster ground for twenty-five years and died in it, still Warden. The [[The Last Generations of the Caleran Republic|last republican generations]] inherited his tent, his confiscations and his open field.
 
 ## Stars, rulers and false ancestors
 
-Scholars gave older powers coherent family histories, and rulers used those histories to naturalise civic hierarchy. The manufactured Family of Stars forced some households to change festival obligations. Elegant public images concealed older accounts of divine-generation mutilation, imprisonment and war.
-
-Some legends genuinely preserve local manifestations; others join unrelated events. In one cycle a profaned sacred object killed its handler while refusing the conquest for which the ruler wanted to use it.
+Scholars gave older powers tidy family histories, and rulers used those histories to make civic rank look like the order of the sky. Households whose founder was demoted in the Family of Stars lost their place in the festival procession and paid for someone else's. The elegant public images painted over older stories of gods who mutilated, imprisoned and made war on their own parents. In one cycle a profaned holy object killed the man who carried it rather than serve the conquest its ruler wanted it for.
 
 ## Towards unification
 
-The Caleran republic's institutions emerged from one part of this city world. Citizenship became a civic status acquired through descent, grant, service and incorporation. Roads, colonies and provincial service allowed Caleran to absorb communities on a scale beyond the older war-settlement houses, although rights remained unequal.
+Citizenship became something a man could inherit, earn by service, receive as a grant or have imposed on his town by incorporation. Roads, colonies and provincial service let Caleran absorb communities on a scale the old war-settlement houses never managed, and every grade of citizen knew exactly which grade sat above him.
 
-By 350 BR, the Caleran republic possessed extensive roads, overseas territories, veteran clients and commanders whose wealth depended upon provincial war. Teren Casvilar accepted the Red Field in 376 and was killed on the muster ground in 370 by men who entered their names as his challengers and struck before the contest opened; the wars that followed ran until no challenger was left alive. These institutions and their quarrels supplied the power used by Aurelius Thalion during the founding of the [[Atherian Imperial Age]]. The older cities and eastern states retained histories extending far beyond Caleran's authority.
+The northern well country stayed beyond Caleran's reach. Arqeshite and Qahuri rulers had sponsored competing Tarkhan and Ahdari clients there, and their garrisons demanded guides, animals and hostages; the client courts fell apart after Arqesh fell. In 381 BR, Kharuz of the Stone Wells and the Ahdari water keeper Tavisha defeated [[Lethren Ostar]], a Caleran financier who had sold rebels north to the well dealers and believed the north could be bought, at Rethmar by dividing his columns and emptying the cisterns he expected to seize. Their coalition dispersed after the victory.
 
-The northern well country remained beyond Caleran's control. Arqeshite and Qahuri rulers had sponsored competing Tarkhan and Ahdari clients, while their garrisons demanded guides, animals and hostages. The client courts disintegrated after Arqesh's fall. In 381 BR, Kharuz of the Stone Wells and the Ahdari water keeper Tavisha defeated [[Lethren Ostar]] at Rethmar by dividing his columns and removing the water he expected to seize. Their coalition dispersed after the victory.
+By 350 BR the Caleran republic possessed extensive roads, overseas territories, veteran clients and commanders whose wealth depended upon provincial war. Teren Casvilar accepted the Red Field in 376 and was killed on the muster ground in 370 by men who entered their names as his challengers and struck before the contest opened; the wars that followed ran until no challenger was left alive. These institutions and their quarrels supplied the power used by Aurelius Thalion during the founding of the [[Atherian Imperial Age]]. The older cities and eastern states kept histories reaching far beyond Caleran's authority.
 
 ## Atlas navigation
 
@@ -101,7 +99,6 @@ The northern well country remained beyond Caleran's control. Arqeshite and Qahur
 - [[Food, Work and Citizenship in Republican Atheria]] — production, service, civic belonging and ordinary pleasures.
 - [[Peoples before Atherian Unification]] — synchronised population and identity history through 350 BR.
 - [[The Arqeshite River Empire]]
-- [[The Erasure of Orthea]]
 - [[Historical Atlas of Vathra and the Northern Ground]]
 - [[The Tarkhan before the Horse Hordes]]
 - [[The Ahdari before the Covenant]]
@@ -116,6 +113,4 @@ The northern well country remained beyond Caleran's control. Arqeshite and Qahur
 - [[G-64 - The Prisoners Who Became a Border|The Prisoners Who Became a Border]]
 - [[G-38 - The Houses Unhoused before the Gate Turns|The Houses Unhoused before the Gate Turns]]
 
-Smaller local histories and restored reserve leads: [[Additional Mortal Lives and Frontier Traditions]].
-
-Further civil history: [[River Leagues and Sea-Kings of the Early World]].
+Island and sea histories of the period: [[Historical Atlas of the Elmaric Sea before 350 BR]], [[Ilamar before 350 BR]] and [[Vorthara before 350 BR]].

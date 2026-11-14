@@ -13,10 +13,6 @@ tags: [world-historical-atlas]
 ---
 # Distant Lands and Otherworld Histories
 
-## Atlas narrative
-
-The following account distinguishes established history from the received stories named within it.
-
 ## More than the known world's margin
 
 The familiar empires occupy only part of inhabited history. Beyond them, people survived Giant collapse through different combinations of retreat, technology, captivity, alliance and loss. Distance is not a smooth circle of declining civilization. A ruined engineered landscape may contain an advanced enclave, stone-tool villages, dangerous old machinery and a powerful predatory state within the same watershed.
@@ -53,10 +49,6 @@ The histories remain separate. A repeated image—a gate, a serpent, a feast or 
 
 - [[World Historical Atlas MOC]]
 - [[Myths and Legendary Histories MOC]]
-
-## Historical articles in this age
-
-This portal supplies the principal account; its related histories are linked below.
 
 ## Local tales and surviving memories
 

@@ -33,7 +33,7 @@ Caldria remembers a crusading victory. Vorthara remembers a paid intervention th
 
 ## Political Legacy
 
-The battle demonstrated that the peninsula's specialists could defeat an empire only by combining capacities. It led directly to the defensive compact of 908 and Vorthara's accession in 909.
+The battle taught the peninsula that Caldrian walls, Vortharan scripts and Eclessian levies could stop an empire together and not apart. It led directly to the defensive compact of 908 and Vorthara's accession in 909.
 
 ## Navigation
 
@@ -41,5 +41,4 @@ The battle demonstrated that the peninsula's specialists could defeat an empire 
 - [[01 Canon Reference/History/60 Fall and Successor Empires/The Invasion and the Fall.md|The Invasion and the Fall]]
 - [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/70 History and Conflicts/The Battle of Caelmount.md|The Battle of Caelmount]]
 - [[The Seven-Seal Defensive Muster]]
-- [[Covenant Siege Golems]]
 - [[The Covenant from Idris to Suhrab (905-1190 AR)]]

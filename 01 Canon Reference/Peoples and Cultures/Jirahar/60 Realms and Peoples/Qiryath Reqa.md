@@ -24,7 +24,7 @@ Qiryathi identity once included residents, neighbourhoods and sanctuary househol
 - Arqeshite siege cuts, destruction fill, and deportation records;
 - Second Tower courts, expanded sanctuary, cisterns, schools, and dwellings;
 - charter-period works: the governor's pilgrimage tribunal outside the sanctuary gate, and the Qoreth archive where the sanctuary copy of the charter was kept;
-- 70 AR siege works, sanctuary burn layers, collapsed galleries, and garrison works;
+- 65 AR siege works, sanctuary burn layers, collapsed galleries, and garrison works;
 - diminished settlement under direct Atherian administration after the annulment of the old charter;
 - survey and clearance works authorised by Astrion in 349–350 AR and abandoned after a wall collapse;
 - Vestian clearance (c. 396 AR), sealed entrances, and later pilgrim paths.
@@ -35,19 +35,19 @@ The city was always larger below ground than above. Most deep halls are collapse
 
 The altar's sign of acceptance could be touched: an accepted offering burned without smoke and left the stones cool under the hands of the custodial houses. It was first withheld in the first winter of the Arqeshite siege, and it returned about 654 BR at the rebuilt altar, under an offering carried by mixed households of returners and settlers.
 
-Sacrifice continued from the Second Tower's consecration until 70 AR. From the late Serrat years the sanctuary stood under an Atherian charter that kept every image out of its courts and required a daily offering on the emperor's behalf; the tower houses remembered its making as the Governor's Question. After Isfir's resurrection, ritual fire and procedure continued but the authenticated sign of divine acceptance never returned.
+Sacrifice continued from the Second Tower's consecration until 65 AR. From the late Serrat years the sanctuary stood under an Atherian charter that kept every image out of its courts and required a daily offering on the emperor's behalf; the tower houses remembered its making as the Governor's Question. After Isfir's resurrection, ritual fire and procedure continued but the authenticated sign of divine acceptance never returned.
 
 ## The burial slope
 
-Isfir was executed beside the river road and buried outside Second Qiryath. The destruction of 70 AR cut off access to the slope and dispersed households that knew the approach. Redeemer pilgrims come to the ruined city in memory of the Resurrection. The original chamber has no authenticated location in 1360 AR. Pilgrims use paths maintained by the Jirahar custodians under the Empty Charter. [[The Rise of the Redeemer]]
+Isfir was executed beside the river road and buried outside Second Qiryath. The destruction of 65 AR cut off access to the slope and dispersed households that knew the approach. Redeemer pilgrims come to the ruined city in memory of the Resurrection. The original chamber has no authenticated location in 1360 AR. Pilgrims use paths maintained by the Jirahar custodians under the Empty Charter. [[The Rise of the Redeemer]]
 
 ## Custody
 
-Jirahar custodians maintain paths, stabilize masonry, receive pilgrims, bury discovered remains, and prevent removal. Eclessian officers guard the outer boundary and repeatedly dispute what counts as preservation rather than rebuilding.
+Jirahar custodians maintain paths, stabilise masonry, receive pilgrims, bury discovered remains, and prevent removal. Eclessian officers guard the outer boundary and repeatedly dispute what counts as preservation rather than rebuilding.
 
 ## Silent Gate
 
-The gate chamber lies beneath the Second Tower ruin. It has not opened since 70 AR. The Keepers prohibit experimental activation. A true response would be treated as possible Mesakha evidence and an international emergency. The charter names no one to recognise the Mesakha. The Church claims the power to say which signs are real, inherited from the augur colleges in 381; the Keepers hold the Mesakha tests. A sign recognised by either would be claimed to lift the ban on rebuilding.
+The gate chamber lies beneath the Second Tower ruin. It has not opened since 65 AR. The Keepers prohibit experimental activation. A true response would be treated as possible Mesakha evidence and an international emergency. The charter names no one to recognise the Mesakha. The Church claims the power to say which signs are real, inherited from the augur colleges in 383; the Keepers hold the Mesakha tests. A sign recognised by either would be claimed to lift the ban on rebuilding.
 
 ## Present Conflict
 

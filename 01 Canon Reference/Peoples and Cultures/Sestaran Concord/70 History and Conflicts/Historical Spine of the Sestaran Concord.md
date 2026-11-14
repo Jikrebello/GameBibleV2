@@ -69,7 +69,7 @@ The Medori lend to Veridun, the Sanctum, the reformed duchies, Castara and the A
 
 ## Navigation
 
-- [[Chronology of the Known World (AR Dating)]]
+- [[The Ages of the World]]
 - [[The Seven-Seal Defensive Muster]]
 - [[The Making of the Sestaran Cities]]
 
@@ -79,12 +79,10 @@ Sestaran harbour populations are Braided peoples. Coastal refuge, occupation, co
 
 Atherian influence left institutions and techniques. The defensive compact of 908–909 joined distinct powers under the pressure of invasion. Later banking, craft and maritime expansion strengthened the cities without giving them uniform government.
 
-The Medori rise began in the plague years, when the Golden Book lost its houses and the dead left estates to settle, and the merchant-humanist flowering came two generations later. Castara's routes widened contact, profit and danger. Financial sophistication could support hospitals, armies and slavery at once.
+The Medori rise began in the plague years, when the Golden Book lost its houses and the dead left estates to settle, and the merchant-humanist flowering came two generations later. The same counting-houses endowed plague hospitals, paid mercenary lances and insured slave cargoes, often in one ledger.
 
 ## Stories and neighbouring histories
 
 - [[G-58 - The Harbour Founded Twice|The Harbour Founded Twice]]
 - [[G-68 - The Three Knocks under the Mountain|The Three Knocks under the Mountain]]
 - [[G-49 - The Two Tags on One Dead Man|The Two Tags on One Dead Man]]
-- [[World Historical Atlas MOC]]
-- [[Peoples in the World Historical Atlas]]

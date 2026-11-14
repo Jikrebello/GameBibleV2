@@ -63,9 +63,7 @@ The next ruler, Olymes, swore the oath and succeeded in 408 BR. He cultivated ea
 
 The court used Delkosi coin standards, military titles and royal ceremony alongside Esharati harbour customs and Qahuri funerary forms. These practices changed through five generations in the Gateway country. They gave the dynasty several languages of rule and exposed it to conflicting demands from soldiers, spared-town households and foreign allies.
 
-The dynasty supported town cults and ceremonies that had survived the capital's destruction. Royal festivals commemorated rescued children and the communities that had sheltered them. Families also mourned people killed or enslaved during the Atherian sack.
-
-The rulers sought standing within maritime religious traditions as well as the customs of the gateway towns. Court display used inherited royal imagery and stories of protection.
+The dynasty supported town cults and ceremonies that had survived the capital's destruction. Royal festivals commemorated rescued children and the communities that had sheltered them, while families in the same towns mourned relatives killed or enslaved by the Atherians during the sack.
 
 Hadrima's position remained important to later accounts of the house. Royal speakers cited her ancestry when claiming the loyalty of Esharat and other surviving towns. Those towns could answer that their contribution preceded the crown and imposed responsibilities on its heirs, and they had the oath to prove it.
 

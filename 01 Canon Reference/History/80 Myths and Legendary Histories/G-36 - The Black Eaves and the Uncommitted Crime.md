@@ -53,7 +53,6 @@ Black roof tiles scratched with future crimes circulate illegally. Families some
 - [[Historical Atlas of Thalmyria]]
 - [[Historical Atlas of Eclessia]]
 - [[Saints and Sinners of the Chronicles]]
-
 - [[The Great Split — Two Crowns, One Fire]]
-- [[Myths and Legendary Histories MOC]]
-- [[World Historical Atlas MOC]]
+- [[Legendary Histories]]
+- [[The Ages of the World]]

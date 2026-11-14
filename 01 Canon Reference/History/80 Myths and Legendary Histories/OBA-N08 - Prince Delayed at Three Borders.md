@@ -26,15 +26,15 @@ The Greater Guardian contested each obstruction under a separate limit. Before t
 
 ## What people remember
 
-national archangel, delayed saint, three ordinary bureaucratic failures, one Patron lawsuit exaggerated into war, proof that the prisoners were abandoned by Heaven or proof that their people can do no wrong.
+National archangel, delayed saint, three ordinary bureaucratic failures, one Patron lawsuit exaggerated into war, proof that the prisoners were abandoned by Heaven or proof that their people can do no wrong.
 
 ## What remains
 
-diaspora courts require copies of a captive roll to travel by three unrelated carriers and forbid one ruler from holding every authenticated version.
+Diaspora courts require copies of a captive roll to travel by three unrelated carriers and forbid one ruler from holding every authenticated version.
 
 ## What remains unknown
 
-people, jurisdictions, prisoner count, Guardian’s title, hostile actors’ later fates, why this people received this particular commission and whether any later apparition is authentic.
+People, jurisdictions, prisoner count, Guardian’s title, hostile actors’ later fates, why this people received this particular commission and whether any later apparition is authentic.
 
 - [[Heavenly Campaigns and the Human Dead]]
 - [[World Historical Atlas MOC]]

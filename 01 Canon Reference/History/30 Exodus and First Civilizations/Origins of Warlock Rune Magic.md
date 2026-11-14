@@ -43,11 +43,11 @@ The scripts draw elemental force from the [[Elemental Shell and the Four Planes]
 
 ## City-State Formalization
 
-During the [[Age of City-States]], urban powers begin standardizing these scripts:
+During the [[Age of City-States]], urban powers begin standardising these scripts:
 
 - Atherian cities attach them to roads, aqueducts, siege engines, and military engineers.
-- Sestaran cities monetize them through guilds, foundries, shipyards, insurance, and mercenary contracts.
-- frontier forts adapt them for cold, palisades, bridge repair, and Grobi defense.
+- Sestaran cities monetise them through guilds, foundries, shipyards, insurance, and mercenary contracts.
+- frontier forts adapt them for cold, palisades, bridge repair, and Grobi defence.
 - later Vortharan schools turn them into fast battlefield spellcraft.
 
 ## Failure Modes
@@ -66,7 +66,7 @@ Early rune magic is dangerous because formula can outrun wisdom:
 
 ## Future Consequence
 
-By the time warlocks become recognizable as battlefield specialists, the world has already depended on elemental scripts for centuries. War magic is the militarized child of survival engineering.
+By the time warlocks become recognisable as battlefield specialists, the world has already depended on elemental scripts for centuries. War magic is the militarised child of survival engineering.
 
 ## Navigation
 

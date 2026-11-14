@@ -52,7 +52,7 @@ Fleets escorted transport, pursued raiders and supported coastal campaigns. Ship
 
 Victories produced captives, land and public honours. Defeat produced disabled veterans, missing relatives and debts owed for equipment or ransom. Military cemeteries beside frontier roads contain people from many provinces.
 
-Veteran settlement carried skills and savings into towns. It also displaced cultivators and gave armed newcomers authority over neighbours.
+Veterans brought savings, trades and a soldier's Atherian into the towns where they settled. They also took farms from the families already working them, and those families learned to be careful with armed neighbours.
 
 ## Further reading
 

@@ -48,9 +48,7 @@ The levee relief still bears four depths of carving. During the boat song, one v
 
 ## Read onward
 
-- [[Lesser Crowns of the Giant Age]]
 - [[The Hunger Wars]]
-
 - [[Age of Chains]]
-- [[Myths and Legendary Histories MOC]]
-- [[World Historical Atlas MOC]]
+- [[Legendary Histories]]
+- [[The Ages of the World]]

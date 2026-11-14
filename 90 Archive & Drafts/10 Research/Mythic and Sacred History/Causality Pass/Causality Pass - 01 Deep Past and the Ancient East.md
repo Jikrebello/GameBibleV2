@@ -211,7 +211,7 @@ One line survives in all four: **no one is owned.** In-world scholars cite it as
 **What it changes downstream.**
 - Jirahar leadership stays judicial. "The Path can be kept without sovereignty" has a cause: the sign returned to a city with no king. Yaelith's admission rules hold.
 - Vashar, refused, takes up a counterfeit: the Witness of Dawn begins under Daryav.
-- In 66 AR the militants expect the sign "when foreign rule ends", misreading a withholding that ended *under* foreign rule.
+- In 61 AR the militants expect the sign "when foreign rule ends", misreading a withholding that ended *under* foreign rule.
 - In 1360 the Jirahar have outlived one silence, so the mystics' "first sign of the Mesakha will be restored acceptance" rests on precedent. Usage keeps "the Withholding" for 743–654 and "the Silence" for 0 AR, which avoids a collision with 04's proposed "Second Silence".
 
 **Analog bent or replaced.** The Babylonian exile: Psalm 137, Cyrus and Ezra. Here the altar, not the decree, settles the return, and the sign answers the households Ezra's counterpart wanted expelled.

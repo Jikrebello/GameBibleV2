@@ -3,13 +3,13 @@ type: event
 status: canon
 canon_level: core
 visibility: public
-era: []
-region: []
-culture: []
+era: ["962–1104 AR"]
+region: ["Thalmyria", "Eclessia"]
+culture: ["Thalmyric", "Eclessian"]
 related_factions: []
 appears_in: []
 needs: []
-tags: []
+tags: [world-historical-atlas]
 ---
 # The Great Split — Two Crowns, One Fire
 
@@ -107,7 +107,7 @@ On the watershed road, at **Pelin's Bridge**, a wayhouse kept a night lamp its h
 
 The court did not take the burning as a judgement on the man who forced it. It took it as proof that lamps were too dangerous for private hands. Leovar IV, who had grown up under the empress who restored the lamps, began the **Second Breaking**, which Thalmyrics more often call the **Impounding**. Every lamp in the empire except the Great Lamp and the Ember was to be gathered into sealed crown lamp-houses. Monks who refused were flogged and some were killed, and households went back to the wells and ovens. Covenant jurists noted that Thalmyria was now impounding its own fire as Idris had impounded the Ember in 905.
 
-The wayhouse lamp found its way back to Pelin's Bridge in the confusion of the 1040s and kindled a second time around 1048, under Eclessian custody, while its keepers sheltered the wounded of both of Ludovar's grandsons' armies. Each church now claims one of its two answers, and each holds part of the lamp and says the other has the piece needed for a complete test. Border households keep small copies as a reminder to look after the people in the room before arguing about the flame.
+The wayhouse lamp found its way back to Pelin's Bridge in the confusion of the 1040s and kindled a second time around 1048, under Eclessian custody, while its keepers sheltered the wounded of both of Ludovar's sons' armies. Each church now claims one of its two answers, and each holds part of the lamp and says the other has the piece needed for a complete test. Border households keep small copies as a reminder to look after the people in the room before arguing about the flame.
 
 Leovar IV died in the winter of 1049, of a fall on the ice of the cathedral steps. His daughter **Theodosia** succeeded him. In 1052 the last southern amirate surrendered to her armies and the heartland's roads were joined again. Theodosia opened the lamp-houses. At dusk on the appointed night every lamp in the empire was put out, and every lamp was relit from one flame carried on foot from the Eternal Ember at Caleran, hand to hand along the newly joined roads. The empress walked the first mile herself. The office of Master of Lamps, which had sealed the lamp-houses, was remade to run the relay, and still does. The **Feast of the Rekindling** remains Thalmyria's greatest liturgical day. A Covenant jurist's remark that every lamp in Thalmyria "now burns on our receipt", since the Ember was the fire the Covenant had kept and Veridun had paid for, is still quoted on both sides of the frontier.
 
@@ -115,17 +115,17 @@ Leovar IV died in the winter of 1049, of a fall on the ice of the cathedral step
 
 Prince **Radomir I** of Strazgorod, lord of the Vesari river princedoms on the Orzva plains, sent sworn envoys to test four faiths. They refused the Covenant: "Their law is a marvel and a cage; they would hold our souls' names in a vault." They refused the Path of the Jirahar: "A god who wanders owns no land, and we are a people of land." In Veridun's Ember-Cathedral the lamp they had carried from Strazgorod took the Flame unbidden, before witnesses of both churches, among them a Sanctum examiner travelling with the embassy, who recorded it **answering**. The envoys' report is the one every Virelian child learns: *"We went to see their fire, and it came to see us."*
 
-Radomir asked for his lamp. Makarios the Adamant, the same patriarch who had answered Hubald's nails forty-six years before and now past eighty, refused: the Fire had chosen where to dwell, and no hand could move what the Fire had chosen. The Sanctum offered Radomir what Veridun had not: an Adalmarid marriage to Lotharic's daughter and heiress, and western swords against the Grass-Tarkhan riders. Radomir chose the Sanctum, and his son ruled the Vesari princedoms and Lotharic's eastern kingdom together as **Virelia**.
+Radomir asked for his lamp. Makarios the Adamant, the same patriarch who had answered Hubald's nails forty-six years before and now past eighty, refused: the Fire had chosen where to dwell, and no hand could move what the Fire had chosen. The Sanctum offered Radomir what Veridun had not: an Adalmarid marriage to Lotharic's daughter and heiress, and Eclessian swords against the Grass-Tarkhan riders. Radomir chose the Sanctum, and his son ruled the Vesari princedoms and Lotharic's eastern kingdom together as **Virelia**.
 
 The **Virelian Lamp** still burns in Veridun's cathedral. Veridun tends it as an honoured hostage, proof in its telling of whom the east truly chose. Virelia's hierarchy went to the Sanctum and its village piety stayed Veridun's: icon-corners in Vesari farmhouses, standing vigils the parish priests pretend are local custom, and a suspicion in the villages that the envoys were right and the prince was clever. The lamp's kindling turned the Lamp Controversy into the public **Kindling Question**. The Sanctum's own register held a kindling it could not deny in a vessel Veridun would not release. Veridun held a sign that proved the east had been drawn to it, and a refusal that had lost the east.
 
 ## The crown goes into the vault, 1068–1104
 
-Radomir's son, Radomir II, won his throne in a war with his own kin. The houses that lost it were old Vesari maternal households that painted their ancestors' faces above their door lintels and kept the district grain, and they demanded restitution through the duties of Strazgorod's ancient protector image, which had guarded a city gate, recognised those houses and opened a famine store in bad years. Among them a rival image grew, called the Elder Face. Between 1068 and the end of the century Radomir II's officers burned the faces above the lintels, executed keepers and witnesses, took children from the named houses and renamed them, and forbade one kin-name, which is still not spoken. The protector image came back with a harder, military face, and the famine store it had once opened never opened again. Virelian chroniclers call the purge resistance to pagan sedition; Vesari songs make every victim an ancestral saint; and in that country nobody paints a face above a lintel. [[The Hunger Wars]]
+Radomir's son, Radomir II, won his throne in a war with his own kin. The houses that lost it were old Vesari maternal households that painted their ancestors' faces above their door lintels and kept the district grain, and they demanded restitution through the duties of Strazgorod's ancient protector image, which had guarded a city gate, recognised those houses and opened a famine store in bad years. Among them a rival image grew, called the Elder Face. Between 1068 and 1102 Radomir II's officers burned the faces above the lintels, executed keepers and witnesses, took children from the named houses and renamed them, and forbade one kin-name, which is still not spoken. The protector image came back with a harder, military face, and the famine store it had once opened never opened again. Virelian chroniclers call the purge resistance to pagan sedition; Vesari songs make every victim an ancestral saint; and in that country nobody paints a face above a lintel. [[The Hunger Wars]]
 
 Then came the **Two Winters**, 1101 to 1103: two winters with no summer between, under ash-grey skies, with no eruption in any record and the Thalmyric volcanoes conspicuously quiet. Famine followed. Flagellants walked the roads, and three heresies rose and failed. The Grey Brethren walked to the watershed to ring the border bells by hand and answer them. The Debtors of the Lake, Markish penitents, went south to drown themselves in Wolfsmere for Adalmar's debt, and were turned back at the shore by the Lakekeepers, who told them the lake did not want more. The Unkindlers put out every lamp in their villages to starve the false fire and wait for the true one.
 
-The famine decided who ruled. In Virelia the districts the purge had emptied could not feed themselves; Radomir II's sons died of the famine-fever, and in 1103 the Council of Sabres revived the old Vesari moot-right and elected a king. Veridun offered to send the Virelian Lamp home if the "eastern candidate" won. He lost by three sabres, and the offer has been made at every Virelian election since.
+The famine decided who ruled. In Virelia the districts the purge had emptied could not feed themselves; Radomir II's sons died of the famine-fever, and in 1103 the Council of Sabres revived the old Vesari moot-right and elected a king. Veridun offered to send the Virelian Lamp home if the "eastern candidate", the choice of the old Vesari river country, won. He lost by three sabres, and the offer has been made at every Virelian election since.
 
 In Aurelia, **Ermbold**, king of Aldwin's line and the last Adalring emperor, was asked to carry the Crown of Embers in a penitential procession through the ash. He refused: "It is a hat, not a relic." In 1102 the other kings met at Drossfeld in the ash-snow and deposed him as idle. They could agree on no successor, and the crown went to the Sanctum while they argued. In 1103 came the finest harvest in a century, which farmers named **the Apology**, a name whose theology no church endorses and every farmer uses. In 1104 the kings left the Crown of Embers in trust at the Sanctum Divinitatis "until the realm is worthy of one head". The Primarchy's partisans dated the Apology from the day the crown went into the vault.
 
@@ -154,10 +154,6 @@ By 1104 the two crowns had become one crown in Thalmyria and one crown in a box.
 **Previous:** [[The Fall and the Long Reconquest]] · **Atlas:** [[The Ages of the World]] · **Next:** [[High Noon and the Qarath Disaster]]
 
 - [[Legendary Histories]]
-- [[Chronology of the Known World (AR Dating)]]
-- [[Named Figures of the Known World]]
-- [[Real-History Concordance]]
-- [[White Flame Doctrine]]
 - [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/20 Faith and Worldview/Theological Schism with Eclessia.md|Theological Schism with Eclessia]]
 
 ## Historical articles in this age
@@ -170,7 +166,5 @@ By 1104 the two crowns had become one crown in Thalmyria and one crown in a box.
 
 - [[G-15 - The Last Common Road|The Last Common Road]]
 - [[G-36 - The Black Eaves and the Uncommitted Crime|The Black Eaves and the Uncommitted Crime]]
-
-Smaller local histories and restored reserve leads: [[Additional Mortal Lives and Frontier Traditions]].
 
 Lives of the age's saints and sinners as the chronicles tell them: [[Saints and Sinners of the Chronicles]].

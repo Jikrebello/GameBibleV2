@@ -17,7 +17,7 @@ The Unending Muster was a late Qianglong military-continuity project built where
 
 ## Original Purpose
 
-The complex received bodies, armor, campaign records, drill patterns, oath rolls, command seals, and residue from Qianglong armies. Its engines sorted those materials into reusable formations. A dead unit could be reconstructed as posture, equipment habit, route memory, and obedience even though its human souls had already left.
+The complex received bodies, armour, campaign records, drill patterns, oath rolls, command seals, and residue from Qianglong armies. Its engines sorted those materials into reusable formations. A dead unit could be reconstructed as posture, equipment habit, route memory, and obedience even though its human souls had already left.
 
 The project did not resurrect soldiers. It made armies out of what service had impressed upon bodies and objects. Qianglong called this continuity. In practice it converted people into replaceable military material and treated discharge, burial, surrender, and death as administrative errors.
 
@@ -33,11 +33,11 @@ As Qianglong's dynastic wars consumed the frontier, the Muster began retaining c
 
 The repeated refusal to release service opened an Abyssal contradiction beneath the architecture. That wound is [[The General Below]]. It is not the soul of a general, a collective of trapped soldiers, or a Qianglong god. It is eternal conscription given sovereign appetite: the claim that service can never be fulfilled and that death creates no release.
 
-The complex and the dragon are distinct. The Muster can recur without fully materializing the General. The General uses the Muster as hierarchy, body supply, and a path into the Material Realm.
+The complex and the dragon are distinct. The Muster can recur without fully materialising the General. The General uses the Muster as hierarchy, body supply, and a path into the Material Realm.
 
 ## First Closure
 
-The ancient complex was disabled from within during Qianglong's collapse. Coerced auxiliaries and labor crews broke the regional relay links while defecting lower keepers falsified the final campaign order and buried the deepest command galleries. The sovereign builders' names were deliberately removed from the surviving archive so that no later officer could claim continuity through them.
+The ancient complex was disabled from within during Qianglong's collapse. Coerced auxiliaries and labour crews broke the regional relay links while defecting lower keepers falsified the final campaign order and buried the deepest command galleries. The sovereign builders' names were deliberately removed from the surviving archive so that no later officer could claim continuity through them.
 
 The closure depended on three broad conditions:
 
@@ -51,7 +51,7 @@ These conditions explain why isolated residue and engines can wake without immed
 
 In 1360 AR, thaw, damaged frontier works, and an abundance of war dead allow outer commands to repeat beneath Grenzburg. The first recurrence is independent of the Grobi siege, Emerald Drake, Medori Bank, Heart-Stone, Pale-Skins, and Sir Gerhold Brandt.
 
-Gerhold later chooses to accept the vacant command and use the residue army as Grenzburg's permanent garrison. His act supplies the living command relationship the ancient closure denied and accelerates the General Below's materialization.
+Gerhold later chooses to accept the vacant command and use the residue army as Grenzburg's permanent garrison. His act supplies the living command relationship the ancient closure denied and accelerates the General Below's materialisation.
 
 The modern recurrence first becomes undeniable in [[The Open Thaw]] at Cold-Iron Deeps. Four additional regional anchors connect Watch Hill, the Old River Arsenal, Tuskway Redoubt, and the Fen Ossuary to the outer complex. [[Muster Anchor Matrix]] controls their function and present destruction states.
 

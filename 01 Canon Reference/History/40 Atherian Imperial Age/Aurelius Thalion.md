@@ -48,7 +48,7 @@ Thalion secured the gateway revenues and returned through the eastern and highla
 
 The senate retained civic and ceremonial work while losing effective control of the army. Around 350 Thalion stood bareheaded on the muster ground below the river stores, where Casvilar had been cut down, with no named challenger left alive to contest the Red Field, and the augurs declared the field closed into his command. From that day Astaroth's priesthood took precedence in imperial ceremonies of victory and command. The Common Sky remained part of public religion, including offices occupied by men who had once shared Thalion's power.
 
-Trade and cultivation benefited as competing military levies diminished. The settlement also protected fortunes acquired through confiscation and left expelled families dependent on decisions made by the victors.
+Farmers in the Aurin valleys stopped feeding two armies a year, and the roads filled with carts again. The men who had grown rich on confiscated estates kept them, and the families driven off those estates waited on the victors' pleasure.
 
 ## Later reign and death
 

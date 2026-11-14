@@ -24,9 +24,7 @@ Sarqen, the enlarged Second Harbour, was the royal seat. Food came from cultivat
 
 Those people had their own oath, older than the crown. After Qarzeth fell in 520 BR, the survivors of the sack had eaten together at Sarqen's landing, each bringing what food they had, with no one served by rank and no seat kept empty. The rules of that meal became the **Table Oath** of the spared towns: *no child for the table; no seat kept empty; no guest served by worth.* Every Nerethan ruler since Arenes in 457 had eaten at the towns' unranked table and sworn it before the towns would recognise a king. Samyra swore it at seventeen on her father's death in 375, and again when the towns restored her.
 
-Samyra used the Atherian court speech of her dynasty, the languages of the Gateway towns and a Qahuri ritual register learned through her maternal household. At Sarqen she appeared in harbour and spared-town regalia; before Qahuri embassies she used the forms of her mother's river kin; in Atherian diplomacy she presented the military inheritance of Delkos. These practices allowed her to speak directly to groups whom earlier rulers had addressed through interpreters.
-
-Samyra learned to receive petitioners and envoys in several of the languages used in the country. She could address a town's concerns without depending entirely on a court interpreter. Festivals, household visits and the distribution of assistance helped sustain those relationships.
+Samyra used the Atherian court speech of her dynasty, the languages of the Gateway towns and the Qahuri ritual forms the house had kept since Hadrima's day. At Sarqen she appeared in harbour and spared-town regalia; before Qahuri embassies she used the forms of Hadrima's river kin; in Atherian diplomacy she presented the military inheritance of Delkos. She heard petitioners and envoys in their own languages, where earlier rulers had listened through interpreters, and kept the towns close with festivals, household visits and grain in bad years.
 
 ## Exclusion and return
 

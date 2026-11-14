@@ -3,7 +3,7 @@ type: history
 status: canon
 canon_level: local
 visibility: public
-era: ["c. 2385 BR–1349 AR"]
+era: ["c. 2400 BR–1349 AR"]
 region: ["Known World"]
 culture: ["Sarrakai, Atherian, frontier, successor-imperial and Ättar communities"]
 related_factions: []
@@ -38,7 +38,7 @@ Both crowns came out of the war weakened. Refugees and burial fraternities carri
 
 ## The Red King without a Face (the Closing Courts)
 
-In the blood empire of [[The Blood Empire of Xolotl|Xolotl]], in the last age of the Giant courts, command was sacrifice. Captives were cut, burned and bled at the tally stones, and deserters' whole families were killed. Around that machinery rose a faceless power the survivors called the Red King, which seized several failing tally networks for itself. Xolotlan exile songs say it tried to wear the crown of Wrath itself and was thrown down. Later cults remembered it as merciful, because the enemies it hated were different from theirs.
+In the blood empire of Xolotl, in the last age of the Giant courts, command was sacrifice. Captives were cut, burned and bled at the tally stones, and deserters' whole families were killed. Around that machinery rose a faceless power the survivors called the Red King, which seized several failing tally networks for itself. Xolotlan exile songs say it tried to wear the crown of Wrath itself and was thrown down. Later cults remembered it as merciful, because the enemies it hated were different from theirs.
 
 ## The Champion of Four Doors (c. 1010–940 BR)
 
@@ -52,7 +52,9 @@ Atherian philosophers described the four faces as aspects of one civic guardian.
 
 ## The Emperor after the Emperor (Age of Glory)
 
-The Atherian imperial cult standardised the ruler's face: the same profile on coins, the same gestures in every portrait, the same praise formulae in every province. During the empty succession of 247 BR, while four claimants fought elsewhere, a ceremonial portrait answered questions in the voice everyone expected of "the Emperor." Priests and courtiers exploited such answers for centuries, and sceptics exposed hollow statues and hidden speakers in several cities. Some provincial households learned never to speak a dead ruler's name before his image. Emperors who accepted every ceremonial expectation became, their critics said, more like the portrait and less like a man. See [[The Atherian Empire – Age of Glory]].
+The Atherian imperial cult standardised the ruler's face: the same profile on coins, the same gestures in every portrait, the same praise formulae in every province. In 247 BR, the Year of Four Eagles, the accession portrait in the audience hall at Caleran began to answer questions in the voice everyone expected of "the Emperor", and the magistrate Avaren Mott governed through it. When bread doubled and doubled again, Mott asked it where the grain was. It answered as an emperor must: no granary of the Emperor was empty, and those who said otherwise were hiding it. Soldiers carried it on a litter into the poor districts, broke doors in its sight and killed a father who would not kneel when it crossed his threshold. Samor Veloran ended it by throwing a soldier's cloak over the panel and refusing to answer the voice beneath the cloth.
+
+The Face stayed veiled after that, uncovered only at accessions, but its copies in governors' courts and on army standards multiplied. A century and more later Velen I unveiled it at his spectacles, and his festival banks drowned workers and spectators. Sceptics exposed hollow statues and hidden speakers in several cities; provincial households said the portrait had grown hungry on the dead emperor's denunciations and went on eating after he died, and learned never to speak a dead ruler's name before his image. Emperors who accepted every ceremonial expectation became, their critics said, more like the portrait and less like a man. See [[The Year of Four Eagles]] and [[The Atherian Empire – Age of Glory]].
 
 ## The Borrowed Martyr (c. 272–338 AR)
 
@@ -92,7 +94,7 @@ In an isolated river granary during the empire's last frontier decades, a stewar
 
 One household burned its own store and crossed to a rival town carrying a sick child instead of seed. The receiving town's authorities, terrified, burned the neighbouring farms, and people who had never touched the grain died in the fires. The family's account, which survives, accuses both the distributors and the burners. Frontier relief law afterwards forbade any town to accept grain from a store it had not inspected, and physicians still argue whether the illness was a mould, a poison or something worse.
 
-## The Borrowed Temple (c. 901–909 AR)
+## The Borrowed Temple (c. 905–907 AR)
 
 As the empire broke around 905, a provincial commander reopened the sealed chambers of an old star sanctuary that had served for centuries as a prison and cistern refuge. Something there offered him an army: dragon-shaped war-beasts built from bodies and the material of Giant ruins, and a promise that his province would become Atheria's true successor. It came to him in several faces—a bereaved empress, an armoured liberator, a beautiful counsellor, a mother of victory, a black eel-dragon wearing conquered crowns—and survivors later called it the Exile Behind the Borrowed Temple, because it claimed the sanctuary had been stolen from it.
 
@@ -143,4 +145,3 @@ The Hunger Wars left habits more than monuments. Boat households read the names 
 - [[The Age of Held Proofs]]
 - [[Saints and Sinners of the Chronicles]]
 - [[Legendary Histories]]
-- [[Myths and Legendary Histories MOC]]

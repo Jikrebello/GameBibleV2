@@ -51,7 +51,6 @@ Work songs and hymns pause for five beats. Some communities fill the rest with n
 - [[Historical Atlas of Atheria]]
 - [[Historical Spine of the Jirahar]]
 - [[Saints and Sinners of the Chronicles]]
-
 - [[The Conversion of the Empire]]
-- [[Myths and Legendary Histories MOC]]
-- [[World Historical Atlas MOC]]
+- [[Legendary Histories]]
+- [[The Ages of the World]]

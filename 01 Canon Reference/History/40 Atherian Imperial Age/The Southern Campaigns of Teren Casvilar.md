@@ -32,7 +32,7 @@ Over several seasons, Casvilar established fortified positions, crossed river ap
 
 In 385 BR, he undertook a short voyage from the western coastal supply network towards a colder shore beyond his secure commands. Pilots and shipwrights from the Celion-facing ports made the venture possible. He obtained hostages and gifts from one shore community, but weather damaged vessels and the ships could not supply a lasting occupation. He returned with a claim to distant submission considerably larger than the authority he had left behind.
 
-Later accounts sometimes confused the expedition's vessels with the much earlier Atherian dry fleet taken in Tidewood. The stories gave familiar shores a part in the famous commander's career, although the voyages belonged to separate centuries and households.
+Coast tellers later gave his ships a part in the much older story of the Atherian dry fleet taken in Tidewood, so that a famous commander would have walked on their own shore.
 
 ## Drenoc's coalition
 
@@ -50,7 +50,7 @@ The relief coalition reached the district but could not coordinate its attacks a
 
 Within Kellovar, Drenoc expelled people judged unable to fight as provisions diminished. Casvilar refused them passage through his lines. People died between the two forces from hunger and exposure. Velcara used her relationships with neighbouring households to arrange the escape of some children before the last routes closed, then remained with relatives still inside.
 
-Drenoc surrendered after the relief failed. Casvilar distributed captives and allowed selected leaders to retain authority on new terms. Drenoc was taken north and executed during the public celebration of the victory. Velcara survived captivity through ransom arranged by her mother's kin. She returned to a smaller household and helped rebuild food stores, retaining the memory of who had contributed to her release and who had refused.
+Drenoc surrendered after the relief failed. Casvilar distributed captives and allowed selected leaders to retain authority on new terms. Drenoc himself he gave to Morveth, the coalition's old rival, as part of the river chief's reward; Drenoc died in Morveth's hall before the thaw, and Atherian reports did not record how. Velcara survived captivity through ransom arranged by her mother's kin. She returned to a smaller household and helped rebuild food stores, retaining the memory of who had contributed to her release and who had refused.
 
 ## The surrendered fighters of Darneth
 
@@ -64,7 +64,7 @@ Casvilar ordered the hands of captured fighters cut off. The punishment was inte
 
 By 379 BR, Casvilar had acquired secure posts and a wider network of allied obligations. His troops carried wealth and captives north. Some officers remained to supervise contributions; others returned expecting rewards or new commands. Communities that had supported him sought confirmation of land and local authority before his political position changed.
 
-Control remained uneven. Forest routes, winter conditions and the ability of households to move limited what garrisons could collect. Morveth's position depended partly on outside support, while the people around Kellovar rebuilt without a common leader able to replace Drenoc. Atherian citizenship and military service gradually connected some families to the conquerors. Other households preserved the stories of sold kin and the wounded people who had come home.
+Control remained uneven. Forest routes, winter conditions and the ability of households to move limited what garrisons could collect. Morveth's position depended on Atherian garrisons, because no hall that remembered Drenoc's death in his keeping would deal with him, while the people around Kellovar rebuilt without a common leader able to replace Drenoc. Atherian citizenship and military service gradually connected some families to the conquerors. Other households preserved the stories of sold kin and the wounded people who had come home.
 
 For Casvilar, the campaigns made surrendering command dangerous. Officers, creditors, veterans and allied leaders depended on decisions that his opponents could reverse. The contest over those commitments formed part of [[The Last Generations of the Caleran Republic|the final republican crisis]].
 

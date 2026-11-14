@@ -3,7 +3,7 @@ type: person
 status: canon
 canon_level: local
 visibility: author-only
-era: ["c. 330–382 AR"]
+era: ["c. 330–389 AR"]
 region: ["inland provincial Atherian cities"]
 culture: []
 related_factions: []

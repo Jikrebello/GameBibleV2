@@ -19,25 +19,26 @@ The Founding Flame is the ninety-year settlement after Caleran's recovery during
 
 ## The Return Registers
 
-Imperial clerks compared Atherian archives, occupation contracts, monastery charters, military grants, and testimony. No system could restore every displaced family. Cities received the largest share of returnees because they offered walls, courts, water, and work without requiring one ancestral claim to defeat another.
+Imperial clerks in each retaken town compared Atherian archives, occupation contracts, monastery charters, military grants and the testimony of anyone who could walk in to give it. No register could restore every displaced family. Cities received the largest share of returnees because they offered walls, courts, water, and work without requiring one ancestral claim to defeat another.
 
 ## Four Generations of Settlement
 
 The return advanced through fortified roads, irrigation districts, negotiated towns, sieges, amnesties, and military colonies. Occupation-descended communities might retain land, accept imperial service, move under compensation, or face unlawful expulsion depending on local power.
 
-The enemy on the far side of each wall was an amir, not an empire. When Durayd ibn Sahl surrendered Caleran in 957 he released only the city; every other occupied district re-swore its garrison to its own amir, and Iqashar, fighting Tarkhan riders on its northern wells, sent none of them an army. Each amirate had its own price. One river citadel held out for eleven years on horse-meat and rainwater; another amir sold his town for safe passage north and a chest of his own deeds; several opened their gates to the first commander who would sign a protection for the garrison families. The return registers grew out of these bargains, one district at a time.
+The enemy on the far side of each wall was an amir, not an empire. When Durayd ibn Sahl surrendered Caleran in 957 he released only the city; every other occupied district re-swore its garrison to its own amir, and Iqashar, fighting Tarkhan riders on its northern wells, sent none of them an army. Each amirate had its own price. One river citadel held out for eleven years on camel-meat and rainwater; another amir sold his town for safe passage north and a chest of his own deeds; several opened their gates to the first commander who would sign a protection for the garrison families. The return registers grew out of these bargains, one district at a time.
 
 ## The Breakings
 
-Lamp-breaking emperors turned imperial force against the vessels and icons that had sustained refuge life. The First and Second Breakings therefore became civil wars over what kind of civilization had returned.
+Lamp-breaking emperors turned their soldiers on the vessels that had sustained the refuge: war-lamps smashed in camp, icon-lamps melted down, flame-monks driven out of the valleys where they had buried the dead of the return. The First and Second Breakings became civil wars over what kind of civilisation had returned.
 
 The Covenant could exploit neither Breaking. During the first, its army stood idle at Iqashar from 1006 to 1011 while a lending house held the pledged true name of the Custodian of the Vault of Names. During the second, Tamim the Auditor's treasury declared in 1033 that the southern amirates would be claimed and no longer defended, and the last relief army sent south dispersed at the wrong well in 1041.
 
-Empress Theodosia ended the Second Breaking in 1052. Her Rekindling joined the restored road network, the protected household lamp, and the recovered core provinces in one public act. The last amirate surrendered to her armies that year. Occupation-born families who rejected return law went north with their deeds and house keys and became the Covenant's Southern Houses.
+Empress Theodosia ended the Second Breaking in 1052. At her Rekindling every lamp in the empire was relit from one flame carried on foot from the Ember at Caleran, down the restored roads and into the recovered provinces. The last amirate surrendered to her armies that year. Occupation-born families who rejected return law went north with their deeds and the bronze water-tokens of their fields and became the Covenant's Southern Houses.
 
 ## The Incomplete Empire
 
 The settlement did not recover the Velian States or Zanthir. It created a strong heartland, a permanent frontier, and the claim that every unrecovered province remained imperial land. Zanthir's emir had starved the last amirates of his grain and fleet in 1044 and bought his autonomy with tribute paid to Veridun and Iqashar in alternate seasons.
+
 ## Navigation
 
 - [[The Reclamation of Caleran]]

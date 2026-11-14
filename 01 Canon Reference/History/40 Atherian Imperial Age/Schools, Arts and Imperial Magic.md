@@ -52,7 +52,7 @@ Warlock rune magic grew from older practical scripts into regulated colleges. Tr
 
 Military colleges restricted destructive applications and served imperial commands. Civil specialists adapted approved methods to mines, harbours and waterworks. A written sign did nothing by prestige alone; material, placement and a trained operator determined whether it functioned.
 
-The best-known civil specialists were the wardens, who tested every public work after Thalion's heir was crushed under an untested hall in 326 BR. A warden's training combined rune craft, load reckoning and the rite of the Red Star. On a test day the wardens loaded a bridge or hall beyond its expected burden with sand, stone or laden wagons while a priest of the Red Star named the load. Engineers described what followed in the same words for three centuries: the stone ticked like a cooling oven, then a hairline crack ran to the weakest point and stopped there. Each work carried a portion built to be broken, the Star's share, so that the test had something real to break. The wardens repaired what the crack had shown and wrote the load, the season and the crack into their registers. After the Arcelon embankment failed in the rains, they named the season of every test, and a court could call for a warden's register as evidence when a work fell. Their records also hold the most careful account of the Sleepwalkers' Summer of about 200 BR, when the people of three provinces walked in their sleep in the same direction.
+The best-known civil specialists were the wardens, who tested every public work after Thalion's heir was crushed under an untested hall in 326 BR. A warden's training combined rune craft, load reckoning and the rite of the Red Star. On a test day the wardens loaded a bridge or hall beyond its expected burden with sand, stone or laden wagons while a priest of the Red Star named the load. Engineers described what followed in the same words for three centuries: the stone ticked like a cooling oven, then a hairline crack ran to the weakest point and stopped there. Each work carried a portion built to be broken, the Star's share, so that the test had something real to break. The wardens repaired what the crack had shown and wrote down the load, the season and the line of the crack. After the Arcelon embankment failed in the rains, they named the season of every test. Their records also hold the most careful account of the Sleepwalkers' Summer of about 200 BR, when the people of three provinces walked in their sleep in the same direction.
 
 Accidents killed workers and led to the sealing of several laboratories. Colleges recorded failures because repeating one could destroy a building or open an uncontrolled correspondence. Their surviving sites are dangerous where later looters removed safeguards without understanding the system.
 
@@ -65,6 +65,5 @@ The Age of Glory remains visible in celebrated texts and monuments. Its knowledg
 ## Further reading
 
 - [[Food, Trade and Enslavement in Imperial Atheria]]
-- [[Origins of Warlock Rune Magic]]
-- [[Star Religion and the Imperial Cult]]
+- [[Overview of the Astratheon Religion]]
 - [[Historical Atlas of the Atherian Age of Glory]]

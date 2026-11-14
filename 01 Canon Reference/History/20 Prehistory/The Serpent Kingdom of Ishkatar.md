@@ -3,7 +3,7 @@ type: event
 status: canon
 canon_level: local
 visibility: author-only
-era: []
+era: ["c. 3400–2260 BR"]
 region: []
 culture: []
 related_factions: []
@@ -13,7 +13,7 @@ tags: []
 ---
 ### Overview
 
-The Serpent Kingdom of Ishkatar was a river civilization of flood calendars, monumental tomb-estates, divine kingship, and concentrated wealth. Along the fertile **Serpent's Spine**, its Naga Giants built an imperial religion around ownership, hierarchy, and descent from **Avarix, the Idol of Greed**. The oldest Naga houses possessed genuine Titanic ancestry, including lines descending from Titan-Firstborn conceived through bounded Idol manifestations associated with Avarix. Court genealogy turned that remote and intermingled ancestry into the stronger claim that every reigning Pharaoh-Serpent was Avarix's direct, undiluted child. Later Idol patronage and bodily alteration further shaped the dynasties without making that claim universally true. Ishkatar's decline was swift and brutal, leaving its cities beneath the desert.
+The Serpent Kingdom of Ishkatar was a river civilisation of flood calendars, monumental tomb-estates, divine kingship, and concentrated wealth. Along the fertile **Serpent's Spine**, its Naga Giants built an imperial religion around ownership, hierarchy, and descent from **Avarix, the Idol of Greed**. The oldest Naga houses possessed genuine Titanic ancestry, including lines descending from Titan-Firstborn conceived through bounded Idol manifestations associated with Avarix. Court genealogy turned that remote and intermingled ancestry into the stronger claim that every reigning Pharaoh-Serpent was Avarix's direct, undiluted child. Later Idol patronage and bodily alteration further shaped the dynasties without making that claim universally true. Ishkatar's decline was swift and brutal, leaving its cities beneath the desert.
 
 ### Geography
 
@@ -21,17 +21,17 @@ The Serpent Kingdom of Ishkatar was situated along the banks of the **Serpent’
 
 ### Ruling Giants: The Naga Giants
 
-The ruling class of Ishkatar, the **Naga Giants**, were massive serpentine beings with humanoid upper bodies and colossal coiling lower bodies. Their scales carried metallic and jewel-like coloration shaped by inherited Titanic traits, generations of Giant blood craft, and Avarix patronage. Their subjects were required to revere each Pharaoh-Serpent and royal house as Avarix's immediate offspring. That formula exaggerated a real but remote ancestry into an endlessly renewed proof of rule. The Naga Giants ruled through force, temple estates, and absolute demands upon their human subjects.
+The ruling class of Ishkatar, the **Naga Giants**, were massive serpentine beings with humanoid upper bodies and colossal coiling lower bodies. Their scales carried metallic and jewel-like colouration shaped by inherited Titanic traits, generations of Giant blood craft, and Avarix patronage. Their subjects were required to revere each Pharaoh-Serpent and royal house as Avarix's immediate offspring. That formula exaggerated a real but remote ancestry into an endlessly renewed proof of rule. The Naga Giants ruled through force, temple estates, and absolute demands upon their human subjects.
 
 Ishkatar's continuity project attempted to make title and property outlive the ruler. Estates, offices, guardians, records, and ownership claims were built to reconstruct authority after bodily death. The system could preserve records, residue, and imposed office; it did not preserve the dead Giant person without a separately established uninterrupted survival, and it could neither create a human soul nor grant the Image.
 
-The Naga Giants were also the spiritual leaders of Ishkatar, acting as intermediaries between the mortal world and the divine. Each Naga Giant governed a specific aspect of life, such as fertility, death, war, or commerce, and their temples were the centers of both religious and political power. The most powerful of the Naga Giants held the title of **Pharaoh-Serpent**, ruling over all others and presiding from the **Golden Pyramid of Nagtara**, the largest and most opulent structure in the kingdom.
+The Naga Giants were also the spiritual leaders of Ishkatar, acting as intermediaries between the mortal world and the divine. Each Naga Giant governed a specific aspect of life, such as fertility, death, war, or commerce, and their temples were the centres of both religious and political power. The most powerful of the Naga Giants held the title of **Pharaoh-Serpent**, ruling over all others and presiding from the **Golden Pyramid of Nagtara**, the largest and most opulent structure in the kingdom.
 
 ### Culture and Religion
 
-Ishkatar was a deeply religious society, with its culture centered around the worship of the Naga Giants as living deities. The people of Ishkatar believed that the Naga Giants were the chosen ones of Avarix, tasked with ruling over the mortal world and accumulating the wealth of the earth in his name. The kingdom's religious practices were elaborate and often brutal, with human sacrifices playing a central role. The blood of slaves and captured enemies was believed to appease the Naga Giants and ensure the prosperity of the kingdom.
+Ishkatar was a deeply religious society, with its culture centred around the worship of the Naga Giants as living deities. The people of Ishkatar believed that the Naga Giants were the chosen ones of Avarix, tasked with ruling over the mortal world and accumulating the wealth of the earth in his name. The kingdom's religious practices were elaborate and often brutal, with human sacrifices playing a central role. The blood of slaves and captured enemies was believed to appease the Naga Giants and ensure the prosperity of the kingdom.
 
-The most significant religious events were tied to the cycles of the Serpent’s Spine. The **Festival of the Flood** was the most important celebration, marking the annual inundation of the river that brought life to the kingdom. During this festival, massive sacrifices were made, and the riverbanks were lined with offerings of gold, jewels, and food, all meant to secure the favor of the Naga Giants and Avarix.
+The most significant religious events were tied to the cycles of the Serpent’s Spine. The **Festival of the Flood** was the most important celebration, marking the annual inundation of the river that brought life to the kingdom. During this festival, massive sacrifices were made, and the riverbanks were lined with offerings of gold, jewels, and food, all meant to secure the favour of the Naga Giants and Avarix.
 
 Architecture and art were also deeply intertwined with religion. The pyramids of Ishkatar were not just tombs but massive religious complexes where the Naga Giants were worshipped. The interiors of these pyramids were adorned with intricate carvings, depicting the Naga Giants' divine deeds, their victories in battle, and their endless pursuit of wealth. The walls of these structures were often inlaid with gold and precious stones, making them both places of worship and symbols of the kingdom's immense wealth.
 
@@ -64,11 +64,11 @@ No one was left to keep the river. In a high flood year the Spine rose against d
 
 The ruins of the Serpent Kingdom of Ishkatar lie buried beneath the shifting sands of the desert, their secrets hidden from the world. The pyramids, now crumbling and half-buried, stand as silent sentinels to a bygone era of opulence and cruelty. The treasures of the Naga Giants, said to hold immense power, are believed to still lie within the labyrinthine vaults beneath the ruins, waiting to be discovered by those brave—or foolish—enough to seek them out.
 
-The legend of Ishkatar has become a cautionary tale of the dangers of greed and the pursuit of power at any cost. The Naga Giants, once revered as gods, are now remembered as tyrants whose insatiable lust for wealth led to their downfall. The kingdom’s fall serves as a stark reminder of the fragile nature of civilization and the destructive power of unchecked ambition.
+The legend of Ishkatar has become a cautionary tale of the dangers of greed and the pursuit of power at any cost. The Naga Giants, once revered as gods, are now remembered as tyrants whose insatiable lust for wealth led to their downfall. The kingdom’s fall serves as a stark reminder of the fragile nature of civilisation and the destructive power of unchecked ambition.
 
 The estates did not all forget their owners. Ishkatari metal kept its title marks, and some marks remained joined to dormant recovery works: [[Gilded Wardens]], processional coils and estate dead. When later ruin traders opened deeper estate-vaults (c. 1450–1325 BR), linked Wardens woke and walked the old ceremonial roads recovering marked metal from caravans and palace stores. That episode, the Reclaiming, helped break the Bronze Roads and is why later traders preferred iron that no dead owner claimed. See [[Causality Pass - 01 Deep Past and the Ancient East|Causality Pass 01.7]].
 
-The legacy of Ishkatar also lives on in the myths and legends of the world, with tales of the Naga Giants and their treasures inspiring adventurers and treasure hunters. The lost civilization is often depicted in art and literature as a place of immense beauty and horror, a kingdom where the line between the divine and the monstrous was blurred, and where the price of power was ultimately too high to bear.
+The legacy of Ishkatar also lives on in the myths and legends of the world, with tales of the Naga Giants and their treasures inspiring adventurers and treasure hunters. The lost civilisation is often depicted in art and literature as a place of immense beauty and horror, a kingdom where the line between the divine and the monstrous was blurred, and where the price of power was ultimately too high to bear.
 
 ## Navigation
 

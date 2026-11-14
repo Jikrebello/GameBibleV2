@@ -38,7 +38,7 @@ Well songs keep one more scene. A century after the clerk's death, a frontier co
 
 ## Why it is remembered
 
-It traces how genuine rescue becomes oppression without requiring greed or secret possession. The forward pull lies in wondering whether the man who once broke rules to feed children can recognise the moment his own rule must end.
+It traces how genuine rescue becomes oppression without requiring greed or secret possession. Listeners are left wondering whether the man who once broke rules to feed children can recognise the moment his own rule must end.
 
 ## How tellers differ
 
@@ -50,10 +50,8 @@ At the first new moon after an emergency, officials must snap a counting candle 
 
 ## Read onward
 
-- [[Towns and Wars of the Long Frontier]]
+- [[The Long Frontier and the First Unsealing]]
 - [[Historical Atlas of the Velians]]
 - [[Saints and Sinners of the Chronicles]]
-
-- [[The Long Frontier and the First Unsealing]]
-- [[Myths and Legendary Histories MOC]]
-- [[World Historical Atlas MOC]]
+- [[Legendary Histories]]
+- [[The Ages of the World]]

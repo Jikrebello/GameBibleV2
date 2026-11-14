@@ -50,10 +50,8 @@ Sealed letters hang in open cages along several abandoned routes. Wind may touch
 
 ## Read onward
 
-- [[Towns and Wars of the Long Frontier]]
+- [[The Long Frontier and the First Unsealing]]
 - [[Historical Atlas of the Velians]]
 - [[Saints and Sinners of the Chronicles]]
-
-- [[The Long Frontier and the First Unsealing]]
-- [[Myths and Legendary Histories MOC]]
-- [[World Historical Atlas MOC]]
+- [[Legendary Histories]]
+- [[The Ages of the World]]

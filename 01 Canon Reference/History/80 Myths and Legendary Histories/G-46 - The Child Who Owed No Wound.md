@@ -3,7 +3,7 @@ type: legend
 status: canon
 canon_level: local
 visibility: public
-era: ["612–884 AR; Long Frontier"]
+era: ["612–884 AR; Long Frontier; the door, 907 AR"]
 region: ["Atherian–Covenant frontier districts"]
 culture: ["mixed provincial, Ahdari, Velian and Jirahar communities"]
 related_factions: []
@@ -18,7 +18,7 @@ aliases: ["The Child Who Owed No Wound"]
 
 ## Historical setting
 
-**612–884 AR; Long Frontier.** Atherian–Covenant frontier districts. This tradition belongs to [[The Long Frontier and the First Unsealing]]; its cultural bearers are mixed provincial, Ahdari, Velian and Jirahar communities.
+**612–884 AR; Long Frontier, with the door of 907.** Atherian–Covenant frontier districts. This tradition belongs to [[The Long Frontier and the First Unsealing]]; its cultural bearers are mixed provincial, Ahdari, Velian and Jirahar communities.
 
 It is told among Long-Frontier dynastic escape communities and households that receive children leaving violent families.
 
@@ -32,9 +32,9 @@ She refused both him and the enemies who wanted her as proof the dynasty should 
 
 The returning cousin repented after his own son died in the purge he had authorised, or only after he lost power. Some households forgave him; others never did. The girl took another name and left no throne, order or sacred bloodline.
 
-The escape-house chapel adds an ending from the year the old capital fell, long after both cousins were dead. A claimant came to the house under the dynasty's ancient blood clause and demanded every surviving child of the line. The house's keepers said a figure stood in the doorway that night with five scars across its shoulders burning white like folded wings. The chapel says it was the cousin, who as a boy had been cut five times for refusing the same rite the girl later fled, and who had killed for the household and then given it up. While the keepers burned the old compact in the kitchen fire, the figure said one sentence to the claimant, "No wound inherits the child," and the claimant left with no one.
+The escape-house chapel adds an ending from 907, when Caleran had fallen and the frontier was emptying, long after both cousins were dead. A claimant came to the house under the dynasty's ancient blood clause and demanded every surviving child of the line. The house's keepers said a figure stood in the doorway that night with five scars across its shoulders burning white like folded wings. The chapel says it was the cousin, who as a boy had been cut five times for refusing the same rite the girl later fled, and who had killed for the household and then given it up. While the keepers burned the old compact in the kitchen fire, the figure said one sentence to the claimant, "No wound inherits the child," and the claimant left with no one.
 
-She later sent the cloak back without a message. The escape house gave it to another child rather than preserving it as her relic. That transfer changed the object from proof of one famous refusal into practical shelter for repeated, unequal departures. Its hem keeps acquiring repairs.
+Years after her flight, the girl had sent the cloak back without a message. The escape house gave it to another child rather than preserving it as her relic. That transfer changed the object from proof of one famous refusal into practical shelter for repeated, unequal departures. Its hem keeps acquiring repairs.
 
 ## Why it is remembered
 
@@ -50,10 +50,8 @@ A scar-covering cloak is offered to any child leaving a violent house. It is ret
 
 ## Read onward
 
-- [[Towns and Wars of the Long Frontier]]
+- [[The Long Frontier and the First Unsealing]]
 - [[Historical Atlas of the Velians]]
 - [[Saints and Sinners of the Chronicles]]
-
-- [[The Long Frontier and the First Unsealing]]
-- [[Myths and Legendary Histories MOC]]
-- [[World Historical Atlas MOC]]
+- [[Legendary Histories]]
+- [[The Ages of the World]]

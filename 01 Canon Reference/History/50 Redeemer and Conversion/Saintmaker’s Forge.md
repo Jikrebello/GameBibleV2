@@ -58,7 +58,7 @@ There he began crafting:
 - **Reliquary frames** for ashes, teeth, and bits of cloth smuggled from execution sites.
 - **Censer-charms**—tiny incense burners shaped like Redeemer hands, used to anoint the condemned.
 
-The **icons were not decorative**. They were devotional instruments used in silent liturgies and final blessings before martyrdom. Some were hidden in tombs; others buried in fields where saints had died. After legalization in 292 the forge went on working in the open, and congregations recovering their graveyards under Cassian's restitution brought him the ashes of their dead to frame.
+The **icons were working objects**, used in silent liturgies and final blessings before martyrdom. Some were hidden in tombs; others buried in fields where saints had died. After legalisation in 292 the forge went on working in the open, and congregations recovering their graveyards under Cassian's restitution brought him the ashes of their dead to frame.
 
 ---
 
@@ -70,7 +70,7 @@ Multiple early sources attest to the icons emitting a **soft, reddish-orange glo
 - During prayer, particularly before dawn
 - At the moment of someone’s execution within a certain distance
 
-Under the persecutions no one could write such a thing down plainly, and the earliest reports survive as hymns. After 381, when the bishops took over the augur colleges' power to say which signs existed in law, the Marvesh congregation asked the bishops' readers to enter the glow as a sign. The readers declined. Their record gives the reason plainly: an executioner's iron, forged from manacles and the tools of torture, was exactly the kind of object in which a Mask would hide, and a light that answered devotion proved nothing about who sent it.
+Under the persecutions no one could write such a thing down plainly, and the earliest reports survive as hymns. After 383, when the bishops took over the augur colleges' power to say which signs existed in law, the Marvesh congregation asked the bishops' readers to enter the glow as a sign. The readers declined. Their record gives the reason plainly: an executioner's iron, forged from manacles and the tools of torture, was exactly the kind of object in which a Mask would hide, and a light that answered devotion proved nothing about who sent it.
 
 **Thalmyric mystics** hold the glow to be a minor miracle—proof that the icons were **infused with flamebound grace**, or that the metal remembered the Redeemer’s death. Eclessian examiners have never moved from the readers' refusal.
 
@@ -80,13 +80,13 @@ Modern pilgrims still seek out surviving **Saintmaker Icons**, said to number on
 
 ### **Symbolism in Art and Doctrine**
 
-- The Saintmaker is **never named**, emphasizing the theme of **anonymity through redemption**.
+- The Saintmaker is **never named**, emphasising the theme of **anonymity through redemption**.
 - In Eclessian murals, he is depicted as **hooded, hammer raised**, forging light from ash.
 - In Thalmyric stained glass, he is sometimes shown **surrounded by broken chains**, while fire curls from his anvil.
 
 Thalmyric smiths call his story the **foundation of Redeemer iconography**, and cite it for the principle that:
 
-> _"That which was used to harm the faithful can be remade to honor them."_
+> _"That which was used to harm the faithful can be remade to honour them."_
 
 ---
 
@@ -120,7 +120,5 @@ The **Thalmyric Orders** reject this, holding to the legend of the **single peni
 
 ## Navigation
 
-- [[Timeline MOC]]
-- [[Canon Index]]
 - [[The Church after Qiryath - From Exile to Legalization]]
 - [[The Conversion of the Empire]]

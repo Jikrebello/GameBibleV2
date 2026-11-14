@@ -54,7 +54,7 @@ Governors now required imperial appointment and could be removed before their pe
 
 Thalion placed Astaroth's priesthood prominently in ceremonies of victory and imperial command. Seluc Varroth retained the senior Common Sky office, which prevented the new order from appearing to abolish every republican dignity. Festivals presented the ruler as the guardian of a public harmony older than his own victory.
 
-The emperor accepted titles and images linking him to celestial order. These political and religious honours magnified a living human ruler.
+Coins and statues set a star above the emperor's head, and festival speeches made an ageing, often sick man the guardian of the heavens' order.
 
 ## Death and succession
 

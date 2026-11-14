@@ -16,7 +16,7 @@ tags: [world-historical-atlas, atherian-formation]
 
 The islands of later Arkena and the harbours of later Saronika formed an eastern maritime centre of Atherian civilisation. Their ports, workshops, schools and civic households developed alongside Caleran and the Aurin towns. These societies contributed ships, learning and wealth to the later republic while preserving strong local identities.
 
-Arkena and Saronika are used here as familiar geographic names. Their ancient cities had separate governments, and neither the modern military province nor the later maritime kingdom existed during this period. The five principal names associated with Arkena—Verion, Pyrassa, Irenai, Delkos and Kyrame—refer to settlements whose institutions acquired different forms over the centuries.
+Arkena and Saronika are the later names for this coast; in this period each of its cities governed itself. The five principal names associated with Arkena—Verion, Pyrassa, Irenai, Delkos and Kyrame—refer to settlements whose institutions acquired different forms over the centuries.
 
 ## Islands, fields and water
 
@@ -68,7 +68,7 @@ Voyagers made offerings to powers associated with weather, routes and the coast.
 
 The raid remembered in [[01 Canon Reference/History/80 Myths and Legendary Histories/G-74 - The Raid That Returned One Tool.md|The Raid That Returned One Tool]] belongs to the Arkenan–Saronikan corridor around 1120–980 BR. A sea-king attacked a populated court stronghold for a sounding-weight that revealed one safe reef approach. Defenders died, and most raiders drowned, were captured or were transformed. The returned tool helped a hungry harbour. That use did not restore the dead or free the people left behind.
 
-The city's name and the king's identity remain uncertain. [[01 Canon Reference/History/30 Exodus and First Civilizations/The Refusal at Kelarion.md|Kelarion's refusal]] belongs to a separate coastal history.
+The city's name and the king's identity remain uncertain. The drowned harbour of Kelarion, farther along the eastern coast, left a darker sea-memory: see [[Age of City-States#The harbour that kept its chain up|the harbour that kept its chain up]].
 
 ## Relations with the Caleran republic
 
@@ -92,9 +92,9 @@ Through the later wars inner-sea ports supplied the fleets and repair facilities
 
 ## The Oar and the closed chains
 
-After Xarun's invasion the islands fought under the League of the Eastern Oar, whose fleet lay at Velathene on the facing coast. In 489 BR Irenai's observers publicly disputed the "Long Month" that Caleran's augurs had inserted into the calendar to carry a land vote past a magistrate's term; it was the first time a member's teachers called the keepers of the sky wrong in the open, and Mesthra's old rule of describing where and when an observation was made gave them their case. From 491 Caleran fixed the League's ship money, and League harbours raised their chains against hulls from cities behind on their payments. About 480 Pyrassan grain hulls running for Velathene in an autumn blow found the chain up and broke on the outer rocks in sight of the harbour.
+After Xarun's invasion the islands fought under the League of the Eastern Oar, whose fleet lay at Velathene on the facing coast. From 491 Caleran fixed the League's ship money, and League harbours raised their chains against hulls from cities behind on their payments. In 489 BR Irenai's observers publicly disputed the "Long Month" that Caleran's augurs had inserted into the calendar to carry a land vote past a magistrate's term; it was the first time a member's teachers called the keepers of the sky wrong in the open, and Mesthra's old rule of describing where and when an observation was made gave them their case. About 480 Pyrassan grain hulls running for Velathene in an autumn blow found the chain up and broke on the outer rocks in sight of the harbour.
 
-In the War of the Closed Chains, 468–461 BR, Verion's shipowners joined the rebels gathered at Velathene. Pyrassa, whose Elmarai pilots' families the League had held as surety, stayed loyal. In the gale of 466 it closed its chain on Caleran's order, and its own grain ships could not get in; its sailors swore that something rose under the breakwater, the thing the coast called the King beneath the Breakwater, until the harbour wardens cut the chain against their orders and the ships came home. The Chain Peace of 461 pulled down Velathene's walls, admitted some rebel cities to Caleran's citizenship on unequal terms and made shelter in a storm the duty of every harbour.
+In the War of the Closed Chains, 469–461 BR, Verion's shipowners joined the rebels gathered at Velathene. Pyrassa, whose Elmarai pilots' families the League had held as surety, stayed loyal. In the gale of 466 it closed its chain on Caleran's order, and its own grain ships could not get in; its sailors swore that something rose under the breakwater, the thing the coast called the King beneath the Breakwater, until the harbour wardens cut the chain against their orders and the ships came home. The Chain Peace of 461 pulled down Velathene's walls, admitted some rebel cities to Caleran's citizenship on unequal terms and made shelter in a storm the duty of every harbour.
 
 By the later republican centuries, the island world was closely involved in competition among commanders. A port's support might depend on an exemption from requisition or a promise to repair harbour works. Rival commanders could divide merchants from crews and one prominent family from another. Civic institutions survived within these disputes and became part of the world inherited by the empire.
 

@@ -27,7 +27,7 @@ Mujalib grew up in a well-country broken by the Ubar Toll War of 514–523, when
 
 Vashar ended in the same famine. With the Dawn Road's relay stations emptied, Covenant jurists declared the last King at Dawn forsworn in 555; road commanders and the horse-lords of Ruzhan sealed with the Covenant for bread, and resisting valleys were reduced by 560.
 
-In 558 AR, in the worst year of the drought, Mujalib's coalition violently seized the [[Nine Wells of Tergai]], ancestral Tarkhan ground and the northern frontier's oldest wound. Later Witnessed-Seal tradition recast the conquest as voluntary submission. Qahirid forts and pilgrimages still depend upon that false public memory.
+In 558 AR, in the worst year of the dry-country drought that outlasted the floods, Mujalib's coalition violently seized the [[Nine Wells of Tergai]], ancestral Tarkhan ground and the northern frontier's oldest wound. Later Witnessed-Seal tradition recast the conquest as voluntary submission. Qahirid forts and pilgrimages still depend upon that false public memory.
 
 ## First Unsealing and Schism, 568-612 AR
 
@@ -65,7 +65,6 @@ The Tarkhan herds were partitioned among four Hordes in 1304, and in the same ye
 
 ## Navigation
 
-- [[Chronology of the Known World (AR Dating)]]
 - [[The Making of the Covenant Peoples]]
 - [[Ancient Qahur and the Twin-Reed Crowns]]
 - [[Qahur and the Gateway before Atheria|Qahur and the Gateway, c. 2165–350 BR]]
@@ -88,5 +87,4 @@ The Qahirid resurgence and Fall of Caleran enlarged the empire. The widowing of 
 - [[G-12 - The Four Who Brought Water|The Four Who Brought Water]]
 - [[G-30 - The Clerk Who Would Not Stop|The Clerk Who Would Not Stop]]
 - [[G-31 - The Bitter Cup of the Reaper|The Bitter Cup of the Reaper]]
-- [[World Historical Atlas MOC]]
-- [[Peoples in the World Historical Atlas]]
+- [[The Ages of the World]]

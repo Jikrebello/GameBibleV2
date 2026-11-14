@@ -3,7 +3,7 @@ type: event
 status: canon
 canon_level: core
 visibility: public
-era: ["885-905 AR"]
+era: ["885-908 AR"]
 region: ["Atheria", "Caleran", "Thalmyria"]
 culture: ["Atherian", "Thalmyric"]
 related_factions: ["Atherian Empire", "Ahl-e-Ahd"]
@@ -18,11 +18,11 @@ The Fall was the destruction of unified Atherian government, completed when Idri
 
 ## The Last Court
 
-Emperor Corvenas III ruled from Caleran's Ash Hall, an imperial palace turned relic gallery after conversion. Later Thalmyric schoolbooks called him personally devout and strategically incapable. Historians who have read the Covenant's files describe a man in a trap: every remedy open to him, from riding to the marches to opening his relics to Aurelium's examination, needed a public test of his holiness, and he chose the rites that could fail behind closed doors. [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/70 History and Conflicts/Prelude to Collapse.md|Prelude to Collapse]] tells that story. Provincial reports were filtered through court factions that feared mobilisation would expose fiscal weakness.
+Emperor Corvenas III ruled from Caleran's Ash Hall, an imperial palace turned relic gallery after conversion. Later Thalmyric schoolbooks called him personally devout and strategically incapable. Historians who have read the Covenant's files describe a man in a trap: every remedy open to him, from riding to the marches to opening his relics to Aurelium's examination, needed a public test of his holiness, and he chose the rites that could fail behind closed doors. [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/70 History and Conflicts/Prelude to Collapse.md|Prelude to Collapse]] tells that story. Provincial reports reached him through court factions that feared an honest muster would show the empty depots.
 
 ## Qahir's machine
 
-Qahir ibn Ruzbeh rebuilt the Covenant war machine between roughly 885 and 902 AR around mass levies, permanent Shell extraction, siege-golem foundries, contract logistics and disciplined frontier intelligence. It rested on a ruling he had won in 885–886: the old clause binding the 4,444 to "take nothing that is not given" bound parties, not powers, so beasts from Hell, the forfeited names of the condemned and nameless constructs could all go to war. His capture companies worked the routes into mapped Hell. His foundries hammered name-cages and fed them from a docket of breach-court death sentences. Coerced Ahdanite levies became engineers and foundry crews, and supply contracts were sealed in the Vault of Names.
+Qahir ibn Ruzbeh rebuilt the Covenant war machine between roughly 885 and 902 AR around mass levies, permanent Shell extraction, siege-golem foundries, contract logistics and disciplined frontier intelligence. It rested on a ruling he had won in 885–886: the old clause binding the 4,444 to "take nothing that is not given" bound parties, not powers, so beasts from Hell, the forfeited names of the condemned and nameless constructs could all go to war. His capture companies worked the routes into mapped Hell. His foundries hammered name-cages and fed them from the breach-courts' death sentences. Coerced Ahdanite levies became engineers and foundry crews, and supply contracts were sealed in the Vault of Names.
 
 The engines most feared in 905 were the smallest. Lesser Surrender engines and their siege tables travelled with the breach-court train, read each district's title and offered each district its own terms. The first great Surrender Engine, a mercy tower, was finished at Iqashar only around 944. His successor Idris al-Fattah inherited five great engines: three Depth-Core frames driven by captured Hell fauna and two Slave-Soul frames holding executed human prisoners. Thalmyric soldiers called the Slave-Soul frames *martyr irons* and believed the first cages held Second Crusade prisoners whom Caleran had never ransomed, condemned under Qahir's ruling of 884. The Covenant's registers list them only as condemned.
 
@@ -54,7 +54,7 @@ The commander agreed. Prisoners were executed and their bodies built into the un
 
 ## The children of the old house
 
-In 907, as Caleran's fall emptied the frontier, a claimant from Hell came to an escape house to collect the surviving children of an old frontier client house, invoking a clause of blood and office in a compact the house had held for generations. Witnesses said the house's long-dead heir, the Saint of Five Remembered Wings, stood in the doorway with five scars burning white like folded wings, testified that neither blood nor mutilation passes a human soul to anyone, and guarded the children while the house destroyed the compact. The claim failed and the hereditary office died with it. Custody courts still keep the sentence *No wound inherits the child.* [[G-46 - The Child Who Owed No Wound|The Child Who Owed No Wound]]
+In 907, as Caleran's fall emptied the frontier, a claimant from Hell came to an escape house to collect the surviving children of an old frontier client house, invoking a clause of blood and office in a compact the house had held for generations. Witnesses said the house's old heir, the Heir with Five Remembered Wings, dead for eighty years, stood in the doorway with five scars burning white like folded wings, testified that neither blood nor mutilation passes a human soul to anyone, and guarded the children while the house destroyed the compact. The claim failed and the hereditary office died with it. Custody courts still keep the sentence *No wound inherits the child.* [[G-46 - The Child Who Owed No Wound|The Child Who Owed No Wound]]
 
 ## The Northern Advance Breaks, 906-908 AR
 
@@ -62,15 +62,14 @@ After Caleran, a Qahirid army attempted to force the Caldrian road into Eclessia
 
 ## Occupation
 
-Covenant government secured ports, aqueducts, roads, archives, and productive estates. Idris bound the army and the surrendered southern cities to himself by name, with his heir written in as successor-holder. The Atherian remount studs his clerks listed for seizure were driven north by their handlers, and the occupation remained an army of camels and foot. Repopulation combined garrison families, clients, contract-bound locals, imported labour and transplanted subjects. Bound survivors' names sat in local name vaults, whose custodians seldom made the release entry the law required at death. These communities made occupation durable and later return legally explosive.
+Covenant government secured ports, aqueducts, roads, archives, and productive estates. Idris bound the army and the surrendered southern cities to himself by name, with his heir written in as successor-holder. The Atherian remount studs his clerks listed for seizure were driven north by their handlers, and the occupation remained an army of camels and foot. Repopulation combined garrison families, clients, contract-bound locals, imported labour and transplanted subjects. Bound survivors' names sat in local name vaults, whose custodians seldom made the release entry the law required at death. These communities made the occupation last, and made every later return a quarrel over somebody's house.
 
 ## Navigation
 
 - [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/70 History and Conflicts/Prelude to Collapse.md|Prelude to Collapse]]
 - [[The Refuge and the Rise of Veridun]]
 - [[The Long Reconquest (908-1052 AR)]]
-- [[Chronology of the Known World (AR Dating)]]
+- [[The Fall and the Long Reconquest]]
 - [[The Battle of the Shattered Engines (907 AR)]]
-- [[Covenant Siege Golems]]
 - [[The Long Frontier and the First Unsealing]]
 - [[Eclessia During the Invasion]]

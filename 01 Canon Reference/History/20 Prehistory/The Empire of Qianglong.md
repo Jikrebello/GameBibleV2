@@ -3,7 +3,7 @@ type: event
 status: canon
 canon_level: local
 visibility: author-only
-era: []
+era: ["c. 3400–2260 BR"]
 region: []
 culture: []
 related_factions: []
@@ -15,7 +15,7 @@ tags: []
 
 ## Overview
 
-The Celestial Empire of Qianglong was structured around four Giant castes aligned with **Solrath (War), Nevaura (Famine), Morvalis (Death),** and **Veradia (Pestilence)**. Some early ruling houses may genuinely have descended from Titan-Firstborn conceived through bounded manifestations associated with the Horsemen. Later court genealogy compressed those possible remote births, marriage between houses, prolonged Menhir contact, office-law, selective breeding, and ritual imitation into the claim that all caste members remained the direct and exclusive children of their named Horseman. None of the four Menhir authorized caste rule or supplied a moral verdict on the empire. Qianglong converted possible ancestry and real natural correspondence into political mandate and called the result divine order.
+The Celestial Empire of Qianglong was structured around four Giant castes aligned with **Solrath (War), Nevaura (Famine), Morvalis (Death),** and **Veradia (Pestilence)**. Some early ruling houses may genuinely have descended from Titan-Firstborn conceived through bounded manifestations associated with the Horsemen. Later court genealogy compressed those possible remote births, marriage between houses, prolonged Menhir contact, office-law, selective breeding, and ritual imitation into the claim that all caste members remained the direct and exclusive children of their named Horseman. None of the four Menhir authorised caste rule or supplied a moral verdict on the empire. Qianglong converted possible ancestry and real natural correspondence into political mandate and called the result divine order.
 
 Qianglong's continuity project attempted necromantic caste recurrence. Sealed vaults preserved trained residue, office patterns, and prepared bodies so the ruling order could return without accepting mortality. The system copied and reinstated caste function; it did not create human souls.
 
@@ -25,22 +25,22 @@ One late frontier project joined War-Caste command to Death-Caste recurrence. [[
 
 **1. The War Caste: Solrath's Claimed Line**
 
-- **Role:** The War Caste was responsible for the empire's military might. These Giants were the generals, warriors, and strategists who led Qianglong’s armies in conquest and defense. They were known for their unmatched strength, discipline, and tactical brilliance.
-- **Appearance:** Towering, muscular Giants clad in blood-red armor that radiated heat. Their eyes burned with the intensity of the sun, and they carried weapons that seemed to pulse with destructive power.
+- **Role:** The War Caste was responsible for the empire's military might. These Giants were the generals, warriors, and strategists who led Qianglong’s armies in conquest and defence. They were known for their unmatched strength, discipline, and tactical brilliance.
+- **Appearance:** Towering, muscular Giants clad in blood-red armour that radiated heat. Their eyes burned with the intensity of the sun, and they carried weapons that seemed to pulse with destructive power.
 - **Domain:** The War Caste controlled the empire’s fortifications, military academies, and the lands surrounding the capital city, where the empire’s elite soldiers were trained.
-- **Dynastic Influence:** The War Caste often rose to power during periods of conflict, establishing dynasties that prioritized conquest and expansion. Their reigns were marked by the consolidation of power and the strengthening of the empire’s borders.
+- **Dynastic Influence:** The War Caste often rose to power during periods of conflict, establishing dynasties that prioritised conquest and expansion. Their reigns were marked by the consolidation of power and the strengthening of the empire’s borders.
 
 **2. The Famine Caste: Nevaura's Claimed Line**
 
 - **Role:** The Famine Caste governed the agricultural and economic aspects of the empire. These Giants oversaw the distribution of resources, ensuring that the empire could survive through harsh winters and times of scarcity.
 - **Appearance:** Gaunt, pale Giants with frost-covered skin. Their breath chilled the air, and their presence could cause crops to wither and rivers to freeze.
 - **Domain:** The Famine Caste controlled the empire’s farmlands, granaries, and trade routes. They were also responsible for managing the empire’s vast reserves of food and wealth.
-- **Dynastic Influence:** The Famine Caste rose to power during times of economic hardship or natural disasters, establishing dynasties that focused on stability, resource management, and survival. Their reigns were characterized by austerity and strict control over the empire’s resources.
+- **Dynastic Influence:** The Famine Caste rose to power during times of economic hardship or natural disasters, establishing dynasties that focused on stability, resource management, and survival. Their reigns were characterised by austerity and strict control over the empire’s resources.
 
 **3. The Death Caste: Morvalis's Claimed Line**
 
 - **Role:** The Death Caste managed burial, decomposition, residue, ancestry records, and necromantic recurrence. Its priests falsely extended Morvalis's bodily domain into authority over human souls; [[The Boatman]] alone governs passage along the soul-road.
-- **Appearance:** Skeletal Giants draped in rust-colored armor and tattered cloaks. Their eyes glowed with a ghostly light, and their presence brought an aura of decay and inevitability.
+- **Appearance:** Skeletal Giants draped in rust-coloured armour and tattered cloaks. Their eyes glowed with a ghostly light, and their presence brought an aura of decay and inevitability.
 - **Domain:** The Death Caste controlled the empire’s temples, cemeteries, and necropolises. They were also the keepers of Qianglong’s extensive funerary rites and necromantic practices.
 - **Dynastic Influence:** The Death Caste rose during burial crises, epidemics, or failures of succession. Its dynasties enforced mortuary continuity, ancestor records, and necromantic recurrence, often mistaking administrative persistence for cosmic order.
 
@@ -55,13 +55,13 @@ One late frontier project joined War-Caste command to Death-Caste recurrence. [[
 
 The history of the Celestial Empire of Qianglong was defined by a cyclical pattern of dynastic rise and fall, closely tied to the attributes of the ruling caste. When one caste grew too powerful or became corrupt, the other castes would unite to overthrow them, leading to a grand civil war. The victorious caste would then establish a new dynasty, reshaping the empire according to their values and strengths.
 
-- **War Dynasties:** Characterized by military expansion, conquest, and the strengthening of the empire’s defenses. These dynasties often left the empire with vast territories but also brought the strain of constant warfare.
+- **War Dynasties:** Characterised by military expansion, conquest, and the strengthening of the empire’s defences. These dynasties often left the empire with vast territories but also brought the strain of constant warfare.
 
 - **Famine Dynasties:** Focused on stability, resource management, and economic growth. These dynasties often led the empire through periods of recovery and rebuilding, but their strict control sometimes led to stagnation and internal unrest.
 
-- **Death Dynasties:** Emphasized mortuary administration, recurrence, ancestral precedent, and the preservation of office. They often brought stability while deepening necromantic dependence and resistance to change.
+- **Death Dynasties:** Emphasised mortuary administration, recurrence, ancestral precedent, and the preservation of office. They often brought stability while deepening necromantic dependence and resistance to change.
 
-- **Pestilence Dynasties:** Advanced medicine, agriculture, and controlled ecologies while normalizing plague, forced adaptation, and the political allocation of health.
+- **Pestilence Dynasties:** Advanced medicine, agriculture, and controlled ecologies while normalising plague, forced adaptation, and the political allocation of health.
 
 ## The Disappearance of the Giants and the Fall of Qianglong
 
@@ -74,11 +74,11 @@ Beneath that certainty the vaults were getting hungrier. Recurrence had been bui
 
 When the Unbinding broke the tally-gates and the conscript roads, the castes fought for what was left. The **War of the Four Horsemen** was a war over the last full granaries: War-Caste armies besieged Famine-Caste storehouses, Pestilence-Caste physicians poisoned rival stores, and Death-Caste administrators seized the grain barges for the vaults. Canal towns starved behind every army. Human granary porters, who knew which storehouses were full and which had been emptied on paper, sold the knowledge to every side and were killed by every side.
 
-At the end the ruling Giants went down into the vast underground vaults beneath the mountains. Later chronicles call it a retreat. It was an entry into recurrence: rulers who could not hold their courts in the body sealed themselves into the vaults beside their treasures, knowledge, recurrence bodies and Menhir-aligned relics, to return when conditions allowed. None returned in the body. With their rulers gone, the lesser Giants and enslaved humans were left inside a failing state apparatus built around coerced specialization and recurrent civil war.
+At the end the ruling Giants went down into the vast underground vaults beneath the mountains. Later chronicles call it a retreat. It was an entry into recurrence: rulers who could not hold their courts in the body sealed themselves into the vaults beside their treasures, knowledge, recurrence bodies and Menhir-aligned relics, to return when conditions allowed. None returned in the body. With their rulers gone, the lesser Giants and enslaved humans were left inside a failing state apparatus built around coerced specialisation and recurrent civil war.
 
 **Survivor legend.** Mountain songs say that when the war was lost the Four Horsemen called their children home, and the caste lords walked into the hills behind the red, frost-white, rust-brown and green riders. The tale makes the vault-doors a summons rather than a choice. Hill villages keep a quieter memory in the custom of leaving one empty bowl at harvest for the children the tally-gates took.
 
-Many great imperial centers of Qianglong were abandoned, while human towns, mixed principalities, mountain communities, and lesser courts entered unequal successor histories beyond the vaults. The best-known remnants are haunted places filled with old office-patterns, failed recurrence works, and dangers later memory calls the echoes of imperial grandeur.
+Many great imperial centres of Qianglong were abandoned, while human towns, mixed principalities, mountain communities, and lesser courts entered unequal successor histories beyond the vaults. The best-known remnants are haunted places filled with old office-patterns, failed recurrence works, and dangers later memory calls the echoes of imperial grandeur.
 
 Qianglong survives in myth as a warning about power mistaking natural correspondence for justice. War, scarcity, bodily death, and proliferating life were real domains. The empire's decision to make them titles of human and Giant rule was its own.
 

@@ -35,7 +35,7 @@ Abandoned prisoners die; the escape cell murders captives and innocent prisoners
 
 No surviving order. There are prison prayers, incompatible red-door processions, a militant cult dissolved after the riot and several organisations falsely claiming succession.
 
-a red-painted prison door kept unhinged in a courthouse, used in an annual reading of names but claimed by no lawful order.
+A red-painted prison door kept unhinged in a courthouse, used in an annual reading of names but claimed by no lawful order.
 
 ## What people remember
 

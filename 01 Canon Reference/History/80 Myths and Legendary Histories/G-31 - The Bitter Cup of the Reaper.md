@@ -50,10 +50,8 @@ The cordial remains medically useful. Communities drink it from ordinary cups on
 
 ## Read onward
 
-- [[Towns and Wars of the Long Frontier]]
+- [[The Long Frontier and the First Unsealing]]
 - [[Historical Atlas of the Velians]]
 - [[Saints and Sinners of the Chronicles]]
-
-- [[The Long Frontier and the First Unsealing]]
-- [[Myths and Legendary Histories MOC]]
-- [[World Historical Atlas MOC]]
+- [[Legendary Histories]]
+- [[The Ages of the World]]

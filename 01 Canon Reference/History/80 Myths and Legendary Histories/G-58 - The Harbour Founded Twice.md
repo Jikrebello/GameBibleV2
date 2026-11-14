@@ -30,7 +30,7 @@ A damaged proto-Atherian convoy received a seasonal quarter under toll and guest
 
 The convoy's parent league later sent a punitive fleet to restore tribute and direct control. Returned exiles, escaped captives, shore fighters and settler defectors joined local pilots in drawing the fleet through the drowned-hand reef. After defeating it, a mixed council released captives and reopened the water. This victory, rather than a charitable rescue after a second storm, established the harbour's independence.
 
-The thirteen boats, one headwoman, her captive sons and a daughter's merciful rescue belong to later conciliatory compression. They are not the controlling historical account, and no house has a credible claim to have led both the first landing and the liberation.
+The thirteen boats, the single headwoman, her captive sons and her daughter's merciful rescue in a second storm belong to a later, gentler telling made to reconcile the two calendars. No house has a credible claim to have led both the first landing and the liberation.
 
 ## The tale
 
@@ -58,12 +58,9 @@ Boats are launched on two feast days. The first uses a single southern-patterned
 
 ## Read onward
 
-- [[Peoples in the World Historical Atlas]]
-- [[River Leagues and Sea-Kings of the Early World]]
 - [[Southern Settlement and Maritime Atheria]]
 - [[01 Canon Reference/Peoples and Cultures/Sestaran Concord/10 Foundations/The Making of the Sestaran Cities.md|The Making of the Sestaran Cities]]
 - [[01 Canon Reference/Peoples and Cultures/Sestaran Concord/60 Realms and Peoples/Sermoran Republic/The Sermoran Republic Overview.md|The Sermoran Republic Overview]]
-
 - [[Age of Scattering]]
-- [[Myths and Legendary Histories MOC]]
-- [[World Historical Atlas MOC]]
+- [[Legendary Histories]]
+- [[The Ages of the World]]

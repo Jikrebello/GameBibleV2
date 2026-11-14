@@ -36,7 +36,7 @@ The captain never apologised for killing the steward. His sister nevertheless re
 
 ## Why it is remembered
 
-It gives occupation-era property complexity a beloved object and a murderous decision. Return, repair, collaboration and belonging all remain morally distinguishable without becoming separable by one document.
+It gives the quarrel over occupied houses a key, a height-marked wall and a killing in the snow. Return, repair, collaboration and belonging stay morally distinct, and no single document can sort them apart.
 
 ## How tellers differ
 
@@ -50,8 +50,6 @@ An old key is passed around the well before disputed houses change hands. Every 
 
 - [[Historical Atlas of Thalmyria]]
 - [[Historical Atlas of Eclessia]]
-- [[Patron Cities and the Long Rent Histories]]
-
 - [[The Fall and the Long Reconquest]]
-- [[Myths and Legendary Histories MOC]]
-- [[World Historical Atlas MOC]]
+- [[Legendary Histories]]
+- [[The Ages of the World]]

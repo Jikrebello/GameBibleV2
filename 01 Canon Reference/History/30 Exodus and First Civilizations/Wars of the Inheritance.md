@@ -70,7 +70,7 @@ Around 655 BR Serevan's grandson walled the corpse and Kassur's images into the 
 
 The wars ended the prospect of one eastern empire. Vashar became the strongest continuous successor and protected the rebuilding of Second Qiryath. Ortheia retained its monarchy but lost mastery of the Compact. Delkos created an enduring maritime inheritance. Qahur remained divided among native crowns strengthened or weakened by foreign marriages and garrisons. The embalmers of the Basin carried a reputation for speaking counterfeits into every court of the eastern sea.
 
-By the opening of the Gateway Wars around 650 BR, sailors, coin, siege knowledge, sealed promises and royal claims moved through an eastern sea permanently altered by Eryndor's conquest and its failure to remain whole.
+By about 650 BR, with Caleran already fighting the first of the Gateway Wars over the grain market at Tammur, sailors, coin, siege knowledge, sealed promises and royal claims moved through an eastern sea permanently altered by Eryndor's conquest and its failure to remain whole.
 
 ## Further reading
 

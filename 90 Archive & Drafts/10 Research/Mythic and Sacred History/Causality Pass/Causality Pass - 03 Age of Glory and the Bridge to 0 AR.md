@@ -25,7 +25,7 @@ This file answers the "Imperial founding and the Age of Glory" section of the [[
 | 03.1 The Year the Portrait Spoke | 247 BR: the accession portrait answers; Mott governs through it; Samor covers it | The Face is kept veiled and unveiled last; the Mask feeds through provincial copies |
 | 03.2 The Threshold Law | 326 BR: Caelor dies under a hall blessed but never tested | Priced tests with personal liability; the 274 strike; the Arcelon rule; Velen's drowned audience |
 | 03.3 Four pressures | Estates, citizenship, the Mask's appetite, the eastern frontier | Raveth bent away from Joseph; an oath for Elian's grant; Aquilan's citizenship; 151 explained |
-| 03.4 The Charter of Referral | Under the late Serrats: a Vasharan civil war, a vacancy, the sign, a refused trial | Qiryath passes to Atheria; its clauses return in 0 AR and 66 AR |
+| 03.4 The Charter of Referral | Under the late Serrats: a Vasharan civil war, a vacancy, the sign, a refused trial | Qiryath passes to Atheria; its clauses return in 0 AR and 61 AR |
 | 03.5 The bridge | 151 BR–0 AR as one narrative | The world Isfir is born into |
 | 03.6 One Egypt | Sarqen kept; Qahuri annexation withdrawn; Ostar and Velsar de-duplicated | Qahur reaches 0 AR unsettled |
 | 03.7 The Low Door | The companions supply Doran's march in 61 BR | Doran's officers enter by the low door, not by an oath before the image |
@@ -120,7 +120,7 @@ Samor Veloran's river army has never stood before it. He promises the guard its 
 
 - [x] Approved with changes — all four pressures kept and told through the land; Raveth's towns were tributaries under the Avesh command's canal duty before they joined; a fever summer is added to 151 as contingency.
 
-**Decision (14 November 2026).** Raveth joins by negotiation c. 160 BR. The hunger is dated "from 119": two failed harvests, a fair third shipped out, blight, and relief wound down by 113, with no seven-year shape. The fever summer of 151 kills Orent II, thins the river camps and spares Elian's eastern army; crowds bring their sick to the doors of the audience hall and the Celebrants refuse to lift the cloth. The veiled oath survives to 0 AR; its end belongs to 04 (Tervan's edict of 249 AR is recommended).
+**Decision (14 November 2026).** Raveth joins by negotiation c. 160 BR. The hunger is dated "from 119": two failed harvests, a fair third shipped out, blight, and relief wound down by 113, with no seven-year shape. The fever summer of 151 kills Orent II, thins the river camps and spares Elian's eastern army; crowds bring their sick to the doors of the audience hall and the Celebrants refuse to lift the cloth. The veiled oath survives to 0 AR; its end belongs to 04 (Tervan's edict of 245 AR is recommended).
 
 **What happens.** The period gains four long-running pressures, each with a start, a turning point and an end state; 03.5 narrates them.
 
@@ -167,7 +167,7 @@ The negotiation chooses Elian Serrat and sets his price, and the Face is unveile
   - `Chronology of the Known World (AR Dating).md`: the 151–61 line.
   - `Age of Glory - Authorial History and Integration Review.md`: the Raveth sequence.
 
-**Open questions.** Before it joined, was Raveth a Vasharan road-command district or a set of tributary towns? Does the veiled oath survive until Tervan's order of 249 AR (04)?
+**Open questions.** Before it joined, was Raveth a Vasharan road-command district or a set of tributary towns? Does the veiled oath survive until Tervan's order of 245 AR (04)?
 
 ### 03.4 The Charter of Referral: Qiryath passes from Vashar to Atheria
 
@@ -196,12 +196,12 @@ The negotiation chooses Elian Serrat and sets his price, and the Face is unveile
 
 **What it changes downstream.**
 - **0 AR.** Every step of Isfir's trial uses the charter: the governor at the pilgrimage, the augur (Severan), the referral, the threat to complain to Caleran, and the elder's petition for the body. Ezrahel, Lord-Scribe and keeper of the sanctuary copy, knows the terms better than any governor. His fear for "the towers' protections" is fear for his family's instrument.
-- **66–73 AR.** The surety clause becomes the governor's "pretext of arrears", and the offering for the emperor is what the militants stop. Their claim that the sign will return when foreign rule ends has its precedent in the Trial. The refugees of 70 go to communities founded by the charter's losers.
-- **Vashar.** The Dawn Portion ends in 70 AR. Vasharan claims to Qiryath's revenue join the grievances behind the war of c. 98–107 AR.
+- **61–68 AR.** The surety clause becomes the governor's "pretext of arrears", and the offering for the emperor is what the militants stop. Their claim that the sign will return when foreign rule ends has its precedent in the Trial. The refugees of 65 go to communities founded by the charter's losers.
+- **Vashar.** The Dawn Portion ends in 65 AR. Vasharan claims to Qiryath's revenue join the grievances behind the war of c. 94–103 AR.
 
 **Analog bent or replaced.** Pompey's arbitration of the Hasmonean succession (63 BC), the sacrifice for the emperor, and Florus's seizure of the Temple treasury (AD 66). Bent: there is no siege and no general enters the sanctuary. The decision turns on a refused trial and a scribal record, and the rival empire leases rather than loses. The author-only working date, c. 85–80 BR, stays clear of 63. Public text says "under the late Serrats".
 
-**Draft Torque Register entry.** **The Trial before the Stars and the Charter of Referral (under the late Serrats — Pompey and the Hasmoneans).** TORQUE: the sign of acceptance was given at an interim Keeper's offering while a rival held a Vasharan purchase of the office. The Atherian governor's augur demanded that the sign decide between them. One claimant refused the trial; the other offered, and the sign was not given. The governor ruled on the sanctuary's written record. The charter drafted by a Qoreth scribe governed Qiryath until 70 AR: an imageless sanctuary, an offering for the emperor, referral of capital cases, the dues as surety, and copies in two archives. Its clauses returned in 0 AR and 66 AR. Vashar took the Dawn Portion and called it rent.
+**Draft Torque Register entry.** **The Trial before the Stars and the Charter of Referral (under the late Serrats — Pompey and the Hasmoneans).** TORQUE: the sign of acceptance was given at an interim Keeper's offering while a rival held a Vasharan purchase of the office. The Atherian governor's augur demanded that the sign decide between them. One claimant refused the trial; the other offered, and the sign was not given. The governor ruled on the sanctuary's written record. The charter drafted by a Qoreth scribe governed Qiryath until 65 AR: an imageless sanctuary, an offering for the emperor, referral of capital cases, the dues as surety, and copies in two archives. Its clauses returned in 0 AR and 61 AR. Vashar took the Dawn Portion and called it rent.
 
 **Articles to update on approval.**
 - In `01 Canon Reference/Peoples and Cultures/Jirahar/`:
@@ -287,7 +287,7 @@ The purchaser's house, and the river-quarter families who would not serve under 
   - Vasharan tribute lapses during the Withheld Flame war, so one crisis loosens Vashar's hold on both the Basin and Qiryath.
 
   Any direct rule belongs after 0 AR. If a pre-0 province is kept, limit it to Qemaret's lower river and give it a Qahuri cause: the crown's revenues, already pledged to White Measure tomb estates, pass to the treasury when it buys those debts. Drop the Dio 51.17 citation either way.
-- **One Spartacus.** Keep the Sarqen rising (c. 189–192 AR), whose shipping lists and traced kin are its own. Bend Ostar's suppression of 399 BR instead. Replace the crosses along a supply road with a financier's punishment: he sells the captured rebels in lots to the northern well trade. That trade gives him his northern contacts and his motive for Rethmar. Crucifixion stays in Atherian law, without the roadside display.
+- **One Spartacus.** Keep the Sarqen rising (c. 186–189 AR), whose shipping lists and traced kin are its own. Bend Ostar's suppression of 399 BR instead. Replace the crosses along a supply road with a financier's punishment: he sells the captured rebels in lots to the northern well trade. That trade gives him his northern contacts and his motive for Rethmar. Crucifixion stays in Atherian law, without the roadside display.
 - **One Rethmar.** Velsar's 358 BR failure becomes north-eastern, into the Avesh approaches. Vasharan relay riders carry warning ahead of his columns. The Avesh command moves reserves along the Dawn Road faster than his baggage can follow and takes his convoys at a bridge station, and snow closes the pass behind him. He then robs a smaller client, as in canon. The defeat strengthens Orvaz II in 350 and teaches the Velorans that the frontier belongs to whoever has the faster road. Arcelon applies the lesson.
 
 **Why.** Egypt is used twice, with both uses citing the same passage of Dio. Spartacus is used twice. Rethmar's mechanism is copied into 358.
@@ -381,7 +381,7 @@ In canon the governor passes sentence at Second Qiryath, Severan urges it, and s
 - The Witness of Dawn, a separate Pride Mask, gets one line of Daryam propaganda and decides nothing, so the two empires' Masks are not a matched pair.
 
 **With [[Causality Pass - 04 Who May Authenticate a Sign, 0 to 411 AR]]: 0 AR, Ezrahel, the governor, the Tower Revolt and the Vashar wars after 0 AR.**
-- **0 AR and 66–73 AR.** 04 inherits the charter clauses listed under 03.4, Ezrahel as keeper of the sanctuary copy, the refugees' hosts, and the Dawn Portion's end as a grievance behind c. 98–107 AR.
+- **0 AR and 61–68 AR.** 04 inherits the charter clauses listed under 03.4, Ezrahel as keeper of the sanctuary copy, the refugees' hosts, and the Dawn Portion's end as a grievance behind c. 94–103 AR.
 - **The Trial before the Stars.** It is a precedent both for the augurs' claim to authenticate signs and for the Jirahar claim that the sign does not answer a magistrate.
 - **Astrion.** For "Astaroth answered once" in 350 AR to hold, the Threshold Law's invocation of the Red Star should lapse after 292 AR, leaving tests to runes and engineers. Astrion's demand then becomes the first formal address to the Red Star in a generation.
 - **The Mask.** It is at its provincial peak at 0 AR; 04 decides how it meets the Redeemer movement.
@@ -444,7 +444,7 @@ In **The Register**, before "Cassian's Vision", add in date order:
 
 > **The Loan before the Face (Raveth, from 119 BR — Joseph in Egypt).** TORQUE: where relief debts were sworn before the emperor's image, the dependent Pride Mask intensified compliance, and those households walked their animals to the estate office unasked while their countersigned neighbours argued and kept part of their land. Raveth remembers its dispossession through the image as well as through the Jirahar administrator, who resigned rather than administer the oath. [[The Keeper of Borrowed Grain]]
 
-> **The Trial before the Stars and the Qiryath Charter (under the late Serrats — Pompey and the Hasmoneans).** TORQUE: during Vashar's War of the Two Dawns, Qiryath's sign of acceptance (an offering that burns without smoke, the stones gone cool) answered an interim Keeper while a rival held a Vasharan purchase of the office. The Atherian governor's augur asked the sign to decide between them; the purchaser refused, the interim Keeper offered, and the fire smoked. The governor ruled on the sanctuary's written record. The charter a Qoreth scribe drafted governed Qiryath until 70 AR: an imageless sanctuary, a daily offering for the emperor, the governor's capital jurisdiction at the pilgrimage, the dues as surety, copies in two archives. Its clauses returned in 0 AR and 66 AR. Vashar took the Dawn Portion and called it rent. [[The Last Dynasties of the Age of Glory]]
+> **The Trial before the Stars and the Qiryath Charter (under the late Serrats — Pompey and the Hasmoneans).** TORQUE: during Vashar's War of the Two Dawns, Qiryath's sign of acceptance (an offering that burns without smoke, the stones gone cool) answered an interim Keeper while a rival held a Vasharan purchase of the office. The Atherian governor's augur asked the sign to decide between them; the purchaser refused, the interim Keeper offered, and the fire smoked. The governor ruled on the sanctuary's written record. The charter a Qoreth scribe drafted governed Qiryath until 65 AR: an imageless sanctuary, a daily offering for the emperor, the governor's capital jurisdiction at the pilgrimage, the dues as surety, copies in two archives. Its clauses returned in 0 AR and 61 AR. Vashar took the Dawn Portion and called it rent. [[The Last Dynasties of the Age of Glory]]
 
 In **Astrion's Restoration**, replace "**Astaroth answered once**," with "**Astaroth answered Astrion's public test of legitimacy once**," and after the first sentence add: "His answers to builders and siege engineers were standing practice (the wardens' test, from 326 BR); this was the only time he answered a test of a reign."
 
@@ -476,7 +476,7 @@ No change needed. Their Atherian Imperial Age entries point at articles revised 
 
 Under **Locked History**, after the "c. 660 BR" line, add:
 
-- Under the late Serrats (c. 80 BR): during Vashar's War of the Two Dawns, Atheria takes supremacy over Qiryath by a charter drafted by a Qoreth scribe after the Trial before the Stars. The charter protects sacrifice, communal courts and burial jurisdiction in Qiryath and the province's tower towns, keeps images out of the sanctuary, requires a daily offering for the emperor and gives the governor capital jurisdiction over offences against imperial rule. Vashar takes the Dawn Portion of pilgrim dues until 70 AR.
+- Under the late Serrats (c. 80 BR): during Vashar's War of the Two Dawns, Atheria takes supremacy over Qiryath by a charter drafted by a Qoreth scribe after the Trial before the Stars. The charter protects sacrifice, communal courts and burial jurisdiction in Qiryath and the province's tower towns, keeps images out of the sanctuary, requires a daily offering for the emperor and gives the governor capital jurisdiction over offences against imperial rule. Vashar takes the Dawn Portion of pilgrim dues until 65 AR.
 
 ### 9. `01 Canon Reference/Peoples and Cultures/Jirahar/70 History and Conflicts/Historical Spine of the Jirahar.md`
 
@@ -496,7 +496,7 @@ In **Archaeological Layers**, after the "Second Tower courts…" bullet, add:
 
 - charter-period works: the governor's pilgrimage tribunal outside the sanctuary gate, and the Qoreth archive where the sanctuary copy of the charter was kept;
 
-In **The Sanctuary**, after "Sacrifice continued from the Second Tower's consecration until 70 AR.", add: "From the late Serrat years the sanctuary stood under an Atherian charter that kept every image out of its courts and required a daily offering on the emperor's behalf; the defeated claimants' families remembered its making as the Governor's Question."
+In **The Sanctuary**, after "Sacrifice continued from the Second Tower's consecration until 65 AR.", add: "From the late Serrat years the sanctuary stood under an Atherian charter that kept every image out of its courts and required a daily offering on the emperor's behalf; the defeated claimants' families remembered its making as the Governor's Question."
 
 ### 11. `01 Canon Reference/History/30 Exodus and First Civilizations/Vashar and the Crown of Roads and Dawns.md` (another writer's file)
 
@@ -508,11 +508,11 @@ Before **Wars with imperial Atheria**, add a new section:
 >
 > Late in the reign of the Atherian emperor Cassen I, the Vasharan crown passed in dispute. Two Tiravan claimants held dawn audiences in the same week. The keepers of Daryam carried the royal flame to the claimant backed by the Ruzhan horse houses and left the one who held Kavresh to rise in lamplight. Daryam's preachers said the Witness of Dawn showed him nations kneeling in his mirrors, and the charge stuck. Atherian writers called the struggle the War of the Two Dawns. It lasted years. The Avesh road command chose the losing side. The victor purged it, pulled the western garrisons east to fight in Ruzhan and, needing silver, sold confirmations of offices across the western sanctuaries. Tribute from the Qahuri crowns lapsed in the same years.
 >
-> Qiryath was the war's costliest sale. After the sanctuary's Keeper died, a river-quarter house long in Vasharan road service bought the confirmation of his office, but the city's interim Keeper had already made the pilgrimage offering and received the sign. The Atherian governor at Arcelon, called in by the tower houses, ruled for the interim Keeper after the purchaser refused a trial by sign, and a Qoreth scribe drafted the charter under which Atheria held Qiryath. Early in Velen I's reign the victor, still fighting in Ruzhan, accepted the charter by treaty in return for the Dawn Portion, a yearly share of Qiryath's pilgrim dues paid to Avesh. Vasharan scribes wrote "lease"; Atherian scribes wrote "cession". The families who would not serve under the charter came east by the Dawn Road and settled in tower communities under Vasharan rule. Those communities later received the refugees of 70 AR.
+> Qiryath was the war's costliest sale. After the sanctuary's Keeper died, a river-quarter house long in Vasharan road service bought the confirmation of his office, but the city's interim Keeper had already made the pilgrimage offering and received the sign. The Atherian governor at Arcelon, called in by the tower houses, ruled for the interim Keeper after the purchaser refused a trial by sign, and a Qoreth scribe drafted the charter under which Atheria held Qiryath. Early in Velen I's reign the victor, still fighting in Ruzhan, accepted the charter by treaty in return for the Dawn Portion, a yearly share of Qiryath's pilgrim dues paid to Avesh. Vasharan scribes wrote "lease"; Atherian scribes wrote "cession". The families who would not serve under the charter came east by the Dawn Road and settled in tower communities under Vasharan rule. Those communities later received the refugees of 65 AR.
 
-In **Wars with imperial Atheria**, after the first sentence, add: "The Dawn Portion ended when Atheria destroyed the sanctuary in 70 AR, and Vasharan claims to Qiryath's revenue joined the grievances behind the war of c. 98–107 AR."
+In **Wars with imperial Atheria**, after the first sentence, add: "The Dawn Portion ended when Atheria destroyed the sanctuary in 65 AR, and Vasharan claims to Qiryath's revenue joined the grievances behind the war of c. 94–103 AR."
 
-In **Regnal framework**, add a final row: `| Later Tiravans (unnamed) | after 350 BR | the War of the Two Dawns under the late Serrats; the Dawn Portion treaty early in Velen I's reign |`. The frontmatter `era` ("c. 1300–350 BR") may widen to "c. 1300 BR–70 AR" at the owner's discretion.
+In **Regnal framework**, add a final row: `| Later Tiravans (unnamed) | after 350 BR | the War of the Two Dawns under the late Serrats; the Dawn Portion treaty early in Velen I's reign |`. The frontmatter `era` ("c. 1300–350 BR") may widen to "c. 1300 BR–65 AR" at the owner's discretion.
 
 ### 12. Other files outside this pass's ownership
 
@@ -530,4 +530,4 @@ In **Regnal framework**, add a final row: `| Later Tiravans (unnamed) | after 35
 
 - **Pass 01.** Whether the Keepership of the Upper Room continues into Second Qiryath; reader prose here says "the sanctuary's Keeper". The sign's form follows 01 and the Vashar article (a smokeless offering, cool stones).
 - **Pass 02.** Calvena lives past 350, and her later life is unfixed. Thalion's closing of the Red Field in 350 sits beside the wardens' test: the Field is the war office, and the test is the builders' rite.
-- **Pass 04.** Receives the charter clauses; Ezrahel as keeper of the sanctuary copy; Severan as High Augur travelling with a provincial copy of the emperor's face; the Celebrants of the Veil holding the Face at Caleran; the Mask at its provincial peak; the exiles' tower communities in Vasharan country; the Dawn Portion's end; and the veiled oath, whose end is 04's to decide (Tervan's edict of 249 AR is recommended). Raveth's crown estate is the ground of 04's Jirahar hearing house, burned c. 389 AR. The Purge's emperor can now be named from the Othran line.
+- **Pass 04.** Receives the charter clauses; Ezrahel as keeper of the sanctuary copy; Severan as High Augur travelling with a provincial copy of the emperor's face; the Celebrants of the Veil holding the Face at Caleran; the Mask at its provincial peak; the exiles' tower communities in Vasharan country; the Dawn Portion's end; and the veiled oath, whose end is 04's to decide (Tervan's edict of 245 AR is recommended). Raveth's crown estate is the ground of 04's Jirahar hearing house, burned c. 389 AR. The Purge's emperor can now be named from the Othran line.

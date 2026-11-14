@@ -21,7 +21,7 @@ The Long Reconquest was the 144-year struggle by which the mountain refuges beca
 
 The fall of Caleran scattered the heartland. Urban households fled toward mountain monasteries, rural estates, fortified valleys, eastern ports, and Eclessia. Covenant authorities secured roads, ports, irrigation works, and archives before attempting complete territorial control.
 
-Occupation repopulation mixed garrison households, rewarded clients, contract-bound survivors, imported laborers, and forcibly transplanted subjects. Land and water rights were rewritten into Covenant instruments. This policy created functioning occupied districts while ensuring that later return would never be a simple restoration.
+Occupation repopulation mixed garrison households, rewarded clients, contract-bound survivors, imported labourers, and forcibly transplanted subjects. Land and water rights were rewritten into Covenant instruments. This policy created functioning occupied districts while ensuring that later return would never be a simple restoration.
 
 The occupation had weak foundations from its first winter. It lay a full season's march from Iqashar and was meant to pay for itself from estates worked by bound survivors whose names sat in local name vaults. The Atherian remount studs its clerks had listed for seizure were driven north into the Tarkhan grass by their handlers, and the occupation stayed an army of camels and foot.
 
@@ -29,11 +29,11 @@ The occupation had weak foundations from its first winter. It lay a full season'
 
 Caedros Aetherion joined surviving soldiers, refuge councils, monasteries, village militias, and dispossessed houses. The resistance initially fought through ambush, evacuation, road denial, and the preservation of people rather than territory.
 
-The Covenant army's defeat at [[The Battle of the Shattered Engines (907 AR)]] had already ended its Eclessian advance, destroyed two of five great engines, crippled a third, and forced occupation forces to cover too many roads with too few machines. Knowledge recovered from a released human name-cage became part of the rebels' later counter-engine practice. Vorthara's intervention created an opportunity for the resistance.
+The Covenant army's defeat at [[The Battle of the Shattered Engines (907 AR)]] had already ended its Eclessian advance, destroyed two of five great engines, crippled a third, and forced occupation forces to cover too many roads with too few machines. Knowledge recovered from a released human name-cage became part of the rebels' later counter-engine practice.
 
-The rebels' amnesty did as much damage as their ambushes. Anyone who came up to the mountains without a bound instrument was received, and the labour that paid the garrisons drained into the hills a family at a time. Some occupation governors answered with terror; at one mountain signal house, about 910–913, the devotional tradition says a governor's warlocks trapped and maimed a Herald of heaven sent to proclaim a protected surrender. The rescue failed, the rebels hid the failure, and the horn players' rule of naming the protected before dividing spoils came out of it ([[G-47 - Three Notes before the Spoils|Three Notes before the Spoils]]).
+The rebels' amnesty did as much damage as their ambushes. Anyone who came up to the mountains without a bound instrument was received, and the labour that paid the garrisons drained into the hills a family at a time. Some occupation governors answered with terror. At one mountain signal house, about 910–913, the devotional tradition says a governor's warlocks trapped and maimed a Herald of heaven sent to proclaim a protected surrender; from the failed rescue came the horn players' rule of naming the protected before dividing spoils ([[01 Canon Reference/History/60 Fall and Successor Empires/The Refuge and the Rise of Veridun.md|The Refuge and the Rise of Veridun]]).
 
-[[The Battle of Caelmount]] in 917 proved a Covenant field force could be defeated in the mountains. Virelos was secured in 921, giving the rebellion a defensible political center.
+[[The Battle of Caelmount]] in 917 proved a Covenant field force could be defeated in the mountains. Virelos was secured in 921, giving the rebellion a defensible political centre.
 
 ## Crown and Burning Banners, 922-949 AR
 
@@ -51,7 +51,7 @@ The Eternal Ember had remained lit under Covenant guard and property law. Veridu
 
 ## Province by Province, 962-1052 AR
 
-The next ninety years were fought through roads, irrigation districts, walled towns, marriage settlements, amnesties, sieges, and competing land registers. Recovery of the Virelos Wind Stair, Kedravan Frost Gate, and Arkenan Basalt Draw gave Thalmyria strategic signal, cold-pressure, forge, and fortification capacity. Many returned families found their ancestral villages inhabited by other families with legal claims of their own. Some settlements negotiated continuity; others suffered expulsion, massacre, or repeated changes of ruler.
+The next ninety years were fought through roads, irrigation districts, walled towns, marriage settlements, amnesties, sieges, and competing land registers. Recovery of the Kedravan Frost Gate and the Arkenan Basalt Draw, beside the Virelos Wind Stair held since 921, gave Thalmyria the storm signals, cold-pressure, forge-charge and fortification work of three Shell anchors. Many returned families found their ancestral villages inhabited by other families with legal claims of their own. Some settlements negotiated continuity; others suffered expulsion, massacre, or repeated changes of ruler.
 
 The war took this shape because the enemy had come apart. Durayd's surrender released Caleran and left the other occupied districts sworn to nobody; each amir re-swore his own garrison, and by 962 Thalmyria faced a dozen amirates, each with its own walls and its own price. Iqashar claimed them all and armed none of them. Some held out for a decade, some sold their towns for safe passage north, and a few changed sides more than once.
 
@@ -65,7 +65,7 @@ The Velian States remained fragmented beneath Covenant-aligned rulers, local chu
 
 ## The Demographic Inheritance
 
-Four generations of flight and return concentrated population around walls, markets, monasteries, garrisons, and restored aqueducts. Many villages never revived. Others carried occupation-descended populations that return law refused to recognize. Those who rejected return law altogether went north in 1052 as the Covenant's Southern Houses, carrying deeds that became the War of the Southern Deeds in 1131. The modern empty interior is therefore a political landscape.
+Four generations of flight and return concentrated population around walls, markets, monasteries, garrisons, and restored aqueducts. Many villages never revived. Others carried occupation-descended populations that return law refused to recognise. Those who rejected return law altogether went north in 1052 as the Covenant's Southern Houses, carrying deeds that became the War of the Southern Deeds in 1131. The modern empty interior is therefore a political landscape.
 
 ## Navigation
 
@@ -79,6 +79,4 @@ Four generations of flight and return concentrated population around walls, mark
 - [[01 Canon Reference/History/60 Fall and Successor Empires/The Founding Flame.md|The Founding Flame]]
 - [[The Covenant from Idris to Suhrab (905-1190 AR)]]
 - [[First Catch and Grey Sister]]
-- [[Chronology of the Known World (AR Dating)]]
-- [[Covenant Siege Golems]]
-- [[Shell Anchors and Extraction]]
+- [[The Fall and the Long Reconquest]]

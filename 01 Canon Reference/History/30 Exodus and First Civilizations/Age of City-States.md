@@ -29,17 +29,15 @@ The period had several regional centres. Atherian cities developed civic law, st
 
 Between c. 1400 and 800 BR, cities concentrated specialists, stores and coercion. Potters no longer needed to grow all their own grain. Rulers could keep soldiers between harvests. A foreign worker could find employment without possessing local kin, although debt or captivity might be the price. Wells, sewers, warehouses, courts and shrines made urban life possible; disease, fire and class violence made it precarious.
 
-The Atherian city world formed one part of this wider change. Jirahar tower towns preserved their own institutions. Oasis coalitions fortified water and guest-law. Harbour populations grew through migration and intermarriage. Folk and Ättar towns traded with these places on terms shaped by their own rulers, kinships and seasonal needs.
-
 ## Rival citizenships
 
 Civic belonging could be inherited, purchased through service or denied to families resident for generations. Cities needed outsiders and feared giving them a share. Foreign workers repaired fountains which could later be used to accuse them of poisoning the water. In one harbour tradition an interpreter proved that a supposed confession described a broken pump; the discovery saved several workers but could not undo the execution already performed.
 
-The [[G-07 - The Key Bent in a Murderer's Hand|Bent-Key crisis]] at Verion began when two elders sexually coerced a married woman and framed her for a capital crime. A debt thief proposed separate questioning as cover for an archive robbery and exposed their contradictory testimony. Clay tablets accidentally preserved by the archive fire connected the accusation to creditor and shipping houses, which hired mercenaries to restore their judges, debtor sales and grain privileges. A resident foreign widow killed and beheaded the commander after he murdered her spouse; a guilty locksmith later bent the archive key rather than surrender the records to the soldier whose emergency command became a dynasty. The woman they saved refused office and left Verion, although a later empty witness-seat placed her permanently outside its court.
+Verion's [[G-07 - The Key Bent in a Murderer's Hand|Bent-Key crisis]], around 1000 BR, began when two elders demanded a married woman's body and, refused, accused her of a capital crime. A debt thief who wanted the hearing as cover for robbing the archive asked each elder under which tree the offence had happened, and their answers disagreed. The archive burned in the rising that followed; the fire destroyed some clay tablets and baked others hard, and the hardened ones named the creditor and shipping houses that had bought the judges. Those houses came back behind hired spears. A foreign-born widow, whose husband the mercenary commander had killed, went to his tent dressed for supper and came back before dawn with his head. A disgraced soldier held the walls and made his emergency command a dynasty; the locksmith, who had killed an archive guard during the robbery, heated the archive key in a brazier and bent it rather than hand the soldier the records. The accused woman refused every honour and left Verion. Later generations set an empty witness-seat outside the hearing hall for her.
 
 ## The harbour that kept its chain up
 
-Around 1160 BR a killing storm drove a mixed fleet of merchant hulls, pilgrim craft, fishing boats and refugee transports onto the eastern Thalassian coast towards [[The Refusal at Kelarion|Kelarion]]. The harbour could not take every ship safely, but its pilots had worked out an order that would have brought many inside. The harbour council kept the gate chain closed. Its members feared disease and political rivals among the refugees, and they meant to buy the wreck cargo cheaply when the storm had passed. Guards turned private rescuers back from the quays and put out the outer signal fires so that the ships would stop trying for the chain. Hundreds drowned within sight of the town.
+Around 1160 BR a killing storm drove a mixed fleet of merchant hulls, pilgrim craft, fishing boats and refugee transports onto the eastern Thalassian coast towards Kelarion. The harbour could not take every ship safely, but its pilots had worked out an order that would have brought many inside. The harbour council kept the gate chain closed. Its members feared disease and political rivals among the refugees, and they meant to buy the wreck cargo cheaply when the storm had passed. Guards turned private rescuers back from the quays and put out the outer signal fires so that the ships would stop trying for the chain. Hundreds drowned within sight of the town.
 
 Kelarion itself drowned soon afterwards. Fisher crews, rival pilots, surviving refugees and guards who deserted the council cut the chain, relit an outer fire and named every refused ship they could from manifests and testimony. Coastal tradition says something rose out of the harbour in those days, a sea-serpent crowned with broken towers, and sailors still call it the King beneath the Breakwater; most tellers treat it as the gods' punishment of a proud harbour. The cut chain still lies across the drowned gate. A small hereditary community keeps a refuge fire burning on the bare reef, and the list of refused ships, the **Roll of Refused Hulls**, has been copied from pilot to pilot ever since. Seven centuries later that roll became the refuge custom of an Atherian naval league, and then the sea's refuge law.
 
@@ -53,19 +51,19 @@ The siege broke. The city took its rivals' forts, and for a season its protector
 
 ## The sea and the stolen sounding-weight
 
-In the pre-imperial Arkenan–Saronikan corridor, c. 1120–980 BR, a sea-king attacked a populated court stronghold to obtain a sounding-weight which disclosed one safe reef adjacency. Defenders were killed. Most raiders drowned, were captured or suffered physical transformation. The few who returned helped a hungry harbour, then let later songs make that relief justify the raid.
+Somewhere in the Arkenan–Saronikan islands, c. 1120–980 BR, a blockaded harbour was starving behind reefs whose safe channel moved with the season. A court of the sea's older powers kept a sounding-weight that could find the channel, and offered passage for a toll. The sea-king wanted the weight for good. He sent coerced pilots and hungry oarsmen into the court's stronghold, where they killed its defenders and stole it. The court closed every route but the one the weight could find: most raiders drowned on reefs that had not been there before, some were taken, and some reached the far side changed by the crossing. One ship came home with grain, and the songs made the theft a victory.
 
-[[G-74 - The Raid That Returned One Tool|The Raid That Returned One Tool]] survives on both sides of the crossing. Court-side descendants remember the captives whom the victorious city forgot.
+[[G-74 - The Raid That Returned One Tool|The Raid That Returned One Tool]] survives on both sides of the crossing. Court-side burial customs keep the names of the captured raiders, and their children, whom the victorious city counted as drowned.
 
 ## Hunger acquires new forms
 
-City wealth made the Idols' cultural faces more elaborate. A royal image could be worshipped as a protector while its keepers fed it a city's prisoners; a creditor could turn a stored hoard into claims upon families who had never seen it. In the empty-signature marriage stories, refusal brought beating, sale or coerced sexual access. Human rulers, households and enforcers maintained these arrangements, and an Idol fed through their conduct.
+City wealth made the Idols' cultural faces more elaborate. A royal image could be worshipped as a protector while its keepers fed it a city's prisoners; a creditor could turn a stored hoard into claims upon families who had never seen it. At one early royal marriage court the bride's place on the contract was left unsigned, so that her relatives could swear she had entered freely a marriage the guards had already enforced; a bride who refused was beaten and threatened with sale. Women at one wedding feast pointed out the empty place to the guests and helped the bride run. Human rulers, households and enforcers kept such arrangements going, and the Idols fed through their conduct.
 
 ## What lasts
 
 City walls were repeatedly dismantled into younger houses. Founding myths outlived the languages of their first tellers. Amnesty fires, bent keys, foreign quarter feasts, a cut harbour chain, an empty chair and compulsory silences preserve disputes which official civic genealogies conceal.
 
-Cities continued to develop after 800 BR. In the west, the [[Age of Stars]] names an Atherian synthesis of civic and religious traditions. Eastern powers followed separate courses: the Arqeshite river empire reached its height and destroyed the First Qiryath in 742 BR, while [[Vashar and the Crown of Roads and Dawns|Vashari highland houses]] and Ortheian kings contested the roads beyond it.
+In the west the age closed at Caleran. Its councillors and boat-owners had forced their last strong king, Senavar, to pull back his garrison after his soldiers seized the Nerava boats, and they had learned to govern together. The festival calendar of [[Ilaron and Tarsenna]] already brought neighbouring cities to Caleran on the same days. Rival cities with fields to lose needed somewhere to settle quarrels before the quarrels reached the harvest. Around 800 BR twelve of them agreed to keep one calendar, arbitrate and muster together: the Celestial Compact, with which the [[Age of Stars]] begins. Eastern powers followed separate courses: the Arqeshite river empire reached its height and destroyed the First Qiryath in 742 BR, while [[Vashar and the Crown of Roads and Dawns|Vashari highland houses]] and Ortheian kings contested the roads beyond it.
 
 ## Atlas navigation
 
@@ -80,7 +78,6 @@ Cities continued to develop after 800 BR. In the west, the [[Age of Stars]] name
 - [[Arkenan and Saronikan Cities before the Empire]] — island production, grain voyages, teachers and local civic institutions.
 - [[Proto-Jirahar Tower Towns]]
 - [[The First Atherian City-States]]
-- [[The Refusal at Kelarion]]
 - [[The Hunger Wars]] — Idol wars of the city world, including the Champion of Four Doors.
 - [[Ancient Qahur and the Twin-Reed Crowns]] — Yasharet trade, Aramen conquest, the mortuary economy and the Single Radiance crisis.
 - [[Qahur and the Gateway before Atheria|Qahur and the Gateway, c. 2165–350 BR]] — roads, shipping, diplomacy and migration between the river crowns and the coast.
@@ -91,13 +88,9 @@ Cities continued to develop after 800 BR. In the west, the [[Age of Stars]] name
 - [[Historical Atlas of the Southern Cold World]] — the longer southern sequence from Nhaldur's fall to 350 BR.
 - [[The Folk before Atheria]] — river leagues, forest assemblies, upland gords and unequal contact with Atherian cities.
 - [[01 Canon Reference/Peoples and Cultures/Ättar/70 History and Conflicts/The Ättar before the Great Keel-Taking.md|The Ättar before the Great Keel-Taking]] — halls, All-Things, the Moon bargain, Grobi war and the early sea-kings.
-- [[The Deep Voice]] — the older eastern resonance art, its masters and the Quiet Measure.
+- [[Southern Settlement and Maritime Atheria]] and [[Arkenan and Saronikan Cities before the Empire]] — the ship households and harbour leagues from which the Atherian cities grew.
 
 ## Local tales and surviving memories
 
 - [[G-07 - The Key Bent in a Murderer's Hand|The Key Bent in a Murderer's Hand]]
 - [[G-74 - The Raid That Returned One Tool|The Raid That Returned One Tool]]
-
-Smaller local histories and restored reserve leads: [[Additional Mortal Lives and Frontier Traditions]].
-
-Further civil history: [[River Leagues and Sea-Kings of the Early World]].

@@ -3,7 +3,7 @@ type: legend
 status: canon
 canon_level: local
 visibility: public
-era: ["c. 100–292 AR; Underground"]
+era: ["c. 100–292 AR; Underground; the reliquary c. 404 AR"]
 region: ["inland prison and quarry districts"]
 culture: ["persecuted provincial congregations"]
 related_factions: []
@@ -18,7 +18,7 @@ aliases: ["First the Betrayed, Then the Witness"]
 
 ## Historical setting
 
-**c. 100–292 AR; Underground.** Inland prison and quarry districts. This tradition belongs to [[The Age of the Redeemer]]; its cultural bearers are persecuted provincial congregations.
+**c. 100–292 AR; Underground, with the reliquary of c. 404.** Inland prison and quarry districts. This tradition belongs to [[The Age of the Redeemer]]; its cultural bearers are persecuted provincial congregations.
 
 It is told in Underground memorial households and early churches that disagree about confession after failure.
 
@@ -32,7 +32,7 @@ At the first feast in his honour, the dyer's mother entered carrying a lamp made
 
 The next year two lamps were lit, the dyer's first. In some tellings the dead deacon appeared in a dream and commanded the order. In the harsher and older telling, the living understood repentance by themselves, once it stopped demanding that the victim disappear.
 
-A century later the deacon spoke again, or something spoke for him. Under the converted empire, the keepers of a new reliquary in his city began issuing commands in his voice, naming enemies of the state, and soldiers arrested whoever the voice named. On the reliquary's last night, witnesses heard a second voice in the chamber, the deacon's own, call the first one a counterfeit and say the dyer's name before its own. The reliquary cracked from top to base, its keepers were carried out, and the arrests in that province stopped.
+More than a century later the deacon spoke again, or something spoke for him. Under the converted empire, the keepers of a new reliquary in his city began issuing commands in his voice, naming enemies of the state, and soldiers arrested whoever the voice named. On the reliquary's last night, witnesses heard a second voice in the chamber, the deacon's own, call the first one a counterfeit and say the dyer's name before its own. The reliquary cracked from top to base, its keepers were carried out, and the arrests in that province stopped.
 
 The mother never attended again. Her lamp came through a niece who thought the deacon's later courage mattered. Thus even the victim household carried disagreement, and no tidy reconciliation could be imposed by feast organisers. The empty chair beside it stayed hers.
 
@@ -54,7 +54,6 @@ Two lamps are lit in a fixed order. The first must come from the betrayed person
 - [[Historical Atlas of Thalmyria]]
 - [[Historical Atlas of Eclessia]]
 - [[Saints and Sinners of the Chronicles]]
-
 - [[The Age of the Redeemer]]
-- [[Myths and Legendary Histories MOC]]
-- [[World Historical Atlas MOC]]
+- [[Legendary Histories]]
+- [[The Ages of the World]]

@@ -3,7 +3,7 @@ type: event
 status: canon
 canon_level: core
 visibility: public
-era: ["572-603 AR", "Present Day"]
+era: ["597-612 AR", "Present Day"]
 region: ["The Covenant", "Ahl-e-Ahd"]
 culture: ["Ahl-e-Ahd"]
 related_factions: ["People of the Witnessed Seal", "People of the Sealed Blood"]
@@ -44,7 +44,7 @@ Both instruments reportedly survive. The Fourth Seal rests in the Vault of Names
 
 ## Present Day
 
-Iqashar and Al-Qahur are Witnessed-Seal. Qazmarid is Sealed-Blood. Zanthir is Witnessed-majority with protected Sealed-Blood communities. Every Qahirid succession, especially Marzuq III's expected Cull of Brothers, reopens the wound.
+Iqashar and Al-Qahur are Witnessed-Seal. Qazmarid is Sealed-Blood. Zanthir is Witnessed-majority with protected Sealed-Blood communities. Every Qahirid succession reopens the wound, and the Cull of Brothers that awaits Marzuq III's death will reopen it again.
 
 ## Navigation
 

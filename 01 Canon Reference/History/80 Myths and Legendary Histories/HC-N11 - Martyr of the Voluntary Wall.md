@@ -28,15 +28,15 @@ In c. 811 AR, a successor confraternity used the old emergency law to seize mino
 
 ## What people remember
 
-flawless savior, necessary tyrant, repentant martyr, fabricated worker rebellion, Saint who legalized sacrifice or later apparition invented to defeat a building faction.
+Flawless savior, necessary tyrant, repentant martyr, fabricated worker rebellion, Saint who legalized sacrifice or later apparition invented to defeat a building faction.
 
 ## What remains
 
-descendants still demand that public memorials name the compulsory stations separately. The city pays a reduced orphan levy whose original purpose is politically contested.
+Descendants still demand that public memorials name the compulsory stations separately. The city pays a reduced orphan levy whose original purpose is politically contested.
 
 ## What remains unknown
 
-city, gender, exact number, public recognition, compensation, cause of the structural failure and authenticity of relic claims. Within this nursery lead, reception as a redeemed Saint after judgement is fixed; coerced deaths do not become voluntary through that ruling.
+City, gender, exact number, public recognition, compensation, cause of the structural failure and authenticity of relic claims. Within this nursery lead, reception as a redeemed Saint after judgement is fixed; coerced deaths do not become voluntary through that ruling.
 
 - [[Heavenly Campaigns and the Human Dead]]
 - [[World Historical Atlas MOC]]

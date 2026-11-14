@@ -50,7 +50,6 @@ A cracked bell is sounded before refugee ships depart. The break produces two no
 
 - [[Historical Atlas of Thalmyria]]
 - [[Historical Atlas of Eclessia]]
-
 - [[The Fall and the Long Reconquest]]
-- [[Myths and Legendary Histories MOC]]
-- [[World Historical Atlas MOC]]
+- [[Legendary Histories]]
+- [[The Ages of the World]]

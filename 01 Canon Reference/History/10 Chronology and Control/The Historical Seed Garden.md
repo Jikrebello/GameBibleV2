@@ -2434,15 +2434,17 @@ No reusable Knocker species or hidden mine nation is created. Natural response, 
 
 *Formerly: Empty Grave Archive.*
 
-*Where it is told:* along quarry roads from the Underground into Legalization, by a family claimed by two hostile cults.
+*Where it is told:* along quarry roads from the Underground into Legalisation, by a family claimed by two hostile cults.
 
 ### The tale
 
 A prisoner was tortured for the names of fellow labour organisers. One account says he recanted; another says the words were put in his mouth after he lost consciousness. He was executed beside the quarry. Officials denied his family the body and threw it into an unmarked lime trench.
 
-The family dug a careful grave anyway. They lined it with stones, laid out his work shirt and gathered there without claiming miracle or martyrdom. After persecution eased, one cult built a shrine saying the prisoner had died as its Saint. A rival cult said his final curse had made him a powerful Sinner and built another shrine near the quarry.
+The family dug a careful grave anyway. They lined it with stones, laid out his work shirt and gathered there without claiming miracle or martyrdom. After persecution eased, the quarry town raised a crowned icon of the prisoner as an unbroken confessor, carried it in procession and asked it to make the town's church first among its neighbours. The icon answered petitions, and people who doubted it fell sick. A road sanctuary several days away, shut out of the town's cult, raised its own image of him, which wept whenever pilgrims spoke of the town and worked healings for those who believed the town had stolen their martyr. Its keepers claimed him as the road's own saint, robbed by the town, and built a second shrine at the quarry's edge to take him back.
 
-Both demanded the empty grave. Relic hunters broke bones in the lime trench. Shrine custodians killed a cousin who refused to sell the work shirt. The second cult burned the family's house and blamed the first. Copies of the prisoner's face appeared on images that resembled neither surviving description.
+Both demanded the empty grave. Relic hunters broke bones in the lime trench. Shrine custodians killed a cousin who refused to sell the work shirt. A fellow prisoner who had also recanted, and who said so in public, was murdered and thrown into a quarry pit. The second cult burned the family's house and blamed the first. Copies of the prisoner's face appeared on images that resembled neither surviving description.
+
+Generations later, relic-court investigators tested both images. The crowned icon fell silent once its claim to precedence was taken away. The weeping image dried once no one compared it with the town. Neither result said anything about the prisoner himself.
 
 The family removed every carving from the grave and left only unmarked stones. Pilgrims still come, but the empty place now refuses to say whether the dead man belonged to either supernatural story.
 
@@ -2454,7 +2456,7 @@ At its centre is a family denied the ordinary act of burying someone they loved.
 
 ### How tellers differ
 
-One shrine says the grave emptied through ascension. The other says a rival stole the corpse. Family versions begin with the body already gone and distrust both.
+One shrine says the grave emptied through ascension. The other says a rival stole the corpse. Family versions begin with the body already gone and distrust both. Idol-scholars hold that each image was a Mask feeding on a different hunger; some churches still keep the prisoner as a local confessor, and relic courts leave his case open.
 
 ### What remains
 
@@ -2462,7 +2464,7 @@ A carefully lined empty grave receives uncarved stones. Any inscribed offering i
 
 ### What remains open
 
-The prisoner's last words, final judgement and body remain unknown. No shrine, image, Mask, office or relic is authenticated.
+The prisoner's last words, final judgement and body remain unknown. No shrine, image, Mask, office or relic is authenticated in public. Authorially, both shrines claim him as a saint: the crowned icon fed a Pride Mask and the weeping image an Envy Mask, and neither held his soul ([[Signs and Proof - Authorial Truth]]; [[The Hunger Wars]] tells the campaign as the Borrowed Martyr).
 
 ^garden-g70
 

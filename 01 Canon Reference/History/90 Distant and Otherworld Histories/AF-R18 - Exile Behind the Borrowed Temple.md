@@ -14,14 +14,13 @@ source_id: AF-R18
 ---
 # The Exile Behind the Borrowed Temple
 
-
 The epithet identifies one historical power, not a universal rank.
 
 ## The person and the manifestation
 
-autonomous Pride idol-pattern Archmask cut off from one former Material route but active through other Shadow anchors.
+Autonomous Pride idol-pattern Archmask cut off from one former Material route but active through other Shadow anchors.
 
-a royal human or many-headed draconic persona above the cult; authorially its durable body is a black eel-dragon wearing several conquered crowns. Any authentic flame comes only from a separate Wrath compact.
+A royal human or many-headed draconic persona above the cult; authorially its durable body is a black eel-dragon wearing several conquered crowns. Any authentic flame comes only from a separate Wrath compact.
 
 ## Ambition and rule
 
@@ -33,11 +32,11 @@ Its dragon armies are constructed war-broods assembled from stolen bodies, Giant
 
 ## Victims
 
-desecration, stolen bodies used in war-brood manufacture, conquered peoples enslaved, prisoners executed for portal stability and champions discarded once access is secured.
+Desecration, stolen bodies used in war-brood manufacture, conquered peoples enslaved, prisoners executed for portal stability and champions discarded once access is secured.
 
 ## Limits and inheritance
 
-not a goddess, the Adversary, a true dragon, creator of life or whole Idol Throne. War-broods are constructed patterns; humans retain complete souls.
+Not a goddess, the Adversary, a true dragon, creator of life or whole Idol Throne. War-broods are constructed patterns; humans retain complete souls.
 
 This power is active in its own ecology in 1360. No present defeat, return, redemption or campaign outcome is fixed.
 

@@ -40,8 +40,8 @@ Comparative sources, alternative interpretations and technical collision work re
 - Vathra was a lesser Giant crown rather than one of the Five Imperial Horizons.
 - Its six principal crown-cities moved physically through the Material sky. City-flight combined crafted lift bodies, Zephyraxis pressure mantles, Hecatara route anchors and human labour. Astaroth-derived structural knowledge contributed to the system without making Astaroth its owner.
 - The First Road-Mother was a Titan-Firstborn conceived through a bounded Hecatara manifestation and a human woman. She possessed `titan-continuity` and no human soul. Later Vathran High and Dynastic Giants possessed `giant-continuity` and no human souls.
-- Ozhur IV's Closing Ascent, Varakesh's revolt and the human Great Unyoking broke Vathra between approximately 2300 and 2260 BR.
-- Seyra Vatan, Dorun of the Draw-Gangs and Meya of Narash coordinated distinct human constituencies. They did not form one universal liberation company.
+- Ozhur IV's requisitions, Varakesh's revolt and the human Great Unyoking broke Vathra between approximately 2300 and 2260 BR.
+- Seyra Vatan, Dorun of Tal-Kesh (whom the mine and cistern crews called Dorun of the Draw-Gangs) and Meya of Narash coordinated distinct human constituencies. They did not form one universal liberation company.
 - Kelvara turned against the royal houses after participating in their crimes. Her aid saved lives and did not undo the captives previously transferred under her authority.
 
 ### The six crown-cities

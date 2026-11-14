@@ -28,7 +28,7 @@ Two public surveys gather the strange and the holy across many tales and ages. E
 
 - [[G-01 - The People Beneath the Bowl|The People Beneath the Bowl]] — Ansharan household estates and their dispersed descendants; c. 2400–2260 BR; Late Chains and Unbinding.
 - [[G-02 - The Company of the Broken Measure|The Company of the Broken Measure]] — former Giant estates and Glassward approaches; c. 2400–2260 BR; Late Chains and Unbinding.
-- [[G-18 - The Falling Wards|The Falling Wards]] — one Ansharan-facing dependent court, outside the unresolved imperial capital; c. 2400–2260 BR; Late Chains and Unbinding.
+- [[G-18 - The Falling Wards|The Falling Wards]] — one Ansharan-facing dependent court, outside the lost imperial capital; c. 2400–2260 BR; Late Chains and Unbinding.
 - [[G-62 - The Three False Processions|The Three False Processions]] — a separate lesser court and its Egg White pursuit routes; c. 2400–2260 BR; Late Chains and Unbinding.
 - [[G-66 - Not for the Lower Roster|Not for the Lower Roster]] — Urum-facing mortuary estates; c. 2320–2260 BR; Late Chains and Unbinding.
 - [[G-69 - The Four Faces of One Victory|The Four Faces of One Victory]] — Sarrakai canal country; c. 2385–2335 BR; Late Chains.
@@ -62,7 +62,7 @@ Two public surveys gather the strange and the holy across many tales and ages. E
 
 ## Age of City-States
 
-- [[The Wolf's Two Sons]] — Caleran's founding family, a wolf's purpose and the murder between brothers; an additional received tradition outside the seventy-five Garden IDs.
+- [[The Wolf's Two Sons]] — c. 1150–1090 BR; Caleran's founding family, a wolf's purpose and the murder between brothers; an additional received tradition outside the seventy-five Garden IDs.
 - [[G-07 - The Key Bent in a Murderer's Hand|The Key Bent in a Murderer's Hand]] — Verion, an eastern Atherian assembly port; c. 1000 BR.
 - [[G-74 - The Raid That Returned One Tool|The Raid That Returned One Tool]] — Arkenan–Saronikan island corridor; c. 1120–980 BR.
 
@@ -74,19 +74,19 @@ Two public surveys gather the strange and the holy across many tales and ages. E
 
 ## Atherian Imperial Age
 
-- [[G-09 - The Companions Who Entered by the Low Door|The Companions Who Entered by the Low Door]] — provincial Atherian garrisons; c. 350–33 BR; Age of Glory. [[The Companions Who Entered by the Low Door - Imperial History|The historical account]] places the principal company at Lacaris, c. 96–54 BR.
+- [[G-09 - The Companions Who Entered by the Low Door|The Companions Who Entered by the Low Door]] — Lacaris and the eastern Atherian provinces; c. 96–54 BR; Age of Glory. [[The Companions Who Entered by the Low Door - Imperial History|The historical account]] follows the principal company.
 
 ## The Age of the Redeemer
 
 - [[G-10 - The Road of the Empty Purse|The Road of the Empty Purse]] — provincial household and pilgrimage routes; 3 BR–291 AR; Redeemer and Underground.
 - [[G-24 - The Red Door and the Names Left Behind|The Red Door and the Names Left Behind]] — inland prison and quarry districts; c. 180–226 AR.
-- [[G-39 - First the Betrayed, Then the Witness|First the Betrayed, Then the Witness]] — inland prison and quarry districts; c. 100–292 AR; Underground.
+- [[G-39 - First the Betrayed, Then the Witness|First the Betrayed, Then the Witness]] — inland prison and quarry districts; c. 100–292 AR; Underground; the reliquary c. 404 AR.
 - [[G-70 - The Empty Grave and the Two False Shrines|The Empty Grave and the Two False Shrines]] — inland prison and quarry districts; c. 272–338 AR; Underground into Legalization.
 
 ## The Conversion of the Empire
 
 - [[G-11 - The Children of the Closed Temple|The Children of the Closed Temple]] — inland provincial Atherian cities; c. 230–398 AR; Underground to Conversion.
-- [[G-25 - The Ragged Gospel in the Hospital Apron|The Ragged Gospel in the Hospital Apron]] — inland provincial Atherian cities; c. 330–382 AR.
+- [[G-25 - The Ragged Gospel in the Hospital Apron|The Ragged Gospel in the Hospital Apron]] — inland provincial Atherian cities; c. 330–389 AR.
 - [[G-40 - The Shelter That Outlived Its Heir|The Shelter That Outlived Its Heir]] — inland provincial Atherian cities; c. 230–398 AR; Underground to Conversion.
 - [[G-41 - The Silence Kept for Five|The Silence Kept for Five]] — inland provincial Atherian cities; c. 230–398 AR; Underground to Conversion.
 - [[G-75 - The Empty Oar of the Winter Tithe|The Empty Oar of the Winter Tithe]] — western Kedravan fishing coast before Saltborn ethnogenesis; c. 230–310 AR.
@@ -107,7 +107,7 @@ Two public surveys gather the strange and the holy across many tales and ages. E
 - [[G-43 - The Cart That Turned Back|The Cart That Turned Back]] — Atherian–Covenant frontier districts; 612–884 AR; Long Frontier.
 - [[G-44 - Three Roads for One Cry|Three Roads for One Cry]] — Atherian–Covenant frontier districts; 612–884 AR; Long Frontier.
 - [[G-45 - The Two Songs at the Wall|The Two Songs at the Wall]] — Atherian–Covenant frontier districts; 612–884 AR; Long Frontier.
-- [[G-46 - The Child Who Owed No Wound|The Child Who Owed No Wound]] — Atherian–Covenant frontier districts; 612–884 AR; Long Frontier.
+- [[G-46 - The Child Who Owed No Wound|The Child Who Owed No Wound]] — Atherian–Covenant frontier districts; 612–884 AR; Long Frontier; the door, 907 AR.
 
 ## The Fall and the Long Reconquest
 
@@ -126,7 +126,7 @@ Two public surveys gather the strange and the holy across many tales and ages. E
 
 ## High Noon and the Qarath Disaster
 
-- [[G-16 - The Forty-First Ferry|The Forty-First Ferry]] — successor-imperial towns and provincial districts; 1232–1247 AR.
+- [[G-16 - The Forty-First Ferry|The Forty-First Ferry]] — successor-imperial towns and provincial districts; 1232–1247 AR; the salvaged crown, 1251–1263 AR.
 - [[G-22 - The Three Nights While Years Passed|The Three Nights While Years Passed]] — successor-imperial towns and provincial districts; 1232–1247 AR with unequal elapsed time in refuge.
 - [[G-37 - The Feast Followed by Ashen Names|The Feast Followed by Ashen Names]] — successor-imperial towns and provincial districts; c. 1087–1146 AR.
 - [[G-48 - The Threshing Floor beyond the Count|The Threshing Floor beyond the Count]] — Elenara, with the threshing floor at Kremna; c. 1171–1173 AR; High Noon.

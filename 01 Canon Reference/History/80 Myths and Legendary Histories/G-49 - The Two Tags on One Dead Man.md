@@ -16,7 +16,7 @@ aliases: ["The Two Tags on One Dead Man"]
 ---
 # The Two Tags on One Dead Man
 
-> **Stories told.** This is an unfinished 1360 tradition. Current rumours and the observable practice are established; no future discovery, victory, judgement or fate is implied.
+> **Stories told.** This tale is still happening in 1360. The rumours and the custom below are real; how it ends, nobody yet knows.
 
 ## Historical setting
 
@@ -44,21 +44,15 @@ The clever swap first appears to save a family, then acquires the weight of a ne
 
 ## How tellers differ
 
-One household calls the dead worker a willing rescuer. His sister's descendants say he was too ill to consent freely. The washer's grandchildren call the winged figure his guardian angel, keeping faith with a man nobody else kept; the broker's agents call it a grieving woman's dream, and others a bird that got in through the laundry. Workhouse records record only one name and therefore settle nothing.
+One household calls the dead worker a willing rescuer. His sister's descendants say he was too ill to consent freely. The washer's grandchildren call the winged figure his guardian angel, keeping faith with a man nobody else kept; the broker's agents call it a grieving woman's dream, and others a bird that got in through the laundry. The workhouse register keeps only one name and therefore settles nothing.
 
 ## What remains
 
 Two neck tags remain fused by funeral wax. Scraping them apart may destroy both inscriptions.
 
-## History and belief
-
-The tale stops at the present.
-
 ## Read onward
 
-- [[Present-Day Political Board]]
-- [[Saints and Sinners of the Chronicles]]
-
 - [[The Age of Held Proofs]]
-- [[Myths and Legendary Histories MOC]]
-- [[World Historical Atlas MOC]]
+- [[Saints and Sinners of the Chronicles]]
+- [[Legendary Histories]]
+- [[The Ages of the World]]

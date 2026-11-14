@@ -34,7 +34,7 @@ The properties-driven register is embedded below; the prose entries preserve use
 - **A Sermon of Aqid Qalim ibn Haraz** — *propaganda* in the technical sense: sincere Covenant homiletics; invaluable for how the Unsealing is remembered, useless for how it happened.
 - **The Eclessian Account** — *propaganda.* The Sanctum's official memory: the fall as Thalmyric failure, the Split as Thalmyric pride.
 - **The Thalmyric Account** — *propaganda.* The Patriarchate's official memory: the fall as Eclessian betrayal, the Split as Thalmyric fidelity. Its collective language about Jirahar guilt and claim that the exiles founded the Ahl-e-Ahd are confessional errors, not authorial facts.
-- **The Sestaran Account** — *disputed, and often nearly honest*, because Sestara profits from accuracy; it is cynical about everyone equally, which is its own distortion. Its account compresses the 70 AR destruction and Vestian persecutions and repeats the false Jirahar-origin theory of the Covenant.
+- **The Sestaran Account** — *disputed, and often nearly honest*, because Sestara profits from accuracy; it is cynical about everyone equally, which is its own distortion. Its account compresses the 65 AR destruction and Vestian persecutions and repeats the false Jirahar-origin theory of the Covenant.
 - **Caedros and the Birth of Thalmyria** — *disputed.* Founding narrative with hagiographic pressure; the Valley Ambush details check out, the omens do not have to.
 - **Codex of the Era of Blood and Ash** — *propaganda* in the technical sense: an Eclessian devotional compilation of the 1190s AR, reliable for the twelfth-century feast calendar and unreliable for the Underground. Its Years of the Ember cannot be converted to AR. It omits informers and recanters, makes Velmion the founder of the White Flame Doctrine and invents a pommel of Calira's at Ironvale. (Still filed with the Redeemer and Conversion articles; see [[Codex of The Era of Blood and Ash]].)
 - **World History (.md/.pdf)** — *apocryphal-synthesis.* An older compiled draft; its single tower-destruction sequence is superseded by [[Historical Spine of the Jirahar]] and the AR chronology.
@@ -51,6 +51,7 @@ The properties-driven register is embedded below; the prose entries preserve use
 - **The Hundred Grievances** — *reliable as document*, incendiary as theology.
 - **The Mirror for Sovereigns** — *reliable about everything small* (per its own censor).
 - **The Bir Qassim Safe-Conduct** — *reliable*; the most damning documents are the authentic ones.
+- **The Traveller's Reckoning of the Known World** — *disputed*, and openly partisan. Ugo Tessarin, a Sermoran chartmaker writing in 1360 AR, is dependable on roads, tolls, debts and recent politics and wrong in a merchant's way about oaths, wonders and peoples; the Thalmyric marginalia of Akakios of Kolonna correct several of his errors and add their own bias. The deliberate errors are listed in the article's author-only note.
 - **Mono-Myth Overview** (01/Prehistory) — *apocryphal-synthesis, partially true*; see its authorial preface for the hybrid ruling.
 
 ## Navigation

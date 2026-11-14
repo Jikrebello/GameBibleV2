@@ -39,7 +39,7 @@ Folk and Tarkhan exchange animals, metal, guides, medicines, and feud stories at
 
 ## Abroad
 
-Tarkhan beyond the dry belt appear as hired cavalry, caravan guards, falconers, slaves, gladiators, scouts, traders, hostages, and exiles. Their legal status matters more than outsiders' assumption that every rider represents a Horde. Foreign buyers pay most for a horse with a wind-speaker's genealogy, and least attention to the fact that every genealogy now shows the grace thinning.
+Tarkhan beyond the dry belt appear as hired cavalry, caravan guards, falconers, slaves, gladiators, scouts, traders, hostages, and exiles. Their legal status matters more than outsiders' assumption that every rider represents a Horde. Foreign buyers pay most for a horse with a wind-speaker's genealogy and rarely read what every genealogy now shows: the grace thinning.
 
 ## Navigation
 

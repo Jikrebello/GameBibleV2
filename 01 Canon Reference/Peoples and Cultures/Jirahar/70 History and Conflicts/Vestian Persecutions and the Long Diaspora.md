@@ -3,7 +3,7 @@ type: event
 status: canon
 canon_level: core
 visibility: public
-era: ["Atherian Imperial Age"]
+era: ["377–398 AR"]
 region: ["Atherian Empire", "Jirahar Diaspora"]
 culture: ["Jirahar", "Atherian"]
 related_factions: ["Emperor Vestian", "Converted Atherian Church"]
@@ -17,7 +17,7 @@ The Vestian persecutions of 377–398 AR turned intermittent hostility towards t
 
 ## Before Vestian
 
-The destruction of 70 AR had ended Qiryath's charter government and driven many displaced families beyond direct Atherian rule. Older diaspora communities received them. Other Jirahar remained in imperial towns, surviving towers and the diminished settlement at Qiryath. During the Underground Centuries, Jirahar and Redeemer congregations sometimes sheltered one another and sometimes denounced one another. Local violence existed, and imperial policy remained inconsistent.
+The destruction of 65 AR had ended Qiryath's charter government and driven many displaced families beyond direct Atherian rule. Older diaspora communities received them. Other Jirahar remained in imperial towns, surviving towers and the diminished settlement at Qiryath. During the Underground Centuries, Jirahar and Redeemer congregations sometimes sheltered one another and sometimes denounced one another. Local violence existed, and imperial policy remained inconsistent.
 
 Some Redeemer congregations were themselves largely of Jirahar descent, especially in Sermora's harbours and the gateway ports such as Qabir. Their families had joined the faith under the first Qiryath agreement and kept their mothers' registers beside their baptism rolls. Several still prayed in the Jirahar dialect.
 
@@ -33,15 +33,15 @@ The court needed a culprit, and found two. Its preachers blamed Star images hidd
 
 ## Raveth
 
-When the bishops' courts refused to hear sworn accounts of the unkindled professions, baptised families of Jirahar descent lodged copies in the Jirahar hearing house at Raveth. Its clerks witnessed each delivery and kept the copies beside the town's leases and debt records. One account followed a single lamp that burned yellow at a compulsory profession and kindled weeks later at a willing baptism in the same parish. Another set the baptismal rolls beside the governor's summonses, showing families searched as suspect after their professions had been accepted.
+When the bishops' courts refused to hear sworn accounts of the unkindled professions, baptised families of Jirahar descent lodged copies in the Jirahar hearing house at Raveth. Its clerks took each account in before witnesses and shelved it beside the town's leases and debt records. One account followed a single lamp that burned yellow at a compulsory profession and kindled weeks later at a willing baptism in the same parish. Another set the baptismal rolls beside the governor's summonses, showing families searched as suspect after their professions had been accepted.
 
-About 389 a crowd burned the hearing house. Some of the crowd wanted their rent and debt records gone; the clergy who rallied it wanted the sworn accounts destroyed. The governor ordered an inquiry and compensation, and Jirahar leaseholders brought receipts and duplicate entries from neighbouring courts. Allied bishops at Caleran argued that rebuilding the house would restore a rival record of the Profession. Vestian withdrew the rebuilding order and let the inquiry lapse. Displaced clerks carried the surviving copies along the routes they used for marriage records and appeals, and some reached Qabir. [[The Conversion of the Empire]] · [[Amaryah the Fire-Bearer]]
+About 389 a crowd burned the hearing house. Some of the crowd wanted their rent and debt records gone; the clergy who rallied it wanted the sworn accounts destroyed. The governor promised an inquiry and compensation, and Jirahar leaseholders walked in from the villages with whatever receipts the fire had spared. Allied bishops at Caleran argued that rebuilding the house would restore a rival record of the Profession. Vestian withdrew the rebuilding order and let the inquiry lapse. The clerks carried what survived along the roads they used for marriage contracts and appeals, and some of it reached Qabir. [[The Conversion of the Empire]] · [[Amaryah the Fire-Bearer]]
 
 ## From Riot to Policy
 
-After the Redeemer's faith gained imperial power, theologians and courtiers had turned the role of Ezrahel's council into inherited accusation. Property desire, debt cancellation, prophecy panic and religious zeal converged. Vestian's reign transformed those pressures into coordinated restrictions, confiscation, expulsion and destruction.
+Once the Redeemer's faith had imperial power, theologians and courtiers had turned the deed of Ezrahel's council into an inherited accusation. Under Vestian it met other appetites: neighbours who wanted tower fields, debtors who wanted their debts burned, and preachers who thought the Redeemer's return was near and wanted the empire clean for it. His reign turned all of them into policy.
 
-From about 388 his court reviewed the charters of the eastern towers and gave governors wide discretion to refuse renewal. A community had to admit inspectors and surrender much of its own jurisdiction to keep its charter, and a refusal or a lapse gave officers grounds to seize its common property. The treasury took tower stores for the garrisons, neighbours took fields, and some church foundations received rents. How much was taken depended on local alliances, exemptions and the willingness of provincial officers to honour older protections. Between about 388 and 396 most surviving eastern towers were seized or razed. Children, scrolls, tools and the dead moved by mule and boat along road and sea routes built long before the crisis. Enslaved people and dependants held against debts were among those least able to leave.
+From about 388 his court called in the charters of the eastern towers and let governors refuse to renew them. A tower that wanted to keep its charter had to open its doors to inspectors and give up most of its own courts, and a tower that refused, or missed a date, lost its common property to the officers. The treasury took tower stores for the garrisons, neighbours took fields, and some church foundations received rents. How much was taken depended on local alliances, exemptions and the willingness of provincial officers to honour older protections. Between about 388 and 396 most surviving eastern towers were seized or razed. Children, scrolls, tools and the dead moved by mule and boat along road and sea routes built long before the crisis. Enslaved people and dependants held against debts were among those least able to leave.
 
 ## The Empty Charter
 
@@ -51,7 +51,7 @@ The chancery's draft forbade habitation and rebuilding "in perpetuity". Vestian 
 
 ## The Long Diaspora
 
-Refugees established or enlarged tower communities, host-city quarters, Sea Fleets and Turning Companies. Some households secured safe conduct to Vashar or the independent dry-margin towns through kin who had left after 70 AR. Others entered port quarters or remained under local protections within the empire. A few departures used fixed Way-Gates with the agreement of the receiving community; Qiryath's gate stayed shut. Hosts needed copies of maternal descent, leases and burial claims to know whom they owed shelter or could admit to their courts. Charters became central political instruments. Maternal registers protected identity across separated households, while conversion courts prevented the covenant from becoming entirely closed by ancestry.
+Refugees established or enlarged tower communities, host-city quarters, Sea Fleets and Turning Companies. Some households secured safe conduct to Vashar or the independent dry-margin towns through kin who had left after 65 AR. Others entered port quarters or remained under local protections within the empire. A few departures used fixed Way-Gates with the agreement of the receiving community; Qiryath's gate stayed shut. A host community needed to know whom it owed shelter, so refugees carried their mothers' lines, their leases and their burial rights written out. Charters became the stuff of diaspora politics. The mothers' registers held scattered households together as one people, and the conversion courts kept that people open to newcomers by choice as well as by birth.
 
 ## Inherited Wound
 
@@ -61,4 +61,5 @@ Church cultures remember the Jirahar through Isfir, suspicion, and collective bl
 
 - [[01 Canon Reference/Peoples and Cultures/Eclessia/70 History and Conflicts/Eclessia During the Invasion.md|Eclessia During the Invasion]]
 - [[Jirahar and the Wider World]]
-- [[Reliability Register]]
+- [[Great Tower Revolt and the Second Destruction]]
+- [[The Conversion of the Empire]]

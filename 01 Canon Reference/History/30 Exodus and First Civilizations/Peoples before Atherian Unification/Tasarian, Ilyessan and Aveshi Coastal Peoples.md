@@ -14,7 +14,7 @@ tags: [world-historical-atlas, package-b, eastern-sea]
 ---
 # Tasarian, Ilyessan and Aveshi Coastal Peoples
 
-Tasar, Ilyessa and Avesh were independent port societies on the eastern sea. Their populations combined older coastal communities with Atherian-speaking settlers, inland migrants, freed captives, enslaved workers and military households established by successive powers. No common ancient ethnonym joined the whole coast.
+Tasar and Ilyessa were independent port societies on the eastern sea, and Avesh the market and road city behind them, with its lower town reaching towards the coast. Their populations combined older coastal communities with Atherian-speaking settlers, inland migrants, freed captives, enslaved workers and military households established by successive powers. No common ancient ethnonym joined the whole coast.
 
 ## Civic belonging
 

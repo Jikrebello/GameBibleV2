@@ -35,7 +35,7 @@ His own audits told him by 1288 that the Houses sang perhaps one rite in ten of 
 
 **Ansgar of Brenholt** (1264–1305) was a marches friar and a lecturer on the doctrine of the Vestibule, a miner's son from the iron country of the upper Weiss. When he was seven, Saint Gerlind had come to Brenholt and sung his father's name after a collapse at the mine-head. In 1296 he set the letters sold in Brenholt parish against the rites its Sending House had actually sung, and found more than ten letters for every rite. He then counted the dead still seen at the mine-heads and the ford and found them among the unsung names. His friars sang those names themselves. The walking stopped, and several of them swore that a woman's voice joined the hymn.
 
-In the autumn of 1297 he nailed the *[[The Hundred Grievances — Selections|Hundred Grievances]]* to the chapel door at Brenholt. *"No seal of wax weighs anything at the Weighing. You have sold the poor a bridge that is not yours."* The Grievances read as an audit as much as a sermon, and they named the dead Alessior eleven times. The Hundredth ended with a challenge: *prove me wrong with Fire, fathers, and not with fees.*
+In the autumn of 1297 he nailed the *[[The Hundred Grievances — Selections|Hundred Grievances]]* to the chapel door at Brenholt, over the Sending House's printed table of rates. *"No seal of wax weighs anything at the Weighing. You have sold the poor a bridge that is not yours."* The Grievances read as an audit as much as a sermon, and they named the dead Alessior eleven times. The Hundredth ended with a challenge: *prove me wrong with Fire, fathers, and not with fees.*
 
 ## Aldersbruck
 
@@ -67,9 +67,9 @@ Lord Primarch **Celestin IX** (r. 1330–1354) convened the **Council of Veridan
 
 The Council also rebuilt seminary education and codified the **five tests** of sainthood, drafted around Sarnwell. Veridun noticed that none of the five can be applied to a saint who left no remains, which rules out Caedros I. The reform kept the old Church standing and did not restore its credit with the people who had bought the letters.
 
-## Goods and harms
+## What it left
 
-Freeflame reform exposed a real fraud against the dead, taught villages to read, disciplined corrupt clergy and gave congregations responsibility for their own. It also let princes seize Church lands, produced communities whose rigour became cruelty, broke images and the people who kept them, and taught believers to treat every inherited practice as corruption. Old-Church writers point out that the Freeflame's own most famous object is a river and its most famous saint is a woman they forbid anyone to pray to; Freeflame writers answer that the Sanctum's most famous object is a book it says it does not have.
+Freeflame reform found a real fraud against the dead and made villages sing their own Sendings again. Its congregations taught farm children to read the Grievances aloud and disciplined corrupt clergy in front of them. It also let Rainald and his neighbours strip Church estates they had wanted for generations, broke the Mother's images and the people who kept them, and raised children who called every grandmother's custom a corruption. Old-Church writers point out that the Freeflame's own most famous object is a river and its most famous saint is a woman they forbid anyone to pray to; Freeflame writers answer that the Sanctum's most famous object is a book it says it does not have.
 
 ## The frozen settlement
 
@@ -86,12 +86,11 @@ The [[The Korrheim Accord|Korrheim Accord]] of 1343, sworn on the Preacher's Wat
 
 ## Navigation
 
-- [[Timeline MOC]]
+- [[The Ages of the World]]
 - [[The Hundred Grievances — Selections]]
 - [[The Korrheim Accord]]
 - [[01 Canon Reference/Peoples and Cultures/Eclessia/Eclessia Overview.md|Eclessia Overview]]
 - [[01 Canon Reference/Peoples and Cultures/Eclessia/20 Faith and Worldview/Eclessian Church Overview.md|Eclessian Church Overview]]
 - [[The Hollow Flame Cult]]
-- [[Chronology of the Known World (AR Dating)]]
 - [[01 Canon Reference/History/70 Later History and Present Day/The Grey Sweat.md|The Grey Sweat]]
 - [[The Age of Held Proofs]]

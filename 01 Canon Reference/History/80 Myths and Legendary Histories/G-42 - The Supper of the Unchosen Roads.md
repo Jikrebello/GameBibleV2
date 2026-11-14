@@ -28,7 +28,7 @@ On the eve of a siege, an old traveller with seven small birds riding his staff 
 
 The commander selected the night assault. He believed speed would save his starving army. Soldiers entered the river quarter, set warehouses alight and found prisoners chained inside. Surrendering defenders were killed in the confusion and then deliberately killed so nobody could testify that they had yielded. The tally stone was smashed, and the captives who lived walked out free of the clause. The city fell; many captives and inhabitants burned in the river quarter.
 
-After victory, officers claimed the old traveller had commanded the chosen road. The traveller appeared at the victory supper and placed six untouched pieces of bread before them. “You had roads,” he said. The commander struck him and ordered his expulsion. The stranger's identity became the least important part of the account: Saint, angel, spy, conscience or invention, the alternatives had been understood.
+After victory, officers claimed the old traveller had commanded the chosen road. The traveller appeared at the victory supper and placed six untouched pieces of bread before them. “You had roads,” he said. The commander struck him and ordered his expulsion. The stranger's identity became the least important part of the account: saint, angel, spy, conscience or invention, the alternatives had been understood.
 
 Survivors repeated the supper, letting children rearrange the bread and argue what each choice might have cost. The blackened seventh piece is never eaten.
 
@@ -48,10 +48,8 @@ Seven pieces of bread are laid at a command supper. One is blackened, and the ch
 
 ## Read onward
 
-- [[Towns and Wars of the Long Frontier]]
+- [[The Long Frontier and the First Unsealing]]
 - [[Historical Atlas of the Velians]]
 - [[Saints and Sinners of the Chronicles]]
-
-- [[The Long Frontier and the First Unsealing]]
-- [[Myths and Legendary Histories MOC]]
-- [[World Historical Atlas MOC]]
+- [[Legendary Histories]]
+- [[The Ages of the World]]

@@ -50,13 +50,13 @@ The difference became political before it became schism.
 
 ## Toward Adalmar
 
-Between 908 and 975 AR, emergency lordships hardened into principalities. None could claim to be the whole empire. Adalmar's achievement was to conquer and marry these existing powers into a crown. When a Primarch crowned him in 1002, much of the east read it as the old episcopal trust over oaths made visible, and Veridun read it as usurpation.
+Between 908 and 975 AR, emergency lordships hardened into principalities, and none could claim to be the whole empire. Grass-Tarkhan riders on the scattered imperial horse raided their roads. In 974 a march banner taken up by the miller's widow Hedwen kindled at Kaltfurt while she shielded a refugee column from one such raid, and the commander watching from the far bank, Adalmar, was acclaimed king of the eastern marches the next year. He conquered and married the principalities into a crown. When a Primarch crowned him in 1002, much of the east read it as the old episcopal trust over oaths made visible, and Veridun read it as usurpation.
 
 ## Navigation
 
 - [[The Rise of the Eclessian Duchies and Kingdoms]]
 - [[01 Canon Reference/Peoples and Cultures/Eclessia/20 Faith and Worldview/The Consolidation of the Eclessian Church.md|The Consolidation of the Eclessian Church]]
-- [[Chronology of the Known World (AR Dating)]]
+- [[The Fall and the Long Reconquest]]
 - [[01 Canon Reference/Peoples and Cultures/Eclessia/Eclessia Overview.md|Eclessia Overview]]
 - [[The Battle of the Shattered Engines (907 AR)]]
 - [[The Long Frontier and the First Unsealing]]

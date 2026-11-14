@@ -44,14 +44,12 @@ Military songs claim the second shot saved thousands. Refuge songs recite the kn
 
 ## What remains
 
-Duty-marked tools sometimes answer a particular obligation with a faint tone. They never ring in unison and cannot call, contain or command their maker.
+Duty-marked tools sometimes answer a particular obligation with a faint tone. They never ring in unison, and no collector has ever made one call its maker back.
 
 ## Read onward
 
-- [[Towns and Wars of the Long Frontier]]
+- [[The Long Frontier and the First Unsealing]]
 - [[Historical Atlas of the Velians]]
 - [[Saints and Sinners of the Chronicles]]
-
-- [[The Long Frontier and the First Unsealing]]
-- [[Myths and Legendary Histories MOC]]
-- [[World Historical Atlas MOC]]
+- [[Legendary Histories]]
+- [[The Ages of the World]]

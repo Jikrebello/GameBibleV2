@@ -61,7 +61,6 @@ One surviving milestone was prepared but never dedicated. Elsewhere the road's s
 - [[Historical Atlas of Atheria]]
 - [[Peoples of the Ancient Aurin]]
 - [[Historical Spine of the Jirahar]]
-
 - [[Age of Stars]]
-- [[Myths and Legendary Histories MOC]]
-- [[World Historical Atlas MOC]]
+- [[Legendary Histories]]
+- [[The Ages of the World]]

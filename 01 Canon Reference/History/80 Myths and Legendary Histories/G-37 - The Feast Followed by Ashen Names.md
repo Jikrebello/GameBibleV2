@@ -53,7 +53,6 @@ Bright liberation bread is eaten publicly. The next morning, black bread made wi
 - [[High Noon Provinces and the Qarath Aftermath]]
 - [[Historical Spine of the Sestaran Concord]]
 - [[Saints and Sinners of the Chronicles]]
-
 - [[High Noon and the Qarath Disaster]]
-- [[Myths and Legendary Histories MOC]]
-- [[World Historical Atlas MOC]]
+- [[Legendary Histories]]
+- [[The Ages of the World]]

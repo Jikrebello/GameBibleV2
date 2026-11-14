@@ -50,7 +50,6 @@ The hospital wall contains stones with two household marks, one scraped from the
 
 - [[Historical Atlas of Thalmyria]]
 - [[Historical Atlas of Eclessia]]
-
 - [[The Fall and the Long Reconquest]]
-- [[Myths and Legendary Histories MOC]]
-- [[World Historical Atlas MOC]]
+- [[Legendary Histories]]
+- [[The Ages of the World]]

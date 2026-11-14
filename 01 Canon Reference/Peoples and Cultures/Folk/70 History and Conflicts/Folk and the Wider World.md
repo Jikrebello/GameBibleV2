@@ -13,7 +13,7 @@ tags: []
 ---
 # Folk and the Wider World
 
-The Folk lands are connected to the wider world by rivers, coastal routes, markets, migration and war. Their neighbours encounter them as trading leagues, mercenary companies, rural kindreds, converted congregations and independent frontier powers. Eclessian settlement, Sestaran commerce, Jirahar road-work, Tarkhan movement and Ättar kinship each create different alliances and injuries, while the long struggle with the Grobi places unusual demands on the northern and eastern clans.
+The Folk lands are connected to the wider world by rivers, coastal routes, markets, migration and war. Their neighbours encounter them as trading leagues, mercenary companies, rural kindreds, converted congregations and independent frontier powers. Eclessian settlement, Sestaran commerce, Jirahar road-work, Tarkhan movement and Ättar kinship each create different alliances and injuries, while the long struggle with the Grobi falls hardest on the southern clans, who meet each hard winter's northward push first.
 
 ## Eclessia
 

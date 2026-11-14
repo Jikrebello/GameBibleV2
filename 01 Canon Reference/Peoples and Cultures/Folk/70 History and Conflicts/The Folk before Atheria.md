@@ -16,7 +16,7 @@ tags: [world-historical-atlas, ancient-world, folk]
 # The Folk before Atheria — Rivers, Forests and Upland Gords
 
 
-The ancient Folk were related peoples of the southern forests, coasts, river valleys and mountain approaches. They did not possess one founding ruler, common capital or ancestral kingdom. Their oldest recoverable communities included settled southern populations, human subjects of several Giant states, fugitives, fishing and hunting households, rebels and people displaced from [[Nhaldur and the First Rewriting|Nhaldur]]. The Nhalduran refugees included genuine lesser Giants and giant-blooded human prisoners from southern cold-country courts. Later captives, spouses, fosterlings, traders and proto-Atherian settlers added further ancestry.
+The ancient Folk were related peoples of the southern forests, coasts, river valleys and mountain approaches. They did not possess one founding ruler, common capital or ancestral kingdom. Their oldest recoverable communities included settled southern populations, human subjects of several Giant states, fugitives, fishing and hunting households, rebels and people displaced from [[Historical Atlas of the Southern Cold World|Nhaldur]]. The Nhalduran refugees included genuine lesser Giants and giant-blooded human prisoners from southern cold-country courts. Later captives, spouses, fosterlings, traders and proto-Atherian settlers added further ancestry.
 
 Modern scholarship reconstructs a **Fäskogarfolk** language-and-custom continuum from related speech, hearth law, winter obligations and material practice.
 
@@ -126,7 +126,7 @@ The **Vezhari** occupied cold shores reached by eastern rivers. They fished, bui
 
 ### The Deep Voice
 
-Eastern workers developed [[The Deep Voice|the Deep Voice]] from the command galleries of Veyrun. Odrani and Kreseni schools aligned breath, meaningful language, stance and the resonance of air, earth and built chambers. Masters served villages, gords and princes as warning callers, engineers, messengers and weapons.
+Eastern workers developed the Deep Voice from the command galleries of Veyrun. Odrani and Kreseni schools aligned breath, meaningful language, stance and the resonance of air, earth and built chambers. Masters served villages, gords and princes as warning callers, engineers, messengers and weapons.
 
 The art reached its military height during the War of Seven Gords, c. 1180–1160 BR. After the later disaster at Dramovar, Sarvek the Listener withdrew to the high Gale-Crown slopes and founded the Quiet Measure, a small order of mountain druids devoted to Zephyraxis. The order joined restraint and close terrain knowledge to prayer, but it remained a fringe tradition. Martial houses continued. Ability came through training, and people from other communities could learn if a school received them.
 
@@ -193,8 +193,6 @@ Belathi songs remembered sovereignty, hospitality and difficult foster ties. Har
 ## Navigation
 
 - [[Historical Atlas of the Southern Cold World]]
-- [[Nhaldur and the First Rewriting|Nhaldur]]
-- [[The Deep Voice]]
 - [[01 Canon Reference/Peoples and Cultures/Ättar/70 History and Conflicts/The Ättar before the Great Keel-Taking.md|The Ättar before the Great Keel-Taking]]
 - [[Early Folk Clan Worlds]]
 - [[The Making of the Folk]]

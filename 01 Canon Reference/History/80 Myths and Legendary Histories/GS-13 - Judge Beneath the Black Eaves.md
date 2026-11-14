@@ -43,7 +43,7 @@ Perfect prophet, mad judge, Sinner, murdered reformer, crown-bound ghost or seve
 
 ## What remains unknown
 
-The private name, town, vision source, assassin, office, crown status and present cult.
+The private name, vision source, assassin, office, crown status and present cult.
 
 ## Read onward
 

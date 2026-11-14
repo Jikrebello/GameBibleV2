@@ -168,5 +168,4 @@ The White Measure survived as a wealthy minority discipline and an initiatory se
 - [[Eryndor III and the Ortheian Eastern Conquest]]
 - [[Wars of the Inheritance]]
 - [[The Qahuri]]
-- [[The Serpent Kingdom of Ishkatar]]
 - [[The Gateway Republic]]

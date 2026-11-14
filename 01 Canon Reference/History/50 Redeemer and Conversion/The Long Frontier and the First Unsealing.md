@@ -3,7 +3,7 @@ type: history
 status: canon
 canon_level: core
 visibility: public
-era: ["400–905 AR"]
+era: ["398–905 AR"]
 region: [Known World]
 culture: []
 related_factions: []
@@ -33,7 +33,7 @@ Wary of the marches that had made them, the later Corvenids built a counterweigh
 
 ## The Guttering
 
-From Vestian's death onward Caleran's rites failed in plain sight. The accession relics that had wept oil at Vestian's crowning stayed dry at his son's. The palace choir sang the battle hymns over the army that marched out in 447, and the lamps on the altar burned yellow. Year after year the great feasts in the cathedral of the Celestial Forum passed without a kindling. In the passes and the frontier hospitals the old signs went on: a hermit's lamp took the white fire over a dying shepherd, a keeper of the sick kindled at a deathbed, and the lay brothers at the remount studs sang over their foals as they always had. Those foals' descendants are the horses the Tarkhan now price above provinces.
+The reception lamps of Vestian's Profession had already burned yellow in the town squares in 385. After his death the palace's own rites followed them, in plain sight. The accession relics that had wept oil at Vestian's crowning stayed dry at his son's. The palace choir sang the battle hymns over the army that marched out in 447, and the lamps on the altar burned yellow. Year after year the great feasts in the cathedral of the Celestial Forum passed without a kindling. In the passes and the frontier hospitals the old signs went on: a hermit's lamp took the white fire over a dying shepherd, a keeper of the sick kindled at a deathbed, and the lay brothers at the remount studs sang over their foals as they always had. Those foals' descendants are the horses the Tarkhan now price above provinces.
 
 The court met the failure in three ways, one after another. First it hid it: the palace calendar entered failed rites as *postponed*, and in some years the postponements outnumbered the feasts. Then it hired: the Shell-fire cohorts of 447 became a permanent arm, licensed warlock fire became the imperial army's standard incendiary, and Ättar crews and Folk auxiliaries filled ranks the church-backed muster no longer filled. Then it faked. At the accession of Leovar II in 681 the lamp in the emperor's hands flared white before the whole cathedral, and Caleran rang its bells for a day. Two years later a Sestaran warlock, unpaid for eighteen months, sold a brass fire-cup and a written account of the night to a Covenant factor at Sermora. The Patriarch of Caleran called the cup a forgery and the account a slander. The factor's masters kept both. The scandal of **the Copper Lamp** began a file that Covenant jurists added to for two hundred years.
 
@@ -51,7 +51,7 @@ In the Basin, through the worst of the famine, the 4,444 bound devils of the Cov
 
 Vashar ended in the same years. Its inscriptions had repeated one promise in three languages for twelve centuries: the king keeps the roads. By 554 couriers on the Dawn Road found station after station with cold hearths, empty stalls and doors banging in the wind; the horses had been eaten and the keepers had walked home. Covenant preachers rode the empty road reading the old saying of Mazhara of Daryam back to the road commanders: a king's lie remains a lie when carved in three languages. In 555 Covenant jurists declared the last King at Dawn forsworn. Road commanders and subject rulers, many unpaid since the Toll War, sealed with the Covenant on terms that kept their estates and their horses. Among them were the horse-lords of **Ruzhan**, Vashar's high pasture country, who entered Covenant service as road and cavalry officers; Qahir ibn Ruzbeh would descend from one of their houses. A few highland valleys fought and were reduced by ordinary armies by 560. The last King at Dawn was pensioned at the oasis and died there.
 
-The Tarkhan of the [[Nine Wells of Tergai]] held their water by labour, burial and use, with nothing sealed that a jurist could void. In 558, the worst year of the drought, Covenant forces took the wells by force and killed those who held them. The later tradition of a First Submission covers a conquest that had none.
+The Tarkhan of the [[Nine Wells of Tergai]] held their water by labour, burial and use, with nothing sealed that a jurist could void. In 558, the worst year of a drought that held the dry country long after the Basin's floods came back, Covenant forces took the wells by force and killed those who held them. The later tradition of a First Submission covers a conquest that had none.
 
 ## The First Unsealing, 568–612
 
@@ -73,7 +73,7 @@ On the Velian road the conquest went on where the crusade could not reach. Bisho
 
 **Tamsar, 611.** In the autumn of 611 a Covenant army and its breach-court came before Tamsar, a march town on the Velian road whose charter a hermit-bishop had read before its people four years earlier while the Fire stood on the wax. The court read its ruling at the gate. The gates stayed shut, the garrison stayed on the walls, and the jurists' clerks were seen comparing papers. Two days later Leovar's relief army arrived with singers of the palace chapel and a reliquary from Caleran. The choir sang the battle hymn before both armies, and the reliquary's lamps burned yellow. That evening a Sealed-Blood jurist climbed onto a wagon in the Covenant camp and told the soldiers that their court sat under a seal nobody dared open. Neither commander gave battle. Each had watched his enemy's wonder fail and his own, and neither cared to learn which would fail next.
 
-In 612 the Banu Mizan brokered an instrument between Leovar I and Uthar's successor. Along the line neither side would serve, storm or re-seal the other's towns, and every disputed charter was held *neither void nor in force*. Atherians called it the Long Frontier Peace. Covenant law called it the Suspension.
+Both sides had reasons beyond Tamsar to stop. The Covenant's garrisons in the conquered north had to be fed from country the war had stripped bare, the Sealed-Blood families who mourned Bir Qassim were gathering across the western strait at Qazmarid, and the Banu Mizan wanted their new cities quiet. Leovar's bearers were going blind and his treasury could not pay the next campaign. In 612 the Banu Mizan brokered a peace between Leovar I and Uthar's successor. Along the line neither side would send its jurists to the other's gates, storm its towns or re-seal its charters, and every disputed charter was held *neither void nor in force*. Atherians called it the Long Frontier Peace. Covenant law called it the Suspension.
 
 ## The frontier as a country, 612–872
 
@@ -101,9 +101,9 @@ The frontier produced the age's most famous lives, and nearly all of them are re
 
 **The Bitter Reaper** (c. 676–735) carried corpses off an estate whose owners lived above the poison line, then led the workers up into the high houses and killed the overseers. His bitter cordial broke a deadly fever. His regime then made every household take repeated exposure rites so that nobody would depend on rich men's medicine again. Children were injured, some adults died, and those who refused lost their water and their burial. The Clerk of a Hundred Wells challenged his permanent quarantine. Frontier households still spill the cordial's first mouthful on the ground before they drink.
 
-**The Reader Behind the Sealed Door and the Smith of the Refuge Bell** (c. 714–804) were friends. The Reader found that a sealed passage was being approached from the far side and sent a warning by the one method that completed the route, stationing students who had withdrawn their consent as its receivers. The warning reached the authorities and opened the way, and custodians, nearby households and the students died holding back what came through. The Smith had once fired a heat weapon twice into a district where refugees had been driven, choosing to fire the second time, and spent the rest of a long life dismantling its copies, building evacuation bells and testifying against patrons. Three archives still keep sealed warnings unread.
+**The Reader Behind the Sealed Door and the Smith of the Refuge Bell** (c. 714–804) were friends. The Reader, an underpaid assistant at one of the frontier's sealed crossings between worlds, found that something was coming up to the seal from the far side. The only way to send the warning would open the road it warned against, because whoever received the message would bear what came back. He overruled the students who withdrew their consent and stationed them as receivers. The warning reached the authorities and the road opened, and custodians, nearby households and the students died holding back what came through. The Smith had once fired a heat weapon twice into a district where refugees had been driven, choosing to fire the second time, and spent the rest of a long life dismantling its copies, building evacuation bells and testifying against patrons. Three archives still keep sealed warnings unread.
 
-**The House of Divided Instruments** (c. 735–780) was a frontier hospital where an apprentice wound-dresser learned to treat travellers hurt on unstable routes, who woke with missing hours and wounds in the wrong places. He found that prisoners gave steadier results than patients, took condemned people and captured scouts from a military patron, kept them conscious through mutilating trials and killed assistants who tried to publish the casualty lists. Three incompatible lists survive. Some of his instruments are still used safely for diagnosis. The most dangerous of them was a range marker.
+**The House of Divided Instruments** (c. 735–780) was a frontier hospital where an apprentice wound-dresser learned to treat travellers hurt on unstable routes, who woke with missing hours and wounds in the wrong places. He found that prisoners gave steadier results than patients, took condemned people and captured scouts from a military patron, kept them conscious through mutilating trials and killed assistants who tried to publish the casualty lists. Three incompatible lists survive. Some of his instruments are still used safely for diagnosis.
 
 **The School of the Open Cinder** (c. 760–840) began as a real rescue, when a warlock engineer, a refugee guide, an indebted translator and a few smugglers opened an escape route through a siege. Buyers turned their craft into a trade in crossings. The school bought prisoners and debtors as test subjects and recorded who came back as a technical result. Frontier governors burned its teachers in public and bought its diagrams in private.
 
@@ -111,13 +111,13 @@ The frontier produced the age's most famous lives, and nearly all of them are re
 
 **The Rule of Five Closures** (c. 680–760) was the frontier's answer to its thin places. A mason, a well clerk, a Velian translator, two caravan scouts, a monastic watcher, a former raider and a physician wrote down what to close and in what order, after the first party sent to a thin place sealed a cellar with families still inside.
 
-**The Saint of Five Remembered Wings** (c. 781–826) was born to a client dynasty whose ruler held an inheritance compact with a power of Hell. The child refused a custody rite and was cut with five winglike scars across shoulders and side; servants helped the heir escape and were executed for it. Years later the exile came back with an armed household, killed the parent in person and murdered surrendered relatives and an unarmed ritual custodian. Then the victor refused the inherited office, confessed before the victims' households, gave up the throne and spent the rest of a life buying freedom, burial and land for the house's servants and child hostages. Some accepted; others went on calling the penitent a murderer. The Saint died defending an evacuation from former allies who wanted the dynasty back.
+**The Heir with Five Remembered Wings** (c. 781–826), whom devotees call a saint, was born to a client dynasty whose ruler held an inheritance compact with a power of Hell. The child refused a custody rite and was cut with five winglike scars across shoulders and side; servants helped the heir escape and were executed for it. Years later the exile came back with an armed household, killed the parent in person and murdered surrendered relatives and an unarmed ritual custodian. Then the victor refused the inherited office, confessed before the victims' households, gave up the throne and spent the rest of a life buying freedom, burial and land for the house's servants and child hostages. Some accepted; others went on calling the penitent a murderer. The Heir died defending an evacuation from former allies who wanted the dynasty back.
 
-Smaller histories fill in the rest: the old traveller with seven birds who read a hidden hostage clause to a relief force below a winter pass (c. 641); the secretive Hunter of the Shutwood; the Smith Who Broke His Hands; the commander who held a voluntary wall so that a water-city could live (c. 752); a Zanthiri-facing port that traded neutrality for coerced witness and replacement captives; a furnace refuge that turned shelter into hereditary maintenance debt until revolt burned much of it; a translation company whose elegant edition left out a warning and injured its readers; and the Physician and the Interpreter, whose friendship outlasted the patient they harmed together. [[Patron Cities and the Long Rent Histories]] and [[Constructed Shell Settlements]] describe the stranger towns among them. Most physicians, translators and caravan guards of the frontier lived important lives without entering any of these stories.
+Smaller histories fill in the rest: the old traveller with seven birds who read a hidden hostage clause to a relief force below a winter pass (c. 641); the secretive Hunter of the Shutwood; the Smith Who Broke His Hands; the commander who held a voluntary wall so that a water-city could live (c. 752); a Zanthiri-facing port that traded neutrality for coerced witness and replacement captives; a furnace refuge that turned shelter into hereditary maintenance debt until revolt burned much of it; a translation company whose elegant edition left out a warning and injured its readers; and the Physician and the Interpreter, whose friendship outlasted the patient they harmed together. [[Towns and Wars of the Long Frontier]] follows the towns, wells and hospitals they came from.
 
 ## The late frontier, 800–872
 
-In the ninth century the Sealing Office made the accession rites routine. Court clergy re-sealed each new emperor's charters, and when nothing came a warlock finished the work. Covenant breach-assessors quietly added each case to the file that had begun with the Copper Lamp. Across the line, power in the Banu Mizan lands passed from the house's scholars to its military households.
+In the ninth century the Sealing Office made the accession rites routine. Court clergy re-sealed each new emperor's charters behind the gallery screens of the cathedral, and Covenant breach-assessors, who paid well for gallery gossip, claimed that whenever nothing came a warlock finished the work. They added each case to the file that had begun with the Copper Lamp. Across the line, power in the Banu Mizan lands passed from the house's scholars to its military households.
 
 **The river marches in the 860s.** In the 860s floods and raiders drove the garrisons of the river marches back from the lower fords, and two rescues of those retreats are remembered together because they ended so differently.
 
@@ -159,7 +159,7 @@ Thalmyria remembers the Guttering and draws the lessons of its refuge from it: t
 
 - [[The Velian Church]]
 - [[The Disputed Fourth Seal]]
-- [[The Fourth Seal - Authorial Truth]]
+- [[Towns and Wars of the Long Frontier]]
 - [[Prelude to Collapse]]
 - [[The Invasion and the Fall]]
 - [[Eclessia During the Invasion]]
@@ -184,8 +184,4 @@ Thalmyria remembers the Guttering and draws the lessons of its refuge from it: t
 - [[G-45 - The Two Songs at the Wall|The Two Songs at the Wall]]
 - [[G-46 - The Child Who Owed No Wound|The Child Who Owed No Wound]]
 
-Smaller local histories and restored reserve leads: [[Additional Mortal Lives and Frontier Traditions]].
-
 Lives of the age's great saints and sinners as the chronicles tell them: [[Saints and Sinners of the Chronicles]].
-
-Further civil history: [[Towns and Wars of the Long Frontier]].

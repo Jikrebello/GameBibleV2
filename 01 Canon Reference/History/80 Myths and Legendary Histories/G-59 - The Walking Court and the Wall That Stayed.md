@@ -48,11 +48,8 @@ Some funerals still use both a staff laid toward the road and a stone set toward
 
 ## Read onward
 
-- [[Peoples in the World Historical Atlas]]
-- [[River Leagues and Sea-Kings of the Early World]]
 - [[Historical Spine of the Covenant]]
 - [[Historical Spine of the Jirahar]]
-
 - [[Age of Scattering]]
-- [[Myths and Legendary Histories MOC]]
-- [[World Historical Atlas MOC]]
+- [[Legendary Histories]]
+- [[The Ages of the World]]

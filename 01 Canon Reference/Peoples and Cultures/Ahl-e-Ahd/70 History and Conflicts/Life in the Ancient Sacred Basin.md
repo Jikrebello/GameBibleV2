@@ -90,7 +90,7 @@ The Boatman appeared under several Qahuri titles. Priests described him as a roy
 
 **Talzara Yasharet** prevented the expulsion of immigrant districts and brought mixed military households into the royal court. Her officers dispossessed opponents and directed southern grain towards lower-basin wars.
 
-**Aramen of Sakhret** used friendships made during his childhood captivity to open Qemaret. He failed to control the massacre which followed. His heirs called him Liberator of the Reed; survivors called him the Guest Who Opened the Gate.
+**Aramen of Sakhret** used friendships made during his childhood captivity to open Qemaret. He let the massacre which followed run for months and stopped it only when the harvest was in danger. His heirs called him Liberator of the Reed; survivors called him the Guest Who Opened the Gate.
 
 **Nehara of the Blue Hands** erased images for Ithren III and later concealed a small group she had been ordered to destroy. Restoration praise made that refusal the whole of her life. Her earlier obedience and the dead she could not save remained part of the history.
 

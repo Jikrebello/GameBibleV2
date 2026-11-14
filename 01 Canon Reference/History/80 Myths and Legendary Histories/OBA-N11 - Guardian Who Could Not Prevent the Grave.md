@@ -26,15 +26,13 @@ The bodies were eventually identified through ordinary records and testimony. Th
 
 ## What people remember
 
-personal Guardian, hospital saint, guilt dream, trained bird, clerk’s cover story, infernal interference against a rival office or compassionate fabrication by the washer.
+Personal Guardian, hospital saint, guilt dream, trained bird, clerk’s cover story, infernal interference against a rival office or compassionate fabrication by the washer.
 
 ## What remains
 
-
-
 ## What remains unknown
 
-city, names, sincerity of repentance, final judgement, degree of broker knowledge, fate of the other debtor, angel’s identity and outcome of the 1360 hearing under the Forward Rule.
+City, names, sincerity of repentance, final judgement, degree of broker knowledge, fate of the other debtor, angel’s identity and outcome of the 1360 hearing under the Forward Rule.
 
 - [[Heavenly Campaigns and the Human Dead]]
 - [[World Historical Atlas MOC]]

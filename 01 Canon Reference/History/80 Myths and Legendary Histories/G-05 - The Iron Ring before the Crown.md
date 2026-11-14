@@ -62,8 +62,6 @@ Several coronations carry a black iron ring ahead of the crown. Someone strikes 
 - [[Southern Cold Belt and Grobi Frontier]]
 - [[The Folk before Atheria]]
 - [[Folk Clans, Confederacies, and Feud-Law]]
-- [[River Leagues and Sea-Kings of the Early World]]
-
 - [[Age of Hearths and First Kings]]
-- [[Myths and Legendary Histories MOC]]
-- [[World Historical Atlas MOC]]
+- [[Legendary Histories]]
+- [[The Ages of the World]]

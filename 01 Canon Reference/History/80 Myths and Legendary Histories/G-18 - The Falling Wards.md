@@ -4,7 +4,7 @@ status: canon
 canon_level: local
 visibility: public
 era: ["c. 2400–2260 BR; Late Chains and Unbinding"]
-region: ["one Ansharan-facing dependent court, outside the unresolved imperial capital"]
+region: ["one Ansharan-facing dependent court, outside the lost imperial capital"]
 culture: ["slave-descendant communities"]
 related_factions: []
 appears_in: []
@@ -18,7 +18,7 @@ aliases: ["The Falling Wards"]
 
 ## Historical setting
 
-**c. 2400–2260 BR; Late Chains and Unbinding.** One Ansharan-facing dependent court, outside the unresolved imperial capital. This tradition belongs to [[Age of Chains]]; its cultural bearers are slave-descendant communities.
+**c. 2400–2260 BR; Late Chains and Unbinding.** One Ansharan-facing dependent court, outside the lost imperial capital. This tradition belongs to [[Age of Chains]]; its cultural bearers are slave-descendant communities.
 
 It is told among Late-Chains descendants whose districts were abandoned during one Giant court's escape.
 
@@ -48,9 +48,6 @@ Several roads end at foundations sliced smoother than glass. Children build hous
 
 ## Read onward
 
-- [[Lesser Crowns of the Giant Age]]
-- [[Patron Cities and the Long Rent Histories]]
-
 - [[Age of Chains]]
-- [[Myths and Legendary Histories MOC]]
-- [[World Historical Atlas MOC]]
+- [[Legendary Histories]]
+- [[The Ages of the World]]

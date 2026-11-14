@@ -3,7 +3,7 @@ type: character
 status: canon
 canon_level: core
 visibility: public
-era: ["1261-1303 AR"]
+era: ["1249–1304 AR"]
 region: ["Tarkhan Lands", "Northern Roads"]
 culture: ["Tarkhan"]
 related_factions: ["Black Wind Host", "Ahl-e-Ahd", "Sestaran Concord"]
@@ -71,7 +71,6 @@ Every Horde invokes a different Qarayel: lawful ancestor, conqueror, protector o
 ## Navigation
 
 - [[Four Hordes of the Partition]]
-- [[The Weird of History — The Unexplained Register]]
 - [[Historical Spine of the Tarkhan]]
 - [[First Catch and Grey Sister]]
 - [[The Age of Held Proofs]]

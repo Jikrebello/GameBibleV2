@@ -23,7 +23,7 @@ Arqesh was an early mortal empire of levees, walled river capitals, deportation 
 
 At Qiryath an accepted offering burned without smoke and left the altar stones cool to the hand, and Arqeshite canal districts had begun bringing their disputes up the road to be judged over those stones. King Neshkar II demanded that the royal image stand in the upper sanctuary beside the altar and that the priestly houses send hostages. Qiryath refused. In the first winter of the siege that followed, the council drove foreign residents out of the gates to save grain, and several died in the ditch between the lines. At the next appointed offering the smoke rose black and the stones were hot. The council split, and households began leaving by the burial passages. Arqesh entered the city in 742, stripped the sanctuary, broke the upper tower, and deported judges, engineers, artisans, singers, and leading families to imperial river cities.
 
-Road companies carried surviving scrolls away. Rural households remained around the ruin. Other tower towns became independent centers.
+Road companies carried surviving scrolls away. Rural households remained around the ruin. Other tower towns became independent centres.
 
 ## Exile
 

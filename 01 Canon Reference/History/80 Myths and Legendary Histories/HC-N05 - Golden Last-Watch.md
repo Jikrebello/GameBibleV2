@@ -28,11 +28,11 @@ Warden Angel, golden Menhir bird, atmospheric mirage, soldiers’ collective oat
 
 ## What remains
 
-some caravan courts require evacuation treaties to append a **dependants’ annex** naming people who cannot be excluded by military convenience.
+Some caravan courts require evacuation treaties to append a **dependants’ annex** naming people who cannot be excluded by military convenience.
 
 ## What remains unknown
 
-town, belligerents, numbers, commander’s later trial, named households, angelic title and whether any current last-watch practice descends directly.
+Town, belligerents, numbers, commander’s later trial, named households, angelic title and whether any current last-watch practice descends directly.
 
 - [[Heavenly Campaigns and the Human Dead]]
 - [[World Historical Atlas MOC]]

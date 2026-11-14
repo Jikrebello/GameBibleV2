@@ -26,15 +26,15 @@ The Angel stopped there when the Lord’s bounded commission ended. The threshin
 
 ## What people remember
 
-direct judgement, ordinary epidemic later moralized, assassination poison, Idol plague, proof of the ruler’s sanctity, proof that all enumeration is evil or a displaced Grey Sweat story.
+Direct judgement, ordinary epidemic later moralized, assassination poison, Idol plague, proof of the ruler’s sanctity, proof that all enumeration is evil or a displaced Grey Sweat story.
 
 ## What remains
 
-several law codes still require a census to state its permitted purpose and forbid later use for hostage or labor seizure without a new public act. Jurists call the limit “the floor beyond the count.”
+Several law codes still require a census to state its permitted purpose and forbid later use for hostage or labor seizure without a new public act. Jurists call the limit “the floor beyond the count.”
 
 ## What remains unknown
 
-principality, ruler, number dead, disease mechanism, exact prophetic warnings, why the stopping point was appointed and whether the current threshing site is authentic.
+The prince's personal name, number dead, disease mechanism, exact prophetic warnings, why the stopping point was appointed and whether the threshing floor now shown at Kremna is the original.
 
 - [[Heavenly Campaigns and the Human Dead]]
 - [[World Historical Atlas MOC]]

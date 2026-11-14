@@ -83,6 +83,5 @@ Its existence is part of Atherian history, whatever its claims about the heavens
 
 - [[Overview of the Astratheon Religion]]
 - [[The Common Sky and the Formation of Astratheon]]
-- [[The Great Unbinding]]
-- [[Peoples in the World Historical Atlas]]
+- [[Age of Exodus]]
 - [[Historical Atlas of Atheria]]

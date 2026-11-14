@@ -60,12 +60,9 @@ An empty place appears in several unrelated assemblies whenever someone claims a
 
 ## Read onward
 
-- [[Peoples in the World Historical Atlas]]
-- [[River Leagues and Sea-Kings of the Early World]]
 - [[Historical Spine of the Covenant]]
 - [[Historical Spine of the Jirahar]]
 - [[G-71 - The Five Staffs and the Empty Granary|The Five Staffs and the Empty Granary]]
-
 - [[Age of Scattering]]
-- [[Myths and Legendary Histories MOC]]
-- [[World Historical Atlas MOC]]
+- [[Legendary Histories]]
+- [[The Ages of the World]]

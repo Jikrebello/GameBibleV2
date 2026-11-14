@@ -48,9 +48,6 @@ At certain funerals, tools are laid down and struck once after the refusal is su
 
 ## Read onward
 
-- [[Lesser Crowns of the Giant Age]]
-- [[Infernal Kings and the Wars of the Depth]]
-
 - [[Age of Chains]]
-- [[Myths and Legendary Histories MOC]]
-- [[World Historical Atlas MOC]]
+- [[Legendary Histories]]
+- [[The Ages of the World]]

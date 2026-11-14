@@ -18,7 +18,7 @@ Thalmyria was founded across five generations. It began as flight, became a moun
 ## The Founding Sequence
 
 1. [[01 Canon Reference/History/60 Fall and Successor Empires/The Invasion and the Fall.md|The Invasion and the Fall]]: Caleran fell in 905 and the imperial government collapsed.
-2. [[01 Canon Reference/History/60 Fall and Successor Empires/The Refuge and the Rise of Veridun.md|The Refuge and the Rise of Veridun]]: Veridun survived, received the displaced institutions, and organized resistance.
+2. [[01 Canon Reference/History/60 Fall and Successor Empires/The Refuge and the Rise of Veridun.md|The Refuge and the Rise of Veridun]]: Veridun survived, received the displaced institutions, and organised resistance.
 3. [[The Battle of Caelmount]]: the Valley Ambush of 917 proved the resistance could defeat a field army.
 4. [[01 Canon Reference/History/60 Fall and Successor Empires/The Coronation at Virelos.md|The Coronation at Virelos]]: Caedros I received the crown in 922.
 5. [[01 Canon Reference/History/60 Fall and Successor Empires/The War of the Burning Banners.md|The War of the Burning Banners]]: refuge leagues united between 922 and 949.
@@ -31,7 +31,7 @@ Thalmyric founding histories tell the sequence as a refuge's rise. The Covenant'
 
 ## What Was Founded
 
-The court remained at Veridun, the Patriarchate returned to Caleran, Virelos retained the coronation, military provinces became permanent, and mountain-refuge cultures entered the imperial center.
+The court remained at Veridun, the Patriarchate returned to Caleran, Virelos retained the coronation, military provinces became permanent, and mountain-refuge cultures entered the imperial centre.
 
 The empire inherited Atherian roads and law while building its identity around the Redeemer, the White Flame, and the claim that suffering had preserved continuity.
 
@@ -42,6 +42,5 @@ The Velian States and Zanthir remained beyond secure rule. Their absence made Re
 ## Navigation
 
 - [[The Long Reconquest (908-1052 AR)]]
-- [[Thalmyric Canon Register]]
 - [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/Thalmyric Empire Overview.md|Thalmyric Empire Overview]]
-- [[Chronology of the Known World (AR Dating)]]
+- [[The Fall and the Long Reconquest]]

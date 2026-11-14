@@ -21,14 +21,14 @@ tags: []
 ---
 # Ancient and Early Historic Ages
 
-This overview bridges [[Prehistory Overview]] and the [[Atherian Imperial Age]]. Between Giant slavery and continental empire, humanity passes through exile, settlement, first kings, city-states, sacred experiments, war, memory, and failed obedience.
+This overview bridges [[Creation and the First Rebellions]] and the [[Atherian Imperial Age]]. Between Giant slavery and continental empire, humanity passes through exile, settlement, first kings, city-states, sacred experiments, war, memory, and failed obedience.
 
 The peoplehood, civic membership and imperial subjecthood of the period are indexed in [[Peoples before Atherian Unification]].
 
 ## Era Ladder
 
 1. [[Age of Chains]]: the Five Imperial Horizons and many lesser Giant polities enslave humanity and teach the world its first great lessons in tyranny, monumentality, forbidden science, and false divinity.
-2. [[Age of Exodus]]: the [[The Great Unbinding|Great Unbinding]] breaks Giant rule through converging judgement, revolt, civil war, and systemic collapse; the Great Prophet leads the principal liberated remnant into the [[Great Glass Desert]], while other human communities survive elsewhere. During [[The Glass Sojourn]], the mixed Ark host becomes one people.
+2. [[Age of Exodus]]: the Great Unbinding breaks Giant rule through converging judgement, revolt, civil war, and systemic collapse; the Great Prophet leads the principal liberated remnant into the [[Great Glass Desert]], while other human communities survive elsewhere. During the Glass Sojourn, the mixed Ark host becomes one people.
 3. [[Age of Scattering]]: after the Prophet's death, southern war-settlement leagues separate first from a continuing Near-Glass population; Orphaned communities continue independent reassembly; conquest and contact begin Braided histories.
 4. [[Age of Hearths and First Kings]]: the later northern fission produces early Jirahar and Ahdari formations while villages, hill forts, river towns, defended wells, ancestor laws, early Menhir pacts, priest-kings and local cults become durable.
 5. [[Age of City-States]]: trade, public writing, archives, walls, towers, ports, oasis courts, and elemental engineering create the first urban powers.
@@ -37,7 +37,7 @@ The peoplehood, civic membership and imperial subjecthood of the period are inde
 
 ## Cultural Evolution Threads
 
-- **Atherians:** the first Ark-derived fission, initially southern war-settlement leagues whose mixed conquest and maritime recovery networks later become city civilization, star cult, republic and empire.
+- **Atherians:** the first Ark-derived fission, initially southern war-settlement leagues whose mixed conquest and maritime recovery networks later become city civilisation, star cult, republic and empire.
 - **Jirahar:** one later branch of the Near-Glass continuum, with the strongest claim to preserving the Great Prophet's original teaching through portable courts, caravans, tower towns, law, memory, and prophecy.
 - **Arqeshites:** eastern river-city peoples who create an early mortal empire of canals, estates, deportation and royal sacred power. Their cities survive the fall of House Ubar within Vasharan and later eastern societies.
 - **Vashari:** Orphaned highland peoples joined by House Tiravan into the Crown of Roads and Dawns after Arqesh's fall. Vashar remains an independent imperial peer when Atheria unifies.
@@ -46,7 +46,7 @@ The peoplehood, civic membership and imperial subjecthood of the period are inde
 - **Folk and Ättar:** related Orphaned southern cold-frontier populations joined by lesser Giant and giant-blooded refugees from Nhaldur. Folk institutions centre on clan territory, local courts and regional All-Things; settled Ättar halls later accept Mother Moon's two-part bargain during the [[War of the Empty Halls]].
 - **Grobi:** intelligent predators descended from some two thousand captives, by the Nhalduran count, rewritten at Kharvos. Their five food-driven stages and annual winter hosts shape the southern frontier.
 - **Tarkhan and Nsizwa:** independent Orphaned peoples whose ancestors survive and reassemble outside the Ark in different regions and under different pressures. Tarkhan history begins among the human subjects and neighbours of Vathra, whose flying crown-cities fell during the Great Unbinding.
-- **Sestara:** later Braided harbor and archive-city populations that survive by monetizing memory, art, finance, ships, legal skill, and secrets.
+- **Sestara:** later Braided harbour and archive-city populations that survive by monetising memory, art, finance, ships, legal skill, and secrets.
 - **Vesari:** a later Braided river-plain people of the far east, formed from local remnant populations and arriving Ark-derived groups; their converted princedoms become Virelia's substrate (see [[01 Canon Reference/Peoples and Cultures/Eclessia/10 Foundations/The Making of the Eclessians.md|The Making of the Eclessians]]).
 
 ## Writing, metal and coin
@@ -66,15 +66,13 @@ The known world is southern-hemisphere oriented. South means colder, harsher, mo
 ## Navigation
 
 - [[Historical Spine of the Known World]]
-- [[Timeline MOC]]
+- [[The Ages of the World]]
 - [[Geography Atlas]]
-- [[Origins of Warlock Rune Magic]]
 - [[The Arqeshite River Empire]]
 - [[01 Canon Reference/Peoples and Cultures/Jirahar/70 History and Conflicts/Historical Atlas of Qiryath before Atheria.md]]
 - [[Vashar and the Crown of Roads and Dawns]]
 - [[Historical Atlas of Vathra and the Northern Ground]]
 - [[Historical Atlas of the Southern Cold World]]
-- [[Nhaldur and the First Rewriting]]
 - [[The Folk before Atheria]]
 - [[01 Canon Reference/Peoples and Cultures/Ättar/70 History and Conflicts/The Ättar before the Great Keel-Taking.md|The Ättar before the Great Keel-Taking]]
 - [[Grobi History and Pack Life]]

@@ -40,7 +40,7 @@ Its centre is a small decision about four unwanted travellers within an age crow
 
 ## How tellers differ
 
-Pilgrims call the guide a hidden Saint. Descendant hosts call him an ordinary sinner who once chose correctly. One church omits the deserter; another insists he later became a persecutor.
+Pilgrims call the guide a hidden saint. Descendant hosts call him an ordinary sinner who once chose correctly. One church omits the deserter; another insists he later became a persecutor.
 
 ## What remains
 
@@ -51,7 +51,6 @@ An empty purse hangs beside certain pilgrim doors. A guest is received before it
 - [[The Ember Underground]]
 - [[Historical Atlas of Thalmyria]]
 - [[Historical Atlas of Eclessia]]
-
 - [[The Age of the Redeemer]]
-- [[Myths and Legendary Histories MOC]]
-- [[World Historical Atlas MOC]]
+- [[Legendary Histories]]
+- [[The Ages of the World]]

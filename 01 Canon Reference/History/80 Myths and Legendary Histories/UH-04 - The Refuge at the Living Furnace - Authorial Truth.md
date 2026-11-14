@@ -38,8 +38,6 @@ Returnees concealed the full history for incompatible reasons. Frontier rulers d
 - **Survivor households** disagree over whether the Patron was rescuer, slaver, or both at different stages.
 - **Shell prospectors** claim the melted platform belonged to a native fire civilization. Its tools actually repeat human and Astral workshop measures.
 
-
-
 ## Discovery Interface
 
 - **Knowledge state:** `suppressed`, `misclassified`, and partly `unknown`.

@@ -3,7 +3,7 @@ type: reference
 status: canon
 canon_level: core
 visibility: public
-era: ["Age of the Redeemer", "Present Day"]
+era: ["0–396 AR", "Present Day"]
 region: ["Jirahar Diaspora", "Second Qiryath"]
 culture: ["Jirahar"]
 related_factions: ["Qiryath Council", "Church of the Redeemer"]
@@ -23,7 +23,7 @@ Jirahar legal memory does not absolve those elders. It disputes the later claim 
 
 ## The Carpenter We Mourn
 
-Mainstream Jirahar teaching rejects Isfir as Mesakha and divine Redeemer. It nevertheless remembers his Jirahar birth, his execution by foreign power, his mercy toward the condemned, and the catastrophes that followed. Some families mourn him as a wrong son of the towers; others avoid his name.
+Mainstream Jirahar teaching rejects Isfir as Mesakha and divine Redeemer. It nevertheless remembers his Jirahar birth, his execution by foreign power, his mercy towards the condemned, and the catastrophes that followed. Some families mourn him as a wrong son of the towers; others avoid his name.
 
 ## The Scribe We Cannot Forgive
 
@@ -47,4 +47,4 @@ The same emperor wrote the condition that still governs Qiryath. Vestian struck 
 
 - [[The Age of the Redeemer]]
 - [[The Twelve Companions of the Redeemer]]
-- [[Reliability Register]]
+- [[Great Tower Revolt and the Second Destruction]]

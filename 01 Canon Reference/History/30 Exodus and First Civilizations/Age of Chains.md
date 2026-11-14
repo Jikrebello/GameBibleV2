@@ -23,25 +23,19 @@ The age ended in hunger. The first Giants had worked their tombs, blood-calendar
 
 ## Shape of the Age
 
-**Qianglong, Ishkatar, Xolotl, Nythalum, and Anshara are the Five Imperial Horizons**: the largest surviving traditions of Giant hegemony, administration, monumental culture, and continuity engineering. Dozens of smaller Giant kingdoms, human subject cities, client crowns, cadet courts, leagues, estates, marches, and mobile confederacies existed within, between, and beyond them.
+**Qianglong, Ishkatar, Xolotl, Nythalum and Anshara** were the Five Imperial Horizons, the largest Giant hegemonies the survivors remembered. Beneath and between them lay river crowns, mountain kingdoms, marriage states, temple cities, nomadic courts, penal crownlands and captive towns. A family might pay tribute to one horizon, marry into another and be conquered by a third without its tenants ever leaving their fields, and the ruins keep all three layers.
 
-Most later liberation histories remember only the four horizons broken directly during the Great Prophet's movement. Anshara collapsed separately but concurrently in the Drinking Wars. Each horizon taught humanity a different form of bondage:
+Each horizon left its own scar:
 
-- **Qianglong:** order turned into caste, plague, famine, war, and death.
-- **Ishkatar:** river wealth, serpent kings, sacrifice, greed, and monumental debt.
-- **Xolotl:** blood astronomy, ritual violence, volcanic power, and the Blood Sun.
-- **Nythalum:** moonward technology, body-transcendence, machine-priesthoods, and cosmic escape.
-- **Anshara:** blood made into sovereignty, rank made biological, Pride patronage, court predation, and primordial vampirism. Anshara collapsed during the parallel [[The Fall of Anshara|Drinking Wars]] and was erased from most mortal histories.
+- **Qianglong**, the valley empire of four castes, counted children at its tally-gates and emptied its granaries into the vaults of its dead.
+- **Ishkatar**, the serpent kingdom of the river, let its dead own the fields and set the living to work them.
+- **Xolotl**, the obsidian empire of the jungles, kept a sun burning above its capital with human hearts.
+- **Nythalum**, the island of spires, stripped its own coast of boats and grain to build ships for the Moon.
+- **Anshara**, the Court of Courts, made rank a matter of blood and drank its own subjects. It fell apart in the Drinking Wars at the same time as the others and was erased from most mortal histories.
 
-The horizons expand, divide, overlap, and survive through changing dynasties. A conquered kingdom may retain its law and rulers while paying tribute to one horizon, marrying another, and using the technical system of a third. Present ruins therefore preserve political layers.
+Most later liberation histories remember only the four horizons broken during the Great Prophet's movement, and forget the fifth.
 
-Ancient Titanic descent is often real, but a court's claim that its present ruler is the immediate, pure, and exclusive child of a named Menhir or Idol may still be selective genealogy, political compression, or fraud. Parentage and personhood are treated in [[Giant Descent and Creaturely Continuity]].
-
-## A thousand years of inhabited empires
-
-Qianglong, Ishkatar, Xolotl, Nythalum and Anshara were the largest imperial traditions remembered afterward. Beneath them lay river crowns, mountain kingdoms, marriage states, temple cities, nomadic courts and captive towns. A family might pay tribute to one horizon, marry into another and be conquered by a third without its tenants ever leaving their fields.
-
-The descendants of the first Titan ancestors founded houses whose power could weaken across generations while remaining far beyond ordinary strength. Some later heirs were genuine Giants; others were giant-blooded humans. Courts lied about the distinction because rule rested on blood and access to ancestors. Close marriage, hostage fostering, coerced sexual access to subject women and deliberately renewed supernatural conceptions all served different dynastic strategies.
+The descendants of the first Titan ancestors founded houses whose power could weaken across generations while remaining far beyond ordinary strength. Some later heirs were genuine Giants; others were giant-blooded humans. Ancient Titanic descent was often real, but courts lied about the distinction because rule rested on blood and access to ancestors: a court that called its ruler the pure child of a named Menhir or Idol might be compressing ten generations, or lying outright. Close marriage, hostage fostering, coerced sexual access to subject women and deliberately renewed supernatural conceptions all served different dynastic strategies.
 
 ## Work beneath the monuments
 
@@ -53,7 +47,7 @@ The traditions of [[G-01 - The People Beneath the Bowl|the People Beneath the Bo
 
 ## Crowns that outlived their founders
 
-[[Lesser Crowns of the Giant Age]] describes the states between the five horizons. Some old ancestors remained physically present; others survived through a particular machine or recurring rite. Copies also answered in ancestral voices. Subjects could be governed by a living Giant, by a human descendant speaking for an ancestor, or by a machine whose owner deliberately concealed that the ancestor had died.
+Between the five horizons stood lesser crowns: the flying cities of [[Vathra and the Great Unyoking|Vathra]], the penal crownland of Nhaldur in the southern cold, the river kingdom of [[Arsuvan - The Giant Kingdom of the Aurin|Arsuvan]], the Reed Crowns of Sarrakai and dozens more. Some old ancestors remained physically present; others survived through a particular machine or recurring rite. Copies also answered in ancestral voices. Subjects could be governed by a living Giant, by a human descendant speaking for an ancestor, or by a machine whose owner deliberately concealed that the ancestor had died.
 
 The struggle between generations was often literal. Older bodies were mutilated, imprisoned or scattered. Younger houses fought over the fragments, holding each authentic piece to be part of the ancestor's own person.
 
@@ -61,7 +55,7 @@ The struggle between generations was often literal. Older bodies were mutilated,
 
 Every great Giant work had been built by ancestors whose own blood opened it. An Ishkatari tomb-estate woke for its first owners at a touch; a Xolotlan lord of the early dynasties could read his forebears in the Blood Sun after one season of offerings; Qianglong's first caste lords filled their recurrence vaults with caste-born bodies of their own houses. Their grandchildren's grandchildren could not. The works still ran, but each generation they wanted more.
 
-Along the Serpent's Spine the dead owned the river. Ishkatar's tomb-estates held fields, granaries, barges and households, and by the last century of the Chains the dike gangs of the middle reaches had been marched off the river to haul facing-stone for new tombs. The towpath crews who once dragged silt-sledges along the sluices every dry season went to the quarries. Reach villages ground their seed grain while Nagtara's granaries were emptied into offering-halls. In the jungles of Xolotl the sacrificial calendar thickened from festival days to market days, and causeway towns without captives paid in their own children. In Qianglong the vaults took condemned prisoners, then terrace families from the Cloudstep valleys, then children counted out at the tally-gates; the Famine Caste emptied the granaries that had carried the empire through bad winters to feed the vault-towns and the frontier formations of [[The Unending Muster]]. Nythalum stripped its own coast of fishing boats and grain to provision the launch spires. In the north, Vathra's sky roads demanded more crews and captives every season, and the country beneath them began to stretch.
+Along the Serpent's Spine the dead owned the river. Ishkatar's tomb-estates held fields, granaries, barges and households, and by the last century of the Chains the dike gangs of the middle reaches had been marched off the river to haul facing-stone for new tombs. The towpath crews who once dragged silt-sledges along the sluices every dry season went to the quarries. Reach villages ground their seed grain while Nagtara's granaries were emptied into offering-halls. In the jungles of Xolotl the sacrificial calendar thickened from festival days to market days, and causeway towns without captives paid in their own children. In Qianglong the vaults took condemned prisoners, then terrace families from the Cloudstep valleys, then children counted out at the tally-gates; the Famine Caste emptied the granaries that had carried the empire through bad winters to feed the vault-towns and the frontier formations of the Unending Muster. Nythalum stripped its own coast of fishing boats and grain to provision the launch spires. In the north, Vathra's sky roads demanded more crews and captives every season, and the country beneath them began to stretch.
 
 The same hunger reached the smallest kingdoms. In the Aurin basin the last king of [[Arsuvan - The Giant Kingdom of the Aurin|Arsuvan]], **Arveth**, fed his army on grain already reserved for seed; at Nerava the boat organiser **Lethra** moved the seed and the families downriver by night, and Arveth's officers hanged the crews who stayed behind. Her stolen seed was planted the first spring after the palace fell.
 
@@ -72,6 +66,10 @@ Hungry works made for hungry wars. On the canals of the **Reed Crowns of Sarraka
 Giant priests believed they served one pantheon of divine ancestors. The mortuary keepers of Urum, who distinguished a true ancestor from a copy more carefully than any temple, kept tablets recording altars whose appetite changed: a hall built for war-captives began to want gold, a marriage rite began to accept only kin, a feast for the dead began to require that the living go hungry. Later scholars gathered these quarrels under the name **Sevenfold Feast War**, as though hungry powers had fought over Giant worship the way rival lords fight over a ford. Urum's tablets record no single war and no altar that held all seven appetites at once, only offerings changing in the same halls while the inscriptions stayed the same.
 
 Older weapons were still being dug up. Giant courts mined battlefields from before the Giants for banners that sorted every body in their reach onto old sides and kept a battle going after its armies were dead. Courts carried these **Broken Standards** into the Closing-Court wars and drove slave levies under them. The levies learned what the courts would not admit: killing the men on the other side only restarted the fight, but lowering a standard, or throwing a cloak over its mark, ended it. In the last wars of the Chains, whole conscript columns lowered their standards and walked away, and the trick passed from camp to camp faster than any order.
+
+## The Closing Courts
+
+By the warning years, upkeep and inheritance were failing together. Courts demanded more tribute to preserve fewer heirs. Nythalum rationed its lunar berths, Xolotl thickened its calendar, Ishkatari houses fought over river access and tomb claims, Qianglong tried to make caste and military service outlast the lives that had carried it, and Anshara's Drinking Wars ate its own blood-ranked order. Into this crisis came the Prophet's movement, and with it the Great Unbinding told in [[Age of Exodus]]: some courts fled, some died, some were bound, some fragments remained, and surviving human towns made their own choices.
 
 ## Revolt where the takers came
 
@@ -91,12 +89,6 @@ Some courts fell into the ground instead of the sky. In the country later called
 
 At a Glassward crossing, porters carrying the injured towards the gathering columns saw one pursuing war-engine of a Giant court stop as if cut through. The porters' account says a servant of heaven severed it. Soldiers still died before it stopped, and the scorched harness lay at the crossing for generations as proof that the pursuit had been broken once, there, and nowhere else by the same hand.
 
-## The Closing Courts
-
-By the warning years, maintenance and inheritance were failing together. Courts demanded greater tribute to preserve fewer heirs. Nythalum restricted lunar berths. Xolotlan rulers intensified sacrificial calendars. Ishkatari houses fought over river access and tomb claims. Qianglong systems tried to make military and caste service recur beyond the lives which had once sustained them. Anshara's Drinking Wars consumed its own blood-ranked order.
-
-The Prophet's movement entered this crisis. The result was [[The Great Unbinding]]: some courts fled, some died, some were bound, some fragments remained, and surviving human towns made separate choices.
-
 ## What the survivors sang
 
 Survivors compressed a century of hunger into a few great disasters. The delta boat-households sing that a Naga lord, desperate to hold the Golden Pyramid, worked a ritual that drank the Serpent's Spine into his coils; reach villages add that he burst. Their neighbours' grandchildren remember the dikes nobody mended and the flood year when the river broke into a lower bed and never came back. Highland songs say an Obsidian lord fed the Blood Sun every rebel he held in one night and it exploded; the vent-keepers' descendants tell of an empty stair and flues nobody cleared. Mountain villages say the Four Horsemen called their children home and the caste lords walked into the hills behind them; the same villages leave an empty bowl at harvest for the children the tally-gates took. Later kings preferred the courtly versions, which give each catastrophe one guilty Giant and leave out the dikes, the stair and the granaries.
@@ -115,7 +107,7 @@ Many later cultures define themselves by how they remember the Chains:
 - the [[01 Canon Reference/Peoples and Cultures/Ahl-e-Ahd/The Ahl-e-Ahd Overview.md|Ahl-e-Ahd]] turn bondage and deliverance into legal memory;
 - the [[The Atherian Empire Overview|Atherian Empire]] later converts Giant astronomy and monuments into civic glory;
 - the [[The Folk Overview|Folk]] remember bondage as the reason no foreign king may own clan land;
-- Sestaran harbor peoples inherit the practical lesson that memory, archives, and ledgers are survival weapons.
+- Sestaran harbour peoples inherit the practical lesson that memory, archives, and ledgers are survival weapons.
 
 ## Inherited Wound
 
@@ -126,20 +118,12 @@ The world learns that power can impersonate divinity. Every later empire is judg
 **Previous:** [[Creation and the First Rebellions]] · **Atlas:** [[The Ages of the World]] · **Next:** [[Age of Exodus]]
 
 - [[Legendary Histories]]
-- [[Prehistory Overview]]
-- [[Mono-Myth Overview]]
 
 ## Historical articles in this age
 
-- [[The Blood Empire of Xolotl]]
-- [[The Empire of Qianglong]]
-- [[The Fall of Anshara]]
-- [[The Lost Civilization of Nythalum]]
-- [[The Serpent Kingdom of Ishkatar]]
-- [[The Unending Muster]]
-- [[Origins of Warlock Rune Magic]]
 - [[Arsuvan - The Giant Kingdom of the Aurin]]
 - [[Vathra and the Great Unyoking]]
+- [[Historical Atlas of the Southern Cold World]] — Nhaldur, the penal crownland of the south, and its fall.
 
 ## Local tales and surviving memories
 
@@ -149,7 +133,3 @@ The world learns that power can impersonate divinity. Every later empire is judg
 - [[G-62 - The Three False Processions|The Three False Processions]]
 - [[G-66 - Not for the Lower Roster|Not for the Lower Roster]]
 - [[G-69 - The Four Faces of One Victory|The Four Faces of One Victory]]
-
-Smaller local histories and restored reserve leads: [[Additional Mortal Lives and Frontier Traditions]].
-
-Secondary polities: [[Lesser Crowns of the Giant Age]].

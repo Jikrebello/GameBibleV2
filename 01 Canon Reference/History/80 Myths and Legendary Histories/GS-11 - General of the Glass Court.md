@@ -33,7 +33,7 @@ Sexual abuse of office, personal murder of the beloved critic, execution of pris
 
 ## The surviving inheritance
 
-a courtly school, military pageants, descendant claims, several constructed “returned” officers and no legitimate order founded by the General.
+A courtly school, military pageants, descendant claims, several constructed “returned” officers and no legitimate order founded by the General.
 
 Formal portraits repaint wounds and mixed marriages out of the victorious generation; restoration reveals one repeated medium-and-contract signature beneath several faces. That signature supports coordinated revision but does not prove that every portrait belonged to one supernatural court.
 

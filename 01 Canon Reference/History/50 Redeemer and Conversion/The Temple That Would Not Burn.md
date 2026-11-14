@@ -3,7 +3,7 @@ type: event
 status: canon
 canon_level: local
 visibility: public
-era: ["c. 249–251 AR", "Underground Centuries"]
+era: ["c. 245–247 AR", "Underground Centuries"]
 region: ["Cyrian", "Atherian Empire"]
 culture: ["Atherian", "Redeemer Church"]
 related_factions: ["Star Pantheon", "Atherian Imperial Authorities"]
@@ -13,12 +13,12 @@ tags: []
 ---
 # The Temple That Would Not Burn
 
-The Temple That Would Not Burn is an Underground-era tradition concerning a damaged Star temple at Cyrian which local believers had adapted for clandestine Redeemer worship. About 250 AR, commissioners enforcing Emperor Tervan Marcellan's edict against unlicensed grave- and shrine-lamps tried three times to destroy the building by fire. The structure survived, while soldiers and guards died during the attempts. The commissioners' clerks entered each failure in the Cyrian augurs' book of answers, and those entries are the oldest record of the event. Eclessian, Thalmyric and surviving imperial accounts disagree about its cause and meaning.
+The Temple That Would Not Burn is an Underground-era tradition concerning a damaged Star temple at Cyrian which local believers had adapted for clandestine Redeemer worship. About 246 AR, commissioners enforcing Emperor Tervan Marcellan's edict against unlicensed grave- and shrine-lamps tried three times to destroy the building by fire. The structure survived, while soldiers and guards died during the attempts. The commissioners' clerks entered each failure in the Cyrian augurs' book of answers, and those entries are the oldest record of the event. Eclessian, Thalmyric and surviving imperial accounts disagree about its cause and meaning.
 
 > _“They lit the flame. But the flame refused them.”_  
 > —Inscription carved into the last standing wall of the Temple at Cyrian
 
-### **Date**: c. 249–251 AR
+### **Date**: c. 245–247 AR
 
 The enforcement years of Tervan Marcellan's Edict of Public Sacrifice, which required every household to offer before the Stars and to license the lamps it kept for its dead.
 
@@ -53,7 +53,7 @@ But **it would not burn.**
     The local Prefect ordered a bonfire lit in each corner of the temple and recited curses against the Redeemer. That night, **a lightning storm struck**, killing two of the prefect’s guards.  
     When dawn broke, the temple still stood—charred, but intact.
 
-The commissioners' clerks took each failure to the Cyrian augurs, as the law required for any wonder, and the college entered all three in its book of answers. It could name no Star that had answered, so the entries stand without an author: three refusals of fire, witnessed, dated and unexplained. When the bishops took over the colleges' books in 381, their readers found the Cyrian entries and copied them. They are the earliest official record of the event and the oldest evidence behind the pilgrimage that grew there.
+The commissioners' clerks took each failure to the Cyrian augurs, as the law required for any wonder, and the college entered all three in its book of answers. It could name no Star that had answered, so the entries stand without an author: three refusals of fire, witnessed, dated and unexplained. When the bishops took over the colleges' books in 383, their readers found the Cyrian entries and copied them. They are the earliest official record of the event and the oldest evidence behind the pilgrimage that grew there.
 
 ---
 
@@ -85,7 +85,7 @@ This view is echoed in some modern Concord universities as an example of **“mi
 
 ### **Legacy**
 
-- The **site of the Temple of Cyrian** became a **pilgrimage destination** after the faith was legalized.
+- The **site of the Temple of Cyrian** became a **pilgrimage destination** after the faith was legalised.
 - A cathedral now stands beside the ruins, built from the original stone—its altar still crowned with **unchanging flame** in some accounts.
 - Redeemer iconography often shows the temple as **a heart-shaped structure encircled by fire**—a symbol of **endurance through trial**.
 
@@ -105,7 +105,5 @@ This view is echoed in some modern Concord universities as an example of **“mi
 
 ## Navigation
 
-- [[Timeline MOC]]
-- [[Canon Index]]
 - [[The Ember Underground]]
 - [[The Church after Qiryath - From Exile to Legalization]]

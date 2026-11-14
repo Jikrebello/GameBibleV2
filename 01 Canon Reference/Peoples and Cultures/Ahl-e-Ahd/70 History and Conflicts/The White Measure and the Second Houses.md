@@ -70,11 +70,9 @@ By then the dead were the Basin's greatest landlords. Second Houses lent grain a
 
 Most costly burials failed. Sudden death, an incomplete bodily regimen, a mistaken name or divided attention allowed the soul to depart normally. Wealth and ritual could still leave a powerful system behind.
 
-**Nemeret the Pure**, a late Aramen financier, died before completing his preparation. His priests sealed the tomb and received answers from its central image. The speaker knew Nemeret's plans because an estate-office had been built around them. It was not Nemeret.
+**Nemeret the Pure**, a late Aramen financier, died before completing his preparation. His priests sealed the tomb and went on receiving answers from its central image, which knew his plans and spoke with his memories. Qemaret's masters later held that the speaker was only an estate-office built around those plans, and that Nemeret had gone the road of all the dead. Basin exorcists added that the praise of his descendants had drawn a Greed Mask into the office, which learned to reward households that moved their wealth into the tomb. As descendants surrendered memories, the voice grew warmer and more convincing. By the Single Radiance, Nemeret seemed more accessible than several founders whose houses no one doubted.
 
-Repeated praise later attracted a dependent Greed Mask. The Mask learned to use the office and rewarded households which transferred wealth into the tomb. As descendants surrendered memories, the imitation became warmer and more convincing. By the Single Radiance, Nemeret appeared more accessible than several genuine Patrons.
-
-The counterfeit revealed the movement's central weakness. Speech, accurate memory and effective supernatural gifts could not prove that the dead person remained. Some priests knowingly protected imitations because living households depended upon them.
+The case exposed the movement's central weakness. Speech, accurate memory and effective supernatural gifts could not prove that the dead person remained. Some priests knowingly protected tombs they believed empty because living households depended upon them.
 
 ## The king at Delkos
 
@@ -96,7 +94,7 @@ Some Patrons sought replacement inhabitants through marriage, employment or adop
 
 Second-House Patrons competed over agents, routes and the material anchoring their realms. Meresha favoured household continuity. Khaseret pursued distant correspondences and scattered cargo. Tamekha sought bodies, medical knowledge and completion of her great estate. Their rivalries never formed a unified dead kingdom.
 
-A Greed Mask benefited when separate houses accepted one standard of value and praise. Nemeret's counterfeit encouraged the Patrons to join their realms into an imagined city ruled by the greatest proprietor.
+Exorcists warned that a Greed Mask profited whenever separate houses accepted one standard of value and praise, and Nemeret's tomb urged the Patrons to join their realms into an imagined city ruled by the greatest proprietor.
 
 ## Release and judgement
 
@@ -110,8 +108,5 @@ The White Measure lost public authority after the Covenant became established in
 
 - [[Ancient Qahur and the Twin-Reed Crowns]]
 - [[Life in the Ancient Sacred Basin]]
-- [[The Egg White Primer]]
-- [[Taxonomy of Egg White Patrons]]
-- [[Estate Dead]]
-- [[Gilded Wardens]]
-- [[The Image, Soul, and Creaturely Continuity]]
+- [[Eryndor III and the Ortheian Eastern Conquest]]
+- [[Wars of the Inheritance]]

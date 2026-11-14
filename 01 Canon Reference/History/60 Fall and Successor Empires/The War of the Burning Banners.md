@@ -19,7 +19,7 @@ The War of the Burning Banners was the series of campaigns and negotiated settle
 
 ## The Banner Leagues
 
-Every refuge valley possessed a commander, saint, grievance, and version of Atherian law. Some banners wanted immediate return; others preferred defensible independence. Monasteries controlled grain and legitimacy; noble houses controlled cavalry; city leagues controlled workshops and roads.
+Every refuge valley had its own commander, its own saint, its own grievance and its own copy of Atherian law. Some banners wanted immediate return; others preferred defensible independence. Monasteries controlled grain and legitimacy; noble houses controlled cavalry; city leagues controlled workshops and roads.
 
 ## War and Settlement
 
@@ -35,15 +35,15 @@ The hostage exchanges bred their own horrors. At one of them, chroniclers say, r
 
 ## The General of the Glass Court
 
-Some banners reconquered highland towns before Caleran was in reach, and the first returns were not gentle. The commander later called the General of the Glass Court began as a camp tailor and armour-mender in a claimant's household and rose through logistics, pageantry and courage. In the towns his banner retook he hid damaged veterans from the parades, expelled mixed households and displayed surrendered rivals before executing them. When his oldest friend, a fellow craftsman who had been his field officer from the start, threatened to expose his abuse of office, the refugee funds he had diverted and the expulsions, the General killed him with his own hands and laid the body among soldiers abandoned in an unsupported attack, with forged orders to explain it. His painters repainted the victory halls with whole hands and unmixed marriages. Other commanders copied his towns, and return by expulsion became a banner habit before it became imperial practice. [[G-34 - The Faces Beneath the Victors|The Faces Beneath the Victors]] tells how the hidden faces came back through the paint.
+Some banners reconquered highland towns before Caleran was in reach, and the first returns were not gentle. The commander later called the General of the Glass Court, a camp tailor who rose through pageantry and courage, hid damaged veterans from the parades, expelled mixed households and displayed surrendered rivals before executing them. When his oldest friend threatened to expose him, he killed the man with his own hands and laid the body among soldiers abandoned in an unsupported attack. Other commanders copied his towns, and return by expulsion became a banner habit before it became imperial practice. [[The Fall and the Long Reconquest]] tells his life, and [[G-34 - The Faces Beneath the Victors|The Faces Beneath the Victors]] tells how the hidden faces came back through the paint of his victory halls.
 
 ## Moral Memory
 
-Imperial histories call the war unification. Local songs remember forced oaths, seized grain, and rival resistance leaders who were erased after accepting peace. Both memories are true.
+Imperial histories call the war unification. Local songs remember forced oaths, seized grain, and rival resistance leaders who were erased after accepting peace. Both are sung in the same valleys, sometimes by the same families.
 
 ## Outcome
 
-By 949 AR, the highland roads and supply depots could support a major descent toward Caleran. The empire had become capable of reconquest and permanently dependent on military administration. Two years later the Long Reach of the Tarkhan horse pinned Iqashar's army in the far north, and the descent began against a city that could expect no relief.
+By 949 AR the highland roads and supply depots could carry an army down to Caleran. The empire had become capable of reconquest and permanently dependent on military administration. The descent began in 950, and the next year the Long Reach of the Tarkhan horse pinned Iqashar's army in the far north, leaving the city no hope of relief.
 
 ## Navigation
 

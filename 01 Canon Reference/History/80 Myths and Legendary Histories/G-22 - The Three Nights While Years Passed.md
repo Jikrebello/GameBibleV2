@@ -28,7 +28,7 @@ A plague caravan accepted refuge through a white orchard gate after the road beh
 
 On the third morning the gate reopened. Outside, nineteen years had passed. A mother returned younger than the daughter who had waited for her. A betrothed man found his beloved married, widowed and unwilling to resume a promise made to the person he had been. A child entered as an infant and came out still unable to speak while his brothers had become old men.
 
-Not everyone emerged together. One woman refused the gate because her sick husband had begun breathing again inside. Her sister left and spent a lifetime returning to the orchard at each third dawn. Another refugee crossed twice and aged years between two footsteps. Families fought over marriage, inheritance and whether the returned were truly themselves. Their souls had not been copied or divided; ordinary time had simply failed to remain shared.
+Not everyone emerged together. One woman refused the gate because her sick husband had begun breathing again inside. Her sister left and spent a lifetime returning to the orchard at each third dawn. Another refugee crossed twice and aged years between two footsteps. Families fought over marriage, inheritance and whether the returned were truly themselves. Priests who examined the returned found nothing copied or missing in them; ordinary time had simply failed to remain shared.
 
 The younger mother opened a farewell gift she remembered sealing for her baby. The grown daughter no longer remembered what was inside. They began their relationship again without pretending the lost years could be restored.
 
@@ -50,8 +50,6 @@ Farewell gifts are sealed with a white thread and may be opened only by the pers
 
 - [[High Noon Provinces and the Qarath Aftermath]]
 - [[Historical Spine of the Sestaran Concord]]
-- [[Patron Cities and the Long Rent Histories]]
-
 - [[High Noon and the Qarath Disaster]]
-- [[Myths and Legendary Histories MOC]]
-- [[World Historical Atlas MOC]]
+- [[Legendary Histories]]
+- [[The Ages of the World]]

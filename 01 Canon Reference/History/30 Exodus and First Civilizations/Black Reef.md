@@ -18,9 +18,9 @@ The Black Reef was the burned and grounded urban mass left by [[Marelith]] after
 
 ## A city broken from its bearer
 
-Fire broke Marelith's living works during Melvo's linked attack on the mobile city and Ardel's nearby fleet. The mass that became the reef tore from the maimed bearer and grounded. Most of the city's residents were killed or captured; those who escaped by boat or into deep water left households and stores behind. Sailors later blamed wrecks in bad weather on something still moving beneath the blackened structures. Some accounts may preserve encounters with the surviving reefback, while others describe ordinary reefs, storms or deliberate raiding.
+Fire broke Marelith's living works during Melvo's linked attack on the mobile city and Ardel's nearby fleet. Cultivated shell, attached harbours, living buildings and part of the flotilla broke apart as the maimed bearer rolled or fled, and the mass that became the reef tore away and grounded. Most of the city's residents were killed or captured. Some escaped by boat or into deep water, leaving households and stores behind; others were taken from disabled craft or out of the water; others stayed among the structures until they grounded. The name remembers the colour the fire left, and makes one reef of many burned neighbourhoods.
 
-Cultivated shell, attached harbours, living buildings and part of its flotilla broke apart as the bearer rolled or fled. Some residents escaped only to be taken from disabled craft or from the surrounding water. Others remained among structures that later grounded. The descriptive name remembers the colour the fire left, while hiding how many different places in the mobile city were destroyed before one mass became a reef.
+Sailors later blamed wrecks in bad weather on something still moving beneath the blackened structures. Some of their stories may preserve encounters with the surviving reefback; others describe ordinary reefs, storms or deliberate raiding.
 
 ## Navigation, salvage and memory
 

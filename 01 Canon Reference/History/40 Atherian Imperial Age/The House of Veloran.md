@@ -38,7 +38,7 @@ In 219 BR, the general Cavar Oren seized the [[The Crown of Olveth|Crown of Olve
 
 Orent was Tessa's nephew. Aren adopted him after he had governed eastern districts and cultivated ties among harbour councils. His accession confirmed that adoption and service could carry dynastic authority alongside descent.
 
-Early in his reign, around 200 BR, came the Sleepwalkers' Summer. For one season the people of three provinces rose from their beds at night and walked, harmlessly and all, the wardens' records insist, in the same direction. Families tied children to bedposts and woke on the road beside them. Orent's surveyors followed the trampled line, and the empire built a road on it, the Via Somnia, which is still in use and still has oddly good footing. The walking stopped everywhere on the same morning. The road ends at an unremarkable hillside that has since been dug four times by three civilisations and found, each time, to contain dirt. The augurs said that a summons had been withdrawn. Later the Church claimed the summer as a prefiguration of its pilgrim roads, and Vorthara keeps a standing grant for anyone who can explain it, which nobody has accepted.
+Early in his reign, around 200 BR, came the Sleepwalkers' Summer. For one season the people of three provinces rose from their beds at night and walked, harmlessly and all, the wardens' records insist, in the same direction. Families tied children to bedposts and woke on the road beside them. Orent's surveyors followed the trampled line, and the empire built a road on it, the Via Somnia, which is still in use and still has oddly good footing. The walking stopped everywhere on the same morning. The road ends at an unremarkable hillside that has since been dug four times by three civilisations and found, each time, to contain dirt. The augurs said that a summons had been withdrawn. Later the Church claimed the summer as a prefiguration of its pilgrim roads, and Vorthara keeps a standing prize for anyone who can explain it, which nobody has collected.
 
 His eastern campaigns secured the Arcelon corridor and several mountain approaches. Vashar's Dawn Road let its relay riders and reserves cross the eastern country faster than any Atherian column, and Orent wanted a road of his own. Commanders destroyed settlements that supported resistance and moved captives to road works. The capital's account celebrated a connected route and the end of raiding. [[The Two Roads of Arcelon]] preserves the provincial knowledge and deaths removed from that history, including the embankment that passed its test in the dry season and slid onto the labourers in the rains.
 
@@ -56,9 +56,7 @@ Orent had no surviving child and died in the fever summer of 151 before naming a
 
 ## Inheritance
 
-Later histories called the Veloran period the Peace of the Open Roads. The description fits merchants, students and officials able to use those routes during its calmer decades. Frontier households, conscripted labourers and people displaced by campaigns experienced the same roads differently.
-
-The dynasty's provincial origin widened the range of families able to imagine themselves at the centre of imperial life.
+Later histories called the Veloran period the Peace of the Open Roads. Merchants, students and officials travelled those roads in its calmer decades; frontier households, conscript labourers and families moved off campaign ground had built them, and their songs remember the building. The dynasty's provincial origin let a river-army family's grandchildren sit in the audience hall, and many more provincial families began to imagine their own there.
 
 ## Further reading
 

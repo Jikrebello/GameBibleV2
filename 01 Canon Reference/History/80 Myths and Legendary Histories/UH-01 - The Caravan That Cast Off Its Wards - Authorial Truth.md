@@ -38,8 +38,6 @@ The abandoned people did not become one hidden nation. Some joined Exodus column
 - **Several Giant-descended houses** claim their ancestors refused escape out of loyalty to humanity. Two decoy itineraries instead assign those houses to politically expendable processions.
 - **High Hunt folklore** calls the refugee dead oath-thieves because they carried court banners. This is true of the banners and false of the people beneath them.
 
-
-
 ## Discovery Interface
 
 - **Knowledge state:** `unknown`, with parts also `suppressed` and `misclassified`.

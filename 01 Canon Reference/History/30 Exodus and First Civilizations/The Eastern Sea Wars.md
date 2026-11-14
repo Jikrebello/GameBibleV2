@@ -122,31 +122,13 @@ The agreement leaves Atheria with the fleets, island obligations and coastal cli
 
 Independent harbours and difficult inland tracks leave routes outside the firm control of either state. Merchants cross through negotiated ports, exiles find patrons on the opposite side and border villages change masters without moving. By 350 BR, the coast contains mixed families, graves from several armies and communities that celebrate incompatible liberations.
 
-## Material conditions of the wars
+## What the wars ran on
 
-### Food and water
+Vasharan armies marched on Ubar grain, Qahuri barley, highland animals and the stores of the road stations. Atherian fleets ate from island granaries, coastal markets and the ship money of league members. That is why Ilyessa mattered: an army inland ate faster than the country it crossed could feed it, and its bread came by sea. The royal fleet was a gathering of subject squadrons with different hulls, rigging and habits, strong in numbers and hard to command as one; the Atherian crews had learned common signals and repair in the Gateway Wars. Vashari cavalry won battles inland and starved on a stripped coast.
 
-Vasharan armies depend upon grain from the Ubar and selected Qahuri suppliers, animals from the highlands and stored food at road stations. Atherian fleets draw upon island granaries, coastal markets and the fiscal obligations of league members. Naval defeat matters because inland armies consume food faster than local requisition can replace it.
+Free citizens, allied crews, debtors, prisoners and slaves built the ships, mended the roads, carried the stores and dug the siege works. Victory inscriptions credit kings and commanders. Pay lists name rowers, porters, carpenters and drovers, and burial pits hold the people the inscriptions left out. Pilots, translators, traders, hostages and road-house travellers carried knowledge between the powers. A false report wrecked an expedition as surely as a storm, and governments punished villages accused of guiding the enemy, often on the word of their neighbours.
 
-### Ships and animals
-
-The royal fleet is a collection of subject contingents. Its variety provides numbers and local skills while making unified command difficult. The Atherian fleet develops common signals and maintenance practices during the Gateway Wars. Vashari cavalry remains valuable inland and expensive to feed near a stripped coast.
-
-### Labour
-
-Free citizens, allied crews, debt dependants, prisoners and enslaved workers build ships, repair roads, carry stores and dig siege works. Victorious inscriptions credit kings and commanders. Pay lists name rowers, porters, carpenters and animal drivers, while burial pits record people omitted from accounts of the victories.
-
-### Information
-
-Pilots, translators, traders, hostages and road-house travellers carry knowledge between the powers. False reports ruin expeditions as effectively as lost ships. Governments reward informants and punish communities accused of guiding an enemy, often upon evidence supplied by local rivals.
-
-## Supernatural pressures
-
-Dreams of ordered nations around a radiant king, which court diviners attribute to the **Witness of Dawn**, strengthen Xarun's existing conviction that submission proves truth.
-
-Atherian crews dedicate weapons and campaign rites to **Astaroth**. They hold that a correspondence can reveal how force will travel through a particular hull, bridge or formation, and commanders use such answers as practical military information.
-
-Coastal people tell of winds and channels answering older Menhir relationships. Victory songs claim such an answer at Ilyessa, while the surviving campaign sequence records the pilots, divided channels and storm that shaped the battle.
+The sea and the sky took sides in the songs. Xarun's court diviners dreamed of ordered nations kneeling around a radiant king and called it the **Witness of Dawn**; it told the king what he already believed, that submission proved truth. Atherian crews dedicated weapons and campaign rites to **Astaroth**, and their commanders treated what the Red Star revealed about how force would travel through a hull, a bridge or a formation as plain military intelligence. Coastal people said the winds and channels of Ilyessa answered older powers of the sea. Victory songs claim such an answer at the Narrows; the campaign record shows pilots, divided channels and a storm.
 
 ## People whose lives join the account
 

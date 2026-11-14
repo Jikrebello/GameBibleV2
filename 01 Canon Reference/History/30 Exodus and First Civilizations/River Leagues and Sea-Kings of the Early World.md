@@ -3,7 +3,7 @@ type: history
 status: canon
 canon_level: local
 visibility: author-only
-era: ["1900–350 BR"]
+era: ["c. 2050–350 BR"]
 region: [Known World]
 culture: []
 related_factions: []
@@ -17,7 +17,7 @@ The early human world contained river powers, production leagues and maritime ho
 
 ## More than an Atherian prelude
 
-By the early Hearths, people who had never entered the Glass were already cultivating, building, raiding and rebuilding. The Ark descendants brought shared practices out of the refuge, not civilization into an empty land. The southern leagues joined a world of older paths, surviving engineered sites and rival Orphaned communities.
+By the early Hearths, people who had never entered the Glass were already cultivating, building, raiding and rebuilding. The Ark descendants brought shared practices out of the refuge, not civilisation into an empty land. The southern leagues joined a world of older paths, surviving engineered sites and rival Orphaned communities.
 
 The early Atherian sea-world was held together by timber, oars, stored food and people taken or hired from other shores. A captain could raid one harbour, trade in another and settle dependants in a third. These movements repeatedly changed character within one lifetime. Later founder houses simplified them into a single departure by a noble ancestor.
 

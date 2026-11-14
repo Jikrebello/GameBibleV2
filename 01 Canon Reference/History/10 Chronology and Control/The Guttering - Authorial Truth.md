@@ -66,7 +66,7 @@ This is why Corvenas I won in 713, why written orders could not lawfully move a 
 
 ## The Unsealing
 
-**The defect.** Many northern municipal charters had been witnessed under the Stars by augur colleges. When Vestian ended the Star rites and dissolved the colleges (381–384), the witness lapsed. *If Pass 04 accepts augurs as charter witnesses,* the lapse is a Menhir witness bound to the living law of the Star rites falling silent with that law. *If it does not,* the defect is the colleges' extinction as legal persons. Reader prose is written to stand on either reading. No Atherian court recognised the defect; Covenant law did, since an instrument whose witness is extinct can be voided. The dissolved colleges' families had sold their archives piece by piece, so the breach-courts knew which towns to visit first.
+**The defect.** Many northern municipal charters had been witnessed under the Stars by augur colleges. When Vestian ended the Star rites and dissolved the colleges (383–384), the witness lapsed. *If Pass 04 accepts augurs as charter witnesses,* the lapse is a Menhir witness bound to the living law of the Star rites falling silent with that law. *If it does not,* the defect is the colleges' extinction as legal persons. Reader prose is written to stand on either reading. No Atherian court recognised the defect; Covenant law did, since an instrument whose witness is extinct can be voided. The dissolved colleges' families had sold their archives piece by piece, so the breach-courts knew which towns to visit first.
 
 **What a service did.** The ruling bit through the town's own contracts. Garrison oaths, guild privileges and debts hung from the master charter, so when it fell the soldiers were released and the creditors panicked. The Covenant offered terms: tribute, disarmament, restricted testimony, protected worship. Towns that refused were stormed.
 
@@ -160,7 +160,7 @@ In 884 Qahir obtained the **Ruling of the Broken Suspension** from the Witnessed
 
 **The Borrowed Temple (IP-06, c. 905–907).** Per [[AF-R18 - Exile Behind the Borrowed Temple]]: an autonomous Pride Archmask; a provincial commander's chosen bargain; executed prisoners; constructed war-broods with no souls of their own; refugees denied water for refusing the acclamation; one genuine bounded commission of an unnamed redeemed saint, with loyal angels, preserving the prisoners' names at the last threshold while living people broke the acclaim engine and closed the route. The Exile survives elsewhere.
 
-**The children of the old house (HC-N13, c. 907).** The Saint of Five Remembered Wings received one commission: testify that neither blood nor mutilation transfers a human soul, guard the children while the compact was destroyed and confront the office's current bearer. "No wound inherits the child."
+**The children of the old house (HC-N13, c. 907).** The Heir with Five Remembered Wings, whom devotees call the Saint, received one commission: testify that neither blood nor mutilation transfers a human soul, guard the children while the compact was destroyed and confront the office's current bearer. "No wound inherits the child."
 
 ## Interfaces
 

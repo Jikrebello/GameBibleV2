@@ -25,7 +25,7 @@ Thalmyria venerates Isfir while remembering Jirahar elders through imperial Chur
 
 ## The Covenant
 
-Covenant states recognize Jirahar communities through negotiated instruments, taxes, and courts. Protection is real and unequal. Jirahar jurists influenced early contract scholarship through residence, conversion, and shared Scattering memories. Mazrakan and Melach are major points of exchange and conversion pressure.
+Covenant states recognise Jirahar communities through negotiated instruments, taxes, and courts. Protection is real and unequal. Jirahar jurists influenced early contract scholarship through residence, conversion, and shared Scattering memories. Mazrakan and Melach are major points of exchange and conversion pressure.
 
 ## Sestara
 

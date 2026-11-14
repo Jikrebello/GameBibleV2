@@ -33,7 +33,7 @@ Child labour, the founder's knowing refusal to stop a lethal test, expulsion of 
 
 ## The surviving inheritance
 
-a divided craft tradition, accessible tools, a coercive strength-order and no single lawful successor institution.
+A divided craft tradition, accessible tools, a coercive strength-order and no single lawful successor institution.
 
 Paired broken gauntlets are displayed in rival cities; neither pair need be original for the reform charter to be authentic.
 

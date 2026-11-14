@@ -13,7 +13,7 @@ tags: [core-canon]
 ---
 # The Erasure of Orthea
 
-Around **520 BR**, the Atherian league centered on [[Orthea]] destroyed a rebellious valley district after a hard campaign. The district had committed killings of its own, but the victors exterminated surrendered households, killed witnesses from allied units, burned tax and burial rolls, and made denial of the campaign's final phase a condition of office.
+Around **520 BR**, the Atherian league centred on [[Orthea]] destroyed a rebellious valley district after a hard campaign. The district had committed killings of its own, but the victors exterminated surrendered households, killed witnesses from allied units, burned tax and burial rolls, and made denial of the campaign's final phase a condition of office.
 
 ## Cause: the Siege Levy
 

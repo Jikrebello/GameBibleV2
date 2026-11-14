@@ -3,7 +3,7 @@ type: event
 status: canon
 canon_level: local
 visibility: public
-era: ["Underground Centuries"]
+era: ["c. 45–245 AR", "Underground Centuries"]
 region: ["Caleran", "Atherian Empire"]
 culture: ["Atherian", "Redeemer Church"]
 related_factions: ["Atherian Senate", "White Flame Monks"]
@@ -71,5 +71,4 @@ Velmion's silence did not save the tortured servants or close the prison beneath
 - [[The Conversion of the Empire]]
 - [[The Ember Underground]]
 - [[Codex of The Era of Blood and Ash]]
-- [[White Flame Doctrine]]
-- [[Timeline MOC]]
+- [[The Church after Qiryath - From Exile to Legalization|The Church after Qiryath]]

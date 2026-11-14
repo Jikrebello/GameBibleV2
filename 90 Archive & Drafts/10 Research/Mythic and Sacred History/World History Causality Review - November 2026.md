@@ -29,6 +29,15 @@ A whole-history review of the World Egg's historical canon from the Age of Chain
 >   - Earth-term and direction leaks, plus the Covenant's geography in *The Long Frontier*.
 > - **Still open.** Everything else in Appendix A, and the follow-ups listed in the index.
 
+> [!note] Status — 14 November 2026
+> On the creator's instruction to proceed on best judgement ([[Causality Pass - Direction]]), the following were written into canon:
+> - all six proposals;
+> - two new spines for 962–1360;
+> - the saints, sinners and Idol wars from the research layer;
+> - an in-world guide to 1360.
+>
+> The shared registers were integrated and AD-matching analog dates were shifted. Six independent reviewers then rated every era 8/10 for causal clarity and 7/10 for fun, with the supernatural share of turning points between about 50% and 65%. Remaining work, chiefly sequences that still track their real analogues closely, is listed under "What remains" in [[Causality Pass - 00 Proposal Index]].
+
 ---
 
 ## The verdict

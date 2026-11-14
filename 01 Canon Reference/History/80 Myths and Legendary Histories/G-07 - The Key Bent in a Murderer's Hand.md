@@ -59,7 +59,6 @@ Verion's later courts kept witnesses apart before comparing testimony. At some a
 ## Read onward
 
 - [[Age of City-States]]
-- [[River Leagues and Sea-Kings of the Early World]]
 - [[Historical Atlas of Atheria]]
-- [[Myths and Legendary Histories MOC]]
-- [[World Historical Atlas MOC]]
+- [[Legendary Histories]]
+- [[The Ages of the World]]

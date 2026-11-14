@@ -19,7 +19,7 @@ Nythalum's ruling houses were already ancient Giant lineages before the mature l
 
 ## Island and Capital
 
-The island held crystal cities, tropical forests, deep harbors, and the capital **Lunarasyl**. Monumental spires served at once as cities, launch vehicles, memory foundries, and public proof that the rulers could escape creaturely limits.
+The island held crystal cities, tropical forests, deep harbours, and the capital **Lunarasyl**. Monumental spires served at once as cities, launch vehicles, memory foundries, and public proof that the rulers could escape creaturely limits.
 
 Nythalum revered **Lyraxis**, associated with inspiration and transformative craft, and [[01 Canon Reference/Cosmology/30 Menhir/10 Second Circle/Mother Moon.md|Lunara]], whose Menhir law governs cycle, tide, instinct, and mutable form. Later rulers claimed immediate descent from Lyraxis, Lunara, or both. Those genealogies were false or imprecise compressions of much older Giant ancestry, patronage, captured court-law, bodily engineering, and celestial imitation; they do not establish either named power as the direct parent of every Nythalum dynasty. The rulers mistook Lunara's law of mutable form for permission to abolish death and identity's limits.
 
@@ -30,13 +30,13 @@ Nythalum correctly discovered that an active nonhuman mind could be transferred 
 Authorial canon distinguishes two results:
 
 - A **Continuant** is a Giant whose conscious operation moved from living body into a machine without interruption and has never stopped. The same nonhuman person continues with `giant-continuity`. It possesses full moral agency and can be killed by ending that one continuous process and every live migration route.
-- A **Reconstruction** is generated after interruption from memory samples, copied behavior, office records, or backup images. It uses `constructed-pattern`: it may claim identity and reproduce private recollections perfectly, but it is not the dead Giant, possesses no interior person, and has no moral agency.
+- A **Reconstruction** is generated after interruption from memory samples, copied behaviour, office records, or backup images. It uses `constructed-pattern`: it may claim identity and reproduce private recollections perfectly, but it is not the dead Giant, possesses no interior person, and has no moral agency.
 
 This continuity has nothing to do with the human Image or soul-road. Nythalum Giants were not human souls routed through the Vestibule. Machinery did not manufacture the Image. A backup created after a Continuant dies is only a Reconstruction.
 
 ## The Ascension Project
 
-Nythalum built enormous launch-spires to carry ruling households, laboratories, servants, menageries, and continuity systems through physical space to the physical moon. Lesser populations were indexed as labor, vessel stock, test bodies, or resources for a future return. The Ascension Project was not Egg White flight, passage into another realm, or a concealed second programme behind the lunar one.
+Nythalum built enormous launch-spires to carry ruling households, laboratories, servants, menageries, and continuity systems through physical space to the physical moon. Lesser populations were indexed as labour, vessel stock, test bodies, or resources for a future return. The Ascension Project was not Egg White flight, passage into another realm, or a concealed second programme behind the lunar one.
 
 Provisioning the launch stripped the island's coast of food. Fishing fleets were requisitioned as vessel stock, coastal granaries were sealed into launch stores, and the shore towns that had fed the spire-cities starved through the last seasons before the launch. Diluted rulers who could no longer carry their own minds across substrates without heavier machinery needed more test bodies to prove each transfer, and the coast supplied those too (Causality Pass 01.2, 14 November 2026).
 
@@ -62,7 +62,7 @@ Continuants may cooperate, feud, hide, or pursue incompatible returns. They are 
 
 Small probes, reconstructed officials, menagerie organisms, and rare Continuant emissaries have begun reaching the Material Realm. Later people commonly call all of them **the Forgotten Ones**, which conceals decisive differences.
 
-- [[The Star over Dustfeld]] centers on a genuine Continuant whose uninterrupted survival makes its choices morally accountable.
+- [[The Star over Dustfeld]] centres on a genuine Continuant whose uninterrupted survival makes its choices morally accountable.
 - [[The Fallen Spire]] contains a non-conscious command Reconstruction and ancient biological specimens.
 - [[No Word from Claim Seventeen — Full Adventure|Claim Seventeen]] exposes a copied administrative system that can simulate knowledge and argument but is not a person.
 

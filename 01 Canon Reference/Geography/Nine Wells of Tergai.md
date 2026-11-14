@@ -14,7 +14,7 @@ tags: []
 ---
 # Nine Wells of Tergai
 
-The **Nine Wells of Tergai** form a broken chain of deep water, seasonal pasture, graves, forts, shrines, and market fires north of Mazrakan. No single wall contains all nine; control means holding draw gear, roads, nearby grazing, and enough soldiers to keep access instruments enforceable.
+The **Nine Wells of Tergai** form a broken chain of deep water, seasonal pasture, graves, forts, shrines, and market fires north of Mazrakan. No single wall contains all nine; control means holding draw gear, roads, nearby grazing, and enough soldiers to stand at the well-lips.
 
 ## Tarkhan Memory
 
@@ -28,9 +28,9 @@ Covenant pilgrimage calls them the **Wells of First Submission**. Official accou
 
 ## Conquest of the Wells
 
-In 558 AR, the worst year of the Thin Floods drought, Covenant forces seized the wells by violence. Defenders were killed, expelled, bound into imposed access agreements or absorbed under military rule. The tradition of voluntary submission arose later as a political theology of the conquest.
+In 558 AR, the worst year of the dry-country drought that outlasted the Thin Floods, Covenant forces seized the wells by violence. Defenders were killed, expelled, bound to draw water only on the conquerors' terms or absorbed under military rule. The tradition of voluntary submission grew up afterwards, and the conquerors' preachers made it holy.
 
-Present Qahirid sovereignty at Tergai consequently rests upon an old dispossession. Pilgrims and frontier families inherited very different relationships to that history, and many arrived long after the conquest.
+Qahirid rule at Tergai therefore stands on an old dispossession, and the pilgrims' witness stones rise among Tarkhan graves. Pilgrims and frontier families inherited very different relationships to that history, and many arrived long after the conquest.
 
 ## The Hound Wells and the Horse War
 

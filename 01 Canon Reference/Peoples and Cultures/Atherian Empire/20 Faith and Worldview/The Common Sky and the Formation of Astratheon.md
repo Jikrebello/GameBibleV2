@@ -64,7 +64,7 @@ The Celestial Compact used a shared calendar to coordinate delegations, military
 
 As the republic expanded, patrons supported festivals to display wealth and gather followers. Commanders dedicated arms and captives after victories. Religious offices became valuable to households seeking lasting influence, and successful teachers attracted pupils from distant cities. Civic pride and sincere worship could accompany disputes over money, precedence and coercive demands.
 
-The tradition of [[01 Canon Reference/History/80 Myths and Legendary Histories/Additional Mortal Lives and Frontier Traditions.md#^atlas-ii-m05|the Family of Stars]] remembers scholars arranging local powers into an elegant kinship while suppressing older tales of mutilation and parent–child war. Officials punished rival celebrations and made households perform the new order. This later compilation was separate from the Common Sky's original royal settlement.
+The tradition of the Family of Stars remembers scholars arranging local powers into an elegant kinship while suppressing older tales of mutilation and parent–child war. Officials punished rival celebrations and made households perform the new order. This later compilation was separate from the Common Sky's original royal settlement.
 
 Astaroth's elevation as guardian of imperial destiny belongs to Thalion's subsequent government. The earlier cult provided an inheritance that his rulers and priests would develop further.
 

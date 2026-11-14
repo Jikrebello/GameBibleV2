@@ -64,7 +64,7 @@ The [[01 Canon Reference/History/80 Myths and Legendary Histories/G-73 - The Oar
 
 Furnace leagues linked ore basins to charcoal districts and harbours. Craft knowledge inherited from Giant workshops became useful where households could obtain fuel, food and transport. Bronze, iron, stone tools and salvaged equipment coexisted. Communities maintained what they could repair with the labour and materials available to them.
 
-The [[01 Canon Reference/History/80 Myths and Legendary Histories/Additional Mortal Lives and Frontier Traditions.md#^atlas-tf-06|Furnace League tradition]] remembers pooled production sustained partly by captive labour. A ruler diverted food towards an expansion fleet; workers resisted the levy, and two towns were lost in reprisal. The broader industrial networks also suffered commercial failures when coastal buyers stopped accepting ore. Escaping workers carried techniques elsewhere, while abandoned furnaces marked the places where exchange had broken down.
+The Furnace League tradition remembers pooled production sustained partly by captive labour. A ruler diverted food towards an expansion fleet; workers resisted the levy, and two towns were lost in reprisal. The broader industrial networks also suffered commercial failures when coastal buyers stopped accepting ore. Escaping workers carried techniques elsewhere, while abandoned furnaces marked the places where exchange had broken down.
 
 Aurin producers participated through river and pack routes. Nerava transferred goods between boats and animals; Thesra supplied craft and learning; Olveth supplied metal and pack stock. Their traffic towards the north-western coast was distinct from the island networks of the eastern Thalassian. Intermediaries, overland approaches and longer coastal journeys connected these regions.
 
@@ -83,6 +83,6 @@ These failures belonged to maritime societies that had developed for generations
 Settlements with dependable water, cultivated hinterlands and useful anchorages could sustain larger populations. Households invested in quays, store buildings, walls and public spaces which outlasted individual voyages. Councils acquired responsibilities for work that one family could no longer undertake alone. These developments prepared the urban world described in [[The First Atherian City-States]].
 
 - [[Arkenan and Saronikan Cities before the Empire]]
-- [[River Leagues and Sea-Kings of the Early World]]
+- [[Palace Survivors and the Southern Heroic Age]]
 - [[01 Canon Reference/History/30 Exodus and First Civilizations/Age of Scattering.md|Age of Scattering]]
 - [[01 Canon Reference/History/30 Exodus and First Civilizations/Age of Hearths and First Kings.md|Age of Hearths and First Kings]]

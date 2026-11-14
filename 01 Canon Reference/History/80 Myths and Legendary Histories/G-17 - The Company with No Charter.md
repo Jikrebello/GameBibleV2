@@ -16,7 +16,7 @@ aliases: ["The Company with No Charter"]
 ---
 # The Company with No Charter
 
-> **Stories told.** This is an unfinished 1360 tradition. Current rumours and the observable practice are established; no future discovery, victory, judgement or fate is implied.
+> **Stories told.** This tale is still happening in 1360. The rumours and the custom below are real; how it ends, nobody yet knows.
 
 ## Historical setting
 
@@ -38,7 +38,7 @@ The cook fed them again without asking for a promise. At sunrise, the rescued bi
 
 ## Why it is remembered
 
-This root plants forward hooks without converting them into foretold history. Its significance is intimate: debt, a missing sibling, injured trust, a neighbour's birds and the frightening first moment strangers become responsible for one another.
+People repeat it because nobody knows how it ends. Its pull is intimate: debt, a missing sibling, injured trust, a neighbour's birds and the frightening first moment strangers become responsible for one another.
 
 ## How tellers differ
 
@@ -48,14 +48,8 @@ Because the events are recent, versions differ by gossip rather than tradition. 
 
 A scorched bird cage hangs above the repaired lodging. Locals place unsigned scraps inside when they need help but do not know whom to trust.
 
-## History and belief
-
-The tale stops at the present.
-
 ## Read onward
 
-- [[Present-Day Political Board]]
-
 - [[The Age of Held Proofs]]
-- [[Myths and Legendary Histories MOC]]
-- [[World Historical Atlas MOC]]
+- [[Legendary Histories]]
+- [[The Ages of the World]]

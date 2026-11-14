@@ -3,7 +3,7 @@ type: history
 status: canon
 canon_level: regional
 visibility: public
-era: ["c. 650–350 BR"]
+era: ["c. 660–350 BR"]
 region: [Gateway-facing Thalassian Sea]
 culture: [Elmaric peoples, Gateway peoples, Atherian coastal peoples]
 related_factions: [Gateway Republic, Caleran Republic]

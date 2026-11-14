@@ -68,17 +68,19 @@ The king held the landing. His men went with the wolf into the trees, and fewer 
 
 ## Variants and customs
 
-Royal tellings make Caleth the first to draw a weapon or attribute his death to a confused struggle among followers. Thesran versions give Sareth a larger part and describe her refusal to let Avren pay for the funeral. Stories told among hunters retain Ravessa's speech about the lost basin; later civic versions often turn her into an ordinary animal and leave out the purpose of her fosterage. Some temple poems call the boys sons of Orionis, a claim which sits uneasily beside traditions that continue to name Damaris and Meral.
+Royal tellings make Caleth the first to draw a weapon or attribute his death to a confused struggle among followers. Thesran versions give Sareth a larger part and describe her refusal to let Avren pay for the funeral. Stories told among hunters retain the wolf's name, Ravessa, and her speech about the lost basin; later civic versions often turn her into an ordinary animal and leave out the purpose of her fosterage. Some temple poems call the boys sons of Orionis, a claim which sits uneasily beside traditions that continue to name Damaris and Meral.
 
 The two small bowls belong chiefly to household commemorations. Families set them beside a shared meal and give their contents to children before the adults eat. Some tellers emphasise the children rescued from the boat, others the brothers who failed to share their house. Potter families associated with Sareth preserve pairs whose decoration differs slightly, allowing both resemblance and separation to remain visible.
 
-Wolf images belong to a wider range of later uses. Royal houses display her as a protector; hostile songs give her hungry eyes fixed on the boys. A few local traditions leave food at the edge of a wood, although the sites they identify cannot all be Ravessa's old approach. The survival of an image or custom supplies no complete account of the being whom it represents.
+Wolf images belong to a wider range of later uses. Royal houses display her as a protector; hostile songs give her hungry eyes fixed on the boys. A few local traditions leave food at the edge of a wood, although the sites they identify cannot all be Ravessa's old approach.
 
 ## The tale and the historical account
 
 The narrative preserves the family relationships and murder around which the founding traditions developed. Its dialogue and compressed sequence belong to the telling. Some details, including the precise words exchanged in the timber hall, are unavailable to ordinary historians. The paired bowls continue to be made; no surviving pair has been established as Meral's own vessels.
 
+## Read onward
+
 - [[Avren and Caleth]]
 - [[Caleran - Foundation and Royal Households]]
-- [[Myths and Legendary Histories MOC]]
-
+- [[Age of City-States]]
+- [[Legendary Histories]]

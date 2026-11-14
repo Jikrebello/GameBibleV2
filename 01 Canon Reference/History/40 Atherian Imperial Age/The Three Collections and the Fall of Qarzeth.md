@@ -3,7 +3,7 @@ type: history
 status: canon
 canon_level: regional
 visibility: public
-era: ["c. 580–520 BR"]
+era: ["c. 600–520 BR"]
 region: [Qarzeth, Gateway country]
 culture: [Gateway peoples, Atherian]
 related_factions: [Gateway Republic, Caleran Republic]
@@ -34,7 +34,7 @@ Collectors travelled with guards and household lists. Families hid children in o
 
 **Ilya of Qarzeth** worked in the sanctuary stores. Before the third collection she copied the names of imprisoned children onto packing strips, taking them from the collectors' own lists, and escaped in a grain cart. Her list contained errors and omissions, but it named holding rooms, officials and the districts that knew what was happening.
 
-At Esharat, the midwife **Sapha** organised carriers, fishing households and rural kin into a rescue route. They moved children beneath produce and through irrigation channels. The route saved dozens and failed many others. Collectors killed Sapha's husband during a search and took her eldest daughter, **Neral**. Neral was sacrificed before the rescuers reached Qarzeth.
+At Esharat, the midwife **Sapha of Esharat** organised carriers, fishing households and rural kin into a rescue route. They moved children beneath produce and through irrigation channels. The route saved dozens and failed many others. Collectors killed Sapha's husband during a search and took her eldest daughter, **Neral**. Neral was sacrificed before the rescuers reached Qarzeth.
 
 The opponents disagreed about their purpose. Ilya wanted the sanctuary dismantled and the Republic preserved. Sapha wanted Qarzeth's authority broken. Belqara's leaders sought independence, while exiles called for the city's destruction. Their testimony nevertheless established that the killings belonged to a public institution protected by the Republic.
 
@@ -44,7 +44,7 @@ Escaped families carried their evidence to Atherian ports. The elderly senator *
 
 Valeor spoke in a city that had killed Gateway children of its own. In 609, during the war against Zamaret Ordan, Caleran had offered Gateway hostages, children of about eight to sixteen, to the Red Star on its festival ground. When Valeor demanded Qarzeth's destruction, Gateway exiles in Caleran answered by reading out those children's names. Senator **Mera Castren** drew the opposite lesson from the same ground: Caleran had stopped, so Qarzeth could stop too. She proposed inspectors, permanent hostages and the compulsory closure of the sanctuary, and she cited Ilamar's record of the sealed jars to argue that the towns, given protection, would starve the cult themselves. Gateway opponents of the cult supported parts of her proposal because annihilation would punish the families who had resisted. Valeor answered that the rooms would reopen after an Atherian withdrawal.
 
-Valeor's coalition included people seeking rescued children, safer shipping, land, profit and military distinction. Qarzeth surrendered weapons and selected hostages. Caleran then demanded that the inhabitants abandon the city and rebuild inland. The assembly refused. Opponents of sacrifice defended their homes beside cult patrons, and some were killed trying to overthrow the priesthood during the siege.
+Valeor's coalition included people seeking rescued children, safer shipping, land, profit and military distinction. Qarzeth surrendered weapons and selected hostages. Caleran then demanded that the inhabitants carry the Provider's bronze face out of the sanctuary and break it on the shore with their own hands. The assembly refused. The city had eaten from the Provider's granaries for two generations, and few citizens could say how it would eat without them. Opponents of sacrifice defended their homes beside cult patrons, and some were killed trying to overthrow the priesthood during the siege.
 
 ## Siege and rescue
 
@@ -58,7 +58,7 @@ The defeat came in the order the Gateway country still tells it.
 
 Across the rest of the city, Atherian soldiers murdered residents, raped captives and organised survivors for sale. Some rescued children were separated again during the distribution of prisoners, and captains from the wandering harbour-city of [[Marelith]] bought them and resold many to the ransom funds. Officers intervened unevenly, and commanders permitted looting and mass enslavement. Captured priests and officials were executed.
 
-**The survivors ate together.** Some days after the sack, at Sarqen's landing, the people the war had spared shared one meal: rescued children, carriers, farmers, freed slaves, people ransomed out of the capital and a few Atherian deserters. Each brought what they had. No one was served by rank and no seat was kept empty. Sapha set the rules and refused to preside. The rules became the **Table Oath** of the spared towns: *no child for the table; no seat kept empty; no guest served by worth.*
+**The survivors ate together.** Some days after the sack the spared people of the Gateway country, rescued children and Atherian deserters among them, shared bread, fish and salt at Sarqen's landing with no one served by rank and no seat kept empty. Sapha set the rules and would not preside. They became the **Table Oath** of the spared towns: *no child for the table; no seat kept empty; no guest served by worth.* [[The Spared Towns and the Queen's Country#The table at the landing|The table at the landing]] describes the meal.
 
 ## Destruction and salting
 
@@ -76,7 +76,7 @@ Sapha refused office in the Spared Town League. She trained carriers to recognis
 
 Valeor died before the final assault. Caleran raised a statue showing him with a rescued infant. Gateway survivors later broke its face. Survivors who knew both lists of names, the hostages of 609 and the children of the collections, said they broke it for both. Mera Castren helped establish ransom funds and continued defending the senate's right to govern the conquered country.
 
-The spared towns renewed the Table Oath every year at Sarqen. In 457 they made Arenes, the first hereditary ruler of the country, eat at the unranked table and swear it before they recognised him, and every Nerethan ruler after him swore it at accession. The oath became a genuine moral inheritance and the root of the dynasty's legitimacy. It did not end slavery, compulsory labour or political violence within the successor kingdom.
+The spared towns renewed the Table Oath every year at Sarqen. In 457 they made Arenes, the first hereditary ruler of the country, eat at the unranked table and swear it before they recognised him, and every Nerethan ruler after him swore it at accession. The oath became a genuine moral inheritance and the root of the dynasty's legitimacy. Slavery, compulsory labour and political killing went on in the successor kingdom all the same.
 
 ## Further reading
 

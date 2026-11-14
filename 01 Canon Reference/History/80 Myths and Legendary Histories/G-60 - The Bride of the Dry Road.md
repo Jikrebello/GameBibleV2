@@ -28,7 +28,7 @@ It is told along Near-Glass caravan routes and among communities formed through 
 
 After a conflict over caravan access and wells, a male Ark-descended route guide entered the household of a Tarkhan-facing coalition leader. His service was at once employment, son-in-law alliance and hostage-like dependence. He married women of two coalition branches under separate witnesses and property obligations; the wife he favoured bore fewer sons. Their father repeatedly reinterpreted wages, allotted stock and departure rights to retain the household's labour and route knowledge.
 
-The favourite wife stole portable idols of her father's gods because she feared the consequences of departure and did not understand or trust the God of her husband. The objects were genuine cult images, but no reliable account establishes that they spoke or housed the gods like persons in containers. She hid them in a travelling saddle-seat and invoked genuine menstrual privacy when her father searched the camp. Her husband did not know she had taken them and declared that the thief should die.
+The favourite wife stole portable idols of her father's gods because she feared the consequences of departure and did not understand or trust the God of her husband. The objects were genuine cult images, but no reliable account says they spoke or held their gods inside them. She hid them in a travelling saddle-seat and invoked genuine menstrual privacy when her father searched the camp. Her husband did not know she had taken them and declared that the thief should die.
 
 The party included both wives, their children and dependants, protected fugitives, allotted stock and copied records. When senior kin demanded the fugitives, the husband refused surrender under guest protection; they killed acknowledged peace-kin and made return impossible. The pursuit ended at a witnessed boundary settlement which barred forcible return.
 
@@ -48,7 +48,7 @@ Years later the images emerged during a quarrel over inheritance. The husband br
 
 ## Why it is remembered
 
-The cycle joins exploited service, marriage politics, guest protection and religious misunderstanding. Its danger lies less in an idol acting like a speaking device than in fearful people making vows and succession choices before they understand one another.
+The cycle joins exploited service, marriage politics, guest protection and religious misunderstanding. Its danger lies less in the stolen gods than in frightened people making vows and choosing heirs before they understand one another.
 
 ## How tellers differ
 
@@ -60,11 +60,8 @@ Boundary stones associated with the tale bear paired witness marks. Several comm
 
 ## Read onward
 
-- [[Peoples in the World Historical Atlas]]
-- [[River Leagues and Sea-Kings of the Early World]]
 - [[Historical Spine of the Covenant]]
 - [[Historical Spine of the Jirahar]]
-
 - [[Age of Scattering]]
-- [[Myths and Legendary Histories MOC]]
-- [[World Historical Atlas MOC]]
+- [[Legendary Histories]]
+- [[The Ages of the World]]

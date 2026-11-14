@@ -50,7 +50,6 @@ Before a disgraced sanctuary can be reused, roof tiles are carried out in public
 
 - [[Historical Atlas of Atheria]]
 - [[Historical Spine of the Jirahar]]
-
 - [[Age of Stars]]
-- [[Myths and Legendary Histories MOC]]
-- [[World Historical Atlas MOC]]
+- [[Legendary Histories]]
+- [[The Ages of the World]]

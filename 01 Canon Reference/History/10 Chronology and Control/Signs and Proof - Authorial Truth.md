@@ -28,9 +28,9 @@ This is the answer to the question the causality review put to the whole span: w
 
    A wonder shows that something acted. It does not show what acted. [[Mesakha Traditions]] already requires signs that "cannot be staged by warlock script, contract, Shade, relic fraud, or Idol pressure".
 3. **Law names signs.** From the Common Sky onwards the augur colleges kept the civic calendar and the register of answers (origin and legal form: [[Causality Pass - 03 Age of Glory and the Bridge to 0 AR|Pass 03]]). In imperial law a sign existed only once a chartered college had entered it with its terms, its witnesses and the name of the answering Star. A registered answer could open a campaign, void an election, or consecrate or condemn ground. An unregistered wonder was fraud or an unlicensed cult feeding something.
-4. **The magistrate's profile was earned.** A cult that met at executed men's graves, kept lamps for them, reported lights on the dead and refused the colleges' examination matched, point by point, the profile the empire had learned from real Mask cults: the ruler-cult appetite, Qarzeth's Gluttony Mask, the grief cults of garrisons, and above all the Kept Lamps of 246–248. Many persecuting magistrates were sincere sacred hygienists who had seen a Mask feed. Their sincerity excuses none of the tortures, burnings and confiscations they ordered.
+4. **The magistrate's profile was earned.** A cult that met at executed men's graves, kept lamps for them, reported lights on the dead and refused the colleges' examination matched, point by point, the profile the empire had learned from real Mask cults: the ruler-cult appetite, Qarzeth's Gluttony Mask, the grief cults of garrisons, and above all the Kept Lamps of 242–244. Many persecuting magistrates were sincere sacred hygienists who had seen a Mask feed. Their sincerity excuses none of the tortures, burnings and confiscations they ordered.
 5. **Why witness carried the faith.** Proof could not compel belief. The believer cannot produce a sign on demand; the sceptic can always assign it to a rival author; the law gave the naming to an interested body; and belief is assent, which neither force nor calculation supplies. The faith spread by people, and its signs travelled as rumour among the already persuaded. A self-authenticating sign (the Aurin at Velos, which anyone can watch fail to freeze) broke the colleges' monopoly when three centuries of testimony had not.
-6. **The Stars keep the same rule.** The Menhir answer inside their own grammar. Astaroth answers a field, a load and a price. His structural answers to builders and siege engineers are a standing practice from Darneth onward. He answered **Astrion's public test of legitimacy** once, in 350, because it put a real load at real hazard. He gave nothing to "victory without resistance": no terms for Astrion's proposed second test, nothing to Ilios Marrant's last petition of 381 (no load, no price, only a request to be shown worthy), and nothing to the eastern command's petition at the crossing in 384. The Church learned this rule as a defendant and forgot it as a ruler.
+6. **The Stars keep the same rule.** The Menhir answer inside their own grammar. Astaroth answers a field, a load and a price. His structural answers to builders and siege engineers are a standing practice from Darneth onward. He answered **Astrion's public test of legitimacy** once, in 350, because it put a real load at real hazard. He gave nothing to "victory without resistance": no terms for Astrion's proposed second test, nothing to Ilios Marrant's last petition of 383 (no load, no price, only a request to be shown worthy), and nothing to the eastern command's petition at the crossing in 384. The Church learned this rule as a defendant and forgot it as a ruler.
 
 **Corollary for readers.** Every reader article in this span may let witnesses disagree about what a wonder was. None may settle it in narration.
 
@@ -39,7 +39,7 @@ This is the answer to the question the causality review put to the whole span: w
 No augural register in the empire records an answer between the hour of the Binding and the third morning. Severan's register is the best known only because he read at Qiryath; every college's book has the same blank. Augury resumed on the fourth day unchanged.
 
 - **Truth.** The fled powers held still while the Judge was among the dead. Menhir fusion was a flight from judgement, and every Menhir sovereignty, the Stars included, went still for those three days. This file makes no ruling on whether Idol Masks also fell silent; no register could have recorded it.
-- **In-world.** The registers prove only that no answer came. The colleges sealed the days. Tyros carried knowledge of them into the open, the Great Purge was fought partly to recover the copies, and the bishops have held the originals since 381 and have never published them.
+- **In-world.** The registers prove only that no answer came. The colleges sealed the days. Tyros carried knowledge of them into the open, the Great Purge was fought partly to recover the copies, and the bishops have held the originals since 383 and have never published them.
 - **Interface.** Qiryath's Silence of Acceptance (permanent) and the Three Silent Days (three days) fall together at 0 AR. Neither explains the other, and no reader article may present either as the cause of the other. The Silence of Acceptance stays as the Jirahar and Church dispute it.
 - **Severan** never read again. His college recorded that he "laid down the staff". Grief, fear or faith: unresolved.
 
@@ -66,19 +66,19 @@ No document on the route states a count, and none may be written to.
 
 **The Third Nail stays ⊘ SEALED.** Nothing above explains the count. The Weird register is not amended; the author declined even the clause "fused into the Pillar by the Purge commission". The Lives of bearers who swallowed shavings from the nails are demonstrably late.
 
-## 5. The Kept Lamps (c. 246–248 AR)
+## 5. The Kept Lamps (c. 242–244 AR)
 
-An **Envy Mask** spread through unpaid eastern garrisons in the arrears after the second Vashar war, promising that comrades who died unpaid were "kept" by lamps over their graves. The lamps leaned towards mourners and burned without oil. The Mask fed on the grievance, and the mutinies drew heat from it. Augurs broke its central image c. 247–248.
+An **Envy Mask** spread through unpaid eastern garrisons in the arrears after the second Vashar war, promising that comrades who died unpaid were "kept" by lamps over their graves. The lamps leaned towards mourners and burned without oil. The Mask fed on the grievance, and the mutinies drew heat from it. Augurs broke its central image c. 243–244.
 
-- Tervan's Edict of Public Sacrifice (249) answered a real Mask. Its licence for every household's graves and lamps caught the Redeemer burial fraternities.
-- After 253 most congregations relit from a flame never licensed. Amaryah's keepers had hidden her lamp in a covered firepot in a neighbour's bread oven; theirs became the flame everyone sought, and the daughter-flame custom spread from that winter.
-- **The Temple That Would Not Burn** (Cyrian, c. 250): the commissioners' three burnings were sincere anti-Idol purgations. What preserved the stone is not ruled here and stays open to its three interpretive voices; the authorial position is only that the Kept Lamps Mask had no part in the Cyrian shrine.
+- Tervan's Edict of Public Sacrifice (245) answered a real Mask. Its licence for every household's graves and lamps caught the Redeemer burial fraternities.
+- After 248 most congregations relit from a flame never licensed. Amaryah's keepers had hidden her lamp in a covered firepot in a neighbour's bread oven; theirs became the flame everyone sought, and the daughter-flame custom spread from that winter.
+- **The Temple That Would Not Burn** (Cyrian, c. 246): the commissioners' three burnings were sincere anti-Idol purgations. What preserved the stone is not ruled here and stays open to its three interpretive voices; the authorial position is only that the Kept Lamps Mask had no part in the Cyrian shrine.
 
 ## 6. Ironvale and the Forty Flames (290–291 AR)
 
 The flame on the Forty was a genuine, brief manifestation of the White Flame (already fixed in the Chronology). The 291 deposition is honest: the guard and Brask, the Ashforges' enslaved script-keeper, freed by Cassian's officers so his oath would stand, swore the furnace scripts were cold. The prison roll's silence about the flame is the crown's own lie of omission. Both crown records survive.
 
-The Council of Second Flame (c. 382–383) was the first bishops' sign hearing after the Dissolution. It confirmed the Forty on the deposition. The deposition reached Aurelium only after 381.
+The Council of Second Flame (c. 383–384) was the first bishops' sign hearing after the Dissolution. It confirmed the Forty on the deposition. The deposition reached Aurelium only after 383.
 
 ## 7. Velos and the Crown's River (292–377 AR)
 
@@ -105,11 +105,11 @@ The ford below Kellovar belonged to a Menhir river-court of Hecatara's grammar (
 
 The court is morally blind. It exacted without judging. The defeat proves only the ford's law, not the justice of the Folk cause (which was just on other grounds) or Heaven's judgement on Lucar (which this file does not rule). Vestian read it as a judgement on a divided empire; that was his reading.
 
-## 10. The Dissolution and the War of the Two Standards (381–384 AR)
+## 10. The Dissolution and the War of the Two Standards (383–384 AR)
 
 **Ilios Marrant**, the last High Augur of Caleran, asked leave for one final petition to the Red Star on behalf of the college that had made it answer in 350. Vestian granted it before a crowd in the Celestial Forum, before the Pillar that holds the Nails. The augurs set no load and named no price. Nothing answered, because there was nothing in the request the Star could answer. A converted augur later recorded Marrant's own reading of this; it is correct.
 
-By statute the authentication of signs passed to the bishops of recognised communion, with the Deep Register (including the Three Silent Days and, after 384, the 350 record). Caleran 381, the provinces by 384, the east at the war's end.
+By statute the authentication of signs passed to the bishops of recognised communion, with the Deep Register (including the Three Silent Days and, after 384, the 350 record). Caleran 383, the provinces by 384, the east at the war's end.
 
 ## 11. The Second Silence (385–c. 389 AR)
 
@@ -133,7 +133,7 @@ By statute the authentication of signs passed to the bishops of recognised commu
 
 ## 13. The Empty Charter's Clause (c. 396 AR)
 
-Vestian struck out "in perpetuity" and wrote *before the Mesakha* in his own hand, using the Jirahar word. Motives: the Second Silence had persuaded him the Return was near; a conditional prohibition binds until its condition is met; and the word was a sneer and a creed at once. The charter never says who recognises the Mesakha. A recognised sign would lift the ban on rebuilding, and two authorities claim the right to recognise one: the Church (heir to the augurs' power since 381) and the Keepers (holders of the Mesakha tests). The warmth beneath the Silent Gate stair in 1360 is therefore a legal emergency as well as a theological one. **What the warmth is remains unresolved.**
+Vestian struck out "in perpetuity" and wrote *before the Mesakha* in his own hand, using the Jirahar word. Motives: the Second Silence had persuaded him the Return was near; a conditional prohibition binds until its condition is met; and the word was a sneer and a creed at once. The charter never says who recognises the Mesakha. A recognised sign would lift the ban on rebuilding, and two authorities claim the right to recognise one: the Church (heir to the augurs' power since 383) and the Keepers (holders of the Mesakha tests). The warmth beneath the Silent Gate stair in 1360 is therefore a legal emergency as well as a theological one. **What the warmth is remains unresolved.**
 
 ## 14. Saints, Sinners and Wonders of the Span
 
@@ -144,8 +144,8 @@ Each item below is told in reader prose as "the chronicles claim" or with named 
 | **Voice Beside the Binding** (HC-N10; c. 244–267, c. 404) | The prison clerk gave one false name under torture, later copied the erased names, refused to become the living mouth of a Pride-Mask containment beneath a civic court, and died sealed inside it. c. 404 custodians of his reliquary issued commands "in his voice", certified by a bishop's readers, to name enemies of the converted state. A genuine Saintly manifestation held the containment long enough to evacuate its keepers, said the voice was counterfeit and repeated the betrayed worker's name. | [[The Conversion of the Empire]] |
 | **Charter of the Mire Keys** (IP-03; c. 150–240) | The Lady of the Mire Keys ([[AF-R07 - Lady of the Mire Keys]]) is a damned human soul ruling an infernal prison-city. Her escapes are real, and every opened cell is filled by someone else. | [[The Ember Underground]] |
 | **Campaign of the Borrowed Martyr** (ID-R06R; c. 272–338) | A Pride Mask (the Crowned Witness) and an Envy Mask (the Weeping Double) fed rival shrines on one executed quarryman's image. Neither held his soul. The shrine custodians who killed the cousin and burned the house chose those killings. | [[The Conversion of the Empire]] |
-| **War of the Closed Doors** (GP-III-02; 381–c. 400) | Some temple closures broke Menhir compacts that were still valid (fords, floods, wells); some interrupted Idol feeders; some displaced only workers. Real Menhir response does not vindicate idolatry; real Idol presence does not excuse collective punishment. A church crypt on the Weiss is built around a compact still in force in 1360. | [[The Conversion of the Empire]] |
-| **Preacher of the Second Gospel** (GS-02; c. 330–382) | As [[GS-02 - Preacher of the Second Gospel]]. His counter-church's real minor wonders came from hostile powers; "effectiveness proves truth" is the exact error the Commission Rule refutes. He became a live competitor once the colleges fell (381), because his wonders were the only ones not licensed by bishops. | [[The Conversion of the Empire]] |
+| **War of the Closed Doors** (GP-III-02; 383–c. 400) | Some temple closures broke Menhir compacts that were still valid (fords, floods, wells); some interrupted Idol feeders; some displaced only workers. Real Menhir response does not vindicate idolatry; real Idol presence does not excuse collective punishment. A church crypt on the Weiss is built around a compact still in force in 1360. | [[The Conversion of the Empire]] |
+| **Preacher of the Second Gospel** (GS-02; c. 330–389) | As [[GS-02 - Preacher of the Second Gospel]]. His counter-church's real minor wonders came from hostile powers; "effectiveness proves truth" is the exact error the Commission Rule refutes. He became a live competitor once the colleges fell (383), because his wonders were the only ones not licensed by bishops. | [[The Conversion of the Empire]] |
 | **Coal-Bearer at the False Choir** (OBA-N06; c. 382–391) | As its authorial page. Fits the Profession years. | [[The Conversion of the Empire]] (brief) |
 | **Averted Legion** (c. 150) | **UNRESOLVED**, even here. May be told in reader prose with its factions; never explained. | [[The Ember Underground]] |
 

@@ -34,7 +34,7 @@ The king had no recovered pay chest. He rewarded followers with houses, stores a
 
 The king's agents weakened the rival's steering gear before a ceremonial boat race. The vessel struck a reef, and the court declared the death an accident. The king carried the recovered oar as proof of his friend's supposed blessing.
 
-A genuine prophet of the Lord, holding a bounded commission and no succession from the Great Prophet, later told the king of a rich captain who stole a freed rower's only boat. When the king condemned the offender, the prophet identified him as that man and exposed both the murder and the conquered harbour's suffering. The king confessed publicly, returned the oar, freed captives still within his control and ended the future sale of people as payment. He kept the crown and most allotments.
+A prophet of the Lord, who claimed no inheritance from the Great Prophet, later told the king of a rich captain who stole a freed rower's only boat. When the king condemned the offender, the prophet identified him as that man and exposed both the murder and the conquered harbour's suffering. The king confessed publicly, returned the oar, freed captives still within his control and ended the future sale of people as payment. He kept the crown and most allotments.
 
 After his death, rival heirs and factions fought a succession war which ended hereditary kingship and produced a civic magistracy. The surviving ceremonial oar is a disputed substitute, while the dockside lament preserves names of captives omitted from royal history.
 
@@ -70,9 +70,7 @@ A ceremonial oar of disputed age precedes one magistrate. Dockworkers trail it w
 
 - [[Early Folk Clan Worlds]]
 - [[Southern Cold Belt and Grobi Frontier]]
-- [[River Leagues and Sea-Kings of the Early World]]
 - [[The Folk before Atheria]]
-
 - [[Age of Hearths and First Kings]]
-- [[Myths and Legendary Histories MOC]]
-- [[World Historical Atlas MOC]]
+- [[Legendary Histories]]
+- [[The Ages of the World]]

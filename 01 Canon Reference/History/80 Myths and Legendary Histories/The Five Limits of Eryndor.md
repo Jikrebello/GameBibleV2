@@ -3,7 +3,7 @@ type: myth
 status: canon
 canon_level: contextual
 visibility: public
-era: ["c. 697–684 BR", "later received tradition"]
+era: ["c. 697–655 BR", "later received tradition"]
 region: [eastern inner sea, Qahur, Arqesh, Vashar, Jirahar diaspora]
 culture: [Ortheian, Qahuri, Arqeshite, Vashari, Jirahar, Atherian]
 related_factions: []

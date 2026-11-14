@@ -3,7 +3,7 @@ type: event
 status: canon
 canon_level: core
 visibility: public
-era: ["Age of the Redeemer"]
+era: ["33 BR–0 AR"]
 region: ["Atherian Empire", "Second Qiryath"]
 culture: ["Jirahar", "Atherian"]
 related_factions: ["Followers of the Redeemer", "Qiryath Council", "Star Pantheon"]
@@ -31,13 +31,13 @@ Workers, soldiers, women, debtors, scholars, foreigners, and Jirahar households 
 
 ## The pilgrimage to Second Qiryath
 
-Isfir came to Second Qiryath for the pilgrimage commemorating the Great Unbinding. Some pilgrims welcomed him as the promised Mesakha. At the sanctuary he overturned tables where agents charged unauthorized fees on animals brought for sacrifice, and taught from the Scrolls in the public court. Jirahar teachers challenged his claims there. Lord-Scribe Ezrahel bar Qoreth feared the gathering would bring imperial soldiers into the sanctuary and jeopardize the towers' protections.
+Isfir came to Second Qiryath for the pilgrimage commemorating the Great Unbinding. Some pilgrims welcomed him as the promised Mesakha. At the sanctuary he overturned tables where agents charged unauthorised fees on animals brought for sacrifice, and taught from the Scrolls in the public court. Jirahar teachers challenged his claims there. Lord-Scribe Ezrahel bar Qoreth feared the gathering would bring imperial soldiers into the sanctuary and jeopardise the towers' protections.
 
 Isfir spent his last evening in a household guest room with the Companions. He gave thanks over bread and a cup, spoke of his life given for others and charged them to remember him when they ate together. He went to pray outside the crowded courts. Ischar the Silvered sold the route to Ezrahel's officers and identified Isfir in the dark. Isfir stopped a Companion from resisting the arrest.
 
 ## The hearings and the Binding
 
-Qiryath's provincial charter, drafted by a Qoreth scribe when Atheria took the sanctuary from Vashar under the late Serrats, protected its sacrifice, communal courts and burial jurisdiction. The Atherian governor could impose capital sentences for offences against imperial rule. The sanctuary archive and provincial chancery each kept the terms of referral. The governor had come to hear cases during the pilgrimage, when claimants from the surrounding towns were already in Qiryath. High Augur Severan of Astaroth accompanied his party and advised on public rites.
+Qiryath's provincial charter, drafted by a Qoreth scribe when Atheria took the sanctuary from Vashar under the late Serrats, protected its sacrifice, communal courts and burial jurisdiction. The Atherian governor could impose capital sentences for offences against imperial rule. The governor had come to hear cases during the pilgrimage, when claimants from the surrounding towns were already in Qiryath. High Augur Severan of Astaroth accompanied his party and advised on public rites.
 
 Ezrahel questioned Isfir during the night. At first light a group of senior elders heard the charge that Isfir falsely claimed the authority of the Mesakha. Their witnesses disagreed about what he had said concerning the sanctuary, and one elder challenged the testimony. Ezrahel's majority referred the case to the governor as a charge of rival kingship and a threat to public order.
 
@@ -57,7 +57,7 @@ The churches taught that the Resurrection restored the human soul-road. Qiryath 
 
 The empire kept two records of those days. The governor sent Othran II his account of the sentence in a case chest, with the soldiers' nails, the notice of the charge and the receipt for the body as proof that the sentence had been carried out; the chest went into the judgement archive in Caleran's Celestial Forum. The augur colleges kept the other record without meaning to. From the hour of the Binding to the third morning, none of them entered any answer from the Stars, and Severan, who had urged the sentence, laid down his augur's staff and never read again. The colleges sealed the three days. Their silence became the first quarrel between the faith and the augurs. [[The Age of the Redeemer]]
 
-The destruction of Second Qiryath in 70 AR cut off access to the burial slope and dispersed the households that knew the approach. In 1360 AR pilgrims can visit the ruined city under its charter, while the precise tomb remains unauthenticated.
+The destruction of Second Qiryath in 65 AR cut off access to the burial slope and dispersed the households that knew the approach. In 1360 AR pilgrims can visit the ruined city under its charter, while the precise tomb remains unauthenticated.
 
 ## Navigation
 

@@ -680,7 +680,7 @@ Each section names its original article and preserves the removed wording. Furth
 
 > [!note]- Preserved source text
 >
-> - evidence from the 70 AR siege contradicts both Church and Keeper histories;
+> - evidence from the 65 AR siege contradicts both Church and Keeper histories;
 > - a collapsed chamber contains living descendants' disputed records;
 > - the gate answers one half of a matched key and remains silent to the other.
 >

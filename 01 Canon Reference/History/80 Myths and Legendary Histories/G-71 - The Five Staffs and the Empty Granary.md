@@ -58,10 +58,7 @@ Emergency staffs are laid on an empty granary floor before stored food may becom
 
 ## Read onward
 
-- [[Peoples in the World Historical Atlas]]
-- [[River Leagues and Sea-Kings of the Early World]]
 - [[G-56 - The Empty Seat Facing Outward|The Empty Seat Facing Outward]]
-
 - [[Age of Scattering]]
-- [[Myths and Legendary Histories MOC]]
-- [[World Historical Atlas MOC]]
+- [[Legendary Histories]]
+- [[The Ages of the World]]

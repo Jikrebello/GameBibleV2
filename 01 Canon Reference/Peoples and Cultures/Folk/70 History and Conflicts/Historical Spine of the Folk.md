@@ -44,7 +44,7 @@ The clans fought the Markish settlers from ringforts, fords and forest edges for
 
 In the winter of 994, on a windless night, the lake stood up. A wall of water came down on the Lake Watch, the fort Adalmar had built on the shore, and in spring its garrison was found on the ice and its timbers in the reeds. The nine walked to the water's edge, and the lake lay down. No Markish army crossed the lake country again, and the Eclessian frontier has stopped beside it ever since.
 
-Weylan Oath-Bent had fought Adalmar for a decade before Wolfsmere and fought another decade after it. Around 1005 he accepted baptism with his surviving clans, and named his price: the lake. Under the **Peace of the Bent Oak** the march charters forbade any bell within hearing of Wolfsmere, any boat on its water and any iron in it, and Adalmar's bishops, whose priests would not go near the shore, agreed. The Lakekeepers had already laid down the same law. The Folk Wars were declared ended in 1008. Old-rite clans call Weylan's baptism honourable surrender, which is not praise; the Chapel-Folk answer that a bent oak remains alive and that the lake still sleeps.
+Weylan Oath-Bent had fought Adalmar for a decade before Wolfsmere. After it he vanished from the march chronicles and fought on from the deep woods for another decade. Around 1005 he accepted baptism with his surviving clans, and named his price: the lake. Under the **Peace of the Bent Oak** the march charters forbade any bell within hearing of Wolfsmere, any boat on its water and any iron in it, and Adalmar's bishops, whose priests would not go near the shore, agreed. The Lakekeepers had already laid down the same law. The Folk Wars were declared ended in 1008. Old-rite clans call Weylan's baptism honourable surrender, which is not praise; the Chapel-Folk answer that a bent oak remains alive and that the lake still sleeps.
 
 ### The marches, 1008–1232 AR
 
@@ -52,6 +52,13 @@ Weylan Oath-Bent had fought Adalmar for a decade before Wolfsmere and fought ano
 - **1101-1103 AR:** in the **Two Winters**, with ash-grey skies and no summer between, Markish penitents calling themselves the Debtors of the Lake went south to drown themselves in Wolfsmere for Adalmar's debt. The Lakekeepers turned them back at the shore and told them the lake did not want more. The Folk say the sky owed a debt in those years, and paid it with the Apology harvest of 1103.
 - **1158-1163 AR:** the **Great Southern Purge**. Sylvan marcher lords and the Knights of Saint Aveline, under a relic-court ruling that the seers' shrines held unexamined fire, destroyed seers and shrine settlements and cut the boundary groves. The clans remember it as a campaign against land memory. In the midwinter of 1163 riders whose breath made no smoke went through the marcher camps on three nights. They took an Aveline chapter and the Folk households nearest the cut groves alike; the clans' seers say the boundaries walked back and took whoever stood on them. The Purge ended, and for a generation the missioners of the Elsin tradition, who opposed conversion by the sword, won the argument over Folk policy against the Aveline tradition.
 - **By 1232 AR:** the frontier was a gradient from parish to clan-land, stopping at Wolfsmere. Old-rite clans rebuilt their seer-lines after the Purge; Chapel-Folk communities lived under the Bent Oak precedent; Markish settlers held the old registered forts; and every party still needed the others when the Grobi moved north.
+
+### Plague, captives and reform, 1232–1360 AR
+
+- **1232-1247 AR:** the **Grey Sweat** emptied whole parish belts in the marches. Runaways from Virelia's bound villages, discharged soldiers, Folk families and later Freeflame exiles resettled the gaps under titles that contradicted one another, and the missing registers have kept the marches a refuge ever since.
+- **1258-1261 AR:** the **March of the Redeemer's Sword**. Southern lords whose estates the plague had emptied marched into the deep cold forest to take Folk captives as labour. Winter and the Grobi broke the march, and the clans count it among the few times the Grobi did them a service.
+- **1297-1343 AR:** Freeflame preachers reached the march villages and found Chapel-Folk listeners who liked a church without a distant bishop. After the Korrheim Accord the Sylvan Marches took in Unsworn congregations that every signatory hunted.
+- **1352 AR:** at **Vessing**, a hill parish of the southern marches, three shepherd children saw a figure of banked fire in a sloe-field. The Sanctum has not ruled, and the clans have their own opinion of what walks in sloe-fields.
 
 ## Present Inheritance
 
@@ -63,7 +70,7 @@ By 1360 AR, the Eclessian frontier remains a gradient. Parish law, clan jurisdic
 
 ## Navigation
 
-- [[Chronology of the Known World (AR Dating)]]
+- [[The Ages of the World]]
 - [[The Folk before Atheria]]
 - [[The Making of the Folk]]
 - [[01 Canon Reference/Peoples and Cultures/Folk/30 Society and Daily Life/The Folk of the Frontier and the Wolfsmere Lineage.md|The Folk of the Frontier and the Wolfsmere Lineage]]
@@ -86,5 +93,3 @@ Menhir courts remained dangerous neighbours. Their gifts and exact prices shaped
 - [[G-61 - The Hall That Faced the Grobi|The Hall That Faced the Grobi]]
 - [[G-67 - The Marks of Necessary Release|The Marks of Necessary Release]]
 - [[G-72 - The Hostage Children of Oak and Glass|The Hostage Children of Oak and Glass]]
-- [[World Historical Atlas MOC]]
-- [[Peoples in the World Historical Atlas]]

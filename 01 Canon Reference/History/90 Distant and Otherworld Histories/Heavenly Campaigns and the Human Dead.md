@@ -87,7 +87,7 @@ The **Three-Lock Prison Road**, c. 145–205 AR, developed through medicine, ran
 The **School of the Open Cinder**, c. 760–840, combined stolen techniques from several sources. Its members tortured captured wardens, used refugees in trials and sold escapes which closed behind the poor. Governments employed specialists they publicly condemned. It was not simply the evil branch of the Five Closures.
 ^atlas-sb-p03
 
-The **Saint of the Two Ferries**, c. 996–1035, is distinct from the landlocked enemy-gate intercession. The **Saint above the Harbour Wall**, c. 1120–1180, had first been executed by that city for opening refuge to outsiders; later defenders asked the same person to save them. A commission could protect the endangered without vindicating the rulers who killed the rescuer.
+The **Saint of the Two Ferries**, c. 996–1035, is distinct from the landlocked enemy-gate intercession. The **Saint above the Harbour Wall**, the Chain-Tender hanged at Sermora in 1102 and seen on its wall in the siege of 1166, had first been executed by that city for opening refuge to outsiders; later defenders asked the same person to save them. A commission could protect the endangered without vindicating the rulers who killed the rescuer.
 ^atlas-sb-p04
 ^atlas-sb-p05
 

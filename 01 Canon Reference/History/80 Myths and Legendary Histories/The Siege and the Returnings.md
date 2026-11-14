@@ -111,4 +111,4 @@ Tellers also disagree about which of the voyagers deserve the honour given to re
 - [[Palace Survivors and the Southern Heroic Age]]
 - [[Southern Settlement and Maritime Atheria]]
 - [[Arkenan and Saronikan Cities before the Empire]]
-- [[Myths and Legendary Histories MOC]]
+- [[Legendary Histories]]

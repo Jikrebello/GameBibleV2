@@ -30,7 +30,7 @@ Between 396 and 391 BR, Casvilar, Veyr and Ostar worked together to obtain comma
 
 His southern campaigns, principally between 390 and 379 BR, carried Atherian armies into the lives of separate Folk coalitions along the river and forest approaches. He negotiated with Morveth's followers, recruited local guides and fed his troops from conquered stores, so that the people who had grown the food went hungry while his army stayed strong.
 
-At Kellovar in 383 BR his siege works defeated a coalition led by Drenoc. When the defenders expelled their noncombatants to save food, Casvilar refused to let them through his lines, and they died between the two armies. Drenoc surrendered when relief failed. He was carried north and executed during the victory celebrations.
+At Kellovar in 383 BR his siege works defeated a coalition led by Drenoc. When the defenders expelled their noncombatants to save food, Casvilar refused to let them through his lines, and they died between the two armies. Drenoc surrendered when relief failed. Casvilar handed him to his ally Morveth as part of Morveth's reward, and Drenoc died in Morveth's hall that winter. The river halls never forgave Morveth, and his crossings were safe only while Atherian garrisons stood on them.
 
 At Darneth in 380 BR the army's engineers loaded a siege frame to breaking under the Red Star's test, and the crack showed them where force would carry through the defenders' works. Their tunnels took the protected water and the ridge surrendered. Casvilar then ordered the hands of the captured fighters cut off, so that the men walking home would carry his warning into every neighbouring village. He told Caleran that the broken frame was heaven's confirmation of his command. The engineers' names survive only in local memory; the claim of heavenly approval became the foundation of everything he asked for afterwards.
 
@@ -50,7 +50,7 @@ In 373 Veyr sailed for the gateway kingdom and turned back from a royal table la
 
 At Sarqen the spared towns rose against the minister Vardek, whose table had been laid to kill a guest. Casvilar needed Esharat's grain and backed the side that already held it, the cause of the young queen Samyra Nerethan. Their son Amesar was born in 372. Samyra's throne rested on her towns as much as on his soldiers.
 
-Returning to Caleran, Casvilar settled veterans on the Noon Roll lands, revised appointments, cancelled part of the city's debts and filled offices with his own people. The Field explained much of what followed. A Warden with named enemies still alive, including the historian Arest Corven writing at Ilamar, could neither disband his army nor go home a private man, and so he kept his command long after the war that justified it had ended. A pardoned opponent could speak in the senate again and still have no say in anything that mattered.
+Returning to Caleran, Casvilar settled veterans on the Noon Roll lands, revised appointments, cancelled part of the city's debts and filled offices with his own people. The Field explained much of what followed. A Warden with named enemies still alive could neither disband his army nor go home a private man, and so he kept his command long after the war that justified it had ended. Meanwhile at Ilamar the senator Arest Corven, who had followed Veyr into sanctuary, was writing the history of these years that Casvilar's heirs would one day have to answer. A pardoned opponent could speak in the senate again and still have no say in anything that mattered.
 
 ## Assassination and inheritance
 

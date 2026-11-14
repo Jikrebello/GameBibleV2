@@ -73,4 +73,3 @@ Human households preserved agricultural knowledge, boatbuilding and workshop pra
 - [[Peoples of the Ancient Aurin]]
 - [[Sarven, Nerava, Thesra and Olveth]]
 - [[The Common Sky and the Formation of Astratheon]]
-- [[01 Canon Reference/History/20 Prehistory/Lesser Crowns of the Giant Age.md|Lesser Crowns of the Giant Age]]

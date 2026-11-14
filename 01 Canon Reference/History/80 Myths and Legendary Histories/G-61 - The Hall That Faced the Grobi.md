@@ -53,8 +53,6 @@ Old winter halls keep one smoke hole or roof beam pointed towards the most likel
 - [[Historical Atlas of the Southern Cold World]]
 - [[Grobi History and Pack Life]]
 - [[War of the Empty Halls]]
-- [[River Leagues and Sea-Kings of the Early World]]
-
 - [[Age of Hearths and First Kings]]
-- [[Myths and Legendary Histories MOC]]
-- [[World Historical Atlas MOC]]
+- [[Legendary Histories]]
+- [[The Ages of the World]]

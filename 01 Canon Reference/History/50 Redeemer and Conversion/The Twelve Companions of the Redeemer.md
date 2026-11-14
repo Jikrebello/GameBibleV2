@@ -3,7 +3,7 @@ type: event
 status: canon
 canon_level: local
 visibility: public
-era: []
+era: ["c. 3 BR–63 AR"]
 region: []
 culture: []
 related_factions: []
@@ -27,7 +27,7 @@ Two later figures stand beside the roll without being of it: **Amaryah the Fire-
 ## The Two Primacies
 
 - **The Commission of the Pen (Eclessia).** The Redeemer's charge to Jareth: *"Write. What you bind in ink shall be bound in memory until I return."* The Sanctum's Primarchy claims descent from this commission — text, record, protocol, canon.
-- **The Ember Succession (Veridun).** At the Binding outside Qiryath, Isfir entrusted Amaryah and Calira to each other's care. The Patriarchate traces its succession through **Amaryah's hearth at Veridun Minor**, where she lit her lamp with a coal Solana brought from the first assembly's hearth. Calira died defending the house. After legalization, the keepers brought a daughter flame to Caleran, where it became the Eternal Ember.
+- **The Ember Succession (Veridun).** At the Binding outside Qiryath, Isfir entrusted Amaryah and Calira to each other's care. The Patriarchate traces its succession through **Amaryah's hearth at Veridun Minor**, where she lit her lamp with a coal Solana brought from the first assembly's hearth. Calira died defending the house. After legalisation, the keepers brought a daughter flame to Caleran, where it became the Eternal Ember.
 
 The pen and the hearth. The Great Split was already sitting at the Redeemer's table.
 
@@ -44,14 +44,14 @@ How the Companions are venerated differs by church, per [[The Making of Saints]]
 A blind imperial scribe and forger who received partial sight from Isfir and spent it entirely on chronicling him. Taken in the Great Purge at Caleran, where the augurs' commission remembered his old trade and charged him with forging sacred records; it called his half-copied Gospel a forged register. At his trial the commission produced the nails from Isfir's execution, out of the governor's case chest in the forum archive, to prove that the cult's founder had been condemned as a rival king, then had them leaded into the Pillar of Concordance as a monument to a sentence carried out. Jareth was **burned in the Celestial Forum before the Pillar with his half-copied Gospel of Fire**; witnesses say he kept writing until the smoke took his one good eye, and the book's charred spine — **the Ash Spine** — survived the pyre and rests in the Sanctum Divinitatis.
 
 - **Eclessia:** bearer of the Commission of the Pen; patron of scribes, notaries, archivists, and the relic courts; scholarly patron of the Order of the Lantern. Eclessian iconography: the bound eye and the burning pen. His devotees among the chancery clergy have manifested the Four Marks on their writing wrists.
-- **Thalmyria:** honored but pointedly demoted — Thalmyric icons paint him small at the Mother's hearth, writing down what Calira dictates.
+- **Thalmyria:** honoured but pointedly demoted — Thalmyric icons paint him small at the Mother's hearth, writing down what Calira dictates.
 
 ### 2. Saint Calira of the Broken Blade — *the Guardian* (d. 29 AR)
 
 Legionnaire and noble exile, healed by Isfir and entrusted with Amaryah at the Binding outside Qiryath. She accompanied Amaryah to Veridun Minor and **died defending her hearth in 29 AR**, holding the doorway against soldiers in a local raid with a sword that had snapped at the crossguard. The **Broken Blade** hangs in the Cathedral of the Eternal Ember.
 
 - **Thalmyria:** the great martyr of the Ember Succession and a patron of the **[[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/50 Economy and Warfare/Thalmyric Military Orders.md|Order of the Returning Standard]]**. By her own recorded wish there are no icons of her face: *"Look at the hearth, not at me."* Her feast is an all-night standing vigil.
-- **Eclessia:** honored crusader-saint; invoked by soldiers' widows and bodyguards; Eclessian art ignores her wish and paints her constantly, which Thalmyric polemicists never tire of noting.
+- **Eclessia:** honoured crusader-saint; invoked by soldiers' widows and bodyguards; Eclessian art ignores her wish and paints her constantly, which Thalmyric polemicists never tire of noting.
 
 ### 3. Saint Thalos the Laughing Monk — *the Fool* (d. 36 AR)
 
@@ -65,7 +65,7 @@ Wandering satirist who mocked temples and stars until the mockery turned holy. A
 A noblewoman cast out as cursed after seven miscarriages, who claimed the Holy Flame filled the emptiness in her. She sheltered catechumen children in an Aurelian bakehouse during the riots and **died under the stones of the mob**, standing in the doorway.
 
 - **Eclessia:** one of Eclessia's most beloved cults — patroness of barren women, mothers, midwives, and foundlings; the great **Myrine foundling hospitals** operate in every Eclessian city; her images in maternity chapels are repeatedly reported to weep, and the relic courts have confirmed two instances (and exposed nine).
-- **Thalmyria:** "the childless mother of thousands" — honored soberly, without the weeping images, with a single fast-day kept by women.
+- **Thalmyria:** "the childless mother of thousands" — honoured soberly, without the weeping images, with a single fast-day kept by women.
 
 ### 5. Saint Erom the Flamebound — *the Penitent* (d. 44 AR)
 
@@ -74,9 +74,9 @@ A murderer who confessed publicly and became a healer of prisoners. When his for
 - **Thalmyria:** patron of the **Order of the Iron Martyrs**, the penitential order — men and women with blood-guilt who take the harshest vows; his cult is the East's standing proof that no one is beyond the Fire.
 - **Eclessia:** patron of prisoners, jailers, firefighters, and deathbed conversions; his prison-ministry chains are relics at Velos; charismatic devotees report burn-shaped Marks that do not blister.
 
-### 6. Saint Naris the Waterspoken — *the Baptizer* (d. 38 AR)
+### 6. Saint Naris the Waterspoken — *the Baptiser* (d. 38 AR)
 
-The dockworker of Halmenth who after his healing spoke only in prayer and poetry, and baptized hundreds along the coast. Magistrates' soldiers **held him under the River Celion in the middle of a baptism**; witnesses say his last motion, underwater, was the gesture of blessing. His body was never recovered — but for decades objects he had touched washed ashore (**Celion-wrack**), and coastal chapels keep them still.
+The dockworker of Halmenth who after his healing spoke only in prayer and poetry, and baptised hundreds along the coast. Magistrates' soldiers **held him under the River Celion in the middle of a baptism**; witnesses say his last motion, underwater, was the gesture of blessing. His body was never recovered — but for decades objects he had touched washed ashore (**Celion-wrack**), and coastal chapels keep them still.
 
 - **Thalmyria:** his vigil is the great **Blessing of the Waters**; and because drowned souls are held to lie near the leftward gate's element, Naris is the intercessor invoked over every drowning — *the saint who blesses the water from inside it*. Sailors of both confessions will not sail without his token.
 - **Eclessia:** patron of sailors, ferrymen, and coastal missions; Castara's shipwrights lay a Naris-token in every keel.
@@ -102,23 +102,23 @@ The mute shepherd of the early Folk borderlands, gifted with fire-speech that ca
 - **Thalmyria:** patron of hesychasts and the silence-disciplines; the Wordless is the East's icon of prayer beyond language.
 - **Eclessia:** patron of the **Order of the Blessed Watch** and of the peaceful-mission tradition — the standing counter-authority to the crusading Knights of Saint Aveline. Every borderland priest who opposes conversion by sword invokes Elsin; every one who doesn't invokes Aveline; Grenzburg's pulpits know both names well.
 
-### 10. Saint Menos the Chain-Breaker — *the Laborer* (d. 45 AR)
+### 10. Saint Menos the Chain-Breaker — *the Labourer* (d. 45 AR)
 
 The slave of Ironvale's golem-forges, freed by Isfir, who carried the message back into the mines and led the empire's first worker risings in the Redeemer's name. He was **executed in the chains he had broken, re-forged and poured molten**. The cooled chain-mass — **the Knot of Menos** — is held today by the Council of Iron in the Grand Ministry's hall, which refuses to surrender it to either church: the working faith's greatest relic, kept by a Freeflame polity.
 
 - **The Freeflame and the Ashenmen** claim his mantle outright; miners' oaths are sworn "by the Knot."
-- **Eclessia:** listed, honored, and handled carefully (his cult keeps starting strikes). **Thalmyria:** honored as a passion-bearer — one who accepted violence rather than dealt it.
+- **Eclessia:** listed, honoured, and handled carefully (his cult keeps starting strikes). **Thalmyria:** honoured as a passion-bearer — one who accepted violence rather than dealt it.
 
 ### 11. Saint Solana of the Last Ember — *the Lamplighter* (d. 63 AR)
 
-The baker's daughter who witnessed the Binding outside Qiryath, saw where Isfir was buried and returned with the women who found the tomb empty. She recognized the risen Isfir when he spoke her name. After the gift of the Holy Flame, she carried a live coal from the first assembly's hearth to Veridun Minor in a covered clay firepot. Amaryah lit her lamp from it. Solana outlived the rest of the roll and **died in her sleep surrounded by pilgrims**. Her body did not decay for seven days.
+The baker's daughter who witnessed the Binding outside Qiryath, saw where Isfir was buried and returned with the women who found the tomb empty. She recognised the risen Isfir when he spoke her name. After the gift of the Holy Flame, she carried a live coal from the first assembly's hearth to Veridun Minor in a covered clay firepot. Amaryah lit her lamp from it. Solana outlived the rest of the roll and **died in her sleep at Veridun Minor in 63 AR, surrounded by pilgrims**, while the towers around Qiryath were already in revolt. Her body did not decay for seven days.
 
 - **Thalmyria:** patroness of lamplighters, hearths, and the Rekindling rites; her jar is enshrined at Caleran.
-- **Eclessia:** patroness of bakers, of daughters, and of small faithful acts with large consequences — the favorite saint of Eclessian children, who receive "Solana jars" (a candle in a clay pot) on her feast.
+- **Eclessia:** patroness of bakers, of daughters, and of small faithful acts with large consequences — the favourite saint of Eclessian children, who receive "Solana jars" (a candle in a clay pot) on her feast.
 
 ### 12. Saint Tyros the Doubter — *the Convert* (d. 45 AR)
 
-The astrologer-priest who came to disprove Isfir and wept at his feet by the argument's end; his defection pulled whole priestly colleges after him. From old colleagues he learned that every augur college in the empire had recorded no answer at all from the hour of the Binding to the third morning, and had sealed the days. His Dialogues never claim that the silence proves the Resurrection. They say that the colleges recorded something they refuse to discuss, and that Tyros had met the man. Junior augurs and register-keepers came over to him with copies of their books, and the High Augurate began the Great Purge to get them back. **Beheaded in Caleran during the Great Purge — the last of the Companions to die in the Great Purge.** One of the colleges that followed him kept an observatory in the Veridancian hills, which later became the Underground's Lantern Cradle. [[The Ember Underground]]
+The astrologer-priest who came to disprove Isfir and wept at his feet by the argument's end; his defection pulled whole priestly colleges after him. From old colleagues he learned that every augur college in the empire had recorded no answer at all from the hour of the Binding to the third morning, and had sealed the days. His Dialogues never claim that the silence proves the Resurrection. They say that the colleges recorded something they refuse to discuss, and that Tyros had met the man. Junior augurs and register-keepers came over to him with copies of their books, and the High Augurate began the Great Purge to get them back. **Beheaded in Caleran about 45 AR, the last of the Companions to die in the Great Purge.** One of the colleges that followed him kept an observatory in the Veridancian hills, which later became the Underground's Lantern Cradle. [[The Ember Underground]]
 
 - **Thalmyria:** the **Tyrine Dialogues** (his recorded disputations) are seminary curriculum; patron of catechists and converts from the old cults.
 - **Eclessia:** patron of doubters, scholars, and apologists — invoked, a little uncomfortably, by inquisitors, and a great deal more comfortably by the people they question.
@@ -137,19 +137,18 @@ The Companion who sold the Redeemer's night route to Ezrahel's officers for a pu
 
 ### Saint Aquilan the Turned — *the Apostle to the Nations* (d. c. 45 AR)
 
-Born **Sha'il bar Qoreth**, he was a Jirahar of the scribal aristocracy and a kinsman of Lord-Scribe Ezrahel bar Qoreth, who handed Isfir to the governor. He trained under the Keeper Gamliel the Patient and held Atherian citizenship through his family's imperial service: the house of Qoreth had sworn the veiled oath under Elian I's grant. As **Aquilan the Hound**, he pursued the first assemblies before the Great Purge, using warrants to protect the Path from what he believed was a destructive error.
+Born **Sha'il bar Qoreth**, he was a Jirahar of the scribal aristocracy and a kinsman of Lord-Scribe Ezrahel bar Qoreth, who handed Isfir to the governor. He trained in the Keepers' courts under the most patient teacher of his generation and held Atherian citizenship through his family's imperial service: the house of Qoreth had sworn the veiled oath under Elian I's grant. As **Aquilan the Hound**, he pursued the first assemblies before the Great Purge, using warrants to protect the Path from what he believed was a destructive error.
 
-On the road to Virelos, carrying warrants, he was struck blind by "the noon behind the noon" and heard: *"Hound, whose scent do you follow?"* Baptized three days later by the congregation he had come to arrest, his sight returned with the water. He never met the living Isfir — his commission came by Flame alone — and he spent the rest of his life carrying the faith **out of the Jirahar world and into the nations**: Atherian cities, Sestaran ports, Folk borderlands. His **Epistles** argue that the Path's law is fulfilled, not abolished, in the Redeemer. The commission charged him with helping Tyros's colleges carry off sacred records, and tried him as a citizen. His citizenship spared him the fire: **beheaded at Caleran**, the same season as Tyros.
+On the road to Virelos, carrying warrants, he was struck blind by "the noon behind the noon" and heard: *"Hound, whose scent do you follow?"* Baptised three days later by the congregation he had come to arrest, his sight returned with the water. He never met the living Isfir — his commission came by Flame alone — and he spent the rest of his life carrying the faith **out of the Jirahar world and into the nations**: Atherian cities, Sestaran ports, Folk borderlands. His **Epistles** argue that the Path's law is fulfilled, not abolished, in the Redeemer. The commission charged him with helping Tyros's colleges carry off sacred records, and tried him as a citizen. His citizenship spared him the fire: **beheaded at Caleran**, the same season as Tyros.
 
 - **Both churches** rank him beside the Companions; his Epistles are their common arsenal — cited by each against the other.
 - **The Freeflame** quote him most of all: a commission by Flame, without seat, witness, or laying-on of hands — *"if the Hound needed no seat, why do you?"*
-- **The Jirahar remember him differently.** Isfir they can grieve — a son of the towers, wrong but theirs, killed by the empire's nails. Sha'il bar Qoreth is another matter: the scribe who took a family quarrel of the Path and delivered it to the nations, whose "fulfilled, not abolished" became supersession, whose Epistles have been read aloud over four centuries of pogroms by men who never read anything else. The Keepers' formula is exact and unforgiving: *"The carpenter we mourn. The scribe we cannot forgive."* No Jirahar text calls him Aquilan.
+- **The Jirahar remember him differently.** Isfir they can grieve — a son of the towers, wrong but theirs, killed by the empire's nails. Sha'il bar Qoreth is another matter: the scribe who took a family quarrel of the Path and delivered it to the nations, whose "fulfilled, not abolished" became supersession, whose Epistles have been read aloud over centuries of pogroms by men who never read anything else. The Keepers' formula is exact and unforgiving: *"The carpenter we mourn. The scribe we cannot forgive."* No Jirahar text calls him Aquilan.
 
 ## Navigation
 
-- [[Timeline MOC]]
 - [[Amaryah the Fire-Bearer]]
 - [[The Making of Saints]]
 - [[The Great Split — Two Crowns, One Fire]]
 - [[The Age of the Redeemer]]
-- [[Named Figures of the Known World]]
+- [[The First Church - From Qiryath to the Tower Revolt|The First Church]]

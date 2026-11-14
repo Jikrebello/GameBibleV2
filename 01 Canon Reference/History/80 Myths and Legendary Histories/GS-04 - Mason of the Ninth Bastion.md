@@ -33,7 +33,7 @@ Decimation by lot, lethal labour, sealed prisoners, civilian districts sacrifice
 
 ## The surviving inheritance
 
-a respected engineering school preserves safe measurements alongside a suppressed “necessary loss” appendix; an infernal cadre preserves the appendix alone.
+A respected engineering school preserves safe measurements alongside a suppressed “necessary loss” appendix; an infernal cadre preserves the appendix alone.
 
 Three ordinary fortresses still contain sealed ninth chambers which engineers refuse to open and Sinner cults try to fill.
 

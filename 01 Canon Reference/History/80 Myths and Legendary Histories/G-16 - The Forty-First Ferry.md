@@ -3,7 +3,7 @@ type: legend
 status: canon
 canon_level: local
 visibility: public
-era: ["1232–1247 AR"]
+era: ["1232–1263 AR"]
 region: ["successor-imperial towns and provincial districts"]
 culture: ["Thalmyric, Eclessian and Sestaran tellers"]
 related_factions: []
@@ -18,7 +18,7 @@ aliases: ["The Forty-First Ferry"]
 
 ## Historical setting
 
-**1232–1247 AR.** Successor-imperial towns and provincial districts. This tradition belongs to [[High Noon and the Qarath Disaster]]; its cultural bearers are Thalmyric, Eclessian and Sestaran tellers.
+**1232–1247 AR, with a coda to 1263.** Successor-imperial towns and provincial districts. This tradition belongs to [[High Noon and the Qarath Disaster]]; its cultural bearers are Thalmyric, Eclessian and Sestaran tellers.
 
 It is told along Grey Sweat funeral routes, among boat families, physicians, grave thieves and households denied lawful burial.
 
@@ -34,7 +34,7 @@ When authorities finally seized the boat, the physician burned it rather than le
 
 The widow kept no nail. She kept the stranger's first burial cloth, washed and repaired, and used it when her husband's hidden grave was finally found. By then she had buried so many others that private grief and public work could no longer be separated.
 
-Boat families add a stranger coda. In the years after the Sweat, salvagers working the white country beyond the Material roads came back from a belt of wrecked plague refuges with word of a crown of fused bone and lamp-glass that spoke in thousands of voices. Families who travelled to hear it recognised a dead child's lisp or a husband's cough among them. A plague register taken from the same wreckage changes its entries each time it is carried back onto Material ground. Churches, Patrons and burial confraternities have fought over the crown ever since, each claiming to speak for the dead it speaks with.
+Boat families add a stranger coda. In 1251 salvagers working the white country beyond the Material roads came back from a belt of wrecked plague refuges with a crown of fused bone, wire and white orchard wood that spoke in thousands of voices. Families who paid to hear it recognised a dead child's lisp or a husband's cough among them, and claimants carried it into the plague-gap title suits. A plague register taken from the same wreckage changes its entries each time it is carried back onto Material ground. In 1263 the Sanctum's relic court ruled that the dead do not testify through things, and nobody who had heard a mother in the crown believed it. Churches, Patrons and burial confraternities have fought over the crown ever since, each claiming to speak for the dead it speaks with.
 
 ## Why it is remembered
 
@@ -42,7 +42,7 @@ The story begins with one woman's desire to bury one man and widens through repe
 
 ## How tellers differ
 
-Church Lives place a Saint aboard. Boat families name only exhausted criminals and kin. Official chronicles blame the ferry for new deaths; grave evidence shows executions continued after it burned. Confraternities call the salvage crown the plague dead's own voice and demand it be buried; Eclessian relic courts call it a thing of the white country that learned to speak from copies of the dying; the boat families who carried the real dead refuse to cross to it.
+Church Lives place a saint aboard. Boat families name only exhausted criminals and kin. Official chronicles blame the ferry for new deaths; grave evidence shows executions continued after it burned. Confraternities call the salvage crown the plague dead's own voice and demand it be buried; Eclessian relic courts call it a thing of the white country that learned to speak from copies of the dying; the boat families who carried the real dead refuse to cross to it.
 
 ## What remains
 
@@ -52,7 +52,6 @@ Small blackened boat nails are pressed into funeral candles. Most are later copi
 
 - [[High Noon Provinces and the Qarath Aftermath]]
 - [[Historical Spine of the Sestaran Concord]]
-
 - [[High Noon and the Qarath Disaster]]
-- [[Myths and Legendary Histories MOC]]
-- [[World Historical Atlas MOC]]
+- [[Legendary Histories]]
+- [[The Ages of the World]]

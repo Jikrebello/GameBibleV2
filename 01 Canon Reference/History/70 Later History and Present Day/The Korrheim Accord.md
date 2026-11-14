@@ -17,7 +17,7 @@ tags: []
 
 The **Korrheim Accord** is the confessional peace of 1343 AR that ended open war between the Sanctum and the recognised Freeflame princes after the [[Freeflame Reformation]]. It was drafted at Heldenheim, the council seat of the Korrheim cantons, and sworn with the signatories' hands in the River Weiss on Ironvale's reach, the water into which Ansgar of Brenholt's ashes had been shovelled. It settled who may set a territory's public rite and left the theology that caused the war exactly where it was. It has held for seventeen years because nobody who swore it dares break an oath made in that river.
 
-Its governing formula is short: **whose the realm, his the rite**. Each recognised ruler sets the public confession of his territory, controls its church property and guarantees limited passage to displaced clergy and households. In the villages it is called the peace of *every roof under its lord's lamp*.
+Its governing formula was sworn in the plain speech of the river country: **every roof under its lord's lamp**. Each recognised ruler sets the public confession of his territory, controls its church property and guarantees limited passage to displaced clergy and households. Sanctum canonists, copying the Accord into their law-books in the court Latinate, rendered the formula more coldly as *whose the realm, his the rite*, and that is the form lawyers now quote.
 
 ## The road to Heldenheim
 
@@ -60,9 +60,8 @@ Grenzburg remains formally within the old-Church settlement, but frontier villag
 
 ## Navigation
 
-- [[Timeline MOC]]
+- [[The Ages of the World]]
 - [[Freeflame Reformation]]
 - [[Present-Day Courts and Crowns (1360 AR)]]
 - [[01 Canon Reference/Peoples and Cultures/Eclessia/Eclessia Overview.md|Eclessia Overview]]
-- [[Chronology of the Known World (AR Dating)]]
 - [[The Age of Held Proofs]]

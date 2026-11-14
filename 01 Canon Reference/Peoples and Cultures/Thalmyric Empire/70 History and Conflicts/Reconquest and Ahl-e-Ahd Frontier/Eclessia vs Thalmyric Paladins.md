@@ -13,7 +13,7 @@ tags: []
 ---
 # Eclessian and Thalmyric Holy Warriors
 
-“Paladin” is a broad western translation for several vows of armed religious service. Neither Eclessia nor Thalmyria maintains a single universal paladin class, and neither tradition guarantees miraculous power merely because someone wears a holy badge.
+“Paladin” is a broad translators' word for several vows of armed religious service. Neither Eclessia nor Thalmyria maintains a single universal paladin class, and neither tradition guarantees miraculous power merely because someone wears a holy badge.
 
 ## Shared Foundation
 
@@ -35,17 +35,17 @@ Their strength is endurance, communal discipline, and integration with frontier 
 
 Both traditions descend from the refuge and frontier armies of the Fall, and they parted over what a holy warrior carries.
 
-Thalmyric soldiers carried lamps. The war-lamps that kindled before Caleran in the 950s were broken over soldiers' knees in Leovar III's First Breaking (987), restored in 1013, impounded in crown lamp-houses after a Master of Lamps burned to death forcing one before the walls of Meliton (1029), and released at the Rekindling of 1052. Thalmyric orders learned from those seventy years that the Fire answers whom it will and punishes the hand that forces it. The military districts of Caedros III kept a door-lamp beside the lance, and those lamps kindled when district families held their own houses in the War of the Southern Deeds (1131–1139), which is why Thalmyric veterans distrust a lamp carried on campaign more than a lamp hung by a door. At Qarath's Well in 1214 the Kedravan monastic contingents kept the refuge rule against drinking sworn water and came home when the army that drank did not; the Long Watch and the Iron Martyrs still teach that rule to recruits.
+Thalmyric soldiers carried lamps. The war-lamps that kindled before Caleran in the 950s were broken over soldiers' knees in Leovar III's First Breaking (987), restored in 1013, impounded in crown lamp-houses after a Master of Lamps burned to death forcing one before the walls of Meliton (1029), and released at the Rekindling of 1052. Thalmyric orders learned from those sixty-five years that the Fire answers whom it will and punishes the hand that forces it. The military districts of Caedros III kept a door-lamp beside the lance, and those lamps kindled when district families held their own houses in the War of the Southern Deeds (1131–1139), which is why Thalmyric veterans distrust a lamp carried on campaign more than a lamp hung by a door. At Qarath's Well in 1214 the Kedravan monastic contingents kept the refuge rule against drinking sworn water and came home when the army that drank did not; the Long Watch and the Iron Martyrs still teach that rule to recruits.
 
 Eclessian warriors carried examined banners. Adalmar's crown rested on the banner that kindled at Kaltfurt in 974, which the Sanctum's court examined and credited to him, although the miller's widow who held it testified otherwise. In the wars of Ludovar's sons (1027–1046) banners were examined by rival bishops and some carried Shell-fire in the staff-head, and Eclessian orders have sworn their banners before witnesses ever since. The Knights of Saint Aveline rode in the southern campaigns that followed the Folk Wars, the First Southern Crusade (1060–1067) and the Great Southern Purge (1158–1163), and lost a chapter to the riders who went through the marcher camps in the winter of 1163. Their penitential memory begins there.
 
 ## Recognition Across the Split
 
-The two traditions can recognize courage, valid baptism, and sincere service in one another while disputing authority and doctrine. Joint action is easiest against an obvious supernatural evil and hardest where land, relic, or jurisdiction is at stake. A western knight may consider a Thalmyric command too entangled with bishops and empire; a Thalmyric veteran may consider a western order too dependent on charters issued by divided princes.
+The two traditions can recognize courage, valid baptism, and sincere service in one another while disputing authority and doctrine. Joint action is easiest against an obvious supernatural evil and hardest where land, relic, or jurisdiction is at stake. An Eclessian knight may consider a Thalmyric command too entangled with bishops and empire; a Thalmyric veteran may consider an Eclessian order too dependent on charters issued by divided princes.
 
 ## Navigation
 
 - [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/Thalmyric Empire Overview.md|Thalmyric Empire Overview]]
 - [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/20 Faith and Worldview/Faith and the Thalmyric Church Overview.md|Faith and the Thalmyric Church Overview]]
 - [[01 Canon Reference/Peoples and Cultures/Eclessia/Eclessia Overview.md|Eclessia Overview]]
-- [[White Flame Doctrine]]
+- [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/20 Faith and Worldview/Theological Schism with Eclessia.md|Theological Schism with Eclessia]]

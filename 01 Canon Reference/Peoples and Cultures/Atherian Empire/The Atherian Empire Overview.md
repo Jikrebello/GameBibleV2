@@ -3,7 +3,7 @@ type: culture
 status: canon
 canon_level: local
 visibility: public
-era: []
+era: ["c. 2130 BR–905 AR"]
 region: ["Atherian Heartland"]
 culture: ["Atherian"]
 related_factions: []
@@ -65,15 +65,15 @@ Warlock colleges developed older scripts into regulated forms of military and en
 
 Before conversion, the [[Overview of the Astratheon Religion|Astratheon religion]] organised civic cults around stars and constellations. Priests interpreted eclipses, comets and other celestial appearances as signs affecting rulers and communities. Temples served as treasuries, employers, schools and centres of public ritual.
 
-Imperial worship brought older regional powers into a celestial hierarchy. Temple hymns called the principal powers Star Children, born of the light of Father Sun and Mother Moon. The Astral Keepers sorted the same powers into Circles by what they did rather than whom they were born to, and Folk neighbours knew several of them as courts of their own country under other names. The longest argument concerned Thanatos. Priests gathered signs of [[The Boatman]] into a star cult of theft and paid passage, while the Keepers' oldest tables had no place for him and ferrymen sang of a crossing that no fee could change.
+Imperial worship brought older regional powers into a celestial hierarchy. Temple hymns called the principal powers Star Children, born of the light of Father Sun and Mother Moon. The Astral Keepers sorted the same powers into Circles by what they did rather than whom they were born to, and Folk neighbours knew several of them as courts of their own country under other names. The longest argument concerned Thanatos. Priests gathered signs of the Boatman into a star cult of theft and paid passage, while the Keepers' oldest tables had no place for him and ferrymen sang of a crossing that no fee could change.
 
 ### Astaroth
 
-[[01 Canon Reference/Cosmology/30 Menhir/10 Second Circle/Astaroth.md|Astaroth]], the Warrior, was associated with war, chaos and fear. Soldiers offered broken weapons, and battlefield temples displayed trophies and the bones of enemies. Imperial religion also connected Astaroth with conquest and public order; Thalion strengthened the priesthood's political importance. Builders knew a quieter rite. From 326 BR the Red Star's priests stood witness while wardens loaded each new bridge, hall and aqueduct until its weakest stone cracked, and a hairline crack that opened under the test was read as the Star showing where a wall would fail.
+Astaroth, the Warrior, was associated with war, chaos and fear. Soldiers offered broken weapons, and battlefield temples displayed trophies and the bones of enemies. Imperial religion also connected Astaroth with conquest and public order; Thalion strengthened the priesthood's political importance. Builders knew a quieter rite. From 326 BR the Red Star's priests stood witness while wardens loaded each new bridge, hall and aqueduct until its weakest stone cracked, and a hairline crack that opened under the test was read as the Star showing where a wall would fail.
 
 ### Lyraxis
 
-[[01 Canon Reference/Cosmology/30 Menhir/10 Second Circle/Lyraxis.md|Lyraxis]], the Muse, presided in Atherian belief over music, trickery and inspiration. Festivals brought masked revellers and musicians into public life, while temples also functioned as theatres and places of performance.
+Lyraxis, the Muse, presided in Atherian belief over music, trickery and inspiration. Festivals brought masked revellers and musicians into public life, while temples also functioned as theatres and places of performance.
 
 ### Thanatos
 
@@ -81,19 +81,19 @@ The cult of Thanatos addressed passage, mourning and theft. Mourners and thieves
 
 ### Orionis
 
-[[01 Canon Reference/Cosmology/30 Menhir/10 Second Circle/Orionis.md|Orionis]], the Hunter, was honoured through hunts, tracking and the mastery of wilderness. Priests trained initiates in survival, and forest or mountain temples received pelts, antlers and trophies.
+Orionis, the Hunter, was honoured through hunts, tracking and the mastery of wilderness. Priests trained initiates in survival, and forest or mountain temples received pelts, antlers and trophies.
 
 ### Hecatara
 
-[[01 Canon Reference/Cosmology/30 Menhir/10 Second Circle/Hecatara.md|Hecatara]], the Witch, was associated with sorcery, crossroads and consequential decisions. Remote shrines and crossroads altars attracted practitioners seeking guidance or power, and held enchanted objects and ritual implements.
+Hecatara, the Witch, was associated with sorcery, crossroads and consequential decisions. Remote shrines and crossroads altars attracted practitioners seeking guidance or power, and held enchanted objects and ritual implements.
 
 ### Typhonius
 
-[[01 Canon Reference/Cosmology/30 Menhir/10 Second Circle/Typhonius.md|Typhonius]], the Beast, was feared in connection with catastrophe, monsters and unusual births. Temples near volcanoes and other dangerous places preserved remains of calamities. Some followers attempted to create monsters; others sought protection from them.
+Typhonius, the Beast, was feared in connection with catastrophe, monsters and unusual births. Temples near volcanoes and other dangerous places preserved remains of calamities. Some followers attempted to create monsters; others sought protection from them.
 
 ### Arachnara
 
-[[01 Canon Reference/Cosmology/30 Menhir/10 Second Circle/Arachnara.md|Arachnara]], the Weaver, was associated with vermin, shadows and infestation. Underground and forest shrines used webs, bones and the forms of spiders and rats. Worship intensified when disease or infestation threatened a community.
+Arachnara, the Weaver, was associated with vermin, shadows and infestation. Underground and forest shrines used webs, bones and the forms of spiders and rats. Worship intensified when disease or infestation threatened a community.
 
 ### The emperor's portrait
 
@@ -101,7 +101,7 @@ Imperial cult made each ruler, living or dead, one painted face. Workshops copie
 
 ## Conversion, fall and later inheritance
 
-The Redeemer lived within an empire whose courts, roads and execution machinery were used against him and his followers. After the Underground centuries, legalization began in 292 AR. Later compulsory conversion destroyed temples, persecuted custodians and transformed civic religious life. Imperial institutions also carried the new faith across provinces.
+The Redeemer lived within an empire whose courts, roads and execution machinery were used against him and his followers. After the Underground Centuries, Cassian legalised the faith in 292 under a sign at the Stone Bridge of Velos, where the Aurin has never frozen since. Vestian dissolved the augur colleges in 383 and made the faith compulsory in 385, and the reception lamps at his state professions burned yellow by the thousand. Temples were closed or converted and their custodians hunted, and the roads that had carried the persecutors carried the new faith across the provinces. [[The Conversion of the Empire]]
 
 After Vestian four houses ruled in turn, each raised by a different way of paying the army: the Vestianic regency of court bishops and paymasters, the Saldane commanders of the southern forts, the Leovarid frontier generals and the Corvenid march commanders. Relic estates bought freedom from tax and audit, and provincial wealth drained into them while the palace's rites began to fail; Thalmyric chroniclers call those years the Guttering. The Covenant took the northern provinces in the First Unsealing (568–612). The frontier that held was a line of kindled marches, each sworn in the Fire and renewed by the emperor in person, and an emperor who would not ride to his marches could not call them. Caleran fell in 905. [[The Long Frontier and the First Unsealing]] Refuge, resistance and the Long Reconquest produced the Thalmyric successor state; eastern provincial societies developed into Eclessia, while Sestaran cities maintained their own political formations.
 

@@ -34,7 +34,7 @@ A community may preserve both an object and a story about it while disagreeing a
 - [[Age of Stars]] — Atherian synthesis, roads, exile and restoration; Caleran's bread wars with Qarzeth, the Red Field and the noon shadows at Sarven.
 - [[Atherian Imperial Age]] — Caleran, provincial society and the Age of Glory: the tested works, the speaking portrait and the Qiryath charter.
 - [[The Age of the Redeemer]] — The Redeemer, his Companions, the three silent days, persecution and the communities that survived it.
-- [[The Conversion of the Empire]] — Legalization and the river at Velos, Astrion's answered standard, the dissolution of the augur colleges, compulsory faith and the Second Silence.
+- [[The Conversion of the Empire]] — Legalisation and the river at Velos, Astrion's answered standard, the dissolution of the augur colleges, compulsory faith and the Second Silence.
 - [[The Long Frontier and the First Unsealing]] — The Guttering, the Thin Floods and the end of Vashar, conquest by breach-court, the kindled marches and the peace broken in 874.
 - [[The Fall and the Long Reconquest]] — Invasion by law and engine, refugees, mountain resistance, the Covenant's widowed oaths and the recovery of provinces across generations.
 - [[The Great Split — Two Crowns, One Fire]] — Two crowns claim Atheria; the Lamp Controversy, the schism of 1015, the partition by lot and the Crown of Embers vaulted.
@@ -110,13 +110,13 @@ For the founding generation, begin with [[The Last Generations of the Caleran Re
 
 [[Historical Atlas of the Atherian Age of Glory]] follows the empire from Thalion's settlement to the Redeemer boundary. The political route continues through [[The Later Reign of Aurelius Thalion]], [[The House of Thalion]], [[The Year of Four Eagles]], [[The House of Veloran]] and [[The Last Dynasties of the Age of Glory]].
 
-[[The First Church - From Qiryath to the Tower Revolt|The First Church]] follows the apostolic generation. [[The Church after Qiryath - From Exile to Legalization|The Church after Qiryath]] follows the regional sees, the grave-lamp mutinies behind Tervan Marcellan's Edict of Public Sacrifice and Cassian's legalization in 292 AR.
+[[The First Church - From Qiryath to the Tower Revolt|The First Church]] follows the apostolic generation. [[The Church after Qiryath - From Exile to Legalization|The Church after Qiryath]] follows the regional sees, the grave-lamp mutinies behind Tervan Marcellan's Edict of Public Sacrifice and Cassian's legalisation in 292 AR.
 
 [[Atheria between Qiryath and Cassian - Emperors Wars and Revolts|Atheria between Qiryath and Cassian]] follows imperial succession, provincial wars, the Sarqen rising and the civil war. [[Cassian and the Four Sees - The Settlement of 292 to 316 AR|Cassian and the Four Sees]] follows the restitution orders, the 297 hearing at Halmenth and the emperor's patronage through 316 AR.
 
-[[The Forty Flames]] follows the Ironvale rising and furnace deaths of 290 AR, the sworn account of the cold furnace read in the Aurin towns in 292, and the public observance that grew after legalization. [[The Reign of Sevrin]] follows the settlement with Adran, the southern treaties and Astrion's rise to the throne in 348 AR.
+[[The Forty Flames]] follows the Ironvale rising and furnace deaths of 290 AR, the sworn account of the cold furnace read in the Aurin towns in 292, and the public observance that grew after legalisation. [[The Reign of Sevrin]] follows the settlement with Adran, the southern treaties and Astrion's rise to the throne in 348 AR.
 
-[[Astrion and the Road to Vestian - 348 to 377 AR|Astrion and the Road to Vestian]] follows the restoration of the Stars, the Red Star's single answer of 350, the failed desert expedition, the Answered Standard and the rulers who governed until the Kellovar ford and Vestian's accession in 377 AR. [[The Conversion of the Empire]] carries the story through the dissolution of the augur colleges, the compulsory Profession and the Second Silence to Halmenth in 411.
+[[Astrion and the Road to Vestian - 348 to 377 AR|Astrion and the Road to Vestian]] follows the restoration of the Stars, the Red Star's single answer of 350, the failed desert expedition, the Answered Standard and the rulers who governed until the Kellovar ford and Vestian's accession in 377 AR. [[The Conversion of the Empire]] carries the story through the dissolution of the augur colleges, the compulsory Profession and the Second Silence to Halmenth in 411. [[The Long Frontier and the First Unsealing]] follows the Guttering and the First Unsealing to the Fall, and [[Towns and Wars of the Long Frontier]] the frontier towns, garrisons and local wars that lived beneath the peace of 612 to 884.
 
 For society within those centuries, read [[Provinces and Municipal Life in Imperial Atheria]], [[The Imperial Army and the Frontiers]], [[Food, Trade and Enslavement in Imperial Atheria]], [[Schools, Arts and Imperial Magic]] and [[Star Religion and the Imperial Cult]]. The [[The Keeper of Borrowed Grain|Raveth famine]], [[The Crown of Olveth]], [[The Two Roads of Arcelon]] and [[The Companions Who Entered by the Low Door - Imperial History|Low Door Companions]] connect those institutions to particular lives and places.
 
@@ -129,7 +129,7 @@ For society within those centuries, read [[Provinces and Municipal Life in Imper
 ## Tales that outlived their tellers
 
 
-[[Myths and Legendary Histories MOC]] gathers the seventy-five localised Garden traditions and additional received histories, including [[The Wolf's Two Sons]]. Games, meals, clothing, damaged landscapes, tools and ruined buildings carry meanings acquired through their stories. Each article identifies the communities that tell the tale and distinguishes established remains from disputed interpretations.
+[[Myths and Legendary Histories MOC]] gathers the seventy-five localised Garden traditions and additional received histories, including [[The Wolf's Two Sons]] and [[The Four Deaths of the Prophet]], the four tellings of the Prophet's death at the edge of the Glass. Games, meals, clothing, damaged landscapes, tools and ruined buildings carry meanings acquired through their stories. Each article identifies the communities that tell the tale and distinguishes established remains from disputed interpretations.
 
 Two public histories run across every age: [[Saints and Sinners of the Chronicles]], with the cults, sceptics and rival churches that dispute each life, and [[The Hunger Wars]], which follows the Idols' wars on human towns, armies, churches and households, from the canal wars of the Late Chains to the Pyre of Masks in 1346.
 

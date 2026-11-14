@@ -102,5 +102,4 @@ The Redeemer entered this imperial world. Persecution, Conversion, regional deca
 - [[G-09 - The Companions Who Entered by the Low Door|The Companions Who Entered by the Low Door]]
 - [[G-73 - The Oar-King without a Country|The Oar-King without a Country]]
 - [[G-74 - The Raid That Returned One Tool|The Raid That Returned One Tool]]
-- [[World Historical Atlas MOC]]
-- [[Peoples in the World Historical Atlas]]
+- [[The Ages of the World]]

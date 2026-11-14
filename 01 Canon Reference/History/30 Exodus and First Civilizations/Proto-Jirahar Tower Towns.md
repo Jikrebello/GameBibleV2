@@ -26,7 +26,7 @@ The tower town is both shelter and statement:
 
 - a visible marker on caravan roads;
 - a storehouse for scrolls, witnesses, and route memory;
-- a court for disputes among travelers;
+- a court for disputes among travellers;
 - a refuge during raids and famine;
 - a vertical symbol of waiting for the true promised land.
 
@@ -42,11 +42,11 @@ The Jirahar preserve the strongest claim to the Great Prophet's original teachin
 
 ## Future Consequence
 
-Qiryath becomes the greatest early tower, is destroyed by Arqesh in 742 BR, rebuilt, and destroyed again by Atheria in 70 AR. The broader tower pattern survives because it never depends on one kingdom. Later towers become deep cities and fixed anchors for the Prophet's Roads.
+Qiryath becomes the greatest early tower, is destroyed by Arqesh in 742 BR, rebuilt, and destroyed again by Atheria in 65 AR. The broader tower pattern survives because it never depends on one kingdom. Later towers become deep cities and fixed anchors for the Prophet's Roads.
 
 ## Navigation
 
-- [[Timeline MOC]]
+- [[The Ages of the World]]
 - [[Age of Exodus]]
 - [[Age of Scattering]]
 - [[01 Canon Reference/Peoples and Cultures/Jirahar/The Jirahar Overview.md|The Jirahar Overview]]

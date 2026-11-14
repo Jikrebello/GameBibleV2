@@ -17,11 +17,11 @@ tags: []
 
 ## Folk and Grobi
 
-The Folk are related neighbors, rivals, trading partners, spouses, and winter allies. Tidewood anchorage, timber, pasture, and old insults produce frequent conflict. Major Grobi movements force cooperation, especially between Grey-Wolf scouts and Gale-Crown or Tidewood warbands.
+The Folk are related neighbours, rivals, trading partners, spouses, and winter allies. Tidewood anchorage, timber, pasture, and old insults produce frequent conflict. Major Grobi movements force cooperation, especially between Grey-Wolf scouts and Gale-Crown or Tidewood warbands.
 
 ## Thalmyria and the Saltborn
 
-Western Kedrava bears the deepest history of Ättar raid, settlement, baptism, and naval service. The [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/60 Realms and Peoples/The Saltborn Coast Overview.md|Saltborn]] are a Thalmyric people with substantial Ättar ancestry. Baptized oath-families serve in the Ash Guard and navy while old-rite halls raid the same coast.
+Western Kedrava bears the deepest history of Ättar raid, settlement, baptism, and naval service. The [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/60 Realms and Peoples/The Saltborn Coast Overview.md|Saltborn]] are a Thalmyric people with substantial Ättar ancestry. Baptised oath-families serve in the Ash Guard and navy while old-rite halls raid the same coast.
 
 ## Sestara
 
@@ -33,7 +33,7 @@ Sermora hires Ättar privateers; Orsena brokers ransom and ship repair; Vardessa
 
 ## Jirahar
 
-Jirahar Sea Fleets buy timber, fur, fish, pilots, and escort while competing for cargo and safe anchorage. Their ransom networks can recover captives whom no state recognizes. Jirahar law condemns Ättar slave-taking, while practical captains continue to bargain with raiders.
+Jirahar Sea Fleets buy timber, fur, fish, pilots, and escort while competing for cargo and safe anchorage. Their ransom networks can recover captives whom no state recognises. Jirahar law condemns Ättar slave-taking, while practical captains continue to bargain with raiders.
 
 ## Tarkhan and Nsizwa
 
@@ -41,7 +41,7 @@ Tarkhan horses, steppe goods, and mercenary contacts reach Hornwall markets thro
 
 ## Eclessia
 
-Distance limits settlement but not raids, mercenary movement, or captives. Eclessian churches support missions among Ättar halls and dispute Thalmyric claims over baptized oath-families.
+Distance limits settlement but not raids, mercenary movement, or captives. Eclessian churches support missions among Ättar halls and dispute Thalmyric claims over baptised oath-families.
 
 ## Navigation
 

@@ -28,7 +28,7 @@ The churches have never agreed on how to tell the two apart. Before 1015 a bisho
 
 One teaching is shared across the communions: a saint cannot fall. When a figure wearing a saint's face demands revenge, the churches say something else is wearing it—an Idol's Mask, a Patron's hired apparition, a residue repeating old habits. Sinner cults turn the teaching around and call their master's appearances proof of his cause. Much of what follows was written, rewritten and burned by people fighting that argument.
 
-## Underground and Conversion (c. 150–411 AR)
+## Underground and Conversion (c. 150–398 AR)
 
 For nearly three centuries the Redeemer's people were outlaws, then for a century the empire's own faith, then, under Vestian, its compulsory one. The saints of these years were prisoners, porters and clerks. Their sinners learned that escape, miracles and the names of the dead could all be sold. See [[The Ember Underground]] and [[The Conversion of the Empire]].
 
@@ -72,7 +72,7 @@ The boy was dying under a thorn bush when a pale ground bird walked out of the g
 
 Hospital orders still repeat a clause, "need does not end when inheritance changes," and most attribute it to a charitable widow who sheltered the pair afterwards, as in [[G-40 - The Shelter That Outlived Its Heir|The Shelter That Outlived Its Heir]]. Abolitionist preachers tell the bird as an angel; sceptics tell of a lucky cistern; the household's descendants called the whole story slander for two hundred years.
 
-### The Preacher of the Second Gospel (c. 330–382 AR)
+### The Preacher of the Second Gospel (c. 330–389 AR)
 
 The Preacher began as a temple copyist who joined the Church because its new congregations fed displaced workers whom both the imperial and the old-cult authorities had abandoned. He became a magnificent preacher and organiser of soup kitchens, fever wards and lodging houses. Privately he taught that every real power deserved negotiated worship. A bishop removed him from public teaching after witnesses proved coerced confessions and a secret rite that addressed the White Flame as an appetite to be fed.
 
@@ -90,9 +90,9 @@ At the dedication the singer stopped before the altered verse, spoke the first v
 
 Some choirs call the event a miraculous confession; temple descendants call it a church spectacle staged to keep the confiscated house, and physicians a guilty man's seizure. The hymn survives with a deliberate silent measure, kept in [[G-41 - The Silence Kept for Five|The Silence Kept for Five]]. Some choirs read the five names into it, others keep it empty, and the Church learned from the quarrel that a hymn could not absolve killings done in its name.
 
-## The Long Frontier (411–905 AR)
+## The Long Frontier (398–905 AR)
 
-For three centuries the remnants of the empire and the rising Covenant shared a frontier of wells, forts, ransom roads and mixed towns. Its pressures—water, quarantine, fortification, revolt, the closed doors between worlds—produced the densest crowd of saints and sinners in the chronicles. Eight great lives overlapped: an older generation between about 641 and 735 that shaped law, forts, revolt and quarantine, and a younger one between about 708 and 804 that shaped routes, warnings and refuge craft. Each worked in a separate place and cause. Some quarrelled in life; most knew one another only by reputation. See [[The Long Frontier and the First Unsealing]] and [[Towns and Wars of the Long Frontier]].
+For three centuries the remnants of the empire and the rising Covenant shared a frontier of wells, forts, ransom roads and mixed towns. Its pressures—water, quarantine, fortification, revolt, the closed doors between worlds—produced the densest crowd of saints and sinners in the chronicles. Eight great lives overlapped: an older generation between about 641 and 735 that shaped law, forts, revolt and quarantine, and a younger one between about 708 and 804 that shaped routes, warnings and refuge craft. Each worked in a separate place and cause. Some quarrelled in life; most knew one another only by reputation. See [[The Long Frontier and the First Unsealing]].
 
 ### The Old Traveller with Seven Birds (c. 626–641 AR)
 
@@ -108,7 +108,7 @@ The Clerk copied well allocations for wages so low that he slept in the archive.
 
 The Reaper began carrying corpses down from an estate whose owners lived above the poison line. With field medicine and stolen equipment he led the workers into the high houses and killed the overseers, and survivors hailed a liberator. His new order required every household to undergo repeated exposure rites so that nobody would ever again depend on the masters' medicine. The rites injured children and killed some adults, and they left the survivors dependent on treatments only his clinics supplied. Anyone who refused lost access to water and to burial.
 
-The Clerk's challenge to the Reaper's permanent quarantine exposed people still trapped under water and health restrictions long after the danger had passed. That challenge turned on the Clerk himself. He spent the rest of his career restoring hearings, returning land where he could, and writing expiry clauses that later copyists often left out. The Reaper answered that vulnerable people were safer without choices, and in a later outbreak, which frontier physicians agree he did not cause, made whatever bargain kept him in command.
+When the Clerk challenged the Reaper's permanent quarantine, he found families still fenced off from their own wells and graves years after the fever had gone, and the question he put to the Reaper came back to his own register. He spent the rest of his career restoring hearings, returning land where he could, and writing expiry clauses that later copyists often left out. The Reaper answered that vulnerable people were safer without choices, and in a later outbreak, which frontier physicians agree he did not cause, made whatever bargain kept him in command.
 
 The tellers keep both men walking. A century after the Clerk's death, when a frontier court used a copied Hundred-Wells manual to register kidnapped people as contributions to the waterworks, witnesses saw a thin clerk with ink-stained sleeves enter the hearing, suspend the court's seal and refuse to leave until the captives had been heard. Travellers on closed roads describe clinics kept by a man with a black cup where no clinic stands. The cordial there cures road-fever, and patients who leave without more of it die. Banu Mizan jurists claim the Clerk as a founder of their water law, colonial chroniclers call him an administrator who never stopped, and clerks' guilds keep his feast. Courts across the frontier still ask whether an emergency order contains "the Clerk's ending," a date after which it must justify itself again. The Reaper's bitter cordial remains good medicine in small doses and a sacrament in his cults. See [[G-30 - The Clerk Who Would Not Stop|The Clerk Who Would Not Stop]] and [[G-31 - The Bitter Cup of the Reaper|The Bitter Cup of the Reaper]].
 
@@ -164,11 +164,11 @@ Around 811 a confraternity bearing the commander's name used the old emergency l
 
 ### The Heir with Five Remembered Wings (c. 781–826 AR; the claim at the door, 907)
 
-The heir was born into a frontier client house whose ruler, the whole province whispered, had bargained its heirs to something below. Its children were hostages and possible vessels for a hereditary office. When the heir refused a custody rite, the parent cut five winglike scars across the child's shoulders and side. Servants smuggled the child out, and several were executed for it.
+The heir, whom devotees call the Saint of Five Remembered Wings, was born into a frontier client house whose ruler, the whole province whispered, had bargained its heirs to something below. Its children were hostages and possible vessels for a hereditary office. When the heir refused a custody rite, the parent cut five winglike scars across the child's shoulders and side. Servants smuggled the child out, and several were executed for it.
 
 Years later the exile came back with an armed household, overthrew the parent and killed the parent personally, then murdered surrendered relatives and an unarmed ritual custodian. After victory the heir refused the inherited office, confessed the killings before the victims' households, gave up the throne and spent the rest of a long life winning freedom, burial and property for the house's servants and child hostages. Some accepted restitution. Others named the penitent a murderer to the end. The heir died defending an evacuation from old allies who wanted the dynasty back.
 
-In 907, as Caleran's fall emptied the frontier, a claimant came to an escape house demanding the dynasty's surviving children under the old blood clause. Witnesses said the heir stood in the doorway with five scars burning white like folded wings and spoke one sentence while the house destroyed the compact: "No wound inherits the child." The claim failed, and the hereditary office died with it. Custody courts still preserve that sentence as law. [[G-46 - The Child Who Owed No Wound|The Child Who Owed No Wound]] tells the same house from a fleeing girl's side and refuses to call anyone in it a saint.
+In 907, as Caleran's fall emptied the frontier, a claimant came to an escape house demanding the dynasty's surviving children under the old blood clause. Witnesses said the heir stood in the doorway with five scars burning white like folded wings and spoke one sentence while the house destroyed the compact: "No wound inherits the child." The claim failed, and the hereditary office died with it. Custody courts still preserve that sentence as law. [[G-46 - The Child Who Owed No Wound|The Child Who Owed No Wound]] tells the same house from a fleeing girl's side, and its tellers still argue over who stood in the door.
 
 ### The Captain of the Sacrificial Wind and the Drowned Banner (c. 850–875 AR)
 
@@ -182,7 +182,7 @@ In another retreat of the same decades, a cult carrying a black, dripping banner
 
 Caleran fell to Idris al-Fattah in 905, and for a century the Atherian world was refugee camps, occupied towns, mountain resistance and returning claimants. Its sinners rebuilt the world as they wanted to remember it; its saints were remembered for opening doors. See [[The Invasion and the Fall]], [[The Fall and the Long Reconquest]] and [[The Reclamation of Caleran]].
 
-### The Saint at the Last Door of the Borrowed Temple (c. 901–909 AR)
+### The Saint at the Last Door of the Borrowed Temple (c. 905–907 AR)
 
 As imperial order broke, soldiers, prisoners, servants and refugees packed into an old star sanctuary long since turned into a provincial prison and cistern refuge. A commander reopened its sealed chambers looking for weapons and found an offer instead: dragon-shaped war-beasts built from bodies, and the promise that his province would become the empire's true successor. The price was an altar, public acclamation and condemned bodies. He paid it. Prisoners were executed, corpses and living flesh went into the frames, and refugees who would not acclaim were denied water from the cistern. Then prisoners began vanishing from locked cells under false evacuation orders.
 
@@ -224,7 +224,7 @@ Her sentence named a throne. Oaths since have been sworn to the Sublime Threshol
 
 ### The King of Unburied Hosts (c. 970–1010 AR)
 
-In a small reconquered valley, a commander forbade burial while a corpse-working emissary rebuilt the dead into a road gang. A mother saw her son's mended coat among the workers and followed it, because the emissary said he still served. At the camp she found several bodies answering to his name and a copied voice rehearsing words he had never spoken. The families smashed the fittings that drove the workers and burned the whole gang, coat and all. Soldiers killed several mourners and walled the surviving prisoners up among the remaining machines. The valley's tellers say the bodies were bound for a dead king's necropolis below, a city of corpses that work, and that the burning cut one of its roads. Burial law in the reconquered provinces still forbids any commander to hold the dead.
+In the 990s, when Leovar III's Breaking had driven out the flame-monks who buried the dead of the reconquered valleys, a commander in one small valley forbade burial while a corpse-working emissary rebuilt the dead into a road gang. A mother saw her son's mended coat among the workers and followed it, because the emissary said he still served. At the camp she found several bodies answering to his name and a copied voice rehearsing words he had never spoken. The families smashed the fittings that drove the workers and burned the whole gang, coat and all. Soldiers killed several mourners and walled the surviving prisoners up among the remaining machines. The valley's tellers say the bodies were bound for a dead king's necropolis below, a city of corpses that work, and that the burning cut one of its roads. Burial law in the reconquered provinces still forbids any commander to hold the dead.
 
 ### Hedwen of Kaltfurt (974 AR; d. c. 1010)
 
@@ -343,7 +343,6 @@ In one Eclessian jurisdiction, laundresses, guards, clerks, a physician and grav
 - [[The Ember Underground]]
 - [[The Conversion of the Empire]]
 - [[The Long Frontier and the First Unsealing]]
-- [[Towns and Wars of the Long Frontier]]
 - [[The Invasion and the Fall]]
 - [[The Fall and the Long Reconquest]]
 - [[The Great Split — Two Crowns, One Fire]]
@@ -355,4 +354,3 @@ In one Eclessian jurisdiction, laundresses, guards, clerks, a physician and grav
 - [[The Hunger Wars]]
 - [[Manifested Saints Overview]]
 - [[Legendary Histories]]
-- [[Myths and Legendary Histories MOC]]

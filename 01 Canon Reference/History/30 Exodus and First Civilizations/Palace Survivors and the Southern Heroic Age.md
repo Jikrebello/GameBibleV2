@@ -64,7 +64,7 @@ The disruptions around 1600–1400 BR arose within these later networks. Kassilo
 
 ## Further reading
 
-- [[The Great Unbinding]] and [[The Glass Sojourn]]
+- [[Age of Exodus]] — the Great Unbinding and the Glass refuge
 - [[Arsuvan - The Giant Kingdom of the Aurin]]
 - [[The Siege and the Returnings]]
 - [[Southern Settlement and Maritime Atheria]]

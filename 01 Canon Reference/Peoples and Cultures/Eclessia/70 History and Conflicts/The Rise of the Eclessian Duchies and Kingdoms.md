@@ -3,7 +3,7 @@ type: event
 status: canon
 canon_level: core
 visibility: public
-era: ["975-1104 AR"]
+era: ["975–1232 AR"]
 region: ["Eclessia"]
 culture: ["Eclessian"]
 related_factions: ["Eclessian Church"]
@@ -42,9 +42,9 @@ Ludovar died in 1046 and his grandsons fought on. At **Drossfeld** in 1049, with
 
 The wax of Gervin's lot was smudged along its eastern line before anyone copied it. Every modern border claim interprets Drossfeld differently, and the middle march's claims all begin with what the smudge covered.
 
-## Founders Remembered Correctly
+## Founders and Their Chronicles
 
-Older regional chronicles preserve these figures while exaggerating their offices:
+Older regional chronicles preserve these figures and inflate their offices:
 
 - **Queen-Matron Seraphyne** was Aurelia's battle-abbess and emergency protector c. 930-949 AR; the chronicles make her the founder of a post-Fall kingdom.
 - **Abbess Elyenne of Verdissia** and **Rhalien Veris** built Veridancia's first post-Drossfeld ducal compact in the 1050s. Rhalien was acclaimed as war-chaplain and protector before his descendants regularized the title.
@@ -52,13 +52,13 @@ Older regional chronicles preserve these figures while exaggerating their office
 
 ## The Choosing of Virelia, 1061 AR
 
-The Vesari were an older Braided river people with their own towns, moots and rites, formed from remnant populations, arriving Ark-derived groups and later local unions. Prince **Radomir I** of Strazgorod sent sworn envoys to test four faiths. In Veridun's Ember-Cathedral the lamp they had carried from Strazgorod took the Flame unbidden, before witnesses of both churches, and the envoys reported: *"We went to see their fire, and it came to see us."* Radomir asked for his lamp. Patriarch Makarios the Adamant refused to move what the Fire had chosen. Radomir chose the Sanctum for dynastic alliance and western arms, married Lotharic's heiress, and their son ruled the Vesari princedoms and Lotharic's eastern kingdom together. This created Virelia's durable contradiction: a western hierarchy above eastern-flavoured popular piety, with the Virelian Lamp still burning in Veridun.
+The Vesari were an older Braided river people with their own towns, moots and rites, formed from remnant populations, arriving Ark-derived groups and later local unions. Prince **Radomir I** of Strazgorod sent sworn envoys to test four faiths. In Veridun's Ember-Cathedral the lamp they had carried from Strazgorod took the Flame unbidden, before witnesses of both churches, and the envoys reported: *"We went to see their fire, and it came to see us."* Radomir asked for his lamp. Patriarch Makarios the Adamant refused to move what the Fire had chosen. Radomir chose the Sanctum for a dynastic alliance and Eclessian swords against the Grass-Tarkhan, married Lotharic's heiress, and their son ruled the Vesari princedoms and Lotharic's eastern kingdom together. This created Virelia's durable contradiction: a Sanctum hierarchy above village piety that still looks to Veridun, with the Virelian Lamp still burning in Veridun's cathedral.
 
 ## The Lintels and the Sabre Crown, 1068-1103 AR
 
 Radomir II won his throne in a war with his own kin. The houses that lost were old Vesari maternal households that painted their ancestors' faces above their door lintels and kept the district grain, and they demanded restitution through the duties of Strazgorod's ancient protector image, which had recognised those houses and opened a famine store in bad years; among them grew a rival image, the Elder Face. Between 1068 and 1102 Radomir II's officers burned the faces above the lintels, executed keepers and witnesses, took and renamed children and forbade one kin-name. The protector image returned with a harder face, and its famine store never opened again. Survivors refuse to paint a face above a lintel to this day. Virelian chroniclers call the purge resistance to pagan sedition; Vesari songs make every victim an ancestral saint. [[The Hunger Wars]]
 
-When the Two Winters came in 1101, the districts the purge had emptied could not feed themselves, and Radomir II's sons died of the famine-fever. In 1103 the magnates revived the old Vesari moot-right in the **Council of Sabres** and elected a king. Veridun's envoys offered to send the Virelian Lamp home if the eastern candidate won; he lost by three sabres. Virelia has elected its kings ever since, and the offer is made at every election.
+When the Two Winters came in 1101, the districts the purge had emptied could not feed themselves, and Radomir II's sons died of the famine-fever. In 1103 the magnates revived the old Vesari moot-right in the **Council of Sabres** and elected a king. Veridun's envoys offered to send the Virelian Lamp home if the candidate of the old Vesari east won; he lost by three sabres. Virelia has elected its kings ever since, and the offer is made at every election.
 
 ## The Crown in Trust, 1101-1104 AR
 

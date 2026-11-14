@@ -14,14 +14,13 @@ source_id: AF-R01
 ---
 # The Auditor of the Last Quota
 
-
 The epithet identifies one historical power, not a universal rank.
 
 ## The person and the manifestation
 
-one damned human-soul map-lord bearing a separable Crown office and many delegated mantles.
+One damned human-soul map-lord bearing a separable Crown office and many delegated mantles.
 
-an immense blind eel whose scales are seals and whose human face appears only inside the mouth when an audit is pronounced.
+An immense blind eel whose scales are seals and whose human face appears only inside the mouth when an audit is pronounced.
 
 ## Ambition and rule
 
@@ -31,11 +30,11 @@ He prefers ambitious opponents to obedient fools. A rival who discovers corrupti
 
 ## Victims
 
-he promotes betrayal, audits torture as productivity and destroys successful subordinates before they can become independent.
+He promotes betrayal, audits torture as productivity and destroys successful subordinates before they can become independent.
 
 ## Limits and inheritance
 
-not king of Hell, the Adversary, a god or the source of devil offices.
+Not king of Hell, the Adversary, a god or the source of devil offices.
 
 This power is active in its own ecology in 1360. No present defeat, return, redemption or campaign outcome is fixed.
 

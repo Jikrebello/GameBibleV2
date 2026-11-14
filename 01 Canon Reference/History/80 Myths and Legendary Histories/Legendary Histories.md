@@ -13,9 +13,9 @@ tags: [world-historical-atlas, reader-guide, received-tradition]
 ---
 # Legendary Histories
 
-Alongside the established chronology in [[The Ages of the World]], the world carries seventy-five **Garden traditions** and additional received histories: stories that particular communities tell about their own past. Their existence, their tellers and whatever physical or customary remainder survives them are established facts. What the stories claim happened inside them — a miracle, a founder's identity, a god's intervention — is a separate question, and each article keeps the two apart.
+Alongside the established chronology in [[The Ages of the World]], the world carries seventy-five **Garden traditions** and a handful of other received histories: the stories particular communities tell about their own past at hearths, gravesides, boat-launchings and coronations. That a story is told, who tells it and what custom or object survives it are established facts. What the story claims happened — a miracle, a founder's name, a god's hand on events — is a separate question, and each article keeps the two apart.
 
-That distinction is marked by an **authority layer**. Most legends on this shelf carry the layer **stories told**: the telling is certain, its events are not automatically so. An article will say plainly where tellers disagree, what physical or customary evidence remains, and what stays permanently uncertain — a name, a site, a cause of death. None of that uncertainty makes the tradition placeless or the community that keeps it unreliable; it just means a sung version and a verified history are different kinds of document.
+Most legends on this shelf are marked **stories told**: the telling is certain, its events are not automatically so. Each article says plainly where tellers disagree, what evidence remains and what stays uncertain — a name, a site, a cause of death. None of that makes a tradition placeless or its keepers liars; a sung version and a verified history are simply different kinds of document.
 
 ## Where to start
 
@@ -27,6 +27,8 @@ From there, four more traditions spread across the ages show the range of what t
 - **[[G-73 - The Oar-King without a Country|The Oar-King without a Country]]** — a Folk coastal captive's rise to kingship, a murder, a prophet's exposure and a magistracy born from confession, from the [[Age of Hearths and First Kings]].
 - **[[G-10 - The Road of the Empty Purse|The Road of the Empty Purse]]** — mercy and betrayal among ordinary households sheltering the persecuted, from [[The Age of the Redeemer]].
 - **[[G-17 - The Company with No Charter|The Company with No Charter]]** — a still-unfinished present-day mystery with living participants, from [[The Age of Held Proofs]].
+
+Two longer surveys gather the holy, the damned and the hungry across many ages. **[[Saints and Sinners of the Chronicles]]** tells the Lives of the great saints and sinners, from the prison roads of the Underground to the Closed House of 1360, with their wonders and the quarrels still fought over their relics. **[[The Hunger Wars]]** follows the Idols' Masks feeding on towns, armies and churches, from the Sarrakai canals to the Pyre of Masks.
 
 ## The complete shelf
 

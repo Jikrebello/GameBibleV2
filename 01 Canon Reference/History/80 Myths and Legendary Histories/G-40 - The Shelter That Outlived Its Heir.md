@@ -51,7 +51,6 @@ A water jar is passed from an outgoing keeper to the next. If no keeper is worth
 - [[Historical Atlas of Atheria]]
 - [[Historical Spine of the Jirahar]]
 - [[Saints and Sinners of the Chronicles]]
-
 - [[The Conversion of the Empire]]
-- [[Myths and Legendary Histories MOC]]
-- [[World Historical Atlas MOC]]
+- [[Legendary Histories]]
+- [[The Ages of the World]]

@@ -3,7 +3,7 @@ type: history
 status: canon
 canon_level: local
 visibility: author-only
-era: [All Eras]
+era: ["c. 3400–2260 BR"]
 region: [Known World]
 culture: []
 related_factions: []
@@ -97,7 +97,7 @@ After the Unyoking (c. 2255 BR), Meya of Narash bargained with a Way-Weaver at t
 
 ## The Black Orchard Courts
 
-Ansharan cadet kingdoms built around paradise-gardens, blood orchards, and specialized mortal vampire houses. Formally satrapies, practically independent whenever the Court of Courts weakens.
+Ansharan cadet kingdoms built around paradise-gardens, blood orchards, and specialised mortal vampire houses. Formally satrapies, practically independent whenever the Court of Courts weakens.
 
 Some close themselves during the Drinking Wars; others become minor Egg White courts or counterfeit ancestral patrons. Their surviving bloodlines disagree over whether secession was rebellion, self-rescue, or theft.
 
@@ -109,7 +109,7 @@ Their very existence refutes claims that the four castes never mixed. Hidden ter
 
 ## The Ash Calendar Cities
 
-Older Xolotlan highland and jungle city-states, each with its own captive calendar, observatory, and war patron. Incorporated unevenly into Xolotl; their priests are forced to synchronize sacrifice with the Blood Sun.
+Older Xolotlan highland and jungle city-states, each with its own captive calendar, observatory, and war patron. Incorporated unevenly into Xolotl; their priests are forced to synchronise sacrifice with the Blood Sun.
 
 Their rejected calendars preserve eclipses and rebellions the imperial count erases. One city's refusal to supply a “missing day” creates a gap in Blood Sun upkeep without altering cosmic time.
 
@@ -117,7 +117,7 @@ Their rejected calendars preserve eclipses and rebellions the imperial count era
 
 Mainland and island treaty ports that feed Nythalum's launch economy while remaining locally ruled. Nythalum promises berths, technical education, and survival quotas in exchange for material and labour.
 
-When the core retracts the berths, some harbors revolt, seize unfinished Nythalum vessels, or attempt doomed launches with stolen plans and defecting Nythalum engineers. They never possess an independent lunar programme. Every route, wreck, receiving frame, and surviving claim remains physical and moonward, never an Egg White current.
+When the core retracts the berths, some harbours revolt, seize unfinished Nythalum vessels, or attempt doomed launches with stolen plans and defecting Nythalum engineers. They never possess an independent lunar programme. Every route, wreck, receiving frame, and surviving claim remains physical and moonward, never an Egg White current.
 
 ## The Ossuary League of Urum
 
@@ -129,7 +129,7 @@ Urum distinguishes a human grave, Giant body, Titan fragment, office relic, and 
 
 A city-kingdom whose last embodied God-Kin sovereign was divided and whose throne refuses every permanent replacement. Repeatedly occupied by Ishkatar and Anshara, neither of which can make its preferred claimant pass the throne's bounded test.
 
-A mortal council governs while the throne recognizes temporary judges, war leaders, or petitioners for one commission at a time. Recognition proves actual access, not divine descent, general virtue, or a right to empire.
+A mortal council governs while the throne recognises temporary judges, war leaders, or petitioners for one commission at a time. Recognition proves actual access, not divine descent, general virtue, or a right to empire.
 
 ## The Dam Kingdom of Ezhar
 
@@ -139,9 +139,9 @@ Conquest replaces crowns but not water administration. Its final breach may have
 
 ## The Nine Bearings
 
-A league of navigator isles, observatories, pilot houses, and neutral repair harbors. Trades with Ulmaris, Xolotl, and Nythalum while resisting annexation.
+A league of navigator isles, observatories, pilot houses, and neutral repair harbours. Trades with Ulmaris, Xolotl, and Nythalum while resisting annexation.
 
-Its pilots supply observational and navigational support to Nythalum but never build lunar vessels or pursue colonization independently. Their star tables understand the Moon as a material destination with orbital windows, tides, mass, and distance, and can expose later mystical claims that Nythalum “ascended out of creation”.
+Its pilots supply observational and navigational support to Nythalum but never build lunar vessels or pursue colonisation independently. Their star tables understand the Moon as a material destination with orbital windows, tides, mass, and distance, and can expose later mystical claims that Nythalum “ascended out of creation”.
 
 ## The Thorn-Spear Confederacy
 
@@ -153,7 +153,7 @@ Authority lives in witnessed oath-spears rather than one throne. Heroes can save
 
 Cloudstep terraces and Ash Calendar cities could defect without becoming one human nation. Glassward wells admitted, sold or refused refugees. Orqad's fragment-gathering crisis ended in heavenly binding of the selected Titan, not an ordinary killing or a repeatable method for assembling a god. Urum's practical distinctions survived in burial craft. Several Black Orchard rulers escaped; others consumed their dependants or died in the Drinking Wars. No one is identified as Anshara's final sovereign.
 
-A repentant Giant defector at a Glassward crossing received temporal mercy after surrendering captives and breaking a pursuit engine. The defector did not acquire a human soul or become a Saint. A counterfeit escaped ancestor later claimed the deed through copied memories; that claimant is not the same person. The two figures, Orqad's bound Titan, a bodily escaped Giant and the lunar Continuant remain five separate ancient actor histories, not one biography spread across realms.
+A repentant Giant defector at another Glassward crossing, not the one where a heavenly servant severed a pursuing engine before the porters' eyes, received temporal mercy after surrendering captives and breaking a pursuit engine. The defector did not acquire a human soul or become a Saint. A counterfeit escaped ancestor later claimed the deed through copied memories; that claimant is not the same person. The two figures, Orqad's bound Titan, a bodily escaped Giant and the lunar Continuant remain five separate ancient actor histories, not one biography spread across realms.
 
 - [[Age of Chains]]
 - [[The Great Unbinding]]

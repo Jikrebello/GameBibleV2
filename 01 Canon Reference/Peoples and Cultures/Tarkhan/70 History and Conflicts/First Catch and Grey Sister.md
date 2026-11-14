@@ -3,7 +3,7 @@ type: event
 status: canon
 canon_level: core
 visibility: public
-era: ["905-920 AR"]
+era: ["905-920 AR", "951-1300 AR"]
 region: ["Northeastern Tarkhan Grasslands"]
 culture: ["Tarkhan", "Grass-Tarkhan"]
 related_factions: ["Atherian Empire"]
@@ -25,14 +25,7 @@ The stud brothers had sung over their foals for generations, and the blessing th
 
 ## Consequences
 
-- cart and foot migration became mounted migration within three generations;
-- mounted hunting and remount wealth reordered prestige;
-- eastern raids reached settled roads previously beyond practical range;
-- western clans imported horses but retained camels for dry country;
-- horse genealogy became both sacred record and high finance;
-- a foal accepted as Grey Sister's blood could seal peace like a relic translation.
-
-By 905, Well-Tarkhan camel civilization was already ancient.
+Within three generations cart and foot migration had become mounted migration. Mounted hunting and remount wealth reordered prestige in the camps, and eastern raids reached settled roads that had always been out of range. Western clans bought horses but kept their camels for the dry country, where the Well-Tarkhan camel civilisation was already ancient by 905. Horse genealogy became sacred record and high finance at once, and a foal accepted as Grey Sister's blood could seal a peace as solemnly as the translation of a relic.
 
 ## The Long Reach, 951
 
@@ -56,7 +49,6 @@ The grace came back in a single line. In the late winter of 1249 a grey mare of 
 
 ## Navigation
 
-- [[The Divergence Pass — Torque Register]]
 - [[Historical Spine of the Tarkhan]]
 - [[Grass-Tarkhan]]
 - [[Covenant Armies and the Tarkhan Frontier]]

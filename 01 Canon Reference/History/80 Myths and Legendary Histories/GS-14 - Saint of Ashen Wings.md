@@ -35,7 +35,7 @@ Slavery, insurgent killing, non-consensual prisoner experiments, killing of dama
 
 Liberation songs, victim rolls, covert rescue techniques and competing breachward groups; no single surviving order owns the Saint.
 
-a liberation feast is followed the next day by an unofficial reading of experimental victims whom the public Life omits.
+A liberation feast is followed the next day by an unofficial reading of experimental victims whom the public Life omits.
 
 ## What people remember
 
@@ -43,7 +43,7 @@ Immaculate liberator, unforgivable experimenter, redeemed penitent, hostile shad
 
 ## What remains unknown
 
-The private name, culture, polity, exact breach, number of victims, death place, manifestations and institutional heirs.
+The private name, culture, exact breach, number of victims, death place, manifestations and institutional heirs.
 
 ## Read onward
 

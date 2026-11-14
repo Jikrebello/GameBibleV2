@@ -36,8 +36,6 @@ The act contained one weaponized wound by depriving it of the human chain throug
 - **Prison songs** remember people escaping by exchanging names, which later occultists misread as literal soul exchange.
 - **Rival map fragments** each place the collapse inside enemy territory, because both dominions redrew the boundary after losing it.
 
-
-
 ## Discovery Interface
 
 - **Knowledge state:** `misclassified` and `lost`.

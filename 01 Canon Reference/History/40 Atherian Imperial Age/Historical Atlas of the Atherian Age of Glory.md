@@ -52,7 +52,7 @@ Orent I pursued eastern campaigns and reorganised the roads behind them, buildin
 
 During the Raveth hunger that began in 119 BR, the administrator Neriah bar Sorek organised grain imports and distribution that saved towns from starvation. His policy also transferred defaulting farms to the imperial domain and bound former owners to work them. When estate officers replaced the neighbours' countersignature with an oath before the emperor's image, Neriah resigned, and the households that swore gave up their land with a meekness their neighbours never showed. [[The Keeper of Borrowed Grain]] follows the preservation, confiscation and later arguments over his responsibility.
 
-Under the late Serrats a Vasharan succession war, the War of the Two Dawns, emptied the western Vasharan commands and set offices in the sanctuaries up for sale. At Qiryath the sign of acceptance answered an interim Keeper chosen by the city while a Vasharan purchaser held the confirmation. The Atherian governor at Arcelon came to the next pilgrimage with an augur of the Red Star, who asked the sign to decide between the claimants; the purchaser refused, the interim Keeper offered, and no sign was given. The governor ruled on the sanctuary's written record, and a scribe of the house of Qoreth drafted the charter under which Atheria held Qiryath until 70 AR. Vashar took a yearly Dawn Portion of pilgrim dues and called it rent.
+Under the late Serrats a Vasharan succession war, the War of the Two Dawns, emptied the western Vasharan commands and set offices in the sanctuaries up for sale. At Qiryath the sign of acceptance answered an interim Keeper chosen by the city while a Vasharan purchaser held the confirmation. The Atherian governor at Arcelon came to the next pilgrimage with an augur of the Red Star, who asked the sign to decide between the claimants; the purchaser refused, the interim Keeper offered, and no sign was given. The governor ruled on the sanctuary's written record, and a scribe of the house of Qoreth drafted the charter under which Atheria held Qiryath until 65 AR. Vashar took a yearly Dawn Portion of pilgrim dues and called it rent.
 
 The [[The Companions Who Entered by the Low Door - Imperial History|Low Door Companions]] rose during the last Serrat generations from service work into military and provincial office. Their abilities allowed people of modest origin to enter imperial government. Hostage-taking, an unlawful raid and the betrayal of a refuge accompanied their ascent.
 
@@ -64,7 +64,7 @@ A succession of later court houses preserved the empire through alliances with a
 
 The empire's eastern provinces included much of the country later inherited by Eclessia. Sestaran harbours occupied a changing range from direct provincial rule to alliance and commercial privilege. Sarqen connected the cultivated gateway country to inner-sea routes. Southern forts and treaty districts met independent Folk societies. Northern roads reached well kingdoms and mobile Tarkhan communities, while most of the dry belt remained outside imperial rule. Jirahar tower towns retained their own institutions inside and beyond eastern imperial territory.
 
-Vashar remained a sovereign peer beyond the eastern provinces, holding its highland core and most of the Ubar while it leased Qiryath's pilgrim dues back from Atheria. The Qahuri basin kept its three crowns. Atherian grain and harbour contracts bound Qemaret's lower river, where an imperial station stood at the harbour, and Tenaret and Sakhret ruled as crowned clients after Vasharan tribute lapsed during the War of the Two Dawns.
+Vashar remained a sovereign peer beyond the eastern provinces, holding its highland core and most of the Ubar and taking a yearly share of Qiryath's pilgrim dues for a city its scribes called leased. The Qahuri basin kept its three crowns. Atherian grain and harbour contracts bound Qemaret's lower river, where an imperial station stood at the harbour, and Tenaret and Sakhret ruled as crowned clients after Vasharan tribute lapsed during the War of the Two Dawns.
 
 [[The Imperial Army and the Frontiers]] follows recruitment, military families, auxiliary service and the work of maintaining forts. Recruits entered from subject and allied communities as well as the Atherian citizen body. Veterans carried language and institutions into new settlements, often upon land whose earlier inhabitants contested their title.
 
@@ -78,7 +78,7 @@ Enslavement remained part of the economy and the household. War supplied captive
 
 ## Religion and imperial memory
 
-[[Star Religion and the Imperial Cult]] developed the Common Sky into an imperial ceremonial system. Astaroth received precedence in rites of command and, after 326 BR, stood witness at the test of every public work; other Star Children governed festivals, occupations and local interpretations of the natural world. Temple hymns and the astronomers' Circle tables disagreed throughout the age about what the Star Children were.
+Imperial [[Overview of the Astratheon Religion|star religion]] developed the Common Sky into an imperial ceremonial system. Astaroth received precedence in rites of command and, after 326 BR, stood witness at the test of every public work; other Star Children governed festivals, occupations and local interpretations of the natural world. Temple hymns and the astronomers' Circle tables disagreed throughout the age about what the Star Children were.
 
 Portraits, coins and praise formulae made successive rulers resemble one eternal imperial person. Temple accounts treated portraits that answered questions as proof that the stars preserved the imperial office, while sceptics exposed staged responses in several cities. After 247 the Face at Caleran stayed veiled, and the copies in governors' courts, town halls and army standards took its place in provincial life. [[The Atherian Empire – Age of Glory#The Emperor after the Emperor|The Emperor after the Emperor]] describes these answering images and the hunger later writers saw in them.
 
@@ -91,5 +91,5 @@ By 0 AR, imperial religion seemed inseparable from public life. Its temples empl
 - [[The Last Dynasties of the Age of Glory]]
 - [[Provinces and Municipal Life in Imperial Atheria]]
 - [[Food, Trade and Enslavement in Imperial Atheria]]
-- [[Star Religion and the Imperial Cult]]
+- [[Overview of the Astratheon Religion]]
 - [[Atherian Imperial Age]]

@@ -16,7 +16,7 @@ tags: []
 
 Astratheon was the principal public religion of Atherian civilisation before the imperial conversion to the Redeemer's faith. It placed seven Star Children within a shared celestial family and interpreted constellations, seasons and unusual heavenly events as signs of their favour or hostility. The religion united older maritime cults, inland rites and Giant-era astronomy while leaving considerable room for household worship and local variation.
 
-Atherians never settled what the Star Children were. Temple hymns sang of a family born from the light of Father Sun and Mother Moon. The Astral Keepers, astronomers who recorded where and how each power answered, sorted the same powers into Circles by their works and left their births to the priests. Folk neighbours knew several of them as courts of their own country under other names, and Redeemer preachers later called them created powers enthroned in the sky. The longest quarrel concerned Thanatos, the seventh Star Child, whom funeral priests made lord of the dead's passage and whom ferrymen's songs remembered as [[The Boatman]], a carrier who heard no offers.
+Atherians never settled what the Star Children were. Temple hymns sang of a family born from the light of Father Sun and Mother Moon. The Astral Keepers, astronomers who recorded where and how each power answered, sorted the same powers into Circles by their works and left their births to the priests. Folk neighbours knew several of them as courts of their own country under other names, and Redeemer preachers later called them created powers enthroned in the sky. The longest quarrel concerned Thanatos, the seventh Star Child, whom funeral priests made lord of the dead's passage and whom ferrymen's songs remembered as the Boatman, a carrier who heard no offers.
 
 ## Historical Formation
 
@@ -82,9 +82,9 @@ Each cult maintained its own priests, property and rites. The Astral Keepers stu
 
 ## Conversion and Survival
 
-The augur colleges kept the register of answers, and in imperial law a sign existed only once a chartered college had entered it with its witnesses and the Star that answered. The colleges sealed the three silent days that followed the Binding (0 AR), recovered their copies in the Great Purge (c. 36–45), entered Cassian's Velos sign in the crown's name (292), and handed their registers to the bishops at the Dissolution (Caleran 381, the provinces by 384).
+The augur colleges kept the register of answers, and in imperial law a sign existed only once a chartered college had entered it with its witnesses and the Star that answered. The colleges sealed the three silent days that followed the Binding (0 AR), recovered their copies in the Great Purge (c. 36–45), entered Cassian's Velos sign in the crown's name (292), and handed their registers to the bishops at the Dissolution (Caleran 383, the provinces by 384).
 
-Redeemer communities condemned sacrifice, celestial fatalism and the worship of created powers. Astratheon remained publicly dominant through the Underground Centuries, then shared imperial patronage after legalization in 292 AR. Astrion restored temple stipends, funded hospitality and required publicly paid teachers of the classics to honour Star rites. His successors restored church stipends and left some Star estates in local hands. Vestian dissolved the augur colleges from 381, and his compulsory settlement of 385 closed or converted many temples and exposed priests and dependants to confiscation, violence and forced conformity. [[Astrion and the Road to Vestian - 348 to 377 AR|Astrion and the Road to Vestian]]
+Redeemer communities condemned sacrifice, celestial fatalism and the worship of created powers. Astratheon remained publicly dominant through the Underground Centuries, then shared imperial patronage after legalisation in 292 AR. Astrion restored temple stipends, funded hospitality and required publicly paid teachers of the classics to honour Star rites. His successors restored church stipends and left some Star estates in local hands. Vestian dissolved the augur colleges from 383, and his compulsory settlement of 385 closed or converted many temples and exposed priests and dependants to confiscation, violence and forced conformity. [[Astrion and the Road to Vestian - 348 to 377 AR|Astrion and the Road to Vestian]]
 
 The religion survived in household customs, rural shrines, philosophical schools and civic festivals stripped of their older dedications. Eclessian, Thalmyric and Sestaran societies inherited its calendars, architecture, dramatic traditions and celestial vocabulary. A constellation may now provide the date of a feast without receiving worship, while old temple ruins continue to attract pilgrims, antiquarians and cult revivalists.
 
@@ -95,4 +95,3 @@ The religion survived in household customs, rural shrines, philosophical schools
 - [[Astratheon Religious Myths]]
 - [[The Monomyth According to the Atherians]]
 - [[The Conversion of the Empire]]
-- [[The Boatman]]

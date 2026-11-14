@@ -41,7 +41,7 @@ _Compiled by the Monastic Office of Historical Sanctity, Ecclesia Aurelia (Revis
 
 ---
 
-###  **I. Canonized Martyrs of the First Persecution**
+###  **I. Canonised Martyrs of the First Persecution**
 
 #### **Saint Velmion of the Muzzled Word**
 
@@ -55,7 +55,7 @@ _Compiled by the Monastic Office of Historical Sanctity, Ecclesia Aurelia (Revis
 #### **Saint Calira of the Broken Blade**
 
 - **Date of Martyrdom**: ~438 AE
-- **Cause**: Killed during defense of Veridun Minor sanctuary
+- **Cause**: Killed during defence of Veridun Minor sanctuary
 - **Legacy**: Patron of Redeemer paladins, Order of the Flame-Vowed
 - **Relics**: Her fractured sword-pommel preserved in Ironvale's Sanctuary of Ash
 
@@ -103,7 +103,7 @@ _Compiled by the Monastic Office of Historical Sanctity, Ecclesia Aurelia (Revis
 
 - **Location**: Beneath the former Temple of Typhonius, Caleran
 - **Miracle**: Sunlight through overcast skies; posthumous reports of responses to prayer
-- **Significance**: Epicenter of White Flame theology
+- **Significance**: Epicentre of White Flame theology
 - **Present Site**: Now sealed by the Thalmyric Church; guarded as sacred silence
 
 ---
@@ -125,7 +125,7 @@ _Compiled by the Monastic Office of Historical Sanctity, Ecclesia Aurelia (Revis
 
 - **Location**: Reportedly in southern Eclessia
 - **Miracle/Curse**: City where a Redeemer martyr was burned; ash believed to grant visions
-- **Disputes**: Accusations of heretical prophecy and unauthorized relic collection
+- **Disputes**: Accusations of heretical prophecy and unauthorised relic collection
 - **Status**: Site barred to clergy since 622 AE under decree of the High Council
 
 ---
@@ -141,7 +141,7 @@ _Compiled by the Monastic Office of Historical Sanctity, Ecclesia Aurelia (Revis
 
 ###  **IV. Liturgical Commemorations Linked to Early Martyrs**
 
-|Feast Name|Date|Honored Figure/Event|Ritual Practice|
+|Feast Name|Date|Honoured Figure/Event|Ritual Practice|
 |---|---|---|---|
 |Feast of the Silent Flame|27 Duskfall|Saint Velmion|Vow of silence, Lantern Hymns|
 |Ember’s Eve|14 Midfall|General remembrance of martyrs|Lighting of twelve candles in vigil|
@@ -151,7 +151,5 @@ _Compiled by the Monastic Office of Historical Sanctity, Ecclesia Aurelia (Revis
 
 ## Navigation
 
-- [[Timeline MOC]]
-- [[Canon Index]]
 - [[The Ember Underground]]
 - [[The Conversion of the Empire]]

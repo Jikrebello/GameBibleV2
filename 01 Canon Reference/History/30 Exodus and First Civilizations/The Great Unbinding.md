@@ -39,7 +39,7 @@ The sequence below is authorial fact. Its phases overlap, and later traditions m
 3. **The plagues of unbinding:** bounded signs expose and disable the systems through which Giant courts claim ownership of created goods, human bodies, names, labour, death, and political necessity. They strike chiefly where continuity was being bought with bodies: tomb-estate ownership, the sacrificial calendar and captive roads, recurrence conscription and the granaries diverted to it, launch provisioning.
 4. **Revolt and defection:** enslaved households, burial fraternities, subject cities, client rulers, soldiers, and lesser courts act upon the openings. Revolt begins where the takers came: on Ishkatar's towpaths and dikes, among Xolotl's vent-keepers, at Qianglong's tally-gates, in Urum-facing roster houses, and in conscript columns that learn to lower Broken Standards. Some obey one warning without becoming righteous in every other matter.
 5. **The wars of the Closing Courts:** scarcity, exposed betrayal, rival succession, incompatible marriage claims, and competition for escape routes drive Giant houses into responsible civil war.
-6. **The commission of severance:** one Phoenix, supported by specialized angelic choirs and Host servants, contains selected apex threats that mortal liberation cannot safely overcome.
+6. **The commission of severance:** one Phoenix, supported by specialised angelic choirs and Host servants, contains selected apex threats that mortal liberation cannot safely overcome.
 7. **The breakout and pursuit:** several refugee columns and defecting communities converge towards the Great Glass Desert. Commissioned heavenly servants break the supernatural cohesion of the final pursuit without completing humanity's political work for it.
 8. **Entry into the Glass:** the ordered camp carries people, animals, seed, tools, records, law, and living crafts through a bounded survivable passage and enters the long refuge by approximately c. 2265 BR.
 9. **The orphaned world:** Giant regions fragment into many successor outcomes while the protected host remains within the Glass. Orphaned human communities begin independent reassemblies outside it.
@@ -49,7 +49,7 @@ The sequence below is authorial fact. Its phases overlap, and later traditions m
 
 The Lord alone is the source of the Prophet's revelation, the judgement, the commissioned passage, and the heavenly intervention.
 
-The Great Prophet is fully human. He announces, interprets, intercedes, organizes, and performs only commanded acts. He does not generate the plagues as personal sorcery, summon Heaven as a mortal army, or become divine.
+The Great Prophet is fully human. He announces, interprets, intercedes, organises, and performs only commanded acts. He does not generate the plagues as personal sorcery, summon Heaven as a mortal army, or become divine.
 
 The Giant houses are not mind-controlled into war. Judgement exposes betrayals, removes predatory surplus, and brings accumulated claims due. Rulers and courts remain responsible for the violence they choose.
 
@@ -61,7 +61,7 @@ The number, names, and exact order of individual signs remain open. The followin
 
 | Imperial horizon | What dilution made the works demand | Systems exposed or severed | Established collapse retained | Survivor legend |
 |---|---|---|---|---|
-| **Qianglong** | human conscripts and tally-gate children as recurrence bodies; the Famine Caste's granaries for vault-towns and the Unending Muster | caste measure, coerced specialization, recurrence administration, and the political appropriation of the Four Horsemen's domains | the War of the Four Horsemen fought over the last full granaries; the ruling Giants' entry into recurrence in the vaults (later called the retreat) | the Horsemen called their children home |
+| **Qianglong** | human conscripts and tally-gate children as recurrence bodies; the Famine Caste's granaries for vault-towns and the Unending Muster | caste measure, coerced specialisation, recurrence administration, and the political appropriation of the Four Horsemen's domains | the War of the Four Horsemen fought over the last full granaries; the ruling Giants' entry into recurrence in the vaults (later called the retreat) | the Horsemen called their children home |
 | **Ishkatar** | dike and towpath crews moved to tomb-works; captives and living districts' grain for the tomb-estates; children on the tomb rolls | ownership of river, tomb, body, estate, debt, and dynastic title | canal-crew and slave revolt; Giant succession war over the regulators; the unmaintained Serpent's Spine breaking into a lower bed in a high flood, drying the royal reach along its old course | a Naga lord's ritual drank the river |
 | **Xolotl** | an ever-thicker sacrificial calendar to keep lineage-memory legible in the Blood Sun; the vent-keepers' sons for the levies | captive supply, sacrificial calendar, false cosmic necessity, and the Blood Sun's feeding architecture | civil war over dwindling sacrifice; the Blood Sun starving; the untended volcanic works beneath Xolotlan venting after their human keepers fled | an Obsidian lord fed it the rebels and it burst |
 | **Nythalum** | test bodies for heavier transfer machinery; the coast's food and boats for launch provisioning | identity-copy, labour and berth allocation, continuity claims, and launch logistics | the rushed physical lunar launch after provisioning had stripped the coast of food, destruction of the island, and a small number of genuine Moon survivors | the spires fell at the Prophet's prayer |
@@ -77,9 +77,9 @@ The lesser crownland of [[Nhaldur and the First Rewriting|Nhaldur]] collapsed th
 
 ## The Phoenix Commission
 
-One actual, presently unnamed Phoenix bears the regional judgement-and-restoration commission. Specialized choirs and Host servants support it. Later traditions may conflate the Phoenix, its supporting servants, its commission-bodies, and the visible signs around them, but authorially one Phoenix and many supporting angels were present.
+One actual, presently unnamed Phoenix bears the regional judgement-and-restoration commission. Specialised choirs and Host servants support it. Later traditions may conflate the Phoenix, its supporting servants, its commission-bodies, and the visible signs around them, but authorially one Phoenix and many supporting angels were present.
 
-The commission authorizes them to:
+The commission authorises them to:
 
 - separate captives from self-reproducing Giant structures;
 - expose whether an apparent ancestor is a living Titan, living Giant, Reconstruction, office, residue, Idol Mask, or other claimant;
@@ -88,9 +88,9 @@ The commission authorizes them to:
 - break supernatural pursuit long enough for mortal withdrawal;
 - preserve the bounded passage until the entrusted movement is complete.
 
-It does not authorize them to:
+It does not authorise them to:
 
-- conquer or administer Giant civilization;
+- conquer or administer Giant civilisation;
 - judge every casualty as personally condemned;
 - become the Prophet's summonable army;
 - destroy an Idol Throne or turn a Menhir into a moral judge;

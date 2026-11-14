@@ -32,11 +32,11 @@ Greater Angel, disguised Saint, spy network using trained birds, Patron strategi
 
 ## What remains
 
-frontier officers still call an unendorsed set of tactical choices “the pilgrim’s table.” The phrase is useful precisely because command responsibility remains with the chooser.
+Frontier officers still call an unendorsed set of tactical choices “the pilgrim’s table.” The phrase is useful precisely because command responsibility remains with the chooser.
 
 ## What remains unknown
 
-pass, governor, commander, casualty count, names of the eight angels, later history of the dependent Mask and authenticity of every later traveller sighting.
+Pass, governor, commander, casualty count, names of the eight angels, later history of the dependent Mask and authenticity of every later traveller sighting.
 
 - [[Heavenly Campaigns and the Human Dead]]
 - [[World Historical Atlas MOC]]

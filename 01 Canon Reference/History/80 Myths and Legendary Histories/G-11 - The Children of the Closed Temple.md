@@ -40,7 +40,7 @@ It gives conversion a workforce and a family cost. The tale allows genuine conve
 
 ## How tellers differ
 
-Church versions say the bronze bird killed through demonic malice. Old-cult descendants say it punished sacrilege. Workshop songs insist careless handling, not doctrine, explains only that death and nothing more.
+Church versions say the bronze bird killed through demonic malice. Old-cult descendants say it punished sacrilege. Workshop songs blame careless handling, not doctrine, and say it explains that one death and nothing more.
 
 ## What remains
 
@@ -50,7 +50,6 @@ An annual procession carries empty frames. One is never touched, one is decorate
 
 - [[Historical Atlas of Atheria]]
 - [[Historical Spine of the Jirahar]]
-
 - [[The Conversion of the Empire]]
-- [[Myths and Legendary Histories MOC]]
-- [[World Historical Atlas MOC]]
+- [[Legendary Histories]]
+- [[The Ages of the World]]

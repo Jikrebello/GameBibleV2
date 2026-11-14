@@ -3,7 +3,7 @@ type: legend
 status: canon
 canon_level: local
 visibility: public
-era: ["c. 330–382 AR"]
+era: ["c. 330–389 AR"]
 region: ["inland provincial Atherian cities"]
 culture: ["temple descendants and early Church communities"]
 related_factions: []
@@ -18,7 +18,7 @@ aliases: ["The Ragged Gospel in the Hospital Apron"]
 
 ## Historical setting
 
-**c. 330–382 AR.** Inland provincial Atherian cities. This tradition belongs to [[The Conversion of the Empire]]; its cultural bearers are temple descendants and early Church communities.
+**c. 330–389 AR.** Inland provincial Atherian cities. This tradition belongs to [[The Conversion of the Empire]]; its cultural bearers are temple descendants and early Church communities.
 
 It is told in Conversion-era hospital houses, among counter-church descendants and in villages that know only a medicinal recipe.
 
@@ -51,7 +51,6 @@ Old hospital aprons contain ragged recipe patches in incompatible hands. Users o
 - [[Historical Atlas of Atheria]]
 - [[Historical Spine of the Jirahar]]
 - [[Saints and Sinners of the Chronicles]]
-
 - [[The Conversion of the Empire]]
-- [[Myths and Legendary Histories MOC]]
-- [[World Historical Atlas MOC]]
+- [[Legendary Histories]]
+- [[The Ages of the World]]

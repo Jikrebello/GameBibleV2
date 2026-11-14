@@ -16,7 +16,7 @@ tags: []
 
 Astratheon myths gave human motives and family relationships to the powers gathered beneath the Common Sky. They were performed at festivals, quoted in schools and adapted by cities whose local cults disagreed about the same Star Child. The collection below preserves ten widely circulated stories from the late republican and imperial periods.
 
-The tales give Astaroth, Lyraxis, Hecatara, Orionis, Typhonius and Arachnara the kinships and titles of the temple hymns. Astral Keepers, who sorted the powers by their works rather than their births, read the same stories as garbled records of where a power had answered and what it had cost; Folk listeners recognised their own Courts in several of them. Funeral guilds and ferrymen argued hardest over Thanatos, whose bargains here match nothing in the ferrymen's own songs of [[The Boatman]], and later Church teachers said that the Boatman sells no passage at all. Rural tellers tied several stories to particular woods, crossings and ruins. Antiquarians still dispute which tellings remember an encounter, which borrowed the same images for a different event and which were made for the stage.
+The tales give Astaroth, Lyraxis, Hecatara, Orionis, Typhonius and Arachnara the kinships and titles of the temple hymns. Astral Keepers, who sorted the powers by their works rather than their births, read the same stories as garbled records of where a power had answered and what it had cost; Folk listeners recognised their own Courts in several of them. Funeral guilds and ferrymen argued hardest over Thanatos, whose bargains here match nothing in the ferrymen's own songs of the Boatman, and later Church teachers said that the Boatman sells no passage at all. Rural tellers tied several stories to particular woods, crossings and ruins. Antiquarians still dispute which tellings remember an encounter, which borrowed the same images for a different event and which were made for the stage.
 
 ## The Hunt for the Blood-Moon Stag
 
@@ -76,11 +76,11 @@ Artists remembered a night of impossible achievement; bereaved households called
 
 ## Astaroth and the Faithful General
 
-Marius won repeated victories after dedicating weapons and captives to Astaroth. Success persuaded him that military skill had made sacrifice unnecessary. When the red star appeared above his camp, he dismissed the omen and marched.
+Tarvel won repeated victories after dedicating weapons and captives to Astaroth. Success persuaded him that military skill had made sacrifice unnecessary. When the red star appeared above his camp, he dismissed the omen and marched.
 
-Fear and contradictory orders broke his formation. A broken sword appeared in his hand, and in a rage he killed soldiers trying to rally around him. The enemy completed the defeat. Astaroth came as a raven and condemned Marius to carry strife wherever he sought shelter.
+Fear and contradictory orders broke his formation. A broken sword appeared in his hand, and in a rage he killed soldiers trying to rally around him. The enemy completed the defeat. Astaroth came as a raven and condemned Tarvel to carry strife wherever he sought shelter.
 
-Imperial commanders used the story to demand proper observance before battle. Critics told it differently: Astaroth accepted years of worship, then destroyed faithful soldiers because one general withheld tribute. The myth's lasting force lies in Marius killing his own men. Later service and ritual purification never return them to their families.
+Imperial commanders used the story to demand proper observance before battle. Critics told it differently: Astaroth accepted years of worship, then destroyed faithful soldiers because one general withheld tribute. The myth's lasting force lies in Tarvel killing his own men. Later service and ritual purification never return them to their families.
 
 ## Arachnara and the Lost Weavers of Verethis
 
@@ -100,7 +100,7 @@ Temple tellers described punishment for stolen tribute. Many rural versions accu
 
 ## Place in Atherian Culture
 
-These myths supplied familiar characters rather than a fixed creed. Comedy could mock Lyraxis while a guild sought inspiration from the same power. A general could dedicate victory to Astaroth and hear Marius's story quoted against him. Rural and household versions frequently preserved the victims whom court performances reduced to scenery.
+These myths supplied familiar characters rather than a fixed creed. Comedy could mock Lyraxis while a guild sought inspiration from the same power. A general could dedicate victory to Astaroth and hear Tarvel's story quoted against him. Rural and household versions frequently preserved the victims whom court performances reduced to scenery.
 
 After conversion, preachers reused many tales as warnings about created powers and false worship. Humanists valued them as literature, and local communities retained customs whose old divine explanation had faded. Their survival reveals the range of Atherian religious life: fear, pleasure, political instruction, craft memory and criticism all found expression beneath the same Common Sky.
 
@@ -110,4 +110,3 @@ After conversion, preachers reused many tales as warnings about created powers a
 - [[Atherian Astrology System]]
 - [[The Monomyth According to the Atherians]]
 - [[The Common Sky and the Formation of Astratheon]]
-- [[The Boatman]]

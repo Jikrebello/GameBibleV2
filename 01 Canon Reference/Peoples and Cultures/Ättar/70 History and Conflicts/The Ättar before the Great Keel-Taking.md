@@ -22,7 +22,7 @@ This account ends in 350 BR. The **great keel-taking**, when imperial weakness a
 
 ## Coast, valley and winter store, c. 2300–1900 BR
 
-Far-cold survivors lived around protected coves, short river valleys, forest pasture and taiga routes. Some had endured local Giant estates. Others received refugees from [[Nhaldur and the First Rewriting|Nhaldur]], including Avarn hull workers, Molkar smiths, condemned lesser Giants and giant-blooded human dynasts. Communities farther from the prison road possessed their own older histories.
+Far-cold survivors lived around protected coves, short river valleys, forest pasture and taiga routes. Some had endured local Giant estates. Others received refugees from Nhaldur, including Avarn hull workers, Molkar smiths, condemned lesser Giants and giant-blooded human dynasts. Communities farther from the prison road possessed their own older histories.
 
 The earliest settlements combined fishing, cold-grain cultivation, livestock, hunting and seasonal movement. Small boats followed inshore water and crossed between islands. People stored dried fish, grain, fat, roots and fodder against winter. A household with a sound roof and surplus food could shelter neighbours, demand service and survive a Grobi alarm. Repeated need enlarged some homes into halls containing assembly space, granaries, workshops and armed sleepers.
 
@@ -69,7 +69,7 @@ Early freezes then killed grazing animals and trapped stored carcasses beyond br
 
 Wrath speakers called the expedition the opening of a permanent **Warm Road**. Gharuk wanted the same practical result: northern halls, livestock and a line of stores that would prevent seasonal collapse. Gharuk bullied, defeated and consumed rival leaders until nine drum companies acknowledged him.
 
-The **Narrow-Bowl Hearths** resisted incorporation because Gharuk's orcs ate from stores reserved for their young. He seized two camps, killed their leaders and placed the surviving brood in Varka's ration train. When the early freeze worsened, he began feeding those young to his ogres. **Urzha**, the strongest Narrow-Bowl survivor, withdrew with her scouts and decided to destroy Gharuk before he consumed the rest of her pack.
+The **Narrow-Bowl Hearths** resisted incorporation because Gharuk's orcs ate from stores reserved for their young. He seized two camps, killed their leaders and placed the surviving brood in Varka's ration train. When the early freeze worsened, he began feeding those young to his ogres. **Urzha**, the strongest Narrow-Bowl survivor, withdrew with her scouts and decided to destroy Gharuk before he fed the rest of her young to his ogres.
 
 ## The opening defeats
 
@@ -98,7 +98,7 @@ Urzha offered maps of the Nine-Drum ration road and the position of the survivin
 
 ## Mother Moon's bargain
 
-The four chiefs lacked the force to attack Gharuk's main companies before another hall and its people were consumed. They climbed to a lunar thin place above the closed road, where lesser courtiers of [[01 Canon Reference/Cosmology/30 Menhir/10 Second Circle/Mother Moon.md|Mother Moon]] answered them. Like the dangerous courts remembered in later changeling traditions, the Pale Household treated names, blood, substitution and the exact scope of a spoken request as binding facts.
+The four chiefs lacked the force to attack Gharuk's main companies before another hall and its people were consumed. They climbed to a lunar thin place above the closed road, where lesser courtiers of Mother Moon answered them. Like the dangerous courts remembered in later changeling traditions, the Pale Household treated names, blood, substitution and the exact scope of a spoken request as binding facts.
 
 The chiefs asked to put the beasts of their four standards into their bodies and to put the beasts' fury into every spear sworn beneath them. The courtiers divided the request into two gifts. Savar, Torvek, Brennar and Eldran were the named petitioners, so each received one monstrous hybrid form. The form attached to the chief's office and to the paternal descent by which all four halls then reckoned eligibility. It did not pass through every marriage. The broader host had been named as the spears beneath them, so the lesser rage entered every man and household formally sworn to one of the four standards. Later intermarriage spread that bodily inheritance through the wider Ättar population.
 

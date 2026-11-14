@@ -28,7 +28,7 @@ A child taken in a border raid grew to adulthood chained in a convoy that moved 
 
 The escapees made him their commander. He led raids on slave pens and killed guards who surrendered after recognising former masters among them. When followers began chaining captured slavers for public display, he broke those chains too and refused the crown they had forged from the iron. Freedom, he said, could be defended but not worn as somebody else's office.
 
-After his death, devotees gathered pieces of the original convoy chain. Some used open links as promises to free captives. Others believed closing the chain around a new bearer would return the Chain-Bearer's power. Prison roads tell of something worse: wherever prisoners are passed from keeper to keeper toward a massacre, a figure with an engine glowing in its chest rises out of the iron, and only breaking the chain of hands before the killing lays it down again. They raided graves, murdered rival keepers and forged convincing pieces.
+After his death, devotees gathered pieces of the original convoy chain. Some used open links as promises to free captives. Others believed closing the chain around a new bearer would return the Chain-Bearer's power, and they raided graves, murdered rival keepers and forged convincing pieces. Prison roads tell of something worse: wherever prisoners are passed from keeper to keeper toward a massacre, a figure with an engine glowing in its chest rises out of the iron, and only breaking the chain of hands before the killing lays it down again.
 
 The final joining link had been carried away by a freed family who wanted no hero cult. Their youngest child dropped it into an unknown river, or used it to mend a cooking pot, or kept it. The recurrence cult still hunts for a piece that may no longer exist.
 
@@ -48,10 +48,8 @@ Broken-chain pendants are forged with an open gap. Closing the gap is taboo outs
 
 ## Read onward
 
-- [[Towns and Wars of the Long Frontier]]
+- [[The Long Frontier and the First Unsealing]]
 - [[Historical Atlas of the Velians]]
 - [[Saints and Sinners of the Chronicles]]
-
-- [[The Long Frontier and the First Unsealing]]
-- [[Myths and Legendary Histories MOC]]
-- [[World Historical Atlas MOC]]
+- [[Legendary Histories]]
+- [[The Ages of the World]]

@@ -59,6 +59,12 @@ Some texts acquired significance through the uses made of them. A safe-conduct c
 - [[03 Stories & In-World Texts/In-World Texts/The Bir Qassim Safe-Conduct — Annotated.md|The Bir Qassim Safe-Conduct]] — the instrument under which Husan ibn Raiq and his household travelled to arbitration, with rival traditions of annotation.
 - [[03 Stories & In-World Texts/In-World Texts/The Mirror for Sovereigns — Selected Maxims.md|The Mirror for Sovereigns]] — Nicanor Vetti's maxims on courts, churches, money and rule.
 
+## Travellers' guides
+
+Guides written for merchants and pilgrims describe the present world as their authors found it, carrying the debts, prejudices and rumours of their trade along with its roads and prices.
+
+- [[03 Stories & In-World Texts/In-World Texts/The Traveller's Reckoning of the Known World.md|The Traveller's Reckoning of the Known World]] — a Sermoran chartmaker's guide to the realms of 1360 AR, corrected in the margins by a Thalmyric reader.
+
 ## Papers read in play
 
 These document collections belong to particular Grenzburg companion campaigns. They are presented in full so that the player encounters the writer's words before another character interprets them.

@@ -53,7 +53,7 @@ In 1333 Castaran surveyors staked wells across Ash pasture for an inland road, w
 
 ## Navigation
 
-- [[Chronology of the Known World (AR Dating)]]
+- [[The Ages of the World]]
 - [[Four Hordes of the Partition]]
 - [[Tarkhan and the Wider World]]
 - [[Qarayel and the Black Wind]]
@@ -74,5 +74,3 @@ Qarayel's 1261 unification and the Black Wind years changed the wider world's co
 - [[Vathra and the Great Unyoking]]
 - [[The Tarkhan before the Horse Hordes]]
 - [[The Ahdari before the Covenant]]
-- [[World Historical Atlas MOC]]
-- [[Peoples in the World Historical Atlas]]

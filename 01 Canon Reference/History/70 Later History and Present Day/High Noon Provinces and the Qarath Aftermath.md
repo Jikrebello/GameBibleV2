@@ -17,9 +17,9 @@ This article follows the provinces and realms of the High Noon from 1104, when t
 
 ## A world without one crown
 
-The lands called Eclessia were governed by competing kings, dukes, cantons and a Primarch, with the empire's crown locked in a vault at Aurelium. Thalmyria kept a different imperial claim and a crown that was worn, though its wearers were chosen in stranger ways than any law allowed. Sestaran houses lent to both and to the Covenant. A period remembered as a high noon did not mean that everyone lived under one peaceful authority.
+The lands called Eclessia were governed by competing kings, dukes, cantons and a Primarch, with the empire's crown locked in a vault at Aurelium. Thalmyria kept a different imperial claim and a crown that was worn, though in 1167 its wearer was chosen by a widow's lamp and an army's acclamation, which no law allowed. Sestaran houses lent to both and to the Covenant. The noon was bright and crowded, and few stood in all of its light.
 
-Provincial strength was visible in repaired walls, fairs, workshops and new settlement. It was also visible in the ability of officials to compel labour. The same ruler who defended a farm against raiders could take its sons for road-work or its grain for the army, and the endurance of the frontier made such burdens easy to present as permanent necessities.
+Its strength showed in repaired walls, new fairs and terraces cut back out of the thorn. So did its cost. The ruler who defended a farm against raiders took its sons for road-work and its grain for the garrison, and every year the frontier held made the burden look more permanent.
 
 ## Life in a district
 
@@ -35,7 +35,7 @@ The district families saved the frontier in the War of the Southern Deeds (1131â
 
 **Vlastrava**, the fortress and veteran kingdom of the northern frontier, supplied the district captains and the hardest soldiers. In the civil wars its king, Stanimir, refused to murder his enemy's surrendered children and his own brother killed the mediator who had offered them. Vlastrava's word became the one men trusted, and it backed Nikandros.
 
-**Kedrava** kept the mountain refuges, militia valleys and the monasteries that had sheltered the rebellion two centuries before. Its monasteries kept a rule from the occupation years that forbade drinking from any well sworn under a Covenant instrument. Their contingents obeyed it at Qarath's Well and came home.
+**Kedrava** kept the mountain refuges, militia valleys and the monasteries that had sheltered the rebellion after the Fall. Its monasteries kept a rule from the occupation years that forbade drinking from any well sworn under a Covenant instrument. Their contingents obeyed it at Qarath's Well and came home.
 
 **Saronika** carried district grain and imperial soldiers in its ships, and its admiralty borrowed from Sestaran houses to build them. In the civil wars it fought for the side that would pay its debts.
 
@@ -43,7 +43,7 @@ The **Velian belt** beyond the frontier was the Covenant's southern march: Velia
 
 ## Work beneath prosperity
 
-Aversian extraction supported households far from the mines. Ore became tools, weapons and credit, and stoppages threatened families who never entered a shaft. Shield-House officials used that dependence against strikers. At the high mine remembered through the Three Knocks they ignored the warnings of the mine's compact, sent prisoners and strikers into the deadliest workings and executed the interpreters who accused them. The compact belonged to that mine's seam and its court. Its collapse left bereaved surface families as well as dead prisoners, and their descendants went on needing ore, and went on working the same mountains, with the memory of what their forebears had allowed.
+Aversian ore became ploughshares, lance-heads and credit in towns that had never seen a shaft, and a stoppage in the high mines meant hunger in the valleys below. Shield-House officials used that hunger against strikers. At the mine remembered through the Three Knocks they cut the pale rib for quota, sent prisoners and strikers into the deadliest workings and executed the interpreters who accused them. The compact belonged to that one mine and the grey folk of its seam. The surface families who buried its dead went on needing ore, and went on sending their sons up the same mountain.
 
 In the Heldenberg silver mines the slaves won their own valleys in 1116â€“1124 and swore the Oath of the Shafts. Korrheim's canton towns were mining camps first: shaft-heads, smelting sheds, wash-floors on the streams, and assemblies held at the pithead where every free miner had a voice. They read their dead each year the morning after their liberation feast.
 
@@ -53,7 +53,7 @@ In Sermora the harbour chain was the city's wall. It was closed against famine s
 
 **Aurelia** passed from Aldwin's line to the Primarchs when the last of that line died in 1166. Its estates were taken into the same trust as the Crown of Embers, and its bishops became its magistrates.
 
-**Virelia** had elected its kings in the Council of Sabres since 1103, when the Radomir heirs died in the Two Winters. Its villages kept icon-corners and standing vigils under western bishops, its hearth-houses had been purged, and at every election Veridun's envoys offered to send the Virelian Lamp home if the eastern candidate won.
+**Virelia** had elected its kings in the Council of Sabres since 1103, when the Radomir heirs died in the Two Winters. Its villages kept icon-corners and standing vigils under Sanctum bishops, its hearth-houses had been purged, and at every election Veridun's envoys offered to send the Virelian Lamp home if the candidate of the old Vesari east won.
 
 **Caldria** was a duchy of fortress-orders and frontier captains facing the Thalmyric watershed. In 1217, while Thalmyria tore itself apart after Qarath, its captains crossed the watershed and took three rite-changing valleys.
 
@@ -67,18 +67,16 @@ In 1212 the Covenant offered the district families on the old Southern House lan
 
 Suhrab's courtesy to his captive and the exaction of the ransom were separate acts. Markellos was entertained like a guest of honour; the districts were taken all the same. Blinding the returned emperor was a third act, done to void the ransom by a borrowed doctrine, and it did not defend a single family who had already borne the defeat. Covenant garrisons occupied the transferred districts in 1215.
 
-Households in those districts faced competing claims from old officials, new Covenant owners and Thalmyric factions seeking money and men for civil war. Fleeing a transferred district could mean losing a farm; remaining could be called collaboration. Families who had registered in 1212 kept their land under Covenant deed; families who had refused lost it or fled into the shrunken empire. Repair workers kept walls and channels functioning while chronicles concentrated on who wore the crown. In one lesser city a poor wall-worker stopped a pumping order that would have burst the cisterns under a crowded district; officials took the credit and her wages, and engineers still cut her notch before a pressure test.
+In the transferred districts the old imperial tax-collector, the new Covenant owner and recruiters for three Thalmyric factions could knock on the same door in one season. A family that fled lost its farm; a family that stayed was called collaborator. Those who had registered in 1212 kept their land under Covenant deed; those who had refused lost it or walked south into the shrunken empire. Repair crews kept the walls and channels working while the chronicles argued about the crown. In one lesser city a poor wall-worker stopped a pumping order that would have burst the cisterns under a crowded district; officials took the credit and her wages, and engineers still cut her notch before a pressure test.
 
 Civil wars lasted until 1225. Nikandros stabilized a diminished inheritance and sought aid from Eclessia. In 1227 the Sanctum named its price: the Great Lamp of Veridun, tried by the Sanctum's relic court, and with it Veridun's submission in the Kindling dispute. His refusal and partial recovery left the unequal provincial losses where they lay.
 
 ## Before the Grey Sweat
 
-By 1231 some districts had resumed trade while others remained depopulated, disputed or burdened with war debt. Three watershed valleys flew Caldrian banners. Eclessia's realms were crowded, with land-hungry younger sons and rising rents. These differences shaped what households could do when disease arrived.
-
-The High Noon left a varied inheritance: fortresses, coercive settlement, door-lamps, mine customs, displaced families, competing liberation feasts and remembered betrayals. The Grey Sweat struck that particular world.
+By 1231 some districts had resumed trade while others stood empty, disputed or pledged against the civil war's debts. Three watershed valleys flew Caldrian banners. Eclessia's realms were crowded, their younger sons hungry for land and their rents rising. When the Grey Sweat came it found Thalmyric villagers who would sing over their own dead and Eclessian villagers who waited for a priest, and that difference decided which villages were haunted.
 
 - [[High Noon and the Qarath Disaster]]
-- [[Named Figures of the Known World]]
+- [[The Grey Sweat]]
 - [[Historical Atlas of Thalmyria]]
 - [[Historical Atlas of Eclessia]]
 - [[Historical Spine of the Sestaran Concord]]

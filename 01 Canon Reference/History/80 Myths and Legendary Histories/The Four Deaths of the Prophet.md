@@ -66,6 +66,6 @@ The rest they leave argued. Some traditions call the death a punishment for refu
 - [[Age of Exodus]]
 - [[G-56 - The Empty Seat Facing Outward|The Empty Seat Facing Outward]]
 - [[G-03 - The Last Cart|The Last Cart]]
-- [[The Glass Sojourn]]
+- [[Great Glass Desert]]
 - [[Age of Scattering]]
-- [[Myths and Legendary Histories MOC]]
+- [[Legendary Histories]]

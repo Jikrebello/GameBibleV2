@@ -35,7 +35,6 @@ The failed Second Crusade and later imperial reconquests made Velians objects of
 - [[G-32 - The Letters That Must Not Be Opened|The Letters That Must Not Be Opened]]
 - [[G-33 - The Tools That Remember a Duty|The Tools That Remember a Duty]]
 - [[G-44 - Three Roads for One Cry|Three Roads for One Cry]]
-- [[World Historical Atlas MOC]]
-- [[Peoples in the World Historical Atlas]]
+- [[The Ages of the World]]
 - [[The Long Frontier and the First Unsealing]]
 - [[The Velian Church]]

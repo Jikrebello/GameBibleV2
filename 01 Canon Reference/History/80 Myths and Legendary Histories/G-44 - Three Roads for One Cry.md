@@ -50,9 +50,7 @@ Three runners exchange red, grey and white cords at roadside fires. None knows t
 
 ## Read onward
 
-- [[Towns and Wars of the Long Frontier]]
-- [[Historical Atlas of the Velians]]
-
 - [[The Long Frontier and the First Unsealing]]
-- [[Myths and Legendary Histories MOC]]
-- [[World Historical Atlas MOC]]
+- [[Historical Atlas of the Velians]]
+- [[Legendary Histories]]
+- [[The Ages of the World]]

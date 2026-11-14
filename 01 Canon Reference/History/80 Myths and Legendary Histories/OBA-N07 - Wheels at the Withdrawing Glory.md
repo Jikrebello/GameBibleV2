@@ -32,15 +32,15 @@ The commission ended when the protection was withdrawn and the surviving truthfu
 
 ## What people remember
 
-abandoned star machine, high-order angelic withdrawal, sabotage by expelled clerks, divine approval of the besiegers, or several sieges compressed into one civic lament.
+Abandoned star machine, high-order angelic withdrawal, sabotage by expelled clerks, divine approval of the besiegers, or several sieges compressed into one civic lament.
 
 ## What remains
 
-unrelated cities still use an ordered public unhousing rubric before converting a sanctuary gate to military or commercial use. Its steps differ by city, and most users do not know the disputed origin.
+Unrelated cities still use an ordered public unhousing rubric before converting a sanctuary gate to military or commercial use. Its steps differ by city, and most users do not know the disputed origin.
 
 ## What remains unknown
 
-city, households, number killed, choir’s received title, covenant’s original consecration, fate of the carried register and whether any current gate descends institutionally from it.
+City, households, number killed, choir’s received title, covenant’s original consecration, fate of the carried register and whether any current gate descends institutionally from it.
 
 - [[Heavenly Campaigns and the Human Dead]]
 - [[World Historical Atlas MOC]]

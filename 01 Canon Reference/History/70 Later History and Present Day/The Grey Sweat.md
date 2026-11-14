@@ -4,7 +4,7 @@ status: canon
 canon_level: core
 visibility: public
 era: ["1232-1247 AR"]
-region: ["Eclessia"]
+region: ["Eclessia", "Known World"]
 culture: ["Eclessian"]
 related_factions: ["Eclessian Church", "Weeping Courts", "The Apathetics"]
 appears_in: []
@@ -79,8 +79,8 @@ Eclessian families still speak of events as before or after the Sweat. Wage labo
 
 ## Navigation
 
-- [[Timeline MOC]]
-- [[Chronology of the Known World (AR Dating)]]
+- [[High Noon and the Qarath Disaster]]
+- [[The Age of Held Proofs]]
 - [[01 Canon Reference/Peoples and Cultures/Eclessia/30 Society and Daily Life/Life Paths/Lives of Eclessia — The Common Spine.md|Lives of Eclessia — The Common Spine]]
 - [[The Korrheim Accord]]
 - [[Freeflame Reformation]]

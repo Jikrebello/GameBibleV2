@@ -62,10 +62,7 @@ A damaged wheel-shaped loaf is still broken in some departure rites. The custom 
 
 ## Read onward
 
-- [[The Glass Sojourn]]
 - [[Great Glass Desert]]
-- [[The Great Unbinding]]
-
 - [[Age of Exodus]]
-- [[Myths and Legendary Histories MOC]]
-- [[World Historical Atlas MOC]]
+- [[Legendary Histories]]
+- [[The Ages of the World]]

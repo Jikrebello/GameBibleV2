@@ -40,7 +40,7 @@ The adventure is a rescue whose apparent victory changes meaning at the moment a
 
 ## How tellers differ
 
-Court ballads praise the compact's saved ships. Church Lives claim the fisher acted under a Saint's guidance. Coast families disagree whether her daughter ever returned and refuse to let either claim erase the forced service.
+Court ballads praise the compact's saved ships. Church Lives claim the fisher acted under a saint's guidance. Coast families disagree whether her daughter ever returned and refuse to let either claim erase the forced service.
 
 ## What remains
 
@@ -50,8 +50,7 @@ Winter boats carry one deliberately empty rowing place. Nobody may be named as i
 
 - [[Historical Atlas of Atheria]]
 - [[Historical Spine of the Jirahar]]
-- [[Menhir Courts through the Ages]]
-
+- [[The Mythology of The Menhir]]
 - [[The Conversion of the Empire]]
-- [[Myths and Legendary Histories MOC]]
-- [[World Historical Atlas MOC]]
+- [[Legendary Histories]]
+- [[The Ages of the World]]

@@ -48,9 +48,7 @@ Before a retreat, one cart wheel is rolled backward around the camp while depend
 
 ## Read onward
 
-- [[Towns and Wars of the Long Frontier]]
-- [[Historical Atlas of the Velians]]
-
 - [[The Long Frontier and the First Unsealing]]
-- [[Myths and Legendary Histories MOC]]
-- [[World Historical Atlas MOC]]
+- [[Historical Atlas of the Velians]]
+- [[Legendary Histories]]
+- [[The Ages of the World]]

@@ -28,7 +28,7 @@ Local kings derived authority from the protection of roads and the distribution 
 
 ## Relations with Qarzeth and Sarqen
 
-Qarzeth treated Hadrath as a source of soldiers, pack animals and control over inland traffic. Hadrathi houses entered its armies and trade, yet resented tribute and the appointment of coastal favourites. The Late Council's child collections sharpened those divisions. Some border officials carried out demands; others warned households or diverted collectors towards rival districts.
+Qarzeth treated Hadrath as a source of soldiers, pack animals and control over inland traffic. Hadrathi houses entered its armies and trade, yet resented tribute and the appointment of coastal favourites. The Late Council's child collections sharpened those divisions. Some border officials carried out demands; others warned households or diverted collectors towards rival districts. When the carriers of Belqara, Esharat, Hazreth and Sarqen stopped carrying grain and children to the capital around 536 BR, King **Harzun of Hadrath** helped Meleq Ordan break their Rope Camp and gave him his daughter Sapha in marriage. The reprisals that followed drove the carrying towns to Caleran, and the spared towns did not forget whose spears had broken the camp.
 
 During the last Gateway War, Hadrathi factions chose different sides. The destruction of Qarzeth removed a dominant creditor and employer while exposing inland roads to raiding and confiscation. Sarqen's rising kings secured alliances through marriage and military aid. Hadrathi rulers kept their local titles and customs within these alliances.
 

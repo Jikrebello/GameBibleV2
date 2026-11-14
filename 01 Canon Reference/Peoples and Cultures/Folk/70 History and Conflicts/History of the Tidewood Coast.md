@@ -105,7 +105,7 @@ A rival who had previously denied Edris's household shelter was among those resc
 
 ## Timber wealth and the Beam War, 1052–1291 AR
 
-Naval rebuilding and expanding Sestaran markets increased demand for long, straight ship timbers. A household could earn more from a few suitable trees than from a season's fishing. Hauling tracks reached beyond groves used for local boats, iron tools became easier to obtain, and some forest families bought better livestock and roofs. Others lost access to water and gathering grounds without receiving a share of the purchases.
+Rebuilt navies wanted long, straight ship timbers, and from the 1260s, when the Black Wind's grass-toll pushed Sestaran trade onto the sea, the Sestaran yards wanted more of them. A household could earn more from a few suitable trees than from a season's fishing. Hauling tracks reached beyond groves used for local boats, iron tools became easier to obtain, and some forest families bought better livestock and roofs. Others lost access to water and gathering grounds without receiving a share of the purchases.
 
 The [[The Beam War|Beam War of 1287–1291]] began when Reedwake sellers and a Sestaran purchasing house enlarged a hauling cut into a side channel above Brackenmouth. Timber rafts damaged fish traps and diverted water used by drying yards. Sellers continued delivery under armed protection. Fishers cut retaining ropes, releasing logs that killed workers below.
 
@@ -117,9 +117,9 @@ The purchasing house could no longer move timber cheaply enough to sustain its a
 
 The Three Beaches continue to trade and provide winter volunteers. **Mera Brinecoat**, a Reedwake Speaker, seeks orders that will provision the estuary while leaving the old disputed cutting ground closed. **Haldren of the Tarred Hand** requires timber for promised hulls and resents bearing the cost of Brackenmouth's quarrels. Pilot and War-Keeper **Yarra Keld** wants winter shelters repaired before committing further escorts.
 
-Chapel-Folk and old-rite families share landings, work and family connections. Others avoid discussion with seers. Restored storehouses stand beside sites abandoned by owners who never returned. Poor crews accept dangerous cargoes for needed wages, while wealthy households preserve accounts of ancestors who prospered by refusing unsuitable voyages.
+Chapel-Folk and old-rite families share landings, nets and grandchildren, though some of the baptised will not sit at a seer's fire. Restored storehouses stand beside sheds whose owners never came back. Poor crews take dangerous cargoes for wages, while wealthy households tell of ancestors who prospered by refusing bad voyages.
 
-These circumstances also sustain ordinary exchanges between generations. Repaired boats pass to younger households; children learn to read weather from adults with different loyalties; the first spring fish brings neighbours together. At a launch, the teasing associated with the boat too fine for water accompanies another hull entering the work on which coastal life depends.
+Repaired boats pass to younger households, children learn the weather from adults of different loyalties, and the first spring fish brings the neighbours down to the shingle. At every launch someone shouts the old joke about the boat too fine for water, and another hull goes to work.
 
 ## Read onward
 
@@ -128,4 +128,4 @@ These circumstances also sustain ordinary exchanges between generations. Repaire
 - [[The Court of Salt and Teeth]]
 - [[Historical Spine of the Folk]]
 - [[Historical Spine of the Ättar]]
-- [[World Historical Atlas MOC]]
+- [[The Ages of the World]]

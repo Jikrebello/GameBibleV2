@@ -4,7 +4,7 @@ status: canon
 canon_level: core
 visibility: public
 era:
-  - imperial
+  - 350 BR–905 AR
 region:
   - Atheria
 culture:
@@ -55,7 +55,7 @@ A cook could become a commander without the kitchen children becoming free; a ho
 
 ## Imperial religion and its victims
 
-The Star Pantheon provided civic ritual and a language of cosmic hierarchy. Imperial cults also standardized the dead ruler's face. Some ceremonies were theatre and some concealed fraud. Temple accounts treated answering portraits as proof that the stars preserved the imperial office; some provincial traditions avoided naming a deceased ruler before his image.
+The Star Pantheon provided civic ritual and a language of cosmic hierarchy. Imperial cults also standardised the dead ruler's face. Some ceremonies were theatre and some concealed fraud. Temple accounts treated answering portraits as proof that the stars preserved the imperial office; some provincial traditions avoided naming a deceased ruler before his image.
 
 In 247 BR the accession portrait at Caleran answered in the Emperor's voice while no emperor lived, and a magistrate governed through it until soldiers carrying it before them killed hungry demonstrators in its sight. Samor Veloran covered it with a soldier's cloak, and it stayed veiled for the rest of the age. Its copies in governors' courts, town halls and army standards did not. Eastern citizens swore before them, and in famine-struck Raveth debtors who swore before the image gave up their farms with a meekness their neighbours never showed. [[The Year of Four Eagles]] and [[The Atherian Empire – Age of Glory#The Emperor after the Emperor|the Emperor after the Emperor]] follow the portrait and its copies.
 
@@ -83,7 +83,7 @@ Modern Thalmyrics and Eclessians inherited different regions, imperial layers, c
 - [[The Imperial Army and the Frontiers]]
 - [[Food, Trade and Enslavement in Imperial Atheria]]
 - [[Schools, Arts and Imperial Magic]]
-- [[Star Religion and the Imperial Cult]]
+- [[Overview of the Astratheon Religion]]
 - [[The Companions Who Entered by the Low Door - Imperial History]]
 - [[The Rise of the Atherian Empire Overview]]
 - [[Historical Spine of the Known World]]
@@ -101,5 +101,3 @@ Modern Thalmyrics and Eclessians inherited different regions, imperial layers, c
 ## Local tales and surviving memories
 
 - [[G-09 - The Companions Who Entered by the Low Door|The Companions Who Entered by the Low Door]]
-
-Smaller local histories and restored reserve leads: [[Additional Mortal Lives and Frontier Traditions]].

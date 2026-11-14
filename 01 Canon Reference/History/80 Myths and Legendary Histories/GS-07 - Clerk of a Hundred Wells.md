@@ -33,7 +33,7 @@ Confiscation, compelled labour, household dependency, armed seizure, execution u
 
 ## The surviving inheritance
 
-a family of water codes, expiration clauses, a clerkly feast and several governments invoking only the emergency powers.
+A family of water codes, expiration clauses, a clerkly feast and several governments invoking only the emergency powers.
 
 Courts still ask whether a coercive order contains “the Clerk's ending,” meaning a date after which it must justify itself again.
 

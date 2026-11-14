@@ -38,8 +38,6 @@ The iron enemy-gate key later developed a narrow procedural response connected t
 - **Mountain porter songs** remember that the saint came to the enemy gate because prisoners, enemies, and children were there.
 - **Relic courts** accept that both military cults preserve authentic objects from the siege but dispute whether either bodily relic belongs to the manifested saint.
 
-
-
 ## Discovery Interface
 
 - **Knowledge state:** `suppressed`, `misclassified`, and still `unknown` in combination.

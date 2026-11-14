@@ -16,7 +16,7 @@ tags: [world-historical-atlas, ancient-world, folk, attar, grobi]
 # Historical Atlas of the Southern Cold World
 
 
-The southern cold world extends from the outer coasts and islands through the western river hills, middle forests and marshes to the eastern rivers and the Gale-Crown approaches. Beyond the inhabited ranges lie the polar wastes and the ruins of [[Nhaldur and the First Rewriting|Nhaldur]], a Giant penal crownland whose collapse helped scatter people and violence across the region. Farther south means colder. Winter weather, short growing seasons, navigable rivers, sheltering valleys and the movement of Grobi packs gave each frontier its practical form.
+The southern cold world extends from the outer coasts and islands through the western river hills, middle forests and marshes to the eastern rivers and the Gale-Crown approaches. Beyond the inhabited ranges lie the polar wastes and the ruins of Nhaldur, a Giant penal crownland whose collapse helped scatter people and violence across the region. Farther south means colder. Winter weather, short growing seasons, navigable rivers, sheltering valleys and the movement of Grobi packs gave each frontier its practical form.
 
 No state governed this whole country in antiquity. Its inhabitants built farms, halls, ports, earthworks, gords, mines, market landings and roads of timber laid across wet ground. Most of those monuments were repaired repeatedly rather than cut once in enduring stone. Fire, rot, flooded soil, Grobi war and later Atherian rebuilding left an incomplete material record which imperial writers mistook for an absence of civilisation.
 
@@ -28,7 +28,7 @@ The Ättar developed from closely related far-cold populations whose great halls
 
 ## Nhaldur and the chain country, before c. 2300 BR
 
-Nhaldur was a lesser Giant crownland built around six principal ring-fortresses and a much larger chain of mine prisons, labour camps, geothermal estates, road towers, hostage houses and harbour compounds. It stood below the [[Lesser Crowns of the Giant Age|Five Imperial Horizons]]. The **Council of Keys** administered it for major imperial courts and numerous lesser Giant crowns, especially the southern cold-country states which could move prisoners to Nhaldur without crossing the whole world.
+Nhaldur was a lesser Giant crownland built around six principal ring-fortresses and a much larger chain of mine prisons, labour camps, geothermal estates, road towers, hostage houses and harbour compounds. It stood below the [[Age of Chains|Five Imperial Horizons]]. The **Council of Keys** administered it for major imperial courts and numerous lesser Giant crowns, especially the southern cold-country states which could move prisoners to Nhaldur without crossing the whole world.
 
 A rotating Crown Gaoler controlled the central stores and the warded road, while five contributing Giant houses maintained their own compounds, workshops and armed clients. Those houses were themselves exile dynasties. Their members had received Nhaldur as a sentence, a hostage obligation or an alternative to execution, and most could not lawfully return to the courts they served. They were gaolers and prisoners at the same time, with greater rooms, weapons and authority than the people locked beneath them.
 
@@ -44,7 +44,7 @@ The Great Unbinding severed Nhaldur's dependable contact with its northern patro
 
 The human revolt had several centres. **Vaska Ren**, a heatworks engineer at Suldren, organised a fuel stoppage while preserving the pipes serving nursery and infirmary rooms. **Ilyen Marr**, a registrar at Kharvos, copied the captive rolls and falsified transfer orders. **Sorna Vale**, an Avarn pilot, carried families away on store barges after the sea-going wardens reserved the sound vessels for Giant houses. Their cooperation was practical. They disagreed over whether captive Giant rebels could be trusted, whether food should be shared with surrendered guards and which fortresses had to be abandoned.
 
-Around 2280 BR, Crown Gaoler **Urdazar Vorzhal** concentrated human captives inside Kharvos. By the count of the captive register which Ilyen Marr copied, they numbered 2,014: 611 mine prisoners and their dependants, 487 soldiers punished for mutiny or desertion, 532 heatworkers and children seized from Suldren, and 384 hostages from older southern communities. **Nashara Nemek**, master of the bodily workshops, intended to use deprivation, forced combat, Giant blood preparations and resonant commands to produce soldiers who could endure cold and obey through hunger. The captives were starved while fighting outside the ring cut the water galleries and prevented their planned transfer.
+Around 2284 BR, Crown Gaoler **Urdazar Vorzhal** concentrated human captives inside Kharvos. By the count of the captive register which Ilyen Marr copied, they numbered 2,014: 611 mine prisoners and their dependants, 487 soldiers punished for mutiny or desertion, 532 heatworkers and children seized from Suldren, and 384 hostages from older southern communities. **Nashara Nemek**, master of the bodily workshops, intended to use deprivation, forced combat, Giant blood preparations and resonant commands to produce soldiers who could endure cold and obey through hunger. The captives were starved while fighting outside the ring cut the water galleries and prevented their planned transfer.
 
 A Red Reckoner attached to the Xolotlan prison compounds supplied Nashara with altered casualty tables and a sequence of punishments presented as imperial war science. The Reckoner directed her to sort bodies by appetite, feed victory with defeated flesh and reserve the strongest for a final opening of the grain vault. Nashara accepted and refined the regimen because it promised her an army. Urdazar treated it as one more coercive method and ignored its source.
 
@@ -74,7 +74,7 @@ The middle forests contained Hartheni farm districts, Ossen marsh communities an
 
 Along the eastern rivers, Odrani villages cleared fields, kept bees, fished, made iron and built timber-and-earth gords at portages and market landings. Kreseni upland communities controlled passes and mining valleys. Vezhari cold-shore settlements joined river traders to far-cold boats. Their speech and material customs overlapped with one another and with Vardeni communities beyond the north-eastern approaches. This reflected old southern contact and continued intermarriage.
 
-Veyrun's command language survived among eastern work crews. Its words first opened vents, steadied bridges and sent spoken messages along tuned chambers and horn relays when wind made ordinary speech impossible. Odrani and Kreseni teachers turned that inheritance into **war-voice**, a learned school of resonance later called the [[The Deep Voice|Deep Voice]]. Access followed apprenticeship rather than ancestry.
+Veyrun's command language survived among eastern work crews. Its words first opened vents, steadied bridges and sent spoken messages along tuned chambers and horn relays when wind made ordinary speech impossible. Odrani and Kreseni teachers turned that inheritance into **war-voice**, a learned school of resonance later called the Deep Voice. Access followed apprenticeship rather than ancestry.
 
 In the far-cold coast and protected valleys, winter stores concentrated several households around larger halls. Boat ownership, iron work and permanent Grobi watches gave successful chiefs more dependable authority than most inland speakers possessed. Lion, Ox, Bear and Wolf appeared first as broad standards and regional affiliations. They had not yet become hereditary supernatural kindreds.
 
@@ -108,7 +108,7 @@ Western Belathi centres grew rich through cattle, salt, ore and river tolls. Bra
 
 The Hartheni middle country developed oath assemblies, compensation schedules and retinues whose service crossed ethnic boundaries. Captured weapons were deliberately broken and sunk in **Ossen Fen** after the War of the Three Crossings. The deposit commemorated a real victory and the post-battle killing of surrendered fighters. Later Atherian writers turned one community's rite into a claim about all forest peoples.
 
-Odrani gords collected tolls and sheltered craft specialists. Kreseni pass holders sold iron, stone and convoy service. During the [[The Deep Voice#The Seven Gords|War of Seven Gords]], far callers sent spoken orders along known wind paths, gate strokes released pressure into tested barriers and earth wakes brought down slopes whose fractures had been mapped beforehand. The art reached its heroic height and acquired both prestige and patrons. The **Dramovar Descent** of 1018 BR later buried part of an allied army and a valley settlement when a combined working entered unfamiliar rock. Survivor Sarvek the Listener withdrew to the highest Gale-Crown slopes and founded the **Quiet Measure**, a small order of mountain druids who prayed to [[01 Canon Reference/Cosmology/30 Menhir/20 Third Circle/Zephyraxis|Zephyraxis]] and treated silence, wind and close knowledge of the mountain as religious disciplines. Most Deep-Voiced schools remained martial or practical and regarded Sarvek's order as an austere fringe.
+Odrani gords collected tolls and sheltered craft specialists. Kreseni pass holders sold iron, stone and convoy service. During the War of Seven Gords, far callers sent spoken orders along known wind paths, gate strokes released pressure into tested barriers and earth wakes brought down slopes whose fractures had been mapped beforehand. The art reached its heroic height and acquired both prestige and patrons. The **Dramovar Descent** of 1018 BR later buried part of an allied army and a valley settlement when a combined working entered unfamiliar rock. Survivor Sarvek the Listener withdrew to the highest Gale-Crown slopes and founded the **Quiet Measure**, a small order of mountain druids who prayed to Zephyraxis and treated silence, wind and close knowledge of the mountain as religious disciplines. Most Deep-Voiced schools remained martial or practical and regarded Sarvek's order as an austere fringe.
 
 Maritime and river exchange survived the wider Breaking of the Bronze Roads unevenly. Long-distance bronze became difficult to replace, courts lost imported grain and armed carriers kept cargo when payment failed. The south had smelted its own iron since the reassembly, because little salvaged Giant metal reached the cold country, and southern smiths heard with some satisfaction the northern tales of bronze carried off along the old roads by its dead owners. Local iron, food production, boats and shorter routes allowed some southern centres to grow. Others sold dependants, raided neighbours or abandoned specialised workshops.
 
@@ -162,7 +162,7 @@ The Deep Voice operated through resonance between breath, understood words, bodi
 | Date | Development |
 |---|---|
 | before c. 2300 BR | Nhaldur's six rings govern scores of lesser prisons used by Imperial Horizons and southern Giant crowns while older communities retain independent lives |
-| c. 2292–2264 BR | War of Open Keys; human revolts; a Red Reckoner prepares Kharvos; the First Rewriting, c. 2280; crownland collapses fortress by fortress |
+| c. 2292–2264 BR | War of Open Keys; human revolts; a Red Reckoner prepares Kharvos; the First Rewriting, c. 2284; crownland collapses fortress by fortress |
 | c. 2264–2050 BR | human, Giant and giant-blooded refugees spread through coasts, forests and uplands; first Grobi breeding hearths form; surviving Giant enclaves fall unevenly |
 | c. 2050–1900 BR | proto-Atherian war-settlers encounter occupied southern country through conquest, alliance, captivity and mixed settlement |
 | c. 1900–1650 BR | Belathi, Hartheni, Odrani, Kreseni, annual All-Things and far-cold hall institutions become durable; the Withheld Season in the Tidewood–Gale-Crown watershed; the hall that faced the Grobi |
@@ -175,9 +175,7 @@ The Deep Voice operated through resonance between breath, understood words, bodi
 
 ## Further reading
 
-- [[Nhaldur and the First Rewriting]]
 - [[The Folk before Atheria]]
 - [[01 Canon Reference/Peoples and Cultures/Ättar/70 History and Conflicts/The Ättar before the Great Keel-Taking.md|The Ättar before the Great Keel-Taking]]
-- [[The Deep Voice]]
 - [[Grobi History and Pack Life]]
 - [[Southern Cold Belt and Grobi Frontier]]

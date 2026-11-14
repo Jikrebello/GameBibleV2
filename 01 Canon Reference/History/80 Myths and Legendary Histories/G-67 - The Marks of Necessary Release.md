@@ -49,12 +49,9 @@ Release cuts appear on harness, burial cloth and barn lintels before midwinter s
 ## Read onward
 
 - [[History of the Tidewood Coast]] — later coastal households inherit the release cuts; the original catastrophe remains in the watershed.
-
 - [[Early Folk Clan Worlds]]
 - [[Southern Cold Belt and Grobi Frontier]]
-- [[River Leagues and Sea-Kings of the Early World]]
-- [[Menhir Courts through the Ages]]
-
+- [[The Mythology of The Menhir]]
 - [[Age of Hearths and First Kings]]
-- [[Myths and Legendary Histories MOC]]
-- [[World Historical Atlas MOC]]
+- [[Legendary Histories]]
+- [[The Ages of the World]]

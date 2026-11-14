@@ -99,7 +99,7 @@ Ozhur answered by destroying western landing fields and executing their crews. A
 
 **Seyra Vatan** belonged to a privileged Kel-Orun weaving house. Her father had died repairing a war-platform during lightning. Seyra knew the complete knot vocabulary and trained captive workers whom the court treated as replaceable hands.
 
-**Dorun of Tal-Kesh** managed Urzavad's ground routes. The court had divided his children between Ozhur's and Varakesh's households as security for his obedience. He knew when anchors received instructions and where a false confirmation could delay a city.
+**Dorun of Tal-Kesh**, whom the mine and cistern crews he brought into the rising called Dorun of the Draw-Gangs, managed Urzavad's ground routes. The court had divided his children between Ozhur's and Varakesh's households as security for his obedience. He knew when anchors received instructions and where a false confirmation could delay a city.
 
 **Meya of Narash** governed three western wells through a maternal caravan house. She had profited from Vathran protection and supplied captives taken in local wars. Royal seizure now threatened the breeding camels and dependants on which her authority rested.
 
@@ -148,5 +148,5 @@ The First Road-Mother's fate remains unknown. Claimants to the lost cities' bloo
 - [[Historical Atlas of Vathra and the Northern Ground]]
 - [[The Tarkhan before the Horse Hordes]]
 - [[The Ahdari before the Covenant]]
-- [[The Great Unbinding]]
-- [[Lesser Crowns of the Giant Age]]
+- [[Age of Chains]]
+- [[Age of Exodus]]

@@ -58,10 +58,9 @@ After Mujalib's preaching, Ahdari language and institutions helped shape the Cov
 
 ## Navigation
 
-- [[Timeline MOC]]
+- [[The Ages of the World]]
 - [[Age of Exodus]]
 - [[Age of Scattering]]
 - [[The Ahdari before the Covenant]]
 - [[Historical Atlas of Vathra and the Northern Ground]]
-- [[Contract Magic and True Names]]
 - [[01 Canon Reference/Peoples and Cultures/Ahl-e-Ahd/The Ahl-e-Ahd Overview.md|The Ahl-e-Ahd Overview]]

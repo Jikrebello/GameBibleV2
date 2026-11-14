@@ -39,7 +39,7 @@ This is an empirical boundary, not an explanation of the Glass. No account may t
 
 The Lord supplies the necessities the host cannot secure by ordinary means: food, water, shade, orientation, endurance, preservation and protection at appointed crises and stages. The exact schedule and visible form of those signs remain open.
 
-Human labor remains indispensable. People gather and distribute food, maintain animals and seed, repair carts and tools, dig drains and graves, isolate sickness, care for the injured, translate testimony, teach children, hear disputes, punish crime, defend the rear and carry those whom stronger households would abandon.
+Human labour remains indispensable. People gather and distribute food, maintain animals and seed, repair carts and tools, dig drains and graves, isolate sickness, care for the injured, translate testimony, teach children, hear disputes, punish crime, defend the rear and carry those whom stronger households would abandon.
 
 The signs are bounded to this commission. They cannot be summoned by descent, reconstructed from an anchor camp or converted into a modern Glass industry.
 
@@ -92,7 +92,7 @@ The exact rebellions, punishments and judgements remain separate planting work. 
 
 ## The Civilizational Witness
 
-The common life formed in the Glass becomes the Ark-derived world's first durable witness for free human civilization after Giant rule:
+The common life formed in the Glass becomes the Ark-derived world's first durable witness for free human civilisation after Giant rule:
 
 - a human being cannot be owned as Giant property;
 - ruler, judge, priest, commander and artisan hold differentiated offices rather than divine blood-right;
@@ -115,7 +115,7 @@ His death therefore ends both a leadership and a mode of historical knowledge. T
 
 The Glass is refuge and school, not a permanent homeland. The already-formed people leaves after the Prophet's death and fails to establish the commanded southern sanctuary in a stable common form.
 
-Between approximately c. 2130 and 2050 BR, southern companies organized around captains, craftsmen, survey, captured works and permanent allotment separate gradually from the camps remaining near the Glass roads. Those southern leagues become proto-Atherian through settlement, conquest and mixture; they principally carry crafts, measures, military service, archives, public works and civic deliberation.
+Between approximately c. 2130 and 2050 BR, southern companies organised around captains, craftsmen, survey, captured works and permanent allotment separate gradually from the camps remaining near the Glass roads. Those southern leagues become proto-Atherian through settlement, conquest and mixture; they principally carry crafts, measures, military service, archives, public works and civic deliberation.
 
 The continuing **Near-Glass camp continuum** is an authorial label, not the name of a forgotten nation and not another prophetic office. Between approximately c. 1950 and 1750 BR, water, distance, marriage, trade, raiding and sustained Tarkhan contact divide it into two later institutional formations:
 
@@ -124,7 +124,7 @@ The continuing **Near-Glass camp continuum** is an authorial label, not the name
 
 Neither fission occurs in one council, battle or migration. None of the three later traditions inherits the whole witness, and none possesses superior human nature through Ark descent.
 
-Meanwhile, human communities outside the Ark survive through independent **Orphaned Reassemblies**. Folk, Ättar, Tarkhan and Nsizwa are principally Orphaned peoples. Sestaran harbor populations, Vesari and later Eclessians are **Braided peoples** formed through later mixtures of Ark-derived, Orphaned and other local populations.
+Meanwhile, human communities outside the Ark survive through independent **Orphaned Reassemblies**. Folk, Ättar, Tarkhan and Nsizwa are principally Orphaned peoples. Sestaran harbour populations, Vesari and later Eclessians are **Braided peoples** formed through later mixtures of Ark-derived, Orphaned and other local populations.
 
 ## Fixed Unknowns
 

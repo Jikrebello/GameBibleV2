@@ -18,19 +18,19 @@ These are historical epithets rather than a new universal infernal rank. The pow
 
 ## The being behind the title
 
-one sovereign abyssal-wound classified as a [[True Dragons|true dragon]], not two souls, twins, devil offices or rival Archmasks.
+One sovereign abyssal-wound classified as a [[True Dragons|true dragon]], not two souls, twins, devil offices or rival Archmasks.
 
 ## The dominion
 
-rules a drowned contradiction basin at the Abyssal margin. One mouth promises safety through absolute submission; the other orders followers to destroy whatever submits. Cults mutilate themselves or split institutions trying to obey both.
+It rules a drowned contradiction basin at the Abyssal margin. One mouth promises safety through absolute submission; the other orders followers to destroy whatever submits. Cults mutilate themselves or split institutions trying to obey both.
 
 ## Victims and methods
 
-captive breeding experiments, massacres triggered by contradictory signals, servants killed for proving one mouth wrong and families forced to choose which mutually fatal command counts as loyalty.
+Captive breeding experiments, massacres triggered by contradictory signals, servants killed for proving one mouth wrong and families forced to choose which mutually fatal command counts as loyalty.
 
 ## In 1360
 
-both mouths and the shared wound remain active. Destroying one head interrupts one command channel but injures the same continuity rather than freeing an innocent half.
+Both mouths and the shared wound remain active. Destroying one head interrupts one command channel but injures the same continuity rather than freeing an innocent half.
 
 ## Read onward
 

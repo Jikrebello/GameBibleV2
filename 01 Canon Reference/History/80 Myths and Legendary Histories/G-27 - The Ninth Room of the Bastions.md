@@ -50,11 +50,9 @@ Otherwise unrelated bastions contain blank ninth doors sealed with bricks bearin
 
 ## Read onward
 
-- [[Towns and Wars of the Long Frontier]]
+- [[The Long Frontier and the First Unsealing]]
 - [[Historical Atlas of the Velians]]
 - [[Saints and Sinners of the Chronicles]]
 - [[G-35 - The Child's Cord at the Redoubt|The Child's Cord at the Redoubt]]
-
-- [[The Long Frontier and the First Unsealing]]
-- [[Myths and Legendary Histories MOC]]
-- [[World Historical Atlas MOC]]
+- [[Legendary Histories]]
+- [[The Ages of the World]]

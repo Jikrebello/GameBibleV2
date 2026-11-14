@@ -3,7 +3,7 @@ type: reference
 status: canon
 canon_level: core
 visibility: restricted
-era: ["Present Day"]
+era: ["1044 AR", "Present Day"]
 region: ["Thalmyria", "Velian States", "Zanthir"]
 culture: ["Thalmyric", "Velian", "Ahl-e-Ahd"]
 related_factions: ["Thalmyric Empire", "Thalmyric Church", "Ahl-e-Ahd"]
@@ -15,7 +15,7 @@ tags: []
 ---
 # Zanthir and the Unfinished Reconquest
 
-Thalmyric law describes Zanthir and the Velian belt as imperial lands awaiting recovery. Six centuries of Covenant and local rule have meanwhile produced living Velian and Zanthiri societies with their own institutions, property and political aims. The difference between inherited claim and present sovereignty makes this frontier the most likely theatre of a renewed war between Thalmyria and the Covenant.
+Thalmyric law describes Zanthir and the Velian belt as imperial lands awaiting recovery. Seven centuries of Covenant and local rule have meanwhile produced living Velian and Zanthiri societies with their own institutions, property and political aims. The difference between inherited claim and present sovereignty makes this frontier the most likely theatre of a renewed war between Thalmyria and the Covenant.
 
 ## The Imperial Case
 
@@ -23,11 +23,11 @@ The regions belonged to Atheria, contain old churches and imperial infrastructur
 
 ## How Zanthir Stayed Outside
 
-Zanthir survived the Reconquest by changing sides at the right moment. In 1044, as the last Covenant amirates in the old heartland ran short of food, the emir at Qabir held back his fleet and grain barges from them and signed with Veridun an instrument valid in alternate seasons: tribute to Veridun in one, to Iqashar in the other. Thalmyria accepted Zanthir's autonomy as the price of starving the amirates, and Iqashar, with its army committed to the Tarkhan frontier, could only register the arrangement. Thalmyric chronicles call it Zanthir's "timelier treachery"; Qabir calls it the seasons. Badis's divided tribute is the same bargain, and every Thalmyric claim to the emirate has had to explain why an emperor once signed it.
+Zanthir survived the Reconquest by changing sides at the right moment. In 1044, as the last Covenant amirates in the old heartland ran short of food, the emir at Qabir held back his fleet and grain barges from them and struck a bargain with Veridun that split his year in two: tribute to Veridun in one season, to Iqashar in the next. Thalmyria accepted Zanthir's autonomy as the price of starving the amirates, and Iqashar, with its army committed to the Tarkhan frontier, could only register the arrangement. Thalmyric chronicles call it Zanthir's "timelier treachery"; Qabir calls it the seasons. Badis's divided tribute is the same bargain, and every Thalmyric claim to the emirate has had to explain why an emperor once signed it.
 
 ## The Civilian Reality
 
-Six centuries have produced living Velian and Zanthiri societies. Many residents oppose bondage without desiring annexation. Others rely on contract-bound water, title, inheritance, and trade systems that cannot be erased in a victory ceremony.
+Seven centuries have produced living Velian and Zanthiri societies. Many residents oppose bondage without desiring annexation. Others rely on contract-bound water, title, inheritance, and trade systems that cannot be erased in a victory ceremony.
 
 ## Court Factions
 

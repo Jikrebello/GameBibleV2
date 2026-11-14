@@ -48,9 +48,7 @@ Four mismatched cups are lowered together into a dry well before repair begins. 
 
 ## Read onward
 
-- [[Towns and Wars of the Long Frontier]]
-- [[Historical Atlas of the Velians]]
-
 - [[The Long Frontier and the First Unsealing]]
-- [[Myths and Legendary Histories MOC]]
-- [[World Historical Atlas MOC]]
+- [[Historical Atlas of the Velians]]
+- [[Legendary Histories]]
+- [[The Ages of the World]]

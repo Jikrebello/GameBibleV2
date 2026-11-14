@@ -18,21 +18,19 @@ tags: []
 ---
 # Age of Exodus
 
-The Age of Exodus, approximately c. 2300–2160 BR, begins when the Great Prophet's commissioned movement becomes the centre of the [[The Great Unbinding|Great Unbinding]]. The Prophet gathers the largest deliberate convergence of liberated human communities and leads that representative remnant into the [[Great Glass Desert]]. During the century-long [[The Glass Sojourn|Glass Sojourn]], the host is fed in the desert and becomes one people. When it is sent south, the bread stops at the edge of the Glass, the Prophet dies at the threshold, and the people leave the refuge hungry and without a leader every company will obey. Other human communities survive the end of Giant rule outside it.
+The Age of Exodus, approximately c. 2300–2160 BR, begins when the Great Prophet's commissioned movement becomes the centre of the Great Unbinding, the century of judgement and revolt that ended Giant rule. The Prophet gathers the largest deliberate convergence of liberated human communities and leads that representative remnant into the [[Great Glass Desert]]. During the century-long Glass Sojourn, the host is fed in the desert and becomes one people. When it is sent south, the bread stops at the edge of the Glass, the Prophet dies at the threshold, and the people leave the refuge hungry and without a leader every company will obey. Other human communities survive the end of Giant rule outside it.
 
 ## The Liberation
 
-The Prophet exposes the tyrants he defeats. Giant kings who call themselves gods are shown to be corrupt, contingent, and breakable. Their cities fall through a providential convergence of prophetic warning, plagues, human revolt, client defection, Giant civil war, divine judgement, internal rot, failed escape, and the collapse of the systems used to bind human beings.
+The Prophet's warning ran along the same roads as the tribute columns. Where it passed, Giant kings who called themselves gods were shown to be corrupt and breakable. Offerings rotted in sealed tomb-halls, tally-gates stood open with nobody left to count at them, and a sun fed on blood went dim. The plagues struck the works through which the courts took bodies, and the people those works had been eating rose wherever the overseers came for them. Giant houses turned on one another over what was left, and courts that tried to flee found that their foundations could not carry everyone ([[Age of Chains]]).
 
-The Prophet announces, interprets, intercedes, prepares, and leads. Giant rulers remain responsible for the wars they choose, while human liberation depends upon the work of households, scouts, burial fraternities, artisans, soldiers, officials, and subject communities as well as the Prophet at their head.
-
-Liberation traditions remember the direct breaking of four Imperial Horizons. Anshara destroyed itself concurrently in the Drinking Wars.
+The Prophet warned, interpreted, interceded and led. He did not work the plagues as his own sorcery, and he freed no one alone: liberation depended on households, scouts, burial fraternities, artisans, deserting soldiers, turncoat officials and whole subject towns. Giant rulers remained responsible for the wars they chose. Liberation songs remember four horizons broken in this way. Anshara, the fifth, destroyed itself at the same time in the Drinking Wars, and Nythalum went down under the spires it launched at the Moon.
 
 ## Deliverance amid collapse
 
-The Exodus was the greatest deliberate convergence of liberated humanity. The Prophet gathered people from several imperial horizons while revolts, client defections, plagues and Giant civil wars disrupted the roads behind them. Families arrived with incompatible languages and skills. Some brought tools; some carried only children; others refused the gathering and defended the water systems on which their towns depended.
+The Exodus was the greatest deliberate gathering of freed people the world had seen. The Prophet called households from several horizons while revolts, defections, plagues and civil wars closed the roads behind them. Families arrived with incompatible languages and skills. Some brought tools; some carried only children; others refused the gathering and stayed to defend the water works on which their towns depended.
 
-The plagues exposed and broke particular systems. Traditions remember a Phoenix among the signs of judgement and restoration, attended by other heavenly servants. Selected Titan returns and pursuit systems were severed or bound. Nythalum's catastrophe came from its own physical attempt to reach the Moon.
+Traditions remember a Phoenix among the signs of judgement and restoration, attended by other servants of heaven. Some Giant ancestors trying to return were bound where they stood, and some pursuing engines stopped as though cut through.
 
 ## The refuge the Giants could not keep
 
@@ -68,17 +66,11 @@ The rear camps keep their own Last Cart, and it is a different story. In their t
 
 ## The Prophet's Failure and Death
 
-The Prophet died around c. 2165 BR near the outward threshold, in the season the bread stopped, while the rear companies were still inside the Glass. His death is one of the great disputed wounds of history. Every people that came out of the Glass, and one that watched it come, tells his death as an account of who was fed.
+The Prophet died around c. 2165 BR near the outward threshold, in the season the bread stopped, while the rear companies were still inside the Glass. His death is one of the great disputed wounds of history. Every people that came out of the Glass, and one that watched it come, tells his death as an account of who was fed, and each blames someone different.
 
-**The Slow Road.** Jirahar road-singers give his last command as "Go no faster than the last cart." When the captains of the forward companies outpaced the rear, he turned and walked back along the column, alone and very old, to the camps where the provision had already failed. He died of exhaustion among the people the captains had left behind, and they buried him among their own dead under a name and no marker. His saying in this telling is "A name is the last thing a person owns." The fault is the people's, who walked too fast. In this telling the empty seat that faces the road in Jirahar assemblies belongs to the man who turned back ([[G-56 - The Empty Seat Facing Outward|The Empty Seat Facing Outward]]).
+In the Jirahar **Slow Road** his last command was "Go no faster than the last cart." When the forward captains outpaced the rear, he walked back along the column, alone and very old, to the camps where the provision had already failed, and died of exhaustion among the people left behind; the fault is the people's, and the empty seat that faces the road in Jirahar assemblies is kept for him ([[G-56 - The Empty Seat Facing Outward|The Empty Seat Facing Outward]]). In the Covenant's **Unpaid Well** he opened a well kept by Orphaned keepers without their consent to water the host, and a storm took him beside it; the fault is his own, and jurists call it their first case, the lawgiver held to his own law. In the Atherian **Herald's Ascent** the sun darkened and Astronax the Star Herald was taken up among the stars, which is why no one can show his grave; the fault is no one's, which southern priests found convenient. The Orphaned farmers south of the Glass tell **the Guest Who Died at the Door** as a joke with an edge: his captains killed him for forbidding them fields other people had sown, or else he starved "the first winter the bread stopped, like any of us". Folk satirists around Grenzburg still bring the Guest out in land quarrels.
 
-**The Unpaid Well.** Covenant teachers give his last command as "Take no water you have not answered for." At the edge of the Glass the host's water failed, and he opened a well kept by Orphaned keepers without their consent to water the people. The Lord held him to his own law, and a storm took him beside the well. His saying here is "Water owes its well, the well its keeper, the keeper the thirsty." The fault is his own. Covenant jurists call it their first case: the man who gave the law was the first person held to it.
-
-**The Herald's Ascent.** Atherian temple drama gives his last command as "Measure the land and divide it." On the road south the sun darkened, and Astronax the Star Herald climbed a height above the camp and was taken up among the stars; that is why no one can show his grave. His saying is "What is measured cannot be stolen." The fault is no one's. The Ascent asked little of the people who told it, which southern priests found convenient, and later image-makers inherited its raised arms and darkened sun.
-
-**The Guest Who Died at the Door.** The Orphaned peoples whose fields lay south of the Glass tell it as a joke with an edge. Folk and Aurin-valley satirists say his captains killed him because he forbade them fields other people had sown. A comic version has him starve "the first winter the bread stopped, like any of us". Its saying is "Heaven's guest ate for a hundred years and starved in a week." The fault is the captains'. Folk satirists around Grenzburg still bring the Guest out in land quarrels.
-
-One line survives in all four tellings: **no one is owned.** Scholars in Caleran, in the Covenant schools and in the Jirahar courts, who agree on almost nothing else about the Prophet, cite it as the best evidence that a real teacher stands behind the four deaths. The rest they leave argued. Some traditions call the death punishment for refusing the southern sanctuary meant to shelter the people for three generations. Others call it murder, tragic exhaustion, or a mystery no nation has the right to simplify. [[The Four Deaths of the Prophet]] gathers the four tellings.
+One line survives in all four tellings: **no one is owned.** Scholars in Caleran, in the Covenant schools and in the Jirahar courts, who agree on almost nothing else about the Prophet, cite it as the best evidence that a real teacher stands behind the four deaths. The rest they leave argued: punishment for refusing the southern sanctuary, murder, exhaustion, or a mystery no nation has the right to simplify. [[The Four Deaths of the Prophet]] gives the four tellings in full, with their sayings.
 
 ## Outside the Ark
 
@@ -92,9 +84,7 @@ The Prophet left no inheritable commission. Camp commanders, judges, provisioner
 
 ## Inherited Wound
 
-The host is freed and genuinely formed before it fractures. Common law, institutions and memory mature in the Glass, but the people cannot carry that unity securely into land, succession and possession after the Prophet's death. Southern war-settlement leagues separate first; the continuing Near-Glass population divides generations later into proto-Jirahar and proto-Ahl-e-Ahd formations. All three later inherit both deliverance and fracture; other peoples remember the event through Orphaned or later Braided histories.
-
-Some human communities outside the principal host revolt after the central columns pass, remain to preserve a failing city, survive in isolated regions, or enter separate successor histories. Later cultures may claim exclusive descent from the Exodus, but no one surviving genealogy contains the whole end of the Giant Age.
+The host was freed and genuinely made into one people before it broke. It learned law, worship and a common speech in the Glass and could not carry them into fields, successions and boundary stones once the Prophet was dead. Southern war-settlement leagues separated first; the camps nearer the Glass divided generations later into the forerunners of the Jirahar and the Ahdari. All three inherit both the deliverance and the breaking. Other peoples remember the end of the Giants through their own survivors. Later cultures may claim sole descent from the Exodus, but no surviving genealogy contains the whole end of the Giant Age.
 
 ## Atlas navigation
 
@@ -107,12 +97,10 @@ Some human communities outside the principal host revolt after the central colum
 ## Historical articles in this age
 
 - [[Great Glass Desert]]
-- [[The Glass Sojourn]]
-- [[The Great Unbinding]]
+- [[Vathra and the Great Unyoking]] — the flying kingdom's fall, one regional theatre of the Unbinding.
+- [[Historical Atlas of the Southern Cold World]] — the War of Open Keys and the First Rewriting in the south.
 
 ## Local tales and surviving memories
 
 - [[G-03 - The Last Cart|The Last Cart]]
 - [[The Four Deaths of the Prophet]]
-
-Smaller local histories and restored reserve leads: [[Additional Mortal Lives and Frontier Traditions]].

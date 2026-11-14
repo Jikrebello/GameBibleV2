@@ -14,14 +14,13 @@ source_id: AF-R07
 ---
 # The Lady of the Mire Keys
 
-
 The epithet identifies one historical power, not a universal rank.
 
 ## The person and the manifestation
 
-damned female human-soul ruler carrying several separable gate and sentence offices.
+Damned female human-soul ruler carrying several separable gate and sentence offices.
 
-a crowned woman whose lower body extends into a key-ring coil beneath the city; each key opens one cell by closing another.
+A crowned woman whose lower body extends into a key-ring coil beneath the city; each key opens one cell by closing another.
 
 ## Ambition and rule
 
@@ -31,11 +30,11 @@ Her court contains escaped prisoners, informers, smugglers, former guards, conde
 
 ## Victims
 
-judicial murder, prison rape, coerced informing, disappeared families, guards paid in access to captives and victims prosecuted for surviving illegally.
+Judicial murder, prison rape, coerced informing, disappeared families, guards paid in access to captives and victims prosecuted for surviving illegally.
 
 ## Limits and inheritance
 
-her sex neither explains nor softens her guilt; no descent from another archfiend is presumed.
+Her sex neither explains nor softens her guilt; no descent from another archfiend is presumed.
 
 This power is active in its own ecology in 1360. No present defeat, return, redemption or campaign outcome is fixed.
 

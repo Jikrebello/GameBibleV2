@@ -30,7 +30,7 @@ Soldiers followed the counters. They seized sons, broke doors and killed resiste
 
 At the edge of one village, an old woman whose sons the census had already taken continued threshing after everyone else fled. The prince had by then confessed the census's true purpose in the market square of his own capital, freed the surviving hostages and burned the seizure schedule, and he came to her floor barefoot. The mortality reached her floor and stopped. Some say the blazing shape stood over the falling grain and folded its wings. Others say the troops had already refused orders after seeing their own children sick. The old woman simply swept a circle clean and poured the household counters into the chaff.
 
-The prince ended the killings but blamed clerks for misusing his command, and his bid for a crown died with the census. Survivors forced every later count to spill grain outside the total: a visible portion belonging to people whom no number could make available for seizure.
+The prince ended the seizures, though his chancery later blamed the clerks for misusing his command, and his bid for a crown died with the census. Survivors forced every later count to spill grain outside the total: a visible portion belonging to people whom no number could make available for seizure.
 
 The old woman refused a court reward and asked instead for the marked doors to be repaired. Some had no survivors to reopen them. Their unclaimed grain was given away without adding the households to another list. The empty thresholds remained, making the cost visible after the food was gone. Nobody counted those doors again.
 
@@ -51,7 +51,6 @@ After communal threshing, one circle of grain is left uncounted and distributed 
 - [[High Noon Provinces and the Qarath Aftermath]]
 - [[Historical Spine of the Sestaran Concord]]
 - [[Saints and Sinners of the Chronicles]]
-
 - [[High Noon and the Qarath Disaster]]
-- [[Myths and Legendary Histories MOC]]
-- [[World Historical Atlas MOC]]
+- [[Legendary Histories]]
+- [[The Ages of the World]]

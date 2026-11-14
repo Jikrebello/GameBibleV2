@@ -36,7 +36,7 @@ The division between early Jirahar and Ahdari institutions unfolded across many 
 
 Violence exposed the strengths and costs of each choice. A judge who departed with a travelling court preserved names and decisions while leaving fields behind. A well keeper who remained could protect grain and graves while losing contact with distant families.
 
-One remembered episode concerns a camp whose travelling custodians ordered a departure while water and food remained. Several households refused because their dead were buried beside the well and a second journey threatened their sick relatives. They built a wall and survived the raid. The travellers preserved the camp's decisions; those who stayed kept its graves and stores. The tale is known as *The Court That Walked and the Wall That Stayed*.
+One remembered episode concerns a camp whose travelling custodians ordered a departure while water and food remained. Several households refused because their dead were buried beside the well and a second journey threatened their sick relatives. They built a wall and survived the raid. The travellers preserved the camp's decisions; those who stayed kept its graves and stores. Ahdari well communities and Jirahar route families both tell it, as [[G-59 - The Walking Court and the Wall That Stayed|The Walking Court and the Wall That Stayed]].
 
 Marriage and cooperation continued across the developing division. A Jirahar judge might marry into an Ahdari water house and retain the right to travel. Ahdari caravans asked road courts to hear disputes involving several wells. The fission produced overlapping families and related institutions across two increasingly distinct peoples.
 

@@ -3,7 +3,7 @@ type: history
 status: canon
 canon_level: core
 visibility: public
-era: ["Present Day"]
+era: ["1297–1360 AR", "Present Day"]
 region: ["Known World"]
 culture: []
 related_factions: []
@@ -41,13 +41,13 @@ The old Church answered with the Council of Veridance under Celestin IX. It abol
 
 ## The frontier and the adopted emperor
 
-Iron-mounted companies riding with devil-mantled escorts began raiding Thalmyric chapel-forts on the Velian frontier by night. At **Chapel-Fort Orinel** in 1318 the seven signal braziers failed one by one during a night assault, and a provincial commander of House Aetherion named Caedros led the dawn counterattack after the last went out. Songs say the bound riders smothered the fires and a great bird of fire rose from the smoke; a Saronikan quartermaster's ledger found a generation later records the fort's oil bought from a contractor who cut it with water. Caedros's **Crimson Pilgrimage** (1319–1322) reopened roads through the Velian districts and returned stolen parish registers, and his siege of **Zehrim** (1324–1325) ended with the garrison spared and the fort's oath-ledgers burned on its altar. The Covenant's Court of Breaches ruled in 1326 that the people those ledgers had bound remained bound in the registers at Iqashar. Thalmyria calls them freed.
+From about 1310 Iron-mounted companies riding with devil-mantled escorts raided Thalmyric chapel-forts on the Velian frontier by night. At **Chapel-Fort Orinel** in 1318 the seven signal braziers failed one by one during a night assault, and a provincial commander of House Aetherion named Caedros led the dawn counterattack after the last went out. Songs say the bound riders smothered the fires and a great bird of fire rose from the smoke; a Saronikan quartermaster's ledger found a generation later records the fort's oil bought from a contractor who cut it with water. Caedros's **Crimson Pilgrimage** (1319–1322) reopened roads through the Velian districts and returned stolen parish registers, and his siege of **Zehrim** (1324–1325) ended with the garrison spared and the fort's oath-ledgers burned on its altar. The Covenant's Court of Breaches ruled in 1326 that the people those ledgers had bound remained bound in the registers at Iqashar. Thalmyria calls them freed.
 
 In 1327 the summer flux killed both sons of the old emperor Stavren the Patient within a month. In 1328 Stavren adopted the hero of Zehrim, over the objections of the Caleran houses, and died the next year. Caedros IV was crowned at Virelos. He codified frontier amnesties, strengthened provincial audits and has not drawn his sword Ashreaver since. No treaty ended the war: Thalmyric emperors will not put their names into a Covenant instrument, and the Covenant makes no peace without one. The frontier has been an armed peace ever since, raided by Tarkhan-mounted and Velian companies, while Zanthir between the two empires pays tribute to each in alternating seasons.
 
 ## The Covenant's witnesses
 
-The Sweat had left the Covenant with a court that could not act without witnesses and a Guard that supplied them. Since 1243 the officer bench of the Ahdanite Guard has witnessed every accession at Iqashar, and since 1252, when a lodged prince whose register page had been lost in the plague walked free under the law and raised the Basin, the Cull of Brothers has used the knife and the blinding needle rather than the lodging of a rival's name in the Vault. Marzuq II ruled for nearly half a century with Iron Horde cavalry and Guard counsel. When he died in 1349 the Guard bench witnessed Marzuq III, and his brothers were killed, blinded or lodged.
+The Sweat had left the Covenant with a court that could not act without witnesses and a Guard that supplied them. Since 1243 the officer bench of the Ahdanite Guard has witnessed every accession at Iqashar, and since 1252, three years after a lodged prince whose register page had been lost in the plague walked free under the law and raised the Basin, the Cull of Brothers has used the knife and the blinding needle rather than the lodging of a rival's name in the Vault. Marzuq II ruled for nearly half a century with Iron Horde cavalry and Guard counsel. When he died in 1349 the Guard bench witnessed Marzuq III, and his brothers were killed, blinded or lodged.
 
 ## The sea opens
 
@@ -55,7 +55,7 @@ The grass-tolls of the Black Wind had pushed Sestaran trade to the sea, and the 
 
 ## Fiorenzia's fire
 
-The Medori had held the Chancery of Sendings' registers since 1296, as surety for Alessior VI's debts. In 1345 a Sermoran pamphlet printed extracts naming Fiorenzian dead whose Sendings had never been sung and called the family vault **the Bank of the Dead**. The friar Frate Severin preached that the Medori held the city's dead in pawn and that the carnival masks of the merchant houses had become doors for the Hungers. In 1346 the city expelled the Medori and burned its masks, mirrors, paintings and gowns in the cathedral square, the **Pyre of Masks**; witnesses still argue about what they saw standing in the fire. A Medori-restored government hanged and burned Severin in 1349. Nicanor Vetti's banned *Mirror for Sovereigns*, written in exile around 1340, is on every ruler's private shelf.
+Since 1296 the Medori vault had held the Chancery of Sendings' great registers, every letter sold and every name on it, taken in pledge for Alessior VI's debts. In 1345 a Sermoran pamphlet printed extracts naming Fiorenzian dead whose Sendings had never been sung and called the family vault **the Bank of the Dead**. The friar Frate Severin preached that the Medori held the city's dead in pawn and that the carnival masks of the merchant houses had become doors for the Hungers. In 1346 the city expelled the Medori and burned its masks, mirrors, paintings and gowns in the cathedral square, the **Pyre of Masks**; witnesses still argue about what they saw standing in the fire. A Medori-restored government hanged and burned Severin in 1349. Nicanor Vetti's banned *Mirror for Sovereigns*, written in exile around 1340, is on every ruler's private shelf.
 
 ## Vessing and the Closed House
 
@@ -67,17 +67,15 @@ From 1357 a hearing has examined a prison-house of the Inquisitors of Saint Malv
 
 Empress Vasilia of Vlastrava, wife of Caedros IV for forty years, died in 1357. After her fortieth-day memorial the emperor began keeping silences of a day or more before the Great Lamp of Veridun, and courtiers report that the flame stands still while he kneels. In 1358 his elder son Prince Nikandros died in a skirmish with Iron-mounted raiders in the Velian marches. Princess Alexane, Prince Sophios and the adoption of a proven commander, the road by which Caedros himself came to the throne, now divide the court. Lord Primarch Alistair III, elected in 1354, holds the Crown of Embers, the Unburnt Psalter and the Vessing file in one set of vaults. Marzuq III's sons keep rival households. The Moon Horde's Sorqai is old. In every capital the most dangerous object is a piece of evidence nobody wants opened.
 
-## Unfinished local histories
+## Stories still happening
 
-The Company with No Charter has rumours and living participants. The Nameless Castellan's dispute has evidence and claimants. The two workhouse tags place families before a real question in 1360 that no investigation has yet decided, and brokers holding dead paper press claims of the same kind in other towns.
+Some of the age's tales have no ending yet. Five strangers who escaped a burning lodging-house with an old cook and her neighbour's caged birds refused to sign a patron's charter, and have not yet decided whether to trust one another ([[G-17 - The Company with No Charter|The Company with No Charter]]). In a harbour town an old naval veteran gave away his civic name to hide from a grey carriage that collects the men of a forgotten expedition, and now his wife greets him kindly as a stranger ([[G-23 - The Citizen Who Gave Away a Name|The Citizen Who Gave Away a Name]]). Two families who found two fused neck tags on one dead man are deciding whether to confess an old workhouse fraud while a broker holding the workhouse's debts threatens their children ([[G-49 - The Two Tags on One Dead Man|The Two Tags on One Dead Man]]), and in other towns brokers holding dead paper press claims on the named dead.
 
 ## Atlas navigation
 
 **Previous:** [[High Noon and the Qarath Disaster]] · **Atlas:** [[The Ages of the World]] · **Present day:** [[Present-Day Courts and Crowns (1360 AR)]]
 
 - [[Legendary Histories]]
-- [[The Divergence Pass — Torque Register]]
-- [[The Atlas of the Left Hand]]
 
 ## Historical articles in this age
 
@@ -94,5 +92,3 @@ The Company with No Charter has rumours and living participants. The Nameless Ca
 - [[G-17 - The Company with No Charter|The Company with No Charter]]
 - [[G-23 - The Citizen Who Gave Away a Name|The Citizen Who Gave Away a Name]]
 - [[G-49 - The Two Tags on One Dead Man|The Two Tags on One Dead Man]]
-
-Smaller local histories and restored reserve leads: [[Additional Mortal Lives and Frontier Traditions]].

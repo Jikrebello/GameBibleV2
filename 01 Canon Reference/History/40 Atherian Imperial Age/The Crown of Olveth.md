@@ -36,7 +36,7 @@ He ordered the Crown fitted to his head for a public procession. The metal heate
 
 Emperor Aren I sent specialists to observe the Crown in place. They found that it responded when the entrance again admitted endangered people under the shelter rule. It remained cold during military acclamation and when moved into a command tent.
 
-Aren ordered its return and compensated the surviving custodians. The army kept control of the surrounding road. Compensation could neither restore the dead nor return every displaced family. Olveth rebuilt the refuge and limited the Crown's display.
+Aren ordered its return and paid the surviving custodians in silver. The army kept the surrounding road. Olveth rebuilt the refuge and hung the Crown over its door again, and the custodians stopped taking it down for visiting officers.
 
 Later emperors cited Aren's return of the Crown as evidence of reverence. Upland accounts gave greater attention to the beaten custodian and the ruler's continued occupation. Both histories agreed that the object killed the general who tried to convert shelter into conquest.
 
@@ -47,5 +47,5 @@ Copies of the Crown appear above hospices and mountain shelters, although none h
 ## Further reading
 
 - [[The House of Veloran]]
-- [[The Image, Soul, and Creaturely Continuity]]
+- [[The Atherian Empire – Age of Glory]]
 - [[Historical Atlas of the Atherian Age of Glory]]

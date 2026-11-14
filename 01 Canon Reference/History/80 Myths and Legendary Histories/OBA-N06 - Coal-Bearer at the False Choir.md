@@ -24,15 +24,15 @@ At the new sanctuary’s dedication, the informing singer broke off before the a
 
 ## What people remember
 
-miraculous confession, coercive church spectacle, curse from the old temple, political reversal, guilt-induced seizure or later martyr-family insertion.
+Miraculous confession, coercive church spectacle, curse from the old temple, political reversal, guilt-induced seizure or later martyr-family insertion.
 
 ## What remains
 
-the hymn survives with an intentional silent measure. Some choirs read the five names there; others call the silence reverence for the purified singer.
+The hymn survives with an intentional silent measure. Some choirs read the five names there; others call the silence reverence for the purified singer.
 
 ## What remains unknown
 
-city, singer, precise temple cult, later repentance, final judgement, victims’ faiths, body recoveries and whether the singer was killed in prison.
+City, singer, precise temple cult, later repentance, final judgement, victims’ faiths, body recoveries and whether the singer was killed in prison.
 
 - [[Heavenly Campaigns and the Human Dead]]
 - [[World Historical Atlas MOC]]

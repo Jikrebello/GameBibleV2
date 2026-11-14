@@ -38,7 +38,7 @@ Townsmen who had walked in the same processions but could not meet the obligatio
 
 Raveth's river towns had paid canal duty to the Vasharan road command at Avesh before they joined the empire, and under that duty every household sent men each spring to clean the flood channels. Their first imperial assessment was fixed in a good year. The new road levy took the same men for the Arcelon stations, and the channels silted. Two harvests failed. The third was fair, and estate managers shipped it out under contract. Then blight took the fields. From 119 BR the province starved.
 
-Elian II, who had succeeded his father in 126 after serving in the eastern administration, gave the relief to Neriah bar Sorek, a Jirahar store examiner who carried the measures of three provinces in his head. His sister Lethara, who managed family estates and food contracts, had brought the estate stewards' accounts to court. Neriah bought grain, requisitioned boats, opened military stores and had every release countersigned by local witnesses. Relief went out as debt. The boats reached the river towns first; hill villages died waiting for the pack trains, and soldiers killed a crowd trying to force one store.
+Elian II, who had succeeded his father in 126 after serving in the eastern administration, gave the relief to Neriah bar Sorek, a Jirahar store examiner who carried the measures of three provinces in his head. The emperor's sister Lethara, who managed family estates and food contracts, had brought the estate stewards' accounts to court. Neriah bought grain, requisitioned boats, opened military stores and had every release countersigned by local witnesses. Relief went out as debt. The boats reached the river towns first; hill villages died waiting for the pack trains, and soldiers killed a crowd trying to force one store.
 
 When the worst had passed and the debts could not be paid, Neriah advised a single estate large enough to repair the channels, and Elian approved it. Lethara's officers ran it. They replaced the neighbours' countersignature with an oath sworn before the emperor's image in the store-house yard, and Neriah would not administer that oath and resigned. Raveth noticed the difference within a season. Where debts had been countersigned, households argued, delayed and kept part of their land. Where they had been sworn before the image, families walked their animals to the estate office without being asked and stood waiting at the gate. Villagers called it "the loan before the Face". Relief was wound down by 113, and the crown estate it left covered the eastern basins. [[The Keeper of Borrowed Grain]] follows Neriah and the arguments over his responsibility.
 
@@ -60,17 +60,7 @@ Before the purchaser arrived, the interim Keeper made the pilgrimage offering. T
 
 The tower houses wrote to the Atherian governor at Arcelon, in letters a Qoreth scribe drafted in the chancery's own forms. The governor came to the next pilgrimage with an augur of the Red Star, and the augur proposed what Atherians did with a disputed claim: test it. Let each claimant offer, he said, and let the sign decide. The purchaser refused to make the Lord answer a foreigner's question. The interim Keeper made his offering before the crowd, the governor and the augur, and the court waited. The fire smoked like any fire, and the stones stayed hot. People who were there remembered the silence more than anything said afterwards. Atherian writers called the day the Trial before the Stars; in the towers it was the Governor's Question.
 
-The governor decided on the sanctuary's written record of the earlier sign and on the purchaser's refusal. The Qoreth scribe drafted the charter that followed:
-
-- sacrifice, the communal courts and burial jurisdiction were protected, at Qiryath and in the tower towns of the province;
-- no image of any kind would enter the sanctuary;
-- the council would choose the Keeper and the governor confirm him;
-- an offering would be made each day on behalf of the emperor;
-- the governor would sit at the pilgrimage, with an augur for public rites, to hear the cases the elders sent him, and he alone could pass sentence of death for offences against imperial rule;
-- the sanctuary's dues would stand surety for the tribute;
-- one copy would lie in the sanctuary archive and one in the chancery.
-
-The Qoreth house kept the sanctuary copy for three generations and trained its sons in both archives.
+The governor decided on the sanctuary's written record of the earlier sign and on the purchaser's refusal, and the Qoreth scribe drafted the charter that followed. Sacrifice, the communal courts and the burial grounds were protected at Qiryath and in the province's tower towns. No image of any kind would pass the sanctuary gate. The council would choose the Keeper and the governor confirm him, and every day the priests would make an offering on the emperor's behalf. The governor would come up for the pilgrimage, with an augur for the public rites, to hear whatever cases the elders sent him, and only he could put a man to death for an offence against imperial rule. The sanctuary's dues stood surety for the tribute. One copy of the charter went into the sanctuary archive and one to the chancery. The Qoreth house kept the sanctuary copy for three generations and trained its sons in both archives.
 
 The purchaser's house, and the river-quarter families who would not serve under the charter, loaded their scrolls, bedding and cooking pots onto mules and went east by the Dawn Road into Vasharan country. Tower communities there took them in, and they told the story of the Trial before the Stars in their own way: the sign had refused to answer a governor. At Qiryath the sign went on answering the appointed offerings, under the confirmed Keeper and under priests of the defeated houses who stayed. Each side cited it.
 
@@ -94,24 +84,15 @@ His daughter Mira married Othran, an officer from an eastern provincial house th
 
 Isfir was born in 33 BR during Othran I's reign, in a Jirahar tower town of the eastern provinces whose communal court sat under the charter's protection. The governor's hall in the nearest city held a copy of the emperor's face, and much of the farmland around the town was crown estate. Imperial roads ran past the tower. Jirahar citizens swore with the image veiled. The sign was given each year at Qiryath, and Vashar collected the Dawn Portion and called it rent.
 
-Othran II succeeded his father in 24 BR. His reign inherited functioning roads, a professional army, varied municipal cultures and a religious establishment confident in its right to speak for cosmic order. It also inherited rural dependence, enslaved labour and the eastern tensions surrounding the Jirahar tower communities. Its estates fed the cities, its eastern citizens staffed the courts, and lawyers in every province knew that a test answers only the question asked.
+Othran II succeeded his father in 24 BR. He inherited good roads, a professional army and temples sure of their right to speak for the sky. He also inherited crown estates worked by debtors, slave gangs in the quarries and tower towns that kept their courts under a charter and swore their oaths under a veil. His estates fed the cities, his eastern citizens staffed the courts, and lawyers in every province knew that a test answers only the question asked.
 
 ## The world of 0 AR
 
-At Qiryath, Ezrahel bar Qoreth, Lord-Scribe and keeper of the sanctuary copy, knew the charter better than any governor. When a teacher from the towers drew crowds at the pilgrimage, every procedure Ezrahel needed already existed:
-
-- a governor sitting for the pilgrimage, with an augur of the Red Star beside him;
-- a clause for sending him cases that touched imperial rule;
-- a right of complaint to Caleran;
-- a burial jurisdiction under which an elder could ask for a body.
-
-The governor's court at Second Qiryath turned a dispute over the sanctuary and Isfir's claims into an imperial capital case. Othran received the account through his provincial officials after the sentence.
+At Qiryath, Ezrahel bar Qoreth, Lord-Scribe and keeper of the sanctuary copy, knew the charter better than any governor. When a teacher from the towers drew crowds at the pilgrimage, everything Ezrahel needed was already in place: a governor sitting for the pilgrimage with an augur of the Red Star beside him, a clause for sending him cases that touched imperial rule, a right of complaint to Caleran, and a burial right under which an elder could ask for a body. The governor's court at Second Qiryath turned a dispute over the sanctuary and Isfir's claims into an imperial capital case. Othran II received the account from his provincial officials after the sentence.
 
 ## The threshold of another age
 
-The Redeemer's death and resurrection establish the chronological boundary at 0 AR. Atherian government continued under Othran II, whose subsequent actions belong to the Redeemer-era history.
-
-People living through the final decades continued to build houses, arrange marriages, travel to festivals and seek advancement. The empire appeared old, adaptable and capable of surviving another provincial controversy. That confidence shaped its response when the controversy reached Caleran.
+The Redeemer's death and resurrection mark the boundary of the calendar at 0 AR, and Othran II's reign runs across it. In the provinces people went on building houses, marrying, walking to festivals and buying their sons a first post. The empire looked old, adaptable and well able to survive another quarrel in a sanctuary town. The governor's report of the sentence went into the judgement archive at Caleran with the nails in its chest, and nobody there expected to open it again.
 
 ## Further reading
 

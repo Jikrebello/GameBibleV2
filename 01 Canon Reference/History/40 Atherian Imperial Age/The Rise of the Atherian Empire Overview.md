@@ -23,17 +23,17 @@ Early Atherian cities occupied defensible hills and river crossings around the C
 
 [[Caleran - Foundation and Royal Households]] follows the estuary through the founding brothers, later river kings and the Common Sky religious settlement. [[Arkenan and Saronikan Cities before the Empire]] describes a separate eastern maritime centre, whose food supply, workshops and civic traditions developed alongside Caleran's.
 
-The **Celestial Compact** joined twelve leading cities under a common star calendar, arbitration law, and military levy. Caleran became the league's archive and meeting place because its river, harbor, and roads made it difficult to bypass.
+The **Celestial Compact** joined twelve leading cities under a common star calendar, arbitration law, and military levy. Caleran became the league's archive and meeting place because its river, harbour, and roads made it difficult to bypass.
 
-“Atherian” consequently changes basis across history: war-settlement enrollment, heroic-maritime allegiance, shared city civilization, and finally republican or imperial citizenship. These are cumulative inheritances. Adoption, manumission, military grant, civic admission and provincial incorporation can all make Atherians.
+“Atherian” consequently changes basis across history: war-settlement enrollment, heroic-maritime allegiance, shared city civilisation, and finally republican or imperial citizenship. These are cumulative inheritances. Adoption, manumission, military grant, civic admission and provincial incorporation can all make Atherians.
 
 ## Republic and Expansion
 
-The Compact hardened into a republic governed by assemblies, a senate of property-holding houses, and annually chosen magistrates. The republic built roads to move armies, cadastral archives to tax conquered land, aqueducts to support larger cities, and colonies to secure routes. Citizenship expanded unevenly: allies could earn rights, subject communities could be taxed without them, and enslaved labor supported estates and public works.
+The Compact hardened into a republic governed by assemblies, a senate of property-holding houses, and annually chosen magistrates. The republic built roads to move armies, cadastral archives to tax conquered land, aqueducts to support larger cities, and colonies to secure routes. Citizenship expanded unevenly: allies could earn rights, subject communities could be taxed without them, and enslaved labour supported estates and public works.
 
 [[The Celestial Compact and the Caleran Republic]] explains these institutions through their household and material foundations, including Nerava's supply dispute and the later appropriation of older civic founders. [[Food, Work and Citizenship in Republican Atheria]] follows the lives shaped by service, trade and unequal admission.
 
-Atherian wars reached the Sestaran harbors, eastern future Eclessian provinces, northern desert approaches, and southern forest marches. Expansion spread law and infrastructure while destroying local polities, transferring populations, and turning regional cults into subordinate faces of the stars.
+Atherian wars reached the Sestaran harbours, eastern future Eclessian provinces, northern desert approaches, and southern forest marches. Expansion spread law and infrastructure while destroying local polities, transferring populations, and turning regional cults into subordinate faces of the stars.
 
 ## From Republic to Empire
 
@@ -49,11 +49,11 @@ Thalion's reforms created a standing army, centralised provincial appointments, 
 
 Modern Thalmyria contains the republic's first roads beneath imperial avenues, old star temples beneath converted churches, municipal drains beneath Reconquest streets, and family tombs reused by successive religions. Caleran accumulated senate halls, forums, palaces, observatories, prisons, shrines, warehouses, and burial districts over centuries. Veridun, Virelos, Arkena, and the river cities preserve different combinations of the same growth.
 
-The empire built systems larger than modern settlements can maintain. Working aqueducts and bridges survive beside collapsed branches; buried roads run toward towns that no longer exist. This is why common debris is everywhere while intact sealed complexes remain exceptional.
+The empire built systems larger than modern settlements can maintain. Working aqueducts and bridges survive beside collapsed branches; buried roads run towards towns that no longer exist. This is why common debris is everywhere while intact sealed complexes remain exceptional.
 
 ## Inheritance
 
-Atheria created the material and political board inherited by every successor: roads, provincial boundaries, legal formulas, archives, ruins, military districts, star temples, urban privileges, and the imperial claim that unity justified conquest. Thalmyria inherited the deepest physical concentration of this world. Eclessia inherited eastern provincial institutions. Sestara inherited and monetized maritime archives. Other peoples remember Atheria as conqueror as often as civilizer.
+Atheria created the material and political board inherited by every successor: roads, provincial boundaries, legal formulas, archives, ruins, military districts, star temples, urban privileges, and the imperial claim that unity justified conquest. Thalmyria inherited the deepest physical concentration of this world. Eclessia inherited eastern provincial institutions. Sestara inherited and monetised maritime archives. Other peoples remember Atheria as conqueror as often as civiliser.
 
 ## Navigation
 

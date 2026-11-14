@@ -24,15 +24,15 @@ The Herald entered because the protected surrender could not otherwise be heard.
 
 ## What people remember
 
-captured angel, failed rebel weapon, mutilated Saint, primordial fallen spirit, Patron signal-body, invented morale story or proof that Heaven abandoned the capital.
+Captured angel, failed rebel weapon, mutilated Saint, primordial fallen spirit, Patron signal-body, invented morale story or proof that Heaven abandoned the capital.
 
 ## What remains
 
-military signal law requires the protected persons in a surrender to be named before property terms. A broken three-note call marks any message suspected of coerced authorship.
+Military signal law requires the protected persons in a surrender to be named before property terms. A broken three-note call marks any message suspected of coerced authorship.
 
 ## What remains unknown
 
-signal house, governor, prisoners, rescuers, Herald’s title, enemy ward’s ultimate source, later counterfeit identity and whether any metal fragment is a relic.
+Signal house, governor, prisoners, rescuers, Herald’s title, enemy ward’s ultimate source, later counterfeit identity and whether any metal fragment is a relic.
 
 - [[Heavenly Campaigns and the Human Dead]]
 - [[World Historical Atlas MOC]]
