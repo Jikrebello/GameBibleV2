@@ -30,7 +30,7 @@ The roads depended upon wells, animals and local guides. Storms could erase a me
 
 ## Qahuri garrisons on the coast
 
-The Aramen empire reached selected Gateway ports between the eleventh and ninth centuries BR. Qahuri governors demanded harbour dues, hostages and supply. They repaired roads, protected some caravans and attempted to impose basin estate practices. Coastal households resisted hereditary labour and foreign temple claims.
+The Aramen empire reached selected Gateway ports between the eleventh and ninth centuries BR. Qahuri governors demanded harbour dues, hostages and supply, and much of the harbour revenue went upriver to the White Measure houses that had put the Aramen crown on the throne and financed its wars. They repaired roads, protected some caravans and attempted to impose basin estate practices. Coastal households resisted hereditary labour and foreign temple claims.
 
 Qarzeth preserved its independence through rival coalitions and negotiation with Qemaret. Sarqen and Esharat endured periods of Qahuri garrisoning. Families formed around soldiers, craftspeople and local partners remained after imperial withdrawal.
 

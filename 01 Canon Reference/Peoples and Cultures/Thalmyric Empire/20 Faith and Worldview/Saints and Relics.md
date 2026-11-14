@@ -27,15 +27,15 @@ The process is less juridical than Eclessian canonization and no less vulnerable
 
 - **Amaryah the Fire-Bearer:** Mother of refuge memory and the Church's supreme model of faithful custody.
 - **Caedros I the Returning:** founder-emperor glorified after his death at the Pillar; his status remains the central dispute with Eclessia.
-- **Ioan of Velia:** defender of the vessels and theologian of the Uncreated Kindling.
-- **Theodosia the Kindler:** the empress who opened the crown lamp-houses in 1052, walked the first mile of the relay from the Ember and founded the Rekindling feast.
+- **Ioan of Velia:** defender of the vessels and theologian of the Uncreated Kindling, the potter-monk whose forty *Sayings for the Foot of a Lamp* were stamped on clay lamps in the Velian kilns and outlived the Breaking in the rubble.
+- **Theodosia the Kindler:** the empress who found her father's lamp-houses cold, joined the roads to the Ember in 1052, walked the first mile of the relay barefoot and founded the Rekindling feast.
 - **Saint Naris of Halmenth:** drowned coast saint whose cult serves sailors and families of the lost.
 - **Saint Gavrin of the Halter:** the bound farrier of the steppe camps, glorified in the 1290s, whose blessing on a dying black colt is held to have renewed the horse-grace.
 - **The Twelve Companions:** shared foundation of the faith, interpreted through Thalmyric patronage and liturgy.
 
 ## Saints of the Road
 
-Some of Thalmyria's best-loved holy people have never been added to the diptychs. **Despina of Kolonna**, a district soldier's widow, came to Veridun in 1167 to pray for her three sons on the frontier and stood in the nave with a lamp of her own at Caedros III's funeral. Seven claimants held lamps at the bier and none kindled; hers took the Flame. The court suppressed the report, the district armies made it their warrant, and Despina went home and refused every summons to court. The **Widow's Lamp** is kept in Kolonna's church, and district families still carry their door-lamps to it on the anniversary. The Synod treats her cult cautiously, since it put an emperor on the throne; the districts need no synod to keep her day.
+Some of Thalmyria's best-loved holy people have never been added to the diptychs. **Despina of Kolonna**, a district soldier's widow, came to Veridun in 1167 to pray for her three sons on the frontier and stood in the nave with a lamp of her own at Caedros III's funeral. Seven claimants held lamps at the bier, the dead emperor's own son among them, and none kindled; hers took the Flame. The court suppressed the report, the district armies made it their warrant, and Despina went home and refused every summons to court. The **Widow's Lamp** is kept in Kolonna's church, and district families still carry their door-lamps to it on the anniversary. The Synod treats her cult cautiously, since it put an emperor on the throne; the districts need no synod to keep her day.
 
 ## Relics
 

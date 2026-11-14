@@ -28,7 +28,7 @@ Villages beyond the walls supplied the city's prosperity. Grain boats arrived in
 
 Qemaret occupied the channels of the lower fan. Barges unloaded into store basins connected with roads towards the gateway coast. Foreign merchants and soldiers settled there in substantial numbers and helped the Yasharet house acquire power.
 
-The city endured the massacre of about 1076 BR and recovered because its canals and workshops remained indispensable. Later poetry called it either the Foreign Queen's Nest or the Gate of Plenty. Families whose ancestors survived the conquest preserved both traditions.
+The city endured the foreclosure and massacre of about 1076 BR and recovered because its canals and workshops remained indispensable. Aramen's poets called it the Foreign Queen's Nest; its own boatmen called it the Gate of Plenty and the city that was sold to a dead woman. Families whose ancestors survived the conquest preserved all three names.
 
 Qemaret also became the commercial centre of the White Measure. Khaseret's funerary harbour joined warehouses in the city to the House of the Returning Cargo in the Egg White. Merchants used its storage and route knowledge without necessarily accepting its funerary teaching.
 
@@ -40,7 +40,7 @@ The town's festivals included wrestling, boat-hauling contests and an evening me
 
 ### Aseret and Isethar
 
-Aseret began as a garrison and craft settlement. Ithren III made it the capital of the Single Radiance and diverted labour and temple property towards its ceremonial road. After his dynasty fell, the great sanctuary was dismantled. Workshops, houses and a military post continued around the abandoned foundations.
+Aseret began as a garrison and craft settlement. Ithren III made it the capital of the Single Radiance, built it on land taken from the dead and forbade burial within it; its dead crossed the river at dusk in hired ferries. His son Deshren made the palace his necropolis, and from about 815 BR the town paid rent to the sealed palace's stewards. Its noon courts were roofed over for workshops. Boatmen would not moor at Aseret after dark, and its children were dared to knock on the palace's inner gate.
 
 Isethar lay between the strongest royal centres. Its boats and stores allowed the town to feed one crown while negotiating with another. Talmera's steering board, bearing rival seals, became a royal emblem of double-dealing and a boatman's emblem of practical courage.
 
@@ -90,9 +90,13 @@ The Boatman appeared under several Qahuri titles. Priests described him as a roy
 
 **Talzara Yasharet** prevented the expulsion of immigrant districts and brought mixed military households into the royal court. Her officers dispossessed opponents and directed southern grain towards lower-basin wars.
 
-**Aramen of Sakhret** used friendships made during his childhood captivity to open Qemaret. He let the massacre which followed run for months and stopped it only when the harvest was in danger. His heirs called him Liberator of the Reed; survivors called him the Guest Who Opened the Gate.
+**Aramen of Sakhret** took Qemaret as the factor of a dead creditor, paying its garrison from the House of the Returning Cargo's stores. He let the massacre which followed run for months and stopped it only when the harvest was in danger. His heirs called him Liberator of the Reed; survivors called him the Factor.
 
-**Nehara of the Blue Hands** erased images for Ithren III and later concealed a small group she had been ordered to destroy. Restoration praise made that refusal the whole of her life. Her earlier obedience and the dead she could not save remained part of the history.
+**Ithren III** gave the soldiers the land of the dead and took the dead's names off it. Garrison songs remember him as the king who paid in fields; temple-town songs, as the king who ferried their grandparents to the pits.
+
+**Nehara of the Blue Hands** erased images for Ithren III and later concealed a small group she had been ordered to destroy. Later praise made that refusal the whole of her life. Her earlier obedience and the dead she could not save remained part of the history.
+
+**Zaheret of Tenaret** held the middle-river allotments against the dead king's stewards and was crowned by the soldiers who farmed them. The crowds that made her queen also killed the stewards' families.
 
 **Meresha, Khaseret and Tamekha** became the best-known Second-House Patrons. Their complete histories belong to [[The White Measure and the Second Houses]].
 

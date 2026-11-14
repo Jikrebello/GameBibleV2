@@ -82,7 +82,7 @@ The [[The White Measure and the Second Houses|White Measure]] predates the Coven
 
 ## Locked History, 1190–1360
 
-- **Sovereigns:** Suhrab the Lawbinder (1190–1243), Tahmur (1243–1268), Marzuq I (1268–1301), Marzuq II (1301–1349), Marzuq III (1349–).
+- **Sovereigns:** Suhrab the Debtor (1190–1243), Tahmur (1243–1268), Marzuq I (1268–1301), Marzuq II (1301–1349), Marzuq III (1349–).
 - **Qarath's Well** (1214) was won on a sworn well-peace; when Thalmyria blinded the ransomed emperor to "widow" the ransom, the Court of Breaches answered that an instrument sworn to the Throne cannot widow.
 - **Suhrab's lodged son** (c. 1240): Guard officers swore that the prince had taken soldiers' oaths in his own name; Suhrab lodged his name in the Deep Vault and he died in its cloister within the year.
 - **The Emptying of the Benches** (c. 1236–1243): in the Grey Sweat, deaths outran the witnesses needed to release bound names and hold garrison oaths; frontier garrisons marched home (the Open Gates, 1238–1246), and the living and dead registers have never balanced since. Suhrab's last book (1243) lets a sealed register stand where no witness survives and names the Guard's officer bench a competent witness for the Threshold.

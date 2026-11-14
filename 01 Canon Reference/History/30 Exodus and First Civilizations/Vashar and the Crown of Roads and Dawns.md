@@ -54,13 +54,13 @@ Arezan and Eryndor met in 694 BR. They agreed to destroy House Ubar while retain
 
 The final campaigns included massacre and enslavement by both victorious armies. Arezan punished some killings when they deprived him of useful officials and ignored others committed by necessary allies. In 690 BR his forces seized the eastern gates and water stations of Arqesh while Eryndor's soldiers entered across a channel opened by Nemeru boat crews and forced workers. The two armies plundered districts assigned to one another after the surrender.
 
-Kassur III escaped with several sons and the portable royal images. A provincial commander murdered him in 688 BR and offered the body to Eryndor. Eryndor executed the killers and buried Kassur with royal ceremony, presenting himself as the lawful successor of the king he had pursued, and kept the portable images as his own regalia. Arezan retained royal children and former Ubar officers in guarded households of his own. Vashari houses had recognised Arezan as king in 704 BR, fourteen years before Arqesh fell; he reigned until 671 BR.
+Kassur III escaped with several sons and the portable royal images. In 688 BR the images began to answer in Eryndor's voice, and their bearers carried them across to him by night; Eryndor kept them as his own regalia. Kassur, his guard scattered and two of his sons dead, rode to Arezan's outposts at Durqesh and surrendered to the former hostage he had known in the royal cavalry there. Eryndor demanded him. Arezan refused, and the two kings had their first open quarrel. At Durqesh Kassur sealed the Gate House's water books over to Arezan, which is why the Ubar canal officials served Vashar without a second conquest. Arezan kept the last Ubar king as a guarded guest in an orchard house at Kavresh until his death around 676, and retained royal children and former Ubar officers in guarded households of his own. Vashari houses had recognised Arezan as king in 704 BR, fourteen years before Arqesh fell; he reigned until 671 BR.
 
 ## The Crown of Roads and Dawns
 
 Arezan adopted the title **Keeper of the Roads and King at Dawn**. Later historians call the state he established the **Vasharan Empire** or **Crown of Roads and Dawns**. During Eryndor's lifetime, however, Arqesh and the conquered provinces had no single master. Eryndor occupied the High Palace and treasury. Arezan held the Gate House, eastern roads and much of the surviving provincial administration. Canal officials continued working because neither army could feed the city without them.
 
-Eryndor died at Arqesh in 684 BR while preparing another campaign. Parena was pregnant. The Ortheian commanders acknowledged an adult royal half-brother and Parena's posthumous child as nominal heirs, then divided the army and treasury among themselves. Arezan used the crisis to secure the highlands, eastern roads and most of the Ubar basin.
+Eryndor came back from the farther east wounded in 685 and died in 684 BR aboard Serevan of Delkos's flagship in the roads of Nemeru, waiting for a wind to take him home. Parena was pregnant. The Ortheian commanders acknowledged an adult royal half-brother and Parena's posthumous child as nominal heirs, then divided the army and treasury among themselves. Arezan used the crisis to secure the highlands, eastern roads and most of the Ubar basin.
 
 The empire reused Arqeshite institutions. Canal governors retained their staffs. Local languages remained in administration. Subject rulers kept courts where their cooperation reduced the cost of occupation. Vashari relatives and allied houses received the highest military and provincial offices.
 
@@ -68,9 +68,9 @@ In 684 BR, during the first division of Eryndor's commands, Arezan issued the **
 
 Jirahar teachers later described the return decree as an act of providence. Vasharan inscriptions claimed that the Right Order had chosen Arezan to correct the Lie of Arqesh. The Jirahar accounts praised the release and return of captive households while continuing to record the killings committed by Arezan's coalition. Vasharan court histories used the decree to support broader claims about his right to rule.
 
-The **Wars of the Inheritance**, fought from 684 to about 650 BR, divided Eryndor's conquests. Arezan held Vashar and most of the Ubar basin. **Demeran Kavos**, Eryndor's senior western general, took Ortheia and the western army. **Serevan of Delkos**, commander of the allied fleet, established a mixed court among the islands and eastern harbours. **Neresh of Qemaret**, a Qahuri-born officer, held southern garrisons and crown towns through marriage and military settlement. These rulers sometimes recognised one of Eryndor's heirs while fighting over the lands claimed in that heir's name. Serevan had carried Eryndor's embalmed body and Kassur's images to Delkos, and within months a voice in the tomb there declared that the king still reigned and had no heir, and sealed grants that promised the same provinces twice.
+The **Wars of the Inheritance**, fought from 684 to about 650 BR, divided Eryndor's conquests. Arezan held Vashar and most of the Ubar basin. **Demeran Kavos**, Eryndor's senior western general, took Ortheia and the western army. **Serevan of Delkos**, commander of the allied fleet, established a mixed court among the islands and eastern harbours. **Neresh of Qemaret**, a Qahuri-born officer, held southern garrisons and crown towns through marriage and military settlement. These rulers sometimes recognised one of Eryndor's heirs while fighting over the lands claimed in that heir's name. Serevan had sailed Eryndor's embalmed body and Kassur's images to Delkos, and within months a voice in the tomb there declared that the king still reigned and had no heir, and sealed grants that promised the same provinces twice.
 
-Demeran eventually imprisoned Parena and her child and ordered their deaths. Vasharan accounts treated the killings as proof of western treachery; Ortheian histories blamed Arezan for withholding the forces that might have rescued them. Mithara preserved Parena's attendants and arranged marriages for two surviving members of her household. Their descendants carried rival accounts of Eryndor's final days into Vashari and maritime courts.
+Parena was carried up the Dawn Road to her mother at Kavresh and there, in the late spring of 684, bore a daughter, **Mehrava**. Demeran killed the half-brother he held and sent agents after mother and child; Arezan's road guards took them at Durqesh and hanged them in the gate. Vasharan accounts treated the attempt as proof of western treachery. Ortheian histories called Mehrava a Vashari pretence, since the voice at Delkos had declared the king heirless and a king under the White Measure's fasts could have fathered no child that year; Vashari households answered that Parena had been with him at the healing spring in the summer of 685, before the regimen began. Mithara kept mother and daughter in her valley household and arranged marriages for two surviving members of Parena's household. Their descendants carried rival accounts of Eryndor's final days into Vashari and maritime courts.
 
 ## Daryav I and imperial organisation, 671–625 BR
 
@@ -86,6 +86,8 @@ Road houses supplied interpreters, maintained selected stations and carried reco
 
 At Kavresh, Daryav began a ceremonial terrace where delegations carried soil, tools, textiles, animals and vessels representing their provinces. The art described the empire as willing cooperation around the king. Tribute records, garrison letters and accounts of suppression reveal the force behind that procession.
 
+Around 668 Daryav married Mehrava, Parena's daughter. Every Tiravan king from Kavran I onward descended from her, and Vasharan inscriptions could thereafter call the king heir of the Far Road whenever the claim was useful in the west.
+
 ## Religion and royal legitimacy
 
 Vasharan kings adopted the language of Right Order and tended light. A royal flame was carried from Daryam to a new reign's first public audience. It represented household continuity and the king's promise to preserve the roads. Provincial rulers could retain their own worship while acknowledging the royal ceremony.
@@ -98,7 +100,7 @@ Some priests resisted. **Mazhara of Daryam**, active under Daryav, taught that a
 
 ## Kavran I and the western road, 625–584 BR
 
-**Kavran I Tiravan**, Daryav's grandson, inherited a stable core and a contentious western coast. The coast contained mixed cities whose inhabitants spoke local, Vashari, Arqeshite and Atherian languages. Their ships connected the empire to the inner sea. Royal governors supported friendly rulers and demanded ships, taxes and soldiers.
+**Kavran I Tiravan**, Daryav's grandson by Mehrava, inherited a stable core and a contentious western coast. The coast contained mixed cities whose inhabitants spoke local, Vashari, Arqeshite and Atherian languages. Their ships connected the empire to the inner sea. Royal governors supported friendly rulers and demanded ships, taxes and soldiers.
 
 Kavran concentrated upon the road between Arqesh, Qahur and the coastal commands. He replaced two rebellious governors, established permanent grain stations west of the Ubar and sent royal surveyors into districts whose customary pasture and canal rights were poorly understood at Kavresh. Resistance followed. Villages concealed stores, herders drove animals beyond the stations and one canal district drowned a tax camp by cutting its own embankment.
 
@@ -118,13 +120,13 @@ Mithara's treaties, tax agreements and marriages reduced the number of provinces
 
 **Xarun I Tiravan** inherited as Caleran gathered for its final war against Qarzeth. Within two decades the destruction of Qarzeth released Caleran ships and commanders from the western Gateway struggle. The city of **Tasar** became the centre of revolt after Governor **Mazdan Aresh** intervened in the choice of a new harbour magistrate and increased the city's naval service. The magistrate **Liora of Tasar** sought aid from Atherian leagues in 514 BR. Atherian ships helped the rebels capture the lower city of **Avesh**, the western road-command capital, and burn its storehouses.
 
-Vasharan forces recovered the coast by 508 BR. Tasar's walls were breached; leaders were executed; inhabitants were deported or enslaved. The city survived and supplied ships again within a generation. Xarun concluded that Atherian leagues would continue encouraging revolt while the coastal marches remained contested.
+Vasharan forces recovered the coast by 508 BR, when Tasar's poorest harbour quarter opened a gate to the besiegers for bread. Leaders were executed and inhabitants enslaved, and the rebel quarters were sent up the Dawn Road to keep the relay stations, sea families feeding the king's remounts in the snow of the high passes. The city survived and supplied ships again within a generation. Xarun concluded that Atherian leagues would continue encouraging revolt while the coastal marches remained contested.
 
-A first punitive expedition in 503 BR failed after poor reconnaissance and a storm separated its supply ships. A second, much larger invasion began in 497 BR. Subject fleets, coastal allies and road-command armies advanced by several routes. They won battles, burned resistant settlements and compelled neutral cities to choose sides.
+A first punitive expedition in 503 BR failed when siege fever carried aboard by conscripts from Tasar broke out at sea, and Velathene's defenders fell on the sick camps the admiral had put ashore. A second, much larger invasion began in 497 BR. Xarun's inscriptions at Avesh called him heir of the Far Road through Mehrava, and claimed the Atherian cities as the hegemony Eryndor had held. Subject fleets, coastal allies and road-command armies advanced by several routes. They won battles, burned resistant settlements and compelled neutral cities to choose sides.
 
-The invasion failed to establish permanent rule over the principal Atherian leagues. Naval defeat in the **Narrows of Ilyessa** in 493 BR cut the army from regular sea supply. Atherian and allied forces held the crossings while disease and shortage spread through Xarun's camps. The king withdrew the main army in 491 BR, leaving garrisons and clients along the eastern coast.
+The invasion failed before Velathene. The royal fleet had passed the **Narrows of Ilyessa** in 495 on the terms Ilyessan pilots kept with the sea there: keep moving, and never call the water yours. In 493 Xarun took the title Keeper of the Roads by Land and by Water and anchored his granary fleet in the Ilyessa lee to feed the siege. Through the summer the grain spoiled in sealed jars in sound hulls, the ships settled at their moorings without a leak, and the subject crews rowed by night for Velathene's refuge fire. In the autumn the Atherian league fleet, much of it rowed by those deserters, took the anchored transports. The army before Velathene starved through the winter while **Ardash Aresh**, governor of Avesh and brother of the murdered Mazdan, held the overland grain until the king promised the western command to his house. Xarun withdrew the main army in 491 BR, leaving garrisons and clients along the eastern coast.
 
-Vasharan tradition remembers the campaign as the defence of order against oath-breaking cities. Atherian tradition makes every city a willing defender of freedom. Several Atherian cities submitted, supplied Xarun or waited to join the winning side. Subject peoples within the Vasharan army pursued their own interests.
+Vasharan tradition remembers the campaign as the defence of order against oath-breaking cities, undone by Ilyessan sorcery and an Aveshi price. Atherian tradition makes every city a willing defender of freedom and the sea a fighter on its side. Several Atherian cities submitted, supplied Xarun or waited to join the winning side. Subject peoples within the Vasharan army pursued their own interests, and at Ilyessa they decided the war.
 
 ## Later kings and provincial power, 486–431 BR
 
@@ -132,7 +134,7 @@ Vasharan tradition remembers the campaign as the defence of order against oath-b
 
 Orvaz financed rival Atherian leagues, hosted exiled rulers and offered naval timber to coalitions willing to recognise Vasharan coastal claims. Provincial governors acquired semi-hereditary influence, although the crown formally appointed them.
 
-Road-command autonomy brought danger at home. The governor of Avesh joined three other commands in a revolt around 462 BR. Orvaz promised pardon, separated the coalition through private agreements and then executed two surrendered leaders whose safe conduct had been publicly proclaimed. **Rathava of Daryam**, called the Truth-Teller, condemned him in the palace garden. Orvaz had Rathava's estate labourers brought into the garden in ropes and told him they would be sold unless he unsaid his words. Rathava unsaid them before the court, and the labourers walked home. His school split over that afternoon. One party held that the Truth-Teller had told the single lie that mattered; the other that he had kept an older promise, to the people of his house. Royal historians recorded the recantation as proof that truth served the king.
+Road-command autonomy brought danger at home. The Aresh house had held Avesh by Xarun's promise since 491, and around 462 BR its governor joined three other commands in a revolt. Orvaz promised pardon, separated the coalition through private agreements and then executed two surrendered leaders whose safe conduct had been publicly proclaimed. **Rathava of Daryam**, called the Truth-Teller, condemned him in the palace garden. Orvaz had Rathava's estate labourers brought into the garden in ropes and told him they would be sold unless he unsaid his words. Rathava unsaid them before the court, and the labourers walked home. His school split over that afternoon. One party held that the Truth-Teller had told the single lie that mattered; the other that he had kept an older promise, to the people of his house. Royal historians recorded the recantation as proof that truth served the king.
 
 In his old age, after a run of good harvests, the harvest audience at Kavresh began to hail Orvaz as the one who made the grain rise, and courtiers said the Witness of Dawn filled the terrace mirrors whenever they did. Orvaz accepted the praise. He ordered each road command to send children to be raised in the king's dawn-house as servants of the royal fire. At the harvest audience of 431 BR, as the delegations cried the new praise, he fell from his seat, and he died some days later in great pain. Palace physicians named a sickness of the bowels. Jirahar interpreters present that day said a messenger had stood beside the throne at the moment of the cry. Daryam's keepers wrote nothing. The children were sent home by the new king's officers, and for a generation afterwards, courtiers said, the radiance no longer appeared in the palace mirrors.
 
@@ -187,19 +189,19 @@ Slavery and bonded labour supported estates, mines, roads and households. War ca
 | **Ruzhan** | high pasture and horse country governed through powerful mobile houses |
 | **Durqesh** | former Arqeshite gate city joining the highlands to the Ubar basin |
 | **Arqesh** | western river capital reused by the Vasharan empire |
-| **Avesh** | seat of the western road command and target of the coastal revolt |
+| **Avesh** | seat of the western road command, target of the coastal revolt and, from 491, the Aresh house's command |
 | **Tasar** | mixed coastal city whose two liberation festivals remember eastern and Atherian rule |
-| **Ilyessa** | island-and-strait district associated with the decisive naval reverse |
+| **Ilyessa** | island-and-strait district where the royal granary fleet spoiled at anchor in 493 |
 
 ## Regnal framework
 
 | Ruler | Reign | Principal development |
 |---|---:|---|
-| Arezan I Tiravan | 704–671 BR | coalition against Arqesh; Decree of Roads and Houses |
-| Daryav I Tiravan | 671–625 BR | road commands, royal stations and provincial reorganisation; Qiryath rebuilt; the Witness of Dawn first proclaimed |
+| Arezan I Tiravan | 704–671 BR | coalition against Arqesh; Kassur III's water books sealed to him (688); Decree of Roads and Houses |
+| Daryav I Tiravan | 671–625 BR | road commands, royal stations and provincial reorganisation; Qiryath rebuilt; marriage to Mehrava; the Witness of Dawn first proclaimed |
 | Kavran I Tiravan | 625–584 BR | western road consolidation and Qahuri relations |
 | Mithara I Tiravan | 584–536 BR | dynastic settlement, fiscal repair and negotiated coast |
-| Xarun I Tiravan | 536–486 BR | coastal suppression and major western invasion |
+| Xarun I Tiravan | 536–486 BR | coastal suppression; the western invasion that starved before Velathene; Avesh promised to the Aresh house |
 | Orvaz I Tiravan | 486–431 BR | diplomacy, provincial revolt and royal perjury; death at the harvest acclamation |
 | Tiraz III Tiravan | 431–403 BR | growing western-governor autonomy and Veyr's arrival |
 | Orvaz II Tiravan | 403–after 350 BR | Caleran civil wars; Velsar's defeat in the Avesh approaches (358); settlement with Thalion |

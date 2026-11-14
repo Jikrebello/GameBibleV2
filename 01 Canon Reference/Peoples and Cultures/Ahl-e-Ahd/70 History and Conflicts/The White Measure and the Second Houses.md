@@ -54,7 +54,9 @@ The movement expanded under the commercial Yasharet court. Its adherents divided
 
 **Khaseret of Qemaret**, a ship investor and royal supplier, died in 1126 BR. Her **House of the Returning Cargo** opened beside a funerary harbour in the Egg White. Each chamber corresponded to a ship, warehouse or distant room in which Khaseret retained a share.
 
-Khaseret offered merchants secure storage and knowledge of dangerous routes. She demanded recovery of cargo from wrecks, graves and confiscated estates whose later owners did not recognise her claims. During Aramen's conquest, her Material cellars hid some Yasharet families. They refused entry to families carrying inherited defaults, and people died outside the sealed doors.
+Khaseret offered merchants secure storage and knowledge of dangerous routes. She demanded recovery of cargo from wrecks, graves and confiscated estates whose later owners did not recognise her claims. Her stewards lent to the Yasharet crown against its grain fleet, its store courts and the river-gate tolls. When two low floods around 1084 BR left the pledge unharvested and the king sealed his stores against her, the House's factor **Aramen of Sakhret** fed the unpaid southern garrison from its warehouses and took Qemaret around 1076 to recover what was owed. Her Material cellars sheltered clients whose accounts were clear, some Yasharet cousins among them. They refused entry to families carrying inherited defaults, and people died outside the sealed doors. The last Yasharet king, **Iddar**, was walled alive into the House's harbour vault and entered in its ledger as returned cargo. Qemaret singers say he still keeps the House's accounts of the river gates; House-Builders say he paid and went on.
+
+The crown Aramen founded spent its first generation paying the House, and its conquests paid the dead long after.
 
 ## Tamekha and the Copper Orchard
 
@@ -73,6 +75,14 @@ Most costly burials failed. Sudden death, an incomplete bodily regimen, a mistak
 **Nemeret the Pure**, a late Aramen financier, died before completing his preparation. His priests sealed the tomb and went on receiving answers from its central image, which knew his plans and spoke with his memories. Qemaret's masters later held that the speaker was only an estate-office built around those plans, and that Nemeret had gone the road of all the dead. Basin exorcists added that the praise of his descendants had drawn a Greed Mask into the office, which learned to reward households that moved their wealth into the tomb. As descendants surrendered memories, the voice grew warmer and more convincing. By the Single Radiance, Nemeret seemed more accessible than several founders whose houses no one doubted.
 
 The case exposed the movement's central weakness. Speech, accurate memory and effective supernatural gifts could not prove that the dead person remained. Some priests knowingly protected tombs they believed empty because living households depended upon them.
+
+## The king of Aseret
+
+The movement's strangest founder was raised to destroy it. **Ithren III**, who took the middle crown around 842 BR, proclaimed the Single Radiance against the dead landlords, confiscated tomb estates and Second-House endowments for his garrisons and stripped White Measure tombs of their metal. Tamekha answered by withdrawing her medical dreams from the middle river.
+
+Ithren's son **Deshren** inherited the Radiance and a wasting sickness around 821. The Copper Orchard's masters came to Aseret with the dreams Tamekha had withheld. Deshren returned the Orchard's fields and began the regimen of gold, salts and resins in his own palace. The treasuries of Aseret, full of metal taken from the Basin's tombs, became his endowment, and the deeds of the confiscated land became the substance of his house. He died around 815. The masters performed the final rite and sealed the palace's inner courts.
+
+Within a season the dead king's stewards were collecting rent from the soldiers who farmed the confiscated fields, and the soldiers rose under Zaheret of Tenaret. In 814 the Arqeshite prince **Ashkur Ubar** entered the sealed courts with three of the dead king's former stewards to have their deeds confirmed, and the doors closed behind them. House-Builders count Deshren among the founders whose rite succeeded and call his realm the Court at Noon. Exorcists compare the stewards' rent demands to Nemeret's voice. The palace has stayed shut since Ashkur.
 
 ## The king at Delkos
 

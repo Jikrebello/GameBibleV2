@@ -36,11 +36,11 @@ Imperial service produced a shared public culture. Officers used royal titles an
 
 ## Inequality and incorporation
 
-The empire rewarded households which kept roads open and revenue moving. Provincial elites could enter royal service and educate their children at the court. Communities which resisted might lose land, workers and hostages. Military settlements created mixed populations around forts and relay stations, while deportation moved suspected rebels away from their local support.
+The empire rewarded households which kept roads open and revenue moving. Provincial elites could enter royal service and educate their children at the court. Communities which resisted might lose land, workers and hostages. Military settlements created mixed populations around forts and relay stations, while deportation moved suspected rebels away from their local support; after 508 BR the rebel harbour quarters of Tasar were sent to keep the relay stations of the Dawn Road.
 
 The same government could protect a pilgrimage road and punish the villages beside it. Vashari royal ideology described the road as a gift of ordered rule. Subjects judged that claim through the taxes, soldiers and market access they actually encountered.
 
-By 350 BR Vashari regional identities remained strong inside the ruling people. Vasharan subjecthood joined many populations to one crown. That diversity shaped every eastern war with Atherian powers, whose commanders repeatedly tried to detach cities and client rulers from the highland king.
+By 350 BR Vashari regional identities remained strong inside the ruling people. Vasharan subjecthood joined many populations to one crown. That diversity shaped every eastern war with Atherian powers, whose commanders repeatedly tried to detach cities and client rulers from the highland king. At Ilyessa in 493 BR the king's own subject crews detached themselves, rowing for an Atherian refuge fire when the royal granary fleet spoiled at anchor.
 
 ## Related histories
 

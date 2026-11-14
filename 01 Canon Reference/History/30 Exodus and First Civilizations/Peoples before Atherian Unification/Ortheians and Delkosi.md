@@ -22,11 +22,11 @@ Ortheian communities occupied upland towns, cultivated valleys and roads descend
 
 Kings drew soldiers from landholding households and negotiated with town councils for supplies. Marriage joined royal kin to port families and upland leaders. Captives and dependent farmers worked estates beneath these alliances. Public festivals celebrated the crown and the roads it protected, while local shrines preserved older relationships with place.
 
-Eryndor III used these resources to build a western hegemony and invade the eastern river world. Ortheians who joined him did so for wages, land, loyalty, adventure and plunder. Others opposed the burdens of his campaigns. The army spoke several related Atherian forms and included allied ports whose citizens remained politically separate.
+Eryndor III used these resources to build a western hegemony and invade the eastern river world. Ortheians who joined him did so for wages, land, loyalty, adventure and plunder; the infantry companies that killed his father at a pay table were paid with Olyssar's fields. Others opposed the burdens of his campaigns. The army spoke several related Atherian forms and included allied ports whose citizens remained politically separate.
 
 ## The Delkosi formation
 
-Delkos became the principal base for part of Eryndor's conquered army. After his death, commanders, soldiers and household claimants divided the eastern possessions. Local islanders lived beside Ortheian veterans, Arqeshite officials, Vashari allies, freed captives and families recruited from other ports.
+Delkos became the principal base for part of Eryndor's conquered army. The king died in 684 BR aboard the flagship of its lord, Serevan, and the ship carried his body, his gilded regalia and the descendants of the Terys families from the Nemeru shipyards to Delkos instead of to Ortheia. After his death, commanders, soldiers and household claimants divided the eastern possessions. Local islanders lived beside Ortheian veterans, Arqeshite officials, Vashari allies, freed captives, the Terys families and households recruited from other ports.
 
 The term **Delkosi** first named inhabitants of the city. It widened among people attached to its fleet, court and military settlements. Service, residence, marriage and public admission brought new households into the identity. A person could be Delkosi through civic life and remain conscious of Ortheian, Arqeshite or island ancestry.
 

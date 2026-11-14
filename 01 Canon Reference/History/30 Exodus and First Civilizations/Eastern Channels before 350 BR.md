@@ -19,7 +19,7 @@ Households around narrow crossings had land, kin, work and rites on both island 
 
 Caleran's direct presence here was generally thinner than on the Gateway-facing approaches. Paid crews, allied harbours, treaties and isolated stations mattered more than a continuous chain of holdings. Island families could support different patrons on different routes. Relations with the [[Arkenan and Saronikan Cities before the Empire|Arkenan–Saronikan city world]] brought Atherian language and civic practice into selected ports. These channels carried the League of the Eastern Oar's ship money and its chains after 491 BR. Pyrassan hulls were refused at Velathene c. 480, Elmarai pilot families were held c. 475, the gale came in 466, and Velathene's walls came down at the Chain Peace of 461.
 
-In 355 BR [[Marelith]] made an exceptional trek east of its ordinary central circuit to support Ardel Veyr. Istran Melvo destroyed the moving city and defeated Ardel's nearby main force in one operation among the central Thalassian anchorages. The [[Black Reef]] grounded along the eastward route.
+In 355 BR [[Marelith]] made an exceptional trek east of its ordinary central circuit to support Ardel Veyr, carrying among its fugitives Corial Draven, one of Teren Casvilar's killers. Istran Melvo held the moving city fast in the shallows with Pyrassa's harbour chain, burned it and defeated Ardel's nearby main force in one operation among the central Thalassian anchorages. The [[Black Reef]] grounded along the eastward route.
 
 At the 350 BR boundary the channels remained useful and politically unsettled. The Elmarai communities, independent island pilots, Atherian-speaking city households and foreign clients would enter imperial expansion from different starting positions.
 

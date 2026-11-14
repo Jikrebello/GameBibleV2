@@ -54,11 +54,13 @@ By 1300 it was closing. The third generation from the colt was thinning, Iqashar
 
 ## Death and grave
 
-Qarayel died in 1303, undefeated and without an accepted successor, while preparing a war against Iqashar. Burial riders concealed the grave and did not return, and a thousand horses were driven over the ground. The Moon Horde forbids the search, because discovery would become a claim to universal rule. The grave has never been found.
+Qarayel died in his tent in the spring of 1303, undefeated and without an accepted successor, while preparing a war against Iqashar. His sons' lines were still riding in when, on the first night, his old stallion, a grandson of the black colt, broke its tether and came to the tent. The watchers say they saw it go out into the grass with the dead man across its back and no one at its head. Every grace-mare in the great camp pulled her pickets and followed it into the dark. Nobody followed them; the wind-speakers forbade it, and the riders' own horses would not take the trail. On the eleventh day the herds came home, lean and quiet, without the stallion and without the body.
+
+Where he lies is the steppe's holiest secret, and the Moon Horde forbids any search for it, because discovery would become a claim to universal rule. Each Horde tells the night differently. White tellers say the stallion was taking him to the sky; Iron tellers say the mares knew where the old grace came from and took him back to it; Moon wind-speakers say only that the herds came home, and that is all a living person needs to know. The grave has never been found.
 
 ## The Partition of the Herds
 
-In 1304 his descendants divided what he had left, and what he had left was horses. The herds were partitioned by grace-line among his children's lines:
+In 1304 his descendants divided what he had left, and what he had left was the herds that had come home. They were partitioned by grace-line among his children's lines:
 - **White**, his eldest line through Temuchar, took the most numerous herds and a paternity quarrel.
 - **Iron**, his second line, took the black colt's daughters' lines and bred them back carefully. Its horses would stand beside the Covenant's own bound things, and Iqashar began hiring them that year.
 - **Moon** took the Nine-Mane Standard, the oldest mares and the wind-speakers, and with them the right to call a kurultai.

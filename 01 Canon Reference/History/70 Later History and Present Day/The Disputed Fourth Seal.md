@@ -13,7 +13,7 @@ tags: []
 ---
 # The Disputed Fourth Seal
 
-The Disputed Fourth Seal is the succession crisis that divided the Covenant after the death of the third Rightly-Sealed Caliph. Rival instruments named General Uthar ibn Qays and Husan ibn Raiq, Mujalib's grandson, as the lawful heir. Uthar secured the caliphate, while Husan and his household were killed after accepting safe conduct to arbitration. Their deaths at Bir Qassim gave a dynastic dispute its enduring theological and communal force.
+The Disputed Fourth Seal is the succession crisis that divided the Covenant after the death of the third Rightly-Sealed Caliph. Rival instruments named General Uthar ibn Qays and Husan ibn Raiq, Mujalib's grandson, as the lawful heir. Uthar secured the caliphate. Husan and his household died under safe conduct at the station well of Bir Qassim, where the bound keeper of the well would not draw water for them and the caliph's escort killed those the thirst had left. Their deaths gave a dynastic dispute its enduring theological and communal force.
 
 ## The Two Instruments
 
@@ -26,9 +26,17 @@ The college condemned the Counter-Instrument. Ruqaiya's party condemned the Four
 
 ## Bir Qassim, 603 AR
 
-Husan and seventy-two members of his household accepted safe conduct to arbitration. Flood damage forced their escort from the named road. A travelling court ruled the protection void because the route was an essential term. Husan's party was killed at the dry wells of Bir Qassim.
+For six years Husan kept to the dry country south of the Basin, among well-clans whose station wells Mujalib's household had sealed in the founding years. In the summer of 603 he agreed to go north to arbitration at Iqashar under a safe conduct from the Marshal of the Northern Roads. The instrument named fifty-eight travellers, Husan and his household, and bound them to the North Well Road by Qafra, Bir Nadim and Bir Qassim and no other way. The camel-men and drovers the household hired were not named in it.
 
-The annual **Mourning of the Wells** recites the safe-conduct clause by clause, answering each with: *And yet the well was dry.*
+A flash flood took the causeway at Bir Nadim, and the escort led the travellers six miles round by a drover's track before it came back to the named road above Bir Qassim. Every station well on that road had been kept since Mujalib's day by one of the bound offices of the 4,444, which lowered and raised the bucket for those who travelled under the Covenant's protection. At Bir Qassim the keeper drew for the escort and for the unnamed drovers. For the fifty-eight it would not draw: their bucket came up out of the dark wet and empty, and the rope ran back through the hands of whoever held it.
+
+The escort's captain sent to the travelling court at Qafra to ask whether the protection still stood. The household waited in the well-yard in the heat while escort soldiers and drovers passed them what water they carried. On the second day the court's answer came. Its presiding jurist, **Jarud ibn Sulayt**, ruled the protection void because the route was an essential term, and from that hour the travellers were rebels under arms and water given to them was aid to rebels. The drovers went on passing skins across the yard at night. By the third evening seven of the household had died of thirst, the oldest and the youngest among them.
+
+That night Husan stood at the well-mouth with the instrument and read it aloud, clause by clause. After each clause his people let down the bucket, and after each clause it came up dry. At dawn the escort came to take their arms. They would not give up their arms at a well that would not give them water, and the escort killed thirty-four of them in the well-yard, Husan among them. The captain gave the seventeen women and children who were left to the drovers, with water and camels, and they went west towards the strait. His men dug the graves. He paid for thirty-four stones, a fact the Mourning remembers with contempt rather than gratitude, and the mourning houses later paid for seven more.
+
+Within a year the well was dry for everyone. Mourners say it went dry on the morning of the killing; Witnessed-Seal registers record that the college at Al-Qahur recalled the keeper from Bir Qassim to stop pilgrims drawing from it, and that the unkept shaft silted. It has given no water since.
+
+The annual **Mourning of the Wells** repeats Husan's reading. It recites the safe-conduct clause by clause and answers each with: *And yet the well was dry.* Then the forty-one names are read. Witnessed-Seal registers count thirty-four dead, those killed under arms; the mourning houses count forty-one, and say the thirst killed as surely as the swords.
 
 ## The Seal on the Frontier
 
@@ -38,7 +46,7 @@ The Velian cities were taken under Uthar's seal, and their pre-conquest charters
 
 ## The Divide
 
-[[The Witnessed Seal]] teaches that authority continues through public attestation and the community's jurists. [[The Sealed Blood]] teaches that succession continued through Ruqaiya and the Veiled Wasiyin.
+[[The Witnessed Seal]] teaches that authority continues through public attestation and the community's jurists. [[The Sealed Blood]] teaches that succession continued through Ruqaiya and the Veiled Wasiyin. Bir Qassim gave each side its lesson. Witnessed-Seal schools learned that an instrument can be valid and wicked, and their penitential jurists teach it as **lawful and wrong**. The Sealed Blood learned that the Covenant's courts and its bound offices will obey an instrument over the Prophet's own blood, and Sealed-Blood villages still draw their water by hand and let no bound office keep their wells.
 
 Both instruments reportedly survive. The Fourth Seal rests in the Vault of Names at Al-Qahur, in the Deep Vault, which since 1059 has been a separate house from the Living Register at Iqashar; Qazmarid claims the Counter-Instrument lies beneath the Caliph-Wasi's throne. Opening either for forensic examination would void the succession it might prove. The dispute is therefore decidable in principle and undecidable in practice.
 

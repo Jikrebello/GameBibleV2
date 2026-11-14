@@ -19,7 +19,7 @@ Most of the debts are recent. In and after the Grey Sweat, Fiorenzia's Medori cl
 
 ## Jirahar
 
-Migdal Dahava competes with Medori credit while clearing obligations the Bank cannot safely hold. Migdal Yamma and the Sea Fleets work through Sermoran shipping. Orsena and Vardessa maintain protected Jirahar quarters whose sanctuary, food law, schools, and burial rights predate many citizen houses; Turning Companies use their river yards and fairs. Cities value Jirahar routes and repeatedly resent the independence that makes them useful. When Meshalem's return movement collapsed in 1291, Sestaran creditors foreclosed on tower-town property sold for the journey, and Jirahar houses remember which cities bought cheap.
+Migdal Dahava competes with Medori credit while clearing obligations the Bank cannot safely hold. Migdal Yamma and the Sea Fleets work through Sermoran shipping. Orsena and Vardessa maintain protected Jirahar quarters whose sanctuary, food law, schools, and burial rights predate many citizen houses; Turning Companies use their river yards and fairs. Cities value Jirahar routes and repeatedly resent the independence that makes them useful. When Meshalem's return movement broke up at the Empty City in 1291, its families could not go home, because the Covenant had declared their tower-town charters forfeit; Sestaran creditors foreclosed on property mortgaged for the journey, and Jirahar houses remember which cities bought cheap.
 
 ## The Covenant
 
@@ -43,7 +43,7 @@ Both empires borrow money, buy arms, hire ships, contest church jurisdiction, an
 
 Thalmyria remembers Sestaran aid, wartime profiteering and debt in the same breath. The Crimson Pilgrimage and the siege of Zehrim were financed against Saronikan customs and antiquities concessions, and Veridun's chancellery has been paying for them for thirty-five years.
 
-Eclessia owes Sestara in a stranger currency. The Medori hold the Chancery of Sendings' registers, the record of every assurance letter sold under Alessior VI, and the Council of Veridance had to buy copies sheet by sheet so that the Order of the Lantern could sing the rites those letters promised. The Sanctum, the reformed duchies and the Freeflame princes all borrowed from the same houses during the Reform Wars. In 1345 a Sermoran pamphlet calling the Medori vault "the Bank of the Dead" brought down the family in Fiorenzia for three years, and the Vortharan brokers who once bought unsung letters from the Sanctum's own treasurer have never been found.
+Eclessia owes Sestara in a stranger currency. The Medori hold the Chancery of Sendings' registers, the record of every assurance letter sold under Alessior II, and the Council of Veridance had to buy copies sheet by sheet so that the Order of the Lantern could sing the rites those letters promised. The Sanctum, the reformed duchies and the Freeflame princes all borrowed from the same houses during the Reform Wars. In 1345 a Sermoran pamphlet calling the Medori vault "the Bank of the Dead" drove the family out of Fiorenzia for three years, and the city bought them back as dukes to recover its own dead. The Vortharan brokers who once bought unsung letters from the Sanctum's own treasurer have never been found.
 
 Neither empire can conquer the Concord cheaply without driving the other cities into automatic muster.
 

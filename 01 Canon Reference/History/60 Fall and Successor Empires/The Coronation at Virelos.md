@@ -18,9 +18,9 @@ In 922 AR, representatives of the mountain armies, refuge cities, monasteries, s
 
 ## Why an Emperor
 
-In the winters after Caelmount the valleys that had broken their own terraces to win it went hungry, and the refuge councils could not agree who should feed whom. The resistance needed one command for taxation, diplomacy, land grants and war. A council could defend separate valleys; it could not decide whose register would govern returned land or speak for Atheria abroad.
+In the winters after Caelmount the valleys that had broken their own terraces to win it went hungry, and the refuge councils could not agree who should feed whom. Caedros had promised Caelmount bread until its terraces were rebuilt, and when begging and buying could not keep the promise he took Virelos in 921 and opened its granaries to the broken valleys. The leagues that crowned him the next year had watched him pay a debt the councils had let lapse. The resistance needed one command for taxation, diplomacy, land grants and war. A council could defend separate valleys; it could not decide whose register would govern returned land or speak for Atheria abroad.
 
-Caedros claimed continuity without pretending uninterrupted legality. His title rested on the argument that imperial obligation had survived the imperial court.
+Caedros claimed continuity without pretending uninterrupted legality. The last emperor had surrendered himself to the Covenant by his own instrument, and the refuge had governed in a captive's name until his death in 908. Caedros's title rested on the argument that imperial obligation had survived the imperial court and the emperor's own surrender.
 
 ## The Rite
 

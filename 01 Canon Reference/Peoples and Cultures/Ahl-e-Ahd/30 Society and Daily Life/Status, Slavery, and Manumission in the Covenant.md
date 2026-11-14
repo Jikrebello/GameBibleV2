@@ -31,7 +31,7 @@ Freedom may be purchased, granted, inherited through a clause, earned after fixe
 
 ## Release at Death
 
-A bound person's name is released by a witnessed entry in the register at death. Custodians have reasons to delay it, since a released debt-name is a debt written off, and families have long feared that an unreleased name keeps something of the dead in custody. The fear has moved history. In occupied Caleran in 957 a custodian refused the release entry at a bound dockworker's funeral, and the mourners' riot became the revolt that ended the occupation. During the Grey Sweat of the 1230s and 1240s deaths outran the witnesses needed for release; the Covenant remembers those years as the Emptying of the Benches.
+A bound person's name is released by a witnessed entry in the register at death. Custodians have reasons to delay it, since a released debt-name is a debt written off, and families have long feared that an unreleased name keeps something of the dead in custody. Rab Yequtiel of Zanthir, a Jirahar physician who witnessed bound deathbeds for fifty years, wrote in *What the Register Keeps* (before 831) that the register holds the name and lets the person go; custodians have quoted him at bedsides ever since, and families have seldom believed them. The fear has moved history. In occupied Caleran in 957 a custodian refused the release entry at a bound dockworker's funeral, and the mourners' riot became the revolt that ended the occupation. During the Grey Sweat of the 1230s and 1240s deaths outran the witnesses needed for release; the Covenant remembers those years as the Emptying of the Benches.
 
 ## Reform and Resistance
 

@@ -14,7 +14,7 @@ tags: []
 ---
 # The Reclamation of Caleran
 
-The Caleran campaign of 950-962 AR recovered the old Atherian capital and opened the central lowlands. It was the sacred midpoint of the Long Reconquest. The city was taken by siege, by revolt within its occupied districts and, in the end, by the voice of one man: its Covenant amir, Durayd ibn Sahl, who held Caleran's oaths in his own name and surrendered them.
+The Caleran campaign of 950-962 AR recovered the old Atherian capital and opened the central lowlands. It was the sacred midpoint of the Long Reconquest. The city was taken by siege, by a revolt that began at a funeral, and in the end by a fight over a lamp: its Covenant amir, Durayd ibn Sahl, tried to carry the Eternal Ember off to buy his way home, and the Ember's own Covenant keepers held it against him. He fled by sea, and the keepers made the terms on which the city opened.
 
 ## The city the army came for
 
@@ -38,11 +38,13 @@ The outer works themselves cost the besiegers dearly. Among the commanders who t
 
 ## Caleran, 957 AR
 
-The city fell after a combined siege, negotiated surrenders, and revolt within occupied districts. The revolt began at a funeral. The year before, the occupied parishes had heard a Caleran voice cry out of an iron frame; in the spring of 957 a custodian refused the release entry for a bound dockworker, and the mourners carried the coffin into the custodian's court. The quarter rose behind them. With no army coming from the north, Durayd opened negotiations.
+The city fell after a combined siege and a revolt within the occupied districts. The revolt began at a funeral. The year before, the occupied parishes had heard a Caleran voice cry out of an iron frame; in the spring of 957 a custodian refused the release entry for a bound dockworker, and the mourners carried the coffin into the custodian's court. The quarter rose behind them, and the next quarter rose behind it.
 
-The southern cities had sworn their oaths to Durayd, so he could release them, and he surrendered Caleran in his own name in the glazed courtyards of the occupation quarter. Horn players on the walls sounded the three broken notes, and his terms named the protected before anything else: the lives of the garrison families, the safety of the surrendered quarters, and the discharge of the Ember's account on payment. Iqashari chroniclers say he surrendered what he had stolen. The occupation-born families who later went north said Iqashar had abandoned him. One tradition puts him dead in the forum the same day as Caedros; another has him growing old in Qabir.
+With no army coming from the north and the parishes in the streets, Durayd decided to go home, and he could not go home with nothing after twenty-six years of defying Iqashar. In the second week of the revolt he sent his household guard to lift the Ember from the basilica of the Celestial Forum and carry it to his ships. The keepers barred the doors against him. They were the third generation of Covenant keepers, born in the occupation, and their own names stood pledged that the lamp would be neither divided, removed nor put out. The guard broke the doors and fought the keepers at the lamp, and eleven keepers died on the basilica floor before the funeral crowds and the deacons came up from the quarters and drove the guard out. The lamp was never moved. Durayd sailed for Qabir that night with his household and his treasury and left the garrison families behind.
 
-Thalmyric troops found the Eternal Ember still burning under Covenant guard, accompanied by fifty-two years of fuel and custody records.
+At dawn the parishes opened the river gate. The Thalmyric army came in through streets the revolt already held, and found the forum precinct closed and the surviving keepers on its steps. They would not open it until the army's heralds heard their terms. Horn players on the walls sounded the three broken notes, and the keepers' terms named the protected before anything else: the lives of the garrison families their amir had abandoned, the safety of the surrendered quarters, and the discharge of the Ember's account on payment. Iqashari chroniclers say Durayd ran from what he had stolen and tried to steal the one thing that was not his. The occupation-born families who later went north said Iqashar had abandoned him first. He grew old in Qabir as the emir's guest.
+
+Thalmyric troops found the Eternal Ember still burning under Covenant guard, accompanied by fifty-two years of fuel and custody records and the blood of its keepers on the floor around it.
 
 Veridun paid the invoice in full. The payment acknowledged neither ownership nor gratitude; it acknowledged that the occupation had preserved what it could not extinguish. Covenant jurists add that it released the keepers' pledged names, and they cite it as proof that even the People of the Lamp honour a deposit.
 
@@ -52,7 +54,7 @@ Caedros I entered the martyrs' precinct in the former imperial forum and died at
 
 Caedros II secured the city, coast road, and immediate river districts. He rebuilt walls, protected surrendered quarters, and made Caleran the Patriarchal and pilgrimage centre. The returners cut the words of Sarion the Pale, the march monk stoned in the Forum during the last emperor's Jubilee, onto a memorial wall: *"The inked ones are coming. They walk with chains and offers of peace. The crown will burn in silence."* The imperial court remained at Veridun because the return war was not over and the refuge institutions could not simply be uprooted.
 
-Durayd's surrender released Caleran and nothing else. The amirs of the other occupied districts had sworn their garrisons through him; now each swore them again to himself, and by 962 the heartland beyond the coast was a dozen separate amirates. The next ninety years of the Reconquest were fought against them one at a time.
+Durayd's flight lost Caleran and left everything else hanging. The amirs of the other occupied districts had sworn their garrisons through him, and an oath to a man in Qabir defended nobody's walls; each swore his garrison again to himself, and by 962 the heartland beyond the coast was a dozen separate amirates. The next ninety years of the Reconquest were fought against them, mostly at the canal heads in the hills that watered their fields.
 
 ## Navigation
 

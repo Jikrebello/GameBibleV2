@@ -14,7 +14,7 @@ tags: [world-historical-atlas, imperial-founding]
 ---
 # Seluc Varroth
 
-Seluc Varroth, born in 414 BR, was the third member of the government that divided Atherian military authority after Casvilar's assassination. His command of magazines and connecting routes made him important to the coalition. He survived the loss of his military power and retained a senior religious office into Thalion's settlement.
+Seluc Varroth, born in 414 BR, was one of the Four at the Stores who governed Caleran after Casvilar's assassination, and First Celebrant of the Common Sky. His ruling of 367 left the Red Field open for twenty years; his augurs kept the register into which the partners wrote their enemies' names; and in 350 he refused to declare the Field closed for Thalion, which is why the Red Star's priests walked ahead of his college for the rest of the Age of Glory.
 
 ## Supply and public standing
 
@@ -24,29 +24,23 @@ His household received associates with considerable ceremony. Varroth valued pre
 
 During the disorder after 370 BR, troops under his authority occupied a connecting belt between the Aurin and eastern supply routes. Thalion and Velsar needed access to its stores. His inclusion in their agreement therefore reflected resources he could actually withhold.
 
-He also held something neither of them could seize. As First Celebrant of the Common Sky he was the officer who could say whether Casvilar's Red Field still stood. Velsar claimed the Wardenship as Casvilar's senior lieutenant, Thalion as his heir. In 367 Varroth ruled against both. A Warden's acceptance belonged to the man who had stood bareheaded before the Red Star, he declared, and could no more be inherited than a wound; and a contest fouled with blood before it was opened could be closed by no one who had not fought it. The Field therefore stood open and unclaimed. Every commander in Atheria understood what that meant: none of them could safely disband an army while it lay open. The ruling bought Varroth his seat as surely as his magazines did.
+He also held something neither of them could seize. As First Celebrant of the Common Sky he was the officer who could say whether Casvilar's Red Field still stood. Velsar claimed the Wardenship as Casvilar's senior lieutenant; Thalion refused it. In 367 Varroth ruled. A Warden's acceptance belonged to the man who had stood bareheaded before the Red Star, he declared, and could no more be inherited than a wound; and a contest fouled with blood before it was opened could be closed by no one who had not fought it. The Field therefore stood open and unclaimed while any of the seven men who had killed Casvilar lived. Every commander in Atheria understood what that meant: none of them could safely disband an army while it lay open. The ruling bought Varroth his seat as surely as his magazines did.
 
-## The government of three
+## The Four at the Stores
 
-The public commission of 367 granted the partners powers over appointments, levies and confiscations. Varroth administered the connecting command while Velsar fought the principal republican armies and Thalion supervised western resources and payments.
+Varroth joined Velsar, Thalion and the senate's speaker Belisar Venn in the store-house above the muster ground, where the four divided the country by what it could feed. His garrisons held the magazines along the passes while Velsar fought the eastern armies and Thalion paid the Aurin companies.
 
-Varroth shared responsibility for the proscriptions. He consented to the killing of a cousin whose household had supported the conspirators. The decision helped secure agreement with his colleagues and demonstrated the limits of kinship when his own standing was at risk.
+Tolm's register of challengers lay with Varroth's augurs. When Velsar proposed writing the partners' enemies into it, so that killing them would count as war on the open Field, Varroth's clerks wrote the names. Families paid his augurs to keep a name out and rivals paid to put one in, and his college grew rich and hated that winter. He consented to the writing-in of a cousin whose household had sheltered one of the seven, and to Venn's.
 
-After victory in 363, responsibilities were redistributed. His command contracted to particular magazines and naval support districts around the eastern approaches. He retained influence, but the larger armies and richer settlements increasingly answered to the other two men.
+## The burning of the magazines
 
-## The unsuccessful claim
+The writing-in was supposed to bring the Field's closing nearer. The war spread instead, and it reached Varroth's own command. In the winter of 364 his pass garrisons, unpaid since the autumn, fought each other over the magazines at the head of the Aurin road and burned them. Old soldiers said the Red Star had been given helpless men instead of fighters and was taking its contests where it found them; Varroth's augurs called it mutiny. With the magazines went the stores on which his place among the partners rested. He kept his estates, his office and a voice in the store-house, but the armies and the richer settlements answered to the other two men from then on.
 
-Istran Melvo's defeat of the sea-heir Ardel Veyr in 355 brought surrendered forces and harbours within reach of the coalition. Varroth attempted to claim authority over them. Such a settlement could have restored the military weight he had lost.
+## The refusal of 350
 
-Thalion approached the troops with payment and assurances of continued service. Varroth's own followers accepted those terms, leaving him unable to enforce his claim. He surrendered military command and withdrew to the resources of his household.
+Varroth's last act in the founding wars was a refusal. In 350 Thalion came back from Sarqen with every one of the seven dead and stood bareheaded on the muster ground. Varroth would not declare the Field closed. His own ruling said that only a man who had fought in the contest could close it, and Thalion had never stood on any field. Some said he held to his principle; others said he wanted the price of his consent.
 
-## First Celebrant of the Common Sky
-
-Varroth retained the office of First Celebrant of the Common Sky, a senior position responsible for public ceremony and the coordination of established priestly duties.
-
-The office gave him a recognised place in occasions that the new ruler wished to present as orderly continuations of public life. Varroth could appear beside men who had taken his soldiers and provinces. His precedence also limited how easily Thalion could reshape ceremony around his own household.
-
-Astaroth's elevation in imperial rites changed the balance within public religion around 350 BR. His own ruling of 367 had prepared it: when Thalion finally stood on the muster ground with no named challenger left alive, the augurs declared the Field closed into his command, and the Red Star's priests took first place in ceremonies of victory and command. Varroth continued in office, presiding over a calendar of festivals in which his own college now walked second.
+The priests of the Red Star, who had blessed Thalion's painted war boards for fifteen years, declared the Field closed and its charge taken into his command. Thalion gave them first place in ceremonies of victory and command from that day. He did not remove Varroth, who had shared the store-house with him and knew where the names had come from. Varroth remained First Celebrant, presiding over a calendar of festivals in which his own college now walked second. Celebrants of the Common Sky maintained for centuries afterwards that the Field had never been closed, only emptied.
 
 ## Further reading
 

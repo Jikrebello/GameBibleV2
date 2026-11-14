@@ -20,6 +20,8 @@ Fifteen reader and reference articles establish the political sequence, provinci
 
 > [!note] Amended 14 November 2026 — Causality Pass 03
 > [[Causality Pass - 03 Age of Glory and the Bridge to 0 AR]] was decided under [[Causality Pass - Direction]] and written into the reader articles. This review now carries the rulings for the speaking portrait (247 BR), the wardens' test and the Star's share (from 326 BR), the four pressures of 151 BR–0 AR, the War of the Two Dawns and the Qiryath charter, one Egypt, and the low door (61 BR). The author-only narrative of 151 BR–0 AR is under [[#The bridge to 0 AR]]. Where this review and the proposal file differ, this review controls.
+>
+> Causality Pass 10A (same day) changed Thalion's reign and heir: no adoption of Meren, who is Thalion's son by Merath Nerethan; rule from the store-house without restored republican forms; the governor's oath at Sarqen's landing; Thalion's death at that table in 318; and the painted board as the origin of the accession portrait. [[Causality Pass - 10A Bending the Founding]].
 
 ## Authority and sources
 
@@ -43,8 +45,8 @@ G-09 remains the received tale and local custom. Its new historical companion fi
 
 | Period | Ruler or house | Historical development |
 |---|---|---|
-| 350–318 BR | Aurelius Thalion | Demobilisation, professional units, central appointments, provincial assessments and selected Meren succession. 326: the untested treasury hall falls on Caelor (d. 324); the wardens' test, the Star's share and standing under |
-| 318–286 | Meren I | Confirmation of settlement, charters and provincial racing circuit |
+| 350–318 BR | Aurelius Thalion | The great discharge (350–346), rule from the store-house above the muster ground with the senate left the city's business, professional units, central appointments, provincial assessments; Sarqen's governor swears the Table Oath at the landing each spring. 326: the untested treasury hall falls on Caelor (d. 324); the wardens' test, the Star's share and standing under. Thalion dies at the spring renewal on Sarqen's landing in 318 |
+| 318–286 | Meren I | Thalion's younger son by Merath Nerethan; swears the Table Oath at his accession. Confirmation of settlement, charters and provincial racing circuit |
 | 286–263 | Valeran I | Meren's adopted son and son-in-law. Waterworks, roads, provincial travel and quarry repression; the 274 strike over stone for the Star's share |
 | 263–247 | Olarion | Court extravagance, purges, confiscation and food violence; loyalty rites and denunciations before the accession portrait |
 | 247–246 | Four Eagles | Mott, Daran Thalion, Halven and Veloran fight through overlapping resources; the Face speaks, Mott governs through it, the searches, Samor's cloak |
@@ -60,7 +62,7 @@ G-09 remains the received tale and local custom. Its new historical companion fi
 | 42–24 | Othran I | Eastern household, provincial residence and birth of Isfir in 33 |
 | 24 BR–0 AR | Othran II at the boundary | Established imperial government encounters the Redeemer movement; later reign deferred to Package 3 |
 
-Thalion dies naturally in 318 after naming Meren. Meren is the human son of Evara and Velsar and becomes Thalion's political son through adoption. From 350 BR to 0 AR, imperial command passes among men. Adoption can carry a claim through a daughter's household or bring in a proven commander. Cassara, Tessa, Mariel and Lethara exercise influence through stores, correspondence, patronage and estates. The Four Eagles fight a short civil war over one imperial command.
+Thalion dies naturally in 318, at the table on Sarqen's landing, with Meren already recognised by the army and the governors. *(Amended by [[Causality Pass - 10A Bending the Founding]]: Meren was formerly the son of Evara and Velsar, adopted.)* Meren is Thalion's own younger son by Merath Nerethan, elder sister of Samyra, born at Esharat in 358; he becomes heir by Caelor's death in 324 without adoption, and through him the House of Thalion carries Nerethan descent. Valeran I is the house's only adoption. From 350 BR to 0 AR, imperial command passes among men. Adoption can carry a claim through a daughter's household or bring in a proven commander. Cassara, Tessa, Mariel and Lethara exercise influence through stores, correspondence, patronage and estates. The Four Eagles fight a short civil war over one imperial command.
 
 All birth, reign and relationship intervals fit ordinary human lifespans. Later emperors claim continuity with Thalion without possessing his body, soul or a supernatural hereditary substance.
 
@@ -70,7 +72,7 @@ The core government remains at Caleran in the Aurin heartland. Raveth is an east
 
 Qiryath passes from Vasharan to Atherian supremacy under the late Serrats (author-only c. 82–80 BR) through the War of the Two Dawns and the Trial before the Stars; Vashar holds it as a lease through the Dawn Portion, which ends in 65 AR. At 0 AR Vashar keeps its highland core, Avesh and most of the Ubar. Qahur is three crowns inside the Atherian sphere and is under no direct Atherian rule before 0 AR: Qemaret's lower river is bound by grain and harbour contracts with an Atherian station; Tenaret and Sakhret are crowned clients; Vasharan tribute lapsed during the War of the Two Dawns. Sarqen remains the setting's only royal country placed under a governor after its queen's fall.
 
-Olveth is the already established Vardeni upland settlement. Its shelter-crown deepens that location without creating another people or Menhir. Sarqen remains the enlarged Second Harbour and gateway provincial centre.
+Olveth is the already established Vardeni upland settlement. Its shelter-crown deepens that location without creating another people or Menhir. Sarqen remains the enlarged Second Harbour and gateway provincial centre. Its governor swears the spared towns' Table Oath at the landing every spring before the towns supply him, a condition Thalion accepted in 350; the meal without hierarchy of worth is the province's standing counter-rite to the imperial image. Samyra lives at Esharat as the towns' guest until 333, and Amesar in sanctuary on Ilamar until c. 320.
 
 The empire's southern edge meets varied Folk societies through forts, treaties, recruitment and war. The western northern dry belt retains camel-and-well cultures preceding the First Catch. Sestaran harbours occupy varied political relationships. Jirahar communities retain distinct ancestry, law and religion in tower towns, diaspora quarters and provincial settlements. None becomes a mere Atherian regional caste.
 
@@ -96,6 +98,8 @@ The Crown of Olveth is an `infrastructure-office` attached to one shelter purpos
 The Emperor after the Emperor is a dependent Mask of Pride formed through standardised ruler imagery, praise and desire for unanswerable sovereignty. Its earliest well-supported independent response occurs during the empty succession of 247 BR. It can reproduce the imperial persona and intensify recognition; it cannot know unknown facts, command distant forces or determine rightful succession. Human emperors supply imagery and feeding architecture without creating the original Idol Throne.
 
 No emperor becomes a god, Saint, Patron or immortal office through cult. Every ruler and mortal actor has a complete human soul. The Mask, portraits, public office, bodies, residues and legends remain separate. No Regnant succession or autonomous Archmask is promoted.
+
+**The painted board (from c. 366 BR).** The accession portrait began as one of the painted boards Thalion's companies carried and swore to while he refused to take the field in person; it hung in the Caleran audience hall from 350, and every emperor from Meren was confirmed before it, each reign painting a new face over the old pose. Oaths and praise addressed to an absent ruler's standardised image are the earliest feeding architecture of the dependent Pride Mask. Nothing responded before 247. See [[Imperial Founding - Authorial History and Integration Review#Causality Pass 10A amendment (14 November 2026)]].
 
 **The speaking portrait (247 BR).** The Face's answer is the Mask's first autonomous response: it acts where its image is seen and addressed and intensifies obedience to the represented office. It knows nothing of stores or armies; the grain answer was the expected imperial sentence, and Mott chose the searches. Covering one image interrupts its pull in that room without starving it. Olarion, Thalion, Mott and each claimant remain distinct persons with complete souls; the Mask served whoever stood beside it. No second copy answered in 247. The Celebrants of the Veil keep the Face to 0 AR; the Red Star's priests keep the provincial copies and army standards, and the appetite moves outward through them. Whether the cloak fell before Mott died is disputed in-world and authorially open.
 

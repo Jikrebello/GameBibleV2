@@ -28,7 +28,7 @@ In 711, during the War of the Two Oaths, the claimant in Caleran sent the Velos 
 
 The Qahirid resurgence struck the imperial heart and northern approaches before turning toward the eastern provinces. News arrived through refugees, broken tax convoys, and contradictory Church letters. No examined summons came from Caleran in 903–905, and the east did not march; its revenue and soldiers were its own. Some governors waited for orders that would never come; others converted imperial authority into hereditary rule.
 
-Caleran's loss severed military pay, grain schedules, episcopal appeals, and the legal archive on which provincial titles depended.
+Caleran's loss severed military pay, grain schedules, episcopal appeals, and the legal archive on which provincial titles depended. Refugees brought word that on the last day Corvenas III had carried the Velos Standard onto the land wall and called on the Fire before both armies, and that nothing came; the Standard Aurelium had recorded silent in 711 had failed in public a third time. A copy of the Instrument of the Ash Hall, by which he surrendered himself and his relics, reached Aurelium within the year. Eastern preachers read it aloud for a generation as the end of a court that had never let its relics be examined.
 
 ## The Third Crusade, 906-908 AR
 

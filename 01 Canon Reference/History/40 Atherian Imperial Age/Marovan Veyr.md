@@ -50,9 +50,11 @@ Veyr died of fever on Ilamar in 371 BR, a year before his rival was killed. In t
 
 ## The sea-heir
 
-Veyr's son Ardel gathered followers among displaced officers, island communities and refugees. His power at sea rested partly on his father's old friendships. He sheltered people fleeing the proscriptions and forced merchant shipping to serve his fleet.
+Veyr's son Ardel gathered followers among displaced officers, island communities and refugees. His power at sea rested partly on his father's old friendships. He sheltered people fleeing the Writing-In, when the Atherian partners had their enemies' names entered in the register of challengers and killed them on Caleran's muster ground, and he took in Corial Draven, one of the seven who had killed Casvilar. He forced merchant shipping to serve his fleet.
 
-Ardel's defeat in 355 and execution the following year ended the family's military challenge. Refugees who had relied on him faced dispersal, slavery or submission to old enemies. Veyr's eastern settlements went on shaping coastal politics long after the imperial histories had turned his defeat into a step towards unity.
+Ardel's defeat in 355, when Istran Melvo burned Marelith with Draven aboard, and his execution the following year ended the family's military challenge. Refugees who had relied on him faced dispersal, slavery or submission to old enemies. Veyr's eastern settlements went on shaping coastal politics long after the imperial histories had turned his defeat into a step towards unity.
+
+The room above Ilamar's harbour where Veyr died had one more famous tenant. In 350 Casvilar's son Amesar took sanctuary on the island and lived there for the rest of his life. He finished the history Arest Corven had begun at Veyr's bedside, and Corven's account of Veyr reached later readers through him.
 
 ## Further reading
 

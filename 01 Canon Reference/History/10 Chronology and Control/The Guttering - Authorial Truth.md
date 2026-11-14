@@ -39,7 +39,9 @@ The cost structure holds throughout. Sanctity cannot be bought, so the court's p
 
 **The Kindling Question.** Veridun learned from the Guttering that office cannot command the Fire and only witnessed presence counts (theophany). Aurelium learned that unexamined claims hide fraud (protocol). Both lessons are true, and each church remembers half of the five centuries. The ruling on why hymns kindle remains the one in [[Real-History Concordance]]: by the righteousness and purpose of the singer.
 
-**Caleran and Veridun.** In 905 Caleran's rites were performed by a court whose purpose was to keep what it held. The Ember went on burning through fifty-two years of occupation; it neither defended the city nor went out. Veridun in 906 was a refuge full of people intent on protecting the defenceless, beside Veridun Minor's hearth tradition, which had never been an endowed office. The Veil was a commission given for a city's need. Who was sent stays unresolved, and so does whether the storm was part of the answer. The Flame protects persons, not possessions.
+**Caleran and Veridun.** In 905 Caleran's rites were performed by a court whose purpose was to keep what it held, and Corvenas III's last public call on the wall had the same purpose; it failed for the Guttering's reason. The Ember went on burning through fifty-two years of occupation; it neither defended the city nor went out. Veridun in 906 was a refuge full of people intent on protecting the defenceless, beside Veridun Minor's hearth tradition, which had never been an endowed office. The Veil was a commission given for a city's need, and it came through the hearth-keepers' disobedience: they refused the council's order to burn the flour and fed the city instead, and the smoke of that baking is what lay over the valley. The smoke's stillness for three days and the shared dreams were the commission's work. Who was sent stays unresolved; Thalmyric piety's Amaryah is one possibility among several. Whether the levies' going home was part of the answer, or the act of unpaid men in mountain snow who had dreamed of home, stays unresolved too. The Flame protects persons, not possessions; Corvenas signed for his relics and the women of Veridun Minor burned none of the bread.
+
+*Bent 14 November 2026 by [[Causality Pass - 10D Bending the Long Frontier and the Covenant]]: the Veil is no longer a figure spreading fire in the sky before a storm, and the Fall's 1453 furniture (the young conqueror at the walls, two weak points, three possible deaths, the great church sealed) is replaced below.*
 
 **After 905.** The office-church died with Caleran. The refuge leagues chose chaplains by service, and the march monasteries' living-witness rite became the model for the army chaplaincy. Most who fought the return fought to protect people, which is why the 950s produced the first documented battle manifestations. The reliability faded again once the restored empire re-endowed its church; the Ashfall Omen of the 980s is the same pattern in its second generation, and Leovar III's reading of it is his own.
 
@@ -115,7 +117,7 @@ The **Velos Standard** is the battle standard the court held to have been carrie
 
 - **711.** The Caleran claimant in the War of the Two Oaths sent it east to rally the provinces. **Simeon of Aurelium** (bishop c. 694–731) examined it publicly and recorded it silent. It was silent because of the purpose it was sent for: a summons to civil war. Simeon's verdict was right in outcome and wrong in reasoning; the protocol tradition's founding verdict condemned a true relic for the wrong cause. Neither church could survive learning this.
 - **876.** Corvenas II carried it before Oronda to receive the Velian cities under a pretext. It was silent again, for the same kind of reason.
-- **884–905.** Corvenas III put it in the Ash Hall. It is the "object listed in Corvenas III's final inventory" whose later fate is a Caleran campaign hook.
+- **884–905.** Corvenas III put it in the Ash Hall. On the last day of the siege he carried it onto the land wall and it was silent a third time, for the same kind of reason: a call to keep what he held. It is the "object listed in Corvenas III's final inventory", the schedule of the Instrument of the Ash Hall, whose later fate is a Caleran campaign hook.
 
 The east tested honestly after 653 because its bishops kept the revenue whichever way a test fell. Protocol was born where the truth was cheap.
 
@@ -152,11 +154,19 @@ In 884 Qahir obtained the **Ruling of the Broken Suspension** from the Witnessed
 
 **The crusade prisoners.** The first name-cages held Second Crusade prisoners Caleran never ransomed, condemned under the 884 ruling. One of the two great Slave-Soul engines at the Fall held such a prisoner. Whether he is the soul released at Crown Gate in 907 is open. Thalmyric "martyr irons" is therefore literal.
 
-**Astaroth.** Qahir's engineers asked the Red Star for the land walls' failure points under the load of the great engines, in the standing practice of builders and siege engineers ([[Imperial Founding - Authorial History and Integration Review|the Darneth precedent]]). Astaroth answered within his grammar: a field, a load, a price. The price was a lesser engine frame broken under the test load. The answer was structural knowledge and nothing more; it pronounced no verdict on Caleran. The Star that answered Astrion's test at Caleran in 350 answered Caleran's enemies in 904.
+**Idris's absence.** Idris (b. c. 879) acceded in 902 sonless; Qahir's instruments named Qahir and then Idris and nobody after him. His jurists forbade him the field because his death would have widowed the whole army, the exact catastrophe of 931 averted in advance. He governed the campaign by courier from Iqashar and never saw Caleran. The city was taken by Qahir's engine-master **Barzin** (a Ruzhan horse-lord's son, in his sixties) and the chief jurist of the breach-court train. The epithet *al-Fattah* is a jurist's title, "the Opener", given for a city opened by reading; "the Conqueror" is the Thalmyric translation. Ruzbeh's birth in 915 was followed by a two-year muster that wrote him in as successor-holder.
+
+**Astaroth.** Barzin's engineers asked the Red Star where the land wall would fail under the load of the great engines, in the standing practice of builders and siege engineers ([[Imperial Founding - Authorial History and Integration Review|the Darneth precedent]]). Astaroth answered within his grammar: a field, a load, a price. He showed **one** span, the Star's share built into the imperial land wall in the Age of Glory to break in the wardens' test and rebuilt after it; the rebuilt length was the wall's weakest point, and it had never been tested again because the colleges that recorded it were dissolved in 383. The red light the defenders saw on the stones the night before the assault is the answer's visible edge. The price was a lesser engine frame broken under the test load. The Covenant also held a dead college's archive, bought at Sermora, that located the span; both claims are true, and the Star's answer confirmed the archive. The answer was structural knowledge and nothing more; it pronounced no verdict on Caleran. The Star that answered Astrion's test at Caleran in 350 answered Caleran's enemies in 904, and answered Caelmount's road-menders in 917 ([[The Covenant after Caleran - Authorial Truth]]).
+
+**The last day.** When the engines came up below the Star's share, he carried the Velos Standard onto the wall and called on the Fire before both armies. It was the public test at last, made for the same purpose as every private one, to keep the city he held, and it failed for the same reason. The failure was decisive in a way no engine was: the jurists entered it, and the quarters still holding took terms that afternoon because the emperor's own Fire had refused him in front of them. Quarters that had not taken terms by dark were stormed, with killing, rape and enslavement through the night.
+
+**The Instrument of the Ash Hall.** The breach-court held his charter void since the counterfeit re-seal of 884, so in Covenant law he had no city to surrender, only his person and his household. He signed what it would take: himself and the Hall's relics, listed one by one, the Velos Standard among them. He named no person but himself; he did not think to, and the court would not have accepted a list of people from a man who held no charter over them. He believed to the end that the relics must be kept together until the Fire came to them. He lived as their keeper under guard and died of a winter fever early in 908. The Covenant inventory of 908 that records his body among the relics with the lamps unlit is accurate. **There is no mystery about his death**; the old three-death structure is retired.
+
+**Consequence.** While he lived, the refuge councils governed in the name of a captive emperor whose own instrument had surrendered him, and no commander could raise a standard without rebelling against a living sovereign. His death released them, which is why the Mountain Rebellion begins in 908, and why Caedros's coronation argues continuity without legality.
+
+**The basilica.** Idris's courier-borne ruling made the Ember a deposit kept where it stood and open to view, so the basilica of the Celestial Forum was never sealed or converted; the liturgy continued under guard for fifty-two years.
 
 **Sarion the Pale.** A monk of a march monastery stoned during the Jubilee for saying *"The inked ones are coming. They walk with chains and offers of peace. The crown will burn in silence."* He had been a copying clerk in the chancery in 884 and had seen the accession re-seal finished with warlock fire. Whether anything beyond that knowledge informed his words is left open. His saying went onto a memorial wall after 957.
-
-**Corvenas III's death** is **deliberately unresolved**. The three accounts (killed on the land wall; dead in the Ash Hall among the relics; carried out of the city as a nameless refugee and dead on the road) are all kept.
 
 **The Borrowed Temple (IP-06, c. 905–907).** Per [[AF-R18 - Exile Behind the Borrowed Temple]]: an autonomous Pride Archmask; a provincial commander's chosen bargain; executed prisoners; constructed war-broods with no souls of their own; refugees denied water for refusing the acclamation; one genuine bounded commission of an unnamed redeemed saint, with loyal angels, preserving the prisoners' names at the last threshold while living people broke the acclaim engine and closed the route. The Exile survives elsewhere.
 
@@ -165,7 +175,7 @@ In 884 Qahir obtained the **Ruling of the Broken Suspension** from the Witnessed
 ## Interfaces
 
 - **Pass 04.** Needs Halmenth 411 with Nasriel's communion concentrated in the northern dry-margin cities (Qabir among them), a doctrine denying that any institution can summon the Fire, and mutual refusal of Orthodox and Velian clergy to witness each other's charters. Vestian's dates follow the Direction (377, 385, 398).
-- **Pass 06.** Idris (b. c. 879, r. 902–931) inherits the Ruling on Parties and its dissenters. The first great Surrender frame comes after 905. The Ember belonged to no instrument Idris's jurists could serve. Charters re-sealed in the Fire could not be voided in 905, so the occupation rewrote land through coerced consent. The Qahirids are a Ruzhan house. The Covenant formed its view that Atherian holy fire was spent during the Guttering, so refugee kindling in the 950s was a strategic surprise.
+- **Pass 06.** Idris (b. c. 879, r. 902–931) inherits the Ruling on Parties and its dissenters; he is sonless until 915 and never goes to Caleran (Pass 10D). The first great Surrender frame comes after 905. The Ember belonged to no instrument Idris's jurists could serve. Charters re-sealed in the Fire could not be voided in 905, so the occupation rewrote land through coerced consent. The Qahirids are a Ruzhan house. The Covenant formed its view that Atherian holy fire was spent during the Guttering, so refugee kindling in the 950s was a strategic surprise.
 
 ## What reader prose must not state
 
@@ -176,7 +186,12 @@ In 884 Qahir obtained the **Ruling of the Broken Suspension** from the Witnessed
 - That the Creditor shaped the Clause or profits from the cages.
 - That Astaroth answered the Covenant engineers; reader prose reports the claim.
 - That the prisoner in a particular engine is a named crusade captive.
-- Any answer to the Thirty Sisters, the Veil's sender or Corvenas III's death.
+- Any answer to the Thirty Sisters or the Veil's sender, or that the smoke and the dreams were the commission's work rather than what witnesses reported.
+- Why Corvenas III's last call failed. His surrender, captivity and death in 908 are public fact and may be stated.
+
+## Names introduced by Pass 10D
+
+**Barzin** (Qahir's engine-master), the **Instrument of the Ash Hall**, and the reading of *al-Fattah* as "the Opener". Checked against the vault on 14 November 2026.
 
 ## Names introduced
 

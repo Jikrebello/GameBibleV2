@@ -35,7 +35,7 @@ Several well coalitions therefore made the soldiers who claimed water walk besid
 
 ## Translation, medicine and household power
 
-Zanthir, founded as a conquest emirate in 601, became a centre of Banu Mizan patronage. Rab Yequtiel's later work came out of a crowded world of readers, travelling teachers, copyists and quarrels. Patrons paid for knowledge useful in irrigation, navigation, medicine and government, and they also paid for histories that proved their families had a right to rule.
+Zanthir, founded as a conquest emirate in 601, became a centre of Banu Mizan patronage. Patrons paid for knowledge useful in irrigation, navigation, medicine and government, and they also paid for histories that proved their families had a right to rule. The salt pans and bond-hospitals of its dry margin supplied a different kind of learning. Every bound labourer who died there needed a witness before the custodian could release the name, and Jirahar physicians served as witnesses because both Covenant courts and Velian families would accept them. Rab Yequtiel's *What the Register Keeps* came out of fifty years at those beds: the words of the dying, set down one by one, and his conclusion that the register holds the name and lets the person go.
 
 A translation house was a working household. Apprentices ground ink, cooked and smoothed copying boards; relatives supplied introductions; a captive might know a language no paid scholar did. Sestaran notaries sold legal opinions to both sides of the line, sometimes the same opinion twice. The Fifth Translation's disastrous omission came of pressure to deliver an elegant, usable book on time, and its correction cost ordinary copyists their places long before it became an improving story about humility.
 

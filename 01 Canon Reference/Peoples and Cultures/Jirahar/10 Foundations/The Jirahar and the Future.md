@@ -37,7 +37,7 @@ Mystics argue that gathering may describe repaired relation rather than physical
 
 ## After Meshalem
 
-Meshalem the Twice-Turned made haste shameful. Every claimant is presumed false until examined by the Keepers, and the Keepers have never accepted one. The policy protects the people from another ruin while creating the possibility that a true claimant would be rejected.
+Meshalem the Twice-Turned made haste shameful. Half the tower towns followed him to the Empty City in 1288–1291, the Covenant voided the charters of the families who left, and at the gate stair, before all of them, he twice went down and twice came back without laying his hand on the gate. Every claimant is now presumed false until examined by the Keepers, no claimant may approach the gate before that examination, and the Keepers have never accepted one. The policy protects the people from another ruin while creating the possibility that a true claimant would be rejected, or kept from the one test that could prove him.
 
 ## Navigation
 

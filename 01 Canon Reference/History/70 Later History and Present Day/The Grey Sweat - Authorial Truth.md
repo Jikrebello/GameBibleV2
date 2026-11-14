@@ -33,6 +33,10 @@ Ash-Walker processions sometimes closed thin places in their wake. Their sufferi
 
 Saint Gerlind of Lindenfurt (c. 1228–1279) worked by the same principle, and her sanctity was genuine. Neither her voice nor any rite owned the result. The Thalmyric lay singers who sang their own dead out worked the same way where they were righteous; where they were not, Thalmyric villages were haunted too, and Thalmyric memory has smoothed that over.
 
+## The Twin Cardinals
+
+Aimery of Corvel died of the Sweat the night of his election, unsung. The figure the sacristans saw at the conclave garden wall in 1242 was his unsent soul at a thin place, and it went when it was named and sung. Aubert's motives were mixed and both real: he feared the conclave would be sealed in with the fever, and he wanted the chair. Funerals sung under his Ferry Rule worked as Gerlind's did, where the singers named the dead truthfully; neither his false authority nor Gelasin's later confirmation changed what had happened to any soul. See [[Causality Pass - 10F Bending the Road to 1360]].
+
 ## Beyond Eclessia
 
 - **The Covenant (the Emptying of the Benches).** Every death of a bound person required a witnessed release in the Living Register. Deaths outran witnesses; unreleased names piled up; debts of the dead rolled onto heirs; garrison instruments were widowed and frontier forts opened. Custody without a name-cage does not touch routing, so the Unreleased were a bookkeeping catastrophe and not a soul trap. The Vault cannot know that, and its living and dead registers have never balanced since. Neither the Vault nor the relic courts knows that the other's books also fail to balance.
@@ -41,7 +45,9 @@ Saint Gerlind of Lindenfurt (c. 1228–1279) worked by the same principle, and h
 
 ## The Sending and the Paper of the Dead
 
-The post-Sweat Sending Houses worked where rites were sung, because intercession is real. A sealed assurance letter never touched judgement. An **unsung** letter is an unresolved sealed promise over a named soul, and that makes it a lien that a Patron collecting soul-liens, the Undertow or an infernal broker can press to delay or contest passage. This is what Silvio Quarne sold. The full ruling is in [[Causality Pass - 09 The Road to 1360#Silvio Quarne, the Bridge-Seller]].
+The post-Sweat Sending Houses worked where rites were sung, because intercession is real. A sealed assurance letter never touched judgement, and Alessior II's Bull of the Sufficient Seal (1283) was false in every particular, though he believed it. An **unsung** letter is an unresolved sealed promise over a named soul, and that makes it a lien that a Patron collecting soul-liens, the Undertow or an infernal broker can press to delay or contest passage. This is what Silvio Quarne sold. The full ruling is in [[Causality Pass - 09 The Road to 1360#Silvio Quarne, the Bridge-Seller]].
+
+Alessior's own Sending was sung. What the painters saw walking under his dome in 1296 was residue at a thin place, made by thousands of unsung names painted in gold above the Sanctum's altar; the choir's singing closed it. Neither the Sanctum nor the Freeflame knows this.
 
 ## The Ossuary Crown
 
@@ -61,7 +67,7 @@ Whether the Sweat's first outbreak had a deliberate mortal agent is deliberately
 
 ## Public-Facing Boundary
 
-Public notes may establish missing souls, failed rites, walking dead, contradictory registers, haunted plague sites, theological panic, the Ossuary Crown's voices and the Hollow Mouth ruling, the Sending Houses, and in-world claims about dead paper. They must not identify the Undertow harvest, the lien nature of unsung letters, the Ossuary Mind, or the precise soul-route failure as settled public knowledge, and nothing anywhere explains the Quiet Ninth.
+Public notes may establish missing souls, failed rites, walking dead, contradictory registers, haunted plague sites, theological panic, the Ossuary Crown's voices and the Hollow Mouth ruling, the Twin Cardinals and the Ferry Rule, the Sending Houses, the sightings under Alessior II's dome as reports, and in-world claims about dead paper. They must not identify the Undertow harvest, the lien nature of unsung letters, the Ossuary Mind, or the precise soul-route failure as settled public knowledge, and nothing anywhere explains the Quiet Ninth.
 
 ## Navigation
 

@@ -15,7 +15,7 @@ tags:
 ---
 # The Mirror for Sovereigns — Selected Maxims
 
-*Scholar's apparatus: written c. 1340 AR by Nicanor Vetti, dismissed under-secretary of Sermora, in exile; dedicated — with irony no one has ever securely measured — to Lauro Medori the Magnificent. Banned by the Sanctum's Index and Veridun's Codex alike; condemned by Covenant jurists (whose marginalia, where recovered, are admiring); found in the private shelves of every ruler on the board. The dedication copy is in the Medori vault. Of course it is.*
+*Scholar's apparatus: written c. 1340 AR by Nicanor Vetti, a Sermoran-born factor of the Medori who lost his foreign desk's money in the defaults of the Reform Wars and was sold into Fiorenzia's Debtors' Corps in 1336. He wrote it in the grey coat of a walking ledger, on the river dikes by day and in the Corps barracks by night, and dedicated it to Lauro Medori the Magnificent, who held his paper, as an offer to pay the rest of the debt in counsel — with irony no one has ever securely measured. Lauro died in 1341 without answering. Corps men copied it and sold it along the roads. Banned by the Sanctum's Index and Veridun's Codex alike; condemned by Covenant jurists (whose marginalia, where recovered, are admiring); found in the private shelves of every ruler on the board. The dedication copy is in the Medori vault, filed with Vetti's debt-paper. Of course it is.*
 
 ---
 
@@ -28,6 +28,8 @@ tags:
 > **On debt.** The Medori forgive no sins; they collect them. A prince may safely owe the Bank any sum that would embarrass the Bank to lose. Owe less and you are a client; owe vastly more and you are a partner.
 
 > **On fear and love.** It is answered of old whether it is better to be feared than loved. I say: it is best to be solvent. Fear rusts, love strays; a paid garrison in a full granary loves and fears you precisely enough, every day, at a known price.
+
+> **On the grey coat.** A man who has been sold learns exactly what his master's ledger is worth. The master never learns what the man's is. Govern as if every servant had read your books, because the ones who carry them have.
 
 > **On contracts.** Sign nothing an Ahl-e-Ahd witness smiled at. Their law is honest the way a well is deep.
 

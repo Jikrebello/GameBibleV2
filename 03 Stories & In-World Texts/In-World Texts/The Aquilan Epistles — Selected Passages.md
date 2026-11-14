@@ -27,7 +27,7 @@ tags:
 
 > Though I bind with the tongues of scribes and of angels, and have not love, I am become a sounding seal, an empty contract. Though I hold all names in custody, and have not love, the vault holds only me. Love keeps no ledger of wrongs; love voids no oath by flood; love is the one covenant without a breach-clause. Contracts end, brothers. Prophecy ends. The Scrolls themselves shall be rolled shut. Love does not end.
 
-*(The Covenant's jurists have studied this passage for eight centuries with professional discomfort. Suhrab the Lawbinder is said to have kept a copy.)*
+*(The Covenant's jurists have studied this passage for eight centuries with professional discomfort. Suhrab the Debtor is said to have kept a copy.)*
 
 ---
 

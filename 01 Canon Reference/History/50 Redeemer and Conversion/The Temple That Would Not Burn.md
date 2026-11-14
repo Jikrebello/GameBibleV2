@@ -13,14 +13,14 @@ tags: []
 ---
 # The Temple That Would Not Burn
 
-The Temple That Would Not Burn is an Underground-era tradition concerning a damaged Star temple at Cyrian which local believers had adapted for clandestine Redeemer worship. About 246 AR, commissioners enforcing Emperor Tervan Marcellan's edict against unlicensed grave- and shrine-lamps tried three times to destroy the building by fire. The structure survived, while soldiers and guards died during the attempts. The commissioners' clerks entered each failure in the Cyrian augurs' book of answers, and those entries are the oldest record of the event. Eclessian, Thalmyric and surviving imperial accounts disagree about its cause and meaning.
+The Temple That Would Not Burn is an Underground-era tradition concerning a damaged Star temple at Cyrian which local believers had adapted for clandestine Redeemer worship. About 246 AR, commissioners enforcing Emperor Tervan Marcellan's edict, under which no lamp kept for the dead or the holy might burn any colour but the Stars' green, tried three times to destroy the building by fire. The structure survived, while soldiers and guards died during the attempts. The commissioners' clerks entered each failure in the Cyrian augurs' book of answers, and those entries are the oldest record of the event. Eclessian, Thalmyric and surviving imperial accounts disagree about its cause and meaning.
 
 > _“They lit the flame. But the flame refused them.”_  
 > —Inscription carved into the last standing wall of the Temple at Cyrian
 
 ### **Date**: c. 245–247 AR
 
-The enforcement years of Tervan Marcellan's Edict of Public Sacrifice, which required every household to offer before the Stars and to license the lamps it kept for its dead.
+The enforcement years of Tervan Marcellan's Edict of Public Sacrifice, which required every household to put out the lamps it kept for its dead before the Stars and relight them from the college fire, after which they burned green on the colleges' oil.
 
 ### **Location**:
 
@@ -34,7 +34,7 @@ The Temple at Cyrian was among the first Star Pantheon temples taken over by Red
 
 An earthquake had partly collapsed the temple, which many in the faith took as a sign of divine displeasure with the Stars. Local believers then turned its inner sanctum into a **shrine to the Redeemer**, hanging chains over the shattered altar and kindling a fire there each night in the name of mercy.
 
-To the commissioners who arrived with Tervan's edict, a nightly fire in a ruined Star temple, tended by people who would show no licence and would not say for whom it burned, looked like the Kept Lamps. That cult had set lamps over the graves of unpaid soldiers in the eastern garrisons, lamps that leaned towards mourners and burned without oil, and its keepers had fed the mutinies that frightened Tervan into his edict. The commissioners at Cyrian were not careless men. They treated the shrine as an Idol's nest and ordered the whole complex burned as a purgation and a public warning.
+To the commissioners who arrived with Tervan's edict, a nightly fire burning yellow in a ruined Star temple, fed with no oil from the colleges' jars and tended by people who would not say for whom it burned, looked like the Kept Lamps. That cult had set lamps over the graves of unpaid soldiers in the eastern garrisons, lamps that leaned towards mourners and burned without oil, and its keepers had fed the mutinies that frightened Tervan into his edict. The commissioners at Cyrian were not careless men. They treated the shrine as an Idol's nest and ordered the whole complex burned as a purgation and a public warning.
 
 But **it would not burn.**
 

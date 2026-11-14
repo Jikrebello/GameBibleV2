@@ -19,7 +19,7 @@ Their present country contains churches, irrigation works, vineyards, orchards, 
 
 ## Historical formation
 
-The condemnation of Bishop Nasriel of Qabir at the Council of Halmenth in 411 AR separated his communion from the imperial Church. Its followers survived in desert-margin cities, where local congregations preserved their worship and teaching. During the First Unsealing they negotiated protection from the Banu Mizan. Tribute, disarmament and restrictions on testimony secured the continued possession of churches and property, the appointment of clergy and the use of communal courts.
+The condemnation of Bishop Nasriel of Qabir at the Council of Halmenth in 411 AR separated his communion from the imperial Church. Its followers did not go into exile. They gathered in the desert-margin cities that kept communion with Qabir, which the regency struck off its roll of recognised sees and then left alone, because their land, which no recognised cleric would certify as a relic estate, still paid its tax. Local congregations there preserved their worship and teaching. During the First Unsealing they negotiated protection from the Banu Mizan. Tribute, disarmament and restrictions on testimony secured the continued possession of churches and property, the appointment of clergy and the use of communal courts.
 
 These arrangements helped communities endure conquest, while placing them in an unequal relationship with their protectors. Later Qahirid governments increased tribute, garrisons, bondage and custody over personal names. Town institutions persisted through these changes. Municipal officers, clergy, craftsmen and families continued to organise work and education under successive rulers.
 

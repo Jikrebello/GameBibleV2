@@ -17,7 +17,7 @@ The present day is a fractured inheritance war over Atheria's body, the Redeemer
 
 ## Central Conflict
 
-*(Authorial spine: the present's deep structure is deterrence-by-unopened-proof — see [[The Age of Held Proofs - Authorial Control]]. The causal road from 1225 to this board is [[Causality Pass - 09 The Road to 1360]].)*
+*(Authorial spine: the present's deep structure is deterrence-by-unopened-proof — see [[The Age of Held Proofs - Authorial Control]]. The causal road from 1225 to this board is [[Causality Pass - 09 The Road to 1360]], with the sequences bent in [[Causality Pass - 10F Bending the Road to 1360]].)*
 
 The empire is dead, but its roads, churches, ruins, saints, debts, enemies, and myths still govern the living. So do its dead. The Grey Sweat made the sending of the dead the question of the age, and every great power in 1360 is shaped by how it answered it: Eclessia by the assurance trade and its reformation, Thalmyria by its lay singers and its refusal to be tested, the Covenant by the witnesses it lost, Sestara by the registers it holds, and the steppe by the grace in its horses.
 
@@ -27,7 +27,7 @@ The empire is dead, but its roads, churches, ruins, saints, debts, enemies, and 
 
 Fragmented, church-bound, confessional, and reform-haunted. Its powers want unity, legitimacy, and proof that their divided institutional inheritance remains the true public face of the Redeemer's Church.
 
-*Wounds.* The Sweat (1232–1247) and the bond of the clean village in Virelia; the Sending Houses and Quarne's dead paper (1252–1297); Aldersbruck and the Unburnt Psalter (1305); the Ashenmen oath on the Weiss (1306–1329); the Reform Wars and Rainald's extinct house (1329–1341); the Great Arrears the Council of Veridance owes the dead (from 1337); the Korrheim Accord, sworn on the Weiss and silent on reunion (1343); Vessing unruled (1352). The reunification mandate must reunite a church that refused to be tested in 1227, reabsorb duchies whose peace was sworn on water that forbade mentioning it, and police heresy with an order whose founding work is singing the Sanctum's own unpaid debts from registers rented from a bank.
+*Wounds.* The Sweat (1232–1247) and the bond of the clean village in Virelia; the Twin Cardinals and the doubt over the Ferry Rule's dead (1240–1242); the Sending Houses, Alessior II's Sufficient Seal and Quarne's dead paper (1252–1297); the unbought funerals (from 1297); Aldersbruck, the Unburnt Psalter and the bridge-tower (1305); the Ashenmen oath on the Weiss and the war from the mines (1306–1329); the Reform Wars and Rainald's extinct house (1329–1341); the Great Arrears the Council of Veridance owes the dead (from 1337); the Korrheim Accord, sworn on the Weiss and silent on reunion (1343); Vessing unruled (1352). The reunification mandate must reunite a church that refused to be tested in 1227, reabsorb duchies whose peace was sworn on water that forbade mentioning it, and police heresy with an order whose founding work is singing the Sanctum's own unpaid debts from registers rented from a bank.
 
 ### Thalmyria
 
@@ -39,7 +39,7 @@ The densely layered old heartland: urban, mystical, imperial, and militarized, w
 
 Seven independent city-states joined only for external defence. Fiorenzia wants credit and cultural authority; Sermora wants command of sea access; Aversia wants military clients and strategic depth; Vorthara wants freedom from government; Castara wants the Boiling Sea future; Orsena wants indispensable neutrality; Vardessa wants open roads and fair peace. Collectively they prevent conquest. Separately they finance, arm, transport, frustrate, and spy upon everyone, including one another.
 
-*Wounds and leverage.* The Medori hold the Chancery of Sendings' registers (since 1296), Thalmyria's frontier debt (since 1319), and the memory of 1346–1349; Sermora broke them once with a pamphlet. Castara's crossing rests on a Breath day (1328), a recovered keel and a road peace bought from the Ash Horde (1334). Vorthara bought Quarne's dead paper and kept his death.
+*Wounds and leverage.* The Medori hold the Chancery of Sendings' registers (since 1296), Thalmyria's frontier debt (since 1319), and the memory of 1346–1349: a Sermoran pamphlet drove them out, they fled with the city's dead, and Fiorenzia bought its dead back by making them hereditary dukes. Castara's crossing rests on a Breath day (1328), a recovered keel and a road peace bought from the Ash Horde (1334). Vorthara bought Quarne's dead paper and kept his death.
 
 ### Ahl-e-Ahd
 
@@ -51,7 +51,7 @@ The Covenant is a layered imperial-confessional civilization rather than one eth
 
 Five living towers, the Empty City, host quarters, and mobile companies share law without a sovereign. High Keeper Zerahiah wants continuity, cautious gate custody, and protection from another false claimant. Restorationists want Qiryath secured; Dominion zealots want preparation for future judgement; ordinary towers and companies want viable charters, safe routes, and room to remain distinct. See [[01 Canon Reference/Peoples and Cultures/Jirahar/The Jirahar Overview.md|The Jirahar Overview]].
 
-*Wound.* Meshalem (1288–1291), whose return rode on roads the Black Wind had emptied.
+*Wound.* Meshalem (1288–1291), whose return rode on roads the Black Wind had emptied and who twice turned back on the gate stair; the Covenant voided the charters of the families who had followed him.
 
 ### The Tarkhan
 

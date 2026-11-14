@@ -13,7 +13,7 @@ tags: [authorial-control]
 ---
 # The Age of Held Proofs — Authorial Control
 
-This control preserves the private structural model behind the reader-facing [[The Age of Held Proofs]]. It defines how present-day powers manage decisive evidence without turning that evidence into a predetermined future. The causal road to the 1360 board is [[Causality Pass - 09 The Road to 1360]].
+This control preserves the private structural model behind the reader-facing [[The Age of Held Proofs]]. It defines how present-day powers manage decisive evidence without turning that evidence into a predetermined future. The causal road to the 1360 board is [[Causality Pass - 09 The Road to 1360]], with the Reformation, Fiorenzian, Meshalem, Twin Cardinals, Alessior II and Qarayel's-burial sequences as bent in [[Causality Pass - 10F Bending the Road to 1360]].
 
 ## The Structure
 
@@ -30,10 +30,10 @@ The habit has a history, and reader articles should tell it as history.
 1. **The Refusal of the Lamp (1227).** Nikandros I refused the Sanctum's price, a trial of the Great Lamp of Veridun, for Eclessian soldiers: "a lamp that is tried is a lamp that is owned." The first refusal of a test as an act of sovereignty.
 2. **Bruckmoor (1243).** A test that destroyed what it tested, rightly.
 3. **The Ruling of the Hollow Mouth (1263).** A test that was correct and that nobody believed (the Ossuary Crown).
-4. **Aldersbruck (1305).** A test that answered ambiguously in public. Ansgar asked for Fire, was burned, and the Psalter survived.
+4. **Aldersbruck (1305).** A test that answered in public and was voided by the people who set it. Ansgar asked for Fire; the synod put his psalter to the brazier and it did not burn; the legate declared the trial void, kept Ansgar in a bridge-tower, and the spring flood took him. Each side reads the river's act as the verdict it wanted.
 5. **The Preacher's Water (from 1306).** A proof nobody can own: oaths on it hold, and the 1342 test was inconclusive.
 6. **Sarnwell (1311).** A test that vindicated, and became the model for the five tests.
-7. **The Council of Veridance (1337–1352).** The tests codified, drafted so that none can be applied to a saint without remains. It closed in the year of Vessing.
+7. **The Council of Veridance (1337–1352).** The tests codified, drafted so that none can be applied to a saint without remains, by a council that answered Ferro's book with Ferro in the room. It closed in the year of Vessing, months after his death.
 
 From 1352 every great power behaves as this control describes.
 
@@ -44,11 +44,11 @@ From 1352 every great power behaves as this control describes.
 - **The Saint-Emperor's hymns** (Thalmyria): field-testable any day, with results maddeningly conditional. Both churches have quietly decided this is worse than either clean answer. The Council's five tests of 1352 cannot reach Caedros I; Veridun took that as a verdict.
 - **The two succession instruments** (the Covenant): the Fourth Seal and the Counter-Instrument, each capable of settling the Sealed-Blood schism and each legally impossible to open because examination would itself breach the instrument.
 - **The Virelian Lamp** (Veridun): still burning and formally offered home at every Virelian election. Accepting it would prove what the east chose, which is why no Virelian king dares.
-- **The Empty City's dead gate** (Qiryath Reqa): if it flickers, the Mesakha question stops being theoretical for every power simultaneously. Since Meshalem (1288–1291) the Keepers guard the question harder than the gate.
+- **The Empty City's dead gate** (Qiryath Reqa): if it flickers, the Mesakha question stops being theoretical for every power simultaneously. Since Meshalem (1288–1291), who twice went down the gate stair before the whole return and twice came back without touching it, the Keepers let no claimant near the gate and guard the question harder than the gate.
 - **Wolfsmere's sleep** (the Lakekeepers): the one proof no one wants opened, held shut by an annual price that is rising.
 - **The Creditor's three name-fragments:** the assembled true name would be the greatest contract-handle in history. Its assembly is the one event the Concord of Weights, the Vault of Names and the Church would unite to prevent, each for different reasons.
 
-**Pressures that are not held proofs.** The Weiss water-test file (1342), the Ossuary Crown's custody, Silvio Quarne's missing ledgers, Gavrin's cairn and the emperor's flame-silences are live pressures. None is a ninth held proof; promote one only by deliberate decision.
+**Pressures that are not held proofs.** The Weiss water-test file (1342), the Ossuary Crown's custody, Silvio Quarne's missing ledgers, Gavrin's cairn, Ferro's unwritten refutation, Severin's mask and the emperor's flame-silences are live pressures. None is a ninth held proof; promote one only by deliberate decision.
 
 ## Why this is the engine
 
@@ -68,7 +68,7 @@ The 1360 board resembles the 1570s. Each trajectory that real history would put 
 | The Boiling Sea brings a price revolution | What comes back from the Expanse is Age-of-Chains material, not bullion; the Breath cannot be scheduled; some who return come back different. |
 | The steppe settles into the empires' service | The grace is thinning. When the horses become ordinary, Iron's leases, White's raids and Ash's road peace all change their price, and Sorqai's Standard holds the only legal way to call a kurultai. |
 | Thalmyria falls into another Zanthir war | The emperor's flame-silences may be kindling, grief or illness. Whichever court decides first could crown the next ruler. The Keeper of Ashreaver has already refused one hand-off. |
-| The Medori own everyone | They hold the Chancery registers, and those registers are the evidence of a fraud they cleared. Sermora broke them once with a pamphlet. |
+| The Medori own everyone | They hold the Chancery registers, and those registers are the evidence of a fraud they cleared. Sermora's pamphlet drove them out once, and Fiorenzia remembers that it bought them back with its liberty to get its dead. |
 
 ## Writing rule
 

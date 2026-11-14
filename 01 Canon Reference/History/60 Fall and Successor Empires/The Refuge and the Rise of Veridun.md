@@ -22,11 +22,17 @@ After 905, Veridun absorbed imperial clerks, soldiers, relic custodians, guild f
 
 ## The Veil, 906 AR
 
-When a Qahirid force approached Veridun, witnesses reported a woman's figure spreading pale fire above the city before a violent night storm broke the siege. Thalmyria remembers this as the Mother's Veil. The event saved the refuge without settling whether the apparition was Amaryah, another saint, or an image granted for the city's need. The Covenant's campaign registers record a storm, lost baggage and a column that turned back. Why the Mother answered the refuge when the capital's rites had gone cold is still argued: refuge preachers said the Fire had always lived with the hermits, monks and hospital keepers who carried it to Veridun, while court survivors blamed the capital's sins.
+In the winter of 906 a Qahirid column came up the valley towards Veridun with a breach-court, lesser Surrender engines on their siege tables and several thousand levies. The refuge had no walls fit to stop it. Its council, made up of soldiers and court survivors, ordered the flour in the store caves burned at dawn so that the column would not eat it if the city were served or stormed.
+
+The order went to the hearth-keeping households of Veridun Minor, the families who had kept Amaryah's lamp for nine centuries and had once hidden it in a bread oven. They would not burn bread-flour while children in the caves were hungry. Through the night they carried the flour down to every oven in the crowded city, and the refugees, the monks, the hospital keepers and the women of the town baked it all. Before dawn every household in Veridun had eaten its fill for the first time that winter.
+
+At dawn the smoke of the ovens did not rise. It lay over the city and the valley, white and still, smelling of bread and cedar, the scent the old tradition gives Amaryah's empty tomb, and it stayed for three days. The soldiers on the walls could see nothing to watch, so they stood vigil instead. The column's engines proclaimed their terms into the smoke, district by district, to nobody. In the smoke the refugees dreamed of a woman banking an oven for the night, and the column's levies, by their own later accounts, dreamed of their mothers' hearths in the Basin and the Velian belt. On the third morning the levies began to walk home in twos and threes, and their commander, with his levies leaving and his engines talking to fog, turned the column back without reading a single charter.
+
+Thalmyria remembers this as the **Mother's Veil**, and on its feast every household bakes through the night and leaves the oven door open at dawn. The event saved the refuge without settling who was sent: refuge preachers say Amaryah answered her own hearth; others say a saint of the refuge, or a sign granted for the city's need. The Covenant's campaign registers record a fog of three days, levies who went home unpaid in the snow and a column that turned back. Eclessian polemicists call it the dream of a starving city that had baked its last flour. Why the Mother answered the refuge when the capital's rites had gone cold is still argued: refuge preachers said the Fire had always lived with the hermits, monks and hospital keepers who carried it to Veridun, and that it came to the women who would not burn the bread, while court survivors blamed the capital's sins.
 
 ## Caedros and the Mountain League
 
-Caedros Aetherion was a minor-house commander. He joined refuge councils, surviving soldiers, monasteries, village militias, and dispossessed houses into a mountain league. His legitimacy came from service, victory, and later coronation.
+Caedros Aetherion was a minor-house commander. While Corvenas III lived as a prisoner among his relics in Caleran, the refuge councils governed in his name and no commander could raise a new standard without becoming a rebel against a living emperor. The news of his death reached Veridun in the spring of 908, and that summer Caedros joined refuge councils, surviving soldiers, monasteries, village militias, and dispossessed houses into a mountain league. His legitimacy came from service, from debts he paid, and later from coronation.
 
 The resistance preserved population and roads before attempting reconquest. It evacuated exposed villages, denied passes, recovered archives, and offered amnesty to occupation troops who surrendered without carrying bound contracts into the mountains.
 
@@ -40,7 +46,7 @@ The refuge commanders suppressed the story for a generation, afraid that soldier
 
 ## Virelos, 921 AR
 
-The capture of Virelos gave the rebellion a defensible assembly and coronation city. Veridun remained the administrative refuge; Virelos became the place where resistance accepted an emperor.
+At Caelmount in 917 the valley's road-menders broke their own road under a Covenant column and paid with their terraces, and Caedros had promised them bread until the terraces were rebuilt. Four winters of begging and buying grain for the broken valleys did not keep that promise, and in 921 he took Virelos, whose granaries had fed an occupation garrison, to keep it. The capture gave the rebellion a defensible assembly and coronation city as well as its granaries. Veridun remained the administrative refuge; Virelos became the place where resistance accepted an emperor.
 
 ## Navigation
 

@@ -56,7 +56,7 @@ Returning to Caleran, Casvilar settled veterans on the Noon Roll lands, revised 
 
 Any Warden had to receive a challenger in person on the muster ground below the river stores. In 370 BR Mavren Seneth, Corial Draven and their fellows entered their names as challengers in the arms register kept by Deceran Tolm, Casvilar's trusted quartermaster. Tolm fixed the hour. When Casvilar came down to receive them, they stabbed him before the contest had been opened. The augurs said the Field had been fouled; the killers said they had freed the republic from a man who could never be made to stop.
 
-Casvilar had designated Thalion as his civic heir. Amesar's royal parentage gave him a different claim, grounded in Samyra's country. Neither settled the allegiance of armies, and Darion Velsar commanded loyalties that no testament could transfer.
+Casvilar had designated Thalion as his civic heir. Amesar's royal parentage gave him a different claim, grounded in Samyra's country. Neither settled the allegiance of armies, and Darion Velsar commanded loyalties that no testament could transfer. While any of the seven killers lived, no commander dared disband an army, and the hunt for them lasted twenty years. The last of them, Mavren Seneth, was killed in 350 at the spared towns' table in Sarqen by Casvilar's own son.
 
 Later imperial honours joined Casvilar's victories to Thalion's foundation. Southern communities remembered lost fields, men without hands and the starving people between the lines at Kellovar.
 

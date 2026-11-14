@@ -20,13 +20,13 @@ Atherian writers called this period the Glory because its aqueducts, law, litera
 
 ## The settlement generation, 350–318 BR
 
-[[The Later Reign of Aurelius Thalion]] began with disarmament, payment and the reassignment of commands. Thalion retained many municipal institutions while bringing provincial governors and the professional army under his household. Veterans received land, including farms taken during the succession wars. Sarqen remained a working port under imperial supervision.
+[[The Later Reign of Aurelius Thalion]] began with the discharge of armies that had not dared disband in twenty years of war. Thalion governed openly from the store-house above Caleran's muster ground, left the senate the city's markets and water, and brought provincial governors and a smaller professional army under his household. Veterans received land, including the estates of men killed in the Writing-In and farms whose owners had fled. Sarqen remained a working port under an imperial governor, who swore the spared towns' Table Oath at the landing every spring before the towns would supply him.
 
 Peace required further campaigns. Commanders secured roads between the Aurin and eastern ports, enforced settlements among former royal allies and negotiated with southern Folk leaders whose communities remained beyond direct occupation. Regular assessments gradually replaced indiscriminate military seizure as the usual means of supplying garrisons, though collection still involved force.
 
 Thalion's son Caelor died before him, crushed in 326 BR when a new treasury hall that the Red Star's priests had blessed, but no one had loaded, came down during his inspection. Thalion answered with a rule that outlasted his house. No one was to enter a public work until rune-trained wardens had loaded it before the Red Star and broken the portion built into it to break, the Star's share, and the official who opened it stood under the arch while the first loaded wagons crossed.
 
-The emperor chose his nephew Meren, son of Evara Thalion and Darion Velsar, as successor. That decision joined descendants of the two principal founding rivals within one household. It also angered relatives who expected the succession to remain among Thalion's children.
+Caelor's death made Thalion's younger son Meren the heir. Meren's mother was Merath Nerethan, elder sister of the last queen of Sarqen, and he had been carried out of Esharat as a newborn in a grain bin after Samyra had his mother killed. His succession put the blood of the Nerethan kings into the imperial house. It also angered the party of Thalion's daughter Lysara, who had expected her children to take precedence over a half-Gateway son. Thalion died at the spring meal on Sarqen's landing in 318, and Meren swore the towns' oath at the same table before he sailed home.
 
 ## The House of Thalion, 318–247 BR
 

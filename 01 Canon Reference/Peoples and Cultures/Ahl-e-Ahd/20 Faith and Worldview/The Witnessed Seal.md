@@ -17,7 +17,7 @@ The Witnessed Seal is Al-Ahdiya's majority tradition. It accepts the Fourth Seal
 
 Its schools favor precedent, documentary chains, communal consensus, and institutions able to survive a ruler's death. Iqashar's imperial colleges, Al-Qahur's shrine jurists, and Zanthir's mixed courts disagree sharply while recognizing one another.
 
-The tradition observes Bir Qassim as a lawful catastrophe and teaches the later formula **lawful and wrong**. Formalists blame a tragic but valid instrument; penitential schools blame judges who chose text over the purpose of protection; imperial apologists minimize the massacre.
+The tradition observes Bir Qassim as a lawful catastrophe and teaches the penitential formula **lawful and wrong**, which the first book of Suhrab's *Ledger of Ledgers* made the Throne's own reading of the massacre in 1194. Formalists blame a tragic but valid instrument and a well-keeper that obeyed it; penitential schools blame the jurist Jarud ibn Sulayt, who chose the route clause over the purpose of protection; imperial apologists count thirty-four dead under arms and say nothing of the seven who died of thirst.
 
 Witnessed-Seal rulers claim institutional stability. Their critics answer that the same institutions can turn injustice into precedent and call it continuity.
 

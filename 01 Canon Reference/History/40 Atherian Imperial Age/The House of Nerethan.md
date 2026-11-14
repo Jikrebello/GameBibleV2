@@ -14,7 +14,7 @@ tags: [world-historical-atlas, imperial-founding]
 ---
 # The House of Nerethan
 
-The **House of Nerethan** ruled the Gateway country from Sarqen between 457 and 350 BR. Its founder belonged to a Delkosi officer house descended from the maritime kingdoms created after Eryndor III's death. He married Hadrima of Esharat, whose family belonged to one of the towns spared when Qarzeth was destroyed. Their partnership joined Atherian military patronage and Successor naval culture to local land, shipping and kinship. The dynasty's last independent ruler was [[Samyra Nerethan]].
+The **House of Nerethan** ruled the Gateway country from Sarqen between 457 and 350 BR, and through Merath's son Meren its blood passed into the first imperial house of Atheria. Its founder belonged to a Delkosi officer house descended from the maritime kingdoms created after Eryndor III's death. He married Hadrima of Esharat, whose family belonged to one of the towns spared when Qarzeth was destroyed. Their partnership joined Atherian military patronage and Successor naval culture to local land, shipping and kinship. The dynasty's last independent ruler was [[Samyra Nerethan]].
 
 The royal family inherited a country already changed by [[The Gateway Wars]]. The capital's sacrificial establishment had been destroyed, while lesser towns retained working wells, farms and ports. Refugees and returning captives joined communities whose households had their own claims to survival and resistance. Royal power had to be established among them.
 
@@ -57,7 +57,8 @@ The next ruler, Olymes, swore the oath and succeeded in 408 BR. He cultivated ea
 | Tavren, son of Arenes | Succeeded in 434 BR |
 | Olymes, son of Tavren | Succeeded in 408 BR; died in 375 BR |
 | Merath, Samyra and Nethar, children of Olymes | Rival household claims during the imperial-founding generation |
-| Amesar, Talven and Lethia, children of Samyra | Royal claims carried into the final war; different fates at its end |
+| Amesar, Talven and Lethia, children of Samyra | Royal claims carried into the final war; Amesar in sanctuary on Ilamar, Talven and Lethia guests of the towns at Esharat |
+| Meren, son of Merath and Aurelius Thalion | Hidden at Esharat as a newborn in 358; emperor of Atheria 318–286 BR |
 
 ## Religious and household inheritance
 
@@ -75,13 +76,15 @@ Olymes's death in 375 BR brought Samyra and her younger brother Nethar into join
 
 Samyra maintained relationships with Esharat households and sought allies outside the country. In 373 BR Vardek invited the fugitive [[Marovan Veyr]] to land at Sarqen and laid the royal table for him with an empty seat, meaning to kill him there and win [[Teren Casvilar]]'s favour. An Esharati elder warned Veyr, who fled to Ilamar. A minister who laid a table to kill a guest had broken the oath sworn by every ruler of the house, and the towns rose for Samyra. Casvilar, who needed Esharat's grain, backed the side that held it. The towns judged Vardek under the oath before Casvilar's officers executed him, and Nethar's claim ended when the younger ruler died in the fighting of 372.
 
-Her subsequent relationship with Casvilar produced Amesar in 372 BR. Years later, her alliance with [[Darion Velsar]] produced Talven and Lethia and a wider programme of royal claims. The capital remained at Sarqen. The old sacrificial city was a ruined part of the country over which these families argued.
+Her subsequent relationship with Casvilar produced Amesar in 372 BR. Years later, her alliance with [[Darion Velsar]] produced Talven and Lethia. Her elder sister Merath married Velsar's rival, Aurelius Thalion, in 360 and was executed at Samyra's request in 358, days after bearing Thalion's son at Esharat; the town hid the child and would not give him up. The capital remained at Sarqen. The old sacrificial city was a ruined part of the country over which these families argued.
 
-## End of independent rule
+## End of the crown
 
-The final Atherian succession war reached Sarqen in 352–350 BR. After the defeat of Samyra and Velsar, Thalion annexed the kingdom and placed its revenues and appointments under his own officers. He preserved the working harbour and negotiated with surviving town leaders. Amesar was executed as a rival claimant. Talven and Lethia were removed into the protection and custody of Evara Thalion's household.
+The oath that had restored Samyra in 373 ended her house in 350. From 362 she kept Mavren Seneth, one of Casvilar's killers, at the towns' table, where the oath protected him. From 353 Velsar's army sat bound to his Red Field on the salt pans below Sarqen, and the queen's levies to feed it, which the towns called the Fourth Collection, fell hardest on the towns that had made her. In 351 her officers saved the treasury and left the wounded on the quay of a flooded galley basin. In the spring of 350 Amesar killed Seneth at the renewal of the oath. The towns would not harm a son of the house. They put the house out instead, and filled the queen's seat with a rower who had been left on the basin quay.
 
-The crown ended while the country remained inhabited. Royal dependants, port workers and town families continued under another change of government. Sarqen's earlier survival and later enlargement made its resources valuable to the victor.
+Thalion came to the landing that summer at the towns' invitation, sat at their unranked table and swore the Table Oath, the first ruler of the country who was not a Nerethan to do so. Samyra had already taken a stranger's place at the same table with Talven and Lethia, and the oath forbade anyone to take them from it. The kingdom was annexed and its revenues and appointments placed under an imperial governor, who swore the oath at the landing every spring. Amesar lived out his life in sanctuary on Ilamar. Samyra, Talven and Lethia lived at Esharat as guests of the towns.
+
+The crown ended while the country remained inhabited, and the house's blood went on in an unexpected place. Merath's son Meren, carried out of Esharat in a grain bin, became the second emperor of Atheria and swore the oath at the landing at his accession in 318, as his mother's family had sworn it since 457.
 
 ## Further reading
 

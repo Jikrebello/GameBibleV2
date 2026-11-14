@@ -22,7 +22,7 @@ Island harbours and pilot communities predate Atherian conquest. The capital gre
 
 The harbour chain is the city's oldest wall. In 1102, the second of the Two Winters, Sermora closed it against famine ships from the Eclessian coast; a foreign-born chain-tender lowered it, refugees and harbour workers died in the crush at the gap, and the city hanged him as a traitor. When a rival's fleet with hired Ättar keels and a leased storm-engine besieged the city in 1166, his figure was seen above the harbour wall and the engine broke. At every feast the chain is lowered for one foreign or refugee vessel before it is raised for the procession, and the Admiralty's lawyers have spent two centuries narrowing what counts.
 
-Sermoran money and print shaped the century before 1360. Sermoran and Medori loans carried Caedros Aetherion's Crimson Pilgrimage and the siege of Zehrim (1319–1325), and in 1345 a Sermoran pamphlet printed extracts from the Chancery registers in the Medori vault, called it **the Bank of the Dead** and set Fiorenzia against the Medori.
+Sermoran money and print shaped the century before 1360. Sermoran and Medori loans carried Caedros Aetherion's Crimson Pilgrimage and the siege of Zehrim (1319–1325), and in 1345 a Sermoran pamphlet printed extracts from the Chancery registers in the Medori vault, called it **the Bank of the Dead** and set Fiorenzia against the Medori, who fled the city with the registers the next year. Sermorans still call it the finest thing ever done with a press, and Fiorenzians point out that it ended with the Medori as hereditary dukes.
 
 ## Government and Citizenship
 

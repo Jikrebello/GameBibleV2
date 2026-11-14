@@ -27,7 +27,7 @@ The Black Wind's grass-toll on the northern roads pushed Sestaran trade to the s
 
 ## Jirahar
 
-Migdal Melach and Road Companies negotiate passage through old word-law; the flat peace-price they pay goes back to Qarayel's word. Jirahar caravans pay declared prices, hire escorts, trade animals, and sometimes shelter defeated camps.
+Migdal Melach and Road Companies negotiate passage through old word-law; the flat peace-price they pay goes back to Qarayel's word. He gave it in 1289 to the wagons of Meshalem's return, a price per wagon and no questions, and the Black Wind kept it while the return crossed the emptied roads; the Road Companies have paid the same price ever since, and the camps still honour it. Jirahar caravans pay declared prices, hire escorts, trade animals, and sometimes shelter defeated camps.
 
 ## Eclessia and Thalmyria
 

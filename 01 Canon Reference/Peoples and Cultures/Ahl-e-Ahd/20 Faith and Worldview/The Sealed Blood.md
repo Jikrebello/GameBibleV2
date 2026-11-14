@@ -15,7 +15,7 @@ tags: []
 
 The Sealed Blood holds that Mujalib entrusted succession through his daughter Ruqaiya and that no scribal college could replace the Prophet's household witness. Its living authorities are the Wasiyin: guides claiming descent, instruction, or appointment through Ruqaiya's hidden line.
 
-The tradition's spiritual center is the Mourning of the Wells. Worship emphasizes loyalty under persecution, hospitality to fugitives, lament, moral intention, and suspicion of state-controlled testimony. Qazmarid's Caliph-Wasi claims to unite temporal rule with the concealed succession.
+The tradition's spiritual center is the Mourning of the Wells, which repeats Husan's last reading at Bir Qassim: the safe-conduct recited clause by clause, each answered with *And yet the well was dry*, and then the forty-one names. Worship emphasizes loyalty under persecution, hospitality to fugitives, lament, moral intention, and suspicion of state-controlled testimony. Sealed-Blood villages draw water by hand and let no bound office keep their wells, because a bound keeper refused water to the Prophet's grandson. Qazmarid's Caliph-Wasi claims to unite temporal rule with the concealed succession.
 
 Sealed-Blood communities maintain lineage courts, mourning houses, shrine kitchens, and travelling teachers. Minorities elsewhere range from quiet congregations to revolutionary networks.
 

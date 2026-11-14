@@ -3,7 +3,7 @@ type: person
 status: canon
 canon_level: local
 visibility: public
-era: ["392–350 BR"]
+era: ["392–333 BR"]
 region: [Sarqen, Esharat, Qabir–Zanthir gateway]
 culture: [Gateway peoples, Maritime Atherian]
 related_factions: []
@@ -14,7 +14,7 @@ tags: [world-historical-atlas, imperial-founding]
 ---
 # Samyra Nerethan
 
-**Samyra Nerethan** (392–350 BR) ruled the gateway kingdom of Sarqen during the wars that ended the Caleran republic. She recovered the throne after a contested succession, maintained the country's value to Atherian armies and pursued wider royal claims through alliances with Teren Casvilar and Darion Velsar. Her defeat by Aurelius Thalion in 350 BR ended the kingdom's independence.
+**Samyra Nerethan** (392–333 BR) ruled the gateway kingdom of Sarqen during the wars that ended the Caleran republic. The spared towns' oath gave her the throne in 373 and took it away in 350. Between those years she made her country indispensable to Atherian armies, allied with Teren Casvilar and then Darion Velsar, had her elder sister killed and kept Casvilar's murderer at her table. When the towns put her house out, she sat down at their table as a stranger, where no one could take her from it, and lived seventeen more years at Esharat.
 
 ## A country of surviving towns
 
@@ -36,29 +36,41 @@ The empty seat cost Vardek the country. A minister who laid a table to kill a gu
 
 The restoration cost lives and increased dependence on Atherian support. Samyra also recovered authority through people who had maintained her cause while she lacked the port, and she knew it: her throne had been given back to her by the towns' oath before it was secured by Casvilar's soldiers. Her relationship with Casvilar produced Amesar in 372. His acknowledgment gave the child a distinguished parentage; Casvilar's civic inheritance went separately to Thalion.
 
-## Government and dynastic ambition
+## Government and the guest at the table
 
-Samyra's government maintained grain storage, port income and the movement of supplies. Favour to one town could draw resentment from another, particularly when military demands required exceptional contributions. Her household rewarded useful managers and retained ceremonial obligations inherited from the spared towns.
+Samyra's government maintained grain storage, port income and the movement of supplies. Favour to one town could draw resentment from another, particularly when military demands required exceptional contributions. Her household rewarded useful managers and kept the ceremonial obligations inherited from the spared towns.
 
-Relations with Velsar became essential after his costly eastern campaigning. She supplied food, ships and credit in exchange for protection and recognition. Their children Talven and Lethia joined Amesar in the royal household.
+In 362 Mavren Seneth, one of the seven men who had entered their names as Casvilar's challengers and killed him, came to Sarqen's landing on a carter's wagon and sat down at the towns' unranked table. The oath forbade anyone to sell a stranger from that table, and Samyra kept him. She had reasons besides the oath. While any of the seven lived, the Atherians believed the Red Field stood open and none of their commanders dared disband an army, and armies that could not disband bought her grain. When the Atherian partners demanded Seneth in 361 she answered with the oath. Her son Amesar, Casvilar's son, grew up watching his father's killer eat at his mother's table.
 
-Samyra sought the removal of her sister Merath, whose supporters were approaching foreign patrons. Velsar ordered Merath's seizure and execution in 358. The queen eliminated a rival at the cost of a lasting division among related households. People who had served Merath could no longer regard family membership as protection.
+## Merath and the child
 
-The titles proclaimed for Samyra and her children in 354 expressed claims beyond the districts she could securely govern. They attracted prospective allies and increased the fears of established rulers.
+Samyra's elder sister Merath, passed over in 373, married Aurelius Thalion in 360 and gave Caleran's other great commander a claim on Sarqen. In 359 Merath went to Esharat to bear her child where the heirs of the house were born. At Samyra's request, Velsar's officers seized her there in 358 and executed her. The queen's officers also asked for the newborn. The women of Esharat hid him in a grain bin and the elders refused to give him up, saying the oath forbade a child for the table. He was carried west to his father and grew up to be the emperor Meren.
 
-## War and the sea passage
+Whether Samyra wanted the child killed or only held is disputed. The towns believed the worst. People who had served Merath could no longer regard family membership as protection, and the towns had seen their queen's officers search Esharat's granaries for a baby.
 
-In 353 Thalion's advocate Corven Ilar called the queen heir of the child-burning city, though her country had grown up among the towns that had hidden children from its collectors. Spared-town envoys answered him before the Caleran assembly. They recited the Table Oath their queen had sworn, *no child for the table*, and then read out the names of the Gateway hostage children whom Caleran had killed on its own festival ground in 609 BR to win the Red Star's favour. The answer was remembered in the towns for centuries. It did not stop the war.
+## Velsar and the Salt Field
 
-During the final war, Samyra attempted to preserve her fleet and the resources needed to continue resistance. In one withdrawal, pilots secured a favourable current through a sea bargain involving surrendered cargo and the flooding of a disused galley basin. Officers placed treasure aboard while leaving some wounded people behind. Those abandoned were killed or captured. The successful passage appeared in the royal account without a full account of its human cost.
+Relations with Velsar became essential after his failed campaign of 358. She supplied food, ships and credit in exchange for protection against her neighbours and against Thalion. Their children Talven and Lethia were born in 357 and 354 and joined Amesar in the royal household.
 
-## Death and the children
+In 353 Velsar accepted a Red Field of his own on the salt pans below Sarqen and named Thalion and the admiral Istran Melvo as his enemies. Thalion would not come, and Velsar was bound to the salt with his army. That year Thalion's advocate Corven Ilar called the queen heir of the child-burning city, keeper of Casvilar's murderer and killer of Thalion's wife. Spared-town envoys answered him before the Caleran assembly. They recited the Table Oath their queen had sworn, *no child for the table*, and then read out the names of the Gateway hostage children whom Caleran had killed on its own festival ground in 609 BR to win the Red Star's favour. The answer was remembered in the towns for centuries. It did not stop the war.
 
-Sarqen fell in 350 BR. After Velsar's death, Samyra negotiated for her children and then took her own life before removal to Caleran. The means of her death remained uncertain in the accounts that followed.
+## The Fourth Collection and the basin
 
-Thalion executed Amesar, then about twenty-two, as a possible rival claimant. Talven and Lethia survived and were placed in Evara Thalion's household. Their country's officials and town leaders continued under imperial supervision.
+An army that could not leave its field had to be fed on it. When Melvo closed Sarqen's anchorage in 352, the queen's officers took grain, animals and young men from the towns for the Salt Field, by what each household could be made to give, while the officers' tables on the field stayed full. The towns called it the Fourth Collection, after the collections of Qarzeth. That autumn the carters of Esharat and Belqara found their sealed jars a third empty and the wax bitten from beneath. The towns said the Provider had come back to a table that served by worth.
 
-Samyra's dynasty ended while Sarqen remained a working port. Later royal memories centred on her defence of the country; other family traditions preserved Merath's murder, burdens imposed for war and the people left behind at the sea passage.
+In 351 the queen's pilots secured a current through a sea bargain to take the royal galleys past Melvo's line, at the price of surrendered cargo and a disused galley basin opened to flooding. Places aboard had been assigned to the wounded from the Salt Field, who lay in the basin's sheds. Officers filled those places with the treasury and left the wounded on the quay, where Melvo's landing parties killed or captured them. The royal account described the passage without naming the people left behind. The captives came home the next spring and named them.
+
+## The filled seat and the landing
+
+In the spring of 350 Amesar killed Seneth at the towns' renewal of the oath with the knife he had brought to cut bread. The towns would not harm a son of the house, but they put the house out. When the table was laid again, the queen's seat was filled by Tobal of Hazreth, a rower left on the basin quay. Without the towns Samyra had no grain, no carters and no gates. Amesar fled to sanctuary on Ilamar. Velsar's army melted away, and Melvo killed him on the Salt Field.
+
+When Thalion's ships came to Sarqen that summer, the towns laid the boards at the landing for him, and Samyra walked down from the palace with Talven and Lethia and sat among the carters as a stranger. Thalion had meant to take her to Caleran. He sat three places from her, ate, and swore the oath that forbade him to take her from the table. The kingdom ended, and Sarqen passed under an imperial governor.
+
+## Esharat
+
+Samyra lived the rest of her life at Esharat, in the town of her ancestor Hadrima, as a guest of the towns. She raised Talven and Lethia there and came to the renewal at the landing every spring. For seventeen years she ate at the same boards as the rower she had left on the basin quay. She dictated an account of her reign that praised the towns, named Merath's crimes and passed quickly over the basin. She died at Esharat in 333 BR.
+
+Her memory divided as her reign had. Royal partisans said she had shamed the house by sitting down below a rower. Atherian accounts said she had begged the conqueror for her life. In the towns' songs she was the queen who came home to the table, though the same songs remembered Merath's baby in the grain bin, the Fourth Collection and the men left on the quay.
 
 ## Further reading
 

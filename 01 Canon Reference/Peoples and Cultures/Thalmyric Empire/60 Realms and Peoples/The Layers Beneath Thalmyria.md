@@ -39,7 +39,7 @@ Mountain redoubts, hidden lamp chambers, return forts, siege works, execution pi
 
 ## Sixth Layer: Qarath and Civil War
 
-Abandoned estates, blindings, faction crypts, emergency mints, and fortified monasteries mark the 1214-1225 collapse and its aftermath. On the salt-country road lie the outer wells the Tarkhan companies fouled with carcasses and the sworn well at Qarath itself, its guest-peace cut into the curb in three scripts. In the lost districts, Covenant deed-stones set up after 1215 still stand at field corners beside the niches where district families hung their lamps. These sites are younger but often better armed and more politically dangerous.
+Abandoned estates, burned barns from the Forfeiture of the Drinkers, faction crypts, emergency mints, and fortified monasteries mark the 1214-1225 collapse and its aftermath. On the salt-country road lie the outer wells the Tarkhan companies fouled with carcasses and the sworn well at Qarath itself, its guest-peace cut into the curb in three scripts. In the lost districts, Covenant deed-stones set up after 1215 still stand at field corners beside the niches where district families hung their lamps. These sites are younger but often better armed and more politically dangerous.
 
 ## Antiquities Law
 

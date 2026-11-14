@@ -53,7 +53,7 @@ A crowd stoned him to death the next day. After the reclamation of 957 his words
 
 ## The Last Error
 
-Corvenas ordered public rites and issued written orders for partial mobilisation without choosing one strategy. Written orders could not lawfully move a march. Forces assembled too late and in the wrong districts. The bravest march commanders came anyway, and Covenant courts sat on their empty marches behind them. The empire remained magnificent enough to look permanent until the campaign proved it was not.
+Corvenas ordered public rites and issued written orders for partial mobilisation without choosing one strategy. Written orders could not lawfully move a march. Forces assembled too late and in the wrong districts. The bravest march commanders came anyway, and Covenant courts sat on their empty marches behind them. The empire remained magnificent enough to look permanent until the campaign proved it was not. On the last day of the siege Corvenas carried the Velos Standard onto the land wall and asked the Fire, before both armies, for the answer he had never risked in public; [[01 Canon Reference/History/60 Fall and Successor Empires/The Invasion and the Fall.md|The Invasion and the Fall]] tells what followed.
 
 ## Navigation
 

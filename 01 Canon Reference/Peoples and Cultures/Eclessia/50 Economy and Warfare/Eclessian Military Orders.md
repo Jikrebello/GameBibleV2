@@ -39,7 +39,7 @@ The Vigilant Flame once acted openly against sedition and heresy. Its burnings a
 
 ## Order of the Lantern
 
-Founded by Lord Primarch Celestin IX during the Council of Veridance, the Lantern trains clergy, investigators, teachers, linguists, and field theologians. It carries arms when evidence requires protection but is not principally a knightly order. Father Ivo the Lamed designed it to understand an opponent's doctrine accurately before judging it.
+Chartered by Lord Primarch Celestin IX during the Council of Veridance in 1338, the Lantern began as an outlaw brotherhood: the scattered survivors of Aurelium's Saint-Leon quarter, burned in 1285, who went on singing the dead out for nothing at night and by lantern-light. Their leader, Father Ivo of Saint-Leon, had been carried out of that fire as a child and had studied under Lucian Ferro; the Council needed singers for the Great Arrears and took the brotherhood it had once hunted. The Lantern now trains clergy, investigators, teachers, linguists, and field theologians. It carries arms when evidence requires protection but is not principally a knightly order. Ivo designed it, as Ferro had taught him, to understand an opponent's doctrine accurately before judging it.
 
 ## Confessional Limits
 

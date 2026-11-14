@@ -25,7 +25,7 @@ The real ladder: seven years indentured to the Forgekeepers, the pattern-shops, 
 
 ## The Freeflame Elder (the priest-road, inverted)
 
-No celibate father here: the congregation **tests and elects** its elders — working men and women examined in doctrine and life by neighbors who have known them forty years, unpaid beyond honor, serving beside their trade. Menos is patron; Ansgar's Grievances are read aloud each year on the burning's anniversary; the dead are buried in one equal yard with psalms and no lamp — *the Fire needs no wick of ours* — which visiting old-Church relatives find either heretical or, at certain gravesides, quietly enviable. The elder's hard forks: discipline cases (the congregation judges its own, and small towns make that mercy or that cruelty); and the standing vigilance the Eclipsis have taught them without their knowing why — *jealousy in the doctrine* is the tell they test for, per principles they'd be alarmed to find in an Inquisition manual.
+No celibate father here: the congregation **tests and elects** its elders — working men and women examined in doctrine and life by neighbors who have known them forty years, unpaid beyond honor, serving beside their trade. Menos is patron; Ansgar's Grievances are sung each year on the night the Weiss took the Aldersbruck bridge, the congregation answering *named, not bought*; the dead are buried in one equal yard with psalms and no lamp — *the Fire needs no wick of ours* — which visiting old-Church relatives find either heretical or, at certain gravesides, quietly enviable. The elder's hard forks: discipline cases (the congregation judges its own, and small towns make that mercy or that cruelty); and the standing vigilance the Eclipsis have taught them without their knowing why — *jealousy in the doctrine* is the tell they test for, per principles they'd be alarmed to find in an Inquisition manual.
 
 ## The Grand Ministry Clerk and the Overseer-Noble
 
@@ -33,7 +33,7 @@ The bureaucrat's road runs through the **Council of Iron's** tally-offices: prod
 
 ## The Criminal
 
-Organized crime does poorly (the Syndicate polices its own; the guilds audit; the Under-Ledger's two attempts on the tally-offices ended with cell-names posted on chapel doors, which is Ironvale for excommunication). What thrives: formula-theft (powder secrets both directions), tip-scavenging gangs, wage-paper forgery, and the smuggling of *ideas* — this is where the banned pamphlets get printed, and the pressmen's night-runs are half the east's underground library.
+Organized crime does poorly (the Syndicate polices its own; the guilds audit; the Under-Ledger's two attempts on the tally-offices ended with cell-names chalked on the pithead tally boards, which is Ironvale for excommunication). What thrives: formula-theft (powder secrets both directions), tip-scavenging gangs, wage-paper forgery, and the smuggling of *ideas* — this is where the banned pamphlets get printed, and the pressmen's night-runs are half the east's underground library.
 
 ## The Strange-Dose
 

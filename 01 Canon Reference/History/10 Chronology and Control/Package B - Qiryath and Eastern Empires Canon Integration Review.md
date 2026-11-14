@@ -65,6 +65,19 @@ Serevan's Delkosi kingdom leaves a mixed naval and royal inheritance. House Nere
 > - **Delkos grants** survive into the Eastern Sea Wars; Mazdan Aresh revives one at Tasar in 514.
 > - **Cuts.** Hador's Samson beats, Yedran's Bathsheba frame, the Fosterling and Champion cycles in Vashar, and the template punishments of Mazhara and Rathava are withdrawn. The victims are kept as recorded in [[Authorial Notes from Reader Articles - Ancient East]].
 
+> [!note] Amended 14 November 2026 — Causality Pass 10B1 (Eryndor and the Eastern Sea Wars bent off their analogues)
+> Supersedes the sentences above on Valeron's assassination, Olyssar's motive, Terys, the Qahuri oracle, Kassur's death and burial, the army refusal, the place of Eryndor's death and the murder of Parena and her child. Record and reasons: [[Causality Pass - 10B1 Bending Eryndor and the Eastern Sea Wars]].
+> - **706.** Valeron II is killed at the pay table of the muster camp at Pelatha by men of his own standing infantry when Olyssar's withheld contribution (707) leaves the silver short. Who began it stays protected.
+> - **705–704.** Eryndor hangs eleven ringleaders and pays the rest with Olyssar: blockade, gates opened on terms, treasury short, sack, burning (704), survivors sold against arrears, fields to the infantry companies. Demeran Kavos is left as western regent with the companies and mints.
+> - **697–695.** Terys's offshore sanctuary falls when the besiegers choke its undersea spring and its cisterns fail; massacre and enslavement after the surrender; the spring runs salt thereafter. No causeway.
+> - **695.** One Qahuri crown grants a local title; no oracle and no solar sign. The grain is a loan from Khaseret's House of the Returning Cargo at Qemaret, against the right of her masters to prepare Eryndor's body. Neresh is the House's man in the camp.
+> - **688.** Kassur's portable images begin to answer in Eryndor's voice (the Crowned Countenance follows the bowing); their bearers carry them to Eryndor; two of Kassur's sons die in the scattering. Kassur surrenders to Arezan at Durqesh, seals the Gate House's water books to him and dies a guarded guest at Kavresh c. 676. No murder by a commander, no royal burial by Eryndor.
+> - **687–686.** No army refusal. Eryndor refuses a Root-Mind grove's price, fells it and leaves the cut unused; the wood closes the road behind the army; he cuts his way out, abandoning prisoners, villages and the farther garrisons, which become the farther-eastern Successor. He is wounded. Sky-Lion eggs are stolen in the Ruzhan cliffs and a pride follows the army.
+> - **685.** A restorative seep heals the wound only while he stays; he stays a season with Parena, then leaves. A Jirahar guide is lost in the gorge.
+> - **684.** He dies aboard Serevan's flagship in the roads of Nemeru, waiting to sail home with the Terys families; the final rite is performed in the ship's hold. Serevan sails body, images and Terys families to Delkos. The Voice is unchanged. Demeran kills the half-brother; his agents sent after Parena are hanged at Durqesh. Parena bears **Mehrava** at Kavresh (late spring 684); paternity is disputed in-world and true authorially (conceived at the gorge, late summer 685, before the regimen). Daryav I marries Mehrava c. 668; Kavran I and all later Tiravans descend from her.
+> - **Eastern Sea Wars.** 514 and 513 stand. 508: the Salt Gate quarter opens Tasar for bread; deportees go to the Dawn Road relay stations. 503: siege fever, not a storm, ruins Daryat's voyage; no Cape Saren. 495: the fleet passes the Narrows on the Ilyessan pilots' terms. 493: Xarun claims the sea in his title and anchors the granary fleet; the holds take the tide; subject crews desert to Velathene's refuge fire under Kelarion's Roll; the League takes the transports at anchor. No fleet battle in the channels. 491: Ardash Aresh's price (the Avesh command by family right) and withdrawal. The fixed outcome (Vashar fails to rule the leagues; the League of the Eastern Oar arises) is unchanged.
+> - **Controls.** The Narrows' answer is a tide court of Thalassor's grammar (permitted gift: passage; taboo: calling the sea owned, demanding stillness after a current; failure: pressure and return); the ruling "whether a Menhir response occurred at Ilyessa remains unresolved" is withdrawn under the Consequence Rule. The closing wood follows the Root-Mind taboo. The seep obeys the existing restorative-water control. The images' change of voice is dependent Mask behaviour.
+
 ## Qahur and the Successor inheritance
 
 Qahur remains an independent Orphaned river civilisation. Merod II's grievance follows an intervention already under way and does not make Ashkur's death the cause of all Arqeshite expansion. Eryndor receives a limited Qahuri title and sign from one crown; other crowns resist or wait. Neresh controls selected crown towns for a generation. Native temple, canal and royal houses absorb or expel the Successor garrisons.
@@ -78,6 +91,9 @@ Samyra's four inheritances remain distinct: the spared Gateway towns, Hadrima's 
 The historical campaign includes an undersea observation bell at Terys, a Sky-Lion reconnaissance frame, a speaking Root-Mind grove, a gate closing one local threat and a failed search for restorative Egg White water. Their witnesses and purposes differ. Later traditions combine and transform them.
 
 The existence of the Ortheian, Qahuri, Arqeshite, Vashari, Jirahar and Atherian romance families is canon. No complete literary version serves as a literal chronicle. The king never ascends into Heaven, acquires prophetic status, imprisons every monster or escapes judgement.
+
+> [!note] Amended 14 November 2026 — Causality Pass 10B1
+> The five historical incidents are now: the choked undersea spring at Terys (captured divers drowned in a bell); the stolen Sky-Lion eggs and the pride that followed the army; Kassur's images answering in Eryndor's voice; the Root-Mind grove whose wood closed the road; and the seep that heals only those who stay. The diving-king, griffin-flight, speaking-tree prophecy, cook-and-fish and enclosed-host gate are withdrawn as historical cores; the flight and the king's descent survive only as late Ortheian court embellishments. The army refusal is withdrawn; the cycle's refusal is the spring-keeper's.
 
 ## Identity and supernatural controls
 
@@ -110,6 +126,9 @@ Eryndor remains separate from Teren Casvilar and Aurelius Thalion. Arezan remain
 - the identity of the Terys attacker, the missing water-finder and every actor enclosed by the local gate;
 - the complete borders and dynasties of all Successor states;
 - protected Weirds, true Idol successions and events after 1360 AR.
+
+> [!note] Amended 14 November 2026 — Causality Pass 10B1
+> "The killers and purpose behind Valeron's assassination" becomes: who began the shouting at the Pelatha pay table, and whether anyone paid them. "The exact words and physical form of the Qahuri sign" is withdrawn (no sign); in its place, the full terms of Khaseret's pledge. "Every actor enclosed by the local gate" becomes every person left beyond the closed wood. Added: what struck the divers' bell at Terys; the name and fate of the spring-keeper in the gorge; what Ebris of Ilyessa knew of the tide court she served. Eryndor's cause of death stays protected.
 
 ## Source history
 

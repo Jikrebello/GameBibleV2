@@ -26,7 +26,7 @@ Public worship belonged to each city and its neighbourhoods. Sailors carried rit
 
 ## Distinct coastal cities
 
-Tasar controlled a harbour suited to fleets and long voyages. Its leading houses competed over naval contracts and access to inland grain. Avesh gained influence through markets, skilled interpreters and the roads towards the highlands, and became the seat of Vashar's western road command. Ilyessa held a smaller but strategically useful coast on the Narrows, where local pilots could carry vessels through difficult waters.
+Tasar controlled a harbour suited to fleets and long voyages. Its leading houses competed over naval contracts and access to inland grain. Avesh gained influence through markets, skilled interpreters and the roads towards the highlands, and became the seat of Vashar's western road command. Ilyessa held a smaller but strategically useful coast on the Narrows, where local pilots could carry vessels through difficult waters on terms their families said they kept with the sea.
 
 Each city developed separate festivals, rival families and political interests. Their councils cooperated against piracy or blockade when necessary. They also betrayed one another, seized cargo and invited foreign garrisons during civic struggles. The eastern coast functioned as a connected commercial zone divided among several states and civic populations.
 
@@ -34,7 +34,7 @@ Each city developed separate festivals, rival families and political interests. 
 
 Arqeshite kings sought tribute, ships and harbour access. The Ortheian conquest and Delkosi Successor introduced military settlements and new courts. Vasharan rulers used treaties, hostages and governors to keep roads and ports open. Atherian leagues offered trade and naval assistance while demanding bases and favourable dues.
 
-Local families chose among these powers according to survival and advantage. Some acquired office within an empire. Others organised resistance or changed allegiance when a garrison could no longer be supplied. These decisions divided cities internally.
+Local families chose among these powers according to survival and advantage. Some acquired office within an empire. Others organised resistance or changed allegiance when a garrison could no longer be supplied. These decisions divided cities internally. After 508 BR the rebel quarters of Tasar kept Vasharan relay stations far up the Dawn Road, and their descendants became highland station families who still sang Tasaran harbour songs. In 493 Tasarian, Ilyessan and Aveshi rowers pressed into Xarun's fleet deserted to an Atherian refuge fire at Velathene, and Ilyessan pilot families remember Ebris, drowned for keeping the terms of the Narrows. From 491 the Aresh house held Avesh's road command as a family possession.
 
 By 350 BR Tasarian, Ilyessan and Aveshi identities remained active. Foreign writers often called Atherian-speaking inhabitants Atherian or labelled all royal subjects Vasharan. Neither usage described the full local population.
 

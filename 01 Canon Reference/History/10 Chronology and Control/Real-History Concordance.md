@@ -186,7 +186,7 @@ The governing dynamic is Renaissance Italy crossed with pirate republics, free i
 
 Direct mappings: Fiorenzia/Medori draws from Florence/Medici; Sermora from Venice, Genoa and Caribbean privateer polities; Aversia from Milan under military dynasties; Vorthara from Kaer Maga's anarchic refuge translated through World Egg magic; Castara from Atlantic boom ports and colonial companies; Orsena from Singapore, Ragusa and neutral free ports; Vardessa from Frankfurt, Nuremberg, Swiss free cities and San Marino. The Seven-Seal Muster carries Swiss and defensive-league logic without creating a federal state.
 
-**Nicanor Vetti** carries the Machiavelli function, **Frate Severin** the Savonarola function, and Alessior VI the Borgia function, though the engine of his reign is his treasurer Quarne and the dead paper. The public notes must use native names and institutions rather than these analog labels.
+**Nicanor Vetti** carries the Machiavelli function, **Frate Severin** the Savonarola function, and Alessior II the Borgia function, though the engine of his reign is his treasurer Quarne and the dead paper. The public notes must use native names and institutions rather than these analog labels.
 
 The Golden Book was emptied by the Sweat; the Medori fortune comes from the estates and Sendings of the plague dead and the registers taken in 1296; Severin rises on the 1345 "Bank of the Dead" pamphlet.
 
@@ -228,7 +228,7 @@ The Causality Pass kept its anchors, so these sequences remain recognisable to a
 - Suhrab as Suleiman.
 - Qarath's Well as Manzikert (the blinding of Markellos and his death of the wound stay close to Romanos IV), and Caedros III as Basil II.
 - Strazgorod's four-faith embassy.
-- Alessior VI's name and number.
+- Alessior II's name and number.
 - The Reformation sequence and its figures (Ansgar, Aldersbruck, Ferro, Rainald, the Accord's date and shape).
 - The Fiorenzia sequence: the Medori expelled, Severin's Pyre of Masks, his hanging and burning, and the Medori restored.
 - Meshalem as Sabbatai Zevi.

@@ -4,7 +4,7 @@ status: canon
 canon_level: core
 visibility: author-only
 era: ["Age of the Redeemer", "Underground Centuries", "Conversion of the Empire"]
-region: ["Atherian Empire", "Second Qiryath", "Caleran", "Velos", "Ironvale", "Raveth", "Qabir", "Kellovar"]
+region: ["Atherian Empire", "Second Qiryath", "Migdal Shahar", "Caleran", "Velos", "Ironvale", "Raveth", "Qabir", "Kellovar", "Halmenth"]
 culture: ["Atherian", "Jirahar", "Folk"]
 related_factions: ["Church of the Redeemer", "Star priesthoods", "Atherian Empire"]
 appears_in: []
@@ -13,7 +13,7 @@ tags: [authorial-truth, causality-pass, signs, white-flame]
 ---
 # Signs and Proof — Authorial Truth
 
-The author-only rulings behind the history of 0–411 AR, approved in [[Causality Pass - 04 Who May Authenticate a Sign, 0 to 411 AR|Causality Pass 04]] on 14 November 2026 under the [[Causality Pass - Direction|Direction]]. Reader articles show these truths only through what in-world witnesses saw and claimed. Cross-references: [[White Flame Doctrine]] · [[The Making of Saints]] · [[The Divergence Pass — Torque Register]] · [[The Weird of History — The Unexplained Register]] · [[Authorial Notes from Reader Articles - Redeemer and Conversion]].
+The author-only rulings behind the history of 0–411 AR, approved in [[Causality Pass - 04 Who May Authenticate a Sign, 0 to 411 AR|Causality Pass 04]] on 14 November 2026 under the [[Causality Pass - Direction|Direction]]. The same day [[Causality Pass - 10C Bending Kellovar, Halmenth and the Last Fortress|Pass 10C]] bent five sequences that still followed their analogues: §5 (Tervan's green lamps), §8 (Astrion's death), §9 (Kellovar), §12 (Halmenth) and §15 (the Dawn Tower, new). Reader articles show these truths only through what in-world witnesses saw and claimed. Cross-references: [[White Flame Doctrine]] · [[The Making of Saints]] · [[The Divergence Pass — Torque Register]] · [[The Weird of History — The Unexplained Register]] · [[Authorial Notes from Reader Articles - Redeemer and Conversion]].
 
 ## 1. The Commission Rule and the Crowded Field
 
@@ -70,8 +70,9 @@ No document on the route states a count, and none may be written to.
 
 An **Envy Mask** spread through unpaid eastern garrisons in the arrears after the second Vashar war, promising that comrades who died unpaid were "kept" by lamps over their graves. The lamps leaned towards mourners and burned without oil. The Mask fed on the grievance, and the mutinies drew heat from it. Augurs broke its central image c. 243–244.
 
-- Tervan's Edict of Public Sacrifice (245) answered a real Mask. Its licence for every household's graves and lamps caught the Redeemer burial fraternities.
-- After 248 most congregations relit from a flame never licensed. Amaryah's keepers had hidden her lamp in a covered firepot in a neighbour's bread oven; theirs became the flame everyone sought, and the daughter-flame custom spread from that winter.
+- Tervan's Edict of Public Sacrifice (245) answered a real Mask. It required every household to put out the lamps it kept for its dead in the Star's basin at a market altar and relight them from the college fire, then fed them college oil salted with verdigris scraped from temple bronzes, so that they burned green. Night watches walked the graves for yellow flames. The green is copper and nothing else: no Star put virtue into it, the colleges knew it, and it proved only that a household had bought the oil. Tinkers' *pot-green* matched it exactly, and a Mask can counterfeit any colour. The Kept Lamps' own lamps burned without oil, which is the one thing the edict's oil jars could genuinely expose. The edict caught the Redeemer burial fraternities first and Jirahar graves second.
+- The edict left no certificates. Its records were the college stores' oil books, which listed who bought and so who did not. The reconciliation quarrel after 248 was a quarrel over whom to give fire to (those who went to the altar, those who bought pot-green, those who walked with the watch); *refused fire* is its lasting phrase. No ruling is made on any household's sincerity.
+- After 248 most congregations relit from a flame that had never burned green. Amaryah's keepers had hidden her lamp in a covered firepot in a neighbour's bread oven; theirs became the flame everyone sought, and the daughter-flame custom spread from that winter.
 - **The Temple That Would Not Burn** (Cyrian, c. 246): the commissioners' three burnings were sincere anti-Idol purgations. What preserved the stone is not ruled here and stays open to its three interpretive voices; the authorial position is only that the Kept Lamps Mask had no part in the Cyrian shrine.
 
 ## 6. Ironvale and the Forty Flames (290–291 AR)
@@ -94,6 +95,7 @@ The Velos sign is the Flame's and is permanent. Its ownership is human:
 ## 8. The Two Standards and the East (350–384 AR)
 
 - Astaroth's 350 answer was real and bounded: a structural truth about a loaded standard.
+- **351, the Emperor's Cut.** The timber span over the dry wash had not been loaded before the Red Star. Under the 326 BR rule a work asked to stand without trial is forced to prove itself, and it proved itself under its first heavy load, the wagons of wounded. Astrion stood under it in the opener's place, which kept him clear of the substitution taboo and put him exactly where the failure fell. This is the builders' standing law, morally blind, and not a second answer to his reign: the Torque Register's "once" stands. He did not ask the Star for anything at the wash; the augurs who said he made his body a test of victory were reading their own refusal into it. The field record's question about the register is authentic. "You have won, Carpenter" is a later Church attribution; he did not say it.
 - **Tellan** (Adran's younger son, Astrion's brother) brought water trains bought from the Well-Tarkhan carriers who had kept their contracts, along the eastern depot road, under the bronze standard of the test. The column survived. Tellan never claimed the throne because no second answer came and his augurs said so honestly.
 - **c. 357, the Accord of the Two Standards.** The eastern command kept its revenue share on Sevrin's 316 terms, its augurs and the Answered Standard.
 - **384.** At the decisive crossing the eastern augurs asked the Red Star for terms and got none: there was no field the Star recognised, only a request for victory. Vestian won because the Stars would not answer his enemy, and then the Flame would not answer his law.
@@ -101,9 +103,13 @@ The Velos sign is the Flame's and is permanent. Its ownership is human:
 
 ## 9. The Kellovar Ford (377 AR)
 
-The ford below Kellovar belonged to a Menhir river-court of Hecatara's grammar (tolls, thresholds, the consequence of passage). Its toll was paid in the small iron, bone and hair tokens Folk households carried. Lucar's chaplains had confiscated those tokens as idols, and his officers sold the silver ones. His army crossed unpaid and the river took the crossing; the Folk who had kept their tokens crossed dry.
+The ford below Kellovar belonged to a Menhir river-court of Hecatara's grammar (tolls, thresholds, the consequence of passage), like most fords of the southern rivers. Its toll was paid in the small iron, bone and hair tokens Folk households carried: the household paid the court at the spring offering, and the token marked its bearer as of a paid household. A bearer with a token in hand could lead others across on a rope or a belt. From Cassian's market treaties onwards the southern army crossed behind allied Folk guides for exactly this reason.
 
-The court is morally blind. It exacted without judging. The defeat proves only the ford's law, not the justice of the Folk cause (which was just on other grounds) or Heaven's judgement on Lucar (which this file does not rule). Vestian read it as a judgement on a divided empire; that was his reading.
+- **c. 368–377.** Lucar's chaplains confiscated the guides' and traders' tokens as idols; his officers sold the silver ones. In the winters of 369–371 the forts could not reach the far banks except by bridge. The pledging of one child per household for relief grain, and the sale of some pledged children, were the officers' and stewards' choices. The war of 372–377 was the households' slow escape across the fords on hidden tokens and the forts' hunt for token-carriers.
+- **377.** The households crossed at night on their tokens. The field army followed unpaid behind the chaplains' blessing, which commissioned nothing, and the court took the crossing. Lucar carried a silver token (the Otter house's, taken from a guide in 369) on his horse's breast-strap as a trophy. **He did not know it would carry him.** The court does not ask whose token it is or how it was got; it carried him as of the Otter house. The three days at Cathra's fire, the salt, his true name and his return are true in substance; the offer of kinship and servitude is Folk song and is not ruled. His rearguard killed him on the near bank because they believed he had paid for himself. Who struck first is not ruled.
+- Vestian was recognised at Caleran while Lucar was alive across the river. He did not arrange the killing and was glad of it.
+
+The court is morally blind. It exacted without judging, and it carried the thief dry. The drowning proves only the ford's law, not the justice of the Folk cause (which was just on other grounds) or Heaven's judgement on Lucar (which this file does not rule). Vestian read it as a judgement on a divided empire; that was his reading.
 
 ## 10. The Dissolution and the War of the Two Standards (383–384 AR)
 
@@ -129,7 +135,16 @@ By statute the authentication of signs passed to the bishops of recognised commu
 
 - The Raveth hearing house kept the depositions as a record only; Jirahar courts claimed no jurisdiction over baptised descendants in the maternal line.
 - The crowd that burned it (c. 389) had its own quarrel over rents and debts. The clergy who rallied it wanted the depositions gone. Vestian dropped the rebuilding because rebuilding would restore the record.
-- **Nasriel** (b. c. 362, Qabir): reader by c. 383; kept Qabir's count of the unkindled in 385–388; carried copies to Raveth and was away when it burned; his mother's register was seized in the 390s; ordained c. 394; bishop of Qabir c. 402 over Caleran's objection on grounds of descent; condemned 411.
+- **Nasriel** (b. c. 362, Qabir): reader by c. 383; kept Qabir's count of the unkindled in 385–388; carried copies to Raveth and was away when it burned; his mother's register was seized in the 390s; ordained c. 394; bishop of Qabir c. 402 over Caleran's objection on grounds of descent; condemned 411; escaped Halmenth by Sea Fleet ship; died at Qabir c. 440.
+
+**The Council of Halmenth (411).** Its shape:
+
+- **The money.** The regency's relic exemptions (from 398) needed the claim that a holy object holds the Fire. Nasriel refused to certify relic estates in his province ("another lamp made by hands"). The regents and relic-estate bishops wanted the teaching condemned because it threatened the sale of exemptions. The Christological question was real and the council answered it rightly; the haste and the venue were bought.
+- **The charge.** Nasriel read Qabir's count aloud and asked for Aurelium's sealed register to be opened. Caleran's readers charged him under the Purge commission's edict against publishing an unentered wonder. Legalisation in 292 stopped its use against the congregations' books but never repealed it, and it passed to the bishops with the Deep Register in 383. This is the first use of that edict by bishops. Which district books are missing from Aurelium's register is still not ruled.
+- **The descent canon** (no ordination for a man whose mother's register is kept beside his baptism roll) is prejudice, as above.
+- **The lamps.** Communion was sealed by lighting each assenting see's lamp from a daughter of the Eternal Ember carried from Caleran by warship. Qabir's flame truly descends from Amaryah's lamp by the bread-oven route of 248–249, earlier than Caleran's Ember. Lineage of flame is custody, not grace: neither lamp carries the Fire, and neither church's claim to the older daughter decides anything. The Velians know the second half of that and forget the first.
+- **The escape.** Bishop Ostrel of Halmenth voted with the majority and told his ferry crews nothing; they did it on their own account. The Sea Fleet captains refused the regents' search of their docks.
+- **The outcome.** The regency struck the gateway sees from the roll of recognised communion instead of besieging Qabir. Unrecognised clergy could not certify relics or witness charters, so the condemned cities' land stayed taxable while the rest of the empire's slid into relic estates; the regents protected them as revenue. This is why the Velian cities met the Covenant with intact charters and full granaries (Pass 05's mutual refusal to witness charters begins here), and why the belt's tribute was worth the Banu Mizan's taking. There was no exile beyond the frontier.
 
 ## 13. The Empty Charter's Clause (c. 396 AR)
 
@@ -148,6 +163,15 @@ Each item below is told in reader prose as "the chronicles claim" or with named 
 | **Preacher of the Second Gospel** (GS-02; c. 330–389) | As [[GS-02 - Preacher of the Second Gospel]]. His counter-church's real minor wonders came from hostile powers; "effectiveness proves truth" is the exact error the Commission Rule refutes. He became a live competitor once the colleges fell (383), because his wonders were the only ones not licensed by bishops. | [[The Conversion of the Empire]] |
 | **Coal-Bearer at the False Choir** (OBA-N06; c. 382–391) | As its authorial page. Fits the Profession years. | [[The Conversion of the Empire]] (brief) |
 | **Averted Legion** (c. 150) | **UNRESOLVED**, even here. May be told in reader prose with its factions; never explained. | [[The Ember Underground]] |
+
+## 15. The Dawn Tower (Migdal Shahar, 65–68 AR)
+
+The Tower Revolt's last stronghold was a deep tower on the Dawn Road with a Way-Gate paired to an older tower in Vasharan country where the houses that refused the Qiryath charter had settled (c. 80 BR). Placed here because this file holds the era's authorial truth; the section number keeps older links stable.
+
+- **The siege went down.** The legions took the gatehouse in 65 and spent two years sinking towards the lower city. The engineers' loaded siege frame before a priest of the Red Star was Astaroth's standing practice for siege engineers (Darneth precedent): a field, a load, a price (the frame). The answer was the failure line of the outer gallery roofs, and the engineers' stone dropped them. Astaroth is morally blind; the engineers and the legate chose to drop roofs on refuge halls.
+- **The bench.** The receiving bench's terms (households, no one who had borne arms) were a sincere judgement of danger: Atherian vengeance on Vashar's border and the risk that Vashar would sell the refugees back. Both risks were real; Vashar was in fact asked and refused. Neither the bench nor Eshkar is cleared. Roughly four households in five went through; the exact count is not ruled. Some fighters went as fathers.
+- **The end.** Yaltah bat Ozer broke the scroll-keys before the soldiers reached the chamber. Shahar's gate is closed for want of keys, not silent in the way Qiryath's is; no reader article may treat it as a sign. The legions killed the wounded and the old in the lower halls. The legate's claim that the rebels killed their own is false, and stays a live claim in-world.
+- No ramp, no suicide pact and no speeches. Shahar is the precedent Jirahar gate benches cite for refusing another tower's danger.
 
 ## Navigation
 

@@ -19,7 +19,7 @@ Kedrava is the southern mountain and western outer-coast principality of Aestrin
 
 ## Historical Formation
 
-Kedravan valleys received refugees after Caleran's fall and supplied food, guides, sailors, and militias to the Mountain Rebellion. Their service predates the imperial crown, a fact local assemblies cite whenever Veridun demands more. Kedrava also saved the crown once. At Qarath's Well in 1214 its monastic contingents kept the refuge rule against drinking sworn water and withdrew in order with the wounded while the army that drank was broken. Their commander, Nikandros, came of a Kedravan cadet branch of House Aetherion, and the Kedravan monasteries stood behind him through the civil wars until he was crowned at Virelos in 1225.
+Kedravan valleys received refugees after Caleran's fall and supplied food, guides, sailors, and militias to the Mountain Rebellion. Their service predates the imperial crown, a fact local assemblies cite whenever Veridun demands more. Kedrava also saved the crown once. At Qarath's Well in 1214 its commander, Nikandros, of a Kedravan cadet branch of House Aetherion, read the guest-peace on the well-curb aloud and was overruled; its monastic contingents kept the refuge rule against drinking sworn water and withdrew in order with the wounded while the army that drank was broken. When the court deposed Markellos and seized the drinkers' farms, the Kedravan monasteries sheltered the fallen emperor at Kedra and refused the forfeited land offered to them. They stood behind Nikandros through the civil wars until Markellos poured out the cup at Virelos in 1225 and Nikandros was crowned. Markellos died a monk at Kedra in 1231.
 
 ## Government
 

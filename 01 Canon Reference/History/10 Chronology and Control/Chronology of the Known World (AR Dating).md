@@ -272,7 +272,7 @@ The Long Frontier proper is 612–884 AR; the later entries describe the renewed
 - **c. 1180 AR — ✶ The Walking of the Small.**
 - **1183 / 1204 AR — The definitions concerning the Mother.** The Sanctum dogmatises the **Unkindled Conception** and the **Rising of the Mother**; Veridun rejects the Sanctum's authority to define either doctrine.
 - **c. 1185–1214 AR — The Ransomed Standard,** a company formed to recover bodies and pledged prisoners from ground neither army will enter; its fortunes break at Qarath.
-- **1190–1243 AR — Sultan-Caliph Suhrab the Lawbinder,** a younger son whose jurist's renunciation of the throne the Court of Breaches voids as coerced (1190), after the heir is killed when a stand collapses at the Mazrakan spring fair (1189). The Covenant's apex; the *Ledger of Ledgers*.
+- **1190–1243 AR — Sultan-Caliph Suhrab the Debtor,** a younger son whose jurist's renunciation of the throne the Court of Breaches voids as coerced (1190), after the heir is killed when a stand collapses at the Mazrakan spring fair (1189). The Covenant's apex; the *Ledger of Ledgers*.
 - **c. 1201 AR — The Woman Who Returned the Keys** breaks a Velian amir's siege of a district town and surrenders its keys rather than turn the rescue into a hereditary crown.
 - **c. 1203 AR — A weeping Lady first reported at Bruckmoor;** the first pilgrims are parents of the Walking.
 - **1209–1214 AR — Markellos.** **1212 —** the Court of Breaches offers district families Covenant deeds without levy duty (the Unburdened Deeds).
@@ -297,7 +297,7 @@ The Long Frontier proper is 612–884 AR; the later entries describe the renewed
 ## Reformation and the Present (1290–1360 AR)
 
 - **1279–1352 AR — Doctor Lucian Ferro** systematises the movement: *The Order of the Open Flame*; the Freeflame ecclesiology ("the Lord's Fire keeps no landlord"); sheltered by **Duke Rainald of Ironvale**.
-- **1281–1296 AR — Lord Primarch Alessior VI** (House Malvora, bought with Bartolo Medori's credit). Industrial expansion of **routing assurances** to fund wars and the rebuilding of the Sanctum. **1282 — Silvio Quarne Cardinal-Treasurer:** printed letters, rates by age, blank letters; **1285 — Saint-Leon burned** after a staged apparition; from **c. 1288** unsung letters sold to brokers as **dead paper**. **1296 — Alessior dies; the Medori take the Chancery's master registers as surety.**
+- **1281–1296 AR — Lord Primarch Alessior II** (House Malvora, bought with Bartolo Medori's credit). Industrial expansion of **routing assurances** to fund wars and the rebuilding of the Sanctum. **1282 — Silvio Quarne Cardinal-Treasurer:** printed letters, rates by age, blank letters; **1285 — Saint-Leon burned** after a staged apparition; from **c. 1288** unsung letters sold to brokers as **dead paper**. **1296 — Alessior dies; the Medori take the Chancery's master registers as surety.**
 - **1288–1291 AR — Meshalem the Twice-Turned** proclaims himself the Mesakha and converts under Marzuq I.
 - **1290–1329 AR — Stavren the Patient**; keeps the peace on Sestaran credit and founds the war college at Vatrin c. 1300.
 - **c. 1295 AR — Caedros IV Aetherion born.** The Nikandran restoration line continues through the soldier-prince later called Ash-Blood.

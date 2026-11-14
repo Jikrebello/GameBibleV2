@@ -26,7 +26,7 @@ Duke **Gaius Medori** rules beside the patrician senate. Registered citizen hous
 
 ## Society and Faith
 
-The capital's artists, scholars, factors, guilds, servants, laborers, and migrants depend on contado tenants and estate workers. Old-Church worship is public, splendid, and heavily patronized. In 1345 a Sermoran pamphlet printed the names of Fiorenzian dead whose paid-for Sendings had never been sung, from the Chancery registers in the Medori vault. Frate Severin preached that the Medori held the city's dead in pawn, the city expelled the family and burned its masks and mirrors in the Pyre of Masks, and his rule from 1346 to 1349 proved that Fiorenzian devotion cannot be dismissed as decoration.
+The capital's artists, scholars, factors, guilds, servants, laborers, and migrants depend on contado tenants and estate workers. Old-Church worship is public, splendid, and heavily patronized. In 1345 a Sermoran pamphlet printed the names of Fiorenzian dead whose paid-for Sendings had never been sung, from the Chancery registers in the Medori vault. Frate Severin preached that the Medori held the city's dead in pawn and that the carnival masks had become doors for the Hungers, which are shut by naming, never by fire. The Medori lit the Pyre of Masks against his warning in 1346 and fled with the registers when the crowd turned on them. Severin never held office, but his Long Vigil from 1346 to 1349, when the whole city sang every name it could remember, proved that Fiorenzian devotion cannot be dismissed as decoration. It ended with Severin dead in a mask nobody could lift, and with the senate buying the city's register sheets back by making the ducal chair hereditary in the Medori line.
 
 ## Economy and Defence
 

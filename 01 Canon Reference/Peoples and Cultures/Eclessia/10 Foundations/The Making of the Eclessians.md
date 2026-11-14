@@ -41,14 +41,14 @@ There is no such thing as "an Eclessian" in the same sense that there is an Ätt
 
 ## The Choosing at Strazgorod (1061 AR)
 
-Virelia's conversion is the east's great choosing. **Prince Radomir I of Strazgorod**, first of the royal house, sent sworn envoys to test the four faiths:
+Virelia's conversion began as an errand for fire. Vesari houses kept their gods at the hearth, and a house whose fire died had to relight it from a greater fire or become the client of whoever lent it. When Grass-Tarkhan riders burned the hall of **Prince Radomir I of Strazgorod**, first of the royal house, in 1059, his house-fire went out, and he would be no neighbour's client.
 
-- **The Covenant** they refused: *"Their law is a marvel and a cage; they would hold our souls' names in a vault."*
-- **The Path of the Jirahar** they refused: *"A god who wanders owns no land, and we are a people of land."*
-- **In Veridun's Ember-Cathedral** the lamp they had carried from Strazgorod took the Flame unbidden before witnesses of both churches, and the envoys gave the report every Virelian child still learns: *"We went to see their fire, and it came to see us."*
-- **And the crown chose the Sanctum** — because Makarios the Adamant would not let the envoys' kindled lamp go home, and because the Sanctum offered Lotharic's heiress and western swords against the steppe.
+- **The errand.** Radomir's aunt **Zdena**, the house's fire-keeper, carried the dead lamp west with sworn hearth-envoys to ask for a light from the Ember that had relit Thalmyria in one night.
+- **The refusal.** In Veridun's cathedral in 1061 Patriarch Makarios the Adamant would not lend the Ember to an unbaptised hearth.
+- **The kindling.** While the envoys argued, the cold lamp in Zdena's hands took the Flame, lit by nobody, before witnesses of both churches and a Sanctum examiner who recorded it answering. Makarios held that the Fire had chosen its dwelling and kept the lamp. Zdena's reply is the line every Virelian child still learns: *"It chose my hand. I carried it."*
+- **And the crown chose the Sanctum.** Under Vesari hearth-law a house whose fire burns in another's hall is that hall's client, and Radomir would not be Veridun's man. The Sanctum offered baptism, Lotharic's heiress and western swords against the steppe, and Radomir's new hall was lit from Lotharic's hearth at the wedding.
 
-The twist is permanent — and it burns: **the Virelian Lamp burns in Veridun's cathedral still**, tended as an honored hostage and formally offered home at every Virelian succession election. Virelia's **hierarchy is western; its folk piety is eastern-flavored** — icon-corners in Vesari farmhouses, standing vigils the parish priests pretend are local custom, and a village suspicion that the envoys were right and the prince was clever. Veridun has never stopped reminding Virelia of what its own envoys said. In every succession election there is a whispered "eastern candidate," and the Sanctum makes sure he never wins.
+The twist is permanent, and it burns: **the Virelian Lamp burns in Veridun's cathedral still**, tended by Zdena's descendants as an honoured hostage and formally offered home at every Virelian succession election. Virelia's **hierarchy is western; its folk piety is eastern-flavoured**: icon-corners in Vesari farmhouses, standing vigils the parish priests pretend are local custom, and a village suspicion that the fire-keeper was right and the prince was clever. Veridun has never stopped reminding Virelia whose roof the Fire chose. In every succession election there is a whispered "eastern candidate", and the Sanctum makes sure he never wins.
 
 ## Why This Matters
 

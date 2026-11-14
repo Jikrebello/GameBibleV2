@@ -29,7 +29,7 @@ The plague emptied vineyard villages and shattered parish titles. Surviving work
 
 ## Reformation and Accord
 
-Veridancian scholars circulated Ansgar's arguments even while condemning revolt. The Council of Veridance, 1337-1352, abolished assurances, codified relic tests, rebuilt seminaries, and founded the Order of the Lantern. The Accord fixes the duchy as old-Church territory but cannot prevent its presses from supplying every side.
+Veridancian scholars circulated Ansgar's arguments even while condemning revolt, and the reformers' own order, *The Order of the Open Flame*, was written at the university of Veridance about 1316 by the Sanctum canonist Lucian Ferro as the first half of a refutation he never finished. The Council of Veridance, 1337-1352, sat in the guild-hall at Veridance with Ferro as its unvoting witness; it abolished assurances, codified relic tests, rebuilt seminaries, and chartered the Order of the Lantern from the night-singers of Ferro's student Ivo of Saint-Leon. The Accord fixes the duchy as old-Church territory but cannot prevent its presses from supplying every side.
 
 ## Government and Faith
 

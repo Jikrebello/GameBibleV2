@@ -22,13 +22,13 @@ The demonyms **Tenareti**, **Qemareti** and **Sakhreti** are conventional transl
 
 Tenaret drew wealth from old spillways, cultivated banks and traffic moving between the upper and lower Basin. Households commonly described themselves through the chain of channels and landing places they maintained. Flood work required neighbouring villages to clear silt, mend banks and decide which fields received scarce water. Royal officers could coordinate this labour over a wide district, though they also seized workers for palaces, armies and mortuary estates.
 
-The Senareth and Zaheret houses drew much of their prestige from Tenaret. Service at their courts gave some temple, military and scribal families recognition beyond the middle river. Other communities remembered royal reunification as the arrival of collectors, forced labour gangs and soldiers demanding grain.
+The Senareth and Zaheret houses drew much of their prestige from Tenaret. The House of Zaheret began in 814 BR as a crown of soldier-farmers holding fields that Ithren III had taken from the dead, and Tenareti veterans' families long kept their founders' land tallies beside their household shrines. Service at their courts gave some temple, military and scribal families recognition beyond the middle river. Other communities remembered royal reunification as the arrival of collectors, forced labour gangs and soldiers demanding grain.
 
 ## Qemaret and the lower fan
 
 Qemaret stood among branching waterways, fertile grain districts and routes leading towards the sea. Its boat households, cultivators and merchants depended on constant negotiation over channels and transport. The lower fan received immigrants readily because seasonal work and maritime trade created demand for labour. Residence alone did not confer the standing of a recognised free household. Marriage, manumission, temple admission and service to a district could establish that standing over time.
 
-Qemareti rulers frequently claimed to reunite the Two Reeds from the abundance of the lower country. Their wealth supported temples, craft quarters and fleets. It also financed campaigns against Tenaret and the seizure of workers from defeated districts.
+Qemareti rulers frequently claimed to reunite the Two Reeds from the abundance of the lower country. Their wealth supported temples, craft quarters and fleets, and it was borrowed as readily as it was earned: around 1076 BR the city was taken by the factor of one of its own dead merchants, collecting a royal debt. It also financed campaigns against Tenaret and the seizure of workers from defeated districts.
 
 ## Sakhret and the stone approaches
 

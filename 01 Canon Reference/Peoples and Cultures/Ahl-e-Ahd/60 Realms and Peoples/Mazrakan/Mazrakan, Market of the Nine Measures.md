@@ -20,7 +20,7 @@ Mazrakan stands where Iqashar's paved caravan road reaches the approaches to the
 
 Iqashar chartered Mazrakan in 1067, at the end of its paved caravan road, to turn a burning frontier into a customs post. For a century Grass-Tarkhan riders on hymn-blessed Atherian horses, which do not shy from bound things, had ridden through the Covenant's hound-guarded wells; in the 990s a great mercy tower sent against them proclaimed surrender terms to empty pasture for a season. Iqashar decided the north was cheaper to buy than to beat. At Mazrakan's horse fairs Covenant buyers paid for blessed lines on terms set by Tarkhan houses, and captains hired Tarkhan companies on word-price, because Tarkhan riders refused to place their names in the Vault's custody.
 
-The spring horse fair became the city's great season. In 1189 a viewing stand collapsed during the fair and killed the Qahirid heir, and the next year the Court of Breaches voided the renunciation that had kept his younger brother Suhrab from the throne. The fair still leaves the stand's old place empty.
+The spring horse fair became the city's great season. In 1189 a viewing stand collapsed during the fair and killed the Qahirid heir, and the next year the Court of Breaches voided the renunciation that had kept his younger brother Suhrab from the throne. Suhrab entered the collapse in his *Ledger of Ledgers* as the book of the Stand, with a clause that makes whoever builds a public stand answerable in person for its timber. The fair still leaves the stand's old place empty.
 
 ## Government
 

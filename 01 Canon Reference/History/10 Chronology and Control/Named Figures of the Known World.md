@@ -181,7 +181,7 @@ The people behind the [[Chronology of the Known World (AR Dating)]]. Each entry 
 
 **Sultan-Caliph Khurzad** (r. 1112–1142 AR) — Enforced the Court of Breaches' 1126 ruling for the Southern Houses with mercy towers and lost the War of the Southern Deeds (1131–1139) to Caedros III; his heir died of dysentery in the siege camp in 1135.
 
-**Sultan-Caliph Suhrab the Lawbinder** (r. 1190–1243 AR) — A younger son who had taken the jurist's oath renouncing the throne; the Court of Breaches voided it as coerced after the heir died at the Mazrakan fair in 1189. The apex. Codified the **Ledger of Ledgers**, harmonising every provincial contract code; won the **Battle of Qarath's Well** (1214) and took an emperor captive. Late in his reign he lodged his most gifted son's name in the Deep Vault on the Guard's evidence that the prince had taken soldiers' oaths in his own name; the prince died in the Vault's cloister within the year, and foreign chroniclers recorded an execution. His last book (1243) named the Guard's officer bench a competent witness for the Threshold, and every accession since has been made before it. The dynasty has been living off his capital ever since.
+**Sultan-Caliph Suhrab the Debtor** (r. 1190–1243 AR) — A younger son who had taken the jurist's oath renouncing the throne; the Court of Breaches voided it as coerced after the heir died at the Mazrakan fair in 1189. The apex. Codified the **Ledger of Ledgers**, harmonising every provincial contract code; won the **Battle of Qarath's Well** (1214) and took an emperor captive. Late in his reign he lodged his most gifted son's name in the Deep Vault on the Guard's evidence that the prince had taken soldiers' oaths in his own name; the prince died in the Vault's cloister within the year, and foreign chroniclers recorded an execution. His last book (1243) named the Guard's officer bench a competent witness for the Threshold, and every accession since has been made before it. The dynasty has been living off his capital ever since.
 
 **Sultan-Caliph Tahmur** (r. 1243–1268 AR) — Suhrab's surviving son, the first sovereign to accede before the Guard's officer bench; put down the Pageless Prince (1249–1252) and began paying the Black Wind in 1265.
 
@@ -255,11 +255,11 @@ The people behind the [[Chronology of the Known World (AR Dating)]]. Each entry 
 
 **Lord Primarch Gelasin II** (r. 1242–c. 1266 AR) — Closed the Schism of the Twin Cardinals and reorganised the old assurance letters into the Chancery of Sendings (1252), whose Sending Houses sang named rites for named dead.
 
-**Saint Gerlind of Lindenfurt** (c. 1228–1279 AR) — Miller's daughter who sang the plague dead out for bread (*"the dead are named, not bought"*); acquitted by a relic court in 1266; canonised by Alessior VI, whose Chancery then printed her face on assurance letters. Claimed by the Sanctum and the Freeflame alike. [[The Grey Sweat]]
+**Saint Gerlind of Lindenfurt** (c. 1228–1279 AR) — Miller's daughter who sang the plague dead out for bread (*"the dead are named, not bought"*); acquitted by a relic court in 1266; canonised by Alessior II, whose Chancery then printed her face on assurance letters. Claimed by the Sanctum and the Freeflame alike. [[The Grey Sweat]]
 
-**Lord Primarch Alessior VI** (r. 1281–1296 AR) — A Malvora of Sestara who bought the Primarchy with Bartolo Medori's credit and ruled it like a principality: nepotism, poisonings alleged and probable, and — fatally — the industrial expansion of **routing assurances** to fund his wars and the rebuilding of the Sanctum Divinitatis in monumental splendor. His treasurer Silvio Quarne ran the trade. The direct, proximate cause of the Reformation: Ansgar's grievances name him eleven times.
+**Lord Primarch Alessior II** (r. 1281–1296 AR) — A Malvora of Sestara who bought the Primarchy with Bartolo Medori's credit and ruled it like a principality: nepotism, poisonings alleged and probable, and — fatally — the industrial expansion of **routing assurances** to fund his wars and the rebuilding of the Sanctum Divinitatis in monumental splendor. His treasurer Silvio Quarne ran the trade. The direct, proximate cause of the Reformation: Ansgar's grievances name him eleven times.
 
-**Silvio Quarne, the Bridge-Seller** (c. 1238–1299 AR) — Alessior VI's Cardinal-Treasurer; industrialised the assurance trade, staged the Saint-Leon apparition (1285) and sold unsung letters to brokers as "dead paper". Died in Vorthara; his ledgers vanished.
+**Silvio Quarne, the Bridge-Seller** (c. 1238–1299 AR) — Alessior II's Cardinal-Treasurer; industrialised the assurance trade, staged the Saint-Leon apparition (1285) and sold unsung letters to brokers as "dead paper". Died in Vorthara; his ledgers vanished.
 
 ## The Reformation
 
@@ -275,9 +275,9 @@ The people behind the [[Chronology of the Known World (AR Dating)]]. Each entry 
 
 ## The Sestaran Merchant Age
 
-**Bartolo Medori the Elder** (c. 1215–1301 AR) — The Medori bought their seat in Fiorenzia's Golden Book in 1238, when the Grey Sweat had emptied a third of it. Bartolo built the bank into the peninsula's dominant credit house: he cleared the plague dead's estates, carried Sending payments, bought Alessior VI's Primarchy (1281) and took the Chancery registers as surety (1296). His ledger-maxim “lend to both, collect from the winner” is quoted as cynicism and practiced as policy.
+**Bartolo Medori the Elder** (c. 1215–1301 AR) — The Medori bought their seat in Fiorenzia's Golden Book in 1238, when the Grey Sweat had emptied a third of it. Bartolo built the bank into the peninsula's dominant credit house: he cleared the plague dead's estates, carried Sending payments, bought Alessior II's Primarchy (1281) and took the Chancery registers as surety (1296). His ledger-maxim “lend to both, collect from the winner” is quoted as cynicism and practiced as policy.
 
-**Lauro Medori the Magnificent** (1289–1341 AR) — The patronage apex: academies, galleries, the Fiorenzian flowering — and heir to his grandfather Bartolo's purchase of Alessior VI's Primarchy, which makes the Medori co-authors of the Reformation. The family does not discuss this.
+**Lauro Medori the Magnificent** (1289–1341 AR) — The patronage apex: academies, galleries, the Fiorenzian flowering — and heir to his grandfather Bartolo's purchase of Alessior II's Primarchy, which makes the Medori co-authors of the Reformation. The family does not discuss this.
 
 **Frate Severin of Fiorenzia** (1301–1349 AR) — Flame-preacher who came to power after the Sermoran "Bank of the Dead" pamphlet of 1345 and seized Fiorenzia's soul for four years; his **Pyre of Masks** (1346) burned the vanities of the merchant age in the cathedral square — and witnesses still argue about what they saw standing in that fire. Hanged and burned by a Medori-restored government in 1349. In a world where the Flame is real, the question *was Severin kindled or mad?* has teeth: the Freeflame claim him, the Lantern studies him, Fiorenzia dreams about him.
 
